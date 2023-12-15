@@ -165,7 +165,7 @@ Die Gründung sowie die Satzung oder der Gesellschaftsvertrag des Emittenten mü
 
 # § 2 – Mindestbetrag der Wertpapiere
 
-(1) Der voraussichtliche Kurswert der zuzulassenden Aktien oder, falls seine Schätzung nicht möglich ist, das Eigenkapital der Gesellschaft im Sinne des § 266 Abs. 3 Buchstabe A des Handelsgesetzbuchs, deren Aktien zugelassen werden sollen, muß mindestens 1.250.000 Euro betragen. Dies gilt nicht, wenn Aktien derselben Gattung an dieser Börse bereits zum regulierten Markt zugelassen sind.
+(1) Der voraussichtliche Kurswert der zuzulassenden Aktien oder, falls seine Schätzung nicht möglich ist, das Eigenkapital der Gesellschaft im Sinne des § 266 Abs. 3 Buchstabe A des Handelsgesetzbuchs, deren Aktien zugelassen werden sollen, muß mindestens 1 000 000 Euro betragen. Dies gilt nicht, wenn Aktien derselben Gattung an dieser Börse bereits zum regulierten Markt zugelassen sind.
 
 (2) Für die Zulassung von anderen Wertpapieren als Aktien muß der Gesamtnennbetrag mindestens 250.000 Euro betragen.
 

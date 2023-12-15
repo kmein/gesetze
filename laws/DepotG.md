@@ -3,7 +3,7 @@
  
 # § 1 – Allgemeine Vorschriften
 
-(1) Wertpapiere im Sinne dieses Gesetzes sind Aktien, Kuxe, Zwischenscheine, Zins-, Gewinnanteil- und Erneuerungsscheine, auf den Inhaber lautende oder durch Indossament übertragbare Schuldverschreibungen, ferner andere Wertpapiere, wenn diese vertretbar sind, mit Ausnahme von Banknoten und Papiergeld. Wertpapiere im Sinne dieses Gesetzes sind auch Namensschuldverschreibungen, soweit sie auf den Namen einer Wertpapiersammelbank ausgestellt wurden. Wertpapiere im Sinne dieses Gesetzes sind auch elektronisch begebene Wertpapiere im Sinne des Gesetzes über elektronische Wertpapiere.
+(1) Wertpapiere im Sinne dieses Gesetzes sind Aktien, Kuxe, Zwischenscheine, Zins-, Gewinnanteil- und Erneuerungsscheine, auf den Inhaber lautende oder durch Indossament übertragbare Schuldverschreibungen, ferner andere Wertpapiere, wenn diese vertretbar sind, mit Ausnahme von Banknoten und Papiergeld. Wertpapiere im Sinne dieses Gesetzes sind auch Namensschuldverschreibungen, soweit sie auf den Namen einer Wertpapiersammelbank ausgestellt wurden. Wertpapiere im Sinne dieses Gesetzes sind auch elektronisch begebene, vertretbare Wertpapiere.
 
 (2) Verwahrer im Sinne dieses Gesetzes ist, wem im Betrieb seines Gewerbes Wertpapiere unverschlossen zur Verwahrung anvertraut werden.
 
@@ -83,11 +83,17 @@ ersetzen.
 
 (3) Wird auf Grund der §§ 7 und 8 die Auslieferung von einzelnen Wertpapieren verlangt, so hat der Aussteller die Sammelurkunde insoweit durch einzelne Wertpapiere zu ersetzen, als dies für die Auslieferung erforderlich ist; während des zur Herstellung der einzelnen Wertpapiere erforderlichen Zeitraums darf die Wertpapiersammelbank die Auslieferung verweigern. Ist der Aussteller nach dem zugrunde liegenden Rechtsverhältnis nicht verpflichtet, an die Inhaber der in der Sammelurkunde verbrieften Rechte einzelne Wertpapiere auszugeben, kann auch von der Wertpapiersammelbank die Auslieferung von einzelnen Wertpapieren nicht verlangt werden.
 
-# § 9b – Elektronische Schuldverschreibungen in Sammeleintragung
+# § 9b – Elektronische Wertpapiere in Sammeleintragung
 
-(1) Für elektronisch begebene Schuldverschreibungen auf den Inhaber, die in Form einer Sammeleintragung in einem elektronischen Wertpapierregister eingetragen sind und die vom Verwahrer auf einem Depotkonto des Hinterlegers verbucht werden, gelten die Vorschriften dieses Gesetzes über Sammelverwahrung und Sammelbestandanteile sinngemäß, soweit nicht Absatz 2 etwas anderes bestimmt. Der Verwahrer darf Anteile an der elektronischen Schuldverschreibung in Sammeleintragung auf den von ihm geführten Depotkonten nur bis zur Höhe der auf ihn lautenden Sammeleintragung gutschreiben.
+(1) Für elektronisch begebene Wertpapiere, die in Form einer Sammeleintragung in einem elektronischen Wertpapierregister eingetragen sind und die vom Verwahrer auf einem Depotkonto des Hinterlegers verbucht werden, gelten die Vorschriften dieses Gesetzes über Sammelverwahrung und Sammelbestandanteile sinngemäß, soweit nicht Absatz 2 etwas anderes bestimmt. Der Verwahrer darf Anteile am elektronischen Wertpapier in Sammeleintragung auf den von ihm geführten Depotkonten nur bis zur Höhe der auf ihn lautenden Sammeleintragung gutschreiben.
 
 (2) Wird auf Grund der §§ 7 und 8 die Auslieferung von einzelnen Wertpapieren verlangt, so hat der Verwahrer die Sammeleintragung im Wertpapierregister in Höhe des auf den Hinterleger entfallenden Anteils auf Kosten des Hinterlegers in eine Einzeleintragung überführen zu lassen, wenn nicht in den Emissionsbedingungen anderes geregelt ist.
+
+# § 9c – Elektronische Wertpapiere nach ausländischem Recht
+
+(1) Elektronisch begebene, vertretbare Wertpapiere, die nach ausländischem Recht begeben und von einer Wertpapiersammelbank nach § 5 Absatz 1 zur Sammelverwahrung zugelassen sind, gelten als Sammelbestand. Die Berechtigten an diesen Wertpapieren gelten als Miteigentümer nach Bruchteilen. Die Vorschriften dieses Gesetzes über Sammelverwahrung und Sammelbestandanteile gelten sinngemäß, soweit nicht Absatz 2 etwas anderes bestimmt.
+
+(2) Die §§ 7, 8 und 9a finden keine Anwendung.
 
 # § 10 – Tauschverwahrung
 
@@ -211,7 +217,7 @@ Die Übersendung des Stückeverzeichnisses kann unterbleiben, soweit innerhalb d
 
 (2) Mit der Eintragung des Übertragungsvermerks im Verwahrungsbuch des Kommissionärs geht, soweit der Kommissionär verfügungsberechtigt ist, das Miteigentum auf den Kommittenten über, wenn es nicht nach den Bestimmungen des bürgerlichen Rechts schon früher auf ihn übergegangen ist. Der Kommissionär hat dem Kommittenten die Verschaffung des Miteigentums unverzüglich mitzuteilen.
 
-(3) Kreditinstitute und Kapitalverwaltungsgesellschaften brauchen die Verschaffung des Miteigentums an einem Wertpapiersammelbestand und die Ausführung der Geschäftsbesorgung abweichend von Absatz 2 Satz 2 sowie von den §§ 675 und 666 des Bürgerlichen Gesetzbuchs und von § 384 Abs. 2 des Handelsgesetzbuchs den Kunden erst innerhalb von dreizehn Monaten mitzuteilen, sofern das Miteigentum jeweils auf Grund einer vertraglich vereinbarten gleichbleibenden monatlichen, zweimonatlichen oder vierteljährlichen Zahlung erworben wird und diese Zahlungen jährlich das Dreifache des höchsten Betrags nicht übersteigen, bis zu dem nach dem Fünften Vermögensbildungsgesetz in der jeweils geltenden Fassung vermögenswirksame Leistungen gefördert werden können.
+(3) Kreditinstitute, Wertpapierinstitute und Kapitalverwaltungsgesellschaften brauchen die Verschaffung des Miteigentums an einem Wertpapiersammelbestand und die Ausführung der Geschäftsbesorgung abweichend von Absatz 2 Satz 2 sowie von den §§ 675 und 666 des Bürgerlichen Gesetzbuchs und von § 384 Abs. 2 des Handelsgesetzbuchs den Kunden erst innerhalb von dreizehn Monaten mitzuteilen, sofern das Miteigentum jeweils auf Grund einer vertraglich vereinbarten gleichbleibenden monatlichen, zweimonatlichen oder vierteljährlichen Zahlung erworben wird und diese Zahlungen jährlich das Dreifache des höchsten Betrags nicht übersteigen, bis zu dem nach dem Fünften Vermögensbildungsgesetz in der jeweils geltenden Fassung vermögenswirksame Leistungen gefördert werden können.
 
 # § 25 – Rechte des Kommittenten bei Nichtübersendung des Stückeverzeichnisses
 

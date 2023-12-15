@@ -645,6 +645,10 @@ Für Gemeinden, für die infolge der durch § 558c Absatz 4 Satz 2 des Bürgerli
 
 Die Vorschriften über die Hemmung der Verjährung nach den §§ 204 und 204a Absatz 1 Satz 1 Nummer 3 sowie Absatz 3 und 4 des Bürgerlichen Gesetzbuchs in der ab dem 13. Oktober 2023 geltenden Fassung sind auf die an diesem Tag bestehenden noch nicht verjährten Ansprüche anzuwenden. Für den Zeitraum vor dem 13. Oktober 2023 richtet sich die Hemmung der Verjährung für diese Ansprüche nach den bis zu diesem Tag geltenden Vorschriften des Bürgerlichen Gesetzbuchs. Die Vorschriften über die Hemmung der Verjährung nach § 204a Absatz 1 Satz 1 Nummer 1, 2 und 4 und Satz 2 des Bürgerlichen Gesetzbuchs sind nur auf diejenigen Ansprüche von Verbrauchern anzuwenden, die aufgrund solcher Zuwiderhandlungen eines Unternehmers nach § 2 des Unterlassungsklagengesetzes oder nach § 8 Absatz 1 des Gesetzes gegen den unlauteren Wettbewerb entstanden sind, die nach dem Ablauf des 12. Oktober 2023 begangen wurden. Für Ansprüche, die aufgrund von Zuwiderhandlungen entstanden sind, die ein Unternehmer vor dem 25. Juni 2023 begangen hat, richtet sich die Hemmung der Verjährung unabhängig davon, wann die Ansprüche entstanden sind, nach den vor dem 13. Oktober 2023 geltenden Vorschriften. Die Sätze 2 und 3 gelten entsprechend für die Regelungen über die Hemmung der Verjährung nach § 204a Absatz 2 des Bürgerlichen Gesetzbuchs.
 
+# § 66 – Übergangsvorschrift zum Gesetz zur Finanzierung von zukunftssichernden Investitionen
+
+Auf ein Schuldverhältnis, das vor dem 15. Dezember 2023 entstanden ist, ist § 310 des Bürgerlichen Gesetzesbuchs in der bis einschließlich 14. Dezember 2023 geltenden Fassung weiter anzuwenden.
+
 # § 1 – (weggefallen)
 
 \-

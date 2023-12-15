@@ -461,7 +461,7 @@ Unterabschnitt
 
 Nichtigkeit bestimmter Hauptversammlungsbeschlüsse
 
-§§ 250 - 255
+§§ 250 – 255b
 
  
 
@@ -767,7 +767,9 @@ a) einer Wertpapiersammelbank im Sinne des § 1 Absatz 3 Satz 1 des Depotgesetze
 
 b) einem zugelassenen Zentralverwahrer oder einem anerkannten Drittland-Zentralverwahrer gemäß der Verordnung (EU) Nr. 909/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 zur Verbesserung der Wertpapierlieferungen und -abrechnungen in der Europäischen Union und über Zentralverwahrer sowie zur Änderung der Richtlinien 98/26/EG und 2014/65/EU und der Verordnung (EU) Nr. 236/2012 (ABl. L 257 vom 28.8.2014, S. 1) oder
 
-c) einem sonstigen ausländischen Verwahrer, der die Voraussetzungen des § 5 Absatz 4 Satz 1 des Depotgesetzes erfüllt.
+c) einem sonstigen ausländischen Verwahrer, der die Voraussetzungen des § 5 Absatz 4 Satz 1 des Depotgesetzes erfüllt, oder
+
+3. die Verbriefung ausgeschlossen ist und die Aktie in einem zentralen Wertpapierregister gemäß § 12 des Gesetzes über elektronische Wertpapiere eingetragen wird.
 
 Solange im Fall des Satzes 2 Nummer 2 die Sammelurkunde nicht hinterlegt ist, ist § 67 entsprechend anzuwenden.
 
@@ -779,19 +781,19 @@ Solange im Fall des Satzes 2 Nummer 2 die Sammelurkunde nicht hinterlegt ist, is
 
 (5) In der Satzung kann der Anspruch des Aktionärs auf Verbriefung seines Anteils ausgeschlossen oder eingeschränkt werden.
 
+(6) In der Satzung ist die Verbriefung für solche Aktien auszuschließen, die als elektronische Aktien in einem elektronischen Wertpapierregister eingetragen werden. Die Eintragung in ein Kryptowertpapierregister gemäß § 16 des Gesetzes über elektronische Wertpapiere ist nur zulässig, wenn dies in der Satzung ausdrücklich zugelassen ist.
+
 # § 11 – Aktien besonderer Gattung
 
 Die Aktien können verschiedene Rechte gewähren, namentlich bei der Verteilung des Gewinns und des Gesellschaftsvermögens. Aktien mit gleichen Rechten bilden eine Gattung.
 
-# § 12 – Stimmrecht. Keine Mehrstimmrechte
+# § 12 – Stimmrecht
 
-(1) Jede Aktie gewährt das Stimmrecht. Vorzugsaktien können nach den Vorschriften dieses Gesetzes als Aktien ohne Stimmrecht ausgegeben werden.
-
-(2) Mehrstimmrechte sind unzulässig.
+Jede Aktie gewährt das Stimmrecht. Nach den Vorschriften dieses Gesetzes können Mehrstimmrechtsaktien sowie Vorzugsaktien als Aktien ohne Stimmrecht ausgegeben werden.
 
 # § 13 – Unterzeichnung der Aktien
 
-Zur Unterzeichnung von Aktien und Zwischenscheinen genügt eine vervielfältigte Unterschrift. Die Gültigkeit der Unterzeichnung kann von der Beachtung einer besonderen Form abhängig gemacht werden. Die Formvorschrift muß in der Urkunde enthalten sein.
+Zur Unterzeichnung von Aktien und Zwischenscheinen genügt eine vervielfältigte Unterschrift. Die Gültigkeit der Unterzeichnung kann von der Beachtung einer besonderen Form abhängig gemacht werden. Die Formvorschrift muß in der Urkunde enthalten sein. Bei elektronischen Aktien findet keine Unterzeichnung statt.
 
 # § 14 – Zuständigkeit
 
@@ -1317,7 +1319,7 @@ Für wiederkehrende Leistungen, zu denen Aktionäre nach der Satzung neben den E
 
 # § 67 – Eintragung im Aktienregister
 
-(1) Namensaktien sind unabhängig von einer Verbriefung unter Angabe des Namens, Geburtsdatums und einer Postanschrift sowie einer elektronischen Adresse des Aktionärs sowie der Stückzahl oder der Aktiennummer und bei Nennbetragsaktien des Betrags in das Aktienregister der Gesellschaft einzutragen. Der Aktionär ist verpflichtet, der Gesellschaft die Angaben nach Satz 1 mitzuteilen. Die Satzung kann Näheres dazu bestimmen, unter welchen Voraussetzungen Eintragungen im eigenen Namen für Aktien, die einem anderen gehören, zulässig sind. Aktien, die zu einem inländischen, EU- oder ausländischen Investmentvermögen nach dem Kapitalanlagegesetzbuch gehören, dessen Anteile oder Aktien nicht ausschließlich von professionellen und semiprofessionellen Anlegern gehalten werden, gelten als Aktien des inländischen, EU- oder ausländischen Investmentvermögens, auch wenn sie im Miteigentum der Anleger stehen; verfügt das Investmentvermögen über keine eigene Rechtspersönlichkeit, gelten sie als Aktien der Verwaltungsgesellschaft des Investmentvermögens.
+(1) Namensaktien sind unabhängig von einer Verbriefung unter Angabe des Namens, Geburtsdatums und einer Postanschrift sowie einer elektronischen Adresse des Aktionärs sowie der Stückzahl oder der Aktiennummer und bei Nennbetragsaktien des Betrags in das Aktienregister der Gesellschaft einzutragen. Der Aktionär ist verpflichtet, der Gesellschaft die Angaben nach Satz 1 mitzuteilen. Die Satzung kann Näheres dazu bestimmen, unter welchen Voraussetzungen Eintragungen im eigenen Namen für Aktien, die einem anderen gehören, zulässig sind. Aktien, die zu einem inländischen, EU- oder ausländischen Investmentvermögen nach dem Kapitalanlagegesetzbuch gehören, dessen Anteile oder Aktien nicht ausschließlich von professionellen und semiprofessionellen Anlegern gehalten werden, gelten als Aktien des inländischen, EU- oder ausländischen Investmentvermögens, auch wenn sie im Miteigentum der Anleger stehen; verfügt das Investmentvermögen über keine eigene Rechtspersönlichkeit, gelten sie als Aktien der Verwaltungsgesellschaft des Investmentvermögens. Um die Angaben nach den Sätzen 1 und 2 zu übermitteln, richtet die Gesellschaft zur Ausgabe von elektronischen Aktien in Zusammenarbeit mit der registerführenden Stelle des zentralen Registers gemäß § 12 Absatz 2 des Gesetzes über elektronische Wertpapiere oder des Kryptowertpapierregisters gemäß § 16 Absatz 2 des Gesetzes über elektronische Wertpapiere ein Meldesystem ein.
 
 (2) Im Verhältnis zur Gesellschaft bestehen Rechte und Pflichten aus Aktien nur für und gegen den im Aktienregister Eingetragenen. Jedoch bestehen Stimmrechte aus Eintragungen nicht, die eine nach Absatz 1 Satz 3 bestimmte satzungsmäßige Höchstgrenze überschreiten oder hinsichtlich derer eine satzungsmäßige Pflicht zur Offenlegung, dass die Aktien einem anderen gehören, nicht erfüllt wird. Ferner bestehen Stimmrechte aus Aktien nicht, solange ein Auskunftsverlangen gemäß Absatz 4 Satz 2 nach Fristablauf und Androhung des Stimmrechtsverlustes nicht erfüllt ist.
 
@@ -1810,7 +1812,8 @@ bei Gesellschaften, für die das Mitbestimmungsgesetz gilt, aus Aufsichtsratsmit
 bei Gesellschaften, für die das Montan-Mitbestimmungsgesetz gilt, aus Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer und aus weiteren Mitgliedern,  
 bei Gesellschaften, für die die §§ 5 bis 13 des Mitbestimmungsergänzungsgesetzes gelten, aus Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer und aus einem weiteren Mitglied,  
 bei Gesellschaften, für die das Drittelbeteiligungsgesetz gilt, aus Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer,  
-bei Gesellschaften, für die das Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung vom 21. Dezember 2006 (BGBl. I S. 3332) in der jeweils geltenden Fassung gilt, aus Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer, bei Gesellschaften, für die das Gesetz über die Mitbestimmung der Arbeitnehmer bei grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung vom 4. Januar 2023 (BGBl. 2023 I Nr. 10) in der jeweils geltenden Fassung gilt, aus Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer,  
+bei Gesellschaften, für die das Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung vom 21. Dezember 2006 (BGBl. I S. 3332) in der jeweils geltenden Fassung gilt, aus Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer,  
+bei Gesellschaften, für die das Gesetz über die Mitbestimmung der Arbeitnehmer bei grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung vom 4. Januar 2023 (BGBl. 2023 I Nr. 10) in der jeweils geltenden Fassung gilt, aus Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer,  
 bei den übrigen Gesellschaften nur aus Aufsichtsratsmitgliedern der Aktionäre.
 
 (2) Bei börsennotierten Gesellschaften, für die das Mitbestimmungsgesetz, das Montan-Mitbestimmungsgesetz oder das Mitbestimmungsergänzungsgesetz gilt, setzt sich der Aufsichtsrat zu mindestens 30 Prozent aus Frauen und zu mindestens 30 Prozent aus Männern zusammen. Der Mindestanteil ist vom Aufsichtsrat insgesamt zu erfüllen. Widerspricht die Seite der Anteilseigner- oder Arbeitnehmervertreter auf Grund eines mit Mehrheit gefassten Beschlusses vor der Wahl der Gesamterfüllung gegenüber dem Aufsichtsratsvorsitzenden, so ist der Mindestanteil für diese Wahl von der Seite der Anteilseigner und der Seite der Arbeitnehmer getrennt zu erfüllen. Es ist in allen Fällen auf volle Personenzahlen mathematisch auf- beziehungsweise abzurunden. Verringert sich bei Gesamterfüllung der höhere Frauenanteil einer Seite nachträglich und widerspricht sie nun der Gesamterfüllung, so wird dadurch die Besetzung auf der anderen Seite nicht unwirksam. Eine Wahl der Mitglieder des Aufsichtsrats durch die Hauptversammlung und eine Entsendung in den Aufsichtsrat unter Verstoß gegen das Mindestanteilsgebot ist nichtig. Ist eine Wahl aus anderen Gründen für nichtig erklärt, so verstoßen zwischenzeitlich erfolgte Wahlen insoweit nicht gegen das Mindestanteilsgebot. Auf die Wahl der Aufsichtsratsmitglieder der Arbeitnehmer sind die in Satz 1 genannten Gesetze zur Mitbestimmung anzuwenden.
@@ -2275,7 +2278,7 @@ b) durch Briefwahl oder im Wege der elektronischen Kommunikation gemäß § 118 
 
 (3) Die Satzung kann bestimmen, wie die Berechtigung zur Teilnahme an der Versammlung oder zur Ausübung des Stimmrechts nachzuweisen ist; Absatz 2 Satz 5 gilt in diesem Fall entsprechend.
 
-(4) Bei Inhaberaktien börsennotierter Gesellschaften reicht ein Nachweis gemäß § 67c Absatz 3 aus. Der Nachweis des Anteilsbesitzes nach § 67c Absatz 3 hat sich bei börsennotierten Gesellschaften auf den Beginn des 21. Tages vor der Versammlung zu beziehen und muss der Gesellschaft unter der in der Einberufung hierfür mitgeteilten Adresse mindestens sechs Tage vor der Versammlung zugehen. In der Satzung oder in der Einberufung auf Grund einer Ermächtigung durch die Satzung kann eine kürzere, in Tagen zu bemessende Frist vorgesehen werden. Der Tag des Zugangs ist nicht mitzurechnen. Im Verhältnis zur Gesellschaft gilt für die Teilnahme an der Versammlung oder für die Ausübung des Stimmrechts als Aktionär nur, wer den Nachweis erbracht hat.
+(4) Bei Inhaberaktien börsennotierter Gesellschaften reicht ein Nachweis gemäß § 67c Absatz 3 aus. Der Nachweis des Anteilsbesitzes nach § 67c Absatz 3 hat sich bei börsennotierten Gesellschaften auf den Geschäftsschluss des 22. Tages vor der Versammlung zu beziehen und muss der Gesellschaft unter der in der Einberufung hierfür mitgeteilten Adresse mindestens sechs Tage vor der Versammlung zugehen. In der Satzung oder in der Einberufung auf Grund einer Ermächtigung durch die Satzung kann eine kürzere, in Tagen zu bemessende Frist vorgesehen werden. Der Tag des Zugangs ist nicht mitzurechnen. Im Verhältnis zur Gesellschaft gilt für die Teilnahme an der Versammlung oder für die Ausübung des Stimmrechts als Aktionär nur, wer den Nachweis erbracht hat.
 
 (5) Bei Namensaktien börsennotierter Gesellschaften folgt die Berechtigung zur Teilnahme an der Versammlung oder zur Ausübung des Stimmrechts gemäß § 67 Absatz 2 Satz 1 aus der Eintragung im Aktienregister.
 
@@ -2391,7 +2394,7 @@ Für den Vorschlag eines Aktionärs zur Wahl von Aufsichtsratsmitgliedern oder v
 
 # § 129 – Geschäftsordnung; Verzeichnis der Teilnehmer; Nachweis der Stimmzählung
 
-(1) Die Hauptversammlung kann sich mit einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt, eine Geschäftsordnung mit Regeln für die Vorbereitung und Durchführung der Hauptversammlung geben. In der Hauptversammlung ist ein Verzeichnis der erschienenen oder vertretenen Aktionäre und der Vertreter von Aktionären mit Angabe ihres Namens und Wohnorts sowie bei Nennbetragsaktien des Betrags, bei Stückaktien der Zahl der von jedem vertretenen Aktien unter Angabe ihrer Gattung aufzustellen. Im Fall der virtuellen Hauptversammlung sind die elektronisch zu der Versammlung zugeschalteten oder vertretenen Aktionäre und die elektronisch zu der Versammlung zugeschalteten Vertreter von Aktionären in das Verzeichnis nach Satz 2 aufzunehmen.
+(1) Die Hauptversammlung kann sich mit einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt, eine Geschäftsordnung mit Regeln für die Vorbereitung und Durchführung der Hauptversammlung geben. In der Hauptversammlung ist ein Verzeichnis der erschienenen oder vertretenen Aktionäre und der Vertreter von Aktionären mit Angabe ihres Namens und Wohnorts sowie bei Mehrstimmrechtsaktien die Zahl der auf sie entfallenden Stimmrechte, bei Nennbetragsaktien des Betrags, bei Stückaktien der Zahl der von jedem vertretenen Aktien unter Angabe ihrer Gattung aufzustellen. Im Fall der virtuellen Hauptversammlung sind die elektronisch zu der Versammlung zugeschalteten oder vertretenen Aktionäre und die elektronisch zu der Versammlung zugeschalteten Vertreter von Aktionären in das Verzeichnis nach Satz 2 aufzunehmen.
 
 (2) Sind einem Intermediär oder einer in § 135 Abs. 8 bezeichneten Person Vollmachten zur Ausübung des Stimmrechts erteilt worden und übt der Bevollmächtigte das Stimmrecht im Namen dessen, den es angeht, aus, so sind bei Nennbetragsaktien der Betrag, bei Stückaktien die Zahl und die Gattung der Aktien, für die ihm Vollmachten erteilt worden sind, zur Aufnahme in das Verzeichnis gesondert anzugeben. Die Namen der Aktionäre, welche Vollmachten erteilt haben, brauchen nicht angegeben zu werden.
 
@@ -2409,7 +2412,7 @@ Für den Vorschlag eines Aktionärs zur Wahl von Aufsichtsratsmitgliedern oder v
 
 (2) In der Niederschrift sind der Ort und der Tag der Verhandlung, der Name des Notars sowie die Art und das Ergebnis der Abstimmung und die Feststellung des Vorsitzenden über die Beschlußfassung anzugeben. Bei börsennotierten Gesellschaften umfasst die Feststellung über die Beschlussfassung für jeden Beschluss auch
 
-1. die Zahl der Aktien, für die gültige Stimmen abgegeben wurden,
+1. die Zahl der Aktien, für die gültige Stimmen abgegeben wurden, wobei Mehrstimmrechtsaktien gesondert unter Angabe der auf sie entfallenden Stimmenzahl anzugeben sind,
 
 2. den Anteil des durch die gültigen Stimmen vertretenen Grundkapitals am eingetragenen Grundkapital,
 
@@ -2650,6 +2653,16 @@ vorsehen. Bietet der Intermediär die Stimmrechtsausübung gemäß Satz 4 Nr. 1 
 (9) Die Verpflichtung des Intermediärs, der Stimmrechtsberater sowie der Personen, die sich geschäftsmäßig gegenüber Aktionären zur Ausübung des Stimmrechts in der Hauptversammlung erbieten, zum Ersatz eines aus der Verletzung der Absätze 1 bis 6 entstehenden Schadens kann im Voraus weder ausgeschlossen noch beschränkt werden.
 
 (10) (weggefallen)
+
+# § 135a – Mehrstimmrechtsaktien
+
+(1) Die Satzung kann Namensaktien mit Mehrstimmrechten vorsehen. Die Mehrstimmrechte dürfen höchstens das Zehnfache des Stimmrechts nach § 134 Absatz 1 Satz 1 betragen. Ein Beschluss der Hauptversammlung zur Ausstattung oder Ausgabe von Aktien mit Mehrstimmrechten bedarf der Zustimmung aller betroffenen Aktionäre.
+
+(2) Bei börsennotierten Gesellschaften sowie Gesellschaften, deren Aktien in den Handel im Freiverkehr nach § 48 des Börsengesetzes einbezogen sind, erlöschen die Mehrstimmrechte im Fall der Übertragung der Aktie. Sie erlöschen spätestens zehn Jahre nach Börsennotierung der Gesellschaft oder Einbeziehung der Aktien in den Handel im Freiverkehr, wenn die Satzung keine kürzere Frist vorsieht. Die Frist nach Satz 2 kann in der Satzung um eine bestimmte Frist von bis zu zehn Jahren verlängert werden. Der Beschluss über die Verlängerung darf frühestens ein Jahr vor Ablauf der Frist nach Satz 2 gefasst werden und bedarf einer Mehrheit, die mindestens drei Viertel des bei der Beschlussfassung vertretenen Grundkapitals umfasst. Die Satzung kann eine größere Kapitalmehrheit bestimmen. Sind mehrere Gattungen von stimmberechtigten Aktien vorhanden, so bedarf der Beschluss zu seiner Wirksamkeit der Zustimmung der Aktionäre jeder Gattung. Über die Zustimmung haben die Aktionäre jeder Gattung einen Sonderbeschluss zu fassen. Für diesen gelten die Sätze 4 und 5.
+
+(3) Die Satzung kann weitere Erfordernisse aufstellen.
+
+(4) Bei Beschlüssen nach § 119 Absatz 1 Nummer 5 sowie § 142 Absatz 1 berechtigen Mehrstimmrechtsaktien zu nur einer Stimme.
 
 # § 136 – Ausschluß des Stimmrechts
 
@@ -3124,7 +3137,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (2) Der Vorstand hat den Ausgabebetrag oder die Grundlagen für seine Festlegung und zugleich eine Bezugsfrist gemäß Absatz 1 in den Gesellschaftsblättern bekannt zu machen und gemäß § 67a zu übermitteln. Sind nur die Grundlagen der Festlegung angegeben, so hat er spätestens drei Tage vor Ablauf der Bezugsfrist den Ausgabebetrag in den Gesellschaftsblättern und über ein elektronisches Informationsmedium bekannt zu machen.
 
-(3) Das Bezugsrecht kann ganz oder zum Teil nur im Beschluß über die Erhöhung des Grundkapitals ausgeschlossen werden. In diesem Fall bedarf der Beschluß neben den in Gesetz oder Satzung für die Kapitalerhöhung aufgestellten Erfordernissen einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt. Die Satzung kann eine größere Kapitalmehrheit und weitere Erfordernisse bestimmen. Ein Ausschluß des Bezugsrechts ist insbesondere dann zulässig, wenn die Kapitalerhöhung gegen Bareinlagen zehn vom Hundert des Grundkapitals nicht übersteigt und der Ausgabebetrag den Börsenpreis nicht wesentlich unterschreitet.
+(3) Das Bezugsrecht kann ganz oder zum Teil nur im Beschluß über die Erhöhung des Grundkapitals ausgeschlossen werden. In diesem Fall bedarf der Beschluß neben den in Gesetz oder Satzung für die Kapitalerhöhung aufgestellten Erfordernissen einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt. Die Satzung kann eine größere Kapitalmehrheit und weitere Erfordernisse bestimmen. Ein Ausschluß des Bezugsrechts ist insbesondere dann zulässig, wenn die Kapitalerhöhung gegen Bareinlagen zwanzig vom Hundert des Grundkapitals nicht übersteigt und der Ausgabebetrag den Börsenpreis nicht wesentlich unterschreitet.
 
 (4) Ein Beschluß, durch den das Bezugsrecht ganz oder zum Teil ausgeschlossen wird, darf nur gefaßt werden, wenn die Ausschließung ausdrücklich und ordnungsgemäß bekanntgemacht worden ist. Der Vorstand hat der Hauptversammlung einen schriftlichen Bericht über den Grund für den teilweisen oder vollständigen Ausschluß des Bezugsrechts zugänglich zu machen; in dem Bericht ist der vorgeschlagene Ausgabebetrag zu begründen.
 
@@ -3180,7 +3193,13 @@ Vor der Eintragung der Durchführung der Erhöhung des Grundkapitals können die
 
 3. zur Gewährung von Bezugsrechten an Arbeitnehmer und Mitglieder der Geschäftsführung der Gesellschaft oder eines verbundenen Unternehmens im Wege des Zustimmungs- oder Ermächtigungsbeschlusses.
 
-(3) Der Nennbetrag des bedingten Kapitals darf die Hälfte und der Nennbetrag des nach Absatz 2 Nr. 3 beschlossenen Kapitals den zehnten Teil des Grundkapitals, das zur Zeit der Beschlußfassung über die bedingte Kapitalerhöhung vorhanden ist, nicht übersteigen. § 182 Abs. 1 Satz 5 gilt sinngemäß. Satz 1 gilt nicht für eine bedingte Kapitalerhöhung nach Absatz 2 Nummer 1, die nur zu dem Zweck beschlossen wird, der Gesellschaft einen Umtausch zu ermöglichen, zu dem sie für den Fall ihrer drohenden Zahlungsunfähigkeit oder zum Zweck der Abwendung einer Überschuldung berechtigt ist. Ist die Gesellschaft ein Institut im Sinne des § 1 Absatz 1b des Kreditwesengesetzes, gilt Satz 1 ferner nicht für eine bedingte Kapitalerhöhung nach Absatz 2 Nummer 1, die zu dem Zweck beschlossen wird, der Gesellschaft einen Umtausch zur Erfüllung bankaufsichtsrechtlicher oder zum Zweck der Restrukturierung oder Abwicklung erlassener Anforderungen zu ermöglichen. Eine Anrechnung von bedingtem Kapital, auf das Satz 3 oder Satz 4 Anwendung findet, auf sonstiges bedingtes Kapital erfolgt nicht.
+(3) Der Nennbetrag des bedingten Kapitals darf sechzig vom Hundert und der Nennbetrag des nach
+
+1. Absatz 2 Nummer 1 beschlossenen Kapitals die Hälfte,
+
+2. Absatz 2 Nummer 3 beschlossenen Kapitals zwanzig vom Hundert
+
+des Grundkapitals, das zur Zeit der Beschlussfassung über die bedingte Kapitalerhöhung vorhanden ist, nicht übersteigen. § 182 Abs. 1 Satz 5 gilt sinngemäß. Satz 1 gilt nicht für eine bedingte Kapitalerhöhung nach Absatz 2 Nummer 1, die nur zu dem Zweck beschlossen wird, der Gesellschaft einen Umtausch zu ermöglichen, zu dem sie für den Fall ihrer drohenden Zahlungsunfähigkeit oder zum Zweck der Abwendung einer Überschuldung berechtigt ist. Ist die Gesellschaft ein Institut im Sinne des § 1 Absatz 1b des Kreditwesengesetzes, gilt Satz 1 ferner nicht für eine bedingte Kapitalerhöhung nach Absatz 2 Nummer 1, die zu dem Zweck beschlossen wird, der Gesellschaft einen Umtausch zur Erfüllung bankaufsichtsrechtlicher oder zum Zweck der Restrukturierung oder Abwicklung erlassener Anforderungen zu ermöglichen. Eine Anrechnung von bedingtem Kapital, auf das Satz 3 oder Satz 4 Anwendung findet, auf sonstiges bedingtes Kapital erfolgt nicht.
 
 (4) Ein Beschluß der Hauptversammlung, der dem Beschluß über die bedingte Kapitalerhöhung entgegensteht, ist nichtig.
 
@@ -3266,7 +3285,7 @@ Mit der Ausgabe der Bezugsaktien ist das Grundkapital erhöht.
 
 # § 202 – Voraussetzungen
 
-(1) Die Satzung kann den Vorstand für höchstens fünf Jahre nach Eintragung der Gesellschaft ermächtigen, das Grundkapital bis zu einem bestimmten Nennbetrag (genehmigtes Kapital) durch Ausgabe neuer Aktien gegen Einlagen zu erhöhen.
+(1) Die Satzung kann den Vorstand für höchstens fünf Jahre nach Eintragung der Gesellschaft ermächtigen, das Grundkapital bis zu einem bestimmten Nennbetrag (genehmigtes Kapital) durch Ausgabe neuer Aktien gegen Einlagen zu erhöhen. Die Ausgabe von Mehrstimmrechtsaktien kann nicht vorgesehen werden.
 
 (2) Die Ermächtigung kann auch durch Satzungsänderung für höchstens fünf Jahre nach Eintragung der Satzungsänderung erteilt werden. Der Beschluß der Hauptversammlung bedarf einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt. Die Satzung kann eine größere Kapitalmehrheit und weitere Erfordernisse bestimmen. § 182 Abs. 2 gilt.
 
@@ -3738,11 +3757,77 @@ Wird der Anfechtungsprozess beendet, hat die börsennotierte Gesellschaft die Ve
 
 # § 255 – Anfechtung der Kapitalerhöhung gegen Einlagen
 
-(1) Der Beschluß über eine Kapitalerhöhung gegen Einlagen kann nach § 243 angefochten werden.
+(1) Der Beschluß über eine Kapitalerhöhung gegen Einlagen kann nach § 243 angefochten werden, soweit sich aus den Absätzen 4 bis 7 nicht ein anderes ergibt.
 
-(2) Die Anfechtung kann, wenn das Bezugsrecht der Aktionäre ganz oder zum Teil ausgeschlossen worden ist, auch darauf gestützt werden, daß der sich aus dem Erhöhungsbeschluß ergebende Ausgabebetrag oder der Mindestbetrag, unter dem die neuen Aktien nicht ausgegeben werden sollen, unangemessen niedrig ist. Dies gilt nicht, wenn die neuen Aktien von einem Dritten mit der Verpflichtung übernommen werden sollen, sie den Aktionären zum Bezug anzubieten.
+(2) Die Anfechtung kann nicht auf § 243 Absatz 2 oder darauf gestützt werden, dass der auf eine Aktie entfallende Wert der Einlage unangemessen niedrig ist.
 
 (3) Für die Anfechtung gelten die §§ 244 bis 248a.
+
+(4) Ist das Bezugsrecht in anderer Weise als nach § 186 Absatz 3 Satz 4 ganz oder zum Teil ausgeschlossen und ist der auf eine Aktie entfallende Wert der Einlage unangemessen niedrig, so kann jeder Aktionär, dessen Recht, gegen die Wirksamkeit des Kapitalerhöhungsbeschlusses Klage zu erheben, nach Absatz 2 ausgeschlossen ist, unbeschadet der §§ 255a und 255b von der Gesellschaft einen Ausgleich durch bare Ausgleichszahlung verlangen, soweit sein Bezugsrecht ausgeschlossen ist.
+
+(5) Bei börsennotierten Gesellschaften entspricht der Wert der gewährten Aktien ihrem Börsenkurs. Unterschreitet der Ausgabebetrag den Börsenkurs nicht wesentlich, so entfällt der Anspruch auf Ausgleichszahlung nach Absatz 4 Satz 2. Der Börsenkurs ist nicht allein maßgebend, wenn
+
+1. die Aktiengesellschaft entgegen Artikel 17 Absatz 1 der Verordnung (EU) Nr. 596/2014 oder einer entsprechenden Vorschrift des anwendbaren ausländischen Rechts eine Insiderinformation, die sie unmittelbar betrifft, nicht so bald wie möglich veröffentlicht oder in einer Mitteilung nach Artikel 17 Absatz 1 der Verordnung (EU) Nr. 596/2014 oder einer entsprechenden Vorschrift des anwendbaren ausländischen Rechts eine unwahre Insiderinformation, die sie unmittelbar betrifft, veröffentlicht oder
+
+2. ein Verstoß gegen das Verbot der Marktmanipulation nach Artikel 15 der Verordnung (EU) Nr. 596/2014 vorliegt, der den Börsenkurs beeinflusst hat oder hierzu geeignet war oder
+
+3. für die Aktien der Aktiengesellschaft während der letzten drei Monate vor Ablauf des der Entscheidung über die Ausgabe der neuen Aktien vorausgehenden Tages an weniger als einem Drittel der Börsentage Börsenkurse festgestellt wurden und mehrere nacheinander festgestellte Börsenkurse um mehr als 5 Prozent voneinander abweichen.
+
+Für die Berechnung des Börsenkurses ist § 5 Absatz 1 bis 3 der WpÜG-Angebotsverordnung entsprechend anzuwenden mit der Maßgabe, dass anstelle der Veröffentlichung nach § 10 Absatz 1 Satz 1 oder § 35 Absatz 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes der Ablauf des der Entscheidung über die Ausgabe der neuen Aktien vorausgehenden Tages tritt. Ist der Börsenkurs an diesem Tag niedriger, ist dieser Börsenkurs maßgeblich. Satz 3 Nummer 1 und 2 ist nicht anzuwenden, sofern der Verstoß oder die Manipulation keine oder nur unwesentliche Auswirkungen auf den nach Satz 4 errechneten Kurs hatten.
+
+(6) Die Ausgleichszahlung ist nach Ablauf des Tages, an dem die Eintragung der Durchführung der Kapitalerhöhung erfolgt ist, mit jährlich 5 Prozentpunkten über dem jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen. Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
+
+(7) Die Ausgleichszahlung wird auf Antrag durch das Gericht nach den Vorschriften des Spruchverfahrensgesetzes bestimmt.
+
+# § 255a – Gewährung zusätzlicher Aktien
+
+(1) Im Beschluss über die Kapitalerhöhung kann bestimmt werden, dass anstelle einer baren Ausgleichszahlung (§ 255 Absatz 4) zusätzliche Aktien der Gesellschaft gewährt werden. § 72a Absatz 1 Satz 2 des Umwandlungsgesetzes findet entsprechende Anwendung.
+
+(2) Neue Aktien, die nach Eintragung der Kapitalerhöhung im Rahmen einer weiteren Kapitalerhöhung aus Gesellschaftsmitteln auf Grund eines unangemessenen Wertes der Einlage nicht gewährt wurden, und nach Eintragung der Kapitalerhöhung erfolgte Kapitalherabsetzungen ohne Rückzahlung von Teilen des Grundkapitals sind bei dem Anspruch auf Gewährung zusätzlicher Aktien zu berücksichtigen. Bezugsrechte, die den anspruchsberechtigten Aktionären bei einer nach Eintragung der Kapitalerhöhung erfolgten weiteren Kapitalerhöhung gegen Einlagen auf Grund einer unangemessen niedrigen Einlage nicht zustanden, sind ihnen nachträglich einzuräumen. Die anspruchsberechtigten Aktionäre müssen ihr Bezugsrecht nach Satz 2 gegenüber der Gesellschaft binnen eines Monats nach Eintritt der Rechtskraft der Entscheidung des Gerichts (§ 11 Absatz 1 des Spruchverfahrensgesetzes) ausüben.
+
+(3) Anstelle zusätzlicher Aktien ist den anspruchsberechtigten Aktionären Ausgleich durch eine bare Zuzahlung gemäß § 255 Absatz 4 bis 7 zu gewähren,
+
+1. um Spitzenbeträge auszugleichen oder
+
+2. wenn die Gewährung zusätzlicher Aktien unmöglich geworden ist.
+
+(4) Anstelle zusätzlicher Aktien ist denjenigen Aktionären, die anlässlich einer nach Eintragung der Kapitalerhöhung erfolgten strukturverändernden Maßnahme aus der Gesellschaft ausgeschieden sind, eine Entschädigung in Geld unter Berücksichtigung der von der Gesellschaft zu gewährenden Abfindung zu leisten.
+
+(5) Zusätzlich zur Gewährung zusätzlicher Aktien ist den anspruchsberechtigten Aktionären eine Entschädigung in Geld zu leisten für Gewinne oder einen angemessenen Ausgleich gemäß § 304 des Aktiengesetzes, soweit diese auf Grund einer unangemessenen niedrigen Einlage nicht ausgeschüttet oder geleistet worden sind.
+
+(6) § 255 Absatz 5 bis 7 ist mit Ausnahme von Absatz 6 Satz 1 entsprechend anzuwenden. Ansprüche auf eine Entschädigung in Geld gemäß den Absätzen 3 und 4 sind gemäß § 255 Absatz 6 Satz 1 ab dem Zeitpunkt zu verzinsen, zu dem die Abfindung oder der Anspruch auf Gewinnausschüttung oder die wiederkehrende Leistung fällig geworden wäre. In den Fällen des § 255b endet der Zinslauf, sobald der Treuhänder gemäß § 255b Absatz 3 die Aktien, die bare Zuzahlung oder die Entschädigung in Geld empfangen hat.
+
+(7) Das Risiko der Beschaffung der zusätzlich zu gewährenden Aktien trägt die Gesellschaft.
+
+# § 255b – Kapitalerhöhung zur Gewährung zusätzlicher Aktien
+
+(1) Die gemäß § 255a Absatz 1 sowie Absatz 2 Satz 1 zusätzlich zu gewährenden Aktien können nach Maßgabe dieses Absatzes und der Absätze 2 bis 4 durch eine weitere Kapitalerhöhung gegen Sacheinlage geschaffen werden. Gegenstand der Sacheinlage ist der Anspruch der anspruchsberechtigten Aktionäre auf Gewährung zusätzlicher Aktien, der durch gerichtliche Entscheidung (§ 11 Absatz 1 des Spruchverfahrensgesetzes) oder gerichtlichen Vergleich (§ 11 Absatz 2 bis 4 des Spruchverfahrensgesetzes) festgestellt wurde; der Anspruch erlischt mit Eintragung der Durchführung der weiteren Kapitalerhöhung (§ 189 dieses Gesetzes). Wird der Anspruch durch gerichtliche Entscheidung (§ 11 Absatz 1 des Spruchverfahrensgesetzes) festgestellt, kann die Sacheinlage nicht geleistet werden, bevor die Rechtskraft eingetreten ist.
+
+(2) Anstelle der Festsetzungen nach § 183 Absatz 1 Satz 1 und § 205 Absatz 2 Satz 1 genügt
+
+1. die Bestimmung, dass die auf Grund der zu bezeichnenden gerichtlichen Entscheidung oder des zu bezeichnenden gerichtlich protokollierten Vergleichs festgestellten Ansprüche der anspruchsberechtigten Aktionäre auf Gewährung zusätzlicher Aktien eingebracht werden, sowie
+
+2. die Angabe des auf Grund der gerichtlichen Entscheidung oder des Vergleichs zu gewährenden Nennbetrags, bei Stückaktien die Zahl der zu gewährenden Aktien.
+
+§ 182 Absatz 4 sowie die §§ 186, 187 und 203 Absatz 3 sind nicht anzuwenden.
+
+(3) Die Gesellschaft hat einen Treuhänder zu bestellen. Dieser ist ermächtigt, im eigenen Namen
+
+1. die Ansprüche auf Gewährung zusätzlicher Aktien an die Gesellschaft abzutreten,
+
+2. die zusätzlich zu gewährenden Aktien zu zeichnen,
+
+3. die gemäß § 255a zusätzlich zu gewährenden Aktien, baren Zuzahlungen und Entschädigungen in Geld in Empfang zu nehmen sowie
+
+4. alle von den anspruchsberechtigten Aktionären abzugebenden Erklärungen abzugeben, soweit diese für den Erwerb der Aktien erforderlich sind.
+
+§ 35 Absatz 3 ist entsprechend anzuwenden.
+
+(4) Den Anmeldungen nach den §§ 184 und 188 ist in Ausfertigung oder öffentlich beglaubigter Abschrift die gerichtliche Entscheidung oder der gerichtlich protokollierte Vergleich, aus der oder dem sich der zusätzlich zu gewährende Nennbetrag oder bei Stückaktien die Zahl der zusätzlich zu gewährenden Aktien ergibt, beizufügen. § 188 Absatz 3 Nummer 2 ist nicht anzuwenden.
+
+(5) § 182 Absatz 4 sowie die §§ 186, 187 und 203 Absatz 3 sind nicht anzuwenden auf Kapitalerhöhungen, die durchgeführt werden, um zusätzliche Aktien auf Grund gemäß § 255a Absatz 2 Satz 3 ausgeübter Bezugsrechte zu gewähren.
+
+(6) Für den Beschluss über die Kapitalerhöhung nach Absatz 1 gilt § 255 Absatz 2 entsprechend.
 
 # § 256 – Nichtigkeit
 

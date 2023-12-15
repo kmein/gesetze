@@ -485,16 +485,16 @@ e) das Bundeszentralamt für Steuern dem Erwerber im Sinne des Satzes 1 Buchstab
 
 71. der aus einer öffentlichen Kasse gezahlte Zuschuss
 
-a) für den Erwerb eines Anteils an einer Kapitalgesellschaft in Höhe von bis zu 20 Prozent der Anschaffungskosten, höchstens jedoch 100 000 Euro. Voraussetzung ist, dass
+a) für den Erwerb eines Anteils an einer Kapitalgesellschaft oder einer eingetragenen Genossenschaft in Höhe von bis zu 25 Prozent der Anschaffungskosten, höchstens jedoch 100 000 Euro. Voraussetzung ist, dass
 
 aa)  
-der Anteil an der Kapitalgesellschaft länger als drei Jahre gehalten wird,
+der Anteil an der Kapitalgesellschaft oder der eingetragenen Genossenschaft länger als drei Jahre gehalten wird,
 
 bb)  
-die Kapitalgesellschaft, deren Anteil erworben wird,
+die Kapitalgesellschaft oder die eingetragene Genossenschaft, deren Anteil erworben wird,
 
 aaa)  
-nicht älter ist als sieben Jahre, wobei das Datum der Eintragung der Gesellschaft in das Handelsregister maßgeblich ist,
+nicht älter ist als sieben Jahre, wobei das Datum der Eintragung der Gesellschaft in das Handelsregister oder in das Genossenschaftsregister maßgeblich ist,
 
 bbb)  
 weniger als 50 Mitarbeiter (Vollzeitäquivalente) hat,
@@ -509,7 +509,7 @@ cc) der Zuschussempfänger das 18. Lebensjahr vollendet hat oder eine GmbH oder 
 dd)  
 für den Erwerb des Anteils kein Fremdkapital eingesetzt wird. Wird der Anteil von einer GmbH oder Unternehmergesellschaft im Sinne von Doppelbuchstabe cc erworben, gehören auch solche Darlehen zum Fremdkapital, die der GmbH oder Unternehmergesellschaft von ihren Anteilseignern gewährt werden und die von der GmbH oder Unternehmergesellschaft zum Erwerb des Anteils eingesetzt werden.
 
-b) anlässlich der Veräußerung eines Anteils an einer Kapitalgesellschaft im Sinne von Buchstabe a in Höhe von 25 Prozent des Veräußerungsgewinns, wenn
+b) anlässlich der Veräußerung eines Anteils an einer Kapitalgesellschaft oder an einer eingetragenen Genossenschaft im Sinne von Buchstabe a in Höhe von 25 Prozent des Veräußerungsgewinns, wenn
 
 aa)  
 der Veräußerer eine natürliche Person ist,
@@ -523,7 +523,7 @@ dd)
 der Veräußerungsgewinn nach Satz 2 mindestens 2 000 Euro beträgt und
 
 ee)  
-der Zuschuss auf 80 Prozent der Anschaffungskosten begrenzt ist.
+der Zuschuss auf 25 Prozent der Anschaffungskosten begrenzt ist.
 
 Veräußerungsgewinn im Sinne von Satz 1 ist der Betrag, um den der Veräußerungspreis die Anschaffungskosten einschließlich eines gezahlten Agios übersteigt. Erwerbsneben- und Veräußerungskosten sind nicht zu berücksichtigen;
 
@@ -4757,15 +4757,25 @@ dem Betriebsstättenfinanzamt unverzüglich anzuzeigen. ²Das Finanzamt hat die 
 
 1. Kapitalerträgen im Sinne des § 20 Absatz 1 Nummer 1, soweit diese nicht nachfolgend in Nummer 1a gesondert genannt sind, und Kapitalerträgen im Sinne des § 20 Absatz 1 Nummer 2. ²Entsprechendes gilt für Kapitalerträge im Sinne des § 20 Absatz 2 Satz 1 Nummer 2 Buchstabe a und Nummer 2 Satz 2;
 
-1a. Kapitalerträgen im Sinne des § 20 Absatz 1 Nummer 1 aus Aktien und Genussscheinen, die entweder gemäß § 5 des Depotgesetzes zur Sammelverwahrung durch eine Wertpapiersammelbank zugelassen sind und dieser zur Sammelverwahrung im Inland anvertraut wurden, bei denen eine Sonderverwahrung gemäß § 2 Satz 1 des Depotgesetzes erfolgt oder bei denen die Erträge gegen Aushändigung der Dividendenscheine oder sonstigen Erträgnisscheine ausgezahlt oder gutgeschrieben werden;
+1a. Kapitalerträgen im Sinne des § 20 Absatz 1 Nummer 1 aus Aktien und Genussscheinen,
+
+a) die gemäß § 5 des Depotgesetzes zur Sammelverwahrung durch eine Wertpapiersammelbank zugelassen sind und dieser zur Sammelverwahrung im Inland anvertraut wurden,
+
+b) bei denen eine Sonderverwahrung gemäß § 2 Satz 1 des Depotgesetzes erfolgt,
+
+c) bei denen die Erträge gegen Aushändigung der Dividendenscheine oder sonstiger Erträgnisscheine ausgezahlt oder gutgeschrieben werden oder
+
+d) die in ein elektronisches Wertpapierregister im Sinne des § 4 Absatz 1 des Gesetzes über elektronische Wertpapiere eingetragen sind;
 
 2. Zinsen aus Teilschuldverschreibungen, bei denen neben der festen Verzinsung ein Recht auf Umtausch in Gesellschaftsanteile (Wandelanleihen) oder eine Zusatzverzinsung, die sich nach der Höhe der Gewinnausschüttungen des Schuldners richtet (Gewinnobligationen), eingeräumt ist, und Zinsen aus Genussrechten, die nicht in § 20 Absatz 1 Nummer 1 genannt sind. ²Zu den Gewinnobligationen gehören nicht solche Teilschuldverschreibungen, bei denen der Zinsfuß nur vorübergehend herabgesetzt und gleichzeitig eine von dem jeweiligen Gewinnergebnis des Unternehmens abhängige Zusatzverzinsung bis zur Höhe des ursprünglichen Zinsfußes festgelegt worden ist. ³Zu den Kapitalerträgen im Sinne des Satzes 1 gehören nicht die Bundesbankgenussrechte im Sinne des § 3 Absatz 1 des Gesetzes über die Liquidation der Deutschen Reichsbank und der Deutschen Golddiskontbank in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7620-6, veröffentlichten bereinigten Fassung, das zuletzt durch das Gesetz vom 17. Dezember 1975 (BGBl. I S. 3123) geändert worden ist. ⁴Beim Steuerabzug auf Kapitalerträge sind die für den Steuerabzug nach Nummer 1a geltenden Vorschriften entsprechend anzuwenden, wenn
 
 a) die Teilschuldverschreibungen und Genussrechte gemäß § 5 des Depotgesetzes zur Sammelverwahrung durch eine Wertpapiersammelbank zugelassen sind und dieser zur Sammelverwahrung im Inland anvertraut wurden,
 
-b) die Teilschuldverschreibungen und Genussrechte gemäß § 2 Satz 1 des Depotgesetzes gesondert aufbewahrt werden oder
+b) die Teilschuldverschreibungen und Genussrechte gemäß § 2 Satz 1 des Depotgesetzes gesondert aufbewahrt werden,
 
-c) die Erträge der Teilschuldverschreibungen und Genussrechte gegen Aushändigung der Erträgnisscheine ausgezahlt oder gutgeschrieben werden;
+c) die Erträge der Teilschuldverschreibungen und Genussrechte gegen Aushändigung der Erträgnisscheine ausgezahlt oder gutgeschrieben werden oder
+
+d) die Teilschuldverschreibungen in ein elektronisches Wertpapierregister im Sinne des § 4 Absatz 1 des Gesetzes über elektronische Wertpapiere eingetragen sind;
 
 3. Kapitalerträgen im Sinne des § 20 Absatz 1 Nummer 4, außer bei Kapitalerträgen im Sinne der Nummer 8a;
 
@@ -4915,13 +4925,19 @@ a) das inländische Kredit-, Finanzdienstleistungs- oder Wertpapierinstitut im S
 
 b) die Wertpapiersammelbank, der die Anteile zur Sammelverwahrung anvertraut wurden, wenn sie die Kapitalerträge an eine ausländische Stelle auszahlt,
 
-c) der Schuldner der Kapitalerträge, soweit die Wertpapiersammelbank, der die Anteile zur Sammelverwahrung anvertraut wurden, keine Dividendenregulierung vornimmt; die Wertpapiersammelbank hat dem Schuldner der Kapitalerträge den Umfang der Bestände ohne Dividendenregulierung mitzuteilen,
+c) der Schuldner der Kapitalerträge,
+
+aa)  
+soweit die Wertpapiersammelbank, der die Anteile zur Sammelverwahrung anvertraut wurden, keine Dividendenregulierung vornimmt; die Wertpapiersammelbank hat dem Schuldner der Kapitalerträge den Umfang der Bestände ohne Dividendenregulierung mitzuteilen,
+
+bb)  
+soweit im Fall elektronischer Aktien die registerführende Stelle gemäß § 12 Absatz 2 oder § 16 Absatz 2 des Gesetzes über elektronische Wertpapiere, die das Register führt, in das die Aktien eingetragen sind, keine Dividendenregulierung vornimmt; die registerführende Stelle hat dem Schuldner der Kapitalerträge den Umfang der Bestände ohne Dividendenregulierung mitzuteilen;
 
 4. in den Fällen des § 43 Absatz 1 Satz 1 Nummer 5, soweit es sich um die Vorabpauschale nach § 16 Absatz 1 Nummer 2 des Investmentsteuergesetzes handelt, das inländische Kredit-, Finanzdienstleistungs- oder Wertpapierinstitut im Sinne des § 43 Absatz 1 Satz 1 Nummer 7 Buchstabe b, welches die Anteile an dem Investmentfonds im Sinne des Investmentsteuergesetzes verwahrt oder verwaltet;
 
 5. in den Fällen des § 43 Absatz 1 Satz 1 Nummer 5 der Investmentfonds, wenn es sich um Kapitalerträge aus Anteilen an inländischen Investmentfonds handelt, die nicht von einem inländischen oder ausländischen Kredit-, Finanzdienstleistungs- oder Wertpapierinstitut im Sinne des § 43 Absatz 1 Satz 1 Nummer 7 Buchstabe b verwahrt oder verwaltet werden;
 
-6. für Kapitalerträge aus Kryptowertpapieren im Sinne des § 4 Absatz 3 des Gesetzes über elektronische Wertpapiere, in den Fällen des § 43 Absatz 1 Satz 1 Nummer 5, 7 Buchstabe a, Nummer 8 und 9 bis 12 die registerführende Stelle nach § 16 Absatz 2 des Gesetzes über elektronische Wertpapiere, sofern sich keine auszahlende Stelle aus den Nummern 1, 4 und 5 ergibt.
+6. für Kapitalerträge aus Kryptowertpapieren im Sinne des § 4 Absatz 3 des Gesetzes über elektronische Wertpapiere, in den Fällen des § 43 Absatz 1 Satz 1 Nummer 1a, 2, 5, 7 Buchstabe a, Nummer 8 und 9 bis 12 die registerführende Stelle nach § 16 Absatz 2 des Gesetzes über elektronische Wertpapiere, sofern sich keine auszahlende Stelle aus den Nummern 1, 3, 4 und 5 ergibt.
 
 ⁵Die innerhalb eines Kalendermonats einbehaltene Steuer ist jeweils bis zum zehnten des folgenden Monats an das Finanzamt abzuführen, das für die Besteuerung
 
@@ -6122,7 +6138,7 @@ und die Muster der Bescheinigungen für den Lohnsteuerabzug nach § 39 Absatz 3 
 
 2. Erträge im Sinne des § 3 Nummer 40 Satz 1 Buchstabe a, b, c und j nach Ablauf des ersten Wirtschaftsjahres der Gesellschaft, an der die Anteile bestehen, für das das Körperschaftsteuergesetz in der Fassung des Artikels 3 des Gesetzes vom 23. Oktober 2000 (BGBl. I S. 1433) erstmals anzuwenden ist.
 
-¹⁴§ 3 Nummer 40 Satz 1 Buchstabe d Satz 3 in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für Bezüge anzuwenden, die nach dem 31. Dezember 2019 zufließen. ¹⁵§ 3 Nummer 40 Satz 3 und 4 in der am 12. Dezember 2006 geltenden Fassung ist für Anteile, die einbringungsgeboren im Sinne des § 21 des Umwandlungssteuergesetzes in der am 12. Dezember 2006 geltenden Fassung sind, weiter anzuwenden. ¹⁶§ 3 Nummer 40 Satz 3 erster Halbsatz in der am 1. Januar 2017 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2017 anzuwenden; der zweite Halbsatz ist anzuwenden auf Anteile, die nach dem 31. Dezember 2016 dem Betriebsvermögen zugehen. ¹⁷Bei vom Kalenderjahr abweichenden Wirtschaftsjahren ist § 3 Nummer 40 Buchstabe d Satz 2 in der am 30. Juni 2013 geltenden Fassung erstmals für den Veranlagungszeitraum anzuwenden, in dem das Wirtschaftsjahr endet, das nach dem 31. Dezember 2013 begonnen hat. ¹⁸§ 3 Nummer 40a in der am 6. August 2004 geltenden Fassung ist auf Vergütungen im Sinne des § 18 Absatz 1 Nummer 4 anzuwenden, wenn die vermögensverwaltende Gesellschaft oder Gemeinschaft nach dem 31. März 2002 und vor dem 1. Januar 2009 gegründet worden ist oder soweit die Vergütungen in Zusammenhang mit der Veräußerung von Anteilen an Kapitalgesellschaften stehen, die nach dem 7. November 2003 und vor dem 1. Januar 2009 erworben worden sind. ¹⁹§ 3 Nummer 40a in der am 19. August 2008 geltenden Fassung ist erstmals auf Vergütungen im Sinne des § 18 Absatz 1 Nummer 4 anzuwenden, wenn die vermögensverwaltende Gesellschaft oder Gemeinschaft nach dem 31. Dezember 2008 gegründet worden ist. ²⁰§ 3 Nummer 41 in der am 30. Juni 2021 geltenden Fassung ist letztmals für den Veranlagungszeitraum 2021 anzuwenden. ²¹§ 3 Nummer 46 in der am 17. November 2016 geltenden Fassung ist erstmals anzuwenden auf Vorteile, die in einem nach dem 31. Dezember 2016 endenden Lohnzahlungszeitraum oder als sonstige Bezüge nach dem 31. Dezember 2016 zugewendet werden, und letztmals anzuwenden auf Vorteile, die in einem vor dem 1. Januar 2031 endenden Lohnzahlungszeitraum oder als sonstige Bezüge vor dem 1. Januar 2031 zugewendet werden. ²²§ 3 Nummer 60 in der am 13. August 2020 geltenden Fassung ist weiterhin anzuwenden für Anpassungsgelder an Arbeitnehmer im Steinkohlenbergbau bis zum Auslaufen dieser öffentlichen Mittel im Jahr 2027. ²³Der Höchstbetrag nach § 3 Nummer 63 Satz 1 verringert sich um Zuwendungen, auf die § 40b Absatz 1 und 2 Satz 1 und 2 in der am 31. Dezember 2004 geltenden Fassung angewendet wird. ²⁴§ 3 Nummer 63 Satz 3 in der ab dem 1. Januar 2018 geltenden Fassung ist nicht anzuwenden, soweit § 40b Absatz 1 und 2 Satz 3 und 4 in der am 31. Dezember 2004 geltenden Fassung angewendet wird. ²⁵§ 3 Nummer 71 in der am 31. Dezember 2014 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2013 anzuwenden. ²⁶§ 3 Nummer 71 in der Fassung des Artikels 1 des Gesetzes vom 27. Juni 2017 (BGBl. I S. 2074) ist erstmals für den Veranlagungszeitraum 2017 anzuwenden. ²⁷§ 3 Nummer 72 in der Fassung des Artikels 1 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist für Einnahmen und Entnahmen anzuwenden, die nach dem 31. Dezember 2021 erzielt oder getätigt werden.
+¹⁴§ 3 Nummer 40 Satz 1 Buchstabe d Satz 3 in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für Bezüge anzuwenden, die nach dem 31. Dezember 2019 zufließen. ¹⁵§ 3 Nummer 40 Satz 3 und 4 in der am 12. Dezember 2006 geltenden Fassung ist für Anteile, die einbringungsgeboren im Sinne des § 21 des Umwandlungssteuergesetzes in der am 12. Dezember 2006 geltenden Fassung sind, weiter anzuwenden. ¹⁶§ 3 Nummer 40 Satz 3 erster Halbsatz in der am 1. Januar 2017 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2017 anzuwenden; der zweite Halbsatz ist anzuwenden auf Anteile, die nach dem 31. Dezember 2016 dem Betriebsvermögen zugehen. ¹⁷Bei vom Kalenderjahr abweichenden Wirtschaftsjahren ist § 3 Nummer 40 Buchstabe d Satz 2 in der am 30. Juni 2013 geltenden Fassung erstmals für den Veranlagungszeitraum anzuwenden, in dem das Wirtschaftsjahr endet, das nach dem 31. Dezember 2013 begonnen hat. ¹⁸§ 3 Nummer 40a in der am 6. August 2004 geltenden Fassung ist auf Vergütungen im Sinne des § 18 Absatz 1 Nummer 4 anzuwenden, wenn die vermögensverwaltende Gesellschaft oder Gemeinschaft nach dem 31. März 2002 und vor dem 1. Januar 2009 gegründet worden ist oder soweit die Vergütungen in Zusammenhang mit der Veräußerung von Anteilen an Kapitalgesellschaften stehen, die nach dem 7. November 2003 und vor dem 1. Januar 2009 erworben worden sind. ¹⁹§ 3 Nummer 40a in der am 19. August 2008 geltenden Fassung ist erstmals auf Vergütungen im Sinne des § 18 Absatz 1 Nummer 4 anzuwenden, wenn die vermögensverwaltende Gesellschaft oder Gemeinschaft nach dem 31. Dezember 2008 gegründet worden ist. ²⁰§ 3 Nummer 41 in der am 30. Juni 2021 geltenden Fassung ist letztmals für den Veranlagungszeitraum 2021 anzuwenden. ²¹§ 3 Nummer 46 in der am 17. November 2016 geltenden Fassung ist erstmals anzuwenden auf Vorteile, die in einem nach dem 31. Dezember 2016 endenden Lohnzahlungszeitraum oder als sonstige Bezüge nach dem 31. Dezember 2016 zugewendet werden, und letztmals anzuwenden auf Vorteile, die in einem vor dem 1. Januar 2031 endenden Lohnzahlungszeitraum oder als sonstige Bezüge vor dem 1. Januar 2031 zugewendet werden. ²²§ 3 Nummer 60 in der am 13. August 2020 geltenden Fassung ist weiterhin anzuwenden für Anpassungsgelder an Arbeitnehmer im Steinkohlenbergbau bis zum Auslaufen dieser öffentlichen Mittel im Jahr 2027. ²³Der Höchstbetrag nach § 3 Nummer 63 Satz 1 verringert sich um Zuwendungen, auf die § 40b Absatz 1 und 2 Satz 1 und 2 in der am 31. Dezember 2004 geltenden Fassung angewendet wird. ²⁴§ 3 Nummer 63 Satz 3 in der ab dem 1. Januar 2018 geltenden Fassung ist nicht anzuwenden, soweit § 40b Absatz 1 und 2 Satz 3 und 4 in der am 31. Dezember 2004 geltenden Fassung angewendet wird. ²⁵§ 3 Nummer 71 in der am 31. Dezember 2014 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2013 anzuwenden. ²⁶§ 3 Nummer 71 in der Fassung des Artikels 1 des Gesetzes vom 27. Juni 2017 (BGBl. I S. 2074) ist erstmals für den Veranlagungszeitraum 2017 anzuwenden. ²⁷§ 3 Nummer 71 in der Fassung des Artikels 17 des Gesetzes vom 11. Dezember 2023 (BGBl. 2023 I Nr. 354) ist erstmals für den Veranlagungszeitraum 2023 anzuwenden. ²⁸§ 3 Nummer 72 in der Fassung des Artikels 1 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist für Einnahmen und Entnahmen anzuwenden, die nach dem 31. Dezember 2021 erzielt oder getätigt werden.
 
 (4a) ¹§ 3a in der Fassung des Artikels 2 des Gesetzes vom 27. Juni 2017 (BGBl. I S. 2074) ist erstmals in den Fällen anzuwenden, in denen die Schulden ganz oder teilweise nach dem 8. Februar 2017 erlassen wurden. ²Satz 1 gilt bei einem Schuldenerlass nach dem 8. Februar 2017 nicht, wenn dem Steuerpflichtigen auf Antrag Billigkeitsmaßnahmen aus Gründen des Vertrauensschutzes für einen Sanierungsertrag auf Grundlage von § 163 Absatz 1 Satz 2 und den §§ 222, 227 der Abgabenordnung zu gewähren sind. ³Auf Antrag des Steuerpflichtigen ist § 3a auch in den Fällen anzuwenden, in denen die Schulden vor dem 9. Februar 2017 erlassen wurden. ⁴Satz 1 gilt auch für § 3a Absatz 3a in der Fassung des Artikels 1 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451).
 

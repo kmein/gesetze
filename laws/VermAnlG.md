@@ -177,7 +177,7 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) übt die Au
 
 soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen. Für die bei diesen Stellen beschäftigten Personen gilt die Verschwiegenheitspflicht nach Satz 1 entsprechend. An eine Stelle eines anderen Staates dürfen die Tatsachen nur weitergegeben werden, wenn diese Stelle und die von ihr beauftragten Personen einer dem Satz 1 entsprechenden Verschwiegenheitspflicht unterliegen.
 
-(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat oder eines Besteuerungsverfahrens benötigen, es sei denn, der Weitergabe der Informationen stehen andere Vorschriften entgegen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 1. die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer 2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind oder
 
@@ -293,7 +293,7 @@ Ein Verkaufsprospekt ist nach seiner Billigung zwölf Monate lang für öffentli
 
 2. auf der Internetseite des Anbieters veröffentlicht und bei den im Verkaufsprospekt benannten Zahlstellen zur kostenlosen Ausgabe bereitgehalten wird; dies ist im Bundesanzeiger bekannt zu machen.
 
-Werden Vermögensanlagen über ein elektronisches Informationsverbreitungssystem angeboten, ist der Verkaufsprospekt auch in diesem zu veröffentlichen; in dem Angebot ist auf die Fundstelle im elektronischen Informationsverbreitungssystem hinzuweisen. Der Anbieter hat der Bundesanstalt Datum und Ort der Veröffentlichung unverzüglich schriftlich mitzuteilen.
+Werden Vermögensanlagen über ein elektronisches Informationsverbreitungssystem angeboten, ist der Verkaufsprospekt auch in diesem zu veröffentlichen; in dem Angebot ist auf die Fundstelle im elektronischen Informationsverbreitungssystem hinzuweisen. Der Anbieter hat der Bundesanstalt Datum und Ort der Veröffentlichung unverzüglich elektronisch über ihr Melde- und Veröffentlichungssystem mitzuteilen.
 
 (3) Die Bundesanstalt veröffentlicht auf ihrer Internetseite die nach § 8 gebilligten Verkaufsprospekte. Diese bleiben zehn Jahre lang auf der Internetseite öffentlich zugänglich. Die Bundesanstalt veröffentlicht auf ihrer Internetseite auch Nachträge zu Verkaufsprospekten nach § 14 Absatz 3 Satz 1; Satz 2 gilt entsprechend.
 
@@ -301,7 +301,7 @@ Werden Vermögensanlagen über ein elektronisches Informationsverbreitungssystem
 
 # § 10 – Mitteilung der Beendigung des öffentlichen Angebots und der vollständigen Tilgung
 
-(1) Der Anbieter hat der Bundesanstalt die Beendigung des öffentlichen Angebots sowie die vollständige Tilgung der Vermögensanlage unter Angabe des jeweiligen Datums, der konkreten Bezeichnung der Vermögensanlage und des Emittenten unverzüglich schriftlich oder elektronisch mitzuteilen. Die vollständige Tilgung der Vermögensanlage ist erfolgt, wenn die Hauptforderung sowie alle Nebenleistungen gezahlt sind.
+(1) Der Anbieter hat der Bundesanstalt die Beendigung des öffentlichen Angebots sowie die vollständige Tilgung der Vermögensanlage unter Angabe des jeweiligen Datums, der konkreten Bezeichnung der Vermögensanlage und des Emittenten unverzüglich elektronisch über ihr Melde- und Veröffentlichungssystem mitzuteilen. Die vollständige Tilgung der Vermögensanlage ist erfolgt, wenn die Hauptforderung sowie alle Nebenleistungen gezahlt sind.
 
 (2) Bis zum Eingang der betreffenden Mitteilung nach Absatz 1 Satz 1 bei der Bundesanstalt gilt das öffentliche Angebot oder die Tilgung der Vermögensanlage als fortdauernd. Unterlässt der Anbieter die Mitteilung nach Absatz 1 Satz 1, gilt das öffentliche Angebot im Hinblick auf die Pflichten nach den §§ 11 und 11a mit dem Ablauf der Gültigkeit des Verkaufsprospekts als beendet.
 
@@ -545,11 +545,11 @@ Ist bei der Bundesanstalt ein Verkaufsprospekt zur Billigung eingereicht worden,
 
 3. zu prüfen, ob die Voraussetzungen für eine Maßnahme nach § 18 Absatz 2 vorliegen,
 
-4. zu prüfen, ob die Voraussetzungen für das Ergreifen von Maßnahmen nach § 18 Absatz 3 vorliegen.
+4. zu prüfen, ob die Voraussetzungen für das Ergreifen von Maßnahmen nach § 18 Absatz 3 vorliegen oder
 
 5. zu prüfen, ob die Voraussetzungen für eine Anordnung nach § 24 Absatz 5 Satz 1 vorliegen.
 
-In dem Verlangen ist auf die Befugnis nach § 26b hinzuweisen.
+Die Informationen sind der Bundesanstalt auf ihr Verlangen elektronisch zu übermitteln. Verfügt der Verpflichtete über einen Zugang zum Melde- und Veröffentlichungssystem der Bundesanstalt, so kann sie die Übermittlung auf diesem Wege verlangen. Die Bundesanstalt kann zudem die Übermittlung in einem von ihr bestimmten Format verlangen. In dem Verlangen ist auf die Befugnis nach § 26b hinzuweisen.
 
 (2) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 52 Absatz 1 der Strafprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Der Verpflichtete ist über sein Recht zu belehren, die Auskunft zu verweigern.
 
@@ -674,7 +674,7 @@ Für den letzten Jahresabschluss und Lagebericht des Emittenten von Vermögensan
 
 (6) Der Emittent einer Vermögensanlage, die Mitglieder seiner Organe, seine Beschäftigten sowie seine Abschlussprüfer haben den Einrichtungen und Personen, derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, und der Bundesanstalt auf Verlangen Auskünfte zu erteilen und Unterlagen vorzulegen, soweit dies zur Prüfung erforderlich ist; die Auskunftspflicht der Abschlussprüfer beschränkt sich auf Tatsachen, die ihnen im Rahmen der Abschlussprüfung bekannt geworden sind. Satz 1 gilt auch hinsichtlich Konzernunternehmen sowie abhängigen oder herrschenden Unternehmen. Für das Recht zur Auskunftsverweigerung und die Belehrungspflicht gilt § 19 Absatz 3 entsprechend. Die zur Auskunft und Vorlage von Unterlagen Verpflichteten haben den Bediensteten der Bundesanstalt oder den von ihr beauftragten Personen, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist, während der üblichen Arbeitszeit das Betreten ihrer Grundstücke und Geschäftsräume zu gestatten. § 6 Absatz 11 Satz 2 des Wertpapierhandelsgesetzes gilt entsprechend. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
-(7) Die Einrichtungen und Personen, derer sich die Bundesanstalt bei der Durchführung der Prüfung bedient, haben der Bundesanstalt unverzüglich nach Abschluss der Prüfung schriftlich oder elektronisch über das Ergebnis der Prüfung zu berichten. In den Bericht sind alle Tatsachen aufzunehmen, deren Kenntnis zur Beurteilung des zu prüfenden Vorgangs durch die Bundesanstalt erforderlich ist. Der Bericht ist zu unterzeichnen. Die von der Bundesanstalt zur Durchführung der Prüfung bestellten Einrichtungen und Personen haben Anspruch auf Ersatz angemessener barer Auslagen und auf Vergütung ihrer Tätigkeit. Die Bundesanstalt kann gegenüber dem Emittenten die Auslagen und die Vergütung des Prüfers festsetzen. § 323 des Handelsgesetzbuchs gilt entsprechend.
+(7) Die Einrichtungen und Personen, derer sich die Bundesanstalt bei der Durchführung der Prüfung bedient, haben ihr unverzüglich nach Abschluss der Prüfung in einem von der Bundesanstalt bestimmten elektronischen Format über deren Ergebnis zu berichten; auf Verlangen der Bundesanstalt hat dies über ihr Melde- und Veröffentlichungssystem zu geschehen. In den Bericht sind alle Tatsachen aufzunehmen, deren Kenntnis zur Beurteilung des zu prüfenden Vorgangs durch die Bundesanstalt erforderlich ist. Der Bericht hat den verantwortlichen Prüfer zu bezeichnen. Die von der Bundesanstalt zur Durchführung der Prüfung bestellten Einrichtungen und Personen haben Anspruch auf Ersatz angemessener barer Auslagen und auf Vergütung ihrer Tätigkeit. Die Bundesanstalt kann gegenüber dem Emittenten die Auslagen und die Vergütung des Prüfers festsetzen. § 323 des Handelsgesetzbuchs gilt entsprechend.
 
 (8) Die Bundesanstalt hat Tatsachen, die den Verdacht einer Ordnungswidrigkeit oder einer Straftat im Zusammenhang mit der Rechnungslegung eines Emittenten von Vermögensanlagen begründen, den für die Verfolgung zuständigen Behörden anzuzeigen. Tatsachen, die auf das Vorliegen einer Berufspflichtverletzung durch den Abschlussprüfer schließen lassen, übermittelt die Bundesanstalt der Wirtschaftsprüferkammer.
 
