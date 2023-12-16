@@ -153,6 +153,12 @@
 
  
 
+ 
+
+ 
+
+ 
+
 # § 1 – Anwendungsbereich
 
 Dieses Gesetz ist auf Wertpapierinstitute mit Sitz oder Tätigkeit im Inland anzuwenden.
@@ -1753,9 +1759,11 @@ c) Artikel 4 Absatz 1 bis 5 und Artikel 15 der Verordnung (EU) 2015/2365,
 
 d) den Artikeln 16, 23 Absatz 3 Satz 1, Absatz 5, 6 und 10, Artikel 28 Absatz 2 sowie nach Artikel 29 der Verordnung (EU) 2016/1011,
 
-e) Artikel 28 Absatz 1 bis 3 der Verordnung (EU) Nr. 600/2014 und
+e) Artikel 28 Absatz 1 bis 3 der Verordnung (EU) Nr. 600/2014,
 
-f) den Artikeln 5 bis 9, 18 bis 26, 27 Absatz 1 und 4 sowie nach Artikel 43 Absatz 5 und 6 der Verordnung (EU) 2017/2402.
+f) den Artikeln 5 bis 9, 18 bis 26, 27 Absatz 1 und 4 sowie nach Artikel 43 Absatz 5 und 6 der Verordnung (EU) 2017/2402 und
+
+g) den Artikeln 3 bis 11 der Verordnung (EU) 2022/858 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über eine Pilotregelung für auf Distributed-Ledger-Technologie basierende Marktinfrastrukturen und zur Änderung der Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014 sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1).
 
 Hat die Bundesanstalt nach Absatz 5 gegenüber dem Wertpapierinstitut Bestimmungen über den Inhalt der Prüfung getroffen, sind diese vom Prüfer zu berücksichtigen. Bei einem Mittleren Wertpapierinstitut, das aufgefordert wurde, einen Sanierungsplan nach § 12 des Sanierungs- und Abwicklungsgesetzes aufzustellen, hat der Prüfer auch zu prüfen, ob der Sanierungsplan die Voraussetzungen nach § 12 Absatz 1 sowie nach § 13 Absatz 1 bis 4 des Sanierungs- und Abwicklungsgesetzes erfüllt. Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
 
@@ -1784,6 +1792,22 @@ Gehören zu der Wertpapierinstitutsgruppe mehrere im Inland ansässige Wertpapie
 3. die Form und den Inhalt der Prüfungsberichte.
 
 Die Rechtsverordnung dient insbesondere zur Vermeidung und Behebung von Missständen, die die Sicherheit der einem Wertpapierinstitut anvertrauten Vermögenswerte gefährden oder die ordnungsgemäße Durchführung der Wertpapierdienstleistungen, Wertpapiernebendienstleistungen und Nebengeschäfte beeinträchtigen können, sowie dem Erhalt einheitlicher Unterlagen zur Beurteilung der von dem Wertpapierinstitut durchgeführten Geschäfte. In der Rechtsverordnung kann bestimmt werden, dass die in den Absätzen 1 bis 3 geregelten Pflichten auch bei der Prüfung des Konzernabschlusses einer Finanzholdinggruppe oder gemischten Investmentholdinggruppe oder eines Finanzkonglomerats einzuhalten sind; nähere Bestimmungen über den Gegenstand der Prüfung, den Zeitpunkt ihrer Durchführung und den Inhalt des Prüfungsberichts können dabei nach Maßgabe des Satzes 1 erlassen werden. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt übertragen.
+
+# § 78a – Zuständigkeit
+
+Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 12 Absatz 1 der Verordnung (EU) 2022/858.
+
+# § 78b – Ausnahmen von der Erlaubnispflicht nach § 15
+
+(1) DLT-Marktinfrastrukturen im Sinne des Artikels 2 Nummer 5 der Verordnung (EU) 2022/858, denen eine besondere Genehmigung nach Artikel 8 oder Artikel 10 der Verordnung (EU) 2022/858 erteilt wurde, benötigen keine weitere Erlaubnis nach § 15, soweit die erbrachte Wertpapierdienstleistung von der besonderen Genehmigung umfasst ist.
+
+(2) Privatkunden im Sinne des § 67 Absatz 3 des Wertpapierhandelsgesetzes, die aufgrund einer Ausnahme nach Artikel 4 Absatz 2 der Verordnung (EU) 2022/858 als Mitglied oder Teilnehmer eines multilateralen DLT-Handelssystems im Sinne des Artikels 2 Nummer 6 der Verordnung (EU) 2022/858 oder eines DLT-Handels- und Abwicklungssystems im Sinne des Artikels 2 Nummer 10 der Verordnung (EU) 2022/858 das Eigengeschäft betreiben, benötigen hierfür keine Erlaubnis nach § 15 Absatz 4 Satz 1.
+
+# § 78c – Unterlagen und Anträge nach der Verordnung (EU) 2022/858
+
+(1) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU) 2022/858 vorzulegen sind, sind in deutscher Sprache vorzulegen. Sie sind auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen oder Teile davon ausschließlich in englischer Sprache erstellt und vorgelegt werden.
+
+(2) Anträge nach der Verordnung (EU) 2022/858 sind der Bundesanstalt elektronisch zu übermitteln. Datenformat und Übermittlungsweg sind von der Bundesanstalt zu bestimmen.
 
 # § 79 – Maßnahmen bei Gefahr
 

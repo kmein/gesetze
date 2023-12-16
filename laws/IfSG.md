@@ -3094,7 +3094,7 @@ Entschädigungsberechtigte im Sinne des § 56 Absatz 1 und 1a, die der Pflichtve
 
 1. von einer zuständigen Landesbehörde öffentlich empfohlen und in ihrem Bereich vorgenommen wurde,
 
-1a. gegen das Coronavirus SARS-CoV-2 aufgrund einer Rechtsverordnung nach § 20i Absatz 3 Satz 2 Nummer 1 Buchstabe a, auch in Verbindung mit Nummer 2, des Fünften Buches Sozialgesetzbuch vorgenommen wurde,
+1a. gegen das Coronavirus SARS-CoV-2 aufgrund einer Rechtsverordnung nach § 20i Absatz 3 des Fünften Buches Sozialgesetzbuch vorgenommen wurde oder, im Fall einer Schutzimpfung, gegenüber einer Person, die in der privaten Krankenversicherung versichert ist, in einem dem Anspruch nach einer Rechtsverordnung nach § 20i Absatz 3 des Fünften Buches Sozialgesetzbuch entsprechenden Umfang vorgenommen wurde,
 
 2. auf Grund dieses Gesetzes angeordnet wurde,
 

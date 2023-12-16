@@ -27,7 +27,7 @@ Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit ist Rech
 
 (2) Bei den im Prüfungsbericht vorgenommenen Beurteilungen sind die aufsichtlichen Vorgaben zu den einzelnen Bereichen zu beachten. Die Beurteilungen sind nachvollziehbar zu begründen. Dabei sind auch bedeutsame Vorgänge, die nach dem Bilanzstichtag eingetreten und dem Abschlussprüfer bekannt geworden sind, zu berücksichtigen und im Prüfungsbericht darzulegen.
 
-(3) Wurde im Berichtszeitraum eine Prüfung nach § 19 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes durchgeführt, hat der Abschlussprüfer die Prüfungsergebnisse bei der Prüfung der aufsichtlichen Sachverhalte zu verwerten. Bei Sachverhalten, die Gegenstand der Prüfung nach § 19 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes waren, kann sich die aufsichtsrechtliche Berichterstattung auf wesentliche Veränderungen bis zum Bilanzstichtag beschränken.
+(3) Wurde im Berichtszeitraum eine Prüfung nach § 19 Absatz 1 Satz 3 des Zahlungsdiensteaufsichtsgesetzes durchgeführt, hat der Abschlussprüfer die Prüfungsergebnisse bei der Prüfung der aufsichtlichen Sachverhalte zu verwerten. Bei Sachverhalten, die Gegenstand der Prüfung nach § 19 Absatz 1 Satz 3 des Zahlungsdiensteaufsichtsgesetzes waren, kann sich die aufsichtsrechtliche Berichterstattung auf wesentliche Veränderungen bis zum Bilanzstichtag beschränken.
 
 (4) Hat nach § 24 Absatz 4 Satz 2 des Zahlungsdiensteaufsichtsgesetzes die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) gegenüber dem Institut Bestimmungen über den Inhalt der Jahresabschlussprüfung getroffen, so hat der Abschlussprüfer hierauf im Prüfungsbericht im Zusammenhang mit dem Prüfungsauftrag hinzuweisen.
 

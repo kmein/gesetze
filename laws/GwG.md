@@ -161,11 +161,13 @@ bei der der Verpflichtete Grund zu der Annahme haben muss, dass die Errichtung f
 
 1. Bankdienstleistungen, wie die Unterhaltung eines Kontokorrent- oder eines anderen Zahlungskontos und die Erbringung damit verbundener Leistungen wie die Verwaltung von Barmitteln, die Durchführung von internationalen Geldtransfers oder Devisengeschäften und die Vornahme von Scheckverrechnungen, durch Verpflichtete nach § 2 Absatz 1 Nummer 1 (Korrespondenten) für CRR-Kreditinstitute oder für Unternehmen in einem Drittstaat, die Tätigkeiten ausüben, die denen solcher Kreditinstitute gleichwertig sind (Respondenten), oder
 
-2. andere Leistungen als Bankdienstleistungen, soweit diese anderen Leistungen nach den jeweiligen gesetzlichen Vorschriften durch Verpflichtete nach § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9 (Korrespondenten) erbracht werden dürfen
+2. ähnliche Dienstleistungen, soweit diese Leistungen nach den jeweiligen gesetzlichen Vorschriften durch Verpflichtete nach § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9 (Korrespondenten) erbracht werden dürfen für folgende Respondenten:
 
-a) für andere CRR-Kreditinstitute oder Finanzinstitute im Sinne des Artikels 3 Nummer 2 der Richtlinie (EU) 2015/849 oder
+a) andere CRR-Kreditinstitute oder Finanzinstitute im Sinne des Artikels 3 Nummer 2 der Richtlinie (EU) 2015/849 oder
 
-b) für Unternehmen oder Personen in einem Drittstaat, die Tätigkeiten ausüben, die denen solcher Kreditinstitute oder Finanzinstitute gleichwertig sind (Respondenten).
+b) Unternehmen oder Personen in einem Drittstaat, die Tätigkeiten ausüben, die denen solcher Kreditinstitute oder Finanzinstitute gleichwertig sind.
+
+Davon umfasst sind insbesondere Beziehungen, die für Wertpapiergeschäfte oder Geldtransfers aufgenommen wurden.
 
 (22) Bank-Mantelgesellschaft im Sinne dieses Gesetzes ist
 

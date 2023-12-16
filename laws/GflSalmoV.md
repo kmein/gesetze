@@ -257,6 +257,8 @@ Satz 1 Nummer 1 gilt nicht, soweit die Hühner unverzüglich
 
 verbracht werden.
 
+(+++ § 10: Zur Anwendung vgl. § 11 Abs. 1 +++)
+
 # § 11 – Aufhebung der Maßregeln
 
 (1) Die Maßregeln nach § 10 sind nicht mehr anzuwenden, sofern die Salmonellen der Kategorie 1 oder 2 im Sinne des Absatzes 2 bekämpft sind.
@@ -280,8 +282,6 @@ c) frühestens zwei Wochen nach der Umstallung nach § 9 mit negativem Ergebnis 
 2. alle Eier aus dem betroffenen Betrieb oder der betroffenen Herde entfernt
 
 worden sind.
-
-(3) (weggefallen)
 
 # § 12 – Impfungen
 
@@ -325,6 +325,8 @@ Im Falle einer Mitteilung nach § 4 Absatz 1 kann die zuständige Behörde eine 
 
 Sind in einem Hühneraufzuchtbetrieb Salmonellen der Kategorie 1 festgestellt worden, gilt § 10 entsprechend.
 
+(+++ § 15: Zur Anwendung vgl. § 16 Abs. 1 +++)
+
 # § 16 – Aufhebung der Maßregeln
 
 (1) Die Maßnahmen nach § 15 sind nicht mehr anzuwenden, sofern Salmonellen der Kategorie 1 im Sinne des Absatzes 2 bekämpft sind.
@@ -334,8 +336,6 @@ Sind in einem Hühneraufzuchtbetrieb Salmonellen der Kategorie 1 festgestellt wo
 1. alle Hühner und Eier aus dem betroffenen Betrieb oder der betroffenen Herde entfernt worden sind und
 
 2. eine Reinigung und Desinfektion nach § 7 Absatz 1 Satz 1 sowie eine Bekämpfung von Schadnagern, Schadinsekten und Parasiten nach § 7 Absatz 1 Satz 2 durchgeführt worden ist.
-
-(3) (weggefallen)
 
 # § 17 – Einstallen von Junghennen
 
@@ -383,6 +383,8 @@ Satz 1 gilt im Falle einer Untersuchung, die nach Maßgabe der Nummer 2.1 Satz 4
 
 (2) Die zuständige Behörde kann auf Basis einer Mitteilung nach § 4 Absatz 2 auch vor der Serotypisierung der Salmonellen Maßnahmen nach Absatz 1 anordnen.
 
+(+++ § 20: Zur Anwendung vgl. § 21 Abs. 1 +++)
+
 # § 21 – Aufhebung der Maßregeln
 
 (1) Die Maßnahmen nach § 20 sind nicht mehr anzuwenden, sofern
@@ -396,8 +398,6 @@ Satz 1 gilt im Falle einer Untersuchung, die nach Maßgabe der Nummer 2.1 Satz 4
 1. alle Hühner und Eier aus dem betroffenen Betrieb oder aus der betroffenen Herde entfernt worden sind und
 
 2. eine Reinigung und Desinfektion nach § 7 Absatz 1 Satz 1 sowie eine Bekämpfung von Schadnagern, Schadinsekten und Parasiten nach § 7 Absatz 1 Satz 2 durchgeführt worden ist.
-
-(3) (weggefallen)
 
 # § 22 – Betriebseigene Kontrollen
 
@@ -413,6 +413,8 @@ Im Falle einer Mitteilung nach § 4 Absatz 1 kann die zuständige Behörde eine 
 
 Sind in einem Hähnchenmastbetrieb Salmonellen der Kategorie 1 festgestellt worden, gilt § 10 Absatz 1 entsprechend.
 
+(+++ § 24: Zur Anwendung vgl. § 25 Abs. 1 +++)
+
 # § 25 – Aufhebung der Maßregeln
 
 (1) Die Maßnahmen nach § 24 sind nicht mehr anzuwenden, sofern die Salmonellen der Kategorie 1 im Sinne des Absatzes 2 bekämpft sind.
@@ -422,8 +424,6 @@ Sind in einem Hähnchenmastbetrieb Salmonellen der Kategorie 1 festgestellt word
 1. alle Hühner aus dem betroffenen Betrieb oder aus der betroffenen Herde entfernt worden sind und
 
 2. eine Reinigung und Desinfektion nach § 7 Absatz 1 Satz 1 sowie eine Bekämpfung von Schadnagern, Schadinsekten und Parasiten nach § 7 Absatz 1 Satz 2 durchgeführt worden ist.
-
-(3) (weggefallen)
 
 # § 26 – Betriebseigene Kontrollen
 
@@ -464,6 +464,8 @@ verbracht werden.
 verbracht werden.
 
 (3) Abweichend von Satz 1 Nummer 1 dürfen im Falle der Feststellung von Salmonellen der Kategorie 2 Eintagsküken in einen Hühnerzuchtbetrieb oder Hühneraufzuchtbetrieb verbracht werden, sofern sichergestellt ist, dass die Küken in diesem Betrieb nach § 10 Absatz 2 Nummer 1 Buchstabe a behandelt oder nach § 10 Absatz 2 Nummer 1 Buchstabe b geimpft werden.
+
+(+++ § 28: Zur Anwendung vgl. § 29 Abs. 1 +++)
 
 # § 29 – Aufhebung der Maßregeln
 
@@ -533,6 +535,8 @@ b) als Material der Kategorie 2 gemäß Artikel 9 Buchstabe h der Verordnung (EG
 
 verbracht werden.
 
+(+++ § 32: Zur Anwendung vgl. § 33 Abs. 1 +++)
+
 # § 33 – Aufhebung der Maßregeln
 
 (1) Die Maßnahmen nach § 32 sind nicht mehr anzuwenden, sofern die Salmonellen der Kategorie 1 im Sinne des Absatzes 2 bekämpft sind.
@@ -567,7 +571,7 @@ erforderlichen Angaben.
 
 (1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 2 Absatz 2 Satz 2, § 7 Absatz 1 Satz 4, § 8 Absatz 3 Nummer 3, auch in Verbindung mit § 13 Absatz 2 oder § 26 Absatz 3, entgegen § 12 Absatz 1 Satz 4, § 18 Absatz 1 Satz 5, § 22 Absatz 1 Satz 3, § 30 Absatz 1 Satz 3 oder Absatz 2 Satz das Ergebnis einer Untersuchung, ein Protokoll oder eine Aufzeichnung nicht, nicht vollständig oder nicht für die vorgeschriebene Dauer aufbewahrt,
+1. entgegen § 2 Absatz 2 Satz 2, § 7 Absatz 1 Satz 4, § 8 Absatz 3 Nummer 3, auch in Verbindung mit § 13 Absatz 2 oder § 26 Absatz 3, entgegen § 12 Absatz 1 Satz 4, § 18 Absatz 1 Satz 5, § 22 Absatz 1 Satz 3, § 30 Absatz 1 Satz 3 oder Absatz 2 Satz 3 das Ergebnis einer Untersuchung, ein Protokoll oder eine Aufzeichnung nicht, nicht vollständig oder nicht für die vorgeschriebene Dauer aufbewahrt,
 
 2. einer vollziehbaren Anordnung nach § 3 Satz 1 oder § 34 Absatz 1 zuwiderhandelt,
 

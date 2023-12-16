@@ -91,7 +91,7 @@ verordnet das Bundesministerium der Finanzen:
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
-1. Rechtsverordnungen nach Maßgabe des § 3 Absatz 4 Satz 1, des § 31 Satz 1, des § 32 Absatz 6 Satz 1, des § 32f Absatz 8 Satz 1, des § 33 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 38 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 39 Absatz 2 Satz 1 in Verbindung mit Satz 2, des § 53 Absatz 4 Satz 1, des § 57 Absatz 6 Satz 1, des § 60 Absatz 2 Satz 1, des § 76 Absatz 4 Satz 1, des § 83 Absatz 10 Satz 1, des § 84 Absatz 10 Satz 1, des § 87 Absatz 9 Satz 1, des § 89 Absatz 6 Satz 1, des § 93 Absatz 5 und des § 102 Absatz 1 Satz 3 des Wertpapierhandelsgesetzes,
+1. Rechtsverordnungen nach Maßgabe des § 3 Absatz 4 Satz 1, des § 24a Absatz 2, des § 31 Satz 1, des § 32 Absatz 6 Satz 1, des § 32f Absatz 8 Satz 1, des § 33 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 38 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 39 Absatz 2 Satz 1 in Verbindung mit Satz 2, des § 53 Absatz 4 Satz 1, des § 57 Absatz 6 Satz 1, des § 60 Absatz 2 Satz 1, des § 76 Absatz 4 Satz 1, des § 83 Absatz 10 Satz 1, des § 84 Absatz 10 Satz 1, des § 87 Absatz 9 Satz 1, des § 89 Absatz 6 Satz 1, des § 93 Absatz 5 und des § 102 Absatz 1 Satz 3 des Wertpapierhandelsgesetzes,
 
 2. Rechtsverordnungen nach Maßgabe des § 1 Absatz 5 Satz 3, des § 5 Absatz 2 Satz 1 und des § 6 Absatz 4 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes,
 
@@ -101,15 +101,17 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
 4. Rechtsverordnungen nach Maßgabe des § 4 Absatz 6 Satz 1 und 3, des § 5 Absatz 3 Satz 1 bis 3, dieser auch in Verbindung mit Absatz 2 Satz 3, des § 16 Absatz 4 Satz 1 bis 3, des § 24 Absatz 5 Satz 1 und 2 sowie des § 26d Absatz 3 Satz 1 und 2 des Pfandbriefgesetzes jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und Rechtsverordnungen nach Maßgabe des § 27a Absatz 2 Satz 1 und 2 des Pfandbriefgesetzes nach Anhörung der Spitzenverbände der Kreditwirtschaft,
 
-5. Rechtsverordnungen nach Maßgabe des § 10 Absatz 1 Satz 1 und 3, des § 10a Absatz 7 Satz 1 und 3, des § 11 Absatz 1 Satz 2, 3 und 5, des § 13 Absatz 1 Satz 1 und 3, des § 13c Absatz 1 Satz 2 und 4, des § 22 Satz 1 und 3, dieser auch in Verbindung mit § 14 Absatz 1 Satz 1, des § 24 Absatz 4 Satz 1, 2 und 4, dieser auch in Verbindung mit § 2 Absatz 10 Satz 4 und 6, mit § 2c Absatz 1 Satz 2 und 3, mit § 25e Satz 3 sowie mit § 32 Absatz 1 Satz 2 und 3, des § 25a Absatz 6 Satz 1 bis 3 und 5, des § 25f Absatz 4 Satz 1 und 3 sowie des § 53j Absatz 3 Satz 1 und 2 des Kreditwesengesetzes jeweils im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute, Rechtsverordnungen nach Maßgabe des § 51a Absatz 1 Satz 2 und 4 sowie des § 51b Absatz 2 Satz 1 und 3 des Kreditwesengesetzes jeweils im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung des Spitzenverbands der Wohnungsunternehmen mit Spareinrichtung, Rechtsverordnungen nach Maßgabe des § 18a Absatz 11 Satz 1, des § 22d Absatz 1 Satz 2 und des § 24c Absatz 7 Satz 1 des Kreditwesengesetzes, Rechtsverordnungen nach Maßgabe des § 25 Absatz 3 Satz 1 und 2 des Kreditwesengesetzes im Einvernehmen mit der Deutschen Bundesbank, Rechtsverordnungen nach Maßgabe des § 29 Absatz 4 Satz 1 und 2 des Kreditwesengesetzes im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und nach Anhörung der Deutschen Bundesbank und Rechtsverordnungen nach Maßgabe des § 31 Absatz 1 Satz 1 des Kreditwesengesetzes im Benehmen mit der Deutschen Bundesbank,
+5. Rechtsverordnungen nach Maßgabe des § 5 Absatz 2 Satz 2, des § 10 Absatz 1 Satz 1 und 3, des § 10a Absatz 7 Satz 1 und 3, des § 11 Absatz 1 Satz 2, 3 und 5, des § 13 Absatz 1 Satz 1 und 3, des § 13c Absatz 1 Satz 2 und 4, des § 22 Satz 1 und 3, dieser auch in Verbindung mit § 14 Absatz 1 Satz 1, des § 24 Absatz 4 Satz 1, 2 und 4, dieser auch in Verbindung mit § 2 Absatz 10 Satz 4 und 6, mit § 2c Absatz 1 Satz 2 und 3, mit § 25e Satz 3 sowie mit § 32 Absatz 1 Satz 2 und 3, des § 25a Absatz 6 Satz 1 bis 3 und 5, des § 25f Absatz 4 Satz 1 und 3 sowie des § 53j Absatz 3 Satz 1 und 2 des Kreditwesengesetzes jeweils im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute, Rechtsverordnungen nach Maßgabe des § 51a Absatz 1 Satz 2 und 4 sowie des § 51b Absatz 2 Satz 1 und 3 des Kreditwesengesetzes jeweils im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung des Spitzenverbands der Wohnungsunternehmen mit Spareinrichtung, Rechtsverordnungen nach Maßgabe des § 18a Absatz 11 Satz 1, des § 22d Absatz 1 Satz 2 und des § 24c Absatz 7 Satz 1 des Kreditwesengesetzes, Rechtsverordnungen nach Maßgabe des § 25 Absatz 3 Satz 1 und 2 des Kreditwesengesetzes im Einvernehmen mit der Deutschen Bundesbank, Rechtsverordnungen nach Maßgabe des § 29 Absatz 4 Satz 1 und 2 des Kreditwesengesetzes im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und nach Anhörung der Deutschen Bundesbank und Rechtsverordnungen nach Maßgabe des § 31 Absatz 1 Satz 1 des Kreditwesengesetzes im Benehmen mit der Deutschen Bundesbank,
 
 6. Rechtsverordnungen nach Maßgabe des § 16 Satz 2 des Verkaufsprospektgesetzes,
 
 7. Rechtsverordnungen nach Maßgabe des § 4 Absatz 3 Satz 1 und des § 20 Absatz 3 Satz 1 und 2 des Wertpapierprospektgesetzes im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
 
-8. Rechtsverordnungen nach Maßgabe des § 10 Satz 1 des Gesetzes über Bausparkassen nach Anhörung der Deutschen Bundesbank und der Spitzenverbände der Bausparkassen sowie
+8. Rechtsverordnungen nach Maßgabe des § 10 Satz 1 des Gesetzes über Bausparkassen nach Anhörung der Deutschen Bundesbank und der Spitzenverbände der Bausparkassen,
 
-9. Rechtsverordnungen nach Maßgabe des § 12 Absatz 2b Satz 1 des Restrukturierungsfondsgesetzes
+9. Rechtsverordnungen nach Maßgabe des § 12 Absatz 2b Satz 1 des Restrukturierungsfondsgesetzes sowie
+
+10. Rechtsverordnungen nach Maßgabe des § 16m Absatz 5 des Finanzdienstleistungsaufsichtsgesetzes
 
 zu erlassen.
 
@@ -117,7 +119,7 @@ zu erlassen.
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf der Grundlage des Versicherungsaufsichtsgesetzes zu erlassen
 
-1. nach Maßgabe des § 22 Satz 1 und 2, auch in Verbindung mit § 293 Absatz 1 und 4 sowie in Verbindung mit § 237 Absatz 1 Satz 1, nach Maßgabe des § 34 Absatz 2 Satz 1 bis 4 und Absatz 3 Satz 1, jeweils auch in Verbindung mit § 237 Absatz 1 Satz 1, nach Maßgabe des § 131 Absatz 1, des § 160 Satz 1 Nummer 6, des § 170 Satz 1, des § 217 Satz 1 Nummer 1 bis 5, des § 220 Satz 1, des § 235 Absatz 1 Nummer 1 bis 8, 10, 12 und 13, des § 240 Satz 1 Nummer 1 bis 3 und 5 bis 9,
+1. nach Maßgabe des § 22 Satz 1 und 2, auch in Verbindung mit § 293 Absatz 1 und 4 sowie in Verbindung mit § 237 Absatz 1 Satz 1, nach Maßgabe des § 34 Absatz 2 Satz 1 bis 4 und Absatz 3 Satz 1, jeweils auch in Verbindung mit § 237 Absatz 1 Satz 1, nach Maßgabe des § 131 Absatz 1, des § 160 Satz 1 Nummer 6, des § 170 Satz 1, des § 217 Satz 1 Nummer 1 bis 5, des § 220 Satz 1, des § 235 Absatz 1 Nummer 1 bis 8, 10, 12 und 13, des § 240 Satz 1 Nummer 1 bis 3 und 5 bis 9, § 310a,
 
 2. nach Anhörung des Versicherungsbeirats nach Maßgabe des § 39 Absatz 1 Satz 1 Nummer 2 und 5 bis 7 in Verbindung mit Satz 2,
 
@@ -159,7 +161,7 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 # § 1e
 
-Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf der Grundlage des Zahlungsdiensteaufsichtsgesetzes zu erlassen im Benehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute nach Maßgabe des § 28 Absatz 4 Satz 1 und 2.
+Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen nach Maßgabe des § 4a Absatz 2 Satz 1 des Zahlungsdiensteaufsichtsgesetzes und des § 28 Absatz 4 Satz 1 und 2 des Zahlungsdiensteaufsichtsgesetzes zu erlassen im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute.
 
 # § 2
 

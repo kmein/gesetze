@@ -702,7 +702,7 @@ Die Inhaber einer bedeutenden Beteiligung im Sinne des § 7 Nummer 3 am Versiche
 
 # § 17 – Anzeige bedeutender Beteiligungen
 
-(1) Jeder hat der Aufsichtsbehörde unverzüglich schriftlich anzuzeigen, wenn er beabsichtigt,
+(1) Jeder hat der Aufsichtsbehörde unverzüglich anzuzeigen, wenn er beabsichtigt,
 
 1. allein oder im Zusammenwirken mit anderen Personen oder Unternehmen eine bedeutende Beteiligung an einem Versicherungsunternehmen direkt oder indirekt zu erwerben (interessierter Erwerber); in der Anzeige hat der interessierte Erwerber die für die Höhe der Beteiligung und die für die Begründung des maßgeblichen Einflusses, die Beurteilung seiner Zuverlässigkeit und die Prüfung der weiteren Untersagungsgründe nach § 18 Absatz 1 wesentlichen Tatsachen und Unterlagen anzugeben oder vorzulegen sowie die Personen und Unternehmen anzugeben, von denen er die entsprechenden Anteile erwerben will; ist der interessierte Erwerber eine juristische Person oder Personenhandelsgesellschaft, hat er in der Anzeige die für die Beurteilung der Zuverlässigkeit seiner gesetzlichen oder satzungsmäßigen Vertreter oder persönlich haftenden Gesellschafter wesentlichen Tatsachen anzugeben;
 
@@ -718,11 +718,11 @@ Jeder hat der Aufsichtsbehörde anzuzeigen, wenn er unabsichtlich
 
 Die Anzeigen nach Satz 2 haben unverzüglich zu erfolgen, sobald der Anzeigepflichtige von den Umständen, die eine solche Anzeigepflicht begründen, Kenntnis erlangt hat.
 
-(2) Der Inhaber einer bedeutenden Beteiligung hat der Aufsichtsbehörde jeden neu bestellten gesetzlichen oder satzungsmäßigen Vertreter und jeden neuen persönlich haftenden Gesellschafter mit den für die Beurteilung von dessen Zuverlässigkeit wesentlichen Tatsachen unverzüglich schriftlich anzuzeigen.
+(2) Der Inhaber einer bedeutenden Beteiligung hat der Aufsichtsbehörde jeden neu bestellten gesetzlichen oder satzungsmäßigen Vertreter und jeden neuen persönlich haftenden Gesellschafter mit den für die Beurteilung von dessen Zuverlässigkeit wesentlichen Tatsachen unverzüglich anzuzeigen.
 
-(3) Die Aufsichtsbehörde hat den Eingang einer vollständigen Anzeige nach Absatz 1 Satz 1 Nummer 1 oder 2 oder Satz 2 Nummer 1 unverzüglich, spätestens jedoch innerhalb von zwei Arbeitstagen nach deren Zugang, schriftlich gegenüber dem Anzeigepflichtigen zu bestätigen.
+(3) Die Aufsichtsbehörde hat den Eingang einer vollständigen Anzeige nach Absatz 1 Satz 1 Nummer 1 oder 2 oder Satz 2 Nummer 1 unverzüglich, spätestens jedoch innerhalb von zwei Arbeitstagen nach deren Zugang, schriftlich oder elektronisch gegenüber dem Anzeigepflichtigen zu bestätigen.
 
-(4) Die Aufsichtsbehörde hat die Anzeige nach Absatz 1 Satz 1 Nummer 1 oder 2 oder Satz 2 Nummer 1 innerhalb von 60 Arbeitstagen ab dem Datum des Schreibens, mit dem sie den Eingang der vollständigen Anzeige schriftlich bestätigt hat (Beurteilungszeitraum), zu beurteilen. In der Bestätigung nach Absatz 3 hat die Aufsichtsbehörde dem Anzeigepflichtigen den Tag mitzuteilen, an dem der Beurteilungszeitraum endet. Bis zum 50. Arbeitstag innerhalb des Beurteilungszeitraums kann die Aufsichtsbehörde weitere Informationen anfordern, die für den Abschluss der Beurteilung notwendig sind. Die Anforderung ergeht schriftlich unter Angabe der zusätzlich benötigten Informationen. Die Aufsichtsbehörde hat den Eingang der weiteren Informationen innerhalb von zwei Arbeitstagen nach deren Zugang schriftlich gegenüber dem Anzeigepflichtigen zu bestätigen. Der Beurteilungszeitraum ist vom Zeitpunkt der Anforderung der weiteren Informationen bis zu deren Eingang bei der Aufsichtsbehörde gehemmt. Der Beurteilungszeitraum beträgt im Fall der Hemmung nach Satz 6 höchstens 80 Arbeitstage. Die Aufsichtsbehörde kann Ergänzungen oder Klarstellungen zu diesen Informationen anfordern; dies führt nicht zu einer erneuten Hemmung des Beurteilungszeitraums. Abweichend von Satz 7 kann der Beurteilungszeitraum im Fall einer Hemmung auf höchstens 90 Arbeitstage ausgedehnt werden, wenn der Anzeigepflichtige
+(4) Die Aufsichtsbehörde hat die Anzeige nach Absatz 1 Satz 1 Nummer 1 oder 2 oder Satz 2 Nummer 1 innerhalb von 60 Arbeitstagen ab dem Datum des Schreibens, mit dem sie den Eingang der vollständigen Anzeige schriftlich oder elektronisch bestätigt hat (Beurteilungszeitraum), zu beurteilen. In der Bestätigung nach Absatz 3 hat die Aufsichtsbehörde dem Anzeigepflichtigen den Tag mitzuteilen, an dem der Beurteilungszeitraum endet. Bis zum 50. Arbeitstag innerhalb des Beurteilungszeitraums kann die Aufsichtsbehörde weitere Informationen anfordern, die für den Abschluss der Beurteilung notwendig sind. Die Anforderung ergeht schriftlich oder elektronisch unter Angabe der zusätzlich benötigten Informationen. Die Aufsichtsbehörde hat den Eingang der weiteren Informationen innerhalb von zwei Arbeitstagen nach deren Zugang schriftlich oder elektronisch gegenüber dem Anzeigepflichtigen zu bestätigen. Der Beurteilungszeitraum ist vom Zeitpunkt der Anforderung der weiteren Informationen bis zu deren Eingang bei der Aufsichtsbehörde gehemmt. Der Beurteilungszeitraum beträgt im Fall der Hemmung nach Satz 6 höchstens 80 Arbeitstage. Die Aufsichtsbehörde kann Ergänzungen oder Klarstellungen zu diesen Informationen anfordern; dies führt nicht zu einer erneuten Hemmung des Beurteilungszeitraums. Abweichend von Satz 7 kann der Beurteilungszeitraum im Fall einer Hemmung auf höchstens 90 Arbeitstage ausgedehnt werden, wenn der Anzeigepflichtige
 
 1. außerhalb des Europäischen Wirtschaftsraums ansässig ist oder beaufsichtigt wird oder
 
@@ -756,7 +756,7 @@ d) 2009/138/EG.
 
 (2a) Die Aufsichtsbehörde kann in den Fällen des Absatzes 1, statt den beabsichtigten Erwerb der bedeutenden Beteiligung oder ihre beabsichtigte Erhöhung zu untersagen, sowie in den Fällen des § 17 Absatz 1 Satz 2 Nummer 1 innerhalb des Beurteilungszeitraums auch Anordnungen gegenüber dem Anzeigepflichtigen treffen, die geeignet und erforderlich sind, um Tatsachen zu schaffen, die die Annahme der in Absatz 1 genannten Untersagungsgründe nicht mehr rechtfertigen.
 
-(3) Entscheidet die Aufsichtsbehörde nach Abschluss der Beurteilung, den Erwerb oder die Erhöhung der Beteiligung zu untersagen oder eine Anordnung nach Absatz 2a zu erlassen, teilt sie dem Anzeigepflichtigen die Entscheidung innerhalb von zwei Arbeitstagen und unter Einhaltung des Beurteilungszeitraums schriftlich unter Angabe der Gründe mit. Bemerkungen und Vorbehalte der für den Anzeigepflichtigen zuständigen Behörde sind in der Entscheidung wiederzugeben; eine Untersagung darf nur aus den in den Absätzen 1 und 2 genannten Gründen erfolgen; eine Anordnung nach Absatz 2a darf nur aus den in Absatz 1 aufgezählten Gründen erfolgen. Wird der Erwerb oder die Erhöhung der Beteiligung nicht innerhalb des Beurteilungszeitraums schriftlich untersagt, kann der Erwerb oder die Erhöhung vollzogen werden; die Rechte der Aufsichtsbehörde nach § 20 bleiben davon unberührt. Wird der Erwerb oder die Erhöhung der Beteiligung nicht untersagt, kann die Aufsichtsbehörde eine Frist festsetzen, nach deren Ablauf der Anzeigepflichtige ihr den Vollzug oder den Nichtvollzug des beabsichtigten Erwerbs oder der Erhöhung unverzüglich anzuzeigen hat.
+(3) Entscheidet die Aufsichtsbehörde nach Abschluss der Beurteilung, den Erwerb oder die Erhöhung der Beteiligung zu untersagen oder eine Anordnung nach Absatz 2a zu erlassen, teilt sie dem Anzeigepflichtigen die Entscheidung innerhalb von zwei Arbeitstagen und unter Einhaltung des Beurteilungszeitraums schriftlich oder elektronisch unter Angabe der Gründe mit. Bemerkungen und Vorbehalte der für den Anzeigepflichtigen zuständigen Behörde sind in der Entscheidung wiederzugeben; eine Untersagung darf nur aus den in den Absätzen 1 und 2 genannten Gründen erfolgen; eine Anordnung nach Absatz 2a darf nur aus den in Absatz 1 aufgezählten Gründen erfolgen. Wird der Erwerb oder die Erhöhung der Beteiligung nicht innerhalb des Beurteilungszeitraums schriftlich oder elektronisch untersagt, kann der Erwerb oder die Erhöhung vollzogen werden; die Rechte der Aufsichtsbehörde nach § 20 bleiben davon unberührt. Wird der Erwerb oder die Erhöhung der Beteiligung nicht untersagt, kann die Aufsichtsbehörde eine Frist festsetzen, nach deren Ablauf der Anzeigepflichtige ihr den Vollzug oder den Nichtvollzug des beabsichtigten Erwerbs oder der Erhöhung unverzüglich anzuzeigen hat.
 
 # § 19 – Untersagung der Ausübung der Stimmrechte
 
@@ -1559,7 +1559,7 @@ ohne Abzug der Rückversicherung sowie nach Mitgliedstaaten aufgeschlüsselt mit
 
 5. von den Vorschriften für einzelne Zweige die §§ 142, 144, 146, 147, 149 und 150 Absatz 1 bis 3, § 152 Absatz 1 bis 4, die §§ 155 und 156 Absatz 1, § 157 Absatz 1, § 159 mit Ausnahme der Verweisung auf § 160;
 
-6. von den Vorschriften über die Aufsicht § 294 Absatz 2 Satz 2 bis 4, die §§ 298 und 299 Nummer 1, die §§ 303, 305 Absatz 1, 2 Nummer 1 und 2, Absatz 3 bis 5, § 306 Absatz 1 Satz 1 Nummer 1 bis 3, Absatz 2 Satz 1 Nummer 1 und 2, Absatz 4 bis 8 sowie die §§ 308 und 310 sowie
+6. von den Vorschriften über die Aufsicht § 294 Absatz 2 Satz 2 bis 4, die §§ 298 und 299 Nummer 1, die §§ 303, 305 Absatz 1, 2 Nummer 1 und 2, Absatz 3 bis 5, § 306 Absatz 1 Satz 1 Nummer 1 bis 3, Absatz 2 Satz 1 Nummer 1 und 2, Absatz 4 bis 8, die §§ 308 und 310 sowie die Vorschriften einer Rechtsverordnung nach § 310a sowie
 
 7. § 17 des Finanzdienstleistungsaufsichtsgesetzes.
 
@@ -2454,7 +2454,7 @@ Bilanzwerte im Sinne des Satzes 1 sind die Bruttobeträge für das selbst abgesc
 
 (1) Das Versicherungsunternehmen hat dafür zu sorgen, dass die Bestände des Sicherungsvermögens in ein Vermögensverzeichnis einzeln eingetragen werden. Die Vorschriften über das Sicherungsvermögen gelten für alle Vermögensgegenstände, die im Vermögensverzeichnis eingetragen sind. Ansprüche auf Nutzungen, die die zum Sicherungsvermögen gehörenden Vermögensgegenstände gewähren, gehören auch ohne Eintragung in das Vermögensverzeichnis zum Sicherungsvermögen. Forderungen aus Vorauszahlungen oder Darlehen auf die eigenen Versicherungsscheine des Unternehmens, soweit sie zu den Beständen des Sicherungsvermögens gehören, brauchen nur in einer Gesamtsumme nachgewiesen zu werden. Bei Forderungen, die durch eine Grundstücksbelastung gesichert und in Teilbeträgen zurückzuzahlen sind, ist das Vermögensverzeichnis nach näherer Bestimmung der Aufsichtsbehörde zu berichtigen; dasselbe gilt für Grundstücksbelastungen, die keine persönliche Forderung sichern.
 
-(2) Am Schluss eines jeden Geschäftsjahres hat das Versicherungsunternehmen der Aufsichtsbehörde eine Abschrift der im Laufe des Geschäftsjahres vorgenommenen Eintragungen vorzulegen; der Vorstand hat die Richtigkeit der Abschrift zu bescheinigen. Die Aufsichtsbehörde hat die Abschrift aufzubewahren.
+(2) Drei Monate nach Schluss des Geschäftsjahres hat das Versicherungsunternehmen der Aufsichtsbehörde die im Geschäftsjahr im Vermögensverzeichnis vorgenommenen Eintragungen zu übermitteln; der Vorstand hat die Richtigkeit der Eintragungen zu bescheinigen.
 
 (3) Die Anteile der Rückversicherer sowie die Anteile der zum Geschäftsbetrieb zugelassenen Zweckgesellschaften im Sinne des Artikels 211 der Richtlinie 2009/138/EG an den versicherungstechnischen Bruttorückstellungen im Sinne der §§ 341e bis 341h des Handelsgesetzbuchs des selbst abgeschlossenen Versicherungsgeschäfts gehören auch ohne Eintragung in das Vermögensverzeichnis zum Sicherungsvermögen. Für Forderungen an Versicherungs-Zweckgesellschaften mit Sitz in einem Drittstaat gilt dies nur dann, wenn die Versicherungs-Zweckgesellschaft im Sitzland entsprechend den Anforderungen des § 168 zum Geschäftsbetrieb staatlich zugelassen ist und beaufsichtigt wird sowie über eine vergleichbare Ausstattung mit Kapitalanlagen verfügt.
 
@@ -2962,7 +2962,7 @@ In diesem Fall gilt § 3a Absatz 1 Nummer 1 und 2 des Pflichtversicherungsgesetz
 
 # § 166 – Bestandsübertragungen; Umwandlungen
 
-(1) Jeder Vertrag, durch den ein Versicherungsbestand eines inländischen Rückversicherungsunternehmens ganz oder teilweise auf ein anderes Versicherungsunternehmen mit Sitz in einem Mitglied- oder Vertragsstaat übertragen werden soll, bedarf der Genehmigung der Bundesanstalt. Der Bestandsübertragungsvertrag bedarf der Schriftform; § 311b Absatz 3 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden. Die Genehmigung wird erteilt, wenn durch eine Bescheinigung der zuständigen Behörde des Mitglied- oder Vertragsstaats nachgewiesen ist, dass das übernehmende Unternehmen unter Berücksichtigung der Übertragung über anrechnungsfähige Eigenmittel zur Einhaltung der Solvabilitätskapitalanforderung verfügt. Die Rechte und Pflichten des übertragenden Unternehmens aus den Rückversicherungsverträgen gehen mit der Bestandsübertragung auch im Verhältnis zu den Vorversicherern auf das übernehmende Unternehmen über; § 415 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden. Die Genehmigung der Bestandsübertragung ist im Bundesanzeiger zu veröffentlichen. Sobald die Bestandsübertragung wirksam geworden ist, hat das übernehmende Versicherungsunternehmen unverzüglich die Vorversicherer über die Bestandsübertragung schriftlich zu informieren.
+(1) Jeder Vertrag, durch den ein Versicherungsbestand eines inländischen Rückversicherungsunternehmens ganz oder teilweise auf ein anderes Versicherungsunternehmen mit Sitz in einem Mitglied- oder Vertragsstaat übertragen werden soll, bedarf der Genehmigung der Bundesanstalt. Der Bestandsübertragungsvertrag bedarf der Schriftform; § 311b Absatz 3 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden. Die Genehmigung wird erteilt, wenn durch eine Bescheinigung der zuständigen Behörde des Mitglied- oder Vertragsstaats nachgewiesen ist, dass das übernehmende Unternehmen unter Berücksichtigung der Übertragung über anrechnungsfähige Eigenmittel zur Einhaltung der Solvabilitätskapitalanforderung verfügt. Die Rechte und Pflichten des übertragenden Unternehmens aus den Rückversicherungsverträgen gehen mit der Bestandsübertragung auch im Verhältnis zu den Vorversicherern auf das übernehmende Unternehmen über; § 415 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden. Die Genehmigung der Bestandsübertragung ist im Bundesanzeiger zu veröffentlichen. Sobald die Bestandsübertragung wirksam geworden ist, hat das übernehmende Versicherungsunternehmen unverzüglich die Vorversicherer über die Bestandsübertragung schriftlich oder elektronisch zu informieren.
 
 (2) Die vollständige oder teilweise Übertragung eines Versicherungsbestandes durch ein inländisches Rückversicherungsunternehmen auf eine Niederlassung eines Versicherungsunternehmens eines Drittstaats bedarf der Genehmigung durch die Bundesanstalt. Die Genehmigung darf nur erteilt werden, wenn die übernehmende Drittstaatenniederlassung nachweist, dass sie nach der Übertragung über anrechnungsfähige Eigenmittel zur Einhaltung der Solvabilitätskapitalanforderung verfügt. Wird die Kapitalausstattung der Drittstaatenniederlassung von der Aufsichtsbehörde eines anderen Mitglied- oder Vertragsstaats überwacht, hat der Nachweis durch eine Bescheinigung der zuständigen Behörde des anderen Mitglied- oder Vertragsstaats zu erfolgen. Absatz 1 Satz 2, 4 bis 6 ist entsprechend anzuwenden.
 
@@ -3715,7 +3715,7 @@ Auch ein nach § 8 zugelassenes Unternehmen kann beliehen werden. Durch die Rech
 
 # § 225 – Aufsicht
 
-Die Bundesanstalt hat Missständen entgegenzuwirken, welche die ordnungsgemäße Erfüllung der Aufgaben der Sicherungsfonds gefährden können. Die Bundesanstalt kann Anordnungen treffen, die geeignet und erforderlich sind, diese Missstände zu beseitigen oder zu verhindern. Der Bundesanstalt stehen gegenüber den Sicherungsfonds die Auskunfts- und Prüfungsrechte nach den §§ 305 und 306 zu. Im Übrigen gelten für die Sicherungsfonds nur die Vorschriften dieses Kapitels sowie § 332.
+Die Bundesanstalt hat Missständen entgegenzuwirken, welche die ordnungsgemäße Erfüllung der Aufgaben der Sicherungsfonds gefährden können. Die Bundesanstalt kann Anordnungen treffen, die geeignet und erforderlich sind, diese Missstände zu beseitigen oder zu verhindern. Der Bundesanstalt stehen gegenüber den Sicherungsfonds die Auskunfts- und Prüfungsrechte nach den §§ 305 und 306 zu. Im Übrigen gelten für die Sicherungsfonds nur die Vorschriften dieses Kapitels, § 332 sowie die Vorschriften einer Rechtsverordnung nach § 310a.
 
 # § 226 – Finanzierung
 
@@ -5159,7 +5159,7 @@ Haben ein oder mehrere Versicherungsunternehmen eine gemischte Versicherungs-Hol
 
 # § 293 – Aufsicht
 
-(1) Für Versicherungs-Holdinggesellschaften und gemischte Finanzholding-Gesellschaften gelten neben dem Absatz 3 die §§ 4, 16 bis 26, 29, 30, 32, 47 Nummer 1, 2 und 5 bis 7 sowie die §§ 303, 305, 306, 310 und 333 entsprechend; § 299 bleibt unberührt. Für Unternehmen, die auch das Erst- oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2 nur die Vorschriften über die Beaufsichtigung von Erst- oder Rückversicherungsunternehmen.
+(1) Für Versicherungs-Holdinggesellschaften und gemischte Finanzholding-Gesellschaften gelten neben dem Absatz 3 die §§ 4, 16 bis 26, 29, 30, 32, 47 Nummer 1, 2 und 5 bis 7, die §§ 303, 305, 306, 310 und 333 sowie die Vorschriften einer Rechtsverordnung nach § 310a entsprechend; § 299 bleibt unberührt. Für Unternehmen, die auch das Erst- oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2 nur die Vorschriften über die Beaufsichtigung von Erst- oder Rückversicherungsunternehmen.
 
 (2) In den Fällen des § 287 kann die Aufsichtsbehörde die erforderlichen Maßnahmen auch gegenüber der jeweiligen Versicherungs-Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft anordnen.
 
@@ -5392,6 +5392,8 @@ Der Widerruf der Erlaubnis steht den im Rahmen des Insolvenzverfahrens erforderl
 (6) Die Aufsichtsbehörde darf einzelne Daten aus der Datei nach § 24c Absatz 1 Satz 1 des Kreditwesengesetzes abrufen, soweit dies zur Erfüllung ihrer aufsichtlichen Aufgaben nach diesem Gesetz, insbesondere im Hinblick auf unerlaubt betriebene Versicherungsgeschäfte, erforderlich ist und besondere Eilbedürftigkeit im Einzelfall vorliegt. § 24c Absatz 4 des Kreditwesengesetzes ist entsprechend anzuwenden.
 
 (7) Soweit es zur Erteilung von Auskünften und zur Vorlage von Unterlagen erforderlich ist, dürfen die gemäß den Absätzen 1 bis 3 auskunfts- und vorlagepflichtigen Personen und Unternehmen Gesundheitsdaten im Sinne des Artikels 4 Nummer 15 der Verordnung (EU) 2016/679 verarbeiten. Die allgemeinen datenschutzrechtlichen Vorschriften bleiben unberührt. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
+
+(8) Die Aufsichtsbehörde kann bei Auskunfts- und Vorlageersuchen nach dieser Vorschrift eine elektronische Einreichung verlangen und nähere Bestimmungen über die Art und Weise der Übermittlung festlegen.
 
 (+++ § 305 Abs. 1 Nr. 1: Zur Anwendung vgl. § 169 Abs. 4 Satz 2, § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 292 Satz 2 +++)  
 (+++ § 305 Abs. 1, 2 Nr. 1 u. 2, Abs. 3 bis 5: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)  
@@ -5632,6 +5634,22 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 (2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde einschließlich der Androhung und Festsetzung von Zwangsmitteln nach § 18 Absatz 1 und 2, den §§ 19, 20, 25 Absatz 4 Satz 1 und 2, den §§ 36, 66a, 127 Absatz 2, § 133 Absatz 1 und 2, § 134 Absatz 7, § 135 Absatz 3, § 137 Absatz 2, den dem § 264 sowie nach § 298 Absatz 1 und 2 und § 299 Nummer 1, diese in Verbindung mit § 8 Absatz 1 oder § 15 Absatz 1 und 2 oder § 23 oder § 294 Absatz 6 oder § 295, nach § 298 Absatz 3, den §§ 301, 303 Absatz 2, § 304 Absatz 3 Nummer 2 und Absatz 4 Satz 2, § 305 Absatz 1 bis 4 und 6, den §§ 306, 307 Absatz 1 sowie den §§ 308, 308b, 312 und 314 haben keine aufschiebende Wirkung. Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde nach Artikel 6 Absatz 4, Artikel 8 Absatz 1 oder Artikel 63 der Verordnung (EU) 2019/1238 sowie gegen die Androhung und Festsetzung von Zwangsmitteln gegen diese Maßnahmen und Entscheidungen haben keine aufschiebende Wirkung.
 
 (+++ § 310: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)
+
+# § 310a – Elektronische Übermittlung; Verordnungsermächtigung
+
+(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für den Zuständigkeitsbereich der Bundesanstalt die Verpflichtung und das Verfahren zur elektronischen Einreichung und Nutzung elektronischer Kommunikationsverfahren zu regeln für Meldungen, Anzeigen, Berichte, Anträge und sonstige Informationen mit den hierzu notwendigen Unterlagen, die der Bundesanstalt vorzulegen sind
+
+1. nach diesem Gesetz und den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen sowie
+
+2. nach den in § 295 Absatz 1 genannten Verordnungen der Europäischen Union und den Rechtsakten, die zur Durchführung dieser Verordnungen und der Richtlinie 2009/138/EG erlassen worden sind.
+
+(2) Durch Rechtsverordnung nach Absatz 1 können insbesondere
+
+1. Regelungen getroffen werden, welches elektronische Kommunikationsverfahren für die jeweilige Verpflichtung zur elektronischen Einreichung bei der Bundesanstalt zu nutzen ist und welche Bestimmungen für dessen Nutzung gelten, einschließlich der Verpflichtung zu einem Zugang zu einem elektronischen Kommunikationsverfahren im Sinne der §§ 4f und 4g des Finanzdienstleistungsaufsichtsgesetzes, sowie
+
+2. nähere Bestimmungen getroffen werden über Art, Umfang, Zeitpunkt, Form und Datenformat der Einreichungen nach Absatz 1.
+
+(3) Das Bundesministerium der Finanzen kann die Ermächtigung nach den Absätzen 1 und 2 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt übertragen.
 
 # § 311 – Anzeige der Zahlungsunfähigkeit
 

@@ -15,7 +15,7 @@ Auf Grund des § 137i Absatz 3 Satz 1 in Verbindung mit Satz 2 des Fünften Buch
 
 # § 2 – Begriffsbestimmungen
 
-(1) Pflegekräfte im Sinne dieser Verordnung sind Pflegefachkräfte und Pflegehilfskräfte. Pflegefachkräfte sind Personen, die über die Erlaubnis zum Führen einer Berufsbezeichnung nach § 1 Absatz 1, § 58 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes verfügen oder deren Erlaubnis zum Führen der Berufsbezeichnung nach dem Krankenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder nach dem Altenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder nach § 64 des Pflegeberufegesetzes fortgilt. Pflegehilfskräfte sind Personen,
+(1) Pflegekräfte im Sinne dieser Verordnung sind Pflegefachkräfte und Pflegehilfskräfte. Pflegefachkräfte sind Personen, die über die Erlaubnis zum Führen einer Berufsbezeichnung nach § 1, § 58 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes verfügen oder deren Erlaubnis zum Führen der Berufsbezeichnung nach dem Krankenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder nach dem Altenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder nach § 64 des Pflegeberufegesetzes fortgilt. Pflegehilfskräfte sind Personen,
 
 1. die erfolgreich eine landesrechtlich geregelte Assistenz- oder Helferausbildung in der Pflege von mindestens einjähriger Dauer abgeschlossen haben, die die „Eckpunkte für die in Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und Helferberufen in der Pflege“ (BAnz AT 17.02.2016 B3) erfüllt, die von der Arbeits- und Sozialministerkonferenz 2012 und von der Gesundheitsministerkonferenz 2013 als Mindestanforderungen beschlossen wurden,
 
