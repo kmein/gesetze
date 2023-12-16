@@ -19,7 +19,7 @@ Dieses Gesetz gilt, soweit hierin nicht ausdrücklich etwas anderes geregelt ist
 
 (5) Institut im Sinne dieses Gesetzes ist ein Kreditinstitut im Sinne des Artikels 4 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6), die durch die Delegierte Verordnung (EU) 2015/62 (ABl. L 11 vom 17.1.2015, S. 37) geändert worden ist, eine Zweigniederlassung nach § 53b Absatz 1 Satz 1 oder 2 des Kreditwesengesetzes oder eine Zweigstelle nach § 53 des Kreditwesengesetzes.
 
-(6) Maßgebliche Zahlungskontendienste sind die mit einem Zahlungskonto verbundenen Dienste, die in der jeweils aktuellen Liste der repräsentativsten mit einem Zahlungskonto verbundenen Dienste enthalten sind, die von der Bundesanstalt für Finanzdienstleistungsaufsicht veröffentlicht worden ist.
+(6) Maßgebliche Zahlungskontendienste sind die mit einem Zahlungskonto verbundenen Dienste, die in der jeweils aktuellen Liste der repräsentativsten mit einem Zahlungskonto verbundenen Dienste enthalten sind, die von der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) nach § 47 Absatz 1 veröffentlicht worden ist.
 
 (7) Standardisierte Zahlungskontenterminologie ist die von der Europäischen Kommission gemäß Artikel 3 Absatz 4 der Richtlinie 2014/92/EU des Europäischen Parlaments und des Rates vom 23. Juli 2014 über die Vergleichbarkeit von Zahlungskontoentgelten, den Wechsel von Zahlungskonten und den Zugang zu Zahlungskonten mit grundlegenden Funktionen (ABl. L 257 vom 28.8.2014, S. 214) festgelegte jeweils aktuelle standardisierte Terminologie für die mit einem Zahlungskonto verbundenen Dienste.
 
@@ -145,15 +145,13 @@ Ein Zahlungsdienstleister hat einem Verbraucher bei einem Zahlungsdiensterahmenv
 
 Ein Zahlungsdienstleister, der sich öffentlich zur Führung von Zahlungskonten für Verbraucher erboten hat, hat die standardisierte Zahlungskontenterminologie auch für die Bezeichnung der maßgeblichen Zahlungskontendienste in anderen für Verbraucher bestimmten Informationen als der Entgeltinformation und der Entgeltaufstellung zu verwenden. Andere Bezeichnungen dürfen in diesen anderen Informationen für diese Dienste des Zahlungsdienstleisters nur dann verwendet werden, wenn der Zahlungsdienstleister zusätzlich eindeutig angibt, mit welchen Begriffen aus der standardisierten Zahlungskontenterminologie die betreffenden Dienste bezeichnet werden.
 
-# § 16 – Zertifizierung als Vergleichswebsite nach dem Zahlungskontengesetz, Berechtigung zur Führung dieser Bezeichnung sowie zur Verwendung des Zertifizierungssymbols
+# § 16 – Betrieb einer Vergleichswebsite für Zahlungskonten durch die Bundesanstalt
 
-(1) Dem Betreiber einer Website, die die in § 17 genannten Kriterien in der in § 18 vorgeschriebenen Art und Weise für den Verbraucher entgeltfrei vergleicht (Vergleichswebsite), ist auf Antrag ein Zertifikat durch die akkreditierten Konformitätsbewertungsstellen zu erteilen.
+Die Bundesanstalt betreibt eine Vergleichswebsite, die die in § 17 genannten Kriterien in der in § 18 vorgeschriebenen Art und Weise für den Verbraucher entgeltfrei vergleicht. Diese trägt die Bezeichnung „Vergleichswebsite nach dem Zahlungskontengesetz“.
 
-(2) Das Zertifikat nach Absatz 1 berechtigt den Betreiber der Website zur Führung der Bezeichnung „Vergleichswebsite nach dem Zahlungskontengesetz“ sowie zur Verwendung des Zertifizierungssymbols.
+# § 17 – Anforderungen an die Vergleichswebsite für Zahlungskonten, Meldepflicht für Zahlungsdienstleister
 
-# § 17 – Anforderungen an Vergleichskriterien
-
-Der Betreiber einer Vergleichswebsite muss auf dieser Vergleichswebsite das Angebot verschiedener Zahlungsdienstleister, die Zahlungskontendienste anbieten und Zahlungskonten führen, mindestens anhand der folgenden Kriterien vergleichen:
+(1) Die Vergleichswebsite muss das Angebot verschiedener Zahlungsdienstleister, die Zahlungskontendienste anbieten und Zahlungskonten führen, mindestens anhand der folgenden Kriterien vergleichen:
 
 1. die von den Zahlungsdienstleistern erhobenen Entgelte für die maßgeblichen Zahlungskontendienste sowie etwaige Kosten und Vertragsstrafen, die in Bezug auf die angebotenen Dienste oder Pakete vorgesehen sind,
 
@@ -163,13 +161,15 @@ Der Betreiber einer Vergleichswebsite muss auf dieser Vergleichswebsite das Ange
 
 4. den Sollzinssatz für eingeräumte Überziehungsmöglichkeiten gemäß § 504 des Bürgerlichen Gesetzbuchs und für geduldete Überziehungen gemäß § 505 des Bürgerlichen Gesetzbuchs.
 
-# § 18 – Weitere Anforderungen an Vergleichswebsites
+(2) Zahlungsdienstleister sind verpflichtet, der Bundesanstalt die Daten zu Kriterien nach Absatz 1 in Verbindung mit einer Rechtsverordnung nach § 19 Absatz 1 Nummer 1 und Absatz 3 zu melden. Änderungen und Aktualisierungen der gemeldeten Daten sowie Daten zu den Kriterien nach Absatz 1 in Verbindung mit einer Rechtsverordnung nach § 19 Absatz 1 Nummer 1 für neu angebotene Zahlungskonten sind der Bundesanstalt innerhalb von drei Geschäftstagen ab deren Gültigkeit zu melden. Für das Kriterium Geldautomatennetz ist eine halbjährliche Änderung und Aktualisierung der gemeldeten Daten ausreichend.
 
-Eine Vergleichswebsite muss
+# § 18 – Weitere Anforderungen an die Vergleichswebsite
+
+Die Vergleichswebsite muss
 
 1. unabhängig betrieben werden, wobei sicherzustellen ist, dass Zahlungsdienstleister bei den Vergleichsergebnissen gleichbehandelt werden;
 
-2. ihre Betreiber nennen;
+2. die Bundesanstalt als ihre Betreiberin nennen;
 
 3. klare und objektive Kriterien verwenden, auf die sich der Vergleich stützt;
 
@@ -183,25 +183,15 @@ Eine Vergleichswebsite muss
 
 # § 19 – Verordnungsermächtigung; Verwaltungsvorschriften
 
-(1) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz Rechtsverordnungen ohne Zustimmung des Bundesrates zu erlassen
+(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium der Justiz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz nähere Bestimmungen zu erlassen über die Konkretisierung und Ergänzung der in den §§ 17 und 18 genannten Anforderungen.
 
-1. zur Konkretisierung und Ergänzung der in den §§ 17 und 18 genannten Anforderungen,
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium der Justiz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz die für die Ausführung dieses Unterabschnittes und der auf ihm beruhenden Rechtsvorschriften zuständigen Behörden und Stellen zu bestimmen.
 
-2. zur Festlegung der an Akkreditierung und Konformitätsbewertung im Zusammenhang mit Vergleichswebsites gestellten Anforderungen,
+(3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium der Justiz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz zur Erfüllung der in den §§ 16 bis 18 genannten Vorgaben für die Vergleichswebsite nähere Bestimmungen zu erlassen über Art und Form der Bereitstellung oder Übermittlung der nach § 17 Absatz 2 zu meldenden Daten einschließlich der Zeitpunkte, der zulässigen Datenträger, Datenformate und Übertragungswege.
 
-3. zum Schutz und zur Gestaltung des Zertifizierungssymbols für Vergleichswebsites, insbesondere zu dessen Aufmachung, Zusammensetzung und Größe, und
+(4) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium der Justiz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz Verwaltungsvorschriften erlassen, die für die Ausführung dieses Unterabschnittes und der auf ihm beruhenden Rechtsvorschriften durch die zuständigen Behörden und Stellen erforderlich sind.
 
-4. zur Verwendung des Zertifizierungssymbols.
-
-(2) Das Bundesministerium der Finanzen bestimmt im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung ohne Zustimmung des Bundesrates die für die Ausführung dieses Unterabschnittes und der auf ihm beruhenden Rechtsvorschriften zuständigen Behörden und Stellen.
-
-(3) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Erfüllung der in den §§ 17 und 18 genannten Vorgaben für Vergleichswebsites
-
-1. Zahlungsdienstleister zu verpflichten, einer Behörde oder einer anderen in der Rechtsverordnung zu benennenden Stelle die Vergleichskriterien nach § 17 bereitzustellen oder ihr diese zu übermitteln, sowie
-
-2. nähere Bestimmungen zum Zeitpunkt sowie zur Art und Form der Bereitstellung oder Übermittlung der Vergleichskriterien nach § 17 zu erlassen.
-
-(4) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz Verwaltungsvorschriften erlassen, die für die Ausführung dieses Unterabschnittes und der auf ihm beruhenden Rechtsvorschriften durch die zuständigen Behörden und Stellen erforderlich sind.
+(5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Ermächtigungen nach den Absätzen 1 und 3 auf die Bundesanstalt mit der Maßgabe zu übertragen, dass die Rechtsverordnung der Bundesanstalt im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium der Justiz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz ergeht.
 
 # § 20 – Verpflichtung zur Gewährung von Kontenwechselhilfe
 
@@ -505,7 +495,7 @@ Institute, die Zahlungskonten auf dem Markt für Verbraucher anbieten, haben Ver
 
 (1) Ein Zahlungsdienstleister muss über eine ordnungsgemäße Geschäftsorganisation, über interne Verfahren und über Kontrollsysteme verfügen, die die Erfüllung der Pflichten dieses Gesetzes gewährleisten.
 
-(2) Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) überwacht die Einhaltung der Pflichten der Zahlungsdienstleister nach diesem Gesetz. Sie ist Kontaktstelle im Sinne des Artikels 22 Absatz 1 Unterabsatz 3 Satz 1 der Richtlinie 2014/92/EU.
+(2) Die Bundesanstalt überwacht die Einhaltung der Pflichten der Zahlungsdienstleister nach diesem Gesetz. Sie ist Kontaktstelle im Sinne des Artikels 22 Absatz 1 Unterabsatz 3 Satz 1 der Richtlinie 2014/92/EU.
 
 (3) Die Bundesanstalt kann gegenüber einem Zahlungsdienstleister oder seinen Geschäftsleitern Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen Pflichten des Zahlungsdienstleisters nach diesem Gesetz zu verhindern oder zu unterbinden. Widerspruch und Anfechtungsklage gegen diese Anordnungen haben keine aufschiebende Wirkung. Für die Durchsetzung der Anordnungen mit Zwangsmitteln ist § 17 des Finanzdienstleistungsaufsichtsgesetzes anzuwenden.
 
@@ -539,7 +529,7 @@ Die Frist nach Satz 1 Nummer 3 verringert sich um den Zeitraum, der zwischen dem
 
 2. wegen der in Absatz 1 Satz 1 Nummer 1 bis 3 genannten Gründe ein Verfahren vor der nach § 14 Absatz 1 des Unterlassungsklagengesetzes zuständigen Verbraucherschlichtungsstelle anhängig ist.
 
-(3) Die Bundesanstalt bestätigt dem Berechtigten schriftlich den Eingang des Antrags auf Durchführung des Verwaltungsverfahrens. Den Abschluss des Verwaltungsverfahrens bestätigt sie gleichermaßen.
+(3) Die Bundesanstalt bestätigt dem Berechtigten schriftlich oder elektronisch den Eingang des Antrags auf Durchführung des Verwaltungsverfahrens. Den Abschluss des Verwaltungsverfahrens bestätigt sie gleichermaßen.
 
 # § 49 – Anordnung bei unrechtmäßiger Ablehnung des Antrags auf Abschluss eines Basiskontovertrags, Untätigkeit und Fristversäumnis
 
@@ -593,31 +583,39 @@ In Streitigkeiten vor den Zivilgerichten um die Rechte und Pflichten des Berecht
 
 5. entgegen § 15 Satz 2 eine andere Bezeichnung verwendet,
 
-6. entgegen § 20 Absatz 1 Satz 1 Kontenwechselhilfe nicht oder nicht rechtzeitig erbringt,
+6. entgegen
 
-7. entgegen § 21 Absatz 1 Satz 3 oder § 27 Absatz 2 ein Formular nicht, nicht richtig oder nicht rechtzeitig übermittelt,
+a) § 17 Absatz 2 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 19 Absatz 3 Nummer 1 oder
 
-8. entgegen § 22 den übertragenden Zahlungsdienstleister nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig auffordert,
+b) § 17 Absatz 2 Satz 2,
 
-9. entgegen § 23 Absatz 1 oder § 24 Absatz 1 eine Leistung nicht oder nicht rechtzeitig erbringt,
+jeweils auch in Verbindung mit einer Rechtsverordnung nach § 19 Absatz 1 Nummer 1, auch in Verbindung mit einer Rechtsverordnung nach § 19 Absatz 5, eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-10. entgegen § 23 Absatz 2 ein Zahlungsauthentifizierungsinstrument sperrt,
+7. entgegen § 20 Absatz 1 Satz 1 Kontenwechselhilfe nicht oder nicht rechtzeitig erbringt,
 
-11. entgegen § 26 Absatz 3, 4 oder 5 ein Entgelt, eine Erstattung von Kosten oder eine Vertragsstrafe vereinbart,
+8. entgegen § 21 Absatz 1 Satz 3 oder § 27 Absatz 2 ein Formular nicht, nicht richtig oder nicht rechtzeitig übermittelt,
 
-12. entgegen § 29 Nummer 1 ein Verzeichnis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+9. entgegen § 22 den übertragenden Zahlungsdienstleister nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig auffordert,
 
-13. entgegen § 29 Nummer 2 einen Saldo nicht, nicht vollständig oder nicht rechtzeitig auszahlt und nicht, nicht vollständig oder nicht rechtzeitig überweist,
+10. entgegen § 23 Absatz 1 oder § 24 Absatz 1 eine Leistung nicht oder nicht rechtzeitig erbringt,
 
-14. entgegen § 29 Nummer 3 das Zahlungskonto nicht oder nicht rechtzeitig schließt,
+11. entgegen § 23 Absatz 2 ein Zahlungsauthentifizierungsinstrument sperrt,
 
-15. entgegen § 31 Absatz 2 Satz 1 den Abschluss eines Basiskontovertrags nicht oder nicht rechtzeitig anbietet,
+12. entgegen § 26 Absatz 3, 4 oder 5 ein Entgelt, eine Erstattung von Kosten oder eine Vertragsstrafe vereinbart,
 
-16. entgegen § 32 Absatz 1, auch in Verbindung mit Absatz 2, den Abschluss eines Basiskontovertrags von einer dort genannten Voraussetzung oder Koppelung abhängig macht oder
+13. entgegen § 29 Nummer 1 ein Verzeichnis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
-17. entgegen § 38 Absatz 1 ein Basiskonto nicht führt.
+14. entgegen § 29 Nummer 2 einen Saldo nicht, nicht vollständig oder nicht rechtzeitig auszahlt und nicht, nicht vollständig oder nicht rechtzeitig überweist,
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 8 und 10 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu dreihunderttausend Euro geahndet werden.
+15. entgegen § 29 Nummer 3 das Zahlungskonto nicht oder nicht rechtzeitig schließt,
+
+16. entgegen § 31 Absatz 2 Satz 1 den Abschluss eines Basiskontovertrags nicht oder nicht rechtzeitig anbietet,
+
+17. entgegen § 32 Absatz 1, auch in Verbindung mit Absatz 2, den Abschluss eines Basiskontovertrags von einer dort genannten Voraussetzung oder Koppelung abhängig macht oder
+
+18. entgegen § 38 Absatz 1 ein Basiskonto nicht führt.
+
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 9 und 11 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu dreihunderttausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 

@@ -486,7 +486,7 @@ sowie die Unterlagen und Informationen, die gegebenenfalls im Rahmen des mit ein
 
 elektronisch über das Verfahren gemäß Absatz 2 zu übermitteln.
 
-(2) Verwaltungsgesellschaften, extern verwaltete OGAW-Investmentaktiengesellschaften und Verwahrstellen sind verpflichtet, für die elektronische Übermittlung von in Absatz 1 aufgeführten Anzeigen, Anträgen, Mitteilungen, Berichten, Unterlagen, Informationen und Nachweise ein von der Bundesanstalt bereitgestelltes elektronisches Kommunikationsverfahren zu nutzen und hierfür den elektronischen Zugang einzurichten.Sie haben sicherzustellen, dass regelmäßig, spätestens alle fünf Kalendertage, überprüft wird, ob ihnen Mitteilungen über das elektronische Kommunikationsverfahren bereitgestellt wurden.Dies gilt auch für Verwaltungsakte, die gemäß § 4f des Finanzdienstleistungsaufsichtsgesetzes bekanntgegeben oder gemäß § 4g des Finanzdienstleistungsaufsichtsgesetzes zugestellt werden.Verwaltungsgesellschaften, extern verwaltete OGAW-Investmentaktiengesellschaften und Verwahrstellen können für die elektronische Kommunikation gegenüber der Bundesanstalt auch Bevollmächtigte einsetzen.
+(2) Verwaltungsgesellschaften, extern verwaltete OGAW-Investmentaktiengesellschaften und Verwahrstellen sind verpflichtet, für die elektronische Übermittlung von in Absatz 1 aufgeführten Anzeigen, Anträgen, Mitteilungen, Berichten, Unterlagen, Informationen und Nachweise ein von der Bundesanstalt bereitgestelltes elektronisches Kommunikationsverfahren zu nutzen und hierfür den elektronischen Zugang einzurichten. Sie haben sicherzustellen, dass regelmäßig, spätestens alle fünf Kalendertage, überprüft wird, ob ihnen Mitteilungen über das elektronische Kommunikationsverfahren bereitgestellt wurden. Dies gilt auch für Verwaltungsakte, die gemäß § 4f des Finanzdienstleistungsaufsichtsgesetzes elektronisch bekanntgegeben oder gemäß § 4g des Finanzdienstleistungsaufsichtsgesetzes elektronisch zugestellt werden. Verwaltungsgesellschaften, extern verwaltete OGAW-Investmentaktiengesellschaften und Verwahrstellen können für die elektronische Kommunikation gegenüber der Bundesanstalt auch Bevollmächtigte einsetzen.
 
 (3) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen
 
@@ -940,6 +940,8 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 (1) Wer beabsichtigt, allein oder im Zusammenwirken mit anderen Personen oder Unternehmen eine bedeutende Beteiligung an einer externen OGAW-Kapitalverwaltungsgesellschaft zu erwerben (interessierter Erwerber), hat dies der Bundesanstalt unverzüglich anzuzeigen. § 2c Absatz 1 Satz 2 bis 7 des Kreditwesengesetzes gilt entsprechend; § 2c Absatz 1 Satz 5 und 6 des Kreditwesengesetzes ist entsprechend anzuwenden mit der Maßgabe, dass die Anzeigen jeweils nur gegenüber der Bundesanstalt abzugeben sind.
 
+(1a) Die Bundesanstalt hat den Eingang einer vollständigen Anzeige nach Absatz 1 umgehend, spätestens jedoch innerhalb von zwei Arbeitstagen nach deren Zugang, gegenüber dem Anzeigepflichtigen zu bestätigen.
+
 (2) Die Bundesanstalt hat eine Anzeige nach Absatz 1 innerhalb von 60 Arbeitstagen ab dem Datum des Schreibens, mit dem sie den Eingang der vollständigen Anzeige bestätigt hat, zu beurteilen (Beurteilungszeitraum); im Übrigen gilt § 2c Absatz 1a des Kreditwesengesetzes entsprechend. Die Bundesanstalt kann innerhalb des Beurteilungszeitraums den beabsichtigten Erwerb der bedeutenden Beteiligung oder deren Erhöhung untersagen, wenn Tatsachen die Annahme rechtfertigen, dass
 
 1. die externe OGAW-Kapitalverwaltungsgesellschaft nicht in der Lage sein oder bleiben wird, den Aufsichtsanforderungen, insbesondere nach der Richtlinie 2009/65/EG, zu genügen, oder
@@ -955,6 +957,8 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 (4) Bei der Beurteilung nach Absatz 2 arbeitet die Bundesanstalt mit den zuständigen Stellen der anderen Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zusammen, wenn der Anzeigepflichtige eine der in § 8 Absatz 3 Satz 2 Nummer 1 bis 3 des Kreditwesengesetzes aufgeführten natürlichen oder juristischen Personen ist. § 8 Absatz 3 Satz 3 und 4 des Kreditwesengesetzes gilt entsprechend. Die Bundesanstalt hat in ihrer Entscheidung alle Bemerkungen oder Vorbehalte der für den Anzeigepflichtigen zuständigen Stelle anzugeben.
 
 (5) Wer beabsichtigt, eine bedeutende Beteiligung an einer externen OGAW-Kapitalverwaltungsgesellschaft aufzugeben oder den Betrag seiner bedeutenden Beteiligung unter die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals abzusenken oder die Beteiligung so zu verändern, dass die externe OGAW-Kapitalverwaltungsgesellschaft nicht mehr kontrolliertes Unternehmen ist, hat dies der Bundesanstalt unverzüglich anzuzeigen.
+
+(5a) Anzeigen, Unterlagen und Erklärungen nach den Absätzen 1 und 5 können auch ganz oder teilweise in englischer Sprache eingereicht werden. Die Bundesanstalt kann jederzeit bei Bedarf die Vorlage einer Übersetzung oder in begründeten Fällen einer beglaubigten oder von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer angefertigten Übersetzung verlangen. § 23 Absatz 2 Satz 3 und 4 des Verwaltungsverfahrensgesetzes gilt entsprechend. Sofern die Bundesanstalt eine Übersetzung verlangt, ist allein die deutschsprachige Fassung rechtlich verbindlich. Soweit die Bundesanstalt vor Bestätigung des Eingangs der vollständigen Anzeige eine Übersetzung verlangt, ist die Anzeige erst vollständig im Sinne des Absatzes 2 Satz 1, sobald die Übersetzung bei der Bundesanstalt eingereicht worden ist. Sofern die Bundesanstalt in Bezug auf weitere Informationen im Sinne des § 2c Absatz 1a Satz 3 des Kreditwesengesetzes eine Übersetzung verlangt, sind diese Informationen erst bei der Bundesanstalt eingegangen, wenn die Übersetzung bei der Bundesanstalt eingegangen ist.
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über Art, Umfang, Zeitpunkt, Form und Übertragungsweg der nach den Absätzen 1 und 5 zu erstattenden Anzeigen sowie über die Unterlagen, die mit der Anzeige vorzulegen sind. Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
@@ -1973,7 +1977,7 @@ Vor einer Untersagung hat die Bundesanstalt die zuständigen Stellen des Herkunf
 
 (4) Die Bundesanstalt unterrichtet die AIF-Kapitalverwaltungsgesellschaft unverzüglich über die Übermittlung der Unterlagen. Die AIF-Kapitalverwaltungsgesellschaft darf erst unmittelbar nach dem Eingang der Übermittlungsmeldung in dem jeweiligen Aufnahmemitgliedstaat mit der Verwaltung von EU-AIF oder der Erbringung von Dienst- und Nebendienstleistungen beginnen.
 
-(5) Eine Änderung der nach Absatz 1 oder Absatz 2 übermittelten Angaben hat die AIF-Kapitalverwaltungsgesellschaft der Bundesanstalt mindestens einen Monat vor der Durchführung der geplanten Änderungen anzuzeigen. Im Fall von ungeplanten Änderungen hat die AIF-Kapitalverwaltungsgesellschaft die Änderung der Bundesanstalt unmittelbar nach dem Eintritt der Änderung schriftlich anzuzeigen.
+(5) Eine Änderung der nach Absatz 1 oder Absatz 2 übermittelten Angaben hat die AIF-Kapitalverwaltungsgesellschaft der Bundesanstalt mindestens einen Monat vor der Durchführung der geplanten Änderungen anzuzeigen. Im Fall von ungeplanten Änderungen hat die AIF-Kapitalverwaltungsgesellschaft die Änderung der Bundesanstalt unmittelbar nach dem Eintritt der Änderung anzuzeigen.
 
 (6) Würde die geplante Änderung dazu führen, dass die AIF-Kapitalverwaltungsgesellschaft, die Verwaltung des EU-AIF oder die Erbringung der Dienst- und Nebendienstleistungen gegen dieses Gesetz oder aufgrund dieses Gesetzes erlassene Bestimmungen verstößt, untersagt die Bundesanstalt der AIF-Kapitalverwaltungsgesellschaft innerhalb von 15 Arbeitstagen nach Eingang sämtlicher in Absatz 5 genannten Angaben die Änderung.
 
@@ -5096,7 +5100,9 @@ Auf die Verwaltung von Sonstigen Investmentvermögen nach Maßgabe der §§ 220 
 
 3. Edelmetalle,
 
-4. unverbriefte Darlehensforderungen.
+4. unverbriefte Darlehensforderungen,
+
+5. Kryptowerte im Sinne von § 1 Absatz 11 Satz 4 des Kreditwesengesetzes zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann.
 
 (2) Ist es der AIF-Kapitalverwaltungsgesellschaft nach den Anlagebedingungen gestattet, für Rechnung des Sonstigen Investmentvermögens Anteile oder Aktien an anderen Sonstigen Investmentvermögen sowie an entsprechenden EU-AIF oder ausländischen AIF zu erwerben, gelten § 225 Absatz 3 und 4 Satz 2 und 3, § 228 Absatz 1 und § 229 Absatz 2 entsprechend. Ist es der AIF-Kapitalverwaltungsgesellschaft nach den Anlagebedingungen gestattet, für Rechnung des Sonstigen Investmentvermögens Anteile oder Aktien an inländischen Investmentvermögen nach Maßgabe des § 218 sowie an entsprechenden EU-AIF oder ausländischen AIF zu erwerben, gilt § 219 Absatz 2 und 3 entsprechend.
 
@@ -5104,7 +5110,7 @@ Auf die Verwaltung von Sonstigen Investmentvermögen nach Maßgabe der §§ 220 
 
 (4) Die AIF-Kapitalverwaltungsgesellschaft darf in Vermögensgegenstände im Sinne des § 198 nur bis zu 20 Prozent des Wertes des Sonstigen Investmentvermögens anlegen.
 
-(5) Die AIF-Kapitalverwaltungsgesellschaft muss sicherstellen, dass der Anteil der für Rechnung des Sonstigen Investmentvermögens gehaltenen Edelmetalle, Derivate und unverbrieften Darlehensforderungen einschließlich solcher, die als sonstige Anlageinstrumente im Sinne des § 198 erwerbbar sind, 30 Prozent des Wertes des Sonstigen Investmentvermögens nicht übersteigt. Derivate im Sinne des § 197 Absatz 1 werden auf diese Grenze nicht angerechnet.
+(5) Die AIF-Kapitalverwaltungsgesellschaft muss sicherstellen, dass der Anteil der für Rechnung des Sonstigen Investmentvermögens gehaltenen Edelmetalle, Derivate und unverbrieften Darlehensforderungen einschließlich solcher, die als sonstige Anlageinstrumente im Sinne des § 198 erwerbbar sind, 30 Prozent des Wertes des Sonstigen Investmentvermögens nicht übersteigt. Derivate im Sinne des § 197 Absatz 1 werden auf diese Grenze nicht angerechnet. Die AIF-Kapitalverwaltungsgesellschaft muss sicherstellen, dass der Anteil der für Rechnung des Sonstigen Investmentvermögens gehaltenen Kryptowerte zehn Prozent des Wertes des Sonstigen Investmentvermögens nicht übersteigt.
 
 (6) Die AIF-Kapitalverwaltungsgesellschaft darf für gemeinschaftliche Rechnung der Anleger kurzfristige Kredite nur bis zur Höhe von 20 Prozent des Wertes des Sonstigen Investmentvermögens und nur aufnehmen, wenn die Bedingungen der Kreditaufnahme marktüblich sind und dies in den Anlagebedingungen vorgesehen ist.
 
@@ -5138,7 +5144,7 @@ Die AIF-Kapitalverwaltungsgesellschaft darf Vermögensgegenstände desselben Mik
 
 # § 223 – Sonderregelungen für die Ausgabe und Rücknahme von Anteilen oder Aktien
 
-(1) Die Anlagebedingungen von Sonstigen Investmentvermögen können abweichend von § 98 Absatz 1 oder § 116 Absatz 2 Satz 1 vorsehen, dass die Rücknahme von Anteilen oder Aktien höchstens einmal halbjährlich und mindestens einmal jährlich zu einem in den Anlagebedingungen bestimmten Termin erfolgt, wenn zum Zeitpunkt der Rückgabe der Anteile oder Aktien die Summe der Werte der zurückgegebenen Anteile oder Aktien einen in den Anlagebedingungen bestimmten Betrag überschreitet. In den Fällen des Satzes 1 müssen die Anlagebedingungen vorsehen, dass die Rückgabe eines Anteils oder von Aktien durch eine unwiderrufliche schriftliche Rückgabeerklärung gegenüber der AIF-Kapitalverwaltungsgesellschaft unter Einhaltung einer Rückgabefrist erfolgen muss, die mindestens einen Monat betragen muss und höchstens zwölf Monate betragen darf; § 227 Absatz 3 gilt entsprechend.
+(1) Die Anlagebedingungen von Sonstigen Investmentvermögen können abweichend von § 98 Absatz 1, Absatz 1b Satz 1 bis 3 oder § 116 Absatz 2 Satz 1 vorsehen, dass die Rücknahme von Anteilen oder Aktien höchstens einmal halbjährlich und mindestens einmal jährlich zu einem in den Anlagebedingungen bestimmten Termin erfolgt, wenn zum Zeitpunkt der Rückgabe der Anteile oder Aktien die Summe der Werte der zurückgegebenen Anteile oder Aktien einen in den Anlagebedingungen bestimmten Betrag überschreitet. In den Fällen des Satzes 1 müssen die Anlagebedingungen vorsehen, dass die Rückgabe eines Anteils oder von Aktien durch eine unwiderrufliche Rückgabeerklärung gegenüber der AIF-Kapitalverwaltungsgesellschaft unter Einhaltung einer Rückgabefrist erfolgen muss, die mindestens einen Monat betragen muss und höchstens zwölf Monate betragen darf; § 227 Absatz 3 gilt entsprechend.
 
 (2) In den Fällen des § 222 Absatz 1 ist § 98 Absatz 1 oder § 116 Absatz 2 Satz 1 mit der Maßgabe anzuwenden, dass die Anlagebedingungen vorsehen müssen, dass die Rücknahme von Anteilen oder Aktien nur zu bestimmten Rücknahmeterminen erfolgt, jedoch höchstens einmal vierteljährlich und mindestens einmal jährlich. Die Rückgabe von Anteilen oder Aktien ist nur zulässig durch eine unwiderrufliche Rückgabeerklärung unter Einhaltung einer Rückgabefrist, die zwischen einem Monat und 24 Monaten betragen muss; § 227 Absatz 3 gilt entsprechend.
 
@@ -5146,9 +5152,9 @@ Die AIF-Kapitalverwaltungsgesellschaft darf Vermögensgegenstände desselben Mik
 
 (1) Der Verkaufsprospekt muss bei Sonstigen Investmentvermögen zusätzlich zu den Angaben nach § 165 folgende Angaben enthalten:
 
-1. ob und in welchem Umfang in Vermögensgegenstände im Sinne des § 198, in Edelmetalle, Derivate und unverbriefte Darlehensforderungen angelegt werden darf;
+1. ob und in welchem Umfang in Vermögensgegenstände im Sinne des § 198, in Edelmetalle, Derivate, unverbriefte Darlehensforderungen und Kryptowerte angelegt werden darf;
 
-2. eine Beschreibung der wesentlichen Merkmale der für das Sonstige Investmentvermögen erwerbbaren unverbrieften Darlehensforderungen;
+2. eine Beschreibung der wesentlichen Merkmale der für das Sonstige Investmentvermögen erwerbbaren unverbrieften Darlehensforderungen oder Kryptowerte;
 
 3. Angaben zu dem Umfang, in dem Kredite aufgenommen werden dürfen, verbunden mit einer Erläuterung der Risiken, die damit verbunden sein können;
 
@@ -5162,7 +5168,7 @@ Die AIF-Kapitalverwaltungsgesellschaft darf Vermögensgegenstände desselben Mik
 
 (2) Die Anlagebedingungen eines Sonstigen Investmentvermögens müssen zusätzlich zu den Angaben nach § 162 folgende Angaben enthalten:
 
-1. die Arten der Edelmetalle, Derivate und Darlehensforderungen, die für das Sonstige Investmentvermögen erworben werden dürfen;
+1. die Arten der Edelmetalle, Derivate, Darlehensforderungen und Kryptowerte, die für das Sonstige Investmentvermögen erworben werden dürfen;
 
 2. in welchem Umfang die zulässigen Vermögensgegenstände erworben werden dürfen;
 
@@ -5854,7 +5860,9 @@ Auf die Verwaltung von Infrastruktur-Sondervermögen nach Maßgabe der §§ 260b
 
 7. Vermögensgegenstände nach den §§ 193 bis 195,
 
-8. Gelddarlehen nach § 285 Absatz 3 Satz 1 und 3, der mit der Maßgabe entsprechend anwendbar ist, dass abweichend von § 285 Absatz 3 Satz 1 höchstens 30 Prozent des aggregierten eingebrachten Kapitals und des noch nicht eingeforderten zugesagten Kapitals des geschlossenen Publikums-AIF für diese Darlehen verwendet werden und im Fall des § 285 Absatz 3 Satz 1 Nummer 3 die dem jeweiligen Unternehmen gewährten Darlehen nicht die Anschaffungskosten der an dem Unternehmen gehaltenen Beteiligungen überschreiten.
+8. Gelddarlehen nach § 285 Absatz 3 Satz 1 und 3, der mit der Maßgabe entsprechend anwendbar ist, dass abweichend von § 285 Absatz 3 Satz 1 höchstens 30 Prozent des aggregierten eingebrachten Kapitals und des noch nicht eingeforderten zugesagten Kapitals des geschlossenen Publikums-AIF für diese Darlehen verwendet werden und im Fall des § 285 Absatz 3 Satz 1 Nummer 3 die dem jeweiligen Unternehmen gewährten Darlehen nicht die Anschaffungskosten der an dem Unternehmen gehaltenen Beteiligungen überschreiten,
+
+9. Kryptowerte im Sinne des § 1 Absatz 11 Satz 4 des Kreditwesengesetzes zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann.
 
 (2) Sachwerte im Sinne von Absatz 1 Nummer 1 sind insbesondere
 
@@ -5876,7 +5884,7 @@ Auf die Verwaltung von Infrastruktur-Sondervermögen nach Maßgabe der §§ 260b
 
 (3) Geschäfte, die Derivate zum Gegenstand haben, dürfen nur zur Absicherung von im geschlossenen inländischen Publikums-AIF gehaltenen Vermögensgegenständen gegen einen Wertverlust getätigt werden.
 
-(4) Die AIF-Kapitalverwaltungsgesellschaft hat sicherzustellen, dass die Vermögensgegenstände eines geschlossenen inländischen Publikums-AIF nur insoweit einem Währungsrisiko unterliegen, als der Wert der einem solchen Risiko unterliegenden Vermögensgegenstände 30 Prozent des aggregierten eingebrachten Kapitals und noch nicht eingeforderten zugesagten Kapitals dieses AIF, berechnet auf der Grundlage der Beträge, die nach Abzug sämtlicher direkt oder indirekt von den Anlegern getragener Gebühren, Kosten und Aufwendungen für Anlagen zur Verfügung stehen, nicht übersteigt.
+(4) Die AIF-Kapitalverwaltungsgesellschaft hat sicherzustellen, dass die Vermögensgegenstände eines geschlossenen inländischen Publikums-AIF nur insoweit einem Währungsrisiko unterliegen, als der Wert der einem solchen Risiko unterliegenden Vermögensgegenstände 30 Prozent des aggregierten eingebrachten Kapitals und noch nicht eingeforderten zugesagten Kapitals dieses AIF, berechnet auf der Grundlage der Beträge, die nach Abzug sämtlicher direkt oder indirekt von den Anlegern getragener Gebühren, Kosten und Aufwendungen für Anlagen zur Verfügung stehen, nicht übersteigt. Die AIF-Kapitalverwaltungsgesellschaft muss sicherstellen, dass der Anteil der für Rechnung des geschlossenen inländischen Publikums-AIF gehaltenen Kryptowerte zehn Prozent des Wertes des geschlossenen inländischen Publikums-AIF nicht übersteigt.
 
 (5) In einen Vermögensgegenstand im Sinne des Absatzes 1 Nummer 1 darf nur investiert werden, wenn
 
@@ -6024,7 +6032,13 @@ a) eine Beschreibung der wesentlichen Merkmale von ÖPP-Projektgesellschaften;
 
 b) die Arten von ÖPP-Projektgesellschaften, die für den geschlossenen Publikums-AIF erworben werden dürfen, und nach welchen Grundsätzen sie ausgewählt werden;
 
-c) ein Hinweis, dass in Beteiligungen an ÖPP-Projektgesellschaften, die nicht zum Handel an einer Börse zugelassen oder in einen anderen organisierten Markt einbezogen sind, angelegt werden darf.
+c) ein Hinweis, dass in Beteiligungen an ÖPP-Projektgesellschaften, die nicht zum Handel an einer Börse zugelassen oder in einen anderen organisierten Markt einbezogen sind, angelegt werden darf;
+
+4. bei geschlossenen Publikums-AIF, die in Vermögensgegenstände gemäß § 261 Absatz 1 Nummer 9 investieren,
+
+a) in welchem Umfang in Kryptowerte angelegt werden darf;
+
+b) eine Beschreibung der wesentlichen Merkmale der für den geschlossenen Publikums-AIF erwerbbaren Kryptowerte.
 
 (3) Sofern bereits feststeht, in welche konkreten Anlageobjekte im Sinne von § 261 Absatz 1 Nummer 1 investiert werden soll, sind folgende Angaben zu den Anlageobjekten zusätzlich in den Verkaufsprospekt mit aufzunehmen:
 
@@ -6402,7 +6416,7 @@ j) Kryptowerte im Sinne von § 1 Absatz 11 Satz 4 des Kreditwesengesetzes zu Anl
 
 (3) Die AIF-Kapitalverwaltungsgesellschaft darf für einen offenen inländischen Spezial-AIF mit festen Anlagebedingungen
 
-1. in Beteiligungen an Unternehmen, die nicht zum Handel an einer Börse zugelassen oder in einen organisierten Markt einbezogen sind, und
+1. in Beteiligungen an Unternehmen, die nicht zum Handel an einer Börse zugelassen oder in einen organisierten Markt einbezogen sind und bei denen es sich nicht um Gesellschaften im Sinne von Absatz 2 Nummer 2 Buchstabe f und h handelt, und
 
 2. Kryptowerte
 
@@ -6990,7 +7004,7 @@ Wurde die Abnahme von Anteilen oder Aktien für einen mehrjährigen Zeitraum ver
 
 (6) Die Vorschrift ist auf den Verkauf von Anteilen oder Aktien durch den Anleger entsprechend anwendbar.
 
-(7) Das Widerrufsrecht in Bezug auf Anteile und Aktien eines geschlossenen Investmentvermögens richtet sich nach dem Bürgerlichen Gesetzbuch.
+(7) Das Widerrufsrecht in Bezug auf Anteile und Aktien eines geschlossenen Investmentvermögens richtet sich nach dem Bürgerlichen Gesetzbuch. Das Widerrufsrecht in Bezug auf Anteile und Aktien eines europäischen langfristigen Investmentfonds im Sinne der Verordnung (EU) 2015/760 richtet sich nach Artikel 30 dieser Verordnung.
 
 (8) Anleger, die vor der Veröffentlichung eines Nachtrags zum Verkaufsprospekt eine auf den Erwerb eines Anteils oder einer Aktie eines geschlossenen Publikums-AIF gerichtete Willenserklärung abgegeben haben, können diese innerhalb einer Frist von zwei Werktagen nach Veröffentlichung des Nachtrags widerrufen, sofern noch keine Erfüllung eingetreten ist. Der Widerruf muss keine Begründung enthalten und ist in Textform gegenüber der im Nachtrag als Empfänger des Widerrufs bezeichneten Verwaltungsgesellschaft oder Person zu erklären; zur Fristwahrung reicht die rechtzeitige Absendung. Auf die Rechtsfolgen des Widerrufs ist § 357b des Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
 

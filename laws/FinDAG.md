@@ -61,6 +61,10 @@ Bekanntgabe und Zustellung im Ausland
 
 Absehen von einer Anhörung
 
+§ 4j
+
+Anträge und Informationen in englischer Sprache
+
 Zweiter Abschnitt
 
  
@@ -203,7 +207,7 @@ Aufgabenbereich Bilanzkontrolle
 
 § 16m
 
-Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit
+Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit; Verpflichtung zur elektronischen Kommunikation; Verordnungsermächtigung
 
 § 16n
 
@@ -359,7 +363,7 @@ Für die Vorlage von Urkunden oder Akten, die Übermittlung elektronischer Dokum
 
 # § 4d – Meldung von Verstößen; Verordnungsermächtigung
 
-(1) Die Bundesanstalt errichtet ein System zur Annahme von Meldungen über potentielle oder tatsächliche Verstöße gegen Gesetze, Rechtsverordnungen, Allgemeinverfügungen und sonstige Vorschriften sowie Verordnungen und Richtlinien der Europäischen Union, bei denen es die Aufgabe der Bundesanstalt ist, deren Einhaltung durch die von ihr beaufsichtigten Unternehmen und Personen sicherzustellen oder Verstöße dagegen zu ahnden. Die Meldungen können auch anonym abgegeben werden.
+(1) Die Bundesanstalt errichtet ein System zur Annahme von Meldungen über potentielle oder tatsächliche Verstöße gegen Gesetze, Rechtsverordnungen, Allgemeinverfügungen und sonstige Vorschriften sowie Verordnungen und Richtlinien der Europäischen Union, bei denen es die Aufgabe der Bundesanstalt ist, deren Einhaltung durch die von ihr beaufsichtigten Unternehmen und Personen sicherzustellen oder Verstöße dagegen zu ahnden. Die Meldungen können auch anonym abgegeben werden. Sie können in englischer Sprache erfolgen.
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über Inhalt, Art, Umfang und Form der Meldung von Verstößen, für die die Bundesanstalt nach Absatz 1 und § 21 des Hinweisgeberschutzgesetzes zuständig ist, einschließlich der von Absatz 1 erfassten Rechtsverordnungen, Allgemeinverfügungen und sonstigen Vorschriften sowie Verordnungen und Richtlinien der Europäischen Union, erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
@@ -408,6 +412,18 @@ Unter diesen Voraussetzungen ist die Bundesanstalt auch von den Pflichten nach d
 # § 4i – Absehen von einer Anhörung
 
 Die Bundesanstalt kann innerhalb ihrer gesetzlichen Befugnisse die Erteilung von Auskünften und die Vorlage von Unterlagen verlangen, ohne dass dem Adressaten zuvor nach § 28 Absatz 1 des Verwaltungsverfahrensgesetzes Gelegenheit gegeben werden muss, sich zu den für die Entscheidung erheblichen Tatsachen zu äußern.
+
+# § 4j – Anträge und Informationen in englischer Sprache
+
+(1) Anträge an die Bundesanstalt können auch ganz oder teilweise in englischer Sprache gestellt werden. Die Bundesanstalt kann jederzeit bei Bedarf die Vorlage einer Übersetzung oder in begründeten Fällen einer beglaubigten oder von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer angefertigten Übersetzung verlangen. § 23 Absatz 2 Satz 3 und 4 des Verwaltungsverfahrensgesetzes bleibt unberührt. Sofern die Bundesanstalt eine Übersetzung verlangt, ist allein die deutschsprachige Fassung des Antrags rechtlich maßgeblich.
+
+(2) Soll durch einen elektronisch gestellten Antrag in englischer Sprache eine Frist in Lauf gesetzt werden, innerhalb derer die Bundesanstalt in einer bestimmten Weise tätig werden muss, so beginnt der Lauf der Frist mit Eingang des Antrags in englischer Sprache. Der Lauf der Frist ist gehemmt, sobald die Bundesanstalt eine Übersetzung oder in begründeten Fällen eine beglaubigte oder von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer angefertigte Übersetzung verlangt. Die Hemmung endet, sobald eine diesen Anforderungen genügende Übersetzung vorliegt. § 209 des Bürgerlichen Gesetzbuchs gilt entsprechend. Für die Übermittlung des Übersetzungsverlangens nach Satz 2 ist § 4h entsprechend anwendbar.
+
+(3) Ein elektronisch gestellter Antrag in englischer Sprache, mit dem zugunsten eines Beteiligten eine Frist gegenüber der Behörde gewahrt werden soll, gilt abweichend von § 23 Absatz 4 Satz 1 des Verwaltungsverfahrensgesetzes im Zeitpunkt des Eingangs bei der Bundesanstalt als abgegeben. Verlangt die Bundesanstalt unverzüglich nach Eingang des Antrags, dass innerhalb einer von ihr zu setzenden angemessenen Frist eine Übersetzung oder in begründeten Fällen eine beglaubigte oder von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer angefertigte Übersetzung einzureichen ist, so tritt die Wirkung des Satzes 1 nur ein, wenn die Übersetzung fristgemäß eingeht. Auf diese Rechtsfolge ist bei der Fristsetzung hinzuweisen. Für die Übermittlung des Übersetzungsverlangens nach Satz 2 ist § 4h entsprechend anwendbar.
+
+(4) Rechtsverordnungen der Bundesanstalt, Formulare und Verwaltungsvorschriften, die sich an die Allgemeinheit richten und auch für ausländische Marktteilnehmer relevant sein können, soll die Bundesanstalt binnen sechs Monaten nach Veröffentlichung auch in englischer Sprache zugänglich machen. Rechtlich maßgeblich bleibt allein die deutschsprachige Fassung.
+
+(5) Spezialgesetzliche Regelungen bleiben unberührt.
 
 # § 5 – Organe, Satzung
 
@@ -626,10 +642,10 @@ b) eine Bekanntmachung nach § 7 Absatz 1 Satz 3, nach § 39 Absatz 3 oder 4, je
 c) eine Prüfung, die vorgenommen wurde auf Grund
 
 aa)  
-des § 8 Absatz 2, auch in Verbindung mit Maßnahmen nach Abs. 3 oder 4 oder des § 19 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes,
+des § 39 Absatz 3 oder Absatz 4, jeweils in Verbindung mit § 8 Absatz 2, 3 oder 4 oder § 19 Absatz 1 Satz 3 des Zahlungsdiensteaufsichtsgesetzes,
 
 bb)  
-des § 39 Absatz 3 oder 4, jeweils in Verbindung mit § 8 Absatz 2, 3 oder 4 oder § 19 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes,
+des § 8 Absatz 2, auch in Verbindung mit Maßnahmen nach Absatz 3 oder Absatz 4 oder des § 19 Absatz 1 Satz 3 des Zahlungsdiensteaufsichtsgesetzes,
 
 11. durch Maßnahmen nach dem Sanierungs- und Abwicklungsgesetz, dem Restrukturierungsfondsgesetz oder der Verordnung (EU) Nr. 806/2014 des Europäischen Parlaments und des Rates vom 15. Juli 2014 zur Festlegung einheitlicher Vorschriften und eines einheitlichen Verfahrens für die Abwicklung von Kreditinstituten und bestimmten Wertpapierfirmen im Rahmen eines einheitlichen Abwicklungsmechanismus und eines einheitlichen Abwicklungsfonds sowie zur Änderung der Verordnung (EU) Nr. 1093/2010 (ABl. L 225 vom 30.7.2014, S. 1, L 101 vom 18.4.2015, S. 62),
 
@@ -998,7 +1014,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (+++ § 16l: Zur Anwendung vgl. § 24 +++)
 
-# § 16m – Entstehung der Umlageforderung, Festsetzung des Umlagebetrages und Fälligkeit
+# § 16m – Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit; Verpflichtung zur elektronischen Kommunikation; Verordnungsermächtigung
 
 (1) Die Umlageforderung entsteht mit Ablauf des Umlagejahres, für das die Umlagepflicht besteht.
 
@@ -1006,15 +1022,19 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (3) Die Bundesanstalt hat den Umlagebetrag schriftlich oder elektronisch festzusetzen, sobald er nach Absatz 2 abschließend ermittelt worden ist. Der Umlagebetrag ist kaufmännisch auf volle Euro zu runden. Eine vorherige Anhörung der Umlagepflichtigen ist nicht erforderlich.
 
-(4) Die Umlageforderung wird mit der Bekanntgabe ihrer Festsetzung an den Umlagepflichtigen fällig, wenn nicht die Bundesanstalt im Einzelfall einen späteren Zeitpunkt bestimmt.
+(4) Die nach den §§ 16e bis 16l Umlagepflichtigen sind verpflichtet, der Bundesanstalt die für Zwecke der Umlagefestsetzung und -erhebung erforderlichen Informationen, Dokumente, Mitteilungen, Anzeigen und Anträge elektronisch zu übermitteln, es sei denn, die Bundesanstalt bestimmt eine andere Art und Weise der Übermittlung. Sie sind verpflichtet, zu diesem Zweck das von der Bundesanstalt bereitgestellte elektronische Kommunikationsverfahren zu nutzen und hierfür den elektronischen Zugang einzurichten. Dies gilt auch für Verwaltungsakte, die nach § 4f elektronisch bekanntgegeben oder nach § 4g elektronisch zugestellt werden.
 
-(5) Die Bundesanstalt kann zulassen, dass ein Verband die Umlagebeträge der ihm angehörenden Umlagepflichtigen für diese Umlagepflichtigen in einer Summe entrichtet, wenn er sich hierzu in Schriftform gegenüber der Bundesanstalt verpflichtet hat. In diesem Fall werden die Festsetzungen gegenüber den verbandsangehörigen Umlagepflichtigen diesen über den Verband bekannt gegeben, soweit sich die Umlagepflichtigen damit einverstanden erklärt haben oder der Verband erklärt hat, zum Empfang der Festsetzungen ermächtigt zu sein. Eine gesonderte Bekanntgabe der Festsetzung an den einzelnen verbandsangehörigen Umlagepflichtigen ist insoweit entbehrlich.
+(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über Inhalt, Umfang und Form der zu übermittelnden Informationen und Dokumente und über Zugang und Nutzung des elektronischen Kommunikationsverfahrens sowie über Datenformate für Informationen und Dokumente nach Absatz 4 erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+
+(6) Die Umlageforderung wird mit der Bekanntgabe ihrer Festsetzung an den Umlagepflichtigen fällig, wenn nicht die Bundesanstalt im Einzelfall einen späteren Zeitpunkt bestimmt.
+
+(7) Die Bundesanstalt kann zulassen, dass ein Verband die Umlagebeträge der ihm angehörenden Umlagepflichtigen für diese Umlagepflichtigen in einer Summe entrichtet, wenn er sich hierzu schriftlich oder elektronisch gegenüber der Bundesanstalt verpflichtet hat. In diesem Fall werden die Festsetzungen gegenüber den verbandsangehörigen Umlagepflichtigen diesen über den Verband bekannt gegeben, soweit sich die Umlagepflichtigen damit einverstanden erklärt haben oder der Verband erklärt hat, zum Empfang der Festsetzungen ermächtigt zu sein. Eine gesonderte Bekanntgabe der Festsetzung an den einzelnen verbandsangehörigen Umlagepflichtigen ist insoweit entbehrlich.
 
 (+++ § 16m: Zur Anwendung vgl. § 24 +++)
 
 # § 16n – Festsetzung und Fälligkeit von Umlagevorauszahlungen
 
-(1) Die Bundesanstalt hat eine Vorauszahlung auf den Umlagebetrag eines Umlagejahres festzusetzen, sobald der für dieses Umlagejahr festgestellte Haushaltsplan vom Bundesministerium der Finanzen genehmigt ist. Der Festsetzung sind die Ausgaben zugrunde zu legen, die in dem Haushaltsplan für dieses Umlagejahr veranschlagt sind. § 16m Absatz 3 und 5 gilt entsprechend.
+(1) Die Bundesanstalt hat eine Vorauszahlung auf den Umlagebetrag eines Umlagejahres festzusetzen, sobald der für dieses Umlagejahr festgestellte Haushaltsplan vom Bundesministerium der Finanzen genehmigt ist. Der Festsetzung sind die Ausgaben zugrunde zu legen, die in dem Haushaltsplan für dieses Umlagejahr veranschlagt sind. § 16m Absatz 3 bis 5 und 7 gilt entsprechend.
 
 (2) Vorauszahlungspflichtig ist, wer im letzten abgerechneten Umlagejahr umlagepflichtig war und im Jahr der Festsetzung der Vorauszahlung umlagepflichtig ist, es sei denn, er weist im Jahr der Vorauszahlungsfestsetzung vor dem 1. Dezember nach, dass er im darauf folgenden Jahr nicht mehr umlagepflichtig sein wird. Wird der Nachweis nach Satz 1 nicht fristgerecht erbracht, hat der Vorauszahlungspflichtige den Vorauszahlungsbetrag auch dann für das volle Umlagejahr zu leisten, wenn er in diesem Jahr teilweise oder überhaupt nicht mehr umlagepflichtig sein wird. Eine anteilige Ermittlung der Vorauszahlung ist ausgeschlossen.
 

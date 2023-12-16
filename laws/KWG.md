@@ -79,7 +79,7 @@ Entscheidungen der Bundesanstalt für Finanzdienstleistungsaufsicht
 
 § 5
 
-(weggefallen)
+Elektronische Übermittlung von Verwaltungsakten; Verordnungsermächtigung
 
 § 6
 
@@ -525,6 +525,22 @@ Offenlegung durch die Institute
 
  
 
+ 
+
+5d. Besondere Pflichten bei Kryptoverwahrung
+
+ 
+
+ 
+
+§ 26b
+
+Vermögenstrennung
+
+ 
+
+ 
+
 6. Prüfung und Prüferbestellung
 
  
@@ -725,6 +741,10 @@ Moratorium, Einstellung des Bank- und Börsenverkehrs
 
 Wiederaufnahme des Bank- und Börsenverkehrs
 
+§ 46i
+
+Zuordnung verwahrter Kryptowerte; Kosten der Aussonderung
+
 § 47
 
 Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014
@@ -917,6 +937,38 @@ Eigentumsrechte an Zentralverwahrern
 
  
 
+Abschnitt 6a
+
+ 
+
+DLT-Pilotregelung nach der Verordnung (EU) 2022/858
+
+ 
+
+§ 53r
+
+Zuständigkeit
+
+§ 53s
+
+Ausnahmen von der Erlaubnispflicht nach § 32
+
+§ 53t
+
+DLT-Abwicklungssysteme und DLT-Handels- und Abwicklungssysteme
+
+§ 53u
+
+Unterlagen und Anträge nach der Verordnung (EU) 2022/858
+
+§ 53v
+
+Betreiber organisierter Märkte
+
+ 
+
+ 
+
 Siebenter Abschnitt
 
  
@@ -951,7 +1003,7 @@ Bußgeldvorschriften
 
 § 57
 
-(weggefallen)
+Bußgeldvorschriften
 
 § 58
 
@@ -1703,9 +1755,9 @@ Für Einrichtungen und Unternehmen im Sinne des Satzes 1 Nr. 3 und 4 gelten die 
 
 # § 2c – Inhaber bedeutender Beteiligungen
 
-(1) Wer beabsichtigt, allein oder im Zusammenwirken mit anderen Personen oder Unternehmen eine bedeutende Beteiligung an einem Institut direkt oder indirekt zu erwerben (interessierter Erwerber), hat dies der Bundesanstalt und der Deutschen Bundesbank nach Maßgabe des Satzes 2 unverzüglich schriftlich anzuzeigen. In der Anzeige hat der interessierte Erwerber die für die Höhe der Beteiligung und die für die Begründung des maßgeblichen Einflusses, die Beurteilung seiner Zuverlässigkeit und die Prüfung der weiteren Untersagungsgründe nach Absatz 1b Satz 1 wesentlichen Tatsachen und Unterlagen, die durch Rechtsverordnung nach § 24 Abs. 4 näher zu bestimmen sind, sowie die Personen oder Unternehmen anzugeben, von denen er die entsprechenden Anteile erwerben will. In der Rechtsverordnung kann, insbesondere auch als Einzelfallentscheidung oder allgemeine Regelung, vorgesehen werden, dass der interessierte Erwerber die in § 32 Abs. 1 Satz 2 Nr. 6 Buchstabe d und e genannten Unterlagen vorzulegen hat. Ist der interessierte Erwerber eine juristische Person oder Personenhandelsgesellschaft, hat er in der Anzeige die für die Beurteilung der Zuverlässigkeit seiner gesetzlichen oder satzungsmäßigen Vertreter oder persönlich haftenden Gesellschafter wesentlichen Tatsachen anzugeben. Der Inhaber einer bedeutenden Beteiligung hat jeden neu bestellten gesetzlichen oder satzungsmäßigen Vertreter oder neuen persönlich haftenden Gesellschafter mit den für die Beurteilung von dessen Zuverlässigkeit wesentlichen Tatsachen der Bundesanstalt und der Deutschen Bundesbank unverzüglich schriftlich anzuzeigen. Der Inhaber einer bedeutenden Beteiligung hat der Bundesanstalt und der Deutschen Bundesbank ferner unverzüglich schriftlich anzuzeigen, wenn er beabsichtigt, allein oder im Zusammenwirken mit anderen Personen oder Unternehmen den Betrag der bedeutenden Beteiligung so zu erhöhen, dass die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals erreicht oder überschritten werden oder dass das Institut unter seine Kontrolle kommt. Wer unabsichtlich eine bedeutende Beteiligung an einem Institut erwirbt oder eine bedeutende Beteiligung so erhöht, dass die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals erreicht oder überschritten werden, oder eine bedeutende Beteiligung so erhöht, dass das Institut unter seine Kontrolle kommt, hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen, sobald er von dem Erwerb oder der Erhöhung Kenntnis erlangt hat. Dies gilt auch, wenn er beabsichtigt, die Beteiligung so zurückzuführen, dass sie erneut unter eine der Schwellen fällt, sofern die Beteiligung nicht unverzüglich nach Kenntnis von dem Erwerb oder der Erhöhung zurückgeführt wird. Die Bundesanstalt hat den Eingang einer vollständigen Anzeige nach Satz 1, 6 oder 7 umgehend, spätestens jedoch innerhalb von zwei Arbeitstagen nach deren Zugang schriftlich gegenüber dem Anzeigepflichtigen zu bestätigen.
+(1) Wer beabsichtigt, allein oder im Zusammenwirken mit anderen Personen oder Unternehmen eine bedeutende Beteiligung an einem Institut direkt oder indirekt zu erwerben (interessierter Erwerber), hat dies der Bundesanstalt und der Deutschen Bundesbank nach Maßgabe des Satzes 2 unverzüglich anzuzeigen. In der Anzeige hat der interessierte Erwerber die für die Höhe der Beteiligung und die für die Begründung des maßgeblichen Einflusses, die Beurteilung seiner Zuverlässigkeit und die Prüfung der weiteren Untersagungsgründe nach Absatz 1b Satz 1 wesentlichen Tatsachen und Unterlagen, die durch Rechtsverordnung nach § 24 Abs. 4 näher zu bestimmen sind, sowie die Personen oder Unternehmen anzugeben, von denen er die entsprechenden Anteile erwerben will. In der Rechtsverordnung kann, insbesondere auch als Einzelfallentscheidung oder allgemeine Regelung, vorgesehen werden, dass der interessierte Erwerber die in § 32 Abs. 1 Satz 2 Nr. 6 Buchstabe d und e genannten Unterlagen vorzulegen hat. Ist der interessierte Erwerber eine juristische Person oder Personenhandelsgesellschaft, hat er in der Anzeige die für die Beurteilung der Zuverlässigkeit seiner gesetzlichen oder satzungsmäßigen Vertreter oder persönlich haftenden Gesellschafter wesentlichen Tatsachen anzugeben. Der Inhaber einer bedeutenden Beteiligung hat jeden neu bestellten gesetzlichen oder satzungsmäßigen Vertreter oder neuen persönlich haftenden Gesellschafter mit den für die Beurteilung von dessen Zuverlässigkeit wesentlichen Tatsachen der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen. Der Inhaber einer bedeutenden Beteiligung hat der Bundesanstalt und der Deutschen Bundesbank ferner unverzüglich anzuzeigen, wenn er beabsichtigt, allein oder im Zusammenwirken mit anderen Personen oder Unternehmen den Betrag der bedeutenden Beteiligung so zu erhöhen, dass die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals erreicht oder überschritten werden oder dass das Institut unter seine Kontrolle kommt. Wer unabsichtlich eine bedeutende Beteiligung an einem Institut erwirbt oder eine bedeutende Beteiligung so erhöht, dass die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals erreicht oder überschritten werden, oder eine bedeutende Beteiligung so erhöht, dass das Institut unter seine Kontrolle kommt, hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen, sobald er von dem Erwerb oder der Erhöhung Kenntnis erlangt hat. Dies gilt auch, wenn er beabsichtigt, die Beteiligung so zurückzuführen, dass sie erneut unter eine der Schwellen fällt, sofern die Beteiligung nicht unverzüglich nach Kenntnis von dem Erwerb oder der Erhöhung zurückgeführt wird. Die Bundesanstalt hat den Eingang einer vollständigen Anzeige nach Satz 1, 6 oder 7 umgehend, spätestens jedoch innerhalb von zwei Arbeitstagen nach deren Zugang schriftlich oder elektronisch gegenüber dem Anzeigepflichtigen zu bestätigen.
 
-(1a) Die Bundesanstalt hat die Anzeige nach Absatz 1 innerhalb von 60 Arbeitstagen ab dem Datum des Schreibens, mit dem sie den Eingang der vollständigen Anzeige schriftlich bestätigt hat, zu beurteilen (Beurteilungszeitraum). In der Bestätigung nach Absatz 1 Satz 9 hat die Bundesanstalt dem Anzeigepflichtigen den Tag mitzuteilen, an dem der Beurteilungszeitraum endet. Bis spätestens zum 50. Arbeitstag innerhalb des Beurteilungszeitraums kann die Bundesanstalt schriftlich weitere Informationen anfordern, die für den Abschluss der Beurteilung notwendig sind. Die Anforderung ergeht schriftlich unter Angabe der zusätzlich benötigten Informationen. Die Bundesanstalt hat den Eingang der weiteren Informationen umgehend, spätestens jedoch innerhalb von zwei Arbeitstagen nach deren Zugang schriftlich gegenüber dem Anzeigepflichtigen zu bestätigen. Der Beurteilungszeitraum ist vom Zeitpunkt der Anforderung der weiteren Informationen bis zu deren Eingang bei der Bundesanstalt gehemmt. Der Beurteilungszeitraum beträgt im Falle einer Hemmung nach Satz 6 höchstens 80 Arbeitstage. Die Bundesanstalt kann Ergänzungen oder Klarstellungen zu diesen Informationen anfordern; dies führt nicht zu einer erneuten Hemmung des Beurteilungszeitraums. Abweichend von Satz 7 kann der Beurteilungszeitraum im Falle einer Hemmung auf höchstens 90 Arbeitstage ausgedehnt werden, wenn der Anzeigepflichtige
+(1a) Die Bundesanstalt hat die Anzeige nach Absatz 1 innerhalb von 60 Arbeitstagen ab dem Datum des Schreibens, mit dem sie den Eingang der vollständigen Anzeige schriftlich oder elektronisch bestätigt hat, zu beurteilen (Beurteilungszeitraum). In der Bestätigung nach Absatz 1 Satz 9 hat die Bundesanstalt dem Anzeigepflichtigen den Tag mitzuteilen, an dem der Beurteilungszeitraum endet. Bis spätestens zum 50. Arbeitstag innerhalb des Beurteilungszeitraums kann die Bundesanstalt schriftlich oder elektronisch weitere Informationen anfordern, die für den Abschluss der Beurteilung notwendig sind. Die Anforderung ergeht schriftlich oder elektronisch unter Angabe der zusätzlich benötigten Informationen. Die Bundesanstalt hat den Eingang der weiteren Informationen umgehend, spätestens jedoch innerhalb von zwei Arbeitstagen nach deren Zugang schriftlich oder elektronisch gegenüber dem Anzeigepflichtigen zu bestätigen. Der Beurteilungszeitraum ist vom Zeitpunkt der Anforderung der weiteren Informationen bis zu deren Eingang bei der Bundesanstalt gehemmt. Der Beurteilungszeitraum beträgt im Falle einer Hemmung nach Satz 6 höchstens 80 Arbeitstage. Die Bundesanstalt kann Ergänzungen oder Klarstellungen zu diesen Informationen anfordern; dies führt nicht zu einer erneuten Hemmung des Beurteilungszeitraums. Abweichend von Satz 7 kann der Beurteilungszeitraum im Falle einer Hemmung auf höchstens 90 Arbeitstage ausgedehnt werden, wenn der Anzeigepflichtige
 
 1. außerhalb des Europäischen Wirtschaftsraums ansässig ist oder beaufsichtigt wird oder
 
@@ -1749,7 +1801,7 @@ zu genügen oder das Institut durch die Begründung oder Erhöhung der bedeutend
 
 6. der Anzeigepflichtige nicht über die notwendige finanzielle Solidität verfügt; dies ist insbesondere dann der Fall, wenn der Anzeigepflichtige auf Grund seiner Kapitalausstattung oder Vermögenssituation nicht den besonderen Anforderungen gerecht werden kann, die von Gesetzes wegen an die Eigenmittel und die Liquidität eines Instituts gestellt werden.
 
-Die Aufsichtsbehörde kann den Erwerb oder die Erhöhung der Beteiligung auch untersagen, wenn die Angaben nach Absatz 1 Satz 2 oder Satz 6 oder die zusätzlich nach Absatz 1a Satz 3 angeforderten Informationen unvollständig oder nicht richtig sind oder nicht den Anforderungen der Rechtsverordnung nach § 24 Abs. 4 entsprechen. Die Aufsichtsbehörde kann in den Fällen des Satzes 1, statt den beabsichtigten Erwerb der bedeutenden Beteiligung oder ihre beabsichtigte Erhöhung zu untersagen, sowie in den Fällen des Absatzes 1 Satz 7 innerhalb des Beurteilungszeitraums auch Anordnungen gegenüber dem Anzeigepflichtigen treffen, die geeignet und erforderlich sind, um das Eintreten der in Satz 1 Nummer 1 bis 6 genannten Untersagungsgründe auszuschließen. Die Aufsichtsbehörde darf weder Vorbedingungen an die Höhe der zu erwerbenden Beteiligung oder der beabsichtigten Erhöhung der Beteiligung stellen noch darf sie bei ihrer Prüfung auf die wirtschaftlichen Bedürfnisse des Marktes abstellen. Entscheidet die Aufsichtsbehörde nach Abschluss der Beurteilung, den Erwerb oder die Erhöhung der Beteiligung zu untersagen oder Anordnungen nach Satz 3 zu erlassen, teilt sie dem Anzeigepflichtigen die Entscheidung innerhalb von zwei Arbeitstagen und unter Einhaltung des Beurteilungszeitraums schriftlich unter Angabe der Gründe mit. Bemerkungen und Vorbehalte der für den Anzeigepflichtigen zuständigen Stellen sind in der Entscheidung wiederzugeben. Die Untersagung darf nur aus den in den Sätzen 1 und 2 genannten Gründen erfolgen, die Anordnung nur aus den in Satz 1 genannten Gründen. Wird der Erwerb oder die Erhöhung der Beteiligung nicht innerhalb des Beurteilungszeitraums schriftlich untersagt, kann der Erwerb oder die Erhöhung vollzogen werden; die Rechte der Bundesanstalt nach Absatz 2 bleiben unberührt. Die Aufsichtsbehörde kann eine Frist setzen, nach deren Ablauf ihr der Anzeigepflichtige den Vollzug oder den Nichtvollzug des beabsichtigten Erwerbs oder der Erhöhung anzuzeigen hat. Nach Ablauf der Frist hat der Anzeigepflichtige die Anzeige unverzüglich bei der Bundesanstalt einzureichen.
+Die Aufsichtsbehörde kann den Erwerb oder die Erhöhung der Beteiligung auch untersagen, wenn die Angaben nach Absatz 1 Satz 2 oder Satz 6 oder die zusätzlich nach Absatz 1a Satz 3 angeforderten Informationen unvollständig oder nicht richtig sind oder nicht den Anforderungen der Rechtsverordnung nach § 24 Abs. 4 entsprechen. Die Aufsichtsbehörde kann in den Fällen des Satzes 1, statt den beabsichtigten Erwerb der bedeutenden Beteiligung oder ihre beabsichtigte Erhöhung zu untersagen, sowie in den Fällen des Absatzes 1 Satz 7 innerhalb des Beurteilungszeitraums auch Anordnungen gegenüber dem Anzeigepflichtigen treffen, die geeignet und erforderlich sind, um das Eintreten der in Satz 1 Nummer 1 bis 6 genannten Untersagungsgründe auszuschließen. Die Aufsichtsbehörde darf weder Vorbedingungen an die Höhe der zu erwerbenden Beteiligung oder der beabsichtigten Erhöhung der Beteiligung stellen noch darf sie bei ihrer Prüfung auf die wirtschaftlichen Bedürfnisse des Marktes abstellen. Entscheidet die Aufsichtsbehörde nach Abschluss der Beurteilung, den Erwerb oder die Erhöhung der Beteiligung zu untersagen oder Anordnungen nach Satz 3 zu erlassen, teilt sie dem Anzeigepflichtigen die Entscheidung innerhalb von zwei Arbeitstagen und unter Einhaltung des Beurteilungszeitraums schriftlich oder elektronisch unter Angabe der Gründe mit. Bemerkungen und Vorbehalte der für den Anzeigepflichtigen zuständigen Stellen sind in der Entscheidung wiederzugeben. Die Untersagung darf nur aus den in den Sätzen 1 und 2 genannten Gründen erfolgen, die Anordnung nur aus den in Satz 1 genannten Gründen. Wird der Erwerb oder die Erhöhung der Beteiligung nicht innerhalb des Beurteilungszeitraums schriftlich oder elektronisch untersagt, kann der Erwerb oder die Erhöhung vollzogen werden; die Rechte der Bundesanstalt nach Absatz 2 bleiben unberührt. Die Aufsichtsbehörde kann eine Frist setzen, nach deren Ablauf ihr der Anzeigepflichtige den Vollzug oder den Nichtvollzug des beabsichtigten Erwerbs oder der Erhöhung anzuzeigen hat. Nach Ablauf der Frist hat der Anzeigepflichtige die Anzeige unverzüglich bei der Bundesanstalt einzureichen.
 
 (2) Die Aufsichtsbehörde kann dem Inhaber einer bedeutenden Beteiligung sowie den seine bedeutende Beteiligung begründenden Unternehmen die Ausübung der Stimmrechte untersagen und anordnen, daß über die Anteile nur mit ihrer Zustimmung verfügt werden darf, wenn
 
@@ -1767,7 +1819,7 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 
 (2a) Die Aufsichtsbehörde kann in den Fällen des Absatzes 2 auch gegenüber einem die bedeutende Beteiligung begründenden Unternehmen anordnen, Weisungen des Inhabers einer bedeutenden Beteiligung, der an dem begründenden Unternehmen beteiligt ist, nicht zu befolgen.
 
-(3) Wer beabsichtigt, eine bedeutende Beteiligung an einem Institut aufzugeben oder den Betrag seiner bedeutenden Beteiligung unter die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals abzusenken oder die Beteiligung so zu verändern, daß das Institut nicht mehr kontrolliertes Unternehmen ist, hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich schriftlich anzuzeigen. Gleiches gilt, wenn der Inhaber einer bedeutenden Beteiligung an einem Institut unabsichtlich seine bedeutende Beteiligung aufgibt oder den Betrag seiner bedeutenden Beteiligung unter die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals absenkt oder die Beteiligung so verändert, dass das Institut nicht mehr kontrolliertes Unternehmen ist. Dabei ist die beabsichtigte verbleibende Höhe der Beteiligung anzugeben. Die Bundesanstalt kann eine Frist festsetzen, nach deren Ablauf ihr die Person oder Personenhandelsgesellschaft, welche die Anzeige nach Satz 1 erstattet hat, den Vollzug oder den Nichtvollzug der beabsichtigten Absenkung oder Veränderung anzuzeigen hat. Nach Ablauf der Frist hat die Person oder Personenhandelsgesellschaft, welche die Anzeige nach Satz 1 erstattet hat, die Anzeige unverzüglich bei der Bundesanstalt zu erstatten.
+(3) Wer beabsichtigt, eine bedeutende Beteiligung an einem Institut aufzugeben oder den Betrag seiner bedeutenden Beteiligung unter die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals abzusenken oder die Beteiligung so zu verändern, daß das Institut nicht mehr kontrolliertes Unternehmen ist, hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen. Gleiches gilt, wenn der Inhaber einer bedeutenden Beteiligung an einem Institut unabsichtlich seine bedeutende Beteiligung aufgibt oder den Betrag seiner bedeutenden Beteiligung unter die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals absenkt oder die Beteiligung so verändert, dass das Institut nicht mehr kontrolliertes Unternehmen ist. Dabei ist die beabsichtigte verbleibende Höhe der Beteiligung anzugeben. Die Bundesanstalt kann eine Frist festsetzen, nach deren Ablauf ihr die Person oder Personenhandelsgesellschaft, welche die Anzeige nach Satz 1 erstattet hat, den Vollzug oder den Nichtvollzug der beabsichtigten Absenkung oder Veränderung anzuzeigen hat. Nach Ablauf der Frist hat die Person oder Personenhandelsgesellschaft, welche die Anzeige nach Satz 1 erstattet hat, die Anzeige unverzüglich bei der Bundesanstalt zu erstatten.
 
 (4) (weggefallen)
 
@@ -1957,7 +2009,7 @@ Nicht unter die Geschäfte im Sinne des Satzes 2 fallen:
 
 2. binnen 12 Monaten nach dem Überschreiten eines der Schwellenwerte die nach Satz 1 Nummer 1 ermittelten bereits betriebenen verbotenen Geschäfte zu beenden oder auf ein Finanzhandelsinstitut zu übertragen.
 
-Die Risikoanalyse nach Satz 1 Nummer 1 hat plausibel, umfassend und nachvollziehbar zu sein und ist schriftlich zu dokumentieren. Die Bundesanstalt kann die Frist nach Satz 1 Nummer 2 im Einzelfall um bis zu 12 Monate verlängern; der Antrag ist zu begründen.
+Die Risikoanalyse nach Satz 1 Nummer 1 hat plausibel, umfassend und nachvollziehbar zu sein und ist schriftlich oder elektronisch zu dokumentieren. Die Bundesanstalt kann die Frist nach Satz 1 Nummer 2 im Einzelfall um bis zu 12 Monate verlängern; der Antrag ist zu begründen.
 
 (4) Die Bundesanstalt kann einem CRR-Kreditinstitut oder einem Unternehmen, das einer Institutsgruppe, einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe angehört, der auch ein CRR-Kreditinstitut angehört, unabhängig davon, ob die Geschäfte nach Absatz 2 den Wert nach Absatz 2 Satz 1 überschreiten, die nachfolgenden Geschäfte verbieten und anordnen, dass die Geschäfte einzustellen oder auf ein Finanzhandelsinstitut im Sinne des § 25f Absatz 1 zu übertragen sind, wenn zu besorgen ist, dass diese Geschäfte, insbesondere gemessen am sonstigen Geschäftsvolumen, am Ertrag oder an der Risikostruktur des CRR-Kreditinstituts oder des Unternehmens, das einer Institutsgruppe, einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe angehört, der auch ein CRR-Kreditinstitut angehört, die Solvenz des CRR-Kreditinstituts oder des Unternehmens, das einer Institutsgruppe, einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe angehört, der auch ein CRR-Kreditinstitut angehört, zu gefährden drohen:
 
@@ -1974,9 +2026,25 @@ Die Bundesanstalt hat bei Anordnung im Sinne des Satzes 1 dem Institut eine ange
 
 Die Bundesanstalt entscheidet in Zweifelsfällen, dass ein Unternehmen den Vorschriften dieses Gesetzes unterliegt. Ihre Entscheidungen binden die Verwaltungsbehörden.
 
-# § 5
+# § 5 – Elektronische Kommunikation; Verordnungsermächtigung
 
-(weggefallen)
+(1) Verwaltungsakte, die aufgrund dieses Gesetzes erlassen werden, dürfen nach § 4f des Finanzdienstleistungsaufsichtsgesetzes elektronisch bekanntgegeben oder nach § 4g des Finanzdienstleistungsaufsichtsgesetzes elektronisch zugestellt werden.
+
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank,
+
+1. Regelungen vorzusehen, mit denen die in diesem Gesetz genannten Adressaten verpflichtet werden können,
+
+a) einen elektronischen Zugang zu den in Absatz 1 genannten Verfahren zu eröffnen und
+
+b) die in Absatz 1 genannten Verfahren zu nutzen sowie
+
+2. nähere Bestimmungen zu treffen
+
+a) zum Zugang zu den in Absatz 1 genannten Verfahren der elektronischen Kommunikation und
+
+b) zur Durchführung und Nutzung der in Absatz 1 genannten elektronischen Kommunikation.
+
+Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
 
 # § 6 – Aufgaben
 
@@ -4050,7 +4118,7 @@ Besteht kein Grund, die Angemessenheit der Organisationsstruktur und der Finanzl
 
 (3c) Auf ein Finanzdienstleistungsinstitut, das Factoring im Sinne des § 1 Absatz 1a Satz 2 Nummer 9 oder Finanzierungsleasing im Sinne des § 1 Absatz 1a Satz 2 Nummer 10 betreibt und die Absicht hat, für diese Tätigkeit eine Zweigniederlassung in einem anderen Staat des Europäischen Wirtschaftsraums zu errichten oder diese Tätigkeit im Wege des grenzüberschreitenden Dienstleistungsverkehrs in einem anderen Staat des Europäischen Wirtschaftsraums zu betreiben, sind die Absätze 1 bis 3 entsprechend anzuwenden, sofern die Voraussetzungen des § 53b Absatz 7 Satz 1 Nummer 1 bis 7 erfüllt sind. Absatz 2 Satz 2 gilt mit der Maßgabe, dass die zuständige Stelle des Aufnahmemitgliedstaats über die Höhe und die Zusammensetzung der Eigenmittel des Finanzdienstleistungsinstituts und die nach Artikel 92 Absatz 3 und 4 der Verordnung (EU) Nr. 575/2013 errechneten Gesamtrisikobeträge von dessen Mutterkreditinstitut zu unterrichten ist.
 
-(4) Ändern sich die Verhältnisse, die nach Absatz 1 Satz 2 oder Absatz 3 Satz 2 angezeigt wurden, hat das Institut der Aufsichtsbehörde, der Deutschen Bundesbank und, sofern es sich um ein CRR-Kreditinstitut handelt, auch den zuständigen Stellen des Aufnahmemitgliedstaates diese Änderungen mindestens einen Monat vor dem Wirksamwerden der Änderungen schriftlich anzuzeigen, damit die Aufsichtsbehörde eine Entscheidung nach Absatz 2 und die zuständigen Stellen des Aufnahmemitgliedstaates eine Entscheidung über eventuell erforderliche Bedingungen treffen können. Die Anzeigepflicht nach Satz 1 gilt entsprechend für ein Institut, das seine Zweigniederlassung bereits vor dem Zeitpunkt, von dem an es unter die Anzeigepflicht nach Absatz 1 fällt, in einem anderen Staat des Europäischen Wirtschaftsraums errichtet hat. Änderungen der Verhältnisse der Einlagensicherungseinrichtung oder der Anlegerentschädigungseinrichtung oder des gleichwertigen Schutzes im Sinne des § 23a Absatz 1 Satz 1 hat das Institut, das eine Zweigniederlassung gemäß Absatz 1 errichtet hat, der Aufsichtsbehörde, der Deutschen Bundesbank und, sofern es sich um ein CRR-Kreditinstitut handelt, auch den zuständigen Stellen des Aufnahmemitgliedstaates mindestens einen Monat vor dem Wirksamwerden der Änderungen anzuzeigen. Die Aufsichtsbehörde teilt den zuständigen Stellen des Aufnahmemitgliedstaates die Änderungen nach Satz 4 mit.
+(4) Ändern sich die Verhältnisse, die nach Absatz 1 Satz 2 oder Absatz 3 Satz 2 angezeigt wurden, hat das Institut der Aufsichtsbehörde, der Deutschen Bundesbank und, sofern es sich um ein CRR-Kreditinstitut handelt, auch den zuständigen Stellen des Aufnahmemitgliedstaates diese Änderungen mindestens einen Monat vor dem Wirksamwerden der Änderungen anzuzeigen, damit die Aufsichtsbehörde eine Entscheidung nach Absatz 2 und die zuständigen Stellen des Aufnahmemitgliedstaates eine Entscheidung über eventuell erforderliche Bedingungen treffen können. Die Anzeigepflicht nach Satz 1 gilt entsprechend für ein Institut, das seine Zweigniederlassung bereits vor dem Zeitpunkt, von dem an es unter die Anzeigepflicht nach Absatz 1 fällt, in einem anderen Staat des Europäischen Wirtschaftsraums errichtet hat. Änderungen der Verhältnisse der Einlagensicherungseinrichtung oder der Anlegerentschädigungseinrichtung oder des gleichwertigen Schutzes im Sinne des § 23a Absatz 1 Satz 1 hat das Institut, das eine Zweigniederlassung gemäß Absatz 1 errichtet hat, der Aufsichtsbehörde, der Deutschen Bundesbank und, sofern es sich um ein CRR-Kreditinstitut handelt, auch den zuständigen Stellen des Aufnahmemitgliedstaates mindestens einen Monat vor dem Wirksamwerden der Änderungen anzuzeigen. Die Aufsichtsbehörde teilt den zuständigen Stellen des Aufnahmemitgliedstaates die Änderungen nach Satz 4 mit.
 
 (4a) Soweit die Europäische Zentralbank Aufsichtsbehörde ist, sind die Anzeigen nach den Absätzen 1, 3 und 4 auch gegenüber der Bundesanstalt abzugeben. Soweit es sich bei dem Staat, in welchem die Zweigniederlassung errichtet oder die grenzüberschreitende Dienstleistung erbracht werden soll, um einen Mitgliedstaat der Europäischen Union handelt, sind die Anzeigen nur gegenüber der Bundesanstalt und der Deutschen Bundesbank abzugeben.
 
@@ -4696,6 +4764,12 @@ Ist das CRR-Kreditinstitut in den Konzernabschluss eines anderen Mutterunternehm
 (+++ § 26a: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a, Abs. 7b, Abs. 9a Satz 1, Abs. 9i Satz 1 u. § 51c Abs. 4 +++)  
 (+++ § 26a: Zur Nichtgeltung vgl. § 2 Abs. 8a +++)
 
+# § 26b – Vermögenstrennung
+
+(1) Ein Institut, das das Kryptoverwahrgeschäft betreibt, hat sicherzustellen, dass die Kryptowerte und privaten kryptographischen Schlüssel der Kunden getrennt von den Kryptowerten und privaten kryptographischen Schlüsseln des Instituts verwahrt werden. Werden Kryptowerte mehrerer Kunden gebündelt verwahrt (gemeinschaftliche Verwahrung), so ist sicherzustellen, dass sich die den einzelnen Kunden zustehenden Anteile am gemeinschaftlich verwahrten Gesamtbestand jederzeit bestimmen lassen.
+
+(2) Das Institut hat sicherzustellen, dass über die verwahrten Kryptowerte und privaten kryptographischen Schlüssel des Kunden ohne dessen ausdrückliche Einwilligung nicht für eigene Rechnung des Instituts oder für Rechnung einer anderen Person verfügt werden kann.
+
 # § 27
 
 (aufgehoben)
@@ -4748,9 +4822,11 @@ h) nach den Artikeln 16, 23 Absatz 3 Satz 1, Absatz 5, 6 und 10, nach Artikel 28
 
 i) nach Artikel 28 Absatz 1 bis 3 der Verordnung (EU) Nr. 600/2014,
 
-j) nach den Artikeln 5 bis 9, 18 bis 26, 26b bis 26e, 27 Absatz 1 und 4 sowie nach Artikel 43 Absatz 5 und 6 der Verordnung (EU) 2017/2402 und
+j) nach den Artikeln 5 bis 9, 18 bis 26, 26b bis 26e, 27 Absatz 1 und 4 sowie nach Artikel 43 Absatz 5 und 6 der Verordnung (EU) 2017/2402,
 
-k) nach den §§ 7 bis 14 und 16 bis 22 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 oder § 23 des Gesetzes über elektronische Wertpapiere.
+k) nach den §§ 7 bis 14 und 16 bis 22 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 oder § 23 des Gesetzes über elektronische Wertpapiere und
+
+l) nach den Artikeln 3 bis 11 der Verordnung (EU) 2022/858 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über eine Pilotregelung für auf Distributed-Ledger-Technologie basierende Marktinfrastrukturen und zur Änderung der Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014 sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1), sofern die davon betroffenen Geschäfte von dem Institut erbracht werden.
 
 Ist ein Institut nach § 2a Absatz 1 freigestellt, hat der Prüfer den Fortbestand der in Artikel 7 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung genannten Voraussetzungen zu prüfen. Ist ein Institut nach § 2a Absatz 3 freigestellt, hat der Prüfer den Fortbestand der in Artikel 8 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung genannten Voraussetzungen zu prüfen. Hat die Bundesanstalt nach § 30 gegenüber dem Institut Bestimmungen über den Inhalt der Prüfung getroffen, sind diese vom Prüfer zu berücksichtigen. Sofern dem haftenden Eigenkapital des Instituts nicht realisierte Reserven zugerechnet werden, hat der Prüfer bei der Prüfung des Jahresabschlusses auch zu prüfen, ob bei der Ermittlung dieser Reserven § 10 Abs. 4a bis 4c in der bis zum 31. Dezember 2013 geltenden Fassung beachtet worden ist. Bei einem Kreditinstitut, das aufgefordert wurde, einen Sanierungsplan nach § 12 des Sanierungs- und Abwicklungsgesetzes aufzustellen, hat der Prüfer auch zu prüfen, ob der Sanierungsplan die Voraussetzungen nach § 12 Absatz 1 sowie nach § 13 Absatz 1 bis 4 des Sanierungs- und Abwicklungsgesetzes erfüllt. Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
 
@@ -4892,7 +4968,7 @@ Einer schriftlichen Erlaubnis der Bundesanstalt bedarf es auch, wenn ein Institu
 
 (1e) Benannte Kreditinstitute im Sinne des Artikels 54 Absatz 4 der Verordnung (EU) Nr. 909/2014, die eine Erlaubnis nach Absatz 1 Satz 1 zum Betreiben von Bankgeschäften nach § 1 Absatz 1 Satz 2 Nummer 1 und 2 haben, benötigen für das Erbringen von bankartigen Nebendienstleistungen im Sinne des Abschnitts C des Anhangs zur Verordnung (EU) Nr. 909/2014 keine weitere Erlaubnis nach Absatz 1 Satz 1 für das Betreiben von Bankgeschäften oder das Erbringen von Finanzdienstleistungen, soweit das Erbringen der bankartigen Nebendienstleistungen von der Genehmigung nach Artikel 54 Absatz 2 der Verordnung (EU) Nr. 909/2014 umfasst ist.
 
-(1f) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, als Datenbereitstellungsdienst tätig werden will, bedarf der schriftlichen Erlaubnis der Bundesanstalt; die Bundesanstalt hat § 37 Absatz 4 des Verwaltungsverfahrensgesetzes anzuwenden. Der Erlaubnisantrag muss enthalten:
+(1f) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, als Datenbereitstellungsdienst, der der Ausnahme nach Artikel 2 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 600/2014 unterliegt, tätig werden will, bedarf der schriftlichen Erlaubnis der Bundesanstalt; die Bundesanstalt hat § 37 Absatz 4 des Verwaltungsverfahrensgesetzes anzuwenden. Der Erlaubnisantrag muss enthalten:
 
 1. die Angabe der Geschäftsleiter;
 
@@ -4942,7 +5018,7 @@ a) bei Anlageverwaltern, die nicht befugt sind, sich bei der Erbringung von Fina
 
 b) bei anderen Finanzdienstleistungsinstituten, die nicht auf eigene Rechnung mit Finanzinstrumenten handeln, ein Betrag im Gegenwert von mindestens 150 000 Euro,
 
-c) bei Finanzdienstleistungsinstituten, die das eingeschränkte Verwahrgeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 12 erbringen, ein Betrag von mindestens 750 000 Euro und
+c) bei Finanzdienstleistungsinstituten, die auf eigene Rechnung mit Finanzinstrumenten handeln, und bei Finanzdienstleistungsinstituten, die das eingeschränkte Verwahrgeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 12 erbringen, ein Betrag von mindestens 750 000 Euro und
 
 d) bei CRR-Kreditinstituten ein Betrag im Gegenwert von mindestens 5 Millionen Euro.
 
@@ -5276,6 +5352,8 @@ Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen zur Führun
 (4) Die Bundesanstalt kann zu den Hauptversammlungen, Generalversammlungen oder Gesellschafterversammlungen sowie zu den Sitzungen der Aufsichtsorgane bei Instituten, Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften in der Rechtsform einer juristischen Person Vertreter entsenden. Diese können in der Versammlung oder Sitzung das Wort ergreifen. Im Fall der virtuellen Hauptversammlung nach § 118a des Aktiengesetzes sind die Vertreter im Wege der Videokommunikation zu der Versammlung zuzuschalten und können über die Videokommunikation das Wort ergreifen. Nach § 130a Absatz 1 und 2 des Aktiengesetzes eingereichte Stellungnahmen, nach § 131 Absatz 1a und 1b des Aktiengesetzes eingereichte Fragen sowie die zu diesen Fragen vor der Versammlung gegebenen Antworten sind den Vertretern zugänglich zu machen. Die Vertreter dürfen anstelle der Zuschaltung im Wege der Videokommunikation am Ort der Hauptversammlung teilnehmen, sofern sie dies für erforderlich halten. Die Betroffenen haben Maßnahmen nach den Sätzen 1 bis 5 zu dulden.
 
 (5) Die Institute, Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften in der Rechtsform einer juristischen Person haben auf Verlangen der Bundesanstalt die Einberufung der in Absatz 4 Satz 1 bezeichneten Versammlungen, die Anberaumung von Sitzungen der Verwaltungs- und Aufsichtsorgane sowie die Ankündigung von Gegenständen zur Beschlußfassung vorzunehmen. Die Bundesanstalt kann zu einer nach Satz 1 anberaumten Sitzung Vertreter entsenden. Diese können in der Sitzung das Wort ergreifen. Absatz 4 Satz 3 bis 5 gilt entsprechend. Die Betroffenen haben Maßnahmen nach den Sätzen 2 bis 4 zu dulden. Absatz 4 bleibt unberührt.
+
+(5a) Die Bundesanstalt und die Deutsche Bundesbank können bei Auskunfts- und Vorlageersuchen nach dieser Vorschrift eine elektronische Einreichung verlangen. Sie können nähere Bestimmungen über Art und Weise der Übermittlung festlegen.
 
 (6) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
@@ -5710,6 +5788,14 @@ Die Höhe des Rückzahlungsbetrages oder des Zinszahlungsbetrages gilt nicht ber
 (+++ §§ 46 bis 46h: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 8 +++)  
 (+++ § 46h: Zur Geltung vgl. § 2 Abs. 2 +++)
 
+# § 46i – Zuordnung verwahrter Kryptowerte; Kosten der Aussonderung
+
+(1) Der im Rahmen eines Kryptoverwahrgeschäfts für einen Kunden verwahrte Kryptowert gilt als dem Kunden gehörig. Das gilt nicht, wenn der Kunde die Einwilligung zu Verfügungen über den verwahrten Wert für Rechnung des Instituts oder Dritter erteilt hat.
+
+(2) Absatz 1 gilt entsprechend für den dem Kunden zustehenden Anteil an Kryptowerten in gemeinschaftlicher Verwahrung sowie für isoliert verwahrte private kryptographische Schlüssel.
+
+(3) Stimmt der Kunde im Insolvenzverfahren über das Vermögen des Instituts einer Aussonderung im Wege der Übertragung des vom Institut verwahrten Gesamtbestands auf ein vom Insolvenzverwalter bestimmtes Institut, welches das Kryptoverwahrgeschäft betreibt, nicht zu, trägt er die Kosten der Aussonderung. Dies gilt nicht, wenn die Bedingungen, zu denen das andere Institut eine Fortführung des Verwahrverhältnisses anbietet, für den Kunden unzumutbar sind. Die Sätze 1 und 2 sind auf die Übertragung wesentlicher Teile des verwahrten Gesamtbestands entsprechend anzuwenden.
+
 # § 47 – Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014
 
 Verstößt ein Institut, das über ein PRIIP im Sinne des Artikels 4 Nummer 3 der Verordnung (EU) Nr. 1286/2014 berät oder es verkauft oder das Hersteller von PRIIP im Sinne des Artikels 4 Nummer 4 der Verordnung (EU) Nr. 1286/2014 ist, gegen die Anforderungen von Artikel 5 Absatz 1, der Artikel 6, 7, 8 Absatz 1 bis 3, der Artikel 9, 10 Absatz 1, von Artikel 13 Absatz 1, 3 oder 4, der Artikel 14 oder 19 dieser Verordnung sowie der auf Grundlage der Artikel 8, 10 und 13 dieser Verordnung erlassenen technischen Regulierungsstandards, kann die Bundesanstalt gegenüber dem Institut Anordnungen treffen, die geeignet und erforderlich sind, um sicherzustellen, dass die Anforderungen eingehalten werden und um eine nicht den Grundsätzen der Verordnung entsprechende Information der Privatanleger zu verhindern. Die Bundesanstalt kann insbesondere
@@ -6140,7 +6226,7 @@ Die Bundesanstalt kann bei der Beurteilung der Liquidität im Einzelfall gegenü
 
 # § 53i – Gewährung des Zugangs nach den Artikeln 7 und 8 der Verordnung (EU) Nr. 648/2012
 
-Eine zentrale Gegenpartei, der eine Zulassung nach Artikel 14 der Verordnung (EU) Nr. 648/2012 erteilt worden ist, hat die Bundesanstalt über den Eingang von Anträgen auf Zugangsgewährung nach Artikel 7 der Verordnung (EU) Nr. 648/2012 sowie das Stellen eines Antrags auf Zugangsgewährung nach Artikel 8 der Verordnung (EU) Nr. 648/2012 unverzüglich schriftlich zu informieren. Die Bundesanstalt kann der zentralen Gegenpartei
+Eine zentrale Gegenpartei, der eine Zulassung nach Artikel 14 der Verordnung (EU) Nr. 648/2012 erteilt worden ist, hat die Bundesanstalt über den Eingang von Anträgen auf Zugangsgewährung nach Artikel 7 der Verordnung (EU) Nr. 648/2012 sowie das Stellen eines Antrags auf Zugangsgewährung nach Artikel 8 der Verordnung (EU) Nr. 648/2012 unverzüglich schriftlich oder elektronisch zu informieren. Die Bundesanstalt kann der zentralen Gegenpartei
 
 1. unter den in Artikel 7 Absatz 4 der Verordnung (EU) Nr. 648/2012 genannten Voraussetzungen untersagen, einen Zugang im Sinne des Artikels 7 der genannten Verordnung zu gewähren, oder
 
@@ -6299,7 +6385,7 @@ Die Sätze 5 und 6 gelten nicht, soweit die Ansprüche auf Gewährung variabler 
 
 (1) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU) Nr. 909/2014 vorzulegen sind, sind in deutscher Sprache und auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache zu erstellen und vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen oder Teile davon ausschließlich in englischer Sprache erstellt und vorgelegt werden.
 
-(2) Anträge sind der Bundesanstalt in Schriftform und elektronisch zu übermitteln. Die Bundesanstalt kann gestatten, dass bestimmte Dokumente oder Angaben, die Bestandteile eines Antrags sind, ausschließlich elektronisch übermittelt werden. Die elektronische Übermittlung hat in einem von der Bundesanstalt bestimmten Datenformat und auf einem von der Bundesanstalt bestimmten Übermittlungsweg zu erfolgen.
+(2) Anträge sind der Bundesanstalt elektronisch zu übermitteln. Die elektronische Übermittlung hat in einem von der Bundesanstalt bestimmten Datenformat und auf einem von der Bundesanstalt bestimmten Übermittlungsweg zu erfolgen.
 
 (3) Die Verschwiegenheitspflicht nach § 9 gilt für die Wahrnehmung der Aufgaben nach § 6 Absatz 1c entsprechend.
 
@@ -6321,13 +6407,41 @@ Die Bundesanstalt kann unbeschadet der anderen Bestimmungen dieses Gesetzes gege
 
 Im Falle einer Untersagung nach Satz 1 gelten § 2c Absatz 2 Satz 2 bis 9 und § 44b entsprechend.
 
+# § 53r – Zuständigkeit
+
+Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 12 Absatz 1 bis 3 der Verordnung (EU) 2022/858.
+
+# § 53s – Ausnahmen von der Erlaubnispflicht nach § 32
+
+(1) DLT-Marktinfrastrukturen im Sinne des Artikels 2 Nummer 5 der Verordnung (EU) 2022/858, denen eine besondere Genehmigung nach den Artikeln 8, 9 oder 10 der Verordnung (EU) 2022/858 erteilt wurde, benötigen keine weitere Erlaubnis nach § 32, soweit die erbrachte Finanzdienstleistung oder das betriebene Bankgeschäft von der besonderen Genehmigung umfasst ist.
+
+(2) Privatkunden im Sinne des § 67 Absatz 3 des Wertpapierhandelsgesetzes, die auf Grund einer Ausnahme nach Artikel 4 Absatz 2 der Verordnung (EU) 2022/858 als Mitglied oder Teilnehmer eines multilateralen DLT-Handelssystems im Sinne des Artikels 2 Nummer 6 der Verordnung (EU) 2022/858 oder DLT-Handels- und Abwicklungssystems im Sinne des Artikels 2 Nummer 10 der Verordnung (EU) 2022/858 das Eigengeschäft betreiben, benötigen hierfür keine Erlaubnis nach § 32 Absatz 1a Satz 2.
+
+# § 53t – DLT-Abwicklungssysteme und DLT-Handels- und Abwicklungssysteme
+
+Die Vorschriften dieses Gesetzes über Zentralverwahrer sind auch auf DLT-Abwicklungssysteme im Sinne des Artikels 2 Nummer 7 der Verordnung (EU) 2022/858 und auf solche DLT-Handels- und Abwicklungssysteme im Sinne des Artikels 2 Nummer 10 der Verordnung (EU) 2022/858 anzuwenden, die auf einer Erlaubnis nach der Verordnung (EU) Nr. 909/2014 beruhen.
+
+# § 53u – Unterlagen und Anträge nach der Verordnung (EU) 2022/858
+
+(1) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU) 2022/858 vorzulegen sind, sind in deutscher Sprache vorzulegen. Sie sind auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen oder Teile davon ausschließlich in englischer Sprache erstellt und vorgelegt werden.
+
+(2) Anträge nach der Verordnung (EU) 2022/858 sind der Bundesanstalt elektronisch zu übermitteln. Datenformat und Übermittlungsweg sind von der Bundesanstalt zu bestimmen.
+
+# § 53v – Betreiber organisierter Märkte
+
+(1) Die Vorschriften dieses Abschnitts sind auch auf Betreiber organisierter Märkte anzuwenden, sofern diese ein multilaterales DLT-Handelssystem im Sinne des Artikels 2 Nummer 6 der Verordnung (EU) 2022/858 oder ein DLT-Handels- und Abwicklungssystem im Sinne des Artikels 2 Nummer 10 der Verordnung (EU) 2022/858 betreiben.
+
+(2) Die Befugnisse der Bundesanstalt nach § 44 sind auf die Betreiber organisierter Märkte entsprechend anzuwenden, sofern Anforderungen nach der Verordnung (EU) 2022/858 betroffen sind.
+
 # § 54 – Verbotene Geschäfte, Handeln ohne Erlaubnis
 
 (1) Wer
 
-1. Geschäfte betreibt, die nach § 3, auch in Verbindung mit § 53b Abs. 3 Satz 1 oder 2, verboten sind, oder
+1. Geschäfte betreibt, die nach § 3, auch in Verbindung mit § 53b Absatz 3 Satz 1 oder Satz 2, verboten sind,
 
-2. ohne Erlaubnis nach § 32 Abs. 1 Satz 1 Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt,
+2. ohne Erlaubnis nach § 32 Absatz 1 Satz 1 Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt oder
+
+3. ohne Erlaubnis nach § 32 Absatz 1f Satz 1 im Inland als Datenbereitstellungsdienst tätig wird, der der Ausnahme nach Artikel 2 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 600/2014 unterliegt,
 
 wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
@@ -6939,7 +7053,19 @@ Handelt es sich bei der juristischen Person oder der Personenvereinigung um das 
 
 (8) Der Jahresnettoumsatz im Sinne des Absatzes 7 Satz 2 Nummer 1 ist der Gesamtbetrag der in § 34 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis e der Kreditinstituts-Rechnungslegungsverordnung in der jeweils geltenden Fassung genannten Erträge einschließlich der Bruttoerträge bestehend aus Zinserträgen und ähnlichen Erträgen, Erträgen aus Aktien, anderen Anteilsrechten und nicht festverzinslichen/festverzinslichen Wertpapieren sowie Erträgen aus Provisionen und Gebühren wie in Artikel 316 der Verordnung (EU) Nr. 575/2013 ausgeführt, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern. Handelt es sich bei dem Unternehmen um ein Tochterunternehmen, ist auf den Jahresnettoumsatz abzustellen, der im vorangegangenen Geschäftsjahr im konsolidierten Abschluss des Mutterunternehmens an der Spitze der Gruppe ausgewiesen ist.
 
-# §§ 57 und 58 – (weggefallen)
+# § 57 – Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
+1. entgegen § 26b Absatz 1 Satz 1 nicht sicherstellt, dass Kryptowerte oder private kryptographische Schlüssel getrennt verwahrt werden,
+
+2. entgegen § 26b Absatz 1 Satz 2 nicht sicherstellt, dass sich ein Anteil jederzeit bestimmen lässt, oder
+
+3. entgegen § 26b Absatz 2 nicht sicherstellt, dass über Kryptowerte oder private kryptographische Schlüssel in der dort genannten Weise nicht verfügt werden kann.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfhunderttausend Euro geahndet werden. § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
+
+# § 58 – (weggefallen)
 
 # § 59 – Geldbußen gegen Unternehmen
 

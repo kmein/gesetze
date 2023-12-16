@@ -204,7 +204,10 @@ Für die Kosten der zentral verwalteten Verfahren der Informationstechnik nach �
     vgl. Bek. v. 21.12.2021 BAnz AT 13.01.2022 B3 (siehe: VKFVÄndBek 2022)
      
     mWv 1.1.2023
-    vgl. Bek. v. 12.4.2023 BAnz AT 27.04.2023 B2 (siehe: VKFVÄndBek 2023) +++) 
+    vgl. Bek. v. 12.4.2023 BAnz AT 27.04.2023 B2 (siehe: VKFVÄndBek 2023)
+     
+    mWv 1.1.2024
+    vgl. Bek. v. 14.12.2023 BAnz AT 14.12.2023 B4 (siehe: VKFVÄndBek 2024) +++) 
 
 # § 21 – Monitoring
 
