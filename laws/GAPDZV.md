@@ -651,6 +651,8 @@ f) die Zahlung für Mutterkühe,
 
 (9) Abweichend von Absatz 5 unterliegen im Fall der Zahlung für Mutterschafe und -ziegen sowie der Zahlung für Mütterkühe die jeweiligen nach § 23 ermittelten vorläufigen Einheitsbeträge nicht den Anpassungen nach den §§ 25 und 26. Abweichend von Absatz 8 sind im Fall der Zahlung für Mutterschafe und -ziegen sowie der Zahlung für Mütterkühe die jeweiligen nach § 23 ermittelten vorläufigen Einheitsbeträge, abgerundet auf die zweite Nachkommastelle, die tatsächlichen Einheitsbeträge. § 24 bleibt unberührt.
 
+(+++ § 22: Zur Anwendung vgl. § 28 Abs. 3 +++)
+
 # § 23 – Berechnung vorläufiger Einheitsbeträge
 
 (1) Zur Berechnung der tatsächlichen Einheitsbeträge werden nach Maßgabe der Absätze 2 bis 11 vorläufige Einheitsbeträge berechnet.
@@ -809,7 +811,7 @@ c) § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes
 2023</th><th style="text-align: right;">Antragsjahr<br />
 2024</th><th style="text-align: right;">Antragsjahr<br />
 2025</th><th style="text-align: right;">Antragsjahr<br />
-2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td></tr></tbody></table>
+2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag</td><td style="text-align: right;">150 Euro</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td><td style="text-align: right;">200 Euro</td></tr></tbody></table>
 
 d) § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes
 
@@ -870,6 +872,8 @@ Für eine nach Anlage 5 Nummer 6 begünstigungsfähige Fläche mit einer von Anl
 2024</th><th style="text-align: right;">Antragsjahr<br />
 2025</th><th style="text-align: right;">Antragsjahr<br />
 2026</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Geplanter Einheitsbetrag</td><td style="text-align: right;">40 Euro</td><td style="text-align: right;">40 Euro</td><td style="text-align: right;">40 Euro</td><td style="text-align: right;">40 Euro</td></tr></tbody></table>
+
+(+++ Anlage 4: Zur Anwendung vgl. § 28 Abs. 4 +++)
 
 # Anlage 5 – (zu § 17 Absatz 1)Verpflichtungen, die bei den Öko-Regelungen nach § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes jeweils eingehalten werden müssen, und die jeweils begünstigungsfähige Fläche
 
@@ -1092,6 +1096,8 @@ b) nach Artikel 4 Absatz 1 der Richtlinie 2009/147/EG als Schutzgebiet ausgewies
 
 7.4  
 Förderfähige landwirtschaftliche Flächen, bei denen rechtliche Vorgaben mindestens einer der Maßnahmen nach Nummer 7.2 nicht entgegenstehen, sind begünstigungsfähig.
+
+(+++ Anlage 5: Zur Anwendung vgl. § 28 Abs. 4 +++)
 
 # Anhang 1 – Zulässige Arten für Saatgutmischungen bei Blühstreifen oder -flächen
 
