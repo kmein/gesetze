@@ -1758,6 +1758,8 @@
 - [EnEfG](laws/EnEfG.md) Gesetz zur Steigerung der Energieeffizienz in Deutschland 1
 - [EnergieStG](laws/EnergieStG.md) Energiesteuergesetz
 - [EnergieStG§28Abs2Bek](laws/EnergieStG§28Abs2Bek.md) Bekanntmachung nach § 28 Absatz 2 des Energiesteuergesetzes
+- [EnergieStG§53aAbs11S2u3Bek](laws/EnergieStG§53aAbs11S2u3Bek.md) Bekanntmachung nach § 53a Absatz 11 Satz 2 und 3 des Energiesteuergesetzes
+- [EnergieStG§55Abs9Bek](laws/EnergieStG§55Abs9Bek.md) Bekanntmachung nach § 55 Absatz 9 des Energiesteuergesetzes
 - [EnergieStV](laws/EnergieStV.md) Verordnung zur Durchführung des Energiesteuergesetzes
 - [ENeuOG](laws/ENeuOG.md) Gesetz zur Neuordnung des Eisenbahnwesens
 - [EnFG](laws/EnFG.md) Gesetz zur Finanzierung der Energiewende im Stromsektor durch Zahlungen des Bundes und Erhebung von Umlagen
@@ -5422,6 +5424,8 @@
 - [StromStG§10Abs3uaBek 2020](laws/StromStG§10Abs3uaBek_2020.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
 - [StromStG§10Abs3uaBek 2021](laws/StromStG§10Abs3uaBek_2021.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
 - [StromStG§10Abs3uaBek 2022](laws/StromStG§10Abs3uaBek_2022.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
+- [StromStG§10Abs8Bek](laws/StromStG§10Abs8Bek.md) Bekanntmachung nach § 10 Absatz 8 des Stromsteuergesetzes
+- [StromStG§9Abs9Bek](laws/StromStG§9Abs9Bek.md) Bekanntmachung nach § 9 Absatz 9 des Stromsteuergesetzes
 - [StromStV](laws/StromStV.md) Verordnung zur Durchführung des Stromsteuergesetzes
 - [StrRehaG](laws/StrRehaG.md) Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet
 - [StrRehaHomG](laws/StrRehaHomG.md) Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen
