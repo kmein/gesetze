@@ -65,6 +65,14 @@ Auf Grund des § 71 Absatz 1 des Hebammengesetzes vom 22. November 2019 (BGBl. I
 
  
 
+ 
+
+ 
+
+ 
+
+ 
+
 # § 1 – Inhalt des Studiums
 
 Im Hebammenstudium sind der studierenden Person die in Anlage 1 genannten Kompetenzen zu vermitteln.
@@ -81,7 +89,7 @@ Im Hebammenstudium sind der studierenden Person die in Anlage 1 genannten Kompet
 
 # § 3 – Inhalt des modularen Curriculums
 
-(1) Das modulare Curriculum wird von der Hochschule so erstellt, dass der studierenden Person die in Anlage 1 genannten Kompetenzen vermittelt werden.
+(1) Das modulare Curriculum wird von der Hochschule so erstellt, dass der studierenden Person die in Anlage 1 genannten Kompetenzen vermittelt werden. Es umfasst die Inhalte der in der Anlage 12 genannten Fächer.
 
 (2) Im modularen Curriculum legt die Hochschule zudem Folgendes fest:
 
@@ -513,6 +521,42 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 
 (4) Im Fall des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
+# § 43a – Erforderliche Unterlagen
+
+(1) Personen, die die Erlaubnis zum Führen der Berufsbezeichnung nach § 5 des Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs des Hebammengesetzes erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
+
+1. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeit in deutscher Sprache,
+
+2. einen Identitätsnachweis,
+
+3. eine Bescheinigung über die erworbene Berufsqualifikation und die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation belegen,
+
+4. sofern vorhanden, eine Bescheinigung über die erworbene Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die durch lebenslanges Lernen erworben worden sind,
+
+5. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
+
+6. sofern vorhanden, einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
+
+Für den Fall, dass die außerhalb des Geltungsbereichs des Hebammengesetzes erworbene Berufsqualifikation der automatischen Anerkennung unterliegt, sind die in den §§ 46 bis 50 des Hebammengesetzes genannten Nachweise und Bescheinigungen oder solche Nachweise vorzulegen, die geeignet sind, die jeweils genannten Voraussetzungen nach den §§ 46 bis 50 des Hebammengesetzes zu belegen.
+
+(2) Die Unterlagen nach Absatz 1 Satz 1 Nummer 2 bis 4 und Satz 2 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Satz 1 Nummer 3 und 4 und Satz 2 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
+
+(3) Die zuständige Behörde kann abweichend von Absatz 2 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
+
+(4) Die zuständige Behörde kann die antragstellende Person auffordern, innerhalb einer angemessenen Frist Informationen zum Inhalt und zur Dauer der im Ausland absolvierten Berufsbildung sowie zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur Bewertung der Voraussetzungen für die automatische Anerkennung einer Berufsqualifikation nach Teil 4 Abschnitt 2 des Hebammengesetzes oder zur Bewertung der Voraussetzungen nach Teil 4 Abschnitt 3 des Hebammengesetzes erforderlich ist. Soweit die Ausbildung in einem Mitgliedstaat, in einem Vertragsstaat oder in einem gleichgestellten Staat absolviert wurde, kann sich die zuständige Behörde an die zuständige Stelle des Ausbildungsstaats wenden.
+
+(5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften oder weitere geeignete Unterlagen vorzulegen. Bei Unterlagen, die in einem Mitgliedstaat, einem Vertragsstaat oder einem gleichgestellten Staat ausgestellt oder anerkannt wurden, kann sich die zuständige Behörde im Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl an die zuständige Stelle des Ausbildungs- oder Anerkennungsstaats wenden als auch die antragstellende Person auffordern, beglaubigte Abschriften vorzulegen. Eine solche Aufforderung hemmt nicht den Fristlauf nach § 43 Absatz 2 bis 4.
+
+(6) Die antragstellende Person hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind insbesondere
+
+1. der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
+
+2. ein Geschäftskonzept oder
+
+3. der Vermerk über eine Standortberatung der Zentralen Servicestelle Berufsanerkennung.
+
+Die zuständige Behörde darf nicht zwingend einen Vermerk über eine Standortberatung nach Satz 1 Nummer 3 fordern, wenn durch andere Unterlagen die Erwerbsabsicht dargelegt wurde. Für antragstellende Personen mit Wohnsitz in einem Mitgliedstaat, in einem Vertragsstaat oder in einem gleichgestellten Staat sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
+
 # § 44 – Bescheide bei Feststellung wesentlicher Unterschiede
 
 (1) Stellt die Behörde hinsichtlich der Gleichwertigkeit der Berufsqualifikation wesentliche Unterschiede fest, so erteilt sie der antragstellenden Person einen rechtsmittelfähigen Bescheid.
@@ -667,6 +711,80 @@ durchgeführt. An der theoretischen Unterweisung sollen praxisanleitende Persone
 
 Die Nachweise nach den §§ 54 und 55 dürfen von der zuständigen Behörde der Beurteilung nur zugrunde gelegt werden, wenn der Zeitpunkt, zu dem sie ausgestellt worden sind, höchstens drei Monate zurückliegt.
 
+# § 56a – Frist der Behörde für die Bestätigung des Antragseingangs
+
+Beantragt eine Person eine Erlaubnis zur partiellen Berufsausübung nach § 59a des Hebammengesetzes, so bestätigt die zuständige Behörde ihr innerhalb eines Monats nach Eingang des Antrags den Antragseingang und teilt ihr gegebenenfalls mit, welche Unterlagen fehlen, um die erforderlichen Voraussetzungen nachzuweisen.
+
+# § 56b – Erforderliche Unterlagen
+
+(1) Personen, die die Erlaubnis zur partiellen Berufsausübung nach § 59a des Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs des Hebammengesetzes erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
+
+1. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
+
+2. einen Identitätsnachweis,
+
+3. eine Bescheinigung über eine Berufsqualifikation, aus der sich ergibt, dass die Berufsqualifikation erforderlich ist für die Ausübung einer beruflichen Tätigkeit in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat, die den Tätigkeiten einer Hebamme nur partiell entsprechen, sowie die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation belegen,
+
+4. sofern vorhanden, eine Bescheinigung über die erworbene Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die durch lebenslanges Lernen erworben worden sind,
+
+5. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
+
+6. einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
+
+(2) Die Unterlagen nach Absatz 1 Nummer 2 bis 4 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 und 4 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
+
+(3) Die zuständige Behörde kann abweichend von Absatz 2 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
+
+(4) Die zuständige Behörde kann die antragstellende Person auffordern, innerhalb einer angemessenen Frist Informationen zum Inhalt und zur Dauer der im Ausland absolvierten Berufsbildung sowie zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur Bewertung der Voraussetzungen nach § 59a des Hebammengesetzes erforderlich ist. Soweit die Ausbildung in einem Mitgliedstaat, in einem Vertragsstaat oder in einem gleichgestellten Staat absolviert wurde, kann sich die zuständige Behörde an die zuständige Stelle des Ausbildungsstaats wenden.
+
+(5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften oder weitere geeignete Unterlagen vorzulegen. Bei Unterlagen, die in einem Mitgliedstaat, einem Vertragsstaat oder einem gleichgestellten Staat ausgestellt oder anerkannt wurden, kann sich die zuständige Behörde im Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl an die zuständige Stelle des Ausbildungs- oder Anerkennungsstaats wenden als auch die antragstellende Person auffordern, beglaubigte Abschriften vorzulegen. Eine solche Aufforderung hemmt nicht den Fristlauf nach § 56c.
+
+(6) Die antragstellende Person hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind insbesondere
+
+1. der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
+
+2. ein Geschäftskonzept oder
+
+3. der Vermerk über eine Standortberatung der Zentralen Servicestelle Berufsanerkennung.
+
+Die zuständige Behörde darf nicht zwingend einen Vermerk über eine Standortberatung nach Satz 1 Nummer 3 fordern, wenn durch andere Unterlagen die Erwerbsabsicht dargelegt wurde. Für antragstellende Personen mit Wohnsitz in einem Mitgliedstaat, in einem Vertragsstaat oder in einem gleichgestellten Staat sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
+
+(7) Die §§ 54 bis 56 gelten entsprechend.
+
+# § 56c – Frist der Behörde für die Entscheidung über den Antrag
+
+Die zuständige Behörde entscheidet kurzfristig über den Antrag, spätestens jedoch drei Monate nach Vorlage der vollständigen Unterlagen durch die antragstellende Person.
+
+# § 56d – Erlaubnisurkunde
+
+Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach § 59a des Hebammengesetzes ist das Muster nach Anlage 11 zu verwenden.
+
+# § 56e – Erforderliche Unterlagen
+
+(1) Personen, die eine Genehmigung nach § 62a Absatz 1 des Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs des Hebammengesetzes erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
+
+1. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
+
+2. einen Nachweis ihrer Identität sowie ihrer Staatsangehörigkeit,
+
+3. eine Bescheinigung, aus der sich ergibt, dass zum Zeitpunkt der Vorlage der Bescheinigung die antragstellende Person in einem Beruf, dessen Tätigkeit der Tätigkeit einer Hebamme nur partiell entspricht, rechtmäßig in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat niedergelassen ist,
+
+4. eine Bescheinigung über eine Berufsqualifikation, aus der sich ergibt, dass die Berufsqualifikation erforderlich ist für die Ausübung dieses Berufs in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat sowie die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation belegen,
+
+5. sofern vorhanden, eine Bescheinigung über die erworbene Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die durch lebenslanges Lernen erworben worden sind,
+
+6. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
+
+7. einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
+
+(2) Im Fall von § 62a Absatz 1 Satz 2 Nummer 2 Buchstabe b des Hebammengesetzes hat die antragstellende Person zusätzlich einen Nachweis in beliebiger Form darüber vorzulegen, dass dieser Beruf während der vorhergehenden zehn Jahre mindestens ein Jahr lang in einem oder mehreren Mitgliedstaaten, in einem oder mehreren Vertragsstaaten oder in einem oder mehreren gleichgestellten Staaten rechtmäßig ausgeübt worden ist.
+
+(3) Die Unterlagen nach Absatz 1 Nummer 2 bis 5 sowie Absatz 2 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 bis 5 sowie Absatz 2 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
+
+(4) Die zuständige Behörde kann abweichend von Absatz 3 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
+
+(5) Die §§ 54 bis 56 sowie 56b Absatz 4 und 5 Satz 1 und 2 gelten entsprechend.
+
 # § 57 – Übergangsvorschriften zur fachschulischen Ausbildung
 
 (1) Für fachschulische Ausbildungen zur Hebamme oder zum Entbindungspfleger, die vor dem 31. Dezember 2022 begonnen worden sind, ist bis zum 31. Dezember 2027 die Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung nach Maßgabe der folgenden Absätze anzuwenden.
@@ -682,6 +800,8 @@ Die Nachweise nach den §§ 54 und 55 dürfen von der zuständigen Behörde der 
 (6) Für die Eignungsprüfung nach § 16a Absatz 3 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung gilt, dass die oder der Vorsitzende des Prüfungsausschusses während einer Prüfung, die nach dem 30. September 2023 durchgeführt wird, anwesend sein muss; ihr oder ihm steht ein Fragerecht zu.
 
 (7) Für den mündlichen Teil der Kenntnisprüfung nach § 16b Absatz 4 und den praktischen Teil der Kenntnisprüfung nach § 16b Absatz 5 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung gilt, dass die oder der Vorsitzende des Prüfungsausschusses während einer Prüfung, die nach dem 30. September 2023 durchgeführt wird, anwesend sein muss; ihr oder ihm steht ein Fragerecht zu. Für den praktischen Teil der Kenntnisprüfung nach § 16b Absatz 5 gilt in diesen Fällen auch § 16a Absatz 3 Satz 11 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung entsprechend.
+
+(8) Im Fall eines Antrags nach § 77 Absatz 1 Satz 2 des Hebammengesetzes verwendet die zuständige Behörde bei der Erteilung der Erlaubnis das Muster der Erlaubnisurkunde nach Anlage 6a, wenn die antragstellende Person nicht über eine mindestens zwölfjährige allgemeine Schulbildung verfügt.
 
 # § 58 – Übergangsvorschriften zur Ausbildung in Form von Modellvorhaben
 
@@ -913,7 +1033,19 @@ Während der Praxiseinsätze sind insbesondere folgende Tätigkeiten auszuüben:
 
 # Anlage 6 – (zu § 42 Absatz 3)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“
 
-(Fundstelle: BGBl. I 2020, 58)
+(Fundstelle: BGBl. 2023 I Nr. 359, S. 43 – 44)
+
+Name, Vorname
+
+ 
+
+ 
+
+Geburtsdatum
+
+ 
+
+Geburtsort
 
  
 
@@ -926,8 +1058,105 @@ Während der Praxiseinsätze sind insbesondere folgende Tätigkeiten auszuüben:
  
 
  
+
+erhält auf der Grundlage von § 5 des Gesetzes über das Studium und den Beruf von Hebammen (Hebammengesetz) mit Wirkung vom heutigen Tage die Erlaubnis, die Berufsbezeichnung
+
+„Hebamme“
+
+zu führen.
+
+Wichtiger Hinweis:
+
+Aufgrund des Zugangs zum Hebammenstudium nach § 10 Absatz 1 Nummer 1 Buchstabe b Doppelbuchstabe bb oder Doppelbuchstabe cc des Hebammengesetzes wird die Berufsqualifikation der Inhaberin oder des Inhabers dieser Erlaubnis nicht automatisch anerkannt nach Artikel 21 Absatz 3 der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom 3.2.2009, S. 49; L 305 vom 24.10.2014, S. 115), die zuletzt durch den Delegierten Beschluss (EU) 2023/2383 (ABl. L 129 vom 9.10.2023, S. 1) geändert worden ist, in ihrer jeweils geltenden Fassung.
+
+Important note:
+
+On account of having had access to midwifery studies by virtue of Section 10 (1) no. 1 (b) (bb) or (cc) of the Midwives Act, the professional qualification of the holder of this licence is not automatically recognised in accordance with Article 21 (3) of Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications (OJ L 255 of 30.9.2005, p. 22; L 271, 16.10.2007, p. 18; L 93, 4.4.2008, p. 28; L 33, 3.2.2009, p. 49; L 305, 24.10.2014, p. 115), most recently amended by Delegated Decision (EU) 2023/2383 (OJ L 129, 9.10.2023, p. 1), in its current version.
+
+Remarque importante:
+
+En raison de l´accès aux études de sage-femme, réglé en vertu de l´article 10, paragraphe 1, point 1, lettre b), double lettre bb) ou cc), de la loi sur la profession de sage-femme (Hebammengesetz), la qualification professionnelle du titulaire de cette autorisation n´est pas automatiquement reconnue conformément à l´article 21, paragraphe 3, de la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles (JO L 255 du 30.9.2005, p. 22; L 271 du 16.10.2007, p. 18; L 93 du 4.4.2008, p. 28; L 33 du 3.2.2009, p. 49; L 305 du 24.10.2014, p. 115), modifiée en dernier lieu par la décision déléguée (UE) 2023/2383 (JO L 129 du 9.10.2023, p. 1), dans sa version actualisée.
+
+Nota importante:
+
+In base all´accesso agli studi di ostetricia ai sensi dell´articolo 10, paragrafo 1, comma 1, lettera b), punto bb) o cc) della legge sulle ostetriche, la qualifica professionale del titolare di questa licenza non viene riconosciuta automaticamente ai sensi dell´articolo 21 capoverso 3 della Direttiva 2005/36/CE del Parlamento Europeo e del Consiglio del 7 settembre 2005 sul riconoscimento delle qualifiche professionali (GU L 255 del 30.9.2005, pag. 22; L 271 del 16.10.2007, pag. 18; L 93 del 4.4 2008, pag. 28; L 33, 3.2.2009, pag. 49; L 305, 24.10.2014, pag. 115), modificata da ultimo con decisione delegata (UE) 2023/2383 (GU L 129 del 9.10.2023, p. 1), nella versione vigente.
+
+Nota importante:
+
+Tras acceder a los estudios de matrona con arreglo al artículo 10, apartado 1, punto 1, letra b, inciso bb o cc, de la Ley alemana de matronas, la cualificación profesional de la o el titular de esta licencia no se reconoce automáticamente conforme al artículo 21, apartado 3, de la Directiva 2005/36/CE del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, relativa al reconocimiento de cualificaciones profesionales (DO L 255 de 30/09/2005, p. 22; L 271 de 16/10/2007, p. 18; L 93 de 04/04/2008, p. 28; L 33 de 03/02/2009, p. 49; L 305 de 24/10/2014, p. 115), modificada en último lugar por la Decisión Delegada (UE) 2023/2383 (DO L 129 de 9/10/2023, p. 1), en su versión vigente.
+
+|                                                          |     |          |
+|:---------------------------------------------------------|:----|:---------|
+| Ort, Datum                                               |     |          |
+|                                                          |     | (Siegel) |
+|                                                          |     |          |
+| (Unterschrift oder qualifizierte elektronische Signatur) |     |          |
 
 Satz 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde der doppelt verwendete Artikel "der" gestrichen.
+
+# Anlage 6a – (zu § 57 Absatz 8)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger“
+
+(Fundstelle: BGBl. 2023 I Nr. 359, S. 44 – 45)
+
+Name, Vorname
+
+ 
+
+ 
+
+Geburtsdatum
+
+ 
+
+Geburtsort
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+erhält auf der Grundlage von § 2 des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung in Verbindung mit § 77 Absatz 1 des Hebammengesetzes mit Wirkung vom heutigen Tage die Erlaubnis, die Berufsbezeichnung
+
+„Hebamme/Entbindungspfleger“<span id="FnR.FnA1-F828010_01"></span><a href="#FnA1-F828010_01" class="FnR">*</a></sup>
+
+zu führen.
+
+Wichtiger Hinweis:
+
+Aufgrund des Zugangs zur Ausbildung nach dem 18. Januar 2020 mit einer nicht mindestens zwölfjährigen allgemeinen Schulbildung wird die Berufsqualifikation der Inhaberin oder des Inhabers dieser Erlaubnis nicht automatisch anerkannt nach Artikel 21 Absatz 3 der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom 3.2.2009, S. 49; L 305 vom 24.10.2014, S. 115), die zuletzt durch den Delegierten Beschluss (EU) 2023/2383 (ABl. L 129 vom 9.10.2023, S. 1) geändert worden ist, in ihrer jeweils geltenden Fassung.
+
+Please note:
+
+On account of having had access to training, after 18 January 2020, without at least twelve years of general education, the professional qualification of the holder of this licence is not automatically recognised in accordance with Article 21 (3) of Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications (OJ L 255 of 30.9.2005, p. 22; L 271, 16.10.2007, p. 18; L 93, 4.4.2008, p. 28; L 33, 3.2.2009, p. 49; L 305, 24.10.2014, p. 115), most recently amended by Delegated Decision (EU) 2023/2383 (OJ L 129, 9.10.2023, p. 1), in its current version.
+
+Remarque importante:
+
+En raison de l´accès à la formation après le 18 janvier 2020 et en l´absence d´un cycle d´enseignement général d´au moins douze ans, la qualification professionnelle du titulaire de cette autorisation n´est pas automatiquement reconnue conformément à l´article 21, paragraphe 3, de la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles (JO L 255 du 30.9.2005, p. 22; L 271 du 16.10.2007, p. 18; L 93 du 4.4.2008, p. 28; L 33 du 3.2.2009, p. 49; L 305 du 24.10.2014, p. 115), modifiée en dernier lieu par la décision déléguée (UE) 2023/2383 (JO L 129 du 9.10.2023, p. 1), dans sa version actualisée.
+
+Nota importante:
+
+In base all´accesso accesso alla formazione dopo il 18 gennaio 2020 senza almeno dodici anni di istruzione scolastica generale, la qualifica professionale del titolare di questa licenza non viene riconosciuta automaticamente ai sensi dell´articolo 21 capoverso 3 della Direttiva 2005/36/CE del Parlamento Europeo e del Consiglio del 7 settembre 2005 sul riconoscimento delle qualifiche professionali (GU L 255 del 30.9.2005, pag. 22; L 271 del 16.10.2007, pag. 18; L 93 del 4.4 2008, pag. 28; L 33, 3.2.2009, pag. 49; L 305, 24.10.2014, pag. 115), modificata da ultimo con decisione delegata (UE) 2023/2383 (GU L 129 del 9.10.2023, p. 1), nella versione vigente.
+
+Nota importante:
+
+Tras acceder a la formación con posterioridad al 18 de enero de 2020 no habiendo completado al menos doce años de la enseñanza general básica, la cualificación profesional de la o el titular de esta licencia no se reconoce automáticamente con arreglo al artículo 21, apartado 3, de la Directiva 2005/36/CE del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, relativa al reconocimiento de cualificaciones profesionales (DO L 255 de 30/09/2005, p. 22; L 271 de 16/10/2007, p. 18; L 93 de 04/04/2008, p. 28; L 33 de 03/02/2009, p. 49; L 305 de 24/10/2014, p. 115), modificada en último lugar por la Decisión Delegada (UE) 2023/2383 (DO L 129 de 9/10/2023, p. 1), en su versión vigente.
+
+|                                                           |     |          |
+|:----------------------------------------------------------|:----|:---------|
+| Ort, Datum                                                |     |          |
+|                                                           |     | (Siegel) |
+|                                                           |     |          |
+| (Unterschrift oder qualifizierte elektronische Signatur). |     |          |
+
+<span id="FnA1-F828010_01"></span><a href="#FnR.FnA1-F828010_01" class="Footnote">*</a>  
+Nichtzutreffendes streichen.
 
 # Anlage 7 – (zu § 46 Absatz 4)Bescheinigung über die staatliche Eignungsprüfung zur „Hebamme“
 
@@ -961,15 +1190,9 @@ Satz 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde der doppelt verwe
 
  
 
- 
-
 # Anlage 9 – (zu § 51 Absatz 4)Bescheinigung über die staatliche Kenntnisprüfung zur „Hebamme“
 
 (Fundstelle: BGBl. I 2020, 61)
-
- 
-
- 
 
  
 
@@ -993,8 +1216,130 @@ Satz 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde der doppelt verwe
 
  
 
- 
-
- 
-
 \_\_\_\_\_\_\_\_
+
+# Anlage 11 – (zu § 56d)Urkunde über die Erlaubnis zur partiellen Berufsausübung
+
+(Fundstelle: BGBl. 2023 I Nr. 359, S. 46)
+
+Name, Vorname
+
+ 
+
+ 
+
+Geburtsdatum
+
+ 
+
+Geburtsort
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+erhält aufgrund des § 59a des Hebammengesetzes mit Wirkung vom heutigen Tage die Erlaubnis zur partiellen Berufsausübung.
+
+Folgende vorbehaltene Tätigkeiten werden von der Erlaubnis zur partiellen Berufsausübung umfasst (abschließende Aufzählung):
+
+Die Ausübung des Berufs erfolgt unter der Berufsbezeichnung des Staates, in dem die Berufsqualifikation erworben wurde, sowie mit dem Hinweis auf den Namen dieses Staates und die oben genannte(n) vorbehaltene(n) Tätigkeit(en), wie folgt:
+
+Es wird auf die Pflicht hingewiesen, den Dienstleistungsempfängern eindeutig den Umfang der beruflichen Tätigkeit anzugeben (Artikel 4f Absatz 5 Satz 3 der Richtlinie 2005/36/EG).
+
+|                                                          |     |          |
+|:---------------------------------------------------------|:----|:---------|
+| Ort, Datum                                               |     |          |
+|                                                          |     | (Siegel) |
+|                                                          |     |          |
+| (Unterschrift oder qualifizierte elektronische Signatur) |     |          |
+
+# Anlage 12 – (zu § 3 Absatz 1)Fächerkatalog gemäß Anhang V Nummer 5.5.1 der Richtlinie 2005/36/EG über den theoretischen und fachlichen Unterricht
+
+(Fundstelle: BGBl. 2023 I Nr. 359, S. 46 – 47)
+
+I. Grundfächer
+
+–  
+Grundbegriffe der Anatomie und Physiologie
+
+–  
+Grundbegriffe der Pathologie
+
+–  
+Grundbegriffe der Bakteriologie, Virologie und Parasitologie
+
+–  
+Grundbegriffe der Biophysik, Biochemie und Radiologie
+
+–  
+Kinderheilkunde, insbesondere in Bezug auf Neugeborene
+
+–  
+Hygiene, Gesundheitserziehung, Gesundheitsvorsorge, Früherkennung von Krankheiten
+
+–  
+Ernährung und Diätetik unter besonderer Berücksichtigung der Ernährung der Frau, des Neugeborenen und des Säuglings
+
+–  
+Grundbegriffe der Soziologie und sozialmedizinischer Fragen
+
+–  
+Grundbegriffe der Arzneimittellehre
+
+–  
+Psychologie
+
+–  
+Pädagogik
+
+–  
+Gesundheits- und Sozialrecht und Aufbau des Gesundheitswesens
+
+–  
+Berufsethik und Berufsrecht
+
+–  
+Sexualerziehung und Familienplanung
+
+–  
+Gesetzlicher Schutz von Mutter und Kind
+
+II. Spezifische Fächer für Hebammen
+
+–  
+Anatomie und Physiologie
+
+–  
+Embryologie und Entwicklung des Fötus
+
+–  
+Schwangerschaft, Geburt und Wochenbett
+
+–  
+Pathologie in der Frauenheilkunde und Geburtshilfe
+
+–  
+Schwangerenberatung, Vorbereitung auf die Elternschaft, einschließlich psychologischer Aspekte
+
+–  
+Vorbereitung der Entbindung, einschließlich Kenntnisse von Geburtshilfeinstrumenten und ihrer Verwendung
+
+–  
+Analgesie, Anästhesie und Wiederbelebung
+
+–  
+Physiologie und Pathologie des Neugeborenen
+
+–  
+Betreuung und Pflege des Neugeborenen
+
+–  
+Psychologische und soziale Faktoren

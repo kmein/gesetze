@@ -85,6 +85,18 @@ Auf Grund des § 56 Absatz 1 und 2 des Pflegeberufegesetzes vom 17. Juli 2017 (B
 
  
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 # § 1 – Inhalt und Gliederung der Ausbildung
 
 (1) Die Ausbildung zur Pflegefachfrau oder zum Pflegefachmann befähigt die Auszubildenden in Erfüllung des Ausbildungsziels nach § 5 des Pflegeberufegesetzes Menschen aller Altersstufen in den allgemeinen und speziellen Versorgungsbereichen der Pflege pflegen zu können. Die hierfür erforderlichen Kompetenzen sind in Anlage 2 konkretisiert. Der Kompetenzerwerb in der Pflege von Menschen aller Altersstufen berücksichtigt auch die besonderen Anforderungen an die Pflege von Kindern und Jugendlichen sowie alten Menschen in den unterschiedlichen Versorgungssituationen sowie besondere fachliche Entwicklungen in den Versorgungsbereichen der Pflege.
@@ -101,7 +113,7 @@ Auf Grund des § 56 Absatz 1 und 2 des Pflegeberufegesetzes vom 17. Juli 2017 (B
 
 (5) Bei Ausbildungen in Teilzeit nach § 6 Absatz 1 Satz 1 zweiter Halbsatz des Pflegeberufegesetzes ist sicherzustellen, dass die Mindeststundenzahl nach Absatz 2 erreicht wird. Absatz 4 gilt entsprechend.
 
-(6) Unter unmittelbarer Aufsicht von Inhabern einer Erlaubnis nach § 1 Absatz 1, § 58 Absatz 1, § 58 Absatz 2 oder § 64 des Pflegeberufegesetzes sollen ab der zweiten Hälfte der Ausbildungszeit mindestens 80, höchstens 120 Stunden der praktischen Ausbildung im Rahmen des Nachtdienstes abgeleistet werden.
+(6) Unter unmittelbarer Aufsicht von Inhabern einer Erlaubnis nach § 1, § 58 Absatz 1, § 58 Absatz 2 oder § 64 des Pflegeberufegesetzes sollen ab der zweiten Hälfte der Ausbildungszeit mindestens 80, höchstens 120 Stunden der praktischen Ausbildung im Rahmen des Nachtdienstes abgeleistet werden.
 
 (7) Die zuständige Behörde weist die Auszubildende oder den Auszubildenden auf die Möglichkeit der Ausübung des Wahlrechts nach § 59 Absatz 2 oder Absatz 3 des Pflegeberufegesetzes hin. Der Hinweis erfolgt schriftlich oder elektronisch so rechtzeitig, dass die oder der Auszubildende das Wahlrecht innerhalb der Frist nach § 59 Absatz 5 Satz 1 des Pflegeberufegesetzes ausüben kann.
 
@@ -113,9 +125,11 @@ Auf Grund des § 56 Absatz 1 und 2 des Pflegeberufegesetzes vom 17. Juli 2017 (B
 
 (3) Die Pflegeschule erstellt ein schulinternes Curriculum unter Berücksichtigung der Empfehlungen im Rahmenlehrplan nach § 51.
 
+(4) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können als pädagogische Hilfsmittel bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Auszubildenden gegenüber der Schule nachzuweisen. Das Nähere regeln die Länder.
+
 # § 3 – Praktische Ausbildung
 
-(1) Während der praktischen Ausbildung nach § 1 Absatz 2 Nummer 2 sind die Kompetenzen zu vermitteln, die zur Erreichung des Ausbildungsziels nach § 5 des Pflegeberufegesetzes erforderlich sind. Die Auszubildenden werden befähigt, die im Unterricht und in der praktischen Ausbildung erworbenen Kompetenzen aufeinander zu beziehen, miteinander zu verbinden und weiterzuentwickeln.
+(1) Während der praktischen Ausbildung nach § 1 Absatz 2 Nummer 2 sind die Kompetenzen zu vermitteln, die zur Erreichung des Ausbildungsziels nach § 5 des Pflegeberufegesetzes erforderlich sind. Die Auszubildenden werden befähigt, die im Unterricht und in der praktischen Ausbildung erworbenen Kompetenzen aufeinander zu beziehen, miteinander zu verbinden und weiterzuentwickeln. Stellt der Träger der praktischen Ausbildung bei der zuständigen Behörde einen Antrag auf Erteilung der Genehmigung nach § 6 Absatz 3 Satz 5 des Pflegeberufegesetzes, legt er in einem Konzept dar, dass das Ziel des jeweiligen Praxiseinsatzes, insbesondere das Ziel, als Mitglied eines Pflegeteams in unmittelbarem Kontakt mit zu pflegenden Menschen zu lernen, durch den beantragten Umfang der Ersetzung durch praktische Lerneinheiten an der Pflegeschule nicht gefährdet wird.
 
 (2) Die praktische Ausbildung beim Träger der praktischen Ausbildung soll mindestens 1 300 Stunden umfassen. Ein Pflichteinsatz nach § 7 Absatz 1 des Pflegeberufegesetzes und der Orientierungseinsatz sind beim Träger der praktischen Ausbildung durchzuführen. Der Vertiefungseinsatz soll beim Träger der praktischen Ausbildung durchgeführt werden. Er ist in dem für den Vertiefungseinsatz gewählten Versorgungsbereich gemäß dem Ausbildungsvertrag durchzuführen.
 
@@ -125,15 +139,19 @@ Auf Grund des § 56 Absatz 1 und 2 des Pflegeberufegesetzes vom 17. Juli 2017 (B
 
 (4) Soweit während eines Einsatzes einer Auszubildenden oder eines Auszubildenden nach § 7 Absatz 2 des Pflegeberufegesetzes in der jeweiligen Einrichtung keine Pflegefachkräfte tätig sind, ist im Hinblick auf die Anforderungen nach § 7 Absatz 5 Satz 1 des Pflegeberufegesetzes ein angemessenes Verhältnis von Auszubildenden zu anderen, zur Vermittlung der Ausbildungsinhalte geeigneten Fachkräften zu gewährleisten.
 
-(5) Der von den Auszubildenden zu führende Ausbildungsnachweis nach § 17 Satz 2 Nummer 3 des Pflegeberufegesetzes ist von der Pflegeschule so zu gestalten, dass sich aus ihm die Ableistung der praktischen Ausbildungsanteile in Übereinstimmung mit dem Ausbildungsplan und eine entsprechende Kompetenzentwicklung feststellen lassen. Die Pflegeschule berücksichtigt bei der Gestaltung des Ausbildungsnachweises den Musterentwurf nach § 60 Absatz 5.
+(5) Der von den Auszubildenden schriftlich oder elektronisch zu führende Ausbildungsnachweis nach § 17 Satz 2 Nummer 3 des Pflegeberufegesetzes ist von der Pflegeschule so zu gestalten, dass sich aus ihm die Ableistung der praktischen Ausbildungsanteile in Übereinstimmung mit dem Ausbildungsplan und eine entsprechende Kompetenzentwicklung feststellen lassen. Die Pflegeschule berücksichtigt bei der Gestaltung des Ausbildungsnachweises den Musterentwurf nach § 60 Absatz 5.
+
+(6) Die zuständige Behörde kann außerhalb des Geltungsbereichs des Pflegeberufegesetzes absolvierte Teile der praktischen Ausbildung im Umfang ihrer Gleichwertigkeit auf die Dauer der Einsätze nach Absatz 3 Satz 2 und 3 anrechnen. Der Umfang der Anrechnung darf nicht mehr als 25 Prozent der Stunden des jeweiligen Einsatzes betragen; dies gilt nicht für die weiteren Einsätze und Stunden zur freien Verteilung nach Anlage 7 Abschnitt VI Nummer 1 und 2. Der Umfang der Anrechnung darf insgesamt nicht mehr als 10 Prozent der Gesamtsumme der Stunden der praktischen Ausbildung betragen. Das Erreichen des Ausbildungsziels darf durch die Anrechnung nicht gefährdet werden.
 
 # § 4 – Praxisanleitung
 
 (1) Die Einrichtungen der praktischen Ausbildung stellen die Praxisanleitung sicher. Aufgabe der Praxisanleitung ist es, die Auszubildenden schrittweise an die Wahrnehmung der beruflichen Aufgaben als Pflegefachfrau oder Pflegefachmann heranzuführen, zum Führen des Ausbildungsnachweises nach § 3 Absatz 5 anzuhalten und die Verbindung mit der Pflegeschule zu halten. Die Praxisanleitung erfolgt im Umfang von mindestens 10 Prozent der während eines Einsatzes zu leistenden praktischen Ausbildungszeit, geplant und strukturiert auf der Grundlage des vereinbarten Ausbildungsplanes.
 
-(2) Während des Orientierungseinsatzes, der Pflichteinsätze in Einrichtungen nach § 7 Absatz 1 des Pflegeberufegesetzes und des Vertiefungseinsatzes erfolgt die Praxisanleitung nach Absatz 1 Satz 2 durch Personen, die über mindestens ein Jahr Berufserfahrung als Inhaberin oder Inhaber einer Erlaubnis nach § 1 Absatz 1, nach § 58 Absatz 1 oder Absatz 2 oder nach § 64 des Pflegeberufegesetzes in den letzten fünf Jahren und die Befähigung zur Praxisanleiterin oder zum Praxisanleiter nach Absatz 3 verfügen; die Berufserfahrung soll im jeweiligen Einsatzbereich erworben worden sein. Während der weiteren Einsätze der praktischen Ausbildung soll die Praxisanleitung nach Absatz 1 Satz 2 durch entsprechend qualifizierte Fachkräfte sichergestellt werden.
+(2) Während des Orientierungseinsatzes, der Pflichteinsätze in Einrichtungen nach § 7 Absatz 1 des Pflegeberufegesetzes und des Vertiefungseinsatzes erfolgt die Praxisanleitung nach Absatz 1 Satz 2 durch Personen, die über mindestens ein Jahr Berufserfahrung als Inhaberin oder Inhaber einer Erlaubnis nach § 1, nach § 58 Absatz 1 oder Absatz 2 oder nach § 64 des Pflegeberufegesetzes in den letzten fünf Jahren und die Befähigung zur Praxisanleiterin oder zum Praxisanleiter nach Absatz 3 verfügen; die Berufserfahrung soll im jeweiligen Einsatzbereich erworben worden sein. Während der weiteren Einsätze der praktischen Ausbildung soll die Praxisanleitung nach Absatz 1 Satz 2 durch entsprechend qualifizierte Fachkräfte sichergestellt werden.
 
 (3) Die Befähigung zur Praxisanleiterin oder zum Praxisanleiter ist durch eine berufspädagogische Zusatzqualifikation im Umfang von mindestens 300 Stunden und kontinuierliche, insbesondere berufspädagogische Fortbildung im Umfang von mindestens 24 Stunden jährlich gegenüber der zuständigen Behörde nachzuweisen. Für Personen, die am 31. Dezember 2019 nachweislich über die Qualifikation zur Praxisanleitung nach § 2 Absatz 2 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung oder § 2 Absatz 2 der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung verfügen, wird diese der berufspädagogischen Zusatzqualifikation gleichgestellt.
+
+(4) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können als pädagogische Hilfsmittel bei der Konzeption der Qualifikationsmaßnahmen nach Absatz 3 Satz 1 in angemessenem Umfang berücksichtigt werden. Eine vollständig digitale Durchführung ist unbeschadet der Voraussetzungen von Satz 1 nur für die kontinuierliche, insbesondere berufspädagogische Fortbildung zulässig. Die Teilnahme an digitalen Lehrformaten ist vom Anbieter der Qualifikationsmaßnahme festzustellen. Das Nähere regeln die Länder.
 
 # § 5 – Praxisbegleitung
 
@@ -177,13 +195,13 @@ Gegenstand der Zwischenprüfung nach § 6 Absatz 5 des Pflegeberufegesetzes ist 
 
 3. mindestens zwei Fachprüferinnen oder Fachprüfern, die an der Pflegeschule unterrichten, und
 
-4. einer oder mehreren Fachprüferinnen oder Fachprüfern, die zum Zeitpunkt der Prüfung als praxisanleitende Personen nach § 4 Absatz 1 tätig sind und die Voraussetzungen nach § 4 Absatz 2 Satz 1 erfüllen und von denen mindestens eine Person in der Einrichtung tätig ist, in der der Vertiefungseinsatz durchgeführt wurde.
+4. einer oder mehreren Fachprüferinnen oder Fachprüfern, die zum Zeitpunkt der Prüfung als praxisanleitende Personen nach § 4 Absatz 1 tätig sind und die Voraussetzungen nach § 4 Absatz 2 Satz 1 erfüllen und von denen mindestens eine Person in der Einrichtung tätig sein soll, in der der Vertiefungseinsatz durchgeführt wurde.
 
 (2) Die zuständige Behörde bestellt auf Vorschlag der Pflegeschule die Mitglieder des Prüfungsausschusses sowie deren Stellvertreterinnen oder Stellvertreter. Für jedes Mitglied ist mindestens eine Stellvertreterin oder ein Stellvertreter zu bestimmen. Als Fachprüferinnen oder Fachprüfer sollen die Lehrkräfte bestellt werden, die die zu prüfende Person überwiegend ausgebildet haben.
 
 (3) Das Mitglied nach Absatz 1 Satz 2 Nummer 1 ist Vorsitzende oder Vorsitzender des Prüfungsausschusses. Es wird bei der Durchführung seiner Aufgaben von der zuständigen Behörde unterstützt. Es bestimmt auf Vorschlag der Schulleiterin oder des Schulleiters die Fachprüferinnen oder Fachprüfer und deren Stellvertreterinnen oder Stellvertreter für die einzelnen Prüfungsbereiche des schriftlichen Teils der Prüfung und für den mündlichen und praktischen Teil der Prüfung.
 
-(4) Die oder der Vorsitzende des Prüfungsausschusses ist verpflichtet, an den jeweiligen Teilen der Prüfung in dem Umfang teilzunehmen, der zur Erfüllung der in dieser Verordnung geregelten Aufgaben erforderlich ist; eine Verpflichtung zur Anwesenheit während der gesamten Dauer der Prüfung besteht nicht.
+(4) Die oder der Vorsitzende ist berechtigt, an allen Teilen der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Eine Verpflichtung zur Anwesenheit besteht nicht.
 
 (5) Die zuständige Behörde kann Sachverständige sowie Beobachterinnen und Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden. Die Teilnahme an einer realen Pflegesituation ist nur mit Einwilligung des zu pflegenden Menschen zulässig.
 
@@ -195,7 +213,7 @@ Gegenstand der Zwischenprüfung nach § 6 Absatz 5 des Pflegeberufegesetzes ist 
 
 1. ein Identitätsnachweis der zu prüfenden Person in amtlich beglaubigter Abschrift,
 
-2. der ordnungsgemäß schriftlich geführte Ausbildungsnachweis nach § 3 Absatz 5 und
+2. der ordnungsgemäß schriftlich oder elektronisch geführte Ausbildungsnachweis nach § 3 Absatz 5 und
 
 3. die Jahreszeugnisse nach § 6 Absatz 1.
 
@@ -251,11 +269,11 @@ Gegenstand der Zwischenprüfung nach § 6 Absatz 5 des Pflegeberufegesetzes ist 
 
 (4) Die Aufgaben für die Aufsichtsarbeiten werden von der zuständigen Behörde auf Vorschlag der Pflegeschule ausgewählt. Die zuständige Behörde kann zentrale Prüfungsaufgaben vorgeben, die unter Beteiligung von Pflegeschulen erarbeitet werden. In diesem Fall ist von der zuständigen Behörde ein landeseinheitlicher Prüfungstermin festzulegen.
 
-(5) Jede Aufsichtsarbeit ist von mindestens zwei Fachprüferinnen oder Fachprüfern gemäß § 10 Absatz 1 Satz 2 Nummer 3 zu benoten. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Note der einzelnen Aufsichtsarbeit.
+(5) Jede Aufsichtsarbeit ist von zwei Fachprüferinnen oder Fachprüfern gemäß § 10 Absatz 1 Satz 2 Nummer 3 zu benoten. Aus den Noten der Fachprüferinnen und Fachprüfer für jede Aufsichtsarbeit bildet die oder der Vorsitzende des Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel. Aus den Noten der drei Aufsichtsarbeiten bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den schriftlichen Teil der Prüfung als das arithmetische Mittel. Die Berechnung der Noten nach den Sätzen 2 und 3 erfolgt auf zwei Stellen nach dem Komma ohne Rundung.
 
 (6) Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit „ausreichend“ benotet wird.
 
-(7) Die Gesamtnote für den schriftlichen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses aus dem arithmetischen Mittel der Noten der Aufsichtsarbeiten und der Vornote für den schriftlichen Teil der Prüfung nach § 13 Absatz 1 und 2.
+(7) Die Gesamtnote für den schriftlichen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses aus der Prüfungsnote und der Vornote für den schriftlichen Teil der Prüfung nach § 13 Absatz 1 und 2. Die Berechnung der Gesamtnote erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 17 zuzuordnen.
 
 (+++ § 14 Abs. 3 Satz 3: Zur Anwendung vgl. § 24 Abs. 3 Satz 4 +++)
 
@@ -275,13 +293,13 @@ Den Schwerpunkt des mündlichen Teils der Prüfung bilden die Auseinandersetzung
 
 (3) Die zu prüfenden Personen werden einzeln oder zu zweit geprüft. Die Prüfung soll für jede zu prüfende Person mindestens 30 und nicht länger als 45 Minuten dauern. Eine angemessene Vorbereitungszeit unter Aufsicht ist zu gewähren.
 
-(4) Die Prüfung wird von mindestens zwei Fachprüferinnen oder Fachprüfern gemäß § 10 Absatz 1 Satz 2 Nummer 3 abgenommen und benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, sich an der Prüfung zu beteiligen und dabei selbst Prüfungsfragen zu stellen.
+(4) Die Prüfung wird von zwei Fachprüferinnen oder Fachprüfern gemäß § 10 Absatz 1 Satz 2 Nummer 3 abgenommen und benotet.
 
-(5) Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote.
+(5) Aus den Noten der Fachprüferinnen und Fachprüfer für die in der Prüfung erbrachte Leistung bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den mündlichen Teil der Prüfung als das arithmetische Mittel. Die Berechnung der Prüfungsnote erfolgt auf zwei Stellen nach dem Komma ohne Rundung.
 
 (6) Der mündliche Teil der Prüfung ist bestanden, wenn die Prüfung mindestens mit „ausreichend“ benotet wird.
 
-(7) Die Gesamtnote für den mündlichen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses aus der Prüfungsnote und der Vornote für den mündlichen Teil der Prüfung nach § 13 Absatz 1 und 2.
+(7) Die Gesamtnote für den mündlichen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses aus der Prüfungsnote und der Vornote für den mündlichen Teil der Prüfung nach § 13 Absatz 1 und 2. Die Berechnung der Gesamtnote erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 17 zuzuordnen.
 
 (8) Die oder der Vorsitzende des Prüfungsausschusses kann mit Zustimmung der zu prüfenden Person die Anwesenheit von Zuhörerinnen und Zuhörern beim mündlichen Teil der Prüfung gestatten, wenn ein berechtigtes Interesse besteht.
 
@@ -297,13 +315,13 @@ Den Schwerpunkt des mündlichen Teils der Prüfung bilden die Auseinandersetzung
 
 (5) Die Prüfung besteht aus der vorab zu erstellenden schriftlichen oder elektronischen Ausarbeitung des Pflegeplans (Vorbereitungsteil), einer Fallvorstellung mit einer Dauer von maximal 20 Minuten, der Durchführung der geplanten und situativ erforderlichen Pflegemaßnahmen und einem Reflexionsgespräch mit einer Dauer von maximal 20 Minuten. Die Prüfung ohne Vorbereitungsteil soll einschließlich des Reflexionsgesprächs die Dauer von 240 Minuten nicht überschreiten und kann durch eine organisatorische Pause von maximal einem Werktag unterbrochen werden. Für den Vorbereitungsteil ist eine angemessene Vorbereitungszeit unter Aufsicht zu gewähren.
 
-(6) Die Prüfung wird von mindestens zwei Fachprüferinnen oder Fachprüfern, von denen eine oder einer Fachprüferin oder Fachprüfer nach § 10 Absatz 1 Satz 2 Nummer 4 ist, abgenommen und benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, sich an der Prüfung zu beteiligen und dabei selbst Prüfungsfragen zu stellen.
+(6) Die Prüfung wird von zwei Fachprüferinnen oder Fachprüfern, von denen eine oder einer Fachprüferin oder Fachprüfer nach § 10 Absatz 1 Satz 2 Nummer 4 ist, abgenommen und benotet.
 
-(7) Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote.
+(7) Aus den Noten der Fachprüferinnen und Fachprüfer für die in der Prüfung erbrachte Leistung bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den praktischen Teil der Prüfung als das arithmetische Mittel. Die Berechnung der Prüfungsnote erfolgt auf zwei Stellen nach dem Komma ohne Rundung.
 
 (8) Der praktische Teil der Prüfung ist bestanden, wenn die Prüfung mindestens mit „ausreichend“ benotet wird.
 
-(9) Die Gesamtnote für den praktischen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses aus der Prüfungsnote und der Vornote für den praktischen Teil der Prüfung nach § 13 Absatz 1 und 2.
+(9) Die Gesamtnote für den praktischen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses aus der Prüfungsnote und der Vornote für den praktischen Teil der Prüfung nach § 13 Absatz 1 und 2. Die Berechnung der Gesamtnote erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 17 zuzuordnen.
 
 # § 17 – Benotung
 
@@ -347,7 +365,7 @@ unter 5,50</td><td style="text-align: center;">mangelhaft<br />
 
 (1) Tritt eine zu prüfende Person nach ihrer Zulassung von der Prüfung oder einem Teil der Prüfung zurück, so hat sie der oder dem Vorsitzenden des Prüfungsausschusses den Grund für ihren Rücktritt unverzüglich schriftlich oder elektronisch mitzuteilen.
 
-(2) Genehmigt die oder der Vorsitzende des Prüfungsausschusses den Rücktritt, so gilt die Prüfung als nicht begonnen. Die Genehmigung ist nur zu erteilen, wenn ein wichtiger Grund vorliegt. Bei Krankheit ist die Vorlage eines amtsärztlichen Attests zu verlangen.
+(2) Genehmigt die oder der Vorsitzende des Prüfungsausschusses den Rücktritt, so gilt die Prüfung als nicht begonnen. Die Genehmigung ist nur zu erteilen, wenn ein wichtiger Grund vorliegt. Bei Krankheit ist die Vorlage eines qualifizierten Attests zu verlangen.
 
 (3) Genehmigt die oder der Vorsitzende des Prüfungsausschusses den Rücktritt nicht oder teilt die zu prüfende Person den Grund für den Rücktritt nicht unverzüglich mit, so gilt die Prüfung oder der betreffende Teil der Prüfung als nicht bestanden. § 19 Absatz 3 und 4 gilt entsprechend.
 
@@ -382,7 +400,7 @@ Auf Antrag ist der zu prüfenden Person nach Abschluss der Prüfung Einsicht in 
 
 (3) Der schriftliche Teil der Prüfung erstreckt sich bei Ausbildungen nach § 14 des Pflegeberufegesetzes zusätzlich zu den Prüfungsbereichen nach § 14 Absatz 1 auf die erweiterten Kompetenzen zur Ausübung von heilkundlichen Tätigkeiten, die entsprechend den nach § 14 Absatz 2 des Pflegeberufegesetzes genehmigten Ausbildungsinhalten Gegenstand der zusätzlichen Ausbildung waren. Die zu prüfende Person hat hierzu in ihrer Aufsichtsarbeit schriftlich gestellte Fragen zu bearbeiten. Die Aufsichtsarbeit dauert 120 Minuten und ist an einem gesonderten Werktag durchzuführen. § 14 Absatz 3 Satz 3 gilt entsprechend. Die Aufgaben für die Aufsichtsarbeit werden von der oder dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Pflegeschule ausgewählt, an der die Ausbildung stattgefunden hat. Die zuständige Behörde kann zentrale Prüfungsaufgaben vorgeben, die unter Beteiligung der Pflegeschulen erarbeitet werden.
 
-(4) Der mündliche Teil der Prüfung erstreckt sich bei Ausbildungen nach § 14 des Pflegeberufegesetzes zusätzlich zu den Kompetenzbereichen nach § 15 Absatz 1 auf die erweiterten Kompetenzen zur Ausübung von heilkundlichen Tätigkeiten, die entsprechend den nach § 14 Absatz 2 des Pflegeberufegesetzes genehmigten Ausbildungsinhalten Gegenstand der erweiterten Ausbildung waren. Die Prüfung der erweiterten Kompetenzen nach Satz 1 soll für die einzelne zu prüfende Person mindestens 15 Minuten und nicht länger als 30 Minuten dauern. Für die Prüfung sind ärztliche Fachprüferinnen oder Fachprüfer gemäß Absatz 1 vorzusehen.
+(4) Der mündliche Teil der Prüfung erstreckt sich bei Ausbildungen nach § 14 des Pflegeberufegesetzes zusätzlich zu den Kompetenzbereichen nach § 15 Absatz 1 auf die erweiterten Kompetenzen zur Ausübung von heilkundlichen Tätigkeiten, die entsprechend den nach § 14 Absatz 2 des Pflegeberufegesetzes genehmigten Ausbildungsinhalten Gegenstand der erweiterten Ausbildung waren. Die Prüfung der erweiterten Kompetenzen nach Satz 1 soll für die einzelne zu prüfende Person mindestens 15 Minuten und nicht länger als 30 Minuten dauern. Für die Prüfung sind zwei Fachprüferinnen oder Fachprüfer vorzusehen, von denen es sich bei einer Person um eine ärztliche Fachprüferin oder einen ärztlichen Fachprüfer gemäß Absatz 1 handelt.
 
 (5) Der praktische Teil der Prüfung erstreckt sich bei Ausbildungen nach § 14 des Pflegeberufegesetzes zusätzlich zu § 16 Absatz 1 und 2 auf eine Aufgabe zur Ausübung heilkundlicher Tätigkeiten bei Patientinnen oder Patienten, die entsprechend den nach § 14 Absatz 2 des Pflegeberufegesetzes genehmigten Ausbildungsinhalten Gegenstand der erweiterten Ausbildung waren. Die zu prüfende Person übernimmt dabei alle Aufgaben, die Gegenstand der Behandlung sind, einschließlich der Dokumentation. In einem Prüfungsgespräch hat die zu prüfende Person ihre Diagnose- und Behandlungsmaßnahmen zu erläutern und zu begründen sowie die Prüfungssituation zu reflektieren. Dabei hat sie nachzuweisen, dass sie in der Lage ist, die während der Ausbildung erworbenen erweiterten Kompetenzen in der beruflichen Praxis anzuwenden, und dass sie befähigt ist, die Aufgaben, die Gegenstand ihrer erweiterten Ausbildung waren, eigenverantwortlich zu lösen. Die Auswahl der Patientinnen oder Patienten erfolgt durch eine ärztliche Fachprüferin oder einen ärztlichen Fachprüfer gemäß Absatz 1 unter Einwilligung der Patientin oder des Patienten. Die Prüfung soll für die einzelne zu prüfende Person in der Regel nicht länger als 180 Minuten dauern. Die Prüfung wird von zwei Fachprüferinnen oder Fachprüfern nach § 10 Absatz 1 Satz 2 Nummer 4 abgenommen und benotet.
 
@@ -466,6 +484,8 @@ Den Schwerpunkt des mündlichen Teils der Prüfung bilden die Auseinandersetzung
 
 (3) Die hochschulische Pflegeausbildung erfolgt im Wechsel von Lehrveranstaltungen und Praxiseinsätzen. Die Koordination erfolgt durch die Hochschule.
 
+(3a) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können als pädagogische Hilfsmittel bei der Konzeption der theoretischen und praktischen Lehrveranstaltungen in einem angemessenen Umfang berücksichtigt werden.
+
 (4) Das modulare Curriculum wird auf der Grundlage der Ausbildungsziele nach § 37 des Pflegeberufegesetzes und der Vorgaben der Anlage 5 erstellt.
 
 (5) Stellt die Hochschule bei der zuständigen Behörde einen Antrag nach § 38 Absatz 3 Satz 4 des Pflegeberufegesetzes, legt sie in einem Konzept dar, dass das Ziel der Praxiseinsätze, insbesondere das Ziel, als Mitglied eines Pflegeteams in unmittelbarem Kontakt mit zu pflegenden Menschen zu lernen, nicht gefährdet wird.
@@ -479,6 +499,8 @@ Den Schwerpunkt des mündlichen Teils der Prüfung bilden die Auseinandersetzung
 (2) Die Hochschule stellt für die Zeit der Praxiseinsätze die Praxisbegleitung der Studierenden in angemessenem Umfang sicher. Sie regelt über Kooperationsverträge mit den Einrichtungen der Praxiseinsätze die Durchführung der Praxisbegleitung in den Einrichtungen und die Zusammenarbeit mit den Praxisanleiterinnen und Praxisanleitern.
 
 (3) Den Studierenden dürfen im Rahmen der Praxiseinsätze nur Aufgaben übertragen werden, die dem Ausbildungszweck und dem Ausbildungsstand entsprechen; die übertragenen Aufgaben sollen den physischen und psychischen Kräften der Studierenden angemessen sein.
+
+(4) § 3 Absatz 6 gilt entsprechend.
 
 # § 32 – Modulprüfungen und staatliche Prüfung zur Erlangung der Berufszulassung
 
@@ -502,7 +524,7 @@ Den Schwerpunkt des mündlichen Teils der Prüfung bilden die Auseinandersetzung
 
 4. mindestens einer Prüferin oder einem Prüfer, die oder der für die Abnahme des praktischen Prüfungsteils geeignet ist.
 
-Die Prüferinnen oder Prüfer nach Satz 2 Nummer 3 oder 4 müssen über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1, § 58 Absatz 1 oder Absatz 2 oder § 64 des Pflegeberufegesetzes verfügen. Für Prüferinnen oder Prüfer nach Satz 2 Nummer 3 können die Länder bis zum Jahr 2029 Ausnahmen vom Erfordernis nach Satz 3 genehmigen.
+Die Prüferinnen oder Prüfer nach Satz 2 Nummer 3 oder 4 müssen über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1, § 58 Absatz 1 oder Absatz 2 oder § 64 des Pflegeberufegesetzes verfügen. Für Prüferinnen oder Prüfer nach Satz 2 Nummer 3 können die Länder bis zum Jahr 2029 Ausnahmen vom Erfordernis nach Satz 3 genehmigen.
 
 (2) Die zuständige Behörde bestellt das Mitglied nach Absatz 1 Satz 2 Nummer 1 sowie dessen Stellvertreterin oder Stellvertreter. Die Hochschule bestimmt das Mitglied nach Absatz 1 Satz 2 Nummer 2 sowie dessen Stellvertreterin oder Stellvertreter.
 
@@ -510,7 +532,7 @@ Die Prüferinnen oder Prüfer nach Satz 2 Nummer 3 oder 4 müssen über eine Erl
 
 (4) Die Vorsitzenden des Prüfungsausschusses bestimmen gemeinsam auf Vorschlag der Hochschule die Prüferinnen oder Prüfer für die einzelnen Prüfungsteile sowie deren Stellvertreterinnen und Stellvertreter.
 
-(5) Die Vorsitzenden des Prüfungsausschusses sind verpflichtet, an den jeweiligen Teilen der Prüfung in dem Umfang teilzunehmen, der zur Erfüllung der in dieser Verordnung geregelten Aufgaben erforderlich ist; eine Verpflichtung zur Anwesenheit während der gesamten Dauer der Prüfung besteht nicht.
+(5) Die Vorsitzenden sind jeweils berechtigt, an allen Teilen der Prüfung teilzunehmen; ihnen steht kein Fragerecht zu. Eine Verpflichtung zur Anwesenheit besteht nicht.
 
 (6) Bei Kooperation mit einer Pflegeschule nach § 67 des Pflegeberufegesetzes können die Vorsitzenden auch Vertreterinnen oder Vertreter der Pflegeschule in den Prüfungsausschuss berufen.
 
@@ -554,11 +576,11 @@ In allen drei Aufsichtsarbeiten werden die Reflexion und Begründung des eigenen
 
 (5) Die Aufgaben für die Aufsichtsarbeiten werden auf Vorschlag der Hochschule durch die Vorsitzenden des Prüfungsausschusses bestimmt.
 
-(6) Jede Aufsichtsarbeit ist von mindestens zwei Prüferinnen oder Prüfern zu benoten. Aus den Noten der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den jeweiligen Prüferinnen oder Prüfern die Note der einzelnen Aufsichtsarbeiten.
+(6) Jede Aufsichtsarbeit ist von zwei Prüferinnen oder Prüfern zu benoten. Aus den Noten der Prüferinnen oder Prüfer für jede Aufsichtsarbeit bilden die Vorsitzenden des Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel. Aus den Noten der drei Aufsichtsarbeiten bilden die Vorsitzenden des Prüfungsausschusses die Prüfungsnote für den schriftlichen Teil der staatlichen Prüfung als das arithmetische Mittel. Die Berechnung der Noten nach den Sätzen 2 und 3 erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 17 zuzuordnen.
 
 (7) Der schriftliche Teil der staatlichen Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit „ausreichend“ benotet wird.
 
-(8) Die Gesamtnote für den schriftlichen Teil der staatlichen Prüfung ermitteln die Vorsitzenden des Prüfungsausschusses aus den drei Noten der Aufsichtsarbeiten. Soweit die Module im Curriculum hinsichtlich des Arbeitsaufwandes unterschiedlich gewichtet sind, ist dies bei der Ermittlung der Gesamtnote des schriftlichen Prüfungsteils zu berücksichtigen.
+(8) Soweit die Module im Curriculum hinsichtlich des Arbeitsaufwandes unterschiedlich gewichtet sind, ist dies abweichend von Absatz 6 im Hinblick auf die Bildung des arithmetischen Mittels bei der Ermittlung der Prüfungsnote für den schriftlichen Teil der staatlichen Prüfung nach Absatz 6 zu berücksichtigen.
 
 # § 36 – Mündlicher Teil der Prüfung
 
@@ -576,9 +598,9 @@ In allen drei Aufsichtsarbeiten werden die Reflexion und Begründung des eigenen
 
 (4) Die zu prüfenden Personen werden einzeln oder zu zweit geprüft. Die Prüfung soll für jede zu prüfende Person mindestens 30 Minuten und nicht länger als 45 Minuten dauern. Eine angemessene Vorbereitungszeit unter Aufsicht ist zu gewähren.
 
-(5) Die Prüfung wird von mindestens zwei Prüferinnen oder Prüfern abgenommen und benotet. Die Vorsitzenden des Prüfungsausschusses sind berechtigt, sich an der Prüfung zu beteiligen und dabei selbst Prüfungsfragen zu stellen.
+(5) Die Prüfung wird von zwei Prüferinnen oder Prüfern abgenommen und benotet.
 
-(6) Aus den Noten der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern die Note für die in der Prüfung erbrachte Leistung.
+(6) Aus den Noten der Prüferinnen oder Prüfer für die in einem Modul erbrachte Leistung bilden die Vorsitzenden des Prüfungsausschusses die Prüfungsnote für den mündlichen Teil der staatlichen Prüfung als das arithmetische Mittel. Sofern mehrere Module für den mündlichen Teil der Prüfung festgelegt wurden, bilden die Vorsitzenden des Prüfungsausschusses aus den einzelnen Noten der Module die Prüfungsnote für den mündlichen Teil der staatlichen Prüfung als das arithmetische Mittel. Die Berechnung der Prüfungsnote erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 17 zuzuordnen.
 
 (7) Der mündliche Teil der Prüfung ist bestanden, wenn die Prüfungsleistung mindestens mit „ausreichend“ benotet wird.
 
@@ -594,9 +616,9 @@ In allen drei Aufsichtsarbeiten werden die Reflexion und Begründung des eigenen
 
 (5) Die Prüfung besteht aus der vorab zu erstellenden schriftlichen oder elektronischen Ausarbeitung des Pflegeplans (Vorbereitungsteil), einer Fallvorstellung mit einer Dauer von maximal 20 Minuten, der Durchführung der geplanten und situativ erforderlichen Pflegemaßnahmen und einem Reflexionsgespräch mit einer Dauer von maximal 20 Minuten. Mit der schriftlichen oder elektronischen Ausarbeitung des Pflegeplans stellt die zu prüfende Person unter Beweis, dass sie in der Lage ist, das Pflegehandeln fall-, situations- und zielorientiert sowie wissenschaftsbasiert oder -orientiert zu strukturieren und zu begründen. Die Prüfung ohne den Vorbereitungsteil soll einschließlich des Reflexionsgesprächs die Dauer von 240 Minuten nicht überschreiten und kann durch eine organisatorische Pause von maximal einem Werktag unterbrochen werden. Für den Vorbereitungsteil ist eine angemessene Vorbereitungszeit unter Aufsicht zu gewähren.
 
-(6) Die Prüfung wird von mindestens einer Prüferin oder einem Prüfer nach § 33 Absatz 1 Satz 2 Nummer 3 und einer Prüferin oder einem Prüfer nach § 33 Absatz 1 Satz 2 Nummer 4 abgenommen und benotet. Die Vorsitzenden des Prüfungsausschusses sind berechtigt, sich an der Prüfung zu beteiligen und dabei selbst Prüfungsfragen zu stellen.
+(6) Die Prüfung wird von einer Prüferin oder einem Prüfer nach § 33 Absatz 1 Satz 2 Nummer 3 und einer Prüferin oder einem Prüfer nach § 33 Absatz 1 Satz 2 Nummer 4 abgenommen und benotet.
 
-(7) Aus den Noten der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern die Note für die in der Prüfung erbrachte Leistung.
+(7) Aus den Noten der Prüferinnen oder Prüfer für die in der Prüfung erbrachte Leistung bilden die Vorsitzenden des Prüfungsausschusses die Prüfungsnote für den praktischen Teil der staatlichen Prüfung als das arithmetische Mittel. Die Berechnung der Prüfungsnote erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 17 zuzuordnen.
 
 (8) Der praktische Teil der Prüfung ist bestanden, wenn die Prüfungsleistung mindestens mit „ausreichend“ benotet wird.
 
@@ -614,7 +636,7 @@ Die §§ 18, 20 bis 23 sind entsprechend anzuwenden.
 
 # § 40 – Erfolgreicher Abschluss der hochschulischen Pflegeausbildung, Zeugnis
 
-(1) Die hochschulische Pflegeausbildung ist erfolgreich abgeschlossen, wenn sowohl der hochschulische als auch der staatliche Prüfungsteil bestanden sind. Ist die hochschulische Pflegeausbildung nicht insgesamt erfolgreich abgeschlossen worden, ist eine Erlaubniserteilung nach § 1 Absatz 1 des Pflegeberufegesetzes ausgeschlossen.
+(1) Die hochschulische Pflegeausbildung ist erfolgreich abgeschlossen, wenn sowohl der hochschulische als auch der staatliche Prüfungsteil bestanden sind. Ist die hochschulische Pflegeausbildung nicht insgesamt erfolgreich abgeschlossen worden, ist eine Erlaubniserteilung nach § 1 des Pflegeberufegesetzes ausgeschlossen.
 
 (2) Das Zeugnis zur hochschulischen Pflegeausbildung stellt die Hochschule im Einvernehmen mit der zuständigen Behörde aus. Das Ergebnis der staatlichen Prüfung zur Berufszulassung wird im Zeugnis getrennt ausgewiesen und von der zuständigen Behörde unterzeichnet.
 
@@ -624,13 +646,13 @@ Die Prüfung bei Ausbildungen nach § 14 des Pflegeberufegesetzes, die im Rahmen
 
 # § 42 – Erlaubnisurkunde
 
-Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung der Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 Satz 1 des Pflegeberufegesetzes, nach § 1 Absatz 1 Satz 2 des Pflegeberufegesetzes, nach § 58 Absatz 1 des Pflegeberufegesetzes oder nach § 58 Absatz 2 des Pflegeberufegesetzes erfüllt, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 13 aus. Für die Ausbildung nach Teil 2 des Pflegeberufegesetzes enthält die Urkunde nach § 1 Absatz 2 des Pflegeberufegesetzes einen Hinweis auf den nach § 7 Absatz 4 Satz 1 des Pflegeberufegesetzes durchgeführten Vertiefungseinsatz nach dem Muster der Anlage 14.
+Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung der Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Satz 1 des Pflegeberufegesetzes, nach § 1 Satz 2 des Pflegeberufegesetzes, nach § 58 Absatz 1 des Pflegeberufegesetzes oder nach § 58 Absatz 2 des Pflegeberufegesetzes erfüllt, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 13 aus.
 
 # § 43 – Allgemeines Verfahren, Bescheide, Fristen
 
 (1) Eine Person, die außerhalb des Geltungsbereiches des Pflegeberufegesetzes eine Ausbildung absolviert hat, kann bei der zuständigen Behörde beantragen, dass ihr die Erlaubnis erteilt wird,
 
-1. die Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“ nach § 1 Absatz 1 des Pflegeberufegesetzes zu führen,
+1. die Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“ nach § 1 des Pflegeberufegesetzes zu führen,
 
 2. die Berufsbezeichnung „Gesundheits- und Kinderkrankenpflegerin“ oder „Gesundheits- und Kinderkrankenpfleger“ nach § 58 Absatz 1 des Pflegeberufegesetzes zu führen oder
 
@@ -650,11 +672,51 @@ Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung d
 
 4. eine Begründung, warum die antragstellende Person die wesentlichen Unterschiede nicht durch Kompetenzen hat ausgleichen können, die sie im Sinne des § 40 Absatz 2 Satz 2 des Pflegeberufegesetzes im Rahmen ihrer nachgewiesenen Berufspraxis oder durch lebenslanges Lernen erworben hat.
 
+Wenn die antragstellende Person über eine außerhalb des Geltungsbereichs dieses Gesetzes und außerhalb eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz erworbene abgeschlossene Ausbildung verfügt, kann die Behörde von Satz 2 Nummer 3 und 4 abweichen.
+
+# § 43a – Erforderliche Unterlagen
+
+(1) Personen, die die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 des Pflegeberufegesetzes auf Grund einer außerhalb des Geltungsbereichs des Pflegeberufegesetzes erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
+
+1. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeit in deutscher Sprache,
+
+2. einen Identitätsnachweis,
+
+3. eine Bescheinigung über die erworbene Berufsqualifikation und die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation belegen,
+
+4. sofern vorhanden, eine Bescheinigung über die erworbene Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die durch lebenslanges Lernen erworben worden sind,
+
+5. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
+
+6. sofern vorhanden, einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
+
+Für den Fall, dass die außerhalb des Geltungsbereichs des Pflegeberufegesetzes erworbene Berufsqualifikation der automatischen Anerkennung unterliegt, sind die in § 41 Absatz 1 des Pflegeberufegesetzes genannten Nachweise und Bescheinigungen oder solche Nachweise vorzulegen, die geeignet sind, die in § 41 Absatz 1 des Pflegeberufegesetzes genannten Voraussetzungen zu belegen.
+
+(2) Die Unterlagen nach Absatz 1 Satz 1 Nummer 2 bis 4 und Satz 2 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Satz 1 Nummer 3 und 4 und Satz 2 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
+
+(3) Die zuständige Behörde kann abweichend von Absatz 2 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
+
+(4) Die zuständige Behörde kann die antragstellende Person auffordern, innerhalb einer angemessenen Frist Informationen zum Inhalt und zur Dauer der im Ausland absolvierten Berufsbildung sowie zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur Bewertung der Voraussetzungen für die automatische Anerkennung einer Berufsqualifikation nach § 41 Absatz 1 des Pflegeberufegesetzes oder zur Bewertung der Voraussetzungen nach § 40 Absatz 2 und 3 des Pflegeberufegesetzes erforderlich ist. Soweit die Ausbildung in einem Mitgliedstaat der Europäischen Union, in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz absolviert wurde, kann sich die zuständige Behörde an die zuständige Stelle des Ausbildungsstaats wenden.
+
+(5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften oder weitere geeignete Unterlagen vorzulegen. Bei Unterlagen, die in einem Mitgliedstaat der Europäischen Union, einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz ausgestellt oder anerkannt wurden, kann sich die zuständige Behörde im Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl an die zuständige Stelle des Ausbildungs- oder Anerkennungsstaats wenden als auch die antragstellende Person auffordern, beglaubigte Abschriften vorzulegen. Eine solche Aufforderung hemmt nicht den Fristlauf nach § 43 Absatz 3.
+
+(6) Die antragstellende Person hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind insbesondere
+
+1. der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
+
+2. ein Geschäftskonzept oder
+
+3. der Vermerk über eine Standortberatung der Zentralen Servicestelle Berufsanerkennung.
+
+Die zuständige Behörde darf nicht zwingend einen Vermerk über eine Standortberatung nach Satz 1 Nummer 3 fordern, wenn durch andere Unterlagen die Erwerbsabsicht dargelegt wurde. Für antragstellende Personen mit Wohnsitz in einem Mitgliedstaat der Europäischen Union, in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
+
 # § 44 – Inhalt und Durchführung des Anpassungslehrgangs nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes
 
-(1) Ziel des Anpassungslehrgangs nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes ist es, festzustellen, dass die Teilnehmerin oder der Teilnehmer über die Kompetenzen verfügt, die zur Ausübung des Berufs der Pflegefachfrau oder des Pflegefachmanns, des Berufs der Gesundheits- und Kinderkrankenpflegerin oder des Gesundheits- und Kinderkrankenpflegers oder des Berufs der Altenpflegerin oder des Altenpflegers erforderlich sind. Die zuständige Behörde legt die Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das Ziel des Anpassungslehrgangs erreicht werden kann.
+(1) Ziel des Anpassungslehrgangs nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes ist es, festzustellen, dass die Teilnehmerin oder der Teilnehmer über die Kompetenzen verfügt, die zur Ausübung des Berufs der Pflegefachfrau oder des Pflegefachmanns, des Berufs der Gesundheits- und Kinderkrankenpflegerin oder des Gesundheits- und Kinderkrankenpflegers oder des Berufs der Altenpflegerin oder des Altenpflegers erforderlich sind. Die zuständige Behörde legt die Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das Ziel des Anpassungslehrgangs erreicht werden kann. Hierbei können insbesondere die Angaben in Mustergutachten der Gutachtenstelle für Gesundheitsberufe berücksichtigt werden. Anpassungslehrgang und Abschlussgespräch können auch in modularisierter Form auf der Grundlage eines standardisierten Muster-Lehrplans durchgeführt werden.
 
-(2) Der Anpassungslehrgang wird entsprechend dem Ziel des Anpassungslehrgangs in Form von theoretischem und praktischem Unterricht, einer praktischen Ausbildung mit theoretischer Unterweisung oder beidem an Einrichtungen nach § 6 Absatz 2 oder Absatz 3 Satz 1 des Pflegeberufegesetzes oder an von der zuständigen Behörde als vergleichbar anerkannten Einrichtungen durchgeführt. An der theoretischen Unterweisung sollen Praxisanleiterinnen oder Praxisanleiter, die die Voraussetzungen nach § 4 Absatz 2 erfüllen, in angemessenem Umfang beteiligt werden.
+(1a) Die zuständige Behörde kann im Feststellungsbescheid hinsichtlich des zeitlichen Umfangs Rahmenvorgaben treffen. Der Anpassungslehrgang kann unter Berücksichtigung des im Feststellungsbescheid vorgegebenen Rahmens verkürzt oder verlängert werden. Das Erreichen des Ziels des Anpassungslehrgangs darf durch die Verkürzung oder Verlängerung nicht gefährdet werden. Die Verkürzung oder Verlängerung des Anpassungslehrgangs ist von der den Anpassungslehrgang anbietenden Einrichtung bei der zuständigen Behörde zu beantragen. Dem Antrag ist eine Begründung durch eine geeignete Person beizufügen. Geeignet sind insbesondere Fachprüferinnen oder Fachprüfer sowie Praxisanleiterinnen oder Praxisanleiter, die den Teilnehmer oder die Teilnehmerin während des Anpassungslehrgangs betreut haben. Die zuständige Behörde entscheidet über die beantragte Verkürzung oder Verlängerung innerhalb von zwei Wochen nach Eingang des vollständigen und begründeten Antrages; eine Verkürzung oder Verlängerung gilt als genehmigt, wenn die zuständige Behörde nicht innerhalb von zwei Wochen eine ablehnende Entscheidung trifft.
+
+(2) Der Anpassungslehrgang wird entsprechend dem Ziel des Anpassungslehrgangs in Form von theoretischem und praktischem Unterricht, einer praktischen Ausbildung mit theoretischer Unterweisung oder beidem an Einrichtungen nach § 6 Absatz 2 oder Absatz 3 Satz 1 des Pflegeberufegesetzes oder an von der zuständigen Behörde als vergleichbar anerkannten Einrichtungen durchgeführt. Bei der Wahl des konkreten Einsatzortes der praktischen Ausbildung ist entscheidend, dass dort Patientinnen und Patienten mit entsprechendem Versorgungsbedarf versorgt werden. An der theoretischen Unterweisung sollen Praxisanleiterinnen oder Praxisanleiter, die die Voraussetzungen nach § 4 Absatz 2 erfüllen, in angemessenem Umfang beteiligt werden.
 
 (3) Der Anpassungslehrgang nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes schließt mit einer Prüfung über die vermittelten Kompetenzen in Form eines Abschlussgespräches ab. Das erfolgreiche Bestehen der Prüfung ist durch eine Bescheinigung nach dem Muster der Anlage 9 nachzuweisen.
 
@@ -662,29 +724,81 @@ Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung d
 
 # § 45 – Inhalt und Durchführung der Kenntnisprüfung nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes
 
-(1) In der Kenntnisprüfung hat die zu prüfende Person nachzuweisen, dass sie über die Kompetenzen verfügt, die zur Ausübung des Berufs der Pflegefachfrau oder des Pflegefachmanns, des Berufs der Gesundheits- und Kinderkrankenpflegerin oder des Gesundheits- und Kinderkrankenpflegers oder des Berufs der Altenpflegerin oder des Altenpflegers erforderlich sind. Die Kenntnisprüfung umfasst einen mündlichen und einen praktischen Teil. Sie ist erfolgreich abgeschlossen, wenn die zu prüfende Person beide Prüfungsteile bestanden hat. Gegenstand der Kenntnisprüfung sind:
+(1) In der Kenntnisprüfung hat die zu prüfende Person nachzuweisen, dass sie über die Kompetenzen verfügt, die zur Ausübung des Berufs der Pflegefachfrau oder des Pflegefachmanns, des Berufs der Gesundheits- und Kinderkrankenpflegerin oder des Gesundheits- und Kinderkrankenpflegers oder des Berufs der Altenpflegerin oder des Altenpflegers erforderlich sind. Die Kenntnisprüfung umfasst einen mündlichen und einen praktischen Teil. Sie ist erfolgreich abgeschlossen, wenn die zu prüfende Person beide Prüfungsteile bestanden hat. Die Länder können für mehrere zu prüfende Personen einheitliche Kenntnisprüfungen durchführen. Gegenstand der Kenntnisprüfung sind:
 
-1. bei Personen, die eine Erlaubnis nach § 1 Absatz 1 des Pflegeberufegesetzes beantragen, die Kompetenzbereiche I bis V der Anlage 2,
+1. bei Personen, die eine Erlaubnis nach § 1 des Pflegeberufegesetzes beantragen, die Kompetenzbereiche I bis V der Anlage 2,
 
 2. bei Personen, die eine Erlaubnis nach § 58 Absatz 1 des Pflegeberufegesetzes beantragen, die Kompetenzbereiche I bis V der Anlage 3,
 
 3. bei Personen, die eine Erlaubnis nach § 58 Absatz 2 des Pflegeberufegesetzes beantragen, die Kompetenzbereiche I bis V der Anlage 4.
 
-(2) Im mündlichen Teil der Prüfung ist eine komplexe Aufgabenstellung zu bearbeiten, die Anforderungen aus mindestens drei verschiedenen Kompetenzbereichen enthält. Die Prüfungsaufgabe besteht in der Bearbeitung einer Fallsituation aus einem anderen Versorgungskontext als dem der praktischen Prüfung und bezieht sich bei Personen, die eine Erlaubnis nach § 1 Absatz 1 des Pflegeberufegesetzes beantragen, auf eine andere Altersstufe der zu pflegenden Menschen.
+(2) Im mündlichen Teil der Prüfung ist eine komplexe Aufgabenstellung zu bearbeiten, die Anforderungen aus mindestens drei verschiedenen Kompetenzbereichen enthält. Die Prüfungsaufgabe besteht in der Bearbeitung einer Fallsituation aus einem anderen Versorgungskontext als dem der praktischen Prüfung und bezieht sich bei Personen, die eine Erlaubnis nach § 1 des Pflegeberufegesetzes beantragen, auf eine andere Altersstufe der zu pflegenden Menschen.
 
 (3) Der mündliche Teil der Prüfung soll mindestens 45 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüferinnen oder Fachprüfern, von denen eine Person die Voraussetzungen des § 10 Absatz 1 Nummer 3 erfüllen muss, abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer in einer Gesamtbetrachtung die mit der Aufgabenstellung geforderten Kompetenzen aus den Kompetenzbereichen I bis V übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen oder Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet die oder der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen oder Fachprüfern über das Bestehen.
 
 (4) Im praktischen Teil der Kenntnisprüfung hat die zu prüfende Person in mindestens zwei und höchstens vier Pflegesituationen nachzuweisen, dass sie die vorbehaltenen Tätigkeiten wahrnehmen und damit die erforderlichen Pflegeprozesse und die Pflegediagnostik verantwortlich planen, organisieren, gestalten, durchführen, steuern und evaluieren kann. Im Rahmen der pflegerischen Versorgung hat eine situationsangemessene Kommunikation mit den zu pflegenden Menschen, ihren Bezugspersonen und den beruflich in die Versorgung eingebundenen Personen deutlich zu werden. Die zuständige Behörde legt einen Einsatzbereich, der im Sinne der Anlage 7 als Pflichteinsatz aufgeführt ist, sowie die Zahl der Pflegesituationen fest.
 
-(5) Der praktische Teil der Prüfung soll für jede Pflegesituation nicht länger als 120 Minuten dauern und als Patientenprüfung ausgestaltet sein. Sie wird von einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Nummer 3 und einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Nummer 4 abgenommen und bewertet. Während der Prüfung sind den Fachprüferinnen und Fachprüfern Nachfragen gestattet, die sich auf das praktische Vorgehen und insbesondere auf die vorbehaltenen Tätigkeiten im Rahmen des Pflegeprozesses beziehen.
+(5) Der praktische Teil der Prüfung soll für jede Pflegesituation nicht länger als 120 Minuten dauern und als Patientenprüfung ausgestaltet sein; sie kann nach vorheriger Zustimmung der zuständigen Behörde als Simulationsprüfung ausgestaltet sein. Sie wird von einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Satz 2 Nummer 3 und einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Satz 2 Nummer 4 abgenommen und bewertet. Während der Prüfung sind den Fachprüferinnen und Fachprüfern Nachfragen gestattet, die sich auf das praktische Vorgehen und insbesondere auf die vorbehaltenen Tätigkeiten im Rahmen des Pflegeprozesses beziehen.
 
-(6) Der praktische Teil der Prüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer jede Pflegesituation übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der oder die Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen und Fachprüfern über das Bestehen.
+(6) Bewertet wird die Leistung entweder mit „bestanden“ oder mit „nicht bestanden“. Mit „bestanden“ wird sie bewertet, wenn sie den Anforderungen genügt, also mindestens der Note „ausreichend (4)“ entspricht. Der praktische Teil der Kenntnisprüfung ist bestanden, wenn alle Fachprüferinnen und Fachprüfer die in jeder Pflegesituation erbrachte Leistung mit „bestanden“ bewerten.
 
 (7) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten werden und darf im mündlichen Teil sowie in jeder Pflegesituation des praktischen Teils, die nicht bestanden wurde, einmal wiederholt werden.
 
-(8) Die Kenntnisprüfung findet in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 9 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass antragstellende Personen die Prüfung innerhalb von sechs Monaten nach der Entscheidung nach § 43 Absatz 4 ablegen können. Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§ 18, 20 bis 23 für die Durchführung der Kenntnisprüfung entsprechend.
+(8) Die Kenntnisprüfung findet in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission an Einrichtungen nach § 6 Absatz 2 oder Absatz 3 Satz 1 des Pflegeberufegesetzes oder an von der zuständigen Behörde als vergleichbar anerkannten Einrichtungen statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 9 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass antragstellende Personen die Prüfung innerhalb von sechs Monaten nach der Entscheidung nach § 43 Absatz 4 ablegen können. Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§ 18, 20 bis 23 für die Durchführung der Kenntnisprüfung entsprechend.
 
 (9) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 10 erteilt.
+
+# § 45a – Inhalt und Durchführung der Kenntnisprüfung nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes als anwendungsorientierte Parcoursprüfung
+
+(1) Die Kenntnisprüfung kann abweichend von § 45 als anwendungsorientierte Parcoursprüfung durchgeführt werden. In der Kenntnisprüfung als anwendungsorientierte Parcoursprüfung hat die zu prüfende Person nachzuweisen, dass sie über die Kompetenzen verfügt, die zur Ausübung des Berufs der Pflegefachfrau oder des Pflegefachmanns, des Berufs der Gesundheits- und Kinderkrankenpflegerin oder des Gesundheits- und Kinderkrankenpflegers oder des Berufs der Altenpflegerin oder des Altenpflegers erforderlich sind.
+
+(2) Der Parcours der Kenntnisprüfung als anwendungsorientierte Parcoursprüfung besteht aus fünf Stationen. Gegenstand der Stationen der Kenntnisprüfung als anwendungsorientierte Parcoursprüfung sind:
+
+1. bei Personen, die eine Erlaubnis nach § 1 des Pflegeberufegesetzes beantragen, die Kompetenzbereiche I bis V der Anlage 2,
+
+2. bei Personen, die eine Erlaubnis nach § 58 Absatz 1 des Pflegeberufegesetzes beantragen, die Kompetenzbereiche I bis V der Anlage 3,
+
+3. bei Personen, die eine Erlaubnis nach § 58 Absatz 2 des Pflegeberufegesetzes beantragen, die Kompetenzbereiche I bis V der Anlage 4.
+
+Jede zu prüfende Person muss die Stationen des Parcours in der Abfolge durchlaufen, die für sie oder ihn gemäß Absatz 7 festgelegt ist.
+
+(3) Für jede Prüfungsaufgabe ist vorzulegen:
+
+1. eine Beschreibung der Patientensituation,
+
+2. Angaben zu zugelassenen Hilfsmitteln,
+
+3. Instruktionen für die Fachprüferinnen oder die Fachprüfer,
+
+4. sofern Simulationspatientinnen oder Simulationspatienten eingesetzt werden eine Rollenbeschreibung und
+
+5. ein strukturierter Bewertungsbogen.
+
+Der strukturierte Bewertungsbogen enthält:
+
+1. eine Musterlösung mit gewichteten Leistungsmerkmalen und eine Checkliste für jedes Leistungsmerkmal mit aufgabenspezifischen Einzelkriterien,
+
+2. die für jedes Leistungsmerkmal höchstmögliche Punktzahl und
+
+3. die Bestehensgrenze, die in Prozent der insgesamt an der Station erreichbaren Punktzahl anzugeben ist.
+
+(4) Die anwendungsorientierte Parcoursprüfung erfolgt als Simulationsprüfung. Die Fachprüferinnen oder Fachprüfer werden für die Kenntnisprüfung als anwendungsorientierter Parcoursprüfung geschult. Die Schulung erstreckt sich auf die Kenntnisse und Fertigkeiten, die für eine ordnungsgemäße Durchführung und Bewertung der Kenntnisprüfung als anwendungsorientierter Parcoursprüfung benötigt werden. An allen Stationen können Simulationspatientinnen oder Simulationspatienten eingesetzt werden. Die Sätze 2 und 3 gelten für Simulationspatientinnen oder Simulationspatienten entsprechend.
+
+(5) An jedem Parcours sollen fünf zu prüfende Personen teilnehmen. An jeder Station wird eine zu prüfende Person von einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Satz 2 Nummer 3 und einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Satz 2 Nummer 4 geprüft. Während der Prüfung sind den Fachprüferinnen und Fachprüfern Nachfragen gestattet, die sich auf das praktische Vorgehen und insbesondere auf die vorbehaltenen Tätigkeiten im Rahmen des Pflegeprozesses beziehen. An jeder Station beträgt die Prüfungszeit 30 Minuten. Die Zeit zum Wechsel von einer Station zur nächsten beträgt fünf Minuten. In den Ablauf des Parcours sind angemessene Pausenzeiten zu integrieren.
+
+(6) Die an jeder Station erbrachte Leistung wird von beiden Fachprüferinnen oder Fachprüfern der jeweiligen Station anhand des strukturierten Bewertungsbogens getrennt bewertet. Jede Fachprüferin oder jeder Fachprüfer vergibt für jedes Leistungsmerkmal Punkte innerhalb der vorgegebenen Spannen. Nach Abschluss der Kenntnisprüfung als anwendungsorientierte Parcoursprüfung übergibt jede Fachprüferin oder jeder Fachprüfer den von ihr oder ihm ausgefüllten strukturierten Bewertungsbogen an die oder den Vorsitzenden des Prüfungsausschusses. Die oder der Vorsitzende des Prüfungsausschusses errechnet die erreichte Punktzahl der zu prüfenden Person für die einzelnen Stationen. Die Punktzahl ist das arithmetische Mittel aus den von den beiden Fachprüferinnen oder Fachprüfern vergebenen Punkten. Die oder der Vorsitzende des Prüfungsausschusses stellt anhand der für jede einzelne Station errechneten Punktzahl fest, ob die zu prüfende Person die Kenntnisprüfung als anwendungsorientierte Parcoursprüfung bestanden hat. Die Kenntnisprüfung als anwendungsorientierte Parcoursprüfung ist bestanden, wenn die zu prüfende Person jede Station bestanden hat. Eine Station der Kenntnisprüfung als anwendungsorientierte Parcoursprüfung ist bestanden, wenn die Punktzahl, die die zu prüfende Person an dieser Station erreicht hat, mindestens so hoch ist, wie es nach der Bestehensgrenze für diese Station erforderlich ist. Die Kenntnisprüfung als anwendungsorientierte Parcoursprüfung kann einmal wiederholt werden. Bei der Wiederholung ist die Kenntnisprüfung als anwendungsorientierte Parcoursprüfung vollständig zu wiederholen.
+
+(7) Die oder der Vorsitzende des Prüfungsausschusses organisiert die Kenntnisprüfung als anwendungsorientierte Parcoursprüfung und legt für jede zu prüfende Person die Abfolge der Stationen fest. Sie oder er hat darauf zu achten, dass
+
+1. die festgelegte Abfolge der Stationen der anwendungsorientierten Parcoursprüfung eingehalten wird und
+
+2. an jeder Station der Kenntnisprüfung als anwendungsorientierte Parcoursprüfung nur die für diese Station eingeteilte zu prüfende Person anwesend ist.
+
+Die oder der Vorsitzende des Prüfungsausschusses ist während der Prüfung zuständig für die Aufrechterhaltung der Ordnung. Ihr oder ihm steht kein Fragerecht zu.
+
+(8) Die zuständigen Stellen der Länder können sich zur Erfüllung ihrer in den Absätzen 3 und 4 genannten Aufgaben nach Maßgabe einer Vereinbarung der Länder einer gemeinsamen Einrichtung bedienen.
+
+(9) § 45 Absatz 8 und 9 gilt entsprechend.
 
 # § 46 – Inhalt und Durchführung des Anpassungslehrgangs nach § 41 Absatz 2 Satz 4 oder Absatz 3 Satz 2 des Pflegeberufegesetzes
 
@@ -700,23 +814,23 @@ Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung d
 
 (2) Die Eignungsprüfung besteht aus einer praktischen Prüfung, die mit einem Prüfungsgespräch verbunden ist. Die zu prüfende Person hat in der praktischen Prüfung in mindestens zwei und höchstens vier Pflegesituationen nachzuweisen, dass sie die vorbehaltenen Tätigkeiten wahrnehmen und damit die erforderlichen Pflegeprozesse und die Pflegediagnostik verantwortlich planen, organisieren, gestalten, durchführen, steuern und evaluieren kann. Im Rahmen der pflegerischen Versorgung hat eine situationsangemessene Kommunikation mit den zu pflegenden Menschen, ihren Bezugspersonen und den beruflich in die Versorgung eingebundenen Personen deutlich zu werden. Die zuständige Behörde legt einen Einsatzbereich, der im Sinne der Anlage 7 als Pflichteinsatz aufgeführt ist, sowie die Zahl der Pflegesituationen fest. Gemäß den festgestellten Unterschieden sind in der praktischen Prüfung nachzuweisen:
 
-1. von Personen, die eine Erlaubnis nach § 1 Absatz 1 des Pflegeberufegesetzes beantragen, die Kompetenzen aus den Kompetenzbereichen I bis V der Anlage 2,
+1. von Personen, die eine Erlaubnis nach § 1 des Pflegeberufegesetzes beantragen, die Kompetenzen aus den Kompetenzbereichen I bis V der Anlage 2,
 
 2. von Personen, die eine Erlaubnis nach § 58 Absatz 1 des Pflegeberufegesetzes beantragen, die Kompetenzen aus den Kompetenzbereichen I bis V der Anlage 3,
 
 3. von Personen, die eine Erlaubnis nach § 58 Absatz 2 des Pflegeberufegesetzes beantragen, Kompetenzen aus den Kompetenzbereichen I bis V der Anlage 4.
 
-(3) Die Prüfung soll für jede Pflegesituation nicht länger als 120 Minuten dauern und als Patientenprüfung ausgestaltet sein. Sie wird von einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Nummer 3 und einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Nummer 4 abgenommen und bewertet. Während der Prüfung sind den Fachprüferinnen und Fachprüfern Nachfragen gestattet, die sich auf das praktische Vorgehen und insbesondere auf die vorbehaltenen Tätigkeiten im Rahmen des Pflegeprozesses beziehen.
+(3) Die Prüfung soll für jede Pflegesituation nicht länger als 120 Minuten dauern und als Patientenprüfung ausgestaltet sein; sie kann nach vorheriger Zustimmung der zuständigen Behörde als Simulationsprüfung ausgestaltet sein. Sie wird von einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Satz 2 Nummer 3 und einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Satz 2 Nummer 4 abgenommen und bewertet. Während der Prüfung sind den Fachprüferinnen und Fachprüfern Nachfragen gestattet, die sich auf das praktische Vorgehen und insbesondere auf die vorbehaltenen Tätigkeiten im Rahmen des Pflegeprozesses beziehen.
 
-(4) Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer jede Pflegesituation übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der oder die Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen und Fachprüfern über das Bestehen.
+(4) Bewertet wird die Leistung entweder mit „bestanden“ oder mit „nicht bestanden“. Mit „bestanden“ wird sie bewertet, wenn sie den Anforderungen genügt, also mindestens der Note „ausreichend (4)“ entspricht. Die Eignungsprüfung ist bestanden, wenn alle Fachprüferinnen und Fachprüfer die in jeder Pflegesituation erbrachte Leistung mit „bestanden“ bewerten.
 
 (5) Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden und darf in jeder Pflegesituation, die nicht bestanden wurde, einmal wiederholt werden. Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 12 erteilt.
 
-(6) Die Eignungsprüfung findet in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 9 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass antragstellende Personen die Prüfung innerhalb von sechs Monaten nach der Entscheidung nach § 43 Absatz 4 ablegen können. Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§ 18, 20 bis 23 für die Durchführung der Eignungsprüfung entsprechend.
+(6) Die Eignungsprüfung findet in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission an Einrichtungen nach § 6 Absatz 2 oder Absatz 3 Satz 1 des Pflegeberufegesetzes oder an von der zuständigen Behörde als vergleichbar anerkannten Einrichtungen statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 9 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass antragstellende Personen die Prüfung innerhalb von sechs Monaten nach der Entscheidung nach § 43 Absatz 4 ablegen können. Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§ 18, 20 bis 23 für die Durchführung der Eignungsprüfung entsprechend.
 
-# § 48 – Nachweis der Zuverlässigkeit und der gesundheitlichen Eignung durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 48 – Nachweis der Zuverlässigkeit und der gesundheitlichen Eignung durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
 
-(1) Eine Person, die über einen Ausbildungsnachweis aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum verfügt und eine Erlaubnis nach § 1 Absatz 1, § 58 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes beantragt, kann zum Nachweis, dass bei ihr die in § 2 Nummer 2 des Pflegeberufegesetzes genannte Voraussetzung vorliegt, eine von der zuständigen Behörde ihres Herkunftsmitgliedstaates ausgestellte entsprechende Bescheinigung oder einen von einer solchen Behörde ausgestellten Strafregisterauszug oder, wenn ein solcher nicht beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der Erlaubnis zuständige Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt, dass der antragstellenden Person die Ausübung des Berufs, der dem der Pflegefachfrau oder des Pflegefachmanns, der Gesundheits- und Kinderkrankenpflegerin oder des Gesundheits- und Kinderkrankenpflegers oder der Altenpflegerin oder des Altenpflegers entspricht, nicht auf Grund eines schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt worden ist.
+(1) Eine Person, die über einen Ausbildungsnachweis aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz verfügt und eine Erlaubnis nach § 1, § 58 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes beantragt, kann zum Nachweis, dass bei ihr die in § 2 Nummer 2 des Pflegeberufegesetzes genannte Voraussetzung vorliegt, eine von der zuständigen Behörde ihres Herkunftsmitgliedstaates ausgestellte entsprechende Bescheinigung oder einen von einer solchen Behörde ausgestellten Strafregisterauszug oder, wenn ein solcher nicht beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der Erlaubnis zuständige Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt, dass der antragstellenden Person die Ausübung des Berufs, der dem der Pflegefachfrau oder des Pflegefachmanns, der Gesundheits- und Kinderkrankenpflegerin oder des Gesundheits- und Kinderkrankenpflegers oder der Altenpflegerin oder des Altenpflegers entspricht, nicht auf Grund eines schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt worden ist.
 
 (2) Hat die für die Erteilung der Erlaubnis zuständige Behörde von Tatsachen Kenntnis, die außerhalb des Geltungsbereichs des Pflegeberufegesetzes eingetreten sind und im Hinblick auf die Voraussetzungen des § 2 Nummer 2 des Pflegeberufegesetzes von Bedeutung sein können, so hat sie die zuständige Stelle des Herkunftsmitgliedstaates zu unterrichten und sie zu bitten, diese Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen.
 
@@ -728,7 +842,7 @@ Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung d
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für Inhaberinnen und Inhaber von Drittstaatsdiplomen, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-# § 49 – Verfahren bei Erbringung von Dienstleistungen durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 49 – Verfahren bei Erbringung von Dienstleistungen durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
 
 (1) Die zuständige Behörde hat die Person, die beabsichtigt, eine Dienstleistung im Sinne des § 44 Absatz 1 oder 2 des Pflegeberufegesetzes zu erbringen, und dies erstmalig anzeigt, binnen eines Monats nach Eingang der Meldung und der Begleitdokumente über das Ergebnis ihrer Prüfung gemäß § 46 Absatz 3 des Pflegeberufegesetzes zu unterrichten. In der Unterrichtung teilt die Behörde der Person mit, ob sie der Person erlaubt, die Dienstleistung zu erbringen, oder von ihr verlangt, eine Eignungsprüfung nach § 47 abzulegen.
 
@@ -737,6 +851,80 @@ Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung d
 (3) Bleibt eine Reaktion der zuständigen Behörde in den in Absatz 1 Satz 1 und Absatz 2 Satz 1 und 3 genannten Fristen aus, so darf die Dienstleistung erbracht werden.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für Inhaberinnen und Inhaber von Drittstaatsdiplomen, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
+
+# § 49a – Frist der Behörde für die Bestätigung des Antragseingangs
+
+Beantragt eine Person eine Erlaubnis zur partiellen Berufsausübung nach § 48a des Pflegeberufegesetzes, so bestätigt die zuständige Behörde ihr innerhalb eines Monats nach Eingang des Antrags den Antragseingang und teilt ihr gegebenenfalls mit, welche Unterlagen fehlen, um die erforderlichen Voraussetzungen nachzuweisen.
+
+# § 49b – Erforderliche Unterlagen
+
+(1) Personen, die die Erlaubnis zur partiellen Berufsausübung nach § 48a Absatz 1 des Pflegeberufegesetzes auf Grund einer außerhalb des Geltungsbereichs des Pflegeberufegesetzes erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
+
+1. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
+
+2. einen Identitätsnachweis,
+
+3. eine Bescheinigung über eine Berufsqualifikation, aus der sich ergibt, dass die Berufsqualifikation erforderlich ist für die Ausübung einer beruflichen Tätigkeit in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz, die im Bereich einer der Berufe nach dem Pflegeberufegesetz liegt, sowie die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation belegen,
+
+4. sofern vorhanden, eine Bescheinigung über die erworbene Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die durch lebenslanges Lernen erworben worden sind,
+
+5. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
+
+6. einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
+
+(2) Die Unterlagen nach Absatz 1 Nummer 2 bis 4 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 und 4 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
+
+(3) Die zuständige Behörde kann abweichend von Absatz 2 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
+
+(4) Die zuständige Behörde kann die antragstellende Person auffordern, innerhalb einer angemessenen Frist Informationen zum Inhalt und zur Dauer der im Ausland absolvierten Berufsbildung sowie zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur Bewertung der Voraussetzungen nach § 48a Absatz 1 des Pflegeberufegesetzes erforderlich ist. Die zuständige Behörde kann sich an die zuständige Stelle des Ausbildungsstaats wenden.
+
+(5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften oder weitere geeignete Unterlagen vorzulegen. Die zuständige Behörde kann sich im Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl an die zuständige Stelle des Ausbildungs- oder Anerkennungsstaats wenden als auch die antragstellende Person auffordern, beglaubigte Abschriften vorzulegen. Eine solche Aufforderung hemmt nicht den Fristlauf nach § 49c.
+
+(6) Die antragstellende Person hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind insbesondere
+
+1. der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
+
+2. ein Geschäftskonzept oder
+
+3. der Vermerk über eine Standortberatung der Zentralen Servicestelle Berufsanerkennung.
+
+Die zuständige Behörde darf nicht zwingend einen Vermerk über eine Standortberatung nach Satz 1 Nummer 3 fordern, wenn durch andere Unterlagen die Erwerbsabsicht dargelegt wurde. Für antragstellende Personen mit Wohnsitz in einem Mitgliedstaat der Europäischen Union, in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
+
+(7) § 48 gilt entsprechend.
+
+# § 49c – Frist der Behörde für die Entscheidung über den Antrag
+
+Die zuständige Behörde entscheidet kurzfristig über den Antrag, spätestens jedoch drei Monate nach Vorlage der vollständigen Unterlagen durch die antragstellende Person.
+
+# § 49d – Erlaubnisurkunde
+
+Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach § 48a des Pflegeberufegesetzes ist das Muster nach Anlage 15 zu verwenden.
+
+# § 49e – Erforderliche Unterlagen
+
+(1) Personen, die eine Genehmigung nach § 48b Absatz 1 des Pflegeberufegesetzes auf Grund einer außerhalb des Geltungsbereichs des Pflegeberufegesetzes erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
+
+1. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
+
+2. einen Nachweis ihrer Identität sowie Staatsangehörigkeit,
+
+3. eine Bescheinigung, aus der sich ergibt, dass zum Zeitpunkt der Vorlage der Bescheinigung die antragstellende Person in einem Beruf, dessen Tätigkeit der Tätigkeit einem der Berufe nach dem Pflegeberufegesetz nur partiell entspricht, rechtmäßig in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz niedergelassen ist,
+
+4. eine Bescheinigung über eine Berufsqualifikation, aus der sich ergibt, dass die Berufsqualifikation erforderlich ist für die Ausübung dieses Berufs in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz sowie die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation belegen,
+
+5. sofern vorhanden, eine Bescheinigung über die erworbene Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die durch lebenslanges Lernen erworben worden sind,
+
+6. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
+
+7. einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
+
+(2) Im Fall von § 48b Absatz 1 Satz 2 Nummer 2 Buchstabe b des Pflegeberufegesetzes hat die antragstellende Person zusätzlich einen Nachweis in beliebiger Form darüber vorzulegen, dass dieser Beruf während der vorhergehenden zehn Jahre mindestens ein Jahr lang in einem oder mehreren Mitgliedstaaten der Europäischen Union, in einem oder mehreren Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz rechtmäßig ausgeübt worden ist.
+
+(3) Die Unterlagen nach Absatz 1 Nummer 2 bis 5 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 bis 5 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
+
+(4) Die zuständige Behörde kann abweichend von Absatz 3 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
+
+(5) § 49b Absatz 4, 5 Satz 1 und 2 und Absatz 7 gilt entsprechend.
 
 # § 50 – Aufgaben der Fachkommission
 
@@ -851,7 +1039,7 @@ Die Erstattung von Reisekosten für Mitglieder richtet sich nach den Richtlinien
 
 (3) Soweit das Bundesamt für Familie und zivilgesellschaftliche Aufgaben die Aufgabe übernimmt, unmittelbare Beratungs-, Informations- und Unterstützungsangebote nach den Absätzen 1 und 2 vor Ort zu gewährleisten, stimmen sich das Bundesamt für Familie und zivilgesellschaftliche Aufgaben und das Bundesinstitut für Berufsbildung bei der Wahrnehmung ihrer Aufgaben untereinander ab.
 
-(4) Das Bundesinstitut für Berufsbildung übernimmt zur Unterstützung der Arbeit der Fachkommission die Aufgabe der Forschung zur beruflichen Ausbildung und zur hochschulischen Ausbildung und zum Pflegeberuf. Es erstattet dem Bundesministerium für Familie, Senioren, Frauen und Jugend und dem Bundesministerium für Gesundheit hierzu einmal jährlich Bericht. Die Forschung wird auf der Grundlage eines in der Regel jährlichen Forschungsprogramms durchgeführt. Das Forschungsprogramm bedarf der Genehmigung des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums für Gesundheit.
+(4) Das Bundesinstitut für Berufsbildung übernimmt auch zur Unterstützung der Arbeit der Fachkommission die Aufgabe der Forschung zur beruflichen Ausbildung und zur hochschulischen Ausbildung und zum Pflegeberuf. Es erstattet dem Bundesministerium für Familie, Senioren, Frauen und Jugend und dem Bundesministerium für Gesundheit hierzu einmal jährlich Bericht. Die Forschung wird auf der Grundlage eines in der Regel jährlichen Forschungsprogramms durchgeführt. Das Forschungsprogramm bedarf der Genehmigung des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums für Gesundheit.
 
 (5) Das Bundesinstitut für Berufsbildung entwickelt unter Beteiligung der Fachkommission den Musterentwurf zum Ausbildungsnachweis für die praktische Ausbildung gemäß § 3 Absatz 5 Satz 1.
 
@@ -865,9 +1053,33 @@ Die Erstattung von Reisekosten für Mitglieder richtet sich nach den Richtlinien
 
 # § 61 – Übergangsvorschriften
 
-(1) Für Ausbildungen, die nach dem Krankenpflegegesetz vor Ablauf des 31. Dezember 2019 begonnen wurden, ist bis zum 31. Dezember 2024 die Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung anzuwenden.
+(1) Für Ausbildungen, die nach dem Krankenpflegegesetz vor Ablauf des 31. Dezember 2019 begonnen wurden, ist bis zum 31. Dezember 2024 die Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung nach Maßgabe der Absätze 1a bis 1f anzuwenden.
 
-(2) Für Ausbildungen, die nach dem Altenpflegegesetz vor Ablauf des 31. Dezember 2019 begonnen wurden, ist bis zum 31. Dezember 2024 die Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung anzuwenden.
+(1a) Hinsichtlich § 1 Absatz 2 der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung gilt, dass Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, als pädagogische Hilfsmittel bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden können. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Schülerinnen und Schülern gegenüber der Schule nachzuweisen. Das Nähere regeln die Länder.
+
+(1b) Im schriftlichen Teil der Prüfung nach den §§ 13 und 16 der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung ist, wenn die Prüfung nach dem 15. Dezember 2023 durchgeführt wird, jede Aufsichtsarbeit von zwei Fachprüferinnen oder Fachprüfern zu benoten. Aus den Noten der Fachprüferinnen oder Fachprüfer für jede Aufsichtsarbeitet bildet die oder der Vorsitzende des Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel. Aus den Noten der drei Aufsichtsarbeiten bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den schriftlichen Teil der Prüfung als das arithmetische Mittel. Die Berechnung der Noten nach den Sätzen 2 und 3 erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 7 der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung zuzuordnen.
+
+(1c) Im mündlichen Teil der Prüfung nach den §§ 14 und 17 der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung wird, wenn die Prüfung nach dem 15. Dezember 2023 durchgeführt wird, die Prüfung zu jedem Themenbereich von zwei Fachprüferinnen oder Fachprüfern abgenommen und benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer zu jedem Themenbereich bildet die oder der Vorsitzende des Prüfungsausschusses die Note für den jeweiligen Themenbereich als das arithmetische Mittel. Aus den einzelnen Noten der Themenbereiche bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den mündlichen Teil der Prüfung als das arithmetische Mittel. Die Berechnung nach den Sätzen 3 und 4 erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 7 der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung zuzuordnen.
+
+(1d) Der praktische Teil der Prüfung nach den §§ 15 und 18 der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung wird, wenn die Prüfung nach dem 15. Dezember 2023 durchgeführt wird, von einer Fachprüferin oder einem Fachprüfer nach § 4 Absatz 1 Satz 1 Nummer 3 Buchstabe a der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung und einer Fachprüferin oder einem Fachprüfer nach § 4 Absatz 1 Satz 1 Nummer 4 der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung abgenommen und benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer für die in der Prüfung erbrachte Leistung bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den praktischen Teil der Prüfung als das arithmetische Mittel. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 7 der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung zuzuordnen.
+
+(1e) Für die Eignungsprüfung nach § 20a Absatz 3 der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung, die nach dem 15. Dezember 2023 durchgeführt wird, gilt, dass die Leistung entweder mit „bestanden“ oder mit „nicht bestanden“ bewertet wird. Mit „bestanden“ wird sie bewertet, wenn sie den Anforderungen genügt, also mindestens der Note „ausreichend (4)“ entspricht. Die Eignungsprüfung ist bestanden, wenn alle Fachprüferinnen und Fachprüfer die in jeder Pflegesituation erbrachte Leistung mit „bestanden“ bewerten.
+
+(1f) Für den mündlichen und den praktischen Teil der Kenntnisprüfung nach § 20b Absatz 4 und 5 der Ausbildungs- und Prüfungsverordnung für die Berufe in der Krankenpflege in der am 31. Dezember 2019 geltenden Fassung, der nach dem 15. Dezember 2023 durchgeführt wird, gilt, dass die Leistung entweder mit „bestanden“ oder mit „nicht bestanden“ bewertet wird. Mit „bestanden“ wird sie bewertet, wenn sie den Anforderungen genügt, also mindestens der Note „ausreichend (4)“ entspricht. Der mündliche Teil der Kenntnisprüfung ist bestanden, wenn alle Fachprüferinnen und Fachprüfer die erbrachte Leistung mit „bestanden“ bewerten. Der praktische Teil der Kenntnisprüfung ist bestanden, wenn alle Fachprüferinnen und Fachprüfer die in jeder Pflegesituation erbrachte Leistung mit „bestanden“ bewerten.
+
+(2) Für Ausbildungen, die nach dem Altenpflegegesetz vor Ablauf des 31. Dezember 2019 begonnen wurden, ist bis zum 31. Dezember 2024 die Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung nach Maßgabe der Absätze 2a bis 2e anzuwenden.
+
+(2a) Hinsichtlich § 1 Absatz 1 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung gilt, dass Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, als pädagogische Hilfsmittel bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden können. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Schülerinnen und Schülern gegenüber der Schule nachzuweisen. Das Nähere regeln die Länder.
+
+(2b) Im schriftlichen Teil der Prüfung nach § 10 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung bildet die oder der Vorsitzende des Prüfungsausschusses, wenn die Prüfung nach dem 15. Dezember 2023 durchgeführt wird, die jeweiligen Noten für die einzelnen Aufsichtsarbeiten als das arithmetische Mittel der Noten der beiden Fachprüferinnen oder Fachprüfer für jede Aufsichtsarbeit. Die Note für den schriftlichen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses als das arithmetische Mittel der Noten nach Satz 1 und der Vornoten gemäß § 9 Absatz 1 und 2 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung. Die Berechnung der Noten nach den Sätzen 1 und 2 erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 4 der der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung zuzuordnen.
+
+(2c) Der mündliche Teil der Prüfung nach § 11 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung ist, wenn die Prüfung nach dem 15. Dezember 2023 durchgeführt wird, durch zwei Fachprüferinnen oder Fachprüfer abzunehmen und zu benoten. Das vorsitzende Mitglied des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note der einzelnen in der Prüfung erbrachten Leistungen zu § 11 Absatz 1 Nummer 1 bis 3 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung als das arithmetische Mittel. Die Note für den mündlichen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses als das arithmetische Mittel der Noten nach Satz 3 und der Vornoten gemäß § 9 Absatz 1 und 2 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung. Die Berechnung nach den Sätzen 3 und 4 erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 4 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung zuzuordnen.
+
+(2d) Der praktische Teil der Prüfung nach § 12 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung ist, wenn die Prüfung nach dem 15. Dezember 2023 durchgeführt wird, durch zwei Fachprüferinnen oder Fachprüfer abzunehmen und zu benoten. Das vorsitzende Mitglied des Prüfungsausschusses ist berechtigt, am praktischen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für die in der praktischen Prüfung erbrachte Leistung als das arithmetische Mittel. Die Note für den praktischen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses als das arithmetische Mittel aus der Note für die in der praktischen Prüfung erbrachte Leistung und den Vornoten gemäß § 9 Absatz 1 und 2 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung. Die Berechnung nach den Sätzen 3 und 4 erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 4 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung zuzuordnen.
+
+(2e) Beim praktischen Teil der Prüfung kann nach § 12 Absatz 4 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung eine Praxisanleiterin oder ein Praxisanleiter zur Abnahme der Prüfung, nicht jedoch zur Benotung, in beratender Funktion hinzugezogen werden, wenn die Prüfung nach dem 15. Dezember 2023 durchgeführt wird.
+
+(3) Sofern die staatlichen Prüfungen der beruflichen und der hochschulischen Pflegeausbildung nach Teil 1 Abschnitt 2, Teil 2 und Teil 3 sowie der Eignungs- und Kenntnisprüfungen nach Teil 4 Abschnitt 2 auf Grundlage dieser Verordnung in der am 15. Dezember 2023 geltenden Fassung begonnen wurden, können sie auf dieser Grundlage abgeschlossen werden.
 
 # § 62 – Inkrafttreten, Außerkrafttreten
 
@@ -905,7 +1117,9 @@ f) dokumentieren durchgeführte Pflegemaßnahmen und Beobachtungen in der Pflege
 
 g) integrieren in ihr Pflegehandeln lebensweltorientierte Angebote zur Auseinandersetzung mit und Bewältigung von Pflegebedürftigkeit und ihren Folgen,
 
-h) reflektieren den Einfluss der unterschiedlichen ambulanten und stationären Versorgungskontexte auf die Pflegeprozessgestaltung.
+h) reflektieren den Einfluss der unterschiedlichen ambulanten und stationären Versorgungskontexte auf die Pflegeprozessgestaltung,
+
+i) verfügen über ein grundlegendes Verständnis im Umgang mit digitalen Technologien und Softwareanwendungen und für die Funktionsweise von Endgeräten, um pflegerelevante Hard- und Software, insbesondere digitale Pflegedokumentations- und -assistenzsysteme, bedienen zu können.
 
 2. Pflegeprozesse und Pflegediagnostik bei Menschen aller Altersstufen mit gesundheitlichen Problemlagen planen, organisieren, gestalten, durchführen, steuern und evaluieren unter dem besonderen Fokus von Gesundheitsförderung und Prävention.
 
@@ -923,7 +1137,7 @@ e) nehmen Hinweiszeichen auf mögliche Gewaltausübung wahr und geben entspreche
 
 f) verfügen über ein grundlegendes Verständnis zu physischen, psychischen und psychosomatischen Zusammenhängen, die pflegerisches Handeln begründen,
 
-g) erschließen sich neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin.
+g) erschließen sich neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin unter Berücksichtigung auch von genderspezifischen Aspekten.
 
 3. Pflegeprozesse und Pflegediagnostik von Menschen aller Altersstufen in hoch belasteten und kritischen Lebenssituationen verantwortlich planen, organisieren, gestalten, durchführen, steuern und evaluieren.
 
@@ -969,7 +1183,7 @@ a) wahren das Selbstbestimmungsrecht des zu pflegenden Menschen, insbesondere au
 
 b) unterstützen verantwortlich Menschen mit angeborener oder erworbener Behinderung bei der Kompensation eingeschränkter Fähigkeiten,
 
-c) nutzen ihr grundlegendes Wissen über die langfristigen Alltagseinschränkungen, tragen durch rehabilitative Maßnahmen zum Erhalt und zur Wiedererlangung von Alltagskompetenz bei und integrieren hierzu auch technische Assistenzsysteme in das pflegerische Handeln,
+c) nutzen ihr grundlegendes Wissen über die langfristigen Alltagseinschränkungen, tragen durch rehabilitative Maßnahmen zum Erhalt und zur Wiedererlangung von Alltagskompetenz bei und integrieren hierzu auch technische und digitale Assistenzsysteme in das pflegerische Handeln,
 
 d) verfügen über grundlegendes Wissen zu familiären Systemen und sozialen Netzwerken und schätzen deren Bedeutung für eine gelingende Zusammenarbeit mit dem professionellen Pflegesystem ein,
 
@@ -1039,7 +1253,7 @@ a) beachten die Anforderungen der Hygiene und wenden Grundregeln der Infektionsp
 
 b) wirken entsprechend den rechtlichen Bestimmungen an der Durchführung ärztlich veranlasster Maßnahmen der medizinischen Diagnostik und Therapie im Rahmen des erarbeiteten Kenntnisstandes mit,
 
-c) beobachten und interpretieren die mit einem medizinischen Eingriff verbundenen Pflegephänomene und Komplikationen in stabilen Situationen,
+c) beobachten und interpretieren die mit einem medizinischen Eingriff verbundenen Pflegephänomene und Komplikationen in stabilen Situationen unter Berücksichtigung auch von gendermedizinischen Erkenntnissen,
 
 d) wirken entsprechend ihrem Kenntnisstand in der Unterstützung und Begleitung von Maßnahmen der Diagnostik und Therapie mit und übernehmen die Durchführung in stabilen Situationen,
 
@@ -1095,7 +1309,7 @@ a) verstehen und anerkennen die Bedeutung einer wissensbasierten Pflege und die 
 
 b) erschließen sich wissenschaftlich fundiertes Wissen zu ausgewählten Themen und wenden einige Kriterien zur Bewertung von Informationen an,
 
-c) begründen und reflektieren das Pflegehandeln kontinuierlich auf der Basis von ausgewählten zentralen pflege- und bezugswissenschaftlichen Theorien, Konzepten, Modellen und evidenzbasierten Studien.
+c) begründen und reflektieren das Pflegehandeln kontinuierlich auf der Basis von ausgewählten zentralen pflege- und bezugswissenschaftlichen Theorien, Konzepten, Modellen und evidenzbasierten Studien sowie gendermedizinischen Erkenntnissen.
 
 2. Verantwortung für die Entwicklung (lebenslanges Lernen) der eigenen Persönlichkeit sowie das berufliche Selbstverständnis übernehmen.
 
@@ -1141,7 +1355,9 @@ f) nutzen analoge und digitale Pflegedokumentationssysteme, um ihre Pflegeprozes
 
 g) entwickeln mit Menschen aller Altersstufen und ihren Bezugspersonen und dem sozialen Netz altersentsprechende lebensweltorientierte Angebote zur Auseinandersetzung mit und Bewältigung von Pflegebedürftigkeit und ihren Folgen,
 
-h) stimmen die Pflegeprozessgestaltung auf die unterschiedlichen ambulanten und stationären Versorgungskontexte ab.
+h) stimmen die Pflegeprozessgestaltung auf die unterschiedlichen ambulanten und stationären Versorgungskontexte ab,
+
+i) verfügen über ein grundlegendes Verständnis im Umgang mit digitalen Technologien und Softwareanwendungen und für die Funktionsweise von Endgeräten, um pflegerelevante Hard- und Software, insbesondere digitale Pflegedokumentations- und -assistenzsysteme, bedienen zu können.
 
 2. Pflegeprozesse und Pflegediagnostik bei Menschen aller Altersstufen mit gesundheitlichen Problemlagen planen, organisieren, gestalten, durchführen, steuern und evaluieren unter dem besonderen Fokus von Gesundheitsförderung und Prävention.
 
@@ -1157,7 +1373,7 @@ d) erkennen Hinweiszeichen auf eine mögliche Gewaltausübung in der Versorgung 
 
 e) verfügen über ein integratives Verständnis von physischen, psychischen und psychosomatischen Zusammenhängen in der Pflege von Menschen aller Altersstufen,
 
-f) erkennen Wissensdefizite und erschließen sich bei Bedarf selbständig neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin zu ausgewählten Aspekten in der Versorgung von Menschen aller Altersstufen.
+f) erkennen Wissensdefizite und erschließen sich bei Bedarf selbständig neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin zu ausgewählten Aspekten in der Versorgung von Menschen aller Altersstufen unter Berücksichtigung auch von genderspezifischen Aspekten.
 
 3. Pflegeprozesse und Pflegediagnostik von Menschen aller Altersstufen in hoch belasteten und kritischen Lebenssituationen verantwortlich planen, organisieren, gestalten, durchführen, steuern und evaluieren.
 
@@ -1205,7 +1421,7 @@ a) wahren das Selbstbestimmungsrecht der zu pflegenden Menschen aller Altersstuf
 
 b) unterstützen Menschen aller Altersstufen mit angeborener oder erworbener Behinderung bei der Wiederherstellung, Kompensation und Adaption eingeschränkter Fähigkeiten, um sie für eine möglichst selbständige Entwicklung, Lebensführung und gesellschaftliche Teilhabe zu befähigen,
 
-c) tragen durch rehabilitative Maßnahmen und durch die Integration technischer Assistenzsysteme zum Erhalt und zur Wiedererlangung der Alltagskompetenz von Menschen aller Altersstufen bei und reflektieren die Potenziale und Grenzen technischer Unterstützung,
+c) tragen durch rehabilitative Maßnahmen und durch die Integration technischer und digitaler Assistenzsysteme zum Erhalt und zur Wiedererlangung der Alltagskompetenz von Menschen aller Altersstufen bei und reflektieren die Potenziale und Grenzen technischer und digitaler Unterstützung,
 
 d) fördern und gestalten die Koordination und Zusammenarbeit zwischen familialen Systemen sowie den sozialen Netzwerken und den professionellen Pflegesystemen in der pflegerischen Versorgung von Menschen aller Altersstufen,
 
@@ -1279,7 +1495,7 @@ a) beachten umfassend die Anforderungen der Hygiene und wirken verantwortlich an
 
 b) führen entsprechend den rechtlichen Bestimmungen eigenständig ärztlich veranlasste Maßnahmen der medizinischen Diagnostik und Therapie bei Menschen aller Altersstufen durch,
 
-c) beobachten und interpretieren die mit einem medizinischen Eingriff bei Menschen aller Altersstufen verbundenen Pflegephänomene und Komplikationen auch in instabilen oder krisenhaften gesundheitlichen Situationen,
+c) beobachten und interpretieren die mit einem medizinischen Eingriff bei Menschen aller Altersstufen verbundenen Pflegephänomene und Komplikationen auch in instabilen oder krisenhaften gesundheitlichen Situationen unter Berücksichtigung auch von gendermedizinischen Erkenntnissen,
 
 d) unterstützen und begleiten zu pflegende Menschen aller Altersstufen umfassend auch bei invasiven Maßnahmen der Diagnostik und Therapie,
 
@@ -1341,7 +1557,7 @@ a) vertreten die Notwendigkeit, die Wissensgrundlagen des eigenen Handelns konti
 
 b) erschließen sich pflege- und bezugswissenschaftliche Forschungsergebnisse bezogen auf die Pflege von Menschen aller Altersstufen und bewerten sie hinsichtlich der Reichweite, des Nutzens, der Relevanz und des Umsetzungspotenzials,
 
-c) begründen und reflektieren das Pflegehandeln kontinuierlich auf der Basis von vielfältigen oder spezifischen pflegewissenschaftlichen und bezugswissenschaftlichen evidenzbasierten Studienergebnissen, Theorien, Konzepten und Modellen,
+c) begründen und reflektieren das Pflegehandeln kontinuierlich auf der Basis von vielfältigen oder spezifischen pflegewissenschaftlichen und bezugswissenschaftlichen evidenzbasierten Studienergebnissen, Theorien, Konzepten und Modellen sowie gendermedizinischen Erkenntnissen,
 
 d) leiten aus beruflichen Erfahrungen in der pflegerischen Versorgung und Unterstützung von Menschen aller Altersstufen und ihren Angehörigen mögliche Fragen an Pflegewissenschaft und -forschung ab.
 
@@ -1389,7 +1605,9 @@ f) nutzen analoge und digitale Pflegedokumentationssysteme, um ihre Pflegeprozes
 
 g) entwickeln mit Kindern und Jugendlichen, ihren Bezugspersonen und dem sozialen Netz altersentsprechende lebensweltorientierte Angebote zur Auseinandersetzung mit und Bewältigung von Pflegebedürftigkeit und ihren Folgen,
 
-h) stimmen die Pflegeprozessgestaltung auf spezifische ambulante und stationäre Versorgungskontexte für Kinder und Jugendliche ab.
+h) stimmen die Pflegeprozessgestaltung auf spezifische ambulante und stationäre Versorgungskontexte für Kinder und Jugendliche ab,
+
+i) verfügen über ein grundlegendes Verständnis im Umgang mit digitalen Technologien und Softwareanwendungen und für die Funktionsweise von Endgeräten, um pflegerelevante Hard- und Software, insbesondere digitale Pflegedokumentations- und -assistenzsysteme, bedienen zu können.
 
 2. Pflegeprozesse und Pflegediagnostik bei Kindern und Jugendlichen mit gesundheitlichen Problemlagen planen, organisieren, gestalten, durchführen, steuern und evaluieren unter dem besonderen Fokus von Gesundheitsförderung und Prävention.
 
@@ -1405,7 +1623,7 @@ d) erkennen Hinweiszeichen auf eine mögliche Gewaltausübung in der Versorgung 
 
 e) verfügen über ein integratives Verständnis von physischen, psychischen und psychosomatischen Zusammenhängen in der Pflege von Kindern und Jugendlichen,
 
-f) erkennen Wissensdefizite und erschließen sich bei Bedarf selbständig neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin, insbesondere zu pädiatrischen Fragestellungen.
+f) erkennen Wissensdefizite und erschließen sich bei Bedarf selbständig neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin, insbesondere zu pädiatrischen Fragestellungen unter Berücksichtigung auch von genderspezifischen Aspekten.
 
 3. Pflegeprozesse und Pflegediagnostik von Kindern und Jugendlichen in hoch belasteten und kritischen Lebenssituationen verantwortlich planen, organisieren, gestalten, durchführen, steuern und evaluieren.
 
@@ -1453,7 +1671,7 @@ a) wahren das Selbstbestimmungsrecht der zu pflegenden Kinder und Jugendlichen, 
 
 b) unterstützen Kinder und Jugendliche mit angeborener oder erworbener Behinderung bei der Wiederherstellung, Kompensation und Adaption eingeschränkter Fähigkeiten, um sie für eine möglichst selbständige Entwicklung, Lebensführung und gesellschaftliche Teilhabe zu befähigen,
 
-c) tragen durch rehabilitative Maßnahmen und durch die Integration technischer Assistenzsysteme zum Erhalt und zur Wiedererlangung von Alltagskompetenz von Kindern und Jugendlichen bei und reflektieren die Potenziale und Grenzen technischer Unterstützung,
+c) tragen durch rehabilitative Maßnahmen und durch die Integration technischer und digitaler Assistenzsysteme zum Erhalt und zur Wiedererlangung von Alltagskompetenz von Kindern und Jugendlichen bei und reflektieren die Potenziale und Grenzen technischer und digitaler Unterstützung,
 
 d) fördern und gestalten die Koordination und Zusammenarbeit zwischen familialen Systemen sowie den sozialen Netzwerken und den professionellen Pflegesystemen in der pflegerischen Versorgung von Kindern und Jugendlichen,
 
@@ -1527,7 +1745,7 @@ a) beachten umfassend die Anforderungen der Hygiene und wirken verantwortlich an
 
 b) führen entsprechend den rechtlichen Bestimmungen eigenständig ärztlich veranlasste Maßnahmen der medizinischen Diagnostik und Therapie bei Kindern und Jugendlichen durch,
 
-c) beobachten und interpretieren die mit einem medizinischen Eingriff bei Kindern und Jugendlichen verbundenen Pflegephänomene und Komplikationen auch in instabilen oder krisenhaften gesundheitlichen Situationen,
+c) beobachten und interpretieren die mit einem medizinischen Eingriff bei Kindern und Jugendlichen verbundenen Pflegephänomene und Komplikationen auch in instabilen oder krisenhaften gesundheitlichen Situationen unter Berücksichtigung auch von gendermedizinischen Erkenntnissen,
 
 d) unterstützen und begleiten zu pflegende Kinder und Jugendliche sowie deren Bezugspersonen umfassend auch bei invasiven Maßnahmen der Diagnostik und Therapie,
 
@@ -1589,7 +1807,7 @@ a) vertreten die Notwendigkeit, die Wissensgrundlagen des eigenen Handelns konti
 
 b) erschließen sich pflege- und bezugswissenschaftliche Forschungsergebnisse bezogen auf die Pflege von Kindern und Jugendlichen und bewerten sie hinsichtlich der Reichweite, des Nutzens, der Relevanz und des Umsetzungspotenzials,
 
-c) begründen und reflektieren das Pflegehandeln kontinuierlich auf der Basis von vielfältigen oder spezifischen pflegewissenschaftlichen und bezugswissenschaftlichen evidenzbasierten Studienergebnissen, Theorien, Konzepten und Modellen,
+c) begründen und reflektieren das Pflegehandeln kontinuierlich auf der Basis von vielfältigen oder spezifischen pflegewissenschaftlichen und bezugswissenschaftlichen evidenzbasierten Studienergebnissen, Theorien, Konzepten und Modellen sowie gendermedizinischen Erkenntnissen,
 
 d) leiten aus beruflichen Erfahrungen in der pflegerischen Versorgung und Unterstützung von Kindern, Jugendlichen und Familien mögliche Fragen an Pflegewissenschaft und -forschung ab.
 
@@ -1633,11 +1851,13 @@ d) schätzen diverse Pflegeanlässe und den Pflegebedarf bei alten Menschen auch
 
 e) handeln die Pflegeziele mit dem zu pflegenden alten Menschen und gegebenenfalls seinen Bezugspersonen aus, setzen gesicherte Pflegemaßnahmen ein und bewerten gemeinsam die Wirksamkeit der Pflege,
 
-f) nutzen Pflegedokumentationssysteme, um ihre Pflegeprozessentscheidungen in der Pflege von alten Menschen selbständig und im Pflegeteam zu bewerten,
+f) nutzen analoge und digitale Pflegedokumentationssysteme, um ihre Pflegeprozessentscheidungen in der Pflege von alten Menschen selbständig und im Pflegeteam zu bewerten,
 
 g) entwickeln mit alten Menschen, ihren Bezugspersonen und dem sozialen Netz altersentsprechende lebensweltorientierte Angebote zur Auseinandersetzung mit und Bewältigung von Pflegebedürftigkeit und ihren Folgen,
 
-h) stimmen die Pflegeprozessgestaltung auf spezifische ambulante und stationäre Versorgungskontexte für alte Menschen ab.
+h) stimmen die Pflegeprozessgestaltung auf spezifische ambulante und stationäre Versorgungskontexte für alte Menschen ab,
+
+i) verfügen über ein grundlegendes Verständnis im Umgang mit digitalen Technologien und Softwareanwendungen und für die Funktionsweise von Endgeräten, um pflegerelevante Hard- und Software, insbesondere digitale Pflegedokumentations- und -assistenzsysteme, bedienen zu können.
 
 2. Pflege bei alten Menschen mit gesundheitlichen Problemlagen planen, organisieren, gestalten, durchführen, steuern und bewerten unter dem besonderen Fokus von Gesundheitsförderung und Prävention.
 
@@ -1653,7 +1873,7 @@ d) erkennen Hinweiszeichen auf eine mögliche Gewaltausübung in der Versorgung 
 
 e) verfügen über ein integratives Verständnis von physischen, psychischen und psychosomatischen Zusammenhängen in der Pflege von alten Menschen,
 
-f) erkennen Wissensdefizite und erschließen sich bei Bedarf selbständig neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin, insbesondere zu geriatrischen Fragestellungen.
+f) erkennen Wissensdefizite und erschließen sich bei Bedarf selbständig neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin, insbesondere zu geriatrischen Fragestellungen unter Berücksichtigung auch von genderspezifischen Aspekten.
 
 3. Pflegebedarfe von alten Menschen erkennen und Pflege von alten Menschen in hoch belasteten und kritischen Lebenssituationen verantwortlich planen, organisieren, gestalten, durchführen, steuern und bewerten.
 
@@ -1695,7 +1915,7 @@ a) erheben soziale, familiale und biografische Informationen sowie Unterstützun
 
 b) entwickeln gemeinsam mit alten Menschen mögliche Angebote zur sozialen und kulturellen Teilhabe und unterstützen diese,
 
-c) berücksichtigen bei der Planung und Gestaltung von Alltagsaktivitäten die Bedürfnisse und Erwartungen, die kulturellen Kontexte sowie die sozialen Lagen und die Entwicklungsphase von alten Menschen,
+c) berücksichtigen bei der Planung und Gestaltung von Alltagsaktivitäten die diversen Bedürfnisse und Erwartungen, die kulturellen und religiösen Kontexte sowie die sozialen Lagen und die Entwicklungsphase von alten Menschen,
 
 d) beziehen freiwillig Engagierte zur Unterstützung und Bereicherung der Lebensgestaltung in die Versorgungsprozesse von alten Menschen ein.
 
@@ -1707,7 +1927,7 @@ a) wahren das Selbstbestimmungsrecht alter Menschen mit Pflegebedarf, insbesonde
 
 b) unterstützen alte Menschen mit angeborener oder erworbener Behinderung bei der Wiederherstellung, Kompensation und Adaption eingeschränkter Fähigkeiten, um sie für eine möglichst selbständige Entwicklung, Lebensführung und gesellschaftliche Teilhabe zu befähigen,
 
-c) tragen durch rehabilitative Maßnahmen bei alten Menschen zum Erhalt und zur Wiedererlangung von Alltagskompetenz bei,
+c) tragen durch die Integration technischer und digitaler Assistenzsysteme und durch rehabilitative Maßnahmen bei alten Menschen zum Erhalt und zur Wiedererlangung von Alltagskompetenz bei,
 
 d) fördern und gestalten die Zusammenarbeit zwischen familialen Systemen sowie den sozialen Netzwerken und den professionellen Pflegesystemen in der pflegerischen Versorgung von alten Menschen,
 
@@ -1779,7 +1999,7 @@ a) beachten umfassend die Anforderungen der Hygiene und wirken verantwortlich an
 
 b) führen entsprechend den rechtlichen Bestimmungen eigenständig ärztlich veranlasste Maßnahmen der medizinischen Diagnostik und Therapie bei alten Menschen durch,
 
-c) beobachten und interpretieren die mit regelmäßig vorkommenden medizinischen Eingriffen und Untersuchungen bei alten Menschen verbundenen Pflegephänomene und Komplikationen, auch in instabilen oder krisenhaften gesundheitlichen Situationen,
+c) beobachten und interpretieren die mit regelmäßig vorkommenden medizinischen Eingriffen und Untersuchungen bei alten Menschen verbundenen Pflegephänomene und Komplikationen, auch in instabilen oder krisenhaften gesundheitlichen Situationen unter Berücksichtigung auch von gendermedizinischen Erkenntnissen,
 
 d) unterstützen und begleiten zu pflegende alte Menschen umfassend auch bei invasiven Maßnahmen der Diagnostik und Therapie,
 
@@ -1795,7 +2015,7 @@ a) übernehmen Mitverantwortung in der interdisziplinären Versorgung und Behand
 
 b) bringen sowohl die Perspektive der Betroffenen als auch die pflegefachliche Sichtweise in die interprofessionelle Kommunikation ein,
 
-c) bearbeiten interprofessionelle Konflikte in einem gemeinsamen Aushandlungsprozess auf Augenhöhe,
+c) bearbeiten interprofessionelle Konflikte in einem gemeinsamen Aushandlungsprozess auf Augenhöhe und beteiligen sich an der Entwicklung und Umsetzung einrichtungsbezogener Konzepte zum Schutz vor Gewalt,
 
 d) koordinieren die Pflege von alten Menschen in verschiedenen Versorgungskontexten und organisieren Termine sowie berufsgruppenübergreifende Leistungen,
 
@@ -1823,7 +2043,7 @@ Die Absolventinnen und Absolventen
 
 a) üben den Beruf im Rahmen der gesetzlichen Vorgaben sowie unter Berücksichtigung ihrer ausbildungs- und berufsbezogenen Rechte und Pflichten eigenverantwortlich aus,
 
-b) kennen den Einfluss gesamtgesellschaftlicher Veränderungen, ökonomischer Anforderungen sowie epidemiologischer und demografischer Entwicklungen auf die Versorgungsstrukturen,
+b) kennen den Einfluss gesamtgesellschaftlicher Veränderungen, ökonomischer Anforderungen, technologischer sowie epidemiologischer und demografischer Entwicklungen auf die Versorgungsstrukturen,
 
 c) erkennen die Funktion der Gesetzgebung im Gesundheits- und Sozialbereich zur Sicherstellung des gesellschaftlichen Versorgungsauftrags in stationären, teilstationären und ambulanten Handlungsfeldern,
 
@@ -1841,13 +2061,13 @@ a) vertreten die Notwendigkeit, die Wissensgrundlagen des eigenen Handelns konti
 
 b) reflektieren die Bedeutung ihres Berufs im Kontext von gesellschaftlichen, soziodemografischen und ökonomischen Veränderungen,
 
-c) handeln auf der Grundlage pflege- und bezugswissenschaftlicher Erkenntnisse bezogen auf die Pflege von alten Menschen und reflektieren und bewerten ihr Pflegehandeln hinsichtlich möglicher Verbesserungen.
+c) handeln auf der Grundlage pflege- und bezugswissenschaftlicher Erkenntnisse sowie von gendermedizinischen Erkenntnissen bezogen auf die Pflege von alten Menschen und reflektieren und bewerten ihr Pflegehandeln hinsichtlich möglicher Verbesserungen.
 
 2. Verantwortung für die Entwicklung (lebenslanges Lernen) der eigenen Persönlichkeit sowie das berufliche Selbstverständnis übernehmen.
 
 Die Absolventinnen und Absolventen
 
-a) bewerten das lebenslange Lernen als ein Element der persönlichen und beruflichen Weiterentwicklung und übernehmen Eigeninitiative und Verantwortung für das eigene Lernen,
+a) bewerten das lebenslange Lernen als ein Element der persönlichen und beruflichen Weiterentwicklung und übernehmen Eigeninitiative und Verantwortung für das eigene Lernen und nutzen hierfür auch moderne Informations- und Kommunikationstechnologien,
 
 b) nehmen drohende Über- oder Unterforderungen frühzeitig wahr, erkennen die notwendigen Veränderungen am Arbeitsplatz und/oder des eigenen Kompetenzprofils und leiten daraus entsprechende Handlungsinitiativen ab,
 
@@ -1871,7 +2091,7 @@ I. Wissenschaftsbasierte Planung, Organisation, Gestaltung, Durchführung, Steue
 
 Die Absolventinnen und Absolventen
 
-1. erheben und beurteilen den individuellen Pflegebedarf, potentielle Risiken und Gesundheitsgefährdungen in komplexen und hochkomplexen akuten und dauerhaften Pflegesituationen und nutzen spezifische wissenschaftsorientierte Assessmentverfahren,
+1. erheben und beurteilen den individuellen Pflegebedarf, potentielle Risiken und Gesundheitsgefährdungen in komplexen und hochkomplexen akuten und dauerhaften Pflegesituationen und nutzen spezifische wissenschaftsorientierte Assessmentverfahren unter Berücksichtigung auch von gendermedizinischen Erkenntnissen,
 
 2. übernehmen Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflegeprozessen bei Menschen mit besonderen gesundheitlichen Problemlagen unter Berücksichtigung von wissenschaftlich fundierten Ansätzen der Gesundheitsförderung, Prävention und Kuration,
 
@@ -1883,7 +2103,9 @@ Die Absolventinnen und Absolventen
 
 6. unterstützen die zu pflegenden Menschen bei der Entwicklung von Alltagskompetenzen und bei der Lebensgestaltung unter Berücksichtigung eines vertieften pflege- und bezugswissenschaftlichen Wissens,
 
-7. analysieren, evaluieren und reflektieren Pflegeprozesse auf der Grundlage pflege- und bezugswissenschaftlicher Methoden, Theorien und Forschungsergebnisse.
+7. analysieren, evaluieren und reflektieren Pflegeprozesse auf der Grundlage pflege- und bezugswissenschaftlicher Methoden, Theorien und Forschungsergebnisse,
+
+8. verfügen über ein grundlegendes Verständnis im Umgang mit digitalen Technologien und Softwareanwendungen und für die Funktionsweise von Endgeräten, um pflegerelevante Hard- und Software, insbesondere digitale Pflegedokumentations- und -assistenzsysteme, bedienen zu können.
 
 II. Personen- und situationsorientierte Kommunikation und Beratung von zu pflegenden Menschen aller Altersstufen und ihren Bezugspersonen.
 
@@ -1903,7 +2125,7 @@ Die Absolventinnen und Absolventen
 
 1. konzipieren und gestalten die pflegerische Arbeitsorganisation in qualifikationsheterogenen Pflegeteams und in unterschiedlichen Versorgungssettings auf der Basis gesicherter Forschungsergebnisse,
 
-2. führen entsprechend den rechtlichen Bestimmungen ärztliche Anordnungen und Maßnahmen der Diagnostik, Therapie oder Rehabilitation eigenständig und unter Berücksichtigung vertieften forschungsbasierten Wissens durch,
+2. führen entsprechend den rechtlichen Bestimmungen ärztliche Anordnungen und Maßnahmen der Diagnostik, Therapie oder Rehabilitation eigenständig und unter Berücksichtigung vertieften forschungsbasierten Wissens sowie gendermedizinischer Erkenntnisse durch,
 
 3. analysieren wissenschaftlich begründet die derzeitigen pflegerischen/gesundheitlichen Versorgungsstrukturen, die Steuerung von Versorgungsprozessen und Formen von intra- und interprofessioneller Zusammenarbeit und reflektieren diese kritisch,
 
@@ -1923,7 +2145,7 @@ V. Reflexion und Begründung des eigenen Handelns auf der Grundlage von wissensc
 
 Die Absolventinnen und Absolventen
 
-1. erschließen und bewerten gesicherte Forschungsergebnisse und wählen diese für den eigenen Handlungsbereich aus,
+1. erschließen und bewerten gesicherte Forschungsergebnisse einschließlich gendermedizinischer Erkenntnisse und wählen diese für den eigenen Handlungsbereich aus,
 
 2. nutzen forschungsgestützte Problemlösungen und neue Technologien für die Gestaltung von Pflegeprozessen,
 
@@ -1964,7 +2186,7 @@ des Prüfungsausschusses
                    
 Bezeichnung der Einrichtung
 
-# Anlage 10 – (zu § 45 Absatz 9)
+# Anlage 10 – (zu § 45 Absatz 9, § 45a Absatz 9)
 
 (Fundstelle: BGBl. I 2018, 1617)
 
@@ -1990,12 +2212,81 @@ des Prüfungsausschusses
 
 „                    “
 
+# Anlage 12a – (zu § 49d)
+
+  
+  
+
+(Fundstelle: BGBl. 2023 I Nr. 359, S. 29)
+
+  
+  
+
+Urkunde über die Erlaubnis zur partiellen Berufsausübung
+
+  
+  
+
+Name, Vorname
+
+ 
+
+ 
+
+Geburtsdatum
+
+ 
+
+Geburtsort
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+erhält auf Grund des § 48a des Pflegeberufegesetzes mit Wirkung vom heutigen Tage die Erlaubnis zur partiellen Berufsausübung.
+
+Folgende vorbehaltene Tätigkeiten werden von der Erlaubnis zur partiellen Berufsausübung umfasst (abschließende Aufzählung):
+
+Die Ausübung des Berufs erfolgt unter der Berufsbezeichnung des Staates, in dem die Berufsqualifikation erworben wurde, sowie mit dem Hinweis auf den Namen dieses Staates und die oben genannte(n) vorbehaltene(n) Tätigkeit(en), wie folgt:
+
+Es wird auf die Pflicht hingewiesen, den Dienstleistungsempfängern eindeutig den Umfang der beruflichen Tätigkeit anzugeben (Artikel 4f Absatz 5 Satz 3 der Richtlinie 2005/36/EG).
+
+Ort, Datum
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Siegel)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Unterschrift oder qualifizierte elektronische Signatur)
+
 # Anlage 13 – (zu § 42 Satz 1)
 
 (Fundstelle: BGBl. I 2018, 1620)
 
-# Anlage 14 – (zu § 42 Satz 2)
-
-(Fundstelle: BGBl. I 2018, 1621)
-
-(Hinweis nach § 1 Absatz 2 des Pflegeberufegesetzes)
+# Anlage 14 – (weggefallen)
