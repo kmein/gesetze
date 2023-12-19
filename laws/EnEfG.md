@@ -191,7 +191,7 @@ b) bei der Berichterstattung gegenüber der Europäischen Kommission;
 
 (1) Unternehmen mit einem jährlichen durchschnittlichen Gesamtendenergieverbrauch innerhalb der letzten drei abgeschlossenen Kalenderjahre von mehr als 7,5 Gigawattstunden sind verpflichtet, ein Energie- oder Umweltmanagementsystem gemäß Absatz 2 Satz 1 oder Satz 2 einzurichten.
 
-(2) Unternehmen, die bis zum Ablauf des 17. November 2023 den Status eines Unternehmens nach Absatz 1 erlangt haben, müssen ein Energie- oder Umweltmanagementsystem bis zum Ablauf des 18. Juli 2025 eingerichtet haben. Unternehmen, die ab dem 18. November 2023 den Status eines Unternehmens nach Absatz 1 erlangen, müssen ein Energie- oder Umweltmanagementsystem spätestens 20 Monate nach dem Zeitpunkt, zu dem sie diesen Status erlangt haben, eingerichtet haben. Unternehmen im Sinne von Satz 1 und 2 sind bis zum Nachweis der Einrichtung eines Energie- oder Umweltmanagementsytems von der Verpflichtung zur Durchführung von Energieaudits nach § 8 Absatz 1 des Gesetzes über Energiedienstleistungen und andere Effizienzmaßnahmen befreit, längstens jedoch bis zum Ablauf der in Satz 1 oder 2 genannten Fristen.
+(2) Unternehmen, die bis zum Ablauf des 17. November 2023 den Status eines Unternehmens nach Absatz 1 erlangt haben, müssen ein Energie- oder Umweltmanagementsystem bis zum Ablauf des 18. Juli 2025 eingerichtet haben. Unternehmen, die ab dem 18. November 2023 den Status eines Unternehmens nach Absatz 1 erlangen, müssen ein Energie- oder Umweltmanagementsystem spätestens 20 Monate nach dem Zeitpunkt, zu dem sie diesen Status erlangt haben, eingerichtet haben. Unternehmen im Sinne von Satz 1 und 2 sind bis zum Nachweis der Einrichtung eines Energie- oder Umweltmanagementsystems von der Verpflichtung zur Durchführung von Energieaudits nach § 8 Absatz 1 des Gesetzes über Energiedienstleistungen und andere Effizienzmaßnahmen befreit, längstens jedoch bis zum Ablauf der in Satz 1 oder 2 genannten Fristen.
 
 (3) Ein Unternehmen, das nach Absatz 1 ein Energie- oder Umweltmanagementsystem einzurichten hat, hat mindestens folgende zusätzliche Anforderungen als Teil des Energie- oder Umweltmanagementsystems zu erfüllen:
 
@@ -200,6 +200,8 @@ b) bei der Berichterstattung gegenüber der Europäischen Kommission;
 2. Identifizierung und Darstellung von technisch realisierbaren Endenergieeinsparmaßnahmen sowie Maßnahmen zur Abwärmerückgewinnung und -nutzung,
 
 3. Wirtschaftlichkeitsbewertung der identifizierten Maßnahmen nach DIN EN 17463, Ausgabe Dezember 2021<span id="FnR.F827720_05"></span><a href="#F827720_05" class="FnR">5</a></sup> .
+
+§ 8 Abs. 2 Satz 3 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wird das Wort "Umweltmanagementsytems" durch das Wort "Umweltmanagementsystems" ersetzt
 
 # § 9 – Umsetzungspläne von Endenergieeinsparmaßnahmen
 

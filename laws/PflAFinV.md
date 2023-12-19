@@ -259,6 +259,10 @@ Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zweck
 
 (2) Die personenbezogenen Daten sind mindestens fünf Jahre nach Ende des Finanzierungszeitraums aufzubewahren, es sei denn, andere gesetzliche Regelungen sehen eine längere Aufbewahrungsfrist vor. Danach sind sie zu löschen, sobald sie nicht mehr erforderlich sind.
 
+# § 27a – Datenverarbeitung nach § 62 des Pflegeberufegesetzes
+
+Die zuständigen Stellen nach § 26 Absatz 4 des Pflegeberufegesetzes erheben die Angaben nach § 62 Absatz 2 des Pflegeberufegesetzes zum Zweck der Evaluierung nach § 62 Absatz 1 des Pflegeberufegesetzes. Die Daten zur Wahl des Vertiefungseinsatzes als auch zur Ausübung des Wahlrechts nach § 59 Absatz 2 oder 3 des Pflegeberufegesetzes werden für jede Auszubildende und für jeden Auszubildenden mit Abschluss der jeweiligen Ausbildung für das laufende Kalenderjahr (Berichtsjahr) erhoben. Diese Daten werden über die statistischen Landesämter bis zum 2. Mai des auf das Berichtsjahr folgenden Jahres an das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit übermittelt, erstmals zum 2. Mai 2024.
+
 # § 28 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2019 in Kraft.
