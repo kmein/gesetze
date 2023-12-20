@@ -207,7 +207,7 @@ Insbesondere können sie die weitere Teilnahme am Grundstoffverkehr ganz oder te
 
 (4) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-(5) Soweit auf die Verordnung (EG) Nr. 273/2004 oder die Verordnung (EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 13. Januar 2021 geltende Fassung maßgeblich.
+(5) Soweit auf die Verordnung (EG) Nr. 273/2004 oder die Verordnung (EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 20. Februar 2023 geltende Fassung maßgeblich.
 
 # § 20 – Bußgeldvorschriften
 

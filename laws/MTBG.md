@@ -983,6 +983,24 @@ wesentliche Unterschiede nur in einem Umfang aufweist, der nicht zu einer Gefäh
 
 (4) Mit der Meldung nach Absatz 3 hat die dienstleistungserbringende Person der zuständigen Behörde die entsprechenden Nachweise, Bescheinigungen und Erklärungen vorzulegen.
 
+# § 59a – Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+
+(1) Für die Erbringung von vorübergehenden und gelegentlichen Dienstleistungen im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union im Rahmen einer partiellen Berufsausübung bedarf es einer Genehmigung durch die zuständige Behörde. Die Genehmigung wird auf Antrag erteilt, wenn:
+
+1. die antragstellende Person eine Staatsangehörige oder ein Staatsangehöriger eines Mitgliedstaates, eines Vertragsstaates oder eines gleichgestellten Staates ist,
+
+2. die antragstellende Person in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder einem gleichgestellten Staat zur Ausübung des Berufs, dessen Tätigkeit der Tätigkeit in einem der in diesem Gesetz geregelten Berufe nur partiell entspricht, rechtmäßig niedergelassen ist und
+
+a) dieser Beruf in diesem Mitgliedstaat, in diesem Vertragsstaat oder in diesem gleichgestellten Staat reglementiert ist oder
+
+b) dieser Beruf in diesem Mitgliedstaat, in diesem Vertragsstaat oder in diesem gleichgestellten Staat nicht reglementiert ist und die antragstellende Person diesen Beruf während der vorhergehenden zehn Jahre mindestens ein Jahr lang in einem oder in mehreren Mitgliedstaaten, Vertragsstaaten oder gleichgestellten Staaten rechtmäßig ausgeübt hat,
+
+3. die Voraussetzungen nach § 53 Absatz 1 Nummer 1 bis 4 vorliegen.
+
+(2) Personen mit einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung haben beim Erbringen der Dienstleistung in Deutschland im Umfang dieser Genehmigung die gleichen Rechte und Pflichten wie eine Person mit einer Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 Nummer 1, 2, 3 oder 4. Sie dürfen insbesondere eine oder mehrere vorbehaltene Tätigkeiten nach § 5 ausüben, soweit sie in den Umfang der Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung fallen.
+
+(3) Die §§ 2 bis 4, 53 Absatz 2, 3 und 4, § 54 Absatz 2, die §§ 55, 59 Absatz 3 und 4, § 63 Absatz 1 bis 3, die §§ 64 bis 67 und 68 Absatz 1 und 2 gelten entsprechend.
+
 # § 60 – Bescheinigung der zuständigen Behörde
 
 (1) Üben deutsche Staatsangehörige oder Staatsangehörige eines anderen Mitgliedstaates, eines anderen Vertragsstaates oder eines gleichgestellten Staates einen der in diesem Gesetz geregelten Berufe in Deutschland aufgrund einer Erlaubnis nach § 1 Absatz 1 Nummer 1, 2, 3 oder 4 aus, so wird ihnen auf Antrag eine Bescheinigung von der zuständigen Behörde ausgestellt, damit sie die Möglichkeit haben, in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat ihren Beruf als dienstleistungserbringende Person im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union vorübergehend und gelegentlich auszuüben.
@@ -1021,7 +1039,7 @@ Die Länder können vereinbaren, dass die Aufgaben nach Teil 4 von einem anderen
 
 # § 63 – Unterrichtungs- und Überprüfungspflichten
 
-(1) Die zuständige Behörde des Landes, in dem eine Person einen in diesem Gesetz geregelten Beruf ausübt oder zuletzt ausgeübt hat, unterrichtet die zuständigen Behörden des Herkunftsstaates, wenn
+(1) Die zuständige Behörde des Landes, in dem eine Person einen in diesem Gesetz geregelten Beruf vollständig oder partiell ausübt oder zuletzt ausgeübt hat, unterrichtet die zuständigen Behörden des Herkunftsstaates, wenn
 
 1. sich diese Person eines Verhaltens schuldig gemacht hat, welches sich auf die Ausübung eines der in diesem Gesetz geregelten Berufe auswirken kann,
 
@@ -1031,7 +1049,7 @@ Die Länder können vereinbaren, dass die Aufgaben nach Teil 4 von einem anderen
 
 4. in Bezug auf diese Person Tatsachen vorliegen, die eine der in den Nummern 1 bis 3 genannten Sanktionen oder Maßnahmen rechtfertigen.
 
-(2) Erhält die zuständige Behörde eines Landes Auskünfte von der zuständigen Behörde eines Aufnahmestaates, die sich auf die Ausübung eines der in diesem Gesetz geregelten Berufe durch eine Person im Geltungsbereich dieses Gesetzes auswirken könnten, so hat sie
+(2) Erhält die zuständige Behörde eines Landes Auskünfte von der zuständigen Behörde eines Aufnahmestaates, die sich auf die vollständige oder partielle Ausübung eines der in diesem Gesetz geregelten Berufe durch eine Person im Geltungsbereich dieses Gesetzes auswirken könnten, so hat sie
 
 1. die Richtigkeit der ihr übermittelten Auskünfte zu überprüfen,
 
@@ -1047,7 +1065,9 @@ Die Länder können vereinbaren, dass die Aufgaben nach Teil 4 von einem anderen
 
 2. die Entscheidung nach Teil 4 Abschnitt 3,
 
-3. die Entgegennahme der Meldung über eine Dienstleistungserbringung nach § 57 oder
+3. die Entgegennahme der Meldung über eine Dienstleistungserbringung nach § 55,
+
+3a. die Entscheidungen nach Teil 5 oder
 
 4. sonstige Entscheidungen, die im Zusammenhang mit der Richtlinie 2005/36/EG stehen.
 
@@ -1121,7 +1141,7 @@ c) Geburtsort und
 
 # § 68 – Verwaltungszusammenarbeit bei Dienstleistungserbringung
 
-(1) Übt eine dienstleistungserbringende Person im Geltungsbereich dieses Gesetzes einen der in diesem Gesetz geregelten Berufe aus oder führt sie eine der Berufsbezeichnungen nach § 1 Absatz 1, ohne dass die Voraussetzungen nach Teil 5 vorliegen, unterrichtet die zuständige Behörde unverzüglich die zuständige Behörde des Staates, in dem die dienstleistungserbringende Person niedergelassen ist, über den Verstoß.
+(1) Übt eine dienstleistungserbringende Person im Geltungsbereich dieses Gesetzes einen der in diesem Gesetz geregelten Berufe vollständig oder partiell aus oder führt sie eine der Berufsbezeichnungen nach § 1 Absatz 1, ohne dass die Voraussetzungen nach Teil 5 vorliegen, unterrichtet die zuständige Behörde unverzüglich die zuständige Behörde des Staates, in dem die dienstleistungserbringende Person niedergelassen ist, über den Verstoß.
 
 (2) Hat die zuständige Behörde berechtigte Zweifel an den von der dienstleistungserbringenden Person vorgelegten Dokumenten, so ist sie berechtigt, von der zuständigen Behörde des Staates, in dem die dienstleistungserbringende Person niedergelassen ist, folgende Informationen anzufordern:
 
@@ -1163,7 +1183,21 @@ d) die Regelungen zur Durchführung und zum Inhalt der Anpassungsmaßnahmen nach
 
 e) das Verfahren bei der Ausstellung eines Europäischen Berufsausweises nach § 52,
 
-5. das Verfahren und das Nähere zu den Voraussetzungen der Dienstleistungserbringung.
+5. das Verfahren und das Nähere zu den Voraussetzungen der Dienstleistungserbringung,
+
+6. für Berufsangehörige, die einen Antrag nach § 53 oder nach § 59a stellen,
+
+a) das Verfahren und das Nähere zu den jeweiligen Voraussetzungen partiellen Berufsausübung, insbesondere
+
+aa)  
+die Fristen für die Erteilung der Erlaubnis zur partiellen Berufsausübung nach § 53,
+
+bb)  
+das Verfahren bei der Prüfung der Voraussetzungen des § 53, insbesondere die von der antragstellenden Person vorzulegenden Nachweise und die Ermittlung durch die zuständige Behörde entsprechend Artikel 50 Absatz 1 bis 3a in Verbindung mit Anhang VII der Richtlinie 2005/36/EG,
+
+cc) die Urkunde für die Erlaubnis zur partiellen Berufsausübung nach § 53 und
+
+b) das Verfahren und das Nähere zu den Voraussetzungen der Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung.
 
 (2) Abweichungen durch Landesrecht von den Regelungen des Verwaltungsverfahrens in der nach Absatz 1 erlassenen Rechtsverordnung sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 

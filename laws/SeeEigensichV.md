@@ -214,7 +214,7 @@ Die Genehmigung des Zusatzes zum Gefahrenabwehrplan ist zu widerrufen, wenn das 
 
 (2) Die Zentrale Kontaktstelle nimmt neben Anfragen und Berichten der Schifffahrt die in der Regel 6 des Kapitels XI-2 der Anlage des SOLAS-Übereinkommens genannten Alarmmeldungen entgegen und leitet sie an die zuständigen Stellen mit dem Ziel der schnellstmöglichen Hilfeleistung für das bedrohte Schiff weiter.
 
-(3) Auf Schiffen im Sinne der Regel 2 Absatz 1.1 des Kapitels XI-2 der Anlage des SOLAS-Übereinkommens, welche eine oder mehrere Hafenanlagen in der Bundesrepublik Deutschland anzulaufen beabsichtigen, muss der Schiffsführer der Zentralen Kontaktstelle die im Anhang der Hinweise des Schiffssicherheitsausschusses zu den Vorschriften im Zusammenhang mit der Übermittlung von sicherheitsbezogenen Angaben vor dem Einlaufen eines Schiffes in den Hafen (MSC/Circ. 1130 vom 14. Dezember 2004, VkBl. 2005 S. 143) genannten Angaben elektronisch übermitteln. Er kann diese Aufgabe auf den Beauftragten zur Gefahrenabwehr auf dem Schiff, den Beauftragten zur Gefahrenabwehr im Unternehmen oder seinen Agenten übertragen.
+(3) Auf Schiffen im Sinne der Regel 2 Absatz 1.1 des Kapitels XI-2 der Anlage des SOLAS-Übereinkommens, welche eine oder mehrere Hafenanlagen in der Bundesrepublik Deutschland anzulaufen beabsichtigen, muss der Schiffsführer der Zentralen Kontaktstelle die im Anhang der Hinweise des Schiffssicherheitsausschusses zu den Vorschriften im Zusammenhang mit der Übermittlung von sicherheitsbezogenen Angaben vor dem Einlaufen eines Schiffes in den Hafen (MSC/Circ. 1130 vom 14. Dezember 2004, VkBl. 2005 S. 143) genannten Angaben über das Zentrale Meldeportal des Bundes im Internet unter www.national-single-window.de übermitteln. Er kann diese Aufgabe auf den Beauftragten zur Gefahrenabwehr auf dem Schiff, den Beauftragten zur Gefahrenabwehr im Unternehmen oder seinen Agenten übertragen.
 
 (4) Die Angaben nach Absatz 3 sind zu übermitteln
 
@@ -224,7 +224,7 @@ Die Genehmigung des Zusatzes zum Gefahrenabwehrplan ist zu widerrufen, wenn das 
 
 3. falls nicht bekannt ist, welcher Hafen angelaufen wird oder sich dies während der Fahrt ändert, sobald bekannt wird, welcher Hafen angelaufen werden soll.
 
-(5) Ergeben sich nach Übermittlung der Angaben bis zum Einlaufen des Schiffes in den Bestimmungshafen Änderungen, sind diese der Zentralen Kontaktstelle unverzüglich mitzuteilen.
+(5) Ergeben sich nach Übermittlung der Angaben bis zum Einlaufen des Schiffes in den Bestimmungshafen Änderungen, sind diese nach Maßgabe des Absatzes 3 unverzüglich zu übermitteln.
 
 (6) Schiffsverkehre im Sinne der Regel 11 Absatz 1 des Kapitels XI-2 der Anlage des SOLAS-Übereinkommens können von der Pflicht zur Abgabe der Meldungen nach den Absätzen 3 und 4 befreit werden, soweit der Beauftragte für die Gefahrenabwehr in dem Unternehmen die nach Absatz 3 erforderlichen Angaben in einer Liste für die betreffenden Schiffe festhält, fortschreibt und jederzeit verfügbar hält.
 

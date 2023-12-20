@@ -49,6 +49,8 @@ Auf Grund des § 14 Absatz 2 und 3 Satz 1, 3 und 4 in Verbindung mit § 40 Absat
 
 (2) Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank ist für Anzeigen und Unterlagen ein elektronischer Einreichungsweg zu nutzen. Nähere Bestimmungen zum jeweiligen elektronischen Einreichungsweg treffen die Bundesanstalt und die Deutsche Bundesbank auf ihrer jeweiligen Internetseite.
 
+(+++ § 1 Abs. 2: Zur Geltung vg. § 18 Abs. 1 +++)
+
 # § 2 – Rechtsträgerkennung
 
 (1) Zur Identifizierung im Meldewesen benötigen die folgenden Unternehmen eine Rechtsträgerkennung:
