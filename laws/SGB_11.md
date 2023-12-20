@@ -5008,8 +5008,6 @@ Abweichend von § 44a Absatz 6 Satz 1 haben landwirtschaftliche Unternehmer nach
 
 (6) Die Absätze 1, 5 und 5b gelten bis einschließlich 30. April 2023. Absatz 5d gilt in dem Zeitraum vom 23. Mai 2020 bis einschließlich 30. April 2023.
 
-(+++ Hinweis: Zur Verlängerung der Frist/des Zeitraums nach § 150 Abs. 6 Satz 1 bzw. § 150 Abs. 6 Satz 2 bis einschließlich 30. Juni 2022 vgl. V v. 16.3.2022 I 475 +++)
-
 # § 150a – Pflegebonus zur Anerkennung der besonderen Leistungen in der Coronavirus-SARS-CoV-2-Pandemie
 
 (1) Die zugelassenen Pflegeeinrichtungen sind verpflichtet, jeder und jedem ihrer Beschäftigten im Jahr 2022 eine einmalige Sonderleistung nach Maßgabe der Absätze 2 bis 6 und 8 (Corona-Pflegebonus) zu zahlen. Gleiches gilt für Arbeitgeber, deren Arbeitnehmerinnen oder Arbeitnehmer in Einrichtungen nach Satz 1 im Rahmen einer Arbeitnehmerüberlassung oder eines Werk- oder Dienstleistungsvertrags eingesetzt werden.

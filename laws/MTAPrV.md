@@ -113,6 +113,18 @@ Auf Grund des § 69 Absatz 1 des MT-Berufe-Gesetzes vom 24. Februar 2021 (BGBl. 
 
  
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 # § 1 – Inhalt der Ausbildung
 
 In der Ausbildung zur Medizinischen Technologin und zum Medizinischen Technologen sind der auszubildenden Person die in den Anlagen 1 bis 4 für den jeweiligen Beruf genannten Kompetenzen zu vermitteln.
@@ -854,17 +866,25 @@ Beantragt eine Person, die ihre Berufsqualifikation außerhalb des Geltungsberei
 
 5. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
 
-6. ein Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
+6. sofern vorhanden, einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
 
-(2) Die Unterlagen nach Absatz 1 Nummer 2 bis 4 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 und 4 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von den Unterlagen nach Absatz 1 Nummer 2 und von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Dolmetscherin oder Übersetzerin oder einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer erstellen zu lassen.
+(2) Die Unterlagen nach Absatz 1 Nummer 2 bis 4 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 und 4 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von den Unterlagen nach Absatz 1 Nummer 2 und von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
 
-(3) Die zuständige Behörde kann abweichend von Absatz 2 eine andere Form für die vorzulegenden Dokumente zulassen.
+(3) Die zuständige Behörde kann abweichend von Absatz 2 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
 
 (4) Die zuständige Behörde kann die antragstellende Person auffordern, innerhalb einer angemessenen Frist Informationen zum Inhalt und zur Dauer der im Ausland absolvierten Berufsbildung sowie zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur Bewertung der Gleichwertigkeit erforderlich ist. Soweit die Berufsbildung in einem Mitgliedstaat, in einem Vertragsstaat oder in einem gleichgestellten Staat absolviert wurde, kann sich die zuständige Behörde an die zuständige Stelle des Ausbildungsstaats wenden.
 
 (5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften oder weitere geeignete Unterlagen vorzulegen. Bei Unterlagen, die in einem Mitgliedstaat, einem Vertragsstaat oder in einem gleichgestellten Staat ausgestellt oder anerkannt wurden, kann sich die zuständige Behörde im Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl an die zuständige Stelle des Ausbildungs- oder Anerkennungsstaats wenden als auch die antragstellende Person auffordern, beglaubigte Abschriften vorzulegen. Eine solche Aufforderung hemmt nicht den Fristlauf nach § 61 Absatz 1.
 
-(6) Die antragstellende Person hat durch geeignete Unterlagen darzulegen, im jeweiligen Bundesland eine den Berufsqualifikationen entsprechende Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen können beispielsweise der Nachweis der Beantragung eines Einreisevisums zur Erwerbstätigkeit, der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern oder ein Geschäftskonzept sein. Für antragstellende Personen mit Wohnsitz in einem Mitgliedstaat, in einem Vertragsstaat oder in einem gleichgestellten Staat sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
+(6) Die antragstellende Person hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind insbesondere
+
+1. der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
+
+2. ein Geschäftskonzept oder
+
+3. der Vermerk über eine Standortberatung der Zentralen Servicestelle Berufsanerkennung.
+
+Die zuständige Behörde darf nicht zwingend einen Vermerk über eine Standortberatung nach Satz 1 Nummer 3 fordern, wenn durch andere Unterlagen die Erwerbsabsicht dargelegt wurde. Für antragstellende Personen mit Wohnsitz in einem Mitgliedstaat, in einem Vertragsstaat oder in einem gleichgestellten Staat sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
 
 # § 61 – Frist der Behörde für die Entscheidung über den Antrag
 
@@ -1175,6 +1195,80 @@ Die Nachweise nach den §§ 96 und 97 dürfen von der zuständigen Behörde der 
 (2) Ist der zuständigen Behörde eine Prüfung innerhalb eines Monats nach Eingang der Meldung und der Dokumente in Ausnahmefällen nicht möglich, unterrichtet sie die meldende Person innerhalb dieser Frist über die Gründe der Verzögerung. Die der Verzögerung zugrundeliegenden Schwierigkeiten werden binnen eines Monats nach dieser Mitteilung behoben. Die Entscheidung nach § 58 des MT-Berufe-Gesetzes ergeht binnen zwei Monaten nach Behebung der der Verzögerung zugrundeliegenden Schwierigkeiten.
 
 (3) Bleibt eine Mitteilung nach den Absätzen 1 oder 2 binnen der genannten Fristen aus, darf die Dienstleistung erbracht werden.
+
+# § 99a – Frist der Behörde für die Bestätigung des Antragseingangs
+
+Beantragt eine Person eine Erlaubnis zur partiellen Berufsausübung nach § 53 des MT-Berufe-Gesetzes, so bestätigt die zuständige Behörde ihr innerhalb eines Monats nach Eingang des Antrags den Antragseingang und teilt ihr gegebenenfalls mit, welche Unterlagen fehlen, um die erforderlichen Voraussetzungen nachzuweisen.
+
+# § 99b – Erforderliche Unterlagen
+
+(1) Personen, die die Erlaubnis zur partiellen Berufsausübung nach § 53 des MT-Berufe-Gesetzes aufgrund einer außerhalb des Geltungsbereichs des MT-Berufe-Gesetzes erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
+
+1. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
+
+2. einen Identitätsnachweis,
+
+3. eine Bescheinigung über eine Berufsqualifikation, aus der sich ergibt, dass die Berufsqualifikation erforderlich ist für die Ausübung einer beruflichen Tätigkeit in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat, die im Bereich einer der Berufe nach dem MT-Berufe-Gesetz liegt, sowie die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation belegen,
+
+4. sofern vorhanden, eine Bescheinigung über die erworbene Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die durch lebenslanges Lernen erworben worden sind,
+
+5. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
+
+6. einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
+
+(2) Die Unterlagen nach Absatz 1 Nummer 2 bis 4 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 und 4 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
+
+(3) Die zuständige Behörde kann abweichend von Absatz 2 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
+
+(4) Die zuständige Behörde kann die antragstellende Person auffordern, innerhalb einer angemessenen Frist Informationen zum Inhalt und zur Dauer der im Ausland absolvierten Berufsbildung sowie zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur Bewertung der Voraussetzungen nach § 53 Absatz 1 des MT-Berufe-Gesetzes erforderlich ist. Die zuständige Behörde kann sich an die zuständige Stelle des Ausbildungsstaats wenden.
+
+(5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften oder weitere geeignete Unterlagen vorzulegen. Bei Unterlagen, die in einem Mitgliedstaat, einem Vertragsstaat oder einem gleichgestellten Staat ausgestellt oder anerkannt wurden, kann sich die zuständige Behörde im Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl an die zuständige Stelle des Ausbildungs- oder Anerkennungsstaats wenden als auch die antragstellende Person auffordern, beglaubigte Abschriften vorzulegen. Eine solche Aufforderung hemmt nicht den Fristlauf nach § 99c.
+
+(6) Die antragstellende Person hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind insbesondere
+
+1. der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
+
+2. ein Geschäftskonzept oder
+
+3. der Vermerk über eine Standortberatung der Zentralen Servicestelle Berufsanerkennung.
+
+Die zuständige Behörde darf nicht zwingend einen Vermerk über eine Standortberatung nach Satz 1 Nummer 3 fordern, wenn durch andere Unterlagen die Erwerbsabsicht dargelegt wurde. Für antragstellende Personen mit Wohnsitz in einem Mitgliedstaat, in einem Vertragsstaat oder in einem gleichgestellten Staat sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
+
+(7) Die §§ 96 bis 98 gelten entsprechend.
+
+# § 99c – Frist der Behörde für die Entscheidung über den Antrag
+
+Die zuständige Behörde entscheidet kurzfristig über den Antrag, spätestens jedoch drei Monate nach Vorlage der vollständigen Unterlagen durch die antragstellende Person.
+
+# § 99d – Erlaubnisurkunde
+
+Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach § 53 des MT-Berufe-Gesetzes ist das Muster nach Anlage 14 zu verwenden.
+
+# § 99e – Erforderliche Unterlagen
+
+(1) Personen, die eine Genehmigung nach § 59a des MT-Berufe-Gesetzes aufgrund einer außerhalb des Geltungsbereichs des MT-Berufe-Gesetzes erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
+
+1. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
+
+2. einen Nachweis ihrer Identität sowie Staatsangehörigkeit,
+
+3. eine Bescheinigung, aus der sich ergibt, dass zum Zeitpunkt der Vorlage der Bescheinigung die antragstellende Person in einem Beruf, dessen Tätigkeit der Tätigkeit einem der Berufe nach dem MT-Berufe-Gesetz nur partiell entspricht, rechtmäßig in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat niedergelassen ist,
+
+4. eine Bescheinigung über eine Berufsqualifikation, aus der sich ergibt, dass die Berufsqualifikation erforderlich ist für die Ausübung dieses Berufs in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat, sowie die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation belegen,
+
+5. sofern vorhanden, eine Bescheinigung über die erworbene Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die durch lebenslanges Lernen erworben worden sind,
+
+6. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
+
+7. einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
+
+(2) Im Fall von § 59a Absatz 1 Satz 2 Nummer 2 Buchstabe b des MT-Berufe-Gesetzes hat die antragstellende Person zusätzlich einen Nachweis in beliebiger Form darüber vorzulegen, dass dieser Beruf während der vorhergehenden zehn Jahre mindestens ein Jahr lang in einem oder mehreren Mitgliedstaaten, Vertragsstaaten oder gleichgestellten Staaten rechtmäßig ausgeübt worden ist.
+
+(3) Die Unterlagen nach Absatz 1 Nummer 2 bis 5 sowie Absatz 2 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 bis 5 sowie Absatz 2 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
+
+(4) Die zuständige Behörde kann abweichend von Absatz 3 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
+
+(5) § 99b Absatz 4, 5 Satz 1 und 2 und Absatz 7 gilt entsprechend.
 
 # § 100 – Übergangsvorschrift
 
@@ -2000,5 +2094,72 @@ hat am \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ die staatliche Kenntnisprüfung na
 hat in der Zeit vom \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ bis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ regelmäßig und mit Erfolg an dem Anpassungslehrgang teilgenommen, der nach den §§ 89 ff. der Ausbildungs- und Prüfungsverordnung für Medizinische Technologinnen und Medizinische Technologen von der zuständigen Behörde festgelegt wurde.
 
 Das Abschlussgespräch hat er/sie bestanden/nicht bestanden<span id="FnR.F818588_S6"></span><a href="#F818588_S6" class="FnR">*</a></sup> .
+
+ 
+
+# Anlage 14 – (zu § 99d)Urkunde über die Erlaubnis zur partiellen Berufsausübung
+
+(Fundstelle: BGBl 2023 I Nr. 359, S. 51)
+
+Name, Vorname
+
+ 
+
+ 
+
+Geburtsdatum
+
+ 
+
+Geburtsort
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+erhält auf Grund des § 53 des Gesetzes über die Berufe in der medizinischen Technologie mit Wirkung vom heutigen Tage die Erlaubnis zur partiellen Berufsausübung.
+
+Folgende vorbehaltene Tätigkeiten werden von der Erlaubnis zur partiellen Berufsausübung umfasst (abschließende Aufzählung):
+
+Die Ausübung des Berufs erfolgt unter der Berufsbezeichnung des Staates, in dem die Berufsqualifikation erworben wurde, sowie mit dem Hinweis auf den Namen dieses Staates und die oben genannte(n) vorbehaltene(n) Tätigkeit(en), wie folgt:
+
+Es wird auf die Pflicht hingewiesen, den Dienstleistungsempfängern eindeutig den Umfang der beruflichen Tätigkeit anzugeben (Artikel 4f Absatz 5 Satz 3 der Richtlinie 2005/36/EG).
+
+  
+  
+
+Ort, Datum
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Siegel)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Unterschrift oder qualifizierte elektronische Signatur)
 
  

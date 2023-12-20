@@ -57,7 +57,7 @@ Auf Grund des § 37 Nummer 1 und 2 Buchstabe a bis h, j und k des Implantateregi
 
 # § 1 – Brustimplantate
 
-(1) Für Brustimplantate haben die verantwortlichen Gesundheitseinrichtungen ihre Pflichten nach den §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes ab dem 1. Januar 2024 zu erfüllen. Bis zum 31. Dezember 2023 finden die §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes sowie die §§ 15 bis 17 und 22 für freiwillig teilnehmende verantwortliche Gesundheitseinrichtungen Anwendung, soweit bei ihnen die technischen und organisatorischen Voraussetzungen für die Meldungen nach den §§ 16 und 17 Absatz 1 und 3 des Implantateregistergesetzes vorliegen.
+(1) Für Brustimplantate haben die verantwortlichen Gesundheitseinrichtungen ihre Pflichten nach den §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes ab dem 1. Juli 2024 zu erfüllen. Bis zum 30. Juni 2024 finden die §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes sowie die §§ 15 bis 17 und 22 für freiwillig teilnehmende verantwortliche Gesundheitseinrichtungen Anwendung, soweit bei ihnen die technischen und organisatorischen Voraussetzungen für die Meldungen nach den §§ 16 und 17 Absatz 1 und 3 des Implantateregistergesetzes vorliegen.
 
 (2) Für Brustimplantate haben die Produktverantwortlichen ihre Pflichten nach § 15 des Implantateregistergesetzes ab dem 1. Juli 2023 zu erfüllen.
 
@@ -241,6 +241,8 @@ Die Übermittlung kann für jede implantatbezogene Maßnahme einzeln oder zusamm
 
 3. bei der Registerstelle nach Abschluss der Zusammenführung der Daten.
 
+(+++ §§ 15 bis 17: Zur Anwendung bis 30.6.2024 vgl. § 1 Abs. 1 Satz 2 +++)
+
 # § 16 – Meldebestätigung
 
 Die Registerstelle übermittelt der Gesundheitseinrichtung als Meldebestätigung nach § 4 Absatz 3 des Implantateregistergesetzes eine Datenstruktur bestehend aus:
@@ -259,6 +261,8 @@ b) die verantwortliche Gesundheitseinrichtung der Registerstelle die Verwendung 
 
 Die Registerstelle stellt den alphanumerischen Code der Meldebestätigung und den zugehörigen Hash-Wert in einer öffentlich zugänglichen Datenbank bereit.
 
+(+++ §§ 15 bis 17: Zur Anwendung bis 30.6.2024 vgl. § 1 Abs. 1 Satz 2 +++)
+
 # § 17 – Berichtigung
 
 (1) Für die Vervollständigung oder Korrektur übermittelt die verantwortliche Gesundheitseinrichtung der Vertrauensstelle die Daten nach § 15 Absatz 1 und 2 Satz 1 Nummer 2 Buchstabe c. Die Vertrauensstelle erzeugt eine Transfernummer und übermittelt diese an die verantwortliche Gesundheitseinrichtung. Die verantwortliche Gesundheitseinrichtung übermittelt die vervollständigten oder berichtigten Angaben zusammen mit der Transfernummer an die Registerstelle. Die Registerstelle ruft das nach § 15 Absatz 3 Nummer 2 gebildete Pseudonym mit Hilfe der Transfernummer bei der Vertrauensstelle ab, führt es mit den nach Satz 3 übermittelten Daten zusammen und bestätigt der verantwortlichen Gesundheitseinrichtung den Erhalt der Vervollständigung oder Korrektur. § 15 Absatz 5 gilt entsprechend.
@@ -266,6 +270,8 @@ Die Registerstelle stellt den alphanumerischen Code der Meldebestätigung und de
 (2) Für die Vervollständigung oder Korrektur gilt § 24 Absatz 1 Nummer 2 und Absatz 2 des Implantateregistergesetzes entsprechend.
 
 (3) Hat die Registerstelle Zweifel an der Richtigkeit eines gemeldeten Datensatzes, fordert sie die verantwortliche Gesundheitseinrichtung zur Überprüfung und Vervollständigung oder Korrektur nach Absatz 1 auf. Dazu übermittelt sie der Vertrauensstelle die Aufforderung zusammen mit dem nach § 15 Absatz 3 Nummer 2 gebildeten Pseudonym. Die Vertrauensstelle ersetzt das Pseudonym durch das interne Kennzeichen und übermittelt die Aufforderung zusammen mit diesem an die verantwortliche Gesundheitseinrichtung.
+
+(+++ §§ 15 bis 17: Zur Anwendung bis 30.6.2024 vgl. § 1 Abs. 1 Satz 2 +++)
 
 # § 18 – Datenübermittlung durch die Krankenkassen, privaten Krankenversicherungsunternehmen und sonstigen Kostenträger; Abruf durch die Registerstelle
 
@@ -380,6 +386,8 @@ b) die Antragssteller verpflichtet sind, eine Identifizierung der betroffenen Pa
 1. im Fall des Absatzes 1 Nummer 1 die zu der betroffenen Person verarbeiteten Daten und die weiteren Informationen gemäß Artikel 15 der Verordnung (EU) 2016/679 oder
 
 2. im Fall des Absatzes 1 Nummer 2 ihre Entscheidung über die Berichtigung.
+
+(+++ § 22: Zur Anwendung bis 30.6.2024 vgl. § 1 Abs. 1 Satz 2 +++)
 
 # § 23 – Verfahren zur unverzüglichen Information der Patientinnen und Patienten, die von einer Sicherheitskorrekturmaßnahme im Feld betroffen sind
 

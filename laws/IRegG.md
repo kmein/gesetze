@@ -393,6 +393,8 @@ b) unverzüglich nach dem Zeitpunkt, zu dem die Pflicht des Produktverantwortlic
 
 (2) Die verantwortliche Gesundheitseinrichtung hat die Daten vollständig und richtig an die Registerstelle zu übermitteln. Sie hat die übermittelten Daten erforderlichenfalls zu vervollständigen oder zu korrigieren.
 
+(+++ § 16: Zur Anwendung bis 30.6.2024 vgl. § 1 Abs. 1 Satz 2 IRegBV +++)
+
 # § 17 – Meldepflichten gegenüber der Vertrauensstelle
 
 (1) Die verantwortliche Gesundheitseinrichtung übermittelt der Vertrauensstelle nach jeder implantatbezogenen Maßnahme diejenigen patienten- und fallidentifizierenden Daten, die für die Zwecke des Implantateregisters nach § 1 erforderlich sind. Zu den erforderlichen patienten- und fallidentifizierenden Daten gehören insbesondere
@@ -418,6 +420,8 @@ b) unverzüglich nach dem Zeitpunkt, zu dem die Pflicht des Produktverantwortlic
 (3) Die verantwortlichen Gesundheitseinrichtungen, die gesetzlichen Krankenkassen, die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger übermitteln der Vertrauensstelle die Daten nach den Absätzen 1 und 2 mit Hilfe des unveränderbaren Teils der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch oder der Identifikationsnummer nach Absatz 4 Satz 3. Die Datenübermittlung bei einem Selbstzahler hat unter Verwendung des unveränderbaren Teils der Krankenversichertennummer oder der Identifikationsnummer nach Absatz 4 Satz 3 zu erfolgen.
 
 (4) Die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger stellen für ihre Versicherten den unveränderbaren Teil der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch barrierefrei bereit. § 290 Absatz 3 Satz 5 und § 362 Absatz 2 Satz 2 und 3 und Absatz 3 des Fünften Buches Sozialgesetzbuch gelten entsprechend. Abweichend von Satz 1 können die sonstigen Kostenträger für ihre Versicherten eine andere eindeutige, unveränderbare und nach einheitlichen Kriterien gebildete Identifikationsnummer barrierefrei bereitstellen.
+
+(+++ § 17 Abs. 1 u. 3: Zur Anwendung bis 30.6.2024 vgl. § 1 Abs. 1 Satz 2 IRegBV +++)
 
 # § 18 – Art der Datenübermittlung
 
@@ -517,9 +521,13 @@ Die Registerstelle darf zur Förderung der Zwecke des Implantateregisters nach �
 
 (2) Den betroffenen Patientinnen und Patienten sind die Informationen und die Kopie der übermittelten Daten nach Absatz 1 auch im Falle einer für sie bestehenden gesetzlichen oder rechtsgeschäftlichen Vertretung selbst zu übergeben, soweit sie aufgrund ihrer Verständnismöglichkeiten in der Lage sind, die Erläuterungen aufzunehmen. Anderenfalls sind die Informationen und die Kopie der übermittelten Daten nach Absatz 1 einer Person zu übergeben, die kraft Gesetzes oder kraft Rechtsgeschäft zur Vertretung der betroffenen Patientin oder des betroffenen Patienten berechtigt ist.
 
+(+++ § 24: Zur Anwendung bis 30.6.2024 vgl. § 1 Abs. 1 Satz 2 IRegBV +++)
+
 # § 25 – Informationspflicht gegenüber den gesetzlichen Krankenkassen und privaten Krankenversicherungen und sonstigen Kostenträgern
 
 Die verantwortliche Gesundheitseinrichtung, die eine implantatbezogene Maßnahme durchgeführt hat, informiert die gesetzliche Krankenkasse, das private Krankenversicherungsunternehmen oder den sonstigen Kostenträger der betroffenen Patientin oder des betroffenen Patienten über die Durchführung dieser Maßnahme.
+
+(+++ § 25: Zur Anwendung bis 30.6.2024 vgl. § 1 Abs. 1 Satz 2 IRegBV +++)
 
 # § 26 – Beschränkung der Rechte betroffener Patientinnen und Patienten
 
