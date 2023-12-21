@@ -49,11 +49,15 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 # § 3 – Grundsätze
 
-(1) Begünstigte haben gegenüber dem zuständigen Hauptzollamt Anzeige- oder Erklärungspflichten, wenn die Höhe der einzelnen Steuerbegünstigung jeweils ein Aufkommen im Kalenderjahr von 200 000 Euro oder mehr beträgt. Weitere Anzeige- oder Erklärungspflichten nach Satz 1 bestehen, wenn das Aufkommen im Kalenderjahr der einzelnen gewährten Steuerbegünstigung ab dem Kalenderjahr 2022 jeweils mehr als
+(1) Begünstigte haben gegenüber dem zuständigen Hauptzollamt Anzeige- oder Erklärungspflichten, wenn die Höhe der einzelnen Steuerbegünstigung jeweils ein Aufkommen im Kalenderjahr von 200 000 Euro oder mehr beträgt. Weitere Anzeige- oder Erklärungspflichten nach Satz 1 bestehen, wenn das Aufkommen im Kalenderjahr der einzelnen gewährten Steuerbegünstigung
 
-1. 30 000 Euro beträgt bei in der Fischerei und Aquakultur tätigen Begünstigten nach § 2 Absatz 6 und wenn die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
+1. ab dem Kalenderjahr 2022 jeweils mehr als
 
-2. 60 000 Euro beträgt bei in der Primärerzeugung landwirtschaftlicher Erzeugnisse tätigen Begünstigten nach § 2 Absatz 7 und wenn die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird.
+a) 30 000 Euro beträgt bei in der Fischerei und Aquakultur tätigen Begünstigten nach § 2 Absatz 6, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
+
+b) 60 000 Euro beträgt bei in der Primärerzeugung landwirtschaftlicher Erzeugnisse tätigen Begünstigten nach § 2 Absatz 7, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
+
+2. ab dem Kalenderjahr 2023 jeweils mehr als 100 000 Euro beträgt, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 2 oder Nummer 3 gewährt wird.
 
 (2) Abzugeben ist
 
@@ -71,13 +75,23 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 3. die weiteren Angaben, die von der Kommission in den in § 1 Absatz 1 zitierten Rechtsakten aufgeführt sind.
 
-(5) Eine Veröffentlichung erfolgt, wenn das Aufkommen der Steuerbegünstigung für die jeweilige Einzelbeihilfe im Kalenderjahr, das nach § 4 Absatz 2 Nummer 4 oder nach § 5 Absatz 2 Nummer 4 jeweils maßgeblich ist, mehr als 500 000 Euro beträgt. Die Veröffentlichung erfolgt in Aufkommensschritten von 500 001 bis 1 000 000 Euro, von 1 000 001 bis 2 000 000 Euro, von 2 000 001 bis 5 000 000 Euro, von 5 000 001 bis 10 000 000 Euro, von 10 000 001 bis 30 000 000 Euro sowie von 30 000 001 und mehr Euro. Das Aufkommen der Steuerbegünstigung im Einzelnen wird zur Zuordnung zu den Aufkommensschritten auf volle Euro aufgerundet.
+(5) Eine Veröffentlichung nach Absatz 4 erfolgt, wenn das Aufkommen der Steuerbegünstigung für die jeweilige Einzelbeihilfe im Kalenderjahr, das nach § 4 Absatz 2 Nummer 4 oder nach § 5 Absatz 2 Nummer 4 jeweils maßgeblich ist,
 
-(6) Eine Veröffentlichung nach den Absätzen 4 und 5 erfolgt auch in den Fällen einer Anzeige- oder Erklärungspflicht nach Absatz 1 Satz 2 Nummer 1 und 2. Eine Veröffentlichung erfolgt unabhängig von den Aufkommensschritten nach Absatz 5 Satz 2 zusätzlich
+1. bei Begünstigten nach Absatz 1 Satz 2 Nummer 1 Buchstabe a mehr als 30 000 Euro beträgt, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
 
-1. in den Fällen nach Absatz 1 Satz 2 Nummer 1 im Aufkommensschritt von 30 001 Euro bis 500 000 Euro;
+2. bei Begünstigten nach Absatz 1 Satz 2 Nummer 1 Buchstabe b mehr als 60 000 Euro beträgt, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
 
-2. in den Fällen nach Absatz 1 Satz 2 Nummer 2 im Aufkommensschritt von 60 001 Euro bis 500 000 Euro.
+3. mehr als 500 000 Euro beträgt, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
+
+4. mehr als 100 000 Euro beträgt, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 2 oder Nummer 3 gewährt wird.
+
+(6) Die Veröffentlichung nach Absatz 5 erfolgt jeweils gesondert in den Aufkommensschritten von 500 001 bis 1 000 000 Euro, von 1 000 001 bis 2 000 000 Euro, von 2 000 001 bis 5 000 000 Euro, von 5 000 001 bis 10 000 000 Euro, von 10 000 001 bis 30 000 000 Euro sowie von 30 000 001 und mehr Euro. Das Aufkommen der Steuerbegünstigung im Einzelnen wird zur Zuordnung zu den Aufkommensschritten auf volle Euro aufgerundet. Unbeschadet des Satzes 1 erfolgt in den Fällen einer Veröffentlichung
+
+1. nach Absatz 5 Nummer 1 zusätzlich eine Veröffentlichung im Aufkommensschritt 30 001 Euro bis 500 000 Euro;
+
+2. nach Absatz 5 Nummer 2 zusätzlich eine Veröffentlichung im Aufkommensschritt 60 001 Euro bis 500 000 Euro;
+
+3. nach Absatz 5 Nummer 4 zusätzlich eine Veröffentlichung in den Aufkommensschritten von 100 001 Euro bis 500 000 Euro und von 30 000 001 bis 60 000 000 Euro, von 60 000 001 bis 100 000 000 Euro, von 100 000 001 bis 250 000 000 Euro sowie von 250 000 001 und mehr Euro.
 
 # § 4 – Anzeigepflicht für Steuerbegünstigungen
 

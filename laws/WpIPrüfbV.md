@@ -1382,6 +1382,12 @@ Hier sind alle Aufwendungen und Erträge anzugeben, die nicht dem ordentlichen G
 
 (Fundstelle: BGBl. 2023 I Nr. 350, S. 20)
 
+ 
+
+ 
+
+ 
+
 Wertpapierinstitut:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 8%" /><col style="width: 19%" /><col style="width: 9%" /><col style="width: 18%" /><col style="width: 15%" /><col style="width: 11%" /><col style="width: 19%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Laufende<br />
@@ -1396,6 +1402,8 @@ beendet am)</th><th style="text-align: left;">Datum der Auslagerung</th><th styl
 # Anlage 3 – (zu §§ 27, 40)
 
 (Fundstelle: BGBl. 2023 I Nr. 350, S. 21 - 23)
+
+ 
 
 |                         |     |
 |:------------------------|:----|

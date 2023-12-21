@@ -134,7 +134,7 @@ Meldungen an die Zentrale Meldestelle
 Allgemeine Meldungen
 
 2.1.1  
-Meldung vor Einlaufen nach der Richtlinie 2002/59/EG des Europäischen Parlaments und des Rates vom 27. Juni 2002 über die Einrichtung eines gemeinschaftlichen Überwachungs- und Informationssystems für den Schiffsverkehr (ABl. L 208 vom 5.8.2002, S. 10), die zuletzt durch die Richtlinie 2014/100/EU (ABl. L 308 vom 29.10.2014, S. 82) geändert worden ist, in der jeweils geltenden Fassung.
+Meldung vor Einlaufen nach der Richtlinie 2002/59/EG des Europäischen Parlaments und des Rates vom 27. Juni 2002 über die Einrichtung eines gemeinschaftlichen Überwachungs- und Informationssystems für den Schiffsverkehr (ABl. L 208 vom 5.8.2002, S. 10) in der jeweils geltenden Fassung.
 
 Der Betreiber, Agent oder Schiffsführer eines Schiffes, das im Geltungsbereich dieser Verordnung verkehrt, ist verpflichtet,
 
@@ -236,22 +236,22 @@ Zentrale Meldestelle und Meldeverfahren
 2.3.1  
 Zentrale Meldestelle
 
-Zentrale Meldestelle im Sinne dieser Verordnung ist das Maritime Lagezentrum des Havariekommandos (Zentrale Meldestelle), Am Alten Hafen 2, 27472 Cuxhaven, Tel.: + 49 (0) 4721/567-392, Fax: + 49 (0) 4721/554-744 oder -745. Die Zentrale Meldestelle betreibt zur Annahme der Meldungen im Internet das Zentrale Meldesystem für Gefahrgut und Schiffsverkehre der Bundesrepublik Deutschland (ZMGS).
+Zentrale Meldestelle im Sinne dieser Verordnung ist das Havariekommando (Zentrale Meldestelle), Am Alten Hafen 2, in 27472 Cuxhaven, Tel.: + 49 (0) 30 185420 1400, Fax: + 49 (0) 30 185420 2408. Das Havariekommando betreibt im Sinne des § 2 Nummer 4 des Seeschifffahrt-Meldeportal-Gesetzes das Zentrale Meldeportal des Bundes.
 
 2.3.2  
 Ersatzmeldestelle bei erweiterten Überprüfungen
 
-Ist dem Betreiber, Agent oder Schiffsführer eine Meldung nach Nummer 2.2.2 an die Zentrale Meldestelle nicht möglich, müssen die Angaben als elektronisches Dokument an die Berufsgenossenschaft für Transport und Verkehrswirtschaft, Ottenser Hauptstraße 54, 22765 Hamburg (E-Mail: psc-germany@bg-verkehr.de) gemeldet werden.
+Ist dem Betreiber, Agent oder Schiffsführer eine Meldung nach Nummer 2.2.2 an die Zentrale Meldestelle nicht möglich, müssen die Angaben als elektronisches Dokument an die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, Ottenser Hauptstraße 54, 22765 Hamburg (E-Mail: psc-germany@bg-verkehr.de) gemeldet werden.
 
 2.3.3  
 Meldeverfahren
 
-Der Betreiber, Agent oder Schiffsführer hat die nach den Nummern 2.1 und 2.2 erforderlichen Meldungen im ZMGS über das Internet unter www.zmgs.de vorzunehmen. Die Meldung muss Namen, Anschrift, Ruf- und Telefax-Nummer des Meldenden enthalten. Der meldende Betreiber, Agent oder Schiffsführer hat sicherzustellen, dass die erforderlichen Meldungen je Schiffsreise nur einmal abgegeben werden.
+Der Betreiber, der Agent oder der Schiffsführer hat die nach den Nummern 2.1 und 2.2 erforderlichen Meldungen über das Internet unter www.national-single-window.de im Zentralen Meldeportal des Bundes oder über die im Bundesanzeiger bekannt gemachten Hafenbehörden und Hafeninformationssysteme vorzunehmen. Die Meldung muss Namen, Anschrift, Ruf- und Telefax-Nummer des Meldenden enthalten. Der meldende Betreiber, Agent oder Schiffsführer hat sicherzustellen, dass die erforderlichen Meldungen je Schiffsreise nur einmal abgegeben werden.
 
 2.4  
 Möglichkeit der befreienden Meldung an eine Hafenbehörde
 
-Der Betreiber, Agent oder Schiffsführer eines Schiffes ist von der Meldung der Angaben nach den Nummern 2.1.1, 2.1.2 und 2.2.1 an die Zentrale Meldestelle befreit, wenn er diese Angaben einer Hafenbehörde gemeldet hat und die Hafenbehörde in der Lage ist, die Angaben der Zentralen Meldestelle auf deren Anfrage 24 Stunden am Tag unverzüglich im Wege der Datenfernübertragung zu übermitteln. Die Hafenbehörden, die diese Voraussetzung erfüllen, werden vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt und nachrichtlich auf der Internetseite der Zentralen Meldestelle unter www.zmgs.de bekannt gemacht.
+Der Betreiber, der Agent oder der Schiffsführer eines Schiffes ist von der Meldung der Angaben nach den Nummern 2.1.1, 2.1.2 und 2.2.1 an die Zentrale Meldestelle befreit, wenn er diese Angaben einer Hafenbehörde gemeldet hat und die Hafenbehörde in der Lage ist, die Angaben der Zentralen Meldestelle auf deren Anfrage 24 Stunden am Tag unverzüglich im Wege der Datenfernübertragung zu übermitteln. Die Hafenbehörden, die diese Voraussetzung erfüllen, werden vom Bundesministerium für Digitales und Verkehr im Verkehrsblatt und nachrichtlich auf der Internetseite der Zentralen Meldestelle unter www.national-single-window.de bekannt gemacht.
 
 2.5  
 Ausnahmeregelung für Liniendienste
@@ -259,17 +259,52 @@ Ausnahmeregelung für Liniendienste
 2.5.1  
 Nationale Liniendienste
 
-Liniendienste zwischen deutschen Häfen sind von der Pflicht zur Abgabe der Meldungen nach Nummer 2.2.1 befreit, soweit der Betreiber des jeweiligen Liniendienstes eine Liste der betreffenden Schiffe erstellt und aktualisiert sowie diese als elektronisches Dokument an die Zentrale Meldestelle (E-Mail: MLZ@havariekommando.de) übermittelt hat. Der Betreiber des jeweiligen Liniendienstes hat sicherzustellen, dass die Angaben nach Nummer 2.2.1 24 Stunden am Tag auf Anforderung der Zentralen Meldestelle unverzüglich übermittelt werden können.
+2.5.1.1  
+Befreiung von der Gefahrgutmeldung
 
-2.5.2  
-Internationale Liniendienste
+Schiffe eines Liniendienstes zwischen deutschen Häfen, der mindestens einen Monat lang betrieben werden soll, sind auf Fahrten von bis zu 12 Stunden planmäßiger Dauer von der Pflicht zur Abgabe der Meldung nach Nummer 2.2.1 befreit, soweit der Betreiber des jeweiligen Liniendienstes eine Liste der betreffenden Schiffe erstellt und laufend aktualisiert sowie diese als elektronisches Dokument an die Zentrale Meldestelle nach Nummer 2.3.1 (E-Mail: MLZ@havariekommando.de) übermittelt hat. Der Betreiber des jeweiligen Liniendienstes hat sicherzustellen, dass für jede Fahrt die Angaben nach Nummer 2.2.1 24 Stunden am Tag auf Anforderung der Zentralen Meldestelle unverzüglich übermittelt werden können. Jede Abweichung von drei oder mehr Stunden von der voraussichtlichen Zeit der Ankunft im Bestimmungshafen ist an die Zentrale Meldestelle (E-Mail: MLZ@havariekommando.de oder telefonisch: 030 54 18 20 1400) zu melden.
 
-Einem internationalen Liniendienst kann auf schriftlichen Antrag bei der Generaldirektion Wasserstraßen und Schifffahrt eine Ausnahme genehmigt werden, soweit die übrigen Mitgliedstaaten der Europäischen Union zugestimmt haben. Nach Erteilung der Genehmigung gilt Nummer 2.5.1 entsprechend.
+2.5.1.2  
+Befreiung von der Personenmeldung vor Einlaufen
+
+Fahrgastschiffe im Liniendienst zwischen deutschen Häfen, der mindestens einen Monat lang betrieben werden soll, sind von der Verpflichtung nach Nummer 2.1.1 Satz 1 und Satz 2 Buchstabe d, die Zahl der an Bord befindlichen Personen vor Einlaufen an die Zentrale Meldestelle zu melden, befreit,
+
+a) wenn die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation nach Abschnitt A.III.a. Nummer 1.2 Buchstabe c der Anlage 1 zur Schiffssicherheitsverordnung eine Befreiung für die Meldung der Personenanzahl vor Abfahrt nach Artikel 9 Absatz 2 Satz 1 der Richtlinie 98/41/EG des Rates vom 18. Juni 1998 über die Registrierung der an Bord von Fahrgastschiffen im Verkehr nach oder von einem Hafen eines Mitgliedstaates der Gemeinschaft befindlichen Personen (ABl. L 188 vom 2.7.1998, S. 35) in der jeweils geltenden Fassung erteilt hat und
+
+b) der Betreiber des jeweiligen Liniendienstes eine Liste der betreffenden Schiffe erstellt und laufend aktualisiert sowie diese als elektronisches Dokument an die Zentrale Meldestelle nach Nummer 2.3.1 (E-Mail: MLZ@havariekommando.de) übermittelt hat.
+
+Der Betreiber des jeweiligen Liniendienstes hat sicherzustellen, dass für jede Fahrt die Angabe nach Nummer 2.1.1 Satz 2 Buchstabe d 24 Stunden am Tag auf Anforderung der zuständigen Behörde unverzüglich übermittelt werden kann.
+
+2.5.1.3  
+Vereinfachte Personenmeldung
+
+Fahrgastschiffe im Liniendienst zwischen deutschen Häfen, der mindestens einen Monat lang betrieben werden soll, sind von der Pflicht zur Meldung der Angaben nach Nummer 2.1.1 Satz 2 Buchstabe c und d vor Einlaufen befreit, wenn vor Abfahrt eine Meldung der Zahl der Personen an Bord nach Artikel 4 Absatz 2 der Richtlinie 98/41/EG erfolgt. Der Betreiber des jeweiligen Liniendienstes muss eine Liste der betreffenden Schiffe erstellen und laufend aktualisieren sowie diese als elektronisches Dokument an die Zentrale Meldestelle nach Nummer 2.3.1 (E-Mail: MLZ@havariekommando.de) übermitteln. Der Betreiber des jeweiligen Liniendienstes hat sicherzustellen, dass für jede Fahrt die Angabe nach Nummer 2.1.1 Satz 2 Buchstabe c und d 24 Stunden am Tag auf Anforderung der zuständigen Behörde unverzüglich übermittelt werden kann.
+
+2.5.1.4  
+Befreiung von der Meldung vor Einlaufen
+
+Schiffe im Liniendienst zwischen deutschen Häfen, der mindestens einen Monat lang betrieben werden soll, sind von der Pflicht zur Meldung vor Einlaufen nach der Nummer 2.1.1 befreit, wenn
+
+a) das jeweilige Schiff keine gefährlichen oder umweltschädlichen Güter befördert oder wenn es nach Nummer 2.5.1.1 von der Meldung für Gefahrguttransporte befreit ist,
+
+b) eine Befreiung nach Nummer 2.5.1.2 Buchstabe a vorliegt,
+
+c) es sich nicht um ein Schiff im Sinne der Regel 2 Absatz 1.1 des Kapitels XI-2 der Anlage des SOLAS-Übereinkommens handelt oder eine Befreiung nach Artikel 7 Absatz 1 der Verordnung (EG) Nr. 725/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Erhöhung der Gefahrenabwehr auf Schiffen und in Hafenanlagen (ABl. L 129 vom 29.4.2004, S. 6) in der jeweils geltenden Fassung vorliegt und
+
+d) im Falle eines Fahrgastschiffes die zuständigen Behörden der vom Liniendienst bedienten Häfen eine Befreiung nach Artikel 9 der Richtlinie (EU) 2019/883 des Europäischen Parlaments und des Rates vom 17. April 2019 über Hafenauffangeinrichtungen für die Entladung von Abfällen von Schiffen, zur Änderung der Richtlinie 2010/65/EU und zur Aufhebung der Richtlinie 2000/59/EG (ABl. L 151 vom 7.6.2019, S. 116) erteilt haben.
+
+Der Betreiber des jeweiligen Liniendienstes muss eine Liste der betreffenden Schiffe erstellen und laufend aktualisieren sowie diese als elektronisches Dokument an die Zentrale Meldestelle nach Nummer 2.3.1 (E-Mail: MLZ@havariekommando.de) übermitteln. Der Betreiber des jeweiligen Liniendienstes hat sicherzustellen, dass für jede Fahrt 24 Stunden am Tag auf Anforderung der zuständigen Behörde unverzüglich
+
+a) die Angaben nach Nummer 2.1.1 Satz 2 Buchstabe c und d sowie
+
+b) der Nachweis über das Vorliegen der Voraussetzungen nach Satz 1
+
+übermittelt werden können.
 
 2.6  
 Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten nach der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 (ABl. L 283 vom 29.10.2010, S. 1)
 
-Meldungen, die nach der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten und zur Aufhebung der Richtlinie 2002/6/EG abzugeben sind und den verschiedenen zuständigen Behörden und den Mitgliedstaaten zur Verfügung zu stellen sind, können über die Zentrale Meldestelle abgegeben werden.
+Meldungen, die nach der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten und zur Aufhebung der Richtlinie 2002/6/EG abzugeben sind und den verschiedenen zuständigen Behörden und den Mitgliedstaaten zur Verfügung zu stellen sind, können über die Zentrale Meldestelle abgegeben werden. Für Sicherheitsmeldungen nach § 10 Absatz 3 der See-Eigensicherungsverordnung ist die elektronische Übermittlung im Sinne des Abschnitt A Nummer 5 des Anhangs der Richtlinie 2010/65/EU über das Zentrale Meldeportal des Bundes im Internet unter www.national-single-window.de vorzunehmen.
 
 3  
 Meldungen bei Anlaufen bestimmter Seegebiete

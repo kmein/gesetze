@@ -2334,6 +2334,7 @@
 - [GAPKondG](laws/GAPKondG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Konditionalität
 - [GAPKondV](laws/GAPKondV.md) Verordnung zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Konditionalität
 - [GAPStatG](laws/GAPStatG.md) Gesetz über die Statistiken zu Gesundheitsausgaben und ihrer Finanzierung, zu Krankheitskosten sowie zum Personal im Gesundheitswesen
+- [GAPStatV](laws/GAPStatV.md) Verordnung zur Durchführung der Erhebungen nach dem Gesundheitsausgaben- und -personalstatistikgesetz
 - [GarBBAnO](laws/GarBBAnO.md) Anordnung über den Bau und Betrieb von Garagen
 - [GArchDVDV](laws/GArchDVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen Archivdienst des Bundes
 - [GartAusbStEignV](laws/GartAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Gärtner/zur Gärtnerin
@@ -2982,6 +2983,7 @@
 - [InvZulG2005DV](laws/InvZulG2005DV.md) Verordnung zur Durchführung von § 5 Abs. 2 Satz 4 des Investitionszulagengesetzes 2005
 - [IRegBV](laws/IRegBV.md) Verordnung zum Betrieb des Implantateregisters Deutschland
 - [IRegG](laws/IRegG.md) Gesetz zum Implantateregister Deutschland
+- [IRegGebV](laws/IRegGebV.md) Verordnung über die Erhebung von Gebühren für individuell zurechenbare öffentliche Leistungen nach dem Implantateregistergesetz und der Implantateregister-Betriebsverordnung
 - [IRENASa](laws/IRENASa.md) Satzung der Internationalen Organisation für erneuerbare Energien
 - [IRENASaG](laws/IRENASaG.md) Gesetz zu der Satzung vom 26. Januar 2009 der Internationalen Organisation für erneuerbare Energien
 - [IRENASitzAbk](laws/IRENASitzAbk.md) Abkommen zwischen der Bundesrepublik Deutschland und der Internationalen Organisation für erneuerbare Energien über den Sitz des IRENA-Innovations- und Technologiezentrums
@@ -3594,7 +3596,6 @@
 - [LwRentBkG](laws/LwRentBkG.md) Gesetz über die Landwirtschaftliche Rentenbank
 - [LwVfG](laws/LwVfG.md) Gesetz über das gerichtliche Verfahren in Landwirtschaftssachen
 - [MAbkMadridGemAO 1996](laws/MAbkMadridGemAO_1996.md) Gemeinsame Ausführungsordnung zum Madrider Abkommen über die internationale Registrierung von Marken und zum Protokoll zu diesem Abkommen
-- [MAbkMadridProt](laws/MAbkMadridProt.md) Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken, angenommen in Madrid am 27. Juni 1989
 - [MAbkMadridProtÄnd](laws/MAbkMadridProtÄnd.md) Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken, angenommen in Madrid am 27. Juni 1989
 - [MaBV](laws/MaBV.md) Verordnung über die Pflichten der Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer und Wohnimmobilienverwalter
 - [MADG](laws/MADG.md) Gesetz über den militärischen Abschirmdienst
