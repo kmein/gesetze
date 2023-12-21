@@ -500,10 +500,6 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 (+++ § 113 Abs. 6: Inkraft gem. Art. 60 Abs. 3 Nr. 1 G vom 12.12.2019 I 2652 mWv 20.12.2019 +++)  
 (+++ § 113 Abs. 1 bis 5: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 in Kraft +++)
 
-# § 114 – (zukünftig in Kraft)
-
-(+++ § 114: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
-
 # § 115 – Erleichtertes Verfahren bei Leistungen der Schnellen Hilfen
 
 (1) Leistungen der Schnellen Hilfen werden in der Regel im Erleichterten Verfahren erbracht.

@@ -221,7 +221,7 @@ Ab dem zweiten Ausbildungsdrittel hat die oder der Auszubildende in der praktisc
 
 a) nach § 1 Absatz 1, § 2 Absatz 1 oder § 69 Absatz 1 oder 3 des Anästhesietechnische- und Operationstechnische-Assistenten-Gesetzes verfügt oder
 
-b) nach § 1 Absatz 1, § 58 Absatz 1 oder 2 oder nach § 64 des Pflegeberufegesetzes verfügt und eine Fachweiterbildung für den Operationsdienst oder eine Fachweiterbildung für die Intensivpflege und Anästhesie, für die Anästhesie oder eine gleichwertige Fachweiterbildung erfolgreich absolviert hat,
+b) nach § 1, § 58 Absatz 1 oder 2 oder nach § 64 des Pflegeberufegesetzes verfügt und eine Fachweiterbildung für den Operationsdienst oder eine Fachweiterbildung für die Intensivpflege und Anästhesie, für die Anästhesie oder eine gleichwertige Fachweiterbildung erfolgreich absolviert hat,
 
 2. über Berufserfahrung in dem jeweiligen Berufsfeld von mindestens einem Jahr verfügt,
 

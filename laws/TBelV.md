@@ -7,7 +7,7 @@ Auf Grund des § 25 Absatz 1 in Verbindung mit Absatz 3 in Verbindung mit Absatz
 
 # § 1 – Beleihung
 
-Mit den Aufgaben der registerführenden Stelle, insbesondere mit der Führung des Transparenzregisters, und mit den hierfür erforderlichen Befugnissen nach Abschnitt 4 des Geldwäschegesetzes beliehen wird die Bundesanzeiger Verlag GmbH, eingetragen im Handelsregister beim Amtsgericht Köln, HRB 31248. Die Beleihung ist bis zum 31. Dezember 2024 befristet.
+Mit den Aufgaben der registerführenden Stelle, insbesondere mit der Führung des Transparenzregisters, und mit den hierfür erforderlichen Befugnissen nach Abschnitt 4 des Geldwäschegesetzes beliehen wird die Bundesanzeiger Verlag GmbH, eingetragen im Handelsregister beim Amtsgericht Köln, HRB 31248. Die Beleihung ist bis zum 31. Dezember 2031 befristet.
 
 # § 2 – Finanzierung des Beliehenen und Übertragung der Vollstreckung an den Beliehenen
 
@@ -57,4 +57,4 @@ Mit den Aufgaben der registerführenden Stelle, insbesondere mit der Führung de
 
 # § 5 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt am 31. Dezember 2024 außer Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt am 31. Dezember 2031 außer Kraft.
