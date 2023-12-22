@@ -949,6 +949,8 @@ Die in diesem Gesetz vorgesehenen Anmeldungen zum Handelsregister sind durch die
 
 (2) In Ansehung der in §§ 7, 54, 57 Abs. 1, § 58 Abs. 1 Nr. 3 ... bezeichneten Anmeldungen zum Handelsregister findet, soweit es sich um die Anmeldung zum Handelsregister des Sitzes der Gesellschaft handelt, eine Festsetzung von Zwangsgeld nach § 14 des Handelsgesetzbuchs nicht statt.
 
+(+++ § 79 Abs. 2: Auslassung abhängig von dem aufgeh. § 80 dieses G ++)
+
 # § 80 – (weggefallen)
 
 # § 81 – (weggefallen)
