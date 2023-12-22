@@ -1,7 +1,7 @@
 % Verordnung zur Bekämpfung von Salmonellen beim Haushuhn und bei Puten  (Geflügel-Salmonellen-Verordnung - GflSalmoV)
 % Ausfertigungsdatum: 06.04.2009
  
-# Inhaltsverzeichnis
+# Inhaltsübersicht
 
 # § 1 – Begriffsbestimmungen
 
@@ -103,7 +103,7 @@ gehalten werden, die Impfung gegen Salmonellen der Kategorie 1 oder 2 anordnen, 
 
 (2) Unbeschadet der Mitteilungspflicht nach Absatz 1 hat der Unternehmer eines Legehennenbetriebes Feststellungen von Salmonellen vor ihrer serologischen Identifizierung (Serotypisierung) unverzüglich der zuständigen Behörde mitzuteilen.
 
-(3) Untersuchungseinrichtungen im Sinne des § 1 Absatz 1 Nummer 6 haben bei Untersuchungen auf Betreiben des Unternehmers eines Hühnerzuchtbetriebes oder einer Hühnerbrüterei Feststellungen von Salmonellen der Kategorie 1 oder 2 oder von Salmonella Gallinarum Pullorum nach § 1 Absatz 2 Nummer 1 unverzüglich der zuständigen Behörde mitzuteilen.
+(3) Untersuchungseinrichtungen im Sinne des § 1 Absatz 1 Nummer 6 haben bei Untersuchungen auf Betreiben des Unternehmers eines Hühnerzuchtbetriebes oder einer Hühnerbrüterei Feststellungen von Salmonellen der Kategorie 1 oder 2 oder von Salmonella Gallinarum Pullorum nach § 1 Absatz 2 Nummer 1 unverzüglich der zuständigen Behörde mitzuteilen.
 
 # § 5 – Untersuchungseinrichtung
 
@@ -137,7 +137,7 @@ Flüssige Abgänge und Dung aus den Geflügelställen oder sonstigen Standorten 
 
 (3) Abweichend von Absatz 2 Satz 1 dürfen Futtermittel, die außerhalb des Stalles in geschlossenen Behältern gelagert worden sind, auch weiterhin verfüttert werden, soweit
 
-1. bei einer Probenahme und Analyse der Futtermittel nach den Vorschriften der Verordnung (EG) Nr. 152/2009 der Kommission vom 27. Januar 2009 zur Festlegung der Probenahmeverfahren und Analysemethoden für die amtliche Untersuchung von Futtermitteln (ABl. L 54 vom 26.2.2009, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2022/893 der Kommission vom 7. Juni 2022 (Abl. L 155 vom 8.6.2022, S. 24) geändert worden ist, kein Befall mit Salmonellen der Kategorie 1 festgestellt wird oder
+1. bei einer Probenahme und Analyse der Futtermittel nach den Vorschriften der Verordnung (EG) Nr. 152/2009 der Kommission vom 27. Januar 2009 zur Festlegung der Probenahmeverfahren und Analysemethoden für die amtliche Untersuchung von Futtermitteln (ABl. L 54 vom 26.2.2009, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2022/893 der Kommission vom 7. Juni 2022 (ABl. L 155 vom 8.6.2022, S. 24) geändert worden ist, kein Befall mit Salmonellen der Kategorie 1 festgestellt wird oder
 
 2. durch eine epidemiologische Untersuchung andere Ursachen für die festgestellten Salmonellen der Kategorie 1 als der Befall der Futtermittel festgestellt worden sind.
 
@@ -241,6 +241,12 @@ verbracht werden.
 
 1. die Hühner des betroffenen Betriebes oder der betroffenen Herde unverzüglich
 
+a) unter Beachtung des Artikels 2 der Verordnung (EG) Nr. 1177/2006 der Kommission vom 1. August 2006 zur Durchführung der Verordnung (EG) Nr. 2160/2003 des Europäischen Parlaments und des Rates hinsichtlich der Bestimmungen über die Anwendung von spezifischen Bekämpfungsmethoden im Rahmen der nationalen Programme zur Bekämpfung von Salmonellen bei Geflügel (ABl. L 212 vom 2.8.2006, S. 3) in der jeweils geltenden Fassung zu behandeln oder behandeln zu lassen,
+
+b) unter Beachtung des Artikels 3 Absatz 1 der Verordnung (EG) Nr. 1177/2006 zu impfen oder impfen zu lassen oder
+
+c) zu töten oder töten zu lassen und unschädlich zu beseitigen,
+
 2. die Eier des betroffenen Betriebes oder der betroffenen Herde unverzüglich
 
 a) unmittelbar zur Verarbeitung in einen nach Artikel 4 Absatz 2 der Verordnung (EG) Nr. 853/2004 zugelassenen Verarbeitungsbetrieb für Eiprodukte zu verbringen,
@@ -323,7 +329,7 @@ Im Falle einer Mitteilung nach § 4 Absatz 1 kann die zuständige Behörde eine 
 
 # § 15 – Maßregeln nach Feststellung von Salmonellen
 
-Sind in einem Hühneraufzuchtbetrieb Salmonellen der Kategorie 1 festgestellt worden, gilt § 10 entsprechend.
+Sind in einem Hühneraufzuchtbetrieb Salmonellen der Kategorie 1 festgestellt worden, gilt § 10 entsprechend.
 
 (+++ § 15: Zur Anwendung vgl. § 16 Abs. 1 +++)
 
@@ -349,7 +355,7 @@ Satz 1 gilt auch für Betriebe, in denen weniger als 350 Legehennen erwerbsmäß
 
 # § 18 – Betriebseigene Kontrollen
 
-(1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat der Unternehmer eines Legehennenbetriebes sicherzustellen, dass in den Herden seines Betriebes während der Legephase Proben nach Maßgabe der Nummern 2.1 und 2.2 des Anhangs der Verordnung (EU) Nr. 517/2011 entnommen und diese Proben nach Maßgabe der Nummern 3.1 bis 3.4 des Anhangs der Verordnung (EU) Nr. 517/2011 in einer Untersuchungseinrichtung untersucht werden. Eine Probenahme und Untersuchung nach Satz 1 ist nicht erforderlich, soweit eine amtliche Untersuchung nach § 19 durchgeführt wird. Eine Probenahme und Untersuchung nach Satz 1 bedarf es ferner nicht in Legehennenbetrieben, die weniger als 1 000 Legehennen halten, soweit dort Maßnahmen im Rahmen eines betriebseigenen Qualitätssicherungssystems zur Vermeidung der Ein- und Verschleppung von Salmonellen der Kategorie 1 durchgeführt werden. Die Maßnahmen nach Satz 3 sind vor ihrer Anwendung mit der zuständigen Behörde abzustimmen. Der Unternehmer eines Legehennenbetriebes hat über die nach Satz 1 durchgeführten Maßnahmen Aufzeichnungen zu führen und die Aufzeichnungen drei Jahre lang, gerechnet vom Datum der jeweiligen Aufzeichnung, aufzubewahren.
+(1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat der Unternehmer eines Legehennenbetriebes sicherzustellen, dass in den Herden seines Betriebes während der Legephase Proben nach Maßgabe der Nummern 2.1 und 2.2 des Anhangs der Verordnung (EU) Nr. 517/2011 entnommen und diese Proben nach Maßgabe der Nummern 3.1 bis 3.4 des Anhangs der Verordnung (EU) Nr. 517/2011 in einer Untersuchungseinrichtung untersucht werden. Eine Probenahme und Untersuchung nach Satz 1 ist nicht erforderlich, soweit eine amtliche Untersuchung nach § 19 durchgeführt wird. Eine Probenahme und Untersuchung nach Satz 1 bedarf es ferner nicht in Legehennenbetrieben, die weniger als 1000 Legehennen halten, soweit dort Maßnahmen im Rahmen eines betriebseigenen Qualitätssicherungssystems zur Vermeidung der Ein- und Verschleppung von Salmonellen der Kategorie 1 durchgeführt werden. Die Maßnahmen nach Satz 3 sind vor ihrer Anwendung mit der zuständigen Behörde abzustimmen. Der Unternehmer eines Legehennenbetriebes hat über die nach Satz 1 durchgeführten Maßnahmen Aufzeichnungen zu führen und die Aufzeichnungen drei Jahre lang, gerechnet vom Datum der jeweiligen Aufzeichnung, aufzubewahren.
 
 (2) § 8 Absatz 3 gilt für die Untersuchungen nach Absatz 1 entsprechend.
 
@@ -381,7 +387,7 @@ verbracht werden.
 
 Satz 1 gilt im Falle einer Untersuchung, die nach Maßgabe der Nummer 2.1 Satz 4 des Anhangs der Verordnung (EU) Nr. 517/2011 durchgeführt wird, entsprechend.
 
-(2) Die zuständige Behörde kann auf Basis einer Mitteilung nach § 4 Absatz 2 auch vor der Serotypisierung der Salmonellen Maßnahmen nach Absatz 1 anordnen.
+(2) Die zuständige Behörde kann auf Basis einer Mitteilung nach § 4 Absatz 2 auch vor der Serotypisierung der Salmonellen Maßnahmen nach Absatz 1 anordnen.
 
 (+++ § 20: Zur Anwendung vgl. § 21 Abs. 1 +++)
 
@@ -393,7 +399,7 @@ Satz 1 gilt im Falle einer Untersuchung, die nach Maßgabe der Nummer 2.1 Satz 4
 
 2. im Fall einer Anordnung nach § 20 Absatz 2 bei der Serotypisierung eine Feststellung von Salmonellen der Kategorie 1 nicht erfolgt ist.
 
-(2) Salmonellen der Kategorie 1 gelten als bekämpft sofern,
+(2) Salmonellen der Kategorie 1 gelten als bekämpft, sofern
 
 1. alle Hühner und Eier aus dem betroffenen Betrieb oder aus der betroffenen Herde entfernt worden sind und
 
@@ -411,7 +417,7 @@ Im Falle einer Mitteilung nach § 4 Absatz 1 kann die zuständige Behörde eine 
 
 # § 24 – Maßregeln nach Feststellung von Salmonellen
 
-Sind in einem Hähnchenmastbetrieb Salmonellen der Kategorie 1 festgestellt worden, gilt § 10 Absatz 1 entsprechend.
+Sind in einem Hähnchenmastbetrieb Salmonellen der Kategorie 1 festgestellt worden, gilt § 10 Absatz 1 entsprechend.
 
 (+++ § 24: Zur Anwendung vgl. § 25 Abs. 1 +++)
 
@@ -423,7 +429,7 @@ Sind in einem Hähnchenmastbetrieb Salmonellen der Kategorie 1 festgestellt word
 
 1. alle Hühner aus dem betroffenen Betrieb oder aus der betroffenen Herde entfernt worden sind und
 
-2. eine Reinigung und Desinfektion nach § 7 Absatz 1 Satz 1 sowie eine Bekämpfung von Schadnagern, Schadinsekten und Parasiten nach § 7 Absatz 1 Satz 2 durchgeführt worden ist.
+2. eine Reinigung und Desinfektion nach § 7 Absatz 1 Satz 1 sowie eine Bekämpfung von Schadnagern, Schadinsekten und Parasiten nach § 7 Absatz 1 Satz 2 durchgeführt worden ist.
 
 # § 26 – Betriebseigene Kontrollen
 
@@ -481,7 +487,7 @@ In den Fällen der Feststellung von Salmonellen der Kategorie 2 gelten diese als
 
 1. alle Eintagsküken
 
-a) in einen anderen Betrieb oder in eine andere Herde umgestallt und dort nach § 10 Absatz 2 Nummer 1 Buchstabe a behandelt oder nach § 10 Absatz 2 Nummer 1 Buchstabe b geimpft und
+a) in einen anderen Betrieb oder in eine andere Herde umgestallt und dort nach § 10 Absatz 2 Nummer 1 Buchstabe a behandelt oder nach § 10 Absatz 2 Nummer 1 Buchstabe b geimpft und
 
 b) frühestens zwei Wochen nach der Umstallung mit negativem Ergebnis auf Salmonellen der Kategorie 2 nach § 9 untersucht und
 
@@ -493,7 +499,7 @@ worden sind.
 
 (1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat der Unternehmer eines
 
-1. Putenzuchtbetriebes sicherzustellen, dass in den Herden seines Betriebes Proben nach Maßgabe der Nummer 2.1 Buchstabe a Ziffer i bis iii und der Nummern 2.2.1, 2.2.2 und 2.2.4 des Anhangs der Verordnung (EU) Nr. 1190/2012 in Verbindung mit Nummer 2.2 des Anhangs der Verordnung (EU) Nr. 200/2010 entnommen und transportiert sowie nach Maßgabe der Nummern 3.1 bis 3.4 des Anhangs der Verordnung (EU) Nr. 1190/2012 behandelt und in einer Untersuchungseinrichtung untersucht werden,
+1. Putenzuchtbetriebes sicherzustellen, dass in den Herden seines Betriebes Proben nach Maßgabe der Nummer 2.1 Buchstabe a Ziffern i bis iii und der Nummern 2.2.1, 2.2.2 und 2.2.4 des Anhangs der Verordnung (EU) Nr. 1190/2012 in Verbindung mit Nummer 2.2 des Anhangs der Verordnung (EU) Nr. 200/2010 entnommen und transportiert sowie nach Maßgabe der Nummern 3.1 bis 3.4 des Anhangs der Verordnung (EU) Nr. 1190/2012 behandelt und in einer Untersuchungseinrichtung untersucht werden,
 
 2. Putenmastbetriebes sicherzustellen, dass in den Herden seines Betriebes Proben nach Maßgabe der Nummer 2.1 Buchstabe a Ziffer i und der Nummern 2.2.1, 2.2.2 und 2.2.4 des Anhangs der Verordnung (EU) Nr. 1190/2012 entnommen und transportiert sowie nach Maßgabe der Nummern 3.1 bis 3.4 des Anhangs der Verordnung (EU) Nr. 1190/2012 behandelt und in einer Untersuchungseinrichtung untersucht werden.
 
@@ -509,7 +515,7 @@ Im Falle einer Mitteilung nach § 4 Absatz 1 kann die zuständige Behörde eine 
 
 # § 32 – Maßregeln nach Feststellung von Salmonellen
 
-Sind in einem Putenzuchtbetrieb, einem Putenmastbetrieb oder einer Putenbrüterei Salmonellen der Kategorie 1 festgestellt worden, dürfen Puten und Eier aus dem betroffenen Betrieb oder aus der betroffenen Herde, aus der betroffenen Putenbrüterei oder, im Falle von lüftungstechnisch getrennten Brütern, aus dem betroffenen Brüter nicht verbracht werden. Satz 1 gilt nicht, soweit
+Sind in einem Putenzuchtbetrieb, einem Putenmastbetrieb oder einer Putenbrüterei Salmonellen der Kategorie 1 festgestellt worden, dürfen Puten und Eier aus dem betroffenen Betrieb oder aus der betroffenen Herde, aus der betroffenen Putenbrüterei, oder, im Falle von lüftungstechnisch getrennten Brütern, aus dem betroffenen Brüter, nicht verbracht werden. Satz 1 gilt nicht, soweit
 
 1. Puten
 
@@ -571,7 +577,7 @@ erforderlichen Angaben.
 
 (1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 2 Absatz 2 Satz 2, § 7 Absatz 1 Satz 4, § 8 Absatz 3 Nummer 3, auch in Verbindung mit § 13 Absatz 2 oder § 26 Absatz 3, entgegen § 12 Absatz 1 Satz 4, § 18 Absatz 1 Satz 5, § 22 Absatz 1 Satz 3, § 30 Absatz 1 Satz 3 oder Absatz 2 Satz 3 das Ergebnis einer Untersuchung, ein Protokoll oder eine Aufzeichnung nicht, nicht vollständig oder nicht für die vorgeschriebene Dauer aufbewahrt,
+1. entgegen § 2 Absatz 2 Satz 2, § 7 Absatz 1 Satz 4, § 8 Absatz 3 Nummer 3, auch in Verbindung mit § 13 Absatz 2 oder § 26 Absatz 3, entgegen § 12 Absatz 1 Satz 4, § 18 Absatz 1 Satz 5, § 22 Absatz 1 Satz 3, § 30 Absatz 1 Satz 3 oder Absatz 2 Satz 3 das Ergebnis einer Untersuchung, ein Protokoll oder eine Aufzeichnung nicht, nicht vollständig oder nicht für die vorgeschriebene Dauer aufbewahrt,
 
 2. einer vollziehbaren Anordnung nach § 3 Satz 1 oder § 34 Absatz 1 zuwiderhandelt,
 
@@ -607,7 +613,7 @@ erforderlichen Angaben.
 
 # Anlage – (zu § 2 Absatz 1)Anforderungen an gewerbsmäßige Geflügelhaltungen
 
-(Fundstelle: BGBl. I 2014, 71 - 72)
+(Fundstelle: BGBl. 2023 I Nr. 381, S. 18 – 19)
 
 1. Geflügelhaltungen in Stalleinheiten oder in Ausläufen sind im Rein-Raus-Verfahren mit Geflügel zu besetzen. Der Unternehmer eines Hühneraufzuchtbetriebes oder eines Legehennenbetriebes kann von den Maßgaben nach Satz 1 abweichen, soweit durch ein betriebseigenes System zur Qualitätssicherung sichergestellt ist, dass über die Maßgaben der §§ 12 und 17 Satz 1 Nummer 2 hinaus ein Impfprogramm mit jeweils einem gegen Salmonella Enteritidis und Salmonella Typhimurium gerichteten Impfstoff nach dem Stand der Wissenschaft und Technik durchgeführt wird und Maßnahmen zur Vermeidung einer Infektion mit Salmonellen in dem Aufzuchtbetrieb oder dem Legehennenbetrieb ergriffen werden, insbesondere die regelmäßige Entfernung der verendeten Tiere aus den Haltungseinrichtungen, die Lagerung der Futtermittel in geschlossenen Räumen sowie die regelmäßige Reinigung und Desinfektion der Räume und Behältnisse, in denen die Futtermittel aufbewahrt werden. In das System zur Qualitätssicherung ist ein Tierarzt einzubeziehen. Der Unternehmer hat über die nach Satz 2 ergriffenen Maßnahmen Aufzeichnungen zu führen und diese Aufzeichnungen drei Jahre lang, gerechnet vom Tag der jeweiligen Aufzeichnung, aufzubewahren.
 
@@ -627,9 +633,7 @@ erforderlichen Angaben.
 
 1. Die Stallgebäude und Auslaufeinrichtungen zur Haltung des Geflügels sowie deren Nebenräume, die der Versorgung, Lagerung oder Entsorgung von Geflügel oder von Geflügel stammenden Produkten dienen, müssen sich in einem baulichen Zustand befinden, der eine ordnungsgemäße Reinigung, eine wirksame Desinfektion sowie eine ordnungsgemäße Fliegen-, Parasiten- und Schadnagerbekämpfung ermöglicht.
 
-2. Stallbereiche müssen baulich so voneinander getrennt sein, dass eine Verschleppung von Salmonellen über die Lüftung, den Materialfluss, die Mistbänder oder die Eierbänder unterbunden wird. Die Stallgebäude dürfen nicht durch technische Einrichtungen, insbesondere Futterzuführungen, Mistbänder oder Eierbänder, verbunden sein. Satz 2 gilt nicht für Eierbänder, soweit sie in einer Hygieneschleuse gereinigt und desinfiziert werden. Auslaufhaltungen gelten baulich und lüftungstechnisch als getrennt, wenn sie an jeder Stelle mindestens 10 Meter voneinander entfernt sind. Der Unternehmer eines Hühneraufzuchtbetriebes oder eines Legehennenbetriebes kann bei bestehenden Anlagen von den Maßgaben nach den Sätzen 2 bis 4 abweichen, soweit durch ein betriebseigenes System zur Qualitätssicherung sichergestellt ist, dass über die Maßgaben der §§ 12 und 17 Satz 1 Nummer 2 hinaus ein Impfprogramm mit jeweils einem gegen Salmonella Enteritidis und Salmonella Typhimurium gerichteten Impfstoff nach dem Stand der Wissenschaft und Technik durchgeführt wird und Maßnahmen zur Verminderung des Salmonelleneintrages in dem Hühneraufzuchtbetrieb oder dem Legehennenbetrieb ergriffen werden, insbesondere die regelmäßige Entfernung der verendeten Tiere aus den Haltungseinrichtungen, die Lagerung der Futtermittel in geschlossenen Räumen sowie die regelmäßige Reinigung und Desinfektion der Räume und Behältnisse, in denen die Futtermittel aufbewahrt werden. In das System zur Qualitätssicherung ist ein Tierarzt einzubeziehen.
-
-Der Besitzer hat über die Maßnahmen Aufzeichnungen zu führen und diese Aufzeichnungen drei Jahre lang, gerechnet vom Tag der jeweiligen Aufzeichnung, aufzubewahren.
+2. Stallbereiche müssen baulich so voneinander getrennt sein, dass eine Verschleppung von Salmonellen über die Lüftung, den Materialfluss, die Mistbänder oder die Eierbänder unterbunden wird. Die Stallgebäude dürfen nicht durch technische Einrichtungen, insbesondere Futterzuführungen, Mistbänder oder Eierbänder, verbunden sein. Satz 2 gilt nicht für Eierbänder, soweit sie in einer Hygieneschleuse gereinigt und desinfiziert werden. Auslaufhaltungen gelten baulich und lüftungstechnisch als getrennt, wenn sie an jeder Stelle mindestens 10 Meter voneinander entfernt sind. Der Unternehmer eines Hühneraufzuchtbetriebes oder eines Legehennenbetriebes kann bei bestehenden Anlagen von den Maßgaben nach den Sätzen 2 bis 4 abweichen, soweit durch ein betriebseigenes System zur Qualitätssicherung sichergestellt ist, dass über die Maßgaben der §§ 12 und 17 Satz 1 Nummer 2 hinaus ein Impfprogramm mit jeweils einem gegen Salmonella Enteritidis und Salmonella Typhimurium gerichteten Impfstoff nach dem Stand der Wissenschaft und Technik durchgeführt wird und Maßnahmen zur Verminderung des Salmonelleneintrages in dem Hühneraufzuchtbetrieb oder dem Legehennenbetrieb ergriffen werden, insbesondere die regelmäßige Entfernung der verendeten Tiere aus den Haltungseinrichtungen, die Lagerung der Futtermittel in geschlossenen Räumen sowie die regelmäßige Reinigung und Desinfektion der Räume und Behältnisse, in denen die Futtermittel aufbewahrt werden. In das System zur Qualitätssicherung ist ein Tierarzt einzubeziehen. Der Besitzer hat über die Maßnahmen Aufzeichnungen zu führen und diese Aufzeichnungen drei Jahre lang, gerechnet vom Tag der jeweiligen Aufzeichnung, aufzubewahren.
 
 3. Jeder Hühnerzuchtbetrieb, Hühneraufzuchtbetrieb, Legehennenbetrieb, Hähnchenmastbetrieb, Putenzuchtbetrieb, Putenmastbetrieb, jede Hühnerbrüterei oder Putenbrüterei muss mit einer Hygieneschleuse in jeder Herde ausgestattet sein. In jeder Schleuse müssen die Voraussetzungen gegeben sein, dass sich das Personal vor dem Betreten und beim Verlassen der Geflügelhaltung umkleiden, die Schuhe wechseln, Einmalschuhüberzieher beseitigen und die Hände waschen kann sowie Gerätschaften gereinigt und desinfiziert werden können. Die Hygieneschleuse ist so einzurichten, dass sie regelmäßig nass gereinigt und desinfiziert werden kann. Die Hygieneschleuse muss über ein Handwaschbecken mit Frischwasserversorgung und einen Abfluss oder eine Auffangmöglichkeit für Abwasser zur Reinigung und Desinfektion von Schuhen und Gerätschaften verfügen. Darüber hinaus müssen feste Vorrichtungen vorhanden sein, die eine getrennte Aufbewahrung der abgelegten Kleidung einschließlich des Schuhwerks ermöglichen, die in der reinen und unreinen Seite jeweils getragen werden.
 

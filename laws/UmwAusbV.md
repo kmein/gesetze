@@ -875,7 +875,7 @@ Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung best
 
 # § 29 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2002 in Kraft.
+Diese Verordnung tritt am 1. August 2002 in Kraft.Gleichzeitig tritt die Ver- und Entsorger-Ausbildungsverordnung vom 30. Mai 1984 (BGBl. I S. 731) außer Kraft.
 
 # Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserversorgungstechnik
 
