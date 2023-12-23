@@ -515,7 +515,7 @@ Im Falle einer Mitteilung nach § 4 Absatz 1 kann die zuständige Behörde eine 
 
 # § 32 – Maßregeln nach Feststellung von Salmonellen
 
-Sind in einem Putenzuchtbetrieb, einem Putenmastbetrieb oder einer Putenbrüterei Salmonellen der Kategorie 1 festgestellt worden, dürfen Puten und Eier aus dem betroffenen Betrieb oder aus der betroffenen Herde, aus der betroffenen Putenbrüterei, oder, im Falle von lüftungstechnisch getrennten Brütern, aus dem betroffenen Brüter, nicht verbracht werden. Satz 1 gilt nicht, soweit
+Sind in einem Putenzuchtbetrieb, einem Putenmastbetrieb oder einer Putenbrüterei Salmonellen der Kategorie 1 festgestellt worden, dürfen Puten und Eier aus dem betroffenen Betrieb oder aus der betroffenen Herde, aus der betroffenen Putenbrüterei oder, im Falle von lüftungstechnisch getrennten Brütern, aus dem betroffenen Brüter nicht verbracht werden. Satz 1 gilt nicht, soweit
 
 1. Puten
 

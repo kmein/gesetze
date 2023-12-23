@@ -1668,20 +1668,6 @@ Liegen zureichende tatsächliche Anhaltspunkte dafür vor, dass ein Notar oder e
 
 3. die Erhebung der Nachtragsdisziplinarklage.
 
-# § 96 – Anwendung der Vorschriften des Bundesdisziplinargesetzes; Verordnungsermächtigung
-
-(1) Soweit in diesem Gesetz nichts Abweichendes bestimmt ist, sind die Vorschriften des Bundesdisziplinargesetzes entsprechend anzuwenden. Die in diesen Vorschriften den Dienstvorgesetzten zugewiesenen Aufgaben und Befugnisse nehmen die Aufsichtsbehörden, die Aufgaben und Befugnisse der obersten Dienstbehörde nimmt die Landesjustizverwaltung wahr.
-
-(2) Mit der Durchführung der Ermittlungen ist eine Person zu beauftragen, die die Befähigung zum Richteramt hat. Zur Durchführung einer gerichtlichen Vernehmung gemäß § 25 Absatz 2 des Bundesdisziplinargesetzes kann das Gericht das Amtsgericht um Rechtshilfe ersuchen.
-
-(3) Die über § 3 des Bundesdisziplinargesetzes anzuwendenden Vorschriften der Verwaltungsgerichtsordnung über die Mitwirkung ehrenamtlicher Richter finden keine Anwendung. Die Fristen des § 3 des Bundesdisziplinargesetzes in Verbindung mit § 116 Absatz 2 und § 117 Absatz 4 der Verwaltungsgerichtsordnung betragen jeweils fünf Wochen.
-
-(4) Von der Anwendbarkeit des § 41 Absatz 1 Satz 1 des Bundesdisziplinargesetzes kann durch Landesgesetz abgesehen werden. Die Landesregierungen werden ermächtigt, die in Absatz 1 Satz 2 genannten Aufgaben und Befugnisse durch Rechtsverordnung auf den Landesjustizverwaltungen nachgeordnete Behörden zu übertragen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
-
-(5) Auf den Rechtsschutz bei überlangen Gerichtsverfahren sind die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes anzuwenden. Die Vorschriften dieses Gesetzes, die die Besetzung des Oberlandesgerichts und des Bundesgerichtshofs in Disziplinarsachen gegen Notare regeln, sind nicht anzuwenden.
-
-(6) In Disziplinarverfahren gegen Notare hat das Gericht die Notarkammer, deren Mitglied der Notar ist, von dem Termin der Verhandlung zu benachrichtigen. Vertretern der Notarkammer, die einer Verschwiegenheitspflicht nach § 69a Absatz 1 unterliegen, soll zu einer nicht öffentlichen Verhandlung der Zutritt gestattet werden.
-
 # § 97 – Disziplinarmaßnahmen
 
 (1) Im Disziplinarverfahren können folgende Maßnahmen verhängt werden:
@@ -1758,10 +1744,6 @@ Der Vorsitzende, der mindestens Vorsitzender Richter am Oberlandesgericht sein m
 
 (3) Die Landesjustizverwaltung kann einen Beisitzer auf seinen Antrag aus dem Amt entlassen, wenn er aus gesundheitlichen Gründen auf nicht absehbare Zeit gehindert oder es ihm aus gewichtigen persönlichen Gründen nicht zuzumuten ist, sein Amt weiter auszuüben.
 
-# § 105 – Anfechtung von Entscheidungen des Oberlandesgerichts
-
-Für die Anfechtung von Entscheidungen des Oberlandesgerichts gelten die Vorschriften des Bundesdisziplinargesetzes über die Anfechtung von Entscheidungen des Verwaltungsgerichts entsprechend.
-
 # § 106 – Besetzung des Bundesgerichtshofs
 
 Der Bundesgerichtshof entscheidet in Disziplinarsachen gegen Notare in der Besetzung mit dem Vorsitzenden, zwei Richtern und zwei Notaren als Beisitzern.
@@ -1781,10 +1763,6 @@ Der Vorsitzende, der mindestens Vorsitzender Richter am Bundesgerichtshof sein m
 (4) Die Notare haben über Angelegenheiten, die ihnen bei ihrer Tätigkeit als Beisitzer bekannt werden, Verschwiegenheit zu bewahren. § 69a Absatz 1 Satz 1 und 2, Absatz 2 ist entsprechend anzuwenden. Die Genehmigung zur Aussage erteilt der Präsident des Bundesgerichtshofes.
 
 (5) Die zu Beisitzern berufenen Notare sind zu den einzelnen Sitzungen in der Reihenfolge einer Liste heranzuziehen, die der Vorsitzende des Senats nach Anhörung der beiden ältesten der zu Beisitzern berufenen Notare vor Beginn des Geschäftsjahres aufstellt.
-
-# § 109 – Anzuwendende Verfahrensvorschriften
-
-Auf das Verfahren des Bundesgerichtshofs in Disziplinarsachen gegen Notare sind die Vorschriften des Bundesdisziplinargesetzes über das Disziplinarverfahren vor dem Oberverwaltungsgericht entsprechend anzuwenden.
 
 # § 110 – Verhältnis des Disziplinarverfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen
 

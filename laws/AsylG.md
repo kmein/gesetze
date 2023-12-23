@@ -1609,6 +1609,10 @@ In gerichtlichen Verfahren nach diesem Gesetz, die vor dem 1. September 2004 anh
 
 (6) Ergeben sich aus der Anwendung der Absätze 1 bis 4 unterschiedliche Zeitpunkte, so ist der früheste Zeitpunkt maßgeblich.
 
+# § 87d – Übergangsvorschrift aus Anlass der am 23. Dezember 2023 in Kraft getretenen Änderung
+
+§ 61 Absatz 2 Satz 4 findet keine Anwendung auf Staatsangehörige Georgiens und der Republik Moldau, die bis zum 30. August 2023 einen Asylantrag gestellt haben.
+
 # § 88 – Verordnungsermächtigungen
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat kann durch Rechtsverordnung mit Zustimmung des Bundesrates die zuständigen Behörden für die Ausführung von Rechtsvorschriften der Europäischen Gemeinschaft und völkerrechtlichen Verträgen über die Zuständigkeit für die Durchführung von Asylverfahren bestimmen, insbesondere für
@@ -1644,15 +1648,24 @@ Schweiz
 
 # Anlage II – (zu § 29a)
 
-(Fundstelle: BGBl. I 2015, 1725)
+(Fundstelle: BGBl. 2023 I Nr. 382, S. 1)
 
-Albanien  
-Bosnien und Herzegowina  
-Ghana  
-Kosovo  
-Mazedonien, ehemalige jugoslawische Republik  
-Montenegro  
-Senegal  
+Albanien
+
+Bosnien und Herzegowina
+
+Georgien
+
+Ghana
+
+Kosovo
+
+Moldau, Republik
+
+Montenegro
+
+Nordmazedonien
+
+Senegal
+
 Serbien
-
-die Aufnahme von Ghana ist mit dem GG (100-1) vereinbar gem. BVerfGE v. 14.5.1996 I 952 - 2 BvR 1507/93 u. 2 BvR 1508/93 -

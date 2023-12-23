@@ -4425,6 +4425,8 @@ Für Personen, die vor dem Inkrafttreten dieses Gesetzes gemäß § 1 des Gesetz
 
 (17) Auf Personen mit einer bis zum Ablauf des 30. Juni 2023 abgeschlossenen Eingliederungsvereinbarung nach § 15 des Zweiten Buches Sozialgesetzbuch in der bis zu diesem Zeitpunkt gültigen Fassung sind bis zur erstmaligen Erstellung eines Kooperationsplans nach § 15 des Zweiten Buches Sozialgesetzbuch in der ab dem 1. Juli 2023 gültigen Fassung, spätestens bis zum Ablauf des 31. Dezember 2023, § 44a Absatz 1 Satz 1 Nummer 2 und Satz 3 sowie § 45a Absatz 2 Satz 1 in der bis zum 30. Juni 2023 gültigen Fassung weiter anzuwenden.
 
+(18) § 60a Absatz 6 Satz 1 Nummer 3 findet keine Anwendung auf Staatsangehörige Georgiens und der Republik Moldau, die bis zum 30. August 2023 einen Asylantrag gestellt haben oder die sich zum 30. August 2023 geduldet in Deutschland aufgehalten haben, ohne einen Asylantrag gestellt zu haben.
+
 # § 104a – Altfallregelung
 
 (1) Einem geduldeten Ausländer soll abweichend von § 5 Abs. 1 Nr. 1 und Abs. 2 eine Aufenthaltserlaubnis erteilt werden, wenn er sich am 1. Juli 2007 seit mindestens acht Jahren oder, falls er zusammen mit einem oder mehreren minderjährigen ledigen Kindern in häuslicher Gemeinschaft lebt, seit mindestens sechs Jahren ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis aus humanitären Gründen im Bundesgebiet aufgehalten hat und er
