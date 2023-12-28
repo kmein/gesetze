@@ -185,13 +185,9 @@ Abweichend von Satz 1 Nummer 1 ist eine unentgeltliche Übertragung durch den St
 
 Abweichend von Satz 5 Nummer 4 ist eine unentgeltliche Übertragung durch den Steuerpflichtigen auf eine natürliche Person von Todes wegen unbeachtlich; insofern ist für Zwecke des Satzes 5 auf die betreffende Person oder, infolge aufeinanderfolgender unentgeltlicher Weiterübertragung zwischen natürlichen Personen von Todes wegen, auf deren unmittelbaren oder mittelbaren Rechtsnachfolger abzustellen. In den Fällen des Absatzes 3 gelten die vorstehenden Sätze entsprechend; der Stundungszeitraum richtet sich nach der vom Finanzamt eingeräumten Frist; die Erhebung von Jahresraten entfällt auf Antrag des Steuerpflichtigen; über Satz 5 hinaus wird die noch nicht entrichtete Steuer auch innerhalb eines Monats nach Eintritt des Ereignisses fällig, wonach der Steueranspruch nicht mehr nach Absatz 3 entfallen kann oder der Wegfall der Rückkehrabsicht gegenüber dem Finanzamt mitgeteilt wird. Soweit die Steuer nicht nach Absatz 3 entfällt und der Steuerpflichtige auf die Leistung von Jahresraten verzichtet hat, sind für die Dauer des gewährten Zahlungsaufschubs Zinsen in entsprechender Anwendung des § 234 der Abgabenordnung zu erheben.
 
-(5) Der Steuerpflichtige oder sein Gesamtrechtsnachfolger hat dem Finanzamt, das in den in Absatz 1 genannten Zeitpunkten nach § 19 der Abgabenordnung zuständig ist, nach amtlich vorgeschriebenem Vordruck die Verwirklichung eines der Tatbestände des Absatzes 4 Satz 5 oder 7 mitzuteilen. Die Mitteilung ist innerhalb eines Monats nach dem meldepflichtigen Ereignis zu erstatten; sie ist vom Steuerpflichtigen eigenhändig zu unterschreiben. Der Steuerpflichtige oder sein Gesamtrechtsnachfolger hat dem nach Satz 1 zuständigen Finanzamt jährlich bis zum 31. Juli schriftlich seine aktuelle Anschrift mitzuteilen und zu bestätigen, dass die Anteile ihm oder im Fall des Absatzes 1 Satz 1 Nummer 2 seinem Rechtsnachfolger weiterhin zuzurechnen sind.
+(5) Der Steuerpflichtige oder sein Gesamtrechtsnachfolger hat dem Finanzamt, das in den in Absatz 1 genannten Zeitpunkten nach § 19 der Abgabenordnung zuständig ist, nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch die Verwirklichung eines der Tatbestände des Absatzes 4 Satz 5 oder 7 mitzuteilen. Die Mitteilung ist innerhalb eines Monats nach dem meldepflichtigen Ereignis zu erstatten. Der Steuerpflichtige oder sein Gesamtrechtsnachfolger hat dem nach Satz 1 zuständigen Finanzamt jährlich bis zum 31. Juli nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch seine aktuelle Anschrift mitzuteilen und zu bestätigen, dass die Anteile ihm oder im Fall des Absatzes 1 Satz 1 Nummer 2 seinem Rechtsnachfolger weiterhin zuzurechnen sind. Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Mitteilung nach amtlich vorgeschriebenem Vordruck abzugeben und vom Steuerpflichtigen eigenhändig zu unterschreiben.
 
-(+++ § 6: Zur Anwendung vgl. § 21 +++)  
-(+++ § 6 Abs. 1: Zur erstmaligen Anwendung vgl. § 21 Abs. 13 Satz 1 +++)  
-(+++ § 6 Abs. 3 Nr. 4: Zur Erst- und letztmaligen Anwendung vgl. § 21 Abs. 8 +++)  
-(+++ § 6 Abs. 2 bis 7: Zur Anwendung vgl. § 21 Abs. 13 Satz 2 +++)  
-(+++ § 6 Abs. 5 Satz 3: Zur Anwendung vgl. § 21 Abs. 23 +++)
+(+++ § 6: Zur Anwendung vgl. § 21 +++)
 
 # § 7 – Beteiligung an ausländischer Zwischengesellschaft
 
@@ -265,7 +261,7 @@ c) Bezüge, die bei der ausländischen Gesellschaft nach § 8b Absatz 7 des Kör
 
 (4) Die Absätze 2 und 3 gelten nicht, wenn der Staat, in dem die Gesellschaft ihren Sitz oder ihre Geschäftsleitung hat, im Wege des zwischenstaatlichen Informationsaustausches keine Auskünfte erteilt, die zur Durchführung der Besteuerung erforderlich sind.
 
-(5) Eine niedrige Besteuerung liegt vor, wenn die nach Maßgabe des § 10 Absatz 3 ermittelten Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft ist, einer Belastung durch Ertragsteuern von weniger als 25 Prozent unterliegen, ohne dass dies auf einem Ausgleich mit Einkünften aus anderen Quellen beruht. In die Belastungsberechnung sind Ansprüche einzubeziehen, die der Staat oder das Gebiet der ausländischen Gesellschaft im Fall einer Gewinnausschüttung der ausländischen Gesellschaft dem Steuerpflichtigen oder einer anderen Gesellschaft, an der der Steuerpflichtige unmittelbar oder mittelbar beteiligt ist, gewährt. Einkünfte unterliegen im Sinne des Satzes 1 auch dann einer Belastung durch Ertragsteuern von weniger als 25 Prozent, wenn Ertragsteuern von mindestens 25 Prozent zwar rechtlich geschuldet, jedoch nicht tatsächlich erhoben werden.
+(5) Eine niedrige Besteuerung liegt vor, wenn die nach Maßgabe des § 10 Absatz 3 ermittelten Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft ist, einer Belastung durch Ertragsteuern von weniger als 15 Prozent unterliegen, ohne dass dies auf einem Ausgleich mit Einkünften aus anderen Quellen beruht. In die Belastungsberechnung sind Ansprüche einzubeziehen, die der Staat oder das Gebiet der ausländischen Gesellschaft im Fall einer Gewinnausschüttung der ausländischen Gesellschaft dem Steuerpflichtigen oder einer anderen Gesellschaft, an der der Steuerpflichtige unmittelbar oder mittelbar beteiligt ist, gewährt. Einkünfte unterliegen im Sinne des Satzes 1 auch dann einer Belastung durch Ertragsteuern von weniger als 15 Prozent, wenn Ertragsteuern von mindestens 15 Prozent zwar rechtlich geschuldet, jedoch nicht tatsächlich erhoben werden.
 
 (+++ § 8: Zur Anwendung vgl. § 21 +++)  
 (+++ § 8 Abs. 3 Satz 2, 3: Zur Anwendung vgl. § 4j EStG +++)
@@ -395,16 +391,13 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 
 (2) Für die gesonderte Feststellung ist das Finanzamt zuständig, das bei dem Steuerpflichtigen für die Ermittlung der aus der unmittelbaren und mittelbaren Beteiligung bezogenen Einkünfte örtlich zuständig ist. Ist die gesonderte Feststellung gegenüber mehreren Personen einheitlich vorzunehmen, so ist das Finanzamt zuständig, das nach Satz 1 für den Beteiligten zuständig ist, dem die höchste Beteiligung an der ausländischen Gesellschaft zuzurechnen ist. Läßt sich das zuständige Finanzamt nach den Sätzen 1 und 2 nicht feststellen, so ist das Finanzamt zuständig, das zuerst mit der Sache befaßt wird.
 
-(3) Jeder der an der ausländischen Gesellschaft unmittelbar oder mittelbar beteiligten Steuerpflichtigen hat eine Erklärung zur gesonderten Feststellung nach amtlich vorgeschriebenem Vordruck abzugeben. In den Fällen, in denen nach § 8 Absatz 2 geltend gemacht wird, dass eine Hinzurechnung unterbleibt, ist dies abweichend von Satz 1 nach amtlich vorgeschriebenem Vordruck nur anzuzeigen; für diese Anzeige gelten die für die Erklärung zur gesonderten Feststellung nach Satz 1 maßgeblichen Fristen entsprechend. Die Anzeige hat die Angaben zu enthalten, die für die Prüfung der Voraussetzungen nach § 8 Absatz 2 von Bedeutung sind; insbesondere Name, Anschrift, wirtschaftliche Tätigkeit der ausländischen Gesellschaft, Beteiligungsverhältnisse und Identifikationsmerkmale der an der ausländischen Gesellschaft Beteiligten. Das zuständige Finanzamt kann in den Fällen des Satzes 2 die Abgabe einer Erklärung nach Satz 1 verlangen. Die Verpflichtungen nach diesem Absatz können durch die Abgabe einer gemeinsamen Erklärung oder Anzeige erfüllt werden. Die Erklärung sowie die Anzeige sind von dem Steuerpflichtigen oder von den in § 34 der Abgabenordnung bezeichneten Personen eigenhändig zu unterschreiben.
+(3) Jeder der an der ausländischen Gesellschaft unmittelbar oder mittelbar beteiligten Steuerpflichtigen hat eine Erklärung zur gesonderten Feststellung nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch abzugeben. In den Fällen, in denen nach § 8 Absatz 2 geltend gemacht wird, dass eine Hinzurechnung unterbleibt, ist dies abweichend von Satz 1 nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch nur anzuzeigen; für diese Anzeige gelten die für die Erklärung zur gesonderten Feststellung nach Satz 1 maßgeblichen Fristen entsprechend. Die Anzeige hat die Angaben zu enthalten, die für die Prüfung der Voraussetzungen nach § 8 Absatz 2 von Bedeutung sind; insbesondere Name, Anschrift, wirtschaftliche Tätigkeit der ausländischen Gesellschaft, Beteiligungsverhältnisse und Identifikationsmerkmale der an der ausländischen Gesellschaft Beteiligten. Das zuständige Finanzamt kann in den Fällen des Satzes 2 die Abgabe einer Erklärung nach Satz 1 verlangen. Die Verpflichtungen nach diesem Absatz können durch die Abgabe einer gemeinsamen Erklärung oder Anzeige erfüllt werden. Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall sind die Erklärung sowie die Anzeige nach amtlich vorgeschriebenem Vordruck abzugeben und vom Steuerpflichtigen eigenhändig zu unterschreiben.
 
 (4) Die Absätze 1 bis 3 gelten für Einkünfte und Vermögen im Sinne des § 15 entsprechend.
 
 (5) Eine Außenprüfung zur Ermittlung der Besteuerungsgrundlagen ist bei jedem Steuerpflichtigen zulässig.
 
-(+++ § 18: Zur Anwendung vgl. § 21 +++)  
-(+++ § 18 Abs. 3: Zur Anwendung vgl. § 20 Abs. 5 F. ab 1984-12-14 bzw. § 21 Abs. 5 F. ab 1992-02-25 +++)  
-(+++ § 18 Abs. 3: Zur erstmaligen Anwendung vgl. § 21 Abs. 17 +++)  
-(+++ § 18 Abs. 4: Zur erstmaligen Anwendung vgl. § 21 Abs. 17, 21 +++)
+(+++ § 18: Zur Anwendung vgl. § 21 +++)
 
 # § 19 – (weggefallen)
 
@@ -432,7 +425,11 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 
 (2) § 1 Absatz 2 in der Fassung des Artikels 5 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist für Zwecke der Anwendung des § 4k Absatz 6 des Einkommensteuergesetzes in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) bereits für den Veranlagungs- und Erhebungszeitraum 2020 anzuwenden.
 
-(3) Wurde ein Tatbestand des § 6 Absatz 1 in einer bis zum 30. Juni 2021 geltenden Fassung vor dem 1. Januar 2022 verwirklicht, ist § 6 in der am 30. Juni 2021 geltenden Fassung für die Abwicklung dieses Falles über den 31. Dezember 2021 hinaus anzuwenden. Abweichend von Satz 1 sind Minderungen des Vermögenszuwachses im Sinne des § 6 Absatz 6 in der am 30. Juni 2021 geltenden Fassung auf Veräußerungen nach dem 24. März 2021 nicht mehr zu berücksichtigen.
+(3) Wurde ein Tatbestand des § 6 Absatz 1 in einer bis zum 30. Juni 2021 geltenden Fassung vor dem 1. Januar 2022 verwirklicht, ist § 6 in der am 30. Juni 2021 geltenden Fassung für die Abwicklung dieses Falles über den 31. Dezember 2021 hinaus anzuwenden. Abweichend von Satz 1 sind
+
+1. Minderungen des Vermögenszuwachses im Sinne des § 6 Absatz 6 in der am 30. Juni 2021 geltenden Fassung auf Veräußerungen nach dem 24. März 2021 nicht mehr zu berücksichtigen und
+
+2. Stundungen nach § 6 Absatz 4 oder 5 in einer bis zum 30. Juni 2021 geltenden Fassung auch zu widerrufen, soweit Gewinnausschüttungen erfolgen oder eine Einlagenrückgewähr erfolgt und soweit deren gemeiner Wert insgesamt mehr als ein Viertel des gemeinen Werts zum Zeitpunkt der Verwirklichung des Tatbestands im Sinne des Satzes 1 beträgt; § 6 Absatz 7 Satz 1 und 2 in der am 30. Juni 2021 geltenden Fassung ist entsprechend anzuwenden. Dies gilt nur für Gewinnausschüttungen oder eine Einlagenrückgewähr, die nach dem 16. August 2023 erfolgen.
 
 (4) Die §§ 7 bis 13, 16 bis 18 und 20 in der am 1. Juli 2021 geltenden Fassung und § 15 in der am 21. Dezember 2022 geltenden Fassung sind erstmals anzuwenden
 
@@ -445,6 +442,10 @@ für den Zwischeneinkünfte hinzuzurechnen sind, die in einem Wirtschaftsjahr de
 (5) Für Zwischeneinkünfte, die in einem Wirtschaftsjahr der Zwischengesellschaft oder der Betriebsstätte entstanden sind, das vor dem 1. Januar 2022 beginnt, ist § 8 Absatz 1 Nummer 10 in der am 30. Juni 2021 geltenden Fassung auf Umwandlungen und Einbringungen, deren steuerlicher Übertragungsstichtag nach dem 31. Dezember 2021 liegt, in der folgenden Fassung anzuwenden:
 
 „10. Umwandlungen, die ungeachtet des § 1 Absatz 4 des Umwandlungssteuergesetzes zu Buchwerten erfolgen könnten; dies gilt nicht, soweit eine Umwandlung den Anteil an einer Kapitalgesellschaft erfasst, dessen Veräußerung nicht die Voraussetzungen der Nummer 9 erfüllen würde.“
+
+(6) § 8 Absatz 5 in der am 28. Dezember 2023 geltenden Fassung ist erstmals anzuwenden für die Einkommen- und Körperschaftsteuer für den Veranlagungszeitraum, für den Zwischeneinkünfte hinzuzurechnen sind, die in einem Wirtschaftsjahr der Zwischengesellschaft oder der Betriebsstätte entstanden sind, das nach dem 31. Dezember 2023 endet.
+
+(7) § 6 Absatz 5 in der am 28. Dezember 2023 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2025 anzuwenden. § 18 Absatz 3 in der am 28. Dezember 2023 geltenden Fassung ist erstmals anzuwenden für die Einkommen- und Körperschaftsteuer für den Veranlagungszeitraum, für den Zwischeneinkünfte hinzuzurechnen sind, die in einem Wirtschaftsjahr der Zwischengesellschaft oder der Betriebsstätte entstanden sind, das nach dem 31. Dezember 2024 endet.
 
 # § 22 – Neufassung des Gesetzes
 

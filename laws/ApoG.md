@@ -367,7 +367,7 @@ und
 
 13. die Überprüfung der Arzneimittelvorräte in Krankenhäusern sowie die Führung und Aufbewahrung von Nachweisen darüber.
 
-Bei den Regelungen nach Satz 1 Nummer 8 zum Warenlager der Apotheken ist insbesondere sicherzustellen, dass auch im Falle vorübergehender Lieferengpässe oder Mehrbedarfe eine ordnungsgemäße Versorgung insbesondere mit Arzneimitteln, die in Krankenhäusern zur intensivmedizinischen Behandlung benötigt werden, gewährleistet ist.
+Bei den Regelungen nach Satz 1 Nummer 8 zum Warenlager der Apotheken ist insbesondere sicherzustellen, dass auch im Falle vorübergehender Lieferengpässe oder Mehrbedarfe eine ordnungsgemäße Versorgung insbesondere mit Arzneimitteln, die in Krankenhäusern zur intensivmedizinischen Behandlung benötigt werden, sowie mit Antibiotika und Onkologika gewährleistet ist.
 
 (3) In der Rechtsverordnung nach Absatz 1 Satz 4 können insbesondere folgende Regelungen zur Gestaltung einschließlich des Betreibens und der Qualitätssicherung von Informationen in elektronischen Medien getroffen werden, die in Verbindung mit dem elektronischen Handel mit Arzneimitteln verwendet werden:
 

@@ -2165,6 +2165,12 @@ E. Passive latente Steuern.
 
 (2) Die Beträge der sich ergebenden Steuerbe- und -entlastung sind mit den unternehmensindividuellen Steuersätzen im Zeitpunkt des Abbaus der Differenzen zu bewerten und nicht abzuzinsen. Die ausgewiesenen Posten sind aufzulösen, sobald die Steuerbe- oder -entlastung eintritt oder mit ihr nicht mehr zu rechnen ist. Der Aufwand oder Ertrag aus der Veränderung bilanzierter latenter Steuern ist in der Gewinn- und Verlustrechnung gesondert unter dem Posten „Steuern vom Einkommen und vom Ertrag“ auszuweisen.
 
+(3) Bei dem Ansatz und der Bewertung latenter Steuern sind Differenzen aus der Anwendung folgender Gesetze nicht zu berücksichtigen:
+
+1. des Mindeststeuergesetzes und
+
+2. eines ausländischen Mindeststeuergesetzes, das der Umsetzung der Richtlinie (EU) 2022/2523 des Rates vom 15. Dezember 2022 zur Gewährleistung einer globalen Mindestbesteuerung für multinationale Unternehmensgruppen und große inländische Gruppen in der Union (ABl. L 328 vom 22.12.2022, S. 1; L 13 vom 16.1.2023, S. 9) oder der dieser Richtlinie zugrundeliegenden Mustervorschriften der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung für eine globale Mindestbesteuerung dient.
+
 # § 274a – Größenabhängige Erleichterungen
 
 Kleine Kapitalgesellschaften sind von der Anwendung der folgenden Vorschriften befreit:
@@ -2480,6 +2486,8 @@ soweit die Angaben nicht im Lagebericht gemacht werden;
 
 30. wenn latente Steuerschulden in der Bilanz angesetzt werden, die latenten Steuersalden am Ende des Geschäftsjahrs und die im Laufe des Geschäftsjahrs erfolgten Änderungen dieser Salden;
 
+30a. der tatsächliche Steueraufwand oder Steuerertrag, der sich nach dem Mindeststeuergesetz und ausländischen Mindeststeuergesetzen nach § 274 Absatz 3 Nummer 2 für das Geschäftsjahr ergibt, oder, wenn diese Gesetze noch nicht in Kraft getreten sind, eine Erläuterung, welche Auswirkungen auf die Kapitalgesellschaft bei der Anwendung dieser Gesetze zu erwarten sind;
+
 31. jeweils der Betrag und die Art der einzelnen Erträge und Aufwendungen von außergewöhnlicher Größenordnung oder außergewöhnlicher Bedeutung, soweit die Beträge nicht von untergeordneter Bedeutung sind;
 
 32. eine Erläuterung der einzelnen Erträge und Aufwendungen hinsichtlich ihres Betrags und ihrer Art, die einem anderen Geschäftsjahr zuzurechnen sind, soweit die Beträge nicht von untergeordneter Bedeutung sind;
@@ -2516,7 +2524,7 @@ Die Angabe des Eigenkapitals und des Jahresergebnisses kann unterbleiben, wenn d
 
 (1) Kleine Kapitalgesellschaften (§ 267 Absatz 1) brauchen nicht
 
-1. die Angaben nach § 264c Absatz 2 Satz 9, § 265 Absatz 4 Satz 2, § 284 Absatz 2 Nummer 3, Absatz 3, § 285 Nummer 2, 3, 4, 8, 9 Buchstabe a und b, Nummer 10 bis 12, 14, 15, 15a, 17 bis 19, 21, 22, 24, 26 bis 30, 32 bis 34 zu machen;
+1. die Angaben nach § 264c Absatz 2 Satz 9, § 265 Absatz 4 Satz 2, § 284 Absatz 2 Nummer 3, Absatz 3, § 285 Nummer 2, 3, 4, 8, 9 Buchstabe a und b, Nummer 10 bis 12, 14, 15, 15a, 17 bis 19, 21, 22, 24, 26 bis 30a, 32 bis 34 zu machen;
 
 2. eine Trennung nach Gruppen bei der Angabe nach § 285 Nummer 7 vorzunehmen;
 
@@ -2906,7 +2914,7 @@ Auf die Ermittlung der durchschnittlichen Zahl der Arbeitnehmer ist § 267 Abs. 
 
 # § 306 – Latente Steuern
 
-Führen Maßnahmen, die nach den Vorschriften dieses Titels durchgeführt worden sind, zu Differenzen zwischen den handelsrechtlichen Wertansätzen der Vermögensgegenstände, Schulden oder Rechnungsabgrenzungsposten und deren steuerlichen Wertansätzen und bauen sich diese Differenzen in späteren Geschäftsjahren voraussichtlich wieder ab, so ist eine sich insgesamt ergebende Steuerbelastung als passive latente Steuern und eine sich insgesamt ergebende Steuerentlastung als aktive latente Steuern in der Konzernbilanz anzusetzen. Die sich ergebende Steuerbe- und die sich ergebende Steuerentlastung können auch unverrechnet angesetzt werden. Differenzen aus dem erstmaligen Ansatz eines nach § 301 Abs. 3 verbleibenden Unterschiedsbetrages bleiben unberücksichtigt. Das Gleiche gilt für Differenzen, die sich zwischen dem steuerlichen Wertansatz einer Beteiligung an einem Tochterunternehmen, assoziierten Unternehmen oder einem Gemeinschaftsunternehmen im Sinn des § 310 Abs. 1 und dem handelsrechtlichen Wertansatz des im Konzernabschluss angesetzten Nettovermögens ergeben. § 274 Abs. 2 ist entsprechend anzuwenden. Die Posten dürfen mit den Posten nach § 274 zusammengefasst werden.
+Führen Maßnahmen, die nach den Vorschriften dieses Titels durchgeführt worden sind, zu Differenzen zwischen den handelsrechtlichen Wertansätzen der Vermögensgegenstände, Schulden oder Rechnungsabgrenzungsposten und deren steuerlichen Wertansätzen und bauen sich diese Differenzen in späteren Geschäftsjahren voraussichtlich wieder ab, so ist eine sich insgesamt ergebende Steuerbelastung als passive latente Steuern und eine sich insgesamt ergebende Steuerentlastung als aktive latente Steuern in der Konzernbilanz anzusetzen. Die sich ergebende Steuerbe- und die sich ergebende Steuerentlastung können auch unverrechnet angesetzt werden. Differenzen aus dem erstmaligen Ansatz eines nach § 301 Abs. 3 verbleibenden Unterschiedsbetrages bleiben unberücksichtigt. Das Gleiche gilt für Differenzen, die sich zwischen dem steuerlichen Wertansatz einer Beteiligung an einem Tochterunternehmen, assoziierten Unternehmen oder einem Gemeinschaftsunternehmen im Sinn des § 310 Abs. 1 und dem handelsrechtlichen Wertansatz des im Konzernabschluss angesetzten Nettovermögens ergeben. § 274 Absatz 2 und 3 ist entsprechend anzuwenden. Die Posten dürfen mit den Posten nach § 274 zusammengefasst werden.
 
 # § 307 – Anteile anderer Gesellschafter
 
@@ -3089,6 +3097,8 @@ soweit die Angaben nicht im Konzernlagebericht gemacht werden;
 21. auf welchen Differenzen oder steuerlichen Verlustvorträgen die latenten Steuern beruhen und mit welchen Steuersätzen die Bewertung erfolgt ist;
 
 22. wenn latente Steuerschulden in der Konzernbilanz angesetzt werden, die latenten Steuersalden am Ende des Geschäftsjahrs und die im Laufe des Geschäftsjahrs erfolgten Änderungen dieser Salden;
+
+22a. der tatsächliche Steueraufwand oder Steuerertrag, der sich nach dem Mindeststeuergesetz und ausländischen Mindeststeuergesetzen nach § 274 Absatz 3 Nummer 2 für das Geschäftsjahr ergibt, oder, wenn diese Gesetze noch nicht in Kraft getreten sind, eine Erläuterung, welche Auswirkungen auf den Konzern bei der Anwendung dieser Gesetze zu erwarten sind;
 
 23. jeweils den Betrag und die Art der einzelnen Erträge und Aufwendungen von außergewöhnlicher Größenordnung oder außergewöhnlicher Bedeutung, soweit die Beträge nicht von untergeordneter Bedeutung sind;
 
