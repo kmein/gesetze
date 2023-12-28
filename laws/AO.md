@@ -6269,7 +6269,7 @@ abgegeben wurde.
 
 3. wenn die festgesetzte Steuer die Summe der festgesetzten Vorauszahlungen und der anzurechnenden Steuerabzugsbeträge nicht übersteigt oder
 
-4. bei jährlich abzugebenden Lohnsteueranmeldungen, bei Anmeldungen von Umsatzsteuer-Sondervorauszahlungen nach § 48 Absatz 2 der Umsatzsteuer-Durchführungsverordnung sowie bei jährlich abzugebenden Versicherungsteuer- und Feuerschutzsteueranmeldungen.
+4. bei jährlich abzugebenden Lohnsteueranmeldungen, bei Anmeldungen von Umsatzsteuer-Sondervorauszahlungen nach § 48 Absatz 2 der Umsatzsteuer-Durchführungsverordnung, bei jährlich abzugebenden Versicherungsteuer- und Feuerschutzsteueranmeldungen sowie bei Erklärungen nach § 95 des Mindeststeuergesetzes.
 
 (4) Sind mehrere Personen zur Abgabe einer Steuererklärung verpflichtet, kann die Finanzbehörde nach ihrem Ermessen entscheiden, ob sie den Verspätungszuschlag gegen eine der erklärungspflichtigen Personen, gegen mehrere der erklärungspflichtigen Personen oder gegen alle erklärungspflichtigen Personen festsetzt. Wird der Verspätungszuschlag gegen mehrere oder gegen alle erklärungspflichtigen Personen festgesetzt, sind diese Personen Gesamtschuldner des Verspätungszuschlags. In Fällen des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe a ist der Verspätungszuschlag vorrangig gegen die nach § 181 Absatz 2 Satz 2 Nummer 4 erklärungspflichtigen Personen festzusetzen.
 

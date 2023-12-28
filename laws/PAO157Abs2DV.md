@@ -15,6 +15,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 # Anlage – (zu § 1)Patentanwaltsberufe in Staaten und Gebieten, die Mitglieder der Welthandelsorganisation sind
 
-(Fundstelle: BGBl. I 2022, 1400)
+(Fundstelle: BGBl. I 2022, 1400; bzgl. einzelner Änderungen vgl. Fußnote)
+
+– in Singapur:   Patent Agent
 
 – im Vereinigten Königreich:   Patent Attorney

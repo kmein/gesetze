@@ -288,6 +288,20 @@ In den Fällen der Nummer 2 kann die oberste Dienstbehörde im Einvernehmen mit 
 
 Für die Beendigung des Richterverhältnisses kraft Auftrags gelten die Vorschriften über die Beendigung des Richterverhältnisses auf Probe entsprechend.
 
+# § 24 – Beendigung des Dienstverhältnisses durch richterliche Entscheidung
+
+Wird gegen einen Richter durch Urteil eines deutschen Gerichts im Geltungsbereich dieses Gesetzes erkannt auf
+
+1. Freiheitsstrafe von mindestens einem Jahr wegen einer vorsätzlichen Tat,
+
+2. Freiheitsstrafe wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist,
+
+3. Aberkennung der Fähigkeit zur Bekleidung öffentlicher Ämter oder
+
+4. Verwirkung eines Grundrechts gemäß Artikel 18 des Grundgesetzes,
+
+so endet das Richterverhältnis mit der Rechtskraft dieses Urteils, ohne daß es einer weiteren gerichtlichen Entscheidung bedarf.
+
 # § 25 – Grundsatz
 
 Der Richter ist unabhängig und nur dem Gesetz unterworfen.
@@ -982,6 +996,14 @@ e) einer Maßnahme der Dienstaufsicht aus den Gründen des § 26 Abs. 3,
 f) einer Verfügung über Ermäßigung des Dienstes oder Beurlaubung nach §§ 48a bis 48c.
 
 (2) Das Dienstgericht des Bundes entscheidet auch über die Revision gegen Urteile der Dienstgerichte der Länder (§ 79).
+
+# § 63 – Disziplinarverfahren
+
+(1) Für das Verfahren in Disziplinarsachen gelten die Vorschriften des Bundesdisziplinargesetzes sinngemäß.
+
+(2) Über die vorläufige Dienstenthebung und die Einbehaltung von Bezügen sowie über die Aufhebung dieser Maßnahmen entscheidet auf Antrag der obersten Dienstbehörde das Dienstgericht durch Beschluss. Der Beschluß ist der obersten Dienstbehörde und dem Richter zuzustellen.
+
+(3) § 78 des Bundesdisziplinargesetzes ist mit der Maßgabe anzuwenden, dass in Disziplinarverfahren vor dem Dienstgericht des Bundes die für das Verfahren über die Berufung getroffenen gebührenrechtlichen Bestimmungen sinngemäß anzuwenden sind. Dem Verfahren über die Auferlegung einer Geldbuße durch das Dienstgericht steht hinsichtlich der Kosten das Verfahren über die Klage gegen eine entsprechende Disziplinarverfügung des Dienstvorgesetzten gleich. In Verfahren über den Antrag auf Anordnung der vorläufigen Dienstenthebung und der Einbehaltung von Bezügen gelten die für das Verfahren über den Antrag auf Aussetzung dieser Maßnahmen getroffenen gebührenrechtlichen Bestimmungen entsprechend.
 
 # § 64 – Disziplinarmaßnahmen
 

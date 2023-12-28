@@ -107,7 +107,13 @@ c) der länderbezogenen Berichte im Sinne des § 138a Absatz 2 der Abgabenordnun
 
 5g. die Entgegennahme, die Weiterleitung und die Übermittlung von Informationen nach § 9 Absatz 1 bis 3 und die Durchführung der Verfahren gemäß den §§ 10 bis 12 und 25 bis 27 des Plattformen-Steuertransparenzgesetzes;
 
-5h. die Auswertung der Informationen nach den Nummern 5c, 5d, 5e, 5f und 5g im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben; Auswertungen der Informationen nach den Nummern 5c, 5d, 5e, 5f und 5g durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
+5h. a) die Entgegennahme der Mindeststeuer-Berichte nach § 75 des Mindeststeuergesetzes und ihre Weiterleitung an die jeweils zuständige Landesfinanzbehörde,
+
+b) die Entgegennahme der Meldungen nach § 3 Absatz 4 des Mindeststeuergesetzes und Weiterleitung an die jeweils zuständige Länderfinanzbehörde sowie
+
+c) die Durchführung von Bußgeldverfahren nach § 98 des Mindeststeuergesetzes;
+
+5i. die Auswertung der Informationen nach den Nummern 5c bis 5h im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben; Auswertungen der Informationen nach den Nummern 5c bis 5h durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
 
 6. die zentrale Sammlung und Auswertung von Unterlagen über steuerliche Auslandsbeziehungen nach näherer Weisung des Bundesministeriums der Finanzen;
 
