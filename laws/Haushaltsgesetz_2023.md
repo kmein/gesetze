@@ -3,21 +3,21 @@
  
 # § 1 – Feststellung des Haushaltsplans
 
-(1) Der diesem Gesetz als Anlage beigefügte Bundeshaushaltsplan für das Haushaltsjahr 2023 wird in Einnahmen und Ausgaben auf 476 290 763 000 Euro festgestellt.
+(1) Der diesem Gesetz als Anlage beigefügte Bundeshaushaltsplan für das Haushaltsjahr 2023 wird in Einnahmen und Ausgaben auf 461 211 782 000 Euro festgestellt.
 
 (2) Der dem Kapitel 6002 des Bundeshaushalts für das Haushaltsjahr 2023 als Anlage 2 beigefügte Wirtschaftsplan des Sondervermögens „Digitale Infrastruktur“ wird für das Jahr 2023 in Einnahmen und Ausgaben auf 4 778 432 000 Euro festgestellt.
 
-(3) Der dem Kapitel 6002 des Bundeshaushalts für das Haushaltsjahr 2023 als Anlage 6 beigefügte Wirtschaftsplan des Sondervermögens „Aufbauhilfe 2021“ wird für das Jahr 2023 in Einnahmen und Ausgaben auf 12 409 260 000 Euro festgestellt.
+(3) Der dem Kapitel 6002 des Bundeshaushalts für das Haushaltsjahr 2023 als Anlage 6 beigefügte Wirtschaftsplan des Sondervermögens „Aufbauhilfe 2021“ wird für das Jahr 2023 in Einnahmen und Ausgaben auf 1 599 687 000 Euro festgestellt.
 
 (4) Der dem Kapitel 1405 des Bundeshaushalts für das Haushaltsjahr 2023 als Anlage beigefügte Wirtschaftsplan des Sondervermögens „Bundeswehr“ wird für das Jahr 2023 in Einnahmen und Ausgaben auf 8 409 017 000 Euro festgestellt.
 
-(5) Der dem Kapitel 6002 des Bundeshaushalts für das Haushaltsjahr 2023 als Anlage 3 beigefügte Wirtschaftsplan des Sondervermögens „Klima- und Transformationsfonds“ wird für das Jahr 2023 in Einnahmen und Ausgaben auf 100 768 705 000 Euro festgestellt.
+(5) Der dem Kapitel 6002 des Bundeshaushalts für das Haushaltsjahr 2023 als Anlage 3 beigefügte Wirtschaftsplan des Sondervermögens „Klima- und Transformationsfonds“ wird für das Jahr 2023 in Einnahmen und Ausgaben auf 40 768 705 000 Euro festgestellt.
 
-(6) Der dem Kapitel 6002 des Bundeshaushalts für das Haushaltsjahr 2023 als Anlage 7 beigefügte Wirtschaftsplan zum Teil 3 des Sondervermögens „Wirtschaftsstabilisierungsfonds“ wird für das Jahr 2023 in Einnahmen und Ausgaben auf 164 874 373 000 Euro festgestellt.
+(6) Der dem Kapitel 6002 des Bundeshaushalts für das Haushaltsjahr 2023 als Anlage 7 beigefügte Wirtschaftsplan zum Teil 3 des Sondervermögens „Wirtschaftsstabilisierungsfonds“ wird für das Jahr 2023 in Einnahmen und Ausgaben auf 43 200 000 000 Euro festgestellt.
 
 # § 2 – Kreditermächtigungen
 
-(1) Das Bundesministerium der Finanzen wird ermächtigt, zur Deckung von Ausgaben für das Haushaltsjahr 2023 Kredite bis zur Höhe von 45 610 279 000 Euro aufzunehmen.
+(1) Das Bundesministerium der Finanzen wird ermächtigt, zur Deckung von Ausgaben für das Haushaltsjahr 2023 Kredite bis zur Höhe von 27 411 740 000 Euro aufzunehmen.
 
 (2) Dem Kreditrahmen nach Absatz 1 wachsen die Beträge zur Tilgung von im Haushaltsjahr 2023 fällig werdenden Krediten zu; deren Höhe ergibt sich aus dem Saldo der im Kreditfinanzierungsplan (Teil IV des Gesamtplans) ausgewiesenen Ausgaben zur Tilgung von Krediten (Nummer 2) und den sonstigen Einnahmen zur Schuldentilgung (Nummer 1.2). Dem Kreditrahmen nach Satz 1 wachsen im Falle eines unvorhergesehenen Bedarfs Beträge in Höhe von bis zu 15 000 000 000 Euro zum Rückkauf von Wertpapieren des Bundes oder zur Rückzahlung von Darlehen zu, soweit die in Satz 1 genannte Summe der Beträge zur Tilgung überschritten wird. Das Bundesministerium der Finanzen wird ermächtigt, Mehreinnahmen bei Kapitel 6002 Titel 133 01 zur Tilgung der Schulden des Bundes zu verwenden; insoweit vermindert sich die Ermächtigung nach Satz 1. Bei Mehreinnahmen nach Satz 3 können Maßnahmen nach § 60 Absatz 2 der Bundeshaushaltsordnung ergriffen werden.
 
@@ -446,6 +446,146 @@ Differenzen durch Rundung möglich.
  
 
  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Differenzen durch Rundung möglich.
+
+# Nachtrag zum Gesamtplan des Bundeshaushaltsplans 2023
+
+(Fundstelle: BGBl. 2023 I Nr. 407, S. 3 – 14)
+
+ 
+
+Teil I:
+
+Haushaltsübersicht
+
+ 
+
+ 
+
+A.
+
+Einnahmen
+
+ 
+
+ 
+
+B.
+
+Ausgaben
+
+ 
+
+ 
+
+C.
+
+Verpflichtungsermächtigungen und deren Fälligkeiten (unverändert)
+
+ 
+
+ 
+
+D.
+
+Flexibilisierte Ausgaben nach § 5 des Haushaltsgesetzes (unverändert)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Teil II:
+
+Berechnung der zulässigen Kreditaufnahme nach § 5 des Artikel 115-Gesetzes sowie der Verordnung über das Verfahren zur Bestimmung der Konjunkturkomponente nach § 5 des Artikel 115-Gesetzes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Teil III:
+
+Finanzierungsübersicht
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Teil IV:
+
+Kreditfinanzierungsplan
+
+ 
+
+ 
+
+Zu Spalte 4:  
+Darin enthalten sind  
+– Steuereinnahmen in Höhe von 356 323 000 T€,  
+– Einnahmen aus Krediten in Höhe von 27 411 740 T€ sowie  
+– sonstige Einnahmen in Höhe von 77 477 042 T€.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+\* (-):  
+Unterschreitung des gesamtwirtschaftlichen Produktionspotenzials (Erhöhung der zulässigen Nettokreditaufnahme gemäß § 5 Art. 115-Gesetz)
+
+Datengrundlage:  
+Statistisches Bundesamt und gesamtwirtschaftliche Vorausschätzungen der Bundesregierung.
+
+Differenzen durch Rundung möglich.
 
  
 

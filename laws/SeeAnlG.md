@@ -29,7 +29,7 @@ Zu den für den Betrieb erforderlichen Nebeneinrichtungen gehören auch andere K
 
 (3) Für das Planfeststellungsverfahren sind die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes anzuwenden, soweit dieses Gesetz nichts anderes bestimmt. § 36 Absatz 2 und 3 des Verwaltungsverfahrensgesetzes ist anzuwenden.
 
-(4) Anlagen dürfen nur planfestgestellt, plangenehmigt oder genehmigt werden, wenn sie die Nutzung der im Bundesfachplan Offshore nach § 17a des Energiewirtschaftsgesetzes festgelegten Räume für Windenergieanlagen auf See oder der im Flächenentwicklungsplan nach § 5 des Windenergie-auf-See-Gesetzes festgelegten Gebiete und Flächen zur Stromerzeugung aus Windenergie auf See sowie die Übertragung des Stroms und die Nutzung der im Flächenentwicklungsplan nach § 5 des Windenergie-auf-See-Gesetzes festgelegten sonstigen Energiegewinnungsbereiche nicht wesentlich behindern. Hiervon kann abgewichen werden, wenn die Zulassung dieser Anlagen aus zwingenden Gründen des öffentlichen Interesses geboten ist.
+(4) Anlagen dürfen nur planfestgestellt, plangenehmigt oder genehmigt werden, wenn sie die Nutzung der im Flächenentwicklungsplan nach § 5 des Windenergie-auf-See-Gesetzes festgelegten Gebiete und Flächen zur Stromerzeugung aus Windenergie auf See sowie die Übertragung des Stroms und die Nutzung der im Flächenentwicklungsplan nach § 5 des Windenergie-auf-See-Gesetzes festgelegten sonstigen Energiegewinnungsbereiche nicht wesentlich behindern. Hiervon kann abgewichen werden, wenn die Zulassung dieser Anlagen aus zwingenden Gründen des öffentlichen Interesses geboten ist.
 
 # § 3 – Bearbeitungsreihenfolge
 
@@ -141,7 +141,7 @@ Die Feststellung des Plans, die Plangenehmigung oder die Genehmigung bedürfen d
 
 1. Windenergieanlagen auf See, die an das Netz angeschlossen werden, nach den Festlegungen des Flächenentwicklungsplans nach § 5 des Windenergie-auf-See-Gesetzes oder
 
-2. Offshore-Anbindungsleitungen, einschließlich Standorten und Suchräumen, grenzüberschreitenden Seekabelsystemen oder Verbindungen der Netzanbindungssysteme untereinander nach den Festlegungen des Bundesfachplans Offshore nach § 17a des Energiewirtschaftsgesetzes oder des Flächenentwicklungsplans nach § 5 des Windenergie-auf-See-Gesetzes.
+2. Offshore-Anbindungsleitungen, einschließlich Standorten und Suchräumen, grenzüberschreitenden Seekabelsystemen oder Verbindungen der Netzanbindungssysteme untereinander nach den Festlegungen des Bundesfachplans Offshore nach § 17a des Energiewirtschaftsgesetzes in der bis zum 28. Dezember 2023 geltenden Fassung oder des Flächenentwicklungsplans nach § 5 des Windenergie-auf-See-Gesetzes.
 
 Die Veränderungssperre darf nur solche Einrichtungen erfassen, die die Errichtung von Windenergieanlagen auf See, die an das Netz angeschlossen werden, behindern können oder Offshore-Anbindungsleitungen, grenzüberschreitende Seekabelsysteme oder Verbindungen der Netzanbindungssysteme untereinander behindern können.
 

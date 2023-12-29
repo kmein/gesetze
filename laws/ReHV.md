@@ -39,7 +39,7 @@ Diese Verordnung regelt das Nähere zu den konkreten Voraussetzungen des einmali
 
 (5) Die zuständigen Rehabilitationsträger haben die Antragsdaten der Leistungserbringer der mit der Erfolgskontrolle nach § 36a Absatz 6 des Neunten Buches Sozialgesetzbuch beauftragten unabhängigen wissenschaftlichen Institution zur Verfügung zu stellen.
 
-(6) Der Antrag kann nur bis zum Ablauf des 30. April 2024 gestellt werden.
+(6) Der Antrag kann bis zum Tag der Verkündung des Haushaltsfinanzierungsgesetzes 2023 vom 22. Dezember 2023 (BGBl. 2023 I Nr. 406) gestellt werden.
 
 # § 4 – Nachweis
 

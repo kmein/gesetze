@@ -185,7 +185,7 @@ Die Flussgebietseinheiten sind in der Anlage 2 in Kartenform dargestellt.
 
 2. bemühen sich die zuständigen Behörden der Länder um eine der Nummer 1 entsprechende Koordinierung mit den zuständigen Behörden von Staaten, die nicht der Europäischen Union angehören.
 
-(4) Soweit die Verwaltung der Bundeswasserstraßen berührt ist, ist bei der Koordinierung nach den Absätzen 2 und 3 das Einvernehmen der Generaldirektion Wasserstraßen und Schifffahrt einzuholen. Soweit gesamtstaatliche Belange bei der Pflege der Beziehungen zur Europäischen Union, zu auswärtigen Staaten oder zu internationalen Organisationen berührt sind, ist bei der Koordinierung nach Absatz 3 das Einvernehmen des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit einzuholen.
+(4) Soweit die Verwaltung der Bundeswasserstraßen berührt ist, ist bei der Koordinierung nach den Absätzen 2 und 3 das Einvernehmen der Generaldirektion Wasserstraßen und Schifffahrt einzuholen. Soweit gesamtstaatliche Belange bei der Pflege der Beziehungen zur Europäischen Union, zu auswärtigen Staaten oder zu internationalen Organisationen berührt sind, ist bei der Koordinierung nach Absatz 3 das Einvernehmen des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz einzuholen.
 
 (5) Die zuständigen Behörden der Länder ordnen innerhalb der Landesgrenzen die Einzugsgebiete oberirdischer Gewässer sowie Küstengewässer und das Grundwasser einer Flussgebietseinheit zu. Bei Küstengewässern gilt dies für die Flächen auf der landwärtigen Seite einer Linie, auf der sich jeder Punkt eine Seemeile seewärts vom nächsten Punkt der Basislinie befindet, von der aus die Breite der Hoheitsgewässer gemessen wird, mindestens bis zur äußeren Grenze der Gewässer, die im Wesentlichen von Süßwasserströmungen beeinflusst sind. Die Länder können die Zuordnung auch durch Gesetz regeln.
 
@@ -1079,7 +1079,7 @@ Die Anfangsbewertung nach § 45c Absatz 1, die Beschreibung des guten Zustands d
 
 # § 45l – Zuständigkeit im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels
 
-Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft, dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die Zuständigkeit von Bundesbehörden im Geschäftsbereich der genannten Bundesministerien für die Durchführung der Vorschriften dieses Abschnitts und der auf Grund des § 23 für Meeresgewässer erlassenen Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels sowie das Zusammenwirken von Bundesbehörden bei der Durchführung dieser Vorschriften in diesem Bereich zu regeln.
+Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft, dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die Zuständigkeit von Bundesbehörden im Geschäftsbereich der genannten Bundesministerien für die Durchführung der Vorschriften dieses Abschnitts und der auf Grund des § 23 für Meeresgewässer erlassenen Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels sowie das Zusammenwirken von Bundesbehörden bei der Durchführung dieser Vorschriften in diesem Bereich zu regeln.
 
 # § 46 – Erlaubnisfreie Benutzungen des Grundwassers
 
@@ -1386,7 +1386,7 @@ Für Anlagen zum Umschlagen wassergefährdender Stoffe sowie zum Lagern und Abf�
 
 1. die Bestimmung der wassergefährdenden Stoffe und ihre Einstufung entsprechend ihrer Gefährlichkeit, über eine hierbei erforderliche Mitwirkung des Umweltbundesamtes und anderer Stellen sowie über Mitwirkungspflichten von Anlagenbetreibern im Zusammenhang mit der Einstufung von Stoffen,
 
-2. die Einsetzung einer Kommission zur Beratung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit in Fragen der Stoffeinstufung einschließlich hiermit zusammenhängender organisatorischer Fragen,
+2. die Einsetzung einer Kommission zur Beratung des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz in Fragen der Stoffeinstufung einschließlich hiermit zusammenhängender organisatorischer Fragen,
 
 3. Anforderungen an die Beschaffenheit und Lage von Anlagen nach Absatz 1,
 
@@ -1410,7 +1410,7 @@ Für Anlagen zum Umschlagen wassergefährdender Stoffe sowie zum Lagern und Abf�
 
 # § 62a – Nationales Aktionsprogramm zum Schutz von Gewässern vor Nitrateinträgen aus Anlagen
 
-Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erarbeitet im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft ein nationales Aktionsprogramm im Sinne des Artikels 5 Absatz 1 in Verbindung mit Absatz 4 Buchstabe b, Artikel 4 Absatz 1 Buchstabe a und Anhang II Buchstabe A Nummer 5 der Richtlinie 91/676/EWG des Rates vom 12. Dezember 1991 zum Schutz der Gewässer vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen (ABl. L 375 vom 31.12.1991, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1) geändert worden ist. Dieses enthält insbesondere Angaben zur Beschaffenheit, zur Lage, zur Errichtung und zum Betrieb von Anlagen zum Lagern und Abfüllen von Jauche, Gülle und Silagesickersäften sowie von vergleichbaren in der Landwirtschaft anfallenden Stoffen. Zu dem Entwurf des Aktionsprogramms sowie zu Entwürfen zur Änderung des Aktionsprogramms wird eine Strategische Umweltprüfung nach dem Gesetz über die Umweltverträglichkeitsprüfung durchgeführt. Das Aktionsprogramm und seine Änderungen sind bei Erlass der Rechtsverordnung auf Grund des § 23 Absatz 1 Nummer 5 bis 11 in Verbindung mit § 62 Absatz 4 zu berücksichtigen.
+Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz erarbeitet im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft ein nationales Aktionsprogramm im Sinne des Artikels 5 Absatz 1 in Verbindung mit Absatz 4 Buchstabe b, Artikel 4 Absatz 1 Buchstabe a und Anhang II Buchstabe A Nummer 5 der Richtlinie 91/676/EWG des Rates vom 12. Dezember 1991 zum Schutz der Gewässer vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen (ABl. L 375 vom 31.12.1991, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1) geändert worden ist. Dieses enthält insbesondere Angaben zur Beschaffenheit, zur Lage, zur Errichtung und zum Betrieb von Anlagen zum Lagern und Abfüllen von Jauche, Gülle und Silagesickersäften sowie von vergleichbaren in der Landwirtschaft anfallenden Stoffen. Zu dem Entwurf des Aktionsprogramms sowie zu Entwürfen zur Änderung des Aktionsprogramms wird eine Strategische Umweltprüfung nach dem Gesetz über die Umweltverträglichkeitsprüfung durchgeführt. Das Aktionsprogramm und seine Änderungen sind bei Erlass der Rechtsverordnung auf Grund des § 23 Absatz 1 Nummer 5 bis 11 in Verbindung mit § 62 Absatz 4 zu berücksichtigen.
 
 # § 63 – Eignungsfeststellung
 
@@ -1554,6 +1554,34 @@ Auf das Verhältnis zwischen dem Gewässerbenutzer und den Gewässerschutzbeauft
 § 70 Abs. 1 Satz 1 Halbsatz 2 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 126 Abs. 1 Satz 1 des Wassergesetzes des Landes Schleswig-Holstein (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__126.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
 § 70 Abs. 1 Satz 1 Halbsatz 2 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 107 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__107.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
 § 70 Abs. 1 Satz 1 Halbsatz 2 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch § 84 Abs. 1 Satz 1 Landeswassergesetz (LWG SH) v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
+
+# § 70a – Planfeststellungsverfahren bei Häfen im transeuropäischen Verkehrsnetz
+
+(1) Wird ein Planfeststellungsverfahren oder ein Plangenehmigungsverfahren für einen Gewässerausbau nach § 68 durchgeführt, ist dieses innerhalb von vier Jahren abzuschließen, wenn
+
+1. der Gewässerausbau der Erweiterung eines Seehafens oder Binnenhafens für den Güterverkehr nach Anlage 3 dient und
+
+2. die geschätzten Gesamtkosten der Erweiterung zum Zeitpunkt der Einleitung des Planfeststellungsverfahrens oder des Plangenehmigungsverfahrens 300 000 000 Euro überschreiten.
+
+Die Frist beginnt mit dem Eingang des vollständigen Plans bei der einheitlichen Stelle nach Absatz 2 oder bei der Anhörungsbehörde und der Planfeststellungsbehörde. Diese sowie alle am Planfeststellungsverfahren oder am Plangenehmigungsverfahren beteiligten Behörden sind bestrebt, den Planfeststellungsverfahren oder Plangenehmigungsverfahren nach Satz 1 Vorrang bei der Bearbeitung einzuräumen. Dabei ist das Beschleunigungsinteresse an anderen Vorhaben, die im überragenden öffentlichen Interesse stehen oder der öffentlichen Sicherheit dienen, zu beachten.
+
+(2) Auf Antrag des Trägers eines Vorhabens nach Absatz 1 Satz 1 sind das Planfeststellungsverfahren oder Plangenehmigungsverfahren sowie alle sonstigen Zulassungsverfahren, die für die Erweiterung des Seehafens oder Binnenhafens für den Güterverkehr nach Anlage 3 nach Bundesrecht oder Landesrecht erforderlich sind, über eine einheitliche Stelle abzuwickeln. Die einheitliche Stelle hat im Internet Informationen dazu zu veröffentlichen, für welche Vorhaben sie zuständig ist und welche weiteren einheitlichen Stellen im jeweiligen Land für Vorhaben nach Absatz 1 Satz 1 zuständig sind.
+
+(3) Die Planfeststellungsbehörde oder die einheitliche Stelle hat dem Vorhabenträger auf dessen Antrag Auskunft zu erteilen über
+
+1. sämtliche für die Erteilung des Planfeststellungsbeschlusses oder der Plangenehmigung beizubringende Informationen und Unterlagen, einschließlich aller Stellungnahmen, die für den Planfeststellungsbeschluss oder die Plangenehmigung eingeholt und vorgelegt werden müssen,
+
+2. weitere Zulassungen, die für die Erweiterung des Seehafens oder Binnenhafens erforderlich sind, und die für die Erteilung dieser Zulassungen zuständigen Behörden.
+
+Weist das Vorhaben nicht die erforderliche Reife auf, so ist der Antrag spätestens vier Monate nach seinem Eingang bei der zuständigen Behörde abzulehnen.
+
+(4) Auf Antrag der Planfeststellungsbehörde kann die zuständige oberste Landesbehörde oder eine andere von ihr bestimmte Behörde die Frist nach Absatz 1 Satz 1 verlängern. Im Antrag sind die Gründe für die Fristüberschreitung darzulegen. Eine weitere Verlängerung kann unter denselben Bedingungen einmal gewährt werden.
+
+(5) Die Absätze 1 bis 4 finden keine Anwendung auf Vorhaben, deren Plan vor dem 10. August 2023 bei der Anhörungsbehörde und Planfeststellungsbehörde oder bei der einheitlichen Stelle eingereicht wurde.
+
+(6) Zur Vorbereitung der Berichterstattung an die Europäische Kommission gilt für Planfeststellungsverfahren und Plangenehmigungsverfahren für Gewässerausbauten nach Absatz 1 Satz 1 § 10c des Luftverkehrsgesetzes entsprechend.
+
+(7) Die Absätze 1 bis 6 finden keine Anwendung, wenn für die Erweiterung eines Seehafens oder Binnenhafens für den Güterverkehr nach Anlage 3 anstelle eines Planfeststellungsverfahrens oder Plangenehmigungsverfahrens nach § 68 nach landesrechtlichen Vorschriften ein anderes Zulassungsverfahren durchzuführen ist.
 
 # § 71 – Enteignungsrechtliche Regelungen
 
@@ -2312,3 +2340,78 @@ Bei der Bestimmung des Standes der Technik sind unter Berücksichtigung der Verh
 # Anlage 2 – (zu § 7 Absatz 1 Satz 3)
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j2585-1_0010.jpg)
+
+# Anlage 3 – (zu § 70a Absatz 1 Satz 1 Nummer 1, Absatz 2 Satz 1 und Absatz 7)
+
+(Fundstelle: BGBl 2023 I Nr. 409, S. 34)
+
+Seehäfen und Binnenhäfen für den Güterverkehr
+
+–  
+Binnenhafen Berlin
+
+–  
+Binnenhafen Braunschweig
+
+–  
+See- und Binnenhafen Bremen
+
+–  
+See- und Binnenhafen Bremerhaven
+
+–  
+Binnenhafen Dortmund
+
+–  
+Binnenhafen Duisburg, ausgenommen Hafen Homberg
+
+–  
+Binnenhafen Düsseldorf/Neuss
+
+–  
+Binnenhafen Frankfurt am Main
+
+–  
+See- und Binnenhafen Hamburg
+
+–  
+Binnenhafen Hamm
+
+–  
+Binnenhafen Hannover
+
+–  
+Binnenhafen Karlsruhe
+
+–  
+Binnenhafen Koblenz
+
+–  
+Binnenhafen Köln
+
+–  
+See- und Binnenhafen Lübeck
+
+–  
+Binnenhafen Magdeburg
+
+–  
+Binnenhafen Mainz
+
+–  
+Binnenhafen Mannheim
+
+–  
+Binnenhafen Nürnberg
+
+–  
+Binnenhafen Regensburg
+
+–  
+Seehafen Rostock
+
+–  
+Binnenhafen Stuttgart
+
+–  
+Seehafen Wilhelmshaven

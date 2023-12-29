@@ -29,11 +29,13 @@
 
 2. Genossenschaften im Sinne des Genossenschaftsgesetzes,
 
-3. Partnerschaften im Sinne des Partnerschaftsgesellschaftsgesetzes,
+3. eingetragene Gesellschaften bürgerlichen Rechts,
 
-4. Vereine im Sinne des Bürgerlichen Gesetzbuchs,
+4. Partnerschaften im Sinne des Partnerschaftsgesellschaftsgesetzes,
 
-5. wirtschaftlich Tätige im Sinne der Abgabenordnung:
+5. Vereine im Sinne des Bürgerlichen Gesetzbuchs,
+
+6. wirtschaftlich Tätige im Sinne der Abgabenordnung:
 
 a) natürliche Personen, die wirtschaftlich tätig sind,
 
@@ -41,13 +43,13 @@ b) juristische Personen und
 
 c) Personenvereinigungen sowie
 
-6. weitere Unternehmen im Sinne des Siebten Buches Sozialgesetzbuch.
+7. weitere Unternehmen im Sinne des Siebten Buches Sozialgesetzbuch.
 
 Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz 1 Nummer 5 Buchstabe a wird als Unternehmen geführt. Daten zu natürlichen Personen, die nicht im Zusammenhang mit einer wirtschaftlichen Tätigkeit stehen, werden nicht gespeichert.
 
 (2) Im Basisregister werden zu einem Unternehmen nach Absatz 1, soweit vorhanden, folgende Stammdaten gespeichert:
 
-1. für den Rechtsverkehr verbindliche Angabe der Firma oder des Namens entsprechend der Eintragung im Handelsregister, Partnerschaftsregister, Genossenschaftsregister oder Vereinsregister,
+1. für den Rechtsverkehr verbindliche Angabe der Firma oder des Namens entsprechend der Eintragung im Handelsregister, Genossenschaftsregister, Gesellschaftsregister, Partnerschaftsregister oder Vereinsregister,
 
 2. für Verwaltungszwecke aktuelle Angabe der Firma oder des Namens entsprechend der Führung im Datenbestand der öffentlichen Stelle nach § 4 Absatz 1,
 
@@ -55,7 +57,7 @@ Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz 1 Numme
 
 4. Sitz (Ort),
 
-5. inländische Geschäftsanschrift entsprechend der Eintragung im Handelsregister, Partnerschaftsregister, Genossenschaftsregister oder Vereinsregister unter Angabe von Straße, Hausnummer, Postleitzahl, Ort und Länderkennzeichen, soweit die Pflicht zur Eintragung besteht,
+5. Geschäftsanschrift entsprechend der Eintragung im Handelsregister, Genossenschaftsregister, Gesellschaftsregister, Partnerschaftsregister oder Vereinsregister unter Angabe von Straße, Hausnummer, Postleitzahl, Ort und Länderkennzeichen, soweit die Pflicht zur Eintragung besteht,
 
 6. Rechtsform und
 
@@ -69,17 +71,19 @@ Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz 1 Numme
 
 3. Eintragungsnummer des Genossenschaftsregisters, einschließlich Orts- und Gerichtskennzeichen des zuständigen Registergerichts,
 
-4. Eintragungsnummer des Partnerschaftsregisters, einschließlich Orts- und Gerichtskennzeichen des zuständigen Registergerichts,
+4. Eintragungsnummer des Gesellschaftsregisters, einschließlich Orts- und Gerichtskennzeichen des zuständigen Registergerichts,
 
-5. Vereinsregisternummer, einschließlich Orts- und Gerichtskennzeichen des zuständigen Registergerichts,
+5. Eintragungsnummer des Partnerschaftsregisters, einschließlich Orts- und Gerichtskennzeichen des zuständigen Registergerichts,
 
-6. Unternehmernummer, einschließlich Anhang gemäß § 136a des Siebten Buches Sozialgesetzbuch,
+6. Vereinsregisternummer, einschließlich Orts- und Gerichtskennzeichen des zuständigen Registergerichts,
 
-7. Betriebsnummern gemäß § 18i des Vierten Buches Sozialgesetzbuch als Liste aller Betriebsnummern, die einem Unternehmen zugeordnet sind,
+7. Unternehmernummer, einschließlich Anhang gemäß § 136a des Siebten Buches Sozialgesetzbuch,
 
-8. Wirtschafts-Identifikationsnummer gemäß § 139c der Abgabenordnung, einschließlich des Unterscheidungsmerkmals gemäß § 139c Absatz 5a der Abgabenordnung und
+8. Betriebsnummern gemäß § 18i des Vierten Buches Sozialgesetzbuch als Liste aller Betriebsnummern, die einem Unternehmen zugeordnet sind,
 
-9. die gültige Rechtsträgerkennung (LEI) gemäß Artikel 13 Absatz 1 der Delegierten Verordnung (EU) 2017/590 der Kommission vom 28. Juli 2016 zur Ergänzung der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für die Meldung von Geschäften an die zuständigen Behörden (ABl. L 87 vom 31.3.2017, S. 449).
+9. Wirtschafts-Identifikationsnummer gemäß § 139c der Abgabenordnung, einschließlich des Unterscheidungsmerkmals gemäß § 139c Absatz 5a der Abgabenordnung und
+
+10. die gültige Rechtsträgerkennung (LEI) gemäß Artikel 13 Absatz 1 der Delegierten Verordnung (EU) 2017/590 der Kommission vom 28. Juli 2016 zur Ergänzung der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für die Meldung von Geschäften an die zuständigen Behörden (ABl. L 87 vom 31.3.2017, S. 449).
 
 (4) Zu den Stammdaten nach Absatz 2 und den Identifikationsnummern nach Absatz 3 werden folgende Metadaten gespeichert:
 
@@ -97,7 +101,7 @@ Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz 1 Numme
 
 (1) Zum Zweck des Aufbaus und zur Führung des Basisregisters werden der Registerbehörde von folgenden öffentlichen Stellen folgende Daten übermittelt:
 
-1. von den Landesjustizverwaltungen Indexdaten zu Eintragungen im Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister zu den Merkmalen nach § 3 Absatz 2, 3 und 4 Nummer 1 bis 3, soweit die Daten in dem elektronischen Informations- und Kommunikationssystem nach § 9 Absatz 1 des Handelsgesetzbuchs oder § 79 Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs gespeichert sind,
+1. von den Landesjustizverwaltungen Indexdaten zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- und Vereinsregister zu den Merkmalen nach § 3 Absatz 2, 3 und 4 Nummer 1 bis 3, soweit die Daten in dem elektronischen Informations- und Kommunikationssystem nach § 9 Absatz 1 des Handelsgesetzbuchs oder § 79 Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs gespeichert sind,
 
 2. von der Deutschen Gesetzlichen Unfallversicherung e. V. Daten zu den Merkmalen nach § 3 Absatz 2, 3 und 4 Nummer 1 bis 3, soweit sie aufgrund des Siebten Buches Sozialgesetzbuch gespeichert sind,
 
@@ -111,9 +115,9 @@ Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz 1 Numme
 
 (1) Die Registerbehörde darf an folgende öffentliche Stellen zu folgenden Zwecken für die Anlässe nach Absatz 2 Unternehmensbasisdaten übermitteln:
 
-1. an die Registergerichte zur Pflege der Daten des Handels-, Genossenschafts-, Partnerschafts- und Vereinsregisters,
+1. an die Registergerichte zur Pflege der Daten des Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- und Vereinsregisters,
 
-2. an die Landesjustizverwaltungen zur Verknüpfung mit den Indexdaten zu Eintragungen im Handels-, Genossenschafts-, Partnerschafts- und Vereinsregister,
+2. an die Landesjustizverwaltungen zur Verknüpfung mit den Indexdaten zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- und Vereinsregister,
 
 3. an die das Unternehmensregister im Sinne des § 8b des Handelsgesetzbuchs führende Stelle zur Pflege der Daten des Unternehmensregisters,
 
@@ -203,9 +207,11 @@ Das Bundesministerium der Finanzen, das Bundesministerium für Wirtschaft und En
 
 3. nähere Bestimmungen zur Auskunftserteilung nach § 7 Absatz 3 an die Unternehmen nach § 3 Absatz 1 bezüglich ihrer Daten aus dem Basisregister,
 
-4. die Festlegung technischer und organisatorischer Standards für den Betrieb des Basisregisters und
+4. die Festlegung technischer und organisatorischer Standards für den Betrieb des Basisregisters,
 
-5. die Festlegung technischer und organisatorischer Standards der Datenübermittlungen nach den §§ 4 und 5.
+5. die Festlegung technischer und organisatorischer Standards der Datenübermittlungen nach den §§ 4 und 5 und
+
+6. die Bestimmung einzelner anderer öffentlicher Stellen und jeweils dazugehöriger Datenbestände, die sowohl Daten an die Registerbehörde zum Aufbau und zur Pflege des Basisregisters übermitteln sollen als auch Daten von der Registerbehörde zur Erfüllung ihrer gesetzlichen Aufgaben übermittelt bekommen.
 
 Die Maßnahmen zur Sicherstellung der Datensicherheit nach Satz 1 Nummer 2 sowie deren Überprüfung sind im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik zu erarbeiten.
 
@@ -213,6 +219,6 @@ Die Maßnahmen zur Sicherstellung der Datensicherheit nach Satz 1 Nummer 2 sowie
 
 Das Bundesministerium für Wirtschaft und Energie berichtet dem Deutschen Bundestag im fünften Kalenderjahr nach Inkrafttreten dieses Gesetzes über die Wirksamkeit der in diesem Gesetz enthaltenen Maßnahmen für die Erreichung der in § 1 Absatz 2 und § 2 Absatz 2 genannten Zwecke. Der Bericht wird zudem dem Bundesrat übermittelt. Dieser Bericht soll insbesondere Erkenntnisse darstellen, ob
 
-1. die Identifikationsnummern nach § 3 Absatz 3 Nummer 6 bis 9 in den Registern und Datenbeständen öffentlicher Stellen durch die bundeseinheitliche Wirtschaftsnummer nach § 2 abgelöst werden können und
+1. die Identifikationsnummern nach § 3 Absatz 3 Nummer 7 bis 10 in den Registern und Datenbeständen öffentlicher Stellen durch die bundeseinheitliche Wirtschaftsnummer nach § 2 abgelöst werden können und
 
 2. durch das registerübergreifende Identitätsmanagement zu Unternehmen anhand der bundeseinheitlichen Wirtschaftsnummer nach § 2 eine ausschließlich zentrale Speicherung von Unternehmensbasisdaten bei der Registerbehörde umgesetzt werden kann.

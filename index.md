@@ -3733,6 +3733,7 @@
 - [MinÖlDatG](laws/MinÖlDatG.md) Gesetz über die Erhebung von Meldungen in der Mineralölwirtschaft
 - [MinRohSorgG](laws/MinRohSorgG.md) Gesetz zur Durchführung der Verordnung (EU) 2017/821 des Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Festlegung von Pflichten zur Erfüllung der Sorgfaltspflichten in der Lieferkette für Unionseinführer von Zinn, Tantal, Wolfram, deren Erzen und Gold aus Konflikt- und Hochrisikogebieten
 - [MinRSozSBes](laws/MinRSozSBes.md) Beschluß des Ministerrates der Deutschen Demokratischen Republik über Regelungen zur sozialen Sicherstellung für ausscheidende Mitglieder des Ministerrates vom 8. Februar 1990 in der Fassung des Beschlusses vom 8. August 1990
+- [MinStG](laws/MinStG.md) Gesetz zur Gewährleistung einer globalen Mindestbesteuerung für Unternehmensgruppen
 - [MinUhV](laws/MinUhV.md) Verordnung zur Festlegung des Mindestunterhalts minderjähriger Kinder nach § 1612a Absatz 1 des Bürgerlichen Gesetzbuchs
 - [MISSAufstV](laws/MISSAufstV.md) Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst über den Masterstudiengang „Intelligence and Security Studies“
 - [MitbestBeiG](laws/MitbestBeiG.md) Gesetz zur Beibehaltung der Mitbestimmung beim Austausch von Anteilen und der Einbringung von Unternehmensteilen, die Gesellschaften verschiedener Mitgliedstaaten der Europäischen Union betreffen
@@ -3815,6 +3816,7 @@
 - [Münz100EuroBek 2021-02-08](laws/Münz100EuroBek_2021-02-08.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „Einigkeit“)
 - [Münz100EuroBek 2021-09-15](laws/Münz100EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „Recht“)
 - [Münz100EuroBek 2022-09-12](laws/Münz100EuroBek_2022-09-12.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „Freiheit“)
+- [Münz100EuroBek 2023-12-11](laws/Münz100EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "Faust")
 - [Münz10DMBek](laws/Münz10DMBek.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 750-Jahr-Feier Berlins)
 - [Münz10DMBek 1987-10](laws/Münz10DMBek_1987-10.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 30 Jahre Römische Verträge)
 - [Münz10DMBek 1988-08](laws/Münz10DMBek_1988-08.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Arthur Schopenhauer)
@@ -3986,9 +3988,11 @@
 - [Münz20EuroBek 2023-03-30/2](laws/Münz20EuroBek_2023-03-30_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „125. Geburtstag Bertolt Brecht“)
 - [Münz20EuroBek 2023-08-11](laws/Münz20EuroBek_2023-08-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Steinbock“ der Serie „Rückkehr der Wildtiere“)
 - [Münz20EuroBek 2023-10-06](laws/Münz20EuroBek_2023-10-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „400 Jahre Rechenmaschine von Wilhelm Schickard“)
+- [Münz20EuroBek 2023-12-11](laws/Münz20EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „100. Geburtstag Vicco von Bülow)
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
 - [Münz25EuroBek 2021-09-15](laws/Münz25EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
 - [Münz25EuroBek 2022-11-17](laws/Münz25EuroBek_2022-11-17.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Herrnhuter Stern“)
+- [Münz25EuroBek 2023-12-11](laws/Münz25EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro
 - [Münz2DMBek 1970](laws/Münz2DMBek_1970.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1973](laws/Münz2DMBek_1973.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1979](laws/Münz2DMBek_1979.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
@@ -4091,6 +4095,7 @@
 - [Münz5EuroBek 2023-08-11/1](laws/Münz5EuroBek_2023-08-11_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Siebenpunkt-Marienkäfer“)
 - [Münz5EuroBek 2023-08-11/2](laws/Münz5EuroBek_2023-08-11_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Schwalbenschwanz“)
 - [Münz5EuroBek 2023-10-06](laws/Münz5EuroBek_2023-10-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Rostrote Mauerbiene“)
+- [Münz5EuroBek 2023-12-11](laws/Münz5EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro
 - [MünzG](laws/MünzG.md) Münzgesetz
 - [MünzUmschriftBek](laws/MünzUmschriftBek.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 1, 5, 10 und 50 Pfennig, die an Stelle der Schrift "Bank deutscher Länder" die Umschrift "Bundesrepublik Deutschland" tragen
 - [MuKFrRGDBest 1](laws/MuKFrRGDBest_1.md) Erste Durchführungsbestimmung zum Gesetz über den Mutter- und Kinderschutz und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen
@@ -4491,6 +4496,7 @@
 - [PKHB 2021](laws/PKHB_2021.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHB 2022](laws/PKHB_2022.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHB 2023](laws/PKHB_2023.md) Bekanntmachung zu § 115 der Zivilprozessordnung
+- [PKHB 2024](laws/PKHB_2024.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHFV](laws/PKHFV.md) Verordnung zur Verwendung eines Formulars für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- und Verfahrenskostenhilfe
 - [Pkw-EnVKV](laws/Pkw-EnVKV.md) Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch neuer Personenkraftwagen
 - [PlanSiG](laws/PlanSiG.md) Gesetz zur Sicherstellung ordnungsgemäßer Planungs- und Genehmigungsverfahren während der COVID-19-Pandemie*
