@@ -573,7 +573,7 @@ Der Unternehmensbegriff nach Satz 1 gilt für Abschnitt 2 Teil 1 und 2 dieses Ge
 
 (3) Unabhängig von der Erfüllung der Voraussetzungen von Absatz 2 Nummer 1 bis 3 gelten als Unternehmen der Realwirtschaft auch die in § 23 Absatz 2 genannten Unternehmen.
 
-(4) Der Wirtschaftsstabilisierungsfonds dient zudem der Abfederung der Folgen der Energiekrise, insbesondere von Preissteigerungen beim Bezug von Gas und Strom in Deutschland nach Maßgabe des § 26a Absatz 1.
+(4) Der Wirtschaftsstabilisierungsfonds dient bis zum 31. Dezember 2023 zudem der Abfederung der Folgen der Energiekrise, insbesondere von Preissteigerungen beim Bezug von Gas und Strom in Deutschland nach Maßgabe des § 26a Absatz 1.
 
 (5) Der Wirtschaftsstabilisierungsfonds ist ein Sondervermögen im Sinne des Artikels 110 Absatz 1 des Grundgesetzes.
 
@@ -757,19 +757,21 @@ Die Programme und Maßnahmen nach Satz 1 können insbesondere die Möglichkeit d
 
 # § 26b – Kreditermächtigung zur Finanzierung von Maßnahmen nach § 26a
 
-(1) Das Bundesministerium der Finanzen wird für das Jahr 2022 ermächtigt, für den Wirtschaftsstabilisierungsfonds zur Finanzierung von Maßnahmen nach § 26a Absatz 1 Kredite in Höhe von 200 Milliarden Euro aufzunehmen. Die Kreditaufnahme ist bei der Feststellung der Kreditaufnahme nach Artikel 115 des Grundgesetzes für das Jahr 2022 und die sich daraus ergebende Tilgungsverpflichtung zu berücksichtigen. Die Kosten der Kreditaufnahme sind vom Wirtschaftsstabilisierungsfonds zu tragen.
+(1) Das Bundesministerium der Finanzen wird für das Jahr 2022 ermächtigt, für den Wirtschaftsstabilisierungsfonds zur Finanzierung von Maßnahmen nach § 26a Absatz 1 Kredite in Höhe von 200 Milliarden Euro aufzunehmen. Die mit der Kreditermächtigung nach Satz 1 aufgenommen Mittel dürfen zur Finanzierung von Maßnahmen und Programmen gemäß § 26a Absatz 1 bis zum 31. Dezember 2022 verwendet werden. Die Kreditaufnahme ist bei der Feststellung der Kreditaufnahme nach Artikel 115 des Grundgesetzes für das Jahr 2022 und die sich daraus ergebende Tilgungsverpflichtung zu berücksichtigen. Die Kosten der Kreditaufnahme sind vom Wirtschaftsstabilisierungsfonds zu tragen.
 
-(2) Das Bundesministerium der Finanzen wird über Absatz 1 hinaus ermächtigt, für den Wirtschaftsstabilisierungsfonds im Jahr 2022 und in den folgenden Jahren Kredite in Höhe der jeweils zur Tilgung fällig werdenden Beträge aufzunehmen.
+(2) Das Bundesministerium der Finanzen wird über Absatz 1 und Absatz 6 hinaus ermächtigt, für den Wirtschaftsstabilisierungsfonds im Jahr 2022 und im Jahr 2023 Kredite in Höhe der jeweils zur Tilgung fällig werdenden Beträge aufzunehmen.
 
 (3) Auf die Kreditermächtigung ist bei Diskontpapieren der Nettobetrag anzurechnen.
 
-(4) Der Wirtschaftsstabilisierungsfonds kann zur Finanzierung der Aufgaben für Maßnahmen nach § 26a eine Rücklage bilden. Den Rücklagen sind bis zum Abschluss des Haushaltsjahres 2022 die bis zu diesem Zeitpunkt nicht benötigten Mittel aus der Kreditaufnahme nach Absatz 1 Satz 1 und in den Folgejahren jeweils bis zum Abschluss des Haushaltsjahres alle nicht verausgabten Mittel zuzuführen. Darüber hinaus fließen sämtliche Einnahmen und Rückflüsse aus den Maßnahmen nach § 26a Absatz 1, einschließlich Zinsen, Tilgungen und aus der Auflösung von Beteiligungen, dem Wirtschaftsstabilisierungsfonds zu. Die Mittel stehen in den Folgejahren zur Finanzierung von Maßnahmen nach § 26a einschließlich der Finanzierungskosten zur Verfügung.
+(4) (weggefallen)
 
 (5) Der Wirtschaftsstabilisierungsfonds kann überschüssige Liquidität auch in Forderungen an den Bund anlegen.
 
+(6) Das Bundesministerium der Finanzen wird für das Jahr 2023 ermächtigt, für den Wirtschaftsstabilisierungsfonds zur Finanzierung von Maßnahmen nach § 26a Absatz 1 Kredite in Höhe von 43,2 Milliarden Euro aufzunehmen. Die mit der Kreditermächtigung nach Satz 1 aufgenommen Mittel dürfen zur Finanzierung von Maßnahmen und Programmen gemäß § 26a Absatz 1 bis zum 31. Dezember 2023 verwendet werden. Die Kreditaufnahme ist bei der Feststellung der Kreditaufnahme nach Artikel 115 des Grundgesetzes für das Jahr 2023 und die sich daraus ergebende Tilgungsverpflichtung zu berücksichtigen. Die Kosten der Kreditaufnahme sind vom Wirtschaftsstabilisierungsfonds zu tragen.
+
 # § 26c – Wirtschaftsplan und Haushaltsrecht
 
-Alle Einnahmen und Ausgaben des Wirtschaftsstabilisierungsfonds nach Abschnitt 2 Teil 3 dieses Gesetzes werden in einem jährlichen Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. Der Wirtschaftsplan für das Jahr 2022 ergibt sich aus der Anlage. Ab dem Wirtschaftsjahr 2023 wird der Wirtschaftsplan dem Haushaltsgesetz als Anlage beigefügt. Er wird ab dem Jahr 2023 zusammen mit dem Haushaltsgesetz festgestellt.
+Alle Einnahmen und Ausgaben des Wirtschaftsstabilisierungsfonds nach Abschnitt 2 Teil 3 dieses Gesetzes werden in einem jährlichen Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. Der Wirtschaftsplan für das Jahr 2022 ergibt sich aus der Anlage. Ab dem Wirtschaftsjahr 2023 wird der Wirtschaftsplan dem Haushaltsgesetz als Anlage beigefügt. Er wird für das Jahr 2023 zusammen mit dem Haushaltsgesetz festgestellt.
 
 # § 26d – Rechnungslegung
 
@@ -785,9 +787,15 @@ Die Bundesregierung legt jährlich zum Stichtag des 31. Dezember Rechnung über 
 
 Die Kosten für die Verwaltung des Wirtschaftsstabilisierungsfonds nach Abschnitt 2 Teil 3 dieses Gesetzes trägt der Bund.
 
-# § 26g – Befristung
+# § 26g – Befristung; Verordnungsermächtigung
 
-Maßnahmen des Wirtschaftsstabilisierungsfonds nach § 26a Absatz 1 Satz 1 Nummer 1 bis 4 sind bis zum Ablauf des 30. Juni 2024 möglich.
+(1) Maßnahmen des Wirtschaftsstabilisierungsfonds nach § 26a Absatz 1 Satz 1 Nummer 1 bis 4 sind bis zum Ablauf des 31. Dezember 2023 möglich.
+
+(2) Der Wirtschaftsstabilisierungsfonds wird im Hinblick auf den mit diesem Gesetz in Abschnitt 2 Teil 3 errichteten Teil zur Abfederung der Folgen der Energiekrise mit Ablauf des Jahres 2023 aufgelöst. Der Bund tritt insoweit in die Rechte und Pflichten des Fonds ein. Die Verbindlichkeiten und das Vermögen dieses Teils des Wirtschaftsstabilisierungsfonds gehen auf den Bund über.
+
+(3) Die Einzelheiten der Abwicklung und Auflösung des in Abschnitt 2 Teil 3 errichteten Teils des Wirtschaftsstabilisierungsfonds kann die Bundesregierung durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen. Die Verordnung bedarf der Zustimmung des Bundestages. Die Zustimmung gilt als erteilt, wenn der Bundestag nicht innerhalb von drei Sitzungswochen nach Eingang der Vorlage der Bundesregierung die Zustimmung verweigert hat.
+
+(4) § 13 Absatz 5 gilt entsprechend.
 
 # § 27 – Steuern
 
