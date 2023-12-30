@@ -29,6 +29,8 @@ Der in § 1 Satz 2 festgelegte Betrag wird nach folgenden Prozentsätzen auf die
 | Schleswig-Holstein     |  2,8439 |
 | Thüringen              | 2,1663. |
 
+§ 2: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 29.11.2023 - 2 BvF 1/18 -
+
 # § 3 – Förderbereiche
 
 Die Finanzhilfen werden trägerneutral für Maßnahmen in folgenden Bereichen gewährt:
@@ -130,6 +132,8 @@ Zur Verbesserung der Schulinfrastruktur allgemeinbildender Schulen und berufsbil
 | Thüringen              | 2,0519. |
 
 (2) Die Flächenländer legen im Einvernehmen mit dem Bund entsprechend den landesspezifischen Gegebenheiten die Auswahl der finanzschwachen Gemeinden und Gemeindeverbände, die Stadtstaaten dementsprechend die Auswahl der förderfähigen Gebiete fest.
+
+§ 11 Abs. 1: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 29.11.2023 - 2 BvF 1/18 -
 
 # § 12 – Förderbereich und Fördervoraussetzungen
 

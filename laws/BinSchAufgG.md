@@ -725,7 +725,7 @@ Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verwendet
 
 # § 14 – Erlass von Rechtsverordnungen
 
-Rechtsverordnungen nach diesem Gesetz bedürfen nicht der Zustimmung des Bundesrates. Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+Rechtsverordnungen nach diesem Gesetz bedürfen nicht der Zustimmung des Bundesrates.
 
 # § 15 – Überleitung des Verzeichnisses für Sportbootführerscheine
 

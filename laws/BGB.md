@@ -4513,6 +4513,22 @@ Soweit sich die Informationen auf Annahmen stützen, müssen diese nachvollziehb
 
 (6) Wurden Forderungen aus dem Darlehensvertrag abgetreten, treffen die Pflichten aus den Absätzen 1 bis 5 auch den neuen Gläubiger, wenn nicht der bisherige Darlehensgeber mit dem neuen Gläubiger vereinbart hat, dass im Verhältnis zum Darlehensnehmer weiterhin allein der bisherige Darlehensgeber auftritt.
 
+(7) Der Darlehensgeber übermittelt dem Darlehensnehmer vor der Änderung der Bestimmungen des Verbraucherdarlehensvertrags die folgenden Informationen:
+
+1. eine klare Beschreibung
+
+a) der vorgeschlagenen Änderungen,
+
+b) soweit zutreffend, der Notwendigkeit der Zustimmung des Darlehensnehmers zu den Änderungen nach Buchstabe a und
+
+c) soweit zutreffend, der gesetzlich eingeführten Änderungen, die den Änderungen nach Buchstabe a zugrunde liegen,
+
+2. den zeitlichen Rahmen, der für die Umsetzung der Änderungen nach Nummer 1 Buchstabe a vorgesehen ist, und
+
+3. die Möglichkeiten, die dem Darlehensnehmer zur Verfügung stehen, um gegen die Änderungen nach Nummer 1 Buchstabe a Beschwerde einzulegen, die Frist für die Einlegung der Beschwerde sowie die Bezeichnung und Anschrift der zuständigen Behörde, bei der die Beschwerde eingereicht werden kann.
+
+§ 492 Absatz 5 ist nicht anzuwenden.
+
 # § 494 – Rechtsfolgen von Formmängeln
 
 (1) Der Verbraucherdarlehensvertrag und die auf Abschluss eines solchen Vertrags vom Verbraucher erteilte Vollmacht sind nichtig, wenn die Schriftform insgesamt nicht eingehalten ist oder wenn eine der in Artikel 247 §§ 6 und 10 bis 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche für den Verbraucherdarlehensvertrag vorgeschriebenen Angaben fehlt.
@@ -4623,7 +4639,7 @@ Der Darlehensgeber soll dem Darlehensnehmer spätestens mit der Fristsetzung ein
 
 (1) Ist ein Verbraucherdarlehen in der Weise gewährt, dass der Darlehensgeber in einem Vertragsverhältnis über ein laufendes Konto dem Darlehensnehmer das Recht einräumt, sein Konto in bestimmter Höhe zu überziehen (Überziehungsmöglichkeit), hat der Darlehensgeber den Darlehensnehmer in regelmäßigen Zeitabständen über die Angaben zu unterrichten, die sich aus Artikel 247 § 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergeben. Ein Anspruch auf Vorfälligkeitsentschädigung aus § 502 ist ausgeschlossen. § 493 Abs. 3 ist nur bei einer Erhöhung des Sollzinssatzes anzuwenden und gilt entsprechend bei einer Erhöhung der vereinbarten sonstigen Kosten. § 499 Abs. 1 ist nicht anzuwenden.
 
-(2) Ist in einer Überziehungsmöglichkeit in Form des Allgemein-Verbraucherdarlehensvertrags vereinbart, dass nach der Auszahlung die Laufzeit höchstens drei Monate beträgt oder der Darlehensgeber kündigen kann, ohne eine Frist einzuhalten, sind § 491a Abs. 3, die §§ 495, 499 Abs. 2 und § 500 Abs. 1 Satz 2 nicht anzuwenden. § 492 Abs. 1 ist nicht anzuwenden, wenn außer den Sollzinsen keine weiteren laufenden Kosten vereinbart sind, die Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig werden und der Darlehensgeber dem Darlehensnehmer den Vertragsinhalt spätestens unverzüglich nach Vertragsabschluss auf einem dauerhaften Datenträger mitteilt.
+(2) Ist in einer Überziehungsmöglichkeit in Form des Allgemein-Verbraucherdarlehensvertrags vereinbart, dass nach der Auszahlung die Laufzeit höchstens drei Monate beträgt oder der Darlehensgeber kündigen kann, ohne eine Frist einzuhalten, sind § 491a Abs. 3, § 493 Absatz 7, die §§ 495, 499 Abs. 2 und § 500 Abs. 1 Satz 2 nicht anzuwenden. § 492 Abs. 1 ist nicht anzuwenden, wenn außer den Sollzinsen keine weiteren laufenden Kosten vereinbart sind, die Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig werden und der Darlehensgeber dem Darlehensnehmer den Vertragsinhalt spätestens unverzüglich nach Vertragsabschluss auf einem dauerhaften Datenträger mitteilt.
 
 # § 504a – Beratungspflicht bei Inanspruchnahme der Überziehungsmöglichkeit
 

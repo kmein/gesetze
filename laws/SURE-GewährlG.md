@@ -11,4 +11,4 @@
 
 (1) Sobald alle teilnehmenden Mitgliedstaaten der Europäischen Union ihren anteiligen Beitrag in Form einer Gewährleistung geleistet haben, wird der Haushaltsausschuss des Deutschen Bundestages darüber unterrichtet.
 
-(2) Der Haushaltsausschuss des Deutschen Bundestages ist darüber hinaus halbjährlich über die übernommene Gewährleistung und den von der Europäischen Kommission nach Artikel 14 der in § 1 Absatz 1 genannten Verordnung erstatteten Bericht zu unterrichten.
+(2) Der Haushaltsausschuss des Deutschen Bundestages ist darüber hinaus über die übernommene Gewährleistung und den von der Europäischen Kommission nach Artikel 14 der in § 1 Absatz 1 genannten Verordnung erstatteten Bericht zu unterrichten. Das Weitere bestimmt der Haushaltsausschuss des Deutschen Bundestages.
