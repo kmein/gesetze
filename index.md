@@ -431,6 +431,7 @@
 - [BABG](laws/BABG.md) Gesetz über die vermögensrechtlichen Verhältnisse der Bundesautobahnen und sonstigen Bundesstraßen des Fernverkehrs
 - [BABRiGeschwV 1978](laws/BABRiGeschwV_1978.md) Verordnung über eine allgemeine Richtgeschwindigkeit auf Autobahnen und ähnlichen Straßen
 - [BABWismarG](laws/BABWismarG.md) Gesetz über den Bau des Abschnitts Wismar West-Wismar Ost der Bundesautobahn A 20 Lübeck-Bundesgrenze (A 11)
+- [BadeV](laws/BadeV.md) Verordnung über das Baden in den Bundeswasserstraßen Weser, Lesum und Hunte
 - [BADV](laws/BADV.md) Verordnung über Bodenabfertigungsdienste auf Flugplätzen
 - [BäAusbV 2004](laws/BäAusbV_2004.md) Verordnung über die Berufsausbildung zum Bäcker/zur Bäckerin
 - [BäckMstrV](laws/BäckMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Bäcker-Handwerk
@@ -3264,6 +3265,7 @@
 - [KrWG](laws/KrWG.md) Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen
 - [KryptoFAV](laws/KryptoFAV.md) Verordnung über Kryptofondsanteile *
 - [KryptoWTransferV](laws/KryptoWTransferV.md) Verordnung über verstärkte Sorgfaltspflichten bei dem Transfer von Kryptowerten
+- [KrZwMG](laws/KrZwMG.md) Gesetz über den Zweitmarkt für notleidende Kredite und über Kreditdienstleistungsinstitute
 - [KSAbg2022V](laws/KSAbg2022V.md) Künstlersozialabgabe-Verordnung 2022
 - [KSAbg2023V](laws/KSAbg2023V.md) Künstlersozialabgabe-Verordnung 2023
 - [KSchG](laws/KSchG.md) Kündigungsschutzgesetz
@@ -5297,6 +5299,7 @@
 - [SprAuG](laws/SprAuG.md) Gesetz über Sprecherausschüsse der leitenden Angestellten
 - [SprengG](laws/SprengG.md) Gesetz über explosionsgefährliche Stoffe
 - [SprengMarkÜbk](laws/SprengMarkÜbk.md) Übereinkommen über die Markierung von Plastiksprengstoffen zum Zweck des Aufspürens
+- [SPRINDFG](laws/SPRINDFG.md) Gesetz über die Arbeitsweise der Bundesagentur für Sprunginnovationen und zur Flexibilisierung ihrer rechtlichen und finanziellen Rahmenbedingungen
 - [SpruchG](laws/SpruchG.md) Gesetz über das gesellschaftsrechtliche Spruchverfahren
 - [SpTrUG](laws/SpTrUG.md) Gesetz über die Spaltung der von der Treuhandanstalt verwalteten Unternehmen
 - [SpurVerkErprG](laws/SpurVerkErprG.md) Gesetz über den Bau und den Betrieb von Versuchsanlagen zur Erprobung von Techniken für den spurgeführten Verkehr
