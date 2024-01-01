@@ -397,7 +397,7 @@ der von der Risikobewertung unterschiedene Prozess der Abwägung von Alternative
 
 7. Betreiber
 
-eine juristische oder natürliche Person oder eine nichtrechtsfähige Personenvereinigung, die unter ihrem Namen eine gentechnische Anlage errichtet oder betreibt, gentechnische Arbeiten oder Freisetzungen durchführt oder Produkte, die gentechnisch veränderte Organismen enthalten oder aus solchen bestehen, erstmalig in Verkehr bringt; wenn eine Genehmigung nach § 16 Abs. 2 erteilt worden ist, die nach § 14 Abs. 1 Satz 2 das Inverkehrbringen auch der Nachkommen oder des Vermehrungsmaterials gestattet, ist insoweit nur der Genehmigungsinhaber Betreiber,
+eine juristische oder natürliche Person oder eine sonstige Personenvereinigung, die unter ihrem Namen eine gentechnische Anlage errichtet oder betreibt, gentechnische Arbeiten oder Freisetzungen durchführt oder Produkte, die gentechnisch veränderte Organismen enthalten oder aus solchen bestehen, erstmalig in Verkehr bringt; wenn eine Genehmigung nach § 16 Abs. 2 erteilt worden ist, die nach § 14 Abs. 1 Satz 2 das Inverkehrbringen auch der Nachkommen oder des Vermehrungsmaterials gestattet, ist insoweit nur der Genehmigungsinhaber Betreiber,
 
 8. Projektleiter
 
@@ -425,7 +425,7 @@ ein biologischer Träger, der Nukleinsäure-Segmente in eine neue Zelle einführ
 
 13a. Bewirtschafter
 
-eine juristische oder natürliche Person oder eine nichtrechtsfähige Personenvereinigung, die die Verfügungsgewalt und tatsächliche Sachherrschaft über eine Fläche zum Anbau von gentechnisch veränderten Organismen besitzt.
+eine juristische oder natürliche Person oder eine sonstige Personenvereinigung, die die Verfügungsgewalt und tatsächliche Sachherrschaft über eine Fläche zum Anbau von gentechnisch veränderten Organismen besitzt.
 
 14. Den Beschäftigten gemäß § 2 Abs. 2 des Arbeitsschutzgesetzes stehen Schüler, Studenten und sonstige Personen, die gentechnische Arbeiten durchführen, gleich.
 

@@ -285,7 +285,7 @@ Im örtlichen Fahrlehrerregister sind für die Zwecke des § 58 des Fahrlehrerge
 
 1. a) zur Person des Inhabers der Erlaubnis, Anwärterbefugnis oder Anerkennung sowie zur Person der für die verantwortliche Leitung des Ausbildungsbetriebes einer Fahrschule oder einer Fahrlehrerausbildungsstätte bestellten Person: Familienname, Geburtsname, sonstige frühere Namen, Vornamen, Doktorgrad, Geschlecht, Geburtsdatum und Geburtsort, Anschrift und Staatsangehörigkeit,
 
-b) bei einer juristischen Person, Personengesellschaft oder Behörde: Name oder Bezeichnung und Anschrift sowie zusätzlich bei juristischen Personen und Personengesellschaften die nach Gesetz, Vertrag oder Satzung zur Vertretung berechtigten Personen mit den Angaben nach Buchstabe a,
+b) bei einer juristischen Person, rechtsfähigen Personengesellschaft oder Behörde: Name oder Bezeichnung und Anschrift sowie zusätzlich bei juristischen Personen und rechtsfähigen Personengesellschaften die nach Gesetz, Vertrag oder Satzung zur Vertretung berechtigten Personen mit den Angaben nach Buchstabe a,
 
 c) bei einer Vereinigung: Name oder Bezeichnung und Anschrift sowie die nach Gesetz, Vertrag oder Satzung zur Vertretung berechtigten Personen mit den Angaben nach Buchstabe a und
 

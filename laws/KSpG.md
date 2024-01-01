@@ -189,11 +189,11 @@ Veränderung von Kohlendioxidspeichern oder Kohlendioxidleitungen oder Veränder
 
 4. keine Tatsachen vorliegen, die die Annahme rechtfertigen, dass
 
-a) der Antragsteller, bei juristischen Personen und Personengesellschaften eine der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berechtigten Personen, die erforderliche Zuverlässigkeit nicht besitzt,
+a) der Antragsteller, bei juristischen Personen und rechtsfähigen Personengesellschaften eine der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berechtigten Personen, die erforderliche Zuverlässigkeit nicht besitzt,
 
 b) eine der zur Leitung oder Beaufsichtigung der Untersuchung bestellten Personen die erforderliche Zuverlässigkeit oder Fachkunde nicht besitzt oder
 
-c) der Antragsteller, bei juristischen Personen und Personengesellschaften die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berechtigte Person, die erforderliche Fachkunde nicht besitzt, falls keine unter Buchstabe b fallende Person bestellt ist,
+c) der Antragsteller, bei juristischen Personen und rechtsfähigen Personengesellschaften die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berechtigte Person, die erforderliche Fachkunde nicht besitzt, falls keine unter Buchstabe b fallende Person bestellt ist,
 
 5. die erforderlichen Vorkehrungen zum Schutz von Leben, Gesundheit und Sachgütern Beschäftigter und Dritter getroffen werden,
 
@@ -293,7 +293,7 @@ einzuholen. § 905 Satz 2 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
 1. den Namen und den Wohnsitz oder Sitz des Antragstellers,
 
-2. den Nachweis der Fachkunde des Antragstellers, bei juristischen Personen oder Personengesellschaften der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berechtigten Person, oder der für die Errichtung, Leitung und Beaufsichtigung der Anlage verantwortlichen Personen,
+2. den Nachweis der Fachkunde des Antragstellers, bei juristischen Personen oder rechtsfähigen Personengesellschaften der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berechtigten Person, oder der für die Errichtung, Leitung und Beaufsichtigung der Anlage verantwortlichen Personen,
 
 3. der Nachweis der erforderlichen finanziellen Leistungsfähigkeit und der erforderlichen Zuverlässigkeit des Antragstellers,
 

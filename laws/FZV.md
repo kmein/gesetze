@@ -962,11 +962,9 @@ b) der Zulassungsbescheinigung Teil II nach § 21 Absatz 1 Nummer 3 sowie
 
 (1) Liegen die Voraussetzungen für die Außerbetriebsetzung nach maschineller Prüfung durch das Portal vor, ist das Fahrzeug mittels einer automatisierten Entscheidung nach § 19 Absatz 1 Satz 2 außer Betrieb zu setzen. Abweichend von § 23 Absatz 1 Satz 2 erfolgt die Bekanntgabe der automatisierten Entscheidung, sofern diese nicht von der antragstellenden Person aus dem Portal abgerufen wird, durch
 
-1. Versendung einer De-Mail-Nachricht im Sinne des § 3a Absatz 2 Satz 4 Nummer 3 des Verwaltungsverfahrensgesetzes, wenn der Halter in seinem elektronischen Antrag ein auf seinen Namen eingerichtetes De-Mail-Konto benennt,
+1. Versendung einer De-Mail-Nachricht im Sinne des § 3a Absatz 3 Nummer 3 Buchstabe b des Verwaltungsverfahrensgesetzes, wenn der Halter in seinem elektronischen Antrag ein auf seinen Namen eingerichtetes De-Mail-Konto benennt,
 
-2. sonstige sichere Verfahren im Sinne des § 3a Absatz 2 Satz 4 Nummer 4 des Verwaltungsverfahrensgesetzes, wenn der Halter einen solchen elektronischen Kommunikationsweg eröffnet, oder
-
-3. durch Übersendung des Ausdrucks des elektronischen Dokuments
+2. durch Übersendung des Ausdrucks des elektronischen Dokuments
 
 und ist die Außerbetriebsetzung abweichend von § 23 Absatz 2 Halbsatz 2 am Tag der Absendung des Ausdrucks wirksam. Sofern die maschinelle Prüfung der Voraussetzungen für die Außerbetriebsetzung nicht erfolgen kann, hat die Entscheidung nach § 19 Absatz 1 Satz 4 zu erfolgen und ist im Fall einer antragsgemäßen Entscheidung die Außerbetriebsetzung abweichend von § 23 Absatz 2 am Tag der Absendung des schriftlichen Bescheides wirksam.
 

@@ -153,9 +153,11 @@
 
 (1) Die Mitglieder des zur Geschäftsführung berufenen Organs einer juristischen Person (Geschäftsleiter) wachen fortlaufend über Entwicklungen, welche den Fortbestand der juristischen Person gefährden können. Erkennen sie solche Entwicklungen, ergreifen sie geeignete Gegenmaßnahmen und erstatten den zur Überwachung der Geschäftsleitung berufenen Organen (Überwachungsorganen) unverzüglich Bericht. Berühren die zu ergreifenden Maßnahmen die Zuständigkeiten anderer Organe, wirken die Geschäftsleiter unverzüglich auf deren Befassung hin.
 
-(2) Bei Gesellschaften ohne Rechtspersönlichkeit im Sinne von § 15a Absatz 1 Satz 3 und Absatz 2 der Insolvenzordnung gilt Absatz 1 entsprechend für die Geschäftsleiter der zur Geschäftsführung berufenen Gesellschafter.
+(2) Bei rechtsfähigen Personengesellschaften im Sinne von § 15a Absatz 1 Satz 3 und Absatz 2 der Insolvenzordnung gilt Absatz 1 entsprechend für die Geschäftsleiter der zur Geschäftsführung berufenen Gesellschafter.
 
 (3) Weitergehende Pflichten, die sich aus anderen Gesetzen ergeben, bleiben unberührt.
+
+§ 1 Abs. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "rechtsfähige" durch das Wort "rechtsfähigen" ersetzt
 
 # § 2 – Gestaltbare Rechtsverhältnisse
 
@@ -167,9 +169,9 @@
 
 (2) Beruhen Restrukturierungsforderungen oder Absonderungsanwartschaften auf einem mehrseitigen Rechtsverhältnis zwischen dem Schuldner und mehreren Gläubigern, so sind auch Einzelbestimmungen in diesem Rechtsverhältnis durch den Restrukturierungsplan gestaltbar. Satz 1 gilt auch für die Bedingungen von Schuldtiteln im Sinne des § 2 Absatz 1 Nummer 3 des Wertpapierhandelsgesetzes und von Verträgen, die zu gleichlautenden Bedingungen mit einer Vielzahl von Gläubigern geschlossen wurden. Beruhen Restrukturierungsforderungen oder Absonderungsanwartschaften auf unterschiedlichen Rechtsverhältnissen und haben die Inhaber der Forderungen oder Anwartschaften untereinander und mit dem Schuldner Vereinbarungen über die Durchsetzung der gegenüber diesem bestehenden Forderungen oder Anwartschaften und das relative Rangverhältnis der aus der Durchsetzung resultierenden Erlöse getroffen, so sind auch die Bedingungen dieser Vereinbarung durch den Plan gestaltbar.
 
-(3) Ist der Schuldner eine juristische Person oder eine Gesellschaft ohne Rechtspersönlichkeit, können auch die Anteils- oder Mitgliedschaftsrechte der an dem Schuldner beteiligten Personen durch den Restrukturierungsplan gestaltet, sonstige gesellschaftsrechtlich zulässige Regelungen getroffen sowie Anteils- und Mitgliedschaftsrechte übertragen werden.
+(3) Ist der Schuldner eine juristische Person oder eine rechtsfähige Personengesellschaft, können auch die Anteils- oder Mitgliedschaftsrechte der an dem Schuldner beteiligten Personen durch den Restrukturierungsplan gestaltet, sonstige gesellschaftsrechtlich zulässige Regelungen getroffen sowie Anteils- und Mitgliedschaftsrechte übertragen werden.
 
-(4) Der Restrukturierungsplan kann auch die Rechte der Inhaber von Restrukturierungsforderungen gestalten, die diesen aus einer von einem verbundenen Unternehmen im Sinne des § 15 des Aktiengesetzes als Bürge, Mitschuldner oder aufgrund einer anderweitig übernommenen Haftung oder an Gegenständen des Vermögens dieses Unternehmens zustehen (gruppeninterne Drittsicherheit); der Eingriff ist durch eine angemessene Entschädigung zu kompensieren. Satz 1 Halbsatz 2 gilt entsprechend für eine Beschränkung der persönlichen Haftung eines persönlich haftenden Gesellschafters eines als Gesellschaft ohne Rechtspersönlichkeit verfassten Schuldners.
+(4) Der Restrukturierungsplan kann auch die Rechte der Inhaber von Restrukturierungsforderungen gestalten, die diesen aus einer von einem verbundenen Unternehmen im Sinne des § 15 des Aktiengesetzes als Bürge, Mitschuldner oder aufgrund einer anderweitig übernommenen Haftung oder an Gegenständen des Vermögens dieses Unternehmens zustehen (gruppeninterne Drittsicherheit); der Eingriff ist durch eine angemessene Entschädigung zu kompensieren. Satz 1 Halbsatz 2 gilt entsprechend für eine Beschränkung der persönlichen Haftung eines persönlich haftenden Gesellschafters eines als rechtsfähige Personengesellschaft verfassten Schuldners.
 
 (5) Maßgeblich für die Absätze 1 bis 4 sind die Rechtsverhältnisse zum Zeitpunkt der Unterbreitung des Planangebots (§ 17), im Fall einer Abstimmung im gerichtlichen Planabstimmungsverfahren zum Zeitpunkt der Antragstellung (§ 45). Erwirkt der Schuldner vorher eine Stabilisierungsanordnung (§ 49), tritt an die Stelle des Planangebots oder des Antrags der Zeitpunkt der Erstanordnung.
 
@@ -249,7 +251,7 @@ Sieht der gestaltende Teil des Restrukturierungsplans Eingriffe in die Rechte vo
 
 # § 11 – Haftung des Schuldners
 
-Ist im Restrukturierungsplan nichts anderes bestimmt, wird der Schuldner mit der im gestaltenden Teil vorgesehenen Befriedigung der Gläubiger von seinen restlichen Verbindlichkeiten gegenüber diesen aus den in den Plan einbezogenen Restrukturierungsforderungen und Absonderungsanwartschaften befreit. Handelt es sich bei dem Schuldner um eine Gesellschaft ohne Rechtspersönlichkeit oder eine Kommanditgesellschaft auf Aktien, so gilt Satz 1 entsprechend für die persönliche Haftung der unbeschränkt haftenden Gesellschafter.
+Ist im Restrukturierungsplan nichts anderes bestimmt, wird der Schuldner mit der im gestaltenden Teil vorgesehenen Befriedigung der Gläubiger von seinen restlichen Verbindlichkeiten gegenüber diesen aus den in den Plan einbezogenen Restrukturierungsforderungen und Absonderungsanwartschaften befreit. Handelt es sich bei dem Schuldner um eine rechtsfähige Personengesellschaft oder eine Kommanditgesellschaft auf Aktien, so gilt Satz 1 entsprechend für die persönliche Haftung der unbeschränkt haftenden Gesellschafter.
 
 # § 12 – Neue Finanzierung
 
@@ -267,9 +269,9 @@ Sollen Rechte an Gegenständen begründet, geändert, übertragen oder aufgehobe
 
 # § 15 – Weitere beizufügende Erklärungen
 
-(1) Handelt es sich bei dem Schuldner um eine Gesellschaft ohne Rechtspersönlichkeit oder eine Kommanditgesellschaft auf Aktien, so ist dem Restrukturierungsplan eine Erklärung der Personen beizufügen, die nach dem Plan persönlich haftende Gesellschafter des Unternehmens sein sollen, dass sie zur Fortführung des Unternehmens auf der Grundlage des Plans bereit sind.
+(1) Handelt es sich bei dem Schuldner um eine rechtsfähige Personengesellschaft oder eine Kommanditgesellschaft auf Aktien, so ist dem Restrukturierungsplan eine Erklärung der Personen beizufügen, die nach dem Plan persönlich haftende Gesellschafter des Unternehmens sein sollen, dass sie zur Fortführung des Unternehmens auf der Grundlage des Plans bereit sind.
 
-(2) Sollen Gläubiger Anteils- oder Mitgliedschaftsrechte oder Beteiligungen an einer juristischen Person, einem nicht rechtsfähigen Verein oder einer Gesellschaft ohne Rechtspersönlichkeit übernehmen, so ist dem Restrukturierungsplan die Zustimmungserklärung eines jeden dieser Gläubiger beizufügen.
+(2) Sollen Gläubiger Anteils- oder Mitgliedschaftsrechte oder Beteiligungen an einer juristischen Person, einem nicht rechtsfähigen Verein oder einer rechtsfähige Personengesellschaft übernehmen, so ist dem Restrukturierungsplan die Zustimmungserklärung eines jeden dieser Gläubiger beizufügen.
 
 (3) Hat ein Dritter für den Fall der Bestätigung des Restrukturierungsplans Verpflichtungen gegenüber den Gläubigern übernommen, so ist dem Plan die Erklärung des Dritten beizufügen.
 
@@ -464,7 +466,7 @@ Der Schuldner hat bei der Anzeige zudem anzugeben, ob die Rechte von Verbraucher
 
 (2) Der Schuldner teilt dem Gericht jede wesentliche Änderung mit, welche den Gegenstand des angezeigten Restrukturierungsvorhabens und die Darstellung des Verhandlungsstands betrifft. Hat der Schuldner eine Stabilisierungsanordnung nach § 49 erwirkt, teilt er auch unverzüglich wesentliche Änderungen mit, welche die Restrukturierungsplanung betreffen. Ist ein Restrukturierungsbeauftragter bestellt, bestehen die Pflichten nach den Sätzen 1 und 2 auch gegenüber dem Restrukturierungsbeauftragten.
 
-(3) Während der Rechtshängigkeit der Restrukturierungssache ist der Schuldner verpflichtet, dem Restrukturierungsgericht den Eintritt einer Zahlungsunfähigkeit im Sinne des § 17 Absatz 2 der Insolvenzordnung unverzüglich anzuzeigen. Handelt es sich bei dem Schuldner um eine juristische Person oder um eine Gesellschaft ohne Rechtspersönlichkeit, für deren Verbindlichkeiten keine natürliche Person als unmittelbarer oder mittelbarer Gesellschafter haftet, steht der Zahlungsunfähigkeit eine Überschuldung im Sinne des § 19 Absatz 2 der Insolvenzordnung gleich.
+(3) Während der Rechtshängigkeit der Restrukturierungssache ist der Schuldner verpflichtet, dem Restrukturierungsgericht den Eintritt einer Zahlungsunfähigkeit im Sinne des § 17 Absatz 2 der Insolvenzordnung unverzüglich anzuzeigen. Handelt es sich bei dem Schuldner um eine juristische Person oder um eine rechtsfähige Personengesellschaft, für deren Verbindlichkeiten keine natürliche Person als unmittelbarer oder mittelbarer Gesellschafter haftet, steht der Zahlungsunfähigkeit eine Überschuldung im Sinne des § 19 Absatz 2 der Insolvenzordnung gleich.
 
 (4) Der Schuldner ist verpflichtet, dem Gericht unverzüglich anzuzeigen, wenn das Restrukturierungsvorhaben keine Aussicht auf Umsetzung hat, insbesondere, wenn infolge der erkennbar gewordenen ernsthaften und endgültigen Ablehnung des vorgelegten Restrukturierungsplans durch Planbetroffene nicht davon ausgegangen werden kann, dass die für eine Planannahme erforderlichen Mehrheiten erreicht werden können.
 
@@ -566,7 +568,7 @@ Für Verfahren in Restrukturierungssachen gelten, soweit dieses Gesetz nichts an
 
 # § 43 – Pflichten und Haftung der Organe
 
-(1) Handelt es sich bei dem Schuldner um eine juristische Person oder um eine Gesellschaft ohne Rechtspersönlichkeit im Sinne des § 15a Absatz 1 Satz 3, Absatz 2 der Insolvenzordnung, wirken dessen Geschäftsleiter darauf hin, dass der Schuldner die Restrukturierungssache mit der Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters betreibt und die Interessen der Gesamtheit der Gläubiger wahrt. Für die Verletzung dieser Pflicht haften sie dem Schuldner in Höhe des den Gläubigern entstandenen Schadens, es sei denn sie haben die Pflichtverletzung nicht zu vertreten.
+(1) Handelt es sich bei dem Schuldner um eine juristische Person oder um eine rechtsfähige Personengesellschaft im Sinne des § 15a Absatz 1 Satz 3, Absatz 2 der Insolvenzordnung, wirken dessen Geschäftsleiter darauf hin, dass der Schuldner die Restrukturierungssache mit der Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters betreibt und die Interessen der Gesamtheit der Gläubiger wahrt. Für die Verletzung dieser Pflicht haften sie dem Schuldner in Höhe des den Gläubigern entstandenen Schadens, es sei denn sie haben die Pflichtverletzung nicht zu vertreten.
 
 (2) Ein Verzicht des Schuldners auf Ansprüche nach Absatz 1 Satz 2 oder ein Vergleich über diese Ansprüche ist unwirksam, soweit der Ersatz zur Befriedigung der Gläubiger erforderlich ist. Dies gilt nicht, wenn sich der Ersatzpflichtige zur Abwendung eines Insolvenzverfahrens über sein Vermögen mit seinen Gläubigern vergleicht, wenn die Ersatzpflicht in einem Insolvenzplan geregelt wird oder wenn für den Ersatzberechtigten ein Insolvenzverwalter handelt.
 
@@ -726,7 +728,7 @@ In diesem Fall verlängert sich die Anordnungshöchstdauer um einen Monat und di
 
 # § 57 – Haftung der Organe
 
-Handelt es sich bei dem Schuldner um eine juristische Person oder um eine Gesellschaft ohne Rechtspersönlichkeit im Sinne des § 15a Absatz 1 Satz 3, Absatz 2 der Insolvenzordnung und erwirkt er aufgrund vorsätzlich oder fahrlässig unrichtiger Angaben eine Stabilisierungsanordnung, ist der Geschäftsleiter den davon betroffenen Gläubigern zum Ersatz des Schadens verpflichtet, den diese durch die Anordnung erleiden. Dies gilt nicht, wenn ihn kein Verschulden trifft. Die Sätze 1 und 2 gelten auch für den Ersatz des Schadens, der einem Gläubiger aus einer nicht ordnungsgemäßen Auskehrung oder Verwahrung der Erlöse nach § 54 Absatz 2 entsteht. Für Ansprüche nach den Sätzen 1 und 3 gilt § 43 Absatz 3 entsprechend.
+Handelt es sich bei dem Schuldner um eine juristische Person oder um eine rechtsfähige Personengesellschaft im Sinne des § 15a Absatz 1 Satz 3, Absatz 2 der Insolvenzordnung und erwirkt er aufgrund vorsätzlich oder fahrlässig unrichtiger Angaben eine Stabilisierungsanordnung, ist der Geschäftsleiter den davon betroffenen Gläubigern zum Ersatz des Schadens verpflichtet, den diese durch die Anordnung erleiden. Dies gilt nicht, wenn ihn kein Verschulden trifft. Die Sätze 1 und 2 gelten auch für den Ersatz des Schadens, der einem Gläubiger aus einer nicht ordnungsgemäßen Auskehrung oder Verwahrung der Erlöse nach § 54 Absatz 2 entsteht. Für Ansprüche nach den Sätzen 1 und 3 gilt § 43 Absatz 3 entsprechend.
 
 # § 58 – Insolvenzantrag
 
@@ -758,11 +760,11 @@ b) die Rechnungslegung und Buchführung des Schuldners so unvollständig oder ma
 
 (1) Auf Antrag des Schuldners bestätigt das Gericht den von den Planbetroffenen angenommenen Restrukturierungsplan durch Beschluss. Der Antrag kann auch im Erörterungs- und Abstimmungstermin gestellt werden. Ist die Planabstimmung nicht im gerichtlichen Verfahren (§ 45) erfolgt, hat der Schuldner dem Antrag auf Bestätigung des Restrukturierungsplans neben dem zur Abstimmung gestellten Plan und seinen Anlagen die Dokumentation über das Abstimmungsergebnis sowie sämtliche Urkunden und sonstigen Nachweise beizufügen, aus denen sich ergibt, wie die Abstimmung durchgeführt wurde und zu welchem Ergebnis sie geführt hat.
 
-(2) Handelt es sich bei dem Schuldner um eine Gesellschaft ohne Rechtspersönlichkeit oder um eine Kommanditgesellschaft auf Aktien, bedarf der Antrag auf Bestätigung eines Restrukturierungsplans, der die persönlich haftenden Gesellschafter nicht von deren Haftung für die durch den Plan gestalteten Forderungen und Rechte befreit, der Zustimmung aller persönlich haftenden Gesellschafter. Dies gilt nicht, soweit es sich bei den persönlich haftenden Gesellschaftern
+(2) Handelt es sich bei dem Schuldner um eine rechtsfähige Personengesellschaft oder um eine Kommanditgesellschaft auf Aktien, bedarf der Antrag auf Bestätigung eines Restrukturierungsplans, der die persönlich haftenden Gesellschafter nicht von deren Haftung für die durch den Plan gestalteten Forderungen und Rechte befreit, der Zustimmung aller persönlich haftenden Gesellschafter. Dies gilt nicht, soweit es sich bei den persönlich haftenden Gesellschaftern
 
 1. um juristische Personen handelt oder
 
-2. um Gesellschaften ohne Rechtspersönlichkeit handelt, bei denen kein persönlich haftender Gesellschafter eine natürliche Person ist und kein persönlich haftender Gesellschafter selbst eine Gesellschaft ohne Rechtspersönlichkeit ist, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist oder sich die Verbindung von Gesellschaften in dieser Art fortsetzt.
+2. um rechtsfähige Personengesellschaften handelt, bei denen kein persönlich haftender Gesellschafter eine natürliche Person ist und kein persönlich haftender Gesellschafter selbst eine rechtsfähige Personengesellschaft ist, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist oder sich die Verbindung von Gesellschaften in dieser Art fortsetzt.
 
 # § 61 – Anhörung
 
@@ -828,7 +830,7 @@ Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung bestimmte 
 
 (1) Mit der Bestätigung des Restrukturierungsplans treten die im gestaltenden Teil festgelegten Wirkungen ein. Dies gilt auch im Verhältnis zu Planbetroffenen, die gegen den Plan gestimmt haben oder die an der Abstimmung nicht teilgenommen haben, obgleich sie ordnungsgemäß an dem Abstimmungsverfahren beteiligt worden sind.
 
-(2) Handelt es sich bei dem Schuldner um eine Gesellschaft ohne Rechtspersönlichkeit oder eine Kommanditgesellschaft auf Aktien, wirkt eine Befreiung des Schuldners von Verbindlichkeiten auch zugunsten seiner persönlich haftenden Gesellschafter, sofern im Restrukturierungsplan nichts anderes bestimmt ist.
+(2) Handelt es sich bei dem Schuldner um eine rechtsfähige Personengesellschaft oder eine Kommanditgesellschaft auf Aktien, wirkt eine Befreiung des Schuldners von Verbindlichkeiten auch zugunsten seiner persönlich haftenden Gesellschafter, sofern im Restrukturierungsplan nichts anderes bestimmt ist.
 
 (3) Die Rechte der Restrukturierungsgläubiger gegen Mitschuldner und Bürgen des Schuldners sowie die Rechte der Gläubiger an Gegenständen, die nicht zum Vermögen des Schuldners gehören, oder aus einer Vormerkung, die sich auf solche Gegenstände bezieht, werden mit Ausnahme der nach § 2 Absatz 4 gestalteten Rechte aus gruppeninternen Drittsicherheiten von dem Restrukturierungsplan nicht berührt. Der Schuldner wird jedoch durch den Plan gegenüber dem Mitschuldner, Bürgen oder sonstigen Rückgriffsberechtigten befreit wie gegenüber dem Gläubiger.
 
@@ -1124,7 +1126,7 @@ Die Verpflichtungen des Schuldners gegenüber den Arbeitnehmervertretungsorganen
 
 # § 94 – Antrag
 
-(1) Auf Antrag eines restrukturierungsfähigen Schuldners bestellt das Gericht eine geeignete, insbesondere geschäftskundige und von den Gläubigern und dem Schuldner unabhängige natürliche Person zum Sanierungsmoderator. Dies gilt nicht, wenn der Schuldner offensichtlich zahlungsunfähig ist. Handelt es sich bei dem Schuldner um eine juristische Person oder eine Person ohne Rechtspersönlichkeit, für deren Verbindlichkeiten keine natürliche Person als unmittelbarer oder mittelbarer Gesellschafter haftet, gilt Satz 2 auch bei einer offensichtlichen Überschuldung.
+(1) Auf Antrag eines restrukturierungsfähigen Schuldners bestellt das Gericht eine geeignete, insbesondere geschäftskundige und von den Gläubigern und dem Schuldner unabhängige natürliche Person zum Sanierungsmoderator. Dies gilt nicht, wenn der Schuldner offensichtlich zahlungsunfähig ist. Handelt es sich bei dem Schuldner um eine juristische Person oder eine rechtsfähige Personengesellschaft, für deren Verbindlichkeiten keine natürliche Person als unmittelbarer oder mittelbarer Gesellschafter haftet, gilt Satz 2 auch bei einer offensichtlichen Überschuldung.
 
 (2) Im Antrag sind anzugeben:
 
@@ -1132,7 +1134,7 @@ Die Verpflichtungen des Schuldners gegenüber den Arbeitnehmervertretungsorganen
 
 2. die Art der wirtschaftlichen oder finanziellen Schwierigkeiten.
 
-Dem Antrag sind ein Verzeichnis der Gläubiger und ein Verzeichnis des Vermögens sowie die Erklärung des Schuldners beizufügen, nicht zahlungsunfähig zu sein. Handelt es sich bei dem Schuldner um eine juristische Person oder eine Person ohne Rechtspersönlichkeit, für deren Verbindlichkeiten keine natürliche Person als unmittelbarer oder mittelbarer Gesellschafter haftet, hat sich die Erklärung auch darauf zu erstrecken, dass keine Überschuldung vorliegt.
+Dem Antrag sind ein Verzeichnis der Gläubiger und ein Verzeichnis des Vermögens sowie die Erklärung des Schuldners beizufügen, nicht zahlungsunfähig zu sein. Handelt es sich bei dem Schuldner um eine juristische Person oder eine rechtsfähige Personengesellschaft, für deren Verbindlichkeiten keine natürliche Person als unmittelbarer oder mittelbarer Gesellschafter haftet, hat sich die Erklärung auch darauf zu erstrecken, dass keine Überschuldung vorliegt.
 
 (3) Der Antrag ist an das für Restrukturierungssachen zuständige Gericht zu richten.
 
@@ -1158,7 +1160,7 @@ Dem Antrag sind ein Verzeichnis der Gläubiger und ein Verzeichnis des Vermögen
 
 4. das Ziel und den voraussichtlichen Fortgang der Verhandlungen.
 
-(4) Der Sanierungsmoderator zeigt dem Gericht eine ihm bekannt gewordene Zahlungsunfähigkeit des Schuldners an. Handelt es sich bei dem Schuldner um eine juristische Person oder um eine Gesellschaft ohne Rechtspersönlichkeit, bei der kein persönlich haftender Gesellschafter eine natürliche Person ist, gilt dies auch für die Überschuldung des Schuldners.
+(4) Der Sanierungsmoderator zeigt dem Gericht eine ihm bekannt gewordene Zahlungsunfähigkeit des Schuldners an. Handelt es sich bei dem Schuldner um eine juristische Person oder um eine rechtsfähige Personengesellschaft, bei der kein persönlich haftender Gesellschafter eine natürliche Person ist, gilt dies auch für die Überschuldung des Schuldners.
 
 (5) Der Sanierungsmoderator steht unter der Aufsicht des Restrukturierungsgerichts. Das Restrukturierungsgericht kann den Sanierungsmoderator aus wichtigem Grund aus dem Amt entlassen. Vor der Entscheidung ist der Sanierungsmoderator zu hören.
 

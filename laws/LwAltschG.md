@@ -43,7 +43,7 @@ Vor dem 30. Juni 2004 vorgenommene Teilwertabschreibungen gemäß Nummer 1 und Z
 
 (4) Die Bemessungsgrundlage nach den Absätzen 1 bis 3 erhöht sich um den positiven Unterschiedsbetrag zwischen dem Teilwert und dem Buchwert von immateriellen Wirtschaftsgütern, die kein Geschäfts- oder Firmenwert sind, sowie von Tierbeständen. Der positive Unterschiedsbetrag ist dabei gleichmäßig auf die ersten zwei nach dem 30. Juni 2004 beginnenden Geschäftsjahre zu verteilen. Werden bei einer späteren Veräußerung der immateriellen Wirtschaftsgüter oder Tierbestände stille Reserven realisiert, bleiben diese im Veräußerungsjahr bei der Ermittlung der Bemessungsgrundlage gemäß Absatz 1 unberücksichtigt, soweit sie bereits nach Satz 1 zu einer Erhöhung der Bemessungsgrundlage geführt haben.
 
-(5) Ist der Kreditnehmer eine Personengesellschaft, vermindert sich die Bemessungsgrundlage nach den Absätzen 1 bis 4 um die Vergütungen, die ein Gesellschafter, der als Unternehmer (Mitunternehmer) des Betriebs des Kreditnehmers anzusehen ist, für seine Tätigkeit im Dienst der Gesellschaft von der Gesellschaft oder für die Hingabe von Darlehen oder für die Überlassung von Wirtschaftsgütern bezogen hat, soweit diese Beträge als angemessen anzusehen sind.
+(5) Ist der Kreditnehmer eine rechtsfähige Personengesellschaft, vermindert sich die Bemessungsgrundlage nach den Absätzen 1 bis 4 um die Vergütungen, die ein Gesellschafter, der als Unternehmer (Mitunternehmer) des Betriebs des Kreditnehmers anzusehen ist, für seine Tätigkeit im Dienst der Gesellschaft von der Gesellschaft oder für die Hingabe von Darlehen oder für die Überlassung von Wirtschaftsgütern bezogen hat, soweit diese Beträge als angemessen anzusehen sind.
 
 (+++ § 2: Zur Anwendung vgl. §§ 13, 14 +++)
 

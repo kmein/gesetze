@@ -223,7 +223,9 @@ a) Ein- und Ausladehafen,
 
 b) Bruttogewicht nach Güter- und Ladungsart,
 
-c) Zahl und Beladungszustand nach Größe der Container und Art der RoRo-Einheiten;
+c) Zahl und Beladungszustand nach Größe der Container und Art der RoRo-Einheiten und
+
+d) in der Binnenschifffahrt bei Gefahrgütern die UN-Nummer oder Stoffnummer;
 
 4. für die in der Seeschifffahrt beförderten Personen:
 
@@ -471,17 +473,17 @@ Zahl der Fahrgäste und Beförderungsleistung im Schienennahverkehr nach Art des
 
 a) Land des Unternehmenssitzes und Eigentumsverhältnisse am Unternehmen,
 
-b) Zahl der Fahrgäste, Beförderungsleistung, Fahrleistung und Beförderungsangebot im Schienen- und Liniennahverkehr nach Art des Verkehrsmittels und im Gelegenheitsnahverkehr,
+b) Zahl der Fahrgäste, Beförderungsleistung, Fahrleistung und Beförderungsangebot im Schienen- und Liniennahverkehr nach Art des Verkehrsmittels,
 
 c) Zahl der Fahrgäste im Ausbildungsverkehr nach Art des Verkehrsmittels und nach Art des Ausbildungsverkehrs,
 
 d) direkte Beförderungseinnahmen und Einnahmen aus den Beförderungen im Ausbildungsverkehr, die im Schienen- und Liniennahverkehr sowie im freigestellten Omnibusverkehr erfolgen,
 
-e) Fahrleistung im städtischen Verkehr sowie Fahrleistung im Auftragsverkehr im Schienen- und Liniennahverkehr nach Art des Verkehrsmittels,
+e) Fahrleistung im Auftragsverkehr im Schienen- und Liniennahverkehr nach Art des Verkehrsmittels,
 
-f) im Fernverkehr mit Omnibussen nach Linien- und Gelegenheitsverkehr die Zahl der Fahrgäste und die Beförderungsleistung nach Hauptverkehrsverbindungen, die Fahrleistung und das Beförderungsangebot nach In- und Ausland,
+f) im Verkehr mit Omnibussen nach Linienfernverkehr und Gelegenheitsverkehr die Zahl der Fahrgäste und die Beförderungsleistung nach Hauptverkehrsverbindungen, die Fahrleistung und das Beförderungsangebot nach In- und Ausland,
 
-g) Zahl der Fahrgäste nach Art der Reisen im Gelegenheitsfernverkehr,
+g) Zahl der Fahrgäste nach Art der Reisen im Gelegenheitsverkehr,
 
 h) Beförderungsleistung im Schienen- und Liniennahverkehr nach Ländern,
 
@@ -533,11 +535,11 @@ c) Zahl der Fahrgäste nach Ein- und Aussteigeregion nach der NUTS-2-Regionalgli
 
 1. monatlich:
 
-a) beförderte Güter (ohne kombinierten Verkehr) nach Menge, Beförderungsleistung, Güterart und Kreis der Be- und Entladung,
+a) beförderte Güter (ohne kombinierten Verkehr) nach Menge, Beförderungsleistung, Güterart und Stelle der Be- und Entladung,
 
-b) beförderte Güter im kombinierten Verkehr nach Menge, Beförderungsleistung, Art der Ladeeinheit und Kreis der Be- und Entladung,
+b) beförderte Güter im kombinierten Verkehr nach Menge, Beförderungsleistung, Art der Ladeeinheit und Stelle der Be- und Entladung,
 
-c) beförderte Ladeeinheiten des kombinierten Verkehrs nach Anzahl, Art, Ladezustand sowie Kreis der Be- und Entladung;
+c) beförderte Ladeeinheiten des kombinierten Verkehrs nach Anzahl, Art, Ladezustand sowie Stelle der Be- und Entladung;
 
 2. jährlich:
 

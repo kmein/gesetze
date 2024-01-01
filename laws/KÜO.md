@@ -819,8 +819,8 @@ Wärmespeichervolumen
 |:-------------------------------------------------------------------------------------------------------------------|:----------------------|
 | Ordnungsgemäßer technischer Zustand der Feuerungsanlage (§ 4 Absatz 1):                                            | \[ \]  ja  \[ \] nein |
 | Vorhandenes Wärmespeichervolumen ausreichend (§ 5 Absatz 4):                                                       | \[ \]  ja  \[ \] nein |
-| Abstand der Austrittsöffnung des Schornsteins zum Dach ausreichend (§ 19 Absatz 1 Nummer 1):                       | \[ \]  ja  \[ \] nein |
-| Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19 Absatz 1 Nummer 2):                             | \[ \]  ja  \[ \] nein |
+| ausreichende Höhe und Firstnähe der Schornsteinmündung (§ 19 Absatz 1 Satz 1 bis 4, Absatz 2 Satz 1 Nummer 1):     | \[ \]  ja  \[ \] nein |
+| Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19 Absatz 1 Satz 5, Absatz 2 Satz 1 Nummer 2):     | \[ \]  ja  \[ \] nein |
 | Feuerungsanlage nach Herstellerangaben für verwendete Brennstoffe (§ 4 Absatz 1) bzw. § 5 Absatz 2 und 3 geeignet: | \[ \] ja  \[ \]  nein |
 
 Messergebnis (Werte im Abgas):
@@ -976,12 +976,12 @@ Eingesetzte Brennstoffe nach § 3 Absatz 1 (Nr.)
 |  Einrichtung zur Reduzierung der Staubemissionen vorhanden (§ 4 Absatz 5)                                                       |
 |  Messung durch eine Schornsteinfegerin oder einen Schornsteinfeger positiv (§ 4 Absatz 5 Nummer 1)                              |
 
-|                                                                                              |                        |
-|:---------------------------------------------------------------------------------------------|:-----------------------|
-| Ordnungsgemäßer technischer Zustand der Feuerungsanlage (§ 4 Absatz 1):                      | \[ \]  ja  \[ \]  nein |
-| Feuerungsanlage nach Herstellerangaben für verwendete Brennstoffe (§ 4 Absatz 1) geeignet:   | \[ \]  ja  \[ \]  nein |
-| Abstand der Austrittsöffnung des Schornsteins zum Dach ausreichend (§ 19 Absatz 1 Nummer 1): | \[ \]  ja  \[ \]  nein |
-| Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19 Absatz 1 Nummer 2):       | \[ \]  ja  \[ \]  nein |
+|                                                                                                                |                        |
+|:---------------------------------------------------------------------------------------------------------------|:-----------------------|
+| Ordnungsgemäßer technischer Zustand der Feuerungsanlage (§ 4 Absatz 1):                                        | \[ \]  ja  \[ \]  nein |
+| Feuerungsanlage nach Herstellerangaben für verwendete Brennstoffe (§ 4 Absatz 1) geeignet:                     | \[ \]  ja  \[ \]  nein |
+| Abstand der Austrittsöffnung des Schornsteins zum Dach ausreichend (§ 19 Absatz 1 Nummer 1):                   | \[ \]  ja  \[ \]  nein |
+| Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19 Absatz 1 Satz 5, Absatz 2 Satz 1 Nummer 2): | \[ \]  ja  \[ \]  nein |
 
 \[ \] Das Ergebnis entspricht der Verordnung.
 

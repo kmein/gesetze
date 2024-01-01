@@ -141,7 +141,7 @@ Der Zeitpunkt der Antragstellung im Sinne der Nummern 1 und 2 ist der Zeitpunkt,
 
 3. der Verkehrswert der im Privatvermögen eines persönlich haftenden Unternehmers vorhandenen Vermögensgegenstände, soweit sie unbelastet sind, und
 
-4. die zu Gunsten des Unternehmens beliehenen Gegenstände des Privatvermögens der Gesellschafter von Personengesellschaften in Höhe der Beleihung.
+4. die zu Gunsten des Unternehmens beliehenen Gegenstände des Privatvermögens der Gesellschafter von rechtsfähigen Personengesellschaften in Höhe der Beleihung.
 
 Der Nachweis über das Vorliegen der Nummern 1 bis 4 ist zu erbringen durch Vorlage einer Bescheinigung eines Wirtschaftsprüfers, vereidigten Buchprüfers, Steuerberaters, Steuerbevollmächtigten, Fachanwalts für Steuerrecht, einer Wirtschaftsprüfungs-, Buchprüfungs- oder Berufsausübungsgesellschaft im Sinne des Steuerberatungsgesetzes oder eines Kreditinstituts nach dem Muster der Anlage 2 (Zusatzbescheinigung). Absatz 2 Nr. 2 Satz 2 und 3 gilt entsprechend.
 

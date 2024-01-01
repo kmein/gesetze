@@ -5,7 +5,7 @@
 
 (1) Diese Verordnung regelt die Ausbildung von Triebfahrzeugführern, die Erteilung von Triebfahrzeugführerscheinen und Zusatzbescheinigungen, die Registerführung und die Überwachung für Triebfahrzeugführer, die Triebfahrzeuge für Eisenbahnen, die eine Sicherheitsbescheinigung nach § 7a des Allgemeinen Eisenbahngesetzes oder eine Sicherheitsgenehmigung nach § 7c des Allgemeinen Eisenbahngesetzes benötigen, auf öffentlichen Eisenbahninfrastrukturen bewegen, sowie die Anerkennung der Ausbildungsorganisation von sonstigem, mit sicherheitsrelevanten betrieblichen Aufgaben betrautem Eisenbahnpersonal.
 
-(2) Abweichend von Absatz 1 findet diese Verordnung keine Anwendung innerhalb des Bereichs von Serviceeinrichtungen nach Anlage 2 Nummer 2 Satz 1 Buchstabe e und f des Eisenbahnregulierungsgesetzes.
+(2) Abweichend von Absatz 1 findet diese Verordnung keine Anwendung innerhalb des Bereichs von Serviceeinrichtungen nach Anlage 2 Nummer 2 Buchstabe e und f des Eisenbahnregulierungsgesetzes.
 
 # § 2 – Begriffsbestimmungen
 
@@ -19,13 +19,13 @@ Im Sinne dieser Verordnung bedeutet:
 
 4. „zuständige Behörde“ das Eisenbahn-Bundesamt;
 
-5. „zuständige Behörde eines anderen Mitgliedstaates“ eine Sicherheitsbehörde eines anderen Mitgliedstaates nach Artikel 16 der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung („Richtlinie über die Eisenbahnsicherheit“) (ABl. L 164 vom 30.4.2004, S. 44, L 220 vom 21.6.2004, S. 16; L 103 vom 22.4.2015, S. 11), die zuletzt durch die Richtlinie 2014/88/EU (ABl. L 201 vom 10.7.2014, S. 9) geändert worden ist;
+5. „zuständige Behörde eines anderen Mitgliedstaates“ eine Sicherheitsbehörde eines anderen Mitgliedstaates nach Artikel 16 der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit (ABl. L 138 vom 26.5.2016, S. 102; L 59 vom 7.3.2017, S. 41; L 110 vom 30.4.2018, S. 141; L 317 vom 9.12.2019, S. 114) in der jeweils geltenden Fassung;
 
-6. „Triebfahrzeugführerschein“ die von einer zuständigen Behörde erteilte Fahrerlaubnis nach Artikel 4 Absatz 1 Buchstabe a der Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Zertifizierung von Triebfahrzeugführern, die Lokomotiven und Züge im Eisenbahnsystem in der Gemeinschaft führen (ABl. L 315 vom 3.12.2007, S. 51), die zuletzt durch die Richtlinie (EU) 2016/882 (ABl. L 146 vom 3.6.2016, S. 22) geändert worden ist;
+6. „Triebfahrzeugführerschein“ die von einer zuständigen Behörde erteilte Fahrerlaubnis nach Artikel 4 Absatz 1 Buchstabe a der Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Zertifizierung von Triebfahrzeugführern, die Lokomotiven und Züge im Eisenbahnsystem in der Gemeinschaft führen (ABl. L 315 vom 3.12.2007, S. 51), die zuletzt durch die Verordnung (EU) 2019/554 (ABl. L 97 vom 8.4.2019, S. 1) geändert worden ist;
 
-7. „Technische Spezifikationen für die Interoperabilität (TSI)“ Spezifikationen im Sinne des Kapitels II der Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008 über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft (ABl. L 191 vom 18.7.2008, S. 1; L 103 vom 22.4.2015, S. 11), die zuletzt durch die Richtlinie 2014/106/EU (ABl. L 355 vom 12.12.2014, S. 42) geändert worden ist, oder der Richtlinien 96/48/EG des Rates vom 23. Juli 1996 über die Interoperabilität des transeuropäischen Hochgeschwindigkeitsbahnsystems (ABl. L 235 vom 17.9.1996, S. 6) und 2001/16/EG des Europäischen Parlaments und des Rates vom 19. März 2001 über die Interoperabilität des konventionellen transeuropäischen Eisenbahnsystems (ABl. L 110 vom 20.4.2001, S. 1), die jeweils zuletzt durch die Richtlinie 2007/32/EG (ABl. L 141 vom 2.6.2007, S. 63) geändert worden sind, die für jedes Teilsystem oder Teile davon im Hinblick auf die Erfüllung der grundlegenden Anforderungen gelten und die Interoperabilität gewährleisten;
+7. „Technische Spezifikationen für die Interoperabilität“ Spezifikationen im Sinne des Kapitels II der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Interoperabilität des Eisenbahnsystems der Europäischen Union (ABl. L 138 vom 26.5.2016, S. 44; L 303 vom 17.9.2020, S. 23; L 458 vom 22.12.2021, S. 539) in der jeweils geltenden Fassung, der Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008 über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft (ABl. L 191 vom 18.7.2008, S. 1; L 103 vom 22.4.2015, S. 11), die zuletzt durch die Richtlinie 2014/106/EU (ABl. L 355 vom 12.12.2014, S. 42) geändert worden ist, der Richtlinie 96/48/EG des Rates vom 23. Juli 1996 über die Interoperabilität des transeuropäischen Hochgeschwindigkeitsbahnsystems (ABl. L 235 vom 17.9.1996, S. 6) oder der Richtlinie 2001/16/EG des Europäischen Parlaments und des Rates vom 19. März 2001 über die Interoperabilität des konventionellen transeuropäischen Eisenbahnsystems (ABl. L 110 vom 20.4.2001, S. 1), die jeweils zuletzt durch die Richtlinie 2007/32/EG (ABl. L 141 vom 2.6.2007, S. 63) geändert worden sind, die für jedes Teilsystem oder Teile davon im Hinblick auf die Erfüllung der grundlegenden Anforderungen gelten und die Interoperabilität gewährleisten;
 
-8. „Rangierfahrt“ Bewegen von Fahrzeugen im Bahnbetrieb, soweit es sich nicht um eine Zugfahrt entsprechend § 34 Absatz 1 der Eisenbahn-Bau- und Betriebsordnung vom 8. Mai 1967 (BGBl. 1967 II S. 1563) handelt, die zuletzt durch Artikel 2 der Verordnung vom 26. Juli 2017 (BGBl. I S. 3054) geändert worden ist; Fahrten im Baugleis sind stets Rangierfahrten.
+8. „Rangierfahrt“ Bewegen von Fahrzeugen im Bahnbetrieb, soweit es sich nicht um eine Zugfahrt entsprechend § 34 Absatz 1 der Eisenbahn-Bau- und Betriebsordnung handelt; Fahrten im Baugleis sind stets Rangierfahrten.
 
 # § 3 – Fahrberechtigung
 
@@ -49,7 +49,7 @@ nachzuweisen.
 
 2. ein Ersatztriebfahrzeug nach einem unterwegs aufgetretenen Schaden an dem ursprünglich eingesetzten Triebfahrzeug gestellt wird;
 
-3. es sich um Sonderfahrten mit historischen Zügen handelt oder
+3. es sich um Sonderfahrten mit Fahrzeugen, die ausschließlich für historische Zwecke genutzt werden, handelt oder
 
 4. ein neues Triebfahrzeug ausgeliefert oder vorgeführt wird.
 
@@ -73,15 +73,15 @@ Der Unternehmer entscheidet, ob ein Triebfahrzeugführer nach Satz 1 im Einzelfa
 
 2. eine Schulausbildung im Sekundarbereich I erfolgreich abgeschlossen hat;
 
-3. nach dem Ergebnis einer Untersuchung durch einen nach § 16 anerkannten Arzt, die sich mindestens auf die in Anlage 4 Nummer 1.1, 1.2, 1.3 und 2.1 aufgeführten Themen erstreckt hat, gesundheitlich geeignet ist;
+3. nach dem Ergebnis einer Untersuchung durch einen nach § 16 anerkannten Arzt, die sich mindestens auf die in Anlage 4 Unterabschnitt 2.1 aufgeführten Themen erstreckt hat, gesundheitlich geeignet ist;
 
-4. nach dem Ergebnis einer Untersuchung durch einen nach § 16 anerkannten Psychologen, die sich mindestens auf die in Anlage 4 Nummer 2.2 aufgeführten Themen erstreckt hat, psychologisch geeignet ist;
+4. nach dem Ergebnis einer Untersuchung durch einen nach § 16 anerkannten Psychologen, die sich mindestens auf die in Anlage 4 Unterabschnitt 2.2 aufgeführten Themen erstreckt hat, psychologisch geeignet ist;
 
 5. seine allgemeinen Fachkenntnisse im Rahmen einer Prüfung nachgewiesen hat, die mindestens die in Anlage 5 aufgeführten allgemeinen Themen umfasst;
 
 6. für seine Tätigkeit zuverlässig ist.
 
-Abweichend von Satz 1 Nummer 1 wird Bewerbern, die mindestens 18 Jahre alt sind, ein Triebfahrzeugführerschein für den Einsatz auf Schienenwegen öffentlicher Eisenbahninfrastrukturunternehmen auf dem Gebiet der Bundesrepublik Deutschland ausgestellt, wenn die erforderliche geistige Eignung durch Vorlage eines medizinisch-psychologischen Gutachtens nachgewiesen ist. Die Untersuchung nach Satz 1 Nummer 3 kann auch unter Aufsicht eines nach § 16 anerkannten Arztes und die Untersuchung nach Satz 1 Nummer 4 unter Aufsicht eines nach § 16 anerkannten Psychologen durchgeführt worden sein. Sofern der Bewerber eine Prüfung nach § 10 der Verordnung über die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst erfolgreich absolviert hat, wird diese im Falle des Satzes 1 Nummer 5 als gleichwertig anerkannt. Die erforderliche Zuverlässigkeit ist insbesondere dann nicht gegeben, wenn der Bewerber an einer Suchtkrankheit leidet oder erheblich oder wiederholt gegen verkehrsrechtliche Vorschriften verstoßen hat.
+Abweichend von Satz 1 Nummer 1 wird Bewerbern, die mindestens 18 Jahre alt sind, ein Triebfahrzeugführerschein für den Einsatz auf Schienenwegen öffentlicher Eisenbahninfrastrukturunternehmen auf dem Gebiet der Bundesrepublik Deutschland ausgestellt, wenn die erforderliche geistige Eignung durch Vorlage des Ergebnisses eines medizinisch-psychologischen Gutachtens nachgewiesen ist. Die Untersuchung nach Satz 1 Nummer 3 kann auch unter Aufsicht eines nach § 16 anerkannten Arztes und die Untersuchung nach Satz 1 Nummer 4 unter Aufsicht eines nach § 16 anerkannten Psychologen durchgeführt worden sein. Sofern der Bewerber eine Prüfung nach § 10 der Verordnung über die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst vom 15. Juli 2004 (BGBl. I S. 1626), die durch Artikel 1 der Verordnung vom 31. August 2016 (BGBl. I S. 2138) geändert worden ist, oder nach § 7 Absatz 1 der Lokführer- und Transportausbildungsverordnung bestanden hat, gilt dies als Nachweis des Erfüllens der Voraussetzung des Satzes 1 Nummer 5. Die erforderliche Zuverlässigkeit ist insbesondere dann nicht gegeben, wenn der Bewerber an einer Suchtkrankheit leidet oder erheblich oder wiederholt gegen verkehrsrechtliche Vorschriften verstoßen hat.
 
 (2) Der Unternehmer darf die Zusatzbescheinigung nach Anlage 2 nur ausstellen, wenn der Triebfahrzeugführer
 
@@ -91,9 +91,9 @@ Abweichend von Satz 1 Nummer 1 wird Bewerbern, die mindestens 18 Jahre alt sind,
 
 3. eine Prüfung seiner Kenntnisse über die Betriebsverfahren, Zugbeeinflussungssysteme und Signalsysteme derjenigen Infrastrukturen bestanden hat, für die die Befähigung in der Zusatzbescheinigung angestrebt wird;
 
-4. vom Unternehmer für dessen Sicherheitsmanagementsystem geschult ist.
+4. vom Unternehmer entsprechend dessen Sicherheitsmanagementsystems geschult ist.
 
-Die Prüfung nach Satz 1 Nummer 3 muss mindestens die in Anlage 7 aufgeführten Themen und erforderlichenfalls auch die Sprachkenntnisse nach Anlage 7 Nummer 6 umfassen, wobei der Nachweis der Sprachkenntnis für Infrastrukturen mit Betriebssprache Deutsch mit Vorlage eines in deutscher Sprache abgelegten Schulabschlusses nach Absatz 1 Satz 1 Nummer 2 als erbracht gilt. Für den Einsatz auf Infrastrukturen mit einer anderen Betriebssprache als Deutsch ist für Triebfahrzeugführer, die die andere Betriebssprache nach den Vorschriften des Mitgliedstaates, in denen diese Sprache Amtssprache ist, als Muttersprache beherrschen, der Nachweis der Sprachkenntnisse durch eine Prüfung nicht erforderlich.
+Sofern Teile einer bestandenen Prüfung nach § 10 der Verordnung über die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst vom 15. Juli 2004 (BGBl. I S. 1626), die durch Artikel 1 der Verordnung vom 31. August 2016 (BGBl. I S. 2138) geändert worden ist, oder nach § 7 Absatz 1 der Lokführer- und Transportausbildungsverordnung inhaltsgleich mit Teilen einer Prüfung nach Satz 1 Nummer 2 oder 3 sind, gilt für diese Prüfungsteile die Prüfung nach Satz 1 Nummer 2 oder 3 als bestanden. Die Prüfung nach Satz 1 Nummer 3 muss mindestens die in Anlage 7 Abschnitt 1 bis 5 aufgeführten Themen und erforderlichenfalls auch die Sprachkenntnisse nach Anlage 7 Abschnitt 6 umfassen, wobei der Nachweis der Sprachkenntnis für Infrastrukturen mit Betriebssprache Deutsch mit Vorlage eines in deutscher Sprache abgelegten Schulabschlusses nach Absatz 1 Satz 1 Nummer 2 oder mit Vorlage eines Zertifikats Deutsch auf dem Niveau B 1 des Gemeinsamen europäischen Referenzrahmens für Sprachen<span id="FnR.F827846_01"></span><a href="#F827846_01" class="FnR">*</a></sup> als erbracht gilt. Für den Einsatz auf Infrastrukturen mit einer anderen Betriebssprache als Deutsch ist für Triebfahrzeugführer, die die andere Betriebssprache nach den Vorschriften des Mitgliedstaates, in denen diese Sprache Amtssprache ist, als Muttersprache beherrschen, der Nachweis der Sprachkenntnisse durch eine Prüfung nicht erforderlich.
 
 # § 6 – Ausbildung
 
@@ -101,17 +101,17 @@ Die Prüfung nach Satz 1 Nummer 3 muss mindestens die in Anlage 7 aufgeführten 
 
 (2) Die einzelnen Ausbildungsinhalte werden durch die einschlägigen Technischen Spezifikationen für die Interoperabilität ergänzt.
 
-(3) Die Ausbildungsmethode muss die Anforderungen der Anlage 8 erfüllen.
+(3) Die Ausbildungsmethode muss die Anforderungen der Anlage 8 erfüllen. In der praktischen Ausbildung für den erstmaligen Erwerb der Zusatzbescheinigung Klasse B kommt ein Simulator nach den Anforderungen der Anlage 8 zum Einsatz. In den übrigen Fällen der praktischen Ausbildung sollen Simulatoren zum Einsatz kommen.
 
-(4) Die Ausbildung erfolgt durch eine anerkannte Person oder eine anerkannte Stelle oder durch eine Eisenbahn, der eine Sicherheitsbescheinigung nach § 7a des Allgemeinen Eisenbahngesetzes oder eine Sicherheitsgenehmigung nach § 7c des Allgemeinen Eisenbahngesetzes erteilt oder deren bestellter Betriebsleiter durch die zuständige Eisenbahnaufsichtsbehörde bestätigt worden ist.
+(4) Die Ausbildung erfolgt durch eine anerkannte Person oder eine anerkannte Stelle. Die Ausbildung kann auch durch eine Eisenbahn erfolgen, der eine Sicherheitsbescheinigung nach § 7a des Allgemeinen Eisenbahngesetzes oder eine Sicherheitsgenehmigung nach § 7c des Allgemeinen Eisenbahngesetzes erteilt worden ist. Im Fall des Satzes 2 gilt die Anerkennung nur für die Ausbildung des Personals, das die Eisenbahn verantwortlich einsetzt.
 
-(5) Bei Triebfahrzeugführern, die Staatsangehörige eines Mitgliedstaates der Europäischen Union sind und ihren Ausbildungsnachweis in einem Drittland erworben haben, gilt die durch die Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom 16.10.2007, S. 18, L 93 vom 4.4.2008, S. 28, L 33 vom 3.2.2009, S. 49, L 305 vom 24.10.2014, S. 115; L 177 vom 8.7.2015, S. 60; L 268 vom 15.10.2015, S. 35; L 95 vom 9.4.2016, S. 20), die zuletzt durch den Delegierten Beschluss (EU) 2016/790 (ABl. L 134 vom 24.5.2016, S. 135) geändert worden ist, festgelegte allgemeine Regelung zur Anerkennung beruflicher Befähigungsnachweise.
+(5) Bei Triebfahrzeugführern, die Staatsangehörige eines Mitgliedstaates der Europäischen Union sind und ihren Ausbildungsnachweis in einem Drittland erworben haben, gilt die durch die Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom 3.2.2009, S. 49; L 305 vom 24.10.2014, S. 115), die zuletzt durch den Delegierten Beschluss (EU) 2021/2183 (ABl. L 444 vom 10.12.2021, S. 16) geändert worden ist, festgelegte allgemeine Regelung zur Anerkennung beruflicher Befähigungsnachweise.
 
-(6) Der Unternehmer richtet ein Verfahren der ständigen Weiterbildung entsprechend Anhang III Abschnitt 2 Buchstabe e der Richtlinie 2004/49/EG ein, um sicherzustellen, dass die Befähigung des Personals aufrechterhalten wird.
+(6) Der Unternehmer richtet ein Verfahren der ständigen Weiterbildung entsprechend Artikel 9 Absatz 3 Satz 1 Buchstabe f der Richtlinie (EU) 2016/798 im Rahmen seines Sicherheitsmanagementsystems ein, um sicherzustellen, dass die Befähigung des Personals aufrechterhalten wird.
 
 # § 7 – Prüfungen
 
-(1) Die Prüfung für den Triebfahrzeugführerschein besteht aus einer theoretischen Prüfung mit schriftlichem und mündlichem Teil und die Prüfungen für die Zusatzbescheinigung bestehen jeweils aus einer theoretischen Prüfung mit schriftlichem und mündlichem Teil sowie einer praktischen Prüfung mit einer Prüfungsfahrt. Um die Anwendung der Betriebsvorschriften und das Verhalten zu prüfen, können teilweise Simulatoren eingesetzt werden. Abweichend von Satz 1 besteht die Prüfung für die Zusatzbescheinigung
+(1) Die Prüfung für den Triebfahrzeugführerschein besteht aus einer theoretischen Prüfung mit schriftlichem und mündlichem Teil und die Prüfungen für die Zusatzbescheinigung bestehen jeweils aus einer theoretischen Prüfung mit schriftlichem und mündlichem Teil sowie einer praktischen Prüfung mit einer Prüfungsfahrt. Für den erstmaligen Erwerb der Zusatzbescheinigung Klasse B besteht die praktische Prüfung zusätzlich zu Satz 1 aus einer Prüfung unter Einsatz eines Simulators nach Anlage 8, bei der die Anwendung der Betriebsvorschriften und das Verhalten des Prüflings in besonderen und seltenen Betriebssituationen geprüft werden. In den übrigen Fällen der praktischen Prüfung sollen Simulatoren zum Einsatz kommen. Abweichend von den Sätzen 1 und 3 besteht die Prüfung für die Zusatzbescheinigung
 
 1. für weitere Fahrzeugbaureihen aus einer vereinfachten Prüfung in Form einer praktischen Prüfung mit einer Prüfungsfahrt und
 
@@ -119,9 +119,9 @@ Die Prüfung nach Satz 1 Nummer 3 muss mindestens die in Anlage 7 aufgeführten 
 
 Wenn der Prüfling im Rahmen der Triebfahrzeugführerschein-Prüfung vergleichbare Prüfungsbestandteile erfolgreich abgelegt hat, sollen diese für die Prüfung der Zusatzbescheinigung anerkannt werden.
 
-(2) Zwischen dem Abschluss der Ausbildung und dem Ablegen der theoretischen Prüfung sollen nicht mehr als sechs Monate liegen. Die praktische Prüfung muss innerhalb von sechs Monaten nach Bestehen der theoretischen Prüfung abgelegt werden.
+(2) Zwischen dem Abschluss der Ausbildung und dem Ablegen der theoretischen Prüfung sollen nicht mehr als sechs Monate liegen. Die praktische Prüfung muss innerhalb von sechs Monaten nach Bestehen der theoretischen Prüfung erfolgreich abgeschlossen sein. Die zuständige Behörde kann wegen außergewöhnlicher Umstände, die der Prüfling nicht zu vertreten hat, Ausnahmen von der Frist nach Satz 2 genehmigen. Die Genehmigung ist zu befristen. Sie gilt längstens für zwölf Monate. Sie kann bei Fortbestehen der außergewöhnlichen Umstände, die der Prüfling nicht zu vertreten hat, um jeweils längstens zwölf Monate verlängert werden.
 
-(3) Die Prüfungen zur Kontrolle der geforderten Befähigungen werden von einer anerkannten Stelle oder einem anerkannten Prüfer vorgenommen. Die Prüfung kann durch einen oder mehrere Prüfer abgenommen werden. Sofern der Prüfer demselben Unternehmen wie der zu prüfende Triebfahrzeugführer oder der Stelle angehört, die den Triebfahrzeugführer ausgebildet hat, muss die organisatorische Unabhängigkeit zwischen den beteiligten Unternehmensteilen sichergestellt werden. Insbesondere darf kein Prüfer vorher Ausbilder des Triebfahrzeugführers gewesen sein. Zur Abnahme der praktischen Prüfung muss der Prüfer, bei mehreren Prüfern mindestens einer der Prüfer, die erforderliche Fahrberechtigung besitzen.
+(3) Die Prüfungen zur Kontrolle der geforderten Befähigungen werden von einer anerkannten Stelle oder einem anerkannten Prüfer vorgenommen. Die Prüfung kann durch einen oder mehrere Prüfer abgenommen werden. Die Prüfungen für die Zusatzbescheinigung können durch einen oder mehrere Prüfer abgenommen werden. Sofern ein Prüfer demselben Unternehmen wie der zu prüfende Triebfahrzeugführer oder der Stelle angehört, die den Triebfahrzeugführer ausgebildet hat, muss die organisatorische Unabhängigkeit zwischen den beteiligten Unternehmensteilen sichergestellt werden. Insbesondere darf kein Prüfer den Prüfling in dem Prüfungsgegenstand ausgebildet haben oder an der Ausbildung, die der Prüfung vorhergegangen ist, als Ausbilder beteiligt gewesen sein. Zur Abnahme der praktischen Prüfung muss der Prüfer, bei mehreren Prüfern mindestens einer der Prüfer, die erforderliche Fahrberechtigung besitzen.
 
 (4) Die theoretische Prüfung ist bestanden, wenn in jedem Prüfungsteil mindestens 70 Prozent der möglichen Punktzahl erreicht worden sind. Nicht oder nicht richtig beantwortete Fragen, bei denen mangelndes Wissen in der Wirklichkeit eine Gefährdung des Bahnbetriebes zur Folge haben kann, führen zum Nichtbestehen der Prüfung. Das Bestehen der theoretischen Prüfung ist Voraussetzung für die Zulassung zur praktischen Prüfung.
 
@@ -130,6 +130,14 @@ Wenn der Prüfling im Rahmen der Triebfahrzeugführerschein-Prüfung vergleichba
 (6) Die Prüfung für den Erwerb des Triebfahrzeugführerscheins wird nach der Triebfahrzeugführerschein-Prüfungsverordnung abgelegt.
 
 (7) Der Unternehmer hat dem Prüfer für die Zusatzbescheinigung die Anforderungen, die er in der Verfahrensbeschreibung nach § 9 Absatz 1 niedergelegt hat, zur Verfügung zu stellen. Die Prüfungsinhalte und Prüfungsverfahren gibt der Prüfer unter Berücksichtigung der Anlagen 6 und 7 vor.
+
+# § 7a – Grundsätze für Prüfungen
+
+(1) Prüfungen sind unter besonderer Beachtung der Vertraulichkeit der Prüfungsfragen vorzubereiten.
+
+(2) Die Prüfstelle oder der Prüfer hat den Prüflingen rechtzeitig vor der Prüfung die Prüfungsordnung bekanntzugeben.
+
+(3) Die jeweilige Prüfung hat alle für sie relevanten Inhalte der Anlagen 5, 6 und 7 abzudecken. Die jeweilige Prüfung muss von angemessener Dauer sein.
 
 # § 8 – Erteilung des Triebfahrzeugführerscheins
 
@@ -161,7 +169,7 @@ Wenn der Prüfling im Rahmen der Triebfahrzeugführerschein-Prüfung vergleichba
 
 (1) Der Unternehmer legt Verfahren für die Ausstellung oder Änderung der Zusatzbescheinigungen im Rahmen seines Sicherheitsmanagementsystems fest.
 
-(2) Die Zusatzbescheinigung wird unbefristet ausgestellt.
+(2) Die Zusatzbescheinigung kann befristet oder unbefristet ausgestellt werden.
 
 (3) Sofern ein Triebfahrzeugführer, dessen Triebfahrzeugführerschein im deutschen Führerscheinregister registriert ist, noch nicht das 20. Lebensjahr vollendet hat, darf ihm auf dem Gebiet der Bundesrepublik Deutschland nur eine Zusatzbescheinigung nach Maßgabe des § 48 Absatz 7 der Eisenbahn-Bau- und Betriebsordnung ausgestellt werden.
 
@@ -175,17 +183,17 @@ Wenn der Prüfling im Rahmen der Triebfahrzeugführerschein-Prüfung vergleichba
 
 (1) Das Register der Triebfahrzeugführerscheine nach Absatz 2 und die Register der Zusatzbescheinigungen nach Absatz 4 werden geführt, um für Triebfahrzeugführerscheine und Zusatzbescheinigungen die Echtheits- und Gültigkeitsfeststellung zu gewährleisten und das Vorliegen der Voraussetzungen des § 5 festzustellen.
 
-(2) Die zuständige Behörde führt ein Register aller erteilten, verlängerten, geänderten, abgelaufenen, ausgesetzten, entzogenen oder als verloren, entwendet oder zerstört gemeldeten Triebfahrzeugführerscheine und hält das Register auf dem neuesten Stand. In diesem Register werden die in Anlage 9 Nummer 1 vorgeschriebenen Daten gespeichert.
+(2) Die zuständige Behörde führt ein Register aller erteilten, verlängerten, geänderten, abgelaufenen, ausgesetzten, entzogenen oder als verloren, entwendet oder zerstört gemeldeten Triebfahrzeugführerscheine und hält das Register auf dem neuesten Stand. In diesem Register werden die in Anlage 9 Abschnitt 1 vorgeschriebenen Daten gespeichert.
 
-(3) Auf begründeten Antrag sind dem Unternehmer, jedem Arbeitgeber von Triebfahrzeugführern, den zuständigen Behörden der anderen Mitgliedstaaten, der Europäischen Eisenbahnagentur, der Untersuchungsbehörde nach § 5 Absatz 1f des Allgemeinen Eisenbahngesetzes, einer Untersuchungsstelle eines anderen Mitgliedstaates im Sinne der Richtlinie 2004/49/EG und den Eisenbahnaufsichtsbehörden der Länder unter den in Anlage 9 Nummer 2 aufgeführten Voraussetzungen und zu den darin im Einzelnen genannten Daten schriftlich Auskünfte aus dem Register der Triebfahrzeugführerscheine zu erteilen.
+(3) Auf begründeten Antrag sind dem Unternehmer, jedem Arbeitgeber von Triebfahrzeugführern, den zuständigen Behörden der anderen Mitgliedstaaten, der Eisenbahnagentur der Europäischen Union, der Bundesstelle für Eisenbahnunfalluntersuchung, jeder Untersuchungsstelle eines anderen Mitgliedstaates im Sinne der Richtlinie (EU) 2016/798 und den Eisenbahnaufsichtsbehörden der Länder unter den in Anlage 9 Abschnitt 2 aufgeführten Voraussetzungen und zu den darin im Einzelnen genannten Daten schriftlich Auskünfte aus dem Register der Triebfahrzeugführerscheine zu erteilen.
 
-(4) Jeder Unternehmer hat ein Register aller von ihm ausgestellten, geänderten, ausgesetzten, entzogenen oder als verloren, entwendet oder zerstört gemeldeten Zusatzbescheinigungen nach Satz 3 zu führen oder dafür zu sorgen, dass ein solches Register in seinem Auftrag geführt wird. Sofern er das Register nicht selbst führt, bleibt er für die ordnungsgemäße Führung des Registers verantwortlich; § 11 des Bundesdatenschutzgesetzes ist zu beachten. Der Unternehmer hat das Register auf dem neuesten Stand zu halten oder hierfür zu sorgen. In diesem Register werden die in Anlage 10 Nummer 1 genannten Daten gespeichert.
+(4) Jeder Unternehmer hat ein Register aller von ihm ausgestellten, geänderten, ausgesetzten, entzogenen oder als verloren, entwendet oder zerstört gemeldeten Zusatzbescheinigungen nach Satz 3 zu führen oder dafür zu sorgen, dass ein solches Register in seinem Auftrag geführt wird. Sofern er das Register nicht selbst führt, bleibt er für die ordnungsgemäße Führung des Registers verantwortlich. Der Unternehmer hat das Register auf dem neuesten Stand zu halten oder hierfür zu sorgen. In diesem Register werden die in Anlage 10 Abschnitt 1 genannten Daten gespeichert.
 
 (5) Im Falle der Auflösung oder Beendigung eines Unternehmens geht die Verantwortung für die im Register der Zusatzbescheinigungen enthaltenen Daten auf den Unternehmer über, der die Geschäftstätigkeit übernimmt. Wird die Geschäftstätigkeit nicht von einem anderen Unternehmer übernommen, so führt die zuständige Behörde die im Register der Zusatzbescheinigungen enthaltenen Daten. Der Unternehmer hat in diesem Fall der zuständigen Behörde vor Einstellung der Geschäftstätigkeit die Daten aus dem Register zu übermitteln.
 
-(6) Der Unternehmer hat auf Verlangen aus dem Register der Zusatzbescheinigungen der zuständigen Behörde, den zuständigen Behörden der anderen Mitgliedstaaten, der Untersuchungsbehörde nach § 5 Absatz 1f des Allgemeinen Eisenbahngesetzes, einer Untersuchungsstelle eines anderen Mitgliedstaates im Sinne der Richtlinie 2004/49/EG und den Eisenbahnaufsichtsbehörden der Länder schriftlich Auskunft unter den in Anlage 10 Nummer 2 aufgeführten Voraussetzungen und zu den darin im Einzelnen genannten Daten zu erteilen.
+(6) Der Unternehmer hat auf Verlangen aus dem Register der Zusatzbescheinigungen der zuständigen Behörde, den zuständigen Behörden der anderen Mitgliedstaaten, der Bundesstelle für Eisenbahnunfalluntersuchung, jeder Untersuchungsstelle eines anderen Mitgliedstaates im Sinne der Richtlinie (EU) 2016/798 und den Eisenbahnaufsichtsbehörden der Länder schriftlich Auskunft unter den in Anlage 10 Abschnitt 2 aufgeführten Voraussetzungen und zu den darin im Einzelnen genannten Daten zu erteilen.
 
-(7) Dem Triebfahrzeugführer ist auf Antrag schriftlich Auskunft über seine im Register der Triebfahrzeugführerscheine sowie den Registern der Zusatzbescheinigungen gespeicherten Daten zu erteilen.
+(7) Dem Triebfahrzeugführer ist auf Antrag schriftlich oder elektronisch Auskunft über seine im Register der Triebfahrzeugführerscheine sowie den Registern der Zusatzbescheinigungen gespeicherten Daten zu erteilen.
 
 (8) Sämtliche Daten des Registers der Triebfahrzeugführerscheine sind nach Ablauf von zehn Jahren ab der Ungültigkeit des Triebfahrzeugführerscheins und sämtliche Daten des Registers der Zusatzbescheinigungen sind nach Ablauf von zehn Jahren ab der Ungültigkeit der Zusatzbescheinigung zu löschen. Wird der registerführenden Stelle innerhalb dieser Zehnjahresfrist die Einleitung von Ermittlungen der Staatsanwaltschaft wegen des Verdachts eines Verstoßes gegen verkehrsrechtliche Vorschriften oder Strafgesetze bei der Tätigkeit als Triebfahrzeugführer bekannt, so endet die Frist nicht vor Ablauf der Ermittlungen. Erhält die registerführende Stelle vom Tod des Triebfahrzeugführers Kenntnis, dann löscht sie unverzüglich alle über ihn gespeicherten Daten. Ist eine Untersuchung eines gefährlichen Ereignisses im Eisenbahnbetrieb im Zusammenhang mit der Tätigkeit des verstorbenen Triebfahrzeugführers anhängig, so erfolgt die Löschung nach Satz 3 unverzüglich nach deren Abschluss.
 
@@ -193,142 +201,291 @@ Wenn der Prüfling im Rahmen der Triebfahrzeugführerschein-Prüfung vergleichba
 
 (10) Die zuständige Behörde legt nähere Anforderungen an das Datenformat sowie die Anforderungen zur Sicherung gegen unbefugten Zugriff auf die Register und bei der Datenfernübertragung fest und veröffentlicht sie auf ihrer Internetseite.
 
-# § 11 – Regelmäßige Überprüfungen
+# § 11 – Regelmäßige und anlassbezogene Überprüfungen und Untersuchungen
 
-(1) Jeder Unternehmer hat im Rahmen seines Sicherheitsmanagementsystems sicherzustellen, dass der Triebfahrzeugführer sich den regelmäßigen Überprüfungen der in § 5 Absatz 1 Satz 1 Nummer 3 und 5 genannten Anforderungen unterzieht, und teilt der zuständigen Behörde das Ergebnis der Überprüfungen mit. Die Mitteilungspflicht gilt auch für den Fall, dass der Unternehmer eine psychologische Untersuchung angeordnet hat. Die Häufigkeit der ärztlichen Untersuchungen richtet sich nach Anlage 11 Nummer 1; sie werden von einem nach § 16 anerkannten Arzt oder unter dessen Aufsicht durchgeführt. Für die Überprüfung der allgemeinen beruflichen Kenntnisse gilt § 6 Absatz 6.
+(1) Jeder Unternehmer hat im Rahmen seines Sicherheitsmanagementsystems sicherzustellen, dass der Triebfahrzeugführer sich den regelmäßigen Überprüfungen der allgemeinen Fachkenntnisse und den regelmäßigen ärztlichen Untersuchungen unterzieht. Die Häufigkeit der regelmäßigen Überprüfungen und der regelmäßigen ärztlichen Untersuchungen richtet sich nach Anlage 11 Abschnitt 1 und 2.
 
-(2) Jeder Unternehmer hat im Rahmen seines Sicherheitsmanagementsystems sicherzustellen, dass der Triebfahrzeugführer sich den regelmäßigen Überprüfungen der in § 5 Absatz 2 genannten Anforderungen unterzieht, um die Gültigkeit der Zusatzbescheinigung aufrechtzuerhalten. Der Unternehmer legt in seinem Sicherheitsmanagementsystem unter Berücksichtigung der in Anlage 11 Nummer 2 geregelten Mindesthäufigkeit fest, in welchen Abständen die Überprüfungen stattfinden. Jede Überprüfung bestätigt der Unternehmer durch einen Vermerk auf der Zusatzbescheinigung und trägt sie im Register nach § 10 Absatz 4 ein.
+(2) Der Unternehmer kann Überprüfungen und ärztliche Untersuchungen nach Absatz 1 Satz 1 auch anlassbezogen anordnen. Psychologische Untersuchungen kann der Unternehmer anlassbezogen anordnen.
 
-# § 12 – Überwachung der Triebfahrzeugführer
+(3) Die regelmäßigen und die anlassbezogenen Überprüfungen der allgemeinen Fachkenntnisse umfassen die in Anlage 5 genannten Inhalte. Für die Durchführung der Überprüfungen der allgemeinen Fachkenntnisse gilt § 6 Absatz 6. Die regelmäßigen und die anlassbezogenen ärztlichen Untersuchungen umfassen die in Anlage 4 Unterabschnitt 3.1 genannten Inhalte und werden von einem nach § 16 anerkannten Arzt oder unter dessen Aufsicht durchgeführt. Die anlassbezogenen psychologischen Untersuchungen umfassen die in Anlage 4 Unterabschnitt 3.2 genannten Inhalte und werden von einem nach § 16 anerkannten Psychologen oder unter dessen Aufsicht durchgeführt.
 
-(1) Ergeben sich aus den Überprüfungen Zweifel an der Befähigung eines Triebfahrzeugführers, darf der Unternehmer ihn erst dann wieder einsetzen, wenn die Zweifel ausgeräumt sind. Hat ein Unternehmer davon Kenntnis, dass ein Triebfahrzeugführer die Erteilungsvoraussetzungen für einen Triebfahrzeugführerschein nicht mehr erfüllt oder eine Arbeitsunfähigkeit von mehr als drei Monaten vorliegt, hat der Unternehmer die zuständige Behörde darüber zu unterrichten.
+(4) Jeder Unternehmer hat im Rahmen seines Sicherheitsmanagementsystems sicherzustellen, dass der Triebfahrzeugführer sich den regelmäßigen Überprüfungen der in § 5 Absatz 2 genannten Anforderungen unterzieht, um die Gültigkeit der Zusatzbescheinigung aufrechtzuerhalten. Der Unternehmer legt in seinem Sicherheitsmanagementsystem unter Berücksichtigung der in Anlage 11 Abschnitt 3 geregelten Mindesthäufigkeit fest, in welchen Abständen die Überprüfungen stattfinden. Jede Überprüfung bestätigt der Unternehmer durch einen Vermerk auf der Zusatzbescheinigung und trägt sie im Register nach § 10 Absatz 4 ein.
 
-(2) Versäumt der Triebfahrzeugführer eine regelmäßige Überprüfung oder ergibt die Überprüfung, dass die Erteilungsvoraussetzungen nicht mehr vorliegen, hat der Unternehmer eine erneute Überprüfung anzuordnen. Liegen die Erteilungsvoraussetzungen weiterhin nicht vor, hat der Unternehmer dem Triebfahrzeugführer Befähigungen abzuerkennen, die Zusatzbescheinigung auszusetzen oder zu entziehen.
+(5) Der Unternehmer hat unverzüglich eine Überprüfung oder eine Untersuchung des Triebfahrzeugführers nach Absatz 1 Satz 1, Absatz 2 Satz 2 oder Absatz 4 Satz 1 anzuordnen, wenn
 
-(3) Hat ein Triebfahrzeugführer Erkenntnisse, dass auf Grund seines Gesundheitszustands Zweifel an seiner beruflichen Eignung bestehen können, so hat er unverzüglich den Unternehmer zu unterrichten.
+1. der Triebfahrzeugführer eine Überprüfung oder eine Untersuchung nach Absatz 1 Satz 1 oder Absatz 2 versäumt hat,
 
-(4) Hat ein Unternehmer davon Kenntnis, dass Zweifel an der beruflichen Eignung eines Triebfahrzeugführers wegen des Gesundheitszustands bestehen, hat er unverzüglich die Untersuchung nach Anlage 4 Nummer 3 anzuordnen. Darüber hinaus hat er im Rahmen seines Sicherheitsmanagementsystems darauf hinzuwirken, dass ein Triebfahrzeugführer während seines Dienstes zu keinem Zeitpunkt unter dem Einfluss von Stoffen steht, die seine Konzentration, seine Aufmerksamkeit oder sein Verhalten beeinträchtigen können.
+2. der Triebfahrzeugführer eine Überprüfung nach Absatz 4 Satz 1 versäumt hat,
+
+3. der Unternehmer Zweifel am Vorliegen der Voraussetzungen für die Erteilung eines Triebfahrzeugführerscheins aufgrund von Tatsachen hat oder
+
+4. der Unternehmer Zweifel am Vorliegen der Voraussetzungen für die Ausstellung einer Zusatzbescheinigung aufgrund von Tatsachen hat.
+
+(6) Der Unternehmer teilt der zuständigen Behörde das Ergebnis der Überprüfung der allgemeinen Fachkenntnisse oder der Untersuchung nach Absatz 1 Satz 1, Absatz 2 und 5 Nummer 1 und 3 innerhalb eines Monats nach Abschluss der Überprüfung oder der Untersuchung mit.
+
+# § 12 – Überwachung der Triebfahrzeugführer; Unterrichtungspflichten
+
+(1) Ergeben sich aus einer Überprüfung oder einer Untersuchung Tatsachen, die Zweifel an der Befähigung eines Triebfahrzeugführers begründen, darf der Unternehmer ihn erst dann wieder einsetzen, wenn die Zweifel durch eine erneute Überprüfung oder eine erneute Untersuchung ausgeräumt sind.
+
+(2) Kommt der Triebfahrzeugführer einer Anordnung gemäß § 11 Absatz 5 wiederholt nicht nach oder liegen die Voraussetzungen für die Erteilung eines Triebfahrzeugführerscheins oder für die Ausstellung einer Zusatzbescheinigung nicht mehr vor, hat der Unternehmer dem Triebfahrzeugführer Befähigungen für bestimmte Fahrzeuge oder Infrastrukturen abzuerkennen oder die Zusatzbescheinigung auszusetzen oder zu entziehen.
+
+(3) Ein Unternehmer hat die zuständige Behörde unverzüglich zu unterrichten, wenn er Kenntnis davon hat, dass
+
+1. ein Triebfahrzeugführer die Voraussetzungen für die Erteilung eines Triebfahrzeugführerscheins nicht mehr erfüllt oder
+
+2. eine Arbeitsunfähigkeit von mehr als drei Monaten vorliegt.
+
+(4) Hat ein Triebfahrzeugführer Erkenntnisse, dass auf Grund seines Gesundheitszustands Zweifel an seiner beruflichen Eignung bestehen können, so hat er unverzüglich den Unternehmer zu unterrichten.
+
+(5) Hat ein Unternehmer davon Kenntnis, dass Zweifel an der beruflichen Eignung eines Triebfahrzeugführers wegen des Gesundheitszustands bestehen, hat er unverzüglich die Untersuchung nach Anlage 4 Unterabschnitt 3.1 und, soweit erforderlich, auch nach Anlage 4 Unterabschnitt 3.2 anzuordnen. Darüber hinaus hat er im Rahmen seines Sicherheitsmanagementsystems darauf hinzuwirken, dass ein Triebfahrzeugführer während seines Dienstes zu keinem Zeitpunkt unter dem Einfluss von Stoffen steht, die seine Konzentration, seine Aufmerksamkeit oder sein Verhalten beeinträchtigen können.
 
 # § 13 – Beendigung oder Wechsel des Beschäftigungsverhältnisses
 
 (1) Wenn das Beschäftigungsverhältnis eines Triebfahrzeugführers bei einem Unternehmer beginnt oder endet, hat der Unternehmer die zuständige Behörde unverzüglich davon in Kenntnis zu setzen.
 
-(2) Die Zusatzbescheinigung wird mit Ende des Beschäftigungsverhältnisses ungültig und vom bisherigen Unternehmer eingezogen. In diesem Fall händigt er dem Triebfahrzeugführer einen Nachweis einer Zusatzbescheinigung nach Anlage 12 sowie sämtliche Nachweise seiner Ausbildung, seiner Berufserfahrung und seiner beruflichen Befähigung aus.
+(2) Die Zusatzbescheinigung wird mit Ende des Beschäftigungsverhältnisses ungültig und vom bisherigen Unternehmer eingezogen. In diesem Fall händigt er dem Triebfahrzeugführer auf dessen Verlangen innerhalb von vier Wochen einen Nachweis einer Zusatzbescheinigung nach Anlage 12 sowie sämtliche Nachweise seiner Ausbildung, seiner Berufserfahrung und seiner beruflichen Befähigung aus.
 
 (3) Ein Unternehmer soll bei der Ausstellung einer neuen Zusatzbescheinigung die nachgewiesenen Befähigungen und Kenntnisse berücksichtigen, soweit sie auf die neue Zusatzbescheinigung zutreffen.
 
-# § 14 – Anerkennung von Personen und Stellen für die Ausbildung – Ausbildungsorganisation
+# § 14 – Voraussetzungen für die Anerkennung als Ausbilder oder als Ausbildungsstelle für Triebfahrzeugführer
 
-(1) Wer Triebfahrzeugführer ausbilden will, bedarf der Anerkennung. Die zuständige Behörde erkennt auf Antrag eine Person oder eine Stelle für die Ausbildung von Triebfahrzeugführern an, wenn der Antragsteller nachgewiesen hat, dass er über die personellen und sachlichen Voraussetzungen verfügt, um die Durchführung geeigneter Ausbildungsgänge zu gewährleisten.
+(1) Wer Triebfahrzeugführer ausbilden will, bedarf der Anerkennung.
 
-(2) Anträge können gestellt werden für die Teilbereiche:
+(2) Die zuständige Behörde erkennt eine Person auf deren Antrag als Ausbilder an, wenn sie
 
-1. allgemeine Fachkenntnisse nach § 5 Absatz 1 Satz 1 Nummer 5;
+1. über die erforderlichen pädagogischen Kenntnisse und Fähigkeiten verfügt,
 
-2. fahrzeugbezogene Fachkenntnisse nach § 5 Absatz 2 Satz 1 Nummer 2;
+2. über die erforderliche Einrichtung und Ausrüstung für die angebotene Ausbildung verfügt,
 
-3. infrastrukturbezogene Fachkenntnisse nach § 5 Absatz 2 Satz 1 Nummer 3 und Satz 2;
+3. für die theoretische Ausbildung ein Studium der Ingenieurwissenschaft mindestens an einer Fachhochschule oder Berufsakademie absolviert oder entsprechende Fachkenntnis durch eine mindestens dreijährige berufliche Tätigkeit in dem zu unterrichtenden Fachgebiet erlangt hat,
 
-4. Sprachkenntnisse nach § 5 Absatz 2 Satz 2.
+4. für die praktische Ausbildung Triebfahrzeugführer mit mindestens dreijähriger Berufserfahrung innerhalb der letzten zehn Jahre ist sowie einen Triebfahrzeugführerschein und eine Zusatzbescheinigung besitzt, die den Gegenstand der Ausbildung abdeckt,
 
-Im Hinblick auf den Teilbereich nach Satz 1 Nummer 3 kann die zuständige Behörde Personen und Stellen nur für solche Infrastrukturen anerkennen, die sich auf dem Gebiet der Bundesrepublik Deutschland befinden.
+5. für die Sprachausbildung über deutsche Sprachkenntnisse auf dem Niveau B 2 des Gemeinsamen europäischen Referenzrahmens für Sprachen und über die besonderen eisenbahnbezogenen Sprachkenntnisse verfügt,
 
-(3) Die Anerkennung wird erteilt, wenn der Antragsteller
+6. die Organisation der angebotenen Ausbildung, wie Inhalt, Organisation und Umfang der Lehrgänge, darlegt,
 
-1. über das erforderliche, pädagogisch geeignete Personal, die Einrichtungen und die Ausrüstung für die angebotene Ausbildung verfügt;
+7. Systeme zur Erfassung der Ausbildungstätigkeiten, einschließlich der Daten zu Teilnehmenden, zur Anzahl und zum Zweck der Lehrgänge, bereitstellt,
 
-2. nachweist, dass der Ausbilder
+8. über ein dem Qualitätsmanagementsystem vergleichbares Verfahren verfügt, mit dem sichergestellt wird, dass die Ausbildung den Anforderungen nach § 6 genügt,
 
-a) für die theoretische Ausbildung ein Studium der Ingenieurwissenschaft mindestens an einer Fachhochschule oder Berufsakademie absolviert oder die Fachkenntnis durch eine mindestens dreijährige Berufserfahrung im zu unterrichtenden Fachgebiet erlangt hat,
+9. darlegt, dass und wie sie sich fortlaufend weiterbilden wird,
 
-b) für die praktische Ausbildung Triebfahrzeugführer mit mindestens dreijähriger Berufserfahrung ist und
+10. zuverlässig ist.
 
-c) für die Sprachausbildung mindestens über die besonderen eisenbahnbezogenen Sprachkenntnisse auf dem Niveau B 2 des Gemeinsamen europäischen Referenzrahmens für Sprachen<span id="FnR.F791866_02"></span><a href="#F791866_02" class="FnR">*</a></sup> verfügt;
+(3) Die zuständige Behörde erkennt eine Stelle auf deren Antrag als Ausbildungsstelle an, wenn
 
-3. die Organisation der Ausbildung, wie Inhalt, Organisation und Laufzeit der Lehrgänge, darlegt;
+1. für sie Ausbildungspersonal tätig ist, das über die erforderlichen pädagogischen Kenntnisse und Fähigkeiten verfügt,
 
-4. Systeme zur Erfassung der Ausbildungstätigkeiten bereitstellt, einschließlich Daten zu Teilnehmern, Ausbildern und zur Anzahl und zum Zweck der Lehrgänge;
+2. sie über die erforderliche Einrichtung und Ausrüstung für die angebotene Ausbildung verfügt,
 
-5. über ein Qualitätsmanagementsystem oder vergleichbare Verfahren verfügt, um die Einhaltung der in dieser Verordnung festgelegten Anforderungen zu gewährleisten;
+3. sie durch ein Kompetenzmanagementsystem sicherstellt, dass das für sie tätige Ausbildungspersonal den Anforderungen nach Absatz 2 Satz 1 Nummer 3, 4, 5 und 10 genügt,
 
-6. eine fortlaufende Weiterbildung des Lehrpersonals sicherstellt;
+4. sie die Organisation der angebotenen Ausbildung, wie Inhalt, Organisation und Umfang der Lehrgänge, darlegt,
 
-7. nachweist, dass keine Tatsachen vorliegen, die gegen die persönliche Zuverlässigkeit des Antragstellers oder, im Falle einer juristischen Person, der zu seiner gesetzlichen Vertretung berufenen Personen sprechen.
+5. sie Systeme zur Erfassung der Ausbildungstätigkeiten, einschließlich der Daten zu Teilnehmenden, zum Ausbildungspersonal, zur Anzahl und zum Zweck der Lehrgänge, bereitstellt,
 
-(4) Die Anerkennung einer Stelle für die Ausbildung von Triebfahrzeugführern kann mehrere Ausbildungsstätten an verschiedenen Orten einschließen.
+6. sie über ein Qualitätsmanagementsystem verfügt,
 
-(5) Die Anerkennung gilt längstens für fünf Jahre. Sie kann verlängert werden.
+7. sie darlegt, dass und wie sich ihr Ausbildungspersonal fortlaufend weiterbilden wird,
 
-(6) Die zuständige Behörde erkennt auf Antrag eine Person oder eine Stelle für die Ausbildung von sonstigem, mit sicherheitsrelevanten betrieblichen Aufgaben betrautem Eisenbahnpersonal an. Die Absätze 1 bis 5 gelten entsprechend.
+8. die zu ihrer gesetzlichen Vertretung berufenen Personen zuverlässig sind.
 
-# § 15 – Anerkennung von Personen und Stellen für die Prüfung – Prüfungsorganisation
+# § 14a – Antrag auf Anerkennung als Ausbilder oder als Ausbildungsstelle für Triebfahrzeugführer; Antrag auf Verlängerung oder Änderung der Anerkennung
 
-(1) Wer Triebfahrzeugführer prüfen will, bedarf der Anerkennung. Die zuständige Behörde erkennt auf Antrag eine Person oder eine Stelle für die Prüfung von Triebfahrzeugführern an, wenn der Antragsteller
+(1) Die erstmalige Anerkennung als Ausbilder oder als Ausbildungsstelle für Triebfahrzeugführer, die Verlängerung der Anerkennung und die Änderung der Anerkennung erfolgen auf Antrag bei der zuständigen Behörde.
 
-1. im Rahmen seines Qualitätsmanagementsystems die Vorkehrungen getroffen hat, um die notwendige Unabhängigkeit, Unparteilichkeit und Weisungsfreiheit der Prüfer nach § 7 Absatz 3 Satz 3 und 4 im Einzelfall zu gewährleisten,
+(2) Anträge können für die folgenden Teilbereiche gestellt werden:
 
-2. nachweist, dass der Prüfer
+1. allgemeine Fachkenntnisse nach § 5 Absatz 1 Satz 1 Nummer 5,
 
-a) mindestens 26 Jahre alt ist,
+2. fahrzeugbezogene Fachkenntnisse nach § 5 Absatz 2 Satz 1 Nummer 2,
 
-b) geistig und körperlich für die Mitwirkung im Prüfungswesen geeignet ist,
+3. infrastrukturbezogene Fachkenntnisse nach § 5 Absatz 2 Satz 1 Nummer 3 und Satz 3,
 
-c) über persönliche Zuverlässigkeit verfügt,
+4. Sprachkenntnisse nach § 5 Absatz 2 Satz 3.
 
-d) als Prüfer der theoretischen und praktischen Fachkenntnisse innerhalb der letzten drei Jahre im Eisenbahnbetriebsdienst tätig war und über folgende Ausbildung oder Berufserfahrung verfügt:
+(3) Ist der Antragsteller eine Stelle, so gibt diese im Antrag die für sie tätigen Ausbilder und die von ihr betriebenen Ausbildungsstätten an.
+
+(4) Nähere Ausgestaltungen der Anforderungen an den Antrag auf erstmalige Anerkennung als Ausbilder oder als Ausbildungsstelle für Triebfahrzeugführer, auf Verlängerung der Anerkennung und auf Änderung der Anerkennung regeln Verwaltungsvorschriften.
+
+# § 14b – Anerkennung als Ausbilder oder als Ausbildungsstelle für Triebfahrzeugführer
+
+(1) Die Anerkennung als Ausbildungsstelle kann mehrere Ausbildungsstätten an verschiedenen Orten einschließen.
+
+(2) Die Anerkennung als Ausbilder oder als Ausbildungsstelle ist zu befristen. Sie gilt längstens für fünf Jahre. Sie kann auf Antrag jeweils um längstens fünf Jahre verlängert werden.
+
+# § 14c – Anerkennung als Ausbilder oder als Ausbildungsstelle für den Teilbereich infrastrukturbezogene Fachkenntnisse
+
+(1) Die zuständige Behörde kann Personen und Stellen als Ausbilder oder als Ausbildungsstelle für den Teilbereich infrastrukturbezogene Fachkenntnisse nur für solche Infrastrukturen anerkennen, die sich auf dem Gebiet der Bundesrepublik Deutschland befinden. Bilaterale und multilaterale Vereinbarungen bleiben von Satz 1 unberührt.
+
+(2) Wenn eine Person oder eine Stelle, die eine bereits vorhandene Anerkennung als Ausbilder oder als Ausbildungsstelle aus einem anderen Mitgliedstaat der Europäischen Union nachweist, einen Antrag auf Anerkennung als Ausbilder oder als Ausbildungsstelle für den Teilbereich infrastrukturbezogene Fachkenntnisse bei der zuständigen Behörde stellt, so prüft die zuständige Behörde nur die Anforderungen, die sich auf die Ausbildungsgänge der Infrastruktur beziehen, für die die Anerkennung beantragt worden ist.
+
+# § 14d – Anerkennung als Ausbilder oder als Ausbildungsstelle für sonstiges, mit sicherheitsrelevanten betrieblichen Aufgaben betrautes Eisenbahnpersonal
+
+Die zuständige Behörde erkennt eine Person oder eine Stelle auf deren Antrag als Ausbilder oder als Ausbildungsstelle für sonstiges, mit sicherheitsrelevanten betrieblichen Aufgaben betrautes Eisenbahnpersonal an. Die §§ 14 bis 14c gelten entsprechend.
+
+# § 15 – Voraussetzungen für die Anerkennung als Prüfer oder als Prüfstelle für Triebfahrzeugführer
+
+(1) Wer Triebfahrzeugführer prüfen will, bedarf der Anerkennung.
+
+(2) Die zuständige Behörde erkennt eine Person auf deren Antrag als Prüfer an, wenn sie
+
+1. die erforderlichen Vorkehrungen getroffen hat, um ihre notwendige Unabhängigkeit im Sinne von § 7 Absatz 3 Satz 4 und 5, Unparteilichkeit und Weisungsfreiheit sicherzustellen,
+
+2. über ein dem Qualitätsmanagementsystem vergleichbares Verfahren verfügt,
+
+3. mindestens 26 Jahre alt ist,
+
+4. über die körperlichen Voraussetzungen und die pädagogischen Kenntnisse und Fähigkeiten für die Mitwirkung im Prüfungswesen verfügt,
+
+5. insgesamt mindestens vier Jahre innerhalb der letzten fünf Jahre vor Antragstellung im Eisenbahnbetriebsdienst tätig war und über eine der folgenden Ausbildungen oder entsprechende Berufserfahrung verfügt:
+
+a) Abschluss eines Studiums des Bauingenieurwesens, des Maschinenbaus, der Elektrotechnik, einer vergleichbaren Ingenieurwissenschaft oder einer Ingenieurwissenschaft des Verkehrswesens an einer
 
 aa)  
-erfolgreicher Abschluss eines Studiums des Bauingenieurwesens, des Maschinenbaus, der Elektrotechnik, einer diesen verwandten Ingenieurwissenschaft oder einer Ingenieurwissenschaft des Verkehrswesens an einer
-
-aaa)  
 deutschen wissenschaftlichen Hochschule,
 
-bbb)  
+bb)  
 deutschen staatlichen oder staatlich anerkannten Fachhochschule oder
 
-ccc) von der Zentralstelle für Ausländisches Bildungswesen im Sekretariat der Kultusministerkonferenz als gleichwertig anerkannten ausländischen Hochschule oder
+cc) ausländischen Hochschule oder Fachhochschule, die von der Zentralstelle für Ausländisches Bildungswesen im Sekretariat der Kultusministerkonferenz als gleichwertig anerkannt ist,
 
-bb)  
-eine Tätigkeit als Leitender oder Aufsichtführender im Betrieb der Bahn nach § 47 Absatz 1 Nummer 1 der Eisenbahn-Bau- und Betriebsordnung oder
+b) eine Tätigkeit als Leitender oder Aufsichtführender im Betrieb der Bahn nach § 47 Absatz 1 Nummer 1 der Eisenbahn-Bau- und Betriebsordnung mit einer Dauer von insgesamt mindestens einem Jahr,
 
-cc) eine Tätigkeit als Eisenbahnbetriebsleiter oder
+c) eine Tätigkeit als Eisenbahnbetriebsleiter oder
 
-dd)  
-eine Tätigkeit als Triebfahrzeugführerausbilder mit mindestens dreijähriger Berufserfahrung und
+d) eine Tätigkeit als Triebfahrzeugführerausbilder mit einer Dauer von insgesamt mindestens drei Jahren,
 
-e) als Sprachprüfer über eisenbahnspezifische Sprachkenntnisse auf dem Niveau B 2 des Gemeinsamen europäischen Referenzrahmens für Sprachen verfügt,
+6. als Prüfer der praktischen Fachkenntnisse
 
-3. das Prüfungsverfahren angibt.
+a) einen Triebfahrzeugführerschein und eine Zusatzbescheinigung besitzt und
 
-§ 14 Absatz 2 gilt entsprechend.
+b) über eine Berufspraxis als Triebfahrzeugführer von mindestens vierjähriger Dauer innerhalb der letzten fünf Jahre vor Antragstellung verfügt,
 
-(2) Die Anerkennung gilt längstens für fünf Jahre. Sie kann verlängert werden.
+7. über deutsche Sprachkenntnisse auf dem Niveau B 2 des Gemeinsamen europäischen Referenzrahmens für Sprachen verfügt,
 
-# § 16 – Anerkennung von Ärzten und Psychologen
+8. über umfassende Kenntnisse der einschlägigen Prüfungsmethoden und Prüfungsgegenstände verfügt,
 
-(1) Wer Tauglichkeitsuntersuchungen bei Triebfahrzeugführern durchführen will, bedarf der Anerkennung. Die zuständige Behörde erkennt auf Antrag Ärzte, Psychologen oder Stellen an, die Untersuchungen nach Anlage 4 durchführen.
+9. darlegt, dass und wie sie ihre Kompetenzen bezüglich der von ihr abgedeckten Prüfungsgegenstände auf dem aktuellen Stand hält,
 
-(2) Als Arzt kann für die Durchführung von Untersuchungen nach Anlage 4 anerkannt werden, wer die Gebietsbezeichnung „Arbeitsmedizin“ oder die Zusatzbezeichnung „Betriebsmedizin“ hat oder über die Anerkennung als Arzt in einer Begutachtungsstelle für Fahreignung gemäß § 11 Absatz 2 der Fahrerlaubnisverordnung und über eine mindestens einjährige Berufserfahrung im Bereich Schienenverkehr verfügt.
+10. mit der Zulassungsregelung für Triebfahrzeugführer vertraut ist,
 
-(3) Als Psychologe kann für die Durchführung von Untersuchungen nach Anlage 4 anerkannt werden, wer einen Abschluss eines Hochschulstudiums als Diplom-Psychologe oder eines gleichwertigen Master-Abschlusses in Psychologie nachweist oder über die Anerkennung als „Fachpsychologe für Verkehrspsychologie“ und über eine mindestens einjährige Berufserfahrung im Bereich Schienenverkehr verfügt.
+11. zuverlässig ist,
 
-(4) Als Stelle für die Durchführung von Untersuchungen nach Anlage 4 kann anerkannt werden, wer Ärzte und Psychologen mit den Qualifikationen nach den Absätzen 2 und 3 beschäftigt.
+12. ein Prüfungsverfahren darlegt, das den Regelungen dieser Verordnung und der Triebfahrzeugführerschein-Prüfungsverordnung genügt.
 
-(5) Anerkannte Ärzte und Psychologen sind auf Verlangen der zuständigen Behörde verpflichtet, an einer von dieser organisierten Fortbildung teilzunehmen, wenn sich die Inhalte der sie betreffenden Rechtsvorschriften geändert haben.
+(3) Die zuständige Behörde erkennt eine Stelle auf deren Antrag als Prüfstelle an, wenn
 
-# § 17 – Gemeinsame Bestimmungen für die Ausbildungs-, Prüfungs- und Überwachungsorganisation
+1. sie die erforderlichen Vorkehrungen getroffen hat, um die notwendige Unabhängigkeit im Sinne von § 7 Absatz 3 Satz 4 und 5, Unparteilichkeit und Weisungsfreiheit der für sie tätigen Prüfer sicherzustellen,
 
-(1) Die zuständige Behörde veröffentlicht auf ihrer Internetseite ein Register der von ihr nach den §§ 14, 15 und 16 anerkannten Personen und Stellen mit Namen, Anschrift und Teilbereichen, auf die sich die Anerkennung erstreckt.
+2. sie über ein Qualitätsmanagementsystem verfügt,
 
-(2) Die Anerkennung einer nach den §§ 14, 15 oder 16 anerkannten Person oder Stelle ist zu widerrufen, wenn die Anerkennungsvoraussetzungen nicht mehr vorliegen. Eine nach den §§ 14, 15 oder 16 anerkannte Person oder Stelle hat die zuständige Behörde unaufgefordert und unverzüglich über den Wegfall von Anerkennungsvoraussetzungen zu informieren. Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
+3. sie sicherstellt, dass das für sie tätige Prüfpersonal den Anforderungen nach Absatz 2 Satz 1 Nummer 3 bis 11 genügt,
 
-(3) Tätigkeiten im Zusammenhang mit der Ausbildung von Triebfahrzeugführern oder der Beurteilung von Fähigkeiten und Eignung der Triebfahrzeugführer sind im Rahmen eines Qualitätsmanagementsystems ständig zu überwachen.
+4. die zu ihrer gesetzlichen Vertretung berufenen Personen zuverlässig sind,
 
-(4) Die zuständige Behörde überwacht die Qualitätssicherung der Personen und Stellen nach §§ 14, 15 und 16. Ausgenommen sind Tätigkeiten, die bereits von den Sicherheitsmanagementsystemen der Unternehmer nach der Richtlinie 2004/49/EG erfasst werden.
+5. sie ein Prüfungsverfahren darlegt, das den Regelungen dieser Verordnung und der Triebfahrzeugführerschein-Prüfungsverordnung genügt.
 
-# § 18 – Rechts- und Fachaufsicht
+# § 15a – Antrag auf Anerkennung als Prüfer oder als Prüfstelle für Triebfahrzeugführer; Antrag auf Verlängerung oder Änderung der Anerkennung
 
-Die zuständige Behörde führt die Rechts- und Fachaufsicht über die von ihr nach dieser Verordnung anerkannten Personen und Stellen.
+(1) Die erstmalige Anerkennung als Prüfer oder als Prüfstelle für Triebfahrzeugführer, die Verlängerung der Anerkennung und die Änderung der Anerkennung erfolgen auf Antrag bei der zuständigen Behörde.
+
+(2) § 14a Absatz 2 und 4 gilt entsprechend.
+
+(3) Ist der Antragsteller eine Stelle, so gibt diese im Antrag die für sie tätigen Prüfer an.
+
+# § 15b – Anerkennung als Prüfer oder als Prüfstelle für Triebfahrzeugführer
+
+Die Anerkennung als Prüfer oder als Prüfstelle ist zu befristen. Sie gilt längstens für fünf Jahre. Sie kann auf Antrag jeweils um längstens fünf Jahre verlängert werden.
+
+# § 15c – Anerkennung als Prüfer oder als Prüfstelle für den Teilbereich infrastrukturbezogene Fachkenntnisse
+
+(1) Die zuständige Behörde kann Personen und Stellen als Prüfer oder als Prüfstelle für den Teilbereich infrastrukturbezogene Fachkenntnisse nur für solche Infrastrukturen anerkennen, die sich auf dem Gebiet der Bundesrepublik Deutschland befinden. Bilaterale und multilaterale Vereinbarungen bleiben von Satz 1 unberührt.
+
+(2) Wenn eine Person oder eine Stelle, die eine bereits vorhandene Anerkennung als Prüfer oder als Prüfstelle aus einem anderen Mitgliedstaat der Europäischen Union nachweist, einen Antrag auf Anerkennung als Prüfer oder als Prüfstelle für den Teilbereich infrastrukturbezogene Fachkenntnisse bei der zuständigen Behörde stellt, so prüft die zuständige Behörde nur die Anforderungen, die sich auf die Prüfungen der Infrastruktur beziehen, für die die Anerkennung beantragt worden ist.
+
+# § 16 – Voraussetzungen für die Anerkennung als Arzt oder Psychologe oder als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder 3.2
+
+(1) Wer Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder 3.2 bei Triebfahrzeugführern durchführen will, bedarf der Anerkennung.
+
+(2) Die zuständige Behörde erkennt einen Arzt auf dessen Antrag als Arzt für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1 und 3.1 an, wenn er
+
+1. berechtigt ist, die Gebietsbezeichnung „Arbeitsmedizin“ oder die Zusatzbezeichnung „Betriebsmedizin“ zu führen, oder als Arzt in einer Begutachtungsstelle für Fahreignung gemäß § 11 Absatz 2 Satz 3 Nummer 5 der Fahrerlaubnis-Verordnung tätig ist,
+
+2. über eine mindestens einjährige Berufserfahrung im Bereich Schienenverkehr innerhalb der letzten drei Jahre vor Antragstellung verfügt,
+
+3. zuverlässig ist und
+
+4. über ein dem Qualitätsmanagementsystem vergleichbares Verfahren verfügt.
+
+(3) Die zuständige Behörde erkennt einen Psychologen auf dessen Antrag als Psychologen für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.2 und 3.2 an, wenn er
+
+1. einen Abschluss eines Hochschulstudiums als Diplom-Psychologe oder einen gleichwertigen Master-Abschluss in Psychologie nachweist oder über die Anerkennung als „Fachpsychologe für Verkehrspsychologie“ verfügt,
+
+2. über eine mindestens einjährige Berufserfahrung im Bereich Schienenverkehr innerhalb der letzten drei Jahre vor Antragstellung verfügt,
+
+3. zuverlässig ist und
+
+4. über ein dem Qualitätsmanagementsystem vergleichbares Verfahren verfügt.
+
+(4) Die zuständige Behörde erkennt eine Stelle auf deren Antrag als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder 3.2 an, wenn
+
+1. für sie Ärzte oder Psychologen tätig sind, die die für sie geltenden Anforderungen nach Absatz 2 Nummer 1 bis 3 oder Absatz 3 Nummer 1 bis 3 erfüllen,
+
+2. die zu ihrer gesetzlichen Vertretung berufenen Personen zuverlässig sind und
+
+3. sie über ein Qualitätsmanagementsystem verfügt.
+
+(5) Wenn sich Inhalte von Rechtsvorschriften zum Triebfahrzeugführerschein ändern, die anerkannte Ärzte und Psychologen betreffen, sind diese auf Verlangen der zuständigen Behörde verpflichtet, an einer von der Behörde organisierten Fortbildung teilzunehmen.
+
+# § 16a – Antrag auf Anerkennung als Arzt oder Psychologe oder als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder 3.2; Antrag auf Verlängerung
+
+(1) Die erstmalige Anerkennung als Arzt oder Psychologe oder als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder 3.2 und die Verlängerung der Anerkennung erfolgen auf Antrag bei der zuständigen Behörde.
+
+(2) Ist der Antragsteller eine Stelle, so gibt diese im Antrag die für sie tätigen Ärzte und Psychologen und die von ihr betriebenen Niederlassungen an.
+
+(3) Nähere Ausgestaltungen der Anforderungen an den Antrag auf erstmalige Anerkennung und auf Verlängerung der Anerkennung als Arzt oder Psychologe oder als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder 3.2 regeln Verwaltungsvorschriften.
+
+# § 16b – Befristung und Verlängerung der Anerkennung als Arzt oder Psychologe oder als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder 3.2
+
+(1) Die Anerkennung als Arzt oder Psychologe oder als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder 3.2 gilt längstens für fünf Jahre.
+
+(2) Die zuständige Behörde verlängert die Anerkennung auf Antrag jeweils um längstens fünf Jahre, wenn der Antragsteller nachweist, dass er die Voraussetzungen nach § 16 Absatz 2, 3 oder 4 weiterhin erfüllt.
+
+# § 17 – Gemeinsame Bestimmungen für die Anerkennung von Personen und Stellen
+
+(1) Die zuständige Behörde führt ein Register der von ihr nach den §§ 14, 14d, 15 und 16 anerkannten Personen und Stellen. Das Register muss die folgenden Angaben enthalten:
+
+1. Name und Anschrift sowie
+
+2. die Teilbereiche und gegebenenfalls die Sprachen, auf die sich die Anerkennung erstreckt.
+
+(2) Die zuständige Behörde veröffentlicht auf ihrer Internetseite das Register nach Absatz 1. Personenbezogene Daten werden nur veröffentlicht, wenn eine entsprechende Einwilligung vorliegt.
+
+(3) Die Anerkennung nach den §§ 14, 14d und 16 ist zu widerrufen, wenn die Anerkennungsvoraussetzungen nicht mehr vorliegen. Die Anerkennung nach § 15 ist zu widerrufen, wenn
+
+1. die Anerkennungsvoraussetzungen nicht mehr vorliegen oder
+
+2. die Unabhängigkeit oder die Unparteilichkeit nicht oder nicht mehr vorliegt.
+
+(4) Die Anerkennung nach den §§ 14, 14d, 15 und 16 kann widerrufen werden, wenn die anerkannte Person oder die anerkannte Stelle gegen eine der folgenden Vorschriften verstoßen hat:
+
+1. § 6 oder § 7 oder
+
+2. § 3, § 5, § 7, § 9, § 10, § 14, § 17, § 18 oder § 22 der Triebfahrzeugführerschein-Prüfungsverordnung.
+
+(5) Die Rücknahme und der Widerruf der Anerkennung nach den §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben neben den Absätzen 3 und 4 anwendbar.
+
+(6) Die anerkannte Person und die anerkannte Stelle haben die zuständige Behörde unverzüglich über den Wegfall von Anerkennungsvoraussetzungen zu informieren.
+
+# § 18 – Gemeinsame Bestimmungen für die Überwachung
+
+(1) Jede anerkannte Person ist verpflichtet, ihre Tätigkeiten im Zusammenhang mit der Ausbildung von Triebfahrzeugführern oder mit der Beurteilung von Fähigkeiten oder der Eignung von Triebfahrzeugführern im Rahmen eines mit einem Qualitätsmanagementsystem vergleichbaren Verfahrens ständig zu überwachen.
+
+(2) Jede anerkannte Stelle ist verpflichtet, ihre Tätigkeiten im Zusammenhang mit der Ausbildung von Triebfahrzeugführern oder mit der Beurteilung von Fähigkeiten oder der Eignung von Triebfahrzeugführern im Rahmen eines Qualitätsmanagementsystems ständig zu überwachen.
+
+(3) Die zuständige Behörde überwacht die anerkannten Personen und Stellen. Ausgenommen sind Tätigkeiten, die bereits von den Sicherheitsmanagementsystemen der Unternehmer nach § 4 Absatz 4 Satz 1 des Allgemeinen Eisenbahngesetzes erfasst werden.
 
 # § 19 – Kontrollen durch die zuständige Behörde
 
@@ -336,23 +493,51 @@ Die zuständige Behörde führt die Rechts- und Fachaufsicht über die von ihr n
 
 (2) Die zuständige Behörde ist jederzeit berechtigt, während der Arbeitszeit des Triebfahrzeugführers zu überprüfen, ob er die nach dieser Verordnung mitzuführenden Dokumente vorweisen kann.
 
-(3) Erfüllt ein Triebfahrzeugführer die Voraussetzungen für die Erteilung eines Triebfahrzeugführerscheins nicht mehr, so kann die zuständige Behörde den von ihr erteilten Triebfahrzeugführerschein aussetzen oder entziehen. In beiden Fällen ist der Triebfahrzeugführerschein der zuständigen Behörde auszuhändigen. Sie unterrichtet den Unternehmer von ihrer Entscheidung und teilt dem Triebfahrzeugführer darüber hinaus mit, nach welchem Verfahren er den Triebfahrzeugführerschein wieder erlangen kann. Ist der Triebfahrzeugführerschein in einem anderen Mitgliedstaat erteilt worden, wendet sich die zuständige Behörde an die zuständige Behörde des jeweiligen Mitgliedstaates und verlangt unter Angabe von Gründen entweder eine zusätzliche Kontrolle, eine Aussetzung oder die Entziehung des Triebfahrzeugführerscheins. Die zuständige Behörde unterrichtet die Europäische Kommission und die betroffenen zuständigen Behörden der anderen Mitgliedstaaten über ihr Ersuchen. Bis zur Entscheidung der zuständigen Behörde des jeweiligen Mitgliedstaates kann die zuständige Behörde dem Triebfahrzeugführer das Führen eines Triebfahrzeuges auf dem Gebiet der Bundesrepublik Deutschland untersagen. Wird an die zuständige Behörde ein entsprechendes Ersuchen herangetragen, prüft sie dieses innerhalb von vier Wochen und teilt der ersuchenden Behörde, der Europäischen Kommission und den betroffenen zuständigen Behörden der anderen Mitgliedstaaten ihre Entscheidung mit.
+(3) (weggefallen)
 
-(4) Erfüllt ein Triebfahrzeugführer die Voraussetzungen für die Ausstellung einer Zusatzbescheinigung nicht mehr, fordert die zuständige Behörde den ausstellenden Unternehmer auf, eine Überprüfung der Voraussetzungen nach § 5 Absatz 2 durchzuführen oder eine Maßnahme nach § 12 Absatz 2 zu ergreifen. Der Unternehmer informiert die zuständige Behörde innerhalb von vier Wochen über die ergriffene Maßnahme. Bis zur Vorlage dieser Mitteilung kann die zuständige Behörde dem Triebfahrzeugführer das Führen eines Triebfahrzeuges untersagen. Sie unterrichtet hierüber bei international eingesetzten Triebfahrzeugführern die Europäische Kommission und die betroffenen zuständigen Behörden der anderen Mitgliedstaaten.
+(4) (weggefallen)
 
-(5) Gefährdet ein Triebfahrzeugführer die Sicherheit des Eisenbahnverkehrs erheblich, ergreift die zuständige Behörde unverzüglich die erforderlichen Maßnahmen entsprechend § 5a Absatz 2 des Allgemeinen Eisenbahngesetzes und kann dem Triebfahrzeugführer insbesondere das Führen eines Triebfahrzeuges untersagen. Bei international eingesetzten Triebfahrzeugführern unterrichtet sie die Europäische Kommission und die betroffenen zuständigen Behörden der anderen Mitgliedstaaten von jeder solchen Entscheidung.
+(5) (weggefallen)
 
-(6) Ist die zuständige Behörde der Auffassung, dass die Voraussetzungen für eine von einer zuständigen Behörde eines anderen Mitgliedstaates nach Artikel 29 Absatz 4 der Richtlinie 2007/59/EG getroffene Entscheidung nicht vorliegen, so unterrichtet sie die Europäische Kommission hierüber. Die zuständige Behörde kann die Untersagung des Führens eines Triebfahrzeuges nach Absatz 3, 4 oder 5 bis zum Abschluss des Verfahrens nach Artikel 29 Absatz 5 der Richtlinie 2007/59/EG auf dem Gebiet der Bundesrepublik Deutschland aufrechterhalten.
+(6) (weggefallen)
+
+# § 19a – Aussetzung und Entziehung eines Triebfahrzeugführerscheins
+
+(1) Erfüllt ein Triebfahrzeugführer die Voraussetzungen für die Erteilung eines Triebfahrzeugführerscheins nicht mehr, so kann die zuständige Behörde den von ihr erteilten Triebfahrzeugführerschein aussetzen oder entziehen.
+
+(2) Ein ausgesetzter oder entzogener Triebfahrzeugführerschein ist der zuständigen Behörde auszuhändigen.
+
+(3) Die zuständige Behörde unterrichtet den Unternehmer von ihrer Entscheidung nach Absatz 1. Sie teilt dem Triebfahrzeugführer mit, nach welchem Verfahren er den Triebfahrzeugführerschein wiedererlangen kann. Einzelheiten über das Verfahren zur Wiedererlangung des Triebfahrzeugführerscheins regeln Verwaltungsvorschriften.
+
+(4) Ist ein Triebfahrzeugführerschein entzogen worden, darf ein neuer Triebfahrzeugführerschein erteilt werden, wenn der Triebfahrzeugführer die in § 5 Absatz 1 genannten Voraussetzungen wieder erfüllt.
+
+# § 19b – Maßnahmen bei Wegfall der Voraussetzungen für die Erteilung eines Triebfahrzeugführerscheins mit Auslandsbezug
+
+(1) Ist der Triebfahrzeugführerschein, für dessen Erteilung der Triebfahrzeugführer die Voraussetzungen nicht mehr erfüllt, in einem anderen Mitgliedstaat der Europäischen Union erteilt worden, ersucht die zuständige Behörde die zuständige Behörde des anderen Mitgliedstaates unter Angabe von Gründen entweder um eine Kontrolle, eine Aussetzung oder die Entziehung des Triebfahrzeugführerscheins.
+
+(2) Die zuständige Behörde unterrichtet die Europäische Kommission und die betroffenen zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union über ihr Ersuchen nach Absatz 1.
+
+(3) Bis zur Entscheidung der zuständigen Behörde des anderen Mitgliedstaates der Europäischen Union, ob eine Kontrolle des Triebfahrzeugführerscheins durchgeführt wird oder der Triebfahrzeugführerschein ausgesetzt oder entzogen wird, kann die zuständige Behörde dem Triebfahrzeugführer das Führen eines Triebfahrzeuges auf dem Gebiet der Bundesrepublik Deutschland untersagen.
+
+(4) Wird an die zuständige Behörde ein dem Absatz 1 entsprechendes Ersuchen einer zuständigen Behörde eines anderen Mitgliedstaates der Europäischen Union herangetragen, prüft sie dieses Ersuchen innerhalb von vier Wochen und teilt der ersuchenden Behörde, der Europäischen Kommission und den betroffenen zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union ihre Entscheidung mit.
+
+# § 19c – Weitere Maßnahmen der zuständigen Behörde
+
+(1) Erfüllt ein Triebfahrzeugführer die Voraussetzungen für die Ausstellung einer Zusatzbescheinigung nicht mehr, fordert die zuständige Behörde den Unternehmer auf, das Vorliegen der Voraussetzungen nach § 5 Absatz 2 zu überprüfen oder eine Maßnahme nach § 12 Absatz 2 zu ergreifen. Der Unternehmer informiert die zuständige Behörde innerhalb von vier Wochen über die ergriffene Maßnahme. Bis zur Vorlage dieser Information kann die zuständige Behörde dem Triebfahrzeugführer das Führen eines Triebfahrzeuges untersagen. Bei international eingesetzten Triebfahrzeugführern unterrichtet die zuständige Behörde die Europäische Kommission und die betroffenen zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union von der Untersagung.
+
+(2) Gefährdet ein Triebfahrzeugführer die Sicherheit des Eisenbahnverkehrs erheblich, ergreift die zuständige Behörde unverzüglich die erforderlichen Maßnahmen entsprechend § 5a Absatz 2 Satz 1 des Allgemeinen Eisenbahngesetzes; die zuständige Behörde kann dem Triebfahrzeugführer insbesondere das Führen eines Triebfahrzeuges untersagen. Bei international eingesetzten Triebfahrzeugführern unterrichtet die zuständige Behörde die Europäische Kommission und die betroffenen zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union von der getroffenen Maßnahme.
+
+(3) Ist die zuständige Behörde der Auffassung, dass die Voraussetzungen für eine von einer zuständigen Behörde eines anderen Mitgliedstaates nach Artikel 29 Absatz 4 der Richtlinie 2007/59/EG getroffene Entscheidung nicht vorliegen, so unterrichtet sie die Europäische Kommission hierüber. Die zuständige Behörde kann die Untersagung des Führens eines Triebfahrzeuges nach § 19b Absatz 3 oder § 19c Absatz 1 Satz 3 oder Absatz 2 Satz 1 bis zum Abschluss des Verfahrens nach Artikel 29 Absatz 5 der Richtlinie 2007/59/EG auf dem Gebiet der Bundesrepublik Deutschland aufrechterhalten.
 
 # § 20 – Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 6 Buchstabe b des Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig ohne Anerkennung nach § 14 Absatz 1 Satz 1, auch in Verbindung mit Absatz 6 Satz 2, eine dort genannte Person ausbildet.
+(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 6 Buchstabe b des Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig ohne Anerkennung nach § 14 Absatz 1, auch in Verbindung mit § 14d Satz 2, eine dort genannte Person ausbildet.
 
 (2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 6 Buchstabe c des Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. ohne Fahrberechtigung nach § 3 Absatz 1 Satz 1 ein Triebfahrzeug führt,
 
-2. entgegen § 5 Absatz 2 eine Zusatzbescheinigung ausstellt,
+2. entgegen § 5 Absatz 3 Satz 1 eine Zusatzbescheinigung ausstellt,
 
 3. entgegen § 9 Absatz 4 eine Zusatzbescheinigung nicht oder nicht rechtzeitig ändert,
 
@@ -360,33 +545,31 @@ Die zuständige Behörde führt die Rechts- und Fachaufsicht über die von ihr n
 
 5. entgegen § 10 Absatz 6 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-6. entgegen § 11 Absatz 1 Satz 1 oder Absatz 2 Satz 1 nicht sicherstellt, dass sich ein Triebfahrzeugführer einer dort genannten Überprüfung unterzieht,
+6. entgegen § 11 Absatz 1 Satz 1 oder Absatz 4 Satz 1 nicht sicherstellt, dass sich ein Triebfahrzeugführer einer dort genannten Überprüfung oder Untersuchung unterzieht,
 
-7. entgegen § 12 Absatz 1 Satz 1 einen Triebfahrzeugführer einsetzt,
+7. entgegen § 11 Absatz 6 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-8. entgegen § 12 Absatz 3 eine Unterrichtung nicht oder nicht rechtzeitig vornimmt,
+8. entgegen § 12 Absatz 1 einen Triebfahrzeugführer einsetzt,
 
-9. entgegen § 12 Absatz 4 Satz 1 eine Untersuchung nicht oder nicht rechtzeitig anordnet,
+9. entgegen § 12 Absatz 4 eine Unterrichtung nicht oder nicht rechtzeitig vornimmt,
 
-10. entgegen § 13 Absatz 1 die zuständige Behörde nicht oder nicht rechtzeitig in Kenntnis setzt,
+10. entgegen § 12 Absatz 5 Satz 1 eine Untersuchung nicht oder nicht rechtzeitig anordnet,
 
-11. ohne Anerkennung nach § 15 Absatz 1 Satz 1 einen Triebfahrzeugführer prüft,
+11. entgegen § 13 Absatz 1 die zuständige Behörde nicht oder nicht rechtzeitig in Kenntnis setzt,
 
-12. ohne Anerkennung nach § 16 Absatz 1 Satz 1 eine Tauglichkeitsuntersuchung durchführt,
+12. ohne Anerkennung nach § 15 Absatz 1 einen Triebfahrzeugführer prüft,
 
-13. entgegen § 17 Absatz 2 Satz 2 eine dort genannte Information nicht oder nicht rechtzeitig gibt,
+13. ohne Anerkennung nach § 16 Absatz 1 eine dort genannte Untersuchung durchführt,
 
-14. einer vollziehbaren Anordnung nach § 19 Absatz 3 Satz 6, Absatz 4 Satz 3, Absatz 5 Satz 1 und Absatz 6 Satz 2 zuwiderhandelt oder
+14. entgegen § 17 Absatz 6 eine dort genannte Information nicht oder nicht rechtzeitig gibt oder
 
-15. entgegen § 21 Absatz 7 die dort genannten Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
+15. einer vollziehbaren Anordnung nach § 19b Absatz 3 oder § 19c Absatz 1 Satz 3 oder Absatz 2 Satz 1 zweiter Halbsatz zuwiderhandelt.
 
 # § 21 – Übergangsvorschriften
 
-(1) Auf Grenzbetriebsstrecken und Durchgangsstrecken können bis zum 4. August 2020 abweichend von § 5 Absatz 2 Satz 3 die bis zum Ablauf des 31. Dezember 2015 bestehenden örtlichen, zwischen den Eisenbahnen, den zuständigen Behörden oder den Staaten abgeschlossenen Vereinbarungen zur Nutzung der Sprache eines Nachbarstaates weiter angewendet werden.
+(1) Für Triebfahrzeugführer, die ihre Fahrberechtigung oder ihre Erlaubnis nach der Eisenbahnfahrzeug-Führerschein-Richtlinie des Verbandes Deutscher Verkehrsunternehmen vor dem 1. Januar 2016 erlangt haben, ist die Anlage 4 in der bis zum 31. Dezember 2015 geltenden Fassung weiter anzuwenden.
 
-(2) Für Triebfahrzeugführer, die ihre Fahrberechtigung oder ihre Erlaubnis nach der Eisenbahnfahrzeug-Führerschein-Richtlinie des Verbandes Deutscher Verkehrsunternehmen vor dem 1. Januar 2016 erlangt haben, ist die Anlage 4 in der bis zum 31. Dezember 2015 geltenden Fassung weiter anzuwenden.
-
-(3) Für
+(2) Für
 
 1. Triebfahrzeugführer, die Triebfahrzeuge auf öffentlichen Eisenbahninfrastrukturen für Eisenbahnen bewegen, die auf Grund des § 7a oder des § 7c des Allgemeinen Eisenbahngesetzes in der Fassung vom 29. März 2019 (BGBl. I S. 347) erstmalig einer Sicherheitsbescheinigung oder einer Sicherheitsgenehmigung bedürfen, und
 
@@ -394,19 +577,27 @@ Die zuständige Behörde führt die Rechts- und Fachaufsicht über die von ihr n
 
 gelten die Verpflichtungen dieser Verordnung ab dem 6. Dezember 2022. Triebfahrzeugführer, denen Erlaubnisse nach der Eisenbahnfahrzeug-Führerschein-Richtlinie des Verbandes Deutscher Verkehrsunternehmen erteilt worden sind, dürfen ihre berufliche Tätigkeit auf Grund ihrer Erlaubnisse bis zum Ablauf des 6. Dezember 2022 weiter ausüben. Die zuständige Behörde stellt für Triebfahrzeugführer nach Satz 1 Nummer 1 die Erlaubnisse nach der Eisenbahnfahrzeug-Führerschein-Richtlinie des Verbandes Deutscher Verkehrsunternehmen auf einen Triebfahrzeugführerschein nach dieser Verordnung um, soweit bis zum Ablauf des 6. Dezember 2021 ein Antrag auf Umstellung gestellt wird. In den Fällen des Satzes 3 gilt die Frist nach § 8 Absatz 3 nicht. Die zuständige Behörde berücksichtigt bei ihrer Entscheidung die gesamten beruflichen Befähigungen, die der Triebfahrzeugführer erworben hat.
 
-# Anlage 1 – (zu § 3 Absatz 1 Satz 2 Nummer 1, § 5 Absatz 1 und § 8 Absatz 2 und 3)Gemeinschaftsmodell für den Triebfahrzeugführerschein
+(3) Für Ärzte, Psychologen und zuständige Stellen für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 und 3.2, die vor dem 1. Januar 2024 anerkannt worden sind, gilt die jeweilige Anerkennung längstens bis einschließlich zum 1. Januar 2029.
+
+(4) Ärzte, Psychologen und zuständige Stellen für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 und 3.2, die vor dem 1. Januar 2024 anerkannt worden sind, haben die Verlängerung ihrer Anerkennung bis zum Ablauf des 1. Januar 2028 zu beantragen. Die Anerkennung gilt im Fall rechtzeitiger Antragstellung bis zum Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag als vorläufig verlängert.
+
+# § 22 – Anwendungsbestimmungen
+
+Bis zum Ablauf des 31. Dezember 2024 sind § 6 Absatz 3, § 7 Absatz 1 und Anlage 8 in der am 8. Dezember 2023 geltenden Fassung weiter anzuwenden.
+
+# Anlage 1 – (zu § 3 Absatz 1 Satz 2 Nummer 1, § 5 Absatz 1 und § 8 Absatz 2 und 3)Modell der Europäischen Union für den Triebfahrzeugführerschein
 
 (Fundstelle: BGBl. I 2011, 714 - 715; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 A. Anfertigung des Triebfahrzeugführerscheins  
   
 
-Der Triebfahrzeugführerschein wird von der Bundesdruckerei GmbH im Auftrag der zuständigen Behörde gefertigt. Die Herstellung, Personalisierung und Lieferung der Triebfahrzeugführerscheine erfolgt auf der Grundlage eines Vertrages zwischen der zuständigen Behörde und der Bundesdruckerei GmbH. Näheres wird durch Verwaltungsvorschrift geregelt.
+Der Triebfahrzeugführerschein wird von der Bundesdruckerei GmbH im Auftrag der zuständigen Behörde gefertigt. Die Herstellung, Personalisierung und Lieferung der Triebfahrzeugführerscheine erfolgt auf der Grundlage eines Vertrages zwischen der zuständigen Behörde und der Bundesdruckerei GmbH.
 
 B. Gestaltung des Triebfahrzeugführerscheins  
   
 
-Der Triebfahrzeugführerschein richtet sich nach dem Gemeinschaftsmodell und den Referenzfarben Pantone Reflex Blue und Pantone Yellow.
+Der Triebfahrzeugführerschein richtet sich nach dem Modell der Europäischen Union und den Referenzfarben Pantone Reflex Blue und Pantone Yellow.
 
 1. Die Vorderseite des Triebfahrzeugführerscheins enthält folgende Angaben:
 
@@ -443,7 +634,7 @@ Nummer 6: Lichtbild des Inhabers und
 
 ii) Nummer 7: Unterschrift des Inhabers.
 
-Die Nummer des Triebfahrzeugführerscheins nach Doppelbuchstabe gg wird als Europäische Identifikationsnummer nach Anhang IV der Verordnung (EG) Nr. 653/2007 der Kommission vom 13. Juni 2007 zur Verwendung eines einheitlichen europäischen Formats für Sicherheitsbescheinigungen und Antragsunterlagen gemäß Artikel 10 der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates und zur Gültigkeit von gemäß der Richtlinie 2001/14/EG des Europäischen Parlaments und des Rates ausgestellten Sicherheitsbescheinigungen (ABl. L 153 vom 14.6.2007, S. 9), die durch die Verordnung (EU) Nr. 445/2011 (ABl. L 122 vom 11.5.2011, S. 22) geändert worden ist, gebildet.
+Die Nummer des Triebfahrzeugführerscheins nach Doppelbuchstabe gg wird gebildet als Europäische Identifikationsnummer nach Artikel 3 Absatz 10 der Durchführungsverordnung (EU) 2018/763 der Kommission vom 9. April 2018 über die praktischen Festlegungen für die Erteilung von einheitlichen Sicherheitsbescheinigungen an Eisenbahnunternehmen gemäß der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 653/2007 der Kommission (ABl. L 129 vom 25.5.2018, S. 49) in der jeweils geltenden Fassung.
 
 Die zwei Ziffern der Europäischen Identifikationsnummer für die Art des Dokuments lauten wie folgt:
 
@@ -480,16 +671,16 @@ C. Nummerierung des Triebfahrzeugführerscheins
 
 Die Nummer wird bei Erteilung des Triebfahrzeugführerscheins von der zuständigen Behörde vergeben und bei einer Verlängerung, Änderung oder Ausstellung eines Ersatzführerscheins beibehalten. Bei der Verlängerung nach zehn Jahren wird der Triebfahrzeugführerschein mit einem neuen Lichtbild und einem neuen Datum des Ablaufs der Gültigkeit versehen.
 
-D. Gemeinschaftsmodell für den Triebfahrzeugführerschein  
+D. Modell der Europäischen Union für den Triebfahrzeugführerschein  
   
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j0705-1_0010.jpg)
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j0705-1_0020.jpg)
 
-# Anlage 2 – (zu § 3 Absatz 1 Satz 2 Nummer 2 und § 5 Absatz 2)Gemeinschaftsmodell für die Zusatzbescheinigung
+# Anlage 2 – (zu § 3 Absatz 1 Satz 2 Nummer 2 und § 5 Absatz 2) Europäisches Modell für die Zusatzbescheinigung
 
-(Fundstelle: BGBl. I 2011, 716 - 719)
+(Fundstelle: BGBl. I 2011, 716 - 719; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 A. Inhalt
 
@@ -501,7 +692,7 @@ b) den Namen des Inhabers,
 
 c) den Vornamen des Inhabers,
 
-d) Datum der Ausstellung und des Ablaufs der Gültigkeit der Zusatzbescheinigung: da die Zusatzbescheinigung unbefristet gültig ist, sind in die Felder, die für das Datum des Ablaufs der Gültigkeitsdauer vorgesehen sind, Striche einzutragen sowie
+d) Datum der Ausstellung und des Ablaufs der Gültigkeit der Zusatzbescheinigung: ist die Zusatzbescheinigung unbefristet gültig, sind in die Felder, die für das Datum des Ablaufs der Gültigkeitsdauer vorgesehen sind, Striche einzutragen; hat der Unternehmer die Gültigkeitsdauer befristet, ist das Datum des Ablaufs der Gültigkeitsdauer einzutragen sowie
 
 e) Angaben zur ausstellenden Organisationseinheit des Unternehmens und Stempel.
 
@@ -560,7 +751,7 @@ Beispiele:
 
 d) Nummer 4: Zusätzliche interne Angaben des Unternehmers.
 
-e) Nummer 5: Angaben zu Sprachkenntnissen außer der Muttersprache, die für den Betrieb auf der entsprechenden Infrastruktur nötig sind und in denen der Triebfahrzeugführer Kenntnisse besitzt, die den Anforderungen von Anlage 7 Nummer 6 entsprechen.
+e) Nummer 5: Angaben zu Sprachkenntnissen außer der Muttersprache, die für den Betrieb auf der entsprechenden Infrastruktur nötig sind und in denen der Triebfahrzeugführer Kenntnisse besitzt, die den Anforderungen von Anlage 7 Abschnitt 6 entsprechen.
 
 f) Nummer 6: Einschränkungen des Leistungsvermögens und der Fähigkeiten des Triebfahrzeugführers in Bezug auf den Inhalt der Zusatzbescheinigung, wie „nur für Tagfahrten zugelassen“; beziehen sich die Einschränkungen auf Fahrzeuge oder die Infrastruktur, erfolgen die Angaben in Textform im Feld „Hinweise“ neben den betreffenden Fahrzeugen und Infrastrukturen.
 
@@ -590,7 +781,7 @@ cc) ein Feld für Hinweise zur Bestätigung der erworbenen Fachkenntnisse, für 
 
 B. Äußere Merkmale der Zusatzbescheinigung
 
-Das Gemeinschaftsmodell der Zusatzbescheinigung ist ein Faltdokument in der Größe 10 cm × 21 cm (ungefaltet) mit drei Außen- und drei Innenseiten.
+Das Europäische Modell der Zusatzbescheinigung ist ein Faltdokument in der Größe 10 cm × 21 cm (ungefaltet) mit drei Außen- und drei Innenseiten.
 
 1. Die Vorderseite weist folgende Angaben auf:
 
@@ -640,7 +831,7 @@ c) ein Stempel sowie
 
 Alle Änderungen sind mit Datum und Stempel auf dem Dokument zu bestätigen und müssen den Angaben im Register entsprechen.
 
-D. Gemeinschaftsmodell für die Zusatzbescheinigung
+D. Europäisches Modell für die Zusatzbescheinigung
 
 |                                                                                                                                                                                    |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -652,13 +843,9 @@ D. Gemeinschaftsmodell für die Zusatzbescheinigung
 
 # Anlage 3 – (zu § 5 Absatz 1 und § 8 Absatz 2)Muster eines vorläufigen Führerscheins
 
-(Fundstelle: BGBl. I 2011, 720)
+(Fundstelle: BGBl. 2023 I Nr. 345, S. 12)
 
-Der vorläufige Führerschein ist auf DIN A4-Papier und nach folgendem Muster zu erstellen:
-
-<a href="../normengrafiken/bgbl1_2011/j0705-1_0080.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-# Anlage 4 – (zu § 5 Absatz 1 Satz 1 Nummer 3 und 4, § 12 Absatz 4 sowie § 16)Medizinische und psychologische Anforderungen
+# Anlage 4 – (zu § 5 Absatz 1 Satz 1 Nummer 3 und 4, § 11 Absatz 3 Satz 3 und 4, § 12 Absatz 5, §§ 16 bis 16b)Medizinische und psychologische Anforderungen
 
 (Fundstelle: BGBl. I 2011, 721 - 722; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
@@ -726,18 +913,18 @@ b) es darf kein Hördefizit von über 45 dB bei 2 000 Hz bei dem Ohr, das die s
 
 c) keine Anomalie des Vestibularapparats;
 
-d) keine chronische Sprachstörung auf Grund der Notwendigkeit, Mitteilungen laut und deutlich auszutauschen;
+d) die Verwendung von Hörhilfen ist in bestimmten Fällen zulässig.
 
-e) die Verwendung von Hörhilfen ist in bestimmten Fällen zulässig.
+Es darf keine chronische Sprachstörung vorliegen aufgrund der Notwendigkeit, Mitteilungen laut und deutlich auszutauschen.
 
 2. Mindestinhalt der Einstellungsuntersuchung
 
 2.1  
 Ärztliche Untersuchungen
 
-a) allgemeine ärztliche Untersuchung;
+a) allgemeine ärztliche Untersuchung, die auch die Prüfung der Anforderungen des Unterabschnittes 1.1 umfasst;
 
-b) Untersuchung der sensorischen Funktionen: Sehvermögen, Hörvermögen, Farbwahrnehmung;
+b) Untersuchung der sensorischen Funktionen (Sehvermögen und Hörvermögen) und des Sprachvermögens, die die Prüfung der Anforderungen der Unterabschnitte 1.2 und 1.3 umfasst;
 
 c) Blut- oder Urinanalysen, um unter anderem eine eventuelle Zuckerkrankheit festzustellen, soweit sie zur Beurteilung der körperlichen Eignung des Bewerbers erforderlich sind;
 
@@ -756,22 +943,37 @@ c) psychomotorische Fähigkeiten: Reaktionsgeschwindigkeit, Koordination der Hä
 
 d) tätigkeitsrelevante Persönlichkeits- und Einstellungsfaktoren.
 
-3. Mindestinhalt der regelmäßigen ärztlichen Untersuchung  
-  
+3. Mindestinhalt der regelmäßigen und anlassbezogenen ärztlichen Untersuchungen sowie der anlassbezogenen psychologischen Untersuchungen
 
-Erfüllt ein Triebfahrzeugführer die Anforderungen der Einstellungsuntersuchung, so umfassen die regelmäßigen Untersuchungen mindestens
+3.1  
+Regelmäßige und anlassbezogene ärztliche Untersuchungen
 
-a) eine allgemeine ärztliche Untersuchung;
+Erfüllt ein Triebfahrzeugführer die Anforderungen der Einstellungsuntersuchung, so umfassen die regelmäßigen und die anlassbezogenen Untersuchungen mindestens
 
-b) eine Untersuchung der sensorischen Funktionen: Sehvermögen, Hörvermögen, Farbwahrnehmung;
+a) eine allgemeine ärztliche Untersuchung, die auch die Prüfung der Anforderungen des Unterabschnittes 1.1 umfasst;
+
+b) eine Untersuchung der sensorischen Funktionen (Sehvermögen und Hörvermögen) und des Sprachvermögens, die die Prüfung der Anforderungen der Unterabschnitte 1.2 und 1.3 umfasst;
 
 c) eine Blut- oder Urinanalyse zur Feststellung von Diabetes mellitus und anderen Krankheiten entsprechend dem Ergebnis der klinischen Untersuchung;
 
-d) eine Untersuchung auf Drogen, sofern klinisch angezeigt.
+d) eine Untersuchung auf Betäubungsmittel, psychotrope Arzneimittel und Alkoholmissbrauch, sofern jeweils klinisch angezeigt.
 
 Ferner muss bei Triebfahrzeugführern, die älter als 40 Jahre sind, ein Ruhe-EKG durchgeführt werden.
 
-# Anlage 5 – (zu § 5 Absatz 1 Satz 1 Nummer 5 und § 6 Absatz 1)Allgemeine Fachkenntnisse für den Erwerb des Triebfahrzeugführerscheins
+3.2  
+Anlassbezogene psychologische Untersuchungen
+
+Erfüllt ein Triebfahrzeugführer die Anforderungen der Einstellungsuntersuchung, so umfassen die anlassbezogenen Untersuchungen folgende Bereiche:
+
+a) kognitive Fähigkeiten: Aufmerksamkeit und Konzentration, Gedächtnis, Wahrnehmungsfähigkeit, Urteilsvermögen;
+
+b) Kommunikation;
+
+c) psychomotorische Fähigkeiten: Reaktionsgeschwindigkeit, Koordination der Hände;
+
+d) tätigkeitsrelevante Persönlichkeits- und Einstellungsfaktoren.
+
+# Anlage 5 – (zu § 5 Absatz 1 Satz 1 Nummer 5, § 6 Absatz 1, § 7a Absatz 3 Satz 1 und § 11 Absatz 3 Satz 1)Allgemeine Fachkenntnisse für den Erwerb des Triebfahrzeugführerscheins
 
 (Fundstelle: BGBl. I 2011, 723; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
@@ -845,9 +1047,9 @@ Abschlussarbeiten am Triebfahrzeug,
 
 ii) Abschlusstätigkeiten bei Schichtende.
 
-# Anlage 6 – (zu § 5 Absatz 2 Satz 1 Nummer 2, § 6 Absatz 1 und § 7 Absatz 7)Fahrzeugbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
+# Anlage 6 – (zu § 5 Absatz 2 Satz 1 Nummer 2, § 6 Absatz 1, § 7 Absatz 7 und § 7a Absatz 3 Satz 1)Fahrzeugbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
 
-(Fundstelle: BGBl. I 2011, 724 - 725)
+(Fundstelle: BGBl. I 2011, 724 - 725; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Prüfungen und Kontrollen  
   
@@ -950,7 +1152,7 @@ Der Triebfahrzeugführer muss beurteilen können, ob vor der Weiterfahrt des Zug
 
 Der Triebfahrzeugführer muss beim Abstellen von Zügen oder Zugteilen die erforderlichen Maßnahmen treffen können, damit diese sich nicht unbeabsichtigt in Bewegung setzen.
 
-# Anlage 7 – (zu § 5 Absatz 2 Satz 2, § 6 Absatz 1, § 7 Absatz 7, § 14 Absatz 3 Nummer 2 Buchstabe c und § 15 Absatz 1 Satz 2 Nummer 2 Buchstabe e)Infrastrukturbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
+# Anlage 7 – (zu § 5 Absatz 2 Satz 2, § 6 Absatz 1, § 7 Absatz 7 und § 7a Absatz 3 Satz 1)Infrastrukturbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
 
 (Fundstelle: BGBl. I 2011, 726 - 727; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
@@ -1033,27 +1235,37 @@ Der Triebfahrzeugführer muss über ausreichende Kenntnisse der deutschen Sprach
 
 Ausreichende deutsche Sprachkenntnisse entsprechen dem Niveau B 1 des Gemeinsamen europäischen Referenzrahmens für Sprachen.
 
-Abweichend von Satz 1 muss der Triebfahrzeugführer auf Grenzbetriebsstrecken und Durchgangsstrecken, auf denen der Eisenbahninfrastrukturunternehmer neben Deutsch eine zweite Betriebssprache zugelassen hat, über Sprachkenntnisse einer der beiden zugelassenen Sprachen auf dem Niveau B 1 des Gemeinsamen europäischen Referenzrahmens für Sprachen verfügen. Von den Anforderungen des Sprachniveaus B 1 nach Satz 3 können Triebfahrzeugführer auf Grenzbetriebsstrecken und Durchgangsstrecken freigestellt werden, wenn
+Abweichend von Satz 1 muss der Triebfahrzeugführer auf Grenzbetriebsstrecken und Durchgangsstrecken, auf denen der Eisenbahninfrastrukturunternehmer neben Deutsch eine zweite Betriebssprache zugelassen hat, über Sprachkenntnisse einer der beiden zugelassenen Sprachen auf dem Niveau B 1 des Gemeinsamen europäischen Referenzrahmens für Sprachen verfügen. Von den Anforderungen des Sprachniveaus B 1 nach Satz 3 können Triebfahrzeugführer auf Grenzbetriebsstrecken und Durchgangsstrecken ausgenommen werden, wenn
 
-a) der Unternehmer beim Eisenbahninfrastrukturunternehmer nach dem in dessen Schienennetz-Nutzungsbedingungen veröffentlichten Verfahren eine Freistellung für dort eingesetzte Triebfahrzeugführer beantragt,
+a) der Unternehmer beim Eisenbahninfrastrukturunternehmer nach dem in dessen Schienennetz-Nutzungsbedingungen veröffentlichten Verfahren eine Ausnahme für dort eingesetzte Triebfahrzeugführer beantragt,
 
 b) der Unternehmer nachweist, dass er in seinem Sicherheitsmanagementsystem ausreichende Vorkehrungen getroffen hat, um sicherzustellen, dass die betreffenden Triebfahrzeugführer und die Mitarbeiter des Eisenbahninfrastrukturunternehmers sich bei Normalbetrieb, gestörtem Betrieb und in Notsituationen untereinander verständigen können,
 
-c) der Eisenbahninfrastrukturunternehmer eine Freistellung gewährt und
+c) der Eisenbahninfrastrukturunternehmer eine Ausnahme gewährt und
 
 d) eine entsprechende Unterrichtung der betroffenen Triebfahrzeugführer und Mitarbeiter des Eisenbahninfrastrukturunternehmers in den jeweiligen Sicherheitsmanagementsystemen sichergestellt ist.
 
-Auf Grenzbetriebs- und Durchgangsstrecken, für die Vereinbarungen nach § 3a Absatz 4 der Eisenbahn-Bau- und Betriebsordnung bestehen, gilt der Nachweis nach Satz 5 Buchstabe b durch einen Verweis auf die bestehende, in den Schienennetz-Nutzungsbestimmungen des Eisenbahninfrastrukturunternehmers veröffentlichte Regelung als erbracht. Die Freistellung nach Satz 5 Buchstabe c erfolgt in diesen Fällen durch Abschluss einer Vereinbarung über die Bestimmungen über die Betriebssicherheit nach § 21 Absatz 1 des Eisenbahnregulierungsgesetzes.
+Auf Grenzbetriebs- und Durchgangsstrecken, für die Vereinbarungen nach § 3a Absatz 4 der Eisenbahn-Bau- und Betriebsordnung bestehen, gilt der Nachweis nach Satz 5 Buchstabe b durch einen Verweis auf die bestehende, in den Schienennetz-Nutzungsbestimmungen des Eisenbahninfrastrukturunternehmers veröffentlichte Regelung als erbracht. Die Ausnahme nach Satz 5 Buchstabe c erfolgt in diesen Fällen durch Abschluss einer Vereinbarung über die Bestimmungen über die Betriebssicherheit nach § 21 Absatz 1 des Eisenbahnregulierungsgesetzes. Abweichend von den Sätzen 1 bis 3 können Unternehmer in Zusammenarbeit mit einem oder mehreren Eisenbahninfrastrukturunternehmern Pilotprojekte nach Maßgabe des Anhangs VI Nummer 8 Absatz 4 bis 10 der Richtlinie 2007/59/EG durchführen, um andere Möglichkeiten zur Gewährleistung einer wirksamen Kommunikation zu erproben.
 
-# Anlage 8 – (zu § 6 Absatz 3)Ausbildungsmethode
+# Anlage 8 – (zu § 6 Absatz 3 und § 7 Absatz 1 Satz 2)Ausbildungsmethode
 
-(Fundstelle: BGBl. I 2011, 728)
+(Fundstelle: BGBl. I 2011, 728; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Die Ausbildung ist in einen theoretischen Teil mit Unterricht und Vorführungen und einen praktischen Teil mit Ausbildung am Arbeitsplatz, Fahrten unter Aufsicht und ohne Aufsicht auf Gleisen, die zu Ausbildungszwecken gesperrt sind, aufgeteilt.
 
 Die computergestützte Ausbildung ist für das eigenständige Lernen, wie der Betriebsvorschriften und der Signalsysteme, zulässig.
 
-Der Einsatz von Simulatoren ist nicht zwingend vorgeschrieben, sie sollen aber bei der Aus- und Fortbildung von Triebfahrzeugführern eingesetzt werden, insbesondere um das Verhalten in außergewöhnlichen Arbeitssituationen und selten anzuwendende Regeln zu üben, die nicht in der Wirklichkeit trainiert werden können.
+Der Einsatz von geeigneten Simulatoren ist vorgeschrieben, um in der praktischen Ausbildung für den erstmaligen Erwerb der Zusatzbescheinigung Klasse B insbesondere das Verhalten in außergewöhnlichen Arbeitssituationen und selten anzuwendende Regeln zu üben, die nicht in der Wirklichkeit trainiert werden können. Im Übrigen sollen Simulatoren zum Einsatz kommen. Die Ausstattung des einzusetzenden Simulators hat den zukünftigen Einsatzbereich des Auszubildenden abzubilden. Hierfür sind gemäß dem zukünftigen Einsatzbereich die entsprechenden Funktionen und Anforderungen zu erfüllen:
+
+a) Wiedergabe unterschiedlicher Signalsysteme, insbesondere des Haupt-/Vorsignal- und Kombinations-Signalsystems und des Europäischen Zugbeeinflussungssystems ETCS,
+
+b) Abbildung unterschiedlicher Brems- und Beschleunigungscharakteristiken, insbesondere unter der Berücksichtigung der Extremwerte bei leichten Personenzügen und Güterzügen bei günstigen und ungünstigen Bedingungen, wie beispielsweise Laub, Eis, nasse Schienen,
+
+c) Simulation außergewöhnlicher Situationen, wie beispielsweise Betriebsgefahren, Störungen, Defekte,
+
+d) Abbildung gängiger Wetter- und Sichtbedingungen,
+
+e) Vorhandensein eines realitätsnahen Führerpults mit entsprechenden Bedieneinrichtungen und Zugfunkeinrichtungen.
 
 2. Streckenkenntnis kann erworben werden durch:
 
@@ -1079,7 +1291,7 @@ b) durch Einsichtnahme in die betrieblichen Unterlagen.
 
 # Anlage 9 – (zu § 10 Absatz 2 und 3)Register der Triebfahrzeugführerscheine
 
-(Fundstelle: BGBl. I 2011, 729 - 732)
+(Fundstelle: BGBl. I 2011, 729 - 732; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Register der Triebfahrzeugführerscheine  
   
@@ -1439,7 +1651,7 @@ Verbindlich
 
 20
 
-Aussetzung(en) nach § 19 Absatz 3 in Verbindung mit § 5 Absatz 1 TfV
+Aussetzung(en) nach § 19a Absatz 1 in Verbindung mit § 5 Absatz 1 TfV
 
 20.1
 
@@ -1475,7 +1687,7 @@ Verbindlich
 
 21
 
-Entziehung nach § 19 Absatz 3 in Verbindung mit § 5 Absatz 1 TfV
+Entziehung nach § 19a Absatz 1 in Verbindung mit § 5 Absatz 1 TfV
 
 21.1
 
@@ -1758,7 +1970,7 @@ Verbindlich
 Auskunftsrechte  
   
 
-Auskunft aus dem Register der Triebfahrzeugführerscheine ist den folgenden Berechtigten über den aktuellen Status von Triebfahrzeugführerscheinen zur Echtheits- und Gültigkeitsfeststellung zu erteilen:
+Auskunft aus dem Register der Triebfahrzeugführerscheine ist den folgenden Berechtigten über den aktuellen Status von Triebfahrzeugführerscheinen zur Echtheits- und Gültigkeitsfeststellung sowie zur Feststellung des Vorliegens der nach § 5 Absatz 1 erforderlichen Voraussetzungen zu erteilen:
 
 a) Unternehmern, die Triebfahrzeugführer beschäftigen oder unter Vertrag genommen haben;
 
@@ -1766,15 +1978,15 @@ b) jedem Arbeitgeber von Triebfahrzeugführern, die einen Triebfahrzeugführer z
 
 c) den zuständigen Behörden der anderen Mitgliedstaaten zur Kontrolle der im Gebiet ihrer Rechtshoheit verkehrenden Züge oder in Bezug auf die Einhaltung der Richtlinie 2007/59/EG durch alle im Gebiet ihrer Rechtshoheit tätigen Triebfahrzeugführer;
 
-d) der Europäischen Eisenbahnagentur, um die Umsetzung der Richtlinie 2007/59/EG zu untersuchen;
+d) der Eisenbahnagentur der Europäischen Union, um die Umsetzung der Richtlinie 2007/59/EG zu untersuchen;
 
-e) der Untersuchungsbehörde nach § 5 Absatz 1f des Allgemeinen Eisenbahngesetzes oder einer Untersuchungsstelle eines anderen Mitgliedstaates im Sinne der Richtlinie 2004/49/EG zur Untersuchung von Unfällen und
+e) der Bundesstelle für Eisenbahnunfalluntersuchung oder jeder Untersuchungsstelle eines anderen Mitgliedstaates der Europäischen Union im Sinne der Richtlinie (EU) 2016/798 zur Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb und
 
 f) den Eisenbahnaufsichtsbehörden der Länder.
 
 # Anlage 10 – (zu § 10 Absatz 4 und 6)Register der Zusatzbescheinigungen für Triebfahrzeugführer
 
-(Fundstelle: BGBl. I 2011, 733 - 736)
+(Fundstelle: BGBl. I 2011, 733 - 736; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Register der Zusatzbescheinigungen  
   
@@ -1878,11 +2090,11 @@ Verbindlich
 
 9
 
-Bezeichnung des ausstellenden Unternehmens
+Bezeichnung des ausstellenden Unternehmers
 
 9.1
 
-Bezeichnung des ausstellenden Unternehmens
+Bezeichnung des ausstellenden Unternehmers
 
 Text
 
@@ -2276,7 +2488,7 @@ Anforderung
 
 Arbeitssprache(n), für  
 die erklärt wurde, dass  
-die Anforderungen der Anlage 7 Nummer 6 TfV erfüllt waren
+die Anforderungen der Anlage 7 Abschnitt 6 TfV erfüllt waren
 
 Text
 
@@ -2354,21 +2566,21 @@ Verbindlich
 Auskunftsrechte  
   
 
-Auskunft aus dem Register der Zusatzbescheinigungen ist den folgenden Berechtigten zur Echtheits- und Gültigkeitsfeststellung von Zusatzbescheinigungen zu erteilen:
+Auskunft aus dem Register der Zusatzbescheinigungen ist den folgenden Berechtigten zur Echtheits- und Gültigkeitsfeststellung von Zusatzbescheinigungen sowie zur Feststellung des Vorliegens der nach § 5 Absatz 2 erforderlichen Voraussetzungen zu erteilen:
 
 a) der zuständigen Behörde;
 
 b) den zuständigen Behörden der anderen Mitgliedstaaten, in denen der Unternehmer seiner Geschäftstätigkeit nachgeht und in denen der Triebfahrzeugführer auf mindestens einer Strecke des Netzes Züge führen darf, betreffend der grenzüberschreitenden Tätigkeiten;
 
-c) der Untersuchungsbehörde nach § 5 Absatz 1f des Allgemeinen Eisenbahngesetzes oder einer Untersuchungsstelle eines anderen Mitgliedstaates im Sinne der Richtlinie 2004/49/EG zur Untersuchung von Unfällen und
+c) der Bundesstelle für Eisenbahnunfalluntersuchung oder jeder Untersuchungsstelle eines anderen Mitgliedstaates der Europäischen Union im Sinne der Richtlinie (EU) 2016/798 zur Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb und
 
 d) den Eisenbahnaufsichtsbehörden der Länder.
 
-# Anlage 11 – (zu § 11)Häufigkeit der regelmäßigen Überprüfungen
+# Anlage 11 – (zu § 11 Absatz 1 Satz 2 und Absatz 4 Satz 2)Häufigkeit der regelmäßigen Untersuchungen und Überprüfungen
 
-(Fundstelle: BGBl. I 2011, 737)
+(Fundstelle: BGBl. I 2011, 737; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-1. Häufigkeit der regelmäßigen Untersuchungen  
+1. Häufigkeit der regelmäßigen ärztlichen Untersuchungen  
   
 
 Die ärztliche Untersuchung wird bis zum Alter von 55 Jahren alle drei Jahre durchgeführt, danach jährlich.
@@ -2379,33 +2591,40 @@ Der Arbeitgeber muss den nach § 16 anerkannten Arzt auffordern, die körperlich
 
   
 
-2. Häufigkeit der Überprüfungen  
+2. Häufigkeit der regelmäßigen Überprüfungen der allgemeinen Fachkenntnisse  
+  
+
+Bei regelmäßigen Überprüfungen der allgemeinen Fachkenntnisse ist folgende Mindesthäufigkeit einzuhalten: alle drei Jahre.
+
+  
+
+3. Häufigkeit der regelmäßigen Überprüfungen zur Aufrechterhaltung der Gültigkeit der Zusatzbescheinigung  
   
 Bei regelmäßigen Überprüfungen ist folgende Mindesthäufigkeit einzuhalten:
 
 a) Sprachkenntnisse: alle drei Jahre oder nach jeder Abwesenheit von mehr als einem Jahr;
 
-b) Infrastrukturkenntnisse einschließlich der Kenntnisse von Betriebsverfahren, Zugbeeinflussungssystemen und Signalsystemen: alle drei Jahre und immer dann, wenn eine bestimmte Strecke länger als ein Jahr nicht befahren worden ist;
+b) infrastrukturbezogene Fachkenntnisse einschließlich der Kenntnisse von Betriebsverfahren, Zugbeeinflussungssystemen und Signalsystemen: alle drei Jahre und immer dann, wenn eine bestimmte Strecke länger als ein Jahr nicht befahren worden ist;
 
-c) Fahrzeugkenntnisse: alle drei Jahre.
+c) fahrzeugbezogene Fachkenntnisse: alle drei Jahre.
 
-# Anlage 12 – (zu § 13 Absatz 2)Gemeinschaftsmodell für den Nachweis einer Zusatzbescheinigung
+# Anlage 12 – (zu § 13 Absatz 2)Europäisches Modell für den Nachweis einer Zusatzbescheinigung
 
-(Fundstelle: BGBl. I 2011, 737 - 739)
+(Fundstelle: BGBl. I 2011, 737 - 739; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Nachweis einer Zusatzbescheinigung
 
 In der Verfahrensbeschreibung nach § 9 Absatz 1 wird festgelegt, in welcher Sprache der Nachweis einer Zusatzbescheinigung ausgestellt wird; eine mehrsprachige Ausstellung ist möglich.
 
-2. Äußere Merkmale des Gemeinschaftsmodells des Nachweises einer Zusatzbescheinigung
+2. Äußere Merkmale des Europäischen Modells des Nachweises einer Zusatzbescheinigung
 
-Das Gemeinschaftsmodell des Nachweises einer Zusatzbescheinigung ist auf DIN A4-Papier zu erstellen und umfasst grundsätzlich ein Blatt; bei umfangreichen Angaben kann es auch mehr als ein Blatt umfassen.
+Das Europäische Modell des Nachweises einer Zusatzbescheinigung ist auf DIN A4-Papier zu erstellen und umfasst grundsätzlich ein Blatt; bei umfangreichen Angaben kann es auch mehr als ein Blatt umfassen.
 
 3. Fälschungsschutz
 
 Anlage 2 Unterabschnitt C gilt entsprechend.
 
-4. Gemeinschaftsmodell für den Nachweis einer Zusatzbescheinigung
+4. Europäisches Modell für den Nachweis einer Zusatzbescheinigung
 
 <a href="../normengrafiken/bgbl1_2011/j0705-1_0090.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 

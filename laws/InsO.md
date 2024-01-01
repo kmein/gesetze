@@ -179,11 +179,11 @@ www.insolvenzbekanntmachungen.de
 
 (2) Ein Insolvenzverfahren kann ferner eröffnet werden:
 
-1. über das Vermögen einer Gesellschaft ohne Rechtspersönlichkeit (offene Handelsgesellschaft, Kommanditgesellschaft, Partnerschaftsgesellschaft, Gesellschaft des Bürgerlichen Rechts, Partenreederei, Europäische wirtschaftliche Interessenvereinigung);
+1. über das Vermögen einer rechtsfähigen Personengesellschaft (offene Handelsgesellschaft, Kommanditgesellschaft, Partnerschaftsgesellschaft, Gesellschaft des Bürgerlichen Rechts, Partenreederei, Europäische wirtschaftliche Interessenvereinigung);
 
 2. nach Maßgabe der §§ 315 bis 334 über einen Nachlaß, über das Gesamtgut einer fortgesetzten Gütergemeinschaft oder über das Gesamtgut einer Gütergemeinschaft, das von den Ehegatten oder Lebenspartnern gemeinschaftlich verwaltet wird.
 
-(3) Nach Auflösung einer juristischen Person oder einer Gesellschaft ohne Rechtspersönlichkeit ist die Eröffnung des Insolvenzverfahrens zulässig, solange die Verteilung des Vermögens nicht vollzogen ist.
+(3) Nach Auflösung einer juristischen Person oder einer rechtsfähigen Personengesellschaft ist die Eröffnung des Insolvenzverfahrens zulässig, solange die Verteilung des Vermögens nicht vollzogen ist.
 
 # § 12 – Juristische Personen des öffentlichen Rechts
 
@@ -249,17 +249,17 @@ Dem Verzeichnis nach Satz 3 und den Angaben nach den Sätzen 4 und 5 ist die Erk
 
 (3) Wird die Forderung des Gläubigers nach Antragstellung erfüllt, so hat der Schuldner die Kosten des Verfahrens zu tragen, wenn der Antrag als unbegründet abgewiesen wird. Der Schuldner hat die Kosten auch dann zu tragen, wenn der Antrag eines Gläubigers wegen einer zum Zeitpunkt der Antragstellung wirksamen nichtöffentlichen Stabilisierungsanordnung nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz abgewiesen wird und der Gläubiger von der Stabilisierungsanordnung keine Kenntnis haben konnte.
 
-# § 15 – Antragsrecht bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit
+# § 15 – Antragsrecht bei juristischen Personen und rechtsfähigen Personengesellschaften
 
-(1) Zum Antrag auf Eröffnung eines Insolvenzverfahrens über das Vermögen einer juristischen Person oder einer Gesellschaft ohne Rechtspersönlichkeit ist außer den Gläubigern jedes Mitglied des Vertretungsorgans, bei einer Gesellschaft ohne Rechtspersönlichkeit oder bei einer Kommanditgesellschaft auf Aktien jeder persönlich haftende Gesellschafter, sowie jeder Abwickler berechtigt. Bei einer juristischen Person ist im Fall der Führungslosigkeit auch jeder Gesellschafter, bei einer Aktiengesellschaft oder einer Genossenschaft zudem auch jedes Mitglied des Aufsichtsrats zur Antragstellung berechtigt.
+(1) Zum Antrag auf Eröffnung eines Insolvenzverfahrens über das Vermögen einer juristischen Person oder einer rechtsfähigen Personengesellschaft ist außer den Gläubigern jedes Mitglied des Vertretungsorgans, bei einer rechtsfähigen Personengesellschaft oder bei einer Kommanditgesellschaft auf Aktien jeder persönlich haftende Gesellschafter, sowie jeder Abwickler berechtigt. Bei einer juristischen Person ist im Fall der Führungslosigkeit auch jeder Gesellschafter, bei einer Aktiengesellschaft oder einer Genossenschaft zudem auch jedes Mitglied des Aufsichtsrats zur Antragstellung berechtigt.
 
 (2) Wird der Antrag nicht von allen Mitgliedern des Vertretungsorgans, allen persönlich haftenden Gesellschaftern, allen Gesellschaftern der juristischen Person, allen Mitgliedern des Aufsichtsrats oder allen Abwicklern gestellt, so ist er zulässig, wenn der Eröffnungsgrund glaubhaft gemacht wird. Zusätzlich ist bei Antragstellung durch Gesellschafter einer juristischen Person oder Mitglieder des Aufsichtsrats auch die Führungslosigkeit glaubhaft zu machen. Das Insolvenzgericht hat die übrigen Mitglieder des Vertretungsorgans, persönlich haftenden Gesellschafter, Gesellschafter der juristischen Person, Mitglieder des Aufsichtsrats oder Abwickler zu hören.
 
-(3) Ist bei einer Gesellschaft ohne Rechtspersönlichkeit kein persönlich haftender Gesellschafter eine natürliche Person, so gelten die Absätze 1 und 2 entsprechend für die organschaftlichen Vertreter und die Abwickler der zur Vertretung der Gesellschaft ermächtigten Gesellschafter. Entsprechendes gilt, wenn sich die Verbindung von Gesellschaften in dieser Art fortsetzt.
+(3) Ist bei einer rechtsfähigen Personengesellschaft kein persönlich haftender Gesellschafter eine natürliche Person, so gelten die Absätze 1 und 2 entsprechend für die organschaftlichen Vertreter und die Abwickler der zur Vertretung der Gesellschaft ermächtigten Gesellschafter. Entsprechendes gilt, wenn sich die Verbindung von Gesellschaften in dieser Art fortsetzt.
 
-# § 15a – Antragspflicht bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit
+# § 15a – Antragspflicht bei juristischen Personen und rechtsfähigen Personengesellschaften
 
-(1) Wird eine juristische Person zahlungsunfähig oder überschuldet, haben die Mitglieder des Vertretungsorgans oder die Abwickler ohne schuldhaftes Zögern einen Eröffnungsantrag zu stellen. Der Antrag ist spätestens drei Wochen nach Eintritt der Zahlungsunfähigkeit und sechs Wochen nach Eintritt der Überschuldung zu stellen. Das Gleiche gilt für die organschaftlichen Vertreter der zur Vertretung der Gesellschaft ermächtigten Gesellschafter oder die Abwickler bei einer Gesellschaft ohne Rechtspersönlichkeit, bei der kein persönlich haftender Gesellschafter eine natürliche Person ist; dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere Gesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.
+(1) Wird eine juristische Person zahlungsunfähig oder überschuldet, haben die Mitglieder des Vertretungsorgans oder die Abwickler ohne schuldhaftes Zögern einen Eröffnungsantrag zu stellen. Der Antrag ist spätestens drei Wochen nach Eintritt der Zahlungsunfähigkeit und sechs Wochen nach Eintritt der Überschuldung zu stellen. Das Gleiche gilt für die organschaftlichen Vertreter der zur Vertretung der Gesellschaft ermächtigten Gesellschafter oder die Abwickler bei einer rechtsfähigen Personengesellschaft, bei der kein persönlich haftender Gesellschafter eine natürliche Person ist; dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere Gesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.
 
 (2) Bei einer Gesellschaft im Sinne des Absatzes 1 Satz 3 gilt Absatz 1 sinngemäß, wenn die organschaftlichen Vertreter der zur Vertretung der Gesellschaft ermächtigten Gesellschafter ihrerseits Gesellschaften sind, bei denen kein persönlich haftender Gesellschafter eine natürliche Person ist, oder sich die Verbindung von Gesellschaften in dieser Art fortsetzt.
 
@@ -311,7 +311,7 @@ Die Eröffnung des Insolvenzverfahrens setzt voraus, daß ein Eröffnungsgrund g
 
 (2) Der Schuldner droht zahlungsunfähig zu werden, wenn er voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt der Fälligkeit zu erfüllen. In aller Regel ist ein Prognosezeitraum von 24 Monaten zugrunde zu legen.
 
-(3) Wird bei einer juristischen Person oder einer Gesellschaft ohne Rechtspersönlichkeit der Antrag nicht von allen Mitgliedern des Vertretungsorgans, allen persönlich haftenden Gesellschaftern oder allen Abwicklern gestellt, so ist Absatz 1 nur anzuwenden, wenn der oder die Antragsteller zur Vertretung der juristischen Person oder der Gesellschaft berechtigt sind.
+(3) Wird bei einer juristischen Person oder einer rechtsfähigen Personengesellschaft der Antrag nicht von allen Mitgliedern des Vertretungsorgans, allen persönlich haftenden Gesellschaftern oder allen Abwicklern gestellt, so ist Absatz 1 nur anzuwenden, wenn der oder die Antragsteller zur Vertretung der juristischen Person oder der Gesellschaft berechtigt sind.
 
 # § 19 – Überschuldung
 
@@ -319,7 +319,7 @@ Die Eröffnung des Insolvenzverfahrens setzt voraus, daß ein Eröffnungsgrund g
 
 (2) Überschuldung liegt vor, wenn das Vermögen des Schuldners die bestehenden Verbindlichkeiten nicht mehr deckt, es sei denn, die Fortführung des Unternehmens in den nächsten zwölf Monaten ist nach den Umständen überwiegend wahrscheinlich. Forderungen auf Rückgewähr von Gesellschafterdarlehen oder aus Rechtshandlungen, die einem solchen Darlehen wirtschaftlich entsprechen, für die gemäß § 39 Abs. 2 zwischen Gläubiger und Schuldner der Nachrang im Insolvenzverfahren hinter den in § 39 Abs. 1 Nr. 1 bis 5 bezeichneten Forderungen vereinbart worden ist, sind nicht bei den Verbindlichkeiten nach Satz 1 zu berücksichtigen.
 
-(3) Ist bei einer Gesellschaft ohne Rechtspersönlichkeit kein persönlich haftender Gesellschafter eine natürliche Person, so gelten die Absätze 1 und 2 entsprechend. Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere Gesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.
+(3) Ist bei einer rechtsfähigen Personengesellschaft kein persönlich haftender Gesellschafter eine natürliche Person, so gelten die Absätze 1 und 2 entsprechend. Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere Gesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.
 
 § 19 Abs. 2: Gilt infolge Aufhebung des Art. 6 Abs. 3 G v. 17.10.2008 I 1982 (FMStG) durch Art. 18 G v. 5.12.2012 I 2418 mWv 12.12.2012 über den 1.1.2014 hinaus wieder in der am 1.11.2008 geltenden Fassung
 
@@ -385,7 +385,7 @@ Die Anordnung von Sicherungsmaßnahmen berührt nicht die Wirksamkeit von Verfü
 
 (1) Der Beschluß, durch den eine der in § 21 Abs. 2 Nr. 2 vorgesehenen Verfügungsbeschränkungen angeordnet und ein vorläufiger Insolvenzverwalter bestellt wird, ist öffentlich bekanntzumachen. Er ist dem Schuldner, den Personen, die Verpflichtungen gegenüber dem Schuldner haben, und dem vorläufigen Insolvenzverwalter besonders zuzustellen. Die Schuldner des Schuldners sind zugleich aufzufordern, nur noch unter Beachtung des Beschlusses zu leisten.
 
-(2) Ist der Schuldner im Handels-, Genossenschafts-, Partnerschafts- oder Vereinsregister eingetragen, so hat die Geschäftsstelle des Insolvenzgerichts dem Registergericht eine Ausfertigung des Beschlusses zu übermitteln.
+(2) Ist der Schuldner im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragen, so hat die Geschäftsstelle des Insolvenzgerichts dem Registergericht eine Ausfertigung des Beschlusses zu übermitteln.
 
 (3) Für die Eintragung der Verfügungsbeschränkung im Grundbuch, im Schiffsregister, im Schiffsbauregister und im Register über Pfandrechte an Luftfahrzeugen gelten die §§ 32, 33 entsprechend.
 
@@ -425,7 +425,7 @@ Die Anordnung von Sicherungsmaßnahmen berührt nicht die Wirksamkeit von Verfü
 
 (2) Der Eröffnungsbeschluß enthält:
 
-1. Firma oder Namen und Vornamen, Geburtsdatum, Registergericht und Registernummer, unter der der Schuldner in das Handelsregister eingetragen ist, Geschäftszweig oder Beschäftigung, gewerbliche Niederlassung oder Wohnung des Schuldners;
+1. Firma oder Namen und Vornamen, Geburtsdatum, Registergericht und Registernummer, unter der der Schuldner eingetragen ist, Geschäftszweig oder Beschäftigung, gewerbliche Niederlassung oder Wohnung des Schuldners;
 
 2. Namen und Anschrift des Insolvenzverwalters;
 
@@ -463,13 +463,13 @@ Die Anordnung von Sicherungsmaßnahmen berührt nicht die Wirksamkeit von Verfü
 
 (3) (aufgehoben)
 
-# § 31 – Handels-, Genossenschafts-, Partnerschafts- und Vereinsregister
+# § 31 – Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister
 
-Ist der Schuldner im Handels-, Genossenschafts-, Partnerschafts- oder Vereinsregister eingetragen, so hat die Geschäftsstelle des Insolvenzgerichts dem Registergericht zu übermitteln:
+Ist der Schuldner im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragen, so hat die Geschäftsstelle des Insolvenzgerichts dem Registergericht zu übermitteln:
 
 1. im Falle der Eröffnung des Insolvenzverfahrens eine Ausfertigung des Eröffnungsbeschlusses;
 
-2. im Falle der Abweisung des Eröffnungsantrags mangels Masse eine Ausfertigung des abweisenden Beschlusses, wenn der Schuldner eine juristische Person oder eine Gesellschaft ohne Rechtspersönlichkeit ist, die durch die Abweisung mangels Masse aufgelöst wird.
+2. im Falle der Abweisung des Eröffnungsantrags mangels Masse eine Ausfertigung des abweisenden Beschlusses, wenn der Schuldner eine juristische Person oder eine rechtsfähige Personengesellschaft ist, die durch die Abweisung mangels Masse aufgelöst wird.
 
 # § 32 – Grundbuch
 
@@ -859,7 +859,7 @@ Ist nach der Eröffnung des Insolvenzverfahrens zur Erfüllung einer Verbindlich
 
 # § 84 – Auseinandersetzung einer Gesellschaft oder Gemeinschaft
 
-(1) Besteht zwischen dem Schuldner und Dritten eine Gemeinschaft nach Bruchteilen, eine andere Gemeinschaft oder eine Gesellschaft ohne Rechtspersönlichkeit, so erfolgt die Teilung oder sonstige Auseinandersetzung außerhalb des Insolvenzverfahrens. Aus dem dabei ermittelten Anteil des Schuldners kann für Ansprüche aus dem Rechtsverhältnis abgesonderte Befriedigung verlangt werden.
+(1) Besteht zwischen dem Schuldner und Dritten eine Gemeinschaft nach Bruchteilen, eine andere Gemeinschaft oder eine rechtsfähige Personengesellschaft, so erfolgt die Teilung oder sonstige Auseinandersetzung außerhalb des Insolvenzverfahrens. Aus dem dabei ermittelten Anteil des Schuldners kann für Ansprüche aus dem Rechtsverhältnis abgesonderte Befriedigung verlangt werden.
 
 (2) Eine Vereinbarung, durch die bei einer Gemeinschaft nach Bruchteilen das Recht, die Aufhebung der Gemeinschaft zu verlangen, für immer oder auf Zeit ausgeschlossen oder eine Kündigungsfrist bestimmt worden ist, hat im Verfahren keine Wirkung. Gleiches gilt für eine Anordnung dieses Inhalts, die ein Erblasser für die Gemeinschaft seiner Erben getroffen hat, und für eine entsprechende Vereinbarung der Miterben.
 
@@ -923,7 +923,7 @@ Ansprüche der Insolvenzgläubiger auf Ersatz eines Schadens, den diese Gläubig
 
 # § 93 – Persönliche Haftung der Gesellschafter
 
-Ist das Insolvenzverfahren über das Vermögen einer Gesellschaft ohne Rechtspersönlichkeit oder einer Kommanditgesellschaft auf Aktien eröffnet, so kann die persönliche Haftung eines Gesellschafters für die Verbindlichkeiten der Gesellschaft während der Dauer des Insolvenzverfahrens nur vom Insolvenzverwalter geltend gemacht werden.
+Ist das Insolvenzverfahren über das Vermögen einer rechtsfähigen Personengesellschaft oder einer Kommanditgesellschaft auf Aktien eröffnet, so kann die persönliche Haftung eines Gesellschafters für die Verbindlichkeiten der Gesellschaft während der Dauer des Insolvenzverfahrens nur vom Insolvenzverwalter geltend gemacht werden.
 
 # § 94 – Erhaltung einer Aufrechnungslage
 
@@ -1147,7 +1147,7 @@ Hat sich jemand durch einen Dienst- oder Werkvertrag mit dem Schuldner verpflich
 
 # § 118 – Auflösung von Gesellschaften
 
-Wird eine Gesellschaft ohne Rechtspersönlichkeit oder eine Kommanditgesellschaft auf Aktien durch die Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters aufgelöst, so ist der geschäftsführende Gesellschafter mit den Ansprüchen, die ihm aus der einstweiligen Fortführung eilbedürftiger Geschäfte zustehen, Massegläubiger. Mit den Ansprüchen aus der Fortführung der Geschäfte während der Zeit, in der er die Eröffnung des Insolvenzverfahrens ohne sein Verschulden nicht kannte, ist er Insolvenzgläubiger; § 84 Abs. 1 bleibt unberührt.
+Wird eine rechtsfähige Personengesellschaft oder eine Kommanditgesellschaft auf Aktien durch die Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters aufgelöst, so ist der geschäftsführende Gesellschafter mit den Ansprüchen, die ihm aus der einstweiligen Fortführung eilbedürftiger Geschäfte zustehen, Massegläubiger. Mit den Ansprüchen aus der Fortführung der Geschäfte während der Zeit, in der er die Eröffnung des Insolvenzverfahrens ohne sein Verschulden nicht kannte, ist er Insolvenzgläubiger; § 84 Abs. 1 bleibt unberührt.
 
 # § 119 – Unwirksamkeit abweichender Vereinbarungen
 
@@ -1331,9 +1331,9 @@ Dies gilt nicht, soweit die Rechtshandlung auf einer Sicherungsvereinbarung beru
 
 3. Personen, die in häuslicher Gemeinschaft mit dem Schuldner leben oder im letzten Jahr vor der Handlung in häuslicher Gemeinschaft mit dem Schuldner gelebt haben sowie Personen, die sich auf Grund einer dienstvertraglichen Verbindung zum Schuldner über dessen wirtschaftliche Verhältnisse unterrichten können;
 
-4. eine juristische Person oder eine Gesellschaft ohne Rechtspersönlichkeit, wenn der Schuldner oder eine der in den Nummern 1 bis 3 genannten Personen Mitglied des Vertretungs- oder Aufsichtsorgans, persönlich haftender Gesellschafter oder zu mehr als einem Viertel an deren Kapital beteiligt ist oder auf Grund einer vergleichbaren gesellschaftsrechtlichen oder dienstvertraglichen Verbindung die Möglichkeit hat, sich über die wirtschaftlichen Verhältnisse des Schuldners zu unterrichten.
+4. eine juristische Person oder eine rechtsfähige Personengesellschaft, wenn der Schuldner oder eine der in den Nummern 1 bis 3 genannten Personen Mitglied des Vertretungs- oder Aufsichtsorgans, persönlich haftender Gesellschafter oder zu mehr als einem Viertel an deren Kapital beteiligt ist oder auf Grund einer vergleichbaren gesellschaftsrechtlichen oder dienstvertraglichen Verbindung die Möglichkeit hat, sich über die wirtschaftlichen Verhältnisse des Schuldners zu unterrichten.
 
-(2) Ist der Schuldner eine juristische Person oder eine Gesellschaft ohne Rechtspersönlichkeit, so sind nahestehende Personen:
+(2) Ist der Schuldner eine juristische Person oder eine rechtsfähige Personengesellschaft, so sind nahestehende Personen:
 
 1. die Mitglieder des Vertretungs- oder Aufsichtsorgans und persönlich haftende Gesellschafter des Schuldners sowie Personen, die zu mehr als einem Viertel am Kapital des Schuldners beteiligt sind;
 
@@ -1965,7 +1965,7 @@ Für die nicht nachrangigen Gläubiger ist im gestaltenden Teil des Insolvenzpla
 
 (4) Maßnahmen nach Absatz 2 oder 3 berechtigen nicht zum Rücktritt oder zur Kündigung von Verträgen, an denen der Schuldner beteiligt ist. Sie führen auch nicht zu einer anderweitigen Beendigung der Verträge. Entgegenstehende vertragliche Vereinbarungen sind unwirksam. Von den Sätzen 1 und 2 bleiben Vereinbarungen unberührt, welche an eine Pflichtverletzung des Schuldners anknüpfen, sofern sich diese nicht darin erschöpft, dass eine Maßnahme nach Absatz 2 oder 3 in Aussicht genommen oder durchgeführt wird.
 
-(5) Stellt eine Maßnahme nach Absatz 2 oder 3 für eine am Schuldner beteiligte Person einen wichtigen Grund zum Austritt aus der juristischen Person oder Gesellschaft ohne Rechtspersönlichkeit dar und wird von diesem Austrittsrecht Gebrauch gemacht, so ist für die Bestimmung der Höhe eines etwaigen Abfindungsanspruches die Vermögenslage maßgeblich, die sich bei einer Abwicklung des Schuldners eingestellt hätte. Die Auszahlung des Abfindungsanspruches kann zur Vermeidung einer unangemessenen Belastung der Finanzlage des Schuldners über einen Zeitraum von bis zu drei Jahren gestundet werden. Nicht ausgezahlte Abfindungsguthaben sind zu verzinsen.
+(5) Stellt eine Maßnahme nach Absatz 2 oder 3 für eine am Schuldner beteiligte Person einen wichtigen Grund zum Austritt aus der juristischen Person oder rechtsfähigen Personengesellschaft dar und wird von diesem Austrittsrecht Gebrauch gemacht, so ist für die Bestimmung der Höhe eines etwaigen Abfindungsanspruches die Vermögenslage maßgeblich, die sich bei einer Abwicklung des Schuldners eingestellt hätte. Die Auszahlung des Abfindungsanspruches kann zur Vermeidung einer unangemessenen Belastung der Finanzlage des Schuldners über einen Zeitraum von bis zu drei Jahren gestundet werden. Nicht ausgezahlte Abfindungsguthaben sind zu verzinsen.
 
 # § 226 – Gleichbehandlung der Beteiligten
 
@@ -1979,7 +1979,7 @@ Für die nicht nachrangigen Gläubiger ist im gestaltenden Teil des Insolvenzpla
 
 (1) Ist im Insolvenzplan nichts anderes bestimmt, so wird der Schuldner mit der im gestaltenden Teil vorgesehenen Befriedigung der Insolvenzgläubiger von seinen restlichen Verbindlichkeiten gegenüber diesen Gläubigern befreit.
 
-(2) Ist der Schuldner eine Gesellschaft ohne Rechtspersönlichkeit oder eine Kommanditgesellschaft auf Aktien, so gilt Absatz 1 entsprechend für die persönliche Haftung der Gesellschafter.
+(2) Ist der Schuldner eine rechtsfähige Personengesellschaft oder eine Kommanditgesellschaft auf Aktien, so gilt Absatz 1 entsprechend für die persönliche Haftung der Gesellschafter.
 
 # § 228 – Änderung sachenrechtlicher Verhältnisse
 
@@ -1991,9 +1991,9 @@ Sollen die Gläubiger aus den Erträgen des vom Schuldner oder von einem Dritten
 
 # § 230 – Weitere Anlagen
 
-(1) Ist im Insolvenzplan vorgesehen, daß der Schuldner sein Unternehmen fortführt, und ist der Schuldner eine natürliche Person, so ist dem Plan die Erklärung des Schuldners beizufügen, daß er zur Fortführung des Unternehmens auf der Grundlage des Plans bereit ist. Ist der Schuldner eine Gesellschaft ohne Rechtspersönlichkeit oder eine Kommanditgesellschaft auf Aktien, so ist dem Plan eine entsprechende Erklärung der Personen beizufügen, die nach dem Plan persönlich haftende Gesellschafter des Unternehmens sein sollen. Die Erklärung des Schuldners nach Satz 1 ist nicht erforderlich, wenn dieser selbst den Plan vorlegt.
+(1) Ist im Insolvenzplan vorgesehen, daß der Schuldner sein Unternehmen fortführt, und ist der Schuldner eine natürliche Person, so ist dem Plan die Erklärung des Schuldners beizufügen, daß er zur Fortführung des Unternehmens auf der Grundlage des Plans bereit ist. Ist der Schuldner eine rechtsfähige Personengesellschaft oder eine Kommanditgesellschaft auf Aktien, so ist dem Plan eine entsprechende Erklärung der Personen beizufügen, die nach dem Plan persönlich haftende Gesellschafter des Unternehmens sein sollen. Die Erklärung des Schuldners nach Satz 1 ist nicht erforderlich, wenn dieser selbst den Plan vorlegt.
 
-(2) Sollen Gläubiger Anteils- oder Mitgliedschaftsrechte oder Beteiligungen an einer juristischen Person, einem nicht rechtsfähigen Verein oder einer Gesellschaft ohne Rechtspersönlichkeit übernehmen, so ist dem Plan die zustimmende Erklärung eines jeden dieser Gläubiger beizufügen.
+(2) Sollen Gläubiger Anteils- oder Mitgliedschaftsrechte oder Beteiligungen an einer juristischen Person, einem nicht rechtsfähigen Verein oder einer rechtsfähigen Personengesellschaft übernehmen, so ist dem Plan die zustimmende Erklärung eines jeden dieser Gläubiger beizufügen.
 
 (3) Hat ein Dritter für den Fall der Bestätigung des Plans Verpflichtungen gegenüber den Gläubigern übernommen, so ist dem Plan die Erklärung des Dritten beizufügen.
 
@@ -2311,7 +2311,7 @@ Die §§ 254 und 254a gelten auch für Insolvenzgläubiger, die ihre Forderungen
 
 (2) Im Falle des Absatzes 1 wird nach der Aufhebung des Insolvenzverfahrens überwacht, ob die Ansprüche erfüllt werden, die den Gläubigern nach dem gestaltenden Teil gegen den Schuldner zustehen.
 
-(3) Wenn dies im gestaltenden Teil vorgesehen ist, erstreckt sich die Überwachung auf die Erfüllung der Ansprüche, die den Gläubigern nach dem gestaltenden Teil gegen eine juristische Person oder Gesellschaft ohne Rechtspersönlichkeit zustehen, die nach der Eröffnung des Insolvenzverfahrens gegründet worden ist, um das Unternehmen oder einen Betrieb des Schuldners zu übernehmen und weiterzuführen (Übernahmegesellschaft).
+(3) Wenn dies im gestaltenden Teil vorgesehen ist, erstreckt sich die Überwachung auf die Erfüllung der Ansprüche, die den Gläubigern nach dem gestaltenden Teil gegen eine juristische Person oder rechtsfähige Personengesellschaft zustehen, die nach der Eröffnung des Insolvenzverfahrens gegründet worden ist, um das Unternehmen oder einen Betrieb des Schuldners zu übernehmen und weiterzuführen (Übernahmegesellschaft).
 
 # § 261 – Aufgaben und Befugnisse des Insolvenzverwalters
 
@@ -2617,9 +2617,9 @@ Der Schuldner hat die Zustimmung des Gläubigerausschusses einzuholen, wenn er R
 
 # § 276a – Mitwirkung der Überwachungsorgane
 
-(1) Ist der Schuldner eine juristische Person oder eine Gesellschaft ohne Rechtspersönlichkeit, so haben der Aufsichtsrat, die Gesellschafterversammlung oder entsprechende Organe keinen Einfluss auf die Geschäftsführung des Schuldners. Die Abberufung und Neubestellung von Mitgliedern der Geschäftsleitung ist nur wirksam, wenn der Sachwalter zustimmt. Die Zustimmung ist zu erteilen, wenn die Maßnahme nicht zu Nachteilen für die Gläubiger führt.
+(1) Ist der Schuldner eine juristische Person oder eine rechtsfähige Personengesellschaft, so haben der Aufsichtsrat, die Gesellschafterversammlung oder entsprechende Organe keinen Einfluss auf die Geschäftsführung des Schuldners. Die Abberufung und Neubestellung von Mitgliedern der Geschäftsleitung ist nur wirksam, wenn der Sachwalter zustimmt. Die Zustimmung ist zu erteilen, wenn die Maßnahme nicht zu Nachteilen für die Gläubiger führt.
 
-(2) Ist der Schuldner als juristische Person verfasst, so haften auch die Mitglieder des Vertretungsorgans nach Maßgabe der §§ 60 bis 62. Bei einer Gesellschaft ohne Rechtspersönlichkeit gilt dies für die zur Vertretung der Gesellschaft ermächtigten Gesellschafter. Ist kein zur Vertretung der Gesellschaft ermächtigter Gesellschafter eine natürliche Person, gilt dies für die organschaftlichen Vertreter der zur Vertretung ermächtigten Gesellschafter. Satz 3 gilt sinngemäß, wenn es sich bei den organschaftlichen Vertretern um Gesellschaften ohne Rechtspersönlichkeit handelt, bei denen keine natürliche Person zur organschaftlichen Vertretung ermächtigt ist, oder wenn sich die Verbindung von Gesellschaften in dieser Art fortsetzt.
+(2) Ist der Schuldner als juristische Person verfasst, so haften auch die Mitglieder des Vertretungsorgans nach Maßgabe der §§ 60 bis 62. Bei einer rechtsfähigen Personengesellschaft gilt dies für die zur Vertretung der Gesellschaft ermächtigten Gesellschafter. Ist kein zur Vertretung der Gesellschaft ermächtigter Gesellschafter eine natürliche Person, gilt dies für die organschaftlichen Vertreter der zur Vertretung ermächtigten Gesellschafter. Satz 3 gilt sinngemäß, wenn es sich bei den organschaftlichen Vertretern um rechtsfähige Personengesellschaften handelt, bei denen keine natürliche Person zur organschaftlichen Vertretung ermächtigt ist, oder wenn sich die Verbindung von Gesellschaften in dieser Art fortsetzt.
 
 (3) Die Absätze 1 und 2 finden im Zeitraum zwischen der Anordnung der vorläufigen Eigenverwaltung oder der Anordnung vorläufiger Maßnahmen nach § 270c Absatz 3 und der Verfahrenseröffnung entsprechende Anwendung.
 

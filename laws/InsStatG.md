@@ -21,7 +21,7 @@ c) Schuldner, die in den letzten drei Jahren vor dem Antrag auf Eröffnung des I
 
 a) Art des Verfahrens und des internationalen Bezugs,
 
-b) Art des Rechtsträgers oder der Vermögensmasse (Schuldner); bei Unternehmen zusätzlich Rechtsform, Geschäftszweig, Jahr der Gründung, Zahl der betroffenen Arbeitnehmer und die Eintragung in das Handels-, Genossenschafts-, Vereins- oder Partnerschaftsregister,
+b) Art des Rechtsträgers oder der Vermögensmasse (Schuldner); bei Unternehmen zusätzlich Rechtsform, Geschäftszweig, Jahr der Gründung, Zahl der betroffenen Arbeitnehmer und die Eintragung in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister,
 
 c) Datum der Verfahrenseröffnung,
 
@@ -91,7 +91,7 @@ b) Datum der Festsetzung.
 
 6. Name, Rufnummern und E-Mail-Adressen der für eventuelle Rückfragen zur Verfügung stehenden Personen,
 
-7. bei Schuldnern, die im Handels-, Genossenschafts-, Vereins- oder Partnerschaftsregister eingetragen sind, die Art und der Ort des Registers und die Nummer der Eintragung.
+7. bei Schuldnern, die im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragen sind, die Art und der Ort des Registers und die Nummer der Eintragung.
 
 (2) Hilfsmerkmale für die Vollzähligkeitsprüfung der nach § 4 Absatz 1 Nummer 2 zu übermittelnden Angaben sind:
 
@@ -143,7 +143,7 @@ Die Erhebungen erfassen folgende Erhebungsmerkmale:
 
 a) Datum der Anzeige,
 
-b) Art des Rechtsträgers oder der Vermögensmasse (Schuldner); zusätzlich Rechtsform, Geschäftszweig, Jahr der Gründung, Zahl der Arbeitnehmer und die Eintragung in das Handels-, Genossenschafts-, Vereins- oder Partnerschaftsregister,
+b) Art des Rechtsträgers oder der Vermögensmasse (Schuldner); zusätzlich Rechtsform, Geschäftszweig, Jahr der Gründung, Zahl der Arbeitnehmer und die Eintragung in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister,
 
 c) ob der Schuldner in den letzten drei Jahren vor der Anzeige des Restrukturierungsvorhabens die Bestätigung eines Restrukturierungsplans in einer Restrukturierungssache erwirkt hat;
 
@@ -181,7 +181,7 @@ Hilfsmerkmale der Erhebungen sind:
 
 5. Name und Kontaktdaten der für eventuelle Rückfragen zur Verfügung stehenden Personen,
 
-6. bei Schuldnern, die im Handels-, Genossenschafts-, Vereins- oder Partnerschaftsregister eingetragen sind, die Art und der Ort des Registers und die Nummer der Eintragung.
+6. bei Schuldnern, die im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragen sind, die Art und der Ort des Registers und die Nummer der Eintragung.
 
 # § 4c – Auskunftspflicht und Erteilung der Auskunft in Restrukturierungssachen
 

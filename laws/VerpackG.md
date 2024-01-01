@@ -242,7 +242,7 @@ keine Einwegkunststofflebensmittelverpackungen in diesem Sinne sind Getränkever
 
 und von der Zentralen Stelle in dem Prüferregister nach § 27 geführt wird.
 
-(16) System ist eine privatrechtlich organisierte juristische Person oder Personengesellschaft, die mit Genehmigung nach § 18 in Wahrnehmung der Produktverantwortung der beteiligten Hersteller die in ihrem Einzugsgebiet beim privaten Endverbraucher als Abfall anfallenden restentleerten Verpackungen flächendeckend erfasst und einer Verwertung zuführt. Einzugsgebiet im Sinne von Satz 1 ist jeweils das gesamte Gebiet eines Landes, in dem systembeteiligungspflichtige Verpackungen eines beteiligten Herstellers in Verkehr gebracht werden.
+(16) System ist eine privatrechtlich organisierte juristische Person oder rechtsfähige Personengesellschaft, die mit Genehmigung nach § 18 in Wahrnehmung der Produktverantwortung der beteiligten Hersteller die in ihrem Einzugsgebiet beim privaten Endverbraucher als Abfall anfallenden restentleerten Verpackungen flächendeckend erfasst und einer Verwertung zuführt. Einzugsgebiet im Sinne von Satz 1 ist jeweils das gesamte Gebiet eines Landes, in dem systembeteiligungspflichtige Verpackungen eines beteiligten Herstellers in Verkehr gebracht werden.
 
 (17) Systemprüfer sind Wirtschaftsprüfer, die gemäß § 20 Absatz 4 von den Systemen benannt worden sind und gemäß § 20 Absatz 2 Satz 1 die Zwischen- und Jahresmeldungen der Systeme prüfen und bestätigen.
 
@@ -314,7 +314,7 @@ Verpackungen können zur Identifizierung des Materials, aus dem sie hergestellt 
 
 3. die Verwertung der zurückgenommenen Verpackungen entsprechend den Anforderungen des § 16 Absatz 1 bis 3 gewährleistet.
 
-Ein Zusammenwirken mehrerer Hersteller aus einer Branche, die gleichartige Waren vertreiben, ist zulässig; in diesem Fall haben sie eine natürliche oder juristische Person oder Personengesellschaft als Träger der Branchenlösung zu bestimmen. Satz 1 gilt nicht für Hersteller von mit Getränken befüllten Einweggetränkeverpackungen, die nach § 31 Absatz 4 keiner Pfandpflicht unterliegen.
+Ein Zusammenwirken mehrerer Hersteller aus einer Branche, die gleichartige Waren vertreiben, ist zulässig; in diesem Fall haben sie eine natürliche oder juristische Person oder rechtsfähige Personengesellschaft als Träger der Branchenlösung zu bestimmen. Satz 1 gilt nicht für Hersteller von mit Getränken befüllten Einweggetränkeverpackungen, die nach § 31 Absatz 4 keiner Pfandpflicht unterliegen.
 
 (2) Der Beginn sowie jede wesentliche Änderung der Branchenlösung sind der Zentralen Stelle mindestens einen Monat vor ihrem Wirksamwerden durch den Hersteller oder im Fall des Zusammenwirkens nach Absatz 1 Satz 3 durch den Träger der Branchenlösung schriftlich anzuzeigen. Der Anzeige sind folgende Informationen und Unterlagen beizufügen:
 

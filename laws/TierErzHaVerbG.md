@@ -75,7 +75,7 @@ Im Falle des Satzes 2 Nummer 2 hat der Tierarzt dem Tierhalter unverzüglich ein
 
 # § 5 – Auskunfts- und Duldungspflichten
 
-(1) Natürliche und juristische Personen sowie nicht rechtsfähige Personenvereinigungen haben der nach § 1 jeweils zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der Aufgaben erforderlich sind, die der Behörde durch dieses Gesetz übertragen worden sind.
+(1) Natürliche und juristische Personen sowie sonstige Personenvereinigungen haben der nach § 1 jeweils zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der Aufgaben erforderlich sind, die der Behörde durch dieses Gesetz übertragen worden sind.
 
 (2) Personen, die von der nach § 1 jeweils zuständigen Behörde beauftragt worden sind, dürfen im Rahmen des Absatzes 1
 

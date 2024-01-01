@@ -99,7 +99,7 @@ Als Anlageblatt muss das vom Deutschen Patent- und Markenamt herausgegebene Form
 
 a) Name oder Firma, Rechtsform sowie Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort des Sitzes; die Bezeichnung der Rechtsform kann auf übliche Weise abgekürzt werden; wenn die juristische Person oder Personengesellschaft in einem Register eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;
 
-b) bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens eines vertretungsberechtigten Gesellschafters.
+b) bei einer Gesellschaft bürgerlichen Rechts, die nicht im Gesellschaftsregister eingetragen ist, zusätzlich Name und Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens eines vertretungsberechtigten Gesellschafters.
 
 Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist bei der Angabe der Anschrift nach Satz 1 außer dem Ort auch der Staat anzugeben. Weitere Angaben zum Bezirk, zur Provinz oder zum Bundesstaat, in dem der Anmelder seinen Wohnsitz oder Sitz hat oder dessen Rechtsordnung er unterliegt, sind freiwillig.
 
@@ -223,7 +223,7 @@ Ein Antrag auf Weiterbehandlung der infolge Fristversäumnisses zurückgewiesene
 
 1. dass eine unverbindliche Erklärung des Anmelders über das Interesse an der Vergabe von Lizenzen abgegeben wurde (§ 3 Absatz 2 Nummer 7),
 
-2. der Name und der Wohnsitz aller benannten vertretungsberechtigten Gesellschafter einer Gesellschaft bürgerlichen Rechts (§ 6 Absatz 1 Satz 1 Nummer 2 Buchstabe b),
+2. der Name und der Wohnsitz aller benannten vertretungsberechtigten Gesellschafter einer nicht im Gesellschaftsregister eingetragenen Gesellschaft bürgerlichen Rechts (§ 6 Absatz 1 Satz 1 Nummer 2 Buchstabe b),
 
 3. der Name und die Anschrift des Vertreters (§ 6 Absatz 4),
 

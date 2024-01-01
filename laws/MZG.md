@@ -609,7 +609,7 @@ cc) Höhe der gesetzlichen Leistungen bei Erwerbsminderung, Berufs- oder Dienstu
 e) Höhe der erhaltenen öffentlichen Zahlungen und Unterhaltszahlungen:
 
 aa)  
-Höhe der gesetzlichen Leistungen bei Arbeitslosigkeit und der Grundsicherung für Arbeitsuchende,
+Höhe der gesetzlichen Leistungen bei Arbeitslosigkeit und der Höhen der Grundsicherung für Arbeitsuchende, insbesondere Höhen des Bürgergeldes, des Bürgergeldbonus und der Weiterbildungsleistungen,
 
 bb)  
 Höhe der laufenden Hilfe zum Lebensunterhalt,
@@ -627,6 +627,9 @@ Höhe der Ausbildungsförderung,
 
 gg)  
 Höhe der erhaltenen Unterhaltszahlungen oder sonstiger regelmäßiger Zahlungen von Personen, die im Kalenderjahr vor der Berichtswoche nicht im Haushalt lebten,
+
+hh)  
+Höhen der Leistungen aus der gesetzlichen Pflegeversicherung,
 
 4. geleistete Zahlungen im Kalenderjahr vor der Berichtswoche:
 

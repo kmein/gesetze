@@ -97,7 +97,7 @@ im Rahmen ihres Aufgaben- und Zuständigkeitsbereichs erbringen.
 
 # § 10 – Rechtsdienstleistungen aufgrund besonderer Sachkunde
 
-(1) Natürliche und juristische Personen sowie Gesellschaften ohne Rechtspersönlichkeit, die bei der zuständigen Behörde registriert sind (registrierte Personen), dürfen aufgrund besonderer Sachkunde Rechtsdienstleistungen in folgenden Bereichen erbringen:
+(1) Natürliche und juristische Personen sowie rechtsfähige Personengesellschaften, die bei der zuständigen Behörde registriert sind (registrierte Personen), dürfen aufgrund besonderer Sachkunde Rechtsdienstleistungen in folgenden Bereichen erbringen:
 
 1. Inkassodienstleistungen (§ 2 Abs. 2 Satz 1),
 
@@ -153,13 +153,13 @@ aus der Rechts- oder Patentanwaltschaft oder einem im Steuerberatungsgesetz oder
 
 (3) Die theoretische Sachkunde ist gegenüber der zuständigen Behörde durch Zeugnisse nachzuweisen. Praktische Sachkunde setzt in der Regel eine mindestens zwei Jahre unter Anleitung erfolgte Berufsausübung oder praktische Berufsausbildung voraus. In der Regel müssen im Fall des § 10 Absatz 1 Satz 1 Nummer 1 zumindest zwölf Monate, im Fall des § 10 Absatz 1 Satz 1 Nummer 2 zumindest 18 Monate der Berufsausübung oder -ausbildung im Inland erfolgen. Ist die Person berechtigt, in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz einen der in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten Berufe oder einen vergleichbaren Beruf auszuüben, und liegen die Voraussetzungen des § 1 Absatz 2 und 3 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland sinngemäß vor, so kann die Sachkunde unter Berücksichtigung der bestehenden Berufsqualifikation auch durch einen mindestens sechsmonatigen Anpassungslehrgang nachgewiesen werden. Das Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
 
-(4) Juristische Personen und Gesellschaften ohne Rechtspersönlichkeit müssen mindestens eine natürliche Person benennen, die alle nach Absatz 1 Nr. 1 und 2 erforderlichen Voraussetzungen erfüllt (qualifizierte Person). Die qualifizierte Person muss in dem Unternehmen dauerhaft beschäftigt, in allen Angelegenheiten, die Rechtsdienstleistungen des Unternehmens betreffen, weisungsunabhängig und weisungsbefugt sowie zur Vertretung nach außen berechtigt sein. Registrierte Einzelpersonen können qualifizierte Personen benennen.
+(4) Juristische Personen und rechtsfähige Personengesellschaften müssen mindestens eine natürliche Person benennen, die alle nach Absatz 1 Nr. 1 und 2 erforderlichen Voraussetzungen erfüllt (qualifizierte Person). Die qualifizierte Person muss in dem Unternehmen dauerhaft beschäftigt, in allen Angelegenheiten, die Rechtsdienstleistungen des Unternehmens betreffen, weisungsunabhängig und weisungsbefugt sowie zur Vertretung nach außen berechtigt sein. Registrierte Einzelpersonen können qualifizierte Personen benennen.
 
 (5) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten zu den Voraussetzungen der Registrierung nach den §§ 11 und 12 zu regeln, insbesondere die Anforderungen an die Sachkunde und ihren Nachweis einschließlich der Anerkennung und Zertifizierung privater Anbieter von Sachkundelehrgängen, an die Anerkennung ausländischer Berufsqualifikationen und den Anpassungslehrgang sowie, auch abweichend von den Vorschriften des Versicherungsvertragsgesetzes für die Pflichtversicherung, an Inhalt und Ausgestaltung der Berufshaftpflichtversicherung.
 
 # § 13 – Registrierungsverfahren; Verordnungsermächtigung
 
-(1) Der Antrag auf Registrierung ist an die für den Ort der inländischen Hauptniederlassung zuständige Behörde zu richten. Hat eine Person im Inland keine Niederlassung, so kann sie den Antrag an jede nach § 19 für die Durchführung dieses Gesetzes zuständige Behörde richten. Das Registrierungsverfahren kann auch über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden. Mit dem Antrag, der alle nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis d in das Rechtsdienstleistungsregister einzutragenden Angaben enthalten muss, sind zur Prüfung der Voraussetzungen nach § 12 Abs. 1 Nr. 1 und 2 sowie Abs. 4 beizubringen:
+(1) Der Antrag auf Registrierung ist an die für den Ort der inländischen Hauptniederlassung zuständige Behörde zu richten. Hat eine Person im Inland keine Niederlassung, so kann sie den Antrag an jede nach § 19 für die Durchführung dieses Gesetzes zuständige Behörde richten. Das Registrierungsverfahren kann auch über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden. Mit dem Antrag, der alle nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis d und Satz 2 in das Rechtsdienstleistungsregister einzutragenden Angaben enthalten muss, sind zur Prüfung der Voraussetzungen nach § 12 Abs. 1 Nr. 1 und 2 sowie Abs. 4 beizubringen:
 
 1. eine zusammenfassende Darstellung des beruflichen Ausbildungsgangs und der bisherigen Berufsausübung,
 
@@ -323,7 +323,7 @@ Die zuständige Behörde widerruft die Registrierung unbeschadet des § 49 des V
 
 3. wenn begründete Tatsachen die Annahme dauerhaft unqualifizierter Rechtsdienstleistungen zum Nachteil der Rechtsuchenden oder des Rechtsverkehrs rechtfertigen; dies ist in der Regel der Fall, wenn die registrierte Person in erheblichem Umfang Rechtsdienstleistungen über die eingetragene Befugnis hinaus erbringt oder beharrlich gegen Auflagen, Darlegungs- und Informationspflichten nach den §§ 13a oder 13b oder Pflichten nach § 13g verstößt,
 
-4. wenn eine juristische Person oder eine Gesellschaft ohne Rechtspersönlichkeit, die keine weitere qualifizierte Person benannt hat, bei Ausscheiden der qualifizierten Person nicht innerhalb von sechs Monaten eine qualifizierte Person benennt.
+4. wenn eine juristische Person oder eine rechtsfähige Personengesellschaft, die keine weitere qualifizierte Person benannt hat, bei Ausscheiden der qualifizierten Person nicht innerhalb von sechs Monaten eine qualifizierte Person benennt.
 
 Für die Entscheidung über einen Widerruf nach Satz 1 Nummer 1 in Verbindung mit § 12 Absatz 1 Nummer 1 Buchstabe a gilt § 15 der Bundesrechtsanwaltsordnung entsprechend.
 
@@ -335,9 +335,9 @@ Für die Entscheidung über einen Widerruf nach Satz 1 Nummer 1 in Verbindung mi
 
 # § 15 – Vorübergehende Rechtsdienstleistungen
 
-(1) Natürliche und juristische Personen sowie Gesellschaften ohne Rechtspersönlichkeit, die in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz zur Ausübung eines in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten oder eines vergleichbaren Berufs rechtmäßig niedergelassen sind, dürfen diesen Beruf in der Bundesrepublik Deutschland mit denselben Rechten und Pflichten wie eine nach § 10 Absatz 1 Satz 1 Nummer 1 oder 2 registrierte Person vorübergehend und gelegentlich ausüben (vorübergehende Rechtsdienstleistungen). Wenn weder der Beruf noch die Ausbildung zu diesem Beruf im Staat der Niederlassung reglementiert sind, gilt dies nur, wenn die Person oder Gesellschaft den Beruf in den in Satz 1 genannten Staaten während der vorhergehenden zehn Jahre mindestens ein Jahr ausgeübt hat. Ob Rechtsdienstleistungen vorübergehend und gelegentlich erbracht werden, ist insbesondere anhand ihrer Dauer, Häufigkeit, regelmäßigen Wiederkehr und Kontinuität zu beurteilen.
+(1) Natürliche und juristische Personen sowie rechtsfähige Personengesellschaften, die in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz zur Ausübung eines in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten oder eines vergleichbaren Berufs rechtmäßig niedergelassen sind, dürfen diesen Beruf in der Bundesrepublik Deutschland mit denselben Rechten und Pflichten wie eine nach § 10 Absatz 1 Satz 1 Nummer 1 oder 2 registrierte Person vorübergehend und gelegentlich ausüben (vorübergehende Rechtsdienstleistungen). Wenn weder der Beruf noch die Ausbildung zu diesem Beruf im Staat der Niederlassung reglementiert sind, gilt dies nur, wenn die Person oder Gesellschaft den Beruf in den in Satz 1 genannten Staaten während der vorhergehenden zehn Jahre mindestens ein Jahr ausgeübt hat. Ob Rechtsdienstleistungen vorübergehend und gelegentlich erbracht werden, ist insbesondere anhand ihrer Dauer, Häufigkeit, regelmäßigen Wiederkehr und Kontinuität zu beurteilen.
 
-(2) Vorübergehende Rechtsdienstleistungen sind nur zulässig, wenn die Person oder Gesellschaft vor der ersten Erbringung von Dienstleistungen im Inland einer nach § 19 zuständigen Behörde in Textform eine Meldung mit dem Inhalt nach Satz 3 erstattet. Das Meldeverfahren kann auch über eine einheitliche Stelle nach den §§ 71a bis 71e des Verwaltungsverfahrensgesetzes abgewickelt werden. Die Meldung muss neben den nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis c im Rechtsdienstleistungsregister öffentlich bekanntzumachenden Angaben enthalten:
+(2) Vorübergehende Rechtsdienstleistungen sind nur zulässig, wenn die Person oder Gesellschaft vor der ersten Erbringung von Dienstleistungen im Inland einer nach § 19 zuständigen Behörde in Textform eine Meldung mit dem Inhalt nach Satz 3 erstattet. Das Meldeverfahren kann auch über eine einheitliche Stelle nach den §§ 71a bis 71e des Verwaltungsverfahrensgesetzes abgewickelt werden. Die Meldung muss neben den nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis c und Satz 2 im Rechtsdienstleistungsregister öffentlich bekanntzumachenden Angaben enthalten:
 
 1. eine Bescheinigung darüber, dass die Person oder Gesellschaft in einem Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz rechtmäßig zur Ausübung eines der in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten Berufe oder eines vergleichbaren Berufs niedergelassen ist und dass ihr die Ausübung dieser Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht vorübergehend, untersagt ist,
 
@@ -371,7 +371,7 @@ Für die Entscheidung über einen Widerruf nach Satz 1 Nummer 1 in Verbindung mi
 
 6. beharrlich gegen die Vorgaben des Absatzes 5 über die Berufshaftpflichtversicherung verstößt.
 
-(7) Natürliche und juristische Personen sowie Gesellschaften ohne Rechtspersönlichkeit, die in einem in Absatz 1 Satz 1 genannten Staat zur Erbringung von Rechtsdienstleistungen in einem ausländischen Recht (§ 10 Absatz 1 Satz 1 Nummer 3) rechtmäßig niedergelassen sind, dürfen diese Rechtsdienstleistungen in der Bundesrepublik Deutschland mit denselben Befugnissen wie eine nach § 10 Absatz 1 Satz 1 Nummer 3 registrierte Person vorübergehend und gelegentlich ausüben (vorübergehende Rechtsdienstleistungen). Absatz 1 Satz 2 und 3 sowie die Absätze 2 bis 6 gelten entsprechend.
+(7) Natürliche und juristische Personen sowie rechtsfähige Personengesellschaften, die in einem in Absatz 1 Satz 1 genannten Staat zur Erbringung von Rechtsdienstleistungen in einem ausländischen Recht (§ 10 Absatz 1 Satz 1 Nummer 3) rechtmäßig niedergelassen sind, dürfen diese Rechtsdienstleistungen in der Bundesrepublik Deutschland mit denselben Befugnissen wie eine nach § 10 Absatz 1 Satz 1 Nummer 3 registrierte Person vorübergehend und gelegentlich ausüben (vorübergehende Rechtsdienstleistungen). Absatz 1 Satz 2 und 3 sowie die Absätze 2 bis 6 gelten entsprechend.
 
 # § 15a – Statistik
 
@@ -389,7 +389,7 @@ Werden Rechtsdienstleistungen ohne erforderliche Registrierung oder vorübergehe
 
 1. die Registrierung von Personen, denen Rechtsdienstleistungen in einem oder mehreren der in § 10 Abs. 1 genannten Bereiche oder Teilbereiche erlaubt sind, unter Angabe
 
-a) ihres Familiennamens und Vornamens, ihres Namens oder ihrer Firma einschließlich ihrer gesetzlichen Vertreter sowie des Registergerichts und der Registernummer, unter der sie in das Handels-, Partnerschafts-, Genossenschafts- oder Vereinsregister eingetragen sind,
+a) ihres Familiennamens und Vornamens, ihres Namens oder ihrer Firma einschließlich ihrer gesetzlichen Vertreter sowie des Registergerichts und der Registernummer, unter der sie in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragen sind,
 
 b) ihres Gründungsjahres,
 
@@ -405,7 +405,7 @@ g) bestehender sofort vollziehbarer Rücknahmen und Widerrufe der Registrierung,
 
 2. die Registrierung von Personen oder Vereinigungen, denen die Erbringung von Rechtsdienstleistungen nach § 9 Abs. 1 bestandskräftig untersagt worden ist, unter Angabe
 
-a) ihres Familiennamens und Vornamens, ihres Namens oder ihrer Firma einschließlich ihrer gesetzlichen Vertreter sowie des Registergerichts und der Registernummer, unter der sie in das Handels-, Partnerschafts-, Genossenschafts- oder Vereinsregister eingetragen sind,
+a) ihres Familiennamens und Vornamens, ihres Namens oder ihrer Firma einschließlich ihrer gesetzlichen Vertreter sowie des Registergerichts und der Registernummer, unter der sie in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragen sind,
 
 b) ihres Gründungsjahres,
 
@@ -413,7 +413,7 @@ c) ihrer Anschrift,
 
 d) der Dauer der Untersagung.
 
-Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 werden mit der Geschäftsanschrift auch die Telefonnummer und die E-Mail-Adresse der registrierten Person veröffentlicht, wenn sie in die Veröffentlichung dieser Daten in Textform eingewilligt hat. Wird ein Abwickler bestellt, ist auch dies unter Angabe von Familienname, Vorname und Anschrift des Abwicklers zu veröffentlichen.
+Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 und 2, die sich auf eine nicht im Gesellschaftsregister eingetragene Gesellschaft bürgerlichen Rechts beziehen, sind anstelle des Registergerichts und der Registernummer Name und Anschrift ihrer vertretungsberechtigten Gesellschafter anzugeben. Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 werden mit der Geschäftsanschrift auch die Telefonnummer und die E-Mail-Adresse der registrierten Person veröffentlicht, wenn sie in die Veröffentlichung dieser Daten in Textform eingewilligt hat. Wird ein Abwickler bestellt, ist auch dies unter Angabe von Familienname, Vorname und Anschrift des Abwicklers zu veröffentlichen.
 
 (3) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und länderübergreifende Veröffentlichung im Internet unter der Adresse www.rechtsdienstleistungsregister.de. Die nach § 9 Absatz 1 Satz 1, § 13 Absatz 1 Satz 1 oder 2 oder § 15 Absatz 2 Satz 1 zuständige Behörde trägt die datenschutzrechtliche Verantwortung für die von ihr im Rechtsdienstleistungsregister veröffentlichten Daten, insbesondere für die Rechtmäßigkeit ihrer Erhebung, die Zulässigkeit ihrer Veröffentlichung und ihre Richtigkeit. Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der öffentlichen Bekanntmachung im Internet zu regeln.
 
@@ -425,7 +425,7 @@ Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 werden mit der Geschäft
 
 2. bei natürlichen Personen mit ihrem Tod,
 
-3. bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit mit ihrer Beendigung,
+3. bei juristischen Personen und rechtsfähigen Personengesellschaften mit ihrer Beendigung,
 
 4. bei Personen, deren Registrierung zurückgenommen oder widerrufen worden ist, mit der Bestandskraft der Entscheidung,
 

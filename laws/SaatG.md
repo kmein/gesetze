@@ -981,11 +981,11 @@ Auf das Verfahren vor den Sortenausschüssen und den Widerspruchsausschüssen si
 
 (3) Von der Person her sind befugt:
 
-1. Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sowie natürliche und juristische Personen und Personenhandelsgesellschaften mit Wohnsitz oder Sitz im Inland,
+1. Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sowie natürliche und juristische Personen und rechtsfähige Personengesellschaften mit Wohnsitz oder Sitz im Inland,
 
-2. Angehörige eines anderen Vertragsstaates sowie natürliche und juristische Personen und Personenhandelsgesellschaften mit Wohnsitz oder Sitz in einem anderen Vertragsstaat,
+2. Angehörige eines anderen Vertragsstaates sowie natürliche und juristische Personen und rechtsfähige Personengesellschaften mit Wohnsitz oder Sitz in einem anderen Vertragsstaat,
 
-3. andere natürliche und juristische Personen und Personenhandelsgesellschaften, soweit in dem Staat, dem sie angehören oder in dem sie ihren Wohnsitz oder Sitz haben, nach einer Bekanntmachung des Bundesministeriums für Ernährung und Landwirtschaft im Bundesgesetzblatt die Gegenseitigkeit gewährleistet ist.
+3. andere natürliche und juristische Personen und rechtsfähige Personengesellschaften, soweit in dem Staat, dem sie angehören oder in dem sie ihren Wohnsitz oder Sitz haben, nach einer Bekanntmachung des Bundesministeriums für Ernährung und Landwirtschaft im Bundesgesetzblatt die Gegenseitigkeit gewährleistet ist.
 
 (4) Der Antragsteller hat die Sortenbezeichnung anzugeben. Bei einer nicht geschützten Sorte kann er mit Zustimmung des Bundessortenamtes für das Sortenzulassungsverfahren eine vorläufige Bezeichnung angeben.
 
@@ -1279,7 +1279,7 @@ Hat im Vorverfahren der Widerspruchsausschuss entschieden, so ist die Berufung g
 
 # § 59 – Auskunftspflicht
 
-(1) Natürliche und juristische Personen und nichtrechtsfähige Personenvereinigungen haben der zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der der Behörde durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich sind.
+(1) Natürliche und juristische Personen und sonstige Personenvereinigungen haben der zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der der Behörde durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich sind.
 
 (2) Personen, die von der zuständigen Behörde beauftragt sind, dürfen im Rahmen des Absatzes 1 Grundstücke, Geschäftsräume, Betriebsräume und Transportmittel des Auskunftspflichtigen während der Geschäfts- und Betriebszeit betreten und dort
 

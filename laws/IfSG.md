@@ -387,23 +387,23 @@ Arbeits- und sozialrechtliche Sondervorschriften
 
 § 60
 
-Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe
+(weggefallen)
 
 § 61
 
-Gesundheitsschadensanerkennung
+(weggefallen)
 
 § 62
 
-Heilbehandlung
+(weggefallen)
 
 § 63
 
-Konkurrenz von Ansprüchen, Anwendung der Vorschriften nach dem Bundesversorgungsgesetz, Übergangsregelungen zum Erstattungsverfahren an die Krankenkassen
+(weggefallen)
 
 § 64
 
-Zuständige Behörde für die Versorgung
+(weggefallen)
 
 § 65
 
@@ -527,9 +527,7 @@ die Gabe eines Impfstoffes mit dem Ziel, vor einer übertragbaren Krankheit zu s
 
 die Gabe von Antikörpern (passive Immunprophylaxe) oder die Gabe von Medikamenten (Chemoprophylaxe) zum Schutz vor Weiterverbreitung bestimmter übertragbarer Krankheiten,
 
-11. Impfschaden
-
-die gesundheitliche und wirtschaftliche Folge einer über das übliche Ausmaß einer Impfreaktion hinausgehenden gesundheitlichen Schädigung durch die Schutzimpfung; ein Impfschaden liegt auch vor, wenn mit vermehrungsfähigen Erregern geimpft wurde und eine andere als die geimpfte Person geschädigt wurde,
+11. (weggefallen)
 
 12. Gesundheitsschädling
 
@@ -1831,7 +1829,7 @@ Bei einer auf Grund dieses Gesetzes angeordneten oder einer von der obersten Lan
 
 3. Name der Krankheit, gegen die geimpft wurde,
 
-4. Name der geimpften Person, deren Geburtsdatum und Name und Anschrift der für die Durchführung der Schutzimpfung verantwortlichen Person sowie
+4. Name und Anschrift der für die Durchführung der Schutzimpfung verantwortlichen Person sowie
 
 5. Bestätigung in Schriftform oder in elektronischer Form mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel durch die für die Durchführung der Schutzimpfung verantwortliche Person.
 
@@ -1841,7 +1839,7 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung o
 
 1. das zweckmäßige Verhalten bei ungewöhnlichen Impfreaktionen,
 
-2. die sich gegebenenfalls aus den §§ 60 bis 64 ergebenden Ansprüche bei Eintritt eines Impfschadens sowie
+2. die sich gegebenenfalls aus den Regelungen des Sozialen Entschädigungsrechts ergebenden Ansprüche bei Eintritt einer über das übliche Ausmaß einer Impfreaktion hinausgehenden gesundheitlichen Schädigung sowie
 
 3. Stellen, bei denen die sich aus einem Impfschaden ergebenden Ansprüche geltend gemacht werden können.
 
@@ -2976,7 +2974,7 @@ zu erlassen, soweit dies zum Schutz der Bevölkerung vor übertragbaren Krankhei
 
 # § 54 – Vollzug durch die Länder
 
-Die Landesregierungen bestimmen durch Rechtsverordnung die zuständigen Behörden im Sinne dieses Gesetzes, soweit eine landesrechtliche Regelung nicht besteht und dieses Gesetz durch die Länder vollzogen wird. Sie können ferner darin bestimmen, dass nach diesem Gesetz der obersten Landesgesundheitsbehörde oder der für die Kriegsopferversorgung zuständigen obersten Landesbehörde zugewiesene Aufgaben ganz oder im Einzelnen von einer diesen jeweils nachgeordneten Landesbehörde wahrgenommen werden und dass auf die Wahrnehmung von Zustimmungsvorbehalten der obersten Landesbehörden nach diesem Gesetz verzichtet wird.
+Die Landesregierungen bestimmen durch Rechtsverordnung die zuständigen Behörden im Sinne dieses Gesetzes, soweit eine landesrechtliche Regelung nicht besteht und dieses Gesetz durch die Länder vollzogen wird. Sie können ferner darin bestimmen, dass nach diesem Gesetz der obersten Landesgesundheitsbehörde zugewiesene Aufgaben ganz oder im Einzelnen von einer dieser nachgeordneten Landesbehörde wahrgenommen werden und dass auf die Wahrnehmung von Zustimmungsvorbehalten der obersten Landesbehörden nach diesem Gesetz verzichtet wird.
 
 # § 54a – Vollzug durch die Bundeswehr
 
@@ -3003,10 +3001,6 @@ Die Landesregierungen bestimmen durch Rechtsverordnung die zuständigen Behörde
 (4) Bei zivilen Angehörigen des Geschäftsbereiches des Bundesministeriums der Verteidigung außerhalb ihrer Dienstausübung sind die Maßnahmen der zivilen Stellen nach dem 5. Abschnitt im Benehmen mit den zuständigen Stellen der Bundeswehr zu treffen.
 
 (5) Absatz 1 Nummer 4 und 5 lässt völkerrechtliche Verträge über die Stationierung ausländischer Streitkräfte in der Bundesrepublik Deutschland unberührt.
-
-# § 54b – Vollzug durch das Eisenbahn-Bundesamt
-
-Im Bereich der Eisenbahnen des Bundes und der Magnetschwebebahnen obliegt der Vollzug dieses Gesetzes für Schienenfahrzeuge sowie für Anlagen zur ausschließlichen Befüllung von Schienenfahrzeugen dem Eisenbahn-Bundesamt, soweit die Aufgaben des Gesundheitsamtes und der zuständigen Behörde nach den §§ 15a, 37 bis 39 und 41 betroffen sind.
 
 # § 55 – Angleichung an Gemeinschaftsrecht
 
@@ -3088,81 +3082,7 @@ Entschädigungsberechtigte im Sinne des § 56 Absatz 1 und 1a, die der Pflichtve
 
 (2) Kranke und Ausscheider, die länger als sechs Monate Anspruch auf eine Entschädigung nach § 56 Absatz 1 Satz 1 oder Satz 2 haben oder mit hoher Wahrscheinlichkeit haben werden, gelten als Menschen mit Behinderungen im Sinne des Dritten Buches Sozialgesetzbuch.
 
-# § 60 – Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe
-
-(1) Wer durch eine Schutzimpfung oder durch eine andere Maßnahme der spezifischen Prophylaxe, die
-
-1. von einer zuständigen Landesbehörde öffentlich empfohlen und in ihrem Bereich vorgenommen wurde,
-
-1a. gegen das Coronavirus SARS-CoV-2 aufgrund einer Rechtsverordnung nach § 20i Absatz 3 des Fünften Buches Sozialgesetzbuch vorgenommen wurde oder, im Fall einer Schutzimpfung, gegenüber einer Person, die in der privaten Krankenversicherung versichert ist, in einem dem Anspruch nach einer Rechtsverordnung nach § 20i Absatz 3 des Fünften Buches Sozialgesetzbuch entsprechenden Umfang vorgenommen wurde,
-
-2. auf Grund dieses Gesetzes angeordnet wurde,
-
-3. gesetzlich vorgeschrieben war oder
-
-4. auf Grund der Verordnungen zur Ausführung der Internationalen Gesundheitsvorschriften durchgeführt worden ist,
-
-eine gesundheitliche Schädigung erlitten hat, erhält nach der Schutzimpfung wegen des Impfschadens im Sinne des § 2 Nr. 11 oder in dessen entsprechender Anwendung bei einer anderen Maßnahme wegen der gesundheitlichen und wirtschaftlichen Folgen der Schädigung auf Antrag Versorgung in entsprechender Anwendung der Vorschriften des Bundesversorgungsgesetzes, soweit dieses Gesetz nichts Abweichendes bestimmt. Satz 1 Nr. 4 gilt nur für Personen, die zum Zwecke der Wiedereinreise in den Geltungsbereich dieses Gesetzes geimpft wurden und die ihren Wohnsitz oder gewöhnlichen Aufenthalt in diesem Gebiet haben oder nur vorübergehend aus beruflichen Gründen oder zum Zwecke der Ausbildung aufgegeben haben, sowie deren Angehörige, die mit ihnen in häuslicher Gemeinschaft leben. Als Angehörige gelten die in § 10 des Fünften Buches Sozialgesetzbuch genannten Personen.
-
-(2) Versorgung im Sinne des Absatzes 1 erhält auch, wer als Deutscher außerhalb des Geltungsbereichs dieses Gesetzes einen Impfschaden durch eine Impfung erlitten hat, zu der er auf Grund des Impfgesetzes vom 8. April 1874 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 2126-5, veröffentlichten bereinigten Fassung, bei einem Aufenthalt im Geltungsbereich dieses Gesetzes verpflichtet gewesen wäre. Die Versorgung wird nur gewährt, wenn der Geschädigte
-
-1. nicht im Geltungsbereich dieses Gesetzes geimpft werden konnte,
-
-2. von einem Arzt geimpft worden ist und
-
-3. zur Zeit der Impfung in häuslicher Gemeinschaft mit einem Elternteil oder einem Sorgeberechtigten gelebt hat, der sich zur Zeit der Impfung aus beruflichen Gründen oder zur Ausbildung nicht nur vorübergehend außerhalb des Geltungsbereichs dieses Gesetzes aufgehalten hat.
-
-(3) Versorgung im Sinne des Absatzes 1 erhält auch, wer außerhalb des Geltungsbereichs dieses Gesetzes einen Impfschaden erlitten hat infolge einer Pockenimpfung auf Grund des Impfgesetzes oder infolge einer Pockenimpfung, die in den in § 1 Abs. 2 Nr. 3 des Bundesvertriebenengesetzes bezeichneten Gebieten, in der Deutschen Demokratischen Republik oder in Berlin (Ost) gesetzlich vorgeschrieben oder auf Grund eines Gesetzes angeordnet worden ist oder war, soweit nicht auf Grund anderer gesetzlicher Vorschriften Entschädigung gewährt wird. Ansprüche nach Satz 1 kann nur geltend machen, wer
-
-1. als Deutscher bis zum 8. Mai 1945,
-
-2. als Berechtigter nach den §§ 1 bis 4 des Bundesvertriebenengesetzes oder des § 1 des Flüchtlingshilfegesetzes in der Fassung der Bekanntmachung vom 15. Mai 1971 (BGBl. I S. 681), das zuletzt durch Artikel 24 des Gesetzes vom 26. Mai 1994 (BGBl. I S. 1014) geändert worden ist, in der jeweils geltenden Fassung,
-
-3. als Ehegatte oder Abkömmling eines Spätaussiedlers im Sinne des § 7 Abs. 2 des Bundesvertriebenengesetzes oder
-
-4. im Wege der Familienzusammenführung gemäß § 94 des Bundesvertriebenengesetzes in der vor dem 1. Januar 1993 geltenden Fassung
-
-seinen ständigen Aufenthalt im Geltungsbereich dieses Gesetzes genommen hat oder nimmt.
-
-(4) Die Hinterbliebenen eines Geschädigten im Sinne der Absätze 1 bis 3 erhalten auf Antrag Versorgung in entsprechender Anwendung der Vorschriften des Bundesversorgungsgesetzes. Partner einer eheähnlichen Gemeinschaft erhalten Leistungen in entsprechender Anwendung der §§ 40, 40a und 41 des Bundesversorgungsgesetzes, sofern ein Partner an den Schädigungsfolgen verstorben ist und der andere unter Verzicht auf eine Erwerbstätigkeit die Betreuung eines gemeinschaftlichen Kindes ausübt; dieser Anspruch ist auf die ersten drei Lebensjahre des Kindes beschränkt. Satz 2 gilt entsprechend, wenn ein Partner in der Zeit zwischen dem 1. November 1994 und dem 23. Juni 2006 an den Schädigungsfolgen verstorben ist.
-
-(5) Als Impfschaden im Sinne des § 2 Nr. 11 gelten auch die Folgen einer gesundheitlichen Schädigung, die durch einen Unfall unter den Voraussetzungen des § 1 Abs. 2 Buchstabe e oder f oder des § 8a des Bundesversorgungsgesetzes herbeigeführt worden sind. Einem Impfschaden im Sinne des Satzes 1 steht die Beschädigung eines am Körper getragenen Hilfsmittels, einer Brille, von Kontaktlinsen oder von Zahnersatz infolge eines Impfschadens im Sinne des Absatzes 1 oder eines Unfalls im Sinne des Satzes 1 gleich.
-
-(6) Im Rahmen der Versorgung nach Absatz 1 bis 5 finden die Vorschriften des zweiten Kapitels des Zehnten Buches Sozialgesetzbuch über den Schutz der Sozialdaten Anwendung.
-
-# § 61 – Gesundheitsschadensanerkennung
-
-Zur Anerkennung eines Gesundheitsschadens als Folge einer Schädigung im Sinne des § 60 Abs. 1 Satz 1 genügt die Wahrscheinlichkeit des ursächlichen Zusammenhangs. Wenn diese Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache des festgestellten Leidens in der medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung der für die Kriegsopferversorgung zuständigen obersten Landesbehörde der Gesundheitsschaden als Folge einer Schädigung im Sinne des § 60 Abs. 1 Satz 1 anerkannt werden. Die Zustimmung kann allgemein erteilt werden.
-
-# § 62 – Heilbehandlung
-
-Dem Geschädigten im Sinne von § 60 Abs. 1 bis 3 sind im Rahmen der Heilbehandlung auch heilpädagogische Behandlung, heilgymnastische und bewegungstherapeutische Übungen zu gewähren, wenn diese bei der Heilbehandlung notwendig sind.
-
-# § 63 – Konkurrenz von Ansprüchen, Anwendung der Vorschriften nach dem Bundesversorgungsgesetz, Übergangsregelungen zum Erstattungsverfahren an die Krankenkassen
-
-(1) Treffen Ansprüche aus § 60 mit Ansprüchen aus § 1 des Bundesversorgungsgesetzes oder aus anderen Gesetzen zusammen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, ist unter Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten Grades der Schädigungsfolgen eine einheitliche Rente festzusetzen.
-
-(2) Trifft ein Versorgungsanspruch nach § 60 mit einem Schadensersatzanspruch auf Grund fahrlässiger Amtspflichtverletzung zusammen, so wird der Anspruch nach § 839 Abs. 1 des Bürgerlichen Gesetzbuchs nicht dadurch ausgeschlossen, dass die Voraussetzungen des § 60 vorliegen.
-
-(3) Bei Impfschäden gilt § 4 Abs. 1 Nr. 2 des Siebten Buches Sozialgesetzbuch nicht.
-
-(4) § 81a des Bundesversorgungsgesetzes findet mit der Maßgabe Anwendung, dass der gegen Dritte bestehende gesetzliche Schadensersatzanspruch auf das zur Gewährung der Leistungen nach diesem Gesetz verpflichtete Land übergeht.
-
-(5) Die §§ 64 bis 64d, 64f und 89 des Bundesversorgungsgesetzes sind entsprechend anzuwenden mit der Maßgabe, dass an die Stelle der Zustimmung des Bundesministeriums für Arbeit und Soziales die Zustimmung der für die Kriegsopferversorgung zuständigen obersten Landesbehörde tritt. Die Zustimmung ist bei entsprechender Anwendung des § 89 Abs. 2 des Bundesversorgungsgesetzes im Einvernehmen mit der obersten Landesgesundheitsbehörde zu erteilen.
-
-(6) § 20 des Bundesversorgungsgesetzes ist mit den Maßgaben anzuwenden, dass an die Stelle der in Absatz 1 Satz 3 genannten Zahl die Zahl der rentenberechtigten Beschädigten und Hinterbliebenen nach diesem Gesetz im Vergleich zur Zahl des Vorjahres tritt, dass in Absatz 1 Satz 4 an die Stelle der dort genannten Ausgaben der Krankenkassen je Mitglied und Rentner einschließlich Familienangehörige die bundesweiten Ausgaben je Mitglied treten, dass Absatz 2 Satz 1 für die oberste Landesbehörde, die für die Kriegsopferversorgung zuständig ist, oder für die von ihr bestimmte Stelle gilt und dass in Absatz 3 an die Stelle der in Satz 1 genannten Zahl die Zahl 1,3 tritt und die Sätze 2 bis 4 nicht gelten.
-
-(7) Am 1. Januar 1998 noch nicht gezahlte Erstattungen von Aufwendungen für Leistungen, die von den Krankenkassen vor dem 1. Januar 1998 erbracht worden sind, werden nach den bis dahin geltenden Erstattungsregelungen abgerechnet.
-
-(8) Für das Jahr 1998 wird der Pauschalbetrag nach § 20 des Bundesversorgungsgesetzes wie folgt ermittelt: Aus der Summe der Erstattungen des Landes an die Krankenkassen nach diesem Gesetz in den Jahren 1995 bis 1997, abzüglich der Erstattungen für Leistungen bei Pflegebedürftigkeit nach § 11 Abs. 4 und § 12 Abs. 5 des Bundesversorgungsgesetzes in der bis zum 31. März 1995 geltenden Fassung und abzüglich der Erstattungen nach § 19 Abs. 4 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 1993 geltenden Fassung, wird der Jahresdurchschnitt ermittelt.
-
-# § 64 – Zuständige Behörde für die Versorgung
-
-(1) Die Versorgung nach den §§ 60 bis 63 Abs. 1 wird von den für die Durchführung des Bundesversorgungsgesetzes zuständigen Behörden durchgeführt. Die örtliche Zuständigkeit der Behörden bestimmt die Regierung des Landes, das die Versorgung zu gewähren hat (§ 66 Abs. 2), durch Rechtsverordnung. Die Landesregierung ist befugt, die Ermächtigung durch Rechtsverordnung auf eine andere Stelle zu übertragen.
-
-(2) Das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung in der Fassung der Bekanntmachung vom 6. Mai 1976 (BGBl. I S. 1169), zuletzt geändert durch das Gesetz vom 18. August 1980 (BGBl. I S. 1469), mit Ausnahme der §§ 3 und 4, die Vorschriften des ersten und dritten Kapitels des Zehnten Buches Sozialgesetzbuch sowie die Vorschriften des Sozialgerichtsgesetzes über das Vorverfahren sind anzuwenden.
-
-(3) Absatz 2 gilt nicht, soweit die Versorgung in der Gewährung von Leistungen besteht, die den Leistungen der Kriegsopferfürsorge nach den §§ 25 bis 27j des Bundesversorgungsgesetzes entsprechen.
+# XXXX (§§ 60 bis 64) – (weggefallen)
 
 # § 65 – Entschädigung bei behördlichen Maßnahmen
 
@@ -3172,7 +3092,7 @@ Dem Geschädigten im Sinne von § 60 Abs. 1 bis 3 sind im Rahmen der Heilbehandl
 
 # § 66 – Zahlungsverpflichteter
 
-(1) Ansprüche nach den §§ 56 bis 58 richten sich gegen das Land,
+Ansprüche nach den §§ 56 bis 58 richten sich gegen das Land,
 
 1. in dem das berufliche Tätigkeitsverbot erlassen wurde oder in den Fällen des § 34 Absatz 1 bis 3 und des § 42, in dem die verbotene Tätigkeit ausgeübt worden ist,
 
@@ -3182,41 +3102,19 @@ Dem Geschädigten im Sinne von § 60 Abs. 1 bis 3 sind im Rahmen der Heilbehandl
 
 Ansprüche nach § 65 richten sich gegen das Land, in dem der Schaden verursacht worden ist.
 
-(2) Versorgung wegen eines Impfschadens nach den §§ 60 bis 63 ist zu gewähren
-
-1. in den Fällen des § 60 Absatz 1
-
-a) von dem Land, in dem der Schaden verursacht worden ist oder,
-
-b) wenn die Schutzimpfung oder andere Maßnahme der spezifischen Prophylaxe aufgrund einer Rechtsverordnung nach § 20i Absatz 3 Satz 2 Nummer 1 Buchstabe a, auch in Verbindung mit Nummer 2, des Fünften Buches Sozialgesetzbuch im Ausland vorgenommen wurde, von dem Land, in dem der Geschädigte zum Zeitpunkt der Antragstellung seinen Wohnsitz oder seinen gewöhnlichen Aufenthalt hat oder, wenn im Zeitpunkt der Antragstellung ein Wohnsitz oder gewöhnlicher Aufenthalt im Geltungsbereich dieses Gesetzes nicht vorhanden ist, von dem Land, in dem der Geschädigte zuletzt seinen Wohnsitz oder gewöhnlichen Aufenthalt gehabt hat oder in dem die Behörde oder die Einrichtung ihren Sitz hat, für die der Geschädigte oder dessen Angehöriger tätig ist oder war,
-
-2. in den Fällen des § 60 Abs. 2
-
-a) von dem Land, in dem der Geschädigte bei Eintritt des Impfschadens im Geltungsbereich dieses Gesetzes seinen Wohnsitz oder gewöhnlichen Aufenthalt hat,
-
-b) wenn bei Eintritt des Schadens ein Wohnsitz oder gewöhnlicher Aufenthalt im Geltungsbereich dieses Gesetzes nicht vorhanden ist, von dem Land, in dem der Geschädigte zuletzt seinen Wohnsitz oder gewöhnlichen Aufenthalt gehabt hat oder
-
-c) bei minderjährigen Geschädigten, wenn die Wohnsitzvoraussetzungen der Buchstaben a oder b nicht gegeben sind, von dem Land, in dem der Elternteil oder Sorgeberechtigte des Geschädigten, mit dem der Geschädigte in häuslicher Gemeinschaft lebt, seinen Wohnsitz oder gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes hat oder, falls ein solcher Wohnsitz oder gewöhnlicher Aufenthalt nicht gegeben ist, zuletzt seinen Wohnsitz oder gewöhnlichen Aufenthalt gehabt hat,
-
-3. in den Fällen des § 60 Abs. 3 von dem Land, in dem der Geschädigte seinen Wohnsitz oder gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes hat oder erstmalig nimmt. Die Zuständigkeit für bereits anerkannte Fälle bleibt unberührt.
-
-(3) In den Fällen des § 63 Abs. 1 sind die Kosten, die durch das Hinzutreten der weiteren Schädigung verursacht werden, von dem Leistungsträger zu übernehmen, der für die Versorgung wegen der weiteren Schädigung zuständig ist.
-
 # § 67 – Pfändung
 
-(1) Die nach § 56 Abs. 2 Satz 2 und 3 zu zahlenden Entschädigungen können nach den für das Arbeitseinkommen geltenden Vorschriften der Zivilprozessordnung gepfändet werden.
-
-(2) Übertragung, Verpfändung und Pfändung der Ansprüche nach den §§ 60, 62 und 63 Abs. 1 richten sich nach den Vorschriften des Bundesversorgungsgesetzes.
+Die nach § 56 Abs. 2 Satz 2 und 3 zu zahlenden Entschädigungen können nach den für das Arbeitseinkommen geltenden Vorschriften der Zivilprozessordnung gepfändet werden.
 
 # § 68 – Rechtsweg
 
-(1) Für Streitigkeiten über Ansprüche nach den §§ 56 bis 58 und 65 gegen das nach § 66 Absatz 1 zur Zahlung verpflichtete Land ist der Verwaltungsrechtsweg gegeben. Der Verwaltungsrechtsweg ist auch gegeben, soweit andere Ansprüche wegen Entschädigung für Maßnahmen aufgrund dieses Gesetzes geltend gemacht werden. Artikel 14 Absatz 3 Satz 4 und Artikel 34 Satz 3 des Grundgesetzes bleiben unberührt.
+Für Streitigkeiten über Ansprüche nach den §§ 56 bis 58 und 65 gegen das nach § 66 Absatz 1 zur Zahlung verpflichtete Land ist der Verwaltungsrechtsweg gegeben. Der Verwaltungsrechtsweg ist auch gegeben, soweit andere Ansprüche wegen Entschädigung für Maßnahmen aufgrund dieses Gesetzes geltend gemacht werden. Artikel 14 Absatz 3 Satz 4 und Artikel 34 Satz 3 des Grundgesetzes bleiben unberührt.
 
 (1a) Für Streitigkeiten über Ansprüche nach einer auf Grund des § 20i Absatz 3 Satz 2 Nummer 1 Buchstabe a, auch in Verbindung mit Nummer 2, des Fünften Buches Sozialgesetzbuch sowie des § 5 Absatz 2 Satz 1 Nummer 4 Buchstabe c und f erlassenen Rechtsverordnung ist der Verwaltungsrechtsweg gegeben.
 
-(2) Für öffentlich-rechtliche Streitigkeiten in Angelegenheiten der §§ 60 bis 63 Abs. 1 ist der Rechtsweg vor den Sozialgerichten gegeben. Soweit das Sozialgerichtsgesetz besondere Vorschriften für die Kriegsopferversorgung enthält, gelten diese auch für Streitigkeiten nach Satz 1.
+(2) (weggefallen)
 
-(3) Absatz 2 gilt nicht, soweit Versorgung entsprechend den Vorschriften der Kriegsopferfürsorge nach den §§ 25 bis 27j des Bundesversorgungsgesetzes gewährt wird. Insoweit ist der Rechtsweg vor den Verwaltungsgerichten gegeben.
+(3) (weggefallen)
 
 # § 69 – Kosten
 

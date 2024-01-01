@@ -177,7 +177,19 @@ ein Wert, bei dessen Erreichen oder dessen Überschreitung der Versorgungsgrad e
 
 2. den Schwellenwert nach Anhang 7 Teil 3 Spalte D erreichen oder überschreiten.
 
-# § 9 – Evaluierung
+# § 9 – Sektor Siedlungsabfallentsorgung
+
+(1) Wegen ihrer besonderen Bedeutung für das Funktionieren des Gemeinwesens ist im Sektor Siedlungsabfallentsorgung die Entsorgung von Siedlungsabfällen kritische Dienstleistung im Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes.
+
+(2) Die Siedlungsabfallentsorgung wird in den Bereichen „Abfallsammlung und -beförderung“ und „Abfallverwertung und -beseitigung“ erbracht.
+
+(3) Im Sektor Siedlungsabfallentsorgung sind Kritische Infrastrukturen solche Anlagen oder Teile davon, die
+
+1. den in Anhang 8 Teil 3 Spalte B genannten Kategorien zuzuordnen sind und
+
+2. den Schwellenwert nach Anhang 8 Teil 3 Spalte D erreichen oder überschreiten.
+
+# § 10 – Evaluierung
 
 Zwei Jahre nach Inkrafttreten dieser Rechtsverordnung und danach alle zwei Jahre sind unter Beteiligung der in § 10 Absatz 1 Satz 1 des BSI-Gesetzes genannten Ressorts und unter Berücksichtigung von Erkenntnissen der Betreiber Kritischer Infrastrukturen, von deren Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
@@ -189,7 +201,8 @@ Zwei Jahre nach Inkrafttreten dieser Rechtsverordnung und danach alle zwei Jahre
 
 # Anhang 1 – (zu § 1 Nummer 4 und 5, § 2 Absatz 5 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Energie
 
-(Fundstelle: BGBl. I 2016,960 - 962)
+(Fundstelle: BGBl. I 2016, 960 - 962  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Für die in Teil 3 Spalte B genannten Anlagenkategorien gelten vorrangig die Begriffsbestimmungen nach § 3 des Energiewirtschaftsgesetzes und nach § 2 des Kraft-Wärme-Kopplungsgesetzes in der jeweils geltenden Fassung.
 
@@ -198,7 +211,7 @@ Zwei Jahre nach Inkrafttreten dieser Rechtsverordnung und danach alle zwei Jahre
 2.1  
 Erzeugungsanlage
 
-eine Anlage im Sinne des § 3 Nummer 18c des Energiewirtschaftsgesetzes. Diese Kategorie umfasst auch Anlagen zur Speicherung von elektrischer Energie sowie dezentrale Energieerzeugungsanlagen im Sinne des § 3 Nummer 11 des Energiewirtschaftsgesetzes.
+eine Anlage im Sinne des § 3 Nummer 18d des Energiewirtschaftsgesetzes. Diese Kategorie umfasst auch Anlagen zur Speicherung von elektrischer Energie sowie dezentrale Energieerzeugungsanlagen im Sinne des § 3 Nummer 11 des Energiewirtschaftsgesetzes.
 
 2.2  
 Anlage oder System zur Bündelung und Steuerung elektrischer Leistung
@@ -243,7 +256,7 @@ eine Netzkoppelstelle, die in der Regel zwischen einem deutschen Fernleitungsnet
 2.10  
 Gasspeicher
 
-eine Speicheranlage im Sinne des § 3 Nummer 31 des Energiewirtschaftsgesetzes.
+eine Speicheranlage im Sinne des § 3 Nummer 19c des Energiewirtschaftsgesetzes.
 
 2.11  
 Gasverteilernetz
@@ -251,7 +264,7 @@ Gasverteilernetz
 ein Netz zur Verteilung von Gas im Sinne des § 3 Nummer 37 des Energiewirtschaftsgesetzes.
 
 2.12  
-Gashandelssystem
+Gas- oder Kapazitätshandelssystem
 
 eine Anlage oder ein elektronisches Handelssystem für den Handel von Gasmengen oder -kapazitäten.
 
@@ -335,6 +348,9 @@ d) unter gemeinsamer Leitung stehen.
 |:--------------------------------------------------------:|
 | 900 GWh/Jahr ≈ 908 GWh/Jahr = 1 815 kWh / Jahr x 500 000 |
 
+  
+  
+
 Die durchschnittliche elektrische Arbeit zur Versorgung von 500 000 Personen im Jahr entspricht im Falle der Nummern 1.1.1 und 1.1.2 einer installierten Nettonennleistung von:  
   
 
@@ -342,46 +358,83 @@ Die durchschnittliche elektrische Arbeit zur Versorgung von 500 000 Personen im
 |:----------------------------------------:|
 | 104 MW ≈ (908 GWh/Jahr) / (8 760 h/Jahr) |
 
-Der Schwellenwert von 36 MW für zur Erbringung von Primärregelleistung präqualifizierter Anlagen ergibt sich aus Artikel 5 Absatz 3 der Verordnung (EU) 2016/631 der Kommission vom 14. April 2016 zur Festlegung eines Netzkodex mit Netzanschlussbestimmungen für Stromerzeuger.
-
-9. Der für die Anlagenkategorien des Teils 3 Nummer 1.4.1 genannte Schwellenwert ist unter Annahme eines Gesamthandelsvolumens von rund 600 000 GWh und eines Durchschnittshandelsvolumens pro Person pro Jahr von 7,46 MWh und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:  
+  
   
 
-|                                     |
-|:-----------------------------------:|
-| 3,7 TWh ≈ 7,46 MWh / Jahr x 500 000 |
+Der Schwellenwert von 36 MW für zur Erbringung von Primärregelleistung präqualifizierter Anlagen ergibt sich aus Artikel 5 Absatz 3 der Verordnung (EU) 2016/631 der Kommission vom 14. April 2016 zur Festlegung eines Netzkodex mit Netzanschlussbestimmungen für Stromerzeuger.
+
+9. Der für die Anlagenkategorien des Teils 3 Nummer 1.4.1 genannte Schwellenwert ist unter Annahme eines Gesamthandelsvolumens rund 7 400 TWh und eines Durchschnittshandelsvolumens pro Person pro Jahr von 92,6 MWh und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
+
+  
+  
+
+|                                    |
+|:----------------------------------:|
+| 46,3 TWh ≈ 92,6 MWh/Jahr x 500 000 |
+
+  
+  
 
 10. Der für die Anlagenkategorien des Teils 3 Nummer 2 genannte Schwellenwert ist unter Annahme eines Durchschnittsverbrauchs von 10 380 kWh pro versorgter Person pro Jahr und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
+
+  
+  
 
 |                                            |
 |:------------------------------------------:|
 | 5 190 GWh/Jahr = 10 380 kWh/Jahr x 500 000 |
 
+  
+  
+
 11. Der für die Anlagenkategorien des Teils 3 Nummer 3.1.2, 3.1.3, 3.2.2, 3.2.3, 3.3.1 und 3.3.3 genannte Schwellenwert ist unter Annahme einer durchschnittlichen Produktionsmenge von 0,84 Tonnen Kraftstoff zur Versorgung einer Person pro Jahr und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
+
+  
+  
 
 |                                        |
 |:--------------------------------------:|
 | 420 000 t/Jahr = 0,84 t/Jahr x 500 000 |
 
+  
+  
+
 12. Der für Erdöl in den Anlagenkategorien des Teils 3 Nummer 3.1.1, 3.1.3, 3.2.1, 3.2.2, 3.2.3 und 3.4.1 genannte Schwellenwert ist unter Annahme einer durchschnittlichen Produktionsmenge von 1,24 Tonnen leichtem Heizöl zur Versorgung einer Person pro Jahr und damit einer durchschnittlichen Gesamtproduktionsmenge von 620 000 Tonnen leichtem Heizöl für 500 000 versorgte Personen sowie unter der Annahme, dass aus einer Tonne Rohöl etwa 0,14 Tonnen leichtes Heizöl hergestellt werden, wie folgt berechnet:
+
+  
+  
 
 |                                          |
 |:----------------------------------------:|
 | 4 400 000 t/Jahr = 620 000 t/Jahr / 0,14 |
 
+  
+  
+
 13. Der für Kraftstoff in den Anlagenkategorien des Teils 3 Nummer 3.1.2, 3.1.3, 3.2.1, 3.2.2, 3.2.3, 3.3.1, 3.3.2, 3.3.3 und 3.4.1 genannte Schwellenwert ist unter Annahme einer durchschnittlichen Produktionsmenge von 0,84 Tonnen Kraftstoff zur Versorgung einer Person pro Jahr und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
+
+  
+  
 
 |                                        |
 |:--------------------------------------:|
 | 420 000 t/Jahr = 0,84 t/Jahr x 500 000 |
 
-14. Der für Flugkraftstoff in den Anlagenkategorien des Teils 3 Nummer 3.1.2, 3.1.3, 3.2.1., 3.2.2, 3.2.3, 3.3.1, 3.3.2, 3.3.3 und 3.4.1 genannte Schwellenwert ist unter Annahme eines Durchschnittsverbrauchs einer Person pro Jahr von 0,1275 Tonnen Flugkraftstoff und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
+  
+  
+
+14. Der für Flugkraftstoff in den Anlagenkategorien des Teils 3 Nummer 3.1.2, 3.1.3, 3.2.1., 3.2.2, 3.2.3, 3.3.1, 3.3.2, 3.3.3 und 3.4.1 genannte Schwellenwert ist unter Annahme eines Durchschnittsverbrauchs einer Person pro Jahr von 0,1275 Tonnen Flugkraftstoff und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:  
+  
 
 |                                         |
 |:---------------------------------------:|
 | 63 750 t/Jahr = 0,1275 t/Jahr x 500 000 |
 
-15. Der für Heizöl in den Anlagenkategorien des Teils 3 Nummer 3.1.2, 3.1.3, 3.2.1, 3.2.2, 3.2.3, 3.3.1, 3.3.3 und 3.4.1 genannte Schwellenwert ist unter Annahme einer durchschnittlichen Produktionsmenge von 1,24 Tonnen leichtem Heizöl zur Versorgung einer Person pro Jahr und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
+  
+  
+
+15. Der für Heizöl in den Anlagenkategorien des Teils 3 Nummer 3.1.2, 3.1.3, 3.2.1, 3.2.2, 3.2.3, 3.3.1, 3.3.3 und 3.4.1 genannte Schwellenwert ist unter Annahme einer durchschnittlichen Produktionsmenge von 1,24 Tonnen leichtem Heizöl zur Versorgung einer Person pro Jahr und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:  
+  
 
 |                                        |
 |:--------------------------------------:|
@@ -702,7 +755,8 @@ d) unter gemeinsamer Leitung stehen.
 
 # Anhang 6 – (zu § 1 Nummer 4 und 5, § 7 Absatz 7 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Finanz- und Versicherungswesen
 
-(Fundstelle: BGBl. I 2017, 1913 — 1918)
+(Fundstelle: BGBl. I 2017, 1913 — 1918  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Im Sinne von Anhang 6 ist oder sind
 
@@ -1103,3 +1157,101 @@ Das ermittelte Gewicht von 17 550 000 Tonnen pro Jahr entspricht unter Annahme
 |                                                                   |
 |:-----------------------------------------------------------------:|
 | 53 200 000 Sendungen/Jahr ≈ (17 550 000 t/Jahr) / (0,33t/Sendung) |
+
+# Anhang 8 – (zu § 1 Nummer 4 und 5, § 9 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Siedlungsabfallentsorgung
+
+(Fundstelle: BGBl. 2023 I Nr. 339, S. 2 – 4)
+
+1. Im Sinne von Anhang 8 ist oder sind
+
+1.1  
+Anlage zur Disposition der Siedlungsabfallsammlung oder -beförderung
+
+eine Anlage zur Planung, Steuerung, Optimierung und Durchführung der Sammlung oder Beförderung von Siedlungsabfällen, zum Beispiel Dispositionssysteme, Flottenmanagement- oder Enterprise Resource Planning-Systeme (ERP-Systeme).
+
+1.2  
+Anlage zur Lagerung, Zwischenlagerung und Umladung von Siedlungsabfällen
+
+eine Anlage zur Planung, Steuerung, Optimierung und Durchführung der Lagerung, Zwischenlagerung und Umladung von Siedlungsabfällen zum Zweck des Weitertransports, zum Beispiel Zwischenlager oder Umladestationen.
+
+1.3  
+Anlage zur thermischen Behandlung von Siedlungsabfällen
+
+eine Anlage zur Verbrennung von Siedlungsabfällen, zum Beispiel Müllverbrennungsanlagen (MVA) oder Ersatzbrennstoffkraftwerke (EBS-Kraftwerke).
+
+1.4  
+Anlage zur mechanisch-biologischen oder mechanisch-physikalischen Behandlung von Siedlungsabfällen
+
+eine Anlage zur Trennung, Sortierung, Zerkleinerung, Pressung, aeroben oder anaeroben Behandlung von Siedlungsabfällen, zum Beispiel mechanisch-biologische Abfallbehandlungsanlagen (MBA), mechanisch-biologische Stabilisierungsanlagen (MBS) oder mechanisch-physikalische Abfallbehandlungsanlagen (MPS).
+
+1.5  
+Anlage zur biologischen Behandlung von Siedlungsabfällen
+
+eine Anlage zum hygienisierenden oder biologisch-stabilisierenden Behandeln von getrennt erfassten Bioabfällen, zum Beispiel Kompostierungs- und Vergärungsanlagen.
+
+1.6  
+Anlage zur mechanischen Behandlung von Siedlungsabfällen
+
+eine Anlage zur Zerkleinerung, Klassierung, Sortierung, Pressung und Palettierung von Siedlungsabfällen.
+
+1.7  
+Anlage zur Sortierung von Siedlungsabfällen
+
+eine Anlage zur Trennung und Sortierung von Siedlungsabfällen, zum Beispiel Sortieranlagen.
+
+2. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
+
+3. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln.
+
+4. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
+
+a) auf demselben Betriebsgelände liegen,
+
+b) mit gemeinsamen Betriebseinrichtungen verbunden sind,
+
+c) einem vergleichbaren technischen Zweck dienen und
+
+d) unter gemeinsamer Leitung stehen.
+
+5. Der für die Anlagekategorien des Teils 3 genannte Schwellenwert (Rest- oder gemischter Gewerbeabfall) ist unter Annahme eines durchschnittlichen Abfallaufkommens von 159 kg Rest- oder Hausmüll sowie hausmüllähnliche Gewerbeabfälle, in Bezug auf übliche Restmülltonnen, einer Person pro Jahr wie folgt berechnet:  
+  
+
+|                              |
+|:----------------------------:|
+| 79 500 Mg = 159 kg x 500 000 |
+
+6. Der für die Anlagekategorien des Teils 3 genannte Schwellenwert (Bioabfall) ist unter Annahme eines durchschnittlichen Abfallaufkommens von 67 kg Abfälle aus der Biotonne einer Person pro Jahr wie folgt berechnet:
+
+  
+  
+
+|                             |
+|:---------------------------:|
+| 33 500 Mg = 67 kg x 500 000 |
+
+7. Der für die Anlagekategorien des Teils 3 genannte Schwellenwert (LVP- und Kunststoffabfall) ist unter Annahme eines durchschnittlichen Abfallaufkommens von 35 kg Leichtverpackungen und 2 kg Kunststoff (Gesamtmenge: 37 kg) einer Person pro Jahr wie folgt berechnet:
+
+  
+  
+
+|                             |
+|:---------------------------:|
+| 18 500 Mg = 37 kg x 500 000 |
+
+8. Der für die Anlagekategorien des Teils 3 genannte Schwellenwert (PPK-Abfall) ist unter Annahme eines durchschnittlichen Abfallaufkommens von 65 kg Papier, Pappe und Karton einer Person pro Jahr wie folgt berechnet:
+
+  
+  
+
+|                             |
+|:---------------------------:|
+| 32 500 Mg = 65 kg x 500 000 |
+
+9. Der für die Anlagekategorien des Teils 3 genannte Schwellenwert (Glasabfall) ist unter Annahme eines durchschnittlichen Abfallaufkommens von 24 kg Glas einer Person pro Jahr wie folgt berechnet:
+
+  
+  
+
+|                             |
+|:---------------------------:|
+| 12 000 Mg = 24 kg x 500 000 |

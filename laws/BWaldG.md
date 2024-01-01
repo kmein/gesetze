@@ -439,7 +439,7 @@ erhoben werden können und dabei nähere Vorschriften über den Zeitpunkt, die a
 
 # § 42 – Auskunftspflicht
 
-(1) Natürliche und juristische Personen und nicht rechtsfähige Personenvereinigungen haben den zuständigen Behörden auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der den Behörden durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich sind.
+(1) Natürliche und juristische Personen und sonstige Personenvereinigungen haben den zuständigen Behörden auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der den Behörden durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich sind.
 
 (2) Der Auskunftspflichtige kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 

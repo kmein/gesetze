@@ -413,6 +413,12 @@ Untersagung der Fiskalvertretung
 
 Besondere Pflichten für Betreiber einer elektronischen Schnittstelle
 
+ 
+
+§ 22g
+
+Besondere Pflichten für Zahlungsdienstleister, Verordnungsermächtigung
+
 VI\.
 
 Sonderregelungen
@@ -1075,7 +1081,7 @@ f) die Umsätze und die Vermittlung der Umsätze von Anteilen an Gesellschaften 
 
 g) die Übernahme von Verbindlichkeiten, von Bürgschaften und anderen Sicherheiten sowie die Vermittlung dieser Umsätze,
 
-h) die Verwaltung von Organismen für gemeinsame Anlagen in Wertpapieren im Sinne des § 1 Absatz 2 des Kapitalanlagegesetzbuchs, die Verwaltung von mit diesen vergleichbaren alternativen Investmentfonds im Sinne des § 1 Absatz 3 des Kapitalanlagegesetzbuchs, die Verwaltung von Wagniskapitalfonds und die Verwaltung von Versorgungseinrichtungen im Sinne des Versicherungsaufsichtsgesetzes,
+h) die Verwaltung von Organismen für gemeinsame Anlagen in Wertpapieren im Sinne des § 1 Absatz 2 des Kapitalanlagegesetzbuchs, die Verwaltung von alternativen Investmentfonds im Sinne des § 1 Absatz 3 des Kapitalanlagegesetzbuchs und die Verwaltung von Versorgungseinrichtungen im Sinne des Versicherungsaufsichtsgesetzes,
 
 i) die Umsätze der im Inland gültigen amtlichen Wertzeichen zum aufgedruckten Wert;
 
@@ -1164,11 +1170,11 @@ Sanitäts- und Rettungsdiensten, die die landesrechtlichen Voraussetzungen erfü
 
 cc) Einrichtungen, die nach § 75 des Fünften Buches Sozialgesetzbuch die Durchführung des ärztlichen Notdienstes sicherstellen;
 
-15. die Umsätze der gesetzlichen Träger der Sozialversicherung, der gesetzlichen Träger der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch Sozialgesetzbuch sowie der gemeinsamen Einrichtungen nach § 44b Abs. 1 des Zweiten Buches Sozialgesetzbuch, der örtlichen und überörtlichen Träger der Sozialhilfe sowie der Verwaltungsbehörden und sonstigen Stellen der Kriegsopferversorgung einschließlich der Träger der Kriegsopferfürsorge
+15. die Umsätze der gesetzlichen Träger der Sozialversicherung, der gesetzlichen Träger der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch Sozialgesetzbuch sowie der gemeinsamen Einrichtungen nach § 44b Abs. 1 des Zweiten Buches Sozialgesetzbuch, der örtlichen und überörtlichen Träger der Sozialhilfe sowie der nach Bundes- oder Landesrecht zur Durchführung des Vierzehnten Buches Sozialgesetzbuch zuständigen Verwaltungsbehörden
 
 a) untereinander,
 
-b) an die Versicherten, die Bezieher von Leistungen nach dem Zweiten Buch Sozialgesetzbuch, die Empfänger von Sozialhilfe oder die Versorgungsberechtigten;
+b) an die Versicherten, die Bezieher von Leistungen nach dem Zweiten Buch Sozialgesetzbuch, die Empfänger von Sozialhilfe oder die Berechtigten der Sozialen Entschädigung;
 
 15a. die auf Gesetz beruhenden Leistungen der Medizinischen Dienste (§ 278 SGB V) und des Medizinischen Dienstes Bund (§ 281 SGB V) untereinander und für die gesetzlichen Träger der Sozialversicherung und deren Verbände und für die Träger der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch Sozialgesetzbuch sowie die gemeinsamen Einrichtungen nach § 44b des Zweiten Buches Sozialgesetzbuch;
 
@@ -1208,7 +1214,7 @@ k) Einrichtungen, die als Betreuer nach § 1814 Absatz 1 des Bürgerlichen Geset
 
 l) Einrichtungen, mit denen eine Vereinbarung zur Pflegeberatung nach § 7a des Elften Buches Sozialgesetzbuch besteht, oder
 
-m) Einrichtungen, bei denen die Betreuungs- oder Pflegekosten oder die Kosten für eng mit der Betreuung oder Pflege verbundene Leistungen in mindestens 25 Prozent der Fälle von den gesetzlichen Trägern der Sozialversicherung, den Trägern der Sozialhilfe, den Trägern der Eingliederungshilfe nach § 94 des Neunten Buches Sozialgesetzbuch oder der für die Durchführung der Kriegsopferversorgung zuständigen Versorgungsverwaltung einschließlich der Träger der Kriegsopferfürsorge ganz oder zum überwiegenden Teil vergütet werden.
+m) Einrichtungen, bei denen die Betreuungs- oder Pflegekosten oder die Kosten für eng mit der Betreuung oder Pflege verbundene Leistungen in mindestens 25 Prozent der Fälle von den gesetzlichen Trägern der Sozialversicherung, den Trägern der Sozialhilfe, den Trägern der Eingliederungshilfe nach § 94 des Neunten Buches Sozialgesetzbuch oder den für die Durchführung des Vierzehnten Buches Sozialgesetzbuch zuständigen Stellen ganz oder zum überwiegenden Teil vergütet werden.
 
 Leistungen im Sinne des Satzes 1, die von Einrichtungen nach den Buchstaben b bis m erbracht werden, sind befreit, soweit es sich ihrer Art nach um Leistungen handelt, auf die sich die Anerkennung, der Vertrag oder die Vereinbarung nach Sozialrecht oder die Vergütung jeweils bezieht;
 
@@ -1266,7 +1272,7 @@ auf Grund gesetzlicher Regelungen im Bereich der sozialen Sicherheit tätig werd
 bb)  
 Leistungen erbringen, die im vorangegangenen Kalenderjahr ganz oder zum überwiegenden Teil durch Einrichtungen des öffentlichen Rechts vergütet wurden,
 
-c) Verpflegungsdienstleistungen und Beherbergungsleistungen gegenüber Kindern in Kindertageseinrichtungen, Studierenden und Schülern an Hochschulen im Sinne der Hochschulgesetze der Länder, an einer staatlichen oder staatlich anerkannten Berufsakademie, an öffentlichen Schulen und an Ersatzschulen, die gemäß Artikel 7 Absatz 4 des Grundgesetzes staatlich genehmigt oder nach Landesrecht erlaubt sind, sowie an staatlich anerkannten Ergänzungsschulen und an Berufsschulheimen durch Einrichtungen des öffentlichen Rechts oder durch andere Einrichtungen, die keine systematische Gewinnerzielung anstreben; etwaige Gewinne, die trotzdem anfallen, dürfen nicht verteilt, sondern müssen zur Erhaltung oder Verbesserung der durch die Einrichtung erbrachten Leistungen verwendet werden.
+c) Verpflegungsdienstleistungen gegenüber Studierenden und Schülern an Hochschulen im Sinne der Hochschulgesetze der Länder, an einer staatlichen oder staatlich anerkannten Berufsakademie, an öffentlichen Schulen und an Ersatzschulen, die gemäß Artikel 7 Absatz 4 des Grundgesetzes staatlich genehmigt oder nach Landesrecht erlaubt sind, sowie an staatlich anerkannten Ergänzungsschulen durch Einrichtungen des öffentlichen Rechts oder durch andere Einrichtungen, die keine systematische Gewinnerzielung anstreben; etwaige Gewinne, die trotzdem anfallen, dürfen nicht verteilt, sondern müssen zur Erhaltung oder Verbesserung der durch die Einrichtung erbrachten Leistungen verwendet werden.
 
 Steuerfrei sind auch die Beherbergung, Beköstigung und die üblichen Naturalleistungen, die die Unternehmer den Personen, die bei der Erbringung der Leistungen nach Satz 1 Buchstabe a und b beteiligt sind, als Vergütung für die geleisteten Dienste gewähren. Kinder und Jugendliche im Sinne von Satz 1 Buchstabe a und b sind alle Personen, die noch nicht 27 Jahre alt sind. Für die in den Nummern 15b, 15c, 21, 24 und 25 bezeichneten Leistungen kommt die Steuerbefreiung nur unter den dort genannten Voraussetzungen in Betracht;
 
@@ -2785,6 +2791,72 @@ Unternehmer ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftslei
 
 (+++ § 22f: Zur Anwendung vgl. § 27 +++)
 
+# § 22g – Besondere Pflichten für Zahlungsdienstleister, Verordnungsermächtigung
+
+(1) Zahlungsdienstleister haben bei grenzüberschreitenden Zahlungen Folgendes aufzuzeichnen:
+
+1. zum Zahlungsempfänger von den ihnen vorliegenden Informationen
+
+a) Name oder die Bezeichnung des Unternehmens des Zahlungsempfängers,
+
+b) jede Umsatzsteuer-Identifikationsnummer,
+
+c) jede sonstige Steuernummer,
+
+d) Adresse des Zahlungsempfängers und
+
+e) IBAN des Zahlungskontos des Zahlungsempfängers oder, falls die IBAN nicht vorhanden ist, jedes andere Kennzeichen, das den Zahlungsempfänger eindeutig identifiziert und seinen Ort angibt,
+
+2. die BIC oder jedes andere Geschäftskennzeichen, das eindeutig den Zahlungsdienstleister, der im Namen des Zahlungsempfängers handelt, identifiziert und seinen Ort angibt, wenn der Zahlungsempfänger Geldmittel erhält, jedoch bei diesem kein Zahlungskonto innehat, sowie
+
+3. genaue Angaben zu allen im jeweiligen Kalendervierteljahr erbrachten grenzüberschreitenden Zahlungen und in diesem Zusammenhang stehenden, erkannten Zahlungserstattungen:
+
+a) Datum und Uhrzeit der Zahlung oder der Zahlungserstattung,
+
+b) Betrag und Währung der Zahlung oder der Zahlungserstattung,
+
+c) den Mitgliedstaat der Europäischen Union, aus dem die Zahlung stammt, oder den Mitgliedstaat der Europäischen Union, in dem die Zahlungserstattung erfolgt, sowie die Informationen, die für die Ermittlung des Ursprungs der Zahlung oder für die Ermittlung der Bestimmung der Erstattung genutzt worden sind,
+
+d) jede Bezugnahme, die die Zahlung oder Zahlungserstattung eindeutig ausweist, und
+
+e) gegebenenfalls die Angabe, dass die Zahlung in den Räumlichkeiten des leistenden Unternehmers eingeleitet wird.
+
+Zur Führung der Aufzeichnungen im Sinne des Satzes 1 sind Zahlungsdienstleister verpflichtet, wenn sie je Kalendervierteljahr im Rahmen ihrer jeweiligen Zahlungsdienste mehr als 25 grenzüberschreitende Zahlungen an denselben Zahlungsempfänger tätigen. Bei der Berechnung sind alle Kennzeichen des Zahlungsempfängers im Sinne des Satzes 1 Nummer 1 Buchstabe e und Geschäftskennzeichen des Zahlungsdienstleisters im Sinne des Satzes 1 Nummer 2 einzubeziehen. Die Anzahl der grenzüberschreitenden Zahlungen wird unter Zugrundelegung der Zahlungsdienste berechnet, die der Zahlungsdienstleister je Mitgliedstaat der Europäischen Union und je Kennzeichen eines Zahlungsempfängers erbringt. Wenn der Zahlungsdienstleister über die Information verfügt, dass der Zahlungsempfänger mehrere Kennzeichen hat, erfolgt die Berechnung je Zahlungsempfänger.
+
+(2) Grenzüberschreitende Zahlungen im Sinne des Absatzes 1 Satz 1 sind Zahlungen, die von einem Zahler, der sich in einem Mitgliedstaat der Europäischen Union mit Ausnahme der in Artikel 6 der Richtlinie 2006/112/EG in der jeweils gültigen Fassung genannten Gebiete befindet, erbracht werden an einen Zahlungsempfänger, der sich in einem anderen Mitgliedstaat der Europäischen Union oder im Drittlandsgebiet befindet. Zur Bestimmung des Ortes des Zahlers und des Zahlungsempfängers ist die Kennung der IBAN des Zahlungskontos des Zahlers und des Zahlungsempfängers oder ein anderes Kennzeichen, das eindeutig den Zahler oder den Zahlungsempfänger identifiziert und seinen Ort angibt, heranzuziehen. Sofern eine Zuordnung nach Satz 2 mangels vorliegender entsprechender Kennzeichen ausscheidet, ist der Ort des Zahlungsdienstleisters maßgeblich, der im Namen des Zahlers oder des Zahlungsempfängers handelt, anhand der BIC oder eines anderen Geschäftskennzeichens, das eindeutig den Zahlungsdienstleister identifiziert und seinen Ort angibt.
+
+(3) Die Anforderung nach Absatz 1 Satz 1 gilt nicht für Zahlungsdienste, die von den Zahlungsdienstleistern des Zahlers in Bezug auf jegliche Zahlung erbracht werden, bei der mindestens einer der Zahlungsdienstleister des Zahlungsempfängers gemäß seiner BIC oder einem anderen Geschäftskennzeichen, die oder das den Zahlungsdienstleister und dessen Ort eindeutig identifiziert, in einem Mitgliedstaat der Europäischen Union ansässig ist. Die Zahlungsdienstleister des Zahlers müssen diese Zahlungsdienste jedoch in die Berechnung nach Absatz 1 Satz 2 aufnehmen.
+
+(4) Der Zahlungsdienstleister hat die Aufzeichnungen im Sinne des Absatzes 1 Satz 1 jeweils für das Kalendervierteljahr sowie die eigene BIC oder sonstige Geschäftskennzeichen zur eindeutigen Identifizierung des Zahlungsdienstleisters bis zum Ende des auf den Ablauf des Kalendervierteljahres folgenden Kalendermonats (Meldezeitraum) vollständig und richtig dem Bundeszentralamt für Steuern zu übermitteln. Die Übermittlung hat nach dem amtlich vorgeschriebenen Datensatz und Datenformat über die amtlich bestimmte Schnittstelle zu erfolgen.
+
+(5) Erkennt der Zahlungsdienstleister nachträglich, dass die übermittelten Zahlungsinformationen unrichtig oder unvollständig sind, so ist er verpflichtet, die fehlerhaften Angaben innerhalb eines Monats nach Erkenntnis zu berichtigen oder zu vervollständigen.
+
+(6) Der Zahlungsdienstleister hat die Aufzeichnungen im Sinne des Absatzes 1 Satz 1 in elektronischer Form für einen Zeitraum von drei Kalenderjahren nach Ablauf des Kalenderjahres, in dem die Zahlung ausgeführt wurde, aufzubewahren.
+
+(7) Im Sinne dieses Gesetzes bezeichnet der Begriff
+
+1. „Zahlungsdienstleister“ die in § 1 Absatz 1 Satz 1 Nummer 1 bis 3 des Zahlungsdiensteaufsichtsgesetzes aufgeführten Zahlungsdienstleister oder natürliche oder juristische Personen, für die eine Ausnahme gemäß Artikel 32 der Richtlinie (EU) 2015/2366 des Europäischen Parlaments und des Rates vom 25. November 2015 über Zahlungsdienste im Binnenmarkt, zur Änderung der Richtlinien 2002/65/EG, 2009/110/EG und 2013/36/EU und der Verordnung (EU) Nr. 1093/2010 sowie zur Aufhebung der Richtlinie 2007/64/EG (ABl. L 337 vom 23.12.2015, S. 35; L 169 vom 28.6.2016, S. 18; L 102 vom 23.4.2018, S. 97; L 126 vom 23.5.2018, S. 10) gilt, die im Inland ihren Sitz, ihre Hauptverwaltung oder eine Zweigniederlassung im Sinne des § 1 Absatz 5 des Zahlungsdiensteaufsichtsgesetzes haben und von dort Zahlungsdienste erbringen oder Zahlungsdienstleister, die im Sinne von Artikel 243b Absatz 4 Buchstabe b der Richtlinie (EU) 2020/284 des Rates vom 18. Februar 2020 zur Änderung der Richtlinie 2006/112/EG im Hinblick auf die Einführung bestimmter Anforderungen für Zahlungsdienstleister (ABl. L 62 vom 2.3.2020, S. 7) in Verbindung mit § 1 Absatz 4 Satz 2 des Zahlungsdiensteaufsichtsgesetzes im Inland im Wege des grenzüberschreitenden Dienstleistungsverkehrs Zahlungsdienste erbringen oder durch einen Agenten im Sinne des § 1 Absatz 9 des Zahlungsdiensteaufsichtsgesetzes ausführen lassen, ohne im Inland ansässig zu sein;
+
+2. „Zahlungsdienst“ eine der in § 1 Absatz 1 Satz 2 Nummer 3 bis 6 des Zahlungsdiensteaufsichtsgesetzes genannten gewerblichen Tätigkeiten;
+
+3. „Zahlung“ vorbehaltlich der in § 2 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes vorgesehenen Ausnahmen einen Zahlungsvorgang gemäß der Definition in § 675f Absatz 4 Satz 1 des Bürgerlichen Gesetzbuches oder ein Finanztransfergeschäft gemäß § 1 Absatz 1 Satz 2 Nummer 6 des Zahlungsdiensteaufsichtsgesetzes;
+
+4. „Zahler“ eine Person gemäß der Definition in § 1 Absatz 15 des Zahlungsdiensteaufsichtsgesetzes;
+
+5. „Zahlungsempfänger“ eine Person gemäß der Definition in § 1 Absatz 16 des Zahlungsdiensteaufsichtsgesetzes;
+
+6. „Zahlungskonto“ ein Konto gemäß der Definition in § 1 Absatz 17 des Zahlungsdiensteaufsichtsgesetzes;
+
+7. „IBAN“ eine internationale Nummer gemäß der Definition in Artikel 2 Nummer 15 der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), geändert durch die Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom 20.3.2014, S. 1);
+
+8. „BIC“ eine internationale Bankleitzahl gemäß der Definition in Artikel 2 Nummer 16 der Verordnung (EU) Nr. 260/2012.
+
+(8) Das Bundeszentralamt für Steuern nimmt die nach Absatz 4 übermittelten Zahlungsinformationen entgegen und führt eine ausschließlich automatisierte Prüfung der ihm übermittelten Daten daraufhin durch, ob diese Daten vollständig und schlüssig sind und ob der amtlich vorgeschriebene Datensatz verwendet worden ist. Das Bundeszentralamt für Steuern speichert diese Daten in einem elektronischen System nur für Zwecke dieser Prüfung bis zur Übermittlung an das zentrale elektronische Zahlungsinformationssystem. Das Bundeszentralamt für Steuern speichert und analysiert die Informationen, die ihm gemäß Artikel 24d in Verbindung mit Artikel 24c der Verordnung (EU) 2020/283 des Rates vom 18. Februar 2020 zur Änderung der Verordnung (EU) Nr. 904/2010 im Hinblick auf die Stärkung der Zusammenarbeit der Verwaltungsbehörden bei der Betrugsbekämpfung (ABl. L 62 vom 2.3.2020, S. 1) zugänglich sind, und stellt diese Daten den zuständigen Landesfinanzbehörden zur Verfügung. Das Bundeszentralamt für Steuern ist für die Prüfung der Einhaltung der Pflichten, die sich für Zahlungsdienstleister aus dieser Vorschrift ergeben, zuständig.
+
+(9) Die Verarbeitung personenbezogener Daten auf Grund der übermittelten Zahlungsinformationen der Zahlungsdienstleister durch Finanzbehörden ist ein Verwaltungsverfahren in Steuersachen im Sinne der Abgabenordnung.
+
+(10) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur Verarbeitung und Weiterverarbeitung der nach Absatz 8 Satz 3 erhobenen Daten zu erlassen.
+
 # § 23 – (weggefallen)
 
 # § 23a – Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
@@ -3063,13 +3135,19 @@ Satz 1 gilt entsprechend für die von einem Konsortium nach § 13b Absatz 5 gesc
 
 5. entgegen § 18a Absatz 1 bis 3 in Verbindung mit Absatz 7 Satz 1, Absatz 8 oder Absatz 9 eine Zusammenfassende Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt oder entgegen § 18a Absatz 10 eine Zusammenfassende Meldung nicht oder nicht rechtzeitig berichtigt,
 
-6. einer Rechtsverordnung nach § 18c zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf die Bußgeldvorschrift verweist, oder
+6. einer Rechtsverordnung nach § 18c zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf die Bußgeldvorschrift verweist,
 
-7. entgegen § 18d Satz 3 die dort bezeichneten Unterlagen nicht, nicht vollständig oder nicht rechtzeitig vorlegt.
+7. entgegen § 18d Satz 3 die dort bezeichneten Unterlagen nicht, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+8. entgegen § 22g Absatz 4 Satz 1 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+9. entgegen § 22g Absatz 5 eine Angabe nicht oder nicht rechtzeitig berichtigt und nicht oder nicht rechtzeitig vervollständigt oder
+
+10. entgegen § 22g Absatz 6 eine Aufzeichnung nicht oder nicht mindestens drei Kalenderjahre aufbewahrt.
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 2 Nummer 3 mit einer Geldbuße bis zu tausend Euro, in den übrigen Fällen des Absatzes 2 mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 2 Nummer 5 und 6 das Bundeszentralamt für Steuern.
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 2 Nummer 5, 6 und 8 bis 10 das Bundeszentralamt für Steuern.
 
 # § 26b – (weggefallen)
 

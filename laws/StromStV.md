@@ -385,11 +385,11 @@ Ein Batterieelektrofahrzeug nach Nummer 1 ist ein Kraftfahrzeug im Sinne des § 
 
 6. den Tod des Erlaubnisinhabers nach Ablauf von drei Monaten nach dem Ableben,
 
-7. die Auflösung der juristischen Person oder Personenvereinigung ohne Rechtspersönlichkeit, der die Erlaubnis erteilt worden ist,
+7. die Auflösung der juristischen Person oder Personenvereinigung, der die Erlaubnis erteilt worden ist,
 
 8. die Eröffnung des Insolvenzverfahrens über das Vermögen des Erlaubnisinhabers nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
 
-9. die Änderung der Firma oder des Inhabers bei einer Personengesellschaft oder Personenvereinigung ohne Rechtspersönlichkeit, die Verlegung der Niederlassung an einen anderen Ort nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
+9. die Änderung der Firma oder des Inhabers bei einer Personenvereinigung, die Verlegung der Niederlassung an einen anderen Ort nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
 
 soweit die folgenden Absätze zum Zeitpunkt des Erlöschens nichts anderes bestimmen.
 
@@ -815,7 +815,7 @@ Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich
 
 (1) Die Steuerentlastung nach § 9b des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom entnommen worden ist, beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist das Kalenderjahr. Bestimmt sich der maßgebende Zeitraum für die Zuordnung eines Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1, kann der Antragsteller abweichend von Satz 1 das Kalendervierteljahr oder das Kalenderhalbjahr als Entlastungsabschnitt wählen. Das Hauptzollamt kann im Fall des Satzes 2 auf Antrag auch den Kalendermonat als Entlastungsabschnitt zulassen. Eine Steuerentlastung wird in den Fällen der Sätze 2 und 3 jedoch nur gewährt, wenn der Entlastungsbetrag den Betrag nach § 9b Absatz 2 Satz 2 des Gesetzes bereits im jeweils ersten Entlastungsabschnitt eines Kalenderjahres überschreitet.
+(2) Entlastungsabschnitt ist das Kalenderjahr. Bestimmt sich der maßgebende Zeitraum für die Zuordnung eines Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1, kann der Antragsteller abweichend von Satz 1 das Kalendervierteljahr oder das Kalenderhalbjahr als Entlastungsabschnitt wählen. Das Hauptzollamt kann im Fall des Satzes 2 auf Antrag auch den Kalendermonat als Entlastungsabschnitt zulassen. Eine Steuerentlastung wird in den Fällen der Sätze 2 und 3 jedoch nur gewährt, wenn der Entlastungsbetrag den Betrag von 1 000 Euro bereits im jeweils ersten Entlastungsabschnitt eines Kalenderjahres überschreitet.
 
 (3) Der Antragsteller hat dem Antrag eine Beschreibung seiner wirtschaftlichen Tätigkeiten im maßgebenden Zeitraum nach amtlich vorgeschriebenem Vordruck beizufügen, es sei denn, die Beschreibung liegt dem Hauptzollamt bereits vor. Die Beschreibung muss es dem Hauptzollamt ermöglichen, das Unternehmen einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige zuzuordnen.
 

@@ -19,7 +19,7 @@
 
 (1) Für dieses Gesetz und die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen gelten die Begriffsbestimmungen der Absätze 2 bis 25, soweit in diesem Gesetz oder einer solchen Rechtsverordnung nichts anderes bestimmt ist.
 
-(2) Ausführer ist jede natürliche oder juristische Person oder Personengesellschaft, die zum Zeitpunkt der Ausfuhr Vertragspartner des Empfängers in einem Drittland ist und
+(2) Ausführer ist jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die zum Zeitpunkt der Ausfuhr Vertragspartner des Empfängers in einem Drittland ist und
 
 1. über die Lieferung von Waren aus dem Inland in ein Drittland bestimmt oder
 
@@ -35,7 +35,7 @@ Stehen nach dem Ausfuhrvertrag die Verfügungsrechte über die Güter einem Ausl
 
 (4) Ausfuhrsendung umfasst die Waren, die ein Ausführer gleichzeitig über dieselbe Ausgangszollstelle nach demselben Bestimmungsland ausführt.
 
-(5) Ausländer sind alle Personen und Personengesellschaften, die keine Inländer sind.
+(5) Ausländer sind alle Personen und rechtsfähigen Personengesellschaften, die keine Inländer sind.
 
 (6) Auslandswerte sind
 
@@ -55,7 +55,7 @@ Stehen nach dem Ausfuhrvertrag die Verfügungsrechte über die Güter einem Ausl
 
 2. die Beförderung von Waren des zollrechtlich freien Verkehrs aus einem anderen Mitgliedstaat der Europäischen Union durch das Inland.
 
-(10) Einführer ist jede natürliche oder juristische Person oder Personengesellschaft, die
+(10) Einführer ist jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die
 
 1. Waren aus Drittländern ins Inland liefert oder liefern lässt und über die Lieferung der Waren bestimmt oder
 
@@ -95,11 +95,11 @@ Kein Handels- und Vermittlungsgeschäft ist die ausschließliche Erbringung von 
 
 1. natürliche Personen mit Wohnsitz oder gewöhnlichem Aufenthalt im Inland,
 
-2. juristische Personen und Personengesellschaften mit Sitz oder Ort der Leitung im Inland,
+2. juristische Personen und rechtsfähige Personengesellschaften mit Sitz oder Ort der Leitung im Inland,
 
-3. Zweigniederlassungen ausländischer juristischer Personen oder Personengesellschaften, wenn die Zweigniederlassungen ihre Leitung im Inland haben und es für sie eine gesonderte Buchführung gibt, und
+3. Zweigniederlassungen ausländischer juristischer Personen oder rechtsfähiger Personengesellschaften, wenn die Zweigniederlassungen ihre Leitung im Inland haben und es für sie eine gesonderte Buchführung gibt, und
 
-4. Betriebsstätten ausländischer juristischer Personen oder Personengesellschaften im Inland, wenn die Betriebsstätten ihre Verwaltung im Inland haben.
+4. Betriebsstätten ausländischer juristischer Personen oder rechtsfähiger Personengesellschaften im Inland, wenn die Betriebsstätten ihre Verwaltung im Inland haben.
 
 (16) Technische Unterstützung ist jede technische Hilfe in Verbindung mit der Reparatur, der Entwicklung, der Herstellung, der Montage, der Erprobung, der Wartung oder jeder anderen technischen Dienstleistung. Technische Unterstützung kann in Form von Unterweisung, Ausbildung, Weitergabe von praktischen Kenntnissen oder Fähigkeiten oder in Form von Beratungsleistungen erfolgen. Sie umfasst auch mündliche, fernmündliche und elektronische Formen der Unterstützung.
 
@@ -109,15 +109,15 @@ Kein Handels- und Vermittlungsgeschäft ist die ausschließliche Erbringung von 
 
 1. natürliche Personen mit Wohnsitz oder gewöhnlichem Aufenthalt in der Europäischen Union,
 
-2. juristische Personen oder Personengesellschaften mit Sitz oder Ort der Leitung in der Europäischen Union,
+2. juristische Personen oder rechtsfähige Personengesellschaften mit Sitz oder Ort der Leitung in der Europäischen Union,
 
 3. Zweigniederlassungen juristischer Personen, deren Sitz oder Ort der Leitung in einem Drittland liegt, wenn die Zweigniederlassungen ihre Leitung in der Europäischen Union haben und es für sie eine gesonderte Buchführung gibt, und
 
 4. Betriebsstätten juristischer Personen aus Drittländern, wenn die Betriebsstätten ihre Verwaltung in der Europäischen Union haben.
 
-(19) Unionsfremde sind alle Personen und Personengesellschaften, die keine Unionsansässigen sind.
+(19) Unionsfremde sind alle Personen und rechtsfähige Personengesellschaften, die keine Unionsansässigen sind.
 
-(20) Verbringer ist jede natürliche oder juristische Person oder Personengesellschaft, die über die Verbringung von Gütern bestimmt und im Zeitpunkt der Verbringung
+(20) Verbringer ist jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die über die Verbringung von Gütern bestimmt und im Zeitpunkt der Verbringung
 
 1. im Fall des Absatzes 21 Nummer 1 Vertragspartner des Empfängers im Zollgebiet der Europäischen Union ist oder
 
@@ -151,7 +151,7 @@ Inländische Wertpapiere sind Wertpapiere, die ein Inländer oder, vor dem 9. Ma
 
 (1) Inländische Zweigniederlassungen und Betriebsstätten von Ausländern und ausländische Zweigniederlassungen und Betriebsstätten von Inländern gelten als rechtlich selbständig. Mehrere inländische Zweigniederlassungen und Betriebsstätten desselben Ausländers gelten als eine inländische Zweigniederlassung oder Betriebsstätte.
 
-(2) Handlungen, die von oder gegenüber Zweigniederlassungen oder Betriebsstätten im Sinne des Absatzes 1 vorgenommen werden, gelten als Rechtsgeschäfte, soweit solche Handlungen im Verhältnis zwischen natürlichen oder juristischen Personen oder Personengesellschaften Rechtsgeschäfte wären.
+(2) Handlungen, die von oder gegenüber Zweigniederlassungen oder Betriebsstätten im Sinne des Absatzes 1 vorgenommen werden, gelten als Rechtsgeschäfte, soweit solche Handlungen im Verhältnis zwischen natürlichen oder juristischen Personen oder rechtsfähigen Personengesellschaften Rechtsgeschäfte wären.
 
 (3) Durch Rechtsverordnung auf Grund dieses Gesetzes oder durch vollziehbare Anordnung gemäß § 6 kann vorgesehen werden, dass
 
@@ -237,9 +237,9 @@ Satz 1 gilt insbesondere dann, wenn infolge des Erwerbs die sicherheitspolitisch
 
 (1) Im Außenwirtschaftsverkehr können auch durch Verwaltungsakt Rechtsgeschäfte oder Handlungen beschränkt oder Handlungspflichten angeordnet werden, um eine im Einzelfall bestehende Gefahr für die in § 4 Absatz 1, auch in Verbindung mit Absatz 2, genannten Rechtsgüter abzuwenden. Insbesondere können
 
-1. die Verfügung über Gelder und wirtschaftliche Ressourcen bestimmter Personen oder Personengesellschaften oder
+1. die Verfügung über Gelder und wirtschaftliche Ressourcen bestimmter Personen oder rechtsfähiger Personengesellschaften oder
 
-2. das Bereitstellen von Geldern und wirtschaftlichen Ressourcen zu Gunsten bestimmter Personen oder Personengesellschaften
+2. das Bereitstellen von Geldern und wirtschaftlichen Ressourcen zu Gunsten bestimmter Personen oder rechtsfähiger Personengesellschaften
 
 beschränkt werden.
 

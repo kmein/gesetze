@@ -289,7 +289,7 @@ Angehörige im Sinne von Satz 1 Nummer 4 sind:
 
 # § 13 – Erhöhter Kleider- und Wäscheverschleiß
 
-Aufwendungen, die infolge eines dienstunfallbedingt erhöhten Kleider- und Wäscheverschleißes entstehen, werden von Amts wegen mit einem monatlichen Pauschbetrag in entsprechender Anwendung des § 15 des Bundesversorgungsgesetzes in Verbindung mit der Verordnung zur Durchführung des § 15 des Bundesversorgungsgesetzes erstattet. Die Entscheidung trifft die Dienstunfallfürsorgestelle auf Grund einer fachärztlichen Bescheinigung, die auch Aussagen zur Dauer des Zustands beinhaltet. Die in Sonderfällen den Pauschbetrag nachweislich übersteigenden Aufwendungen werden jeweils für das abgelaufene Kalenderjahr auf Antrag erstattet.
+Aufwendungen, die infolge eines dienstunfallbedingt erhöhten Kleider- und Wäscheverschleißes entstehen, werden von Amts wegen mit einem monatlichen Pauschbetrag in entsprechender Anwendung des § 46 Absatz 2 des Vierzehnten Buches Sozialgesetzbuch erstattet. Die Entscheidung trifft die Dienstunfallfürsorgestelle auf Grund einer fachärztlichen Bescheinigung, die auch Aussagen zur Dauer des Zustands beinhaltet. Die in Sonderfällen den Pauschbetrag nachweislich übersteigenden Aufwendungen werden jeweils für das abgelaufene Kalenderjahr auf Antrag erstattet.
 
 # § 14 – Kraftfahrzeughilfe
 

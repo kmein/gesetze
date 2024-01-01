@@ -5271,7 +5271,7 @@ Verletzte sind möglichst frühzeitig, regelmäßig schriftlich und soweit mögl
 
 2. sie können nach Maßgabe des Gewaltschutzgesetzes den Erlass von Anordnungen gegen den Beschuldigten beantragen;
 
-3. sie können nach Maßgabe des Opferentschädigungsgesetzes einen Versorgungsanspruch geltend machen;
+3. sie können nach Maßgabe des Vierzehnten Buches Sozialgesetzbuch einen Anspruch auf Soziale Entschädigung geltend machen;
 
 4. sie können nach Maßgabe von Verwaltungsvorschriften des Bundes oder der Länder gegebenenfalls Entschädigungsansprüche geltend machen;
 

@@ -426,7 +426,7 @@ Die §§ 16 bis 24 finden keine Anwendung auf Auszubildende, die Diakonissen, Di
 
 5. wirtschaftliche Ausbildungsstrukturen zu gewährleisten,
 
-werden die Kosten der Pflegeausbildung nach Teil 2 durch Ausgleichsfonds nach Maßgabe von § 26 Absatz 2 bis § 36 finanziert.
+werden die Kosten der Pflegeausbildung nach den Teilen 2 und 5 durch Ausgleichsfonds nach Maßgabe von § 26 Absatz 2 bis § 36 finanziert.
 
 (2) Die Ausgleichsfonds werden auf Landesebene organisiert und verwaltet.
 
@@ -450,9 +450,11 @@ werden die Kosten der Pflegeausbildung nach Teil 2 durch Ausgleichsfonds nach Ma
 
 # § 27 – Ausbildungskosten
 
-(1) Kosten der Pflegeberufsausbildung sind die Mehrkosten der Ausbildungsvergütungen und die Kosten der praktischen Ausbildung einschließlich der Kosten der Praxisanleitung. Zu den Ausbildungskosten gehören auch die Betriebskosten der Pflegeschulen nach § 6 Absatz 2 einschließlich der Kosten der Praxisbegleitung. Nicht zu den Ausbildungskosten gehören die Investitionskosten. Investitionskosten sind Aufwendungen für Maßnahmen einschließlich Kapitalkosten, die dazu bestimmt sind, die für den jeweiligen Betrieb notwendigen Gebäude und sonstigen abschreibungsfähigen Anlagegüter herzustellen, anzuschaffen, wiederzubeschaffen oder zu ergänzen.
+(1) Kosten der Ausbildung sind die Mehrkosten der Ausbildungsvergütungen und die Kosten der praktischen Ausbildung einschließlich der Kosten der Praxisanleitung. Zu den Ausbildungskosten gehören auch die Betriebskosten der Pflegeschulen nach § 6 Absatz 2 einschließlich der Kosten der Praxisbegleitung. Nicht zu den Ausbildungskosten gehören die Investitionskosten. Investitionskosten sind Aufwendungen für Maßnahmen einschließlich Kapitalkosten, die dazu bestimmt sind, die für den jeweiligen Betrieb notwendigen Gebäude und sonstigen abschreibungsfähigen Anlagegüter herzustellen, anzuschaffen, wiederzubeschaffen oder zu ergänzen.
 
 (2) Bei der Ermittlung der Mehrkosten der Ausbildungsvergütung sind Personen, die nach Teil 2 dieses Gesetzes in der Pflege ausgebildet werden, in Krankenhäusern und in stationären Pflegeeinrichtungen im Verhältnis 9,5 zu 1 auf die Stelle einer voll ausgebildeten Pflegefachkraft anzurechnen; bei ambulanten Pflegeeinrichtungen erfolgt eine Anrechnung im Verhältnis von 14 zu 1. Die Anrechnung nach Satz 1 erfolgt nicht für Personen im ersten Ausbildungsdrittel.
+
+(3) Zu den Kosten der Ausbildung gehören auch die Kosten der zusätzlichen Ausbildung nach § 14.
 
 (+++ § 27 Abs. 1 Satz 3: Zur Anwendung vgl. § 29 Abs. 3 +++)
 
@@ -472,7 +474,7 @@ werden die Kosten der Pflegeausbildung nach Teil 2 durch Ausgleichsfonds nach Ma
 
 (4) Soweit Ausbildungskosten nach anderen Vorschriften aufgebracht werden, ist dies bei der Festlegung des Ausbildungsbudgets mindernd zu berücksichtigen.
 
-(5) Das Ausbildungsbudget erfolgt als Pauschalbudget nach § 30. Es wird als Individualbudget vereinbart, wenn dies das jeweilige Land oder die Parteien nach Absatz 6 übereinstimmend bis zum 15. Januar des Vorjahres des Finanzierungszeitraums schriftlich erklären. Diese Erklärungen können auch nur für die Finanzierung der Träger der praktischen Ausbildung oder die Finanzierung der Pflegeschulen abgegeben werden.
+(5) Das Ausbildungsbudget erfolgt als Pauschalbudget nach § 30. Es wird als Individualbudget vereinbart, wenn dies das jeweilige Land oder die Parteien nach Absatz 6 übereinstimmend bis zum 15. Januar des Vorjahres des Finanzierungszeitraums schriftlich erklären. Diese Erklärungen können auch nur für die Finanzierung der Träger der praktischen Ausbildung, die Finanzierung der Pflegeschulen oder die Finanzierung der zusätzlichen Ausbildung nach § 14, auch in Verbindung mit § 37 Absatz 5, abgegeben werden.
 
 (6) Die Erklärungen der Parteien nach Absatz 5 erfolgen für die Finanzierung der Träger der praktischen Ausbildung von den Parteien nach § 30 Absatz 1 Satz 1 und für die Finanzierung der Pflegeschulen von den Parteien nach § 30 Absatz 1 Satz 2. Eine ausdrückliche Enthaltungserklärung ist zulässig. Ist eine der Parteien durch mehrere Vertreter vertreten, gilt die Erklärung der Partei dann als abgegeben, wenn entsprechende Erklärungen von der jeweiligen Mehrheit der Vertreter dieser Partei abgegeben worden sind.
 
@@ -480,7 +482,7 @@ werden die Kosten der Pflegeausbildung nach Teil 2 durch Ausgleichsfonds nach Ma
 
 # § 30 – Pauschalbudgets
 
-(1) Die zuständige Behörde des Landes, die Landeskrankenhausgesellschaft, die Vereinigungen der Träger der ambulanten oder stationären Pflegeeinrichtungen im Land, die Landesverbände der Kranken- und Pflegekassen sowie der Landesausschuss des Verbandes der privaten Krankenversicherung legen durch gemeinsame Vereinbarungen Pauschalen zu den Kosten der praktischen Ausbildung fest. Die gemeinsame Vereinbarung der Pauschalen zu den Ausbildungskosten der Pflegeschulen wird von der zuständigen Behörde des Landes, den Landesverbänden der Kranken- und Pflegekassen, dem Landesausschuss des Verbandes der privaten Krankenversicherung sowie von Interessenvertretungen der öffentlichen und der privaten Pflegeschulen auf Landesebene getroffen. Keiner Pauschalierung zugänglich sind die Mehrkosten der Ausbildungsvergütung.
+(1) Die zuständige Behörde des Landes, die Landeskrankenhausgesellschaft, die Vereinigungen der Träger der ambulanten oder stationären Pflegeeinrichtungen im Land, die Landesverbände der Kranken- und Pflegekassen sowie der Landesausschuss des Verbandes der privaten Krankenversicherung legen durch gemeinsame Vereinbarungen Pauschalen zu den Kosten der praktischen Ausbildung einschließlich der Kosten für die zusätzliche Ausbildung nach § 14, auch in Verbindung mit § 37 Absatz 5, fest; sie können jeweils gesonderte Pauschalen festlegen. Die gemeinsame Vereinbarung der Pauschalen zu den Ausbildungskosten der Pflegeschulen wird von der zuständigen Behörde des Landes, den Landesverbänden der Kranken- und Pflegekassen, dem Landesausschuss des Verbandes der privaten Krankenversicherung sowie von Interessenvertretungen der öffentlichen und der privaten Pflegeschulen auf Landesebene getroffen. Keiner Pauschalierung zugänglich sind die Mehrkosten der Ausbildungsvergütung.
 
 (2) Kommt eine Vereinbarung bis zum 30. April des Vorjahres des Finanzierungszeitraums nicht zustande, entscheidet auf Antrag einer Vertragspartei die Schiedsstelle nach § 36 innerhalb von sechs Wochen.
 
@@ -520,7 +522,7 @@ Pflegeschulen und Träger der praktischen Ausbildung können vereinbaren, dass d
 
 Schätzungen nach § 30 Absatz 5 und § 31 Absatz 5 stehen den bei der Ermittlung des Finanzierungsbedarfs festgesetzten oder vereinbarten Ausbildungsbudgets gleich.
 
-(2) Die zuständige Stelle erhebt als Ausgleich für anfallende Verwaltungs- und Vollstreckungskosten 0,6 Prozent der sich aus Absatz 1 Nummer 1 ergebenden Summe (Verwaltungskostenpauschale). Dieser Betrag wird gesondert ausgewiesen und zum Finanzierungsbedarf nach Absatz 1 hinzugerechnet.
+(2) Die zuständige Stelle erhebt als Ausgleich für anfallende Verwaltungs- und Vollstreckungskosten 0,6 Prozent der sich aus Absatz 1 Nummer 1 ergebenden Summe (Verwaltungskostenpauschale). Die Verwaltungskostenpauschale wird dem Betrag nach Absatz 1 als Aufschlag hinzugerechnet. Sie wird beim Finanzierungsbedarf und im Ausgleichsfonds gesondert ausgewiesen.
 
 # § 33 – Aufbringung des Finanzierungsbedarfs; Verordnungsermächtigung
 
@@ -542,7 +544,7 @@ Schätzungen nach § 30 Absatz 5 und § 31 Absatz 5 stehen den bei der Ermittlun
 
 (5) Die Zahlungen nach Absatz 1 Nummer 3 und 4 erfolgen je Finanzierungszeitraum als Einmalzahlung zwei Monate vor Fälligkeit der ersten Ausgleichszahlung. Die Direktzahlung der sozialen Pflegeversicherung sowie die Erstattung der privaten Pflege-Pflichtversicherung nach Absatz 1 Nummer 4 werden aus Mitteln des Ausgleichsfonds nach § 65 des Elften Buches Sozialgesetzbuch oder an den Ausgleichsfonds erbracht. § 45c Absatz 8 des Elften Buches Sozialgesetzbuch gilt entsprechend.
 
-(6) Die in § 30 Absatz 1 Satz 1 genannten Beteiligten auf Landesebene vereinbaren die erforderlichen Verfahrensregelungen im Zusammenhang mit der Einzahlung der Finanzierungsmittel und den in Rechnung zu stellenden Zuschlägen. Hierzu gehören insbesondere Vorgaben zur Verzinsung ausstehender Einzahlungen, die mit einem Zinssatz von 8 Prozent über dem Basiszinssatz nach § 247 Absatz 1 des Bürgerlichen Gesetzbuchs zu verzinsen sind. Kommt eine Vereinbarung nicht zustande, entscheidet die Schiedsstelle nach § 36 auf Antrag eines Beteiligten.
+(6) Die in § 30 Absatz 1 Satz 1 genannten Beteiligten auf Landesebene vereinbaren die erforderlichen Verfahrensregelungen im Zusammenhang mit der Einzahlung der Finanzierungsmittel und den in Rechnung zu stellenden Zuschlägen. Hierzu gehören insbesondere Vorgaben zur Verzinsung ausstehender Einzahlungen, die mit einem Zinssatz von 8 Prozent über dem Basiszinssatz nach § 247 Absatz 1 des Bürgerlichen Gesetzbuchs zu verzinsen sind, oder Einzelheiten zur Abweichung von dem Zeitpunkt der Einzahlung einschließlich der Möglichkeit von anteiligen Einzahlungen nach Absatz 1 Nummer 3, sofern die Liquidität des Ausgleichsfonds zum Zeitpunkt der Auszahlung der Ausgleichszuweisung im entsprechenden Finanzierungszeitraum weiterhin sichergestellt ist. Kommt eine Vereinbarung nicht zustande, entscheidet die Schiedsstelle nach § 36 auf Antrag eines Beteiligten.
 
 (7) Gegen den Festsetzungs- und Zahlungsbescheid der zuständigen Stelle nach den Absätzen 3 und 4 ist der Verwaltungsrechtsweg gegeben. Widerspruch und Klage haben keine aufschiebende Wirkung.
 
@@ -558,7 +560,7 @@ Rechtsverordnungen nach Satz 3 sind dem Bundestag zuzuleiten. Die Zuleitung erfo
 
 (1) Die Ausgleichszuweisungen erfolgen an den Träger der praktischen Ausbildung und an die Pflegeschule in monatlichen Beträgen entsprechend dem nach § 29 festgesetzten Ausbildungsbudget durch die zuständige Stelle. Die Ausgleichszuweisungen sind zweckgebunden für die Ausbildung zu verwenden. Abweichungen zwischen der Zahl der Ausbildungsplätze, die der Meldung nach § 30 Absatz 4 oder der Budgetvereinbarung nach § 31 zugrunde gelegt worden sind, und der tatsächlichen Anzahl der Ausbildungsplätze teilt der Träger der praktischen Ausbildung der zuständigen Stelle mit; er beziffert die aufgrund der Abweichung anfallenden Mehr- oder Minderausgaben. Minderausgaben sind bei den monatlichen Ausgleichzuweisungen vollständig zu berücksichtigen; Mehrausgaben sind zu berücksichtigen, soweit die Liquiditätsreserve dies zulässt. Entsprechende Mitteilungspflichten haben die Pflegeschulen.
 
-(2) Der Träger der praktischen Ausbildung leitet die in den Ausgleichszuweisungen enthaltenen Kosten der übrigen Kooperationspartner und im Falle des § 31 Absatz 1 Satz 2 der Pflegeschulen auf Grundlage der Kooperationsverträge und im Falle von Individualbudgets nach § 31 unter Berücksichtigung der vereinbarten Ausbildungsbudgets an diese weiter.
+(2) Der Träger der praktischen Ausbildung hat die in den Ausgleichszuweisungen enthaltenen Kosten der übrigen Kooperationspartner und im Falle des § 31 Absatz 1 Satz 2 der Pflegeschulen auf Grundlage der Kooperationsverträge und im Falle von Individualbudgets nach § 31 unter Berücksichtigung der vereinbarten Ausbildungsbudgets an diese weiterzuleiten.
 
 (3) Die Pflegeschule stellt Auszubildenden, soweit sie nach § 81 des Dritten Buches Sozialgesetzbuch oder nach § 16 des Zweiten Buches Sozialgesetzbuch in Verbindung mit § 81 des Dritten Buches Sozialgesetzbuch gefördert werden, unbeschadet von § 24 Absatz 3 Nummer 1 zweite Alternative, Lehrgangskosten in angemessener Höhe in Rechnung. Die Leistungen für Lehrgangskosten sind gemäß § 83 Absatz 2 Satz 1 des Dritten Buches Sozialgesetzbuch an die Pflegeschule als Träger der Maßnahme auszuzahlen. Leistungen zur Finanzierung der Ausbildung, wie beispielsweise Fördermittel nach dem Dritten Kapitel des Dritten Buches Sozialgesetzbuch, sind vom Auszahlungsberechtigten anzugeben und werden, soweit sie nicht bereits im Rahmen des Ausbildungsbudgets nach § 29 Absatz 4 berücksichtigt worden sind, mit der Ausgleichszuweisung verrechnet.
 
@@ -620,27 +622,69 @@ zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste
 
 # § 38 – Durchführung des Studiums
 
-(1) Das Studium dauert mindestens drei Jahre. Es umfasst theoretische und praktische Lehrveranstaltungen an staatlichen oder staatlich anerkannten Hochschulen anhand eines modularen Curriculums sowie Praxiseinsätze in Einrichtungen nach § 7.
+(1) Das Studium dauert mindestens drei Jahre. Es ist ein duales Studium und umfasst theoretische und praktische Lehrveranstaltungen an staatlichen oder staatlich anerkannten Hochschulen anhand eines modularen Curriculums sowie Praxiseinsätze in Einrichtungen nach § 7.
 
 (2) Die Studiengangskonzepte unterliegen der Überprüfung durch die zuständige Landesbehörde im Akkreditierungsverfahren. Wesentliche Änderungen der Studiengangskonzepte nach Abschluss des Akkreditierungsverfahrens unterliegen ebenfalls der Überprüfung durch die zuständigen Landesbehörden.
 
-(3) Die Praxiseinsätze gliedern sich in Pflichteinsätze, einen Vertiefungseinsatz sowie weitere Einsätze. Wesentlicher Bestandteil der Praxiseinsätze ist die von den Einrichtungen zu gewährleistende Praxisanleitung. Die Hochschule unterstützt die Praxiseinsätze durch die von ihr zu gewährleistende Praxisbegleitung. Auf der Grundlage einer Genehmigung der zuständigen Behörde kann ein geringer Anteil eines jeden Praxiseinsatzes durch praktische Lerneinheiten an der Hochschule ersetzt werden.
+(3) Die Praxiseinsätze gliedern sich in Pflichteinsätze, einen Vertiefungseinsatz sowie weitere Einsätze. Sie werden auf der Grundlage eines Ausbildungsplans durchgeführt, der vom Träger des praktischen Teils der hochschulischen Pflegeausbildung nach § 38a nach den Maßgaben der Hochschule für jede studierende Person zu erstellen ist. Wesentlicher Bestandteil der Praxiseinsätze ist die von den Einrichtungen im Umfang von mindestens 10 Prozent der während eines Einsatzes zu leistenden praktischen Ausbildungszeit zu gewährleistende Praxisanleitung. Die Hochschule unterstützt die Praxiseinsätze durch die von ihr zu gewährleistende Praxisbegleitung. Auf der Grundlage einer Genehmigung der zuständigen Behörde kann ein geringer Anteil eines jeden Praxiseinsatzes durch praktische Lerneinheiten an der Hochschule ersetzt werden.
 
-(4) Die Hochschule trägt die Gesamtverantwortung für die Koordination der theoretischen und praktischen Lehrveranstaltungen mit den Praxiseinsätzen. Sie ist auch für die Durchführung der Praxiseinsätze verantwortlich und schließt hierfür Kooperationsvereinbarungen mit den Einrichtungen der Praxiseinsätze.
+(4) Die Hochschule trägt die Gesamtverantwortung für die Koordination der theoretischen und praktischen Lehrveranstaltungen mit den Praxiseinsätzen. Sie schließt einen Kooperationsvertrag mit einem Träger des praktischen Teils der hochschulischen Ausbildung nach § 38a, um die Durchführung der Praxiseinsätze sicherzustellen. Die Hochschule prüft, ob der Ausbildungsplan für den praktischen Teil den Anforderungen des modularen Curriculums entspricht. Ist dies nicht der Fall, ist der Träger des praktischen Teils der hochschulischen Ausbildung nach § 38a verpflichtet, den Ausbildungsplan so anzupassen, dass er dem modularen Curriculum entspricht.
 
 (5) Die im Rahmen einer erfolgreich abgeschlossenen Pflegeausbildung nach Teil 2 oder nach dem Krankenpflegegesetz in der bis zum 31. Dezember 2019 geltenden Fassung oder dem Altenpflegegesetz in der Fassung der Bekanntmachung vom 25. August 2003 (BGBl. I S. 1690) in der bis zum 31. Dezember 2019 geltenden Fassung erworbenen Kompetenzen und Fähigkeiten sollen als gleichwertige Leistungen auf das Studium angerechnet werden.
 
 (6) Die weitere Ausgestaltung des Studiums obliegt den Hochschulen. Sie beachtet die Vorgaben der Richtlinie 2005/36/EG.
 
+# § 38a – Träger des praktischen Teils der hochschulischen Pflegeausbildung
+
+(1) Der Träger des praktischen Teils der hochschulischen Pflegeausbildung übernimmt auf Grundlage des mit der Hochschule getroffenen Kooperationsvertrags die Verantwortung für die Organisation und Durchführung der Praxiseinsätze. Er hat über Vereinbarungen mit den weiteren, am praktischen Teil der hochschulischen Pflegeausbildung beteiligten Einrichtungen zu gewährleisten, dass die Praxiseinsätze auf Grundlage des Ausbildungsplans zeitlich und sachlich gegliedert so durchgeführt werden können, dass das Ausbildungsziel in der vorgesehenen Zeit erreicht werden kann.
+
+(2) Träger des praktischen Teils der hochschulischen Pflegeausbildung im Sinne von Absatz 1 können ausschließlich Einrichtungen nach § 7 Absatz 1 sein,
+
+1. die eine Hochschule selbst betreiben oder
+
+2. die mit mindestens einer Hochschule einen Kooperationsvertrag über die Durchführung der theoretischen und praktischen Lehrveranstaltungen geschlossen haben.
+
+(3) Die Aufgaben des Trägers des praktischen Teils der hochschulischen Pflegeausbildung nach Absatz 1 können von einer Hochschule wahrgenommen werden, wenn Trägeridentität besteht oder soweit der Träger des praktischen Teils der hochschulischen Pflegeausbildung die Wahrnehmung der Aufgaben durch Vertrag mit der Hochschule auf diese übertragen hat. Die Hochschule kann für die Aufgaben nach Satz 1 auch zum Abschluss des Ausbildungsvertrages nach § 38b für den Träger des praktischen Teils der hochschulischen Pflegeausbildung bevollmächtigt werden.
+
+# § 38b – Ausbildungsvertrag zur hochschulischen Pflegeausbildung
+
+(1) Zwischen dem Träger des praktischen Teils der hochschulischen Pflegeausbildung und der oder dem Studierenden wird ein Ausbildungsvertrag zur hochschulischen Pflegeausbildung über die sich aus dem akkreditierten Studiengangskonzept ergebende gesamte Dauer der hochschulischen Pflegeausbildung geschlossen. Die Vorschriften von Teil 2 Abschnitt 2 finden mit der Maßgabe entsprechend Anwendung, dass der Ausbildungsvertrag zur hochschulischen Pflegeausbildung erst wirksam wird, wenn die oder der Studierende dem Träger des praktischen Teils der hochschulischen Pflegeausbildung eine schriftliche oder elektronische Studienplatzzusage einer Hochschule, mit der der Träger des praktischen Teils der hochschulischen Pflegeausbildung einen Kooperationsvertrag nach § 38 Absatz 4 Satz 2 abgeschlossen hat, vorlegt.
+
+(2) Der Träger des praktischen Teils der hochschulischen Pflegeausbildung hat der oder dem Studierenden während der gesamten Dauer des Vertragsverhältnisses eine angemessene monatliche Vergütung zu zahlen.
+
+(3) Studierende sind während der gesamten Dauer des Vertragsverhältnisses Arbeitnehmer im Sinne von § 5 des Betriebsverfassungsgesetzes oder von § 4 des Bundespersonalvertretungsgesetzes des Trägers des praktischen Teils der hochschulischen Pflegeausbildung.
+
 # § 39 – Abschluss des Studiums, staatliche Prüfung zur Erlangung der Berufszulassung
 
 (1) Das Studium schließt mit der Verleihung des akademischen Grades durch die Hochschule ab. Die Hochschule überprüft das Erreichen der Ausbildungsziele nach § 37.
 
-(2) Die Überprüfung der Kompetenzen nach § 5 und erforderlichenfalls nach § 14 soll nach Absatz 1 Satz 2 zum Ende des Studiums erfolgen. Bundesweit einheitliche Rahmenvorgaben regelt die Ausbildungs- und Prüfungsverordnung nach § 56 Absatz 1.
+(2) Die Überprüfung der Kompetenzen nach § 5, nach § 37 und erforderlichenfalls nach § 14 erfolgt nach Absatz 1 Satz 2 im Rahmen von Modulprüfungen. Bundesweit einheitliche Rahmenvorgaben regelt die Ausbildungs- und Prüfungsverordnung nach § 56 Absatz 1.
 
 (3) Die Hochschule legt mit Zustimmung der zuständigen Landesbehörde die Module nach Absatz 2 Satz 1 fest. Die hochschulische Prüfung nach Absatz 1 Satz 2 umfasst auch die staatliche Prüfung zur Erlangung der Berufszulassung.
 
 (4) Die Modulprüfungen nach Absatz 2 Satz 1 werden unter dem gemeinsamen Vorsitz von Hochschule und Landesbehörde durchgeführt. Die zuständige Landesbehörde kann die Hochschule beauftragen, den Vorsitz auch für die zuständige Landesbehörde wahrzunehmen.
+
+# § 39a – Finanzierung der hochschulischen Pflegeausbildung
+
+(1) Mit dem Ziel,
+
+1. bundesweit die hochschulische Pflegeausbildung zu stärken,
+
+2. eine ausreichende Zahl hochschulisch qualifizierter Pflegefachfrauen und Pflegefachmänner auszubilden,
+
+3. Nachteile im Wettbewerb zwischen ausbildenden und nicht ausbildenden Einrichtungen zu vermeiden,
+
+4. die Ausbildung in kleineren und mittleren Einrichtungen zu stärken und
+
+5. wirtschaftliche Ausbildungsstrukturen zu gewährleisten,
+
+werden die Kosten der Ausbildungsvergütung und des praktischen Teils der hochschulischen Pflegeausbildung einschließlich der Kosten der Praxisanleitung durch Ausgleichsfonds nach Maßgabe der Absätze 2 und 3 finanziert. Nicht zu den Kosten des praktischen Teils der hochschulischen Pflegeausbildung gehören Investitionskosten im Sinne von § 27 Absatz 1 Satz 4.
+
+(2) Die für die Kosten der Lehrveranstaltungen einschließlich der Betriebskosten der Hochschulen und die Kosten der Praxisbegleitung geltenden Regelungen bleiben unberührt; eine Finanzierung über die Ausgleichsfonds erfolgt insoweit nicht.
+
+(3) Die Finanzierung durch Ausgleichsfonds erfolgt in entsprechender Anwendung von § 26 Absatz 2 bis 7 sowie der §§ 28 bis 36. An die Stelle der Mehrkosten der Ausbildungsvergütung treten die Kosten der Ausbildungsvergütung. An die Stelle des Trägers der praktischen Ausbildung tritt der Träger des praktischen Teils der hochschulischen Pflegeausbildung. An die Stelle der Kosten der praktischen Ausbildung treten die Kosten des praktischen Teils der hochschulischen Pflegeausbildung.
+
+(4) Die vorstehenden Bestimmungen gelten auch in den Fällen des § 14 in Verbindung mit § 37 Absatz 5.
 
 # § 40 – Gleichwertigkeit und Anerkennung von Ausbildungen
 
@@ -927,11 +971,11 @@ Das Bundesinstitut für Berufsbildung übernimmt die Aufgabe der Beratung und In
 
 # § 55 – Statistik; Verordnungsermächtigung
 
-(1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit werden ermächtigt, für Zwecke dieses Gesetzes, gemeinsam durch Rechtsverordnung mit Zustimmung des Bundesrates jährliche Erhebungen über die bei der zuständigen Stelle nach § 26 Absatz 4 zur Erfüllung der Aufgaben nach Teil 2 Abschnitt 3, auch in Verbindung mit § 59 Absatz 1, vorliegenden Daten als Bundesstatistik anzuordnen und das Verfahren zur Ermittlung und Erhebung der Daten nach § 62 zu regeln. Die Statistik kann folgende Sachverhalte umfassen:
+(1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit werden ermächtigt, für Zwecke dieses Gesetzes, gemeinsam durch Rechtsverordnung mit Zustimmung des Bundesrates jährliche Erhebungen über die bei der zuständigen Stelle nach § 26 Absatz 4 zur Erfüllung der Aufgaben nach Teil 2 Abschnitt 3, auch in Verbindung mit § 39a Absatz 3 oder § 59 Absatz 1, jeweils vorliegenden Daten als Bundesstatistik anzuordnen und das Verfahren zur Ermittlung und Erhebung der Daten nach § 62 zu regeln. Die Statistik kann folgende Sachverhalte umfassen:
 
-1. die Träger der praktischen Ausbildung, die weiteren an der Ausbildung beteiligten Einrichtungen sowie die Pflegeschulen,
+1. die Träger der praktischen Ausbildung, die Träger des praktischen Teils der hochschulischen Pflegeausbildung, die jeweils weiteren an der Ausbildung beteiligten Einrichtungen sowie die Pflegeschulen,
 
-2. die in der Ausbildung befindlichen Personen nach Geschlecht, Geburtsjahr, Beginn und Ende der Ausbildung, Grund der Beendigung der Ausbildung, Weiterbildung oder Umschulung,
+2. die in der beruflichen oder hochschulischen Ausbildung befindlichen Personen nach Geschlecht, Geburtsjahr, Beginn und Ende der Ausbildung, Grund der Beendigung der Ausbildung, Weiterbildung oder Umschulung,
 
 3. die Ausbildungsvergütungen.
 
@@ -983,19 +1027,19 @@ c) die Urkunde für die Erlaubnis zur partiellen Berufsausübung nach § 48a und
 
 2. das Verfahren und das Nähere zu den Voraussetzungen der Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung.
 
-(3) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit werden ermächtigt, gemeinsam und im Benehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über die Finanzierung der beruflichen Ausbildung in der Pflege nach Teil 2 Abschnitt 3 und Teil 5; dies betrifft insbesondere
+(3) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit werden ermächtigt, gemeinsam und im Benehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über die Finanzierung der beruflichen Ausbildung in der Pflege nach Teil 2 Abschnitt 3 und Teil 5 sowie der hochschulischen Pflegeausbildung nach § 39a; dies betrifft insbesondere
 
-1. die nähere Bestimmung der Ausbildungskosten nach § 27,
+1. die nähere Bestimmung der Ausbildungskosten nach den §§ 27 und 39a,
 
-2. das Verfahren der Ausbildungsbudgets einschließlich der Vereinbarung der Pauschalen und Individualbudgets nach den §§ 29 bis 31,
+2. das Verfahren der Ausbildungsbudgets einschließlich der Vereinbarung der Pauschalen und Individualbudgets nach den §§ 29 bis 31 sowie der Möglichkeit von Schätzungen durch die zuständige Stelle,
 
-3. die Aufbringung des Finanzierungsbedarfs sowie der Zahlverfahren nach § 33 Absatz 2 bis 7,
+3. die Aufbringung des Finanzierungsbedarfs einschließlich der Höhe der Verwaltungskostenpauschale nach § 32 Absatz 2 sowie der Zahl- und Umlageverfahren nach § 33 Absatz 2 bis 7,
 
 4. die Erbringung und Weiterleitung der Ausgleichszuweisungen nach § 34 Absatz 1 bis 3, die Verrechnung nach § 34 Absatz 4, die Abrechnung, Zurückzahlung und nachträgliche Berücksichtigung nach § 34 Absatz 5 und 6,
 
 5. die Rechnungslegung der zuständigen Stelle nach § 35
 
-einschließlich der erforderlichen Vorgaben zum Erheben, Verarbeiten und Nutzen personenbezogener Daten und zum Datenschutz, soweit es für das Verfahren zur Finanzierung der beruflichen Ausbildung in der Pflege erforderlich ist.
+einschließlich der erforderlichen Vorgaben zum Erheben, Verarbeiten und Nutzen personenbezogener Daten und zum Datenschutz, soweit es für das Verfahren zur Finanzierung der beruflichen und hochschulischen Ausbildung in der Pflege erforderlich ist.
 
 (4) Der Spitzenverband Bund der Kranken- und Pflegekassen, der Verband der Privaten Krankenversicherung, die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene und die Deutsche Krankenhausgesellschaft vereinbaren spätestens bis drei Monate nach Verkündung dieses Gesetzes im Benehmen mit den Ländern Vorschläge für die Regelungsinhalte nach Absatz 3 Nummer 1 bis 5.
 
@@ -1112,6 +1156,30 @@ die vor Ablauf des 31. Dezember 2019 begonnen wurde, kann bis zum 31. Dezember 2
 (1) Die Entscheidung über einen Antrag auf Anerkennung einer außerhalb des Geltungsbereichs dieses Gesetzes und außerhalb eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz erworbenen abgeschlossenen Berufsausbildung kann noch bis zum 31. Dezember 2024 auf der Grundlage der Vorschriften des Krankenpflegegesetzes in der am 31. Dezember 2019 geltenden Fassung oder auf der Grundlage der Vorschriften des Altenpflegegesetzes in der am 31. Dezember 2019 geltenden Fassung getroffen werden.
 
 (2) Für Entscheidungen über einen Antrag auf Anerkennung einer in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz erworbenen oder anerkannten abgeschlossenen Berufsausbildung gilt Absatz 1 entsprechend, soweit nicht die Voraussetzungen nach § 41 Absatz 1 erfüllt sind.
+
+# § 66b – Übergangsvorschriften und Zahlung einer Vergütung für begonnene hochschulische Pflegeausbildungen nach Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung
+
+(1) Eine hochschulische Pflegeausbildung, die auf Grundlage von Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung begonnen wurde, kann bis zum 31. Dezember 2028 auf dieser Grundlage abgeschlossen werden.
+
+(2) Eine studierende Person, die eine hochschulische Pflegeausbildung auf Grundlage von Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung begonnen hat und gemäß Absatz 1 fortsetzt, hat gegenüber der Einrichtung nach § 7 Absatz 1, bei der der überwiegende Teil ihrer Praxiseinsätze stattfindet, einen Anspruch auf Abschluss eines schriftlichen Vertrages für die sich aus dem akkreditierten Studiengangskonzept ergebende weitere Dauer der hochschulischen Pflegeausbildung. Durch den Vertrag wird die Einrichtung nach Satz 1 zur Zahlung einer angemessenen Vergütung an die studierende Person verpflichtet.
+
+(3) Der Vertrag nach Absatz 2 muss mindestens Folgendes enthalten:
+
+1. den Beginn des Vertragsverhältnisses und den Zeitpunkt, zu dem das Vertragsverhältnis endet,
+
+2. Vereinbarungen über Zahlung und Höhe einer angemessenen Vergütung für die gesamte weitere Dauer der hochschulischen Pflegeausbildung einschließlich des Umfangs etwaiger Sachbezüge,
+
+3. die Voraussetzungen, unter denen der Vertrag gekündigt werden kann, einschließlich eines Hinweises auf die Möglichkeit der Vertragsverlängerung entsprechend § 21 Absatz 2,
+
+4. einen in allgemeiner Form gehaltenen Hinweis auf die dem Vertrag gegebenenfalls zugrunde liegenden tariflichen Bestimmungen, Betriebs- oder Dienstvereinbarungen.
+
+§ 16 Absatz 3 bis 5, § 17, auch in Verbindung mit § 37 Absatz 3, § 19 Absatz 2 und 3 sowie die §§ 21 bis 25 gelten entsprechend. Studierende Personen nach Absatz 2 stehen den zur Berufsausbildung Beschäftigten im Sinne sozialversicherungsrechtlicher Bestimmungen gleich.
+
+(4) Die durch die Zahlung einer nach Absatz 2 Satz 2 vertraglich vereinbarten Vergütung entstehenden Kosten der Einrichtung nach § 7 Absatz 1, bei der der überwiegende Teil der Praxiseinsätze der studierenden Person stattfindet, werden im Finanzierungsverfahren nach § 39a berücksichtigt.
+
+# § 66c – Überleitung von begonnenen hochschulischen Pflegeausbildungen nach Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung
+
+Die Möglichkeit der Überleitung bereits auf Grundlage von Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung begonnener hochschulischer Pflegeausbildungen in eine hochschulische Pflegeausbildung auf Grundlage von Teil 3 dieses Gesetzes in der geltenden Fassung bleibt unberührt. Das Nähere regeln die Länder.
 
 # § 67 – Kooperationen von Hochschulen und Pflegeschulen
 

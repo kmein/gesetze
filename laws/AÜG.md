@@ -145,7 +145,7 @@ Werden Leiharbeitnehmer von einem Verleiher ohne die erforderliche Erlaubnis üb
 
 # § 7 – Anzeigen und Auskünfte
 
-(1) Der Verleiher hat der Erlaubnisbehörde nach Erteilung der Erlaubnis unaufgefordert die Verlegung, Schließung und Errichtung von Betrieben, Betriebsteilen oder Nebenbetrieben vorher anzuzeigen, soweit diese die Ausübung der Arbeitnehmerüberlassung zum Gegenstand haben. Wenn die Erlaubnis Personengesamtheiten, Personengesellschaften oder juristischen Personen erteilt ist und nach ihrer Erteilung eine andere Person zur Geschäftsführung oder Vertretung nach Gesetz, Satzung oder Gesellschaftsvertrag berufen wird, ist auch dies unaufgefordert anzuzeigen.
+(1) Der Verleiher hat der Erlaubnisbehörde nach Erteilung der Erlaubnis unaufgefordert die Verlegung, Schließung und Errichtung von Betrieben, Betriebsteilen oder Nebenbetrieben vorher anzuzeigen, soweit diese die Ausübung der Arbeitnehmerüberlassung zum Gegenstand haben. Wenn die Erlaubnis Personengesamtheiten, rechtsfähigen Personengesellschaften oder juristischen Personen erteilt ist und nach ihrer Erteilung eine andere Person zur Geschäftsführung oder Vertretung nach Gesetz, Satzung oder Gesellschaftsvertrag berufen wird, ist auch dies unaufgefordert anzuzeigen.
 
 (2) Der Verleiher hat der Erlaubnisbehörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung des Gesetzes erforderlich sind. Die Auskünfte sind wahrheitsgemäß, vollständig, fristgemäß und unentgeltlich zu erteilen. Auf Verlangen der Erlaubnisbehörde hat der Verleiher die geschäftlichen Unterlagen vorzulegen, aus denen sich die Richtigkeit seiner Angaben ergibt, oder seine Angaben auf sonstige Weise glaubhaft zu machen. Der Verleiher hat seine Geschäftsunterlagen drei Jahre lang aufzubewahren.
 

@@ -432,7 +432,7 @@ Ist bei Vorliegen einer Amtspflichtverletzung nur streitig, ob der Ausschlußgru
 
 1. Bescheinigungen über eine Vertretungsberechtigung sowie
 
-2. Bescheinigungen über das Bestehen oder den Sitz einer juristischen Person oder Handelsgesellschaft, die Firmenänderung, eine Umwandlung oder sonstige rechtserhebliche Umstände auszustellen,
+2. Bescheinigungen über das Bestehen oder den Sitz einer juristischen Person oder rechtsfähigen Personengesellschaft, die Änderung der Firma oder des Namens, eine Umwandlung oder sonstige rechtserhebliche Umstände auszustellen,
 
 wenn sich diese Umstände aus einer Eintragung im Handelsregister oder in einem ähnlichen Register ergeben. Die Bescheinigung hat die gleiche Beweiskraft wie ein Zeugnis des Registergerichts.
 

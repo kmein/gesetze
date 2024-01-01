@@ -71,7 +71,7 @@ d) bei Personengesellschaften den Familiennamen und den Vornamen der geschäftsf
 
 e) die Postanschrift des Unternehmens,
 
-f) bei inländischen Unternehmen das Registergericht und die Registernummer aus dem Handels-, Genossenschafts-, Vereins-, Partnerschaftsregister oder bei vergleichbaren amtlichen Registern die Registernummer und die registerführende Stelle, soweit vorhanden,
+f) bei inländischen Unternehmen das Registergericht und die Registernummer aus dem Handels-, Genossenschafts-, Gesellschafts-, Vereins-, Partnerschafts- oder bei vergleichbaren amtlichen Registern die Registernummer und die registerführende Stelle, soweit vorhanden,
 
 g) bei ausländischen Unternehmen anstelle der in Buchstabe f genannten Angaben eine der Registernummer vergleichbare Nummer und die registerführende Stelle, soweit vorhanden, sowie
 

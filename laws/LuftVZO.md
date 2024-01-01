@@ -847,7 +847,7 @@ Zur Durchführung der Verordnung (EG) Nr. 261/2004 des Europäischen Parlaments 
 
 # § 64 – Anzeigepflichten
 
-Änderungen der Betriebsgrundlagen, die Gegenstand der jeweiligen Genehmigung dieses Abschnitts waren, sind von dem Inhaber der Genehmigung der Genehmigungsbehörde unverzüglich anzuzeigen. Ist der Inhaber der Genehmigung nach den §§ 61 und 62 eine juristische Person oder eine Personengesellschaft, so sind Veränderungen hinsichtlich der vertretungsberechtigten Personen ebenfalls der Genehmigungsbehörde anzuzeigen.
+Änderungen der Betriebsgrundlagen, die Gegenstand der jeweiligen Genehmigung dieses Abschnitts waren, sind von dem Inhaber der Genehmigung der Genehmigungsbehörde unverzüglich anzuzeigen. Ist der Inhaber der Genehmigung nach den §§ 61 und 62 eine juristische Person oder eine rechtsfähige Personengesellschaft, so sind Veränderungen hinsichtlich der vertretungsberechtigten Personen ebenfalls der Genehmigungsbehörde anzuzeigen.
 
 # § 65 – Aufsicht
 

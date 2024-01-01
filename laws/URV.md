@@ -17,7 +17,7 @@ Auf Grund des § 9a Abs. 2 und 3 des Handelsgesetzbuchs in der im Bundesgesetzbl
 
 Eine Speicherung in einem reinen Binärformat ist nur zulässig, soweit eine Umwandlung in Text nicht oder nur mit unvertretbarem Aufwand möglich ist. Das Unternehmensregister muss erkennen lassen, in welcher Sprache die Daten im Sinn des Satzes 1 im Unternehmensregister gespeichert sind.
 
-(2) Das Unternehmensregister vermittelt über die nach § 8b Abs. 3 Satz 2 des Handelsgesetzbuchs übermittelten Daten (Indexdaten) den Zugang zu den Eintragungen im Handels-, Genossenschafts- und Partnerschaftsregister, den Registerbekanntmachungen, den zu den Registern eingereichten Dokumenten und den Zugang zu den Bekanntmachungen der Insolvenzgerichte im Sinn des § 8b Abs. 2 Nr. 11 des Handelsgesetzbuchs. Die Indexdaten dienen nur der Zugangsvermittlung und sind nicht zugänglich zu machen.
+(2) Das Unternehmensregister vermittelt über die nach § 8b Abs. 3 Satz 2 des Handelsgesetzbuchs übermittelten Daten (Indexdaten) den Zugang zu den Eintragungen im Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister, den Registerbekanntmachungen, den zu den Registern eingereichten Dokumenten und den Zugang zu den Bekanntmachungen der Insolvenzgerichte im Sinn des § 8b Abs. 2 Nr. 11 des Handelsgesetzbuchs. Die Indexdaten dienen nur der Zugangsvermittlung und sind nicht zugänglich zu machen.
 
 (3) Das Unternehmensregister ist zumindest über die Adresse www.unternehmensregister.de erreichbar. Zugangsstörungen, insbesondere aufgrund von Wartungs- oder Verbesserungsarbeiten, sind soweit möglich rechtzeitig anzukündigen.
 
@@ -79,11 +79,11 @@ Daten werden dem Unternehmensregister im Wege der Datenfernübertragung übermit
 
 (2) Die Indexdaten sind in einem mit den Landesjustizverwaltungen vereinbarten strukturierten Format zu übermitteln. Die Landesjustizverwaltungen stellen sicher, dass die übermittelten Indexdaten ohne Aufbereitung oder Veränderung den Zugang zu den Originaldaten und eine Suche im Unternehmensregister ermöglichen.
 
-(3) Die Landesjustizverwaltungen übermitteln Änderungen der Indexdaten zu Eintragungen im Handels-, Genossenschafts- oder Partnerschaftsregister (§ 6) unverzüglich. Die Indexdaten zu Registerbekanntmachungen aus dem Handels-, Genossenschafts- und Partnerschaftsregister (§ 7) sowie die Indexdaten zu Insolvenzbekanntmachungen (§ 8) sind täglich zu aktualisieren. Die Landesjustizverwaltungen können in Absprache mit der registerführenden Stelle eine häufigere Aktualisierung oder eine vollständige Neuübermittlung vornehmen, wenn dadurch der Betrieb des Unternehmensregisters nicht beeinträchtigt wird.
+(3) Die Landesjustizverwaltungen übermitteln Änderungen der Indexdaten zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts- oder Partnerschaftsregister (§ 6) unverzüglich. Die Indexdaten zu Registerbekanntmachungen aus dem Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister (§ 7) sowie die Indexdaten zu Insolvenzbekanntmachungen (§ 8) sind täglich zu aktualisieren. Die Landesjustizverwaltungen können in Absprache mit der registerführenden Stelle eine häufigere Aktualisierung oder eine vollständige Neuübermittlung vornehmen, wenn dadurch der Betrieb des Unternehmensregisters nicht beeinträchtigt wird.
 
-# § 6 – Übermittlung von Indexdaten zu Eintragungen im Handels-, Genossenschafts- und Partnerschaftsregister
+# § 6 – Übermittlung von Indexdaten zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister
 
-Die Landesjustizverwaltungen übermitteln dem Unternehmensregister folgende Indexdaten zu Eintragungen im Handels-, Genossenschafts- und Partnerschaftsregister:
+Die Landesjustizverwaltungen übermitteln dem Unternehmensregister folgende Indexdaten zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister:
 
 1. Registerart, Registergericht, Registernummer, die einheitliche europäische Kennung (EUID) sowie ein Ortskennzeichen, soweit vorhanden,
 
@@ -105,9 +105,9 @@ Die Landesjustizverwaltungen übermitteln dem Unternehmensregister folgende Inde
 
 Wenn durch die Landesjustizverwaltungen für ein länderübergreifendes, zentrales elektronisches Informations- und Kommunikationssystem (§ 9 Abs. 1 Satz 4 des Handelsgesetzbuchs) weitere Indexdaten, insbesondere die Gerichtskennung, bereitgestellt werden, sind dem Unternehmensregister auch diese zu übermitteln.
 
-# § 7 – Übermittlung von Indexdaten zu Registerbekanntmachungen aus dem Handels-, Genossenschafts- und Partnerschaftsregister
+# § 7 – Übermittlung von Indexdaten zu Registerbekanntmachungen aus dem Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister
 
-Die Landesjustizverwaltungen übermitteln dem Unternehmensregister folgende Indexdaten zu Registerbekanntmachungen aus dem Handels-, Genossenschafts- und Partnerschaftsregister:
+Die Landesjustizverwaltungen übermitteln dem Unternehmensregister folgende Indexdaten zu Registerbekanntmachungen aus dem Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister:
 
 1. Registerart, Registergericht, Registernummer sowie ein Ortskennzeichen, soweit vorhanden,
 

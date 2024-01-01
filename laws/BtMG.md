@@ -383,7 +383,7 @@ Das Bundesinstitut für Arzneimittel und Medizinprodukte unterrichtet die zustä
 
 2. der vorgesehene Verantwortliche nicht die erforderliche Sachkenntnis hat oder die ihm obliegenden Verpflichtungen nicht ständig erfüllen kann,
 
-3. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Verantwortlichen, des Antragstellers, seines gesetzlichen Vertreters oder bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten ergeben,
+3. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Verantwortlichen, des Antragstellers, seines gesetzlichen Vertreters oder bei juristischen Personen oder sonstigen Personenvereinigungen der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten ergeben,
 
 4. geeignete Räume, Einrichtungen und Sicherungen für die Teilnahme am Betäubungsmittelverkehr oder die Herstellung ausgenommener Zubereitungen nicht vorhanden sind,
 
@@ -781,7 +781,7 @@ angeordnet werden. In der Rechtsverordnung kann ferner der über die in Satz 2 N
 
 1. Unterlagen über den Betäubungsmittelverkehr oder die Herstellung oder das der Herstellung folgende Inverkehrbringen ausgenommener Zubereitungen einzusehen und hieraus Abschriften oder Ablichtungen anzufertigen, soweit sie für die Sicherheit oder Kontrolle des Betäubungsmittelverkehrs oder der Herstellung ausgenommener Zubereitungen von Bedeutung sein können,
 
-2. von natürlichen und juristischen Personen und nicht rechtsfähigen Personenvereinigungen alle erforderlichen Auskünfte zu verlangen,
+2. von natürlichen und juristischen Personen und sonstigen Personenvereinigungen alle erforderlichen Auskünfte zu verlangen,
 
 3. Grundstücke, Gebäude, Gebäudeteile, Einrichtungen und Beförderungsmittel, in denen der Betäubungsmittelverkehr oder die Herstellung ausgenommener Zubereitungen durchgeführt wird, zu betreten und zu besichtigen, wobei sich die beauftragten Personen davon zu überzeugen haben, daß die Vorschriften über den Betäubungsmittelverkehr oder die Herstellung ausgenommener Zubereitungen beachtet werden. Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung, insbesondere wenn eine Vereitelung der Kontrolle des Betäubungsmittelverkehrs oder der Herstellung ausgenommener Zubereitungen zu besorgen ist, dürfen diese Räumlichkeiten auch außerhalb der Betriebs- und Geschäftszeit sowie Wohnzwecken dienende Räume betreten werden; insoweit wird das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) eingeschränkt. Soweit es sich um industrielle Herstellungsbetriebe und Großhandelsbetriebe handelt, sind die Besichtigungen in der Regel alle zwei Jahre durchzuführen,
 

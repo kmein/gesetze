@@ -269,35 +269,63 @@ Ergibt sich eine besondere Härte daraus, dass keine Kapitalentschädigung oder 
 
 Der Bund trägt 65 vom Hundert der Ausgaben, die den Ländern durch Leistungen nach diesem Gesetz entstehen.
 
-# § 21 – Beschädigtenversorgung
+# § 21 – Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung
 
-(1) Ein Betroffener, der infolge der Freiheitsentziehung eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf Antrag Versorgung in entsprechender Anwendung des Bundesversorgungsgesetzes. Dies gilt nicht, soweit er wegen desselben schädigenden Ereignisses bereits Versorgung auf Grund des Bundesversorgungsgesetzes oder auf Grund von Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, erhält.
+(1) Ein Betroffener, der infolge der Freiheitsentziehung eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf Antrag Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch. Dies gilt nicht, soweit er wegen desselben schädigenden Ereignisses bereits folgende Leistungen erhält:
 
-(2) Einer Schädigung im Sinne des Absatzes 1 steht eine gesundheitliche Schädigung gleich, die durch einen Unfall unter den Voraussetzungen des § 1 Abs. 2 Buchstabe e oder f des Bundesversorgungsgesetzes herbeigeführt worden ist.
+1. Versorgung aufgrund des Bundesversorgungsgesetzes,
 
-(3) Wer als Berechtigter oder Leistungsempfänger nach Absatz 1 dieser Vorschrift oder § 22 dieses Gesetzes in Verbindung mit § 10 Abs. 4 oder 5 des Bundesversorgungsgesetzes, als Pflegeperson oder als Begleitperson bei einer notwendigen Begleitung des Beschädigten durch einen Unfall unter den Voraussetzungen des § 8a des Bundesversorgungsgesetzes eine gesundheitliche Schädigung erleidet, erhält Versorgung nach Absatz 1.
+2. Versorgung aufgrund eines Gesetzes, das das Bundesversorgungsgesetz für entsprechend anwendbar erklärt,
+
+3. Leistungen der Sozialen Entschädigung nach dem Vierzehnten Buch Sozialgesetzbuch oder
+
+4. Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch.
+
+(2) Einer Schädigung im Sinne des Absatzes 1 steht eine gesundheitliche Schädigung gleich, die durch einen Unfall unter den Voraussetzungen des § 4 Absatz 2 Nummer 1 des Vierzehnten Buches Sozialgesetzbuch herbeigeführt worden ist.
+
+(3) Wer als Berechtigter oder Leistungsempfänger nach Absatz 1 dieser Vorschrift oder § 22 dieses Gesetzes, als Pflegeperson oder als Begleitperson bei einer notwendigen Begleitung einer geschädigten Person durch einen Unfall unter den Voraussetzungen des § 4 Absatz 2 Nummer 2 des Vierzehnten Buches Sozialgesetzbuch eine gesundheitliche Schädigung erleidet, erhält Leistungen der Sozialen Entschädigung nach Absatz 1.
 
 (4) Einer gesundheitlichen Schädigung im Sinne der Absätze 1 bis 3 steht die Beschädigung eines am Körper getragenen Hilfsmittels, einer Brille, von Kontaktlinsen oder von Zahnersatz gleich.
 
-(5) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Wenn die Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache des festgestellten Leidens in der medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Folge einer Schädigung anerkannt werden; die Zustimmung kann allgemein erteilt werden.
+(5) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Sie ist gegeben, wenn nach dem aktuellen Stand der medizinischen Wissenschaft mehr für als gegen einen ursächlichen Zusammenhang spricht.
 
-# § 22 – Hinterbliebenenversorgung
+(6) Bei psychischen Gesundheitsstörungen wird die Wahrscheinlichkeit des ursächlichen Zusammenhangs im Einzelfall vermutet, wenn diejenigen medizinischen Tatsachen vorliegen, die nach den Erfahrungen der medizinischen Wissenschaft geeignet sind, einen Ursachenzusammenhang zwischen einem nach Art und Schwere geeigneten schädigenden Ereignis und der gesundheitlichen Schädigung und der Schädigungsfolge zu begründen, und diese Vermutung nicht durch einen anderen Kausalverlauf widerlegt wird.
 
-(1) Ist der Betroffene an den Folgen der Schädigung gestorben, erhalten die Hinterbliebenen auf Antrag Versorgung in entsprechender Anwendung des Bundesversorgungsgesetzes. Dies gilt nicht, soweit die Hinterbliebenen bereits Versorgung auf Grund des Bundesversorgungsgesetzes oder auf Grund von Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, erhalten. § 21 Abs. 3 dieses Gesetzes und die §§ 48 und 52 des Bundesversorgungsgesetzes sind entsprechend anzuwenden.
+(7) Wenn die zur Anerkennung einer Gesundheitsstörung als Schädigungsfolge erforderliche Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache der Gesundheitsstörung in der medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Schädigungsfolge anerkannt werden. Die Zustimmung kann allgemein erteilt werden.
+
+# § 22 – Leistungen der Sozialen Entschädigung für Hinterbliebene
+
+(1) Ist der Betroffene an den Folgen der Schädigung gestorben, erhalten die Hinterbliebenen auf Antrag Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch. Dies gilt nicht, soweit die Hinterbliebenen bereits folgende Leistungen erhalten:
+
+1. Versorgung aufgrund des Bundesversorgungsgesetzes,
+
+2. Versorgung aufgrund eines Gesetzes, das das Bundesversorgungsgesetz für entsprechend anwendbar erklärt,
+
+3. Leistungen der Sozialen Entschädigung nach dem Vierzehnten Buch Sozialgesetzbuch oder
+
+4. Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch.
+
+§ 21 Absatz 3 dieses Gesetzes und § 148 des Vierzehnten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
 
 (2) Ist ein Todesurteil infolge einer strafrechtlichen Entscheidung nach § 1 am Betroffenen vollstreckt worden, gilt Absatz 1 entsprechend.
 
 # § 23 – Zusammentreffen von Ansprüchen
 
-(1) Treffen Ansprüche aus § 21 dieses Gesetzes mit Ansprüchen aus § 1 des Bundesversorgungsgesetzes oder aus anderen Gesetzen zusammen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, wird die Versorgung unter Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten Grades der Schädigungsfolgen nach diesem Gesetz gewährt.
+(1) Treffen Ansprüche aus § 21 mit folgenden Ansprüchen zusammen, werden die Leistungen der Sozialen Entschädigung unter Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten Grades der Schädigungsfolgen nach diesem Gesetz gewährt:
 
-(2) Treffen Leistungen nach § 21 oder § 22 dieses Gesetzes mit Leistungen zusammen, die nach dem Bundesversorgungsgesetz oder nach Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, gewährt werden, findet § 55 des Bundesversorgungsgesetzes Anwendung.
+1. Ansprüchen aus § 1 des Bundesversorgungsgesetzes,
 
-(3) Bei der Feststellung der Elternrente sind auch die Kinder zu berücksichtigen, die infolge einer Schädigung im Sinne des Bundesversorgungsgesetzes gestorben oder verschollen sind. Besteht bereits ein Anspruch auf Elternrente nach dem Bundesversorgungsgesetz, wird sie nach diesem Gesetz nicht gewährt. Die Sätze 1 und 2 gelten entsprechend für den Anspruch auf Elternrente nach Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen; § 51 Abs. 2 Satz 2 des Bundesversorgungsgesetzes ist entsprechend anzuwenden.
+2. Ansprüchen aus einem anderen Gesetz, das eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsieht,
 
-# § 24 – Anwendung des Bundesversorgungsgesetzes
+3. Ansprüchen nach § 21, § 23, § 24 oder Kapitel 23 des Vierzehnten Buches Sozialgesetzbuch oder
 
-Die Bestimmungen über die entsprechende Anwendung des Bundesversorgungsgesetzes und der zu seiner Durchführung erlassenen Vorschriften gelten mit den in Anlage I Kapitel VIII Sachgebiet K Abschnitt III des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1067) aufgeführten Maßgaben.
+4. Ansprüchen aus anderen Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches Sozialgesetzbuch vorsehen.
+
+(2) (weggefallen)
+
+(3) Bei der Feststellung der Elternrente sind auch die Kinder zu berücksichtigen, die infolge einer Schädigung im Sinne des Vierzehnten Buches Sozialgesetzbuch gestorben. Besteht bereits ein Anspruch auf Elternrente nach dem Vierzehnten Buch Sozialgesetzbuch, wird sie nach diesem Gesetz nicht gewährt. Die Sätze 1 und 2 gelten entsprechend für den Anspruch auf Elternrente nach Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches Sozialgesetzbuch vorsehen.
+
+# § 24 – (weggefallen)
 
 # § 25 – Zuständigkeiten
 
@@ -313,9 +341,9 @@ Für die Gewährung der Leistungen nach den §§ 17, 17a und 19 an Berechtigte n
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Zeitpunkt und die Reihenfolge der Gewährung der Leistung, auf die nach Absatz 2 ein Anspruch besteht, nach den Gesichtspunkten der sozialen Dringlichkeit zu bestimmen.
 
-(4) Für die Gewährung von Leistungen nach den §§ 21 und 22 sind die Behörden zuständig, denen die Durchführung des Bundesversorgungsgesetzes obliegt. Soweit die Verwaltungsbehörden der Kriegsopferversorgung zuständig sind, richtet sich das Verfahren nach den für die Kriegsopferversorgung geltenden Vorschriften.
+(4) Für die Gewährung von Leistungen nach den §§ 21 und 22 sind die nach Landesrecht zur Durchführung des Vierzehnten Buches Sozialgesetzbuch bestimmten Behörden zuständig. Das Verfahren für die Gewährung von Leistungen nach den §§ 21 und 22 richtet sich nach dem Ersten und Zehnten Buch Sozialgesetzbuch; die §§ 115 bis 119 des Vierzehnten Buches Sozialgesetzbuch gelten entsprechend.
 
-(5) Soweit dieses Gesetz von den für die Kriegsopferversorgung zuständigen Verwaltungsbehörden durchgeführt wird, entscheiden über öffentlich-rechtliche Streitigkeiten die Gerichte der Sozialgerichtsbarkeit. Für diese Verfahren sind die Vorschriften des Sozialgerichtsgesetzes für Angelegenheiten der Kriegsopferversorgung maßgebend. § 51 Abs. 1 Nr. 6 des Sozialgerichtsgesetzes bleibt unberührt.
+(5) In Streitigkeiten über Leistungen nach den §§ 21 und 22 entscheiden die Gerichte der Sozialgerichtsbarkeit. Für diese Verfahren sind die Vorschriften des Sozialgerichtsgesetzes für Angelegenheiten des Sozialen Entschädigungsrechts maßgebend.
 
 # § 25a – Verarbeitung von personenbezogenen Daten
 

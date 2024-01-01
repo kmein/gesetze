@@ -103,19 +103,19 @@ ein Kabel mit einer Nennspannung von weniger als 250 Volt, das als Verbindungs- 
 
 5. Hersteller:
 
-jede natürliche oder juristische Person oder Personengesellschaft, die ein Elektro- oder Elektronikgerät herstellt oder entwickeln oder herstellen lässt und es unter ihrem eigenen Namen oder ihrer eigenen Marke vermarktet;
+jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Elektro- oder Elektronikgerät herstellt oder entwickeln oder herstellen lässt und es unter ihrem eigenen Namen oder ihrer eigenen Marke vermarktet;
 
 6. Bevollmächtigter:
 
-jede in der Union ansässige natürliche oder juristische Person oder Personengesellschaft, die der Hersteller schriftlich ermächtigt hat, in seinem Namen bestimmte Aufgaben wahrzunehmen;
+jede in der Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die der Hersteller schriftlich ermächtigt hat, in seinem Namen bestimmte Aufgaben wahrzunehmen;
 
 7. Vertreiber:
 
-jede natürliche oder juristische Person oder Personengesellschaft, die ein Elektro- oder Elektronikgerät anbietet oder auf dem Markt bereitstellt, mit Ausnahme des Herstellers und des Importeurs;
+jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Elektro- oder Elektronikgerät anbietet oder auf dem Markt bereitstellt, mit Ausnahme des Herstellers und des Importeurs;
 
 8. Importeur:
 
-jede in der Europäischen Union ansässige natürliche oder juristische Person oder Personengesellschaft, die ein Elektro- oder Elektronikgerät aus einem Drittstaat anbietet oder in Verkehr bringt;
+jede in der Europäischen Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Elektro- oder Elektronikgerät aus einem Drittstaat anbietet oder in Verkehr bringt;
 
 9. Wirtschaftsakteur:
 

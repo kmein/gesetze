@@ -377,6 +377,18 @@ b) stechenden Geruch freisetzen oder
 
 c) keine ausreichende Stabilität gegenüber den geomechanischen Bedingungen aufweisen.
 
+(3) Folgende Abfälle dürfen nicht durch den Abfallerzeuger und Abfallbesitzer einer Deponie der Klasse 0, I, II, III oder IV zur Ablagerung zugeführt werden:
+
+1. Abfälle, die zur Vorbereitung zur Wiederverwendung oder zum Recycling getrennt gesammelt werden; ausgenommen hiervon sind diejenigen Abfälle,
+
+a) die bei der anschließenden Behandlung getrennt gesammelter Abfälle entstehen und
+
+b) bei denen eine Ablagerung auf Deponien den Schutz von Mensch und Umwelt am besten oder in gleichwertiger Weise wie die Vorbereitung zur Wiederverwendung und das Recycling gewährleistet, oder
+
+2. Abfälle, die einer Verwertung zugeführt werden können; ausgenommen hiervon sind diejenigen Abfälle, bei denen eine Ablagerung auf Deponien den Schutz von Mensch und Umwelt am besten oder in gleichwertiger Weise wie die Vorbereitung zur Wiederverwendung und das Recycling gewährleistet.
+
+Die in § 6 Absatz 2 Satz 2 und 3 des Kreislaufwirtschaftsgesetzes festgelegten Kriterien sind zu berücksichtigen. § 7 Absatz 4 des Kreislaufwirtschaftsgesetzes gilt entsprechend.
+
 # § 8 – Annahmeverfahren
 
 (1) Der Abfallerzeuger, bei Sammelentsorgung der Einsammler, hat dem Deponiebetreiber rechtzeitig vor der ersten Anlieferung die grundlegende Charakterisierung des Abfalls mit mindestens folgenden Angaben vorzulegen:

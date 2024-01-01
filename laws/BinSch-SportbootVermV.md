@@ -23,7 +23,7 @@ für Sport- oder Erholungszwecke verwendetes Wasserfahrzeug mit einer Länge von
 
 4. Unternehmen:
 
-natürliche oder juristische Personen sowie Personengesellschaften, sofern sie mit der Fähigkeit ausgestattet sind, Rechte zu erwerben und Verbindlichkeiten einzugehen, und deren Bevollmächtigte, die Sportboote zum Einsatz auf Binnenschifffahrtsstraßen vermieten,
+natürliche oder juristische Personen sowie rechtsfähige Personengesellschaften und deren Bevollmächtigte, die Sportboote zum Einsatz auf Binnenschifffahrtsstraßen vermieten,
 
 5. Vermietung:
 

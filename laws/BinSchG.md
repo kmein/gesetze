@@ -63,7 +63,7 @@ Hat der Schiffseigner gegen den Gläubiger eines in § 4 aufgeführten Anspruchs
 
 (1) Der Schiffseigner kann seine Haftung nach den Vorschriften dieses Abschnitts nicht beschränken, wenn der Schaden auf eine Handlung oder Unterlassung zurückzuführen ist, die von ihm selbst in der Absicht, einen solchen Schaden herbeizuführen, oder leichtfertig und in dem Bewußtsein begangen wurde, daß ein solcher Schaden mit Wahrscheinlichkeit eintreten werde.
 
-(2) Ist der Schiffseigner eine juristische Person oder eine Personenhandelsgesellschaft, so kann er seine Haftung nicht beschränken, wenn der Schaden auf eine die Beschränkung der Haftung nach Absatz 1 ausschließende Handlung oder Unterlassung eines Mitglieds des zur Vertretung berechtigten Organs oder eines zur Vertretung berechtigten Gesellschafters zurückzuführen ist.
+(2) Ist der Schiffseigner eine juristische Person oder eine rechtsfähige Personengesellschaft, so kann er seine Haftung nicht beschränken, wenn der Schaden auf eine die Beschränkung der Haftung nach Absatz 1 ausschließende Handlung oder Unterlassung eines Mitglieds des zur Vertretung berechtigten Organs oder eines zur Vertretung berechtigten Gesellschafters zurückzuführen ist.
 
 # § 5c
 
@@ -75,7 +75,7 @@ Hat der Schiffseigner gegen den Gläubiger eines in § 4 aufgeführten Anspruchs
 
 3. jede Person, für deren Handeln, Unterlassen oder Verschulden der Schiffseigner oder eine der in den Nummern 1 und 2 genannten Personen haftet.
 
-(2) Ist der Schuldner eine Personenhandelsgesellschaft, so kann auch jeder Gesellschafter seine persönliche Haftung für Ansprüche beschränken, für welche die Gesellschaft ihre Haftung beschränken kann.
+(2) Ist der Schuldner eine rechtsfähige Personengesellschaft, so kann auch jeder Gesellschafter seine persönliche Haftung für Ansprüche beschränken, für welche die Gesellschaft ihre Haftung beschränken kann.
 
 (3) Ein Versicherer, der die Haftung in bezug auf Ansprüche versichert, die der Beschränkung nach diesen Vorschriften unterliegen, kann sich Dritten gegenüber auf die Haftungsbeschränkung in gleichem Umfang wie der Versicherte berufen.
 

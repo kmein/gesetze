@@ -83,7 +83,7 @@ zeitlich gestaffelter Anbau von gleichen Gemüsekulturen während der Vegetation
 
 17. Betriebsinhaber:
 
-eine natürliche oder juristische Person oder eine nicht rechtsfähige Personenvereinigung, die einen Betrieb unterhält;
+eine natürliche oder juristische Person oder eine sonstige Personenvereinigung, die einen Betrieb unterhält;
 
 18. Betrieb:
 

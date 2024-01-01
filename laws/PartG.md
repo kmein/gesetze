@@ -527,13 +527,13 @@ c) es sich um eine Spende eines Ausländers von nicht mehr als 1 000 Euro hande
 
 2. bei der Führung der Bücher oder der Aufstellung des zu prüfenden Rechenschaftsberichts über die Prüfungstätigkeit hinaus mitgewirkt hat;
 
-3. gesetzlicher Vertreter, Arbeitnehmer, Mitglied des Aufsichtsrats oder Gesellschafter einer juristischen oder natürlichen Person oder einer Personengesellschaft oder Inhaber eines Unternehmens ist, sofern die juristische oder natürliche Person, die Personengesellschaft oder einer ihrer Gesellschafter oder das Einzelunternehmen nach Nummer 2 nicht Prüfer der Partei sein darf;
+3. gesetzlicher Vertreter, Arbeitnehmer, Mitglied des Aufsichtsrats oder Gesellschafter einer juristischen oder natürlichen Person oder einer rechtsfähigen Personengesellschaft oder Inhaber eines Unternehmens ist, sofern die juristische oder natürliche Person, die rechtsfähige Personengesellschaft oder einer ihrer Gesellschafter oder das Einzelunternehmen nach Nummer 2 nicht Prüfer der Partei sein darf;
 
 4. bei der Prüfung eine Person beschäftigt, die nach Nummer 1 bis 3 nicht Prüfer sein darf.
 
 (2) Eine Wirtschaftsprüfungsgesellschaft oder Buchprüfungsgesellschaft darf nicht Prüfer sein, wenn
 
-1. sie nach Absatz 1 Nr. 3 als Gesellschafter einer juristischen Person oder einer Personengesellschaft oder nach Absatz 1 Nr. 2 oder 4 nicht Prüfer sein darf;
+1. sie nach Absatz 1 Nr. 3 als Gesellschafter einer juristischen Person oder einer rechtsfähigen Personengesellschaft oder nach Absatz 1 Nr. 2 oder 4 nicht Prüfer sein darf;
 
 2. einer ihrer gesetzlichen Vertreter oder einer ihrer Gesellschafter nach Absatz 1 Nr. 2 oder 3 nicht Prüfer sein darf.
 

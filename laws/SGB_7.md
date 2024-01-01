@@ -2291,7 +2291,7 @@ Umstellung der Mitgliedsnummer auf die Unternehmernummer
 
 § 225
 
-(weggefallen)
+Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 
 Anlage 1
 
@@ -2327,7 +2327,7 @@ a) Unternehmer eines landwirtschaftlichen Unternehmens sind und ihre im Unterneh
 
 b) im landwirtschaftlichen Unternehmen nicht nur vorübergehend mitarbeitende Familienangehörige sind,
 
-c) in landwirtschaftlichen Unternehmen in der Rechtsform von Kapital- oder Personenhandelsgesellschaften regelmäßig wie Unternehmer selbständig tätig sind,
+c) in landwirtschaftlichen Unternehmen in der Rechtsform von Kapital- oder rechtsfähigen Personengesellschaften regelmäßig wie Unternehmer selbständig tätig sind,
 
 d) ehrenamtlich in Unternehmen tätig sind, die unmittelbar der Sicherung, Überwachung oder Förderung der Landwirtschaft überwiegend dienen,
 
@@ -2471,11 +2471,7 @@ Versicherungsschutz besteht nur, soweit die Personen nach dem Recht des Beschäf
 
 1. Personen, soweit für sie beamtenrechtliche Unfallfürsorgevorschriften oder entsprechende Grundsätze gelten; ausgenommen sind Ehrenbeamte und ehrenamtliche Richter,
 
-2. Personen, soweit für sie das Bundesversorgungsgesetz oder Gesetze, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, gelten, es sei denn, daß
-
-a) der Versicherungsfall zugleich die Folge einer Schädigung im Sinne dieser Gesetze ist oder
-
-b) es sich um eine Schädigung im Sinne des § 5 Abs. 1 Buchstabe e des Bundesversorgungsgesetzes handelt,
+2. Personen in der Zeit, in der sie aufgrund gesetzlicher Pflicht Wehrdienst oder Zivildienst leisten.
 
 3. satzungsmäßige Mitglieder geistlicher Genossenschaften, Diakonissen und Angehörige ähnlicher Gemeinschaften, wenn ihnen nach den Regeln der Gemeinschaft Anwartschaft auf die in der Gemeinschaft übliche Versorgung gewährleistet und die Erfüllung der Gewährleistung gesichert ist.
 
@@ -2501,7 +2497,7 @@ Von der Versicherung nach § 2 Abs. 1 Nr. 5 werden auf Antrag Unternehmer landwi
 
 1. Unternehmer und ihre im Unternehmen mitarbeitenden Ehegatten oder Lebenspartner; ausgenommen sind Haushaltsführende, Unternehmer von nicht gewerbsmäßig betriebenen Binnenfischereien, von nicht gewerbsmäßig betriebenen Unternehmen nach § 123 Abs. 1 Nr. 2 und ihre Ehegatten oder Lebenspartner sowie Fischerei- und Jagdgäste,
 
-2. Personen, die in Kapital- oder Personenhandelsgesellschaften regelmäßig wie Unternehmer selbständig tätig sind,
+2. Personen, die in Kapital- oder rechtsfähigen Personengesellschaften regelmäßig wie Unternehmer selbständig tätig sind,
 
 3. gewählte oder beauftragte Ehrenamtsträger in gemeinnützigen Organisationen,
 
@@ -3049,7 +3045,7 @@ für die Versicherten und für eine wegen des Gesundheitsschadens erforderliche 
 
 1. infolge des Versicherungsfalls arbeitsunfähig sind oder wegen einer Maßnahme der Heilbehandlung eine ganztägige Erwerbstätigkeit nicht ausüben können und
 
-2. unmittelbar vor Beginn der Arbeitsunfähigkeit oder der Heilbehandlung Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch oder Mutterschaftsgeld hatten.
+2. unmittelbar vor Beginn der Arbeitsunfähigkeit oder der Heilbehandlung Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch oder Mutterschaftsgeld hatten.
 
 (2) Verletztengeld wird auch erbracht, wenn
 
@@ -3109,7 +3105,7 @@ Arbeitseinkommen ist bei der Ermittlung des Regelentgelts mit dem 360. Teil des 
 
 (3) Versicherte, die als Entwicklungshelfer Unterhaltsleistungen nach § 4 Abs. 1 Nr. 1 des Entwicklungshelfer-Gesetzes bezogen haben, erhalten Verletztengeld in Höhe dieses Betrages.
 
-(4) Bei Versicherten, die unmittelbar vor dem Versicherungsfall Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Versorgungskrankengeld oder Übergangsgeld bezogen haben, wird bei der Berechnung des Verletztengeldes von dem bisher zugrunde gelegten Regelentgelt ausgegangen.
+(4) Bei Versicherten, die unmittelbar vor dem Versicherungsfall Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen Entschädigung oder Übergangsgeld bezogen haben, wird bei der Berechnung des Verletztengeldes von dem bisher zugrunde gelegten Regelentgelt ausgegangen.
 
 (5) Abweichend von Absatz 1 erhalten Versicherte, die den Versicherungsfall infolge einer Tätigkeit als Unternehmer, mitarbeitende Ehegatten oder Lebenspartner oder den Unternehmern nach § 6 Abs. 1 Nr. 2 Gleichgestellte erlitten haben, Verletztengeld je Kalendertag in Höhe des 450. Teils des Jahresarbeitsverdienstes. Ist das Verletztengeld für einen ganzen Kalendermonat zu zahlen, ist dieser mit 30 Tagen anzusetzen.
 
@@ -3147,7 +3143,7 @@ Auf das Verletzten- und Übergangsgeld werden von dem gleichzeitig erzielten Ein
 
 1. beitragspflichtiges Arbeitsentgelt oder Arbeitseinkommen, das bei Arbeitnehmern um die gesetzlichen Abzüge und bei sonstigen Versicherten um 20 vom Hundert vermindert ist; dies gilt nicht für einmalig gezahltes Arbeitsentgelt,
 
-2. Mutterschaftsgeld, Versorgungskrankengeld, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches; dies gilt auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gemindert ist.
+2. Mutterschaftsgeld, Krankengeld der Sozialen Entschädigung, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches; dies gilt auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gemindert ist.
 
 # § 53 – Vorrang der medizinischen Betreuung durch die Reeder
 
@@ -3195,7 +3191,7 @@ Auf das Verletzten- und Übergangsgeld werden von dem gleichzeitig erzielten Ein
 
 # § 56 – Voraussetzungen und Höhe des Rentenanspruchs
 
-(1) Versicherte, deren Erwerbsfähigkeit infolge eines Versicherungsfalls über die 26. Woche nach dem Versicherungsfall hinaus um wenigstens 20 vom Hundert gemindert ist, haben Anspruch auf eine Rente. Ist die Erwerbsfähigkeit infolge mehrerer Versicherungsfälle gemindert und erreichen die Vomhundertsätze zusammen wenigstens die Zahl 20, besteht für jeden, auch für einen früheren Versicherungsfall, Anspruch auf Rente. Die Folgen eines Versicherungsfalls sind nur zu berücksichtigen, wenn sie die Erwerbsfähigkeit um wenigstens 10 vom Hundert mindern. Den Versicherungsfällen stehen gleich Unfälle oder Entschädigungsfälle nach den Beamtengesetzen, dem Bundesversorgungsgesetz, dem Soldatenversorgungsgesetz, dem Gesetz über den zivilen Ersatzdienst, dem Gesetz über die Abgeltung von Besatzungsschäden, dem Häftlingshilfegesetz und den entsprechenden Gesetzen, die Entschädigung für Unfälle oder Beschädigungen gewähren.
+(1) Versicherte, deren Erwerbsfähigkeit infolge eines Versicherungsfalls über die 26. Woche nach dem Versicherungsfall hinaus um wenigstens 20 vom Hundert gemindert ist, haben Anspruch auf eine Rente. Ist die Erwerbsfähigkeit infolge mehrerer Versicherungsfälle gemindert und erreichen die Vomhundertsätze zusammen wenigstens die Zahl 20, besteht für jeden, auch für einen früheren Versicherungsfall, Anspruch auf Rente. Die Folgen eines Versicherungsfalls sind nur zu berücksichtigen, wenn sie die Erwerbsfähigkeit um wenigstens 10 vom Hundert mindern. Den Versicherungsfällen stehen gleich Unfälle oder Entschädigungsfälle nach den Beamtengesetzen, dem Vierzehnten Buch, dem Soldatenversorgungsgesetz, dem Gesetz über den zivilen Ersatzdienst, dem Gesetz über die Abgeltung von Besatzungsschäden, dem Häftlingshilfegesetz und den entsprechenden Gesetzen, die Entschädigung für Unfälle oder Beschädigungen gewähren.
 
 (2) Die Minderung der Erwerbsfähigkeit richtet sich nach dem Umfang der sich aus der Beeinträchtigung des körperlichen und geistigen Leistungsvermögens ergebenden verminderten Arbeitsmöglichkeiten auf dem gesamten Gebiet des Erwerbslebens. Bei jugendlichen Versicherten wird die Minderung der Erwerbsfähigkeit nach den Auswirkungen bemessen, die sich bei Erwachsenen mit gleichem Gesundheitsschaden ergeben würden. Bei der Bemessung der Minderung der Erwerbsfähigkeit werden Nachteile berücksichtigt, die die Versicherten dadurch erleiden, daß sie bestimmte von ihnen erworbene besondere berufliche Kenntnisse und Erfahrungen infolge des Versicherungsfalls nicht mehr oder nur noch in vermindertem Umfang nutzen können, soweit solche Nachteile nicht durch sonstige Fähigkeiten, deren Nutzung ihnen zugemutet werden kann, ausgeglichen werden.
 
@@ -3793,7 +3789,7 @@ Personen, deren Haftung nach den §§ 104 bis 107 beschränkt ist und gegen die 
 
 # § 111 – Haftung des Unternehmens
 
-Haben ein Mitglied eines vertretungsberechtigten Organs, Abwickler oder Liquidatoren juristischer Personen, vertretungsberechtigte Gesellschafter oder Liquidatoren einer Personengesellschaft des Handelsrechts oder gesetzliche Vertreter der Unternehmer in Ausführung ihnen zustehender Verrichtungen den Versicherungsfall vorsätzlich oder grob fahrlässig verursacht, haften nach Maßgabe des § 110 auch die Vertretenen. Eine nach § 110 bestehende Haftung derjenigen, die den Versicherungsfall verursacht haben, bleibt unberührt. Das gleiche gilt für Mitglieder des Vorstandes eines nicht rechtsfähigen Vereins oder für vertretungsberechtigte Gesellschafter einer Personengesellschaft des bürgerlichen Rechts mit der Maßgabe, daß sich die Haftung auf das Vereins- oder das Gesellschaftsvermögen beschränkt.
+Haben ein Mitglied eines vertretungsberechtigten Organs, Abwickler oder Liquidatoren juristischer Personen, vertretungsberechtigte Gesellschafter oder Liquidatoren einer rechtsfähigen Personengesellschaft oder gesetzliche Vertreter der Unternehmer in Ausführung ihnen zustehender Verrichtungen den Versicherungsfall vorsätzlich oder grob fahrlässig verursacht, haften nach Maßgabe des § 110 auch die Vertretenen. Eine nach § 110 bestehende Haftung derjenigen, die den Versicherungsfall verursacht haben, bleibt unberührt. Das Gleiche gilt für Mitglieder des Vorstandes eines nicht rechtsfähigen Vereins mit der Maßgabe, dass sich die Haftung auf das Vereinsvermögen beschränkt.
 
 # § 112 – Bindung der Gerichte
 
@@ -4241,7 +4237,7 @@ Die Unfallversicherungsträger sind für sich und ihre eigenen Unternehmen zust�
 
 # § 136a – Unternehmernummer
 
-(1) Jeder Unternehmer erhält bei erstmaliger Aufnahme einer unternehmerischen Tätigkeit eine Unternehmernummer. Die Unternehmernummer wird nach Mitteilung über den Unternehmensbeginn im Sinne von § 192 Absatz 1 über die Deutsche Gesetzliche Unfallversicherung e. V. unverzüglich vergeben. Die Unternehmer, die bereits eine Unternehmernummer erhalten haben, teilen den Beginn und das Ende eines oder mehrerer weiterer Unternehmen nach § 192 Absatz 1 unter Angabe der Unternehmernummer und der notwendigen Angaben zur Identifizierung des Unternehmens dem zuständigen Träger der Unfallversicherung mit. In einem Anhang zu der Unternehmernummer werden die dem Unternehmer zugehörigen Unternehmen numerisch in aufsteigender Folge bezeichnet. Die Unternehmernummer und die zur Identifizierung des Unternehmens erforderlichen Daten werden in einem zentralen Dateisystem bei der Deutschen Gesetzlichen Unfallversicherung e. V. gespeichert. Die Berufsgenossenschaften und Unfallversicherungsträger der öffentlichen Hand haben zur Erledigung ihrer gesetzlichen Aufgaben Zugriff auf dieses Dateisystem; dies gilt auch für die Arbeitsschutzbehörden der Länder, soweit dies für die Erfüllung ihrer Aufgaben nach § 21 Absatz 3a des Arbeitsschutzgesetzes erforderlich ist. Die Berufsgenossenschaften und die Unfallversicherungsträger der öffentlichen Hand führen die Unternehmer- und Unternehmensnummern ihrer Mitglieder jeweils in einem gesonderten Mitgliederdateisystem.
+(1) Jeder Unternehmer erhält bei erstmaliger Aufnahme einer unternehmerischen Tätigkeit eine Unternehmernummer. Die Unternehmernummer wird nach Mitteilung über den Unternehmensbeginn im Sinne von § 192 Absatz 1 über die Deutsche Gesetzliche Unfallversicherung e. V. unverzüglich vergeben. Die Unternehmer, die bereits eine Unternehmernummer erhalten haben, teilen den Beginn und das Ende eines oder mehrerer weiterer Unternehmen nach § 192 Absatz 1 unter Angabe der Unternehmernummer und der notwendigen Angaben zur Identifizierung des Unternehmens dem zuständigen Träger der Unfallversicherung mit. In einem Anhang zu der Unternehmernummer werden die dem Unternehmer zugehörigen Unternehmen numerisch in aufsteigender Folge bezeichnet. Die Unternehmernummer und die zur Identifizierung des Unternehmens erforderlichen Daten, einschließlich aller dem Unternehmen zuzuordnenden Betriebsnummern, werden in einem zentralen Dateisystem bei der Deutschen Gesetzlichen Unfallversicherung e. V. gespeichert. Die Berufsgenossenschaften und Unfallversicherungsträger der öffentlichen Hand haben zur Erledigung ihrer gesetzlichen Aufgaben Zugriff auf dieses Dateisystem; dies gilt auch für die Arbeitsschutzbehörden der Länder, soweit dies für die Erfüllung ihrer Aufgaben nach § 21 Absatz 3a des Arbeitsschutzgesetzes erforderlich ist. Die Berufsgenossenschaften und die Unfallversicherungsträger der öffentlichen Hand führen die Unternehmer- und Unternehmensnummern ihrer Mitglieder jeweils in einem gesonderten Mitgliederdateisystem.
 
 (2) Bei Änderungen, die die nach Absatz 1 zum Unternehmer oder zum Unternehmen gespeicherten Daten betreffen, gilt § 192 Absatz 2 entsprechend.
 
@@ -5446,7 +5442,9 @@ Der Angleichungssatz im ersten Jahr ergibt sich aus der Summe des Ausgangssatzes
 
 Bei Änderungen, die die zum Unternehmer oder zum Unternehmen gespeicherten Daten betreffen, gilt § 192 Absatz 2 entsprechend. Das Nähere zum Verfahren, zu den erforderlichen Angaben und zu den Datensätzen regelt die Deutsche Gesetzliche Unfallversicherung e. V. in Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft in Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales zu genehmigen sind.
 
-# § 225 – (weggefallen)
+# § 225 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 4 Absatz 1 Nummer 2, des § 45 Absatz 1 Nummer 2, des § 47 Absatz 4, des § 52 Nummer 2 und des § 56 Absatz 1 Satz 4 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 # Anlage 1 – (zu § 114)Gewerbliche Berufsgenossenschaften
 

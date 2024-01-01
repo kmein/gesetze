@@ -1608,7 +1608,7 @@ zu regeln, soweit es geboten ist, um eine unmittelbare oder mittelbare Gefährdu
 
 4. andere zur Arzneimittelherstellung bestimmte Stoffe menschlicher Herkunft
 
-gewerbs- oder berufsmäßig herstellt, bedarf einer Erlaubnis der zuständigen Behörde. Das Gleiche gilt für juristische Personen, nicht rechtsfähige Vereine und Gesellschaften bürgerlichen Rechts, die Arzneimittel zum Zwecke der Abgabe an ihre Mitglieder herstellen. Satz 1 findet auf eine Prüfung, auf deren Grundlage die Freigabe des Arzneimittels für das Inverkehrbringen erklärt wird, entsprechende Anwendung. § 14 Absatz 4 bleibt unberührt.
+gewerbs- oder berufsmäßig herstellt, bedarf einer Erlaubnis der zuständigen Behörde. Das Gleiche gilt für juristische Personen, für Vereine, die nicht durch Eintragung in das Vereinsregister Rechtspersönlichkeit erlangt haben, und für Personengesellschaften, die Arzneimittel zum Zwecke der Abgabe an ihre Mitglieder herstellen. Satz 1 findet auf eine Prüfung, auf deren Grundlage die Freigabe des Arzneimittels für das Inverkehrbringen erklärt wird, entsprechende Anwendung. § 14 Absatz 4 bleibt unberührt.
 
 (1a) Absatz 1 findet keine Anwendung auf
 
@@ -2900,7 +2900,7 @@ Alle anderen Inspektionen nach Artikel 78 der Verordnung (EU) Nr. 536/2014 zur �
 
 (1) Arzneimittel, die nicht durch die Vorschriften des § 44 oder der nach § 45 Abs. 1 erlassenen Rechtsverordnung für den Verkehr außerhalb der Apotheken freigegeben sind, dürfen außer in den Fällen des § 47 berufs- oder gewerbsmäßig für den Endverbrauch nur in Apotheken und ohne behördliche Erlaubnis nicht im Wege des Versandes in den Verkehr gebracht werden; das Nähere regelt das Apothekengesetz. Außerhalb der Apotheken darf außer in den Fällen des § 47 Abs. 1 mit den nach Satz 1 den Apotheken vorbehaltenen Arzneimitteln kein Handel getrieben werden. Die Angaben über die Ausstellung oder Änderung einer Erlaubnis zum Versand von Arzneimitteln nach Satz 1 sind in die Datenbank nach § 67a einzugeben.
 
-(2) Die nach Absatz 1 Satz 1 den Apotheken vorbehaltenen Arzneimittel dürfen von juristischen Personen, nicht rechtsfähigen Vereinen und Gesellschaften des bürgerlichen Rechts und des Handelsrechts an ihre Mitglieder nicht abgegeben werden, es sei denn, dass es sich bei den Mitgliedern um Apotheken oder um die in § 47 Abs. 1 genannten Personen und Einrichtungen handelt und die Abgabe unter den dort bezeichneten Voraussetzungen erfolgt.
+(2) Die nach Absatz 1 Satz 1 den Apotheken vorbehaltenen Arzneimittel dürfen von juristischen Personen, von Vereinen, die nicht durch Eintragung in das Vereinsregister Rechtspersönlichkeit erlangt haben, und von Personengesellschaften an ihre Mitglieder nicht abgegeben werden, es sei denn, dass es sich bei den Mitgliedern um Apotheken oder um die in § 47 Abs. 1 genannten Personen und Einrichtungen handelt und die Abgabe unter den dort bezeichneten Voraussetzungen erfolgt.
 
 (3) Auf Verschreibung dürfen Arzneimittel nur von Apotheken abgegeben werden.
 

@@ -104,7 +104,7 @@ K<sub>AE</sub> ∙ (P<sub>AE</sub> – P<sub>VT</sub>) + VK<sub>AE</sub> ∙ (
 
 (1) Das Umweltbundesamt betreibt das Herkunftsnachweisregister nach § 79 Absatz 4 des Erneuerbare-Energien-Gesetzes nach Maßgabe der Rechtsverordnung nach § 14.
 
-(2) Jede natürliche oder juristische Person und jede Personengesellschaft erhält auf Antrag nach Maßgabe der Rechtsverordnung nach § 14 ein Konto im Herkunftsnachweisregister, in dem die Ausstellung, Inhaberschaft, Anerkennung, Übertragung, Verwendung und Entwertung von Herkunftsnachweisen registriert werden.
+(2) Jede natürliche oder juristische Person und jede rechtsfähige Personengesellschaft erhält auf Antrag nach Maßgabe der Rechtsverordnung nach § 14 ein Konto im Herkunftsnachweisregister, in dem die Ausstellung, Inhaberschaft, Anerkennung, Übertragung, Verwendung und Entwertung von Herkunftsnachweisen registriert werden.
 
 (3) Das Umweltbundesamt kann nach Maßgabe der Rechtsverordnung nach § 14 bei Vorliegen eines berechtigten Interesses Konten vorläufig sperren oder schließen sowie Kontoinhaber vorläufig oder dauerhaft von der weiteren Nutzung des Herkunftsnachweisregisters ausschließen.
 

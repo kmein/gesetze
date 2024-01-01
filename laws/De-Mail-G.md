@@ -17,11 +17,11 @@ Zuständige Behörde nach diesem Gesetz ist das Bundesamt für Sicherheit in der
 
 (1) Durch einen De-Mail-Konto-Vertrag verpflichtet sich ein akkreditierter Diensteanbieter, einem Nutzer ein De-Mail-Konto zur Verfügung zu stellen. Ein De-Mail-Konto ist ein Bereich in einem De-Mail-Dienst, der einem Nutzer so zugeordnet ist, dass er nur von ihm genutzt werden kann. Der akkreditierte Diensteanbieter hat durch technische Mittel sicherzustellen, dass nur der diesem De-Mail-Konto zugeordnete Nutzer Zugang zu dem ihm zugeordneten De-Mail-Konto erlangen kann.
 
-(2) Der akkreditierte Diensteanbieter hat die Identität des Nutzers und bei juristischen Personen, Personengesellschaften oder öffentlichen Stellen zusätzlich die Identität ihrer gesetzlichen Vertreter oder Organmitglieder zuverlässig festzustellen. Dazu erhebt und speichert er folgende Angaben:
+(2) Der akkreditierte Diensteanbieter hat die Identität des Nutzers und bei juristischen Personen, rechtsfähigen Personengesellschaften oder öffentlichen Stellen zusätzlich die Identität ihrer gesetzlichen Vertreter oder Organmitglieder zuverlässig festzustellen. Dazu erhebt und speichert er folgende Angaben:
 
 1. bei einer natürlichen Person Name, Geburtsort, Geburtsdatum und Anschrift;
 
-2. bei einer juristischen Person oder Personengesellschaft oder öffentlichen Stelle Firma, Name oder Bezeichnung, Rechtsform, Registernummer, soweit vorhanden, Anschrift des Sitzes oder der Hauptniederlassung und Namen der Mitglieder des Vertretungsorgans oder der gesetzlichen Vertreter; ist ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juristische Person, so wird deren Firma, Name oder Bezeichnung, Rechtsform, Registernummer, soweit vorhanden, und Anschrift des Sitzes oder der Hauptniederlassung erhoben.
+2. bei einer juristischen Person oder rechtsfähigen Personengesellschaft oder öffentlichen Stelle Firma, Name oder Bezeichnung, Rechtsform, Registernummer, soweit vorhanden, Anschrift des Sitzes oder der Hauptniederlassung und Namen der Mitglieder des Vertretungsorgans oder der gesetzlichen Vertreter; ist ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juristische Person, so wird deren Firma, Name oder Bezeichnung, Rechtsform, Registernummer, soweit vorhanden, und Anschrift des Sitzes oder der Hauptniederlassung erhoben.
 
 (3) Der akkreditierte Diensteanbieter hat die Angaben nach Absatz 2 vor Freischaltung des De-Mail-Kontos des Nutzers zu überprüfen:
 
@@ -37,7 +37,7 @@ d) anhand einer qualifizierten elektronischen Signatur oder
 
 e) anhand sonstiger geeigneter technischer Verfahren mit gleichwertiger Sicherheit zu einer Identifizierung anhand der Dokumente nach Buchstabe a;
 
-2. bei juristischen Personen oder Personengesellschaften oder bei öffentlichen Stellen
+2. bei juristischen Personen oder rechtsfähigen Personengesellschaften oder bei öffentlichen Stellen
 
 a) anhand eines Auszugs aus dem Handels- oder Genossenschaftsregister oder aus einem vergleichbaren amtlichen Register oder Verzeichnis,
 
@@ -83,7 +83,7 @@ Soweit die Anschrift von natürlichen Personen nicht durch Verfahren nach Satz 1
 
 2. bei natürlichen Personen im lokalen Teil deren Nachnamen und einen oder mehrere Vornamen oder einen Teil des oder der Vornamen (Hauptadresse);
 
-3. bei juristischen Personen, Personengesellschaften oder öffentlichen Stellen im Domänenteil eine Bezeichnung, welche in direktem Bezug zu ihrer Firma, Namen oder sonstiger Bezeichnung steht.
+3. bei juristischen Personen, rechtsfähigen Personengesellschaften oder öffentlichen Stellen im Domänenteil eine Bezeichnung, welche in direktem Bezug zu ihrer Firma, Namen oder sonstiger Bezeichnung steht.
 
 (2) Der akkreditierte Diensteanbieter kann Nutzern auf Verlangen auch pseudonyme De-Mail-Adressen zur Verfügung stellen, soweit es sich bei dem Nutzer um eine natürliche Person handelt. Die Inanspruchnahme eines Dienstes durch den Nutzer unter Pseudonym ist für Dritte erkennbar zu kennzeichnen.
 
@@ -97,7 +97,7 @@ Der Einsatz einer durchgängigen Verschlüsselung zwischen Sender und Empfänger
 
 (4) Der Sender kann eine sichere Anmeldung nach § 4 für den Abruf der Nachricht durch den Empfänger bestimmen.
 
-(5) Der akkreditierte Diensteanbieter muss dem Nutzer ermöglichen, seine sichere Anmeldung im Sinne von § 4 in der Nachricht so bestätigen zu lassen, dass die Unverfälschtheit der Bestätigung jederzeit nachprüfbar ist. Um dieses dem Empfänger der Nachricht kenntlich zu machen, bestätigt der akkreditierte Diensteanbieter des Senders die Verwendung der sicheren Anmeldung nach § 4. Hierzu versieht er im Auftrag des Senders die Nachricht mit einer dauerhaft überprüfbaren qualifizierten elektronischen Signatur; sind der Nachricht eine oder mehrere Dateien beigefügt, bezieht sich die qualifizierte elektronische Signatur auch auf diese. Die Bestätigung enthält bei natürlichen Personen den Namen und die Vornamen, bei juristischen Personen, Personengesellschaften oder öffentlichen Stellen die Firma, den Namen oder die Bezeichnung des Senders in der Form, in der diese nach § 3 Absatz 2 hinterlegt sind. Die Tatsache, dass der Absender diese Versandart genutzt hat, muss sich aus der Nachricht in der Form, wie sie beim Empfänger ankommt, ergeben. Die Bestätigung nach Satz 1 ist nicht zulässig bei Verwendung einer pseudonymen De-Mail-Adresse nach Absatz 2.
+(5) Der akkreditierte Diensteanbieter muss dem Nutzer ermöglichen, seine sichere Anmeldung im Sinne von § 4 in der Nachricht so bestätigen zu lassen, dass die Unverfälschtheit der Bestätigung jederzeit nachprüfbar ist. Um dieses dem Empfänger der Nachricht kenntlich zu machen, bestätigt der akkreditierte Diensteanbieter des Senders die Verwendung der sicheren Anmeldung nach § 4. Hierzu versieht er im Auftrag des Senders die Nachricht mit einer dauerhaft überprüfbaren qualifizierten elektronischen Signatur; sind der Nachricht eine oder mehrere Dateien beigefügt, bezieht sich die qualifizierte elektronische Signatur auch auf diese. Die Bestätigung enthält bei natürlichen Personen den Namen und die Vornamen, bei juristischen Personen, rechtsfähigen Personengesellschaften oder öffentlichen Stellen die Firma, den Namen oder die Bezeichnung des Senders in der Form, in der diese nach § 3 Absatz 2 hinterlegt sind. Die Tatsache, dass der Absender diese Versandart genutzt hat, muss sich aus der Nachricht in der Form, wie sie beim Empfänger ankommt, ergeben. Die Bestätigung nach Satz 1 ist nicht zulässig bei Verwendung einer pseudonymen De-Mail-Adresse nach Absatz 2.
 
 (6) Der akkreditierte Diensteanbieter mit Ausnahme der Diensteanbieter nach § 19 ist verpflichtet, elektronische Nachrichten nach den Vorschriften der Prozessordnungen und der Gesetze, die die Verwaltungszustellung regeln, förmlich zuzustellen. Im Umfang dieser Verpflichtung ist der akkreditierte Diensteanbieter mit Hoheitsbefugnissen ausgestattet (beliehener Unternehmer).
 

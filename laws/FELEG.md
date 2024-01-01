@@ -220,7 +220,7 @@ Der Anspruch auf ein Ausgleichsgeld ruht während der Zeit, in der der Leistungs
 
 1. eine Beschäftigung oder selbständige Tätigkeit ausübt, die die Geringfügigkeitsgrenze des § 8 des Vierten Buches Sozialgesetzbuch überschreitet,
 
-2. Krankengeld, Versorgungskrankengeld, Übergangsgeld oder Verletztengeld von einem Sozialleistungsträger, eine Entgeltersatzleistung oder Eingliederungshilfe nach dem Dritten Buch Sozialgesetzbuch, Altersübergangsgeld nach dem Arbeitsförderungsgesetz in der bis zum 31. Dezember 1997 geltenden Fassung, Eingliederungsgeld nach dem Arbeitsförderungsgesetz in der bis zum 31. Dezember 1992 geltenden Fassung oder eine Vorruhestandsleistung von der Bundesagentur für Arbeit nach Anlage II Kapitel VIII Sachgebiet E Abschnitt III Nr. 5 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1210) erhält.
+2. Krankengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld oder Verletztengeld von einem Sozialleistungsträger, eine Entgeltersatzleistung oder Eingliederungshilfe nach dem Dritten Buch Sozialgesetzbuch, Altersübergangsgeld nach dem Arbeitsförderungsgesetz in der bis zum 31. Dezember 1997 geltenden Fassung, Eingliederungsgeld nach dem Arbeitsförderungsgesetz in der bis zum 31. Dezember 1992 geltenden Fassung oder eine Vorruhestandsleistung von der Bundesagentur für Arbeit nach Anlage II Kapitel VIII Sachgebiet E Abschnitt III Nr. 5 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1210) erhält.
 
 Der Anspruch fällt weg, wenn die Beschäftigung oder selbständige Tätigkeit nach Satz 1 Nr. 1 länger als drei Jahre dauert. Ohne Freibetrag werden angerechnet
 
@@ -407,6 +407,8 @@ Vom 1. Januar 1997 an ist dieses Gesetz nur noch anzuwenden, wenn die Voraussetz
 (3) § 13 Abs. 1 Nr. 3 bis 6 und § 16 Satz 1 Nr. 3 bis 6 sind von dem Zeitpunkt ihres Inkrafttretens an auf einen Sachverhalt auch dann anzuwenden, wenn bereits vor diesem Zeitpunkt der Sachverhalt bestanden hat.
 
 (4) § 18e gilt nur für die Fälle, in denen am 18. Juni 1994 die Leistung noch nicht endgültig festgesetzt war.
+
+(5) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 12 Satz 1 Nummer 2 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 # § 23 – Inkrafttreten
 

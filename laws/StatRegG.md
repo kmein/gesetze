@@ -13,7 +13,7 @@
 
 4. Beziehungen zu anderen Einheiten,
 
-5. Eintragung in die Handwerksrolle und in das Verzeichnis der Inhaber eines Betriebes eines zulassungsfreien Handwerks oder eines handwerksähnlichen Gewerbes, Art der ausgeübten Tätigkeit, Ort und Nummer der Eintragung in das Handels-, Genossenschafts-, Vereins- oder Partnerschaftsregister, Kennzeichen zur Identifikation aus den Gewerbeanzeigen, Zugehörigkeit zu einer Organschaft,
+5. Eintragung in die Handwerksrolle und in das Verzeichnis der Inhaber eines Betriebes eines zulassungsfreien Handwerks oder eines handwerksähnlichen Gewerbes, Art der ausgeübten Tätigkeit, Ort und Nummer der Eintragung in das Handels-, Genossenschafts-, Gesellschafts-, Vereins- oder Partnerschaftsregister, Kennzeichen zur Identifikation aus den Gewerbeanzeigen, Zugehörigkeit zu einer Organschaft,
 
 6. Geokoordinate,
 
@@ -133,7 +133,7 @@ Die Industrie- und Handelskammern übermitteln von den Kammerzugehörigen ihres 
 
 Die Handwerkskammern übermitteln von den Kammerzugehörigen ihres Bezirks folgende Angaben:
 
-1. Name oder Firma, bei Gesellschaften des Bürgerlichen Rechts die Bezeichnung, unter der sie das Handwerk oder das handwerksähnliche Gewerbe betreiben, sowie Anschrift der gewerblichen Hauptniederlassung einschließlich Gemeindeschlüssel,
+1. Name oder Firma, bei rechtsfähigen Gesellschaften des Bürgerlichen Rechts die Bezeichnung, unter der sie das Handwerk oder das handwerksähnliche Gewerbe betreiben, sowie Anschrift der gewerblichen Hauptniederlassung einschließlich Gemeindeschlüssel,
 
 2. Rechtsform,
 

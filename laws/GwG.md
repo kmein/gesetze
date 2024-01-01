@@ -315,7 +315,7 @@ d) (weggefallen)
 
 In diesem Fall hat es die Europäische Kommission zeitnah zu unterrichten.
 
-(3) Für Gerichte, die öffentliche Versteigerungen durchführen, gelten im Rahmen der Zwangsversteigerung von Grundstücken, von im Schiffsregister eingetragenen Schiffen, von Schiffsbauwerken, die im Schiffsbauregister eingetragen sind oder in dieses Register eingetragen werden können, und Luftfahrzeugen im Wege der Zwangsvollstreckung die in den Abschnitten 3, 5 und 6 genannten Identifizierungs- und Meldepflichten sowie die Pflicht zur Zusammenarbeit mit der Zentralstelle für Finanztransaktionsuntersuchungen entsprechend, soweit Transaktionen mit Barzahlungen über mindestens 10 000 Euro getätigt werden. Die Identifizierung des Erstehers soll unmittelbar nach Erteilung des Zuschlags erfolgen, spätestens jedoch bei Einzahlung des Bargebots; dabei ist bei natürlichen Personen die Erhebung des Geburtsorts und der Staatsangehörigkeit sowie bei Personengesellschaften und juristischen Personen die Erhebung der Namen sämtlicher Mitglieder des Vertretungsorgans oder sämtlicher gesetzlicher Vertreter nicht erforderlich.
+(3) Für Gerichte, die öffentliche Versteigerungen durchführen, gelten im Rahmen der Zwangsversteigerung von Grundstücken, von im Schiffsregister eingetragenen Schiffen, von Schiffsbauwerken, die im Schiffsbauregister eingetragen sind oder in dieses Register eingetragen werden können, und Luftfahrzeugen im Wege der Zwangsvollstreckung die in den Abschnitten 3, 5 und 6 genannten Identifizierungs- und Meldepflichten sowie die Pflicht zur Zusammenarbeit mit der Zentralstelle für Finanztransaktionsuntersuchungen entsprechend, soweit Transaktionen mit Barzahlungen über mindestens 10 000 Euro getätigt werden. Die Identifizierung des Erstehers soll unmittelbar nach Erteilung des Zuschlags erfolgen, spätestens jedoch bei Einzahlung des Bargebots; dabei ist bei natürlichen Personen die Erhebung des Geburtsorts und der Staatsangehörigkeit sowie bei rechtsfähigen Personengesellschaften und juristischen Personen die Erhebung der Namen sämtlicher Mitglieder des Vertretungsorgans oder sämtlicher gesetzlicher Vertreter nicht erforderlich.
 
 (4) Für Behörden sowie Körperschaften und Anstalten des öffentlichen Rechts, die öffentliche Versteigerungen durchführen, gelten die in den Abschnitten 3, 5 und 6 genannten Identifizierungs- und Meldepflichten sowie die Pflicht zur Zusammenarbeit mit der Zentralstelle für Finanztransaktionsuntersuchungen entsprechend, soweit Transaktionen mit Barzahlungen über mindestens 10 000 Euro getätigt werden. Satz 1 gilt nicht, soweit im Rahmen der Zwangsvollstreckung gepfändete Gegenstände verwertet werden. Die Identifizierung des Erstehers soll bei Zuschlag erfolgen, spätestens jedoch bei Einzahlung des Bargebots. Nach Satz 1 verpflichtete Behörden sowie Körperschaften und Anstalten des öffentlichen Rechts können bei der Erfüllung ihrer Pflichten nach Satz 1 auf Dritte zurückgreifen.
 
@@ -714,7 +714,7 @@ Im Fall der Identitätsüberprüfung anhand einer qualifizierten elektronischen 
 
 3. Drittstaat, in dem das Kreditinstitut Sorgfalts- und Aufbewahrungspflichten unterliegt, die den in der Richtlinie (EU) 2015/849 festgelegten Sorgfalts- und Aufbewahrungspflichten entsprechen und deren Einhaltung in einer mit Kapitel IV Abschnitt 2 der Richtlinie (EU) 2015/849 im Einklang stehenden Weise beaufsichtigt wird.
 
-(2) Die Überprüfung der nach § 11 Absatz 4 erhobenen Angaben zum Vertragspartner und gegebenenfalls für diesen auftretende Personen hat bei juristischen Personen oder bei Personengesellschaften zu erfolgen anhand
+(2) Die Überprüfung der nach § 11 Absatz 4 erhobenen Angaben zum Vertragspartner und gegebenenfalls für diesen auftretende Personen hat bei juristischen Personen oder bei rechtsfähigen Personengesellschaften zu erfolgen anhand
 
 1. eines Auszuges aus dem Handels- oder Genossenschaftsregister oder aus einem vergleichbaren amtlichen Register oder Verzeichnis,
 
@@ -1014,7 +1014,7 @@ Absatz 3 Satz 2 und 3 gilt entsprechend.
 
 (3a) Die registerführende Stelle ist berechtigt, der Behörde nach § 56 Absatz 5 Satz 2 die Informationen und Unterlagen zu übermitteln, die für die Erfüllung der Aufgaben der Behörde nach § 56 Absatz 5 Satz 2 erforderlich sind.
 
-(4) Die registerführende Stelle erstellt auf Antrag Ausdrucke von Daten, die im Transparenzregister gespeichert sind, und Bestätigungen, dass im Transparenzregister keine aktuelle Eintragung aufgrund einer Mitteilung nach § 20 Absatz 1 oder § 21 vorliegt. Sie beglaubigt auf Antrag, dass die übermittelten Daten mit dem Inhalt des Transparenzregisters übereinstimmen. Mit der Beglaubigung ist keine Gewähr für die Richtigkeit und Vollständigkeit der Angaben zum wirtschaftlich Berechtigten verbunden. Ein Antrag auf Ausdruck von Daten, die lediglich über das Transparenzregister gemäß § 22 Absatz 1 Satz 1 Nummer 4 bis 8 zugänglich gemacht werden, kann auch über das Transparenzregister an das Gericht vermittelt werden. Dies gilt entsprechend für die Vermittlung eines Antrags auf Ausdruck von Daten, die gemäß § 22 Absatz 1 Satz 1 Nummer 2 und 3 zugänglich gemacht werden, an den Betreiber des Unternehmensregisters.
+(4) Die registerführende Stelle erstellt auf Antrag Ausdrucke von Daten, die im Transparenzregister gespeichert sind, und Bestätigungen, dass im Transparenzregister keine aktuelle Eintragung aufgrund einer Mitteilung nach § 20 Absatz 1 oder § 21 vorliegt. Sie beglaubigt auf Antrag, dass die übermittelten Daten mit dem Inhalt des Transparenzregisters übereinstimmen. Mit der Beglaubigung ist keine Gewähr für die Richtigkeit und Vollständigkeit der Angaben zum wirtschaftlich Berechtigten verbunden. Ein Antrag auf Ausdruck von Daten, die lediglich über das Transparenzregister gemäß § 22 Absatz 1 Satz 1 Nummer 4 bis 9 zugänglich gemacht werden, kann auch über das Transparenzregister an das Gericht vermittelt werden. Dies gilt entsprechend für die Vermittlung eines Antrags auf Ausdruck von Daten, die gemäß § 22 Absatz 1 Satz 1 Nummer 2 und 3 zugänglich gemacht werden, an den Betreiber des Unternehmensregisters.
 
 (5) Die registerführende Stelle erstellt ein Informationssicherheitskonzept für das Transparenzregister, aus dem sich die getroffenen technischen und organisatorischen Maßnahmen zum Datenschutz ergeben.
 
@@ -1206,11 +1206,13 @@ Eine Eintragung durch die registerführende Stelle nach Absatz 1 wird nicht vorg
 
 7. Eintragungen im Genossenschaftsregister,
 
-8. Eintragungen im Vereinsregister.
+8. Eintragungen im Vereinsregister,
 
-Zugänglich in dem nach den besonderen registerrechtlichen Vorschriften für die Einsicht geregelten Umfang sind nur solche Dokumente und Eintragungen nach Satz 1 Nummer 2 bis 8, die aus dem Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Unternehmensregister oder Vereinsregister elektronisch abrufbar sind.
+9. Eintragungen in das Gesellschaftsregister.
 
-(2) Um die Eröffnung des Zugangs zu den Originaldaten nach Absatz 1 Satz 1 Nummer 2 bis 8 über die Internetseite des Transparenzregisters zu ermöglichen, sind dem Transparenzregister die dafür erforderlichen Daten (Indexdaten) zu übermitteln. Der Betreiber des Unternehmensregisters übermittelt die Indexdaten zu den Originaldaten nach Absatz 1 Satz 1 Nummer 2 und 3 dem Transparenzregister. Die Landesjustizverwaltungen übermitteln die Indexdaten zu den Originaldaten nach Absatz 1 Satz 1 Nummer 4 bis 8 dem Transparenzregister. Die Indexdaten dienen nur der Zugangsvermittlung und dürfen nicht zugänglich gemacht werden.
+Zugänglich in dem nach den besonderen registerrechtlichen Vorschriften für die Einsicht geregelten Umfang sind nur solche Dokumente und Eintragungen nach Satz 1 Nummer 2 bis 9, die aus dem Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Unternehmensregister oder Vereinsregister elektronisch abrufbar sind.
+
+(2) Um die Eröffnung des Zugangs zu den Originaldaten nach Absatz 1 Satz 1 Nummer 2 bis 9 über die Internetseite des Transparenzregisters zu ermöglichen, sind dem Transparenzregister die dafür erforderlichen Daten (Indexdaten) zu übermitteln. Der Betreiber des Unternehmensregisters übermittelt die Indexdaten zu den Originaldaten nach Absatz 1 Satz 1 Nummer 2 und 3 dem Transparenzregister. Die Landesjustizverwaltungen übermitteln die Indexdaten zu den Originaldaten nach Absatz 1 Satz 1 Nummer 4 bis 8 dem Transparenzregister. Die Indexdaten dienen nur der Zugangsvermittlung und dürfen nicht zugänglich gemacht werden.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz für die Datenübermittlung nach Absatz 2 Satz 3 durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, technische Einzelheiten der Datenübermittlung zwischen den Behörden der Länder und dem Transparenzregister einschließlich der Vorgaben für die zu verwendenden Datenformate und zur Sicherstellung von Datenschutz und Datensicherheit zu regeln. Abweichungen von den Verfahrensregelungen durch Landesrecht sind ausgeschlossen.
 
@@ -1836,7 +1838,7 @@ b) sonstige Finanztransaktionen durchzuführen,
 
 3. zu einem früheren Zeitpunkt, wenn ein solcher von der Zentralstelle für Finanztransaktionsuntersuchungen festgelegt wurde.
 
-(5) Die Zentralstelle für Finanztransaktionsuntersuchungen kann Vermögensgegenstände, die einer Maßnahme nach Absatz 1 Satz 2 unterliegen, auf Antrag der betroffenen Person oder einer nichtrechtsfähigen Personenvereinigung freigeben, soweit diese Vermögensgegenstände einem der folgenden Zwecke dienen:
+(5) Die Zentralstelle für Finanztransaktionsuntersuchungen kann Vermögensgegenstände, die einer Maßnahme nach Absatz 1 Satz 2 unterliegen, auf Antrag der betroffenen Person oder einer Personenvereinigung freigeben, soweit diese Vermögensgegenstände einem der folgenden Zwecke dienen:
 
 1. der Deckung des notwendigen Lebensunterhalts der Person oder ihrer Familienmitglieder,
 

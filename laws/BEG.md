@@ -806,7 +806,7 @@ Renten werden frühestens vom 1. November 1953 an in monatlich vorauszahlbaren B
 
 # § 12a
 
-Erhöhen sich wiederkehrende Leistungen aus der bundesgesetzlichen Rentenversicherung oder nach dem Bundesversorgungsgesetz, so mindern sich die Renten nach diesem Gesetz insgesamt höchstens um den Monatsbetrag, um den sich die wiederkehrenden Leistungen monatlich erhöht haben oder erhöhen. Dies gilt sinngemäß im Falle der erstmaligen Festsetzung einer Rente nach diesem Gesetz.
+Erhöhen sich wiederkehrende Leistungen aus der bundesgesetzlichen Rentenversicherung oder nach dem Vierzehnten Buch Sozialgesetzbuch, so mindern sich die Renten nach diesem Gesetz insgesamt höchstens um den Monatsbetrag, um den sich die wiederkehrenden Leistungen monatlich erhöht haben oder erhöhen. Dies gilt sinngemäß im Falle der erstmaligen Festsetzung einer Rente nach diesem Gesetz.
 
 # § 13
 
@@ -1126,7 +1126,7 @@ Als Entschädigung werden geleistet
 
 (3) Die Rente ist in einem Hundertsatz des Diensteinkommens (Grundgehalt und Wohnungsgeld) eines mit dem Verfolgten nach seiner wirtschaftlichen Stellung vergleichbaren Bundesbeamten einer Besoldungsgruppe mit aufsteigenden Gehältern festzusetzen. Die wirtschaftliche Stellung ist nach dem Durchschnittseinkommen des Verfolgten in den letzten drei Jahren vor dem Beginn der gegen ihn gerichteten Verfolgung zu beurteilen; eine Minderung seines Einkommens durch vorausgegangene Verfolgung bleibt außer Betracht. Neben der wirtschaftlichen Stellung ist auch die soziale Stellung des Verfolgten zu berücksichtigen, wenn dies zu einer günstigeren Einreihung des Verfolgten in eine vergleichbare Beamtengruppe führt.
 
-(4) Bei der Bemessung des Hundertsatzes sind die persönlichen und wirtschaftlichen Verhältnisse des Verfolgten, insbesondere seine nachhaltigen Einkünfte einschließlich der Versorgungsbezüge, der Leistungen nach dem Gesetz über die Versorgung der Opfer des Krieges (Bundesversorgungsgesetz), der Leistungen aus der gesetzlichen Rentenversicherung und der Beträge, die er zu erwerben unterläßt, obwohl ihm der Erwerb zuzumuten ist, sowie der Grad der Minderung seiner Erwerbsfähigkeit und seine Belastung mit der Sorge für unterhaltsberechtigte Angehörige angemessen zu berücksichtigen.
+(4) Bei der Bemessung des Hundertsatzes sind die persönlichen und wirtschaftlichen Verhältnisse des Verfolgten, insbesondere seine nachhaltigen Einkünfte einschließlich der Versorgungsbezüge, der Leistungen nach dem Vierzehnten Buch Sozialgesetzbuch, der Leistungen aus der gesetzlichen Rentenversicherung und der Beträge, die er zu erwerben unterläßt, obwohl ihm der Erwerb zuzumuten ist, sowie der Grad der Minderung seiner Erwerbsfähigkeit und seine Belastung mit der Sorge für unterhaltsberechtigte Angehörige angemessen zu berücksichtigen.
 
 (5) Bei der Berechnung der Rente ist die jeweilige Höhe des Diensteinkommens vergleichbarer Beamtengruppen im Sinne des Absatzes 3 zugrunde zu legen.
 
@@ -2919,7 +2919,7 @@ Ist die Klage erhoben worden, weil die Entschädigungsbehörde ohne ausreichende
 
 # § 227c
 
-Ärztliche und zahnärztliche Leistungen werden nach den für die Behandlung von Beschädigten im Sinne des Bundesversorgungsgesetzes maßgebenden Sätzen vergütet. Apotheker und andere der Krankenbehandlung dienende Personen sowie Krankenanstalten und Einrichtungen haben nur auf die für Mitglieder der Krankenkasse zu zahlende Vergütung Anspruch.
+Ärztliche und zahnärztliche Leistungen werden nach den für die Behandlung von Geschädigten im Sinne des Vierzehnten Buches Sozialgesetzbuch maßgebenden Sätzen vergütet. Apotheker und andere der Krankenbehandlung dienende Personen sowie Krankenanstalten und Einrichtungen haben nur auf die für Mitglieder der Krankenkasse zu zahlende Vergütung Anspruch.
 
 # § 227d
 

@@ -347,9 +347,9 @@ Die Länder übermitteln dem Bundesministerium der Justiz und für Verbrauchersc
 
 (2) In Verfahren nach Absatz 1 soll ein früher erster Termin spätestens einen Monat nach Zustellung der Klageschrift stattfinden.
 
-# § 45 – (zukünftig in Kraft)
+# § 45 – Übergangsvorschrift zum Personengesellschaftsrechtsmodernisierungsgesetz
 
-(+++ § 45: Tritt gem. Art. 33 G v. 10.08.2021 I 3436 mWv 1.1.2024 zukünftig in Kraft +++)
+Zur Zwangsvollstreckung in das Vermögen einer rechtsfähigen Gesellschaft bürgerlichen Rechts im Sinne von § 705 Absatz 2 des Bürgerlichen Gesetzbuchs genügt ein gegen alle Gesellschafter gerichteter Vollstreckungstitel, wenn dieser vor dem 1. Januar 2024 erwirkt wurde.
 
 # § 46 – Übergangsvorschrift zum Verbraucherrechtedurchsetzungsgesetz
 

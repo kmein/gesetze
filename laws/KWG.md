@@ -1333,7 +1333,7 @@ Das Bundesministerium der Finanzen kann nach Anhörung der Deutschen Bundesbank 
 
 (11) Finanzinstrumente im Sinne der Absätze 1 bis 3 und 17 sowie im Sinne des § 2 Absatz 1 und 6 sind
 
-1. Aktien und andere Anteile an in- oder ausländischen juristischen Personen, Personengesellschaften und sonstigen Unternehmen, soweit sie Aktien vergleichbar sind, sowie Hinterlegungsscheine, die Aktien oder Aktien vergleichbare Anteile vertreten,
+1. Aktien und andere Anteile an in- oder ausländischen juristischen Personen, rechtsfähigen Personengesellschaften und sonstigen Unternehmen, soweit sie Aktien vergleichbar sind, sowie Hinterlegungsscheine, die Aktien oder Aktien vergleichbare Anteile vertreten,
 
 2. Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes mit Ausnahme von Anteilen an einer Genossenschaft im Sinne des § 1 des Genossenschaftsgesetzes,
 
@@ -2092,9 +2092,9 @@ und setzt ihnen gegenüber in Fällen der Nummer 1 die Einhaltung der Anforderun
 
 3. dem Institut die Durchführung von sonstigen Finanztransaktionen untersagen.
 
-(2) Tatsachen im Sinne des Absatzes 1 liegen in der Regel insbesondere dann vor, wenn es sich bei dem Inhaber eines Kontos oder Depots, dessen Verfügungsberechtigten oder dem Kunden eines Instituts um eine natürliche oder juristische Person oder eine nicht rechtsfähige Personenvereinigung handelt, deren Name in die im Zusammenhang mit der Bekämpfung des Terrorismus angenommene Liste des Rates der Europäischen Union zum Gemeinsamen Standpunkt des Rates 2001/931/GASP vom 27. Dezember 2001 über die Anwendung besonderer Maßnahmen zur Bekämpfung des Terrorismus (ABl. EG Nr. L 344 S. 93) in der jeweils geltenden Fassung aufgenommen wurde.
+(2) Tatsachen im Sinne des Absatzes 1 liegen in der Regel insbesondere dann vor, wenn es sich bei dem Inhaber eines Kontos oder Depots, dessen Verfügungsberechtigten oder dem Kunden eines Instituts um eine natürliche oder juristische Person oder eine sonstige Personenvereinigung handelt, deren Name in die im Zusammenhang mit der Bekämpfung des Terrorismus angenommene Liste des Rates der Europäischen Union zum Gemeinsamen Standpunkt des Rates 2001/931/GASP vom 27. Dezember 2001 über die Anwendung besonderer Maßnahmen zur Bekämpfung des Terrorismus (ABl. EG Nr. L 344 S. 93) in der jeweils geltenden Fassung aufgenommen wurde.
 
-(3) Die Bundesanstalt kann Vermögenswerte, die einer Anordnung nach Absatz 1 unterliegen, im Einzelfall auf Antrag der betroffenen natürlichen oder juristischen Person oder einer nicht rechtsfähigen Personenvereinigung freigeben, soweit diese der Deckung des notwendigen Lebensunterhalts der Person oder ihrer Familienmitglieder, der Bezahlung von Versorgungsleistungen, Unterhaltsleistungen oder vergleichbaren Zwecken dienen.
+(3) Die Bundesanstalt kann Vermögenswerte, die einer Anordnung nach Absatz 1 unterliegen, im Einzelfall auf Antrag der betroffenen natürlichen oder juristischen Person oder einer sonstigen Personenvereinigung freigeben, soweit diese der Deckung des notwendigen Lebensunterhalts der Person oder ihrer Familienmitglieder, der Bezahlung von Versorgungsleistungen, Unterhaltsleistungen oder vergleichbaren Zwecken dienen.
 
 (4) Eine Anordnung nach Absatz 1 ist aufzuheben, sobald und soweit der Anordnungsgrund nicht mehr vorliegt.
 
@@ -2103,8 +2103,7 @@ und setzt ihnen gegenüber in Fällen der Nummer 1 die Einhaltung der Anforderun
 (6) Die Möglichkeit zur Anordnung von Beschränkungen des Kapital- und Zahlungsverkehrs nach § 4 Absatz 1 des Außenwirtschaftsgesetzes bleibt unberührt.
 
 (+++ § 6a: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1 +++)  
-(+++ §§ 6, 6a u. 7: Zur Anwendung vgl. § 2 Nr. 5 KfWV +++)  
-(+++ § 6a: Zur Geltung vgl. § 27 Abs. 2 Satz 1 ZAG 2018 +++)
+(+++ §§ 6, 6a u. 7: Zur Anwendung vgl. § 2 Nr. 5 KfWV +++)
 
 # § 6b – Aufsichtliche Überprüfung und Beurteilung
 
@@ -5034,7 +5033,7 @@ d) bei CRR-Kreditinstituten ein Betrag im Gegenwert von mindestens 5 Millionen E
 
 4c. das Institut im Fall der Erteilung der Erlaubnis Tochterunternehmen einer Finanzholding-Gesellschaft im Sinne des Artikel 4 Absatz 1 Nummer 20 der Verordnung (EU) Nr. 575/2013 oder einer gemischten Finanzholding-Gesellschaft im Sinne des Artikel 4 Absatz 1 Nummer 32 der Verordnung (EU) Nr. 575/2013 wird und Tatsachen die Annahme rechtfertigen, dass eine Person im Sinne des § 2d nicht zuverlässig ist oder nicht die zur Führung der Geschäfte der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft erforderliche fachliche Eignung hat;
 
-5. ein Kreditinstitut oder ein Finanzdienstleistungsinstitut, das befugt ist, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, oder das gemäß einer Bescheinigung der Bundesanstalt nach § 4 Abs. 1 Nr. 2 des Gesetzes über die Zertifizierung von Altersvorsorgeverträgen befugt ist, Altersvorsorgeverträge anzubieten, nicht mindestens zwei Geschäftsleiter hat, die nicht nur ehrenamtlich für das Institut tätig sind;
+5. ein Kreditinstitut oder ein Finanzdienstleistungsinstitut, das befugt ist, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, oder das gemäß einer Bescheinigung der Bundesanstalt nach § 4 Absatz 1 Nummer 2 des Gesetzes über die Zertifizierung von Altersvorsorgeverträgen befugt ist, Altersvorsorgeverträge anzubieten, oder ein Unternehmen, das ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 oder 10 erbringt, nicht mindestens zwei Geschäftsleiter hat, die nicht nur ehrenamtlich für das Institut tätig sind;
 
 6. das Institut seine Hauptverwaltung und, soweit es sich um eine juristische Person und nicht um eine Zweigstelle im Sinne des § 53 handelt, seinen juristischen Sitz nicht im Inland hat;
 
@@ -5079,7 +5078,7 @@ Die Bundesanstalt kann die Erlaubnis auch versagen, wenn entgegen § 32 Abs. 1 S
 (+++ §§ 33 bis 38: Zur Anwendung vgl. § 32 Abs. 1a Satz 6 +++)  
 (+++ § 33: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1 +++)  
 (+++ § 33 Abs. 1 Satz 1: Zur Geltung vgl. § 51c Abs. 5 +++)  
-(+++ § 33 Abs. 1 Satz 1 Nr. 1: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a +++)  
+(+++ § 33 Abs. 1 Satz 1 Nr. 1: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a, Abs. 9g, Abs. 9h +++)  
 (+++ § 33 Abs. 1 Satz 1 Nr. 1 Buchst. a bis c: Zur Anwendung ab 1.1.2003 vgl. § 64e Abs. 3 Satz 1 +++)  
 (+++ § 33 Abs. 1 Satz 1 Nr. 1 Buchst. d: Zur Geltung vgl. § 53 Abs. 2 Nr. 4 Satz 1 +++)  
 (+++ § 33 Abs. 1 Nr. 1 bis 4: Zur Geltung vgl. § 2 Abs. 12 Satz 1 u. 2 +++)  
@@ -7421,7 +7420,7 @@ Für ein Unternehmen, das auf Grund der Ausdehnung des Begriffs des Eigenhandels
 
 # Anhang I – Informationsbogen für den Einleger
 
-(Fundstelle: BGBl. I 2015, 810 - 811)
+(Fundstelle: BGBl. I 2015, 810 - 811; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Einlagen bei (Name des Kreditinstituts einfügen) sind geschützt durch:
 
@@ -7484,7 +7483,7 @@ Zusätzliche Informationen (für alle oder einige der nachstehenden Punkte)
 (3) Bei Gemeinschaftskonten gilt die Obergrenze von 100 000 Euro für jeden Einleger.
 
   
-\[Nur wenn zutreffend:\] Einlagen auf einem Konto, über das zwei oder mehrere Personen als Mitglieder einer Personengesellschaft oder Sozietät, einer Vereinigung oder eines ähnlichen Zusammenschlusses ohne Rechtspersönlichkeit verfügen können, werden bei der Berechnung der Obergrenze von 100 000 Euro \[durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet\] allerdings zusammengefasst und als Einlage eines einzigen Einlegers behandelt.
+\[Nur wenn zutreffend:\] Einlagen auf einem Konto, über das zwei oder mehrere Personen als Mitglieder einer rechtsfähigen Personengesellschaft oder Sozietät, einer Vereinigung oder eines ähnlichen Zusammenschlusses ohne Rechtspersönlichkeit verfügen können, werden bei der Berechnung der Obergrenze von 100 000 Euro \[durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet\] allerdings zusammengefasst und als Einlage eines einzigen Einlegers behandelt.
 
   
 In den Fällen des § 8 Absatz 2 bis 4 des Einlagensicherungsgesetzes sind Einlagen über 100 000 Euro hinaus \[durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet\] gesichert. Weitere Informationen sind erhältlich über \[Website des einschlägigen Einlagensicherungssystems einfügen\].

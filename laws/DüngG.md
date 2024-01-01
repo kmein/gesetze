@@ -297,7 +297,7 @@ Das Bundesministerium untersucht die Auswirkungen der verbindlichen Stoffstrombi
 
 (2) Die Verwaltung des Entschädigungsfonds nach § 11 Abs. 1 obliegt der Bundesanstalt für Landwirtschaft und Ernährung. Sie ist zuständige Behörde für die Überwachung der Einhaltung des § 11 und der auf Grund dieser Vorschrift erlassenen Rechtsverordnungen.
 
-(3) Natürliche und juristische Personen und nicht rechtsfähige Personenvereinigungen haben den zuständigen Behörden auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der den Behörden durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich sind. Die zuständigen Behörden können insbesondere verlangen, dass die Auskunftspflichtigen ihnen die erforderlichen Auskünfte mündlich oder durch Vorlage von Unterlagen erteilen.
+(3) Natürliche und juristische Personen und sonstige Personenvereinigungen haben den zuständigen Behörden auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der den Behörden durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich sind. Die zuständigen Behörden können insbesondere verlangen, dass die Auskunftspflichtigen ihnen die erforderlichen Auskünfte mündlich oder durch Vorlage von Unterlagen erteilen.
 
 (4) Personen, die von der zuständigen Behörde beauftragt sind, dürfen im Rahmen der Absätze 1 und 2 Grundstücke, Geschäftsräume, Betriebsräume und Transportmittel des Auskunftspflichtigen während der Geschäfts- oder Betriebszeit betreten und dort
 
@@ -384,15 +384,15 @@ Abweichend von Satz 1 kann die zuständige Behörde Anordnungen zum Umgang mit N
 
 (1) Zur Förderung der Einhaltung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, die für die Anwendung, das Inverkehrbringen, das Herstellen, das Befördern, die Übernahme oder das Lagern von Wirtschaftsdüngern sowie von Düngemitteln, die als Ausgangsstoff oder Bestandteil Wirtschaftsdünger enthalten, gelten, können Träger einer Qualitätssicherung eine regelmäßige Qualitätssicherung nach Maßgabe der folgenden Vorschriften für die genannten Düngemittel einrichten.
 
-(2) Träger einer Qualitätssicherung ist eine juristische Person oder Personengesellschaft des Privatrechts, deren Mitglieder, Gesellschafter oder Anteilseigner
+(2) Träger einer Qualitätssicherung ist eine juristische Person oder rechtsfähige Personengesellschaft des Privatrechts, deren Mitglieder, Gesellschafter oder Anteilseigner
 
-1. natürliche oder juristische Personen oder Personengesellschaften, die die in Absatz 1 genannten Stoffe anwenden, in Verkehr bringen, herstellen, befördern, übernehmen oder lagern, sowie
+1. natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die die in Absatz 1 genannten Stoffe anwenden, in Verkehr bringen, herstellen, befördern, übernehmen oder lagern, sowie
 
 2. Fachverbände oder fachkundige Einrichtungen, Institutionen oder Personen
 
 sind.
 
-(3) Qualitätszeichennehmer ist eine natürliche oder juristische Person oder Personengesellschaft des Privatrechts, die gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmen die in Absatz 1 genannten Stoffe anwendet, in Verkehr bringt, herstellt, befördert, übernimmt oder lagert und über das Recht verfügt, ein Qualitätszeichen eines Trägers der Qualitätssicherung zu verwenden.
+(3) Qualitätszeichennehmer ist eine natürliche oder juristische Person oder rechtsfähige Personengesellschaft des Privatrechts, die gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmen die in Absatz 1 genannten Stoffe anwendet, in Verkehr bringt, herstellt, befördert, übernimmt oder lagert und über das Recht verfügt, ein Qualitätszeichen eines Trägers der Qualitätssicherung zu verwenden.
 
 (4) Der Träger der Qualitätssicherung bedarf der Anerkennung der zuständigen Behörde. Die Anerkennung ist zu erteilen, wenn der Träger
 

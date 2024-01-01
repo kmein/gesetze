@@ -33,33 +33,61 @@
 
 (4) Bei den Folgeansprüchen sind auf Grund desselben Sachverhalts erbrachte andere Ausgleichsleistungen zu berücksichtigen, soweit diese tatsächlich zugeflossen sind. Dies gilt insbesondere für die von der Deutschen Demokratische Republik gewährten Entschädigungen. Bei Folgeansprüchen im Sinne des § 7 Abs. 1 Satz 1 sind Entschädigungen für lebendes oder totes Inventar, das nicht wesentlicher Bestandteil eines Grundstückes oder eines Gebäudes ist, nur zu berücksichtigen, soweit das Inventar zurückübertragen oder zurückgegeben wird. In Mark der Deutschen Demokratischen Republik gezahlte Beträge sind im Verhältnis 2:1 auf Deutsche Mark umzustellen. Wurde als Entschädigung ein Ersatzgrundstück übereignet, so hat der Berechtigte das Eigentum an diesem aufzugeben oder dessen Verkehrswert zu entrichten. Befindet sich das Ersatzgrundstück nicht mehr im Eigentum des Berechtigten, so ist dessen Wert zum Zeitpunkt des Eigentumsverlustes maßgebend. Das Ersatzgrundstück betreffende Maßnahmen oder Rechtsgeschäfte des Berechtigten bleiben bei der Ermittlung des Verkehrswerts außer Betracht. Das Aneignungsrecht an dem Ersatzgrundstück oder der Anspruch auf dessen Verkehrswert sowie der Anspruch auf herauszugebende andere Ausgleichsleistungen stehen dem Entschädigungsfonds zu. Abweichend von Satz 1 ist der Folgeanspruch nach § 1a Absatz 2 Satz 1 ausgeschlossen, wenn auf Grund desselben Sachverhalts Ausgleichsleistungen gewährt wurden oder zukünftig gewährt werden.
 
-# § 3 – Beschädigtenversorgung
+# § 3 – Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung
 
-(1) Ein Betroffener, der infolge einer Maßnahme nach § 1 eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf Antrag Versorgung in entsprechender Anwendung des Bundesversorgungsgesetzes. Dies gilt nicht, soweit er wegen desselben schädigenden Ereignisses bereits Versorgung auf Grund des Bundesversorgungsgesetzes oder auf Grund von Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, erhält.
+(1) Ein Betroffener, der infolge einer Maßnahme nach § 1 eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf Antrag Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch. Dies gilt nicht, soweit er wegen desselben schädigenden Ereignisses bereits folgende Leistungen erhält:
 
-(2) Einer Schädigung im Sinne des Absatzes 1 steht eine gesundheitliche Schädigung gleich, die durch einen Unfall unter den Voraussetzungen des § 1 Abs. 2 Buchstabe e oder f des Bundesversorgungsgesetzes herbeigeführt worden ist.
+1. Versorgung aufgrund des Bundesversorgungsgesetzes,
 
-(3) Wer als Berechtigter oder Leistungsempfänger nach Absatz 1 dieser Vorschrift oder § 4 dieses Gesetzes in Verbindung mit § 10 Abs. 4 oder 5 des Bundesversorgungsgesetzes, als Pflegeperson oder als Begleitperson bei einer notwendigen Begleitung des Beschädigten durch einen Unfall unter den Voraussetzungen des § 8a des Bundesversorgungsgesetzes eine gesundheitliche Schädigung erleidet, erhält Versorgung nach Absatz 1.
+2. Versorgung aufgrund eines Gesetzes, das das Bundesversorgungsgesetz für entsprechend anwendbar erklärt,
+
+3. Leistungen der Sozialen Entschädigung nach dem Vierzehnten Buch Sozialgesetzbuch oder
+
+4. Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch.
+
+(2) Einer Schädigung im Sinne des Absatzes 1 steht eine gesundheitliche Schädigung gleich, die durch einen Unfall unter den Voraussetzungen des § 4 Absatz 2 Nummer 1 des Vierzehnten Buches Sozialgesetzbuch herbeigeführt worden ist.
+
+(3) Wer als Berechtigter oder Leistungsempfänger nach Absatz 1 dieser Vorschrift oder § 4 dieses Gesetzes, als Pflegeperson oder als Begleitperson bei einer notwendigen Begleitung einer geschädigten Person durch einen Unfall unter den Voraussetzungen des § 4 Absatz 2 Nummer 2 des Vierzehnten Buches Sozialgesetzbuch eine gesundheitliche Schädigung erleidet, erhält Leistungen der Sozialen Entschädigung nach Absatz 1.
 
 (4) Einer gesundheitlichen Schädigung im Sinne der Absätze 1 bis 3 steht die Beschädigung eines am Körper getragenen Hilfsmittels, einer Brille, von Kontaktlinsen oder von Zahnersatz gleich.
 
-(5) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Wenn die Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache des festgestellten Leidens in der medizinischen Wissenschaft Ungewißheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Folge einer Schädigung anerkannt werden; die Zustimmung kann allgemein erteilt werden.
+(5) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Sie ist gegeben, wenn nach dem aktuellen Stand der medizinischen Wissenschaft mehr für als gegen einen ursächlichen Zusammenhang spricht.
 
-# § 4 – Hinterbliebenenversorgung
+(6) Bei psychischen Gesundheitsstörungen wird die Wahrscheinlichkeit des ursächlichen Zusammenhangs im Einzelfall vermutet, wenn diejenigen medizinischen Tatsachen vorliegen, die nach den Erfahrungen der medizinischen Wissenschaft geeignet sind, einen Ursachenzusammenhang zwischen einem nach Art und Schwere geeigneten schädigenden Ereignis und der gesundheitlichen Schädigung und der Schädigungsfolge zu begründen, und diese Vermutung nicht durch einen anderen Kausalverlauf widerlegt wird.
 
-Ist der Betroffene an den Folgen der Schädigung gestorben, erhalten die Hinterbliebenen auf Antrag Versorgung in entsprechender Anwendung des Bundesversorgungsgesetzes. Dies gilt nicht, soweit die Hinterbliebenen bereits Versorgung auf Grund des Bundesversorgungsgesetzes oder auf Grund von Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, erhalten. § 3 Abs. 3 dieses Gesetzes und die §§ 48 und 52 des Bundesversorgungsgesetzes sind entsprechend anzuwenden.
+(7) Wenn die zur Anerkennung einer Gesundheitsstörung als Schädigungsfolge erforderliche Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache der Gesundheitsstörung in der medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Schädigungsfolge anerkannt werden. Die Zustimmung kann allgemein erteilt werden.
+
+# § 4 – Leistungen der Sozialen Entschädigung für Hinterbliebene
+
+Ist der Betroffene an den Folgen der Schädigung gestorben, erhalten die Hinterbliebenen auf Antrag Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch. Dies gilt nicht, soweit die Hinterbliebenen bereits folgende Leistungen erhalten:
+
+1. Versorgung aufgrund des Bundesversorgungsgesetzes,
+
+2. Versorgung aufgrund eines Gesetzes, das das Bundesversorgungsgesetz für entsprechend anwendbar erklärt,
+
+3. Leistungen der Sozialen Entschädigung nach dem Vierzehnten Buch Sozialgesetzbuch oder
+
+4. Leistungen in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch.
+
+§ 3 Absatz 3 dieses Gesetzes und § 148 des Vierzehnten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
 
 # § 5 – Zusammentreffen von Ansprüchen
 
-(1) Treffen Ansprüche aus § 3 mit Ansprüchen aus § 1 des Bundesversorgungsgesetzes oder aus anderen Gesetzen zusammen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, ist unter Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten Grades der Schädigungsfolgen eine einheitliche Rente festzusetzen. Die Kosten, die durch das Hinzutreten der weiteren Schädigung verursacht werden, sind von dem Leistungsträger zu übernehmen, der für die Versorgung wegen der weiteren Schädigung zuständig ist.
+(1) Treffen Ansprüche aus § 3 mit folgenden Ansprüchen zusammen, werden die Leistungen der Sozialen Entschädigung unter Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten Grades der Schädigungsfolgen nach diesem Gesetz gewährt:
 
-(2) Treffen Leistungen nach § 3 oder § 4 mit Leistungen zusammen, die nach dem Bundesversorgungsgesetz oder nach Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, gewährt werden, findet § 55 des Bundesversorgungsgesetzes Anwendung.
+1. Ansprüchen aus § 1 des Bundesversorgungsgesetzes,
 
-(3) Bei der Feststellung der Elternrente sind auch die Kinder zu berücksichtigen, die infolge einer Schädigung im Sinne des Bundesversorgungsgesetzes gestorben oder verschollen sind. Besteht bereits ein Anspruch auf Elternrente nach dem Bundesversorgungsgesetz, wird sie nach diesem Gesetz nicht gewährt. Die Sätze 1 und 2 gelten entsprechend für den Anspruch auf Elternrente nach Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen; § 51 Abs. 2 Satz 2 des Bundesversorgungsgesetzes ist entsprechend anzuwenden.
+2. Ansprüchen aus einem anderen Gesetz, das eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsieht,
 
-# § 6 – Anwendung des Bundesversorgungsgesetzes
+3. Ansprüchen nach § 21, § 23, § 24 oder Kapitel 23 des Vierzehnten Buches Sozialgesetzbuch oder
 
-Die Bestimmungen des Bundesversorgungsgesetzes und die zu seiner Durchführung erlassenen Vorschriften, die nach diesem Gesetz entsprechende Anwendung finden sollen, gelten jeweils mit den in Anlage I Kapitel VIII Sachgebiet K Abschnitt III des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1067) aufgeführten Maßgaben.
+4. Ansprüchen aus einem anderen Gesetz, das eine entsprechende Anwendung des Vierzehnten Buches Sozialgesetzbuch vorsieht.
+
+(2) (weggefallen)
+
+(3) Bei der Feststellung der Elternrente sind auch die Kinder zu berücksichtigen, die infolge einer Schädigung im Sinne des Vierzehnten Buches Sozialgesetzbuch gestorben. Besteht bereits ein Anspruch auf Elternrente nach dem Vierzehnten Buch Sozialgesetzbuch, wird sie nach diesem Gesetz nicht gewährt. Die Sätze 1 und 2 gelten entsprechend für den Anspruch auf Elternrente nach Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches Sozialgesetzbuch vorsehen.
+
+# § 6 – (weggefallen)
 
 # § 7 – Eingriff in Vermögenswerte
 
@@ -107,7 +135,7 @@ Personenbezogene Daten aus einem verwaltungsrechtlichen Rehabilitierungsverfahre
 
 (3) Rehabilitierungsbehörden werden in den Ländern Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen errichtet.
 
-(4) Werden Ansprüche nach den §§ 3 und 4 geltend gemacht, trifft die Rehabilitierungsbehörde Feststellungen zur Rechtsstaatswidrigkeit der Maßnahme im Sinne des § 1 sowie über Ausschließungsgründe nach § 2 Abs. 2. Die nach dem Bundesversorgungsgesetz erforderlichen Feststellungen treffen die Behörden, denen die Durchführung des Bundesversorgungsgesetzes obliegt. Soweit die Verwaltungsbehörden der Kriegsopferversorgung zuständig sind, richtet sich das Verfahren nach den für die Kriegsopferversorgung geltenden Vorschriften.
+(4) Werden Ansprüche nach den §§ 3 und 4 geltend gemacht, trifft die Rehabilitierungsbehörde Feststellungen zur Rechtsstaatswidrigkeit der Maßnahme im Sinne des § 1 sowie über Ausschließungsgründe nach § 2 Abs. 2. Die nach dem Vierzehnten Buch Sozialgesetzbuch erforderlichen Feststellungen treffen die nach Landesrecht zur Durchführung des Vierzehnten Buches Sozialgesetzbuch bestimmten Behörden. Das Verfahren für die Gewährung von Leistungen nach den §§ 3 und 4 richtet sich nach dem Ersten und Zehnten Buch Sozialgesetzbuch; die §§ 115 bis 119 des Vierzehnten Buches Sozialgesetzbuch gelten entsprechend.
 
 # § 13 – Verwaltungsverfahren
 
@@ -129,11 +157,11 @@ Für die Wirksamkeit von Verwaltungsentscheidungen gelten die verwaltungsverfahr
 
 (1) In Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben. Die Berufung gegen ein Urteil und die Beschwerde gegen eine andere Entscheidung des Verwaltungsgerichts sind ausgeschlossen. Das gilt nicht für die Beschwerde gegen die Nichtzulassung der Revision nach § 135 in Verbindung mit § 133 der Verwaltungsgerichtsordnung und die Beschwerde gegen Beschlüsse über den Rechtsweg nach § 17a Abs. 2 und 3 des Gerichtsverfassungsgesetzes. Auf die Beschwerde gegen die Beschlüsse über den Rechtsweg findet § 17a Abs. 4 Satz 4 bis 6 des Gerichtsverfassungsgesetzes entsprechend Anwendung.
 
-(2) Soweit dieses Gesetz von den für die Kriegsopferversorgung zuständigen Verwaltungsbehörden durchgeführt wird, entscheiden über öffentlich-rechtliche Streitigkeiten die Gerichte der Sozialgerichtsbarkeit. Für diese Verfahren sind die Vorschriften des Sozialgerichtsgesetzes für Angelegenheiten der Kriegsopferversorgung maßgebend. § 51 Abs. 1 Nr. 6 des Sozialgerichtsgesetzes bleibt unberührt.
+(2) In Streitigkeiten über Leistungen nach den §§ 3 und 4 entscheiden die Gerichte der Sozialgerichtsbarkeit. Für diese Verfahren sind die Vorschriften des Sozialgerichtsgesetzes für Angelegenheiten des Sozialen Entschädigungsrechts maßgebend.
 
 # § 17 – Kostenregelung
 
-Der Bund trägt 60 vom Hundert der Ausgaben, die den Ländern durch Geldleistungen nach diesem Gesetz entstehen. Zu den Geldleistungen gehören nicht solche Geldbeträge, die zur Abgeltung oder anstelle einer Sachleistung gezahlt werden.Zur Vereinfachung der Abrechnung erstattet der Bund den Ländern in einem pauschalierten Verfahren jeweils 57 Prozent der ihnen nach den §§ 3 und 4 entstandenen Kosten. Der Bund überprüft in einem Abstand von fünf Jahren, erstmals im Jahr 2014, die Voraussetzungen für die in Satz 3 genannte Quote.
+Der Bund trägt 60 vom Hundert der Ausgaben, die den Ländern durch Geldleistungen nach diesem Gesetz entstehen. Zu den Geldleistungen gehören nicht solche Geldbeträge, die zur Abgeltung oder anstelle einer Sachleistung gezahlt werden.
 
 # § 18 – Übergangsregelung
 

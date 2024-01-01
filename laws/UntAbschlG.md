@@ -21,9 +21,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # § 2 – Begriffsbestimmungen
 
-(1) Soweit in diesem Gesetz der Begriff Grad der Schädigungsfolgen verwandt wird, richtet sich die Bemessung nach § 30 Abs. 1 des Bundesversorgungsgesetzes.
-
-(2) Das Bruttoeinkommen im Sinne dieses Gesetzes bemißt sich nach § 9 der Berufsschadensausgleichsverordnung.
+Soweit in diesem Gesetz der Begriff Grad der Schädigungsfolgen verwandt wird, richtet sich die Bemessung nach § 5 Absatz 1 des Vierzehnten Buches Sozialgesetzbuch.
 
 # § 3 – Umfang der Unterstützung
 
@@ -69,19 +67,21 @@ Soweit sich aus den Vorschriften dieses Gesetzes eine besondere Härte ergibt, k
 
 (2) Anträge auf Gewährung einer erweiterten materiellen Unterstützung nach der EmU-Anordnung, über die bis zum Tage der Verkündung dieses Gesetzes noch nicht entschieden wurde, gelten als Anträge nach diesem Gesetz.
 
-(3) Für die Änderung, Beendigung und Zahlung von Leistungen nach diesem Gesetz gelten § 60, § 62 Abs. 1 und § 66 des Bundesversorgungsgesetzes entsprechend.
+(3) Eine vom Einkommen beeinflusste Leistung ist nicht neu festzustellen, solange sich das Bruttoeinkommen seit der letzten Feststellung dieser Leistung insgesamt um weniger als 5 Euro monatlich erhöht, es sei denn, dass eine Neufeststellung einer Leistung aus anderem Anlass notwendig wird.
 
-(4) Nach der EmU-Anordnung, die nach Anlage II Kapitel X Sachgebiet D Abschnitt III Nr. 6 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. II S. 885, 1220) mit Maßgaben fortgilt, bis zum 31. Dezember 1990 abschließend geregelte Ansprüche können nicht wieder aufgenommen werden.
+(4) Die Versorgungsbezüge werden in Monatsbeträgen zuerkannt, auf volle Euro aufgerundet und monatlich im Voraus gezahlt. § 47 Absatz 1 des Ersten Buches Sozialgesetzbuch und § 118 Absatz 3 bis 4a des Sechsten Buches Sozialgesetzbuch gelten entsprechend.
+
+(5) Nach der EmU-Anordnung, die nach Anlage II Kapitel X Sachgebiet D Abschnitt III Nr. 6 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. II S. 885, 1220) mit Maßgaben fortgilt, bis zum 31. Dezember 1990 abschließend geregelte Ansprüche können nicht wieder aufgenommen werden.
 
 # § 8 – Zuständige Behörde
 
-(1) Die Unterstützung nach diesem Gesetz obliegt den für die Durchführung des Bundesversorgungsgesetzes zuständigen Behörden. Die örtliche Zuständigkeit bestimmt sich nach Landesrecht.
+(1) Die sachliche und örtliche Zuständigkeit bestimmt sich nach Landesrecht.
 
 (2) Zur Gewährung der Unterstützung ist das Land verpflichtet, in dem der Geschädigte zum Zeitpunkt der medizinischen Betreuungsmaßnahme seinen Wohnsitz oder gewöhnlichen Aufenthalt hatte.
 
 # § 9 – Verfahren, Rechtsweg
 
-(1) Das Gesetz über das Verwaltungsverfahren in der Kriegsopferversorgung, mit Ausnahme der §§ 3 und 4, das Erste und Zehnte Buch Sozialgesetzbuch sowie die Vorschriften des Sozialgerichtsgesetzes über das Vorverfahren sind entsprechend anzuwenden.
+(1) Das Erste und Zehnte Buch Sozialgesetzbuch sowie die Vorschriften des Sozialgerichtsgesetzes über das Vorverfahren sind anzuwenden. Die §§ 117, 118 und 119 Absatz 2 des Vierzehnten Buches Sozialgesetzbuch gelten entsprechend.
 
 (2) Über Streitigkeiten auf Grund dieses Gesetzes entscheiden die Gerichte der Sozialgerichtsbarkeit.
 
@@ -90,4 +90,6 @@ Soweit sich aus den Vorschriften dieses Gesetzes eine besondere Härte ergibt, k
 (1) Abweichend von § 2 Absatz 2 und § 4 bemessen sich die laufenden Zahlungen ab dem 1. Juli 2011 wie folgt:  
 Zum 30. Juni 2011 wird der Betrag des jeweiligen Vergleichseinkommens abgesenkt um 20 vom Hundert festgestellt und dann jährlich mit dem in § 56 Absatz 1 Satz 1 des Bundesversorgungsgesetzes bestimmten Vomhundertsatz angepasst. Dabei ist § 15 Satz 3 des Bundesversorgungsgesetzes entsprechend anzuwenden. Die Maßgabe nach Anlage I Kapitel VIII Sachgebiet K Abschnitt III Nummer 1 Buchstabe a des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1067) ist nicht anzuwenden.
 
-(2) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1991 in Kraft. Gleichzeitig tritt die Anordnung über eine erweiterte materielle Unterstützung für Bürger bei Gesundheitsschäden infolge medizinischer Maßnahmen vom 28. Januar 1987 (GBl. I Nr. 4 S. 34), die nach Anlage II Kapitel X Sachgebiet D Abschnitt III Nr. 6 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. II S. 885, 1220) mit Maßgaben fortgilt, außer Kraft mit Ausnahme des § 6 Abs. 1 Buchstabe a. Diese Vorschrift gilt bis zu ihrem Zeitablauf weiter.
+(2) Abweichend von den §§ 2 und 4 werden die laufenden Zahlungen ab dem 1. Januar 2024 nach § 144 des Vierzehnten Buches Sozialgesetzbuch bemessen und nach § 150 des Vierzehnten Buches Sozialgesetzbuch angepasst.
+
+(3) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1991 in Kraft. Gleichzeitig tritt die Anordnung über eine erweiterte materielle Unterstützung für Bürger bei Gesundheitsschäden infolge medizinischer Maßnahmen vom 28. Januar 1987 (GBl. I Nr. 4 S. 34), die nach Anlage II Kapitel X Sachgebiet D Abschnitt III Nr. 6 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. II S. 885, 1220) mit Maßgaben fortgilt, außer Kraft mit Ausnahme des § 6 Abs. 1 Buchstabe a. Diese Vorschrift gilt bis zu ihrem Zeitablauf weiter.

@@ -555,13 +555,17 @@ Während der Dauer eines Arbeitskampfes, durch den die Beschäftigungsstelle unm
 
 (4) Der Dienstleistende soll unentgeltlich Arbeitskleidung erhalten. Er ist verpflichtet, diese bei der Arbeit und im inneren Dienstbetrieb zu tragen. Ersatzansprüche für Abnutzung und etwaige Beschädigung eigener Kleidung im Dienst stehen ihm nur zu, soweit er Arbeitskleidung nicht erhalten hatte oder diese zu tragen nicht verpflichtet war.
 
-(5) Sind bei einem während der Ausübung des Zivildienstes erlittenen Unfall Gegenstände, die der Dienstleistende mit sich geführt hat, beschädigt oder zerstört worden oder abhanden gekommen, so kann dafür Ersatz geleistet werden. Sind durch die erste Hilfeleistung nach dem Unfall besondere Kosten entstanden, so ist dem Dienstleistenden der nachweisbar notwendige Aufwand zu ersetzen. Ersatz für beschädigte, zerstörte oder abhanden gekommene eigene Kleidungsstücke des Dienstleistenden wird nach den Sätzen 1 und 2 nur unter den Voraussetzungen des Absatzes 4 Satz 3 geleistet. Die Sätze 1 bis 3 finden auch auf andere Unfälle Anwendung, die einen Anspruch auf Versorgung nach den §§ 47 und 47a begründen. § 50 Abs. 5 findet entsprechende Anwendung.
+(5) Sind bei einem während der Ausübung des Zivildienstes erlittenen Unfall Gegenstände, die der Dienstleistende mit sich geführt hat, beschädigt oder zerstört worden oder abhanden gekommen, so kann dafür Ersatz geleistet werden. Sind durch die erste Hilfeleistung nach dem Unfall besondere Kosten entstanden, so ist dem Dienstleistenden der nachweisbar notwendige Aufwand zu ersetzen. Ersatz für beschädigte, zerstörte oder abhanden gekommene eigene Kleidungsstücke des Dienstleistenden wird nach den Sätzen 1 und 2 nur unter den Voraussetzungen des Absatzes 4 Satz 3 geleistet. Die Sätze 1 bis 3 finden auch auf andere Unfälle Anwendung, die einen Anspruch auf Entschädigung nach dem Vierzehnten Buch begründen. § 50 Abs. 5 findet entsprechende Anwendung.
 
 (6) (weggefallen)
 
 (7) Beim Tode des Dienstleistenden werden die Vorschriften des § 17 des Beamtenversorgungsgesetzes über die Bezüge für den Sterbemonat entsprechend angewandt.
 
 (8) Stirbt ein Dienstpflichtiger während des Dienstverhältnisses an den Folgen einer Zivildienstbeschädigung, so erhalten die Eltern oder Adoptiveltern, wenn sie mit dem Verstorbenen zur Zeit des Todes in häuslicher Gemeinschaft gelebt haben, ein Sterbegeld, dessen Höhe den Vorschriften für wehrpflichtige Soldaten entspricht. § 50 Abs. 5 findet entsprechende Anwendung.
+
+(9) In Angelegenheiten des § 35 Absatz 5 und 8 sind die §§ 60 bis 62 sowie die §§ 65 bis 67 des Ersten Buches Sozialgesetzbuch und das Zehnte Buch Sozialgesetzbuch entsprechend anzuwenden. Die Durchführung obliegt dem Bundesministerium für Familie, Senioren, Frauen und Jugend und der von diesem bestimmten Stelle.
+
+(10) Bei Streitigkeiten in Angelegenheiten des § 35 Absatz 5 und 8 ist der Rechtsweg vor den Gerichten der Sozialgerichtsbarkeit gegeben.
 
 # § 36 – Personalakten und Beurteilungen
 
@@ -735,135 +739,19 @@ Er kann auf Antrag der Dienststelle vorzeitig entlassen werden, wenn sich aus se
 
 (3) Unter den Voraussetzungen des Absatzes 2 ist ihm eine angemessene Zeit vor Beendigung des Zivildienstes ein vorläufiges Dienstzeugnis zu erteilen.
 
-# § 47 – Versorgung
+# § 47 – (weggefallen)
 
-(1) Ein Dienstpflichtiger, der eine Zivildienstbeschädigung erlitten hat, erhält nach Beendigung des Dienstverhältnisses wegen der gesundheitlichen und wirtschaftlichen Folgen der Schädigung auf Antrag Versorgung in entsprechender Anwendung der Vorschriften des Bundesversorgungsgesetzes, soweit in diesem Gesetz nichts Abweichendes bestimmt ist. In gleicher Weise erhalten die Hinterbliebenen eines Beschädigten auf Antrag Versorgung. Partner einer eheähnlichen Gemeinschaft erhalten Leistungen in entsprechender Anwendung der §§ 40, 40a und 41 des Bundesversorgungsgesetzes, sofern ein Partner an den Schädigungsfolgen verstorben ist und der andere unter Verzicht auf eine Erwerbstätigkeit die Betreuung eines gemeinschaftlichen Kindes ausübt; dieser Anspruch ist auf die ersten drei Lebensjahre des Kindes beschränkt. Satz 4 gilt entsprechend, wenn ein Partner in der Zeit zwischen dem 1. November 1994 und dem 23. Juni 2006 an den Schädigungsfolgen verstorben ist.
+# § 47a – (weggefallen)
 
-(2) Zivildienstbeschädigung ist eine gesundheitliche Schädigung, die durch eine Dienstverrichtung, durch einen während der Ausübung des Zivildienstes erlittenen Unfall oder durch die dem Zivildienst eigentümlichen Verhältnisse herbeigeführt worden ist.
+# § 47b – (weggefallen)
 
-(3) Eine Zivildienstbeschädigung ist auch eine gesundheitliche Schädigung, die herbeigeführt worden ist durch
+# § 48 – (weggefallen)
 
-1. einen Angriff auf den Dienstleistenden wegen
+# § 49 – (weggefallen)
 
-a) seines pflichtgemäßen dienstlichen Verhaltens oder
+# § 50 – (weggefallen)
 
-b) seiner Zugehörigkeit zum Zivildienst,
-
-2. einen Unfall, den der Dienstleistende oder ehemalige Dienstleistende
-
-a) auf einem Hin- oder Rückweg erleidet, der notwendig ist, um eine Maßnahme der Heilbehandlung, eine Badekur, Versehrtenleibesübungen als Gruppenbehandlung oder berufsfördernde Maßnahmen zur Rehabilitation nach § 26 des Bundesversorgungsgesetzes durchzuführen oder um auf Verlangen einer zuständigen Behörde oder eines Gerichts wegen der Beschädigtenversorgung persönlich zu erscheinen oder
-
-b) bei der Durchführung einer der in Buchstabe a aufgeführten Maßnahmen erleidet.
-
-(4) Zum Zivildienst im Sinne dieser Vorschrift gehören auch
-
-1. die mit dem Zivildienst zusammenhängenden Dienstreisen, Dienstgänge und die dienstliche Tätigkeit am Bestimmungsort,
-
-2. die Teilnahme eines Dienstleistenden an dienstlichen Veranstaltungen.
-
-(5) Als Zivildienst gilt auch
-
-1. das Erscheinen eines Dienstpflichtigen auf Anordnung einer für die Durchführung des Zivildienstes zuständigen Stelle,
-
-2. das Zurücklegen des Weges bei Antritt und des Rückweges bei Beendigung des Zivildienstes,
-
-3. das Zurücklegen des mit dem Zivildienst zusammenhängenden Weges nach und von der Dienststelle.
-
-4. (weggefallen)
-
-Der Zusammenhang mit dem Zivildienst gilt als nicht unterbrochen, wenn der Dienstleistende von dem unmittelbaren Weg zwischen der Wohnung und der Dienststelle abweicht, weil
-
-a) sein Kind, das mit ihm in einem Haushalt lebt, wegen des Zivildienstes oder wegen der beruflichen Tätigkeit seiner Ehegattin oder seines eingetragenen Lebenspartners fremder Obhut anvertraut wird,
-
-b) er mit anderen Dienstleistenden oder mit berufstätigen oder in der gesetzlichen Unfallversicherung versicherten Personen gemeinsam ein Fahrzeug für den Weg nach und von der Dienststelle benutzt.
-
-Hat der Dienstleistende wegen der Entfernung seiner ständigen Familienwohnung vom Dienstort oder wegen der Pflicht zum Wohnen in einer dienstlichen Unterkunft am Dienstort oder in dessen Nähe eine Unterkunft, so gelten Satz 1 Nr. 3 und Satz 2 auch für den Weg von und nach der Familienwohnung.
-
-(6) Einer gesundheitlichen Schädigung im Sinne des Absatzes 2 steht die Beschädigung eines am Körper getragenen Hilfsmittels, einer Brille, von Kontaktlinsen oder von Zahnersatz gleich.
-
-(7) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Wenn die zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung erforderliche Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache des festgestellten Leidens in der medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung des Bundesministeriums für Gesundheit die Gesundheitsstörung als Folge einer Schädigung anerkannt werden; die Zustimmung kann allgemein erteilt werden. Eine vom Beschädigten absichtlich herbeigeführte Schädigung gilt nicht als Zivildienstbeschädigung.
-
-(8) § 60 des Bundesversorgungsgesetzes findet mit der Maßgabe Anwendung, dass die Versorgung nicht vor dem Tage beginnt, der auf den Tag der Beendigung des Zivildienstverhältnisses folgt, § 60 Abs. 1 des Bundesversorgungsgesetzes auch mit der Maßgabe, dass die Versorgung mit dem auf den Tag der Beendigung des Dienstverhältnisses folgenden Tage beginnt, wenn der Erstantrag innerhalb eines Jahres nach Beendigung des Zivildienstverhältnisses gestellt wird. Ist ein anerkannter Kriegsdienstverweigerer, dessen Hinterbliebenen Versorgung nach Absatz 1 zustehen würde, verschollen, so beginnt die Hinterbliebenenversorgung abweichend von § 61 des Bundesversorgungsgesetzes frühestens mit dem ersten Tag des Monats, der auf den Monat folgt, in dem die Zahlung von Bezügen auf Grund der Dienstleistung endet.
-
-(9) Treffen Ansprüche aus einer Zivildienstbeschädigung mit Ansprüchen aus § 1 des Bundesversorgungsgesetzes oder aus anderen Gesetzen zusammen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, ist unter Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten Grades der Schädigungsfolgen eine einheitliche Rente festzusetzen.
-
-(10) § 36 des Bundesversorgungsgesetzes findet keine Anwendung auf den anerkannten Kriegsdienstverweigerer, der während des Zivildienstes verstorben ist, wenn das Bundesamt die Bestattung und Überführung besorgt hat.
-
-(11) § 55 des Bundesversorgungsgesetzes ist auch beim Zusammentreffen mit Ansprüchen nach Absatz 1 anzuwenden.
-
-# § 47a – Versorgung in besonderen Fällen
-
-Ist ein Dienstleistender zur Wahrnehmung einer Tätigkeit, die öffentlichen Belangen oder dienstlichen Interessen dient, beurlaubt worden, so kann ihm oder seinen Hinterbliebenen mit Zustimmung des Bundesministeriums für Arbeit und Soziales für die Folgen einer gesundheitlichen Schädigung, die der Dienstleistende durch diese Tätigkeit oder durch einen Unfall während der Ausübung dieser Tätigkeit erlitten hat, Versorgung in gleicher Weise wie für die Folgen einer Zivildienstbeschädigung gewährt werden. Die Zustimmung kann allgemein erteilt werden.
-
-# § 47b – Unfallschutz in besonderen Fällen
-
-(1) Erleidet ein nach § 47 Abs. 1 in Verbindung mit § 10 Abs. 4 oder 5 des Bundesversorgungsgesetzes Berechtigter oder Leistungsempfänger eine gesundheitliche Schädigung durch einen Unfall bei der Durchführung einer stationären Maßnahme nach § 47 Abs. 1 in Verbindung mit § 12 Abs. 1 oder 4 oder § 26 des Bundesversorgungsgesetzes oder auf dem notwendigen Hin- oder Rückweg, so erhält er wegen der gesundheitlichen und wirtschaftlichen Folgen der Schädigung auf Antrag Versorgung in entsprechender Anwendung der Vorschriften des Bundesversorgungsgesetzes. Dies gilt entsprechend, wenn der Berechtigte oder Leistungsempfänger dem Verlangen eines zuständigen Leistungsträgers oder eines Gerichts, wegen der Versorgung persönlich zu erscheinen, folgt und dabei einen Unfall erleidet.
-
-(2) Absatz 1 gilt entsprechend, wenn eine Pflegeperson bei einer Badekur nach § 47 Abs. 1 in Verbindung mit § 12 Abs. 3 des Bundesversorgungsgesetzes einen Unfall erleidet.
-
-(3) Erleidet eine nicht nach § 2 Abs. 1 Nr. 1 oder 9 des Siebten Buches Sozialgesetzbuch versicherte Begleitperson eine gesundheitliche Schädigung durch einen Unfall bei einer wegen der Folgen der Schädigung notwendigen Begleitung des Beschädigten auf einem Weg im Sinne des § 47 Abs. 3 Nr. 2 Buchstabe a oder bei der notwendigen Begleitung während der Durchführung einer dort aufgeführten Maßnahme, gilt Absatz 1 Satz 1 entsprechend. Satz 1 gilt nicht, wenn die gesundheitliche Schädigung der Begleitperson zugleich eine Zivildienstbeschädigung im Sinne des § 47 Abs. 2 ist.
-
-(4) § 47 Abs. 6 gilt entsprechend.
-
-# § 48 – Heilbehandlung in besonderen Fällen
-
-(1) Wer Zivildienst geleistet hat, erhält wegen einer Gesundheitsstörung, die bei Beendigung des Zivildienstverhältnisses heilbehandlungsbedürftig ist, Leistungen in entsprechender Anwendung des § 10 Abs. 1 und 3, der §§ 11 und 11a sowie der §§ 13 bis 24a des Bundesversorgungsgesetzes. Bei Anwendung der in Satz 1 genannten Vorschriften ist die festgestellte Gesundheitsstörung wie eine anerkannte Schädigungsfolge zu behandeln.
-
-(2) Die Leistungen nach Absatz 1 werden bis zur Dauer von drei Jahren nach Beendigung des Zivildienstverhältnisses gewährt. Wird vor Ablauf dieses Zeitraumes ein Anspruch nach § 47 anerkannt, so werden sie nur bis zum Zeitpunkt dieser Anerkennung gewährt. Sie können in besonderen Fällen im Benehmen mit dem Bundesministerium für Arbeit und Soziales über den Zeitraum von drei Jahren hinaus gewährt werden. Sie werden auf Ansprüche nach § 47 angerechnet.
-
-(3) Ein Anspruch auf die in Absatz 1 genannten Leistungen besteht nicht,
-
-a) wenn und soweit ein Versicherungsträger (§ 29 Abs. 1 des Vierten Buches Sozialgesetzbuch) zu entsprechenden Leistungen verpflichtet ist oder Leistungen aus einem anderen Gesetz - mit Ausnahme entsprechender Leistungen nach dem Zweiten Buch Sozialgesetzbuch oder dem Zwölften Buch Sozialgesetzbuch - zu gewähren sind,
-
-b) wenn und soweit ein entsprechender Anspruch aus einem Vertrag, ausgenommen Ansprüche aus einer privaten Krankenversicherung oder Unfallversicherung, besteht,
-
-c) wenn der Berechtigte ein Einkommen hat, das die Jahresarbeitsentgeltgrenze der gesetzlichen Krankenversicherung übersteigt, oder
-
-d) wenn die Gesundheitsstörung auf eigenen Vorsatz zurückzuführen ist.
-
-# § 49 – Versorgungskrankengeld in besonderen Fällen
-
-Die §§ 16 bis 16f des Bundesversorgungsgesetzes finden auf einen anerkannten Kriegsdienstverweigerer, der Zivildienst geleistet hat und im Zeitpunkt der Beendigung des Zivildienstverhältnisses infolge einer Zivildienstbeschädigung arbeitsunfähig ist, mit folgenden Maßgaben Anwendung:
-
-1. Hatte der anerkannte Kriegsdienstverweigerer keine Erwerbstätigkeit ausgeübt, so gilt er als arbeitsunfähig, wenn er nicht oder doch nur mit der Gefahr, seinen Zustand zu verschlimmern, fähig ist, einer Erwerbstätigkeit oder Berufsausbildung nachzugehen. Als Zeitpunkt des Eintritts der Arbeitsunfähigkeit gilt der Zeitpunkt der Beendigung des Zivildienstverhältnisses.
-
-2. Das Einkommen, das der anerkannte Kriegsdienstverweigerer vor Eintritt der Arbeitsunfähigkeit bezogen hat, gilt auch dann als durch die Arbeitsunfähigkeit gemindert, wenn die Minderung infolge der Beendigung des Zivildienstverhältnisses wegen Ablaufes der dafür festgesetzten Zeit eingetreten ist.
-
-3. Als vor Eintritt der Arbeitsunfähigkeit bezogenes Einkommen gelten zehn Achtel der vor der Beendigung des Zivildienstverhältnisses bezogenen Geld- und Sachbezüge als Dienstpflichtiger. Hatte der Dienstpflichtige im letzten Kalendermonat vor dem für den Diensteintritt festgesetzten Zeitpunkt Arbeitseinkommen bezogen, so ist dieses Einkommen maßgebend, sofern das für ihn günstiger ist.
-
-# § 50 – Ausgleich für Zivildienstbeschädigungen
-
-(1) Anerkannte Kriegsdienstverweigerer erhalten wegen der Folgen einer Zivildienstbeschädigung einen Ausgleich in Höhe der Grundrente und der Schwerstbeschädigtenzulage nach § 30 Abs. 1 und § 31 des Bundesversorgungsgesetzes.
-
-(2) Trifft eine Zivildienstschädigung mit einer Schädigung im Sinne des § 1 des Bundesversorgungsgesetzes oder eines anderen Gesetzes zusammen, das eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsieht, ist der durch die gesamten Schädigungsfolgen bedingte Grad der Schädigungsfolgen festzustellen. Von dem sich daraus ergebenden Betrag des Ausgleichs ist ein Betrag in Höhe der Grundrente abzuziehen, die auf den durch die Schädigung im Sinne des Bundesversorgungsgesetzes oder des anderen Gesetzes bedingten Grad der Schädigungsfolgen entfällt. Der Restbetrag ist als Ausgleich zu gewähren.
-
-(3) § 47 Abs. 7 Satz 2 und § 47a finden Anwendung.
-
-(4) Der Ausgleich beginnt mit dem Monat, in dem seine Voraussetzungen erfüllt sind. § 60 Abs. 4 Satz 1 und 2 und § 62 Abs. 2 und 3 des Bundesversorgungsgesetzes finden entsprechende Anwendung. Der Anspruch auf Ausgleich besteht nur für die Zeit bis zur Beendigung des Zivildienstes. Ist ein Dienstpflichtiger verschollen, so besteht der Anspruch auf Ausgleich nur für die Zeit bis zum Ende des Monats, in dem das Bundesamt feststellt, dass das Ableben des Verschollenen mit Wahrscheinlichkeit anzunehmen ist. Kehrt der Verschollene zurück, so lebt sein Anspruch auf Ausgleich für die Zeit wieder auf, für die Bezüge auf Grund der Dienstleistung nachgezahlt werden.
-
-(5) Der Anspruch auf Ausgleich kann weder abgetreten noch verpfändet noch gepfändet werden. Die Aufrechnung einer Forderung auf Rückerstattung zuviel gezahlten Ausgleichs ist zulässig.
-
-# § 51 – Durchführung der Versorgung
-
-(1) Die Versorgung nach den §§ 47 bis 49 wird von den zur Durchführung des Bundesversorgungsgesetzes zuständigen Behörden im Auftrag des Bundes durchgeführt.
-
-(2) In Angelegenheiten des § 35 Abs. 5 und 8 und des § 50 sind das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung, die §§ 60 bis 62 sowie 65 bis 67 des Ersten Buches Sozialgesetzbuch und das Zehnte Buch Sozialgesetzbuch entsprechend anzuwenden. In Angelegenheiten des Absatzes 1, soweit die Beschädigtenversorgung nicht in der Gewährung von Leistungen der Kriegsopferfürsorge nach den §§ 25 bis 27i des Bundesversorgungsgesetzes besteht, sind das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung, das Erste und Zehnte Buch Sozialgesetzbuch und die Vorschriften des Sozialgerichtsgesetzes über das Vorverfahren entsprechend anzuwenden.
-
-(3) Bei Streitigkeiten in Angelegenheiten des Absatzes 1, soweit die Beschädigtenversorgung nicht in der Gewährung von Leistungen der Kriegsopferfürsorge nach den §§ 25 bis 27i des Bundesversorgungsgesetzes besteht, des § 35 Abs. 5 und 8 und des § 50 ist der Rechtsweg vor den Gerichten der Sozialgerichtsbarkeit gegeben. Die Vorschriften des Sozialgerichtsgesetzes finden mit folgenden Maßgaben entsprechende Anwendung:
-
-1. Hat ein Gericht der Sozialgerichtsbarkeit in Angelegenheiten des § 35 Abs. 5 und 8 und des § 50 über die Frage einer Zivildienstbeschädigung oder gesundheitlichen Schädigung im Sinne des § 47a und den ursächlichen Zusammenhang einer Gesundheitsstörung mit einem Tatbestand des § 47 Abs. 2 bis 7 oder des § 47a oder über das Vorliegen einer Gesundheitsstörung im Sinne des § 47 Abs. 7 Satz 2 rechtskräftig entschieden, so ist die Entscheidung insoweit auch für eine auf derselben Ursache beruhende Rechtsstreitigkeit über einen Anspruch nach § 47 Abs. 1 verbindlich; in Angelegenheiten des Absatzes 1 ist Halbsatz 1 entsprechend anzuwenden.
-
-2. Ist für Angelegenheiten der Kriegsopferversorgung das Land als Beteiligter am Verfahren bezeichnet, so tritt an seine Stelle die Bundesrepublik Deutschland.
-
-3. Die Bundesrepublik Deutschland wird durch das Bundesministerium für Familie, Senioren, Frauen und Jugend vertreten. Dieses kann die Vertretung durch allgemeine Anordnung anderen Behörden übertragen; die Anordnung ist im Bundesgesetzblatt zu veröffentlichen.
-
-4. Die Nummern 2 und 3 gelten nur in Angelegenheiten des § 35 Abs. 5 und 8 und des § 50.
-
-Die Nummern 2 und 3 gelten nur in Angelegenheiten des § 35 Abs. 5 und 8 und des § 50.
-
-(4) Die Aufwendungen für die Versorgungsleistungen trägt der Bund. Die Ausgaben sind für Rechnung des Bundes zu leisten. Die damit zusammenhängenden Einnahmen sind an den Bund abzuführen.
-
-(5) Auf die für Rechnung des Bundes geleisteten Ausgaben und die mit ihnen zusammenhängenden Einnahmen ist das Haushaltsrecht des Bundes anzuwenden. Die für die Durchführung des Haushalts verantwortlichen Bundesbehörden können ihre Befugnisse auf die zuständigen obersten Landesbehörden übertragen. In diesem Fall können sie zulassen, dass auf die für Rechnung des Bundes zu leistenden Ausgaben und auf die mit ihnen zusammenhängenden Einnahmen die landesrechtlichen Vorschriften über die Kassen- und Buchführung der zuständigen Landesbehörden angewendet werden.
+# § 51 – (weggefallen)
 
 # § 51a – Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands
 

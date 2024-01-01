@@ -49,7 +49,7 @@ Die Unternehmen haben die Konten und sonstigen Aufzeichnungen nach § 3 Abs. 1 S
 
 # § 6 – Persönliche Verantwortlichkeit
 
-(1) Für die Erfüllung der Pflichten nach § 3 Abs. 1, §§ 4 und 5 haben der Rechtsträger des Unternehmens und die Personen einzustehen, die als Mitglieder des vertretungsberechtigten Organs einer juristischen Person, als vertretungsberechtigte Gesellschafter einer Personengesellschaft oder in sonstiger Weise unmittelbar oder mittelbar zur gesetzlichen oder organschaftlichen Vertretung des Rechtsträgers des Unternehmens berufen sind.
+(1) Für die Erfüllung der Pflichten nach § 3 Abs. 1, §§ 4 und 5 haben der Rechtsträger des Unternehmens und die Personen einzustehen, die als Mitglieder des vertretungsberechtigten Organs einer juristischen Person, als vertretungsberechtigte Gesellschafter einer rechtsfähigen Personengesellschaft oder in sonstiger Weise unmittelbar oder mittelbar zur gesetzlichen oder organschaftlichen Vertretung des Rechtsträgers des Unternehmens berufen sind.
 
 (2) Wer nach Absatz 1 in Verbindung mit § 5 zur Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihm selbst oder Angehörigen, die in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichnet sind, die Gefahr zuziehen würde, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden.
 

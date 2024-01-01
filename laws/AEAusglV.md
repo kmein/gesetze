@@ -117,7 +117,9 @@ Der Bundesminister für Verkehr
 
 # Anlage – (zu § 2)
 
-Fundstelle des Originaltextes: BGBl. I 1977, 1468 - 1469
+Fundstelle: BGBl. I 1977, 1468 - 1469;  
+  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -201,7 +203,7 @@ Ausgangsbasis für die kalkulatorischen Abschreibungen sind die Anschaffungs- od
 
 8. Kalkulatorischer Unternehmerlohn
 
-Für die Mitarbeit des Unternehmers in Einzelunternehmen und Personengesellschaften und ggf. unentgeltlich mithelfende Familienangehörige sind angemessene Kosten einzusetzen.
+Für die Mitarbeit des Unternehmers in Einzelunternehmen und rechtsfähigen Personengesellschaften und ggf. unentgeltlich mithelfende Familienangehörige sind angemessene Kosten einzusetzen.
 
 9. Kalkulatorische Zinsen (vgl. Nr. 43 LSP)
 

@@ -49,7 +49,9 @@ k) Verteilungsverfahren, die außerhalb der Zwangsvollstreckung nach den Vorschr
 
 l) Verteilungsverfahren, die außerhalb der Zwangsversteigerung nach den für die Verteilung des Erlöses im Falle der Zwangsversteigerung geltenden Vorschriften durchzuführen sind,
 
-m) Verteilungsverfahren nach § 75 Absatz 2 des Flurbereinigungsgesetzes, § 54 Absatz 3 des Landbeschaffungsgesetzes, § 119 Absatz 3 des Baugesetzbuchs und § 94 Absatz 4 des Bundesberggesetzes;
+m) Verteilungsverfahren nach § 75 Absatz 2 des Flurbereinigungsgesetzes, § 54 Absatz 3 des Landbeschaffungsgesetzes, § 119 Absatz 3 des Baugesetzbuchs und § 94 Absatz 4 des Bundesberggesetzes,
+
+n) Gesellschafts-, Genossenschafts- und Partnerschaftsregistersachen nach § 374 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit;
 
 2. vorbehaltlich der in den §§ 14 bis 19b dieses Gesetzes aufgeführten Ausnahmen die nach den gesetzlichen Vorschriften vom Richter wahrzunehmenden Geschäfte des Amtsgerichts in
 
@@ -59,7 +61,7 @@ b) Betreuungssachen sowie betreuungsgerichtlichen Zuweisungssachen nach den §§
 
 c) Nachlass- und Teilungssachen nach § 342 Absatz 1 und 2 Nummer 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
 
-d) Handels-, Genossenschafts- und Partnerschaftsregistersachen sowie unternehmensrechtlichen Verfahren nach den §§ 374 und 375 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
+d) Handelsregistersachen sowie unternehmensrechtlichen Verfahren nach den §§ 374 und 375 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
 
 e) Verfahren nach der Insolvenzordnung,
 
@@ -275,7 +277,7 @@ Der Rechtspfleger ist an die ihm mitgeteilte Auffassung des Richters gebunden.
 
 # § 17 – Registersachen und unternehmensrechtliche Verfahren
 
-In Handels-, Genossenschafts- und Partnerschaftsregistersachen sowie in unternehmens-rechtlichen Verfahren nach dem Buch 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit bleiben dem Richter vorbehalten
+In Handelsregistersachen sowie in unternehmensrechtlichen Verfahren nach dem Buch 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit bleiben dem Richter vorbehalten
 
 1. bei Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter Haftung und Versicherungsvereinen auf Gegenseitigkeit folgende Verfügungen beim Gericht des Sitzes und, wenn es sich um eine Gesellschaft mit Sitz im Ausland handelt, beim Gericht der Zweigniederlassung:
 
@@ -293,15 +295,11 @@ f) Beschlüsse nach § 399 des Gesetzes über das Verfahren in Familiensachen un
 
 2. die nach § 375 Nummer 1 bis 6, 9 bis 14 und 16 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zu erledigenden Geschäfte mit Ausnahme der in
 
-a) § 146 Absatz 2, § 147 und § 157 Absatz 2 des Handelsgesetzbuchs,
+a) § 145 Absatz 1 und § 152 Absatz 1 des Handelsgesetzbuchs,
 
-b) § 166 Absatz 3 und § 233 Absatz 3 des Handelsgesetzbuchs,
+b) § 264 Absatz 2, § 273 Absatz 4 und § 290 Absatz 3 des Aktiengesetzes,
 
-c) § 264 Absatz 2, § 273 Absatz 4 und § 290 Absatz 3 des Aktiengesetzes,
-
-d) § 66 Absatz 2, 3 und 5 sowie § 74 Absatz 2 und 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung,
-
-e) (weggefallen)
+c) § 66 Absatz 2, 3 und 5 sowie § 74 Absatz 2 und 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung,
 
 geregelten Geschäfte.
 

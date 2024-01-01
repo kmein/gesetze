@@ -137,7 +137,7 @@ Die Einsatzstellen, Zentralstellen und Träger dürfen personenbezogene Daten na
 
 1. § 3 der Sonderurlaubsverordnung,
 
-2. § 45 Absatz 3 Satz 1 Buchstabe c des Bundesversorgungsgesetzes,
+2. § 87 Absatz 4 Nummer 2 des Vierzehnten Buches Sozialgesetzbuch,
 
 3. § 1 Absatz 1 Nummer 2 Buchstabe h der Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Straßenpersonenverkehr,
 
@@ -183,4 +183,6 @@ Die Einsatzstellen, Zentralstellen und Träger können mit ihrem Einverständnis
 
 (3) Den Einsatzstellen wird der Aufwand für das Taschengeld, die Sozialversicherungsbeiträge und die pädagogische Begleitung im Rahmen der im Haushaltsplan vorgesehenen Mittel erstattet; das Bundesministerium für Familie, Senioren, Frauen und Jugend legt im Einvernehmen mit dem Bundesministerium der Finanzen einheitliche Obergrenzen für die Erstattung fest. Der Zuschuss für den Aufwand für die pädagogische Begleitung wird nach den für das freiwillige soziale Jahr im Inland geltenden Richtlinien des Bundes festgesetzt.
 
-# § 18 – (weggefallen)
+# § 18 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 13 Absatz 2 Satz 2 Nummer 2 in der am 31. Dezember 2023 geltenden Fassung weiter.

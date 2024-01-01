@@ -47,4 +47,4 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
 
 # Anlage – (zu § 1 Absatz 1)Verzeichnis der Entgelte
 
-(Fundstelle: BGBl. 2023 I, Nr. 189, 1 – 5)
+(Fundstelle: BGBl. 2023 I Nr. 387, S. 1 – 4)

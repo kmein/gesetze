@@ -87,7 +87,7 @@ an Bilanzstichtagen, die in einen Zeitraum fallen, für den eine Einschlagsbesch
 
 (1) Die zuständigen Behörden haben die Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu überwachen.
 
-(2) Die zuständigen Behörden können zur Durchführung der ihnen durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben von natürlichen und juristischen Personen und nicht rechtsfähigen Personenvereinigungen die erforderlichen Auskünfte verlangen.
+(2) Die zuständigen Behörden können zur Durchführung der ihnen durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben von natürlichen und juristischen Personen und sonstigen Personenvereinigungen die erforderlichen Auskünfte verlangen.
 
 (3) Die von den zuständigen Behörden mit der Einholung von Auskünften beauftragten Personen sind im Rahmen des Absatzes 2 befugt, Grundstücke und Geschäftsräume des Auskunftspflichtigen während der Geschäfts- und Betriebszeiten zu betreten und die geschäftlichen Unterlagen einzusehen. Der Auskunftspflichtige hat die Maßnahmen nach Satz 1 zu dulden.
 

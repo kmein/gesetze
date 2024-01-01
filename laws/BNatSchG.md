@@ -1630,7 +1630,7 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird insoweit ein
 
 # § 52 – Auskunfts- und Zutrittsrecht
 
-(1) Natürliche und juristische Personen sowie nicht rechtsfähige Personenvereinigungen haben den für Naturschutz und Landschaftspflege zuständigen oder den gemäß § 48a zuständigen Behörden oder nach § 49 oder § 51a mitwirkenden Behörden auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der Rechtsakte der Europäischen Gemeinschaft, dieses Kapitels oder der zu ihrer Durchführung erlassenen Rechtsvorschriften erforderlich sind.
+(1) Natürliche und juristische Personen sowie sonstige Personenvereinigungen haben den für Naturschutz und Landschaftspflege zuständigen oder den gemäß § 48a zuständigen Behörden oder nach § 49 oder § 51a mitwirkenden Behörden auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der Rechtsakte der Europäischen Gemeinschaft, dieses Kapitels oder der zu ihrer Durchführung erlassenen Rechtsvorschriften erforderlich sind.
 
 (2) Personen, die von den in Absatz 1 genannten Behörden beauftragt sind, dürfen, soweit dies erforderlich ist, im Rahmen des Absatzes 1 betrieblich oder geschäftlich genutzte Grundstücke, Gebäude, Räume, Seeanlagen, Schiffe und Transportmittel der zur Auskunft verpflichteten Person während der Geschäfts- und Betriebszeiten betreten und die Behältnisse sowie die geschäftlichen Unterlagen einsehen. Die zur Auskunft verpflichtete Person hat, soweit erforderlich, die beauftragten Personen dabei zu unterstützen sowie die geschäftlichen Unterlagen auf Verlangen vorzulegen.
 

@@ -115,7 +115,7 @@ Soweit die Landesstellen oder die Bundesanstalt für Anträge, Verträge, Erklä
 
 (1) Eine nach dieser Verordnung angeordnete Schriftform kann durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronisches Dokument, bei dem ein von der Landesstelle oder der Bundesanstalt zugelassenes Authentifizierungsverfahren verwendet wird. Die zuständigen Behörden können
 
-1. die Verwendung einer qualifizierten elektronischen Signatur,
+1. die Verwendung einer qualifizierten elektronischen Signatur oder ihres qualifizierten elektronischen Siegels,
 
 2. die unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird,
 
@@ -123,7 +123,7 @@ Soweit die Landesstellen oder die Bundesanstalt für Anträge, Verträge, Erklä
 
 4. sonstige Authentifizierungsverfahren, die den Anforderungen an die elektronische Übermittlung von Daten im Sinne des Artikels 11 Absatz 1 der Durchführungsverordnung (EU) Nr. 809/2014 genügen,
 
-zulassen. § 3a Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes ist bei der Verwendung qualifizierter elektronischer Signaturen entsprechend anzuwenden. § 3a Absatz 2 Satz 5 des Verwaltungsverfahrensgesetzes ist im Falle des Satzes 3 Nummer 2 entsprechend anzuwenden.
+zulassen. § 3a Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes ist bei der Verwendung qualifizierter elektronischer Signaturen entsprechend anzuwenden. § 3a Absatz 3 Nummer 1 des Verwaltungsverfahrensgesetzes ist im Falle des Satzes 3 Nummer 2 entsprechend anzuwenden.
 
 (2) Ist ein der Landesstelle oder der Bundesanstalt übermitteltes elektronisches Dokument zur Bearbeitung nicht geeignet, teilt die Landesstelle oder die Bundesanstalt dies dem Absender unter Angabe der für sie geltenden technischen Rahmenbedingungen unverzüglich mit. Macht ein Empfänger geltend, er könne das von der Landesstelle oder der Bundesanstalt übermittelte elektronische Dokument nicht bearbeiten, hat sie es ihm erneut in einem geeigneten Format oder als Schriftstück zu übermitteln.
 

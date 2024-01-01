@@ -185,6 +185,12 @@ a) die zur Verwendung in Tierversuchen bestimmt sind oder
 
 b) deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden.
 
+(3) Ab dem 13. Bebrütungstag ist es verboten, bei oder nach der Anwendung eines Verfahrens zur Geschlechtsbestimmung im Hühnerei
+
+1. einen Eingriff an einem Hühnerei vorzunehmen, der den Tod des Hühnerembryos verursacht, oder
+
+2. einen Abbruch des Brutvorgangs vorzunehmen, der den Tod des Hühnerembryos verursacht.
+
 # § 5
 
 (1) An einem Wirbeltier darf ohne Betäubung ein mit Schmerzen verbundener Eingriff nicht vorgenommen werden. Die Betäubung warmblütiger Wirbeltiere sowie von Amphibien und Reptilien ist von einem Tierarzt vorzunehmen. Dies gilt nicht, soweit die Betäubung ausschließlich durch äußerliche Anwendung eines Tierarzneimittels erfolgt, das nach arzneimittelrechtlichen Vorschriften zugelassen ist, um eine örtliche Schmerzausschaltung zu erreichen, und nach dem Stand von Wissenschaft und Technik zum Zweck der Durchführung des jeweiligen Eingriffs geeignet ist. Dies gilt ferner nicht für einen Eingriff im Sinne des § 6 Absatz 1 Satz 2 Nummer 2a, soweit die Betäubung ohne Beeinträchtigung des Zustandes der Wahrnehmungs- und Empfindungsfähigkeit, ausgenommen die Schmerzempfindung, durch ein Tierarzneimittel erfolgt, das nach arzneimittelrechtlichen Vorschriften für die Schmerzausschaltung bei diesem Eingriff zugelassen ist. Für die Betäubung mit Betäubungspatronen kann die zuständige Behörde Ausnahmen von Satz 2 zulassen, sofern ein berechtigter Grund nachgewiesen wird. Ist nach den Absätzen 2, 3 und 4 Nr. 1 eine Betäubung nicht erforderlich, sind alle Möglichkeiten auszuschöpfen, um die Schmerzen oder Leiden der Tiere zu vermindern.
@@ -1001,7 +1007,7 @@ Die Einrichtungen nach Satz 1 Nummer 3 und die Einrichtungen und Betriebe nach �
 
 3. die Räume und Einrichtungen, die für die Tätigkeit bestimmt sind.
 
-(2) Natürliche und juristische Personen und nicht rechtsfähige Personenvereinigungen haben der zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der der Behörde durch dieses Gesetz übertragenen Aufgaben erforderlich sind.
+(2) Natürliche und juristische Personen und sonstige Personenvereinigungen haben der zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der der Behörde durch dieses Gesetz übertragenen Aufgaben erforderlich sind.
 
 (3) Personen, die von der zuständigen Behörde beauftragt sind, sowie in ihrer Begleitung befindliche Sachverständige der Europäischen Kommission und anderer Mitgliedstaaten dürfen zum Zwecke der Aufsicht über die in Absatz 1 bezeichneten Personen und Einrichtungen und im Rahmen des Absatzes 2
 
@@ -1188,6 +1194,8 @@ erlassenen Rechtsverordnung zuwiderhandelt, soweit sie für einen bestimmten Tat
 5a. entgegen § 4 Absatz 3 Satz 2 einen Hund, eine Katze oder einen Primaten tötet,
 
 6. entgegen § 4a Abs. 1 ein warmblütiges Tier schlachtet,
+
+6a. entgegen § 4c Absatz 3 einen dort genannten Eingriff oder Abbruch vornimmt,
 
 7. entgegen § 5 Abs. 1 Satz 1 einen Eingriff ohne Betäubung vornimmt oder, ohne Tierarzt zu sein, entgegen § 5 Abs. 1 Satz 2 eine Betäubung vornimmt,
 

@@ -239,9 +239,11 @@ Das Vermögen darf den Anfallberechtigten nicht vor dem Ablauf eines Jahres nach
 
 Liquidatoren, welche die ihnen nach dem § 42 Abs. 2 und den §§ 50, 51 und 52 obliegenden Verpflichtungen verletzen oder vor der Befriedigung der Gläubiger Vermögen den Anfallberechtigten ausantworten, sind, wenn ihnen ein Verschulden zur Last fällt, den Gläubigern für den daraus entstehenden Schaden verantwortlich; sie haften als Gesamtschuldner.
 
-# § 54 – Nicht rechtsfähige Vereine
+# § 54 – Vereine ohne Rechtspersönlichkeit
 
-Auf Vereine, die nicht rechtsfähig sind, finden die Vorschriften über die Gesellschaft Anwendung. Aus einem Rechtsgeschäft, das im Namen eines solchen Vereins einem Dritten gegenüber vorgenommen wird, haftet der Handelnde persönlich; handeln mehrere, so haften sie als Gesamtschuldner.
+(1) Für Vereine, deren Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist und die nicht durch Eintragung in das Vereinsregister Rechtspersönlichkeit erlangt haben, sind die Vorschriften der §§ 24 bis 53 entsprechend anzuwenden. Für Vereine, deren Zweck auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist und die nicht durch staatliche Verleihung Rechtspersönlichkeit erlangt haben, sind die Vorschriften über die Gesellschaft entsprechend anzuwenden.
+
+(2) Aus einem Rechtsgeschäft, das im Namen eines Vereins ohne Rechtspersönlichkeit einem Dritten gegenüber vorgenommen wird, haftet der Handelnde persönlich; handeln mehrere, haften sie als Gesamtschuldner.
 
 # § 55 – Zuständigkeit für die Registereintragung
 
@@ -5123,6 +5125,8 @@ Modernisierungsmaßnahmen sind bauliche Veränderungen,
 
 1. durch die in Bezug auf die Mietsache Endenergie nachhaltig eingespart wird (energetische Modernisierung),
 
+1a. durch die mittels Einbaus oder Aufstellung einer Heizungsanlage zum Zwecke der Inbetriebnahme in einem Gebäude die Anforderungen des § 71 des Gebäudeenergiegesetzes erfüllt werden,
+
 2. durch die nicht erneuerbare Primärenergie nachhaltig eingespart oder das Klima nachhaltig geschützt wird, sofern nicht bereits eine energetische Modernisierung nach Nummer 1 vorliegt,
 
 3. durch die der Wasserverbrauch nachhaltig reduziert wird,
@@ -5327,7 +5331,7 @@ Soweit der Vermieter die Auskunft nicht erteilt hat, kann er sich nicht auf eine
 
 (1) Die Vertragsparteien können schriftlich vereinbaren, dass die Miete durch den vom Statistischen Bundesamt ermittelten Preisindex für die Lebenshaltung aller privaten Haushalte in Deutschland bestimmt wird (Indexmiete).
 
-(2) Während der Geltung einer Indexmiete muss die Miete, von Erhöhungen nach den §§ 559 bis 560 abgesehen, jeweils mindestens ein Jahr unverändert bleiben. Eine Erhöhung nach § 559 kann nur verlangt werden, soweit der Vermieter bauliche Maßnahmen auf Grund von Umständen durchgeführt hat, die er nicht zu vertreten hat. Eine Erhöhung nach § 558 ist ausgeschlossen.
+(2) Während der Geltung einer Indexmiete muss die Miete, von Erhöhungen nach den §§ 559 bis 560 abgesehen, jeweils mindestens ein Jahr unverändert bleiben. Eine Erhöhung nach § 559 oder § 559e kann nur verlangt werden, soweit der Vermieter bauliche Maßnahmen auf Grund von Umständen durchgeführt hat, die er nicht zu vertreten hat, es sei denn, es wurde eine Modernisierungsmaßnahme nach § 555b Nummer 1a durchgeführt. Eine Erhöhung nach § 558 ist ausgeschlossen.
 
 (3) Eine Änderung der Miete nach Absatz 1 muss durch Erklärung in Textform geltend gemacht werden. Dabei sind die eingetretene Änderung des Preisindexes sowie die jeweilige Miete oder die Erhöhung in einem Geldbetrag anzugeben. Die geänderte Miete ist mit Beginn des übernächsten Monats nach dem Zugang der Erklärung zu entrichten.
 
@@ -5418,17 +5422,17 @@ Eine Mietdatenbank ist eine zur Ermittlung der ortsüblichen Vergleichsmiete for
 
 (1) Hat der Vermieter Modernisierungsmaßnahmen im Sinne des § 555b Nummer 1, 3, 4, 5 oder 6 durchgeführt, so kann er die jährliche Miete um 8 Prozent der für die Wohnung aufgewendeten Kosten erhöhen. Im Fall des § 555b Nummer 4a ist die Erhöhung nur zulässig, wenn der Mieter seinen Anbieter von öffentlich zugänglichen Telekommunikationsdiensten über den errichteten Anschluss frei wählen kann und der Vermieter kein Bereitstellungsentgelt gemäß § 72 des Telekommunikationsgesetzes als Betriebskosten umlegt oder umgelegt hat.
 
-(2) Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären, gehören nicht zu den aufgewendeten Kosten nach Absatz 1; sie sind, soweit erforderlich, durch Schätzung zu ermitteln.
+(2) Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären, gehören nicht zu den aufgewendeten Kosten nach Absatz 1; sie sind, soweit erforderlich, durch Schätzung zu ermitteln. Dabei ist der Abnutzungsgrad der Bauteile und Einrichtungen, die von einer modernisierenden Erneuerung erfasst werden, angemessen zu berücksichtigen.
 
 (3) Werden Modernisierungsmaßnahmen für mehrere Wohnungen durchgeführt, so sind die Kosten angemessen auf die einzelnen Wohnungen aufzuteilen.
 
-(3a) Bei Erhöhungen der jährlichen Miete nach Absatz 1 darf sich die monatliche Miete innerhalb von sechs Jahren, von Erhöhungen nach § 558 oder § 560 abgesehen, nicht um mehr als 3 Euro je Quadratmeter Wohnfläche erhöhen. Beträgt die monatliche Miete vor der Mieterhöhung weniger als 7 Euro pro Quadratmeter Wohnfläche, so darf sie sich abweichend von Satz 1 nicht um mehr als 2 Euro je Quadratmeter Wohnfläche erhöhen.
+(3a) Bei Erhöhungen der jährlichen Miete nach Absatz 1 darf sich die monatliche Miete innerhalb von sechs Jahren, von Erhöhungen nach § 558 oder § 560 abgesehen, nicht um mehr als 3 Euro je Quadratmeter Wohnfläche erhöhen. Beträgt die monatliche Miete vor der Mieterhöhung weniger als 7 Euro pro Quadratmeter Wohnfläche, so darf sie sich abweichend von Satz 1 nicht um mehr als 2 Euro je Quadratmeter Wohnfläche erhöhen. Sind bei einer Modernisierungsmaßnahme, die mittels Einbaus oder Aufstellung einer Heizungsanlage zum Zwecke der Inbetriebnahme in einem Gebäude durchgeführt wird und die zu einer Erhöhung der jährlichen Miete nach Absatz 1 berechtigt, zugleich die Voraussetzungen des § 555b Nummer 1 oder Nummer 1a erfüllt, so darf sich die monatliche Miete insoweit um nicht mehr als 0,50 Euro je Quadratmeter Wohnfläche innerhalb von sechs Jahren erhöhen; die Sätze 1 und 2 bleiben unberührt.
 
 (4) Die Mieterhöhung ist ausgeschlossen, soweit sie auch unter Berücksichtigung der voraussichtlichen künftigen Betriebskosten für den Mieter eine Härte bedeuten würde, die auch unter Würdigung der berechtigten Interessen des Vermieters nicht zu rechtfertigen ist. Eine Abwägung nach Satz 1 findet nicht statt, wenn
 
 1. die Mietsache lediglich in einen Zustand versetzt wurde, der allgemein üblich ist, oder
 
-2. die Modernisierungsmaßnahme auf Grund von Umständen durchgeführt wurde, die der Vermieter nicht zu vertreten hatte.
+2. die Modernisierungsmaßnahme auf Grund von Umständen durchgeführt wurde, die der Vermieter nicht zu vertreten hatte, es sei denn, die Modernisierungsmaßnahme erfüllt auch die Voraussetzungen des § 555b Nummer 1 oder Nummer 1a und wurde mittels Einbaus oder Aufstellung einer Heizungsanlage zum Zwecke der Inbetriebnahme in einem Gebäude durchgeführt.
 
 (5) Umstände, die eine Härte nach Absatz 4 Satz 1 begründen, sind nur zu berücksichtigen, wenn sie nach § 555d Absatz 3 bis 5 rechtzeitig mitgeteilt worden sind. Die Bestimmungen über die Ausschlussfrist nach Satz 1 sind nicht anzuwenden, wenn die tatsächliche Mieterhöhung die angekündigte um mehr als 10 Prozent übersteigt.
 
@@ -5468,13 +5472,13 @@ Eine Mietdatenbank ist eine zur Ermittlung der ortsüblichen Vergleichsmiete for
 
 # § 559c – Vereinfachtes Verfahren
 
-(1) Übersteigen die für die Modernisierungsmaßnahme geltend gemachten Kosten für die Wohnung vor Abzug der Pauschale nach Satz 2 10 000 Euro nicht, so kann der Vermieter die Mieterhöhung nach einem vereinfachten Verfahren berechnen. Als Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären (§ 559 Absatz 2), werden pauschal 30 Prozent der nach Satz 1 geltend gemachten Kosten abgezogen. § 559 Absatz 4 und § 559a Absatz 2 Satz 1 bis 3 finden keine Anwendung.
+(1) Übersteigen die für die Modernisierungsmaßnahme geltend gemachten Kosten für die Wohnung vor Abzug der Pauschale nach Satz 2 10 000 Euro nicht, so kann der Vermieter die Mieterhöhung nach einem vereinfachten Verfahren berechnen. Als Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären (§ 559 Absatz 2), werden pauschal 30 Prozent der nach Satz 1 geltend gemachten Kosten abgezogen. § 559 Absatz 4 und § 559a Absatz 2 Satz 1 bis 3 finden keine Anwendung; dies gilt im Hinblick auf § 559 Absatz 4 nicht, wenn die Modernisierungsmaßnahme auch die Voraussetzungen des § 555b Nummer 1 oder Nummer 1a erfüllt und mittels Einbaus oder Aufstellung einer Heizungsanlage zum Zwecke der Inbetriebnahme in einem Gebäude durchgeführt wurde.
 
-(2) Hat der Vermieter die Miete in den letzten fünf Jahren bereits nach Absatz 1 oder nach § 559 erhöht, so mindern sich die Kosten, die nach Absatz 1 Satz 1 für die weitere Modernisierungsmaßnahme geltend gemacht werden können, um die Kosten, die in diesen früheren Verfahren für Modernisierungsmaßnahmen geltend gemacht wurden.
+(2) Hat der Vermieter die Miete in den letzten fünf Jahren bereits nach Absatz 1 oder nach § 559 oder § 559e erhöht, so mindern sich die Kosten, die nach Absatz 1 Satz 1 für die weitere Modernisierungsmaßnahme geltend gemacht werden können, um die Kosten, die in diesen früheren Verfahren für Modernisierungsmaßnahmen geltend gemacht wurden.
 
 (3) § 559b gilt für das vereinfachte Verfahren entsprechend. Der Vermieter muss in der Mieterhöhungserklärung angeben, dass er die Mieterhöhung nach dem vereinfachten Verfahren berechnet hat.
 
-(4) Hat der Vermieter eine Mieterhöhung im vereinfachten Verfahren geltend gemacht, so kann er innerhalb von fünf Jahren nach Zugang der Mieterhöhungserklärung beim Mieter keine Mieterhöhungen nach § 559 geltend machen. Dies gilt nicht,
+(4) Hat der Vermieter eine Mieterhöhung im vereinfachten Verfahren geltend gemacht, so kann er innerhalb von fünf Jahren nach Zugang der Mieterhöhungserklärung beim Mieter keine Mieterhöhungen nach § 559 oder § 559e geltend machen. Dies gilt nicht,
 
 1. soweit der Vermieter in diesem Zeitraum Modernisierungsmaßnahmen auf Grund einer gesetzlichen Verpflichtung durchzuführen hat und er diese Verpflichtung bei Geltendmachung der Mieterhöhung im vereinfachten Verfahren nicht kannte oder kennen musste,
 
@@ -5505,6 +5509,18 @@ Diese Vermutung gilt nicht, wenn der Vermieter darlegt, dass für das Verhalten 
 
 (+++ § 559d: Zur Anwendung vgl. § 578 Abs. 3 Satz 1 +++)  
 (+++ § 559d: Zur Anwendung vgl. Art. 229 § 49 Abs. 1 Satz 4 BGBEG +++)
+
+# § 559e – Mieterhöhung nach Einbau oder Aufstellung einer Heizungsanlage
+
+(1) Hat der Vermieter Modernisierungsmaßnahmen nach § 555b Nummer 1a durchgeführt, welche die Voraussetzungen für Zuschüsse aus öffentlichen Haushalten dem Grunde nach erfüllen, und dabei Drittmittel nach § 559a in Anspruch genommen, so kann er die jährliche Miete um 10 Prozent der für die Wohnung aufgewendeten Kosten abzüglich der in Anspruch genommenen Drittmittel erhöhen. Wenn eine Förderung nicht erfolgt, obwohl die Voraussetzungen für eine Förderung dem Grunde nach erfüllt sind, kann der Vermieter die jährliche Miete nach Maßgabe des § 559 erhöhen.
+
+(2) § 559 Absatz 2 Satz 1 ist mit der Maßgabe anwendbar, dass Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären, pauschal in Höhe von 15 Prozent nicht zu den aufgewendeten Kosten gehören.
+
+(3) § 559 Absatz 3a Satz 1 ist mit der Maßgabe anwendbar, dass sich im Hinblick auf eine Modernisierungsmaßnahme nach § 555b Nummer 1a die monatliche Miete um nicht mehr als 0,50 Euro je Quadratmeter Wohnfläche innerhalb von sechs Jahren erhöhen darf. Ist der Vermieter daneben zu Mieterhöhungen nach § 559 Absatz 1 berechtigt, so dürfen die in § 559 Absatz 3a Satz 1 und 2 genannten Grenzen nicht überschritten werden.
+
+(4) § 559 Absatz 3, 4 und 5 sowie die §§ 559b bis 559d gelten entsprechend.
+
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
 # § 560 – Veränderungen von Betriebskosten
 
@@ -8038,215 +8054,518 @@ Der dem Gast auf Grund der §§ 701, 702 zustehende Anspruch erlischt, wenn nich
 
 Der Gastwirt hat für seine Forderungen für Wohnung und andere dem Gast zur Befriedigung seiner Bedürfnisse gewährte Leistungen, mit Einschluss der Auslagen, ein Pfandrecht an den eingebrachten Sachen des Gastes. Die für das Pfandrecht des Vermieters geltenden Vorschriften des § 562 Abs. 1 Satz 2 und der §§ 562a bis 562d finden entsprechende Anwendung.
 
-# § 705 – Inhalt des Gesellschaftsvertrags
+# § 705 – Rechtsnatur der Gesellschaft
 
-Durch den Gesellschaftsvertrag verpflichten sich die Gesellschafter gegenseitig, die Erreichung eines gemeinsamen Zweckes in der durch den Vertrag bestimmten Weise zu fördern, insbesondere die vereinbarten Beiträge zu leisten.
+(1) Die Gesellschaft wird durch den Abschluss des Gesellschaftsvertrags errichtet, in dem sich die Gesellschafter verpflichten, die Erreichung eines gemeinsamen Zwecks in der durch den Vertrag bestimmten Weise zu fördern.
 
-# § 706 – Beiträge der Gesellschafter
+(2) Die Gesellschaft kann entweder selbst Rechte erwerben und Verbindlichkeiten eingehen, wenn sie nach dem gemeinsamen Willen der Gesellschafter am Rechtsverkehr teilnehmen soll (rechtsfähige Gesellschaft), oder sie kann den Gesellschaftern zur Ausgestaltung ihres Rechtsverhältnisses untereinander dienen (nicht rechtsfähige Gesellschaft).
 
-(1) Die Gesellschafter haben in Ermangelung einer anderen Vereinbarung gleiche Beiträge zu leisten.
+(3) Ist der Gegenstand der Gesellschaft der Betrieb eines Unternehmens unter gemeinschaftlichem Namen, so wird vermutet, dass die Gesellschaft nach dem gemeinsamen Willen der Gesellschafter am Rechtsverkehr teilnimmt.
 
-(2) Sind vertretbare oder verbrauchbare Sachen beizutragen, so ist im Zweifel anzunehmen, dass sie gemeinschaftliches Eigentum der Gesellschafter werden sollen. Das Gleiche gilt von nicht vertretbaren und nicht verbrauchbaren Sachen, wenn sie nach einer Schätzung beizutragen sind, die nicht bloß für die Gewinnverteilung bestimmt ist.
+# § 706 – Sitz der Gesellschaft
 
-(3) Der Beitrag eines Gesellschafters kann auch in der Leistung von Diensten bestehen.
+Sitz der Gesellschaft ist der Ort, an dem deren Geschäfte tatsächlich geführt werden (Verwaltungssitz). Ist die Gesellschaft im Gesellschaftsregister eingetragen und haben die Gesellschafter einen Ort im Inland als Sitz vereinbart (Vertragssitz), so ist abweichend von Satz 1 dieser Ort Sitz der Gesellschaft.
 
-# § 707 – Erhöhung des vereinbarten Beitrags
+# § 707 – Anmeldung zum Gesellschaftsregister
 
-Zur Erhöhung des vereinbarten Beitrags oder zur Ergänzung der durch Verlust verminderten Einlage ist ein Gesellschafter nicht verpflichtet.
+(1) Die Gesellschafter können die Gesellschaft bei dem Gericht, in dessen Bezirk sie ihren Sitz hat, zur Eintragung in das Gesellschaftsregister anmelden.
 
-# §§ 707a bis 707c – (zukünftig in Kraft)
+(2) Die Anmeldung muss enthalten:
 
-(+++ §§ 707a bis 707c: Zukünftig in Kraft gem. Art. 1 Nr. 3 G v. 10.8.2021 I 3436 mWv 1.1.2024 +++)
+1. folgende Angaben zur Gesellschaft:
+
+a) den Namen,
+
+b) den Sitz und
+
+c) die Anschrift, in einem Mitgliedstaat der Europäischen Union;
+
+2. folgende Angaben zu jedem Gesellschafter:
+
+a) wenn der Gesellschafter eine natürliche Person ist: dessen Namen, Vornamen, Geburtsdatum und Wohnort;
+
+b) wenn der Gesellschafter eine juristische Person oder rechtsfähige Personengesellschaft ist: deren Firma oder Namen, Rechtsform, Sitz und, soweit gesetzlich vorgesehen, zuständiges Register und Registernummer;
+
+3. die Angabe der Vertretungsbefugnis der Gesellschafter;
+
+4. die Versicherung, dass die Gesellschaft nicht bereits im Handels- oder im Partnerschaftsregister eingetragen ist.
+
+(3) Wird der Name der im Gesellschaftsregister eingetragenen Gesellschaft geändert, der Sitz an einen anderen Ort verlegt oder die Anschrift geändert oder ändert sich die Vertretungsbefugnis eines Gesellschafters, ist dies zur Eintragung in das Gesellschaftsregister anzumelden. Ist die Gesellschaft im Gesellschaftsregister eingetragen, so sind auch das Ausscheiden eines Gesellschafters und der Eintritt eines neuen Gesellschafters zur Eintragung in das Gesellschaftsregister anzumelden.
+
+(4) Anmeldungen sind vorbehaltlich der Sätze 2 und 3 von sämtlichen Gesellschaftern zu bewirken. Scheidet ein Gesellschafter durch Tod aus, kann die Anmeldung ohne Mitwirkung der Erben erfolgen, sofern einer solchen Mitwirkung besondere Hindernisse entgegenstehen. Ändert sich nur die Anschrift der Gesellschaft, ist die Anmeldung von der Gesellschaft zu bewirken.
+
+# § 707a – Inhalt und Wirkungen der Eintragung im Gesellschaftsregister
+
+(1) Die Eintragung im Gesellschaftsregister hat die in § 707 Absatz 2 Nummer 1 bis 3 genannten Angaben zu enthalten. Eine Gesellschaft soll als Gesellschafter nur eingetragen werden, wenn sie im Gesellschaftsregister eingetragen ist.
+
+(2) Mit der Eintragung ist die Gesellschaft verpflichtet, als Namenszusatz die Bezeichnungen „eingetragene Gesellschaft bürgerlichen Rechts“ oder „eGbR“ zu führen. Wenn in einer eingetragenen Gesellschaft keine natürliche Person als Gesellschafter haftet, muss der Name eine Bezeichnung enthalten, welche die Haftungsbeschränkung kennzeichnet.
+
+(3) Die Eintragung bewirkt, dass § 15 des Handelsgesetzbuchs mit der Maßgabe entsprechend anzuwenden ist, dass das Fehlen der Kaufmannseigenschaft nicht an der Publizität des Gesellschaftsregisters teilnimmt. Die Eintragung lässt die Pflicht, die Gesellschaft zur Eintragung in das Handelsregister anzumelden (§ 106 Absatz 1 des Handelsgesetzbuchs), unberührt.
+
+(4) Nach Eintragung der Gesellschaft findet die Löschung der Gesellschaft nur nach den allgemeinen Vorschriften statt.
+
+# § 707b – Entsprechend anwendbare Vorschriften des Handelsgesetzbuchs
+
+Folgende Vorschriften des Handelsgesetzbuchs sind auf eingetragene Gesellschaften entsprechend anzuwenden:
+
+1. auf die Auswahl und den Schutz des Namens der Gesellschaft: die §§ 18, 21 bis 24, 30 und 37,
+
+2. auf die registerrechtliche Behandlung der Gesellschaft und die Führung des Gesellschaftsregisters: die §§ 8, 8a Absatz 1, § 9 Absatz 1 Satz 1 und Absatz 3 bis 6, die §§ 10 bis 12, 13h, 14, 16 und 32 und
+
+3. auf die registerrechtliche Behandlung der Zweigniederlassung einer Gesellschaft: die §§ 13 und 13d mit der Maßgabe, dass eine Verpflichtung zur Anmeldung der Zweigniederlassung nicht besteht.
+
+# § 707c – Statuswechsel
+
+(1) Die Anmeldung zur Eintragung einer bereits in einem Register eingetragenen Gesellschaft unter einer anderen Rechtsform einer rechtsfähigen Personengesellschaft in ein anderes Register (Statuswechsel) kann nur bei dem Gericht erfolgen, das das Register führt, in dem die Gesellschaft eingetragen ist.
+
+(2) Wird ein Statuswechsel angemeldet, trägt das Gericht die Rechtsform ein, in der die Gesellschaft in dem anderen Register fortgesetzt wird (Statuswechselvermerk). Diese Eintragung ist mit dem Vermerk zu versehen, dass die Eintragung erst mit der Eintragung der Gesellschaft in dem anderen Register wirksam wird, sofern die Eintragungen in den beteiligten Registern nicht am selben Tag erfolgen. Sodann gibt das Gericht das Verfahren von Amts wegen an das für die Führung des anderen Registers zuständige Gericht ab. Nach Vollzug des Statuswechsels trägt das Gericht den Tag ein, an dem die Gesellschaft in dem anderen Register eingetragen worden ist. Ist die Eintragung der Gesellschaft in dem anderen Register rechtskräftig abgelehnt worden oder wird die Anmeldung zurückgenommen, wird der Statuswechselvermerk von Amts wegen gelöscht.
+
+(3) Das Gericht soll eine Gesellschaft, die bereits im Handels- oder im Partnerschaftsregister eingetragen ist, in das Gesellschaftsregister nur eintragen, wenn
+
+1. der Statuswechsel zu dem anderen Register angemeldet wurde,
+
+2. der Statuswechselvermerk in das andere Register eingetragen wurde und
+
+3. das für die Führung des anderen Registers zuständige Gericht das Verfahren an das für die Führung des Gesellschaftsregisters zuständige Gericht abgegeben hat.
+
+§ 707 Absatz 2 bleibt unberührt.
+
+(4) Die Eintragung der Gesellschaft hat die Angabe des für die Führung des Handels- oder des Partnerschaftsregisters zuständigen Gerichts, die Firma oder den Namen und die Registernummer, unter der die Gesellschaft bislang eingetragen ist, zu enthalten. Das Gericht teilt dem Gericht, das das Verfahren abgegeben hat, von Amts wegen den Tag der Eintragung der Gesellschaft in das Gesellschaftsregister und die neue Registernummer mit. Die Ablehnung der Eintragung teilt das Gericht ebenfalls von Amts wegen dem Gericht, das das Verfahren abgegeben hat, mit, sobald die Entscheidung rechtskräftig geworden ist.
+
+(5) Wird ein Gesellschafter Kommanditist, ist für die Begrenzung seiner Haftung für die zum Zeitpunkt seiner Eintragung im Handelsregister begründeten Verbindlichkeiten § 728b entsprechend anzuwenden. Dies gilt auch, wenn er in der Gesellschaft oder einem ihr als Gesellschafter angehörenden Unternehmen geschäftsführend tätig wird. Seine Haftung als Kommanditist bleibt unberührt.
 
 # § 707d – Verordnungsermächtigung
 
-(1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die elektronische Führung des Gesellschaftsregisters, die elektronische Anmeldung, die elektronische Einreichung von Dokumenten sowie deren Aufbewahrung zu treffen, soweit nicht durch das Bundesministerium der Justiz und für Verbraucherschutz nach § 387 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende Vorschriften erlassen werden. Dabei können sie auch Einzelheiten der Datenübermittlung regeln sowie die Form zu übermittelnder elektronischer Dokumente festlegen, um die Eignung für die Bearbeitung durch das Gericht sicherzustellen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+(1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die elektronische Führung des Gesellschaftsregisters, die elektronische Anmeldung, die elektronische Einreichung von Dokumenten sowie deren Aufbewahrung zu treffen, soweit nicht durch das Bundesministerium der Justiz nach § 387 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende Vorschriften erlassen werden. Dabei können sie auch Einzelheiten der Datenübermittlung regeln sowie die Form zu übermittelnder elektronischer Dokumente festlegen, um die Eignung für die Bearbeitung durch das Gericht sicherzustellen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 (2) Die Landesjustizverwaltungen bestimmen das elektronische Informations- und Kommunikationssystem, über das die Daten aus den Gesellschaftsregistern abrufbar sind, und sind für die Abwicklung des elektronischen Abrufverfahrens zuständig. Die Landesregierung kann die Zuständigkeit durch Rechtsverordnung abweichend regeln; sie kann diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen. Die Länder können ein länderübergreifendes, zentrales elektronisches Informations- und Kommunikationssystem bestimmen. Sie können auch eine Übertragung der Abwicklungsaufgaben auf die zuständige Stelle eines anderen Landes sowie mit dem Betreiber des Unternehmensregisters eine Übertragung der Abwicklungsaufgaben auf das Unternehmensregister vereinbaren.
 
-# § 708 – Haftung der Gesellschafter
+# § 708 – Gestaltungsfreiheit
 
-Ein Gesellschafter hat bei der Erfüllung der ihm obliegenden Verpflichtungen nur für diejenige Sorgfalt einzustehen, welche er in eigenen Angelegenheiten anzuwenden pflegt.
+Von den Vorschriften dieses Kapitels kann durch den Gesellschaftsvertrag abgewichen werden, soweit im Gesetz nichts anderes bestimmt ist.
 
-# § 709 – Gemeinschaftliche Geschäftsführung
+(+++ § 708: Zur Anwendung vgl. § 740 +++)
 
-(1) Die Führung der Geschäfte der Gesellschaft steht den Gesellschaftern gemeinschaftlich zu; für jedes Geschäft ist die Zustimmung aller Gesellschafter erforderlich.
+# § 709 – Beiträge; Stimmkraft; Anteil an Gewinn und Verlust
 
-(2) Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, so ist die Mehrheit im Zweifel nach der Zahl der Gesellschafter zu berechnen.
+(1) Der Beitrag eines Gesellschafters kann in jeder Förderung des gemeinsamen Zwecks, auch in der Leistung von Diensten, bestehen.
 
-# § 710 – Übertragung der Geschäftsführung
+(2) Im Zweifel sind die Gesellschafter zu gleichen Beiträgen verpflichtet.
 
-Ist in dem Gesellschaftsvertrag die Führung der Geschäfte einem Gesellschafter oder mehreren Gesellschaftern übertragen, so sind die übrigen Gesellschafter von der Geschäftsführung ausgeschlossen. Ist die Geschäftsführung mehreren Gesellschaftern übertragen, so findet die Vorschrift des § 709 entsprechende Anwendung.
+(3) Die Stimmkraft und der Anteil an Gewinn und Verlust richten sich vorrangig nach den vereinbarten Beteiligungsverhältnissen. Sind keine Beteiligungsverhältnisse vereinbart worden, richten sie sich nach dem Verhältnis der vereinbarten Werte der Beiträge. Sind auch Werte der Beiträge nicht vereinbart worden, hat jeder Gesellschafter ohne Rücksicht auf den Wert seines Beitrags die gleiche Stimmkraft und einen gleichen Anteil am Gewinn und Verlust.
 
-# § 711 – Widerspruchsrecht
+(+++ § 709: Zur Anwendung vgl. § 740 +++)
 
-Steht nach dem Gesellschaftsvertrag die Führung der Geschäfte allen oder mehreren Gesellschaftern in der Art zu, dass jeder allein zu handeln berechtigt ist, so kann jeder der Vornahme eines Geschäfts durch den anderen widersprechen. Im Falle des Widerspruchs muss das Geschäft unterbleiben.
+# § 710 – Mehrbelastungsverbot
 
-# § 712 – Entziehung und Kündigung der Geschäftsführung
+Zur Erhöhung seines Beitrags kann ein Gesellschafter nicht ohne seine Zustimmung verpflichtet werden. Die §§ 728a und 737 bleiben unberührt.
 
-(1) Die einem Gesellschafter durch den Gesellschaftsvertrag übertragene Befugnis zur Geschäftsführung kann ihm durch einstimmigen Beschluss oder, falls nach dem Gesellschaftsvertrag die Mehrheit der Stimmen entscheidet, durch Mehrheitsbeschluss der übrigen Gesellschafter entzogen werden, wenn ein wichtiger Grund vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsmäßigen Geschäftsführung.
+(+++ § 710: Zur Anwendung vgl. § 740 +++)
 
-(2) Der Gesellschafter kann auch seinerseits die Geschäftsführung kündigen, wenn ein wichtiger Grund vorliegt; die für den Auftrag geltende Vorschrift des § 671 Abs. 2, 3 findet entsprechende Anwendung.
+# § 711 – Übertragung und Übergang von Gesellschaftsanteilen
 
-# § 713 – Rechte und Pflichten der geschäftsführenden Gesellschafter
+(1) Die Übertragung eines Gesellschaftsanteils bedarf der Zustimmung der anderen Gesellschafter. Die Gesellschaft kann eigene Anteile nicht erwerben.
 
-Die Rechte und Verpflichtungen der geschäftsführenden Gesellschafter bestimmen sich nach den für den Auftrag geltenden Vorschriften der §§ 664 bis 670, soweit sich nicht aus dem Gesellschaftsverhältnis ein anderes ergibt.
+(2) Ist im Gesellschaftsvertrag vereinbart, dass im Fall des Todes eines Gesellschafters die Gesellschaft mit seinem Erben fortgesetzt werden soll, geht der Anteil auf den Erben über. Sind mehrere Erben vorhanden, fällt der Gesellschaftsanteil kraft Gesetzes jedem Erben entsprechend der Erbquote zu. Die Vorschriften über die Erbengemeinschaft finden insoweit keine Anwendung.
 
-# § 714 – Vertretungsmacht
+(+++ § 711: Zur Anwendung vgl. § 740 +++)
 
-Soweit einem Gesellschafter nach dem Gesellschaftsvertrag die Befugnis zur Geschäftsführung zusteht, ist er im Zweifel auch ermächtigt, die anderen Gesellschafter Dritten gegenüber zu vertreten.
+# § 711a – Übertragbarkeit von Gesellschafterrechten
 
-# § 715 – Entziehung der Vertretungsmacht
+Die Rechte der Gesellschafter aus dem Gesellschaftsverhältnis sind nicht übertragbar. Hiervon ausgenommen sind Ansprüche, die einem Gesellschafter aus seiner Geschäftsbesorgung für die Gesellschaft zustehen, soweit deren Befriedigung außerhalb der Liquidation verlangt werden kann, sowie Ansprüche eines Gesellschafters auf einen Gewinnanteil oder auf dasjenige, was ihm im Fall der Liquidation zukommt.
 
-Ist im Gesellschaftsvertrag ein Gesellschafter ermächtigt, die anderen Gesellschafter Dritten gegenüber zu vertreten, so kann die Vertretungsmacht nur nach Maßgabe des § 712 Abs. 1 und, wenn sie in Verbindung mit der Befugnis zur Geschäftsführung erteilt worden ist, nur mit dieser entzogen werden.
+(+++ § 711a: Zur Anwendung vgl. § 740 +++)
 
-# § 716 – Kontrollrecht der Gesellschafter
+# § 712 – Ausscheiden eines Gesellschafters; Eintritt eines neuen Gesellschafters
 
-(1) Ein Gesellschafter kann, auch wenn er von der Geschäftsführung ausgeschlossen ist, sich von den Angelegenheiten der Gesellschaft persönlich unterrichten, die Geschäftsbücher und die Papiere der Gesellschaft einsehen und sich aus ihnen eine Übersicht über den Stand des Gesellschaftsvermögens anfertigen.
+(1) Scheidet ein Gesellschafter aus der Gesellschaft aus, so wächst sein Anteil an der Gesellschaft den übrigen Gesellschaftern im Zweifel im Verhältnis ihrer Anteile zu.
 
-(2) Eine dieses Recht ausschließende oder beschränkende Vereinbarung steht der Geltendmachung des Rechts nicht entgegen, wenn Grund zu der Annahme unredlicher Geschäftsführung besteht.
+(2) Tritt ein neuer Gesellschafter in die Gesellschaft ein, so mindern sich die Anteile der anderen Gesellschafter an der Gesellschaft im Zweifel im Umfang des dem neuen Gesellschafter zuwachsenden Anteils und in dem Verhältnis ihrer bisherigen Anteile.
 
-# § 717 – Nichtübertragbarkeit der Gesellschafterrechte
+(+++ § 712: Zur Anwendung vgl. § 740 +++)
 
-Die Ansprüche, die den Gesellschaftern aus dem Gesellschaftsverhältnis gegeneinander zustehen, sind nicht übertragbar. Ausgenommen sind die einem Gesellschafter aus seiner Geschäftsführung zustehenden Ansprüche, soweit deren Befriedigung vor der Auseinandersetzung verlangt werden kann, sowie die Ansprüche auf einen Gewinnanteil oder auf dasjenige, was dem Gesellschafter bei der Auseinandersetzung zukommt.
+# § 712a – Ausscheiden des vorletzten Gesellschafters
 
-# § 718 – Gesellschaftsvermögen
+(1) Verbleibt nur noch ein Gesellschafter, so erlischt die Gesellschaft ohne Liquidation. Das Gesellschaftsvermögen geht zum Zeitpunkt des Ausscheidens des vorletzten Gesellschafters im Wege der Gesamtrechtsnachfolge auf den verbleibenden Gesellschafter über.
 
-(1) Die Beiträge der Gesellschafter und die durch die Geschäftsführung für die Gesellschaft erworbenen Gegenstände werden gemeinschaftliches Vermögen der Gesellschafter (Gesellschaftsvermögen).
+(2) In Bezug auf die Rechte und Pflichten des vorletzten Gesellschafters sind anlässlich seines Ausscheidens die §§ 728 bis 728b entsprechend anzuwenden.
 
-(2) Zu dem Gesellschaftsvermögen gehört auch, was auf Grund eines zu dem Gesellschaftsvermögen gehörenden Rechts oder als Ersatz für die Zerstörung, Beschädigung oder Entziehung eines zu dem Gesellschaftsvermögen gehörenden Gegenstands erworben wird.
+# § 713 – Gesellschaftsvermögen
 
-# § 719 – Gesamthänderische Bindung
+Die Beiträge der Gesellschafter sowie die für oder durch die Gesellschaft erworbenen Rechte und die gegen sie begründeten Verbindlichkeiten sind Vermögen der Gesellschaft.
 
-(1) Ein Gesellschafter kann nicht über seinen Anteil an dem Gesellschaftsvermögen und an den einzelnen dazu gehörenden Gegenständen verfügen; er ist nicht berechtigt, Teilung zu verlangen.
+# § 714 – Beschlussfassung
 
-(2) Gegen eine Forderung, die zum Gesellschaftsvermögen gehört, kann der Schuldner nicht eine ihm gegen einen einzelnen Gesellschafter zustehende Forderung aufrechnen.
+Gesellschafterbeschlüsse bedürfen der Zustimmung aller stimmberechtigten Gesellschafter.
 
-# § 720 – Schutz des gutgläubigen Schuldners
+(+++ § 714: Zur Anwendung vgl. § 740 +++)
 
-Die Zugehörigkeit einer nach § 718 Abs. 1 erworbenen Forderung zum Gesellschaftsvermögen hat der Schuldner erst dann gegen sich gelten zu lassen, wenn er von der Zugehörigkeit Kenntnis erlangt; die Vorschriften der §§ 406 bis 408 finden entsprechende Anwendung.
+# § 715 – Geschäftsführungsbefugnis
 
-# § 721 – Gewinn- und Verlustverteilung
+(1) Zur Führung der Geschäfte der Gesellschaft sind alle Gesellschafter berechtigt und verpflichtet.
 
-(1) Ein Gesellschafter kann den Rechnungsabschluss und die Verteilung des Gewinns und Verlustes erst nach der Auflösung der Gesellschaft verlangen.
+(2) Die Befugnis zur Geschäftsführung erstreckt sich auf alle Geschäfte, die die Teilnahme der Gesellschaft am Rechtsverkehr gewöhnlich mit sich bringt. Zur Vornahme von Geschäften, die darüber hinausgehen, ist ein Beschluss aller Gesellschafter erforderlich.
 
-(2) Ist die Gesellschaft von längerer Dauer, so hat der Rechnungsabschluss und die Gewinnverteilung im Zweifel am Schluss jedes Geschäftsjahrs zu erfolgen.
+(3) Die Geschäftsführung steht allen Gesellschaftern in der Art zu, dass sie nur gemeinsam zu handeln berechtigt sind, es sei denn, dass mit dem Aufschub eines Geschäfts Gefahr für die Gesellschaft oder das Gesellschaftsvermögen verbunden ist. Dies gilt im Zweifel entsprechend, wenn nach dem Gesellschaftsvertrag die Geschäftsführung mehreren Gesellschaftern zusteht.
 
-# § 722 – Anteile am Gewinn und Verlust
+(4) Steht nach dem Gesellschaftsvertrag die Geschäftsführung allen oder mehreren Gesellschaftern in der Art zu, dass jeder allein zu handeln berechtigt ist, kann jeder andere geschäftsführungsbefugte Gesellschafter der Vornahme des Geschäfts widersprechen. Im Fall des Widerspruchs muss das Geschäft unterbleiben.
 
-(1) Sind die Anteile der Gesellschafter am Gewinn und Verlust nicht bestimmt, so hat jeder Gesellschafter ohne Rücksicht auf die Art und die Größe seines Beitrags einen gleichen Anteil am Gewinn und Verlust.
+(5) Die Befugnis zur Geschäftsführung kann einem Gesellschafter durch Beschluss der anderen Gesellschafter ganz oder teilweise entzogen werden, wenn ein wichtiger Grund vorliegt. Ein wichtiger Grund ist insbesondere eine grobe Pflichtverletzung des Gesellschafters oder die Unfähigkeit des Gesellschafters zur ordnungsgemäßen Geschäftsführung.
 
-(2) Ist nur der Anteil am Gewinn oder am Verlust bestimmt, so gilt die Bestimmung im Zweifel für Gewinn und Verlust.
+(6) Der Gesellschafter kann seinerseits die Geschäftsführung ganz oder teilweise kündigen, wenn ein wichtiger Grund vorliegt. § 671 Absatz 2 und 3 ist entsprechend anzuwenden.
 
-# § 723 – Kündigung durch Gesellschafter
+(+++ § 715: Zur Anwendung vgl. § 740 +++)
 
-(1) Ist die Gesellschaft nicht für eine bestimmte Zeit eingegangen, so kann jeder Gesellschafter sie jederzeit kündigen. Ist eine Zeitdauer bestimmt, so ist die Kündigung vor dem Ablauf der Zeit zulässig, wenn ein wichtiger Grund vorliegt. Ein wichtiger Grund liegt insbesondere vor,
+# § 715a – Notgeschäftsführungsbefugnis
 
-1. wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder aus grober Fahrlässigkeit verletzt hat oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird,
+Sind alle geschäftsführungsbefugten Gesellschafter verhindert, nach Maßgabe von § 715 Absatz 3 bei einem Geschäft mitzuwirken, kann jeder Gesellschafter das Geschäft vornehmen, wenn mit dem Aufschub Gefahr für die Gesellschaft oder das Gesellschaftsvermögen verbunden ist. Eine Vereinbarung im Gesellschaftsvertrag, welche dieses Recht ausschließt, ist unwirksam.
 
-2. wenn der Gesellschafter das 18. Lebensjahr vollendet hat.
+(+++ § 715a: Zur Anwendung vgl. § 740 +++)
 
-Der volljährig Gewordene kann die Kündigung nach Nummer 2 nur binnen drei Monaten von dem Zeitpunkt an erklären, in welchem er von seiner Gesellschafterstellung Kenntnis hatte oder haben musste. Das Kündigungsrecht besteht nicht, wenn der Gesellschafter bezüglich des Gegenstands der Gesellschaft zum selbständigen Betrieb eines Erwerbsgeschäfts gemäß § 112 ermächtigt war oder der Zweck der Gesellschaft allein der Befriedigung seiner persönlichen Bedürfnisse diente. Unter den gleichen Voraussetzungen ist, wenn eine Kündigungsfrist bestimmt ist, die Kündigung ohne Einhaltung der Frist zulässig.
+# § 715b – Gesellschafterklage
 
-(2) Die Kündigung darf nicht zur Unzeit geschehen, es sei denn, dass ein wichtiger Grund für die unzeitige Kündigung vorliegt. Kündigt ein Gesellschafter ohne solchen Grund zur Unzeit, so hat er den übrigen Gesellschaftern den daraus entstehenden Schaden zu ersetzen.
+(1) Jeder Gesellschafter ist befugt, einen auf dem Gesellschaftsverhältnis beruhenden Anspruch der Gesellschaft gegen einen anderen Gesellschafter im eigenen Namen gerichtlich geltend zu machen, wenn der dazu berufene geschäftsführungsbefugte Gesellschafter dies pflichtwidrig unterlässt. Die Befugnis nach Satz 1 erstreckt sich auch auf einen Anspruch der Gesellschaft gegen einen Dritten, wenn dieser an dem pflichtwidrigen Unterlassen mitwirkte oder es kannte.
 
-(3) Eine Vereinbarung, durch welche das Kündigungsrecht ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig.
+(2) Eine Vereinbarung im Gesellschaftsvertrag, welche das Klagerecht ausschließt oder dieser Vorschrift zuwider beschränkt, ist unwirksam.
+
+(3) Der klagende Gesellschafter hat die Gesellschaft unverzüglich über die Erhebung der Klage und die Lage des Rechtsstreits zu unterrichten. Ferner hat er das Gericht über die erfolgte Unterrichtung in Kenntnis zu setzen. Das Gericht hat auf eine unverzügliche Unterrichtung der Gesellschaft hinzuwirken.
+
+(4) Soweit über den Anspruch durch rechtskräftiges Urteil entschieden worden ist, wirkt die Entscheidung für und gegen die Gesellschaft.
+
+# § 716 – Ersatz von Aufwendungen und Verlusten; Vorschusspflicht; Herausgabepflicht; Verzinsungspflicht
+
+(1) Macht ein Gesellschafter zum Zwecke der Geschäftsbesorgung für die Gesellschaft Aufwendungen, die er den Umständen nach für erforderlich halten darf, oder erleidet er unmittelbar infolge der Geschäftsbesorgung Verluste, ist ihm die Gesellschaft zum Ersatz verpflichtet.
+
+(2) Für die erforderlichen Aufwendungen hat die Gesellschaft dem Gesellschafter auf dessen Verlangen Vorschuss zu leisten.
+
+(3) Der Gesellschafter ist verpflichtet, der Gesellschaft dasjenige, was er selbst aus der Geschäftsbesorgung erlangt, herauszugeben.
+
+(4) Verwendet der Gesellschafter Geld für sich, das er der Gesellschaft nach Absatz 3 herauszugeben hat, ist er verpflichtet, es von der Zeit der Verwendung an zu verzinsen. Satz 1 gilt entsprechend für die Verzinsung des Anspruchs des Gesellschafters auf ersatzfähige Aufwendungen oder Verluste.
+
+(+++ § 716: Zur Anwendung vgl. § 740 +++)
+
+# § 717 – Informationsrechte und -pflichten
+
+(1) Jeder Gesellschafter hat gegenüber der Gesellschaft das Recht, die Unterlagen der Gesellschaft einzusehen und sich aus ihnen Auszüge anzufertigen. Ergänzend kann er von der Gesellschaft Auskunft über die Gesellschaftsangelegenheiten verlangen. Eine Vereinbarung im Gesellschaftsvertrag, welche diese Rechte ausschließt oder dieser Vorschrift zuwider beschränkt, steht ihrer Geltendmachung nicht entgegen, soweit dies zur Wahrnehmung eigener Mitgliedschaftsrechte erforderlich ist, insbesondere, wenn Grund zur Annahme unredlicher Geschäftsführung besteht.
+
+(2) Die geschäftsführungsbefugten Gesellschafter haben der Gesellschaft von sich aus die erforderlichen Nachrichten zu geben, auf Verlangen über die Gesellschaftsangelegenheiten Auskunft zu erteilen und nach Beendigung der Geschäftsführertätigkeit Rechenschaft abzulegen. Eine Vereinbarung im Gesellschaftsvertrag, welche diese Verpflichtungen ausschließt, ist unwirksam.
+
+(+++ § 717 Abs. 1: Zur Anwendung vgl. § 740 +++)
+
+# § 718 – Rechnungsabschluss und Gewinnverteilung
+
+Der Rechnungsabschluss und die Gewinnverteilung haben im Zweifel zum Schluss jedes Kalenderjahrs zu erfolgen.
+
+(+++ § 718: Zur Anwendung vgl. § 740 +++)
+
+# § 719 – Entstehung der Gesellschaft im Verhältnis zu Dritten
+
+(1) Im Verhältnis zu Dritten entsteht die Gesellschaft, sobald sie mit Zustimmung sämtlicher Gesellschafter am Rechtsverkehr teilnimmt, spätestens aber mit ihrer Eintragung im Gesellschaftsregister.
+
+(2) Eine Vereinbarung, dass die Gesellschaft erst zu einem späteren Zeitpunkt entstehen soll, ist Dritten gegenüber unwirksam.
+
+# § 720 – Vertretung der Gesellschaft
+
+(1) Zur Vertretung der Gesellschaft sind alle Gesellschafter gemeinsam befugt, es sei denn, der Gesellschaftsvertrag bestimmt etwas anderes.
+
+(2) Die zur Gesamtvertretung nach Absatz 1 befugten Gesellschafter können einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen.
+
+(3) Die Vertretungsbefugnis der Gesellschafter erstreckt sich auf alle Geschäfte der Gesellschaft. Eine Beschränkung des Umfangs der Vertretungsbefugnis ist Dritten gegenüber unwirksam. Dies gilt insbesondere für die Beschränkung, dass sich die Vertretung nur auf bestimmte Geschäfte oder Arten von Geschäften erstreckt oder dass sie nur unter gewissen Umständen oder für eine gewisse Zeit oder an einzelnen Orten stattfinden soll.
+
+(4) Die Vertretungsbefugnis kann einem Gesellschafter in entsprechender Anwendung von § 715 Absatz 5 ganz oder teilweise entzogen werden.
+
+(5) Ist der Gesellschaft gegenüber eine Willenserklärung abzugeben, genügt die Abgabe gegenüber einem vertretungsbefugten Gesellschafter.
+
+# § 721 – Persönliche Haftung der Gesellschafter
+
+Die Gesellschafter haften für die Verbindlichkeiten der Gesellschaft den Gläubigern als Gesamtschuldner persönlich. Eine entgegenstehende Vereinbarung ist Dritten gegenüber unwirksam.
+
+# § 721a – Haftung des eintretenden Gesellschafters
+
+Wer in eine bestehende Gesellschaft eintritt, haftet gleich den anderen Gesellschaftern nach Maßgabe der §§ 721 und 721b für die vor seinem Eintritt begründeten Verbindlichkeiten der Gesellschaft. Eine entgegenstehende Vereinbarung ist Dritten gegenüber unwirksam.
+
+# § 721b – Einwendungen und Einreden des Gesellschafters
+
+(1) Wird ein Gesellschafter wegen einer Verbindlichkeit der Gesellschaft in Anspruch genommen, kann er Einwendungen und Einreden, die nicht in seiner Person begründet sind, insoweit geltend machen, als sie von der Gesellschaft erhoben werden können.
+
+(2) Der Gesellschafter kann die Befriedigung des Gläubigers verweigern, solange der Gesellschaft in Ansehung der Verbindlichkeit das Recht zur Anfechtung oder Aufrechnung oder ein anderes Gestaltungsrecht, dessen Ausübung die Gesellschaft ihrerseits zur Leistungsverweigerung berechtigen würde, zusteht.
+
+# § 722 – Zwangsvollstreckung gegen die Gesellschaft oder gegen ihre Gesellschafter
+
+(1) Zur Zwangsvollstreckung in das Vermögen der Gesellschaft ist ein gegen die Gesellschaft gerichteter Vollstreckungstitel erforderlich.
+
+(2) Aus einem gegen die Gesellschaft gerichteten Vollstreckungstitel findet die Zwangsvollstreckung gegen die Gesellschafter nicht statt.
+
+# § 723 – Gründe für das Ausscheiden; Zeitpunkt des Ausscheidens
+
+(1) Folgende Gründe führen zum Ausscheiden eines Gesellschafters aus der Gesellschaft, sofern der Gesellschaftsvertrag für diese Fälle nicht die Auflösung der Gesellschaft vorsieht:
+
+1. Tod des Gesellschafters;
+
+2. Kündigung der Mitgliedschaft durch den Gesellschafter;
+
+3. Eröffnung des Insolvenzverfahrens über das Vermögen des Gesellschafters;
+
+4. Kündigung der Mitgliedschaft durch einen Privatgläubiger des Gesellschafters;
+
+5. Ausschließung des Gesellschafters aus wichtigem Grund.
+
+(2) Im Gesellschaftsvertrag können weitere Gründe für das Ausscheiden eines Gesellschafters vereinbart werden.
+
+(3) Der Gesellschafter scheidet mit Eintritt des ihn betreffenden Ausscheidensgrundes aus, im Fall der Kündigung der Mitgliedschaft aber nicht vor Ablauf der Kündigungsfrist und im Fall der Ausschließung aus wichtigem Grund nicht vor Mitteilung des betreffenden Beschlusses an den auszuschließenden Gesellschafter.
 
 (+++ § 723: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
 
-# § 724 – Kündigung bei Gesellschaft auf Lebenszeit oder fortgesetzter Gesellschaft
+# § 724 – Fortsetzung mit dem Erben; Ausscheiden des Erben
 
-Ist eine Gesellschaft für die Lebenszeit eines Gesellschafters eingegangen, so kann sie in gleicher Weise gekündigt werden wie eine für unbestimmte Zeit eingegangene Gesellschaft. Dasselbe gilt, wenn eine Gesellschaft nach dem Ablauf der bestimmten Zeit stillschweigend fortgesetzt wird.
+(1) Geht der Anteil eines verstorbenen Gesellschafters auf seine Erben über und erfüllt die Gesellschaft die Voraussetzungen nach § 107 Absatz 1 des Handelsgesetzbuchs, um in das Handelsregister eingetragen zu werden, so kann jeder Erbe gegenüber den anderen Gesellschaftern antragen, dass ihm die Stellung eines Kommanditisten eingeräumt und der auf ihn entfallende Anteil des Erblassers als seine Kommanditeinlage anerkannt wird.
+
+(2) Nehmen die anderen Gesellschafter einen Antrag nach Absatz 1 nicht an oder ist eine Fortführung der Gesellschaft als Kommanditgesellschaft nicht möglich, ist der Erbe befugt, seine Mitgliedschaft in der Gesellschaft ohne Einhaltung einer Kündigungsfrist zu kündigen.
+
+(3) Die Rechte nach den Absätzen 1 bis 2 können von dem Erben nur innerhalb von drei Monaten nach dem Zeitpunkt, zu dem er von dem Anfall der Erbschaft Kenntnis erlangt hat, geltend gemacht werden. Auf den Lauf der Frist ist § 210 entsprechend anzuwenden. Ist bei Ablauf der drei Monate das Recht zur Ausschlagung der Erbschaft noch nicht verloren, endet die Frist nicht vor dem Ablauf der Ausschlagungsfrist.
+
+(4) Scheidet innerhalb der Frist des Absatzes 3 der Erbe aus der Gesellschaft aus oder wird innerhalb der Frist die Gesellschaft aufgelöst oder dem Erben die Stellung eines Kommanditisten eingeräumt, so haftet er für die bis dahin entstandenen Gesellschaftsverbindlichkeiten nur nach Maßgabe der Vorschriften, welche die Haftung des Erben für die Nachlassverbindlichkeiten betreffen.
 
 (+++ § 724: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
 
-# § 725 – Kündigung durch Pfändungspfandgläubiger
+# § 725 – Kündigung der Mitgliedschaft durch den Gesellschafter
 
-(1) Hat ein Gläubiger eines Gesellschafters die Pfändung des Anteils des Gesellschafters an dem Gesellschaftsvermögen erwirkt, so kann er die Gesellschaft ohne Einhaltung einer Kündigungsfrist kündigen, sofern der Schuldtitel nicht bloß vorläufig vollstreckbar ist.
+(1) Ist das Gesellschaftsverhältnis auf unbestimmte Zeit eingegangen, kann ein Gesellschafter seine Mitgliedschaft unter Einhaltung einer Frist von drei Monaten zum Ablauf des Kalenderjahres gegenüber der Gesellschaft kündigen, es sei denn, aus dem Gesellschaftsvertrag oder aus dem Zweck der Gesellschaft ergibt sich etwas anderes.
 
-(2) Solange die Gesellschaft besteht, kann der Gläubiger die sich aus dem Gesellschaftsverhältnis ergebenden Rechte des Gesellschafters, mit Ausnahme des Anspruchs auf einen Gewinnanteil, nicht geltend machen.
+(2) Ist für das Gesellschaftsverhältnis eine Zeitdauer vereinbart, ist die Kündigung der Mitgliedschaft durch einen Gesellschafter vor dem Ablauf dieser Zeit zulässig, wenn ein wichtiger Grund vorliegt. Ein wichtiger Grund liegt insbesondere vor, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder grob fahrlässig verletzt hat oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
 
-(+++ § 725: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+(3) Liegt ein wichtiger Grund im Sinne von Absatz 2 Satz 2 vor, so ist eine Kündigung der Mitgliedschaft durch einen Gesellschafter stets ohne Einhaltung einer Kündigungsfrist zulässig.
 
-# § 726 – Auflösung wegen Erreichens oder Unmöglichwerdens des Zweckes
+(4) Ein Gesellschafter kann seine Mitgliedschaft auch kündigen, wenn er volljährig geworden ist. Das Kündigungsrecht besteht nicht, wenn der Gesellschafter bezüglich des Gegenstands der Gesellschaft zum selbständigen Betrieb eines Erwerbsgeschäfts gemäß § 112 ermächtigt war oder der Zweck der Gesellschaft allein der Befriedigung seiner persönlichen Bedürfnisse diente. Der volljährig Gewordene kann die Kündigung nur binnen drei Monaten von dem Zeitpunkt an erklären, in welchem er von seiner Gesellschafterstellung Kenntnis hatte oder haben musste.
 
-Die Gesellschaft endigt, wenn der vereinbarte Zweck erreicht oder dessen Erreichung unmöglich geworden ist.
+(5) Die Kündigung darf nicht zur Unzeit geschehen, es sei denn, dass ein wichtiger Grund für die unzeitige Kündigung vorliegt. Kündigt ein Gesellschafter seine Mitgliedschaft ohne solchen Grund zur Unzeit, hat er der Gesellschaft den daraus entstehenden Schaden zu ersetzen.
 
-# § 727 – Auflösung durch Tod eines Gesellschafters
+(6) Eine Vereinbarung im Gesellschaftsvertrag, welche das Kündigungsrecht nach den Absätzen 2 und 4 ausschließt oder diesen Vorschriften zuwider beschränkt, ist unwirksam.
 
-(1) Die Gesellschaft wird durch den Tod eines der Gesellschafter aufgelöst, sofern nicht aus dem Gesellschaftsvertrag sich ein anderes ergibt.
+(+++ § 725: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)  
+(+++ § 725: Zur Anwendung vgl. § 740a +++)
 
-(2) Im Falle der Auflösung hat der Erbe des verstorbenen Gesellschafters den übrigen Gesellschaftern den Tod unverzüglich anzuzeigen und, wenn mit dem Aufschub Gefahr verbunden ist, die seinem Erblasser durch den Gesellschaftsvertrag übertragenen Geschäfte fortzuführen, bis die übrigen Gesellschafter in Gemeinschaft mit ihm anderweit Fürsorge treffen können. Die übrigen Gesellschafter sind in gleicher Weise zur einstweiligen Fortführung der ihnen übertragenen Geschäfte verpflichtet. Die Gesellschaft gilt insoweit als fortbestehend.
+# § 726 – Kündigung der Mitgliedschaft durch einen Privatgläubiger des Gesellschafters
 
-(+++ § 727: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+Hat ein Privatgläubiger eines Gesellschafters, nachdem innerhalb der letzten sechs Monate eine Zwangsvollstreckung in das bewegliche Vermögen des Gesellschafters ohne Erfolg versucht wurde, aufgrund eines nicht bloß vorläufig vollstreckbaren Schuldtitels die Pfändung des Anteils des Gesellschafters an der Gesellschaft erwirkt, kann er dessen Mitgliedschaft gegenüber der Gesellschaft unter Einhaltung einer Frist von drei Monaten zum Ablauf des Kalenderjahrs kündigen.
 
-# § 728 – Auflösung durch Insolvenz der Gesellschaft oder eines Gesellschafters
+(+++ § 726: Zur Anwendung vgl. § 740a +++)
 
-(1) Die Gesellschaft wird durch die Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft aufgelöst. Wird das Verfahren auf Antrag des Schuldners eingestellt oder nach der Bestätigung eines Insolvenzplans, der den Fortbestand der Gesellschaft vorsieht, aufgehoben, so können die Gesellschafter die Fortsetzung der Gesellschaft beschließen.
+# § 727 – Ausschließung aus wichtigem Grund
 
-(2) Die Gesellschaft wird durch die Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters aufgelöst. Die Vorschrift des § 727 Abs. 2 Satz 2, 3 findet Anwendung.
+Tritt in der Person eines Gesellschafters ein wichtiger Grund ein, kann er durch Beschluss der anderen Gesellschafter aus der Gesellschaft ausgeschlossen werden. Ein wichtiger Grund liegt insbesondere vor, wenn der Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder grob fahrlässig verletzt hat oder wenn ihm die Erfüllung einer solchen Verpflichtung unmöglich wird. Dem Beschluss steht nicht entgegen, dass nach der Ausschließung nur ein Gesellschafter verbleibt.
 
-(+++ § 728: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+(+++ § 727: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)  
+(+++ § 727: Zur Anwendung vgl. § 740c +++)
 
-# § 729 – Fortdauer der Geschäftsführungsbefugnis
+# § 728 – Ansprüche des ausgeschiedenen Gesellschafters
 
-Wird die Gesellschaft aufgelöst, so gilt die Befugnis eines Gesellschafters zur Geschäftsführung zu seinen Gunsten gleichwohl als fortbestehend, bis er von der Auflösung Kenntnis erlangt oder die Auflösung kennen muss. Das Gleiche gilt bei Fortbestand der Gesellschaft für die Befugnis zur Geschäftsführung eines aus der Gesellschaft ausscheidenden Gesellschafters oder für ihren Verlust in sonstiger Weise.
+(1) Sofern im Gesellschaftsvertrag nichts anderes vereinbart ist, ist die Gesellschaft verpflichtet, den ausgeschiedenen Gesellschafter von der Haftung für die Verbindlichkeiten der Gesellschaft zu befreien und ihm eine dem Wert seines Anteils angemessene Abfindung zu zahlen. Sind Verbindlichkeiten der Gesellschaft noch nicht fällig, kann die Gesellschaft dem Ausgeschiedenen Sicherheit leisten, statt ihn von der Haftung nach § 721 zu befreien.
 
-# § 730 – Auseinandersetzung; Geschäftsführung
+(2) Der Wert des Gesellschaftsanteils ist, soweit erforderlich, im Wege der Schätzung zu ermitteln.
 
-(1) Nach der Auflösung der Gesellschaft findet in Ansehung des Gesellschaftsvermögens die Auseinandersetzung unter den Gesellschaftern statt, sofern nicht über das Vermögen der Gesellschaft das Insolvenzverfahren eröffnet ist.
+(+++ § 728: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)  
+(+++ § 728: Zur Anwendung vgl. §§ 712a, 740c +++)
 
-(2) Für die Beendigung der schwebenden Geschäfte, für die dazu erforderliche Eingehung neuer Geschäfte sowie für die Erhaltung und Verwaltung des Gesellschaftsvermögens gilt die Gesellschaft als fortbestehend, soweit der Zweck der Auseinandersetzung es erfordert. Die einem Gesellschafter nach dem Gesellschaftsvertrag zustehende Befugnis zur Geschäftsführung erlischt jedoch, wenn nicht aus dem Vertrag sich ein anderes ergibt, mit der Auflösung der Gesellschaft; die Geschäftsführung steht von der Auflösung an allen Gesellschaftern gemeinschaftlich zu.
+# § 728a – Haftung des ausgeschiedenen Gesellschafters für Fehlbetrag
 
-# § 731 – Verfahren bei Auseinandersetzung
+Reicht der Wert des Gesellschaftsvermögens zur Deckung der Verbindlichkeiten der Gesellschaft nicht aus, hat der ausgeschiedene Gesellschafter der Gesellschaft für den Fehlbetrag nach dem Verhältnis seines Anteils am Gewinn und Verlust aufzukommen.
 
-Die Auseinandersetzung erfolgt in Ermangelung einer anderen Vereinbarung in Gemäßheit der §§ 732 bis 735. Im Übrigen gelten für die Teilung die Vorschriften über die Gemeinschaft.
+(+++ § 728a: Zur Anwendung vgl. §§ 712a, 740c +++)
 
-# § 732 – Rückgabe von Gegenständen
+# § 728b – Nachhaftung des ausgeschiedenen Gesellschafters
 
-Gegenstände, die ein Gesellschafter der Gesellschaft zur Benutzung überlassen hat, sind ihm zurückzugeben. Für einen durch Zufall in Abgang gekommenen oder verschlechterten Gegenstand kann er nicht Ersatz verlangen.
+(1) Scheidet ein Gesellschafter aus der Gesellschaft aus, so haftet er für deren bis dahin begründete Verbindlichkeiten, wenn sie vor Ablauf von fünf Jahren nach seinem Ausscheiden fällig sind und
 
-# § 733 – Berichtigung der Gesellschaftsschulden; Erstattung der Einlagen
+1. daraus Ansprüche gegen ihn in einer in § 197 Absatz 1 Nummer 3 bis 5 bezeichneten Art festgestellt sind oder
 
-(1) Aus dem Gesellschaftsvermögen sind zunächst die gemeinschaftlichen Schulden mit Einschluss derjenigen zu berichtigen, welche den Gläubigern gegenüber unter den Gesellschaftern geteilt sind oder für welche einem Gesellschafter die übrigen Gesellschafter als Schuldner haften. Ist eine Schuld noch nicht fällig oder ist sie streitig, so ist das zur Berichtigung Erforderliche zurückzubehalten.
+2. eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts.
 
-(2) Aus dem nach der Berichtigung der Schulden übrig bleibenden Gesellschaftsvermögen sind die Einlagen zurückzuerstatten. Für Einlagen, die nicht in Geld bestanden haben, ist der Wert zu ersetzen, den sie zur Zeit der Einbringung gehabt haben. Für Einlagen, die in der Leistung von Diensten oder in der Überlassung der Benutzung eines Gegenstands bestanden haben, kann nicht Ersatz verlangt werden.
+Ist die Verbindlichkeit auf Schadensersatz gerichtet, haftet der ausgeschiedene Gesellschafter nach Satz 1 nur, wenn auch die zum Schadensersatz führende Verletzung vertraglicher oder gesetzlicher Pflichten vor dem Ausscheiden des Gesellschafters eingetreten ist. Die Frist beginnt, sobald der Gläubiger von dem Ausscheiden des Gesellschafters Kenntnis erlangt hat oder das Ausscheiden des Gesellschafters im Gesellschaftsregister eingetragen worden ist. Die §§ 204, 206, 210, 211 und 212 Absatz 2 und 3 sind entsprechend anzuwenden.
 
-(3) Zur Berichtigung der Schulden und zur Rückerstattung der Einlagen ist das Gesellschaftsvermögen, soweit erforderlich, in Geld umzusetzen.
+(2) Einer Feststellung in einer in § 197 Absatz 1 Nummer 3 bis 5 bezeichneten Art bedarf es nicht, soweit der Gesellschafter den Anspruch schriftlich anerkannt hat.
 
-# § 734 – Verteilung des Überschusses
+(+++ § 728b: Zur Anwendung vgl. § 712a +++)
 
-Verbleibt nach der Berichtigung der gemeinschaftlichen Schulden und der Rückerstattung der Einlagen ein Überschuss, so gebührt er den Gesellschaftern nach dem Verhältnis ihrer Anteile am Gewinn.
+# § 729 – Auflösungsgründe
 
-# § 735 – Nachschusspflicht bei Verlust
+(1) Die Gesellschaft wird aufgelöst durch:
 
-Reicht das Gesellschaftsvermögen zur Berichtigung der gemeinschaftlichen Schulden und zur Rückerstattung der Einlagen nicht aus, so haben die Gesellschafter für den Fehlbetrag nach dem Verhältnis aufzukommen, nach welchem sie den Verlust zu tragen haben. Kann von einem Gesellschafter der auf ihn entfallende Beitrag nicht erlangt werden, so haben die übrigen Gesellschafter den Ausfall nach dem gleichen Verhältnis zu tragen.
+1. Ablauf der Zeit, für welche sie eingegangen wurde;
 
-# § 736 – Ausscheiden eines Gesellschafters, Nachhaftung
+2. Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft;
 
-(1) Ist im Gesellschaftsvertrag bestimmt, dass, wenn ein Gesellschafter kündigt oder stirbt oder wenn das Insolvenzverfahren über sein Vermögen eröffnet wird, die Gesellschaft unter den übrigen Gesellschaftern fortbestehen soll, so scheidet bei dem Eintritt eines solchen Ereignisses der Gesellschafter, in dessen Person es eintritt, aus der Gesellschaft aus.
+3. Kündigung der Gesellschaft;
 
-(2) Die für Personenhandelsgesellschaften geltenden Regelungen über die Begrenzung der Nachhaftung gelten sinngemäß.
+4. Auflösungsbeschluss.
 
-# § 737 – Ausschluss eines Gesellschafters
+(2) Die Gesellschaft wird ferner aufgelöst, wenn der Zweck, zu dem sie errichtet wurde, erreicht oder seine Erreichung unmöglich geworden ist.
 
-Ist im Gesellschaftsvertrag bestimmt, dass, wenn ein Gesellschafter kündigt, die Gesellschaft unter den übrigen Gesellschaftern fortbestehen soll, so kann ein Gesellschafter, in dessen Person ein die übrigen Gesellschafter nach § 723 Abs. 1 Satz 2 zur Kündigung berechtigender Umstand eintritt, aus der Gesellschaft ausgeschlossen werden. Das Ausschließungsrecht steht den übrigen Gesellschaftern gemeinschaftlich zu. Die Ausschließung erfolgt durch Erklärung gegenüber dem auszuschließenden Gesellschafter.
+(3) Eine Gesellschaft, bei der kein persönlich haftender Gesellschafter eine natürliche Person ist, wird ferner aufgelöst:
 
-# § 738 – Auseinandersetzung beim Ausscheiden
+1. mit der Rechtskraft des Beschlusses, durch den die Eröffnung des Insolvenzverfahrens mangels Masse abgelehnt worden ist;
 
-(1) Scheidet ein Gesellschafter aus der Gesellschaft aus, so wächst sein Anteil am Gesellschaftsvermögen den übrigen Gesellschaftern zu. Diese sind verpflichtet, dem Ausscheidenden die Gegenstände, die er der Gesellschaft zur Benutzung überlassen hat, nach Maßgabe des § 732 zurückzugeben, ihn von den gemeinschaftlichen Schulden zu befreien und ihm dasjenige zu zahlen, was er bei der Auseinandersetzung erhalten würde, wenn die Gesellschaft zur Zeit seines Ausscheidens aufgelöst worden wäre. Sind gemeinschaftliche Schulden noch nicht fällig, so können die übrigen Gesellschafter dem Ausscheidenden, statt ihn zu befreien, Sicherheit leisten.
+2. durch die Löschung wegen Vermögenslosigkeit nach § 394 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
-(2) Der Wert des Gesellschaftsvermögens ist, soweit erforderlich, im Wege der Schätzung zu ermitteln.
+Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere rechtsfähige Personengesellschaft gehört, bei der mindestens ein persönlich haftender Gesellschafter eine natürliche Person ist.
 
-# § 739 – Haftung für Fehlbetrag
+(4) Im Gesellschaftsvertrag können weitere Auflösungsgründe vereinbart werden.
 
-Reicht der Wert des Gesellschaftsvermögens zur Deckung der gemeinschaftlichen Schulden und der Einlagen nicht aus, so hat der Ausscheidende den übrigen Gesellschaftern für den Fehlbetrag nach dem Verhältnis seines Anteils am Verlust aufzukommen.
+# § 730 – Auflösung bei Tod oder Insolvenz eines Gesellschafters
 
-# § 740 – Beteiligung am Ergebnis schwebender Geschäfte
+(1) Ist im Gesellschaftsvertrag vereinbart, dass die Gesellschaft durch den Tod eines Gesellschafters aufgelöst wird, hat der Erbe des verstorbenen Gesellschafters den anderen Gesellschaftern dessen Tod unverzüglich anzuzeigen. Wenn mit dem Aufschub Gefahr für die Gesellschaft oder das Gesellschaftsvermögen verbunden ist, hat der Erbe außerdem die laufenden Geschäfte fortzuführen, bis die anderen Gesellschafter in Gemeinschaft mit ihm anderweitig Fürsorge treffen können. Abweichend von § 736b Absatz 1 gilt für die einstweilige Fortführung der laufenden Geschäfte die dem Erblasser durch den Gesellschaftsvertrag übertragene Geschäftsführungs- und Vertretungsbefugnis als fortbestehend. Die anderen Gesellschafter sind in gleicher Weise zur einstweiligen Fortführung der laufenden Geschäfte berechtigt und verpflichtet.
 
-(1) Der Ausgeschiedene nimmt an dem Gewinn und dem Verlust teil, welcher sich aus den zur Zeit seines Ausscheidens schwebenden Geschäften ergibt. Die übrigen Gesellschafter sind berechtigt, diese Geschäfte so zu beendigen, wie es ihnen am vorteilhaftesten erscheint.
+(2) Absatz 1 Satz 4 gilt entsprechend, wenn im Gesellschaftsvertrag vereinbart ist, dass die Gesellschaft durch die Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters aufgelöst wird.
 
-(2) Der Ausgeschiedene kann am Schluss jedes Geschäftsjahrs Rechenschaft über die inzwischen beendigten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen.
+(+++ § 730: Zur Anwendung vgl. § 740a +++)
+
+# § 731 – Kündigung der Gesellschaft
+
+(1) Ein Gesellschafter kann die Gesellschaft jederzeit aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist kündigen, wenn ihm die Fortsetzung der Gesellschaft nicht zuzumuten ist. Ein wichtiger Grund liegt insbesondere vor, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder grob fahrlässig verletzt hat oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
+
+(2) Eine Vereinbarung im Gesellschaftsvertrag, welche das Kündigungsrecht ausschließt oder dieser Vorschrift zuwider beschränkt, ist unwirksam.
+
+# § 732 – Auflösungsbeschluss
+
+Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss ein Beschluss, der die Auflösung der Gesellschaft zum Gegenstand hat, mit einer Mehrheit von mindestens drei Viertel der abgegebenen Stimmen gefasst werden.
+
+(+++ § 732: Zur Anwendung vgl. § 740a +++)
+
+# § 733 – Anmeldung der Auflösung
+
+(1) Ist die Gesellschaft im Gesellschaftsregister eingetragen, ist ihre Auflösung von sämtlichen Gesellschaftern zur Eintragung in das Gesellschaftsregister anzumelden. Dies gilt nicht in den Fällen der Eröffnung oder der Ablehnung der Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft (§ 729 Absatz 1 Nummer 2 und Absatz 3 Satz 1 Nummer 1); dann hat das Gericht die Auflösung und ihren Grund von Amts wegen einzutragen. Im Fall der Löschung der Gesellschaft (§ 729 Absatz 3 Satz 1 Nummer 2) entfällt die Eintragung der Auflösung.
+
+(2) Ist aufgrund einer Vereinbarung im Gesellschaftsvertrag die Gesellschaft durch den Tod eines Gesellschafters aufgelöst, kann die Anmeldung der Auflösung der Gesellschaft ohne Mitwirkung der Erben erfolgen, sofern einer solchen Mitwirkung besondere Hindernisse entgegenstehen.
+
+# § 734 – Fortsetzung der Gesellschaft
+
+(1) Die Gesellschafter können nach Auflösung der Gesellschaft deren Fortsetzung beschließen, sobald der Auflösungsgrund beseitigt ist.
+
+(2) Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss der Beschluss über die Fortsetzung der Gesellschaft mit einer Mehrheit von mindestens drei Viertel der abgegebenen Stimmen gefasst werden.
+
+(3) War die Gesellschaft vor ihrer Auflösung im Gesellschaftsregister eingetragen, ist die Fortsetzung von sämtlichen Gesellschaftern zur Eintragung in das Gesellschaftsregister anzumelden.
+
+(+++ § 734 Abs. 1 u. 2: Zur Anwendung vgl. § 740a +++)
+
+# § 735 – Notwendigkeit der Liquidation; anwendbare Vorschriften
+
+(1) Nach Auflösung der Gesellschaft findet die Liquidation statt, sofern nicht über das Vermögen der Gesellschaft das Insolvenzverfahren eröffnet ist. Ist die Gesellschaft durch Löschung wegen Vermögenslosigkeit aufgelöst, findet eine Liquidation nur statt, wenn sich nach der Löschung herausstellt, dass noch Vermögen vorhanden ist, das der Verteilung unterliegt.
+
+(2) Die Gesellschafter können anstelle der Liquidation eine andere Art der Abwicklung vereinbaren. Ist aufgrund einer Vereinbarung im Gesellschaftsvertrag die Gesellschaft durch die Kündigung eines Privatgläubigers eines Gesellschafters oder durch die Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters aufgelöst, bedarf eine Vereinbarung über eine andere Art der Abwicklung der Zustimmung des Privatgläubigers oder des Insolvenzverwalters. Ist im Insolvenzverfahren Eigenverwaltung angeordnet, tritt an die Stelle der Zustimmung des Insolvenzverwalters die Zustimmung des Schuldners.
+
+(3) Die Liquidation erfolgt nach den folgenden Vorschriften dieses Kapitels, sofern sich nicht aus dem Gesellschaftsvertrag etwas anderes ergibt.
+
+# § 736 – Liquidatoren
+
+(1) Zur Liquidation sind alle Gesellschafter berufen.
+
+(2) Ist über das Vermögen eines Gesellschafters das Insolvenzverfahren eröffnet und ein Insolvenzverwalter bestellt worden, tritt dieser an die Stelle des Gesellschafters.
+
+(3) Mehrere Erben eines Gesellschafters haben einen gemeinsamen Vertreter zu bestellen.
+
+(4) Durch Vereinbarung im Gesellschaftsvertrag oder durch Beschluss der Gesellschafter können auch einzelne Gesellschafter oder andere Personen zu Liquidatoren berufen werden. Das Recht, einen solchen Liquidator nach § 736a Absatz 1 Satz 1 zu berufen, bleibt unberührt.
+
+(5) Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, gilt dies im Zweifel nicht für die Berufung und Abberufung eines Liquidators.
+
+# § 736a – Gerichtliche Berufung und Abberufung von Liquidatoren
+
+(1) Ist die Gesellschaft im Gesellschaftsregister eingetragen, kann auf Antrag eines Beteiligten ein Liquidator aus wichtigem Grund durch das Gericht, in dessen Bezirk die Gesellschaft ihren Sitz hat, berufen und abberufen werden. Eine Vereinbarung im Gesellschaftsvertrag, welche dieses Recht ausschließt, ist unwirksam.
+
+(2) Beteiligte sind:
+
+1. jeder Gesellschafter (§ 736 Absatz 1),
+
+2. der Insolvenzverwalter über das Vermögen des Gesellschafters (§ 736 Absatz 2),
+
+3. der gemeinsame Vertreter (§ 736 Absatz 3) und
+
+4. der Privatgläubiger des Gesellschafters, durch den die zur Auflösung der Gesellschaft führende Kündigung erfolgt ist (§ 735 Absatz 2 Satz 2).
+
+(3) Gehört der Liquidator nicht zu den Gesellschaftern, hat er Anspruch auf Ersatz der erforderlichen Aufwendungen und auf Vergütung für seine Tätigkeit. Einigen sich der Liquidator und die Gesellschaft hierüber nicht, setzt das Gericht die Aufwendungen und die Vergütung fest. Gegen die Entscheidung ist die Beschwerde zulässig; die Rechtsbeschwerde ist ausgeschlossen. Aus der rechtskräftigen Entscheidung findet die Zwangsvollstreckung nach der Zivilprozessordnung statt.
+
+# § 736b – Geschäftsführungs- und Vertretungsbefugnis der Liquidatoren
+
+(1) Mit der Auflösung der Gesellschaft erlischt die einem Gesellschafter im Gesellschaftsvertrag übertragene Befugnis zur Geschäftsführung und Vertretung. Diese Befugnis steht von der Auflösung an allen Liquidatoren gemeinsam zu.
+
+(2) Die bisherige Befugnis eines Gesellschafters zur Geschäftsführung und, sofern die Gesellschaft nicht im Gesellschaftsregister eingetragen ist, zur Vertretung gilt gleichwohl zu seinen Gunsten als fortbestehend, bis er von der Auflösung der Gesellschaft Kenntnis erlangt hat oder die Auflösung kennen muss.
+
+# § 736c – Anmeldung der Liquidatoren
+
+(1) Ist die Gesellschaft im Gesellschaftsregister eingetragen, sind die Liquidatoren und ihre Vertretungsbefugnis von sämtlichen Gesellschaftern zur Eintragung in das Gesellschaftsregister anzumelden. Das Gleiche gilt für jede Änderung in der Person des Liquidators oder seiner Vertretungsbefugnis. Wenn im Fall des Todes eines Gesellschafters anzunehmen ist, dass die Anmeldung den Tatsachen entspricht, kann die Eintragung erfolgen, auch ohne dass die Erben bei der Anmeldung mitwirken, sofern einer solchen Mitwirkung besondere Hindernisse entgegenstehen.
+
+(2) Die Eintragung gerichtlich berufener Liquidatoren sowie die Eintragung der gerichtlichen Abberufung von Liquidatoren geschieht von Amts wegen.
+
+# § 736d – Rechtstellung der Liquidatoren
+
+(1) Die Liquidatoren haben, auch wenn sie vom Gericht berufen sind, den Weisungen Folge zu leisten, welche die Beteiligten in Bezug auf die Geschäftsführung beschließen. Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, bedarf der Beschluss der Zustimmung der Beteiligten nach § 736a Absatz 2 Nummer 2 und 4.
+
+(2) Die Liquidatoren haben die laufenden Geschäfte zu beendigen, die Forderungen der Gesellschaft einzuziehen und das übrige Vermögen in Geld umzusetzen. Zur Beendigung der laufenden Geschäfte können die Liquidatoren auch neue Geschäfte eingehen.
+
+(3) Ist die Gesellschaft im Gesellschaftsregister eingetragen, haben die Liquidatoren bei Abgabe ihrer Unterschrift dem Namen der Gesellschaft einen Liquidationszusatz beizufügen.
+
+(4) Aus dem Vermögen der Gesellschaft sind zunächst die Gläubiger der Gesellschaft zu befriedigen. Ist eine Verbindlichkeit noch nicht fällig oder ist sie streitig, ist das zur Berichtigung der Verbindlichkeit Erforderliche zurückzubehalten.
+
+(5) Aus dem nach der Berichtigung der Verbindlichkeiten verbleibenden Gesellschaftsvermögen sind die geleisteten Beiträge zurückzuerstatten. Für Beiträge, die nicht in Geld bestanden haben, ist der Wert zu ersetzen, den sie zur Zeit der Einbringung gehabt haben. Für Beiträge, die in der Leistung von Diensten oder in der Überlassung der Benutzung eines Gegenstands bestanden haben, kann im Zweifel kein Ersatz verlangt werden.
+
+(6) Das nach Berichtigung der Verbindlichkeiten und Rückerstattung der Beiträge verbleibende Vermögen der Gesellschaft ist unter den Gesellschaftern nach dem Verhältnis ihrer Anteile am Gewinn und Verlust zu verteilen.
+
+(+++ § 736d Abs. 2, 4, 5 u. 6: Zur Anwendung vgl. § 740b +++)
+
+# § 737 – Haftung der Gesellschafter für Fehlbetrag
+
+Reicht das Gesellschaftsvermögen zur Berichtigung der Verbindlichkeiten und zur Rückerstattung der Beiträge nicht aus, haben die Gesellschafter der Gesellschaft für den Fehlbetrag nach dem Verhältnis ihrer Anteile am Gewinn und Verlust aufzukommen. Kann von einem Gesellschafter der auf ihn entfallende Betrag nicht erlangt werden, haben die anderen Gesellschafter den Ausfall nach dem gleichen Verhältnis zu tragen.
+
+(+++ § 737: Zur Anwendung vgl. § 740b +++)
+
+# § 738 – Anmeldung des Erlöschens
+
+Ist die Gesellschaft im Gesellschaftsregister eingetragen, ist das Erlöschen der Gesellschaft von sämtlichen Liquidatoren zur Eintragung in das Gesellschaftsregister anzumelden, sobald die Liquidation beendigt ist.
+
+# § 739 – Verjährung von Ansprüchen aus der Gesellschafterhaftung
+
+(1) Ist die Gesellschaft durch Liquidation oder auf andere Weise erloschen, verjähren Ansprüche gegen einen Gesellschafter aus Verbindlichkeiten der Gesellschaft in fünf Jahren, sofern nicht der Anspruch gegen die Gesellschaft einer kürzeren Verjährung unterliegt.
+
+(2) Die Verjährung beginnt abweichend von § 199 Absatz 1, sobald der Gläubiger von dem Erlöschen der Gesellschaft Kenntnis erlangt hat oder das Erlöschen der Gesellschaft im Gesellschaftsregister eingetragen worden ist.
+
+(3) Beginnt die Verjährung des Anspruchs gegen die Gesellschaft neu oder wird die Verjährung des Anspruchs gegenüber der Gesellschaft nach den §§ 203, 204, 205 oder 206 gehemmt, wirkt dies auch gegenüber den Gesellschaftern, die der Gesellschaft zur Zeit des Erlöschens angehört haben.
+
+# § 740 – Fehlende Vermögensfähigkeit; anwendbare Vorschriften
+
+(1) Eine nicht rechtsfähige Gesellschaft hat kein Vermögen.
+
+(2) Auf das Rechtsverhältnis der Gesellschafter untereinander sind die §§ 708, 709, 710, 711, 711a, 712, die §§ 714, 715, 715a, 716, 717 Absatz 1 sowie § 718 entsprechend anzuwenden.
+
+# § 740a – Beendigung der Gesellschaft
+
+(1) Die nicht rechtsfähige Gesellschaft endet durch:
+
+1. Ablauf der Zeit, für welche sie eingegangen wurde;
+
+2. Auflösungsbeschluss;
+
+3. Tod eines Gesellschafters;
+
+4. Kündigung der Gesellschaft durch einen Gesellschafter;
+
+5. Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters;
+
+6. Kündigung der Gesellschaft durch einen Privatgläubiger eines Gesellschafters.
+
+(2) Die Gesellschaft endet ferner, wenn der vereinbarte Zweck erreicht oder seine Erreichung unmöglich geworden ist.
+
+(3) Auf die Beendigung der Gesellschaft sind die §§ 725, 726, 730, 732 und 734 Absatz 1 und 2 entsprechend anzuwenden.
+
+# § 740b – Auseinandersetzung
+
+(1) Nach der Beendigung der nicht rechtsfähigen Gesellschaft findet die Auseinandersetzung unter den Gesellschaftern statt.
+
+(2) Auf die Auseinandersetzung sind § 736d Absatz 2, 4, 5 und 6 und § 737 entsprechend anzuwenden.
+
+# § 740c – Ausscheiden eines Gesellschafters
+
+(1) Ist im Gesellschaftsvertrag vereinbart, dass abweichend von den in § 740a Absatz 1 Nummer 3 bis 6 genannten Beendigungsgründen die Gesellschaft fortbestehen soll, so tritt mangels abweichender Vereinbarung an die Stelle der Beendigung der Gesellschaft das Ausscheiden des Gesellschafters, in dessen Person der Ausscheidensgrund eintritt.
+
+(2) Auf das Ausscheiden eines Gesellschafters sind die §§ 727, 728 und 728a entsprechend anzuwenden.
 
 # § 741 – Gemeinschaft nach Bruchteilen
 
@@ -9085,10 +9404,6 @@ Die in den §§ 894 bis 896 bestimmten Ansprüche unterliegen nicht der Verjähr
 (1) In den Fällen des § 894 kann ein Widerspruch gegen die Richtigkeit des Grundbuchs eingetragen werden.
 
 (2) Die Eintragung erfolgt auf Grund einer einstweiligen Verfügung oder auf Grund einer Bewilligung desjenigen, dessen Recht durch die Berichtigung des Grundbuchs betroffen wird. Zur Erlassung der einstweiligen Verfügung ist nicht erforderlich, dass eine Gefährdung des Rechts des Widersprechenden glaubhaft gemacht wird.
-
-# § 899a – Maßgaben für die Gesellschaft bürgerlichen Rechts
-
-Ist eine Gesellschaft bürgerlichen Rechts im Grundbuch eingetragen, so wird in Ansehung des eingetragenen Rechts auch vermutet, dass diejenigen Personen Gesellschafter sind, die nach § 47 Absatz 2 Satz 1 der Grundbuchordnung im Grundbuch eingetragen sind, und dass darüber hinaus keine weiteren Gesellschafter vorhanden sind. Die §§ 892 bis 899 gelten bezüglich der Eintragung der Gesellschafter entsprechend.
 
 # § 900 – Buchersitzung
 

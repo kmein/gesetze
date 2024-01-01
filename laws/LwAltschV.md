@@ -7,13 +7,15 @@ Auf Grund des § 9 Abs. 4 des Landwirtschafts-Altschuldengesetzes vom 25. Juni 2
 
 # § 1 – Angemessenheit der Vergütungen
 
-(1) Die Angemessenheit der nach § 2 Abs. 5 des Landwirtschafts-Altschuldengesetzes absetzbaren Vergütungen, die ein Gesellschafter einer Personengesellschaft erhält, wird nach den Absätzen 2 bis 4 bestimmt.
+(1) Die Angemessenheit der nach § 2 Abs. 5 des Landwirtschafts-Altschuldengesetzes absetzbaren Vergütungen, die ein Gesellschafter einer rechtsfähigen Personengesellschaft erhält, wird nach den Absätzen 2 bis 4 bestimmt.
 
 (2) Vergütungen zugunsten eines Gesellschafters für seine Tätigkeit im Dienst der Gesellschaft gelten als angemessen, soweit sie dem tarifvertraglich festgelegten Lohn entsprechen. Vergütungen für nicht tarifvertraglich geregelte Tätigkeiten gelten als angemessen, wenn die Bruttojahresvergütung (einschließlich der Sonderzuwendungen, ohne Arbeitgeberanteile zur Sozialversicherung) 40.000 Euro nicht überschreitet. Höhere Vergütungen können als angemessen gelten, wenn die Gewinnsituation des Unternehmens dies rechtfertigt.
 
 (3) Stellt ein Gesellschafter seiner Gesellschaft ein Darlehen zur Verfügung, dürfen höchstens marktübliche Zinsen angesetzt werden.
 
 (4) Überlässt ein Gesellschafter der Gesellschaft Wirtschaftsgüter, dürfen höchstens die Vergütungen angesetzt werden, die auch voneinander unabhängige Dritte unter gleichen Umständen miteinander vereinbart hätten. Bei Überlassung von Grundstücken ist höchstens die ortsübliche Pacht anzusetzen.
+
+§ 1 Abs. 1 Satz 1 Kursivdruck: Die grammatikalische Schreibung des Wortes "rechtsfähige" wurde in "rechtsfähigen" korrigiert
 
 # § 2 – Vorzulegende Unterlagen
 

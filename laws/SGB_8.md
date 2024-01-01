@@ -67,6 +67,10 @@ Verhältnis zu anderen Leistungen und Verpflichtungen
 
 Beratung
 
+§ 10b
+
+Verfahrenslotse
+
  
 
  
@@ -1001,7 +1005,7 @@ Einschränkung eines Grundrechts
 
 § 107
 
-(zukünftig in Kraft)
+Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 
 § 108
 
@@ -1217,6 +1221,8 @@ In den Ländern wird sichergestellt, dass sich junge Menschen und ihre Familien 
 
 (4) Die Leistungen nach diesem Buch gehen Leistungen nach dem Neunten und Zwölften Buch vor. Abweichend von Satz 1 gehen Leistungen nach § 27a Absatz 1 in Verbindung mit § 34 Absatz 6 des Zwölften Buches und Leistungen der Eingliederungshilfe nach dem Neunten Buch für junge Menschen, die körperlich oder geistig behindert oder von einer solchen Behinderung bedroht sind, den Leistungen nach diesem Buch vor. Landesrecht kann regeln, dass Leistungen der Frühförderung für Kinder unabhängig von der Art der Behinderung vorrangig von anderen Leistungsträgern gewährt werden.
 
+(5) Soweit Leistungen zum Lebensunterhalt nach § 39 erbracht werden, gehen sie den Leistungen zum Lebensunterhalt nach § 93 des Vierzehnten Buches vor.
+
 # § 10a – Beratung
 
 (1) Zur Wahrnehmung ihrer Rechte nach diesem Buch werden junge Menschen, Mütter, Väter, Personensorge- und Erziehungsberechtigte, die leistungsberechtigt sind oder Leistungen nach § 2 Absatz 2 erhalten sollen, in einer für sie verständlichen, nachvollziehbaren und wahrnehmbaren Form, auf ihren Wunsch auch im Beisein einer Person ihres Vertrauens, beraten.
@@ -1240,6 +1246,12 @@ In den Ländern wird sichergestellt, dass sich junge Menschen und ihre Familien 
 Soweit erforderlich, gehört zur Beratung auch Hilfe bei der Antragstellung, bei der Klärung weiterer zuständiger Leistungsträger, bei der Inanspruchnahme von Leistungen sowie bei der Erfüllung von Mitwirkungspflichten.
 
 (3) Bei minderjährigen Leistungsberechtigten nach § 99 des Neunten Buches nimmt der Träger der öffentlichen Jugendhilfe mit Zustimmung des Personensorgeberechtigten am Gesamtplanverfahren nach § 117 Absatz 6 des Neunten Buches beratend teil.
+
+# § 10b – Verfahrenslotse
+
+(1) Junge Menschen, die Leistungen der Eingliederungshilfe wegen einer Behinderung oder wegen einer drohenden Behinderung geltend machen oder bei denen solche Leistungsansprüche in Betracht kommen, sowie ihre Mütter, Väter, Personensorge- und Erziehungsberechtigten haben bei der Antragstellung, Verfolgung und Wahrnehmung dieser Leistungen Anspruch auf Unterstützung und Begleitung durch einen Verfahrenslotsen. Der Verfahrenslotse soll die Leistungsberechtigten bei der Verwirklichung von Ansprüchen auf Leistungen der Eingliederungshilfe unabhängig unterstützen sowie auf die Inanspruchnahme von Rechten hinwirken. Diese Leistung wird durch den örtlichen Träger der öffentlichen Jugendhilfe erbracht.
+
+(2) Der Verfahrenslotse unterstützt den örtlichen Träger der öffentlichen Jugendhilfe bei der Zusammenführung der Leistungen der Eingliederungshilfe für junge Menschen in dessen Zuständigkeit. Hierzu berichtet er gegenüber dem örtlichen Träger der öffentlichen Jugendhilfe halbjährlich insbesondere über Erfahrungen der strukturellen Zusammenarbeit mit anderen Stellen und öffentlichen Einrichtungen, insbesondere mit anderen Rehabilitationsträgern.
 
 # § 11 – Jugendarbeit
 
@@ -2583,7 +2595,7 @@ weiterzuentwickeln, anzuwenden und regelmäßig zu überprüfen. Dazu zählen au
 
 Die Träger der öffentlichen Jugendhilfe haben mit anderen Stellen und öffentlichen Einrichtungen, deren Tätigkeit sich auf die Lebenssituation junger Menschen und ihrer Familien auswirkt, insbesondere mit
 
-1. den Trägern von Sozialleistungen nach dem Zweiten, Dritten, Vierten, Fünften, Sechsten und dem Zwölften Buch sowie Trägern von Leistungen nach dem Bundesversorgungsgesetz,
+1. den Trägern von Sozialleistungen nach dem Zweiten, Dritten, Vierten, Fünften, Sechsten, Zwölften und Vierzehnten Buch,
 
 2. Rehabilitationsträger nach § 6 Absatz 1 Nummer 7 des Neunten Buches,
 
@@ -2943,7 +2955,7 @@ d) auf der Grundlage von § 27 in stationärer Form,
 
 # § 93 – Berechnung des Einkommens
 
-(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Grundrente nach oder entsprechend dem Bundesversorgungsgesetz sowie der Renten und Beihilfen, die nach dem Bundesentschädigungsgesetz für einen Schaden an Leben sowie an Körper und Gesundheit gewährt werden bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz. Eine Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen; dies gilt nicht für
+(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Leistungen nach diesem Buch, der Leistungen nach dem Vierzehnten Buch und der Leistungen nach Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen, und der Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit bis zur Höhe der vergleichbaren Leistungen nach dem Vierzehnten Buch. Eine Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen; dies gilt nicht für
 
 1. monatliche Leistungen nach § 56 des Dritten Buches bis zu einer Höhe des in § 61 Absatz 2 Satz 1 und § 62 Absatz 3 Satz 1 des Dritten Buches für sonstige Bedürfnisse genannten Betrages und
 
@@ -3421,7 +3433,9 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 Durch § 42 Absatz 5 und § 42a Absatz 1 Satz 2 wird das Grundrecht auf Freiheit der Person (Artikel 2 Absatz 2 Satz 3 des Grundgesetzes) eingeschränkt.
 
-# § 107 – (zukünftig in Kraft)
+# § 107 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 81 Nummer 1 und des § 93 Absatz 1 Satz 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 # § 108 – Übergangsregelung
 

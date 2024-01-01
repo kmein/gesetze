@@ -75,7 +75,7 @@ Fahrzeugzusammenstellungen
 
 20. „gekuppelte Fahrzeuge“ eine Zusammenstellung von längsseits starr gekuppelten Fahrzeugen, von denen sich keines vor dem Fahrzeug mit Maschinenantrieb befindet, das die Zusammenstellung fortbewegt;
 
-21. „Schleppverband“ eine Zusammenstellung von einem oder mehreren Fahrzeugen, schwimmenden Anlagen oder Schwimmkörpern, die von einem oder mehreren zum Verband gehörigen Fahrzeugen mit Maschinenantrieb geschleppt wird;
+21. „Schleppverband“ eine Zusammenstellung von einem oder mehreren Fahrzeugen, schwimmenden Anlagen oder Schwimm körpern, die von einem oder mehreren zum Verband gehörigen Fahrzeugen mit Maschinenantrieb geschleppt wird;
 
 22. „Großverband“ ein Schubverband, bei dem das Produkt aus Gesamtlänge und Gesamtbreite der geschobenen Fahrzeuge 7 000 m
 
@@ -155,7 +155,7 @@ Andere Begriffe
 
 55. „Flüssigerdgas (LNG)“ Erdgas, das durch Abkühlung auf eine Temperatur von –161 °C verflüssigt wurde;
 
-56. „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe, Ausgabe 2021/1<span id="FnR.BJNR0690Q0023BJNE000300000_2"></span><a href="#BJNR0690Q0023BJNE000300000_2" class="FnR">2</a></sup> . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen;
+56. „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2023/1<span id="FnR.BJNR0690Q0023BJNE000300000_2"></span><a href="#BJNR0690Q0023BJNE000300000_2" class="FnR">2</a></sup> . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen;
 
 57. „ES-QIN“ der Europäische Standard für Qualifikationen in der Binnenschifffahrt, Ausgabe 2019/1<span id="FnR.BJNR0690Q0023BJNE000300000_3"></span><a href="#BJNR0690Q0023BJNE000300000_3" class="FnR">3</a></sup> ;
 
@@ -323,8 +323,6 @@ a) die Ausbildungsziele, Lerninhalte, Methoden, eingesetzten Medien, Verfahren, 
 b) die Programme zur Beurteilung der jeweiligen Befähigungen werden von qualifizierten Personen durchgeführt, die über fundierte Kenntnisse des Ausbildungsprogramms verfügen;
 
 c) die Prüfungen werden von qualifizierten Prüfern durchgeführt, die nicht von Interessenkonflikten betroffen sind.
-
-Die für die Zulassung des Ausbildungsprogramms vorzulegenden Dokumente werden in einer Dienstanweisung an die zuständigen Behörden festgelegt.
 
 2. Für die Ausstellung der Befähigungszeugnisse erkennen die Rheinuferstaaten und Belgien alle Zeugnisse an, die nach dem Abschluss der nach Nummer 1 von anderen Staaten nach dieser Verordnung oder nach der Richtlinie (EU) 2017/2397 zugelassenen Ausbildungsprogramme vergeben wurden.
 
@@ -1971,8 +1969,27 @@ Für die Fahrt unterhalb der Spyck’schen Fähre (km 857,40) genügen, sofern d
 1. Schifferdienstbücher, die nach den bis zum Inkrafttreten dieser Verordnung geltenden Vorschriften ausgestellt worden sind oder weitergelten, bleiben nach Maßgabe der bisherigen Vorschriften bis zu ihrem Ablaufdatum, längstens bis zum 17. Januar 2032 gültig. Satz 1 gilt auch für von der ZKR als gleichwertig anerkannte Schifferdienstbücher.
 
 2. Der Inhaber eines Schifferdienstbuches nach Nummer 1 kann bis zum 17. Januar 2032 ein neues, nach dieser Verordnung ausgestelltes Schifferdienstbuch mit seiner jeweiligen Qualifikation beantragen. Die Ausstellung dieses Dokuments bemisst sich nach den Bestimmungen des § 5.01 dieser Verordnung.   
-Der Umtausch kann bei jeder zuständigen Behörde eines Mitgliedsstaates der ZKR erfolgen. Die zuständige Behörde stellt das Schifferdienstbuch nach dieser Verordnung aus, wenn der Antragssteller sein altes Schifferdienstbuch nach Nummer 1 und eine Kopie seines Ausweisdokumentes vorlegt. Hat der Antragssteller bereits das 60. Lebensjahr überschritten, hat er zudem den Nachweis seiner Tauglichkeit gemäß § 4.02 vorzulegen, der nicht älter als drei Monate sein darf.   
 Beantragt der Inhaber eine neue Qualifikation oder eine Ersatzausfertigung gemäß § 3.03 dieser Verordnung, stellt die zuständige Behörde ein neues Schifferdienstbuch gemäß ES-QIN aus (Teil V, Kapitel 2).
+
+3. Der Inhaber eines Schifferdienstbuches nach Nummer 1 kann bis zum 17. Januar 2032 ein neues Schifferdienstbuch mit einem Befähigungszeugnis, für dessen Erwerb die Anforderungen höher sind, beantragen, wenn die folgenden Bedingungen erfüllt sind:
+
+a) für ein Befähigungszeugnis für Matrosen: 540 Tage Fahrzeit, davon mindestens 180 Tage in der Binnenschifffahrt;
+
+b) für ein Befähigungszeugnis für Bootsmänner: 900 Tage Fahrzeit, davon mindestens 540 Tage in der Binnenschifffahrt;
+
+c) für ein Befähigungszeugnis für Steuerleute: 1080 Tage Fahrzeit, davon mindestens 720 Tage in der Binnenschifffahrt.
+
+Die Fahrerfahrung wird anhand eines Schifferdienstbuches, eines Bordbuches oder anderer Belege nachgewiesen.
+
+Die Mindestdauer der Fahrzeiten nach den Buchstaben a, b und c dieses Absatzes kann um höchstens 360 Tage Fahrzeit verkürzt werden, wenn der Bewerber
+
+–  
+Inhaber eines in Tabelle a des Anhangs 1 zur Dienstanweisung Nummer 1 aufgeführten anerkannten Zeugnisses ist oder
+
+–  
+ein in Tabelle b des Anhangs 1 zur Dienstanweisung Nummer 1 aufgeführtes Ausbildungsprogramm absolviert hat.
+
+4. Der Umtausch nach den Nummern 2 und 3 kann bei jeder zuständigen Behörde eines Mitgliedsstaates der ZKR erfolgen. Die zuständige Behörde stellt das Schifferdienstbuch nach dieser Verordnung aus, wenn der Antragssteller sein altes Schifferdienstbuch nach Nummer 1 und eine Kopie seines Ausweisdokumentes vorlegt. Hat der Antragssteller bereits das 60. Lebensjahr überschritten, hat er zudem den Nachweis seiner Tauglichkeit gemäß § 4.02 vorzulegen, der nicht älter als drei Monate sein darf.
 
 # § 20.02 – Gültigkeit der Bordbücher
 

@@ -29,32 +29,6 @@ Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten Stoff bestehen ode
 
 nicht angewandt werden dürfen.
 
-# § 3a – Besondere Abgabebedingungen
-
-Pflanzenschutzmittel, die aus einem in Anlage 4 aufgeführten Stoff bestehen oder einen solchen Stoff enthalten und deren Anwendung auf einer Freilandfläche vorgesehen ist, die nicht landwirtschaftlich, forstwirtschaftlich oder gärtnerisch genutzt wird, dürfen nur dann an einen anderen abgegeben werden, wenn dem Abgebenden zuvor eine dem anderen erteilte Genehmigung nach § 12 Absatz 2 des Pflanzenschutzgesetzes vorgelegt worden ist.
-
-# § 3b – Besondere Anwendungsbedingungen
-
-(1) Bei der Anwendung von Pflanzenschutzmitteln, die aus einem in Anlage 3 Abschnitt A Nummer 4 oder 5 aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, sind neben den mit der Zulassung des jeweiligen Pflanzenschutzmittels festgelegten Anwendungsbestimmungen und Nebenbestimmungen die in den Absätzen 2 bis 5 genannten Bedingungen einzuhalten.
-
-(2) Die Anwendung ist nur zulässig, wenn nach den Umständen des Einzelfalles vorbeugende Maßnahmen, wie die Wahl einer geeigneten Fruchtfolge, eines geeigneten Aussaatzeitpunktes oder mechanischer Maßnahmen im Bestand oder das Anlegen einer Pflugfurche, nicht durchgeführt werden können und andere technische Maßnahmen nicht geeignet oder zumutbar sind. Die Aufwandmenge, die Häufigkeit der Anwendung und die zu behandelnden Flächen sind auf das notwendige Maß zu beschränken.
-
-(3) Eine Anwendung zur Vorsaatbehandlung, ausgenommen im Rahmen eines Direktsaat- oder Mulchsaatverfahrens, oder nach der Ernte zur Stoppelbehandlung ist nur zulässig
-
-1. zur Bekämpfung perennierender Unkrautarten wie Ackerkratzdistel, Ackerwinde, Ampfer, Landwasserknöterich und Quecke auf den betroffenen Teilflächen, oder
-
-2. zur Unkrautbekämpfung, einschließlich der Beseitigung von Mulch- und Ausfallkulturen, auf Ackerflächen, die in eine Erosionsgefährdungsklasse nach § 6 Absatz 2 bis 4 der Agrarzahlungen-Verpflichtungenverordnung vom 17. Dezember 2014 (BAnz AT 23.12.2014 V1), die zuletzt durch Artikel 2 der Verordnung vom 22. September 2020 (BAnz AT 24.09.2020 V1) geändert worden ist, in der jeweils geltenden Fassung zugeordnet sind.
-
-(4) Eine flächige Anwendung auf Grünland ist nur zulässig
-
-1. zur Erneuerung des Grünlandes bei einer Verunkrautung, bei der auf Grund ihres Ausmaßes ohne die Anwendung die wirtschaftliche Nutzung des Grünlandes oder die Futtergewinnung wegen eines Risikos für die Tiergesundheit nicht möglich ist, oder
-
-2. zur Vorbereitung einer Neueinsaat auf Flächen, die in eine Erosionsgefährdungsklasse nach § 6 Absatz 2 bis 4 der Agrarzahlungen-Verpflichtungenverordnung zugeordnet sind oder auf denen eine wendende Bodenbearbeitung auf Grund anderer Vorschriften nicht erlaubt ist.
-
-Im Falle der Nummer 1 ist die Anwendung auf die betroffenen Teilflächen des Grünlandes zu beschränken.
-
-(5) Eine Spätanwendung vor der Ernte sowie die Anwendung in Wasserschutzgebieten, Heilquellenschutzgebieten und Kern- und Pflegezonen von Biosphärenreservaten ist nicht zulässig.
-
 # § 4 – Verbot der Anwendung in Gebieten mit Bedeutung für den Naturschutz
 
 (1) In Naturschutzgebieten, Nationalparken, Nationalen Naturmonumenten, Naturdenkmälern und gesetzlich geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes, ausgenommen Trockenmauern im Weinbau, dürfen Pflanzenschutzmittel nicht angewendet werden, die
@@ -74,8 +48,6 @@ Die Verbote des Satzes 1 gelten auch in Gebieten von gemeinschaftlicher Bedeutun
 2. zum Schutz der heimischen Tier- und Pflanzenwelt, insbesondere vor invasiven Arten, oder
 
 3. zur Gewährleistung der Verkehrssicherheit von Schienenwegen.
-
-Dies gilt nicht für die Anwendung von Pflanzenschutzmitteln, die aus einem in Anlage 3 Abschnitt A Nummer 4 oder 5 aufgeführten Stoff bestehen oder einen solchen Stoff enthalten.
 
 (3) In Gebieten von gemeinschaftlicher Bedeutung im Sinne des § 7 Absatz 1 Nummer 6 des Bundesnaturschutzgesetzes soll auf Ackerflächen, die nicht als Naturschutzgebiet, Nationalpark, Nationales Naturmonument oder Naturdenkmal ausgewiesen sind, bis zum 30. Juni 2024 mittels freiwilliger Vereinbarungen und Maßnahmen eine Bewirtschaftung ohne Anwendung der in Absatz 1 Satz 1 aufgeführten Pflanzenschutzmittel erreicht werden.
 
@@ -125,11 +97,9 @@ bestehen oder einen solchen Stoff enthalten, in einem Wasserschutzgebiet oder He
 
 (2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 2, § 3 Absatz 1 oder 2, § 3b Absatz 3, 4 oder 5, § 4 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder § 4a Absatz 1 Satz 1 ein Pflanzenschutzmittel anwendet,
+1. entgegen § 2, § 3 Absatz 1 oder 2, § 4 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder § 4a Absatz 1 Satz 1 ein Pflanzenschutzmittel anwendet oder
 
-2. einer vollziehbaren Anordnung nach § 3 Absatz 3 zuwiderhandelt oder
-
-3. entgegen § 3a ein Pflanzenschutzmittel abgibt.
+2. einer vollziehbaren Anordnung nach § 3 Absatz 3 zuwiderhandelt.
 
 # § 9 – Generelles Anwendungsverbot
 
@@ -426,29 +396,19 @@ Die Anwendung ist verboten
 
 4
 
-Glyphosat
+(weggefallen)
 
-)
+ 
 
-Die Anwendung ist verboten
+ 
 
 5
 
-Glyphosat-Trimesium
+(weggefallen)
 
-)
+ 
 
-1. auf nicht versiegelten Flächen, die mit Schlacke, Split, Kies und ähnlichen Materialien befestigt sind (Wege, Plätze und sonstiges Nichtkulturland), von denen die Gefahr einer unmittelbaren oder mittelbaren Abschwemmung in Gewässer oder Kanalisation, Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle besteht, es sei denn, die zuständige Behörde schreibt mit der Genehmigung ein Anwendungsverfahren vor, mit dem sichergestellt ist, dass die Gefahr der Abschwemmung nicht besteht,
-
-2. auf oder unmittelbar an Flächen, die mit Beton, Bitumen, Pflaster, Platten und ähnlichen Materialien versiegelt sind (Wege, Plätze und sonstiges Nichtkulturland), von denen die Gefahr einer unmittelbaren oder mittelbaren Abschwemmung in Gewässer oder in Kanalisation, Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle besteht, es sei denn, die zuständige Behörde schreibt mit der Genehmigung ein Anwendungsverfahren vor, mit dem sichergestellt ist, dass die Gefahr der Abschwemmung nicht besteht,
-
-3. im Haus- und Kleingartenbereich; dies gilt nicht, solange für das jeweilige Pflanzenschutzmittel auf Grund einer vor dem 8. September 2021 getroffenen unanfechtbaren Entscheidung
-
-a) die Anwendung durch nichtberufliche Anwender zugelassen ist oder
-
-b) die Anwendung durch berufliche Anwender zugelassen und die Eignung zur Anwendung im Haus- und Kleingartenbereich nach § 36 Absatz 1 Satz 2 Nummer 3 oder Absatz 2 des Pflanzenschutzgesetzes festgelegt ist,
-
-4. auf Flächen, die für die Allgemeinheit bestimmt sind; dies gilt nicht, solange für das jeweilige Pflanzenschutzmittel auf Grund einer vor dem 8. September 2021 getroffenen unanfechtbaren Entscheidung die Eignung für die Anwendung auf Flächen, die für die Allgemeinheit bestimmt sind, im Rahmen eines Zulassungsverfahrens festgelegt oder die Anwendung auf Flächen genehmigt ist, die für die Allgemeinheit bestimmt sind.
+ 
 
 5a
 
@@ -823,29 +783,3 @@ Thiofanox
  
 
  
-
-# Anlage 4 – (zu § 3a)Besondere Abgabebedingungen
-
-Fundstelle des Originaltextes: BGBl. I 2003, 1538
-
-  
-
-Nummer
-
-Stoff
-
-1
-
-2
-
-1
-
-Diuron
-
-2
-
-Glyphosat
-
-3
-
-Glyphosat-Trimesium

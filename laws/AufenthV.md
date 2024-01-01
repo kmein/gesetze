@@ -666,7 +666,7 @@ c) die Angaben nicht in einer germanischen oder romanischen Sprache enthält.
 
 7. das Europäische Reisedokument für die Rückkehr (§ 1 Absatz 8).
 
-Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer Gültigkeitsdauer von bis zu drei Jahren ausgestellt; eine Verlängerung ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente ohne Chip ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr werden abweichend von Absatz 4 Satz 1 Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 ohne Chip ausgegeben; in begründeten Fällen können sie auch mit Chip ausgegeben werden. Passersatzpapiere nach Satz 4 ohne Chip sind höchstens ein Jahr gültig, längstens jedoch bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des zwölften Lebensjahres um jeweils ein Jahr zulässig; es ist jeweils ein aktuelles Lichtbild einzubringen. Passersatzpapiere nach Satz 1 Nummer 3 und 4, die an heimatlose Ausländer nach dem Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet ausgestellt werden, können mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt werden.
+Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer Gültigkeitsdauer von bis zu drei Jahren ausgestellt; eine Verlängerung ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente ohne Chip ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr können in begründeten Fällen abweichend von Absatz 4 Satz 1 Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 ohne Chip ausgegeben werden. Passersatzpapiere nach Satz 4 ohne Chip sind höchstens ein Jahr gültig, längstens jedoch bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des zwölften Lebensjahres um jeweils ein Jahr zulässig; es ist jeweils ein aktuelles Lichtbild einzubringen. Passersatzpapiere nach Satz 1 Nummer 3 und 4, die an heimatlose Ausländer nach dem Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet ausgestellt werden, können mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt werden.
 
 (2) Passersatzpapiere nach Absatz 1 Satz 1 Nummer 1, 3 und 4 enthalten neben der Angabe der ausstellenden Behörde, dem Tag der Ausstellung, dem letzten Tag der Gültigkeitsdauer und der Seriennummer sowie dem Lichtbild und der Unterschrift des Inhabers des Passersatzpapiers ausschließlich folgende sichtbar aufgebrachte Angaben über den Inhaber des Passersatzpapiers:
 
@@ -1588,6 +1588,7 @@ noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils die Höhe, die für di
 # § 48 – Gebühren für pass- und ausweisrechtliche Maßnahmen
 
 (1) An Gebühren sind zu erheben  
+  
 
 1a.
 
@@ -1605,7 +1606,7 @@ für die Ausstellung eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 
 
 für die Ausstellung eines Reiseausweises für Flüchtlinge, eines Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind,
 
-60 Euro,
+70 Euro,
 
 1d.
 
@@ -2065,7 +2066,7 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 # § 60 – Lichtbild
 
-(1) Lichtbilder müssen den in § 5 der Passverordnung vom 19. Oktober 2007 in der jeweils geltenden Fassung festgelegten Anforderungen entsprechen und den Ausländer zweifelsfrei erkennen lassen. Sie müssen die Person ohne Gesichts- und Kopfbedeckung zeigen. Die zuständige Behörde kann hinsichtlich der Kopfbedeckung Ausnahmen zulassen oder anordnen, sofern gewährleistet ist, dass die Person hinreichend identifiziert werden kann.
+(1) Lichtbilder müssen den in § 4 der Passverordnung vom 19. Oktober 2007 in der jeweils geltenden Fassung festgelegten Anforderungen entsprechen und den Ausländer zweifelsfrei erkennen lassen. Sie müssen die Person ohne Gesichts- und Kopfbedeckung zeigen. Die zuständige Behörde kann hinsichtlich der Kopfbedeckung Ausnahmen zulassen oder anordnen, sofern gewährleistet ist, dass die Person hinreichend identifiziert werden kann.
 
 (2) Der Ausländer, für den ein Dokument nach § 58 oder § 59 ausgestellt werden soll, hat der zuständigen Behörde auf Verlangen ein aktuelles Lichtbild nach Absatz 1 vorzulegen oder bei der Anfertigung eines Lichtbildes mitzuwirken.
 

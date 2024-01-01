@@ -1293,7 +1293,7 @@ Das Bundesministerium für Ernährung und Landwirtschaft gibt im Einvernehmen mi
 
 # § 63 – Auskunftspflicht
 
-(1) Natürliche und juristische Personen und nichtrechtsfähige Personenvereinigungen haben der zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der der jeweils zuständigen Behörde durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich sind. Die zuständigen Behörden der Länder sind berechtigt, Einsicht zu nehmen in die in § 2 in Verbindung mit der Anlage des InVeKoS-Daten-Gesetzes genannten Daten, soweit es zur Überwachung der Einhaltung der Vorschriften dieses Gesetzes sowie der nach diesem Gesetz erlassenen Rechtsverordnungen erforderlich ist.
+(1) Natürliche und juristische Personen und sonstige Personenvereinigungen haben der zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der der jeweils zuständigen Behörde durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich sind. Die zuständigen Behörden der Länder sind berechtigt, Einsicht zu nehmen in die in § 2 in Verbindung mit der Anlage des InVeKoS-Daten-Gesetzes genannten Daten, soweit es zur Überwachung der Einhaltung der Vorschriften dieses Gesetzes sowie der nach diesem Gesetz erlassenen Rechtsverordnungen erforderlich ist.
 
 (2) Personen, die von der zuständigen Behörde beauftragt sind, dürfen im Rahmen des Absatzes 1 Grundstücke, Geschäftsräume, Betriebsräume und Transportmittel des Auskunftspflichtigen während der Geschäfts- und Betriebszeit betreten und dort
 

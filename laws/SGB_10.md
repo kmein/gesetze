@@ -1704,7 +1704,7 @@ Ein öffentlich-rechtlicher Vertrag ist schriftlich zu schließen, soweit nicht 
 
 (1) Jeder Vertragschließende kann sich der sofortigen Vollstreckung aus einem öffentlich-rechtlichen Vertrag im Sinne des § 53 Abs. 1 Satz 2 unterwerfen. Die Behörde muss hierbei von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes, der die Befähigung zum Richteramt hat, vertreten werden.
 
-(2) Auf öffentlich-rechtliche Verträge im Sinne des Absatzes 1 Satz 1 ist § 66 entsprechend anzuwenden. Will eine natürliche oder juristische Person des Privatrechts oder eine nichtrechtsfähige Vereinigung die Vollstreckung wegen einer Geldforderung betreiben, so ist § 170 Abs. 1 bis 3 der Verwaltungsgerichtsordnung entsprechend anzuwenden. Richtet sich die Vollstreckung wegen der Erzwingung einer Handlung, Duldung oder Unterlassung gegen eine Behörde, ist § 172 der Verwaltungsgerichtsordnung entsprechend anzuwenden.
+(2) Auf öffentlich-rechtliche Verträge im Sinne des Absatzes 1 Satz 1 ist § 66 entsprechend anzuwenden. Will eine natürliche oder juristische Person des Privatrechts oder eine sonstige Personenvereinigung die Vollstreckung wegen einer Geldforderung betreiben, so ist § 170 Abs. 1 bis 3 der Verwaltungsgerichtsordnung entsprechend anzuwenden. Richtet sich die Vollstreckung wegen der Erzwingung einer Handlung, Duldung oder Unterlassung gegen eine Behörde, ist § 172 der Verwaltungsgerichtsordnung entsprechend anzuwenden.
 
 # § 61 – Ergänzende Anwendung von Vorschriften
 
@@ -1730,19 +1730,19 @@ Für förmliche Rechtsbehelfe gegen Verwaltungsakte gelten, wenn der Sozialrecht
 
 1. in der Sozialversicherung bei den Versicherungsträgern und Versicherungsbehörden erforderlich werden, um die Rechtsverhältnisse zwischen den Versicherungsträgern einerseits und den Arbeitgebern, Versicherten oder ihren Hinterbliebenen andererseits abzuwickeln,
 
-2. im Sozialhilferecht, im Recht der Eingliederungshilfe, im Recht der Grundsicherung für Arbeitsuchende, im Kinder- und Jugendhilferecht sowie im Recht der Kriegsopferfürsorge aus Anlass der Beantragung, Erbringung oder Erstattung einer nach dem Zwölften Buch, dem Neunten Buch, dem Zweiten und dem Achten Buch oder dem Bundesversorgungsgesetz vorgesehenen Leistung benötigt werden,
+2. im Sozialhilferecht, im Recht der Grundsicherung für Arbeitsuchende sowie im Kinder- und Jugendhilferecht aus Anlass der Beantragung, Erbringung oder Erstattung einer nach dem Zwölften Buch, dem Zweiten oder dem Achten Buch vorgesehenen Leistung benötigt werden,
 
 3. im Schwerbehindertenrecht von der zuständigen Stelle im Zusammenhang mit der Verwendung der Ausgleichsabgabe für erforderlich gehalten werden,
 
-4. im Recht der sozialen Entschädigung bei Gesundheitsschäden für erforderlich gehalten werden,
+4. im Recht der Sozialen Entschädigung für erforderlich gehalten werden,
 
 5. im Kindergeldrecht für erforderlich gehalten werden.
 
-(3) Absatz 2 Satz 1 gilt auch für gerichtliche Verfahren, auf die das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden ist. Im Verfahren nach der Zivilprozessordnung, dem Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie im Verfahren vor Gerichten der Sozial- und Finanzgerichtsbarkeit sind die Träger der Eingliederungshilfe, der Sozialhilfe, der Grundsicherung für Arbeitsuchende, der Leistungen nach dem Asylbewerberleistungsgesetz, der Jugendhilfe und der Kriegsopferfürsorge von den Gerichtskosten befreit; § 197a des Sozialgerichtsgesetzes bleibt unberührt.
+(3) Absatz 2 Satz 1 gilt auch für gerichtliche Verfahren, auf die das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden ist. Im Verfahren nach der Zivilprozessordnung, dem Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie im Verfahren vor Gerichten der Sozial- und Finanzgerichtsbarkeit sind die Träger der Eingliederungshilfe, der Sozialhilfe, der Grundsicherung für Arbeitsuchende, der Leistungen nach dem Asylbewerberleistungsgesetz, der Jugendhilfe und der Sozialen Entschädigung, von den Gerichtskosten befreit; § 197a des Sozialgerichtsgesetzes bleibt unberührt.
 
 # § 65 – Zustellung
 
-(1) Soweit Zustellungen durch Behörden des Bundes, der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts vorgeschrieben sind, gelten die §§ 2 bis 10 des Verwaltungszustellungsgesetzes. § 5 Abs. 4 des Verwaltungszustellungsgesetzes und § 178 Abs. 1 Nr. 2 der Zivilprozessordnung sind auf die nach § 73 Absatz 2 Satz 2 Nummer 5 bis 9 und Satz 3 des Sozialgerichtsgesetzes als Bevollmächtigte zugelassenen Personen entsprechend anzuwenden. Diese Vorschriften gelten auch, soweit Zustellungen durch Verwaltungsbehörden der Kriegsopferversorgung vorgeschrieben sind.
+(1) Soweit Zustellungen durch Behörden des Bundes, der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts vorgeschrieben sind, gelten die §§ 2 bis 10 des Verwaltungszustellungsgesetzes. § 5 Abs. 4 des Verwaltungszustellungsgesetzes und § 178 Abs. 1 Nr. 2 der Zivilprozessordnung sind auf die nach § 73 Absatz 2 Satz 2 Nummer 5 bis 9 und Satz 3 des Sozialgerichtsgesetzes als Bevollmächtigte zugelassenen Personen entsprechend anzuwenden. Diese Vorschriften gelten auch, soweit Zustellungen durch die nach Landesrecht zur Durchführung des Vierzehnten Buches zuständigen Stellen vorgeschrieben sind.
 
 (2) Für die übrigen Behörden gelten die jeweiligen landesrechtlichen Vorschriften über das Zustellungsverfahren.
 
@@ -1756,7 +1756,7 @@ Für förmliche Rechtsbehelfe gegen Verwaltungsakte gelten, wenn der Sozialrecht
 
 als Vollstreckungsbeamte und sonstige hierfür fachlich geeignete Bedienstete der genannten Verbände und Krankenkassen als Vollziehungsbeamte bestellen darf. Der nach Satz 4 beauftragte Verband der Krankenkassen ist berechtigt, Verwaltungsakte zur Erfüllung der mit der Vollstreckung verbundenen Aufgabe zu erlassen.
 
-(2) Absatz 1 Satz 1 bis 3 gilt auch für die Vollstreckung durch Verwaltungsbehörden der Kriegsopferversorgung; das Land bestimmt die Vollstreckungsbehörde.
+(2) Absatz 1 Satz 1 bis 3 gilt auch für die Vollstreckung durch die nach Landesrecht zur Durchführung des Vierzehnten Buches zuständigen Stellen; das Land bestimmt die Vollstreckungsbehörde.
 
 (3) Für die Vollstreckung zugunsten der übrigen Behörden gelten die jeweiligen landesrechtlichen Vorschriften über das Verwaltungsvollstreckungsverfahren. Für die landesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts gilt Absatz 1 Satz 2 bis 5 entsprechend. Abweichend von Satz 1 vollstrecken die nach Landesrecht zuständigen Vollstreckungsbehörden zugunsten der landesunmittelbaren Krankenkassen, die sich über mehr als ein Bundesland erstrecken, nach den Vorschriften des Verwaltungs-Vollstreckungsgesetzes.
 
@@ -2348,7 +2348,7 @@ Die Leistungsträger, ihre Verbände und die in diesem Gesetzbuch genannten öff
 
 3. im wohlverstandenen Interesse der Betroffenen
 
-zweckmäßig ist. Satz 1 gilt nicht im Recht der Ausbildungsförderung, der Kriegsopferfürsorge, des Kindergelds, der Unterhaltsvorschüsse und Unterhaltsausfallleistungen, im Wohngeldrecht sowie im Recht der Jugendhilfe und der Sozialhilfe.
+zweckmäßig ist. Satz 1 gilt nicht im Recht der Ausbildungsförderung, des Kindergelds, der Unterhaltsvorschüsse und Unterhaltsausfallleistungen, im Wohngeldrecht sowie im Recht der Jugendhilfe und der Sozialhilfe.
 
 (2) Der Auftrag kann für Einzelfälle sowie für gleichartige Fälle erteilt werden. Ein wesentlicher Teil des gesamten Aufgabenbereichs muss beim Auftraggeber verbleiben.
 
@@ -2506,11 +2506,11 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 (2) Der Umfang des Erstattungsanspruchs richtet sich nach den für den zuständigen Leistungsträger geltenden Rechtsvorschriften.
 
-(3) Die Absätze 1 und 2 gelten gegenüber den Trägern der Eingliederungshilfe, der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für ihre Leistungspflicht vorlagen.
+(3) Die Absätze 1 und 2 gelten gegenüber den Trägern der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, und der Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für ihre Leistungspflicht vorlagen.
 
 # § 104 – Anspruch des nachrangig verpflichteten Leistungsträgers
 
-(1) Hat ein nachrangig verpflichteter Leistungsträger Sozialleistungen erbracht, ohne dass die Voraussetzungen von § 103 Abs. 1 vorliegen, ist der Leistungsträger erstattungspflichtig, gegen den der Berechtigte vorrangig einen Anspruch hat oder hatte, soweit der Leistungsträger nicht bereits selbst geleistet hat, bevor er von der Leistung des anderen Leistungsträgers Kenntnis erlangt hat. Nachrangig verpflichtet ist ein Leistungsträger, soweit dieser bei rechtzeitiger Erfüllung der Leistungsverpflichtung eines anderen Leistungsträgers selbst nicht zur Leistung verpflichtet gewesen wäre. Ein Erstattungsanspruch besteht nicht, soweit der nachrangige Leistungsträger seine Leistungen auch bei Leistung des vorrangig verpflichteten Leistungsträgers hätte erbringen müssen. Satz 1 gilt entsprechend, wenn von den Trägern der Eingliederungshilfe, der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe Aufwendungsersatz geltend gemacht oder ein Kostenbeitrag erhoben werden kann; Satz 3 gilt in diesen Fällen nicht.
+(1) Hat ein nachrangig verpflichteter Leistungsträger Sozialleistungen erbracht, ohne dass die Voraussetzungen von § 103 Abs. 1 vorliegen, ist der Leistungsträger erstattungspflichtig, gegen den der Berechtigte vorrangig einen Anspruch hat oder hatte, soweit der Leistungsträger nicht bereits selbst geleistet hat, bevor er von der Leistung des anderen Leistungsträgers Kenntnis erlangt hat. Nachrangig verpflichtet ist ein Leistungsträger, soweit dieser bei rechtzeitiger Erfüllung der Leistungsverpflichtung eines anderen Leistungsträgers selbst nicht zur Leistung verpflichtet gewesen wäre. Ein Erstattungsanspruch besteht nicht, soweit der nachrangige Leistungsträger seine Leistungen auch bei Leistung des vorrangig verpflichteten Leistungsträgers hätte erbringen müssen. Satz 1 gilt entsprechend, wenn von den Trägern der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, und der Jugendhilfe Aufwendungsersatz geltend gemacht oder ein Kostenbeitrag erhoben werden kann; Satz 3 gilt in diesen Fällen nicht.
 
 (2) Absatz 1 gilt auch dann, wenn von einem nachrangig verpflichteten Leistungsträger für einen Angehörigen Sozialleistungen erbracht worden sind und ein anderer mit Rücksicht auf diesen Angehörigen einen Anspruch auf Sozialleistungen, auch auf besonders bezeichnete Leistungsteile, gegenüber einem vorrangig verpflichteten Leistungsträger hat oder hatte.
 
@@ -2524,7 +2524,7 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 (2) Der Umfang des Erstattungsanspruchs richtet sich nach den für den zuständigen Leistungsträger geltenden Rechtsvorschriften.
 
-(3) Die Absätze 1 und 2 gelten gegenüber den Trägern der Eingliederungshilfe, der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für ihre Leistungspflicht vorlagen.
+(3) Die Absätze 1 und 2 gelten gegenüber den Trägern der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, und der Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für ihre Leistungspflicht vorlagen.
 
 # § 106 – Rangfolge bei mehreren Erstattungsberechtigten
 
@@ -2553,7 +2553,7 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 (1) Sach- und Dienstleistungen sind in Geld zu erstatten.
 
-(2) Ein Erstattungsanspruch der Träger der Eingliederungshilfe, der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe ist von anderen Leistungsträgern
+(2) Ein Erstattungsanspruch der Träger der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, und der Jugendhilfe ist von anderen Leistungsträgern
 
 1. für die Dauer des Erstattungszeitraumes und
 
@@ -2660,3 +2660,5 @@ Für den Anspruch auf Ersatz von Beiträgen zur Rentenversicherung gilt § 116 A
 (6) § 66 Abs. 1 Satz 3 bis 5, Abs. 2 und 3 Satz 2 in der ab dem 30. März 2005 geltenden Fassung gilt nur für Bestellungen zu Vollstreckungs- und Vollziehungsbeamten ab dem 30. März 2005.
 
 (7) § 94 Absatz 1a Satz 3 findet nur Anwendung auf die Bildung von oder den Beitritt zu Arbeitsgemeinschaften, wenn die Bildung oder der Beitritt nach dem 30. Juni 2020 erfolgt; die am 30. Juni 2020 bereits bestehenden Arbeitsgemeinschaften dürfen weitergeführt werden.
+
+(8) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 64 Absatz 2 Satz 3 Nummer 2 und Absatz 3 Satz 2, § 65 Absatz 1 Satz 3, § 66 Absatz 2, § 88 Absatz 1 Satz 2, § 103 Absatz 3, § 104 Absatz 1 Satz 4, § 105 Absatz 3 und § 108 Absatz 2 Satz 1 in der bis zum 31. Dezember 2023 geltenden Fassung weiter.

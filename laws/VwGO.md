@@ -842,7 +842,7 @@ Der Beigeladene kann innerhalb der Anträge eines Beteiligten selbständig Angri
 
 5. Gewerkschaften und Vereinigungen von Arbeitgebern sowie Zusammenschlüsse solcher Verbände für ihre Mitglieder oder für andere Verbände oder Zusammenschlüsse mit vergleichbarer Ausrichtung und deren Mitglieder,
 
-6. Vereinigungen, deren satzungsgemäße Aufgaben die gemeinschaftliche Interessenvertretung, die Beratung und Vertretung der Leistungsempfänger nach dem sozialen Entschädigungsrecht oder der behinderten Menschen wesentlich umfassen und die unter Berücksichtigung von Art und Umfang ihrer Tätigkeit sowie ihres Mitgliederkreises die Gewähr für eine sachkundige Prozessvertretung bieten, für ihre Mitglieder in Angelegenheiten der Kriegsopferfürsorge und des Schwerbehindertenrechts sowie der damit im Zusammenhang stehenden Angelegenheiten,
+6. Vereinigungen, deren satzungsgemäße Aufgaben die gemeinschaftliche Interessenvertretung, die Beratung und Vertretung von Menschen mit Behinderungen wesentlich umfassen und die unter Berücksichtigung von Art und Umfang ihrer Tätigkeit sowie ihres Mitgliederkreises die Gewähr für eine sachkundige Prozessvertretung bieten, für ihre Mitglieder in Angelegenheiten des Schwerbehindertenrechts sowie der damit im Zusammenhang stehenden Angelegenheiten,
 
 7. juristische Personen, deren Anteile sämtlich im wirtschaftlichen Eigentum einer der in den Nummern 5 und 6 bezeichneten Organisationen stehen, wenn die juristische Person ausschließlich die Rechtsberatung und Prozessvertretung dieser Organisation und ihrer Mitglieder oder anderer Verbände oder Zusammenschlüsse mit vergleichbarer Ausrichtung und deren Mitglieder entsprechend deren Satzung durchführt, und wenn die Organisation für die Tätigkeit der Bevollmächtigten haftet.
 
@@ -880,7 +880,7 @@ Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 
 # § 70
 
-(1) Der Widerspruch ist innerhalb eines Monats, nachdem der Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich, in elektronischer Form nach § 3a Absatz 2 des Verwaltungsverfahrensgesetzes oder zur Niederschrift bei der Behörde zu erheben, die den Verwaltungsakt erlassen hat. Die Frist wird auch durch Einlegung bei der Behörde, die den Widerspruchsbescheid zu erlassen hat, gewahrt.
+(1) Der Widerspruch ist innerhalb eines Monats, nachdem der Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich, in elektronischer Form nach § 3a Absatz 2 des Verwaltungsverfahrensgesetzes, schriftformersetzend nach § 3a Absatz 3 des Verwaltungsverfahrensgesetzes und § 9a Absatz 5 des Onlinezugangsgesetzes oder zur Niederschrift bei der Behörde zu erheben, die den Verwaltungsakt erlassen hat. Die Frist wird auch durch Einlegung bei der Behörde, die den Widerspruchsbescheid zu erlassen hat, gewahrt.
 
 (2) §§ 58 und 60 Abs. 1 bis 4 gelten entsprechend.
 
@@ -1224,7 +1224,7 @@ Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Bewei
 
 # § 99
 
-(1) Behörden sind zur Vorlage von Urkunden oder Akten, zur Übermittlung elektronischer Dokumente und zu Auskünften verpflichtet. Wenn das Bekanntwerden des Inhalts dieser Urkunden, Akten, elektronischen Dokumente oder dieser Auskünfte dem Wohl des Bundes oder eines Landes Nachteile bereiten würde oder wenn die Vorgänge nach einem Gesetz oder ihrem Wesen nach geheim gehalten werden müssen, kann die zuständige oberste Aufsichtsbehörde die Vorlage von Urkunden oder Akten, die Übermittlung der elektronischen Dokumente und die Erteilung der Auskünfte verweigern.
+(1) Behörden sind zur Vorlage von Urkunden oder Akten, zur Übermittlung elektronischer Dokumente und zu Auskünften verpflichtet. Führen Behörden die Akten elektronisch, sind diese als digital durchsuchbare Dokumente vorzulegen, soweit dies technisch möglich ist. Wenn das Bekanntwerden des Inhalts dieser Urkunden, Akten, elektronischen Dokumente oder dieser Auskünfte dem Wohl des Bundes oder eines Landes Nachteile bereiten würde oder wenn die Vorgänge nach einem Gesetz oder ihrem Wesen nach geheim gehalten werden müssen, kann die zuständige oberste Aufsichtsbehörde die Vorlage von Urkunden oder Akten, die Übermittlung der elektronischen Dokumente und die Erteilung der Auskünfte verweigern.
 
 (2) Auf Antrag eines Beteiligten stellt das Oberverwaltungsgericht ohne mündliche Verhandlung durch Beschluss fest, ob die Verweigerung der Vorlage der Urkunden oder Akten, der Übermittlung der elektronischen Dokumente oder der Erteilung von Auskünften rechtmäßig ist. Verweigert eine oberste Bundesbehörde die Vorlage, Übermittlung oder Auskunft mit der Begründung, das Bekanntwerden des Inhalts der Urkunden, der Akten, der elektronischen Dokumente oder der Auskünfte würde dem Wohl des Bundes Nachteile bereiten, entscheidet das Bundesverwaltungsgericht; Gleiches gilt, wenn das Bundesverwaltungsgericht nach § 50 für die Hauptsache zuständig ist. Der Antrag ist bei dem für die Hauptsache zuständigen Gericht zu stellen. Dieses gibt den Antrag und die Hauptsacheakten an den nach § 189 zuständigen Spruchkörper ab. Die oberste Aufsichtsbehörde hat die nach Absatz 1 Satz 2 verweigerten Urkunden oder Akten auf Aufforderung dieses Spruchkörpers vorzulegen, die elektronischen Dokumente zu übermitteln oder die verweigerten Auskünfte zu erteilen. Sie ist zu diesem Verfahren beizuladen. Das Verfahren unterliegt den Vorschriften des materiellen Geheimschutzes. Können diese nicht eingehalten werden oder macht die zuständige Aufsichtsbehörde geltend, dass besondere Gründe der Geheimhaltung oder des Geheimschutzes der Übergabe der Urkunden oder Akten oder der Übermittlung der elektronischen Dokumente an das Gericht entgegenstehen, wird die Vorlage oder Übermittlung nach Satz 5 dadurch bewirkt, dass die Urkunden, Akten oder elektronischen Dokumente dem Gericht in von der obersten Aufsichtsbehörde bestimmten Räumlichkeiten zur Verfügung gestellt werden. Für die nach Satz 5 vorgelegten Akten, elektronischen Dokumente und für die gemäß Satz 8 geltend gemachten besonderen Gründe gilt § 100 nicht. Die Mitglieder des Gerichts sind zur Geheimhaltung verpflichtet; die Entscheidungsgründe dürfen Art und Inhalt der geheim gehaltenen Urkunden, Akten, elektronischen Dokumente und Auskünfte nicht erkennen lassen. Für das nichtrichterliche Personal gelten die Regelungen des personellen Geheimschutzes. Soweit nicht das Bundesverwaltungsgericht entschieden hat, kann der Beschluss selbständig mit der Beschwerde angefochten werden. Über die Beschwerde gegen den Beschluss eines Oberverwaltungsgerichts entscheidet das Bundesverwaltungsgericht. Für das Beschwerdeverfahren gelten die Sätze 4 bis 11 sinngemäß.
 
@@ -1920,7 +1920,7 @@ Das Land kann bestimmen, daß das Oberverwaltungsgericht die bisherige Bezeichnu
 
 # § 188
 
-Die Sachgebiete in Angelegenheiten der Fürsorge mit Ausnahme der Angelegenheiten der Sozialhilfe und des Asylbewerberleistungsgesetzes, der Jugendhilfe, der Kriegsopferfürsorge, der Schwerbehindertenfürsorge sowie der Ausbildungsförderung sollen in einer Kammer oder in einem Senat zusammengefaßt werden. Gerichtskosten (Gebühren und Auslagen) werden in den Verfahren dieser Art nicht erhoben; dies gilt nicht für Erstattungsstreitigkeiten zwischen Sozialleistungsträgern.
+Die Sachgebiete in Angelegenheiten der Fürsorge mit Ausnahme der Angelegenheiten der Sozialhilfe und des Asylbewerberleistungsgesetzes, der Jugendhilfe, der Schwerbehindertenfürsorge sowie der Ausbildungsförderung sollen in einer Kammer oder in einem Senat zusammengefaßt werden. Gerichtskosten (Gebühren und Auslagen) werden in den Verfahren dieser Art nicht erhoben; dies gilt nicht für Erstattungsstreitigkeiten zwischen Sozialleistungsträgern.
 
 # § 188a
 
@@ -1928,7 +1928,7 @@ Für Angelegenheiten des Wirtschaftsrechts können besondere Kammern oder Senate
 
 # § 188b
 
-Für Angelegenheiten des Planungsrechts können besondere Kammern oder Senate gebildet werden (Planungskammern, Planungssenate). Die Sachgebiete der Raumordnung und Landesplanung sowie des Bauplanungs-, Bauordnungs- und Städtebauförderungsrechts sollen in den Planungskammern oder Planungssenaten zusammengefasst werden. In anderen Sachgebieten können die Planungskammern oder Planungssenate insbesondere über Streitigkeiten entscheiden, die Planfeststellungsverfahren oder anstelle einer Planfeststellung erteilte Genehmigungen betreffen.
+Für Angelegenheiten des Planungsrechts sollen besondere Kammern oder Senate gebildet werden (Planungskammern, Planungssenate). Ihnen können insbesondere auch Sachgebiete zugewiesen werden, die mit den Angelegenheiten des Planungsrechts im Zusammenhang stehen.
 
 # § 189
 
@@ -1987,6 +1987,8 @@ In einem Land, in dem kein Verfassungsgericht besteht, bleibt eine dem Oberverwa
 (4) In Verfahren, die vor dem 1. Januar 2002 anhängig geworden sind oder für die die Klagefrist vor diesem Tage begonnen hat, sowie in Verfahren über Rechtsmittel gegen gerichtliche Entscheidungen, die vor dem 1. Januar 2002 bekannt gegeben oder verkündet oder von Amts wegen an Stelle einer Verkündung zugestellt worden sind, gelten für die Prozessvertretung der Beteiligten die bis zu diesem Zeitpunkt geltenden Vorschriften.
 
 (5) § 40 Abs. 2 Satz 1, § 154 Abs. 3, § 162 Abs. 2 Satz 3 und § 188 Satz 2 sind für die ab 1. Januar 2002 bei Gericht anhängig werdenden Verfahren in der zu diesem Zeitpunkt geltenden Fassung anzuwenden.
+
+(6) Für am 1. Januar 2024 noch anhängige Verfahren aus dem Sachgebiet der Kriegsopferfürsorge gilt § 67 Absatz 2 Satz 2 Nummer 6 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 # § 195
 

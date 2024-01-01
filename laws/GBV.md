@@ -185,11 +185,9 @@ c) in allen übrigen Fällen in der für Veränderungen bestimmten Spalte der Ab
 
 (1) Zur Bezeichnung des Berechtigten sind im Grundbuch anzugeben:
 
-a) bei natürlichen Personen Vorname und Familienname, Geburtsdatum und, falls aus den Eintragungsunterlagen ersichtlich, akademische Grade und frühere Familiennamen; ergibt sich das Geburtsdatum nicht aus den Eintragungsunterlagen und ist es dem Grundbuchamt nicht anderweitig bekannt, soll der Wohnort des Berechtigten angegeben werden;
+1. bei natürlichen Personen Vorname und Familienname, Geburtsdatum und, falls aus den Eintragungsunterlagen ersichtlich, akademische Grade und frühere Familiennamen; ergibt sich das Geburtsdatum nicht aus den Eintragungsunterlagen und ist es dem Grundbuchamt nicht anderweitig bekannt, soll der Wohnort des Berechtigten angegeben werden;
 
-b) bei juristischen Personen, Handels- und Partnerschaftsgesellschaften der Name oder die Firma und der Sitz; angegeben werden sollen zudem das Registergericht und das Registerblatt der Eintragung des Berechtigten in das Handels-, Genossenschafts-, Partnerschafts- oder Vereinsregister, wenn sich diese Angaben aus den Eintragungsunterlagen ergeben oder dem Grundbuchamt anderweitig bekannt sind;
-
-c) bei der Eintragung einer Gesellschaft bürgerlichen Rechts nach § 47 Absatz 2 der Grundbuchordnung zur Bezeichnung der Gesellschafter die Merkmale gemäß Buchstabe a oder Buchstabe b; zur Bezeichnung der Gesellschaft können zusätzlich deren Name und Sitz angegeben werden.
+2. bei juristischen Personen und rechtsfähigen Personengesellschaften der Name oder die Firma und der Sitz; angegeben werden sollen zudem das Registergericht und das Registerblatt der Eintragung des Berechtigten in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister, wenn sich diese Angaben aus den Eintragungsunterlagen ergeben oder dem Grundbuchamt anderweitig bekannt sind.
 
 (2) Bei Eintragungen für den Fiskus, eine Gemeinde oder eine sonstige juristische Person des öffentlichen Rechts, kann auf Antrag des Berechtigten der Teil seines Vermögens, zu dem das eingetragene Grundstück oder Recht gehört, oder die Zweckbestimmung des Grundstücks oder des Rechts durch einen dem Namen des Berechtigten in Klammern beizufügenden Zusatz bezeichnet werden. Auf Antrag kann auch angegeben werden, durch welche Behörde der Fiskus vertreten wird.
 

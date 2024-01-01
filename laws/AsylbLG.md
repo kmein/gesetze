@@ -234,9 +234,9 @@ Zur Bestimmung des Zeitpunkts des Einsetzens der Leistungen nach den §§ 3, 4 u
 
 1. Leistungen nach diesem Gesetz,
 
-2. eine Grundrente nach dem Bundesversorgungsgesetz und nach den Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen,
+2. Leistungen nach Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches Sozialgesetzbuch vorsehen,
 
-3. eine Rente oder Beihilfe nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz,
+3. Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit bis zur Höhe der vergleichbaren Leistungen nach dem Vierzehnten Buch Sozialgesetzbuch,
 
 4. eine Entschädigung, die wegen eines Schadens, der nicht Vermögensschaden ist, nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs geleistet wird,
 
@@ -260,7 +260,7 @@ Zur Bestimmung des Zeitpunkts des Einsetzens der Leistungen nach den §§ 3, 4 u
 
 (4) Hat ein Leistungsberechtigter einen Anspruch gegen einen anderen, so kann die zuständige Behörde den Anspruch in entsprechender Anwendung des § 93 des Zwölften Buches Sozialgesetzbuch auf sich überleiten.
 
-(5) Von dem Vermögen nach Absatz 1 Satz 1 ist für den Leistungsberechtigten und seine Familienangehörigen, die im selben Haushalt leben, jeweils ein Freibetrag in Höhe von 200 Euro abzusetzen. Bei der Anwendung von Absatz 1 bleiben ferner Vermögensgegenstände außer Betracht, die zur Aufnahme oder Fortsetzung der Berufsausbildung oder der Erwerbstätigkeit unentbehrlich sind.
+(5) Von dem Vermögen nach Absatz 1 Satz 1 ist für den Leistungsberechtigten und seine Familienangehörigen, die im selben Haushalt leben, jeweils ein Freibetrag in Höhe von 200 Euro abzusetzen. Bei der Anwendung von Absatz 1 bleiben ferner Vermögensgegenstände außer Betracht, die zur Aufnahme oder Fortsetzung der Berufsausbildung oder der Erwerbstätigkeit unentbehrlich sind. Dasselbe gilt für Entschädigungszahlungen nach Gesetzen, die eine entsprechende Anwendung des Kapitels 9 des Vierzehnten Buches Sozialgesetzbuch vorsehen.
 
 § 7 Abs. 1 Satz 1: Nach Maßgabe d. Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 11.7.2006 - 1 BvR 293/05 -; zur Umsetzung der Anforderungen d. BVerfG vgl. G v. 19.8.2007 I 1970 mWv 28.8.2007
 

@@ -7,7 +7,7 @@ Auf Grund des § 9 Abs. 2 des Gesetzes über die Angleichung der Leistungen zur 
 
 # § 1 – Grundsatz
 
-Kraftfahrzeughilfe zur Teilhabe behinderter Menschen am Arbeitsleben richtet sich bei den Trägern der gesetzlichen Unfallversicherung, der gesetzlichen Rentenversicherung, der Kriegsopferfürsorge und der Bundesagentur für Arbeit sowie den Trägern der begleitenden Hilfe im Arbeits- und Berufsleben nach dieser Verordnung.
+Kraftfahrzeughilfe zur Teilhabe behinderter Menschen am Arbeitsleben richtet sich bei den Trägern der gesetzlichen Unfallversicherung, der gesetzlichen Rentenversicherung, der Sozialen Entschädigung und der Bundesagentur für Arbeit sowie den Trägern der begleitenden Hilfe im Arbeits- und Berufsleben nach dieser Verordnung.
 
 # § 2 – Leistungen
 
@@ -127,11 +127,11 @@ Leistungen sollen vor dem Abschluß eines Kaufvertrages über das Kraftfahrzeug 
 
 # § 13 – Übergangsvorschriften
 
-(1) Auf Beschädigte im Sinne des Bundesversorgungsgesetzes und der Gesetze, die das Bundesversorgungsgesetz für entsprechend anwendbar erklären, die vor Inkrafttreten dieser Verordnung Hilfe zur Beschaffung eines Kraftfahrzeugs im Rahmen der Teilhabe am Arbeitsleben erhalten haben, sind die bisher geltenden Bestimmungen weiterhin anzuwenden, wenn sie günstiger sind und der Beschädigte es beantragt.
+(1) Auf Geschädigte im Sinne des Vierzehnten Buches Sozialgesetzbuch und der Gesetze, die das Vierzehnte Buch Sozialgesetzbuch für entsprechend anwendbar erklären, die vor Inkrafttreten dieser Verordnung Hilfe zur Beschaffung eines Kraftfahrzeugs im Rahmen der Teilhabe am Arbeitsleben erhalten haben, sind die bisher geltenden Bestimmungen weiterhin anzuwenden, wenn sie günstiger sind und der Beschädigte es beantragt.
 
 (2) Über Leistungen, die bei Inkrafttreten dieser Verordnung bereits beantragt sind, ist nach den bisher geltenden Bestimmungen zu entscheiden, wenn sie für den behinderten Menschen günstiger sind.
 
-(3) (weggefallen)
+(3) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften der §§ 1 und 13 Absatz 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 # § 14 – Inkrafttreten
 

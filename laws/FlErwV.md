@@ -220,7 +220,7 @@ Erwerb land- und forstwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4 des Ausgl
 
 8. Benennung der bei Kaufantrag vom Betrieb bewirtschafteten landwirtschaftlich genutzten Flächen
 
-9. Sofern Gesellschafter einer Personengesellschaft, die selbst Pächter der Flächen gemäß § 3 Abs. 1 und 2 des Ausgleichsleistungsgesetzes ist, zusätzlich
+9. Sofern Gesellschafter einer rechtsfähigen Personengesellschaft, die selbst Pächter der Flächen gemäß § 3 Abs. 1 und 2 des Ausgleichsleistungsgesetzes ist, zusätzlich
 
 \-  
 Nachweis der zum Zeitpunkt des Kaufantrags geltenden Beteiligungsregelung
@@ -336,7 +336,7 @@ Erwerb forstwirtschaftlicher Flächen nach § 3 Abs. 8 des Ausgleichsleistungsge
 
 1. Unterlagen über die Voraussetzungen der Berechtigung nach § 1 Abs. 1, 3, 6 oder 7 des Vermögensgesetzes sowie § 1 des Ausgleichsleistungsgesetzes
 
-2. Sofern Gesellschafter einer Personengesellschaft:
+2. Sofern Gesellschafter einer rechtsfähigen Personengesellschaft:
 
 Bestätigung der Gesellschaft über die Stellung des Kaufbewerbers als unbeschränkt haftender Gesellschafter
 

@@ -53,29 +53,59 @@ b) ohne in Gewahrsam genommen worden zu sein, durch andere Maßnahmen eine gesun
 
 sowie deren Angehörige und Hinterbliebene den nach diesem Gesetz zum Empfang von Leistungen Berechtigten gleichzustellen.
 
-# § 4 – Beschädigtenversorgung
+# § 4 – Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung
 
-(1) Ein nach § 1 Abs. 1 Nr. 1 Berechtigter, der infolge des Gewahrsams eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf Antrag Versorgung in entsprechender Anwendung der Vorschriften des Gesetzes über die Versorgung der Opfer des Krieges (Bundesversorgungsgesetz), soweit ihm nicht wegen desselben schädigenden Ereignisses ein Anspruch auf Versorgung unmittelbar auf Grund des Bundesversorgungsgesetzes zusteht.
+(1) Ein nach § 1 Absatz 1 Nummer 1 Berechtigter, der infolge des Gewahrsams eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf Antrag Leistungen der Sozialen Entschädigung in entsprechender Anwendung der Vorschriften des Vierzehnten Buches Sozialgesetzbuch. Dies gilt nicht, soweit ihm wegen desselben schädigenden Ereignisses bereits folgende Leistungen zustehen:
 
-(2) Einer Schädigung im Sinne des Absatzes 1 steht eine gesundheitliche Schädigung gleich, die durch einen Unfall unter den Voraussetzungen des § 1 Abs. 2 Buchstabe e oder f des Bundesversorgungsgesetzes herbeigeführt worden ist.
+1. Versorgung aufgrund des Bundesversorgungsgesetzes,
 
-(3) Wer als Berechtigter oder Leistungsempfänger nach Absatz 1 oder § 5 in Verbindung mit § 10 Abs. 4 oder 5 des Bundesversorgungsgesetzes, als Pflegeperson oder als Begleitperson bei einer notwendigen Begleitung des Beschädigten durch einen Unfall unter den Voraussetzungen des § 8a des Bundesversorgungsgesetzes eine gesundheitliche Schädigung erleidet, erhält Versorgung nach Absatz 1.
+2. Versorgung aufgrund eines Gesetzes, das das Bundesversorgungsgesetz für entsprechend anwendbar erklärt,
+
+3. Leistungen der Sozialen Entschädigung nach dem Vierzehnten Buch Sozialgesetzbuch oder
+
+4. Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch.
+
+(2) Einer Schädigung im Sinne des Absatzes 1 steht eine gesundheitliche Schädigung gleich, die durch einen Unfall unter den Voraussetzungen des § 4 Absatz 2 Nummer 1 des Vierzehnten Buches Sozialgesetzbuch herbeigeführt worden ist.
+
+(3) Wer als Berechtigter oder Leistungsempfänger nach Absatz 1 oder § 5, als Pflegeperson oder als Begleitperson bei einer notwendigen Begleitung einer geschädigten Person durch einen Unfall unter den Voraussetzungen des § 4 Absatz 2 Nummer 2 des Vierzehnten Buches Sozialgesetzbuch eine gesundheitliche Schädigung erleidet, erhält Leistungen der Sozialen Entschädigung nach Absatz 1.
 
 (4) Einer gesundheitlichen Schädigung im Sinne der Absätze 1 bis 3 steht die Beschädigung eines am Körper getragenen Hilfsmittels, einer Brille, von Kontaktlinsen oder von Zahnersatz gleich.
 
-(5) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Wenn die Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache des festgestellten Leidens in der medizinischen Wissenschaft Ungewißheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Folge einer Schädigung anerkannt werden; die Zustimmung kann allgemein erteilt werden.
+(5) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Sie ist gegeben, wenn nach dem aktuellen Stand der medizinischen Wissenschaft mehr für als gegen einen ursächlichen Zusammenhang spricht.
 
-# § 5 – Hinterbliebenenversorgung
+(6) Bei psychischen Gesundheitsstörungen wird die Wahrscheinlichkeit des ursächlichen Zusammenhangs im Einzelfall vermutet, wenn diejenigen medizinischen Tatsachen vorliegen, die nach den Erfahrungen der medizinischen Wissenschaft geeignet sind, einen Ursachenzusammenhang zwischen einem nach Art und Schwere geeigneten schädigenden Ereignis und der gesundheitlichen Schädigung und der Schädigungsfolge zu begründen, und diese Vermutung nicht durch einen anderen Kausalverlauf widerlegt wird.
 
-Ist der Beschädigte an den Folgen der Schädigung gestorben, so erhalten die Hinterbliebenen Versorgung in entsprechender Anwendung der Vorschriften des Bundesversorgungsgesetzes, soweit ihnen nicht ein Anspruch auf Versorgung unmittelbar auf Grund des Bundesversorgungsgesetzes zusteht. § 4 Abs. 3 dieses Gesetzes und die §§ 48 und 52 des Bundesversorgungsgesetzes sind entsprechend anzuwenden.
+(7) Wenn die zur Anerkennung einer Gesundheitsstörung als Schädigungsfolge erforderliche Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache der Gesundheitsstörung in der medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Schädigungsfolge anerkannt werden. Die Zustimmung kann allgemein erteilt werden.
+
+# § 5 – Leistungen der Sozialen Entschädigung für Hinterbliebene
+
+Ist die geschädigte Person an den Folgen der Schädigung gestorben, so erhalten die Hinterbliebenen Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch. Dies gilt nicht, soweit den Hinterbliebenen bereits folgende Leistungen zustehen:
+
+1. Versorgung aufgrund des Bundesversorgungsgesetzes,
+
+2. Versorgung aufgrund eines Gesetzes, das das Bundesversorgungsgesetz für entsprechend anwendbar erklärt,
+
+3. Leistungen der Sozialen Entschädigung nach dem Vierzehnten Buch Sozialgesetzbuch oder
+
+4. Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch.
+
+§ 4 Absatz 3 dieses Gesetzes und § 148 des Vierzehnten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
 
 # § 6 – Zusammentreffen von Ansprüchen
 
-(1) Treffen Ansprüche aus § 4 dieses Gesetzes mit Ansprüchen aus § 1 des Bundesversorgungsgesetzes zusammen, wird die Versorgung unter Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten Grades der Schädigungsfolgen unmittelbar nach den Vorschriften des Bundesversorgungsgesetzes gewährt.
+(1) Treffen Ansprüche aus § 4 mit folgenden Ansprüchen zusammen, werden die Leistungen der Sozialen Entschädigung unter Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten Grades der Schädigungsfolgen nach dem Vierzehnten Buch Sozialgesetzbuch gewährt:
 
-(2) § 55 des Bundesversorgungsgesetzes findet Anwendung, wenn Leistungen nach § 4 oder § 5 mit Leistungen zusammentreffen, die unmittelbar nach dem Bundesversorgungsgesetz gewährt werden.
+1. Ansprüchen aus § 1 des Bundesversorgungsgesetzes,
 
-(3) Bei der Feststellung der Elternrente sind auch die Kinder zu berücksichtigen, die an den Folgen einer nach dem Bundesversorgungsgesetz anzuerkennenden Schädigung gestorben oder verschollen sind. Besteht ein Anspruch auf Elternrente unmittelbar nach den Vorschriften des Bundesversorgungsgesetzes, so wird sie nach diesem Gesetz nicht gewährt.
+2. Ansprüchen aus einem anderen Gesetz, das eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsieht,
+
+3. Ansprüchen nach § 21, § 23, § 24 oder Kapitel 23 des Vierzehnten Buches Sozialgesetzbuch oder
+
+4. Ansprüchen aus anderen Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches Sozialgesetzbuch vorsehen.
+
+(2) (weggefallen)
+
+(3) Bei der Feststellung der Elternrente sind auch die Kinder zu berücksichtigen, die an den Folgen einer nach dem Vierzehntes Buch Sozialgesetzbuch anzuerkennenden Schädigung gestorben. Besteht ein Anspruch auf Elternrente unmittelbar nach den Vorschriften des Vierzehntes Buch Sozialgesetzbuch, so wird sie nach diesem Gesetz nicht gewährt.
 
 # § 7 – Antragsfristen
 
@@ -121,11 +151,11 @@ Ein Berechtigter nach § 9a Abs. 1, der keinen Anspruch auf die zusätzliche Ein
 
 # § 10 – Zuständigkeit und Verfahren
 
-(1) Für die Gewährung von Leistungen nach den §§ 4, 5 und 8 sind die Behörden zuständig, denen die Durchführung des Bundesversorgungsgesetzes und des Unterhaltsbeihilfegesetzes obliegt. Soweit die Versorgungsbehörden zuständig sind, richtet sich das Verfahren nach den für die Kriegsopferversorgung geltenden Vorschriften.
+(1) Für die Gewährung von Leistungen nach den §§ 4 und 5 sind die Behörden zuständig, denen nach Landesrecht die Durchführung des Vierzehnten Buches Sozialgesetzbuch obliegt. Das Verfahren für die Gewährung von Leistungen nach den §§ 4 und 5 richtet sich nach dem Ersten und Zehnten Buch Sozialgesetzbuch; die §§ 115 bis 119 des Vierzehnten Buches Sozialgesetzbuch gelten entsprechend.
 
 (2) Für die Gewährung der Leistungen nach den §§ 9a bis 9c und die Ausstellung der Bescheinigung nach Absatz 4 sind die von den Landesregierungen bestimmten Stellen zuständig; hat der Antragsteller seinen gewöhnlichen Aufenthalt im Ausland, so bestimmt die Regierung des Landes, in welchem die Bundesregierung ihren Sitz hat, die zuständige Behörde.
 
-(3) Über öffentlich-rechtliche Streitigkeiten entscheiden die Gerichte der Sozialgerichtsbarkeit, soweit dieses Gesetz von den für die Kriegsopferversorgung zuständigen Verwaltungsbehörden durchgeführt wird. Für das Verfahren vor den Gerichten der Sozialgerichtsbarkeit sind die Vorschriften des Sozialgerichtsgesetzes für Angelegenheiten der Kriegsopferversorgung maßgebend. § 51 Abs. 1 Nr. 6 des Sozialgerichtsgesetzes bleibt unberührt. Über öffentlich-rechtliche Streitigkeiten bei der Anwendung der §§ 9a bis 9c entscheiden die allgemeinen Verwaltungsgerichte.
+(3) Über öffentlich-rechtliche Streitigkeiten über Leistungen nach den §§ 4 und 5 entscheiden die Gerichte der Sozialgerichtsbarkeit. Für das Verfahren vor den Gerichten der Sozialgerichtsbarkeit sind die Vorschriften des Sozialgerichtsgesetzes für Angelegenheiten des Sozialen Entschädigungsrechts maßgebend. Über öffentlich-rechtliche Streitigkeiten bei der Anwendung der §§ 9a bis 9c entscheiden die allgemeinen Verwaltungsgerichte.
 
 (4) Der Nachweis darüber, daß die Voraussetzungen des § 1 Abs. 1 vorliegen und daß Ausschließungsgründe nach § 2 Abs. 1 Nr. 1 und 2 weder gegeben noch gemäß § 2 Abs. 4 wirksam sind, ist durch eine Bescheinigung zu erbringen, soweit zugleich ein Anspruch nach den §§ 9a bis 9c besteht. Im übrigen wird das Vorliegen dieser Voraussetzungen nur auf Ersuchen einer anderen Behörde festgestellt, wenn hiervon die Gewährung einer Leistung, eines Rechtes oder einer Vergünstigung abhängt.
 
@@ -147,7 +177,7 @@ Die zuständige oberste Landesbehörde kann im Einvernehmen mit dem für dieses 
 
 # § 13 – Kostenregelung
 
-Der Bund trägt die Aufwendungen für Leistungen nach diesem Gesetz jeweils in dem gleichen Umfange wie die Aufwendungen für Leistungen, die unmittelbar auf Grund der Gesetze gewährt werden, die in diesem Gesetz für entsprechend anwendbar erklärt sind.
+Der Bund trägt die Aufwendungen für Leistungen nach diesem Gesetz jeweils in dem gleichen Umfange wie die Aufwendungen für Leistungen, die unmittelbar auf Grund der Gesetze gewährt werden, die in diesem Gesetz für entsprechend anwendbar erklärt sind. Für diese Leistungen, die ab dem 1. Januar 2024 nach dem Vierzehnten Buch Sozialgesetzbuch erfolgen, ist § 134 Absatz 2 des Vierzehnten Buches Sozialgesetzbuch entsprechend anwendbar.
 
 # § 14
 

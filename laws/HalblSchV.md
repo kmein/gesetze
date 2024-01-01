@@ -93,7 +93,7 @@ aa)
 Name oder Firma, Rechtsform sowie Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort des Sitzes; die Bezeichnung der Rechtsform kann auf übliche Weise abgekürzt werden; wenn die juristische Person oder Personengesellschaft in einem Register eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;
 
 bb)  
-bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens eines vertretungsberechtigten Gesellschafters;
+bei einer Gesellschaft bürgerlichen Rechts, die nicht im Gesellschaftsregister eingetragen ist, zusätzlich Name und Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens eines vertretungsberechtigten Gesellschafters;
 
 6. gegebenenfalls die Angabe eines Vertreters;
 

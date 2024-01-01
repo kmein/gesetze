@@ -109,7 +109,7 @@ Für die Abrechnungsjahre 2021 bis 2025 entspricht der maßgebliche Preis der Em
 
 (2) Die zuständige Behörde kann für Kompensationsanträge anordnen, dass
 
-1. die Schriftform, die elektronische Form oder eine andere Form nach § 3a Absatz 2 Satz 4 des Verwaltungsverfahrensgesetzes zu verwenden ist und
+1. die Schriftform, die elektronische Form oder eine andere Form nach § 3a Absatz 3 des Verwaltungsverfahrensgesetzes zu verwenden ist und
 
 2. nur die auf ihrer Internetseite zur Verfügung gestellten elektronischen Formularvorlagen zu benutzen und die ausgefüllten Formularvorlagen elektronisch unter Verwendung einer qualifizierten elektronischen Signatur zu übermitteln sind.
 

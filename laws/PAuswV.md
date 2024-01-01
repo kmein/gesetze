@@ -91,11 +91,21 @@ b) die Aufnahme des allgemeinen Sperrmerkmals in die Sperrliste sowie das Datum 
 
 c) die Anfrage zur Erzeugung der Sperrliste sowie das Datum und die Uhrzeit der Erzeugung und
 
-d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen Abrufs sowie
+d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen Abrufs;
 
 2. im Zusammenhang mit der Entsperrung des elektronischen Identitätsnachweises eines Personalausweises
 
 a) den Eingang des Entsperrantrages mit der Sperrsumme sowie das Datum und die Uhrzeit des Eingangs,
+
+b) die Entfernung des allgemeinen Sperrmerkmals aus der Sperrliste sowie das Datum und die Uhrzeit der Entfernung,
+
+c) die Bereitstellung der Sperrliste zum Abruf sowie das Datum und die Uhrzeit der Bereitstellung sowie
+
+d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen Abrufs sowie
+
+3. im Zusammenhang mit der Löschung des Sperreintrags des elektronischen Identitätsnachweises nach § 10 Absatz 8 Satz 1 des Personalausweisgesetzes
+
+a) die Sperrsumme sowie das Datum und die Uhrzeit der Löschung,
 
 b) die Entfernung des allgemeinen Sperrmerkmals aus der Sperrliste sowie das Datum und die Uhrzeit der Entfernung,
 
@@ -111,19 +121,21 @@ d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen A
 
 (3) Für die Speicherung beim Sperrlistenbetreiber gelten folgende Fristen:
 
-1. Sperrschlüssel und Sperrsumme sowie der letzte Tag der Gültigkeitsdauer eines elektronischen Identitätsnachweises mit einem Personalausweis sind spätestens zehn Jahre und einen Monat nach deren Eintragung aus der Referenzliste zu löschen;
+1. Sperrschlüssel und Sperrsumme sowie der letzte Tag der Gültigkeitsdauer eines elektronischen Identitätsnachweises mit einem Personalausweis sind spätestens einen Monat nach Ablauf der Gültigkeitsdauer aus der Referenzliste zu löschen;
 
 2. Sperrschlüssel und Sperrsumme sowie der letzte Tag der Gültigkeitsdauer eines elektronischen Identitätsnachweises mit einem mobilen Endgerät sind spätestens einen Monat nach Ablauf der Gültigkeitsdauer aus der Referenzliste zu löschen;
 
-3. Aktualisierungen der Sperrliste werden gespeichert, damit eine Sperrung oder Entsperrung von elektronischen Identitätsnachweisen nachgewiesen werden kann; solche Aktualisierungen der Sperrliste werden spätestens zehn Jahre und einen Monat nach ihrer Speicherung gelöscht;
+3. Aktualisierungen der Sperrliste werden gespeichert, damit eine Sperrung oder Entsperrung von elektronischen Identitätsnachweisen nachgewiesen werden kann; solche Aktualisierungen der Sperrliste werden spätestens einen Monat nach Ablauf der Gültigkeitsdauer eines elektronischen Identitätsnachweises gelöscht;
 
-4. ein allgemeines Sperrmerkmal wird aus der Sperrliste spätestens zehn Jahre und einen Monat entfernt, nachdem der Sperrschlüssel beim Sperrlistenbetreiber gespeichert worden ist, oder wenn die Personalausweisbehörde eine Entsperrung vorgenommen hat.
+4. ein allgemeines Sperrmerkmal wird aus der Sperrliste spätestens einen Monat nach Ablauf der Gültigkeitsdauer eines elektronischen Identitätsnachweises entfernt oder wenn die Personalausweisbehörde eine Entsperrung vorgenommen hat;
 
-(4) Der Ausweishersteller speichert die Daten, die im Rahmen des Produktionsverfahrens erlangt oder erzeugt worden sind und der antragstellenden Person zugeordnet werden können, höchstens aber so lange, bis der Sperrlistenbetreiber den Empfang der Sperrsumme und des Sperrschlüssels und die Personalausweisbehörde den Eingang des Sperrkennworts bestätigt haben. Im Übrigen sind die Daten sicher zu löschen. Der Ausweishersteller führt zur Vermeidung von Doppelungen eine Liste mit Sperrsummen sowie den jeweiligen letzten Tag der Gültigkeitsdauer von hergestellten Personalausweisen sowie von eingerichteten elektronischen Identitätsnachweisen mit einem mobilen Endgerät. Die Sperrsummen sowie der jeweilige letzte Tag der Gültigkeitsdauer von hergestellten Personalausweisen in dieser Liste sind spätestens zehn Jahre und einen Monat nach ihrer Eintragung zu löschen. § 26 Absatz 3 Satz 1 des Personalausweisgesetzes bleibt unberührt. Die Sperrsummen sowie der letzte Tag der Gültigkeitsdauer eines elektronischen Identitätsnachweises mit einem mobilen Endgerät in dieser Liste sind spätestens einen Monat nach Ablauf der Gültigkeitsdauer zu löschen.
+5. die nach § 4 Absatz 3 erzeugten Protokolldaten werden 20 Wochen nach ihrer Erzeugung gelöscht.
 
-(5) Der Ausweishersteller löscht die zur Bearbeitung von elektronischen Anträgen nach § 20 Absatz 2 und § 22 Absatz 2 zu erhebenden personenbezogenen Daten, sobald er die Benachrichtigung bekommen hat, dass der Antragsteller die zufällig neu generierte Geheimnummer erhalten hat, spätestens aber nach 30 Tagen. Satz 1 gilt nicht für das dienste- und kartenspezifische Kennzeichen, welches spätestens nach 90 Tagen zu löschen ist.
+(4) Der Ausweishersteller speichert die Daten, die im Rahmen des Produktionsverfahrens erlangt oder erzeugt worden sind und der antragstellenden Person zugeordnet werden können, höchstens aber so lange, bis der Sperrlistenbetreiber den Empfang der Sperrsumme und des Sperrschlüssels und die Personalausweisbehörde den Eingang des Sperrkennworts bestätigt haben. Im Übrigen sind die Daten sicher zu löschen. Der Ausweishersteller führt zur Vermeidung von Doppelungen eine Liste mit Sperrsummen sowie den jeweiligen letzten Tag der Gültigkeitsdauer von hergestellten Personalausweisen sowie von eingerichteten elektronischen Identitätsnachweisen mit einem mobilen Endgerät. Die Sperrsummen sowie der jeweilige letzte Tag der Gültigkeitsdauer von hergestellten Personalausweisen in dieser Liste sind spätestens einen Monat nach Ablauf der Gültigkeitsdauer eines elektronischen Identitätsnachweises zu löschen. Der Sperrlistenbetreiber informiert hierzu den Ausweishersteller über Löschvorgänge nach Absatz 3 Nummer 1 und 2. § 26 Absatz 3 Satz 1 des Personalausweisgesetzes bleibt unberührt. Die Sperrsummen sowie der letzte Tag der Gültigkeitsdauer eines elektronischen Identitätsnachweises mit einem mobilen Endgerät in dieser Liste sind spätestens einen Monat nach Ablauf der Gültigkeitsdauer zu löschen.
 
-(6) Abgesehen von der im Personalausweisregister zu speichernden Anschrift löscht die Personalausweisbehörde alle personenbezogenen Daten, die zur Änderung der Anschrift nach einer elektronischen Anmeldung nach § 23a des Bundesmeldegesetzes erhoben werden, nach Vollzug der Änderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium sowie Erstellung und Versand des Aufklebers, spätestens aber 30 Tage nach Erhalt der personenbezogenen Daten durch die Personalausweisbehörde.
+(5) Der Ausweishersteller löscht die zur Bearbeitung von elektronischen Anträgen nach § 20 Absatz 2 und § 21 Absatz 2 zu erhebenden personenbezogenen Daten, sobald er die Benachrichtigung bekommen hat, dass der Antragsteller die zufällig neu generierte Geheimnummer erhalten hat, spätestens aber nach 30 Tagen. Satz 1 gilt nicht für das dienste- und kartenspezifische Kennzeichen, welches spätestens nach 90 Tagen zu löschen ist.
+
+(6) Abgesehen von der im Personalausweisregister zu speichernden Anschrift löscht die Personalausweisbehörde alle personenbezogenen Daten, die zur Änderung der Anschrift nach einer elektronischen Anmeldung nach § 23a des Bundesmeldegesetzes erhoben werden, nach Vollzug der Änderung der Anschrift auf dem Chip sowie Erstellung und Versand des Aufklebers, spätestens aber 30 Tage nach Erhalt der personenbezogenen Daten durch die Personalausweisbehörde.
 
 # § 6 – Erfassung der Anschrift
 
@@ -259,11 +271,11 @@ Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde entweder b
 
 # § 21 – Nachträgliches Einschalten
 
-(1) Bevor die ausstellende oder zuständige Personalausweisbehörde einen ausgeschalteten elektronischen Identitätsnachweis nach § 10 Absatz 3 Satz 1 des Personalausweisgesetzes einschaltet, prüft sie die Identität des Ausweisinhabers. Die Personalausweisbehörde löscht die Tatsache der Ausschaltung im Personalausweisregister. Handelt die zuständige Personalausweisbehörde, informiert sie die ausstellende Personalausweisbehörde über die Einschaltung; in diesem Fall löscht die ausstellende Personalausweisbehörde die Tatsache der Ausschaltung im Personalausweisregister. Die Personalausweisbehörde initiiert bei jeder nachträglichen Einschaltung die Neusetzung der Geheimnummer durch den Ausweisinhaber und teilt ihm auf Wunsch das Sperrkennwort aus dem Personalausweisregister mit.
+(1) Bevor die ausstellende oder zuständige Personalausweisbehörde einen ausgeschalteten elektronischen Identitätsnachweis nach § 10 Absatz 3 des Personalausweisgesetzes einschaltet, prüft sie die Identität des Ausweisinhabers. Die Personalausweisbehörde löscht die Tatsache der Ausschaltung im Personalausweisregister. Handelt die zuständige Personalausweisbehörde, informiert sie die ausstellende Personalausweisbehörde über die Einschaltung; in diesem Fall löscht die ausstellende Personalausweisbehörde die Tatsache der Ausschaltung im Personalausweisregister. Die Personalausweisbehörde initiiert bei jeder nachträglichen Einschaltung die Neusetzung der Geheimnummer durch den Ausweisinhaber und teilt ihm auf Wunsch das Sperrkennwort aus dem Personalausweisregister mit.
 
-(2) Der Antrag nach § 10 Absatz 3 Satz 1 des Personalausweisgesetzes kann durch den Ausweisinhaber, der eine Meldeadresse im Inland hat, auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars gestellt werden. Der Ausweishersteller versendet eine neue, zufällig generierte Geheimnummer in einem Brief an die im Speicher- und Verarbeitungsmedium gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis ein und schreibt die neue, zufällig generierte Geheimnummer in das Speicher- und Verarbeitungsmedium. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
+(2) Der Antrag nach § 10 Absatz 3 des Personalausweisgesetzes kann durch den Ausweisinhaber, der eine Meldeadresse im Inland hat, auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars gestellt werden. Der Ausweishersteller versendet eine neue, zufällig generierte Geheimnummer in einem Brief an die im Chip gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis ein und schreibt die neue, zufällig generierte Geheimnummer in den Chip. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
 
-(3) Für das nachträgliche Einschalten des elektronischen Identitätsnachweises nach Absatz 2 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2 Satz 5 verwendet der Ausweishersteller ein hoheitliches Berechtigungszertifikat.
+(3) Für das nachträgliche Einschalten des elektronischen Identitätsnachweises nach Absatz 1 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2 Satz 5 verwendet der Ausweishersteller ein hoheitliches Berechtigungszertifikat.
 
 # § 22 – Einrichtung
 
@@ -479,7 +491,17 @@ Die eID-Karte ist nach dem in Anhang 3a abgedruckten Muster herzustellen. Für d
 
 (3) Abweichend von § 19 Absatz 1 Satz 1 können die Personalausweisbehörden der Länder, die nach § 23a des Bundesmeldegesetzes ein Verfahren zur elektronischen Anmeldung erproben, bis zum 30. April 2022 auch Änderungsaufkleber nach dem in Anhang 1a abgedruckten Muster verwenden.
 
-(4) Abweichend von § 5 Absatz 3 Nummer 1, 3 und 4 sowie Absatz 4 Satz 4 und 6 gilt bis zum 31. Dezember 2031 anstelle der dort jeweils genannten Frist von zehn Jahren und einem Monat die Frist von zehn Jahren und drei Monaten.
+(4) Bis zum Ablauf des 31. Dezember 2032 gilt § 5 Absatz 3 Nummer 1, 3 und 4 sowie Absatz 4 Satz 4 mit den Maßgaben, dass die Frist zehn Jahre und drei Monate beträgt und wie folgt zu laufen beginnt:
+
+1. im Fall von § 5 Absatz 3 Nummer 1 mit der Eintragung in die Referenzliste,
+
+2. im Fall von § 5 Absatz 3 Nummer 3 mit der Speicherung der Aktualisierung der Sperrliste,
+
+3. im Fall von § 5 Absatz 3 Nummer 4 mit der Speicherung des Sperrschlüssels beim Sperrlistenbetreiber oder mit der Entsperrung durch die Personalausweisbehörde,
+
+4. im Fall von § 5 Absatz 4 Satz 4 mit der Eintragung der Sperrsummen oder des jeweils letzten Tages der Gültigkeitsdauer von hergestellten Personalausweisen in dieser Liste.
+
+(5) Bis zum 31. Oktober 2024 findet § 17 Absatz 1 und 2 mit der Maßgabe Anwendung, dass das Kuvert neben der Geheimnummer und der Entsperrnummer das Sperrkennwort enthalten kann, wenn dieses der antragstellenden Person von dem Ausweishersteller übersandt wird. Als Absenderanschrift ist die postalische Anschrift der ausstellenden Personalausweisbehörde anzugeben. Der Erhalt des Kuverts ist in diesem Fall unmittelbar vor der Aushändigung des Personalausweises und in der Form nach § 17 Absatz 1 Satz 2 durch die antragstellende Person zu bestätigen.
 
 # § 38 – Inkrafttreten
 

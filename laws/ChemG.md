@@ -433,11 +433,11 @@ eine Zuordnung zu einem Gefährlichkeitsmerkmal;
 
 7. Hersteller:
 
-eine natürliche oder juristische Person oder eine nicht rechtsfähige Personenvereinigung, die einen Stoff, ein Gemisch oder ein Erzeugnis herstellt oder gewinnt;
+eine natürliche oder juristische Person oder eine sonstige Personenvereinigung, die einen Stoff, ein Gemisch oder ein Erzeugnis herstellt oder gewinnt;
 
 8. Einführer:
 
-eine natürliche oder juristische Person oder eine nicht rechtsfähige Personenvereinigung, die einen Stoff, ein Gemisch oder ein Erzeugnis in den Geltungsbereich dieses Gesetzes verbringt; kein Einführer ist, wer lediglich einen Transitverkehr unter zollamtlicher Überwachung durchführt, soweit keine Be- oder Verarbeitung erfolgt;
+eine natürliche oder juristische Person oder eine sonstige Personenvereinigung, die einen Stoff, ein Gemisch oder ein Erzeugnis in den Geltungsbereich dieses Gesetzes verbringt; kein Einführer ist, wer lediglich einen Transitverkehr unter zollamtlicher Überwachung durchführt, soweit keine Be- oder Verarbeitung erfolgt;
 
 9. Inverkehrbringen:
 
@@ -1265,7 +1265,7 @@ die das zuständige Bundesministerium amtlich bekannt machen kann.
 
 2. in den Fällen des Absatzes 2 Satz 2 eine andere Bundesoberbehörde zu bestimmen.
 
-(3) Die zuständige Landesbehörde ist befugt, von natürlichen und juristischen Personen und nicht rechtsfähigen Personenvereinigungen alle zur Durchführung dieses Gesetzes, der auf dieses Gesetz gestützten Rechtsverordnungen und der in Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen erforderlichen Auskünfte zu verlangen. In den Fällen des Absatzes 2 Satz 2 stehen diese Befugnisse der dort bezeichneten, in den Fällen des Absatzes 2a der in der Rechtsverordnung bezeichneten Bundesoberbehörde zu.
+(3) Die zuständige Landesbehörde ist befugt, von natürlichen und juristischen Personen und sonstigen Personenvereinigungen alle zur Durchführung dieses Gesetzes, der auf dieses Gesetz gestützten Rechtsverordnungen und der in Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen erforderlichen Auskünfte zu verlangen. In den Fällen des Absatzes 2 Satz 2 stehen diese Befugnisse der dort bezeichneten, in den Fällen des Absatzes 2a der in der Rechtsverordnung bezeichneten Bundesoberbehörde zu.
 
 (4) Die mit der Überwachung beauftragten Personen sind befugt,
 

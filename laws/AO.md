@@ -418,6 +418,10 @@ Anforderungen an die Satzung
 
 Feststellung der satzungsmäßigen Voraussetzungen
 
+§ 60b
+
+Zuwendungsempfängerregister
+
 § 61
 
 Satzungsmäßige Vermögensbindung
@@ -3707,6 +3711,30 @@ Die Steuervergünstigung wird gewährt, wenn sich aus der Satzung, dem Stiftungs
 (6) Liegen bis zum Zeitpunkt des Erlasses des erstmaligen Körperschaftsteuerbescheids oder Freistellungsbescheids bereits Erkenntnisse vor, dass die tatsächliche Geschäftsführung gegen die satzungsmäßigen Voraussetzungen verstößt, ist die Feststellung der Einhaltung der satzungsmäßigen Voraussetzungen nach Absatz 1 Satz 1 abzulehnen. Satz 1 gilt entsprechend für die Aufhebung bestehender Feststellungen nach § 60a.
 
 (7) Auf Anfrage der registerführenden Stelle nach § 18 Absatz 2 des Geldwäschegesetzes kann das für die Feststellung nach Absatz 1 zuständige Finanzamt der registerführenden Stelle bestätigen, dass eine Vereinigung, die einen Antrag nach § 24 Absatz 1 Satz 2 des Geldwäschegesetzes gestellt hat, die nach den §§ 52 bis 54 der Abgabenordnung steuerbegünstigten Zwecke verfolgt. Hierzu hat die registerführende Stelle dem zuständigen Finanzamt zu bestätigen, dass das Einverständnis der Vereinigung auf Auskunftserteilung nach § 24 Absatz 1 Satz 3 des Geldwäschegesetzes vorliegt.
+
+# § 60b – Zuwendungsempfängerregister
+
+(1) Das Bundeszentralamt für Steuern führt ein Register, in dem Körperschaften geführt werden, die die Voraussetzungen der §§ 51 bis 68 oder des § 34g des Einkommensteuergesetzes erfüllen (Zuwendungsempfängerregister).
+
+(2) Im Zuwendungsempfängerregister speichert das Bundeszentralamt für Steuern zu Zwecken des Sonderausgabenabzugs nach § 10b des Einkommensteuergesetzes zu Körperschaften, die die Voraussetzungen der §§ 51 bis 68 erfüllen, folgende Daten:
+
+1. Wirtschafts-Identifikationsnummer der Körperschaft,
+
+2. Name der Körperschaft,
+
+3. Anschrift der Körperschaft,
+
+4. steuerbegünstigte Zwecke der Körperschaft,
+
+5. das für die Festsetzung der Körperschaftsteuer der Körperschaft zuständige Finanzamt,
+
+6. Datum der Erteilung des letzten Freistellungsbescheides oder Feststellungsbescheides nach § 60a,
+
+7. Bankverbindung der Körperschaft.
+
+(3) Das für die Festsetzung der Körperschaftsteuer der Körperschaft zuständige Finanzamt übermittelt dem Bundeszentralamt für Steuern die Daten nach Absatz 2 sowie unverzüglich jede Änderung dieser Daten.
+
+(4) Das Bundeszentralamt für Steuern ist befugt, die Daten nach Absatz 2 Dritten zu offenbaren. § 30 steht dem nicht entgegen.
 
 # § 61 – Satzungsmäßige Vermögensbindung
 

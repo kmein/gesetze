@@ -117,7 +117,7 @@ eingezogen werden.
 
 (1) Kann ein Straf- oder Bußgeldverfahren nicht durchgeführt werden, so kann die Abführung oder Rückerstattung des Mehrerlöses selbständig angeordnet werden, wenn im übrigen die Voraussetzungen des § 8 oder § 9 vorliegen.
 
-(2) Ist eine rechtswidrige Tat nach diesem Gesetz in einem Betrieb begangen worden, so kann die Abführung des Mehrerlöses gegen den Inhaber oder Leiter des Betriebes und, falls der Inhaber eine juristische Person oder eine Personengesellschaft des Handelsrechts ist, auch gegen diese selbständig angeordnet werden, wenn ihnen der Mehrerlös zugeflossen ist.
+(2) Ist eine rechtswidrige Tat nach diesem Gesetz in einem Betrieb begangen worden, so kann die Abführung des Mehrerlöses gegen den Inhaber oder Leiter des Betriebes und, falls der Inhaber eine juristische Person oder eine rechtsfähige Personengesellschaft ist, auch gegen diese selbständig angeordnet werden, wenn ihnen der Mehrerlös zugeflossen ist.
 
 # § 11 – Verfahren
 

@@ -5,9 +5,9 @@
 
 (1) Die Bundesflagge haben alle Kauffahrteischiffe und sonstigen zur Seefahrt bestimmten Schiffe (Seeschiffe) zu führen, deren Eigentümer Deutsche sind und ihren Wohnsitz im Geltungsbereich des Grundgesetzes haben.
 
-(2) Deutschen mit Wohnsitz im Geltungsbereich des Grundgesetzes werden gleichgeachtet Offene Handelsgesellschaften, Kommanditgesellschaften und juristische Personen, die ihren Sitz in diesem Bereich haben, und zwar
+(2) Deutschen mit Wohnsitz im Geltungsbereich des Grundgesetzes werden gleichgeachtet rechtsfähige Personengesellschaften und juristische Personen, die ihren Sitz in diesem Bereich haben, und zwar
 
-a) Offene Handelsgesellschaften und Kommanditgesellschaften, wenn die Mehrheit sowohl der persönlich haftenden als auch der zur Geschäftsführung und Vertretung berechtigten Gesellschafter aus Deutschen besteht und außerdem nach dem Gesellschaftsvertrag die deutschen Gesellschafter die Mehrheit der Stimmen haben,
+a) rechtsfähige Personengesellschaften, wenn die Mehrheit sowohl der persönlich haftenden als auch der zur Geschäftsführung und Vertretung berechtigten Gesellschafter aus Deutschen besteht und außerdem nach dem Gesellschaftsvertrag die deutschen Gesellschafter die Mehrheit der Stimmen haben,
 
 b) juristische Personen, wenn Deutsche im Vorstand oder in der Geschäftsführung die Mehrheit haben.
 

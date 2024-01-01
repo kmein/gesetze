@@ -342,7 +342,7 @@ Die Bezugszeiträume verkürzen sich ferner um den Umfang einer Minderung nach M
 
 (6) Die Übergangsgebührnisse werden in Monatsbeträgen wie die Dienstbezüge gezahlt. Die Zahlung kann auf Antrag höchstens zweimal für insgesamt längstens 24 Monate aufgeschoben oder unterbrochen werden; dies gilt nicht für Monate, in denen Verwendungseinkommen im Sinne des § 53 Absatz 6 Satz 1 bezogen wird. Soweit es der Eingliederung in das zivile Erwerbsleben dient, kann die für die Zahlung von Übergangsgebührnissen zuständige Stelle in begründeten Einzelfällen, insbesondere zur Schaffung oder Verbesserung einer Existenzgrundlage, die Zahlung für den gesamten Anspruchszeitraum oder für mehrere Monate in einer Summe zulassen; für diesen Zeitraum gilt der Anspruch auf Übergangsgebührnisse mit der Zahlung als abgegolten. Beim Tod des Berechtigten ist der noch nicht ausgezahlte Betrag dem überlebenden Ehegatten oder seinen Abkömmlingen weiterzuzahlen. Sind Anspruchsberechtigte nach Satz 4 nicht vorhanden, sind die Übergangsgebührnisse den Eltern weiterzuzahlen. Sind Personen vorhanden, die Anspruch auf Witwen- oder Waisengeld oder Unterhaltsbeitrag nach § 42a haben, sind die Sätze 4 und 5 nicht anzuwenden.
 
-(7) Übergangsgebührnisse stehen für einen Zeitraum nicht zu, für den Versorgungskrankengeld nach § 16 des Bundesversorgungsgesetzes oder nach Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären, gewährt wird. Dieser Zeitraum wird in die Zeiträume nach den Absätzen 2 und 4 nicht eingerechnet.
+(7) Übergangsgebührnisse stehen für einen Zeitraum nicht zu, für den Versorgungskrankengeld nach § 16 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung oder nach Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären, gewährt wird. Dieser Zeitraum wird in die Zeiträume nach den Absätzen 2 und 4 nicht eingerechnet.
 
 # § 11a – Ausgleichsbezüge
 
@@ -1964,13 +1964,13 @@ Satz 1 gilt nicht für die Zeit eines Aufschubs oder einer Unterbrechung der Zah
 
 # § 87 – Dienstzeitversorgung
 
-(1) Das Bundesministerium der Verteidigung führt die Versorgung nach dem Zweiten Teil dieses Gesetzes bei Behörden der Bundeswehrverwaltung durch. Einzelne Aufgaben können bei Behörden im Geschäftsbereich eines anderen Bundesministeriums durchgeführt werden. § 10 Absatz 4 und § 10a bleiben unberührt.
+(1) Das Bundesministerium der Verteidigung führt die Versorgung nach Teil 2 dieses Gesetzes bei Behörden der Bundeswehrverwaltung durch. Einzelne Aufgaben können bei Behörden im Geschäftsbereich eines anderen Bundesministeriums durchgeführt werden. § 10 Absatz 4 und § 10a bleiben unberührt.
 
 (2) Bei Streitigkeiten in Angelegenheiten des Absatzes 1 gelten, soweit es sich nicht um Angelegenheiten des § 41 Absatz 2 handelt, die §§ 126 bis 128 des Bundesbeamtengesetzes entsprechend; bis zur Beendigung des Dienstverhältnisses sind jedoch die Vorschriften der Wehrbeschwerdeordnung über das verwaltungsgerichtliche Vorverfahren (§ 23 der Wehrbeschwerdeordnung) anzuwenden.
 
 # § 88 – Beschädigtenversorgung
 
-(1) Die Versorgung nach dem Dritten Teil wird von Behörden der Bundeswehrverwaltung durchgeführt.
+(1) Die Versorgung nach dem Teil 3 wird von Behörden der Bundeswehrverwaltung durchgeführt.
 
 (2) Die Beendigung des Wehrdienstverhältnisses beeinflusst nicht den Lauf der in § 62 Absatz 2 und 3 des Bundesversorgungsgesetzes genannten Fristen, wenn bei Beendigung des Wehrdienstverhältnisses ein Anspruch auf Ausgleich nach § 85 und danach ein Anspruch auf Versorgung nach § 80 besteht, es sei denn, die Verhältnisse haben sich zugunsten des Wehrdienstbeschädigten wesentlich geändert. § 89 des Bundesversorgungsgesetzes gilt mit der Maßgabe, dass die Zustimmung des Bundesministeriums der Verteidigung im Benehmen mit dem Bundesministerium für Arbeit und Soziales erteilt werden muss.
 
@@ -1978,7 +1978,7 @@ Satz 1 gilt nicht für die Zeit eines Aufschubs oder einer Unterbrechung der Zah
 
 (4) In Angelegenheiten nach den §§ 85 bis 86 und 41 Absatz 2 sind entsprechend anzuwenden
 
-1. das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung,
+1. das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung in der Fassung der Bekanntmachung vom 6. Mai 1976 (BGBl. I S. 1169), das zuletzt durch Artikel 156 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, in der am 31. Dezember 2023 geltenden Fassung,
 
 2. § 36a Absatz 1 bis 3, die §§ 45, 60 bis 62 und 65 bis 67 des Ersten Buches Sozialgesetzbuch sowie
 
@@ -1992,7 +1992,29 @@ In Angelegenheiten nach den §§ 80, 81a bis 83a sind entsprechend anzuwenden
 
 3. das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung, soweit die Versorgung nicht in der Erbringung von Leistungen der Kriegsopferfürsorge nach den §§ 25 bis 27j des Bundesversorgungsgesetzes besteht.
 
-(5) In Angelegenheiten nach Absatz 1, soweit die Versorgung nicht in der Erbringung von Leistungen der Kriegsopferfürsorge nach den §§ 25 bis 27j des Bundesversorgungsgesetzes besteht, und in Angelegenheiten nach § 41 Absatz 2 sind die Vorschriften des Sozialgerichtsgesetzes über das Vorverfahren mit der Maßgabe entsprechend anzuwenden, dass
+(5) In Angelegenheiten nach Teil 3 sind entsprechend anzuwenden:
+
+1. die Ausgleichsrentenverordnung in der Fassung der Bekanntmachung vom 1. Juli 1975 (BGBl. I S. 1769), die zuletzt durch Artikel 38 des Gesetzes vom 20. Dezember 2011 (BGBl. I S. 2854) geändert worden ist, in der am 31. Dezember 2023 geltenden Fassung,
+
+2. die Verordnung über die soziale Kriegsbeschädigten- und Kriegshinterbliebenenfürsorge in der im Bundesgesetzblatt Teil III, Gliederungsnummer 830-2-4, veröffentlichten bereinigten Fassung, die durch Artikel 9 des Gesetzes vom 13. Dezember 2007 (BGBl. I S. 2904) geändert worden ist, in der am 31. Dezember 2023 geltenden Fassung,
+
+3. die Verordnung zur Kriegsopferfürsorge vom 16. Januar 1979 (BGBl. I S. 80), die zuletzt durch Artikel 9 des Gesetzes vom 30. November 2019 (BGBl. I S. 1948) geändert worden ist, in der am 31. Dezember 2023 geltenden Fassung,
+
+4. die Versehrtenleibesübungen-Verordnung vom 29. Juli 1981 (BGBl. I S. 779), die zuletzt durch Artikel 1 der Verordnung vom 15. November 2000 (BGBl. I S. 1572) geändert worden ist, in der am 31. Dezember 2023 geltenden Fassung,
+
+5. die Orthopädieverordnung vom 4. Oktober 1989 (BGBl. I S. 1834), die zuletzt durch Artikel 19 des Gesetzes vom 13. Dezember 2007 (BGBl. I S. 2904) geändert worden ist, in der am 31. Dezember 2023 geltenden Fassung,
+
+6. die Berufsschadensausgleichsverordnung vom 28. Juni 2011 (BGBl. I S. 1273), die durch Artikel 2 der Verordnung vom 23. September 2014 (BGBl. I S. 1533) geändert worden ist, in der am 31. Dezember 2023 geltenden Fassung,
+
+7. das Gesetz zur Einführung des Bundesversorgungsgesetzes im Saarland in der im Bundesgesetzblatt Teil III, Gliederungsnummer 830-3, veröffentlichten bereinigten Fassung in der am 31. Dezember 2023 geltenden Fassung,
+
+8. das Rentenkapitalisierungsgesetz-KOV vom 27. April 1970 (BGBl. I S. 413), das zuletzt durch Artikel 252 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in der am 31. Dezember 2023 geltenden Fassung,
+
+9. die Verordnung über die sachliche Zuständigkeit in der Kriegsopferversorgung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 833-4, veröffentlichten bereinigten Fassung, die zuletzt durch Artikel 1 der Verordnung vom 23. Juni 1988 (BGBl. I S. 911) geändert worden ist, in der am 31. Dezember 2023 geltenden Fassung,
+
+10. die Verordnung zur Durchführung des § 15 des Bundesversorgungsgesetzes vom 31. Januar 1972 (BGBl. I S. 105) in der am 31. Dezember 2023 geltenden Fassung.
+
+(6) In Angelegenheiten nach Absatz 1, soweit die Versorgung nicht in der Erbringung von Leistungen der Kriegsopferfürsorge nach den §§ 25 bis 27j des Bundesversorgungsgesetzes besteht, und in Angelegenheiten nach § 41 Absatz 2 sind die Vorschriften des Sozialgerichtsgesetzes über das Vorverfahren mit der Maßgabe entsprechend anzuwenden, dass
 
 1. es eines Vorverfahrens auch dann bedarf, wenn das Bundesministerium der Verteidigung den Verwaltungsakt erlassen hat;
 
@@ -2000,7 +2022,9 @@ In Angelegenheiten nach den §§ 80, 81a bis 83a sind entsprechend anzuwenden
 
 3. bis zur Beendigung des Wehrdienstverhältnisses die Vorschriften der Wehrbeschwerdeordnung mit der Maßgabe entsprechend gelten, dass die Beschwerde keine aufschiebende Wirkung hat.
 
-(6) Bei Streitigkeiten in Angelegenheiten nach Absatz 1, soweit die Versorgung nicht in der Erbringung von Leistungen der Kriegsopferfürsorge nach den §§ 25 bis 27j des Bundesversorgungsgesetzes besteht, und bei Streitigkeiten in Angelegenheiten nach § 41 Absatz 2 ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit gegeben. Über Klagen von Personen, die als Soldaten dem Bundesnachrichtendienst angehören oder angehört haben, und von ihren Hinterbliebenen entscheidet das Bundessozialgericht im ersten und letzten Rechtszug. In Angelegenheiten nach Absatz 1 und nach § 41 Absatz 2 wird die Bundesrepublik Deutschland durch die Bundesministerin oder den Bundesminister der Verteidigung vertreten. Die Vertretung kann durch eine allgemeine Anordnung anderen Behörden übertragen werden; die Anordnung ist im Bundesgesetzblatt zu veröffentlichen.
+(7) Bei Streitigkeiten in Angelegenheiten nach Absatz 1 und bei Streitigkeiten in Angelegenheiten nach § 41 Absatz 2 ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit gegeben. Über Klagen von Personen, die als Soldaten dem Bundesnachrichtendienst angehören oder angehört haben, und von ihren Hinterbliebenen entscheidet das Bundessozialgericht im ersten und letzten Rechtszug. In Angelegenheiten nach Absatz 1 und nach § 41 Absatz 2 wird die Bundesrepublik Deutschland durch die Bundesministerin oder den Bundesminister der Verteidigung vertreten. Die Vertretung kann durch eine allgemeine Anordnung anderen Behörden übertragen werden; die Anordnung ist im Bundesgesetzblatt zu veröffentlichen.
+
+(8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die in den §§ 14, 15, 31 Absatz 1 und 4, den §§ 32, 33 Absatz 1, den §§ 33a, 35, 36, 40, 41, 46, 47, 51 und 53 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung bestimmten Beträge entsprechend § 56 des Bundesversorgungsgesetzes jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden, zu ändern.
 
 # § 88a – Arbeitslosenbeihilfe
 
@@ -2423,6 +2447,40 @@ Die Zeit einer vor dem 1. Juli 2020 bereits beendeten Verwendung im Dienst einer
 # § 107a – Übergangsregelung zur Minderung der Förderungsdauer
 
 § 5 Absatz 6 Satz 2 und 3 gilt nur für Maßnahmen der militärischen Ausbildung derjenigen Soldaten auf Zeit, die am oder nach dem 1. Oktober 2021 in einem Dienstverhältnis als Soldat auf Zeit stehen. Für Maßnahmen der militärischen Ausbildung der Soldaten auf Zeit, deren Dienstverhältnis vor dem 1. Oktober 2021 endete, gilt § 5 Absatz 6 Satz 2 in der bis zum 30. September 2021 geltenden Fassung.
+
+# § 108 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+(1) Soweit Regelungen dieses Gesetzes die Anwendung des Bundesversorgungsgesetzes bestimmen, sind das Bundesversorgungsgesetz und die Vorschriften anderer Gesetze, die das Bundesversorgungsgesetz für anwendbar erklärt, in ihrer jeweils bis zum 31. Dezember 2023 geltenden Fassung anzuwenden.
+
+(2) Soweit das Soldatenversorgungsgesetz auf die Regelungen des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung verweist, werden die Beträge der folgenden Geldleistungen um 25 Prozent erhöht geleistet:
+
+1. die Grundrente nach § 31 Absatz 1 Satz 1 des Bundesversorgungsgesetzes,
+
+2. die Alterszulage nach § 31 Absatz 1 Satz 2 des Bundesversorgungsgesetzes,
+
+3. die Schwerstbeschädigtenzulage nach § 31 Absatz 4 des Bundesversorgungsgesetzes,
+
+4. die Leistungen nach den §§ 38, 40, 42, 43, 45 und 46 des Bundesversorgungsgesetzes sowie
+
+5. der Pflegeausgleich nach § 40b des Bundesversorgungsgesetzes.
+
+Die Anpassung nach § 56 des Bundesversorgungsgesetzes wird ab dem 1. Januar 2024 auf den erhöhten Betrag durchgeführt.
+
+(3) Das Bundesministerium der Verteidigung hat durch Rechtsverordnung ohne Zustimmung des Bundesrates die in den §§ 14, 15, 31 Absatz 1 und 4, 32, 33 Absatz 1, §§ 33a, 35, 36, 40, 41, 46, 47, 51 und 53 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung bestimmten Beträge jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden, zu ändern. Dabei sind die in § 15 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung genannten Pauschbeträge durch Multiplikation der niedrigsten und der höchsten Bewertungszahl mit dem Multiplikator zu ermitteln. Die sich nach Satz 1 und 2 ergebenden Beträge sind bis 0,49 Euro auf volle Euro abzurunden und ab 0,50 Euro auf volle Euro aufzurunden.
+
+(4) Soweit die Weiterbewilligung der Leistung für Zeiten ab dem 1. Januar 2024 beantragt wird, richtet sich der Einsatz von Einkommen und Vermögen nach dem Bundesversorgungsgesetz und nach der Verordnung zur Kriegsopferfürsorge, jeweils in der am 31. Dezember 2023 geltenden Fassung, mit der folgenden Maßgabe, dass
+
+1. an die Stelle der Einkommensgrenze nach § 25e Absatz 1 in der am 31. Dezember 2023 geltenden Fassung des Bundesversorgungsgesetzes die Einkommensgrenze nach § 107 Absatz 1 des Sozialgesetzbuchs Vierzehntes Buch tritt,
+
+2. an die Stelle des Grundbetrags nach § 27d Absatz 5 Satz 2 Nummer 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung ein Betrag in Höhe des Vierfachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch tritt,
+
+3. an die Stelle des Grundbetrags nach § 27d Absatz 5 Satz 2 Nummer 2 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung ein Betrag in Höhe des Achtfachen der Regelbedarfsstufe 1 tritt,
+
+4. an die Stelle der Einkommensfreibeträge nach der Verordnung zur Kriegsopferfürsorge in der am 31. Dezember 2023 geltenden Fassung die Einkommensfreibeträge der Verordnung nach § 109 des Sozialgesetzbuchs Vierzehntes Buch treten und
+
+5. an die Stelle der Vermögensschonbeträge nach § 25f des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung in Verbindung mit der Verordnung zur Kriegsopferfürsorge in der am 31. Dezember 2023 geltenden Fassung die Vermögensschonbeträge der Verordnung nach § 109 des Sozialgesetzbuchs Vierzehntes Buch treten.
+
+(5) Kapitel 23 des Sozialgesetzbuchs Vierzehntes Buch ist nicht anzuwenden.
 
 # Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 1146)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

@@ -7,7 +7,7 @@ Auf Grund des § 79a der Kostenordnung, der durch Artikel 1 Nr. 7 des Gesetzes v
 
 # § 1 – Gebührenverzeichnis
 
-Für Eintragungen in das Handels-, Partnerschafts- oder Genossenschaftsregister, die Entgegennahme, Prüfung und Aufbewahrung der zum Handels- oder Genossenschaftsregister einzureichenden Unterlagen, die Bereitstellung von Registerdaten und von Dokumenten, die zum Register eingereicht wurden, zum Abruf sowie die Übertragung von Schriftstücken in ein elektronisches Dokument nach § 9 Abs. 2 des Handelsgesetzbuchs werden Gebühren nach dem Gebührenverzeichnis der Anlage zu dieser Verordnung erhoben. Satz 1 gilt nicht für die aus Anlass eines Insolvenzverfahrens von Amts wegen vorzunehmenden Eintragungen und für Löschungen nach § 395 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
+Für Eintragungen in das Handels-, Genossenschafts-, Gesellschafts- oder Partnerschaftsregister, die Entgegennahme, Prüfung und Aufbewahrung der zum Handels- oder Genossenschaftsregister einzureichenden Unterlagen, die Bereitstellung von Registerdaten und von Dokumenten, die zum Register eingereicht wurden, zum Abruf sowie die Übertragung von Schriftstücken in ein elektronisches Dokument nach § 9 Abs. 2 des Handelsgesetzbuchs werden Gebühren nach dem Gebührenverzeichnis der Anlage zu dieser Verordnung erhoben. Satz 1 gilt nicht für die aus Anlass eines Insolvenzverfahrens von Amts wegen vorzunehmenden Eintragungen und für Löschungen nach § 395 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 # § 2 – Allgemeine Vorschriften
 

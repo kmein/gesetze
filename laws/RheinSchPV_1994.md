@@ -1201,7 +1201,7 @@ ab)
 "schnelles Schiff": ein Fahrzeug mit Maschinenantrieb, ausgenommen ein Kleinfahrzeug, das mit mehr als 40 km/h gegenüber Wasser fahren kann (z. B. ein Tragflügelboot, Luftkissenfahrzeug oder Fahrzeug mit mehrfachem Schiffskörper) und wenn dies im Schiffsattest eingetragen ist;
 
 ac)  
-„Inland AIS Gerät“: ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne der Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS genutzt wird;
+„Inland AIS Gerät“ ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne der Bestimmungen von Teil II des ES-RIS genutzt wird;
 
 ad)  
 „LNG-System“:
@@ -1225,7 +1225,7 @@ ah)
 „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2021/1. Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen;
 
 ai)  
-„ES-RIS“ der Europäische Standard für Binnenschifffahrtsinformationsdienste Ausgabe 2021/1. Bei der Anwendung des ES-RIS ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
+„ES-RIS“ der Europäische Standard für Binnenschifffahrtsinformationsdienste Ausgabe 2023/1. Bei der Anwendung des ES-RIS ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
 
 # § 1.02 – Schiffsführer
 
@@ -2885,17 +2885,17 @@ b) wenn die zuständige Behörde eine Ausnahme für Wasserflächen, die von der 
 
 c) für Fahrzeuge der Polizei, wenn die Übermittlung von AIS Daten die Erfüllung polizeilicher Aufgaben gefährden würde.
 
-3. Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen, ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus oder einem vergleichbaren Gerät zur Anzeige elektronischer Binnenschifffahrtskarten, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und dieses zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte nutzen. Das Inland ECDIS Gerät im Informationsmodus muss den Bestimmungen von Teil I „Elektronisches Kartendarstellungs- und Informationssystem für die Binnenschifffahrt“ des ES-RIS entsprechen.
+3. Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen, ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus oder einem vergleichbaren Gerät zur Anzeige elektronischer Binnenschifffahrtskarten, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und dieses zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte nutzen. Das Inland ECDIS Gerät im Informationsmodus muss den Bestimmungen von Teil I des ES-RIS entsprechen.
 
-4. Es müssen mindestens folgende Daten gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS übermittelt werden:
+4. Es müssen mindestens folgende Daten gemäß den Bestimmungen von Teil II des ES-RIS übermittelt werden:
 
 a) User Identifier (Maritime Mobile Service Identity, MMSI);
 
 b) Schiffsname;
 
-c) Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS;
+c) Fahrzeug- oder Verbandstyp gemäß Bestimmungen von Teil II des ES-RIS;
 
-d) einheitliche europäische Schiffsnummer (ENI) oder für Seeschiffe, sofern keine ENI erteilt wurde, die IMO Nummer;
+d) einheitliche europäische Schiffsnummer (ENI), oder für die Seeschiffe, sofern keine ENI erteilt wurde, die IMO Nummer;
 
 e) Länge über alles des Fahrzeugs bzw. Verbandes mit einer Genauigkeit von 0,1 m;
 
@@ -2921,7 +2921,7 @@ a) Länge über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
 b) Breite über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
-c) Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS;
+c) Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II des ES-RIS;
 
 d) Navigationsstatus gemäß Anlage 11;
 
@@ -3924,7 +3924,7 @@ nicht überschreiten.
 
 # § 12.01 – Meldepflicht
 
-1. Die Schiffsführer folgender Fahrzeuge und der Verbände müssen sich vor der Einfahrt in die unter Nummer 3 genannten Strecken elektronisch gemäß den Bestimmungen von Teil IV „Standard für elektronisches Melden in der Binnenschifffahrt“ des ES-RIS melden:
+1. Die Schiffsführer folgender Fahrzeuge und der Verbände müssen sich vor der Einfahrt in die unter Nummer 3 genannten Strecken elektronisch gemäß den Bestimmungen von Teil IV des ES-RIS melden:
 
 a) Fahrzeuge, die Güter an Bord haben, deren Beförderung dem ADN unterliegt;
 

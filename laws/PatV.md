@@ -171,13 +171,13 @@ Die Anmeldung (§ 34 des Patentgesetzes) und die Zusammenfassung (§ 36 des Pate
 
 a) wenn der Anmelder eine natürliche Person ist: Vornamen und Namen oder, falls die Eintragung unter der Firma des Anmelders erfolgen soll, die Firma, wie sie im Handelsregister eingetragen ist, sowie die Anschrift des Wohn- oder Firmensitzes mit Angabe von Straße, Hausnummer, Postleitzahl und Ort,
 
-b) wenn der Anmelder eine juristische Person oder eine Personengesellschaft ist:
+b) wenn der Anmelder eine juristische Person oder eine rechtsfähige Personengesellschaft ist:
 
 aa)  
-Name oder Firma, Rechtsform sowie Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort des Sitzes; die Bezeichnung der Rechtsform kann auf übliche Weise abgekürzt werden; wenn die juristische Person oder Personengesellschaft in einem Register eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;
+Name oder Firma, Rechtsform sowie Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort des Sitzes; die Bezeichnung der Rechtsform kann auf übliche Weise abgekürzt werden; wenn die juristische Person oder rechtsfähige Personengesellschaft in einem Register eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;
 
 bb)  
-bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens eines vertretungsberechtigten Gesellschafters;
+bei einer Gesellschaft bürgerlichen Rechts, die nicht im Gesellschaftsregister eingetragen ist, zusätzlich Name und Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens eines vertretungsberechtigten Gesellschafters;
 
 2. eine kurze und genaue Bezeichnung der Erfindung;
 
@@ -191,7 +191,7 @@ bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und Anschrift mit A
 
 (4) Hat das Deutsche Patent- und Markenamt dem Anmelder eine Kennnummer zugeteilt, so soll diese in der Anmeldung genannt werden. In der Anmeldung können zusätzlich eine von der Anschrift des Anmelders abweichende Postanschrift, eine Postfachanschrift sowie Telefonnummern, Telefaxnummern und E-Mail-Adressen angegeben werden.
 
-(5) Wird die Anmeldung von mehreren Personen oder Personengesellschaften eingereicht, so gelten Absatz 2 Nummer 1 und die Absätze 3 und 4 für alle anmeldenden Personen oder Personengesellschaften.
+(5) Wird die Anmeldung von mehreren Personen oder rechtsfähigen Personengesellschaften eingereicht, so gelten Absatz 2 Nummer 1 und die Absätze 3 und 4 für alle anmeldenden Personen oder Personengesellschaften.
 
 (6) Ist ein Vertreter bestellt, so gelten hinsichtlich der Angaben zum Vertreter Absatz 2 Nummer 1 und die Absätze 3 und 4 Satz 2 entsprechend. Hat das Deutsche Patent- und Markenamt dem Vertreter eine Kennnummer oder die Nummer einer allgemeinen Vollmacht zugeteilt, so soll diese zusätzlich angegeben werden.
 

@@ -367,7 +367,7 @@ Bei einem Vorhaben nach § 1 Absatz 1, das einzeln oder im Zusammenwirken mit an
 
 # § 18 – Beteiligung der Öffentlichkeit
 
-(1) Die zuständige Behörde beteiligt die Öffentlichkeit zu den Umweltauswirkungen des Vorhabens. Der betroffenen Öffentlichkeit wird im Rahmen der Beteiligung Gelegenheit zur Äußerung gegeben. Dabei sollen nach dem Umwelt-Rechtsbehelfsgesetz anerkannte Vereinigungen die zuständige Behörde in einer dem Umweltschutz dienenden Weise unterstützen. Das Beteiligungsverfahren muss den Anforderungen des § 73 Absatz 3 Satz 1 und Absatz 5 bis 7 des Verwaltungsverfahrensgesetzes entsprechen.
+(1) Die zuständige Behörde beteiligt die Öffentlichkeit zu den Umweltauswirkungen des Vorhabens. Der betroffenen Öffentlichkeit wird im Rahmen der Beteiligung Gelegenheit zur Äußerung gegeben. Dabei sollen nach dem Umwelt-Rechtsbehelfsgesetz anerkannte Vereinigungen die zuständige Behörde in einer dem Umweltschutz dienenden Weise unterstützen. Das Beteiligungsverfahren muss den Anforderungen des § 73 Absatz 3 Satz 1 und 2 und Absatz 5 bis 7 des Verwaltungsverfahrensgesetzes entsprechen.
 
 (2) In einem vorgelagerten Verfahren oder in einem Planfeststellungsverfahren über einen Wege- und Gewässerplan mit landschaftspflegerischem Begleitplan nach § 41 des Flurbereinigungsgesetzes kann die zuständige Behörde abweichend von Absatz 1 und abweichend von § 73 Absatz 6 des Verwaltungsverfahrensgesetzes auf die Durchführung eines Erörterungstermins verzichten. Auf eine Benachrichtigung nach § 73 Absatz 5 Satz 3 des Verwaltungsverfahrensgesetzes kann in einem vorgelagerten Verfahren verzichtet werden.
 
@@ -405,7 +405,7 @@ In Verfahren nach § 18 Absatz 2 und § 1 der Atomrechtlichen Verfahrensverordnu
 
 (1) Für die Zugänglichmachung des Inhalts der Bekanntmachung nach § 19 Absatz 1 und der nach § 19 Absatz 2 auszulegenden Unterlagen im Internet richten Bund und Länder zentrale Internetportale ein. Die Zugänglichmachung erfolgt im zentralen Internetportal des Bundes, wenn die Zulassungsbehörde eine Bundesbehörde ist. Für den Aufbau und Betrieb des zentralen Internetportals des Bundes ist das Umweltbundesamt zuständig.
 
-(2) Die zuständige Behörde macht den Inhalt der Bekanntmachung nach § 19 Absatz 1 und die in § 19 Absatz 2 Satz 1 Nummer 1 und 2 genannten Unterlagen über das einschlägige zentrale Internetportal zugänglich. Maßgeblich ist der Inhalt der ausgelegten Unterlagen.
+(2) Die zuständige Behörde macht den Inhalt der Bekanntmachung nach § 19 Absatz 1 und die in § 19 Absatz 2 Satz 1 Nummer 1 und 2 genannten Unterlagen über das einschlägige zentrale Internetportal zugänglich.
 
 (3) Der Inhalt der zentralen Internetportale kann auch für die Zwecke der Berichterstattung nach § 73 verwendet werden.
 
@@ -788,7 +788,7 @@ b) welcher deutschen Behörde in welcher Form und innerhalb welcher Frist die be
 
 c) dass im Verfahren zur Beteiligung der Öffentlichkeit mit Ablauf der festgelegten Frist alle Äußerungen für das Verfahren über die Zulässigkeit des Vorhabens ausgeschlossen sind, die nicht auf besonderen privatrechtlichen Titeln beruhen.
 
-(3) Die zuständige deutsche Behörde kann der betroffenen Öffentlichkeit des anderen Staates die elektronische Übermittlung von Äußerungen auch abweichend von den Voraussetzungen des § 3a Absatz 2 des Verwaltungsverfahrensgesetzes gestatten, sofern im Verhältnis zum anderen Staat für die elektronische Übermittlung die Voraussetzungen der Grundsätze von Gegenseitigkeit und Gleichwertigkeit erfüllt sind.
+(3) Die zuständige deutsche Behörde kann der betroffenen Öffentlichkeit des anderen Staates die elektronische Übermittlung von Äußerungen auch abweichend von den Voraussetzungen des § 3a Absatz 2 und 3 des Verwaltungsverfahrensgesetzes gestatten, sofern im Verhältnis zum anderen Staat für die elektronische Übermittlung die Voraussetzungen der Grundsätze von Gegenseitigkeit und Gleichwertigkeit erfüllt sind.
 
 (4) Die Öffentlichkeit des anderen Staates kann ihre Äußerungen in einer ihrer Amtssprachen übermitteln.
 

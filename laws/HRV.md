@@ -95,7 +95,7 @@ Die Eintragungen sind deutlich, klar verständlich sowie in der Regel ohne Verwe
 
 (2) Wenn ein Amtsgericht das Register für mehrere Amtsgerichtsbezirke führt, können auf Anordnung der Landesjustizverwaltung die fortlaufenden Nummern für einzelne Amtsgerichtsbezirke je gesondert geführt werden. In diesem Fall sind die fortlaufenden Nummern der jeweiligen Amtsgerichtsbezirke durch den Zusatz eines Ortskennzeichens unterscheidbar zu halten. Nähere Anordnungen hierüber trifft die Landesjustizverwaltung.
 
-(3) Wird die Firma geändert, so ist dies auf demselben Registerblatt einzutragen. Bei einer Umwandlung ist der übernehmende, neu gegründete Rechtsträger oder Rechtsträger neuer Rechtsform stets auf ein neues Registerblatt einzutragen.
+(3) Wird die Firma geändert, so ist dies auf demselben Registerblatt einzutragen. Bei einer Umwandlung ist der übernehmende, neu gegründete Rechtsträger oder Rechtsträger neuer Rechtsform stets auf ein neues Registerblatt einzutragen. Bei einem Statuswechsel gilt Satz 2 entsprechend für die Gesellschaft neuer Rechtsform.
 
 (4) Die zur Offenlegung in einer Amtssprache der Europäischen Union übermittelten Übersetzungen von Eintragungen (§ 11 des Handelsgesetzbuchs) sind dem Registerblatt und der jeweiligen Eintragung zuzuordnen.
 
@@ -366,12 +366,15 @@ ee)
 Eintragungen nach dem Umwandlungsgesetz;
 
 ff)  
-im Fall des Erwerbs eines Handelsgeschäfts bei Fortführung unter der bisherigen Firma eine von § 25 Abs. 1 des Handelsgesetzbuchs abweichende Vereinbarung;
+Statuswechsel;
 
 gg)  
+im Fall des Erwerbs eines Handelsgeschäfts bei Fortführung unter der bisherigen Firma eine von § 25 Abs. 1 des Handelsgesetzbuchs abweichende Vereinbarung;
+
+hh)  
 beim Eintritt eines persönlich haftenden Gesellschafters oder eines Kommanditisten in das Geschäft eines Einzelkaufmanns eine von § 28 Abs. 1 des Handelsgesetzbuchs abweichende Vereinbarung;
 
-c) unter Buchstabe c Familienname, Vorname, Geburtsdatum und Wohnort oder gegebenenfalls Firma, Rechtsform, Sitz oder Niederlassung und der Betrag der Einlage jedes Kommanditisten einer Kommanditgesellschaft sowie bei der Europäischen wirtschaftlichen Interessenvereinigung die Mitglieder mit Familiennamen, Vornamen, Geburtsdatum und Wohnort oder gegebenenfalls mit Firma, Rechtsform, Sitz oder Niederlassung
+c) unter Buchstabe c Familienname, Vorname, Geburtsdatum und Wohnort oder gegebenenfalls Firma, Rechtsform, Sitz oder Niederlassung und Haftsumme jedes Kommanditisten einer Kommanditgesellschaft sowie bei der Europäischen wirtschaftlichen Interessenvereinigung die Mitglieder mit Familiennamen, Vornamen, Geburtsdatum und Wohnort oder gegebenenfalls mit Firma, Rechtsform, Sitz oder Niederlassung
 
 und die sich jeweils darauf beziehenden Änderungen.
 
