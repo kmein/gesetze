@@ -39,9 +39,9 @@ bewegliche Sachen, auch flüssige und gasförmige, derer sich der Besitzer entle
 
 2. anderen natürlichen Personen mit Wohnsitz oder gewöhnlichem Aufenthalt im Gebiet der Bundesrepublik Deutschland,
 
-3. juristischen Personen oder nichtrechtsfähigen Personenvereinigungen mit Sitz im Gebiet der Bundesrepublik Deutschland,
+3. juristischen Personen oder sonstigen Personenvereinigungen mit Sitz im Gebiet der Bundesrepublik Deutschland,
 
-4. ausländischen juristischen Personen oder nichtrechtsfähigen Personenvereinigungen
+4. ausländischen juristischen Personen oder sonstigen Personenvereinigungen
 
 durchgeführt wird, bedarf einer Genehmigung. Die Genehmigung ist beim Umweltbundesamt schriftlich oder elektronisch zu beantragen. Ausländische juristische Personen müssen eine Person im Sinne der Nummern 1 bis 3 benennen, die als Antragsteller im Sinne dieses Gesetzes gilt. Für eine Gruppe von Personen, die gemeinsam eine Tätigkeit durchführen wollen, kann dem Antragsteller als Bevollmächtigtem nach den §§ 14 bis 21 des Verwaltungsverfahrensgesetzes eine alle Teilnehmer erfassende Genehmigung erteilt werden. Für gleichartige Tätigkeiten, die regelmäßig in der Antarktis durchgeführt werden, kann eine Genehmigung für einen bestimmten Zeitraum, höchstens aber für ein Jahr erteilt werden.
 

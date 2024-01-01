@@ -95,7 +95,7 @@ Die Förderung des freiwilligen sozialen Jahres und des freiwilligen ökologisch
 
 7. § 67 Abs. 3 Satz 1 Nr. 2 Buchstabe b und c, § 82 Abs. 2 Satz 2 des Siebten Buches Sozialgesetzbuch (Gesetzliche Unfallversicherung),
 
-8. § 33b Abs. 4 Satz 2 Nr. 2 Buchstabe d, § 45 Abs. 3 Satz 1 Buchstabe c des Bundesversorgungsgesetzes (Kinderzuschlag und Waisenrente bei Kriegsopferversorgung),
+8. § 87 Absatz 4 Nummer 2 des Vierzehnten Buches Sozialgesetzbuch,
 
 9. § 2 Abs. 2 Satz 1 Nr. 2 Buchstabe b und d des Bundeskindergeldgesetzes (Kindergeld),
 
@@ -175,6 +175,6 @@ Der Träger des Jugendfreiwilligendienstes darf personenbezogene Daten nach § 1
 
 Für eine Tätigkeit im Rahmen eines Jugendfreiwilligendienstes im Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen und das Bundesurlaubsgesetz entsprechend anzuwenden. Für Schäden bei der Ausübung ihrer Tätigkeit haften Freiwillige nur wie Arbeitnehmerinnen und Arbeitnehmer.
 
-# § 14 – (weggefallen)
+# § 14 – Übergangsregelung
 
-# § 15 – (weggefallen)
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gilt § 9 Nummer 8 in der bis zum 31. Dezember 2023 geltenden Fassung weiter.

@@ -71,19 +71,31 @@ b) eine juristische Person oder eine Vereinigung betreffen, die Behörde, in der
 
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der Empfänger hierfür einen Zugang eröffnet.
 
-(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur versehen ist. Die Signierung mit einem Pseudonym, das die Identifizierung der Person des Signaturschlüsselinhabers nicht unmittelbar durch die Behörde ermöglicht, ist nicht zulässig. Die Schriftform kann auch ersetzt werden
+(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur versehen ist. Die Signierung mit einem Pseudonym, das die Identifizierung der Person des Signaturschlüsselinhabers nicht unmittelbar durch die Behörde ermöglicht, ist nicht zulässig.
 
-1. durch unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird;
+(3) Die Schriftform kann auch ersetzt werden
 
-2. bei Anträgen und Anzeigen durch Versendung eines elektronischen Dokuments an die Behörde mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes;
+1. durch unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird; bei einer Eingabe über öffentlich zugängliche Netze muss ein elektronischer Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen;
 
-3. bei elektronischen Verwaltungsakten oder sonstigen elektronischen Dokumenten der Behörden durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Bestätigung des akkreditierten Diensteanbieters die erlassende Behörde als Nutzer des De-Mail-Kontos erkennen lässt;
+2. durch Übermittlung einer von dem Erklärenden elektronisch signierten Erklärung an die Behörde
 
-4. durch sonstige sichere Verfahren, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, welche den Datenübermittler (Absender der Daten) authentifizieren und die Integrität des elektronisch übermittelten Datensatzes sowie die Barrierefreiheit gewährleisten; der IT-Planungsrat gibt Empfehlungen zu geeigneten Verfahren ab.
+a) aus einem besonderen elektronischen Anwaltspostfach nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung oder aus einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach;
 
-In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich zugängliche Netze ein elektronischer Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen.
+b) aus einem elektronischen Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts, das nach Durchführung eines Identifizierungsverfahrens nach den Regelungen der auf Grund des § 130a Absatz 2 Satz 2 der Zivilprozessordnung erlassenen Rechtsverordnung eingerichtet wurde;
 
-(3) Ist ein der Behörde übermitteltes elektronisches Dokument für sie zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter Angabe der für sie geltenden technischen Rahmenbedingungen unverzüglich mit. Macht ein Empfänger geltend, er könne das von der Behörde übermittelte elektronische Dokument nicht bearbeiten, hat sie es ihm erneut in einem geeigneten elektronischen Format oder als Schriftstück zu übermitteln.
+c) aus einem elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung, das nach Durchführung eines Identifizierungsverfahrens nach den Regelungen der auf Grund des § 130a Absatz 2 Satz 2 der Zivilprozessordnung erlassenen Rechtsverordnung eingerichtet wurde;
+
+d) mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes;
+
+3. bei elektronischen Verwaltungsakten oder sonstigen elektronischen Dokumenten der Behörde,
+
+a) indem diese mit dem qualifizierten elektronischen Siegel der Behörde versehen werden;
+
+b) durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Bestätigung des akkreditierten Diensteanbieters die erlassende Behörde als Nutzer des De-Mail-Kontos erkennen lässt.
+
+(4) Ist ein der Behörde übermitteltes elektronisches Dokument für sie zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter Angabe der für sie geltenden technischen Rahmenbedingungen unverzüglich mit. Macht ein Empfänger geltend, er könne das von der Behörde übermittelte elektronische Dokument nicht bearbeiten, hat sie es ihm erneut in einem geeigneten elektronischen Format oder als Schriftstück zu übermitteln.
+
+(5) Ermöglicht die Behörde die unmittelbare Abgabe einer Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird, so hat sie dem Erklärenden vor Abgabe der Erklärung Gelegenheit zu geben, die gesamte Erklärung auf Vollständigkeit und Richtigkeit zu prüfen. Nach der Abgabe ist dem Erklärenden eine Kopie der Erklärung zur Verfügung zu stellen.
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
@@ -427,14 +439,49 @@ Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Ver
 
 (5) Die Niederschrift hat ferner die Namen der anwesenden Personen sowie den Ort und den Tag der Niederschrift zu enthalten. Die Niederschrift ist demjenigen, der die eidesstattliche Versicherung abgibt, zur Genehmigung vorzulesen oder auf Verlangen zur Durchsicht vorzulegen. Die erteilte Genehmigung ist zu vermerken und von dem Versichernden zu unterschreiben. Die Niederschrift ist sodann von demjenigen, der die Versicherung an Eides statt aufgenommen hat, sowie von dem Schriftführer zu unterschreiben.
 
-# § 27a – Öffentliche Bekanntmachung im Internet
+# § 27a – Bekanntmachung im Internet
 
-(1) Ist durch Rechtsvorschrift eine öffentliche oder ortsübliche Bekanntmachung angeordnet, soll die Behörde deren Inhalt zusätzlich im Internet veröffentlichen. Dies wird dadurch bewirkt, dass der Inhalt der Bekanntmachung auf einer Internetseite der Behörde oder ihres Verwaltungsträgers zugänglich gemacht wird. Bezieht sich die Bekanntmachung auf zur Einsicht auszulegende Unterlagen, sollen auch diese über das Internet zugänglich gemacht werden. Soweit durch Rechtsvorschrift nichts anderes geregelt ist, ist der Inhalt der zur Einsicht ausgelegten Unterlagen maßgeblich.
+(1) Ist durch Rechtsvorschrift eine öffentliche oder ortsübliche Bekanntmachung angeordnet, so ist diese dadurch zu bewirken, dass der Inhalt der Bekanntmachung auch auf einer Internetseite der Behörde oder ihres Verwaltungsträgers zugänglich gemacht wird. Soweit durch Rechtsvorschrift nichts anderes bestimmt ist, ist für die Einhaltung einer vorgeschriebenen Frist die Zugänglichmachung im Internet nach Satz 1 maßgeblich.
 
-(2) In der öffentlichen oder ortsüblichen Bekanntmachung ist die Internetseite anzugeben.
+(2) Absatz 1 gilt nicht, wenn eine Zugänglichmachung im Internet, insbesondere aus technischen Gründen, nicht möglich ist.
 
-(+++ § 27a Abs. 1 Satz 2: zur Geltung vgl. § 2 Abs. 2 u. § 3 Abs. 1 Satz 2 PlanSiG +++)  
-(+++ § 27a Abs. 2: zur Geltung vgl. § 2 Abs. 2 PlanSiG +++)
+# § 27b – Zugänglichmachung auszulegender Dokumente
+
+(1) Ist durch Rechtsvorschrift die Auslegung von Dokumenten zur Einsicht angeordnet, so ist sie dadurch zu bewirken, dass die Dokumente zugänglich gemacht werden
+
+1. auf einer Internetseite der für die Auslegung zuständigen Behörde oder ihres Verwaltungsträgers und
+
+2. auf mindestens eine andere Weise.
+
+Ist eine Veröffentlichung der auszulegenden Unterlagen im Internet, insbesondere aus technischen Gründen, nicht möglich, so wird die angeordnete Auslegung zur Einsicht durch die andere Zugangsmöglichkeit nach Satz 1 Nummer 2 bewirkt.
+
+(2) In der Bekanntmachung der Auslegung sind anzugeben
+
+1. der Zeitraum der Auslegung,
+
+2. die Internetseite, auf der die Zugänglichmachung erfolgt, sowie
+
+3. Art und Ort der anderen Zugangsmöglichkeit.
+
+(3) Die Behörde kann verlangen, dass die Dokumente, die für die Auslegung einzureichen sind, in einem verkehrsüblichen elektronischen Format eingereicht werden.
+
+(4) Sind in den auszulegenden Dokumenten Geheimnisse nach § 30 enthalten, so ist derjenige, der diese Dokumente einreichen muss, verpflichtet,
+
+1. diese Geheimnisse zu kennzeichnen und
+
+2. der Behörde zum Zwecke der Auslegung zusätzlich eine Darstellung vorzulegen, die den Inhalt der betreffenden Teile der Dokumente ohne Preisgabe der Geheimnisse beschreibt.
+
+# § 27c – Erörterung mit Verfahrensbeteiligten oder der Öffentlichkeit
+
+(1) Ist durch Rechtsvorschrift eine Erörterung, insbesondere ein Erörterungstermin, eine mündliche Verhandlung oder eine Antragskonferenz angeordnet, kann sie ersetzt werden
+
+1. durch eine Onlinekonsultation oder
+
+2. mit Einwilligung der zur Teilnahme Berechtigten durch eine Video- oder Telefonkonferenz.
+
+(2) Bei einer Onlinekonsultation ist den zur Teilnahme Berechtigten innerhalb einer vorher bekannt zu machenden Frist Gelegenheit zu geben, sich schriftlich oder elektronisch zu äußern. Die Frist soll mindestens eine Woche betragen. Werden für die Onlinekonsultation Informationen zur Verfügung gestellt, so gilt § 27b Absatz 4 entsprechend.
+
+(3) Sonstige Regelungen, die die Durchführung einer Erörterung nach Absatz 1 betreffen, bleiben unberührt.
 
 # § 28 – Anhörung Beteiligter
 
@@ -522,21 +569,21 @@ Die Beteiligten haben Anspruch darauf, dass ihre Geheimnisse, insbesondere die z
 
 a) die zur Abbildung eines Schriftstücks hergestellt wurden,
 
-b) die ein anderes technisches Format als das mit einer qualifizierten elektronischen Signatur verbundene Ausgangsdokument erhalten haben.
+b) die ein anderes technisches Format als das Ausgangsdokument, das verbunden ist mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel einer Behörde, erhalten haben.
 
 (5) Der Beglaubigungsvermerk muss zusätzlich zu den Angaben nach Absatz 3 Satz 2 bei der Beglaubigung
 
-1. des Ausdrucks eines elektronischen Dokuments, das mit einer qualifizierten elektronischen Signatur verbunden ist, die Feststellungen enthalten,
+1. des Ausdrucks eines elektronischen Dokuments, das mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel einer Behörde verbunden ist, die Feststellungen enthalten,
 
-a) wen die Signaturprüfung als Inhaber der Signatur ausweist,
+a) wen die Signaturprüfung als Inhaber der Signatur ausweist oder welche Behörde die Signaturprüfung als Inhaber des Siegels ausweist,
 
-b) welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur ausweist und
+b) welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur oder des Siegels ausweist und
 
-c) welche Zertifikate mit welchen Daten dieser Signatur zugrunde lagen;
+c) welche Zertifikate mit welchen Daten dieser Signatur oder diesem Siegel zu Grunde lagen;
 
-2. eines elektronischen Dokuments den Namen des für die Beglaubigung zuständigen Bediensteten und die Bezeichnung der Behörde, die die Beglaubigung vornimmt, enthalten; die Unterschrift des für die Beglaubigung zuständigen Bediensteten und das Dienstsiegel nach Absatz 3 Satz 2 Nr. 4 werden durch eine dauerhaft überprüfbare qualifizierte elektronische Signatur ersetzt.
+2. eines elektronischen Dokuments den Namen des für die Beglaubigung zuständigen Bediensteten und die Bezeichnung der Behörde, die die Beglaubigung vornimmt, enthalten; die Unterschrift des für die Beglaubigung zuständigen Bediensteten und das Dienstsiegel nach Absatz 3 Satz 2 Nummer 4 werden durch eine dauerhaft überprüfbare qualifizierte elektronische Signatur oder durch ein dauerhaft überprüfbares qualifiziertes elektronisches Siegel der Behörde ersetzt.
 
-Wird ein elektronisches Dokument, das ein anderes technisches Format als das mit einer qualifizierten elektronischen Signatur verbundene Ausgangsdokument erhalten hat, nach Satz 1 Nr. 2 beglaubigt, muss der Beglaubigungsvermerk zusätzlich die Feststellungen nach Satz 1 Nr. 1 für das Ausgangsdokument enthalten.
+Wird ein elektronisches Dokument, das ein anderes technisches Format erhalten hat als das Ausgangsdokument, das mit einer qualifizierten elektronischen Signatur oder mit einem qualifizierten elektronischen Siegel einer Behörde verbunden ist, nach Satz 1 Nummer 2 beglaubigt, so muss der Beglaubigungsvermerk zusätzlich die Feststellungen nach Satz 1 Nummer 1 für das Ausgangsdokument enthalten.
 
 (6) Die nach Absatz 4 hergestellten Dokumente stehen, sofern sie beglaubigt sind, beglaubigten Abschriften gleich.
 
@@ -598,11 +645,11 @@ oder verbunden werden mit
 
 (1) Ein Verwaltungsakt muss inhaltlich hinreichend bestimmt sein.
 
-(2) Ein Verwaltungsakt kann schriftlich, elektronisch, mündlich oder in anderer Weise erlassen werden. Ein mündlicher Verwaltungsakt ist schriftlich oder elektronisch zu bestätigen, wenn hieran ein berechtigtes Interesse besteht und der Betroffene dies unverzüglich verlangt. Ein elektronischer Verwaltungsakt ist unter denselben Voraussetzungen schriftlich zu bestätigen; § 3a Abs. 2 findet insoweit keine Anwendung.
+(2) Ein Verwaltungsakt kann schriftlich, elektronisch, mündlich oder in anderer Weise erlassen werden. Ein mündlicher Verwaltungsakt ist schriftlich oder elektronisch zu bestätigen, wenn hieran ein berechtigtes Interesse besteht und der Betroffene dies unverzüglich verlangt. Ein elektronischer Verwaltungsakt ist unter denselben Voraussetzungen schriftlich zu bestätigen; § 3a Absatz 2 und 3 findet insoweit keine Anwendung.
 
-(3) Ein schriftlicher oder elektronischer Verwaltungsakt muss die erlassende Behörde erkennen lassen und die Unterschrift oder die Namenswiedergabe des Behördenleiters, seines Vertreters oder seines Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch Rechtsvorschrift die Schriftform angeordnet ist, die elektronische Form verwendet, muss auch das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die erlassende Behörde erkennen lassen. Im Fall des § 3a Absatz 2 Satz 4 Nummer 3 muss die Bestätigung nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende Behörde als Nutzer des De-Mail-Kontos erkennen lassen.
+(3) Ein schriftlicher oder elektronischer Verwaltungsakt muss die erlassende Behörde erkennen lassen und die Unterschrift oder die Namenswiedergabe des Behördenleiters, seines Vertreters oder seines Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch Rechtsvorschrift die Schriftform angeordnet ist, die elektronische Form verwendet, muss auch das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die erlassende Behörde erkennen lassen. Im Fall des § 3a Absatz 3 Nummer 3 Buchstabe b muss die Bestätigung nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende Behörde als Nutzer des De-Mail-Kontos erkennen lassen.
 
-(4) Für einen Verwaltungsakt kann für die nach § 3a Abs. 2 erforderliche Signatur durch Rechtsvorschrift die dauerhafte Überprüfbarkeit vorgeschrieben werden.
+(4) Für einen Verwaltungsakt kann für die nach § 3a Absatz 2 erforderliche Signatur oder für das nach § 3a Absatz 3 Nummer 3 Buchstabe a erforderliche Siegel durch Rechtsvorschrift die dauerhafte Überprüfbarkeit vorgeschrieben werden.
 
 (5) Bei einem schriftlichen Verwaltungsakt, der mit Hilfe automatischer Einrichtungen erlassen wird, können abweichend von Absatz 3 Unterschrift und Namenswiedergabe fehlen. Zur Inhaltsangabe können Schlüsselzeichen verwendet werden, wenn derjenige, für den der Verwaltungsakt bestimmt ist oder der von ihm betroffen wird, auf Grund der dazu gegebenen Erläuterungen den Inhalt des Verwaltungsaktes eindeutig erkennen kann.
 
@@ -1023,15 +1070,15 @@ Das Verfahren nach diesem Abschnitt wird auf Verlangen in elektronischer Form ab
 
 (1) Der Träger des Vorhabens hat den Plan der Anhörungsbehörde zur Durchführung des Anhörungsverfahrens einzureichen. Der Plan besteht aus den Zeichnungen und Erläuterungen, die das Vorhaben, seinen Anlass und die von dem Vorhaben betroffenen Grundstücke und Anlagen erkennen lassen.
 
-(2) Innerhalb eines Monats nach Zugang des vollständigen Plans fordert die Anhörungsbehörde die Behörden, deren Aufgabenbereich durch das Vorhaben berührt wird, zur Stellungnahme auf und veranlasst, dass der Plan in den Gemeinden, in denen sich das Vorhaben voraussichtlich auswirken wird, ausgelegt wird.
+(2) Innerhalb eines Monats nach Zugang des vollständigen Plans fordert die Anhörungsbehörde die Behörden, deren Aufgabenbereich durch das Vorhaben berührt wird, zur Stellungnahme auf und veranlasst, dass der Plan in den Gemeinden, in denen sich das Vorhaben voraussichtlich auswirken wird, nach § 27b ausgelegt wird.
 
-(3) Die Gemeinden nach Absatz 2 haben den Plan innerhalb von drei Wochen nach Zugang für die Dauer eines Monats zur Einsicht auszulegen. Auf eine Auslegung kann verzichtet werden, wenn der Kreis der Betroffenen und die Vereinigungen nach Absatz 4 Satz 5 bekannt sind und ihnen innerhalb angemessener Frist Gelegenheit gegeben wird, den Plan einzusehen.
+(3) Die Gemeinden nach Absatz 2 haben den Plan innerhalb von drei Wochen nach Zugang für die Dauer eines Monats zur Einsicht auszulegen. Die Anhörungsbehörde bestimmt, in welcher der Gemeinden nach Absatz 2 eine andere Zugangsmöglichkeit nach § 27b Absatz 1 Satz 1 Nummer 2 zur Verfügung zu stellen ist und legt im Benehmen mit der jeweiligen Gemeinde die Zugangsmöglichkeit fest. Auf eine Auslegung kann verzichtet werden, wenn der Kreis der Betroffenen und die Vereinigungen nach Absatz 4 Satz 5 bekannt sind und ihnen innerhalb angemessener Frist Gelegenheit gegeben wird, den Plan einzusehen.
 
 (3a) Die Behörden nach Absatz 2 haben ihre Stellungnahme innerhalb einer von der Anhörungsbehörde zu setzenden Frist abzugeben, die drei Monate nicht überschreiten darf. Stellungnahmen, die nach Ablauf der Frist nach Satz 1 eingehen, sind zu berücksichtigen, wenn der Planfeststellungsbehörde die vorgebrachten Belange bekannt sind oder hätten bekannt sein müssen oder für die Rechtmäßigkeit der Entscheidung von Bedeutung sind; im Übrigen können sie berücksichtigt werden.
 
-(4) Jeder, dessen Belange durch das Vorhaben berührt werden, kann bis zwei Wochen nach Ablauf der Auslegungsfrist schriftlich oder zur Niederschrift bei der Anhörungsbehörde oder bei der Gemeinde Einwendungen gegen den Plan erheben. Im Falle des Absatzes 3 Satz 2 bestimmt die Anhörungsbehörde die Einwendungsfrist. Mit Ablauf der Einwendungsfrist sind alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen. Hierauf ist in der Bekanntmachung der Auslegung oder bei der Bekanntgabe der Einwendungsfrist hinzuweisen. Vereinigungen, die auf Grund einer Anerkennung nach anderen Rechtsvorschriften befugt sind, Rechtsbehelfe nach der Verwaltungsgerichtsordnung gegen die Entscheidung nach § 74 einzulegen, können innerhalb der Frist nach Satz 1 Stellungnahmen zu dem Plan abgeben. Die Sätze 2 bis 4 gelten entsprechend.
+(4) Jeder, dessen Belange durch das Vorhaben berührt werden, kann bis zwei Wochen nach Ablauf der Auslegungsfrist schriftlich oder zur Niederschrift bei der Anhörungsbehörde oder bei einer Gemeinde nach Absatz 2 Einwendungen gegen den Plan erheben. Im Falle des Absatzes 3 Satz 3 bestimmt die Anhörungsbehörde die Einwendungsfrist. Mit Ablauf der Einwendungsfrist sind alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen. Hierauf ist in der Bekanntmachung der Auslegung oder bei der Bekanntgabe der Einwendungsfrist hinzuweisen. Vereinigungen, die auf Grund einer Anerkennung nach anderen Rechtsvorschriften befugt sind, Rechtsbehelfe nach der Verwaltungsgerichtsordnung gegen die Entscheidung nach § 74 einzulegen, können innerhalb der Frist nach Satz 1 Stellungnahmen zu dem Plan abgeben. Die Sätze 2 bis 4 gelten entsprechend.
 
-(5) Die Gemeinden, in denen der Plan auszulegen ist, haben die Auslegung vorher ortsüblich bekannt zu machen. In der Bekanntmachung ist darauf hinzuweisen,
+(5) Die Gemeinden nach Absatz 2, in denen der Plan auszulegen ist, haben die Auslegung vorher ortsüblich bekannt zu machen. In der Bekanntmachung ist darauf hinzuweisen,
 
 1. wo und in welchem Zeitraum der Plan zur Einsicht ausgelegt ist;
 
@@ -1067,7 +1114,7 @@ Nicht ortsansässige Betroffene, deren Person und Aufenthalt bekannt sind oder s
 
 (3) Soweit eine abschließende Entscheidung noch nicht möglich ist, ist diese im Planfeststellungsbeschluss vorzubehalten; dem Träger des Vorhabens ist dabei aufzugeben, noch fehlende oder von der Planfeststellungsbehörde bestimmte Unterlagen rechtzeitig vorzulegen.
 
-(4) Der Planfeststellungsbeschluss ist dem Träger des Vorhabens, denjenigen, über deren Einwendungen entschieden worden ist, und den Vereinigungen, über deren Stellungnahmen entschieden worden ist, zuzustellen. Eine Ausfertigung des Beschlusses ist mit einer Rechtsbehelfsbelehrung und einer Ausfertigung des festgestellten Plans in den Gemeinden zwei Wochen zur Einsicht auszulegen; der Ort und die Zeit der Auslegung sind ortsüblich bekannt zu machen. Mit dem Ende der Auslegungsfrist gilt der Beschluss gegenüber den übrigen Betroffenen als zugestellt; darauf ist in der Bekanntmachung hinzuweisen.
+(4) Der Planfeststellungsbeschluss ist dem Träger des Vorhabens, denjenigen, über deren Einwendungen entschieden worden ist, und den Vereinigungen, über deren Stellungnahmen entschieden worden ist, zuzustellen. Eine Ausfertigung des Beschlusses ist mit einer Rechtsbehelfsbelehrung und einer Ausfertigung des festgestellten Plans in den Gemeinden zwei Wochen zur Einsicht auszulegen; die Auslegung ist ortsüblich bekannt zu machen. Die Planfeststellungsbehörde bestimmt, in welcher Gemeinde eine andere Zugangsmöglichkeit nach § 27b Absatz 1 Satz 1 Nummer 2 zur Verfügung zu stellen ist und legt im Benehmen mit der jeweiligen Gemeinde die Zugangsmöglichkeit fest. Mit dem Ende der Auslegungsfrist gilt der Beschluss gegenüber den übrigen Betroffenen als zugestellt; darauf ist in der Bekanntmachung hinzuweisen.
 
 (5) Sind außer an den Träger des Vorhabens mehr als 50 Zustellungen nach Absatz 4 vorzunehmen, so können diese Zustellungen durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der verfügende Teil des Planfeststellungsbeschlusses, die Rechtsbehelfsbelehrung und ein Hinweis auf die Auslegung nach Absatz 4 Satz 2 im amtlichen Veröffentlichungsblatt der zuständigen Behörde und außerdem in örtlichen Tageszeitungen bekannt gemacht werden, die in dem Bereich verbreitet sind, in dem sich das Vorhaben voraussichtlich auswirken wird; auf Auflagen ist hinzuweisen. Mit dem Ende der Auslegungsfrist gilt der Beschluss den Betroffenen und denjenigen gegenüber, die Einwendungen erhoben haben, als zugestellt; hierauf ist in der Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung kann der Planfeststellungsbeschluss bis zum Ablauf der Rechtsbehelfsfrist von den Betroffenen und von denjenigen, die Einwendungen erhoben haben, schriftlich oder elektronisch angefordert werden; hierauf ist in der Bekanntmachung gleichfalls hinzuweisen.
 
@@ -1274,6 +1321,10 @@ Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt, die örtli
 # § 102 – Übergangsvorschrift zu § 53
 
 Artikel 229 § 6 Abs. 1 bis 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche gilt entsprechend bei der Anwendung des § 53 in der seit dem 1. Januar 2002 geltenden Fassung.
+
+# § 102a – Übergangsregelung für die Durchführung von Verwaltungsverfahren
+
+Auf alle vor dem 1. Januar 2024 begonnenen, aber nicht abgeschlossenen Verwaltungsverfahren sind dieses Gesetz in der bis zum 31. Dezember 2023 geltenden Fassung und das Planungssicherstellungsgesetz weiter anzuwenden. Dies gilt nicht für § 3a.
 
 # § 103
 

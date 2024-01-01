@@ -119,38 +119,6 @@ Die Verkürzung beginnt mit Beginn des Monats der Antragstellung, sofern die Vor
 
 (5) Die durchschnittliche wöchentliche Arbeitszeit darf in einem Zeitraum von zwölf Monaten einschließlich der geleisteten Mehrarbeit 48 Stunden nicht überschreiten.
 
-# § 5a – Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten als fliegende Besatzung
-
-(1) Für Soldatinnen und Soldaten, die als fliegende Besatzung Tätigkeiten zur Überwachung des nationalen Luftraums oder im maritimen Such- und Rettungsdienst der Streitkräfte ausüben, darf bis zum 31. Dezember 2023 abweichend von § 5 Absatz 5 die durchschnittliche wöchentliche Arbeitszeit in einem Zeitraum von zwölf Monaten 54 Stunden nicht überschreiten. Die betroffenen Soldatinnen und Soldaten sind über die für sie geltende höchstzulässige durchschnittliche wöchentliche Arbeitszeit zu unterrichten.
-
-(2) Für Soldatinnen und Soldaten
-
-1. dürfen die in Absatz 1 Satz 1 genannten Tätigkeiten
-
-a) zusammenhängend längstens für 168 Stunden und
-
-b) an insgesamt höchstens 70 Tagen im Kalenderjahr
-
-angeordnet werden sowie
-
-2. darf Mehrarbeit ausschließlich für die in Absatz 1 Satz 1 genannten Tätigkeiten angeordnet werden, wenn ihre durchschnittliche wöchentliche Arbeitszeit zum Zeitpunkt der Mehrarbeit über 48 Stunden liegt.
-
-Wenn nicht voraussehbare und vom Dienstherrn nicht zu vertretende Umstände es erfordern, darf die Höchstgrenze von zusammenhängend 168 Stunden ausnahmsweise um bis zu zwölf Stunden überschritten werden.
-
-(3) Das Kommando Luftwaffe und das Marinekommando übermitteln dem Bundesministerium der Verteidigung im Januar und im Juli eines jeden Jahres eine Liste der Soldatinnen und Soldaten, die im Berichtszeitraum die in Absatz 1 Satz 1 genannten Tätigkeiten ausgeübt haben. Berichtszeitraum ist jeweils das vorangegangene Halbjahr. Zu jeder Soldatin und zu jedem Soldaten sind anzugeben:
-
-1. die Zeiträume, in denen die höchstzulässige durchschnittliche wöchentliche Arbeitszeit mehr als 48 Stunden betragen hat,
-
-2. die Zahl der Tage, an denen eine der in Absatz 1 Satz 1 genannten Tätigkeiten ausgeübt worden ist,
-
-3. die durchschnittliche wöchentliche Arbeitszeit
-
-a) am letzten Tag jedes Kalendervierteljahres sowie
-
-b) am ersten und letzten Tag der ununterbrochenen Geltung der höchstzulässigen Arbeitszeit von 54 Stunden, wenn der Tag in den Berichtszeitraum fällt.
-
-Das Bundesministerium der Verteidigung, das Kommando Luftwaffe und das Marinekommando löschen die Liste spätestens zwei Jahre nach dem Ende des Berichtszeitraums.
-
 # § 6 – Regelmäßige tägliche Arbeitszeit
 
 (1) Die regelmäßige tägliche Arbeitszeit sowie deren Beginn und Ende sind festzulegen. Die regelmäßige tägliche Arbeitszeit darf 13 Stunden einschließlich der Pausen nicht überschreiten. Von Satz 2 kann abgewichen werden, wenn dienstliche Gründe dies erfordern, insbesondere in folgenden Bereichen:

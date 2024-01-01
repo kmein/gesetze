@@ -659,21 +659,19 @@ Jeder Einkommensbezieher ist nur einer der in den Nummern 1 bis 4 bezeichneten G
 
 4. sonstige Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, mit Ausnahme der Unterhaltsleistungen der Eltern des Auszubildenden und seines Ehegatten oder Lebenspartners, soweit sie das Bundesministerium für Bildung und Forschung in einer Rechtsverordnung ohne Zustimmung des Bundesrates bezeichnet hat.
 
-Die Erziehungsbeihilfe, die ein Beschädigter für ein Kind erhält (§ 27 des Bundesversorgungsgesetzes), gilt als Einkommen des Kindes.
+Die Erziehungsbeihilfe, die ein Beschädigter für ein Kind erhält (§ 145 Absatz 1 und 2 Nummer 3 des Vierzehnten Buches Sozialgesetzbuch in Verbindung mit § 27 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung), gilt als Einkommen des Kindes.
 
 (4) Nicht als Einkommen gelten
 
-1. Grundrenten und Schwerstbeschädigtenzulage nach dem Bundesversorgungsgesetz und nach den Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären,
+1. Entschädigungszahlungen nach Kapitel 9 des Vierzehnten Buches Sozialgesetzbuch, die Einmalzahlungen nach § 102 Absatz 4 und 5 des Vierzehnten Buches Sozialgesetzbuch sowie Geldleistungen nach § 144 in Verbindung mit § 149 des Vierzehnten Buches Sozialgesetzbuch,
 
-2. ein der Grundrente und der Schwerstbeschädigtenzulage nach dem Bundesversorgungsgesetz entsprechender Betrag, wenn diese Leistungen nach § 65 des Bundesversorgungsgesetzes ruhen,
+2. ein der monatlichen Entschädigungszahlung nach Kapitel 9 des Vierzehnten Buches Sozialgesetzbuch entsprechender Betrag, soweit der Anspruch auf Leistung nach § 8 Absatz 3 des Vierzehnten Buches Sozialgesetzbuch ruht,
 
-3. Renten, die den Opfern nationalsozialistischer Verfolgung wegen einer durch die Verfolgung erlittenen Gesundheitsschädigung geleistet werden, bis zur Höhe des Betrages, der in der Kriegsopferversorgung bei gleicher Minderung der Erwerbsfähigkeit als Grundrente und Schwerstbeschädigtenzulage geleistet würde,
+3. Renten, die den Opfern nationalsozialistischer Verfolgung wegen einer durch die Verfolgung erlittenen Gesundheitsschädigung geleistet werden, bis zur Höhe des Betrages, der nach Kapitel 9 des Vierzehnten Buches Sozialgesetzbuch bei gleicher Minderung der Erwerbsfähigkeit als monatliche Entschädigungszahlung geleistet würde,
 
 4. Einnahmen, deren Zweckbestimmung einer Anrechnung auf den Bedarf entgegensteht; dies gilt insbesondere für Einnahmen, die für einen anderen Zweck als für die Deckung des Bedarfs im Sinne dieses Gesetzes bestimmt sind,
 
 5. zusätzliche Einnahmen aus einer Tätigkeit der Antragstellenden in systemrelevanten Branchen und Berufen, soweit die Tätigkeit zur Bekämpfung der COVID-19-Pandemie und deren sozialen Folgen seit dem 1. März 2020 aufgenommen oder in ihrem arbeitszeitlichen Umfang aufgestockt wurde, für die Dauer dieser Tätigkeit oder Arbeitszeitaufstockung.
-
-(+++ § 21 Abs. 4 Nr. 5: Zur weiteren Anwendung bis zum Ablauf des 31.12.2022 vgl. § 1 V 2212-2-21 v. 10.3.2022 I 426, 427 (COV19EFreistVerlV) +++)
 
 # § 22 – Berechnungszeitraum für das Einkommen des Auszubildenden
 
@@ -1225,9 +1223,9 @@ b) eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mi
 
 (1) Die Vorschriften über die Leistung individueller Förderung der Ausbildung nach
 
-1. dem Bundesversorgungsgesetz,
+1. dem Vierzehnten Buch Sozialgesetzbuch,
 
-2. den Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären,
+2. den Gesetzen, die das Vierzehnten Buch Sozialgesetzbuch für anwendbar erklären,
 
 3. (weggefallen)
 
@@ -1237,11 +1235,11 @@ b) eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mi
 
 werden durch dieses Gesetz nicht berührt.
 
-(2) Die in Absatz 1 bezeichneten Vorschriften haben Vorrang vor diesem Gesetz.
+(2) Die in Absatz 1 Nummer 2, 4 und 5 bezeichneten Vorschriften haben Vorrang vor diesem Gesetz.
 
-# § 66 – (weggefallen)
+# § 66 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 
-\-
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 21 Absatz 3 Satz 2 und Absatz 4 Nummer 1 und 2 und § 65 Absatz 1 Nummer 1 und 2 in der bis zum 31. Dezember 2023 geltenden Fassung weiter.
 
 # § 66a – Übergangs- und Anwendungsvorschrift; Verordnungsermächtigung
 
@@ -1276,8 +1274,6 @@ werden durch dieses Gesetz nicht berührt.
 Auszubildenden, die bis zum Ende des Übergangszeitraums nach Teil Vier des Abkommens über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft vom 24. Januar 2020 (ABl. L 29 vom 31.1.2020, S. 7) einen Ausbildungsabschnitt an einer Ausbildungsstätte im Vereinigten Königreich Großbritannien und Nordirland beginnen oder fortsetzen, wird Ausbildungsförderung nach § 5 Absatz 2 Satz 1 Nummer 3 noch bis zum Abschluss oder Abbruch dieses Ausbildungsabschnitts an einer dortigen Ausbildungsstätte nach Maßgabe der im Übrigen unverändert geltenden sonstigen Förderungsvoraussetzungen dieses Gesetzes gewährt.
 
 # § 67 – (weggefallen)
-
-\-
 
 # § 68 – Inkrafttreten
 

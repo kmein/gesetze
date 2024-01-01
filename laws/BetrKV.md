@@ -31,7 +31,7 @@ hierzu gehören die Gebühren für die Haus- und Grundstücksentwässerung, die 
 
 a) des Betriebs der zentralen Heizungsanlage einschließlich der Abgasanlage,
 
-hierzu gehören die Kosten der verbrauchten Brennstoffe und ihrer Lieferung, die Kosten des Betriebsstroms, die Kosten der Bedienung, Überwachung und Pflege der Anlage, der regelmäßigen Prüfung ihrer Betriebsbereitschaft und Betriebssicherheit einschließlich der Einstellung durch eine Fachkraft, der Reinigung der Anlage und des Betriebsraums, die Kosten der Messungen nach dem Bundes-Immissionsschutzgesetz, die Kosten der Anmietung oder anderer Arten der Gebrauchsüberlassung einer Ausstattung zur Verbrauchserfassung sowie die Kosten der Verwendung einer Ausstattung zur Verbrauchserfassung einschließlich der Kosten der Eichung sowie der Kosten der Berechnung und Aufteilung
+hierzu gehören die Kosten des zur Wärmeerzeugung verbrauchten Stroms und der verbrauchten Brennstoffe und ihrer Lieferung, die Kosten des Betriebsstroms, die Kosten der Bedienung, Überwachung und Pflege der Anlage, der regelmäßigen Prüfung ihrer Betriebsbereitschaft und Betriebssicherheit einschließlich der Einstellung durch eine Fachkraft, der Reinigung der Anlage und des Betriebsraums, die Kosten der Messungen nach dem Bundes-Immissionsschutzgesetz, die Kosten der Anmietung oder anderer Arten der Gebrauchsüberlassung einer Ausstattung zur Verbrauchserfassung sowie die Kosten der Verwendung einer Ausstattung zur Verbrauchserfassung einschließlich der Kosten der Eichung sowie der Kosten der Berechnung und Aufteilung
 
 oder
 

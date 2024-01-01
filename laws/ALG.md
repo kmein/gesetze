@@ -1157,6 +1157,10 @@ Versicherungsfreiheit
 
 Kürzung der Renten
 
+§ 130
+
+Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
  
 
 Anlage 1
@@ -1259,9 +1263,9 @@ c) bereits eine vorzeitige Rente wegen Alters oder eine Rente wegen Erwerbsminde
 
 1. Renten aus der gesetzlichen Rentenversicherung, der gesetzlichen Unfallversicherung, einer berufsständischen Versicherungs- oder Versorgungseinrichtung oder Versorgungsbezüge nach beamtenrechtlichen Vorschriften oder Grundsätzen und vergleichbare Bezüge aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis oder aus der Versorgung der Abgeordneten,
 
-2. Krankengeld, Versorgungskrankengeld, Verletztengeld, soweit es nicht nach § 55a Absatz 2 des Siebten Buches Sozialgesetzbuch gewährt wird, oder Übergangsgeld, Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch und vergleichbare Leistungen von einem Sozialleistungsträger.
+2. Krankengeld, Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch, Verletztengeld, soweit es nicht nach § 55a Absatz 2 des Siebten Buches Sozialgesetzbuch gewährt wird, oder Übergangsgeld, Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch und vergleichbare Leistungen von einem Sozialleistungsträger.
 
-Erwerbsersatzeinkommen sind auch den in Satz 2 genannten Leistungen vergleichbare Leistungen, die von einer Stelle außerhalb des Geltungsbereichs dieses Gesetzes erbracht werden, sowie die Renten einer Einrichtung der betrieblichen oder überbetrieblichen Alters- und Hinterbliebenenversorgung. Kinderzuschuß, Kinderzulage und vergleichbare kindbezogene Leistungen bleiben außer Betracht. Wird eine Kapitalleistung oder anstelle einer wiederkehrenden Leistung eine Abfindung gezahlt, ist der Betrag als Einkommen zu berücksichtigen, der bei einer Verrentung der Kapitalleistung oder als Rente ohne die Abfindung zu zahlen wäre. Bei der Verletztenrente aus der gesetzlichen Unfallversicherung bleibt ein der Grundrente nach dem Bundesversorgungsgesetz entsprechender Betrag unberücksichtigt; bei einer Minderung der Erwerbsfähigkeit um 20 vom Hundert bleiben zwei Drittel der Mindestgrundrente, bei einer Minderung der Erwerbsfähigkeit um 10 vom Hundert bleibt ein Drittel der Mindestgrundrente unberücksichtigt.
+Erwerbsersatzeinkommen sind auch den in Satz 2 genannten Leistungen vergleichbare Leistungen, die von einer Stelle außerhalb des Geltungsbereichs dieses Gesetzes erbracht werden, sowie die Renten einer Einrichtung der betrieblichen oder überbetrieblichen Alters- und Hinterbliebenenversorgung. Kinderzuschuß, Kinderzulage und vergleichbare kindbezogene Leistungen bleiben außer Betracht. Wird eine Kapitalleistung oder anstelle einer wiederkehrenden Leistung eine Abfindung gezahlt, ist der Betrag als Einkommen zu berücksichtigen, der bei einer Verrentung der Kapitalleistung oder als Rente ohne die Abfindung zu zahlen wäre. Bei der Verletztenrente aus der gesetzlichen Unfallversicherung bleiben die Beträge nach § 93 Absatz 2 Nummer 2 Buchstabe a in Verbindung mit Absatz 2a und 2b des Sechsten Buches Sozialgesetzbuch unberücksichtigt.
 
 # § 4 – Freiwillige Versicherung
 
@@ -1335,7 +1339,7 @@ Für den Ausschluß von Leistungen zur Teilhabe nach diesem Abschnitt gilt § 12
 
 # § 10 – Umfang und Ort der Leistungen
 
-(1) Für Umfang und Ort der Leistungen zur Teilhabe gelten die §§ 13, 14 Absatz 1 und 3, § 15 Absatz 1 und 2, § 15a Absatz 1 bis 4, § 17 Absatz 1, § 28 Absatz 2 Satz 2, § 31 Absatz 1 und 2 Satz 1 und 2 und § 32 Absatz 1, 2, 4 und 5 des Sechsten Buches Sozialgesetzbuch sowie die §§ 31, 64 Absatz 1 Nummer 3 bis 6 und § 73 des Neunten Buches Sozialgesetzbuch entsprechend. Als ergänzende Leistung kann auch Betriebs- oder Haushaltshilfe erbracht werden. Die landwirtschaftliche Alterskasse betreibt keine eigenen Rehabilitationseinrichtungen. Leistungen nach den Absätzen 1 bis 3 müssen wirksam und wirtschaftlich sein, sie dürfen das Maß des Notwendigen nicht übersteigen. Das Nähere über Umfang, Ort und Durchführung der Leistungen nach den Absätzen 1 bis 3 wird in der Satzung der landwirtschaftlichen Alterskasse geregelt. Für Leistungen zur Prävention, zur Kinderrehabilitation und zur Nachsorge sind insbesondere die Ziele, die persönlichen Voraussetzungen sowie Art und Umfang der medizinischen Leistungen in der Satzung näher auszuführen. Für sonstige Leistungen zur Teilhabe sind insbesondere die Ziele sowie Art und Umfang der Leistungen in der Satzung näher auszuführen. Die Satzungsregelungen sind regelmäßig an den medizinischen Fortschritt und die gewonnenen Erfahrungen anzupassen.
+(1) Für Umfang und Ort der Leistungen zur Teilhabe gelten die §§ 13, 14 Absatz 1 und 3, § 15 Absatz 1 und 2, § 15a Absatz 1 bis 4, § 17 Absatz 1, § 28 Absatz 2 Satz 2, § 31 Absatz 1 und 2 Satz 1 und 2 und § 32 Absatz 1, 2, 4 und 5 des Sechsten Buches Sozialgesetzbuch sowie die §§ 31, 64 Absatz 1 Nummer 3 bis 6 und § 73 des Neunten Buches Sozialgesetzbuch entsprechend. Als ergänzende Leistung kann auch Betriebs- oder Haushaltshilfe erbracht werden. Die landwirtschaftliche Alterskasse betreibt keine eigenen Rehabilitationseinrichtungen; sie soll solche Einrichtungen belegen, die über eine Zulassung nach § 15 des Sechsten Buches Sozialgesetzbuch verfügen oder nach § 301 Absatz 4 des Sechsten Buches Sozialgesetzbuch als zugelassen gelten. Sie hat hierzu mit diesen Einrichtungen über Inhalt, Umfang, Vergütung sowie Prüfung der Qualität und Wirtschaftlichkeit der Dienstleistungen Verträge nach diskriminierungsfreien und transparenten Kriterien zu schließen. Leistungen nach den Absätzen 1 bis 3 müssen wirksam und wirtschaftlich sein, sie dürfen das Maß des Notwendigen nicht übersteigen. Das Nähere über Umfang, Ort und Durchführung der Leistungen nach den Absätzen 1 bis 3 wird in der Satzung der landwirtschaftlichen Alterskasse geregelt. Für Leistungen zur Prävention, zur Kinderrehabilitation und zur Nachsorge sind insbesondere die Ziele, die persönlichen Voraussetzungen sowie Art und Umfang der medizinischen Leistungen in der Satzung näher auszuführen. Für sonstige Leistungen zur Teilhabe sind insbesondere die Ziele sowie Art und Umfang der Leistungen in der Satzung näher auszuführen. Die Satzungsregelungen sind regelmäßig an den medizinischen Fortschritt und die gewonnenen Erfahrungen anzupassen.
 
 (2) Betriebshilfe kann erbracht werden, wenn
 
@@ -2231,9 +2235,9 @@ Eine Wiedereinsetzung in den vorigen Stand ist ausgeschlossen.
 
 (3b) Versicherte nach § 1 Abs. 3 werden auf Antrag von der Versicherungspflicht befreit, solange
 
-1. der nach § 1 Abs. 6 und § 32 Abs. 6 Satz 5 ermittelte Wirtschaftswert des Unternehmens der Landwirtschaft 15.000 Deutsche Mark nicht überschreitet,
+1. der nach § 1 Abs. 6 und § 32 Abs. 6 Satz 5 ermittelte Wirtschaftswert des Unternehmens der Landwirtschaft 15 000 Deutsche Mark nicht überschreitet,
 
-2. der Unternehmer nach § 1 Abs. 2 ohne Berücksichtigung des Arbeitseinkommens aus Land- und Forstwirtschaft regelmäßig Erwerbs- und Erwerbsersatzeinkommen von mehr als 20.452 Euro jährlich erzielt,
+2. der Unternehmer nach § 1 Abs. 2 ohne Berücksichtigung des Arbeitseinkommens aus Land- und Forstwirtschaft regelmäßig Erwerbs- und Erwerbsersatzeinkommen von mehr als 20 452 Euro jährlich erzielt,
 
 wenn
 
@@ -2280,6 +2284,8 @@ Eine Wiedereinsetzung in den vorigen Stand ist ausgeschlossen.
 (8) Personen, die in der Zeit vom 23. Dezember 1995 bis zum 31. März 1996 einen Antrag auf Befreiung nach § 3 Abs. 1 Nr. 2 bis 4 stellen, werden mit Wirkung vom Vorliegen der Befreiungsvoraussetzungen an von der Versicherungspflicht befreit.
 
 (9) Personen, die am 31. März 2003 nach § 3 Abs. 1 Nr. 1 in der bis zum 31. März 2003 geltenden Fassung von der Versicherungspflicht befreit waren, bleiben von der Versicherungspflicht befreit, solange das für die Befreiung nach § 3 Abs. 1 Nr. 1 maßgebende Einkommen jährlich ein Siebtel der Bezugsgröße oder 4800 Euro überschreitet. Sie können bis zum 30. September 2003 erklären, dass die Befreiung von der Versicherungspflicht zum 31. März 2003 enden soll. Personen, die am 30. September 2022 nach § 3 Absatz 1 Nummer 1 in der bis zum 30. September 2022 geltenden Fassung von der Versicherungspflicht befreit waren, bleiben von der Versicherungspflicht befreit, solange das für die Befreiung nach § 3 Absatz 1 Nummer 1 maßgebende Einkommen regelmäßig jährlich 4 800 Euro überschreitet. Sie können bis zum 31. März 2023 erklären, dass die Befreiung von der Versicherungspflicht zum 30. September 2022 enden soll.
+
+(10) Bei der Anwendung von § 3 Absatz 4 Satz 2 gilt das Versorgungskrankengeld als Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch.
 
 # § 86 – Teilhabe
 
@@ -3303,7 +3309,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 1. mit Arbeitsentgelt oder Arbeitseinkommen, das durchschnittlich im Monat drei Zehntel der für Monatsbezüge geltenden Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung überschreitet, oder
 
-2. mit einem Anspruch auf Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch oder Anspruch auf Krankengeld, Versorgungskrankengeld, Verletztengeld oder Übergangsgeld gegenüber einem Sozialleistungsträger und sind diese Sozialleistungen auf der Grundlage eines Betrages berechnet, der drei Zehntel der für Monatsbezüge geltenden Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung überschreitet,
+2. mit einem Anspruch auf Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch oder Anspruch auf Krankengeld, Versorgungskrankengeld, Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch, Verletztengeld oder Übergangsgeld gegenüber einem Sozialleistungsträger und sind diese Sozialleistungen auf der Grundlage eines Betrages berechnet, der drei Zehntel der für Monatsbezüge geltenden Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung überschreitet,
 
 wird eine Rente nicht gezahlt. Dies gilt nicht, wenn
 
@@ -3345,7 +3351,7 @@ Trifft eine Rente an Witwen oder Witwer mit einer Rente aus der gesetzlichen Ren
 
 Der Anspruch ruht während der Zeit,
 
-1. für die ein Anspruch auf Krankengeld, Versorgungskrankengeld, Verletztengeld oder Übergangsgeld von einem Sozialleistungsträger, auf Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch oder auf vergleichbare Leistungen zuerkannt ist, wenn diese Sozialleistungen auf der Grundlage eines Betrages berechnet werden, der drei Zehntel der für Monatsbezüge geltenden Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung überschreitet,
+1. für die ein Anspruch auf Krankengeld, Versorgungskrankengeld, Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch, Verletztengeld oder Übergangsgeld von einem Sozialleistungsträger, auf Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch oder auf vergleichbare Leistungen zuerkannt ist, wenn diese Sozialleistungen auf der Grundlage eines Betrages berechnet werden, der drei Zehntel der für Monatsbezüge geltenden Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung überschreitet,
 
 2. in der Betriebs- oder Haushaltshilfe gestellt wird.
 
@@ -3356,6 +3362,9 @@ Für die Dauer des auf den Sterbemonat des Landwirts folgenden Jahres gelten Sat
 (8) Bestand am 31. Dezember 2018 Anspruch auf eine Rente wegen Erwerbsminderung, ist § 27a in der bis zum 31. Dezember 2018 geltenden Fassung anzuwenden.
 
 (9) (weggefallen)
+
+§ 106 Abs. 2 Satz 1 Nr. 2 Kursivdruck: IdF d. Art. 66 Nr. 2 G v. 24.3.1997 I 594 mWv 1.1.1998, d. Art. 46 Nr. 2 Buchst. a G v. 9.12.2004 I 3242 mWv 1.1.2005 u. d. Art. 54 Nr. 4 Buchst. a G v. 12.12.2019 I 2652 mWv 1.1.2024 (hinsichtlich der Kommata sinngemäß konsolidiert)  
+§ 106 Abs. 6 Satz 2 Nr. 1 Kursivdruck: IdF d. Art. 66 Nr. 2 G v. 24.3.1997 I 594 mWv 1.1.1998, d. Art. 46 Nr. 2 Buchst. b DBuchst. bb G v. 9.12.2004 I 3242 mWv 1.1.2005 u. d. Art. 54 Nr. 4 Buchst. b G v. 12.12.2019 I 2652 mWv 1.1.2024 (hinsichtlich der Kommata sinngemäß konsolidiert)
 
 # § 106a – Einkommensanrechnung auf Renten wegen Todes
 
@@ -3494,6 +3503,10 @@ Personen, die einen Zuschuß zur Nachzahlung von Beiträgen für Landwirte zur g
 (1) Bezieht der Empfänger einer Altersrente, Rente wegen Erwerbsminderung oder eine Rente wegen Todes, der einen Zuschuß zur Nachzahlung von Beiträgen für Landwirte zur gesetzlichen Rentenversicherung erhalten hat und deshalb nach dem vor dem 1. Januar 1995 jeweils geltenden Recht aus der Altershilfe für Landwirte ausgeschieden ist, gleichzeitig eine Rente aus der gesetzlichen Rentenversicherung, wird die Rente um den Teil der Rente aus der gesetzlichen Rentenversicherung gekürzt, der dem Verhältnis entspricht, in dem die Entgeltpunkte für Beitragszeiten, auf die der Zuschuß entfällt, zur Summe aller Entgeltpunkte steht. Berechnet sich die Rente nach Werteinheiten, bemißt sich die Kürzung nach dem Verhältnis der Werteinheiten für Beitragszeiten, auf die der Zuschuß entfällt, zur Summe der Werteinheiten, die der Ermittlung der für den Versicherten maßgebenden Rentenbemessungsgrundlage zugrunde gelegt worden ist. Das gleiche gilt, wenn eine Altersrente, Rente wegen Erwerbsminderung oder Rente wegen Todes mit einer Rente wegen Todes aus der gesetzlichen Rentenversicherung zusammentrifft und der Verstorbene einen Zuschuß erhalten hatte.
 
 (2) Die Höhe des Kürzungsbetrages sowie seine Veränderungen sind der landwirtschaftlichen Alterskasse von dem Rentenversicherungsträger mitzuteilen, der die Rente festgestellt hat.
+
+# § 130 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 3 Absatz 4 Satz 2 Nummer 2 und Satz 6 und des § 106 Absatz 2 Satz 1 Nummer 2 und Absatz 6 Satz 2 Nummer 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 # Anlage 1
 

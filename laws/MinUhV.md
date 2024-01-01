@@ -9,11 +9,11 @@ Auf Grund des § 1612a Absatz 4 des Bürgerlichen Gesetzbuchs, der durch Artikel
 
 Der Mindestunterhalt minderjähriger Kinder gemäß § 1612a Absatz 1 des Bürgerlichen Gesetzbuchs beträgt monatlich
 
-1. in der ersten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 1 des Bürgerlichen Gesetzbuchs) 437 Euro,
+1. in der ersten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 1 des Bürgerlichen Gesetzbuchs) 480 Euro,
 
-2. in der zweiten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 2 des Bürgerlichen Gesetzbuchs) 502 Euro,
+2. in der zweiten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 2 des Bürgerlichen Gesetzbuchs) 551 Euro,
 
-3. in der dritten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 3 des Bürgerlichen Gesetzbuchs) 588 Euro.
+3. in der dritten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 3 des Bürgerlichen Gesetzbuchs) 645 Euro.
 
 # § 2 – Inkrafttreten
 

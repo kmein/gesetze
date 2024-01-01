@@ -376,7 +376,7 @@ Den Evangelischen Kirchen, der Katholischen Kirche und der Jüdischen Gemeinde s
 
 2. eines Zusammenschlusses von öffentlich-rechtlichen oder privaten Rundfunkveranstaltern,
 
-3. einer Gesellschaft des privaten Rechts, die unmittelbar oder mittelbar vertragliche Regelungen über die Lieferung von Rundfunkprogrammen oder Programmteilen zu einem öffentlich-rechtlichen oder privaten Rundfunkveranstalter unterhält, oder
+3. einer rechtsfähigen Gesellschaft des privaten Rechts, die unmittelbar oder mittelbar vertragliche Regelungen über die Lieferung von Rundfunkprogrammen oder Programmteilen zu einem öffentlich-rechtlichen oder privaten Rundfunkveranstalter unterhält, oder
 
 4. einer öffentlich-rechtlichen Anstalt, der die Zulassung von und die Aufsicht über Rundfunkveranstalter des privaten Rechts obliegt,
 

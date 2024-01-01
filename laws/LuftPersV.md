@@ -417,7 +417,7 @@ Der Antrag auf Erteilung der Zulassung für genehmigte Ausbildungseinrichtungen 
 
 2. eine Erklärung über laufende Ermittlungs- oder Strafverfahren und darüber, dass ein Führungszeugnis nach § 30 Absatz 5 des Bundeszentralregistergesetzes zur Vorlage bei der nach § 26 zuständigen Stelle beantragt worden ist, und
 
-3. bei juristischen Personen und Personengesellschaften außerdem den Namen und die Anschrift der vertretungsberechtigten Personen.
+3. bei juristischen Personen und rechtsfähigen Personengesellschaften außerdem den Namen und die Anschrift der vertretungsberechtigten Personen.
 
 Für den Antrag auf Erteilung einer Genehmigung als Ausbildungsbetrieb nach § 106 Absatz 3 gelten die Vorgaben des Anhangs IV 147.A.15 der Verordnung (EU) Nr. 1321/2014 entsprechend.
 

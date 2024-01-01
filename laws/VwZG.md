@@ -77,7 +77,7 @@ Im Fall des § 181 Abs. 1 der Zivilprozessordnung kann das zuzustellende Dokumen
 
 (2) Einem Zustellungsbevollmächtigten mehrerer Beteiligter sind so viele Ausfertigungen oder Abschriften zuzustellen, als Beteiligte vorhanden sind.
 
-(3) Auf § 180 Abs. 2 der Abgabenordnung beruhende Regelungen und § 183 der Abgabenordnung bleiben unberührt.
+(3) Auf § 180 Abs. 2 der Abgabenordnung beruhende Regelungen und die §§ 183 und 183a der Abgabenordnung bleiben unberührt.
 
 # § 8 – Heilung von Zustellungsmängeln
 
@@ -105,9 +105,11 @@ Lässt sich die formgerechte Zustellung eines Dokuments nicht nachweisen oder is
 
 1. der Aufenthaltsort des Empfängers unbekannt ist und eine Zustellung an einen Vertreter oder Zustellungsbevollmächtigten nicht möglich ist,
 
-2. bei juristischen Personen, die zur Anmeldung einer inländischen Geschäftsanschrift zum Handelsregister verpflichtet sind, eine Zustellung weder unter der eingetragenen Anschrift noch unter einer im Handelsregister eingetragenen Anschrift einer für Zustellungen empfangsberechtigten Person oder einer ohne Ermittlungen bekannten anderen inländischen Anschrift möglich ist oder
+2. bei juristischen Personen, die zur Anmeldung einer inländischen Geschäftsanschrift zum Handelsregister verpflichtet sind, eine Zustellung weder unter der eingetragenen Anschrift noch unter einer im Handelsregister eingetragenen Anschrift einer für Zustellungen empfangsberechtigten Person oder einer ohne Ermittlungen bekannten anderen inländischen Anschrift möglich ist,
 
-3. sie im Fall des § 9 nicht möglich ist oder keinen Erfolg verspricht.
+3. bei eingetragenen Personengesellschaften eine Zustellung weder unter der eingetragenen Anschrift noch unter einer im Handels- oder Gesellschaftsregister eingetragenen Anschrift einer für Zustellungen empfangsberechtigten Person oder einer ohne Ermittlungen bekannten anderen Anschrift innerhalb eines Mitgliedstaates der Europäischen Union möglich ist oder
+
+4. sie im Fall des § 9 nicht möglich ist oder keinen Erfolg verspricht.
 
 Die Anordnung über die öffentliche Zustellung trifft ein zeichnungsberechtigter Bediensteter.
 

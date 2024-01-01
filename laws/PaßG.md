@@ -9,11 +9,9 @@
 
 1. Reisepass,
 
-2. Kinderreisepass,
+2. vorläufiger Reisepass,
 
-3. vorläufiger Reisepass,
-
-4. amtlicher Pass
+3. amtlicher Pass
 
 a) Dienstpass,
 
@@ -97,7 +95,7 @@ e) "PD" für Diplomatenpass und vorläufigen Diplomatenpass,
 
 4. den oder die Vornamen,
 
-5. die Seriennummer des Passes, die sich beim Reisepass, beim Dienstpass und beim Diplomatenpass aus der Behördenkennzahl der Passbehörde und einer zufällig zu vergebenden Passnummer zusammensetzt, die neben Ziffern auch Buchstaben enthalten kann und beim Kinderreisepass, vorläufigen Reisepass, vorläufigen Dienstpass und vorläufigen Diplomatenpass aus einem Serienbuchstaben und sieben Ziffern besteht,
+5. die Seriennummer des Passes, die sich beim Reisepass, beim Dienstpass und beim Diplomatenpass aus der Behördenkennzahl der Passbehörde und einer zufällig zu vergebenden Passnummer zusammensetzt, die neben Ziffern auch Buchstaben enthalten kann und beim vorläufigen Reisepass, vorläufigen Dienstpass und vorläufigen Diplomatenpass aus einem Serienbuchstaben und sieben Ziffern besteht,
 
 6. die Abkürzung "D" für die Eigenschaft als Deutscher oder im Fall amtlicher Pässe bei abweichender Staatsangehörigkeit die entsprechende Abkürzung hierfür,
 
@@ -117,9 +115,9 @@ e) "PD" für Diplomatenpass und vorläufigen Diplomatenpass,
 
 (4) Die Fingerabdrücke werden in Form des flachen Abdrucks des linken und rechten Zeigefingers des Passbewerbers im Chip des Passes gespeichert. Bei Fehlen eines Zeigefingers, ungenügender Qualität des Fingerabdrucks oder Verletzungen der Fingerkuppe wird ersatzweise der flache Abdruck entweder des Daumens, des Mittelfingers oder des Ringfingers gespeichert. Fingerabdrücke sind nicht zu speichern, wenn die Abnahme der Fingerabdrücke aus medizinischen Gründen, die nicht nur vorübergehender Art sind, unmöglich ist.
 
-(4a) Kinder bis zum vollendeten zwölften Lebensjahr erhalten auf Antrag einen Kinderreisepass ohne elektronisches Speichermedium; die Ausstellung eines Reisepasses ist zulässig. Abweichend von Absatz 3 Satz 1 werden in Reisepässen bei Antragstellern bis zum vollendeten sechsten Lebensjahr keine Fingerabdrücke gespeichert. Die Unterschrift durch das Kind ist zu leisten, wenn es zum Zeitpunkt der Beantragung des Passes das zehnte Lebensjahr vollendet hat.
+(4a) Abweichend von Absatz 3 Satz 1 werden in Reisepässen bei Antragstellern bis zum vollendeten sechsten Lebensjahr keine Fingerabdrücke gespeichert. Die Unterschrift durch das Kind ist zu leisten, wenn es zum Zeitpunkt der Beantragung des Passes das zehnte Lebensjahr vollendet hat.
 
-(5) Die Muster des Reisepasses, des vorläufigen Reisepasses und des Kinderreisepasses sowie die Anforderungen an das Lichtbild bestimmt das Bundesministerium des Innern, für Bau und Heimat im Benehmen mit dem Auswärtigen Amt durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf. Dies gilt auch für einen Passersatz, sofern sein Muster nicht in anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen festgelegt ist.
+(5) Die Muster des Reisepasses und des vorläufigen Reisepasses sowie die Anforderungen an das Lichtbild bestimmt das Bundesministerium des Innern und für Heimat im Benehmen mit dem Auswärtigen Amt durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf. Dies gilt auch für einen Passersatz, sofern sein Muster nicht in anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen festgelegt ist.
 
 (6) Die Muster der amtlichen Pässe, die Anforderungen an das Lichtbild sowie die nähere Bestimmung der in § 1 Abs. 4 Satz 2 genannten Personen bestimmt das Bundesministerium des Innern und für Heimat im Benehmen mit dem Auswärtigen Amt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. In die amtlichen Pässe können Angaben über das Dienstverhältnis des Passinhabers aufgenommen werden. Die Rechtsverordnung kann auch von diesem Gesetz abweichende Bestimmungen über Gültigkeitsdauer, Ausstellung, Einziehung, Sicherstellung und Pflichten des Inhabers enthalten.
 
@@ -127,11 +125,11 @@ e) "PD" für Diplomatenpass und vorläufigen Diplomatenpass,
 
 (1) Der Reisepass, der Dienstpass und der Diplomatenpass sind zehn Jahre gültig. Bei Personen, die das 24. Lebensjahr noch nicht vollendet haben, sowie im Fall des § 1 Abs. 3 sind sie sechs Jahre gültig.
 
-(2) Der Kinderreisepass ist ein Jahr gültig, längstens jedoch bis zur Vollendung des zwölften Lebensjahres.
+(2) (weggefallen)
 
 (3) Der vorläufige Reisepass, der vorläufige Dienstpass und der vorläufige Diplomatenpass sind höchstens ein Jahr gültig.
 
-(4) Eine Verlängerung der Gültigkeitsdauer des Passes ist nicht zulässig. Abweichend von Satz 1 kann der Kinderreisepass bis zur Vollendung des zwölften Lebensjahres um jeweils ein Jahr verlängert werden. Er ist mit einem aktuellen Lichtbild zu versehen.
+(4) Eine Verlängerung der Gültigkeitsdauer des Passes ist nicht zulässig.
 
 (5) Die Gültigkeitsdauer eines Passes darf in den Fällen des § 29 des Staatsangehörigkeitsgesetzes den Zeitpunkt der Vollendung des 23. Lebensjahres des Inhabers so lange nicht überschreiten, bis die zuständige Behörde den Fortbestand der deutschen Staatsangehörigkeit festgestellt hat.
 
@@ -563,10 +561,8 @@ Das Auswärtige Amt erlässt im Benehmen mit dem Bundesministerium des Innern un
 
 Durch Landesrecht können zentrale Passregisterdatenbestände zur Speicherung des Lichtbilds und der Unterschrift für die Durchführung eines automatisierten Abrufs des Lichtbilds nach § 22a Absatz 2 Satz 1 und 5 sowie eines automatisierten Abrufs des Lichtbilds und der Unterschrift nach § 22a Absatz 2 Satz 6 eingerichtet werden. In diesem Fall gelten § 4 Absatz 3 Satz 3, § 21 Absatz 4 und § 22a Absatz 2 Satz 6 bis 9 entsprechend. Macht ein Land von der Regelungsbefugnis Gebrauch, hat es technisch sicherzustellen, dass die Lichtbilder und Unterschriften vor unbefugtem Zugriff geschützt sind. Die Lichtbilder und Unterschriften dürfen nur so gespeichert werden, dass keine Verknüpfung mit anderen als für den automatisierten Abruf benötigten Daten ermöglicht wird.
 
-# § 28 – Übergangsregelungen
+# § 28 – Übergangsvorschrift für Kinderreisepässe
 
-(1) Als Pass im Sinne dieses Gesetzes gelten auch Kinderreisepässe, die vor dem 1. November 2007 auf Grund einer Rechtsverordnung nach § 2 Abs. 1 Nr. 2 als Passersatz ausgestellt worden sind, wenn diese maschinenlesbar und mit einem digitalen Lichtbild versehen sind. Abweichend von § 1 Abs. 3 ist der Besitz eines Kinderreisepasses im Sinne des Satzes 1 neben einem Reisepass zulässig, soweit der Reisepass vor Inkrafttreten dieses Gesetzes ausgestellt wurde.
+(1) Für Kinderreisepässe, die vor dem 1. Januar 2021 beantragt worden sind, ist § 5 Absatz 2 in der bis einschließlich 31. Dezember 2020 geltenden Fassung weiterhin anzuwenden.
 
-(2) Liegen bei der Passbehörde die technischen Voraussetzungen für die Datenübertragung noch nicht vor, ist bis zum 30. Juni 2008 abweichend von § 6a Abs. 1 Satz 1 und 2 die Datenübermittlung zwischen Passbehörden und Vermittlungsstellen statt durch Datenübertragung auch auf automatisiert verarbeitbaren Datenträgern zulässig. § 6a Abs. 1 Satz 3 erster Halbsatz gilt entsprechend.
-
-(3) Für Kinderpässe, die vor dem 1. Januar 2021 beantragt worden sind, ist § 5 Absatz 2 in der bis einschließlich 31. Dezember 2020 geltenden Fassung weiterhin anzuwenden. Für deren Verlängerung gilt § 5 Absatz 4 Satz 2 und 3 in der ab dem 1. Januar 2021 geltenden Fassung.
+(2) Für Kinderreisepässe, die ab dem 1. Januar 2021, aber vor dem 1. Januar 2024 beantragt worden sind, ist § 5 Absatz 2 in der bis einschließlich 31. Dezember 2023 geltenden Fassung weiterhin anzuwenden.

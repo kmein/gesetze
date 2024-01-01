@@ -45,7 +45,7 @@ durchgeführt.
 
 (1) ¹Eine umfassende Zuverlässigkeitsüberprüfung ist bei folgenden Personen durchzuführen:
 
-1. Antragsteller oder Genehmigungsinhaber in einem Genehmigungs- oder Planfeststellungsverfahren, deren gesetzliche Vertreter, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten,
+1. Antragsteller oder Genehmigungsinhaber in einem Genehmigungs- oder Planfeststellungsverfahren, deren gesetzliche Vertreter, bei juristischen Personen oder sonstigen Personenvereinigungen die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten,
 
 2. Verantwortliche für die Errichtung, Leitung oder Beaufsichtigung des Betriebs oder dessen Stillegung auf Grund ihrer Funktion oder Tätigkeit und deren Vertreter,
 
@@ -55,7 +55,7 @@ durchgeführt.
 
 5. Einsatzpersonal, das im inneren Sicherungsbereich unbeaufsichtigt Arbeiten an zu schützenden Anlagenteilen oder an Sicherungssystemen ausführt; für Anlagen in Stilllegung nach § 7 Absatz 3 des Atomgesetzes nur, solange in der Anlage neben aktivierten oder kontaminierten Anlagenteilen Kernbrennstoffe vorhanden sind.
 
-²Ist der Antragsteller oder Genehmigungsinhaber im Falle des Satzes 1 Nr. 1 eine Kapitalgesellschaft, deren vertretungsberechtigtes Organ aus mehreren Mitgliedern besteht, oder eine Personengesellschaft, bei der mehrere vertretungsberechtigte Gesellschafter vorhanden sind, kann die zuständige Behörde die Verpflichtung zur Überprüfung der Zuverlässigkeit auf die Person, die die Aufgaben des Strahlenschutzverantwortlichen wahrnimmt, und andere für die Anlage oder Einrichtung zuständige Personen beschränken.
+²Ist der Antragsteller oder Genehmigungsinhaber im Falle des Satzes 1 Nr. 1 eine Kapitalgesellschaft, deren vertretungsberechtigtes Organ aus mehreren Mitgliedern besteht, oder eine rechtsfähige Personengesellschaft, bei der mehrere vertretungsberechtigte Gesellschafter vorhanden sind, kann die zuständige Behörde die Verpflichtung zur Überprüfung der Zuverlässigkeit auf die Person, die die Aufgaben des Strahlenschutzverantwortlichen wahrnimmt, und andere für die Anlage oder Einrichtung zuständige Personen beschränken.
 
 (2) Eine erweiterte Zuverlässigkeitsüberprüfung ist bei Personen durchzuführen, die zum inneren und äußeren Sicherungsbereich zutrittsberechtigt sein sollen und die nicht zu dem in Absatz 1 genannten Personenkreis gehören.
 

@@ -321,9 +321,17 @@ Ist eine Klage auf Anfechtung der Vaterschaft wegen Fristablaufs rechtskräftig 
 
 (3) § 1813 Absatz 1 Nummer 3 des Bürgerlichen Gesetzbuchs in der Fassung vom 1. September 2009 gilt auch für vor dem 1. September 2009 anhängige Vormundschaften (§ 1773 des Bürgerlichen Gesetzbuchs), Pflegschaften (§ 1915 Absatz 1 des Bürgerlichen Gesetzbuchs) und Betreuungen (§ 1908i Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs).
 
-# § 21 – Übergangsvorschrift für die Gesellschaft bürgerlichen Rechts im Grundbuchverfahren
+# § 21 – Übergangsvorschriften für die Gesellschaft bürgerlichen Rechts im Grundbuchverfahren und im Schiffsregisterverfahren
 
-§ 899a des Bürgerlichen Gesetzbuchs sowie § 47 Absatz 2 Satz 2 und § 82 Satz 3 der Grundbuchordnung gelten auch, wenn die Eintragung vor dem Zeitpunkt des Inkrafttretens gemäß Artikel 5 Absatz 2 des Gesetzes zur Einführung des elektronischen Rechtsverkehrs und der elektronischen Akte im Grundbuchverfahren sowie zur Änderung weiterer grundbuch-, register- und kostenrechtlicher Vorschriften am 18. August 2009 erfolgt ist.
+(1) Eintragungen in das Grundbuch, die ein Recht einer Gesellschaft bürgerlichen Rechts betreffen, sollen nicht erfolgen, solange die Gesellschaft nicht im Gesellschaftsregister eingetragen und daraufhin nach den durch das Personengesellschaftsrechtsmodernisierungsgesetz vom 10. August 2021 (BGBl. I S. 3436) geänderten Vorschriften im Grundbuch eingetragen ist.
+
+(2) Ist die Eintragung eines Gesellschafters gemäß § 47 Absatz 2 Satz 1 der Grundbuchordnung in der vor dem 1. Januar 2024 geltenden Fassung oder die Eintragung eines Gesellschafters, die vor dem Zeitpunkt des Inkrafttretens gemäß Artikel 5 Absatz 2 des Gesetzes zur Einführung des elektronischen Rechtsverkehrs und der elektronischen Akte im Grundbuchverfahren sowie zur Änderung weiterer grundbuch-, register- und kostenrechtlicher Vorschriften vom 11. August 2009 (BGBl. I S. 2713) am 18. August 2009 erfolgt ist, unrichtig geworden, findet eine Berichtigung nicht statt. In diesem Fall gilt § 82 der Grundbuchordnung hinsichtlich der Eintragung der Gesellschaft nach den durch das Personengesellschaftsrechtsmodernisierungsgesetz geänderten Vorschriften im Grundbuch entsprechend.
+
+(3) Für die Eintragung der Gesellschaft in den Fällen der Absätze 1 und 2 gelten die Vorschriften des Zweiten Abschnitts der Grundbuchordnung entsprechend. Es bedarf der Bewilligung der Gesellschafter, die nach § 47 Absatz 2 Satz 1 der Grundbuchordnung in der vor dem 1. Januar 2024 geltenden Fassung im Grundbuch eingetragen sind; die Zustimmung der einzutragenden Gesellschaft in den Fällen des § 22 Absatz 2 der Grundbuchordnung bleibt unberührt. Dies gilt auch, wenn die Eintragung vor dem Zeitpunkt des Inkrafttretens gemäß Artikel 5 Absatz 2 des Gesetzes zur Einführung des elektronischen Rechtsverkehrs und der elektronischen Akte im Grundbuchverfahren sowie zur Änderung weiterer grundbuch-, register- und kostenrechtlicher Vorschriften vom 11. August 2009 (BGBl. I S. 2713) am 18. August 2009 erfolgt ist.
+
+(4) § 899a des Bürgerlichen Gesetzbuchs und § 47 Absatz 2 der Grundbuchordnung in der vor dem 1. Januar 2024 geltenden Fassung sind auf Eintragungen anzuwenden, wenn vor diesem Zeitpunkt die Einigung oder Bewilligung erklärt und der Antrag auf Eintragung beim Grundbuchamt gestellt wurde. Wurde vor dem in Satz 1 genannten Zeitpunkt eine Vormerkung eingetragen oder die Eintragung einer Vormerkung vor diesem Zeitpunkt bewilligt und beantragt, sind § 899a des Bürgerlichen Gesetzbuchs und § 47 Absatz 2 der Grundbuchordnung in der vor diesem Zeitpunkt geltenden Fassung auch auf die Eintragung der Rechtsänderung, die Gegenstand des durch die Vormerkung gesicherten Anspruchs ist, anzuwenden.
+
+(5) § 51 der Schiffsregisterordnung in der bis einschließlich 1. Januar 2024 geltenden Fassung ist auf Eintragungen anzuwenden, wenn vor diesem Zeitpunkt die Einigung oder Bewilligung erklärt wurde und die Anmeldung zur Eintragung beim Schiffsregister erfolgte.
 
 # § 22 – Übergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juli 2009
 
@@ -606,6 +614,10 @@ Auf die vor dem 1. Juli 2023 bestehenden Stiftungen sind die §§ 82a bis 88 de
 # § 60 – Übergangsvorschrift zum Gesetz für faire Verbraucherverträge
 
 Auf ein Schuldverhältnis, das vor dem 1. Oktober 2021 entstanden ist, sind die §§ 308 und 310 Absatz 1 Satz 1 und 2 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Auf ein Schuldverhältnis, das vor dem 1. März 2022 entstanden ist, ist § 309 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Die in § 312k des Bürgerlichen Gesetzbuchs in der Fassung vom 1. Juli 2022 vorgesehenen Pflichten gelten auch im Hinblick auf Schuldverhältnisse, die vor diesem Tag entstanden sind.
+
+# § 61 – Übergangsvorschrift zum Personengesellschaftsrechtsmodernisierungsgesetz
+
+Die §§ 723 bis 728 des Bürgerlichen Gesetzbuchs in der vor dem 1. Januar 2024 geltenden Fassung sind mangels anderweitiger vertraglicher Vereinbarung weiter anzuwenden, wenn ein Gesellschafter bis zum 31. Dezember 2024 die Anwendung dieser Vorschriften gegenüber der Gesellschaft schriftlich verlangt, bevor innerhalb dieser Frist ein zur Auflösung der Gesellschaft oder zum Ausscheiden eines Gesellschafters führender Grund eintritt. Das Verlangen kann durch einen Gesellschafterbeschluss zurückgewiesen werden.
 
 # § 62 – Übergangsvorschrift zum Mietspiegelreformgesetz
 

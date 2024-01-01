@@ -15,9 +15,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 2. Stief-, Adoptiv- und Pflegekinder sowie sonstige Kinder, Ehegatten und Lebenspartner, die mit den in Satz 1 genannten Frauen nicht nur vorübergehend in häuslicher Gemeinschaft gelebt haben oder leben.
 
-# § 2 – Heil- und Krankenbehandlung
+# § 2 – Krankenbehandlung
 
-Berechtigte nach § 1 Abs. 1 Satz 1 erhalten für die durch die Hepatitis-C-Virus-Infektion verursachten gesundheitlichen Folgen Heil- und Krankenbehandlung in entsprechender Anwendung der §§ 10 bis 24a des Bundesversorgungsgesetzes.
+Berechtigte nach § 1 Abs. 1 Satz 1 erhalten für die durch die Hepatitis-C-Virus-Infektion verursachten gesundheitlichen Folgen Heil- und Krankenbehandlung in entsprechender Anwendung der §§ 41 bis 53 des Vierzehnten Buches Sozialgesetzbuch.
 
 # § 3 – Finanzielle Hilfe
 
@@ -28,7 +28,7 @@ von 30   272 Euro, 
 von 40   434 Euro,   
 von 50   598 Euro,   
 von 60   815 Euro,   
-von 70 und mehr   1.088 Euro.
+von 70 und mehr   1 088 Euro.
 
 (3) Die Einmalzahlung nach Absatz 1 beträgt bei einem Grad der Schädigungsfolgen infolge der Hepatitis-C-Virus-Infektion  
 von 10 und 20   3 579 Euro,   
@@ -37,7 +37,7 @@ von 40   7 669 Euro, 
 von 50   10 226 Euro,   
 von 60 und mehr    15 339 Euro. Maßgebend für die Höhe der Einmalzahlung ist der Grad der Schädigungsfolgen im Zeitpunkt der erstmaligen Bewilligung von Leistungen nach Absatz 1. Ist ein Antrag nach § 7 erforderlich, wird die Einmalzahlung nur gewährt, wenn sie bis zum 31. Dezember 2000 beantragt wurde.
 
-(4) Der Grad der Schädigungsfolgen bestimmt sich nach § 30 Abs. 1 und § 31 Abs. 2 des Bundesversorgungsgesetzes. Die Voraussetzungen für die Gewährung der finanziellen Hilfe nach Absatz 1 werden unabhängig anderweitiger Anerkennungen über das Ausmaß der Schädigungsfolgen festgestellt. Sind Verfahren im Rahmen des Bundes-Seuchengesetzes in Verbindung mit dem Bundesversorgungsgesetz im Antrags-, Widerspruchs- oder Klageverfahren anhängig, so gilt für das vorliegende Gesetz deren rechtskräftiger Abschluss.
+(4) Der Grad der Schädigungsfolgen bestimmt sich nach § 5 Absatz 1 des Vierzehnten Buches Sozialgesetzbuch. Die Voraussetzungen für die Gewährung der finanziellen Hilfe nach Absatz 1 werden unabhängig anderweitiger Anerkennungen über das Ausmaß der Schädigungsfolgen festgestellt.
 
 # § 4 – Hilfe für Hinterbliebene
 
@@ -51,9 +51,9 @@ von 60 und mehr    15 339 Euro. Maßgebend für die Höhe der Einmalzahlung 
 
 2. Pflegekinder im Sinne des § 2 Abs. 1 Nr. 2 des Bundeskindergeldgesetzes.
 
-# § 5 – Hilfe bei Wohnsitz im Ausland, Härteausgleich
+# § 5 – Härteausgleich, Hilfe bei Wohnsitz im Ausland
 
-Die §§ 64, 64a Abs. 1 und Abs. 3 Satz 1, §§ 64d sowie 64f und 89 des Bundesversorgungsgesetzes sind entsprechend anzuwenden mit der Maßgabe, dass an die Stelle der Zustimmung des Bundesministeriums für Arbeit und Soziales die Zustimmung der zuständigen obersten Landesbehörde tritt.
+§ 100 und § 101 Absatz 3 des Vierzehnten Buches Sozialgesetzbuch gelten entsprechend.
 
 # § 6 – Zusammentreffen mit anderen Ansprüchen, Übertragbarkeit
 
@@ -67,17 +67,11 @@ Die §§ 64, 64a Abs. 1 und Abs. 3 Satz 1, §§ 64d sowie 64f und 89 des Bundesv
 
 (1) Die Hilfen nach den §§ 3 und 4 werden auf Antrag gewährt. Rentenleistungen nach § 3 Abs. 2 und Hilfen nach § 4 beginnen mit dem Monat, in dem die dafür geltenden Voraussetzungen erfüllt sind, jedoch frühestens mit dem Antragsmonat bei Renten nach § 3 Abs. 2 und frühestens mit dem auf den Sterbemonat folgenden Monat bei Hilfen nach § 4. Werden Hilfen im Sinne des Satzes 2 innerhalb eines Jahres nach Verkündung dieses Gesetzes beantragt, beginnt die Leistungsgewährung frühestens mit seinem Inkrafttreten.
 
-(2) Für die Zahlung der Hilfen nach den §§ 3 und 4 gilt § 66 des Bundesversorgungsgesetzes entsprechend.
+(2) Der Grad der Schädigungsfolgen Berechtigter darf nicht vor Ablauf von zwei Jahren nach Bekanntgabe des Feststellungsbescheids niedriger festgesetzt werden. Ist durch Krankenbehandlung eine wesentliche oder nachhaltige Besserung des schädigungsbedingten Gesundheitszustandes erreicht worden, so ist die niedrigere Festsetzung schon früher zulässig, jedoch frühestens nach Ablauf eines Jahres nach Abschluss dieser Behandlung.
 
-(3) Abweichend von Absatz 1 Satz 1 wird über die Hilfen nach den §§ 3 und 4 von Amts wegen entschieden, wenn bereits eine Anerkennung nach dem Bundes-Seuchengesetz vorliegt oder beantragt ist, die auf einem Tatbestand des § 1 beruht.
+(3) Die Versorgungsbezüge werden in Monatsbeträgen zuerkannt, auf volle Euro aufgerundet und monatlich im Voraus gezahlt. Das Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch und eine Beihilfe nach § 48 des Vierzehnten Buches Sozialgesetzbuch werden tageweise zuerkannt und mit Ablauf jeder Woche gezahlt. § 47 Absatz 1 des Ersten Buches Sozialgesetzbuch und § 118 Absatz 3 bis 4a des Sechsten Buches Sozialgesetzbuch gelten entsprechend.
 
-# § 7a – Bestandsschutz
-
-(1) Berechtigte nach § 1 Absatz 1 Satz 1 erhalten die monatliche Rente nach § 3 Absatz 2 weiterhin in der für den letzten bei ihnen festgestellten Grad der Schädigungsfolgen vorgesehenen Höhe, wenn nach dem 31. Dezember 2019 auf Grund einer Neufestsetzung des Grades der Schädigungsfolgen eine niedrigere oder keine Rente zu leisten wäre.
-
-(2) Berechtigte nach § 1 Absatz 1 Satz 1 erhalten die monatliche Rente nach § 3 Absatz 2 auf Antrag in der Höhe, die für den vor dem 1. Januar 2014 zuletzt bei ihnen festgestellten Grad der Schädigungsfolgen vorgesehen ist, wenn auf Grund von Neufestsetzungen des Grades der Schädigungsfolgen ab dem 1. Januar 2014 bis einschließlich 31. Dezember 2019 eine niedrigere oder keine Rente zu leisten war. Wurde der Antrag nach Satz 1 bis zum Ablauf des 30. Juni 2020 gestellt, besteht der Anspruch ab dem 1. Januar 2020, andernfalls ab dem Ersten des Monats, in dem der Antrag gestellt wurde.
-
-(3) Anpassungen nach § 8 bleiben von den Absätzen 1 und 2 unberührt.
+(4) Abweichend von Absatz 1 Satz 1 wird über die Hilfen nach den §§ 3 und 4 von Amts wegen entschieden, wenn bereits eine Anerkennung nach dem Bundes-Seuchengesetz vorliegt oder beantragt ist, die auf einem Tatbestand des § 1 beruht.
 
 # § 8 – Anpassung
 
@@ -87,7 +81,7 @@ Die §§ 64, 64a Abs. 1 und Abs. 3 Satz 1, §§ 64d sowie 64f und 89 des Bundesv
 
 # § 9 – Übergang gesetzlicher Schadensersatzansprüche
 
-(1) § 81a des Bundesversorgungsgesetzes gilt mit der Maßgabe, dass der gegen Dritte bestehende gesetzliche Schadensersatzanspruch auf das nach § 11 Abs. 1 für die Durchführung dieses Gesetzes jeweils zuständige Land übergeht.
+(1) § 120 des Vierzehnten Buches Sozialgesetzbuch gilt mit der Maßgabe, dass der gegen Dritte bestehende gesetzliche Schadensersatzanspruch auf das nach § 11 Abs. 1 für die Durchführung dieses Gesetzes jeweils zuständige Land übergeht.
 
 (2) Die eingezogenen Beträge führt das Land an den Bund und die in § 10 Abs. 3 genannten Länder in dem Verhältnis ab, in dem diese sich an der Kostenlast beteiligt haben.
 
@@ -97,23 +91,33 @@ Die §§ 64, 64a Abs. 1 und Abs. 3 Satz 1, §§ 64d sowie 64f und 89 des Bundesv
 
 (2) Die anderen durch Leistungen nach diesem Gesetz entstehenden Kosten trägt jeweils das Land, zu dessen heutigem Gebiet der Ort gehört, an dem die Anti-D-Immunprophylaxe durchgeführt wurde.
 
-(3) Den in Absatz 2 bezeichneten Ländern werden für Leistungen nach § 3 Absatz 2 in Verbindung mit Absatz 1 sowie in Verbindung mit § 7a, §§ 4 und 13 Abs. 1 vom Bund 50 vom Hundert und von den Ländern Baden-Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein 12,4 vom Hundert der entstandenen Kosten erstattet. Das Anteilsverhältnis unter den zur Erstattung verpflichteten Ländern wird zu zwei Dritteln nach dem Verhältnis ihrer Steuereinnahmen und zu einem Drittel nach dem Verhältnis ihrer Bevölkerungszahl bestimmt.
+(3) Den in Absatz 2 bezeichneten Ländern werden für Leistungen nach § 3 Abs. 2 in Verbindung mit Abs. 1, §§ 4 und 13 Abs. 1 und Abs. 2 vom Bund 50 vom Hundert und von den Ländern Baden-Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein 12,4 vom Hundert der entstandenen Kosten erstattet. Das Anteilsverhältnis unter den zur Erstattung verpflichteten Ländern wird zu zwei Dritteln nach dem Verhältnis ihrer Steuereinnahmen und zu einem Drittel nach dem Verhältnis ihrer Bevölkerungszahl bestimmt.
+
+# § 10 – Kostenträger
+
+(1) Die Kosten der Einmalzahlung trägt der Bund.
+
+(2) Die anderen durch Leistungen nach diesem Gesetz entstehenden Kosten trägt jeweils das Land, zu dessen heutigem Gebiet der Ort gehört, an dem die Anti-D-Immunprophylaxe durchgeführt wurde.
+
+(3) Den in Absatz 2 bezeichneten Ländern werden für Leistungen nach § 3 Absatz 2 in Verbindung mit Absatz 1 sowie in Verbindung mit § 7a, §§ 4 und 13 Abs. 1 und Abs. 2 vom Bund 50 vom Hundert und von den Ländern Baden-Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein 12,4 vom Hundert der entstandenen Kosten erstattet. Das Anteilsverhältnis unter den zur Erstattung verpflichteten Ländern wird zu zwei Dritteln nach dem Verhältnis ihrer Steuereinnahmen und zu einem Drittel nach dem Verhältnis ihrer Bevölkerungszahl bestimmt.
 
 # § 11 – Zuständigkeit, Verfahren
 
-(1) Die Gewährung von Leistungen nach diesem Gesetz obliegt den für die Durchführung des Bundesversorgungsgesetzes zuständigen Behörden des Landes, zu dessen heutigem Gebiet der Ort gehört, an dem die Anti-D-Immunprophylaxe durchgeführt wurde. Die örtliche Zuständigkeit der Behörden bestimmt sich nach den für den Vollzug des Infektionsschutzgesetzes geltenden landesrechtlichen Regelungen.
+(1) Die Gewährung von Leistungen nach diesem Gesetz obliegt den für die Durchführung des Vierzehnten Buches Sozialgesetzbuch zuständigen Behörden des Landes, zu dessen heutigem Gebiet der Ort gehört, an dem die Anti-D-Immunprophylaxe durchgeführt wurde. Die örtliche Zuständigkeit der Behörden bestimmt sich nach den für den Vollzug des Infektionsschutzgesetzes geltenden landesrechtlichen Regelungen.
 
-(2) Das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung, mit Ausnahme der §§ 3 und 4, das Erste und Zehnte Buch Sozialgesetzbuch sowie die Vorschriften des Sozialgerichtsgesetzes über das Vorverfahren sind anzuwenden.
+(2) Das Erste und Zehnte Buch Sozialgesetzbuch sowie die Vorschriften des Sozialgerichtsgesetzes über das Vorverfahren sind anzuwenden. Die §§ 117, 118 und 119 Absatz 2 des Vierzehnten Buches Sozialgesetzbuch gelten entsprechend.
 
 # § 12 – Rechtsweg
 
-Für öffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses Gesetzes ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit gegeben. Soweit das Sozialgerichtsgesetz besondere Vorschriften für die Kriegsopferversorgung enthält, gelten diese auch für die Streitigkeiten nach Satz 1.
+Für öffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses Gesetzes ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit gegeben.
 
 # § 13 – Übergangsvorschriften
 
 (1) Solange die Hilfen nach § 3 Abs. 2 und § 4 nicht die Höhe der beim Inkrafttreten dieses Gesetzes nach dem Bundes-Seuchengesetz gezahlten Leistungen erreichen, wird der jeweilige Differenzbetrag als Besitzstand weiter gezahlt.
 
-(2) Soweit Ansprüche auf Hilfen nach diesem Gesetz bestehen, ist Anlage I Kapitel X Sachgebiet D Abschnitt III Nummer 3 Buchstabe c des Einigungsvertrages nicht mehr anzuwenden. Nach dem Bundes-Seuchengesetz festgestellte Ansprüche erlöschen, soweit sie auf einem Tatbestand des § 1 dieses Gesetzes beruhen. Die bis zum Inkrafttreten dieses Gesetzes geleisteten Zahlungen nach dem Bundes-Seuchengesetz werden, soweit sie auf einem Tatbestand des § 1 beruhen, jedoch so lange weiter gewährt, bis über Ansprüche nach § 3 Abs. 2 in Verbindung mit Abs. 1 und § 4 entschieden wurde; sie sind auf Zahlungen nach § 3 Abs. 2 in Verbindung mit Abs. 1 und § 4 für denselben Zeitraum anzurechnen. Dies gilt entsprechend für bisher gewährte Heil- und Krankenbehandlung.
+(2) Abweichend von § 2 wird die Heil- und Krankenbehandlung ab dem 1. Januar 2024 nach § 143 des Vierzehnten Buches Sozialgesetzbuch erbracht.
+
+(3) Soweit Ansprüche auf Hilfen nach diesem Gesetz bestehen, ist Anlage I Kapitel X Sachgebiet D Abschnitt III Nummer 3 Buchstabe c des Einigungsvertrages nicht mehr anzuwenden. Nach dem Bundes-Seuchengesetz festgestellte Ansprüche erlöschen, soweit sie auf einem Tatbestand des § 1 dieses Gesetzes beruhen. Die bis zum Inkrafttreten dieses Gesetzes geleisteten Zahlungen nach dem Bundes-Seuchengesetz werden, soweit sie auf einem Tatbestand des § 1 beruhen, jedoch so lange weiter gewährt, bis über Ansprüche nach § 3 Abs. 2 in Verbindung mit Abs. 1 und § 4 entschieden wurde; sie sind auf Zahlungen nach § 3 Abs. 2 in Verbindung mit Abs. 1 und § 4 für denselben Zeitraum anzurechnen. Dies gilt entsprechend für bisher gewährte Heil- und Krankenbehandlung.
 
 # §§ 14 und 15 – (weggefallen)
 

@@ -25,7 +25,7 @@ Sozialversicherung
 
 § 5
 
-Soziale Entschädigung bei Gesundheitsschäden
+Soziale Entschädigung
 
 § 6
 
@@ -141,7 +141,7 @@ Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicheru
 
 § 24
 
-Versorgungsleistungen bei Gesundheitsschäden
+Leistungen der Sozialen Entschädigung
 
 § 25
 
@@ -395,6 +395,10 @@ Stadtstaaten-Klausel
 
 Überleitungsvorschrift zur Übertragung, Verpfändung und Pfändung
 
+§ 72
+
+Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
 # § 1 – Aufgaben des Sozialgesetzbuchs
 
 (1) Das Recht des Sozialgesetzbuchs soll zur Verwirklichung sozialer Gerechtigkeit und sozialer Sicherheit Sozialleistungen einschließlich sozialer und erzieherischer Hilfen gestalten. Es soll dazu beitragen,
@@ -444,15 +448,15 @@ besondere Belastungen des Lebens, auch durch Hilfe zur Selbsthilfe, abzuwenden o
 
 Ein Recht auf wirtschaftliche Sicherung haben auch die Hinterbliebenen eines Versicherten.
 
-# § 5 – Soziale Entschädigung bei Gesundheitsschäden
+# § 5 – Soziale Entschädigung
 
-Wer einen Gesundheitsschaden erleidet, für dessen Folgen die staatliche Gemeinschaft in Abgeltung eines besonderen Opfers oder aus anderen Gründen nach versorgungsrechtlichen Grundsätzen einsteht, hat ein Recht auf
+Wer einen Gesundheitsschaden erleidet, für dessen Folgen die staatliche Gemeinschaft in Abgeltung eines besonderen Opfers oder aus anderen Gründen nach Grundsätzen des Sozialen Entschädigungsrechts einsteht, hat ein Recht auf
 
 1. die notwendigen Maßnahmen zur Erhaltung, zur Besserung und zur Wiederherstellung der Gesundheit und der Leistungsfähigkeit und
 
 2. angemessene wirtschaftliche Versorgung.
 
-Ein Recht auf angemessene wirtschaftliche Versorgung haben auch die Hinterbliebenen eines Beschädigten.
+Ein Recht auf angemessene Leistungen der Sozialen Entschädigung haben auch die Hinterbliebenen eines Geschädigten.
 
 # § 6 – Minderung des Familienaufwands
 
@@ -714,21 +718,35 @@ e) Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung d
 
 3. in der Alterssicherung der Landwirte die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche Alterskasse.
 
-# § 24 – Versorgungsleistungen bei Gesundheitsschäden
+# § 24 – Leistungen der Sozialen Entschädigung
 
-(1) Nach dem Recht der sozialen Entschädigung bei Gesundheitsschäden können in Anspruch genommen werden:
+(1) Nach dem Recht der Sozialen Entschädigung können in Anspruch genommen werden:
 
-1. Heil- und Krankenbehandlung sowie andere Leistungen zur Erhaltung, Besserung und Wiederherstellung der Leistungsfähigkeit einschließlich wirtschaftlicher Hilfen,
+1. Leistungen des Fallmanagements und Leistungen in einer Traumaambulanz als Schnelle Hilfen,
 
-2. besondere Hilfen im Einzelfall einschließlich Leistungen zur Teilhabe am Arbeitsleben,
+2. Krankenbehandlung,
 
-3. Renten wegen anerkannten Schädigungsfolgen,
+3. Leistungen zur Teilhabe,
 
-4. Renten an Hinterbliebene, Bestattungsgeld und Sterbegeld,
+4. Leistungen bei Pflegebedürftigkeit,
 
-5. Kapitalabfindung, insbesondere zur Wohnraumbeschaffung.
+5. Leistungen bei Blindheit,
 
-(2) Zuständig sind die Versorgungsämter, die Landesversorgungsämter und die orthopädischen Versorgungsstellen. Für die besonderen Hilfen im Einzelfall sind die Kreise und kreisfreien Städte sowie die Hauptfürsorgestellen zuständig. Bei der Durchführung der Heil- und Krankenbehandlung wirken die Träger der gesetzlichen Krankenversicherung mit. Für die Leistungen nach den §§ 80, 81a bis 83a des Soldatenversorgungsgesetzes ist die Bundeswehrverwaltung zuständig.
+6. Entschädigungszahlungen,
+
+7. Berufsschadensausgleich,
+
+8. Besondere Leistungen im Einzelfall,
+
+9. Leistungen bei Überführung und Bestattung,
+
+10. Ausgleich in Härtefällen,
+
+11. Leistungen bei Wohnsitz oder gewöhnlichem Aufenthalt im Ausland sowie
+
+12. Leistungen nach den Vorschriften zu Besitzständen.
+
+(2) Zuständig sind die nach Bundesrecht oder Landesrecht bestimmten Träger der Sozialen Entschädigung. Bei der Durchführung der Krankenbehandlung wirken die Träger der gesetzlichen Krankenversicherung und bei der Durchführung der Hilfsmittelversorgung die Träger der gesetzlichen Unfallversicherung mit. Für die Leistungen nach den §§ 80, 81a bis 83a des Soldatenversorgungsgesetzes ist die Bundeswehrverwaltung zuständig.
 
 # § 25 – Kindergeld, Kinderzuschlag, Elterngeld und Leistungen für Bildung und Teilhabe
 
@@ -848,7 +866,7 @@ h) Hilfsmittel,
 
 4. unterhaltssichernde und andere ergänzende Leistungen, insbesondere
 
-a) Krankengeld, Versorgungskrankengeld, Verletztengeld, Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,
+a) Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld, Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,
 
 b) Beiträge zur gesetzlichen Kranken-, Unfall-, Renten- und Pflegeversicherung sowie zur Bundesagentur für Arbeit,
 
@@ -1254,27 +1272,17 @@ Bis zu ihrer Einordnung in dieses Gesetzbuch gelten die nachfolgenden Gesetze mi
 
 6. das Zweite Gesetz über die Krankenversicherung der Landwirte,
 
-7. das Bundesversorgungsgesetz, auch soweit andere Gesetze, insbesondere
+7. Gesetze, die eine entsprechende Anwendung der Leistungsvorschriften des Vierzehnten Buches vorsehen, insbesondere
 
-a) §§ 80 bis 83a des Soldatenversorgungsgesetzes,
+a) § 59 Absatz 1 des Bundesgrenzschutzgesetzes,
 
-b) § 59 Abs. 1 des Bundesgrenzschutzgesetzes,
+b) die §§ 4 und 5 des Häftlingshilfegesetzes,
 
-c) § 47 des Zivildienstgesetzes,
+c) die §§ 21 und 22 des Strafrechtlichen Rehabilitierungsgesetzes sowie
 
-d) § 60 des Infektionsschutzgesetzes,
+d) die §§ 3 und 4 des Verwaltungsrechtlichen Rehabilitierungsgesetzes,
 
-e) §§ 4 und 5 des Häftlingshilfegesetzes,
-
-f) § 1 des Opferentschädigungsgesetzes,
-
-g) §§ 21 und 22 des Strafrechtlichen Rehabilitierungsgesetzes,
-
-h) §§ 3 und 4 des Verwaltungsrechtlichen Rehabilitierungsgesetzes,
-
-die entsprechende Anwendung der Leistungsvorschriften des Bundesversorgungsgesetzes vorsehen,
-
-8. das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung,
+8. (weggefallen)
 
 9. das Bundeskindergeldgesetz,
 
@@ -1292,9 +1300,9 @@ die entsprechende Anwendung der Leistungsvorschriften des Bundesversorgungsgeset
 
 16. das Altersteilzeitgesetz,
 
-17. der Fünfte Abschnitt des Schwangerschaftskonfliktgesetzes.
+17. der Fünfte Abschnitt des Schwangerschaftskonfliktgesetzes,
 
-18. (weggefallen)
+18. die §§ 80 bis 83a des Soldatenversorgungsgesetzes, soweit sie die entsprechende Anwendung des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung vorsehen.
 
 # § 69 – Stadtstaaten-Klausel
 
@@ -1307,3 +1315,7 @@ Artikel 229 § 6 Abs. 1 und 2 des Einführungsgesetzes zum Bürgerlichen Gesetzb
 # § 71 – Überleitungsvorschrift zur Übertragung, Verpfändung und Pfändung
 
 § 53 Abs. 6 und § 54 Abs. 6 sind nur auf Geldleistungen anzuwenden, soweit diese nach dem 30. März 2005 ganz oder teilweise zu Unrecht erbracht werden.
+
+# § 72 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gilt die Vorschrift des § 29 Absatz 1 Nummer 4 Buchstabe a in der bis zum 31. Dezember 2023 geltenden Fassung weiter.

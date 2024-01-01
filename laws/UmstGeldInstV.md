@@ -70,11 +70,11 @@ Solange ein Vermögensgegenstand nicht genau bewertet werden kann, ist er mit de
 § 6 Abs. 8 Kursivdruck "§ 60": Vgl. jetzt § 102 Bewertungsgesetz 610-7  
 § 6 Abs. 9 Kursivdruck: Vgl. jetzt § 11 Abs. 3 Bewertungsgesetz 610-7
 
-# § 7 – Anteile an Personengesellschaften
+# § 7 – Anteile an rechtsfähigen Personengesellschaften
 
-(1) Ist ein Geldinstitut an einer Personengesellschaft in der Weise beteiligt, daß es im Sinne des Vermögensteuerrechts als Mitunternehmer anzusehen ist, so ist seine Beteiligung mit dem Betrage anzusetzen, den das Finanzamt als Vermögensteuerwert feststellt.
+(1) Ist ein Geldinstitut an einer rechtsfähigen Personengesellschaft in der Weise beteiligt, daß es im Sinne des Vermögensteuerrechts als Mitunternehmer anzusehen ist, so ist seine Beteiligung mit dem Betrage anzusetzen, den das Finanzamt als Vermögensteuerwert feststellt.
 
-(2) Ist ein Geldinstitut an einer Personengesellschaft in der Weise beteiligt, daß es im Sinne des Vermögensteuerrechts nicht als Mitunternehmer anzusehen ist, so ist seine Beteiligung mit dem Nennbetrage in Deutscher Mark anzusetzen, es sei denn, daß besondere Umstände einen höheren oder geringeren Wert begründen.
+(2) Ist ein Geldinstitut an einer rechtsfähigen Personengesellschaft in der Weise beteiligt, daß es im Sinne des Vermögensteuerrechts nicht als Mitunternehmer anzusehen ist, so ist seine Beteiligung mit dem Nennbetrage in Deutscher Mark anzusetzen, es sei denn, daß besondere Umstände einen höheren oder geringeren Wert begründen.
 
 (3) § 6 Abs. 7 gilt entsprechend.
 

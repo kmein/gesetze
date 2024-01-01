@@ -482,21 +482,21 @@ Den Schwerpunkt des mündlichen Teils der Prüfung bilden die Auseinandersetzung
 
 (2) Die hochschulische Pflegeausbildung umfasst unter Beachtung der Vorgaben der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18) einen Arbeitsaufwand der Studierenden von jeweils insgesamt mindestens 4 600 Stunden. Davon entfallen mindestens 2 100 auf die Lehrveranstaltungen und mindestens 2 300 Stunden auf die Praxiseinsätze in Einrichtungen nach § 7 des Pflegeberufegesetzes. Mindestens jeweils 400 der auf die Praxiseinsätze entfallenden Stunden sind in der allgemeinen Akutpflege in stationären Einrichtungen, der allgemeinen Langzeitpflege in stationären Einrichtungen und der allgemeinen ambulanten Akut- und Langzeitpflege nach § 7 Absatz 1 des Pflegeberufegesetzes durchzuführen.
 
-(3) Die hochschulische Pflegeausbildung erfolgt im Wechsel von Lehrveranstaltungen und Praxiseinsätzen. Die Koordination erfolgt durch die Hochschule.
+(3) Die hochschulische Pflegeausbildung erfolgt im Wechsel von Lehrveranstaltungen und Praxiseinsätzen. Die Koordination erfolgt durch die Hochschule. Die Berücksichtigung des Selbststudiums ist bei der Konzeption der Lehrveranstaltungen in angemessenem Umfang zulässig.
 
 (3a) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können als pädagogische Hilfsmittel bei der Konzeption der theoretischen und praktischen Lehrveranstaltungen in einem angemessenen Umfang berücksichtigt werden.
 
 (4) Das modulare Curriculum wird auf der Grundlage der Ausbildungsziele nach § 37 des Pflegeberufegesetzes und der Vorgaben der Anlage 5 erstellt.
 
-(5) Stellt die Hochschule bei der zuständigen Behörde einen Antrag nach § 38 Absatz 3 Satz 4 des Pflegeberufegesetzes, legt sie in einem Konzept dar, dass das Ziel der Praxiseinsätze, insbesondere das Ziel, als Mitglied eines Pflegeteams in unmittelbarem Kontakt mit zu pflegenden Menschen zu lernen, nicht gefährdet wird.
+(5) Stellt die Hochschule bei der zuständigen Behörde einen Antrag auf Erteilung der Genehmigung nach § 38 Absatz 3 Satz 5 des Pflegeberufegesetzes, legt sie in einem Konzept dar, dass das Ziel des jeweiligen Praxiseinsatzes, insbesondere das Ziel, als Mitglied eines Pflegeteams in unmittelbarem Kontakt mit zu pflegenden Menschen zu lernen, durch den beantragten Umfang der Ersetzung von Praxiseinsätzen durch praktische Lerneinheiten an der Hochschule nicht gefährdet wird.
 
 (6) Fehlzeiten dürfen das Ausbildungsziel nach § 37 des Pflegeberufegesetzes nicht gefährden. Das Nähere regelt die Hochschule.
 
 # § 31 – Durchführung der hochschulischen Pflegeausbildung
 
-(1) Die Hochschule gewährleistet über schriftliche Kooperationsverträge mit den Einrichtungen die Durchführung der Praxiseinsätze und stellt damit sicher, dass sie in angemessenem Umfang eine Praxisanleitung entsprechend den Vorgaben des modularen Curriculums der Hochschule durchführen. Die Praxisanleitung erfolgt durch geeignetes, in der Regel hochschulisch qualifiziertes Pflegepersonal. Die Länder können weitergehende Regelungen treffen. Sie können bis zum 31. Dezember 2029 auch abweichende Anforderungen an die Eignung der Praxisanleiterinnen und Praxisanleiter zulassen.
+(1) Die Hochschule schließt für die Durchführung der Praxiseinsätze einen schriftlichen Kooperationsvertrag mit einer Einrichtung nach § 7 Absatz 1 des Pflegeberufegesetzes als Träger des praktischen Teils der hochschulischen Pflegeausbildung und stellt darin sicher, dass die im Umfang von mindestens 10 Prozent der während eines Praxiseinsatzes zu leistenden praktischen Ausbildungszeit zu gewährleistende Praxisanleitung entsprechend den Vorgaben des modularen Curriculums der Hochschule durchgeführt wird. Die Praxisanleitung erfolgt durch geeignetes, in der Regel hochschulisch qualifiziertes Pflegepersonal. Die Länder können weitergehende Regelungen treffen. Sie können bis zum 31. Dezember 2029 auch abweichende Anforderungen an die Eignung der Praxisanleiterinnen und Praxisanleiter zulassen.
 
-(2) Die Hochschule stellt für die Zeit der Praxiseinsätze die Praxisbegleitung der Studierenden in angemessenem Umfang sicher. Sie regelt über Kooperationsverträge mit den Einrichtungen der Praxiseinsätze die Durchführung der Praxisbegleitung in den Einrichtungen und die Zusammenarbeit mit den Praxisanleiterinnen und Praxisanleitern.
+(2) Die Hochschule stellt für die Zeit der Praxiseinsätze die Praxisbegleitung der Studierenden in angemessenem Umfang sicher. Sie regelt über den Kooperationsvertrag mit dem Träger des praktischen Teils der hochschulischen Pflegeausbildung die Durchführung der Praxisbegleitung in den Einrichtungen und die Zusammenarbeit mit den Praxisanleiterinnen und Praxisanleitern. Die an der praktischen Ausbildung beteiligten Einrichtungen unterstützen die Hochschule bei der Durchführung der Praxisbegleitung.
 
 (3) Den Studierenden dürfen im Rahmen der Praxiseinsätze nur Aufgaben übertragen werden, die dem Ausbildungszweck und dem Ausbildungsstand entsprechen; die übertragenen Aufgaben sollen den physischen und psychischen Kräften der Studierenden angemessen sein.
 
@@ -510,7 +510,7 @@ Den Schwerpunkt des mündlichen Teils der Prüfung bilden die Auseinandersetzung
 
 (3) Der praktische Teil der Prüfung wird in der Regel in der Einrichtung abgelegt, in der der Vertiefungseinsatz nach § 38 Absatz 3 Satz 1 des Pflegeberufegesetzes durchgeführt wurde.
 
-(4) Die Hochschule legt mit Zustimmung der zuständigen Behörde die Module des Studiengangs fest, in denen die Überprüfung der Kompetenzen nach § 39 Absatz 2 Satz 1 des Pflegeberufegesetzes erfolgt, sowie die Art der jeweiligen Modulprüfung nach Maßgabe der §§ 35 bis 37.
+(4) Die Hochschule legt mit Zustimmung der zuständigen Behörde die Module des Studiengangs fest, in denen die Überprüfung der Kompetenzen nach § 39 Absatz 2 Satz 1 des Pflegeberufegesetzes erfolgt, sowie die Art der jeweiligen Modulprüfung nach Maßgabe der §§ 35 bis 37. Die Prüfungen nach den §§ 35 bis 37 sollen zum Ende des Studiums erfolgen.
 
 # § 33 – Prüfungsausschuss
 
@@ -610,7 +610,7 @@ In allen drei Aufsichtsarbeiten werden die Reflexion und Begründung des eigenen
 
 (2) Der praktische Teil der Prüfung besteht aus einer Aufgabe der selbständigen, umfassenden und prozessorientierten Pflege und bezieht sich insbesondere auf die vorbehaltenen Tätigkeiten nach § 4 des Pflegeberufegesetzes. Die zu prüfende Person zeigt die erworbenen Kompetenzen im Bereich einer umfassenden personenbezogenen Erhebung und Feststellung des individuellen Pflegebedarfs, der Planung und Gestaltung der Pflege, der Durchführung der erforderlichen Pflege und der Evaluation des Pflegeprozesses einschließlich der Kommunikation und Beratung sowie in der Qualitätssicherung und in der intra- und interprofessionellen Zusammenarbeit und übernimmt in diesem Rahmen alle anfallenden Aufgaben einer prozessorientierten Pflege. Dabei stellt sie auch die Kompetenz unter Beweis, ihr Pflegehandeln wissenschaftsbasiert oder -orientiert zu begründen und zu reflektieren. Der praktische Teil der Prüfung schließt das Modul nach Absatz 1 ab.
 
-(3) Die Prüfungsaufgabe soll insbesondere den Versorgungsbereich berücksichtigen, in dem die zu prüfende Person im Rahmen der praktischen Ausbildung den Vertiefungseinsatz nach § 6 Absatz 3 Satz 2 des Pflegeberufegesetzes absolviert hat. Sie wird auf Vorschlag mindestens einer Prüferin oder eines Prüfers nach § 33 Absatz 1 Satz 2 Nummer 4 durch die Vorsitzenden des Prüfungsausschusses bestimmt.
+(3) Die Prüfungsaufgabe soll insbesondere den Versorgungsbereich berücksichtigen, in dem die zu prüfende Person im Rahmen der Praxiseinsätze den Vertiefungseinsatz nach § 38 Absatz 3 Satz 1 des Pflegeberufegesetzes absolviert hat. Sie wird auf Vorschlag mindestens einer Prüferin oder eines Prüfers nach § 33 Absatz 1 Satz 2 Nummer 4 durch die Vorsitzenden des Prüfungsausschusses bestimmt.
 
 (4) Die Prüfung findet in realen und hochkomplexen Pflegesituationen statt. Sie erstreckt sich auf die Pflege von mindestens zwei Menschen, von denen einer einen erhöhten Pflegebedarf und eine hochkomplexe Pflegesituation aufweist. Die zu prüfenden Personen werden einzeln geprüft.
 

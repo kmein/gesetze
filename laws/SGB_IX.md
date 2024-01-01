@@ -321,7 +321,7 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 4. die Träger der gesetzlichen Rentenversicherung für Leistungen nach § 5 Nummer 1 bis 3, der Träger der Alterssicherung der Landwirte für Leistungen nach § 5 Nummer 1 und 3,
 
-5. die Träger der Kriegsopferversorgung und die Träger der Kriegsopferfürsorge im Rahmen des Rechts der sozialen Entschädigung bei Gesundheitsschäden für Leistungen nach § 5 Nummer 1 bis 5,
+5. die Träger der Sozialen Entschädigung für Leistungen nach § 5 Nummer 1 bis 5,
 
 6. die Träger der öffentlichen Jugendhilfe für Leistungen nach § 5 Nummer 1, 2, 4 und 5 sowie
 
@@ -465,7 +465,7 @@ es sei denn, die Rehabilitationsträger vereinbaren Abweichendes. Hat ein Rehabi
 
 (5) Hat der leistende Rehabilitationsträger in den Fällen des § 18 Aufwendungen für selbstbeschaffte Leistungen nach dem Leistungsgesetz eines nach § 15 beteiligten Rehabilitationsträgers zu erstatten, kann er von dem beteiligten Rehabilitationsträger einen Ausgleich verlangen, soweit dieser durch die Erstattung nach § 18 Absatz 4 Satz 2 von seiner Leistungspflicht befreit wurde. Hat ein beteiligter Rehabilitationsträger den Eintritt der Erstattungspflicht für selbstbeschaffte Leistungen zu vertreten, umfasst der Ausgleich den gesamten Erstattungsbetrag abzüglich des Betrages, der sich aus der bei anderen Rehabilitationsträgern eingetretenen Leistungsbefreiung ergibt.
 
-(6) Für den Erstattungsanspruch des Trägers der Eingliederungshilfe, der öffentlichen Jugendhilfe und der Kriegsopferfürsorge gilt § 108 Absatz 2 des Zehnten Buches entsprechend.
+(6) Für den Erstattungsanspruch des Trägers der Eingliederungshilfe, der öffentlichen Jugendhilfe und der Sozialen Entschädigung gilt § 108 Absatz 2 des Zehnten Buches entsprechend.
 
 # § 17 – Begutachtung
 
@@ -501,7 +501,7 @@ es sei denn, die Rehabilitationsträger vereinbaren Abweichendes. Hat ein Rehabi
 
 (6) Konnte der Rehabilitationsträger eine unaufschiebbare Leistung nicht rechtzeitig erbringen oder hat er eine Leistung zu Unrecht abgelehnt und sind dadurch Leistungsberechtigten für die selbstbeschaffte Leistung Kosten entstanden, sind diese vom Rehabilitationsträger in der entstandenen Höhe zu erstatten, soweit die Leistung notwendig war. Der Anspruch auf Erstattung richtet sich gegen den Rehabilitationsträger, der zum Zeitpunkt der Selbstbeschaffung über den Antrag entschieden hat. Lag zum Zeitpunkt der Selbstbeschaffung noch keine Entscheidung vor, richtet sich der Anspruch gegen den leistenden Rehabilitationsträger.
 
-(7) Die Absätze 1 bis 5 gelten nicht für die Träger der Eingliederungshilfe, der öffentlichen Jugendhilfe und der Kriegsopferfürsorge.
+(7) Die Absätze 1 bis 5 gelten nicht für die Träger der Eingliederungshilfe, der öffentlichen Jugendhilfe und der Sozialen Entschädigung, soweit dieser Leistungen zur Teilhabe nach § 62 Satz 1 Nummer 1 bis 3 des Vierzehnten Buches erbringt.
 
 # § 19 – Teilhabeplan
 
@@ -561,7 +561,7 @@ Wenn Leistungsberechtigte die Erstellung eines Teilhabeplans wünschen und die V
 
 # § 21 – Besondere Anforderungen an das Teilhabeplanverfahren
 
-Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für die Gesamtplanung ergänzend; dabei ist das Gesamtplanverfahren ein Gegenstand des Teilhabeplanverfahrens. Ist der Träger der öffentlichen Jugendhilfe der für die Durchführung des Teilhabeplans verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für den Hilfeplan nach den §§ 36, 36b und 37c des Achten Buches ergänzend.
+Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für die Gesamtplanung ergänzend; dabei ist das Gesamtplanverfahren ein Gegenstand des Teilhabeplanverfahrens. Ist der Träger der öffentlichen Jugendhilfe der für die Durchführung des Teilhabeplans verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für den Hilfeplan nach den §§ 36, 36b und 37c des Achten Buches ergänzend. Ist der Träger der Sozialen Entschädigung der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für das Fallmanagement nach § 30 des Vierzehnten Buches ergänzend.
 
 # § 22 – Einbeziehung anderer öffentlicher Stellen
 
@@ -668,11 +668,11 @@ ausführen. Der zuständige Rehabilitationsträger bleibt für die Ausführung d
 
 # § 29 – Persönliches Budget
 
-(1) Auf Antrag der Leistungsberechtigten werden Leistungen zur Teilhabe durch die Leistungsform eines Persönlichen Budgets ausgeführt, um den Leistungsberechtigten in eigener Verantwortung ein möglichst selbstbestimmtes Leben zu ermöglichen. Bei der Ausführung des Persönlichen Budgets sind nach Maßgabe des individuell festgestellten Bedarfs die Rehabilitationsträger, die Pflegekassen und die Integrationsämter beteiligt. Das Persönliche Budget wird von den beteiligten Leistungsträgern trägerübergreifend als Komplexleistung erbracht. Das Persönliche Budget kann auch nicht trägerübergreifend von einem einzelnen Leistungsträger erbracht werden. Budgetfähig sind auch die neben den Leistungen nach Satz 1 erforderlichen Leistungen der Krankenkassen und der Pflegekassen, Leistungen der Träger der Unfallversicherung bei Pflegebedürftigkeit sowie Hilfe zur Pflege der Sozialhilfe, die sich auf alltägliche und regelmäßig wiederkehrende Bedarfe beziehen und als Geldleistungen oder durch Gutscheine erbracht werden können. An die Entscheidung sind die Leistungsberechtigten für die Dauer von sechs Monaten gebunden.
+(1) Auf Antrag der Leistungsberechtigten werden Leistungen zur Teilhabe durch die Leistungsform eines Persönlichen Budgets ausgeführt, um den Leistungsberechtigten in eigener Verantwortung ein möglichst selbstbestimmtes Leben zu ermöglichen. Bei der Ausführung des Persönlichen Budgets sind nach Maßgabe des individuell festgestellten Bedarfs die Rehabilitationsträger, die Pflegekassen und die Integrationsämter beteiligt. Das Persönliche Budget wird von den beteiligten Leistungsträgern trägerübergreifend als Komplexleistung erbracht. Das Persönliche Budget kann auch nicht trägerübergreifend von einem einzelnen Leistungsträger erbracht werden. Budgetfähig sind auch die neben den Leistungen nach Satz 1 erforderlichen Leistungen der Krankenkassen und der Pflegekassen, Leistungen der Träger der Unfallversicherung bei Pflegebedürftigkeit Leistungen der Träger der Sozialen Entschädigung zur Krankenbehandlung, bei Pflegebedürftigkeit und zur Weiterführung des Haushalts sowie Hilfe zur Pflege der Sozialhilfe, die sich auf alltägliche und regelmäßig wiederkehrende Bedarfe beziehen und als Geldleistungen oder durch Gutscheine erbracht werden können. An die Entscheidung sind die Leistungsberechtigten für die Dauer von sechs Monaten gebunden.
 
 (2) Persönliche Budgets werden in der Regel als Geldleistung ausgeführt, bei laufenden Leistungen monatlich. In begründeten Fällen sind Gutscheine auszugeben. Mit der Auszahlung oder der Ausgabe von Gutscheinen an die Leistungsberechtigten gilt deren Anspruch gegen die beteiligten Leistungsträger insoweit als erfüllt. Das Bedarfsermittlungsverfahren für laufende Leistungen wird in der Regel im Abstand von zwei Jahren wiederholt. In begründeten Fällen kann davon abgewichen werden. Persönliche Budgets werden auf der Grundlage der nach Kapitel 4 getroffenen Feststellungen so bemessen, dass der individuell festgestellte Bedarf gedeckt wird und die erforderliche Beratung und Unterstützung erfolgen kann. Dabei soll die Höhe des Persönlichen Budgets die Kosten aller bisher individuell festgestellten Leistungen nicht überschreiten, die ohne das Persönliche Budget zu erbringen sind. § 35a des Elften Buches bleibt unberührt.
 
-(3) Werden Leistungen zur Teilhabe in der Leistungsform des Persönlichen Budgets beantragt, ist der nach § 14 leistende Rehabilitationsträger für die Durchführung des Verfahrens zuständig. Satz 1 findet entsprechend Anwendung auf die Pflegekassen und die Integrationsämter. Enthält das Persönliche Budget Leistungen, für die der Leistungsträger nach den Sätzen 1 und 2 nicht Leistungsträger nach § 6 Absatz 1 sein kann, leitet er den Antrag insoweit unverzüglich dem nach seiner Auffassung zuständigen Leistungsträger nach § 15 zu.
+(3) Werden Leistungen zur Teilhabe in der Leistungsform des Persönlichen Budgets beantragt, ist der nach § 14 leistende Rehabilitationsträger für die Durchführung des Verfahrens zuständig. Satz 1 findet entsprechend Anwendung auf die Pflegekassen und die Integrationsämter sowie auf die Träger der Sozialen Entschädigung, soweit diese Leistungen nach Absatz 1 Satz 5 erbringen. Enthält das Persönliche Budget Leistungen, für die der Leistungsträger nach den Sätzen 1 und 2 nicht Leistungsträger nach § 6 Absatz 1 sein kann, leitet er den Antrag insoweit unverzüglich dem nach seiner Auffassung zuständigen Leistungsträger nach § 15 zu.
 
 (4) Der Leistungsträger nach Absatz 3 und die Leistungsberechtigten schließen zur Umsetzung des Persönlichen Budgets eine Zielvereinbarung ab. Sie enthält mindestens Regelungen über
 
@@ -1288,13 +1288,13 @@ Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort 
 
 3. die Träger der Rentenversicherung unter den Voraussetzungen der §§ 11 bis 13 des Sechsten Buches und
 
-4. die Träger der Kriegsopferfürsorge unter den Voraussetzungen der §§ 26 und 26a des Bundesversorgungsgesetzes.
+4. die Träger der Sozialen Entschädigung unter den Voraussetzungen der §§ 63 und 64 des Vierzehnten Buches.
 
 (2) Die Leistungen im Arbeitsbereich einer anerkannten Werkstatt für behinderte Menschen erbringen
 
 1. die Träger der Unfallversicherung im Rahmen ihrer Zuständigkeit für durch Arbeitsunfälle Verletzte und von Berufskrankheiten Betroffene,
 
-2. die Träger der Kriegsopferfürsorge unter den Voraussetzungen des § 27d Absatz 1 Nummer 3 des Bundesversorgungsgesetzes,
+2. die Träger der Sozialen Entschädigung unter den Voraussetzungen des § 63 des Vierzehnten Buches,
 
 3. die Träger der öffentlichen Jugendhilfe unter den Voraussetzungen des § 35a des Achten Buches und
 
@@ -1306,7 +1306,7 @@ Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort 
 
 (1) Die Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben der in § 6 Absatz 1 Nummer 1 bis 5 genannten Rehabilitationsträger werden ergänzt durch
 
-1. Krankengeld, Versorgungskrankengeld, Verletztengeld, Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,
+1. Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld, Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,
 
 2. Beiträge und Beitragszuschüsse
 
@@ -1340,7 +1340,7 @@ e) zur Pflegeversicherung nach Maßgabe des Elften Buches,
 
 3. Übergangsgeld: die Träger der Rentenversicherung nach Maßgabe dieses Buches und der §§ 20 und 21 des Sechsten Buches,
 
-4. Versorgungskrankengeld: die Träger der Kriegsopferversorgung nach Maßgabe der §§ 16 bis 16h und 18a des Bundesversorgungsgesetzes.
+4. die Träger der Sozialen Entschädigung Krankengeld der Sozialen Entschädigung nach Maßgabe des § 47 des Vierzehnten Buches.
 
 (2) Im Zusammenhang mit Leistungen zur Teilhabe am Arbeitsleben leisten Übergangsgeld
 
@@ -1350,7 +1350,7 @@ e) zur Pflegeversicherung nach Maßgabe des Elften Buches,
 
 3. die Bundesagentur für Arbeit nach Maßgabe dieses Buches und der §§ 119 bis 121 des Dritten Buches,
 
-4. die Träger der Kriegsopferfürsorge nach Maßgabe dieses Buches und des § 26a des Bundesversorgungsgesetzes.
+4. die Träger der Sozialen Entschädigung nach Maßgabe dieses Buches und des § 64 des Vierzehnten Buches.
 
 (3) Menschen mit Behinderungen oder von Behinderung bedrohte Menschen haben Anspruch auf Übergangsgeld wie bei Leistungen zur Teilhabe am Arbeitsleben für den Zeitraum, in dem die berufliche Eignung abgeklärt oder eine Arbeitserprobung durchgeführt wird (§ 49 Absatz 4 Satz 2) und sie wegen der Teilnahme an diesen Maßnahmen kein oder ein geringeres Arbeitsentgelt oder Arbeitseinkommen erzielen.
 
@@ -1360,11 +1360,9 @@ e) zur Pflegeversicherung nach Maßgabe des Elften Buches,
 
 1. die Bundesagentur für Arbeit Ausbildungsgeld nach Maßgabe der §§ 122 bis 126 des Dritten Buches und
 
-2. die Träger der Kriegsopferfürsorge Unterhaltsbeihilfe unter den Voraussetzungen der §§ 26 und 26a des Bundesversorgungsgesetzes.
+2. die Träger der Sozialen Entschädigung Unterhaltsbeihilfe unter den Voraussetzungen des § 64 des Vierzehnten Buches.
 
-(6) Die Träger der Kriegsopferfürsorge leisten in den Fällen des § 27d Absatz 1 Nummer 3 des Bundesversorgungsgesetzes ergänzende Hilfe zum Lebensunterhalt nach § 27a des Bundesversorgungsgesetzes.
-
-(7) Das Krankengeld, das Versorgungskrankengeld, das Verletztengeld und das Übergangsgeld werden für Kalendertage gezahlt; wird die Leistung für einen ganzen Kalendermonat gezahlt, so wird dieser mit 30 Tagen angesetzt.
+(6) Das Krankengeld, das Krankengeld der Sozialen Entschädigung, das Verletztengeld und das Übergangsgeld werden für Kalendertage gezahlt; wird die Leistung für einen ganzen Kalendermonat gezahlt, so wird dieser mit 30 Tagen angesetzt.
 
 # § 66 – Höhe und Berechnung des Übergangsgelds
 
@@ -1380,7 +1378,7 @@ c) deren Ehegatten oder Lebenspartner, mit denen sie in häuslicher Gemeinschaft
 
 2. 68 Prozent der Berechnungsgrundlage für die übrigen Leistungsempfänger.
 
-Leisten Träger der Kriegsopferfürsorge Übergangsgeld, beträgt das Übergangsgeld 80 Prozent der Berechnungsgrundlage, wenn die Leistungsempfänger eine der Voraussetzungen von Satz 3 Nummer 1 erfüllen, und im Übrigen 70 Prozent der Berechnungsgrundlage.
+Leisten Träger der Sozialen Entschädigung nach dem Vierzehnten Buch Übergangsgeld, beträgt das Übergangsgeld 80 Prozent der Berechnungsgrundlage, wenn die Leistungsempfänger eine der Voraussetzungen von Satz 3 Nummer 1 erfüllen, und im Übrigen 70 Prozent der Berechnungsgrundlage.
 
 (2) Das Nettoarbeitsentgelt nach Absatz 1 Satz 1 berechnet sich, indem der Anteil am Nettoarbeitsentgelt, der sich aus dem kalendertäglichen Hinzurechnungsbetrag nach § 67 Absatz 1 Satz 6 ergibt, mit dem Prozentsatz angesetzt wird, der sich aus dem Verhältnis des kalendertäglichen Regelentgeltbetrages nach § 67 Absatz 1 Satz 1 bis 5 zu dem sich aus diesem Regelentgeltbetrag ergebenden Nettoarbeitsentgelt ergibt. Das kalendertägliche Übergangsgeld darf das kalendertägliche Nettoarbeitsentgelt, das sich aus dem Arbeitsentgelt nach § 67 Absatz 1 Satz 1 bis 5 ergibt, nicht übersteigen.
 
@@ -1420,11 +1418,11 @@ Maßgebend ist die Bezugsgröße, die für den Wohnsitz oder für den gewöhnlic
 
 # § 69 – Kontinuität der Bemessungsgrundlage
 
-Haben Leistungsempfänger Krankengeld, Verletztengeld, Versorgungskrankengeld oder Übergangsgeld bezogen und wird im Anschluss daran eine Leistung zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben ausgeführt, so wird bei der Berechnung der diese Leistungen ergänzenden Leistung zum Lebensunterhalt von dem bisher zugrunde gelegten Arbeitsentgelt ausgegangen; es gilt die für den Rehabilitationsträger jeweils geltende Beitragsbemessungsgrenze.
+Haben Leistungsempfänger Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung oder Übergangsgeld bezogen und wird im Anschluss daran eine Leistung zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben ausgeführt, so wird bei der Berechnung der diese Leistungen ergänzenden Leistung zum Lebensunterhalt von dem bisher zugrunde gelegten Arbeitsentgelt ausgegangen; es gilt die für den Rehabilitationsträger jeweils geltende Beitragsbemessungsgrenze.
 
 # § 70 – Anpassung der Entgeltersatzleistungen
 
-(1) Die Berechnungsgrundlage, die dem Krankengeld, dem Versorgungskrankengeld, dem Verletztengeld und dem Übergangsgeld zugrunde liegt, wird jeweils nach Ablauf eines Jahres ab dem Ende des Bemessungszeitraums an die Entwicklung der Bruttoarbeitsentgelte angepasst und zwar entsprechend der Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2 Satz 1 des Sechsten Buches) vom vorvergangenen zum vergangenen Kalenderjahr.
+(1) Die Berechnungsgrundlage, die dem Krankengeld, dem Krankengeld der Sozialen Entschädigung, dem Verletztengeld und dem Übergangsgeld zugrunde liegt, wird jeweils nach Ablauf eines Jahres ab dem Ende des Bemessungszeitraums an die Entwicklung der Bruttoarbeitsentgelte angepasst und zwar entsprechend der Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2 Satz 1 des Sechsten Buches) vom vorvergangenen zum vergangenen Kalenderjahr.
 
 (2) Der Anpassungsfaktor wird errechnet, indem die Bruttolöhne und -gehälter je Arbeitnehmer für das vergangene Kalenderjahr durch die entsprechenden Bruttolöhne und -gehälter für das vorvergangene Kalenderjahr geteilt werden; § 68 Absatz 7 und § 121 Absatz 1 des Sechsten Buches gelten entsprechend.
 
@@ -1434,7 +1432,7 @@ Haben Leistungsempfänger Krankengeld, Verletztengeld, Versorgungskrankengeld od
 
 # § 71 – Weiterzahlung der Leistungen
 
-(1) Sind nach Abschluss von Leistungen zur medizinischen Rehabilitation oder von Leistungen zur Teilhabe am Arbeitsleben weitere Leistungen zur Teilhabe am Arbeitsleben erforderlich, während derer dem Grunde nach Anspruch auf Übergangsgeld besteht, und können diese Leistungen aus Gründen, die die Leistungsempfänger nicht zu vertreten haben, nicht unmittelbar anschließend durchgeführt werden, werden das Verletztengeld, das Versorgungskrankengeld oder das Übergangsgeld für diese Zeit weitergezahlt. Voraussetzung für die Weiterzahlung ist, dass
+(1) Sind nach Abschluss von Leistungen zur medizinischen Rehabilitation oder von Leistungen zur Teilhabe am Arbeitsleben weitere Leistungen zur Teilhabe am Arbeitsleben erforderlich, während derer dem Grunde nach Anspruch auf Übergangsgeld besteht, und können diese Leistungen aus Gründen, die die Leistungsempfänger nicht zu vertreten haben, nicht unmittelbar anschließend durchgeführt werden, werden das Verletztengeld, das Krankengeld der Sozialen Entschädigung oder das Übergangsgeld für diese Zeit weitergezahlt. Voraussetzung für die Weiterzahlung ist, dass
 
 1. die Leistungsempfänger arbeitsunfähig sind und keinen Anspruch auf Krankengeld mehr haben oder
 
@@ -2658,7 +2656,7 @@ Abweichend von Kapitel 9 sind bei der Festsetzung von Leistungen für Leistungsb
 
 # § 152 – Feststellung der Behinderung, Ausweise
 
-(1) Auf Antrag des behinderten Menschen stellen die für die Durchführung des Bundesversorgungsgesetzes zuständigen Behörden das Vorliegen einer Behinderung und den Grad der Behinderung zum Zeitpunkt der Antragstellung fest. Auf Antrag kann festgestellt werden, dass ein Grad der Behinderung oder gesundheitliche Merkmale bereits zu einem früheren Zeitpunkt vorgelegen haben, wenn dafür ein besonderes Interesse glaubhaft gemacht wird. Beantragt eine erwerbstätige Person die Feststellung der Eigenschaft als schwerbehinderter Mensch (§ 2 Absatz 2), gelten die in § 14 Absatz 2 Satz 2 und 3 sowie § 17 Absatz 1 Satz 1 und Absatz 2 Satz 1 genannten Fristen sowie § 60 Absatz 1 des Ersten Buches entsprechend. Das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung ist entsprechend anzuwenden, soweit nicht das Zehnte Buch Anwendung findet. Die Auswirkungen auf die Teilhabe am Leben in der Gesellschaft werden als Grad der Behinderung nach Zehnergraden abgestuft festgestellt. Eine Feststellung ist nur zu treffen, wenn ein Grad der Behinderung von wenigstens 20 vorliegt. Durch Landesrecht kann die Zuständigkeit abweichend von Satz 1 geregelt werden.
+(1) Auf Antrag des behinderten Menschen stellen die für die Durchführung des Vierzehnten Buches zuständigen Behörden das Vorliegen einer Behinderung und den Grad der Behinderung zum Zeitpunkt der Antragstellung fest. Auf Antrag kann festgestellt werden, dass ein Grad der Behinderung oder gesundheitliche Merkmale bereits zu einem früheren Zeitpunkt vorgelegen haben, wenn dafür ein besonderes Interesse glaubhaft gemacht wird. Beantragt eine erwerbstätige Person die Feststellung der Eigenschaft als schwerbehinderter Mensch (§ 2 Absatz 2), gelten die in § 14 Absatz 2 Satz 2 und 3 sowie § 17 Absatz 1 Satz 1 und Absatz 2 Satz 1 genannten Fristen sowie § 60 Absatz 1 des Ersten Buches entsprechend. Die Auswirkungen auf die Teilhabe am Leben in der Gesellschaft werden als Grad der Behinderung nach Zehnergraden abgestuft festgestellt. Eine Feststellung ist nur zu treffen, wenn ein Grad der Behinderung von wenigstens 20 vorliegt. Durch Landesrecht kann die Zuständigkeit abweichend von Satz 1 geregelt werden.
 
 (2) Feststellungen nach Absatz 1 sind nicht zu treffen, wenn eine Feststellung über das Vorliegen einer Behinderung und den Grad einer auf ihr beruhenden Erwerbsminderung schon in einem Rentenbescheid, einer entsprechenden Verwaltungs- oder Gerichtsentscheidung oder einer vorläufigen Bescheinigung der für diese Entscheidungen zuständigen Dienststellen getroffen worden ist, es sei denn, dass der behinderte Mensch ein Interesse an anderweitiger Feststellung nach Absatz 1 glaubhaft macht. Eine Feststellung nach Satz 1 gilt zugleich als Feststellung des Grades der Behinderung.
 
@@ -2764,6 +2762,8 @@ e) die wegen Art oder Schwere der Behinderung keine abgeschlossene Berufsbildung
 
 (2) Ein schwerbehinderter Mensch, der beruflich ausgebildet wird, wird auf zwei Pflichtarbeitsplätze für schwerbehinderte Menschen angerechnet. Satz 1 gilt auch während der Zeit einer Ausbildung im Sinne des § 51 Absatz 2, die in einem Betrieb oder einer Dienststelle durchgeführt wird. Die Bundesagentur für Arbeit kann die Anrechnung auf drei Pflichtarbeitsplätze für schwerbehinderte Menschen zulassen, wenn die Vermittlung in eine berufliche Ausbildungsstelle wegen Art oder Schwere der Behinderung auf besondere Schwierigkeiten stößt. Bei Übernahme in ein Arbeits- oder Beschäftigungsverhältnis durch den ausbildenden oder einen anderen Arbeitgeber im Anschluss an eine abgeschlossene Ausbildung wird der schwerbehinderte Mensch im ersten Jahr der Beschäftigung auf zwei Pflichtarbeitsplätze angerechnet; Absatz 1 bleibt unberührt.
 
+(2a) Ein schwerbehinderter Mensch, der unmittelbar vorher in einer Werkstatt für behinderte Menschen oder bei einem anderen Leistungsanbieter beschäftigt war oder ein Budget für Arbeit erhält, wird in den ersten zwei Jahren der Beschäftigung auf zwei Pflichtarbeitsplätze angerechnet; Absatz 1 bleibt unberührt.
+
 (3) Bescheide über die Anrechnung eines schwerbehinderten Menschen auf mehr als drei Pflichtarbeitsplätze für schwerbehinderte Menschen, die vor dem 1. August 1986 erlassen worden sind, gelten fort.
 
 # § 160 – Ausgleichsabgabe
@@ -2772,17 +2772,19 @@ e) die wegen Art oder Schwere der Behinderung keine abgeschlossene Berufsbildung
 
 (2) Die Ausgleichsabgabe beträgt je unbesetztem Pflichtarbeitsplatz
 
-1. 125 Euro bei einer jahresdurchschnittlichen Beschäftigungsquote von 3 Prozent bis weniger als dem geltenden Pflichtsatz,
+1. 140 Euro bei einer jahresdurchschnittlichen Beschäftigungsquote von 3 Prozent bis weniger als dem geltenden Pflichtsatz,
 
-2. 220 Euro bei einer jahresdurchschnittlichen Beschäftigungsquote von 2 Prozent bis weniger als 3 Prozent,
+2. 245 Euro bei einer jahresdurchschnittlichen Beschäftigungsquote von 2 Prozent bis weniger als 3 Prozent,
 
-3. 320 Euro bei einer jahresdurchschnittlichen Beschäftigungsquote von weniger als 2 Prozent.
+3. 360 Euro bei einer jahresdurchschnittlichen Beschäftigungsquote von mehr als 0 Prozent bis weniger als 2 Prozent,
+
+4. 720 Euro bei einer jahresdurchschnittlichen Beschäftigungsquote von 0 Prozent.
 
 Abweichend von Satz 1 beträgt die Ausgleichsabgabe je unbesetztem Pflichtarbeitsplatz für schwerbehinderte Menschen
 
-1. für Arbeitgeber mit jahresdurchschnittlich weniger als 40 zu berücksichtigenden Arbeitsplätzen bei einer jahresdurchschnittlichen Beschäftigung von weniger als einem schwerbehinderten Menschen 125 Euro und
+1. für Arbeitgeber mit jahresdurchschnittlich weniger als 40 zu berücksichtigenden Arbeitsplätzen bei einer jahresdurchschnittlichen Beschäftigung von weniger als einem schwerbehinderten Menschen 140 Euro und bei einer jahresdurchschnittlichen Beschäftigung von null schwerbehinderten Menschen 210 Euro und
 
-2. für Arbeitgeber mit jahresdurchschnittlich weniger als 60 zu berücksichtigenden Arbeitsplätzen bei einer jahresdurchschnittlichen Beschäftigung von weniger als zwei schwerbehinderten Menschen 125 Euro und bei einer jahresdurchschnittlichen Beschäftigung von weniger als einem schwerbehinderten Menschen 220 Euro.
+2. für Arbeitgeber mit jahresdurchschnittlich weniger als 60 zu berücksichtigenden Arbeitsplätzen bei einer jahresdurchschnittlichen Beschäftigung von weniger als zwei schwerbehinderten Menschen 140 Euro, bei einer jahresdurchschnittlichen Beschäftigung von weniger als einem schwerbehinderten Menschen 245 Euro und bei einer jahresdurchschnittlichen Beschäftigung von null schwerbehinderten Menschen 410 Euro.
 
 (3) Die Ausgleichsabgabe erhöht sich entsprechend der Veränderung der Bezugsgröße nach § 18 Absatz 1 des Vierten Buches. Sie erhöht sich zum 1. Januar eines Kalenderjahres, wenn sich die Bezugsgröße seit der letzten Neubestimmung der Beträge der Ausgleichsabgabe um wenigstens 10 Prozent erhöht hat. Die Erhöhung der Ausgleichsabgabe erfolgt, indem der Faktor für die Veränderung der Bezugsgröße mit dem jeweiligen Betrag der Ausgleichsabgabe vervielfältigt wird. Die sich ergebenden Beträge sind auf den nächsten durch fünf teilbaren Betrag abzurunden. Das Bundesministerium für Arbeit und Soziales gibt den Erhöhungsbetrag und die sich nach Satz 3 ergebenden Beträge der Ausgleichsabgabe im Bundesanzeiger bekannt.
 
@@ -2807,7 +2809,11 @@ Abweichend von Satz 1 beträgt die Ausgleichsabgabe je unbesetztem Pflichtarbeit
 
 # § 161 – Ausgleichsfonds
 
-Zur besonderen Förderung der Einstellung und Beschäftigung schwerbehinderter Menschen auf Arbeitsplätzen und zur Förderung von Einrichtungen und Maßnahmen, die den Interessen mehrerer Länder auf dem Gebiet der Förderung der Teilhabe schwerbehinderter Menschen am Arbeitsleben dienen, ist beim Bundesministerium für Arbeit und Soziales als zweckgebundene Vermögensmasse ein Ausgleichsfonds für überregionale Vorhaben zur Teilhabe schwerbehinderter Menschen am Arbeitsleben gebildet. Das Bundesministerium für Arbeit und Soziales verwaltet den Ausgleichsfonds.
+(1) Zur besonderen Förderung der Einstellung und Beschäftigung schwerbehinderter Menschen auf Arbeitsplätzen und zur Förderung von Maßnahmen, die den Interessen mehrerer Länder auf dem Gebiet der Förderung der Teilhabe schwerbehinderter Menschen am Arbeitsleben dienen, ist beim Bundesministerium für Arbeit und Soziales als zweckgebundene Vermögensmasse ein Ausgleichsfonds für überregionale Vorhaben zur Teilhabe schwerbehinderter Menschen am Arbeitsleben gebildet. Das Bundesministerium für Arbeit und Soziales verwaltet den Ausgleichsfonds.
+
+(2) Abweichend von § 160 Absatz 5 Satz 1 dürfen sich Vorhaben, die aus dem Ausgleichsfonds finanziert werden, auch auf die Förderung der Ausbildung von nicht schwerbehinderten Jugendlichen und jungen Erwachsenen erstrecken, wenn diese Personen Leistungen zur Teilhabe am Arbeitsleben erhalten.
+
+(3) Abweichend von § 160 Absatz 5 Satz 2 werden bei Vorhaben, die aus dem Ausgleichsfonds gefördert werden, auch die dabei anfallenden Administrationskosten aus dem Ausgleichsfonds finanziert.
 
 # § 162 – Verordnungsermächtigungen
 
@@ -2819,11 +2825,9 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 3. in der Rechtsverordnung nach Nummer 2
 
-a) den Anteil des an den Ausgleichsfonds weiterzuleitenden Aufkommens an Ausgleichsabgabe entsprechend den erforderlichen Aufwendungen zur Erfüllung der Aufgaben des Ausgleichsfonds und der Integrationsämter,
+a) den Anteil des an den Ausgleichsfonds weiterzuleitenden Aufkommens an Ausgleichsabgabe entsprechend den erforderlichen Aufwendungen zur Erfüllung der Aufgaben des Ausgleichsfonds und der Integrationsämter sowie
 
-b) den Ausgleich zwischen den Integrationsämtern auf Vorschlag der Länder oder einer Mehrheit der Länder abweichend von § 160 Absatz 6 Satz 3 sowie
-
-c) die Zuständigkeit für die Förderung von Einrichtungen nach § 30 der Schwerbehinderten-Ausgleichsabgabeverordnung abweichend von § 41 Absatz 2 Nummer 1 dieser Verordnung und von Inklusionsbetrieben und -abteilungen abweichend von § 41 Absatz 1 Nummer 3 dieser Verordnung
+b) den Ausgleich zwischen den Integrationsämtern auf Vorschlag der Länder oder einer Mehrheit der Länder abweichend von § 160 Absatz 6 Satz 3
 
 zu regeln,
 
@@ -3218,6 +3222,12 @@ e) für außergewöhnliche Belastungen, die mit der Beschäftigung schwerbehinde
 (7) Die §§ 14, 15 Absatz 1, die §§ 16 und 17 gelten sinngemäß, wenn bei dem Integrationsamt eine Leistung zur Teilhabe am Arbeitsleben beantragt wird. Das Gleiche gilt, wenn ein Antrag bei einem Rehabilitationsträger gestellt und der Antrag von diesem nach § 16 Absatz 2 des Ersten Buches an das Integrationsamt weitergeleitet worden ist. Ist die unverzügliche Erbringung einer Leistung zur Teilhabe am Arbeitsleben erforderlich, so kann das Integrationsamt die Leistung vorläufig erbringen. Hat das Integrationsamt eine Leistung erbracht, für die ein anderer Träger zuständig ist, so erstattet dieser die auf die Leistung entfallenden Aufwendungen.
 
 (8) Auf Antrag führt das Integrationsamt seine Leistungen zur begleitenden Hilfe im Arbeitsleben als Persönliches Budget aus. § 29 gilt entsprechend.
+
+(9) Ein Antrag auf eine Leistung, auf die ein Anspruch besteht (Absätze 4 und 5), gilt sechs Wochen nach Eingang als genehmigt, wenn
+
+1. das Integrationsamt bis dahin nicht über den Antrag entschieden hat und
+
+2. die beantragte Leistung nach Art und Umfang im Antrag genau bezeichnet ist.
 
 # § 185a – Einheitliche Ansprechstellen für Arbeitgeber
 
@@ -3757,7 +3767,7 @@ Die §§ 223 und 224 sind auch zugunsten von auf Grund des Blindenwarenvertriebs
 
 1. die blind im Sinne des § 72 Absatz 5 des Zwölften Buches oder entsprechender Vorschriften oder hilflos im Sinne des § 33b des Einkommensteuergesetzes oder entsprechender Vorschriften sind oder
 
-2. die Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch oder für den Lebensunterhalt laufende Leistungen nach dem Dritten und Vierten Kapitel des Zwölften Buches, dem Achten Buch oder den §§ 27a und 27d des Bundesversorgungsgesetzes erhalten oder
+2. die Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch oder für den Lebensunterhalt laufende Leistungen nach dem Dritten und Vierten Kapitel des Zwölften Buches, dem Achten oder dem Vierzehnten Buch erhalten oder
 
 3. die am 1. Oktober 1979 die Voraussetzungen nach § 2 Absatz 1 Nummer 1 bis 4 und Absatz 3 des Gesetzes über die unentgeltliche Beförderung von Kriegs- und Wehrdienstbeschädigten sowie von anderen Behinderten im Nahverkehr vom 27. August 1965 (BGBl. I S. 978), das zuletzt durch Artikel 41 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, erfüllten, solange ein Grad der Schädigungsfolgen von mindestens 70 festgestellt ist oder von mindestens 50 festgestellt ist und sie infolge der Schädigung erheblich gehbehindert sind; das Gleiche gilt für schwerbehinderte Menschen, die diese Voraussetzungen am 1. Oktober 1979 nur deshalb nicht erfüllt haben, weil sie ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt zu diesem Zeitpunkt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet hatten.
 
@@ -3773,7 +3783,7 @@ Die §§ 223 und 224 sind auch zugunsten von auf Grund des Blindenwarenvertriebs
 
   
 
-    (+++ § 228: Zur Anwendung vgl. § 211 Abs. 3 +++) &;
+    (+++ § 228: Zur Anwendung vgl. § 211 Abs. 3 +++)
      
     (+++ Hinweis: Betrag gem. § 228 Abs. 2 Satz 2 iVm § 160 Abs. 3 SGB IX:
      
@@ -3922,7 +3932,7 @@ als Grundlage für die nach § 231 Absatz 4 Satz 2 Nummer 1 und § 232 Absatz 2 
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 154 Absatz 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 162 Nummer 1, oder entgegen § 154 Absatz 1 Satz 3 einen schwerbehinderten Menschen nicht beschäftigt,
+1. (weggefallen)
 
 2. entgegen § 163 Absatz 1 ein Verzeichnis nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise führt oder nicht oder nicht rechtzeitig vorlegt,
 
@@ -3986,12 +3996,8 @@ als Grundlage für die nach § 231 Absatz 4 Satz 2 Nummer 1 und § 232 Absatz 2 
 
 (8) Bis zum 31. Dezember 2019 treten an die Stelle der Träger der Eingliederungshilfe als Rehabilitationsträger im Sinne dieses Buches die Träger der Sozialhilfe nach § 3 des Zwölften Buches, soweit sie zur Erbringung von Leistungen der Eingliederungshilfe für Menschen mit Behinderungen nach § 8 Nummer 4 des Zwölften Buches bestimmt sind.
 
-(9) § 221 Absatz 2 Satz 1 ist mit folgender Maßgabe anzuwenden:
+(9) Das Inkrafttreten der bei einer Beschäftigungsquote von 0 Prozent zu zahlenden Ausgleichsabgabe gilt nicht als Neubestimmung der Ausgleichsabgabe im Sinne des § 160 Absatz 3 Satz 2.
 
-1. Ab dem 1. August 2019 beträgt der Grundbetrag mindestens 80 Euro monatlich.
+(10) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 6 Absatz 1 Nummer 5, des § 16 Absatz 6, des § 18 Absatz 7, des § 63 Absatz 1 Nummer 4 und Absatz 2 Nummer 2, des § 64 Absatz 1 Nummer 1 und Absatz 2 Satz 2, des § 65 Absatz 1 Nummer 4, Absatz 2 Nummer 4, Absatz 5 Nummer 2, Absatz 6 und 7, des § 66 Absatz 1 Satz 4, der §§ 69, 70 Absatz 1, des § 71 Absatz 1 Satz 1, des § 152 Absatz 1 Satz 1 und 4, des § 228 Absatz 4 Nummer 2 und des § 241 Absatz 5 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
-2. Ab dem 1. Januar 2020 beträgt der Grundbetrag mindestens 89 Euro monatlich.
-
-3. Ab dem 1. Januar 2021 beträgt der Grundbetrag mindestens 99 Euro monatlich.
-
-4. Ab dem 1. Januar 2022 bis zum 31. Dezember 2022 beträgt der Grundbetrag mindestens 109 Euro monatlich.
+§ 241 Abs. 10 Kursivdruck: Eingef. durch Art. 37 Nr. 15 G v. 12.12.2019 I 2652 mWv 1.1.2024 (sinngemäß konsolidiert)

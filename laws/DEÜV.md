@@ -143,6 +143,8 @@ Nach Anforderung der Einzugsstelle hat der Arbeitgeber mit der ersten folgenden 
 
 (5) Eine Meldung nach § 194 des Sechsten Buches Sozialgesetzbuch ist mit der nächsten Lohn und Gehaltsabrechnung zu erstatten. Ist zu diesem Zeitpunkt eine Meldung nach § 10 noch nicht erfolgt, ist diese zum gleichen Zeitpunkt zu erstatten.
 
+(6) Beginn und Ende einer in Anspruch genommenen Elternzeit sind der zuständigen Krankenkasse gesondert zu melden, sofern die Beschäftigung durch Wegfall des Anspruchs auf Entgelt unterbrochen wird. Satz 1 gilt für krankenversicherungspflichtige Beschäftigungen, sofern die Beschäftigung durch Wegfall des Anspruchs auf Entgelt für mindestens einen Kalendermonat unterbrochen wird. Die Elternzeitmeldung ist mit der nächsten Entgeltabrechnung, spätestens innerhalb von sechs Wochen abzugeben.
+
 # § 13 – Meldungen für geringfügig Beschäftigte
 
 (1) Für die Meldungen einer geringfügigen Beschäftigung nach § 8 des Vierten Buches Sozialgesetzbuch gelten § 5 Abs. 1 bis 7 und 9 und die §§ 6 und 8 bis 12 entsprechend.
@@ -157,7 +159,13 @@ Nach Anforderung der Einzugsstelle hat der Arbeitgeber mit der ersten folgenden 
 
 # § 15 – (weggefallen)
 
-# § 16 – (weggefallen)
+# § 16 – Technische Standards für die Meldeverfahren
+
+(1) Für die Meldeverfahren zwischen Meldepflichtigen und den Sozialversicherungsträgern ist der Zeichencode UTF-8 zu verwenden.
+
+(2) Die Daten der Meldeverfahren sind im Standard XML zu übertragen.
+
+(3) Das Nähere zur Umstellung der einzelnen Fachverfahren regeln die nach § 95 Absatz 2 Satz 1 des Vierten Buches Sozialgesetzbuch zu vereinbarenden Gemeinsamen Grundsätze.
 
 # § 17 – Datenübertragungsverfahren
 

@@ -329,7 +329,7 @@ Ist eine zusätzliche Bekanntmachung und Auslegung erforderlich, werden die Einw
 
 (4) Die Genehmigungsbehörde gewährt während der Dauer des Zulassungsverfahrens Akteneinsicht nach pflichtgemäßem Ermessen; § 29 Abs. 1 Satz 3, Abs. 2 und 3 des Verwaltungsverfahrensgesetzes findet entsprechende Anwendung. Sonstige Rechte auf den Zugang zu Informationen in anderen Rechtsvorschriften bleiben unberührt.
 
-(5) § 27a des Verwaltungsverfahrensgesetzes und die entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der Länder gelten mit der Maßgabe, dass die Zugänglichmachung des Inhalts der Bekanntmachung nach § 5 und der nach § 6 Absatz 2 Satz 1 auszulegenden Unterlagen im Internet auch über das einschlägige zentrale Internetportal nach § 20 des Gesetzes über die Umweltverträglichkeitsprüfung erfolgt. Für die Zugänglichmachung über das einschlägige zentrale Internetportal gelten die Vorgaben der UVP-Portale-Verordnung vom 11. November 2020 (BGBl. I S. 2428) entsprechend.
+(5) Die §§ 27a und 27b des Verwaltungsverfahrensgesetzes und die entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der Länder gelten mit der Maßgabe, dass die Zugänglichmachung des Inhalts der Bekanntmachung nach § 5 und der nach § 6 Absatz 2 Satz 1 auszulegenden Unterlagen im Internet auch über das einschlägige zentrale Internetportal nach § 20 des Gesetzes über die Umweltverträglichkeitsprüfung erfolgt. Für die Zugänglichmachung über das einschlägige zentrale Internetportal gelten die Vorgaben der UVP-Portale-Verordnung vom 11. November 2020 (BGBl. I S. 2428) entsprechend.
 
 # § 6a – Geheimhaltung und Datenschutz sowie Schutz der Rechte am geistigen Eigentum
 

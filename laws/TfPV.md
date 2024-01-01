@@ -3,7 +3,7 @@
  
 # § 1 – Geltungsbereich und zuständige Behörde
 
-(1) Diese Verordnung regelt die theoretische Prüfung für den Erwerb des Triebfahrzeugführerscheins, die Zulassung zur Prüfung, den Ablauf der Prüfungen und das Prüfungsverfahren im Geltungsbereich der Triebfahrzeugführerscheinverordnung vom 29. April 2011 (BGBl. I S. 705, 1010).
+(1) Diese Verordnung regelt die theoretische Prüfung für den Erwerb des Triebfahrzeugführerscheins, die Zulassung zur Prüfung, den Ablauf der Prüfungen und das Prüfungsverfahren im Geltungsbereich der Triebfahrzeugführerscheinverordnung.
 
 (2) Zuständige Behörde im Sinne dieser Verordnung ist das Eisenbahn-Bundesamt.
 
@@ -13,7 +13,7 @@ In der theoretischen Prüfung ist festzustellen, ob der Prüfling über die Fach
 
 # § 3 – Durchführung der Prüfung, Prüfer
 
-(1) Die Prüfung wird von Personen oder Stellen durchgeführt, die nach § 15 der Triebfahrzeugführerscheinverordnung von der zuständigen Behörde als Prüfungsorganisationen anerkannt sind (Prüfungsorganisation). Die Prüfungsorganisation nach Satz 1 beruft die Prüfer, die den Anforderungen des § 7 Absatz 1 genügen müssen.
+(1) Die Prüfung wird von Personen oder Stellen durchgeführt, die nach § 15 der Triebfahrzeugführerscheinverordnung von der zuständigen Behörde als Prüfer oder als Prüfstelle anerkannt sind (Prüfungsorganisation). Die Prüfungsorganisation nach Satz 1 beruft die Prüfer, die den Anforderungen des § 7 Absatz 1 genügen müssen.
 
 (2) Die Prüfungsorganisation stellt sicher, dass die Bestimmungen dieser Verordnung und der Triebfahrzeugführerscheinverordnung während der Prüfung eingehalten werden.
 
@@ -81,11 +81,7 @@ d) die pseudonyme Kennziffer, die der Prüfling im Rahmen des schriftlichen Teil
 
 # § 7 – Anforderungen an die Prüfer
 
-(1) Die Prüfer müssen die Anforderungen erfüllen nach
-
-1. den Artikeln 7 und 8 des Beschlusses 2011/765/EU der Kommission vom 22. November 2011 zu den Kriterien der Anerkennung von Ausbildungseinrichtungen, die an der Ausbildung von Triebfahrzeugführern beteiligt sind, den Kriterien der Anerkennung von Triebfahrzeugführer-Prüfern und den Kriterien für die Organisation von Prüfungen gemäß der Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates (ABl. L 314 vom 29.11.2011, S. 36)und
-
-2. § 15 Absatz 1 Satz 2 Nummer 2 der Triebfahrzeugführerscheinverordnung.
+(1) Die Prüfer müssen die Anforderungen nach § 15 Absatz 2 Satz 1 Nummer 3 bis 5 und 7 bis 11 der Triebfahrzeugführerscheinverordnung erfüllen.
 
 (2) Die Prüfer dürfen den Prüfling nicht zuvor ausgebildet haben.
 
@@ -93,7 +89,11 @@ d) die pseudonyme Kennziffer, die der Prüfling im Rahmen des schriftlichen Teil
 
 (1) Die Gliederung der Prüfung richtet sich nach § 7 Absatz 1 Satz 1 der Triebfahrzeugführerscheinverordnung. Der schriftliche Teil der Prüfung wird zuerst abgelegt.
 
-(2) Die Prüfung wird in der Regel in deutscher Sprache abgelegt. Auf Antrag des Prüflings kann die Prüfung auch in einer Sprache eines anderen Mitgliedstaates der Europäischen Union durchgeführt werden. Über den Antrag nach Satz 2 entscheidet die Prüfungsorganisation. Wird die Prüfung in der Sprache eines anderen Mitgliedstaates der Europäischen Union durchgeführt, muss die Prüfungsorganisation sicherstellen, dass die Prüfer und der Prüfling über ausreichende Sprachkenntnisse entsprechend der Stufe 4 nach Anlage 7 Nummer 6 der Triebfahrzeugführerscheinverordnung verfügen.
+(2) Die Prüfung wird in der Regel in deutscher Sprache abgelegt. Auf Antrag des Prüflings kann die Prüfung auch in einer Sprache eines anderen Mitgliedstaates der Europäischen Union durchgeführt werden. Über den Antrag nach Satz 2 entscheidet die Prüfungsorganisation. Wird die Prüfung in der Sprache eines anderen Mitgliedstaates der Europäischen Union durchgeführt, muss die Prüfungsorganisation sicherstellen, dass
+
+1. die Prüfer über ausreichende Sprachkenntnisse entsprechend dem Niveau B 2 des Gemeinsamen europäischen Referenzrahmens für Sprachen<span id="FnR.F827846_02"></span><a href="#F827846_02" class="FnR">*</a></sup> verfügen und
+
+2. der Prüfling über ausreichende Sprachkenntnisse entsprechend dem Niveau B 1 des Gemeinsamen europäischen Referenzrahmens für Sprachen verfügt.
 
 # § 9 – Schriftlicher Teil der Prüfung
 
@@ -101,7 +101,7 @@ d) die pseudonyme Kennziffer, die der Prüfling im Rahmen des schriftlichen Teil
 
 (2) Der schriftliche Teil der Prüfung dauert zwei Stunden. Die Aufgaben sind unter Aufsicht zu bearbeiten. Die Aufsichtsperson wird durch die Prüfungsorganisation bestimmt.
 
-(3) Die Aufsichtsperson fertigt eine Niederschrift über den Verlauf und etwaige Unregelmäßigkeiten bei der Prüfung nach Anlage 1 an. Nach der Bewertung der Aufgaben durch die Prüfer wird die Niederschrift an die zuständige Behörde übermittelt.
+(3) Die Aufsichtsperson fertigt eine Niederschrift über den Verlauf und etwaige Unregelmäßigkeiten bei der Prüfung nach Anlage 1 an. Nach der Bewertung der Aufgaben durch die Prüfer wird die Niederschrift innerhalb von sechs Wochen nach Abschluss des Prüfungsteils an die zuständige Behörde übermittelt.
 
 (4) Die Prüfungsorganisation bestimmt zwei Prüfer, die den schriftlichen Teil der Prüfung nach § 15 bewerten. Die Bewertung soll nicht länger als vier Wochen dauern.
 
@@ -121,7 +121,7 @@ d) die pseudonyme Kennziffer, die der Prüfling im Rahmen des schriftlichen Teil
 
 (5) Die Prüfer bewerten die Leistungen der Prüflinge nach Maßgabe des § 15. Ist der mündliche Teil der Prüfung mit „mangelhaft“ oder schlechter bewertet worden, so ist die Prüfung insgesamt durch die Prüfungsorganisation für nicht bestanden zu erklären.
 
-(6) Der Vorsitzende fertigt eine Niederschrift über den Verlauf und etwaige Unregelmäßigkeiten bei dem mündlichen Teil der Prüfung nach Anlage 1 an. Er übermittelt die Niederschrift an die zuständige Behörde.
+(6) Der Vorsitzende fertigt eine Niederschrift über den Verlauf und etwaige Unregelmäßigkeiten bei dem mündlichen Teil der Prüfung nach Anlage 1 an. Er übermittelt die Niederschrift innerhalb von sechs Wochen nach Abschluss des Prüfungsteils an die zuständige Behörde.
 
 # § 11 – Ausweispflicht und Belehrung
 
@@ -209,7 +209,7 @@ Wer die theoretische Prüfung bestanden hat, erhält von der Prüfungsorganisati
 
 # § 18 – Nicht bestandene Prüfung
 
-Die Prüfungsorganisation stellt dem Prüfling über das Nichtbestehen der theoretischen Prüfung eine schriftliche Bescheinigung aus. Darin sind die Teile der Prüfung anzugeben, die nicht mit mindestens „ausreichend“ bewertet wurden. Auf die besonderen Bedingungen der Wiederholungsprüfung nach § 20 ist hinzuweisen.
+Die Prüfungsorganisation stellt dem Prüfling über das Nichtbestehen der theoretischen Prüfung eine schriftliche Bescheinigung aus. Darin sind die bestandenen und die nicht bestandenen Teile der Prüfung anzugeben. Auf die besonderen Bedingungen der Wiederholungsprüfung nach § 20 ist hinzuweisen.
 
 # § 19 – Anerkennung von Prüfungsleistungen
 
@@ -257,7 +257,7 @@ Die zuständige Behörde kann die Prüfungsorganisation auffordern,
 
 # Anlage 1 – (zu § 9 Absatz 3 und § 10 Absatz 6)Prüfungsniederschrift
 
-(Fundstelle: BGBl. I 2013, 4013)
+(Fundstelle: BGBl. I 2013, 4013; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 
@@ -285,7 +285,7 @@ Andere als die in Spalte 2 aufgeführten Zwischennoten dürfen nicht verwendet w
 
 # Anlage 3 – (zu § 17)Muster
 
-(Fundstelle: BGBl. I 2013, 4015)
+(Fundstelle: BGBl. I 2013, 4015; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 

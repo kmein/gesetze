@@ -41,7 +41,7 @@ Summe der vom Betrieb durch Stoffe nach § 2 Nummer 1 und 6 bis 8 des Düngegese
 
 4. Betriebsinhaber:
 
-eine natürliche oder juristische Person oder eine nicht rechtsfähige Personenvereinigung, die einen Betrieb unterhält;
+eine natürliche oder juristische Person oder eine sonstige Personenvereinigung, die einen Betrieb unterhält;
 
 5. Betrieb:
 

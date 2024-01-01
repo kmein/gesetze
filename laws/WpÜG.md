@@ -409,7 +409,7 @@ Liegen die in Satz 1 genannten Voraussetzungen vor, ist dieses Gesetz nur anzuwe
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen darüber, in welchem Umfang Vorschriften dieses Gesetzes in den Fällen des Absatzes 2 und des Absatzes 3 anwendbar sind, zu erlassen.
 
-(5) Eine Zielgesellschaft im Sinne des § 2 Abs. 3 Nr. 2, deren stimmberechtigte Wertpapiere gleichzeitig im Inland und in einem anderen Staat des Europäischen Wirtschaftsraums, jedoch nicht in dem Staat, in dem sie ihren Sitz hat, zum Handel an einem organisierten Markt zugelassen worden sind, hat zu entscheiden, welche der betroffenen Aufsichtsstellen für die Beaufsichtigung eines europäischen Angebots zum Erwerb stimmberechtigter Wertpapiere zuständig sein soll. Sie hat ihre Entscheidung der Bundesanstalt mitzuteilen und zu veröffentlichen. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über den Zeitpunkt sowie Inhalt und Form der Mitteilung und der Veröffentlichung nach Satz 2 zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+(5) Eine Zielgesellschaft im Sinne des § 2 Abs. 3 Nr. 2, deren stimmberechtigte Wertpapiere gleichzeitig im Inland und in einem anderen Staat des Europäischen Wirtschaftsraums, jedoch nicht in dem Staat, in dem sie ihren Sitz hat, zum Handel an einem organisierten Markt zugelassen worden sind, hat zu entscheiden, welche der betroffenen Aufsichtsstellen für die Beaufsichtigung eines europäischen Angebots zum Erwerb stimmberechtigter Wertpapiere zuständig sein soll. Sie hat ihre Entscheidung zu veröffentlichen und der Bundesanstalt die Veröffentlichung zu übermitteln. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über den Zeitpunkt sowie Inhalt und Form der Mitteilung und der Veröffentlichung nach Satz 2 zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 # § 2 – Begriffsbestimmungen
 
@@ -429,7 +429,7 @@ Liegen die in Satz 1 genannten Voraussetzungen vor, ist dieses Gesetz nur anzuwe
 
 2. Gesellschaften mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums.
 
-(4) Bieter sind natürliche oder juristische Personen oder Personengesellschaften, die allein oder gemeinsam mit anderen Personen ein Angebot abgeben, ein solches beabsichtigen oder zur Abgabe verpflichtet sind.
+(4) Bieter sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die allein oder gemeinsam mit anderen Personen ein Angebot abgeben, ein solches beabsichtigen oder zur Abgabe verpflichtet sind.
 
 (5) Gemeinsam handelnde Personen sind natürliche oder juristische Personen, die ihr Verhalten im Hinblick auf ihren Erwerb von Wertpapieren der Zielgesellschaft oder ihre Ausübung von Stimmrechten aus Aktien der Zielgesellschaft mit dem Bieter auf Grund einer Vereinbarung oder in sonstiger Weise abstimmen. Mit der Zielgesellschaft gemeinsam handelnde Personen sind natürliche oder juristische Personen, die Handlungen zur Verhinderung eines Übernahme- oder Pflichtangebots mit der Zielgesellschaft auf Grund einer Vereinbarung oder in sonstiger Weise abstimmen. Tochterunternehmen gelten mit der sie kontrollierenden Person und untereinander als gemeinsam handelnde Personen.
 
@@ -438,6 +438,8 @@ Liegen die in Satz 1 genannten Voraussetzungen vor, ist dieses Gesetz nur anzuwe
 (7) Organisierter Markt sind der regulierte Markt an einer Börse im Inland und der geregelte Markt im Sinne des Artikels 4 Abs. 1 Nr. 14 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. EU Nr. L 145 S. 1) in einem anderen Staat des Europäischen Wirtschaftsraums.
 
 (8) Der Europäische Wirtschaftsraum umfasst die Staaten der Europäischen Gemeinschaften sowie die Staaten des Abkommens über den Europäischen Wirtschaftsraum.
+
+(9) Arbeitstage sind alle Kalendertage mit Ausnahme von Samstagen, Sonntagen und gesetzlichen Feiertagen.
 
 # § 3 – Allgemeine Grundsätze
 
@@ -489,7 +491,7 @@ Liegen die in Satz 1 genannten Voraussetzungen vor, ist dieses Gesetz nur anzuwe
 
 soweit die Tatsachen für die Erfüllung der Aufgaben dieser Stellen oder Personen erforderlich sind. Für die bei den in Satz 3 genannten Stellen beschäftigten oder von ihnen beauftragten Personen gilt die Verschwiegenheitspflicht nach den Sätzen 1 bis 3 entsprechend. An eine ausländische Stelle dürfen die Tatsachen nur weitergegeben werden, wenn diese Stelle und die von ihr beauftragten Personen einer den Sätzen 1 bis 3 entsprechenden Verschwiegenheitspflicht unterliegen.
 
-(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat oder eines Besteuerungsverfahrens benötigen, es sei denn, der Weitergabe der Informationen stehen andere Vorschriften entgegen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 1. die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer 2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind oder
 
@@ -503,11 +505,11 @@ soweit die Tatsachen für die Erfüllung der Aufgaben dieser Stellen oder Person
 
 (2) Der Bieter hat die Entscheidung nach Absatz 1 Satz 1 vor der Veröffentlichung
 
-1. den Geschäftsführungen der Börsen, an denen Wertpapiere des Bieters, der Zielgesellschaft und anderer durch das Angebot unmittelbar betroffener Gesellschaften zum Handel zugelassen sind,
+1. den Geschäftsführungen der Börsen, an denen Wertpapiere des Bieters, der Zielgesellschaft und anderer durch das Angebot unmittelbar betroffener Gesellschaften zum Handel zugelassen sind, und
 
-2. den Geschäftsführungen der Börsen, an denen Derivate im Sinne des § 2 Absatz 3 des Wertpapierhandelsgesetzes gehandelt werden, sofern die Wertpapiere Gegenstand der Derivate sind, und
+2. den Geschäftsführungen der Börsen, an denen Derivate im Sinne des § 2 Absatz 3 des Wertpapierhandelsgesetzes gehandelt werden, sofern die Wertpapiere Gegenstand der Derivate sind,
 
-3. der Bundesanstalt
+3. (weggefallen)
 
 mitzuteilen. Die Geschäftsführungen dürfen die ihnen nach Satz 1 mitgeteilten Entscheidungen vor der Veröffentlichung nur zum Zwecke der Entscheidung verwenden, ob die Feststellung des Börsenpreises auszusetzen oder einzustellen ist. Die Bundesanstalt kann gestatten, dass Bieter mit Wohnort oder Sitz im Ausland die Mitteilung nach Satz 1 gleichzeitig mit der Veröffentlichung vornehmen, wenn dadurch die Entscheidungen der Geschäftsführungen über die Aussetzung oder Einstellung der Feststellung des Börsenpreises nicht beeinträchtigt werden.
 
@@ -519,7 +521,7 @@ mitzuteilen. Die Geschäftsführungen dürfen die ihnen nach Satz 1 mitgeteilten
 
 in deutscher Sprache vorzunehmen. Dabei hat der Bieter auch die Adresse anzugeben, unter der die Veröffentlichung der Angebotsunterlage im Internet nach § 14 Abs. 3 Satz 1 Nr. 1 erfolgen wird. Eine Veröffentlichung in anderer Weise darf nicht vor der Veröffentlichung nach Satz 1 vorgenommen werden.
 
-(4) Der Bieter hat die Veröffentlichung nach Absatz 3 Satz 1 unverzüglich den Geschäftsführungen der in Absatz 2 Satz 1 Nr. 1 und 2 erfassten Börsen und der Bundesanstalt zu übersenden. Dies gilt nicht, soweit die Bundesanstalt nach Absatz 2 Satz 3 gestattet hat, die Mitteilung nach Absatz 2 Satz 1 gleichzeitig mit der Veröffentlichung vorzunehmen.
+(4) Der Bieter hat die Veröffentlichung nach Absatz 3 Satz 1 unverzüglich den Geschäftsführungen der in Absatz 2 Satz 1 Nr. 1 und 2 erfassten Börsen und der Bundesanstalt zu übersenden. Dies gilt im Hinblick auf die Geschäftsführungen der in Absatz 2 Satz 1 Nummer 1 und 2 erfassten Börsen nicht, soweit die Bundesanstalt nach Absatz 2 Satz 3 gestattet hat, die Mitteilung nach Absatz 2 Satz 1 gleichzeitig mit der Veröffentlichung vorzunehmen.
 
 (5) Der Bieter hat dem Vorstand der Zielgesellschaft unverzüglich nach der Veröffentlichung nach Absatz 3 Satz 1 die Entscheidung zur Abgabe eines Angebots schriftlich mitzuteilen. Der Vorstand der Zielgesellschaft unterrichtet den zuständigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar die Arbeitnehmer, unverzüglich über die Mitteilung nach Satz 1. Der Bieter hat die Entscheidung zur Abgabe eines Angebots ebenso seinem zuständigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern unverzüglich nach der Veröffentlichung nach Absatz 3 Satz 1 mitzuteilen.
 
@@ -527,7 +529,7 @@ in deutscher Sprache vorzunehmen. Dabei hat der Bieter auch die Adresse anzugebe
 
 # § 11 – Angebotsunterlage
 
-(1) Der Bieter hat eine Unterlage über das Angebot (Angebotsunterlage) zu erstellen und zu veröffentlichen. Die Angebotsunterlage muss die Angaben enthalten, die notwendig sind, um in Kenntnis der Sachlage über das Angebot entscheiden zu können. Die Angaben müssen richtig und vollständig sein. Die Angebotsunterlage ist in deutscher Sprache und in einer Form abzufassen, die ihr Verständnis und ihre Auswertung erleichtert. Sie ist von dem Bieter zu unterzeichnen.
+(1) Der Bieter hat eine Unterlage über das Angebot (Angebotsunterlage) zu erstellen und zu veröffentlichen. Die Angebotsunterlage muss die Angaben enthalten, die notwendig sind, um in Kenntnis der Sachlage über das Angebot entscheiden zu können. Die Angaben müssen richtig und vollständig sein. Die Angebotsunterlage ist in deutscher Sprache und in einer Form abzufassen, die ihr Verständnis und ihre Auswertung erleichtert.
 
 (2) Die Angebotsunterlage hat den Inhalt des Angebots und ergänzende Angaben zu enthalten. Angaben über den Inhalt des Angebots sind
 
@@ -607,7 +609,13 @@ als Gesamtschuldnern den Ersatz des ihm aus der Annahme des Angebots oder Übert
 
 (1) Der Bieter hat die Angebotsunterlage innerhalb von vier Wochen nach der Veröffentlichung der Entscheidung zur Abgabe eines Angebots der Bundesanstalt zu übermitteln. Die Bundesanstalt bestätigt dem Bieter den Tag des Eingangs der Angebotsunterlage. Die Bundesanstalt kann die Frist nach Satz 1 auf Antrag um bis zu vier Wochen verlängern, wenn dem Bieter die Einhaltung der Frist nach Satz 1 auf Grund eines grenzüberschreitenden Angebots oder erforderlicher Kapitalmaßnahmen nicht möglich ist.
 
-(2) Die Angebotsunterlage ist gemäß Absatz 3 Satz 1 unverzüglich zu veröffentlichen, wenn die Bundesanstalt die Veröffentlichung gestattet hat oder wenn seit dem Eingang der Angebotsunterlage zehn Werktage verstrichen sind, ohne dass die Bundesanstalt das Angebot untersagt hat. Vor der Veröffentlichung nach Satz 1 darf die Angebotsunterlage nicht bekannt gegeben werden. Die Bundesanstalt kann vor einer Untersagung des Angebots die Frist nach Satz 1 um bis zu fünf Werktage verlängern, wenn die Angebotsunterlage nicht vollständig ist oder sonst den Vorschriften dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung nicht entspricht.
+(2) Die Angebotsunterlage ist unverzüglich nach den Maßgaben des Absatzes 3 Satz 1 zu veröffentlichen, wenn
+
+1. die Bundesanstalt die Veröffentlichung gestattet hat oder
+
+2. seit dem Eingang der Angebotsunterlage zehn Arbeitstage verstrichen sind, ohne dass die Bundesanstalt das Angebot untersagt hat.
+
+(2a) Vor der Veröffentlichung der Angebotsunterlage darf diese nicht bekannt gegeben werden. Die Bundesanstalt kann vor einer Untersagung des Angebots die Frist nach Absatz 2 Nummer 2 um bis zu fünf Arbeitstage verlängern, wenn die Angebotsunterlage nicht vollständig ist oder sonst den Vorschriften dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung nicht entspricht. Die Frist nach Absatz 2 Nummer 2 verlängert sich, auch nach einer Verlängerung nach Satz 2, um fünf Kalendertage, nachdem die Bundesanstalt eine Untersagung nach § 4f des Finanzdienstleistungsaufsichtsgesetzes elektronisch oder nach § 4g des Finanzdienstleistungsaufsichtsgesetzes als elektronisches Dokument zum Abruf über das Melde- und Veröffentlichungssystem der Bundesanstalt bereitgestellt, öffentlich bekannt gemacht oder zur Post aufgegeben hat.
 
 (3) Die Angebotsunterlage ist zu veröffentlichen durch
 
@@ -615,7 +623,7 @@ als Gesamtschuldnern den Ersatz des ihm aus der Annahme des Angebots oder Übert
 
 2. Bekanntgabe im Bundesanzeiger oder durch Bereithalten zur kostenlosen Ausgabe bei einer geeigneten Stelle im Inland; im letzteren Fall ist im Bundesanzeiger bekannt zu machen, bei welcher Stelle die Angebotsunterlage bereit gehalten wird und unter welcher Adresse die Veröffentlichung der Angebotsunterlage im Internet nach Nummer 1 erfolgt ist.
 
-Der Bieter hat der Bundesanstalt die Veröffentlichung nach Satz 1 Nr. 2 unverzüglich mitzuteilen.
+Der Bieter hat der Bundesanstalt die Veröffentlichung nach Satz 1 Nummer 2 unverzüglich unter Übermittlung der veröffentlichten Angebotsunterlage mitzuteilen. Die Verpflichtung des Bieters besteht auch im Fall einer Veröffentlichung oder Bekanntmachung im Sinne des § 12 Absatz 3 Nummer 3.
 
 (4) Der Bieter hat die Angebotsunterlage dem Vorstand der Zielgesellschaft unverzüglich nach der Veröffentlichung nach Absatz 3 Satz 1 zu übermitteln. Der Vorstand der Zielgesellschaft hat die Angebotsunterlage unverzüglich dem zuständigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern zu übermitteln. Der Bieter hat die Angebotsunterlage ebenso seinem zuständigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern unverzüglich nach der Veröffentlichung nach Absatz 3 Satz 1 zu übermitteln.
 
@@ -663,7 +671,7 @@ Ist bei einem Angebot, das auf den Erwerb nur eines bestimmten Anteils oder eine
 
 # § 20 – Handelsbestand
 
-(1) Die Bundesanstalt lässt auf schriftlichen Antrag des Bieters zu, dass Wertpapiere der Zielgesellschaft bei den ergänzenden Angaben nach § 11 Abs. 4 Nr. 2, den Veröffentlichungspflichten nach § 23, der Berechnung des Stimmrechtsanteils nach § 29 Abs. 2 und der Bestimmung der Gegenleistung nach § 31 Abs. 1, 3 und 4 und der Geldleistung nach § 31 Abs. 5 unberücksichtigt bleiben.
+(1) Die Bundesanstalt lässt auf Antrag des Bieters zu, dass Wertpapiere der Zielgesellschaft bei den ergänzenden Angaben nach § 11 Abs. 4 Nr. 2, den Veröffentlichungspflichten nach § 23, der Berechnung des Stimmrechtsanteils nach § 29 Abs. 2 und der Bestimmung der Gegenleistung nach § 31 Abs. 1, 3 und 4 und der Geldleistung nach § 31 Abs. 5 unberücksichtigt bleiben.
 
 (2) Ein Befreiungsantrag nach Absatz 1 kann gestellt werden, wenn der Bieter, die mit ihm gemeinsam handelnden Personen oder deren Tochterunternehmen
 
@@ -677,7 +685,7 @@ Ist bei einem Angebot, das auf den Erwerb nur eines bestimmten Anteils oder eine
 
 # § 21 – Änderung des Angebots
 
-(1) Der Bieter kann bis zu einem Werktag vor Ablauf der Annahmefrist
+(1) Der Bieter kann bis zu einem Arbeitstag vor Ablauf der Annahmefrist
 
 1. die Gegenleistung erhöhen,
 
@@ -689,7 +697,7 @@ Ist bei einem Angebot, das auf den Erwerb nur eines bestimmten Anteils oder eine
 
 Für die Wahrung der Frist nach Satz 1 ist auf die Veröffentlichung der Änderung nach Absatz 2 abzustellen.
 
-(2) Der Bieter hat die Änderung des Angebots unter Hinweis auf das Rücktrittsrecht nach Absatz 4 unverzüglich gemäß § 14 Abs. 3 Satz 1 zu veröffentlichen. § 14 Abs. 3 Satz 2 und Abs. 4 gilt entsprechend.
+(2) Der Bieter hat die Änderung des Angebots unter Hinweis auf das Rücktrittsrecht nach Absatz 4 unverzüglich nach Maßgabe des § 14 Absatz 3 Satz 1 zu veröffentlichen. Der Bieter hat der Bundesanstalt die Veröffentlichung nach § 14 Absatz 3 Satz 1 Nummer 2 unverzüglich unter Übermittlung der veröffentlichten Änderung des Angebots mitzuteilen. § 14 Absatz 4 gilt entsprechend.
 
 (3) § 11 Abs. 1 Satz 2 bis 5, Abs. 3, §§ 12, 13 und 15 Abs.1 Nr. 2 gelten entsprechend.
 
@@ -721,7 +729,7 @@ Für die Wahrung der Frist nach Satz 1 ist auf die Veröffentlichung der Änderu
 
 gemäß § 14 Abs. 3 Satz 1 zu veröffentlichen und der Bundesanstalt mitzuteilen. § 14 Abs. 3 Satz 2 und § 31 Abs. 6 gelten entsprechend.
 
-(2) Erwerben bei Übernahmeangeboten, bei denen der Bieter die Kontrolle über die Zielgesellschaft erlangt hat, und bei Pflichtangeboten der Bieter, mit ihm gemeinsam handelnde Personen oder deren Tochterunternehmen nach der Veröffentlichung der Angebotsunterlage und vor Ablauf eines Jahres nach der Veröffentlichung gemäß Absatz 1 Nr. 2 außerhalb des Angebotsverfahrens Aktien der Zielgesellschaft, so hat der Bieter die Höhe der erworbenen Aktien- und Stimmrechtsanteile unter Angabe der Art und Höhe der für jeden Anteil gewährten Gegenleistung unverzüglich gemäß § 14 Abs. 3 Satz 1 zu veröffentlichen und der Bundesanstalt mitzuteilen. § 31 Abs. 6 gilt entsprechend.
+(2) Erwerben bei Übernahmeangeboten, bei denen der Bieter die Kontrolle über die Zielgesellschaft erlangt hat, und bei Pflichtangeboten der Bieter, mit ihm gemeinsam handelnde Personen oder deren Tochterunternehmen nach der Veröffentlichung der Angebotsunterlage und vor Ablauf eines Jahres nach der Veröffentlichung gemäß Absatz 1 Nr. 2 außerhalb des Angebotsverfahrens Aktien der Zielgesellschaft, so hat der Bieter die Höhe der erworbenen Aktien- und Stimmrechtsanteile unter Angabe der Art und Höhe der für jeden Anteil gewährten Gegenleistung unverzüglich gemäß § 14 Abs. 3 Satz 1 zu veröffentlichen und der Bundesanstalt mitzuteilen. § 14 Absatz 3 Satz 2 und § 31 Absatz 6 gelten entsprechend.
 
 # § 24 – Grenzüberschreitende Angebote
 
@@ -729,7 +737,7 @@ Hat der Bieter bei grenzüberschreitenden Angeboten zugleich die Vorschriften ei
 
 # § 25 – Beschluss der Gesellschafterversammlung des Bieters
 
-Hat der Bieter das Angebot unter der Bedingung eines Beschlusses seiner Gesellschafterversammlung abgegeben, hat er den Beschluss unverzüglich, spätestens bis zum fünften Werktag vor Ablauf der Annahmefrist, herbeizuführen.
+Hat der Bieter das Angebot unter der Bedingung eines Beschlusses seiner Gesellschafterversammlung abgegeben, hat er den Beschluss unverzüglich, spätestens bis zum fünften Arbeitstag vor Ablauf der Annahmefrist, herbeizuführen.
 
 # § 26 – Sperrfrist
 
@@ -753,7 +761,7 @@ Hat der Bieter das Angebot unter der Bedingung eines Beschlusses seiner Gesellsc
 
 (4) Die Absätze 1 und 2 gelten nicht, wenn der jeweilige Bieter zur Veröffentlichung nach § 35 Absatz 1 Satz 1 und zur Abgabe eines Angebots nach § 35 Absatz 2 Satz 1 verpflichtet ist.
 
-(5) Die Bundesanstalt kann den jeweiligen Bieter auf schriftlichen Antrag von dem Verbot nach den Absätzen 1 oder 2 befreien, wenn die Zielgesellschaft der Befreiung zustimmt.
+(5) Die Bundesanstalt kann den jeweiligen Bieter auf Antrag von dem Verbot nach den Absätzen 1 oder 2 befreien, wenn die Zielgesellschaft der Befreiung zustimmt.
 
 # § 27 – Stellungnahme des Vorstands und Aufsichtsrats der Zielgesellschaft
 
@@ -769,7 +777,7 @@ Hat der Bieter das Angebot unter der Bedingung eines Beschlusses seiner Gesellsc
 
 (2) Übermitteln der zuständige Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar die Arbeitnehmer der Zielgesellschaft dem Vorstand eine Stellungnahme zu dem Angebot, hat der Vorstand unbeschadet seiner Verpflichtung nach Absatz 3 Satz 1 diese seiner Stellungnahme beizufügen.
 
-(3) Der Vorstand und der Aufsichtsrat der Zielgesellschaft haben die Stellungnahme unverzüglich nach Übermittlung der Angebotsunterlage und deren Änderungen durch den Bieter gemäß § 14 Abs. 3 Satz 1 zu veröffentlichen. Sie haben die Stellungnahme gleichzeitig dem zuständigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern zu übermitteln. Der Vorstand und der Aufsichtsrat der Zielgesellschaft haben der Bundesanstalt unverzüglich die Veröffentlichung gemäß § 14 Abs. 3 Satz 1 Nr. 2 mitzuteilen.
+(3) Der Vorstand und der Aufsichtsrat der Zielgesellschaft haben die Stellungnahme unverzüglich nach Übermittlung der Angebotsunterlage und deren Änderungen durch den Bieter gemäß § 14 Abs. 3 Satz 1 zu veröffentlichen. Sie haben die Stellungnahme gleichzeitig dem zuständigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern zu übermitteln. Der Vorstand und der Aufsichtsrat der Zielgesellschaft haben der Bundesanstalt die Veröffentlichung nach § 14 Absatz 3 Satz 1 Nummer 2 unverzüglich unter Übermittlung der veröffentlichten Stellungnahme mitzuteilen.
 
 # § 28 – Werbung
 
@@ -915,7 +923,7 @@ Satz 1 gilt nicht für Vorzugsaktien ohne Stimmrecht sowie für vor dem 22. Apri
 
 (2) Die Hauptversammlung einer Zielgesellschaft, deren Satzung eine Bestimmung nach § 33b Abs. 1 enthält, kann beschließen, dass diese Bestimmung keine Anwendung findet, wenn der Bieter oder ein ihn beherrschendes Unternehmen einer dieser Bestimmung entsprechenden Regelung nicht unterliegt.
 
-(3) Der Vorbehalt der Gegenseitigkeit gemäß den Absätzen 1 und 2 kann in einem Beschluss gefasst werden. Der Beschluss der Hauptversammlung gilt für höchstens 18 Monate. Der Vorstand der Zielgesellschaft hat die Bundesanstalt und die Aufsichtsstellen der Staaten des Europäischen Wirtschaftsraums, in denen stimmberechtigte Aktien der Gesellschaft zum Handel an einem organisierten Markt zugelassen sind, unverzüglich von der Ermächtigung zu unterrichten. Die Ermächtigung ist unverzüglich auf der Internetseite der Zielgesellschaft zu veröffentlichen.
+(3) Der Vorbehalt der Gegenseitigkeit gemäß den Absätzen 1 und 2 kann in einem Beschluss gefasst werden. Der Beschluss der Hauptversammlung gilt für höchstens 18 Monate. Der Vorstand der Zielgesellschaft hat die Bundesanstalt und die Aufsichtsstellen der Staaten des Europäischen Wirtschaftsraums, in denen stimmberechtigte Aktien der Gesellschaft zum Handel an einem organisierten Markt zugelassen sind, unverzüglich von der Ermächtigung zu unterrichten. Die Ermächtigung ist unverzüglich auf der Internetseite der Zielgesellschaft zu veröffentlichen. § 14 Absatz 3 Satz 2 gilt entsprechend.
 
 # § 33d – Verbot der Gewährung ungerechtfertigter Leistungen
 
@@ -927,15 +935,15 @@ Für Übernahmeangebote gelten die Vorschriften des Abschnitts 3, soweit sich au
 
 # § 35 – Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
 
-(1) Wer unmittelbar oder mittelbar die Kontrolle über eine Zielgesellschaft erlangt, hat dies unter Angabe der Höhe seines Stimmrechtsanteils unverzüglich, spätestens innerhalb von sieben Kalendertagen, gemäß § 10 Abs. 3 Satz 1 und 2 zu veröffentlichen. Die Frist beginnt mit dem Zeitpunkt, zu dem der Bieter Kenntnis davon hat oder nach den Umständen haben musste, dass er die Kontrolle über die Zielgesellschaft erlangt hat. In der Veröffentlichung sind die nach § 30 zuzurechnenden Stimmrechte für jeden Zurechnungstatbestand getrennt anzugeben. § 10 Abs. 2, 3 Satz 3 und Abs. 4 bis 6 gilt entsprechend.
+(1) Wer unmittelbar oder mittelbar die Kontrolle über eine Zielgesellschaft erlangt, hat dies unter Angabe der Höhe seines Stimmrechtsanteils unverzüglich, spätestens innerhalb von sieben Arbeitstagen, gemäß § 10 Abs. 3 Satz 1 und 2 zu veröffentlichen. Die Frist beginnt mit dem Zeitpunkt, zu dem der Bieter Kenntnis davon hat oder nach den Umständen haben musste, dass er die Kontrolle über die Zielgesellschaft erlangt hat. In der Veröffentlichung sind die nach § 30 zuzurechnenden Stimmrechte für jeden Zurechnungstatbestand getrennt anzugeben. § 10 Abs. 2, 3 Satz 3 und Abs. 4 bis 6 gilt entsprechend.
 
-(2) Der Bieter hat innerhalb von vier Wochen nach der Veröffentlichung der Erlangung der Kontrolle über eine Zielgesellschaft der Bundesanstalt eine Angebotsunterlage zu übermitteln und nach § 14 Abs. 2 Satz 1 ein Angebot zu veröffentlichen. § 14 Abs. 2 Satz 2, Abs. 3 und 4 gilt entsprechend. Ausgenommen von der Verpflichtung nach Satz 1 sind eigene Aktien der Zielgesellschaft, Aktien der Zielgesellschaft, die einem abhängigen oder im Mehrheitsbesitz stehenden Unternehmen der Zielgesellschaft gehören, und Aktien der Zielgesellschaft, die einem Dritten gehören, jedoch für Rechnung der Zielgesellschaft, eines abhängigen oder eines im Mehrheitsbesitz stehenden Unternehmens der Zielgesellschaft gehalten werden.
+(2) Der Bieter hat innerhalb von vier Wochen nach der Veröffentlichung der Erlangung der Kontrolle über eine Zielgesellschaft der Bundesanstalt eine Angebotsunterlage zu übermitteln und nach § 14 Abs. 2 Satz 1 ein Angebot zu veröffentlichen. § 14 Absatz 2 Satz 2 bis 4, Abs. 3 und 4 gilt entsprechend. Ausgenommen von der Verpflichtung nach Satz 1 sind eigene Aktien der Zielgesellschaft, Aktien der Zielgesellschaft, die einem abhängigen oder im Mehrheitsbesitz stehenden Unternehmen der Zielgesellschaft gehören, und Aktien der Zielgesellschaft, die einem Dritten gehören, jedoch für Rechnung der Zielgesellschaft, eines abhängigen oder eines im Mehrheitsbesitz stehenden Unternehmens der Zielgesellschaft gehalten werden.
 
 (3) Wird die Kontrolle über die Zielgesellschaft auf Grund eines Übernahmeangebots erworben, besteht keine Verpflichtung nach Absatz 1 Satz 1 und Absatz 2 Satz 1.
 
 # § 36 – Nichtberücksichtigung von Stimmrechten
 
-Die Bundesanstalt lässt auf schriftlichen Antrag zu, dass Stimmrechte aus Aktien der Zielgesellschaft bei der Berechnung des Stimmrechtsanteils unberücksichtigt bleiben, wenn die Aktien erlangt wurden durch
+Die Bundesanstalt lässt auf Antrag zu, dass Stimmrechte aus Aktien der Zielgesellschaft bei der Berechnung des Stimmrechtsanteils unberücksichtigt bleiben, wenn die Aktien erlangt wurden durch
 
 1. Erbgang, Erbauseinandersetzung oder unentgeltliche Zuwendung unter Ehegatten, Lebenspartnern oder Verwandten in gerader Linie und bis zum dritten Grade oder durch Vermögensauseinandersetzung aus Anlass der Auflösung einer Ehe oder Lebenspartnerschaft,
 
@@ -945,9 +953,9 @@ Die Bundesanstalt lässt auf schriftlichen Antrag zu, dass Stimmrechte aus Aktie
 
 # § 37 – Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
 
-(1) Die Bundesanstalt kann auf schriftlichen Antrag den Bieter von den Verpflichtungen nach § 35 Abs.1 Satz 1 und Abs. 2 Satz 1 befreien, sofern dies im Hinblick auf die Art der Erlangung, die mit der Erlangung der Kontrolle beabsichtigte Zielsetzung, ein nach der Erlangung der Kontrolle erfolgendes Unterschreiten der Kontrollschwelle, die Beteiligungsverhältnisse an der Zielgesellschaft oder die tatsächliche Möglichkeit zur Ausübung der Kontrolle unter Berücksichtigung der Interessen des Antragstellers und der Inhaber der Aktien der Zielgesellschaft gerechtfertigt erscheint.
+(1) Die Bundesanstalt kann auf Antrag den Bieter von den Verpflichtungen nach § 35 Abs.1 Satz 1 und Abs. 2 Satz 1 befreien, sofern dies im Hinblick auf die Art der Erlangung, die mit der Erlangung der Kontrolle beabsichtigte Zielsetzung, ein nach der Erlangung der Kontrolle erfolgendes Unterschreiten der Kontrollschwelle, die Beteiligungsverhältnisse an der Zielgesellschaft oder die tatsächliche Möglichkeit zur Ausübung der Kontrolle unter Berücksichtigung der Interessen des Antragstellers und der Inhaber der Aktien der Zielgesellschaft gerechtfertigt erscheint.
 
-(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die Befreiung von den Verpflichtungen nach § 35 Abs. 1 Satz 1, Abs.2 Satz 1 erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die Befreiung von den Verpflichtungen nach § 35 Abs. 1 Satz 1, Abs. 2 Satz 1 erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 # § 38 – Anspruch auf Zinsen
 
@@ -997,7 +1005,7 @@ Nach einem Übernahme- oder Pflichtangebot können die Aktionäre einer Zielgese
 
 # § 40 – Ermittlungsbefugnisse der Bundesanstalt
 
-(1) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von Unterlagen und die Überlassung von Kopien verlangen sowie Personen laden und vernehmen, soweit dies auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines Gebots oder Verbots dieses Gesetzes erforderlich ist. Sie kann insbesondere die Angabe von Bestandsveränderungen in Finanzinstrumenten sowie Auskünfte über die Identität weiterer Personen, insbesondere der Auftraggeber und der aus Geschäften berechtigten oder verpflichteten Personen, verlangen. Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt.
+(1) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von Unterlagen und die Überlassung von Kopien verlangen sowie Personen laden und vernehmen, soweit dies auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines Gebots oder Verbots dieses Gesetzes erforderlich ist. Sie kann insbesondere die Angabe von Bestandsveränderungen in Finanzinstrumenten sowie Auskünfte über die Identität weiterer Personen, insbesondere der Auftraggeber und der aus Geschäften berechtigten oder verpflichteten Personen, verlangen. Die Bundesanstalt kann verlangen, dass ihr die Auskünfte, Unterlagen und Kopien nach den Sätzen 1 und 2 in einer von ihr bestimmten Form übermittelt werden. Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt.
 
 (2) Während der üblichen Arbeitszeit ist Bediensteten der Bundesanstalt und den von ihr beauftragten Personen, soweit dies zur Wahrnehmung ihrer Aufgaben nach diesem Gesetz erforderlich ist, das Betreten der Grundstücke und Geschäftsräume der nach Absatz 1 auskunftspflichtigen Personen zu gestatten. Das Betreten außerhalb dieser Zeit oder das Betreten von Geschäftsräumen, die sich in einer Wohnung befinden, ist ohne Einverständnis nur zulässig und insoweit zu dulden, wie dies zur Verhütung von dringenden Gefahren für die öffentliche Sicherheit und Ordnung erforderlich ist und bei der auskunftspflichtigen Person Anhaltspunkte für einen Verstoß gegen ein Verbot oder Gebot dieses Gesetzes vorliegen. Das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
@@ -1029,7 +1037,7 @@ Die Bundesanstalt kann ihre Verfügungen nach § 4 Absatz 1 Satz 3, § 10 Absatz
 
 # § 45 – Mitteilungen an die Bundesanstalt
 
-Anträge und Mitteilungen an die Bundesanstalt haben in schriftlicher Form zu erfolgen. Eine Übermittlung im Wege der elektronischen Datenfernübertragung ist zulässig, sofern der Absender zweifelsfrei zu erkennen ist.
+Anträge sowie nach diesem Gesetz oder nach einer auf Grundlage dieses Gesetzes erlassenen Rechtsverordnung erforderliche Mitteilungen, Erklärungen, Unterrichtungen oder Übermittlungen an die Bundesanstalt haben ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt zu erfolgen.
 
 # § 46 – Zwangsmittel
 
@@ -1165,7 +1173,7 @@ eine Mitteilung, Unterrichtung oder Übermittlung nicht, nicht richtig, nicht vo
 
 4. entgegen § 10 Abs. 4 Satz 1, auch in Verbindung mit § 35 Abs. 1 Satz 4, eine Veröffentlichung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übersendet,
 
-5. entgegen § 14 Abs. 3 Satz 2, auch in Verbindung mit § 21 Abs. 2 Satz 2, § 23 Abs. 1 Satz 2 oder § 35 Abs. 2 Satz 2, oder entgegen § 27 Abs. 3 Satz 3 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht,
+5. entgegen § 14 Abs. 3 Satz 2, auch in Verbindung mit § 14 Absatz 3 Satz 3, § 21 Abs. 2 Satz 2, § 23 Absatz 1 Satz 2 oder Absatz 2 Satz 2, § 33c Absatz 3 Satz 5 oder § 35 Abs. 2 Satz 2, oder entgegen § 27 Abs. 3 Satz 3 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht,
 
 6. entgegen § 15 Abs. 3 eine Veröffentlichung vornimmt,
 

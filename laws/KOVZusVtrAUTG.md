@@ -13,7 +13,7 @@ Dem in Wien am 7. Februar 1969 unterzeichneten Zusatzvertrag zur Durchführung u
 
 # Art 2
 
-Als Stellen in der Bundesrepublik Deutschland, die nach Artikel 6 Abs. 3 Satz 3 des Zusatzvertrags die Ausfertigung der Bescheide der Verwaltungsbehörden mit der Bestätigung ihrer Vollstreckbarkeit zu versehen haben, werden die Landesversorgungsämter und in Fällen der Berufsförderung die Hauptfürsorgestellen bestimmt.
+Als Stellen in der Bundesrepublik Deutschland, die nach Artikel 6 Abs. 3 Satz 3 des Zusatzvertrags die Ausfertigung der Bescheide der Verwaltungsbehörden mit der Bestätigung ihrer Vollstreckbarkeit zu versehen haben, werden die Träger der Sozialen Entschädigung bestimmt.
 
 # Art 3
 
@@ -21,7 +21,7 @@ Als Stellen in der Bundesrepublik Deutschland, die nach Artikel 6 Abs. 3 Satz 3 
 
 # Art 4
 
-Personen, die einen Anspruch auf Versorgung nach dem Bundesversorgungsgesetz besitzen und ihren Wohnsitz oder gewöhnlichen Aufenthalt in den Gemeinden Jungholz (politischer Bezirk Reutte) und Mittelberg (politischer Bezirk Bregenz) der Republik Österreich haben, erhalten Versorgung wie Berechtigte mit Wohnsitz oder gewöhnlichem Aufenthalt im Gebiet der Bundesrepublik Deutschland.
+Personen, die einen Anspruch auf Versorgung nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung oder dem Vierzehnten Buch Sozialgesetzbuch besitzen und ihren Wohnsitz oder gewöhnlichen Aufenthalt in den Gemeinden Jungholz (politischer Bezirk Reutte) und Mittelberg (politischer Bezirk Bregenz) der Republik Österreich haben, erhalten Versorgung wie Berechtigte mit Wohnsitz oder gewöhnlichem Aufenthalt im Gebiet der Bundesrepublik Deutschland.
 
 # Art 5
 

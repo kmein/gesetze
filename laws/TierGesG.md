@@ -928,7 +928,7 @@ soweit durch dieses Gesetz, durch Rechtsverordnung nach diesem Gesetz oder durch
 
 2. auf Grund rechtskräftig festgestellter Ordnungswidrigkeiten nach § 32 Absatz 1 und 2 die erforderliche Zuverlässigkeit nicht besitzt.
 
-(4) Natürliche und juristische Personen und nicht rechtsfähige Personenvereinigungen haben den zuständigen Behörden auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der den Behörden nach Absatz 1 übertragenen Aufgaben erforderlich sind. Die Auskunftspflichtigen können die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+(4) Natürliche und juristische Personen und sonstige Personenvereinigungen haben den zuständigen Behörden auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der den Behörden nach Absatz 1 übertragenen Aufgaben erforderlich sind. Die Auskunftspflichtigen können die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 (5) Personen,
 

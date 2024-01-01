@@ -107,7 +107,7 @@ Ein Schiff, das nach § 3 Abs. 2, 3 in das Schiffsregister eingetragen werden ka
 
 5. die nach Maßgabe der Resolution A.600 (15) vom 19. November 1987 der Internationalen Seeschiffahrts-Organisation (IMO) vergebene Schiffsidentifikationsnummer (IMO-Nummer), sofern sie sich aus dem Meßbrief oder einer entsprechenden Urkunde (§ 13) ergibt, die Ergebnisse der amtlichen Vermessung sowie die Maschinenleistung;
 
-6. der Eigentümer, bei einer Reederei die Mitreeder und die Größe der Schiffsparten, bei einer offenen Handelsgesellschaft die Gesellschafter, bei einer Kommanditgesellschaft oder einer Kommanditgesellschaft auf Aktien die persönlich haftenden Gesellschafter;
+6. der Eigentümer, bei einer Reederei die Mitreeder und die Größe der Schiffsparten;
 
 7. der Rechtsgrund für den Erwerb des Eigentums;
 
@@ -181,11 +181,11 @@ Ist das Schiff ganz oder zum Teil im Inland erbaut, so ist bei der Anmeldung ein
 
 (1) Zur Anmeldung nach § 17 ist der Eigentümer, bei einer Reederei auch der Korrespondentreeder verpflichtet.
 
-(2) Sind mehrere Verpflichtete vorhanden, so genügt die Anmeldung durch einen von ihnen; entsprechendes gilt, wenn der Eigentümer eine juristische Person oder eine Handelsgesellschaft ist, die durch mehrere Personen vertreten wird.
+(2) Sind mehrere Verpflichtete vorhanden, so genügt die Anmeldung durch einen von ihnen; entsprechendes gilt, wenn der Eigentümer eine juristische Person oder eine rechtsfähige Personengesellschaft ist, die durch mehrere Personen vertreten wird.
 
 # § 19
 
-(1) Wer einer ihm nach §§ 10, 13 bis 15, 17, 18 obliegenden Verpflichtung nicht nachkommt, ist hierzu vom Registergericht durch Festsetzung von Zwangsgeld anzuhalten. Das einzelne Zwangsgeld darf den Betrag von eintausend Deutsche Mark nicht übersteigen.
+(1) Wer einer ihm nach §§ 10, 13 bis 15, 17, 18 obliegenden Verpflichtung nicht nachkommt, ist hierzu vom Registergericht durch Festsetzung von Zwangsgeld anzuhalten. Das einzelne Zwangsgeld darf den Betrag von 500 Euro nicht übersteigen.
 
 (2) Für das Verfahren gelten die §§ 388 bis 391 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sinngemäß.
 
@@ -317,7 +317,7 @@ Soll ein Nießbrauch an einem Schiff zum Zweck der Erfüllung einer Verpflichtun
 
 # § 44
 
-Kann eine Tatsache durch das Zeugnis des das Schiffsregister führenden Amtsgerichts über den Inhalt anderer Register oder Akten oder durch Urkunden nachgewiesen werden, die von dem Gericht aufgenommen worden sind oder bei ihm verwahrt werden, so genügt statt der Vorlegung des Zeugnisses oder der Urkunde die Bezugnahme auf das Register oder die Akten. Für den Nachweis rechtserheblicher Umstände, die sich aus Eintragungen im Handels-, Genossenschafts-, Partnerschafts- oder Vereinsregister ergeben, gilt § 32 der Grundbuchordnung.
+Kann eine Tatsache durch das Zeugnis des das Schiffsregister führenden Amtsgerichts über den Inhalt anderer Register oder Akten oder durch Urkunden nachgewiesen werden, die von dem Gericht aufgenommen worden sind oder bei ihm verwahrt werden, so genügt statt der Vorlegung des Zeugnisses oder der Urkunde die Bezugnahme auf das Register oder die Akten. Für den Nachweis rechtserheblicher Umstände, die sich aus Eintragungen im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister ergeben, gilt § 32 der Grundbuchordnung.
 
 # § 45
 
@@ -353,7 +353,9 @@ Jede Eintragung soll den Tag angeben, an dem sie erfolgt ist. Sie ist von den zu
 
 # § 51
 
-Wird ein Recht für mehrere gemeinschaftlich eingetragen, so sollen in der Eintragung entweder die Anteile der Berechtigten in Bruchteilen angegeben oder es soll das für die Gemeinschaft maßgebende Rechtsverhältnis bezeichnet werden.
+(1) Wird ein Recht für mehrere gemeinschaftlich eingetragen, so sollen in der Eintragung entweder die Anteile der Berechtigten in Bruchteilen angegeben oder es soll das für die Gemeinschaft maßgebende Rechtsverhältnis bezeichnet werden.
+
+(2) Für eine Gesellschaft bürgerlichen Rechts sollen ein Recht nur eingetragen und Eintragungen, die ein Recht der Gesellschaft bürgerlichen Rechts betreffen, nur vorgenommen werden, wenn sie im Gesellschaftsregister eingetragen ist.
 
 # § 52
 

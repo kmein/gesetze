@@ -1327,7 +1327,7 @@ Für die Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder gil
 
 Zur Aufhebung oder Änderung der Bestimmungen der Satzung über Mehrstimmrechte bedarf es nicht der Zustimmung der betroffenen Mitglieder.
 
-(4) Das Mitglied soll sein Stimmrecht persönlich ausüben. Das Stimmrecht geschäftsunfähiger oder in der Geschäftsfähigkeit beschränkter natürlicher Personen sowie das Stimmrecht von juristischen Personen wird durch ihre gesetzlichen Vertreter, das Stimmrecht von Personenhandelsgesellschaften durch zur Vertretung ermächtigte Gesellschafter ausgeübt.
+(4) Das Mitglied soll sein Stimmrecht persönlich ausüben. Das Stimmrecht geschäftsunfähiger oder in der Geschäftsfähigkeit beschränkter natürlicher Personen sowie das Stimmrecht von juristischen Personen wird durch ihre gesetzlichen Vertreter, das Stimmrecht von rechtsfähigen Personengesellschaften durch deren vertretungsbefugte Gesellschafter ausgeübt.
 
 (5) Das Mitglied oder sein gesetzlicher Vertreter können Stimmvollmacht erteilen. Für die Vollmacht ist die schriftliche Form erforderlich. Ein Bevollmächtigter kann nicht mehr als zwei Mitglieder vertreten. Die Satzung kann persönliche Voraussetzungen für Bevollmächtigte aufstellen, insbesondere die Bevollmächtigung von Personen ausschließen, die sich geschäftsmäßig zur Ausübung des Stimmrechts erbieten.
 

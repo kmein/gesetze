@@ -47,13 +47,13 @@ Liegt eine Veränderung nach § 2 Absatz 1 vor, die zur Vergabe einer neuen Numm
 
 (1) Die nach § 40 Absatz 1 Satz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung erforderlichen Angaben zur prozentualen Beteiligung am Stammkapital dürfen nach dem kaufmännischen Prinzip bis auf eine Dezimalstelle gerundet werden. Eine Abrundung auf 0,0 Prozent, 25,0 Prozent oder 50,0 Prozent ist nicht zulässig. Alternativ können die Angaben ohne Rundung durch das Weglassen der Nachkommastellen bis auf eine Dezimalstelle dargestellt werden; Satz 2 gilt entsprechend.
 
-(2) Der Gesamtumfang der prozentualen Beteiligung eines Gesellschafters am Stammkapital nach § 40 Absatz 1 Satz 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung ist vor der Rundung (Absatz 1 Satz 1) oder dem Weglassen von Nachkommastellen (Absatz 1 Satz 3) der Einzelbeteiligungen zu errechnen. Für die Angabe des Gesamtumfangs gilt Absatz 1 entsprechend.
+(2) Der Gesamtumfang der prozentualen Beteiligung eines Gesellschafters am Stammkapital nach § 40 Absatz 1 Satz 4 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung ist vor der Rundung (Absatz 1 Satz 1) oder dem Weglassen von Nachkommastellen (Absatz 1 Satz 3) der Einzelbeteiligungen zu errechnen. Für die Angabe des Gesamtumfangs gilt Absatz 1 entsprechend.
 
 (3) Die Summe der Prozentangaben nach den Absätzen 1 und 2 braucht nicht 100 Prozent zu ergeben.
 
 (4) Beträgt der Anteil des Nennbetrags eines einzelnen Geschäftsanteils weniger als 1 Prozent vom Stammkapital, genügt diese Angabe. Entsprechendes gilt, wenn die addierten Nennbeträge der Geschäftsanteile eines Gesellschafters weniger als 1 Prozent vom Stammkapital betragen.
 
-(5) Die Prozentangaben nach § 40 Absatz 1 Satz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung sind in separaten Spalten aufzuführen. Die Prozentangaben nach § 40 Absatz 1 Satz 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung sind in weiteren separaten Spalten oder in an die Gesellschafterliste anschließenden separaten Zeilen aufzuführen.
+(5) Die Prozentangaben nach § 40 Absatz 1 Satz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung sind in separaten Spalten aufzuführen. Die Prozentangaben nach § 40 Absatz 1 Satz 4 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung sind in weiteren separaten Spalten oder in an die Gesellschafterliste anschließenden separaten Zeilen aufzuführen.
 
 # § 5 – Übergangsvorschriften
 

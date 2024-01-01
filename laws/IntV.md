@@ -305,9 +305,9 @@ Diese Tests werden bei hierfür zugelassenen Stellen (§ 20a) abgelegt. Diese St
 
 (1) Zur Beurteilung der Zuverlässigkeit und Gesetzestreue des Antragstellers oder der zur Führung seiner Geschäfte bestellten Personen muss der Antrag Folgendes enthalten:
 
-1. bei natürlichen Personen Angaben zu Namen, Vornamen, Geburtsdatum, Geburtsort, zustellungsfähiger Anschrift, Anschrift des Geschäftssitzes und der Zweigstellen, von denen aus der Integrationskurs angeboten werden soll, sowie bei juristischen Personen und Personengesellschaften Angaben zu Namen, Vornamen, Geburtsdatum, Geburtsort der Vertreter nach Gesetz, Satzung oder Gesellschaftsvertrag, Anschrift des Geschäftssitzes und der Zweigstellen, von denen aus der Integrationskurs angeboten werden soll; soweit eine Eintragung in das Vereins- oder Handelsregister erfolgt ist, ist ein entsprechender Auszug vorzulegen,
+1. bei natürlichen Personen Angaben zu Namen, Vornamen, Geburtsdatum, Geburtsort, zustellungsfähiger Anschrift, Anschrift des Geschäftssitzes und der Zweigstellen, von denen aus der Integrationskurs angeboten werden soll, sowie bei juristischen Personen und rechtsfähigen Personengesellschaften Angaben zu Namen, Vornamen, Geburtsdatum, Geburtsort der Vertreter nach Gesetz, Satzung oder Gesellschaftsvertrag, Anschrift des Geschäftssitzes und der Zweigstellen, von denen aus der Integrationskurs angeboten werden soll; soweit eine Eintragung in das Gesellschafts-, Vereins- oder Handelsregister erfolgt ist, ist ein entsprechender Auszug vorzulegen,
 
-2. eine Erklärung des Antragstellers oder des gesetzlichen Vertreters oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten
+2. eine Erklärung des Antragstellers oder des gesetzlichen Vertreters oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten
 
 a) über Insolvenzverfahren, Vorstrafen, anhängige Strafverfahren und staatsanwaltschaftliche Ermittlungsverfahren innerhalb der letzten fünf Jahre oder
 

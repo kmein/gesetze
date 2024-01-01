@@ -385,7 +385,7 @@ Fahrlehrer und Fahrlehreranwärter haben die Fahrschüler gewissenhaft auszubild
 
 Unzuverlässig im Sinne des Satzes 1 Nummer 1 ist ein Bewerber insbesondere dann, wenn er wiederholt die Pflichten gröblich verletzt hat, die ihm nach diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegen.
 
-(2) Ist der Bewerber eine juristische Person oder Personengesellschaft, wird die Fahrschulerlaubnis erteilt, wenn die in Absatz 1 Nummer 6 genannten Voraussetzungen erfüllt sind und keine Tatsachen vorliegen, die die durch Gesetz, Satzung oder durch Einzelprokura zur Vertretung berechtigten Personen als unzuverlässig erscheinen lassen und eine von ihnen, die die Voraussetzungen des Absatzes 1 Nummer 1 bis 5 erfüllt, zur verantwortlichen Leitung des Ausbildungsbetriebs bestellt wird. Die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person muss nach den Umständen, insbesondere bei Berücksichtigung der beruflichen Verpflichtungen, die Gewähr dafür bieten, dass die Pflichten nach § 29 erfüllt werden.
+(2) Ist der Bewerber eine juristische Person oder rechtsfähige Personengesellschaft, wird die Fahrschulerlaubnis erteilt, wenn die in Absatz 1 Nummer 6 genannten Voraussetzungen erfüllt sind und keine Tatsachen vorliegen, die die durch Gesetz, Satzung oder durch Einzelprokura zur Vertretung berechtigten Personen als unzuverlässig erscheinen lassen und eine von ihnen, die die Voraussetzungen des Absatzes 1 Nummer 1 bis 5 erfüllt, zur verantwortlichen Leitung des Ausbildungsbetriebs bestellt wird. Die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person muss nach den Umständen, insbesondere bei Berücksichtigung der beruflichen Verpflichtungen, die Gewähr dafür bieten, dass die Pflichten nach § 29 erfüllt werden.
 
 (3) Die Teilnahme an einem Lehrgang nach Absatz 1 Nummer 5 war erfolgreich, wenn der Teilnehmer an allen Veranstaltungen des Lehrgangs teilgenommen und durch aktive Beteiligung gezeigt hat, dass er zur betriebswirtschaftlichen Leitung einer Fahrschule befähigt ist.
 
@@ -428,7 +428,7 @@ Ein Bewerber um eine Fahrschulerlaubnis, der Inhaber einer in einem anderen Staa
 
 Der Bewerber hat ferner ein Führungszeugnis im Sinne des § 30a Absatz 1 Nummer 1 des Bundeszentralregistergesetzes nach Maßgabe des § 30 Absatz 5 des Bundeszentralregistergesetzes vorzulegen, das nicht älter als drei Monate sein darf.
 
-(2) Ist der Bewerber eine juristische Person oder Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer 4 bis 9, ein beglaubigter Auszug aus dem Handelsregister oder aus dem Vereinsregister und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person zusätzlich die Unterlagen nach Absatz 1 Satz 2 Nummer 1 bis 4 beizufügen. Ferner ist zu erklären, welche beruflichen Verpflichtungen für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person sonst noch zu erfüllen hat. Für die zur Vertretung der juristischen Person oder der Personengesellschaft berechtigten Personen und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person gilt Absatz 1 Satz 3 entsprechend.
+(2) Ist der Bewerber eine juristische Person oder rechtsfähige Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer 4 bis 9, ein beglaubigter Auszug aus dem Handelsregister, Gesellschaftsregister oder aus dem Vereinsregister und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person zusätzlich die Unterlagen nach Absatz 1 Satz 2 Nummer 1 bis 4 beizufügen. Ferner ist zu erklären, welche beruflichen Verpflichtungen für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person sonst noch zu erfüllen hat. Für die zur Vertretung der juristischen Person oder der rechtsfähigen Personengesellschaft berechtigten Personen und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person gilt Absatz 1 Satz 3 entsprechend.
 
 (3) Die nach Landesrecht zuständige Behörde hat die Angaben in den Unterlagen nach Absatz 1 Nummer 5 bis 7 an Ort und Stelle zu prüfen. § 51 Absatz 1 Satz 2 gilt entsprechend.
 
@@ -472,7 +472,7 @@ Ferner kann sich die nach Landesrecht zuständige Behörde an die Kontaktstelle 
 
 Weist der Bewerber nach, dass in dem Staat, in welchem der Ausbildungs- oder Befähigungsnachweis erworben wurde, Unterlagen nach Satz 1 Nummer 2 oder 3 nicht ausgestellt werden, können diese durch eine Versicherung an Eides statt des Bewerbers ersetzt werden. Die Bescheinigungen nach Satz 1 Nummer 2 und 3 dürfen bei ihrer Vorlage nicht älter als drei Monate sein. Absatz 2 Satz 3 und 4 gilt entsprechend.
 
-(4) Ist der Bewerber eine juristische Person oder Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer 2 bis 4, Absatz 2 Satz 1 Nummer 2 und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person zusätzlich die Unterlagen nach Absatz 1 Satz 2 Nummer 1 sowie Absatz 2 Satz 1 Nummer 1 oder Absatz 3 Satz 1 Nummer 1, 3 und 4 und Satz 2, auf Anforderung der Behörde auch die Unterlagen nach Absatz 2 Satz 4, auch in Verbindung mit Absatz 3 Satz 4 vorzulegen. Ferner ist zu erklären, welche sonstigen beruflichen Verpflichtungen die verantwortliche Leitung zu erfüllen hat. Für die zur Vertretung der juristischen Person oder der Personengesellschaft berechtigten Personen gilt Absatz 2 Satz 2 und 3 oder Absatz 3 Satz 1 Nummer 2, auch in Verbindung mit Satz 2, entsprechend.
+(4) Ist der Bewerber eine juristische Person oder rechtsfähige Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer 2 bis 4, Absatz 2 Satz 1 Nummer 2 und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person zusätzlich die Unterlagen nach Absatz 1 Satz 2 Nummer 1 sowie Absatz 2 Satz 1 Nummer 1 oder Absatz 3 Satz 1 Nummer 1, 3 und 4 und Satz 2, auf Anforderung der Behörde auch die Unterlagen nach Absatz 2 Satz 4, auch in Verbindung mit Absatz 3 Satz 4 vorzulegen. Ferner ist zu erklären, welche sonstigen beruflichen Verpflichtungen die verantwortliche Leitung zu erfüllen hat. Für die zur Vertretung der juristischen Person oder der rechtsfähigen Personengesellschaft berechtigten Personen gilt Absatz 2 Satz 2 und 3 oder Absatz 3 Satz 1 Nummer 2, auch in Verbindung mit Satz 2, entsprechend.
 
 (5) Die nach Landesrecht zuständige Behörde hat die Angaben in den Unterlagen nach Absatz 1 Satz 2 Nummer 2 bis 4 an Ort und Stelle zu prüfen. § 51 Absatz 1 Satz 2 gilt entsprechend.
 
@@ -512,7 +512,7 @@ Die Bescheinigungen nach Satz 1 Nummer 1 und 2 dürfen nicht älter als drei Mon
 
 2. in den Fällen, in denen die Fahrlehrertätigkeit oder die Ausbildung zu diesem Beruf in dem Staat seiner Niederlassung nicht im Sinne von Artikel 3 Absatz 1 Buchstabe a oder e der Richtlinie 2005/36/EG reglementiert ist, eine Bescheinigung darüber, dass die Fahrlehrertätigkeit innerhalb der letzten zehn Jahre vor Ausstellung der Bescheinigung mindestens zwei Jahre lang im Staat der Niederlassung ausgeübt wurde.
 
-(5) Ist der Bewerber eine juristische Person oder Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer 2 bis 5, Absatz 3 Nummer 2 und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person zusätzlich die Unterlagen nach Absatz 1 Satz 2 Nummer 1 sowie Absatz 3 Nummer 1 oder Absatz 4 beizufügen. Ferner ist zu erklären, welche sonstigen beruflichen Verpflichtungen die verantwortliche Leitung zu erfüllen hat. Für die zur Vertretung der juristischen Person oder der Personengesellschaft berechtigten Personen gilt Absatz 2 Satz 1, 2 sowie Satz 3 letzter Halbsatz entsprechend.
+(5) Ist der Bewerber eine juristische Person oder rechtsfähige Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer 2 bis 5, Absatz 3 Nummer 2 und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person zusätzlich die Unterlagen nach Absatz 1 Satz 2 Nummer 1 sowie Absatz 3 Nummer 1 oder Absatz 4 beizufügen. Ferner ist zu erklären, welche sonstigen beruflichen Verpflichtungen die verantwortliche Leitung zu erfüllen hat. Für die zur Vertretung der juristischen Person oder der rechtsfähigen Personengesellschaft berechtigten Personen gilt Absatz 2 Satz 1, 2 sowie Satz 3 letzter Halbsatz entsprechend.
 
 (6) Die nach Landesrecht zuständige Behörde hat die Angaben in den Unterlagen nach Absatz 1 Satz 2 Nummer 3 bis 5 an Ort und Stelle zu prüfen. § 51 Absatz 1 Satz 2 gilt entsprechend.
 
@@ -534,7 +534,7 @@ Der Inhaber einer Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fah
 
 2. den Namen und die Anschrift des Inhabers der Fahrschulerlaubnis – bei natürlichen Personen auch die Vornamen und den Geburtstag und -ort,
 
-3. bei juristischen Personen oder Personengesellschaften die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person mit Namen, Vornamen und den Geburtstag und -ort,
+3. bei juristischen Personen oder rechtsfähige Personengesellschaften die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person mit Namen, Vornamen und den Geburtstag und -ort,
 
 4. die Angabe, für welche Fahrschulerlaubnisklasse nach § 17 Absatz 2 die Fahrschulerlaubnis gilt,
 
@@ -610,7 +610,7 @@ Der Inhaber der Fahrschule oder in den Fällen des § 18 Absatz 2, § 28 Absatz 
 
 5. die Bestellung oder Entlassung der für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person,
 
-6. bei juristischen Personen, nichtrechtsfähigen Vereinen oder Personengesellschaften als Fahrschulinhabern die Bestellung oder das Ausscheiden von Personen, die nach Gesetz, Satzung oder Einzelprokura zur Vertretung berufen sind,
+6. bei juristischen Personen, nichtrechtsfähigen Vereinen oder rechtsfähigen Personengesellschaften als Fahrschulinhabern die Bestellung oder das Ausscheiden von Personen, die nach Gesetz, Satzung oder Einzelprokura zur Vertretung berufen sind,
 
 7. Ausübung, Aufnahme und Beendigung anderer Tätigkeiten durch die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person oder den Inhaber einer Fahrschule unter Angabe der Art und des Umfangs,
 
@@ -626,7 +626,7 @@ a) Aufnahme einer Kooperation mit einer anderen Fahrschule; der Anzeige ist eine
 
 b) Änderungen der Kooperationspartner.
 
-Der Anzeige nach Satz 1 Nummer 5 sind Unterlagen nach § 22 Absatz 1 Nummer 1 bis 3 und eine Erklärung nach § 22 Absatz 2 Satz 2 beizufügen; § 23 Absatz 1 Satz 2 Nummer 1, Absatz 2 Satz 1, Absatz 3 Nummer 1, 3 und 4, Absatz 4 Satz 2 sowie § 24 Absatz 1 Satz 2 Nummer 1 und 2, Absatz 3, 4 und 5 Satz 2 gelten entsprechend. Der Anzeige nach Satz 1 Nummer 6 sind bei einer juristischen Person oder bei einer Personengesellschaft ein beglaubigter Auszug aus dem Handelsregister oder Vereinsregister, bei einem nichtrechtsfähigen Verein oder einer Gesellschaft bürgerlichen Rechts Unterlagen über die Vertretungsbefugnis der für ihn handelnden Personen beizufügen.
+Der Anzeige nach Satz 1 Nummer 5 sind Unterlagen nach § 22 Absatz 1 Nummer 1 bis 3 und eine Erklärung nach § 22 Absatz 2 Satz 2 beizufügen; § 23 Absatz 1 Satz 2 Nummer 1, Absatz 2 Satz 1, Absatz 3 Nummer 1, 3 und 4, Absatz 4 Satz 2 sowie § 24 Absatz 1 Satz 2 Nummer 1 und 2, Absatz 3, 4 und 5 Satz 2 gelten entsprechend. Der Anzeige nach Satz 1 Nummer 6 sind bei einer juristischen Person oder bei einer rechtsfähigen Personengesellschaft ein beglaubigter Auszug aus dem Handelsregister oder Vereinsregister, bei einem nichtrechtsfähigen Verein oder einer Gesellschaft bürgerlichen Rechts Unterlagen über die Vertretungsbefugnis der für ihn handelnden Personen beizufügen.
 
 (+++ § 30: Zur Anwendung vgl. § 27 Abs. 3 +++)
 
@@ -762,7 +762,7 @@ Satz 1 Nummer 1 gilt nicht, soweit es sich um eine Fahrschulerlaubnis zur vorüb
 
 Spätere Änderungen des Ausbildungsplans bedürfen der Genehmigung durch die nach Landesrecht zuständige Behörde. Unzuverlässig im Sinne des Satzes 1 Nummer 1 ist der Antragsteller insbesondere dann, wenn er wiederholt die Pflichten gröblich verletzt hat, die ihm nach diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegen.
 
-(2) Ist der Inhaber eine juristische Person oder Personengesellschaft, wird die amtliche Anerkennung erteilt, wenn die in Absatz 1 Satz 1 Nummer 4 genannten Voraussetzungen erfüllt sind und keine Tatsachen vorliegen, die die durch Gesetz, Satzung oder Einzelprokura berechtigten Personen als unzuverlässig erscheinen lassen und eine von ihnen, die die Voraussetzung des Absatzes 1 Satz 1 Nummer 1 erfüllt, zur verantwortlichen Leitung der Fahrlehrerausbildungsstätte bestellt wird. Absatz 1 Satz 3 gilt entsprechend.
+(2) Ist der Inhaber eine juristische Person oder rechtsfähige Personengesellschaft, wird die amtliche Anerkennung erteilt, wenn die in Absatz 1 Satz 1 Nummer 4 genannten Voraussetzungen erfüllt sind und keine Tatsachen vorliegen, die die durch Gesetz, Satzung oder Einzelprokura berechtigten Personen als unzuverlässig erscheinen lassen und eine von ihnen, die die Voraussetzung des Absatzes 1 Satz 1 Nummer 1 erfüllt, zur verantwortlichen Leitung der Fahrlehrerausbildungsstätte bestellt wird. Absatz 1 Satz 3 gilt entsprechend.
 
 # § 38 – Antrag auf amtliche Anerkennung
 
@@ -786,7 +786,7 @@ Spätere Änderungen des Ausbildungsplans bedürfen der Genehmigung durch die na
 
 Der Bewerber hat ferner ein Führungszeugnis im Sinne des § 30a Absatz 1 Nummer 1 des Bundeszentralregistergesetzes nach Maßgabe des § 30 Absatz 5 des Bundeszentralregistergesetzes vorzulegen, das nicht älter drei Monate sein darf. Zur Ermittlung der Voraussetzungen nach § 37 Absatz 1 Satz 1 Nummer 1 hat die nach Landesrecht zuständige Behörde auf Kosten des Bewerbers eine Auskunft aus dem Fahreignungsregister einzuholen. Die Sätze 3 und 4 gelten auch für die für die verantwortliche Leitung des Ausbildungsbetriebs vorgesehene Person.
 
-(2) Dem Antrag einer juristischen Person oder Personengesellschaft ist außerdem ein beglaubigter Auszug aus dem Handelsregister oder Vereinsregister, dem Antrag eines nichtrechtsfähigen Vereins oder einer Gesellschaft bürgerlichen Rechts Unterlagen über die Vertretungsbefugnis der für ihn handelnden Personen beizufügen.
+(2) Dem Antrag einer juristischen Person oder rechtsfähige Personengesellschaft ist außerdem ein beglaubigter Auszug aus dem Handelsregister oder Vereinsregister, dem Antrag eines nichtrechtsfähigen Vereins oder einer Gesellschaft bürgerlichen Rechts Unterlagen über die Vertretungsbefugnis der für ihn handelnden Personen beizufügen.
 
 (3) Die nach Landesrecht zuständige Behörde hat die Angaben in den Unterlagen nach Absatz 1 Satz 2 Nummer 3 bis 5 an Ort und Stelle zu prüfen. § 51 Absatz 1 Satz 2 gilt entsprechend.
 
@@ -800,7 +800,7 @@ Der Bewerber hat ferner ein Führungszeugnis im Sinne des § 30a Absatz 1 Nummer
 
 2. den Namen und die Anschrift des Inhabers der amtlich anerkannten Fahrlehrerausbildungsstätte – bei natürlichen Personen auch die Vornamen und den Geburtstag und -ort,
 
-2a. bei juristischen Personen oder Personengesellschaften die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person mit Namen, Vornamen, Geburtstag und Geburtsort,
+2a. bei juristischen Personen oder rechtsfähigen Personengesellschaften die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person mit Namen, Vornamen, Geburtstag und Geburtsort,
 
 3. die Angabe, für welche Fahrlehrerlaubnisklasse nach § 17 Absatz 2 die Fahrlehreranwärter ausgebildet werden sollen, und
 
@@ -824,9 +824,9 @@ Der Inhaber oder die für die verantwortliche Leitung der Fahrlehrerausbildungss
 
 4. Verlegung der Unterrichtsräume,
 
-5. bei juristischen Personen, nichtrechtsfähigen Vereinen oder Personengesellschaften als Inhabern der amtlich anerkannten Fahrlehrerausbildungsstätte die Bestellung oder das Ausscheiden von Personen, die nach Gesetz oder Satzung zur Vertretung berufen sind.
+5. bei juristischen Personen, nichtrechtsfähigen Vereinen oder rechtsfähigen Personengesellschaften als Inhabern der amtlich anerkannten Fahrlehrerausbildungsstätte die Bestellung oder das Ausscheiden von Personen, die nach Gesetz oder Satzung zur Vertretung berufen sind.
 
-Der Anzeige ist bei einer juristischen Person oder Personengesellschaft ein beglaubigter Auszug aus dem Handelsregister oder Vereinsregister, bei einem nichtrechtsfähigen Verein oder einer Gesellschaft bürgerlichen Rechts Unterlagen über die Vertretungsbefugnis der für ihn handelnden Personen beizufügen. Der Anzeige nach Satz 1 Nummer 2 über die Bestellung sind Unterlagen zum Nachweis der Eignung und eine Erklärung darüber beizufügen, welche beruflichen Pflichten die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person sonst noch zu erfüllen hat.
+Der Anzeige ist bei einer juristischen Person oder rechtsfähigen Personengesellschaft ein beglaubigter Auszug aus dem Handelsregister oder Vereinsregister, bei einem nichtrechtsfähigen Verein oder einer Gesellschaft bürgerlichen Rechts Unterlagen über die Vertretungsbefugnis der für ihn handelnden Personen beizufügen. Der Anzeige nach Satz 1 Nummer 2 über die Bestellung sind Unterlagen zum Nachweis der Eignung und eine Erklärung darüber beizufügen, welche beruflichen Pflichten die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person sonst noch zu erfüllen hat.
 
 # § 42 – Aufzeichnungen
 
@@ -1046,7 +1046,7 @@ Das Fahreignungsseminar, die Vorschriften hierzu und der Vollzug einschließlich
 
 4. in die vorgeschriebenen Aufzeichnungen Einsicht zu nehmen, Ablichtungen zu fertigen und diese sicherzustellen,
 
-5. von natürlichen und juristischen Personen und nicht rechtsfähigen Personenvereinigungen alle erforderlichen Auskünfte zu verlangen.
+5. von natürlichen und juristischen Personen und sonstigen Personenvereinigungen alle erforderlichen Auskünfte zu verlangen.
 
 Der nach Satz 1 Verpflichtete hat die Maßnahmen nach Satz 1 Nummer 1 bis 4 zu dulden, die in der Überwachung tätigen Personen bei der Erfüllung ihrer Aufgabe zu unterstützen. Der nach Satz 1 Verpflichtete hat den in der Überwachung tätigen Personen auf Verlangen unverzüglich die in Satz 1 Nummer 5 genannten Auskünfte zu erteilen. Der nach Satz 1 Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
@@ -1161,7 +1161,7 @@ Von den auf Grund des § 68 Absatz 1 Nummer 14 erlassenen Rechtsverordnungen kö
 
 5. § 18 Absatz 1 Nummer 5, wenn der Bewerber nachweist, dass er die erforderlichen Kenntnisse auf andere Weise erworben hat.
 
-(3) Abweichend von § 18 Absatz 1 Satz 1 Nummer 3 kann die nach Landesrecht zuständige Behörde dem Inhaber der Fahrschulerlaubnis, der die Fahrerlaubnis der Klasse CE oder DE nicht mehr besitzt, weiterhin die Leitung der Fahrschule gestatten, wenn die körperliche und geistige Eignung im Sinne des § 2 Absatz 1 Satz 1 Nummer 2 vorliegt. Dies gilt auch bei einer Fahrschulerlaubnis oder Personengesellschaft, wenn die zur Vertretung berechtigte Person keine Fahrerlaubnis der Klassen CE oder DE mehr besitzt und wenn die körperliche und geistige Eignung im Sinne des § 2 Absatz 1 Satz 1 Nummer 2 vorliegt.
+(3) Abweichend von § 18 Absatz 1 Satz 1 Nummer 3 kann die nach Landesrecht zuständige Behörde dem Inhaber der Fahrschulerlaubnis, der die Fahrerlaubnis der Klasse CE oder DE nicht mehr besitzt, weiterhin die Leitung der Fahrschule gestatten, wenn die körperliche und geistige Eignung im Sinne des § 2 Absatz 1 Satz 1 Nummer 2 vorliegt. Dies gilt auch bei einer Fahrschulerlaubnis einer rechtsfähigen Personengesellschaft, wenn die zur Vertretung berechtigte Person keine Fahrerlaubnis der Klassen CE oder DE mehr besitzt und wenn die körperliche und geistige Eignung im Sinne des § 2 Absatz 1 Satz 1 Nummer 2 vorliegt.
 
 (4) Das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium der Verteidigung und die für die Polizei zuständigen obersten Landesbehörden können die nach § 44 Absatz 2 zuständigen Dienststellen ihres Geschäftsbereichs befugen, Ausnahmen von § 12 Satz 4 und 5, § 31 Absatz 1 und 2, § 35 Absatz 1 Satz 2 Nummer 1 und 2, § 40 Absatz 2 Satz 2 und von den Vorschriften der auf Grund des § 68 Absatz 1 Nummer 13 erlassenen Rechtsverordnungen zuzulassen, soweit dies aus dienstlichen Gründen geboten ist.
 
@@ -1281,7 +1281,7 @@ Unberührt bleiben die Eintragungen nach § 28 Absatz 3 des Straßenverkehrsgese
 
 1a. bei juristischen Personen: Name und Anschrift der juristischen Person sowie alle vertretungsberechtigten Personen mit Namen, Vornamen, Tag und Ort der Geburt,
 
-1b. bei Personengesellschaften: Name und Anschrift der Personengesellschaft sowie alle Gesellschafter mit Namen, Vornamen, Tag und Ort der Geburt,
+1b. bei rechtsfähigen Personengesellschaften: Name und Anschrift der rechtsfähigen Personengesellschaft sowie alle Gesellschafter mit Namen, Vornamen, Tag und Ort der Geburt sowie Angaben zur Vertretungsbefugnis,
 
 1c. bei Behörden: Name oder Bezeichnung und Anschrift der Behörde sowie die jeweilige für die verantwortliche Leitung bestellte Person mit Namen, Vornamen, Tag und Ort der Geburt,
 
@@ -1439,7 +1439,7 @@ zu regeln.
 
 (2) Personen, die am 1. Januar 2018 Inhaber einer befristeten Fahrlehrerlaubnis sind, gilt die Anwärterbefugnis nach diesem Gesetz als erteilt; der befristete Fahrlehrerschein nach bisherigem Recht gilt als Anwärterschein nach § 10 dieses Gesetzes.
 
-(3) Natürlichen oder juristischen Personen oder nicht rechtsfähige Personenvereinigungen, die am 1. Januar 2018 Fahrschüler selbstständig ausbilden oder sie durch Fahrlehrer, die von ihnen beschäftigt werden, ausbilden lassen, gilt die Fahrschulerlaubnis nach diesem Gesetz als erteilt.
+(3) Natürlichen oder juristischen Personen oder sonstigen Personenvereinigungen, die am 1. Januar 2018 Fahrschüler selbstständig ausbilden oder sie durch Fahrlehrer, die von ihnen beschäftigt werden, ausbilden lassen, gilt die Fahrschulerlaubnis nach diesem Gesetz als erteilt.
 
 (4) Ausbildungsfahrlehrer, die bis zum 31. Dezember 2019 Fahrlehreranwärter ausbilden oder ausgebildet haben und weiterhin ausbilden wollen, müssen bis zum 1. Juli 2020 die Vorgaben des § 16 Absatz 1 erfüllen. Für Personen, die bis zum 31. Dezember 2017 an einem dreitägigen Einweisungsseminar für Ausbildungsfahrlehrer teilgenommen haben, gilt dies als Nachweis gemäß § 16 Absatz 1 Satz 2 Nummer 2.
 

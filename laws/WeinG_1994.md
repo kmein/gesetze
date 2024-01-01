@@ -1414,7 +1414,7 @@ zu betreten; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Gr
 
 4. Erzeugnisse, sonstige Stoffe, Geräte und geschäftliche Unterlagen vorläufig sicherzustellen, soweit dies zur Durchführung der Überwachung erforderlich ist, und
 
-5. von natürlichen und juristischen Personen und nicht rechtsfähigen Personenvereinigungen alle erforderlichen Auskünfte, insbesondere solche über den Umfang des Betriebes, die Verarbeitung, die zur Verarbeitung gelangenden Stoffe, deren Menge und Herkunft und über vermittelte Geschäfte zu verlangen.
+5. von natürlichen und juristischen Personen und sonstigen Personenvereinigungen alle erforderlichen Auskünfte, insbesondere solche über den Umfang des Betriebes, die Verarbeitung, die zur Verarbeitung gelangenden Stoffe, deren Menge und Herkunft und über vermittelte Geschäfte zu verlangen.
 
 (2) Vorbehaltlich des Absatzes 2a kann der zur Erteilung einer Auskunft nach Absatz 1 Nr. 5 Verpflichtete die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 

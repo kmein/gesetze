@@ -524,7 +524,7 @@ Anhang
 
 a) Name oder Firma, Rechtsform sowie Anschrift (Straße, Hausnummer, Postleitzahl, Ort) des Sitzes der juristischen Person oder Personengesellschaft; die Bezeichnung der Rechtsform kann auf übliche Weise abgekürzt werden; wenn die juristische Person oder Personengesellschaft in einem Register eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;
 
-b) bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und Anschrift (Straße, Hausnummer, Postleitzahl, Ort) mindestens eines vertretungsberechtigten Gesellschafters.
+b) bei einer Gesellschaft bürgerlichen Rechts, die nicht im Gesellschaftsregister eingetragen ist, zusätzlich Name und Anschrift (Straße, Hausnummer, Postleitzahl, Ort) mindestens eines vertretungsberechtigten Gesellschafters.
 
 Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist bei der Angabe der Anschrift nach Satz 1 außer dem Ortsnamen auch der Staat anzugeben. Weitere Angaben zum Bezirk, zur Provinz oder zum Bundesstaat, in dem der Anmelder seinen Wohnsitz oder Sitz hat oder dessen Rechtsordnung er unterliegt, sind freiwillig.
 
@@ -779,7 +779,7 @@ In das Register werden eingetragen:
 
 14. Angaben zu einer vom Markeninhaber beanspruchten Ausstellungspriorität (§ 35 des Markengesetzes),
 
-15. der Name, gegebenenfalls die Rechtsform und der Wohnsitz oder Sitz des Inhabers der Marke; bei einer Gesellschaft bürgerlichen Rechts auch der Name und Wohnsitz des benannten vertretungsberechtigten Gesellschafters,
+15. der Name, gegebenenfalls die Rechtsform und der Wohnsitz oder Sitz des Inhabers der Marke; bei einer Gesellschaft bürgerlichen Rechts, die nicht im Gesellschaftsregister eingetragen ist, auch der Name und Wohnsitz des benannten vertretungsberechtigten Gesellschafters,
 
 16. wenn ein Vertreter bestellt ist, der Name und Sitz des Vertreters,
 

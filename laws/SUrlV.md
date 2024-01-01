@@ -217,7 +217,7 @@ Als Sonderurlaub wird im Kalenderjahr innerhalb eines Zeitraums von zwei Monaten
 
 5. für ärztlich verordneten Rehabilitationssport oder Funktionstraining in Gruppen nach § 44 Absatz 1 Nummer 3 und 4 des Neunten Buches Sozialgesetzbuch oder
 
-6. für die Durchführung einer Badekur nach § 11 Absatz 2 des Bundesversorgungsgesetzes.
+6. für die Durchführung einer Badekur nach § 11 Absatz 2 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung.
 
 (3) Sonderurlaub nach Absatz 2 Nummer 1 bis 3 wird nur bei Vorlage des Anerkennungsbescheids der Beihilfefestsetzungsstelle oder des Bescheids der Krankenkasse über die Gewährung der Rehabilitationsleistung gewährt. Die Maßnahmen müssen entsprechend den darin genannten Festlegungen zur Behandlung und zum Behandlungsort durchgeführt werden.
 
@@ -235,12 +235,6 @@ bis zu vier Arbeitstage im Urlaubsjahr</td></tr><tr class="odd"><td style="text-
 bis zu neun Arbeitstage</td></tr><tr class="odd"><td style="text-align: left;">7.</td><td>Spende von Organen und Geweben, die nach § 8 des Transplantationsgesetzes erfolgt, oder für eine Blutspende zur Separation von Blutstammzellen oder anderer Blutbestandteile im Sinne von § 1 des Transfusionsgesetzes, soweit eine ärztliche Bescheinigung vorgelegt wird</td><td style="text-align: left;">Dauer der notwendigen Abwesenheit</td></tr></tbody></table>
 
 (2) In den Fällen des Absatzes 1 Nummer 4 darf die Dauer des gewährten Sonderurlaubs bei Beamtinnen und Beamten, deren Dienstbezüge oder Anwärterbezüge nicht die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften Buches Sozialgesetzbuch überschreiten, bis zu 75 Prozent der Arbeitstage betragen, die in § 45 Absatz 2 Satz 1 und 2 des Fünften Buches Sozialgesetzbuch für eine Freistellung von der Arbeitsleistung vorgesehen sind.
-
-(2a) Für das Jahr 2023 erhöht sich die Dauer des Sonderurlaubs nach Absatz 1 Nummer 4, auch in Verbindung mit Absatz 2,
-
-1. bei den alleinerziehenden Beamtinnen und Beamten für jedes Kind um 40 Arbeitstage, für alle Kinder zusammen jedoch um höchstens 86 Arbeitstage, und
-
-2. bei den nicht alleinerziehenden Beamtinnen und Beamten für jedes Kind um 20 Arbeitstage, für alle Kinder zusammen jedoch um höchstens 43 Arbeitstage.
 
 (3) In den Fällen des Absatzes 1 Nummer 3 bis 5 können auch halbe Sonderurlaubstage gewährt werden. Ein halber Sonderurlaubstag entspricht der Hälfte der für den jeweiligen Arbeitstag festgesetzten regelmäßigen Arbeitszeit.
 

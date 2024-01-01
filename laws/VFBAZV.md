@@ -7,7 +7,7 @@ Auf Grund des § 366a Abs. 4 Satz 3 und 5 des Dritten Buches Sozialgesetzbuch �
 
 # § 1 – Höhe des Zuweisungssatzes
 
-Der für die Höhe der regelmäßigen Zuweisungen nach § 366a Absatz 2 Nummer 1 des Dritten Buches Sozialgesetzbuch an das Sondervermögen „Versorgungsfonds der Bundesagentur für Arbeit“ maßgebende Prozentsatz der ruhegehaltfähigen Dienstbezüge oder Entgeltzahlungen (Zuweisungssatz) beträgt für die Beamtinnen und Beamten der Bundesagentur für Arbeit 96,6 Prozent.
+Der für die Höhe der regelmäßigen Zuweisungen nach § 366a Absatz 2 Nummer 1 des Dritten Buches Sozialgesetzbuch an das Sondervermögen „Versorgungsfonds der Bundesagentur für Arbeit“ maßgebende Prozentsatz der ruhegehaltfähigen Dienstbezüge oder Entgeltzahlungen (Zuweisungssatz) beträgt für die Beamtinnen und Beamten der Bundesagentur für Arbeit 147,7 Prozent.
 
 # § 2 – Verrechnung
 
@@ -46,7 +46,7 @@ Versorgungsausgaben im Vorquartal in Euro.
 
 (1) Die Bundesagentur für Arbeit überprüft erstmals bis zum 30. September 2008 und danach alle drei Jahre bis zum 30. Juni des jeweiligen Jahres die Höhe des Fondsguthabens und die Höhe des Zuweisungssatzes auf der Grundlage versicherungsmathematischer Berechnungen unter Berücksichtigung der jeweiligen Änderungen des Besoldungs- und Versorgungsrechts. Das Verfahren wird im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Finanzen festgelegt. Die Revisionsergebnisse werden im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Finanzen festgestellt.
 
-(2) Ergeben die nach Absatz 1 durchgeführten Revisionen eine Unter- oder Überfinanzierung des Fonds in Höhe von mindestens 50 Millionen Euro, ist der Zuweisungssatz im laufenden Haushaltsjahr, spätestens mit Wirkung ab dem folgenden Haushaltsjahr anzupassen.
+(2) Ergeben die nach Absatz 1 durchgeführten Revisionen eine Unter- oder eine Überfinanzierung des Fonds in Höhe von mindestens 250 Millionen Euro, ist der Zuweisungssatz im laufenden Haushaltsjahr, spätestens mit Wirkung ab dem folgenden Haushaltsjahr anzupassen.
 
 # § 5 – Inkrafttreten
 

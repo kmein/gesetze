@@ -205,7 +205,7 @@ für typische Untersuchungen, bezogen auf Standardphantome oder auf Patientengru
 
 1. natürliche Person, die eigenständig Sachverständigentätigkeiten durchführt (Einzelsachverständiger) oder
 
-2. juristische Person oder nicht rechtsfähige Personenvereinigung, die Sachverständigentätigkeiten durchführt (Sachverständigenorganisation).
+2. juristische Person oder sonstige Personenvereinigung, die Sachverständigentätigkeiten durchführt (Sachverständigenorganisation).
 
 (17) Spezifische Aktivität: Verhältnis der Aktivität eines Radionuklids zur Masse des Materials, in dem das Radionuklid verteilt ist. Bei festen radioaktiven Stoffen ist die Bezugsmasse für die Bestimmung der spezifischen Aktivität die Masse des Körpers oder Gegenstandes, mit dem die Radioaktivität bei vorgesehener Anwendung untrennbar verbunden ist. Bei gasförmigen radioaktiven Stoffen ist die Bezugsmasse die Masse des Gases oder des Gasgemisches.
 

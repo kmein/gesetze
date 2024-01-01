@@ -1173,7 +1173,7 @@ Die Landesregierungen werden ermächtigt, Rechtsverordnungen nach Satz 2 Nummer 
 
 a) Erzeugnisse hergestellt, behandelt oder in den Verkehr gebracht werden,
 
-b) sich lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1 befinden oder
+b) sich lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1 befinden oder
 
 c) Futtermittel verfüttert werden,
 
@@ -1187,11 +1187,11 @@ b) Wohnräume der nach Nummer 5 zur Auskunft Verpflichteten zu betreten;
 
 das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt;
 
-3. alle geschäftlichen Schrift- und Datenträger, insbesondere Aufzeichnungen, Frachtbriefe, Herstellungsbeschreibungen und Unterlagen über die bei der Herstellung verwendeten Stoffe, einzusehen und hieraus Abschriften, Auszüge, Ausdrucke oder sonstige Vervielfältigungen, auch von Datenträgern, anzufertigen oder Ausdrucke von elektronisch gespeicherten Daten zu verlangen sowie Mittel, Einrichtungen und Geräte zur Beförderung von Erzeugnissen oder lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 zu besichtigen;
+3. alle geschäftlichen Schrift- und Datenträger, insbesondere Aufzeichnungen, Frachtbriefe, Herstellungsbeschreibungen und Unterlagen über die bei der Herstellung verwendeten Stoffe, einzusehen und hieraus Abschriften, Auszüge, Ausdrucke oder sonstige Vervielfältigungen, auch von Datenträgern, anzufertigen oder Ausdrucke von elektronisch gespeicherten Daten zu verlangen sowie Mittel, Einrichtungen und Geräte zur Beförderung von Erzeugnissen oder lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 zu besichtigen;
 
 4. von Mitteln, Einrichtungen oder Geräten zur Beförderung von Erzeugnissen oder lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 sowie von den in Nummer 1 bezeichneten Grundstücken, Betriebsräumen oder Räumen Bildaufnahmen oder -aufzeichnungen anzufertigen;
 
-5. von natürlichen und juristischen Personen und nicht rechtsfähigen Personenvereinigungen alle erforderlichen Auskünfte, insbesondere solche über die Herstellung, das Behandeln, die zur Verarbeitung gelangenden Stoffe und deren Herkunft, das Inverkehrbringen und das Verfüttern zu verlangen;
+5. von natürlichen und juristischen Personen und sonstigen Personenvereinigungen alle erforderlichen Auskünfte, insbesondere solche über die Herstellung, das Behandeln, die zur Verarbeitung gelangenden Stoffe und deren Herkunft, das Inverkehrbringen und das Verfüttern zu verlangen;
 
 6. entsprechend § 43 oder § 43a Proben zu fordern oder zu entnehmen.
 
@@ -1203,7 +1203,7 @@ Im Falle des Satzes 1 Nummer 4 dürfen folgende personenbezogene Daten aufgenomm
 
 Die Aufnahmen oder Aufzeichnungen sind zu vernichten, soweit sie nicht mehr erforderlich sind, spätestens jedoch mit Ablauf des dritten Jahres nach ihrer Aufnahme oder Aufzeichnung. Die Frist des Satzes 3 gilt nicht, wenn wegen eines anhängigen Bußgeldverfahrens, staatsanwaltlichen Ermittlungsverfahrens oder gerichtlichen Verfahrens eine längere Aufbewahrung erforderlich ist, in diesem Falle sind die Aufnahmen oder Aufzeichnungen mit rechtskräftigem Abschluss des Verfahrens zu vernichten.
 
-(3) Erhält eine für die Überwachung nach § 38 Absatz 1 Satz 1 zuständige Behörde von Tatsachen Kenntnis, die Grund zu der Annahme geben, dass durch das Verzehren eines Lebensmittels, das in den Verkehr gebracht worden ist, eine übertragbare Krankheit im Sinne des § 2 Nummer 3 des Infektionsschutzgesetzes verursacht werden kann oder verursacht worden ist, so unterrichtet die nach § 38 Absatz 1 Satz 1 zuständige Behörde unverzüglich die für Ermittlungen nach § 25 Absatz 1 des Infektionsschutzgesetzes zuständige Behörde. Dabei stellt die nach § 38 Absatz 1 Satz 1 zuständige Behörde der nach § 25 des Infektionsschutzgesetzes zuständigen Behörde die Angaben
+(3) Erhält eine für die Überwachung nach § 38 Absatz 1 Satz 1 zuständige Behörde von Tatsachen Kenntnis, die Grund zu der Annahme geben, dass durch das Verzehren eines Lebensmittels, das in den Verkehr gebracht worden ist, eine übertragbare Krankheit im Sinne des § 2 Nummer 3 des Infektionsschutzgesetzes verursacht werden kann oder verursacht worden ist, so unterrichtet die nach § 38 Absatz 1 Satz 1 zuständige Behörde unverzüglich die für Ermittlungen nach § 25 Absatz 1 des Infektionsschutzgesetzes zuständige Behörde. Dabei stellt die nach § 38 Absatz 1 Satz 1 zuständige Behörde der nach § 25 des Infektionsschutzgesetzes zuständigen Behörde die Angaben
 
 1. zu dem Lebensmittel,
 
@@ -1213,7 +1213,7 @@ Die Aufnahmen oder Aufzeichnungen sind zu vernichten, soweit sie nicht mehr erfo
 
 a) des Lebensmittelunternehmers, unter dessen Namen oder Firma das Lebensmittel hergestellt oder behandelt worden oder in den Verkehr gelangt ist, und
 
-b) der in § 4 Absatz 2 Nummer 1 bezeichneten Unternehmen oder Personen, an die das Lebensmittel geliefert wurde,
+b) der in § 4 Absatz 2 Nummer 1 bezeichneten Unternehmen oder Personen, an die das Lebensmittel geliefert wurde,
 
 c) der Endverbraucher, die das Lebensmittel verzehrt haben und der zuständigen Behörde von einer möglichen Erkrankung Mitteilung gemacht haben,
 

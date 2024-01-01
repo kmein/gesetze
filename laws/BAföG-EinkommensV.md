@@ -37,15 +37,15 @@ e) Übergangsgeld (§§ 49 ff. SGB VII, §§ 20 ff. SGB VI);
 
 f) Elterngeld nach dem Bundeselterngeld- und Elternzeitgesetz, soweit es die nach § 10 des Bundeselterngeld- und Elternzeitgesetzes anrechnungsfreien Beträge übersteigt;
 
-3. nach dem Bundesversorgungsgesetz (BVG) und den Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären,
+3. nach dem Vierzehnten Buch Sozialgesetzbuch
 
-a) Versorgungskrankengeld (§ 16 BVG),
+a) Krankengeld der Sozialen Entschädigung (§ 47 des Vierzehnten Buches Sozialgesetzbuch),
 
-b) Übergangsgeld (§ 26a Abs. 1 BVG),
+b) Übergangsgeld (§ 64 Absatz 1 Nummer 1 und Absatz 2 des Vierzehnten Buches Sozialgesetzbuch),
 
-c) Unterhaltsbeihilfe, wenn der Berechtigte nicht in einer Rehabilitationseinrichtung untergebracht ist (§ 26a Abs. 5 BVG),
+c) Unterhaltsbeihilfe (§ 64 Absatz 3 des Vierzehnten Buches Sozialgesetzbuch),
 
-d) laufende ergänzende Hilfe zum Lebensunterhalt, soweit sie außerhalb von Anstalten, Heimen und gleichartigen Einrichtungen für Angehörige i.S. des § 25 Abs. 3 Nr. 2 des Bundesausbildungsförderungsgesetzes (BAföG) geleistet wird, die mit dem Einkommensbezieher nicht in Haushaltsgemeinschaft leben (§ 27a BVG);
+d) laufende ergänzende Hilfe zum Lebensunterhalt, soweit sie außerhalb von Anstalten, Heimen und gleichartigen Einrichtungen für Angehörige im Sinne des § 25 Absatz 3 Nummer 2 des Bundesausbildungsförderungsgesetzes geleistet wird, die mit dem Einkommensbezieher nicht in Haushaltsgemeinschaft leben (§ 145 Absatz 1 und 2 Nummer 4 des Vierzehnten Buches Sozialgesetzbuch in Verbindung mit § 27a des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung);
 
 4. nach dem Lastenausgleichsgesetz (LAG), dem Reparationsschädengesetz (RepG) und dem Flüchtlingshilfegesetz (FlüHG) jeweils der halbe Betrag der
 
@@ -143,7 +143,9 @@ Entsprechendes gilt für vergleichbare Bezüge von Personen, die im öffentliche
 
 # § 3a – Übergangsvorschrift
 
-Für Bewilligungszeiträume, die vor dem 30. Juni 2003 begonnen haben, sind die Vorschriften dieser Verordnung in ihrer bis zum 21. Mai 2003 geltenden Fassung weiter anzuwenden.
+(1) Für Bewilligungszeiträume, die vor dem 30. Juni 2003 begonnen haben, sind die Vorschriften dieser Verordnung in ihrer bis zum 21. Mai 2003 geltenden Fassung weiter anzuwenden.
+
+(2) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 1 Nummer 3 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 # § 4 – Inkrafttreten
 

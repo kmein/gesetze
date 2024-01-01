@@ -33,13 +33,15 @@ Anträge auf Rückerwerb müssen bis zum Ablauf des 31. Januar 1997 bei der Ober
 
 # § 5 – Fonds
 
-(1) Es wird ein Fonds zur Förderung von wirtschaftlichen, sozialen und kulturellen Zwecken in dem in Artikel 3 des Einigungsvertrages genannten Gebiet errichtet. Dem Fonds stehen die Einnahmen aus der Veräußerung der Mauer- und Grenzgrundstücke abzüglich der auf Grund dieses Gesetzes erfolgenden Leistungen an Berechtigte und der Nebenkosten nach § 2 Abs. 2 zu.
+(1) Der mit diesem Gesetz in der bis zum 31. Dezember 2023 geltenden Fassung errichtete Fonds zur Förderung von wirtschaftlichen, sozialen und kulturellen Zwecken in dem in Artikel 3 des Einigungsvertrages genannten Gebiet wird zum 31. Januar 2024 aufgelöst. Der Bund tritt in die Rechte und Pflichten des Fonds ein. Ein zum Zeitpunkt der Auflösung bestehendes Vermögen dieses Fonds fließt mit der Auflösung des Fonds dem Bundeshaushalt zu. Ein Betrag in Höhe des nach Satz 3 dem Bundeshaushalt zugeführten Fondsvermögens ist bei den gemäß Absatz 2 zu verwendenden Mitteln zu berücksichtigen.
 
-(2) Die Ausgaben des Fonds sind gesperrt; die Aufhebung der Sperre bedarf der Einwilligung des Haushaltsausschusses des Deutschen Bundestages. Dabei ist zu gewährleisten, daß die Mittel des Fonds nicht zur Erfüllung von rechtlichen Verpflichtungen eingesetzt werden.
+(2) Die Einnahmen aus der Veräußerung der Mauer- und Grenzgrundstücke abzüglich der auf Grund dieses Gesetzes erfolgenden Leistungen an Berechtigte und der Nebenkosten nach § 2 Absatz 2 sind zur Förderung von wirtschaftlichen, sozialen und kulturellen Zwecken in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zu verwenden.
+
+(3) Der Teil der Mittel, der zur Förderung von wirtschaftlichen, sozialen und kulturellen Zwecken zu verwenden ist, ist gesperrt. Die Aufhebung der Sperre bedarf der Einwilligung des Haushaltsausschusses des Deutschen Bundestages. Dabei ist zu gewährleisten, dass die Mittel nicht zur Erfüllung von rechtlichen Verpflichtungen eingesetzt werden.
 
 # § 6 – Rechtsverordnungsermächtigung
 
-Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Fonds, seiner Verwaltung sowie der Zahlungsmodalitäten nach § 3 zu regeln.
+Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten der Auflösung des Fonds, der Verwaltung der Mittel zur Förderung von wirtschaftlichen, sozialen und kulturellen Zwecken gemäß § 5 Absatz 2 sowie der Zahlungsmodalitäten nach § 3 zu regeln.
 
 # § 7 – Rechtsweg
 

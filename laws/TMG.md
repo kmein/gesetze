@@ -77,7 +77,7 @@ b) trennbare Teile von Telemedien, wenn für den trennbaren Teil der in Buchstab
 
 19. ist Gruppe die Gesamtheit von Mutterunternehmen, allen seinen Tochterunternehmen und allen anderen mit dem Mutterunternehmen und seinen Tochterunternehmen wirtschaftlich und rechtlich verbundenen Unternehmen.
 
-Einer juristischen Person steht eine Personengesellschaft gleich, die mit der Fähigkeit ausgestattet ist, Rechte zu erwerben und Verbindlichkeiten einzugehen.
+Einer juristischen Person steht eine rechtsfähige Personengesellschaft gleich.
 
 # § 2a – Europäisches Sitzland
 
@@ -233,7 +233,7 @@ Telemedien sind im Rahmen der Gesetze zulassungs- und anmeldefrei.
 
 3. soweit der Dienst im Rahmen einer Tätigkeit angeboten oder erbracht wird, die der behördlichen Zulassung bedarf, Angaben zur zuständigen Aufsichtsbehörde,
 
-4. das Handelsregister, Vereinsregister, Partnerschaftsregister oder Genossenschaftsregister, in das sie eingetragen sind, und die entsprechende Registernummer,
+4. das Handelsregister, Genossenschaftsregister, Gesellschaftsregister, Partnerschaftsregister oder Vereinsregister, in das sie eingetragen sind, und die entsprechende Registernummer,
 
 5. soweit der Dienst in Ausübung eines Berufs im Sinne von Artikel 1 Buchstabe d der Richtlinie 89/48/EWG des Rates vom 21. Dezember 1988 über eine allgemeine Regelung zur Anerkennung der Hochschuldiplome, die eine mindestens dreijährige Berufsausbildung abschließen (ABl. EG Nr. L 19 S. 16), oder im Sinne von Artikel 1 Buchstabe f der Richtlinie 92/51/EWG des Rates vom 18. Juni 1992 über eine zweite allgemeine Regelung zur Anerkennung beruflicher Befähigungsnachweise in Ergänzung zur Richtlinie 89/48/EWG (ABl. EG Nr. L 209 S. 25, 1995 Nr. L 17 S. 20), zuletzt geändert durch die Richtlinie 97/38/EG der Kommission vom 20. Juni 1997 (ABl. EG Nr. L 184 S. 31), angeboten oder erbracht wird, Angaben über
 

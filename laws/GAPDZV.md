@@ -1120,7 +1120,7 @@ Gruppe A:
 | Cerastium glomeratum    | Knäuel-Hornkraut                |
 | Cerastium semidecandrum | Fünfmänniges Hornkraut          |
 | Crepis capillaris       | Kleinköpfiger Pippau            |
-| Cuscuta europaea        | Europäische Seide               |
+| (weggefallen)           |                                 |
 | Descurainia sophia      | Gewöhnliche Besenrauke          |
 | Erysimum cheiranthoides | Acker-Schöterich                |
 | Euphorbia exigua        | Kleine Wolfsmilch               |

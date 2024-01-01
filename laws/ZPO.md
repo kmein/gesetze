@@ -3113,11 +3113,11 @@ Vermerk über Ausfertigungserteilung auf der Urteilsurschrift
 
 § 735
 
-Zwangsvollstreckung gegen nicht rechtsfähigen Verein
+(weggefallen)
 
 § 736
 
-Zwangsvollstreckung gegen BGB-Gesellschaft
+Zwangsvollstreckung für oder gegen eine Gesellschaft bürgerlichen Rechts bei nachträglicher Eintragung im Gesellschaftsregister
 
 § 737
 
@@ -5431,9 +5431,7 @@ Die Vorschriften dieses Titels sind auf den Urkundsbeamten der Geschäftsstelle 
 
 # § 50 – Parteifähigkeit
 
-(1) Parteifähig ist, wer rechtsfähig ist.
-
-(2) Ein Verein, der nicht rechtsfähig ist, kann klagen und verklagt werden; in dem Rechtsstreit hat der Verein die Stellung eines rechtsfähigen Vereins.
+Parteifähig ist, wer rechtsfähig ist.
 
 # § 51 – Prozessfähigkeit; gesetzliche Vertretung; Prozessführung
 
@@ -6475,17 +6473,13 @@ An den rechtsgeschäftlich bestellten Vertreter kann mit gleicher Wirkung wie an
 
 (2) Einen sicheren Übermittlungsweg für die elektronische Zustellung eines elektronischen Dokuments haben zu eröffnen:
 
-1. Rechtsanwälte, Notare, Gerichtsvollzieher, Steuerberater sowie
+1. Rechtsanwälte, Notare, Gerichtsvollzieher, Steuerberater sowie sonstige in professioneller Eigenschaft am Prozess beteiligte Personen, Vereinigungen und Organisationen, bei denen von einer erhöhten Zuverlässigkeit ausgegangen werden kann, sowie
 
 2. Behörden, Körperschaften oder Anstalten des öffentlichen Rechts.
-
-Sonstige in professioneller Eigenschaft am Prozess beteiligte Personen, Vereinigungen und Organisationen, bei denen von einer erhöhten Zuverlässigkeit ausgegangen werden kann, sollen einen sicheren Übermittlungsweg für die elektronische Zustellung eröffnen.
 
 (3) Die elektronische Zustellung an die in Absatz 2 Genannten wird durch ein elektronisches Empfangsbekenntnis nachgewiesen, das an das Gericht zu übermitteln ist. Für die Übermittlung ist der vom Gericht mit der Zustellung zur Verfügung gestellte strukturierte Datensatz zu verwenden. Stellt das Gericht keinen strukturierten Datensatz zur Verfügung, so ist dem Gericht das elektronische Empfangsbekenntnis als elektronisches Dokument (§ 130a) zu übermitteln.
 
 (4) An andere als die in Absatz 2 Genannten kann ein elektronisches Dokument elektronisch nur zugestellt werden, wenn sie der Zustellung elektronischer Dokumente für das jeweilige Verfahren zugestimmt haben. Die Zustimmung gilt mit der Einreichung eines elektronischen Dokuments im jeweiligen Verfahren auf einem sicheren Übermittlungsweg als erteilt. Andere als natürliche Personen können die Zustimmung auch allgemein erteilen. Ein elektronisches Dokument gilt am dritten Tag nach dem auf der automatisierten Eingangsbestätigung ausgewiesenen Tag des Eingangs in dem vom Empfänger eröffneten elektronischen Postfach als zugestellt. Satz 4 gilt nicht, wenn der Empfänger nachweist, dass das Dokument nicht oder zu einem späteren Zeitpunkt zugegangen ist.
-
-§ 173 Abs. 2 Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde die Schreibweise des Wortes "sonstige" durch "Sonstige" ersetzt
 
 # § 174 – Zustellung durch Aushändigung an der Amtsstelle
 
@@ -10081,13 +10075,15 @@ Kann der nach dem § 726 Abs. 1 und den §§ 727 bis 729 erforderliche Nachweis 
 
 Vor der Aushändigung einer vollstreckbaren Ausfertigung ist auf der Urschrift des Urteils zu vermerken, für welche Partei und zu welcher Zeit die Ausfertigung erteilt ist. Werden die Prozessakten elektronisch geführt, so ist der Vermerk in einem gesonderten elektronischen Dokument festzuhalten. Das Dokument ist mit dem Urteil untrennbar zu verbinden.
 
-# § 735 – Zwangsvollstreckung gegen nicht rechtsfähigen Verein
+# § 735 – (weggefallen)
 
-Zur Zwangsvollstreckung in das Vermögen eines nicht rechtsfähigen Vereins genügt ein gegen den Verein ergangenes Urteil.
+# § 736 – Zwangsvollstreckung für oder gegen eine Gesellschaft bürgerlichen Rechts bei nachträglicher Eintragung im Gesellschaftsregister
 
-# § 736 – Zwangsvollstreckung gegen BGB-Gesellschaft
+Die Zwangsvollstreckung für oder gegen eine im Gesellschaftsregister eingetragene Gesellschaft bürgerlichen Rechts findet auch aus einem Vollstreckungstitel für oder gegen eine nicht im Gesellschaftsregister eingetragene Gesellschaft bürgerlichen Rechts statt, wenn
 
-Zur Zwangsvollstreckung in das Gesellschaftsvermögen einer nach § 705 des Bürgerlichen Gesetzbuchs eingegangenen Gesellschaft ist ein gegen alle Gesellschafter ergangenes Urteil erforderlich.
+1. der in dem Vollstreckungstitel genannte Name und Sitz oder die Anschrift der Gesellschaft identisch sind mit dem Namen und Sitz oder der Anschrift der im Gesellschaftsregister eingetragenen Gesellschaft und
+
+2. die gegebenenfalls in dem Vollstreckungstitel aufgeführten Gesellschafter der Gesellschaft identisch sind mit den Gesellschaftern der im Gesellschaftsregister eingetragenen Gesellschaft.
 
 # § 737 – Zwangsvollstreckung bei Vermögens- oder Erbschaftsnießbrauch
 
@@ -11676,11 +11672,9 @@ Betrifft der Anspruch eine unbewegliche Sache, so ist der Drittschuldner berecht
 
 (5) Ergibt der Auszug aus dem Schiffsregister, dass die Schiffspart mit einem Pfandrecht belastet ist, das einem anderen als dem betreibenden Gläubiger zusteht, so ist die Hinterlegung des Erlöses anzuordnen. Der Erlös wird in diesem Fall nach den Vorschriften der §§ 873 bis 882 verteilt; Forderungen, für die ein Pfandrecht an der Schiffspart eingetragen ist, sind nach dem Inhalt des Schiffsregisters in den Teilungsplan aufzunehmen.
 
-# § 859 – Pfändung von Gesamthandanteilen
+# § 859 – Pfändung von Gesamthandsanteilen
 
-(1) Der Anteil eines Gesellschafters an dem Gesellschaftsvermögen einer nach § 705 des Bürgerlichen Gesetzbuchs eingegangenen Gesellschaft ist der Pfändung unterworfen. Der Anteil eines Gesellschafters an den einzelnen zu dem Gesellschaftsvermögen gehörenden Gegenständen ist der Pfändung nicht unterworfen.
-
-(2) Die gleichen Vorschriften gelten für den Anteil eines Miterben an dem Nachlass und an den einzelnen Nachlassgegenständen.
+Der Anteil eines Miterben an dem Nachlass ist der Pfändung unterworfen. Der Anteil des Miterben an den einzelnen Nachlassgegenständen ist der Pfändung nicht unterworfen.
 
 # § 860 – Pfändung von Gesamtgutanteilen
 

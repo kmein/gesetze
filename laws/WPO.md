@@ -348,7 +348,7 @@ Europäische Gesellschaften, Gesellschaften nach deutschem Recht oder Gesellscha
 
 6. im Gesellschaftsvertrag bestimmt ist, daß zur Ausübung von Gesellschafterrechten nur Gesellschafter bevollmächtigt werden können, die Berufsangehörige oder EU- oder EWR-Abschlussprüfer sind.
 
-Haben sich Berufsangehörige im Sinne von Satz 1 Nr. 1 zu einer Gesellschaft bürgerlichen Rechts zusammengeschlossen, deren Zweck ausschließlich das Halten von Anteilen an einer Wirtschaftsprüfungsgesellschaft ist, so werden ihnen die Anteile an der Wirtschaftsprüfungsgesellschaft im Verhältnis ihrer Beteiligung an der Gesellschaft bürgerlichen Rechts zugerechnet. Stiftungen und eingetragene Vereine gelten als Berufsangehörige im Sinne von Satz 1 Nr. 1, wenn
+Haben sich Berufsangehörige im Sinne von Satz 1 Nr. 1 zu einer rechtsfähigen Personengesellschaft zusammengeschlossen, deren Zweck ausschließlich das Halten von Anteilen an einer Wirtschaftsprüfungsgesellschaft ist, so werden ihnen die Anteile an der Wirtschaftsprüfungsgesellschaft im Verhältnis ihrer Beteiligung an der rechtsfähigen Personengesellschaft zugerechnet. Stiftungen und eingetragene Vereine gelten als Berufsangehörige im Sinne von Satz 1 Nr. 1, wenn
 
 a) sie ausschließlich der Altersversorgung von in der Wirtschaftsprüfungsgesellschaft tätigen Personen und deren Hinterbliebenen dienen oder ausschließlich die Berufsausbildung, Berufsfortbildung oder die Wissenschaft fördern und
 
@@ -374,7 +374,7 @@ Jede Änderung des Gesellschaftsvertrages oder der Satzung oder in der Person de
 
 # § 31 – Bezeichnung "Wirtschaftsprüfungsgesellschaft"
 
-Die anerkannte Gesellschaft ist verpflichtet, die Bezeichnung "Wirtschaftsprüfungsgesellschaft" in die Firma oder den Namen aufzunehmen und im beruflichen Verkehr zu führen. Für eine Partnerschaftsgesellschaft entfällt die Pflicht nach § 2 Abs. 1 des Partnerschaftsgesellschaftsgesetzes vom 25. Juli 1994 (BGBl. I S. 1744), zusätzlich die Berufsbezeichnungen aller in der Partnerschaft vertretenen Berufe in den Namen aufzunehmen.
+Die anerkannte Gesellschaft ist verpflichtet, die Bezeichnung "Wirtschaftsprüfungsgesellschaft" in die Firma oder den Namen aufzunehmen und im beruflichen Verkehr zu führen.
 
 # § 32 – Bestätigungsvermerke
 
@@ -452,7 +452,7 @@ c) Datum der Begründung der beruflichen Niederlassung, deren Anschrift, in den 
 
 d) Art der beruflichen Tätigkeit nach § 43a Absatz 1 unter Angabe der Praxis,
 
-e) Name, Vorname, Berufe oder Firma und die Anschriften der beruflichen Niederlassungen der Gesellschafter einer Personengesellschaft im Sinne des § 44b und Name oder Firma der Personengesellschaft; dies gilt entsprechend im Fall der Kundmachung einer Personengesellschaft, auch wenn die Voraussetzungen nach § 44b Absatz 1 Satz 1 und Absatz 2 nicht vorliegen,
+e) Name, Vorname, Berufe oder Firma und die Anschriften der beruflichen Niederlassungen der Gesellschafter einer rechtsfähigen Personengesellschaft im Sinne des § 44b und Name oder Firma der rechtsfähigen Personengesellschaft; dies gilt entsprechend im Fall der Kundmachung einer rechtsfähigen Personengesellschaft, auch wenn die Voraussetzungen nach § 44b Absatz 1 Satz 1 und Absatz 2 nicht vorliegen,
 
 f) Firma, Anschrift, Internetadresse und Registernummer der Prüfungsgesellschaft, bei welcher die Berufsangehörigen angestellt oder in anderer Weise tätig sind oder der sie als Partner oder Partnerin angehören oder in ähnlicher Weise verbunden sind,
 
@@ -480,7 +480,7 @@ b) Tag der Anerkennung als Wirtschaftsprüfungsgesellschaft und die Behörde, di
 
 c) Anschrift der Hauptniederlassung, Kontaktmöglichkeiten einschließlich einer Kontaktperson, Internetadresse und, sofern die Wirtschaftsprüfungsgesellschaft in ein Netzwerk eingebunden ist, Namen, Firmen und Anschriften der anderen Mitglieder des Netzwerks und der mit diesen durch gemeinsames Eigentum, gemeinsame Kontrolle oder gemeinsame Geschäftsführung verbundenen Unternehmen oder ein Hinweis darauf, wo diese Angaben öffentlich zugänglich sind,
 
-d) Namen, Berufe, Geburtsdaten und Anschriften der Gesellschafter und der Mitglieder des zur gesetzlichen Vertretung berufenen Organs einer juristischen Person und die Höhe ihrer Anteile sowie Namen, Berufe, Geburtsdaten und Anschriften der vertretungsberechtigten und der übrigen Gesellschafter einer Personengesellschaft und die Höhe der im Handelsregister eingetragenen Einlagen der Kommanditisten,
+d) Namen, Berufe, Geburtsdaten und Anschriften der Gesellschafter und der Mitglieder des zur gesetzlichen Vertretung berufenen Organs einer juristischen Person und die Höhe ihrer Anteile sowie Namen, Berufe, Geburtsdaten und Anschriften der vertretungsberechtigten und der übrigen Gesellschafter einer rechtsfähigen Personengesellschaft und die Höhe der im Handelsregister eingetragenen Einlagen der Kommanditisten,
 
 e) Namen, Geschäftsanschriften und Registernummern der im Namen der Gesellschaft tätigen Wirtschaftsprüfer,
 
@@ -638,7 +638,7 @@ Die für die Durchführung einer gesetzlichen Abschlussprüfung bei einem Untern
 
 2. als Vorstandsmitglieder, Geschäftsführer, persönlich haftende oder nach dem Partnerschaftsgesellschaftsgesetz verbundene Personen von Wirtschaftsprüfungsgesellschaften,
 
-3. als zeichnungsberechtigte Vertreter oder zeichnungsberechtigte Angestellte bei Berufsangehörigen, Wirtschaftsprüfungsgesellschaften, Personengesellschaften nach § 44b Absatz 1, EU- oder EWR-Abschlussprüfern, EU- oder EWR-Abschlussprüfungsgesellschaften, genossenschaftlichen Prüfungsverbänden, Prüfungsstellen von Sparkassen- und Giroverbänden oder überörtlichen Prüfungseinrichtungen für Körperschaften und Anstalten des öffentlichen Rechts,
+3. als zeichnungsberechtigte Vertreter oder zeichnungsberechtigte Angestellte bei Berufsangehörigen, Wirtschaftsprüfungsgesellschaften, rechtsfähigen Personengesellschaften nach § 44b Absatz 1, EU- oder EWR-Abschlussprüfern, EU- oder EWR-Abschlussprüfungsgesellschaften, genossenschaftlichen Prüfungsverbänden, Prüfungsstellen von Sparkassen- und Giroverbänden oder überörtlichen Prüfungseinrichtungen für Körperschaften und Anstalten des öffentlichen Rechts,
 
 4. als Vorstandsmitglieder, Geschäftsführer, persönlich haftende oder nach dem Partnerschaftsgesellschaftsgesetz verbundene Personen einer Buchprüfungsgesellschaft, einer Berufsausübungsgesellschaft nach der Bundesrechtsanwaltsordnung oder einer Berufsausübungsgesellschaft nach dem Steuerberatungsgesetz,
 
@@ -657,7 +657,7 @@ a) nach § 342q Absatz 1 des Handelsgesetzbuchs vom Bundesministerium der Justiz
 b) nicht gewerblich tätigen Personenvereinigung,
 
 aa)  
-deren ordentliche Mitglieder Berufsangehörige, Wirtschaftsprüfungsgesellschaften, vereidigte Buchprüfer oder Buchprüfungsgesellschaften oder Personen oder Personengesellschaften sind, die die Voraussetzungen des § 44b Absatz 2 Satz 1 erfüllen,
+deren ordentliche Mitglieder Berufsangehörige, Wirtschaftsprüfungsgesellschaften, vereidigte Buchprüfer oder Buchprüfungsgesellschaften oder Personen oder rechtsfähige Personengesellschaften sind, die die Voraussetzungen des § 44b Absatz 2 Satz 1 erfüllen,
 
 bb)  
 deren ausschließlicher Zweck die Vertretung der beruflichen Belange der Wirtschaftsprüfer oder vereidigten Buchprüfer ist und
@@ -696,6 +696,8 @@ handelt, oder
 
 Auf Antrag kann die Wirtschaftsprüferkammer Berufsangehörigen genehmigen, eine Tätigkeit nach Satz 1 auszuüben, wenn diese einer der Tätigkeiten nach Absatz 1 oder 2 vergleichbar ist und durch die Tätigkeit das Vertrauen in die Einhaltung der Berufspflichten nicht gefährdet werden kann. Auf Antrag kann die Wirtschaftsprüferkammer die Eingehung eines außerberuflichen Anstellungsverhältnisses vorübergehend genehmigen, wenn es der Übernahme einer Notgeschäftsführung oder der Sanierung einer gewerblichen Gesellschaft dient.
 
+§ 43a Abs. 1 Nr. 9 Buchst. b DBuchst. aa Kursivdruck: IdF d. Art. 77 Nr. 4 Buchst. b G v. 10.8.2021 I 3436 mWv 1.1.2024 (die Änderungsanweisung hätte lauten müssen "In Nummer 9 Buchstabe b Doppelbuchstabe aa...."; wegen offensichtlicher Unrichtigkeit wurde die Änderung sinngemäß konsolidiert)
+
 # § 44 – Eigenverantwortliche Tätigkeit
 
 (1) Eine eigenverantwortliche Tätigkeit übt nicht aus, wer sich als zeichnungsberechtigter Vertreter oder als zeichnungsberechtigter Angestellter an Weisungen zu halten hat, die ihn verpflichten, Prüfungsberichte und Gutachten auch dann zu unterzeichnen, wenn ihr Inhalt sich mit seiner Überzeugung nicht deckt. Weisungen, die solche Verpflichtungen enthalten, sind unzulässig. Anteilseigner einer Wirtschaftsprüfungsgesellschaft und Mitglieder der Verwaltungs-, Leitungs- und Aufsichtsorgane dieser oder einer verbundenen Wirtschaftsprüfungsgesellschaft dürfen auf die Durchführung von Abschlussprüfungen nicht in einer Weise Einfluss nehmen, die die Unabhängigkeit der verantwortlichen Berufsangehörigen beeinträchtigt.
@@ -708,15 +710,15 @@ Ist ein Wirtschaftsprüfer ein öffentlich-rechtliches Dienstverhältnis als Wah
 
 # § 44b – Gemeinsame Berufsausübung
 
-(1) Wirtschaftsprüfer dürfen ihren Beruf mit natürlichen und juristischen Personen sowie mit Personengesellschaften, die der Berufsaufsicht einer Berufskammer eines freien Berufes im Geltungsbereich dieses Gesetzes unterliegen und ein Zeugnisverweigerungsrecht nach § 53 Abs. 1 Satz 1 Nr. 3 der Strafprozessordnung haben, örtlich und überörtlich in Personengesellschaften gemeinsam ausüben.
+(1) Wirtschaftsprüfer dürfen ihren Beruf mit natürlichen und juristischen Personen sowie mit rechtsfähigen Personengesellschaften, die der Berufsaufsicht einer Berufskammer eines freien Berufes im Geltungsbereich dieses Gesetzes unterliegen und ein Zeugnisverweigerungsrecht nach § 53 Abs. 1 Satz 1 Nr. 3 der Strafprozessordnung haben, örtlich und überörtlich in rechtsfähigen Personengesellschaften gemeinsam ausüben.
 
-(2) Eine gemeinsame Berufsausübung mit natürlichen und juristischen Personen sowie mit Personengesellschaften, die in einem ausländischen Staat als sachverständige Prüfer ermächtigt oder bestellt sind, ist zulässig, wenn die Voraussetzungen für ihre Ermächtigung oder Bestellung den Vorschriften dieses Gesetzes im wesentlichen entsprechen und sie in dem ausländischen Staat ihren Beruf gemeinsam mit Wirtschaftsprüfern ausüben dürfen. Eine gemeinsame Berufsausübung ist weiter zulässig mit Rechtsanwälten, Patentanwälten und Steuerberatern anderer Staaten, wenn diese einen nach Ausbildung und Befugnissen der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung oder dem Steuerberatungsgesetz entsprechenden Beruf ausüben und mit Rechtsanwälten, Patentanwälten oder Steuerberatern im Geltungsbereich dieses Gesetzes ihren Beruf ausüben dürfen. Absatz 1 Satz 2 und 3 gilt entsprechend.
+(2) Eine gemeinsame Berufsausübung mit natürlichen und juristischen Personen sowie mit rechtsfähigen Personengesellschaften, die in einem ausländischen Staat als sachverständige Prüfer ermächtigt oder bestellt sind, ist zulässig, wenn die Voraussetzungen für ihre Ermächtigung oder Bestellung den Vorschriften dieses Gesetzes im wesentlichen entsprechen und sie in dem ausländischen Staat ihren Beruf gemeinsam mit Wirtschaftsprüfern ausüben dürfen. Eine gemeinsame Berufsausübung ist weiter zulässig mit Rechtsanwälten, Patentanwälten und Steuerberatern anderer Staaten, wenn diese einen nach Ausbildung und Befugnissen der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung oder dem Steuerberatungsgesetz entsprechenden Beruf ausüben und mit Rechtsanwälten, Patentanwälten oder Steuerberatern im Geltungsbereich dieses Gesetzes ihren Beruf ausüben dürfen. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (3) Die Wirtschaftsprüferkammer hat ein Einsichtsrecht in die Verträge über die gemeinsame Berufsausübung. Erforderliche Auskünfte sind auf Verlangen zu erteilen.
 
-(4) Berufsangehörige dürfen ihren Beruf in Personengesellschaften mit Personen im Sinne von Absatz 1 Satz 1, die selbst nicht als Berufsangehörige oder als vereidigte Buchprüfer oder vereidigte Buchprüferin bestellt oder als Wirtschaftsprüfungsgesellschaft oder Buchprüfungsgesellschaft anerkannt sind, nur dann gemeinsam ausüben, wenn sie der Wirtschaftsprüferkammer bei Aufnahme einer solchen Tätigkeit nachweisen, dass ihnen auch bei gesamtschuldnerischer Inanspruchnahme der nach § 54 vorgeschriebene Versicherungsschutz für jeden Versicherungsfall uneingeschränkt zur Verfügung steht.
+(4) Berufsangehörige dürfen ihren Beruf in rechtsfähigen Personengesellschaften mit Personen im Sinne von Absatz 1 Satz 1, die selbst nicht als Berufsangehörige oder als vereidigte Buchprüfer oder vereidigte Buchprüferin bestellt oder als Wirtschaftsprüfungsgesellschaft oder Buchprüfungsgesellschaft anerkannt sind, nur dann gemeinsam ausüben, wenn sie der Wirtschaftsprüferkammer bei Aufnahme einer solchen Tätigkeit nachweisen, dass ihnen auch bei gesamtschuldnerischer Inanspruchnahme der nach § 54 vorgeschriebene Versicherungsschutz für jeden Versicherungsfall uneingeschränkt zur Verfügung steht.
 
-(5) Wirtschaftsprüfer haben die gemeinsame Berufsausübung unverzüglich zu beenden, wenn sie auf Grund des Verhaltens eines Mitglieds der Personengesellschaft ihren beruflichen Pflichten nicht mehr uneingeschränkt nachkommen können.
+(5) Wirtschaftsprüfer haben die gemeinsame Berufsausübung unverzüglich zu beenden, wenn sie auf Grund des Verhaltens eines Mitglieds der rechtsfähigen Personengesellschaft ihren beruflichen Pflichten nicht mehr uneingeschränkt nachkommen können.
 
 (6) Wird eine gemeinsame Berufsausübung im Sinne des Absatzes 1 kundgemacht, sind die Vorschriften der Absätze 4 und 5 entsprechend anzuwenden.
 
@@ -820,7 +822,7 @@ Werbung ist zulässig, es sei denn, sie ist unlauter.
 
 # § 53 – Wechsel des Auftraggebers
 
-Berufsangehörige dürfen keine widerstreitenden Interessen vertreten; sie dürfen insbesondere in einer Sache, in der sie oder eine Person oder eine Personengesellschaft, mit der sie ihren Beruf gemeinsam ausüben, bereits tätig waren, für andere Auftraggebende nur tätig werden, wenn die bisherigen und die neuen Auftraggebenden einverstanden sind.
+Berufsangehörige dürfen keine widerstreitenden Interessen vertreten; sie dürfen insbesondere in einer Sache, in der sie oder eine Person oder eine rechtsfähige Personengesellschaft, mit der sie ihren Beruf gemeinsam ausüben, bereits tätig waren, für andere Auftraggebende nur tätig werden, wenn die bisherigen und die neuen Auftraggebenden einverstanden sind.
 
 # § 54 – Berufshaftpflichtversicherung
 
@@ -860,7 +862,7 @@ Im Fall des Satzes 2 Nummer 3 gilt mehrfaches auf gleicher oder gleichartiger Fe
 
 2. durch vorformulierte Vertragsbedingungen auf den vierfachen Betrag der Mindesthöhe der Deckungssumme nach § 54 Absatz 4 Satz 1, wenn insoweit Versicherungsschutz besteht.
 
-(2) Die persönliche Haftung von Mitgliedern einer Personengesellschaft (§ 44b) auf Schadensersatz kann auch durch vorformulierte Vertragsbedingungen auf einzelne namentlich bezeichnete Mitglieder der Personengesellschaft beschränkt werden, die die vertragliche Leistung erbringen sollen.
+(2) Die persönliche Haftung von Mitgliedern einer rechtsfähigen Personengesellschaft (§ 44b) auf Schadensersatz kann auch durch vorformulierte Vertragsbedingungen auf einzelne namentlich bezeichnete Mitglieder der rechtsfähigen Personengesellschaft beschränkt werden, die die vertragliche Leistung erbringen sollen.
 
 (3) Werden im Rahmen der gesetzlichen Abschlussprüfung Prüfungstätigkeiten durch Berufsangehörige auf Dritte übertragen, so bleibt die Pflichtenstellung der Berufsangehörigen gegenüber ihren Auftraggebern hiervon unberührt.
 

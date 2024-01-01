@@ -6156,7 +6156,7 @@ Für Verfahren vor dem Beschwerdegericht gelten, soweit nicht anderes bestimmt i
 
 # § 89 – Beteiligtenfähigkeit
 
-Fähig, am Verfahren vor der Regulierungsbehörde, am Beschwerdeverfahren und am Rechtsbeschwerdeverfahren beteiligt zu sein, sind außer natürlichen und juristischen Personen auch nichtrechtsfähige Personenvereinigungen.
+Fähig, am Verfahren vor der Regulierungsbehörde, am Beschwerdeverfahren und am Rechtsbeschwerdeverfahren beteiligt zu sein, sind außer natürlichen und juristischen Personen auch sonstige Personenvereinigungen.
 
 (+++ § 89: Zur Anwendung vgl. § 78 Abs. 1 WindSeeG, § 76 Abs. 4 MessbG u. § 61 Abs. 3 Satz 1 KVBG +++)
 

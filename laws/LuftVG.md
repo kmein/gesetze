@@ -431,7 +431,7 @@ Die Berechtigung zum Verkehr im Luftraum der Bundesrepublik Deutschland haben na
 
 (1) Luftfahrzeuge werden vorbehaltlich abweichender Verordnungen des Rates der Europäischen Union in die deutsche Luftfahrzeugrolle nur eingetragen, wenn
 
-1. sie in einem ausländischen staatlichen Luftfahrzeugregister nicht eingetragen sind und im ausschließlichen Eigentum deutscher Staatsangehöriger stehen; juristische Personen und Gesellschaften des Handelsrechts mit Sitz im Inland werden deutschen Staatsangehörigen gleichgestellt, wenn der überwiegende Teil ihres Vermögens oder Kapitals sowie die tatsächliche Kontrolle darüber deutschen Staatsangehörigen zusteht und die Mehrheit der Vertretungsberechtigten oder persönlich haftenden Personen deutsche Staatsangehörige sind;
+1. sie in einem ausländischen staatlichen Luftfahrzeugregister nicht eingetragen sind und im ausschließlichen Eigentum deutscher Staatsangehöriger stehen; juristische Personen und rechtsfähige Personengesellschaften mit Sitz im Inland werden deutschen Staatsangehörigen gleichgestellt, wenn der überwiegende Teil ihres Vermögens oder Kapitals sowie die tatsächliche Kontrolle darüber deutschen Staatsangehörigen zusteht und die Mehrheit der Vertretungsberechtigten oder persönlich haftenden Personen deutsche Staatsangehörige sind;
 
 2. ein Recht eines deutschen Staatsangehörigen, an einem Luftfahrzeug Eigentum durch Kauf zu erwerben, oder ein Recht zum Besitz auf Grund eines für einen Zeitraum von mindestens sechs Monaten abgeschlossenen Mietvertrages oder eines dem Mietvertrag ähnlichen Rechtsverhältnisses besteht.
 
@@ -2027,9 +2027,9 @@ a) bei natürlichen Personen:
 
 Name, Vorname und Anschrift,
 
-b) bei juristischen Personen und Gesellschaften des Handelsrechts:
+b) bei juristischen Personen und rechtsfähigen Personengesellschaften:
 
-Firmenname und Anschrift,
+Firma oder Name und Anschrift,
 
 c) zusätzlich bei mehreren Eigentümern:
 

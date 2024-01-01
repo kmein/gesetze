@@ -61,7 +61,7 @@ b) die Vollstreckungsbehörden der Bundesfinanzverwaltung, wenn eine Bestimmung 
 
 (2) Die Vollstreckungsbehörde darf die gegenwärtigen Anschriften, den Ort der Hauptniederlassung oder den Sitz des Vollstreckungsschuldners erheben
 
-1. durch Einsicht in das Handels-, Genossenschafts-, Partnerschafts-, Unternehmens- oder Vereinsregister oder
+1. durch Einsicht in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts-, Unternehmens- oder Vereinsregister oder
 
 2. durch Einholung der Anschrift bei den nach Landesrecht für die Durchführung der Aufgaben nach § 14 Absatz 1 der Gewerbeordnung zuständigen Behörden.
 

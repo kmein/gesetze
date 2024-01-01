@@ -660,7 +660,7 @@ Jahr der Anschaffung ist das Jahr der Lieferung, Jahr der Herstellung ist das Ja
 
 # § 50 – Zuwendungsbestätigung
 
-(1) ¹Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes dürfen vorbehaltlich des Absatzes 2 nur abgezogen werden, wenn der Zuwendende eine Zuwendungsbestätigung, die der Zuwendungsempfänger unter Berücksichtigung des § 63 Absatz 5 der Abgabenordnung nach amtlich vorgeschriebenem Vordruck ausgestellt hat, oder die in den Absätzen 4 bis 6 bezeichneten Unterlagen erhalten hat. ²Dies gilt nicht für Zuwendungen an nicht im Inland ansässige Zuwendungsempfänger nach § 10b Absatz 1 Satz 2 Nummer 1 und 3 des Gesetzes.
+(1) Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes dürfen vorbehaltlich des Absatzes 2 nur abgezogen werden, wenn der Zuwendende eine Zuwendungsbestätigung, die der Zuwendungsempfänger unter Berücksichtigung des § 63 Absatz 5 der Abgabenordnung nach amtlich vorgeschriebenem Vordruck ausgestellt hat, oder die in den Absätzen 4 bis 6 bezeichneten Unterlagen erhalten hat.
 
 (2) ¹Der Zuwendende kann den Zuwendungsempfänger bevollmächtigen, die Zuwendungsbestätigung der für seine Besteuerung nach dem Einkommen zuständigen Finanzbehörde nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung nach Maßgabe des § 93c der Abgabenordnung zu übermitteln. ²Der Zuwendende hat dem Zuwendungsempfänger zu diesem Zweck seine Identifikationsnummer (§ 139b der Abgabenordnung) mitzuteilen. ³Die Vollmacht kann nur mit Wirkung für die Zukunft widerrufen werden. ⁴Der Zuwendungsempfänger hat dem Zuwendenden die nach Satz 1 übermittelten Daten elektronisch oder auf dessen Wunsch als Ausdruck zur Verfügung zu stellen; in beiden Fällen ist darauf hinzuweisen, dass die Daten der Finanzbehörde übermittelt worden sind. ⁵§ 72a Absatz 4 der Abgabenordnung findet keine Anwendung.
 
@@ -692,7 +692,7 @@ c) der Empfänger eine politische Partei im Sinne des § 2 des Parteiengesetzes 
 
 (8) ¹Die in den Absätzen 1, 4, 5 und 6 bezeichneten Unterlagen sind vom Zuwendenden auf Verlangen der Finanzbehörde vorzulegen. ²Soweit der Zuwendende sie nicht bereits auf Verlangen der Finanzbehörde vorgelegt hat, sind sie vom Zuwendenden bis zum Ablauf eines Jahres nach Bekanntgabe der Steuerfestsetzung aufzubewahren.
 
-(+++ § 50: Zur erstmaligen Anwendung vgl. § 84 Abs. 2c +++)
+(+++ § 50: Zur Anwendung vgl. § 84 +++)
 
 # § 51 – Pauschale Ermittlung der Gewinne aus Holznutzungen
 
@@ -1499,6 +1499,8 @@ an Stelle der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu bemessenden Abs
 (2b) § 29 Abs. 1 ist auch für Veranlagungszeiträume vor 1996 anzuwenden, soweit die Fälle, in denen Ansprüche aus Versicherungsverträgen nach dem 13. Februar 1992 zur Tilgung oder Sicherung von Darlehen eingesetzt wurden, noch nicht angezeigt worden sind.
 
 (2c) § 50 in der am 1. Januar 2020 geltenden Fassung ist erstmals auf Zuwendungen anzuwenden, die dem Zuwendungsempfänger nach dem 31. Dezember 2019 zufließen.
+
+(2d) § 50 in der Fassung des Artikels 7 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) ist erstmals auf Zuwendungen anzuwenden, die dem Zuwendungsempfänger nach dem 31. Dezember 2024 zufließen.
 
 (3) § 29 Abs. 3 bis 6, §§ 31 und 32 sind in der vor dem 1. Januar 1996 geltenden Fassung für vor diesem Zeitpunkt an Bausparkassen geleistete Beiträge letztmals für den Veranlagungszeitraum 2005 anzuwenden.
 

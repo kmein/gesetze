@@ -193,7 +193,7 @@ Verkehrsunternehmen, die einer gesetzlichen Betriebs- und Beförderungspflicht u
 
 # § 15 – Auskünfte
 
-(1) Zur Durchführung dieses Gesetzes sowie zur Vorbereitung und Durchführung der Rechtsverordnungen auf Grund dieses Gesetzes haben alle natürlichen und juristischen Personen und nichtrechtsfähigen Personenvereinigungen den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu erteilen. Die Auskunftspflicht erstreckt sich auch auf Planungen für die Herstellung oder Änderung von Verkehrsanlagen und -einrichtungen.
+(1) Zur Durchführung dieses Gesetzes sowie zur Vorbereitung und Durchführung der Rechtsverordnungen auf Grund dieses Gesetzes haben alle natürlichen und juristischen Personen und sonstigen Personenvereinigungen den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu erteilen. Die Auskunftspflicht erstreckt sich auch auf Planungen für die Herstellung oder Änderung von Verkehrsanlagen und -einrichtungen.
 
 (2) Die von den zuständigen Behörden mit der Einholung von Auskünften beauftragten Personen sind befugt, Grundstücke und Geschäftsräume sowie Verkehrsmittel des Auskunftspflichtigen zu betreten, dort Prüfungen und Besichtigungen vorzunehmen sowie in die geschäftlichen und technischen Unterlagen des Auskunftspflichtigen Einsicht zu nehmen.
 

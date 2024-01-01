@@ -57,6 +57,8 @@ Durch die Vorschriften des öffentlichen Rechtes, nach welchen die Befugnis zum 
 
 2. Eintragungen im Genossenschaftsregister und zum Genossenschaftsregister eingereichte Dokumente;
 
+2a. Eintragungen im Gesellschaftsregister und zum Gesellschaftsregister eingereichte Dokumente;
+
 3. Eintragungen im Partnerschaftsregister und zum Partnerschaftsregister eingereichte Dokumente;
 
 4. Unterlagen der Rechnungslegung und Unternehmensberichte, die nach diesem Gesetz, dem Publizitätsgesetz, dem Eisenbahnregulierungsgesetz, dem Energiewirtschaftsgesetz, dem Entgelttransparenzgesetz, dem Kapitalanlagegesetzbuch, dem Telekommunikationsgesetz, dem Vermögensanlagengesetz oder dem Wertpapierhandelsgesetz offengelegt wurden, mit Ausnahme der zur dauerhaften Hinterlegung eingestellten Unterlagen;
@@ -75,7 +77,7 @@ Durch die Vorschriften des öffentlichen Rechtes, nach welchen die Befugnis zum 
 
 11. Bekanntmachungen der Insolvenzgerichte nach § 9 der Insolvenzordnung, ausgenommen Verfahren nach dem Zehnten Teil der Insolvenzordnung;
 
-12. Registerbekanntmachungen aus dem Handels-, Genossenschafts- und Partnerschaftsregister;
+12. Registerbekanntmachungen aus dem Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister;
 
 13. Bekanntmachungen der Bundesanstalt für Finanzdienstleistungsaufsicht nach § 107 Absatz 1 Satz 6, § 109 Absatz 2 Satz 1 und 5, Absatz 3 Satz 2 des Wertpapierhandelsgesetzes und nach § 31 Absatz 4 des Vermögensanlagengesetzes.
 
@@ -451,7 +453,7 @@ Jeder Kaufmann ist verpflichtet, seine Firma, den Ort und die inländische Gesch
 
 # § 30
 
-(1) Jede neue Firma muß sich von allen an demselben Ort oder in derselben Gemeinde bereits bestehenden und in das Handelsregister oder in das Genossenschaftsregister eingetragenen Firmen deutlich unterscheiden.
+(1) Jede neue Firma muß sich von allen an demselben Ort oder in derselben Gemeinde bereits bestehenden und in das Handels-,Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragenen Firmen deutlich unterscheiden.
 
 (2) Hat ein Kaufmann mit einem bereits eingetragenen Kaufmanne die gleichen Vornamen und den gleichen Familiennamen und will auch er sich dieser Namen als seiner Firma bedienen, so muß er der Firma einen Zusatz beifügen, durch den sie sich von der bereits eingetragenen Firma deutlich unterscheidet.
 
@@ -990,400 +992,478 @@ Auf Personen, welche die Vermittlung von Warengeschäften im Kleinverkehre besor
 
 (2) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt für Finanzdienstleistungsaufsicht.
 
-# § 105
+# § 105 – Begriff der offenen Handelsgesellschaft; Anwendbarkeit des Bürgerlichen Gesetzbuchs
 
 (1) Eine Gesellschaft, deren Zweck auf den Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, ist eine offene Handelsgesellschaft, wenn bei keinem der Gesellschafter die Haftung gegenüber den Gesellschaftsgläubigern beschränkt ist.
 
-(2) Eine Gesellschaft, deren Gewerbebetrieb nicht schon nach § 1 Abs. 2 Handelsgewerbe ist oder die nur eigenes Vermögen verwaltet, ist offene Handelsgesellschaft, wenn die Firma des Unternehmens in das Handelsregister eingetragen ist. § 2 Satz 2 und 3 gilt entsprechend.
+(2) Die offene Handelsgesellschaft kann Rechte erwerben und Verbindlichkeiten eingehen.
 
-(3) Auf die offene Handelsgesellschaft finden, soweit nicht in diesem Abschnitt ein anderes vorgeschrieben ist, die Vorschriften des Bürgerlichen Gesetzbuchs über die Gesellschaft Anwendung.
+(3) Auf die offene Handelsgesellschaft finden, soweit in diesem Abschnitt nichts anderes vorgeschrieben ist, die Vorschriften des Bürgerlichen Gesetzbuchs über die Gesellschaft entsprechende Anwendung.
 
-# § 106
+# § 106 – Anmeldung zum Handelsregister; Statuswechsel
 
-(1) Die Gesellschaft ist bei dem Gericht, in dessen Bezirke sie ihren Sitz hat, zur Eintragung in das Handelsregister anzumelden.
+(1) Die Gesellschaft ist bei dem Gericht, in dessen Bezirk sie ihren Sitz hat, zur Eintragung in das Handelsregister anzumelden.
 
-(2) Die Anmeldung hat zu enthalten:
+(2) Die Anmeldung muss enthalten:
 
-1. den Namen, Vornamen, Geburtsdatum und Wohnort jedes Gesellschafters;
+1. folgende Angaben zur Gesellschaft:
 
-2. die Firma der Gesellschaft, den Ort, an dem sie ihren Sitz hat, und die inländische Geschäftsanschrift;
+a) die Firma,
 
-3. (weggefallen)
+b) den Sitz und
 
-4. die Vertretungsmacht der Gesellschafter.
+c) die Geschäftsanschrift in einem Mitgliedstaat der Europäischen Union;
 
-# § 107
+2. folgende Angaben zu jedem Gesellschafter:
 
-Wird die Firma einer Gesellschaft geändert, der Sitz der Gesellschaft an einen anderen Ort verlegt, die inländische Geschäftsanschrift geändert, tritt ein neuer Gesellschafter in die Gesellschaft ein oder ändert sich die Vertretungsmacht eines Gesellschafters, so ist dies ebenfalls zur Eintragung in das Handelsregister anzumelden.
+a) wenn der Gesellschafter eine natürliche Person ist: dessen Namen, Vornamen, Geburtsdatum und Wohnort;
 
-# § 108
+b) wenn der Gesellschafter eine juristische Person oder rechtsfähige Personengesellschaft ist: deren Firma oder Namen, Rechtsform, Sitz und, soweit gesetzlich vorgesehen, zuständiges Register und Registernummer;
 
-Die Anmeldungen sind von sämtlichen Gesellschaftern zu bewirken. Das gilt nicht, wenn sich nur die inländische Geschäftsanschrift ändert.
+3. die Angabe der Vertretungsbefugnis der Gesellschafter;
 
-# § 109
+4. die Versicherung, dass die Gesellschaft nicht bereits im Gesellschafts- oder im Partnerschaftsregister eingetragen ist.
 
-Das Rechtsverhältnis der Gesellschafter untereinander richtet sich zunächst nach dem Gesellschaftsvertrage; die Vorschriften der §§ 110 bis 122 finden nur insoweit Anwendung, als nicht durch den Gesellschaftsvertrag ein anderes bestimmt ist.
+(3) Ist die Gesellschaft bereits im Gesellschafts- oder im Partnerschaftsregister eingetragen, hat die Anmeldung im Wege eines Statuswechsels dort zu erfolgen.
 
-# § 110
+(4) Das Gericht soll eine Gesellschaft, die bereits im Gesellschafts- oder im Partnerschaftsregister eingetragen ist, in das Handelsregister nur eintragen, wenn
 
-(1) Macht der Gesellschafter in den Gesellschaftsangelegenheiten Aufwendungen, die er den Umständen nach für erforderlich halten darf, oder erleidet er unmittelbar durch seine Geschäftsführung oder aus Gefahren, die mit ihr untrennbar verbunden sind, Verluste, so ist ihm die Gesellschaft zum Ersatze verpflichtet.
+1. der Statuswechsel zu dem anderen Register nach Absatz 3 angemeldet wurde,
 
-(2) Aufgewendetes Geld hat die Gesellschaft von der Zeit der Aufwendung an zu verzinsen.
+2. der Statuswechselvermerk in das andere Register eingetragen wurde und
 
-# § 111
+3. das für die Führung des anderen Registers zuständige Gericht das Verfahren an das für die Führung des Handelsregisters zuständige Gericht abgegeben hat.
 
-(1) Ein Gesellschafter, der seine Geldeinlage nicht zur rechten Zeit einzahlt oder eingenommenes Gesellschaftsgeld nicht zur rechten Zeit an die Gesellschaftskasse abliefert oder unbefugt Geld aus der Gesellschaftskasse für sich entnimmt, hat Zinsen von dem Tage an zu entrichten, an welchem die Zahlung oder die Ablieferung hätte geschehen sollen oder die Herausnahme des Geldes erfolgt ist.
+§ 707c Absatz 2 des Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden. Absatz 2 bleibt im Übrigen unberührt.
 
-(2) Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
+(5) Die Eintragung der Gesellschaft hat im Fall des Absatzes 4 die Angabe des für die Führung des Gesellschafts- oder des Partnerschaftsregisters zuständigen Gerichts, den Namen und die Registernummer, unter der die Gesellschaft bislang eingetragen ist, zu enthalten. Das Gericht teilt dem Gericht, das das Verfahren abgegeben hat, von Amts wegen den Tag der Eintragung der Gesellschaft in das Handelsregister und die neue Registernummer mit. Die Ablehnung der Eintragung teilt das Gericht von Amts wegen dem Gericht, das das Verfahren abgegeben hat, mit, sobald die Entscheidung rechtskräftig geworden ist.
 
-# § 112
+(6) Wird die Firma der Gesellschaft geändert, der Sitz der Gesellschaft an einen anderen Ort verlegt, die Geschäftsanschrift geändert, scheidet ein Gesellschafter aus oder tritt ein neuer Gesellschafter ein oder ändert sich die Vertretungsbefugnis eines Gesellschafters, ist dies ebenfalls zur Eintragung in das Handelsregister anzumelden.
 
-(1) Ein Gesellschafter darf ohne Einwilligung der anderen Gesellschafter weder in dem Handelszweige der Gesellschaft Geschäfte machen noch an einer anderen gleichartigen Handelsgesellschaft als persönlich haftender Gesellschafter teilnehmen.
+(7) Anmeldungen sind vorbehaltlich der Sätze 2 und 3 von sämtlichen Gesellschaftern zu bewirken. Scheidet ein Gesellschafter durch Tod aus, kann die Anmeldung ohne Mitwirkung der Erben erfolgen, sofern einer solchen Mitwirkung besondere Hindernisse entgegenstehen. Ändert sich nur die Geschäftsanschrift der Gesellschaft, ist die Anmeldung von der Gesellschaft zu bewirken.
 
-(2) Die Einwilligung zur Teilnahme an einer anderen Gesellschaft gilt als erteilt, wenn den übrigen Gesellschaftern bei Eingehung der Gesellschaft bekannt ist, daß der Gesellschafter an einer anderen Gesellschaft als persönlich haftender Gesellschafter teilnimmt, und gleichwohl die Aufgabe dieser Beteiligung nicht ausdrücklich bedungen wird.
+# § 107 – Kleingewerbliche, vermögensverwaltende oder freiberufliche Gesellschaft; Statuswechsel
 
-# § 113
+(1) Eine Gesellschaft, deren Gewerbebetrieb nicht schon nach § 1 Absatz 2 Handelsgewerbe ist oder die nur eigenes Vermögen verwaltet, ist offene Handelsgesellschaft, wenn die Firma des Unternehmens in das Handelsregister eingetragen ist. Dies gilt auch für eine Gesellschaft, deren Zweck die gemeinsame Ausübung Freier Berufe durch ihre Gesellschafter ist, soweit das anwendbare Berufsrecht die Eintragung zulässt.
 
-(1) Verletzt ein Gesellschafter die ihm nach § 112 obliegende Verpflichtung, so kann die Gesellschaft Schadensersatz fordern; sie kann statt dessen von dem Gesellschafter verlangen, daß er die für eigene Rechnung gemachten Geschäfte als für Rechnung der Gesellschaft eingegangen gelten lasse und die aus Geschäften für fremde Rechnung bezogene Vergütung herausgebe oder seinen Anspruch auf die Vergütung abtrete.
+(2) Die Gesellschaft ist berechtigt, aber nicht verpflichtet, die Eintragung nach den für die Eintragung einer offenen Handelsgesellschaft geltenden Vorschriften herbeizuführen. Ist die Eintragung erfolgt, ist eine Fortsetzung als Gesellschaft bürgerlichen Rechts nur im Wege eines Statuswechsels zulässig.
 
-(2) Über die Geltendmachung dieser Ansprüche beschließen die übrigen Gesellschafter.
+(3) Wird eine offene Handelsgesellschaft zur Eintragung in das Gesellschaftsregister angemeldet, trägt das Gericht ihre Fortsetzung als Gesellschaft bürgerlichen Rechts ein, sofern nicht die Voraussetzung des § 1 Absatz 2 eingetreten ist. Im Übrigen findet § 707c Absatz 2 Satz 2 bis 5 des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
-(3) Die Ansprüche verjähren in drei Monaten von dem Zeitpunkt an, in welchem die übrigen Gesellschafter von dem Abschluss des Geschäfts oder von der Teilnahme des Gesellschafters an der anderen Gesellschaft Kenntnis erlangen oder ohne grobe Fahrlässigkeit erlangen müssten; sie verjähren ohne Rücksicht auf diese Kenntnis oder grob fahrlässige Unkenntnis in fünf Jahren von ihrer Entstehung an.
+# § 108 – Gestaltungsfreiheit
 
-(4) Das Recht der Gesellschafter, die Auflösung der Gesellschaft zu verlangen, wird durch diese Vorschriften nicht berührt.
+Von den Vorschriften dieses Titels kann durch den Gesellschaftsvertrag abgewichen werden, soweit im Gesetz nichts anderes bestimmt ist.
 
-# § 114
+# § 109 – Beschlussfassung
+
+(1) Die Beschlüsse der Gesellschafter werden in Versammlungen gefasst.
+
+(2) Die Versammlung kann durch jeden Gesellschafter einberufen werden, der die Befugnis zur Geschäftsführung hat. Die Einberufung erfolgt durch formlose Einladung der anderen Gesellschafter unter Ankündigung des Zwecks der Versammlung in angemessener Frist.
+
+(3) Gesellschafterbeschlüsse bedürfen der Zustimmung aller stimmberechtigten Gesellschafter.
+
+(4) Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, ist die Gesellschafterversammlung beschlussfähig, wenn die anwesenden Gesellschafter oder ihre Vertreter ohne Rücksicht auf ihre Stimmberechtigung die für die Beschlussfassung erforderlichen Stimmen haben.
+
+# § 110 – Anfechtbarkeit und Nichtigkeit von Gesellschafterbeschlüssen
+
+(1) Ein Beschluss der Gesellschafter kann wegen Verletzung von Rechtsvorschriften durch Klage auf Nichtigerklärung angefochten werden (Anfechtungsklage).
+
+(2) Ein Gesellschafterbeschluss ist von Anfang an nichtig, wenn er
+
+1. durch seinen Inhalt Rechtsvorschriften verletzt, auf deren Einhaltung die Gesellschafter nicht verzichten können, oder
+
+2. nach einer Anfechtungsklage durch Urteil rechtskräftig für nichtig erklärt worden ist.
+
+Die Nichtigkeit eines Beschlusses der Gesellschafter kann auch auf andere Weise als durch Klage auf Feststellung der Nichtigkeit (Nichtigkeitsklage) geltend gemacht werden.
+
+# § 111 – Anfechtungsbefugnis; Rechtsschutzbedürfnis
+
+(1) Anfechtungsbefugt ist jeder Gesellschafter, der oder dessen Rechtsvorgänger im Zeitpunkt der Beschlussfassung der Gesellschaft angehört hat.
+
+(2) Ein Verlust der Mitgliedschaft nach dem Zeitpunkt der Beschlussfassung lässt das Rechtsschutzbedürfnis des Rechtsvorgängers unberührt, wenn er ein berechtigtes Interesse an der Führung des Rechtsstreits hat.
+
+(+++ § 111: Zur Anwendung vgl. § 114 +++)
+
+# § 112 – Klagefrist
+
+(1) Die Anfechtungsklage ist innerhalb von drei Monaten zu erheben. Eine Vereinbarung im Gesellschaftsvertrag, welche eine kürzere Frist als einen Monat vorsieht, ist unwirksam.
+
+(2) Die Frist beginnt mit dem Tag, an dem der Beschluss dem anfechtungsbefugten Gesellschafter bekanntgegeben worden ist.
+
+(3) Für die Dauer von Vergleichsverhandlungen über den Gegenstand des Beschlusses oder die ihm zugrundeliegenden Umstände zwischen dem anfechtungsbefugten Gesellschafter und der Gesellschaft wird die Klagefrist gehemmt. Die für die Verjährung geltenden §§ 203 und 209 des Bürgerlichen Gesetzbuchs sind mit der Maßgabe entsprechend anzuwenden, dass die Klagefrist frühestens einen Monat nach dem Scheitern der Vergleichsverhandlungen endet.
+
+(+++ § 112: Zur Anwendung vgl. § 114 +++)
+
+# § 113 – Anfechtungsklage
+
+(1) Zuständig für die Anfechtungsklage ist ausschließlich das Landgericht, in dessen Bezirk die Gesellschaft ihren Sitz hat.
+
+(2) Die Klage ist gegen die Gesellschaft zu richten. Ist außer dem Kläger kein Gesellschafter zur Vertretung der Gesellschaft befugt, wird die Gesellschaft von den anderen Gesellschaftern gemeinsam vertreten.
+
+(3) Die Gesellschaft hat die Gesellschafter unverzüglich über die Erhebung der Klage und die Lage des Rechtsstreits zu unterrichten. Ferner hat sie das Gericht über die erfolgte Unterrichtung in Kenntnis zu setzen. Das Gericht hat auf eine unverzügliche Unterrichtung der Gesellschafter hinzuwirken.
+
+(4) Die mündliche Verhandlung soll nicht vor Ablauf der Klagefrist stattfinden. Mehrere Anfechtungsprozesse sind zur gleichzeitigen Verhandlung und Entscheidung zu verbinden.
+
+(5) Den Streitwert bestimmt das Gericht unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere der Bedeutung der Sache für die Parteien, nach billigem Ermessen.
+
+(6) Soweit der Gesellschafterbeschluss durch rechtskräftiges Urteil für nichtig erklärt worden ist, wirkt das Urteil für und gegen alle Gesellschafter, auch wenn sie nicht Partei sind.
+
+(+++ § 113: Zur Anwendung vgl. § 114 +++)
+
+# § 114 – Nichtigkeitsklage
+
+Erhebt ein Gesellschafter Nichtigkeitsklage gegen die Gesellschaft, sind die §§ 111 und 113 entsprechend anzuwenden. Mehrere Nichtigkeits- und Anfechtungsprozesse sind zur gemeinsamen Verhandlung und Entscheidung zu verbinden.
+
+# § 115 – Verbindung von Anfechtungs- und Feststellungsklage
+
+Wendet sich ein Gesellschafter gegen einen Beschluss, mit dem ein Beschlussvorschlag abgelehnt wurde, kann er seinen Antrag auf Nichtigerklärung des ablehnenden Beschlusses mit dem Antrag verbinden, dass ein Beschluss festgestellt wird, der bei Annahme des Beschlussvorschlags rechtmäßig gefasst worden wäre. Auf die Feststellungsklage finden die für die Anfechtungsklage geltenden Vorschriften entsprechende Anwendung.
+
+# § 116 – Geschäftsführungsbefugnis
 
 (1) Zur Führung der Geschäfte der Gesellschaft sind alle Gesellschafter berechtigt und verpflichtet.
 
-(2) Ist im Gesellschaftsvertrage die Geschäftsführung einem Gesellschafter oder mehreren Gesellschaftern übertragen, so sind die übrigen Gesellschafter von der Geschäftsführung ausgeschlossen.
+(2) Die Befugnis zur Geschäftsführung erstreckt sich auf alle Geschäfte, die der gewöhnliche Betrieb des Handelsgewerbes der Gesellschaft mit sich bringt; zur Vornahme von Geschäften, die darüber hinausgehen, ist ein Beschluss aller Gesellschafter erforderlich. Zur Bestellung eines Prokuristen bedarf es der Zustimmung aller geschäftsführungsbefugten Gesellschafter, es sei denn, dass mit dem Aufschub Gefahr für die Gesellschaft oder das Gesellschaftsvermögen verbunden ist. Der Widerruf der Prokura kann von jedem der zur Erteilung oder zur Mitwirkung bei der Erteilung befugten Gesellschafter erfolgen.
 
-# § 115
+(3) Die Geschäftsführung steht vorbehaltlich des Absatzes 4 allen Gesellschaftern in der Art zu, dass jeder von ihnen allein zu handeln berechtigt ist. Das gilt im Zweifel entsprechend, wenn nach dem Gesellschaftsvertrag die Geschäftsführung mehreren Gesellschaftern zusteht. Widerspricht ein geschäftsführungsbefugter Gesellschafter der Vornahme des Geschäfts, muss dieses unterbleiben.
 
-(1) Steht die Geschäftsführung allen oder mehreren Gesellschaftern zu, so ist jeder von ihnen allein zu handeln berechtigt; widerspricht jedoch ein anderer geschäftsführender Gesellschafter der Vornahme einer Handlung, so muß diese unterbleiben.
+(4) Steht nach dem Gesellschaftsvertrag die Geschäftsführung allen oder mehreren Gesellschaftern in der Art zu, dass sie nur gemeinsam zu handeln berechtigt sind, bedarf es für jedes Geschäft der Zustimmung aller geschäftsführungsbefugten Gesellschafter, es sei denn, dass mit dem Aufschub Gefahr für die Gesellschaft oder das Gesellschaftsvermögen verbunden ist.
 
-(2) Ist im Gesellschaftsvertrage bestimmt, daß die Gesellschafter, denen die Geschäftsführung zusteht, nur zusammen handeln können, so bedarf es für jedes Geschäft der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, daß Gefahr im Verzug ist.
+(5) Die Befugnis zur Geschäftsführung kann einem Gesellschafter auf Antrag der anderen Gesellschafter ganz oder teilweise durch gerichtliche Entscheidung entzogen werden, wenn ein wichtiger Grund vorliegt. Ein wichtiger Grund ist insbesondere eine grobe Pflichtverletzung des Gesellschafters oder die Unfähigkeit des Gesellschafters zur ordnungsgemäßen Geschäftsführung.
 
-# § 116
+(6) Der Gesellschafter kann seinerseits die Geschäftsführung ganz oder teilweise kündigen, wenn ein wichtiger Grund vorliegt. § 671 Absatz 2 und 3 des Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden.
 
-(1) Die Befugnis zur Geschäftsführung erstreckt sich auf alle Handlungen, die der gewöhnliche Betrieb des Handelsgewerbes der Gesellschaft mit sich bringt.
+# § 117 – Wettbewerbsverbot
 
-(2) Zur Vornahme von Handlungen, die darüber hinausgehen, ist ein Beschluß sämtlicher Gesellschafter erforderlich.
+(1) Ein Gesellschafter darf ohne Einwilligung der anderen Gesellschafter weder in dem Handelszweig der Gesellschaft Geschäfte machen noch an einer anderen gleichartigen Gesellschaft als persönlich haftender Gesellschafter teilnehmen.
 
-(3) Zur Bestellung eines Prokuristen bedarf es der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, daß Gefahr im Verzug ist. Der Widerruf der Prokura kann von jedem der zur Erteilung oder zur Mitwirkung bei der Erteilung befugten Gesellschafter erfolgen.
+(2) Die Einwilligung zur Teilnahme an einer anderen Gesellschaft gilt als erteilt, wenn den anderen Gesellschaftern bei Eingehung der Gesellschaft bekannt ist, dass der Gesellschafter an einer anderen Gesellschaft als persönlich haftender Gesellschafter teilnimmt, und gleichwohl die Aufgabe dieser Beteiligung nicht ausdrücklich vereinbart wird.
 
-# § 117
+(+++ § 117: Zur Anwendung vgl. § 165 +++)
 
-Die Befugnis zur Geschäftsführung kann einem Gesellschafter auf Antrag der übrigen Gesellschafter durch gerichtliche Entscheidung entzogen werden, wenn ein wichtiger Grund vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsmäßigen Geschäftsführung.
+# § 118 – Verletzung des Wettbewerbsverbots
 
-# § 118
+(1) Verletzt ein Gesellschafter die ihm nach § 117 obliegende Verpflichtung, kann die Gesellschaft Schadensersatz fordern. Sie kann stattdessen von dem Gesellschafter verlangen, dass er die für eigene Rechnung gemachten Geschäfte als für Rechnung der Gesellschaft eingegangen gelten lasse und die aus Geschäften für fremde Rechnung bezogene Vergütung herausgebe oder seinen Anspruch auf die Vergütung abtrete.
 
-(1) Ein Gesellschafter kann, auch wenn er von der Geschäftsführung ausgeschlossen ist, sich von den Angelegenheiten der Gesellschaft persönlich unterrichten, die Handelsbücher und die Papiere der Gesellschaft einsehen und sich aus ihnen eine Bilanz und einen Jahresabschluß anfertigen.
+(2) Über die Geltendmachung dieser Ansprüche beschließen die anderen Gesellschafter.
 
-(2) Eine dieses Recht ausschließende oder beschränkende Vereinbarung steht der Geltendmachung des Rechtes nicht entgegen, wenn Grund zu der Annahme unredlicher Geschäftsführung besteht.
+(3) Die Ansprüche nach Absatz 1 verjähren in drei Monaten von dem Zeitpunkt an, in welchem die anderen Gesellschafter von dem Abschluss des Geschäfts oder von der Teilnahme des Gesellschafters an der anderen Gesellschaft Kenntnis erlangt haben oder ohne grobe Fahrlässigkeit erlangen mussten. Sie verjähren ohne Rücksicht auf diese Kenntnis oder grob fahrlässige Unkenntnis in fünf Jahren von ihrer Entstehung an.
 
-# § 119
+(4) Das Recht der anderen Gesellschafter, den betreffenden Gesellschafter auszuschließen oder die Auflösung der Gesellschaft zu verlangen, wird durch diese Vorschriften nicht berührt.
 
-(1) Für die von den Gesellschaftern zu fassenden Beschlüsse bedarf es der Zustimmung aller zur Mitwirkung bei der Beschlußfassung berufenen Gesellschafter.
+(+++ § 118: Zur Anwendung vgl. § 165 +++)
 
-(2) Hat nach dem Gesellschaftsvertrage die Mehrheit der Stimmen zu entscheiden, so ist die Mehrheit im Zweifel nach der Zahl der Gesellschafter zu berechnen.
+# § 119 – Verzinsungspflicht
 
-# § 120
+(1) Schuldet die Gesellschaft nach Maßgabe von § 716 Absatz 4 Satz 2 des Bürgerlichen Gesetzbuchs dem Gesellschafter die Verzinsung von Aufwendungen und Verlusten, richtet sich deren Höhe nach § 352 Absatz 2.
 
-(1) Am Schlusse jedes Geschäftsjahrs wird auf Grund der Bilanz der Gewinn oder der Verlust des Jahres ermittelt und für jeden Gesellschafter sein Anteil daran berechnet.
+(2) Ein Gesellschafter, der der Gesellschaft liquide Geldmittel dadurch vorenthält, dass er seinen vereinbarten Beitrag nicht zur rechten Zeit einzahlt oder eingenommenes Geld der Gesellschaft nicht zur rechten Zeit an die Gesellschaftskasse abliefert oder unbefugt Geld aus der Gesellschaftskasse für sich entnimmt, hat der Gesellschaft Zinsen von dem Tag an zu entrichten, an welchem die Zahlung oder die Ablieferung hätte geschehen sollen oder die Herausnahme des Geldes erfolgt ist. Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
-(2) Der einem Gesellschafter zukommende Gewinn wird dem Kapitalanteile des Gesellschafters zugeschrieben; der auf einen Gesellschafter entfallende Verlust sowie das während des Geschäftsjahrs auf den Kapitalanteil entnommene Geld wird davon abgeschrieben.
+# § 120 – Ermittlung von Gewinn- und Verlustanteilen
 
-# § 121
+(1) Die geschäftsführungsbefugten Gesellschafter sind gegenüber der Gesellschaft zur Aufstellung des Jahresabschlusses (§ 242 Absatz 3) verpflichtet. Sie haben dabei für jeden Gesellschafter nach Maßgabe von § 709 Absatz 3 des Bürgerlichen Gesetzbuchs den Anteil am Gewinn oder Verlust zu ermitteln.
 
-(1) Von dem Jahresgewinne gebührt jedem Gesellschafter zunächst ein Anteil in Höhe von vier vom Hundert seines Kapitalanteils. Reicht der Jahresgewinn hierzu nicht aus, so bestimmen sich die Anteile nach einem entsprechend niedrigeren Satze.
+(2) Der einem Gesellschafter zukommende Gewinn wird dem Kapitalanteil des Gesellschafters zugeschrieben; der auf einen Gesellschafter entfallende Verlust wird davon abgeschrieben.
 
-(2) Bei der Berechnung des nach Absatz 1 einem Gesellschafter zukommenden Gewinnanteils werden Leistungen, die der Gesellschafter im Laufe des Geschäftsjahrs als Einlage gemacht hat, nach dem Verhältnisse der seit der Leistung abgelaufenen Zeit berücksichtigt. Hat der Gesellschafter im Laufe des Geschäftsjahrs Geld auf seinen Kapitalanteil entnommen, so werden die entnommenen Beträge nach dem Verhältnisse der bis zur Entnahme abgelaufenen Zeit berücksichtigt.
+# § 121 – Feststellung des Jahresabschlusses
 
-(3) Derjenige Teil des Jahresgewinns, welcher die nach den Absätzen 1 und 2 zu berechnenden Gewinnanteile übersteigt, sowie der Verlust eines Geschäftsjahrs wird unter die Gesellschafter nach Köpfen verteilt.
+Über die Feststellung des Jahresabschlusses entscheiden die Gesellschafter durch Beschluss.
 
-# § 122
+# § 122 – Gewinnauszahlung
 
-(1) Jeder Gesellschafter ist berechtigt, aus der Gesellschaftskasse Geld bis zum Betrage von vier vom Hundert seines für das letzte Geschäftsjahr festgestellten Kapitalanteils zu seinen Lasten zu erheben und, soweit es nicht zum offenbaren Schaden der Gesellschaft gereicht, auch die Auszahlung seines den bezeichneten Betrag übersteigenden Anteils am Gewinne des letzten Jahres zu verlangen.
+Jeder Gesellschafter hat aufgrund des festgestellten Jahresabschlusses Anspruch auf Auszahlung seines ermittelten Gewinnanteils. Der Anspruch kann nicht geltend gemacht werden, soweit die Auszahlung zum offenbaren Schaden der Gesellschaft gereicht oder der Gesellschafter seinen vereinbarten Beitrag trotz Fälligkeit nicht geleistet hat.
 
-(2) Im übrigen ist ein Gesellschafter nicht befugt, ohne Einwilligung der anderen Gesellschafter seinen Kapitalanteil zu vermindern.
+# § 123 – Entstehung der Gesellschaft im Verhältnis zu Dritten
 
-# § 123
+(1) Im Verhältnis zu Dritten entsteht die Gesellschaft, sobald sie im Handelsregister eingetragen ist. Dessen ungeachtet entsteht die Gesellschaft schon dann, wenn sie mit Zustimmung sämtlicher Gesellschafter am Rechtsverkehr teilnimmt, soweit sich aus § 107 Absatz 1 nichts anderes ergibt.
 
-(1) Die Wirksamkeit der offenen Handelsgesellschaft tritt im Verhältnisse zu Dritten mit dem Zeitpunkt ein, in welchem die Gesellschaft in das Handelsregister eingetragen wird.
+(2) Eine Vereinbarung, dass die Gesellschaft erst zu einem späteren Zeitpunkt entstehen soll, ist Dritten gegenüber unwirksam.
 
-(2) Beginnt die Gesellschaft ihre Geschäfte schon vor der Eintragung, so tritt die Wirksamkeit mit dem Zeitpunkte des Geschäftsbeginns ein, soweit nicht aus § 2 oder § 105 Abs. 2 sich ein anderes ergibt.
+# § 124 – Vertretung der Gesellschaft
 
-(3) Eine Vereinbarung, daß die Gesellschaft erst mit einem späteren Zeitpunkt ihren Anfang nehmen soll, ist Dritten gegenüber unwirksam.
+(1) Zur Vertretung der Gesellschaft ist jeder Gesellschafter befugt, wenn er nicht durch den Gesellschaftsvertrag von der Vertretung ausgeschlossen ist.
 
-# § 124
+(2) Im Gesellschaftsvertrag kann vereinbart werden, dass alle oder mehrere Gesellschafter nur gemeinsam zur Vertretung der Gesellschaft befugt sein sollen. Die zur Gesamtvertretung befugten Gesellschafter können einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen.
 
-(1) Die offene Handelsgesellschaft kann unter ihrer Firma Rechte erwerben und Verbindlichkeiten eingehen, Eigentum und andere dingliche Rechte an Grundstücken erwerben, vor Gericht klagen und verklagt werden.
+(3) Im Gesellschaftsvertrag kann vereinbart werden, dass die Gesellschafter, sofern nicht mehrere zusammen handeln, nur gemeinsam mit einem Prokuristen zur Vertretung der Gesellschaft berechtigt sein sollen. Absatz 2 Satz 2 und Absatz 6 sind in diesem Fall entsprechend anzuwenden.
 
-(2) Zur Zwangsvollstreckung in das Gesellschaftsvermögen ist ein gegen die Gesellschaft gerichteter vollstreckbarer Schuldtitel erforderlich.
+(4) Die Vertretungsbefugnis der Gesellschafter erstreckt sich auf alle Geschäfte der Gesellschaft einschließlich der Veräußerung und Belastung von Grundstücken sowie der Erteilung und des Widerrufs einer Prokura. Eine Beschränkung des Umfangs der Vertretungsbefugnis ist Dritten gegenüber unwirksam. Dies gilt insbesondere für die Beschränkung, dass sich die Vertretung nur auf bestimmte Geschäfte oder Arten von Geschäften erstreckt oder dass sie nur unter gewissen Umständen oder für eine gewisse Zeit oder an einzelnen Orten stattfinden soll. Hinsichtlich der Beschränkung auf den Betrieb einer von mehreren Niederlassungen der Gesellschaft ist § 50 Absatz 3 entsprechend anzuwenden.
 
-# § 125
+(5) Die Vertretungsbefugnis kann einem Gesellschafter in entsprechender Anwendung von § 116 Absatz 5 ganz oder teilweise entzogen werden, sofern im Gesellschaftsvertrag nichts anderes vereinbart ist.
 
-(1) Zur Vertretung der Gesellschaft ist jeder Gesellschafter ermächtigt, wenn er nicht durch den Gesellschaftsvertrag von der Vertretung ausgeschlossen ist.
+(6) Ist der Gesellschaft gegenüber eine Willenserklärung abzugeben, genügt die Abgabe gegenüber einem vertretungsbefugten Gesellschafter.
 
-(2) Im Gesellschaftsvertrage kann bestimmt werden, daß alle oder mehrere Gesellschafter nur in Gemeinschaft zur Vertretung der Gesellschaft ermächtigt sein sollen (Gesamtvertretung). Die zur Gesamtvertretung berechtigten Gesellschafter können einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen. Ist der Gesellschaft gegenüber eine Willenserklärung abzugeben, so genügt die Abgabe gegenüber einem der zur Mitwirkung bei der Vertretung befugten Gesellschafter.
+# § 125 – Angaben auf Geschäftsbriefen
 
-(3) Im Gesellschaftsvertrage kann bestimmt werden, daß die Gesellschafter, wenn nicht mehrere zusammen handeln, nur in Gemeinschaft mit einem Prokuristen zur Vertretung der Gesellschaft ermächtigt sein sollen. Die Vorschriften des Absatzes 2 Satz 2 und 3 finden in diesem Falle entsprechende Anwendung.
+(1) Auf allen Geschäftsbriefen der Gesellschaft, gleichviel welcher Form, die an einen bestimmten Empfänger gerichtet werden, müssen die Firma und der Sitz der Gesellschaft, das Registergericht und die Nummer, unter der die Gesellschaft in das Handelsregister eingetragen ist, angegeben werden. Bei einer Gesellschaft, bei der kein Gesellschafter eine natürliche Person ist, sind auf den Geschäftsbriefen der Gesellschaft ferner die Firmen oder Namen der Gesellschafter anzugeben sowie für die Gesellschafter die nach § 35a des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung oder § 80 des Aktiengesetzes für Geschäftsbriefe vorgeschriebenen Angaben zu machen. Die Angaben nach Satz 2 sind nicht erforderlich, wenn zu den Gesellschaftern der Gesellschaft eine rechtsfähige Personengesellschaft gehört, bei der mindestens ein persönlich haftender Gesellschafter eine natürliche Person ist.
 
-(4) (aufgehoben)
+(2) Für Vordrucke und Bestellscheine ist § 37a Absatz 2 und 3 entsprechend anzuwenden. Für Zwangsgelder gegen die zur Vertretung der Gesellschaft befugten Gesellschafter oder deren organschaftliche Vertreter und die Liquidatoren ist § 37a Absatz 4 entsprechend anzuwenden.
 
-# § 125a
-
-(1) Auf allen Geschäftsbriefen der Gesellschaft gleichviel welcher Form, die an einen bestimmten Empfänger gerichtet werden, müssen die Rechtsform und der Sitz der Gesellschaft, das Registergericht und die Nummer, unter der die Gesellschaft in das Handelsregister eingetragen ist, angegeben werden. Bei einer Gesellschaft, bei der kein Gesellschafter eine natürliche Person ist, sind auf den Geschäftsbriefen der Gesellschaft ferner die Firmen der Gesellschafter anzugeben sowie für die Gesellschafter die nach § 35a des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung oder § 80 des Aktiengesetzes für Geschäftsbriefe vorgeschriebenen Angaben zu machen. Die Angaben nach Satz 2 sind nicht erforderlich, wenn zu den Gesellschaftern der Gesellschaft eine offene Handelsgesellschaft oder Kommanditgesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.
-
-(2) Für Vordrucke und Bestellscheine ist § 37a Abs. 2 und 3, für Zwangsgelder gegen die zur Vertretung der Gesellschaft ermächtigten Gesellschafter oder deren organschaftliche Vertreter und die Liquidatoren ist § 37a Abs. 4 entsprechend anzuwenden.
-
-# § 126
-
-(1) Die Vertretungsmacht der Gesellschafter erstreckt sich auf alle gerichtlichen und außergerichtlichen Geschäfte und Rechtshandlungen einschließlich der Veräußerung und Belastung von Grundstücken sowie der Erteilung und des Widerrufs einer Prokura.
-
-(2) Eine Beschränkung des Umfanges der Vertretungsmacht ist Dritten gegenüber unwirksam; dies gilt insbesondere von der Beschränkung, daß sich die Vertretung nur auf gewisse Geschäfte oder Arten von Geschäften erstrecken oder daß sie nur unter gewissen Umständen oder für eine gewisse Zeit oder an einzelnen Orten stattfinden soll.
-
-(3) In betreff der Beschränkung auf den Betrieb einer von mehreren Niederlassungen der Gesellschaft finden die Vorschriften des § 50 Abs. 3 entsprechende Anwendung.
-
-# § 127
-
-Die Vertretungsmacht kann einem Gesellschafter auf Antrag der übrigen Gesellschafter durch gerichtliche Entscheidung entzogen werden, wenn ein wichtiger Grund vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsgemäßen Vertretung der Gesellschaft.
-
-# § 128
+# § 126 – Persönliche Haftung der Gesellschafter
 
 Die Gesellschafter haften für die Verbindlichkeiten der Gesellschaft den Gläubigern als Gesamtschuldner persönlich. Eine entgegenstehende Vereinbarung ist Dritten gegenüber unwirksam.
 
-# § 129
+# § 127 – Haftung des eintretenden Gesellschafters
 
-(1) Wird ein Gesellschafter wegen einer Verbindlichkeit der Gesellschaft in Anspruch genommen, so kann er Einwendungen, die nicht in seiner Person begründet sind, nur insoweit geltend machen, als sie von der Gesellschaft erhoben werden können.
+Wer in eine bestehende Gesellschaft eintritt, haftet gleich den anderen Gesellschaftern nach Maßgabe der §§ 126 und 128 für die vor seinem Eintritt begründeten Verbindlichkeiten der Gesellschaft. Eine entgegenstehende Vereinbarung ist Dritten gegenüber unwirksam.
 
-(2) Der Gesellschafter kann die Befriedigung des Gläubigers verweigern, solange der Gesellschaft das Recht zusteht, das ihrer Verbindlichkeit zugrunde liegende Rechtsgeschäft anzufechten.
+# § 128 – Einwendungen und Einreden des Gesellschafters
 
-(3) Die gleiche Befugnis hat der Gesellschafter, solange sich der Gläubiger durch Aufrechnung gegen eine fällige Forderung der Gesellschaft befriedigen kann.
+(1) Wird ein Gesellschafter wegen einer Verbindlichkeit der Gesellschaft in Anspruch genommen, kann er Einwendungen und Einreden, die nicht in seiner Person begründet sind, insoweit geltend machen, als sie von der Gesellschaft erhoben werden können.
 
-(4) Aus einem gegen die Gesellschaft gerichteten vollstreckbaren Schuldtitel findet die Zwangsvollstreckung gegen die Gesellschafter nicht statt.
+(2) Der Gesellschafter kann die Befriedigung des Gläubigers verweigern, solange der Gesellschaft in Ansehung der Verbindlichkeit das Recht zur Anfechtung oder Aufrechnung oder ein anderes Gestaltungsrecht, dessen Ausübung die Gesellschaft ihrerseits zur Leistungsverweigerung berechtigen würde, zusteht.
 
-# § 129a – (weggefallen)
+# § 129 – Zwangsvollstreckung gegen die Gesellschaft oder gegen ihre Gesellschafter
 
-\-
+(1) Zur Zwangsvollstreckung in das Vermögen der Gesellschaft ist ein gegen die Gesellschaft gerichteter Vollstreckungstitel erforderlich.
 
-# § 130
+(2) Aus einem gegen die Gesellschaft gerichteten Vollstreckungstitel findet die Zwangsvollstreckung gegen die Gesellschafter nicht statt.
 
-(1) Wer in eine bestehende Gesellschaft eintritt, haftet gleich den anderen Gesellschaftern nach Maßgabe der §§ 128 und 129 für die vor seinem Eintritte begründeten Verbindlichkeiten der Gesellschaft, ohne Unterschied, ob die Firma eine Änderung erleidet oder nicht.
+# § 130 – Gründe für das Ausscheiden; Zeitpunkt des Ausscheidens
 
-(2) Eine entgegenstehende Vereinbarung ist Dritten gegenüber unwirksam.
+(1) Folgende Gründe führen zum Ausscheiden eines Gesellschafters aus der Gesellschaft, sofern der Gesellschaftsvertrag für diese Fälle nicht die Auflösung der Gesellschaft vorsieht:
 
-# § 131
+1. Tod des Gesellschafters;
 
-(1) Die offene Handelsgesellschaft wird aufgelöst:
+2. Kündigung der Mitgliedschaft durch den Gesellschafter;
 
-1. durch den Ablauf der Zeit, für welche sie eingegangen ist;
+3. Eröffnung des Insolvenzverfahrens über das Vermögen des Gesellschafters;
 
-2. durch Beschluß der Gesellschafter;
+4. Kündigung der Mitgliedschaft durch einen Privatgläubiger des Gesellschafters;
 
-3. durch die Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft;
+5. gerichtliche Entscheidung über Ausschließungsklage.
 
-4. durch gerichtliche Entscheidung.
+(2) Im Gesellschaftsvertrag können weitere Gründe für das Ausscheiden eines Gesellschafters vereinbart werden.
 
-(2) Eine offene Handelsgesellschaft, bei der kein persönlich haftender Gesellschafter eine natürliche Person ist, wird ferner aufgelöst:
+(3) Der Gesellschafter scheidet mit Eintritt des ihn betreffenden Ausscheidensgrundes aus, im Fall der Kündigung der Mitgliedschaft aber nicht vor Ablauf der Kündigungsfrist und im Fall der gerichtlichen Entscheidung über die Ausschließungsklage nicht vor Rechtskraft des stattgebenden Urteils.
+
+(+++ § 130 Abs. 1 Nr. 3: Zur Anwendung vgl. § 179 +++)
+
+# § 131 – Fortsetzung mit dem Erben; Ausscheiden des Erben
+
+(1) Geht der Anteil eines verstorbenen Gesellschafters auf dessen Erben über, so kann jeder Erbe gegenüber den anderen Gesellschaftern antragen, dass ihm die Stellung eines Kommanditisten eingeräumt und der auf ihn entfallende Anteil des Erblassers als seine Kommanditeinlage anerkannt wird.
+
+(2) Nehmen die anderen Gesellschafter einen Antrag nach Absatz 1 nicht an, ist der Erbe befugt, seine Mitgliedschaft in der Gesellschaft ohne Einhaltung einer Kündigungsfrist zu kündigen.
+
+(3) Die Rechte nach den Absätzen 1 bis 2 können von dem Erben nur innerhalb von drei Monaten nach dem Zeitpunkt, zu dem er von dem Anfall der Erbschaft Kenntnis erlangt hat, geltend gemacht werden. Auf den Lauf der Frist ist § 210 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden. Ist bei Ablauf der drei Monate das Recht zur Ausschlagung der Erbschaft noch nicht verloren, endet die Frist nicht vor dem Ablauf der Ausschlagungsfrist.
+
+(4) Scheidet innerhalb der Frist des Absatzes 3 der Erbe aus der Gesellschaft aus oder wird innerhalb der Frist die Gesellschaft aufgelöst oder dem Erben die Stellung eines Kommanditisten eingeräumt, so haftet er für die bis dahin entstandenen Gesellschaftsverbindlichkeiten nur nach Maßgabe der Vorschriften des bürgerlichen Rechts, welche die Haftung des Erben für die Nachlassverbindlichkeiten betreffen.
+
+(5) Der Gesellschaftsvertrag kann die Anwendung der Vorschriften der Absätze 1 bis 4 nicht ausschließen. Jedoch kann für den Fall, dass der Erbe sein Verbleiben in der Gesellschaft von der Einräumung der Stellung eines Kommanditisten abhängig macht, sein Gewinnanteil anders als der des Erblassers bestimmt werden.
+
+# § 132 – Kündigung der Mitgliedschaft durch den Gesellschafter
+
+(1) Ist das Gesellschaftsverhältnis auf unbestimmte Zeit eingegangen, kann ein Gesellschafter seine Mitgliedschaft unter Einhaltung einer Frist von sechs Monaten zum Ablauf des Geschäftsjahres gegenüber der Gesellschaft kündigen.
+
+(2) Ist für das Gesellschaftsverhältnis eine Zeitdauer vereinbart, ist die Kündigung der Mitgliedschaft durch einen Gesellschafter vor dem Ablauf dieser Zeit zulässig, wenn ein wichtiger Grund vorliegt. Ein wichtiger Grund liegt insbesondere vor, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder grob fahrlässig verletzt hat oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
+
+(3) Liegt ein wichtiger Grund im Sinne von Absatz 2 Satz 2 vor, so ist eine Kündigung der Mitgliedschaft durch einen Gesellschafter stets ohne Einhaltung einer Kündigungsfrist zulässig.
+
+(4) Ein Gesellschafter kann seine Mitgliedschaft auch kündigen, wenn er volljährig geworden ist. Das Kündigungsrecht besteht nicht, wenn der Gesellschafter bezüglich des Gegenstands der Gesellschaft zum selbständigen Betrieb eines Erwerbsgeschäfts gemäß § 112 des Bürgerlichen Gesetzbuchs ermächtigt war oder der Zweck der Gesellschaft allein der Befriedigung seiner persönlichen Bedürfnisse diente. Der volljährig Gewordene kann die Kündigung nur binnen drei Monaten von dem Zeitpunkt an erklären, in welchem er von seiner Gesellschafterstellung Kenntnis hatte oder haben musste.
+
+(5) Die Kündigung darf nicht zur Unzeit geschehen, es sei denn, dass ein wichtiger Grund für die unzeitige Kündigung vorliegt. Kündigt ein Gesellschafter seine Mitgliedschaft dennoch ohne einen solchen Grund zur Unzeit, hat er der Gesellschaft den daraus entstehenden Schaden zu ersetzen.
+
+(6) Eine Vereinbarung im Gesellschaftsvertrag, welche das Kündigungsrecht nach den Absätzen 2 und 4 ausschließt oder diesen Vorschriften zuwider beschränkt, ist unwirksam.
+
+(+++ § 132: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)  
+(+++ § 132: Zur Anwendung vgl. § 234 +++)
+
+# § 133 – Kündigung der Mitgliedschaft durch einen Privatgläubiger des Gesellschafters
+
+Hat ein Privatgläubiger eines Gesellschafters, nachdem innerhalb der letzten sechs Monate eine Zwangsvollstreckung in das bewegliche Vermögen des Gesellschafters ohne Erfolg versucht wurde, aufgrund eines nicht bloß vorläufig vollstreckbaren Schuldtitels die Pfändung des Anteils des Gesellschafters an der Gesellschaft erwirkt, kann er dessen Mitgliedschaft gegenüber der Gesellschaft unter Einhaltung einer Frist von sechs Monaten zum Ablauf des Geschäftsjahrs kündigen.
+
+(+++ § 133: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)  
+(+++ § 133 Abs. 2: Zur Anwendung vgl. § 161 Abs. 1 Satz 3 KAGB +++)  
+(+++ § 133: Zur Anwendung vgl. § 234 +++)
+
+# § 134 – Gerichtliche Entscheidung über Ausschließungsklage
+
+Tritt in der Person eines Gesellschafters ein wichtiger Grund ein, kann auf Antrag der anderen Gesellschafter seine Ausschließung aus der Gesellschaft durch gerichtliche Entscheidung ausgesprochen werden, sofern im Gesellschaftsvertrag nichts anderes vereinbart ist. Ein wichtiger Grund liegt insbesondere vor, wenn der Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder grob fahrlässig verletzt hat oder wenn ihm die Erfüllung einer solchen Verpflichtung unmöglich wird. Der Klage steht nicht entgegen, dass nach der Ausschließung nur ein Gesellschafter verbleibt.
+
+(+++ § 133: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+
+# § 135 – Ansprüche des ausgeschiedenen Gesellschafters
+
+(1) Sofern im Gesellschaftsvertrag nichts anderes vereinbart ist, ist die Gesellschaft verpflichtet, den ausgeschiedenen Gesellschafter von der Haftung für die Verbindlichkeiten der Gesellschaft zu befreien und ihm eine dem Wert seines Anteils angemessene Abfindung zu zahlen. Sind Verbindlichkeiten der Gesellschaft noch nicht fällig, kann die Gesellschaft dem Ausgeschiedenen Sicherheit leisten, statt ihn von der Haftung nach § 126 zu befreien.
+
+(2) Im Fall des § 134 ist für die Ermittlung des Abfindungsanspruchs die Vermögenslage der Gesellschaft in dem Zeitpunkt maßgebend, in welchem die Ausschließungsklage erhoben ist.
+
+(3) Der Wert des Gesellschaftsanteils ist, soweit erforderlich, im Wege der Schätzung zu ermitteln.
+
+(+++ § 135: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+
+# § 136 – Haftung des ausgeschiedenen Gesellschafters für Fehlbetrag
+
+Reicht der Wert des Gesellschaftsvermögens zur Deckung der Verbindlichkeiten der Gesellschaft nicht aus, hat der ausgeschiedene Gesellschafter der Gesellschaft für den Fehlbetrag nach dem Verhältnis seines Anteils am Gewinn und Verlust aufzukommen.
+
+(+++ § 136: Zur Anwendung vgl. § 167 +++)
+
+# § 137 – Nachhaftung des ausgeschiedenen Gesellschafters
+
+(1) Scheidet ein Gesellschafter aus der Gesellschaft aus, so haftet er für deren bis dahin begründete Verbindlichkeiten, wenn sie vor Ablauf von fünf Jahren nach seinem Ausscheiden fällig sind und
+
+1. daraus Ansprüche gegen ihn in einer in § 197 Absatz 1 Nummer 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder
+
+2. eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts.
+
+Ist die Verbindlichkeit auf Schadensersatz gerichtet, haftet der ausgeschiedene Gesellschafter nach Satz 1 nur, wenn auch die zum Schadensersatz führende Verletzung vertraglicher oder gesetzlicher Pflichten vor dem Ausscheiden des Gesellschafters eingetreten ist. Die Frist beginnt, sobald der Gläubiger von dem Ausscheiden des Gesellschafters Kenntnis erlangt hat oder das Ausscheiden des Gesellschafters im Handelsregister eingetragen worden ist. Die §§ 204, 206, 210, 211 und 212 Absatz 2 und 3 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
+
+(2) Einer Feststellung in einer in § 197 Absatz 1 Nummer 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art bedarf es nicht, soweit der Gesellschafter den Anspruch schriftlich anerkannt hat.
+
+(3) Wird ein Gesellschafter Kommanditist, sind für die Begrenzung seiner Haftung für die im Zeitpunkt der Eintragung der Änderung in das Handelsregister begründeten Verbindlichkeiten die Absätze 1 und 2 entsprechend anzuwenden. Dies gilt auch, wenn er in der Gesellschaft oder einem ihr als Gesellschafter angehörenden Unternehmen geschäftsführend tätig wird. Seine Haftung als Kommanditist bleibt unberührt.
+
+# § 138 – Auflösungsgründe
+
+(1) Die Gesellschaft wird aufgelöst durch:
+
+1. Ablauf der Zeit, für welche sie eingegangen wurde;
+
+2. Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft;
+
+3. gerichtliche Entscheidung über den Antrag auf Auflösung;
+
+4. Auflösungsbeschluss.
+
+(2) Eine Gesellschaft, bei der kein persönlich haftender Gesellschafter eine natürliche Person ist, wird ferner aufgelöst:
 
 1. mit der Rechtskraft des Beschlusses, durch den die Eröffnung des Insolvenzverfahrens mangels Masse abgelehnt worden ist;
 
 2. durch die Löschung wegen Vermögenslosigkeit nach § 394 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
-Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere offene Handelsgesellschaft oder Kommanditgesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.
+Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere rechtsfähige Personengesellschaft gehört, bei der mindestens ein persönlich haftender Gesellschafter eine natürliche Person ist.
 
-(3) Folgende Gründe führen mangels abweichender vertraglicher Bestimmung zum Ausscheiden eines Gesellschafters:
+(3) Im Gesellschaftsvertrag können weitere Auflösungsgründe vereinbart werden.
 
-1. Tod des Gesellschafters,
+# § 139 – Auflösung durch gerichtliche Entscheidung
 
-2. Eröffnung des Insolvenzverfahrens über das Vermögen des Gesellschafters,
+(1) Auf Antrag eines Gesellschafters kann aus wichtigem Grund die Auflösung der Gesellschaft durch gerichtliche Entscheidung ausgesprochen werden, wenn ihm die Fortsetzung der Gesellschaft nicht zuzumuten ist. Ein wichtiger Grund liegt insbesondere vor, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder grob fahrlässig verletzt hat oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
 
-3. Kündigung des Gesellschafters,
+(2) Eine Vereinbarung im Gesellschaftsvertrag, welche das Recht des Gesellschafters, die Auflösung der Gesellschaft aus wichtigem Grund zu verlangen, ausschließt oder Absatz 1 zuwider beschränkt, ist unwirksam.
 
-4. Kündigung durch den Privatgläubiger des Gesellschafters,
+# § 140 – Auflösungsbeschluss
 
-5. Eintritt von weiteren im Gesellschaftsvertrag vorgesehenen Fällen,
+Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss ein Beschluss, der die Auflösung der Gesellschaft zum Gegenstand hat, mit einer Mehrheit von mindestens drei Viertel der abgegebenen Stimmen gefasst werden.
 
-6. Beschluß der Gesellschafter.
+# § 141 – Anmeldung der Auflösung
 
-Der Gesellschafter scheidet mit dem Eintritt des ihn betreffenden Ereignisses aus, im Falle der Kündigung aber nicht vor Ablauf der Kündigungsfrist.
+(1) Die Auflösung der Gesellschaft ist von sämtlichen Gesellschaftern zur Eintragung in das Handelsregister anzumelden. Dies gilt nicht in den Fällen der Eröffnung oder Ablehnung der Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft (§ 138 Absatz 1 Nummer 2 und § 138 Absatz 2 Satz 1 Nummer 1); dann hat das Gericht die Auflösung und ihren Grund von Amts wegen einzutragen. Im Fall der Löschung der Gesellschaft (§ 138 Absatz 2 Satz 1 Nummer 2) entfällt die Eintragung der Auflösung.
 
-# § 132
+(2) Ist aufgrund einer Vereinbarung im Gesellschaftsvertrag die Gesellschaft durch den Tod eines Gesellschafters aufgelöst, kann die Anmeldung der Auflösung der Gesellschaft ohne Mitwirkung der Erben erfolgen, sofern einer solchen Mitwirkung besondere Hindernisse entgegenstehen.
 
-Die Kündigung eines Gesellschafters kann, wenn die Gesellschaft für unbestimmte Zeit eingegangen ist, nur für den Schluß eines Geschäftsjahrs erfolgen; sie muß mindestens sechs Monate vor diesem Zeitpunkte stattfinden.
+# § 142 – Fortsetzung der Gesellschaft
 
-(+++ § 132: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+(1) Die Gesellschafter können nach Auflösung der Gesellschaft deren Fortsetzung beschließen, sobald der Auflösungsgrund beseitigt ist.
 
-# § 133
+(2) Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss der Beschluss über die Fortsetzung mit einer Mehrheit von mindestens drei Viertel der abgegebenen Stimmen gefasst werden.
 
-(1) Auf Antrag eines Gesellschafters kann die Auflösung der Gesellschaft vor dem Ablaufe der für ihre Dauer bestimmten Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft ohne Kündigung durch gerichtliche Entscheidung ausgesprochen werden, wenn ein wichtiger Grund vorliegt.
+(3) Die Fortsetzung ist von sämtlichen Gesellschaftern zur Eintragung in das Handelsregister anzumelden.
 
-(2) Ein solcher Grund ist insbesondere vorhanden, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder aus grober Fahrlässigkeit verletzt oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
+# § 143 – Notwendigkeit der Liquidation; anwendbare Vorschriften
 
-(3) Eine Vereinbarung, durch welche das Recht des Gesellschafters, die Auflösung der Gesellschaft zu verlangen, ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig.
+(1) Nach Auflösung der Gesellschaft findet die Liquidation statt, sofern nicht über das Vermögen der Gesellschaft das Insolvenzverfahren eröffnet ist. Ist die Gesellschaft durch Löschung wegen Vermögenslosigkeit aufgelöst, findet eine Liquidation nur statt, wenn sich nach der Löschung herausstellt, dass noch Vermögen vorhanden ist, das der Verteilung unterliegt.
 
-(+++ § 133: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)  
-(+++ § 133 Abs. 2: Zur Anwendung vgl. § 161 Abs. 1 Satz 3 KAGB +++)
+(2) Die Gesellschafter können anstelle der Liquidation eine andere Art der Abwicklung vereinbaren. Ist aufgrund einer Vereinbarung im Gesellschaftsvertrag die Gesellschaft durch die Kündigung eines Privatgläubigers eines Gesellschafters oder durch die Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters aufgelöst, bedarf eine Vereinbarung über eine andere Art der Abwicklung der Zustimmung des Privatgläubigers oder des Insolvenzverwalters; ist im Insolvenzverfahren Eigenverwaltung angeordnet, tritt an die Stelle der Zustimmung des Insolvenzverwalters die Zustimmung des Schuldners.
 
-# § 134
+(3) Die Liquidation erfolgt nach den folgenden Vorschriften dieses Titels, sofern sich nicht aus dem Gesellschaftsvertrag etwas anderes ergibt.
 
-Eine Gesellschaft, die für die Lebenszeit eines Gesellschafters eingegangen ist oder nach dem Ablaufe der für ihre Dauer bestimmten Zeit stillschweigend fortgesetzt wird, steht im Sinne der Vorschriften der §§ 132 und 133 einer für unbestimmte Zeit eingegangenen Gesellschaft gleich.
+# § 144 – Liquidatoren
 
-(+++ § 133: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+(1) Zur Liquidation sind alle Gesellschafter berufen.
 
-# § 135
+(2) Ist über das Vermögen eines Gesellschafters das Insolvenzverfahren eröffnet und ein Insolvenzverwalter bestellt worden, tritt dieser an die Stelle des Gesellschafters.
 
-Hat ein Privatgläubiger eines Gesellschafters, nachdem innerhalb der letzten sechs Monate eine Zwangsvollstreckung in das bewegliche Vermögen des Gesellschafters ohne Erfolg versucht ist, auf Grund eines nicht bloß vorläufig vollstreckbaren Schuldtitels die Pfändung und Überweisung des Anspruchs auf dasjenige erwirkt, was dem Gesellschafter bei der Auseinandersetzung zukommt, so kann er die Gesellschaft ohne Rücksicht darauf, ob sie für bestimmte oder unbestimmte Zeit eingegangen ist, sechs Monate vor dem Ende des Geschäftsjahrs für diesen Zeitpunkt kündigen.
+(3) Mehrere Erben eines Gesellschafters haben einen gemeinsamen Vertreter zu bestellen.
 
-(+++ § 135: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+(4) Durch Vereinbarung im Gesellschaftsvertrag oder durch Beschluss der Gesellschafter können auch einzelne Gesellschafter oder andere Personen zu Liquidatoren berufen werden.
 
-# §§ 136 bis 138 – (weggefallen)
+(5) Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, gilt dies im Zweifel nicht für die Berufung und Abberufung eines Liquidators.
 
-# § 139
+(+++ § 144 Abs. 1: Zur Anwendung vgl. § 178 +++)
 
-(1) Ist im Gesellschaftsvertrage bestimmt, daß im Falle des Todes eines Gesellschafters die Gesellschaft mit dessen Erben fortgesetzt werden soll, so kann jeder Erbe sein Verbleiben in der Gesellschaft davon abhängig machen, daß ihm unter Belassung des bisherigen Gewinnanteils die Stellung eines Kommanditisten eingeräumt und der auf ihn fallende Teil der Einlage des Erblassers als seine Kommanditeinlage anerkannt wird.
+# § 145 – Gerichtliche Berufung und Abberufung von Liquidatoren
 
-(2) Nehmen die übrigen Gesellschafter einen dahingehenden Antrag des Erben nicht an, so ist dieser befugt, ohne Einhaltung einer Kündigungsfrist sein Ausscheiden aus der Gesellschaft zu erklären.
+(1) Auf Antrag eines Beteiligten kann aus wichtigem Grund ein Liquidator durch das Gericht, in dessen Bezirk die Gesellschaft ihren Sitz hat, berufen und abberufen werden. Eine Vereinbarung im Gesellschaftsvertrag, welche dieses Recht ausschließt, ist unwirksam.
 
-(3) Die bezeichneten Rechte können von dem Erben nur innerhalb einer Frist von drei Monaten nach dem Zeitpunkt, in welchem er von dem Anfalle der Erbschaft Kenntnis erlangt hat, geltend gemacht werden. Auf den Lauf der Frist finden die für die Verjährung geltenden Vorschriften des § 210 des Bürgerlichen Gesetzbuchs entsprechende Anwendung. Ist bei dem Ablaufe der drei Monate das Recht zur Ausschlagung der Erbschaft noch nicht verloren, so endigt die Frist nicht vor dem Ablaufe der Ausschlagungsfrist.
+(2) Beteiligte sind:
 
-(4) Scheidet innerhalb der Frist des Absatzes 3 der Erbe aus der Gesellschaft aus oder wird innerhalb der Frist die Gesellschaft aufgelöst oder dem Erben die Stellung eines Kommanditisten eingeräumt, so haftet er für die bis dahin entstandenen Gesellschaftsschulden nur nach Maßgabe der die Haftung des Erben für die Nachlaßverbindlichkeiten betreffenden Vorschriften des bürgerlichen Rechtes.
+1. jeder Gesellschafter (§ 144 Absatz 1),
 
-(5) Der Gesellschaftsvertrag kann die Anwendung der Vorschriften der Absätze 1 bis 4 nicht ausschließen; es kann jedoch für den Fall, daß der Erbe sein Verbleiben in der Gesellschaft von der Einräumung der Stellung eines Kommanditisten abhängig macht, sein Gewinnanteil anders als der des Erblassers bestimmt werden.
+2. der Insolvenzverwalter über das Vermögen des Gesellschafters (§ 144 Absatz 2),
 
-# § 140
+3. der gemeinsame Vertreter (§ 144 Absatz 3) und
 
-(1) Tritt in der Person eines Gesellschafters ein Umstand ein, der nach § 133 für die übrigen Gesellschafter das Recht begründet, die Auflösung der Gesellschaft zu verlangen, so kann vom Gericht anstatt der Auflösung die Ausschließung dieses Gesellschafters aus der Gesellschaft ausgesprochen werden, sofern die übrigen Gesellschafter dies beantragen. Der Ausschließungsklage steht nicht entgegen, daß nach der Ausschließung nur ein Gesellschafter verbleibt.
+4. der Privatgläubiger des Gesellschafters, durch den die zur Auflösung der Gesellschaft führende Kündigung erfolgt ist (§ 143 Absatz 2 Satz 2).
 
-(2) Für die Auseinandersetzung zwischen der Gesellschaft und dem ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft in dem Zeitpunkte maßgebend, in welchem die Klage auf Ausschließung erhoben ist.
+(3) Gehört der Liquidator nicht zu den Gesellschaftern, hat er Anspruch auf Ersatz der erforderlichen Aufwendungen und auf Vergütung für seine Tätigkeit. Einigen sich der Liquidator und die Gesellschaft hierüber nicht, setzt das Gericht die Aufwendungen und die Vergütung fest. Gegen die Entscheidung ist die Beschwerde zulässig; die Rechtsbeschwerde ist ausgeschlossen. Aus der rechtskräftigen Entscheidung findet die Zwangsvollstreckung nach der Zivilprozessordnung statt.
 
-# §§ 141 und 142 – (weggefallen)
+# § 146 – Geschäftsführungs- und Vertretungsbefugnis der Liquidatoren
 
-# § 143
+(1) Mit der Auflösung erlischt die einem Gesellschafter im Gesellschaftsvertrag übertragene Befugnis zur Geschäftsführung und Vertretung. Diese Befugnis steht von der Auflösung an allen Liquidatoren gemeinsam zu.
 
-(1) Die Auflösung der Gesellschaft ist von sämtlichen Gesellschaftern zur Eintragung in das Handelsregister anzumelden. Dies gilt nicht in den Fällen der Eröffnung oder der Ablehnung der Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft (§ 131 Abs. 1 Nr. 3 und Abs. 2 Nr. 1). In diesen Fällen hat das Gericht die Auflösung und ihren Grund von Amts wegen einzutragen. Im Falle der Löschung der Gesellschaft (§ 131 Abs. 2 Nr. 2) entfällt die Eintragung der Auflösung.
+(2) Die bisherige Befugnis eines Gesellschafters zur Geschäftsführung gilt gleichwohl zu seinen Gunsten als fortbestehend, bis er von der Auflösung der Gesellschaft Kenntnis erlangt hat oder die Auflösung kennen muss.
 
-(2) Absatz 1 Satz 1 gilt entsprechend für das Ausscheiden eines Gesellschafters aus der Gesellschaft.
+# § 147 – Anmeldung der Liquidatoren
 
-(3) Ist anzunehmen, daß der Tod eines Gesellschafters die Auflösung oder das Ausscheiden zur Folge gehabt hat, so kann, auch ohne daß die Erben bei der Anmeldung mitwirken, die Eintragung erfolgen, soweit einer solchen Mitwirkung besondere Hindernisse entgegenstehen.
+(1) Die Liquidatoren und ihre Vertretungsbefugnis sind von sämtlichen Gesellschaftern zur Eintragung in das Handelsregister anzumelden. Das Gleiche gilt für jede Änderung in der Person des Liquidators oder in seiner Vertretungsbefugnis. Wenn im Fall des Todes eines Gesellschafters anzunehmen ist, dass die Anmeldung den Tatsachen entspricht, kann die Eintragung erfolgen, auch ohne dass die Erben bei der Anmeldung mitwirken, sofern einer solchen Mitwirkung besondere Hindernisse entgegenstehen.
 
-# § 144
-
-(1) Ist die Gesellschaft durch die Eröffnung des Insolvenzverfahrens über ihr Vermögen aufgelöst, das Verfahren aber auf Antrag des Schuldners eingestellt oder nach der Bestätigung eines Insolvenzplans, der den Fortbestand der Gesellschaft vorsieht, aufgehoben, so können die Gesellschafter die Fortsetzung der Gesellschaft beschließen.
-
-(2) Die Fortsetzung ist von sämtlichen Gesellschaftern zur Eintragung in das Handelsregister anzumelden.
-
-# § 145
-
-(1) Nach der Auflösung der Gesellschaft findet die Liquidation statt, sofern nicht eine andere Art der Auseinandersetzung von den Gesellschaftern vereinbart oder über das Vermögen der Gesellschaft das Insolvenzverfahren eröffnet ist.
-
-(2) Ist die Gesellschaft durch Kündigung des Gläubigers eines Gesellschafters oder durch die Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters aufgelöst, so kann die Liquidation nur mit Zustimmung des Gläubigers oder des Insolvenzverwalters unterbleiben; ist im Insolvenzverfahren Eigenverwaltung angeordnet, so tritt an die Stelle der Zustimmung des Insolvenzverwalters die Zustimmung des Schuldners.
-
-(3) Ist die Gesellschaft durch Löschung wegen Vermögenslosigkeit aufgelöst, so findet eine Liquidation nur statt, wenn sich nach der Löschung herausstellt, daß Vermögen vorhanden ist, das der Verteilung unterliegt.
-
-# § 146
-
-(1) Die Liquidation erfolgt, sofern sie nicht durch Beschluß der Gesellschafter oder durch den Gesellschaftsvertrag einzelnen Gesellschaftern oder anderen Personen übertragen ist, durch sämtliche Gesellschafter als Liquidatoren. Mehrere Erben eines Gesellschafters haben einen gemeinsamen Vertreter zu bestellen.
-
-(2) Auf Antrag eines Beteiligten kann aus wichtigen Gründen die Ernennung von Liquidatoren durch das Gericht erfolgen, in dessen Bezirke die Gesellschaft ihren Sitz hat; das Gericht kann in einem solchen Falle Personen zu Liquidatoren ernennen, die nicht zu den Gesellschaftern gehören. Als Beteiligter gilt außer den Gesellschaftern im Falle des § 135 auch der Gläubiger, durch den die Kündigung erfolgt ist. Im Falle des § 145 Abs. 3 sind die Liquidatoren auf Antrag eines Beteiligten durch das Gericht zu ernennen.
-
-(3) Ist über das Vermögen eines Gesellschafters das Insolvenzverfahren eröffnet und ist ein Insolvenzverwalter bestellt, so tritt dieser an die Stelle des Gesellschafters.
-
-# § 147
-
-Die Abberufung von Liquidatoren geschieht durch einstimmigen Beschluß der nach § 146 Abs. 2 und 3 Beteiligten; sie kann auf Antrag eines Beteiligten aus wichtigen Gründen auch durch das Gericht erfolgen.
+(2) Die Eintragung gerichtlich berufener Liquidatoren sowie die Eintragung der gerichtlichen Abberufung von Liquidatoren geschieht von Amts wegen.
 
 (+++ § 147: Zur Anwendung vgl. § 129 Abs. 2 Satz 2 KAGB u. § 154 Abs. 2 Nr. 2 KAGB +++)
 
-# § 148
+# § 148 – Rechtsstellung der Liquidatoren
 
-(1) Die Liquidatoren und ihre Vertretungsmacht sind von sämtlichen Gesellschaftern zur Eintragung in das Handelsregister anzumelden. Das gleiche gilt von jeder Änderung in den Personen der Liquidatoren oder in ihrer Vertretungsmacht. Im Falle des Todes eines Gesellschafters kann, wenn anzunehmen ist, daß die Anmeldung den Tatsachen entspricht, die Eintragung erfolgen, auch ohne daß die Erben bei der Anmeldung mitwirken, soweit einer solchen Mitwirkung besondere Hindernisse entgegenstehen.
+(1) Die Liquidatoren haben, auch wenn sie vom Gericht berufen sind, den Weisungen Folge zu leisten, welche die Beteiligten in Bezug auf die Geschäftsführung beschließen. Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, bedarf der Beschluss der Zustimmung der Beteiligten nach § 145 Absatz 2 Nummer 2 und 4.
 
-(2) Die Eintragung gerichtlich bestellter Liquidatoren sowie die Eintragung der gerichtlichen Abberufung von Liquidatoren geschieht von Amts wegen.
+(2) Die Liquidatoren haben die laufenden Geschäfte zu beendigen, die Forderungen der Gesellschaft einzuziehen und das übrige Vermögen in Geld umzusetzen. Zur Beendigung der laufenden Geschäfte können die Liquidatoren auch neue Geschäfte eingehen.
 
-(3) (weggefallen)
+(3) Die Liquidatoren haben bei Abgabe ihrer Unterschrift der Firma einen Liquidationszusatz beizufügen. Dies gilt entsprechend für die Pflicht nach § 125.
 
-# § 149
+(4) Die Liquidatoren haben gegenüber den nach § 145 Absatz 2 Beteiligten zur Ermittlung des zu verteilenden Gesellschaftsvermögens bei Beginn und Beendigung der Liquidation eine Bilanz aufzustellen. Die Pflichten zur Buchführung (§§ 238 bis 241a) und Jahresrechnungslegung (§§ 242 bis 256a) bleiben unberührt.
 
-Die Liquidatoren haben die laufenden Geschäfte zu beendigen, die Forderungen einzuziehen, das übrige Vermögen in Geld umzusetzen und die Gläubiger zu befriedigen; zur Beendigung schwebender Geschäfte können sie auch neue Geschäfte eingehen. Die Liquidatoren vertreten innerhalb ihres Geschäftskreises die Gesellschaft gerichtlich und außergerichtlich.
+(5) Aus dem Vermögen der Gesellschaft sind zunächst die Gläubiger der Gesellschaft zu befriedigen. Ist eine Verbindlichkeit noch nicht fällig oder ist sie streitig, ist das zur Berichtigung der Verbindlichkeit Erforderliche zurückzubehalten.
 
-# § 150
+(6) Aus dem nach der Berichtigung der Verbindlichkeiten verbleibenden Gesellschaftsvermögen sind die geleisteten Beiträge zurückzuerstatten. Für Beiträge, die nicht in Geld bestanden haben, ist der Wert zu ersetzen, den sie zur Zeit der Einbringung gehabt haben. Für Beiträge, die in der Leistung von Diensten oder in der Überlassung der Benutzung eines Gegenstands bestanden haben, kann im Zweifel kein Ersatz verlangt werden.
 
-(1) Sind mehrere Liquidatoren vorhanden, so können sie die zur Liquidation gehörenden Handlungen nur in Gemeinschaft vornehmen, sofern nicht bestimmt ist, daß sie einzeln handeln können.
+(7) Das während der Liquidation entbehrliche Geld wird unter Berücksichtigung der den Gesellschaftern bei der Schlussverteilung zukommenden Beträge vorläufig verteilt.
 
-(2) Durch die Vorschrift des Absatzes 1 wird nicht ausgeschlossen, daß die Liquidatoren einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen. Ist der Gesellschaft gegenüber eine Willenserklärung abzugeben, so findet die Vorschrift des § 125 Abs. 2 Satz 3 entsprechende Anwendung.
+(8) Das nach Berichtigung der Verbindlichkeiten und Rückerstattung der Beiträge verbleibende Vermögen der Gesellschaft ist unter den Gesellschaftern nach dem Verhältnis ihrer Kapitalanteile, wie sie sich aufgrund der Schlussbilanz im Sinne von Absatz 4 ergeben, schließlich zu verteilen.
 
-# § 151
+# § 149 – Haftung des Gesellschafters für Fehlbetrag
 
-Eine Beschränkung des Umfanges der Befugnisse der Liquidatoren ist Dritten gegenüber unwirksam.
+Reicht das Gesellschaftsvermögen zur Berichtigung der Verbindlichkeiten und zur Rückerstattung der Beiträge nicht aus, haben die Gesellschafter der Gesellschaft für den Fehlbetrag nach dem Verhältnis ihrer Kapitalanteile aufzukommen. Kann von einem Gesellschafter der auf ihn entfallende Betrag nicht erlangt werden, haben die anderen Gesellschafter den Ausfall nach dem gleichen Verhältnis zu tragen.
 
-# § 152
+(+++ § 149: Zur Anwendung vgl. § 167 +++)
 
-Gegenüber den nach § 146 Abs. 2 und 3 Beteiligten haben die Liquidatoren, auch wenn sie vom Gerichte bestellt sind, den Anordnungen Folge zu leisten, welche die Beteiligten in betreff der Geschäftsführung einstimmig beschließen.
+# § 150 – Anmeldung des Erlöschens der Firma
 
-# § 153
+Nach der Beendigung der Liquidation ist das Erlöschen der Firma von sämtlichen Liquidatoren zur Eintragung in das Handelsregister anzumelden.
 
-Die Liquidatoren haben ihre Unterschrift in der Weise abzugeben, daß sie der bisherigen, als Liquidationsfirma zu bezeichnenden Firma ihren Namen beifügen.
+# § 151 – Verjährung von Ansprüchen aus der Gesellschafterhaftung
 
-# § 154
+(1) Ist die Gesellschaft durch Liquidation oder auf andere Weise erloschen, verjähren Ansprüche gegen einen Gesellschafter aus Verbindlichkeiten der Gesellschaft in fünf Jahren, sofern nicht der Anspruch gegen die Gesellschaft einer kürzeren Verjährung unterliegt.
 
-Die Liquidatoren haben bei dem Beginne sowie bei der Beendigung der Liquidation eine Bilanz aufzustellen.
+(2) Die Verjährung beginnt abweichend von § 199 Absatz 1 des Bürgerlichen Gesetzbuchs, sobald der Gläubiger von dem Erlöschen der Firma Kenntnis erlangt hat oder das Erlöschen der Firma im Handelsregister eingetragen worden ist.
 
-# § 155
+(3) Beginnt die Verjährung des Anspruchs gegen die Gesellschaft neu oder wird die Verjährung des Anspruchs gegenüber der Gesellschaft nach den §§ 203, 204, 205 oder 206 des Bürgerlichen Gesetzbuchs gehemmt, wirkt dies auch gegenüber den Gesellschaftern, die der Gesellschaft zur Zeit des Erlöschens angehört haben.
 
-(1) Das nach Berichtigung der Schulden verbleibende Vermögen der Gesellschaft ist von den Liquidatoren nach dem Verhältnisse der Kapitalanteile, wie sie sich auf Grund der Schlußbilanz ergeben, unter die Gesellschafter zu verteilen.
+# § 152 – Aufbewahrung der Geschäftsunterlagen; Einsicht in die Geschäftsunterlagen
 
-(2) Das während der Liquidation entbehrliche Geld wird vorläufig verteilt. Zur Deckung noch nicht fälliger oder streitiger Verbindlichkeiten sowie zur Sicherung der den Gesellschaftern bei der Schlußverteilung zukommenden Beträge ist das Erforderliche zurückzubehalten. Die Vorschriften des § 122 Abs. 1 finden während der Liquidation keine Anwendung.
+(1) Die Geschäftsunterlagen der aufgelösten Gesellschaft werden einem der Gesellschafter oder einem Dritten in Verwahrung gegeben. In Ermangelung einer Verständigung wird der Gesellschafter oder der Dritte durch das Gericht bestimmt, in dessen Bezirk die Gesellschaft ihren Sitz hat.
 
-(3) Entsteht über die Verteilung des Gesellschaftsvermögens Streit unter den Gesellschaftern, so haben die Liquidatoren die Verteilung bis zur Entscheidung des Streites auszusetzen.
+(2) Die Gesellschafter und deren Erben behalten das Recht auf Einsicht und Benutzung der Geschäftsunterlagen.
 
-# § 156
+# §§ 153 bis 160 – ----
 
-Bis zur Beendigung der Liquidation kommen in bezug auf das Rechtsverhältnis der bisherigen Gesellschafter untereinander sowie der Gesellschaft zu Dritten die Vorschriften des zweiten und dritten Titels zur Anwendung, soweit sich nicht aus dem gegenwärtigen Titel oder aus dem Zwecke der Liquidation ein anderes ergibt.
-
-# § 157
-
-(1) Nach der Beendigung der Liquidation ist das Erlöschen der Firma von den Liquidatoren zur Eintragung in das Handelsregister anzumelden.
-
-(2) Die Bücher und Papiere der aufgelösten Gesellschaft werden einem der Gesellschafter oder einem Dritten in Verwahrung gegeben. Der Gesellschafter oder der Dritte wird in Ermangelung einer Verständigung durch das Gericht bestimmt, in dessen Bezirke die Gesellschaft ihren Sitz hat.
-
-(3) Die Gesellschafter und deren Erben behalten das Recht auf Einsicht und Benutzung der Bücher und Papiere.
-
-# § 158
-
-Vereinbaren die Gesellschafter statt der Liquidation eine andere Art der Auseinandersetzung, so finden, solange noch ungeteiltes Gesellschaftvermögen vorhanden ist, im Verhältnisse zu Dritten die für die Liquidation geltenden Vorschriften entsprechende Anwendung.
-
-§ 158 Kursivdruck: Müsste richtig "Gesellschaftsvermögen" lauten
-
-# § 159
-
-(1) Die Ansprüche gegen einen Gesellschafter aus Verbindlichkeiten der Gesellschaft verjähren in fünf Jahren nach der Auflösung der Gesellschaft, sofern nicht der Anspruch gegen die Gesellschaft einer kürzeren Verjährung unterliegt.
-
-(2) Die Verjährung beginnt mit dem Ende des Tages, an welchem die Auflösung der Gesellschaft in das Handelsregister des für den Sitz der Gesellschaft zuständigen Gerichts eingetragen wird.
-
-(3) Wird der Anspruch des Gläubigers gegen die Gesellschaft erst nach der Eintragung fällig, so beginnt die Verjährung mit dem Zeitpunkte der Fälligkeit.
-
-(4) Der Neubeginn der Verjährung und ihre Hemmung nach § 204 des Bürgerlichen Gesetzbuchs gegenüber der aufgelösten Gesellschaft wirken auch gegenüber den Gesellschaftern, die der Gesellschaft zur Zeit der Auflösung angehört haben.
-
-# § 160
-
-(1) Scheidet ein Gesellschafter aus der Gesellschaft aus, so haftet er für ihre bis dahin begründeten Verbindlichkeiten, wenn sie vor Ablauf von fünf Jahren nach dem Ausscheiden fällig und daraus Ansprüche gegen ihn in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts. Die Frist beginnt mit dem Ende des Tages, an dem das Ausscheiden in das Handelsregister des für den Sitz der Gesellschaft zuständigen Gerichts eingetragen wird. Die für die Verjährung geltenden §§ 204, 206, 210, 211 und 212 Abs. 2 und 3 des Bürgerlichen Gesetzbuches sind entsprechend anzuwenden.
-
-(2) Einer Feststellung in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art bedarf es nicht, soweit der Gesellschafter den Anspruch schriftlich anerkannt hat.
-
-(3) Wird ein Gesellschafter Kommanditist, so sind für die Begrenzung seiner Haftung für die im Zeitpunkt der Eintragung der Änderung in das Handelsregister begründeten Verbindlichkeiten die Absätze 1 und 2 entsprechend anzuwenden. Dies gilt auch, wenn er in der Gesellschaft oder einem ihr als Gesellschafter angehörenden Unternehmen geschäftsführend tätig wird. Seine Haftung als Kommanditist bleibt unberührt.
+(+++ §§ 153 bis 160: Weggefallen aufgrund Neuregelung gem. Art. 51 Nr. 3 G v. 10.8.2021 I 3436 mWv 1.1.2024 +++)
 
 # § 161
 
-(1) Eine Gesellschaft, deren Zweck auf den Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, ist eine Kommanditgesellschaft, wenn bei einem oder bei einigen von den Gesellschaftern die Haftung gegenüber den Gesellschaftsgläubigern auf den Betrag einer bestimmten Vermögenseinlage beschränkt ist (Kommanditisten), während bei dem anderen Teile der Gesellschafter eine Beschränkung der Haftung nicht stattfindet (persönlich haftende Gesellschafter).
+(1) Eine Gesellschaft, deren Zweck auf den Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, ist eine Kommanditgesellschaft, wenn bei einem oder bei einigen von den Gesellschaftern die Haftung gegenüber den Gesellschaftsgläubigern auf einen bestimmten Betrag (Haftsumme) beschränkt ist (Kommanditisten), während bei dem anderen Teile der Gesellschafter eine Beschränkung der Haftung nicht stattfindet (persönlich haftende Gesellschafter).
 
-(2) Soweit nicht in diesem Abschnitt ein anderes vorgeschrieben ist, finden auf die Kommanditgesellschaft die für die offene Handelsgesellschaft geltenden Vorschriften Anwendung.
+(2) Soweit nicht in diesem Abschnitt ein anderes vorgeschrieben ist, finden auf die Kommanditgesellschaft die für die offene Handelsgesellschaft geltenden Vorschriften entsprechende Anwendung.
 
 # § 162
 
-(1) Die Anmeldung der Gesellschaft hat außer den in § 106 Abs. 2 vorgesehenen Angaben die Bezeichnung der Kommanditisten und den Betrag der Einlage eines jeden von ihnen zu enthalten. Ist eine Gesellschaft bürgerlichen Rechts Kommanditist, so sind auch deren Gesellschafter entsprechend § 106 Abs. 2 und spätere Änderungen in der Zusammensetzung der Gesellschafter zur Eintragung anzumelden.
+(1) Die Anmeldung der Gesellschaft hat außer den in § 106 Abs. 2 vorgesehenen Angaben die Bezeichnung der Kommanditisten und den Betrag der Haftsumme eines jeden von ihnen zu enthalten.
 
 (2) Diese Vorschriften finden im Falle des Eintritts eines Kommanditisten in eine bestehende Handelsgesellschaft und im Falle des Ausscheidens eines Kommanditisten aus einer Kommanditgesellschaft entsprechende Anwendung.
 
@@ -1391,65 +1471,59 @@ Vereinbaren die Gesellschafter statt der Liquidation eine andere Art der Auseina
 
 Für das Verhältnis der Gesellschafter untereinander gelten in Ermangelung abweichender Bestimmungen des Gesellschaftsvertrags die besonderen Vorschriften der §§ 164 bis 169.
 
-# § 164
+# § 164 – Geschäftsführungsbefugnis
 
-Die Kommanditisten sind von der Führung der Geschäfte der Gesellschaft ausgeschlossen; sie können einer Handlung der persönlich haftenden Gesellschafter nicht widersprechen, es sei denn, daß die Handlung über den gewöhnlichen Betrieb des Handelsgewerbes der Gesellschaft hinausgeht. Die Vorschriften des § 116 Abs. 3 bleiben unberührt.
+Die Kommanditisten sind von der Geschäftsführungsbefugnis ausgeschlossen; § 116 Absatz 2 Satz 1 bleibt unberührt.
 
 # § 165
 
-Die §§ 112 und 113 finden auf die Kommanditisten keine Anwendung.
+Die §§ 117 und 118 finden auf die Kommanditisten keine Anwendung.
 
-# § 166
+# § 166 – Informationsrecht der Kommanditisten
 
-(1) Der Kommanditist ist berechtigt, die abschriftliche Mitteilung des Jahresabschlusses zu verlangen und dessen Richtigkeit unter Einsicht der Bücher und Papiere zu prüfen.
+(1) Der Kommanditist kann von der Gesellschaft eine Abschrift des Jahresabschlusses (§ 242 Absatz 3) verlangen und zu dessen Überprüfung Einsicht in die zugehörigen Geschäftsunterlagen nehmen. Daneben kann er von der Gesellschaft Auskunft über die Gesellschaftsangelegenheiten verlangen, soweit dies zur Wahrnehmung seiner Mitgliedschaftsrechte erforderlich ist, insbesondere, wenn Grund zu der Annahme unredlicher Geschäftsführung besteht.
 
-(2) Die in § 118 dem von der Geschäftsführung ausgeschlossenen Gesellschafter eingeräumten weiteren Rechte stehen dem Kommanditisten nicht zu.
+(2) Eine Vereinbarung im Gesellschaftsvertrag, welche diese Rechte ausschließt oder dieser Vorschrift zuwider beschränkt, ist unwirksam.
 
-(3) Auf Antrag eines Kommanditisten kann das Gericht, wenn wichtige Gründe vorliegen, die Mitteilung einer Bilanz und eines Jahresabschlusses oder sonstiger Aufklärungen sowie die Vorlegung der Bücher und Papiere jederzeit anordnen.
+(+++ § 166: Zur Anwendung vgl. § 233 +++)
 
-# § 167
+# § 167 – Verlustbeteiligung
 
-(1) Die Vorschriften des § 120 über die Berechnung des Gewinns oder Verlustes gelten auch für den Kommanditisten.
+Soweit der Kommanditist die vereinbarte Einlage geleistet hat, sind die §§ 136 und 149 auf ihn nicht anzuwenden.
 
-(2) Jedoch wird der einem Kommanditisten zukommende Gewinn seinem Kapitalanteil nur so lange zugeschrieben, als dieser den Betrag der bedungenen Einlage nicht erreicht.
+# § 168 – (weggefallen)
 
-(3) An dem Verluste nimmt der Kommanditist nur bis zum Betrage seines Kapitalanteils und seiner noch rückständigen Einlage teil.
-
-# § 168
-
-(1) Die Anteile der Gesellschafter am Gewinne bestimmen sich, soweit der Gewinn den Betrag von vier vom Hundert der Kapitalanteile nicht übersteigt, nach den Vorschriften des § 121 Abs. 1 und 2.
-
-(2) In Ansehung des Gewinns, welcher diesen Betrag übersteigt, sowie in Ansehung des Verlustes gilt, soweit nicht ein anderes vereinbart ist, ein den Umständen nach angemessenes Verhältnis der Anteile als bedungen.
+(+++ § 168: Weggefallen aufgrund Neuregelung gem. Art. 51 Nr. 8 G v. 10.8.2021 I 3436 mWv 1.1.2024 +++)
 
 # § 169
 
-(1) § 122 findet auf den Kommanditisten keine Anwendung. Dieser hat nur Anspruch auf Auszahlung des ihm zukommenden Gewinns; er kann auch die Auszahlung des Gewinns nicht fordern, solange sein Kapitalanteil durch Verlust unter den auf die bedungene Einlage geleisteten Betrag herabgemindert ist oder durch die Auszahlung unter diesen Betrag herabgemindert werden würde.
+(1) Der Kommanditist kann die Auszahlung des Gewinns nicht fordern, soweit sein Kapitalanteil durch den ihm zugewiesenen Verlust unter den auf die vereinbarte Einlage geleisteten Betrag herabgemindert ist oder durch die Auszahlung des Gewinns unter diesen Betrag herabgemindert werden würde.
 
 (2) Der Kommanditist ist nicht verpflichtet, den bezogenen Gewinn wegen späterer Verluste zurückzuzahlen.
 
-# § 170
+# § 170 – Vertretung der Kommanditgesellschaft
 
-Der Kommanditist ist zur Vertretung der Gesellschaft nicht ermächtigt.
+(1) Der Kommanditist ist als solcher nicht befugt, die Gesellschaft zu vertreten.
+
+(2) Sofern der einzig persönlich haftende Gesellschafter der Gesellschaft eine Kapitalgesellschaft ist, an der die Gesellschaft sämtliche Anteile hält, werden vorbehaltlich einer abweichenden Vereinbarung die Rechte in der Gesellschafterversammlung der Kapitalgesellschaft von den Kommanditisten wahrgenommen.
 
 # § 171
 
-(1) Der Kommanditist haftet den Gläubigern der Gesellschaft bis zur Höhe seiner Einlage unmittelbar; die Haftung ist ausgeschlossen, soweit die Einlage geleistet ist.
+(1) Der Kommanditist haftet den Gläubigern der Gesellschaft bis zur Höhe seiner Haftsumme unmittelbar; die Haftung ist ausgeschlossen, soweit die vereinbarte Einlage geleistet ist.
 
 (2) Ist über das Vermögen der Gesellschaft das Insolvenzverfahren eröffnet, so wird während der Dauer des Verfahrens das den Gesellschaftsgläubigern nach Absatz 1 zustehende Recht durch den Insolvenzverwalter oder den Sachwalter ausgeübt.
 
 # § 172
 
-(1) Im Verhältnisse zu den Gläubigern der Gesellschaft wird nach der Eintragung in das Handelsregister die Einlage eines Kommanditisten durch den in der Eintragung angegebenen Betrag bestimmt.
+(1) Im Verhältnisse zu den Gläubigern der Gesellschaft wird nach der Eintragung in das Handelsregister die Haftsumme eines Kommanditisten durch den in der Eintragung angegebenen Betrag bestimmt.
 
-(2) Auf eine nicht eingetragene Erhöhung der aus dem Handelsregister ersichtlichen Einlage können sich die Gläubiger nur berufen, wenn die Erhöhung in handelsüblicher Weise kundgemacht oder ihnen in anderer Weise von der Gesellschaft mitgeteilt worden ist.
+(2) Auf eine nicht eingetragene Erhöhung der aus dem Handelsregister ersichtlichen Haftsumme können sich die Gläubiger nur berufen, wenn die Erhöhung in handelsüblicher Weise kundgemacht oder ihnen in anderer Weise von der Gesellschaft mitgeteilt worden ist.
 
 (3) Eine Vereinbarung der Gesellschafter, durch die einem Kommanditisten die Einlage erlassen oder gestundet wird, ist den Gläubigern gegenüber unwirksam.
 
-(4) Soweit die Einlage eines Kommanditisten zurückbezahlt wird, gilt sie den Gläubigern gegenüber als nicht geleistet. Das gleiche gilt, soweit ein Kommanditist Gewinnanteile entnimmt, während sein Kapitalanteil durch Verlust unter den Betrag der geleisteten Einlage herabgemindert ist, oder soweit durch die Entnahme der Kapitalanteil unter den bezeichneten Betrag herabgemindert wird. Bei der Berechnung des Kapitalanteils nach Satz 2 sind Beträge im Sinn des § 268 Abs. 8 nicht zu berücksichtigen.
+(4) Soweit die Einlage eines Kommanditisten zurückbezahlt wird, gilt sie den Gläubigern gegenüber als nicht geleistet. Das gleiche gilt, soweit ein Kommanditist Gewinnanteile entnimmt, während sein Kapitalanteil durch Verlust unter den Betrag der Haftsumme herabgemindert ist, oder soweit durch die Entnahme der Kapitalanteil unter den bezeichneten Betrag herabgemindert wird. Bei der Berechnung des Kapitalanteils nach Satz 2 sind Beträge im Sinne der §§ 253 Absatz 6 Satz 2 und 268 Absatz 8 nicht zu berücksichtigen.
 
-(5) Was ein Kommanditist auf Grund einer in gutem Glauben errichteten Bilanz in gutem Glauben als Gewinn bezieht, ist er in keinem Falle zurückzuzahlen verpflichtet.
-
-(6) Gegenüber den Gläubigern einer Gesellschaft, bei der kein persönlich haftender Gesellschafter eine natürliche Person ist, gilt die Einlage eines Kommanditisten als nicht geleistet, soweit sie in Anteilen an den persönlich haftenden Gesellschaftern bewirkt ist. Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine offene Handelsgesellschaft oder Kommanditgesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.
+(5) Gegenüber den Gläubigern einer Gesellschaft, bei der kein persönlich haftender Gesellschafter eine natürliche Person ist, gilt die Einlage eines Kommanditisten als nicht geleistet, soweit sie in Anteilen an den persönlich haftenden Gesellschaftern bewirkt ist. Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine offene Handelsgesellschaft oder Kommanditgesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.
 
 # § 172a – (weggefallen)
 
@@ -1463,17 +1537,17 @@ Der Kommanditist ist zur Vertretung der Gesellschaft nicht ermächtigt.
 
 # § 174
 
-Eine Herabsetzung der Einlage eines Kommanditisten ist, solange sie nicht in das Handelsregister des Gerichts, in dessen Bezirke die Gesellschaft ihren Sitz hat, eingetragen ist, den Gläubigern gegenüber unwirksam; Gläubiger, deren Forderungen zur Zeit der Eintragung begründet waren, brauchen die Herabsetzung nicht gegen sich gelten zu lassen.
+Eine Herabsetzung der Haftsumme eines Kommanditisten ist, solange sie nicht in das Handelsregister des Gerichts, in dessen Bezirke die Gesellschaft ihren Sitz hat, eingetragen ist, den Gläubigern gegenüber unwirksam; Gläubiger, deren Forderungen zur Zeit der Eintragung begründet waren, brauchen die Herabsetzung nicht gegen sich gelten zu lassen.
 
-# § 175
+# § 175 – Anmeldung der Änderung der Haftsumme
 
-Die Erhöhung sowie die Herabsetzung einer Einlage ist durch die sämtlichen Gesellschafter zur Eintragung in das Handelsregister anzumelden. Auf die Eintragung in das Handelsregister des Sitzes der Gesellschaft finden die Vorschriften des § 14 keine Anwendung.
+Die Erhöhung sowie die Herabsetzung einer Haftsumme ist durch sämtliche Gesellschafter zur Eintragung in das Handelsregister anzumelden.
 
 # § 176
 
-(1) Hat die Gesellschaft ihre Geschäfte begonnen, bevor sie in das Handelsregister des Gerichts, in dessen Bezirke sie ihren Sitz hat, eingetragen ist, so haftet jeder Kommanditist, der dem Geschäftsbeginne zugestimmt hat, für die bis zur Eintragung begründeten Verbindlichkeiten der Gesellschaft gleich einem persönlich haftenden Gesellschafter, es sei denn, daß seine Beteiligung als Kommanditist dem Gläubiger bekannt war. Diese Vorschrift kommt nicht zur Anwendung, soweit sich aus § 2 oder § 105 Abs. 2 ein anderes ergibt.
+(1) Hat die Gesellschaft, deren Zweck auf den Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, am Rechtsverkehr teilgenommen, bevor sie in das Handelsregister eingetragen ist, haftet jeder Kommanditist, der der Teilnahme am Rechtsverkehr zugestimmt hat, für die bis zur Eintragung begründeten Verbindlichkeiten der Gesellschaft gleich einem persönlich haftenden Gesellschafter, es sei denn, dass seine Beteiligung als Kommanditist dem Gläubiger bekannt war.
 
-(2) Tritt ein Kommanditist in eine bestehende Handelsgesellschaft ein, so findet die Vorschrift des Absatzes 1 Satz 1 für die in der Zeit zwischen seinem Eintritt und dessen Eintragung in das Handelsregister begründeten Verbindlichkeiten der Gesellschaft entsprechende Anwendung.
+(2) Tritt ein weiterer Gesellschafter als Kommanditist in eine bestehende Handelsgesellschaft ein, ist Absatz 1 für die in der Zeit zwischen seinem Eintritt und dessen Eintragung in das Handelsregister begründeten Verbindlichkeiten entsprechend anzuwenden.
 
 # § 177
 
@@ -1481,9 +1555,23 @@ Beim Tod eines Kommanditisten wird die Gesellschaft mangels abweichender vertrag
 
 # § 177a
 
-§ 125a gilt auch für die Gesellschaft, bei der ein Kommanditist eine natürliche Person ist. Der in § 125a Absatz 1 Satz 2 für die Gesellschafter vorgeschriebenen Angaben bedarf es nur für die persönlich haftenden Gesellschafter der Gesellschaft.
+§ 125 gilt auch für die Gesellschaft, bei der ein Kommanditist eine natürliche Person ist. Der in § 125 Absatz 1 Satz 2 für die Gesellschafter vorgeschriebenen Angaben bedarf es nur für die persönlich haftenden Gesellschafter der Gesellschaft.
 
-# §§ 178 bis 229 – (weggefallen)
+# § 178 – Liquidation der Kommanditgesellschaft
+
+§ 144 Absatz 1 findet auf die Kommanditisten keine Anwendung.
+
+# § 179 – Insolvenz der Kommanditgesellschaft
+
+§ 130 Absatz 1 Nummer 3 findet keine Anwendung, wenn der Gesellschafter, über dessen Vermögen das Insolvenzverfahren eröffnet worden ist, der einzige persönlich haftende Gesellschafter der Kommanditgesellschaft ist und
+
+1. über das Vermögen der Kommanditgesellschaft das Insolvenzverfahren eröffnet ist oder
+
+2. die Voraussetzungen für die Eröffnung des Insolvenzverfahrens über das Vermögen der Kommanditgesellschaft erfüllt sind und ein Antrag auf die Eröffnung des Insolvenzverfahrens gestellt ist.
+
+Wird im Falle des Satzes 1 Nummer 2 der Antrag auf Eröffnung des Insolvenzverfahrens mangels Masse abgewiesen, treten die Wirkungen des § 130 Absatz 1 Nummer 3 mit dem Eintritt der Rechtskraft der Abweisungsentscheidung ein.
+
+# §§ 180 bis 229 – (weggefallen)
 
 # § 230
 
@@ -1505,17 +1593,13 @@ Beim Tod eines Kommanditisten wird die Gesellschaft mangels abweichender vertrag
 
 (3) Der Gewinn, welcher von dem stillen Gesellschafter nicht erhoben wird, vermehrt dessen Einlage nicht, sofern nicht ein anderes vereinbart ist.
 
-# § 233
+# § 233 – Informationsrecht des stillen Gesellschafters
 
-(1) Der stille Gesellschafter ist berechtigt, die abschriftliche Mitteilung des Jahresabschlusses zu verlangen und dessen Richtigkeit unter Einsicht der Bücher und Papiere zu prüfen.
-
-(2) Die in § 716 des Bürgerlichen Gesetzbuchs dem von der Geschäftsführung ausgeschlossenen Gesellschafter eingeräumten weiteren Rechte stehen dem stillen Gesellschafter nicht zu.
-
-(3) Auf Antrag des stillen Gesellschafters kann das Gericht, wenn wichtige Gründe vorliegen, die Mitteilung einer Bilanz und eines Jahresabschlusses oder sonstiger Aufklärungen sowie die Vorlegung der Bücher und Papiere jederzeit anordnen.
+Auf das Informationsrecht des stillen Gesellschafters ist § 166 entsprechend anzuwenden.
 
 # § 234
 
-(1) Auf die Kündigung der Gesellschaft durch einen der Gesellschafter oder durch einen Gläubiger des stillen Gesellschafters finden die Vorschriften der §§ 132, 134 und 135 entsprechende Anwendung. Die Vorschriften des § 723 des Bürgerlichen Gesetzbuchs über das Recht, die Gesellschaft aus wichtigen Gründen ohne Einhaltung einer Frist zu kündigen, bleiben unberührt.
+(1) Auf die Kündigung der Gesellschaft durch einen der Gesellschafter oder durch einen Gläubiger des stillen Gesellschafters finden die Vorschriften der §§ 132 und 133 entsprechende Anwendung.
 
 (2) Durch den Tod des stillen Gesellschafters wird die Gesellschaft nicht aufgelöst.
 
@@ -1860,7 +1944,7 @@ III. Gewinnvortrag/Verlustvortrag
 
 IV. Jahresüberschuss/Jahresfehlbetrag.
 
-Anstelle des Postens "Gezeichnetes Kapital" sind die Kapitalanteile der persönlich haftenden Gesellschafter auszuweisen; sie dürfen auch zusammengefasst ausgewiesen werden. Der auf den Kapitalanteil eines persönlich haftenden Gesellschafters für das Geschäftsjahr entfallende Verlust ist von dem Kapitalanteil abzuschreiben. Soweit der Verlust den Kapitalanteil übersteigt, ist er auf der Aktivseite unter der Bezeichnung "Einzahlungsverpflichtungen persönlich haftender Gesellschafter" unter den Forderungen gesondert auszuweisen, soweit eine Zahlungsverpflichtung besteht. Besteht keine Zahlungsverpflichtung, so ist der Betrag als "Nicht durch Vermögenseinlagen gedeckter Verlustanteil persönlich haftender Gesellschafter" zu bezeichnen und gemäß § 268 Abs. 3 auszuweisen. Die Sätze 2 bis 5 sind auf die Einlagen von Kommanditisten entsprechend anzuwenden, wobei diese insgesamt gesondert gegenüber den Kapitalanteilen der persönlich haftenden Gesellschafter auszuweisen sind. Eine Forderung darf jedoch nur ausgewiesen werden, soweit eine Einzahlungsverpflichtung besteht; dasselbe gilt, wenn ein Kommanditist Gewinnanteile entnimmt, während sein Kapitalanteil durch Verlust unter den Betrag der geleisteten Einlage herabgemindert ist, oder soweit durch die Entnahme der Kapitalanteil unter den bezeichneten Betrag herabgemindert wird. Als Rücklagen sind nur solche Beträge auszuweisen, die auf Grund einer gesellschaftsrechtlichen Vereinbarung gebildet worden sind. Im Anhang ist der Betrag der im Handelsregister gemäß § 172 Abs. 1 eingetragenen Einlagen anzugeben, soweit diese nicht geleistet sind.
+Anstelle des Postens "Gezeichnetes Kapital" sind die Kapitalanteile der persönlich haftenden Gesellschafter auszuweisen; sie dürfen auch zusammengefasst ausgewiesen werden. Der auf den Kapitalanteil eines persönlich haftenden Gesellschafters für das Geschäftsjahr entfallende Verlust ist von dem Kapitalanteil abzuschreiben. Soweit der Verlust den Kapitalanteil übersteigt, ist er auf der Aktivseite unter der Bezeichnung "Einzahlungsverpflichtungen persönlich haftender Gesellschafter" unter den Forderungen gesondert auszuweisen, soweit eine Zahlungsverpflichtung besteht. Besteht keine Zahlungsverpflichtung, so ist der Betrag als "Nicht durch Vermögenseinlagen gedeckter Verlustanteil persönlich haftender Gesellschafter" zu bezeichnen und gemäß § 268 Abs. 3 auszuweisen. Die Sätze 2 bis 5 sind auf die Einlagen von Kommanditisten entsprechend anzuwenden, wobei diese insgesamt gesondert gegenüber den Kapitalanteilen der persönlich haftenden Gesellschafter auszuweisen sind. Eine Forderung darf jedoch nur ausgewiesen werden, soweit eine Einzahlungsverpflichtung besteht; dasselbe gilt, wenn ein Kommanditist Gewinnanteile entnimmt, während sein Kapitalanteil durch Verlust unter den Betrag der geleisteten Einlage herabgemindert ist, oder soweit durch die Entnahme der Kapitalanteil unter den bezeichneten Betrag herabgemindert wird. Als Rücklagen sind nur solche Beträge auszuweisen, die auf Grund einer gesellschaftsrechtlichen Vereinbarung gebildet worden sind. Im Anhang ist der Betrag der im Handelsregister gemäß § 172 Abs. 1 eingetragenen Haftsummen anzugeben, soweit diese nicht geleistet sind.
 
 (3) Das sonstige Vermögen der Gesellschafter (Privatvermögen) darf nicht in die Bilanz und die auf das Privatvermögen entfallenden Aufwendungen und Erträge dürfen nicht in die Gewinn- und Verlustrechnung aufgenommen werden. In der Gewinn- und Verlustrechnung darf jedoch nach dem Posten "Jahresüberschuss/Jahresfehlbetrag" ein dem Steuersatz der Komplementärgesellschaft entsprechender Steueraufwand der Gesellschafter offen abgesetzt oder hinzugerechnet werden.
 

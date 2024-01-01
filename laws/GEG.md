@@ -149,9 +149,11 @@
 
 # § 1 – Zweck und Ziel
 
-(1) Zweck dieses Gesetzes ist ein möglichst sparsamer Einsatz von Energie in Gebäuden einschließlich einer zunehmenden Nutzung erneuerbarer Energien zur Erzeugung von Wärme, Kälte und Strom für den Gebäudebetrieb.
+(1) Ziel dieses Gesetzes ist es, einen wesentlichen Beitrag zur Erreichung der nationalen Klimaschutzziele zu leisten. Dies soll durch wirtschaftliche, sozialverträgliche und effizienzsteigernde Maßnahmen zur Einsparung von Treibhausgasemissionen sowie der zunehmenden Nutzung von erneuerbaren Energien oder unvermeidbarer Abwärme für die Energieversorgung von Gebäuden erreicht werden.
 
-(2) Unter Beachtung des Grundsatzes der Wirtschaftlichkeit soll das Gesetz im Interesse des Klimaschutzes, der Schonung fossiler Ressourcen und der Minderung der Abhängigkeit von Energieimporten dazu beitragen, die energie- und klimapolitischen Ziele der Bundesregierung sowie eine weitere Erhöhung des Anteils erneuerbarer Energien am Endenergieverbrauch für Wärme und Kälte zu erreichen und eine nachhaltige Entwicklung der Energieversorgung zu ermöglichen.
+(2) Unter Beachtung des Grundsatzes der Wirtschaftlichkeit soll das Gesetz im Interesse des Klimaschutzes, der stetigen Reduktion von fossilen Ressourcen und der Minderung der Abhängigkeit von Energieimporten dazu beitragen, die energie- und klimapolitischen Ziele der Bundesregierung sowie eine weitere Erhöhung des Anteils erneuerbarer Energien am Endenergieverbrauch für Wärme und Kälte zu erreichen und eine nachhaltige Entwicklung der Energieversorgung zu ermöglichen.
+
+(3) Die Errichtung und der Betrieb einer Anlage sowie der dazugehörigen Nebenanlagen zur Erzeugung sowie zum Transport von Wärme, Kälte und Strom aus erneuerbaren Energien sowie Effizienzmaßnahmen in Gebäuden liegen im überragenden öffentlichen Interesse und dienen der öffentlichen Sicherheit. Bis der Gebäudebetrieb im Bundesgebiet treibhausgasneutral ist, sollen die erneuerbaren Energien sowie Effizienzmaßnahmen als vorrangige Belange in die jeweils durchzuführenden Schutzgüterabwägungen eingebracht werden. Satz 2 ist nicht gegenüber Belangen der Landes- und Bündnisverteidigung anzuwenden.
 
 # § 2 – Anwendungsbereich
 
@@ -205,6 +207,8 @@ b) jährlich weniger als vier Monate beheizt sowie jährlich weniger als zwei Mo
 
 4. „beheizter Raum“ ein Raum, der nach seiner Zweckbestimmung direkt oder durch Raumverbund beheizt wird,
 
+4a. „blauer Wasserstoff“ Wasserstoff, der durch Reformation oder Pyrolyse aus Erdgas hergestellt wird und der den nach Maßgabe der Delegierten Verordnung (EU) 2021/2139 der Kommission vom 4. Juni 2021 zur Ergänzung der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates durch Festlegung der technischen Bewertungskriterien, anhand deren bestimmt wird, unter welchen Bedingungen davon auszugehen ist, dass eine Wirtschaftstätigkeit einen wesentlichen Beitrag zum Klimaschutz oder zur Anpassung an den Klimawandel leistet, und anhand deren bestimmt wird, ob diese Wirtschaftstätigkeit erhebliche Beeinträchtigungen eines der übrigen Umweltziele vermeidet (ABl. L 442 vom 9.12.2021, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2022/1214 (ABl. L 188 vom 15.7.2022, S. 1) geändert worden ist, geltenden technischen Bewertungskriterien zum Nachweis des wesentlichen Beitrags zum Klimaschutz genügt; in Bezug auf die Verringerung von Treibhausgasemissionen (THG-Emissionen) muss danach der Mindestschwellenwert für die Einsparung der Lebenszyklus-THG-Emissionen von 73,4 Prozent gegenüber einem Vergleichswert für fossile Brennstoffe erreicht werden; gemäß der Delegierten Verordnung (EU) 2021/2139 zur Ergänzung der Verordnung (EU) 2020/852 (Taxonomieverordnung) ist diese Verringerung gegenüber einem Vergleichswert von 94 Gramm Kohlendioxidäquivalent pro Megajoule nachzuweisen, indem das entstehende Kohlendioxid abgeschieden und gespeichert oder in Produkten dauerhaft gebunden wird; für die Erfüllung der Nachweispflicht für die dauerhafte Speicherung oder Bindung des Kohlendioxids gelten die Vorgaben gemäß der Durchführungsverordnung (EU) 2018/2066 der Kommission vom 19. Dezember 2018 über die Überwachung von und die Berichterstattung über Treibhausgasemissionen gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates und zur Änderung der Verordnung (EU) Nr. 601/2012 der Kommission (ABl. L 334 vom 31.12.2018, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2021/2139 (ABl. L 442 vom 9.12.2021, S. 1) geändert worden ist, oder entsprechende EU-Vorgaben; die Einsparungen bei den Lebenszyklus-Treibhausgasemissionen werden nach der in Artikel 28 Absatz 5 der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 328 vom 21.12.2018, S. 82; L 139 vom 18.5.2022, S. 1) genannten Methode oder alternativ gemäß DIN EN ISO 14067:2018 (119)<span id="FnR.F827528_03"></span><a href="#F827528_03" class="FnR">*</a></sup> oder DIN EN ISO 14064-1:2018 (120)<span id="FnR.F827528_04"></span><a href="#F827528_04" class="FnR">*</a></sup> berechnet; soweit die Europäische Union in einem anderen verbindlichen Rechtsakt für die Herstellung von blauem Wasserstoff für die im Rahmen dieses Gesetzes einschlägigen Einsatzfelder andere Nachhaltigkeitsanforderungen vorgibt, sind diese anzuwenden,
+
 5. „Brennwertkessel“ ein Heizkessel, der die energetische Nutzung des in den Abgasen enthaltenen Wasserdampfes durch Kondensation des Wasserdampfes im Betrieb vorsieht,
 
 6. „einseitig angebautes Wohngebäude“ ein Wohngebäude, von dessen nach einer Himmelsrichtung weisenden vertikalen Flächen ein Anteil von 80 Prozent oder mehr an ein anderes Wohngebäude oder ein Nichtwohngebäude mit einer Raum-Solltemperatur von mindestens 19 Grad Celsius angrenzt,
@@ -213,9 +217,15 @@ b) jährlich weniger als vier Monate beheizt sowie jährlich weniger als zwei Mo
 
 8. „Energiebedarfsausweis“ ein Energieausweis, der auf der Grundlage des berechneten Energiebedarfs ausgestellt wird,
 
+8a. „Energieleistungsvertrag“ eine vertragliche Vereinbarung zwischen dem Begünstigten und dem Erbringer einer Maßnahme zur Energieeffizienzverbesserung, die während der gesamten Vertragslaufzeit einer Überprüfung und Überwachung unterliegt und in deren Rahmen Investitionen für Arbeiten, Lieferungen oder Dienstleistungen in die betreffende Maßnahme zur Energieeffizienzverbesserung in Bezug auf einen vertraglich vereinbarten Umfang an Energieeffizienzverbesserungen oder ein anderes vereinbartes Energieleistungskriterium, wie finanzielle Einsparungen, getätigt werden,
+
 9. „Energieverbrauchsausweis“ ein Energieausweis, der auf der Grundlage des erfassten Energieverbrauchs ausgestellt wird,
 
+9a. „Gebäudenetz“ ein Netz zur ausschließlichen Versorgung mit Wärme und Kälte von mindestens zwei und bis zu 16 Gebäuden und bis zu 100 Wohneinheiten,
+
 10. „Gebäudenutzfläche“ die Nutzfläche eines Wohngebäudes nach DIN V 18599: 2018-09, die beheizt oder gekühlt wird,
+
+10a. „gebäudetechnisches System“ die technische Ausrüstung eines Gebäudes oder Gebäudeteils für Raumheizung, Raumkühlung, Lüftung, Warmwasserbereitung für den häuslichen Gebrauch, eingebaute Beleuchtung, Gebäudeautomatisierung und -steuerung, Elektrizitätserzeugung am Gebäudestandort oder für eine Kombination derselben, einschließlich Systemen, die Energie aus erneuerbaren Quellen nutzen,
 
 11. „gekühlter Raum“ ein Raum, der nach seiner Zweckbestimmung direkt oder durch Raumverbund gekühlt wird,
 
@@ -227,11 +237,17 @@ b) eines Nichtwohngebäudes für Heizung, Warmwasserbereitung, Lüftung, Kühlun
 
 13. „Geothermie“ die dem Erdboden entnommene Wärme,
 
+13a. „größere Renovierung“ die Renovierung eines Gebäudes, bei der mehr als 25 Prozent der wärmeübertragenden Umfassungsfläche einer Renovierung unterzogen werden,
+
+13b. „grüner Wasserstoff“ Wasserstoff, der die Anforderungen nach Artikel 27 Absatz 3 Unterabsatz 7 sowie Artikel 28 Absatz 5 in Verbindung mit Artikel 25 Absatz 2 der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 328 vom 21.12.2018, S. 82) in der jeweils geltenden Fassung erfüllt, wobei der Wasserstoff zur Speicherung oder zum Transport auch in anderen Energieträgern chemisch oder physikalisch gespeichert werden kann,
+
 14. „Heizkessel“ ein aus Kessel und Brenner bestehender Wärmeerzeuger, der dazu dient, die durch die Verbrennung freigesetzte Wärme an einen Wärmeträger zu übertragen,
+
+14a. „Heizungsanlage“ eine Anlage zur Erzeugung von Raumwärme, Warmwasser oder einer Kombination davon einschließlich Hausübergabestationen zum Anschluss an ein Wärmenetz und Wärmeüberträger von unvermeidbarer Abwärme, mit Ausnahme von handbeschickten Einzelraumfeuerungsanlagen im Sinne des § 2 Nummer 3, offenen Kaminen nach § 2 Nummer 12 und Badeöfen nach § 1 Absatz 2 Satz 1 Nummer 2 Buchstabe d der Verordnung über kleine und mittlere Feuerungsanlagen vom 26. Januar 2010 (BGBl. I S. 38) in der jeweils geltenden Fassung,
 
 15. „Jahres-Primärenergiebedarf“ der jährliche Gesamtenergiebedarf eines Gebäudes, der zusätzlich zum Energiegehalt der eingesetzten Energieträger und von elektrischem Strom auch die vorgelagerten Prozessketten bei der Gewinnung, Umwandlung, Speicherung und Verteilung mittels Primärenergiefaktoren einbezieht,
 
-16. „Kälte aus erneuerbaren Energien“ die dem Erdboden oder dem Wasser entnommene und technisch nutzbar gemachte oder aus Wärme nach Absatz 2 Nummer 1 bis 5 technisch nutzbar gemachte Kälte,
+16. (weggefallen),
 
 17. „kleines Gebäude“ ein Gebäude mit nicht mehr als 50 Quadratmetern Nutzfläche,
 
@@ -261,9 +277,13 @@ b) bei einem Nichtwohngebäude die Nettogrundfläche,
 
 28. „oberste Geschossdecke“ die zugängliche Decke beheizter Räume zum unbeheizten Dachraum,
 
-29. „Stromdirektheizung“ ein Gerät zur direkten Erzeugung von Raumwärme durch Ausnutzung des elektrischen Widerstands auch in Verbindung mit Festkörper-Wärmespeichern,
+29. „Stromdirektheizung“ ein Gerät zur direkten Erzeugung von Raumwärme durch Ausnutzung des elektrischen Widerstands auch in Verbindung mit Wärmespeichern,
+
+29a. „System für die Gebäudeautomatisierung und -steuerung“ ein System, das sämtliche Produkte, Software und Engineering-Leistungen umfasst, mit denen ein energieeffizienter, wirtschaftlicher und sicherer Betrieb gebäudetechnischer Systeme durch automatische Steuerungen sowie durch die Erleichterung des manuellen Managements dieser gebäudetechnischen Systeme unterstützt werden kann,
 
 30. „Umweltwärme“ die der Luft, dem Wasser oder der aus technischen Prozessen und baulichen Anlagen stammenden Abwasserströmen entnommene und technisch nutzbar gemachte Wärme oder Kälte mit Ausnahme der aus technischen Prozessen und baulichen Anlagen stammenden Abluftströmen entnommenen Wärme,
+
+30a. „unvermeidbare Abwärme“ der Anteil der Wärme, der als Nebenprodukt in einer Industrie- oder Gewerbeanlage oder im tertiären Sektor aufgrund thermodynamischer Gesetzmäßigkeiten anfällt, nicht durch Anwendung des Standes der Technik vermieden werden kann, in einem Produktionsprozess nicht nutzbar ist und ohne den Zugang zu einem Wärmenetz ungenutzt in Luft oder Wasser abgeleitet werden würde,
 
 31. „Wärme- und Kälteenergiebedarf“ die Summe aus
 
@@ -287,13 +307,15 @@ b) der zur Deckung des Kältebedarfs für Raumkühlung jährlich benötigten Kä
 
 4. die technisch durch gebäudeintegrierte Windkraftanlagen zur Wärme- oder Kälteerzeugung nutzbar gemachte Energie,
 
-5. die aus fester, flüssiger oder gasförmiger Biomasse erzeugte Wärme; die Abgrenzung erfolgt nach dem Aggregatzustand zum Zeitpunkt des Eintritts der Biomasse in den Wärmeerzeuger; oder
+5. die aus fester, flüssiger oder gasförmiger Biomasse erzeugte Wärme; die Abgrenzung erfolgt nach dem Aggregatzustand zum Zeitpunkt des Eintritts der Biomasse in den Wärmeerzeuger,
 
-6. Kälte aus erneuerbaren Energien.
+6. die aus grünem Wasserstoff oder den daraus hergestellten Derivaten erzeugte Wärme oder
+
+7. die dem Erdboden oder dem Wasser entnommene und technisch nutzbar gemachte oder aus Wärme nach den Nummern 1 bis 6 technisch nutzbar gemachte Kälte.
 
 (3) Biomasse im Sinne von Absatz 2 Nummer 5 ist oder sind
 
-1. Biomasse im Sinne der Biomasseverordnung vom 21. Juni 2001 (BGBl. I S. 1234) in der bis zum 31. Dezember 2011 geltenden Fassung,
+1. Biomasse im Sinne der Biomasseverordnung vom 21. Juni 2001 (BGBl. I S. 1234), in der jeweils geltenden Fassung,
 
 2. Altholz der Kategorien A I und A II nach § 2 Nummer 4 Buchstabe a und b der Altholzverordnung vom 15. August 2002 (BGBl. I S. 3302), die zuletzt durch Artikel 120 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist,
 
@@ -311,9 +333,11 @@ b) der zur Deckung des Kältebedarfs für Raumkühlung jährlich benötigten Kä
 
 (1) Einem Nichtwohngebäude, das sich im Eigentum der öffentlichen Hand befindet und von einer Behörde genutzt wird, kommt eine Vorbildfunktion zu. § 13 Absatz 2 des Bundes-Klimaschutzgesetzes vom 12. Dezember 2019 (BGBl. I S. 2513) bleibt unberührt.
 
-(2) Wenn die öffentliche Hand ein Nichtwohngebäude im Sinne des Absatzes 1 Satz 1 errichtet oder einer grundlegenden Renovierung gemäß § 52 Absatz 2 unterzieht, muss sie prüfen, ob und in welchem Umfang Erträge durch die Errichtung einer im unmittelbaren räumlichen Zusammenhang mit dem Gebäude stehenden Anlage zur Erzeugung von Strom aus solarer Strahlungsenergie oder durch solarthermische Anlagen zur Wärme- und Kälteerzeugung erzielt und genutzt werden können.
+(2) Wenn die öffentliche Hand ein Nichtwohngebäude im Sinne des Absatzes 1 Satz 1 errichtet oder einer größeren Renovierung gemäß § 3 Absatz 1 Nummer 13a unterzieht, muss sie prüfen, ob und in welchem Umfang Erträge durch die Errichtung einer im unmittelbaren räumlichen Zusammenhang mit dem Gebäude stehenden Anlage zur Erzeugung von Strom aus solarer Strahlungsenergie oder durch solarthermische Anlagen zur Wärme- und Kälteerzeugung erzielt und genutzt werden können.
 
 (3) Die öffentliche Hand informiert über die Erfüllung der Vorbildfunktion im Internet oder auf sonstige geeignete Weise; dies kann im Rahmen der Information der Öffentlichkeit nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen geschehen. Der Bund berichtet über die Erfüllung der Vorbildfunktion im Klimaschutzbericht der Bundesregierung.
+
+(4) Die Länder können durch Landesrecht für öffentliche Gebäude, mit Ausnahme der öffentlichen Gebäude des Bundes, eigene Regelungen zur Erfüllung der Vorbildfunktion treffen und zu diesem Zweck über die Vorschriften dieses Gesetzes hinausgehen. Hiervon ausgenommen sind Vorgaben für die Berechnungsgrundlagen und -verfahren nach Teil 2 Abschnitt 3.
 
 # § 5 – Grundsatz der Wirtschaftlichkeit
 
@@ -343,7 +367,7 @@ Die Anforderungen und Pflichten, die in diesem Gesetz oder in den auf Grund dies
 
 # § 6a – Verordnungsermächtigung zur Versorgung mit Fernkälte
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates die Allgemeinen Bedingungen für die Versorgung mit Fernkälte einschließlich von Rahmenregelungen über die Entgelte ausgewogen gestalten und hierbei unter angemessener Berücksichtigung der beiderseitigen Interessen
+Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit dem Bundesministerium der Justiz durch Rechtsverordnung mit Zustimmung des Bundesrates die Allgemeinen Bedingungen für die Versorgung mit Fernkälte einschließlich von Rahmenregelungen über die Entgelte ausgewogen gestalten und hierbei unter angemessener Berücksichtigung der beiderseitigen Interessen
 
 1. die Bestimmungen der Verträge einheitlich festsetzen,
 
@@ -355,7 +379,7 @@ Satz 1 gilt entsprechend für Bedingungen öffentlich-rechtlich gestalteter Vers
 
 # § 7 – Regeln der Technik
 
-(1) Das Bundesministerium für Wirtschaft und Energie kann gemeinsam mit dem Bundesministerium des Innern, für Bau und Heimat durch Bekanntmachung im Bundesanzeiger auf Veröffentlichungen sachverständiger Stellen über anerkannte Regeln der Technik hinweisen, soweit in diesem Gesetz auf solche Regeln Bezug genommen wird.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann gemeinsam mit dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen durch Bekanntmachung im Bundesanzeiger auf Veröffentlichungen sachverständiger Stellen über anerkannte Regeln der Technik hinweisen, soweit in diesem Gesetz auf solche Regeln Bezug genommen wird.
 
 (2) Zu den anerkannten Regeln der Technik gehören auch Normen, technische Vorschriften oder sonstige Bestimmungen anderer Mitgliedstaaten der Europäischen Union und anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum sowie der Republik Türkei, wenn ihre Einhaltung das geforderte Schutzniveau in Bezug auf Energieeinsparung und Wärmeschutz dauerhaft gewährleistet.
 
@@ -367,7 +391,7 @@ Satz 1 gilt entsprechend für Bedingungen öffentlich-rechtlich gestalteter Vers
 
 (4) Verweisen die nach diesem Gesetz anzuwendenden datierten technischen Regeln auf undatierte technische Regeln, sind diese in der Fassung anzuwenden, die dem Stand zum Zeitpunkt der Herausgabe der datierten technischen Regel entspricht.
 
-(5) Das Bundesministerium für Wirtschaft und Energie und das Bundesministerium des Innern, für Bau und Heimat werden dem Deutschen Bundestag bis zum 31. Dezember 2022 gemeinsam einen Bericht über die Ergebnisse von Forschungsprojekten zu Methodiken zur ökobilanziellen Bewertung von Wohn- und Nichtwohngebäuden vorlegen.
+(5) Das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen werden dem Deutschen Bundestag bis zum 31. Dezember 2022 gemeinsam einen Bericht über die Ergebnisse von Forschungsprojekten zu Methodiken zur ökobilanziellen Bewertung von Wohn- und Nichtwohngebäuden vorlegen.
 
 # § 8 – Verantwortliche
 
@@ -377,9 +401,13 @@ Satz 1 gilt entsprechend für Bedingungen öffentlich-rechtlich gestalteter Vers
 
 # § 9 – Überprüfung der Anforderungen an zu errichtende und bestehende Gebäude
 
-(1) Das Bundesministerium für Wirtschaft und Energie und das Bundesministerium des Innern, für Bau und Heimat werden die Anforderungen an zu errichtende Gebäude nach Teil 2 und die Anforderungen an bestehende Gebäude nach Teil 3 Abschnitt 1 nach Maßgabe von § 5 und unter Wahrung des Grundsatzes der Technologieoffenheit im Jahr 2023 überprüfen und nach Maßgabe der Ergebnisse der Überprüfung innerhalb von sechs Monaten nach Abschluss der Überprüfung einen Gesetzgebungsvorschlag für eine Weiterentwicklung der Anforderungen an zu errichtende und bestehende Gebäude vorlegen. Die Bezahlbarkeit des Bauens und Wohnens ist ein zu beachtender wesentlicher Eckpunkt.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen werden die Anforderungen an zu errichtende Gebäude nach Teil 2 und die Anforderungen an bestehende Gebäude nach Teil 3 Abschnitt 1 nach Maßgabe von § 5 und unter Wahrung des Grundsatzes der Technologieoffenheit im Jahr 2023 überprüfen und nach Maßgabe der Ergebnisse der Überprüfung innerhalb von sechs Monaten nach Abschluss der Überprüfung einen Gesetzgebungsvorschlag für eine Weiterentwicklung der Anforderungen an zu errichtende und bestehende Gebäude vorlegen. Die Bezahlbarkeit des Bauens und Wohnens ist ein zu beachtender wesentlicher Eckpunkt.
 
-(2) Das Bundesministerium für Wirtschaft und Energie und das Bundesministerium des Innern, für Bau und Heimat werden unter Wahrung der Maßgaben des Absatzes 1 bis zum Jahr 2023 prüfen, auf welche Weise und in welchem Umfang synthetisch erzeugte Energieträger in flüssiger oder gasförmiger Form bei der Erfüllung der Anforderungen an zu errichtende Gebäude nach Teil 2 und bei der Erfüllung der Anforderungen an bestehende Gebäude nach Teil 3 Abschnitt 1 Berücksichtigung finden können.
+(2) Das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen werden unter Wahrung der Maßgaben des Absatzes 1 bis zum Jahr 2023 prüfen, auf welche Weise und in welchem Umfang synthetisch erzeugte Energieträger in flüssiger oder gasförmiger Form bei der Erfüllung der Anforderungen an zu errichtende Gebäude nach Teil 2 und bei der Erfüllung der Anforderungen an bestehende Gebäude nach Teil 3 Abschnitt 1 Berücksichtigung finden können.
+
+# § 9a – Länderregelung
+
+Die Länder können durch Landesrecht weitergehende Anforderungen an die Erzeugung und Nutzung von Strom oder Wärme sowie Kälte aus erneuerbaren Energien in räumlichem Zusammenhang mit Gebäuden sowie weitergehende Anforderungen oder Beschränkungen an Stromdirektheizungen stellen.
 
 # § 10 – Grundsatz und Niedrigstenergiegebäude
 
@@ -391,13 +419,13 @@ Satz 1 gilt entsprechend für Bedingungen öffentlich-rechtlich gestalteter Vers
 
 2. Energieverluste beim Heizen und Kühlen durch baulichen Wärmeschutz nach Maßgabe von § 16 oder § 19 vermieden werden und
 
-3. der Wärme- und Kälteenergiebedarf zumindest anteilig durch die Nutzung erneuerbarer Energien nach Maßgabe der §§ 34 bis 45 gedeckt wird.
+3. die Anforderungen nach § 71 Absatz 1 erfüllt werden.
 
 (3) Die Anforderungen an die Errichtung von einem Gebäude nach diesem Gesetz finden keine Anwendung, soweit ihre Erfüllung anderen öffentlich-rechtlichen Vorschriften zur Standsicherheit, zum Brandschutz, zum Schallschutz, zum Arbeitsschutz oder zum Schutz der Gesundheit entgegensteht.
 
-(4) Bei einem zu errichtenden Nichtwohngebäude ist die Anforderung nach Absatz 2 Nummer 3 nicht für Gebäudezonen mit mehr als 4 Metern Raumhöhe anzuwenden, die durch dezentrale Gebläse oder Strahlungsheizungen beheizt werden.
+(4) (weggefallen)
 
-(5) Die Anforderung nach Absatz 2 Nummer 3 ist nicht auf ein Gebäude, das der Landesverteidigung dient, anzuwenden, soweit ihre Erfüllung der Art und dem Hauptzweck der Landesverteidigung entgegensteht.
+(5) (weggefallen)
 
 # § 11 – Mindestwärmeschutz
 
@@ -534,7 +562,7 @@ Durch eine Maßnahme nach Satz 2 Nummer 4 darf die Wärmeversorgung des oder der
 
 (4) Hat das Fernwärmeversorgungsunternehmen den Primärenergiefaktor für den Wärmeträger in dem Wärmenetz, an das das zu errichtende Gebäude angeschlossen wird, nicht ermittelt und veröffentlicht, kann als Primärenergiefaktor der Wert für den nicht erneuerbaren Anteil verwendet werden, der in den nach § 20 Absatz 1 oder Absatz 2 und nach § 21 Absatz 1 und 2 zur Ermittlung des Jahres-Primärenergiebedarfs zu verwendenden Berechnungsverfahren für die genutzte Fernwärme aufgeführt ist.
 
-(5) Das Bundesministerium für Wirtschaft und Energie wird gemeinsam mit dem Bundesministerium des Innern, für Bau und Heimat das Berechnungsverfahren zur Ermittlung der Primärenergiefaktoren von Wärmenetzen, in denen Wärme genutzt wird, die in KWK-Anlagen erzeugt wird, überprüfen. Dabei wird unter Beachtung des Grundsatzes der Wirtschaftlichkeit die Umstellung des Berechnungsverfahrens auf ein Verfahren zur Ermittlung des Brennstoffanteils für die Wärmeerzeugung untersucht, das der in DIN EN 15316-4-5: 2017-09 Abschnitt 6.2.2.1.6.3 beschriebenen Methode entspricht. In die Untersuchung wird die Ermittlung eines Faktors einbezogen, mit dem der Anteil bestehender Gebäude an den an ein Fernwärmenetz angeschlossenen Gebäuden berücksichtigt wird. Das Bundesministerium für Wirtschaft und Energie hat gemeinsam mit dem Bundesministerium des Innern, für Bau und Heimat dem Deutschen Bundestag bis zum 31. Dezember 2025 einen Bericht über das Ergebnis der Überprüfung vorzulegen. Der Bericht enthält einen Vorschlag für eine gesetzliche Regelung zur Umstellung des Berechnungsverfahrens ab dem Jahr 2030.
+(5) Das Bundesministerium für Wirtschaft und Klimaschutz wird gemeinsam mit dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen das Berechnungsverfahren zur Ermittlung der Primärenergiefaktoren von Wärmenetzen, in denen Wärme genutzt wird, die in KWK-Anlagen erzeugt wird, überprüfen. Dabei wird unter Beachtung des Grundsatzes der Wirtschaftlichkeit die Umstellung des Berechnungsverfahrens auf ein Verfahren zur Ermittlung des Brennstoffanteils für die Wärmeerzeugung untersucht, das der in DIN EN 15316-4-5: 2017-09 Abschnitt 6.2.2.1.6.3 beschriebenen Methode entspricht. In die Untersuchung wird die Ermittlung eines Faktors einbezogen, mit dem der Anteil bestehender Gebäude an den an ein Wärmenetz angeschlossenen Gebäuden berücksichtigt wird. Das Bundesministerium für Wirtschaft und Klimaschutz hat gemeinsam mit dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen dem Deutschen Bundestag bis zum 31. Dezember 2025 einen Bericht über das Ergebnis der Überprüfung vorzulegen. Der Bericht enthält einen Vorschlag für eine gesetzliche Regelung zur Umstellung des Berechnungsverfahrens ab dem Jahr 2030.
 
 # § 23 – Anrechnung von Strom aus erneuerbaren Energien
 
@@ -640,9 +668,9 @@ Wird ein zu errichtendes Gebäude mit Wärme aus einer Heizungsanlage versorgt, 
 
 # § 31 – Vereinfachtes Nachweisverfahren für ein zu errichtendes Wohngebäude
 
-(1) Ein zu errichtendes Wohngebäude erfüllt die Anforderungen nach § 10 Absatz 2 in Verbindung mit den §§ 15 bis 17 und 34 bis 45, wenn es die Voraussetzungen nach Anlage 5 Nummer 1 erfüllt und seine Ausführung den Vorgaben von Anlage 5 Nummer 2 und 3 entspricht.
+(1) Ein zu errichtendes Wohngebäude erfüllt die Anforderungen nach § 10 Absatz 2 in Verbindung mit den §§ 15 bis 17, wenn es die Voraussetzungen nach Anlage 5 Nummer 1 erfüllt und seine Ausführung den Vorgaben von Anlage 5 Nummer 2 und 3 entspricht.
 
-(2) Das Bundesministerium für Wirtschaft und Energie macht gemeinsam mit dem Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger bekannt, welche Angaben für die auf Grundlage von Absatz 1 zu errichtenden Wohngebäude ohne besondere Berechnungen in Energiebedarfsausweisen zu verwenden sind.
+(2) Das Bundesministerium für Wirtschaft und Klimaschutz macht gemeinsam mit dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen im Bundesanzeiger bekannt, welche Angaben für die auf Grundlage von Absatz 1 zu errichtenden Wohngebäude ohne besondere Berechnungen in Energiebedarfsausweisen zu verwenden sind.
 
 # § 32 – Vereinfachtes Berechnungsverfahren für ein zu errichtendes Nichtwohngebäude
 
@@ -688,155 +716,29 @@ Wird ein zu errichtendes Gebäude mit Wärme aus einer Heizungsanlage versorgt, 
 
 Werden in einem Gebäude bauliche oder anlagentechnische Komponenten eingesetzt, für deren energetische Bewertung weder anerkannte Regeln der Technik noch nach § 50 Absatz 4 Satz 2 bekannt gemachte gesicherte Erfahrungswerte vorliegen, so dürfen die energetischen Eigenschaften dieser Komponenten unter Verwendung derselben Randbedingungen wie in den Berechnungsverfahren und Maßgaben nach den §§ 20 bis 30 durch dynamisch-thermische Simulationsrechnungen ermittelt werden oder es sind hierfür andere Komponenten anzusetzen, die ähnliche energetische Eigenschaften besitzen und für deren energetische Bewertung anerkannte Regeln der Technik oder bekannt gemachte gesicherte Erfahrungswerte vorliegen.
 
-# § 34 – Nutzung erneuerbarer Energien zur Deckung des Wärme- und Kälteenergiebedarfs
+# § 34 – (weggefallen)
 
-(1) Der Wärme- und Kälteenergiebedarf im Sinne des § 10 Absatz 2 Nummer 3 ist nach den Vorschriften des § 20, des § 21 und der §§ 24 bis 29 zu ermitteln.
+# § 35 – (weggefallen)
 
-(2) Die Maßnahmen nach den §§ 35 bis 45 können miteinander kombiniert werden. Die prozentualen Anteile der tatsächlichen Nutzung der einzelnen Maßnahmen im Verhältnis der jeweils nach den §§ 35 bis 45 vorgesehenen Nutzung müssen in der Summe 100 Prozent Erfüllungsgrad ergeben.
+# § 36 – (weggefallen)
 
-(3) Wenn mehrere zu errichtende Nichtwohngebäude, die sich im Eigentum der öffentlichen Hand befinden und von mindestens einer Behörde genutzt werden, in einer Liegenschaft stehen, kann die Anforderung nach § 10 Absatz 2 Nummer 3 auch dadurch erfüllt werden, dass der Wärme- und Kälteenergiebedarf dieser Gebäude insgesamt in einem Umfang gedeckt wird, der der Summe der einzelnen Maßgaben der §§ 35 bis 45 entspricht.
+# § 37 – (weggefallen)
 
-(4) § 31 bleibt unberührt.
+# § 38 – (weggefallen)
 
-(+++ § 34 Abs. 1: Zur Anwendung vgl. § 52 Abs. 1 Satz 2 +++)
+# § 39 – (weggefallen)
 
-# § 35 – Nutzung solarthermischer Anlagen
+# § 40 – (weggefallen)
 
-(1) Die Anforderung nach § 10 Absatz 2 Nummer 3 ist erfüllt, wenn durch die Nutzung von solarer Strahlungsenergie mittels solarthermischer Anlagen der Wärme- und Kälteenergiebedarf zu mindestens 15 Prozent gedeckt wird.
+# § 41 – (weggefallen)
 
-(2) Die Anforderung bezüglich des Mindestanteils nach Absatz 1 gilt als erfüllt, wenn
+# § 42 – (weggefallen)
 
-1. bei Wohngebäuden mit höchstens zwei Wohnungen solarthermische Anlagen mit einer Fläche von mindestens 0,04 Quadratmetern Aperturfläche je Quadratmeter Nutzfläche installiert und betrieben werden und
+# § 43 – (weggefallen)
 
-2. bei Wohngebäuden mit mehr als zwei Wohnungen solarthermische Anlagen mit einer Fläche von mindestens 0,03 Quadratmetern Aperturfläche je Quadratmeter Nutzfläche installiert und betrieben werden.
+# § 44 – (weggefallen)
 
-(3) Wird eine solarthermische Anlage mit Flüssigkeiten als Wärmeträger genutzt, müssen die darin enthaltenen Kollektoren oder das System mit dem europäischen Prüfzeichen „Solar Keymark“ zertifiziert sein, solange und soweit die Verwendung einer CE-Kennzeichnung nach Maßgabe eines Durchführungsrechtsaktes auf der Grundlage der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte (ABl. L 285 vom 31.10.2009, S. 10), die zuletzt durch die Richtlinie 2012/27/EU (ABl. L 315 vom 14.11.2012, S. 1) geändert worden ist, nicht zwingend vorgeschrieben ist. Die Zertifizierung muss nach den anerkannten Regeln der Technik erfolgen.
-
-(+++ § 35: Zur Anwendung vgl. § 44 Abs. 2 Satz 2 +++)  
-(+++ § 35 Abs. 2: Zur Anwendung vgl. § 52 Abs. 4 Nummer 1 +++)  
-(+++ § 35 Abs. 3: Zur Anwendung vgl. § 53 Abs. 3 Satz 2 +++)
-
-# § 36 – Nutzung von Strom aus erneuerbaren Energien
-
-Die Anforderung nach § 10 Absatz 2 Nummer 3 ist erfüllt, wenn durch die Nutzung von Strom aus erneuerbaren Energien nach Maßgabe des § 23 Absatz 1 der Wärme- und Kälteenergiebedarf zu mindestens 15 Prozent gedeckt wird. Wird bei Wohngebäuden Strom aus solarer Strahlungsenergie genutzt, gilt die Anforderung bezüglich des Mindestanteils nach Satz 1 als erfüllt, wenn eine Anlage zur Erzeugung von Strom aus solarer Strahlungsenergie installiert und betrieben wird, deren Nennleistung in Kilowatt mindestens das 0,03fache der Gebäudenutzfläche geteilt durch die Anzahl der beheizten oder gekühlten Geschosse nach DIN V 18599-1: 2018-09 beträgt.
-
-# § 37 – Nutzung von Geothermie oder Umweltwärme
-
-Die Anforderung nach § 10 Absatz 2 Nummer 3 ist erfüllt, wenn durch die Nutzung von Geothermie, Umweltwärme oder Abwärme aus Abwasser, die mittels elektrisch oder mit fossilen Brennstoffen angetriebener Wärmepumpen technisch nutzbar gemacht wird, der Wärme- und Kälteenergiebedarf zu mindestens 50 Prozent aus den Anlagen zur Nutzung dieser Energien gedeckt wird.
-
-(+++ § 37: Zur Anwendung vgl. § 44 Abs. 2 Satz 2 +++)
-
-# § 38 – Nutzung von fester Biomasse
-
-(1) Die Anforderung nach § 10 Absatz 2 Nummer 3 ist erfüllt, wenn durch die Nutzung von fester Biomasse nach Maßgabe des Absatzes 2 der Wärme- und Kälteenergiebedarf zu mindestens 50 Prozent gedeckt wird.
-
-(2) Wenn eine Feuerungsanlage im Sinne der Verordnung über kleine und mittlere Feuerungsanlagen vom 26. Januar 2010 (BGBl. I S. 38), die zuletzt durch Artikel 105 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung betrieben wird, müssen folgende Voraussetzungen erfüllt sein:
-
-1. die Biomasse muss genutzt werden in einem
-
-a) Biomassekessel oder
-
-b) automatisch beschickten Biomasseofen mit Wasser als Wärmeträger,
-
-2. es darf ausschließlich Biomasse nach § 3 Absatz 1 Nummer 4, 5, 5a, 8 oder Nummer 13 der Verordnung über kleine und mittlere Feuerungsanlagen eingesetzt werden.
-
-(+++ § 38: Zur Anwendung vgl. § 44 Abs. 2 Satz 2 +++)  
-(+++ § 38 Abs. 2: Zur Anwendung vgl. § 52 Abs. 4 Nummer 2 +++)
-
-# § 39 – Nutzung von flüssiger Biomasse
-
-(1) Die Anforderung nach § 10 Absatz 2 Nummer 3 ist erfüllt, wenn durch die Nutzung von flüssiger Biomasse nach Maßgabe der Absätze 2 und 3 der Wärme- und Kälteenergiebedarf zu mindestens 50 Prozent gedeckt wird.
-
-(2) Die Nutzung muss in einer KWK-Anlage oder in einem Brennwertkessel erfolgen.
-
-(3) Unbeschadet des Absatzes 2 muss die zur Wärmeerzeugung eingesetzte Biomasse den Anforderungen an einen nachhaltigen Anbau und eine nachhaltige Herstellung, die die Biomassestrom-Nachhaltigkeitsverordnung vom 23. Juli 2009 (BGBl. I S. 2174), die zuletzt durch Artikel 262 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung stellt, genügen. § 10 der Biomassestrom-Nachhaltigkeitsverordnung ist nicht anzuwenden.
-
-(+++ § 39: Zur Anwendung vgl. § 44 Abs. 2 Satz 2 +++)  
-(+++ § 39 Abs. 2 und 3: Zur Anwendung vgl. § 52 Abs. 4 Nummer 3 +++)
-
-# § 40 – Nutzung von gasförmiger Biomasse
-
-(1) Die Anforderung nach § 10 Absatz 2 Nummer 3 ist erfüllt, wenn durch die Nutzung von gasförmiger Biomasse nach Maßgabe der Absätze 2 bis 4 der Wärme- und Kälteenergiebedarf mindestens zu dem Anteil nach Absatz 2 Satz 2 gedeckt wird.
-
-(2) Die Nutzung muss in einer hocheffizienten KWK-Anlage im Sinne des § 2 Nummer 8a des Kraft-Wärme-Kopplungsgesetzes oder in einem Brennwertkessel erfolgen. Der Wärme- und Kälteenergiebedarf muss
-
-1. zu mindestens 30 Prozent gedeckt werden, wenn die Nutzung in einer KWK-Anlage nach Satz 1 erfolgt oder
-
-2. zu mindestens 50 Prozent gedeckt werden, wenn die Nutzung in einem Brennwertkessel erfolgt.
-
-(3) Wenn Biomethan genutzt wird, müssen unbeschadet des Absatzes 2 folgende Voraussetzungen erfüllt sein:
-
-1. bei der Aufbereitung und Einspeisung des Biomethans müssen die Voraussetzungen nach Anlage 1 Nummer 1 Buchstabe a bis c des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074) in der am 31. Juli 2014 geltenden Fassung erfüllt worden sein und
-
-2. die Menge des entnommenen Biomethans im Wärmeäquivalent am Ende eines Kalenderjahres muss der Menge von Gas aus Biomasse entsprechen, das an anderer Stelle in das Gasnetz eingespeist worden ist, und es müssen Massenbilanzsysteme für den gesamten Transport und Vertrieb des Biomethans von seiner Herstellung über seine Einspeisung in das Erdgasnetz und seinen Transport im Erdgasnetz bis zu seiner Entnahme aus dem Erdgasnetz verwendet worden sein.
-
-(4) Wenn biogenes Flüssiggas genutzt wird, muss die Menge des entnommenen Gases am Ende eines Kalenderjahres der Menge von Gas aus Biomasse entsprechen, das an anderer Stelle hergestellt worden ist, und müssen Massenbilanzsysteme für den gesamten Transport und Vertrieb des biogenen Flüssiggases von seiner Herstellung über seine Zwischenlagerung und seinen Transport bis zu seiner Einlagerung in den Verbrauchstank verwendet worden sein.
-
-(+++ § 40: Zur Anwendung vgl. § 44 Abs. 2 Satz 2 +++)  
-(+++ § 40 Abs. 2 und 3: Zur Anwendung vgl. § 52 Abs. 3 Satz 3 +++)
-
-# § 41 – Nutzung von Kälte aus erneuerbaren Energien
-
-(1) Die Anforderung nach § 10 Absatz 2 Nummer 3 ist erfüllt, wenn durch die Nutzung von Kälte aus erneuerbaren Energien nach Maßgabe der Absätze 2 bis 4 der Wärme- und Kälteenergiebedarf mindestens in Höhe des Anteils nach Satz 2 gedeckt wird. Maßgeblicher Anteil ist der Anteil, der nach den §§ 35 bis 40 für diejenige erneuerbare Energie gilt, aus der die Kälte erzeugt wird. Wird die Kälte mittels einer thermischen Kälteerzeugungsanlage durch die direkte Zufuhr von Wärme erzeugt, ist der Anteil maßgebend, der auch im Fall einer reinen Wärmeerzeugung aus dem gleichen Energieträger gilt. Wird die Kälte unmittelbar durch Nutzung von Geothermie oder Umweltwärme bereitgestellt, so ist der auch bei Wärmeerzeugung aus diesem Energieträger geltende Anteil von 50 Prozent am Wärme- und Kälteenergiebedarf maßgebend.
-
-(2) Die Kälte muss technisch nutzbar gemacht werden
-
-1. durch unmittelbare Kälteentnahme aus dem Erdboden oder aus Grund- oder Oberflächenwasser oder
-
-2. durch thermische Kälteerzeugung mit Wärme aus erneuerbaren Energien im Sinne des § 3 Absatz 2 Nummer 1 bis 5.
-
-(3) Die Kälte muss zur Deckung des Kältebedarfs für Raumkühlung nach § 3 Absatz 1 Nummer 31 Buchstabe b genutzt werden. Der Endenergieverbrauch für die Erzeugung der Kälte, für die Rückkühlung und für die Verteilung der Kälte muss nach der jeweils besten verfügbaren Technik gesenkt worden sein.
-
-(4) Die für die Erfüllung der Anforderung nach Absatz 1 anrechenbare Kältemenge umfasst die für die Zwecke nach Absatz 3 Satz 1 nutzbar gemachte Kälte, nicht jedoch die zum Antrieb thermischer Kälteerzeugungsanlagen genutzte Wärme.
-
-(5) Die technischen Anforderungen nach den §§ 35 bis 40 sind entsprechend anzuwenden, solange und soweit die Verwendung einer CE-Kennzeichnung nach Maßgabe eines Durchführungsrechtsaktes auf der Grundlage der Richtlinie 2009/125/EG nicht zwingend vorgeschrieben ist.
-
-(+++ § 41 Abs. 3 und 4: Zur Anwendung vgl. § 43 Abs. 2 Satz 2 +++)  
-(+++ § 41: Zur Anwendung vgl. § 44 Abs. 2 Satz 2 +++)  
-(+++ § 41 Abs. 2 bis 5: Zur Anwendung vgl. § 52 Abs. 4 Nummer 4 +++)  
-(+++ § 41 Abs. 1 Satz 3: Zur Anwendung vgl. § 53 Abs. 1 Satz 2 +++)
-
-# § 42 – Nutzung von Abwärme
-
-(1) Anstelle der anteiligen Deckung des Wärme- und Kälteenergiebedarfs durch die Nutzung erneuerbarer Energien kann die Anforderung nach § 10 Absatz 2 Nummer 3 auch dadurch erfüllt werden, dass durch die Nutzung von Abwärme nach Maßgabe der Absätze 2 und 3 der Wärme- und Kälteenergiebedarf direkt oder mittels Wärmepumpen zu mindestens 50 Prozent gedeckt wird.
-
-(2) Sofern Kälte genutzt wird, die durch eine Anlage technisch nutzbar gemacht wird, der Abwärme unmittelbar zugeführt wird, ist § 41 Absatz 3 und 4 entsprechend anzuwenden.
-
-(3) Sofern Abwärme durch eine andere Anlage genutzt wird, muss die Nutzung nach dem Stand der Technik erfolgen.
-
-(+++ § 42: Zur Anwendung vgl. § 44 Abs. 2 Satz 2 +++)
-
-# § 43 – Nutzung von Kraft-Wärme-Kopplung
-
-(1) Anstelle der anteiligen Deckung des Wärme- und Kälteenergiebedarfs durch die Nutzung erneuerbarer Energien kann die Anforderung nach § 10 Absatz 2 Nummer 3 auch dadurch erfüllt werden, dass
-
-1. durch die Nutzung von Wärme aus einer hocheffizienten KWK-Anlage im Sinne des § 2 Nummer 8a des Kraft-Wärme-Kopplungsgesetzes der Wärme- und Kälteenergiebedarf zu mindestens 50 Prozent gedeckt wird oder
-
-2. durch die Nutzung von Wärme aus einer Brennstoffzellenheizung der Wärme- und Kälteenergiebedarf zu mindestens 40 Prozent gedeckt wird.
-
-(2) Sofern Kälte genutzt wird, die durch eine Anlage technisch nutzbar gemacht wird, der unmittelbar Wärme aus einer KWK-Anlage zugeführt wird, muss die KWK-Anlage den Anforderungen des Absatzes 1 Nummer 1 genügen. § 41 Absatz 3 und 4 ist entsprechend anzuwenden.
-
-(+++ § 43: Zur Anwendung vgl. § 44 Abs. 2 Satz 2 +++)
-
-# § 44 – Fernwärme oder Fernkälte
-
-(1) Anstelle der anteiligen Deckung des Wärme- und Kälteenergiebedarfs durch die Nutzung erneuerbarer Energien kann die Anforderung nach § 10 Absatz 2 Nummer 3 auch dadurch erfüllt werden, dass durch den Bezug von Fernwärme oder Fernkälte nach Maßgabe von Absatz 2 der Wärme- und Kälteenergiebedarf mindestens in Höhe des Anteils nach den Sätzen 2 und 3 gedeckt wird. Maßgeblicher Anteil ist der Anteil, der nach den §§ 35 bis 40 oder nach den §§ 42 und 43 für diejenige Energie anzuwenden ist, aus der die Fernwärme oder Fernkälte ganz oder teilweise stammt. Bei der Berechnung nach Satz 1 wird nur die bezogene Menge der Fernwärme oder Fernkälte angerechnet, die rechnerisch aus erneuerbaren Energien, aus Anlagen zur Nutzung von Abwärme oder aus KWK-Anlagen stammt.
-
-(2) Die in dem Wärme- oder Kältenetz insgesamt verteilte Wärme oder Kälte muss stammen zu
-
-1. einem wesentlichen Anteil aus erneuerbaren Energien,
-
-2. mindestens 50 Prozent aus Anlagen zur Nutzung von Abwärme,
-
-3. mindestens 50 Prozent aus KWK-Anlagen oder
-
-4. mindestens 50 Prozent durch eine Kombination der in den Nummern 1 bis 3 genannten Maßnahmen.
-
-§ 35 und die §§ 37 bis 43 sind entsprechend anzuwenden.
-
-# § 45 – Maßnahmen zur Einsparung von Energie
-
-Anstelle der anteiligen Deckung des Wärme- und Kälteenergiebedarfs durch die Nutzung erneuerbarer Energien kann die Anforderung nach § 10 Absatz 2 Nummer 3 auch dadurch erfüllt werden, dass bei einem Wohngebäude die Anforderungen nach § 16 sowie bei einem Nichtwohngebäude die Anforderungen nach § 19 um mindestens 15 Prozent unterschritten werden.
+# § 45 – (weggefallen)
 
 # § 46 – Aufrechterhaltung der energetischen Qualität; entgegenstehende Rechtsvorschriften
 
@@ -854,7 +756,7 @@ Anstelle der anteiligen Deckung des Wärme- und Kälteenergiebedarfs durch die N
 
 (3) Bei einem Wohngebäude mit nicht mehr als zwei Wohnungen, von denen der Eigentümer eine Wohnung am 1. Februar 2002 selbst bewohnt hat, ist die Pflicht nach Absatz 1 erst im Fall eines Eigentümerwechsels nach dem 1. Februar 2002 von dem neuen Eigentümer zu erfüllen. Die Frist zur Pflichterfüllung beträgt zwei Jahre ab dem ersten Eigentumsübergang nach dem 1. Februar 2002.
 
-(4) Die Absätze 1 bis 3 sind nicht anzuwenden, soweit die für eine Nachrüstung erforderlichen Aufwendungen durch die eintretenden Einsparungen nicht innerhalb angemessener Frist erwirtschaftet werden können.
+(4) Die Absätze 1 bis 3 sind bei Wohngebäuden mit nicht mehr als zwei Wohnungen, von denen der Eigentümer eine Wohnung selbst bewohnt, nicht anzuwenden, soweit die für eine Nachrüstung erforderlichen Aufwendungen durch die eintretenden Einsparungen nicht innerhalb angemessener Frist erwirtschaftet werden können.
 
 (+++ Teil 3 (§§ 46 bis 56): Zur Nichtanwendung vgl. § 46 Abs. 2 +++)
 
@@ -908,7 +810,7 @@ b) das auf eine Nachkommastelle gerundete 1,25fache der Höchstwerte der mittler
 
 (3) In den Fällen des Absatzes 1 sind die Berechnungsverfahren nach § 20 Absatz 1 oder Absatz 2 oder nach § 21 Absatz 1 und 2 unter Beachtung der Maßgaben nach § 20 Absatz 3 bis 6, der §§ 22 bis 30 und der §§ 32 und 33 sowie nach Maßgabe von Absatz 4 entsprechend anzuwenden.
 
-(4) Fehlen Angaben zu geometrischen Abmessungen eines Gebäudes, können diese durch vereinfachtes Aufmaß ermittelt werden. Liegen energetische Kennwerte für bestehende Bauteile und Anlagenkomponenten nicht vor, können gesicherte Erfahrungswerte für Bauteile und Anlagenkomponenten vergleichbarer Altersklassen verwendet werden. In den Fällen der Sätze 1 und 2 können anerkannte Regeln der Technik verwendet werden. Die Einhaltung solcher Regeln wird vermutet, soweit Vereinfachungen für die Datenaufnahme und die Ermittlung der energetischen Eigenschaften sowie gesicherte Erfahrungswerte verwendet werden, die vom Bundesministerium für Wirtschaft und Energie und vom Bundesministerium des Innern, für Bau und Heimat gemeinsam im Bundesanzeiger bekannt gemacht worden sind.
+(4) Fehlen Angaben zu geometrischen Abmessungen eines Gebäudes, können diese durch vereinfachtes Aufmaß ermittelt werden. Liegen energetische Kennwerte für bestehende Bauteile und Anlagenkomponenten nicht vor, können gesicherte Erfahrungswerte für Bauteile und Anlagenkomponenten vergleichbarer Altersklassen verwendet werden. In den Fällen der Sätze 1 und 2 können anerkannte Regeln der Technik verwendet werden. Die Einhaltung solcher Regeln wird vermutet, soweit Vereinfachungen für die Datenaufnahme und die Ermittlung der energetischen Eigenschaften sowie gesicherte Erfahrungswerte verwendet werden, die vom Bundesministerium für Wirtschaft und Klimaschutz und vom Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen gemeinsam im Bundesanzeiger bekannt gemacht worden sind.
 
 (5) Absatz 4 kann auch in den Fällen des § 48 sowie des § 51 angewendet werden.
 
@@ -922,90 +824,21 @@ b) das auf eine Nachkommastelle gerundete 1,25fache der Höchstwerte der mittler
 
 2. bei Nichtwohngebäuden die mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche der Außenbauteile der neu hinzukommenden beheizten oder gekühlten Räume das auf eine Nachkommastelle gerundete 1,25fache der Höchstwerte gemäß der Anlage 3 nicht überschreiten.
 
+Abweichend von Satz 1 Nummer 2 sind in Fällen, bei denen die hinzukommende zusammenhängende Nutzfläche mehr als 100 Prozent der Nutzfläche des bisherigen Gebäudes beträgt, die Anforderungen nach den §§ 18 und 19 einzuhalten.
+
 (2) Ist die hinzukommende zusammenhängende Nutzfläche größer als 50 Quadratmeter, sind außerdem die Anforderungen an den sommerlichen Wärmeschutz nach § 14 einzuhalten.
 
 (+++ Teil 3 (§§ 46 bis 56): Zur Nichtanwendung vgl. § 46 Abs. 2 +++)
 
-# § 52 – Pflicht zur Nutzung von erneuerbaren Energien bei einem bestehenden öffentlichen Gebäude
+# § 52 – (weggefallen)
 
-(1) Wenn die öffentliche Hand ein bestehendes Nichtwohngebäude, das sich in ihrem Eigentum befindet und von mindestens einer Behörde genutzt wird, gemäß Absatz 2 grundlegend renoviert, muss sie den Wärme- und Kälteenergiebedarf dieses Gebäudes durch die anteilige Nutzung von erneuerbaren Energien nach Maßgabe der Absätze 3 und 4 decken. Auf die Berechnung des Wärme- und Kälteenergiebedarfs ist § 34 Absatz 1 entsprechend anzuwenden.
+# § 53 – (weggefallen)
 
-(2) Eine grundlegende Renovierung ist jede Maßnahme, durch die an einem Gebäude in einem zeitlichen Zusammenhang von nicht mehr als zwei Jahren
+# § 54 – (weggefallen)
 
-1. ein Heizkessel ausgetauscht oder die Heizungsanlage auf einen fossilen Energieträger oder auf einen anderen fossilen Energieträger als den bisher eingesetzten umgestellt wird und
+# § 55 – (weggefallen)
 
-2. mehr als 20 Prozent der Oberfläche der Gebäudehülle renoviert werden.
-
-(3) Bei der Nutzung von gasförmiger Biomasse wird die Pflicht nach Absatz 1 dadurch erfüllt, dass der Wärme- und Kälteenergiebedarf zu mindestens 25 Prozent durch gasförmige Biomasse gedeckt wird. Die Nutzung von gasförmiger Biomasse muss in einem Heizkessel, der der besten verfügbaren Technik entspricht, oder in einer KWK-Anlage erfolgen. Im Übrigen ist § 40 Absatz 2 und 3 entsprechend anzuwenden.
-
-(4) Bei Nutzung sonstiger erneuerbarer Energien wird die Pflicht nach Absatz 1 dadurch erfüllt, dass der Wärme- und Kälteenergiebedarf zu mindestens 15 Prozent durch erneuerbare Energien nach folgenden Maßgaben gedeckt wird:
-
-1. bei der Nutzung von solarer Strahlungsenergie durch solarthermische Anlagen ist § 35 Absatz 2 entsprechend anzuwenden,
-
-2. bei der Nutzung von fester Biomasse ist § 38 Absatz 2 entsprechend anzuwenden,
-
-3. bei der Nutzung von flüssiger Biomasse ist § 39 Absatz 2 und 3 entsprechend anzuwenden,
-
-4. bei der Nutzung von Kälte aus erneuerbaren Energien ist § 41 Absatz 2 bis 5 entsprechend anzuwenden.
-
-(5) Wenn mehrere bestehende Nichtwohngebäude, die sich im Eigentum der öffentlichen Hand befinden und von mindestens einer Behörde genutzt werden, in einer Liegenschaft stehen, kann die Pflicht nach Absatz 1 auch dadurch erfüllt werden, dass der Wärme- und Kälteenergiebedarf dieser Gebäude insgesamt in einem Umfang gedeckt wird, der der Summe der einzelnen Maßgaben der Absätze 3 und 4 entspricht.
-
-(+++ § 52 Abs. 5: Zur Anwendung vgl. § 53 Abs. 1 Satz 2 +++)  
-(+++ Teil 3 (§§ 46 bis 56): Zur Nichtanwendung vgl. § 46 Abs. 2 +++)
-
-# § 53 – Ersatzmaßnahmen
-
-(1) Die Pflicht nach § 52 Absatz 1 kann auch dadurch erfüllt werden, dass
-
-1. der Wärme- und Kälteenergiebedarf des renovierten Gebäudes zu mindestens 50 Prozent gedeckt wird aus
-
-a) einer Anlage zur Nutzung von Abwärme nach Maßgabe von § 42 Absatz 2 und 3 oder
-
-b) einer KWK-Anlage nach Maßgabe von § 43,
-
-2. Maßnahmen zur Einsparung von Energie nach Maßgabe von Absatz 2 getroffen werden oder
-
-3. Fernwärme oder Fernkälte nach Maßgabe von § 44 bezogen wird.
-
-§ 41 Absatz 1 Satz 3 und § 52 Absatz 5 sind entsprechend anzuwenden.
-
-(2) Bei Maßnahmen zur Einsparung von Energie muss das auf eine Nachkommastelle gerundete 1,25fache der Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche nach Anlage 3 um mindestens 10 Prozent unterschritten werden. Satz 1 gilt auch dann als erfüllt, wenn das Gebäude nach der grundlegenden Renovierung insgesamt den Jahres-Primärenergiebedarf des Referenzgebäudes nach Anlage 2 und das auf eine Nachkommastelle gerundete 1,25fache der Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche nach Anlage 3 einhält.
-
-(3) Die Pflicht nach § 52 Absatz 1 kann auch dadurch erfüllt werden, dass auf dem Dach des öffentlichen Gebäudes solarthermische Anlagen mit einer Fläche von mindestens 0,06 Quadratmetern Brutto-Kollektorfläche je Quadratmeter Nettogrundfläche von dem Eigentümer oder einem Dritten installiert und betrieben werden, wenn die mit diesen Anlagen erzeugte Wärme oder Kälte Dritten zur Deckung des Wärme- und Kälteenergiebedarfs von Gebäuden zur Verfügung gestellt wird und von diesen Dritten nicht zur Erfüllung der Anforderung nach § 10 Absatz 2 Nummer 3 genutzt wird. § 35 Absatz 3 ist entsprechend anzuwenden.
-
-(+++ Teil 3 (§§ 46 bis 56): Zur Nichtanwendung vgl. § 46 Abs. 2 +++)
-
-# § 54 – Kombination
-
-Zur Erfüllung der Pflicht nach § 52 Absatz 1 können die Maßnahmen nach § 52 Absatz 3 und 4 und die Ersatzmaßnahmen nach § 53 untereinander und miteinander kombiniert werden. Die prozentualen Anteile der einzelnen Maßnahmen an der nach § 52 Absatz 3 und 4 sowie nach § 53 vorgesehenen Nutzung müssen in der Summe mindestens 100 ergeben.
-
-(+++ Teil 3 (§§ 46 bis 56): Zur Nichtanwendung vgl. § 46 Abs. 2 +++)
-
-# § 55 – Ausnahmen
-
-(1) Die Pflicht nach § 52 Absatz 1 besteht nicht, soweit ihre Erfüllung im Einzelfall wegen besonderer Umstände durch einen unangemessenen Aufwand oder in sonstiger Weise zu einer unbilligen Härte führt. Dies ist insbesondere der Fall, wenn jede Maßnahme, mit der die Pflicht nach § 52 Absatz 1 erfüllt werden kann, mit Mehrkosten verbunden ist und diese Mehrkosten auch unter Berücksichtigung der Vorbildfunktion nicht unerheblich sind. Bei der Berechnung sind alle Kosten und Einsparungen zu berücksichtigen, auch solche, die innerhalb der noch zu erwartenden Nutzungsdauer der Anlagen oder Gebäudeteile zu erwarten sind.
-
-(2) Die Pflicht nach § 52 Absatz 1 besteht ferner nicht bei einem Gebäude im Eigentum einer Gemeinde oder eines Gemeindeverbandes, wenn
-
-1. die Gemeinde oder der Gemeindeverband zum Zeitpunkt des Beginns der grundlegenden Renovierung überschuldet ist oder durch die Erfüllung der Pflicht nach § 52 Absatz 1 und die Durchführung von Ersatzmaßnahmen nach § 53 überschuldet würde,
-
-2. jede Maßnahme, mit der die Pflicht nach § 52 Absatz 1 erfüllt werden kann, mit Mehrkosten verbunden ist, die auch unter Berücksichtigung der Vorbildfunktion nicht unerheblich sind; im Übrigen ist Absatz 1 Satz 2 und 3 entsprechend anzuwenden, und
-
-3. die Gemeinde oder der Gemeindeverband durch Beschluss das Vorliegen der Voraussetzungen nach Nummer 2 feststellt; die jeweiligen Regelungen zur Beschlussfassung bleiben unberührt.
-
-(3) Die Pflicht nach § 52 Absatz 1 besteht nicht für ein Gebäude, das der Landesverteidigung dient, soweit ihre Erfüllung der Art und dem Hauptzweck der Landesverteidigung entgegensteht.
-
-(+++ Teil 3 (§§ 46 bis 56): Zur Nichtanwendung vgl. § 46 Abs. 2 +++)
-
-# § 56 – Abweichungsbefugnis
-
-Die Länder können
-
-1. für bestehende öffentliche Gebäude, mit Ausnahme der öffentlichen Gebäude des Bundes, eigene Regelungen zur Erfüllung der Vorbildfunktion nach § 4 treffen und zu diesem Zweck von den Vorschriften dieses Abschnitts abweichen und
-
-2. für bestehende Gebäude, die keine öffentlichen Gebäude sind, eine Pflicht zur Nutzung von erneuerbaren Energien festlegen.
-
-(+++ Teil 3 (§§ 46 bis 56): Zur Nichtanwendung vgl. § 46 Abs. 2 +++)
+# § 56 – (weggefallen)
 
 # § 57 – Verbot von Veränderungen; entgegenstehende Rechtsvorschriften
 
@@ -1028,6 +861,62 @@ Eine Anlage und Einrichtung der Heizungs-, Kühl- oder Raumlufttechnik oder der 
 (1) Komponenten, die einen wesentlichen Einfluss auf den Wirkungsgrad von Anlagen und Einrichtungen der Heizungs-, Kühl- und Raumlufttechnik sowie der Warmwasserversorgung haben, sind vom Betreiber regelmäßig zu warten und instand zu halten.
 
 (2) Für die Wartung und Instandhaltung ist Fachkunde erforderlich. Fachkundig ist, wer die zur Wartung und Instandhaltung notwendigen Fachkenntnisse und Fertigkeiten besitzt. Die Handwerksordnung bleibt unberührt.
+
+# § 60a – Prüfung und Optimierung von Wärmepumpen
+
+(1) Wärmepumpen, die als Heizungsanlage zum Zweck der Inbetriebnahme in einem Gebäude mit mindestens sechs Wohnungen oder sonstigen selbständigen Nutzungseinheiten oder zur Einspeisung in ein Gebäudenetz, an das mindestens sechs Wohnungen oder sonstige selbständige Nutzungseinheiten angeschlossen sind, nach Ablauf des 31. Dezember 2023 eingebaut oder aufgestellt werden, müssen nach einer vollständigen Heizperiode, spätestens jedoch zwei Jahre nach Inbetriebnahme, einer Betriebsprüfung unterzogen werden. Satz 1 ist nicht für Warmwasser-Wärmepumpen oder Luft-Luft-Wärmepumpen anzuwenden. Die Betriebsprüfung nach Satz 1 muss für Wärmepumpen, die nicht einer Fernkontrolle unterliegen, spätestens alle fünf Jahre wiederholt werden.
+
+(2) Die Betriebsprüfung nach Absatz 1 umfasst
+
+1. die Überprüfung, ob ein hydraulischer Abgleich durchgeführt wurde,
+
+2. die Überprüfung der Regelparameter der Anlage einschließlich der Einstellung
+
+a) der Heizkurve,
+
+b) der Abschalt- oder Absenkzeiten,
+
+c) der Heizgrenztemperatur,
+
+d) der Einstellparameter der Warmwasserbereitung,
+
+e) der Pumpeneinstellungen sowie
+
+f) der Einstellungen von Bivalenzpunkt und Betriebsweise im Fall einer Wärmepumpen-Hybridheizung,
+
+3. die Überprüfung der Vor- und Rücklauftemperaturen und der Funktionstüchtigkeit des Ausdehnungsgefäßes,
+
+4. die messtechnische Auswertung der Jahresarbeitszahl und bei größeren Abweichungen von der erwarteten Jahresarbeitszahl Empfehlungen zur Verbesserung der Effizienz durch Maßnahmen an der Heizungsanlage, der Heizverteilung, dem Verhalten oder der Gebäudehülle,
+
+5. die Prüfung des Füllstandes des Kältemittelkreislaufs,
+
+6. die Überprüfung der hydraulischen Komponenten,
+
+7. die Überprüfung der elektrischen Anschlüsse,
+
+8. die Kontrolle des Zustands der Außeneinheit, sofern vorhanden, und
+
+9. die Sichtprüfung der Dämmung der Rohrleitungen des Wasserheizungssystems.
+
+(3) Die Betriebsprüfung nach Absatz 1 in Verbindung mit Absatz 2 ist von einer fachkundigen Person durchzuführen, die eine erfolgreiche Schulung im Bereich der Überprüfung von Wärmepumpen, die die Inhalte von Absatz 2 abdeckt, durchlaufen hat.
+
+(4) Fachkundig sind insbesondere
+
+1. Schornsteinfeger nach Anlage A Nummer 12 zu der Handwerksordnung,
+
+2. Installateure und Heizungsbauer nach Anlage A Nummer 24 zu der Handwerksordnung,
+
+3. Kälteanlagenbauer nach Anlage A Nummer 18 zu der Handwerksordnung,
+
+4. Ofen- und Luftheizungsbauer nach Anlage A Nummer 2 zu der Handwerksordnung,
+
+5. Elektrotechniker nach Anlage A Nummer 25 zu der Handwerksordnung oder
+
+6. Energieberater, die auf der Energieeffizienz-Expertenliste für Förderprogramme des Bundes stehen.
+
+(5) Das Ergebnis der Prüfung und der etwaige Optimierungsbedarf hinsichtlich der Anforderungen nach Absatz 1 ist schriftlich festzuhalten und dem Verantwortlichen zum Nachweis zu übersenden. Die erforderlichen Optimierungsmaßnahmen sind innerhalb von einem Jahr nach der Betriebsprüfung durchzuführen. Das Ergebnis der Prüfung nach Satz 1 und ein Nachweis über die durchgeführten Arbeiten nach Satz 2 sind auf Verlangen dem Mieter unverzüglich vorzulegen. Satz 3 ist auf Pachtverhältnisse und auf sonstige Formen der entgeltlichen Nutzungsüberlassung von Gebäuden oder Wohnungen entsprechend anzuwenden.
+
+(+++ § 60a Abs. 5 Satz 4: Zur Anwendung vgl. § 60b Abs. 5 Satz 4 u. § 60c Abs. 4 Satz 3 +++)
 
 # § 61 – Verringerung und Abschaltung der Wärmezufuhr sowie Ein- und Ausschaltung elektrischer Antriebe
 
@@ -1061,9 +950,7 @@ Bei einer Wasserheizung, die ohne Wärmeübertrager an eine Nah- oder Fernwärme
 
 # § 64 – Umwälzpumpe, Zirkulationspumpe
 
-(1) Eine Umwälzpumpe, die im Heizkreis einer Zentralheizung mit mehr als 25 Kilowatt Nennleistung eingebaut wird, ist so auszustatten, dass die elektrische Leistungsaufnahme dem betriebsbedingten Förderbedarf selbsttätig in mindestens drei Stufen angepasst wird, soweit die Betriebssicherheit des Heizkessels dem nicht entgegensteht.
-
-(2) Eine Zirkulationspumpe muss beim Einbau in eine Warmwasseranlage mit einer selbsttätig wirkenden Einrichtung zur Ein- und Ausschaltung ausgestattet werden. Die Trinkwasserverordnung bleibt unberührt.
+Eine Zirkulationspumpe muss beim Einbau in eine Warmwasseranlage mit einer selbsttätig wirkenden Einrichtung zur Ein- und Ausschaltung ausgestattet werden. Die Trinkwasserverordnung bleibt unberührt.
 
 # § 65 – Begrenzung der elektrischen Leistung
 
@@ -1097,17 +984,305 @@ Wird eine Anlage nach § 65 Satz 1 in Gebäude eingebaut oder ein Zentralgerät 
 
 # § 69 – Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen
 
-Werden Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen erstmalig in ein Gebäude eingebaut oder werden sie ersetzt, hat der Bauherr oder der Eigentümer dafür Sorge zu tragen, dass die Wärmeabgabe der Rohrleitungen und Armaturen nach Anlage 8 begrenzt wird.
+(1) Werden Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen erstmalig in ein Gebäude eingebaut oder werden sie ersetzt, hat der Bauherr oder der Eigentümer dafür Sorge zu tragen, dass die Wärmeabgabe der Rohrleitungen und Armaturen nach Anlage 8 begrenzt wird.
+
+(2) Der Eigentümer eines Gebäudes hat dafür Sorge zu tragen, dass die Wärmeabgabe von bisher ungedämmten, zugänglichen Wärmeverteilungs- und Warmwasserleitungen, die sich nicht in beheizten Räumen befinden, nach Anlage 8 begrenzt wird.
 
 # § 70 – Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen
 
 Werden Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen, die zu Klimaanlagen oder sonstigen Anlagen der Raumlufttechnik im Sinne des § 65 Satz 1 gehören, erstmalig in ein Gebäude eingebaut oder werden sie ersetzt, hat der Bauherr oder der Eigentümer dafür Sorge zu tragen, dass die Wärmeaufnahme der eingebauten oder ersetzten Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen nach Anlage 8 begrenzt wird.
 
-# § 71 – Dämmung von Wärmeverteilungs- und Warmwasserleitungen
+# § 71 – Anforderungen an eine Heizungsanlage
 
-(1) Der Eigentümer eines Gebäudes hat dafür Sorge zu tragen, dass bei heizungstechnischen Anlagen bisher ungedämmte, zugängliche Wärmeverteilungs- und Warmwasserleitungen, die sich nicht in beheizten Räumen befinden, die Wärmeabgabe der Rohrleitungen nach Anlage 8 begrenzt wird.
+(1) Eine Heizungsanlage darf zum Zweck der Inbetriebnahme in einem Gebäude nur eingebaut oder aufgestellt werden, wenn sie mindestens 65 Prozent der mit der Anlage bereitgestellten Wärme mit erneuerbaren Energien oder unvermeidbarer Abwärme nach Maßgabe der Absätze 4 bis 6 sowie der §§ 71b bis 71h erzeugt. Satz 1 ist entsprechend für eine Heizungsanlage anzuwenden, die in ein Gebäudenetz einspeist.
 
-(2) Absatz 1 ist nicht anzuwenden, soweit die für eine Nachrüstung erforderlichen Aufwendungen durch die eintretenden Einsparungen nicht innerhalb angemessener Frist erwirtschaftet werden können.
+(2) Der Gebäudeeigentümer kann frei wählen, mit welcher Heizungsanlage die Anforderungen nach Absatz 1 erfüllt werden. Die Einhaltung der Anforderungen des Absatzes 1 in Verbindung mit den §§ 71b bis 71h ist auf Grundlage von Berechnungen nach der DIN V 18599: 2018-09<span id="FnR.F827528_06"></span><a href="#F827528_06" class="FnR">*</a></sup> durch eine nach § 88 berechtigte Person vor Inbetriebnahme nachzuweisen. Der Gebäudeeigentümer ist verpflichtet, die Heizungsanlage nach den Anforderungen des Nachweises einzubauen oder aufzustellen und zu betreiben. Der Nachweis ist von dem Eigentümer und von dem Aussteller mindestens zehn Jahre aufzubewahren und der nach Landesrecht zuständigen Behörde sowie dem bevollmächtigten Bezirksschornsteinfeger auf Verlangen vorzulegen.
+
+(3) Die Anforderungen des Absatzes 1 gelten für die folgenden Anlagen einzeln oder in Kombination miteinander als erfüllt, so dass ein Nachweis nach Absatz 2 Satz 2 nicht erforderlich ist, wenn sie zum Zweck der Inbetriebnahme in einem Gebäude oder der Einspeisung in ein Gebäudenetz eingebaut oder aufgestellt werden und den Wärmebedarf des Gebäudes, der durch die Anlagen versorgten Wohnungen oder sonstigen selbständigen Nutzungseinheiten oder des Gebäudenetzes vollständig decken:
+
+1. Hausübergabestation zum Anschluss an ein Wärmenetz nach Maßgabe des § 71b,
+
+2. elektrisch angetriebene Wärmepumpe nach Maßgabe des § 71c,
+
+3. Stromdirektheizung nach Maßgabe des § 71d,
+
+4. solarthermische Anlage nach Maßgabe des § 71e,
+
+5. Heizungsanlage zur Nutzung von Biomasse oder grünem oder blauem Wasserstoff einschließlich daraus hergestellter Derivate nach Maßgabe der §§ 71f und 71g,
+
+6. Wärmepumpen-Hybridheizung bestehend aus einer elektrisch angetriebenen Wärmepumpe in Kombination mit einer Gas-, Biomasse- oder Flüssigbrennstofffeuerung nach Maßgabe des § 71h Absatz 1 oder
+
+7. Solarthermie-Hybridheizung bestehend aus einer solarthermischen Anlage nach Maßgabe der §§ 71e und 71h Absatz 2 in Kombination mit einer Gas-, Biomasse- oder Flüssigbrennstofffeuerung nach Maßgabe des § 71h Absatz 4.
+
+Beim Betrieb einer Heizungsanlage nach Satz 1 Nummer 5 bis 7 hat der Betreiber sicherzustellen, dass die Anforderungen an die Belieferung des jeweiligen Brennstoffs aus § 71f Absatz 2 bis 4 und § 71g Nummer 2 und 3 eingehalten werden.
+
+(4) Die Pflicht nach Absatz 1 ist anzuwenden
+
+1. bei einer Heizungsanlage, die sowohl Raumwärme als auch Warmwasser erzeugt, auf das Gesamtsystem,
+
+2. bei einer Heizungsanlage, in der Raumwärme und Warmwasser getrennt voneinander erzeugt werden, nur auf das Einzelsystem, das neu eingebaut oder aufgestellt wird, oder
+
+3. bei mehreren Heizungsanlagen in einem Gebäude oder in einem Quartier bei zur Wärmeversorgung verbundenen Gebäuden nach Absatz 1 Satz 2 entweder auf die einzelne Heizungsanlage, die neu eingebaut oder aufgestellt wird, oder auf die Gesamtheit aller installierten Heizungsanlagen.
+
+Sofern die neu eingebaute Heizungsanlage eine bestehende Heizungsanlage ergänzt, ist ein Nachweis nach Absatz 2 Satz 2 entbehrlich, wenn die neu eingebaute Heizungsanlage einer der in Absatz 3 Satz 1 Nummer 1 bis 7 genannten Anlagenformen entspricht.
+
+(5) Sofern die Warmwasserbereitung dezentral und unabhängig von der Erzeugung von Raumwärme erfolgt, gelten die Anforderungen des Absatzes 1 für die Anlage der Warmwasserbereitung auch als erfüllt, wenn die dezentrale Warmwasserbereitung elektrisch erfolgt. Im Fall einer dezentralen Warmwasserbereitung mit elektrischen Durchlauferhitzern müssen diese zur Erfüllung der Pflicht nach Absatz 1 elektronisch geregelt sein.
+
+(6) Unvermeidbare Abwärme kann im Nachweis der Pflichterfüllung nach Absatz 1 angerechnet werden, soweit sie über ein technisches System nutzbar gemacht und im Gebäude zur Deckung des Wärmebedarfs eingesetzt wird. Beim Betrieb einer dezentralen, handbeschickten Einzelraumfeuerungsanlage kann im Nachweis der Pflichterfüllung nach Absatz 1 ein vom Standardwert der DIN V 18599-5: 2018-09<span id="FnR.F827528_07"></span><a href="#F827528_07" class="FnR">*</a></sup> abweichender Wert von 0,10 für den Deckungsanteil am Nutzwärmebedarf angerechnet werden.
+
+(7) Die Anforderungen nach Absatz 1 sind nicht für eine Heizungsanlage anzuwenden, die zur ausschließlichen Versorgung von Gebäuden der Landes- und Bündnisverteidigung betrieben, eingebaut oder aufgestellt wird, soweit ihre Erfüllung der Art und dem Hauptzweck der Landes- und Bündnisverteidigung entgegensteht.
+
+(8) In einem bestehenden Gebäude, das in einem Gemeindegebiet liegt, in dem am 1. Januar 2024 mehr als 100 000 Einwohner gemeldet sind, kann bis zum Ablauf des 30. Juni 2026 eine Heizungsanlage ausgetauscht und eine andere Heizungsanlage zum Zweck der Inbetriebnahme eingebaut oder aufgestellt und betrieben werden, die nicht die Vorgaben des Absatzes 1 erfüllt. In einem bestehenden Gebäude, das in einem Gemeindegebiet liegt, in dem am 1. Januar 2024 100 000 Einwohner oder weniger gemeldet sind, kann bis zum Ablauf des 30. Juni 2028 eine Heizungsanlage ausgetauscht und eine andere Heizungsanlage zum Zweck der Inbetriebnahme eingebaut oder aufgestellt und betrieben werden, die nicht die Vorgaben des Absatzes 1 erfüllt. Sofern das Gebäude in einem Gebiet liegt, für das vor Ablauf des 30. Juni 2026 im Fall des Satzes 1 oder vor Ablauf des 30. Juni 2028 im Fall des Satzes 2 durch die nach Landesrecht zuständige Stelle unter Berücksichtigung eines Wärmeplans, der auf der Grundlage einer bundesgesetzlichen Regelung zur Wärmeplanung erstellt wurde, eine Entscheidung über die Ausweisung als Gebiet zum Neu- oder Ausbau eines Wärmenetzes oder als Wasserstoffnetzausbaugebiet getroffen wurde, sind die Anforderungen nach Absatz 1 einen Monat nach Bekanntgabe dieser Entscheidung anzuwenden. Gemeindegebiete, in denen nach Ablauf des 30. Juni 2026 im Fall des Satzes 1 oder nach Ablauf des 30. Juni 2028 im Fall des Satzes 2 keine Wärmeplanung vorliegt, werden so behandelt, als läge eine Wärmeplanung vor.
+
+(9) Der Betreiber einer mit einem flüssigen oder gasförmigen Brennstoff beschickten Heizungsanlage, die nach Ablauf des 31. Dezember 2023 und vor Ablauf des 30. Juni 2026 im Fall des Absatzes 8 Satz 1 oder vor Ablauf des 30. Juni 2028 im Fall des Absatzes 8 Satz 2 oder vor Ablauf von einem Monat nach der Bekanntgabe der Entscheidung nach Absatz 8 Satz 3 eingebaut wird und die nicht die Anforderungen des Absatzes 1 erfüllt, hat sicherzustellen, dass ab dem 1. Januar 2029 mindestens 15 Prozent, ab dem 1. Januar 2035 mindestens 30 Prozent und ab dem 1. Januar 2040 mindestens 60 Prozent der mit der Anlage bereitgestellten Wärme aus Biomasse oder grünem oder blauem Wasserstoff einschließlich daraus hergestellter Derivate erzeugt wird. § 71f Absatz 2 bis 4 ist entsprechend anzuwenden.
+
+(10) Die Absätze 8 und 9 sind entsprechend anzuwenden bei zu errichtenden Gebäuden, sofern es sich um die Schließung von Baulücken handelt und sich die bauplanungsrechtliche Zulässigkeit der zu errichtenden Gebäude aus § 34 oder § 35 des Baugesetzbuchs in der jeweils geltenden Fassung oder, sofern die Öffentlichkeitsbeteiligung nach § 3 Absatz 2 des Baugesetzbuchs vor dem 3. April 2023 eingeleitet worden ist, aus § 30 Absatz 1 oder Absatz 2 des Baugesetzbuchs ergibt.
+
+(11) Vor Einbau und Aufstellung einer Heizungsanlage, die mit einem festen, flüssigen oder gasförmigen Brennstoff betrieben wird, hat eine Beratung zu erfolgen, die auf mögliche Auswirkungen der Wärmeplanung und eine mögliche Unwirtschaftlichkeit, insbesondere aufgrund ansteigender Kohlenstoffdioxid-Bepreisung, hinweist. Die Beratung ist von einer fachkundigen Person nach § 60b Absatz 3 Satz 2 oder § 88 Absatz 1 durchzuführen. Das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen stellen bis zum 1. Januar 2024 Informationen zur Verfügung, die als Grundlage für die Beratung zu verwenden sind.
+
+(12) Absatz 1 ist nicht für Heizungsanlagen anzuwenden, für die ein Lieferungs- oder Leistungsvertrag vor dem 19. April 2023 geschlossen wurde und die bis zum Ablauf des 18. Oktober 2024 zum Zwecke der Inbetriebnahme eingebaut oder aufgestellt werden.
+
+# § 71a – Gebäudeautomation
+
+(1) Ein Nichtwohngebäude mit einer Nennleistung der Heizungsanlage oder der kombinierten Raumheizungs- und Lüftungsanlage von mehr als 290 Kilowatt muss bis zum Ablauf des 31. Dezember 2024 mit einem System für die Gebäudeautomatisierung und -steuerung nach Maßgabe der Absätze 2 bis 4 ausgerüstet werden. Satz 1 ist auch für ein Nichtwohngebäude mit einer Nennleistung für eine Klimaanlage oder eine kombinierte Klima- und Lüftungsanlage von mehr als 290 Kilowatt anzuwenden.
+
+(2) Zur Erfüllung der Anforderung nach Absatz 1 muss ein Nichtwohngebäude mit digitaler Energieüberwachungstechnik ausgestattet werden, mittels derer
+
+1. eine kontinuierliche Überwachung, Protokollierung und Analyse der Verbräuche aller Hauptenergieträger sowie aller gebäudetechnischen Systeme durchgeführt werden kann,
+
+2. die erhobenen Daten über eine gängige und frei konfigurierbare Schnittstelle zugänglich gemacht werden, sodass Auswertungen firmen- und herstellerunabhängig erfolgen können,
+
+3. Anforderungswerte in Bezug auf die Energieeffizienz des Gebäudes aufgestellt werden können,
+
+4. Effizienzverluste von gebäudetechnischen Systemen erkannt werden können und
+
+5. die für die Einrichtung oder das gebäudetechnische Management zuständige Person über mögliche Verbesserungen der Energieeffizienz informiert werden kann.
+
+Zusätzlich ist eine für das Gebäude-Energiemanagement zuständige Person oder ein Unternehmen zu benennen oder zu beauftragen, um in einem kontinuierlichen Verbesserungsprozess die Potenziale für einen energetisch optimierten Gebäudebetrieb zu analysieren und zu heben.
+
+(3) Neben der Anforderung nach Absatz 2 muss ein zu errichtendes Nichtwohngebäude
+
+1. mit einem System für die Gebäudeautomatisierung entsprechend dem Automatisierungsgrad B nach der DIN V 18599-11: 2018-09<span id="FnR.F827528_08"></span><a href="#F827528_08" class="FnR">*</a></sup> oder besser ausgestattet sein und
+
+2. ein technisches Inbetriebnahme-Management einschließlich der Einregelung der gebäudetechnischen Anlagen durchlaufen, um einen optimalen Betrieb zu gewährleisten.
+
+Bei der Ausstattung des Systems für die Gebäudeautomatisierung nach Satz 1 Nummer 1 muss sichergestellt sein, dass dieses System die Kommunikation zwischen miteinander verbundenen gebäudetechnischen Systemen und anderen Anwendungen innerhalb des Gebäudes ermöglicht und gemeinsam mit anderen Typen gebäudetechnischer Systeme betrieben werden kann, auch bei unterschiedlichen herstellereigenen Technologien, Geräten und Herstellern. Das technische Inbetriebnahme-Management nach Satz 1 Nummer 2 muss mindestens den Zeitraum einer Heizperiode für Anlagen zur Wärmeerzeugung und mindestens eine Kühlperiode für Anlagen zur Kälteerzeugung erfassen.
+
+(4) Sofern in einem bestehenden Nichtwohngebäude bereits ein System für die Gebäudeautomatisierung entsprechend dem Automatisierungsgrad B nach der DIN V 18599-11: 2018-09<a href="#F827528_08" class="FnR">*</a></sup> oder besser eingesetzt wird, muss bis zum Ablauf des 31. Dezember 2024 die Kommunikation zwischen miteinander verbundenen gebäudetechnischen Systemen und anderen Anwendungen innerhalb des Gebäudes ermöglicht werden sowie sichergestellt werden, dass diese Systeme gemeinsam mit anderen Typen gebäudetechnischer Systeme betrieben werden können, auch bei unterschiedlichen herstellereigenen Technologien, Geräten und Herstellern.
+
+# § 71b – Anforderungen bei Anschluss an ein Wärmenetz und Pflichten für Wärmenetzbetreiber
+
+(1) Beim Einbau oder bei der Aufstellung einer Hausübergabestation zum Anschluss an ein neues Wärmenetz, dessen Baubeginn nach Ablauf des 31. Dezember 2023 liegt, hat der Wärmenetzbetreiber sicherzustellen, dass das Wärmenetz die zum Zeitpunkt der Beauftragung des Netzanschlusses jeweils geltenden rechtlichen Anforderungen an dieses Wärmenetz erfüllt. Ein neues Wärmenetz nach Satz 1 liegt vor, wenn dessen Wärmebereitstellung nicht oder im Jahresmittel zu weniger als 20 Prozent thermisch, durch direkte hydraulische Verbindung oder indirekt über Wärmeübertragung aus einem bestehenden vorgelagerten Wärmenetz erfolgt. Der Wärmenetzbetreiber hat dem Verantwortlichen die Erfüllung der Voraussetzungen nach Satz 1 zum Zeitpunkt der Herstellung des Netzanschlusses schriftlich zu bestätigen.
+
+(2) Beim Einbau oder bei der Aufstellung einer Hausübergabestation zum Anschluss an ein Wärmenetz, dessen Baubeginn vor dem 1. Januar 2024 liegt und in dem weniger als 65 Prozent der insgesamt verteilten Wärme aus erneuerbaren Energien oder unvermeidbarer Abwärme stammen, hat der Wärmenetzbetreiber sicherzustellen, dass das Wärmenetz zum Zeitpunkt des Netzanschlusses die jeweils geltenden rechtlichen Anforderungen an dieses Wärmenetz erfüllt. Der Wärmenetzbetreiber hat dem Verantwortlichen die Erfüllung der Voraussetzungen nach Satz 1 zum Zeitpunkt des Netzanschlusses schriftlich zu bestätigen.
+
+(3) Die Bestätigung des Wärmenetzbetreibers nach Absatz 1 Satz 3 und Absatz 2 Satz 2 steht für den nach § 71 Absatz 1 Verantwortlichen der Erfüllung der Anforderungen der Absätze 1 und 2 gleich.
+
+# § 71c – Anforderungen an die Nutzung einer Wärmepumpe
+
+Beim Einbau einer oder mehrerer elektrischer Wärmepumpen gelten die Anforderungen des § 71 Absatz 1 als erfüllt, wenn eine oder mehrere Wärmepumpen den Wärmebedarf des Gebäudes oder der über ein Gebäudenetz verbundenen Gebäude decken.
+
+# § 71d – Anforderungen an die Nutzung einer Stromdirektheizung
+
+(1) Eine Stromdirektheizung darf in einem zu errichtenden Gebäude zum Zweck der Inbetriebnahme nur eingebaut oder aufgestellt werden, wenn das Gebäude die Anforderungen an den baulichen Wärmeschutz nach den §§ 16 und 19 um mindestens 45 Prozent unterschreitet.
+
+(2) Eine Stromdirektheizung darf in ein bestehendes Gebäude zum Zweck der Inbetriebnahme nur eingebaut oder aufgestellt werden, wenn das Gebäude die Anforderungen an den baulichen Wärmeschutz nach den §§ 16 und 19 um mindestens 30 Prozent unterschreitet. Wenn ein bestehendes Gebäude bereits über eine Heizungsanlage mit Wasser als Wärmeträger verfügt, ist der Einbau einer Stromdirektheizung nur zulässig, wenn das Gebäude die Anforderungen an den baulichen Wärmeschutz nach den §§ 16 und 19 um mindestens 45 Prozent unterschreitet. Die Einhaltung der Anforderungen nach den Sätzen 1 und 2 ist durch eine nach § 88 berechtigte Person nachzuweisen. Der Nachweis ist von dem Eigentümer mindestens zehn Jahre aufzubewahren und der nach Landesrecht zuständigen Behörde auf Verlangen vorzulegen.
+
+(3) Absatz 2 ist nicht beim Austausch einer bestehenden einzelnen Einzelraum-Stromdirektheizung anzuwenden.
+
+(4) Die Absätze 1 und 2 sind nicht anzuwenden
+
+1. auf eine Stromdirektheizung in einem Gebäude, in dem ein dezentrales Heizungssystem zur Beheizung von Gebäudezonen mit einer Raumhöhe von mehr als 4 Metern eingebaut oder aufgestellt wird und
+
+2. in einem Wohngebäude mit nicht mehr als zwei Wohnungen, von denen der Eigentümer eine Wohnung selbst bewohnt.
+
+# § 71e – Anforderungen an eine solarthermische Anlage
+
+Wird eine solarthermische Anlage mit Flüssigkeiten als Wärmeträger genutzt, müssen die darin enthaltenen Kollektoren oder das System mit dem europäischen Prüfzeichen „Solar Keymark“ zertifiziert sein, solange und soweit die Verwendung einer CE-Kennzeichnung nach Maßgabe eines Durchführungsrechtsaktes auf der Grundlage der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte (ABl. L 285 vom 31.10.2009, S. 10), die zuletzt durch die Richtlinie 2012/27/EU (ABl. L 315 vom 14.11.2012, S. 1) geändert worden ist, nicht zwingend vorgeschrieben ist. Die Zertifizierung muss nach den anerkannten Regeln der Technik erfolgen.
+
+# § 71f – Anforderungen an Biomasse und Wasserstoff einschließlich daraus hergestellter Derivate
+
+(1) Der Betreiber einer mit flüssigen oder gasförmigen Brennstoffen beschickten Heizungsanlage hat sicherzustellen, dass mindestens 65 Prozent der mit der Anlage bereitgestellten Wärme aus Biomasse oder grünem oder blauem Wasserstoff einschließlich daraus hergestellter Derivate erzeugt wird. Satz 1 ist nicht anzuwenden, soweit der Nachweis nach § 71 Absatz 2 Satz 4 einen geringeren Anteil der mit der Anlage bereitgestellten Wärme aus Biomasse oder grünem oder blauem Wasserstoff einschließlich daraus hergestellter Derivate erlaubt.
+
+(2) Der Betreiber der Heizungsanlage hat sicherzustellen, dass die eingesetzte flüssige Biomasse die Anforderungen an einen nachhaltigen Anbau und eine nachhaltige Herstellung der Biomassestrom-Nachhaltigkeitsverordnung vom 2. Dezember 2021 (BGBl. I S. 5126) in der jeweils geltenden Fassung erfüllt.
+
+(3) Der Betreiber der Heizungsanlage hat sicherzustellen, dass bei der Nutzung von Biomethan die Voraussetzungen des § 22 Absatz 1 Satz 1 Nummer 2 Buchstabe c und d eingehalten werden. Bei der Nutzung von biogenem Flüssiggas sind die Anforderungen des § 22 Absatz 1 Satz 1 Nummer 3 Buchstabe c einzuhalten. Bei der Nutzung von grünem oder blauem Wasserstoff einschließlich daraus hergestellter Derivate, die über ein netzgebundenes System geliefert werden, muss die Menge des entnommenen grünen oder blauen Wasserstoffs oder daraus hergestellter Derivate im Wärmeäquivalent am Ende eines Kalenderjahres der Menge von grünem oder blauem Wasserstoff oder daraus hergestellter Derivate entsprechen, die an anderer Stelle in das Netz eingespeist worden ist, und es müssen Massebilanzsysteme für den gesamten Transport und Vertrieb des grünen oder blauen Wasserstoffs oder daraus hergestellter Derivate von seiner Herstellung über seine Einspeisung in das Netz, seinen Transport im Netz bis zu seiner Entnahme aus dem Netz verwendet worden sein. Bei der sonstigen Nutzung von grünem oder blauem Wasserstoff muss die Menge des entnommenen grünen oder blauen Wasserstoffs oder daraus hergestellter Derivate am Ende eines Kalenderjahres der Menge von grünem oder blauem Wasserstoff oder daraus hergestellter Derivate entsprechen, die an anderer Stelle hergestellt worden ist, und es müssen Massebilanzsysteme für den gesamten Transport und Vertrieb des grünen oder blauen Wasserstoffs oder daraus hergestellter Derivate von seiner Herstellung über seine Zwischenlagerung und seinen Transport bis zu seiner Einlagerung in den Verbrauchstank verwendet worden sein.
+
+(4) Der zur Erzeugung der gasförmigen Biomasse eingesetzte Anteil von Getreidekorn oder Mais in jedem Kalenderjahr darf insgesamt höchstens 40 Masseprozent betragen. Als Mais im Sinne von Satz 1 sind Ganzpflanzen, Maiskorn-Spindel-Gemisch, Körnermais und Lieschkolbenschrot anzusehen. Satz 1 ist nur für neue Vergärungsanlagen ab einer Leistung von 1 Megawatt anwendbar, die nach Ablauf des 31. Dezember 2023 in Betrieb genommen werden. Für den Begriff der Anlage ist § 24 Absatz 1 Satz 1 und 2 des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) in der jeweils geltenden Fassung entsprechend anzuwenden.
+
+(+++ § 71f Abs. 2 bis 4: Zur Anwendung vgl. § 71 Abs. 9 Satz 2 +++)
+
+# § 71g – Anforderungen an eine Heizungsanlage zur Nutzung von fester Biomasse
+
+Der Betreiber einer Feuerungsanlage im Sinne von § 1 Absatz 1 und § 2 Nummer 5 der Verordnung über kleine und mittlere Feuerungsanlagen hat bei der Nutzung von fester Biomasse sicherzustellen, dass
+
+1. die Nutzung in einem automatisch beschickten Biomasseofen mit Wasser als Wärmeträger oder einem Biomassekessel erfolgt,
+
+2. ausschließlich Biomasse nach § 3 Absatz 1 Nummer 4, 5, 5a, 8 oder Nummer 13 der Verordnung über kleine und mittlere Feuerungsanlagen eingesetzt wird und
+
+3. Biomasse entsprechend den Vorgaben der Verordnung (EU) 2023/1115 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über die Bereitstellung bestimmter Rohstoffe und Erzeugnisse, die mit Entwaldung und Waldschädigung in Verbindung stehen, auf dem Unionsmarkt und ihre Ausfuhr aus der Union sowie zur Aufhebung der Verordnung (EU) Nr. 995/2010 (ABl. L 150 vom 9.6.2023, S. 206) eingesetzt wird.
+
+# § 71h – Anforderungen an eine Wärmepumpen- oder eine Solarthermie-Hybridheizung
+
+(1) Eine Wärmepumpen-Hybridheizung, bestehend aus einer elektrisch angetriebenen Wärmepumpe in Kombination mit einer Gas-, Biomasse- oder Flüssigbrennstofffeuerung, darf nur eingebaut oder aufgestellt und betrieben werden, wenn die Anforderungen nach den Sätzen 2 und 3 erfüllt sind. Die Anforderungen des § 71 Absatz 1 gelten als erfüllt, wenn
+
+1. der Betrieb für Raumwärme oder Raumwärme und Warmwasser bivalent parallel oder bivalent teilparallel oder bivalent alternativ mit Vorrang für die Wärmepumpe erfolgt, so dass der Spitzenlasterzeuger nur eingesetzt wird, wenn der Wärmebedarf nicht mehr von der Wärmepumpe gedeckt werden kann,
+
+2. die einzelnen Wärmeerzeuger, aus denen die Wärmepumpen-Hybridheizung kombiniert ist, über eine gemeinsame, fernansprechbare Steuerung verfügen und
+
+3. der Spitzenlasterzeuger im Fall des Einsatzes von gasförmigen oder flüssigen Brennstoffen ein Brennwertkessel ist.
+
+Im Fall des § 71 Absatz 3 Satz 1 Nummer 6 muss zusätzlich die thermische Leistung der Wärmepumpe bei bivalent parallelem oder bivalent teilparallelem Betrieb mindestens 30 Prozent der Heizlast, bei bivalent alternativem Betrieb mindestens 40 Prozent des von der Wärmepumpen-Hybridheizung versorgten Gebäudes oder Gebäudeteils betragen. Die Anforderung nach Satz 2 gilt als erfüllt, wenn die Leistung der Wärmepumpe beim Teillastpunkt A nach der DIN EN 14825<span id="FnR.F827528_09"></span><a href="#F827528_09" class="FnR">4</a></sup> bei bivalent parallelem oder bivalent teilparallelem Betrieb mindestens 30 Prozent oder bei bivalent alternativem Betrieb mindestens 40 Prozent der Leistung des Spitzenlasterzeugers entspricht.
+
+(2) Eine Solarthermie-Hybridheizung, bestehend aus einer solarthermischen Anlage und in Kombination mit einer Gas-, Biomasse- oder Flüssigbrennstofffeuerung, darf nur eingebaut oder aufgestellt und betrieben werden, wenn die Anforderungen nach den Absätzen 3 bis 5 erfüllt sind.
+
+(3) Die solarthermische Anlage muss mindestens folgende Aperturflächen erreichen:
+
+1. bei Wohngebäuden mit höchstens zwei Wohneinheiten eine Fläche von mindestens 0,07 Quadratmetern Aperturfläche je Quadratmeter Nutzfläche oder
+
+2. bei Wohngebäuden mit mehr als zwei Wohneinheiten oder Nichtwohngebäuden eine Fläche von mindestens 0,06 Quadratmetern Aperturfläche je Quadratmeter Nutzfläche.
+
+Beim Einsatz von Vakuumröhrenkollektoren verringert sich die Mindestfläche um 20 Prozent.
+
+(4) Im Fall einer Solarthermie-Hybridheizung nach Absatz 2 muss bei der Biomasse-, Gas- oder Flüssigbrennstofffeuerung ein Anteil von mindestens 60 Prozent der aus der Biomasse-, Gas- oder Flüssigbrennstofffeuerung bereitgestellten Wärme aus Biomasse oder grünem oder blauem Wasserstoff einschließlich daraus hergestellter Derivate erzeugt werden.
+
+(5) Sofern eine solarthermische Anlage mit kleinerer Aperturfläche als der in Absatz 3 genannten eingesetzt wird, ist die Reduktion der Anforderung an den Anteil von mit der Anlage bereitgestellter Wärme aus Biomasse oder grünem oder blauem Wasserstoff einschließlich daraus hergestellter Derivate nach Absatz 3 von 65 Prozent auf 60 Prozent entsprechend dem Anteil der eingesetzten Aperturfläche an der in Absatz 3 genannten Aperturfläche zu mindern.
+
+# § 71i – Allgemeine Übergangsfrist
+
+Im Fall eines Heizungsaustauschs nach den in § 71 Absatz 8 Satz 1 bis 3 genannten Zeitpunkten kann höchstens für fünf Jahre übergangsweise eine alte Heizungsanlage ausgetauscht und eine andere Heizungsanlage zum Zweck der Inbetriebnahme eingebaut oder aufgestellt und betrieben werden, die nicht die Anforderungen des § 71 Absatz 1 erfüllt. Die Frist nach Satz 1 beginnt mit dem Tag, an dem erstmals Arbeiten zum Austausch der Heizungsanlage durchgeführt werden. Sofern innerhalb der in Satz 1 genannten Frist ein weiterer Heizungstausch stattfindet, ist für den Fristbeginn nach Satz 1 der Zeitpunkt des erstmaligen Austauschs der alten Heizungsanlage maßgeblich. Satz 1 ist nicht anzuwenden für eine Etagenheizung nach § 71l Absatz 1 und für eine Einzelraumfeuerungsanlage nach § 71l Absatz 7 sowie für eine Hallenheizung nach § 71m.
+
+(+++ § 71i Satz 2: Zur Anwendung vgl. § 71l Abs. 1 Satz 2, § 71m Abs. 1 Satz 3 u. § 71m Abs. 2 Satz 4 +++)
+
+# § 71j – Übergangsfristen bei Neu- und Ausbau eines Wärmenetzes
+
+(1) Bis zum Anschluss an ein Wärmenetz nach § 71b Absatz 1 oder Absatz 2 kann eine Heizungsanlage zum Zweck der Inbetriebnahme eingebaut oder aufgestellt und ohne Einhaltung der Anforderungen nach § 71 Absatz 1 oder § 71 Absatz 9 zur Wärmeerzeugung betrieben werden, wenn vor Einbau oder Aufstellung der Heizungsanlage zur Inbetriebnahme
+
+1. der Gebäudeeigentümer einen Vertrag zur Lieferung von mindestens 65 Prozent Wärme aus erneuerbaren Energien oder unvermeidbarer Abwärme sowie zum Anschluss des Gebäudes an ein Wärmenetz nachweist, auf dessen Basis er ab dem Zeitpunkt des Anschlusses des Gebäudes an das Wärmenetz, spätestens innerhalb von zehn Jahren nach Vertragsschluss, beliefert wird,
+
+2. der Wärmenetzbetreiber der nach Landesrecht zuständigen Behörde für das Versorgungsgebiet einen Wärmenetzausbau- und -dekarbonisierungsfahrplan, der in Einklang mit den jeweils geltenden gesetzlichen Anforderungen steht, mit zwei- bis dreijährlichen Meilensteinen für die Erschließung des Gebiets mit einem Wärmenetz vorgelegt hat und
+
+3. der Wärmenetzbetreiber sich gegenüber dem Gebäudeeigentümer verpflichtet, dass das Wärmenetz innerhalb der vom Wärmenetzausbau- und -dekarbonisierungsfahrplan vorgesehenen Fristen, spätestens innerhalb von zehn Jahren nach Vertragsschluss, in Betrieb genommen wird.
+
+Der Wärmenetzbetreiber hat in Textform gegenüber dem Gebäudeeigentümer auf dessen Anforderung die Erfüllung der Voraussetzungen nach Satz 1 Nummer 1 und 2 vor Einbau oder der Aufstellung der Heizungsanlage zur Inbetriebnahme zu bestätigen.
+
+(2) Sofern die nach Landesrecht zuständige Behörde durch Bescheid gegenüber dem Wärmenetzbetreiber feststellt, dass die Umsetzung der Maßnahmen des Wärmenetzausbau- und -dekarbonisierungsfahrplans zum Wärmenetzausbau vollständig oder für bestimmte Gebiete nicht weiterverfolgt wird, muss in den von der Feststellung betroffenen Gebieten jede Heizungsanlage, die spätestens bis zum Ablauf eines Jahres, nachdem der Bescheid bestandskräftig und die Bestandskraft öffentlich bekanntgegeben worden ist, neu eingebaut oder aufgestellt worden ist, die Anforderungen nach § 71 Absatz 1 spätestens bis zum Ablauf einer Übergangsfrist von drei Jahren nach öffentlicher Bekanntgabe des Eintritts der Bestandskraft des Bescheids erfüllen.
+
+(3) Sofern die Heizungsanlage nach Ablauf der Frist in Absatz 1 Satz 1 Nummer 3 nicht über das Wärmenetz mit mindestens 65 Prozent Wärme aus erneuerbaren Energien oder unvermeidbarer Abwärme betrieben oder versorgt werden kann, ist der Gebäudeeigentümer verpflichtet, die Anforderungen nach § 71 Absatz 1 nach Ablauf von drei Jahren ab Ablauf der Frist in Absatz 1 Satz 1 Nummer 3 einzuhalten.
+
+(4) Der Gebäudeeigentümer hat in den Fällen des Absatzes 2 oder des Absatzes 3 einen Anspruch gegen den Wärmenetzbetreiber, der sich nach Absatz 1 Satz 1 Nummer 1 zum Anschluss des Gebäudeeigentümers an das Wärmenetz verpflichtet hat, auf Erstattung der daraus entstehenden Mehrkosten. Dies ist nicht anzuwenden, wenn der Wärmenetzbetreiber die Entstehung der Mehrkosten nicht zu vertreten hat.
+
+# § 71k – Übergangsfristen bei einer Heizungsanlage, die sowohl Gas als auch Wasserstoff verbrennen kann; Festlegungskompetenz
+
+(1) Bis zum Anschluss an ein Wasserstoffnetz kann eine Heizungsanlage, die Erdgas verbrennen kann und auf die Verbrennung von 100 Prozent Wasserstoff umrüstbar ist, zum Zweck der Inbetriebnahme eingebaut oder aufgestellt und ohne Einhaltung der Anforderungen nach § 71 Absatz 1 oder Absatz 9 zur Wärmeerzeugung betrieben werden, wenn
+
+1. das Gebäude in einem Gebiet liegt, für das die nach Landesrecht zuständige Stelle unter Berücksichtigung eines Wärmeplans, der auf der Grundlage einer bundesgesetzlichen Regelung zur Wärmeplanung erstellt wurde, eine Entscheidung über die Ausweisung als Wasserstoffnetzausbaugebiet getroffen hat, und das spätestens bis zum Ablauf des 31. Dezember 2044 vollständig mit Wasserstoff versorgt werden soll und
+
+2. der Betreiber des Gasverteilernetzes, an dessen Netz die Heizungsanlage angeschlossen ist, und die nach Landesrecht für die Wärmeplanung zuständige Stelle bis zum Ablauf des 30. Juni 2028 einen einvernehmlichen, mit Zwischenzielen versehenen, verbindlichen Fahrplan für die bis zum Ablauf des 31. Dezember 2044 zu vollendende Umstellung der Netzinfrastruktur auf die vollständige Versorgung der Anschlussnehmer mit Wasserstoff beschlossen und veröffentlicht haben und darin mindestens festgelegt haben,
+
+a) in welchen technischen und zeitlichen Schritten die Umstellung der Infrastruktur und der Hochlauf auf Wasserstoff erfolgt; dabei muss der Fahrplan in Übereinstimmung mit den Netzentwicklungsplänen der Fernleitungsebene stehen oder der Betreiber des Gasverteilernetzes darlegen, wie vor Ort ausreichend Wasserstoff produziert und gespeichert werden kann,
+
+b) wie die Umstellung auf die vollständige Versorgung der Anschlussnehmer auf Wasserstoff finanziert wird, insbesondere, wer die Kosten der Umrüstungen und des Austauschs der nicht umrüstbaren Verbrauchsgeräte tragen soll, und
+
+c) mit welchen zeitlichen und räumlichen Zwischenschritten in den Jahren 2035 und 2040 die Umstellung von Netzteilen in Einklang mit den Klimaschutzzielen des Bundes unter Berücksichtigung der verbleibenden Treibhausgasemissionen erfolgt.
+
+(2) Der verbindliche Fahrplan nach Absatz 1 Nummer 2 muss einen Investitionsplan mit zwei- bis dreijährlichen Meilensteinen für die Umsetzung des Neubaus oder der Umstellung des Gasnetzes auf Wasserstoff enthalten.
+
+(3) Der Fahrplan nach Absatz 1 Nummer 2 wird nach Genehmigung durch die Bundesnetzagentur wirksam und veröffentlicht sowie von ihr regelmäßig alle drei Jahre überprüft. Die Bundesnetzagentur prüft dabei, ob die Anforderungen nach Absatz 1 Nummer 2 und Absatz 2 vorliegen und fristgerecht umgesetzt werden, insbesondere, ob
+
+1. die Umstellung der Infrastruktur auf Wasserstoff im Rahmen der rechtlichen Vorgaben technisch und wirtschaftlich gesichert erscheint und die Versorgung des Wasserstoffverteilnetzes fristgemäß über die darüberliegenden Netzebenen sichergestellt ist oder
+
+2. der Betreiber des Gasverteilernetzes eine Abkoppelung seines Netzes vom vorgelagerten Netz vorsieht und eine gesicherte Wasserstoffversorgung durch lokale Erzeugung nachgewiesen wird.
+
+Die Bundesnetzagentur bestimmt erstmals zum 31. Dezember 2024 nach § 29 Absatz 1 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970; 3621) in der jeweils geltenden Fassung durch Festlegung das Format des Fahrplans und die Art der dafür vorzulegenden Nachweise, wie vorzulegende Verträge und Finanzierungszusagen, die Art der Übermittlung und die Methodik zur Überprüfung der Anforderungen nach Absatz 1 Nummer 2.
+
+(4) Sofern die Bundesnetzagentur nach Überprüfung nach Absatz 3 gegenüber dem Betreiber eines Gasverteilernetzes und der nach Landesrecht für die Wärmeplanung zuständigen Stelle durch Bescheid feststellt, dass die Umsetzung des Fahrplans nicht die Anforderungen nach Absatz 1 Nummer 2, Absatz 2 oder Absatz 3 erfüllt oder die beabsichtigte Umstellung oder der Neubau eines Wasserstoffverteilnetzes nicht weiterverfolgt wird, muss jede Heizungsanlage, die spätestens bis zum Ablauf eines Jahres, nachdem der Bescheid über eine nicht den Anforderungen genügende oder eingestellte Umsetzung des Fahrplans der Bundesnetzagentur bestandskräftig und die Bestandskraft öffentlich bekanntgegeben worden ist, neu eingebaut oder aufgestellt worden ist, die Anforderungen nach § 71 Absatz 1 spätestens bis zum Ablauf einer Übergangsfrist von drei Jahren nach öffentlicher Bekanntgabe des Eintritts der Bestandskraft des Bescheids erfüllen. Der Betreiber des geplanten Wasserstoffverteilnetzes muss die Entscheidung der Bundesnetzagentur in Textform jedem Anschlussnehmer unverzüglich mitteilen.
+
+(5) Für die Wahrnehmung der Aufgaben der Bundesnetzagentur nach diesem Gesetz sind die Bestimmungen des Teils 8 des Energiewirtschaftsgesetzes entsprechend anzuwenden.
+
+(6) Der Gebäudeeigentümer hat im Fall des Absatzes 4 einen Anspruch auf Erstattung der daraus entstehenden Mehrkosten gegen den Betreiber des Gasverteilernetzes, an dessen Netz seine Heizungsanlage angeschlossen ist. Dies ist nicht anzuwenden, wenn der Betreiber des Gasverteilernetzes die Entstehung der Mehrkosten nicht zu vertreten hat.
+
+(7) Eine Heizungsanlage ist nach Absatz 1 auf die Verbrennung von 100 Prozent Wasserstoff umrüstbar, wenn die Heizungsanlage mit niederschwelligen Maßnahmen nach dem Austausch einzelner Bauteile mit 100 Prozent Wasserstoff betrieben werden kann. Der Nachweis der Umrüstbarkeit auf die Verbrennung von 100 Prozent Wasserstoff im Sinne des Satzes 1 kann durch eine Hersteller- oder Handwerkererklärung erbracht werden.
+
+# § 71l – Übergangsfristen bei einer Etagenheizung oder einer Einzelraumfeuerungsanlage
+
+(1) In einem Gebäude, in dem mindestens eine Etagenheizung betrieben wird, sind die Anforderungen des § 71 Absatz 1 für Etagenheizungen erst fünf Jahre nach dem Zeitpunkt anzuwenden, zu dem die erste Etagenheizung oder zentrale Heizungsanlage ausgetauscht und eine andere Heizungsanlage zum Zweck der Inbetriebnahme in dem Gebäude eingebaut oder aufgestellt wurde. § 71i Satz 2 ist entsprechend anzuwenden.
+
+(2) Entscheidet sich der Verantwortliche bei einem Gebäude, in dem mindestens eine Etagenheizung betrieben wird, innerhalb der Frist nach Absatz 1 für eine teilweise oder vollständige Umstellung der Wärmeversorgung des Gebäudes auf eine zentrale Heizungsanlage zur Erfüllung der Anforderungen des § 71 Absatz 1, verlängert sich die Frist nach Absatz 1 für alle Wohnungen und sonstigen selbständigen Nutzungseinheiten, die von der Umstellung auf eine zentrale Heizungsanlage erfasst sind, um den Zeitraum bis zur Fertigstellung der zentralen Heizungsanlage, längstens jedoch um acht Jahre. Nach Fertigstellung der zentralen Heizungsanlage, spätestens 13 Jahre nach dem Zeitpunkt, zu dem die erste Etagenheizung oder zentrale Heizungsanlage ausgetauscht und eine andere Heizungsanlage zum Zweck der Inbetriebnahme eingebaut oder aufgestellt wurde, sind alle Wohnungen und sonstigen selbständigen Nutzungseinheiten, die von der Umstellung auf die zentrale Heizungsanlage erfasst sind und deren Etagenheizungen ausgetauscht werden, an die zentrale Heizungsanlage anzuschließen, sobald sie ausgetauscht werden müssen. Etagenheizungen, die innerhalb der Frist des Satzes 2 zum Zweck der Inbetriebnahme eingebaut oder aufgestellt wurden, sind erst nach dem Ablauf eines weiteren Jahres an die zentrale Heizungsanlage anzuschließen. Für Wohnungen und sonstige selbständige Nutzungseinheiten, die weiterhin mit Etagenheizungen versorgt werden sollen, muss jede nach Ablauf der Frist des Absatzes 1 zum Zweck der Inbetriebnahme neu eingebaute oder aufgestellte Etagenheizung die Anforderungen des § 71 Absatz 1 erfüllen. Für Etagenheizungen, die innerhalb der Frist des Absatzes 1 zum Zweck der Inbetriebnahme eingebaut oder aufgestellt wurden, sind die Anforderungen nach § 71 Absatz 1 erst nach dem Ablauf eines weiteren Jahres anzuwenden. Für Wohnungen und sonstige selbständige Nutzungseinheiten mit Etagenheizungen, die an eine bestehende zentrale Heizungsanlage angeschlossen werden, gelten die Anforderungen des § 71 Absatz 1 als erfüllt.
+
+(3) Entscheidet sich der Verantwortliche bei einem Gebäude, in dem mindestens eine Etagenheizung betrieben wird, innerhalb der Frist des Absatzes 1 Satz 1 dafür, dass die Wohnungen und sonstigen selbständigen Nutzungseinheiten mit Etagenheizungen weiterhin mit Etagenheizungen oder zusätzliche Wohnungen oder selbständige Nutzungseinheiten künftig mit Etagenheizungen betrieben werden sollen, muss jede nach Ablauf dieser Frist neu eingebaute oder aufgestellte Etagenheizung die Anforderungen des § 71 Absatz 1 erfüllen. Absatz 2 Satz 5 ist entsprechend anzuwenden.
+
+(4) Sofern der Verantwortliche innerhalb der Frist des Absatzes 1 Satz 1 keine Entscheidung nach Absatz 2 Satz 1 oder nach Absatz 3 Satz 1 trifft, ist er zur vollständigen Umstellung auf eine zentrale Heizungsanlage verpflichtet. Für die Umstellung sind die Vorgaben des Absatzes 2 anzuwenden.
+
+(5) Die Entscheidung nach Absatz 2 oder Absatz 3 ist dem bevollmächtigten Bezirksschornsteinfeger unverzüglich in Textform mitzuteilen.
+
+(6) In einem Gebäude, in dem mindestens eine Einzelraumfeuerungsanlage im Sinne des § 2 Nummer 3 der Verordnung über kleine und mittlere Feuerungsanlagen zur Erzeugung von Raumwärme, Warmwasser oder einer Kombination davon betrieben wird, sind die Absätze 1 bis 5 anzuwenden, sobald die erste Einzelraumfeuerungsanlage zum Zweck der Inbetriebnahme in dem Gebäude eingebaut oder aufgestellt wurde.
+
+(+++ § 71l Abs. 4 u. 5: Zur Anwendung vgl. § 71n Abs. 6 Satz 2 +++)
+
+# § 71m – Übergangsfrist bei einer Hallenheizung
+
+(1) Abweichend von den Anforderungen des § 71 Absatz 1 kann höchstens für zehn Jahre nach dem Austausch der ersten einzelnen dezentralen Gebläse- oder Strahlungsheizung eine neue einzelne dezentrale Gebläse- oder Strahlungsheizung in einem Bestandsgebäude zur Beheizung einer Gebäudezone mit mehr als 4 Meter Raumhöhe zum Zweck der Inbetriebnahme eingebaut oder aufgestellt und betrieben werden, sofern die neue Anlage der besten verfügbaren Technik entspricht. Alle einzelnen dezentralen Gebläse- oder Strahlungsheizungen der Halle oder eine zentrale Heizungsanlage müssen spätestens innerhalb eines Jahres nach Ablauf der Frist von Satz 1 die Anforderungen nach § 71 Absatz 1 erfüllen. § 71i Satz 2 ist entsprechend anzuwenden.
+
+(2) Abweichend von den Anforderungen des § 71 Absatz 1 kann einmalig und höchstens für zwei Jahre nach dem Austausch der Altanlage ein dezentrales Heizsystem in Bestandsgebäuden zur Beheizung von Gebäudezonen mit mehr als 4 Meter Raumhöhe zum Zweck der Inbetriebnahme eingebaut oder aufgestellt und betrieben werden. Nach Ablauf der zwei Jahre muss das neu aufgestellte oder eingebaute dezentrale Heizsystem mit mindestens 65 Prozent erneuerbaren Energien betrieben werden, sofern der Betreiber nicht nachweist, dass der Endenergieverbrauch des Gebäudes für Raumwärme gegenüber dem Endenergieverbrauch vor der Erneuerung des Heizungssystems über einen Zeitraum von einem Jahr um mindestens 40 Prozent verringert wurde. Wurde der Endenergieverbrauch nach Satz 2 um weniger als 40 Prozent, mindestens aber 25 Prozent verringert, kann der fehlende Prozentsatz in Bezug auf 40 Prozent Verringerung des Endenergieverbrauchs ausgeglichen werden durch den gleichen Prozentsatz in Bezug auf die Nutzung von 65 Prozent erneuerbaren Energien. § 71i Satz 2 ist entsprechend anzuwenden.
+
+# § 71n – Verfahren für Gemeinschaften der Wohnungseigentümer
+
+(1) Für ein Gebäude, in dem Wohnungs- oder Teileigentum besteht und in dem mindestens eine Etagenheizung zum Zweck der Inbetriebnahme eingebaut oder aufgestellt ist, ist die Gemeinschaft der Wohnungseigentümer verpflichtet, bis zum Ablauf des 31. Dezember 2024 von dem bevollmächtigten Bezirksschornsteinfeger die Mitteilung der im Kehrbuch vorhandenen, für die Entscheidung über eine zukünftige Wärmeversorgung erforderlichen Informationen zu verlangen. Dies umfasst Informationen, die für die Planung einer Zentralisierung der Versorgung mit Wärme notwendig sind. Zu den Informationen nach den Sätzen 1 und 2 gehören solche über
+
+1. die Art der Anlage,
+
+2. das Alter der Anlage,
+
+3. die Funktionstüchtigkeit der Anlage und
+
+4. die Nennwärmeleistung der Anlage.
+
+Auf Verlangen der Gemeinschaft der Wohnungseigentümer ist der bevollmächtigte Bezirksschornsteinfeger verpflichtet, innerhalb von sechs Monaten nach der Aufforderung für jede Etagenheizung jeweils das zuletzt eingereichte Formblatt nach § 4 Absatz 1 des Schornsteinfeger-Handwerksgesetzes vom 26. November 2008 (BGBl. I S. 2242) in der jeweils geltenden Fassung oder die nach Satz 2 erforderlichen und im Kehrbuch vorhandenen Informationen der Gemeinschaft der Wohnungseigentümer gegen Ersatz der Aufwendungen zu übersenden.
+
+(2) Die Gemeinschaft der Wohnungseigentümer ist verpflichtet, bis zum Ablauf des 31. Dezember 2024 von den Wohnungseigentümern der Wohnungen oder sonstigen selbständigen Nutzungseinheiten, in denen eine Etagenheizung zum Zwecke der Inbetriebnahme eingebaut oder aufgestellt ist, die Mitteilung von Informationen über die zum Sondereigentum gehörenden Anlagen und Ausstattungen zu verlangen, die für eine Ersteinschätzung etwaigen Handlungsbedarfs zur Erfüllung der Anforderungen des § 71 Absatz 1 dienlich sein können. Hierzu zählen insbesondere Informationen über
+
+1. den Zustand der Heizungsanlage, die die Wohnungseigentümer aus eigener Nutzungserfahrung oder aus der Beauftragung von Handwerkern erlangt haben,
+
+2. sämtliche weiteren Bestandteile der Heizungsanlage, die zum Sondereigentum gehören, etwa Leitungen und Heizkörper, sowie sämtliche Modifikationen, die die Wohnungseigentümer selbst durchgeführt oder beauftragt haben, und
+
+3. Ausstattungen zur Effizienzsteigerung, die im Sondereigentum stehen.
+
+Die Wohnungseigentümer sind dazu verpflichtet, die genannten Informationen innerhalb von sechs Monaten nach der Aufforderung in Textform mitzuteilen. Die Wohnungseigentümer haben die Gemeinschaft der Wohnungseigentümer über den Ausfall einer alten Etagenheizung, den Einbau oder die Aufstellung einer neuen Etagenheizung zum Zweck der Inbetriebnahme und über weitere Änderungen zu den Informationen nach Absatz 1 Satz 2 sowie nach Satz 1 unverzüglich zu unterrichten.
+
+(3) Nach Ablauf der Mitteilungsfrist nach Absatz 2 Satz 3 stellt die Gemeinschaft der Wohnungseigentümer die erhaltenen Informationen den Wohnungseigentümern innerhalb von drei Monaten in konsolidierter Fassung zur Verfügung.
+
+(4) Sobald die Gemeinschaft der Wohnungseigentümer davon Kenntnis erlangt, dass die erste Etagenheizung ausgetauscht und eine andere Heizungsanlage zum Zweck der Inbetriebnahme eingebaut oder aufgestellt wurde, hat der Verwalter unverzüglich die Wohnungseigentümerversammlung einzuberufen. In der Wohnungseigentümerversammlung ist über die Vorgehensweise zur Erfüllung der Anforderungen des § 71 Absatz 1 zu beraten und auf die Rechtsfolge des § 71l Absatz 4 hinzuweisen.
+
+(5) Die Wohnungseigentümer haben innerhalb der Frist des § 71l Absatz 1 Satz 1 über die Erfüllung der Anforderungen nach § 71 Absatz 1 zu beschließen. Für die Erfüllung dieser Anforderungen ist ein Umsetzungskonzept zu erarbeiten, zu beschließen und auszuführen. Bis zur vollständigen Umsetzung ist mindestens einmal jährlich in der Wohnungseigentümerversammlung über den Stand der Umsetzung der Erfüllung der Anforderungen des § 71 Absatz 1 zu berichten.
+
+(6) Die Beibehaltung mindestens einer Etagenheizung kann nur mit zwei Dritteln der abgegebenen Stimmen und der Hälfte aller Miteigentumsanteile beschlossen werden. § 71l Absatz 4 und 5 ist entsprechend anzuwenden.
+
+(7) Die Wohnungseigentümer, deren Wohnungen oder sonstige selbständige Nutzungseinheiten an eine zentrale Heizungsanlage angeschlossen werden, haben die Kosten der Umstellung der Wärmeversorgung auf eine zentrale Heizungsanlage nach dem Verhältnis ihrer Miteigentumsanteile zu tragen. Über die Verteilung von Kosten, die aus der Durchführung von Maßnahmen im Sondereigentum entstehen, können die Wohnungseigentümer durch Beschluss entscheiden. Ist das für einen Anschluss notwendige Verteilnetz oder eine zentrale Heizungsanlage bereits vorhanden, so haben die Wohnungseigentümer, deren Wohnungen oder sonstige selbständige Nutzungseinheiten daran angeschlossen werden, einen angemessenen Ausgleich zu leisten. § 16 Absatz 2 Satz 2 des Wohnungseigentumsgesetzes ist entsprechend anzuwenden.
+
+(8) Die Absätze 1 bis 7 sind entsprechend für Wohnungen und sonstige selbständige Nutzungseinheiten anzuwenden, in denen mindestens eine Einzelraumfeuerungsanlage im Sinne des § 71l Absatz 7 eingebaut oder aufgestellt ist und betrieben wird.
+
+# § 71o – Regelungen zum Schutz von Mietern
+
+(1) In einem Gebäude mit Wohnungen, die vermietet sind, kann der Vermieter beim Einbau einer Wärmepumpe nach § 71c eine Mieterhöhung aufgrund einer Modernisierungsmaßnahme nach § 559 Absatz 1 oder § 559e Absatz 1 des Bürgerlichen Gesetzbuches in voller Höhe nur verlangen, wenn er den Nachweis erbracht hat, dass die Jahresarbeitszahl der Wärmepumpe über 2,5 liegt. Ein Nachweis nach Satz 1 ist nicht erforderlich, wenn das Gebäude
+
+1. nach 1996 errichtet worden ist,
+
+2. mindestens nach den Vorgaben der Wärmeschutzverordnung vom 16. August 1994 (BGBl. I S. 2121) in der bis zum Ablauf des 31. Januar 2002 geltenden Fassung erbaut worden ist oder der Gebäudeeigentümer nachweist, dass der Jahres-Heizwärmebedarf die Anforderungen nach der Wärmeschutzverordnung vom 16. August 1994 (BGBl. I S. 2121) in der bis zum Ablauf des 31. Januar 2002 geltenden Fassung nicht überschreitet,
+
+3. nach einer Sanierung mindestens den Anforderungen des Effizienzhausniveaus 115 oder 100 entspricht oder
+
+4. mit einer Vorlauftemperatur beheizt werden kann, die nicht mehr als 55 Grad Celsius bei lokaler Norm-Außentemperatur beträgt.
+
+Der Nachweis nach Satz 1 muss von einem Fachunternehmer erbracht werden. Die Ermittlung der Jahresarbeitszahl erfolgt auf der Grundlage der VDI 4650 Blatt 1: 2019-03<span id="FnR.F827528_10"></span><a href="#F827528_10" class="FnR">5</a></sup> oder eines vergleichbaren Verfahrens in der Regel vor der Inbetriebnahme der Anlage und nicht anhand von den Werten im Betrieb.
+
+(2) Sofern der Nachweis nach Absatz 1 Satz 1 nicht erbracht wird, kann der Vermieter für eine Mieterhöhung nach § 559 Absatz 1 oder § 559e Absatz 1 des Bürgerlichen Gesetzbuches nur 50 Prozent der für die Wohnung aufgewendeten Kosten zugrunde legen.
+
+(3) Absatz 1 ist auf sonstige Formen der entgeltlichen Nutzungsüberlassung von Gebäuden oder Teilen von diesen oder Wohnungen oder Teilen von diesen entsprechend anzuwenden.
+
+# § 71p – Verordnungsermächtigung zu dem Einsatz von Kältemitteln in elektrischen Wärmepumpen und Wärmepumpen-Hybridheizungen
+
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Einsatz natürlicher Kältemittel in elektrischen Wärmepumpen und in Wärmepumpen-Hybridheizungen vorzuschreiben, die zum Zweck der Inbetriebnahme in einem Gebäude eingebaut oder aufgestellt werden. In der Rechtsverordnung sind die zulässigen Kältemittel festzulegen. Soweit erforderlich, können Ausnahmeregelungen vorgesehen werden für Fälle, in denen brennbare natürliche Kältemittel aus Sicherheitsgründen nicht eingesetzt werden können.
 
 # § 72 – Betriebsverbot für Heizkessel, Ölheizungen
 
@@ -1117,29 +1292,23 @@ Werden Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen, die zu Klimaa
 
 (3) Die Absätze 1 und 2 sind nicht anzuwenden auf
 
-1. Niedertemperatur-Heizkessel und Brennwertkessel sowie
+1. Niedertemperatur-Heizkessel und Brennwertkessel,
 
-2. heizungstechnische Anlagen, deren Nennleistung weniger als 4 Kilowatt oder mehr als 400 Kilowatt beträgt.
+2. heizungstechnische Anlagen, deren Nennleistung weniger als 4 Kilowatt oder mehr als 400 Kilowatt beträgt sowie
 
-(4) Ab dem 1. Januar 2026 dürfen Heizkessel, die mit Heizöl oder mit festem fossilem Brennstoff beschickt werden, zum Zwecke der Inbetriebnahme in ein Gebäude nur eingebaut oder in einem Gebäude nur aufgestellt werden, wenn
+3. heizungstechnische Anlagen mit Gas-, Biomasse- oder Flüssigbrennstofffeuerung als Bestandteil einer Wärmepumpen-Hybridheizung oder einer Solarthermie-Hybridheizung nach § 71h, soweit diese nicht mit fossilen Brennstoffen betrieben werden.
 
-1. ein Gebäude so errichtet worden ist oder errichtet wird, dass der Wärme- und Kälteenergiebedarf nach § 10 Absatz 2 Nummer 3 anteilig durch erneuerbare Energien nach Maßgabe der §§ 34 bis 41 und nicht durch Maßnahmen nach den §§ 42 bis 45 gedeckt wird,
+(4) Heizkessel dürfen längstens bis zum Ablauf des 31. Dezember 2044 mit fossilen Brennstoffen betrieben werden.
 
-2. ein bestehendes öffentliches Gebäude nach § 52 Absatz 1 so geändert worden ist oder geändert wird, dass der Wärme- und Kälteenergiebedarf anteilig durch erneuerbare Energien nach Maßgabe von § 52 Absatz 3 und 4 gedeckt wird und die Pflicht nach § 52 Absatz 1 nicht durch eine Ersatzmaßnahme nach § 53 erfüllt worden ist oder erfüllt wird,
-
-3. ein bestehendes Gebäude so errichtet oder geändert worden ist oder geändert wird, dass der Wärme- und Kälteenergiebedarf anteilig durch erneuerbare Energien gedeckt wird, oder
-
-4. bei einem bestehenden Gebäude kein Anschluss an ein Gasversorgungsnetz oder an ein Fernwärmeverteilungsnetz hergestellt werden kann, weil kein Gasversorgungsnetz der allgemeinen Versorgung oder kein Verteilungsnetz eines Fernwärmeversorgungsunternehmens am Grundstück anliegt und eine anteilige Deckung des Wärme- und Kälteenergiebedarfs durch erneuerbare Energien technisch nicht möglich ist oder zu einer unbilligen Härte führt.
-
-Die Pflichten nach § 10 Absatz 2 Nummer 3 und nach § 52 Absatz 1 bleiben unberührt.
-
-(5) Absatz 4 Satz 1 ist nicht anzuwenden, wenn die Außerbetriebnahme einer mit Heizöl oder mit festem fossilem Brennstoff betriebenen Heizung und der Einbau einer neuen nicht mit Heizöl oder mit festem fossilem Brennstoff betriebenen Heizung im Einzelfall wegen besonderer Umstände durch einen unangemessenen Aufwand oder in sonstiger Weise zu einer unbilligen Härte führen.
+(+++ § 72 Abs. 4: Zur Anwendung vgl. § 73 Abs. 3 +++)
 
 # § 73 – Ausnahme
 
-(1) Bei einem Wohngebäude mit nicht mehr als zwei Wohnungen, von denen der Eigentümer eine Wohnung am 1. Februar 2002 selbst bewohnt hat, sind die Pflichten nach § 71 und § 72 Absatz 1 und 2 erst im Falle eines Eigentümerwechsels nach dem 1. Februar 2002 von dem neuen Eigentümer zu erfüllen.
+(1) Bei einem Wohngebäude mit nicht mehr als zwei Wohnungen, von denen der Eigentümer eine Wohnung am 1. Februar 2002 selbst bewohnt hat, sind die Pflichten nach § 69 Absatz 2 und § 72 Absatz 1 und 2 erst im Falle eines Eigentümerwechsels nach dem 1. Februar 2002 von dem neuen Eigentümer zu erfüllen.
 
 (2) Die Frist zur Pflichterfüllung beträgt zwei Jahre ab dem ersten Eigentumsübergang nach dem 1. Februar 2002.
+
+(3) § 72 Absatz 4 ist entsprechend anzuwenden.
 
 # § 74 – Betreiberpflicht
 
@@ -1147,13 +1316,15 @@ Die Pflichten nach § 10 Absatz 2 Nummer 3 und nach § 52 Absatz 1 bleiben unber
 
 (2) Der Betreiber kann die Pflicht nach Absatz 1 Satz 1 durch eine stichprobenweise Inspektion nach Maßgabe von § 75 Absatz 4 erfüllen, wenn er mehr als zehn Klimaanlagen mit einer Nennleistung für den Kältebedarf von mehr als 12 Kilowatt und bis zu 70 Kilowatt oder mehr als zehn kombinierte Klima- und Lüftungsanlagen mit einer Nennleistung für den Kältebedarf von mehr als 12 Kilowatt und bis zu 70 Kilowatt betreibt, die in vergleichbare Nichtwohngebäude eingebaut und nach Anlagentyp und Leistung gleichartig sind. Ein Nichtwohngebäude ist vergleichbar, wenn es nach demselben Plan errichtet wird, der für mehrere Nichtwohngebäude an verschiedenen Standorten erstellt wurde. Nach Anlagentyp und Leistung gleichartige Klimaanlagen oder kombinierte Klima- und Lüftungsanlagen sind Anlagen gleicher Bauart, gleicher Funktion und gleicher Kühlleistung je Quadratmeter Nettogrundfläche.
 
-(3) Die Pflicht nach Absatz 1 besteht nicht, wenn eine Klimaanlage oder eine kombinierte Klima- und Lüftungsanlage in ein Nichtwohngebäude eingebaut ist, das mit einem System für die Gebäudeautomation und Gebäuderegelung nach Maßgabe von Satz 2 ausgestattet ist. Das System muss in der Lage sein,
+(3) Im Falle eines Nichtwohngebäudes entfällt die Pflicht nach Absatz 1,
 
-1. den Energieverbrauch des Gebäudes kontinuierlich zu überwachen, zu protokollieren, zu analysieren und dessen Anpassung zu ermöglichen,
+1. wenn das Gebäude mit einem System für die Gebäudeautomation und Gebäuderegelung nach § 71a Absatz 5 ausgestattet ist oder
 
-2. einen Vergleichsmaßstab in Bezug auf die Energieeffizienz des Gebäudes aufzustellen, Effizienzverluste der vorhandenen gebäudetechnischen Systeme zu erkennen und die für die gebäudetechnischen Einrichtungen oder die gebäudetechnische Verwaltung zuständige Person zu informieren und
+2. sofern die Gesamtauswirkungen eines solchen Ansatzes gleichwertig sind, wenn die Klimaanlage oder kombinierte Klima- und Lüftungsanlage
 
-3. die Kommunikation zwischen den vorhandenen, miteinander verbundenen gebäudetechnischen Systemen und anderen gebäudetechnischen Anwendungen innerhalb des Gebäudes zu ermöglichen und gemeinsam mit verschiedenen Typen gebäudetechnischer Systeme betrieben zu werden.
+a) unter eine vertragliche Vereinbarung über ein Niveau der Gesamtenergieeffizienz oder eine Energieeffizienzverbesserung fällt, insbesondere unter einen Energieleistungsvertrag nach § 3 Absatz 1 Nummer 8a, oder
+
+b) von einem Versorgungsunternehmen oder einem Netzbetreiber betrieben wird und demnach systemseitigen Maßnahmen zur Überwachung der Effizienz unterliegt.
 
 (4) Die Pflicht nach Absatz 1 besteht nicht, wenn eine Klimaanlage oder eine kombinierte Klima- und Lüftungsanlage in ein Wohngebäude eingebaut ist, das ausgestattet ist mit
 
@@ -1321,7 +1492,7 @@ Den zu verwendenden Verbrauchsdaten sind mindestens die Abrechnungen aus einem z
 
 14. wesentliche Energieträger für Heizung und Warmwasser,
 
-15. bei Neubauten: Art der genutzten erneuerbaren Energie, deren Anteil an der Deckung des Wärme- und Kälteenergiebedarfs sowie der Anteil zur Pflichterfüllung; alternativ: Maßnahmen nach den §§ 42, 43, 44 oder 45,
+15. Art der genutzten erneuerbaren Energien zur Erfüllung der Anforderungen nach § 71 Absatz 1,
 
 16. Art der Lüftung und, falls vorhanden, Art der Kühlung,
 
@@ -1373,7 +1544,7 @@ d) Vereinfachungen nach § 50 Absatz 4,
 
 5. bei einem Wohngebäude: Vergleichswerte für Endenergie,
 
-6. bei einem Nichtwohngebäude: Vergleichswerte für den Energieverbrauch, die jeweils vom Bundesministerium für Wirtschaft und Energie gemeinsam mit dem Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger bekannt gemacht worden sind.
+6. bei einem Nichtwohngebäude: Vergleichswerte für den Energieverbrauch, die jeweils vom Bundesministerium für Wirtschaft und Klimaschutz gemeinsam mit dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen im Bundesanzeiger bekannt gemacht worden sind.
 
 (4) Modernisierungsempfehlungen nach § 84 sind Bestandteil der Energieausweise.
 
@@ -1383,7 +1554,7 @@ d) Vereinfachungen nach § 50 Absatz 4,
 
 (7) Vor Übergabe des neu ausgestellten Energieausweises an den Eigentümer hat der Aussteller die nach § 98 Absatz 2 zugeteilte Registriernummer einzutragen.
 
-(8) Das Bundesministerium für Wirtschaft und Energie erstellt gemeinsam mit dem Bundesministerium des Innern, für Bau und Heimat Muster zu den Energiebedarfs- und den Energieverbrauchsausweisen, nach denen Energieausweise auszustellen sind, sowie Muster für den Aushang von Energieausweisen nach § 80 Absatz 6 und 7 und macht diese im Bundesanzeiger bekannt.
+(8) Das Bundesministerium für Wirtschaft und Klimaschutz erstellt gemeinsam mit dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen Muster zu den Energiebedarfs- und den Energieverbrauchsausweisen, nach denen Energieausweise auszustellen sind, sowie Muster für den Aushang von Energieausweisen nach § 80 Absatz 6 und 7 und macht diese im Bundesanzeiger bekannt.
 
 # § 86 – Energieeffizienzklasse eines Wohngebäudes
 
@@ -1439,13 +1610,15 @@ c) auf Grund ihrer Ausbildung berechtigt ist, ein zulassungspflichtiges Handwerk
 
 3. eine öffentliche Bestellung als vereidigter Sachverständiger für ein Sachgebiet im Bereich des energiesparenden Bauens oder in wesentlichen bau- oder anlagentechnischen Tätigkeitsbereichen des Hochbaus.
 
-(3) Wurde der Inhalt der Schulung nach Absatz 2 Nummer 2 auf Wohngebäude beschränkt, so ist der erfolgreiche Teilnehmer der Schulung nur berechtigt, Energieausweise für Wohngebäude auszustellen.
+(3) Wurde der Inhalt der Schulung nach Absatz 2 Nummer 2 oder nach Absatz 5 auf Wohngebäude beschränkt, so ist der erfolgreiche Teilnehmer der Schulung nur berechtigt, Energieausweise für Wohngebäude auszustellen.
 
 (4) § 77 Absatz 3 ist auf Aus- oder Fortbildungen im Sinne des Absatzes 1 Nummer 2 bis 4 entsprechend anzuwenden.
 
+(5) Zur Ausstellung eines Energieausweises ist abweichend von Absatz 1 auch eine Person berechtigt, die eine Qualifikationsprüfung Energieberatung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle erfolgreich abgeschlossen hat.
+
 # § 89 – Fördermittel
 
-Die Nutzung erneuerbarer Energien für die Erzeugung von Wärme oder Kälte, die Errichtung besonders energieeffizienter und die Verbesserung der Energieeffizienz bestehender Gebäude können durch den Bund nach Maßgabe des Bundeshaushaltes gefördert werden. Gefördert werden können
+(1) Die Nutzung erneuerbarer Energien für die Erzeugung von Wärme oder Kälte, die Errichtung besonders energieeffizienter und die Verbesserung der Energieeffizienz bestehender Gebäude können durch den Bund nach Maßgabe des Bundeshaushaltes gefördert werden. Gefördert werden können
 
 1. Maßnahmen zur Nutzung erneuerbarer Energien für die Erzeugung von Wärme oder Kälte in bereits bestehenden Gebäuden nach Maßgabe des § 90,
 
@@ -1455,7 +1628,9 @@ Die Nutzung erneuerbarer Energien für die Erzeugung von Wärme oder Kälte, die
 
 4. Maßnahmen zur Verbesserung der Energieeffizienz bei der Sanierung bestehender Gebäude, wenn mit der geförderten Maßnahme die Anforderungen nach den §§ 47 und 48 sowie § 50 und nach den §§ 61 bis 73 übererfüllt werden.
 
-Einzelheiten werden insbesondere durch Verwaltungsvorschriften des Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen geregelt.
+Einzelheiten werden insbesondere durch Verwaltungsvorschriften des Bundesministeriums für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium der Finanzen geregelt.
+
+(2) Das Bundesministerium für Wirtschaft und Klimaschutz legt dem Haushaltsausschuss des Bundestages bis zum Ablauf des 30. September 2023 ein Konzept zur Zustimmung vor, das Änderungen der Richtlinie für die Bundesförderung für effiziente Gebäude – Einzelmaßnahmen (BEG EM) vom 9. Dezember 2022 (BAnz AT 30.12.2022 B1) vorsieht. Änderungen der Richtlinie nach Satz 1 bedürfen bis zum Ablauf des 31. Oktober 2025 der Zustimmung des Haushaltsausschusses des Bundestages. Danach ist die Zustimmung nur für wesentliche Änderungen der Richtlinie nach Satz 1 erforderlich. Wesentliche Änderungen sind insbesondere solche eines Fördersatzes, einer Förderhöhe oder der Art eines Bonus.
 
 # § 90 – Geförderte Maßnahmen zur Nutzung erneuerbarer Energien
 
@@ -1475,17 +1650,17 @@ Einzelheiten werden insbesondere durch Verwaltungsvorschriften des Bundesministe
 
 2. eine Anlage zur Nutzung von fester Biomasse nur förderfähig, wenn der Umwandlungswirkungsgrad mindestens folgende Werte erreicht:
 
-a) 89 Prozent bei einer Anlage zur Heizung oder Warmwasserbereitung, die der Erfüllung der Anforderung nach § 10 Absatz 2 Nummer 3 oder der Pflicht nach § 52 Absatz 1 dient,
+a) 89 Prozent bei einer Anlage zur Heizung oder Warmwasserbereitung, die der Erfüllung der Anforderungen nach § 71 oder einer Pflicht nach § 4 Absatz 4 oder § 9a dient,
 
 b) 70 Prozent bei einer Anlage, die nicht der Heizung oder Warmwasserbereitung dient,
 
-3. eine Wärmepumpe zur Nutzung von Geothermie, Umweltwärme oder Abwärme nur förderfähig, wenn sie die Anforderungen der Richtlinie 2009/28/EG erfüllt.
+3. eine Wärmepumpe zur Nutzung von Geothermie, Umweltwärme oder Abwärme nur förderfähig, wenn sie die Anforderungen der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 328 vom 21.12.2018, S. 82), die zuletzt durch die Delegierte Verordnung (EU) 2022/759 (ABl. L 139 vom 18.5.2022, S. 1) geändert worden ist, erfüllt.
 
 Die Zertifizierung von einer solarthermischen Anlage mit dem europäischen Prüfzeichen „Solar Keymark“ muss nach den anerkannten Regeln der Technik erfolgen. Der Umwandlungswirkungsgrad eines Biomassekessels ist der nach DIN EN 303-5: 2012-10 ermittelte Kesselwirkungsgrad, der Umwandlungswirkungsgrad eines Biomasseofens der nach DIN EN 14785: 2006-09 ermittelte feuerungstechnische Wirkungsgrad und in den übrigen Fällen des Satzes 1 Nummer 2 der nach den anerkannten Regeln der Technik berechnete Wirkungsgrad.
 
 # § 91 – Verhältnis zu den Anforderungen an ein Gebäude
 
-(1) Maßnahmen können nicht gefördert werden, soweit sie der Erfüllung der Anforderungen nach § 10 Absatz 2, der Pflicht nach § 52 Absatz 1 oder einer landesrechtlichen Pflicht nach § 56 dienen.
+(1) Maßnahmen können nicht gefördert werden, soweit sie der Erfüllung der Anforderungen nach § 10 Absatz 2, der Pflicht nach § 71 Absatz 1 Satz 1 oder einer landesrechtlichen Pflicht nach § 4 Absatz 4 oder § 9a dienen.
 
 (2) Absatz 1 ist nicht bei den folgenden Maßnahmen anzuwenden:
 
@@ -1495,15 +1670,15 @@ Die Zertifizierung von einer solarthermischen Anlage mit dem europäischen Prüf
 
 3. Maßnahmen, die technische oder sonstige Anforderungen erfüllen, die
 
-a) im Falle des § 10 Absatz 2 Nummer 3 anspruchsvoller als die Anforderungen nach den §§ 35 bis 41 oder
+a) in den Fällen der §§ 71 bis 71h anspruchsvoller als die dortigen Anforderungen oder
 
-b) im Falle des § 56 anspruchsvoller als die Anforderungen nach der landesrechtlichen Pflicht sind,
+b) in den Fällen von § 4 Absatz 4 und § 9a anspruchsvoller als die Anforderungen nach der landesrechtlichen Pflicht sind,
 
 4. Maßnahmen, die den Wärme- und Kälteenergiebedarf zu einem Anteil decken, der
 
-a) im Falle des § 10 Absatz 2 Nummer 3 oder des § 52 Absatz 1 um 50 Prozent höher als der Mindestanteil nach den §§ 35 bis 41 oder dem § 52 Absatz 3 und 4 ist oder
+a) im Falle des § 71 Absatz 1 65 Prozent erneuerbare Energien übersteigt oder
 
-b) im Falle des § 56 höher als der landesrechtlich vorgeschriebene Mindestanteil ist,
+b) in den Fällen von § 4 Absatz 4 und § 9a höher als der landesrechtlich vorgeschriebene Mindestanteil ist,
 
 5. Maßnahmen, die mit weiteren Maßnahmen zur Steigerung der Energieeffizienz verbunden werden,
 
@@ -1537,7 +1712,7 @@ Die zuständige Behörde kann im Einzelfall die zur Erfüllung der Verpflichtung
 
 # § 96 – Private Nachweise
 
-(1) Wer geschäftsmäßig an oder in einem bestehenden Gebäude Arbeiten durchführt, hat dem Eigentümer unverzüglich nach Abschluss der Arbeiten in folgenden Fällen schriftlich zu bestätigen, dass die von ihm geänderten oder eingebauten Bau- oder Anlagenteile den Anforderungen der in den Nummern 1 bis 8 genannten Vorschriften entsprechen (Unternehmererklärung):
+(1) Wer geschäftsmäßig an oder in einem bestehenden Gebäude Arbeiten durchführt, hat dem Eigentümer unverzüglich nach Abschluss der Arbeiten in folgenden Fällen schriftlich zu bestätigen, dass die von ihm geänderten oder eingebauten Bau- oder Anlagenteile den Anforderungen der in den Nummern 1 bis 11 genannten Vorschriften entsprechen (Unternehmererklärung):
 
 1. Änderung von Außenbauteilen im Sinne von § 48,
 
@@ -1549,11 +1724,27 @@ Die zuständige Behörde kann im Einzelfall die zur Erfüllung der Verpflichtung
 
 5. Einbau von Umwälzpumpen in Zentralheizungen und Zirkulationspumpen in Warmwasseranlagen nach § 64,
 
-6. erstmaliger Einbau, Ersatz oder Wärmedämmung von Wärmeverteilungs- und Warmwasserleitungen nach den §§ 69 und 71 oder von Kälteverteilungs- und Kaltwasserleitungen in Klimaanlagen oder sonstigen Anlagen der Raumlufttechnik nach § 70,
+6. erstmaliger Einbau, Ersatz oder Wärmedämmung von Wärmeverteilungs- und Warmwasserleitungen nach § 69 oder von Kälteverteilungs- und Kaltwasserleitungen in Klimaanlagen oder sonstigen Anlagen der Raumlufttechnik nach § 70,
 
-7. Einbau von Klima- und raumlufttechnischen Anlagen oder Zentralgeräten und Luftkanalsystemen solcher Anlagen nach den §§ 65 bis 68 oder
+7. Einbau von Klima- und raumlufttechnischen Anlagen oder Zentralgeräten und Luftkanalsystemen solcher Anlagen nach den §§ 65 bis 68,
 
-8. Ausrüstung von Anlagen nach Nummer 7 mit Einrichtung zur Feuchteregelung nach § 66.
+8. Ausrüstung von Anlagen nach Nummer 7 mit Einrichtung zur Feuchteregelung nach § 66,
+
+9. Durchführung hydraulischer Abgleiche und weiterer Maßnahmen zur Heizungsoptimierung nach § 60c,
+
+10. Einbau von Systemen für die Gebäudeautomatisierung nach § 71a oder
+
+11. Einbau oder Aufstellung zum Zweck der Inbetriebnahme von Heizungsanlagen zur Erfüllung der Anforderungen nach § 71 Absatz 1 bis 3, den §§ 71i, 71k Absatz 1 Wortlaut vor Nummer 1 und nach § 71m.
+
+Satz 1 ist entsprechend anzuwenden auf
+
+1. die Ergebnisse der Betriebsprüfungen von Wärmepumpen nach § 60a Absatz 5 Satz 1 und der Nachweise der durchgeführten Optimierungsmaßnahmen nach § 60a Absatz 5 Satz 2,
+
+2. die Ergebnisse der Heizungsprüfungen und Heizungsoptimierungen nach § 60b Absatz 5 Satz 1 und der Nachweise der durchgeführten Optimierungsmaßnahmen nach § 60b Absatz 5 Satz 2,
+
+3. die Bestätigung des Wärmenetzbetreibers nach § 71b Absatz 1 Satz 3 und Absatz 2 Satz 2 oder
+
+4. den Nachweis der Reduktion des Endenergieverbrauchs um mindestens 40 Prozent nach § 71m Absatz 2 Satz 2.
 
 (2) Zum Zwecke des Nachweises der Erfüllung der Pflichten aus den in Absatz 1 genannten Vorschriften ist die Unternehmererklärung von dem Eigentümer mindestens zehn Jahre aufzubewahren. Der Eigentümer hat die Unternehmererklärung der nach Landesrecht zuständigen Behörde auf Verlangen vorzulegen.
 
@@ -1565,17 +1756,9 @@ Die zuständige Behörde kann im Einzelfall die zur Erfüllung der Verpflichtung
 
 Die nach Satz 1 anzugebenden Eigenschaften können nach anerkannten technischen Regeln berechnet werden oder aus Herstellerangaben auf der Grundlage solcher Regeln bestimmt werden; alternativ dürfen Angaben aus Bekanntmachungen nach § 50 Absatz 4 verwendet werden. Die jeweilige Grundlage nach Satz 2 ist ebenfalls in der Unternehmererklärung anzugeben.
 
-(4) Wer Gebäude geschäftsmäßig mit fester, gasförmiger oder flüssiger Biomasse zum Zweck der Erfüllung von Anforderungen nach diesem Gesetz beliefert, muss dem Eigentümer des Gebäudes mit der Abrechnung bestätigen, dass
+(4) Wer ein Gebäude geschäftsmäßig mit fester, gasförmiger oder flüssiger Biomasse, grünem oder blauem Wasserstoff oder den daraus hergestellten Derivaten zum Zweck der Erfüllung von Anforderungen nach diesem Gesetz beliefert, muss dem Belieferten mit der Abrechnung bestätigen, dass die jeweiligen Anforderungen nach § 71f Absatz 2 bis 4 und § 71g Nummer 2 und 3 erfüllt sind.
 
-1. im Falle der Nutzung von Biomethan die Anforderungen nach § 40 Absatz 3 erfüllt sind,
-
-2. im Falle der Nutzung von biogenem Flüssiggas die Anforderungen nach § 40 Absatz 4 erfüllt sind,
-
-3. im Falle der Nutzung von flüssiger Biomasse nach § 39 die Brennstoffe die Anforderungen an einen nachhaltigen Anbau und eine nachhaltige Herstellung nach der Biomassestrom-Nachhaltigkeitsverordnung in der jeweils geltenden Fassung erfüllen oder
-
-4. es sich im Falle der Nutzung von fester Biomasse nach § 38 um Brennstoffe nach § 3 Absatz 1 Nummer 4, 5, 5a oder 8 der Verordnung über kleine und mittlere Feuerungsanlagen handelt.
-
-(5) Mit den Bestätigungen nach Absatz 4 wird die Erfüllung der Pflichten aus den Vorschriften nach den §§ 38 bis 40 nachgewiesen. In den Fällen des Absatzes 4 Nummer 1 bis 3 sind die Abrechnungen und Bestätigungen in den ersten 15 Jahren nach Inbetriebnahme der Heizungsanlage von dem Eigentümer jeweils mindestens fünf Jahre nach Lieferung aufzubewahren. Der Eigentümer hat die Abrechnungen und Bestätigungen der nach Landesrecht zuständigen Behörde auf Verlangen vorzulegen.
+(5) Mit den Bestätigungen nach Absatz 4 wird die Erfüllung der Pflichten aus den Vorschriften nach § 71f Absatz 2 bis 4 und § 71g Nummer 2 und 3 nachgewiesen. Im Falle der Nutzung von flüssiger oder gasförmiger Biomasse oder grünem oder blauem Wasserstoff einschließlich daraus hergestellter Derivate sind die Abrechnungen und Bestätigungen in den ersten 15 Jahren nach Inbetriebnahme der Heizungsanlage von dem Eigentümer oder Belieferten jeweils mindestens fünf Jahre nach Lieferung aufzubewahren. Die Abrechnungen und Bestätigungen sind der nach Landesrecht zuständigen Behörde auf Verlangen vorzulegen.
 
 (6) Kommt bei der Ermittlung des Jahres-Primärenergiebedarfs eines zu errichtenden Gebäudes § 22 Absatz 1 Satz 1 Nummer 2 oder Nummer 3 zur Anwendung, muss sich der Eigentümer vom Lieferanten bei Vertragsabschluss bescheinigen lassen, dass
 
@@ -1587,13 +1770,13 @@ Die Bescheinigung ist der zuständigen Behörde innerhalb von einem Monat nach F
 
 # § 97 – Aufgaben des bevollmächtigten Bezirksschornsteinfegers
 
-(1) Bei einer heizungstechnischen Anlage prüft der bevollmächtigte Bezirksschornsteinfeger als Beliehener im Rahmen der Feuerstättenschau nach § 14 des Schornsteinfeger-Handwerksgesetzes vom 26. November 2008 (BGBl. I S. 2242), das zuletzt durch Artikel 57 Absatz 7 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2652) geändert worden ist, ob
+(1) Bei einer heizungstechnischen Anlage prüft der bevollmächtigte Bezirksschornsteinfeger als Beliehener im Rahmen der Feuerstättenschau nach § 14 des Schornsteinfeger-Handwerksgesetzes vom 26. November 2008 (BGBl. I S. 2242) in der jeweils geltenden Fassung, ob
 
-1. ein Heizkessel, der nach § 72 Absatz 1 bis 3, auch in Verbindung mit § 73, außer Betrieb genommen werden musste, weiterhin betrieben wird,
+1. ein Heizkessel, der nach Ablauf der Übergangsfristen nach den §§ 71i bis 71m oder nach § 72, auch in Verbindung mit § 73, außer Betrieb genommen werden musste, weiterhin betrieben wird,
 
-2. Wärmeverteilungs- und Warmwasserleitungen, die nach § 71, auch in Verbindung mit § 73, gedämmt werden mussten, weiterhin ungedämmt sind und
+2. Wärmeverteilungs- und Warmwasserleitungen, die nach § 69 Absatz 2, auch in Verbindung mit § 73, gedämmt werden mussten, weiterhin ungedämmt sind und
 
-3. ein mit Heizöl beschickter Heizkessel entgegen § 72 Absatz 4 und 5 eingebaut ist.
+3. die Abrechnungen und Bestätigungen nach § 96 Absatz 5 vorliegen.
 
 (2) Bei einer heizungstechnischen Anlage, die in ein bestehendes Gebäude eingebaut wird, prüft der bevollmächtigte Bezirksschornsteinfeger im Rahmen der bauordnungsrechtlichen Abnahme der Anlage oder, wenn eine solche Abnahme nicht vorgesehen ist, als Beliehener im Rahmen der ersten Feuerstättenschau nach dem Einbau außerdem, ob
 
@@ -1601,9 +1784,15 @@ Die Bescheinigung ist der zuständigen Behörde innerhalb von einem Monat nach F
 
 2. eine Zentralheizung mit einer zentralen selbsttätig wirkenden Einrichtung zur Verringerung und Abschaltung der Wärmezufuhr sowie zur Ein- und Ausschaltung elektrischer Antriebe nach § 61 Absatz 1 ausgestattet ist,
 
-3. eine Umwälzpumpe in einer Zentralheizung mit einer Vorrichtung zur selbsttätigen Anpassung der elektrischen Leistungsaufnahme nach § 64 Absatz 1 ausgestattet ist und
+3. ein mit einem flüssigen oder gasförmigen Brennstoff beschickter Heizkessel entgegen den Anforderungen nach den §§ 71 bis 71m eingebaut ist; dabei beschränkt sich die Prüfung auf das Vorhandensein entsprechender notwendiger Nachweise, Belege oder Erklärungen,
 
-4. bei Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen die Wärmeabgabe nach § 69 begrenzt ist.
+4. bei Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen die Wärmeabgabe nach § 69 Absatz 1 begrenzt ist,
+
+5. die Anforderungen an den Einbau von Heizungsanlagen bei Nutzung von fester Biomasse nach § 71g eingehalten werden und
+
+6. die Anforderungen an den Einbau von Wärmepumpen- oder Solarthermie-Hybridheizungen nach § 71h eingehalten werden.
+
+Satz 1 ist bei zu errichtenden Gebäuden entsprechend anzuwenden. Die Rechtsgrundlage nach den §§ 71 bis 71m oder § 102, auf die sich der Eigentümer beim Einbau oder bei der Aufstellung einer neuen heizungstechnischen Anlage, die mit flüssigen, festen oder gasförmigen Brennstoffen beschickt wird, stützt, ist im Kehrbuch einzutragen.
 
 (3) Der bevollmächtigte Bezirksschornsteinfeger weist den Eigentümer bei Nichterfüllung der Pflichten oder bei Nichtbeachtung eines Verbots aus den in den Absätzen 1 und 2 genannten Vorschriften schriftlich auf diese Pflichten oder Verbote hin und setzt eine angemessene Frist zu deren Nacherfüllung oder zur Beseitigung eines verbotswidrigen Zustands. Werden die Pflichten nicht innerhalb der festgesetzten Frist erfüllt oder wird ein verbotswidriger Zustand nicht beseitigt, unterrichtet der bevollmächtigte Bezirksschornsteinfeger unverzüglich die nach Landesrecht zuständige Behörde.
 
@@ -1709,7 +1898,7 @@ Bei der Übertragung im Wege der Beleihung können die Landesregierungen in der 
 
 2. die Anforderungen im Einzelfall wegen besonderer Umstände durch einen unangemessenen Aufwand oder in sonstiger Weise zu einer unbilligen Härte führen.
 
-Eine unbillige Härte liegt insbesondere vor, wenn die erforderlichen Aufwendungen innerhalb der üblichen Nutzungsdauer, bei Anforderungen an bestehende Gebäude innerhalb angemessener Frist durch die eintretenden Einsparungen nicht erwirtschaftet werden können.
+Eine unbillige Härte liegt insbesondere vor, wenn die erforderlichen Aufwendungen innerhalb der üblichen Nutzungsdauer, bei Anforderungen an bestehende Gebäude innerhalb angemessener Frist durch die eintretenden Einsparungen nicht erwirtschaftet werden können, das heißt, wenn die notwendigen Investitionen nicht in einem angemessenen Verhältnis zum Ertrag stehen. Eine unbillige Härte liegt auch vor, wenn die notwendigen Investitionen nicht in einem angemessenen Verhältnis zum Wert des Gebäudes stehen. Hierbei sind unter Berücksichtigung des Ziels dieses Gesetzes die zur Erreichung dieses Ziels erwartbaren Preisentwicklungen für Energie einschließlich der Preise für Treibhausgase nach dem europäischen und dem nationalen Emissionshandel zu berücksichtigen. Eine unbillige Härte liegt auch vor, wenn aufgrund besonderer persönlicher Umstände die Erfüllung der Anforderungen des Gesetzes nicht zumutbar ist.
 
 (2) Absatz 1 ist auf die Vorschriften von Teil 5 nicht anzuwenden.
 
@@ -1717,9 +1906,11 @@ Eine unbillige Härte liegt insbesondere vor, wenn die erforderlichen Aufwendung
 
 (4) Bis zum 31. Dezember 2024 können die nach Landesrecht zuständigen Behörden auf Antrag die zulässige Nutzungsdauer von Gebäuden im Sinne des § 2 Absatz 2 Nummer 6 und des § 104 Satz 2 um weitere zwei Jahre verlängern, wenn ansonsten die Unterbringung von Geflüchteten durch die öffentliche Hand oder im öffentlichen Auftrag erheblich verzögert würde.
 
+(5) Die nach Landesrecht zuständigen Behörden haben einen Eigentümer, der zum Zeitpunkt der Antragstellung seit mindestens sechs Monaten ununterbrochen einkommensabhängige Sozialleistungen bezogen hat, auf Antrag von den Anforderungen des § 71 Absatz 1 zu befreien. Die Befreiung erlischt nach Ablauf von zwölf Monaten, wenn nicht in dieser Zeit eine andere Heizungsanlage eingebaut wurde. Die Sätze 1 und 2 sind entsprechend für Personen anzuwenden, die aufgrund schuldrechtlicher oder dinglicher Vereinbarungen anstelle des Eigentümers zum Austausch der Heizungsanlage verpflichtet sind.
+
 # § 103 – Innovationsklausel
 
-(1) Bis zum 31. Dezember 2023 können die nach Landesrecht zuständigen Behörden auf Antrag nach § 102 Absatz 1 Satz 1 Nummer 1
+(1) Bis zum 31. Dezember 2025 können die nach Landesrecht zuständigen Behörden auf Antrag nach § 102 Absatz 1 Satz 1 Nummer 1
 
 1. von den Anforderungen des § 10 Absatz 2 befreien, wenn
 
@@ -1763,13 +1954,13 @@ Soweit bei einem Baudenkmal, bei auf Grund von Vorschriften des Bundes- oder Lan
 
 1. die Errichtung und der Betrieb gemeinsamer Anlagen zur zentralen oder dezentralen Erzeugung, Verteilung, Nutzung oder Speicherung von Wärme und Kälte aus erneuerbaren Energien oder Kraft-Wärme-Kopplung,
 
-2. die gemeinsame Erfüllung der Anforderung nach § 10 Absatz 2 Nummer 3,
+2. die gemeinsame Erfüllung der Anforderung nach § 71 Absatz 1,
 
 3. die Benutzung von Grundstücken, deren Betreten und die Führung von Leitungen über Grundstücke.
 
 (2) Treffen Bauherren oder Eigentümer eine Vereinbarung nach Absatz 1, sind die Anforderungen nach § 10 Absatz 2 Nummer 1 und 2 und nach § 50 Absatz 1 in Verbindung mit § 48 für jedes Gebäude, das von der Vereinbarung erfasst wird, einzuhalten. § 103 Absatz 3 bleibt unberührt.
 
-(3) Treffen Bauherren oder Eigentümer eine Vereinbarung zur gemeinsamen Erfüllung der Anforderung nach § 10 Absatz 2 Nummer 3, muss der Wärme- und Kälteenergiebedarf ihrer Gebäude insgesamt in einem Umfang durch Maßnahmen nach den §§ 35 bis 45 gedeckt werden, der mindestens der Summe entspricht, die sich aus den einzelnen Deckungsanteilen nach den §§ 35 bis 45 ergibt.
+(3) Treffen Bauherren oder Eigentümer eine Vereinbarung zur gemeinsamen Erfüllung der Anforderung nach § 71 Absatz 1, muss der Wärme- und Kälteenergiebedarf ihrer Gebäude insgesamt in einem Umfang durch Maßnahmen nach § 71 Absatz 1 gedeckt werden, der mindestens der Summe entspricht, die sich aus den einzelnen Deckungsanteilen nach § 71 Absatz 1 ergibt.
 
 (4) Dritte, insbesondere Energieversorgungsunternehmen, können an Vereinbarungen im Sinne des Absatzes 1 beteiligt werden. § 22 bleibt unberührt.
 
@@ -1791,43 +1982,81 @@ Soweit bei einem Baudenkmal, bei auf Grund von Vorschriften des Bundes- oder Lan
 
 3. entgegen § 48 Satz 1 eine dort genannte Maßnahme nicht richtig ausführt,
 
-4. entgegen § 61 Absatz 1 Satz 1 nicht dafür Sorge trägt, dass eine Zentralheizung mit einer dort genannten Einrichtung ausgestattet ist,
+4. entgegen § 60a Absatz 1 Satz 1 eine Wärmepumpe nicht oder nicht rechtzeitig einer Betriebsprüfung unterzieht,
 
-5. entgegen § 61 Absatz 2 eine dort genannte Ausstattung nicht, nicht richtig oder nicht rechtzeitig nachrüstet,
+5. entgegen § 60a Absatz 5 Satz 2 oder § 60b Absatz 5 Satz 2 eine Optimierungsmaßnahme nicht oder nicht rechtzeitig durchführt,
 
-6. entgegen § 63 Absatz 1 Satz 1 nicht dafür Sorge trägt, dass eine heizungstechnische Anlage mit Wasser als Wärmeträger mit einer dort genannten Einrichtung ausgestattet ist,
+6. entgegen § 60b Absatz 1 Satz 1 oder Satz 2 eine Heizungsanlage nicht oder nicht rechtzeitig einer Heizungsprüfung unterzieht,
 
-7. entgegen § 69, § 70 oder § 71 Absatz 1 nicht dafür Sorge trägt, dass die Wärmeabgabe oder Wärmeaufnahme dort genannter Leitungen oder Armaturen begrenzt wird,
+7. entgegen § 60c Absatz 1 ein Heizungssystem nicht oder nicht rechtzeitig hydraulisch abgleicht,
 
-8. entgegen § 72 Absatz 1 oder 2 einen Heizkessel betreibt,
+8. entgegen § 61 Absatz 1 Satz 1 nicht dafür Sorge trägt, dass eine Zentralheizung mit einer dort genannten Einrichtung ausgestattet ist,
 
-9. entgegen § 72 Absatz 4 Satz 1 einen Heizkessel einbaut oder aufstellt,
+9. entgegen § 61 Absatz 2 eine dort genannte Ausstattung nicht, nicht richtig oder nicht rechtzeitig nachrüstet,
 
-10. entgegen § 74 Absatz 1 eine Inspektion nicht, nicht richtig oder nicht rechtzeitig durchführen lässt,
+10. entgegen § 63 Absatz 1 Satz 1 nicht dafür Sorge trägt, dass eine heizungstechnische Anlage mit Wasser als Wärmeträger mit einer dort genannten Einrichtung ausgestattet ist,
 
-11. entgegen § 77 Absatz 1 eine Inspektion durchführt,
+11. entgegen § 69 oder § 70 nicht dafür Sorge trägt, dass die Wärmeabgabe oder Wärmeaufnahme dort genannter Leitungen oder Armaturen begrenzt wird,
 
-12. entgegen § 80 Absatz 1 Satz 2, auch in Verbindung mit Satz 3, nicht sicherstellt, dass ein Energieausweis oder eine Kopie übergeben wird,
+12. entgegen § 71 Absatz 2 Satz 3 eine Heizungsanlage nicht richtig einbaut, nicht richtig aufstellt oder nicht richtig betreibt,
 
-13. entgegen § 80 Absatz 4 Satz 1 oder 4, jeweils auch in Verbindung mit Absatz 5, einen Energieausweis oder eine Kopie nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+13. entgegen § 71 Absatz 9 Satz 1 nicht sicherstellt, dass Wärme zu einem dort genannten Zeitpunkt mindestens in der dort genannten Menge mit einem dort genannten Brennstoff erzeugt wird,
 
-14. entgegen § 80 Absatz 4 Satz 5, auch in Verbindung mit Absatz 5, einen Energieausweis oder eine Kopie nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übergibt,
+14. entgegen § 71a Absatz 1 Satz 1, auch in Verbindung mit Satz 2, ein Nichtwohngebäude nicht, nicht richtig oder nicht rechtzeitig ausrüstet,
 
-15. entgegen § 83 Absatz 1 Satz 2 oder Absatz 3 Satz 1 nicht dafür Sorge trägt, dass dort genannte Daten richtig sind,
+15. entgegen § 71b Absatz 1 Satz 3 oder Absatz 2 Satz 2 eine Bestätigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erbringt,
 
-16. entgegen § 87 Absatz 1, auch in Verbindung mit Absatz 2, nicht sicherstellt, dass die Immobilienanzeige die dort genannten Pflichtangaben enthält,
+16. entgegen § 71d Absatz 1 oder Absatz 2 Satz 1 oder Satz 2 eine Stromdirektheizung einbaut oder aufstellt,
 
-17. entgegen § 88 Absatz 1 einen Energieausweis ausstellt,
+17. entgegen § 71f Absatz 1 Satz 1 nicht sicherstellt, dass mindestens 65 Prozent der mit der Anlage bereitgestellten Wärme aus den dort genannten Brennstoffen erzeugt werden,
 
-18. entgegen § 96 Absatz 1 eine Bestätigung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+18. entgegen § 71g Nummer 1 oder Nummer 2 nicht sicherstellt, dass die Nutzung der festen Biomasse in einem automatisch beschickten Biomasseofen mit Wasser als Wärmeträger oder einem Biomassekessel erfolgt und ausschließlich dort genannte Biomasse eingesetzt wird,
 
-19. entgegen § 96 Absatz 5 Satz 2 eine Abrechnung nicht oder nicht mindestens fünf Jahre aufbewahrt,
+19. entgegen § 71h Absatz 1 Satz 1 oder Absatz 2 eine Wärmepumpen-Hybridheizung oder eine Solarthermie-Hybridheizung einbaut oder aufstellt oder betreibt,
 
-20. entgegen § 96 Absatz 6 Satz 1, auch in Verbindung mit Satz 2, eine Bescheinigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ausstellen lässt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder
+20. entgegen § 72 Absatz 1, 2 oder Absatz 4 einen Heizkessel betreibt,
 
-21. einer vollziehbaren Anordnung nach § 99 Absatz 6 Satz 1, auch in Verbindung mit Absatz 8, zuwiderhandelt.
+21. entgegen § 74 Absatz 1 eine Inspektion nicht, nicht richtig oder nicht rechtzeitig durchführen lässt,
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 9 mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 10 bis 17 mit einer Geldbuße bis zu zehntausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+22. entgegen § 77 Absatz 1 eine Inspektion durchführt,
+
+23. entgegen § 80 Absatz 1 Satz 2, auch in Verbindung mit Satz 3, nicht sicherstellt, dass ein Energieausweis oder eine Kopie übergeben wird,
+
+24. entgegen § 80 Absatz 4 Satz 1 oder 4, jeweils auch in Verbindung mit Absatz 5, einen Energieausweis oder eine Kopie nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+25. entgegen § 80 Absatz 4 Satz 5, auch in Verbindung mit Absatz 5, einen Energieausweis oder eine Kopie nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übergibt,
+
+26. entgegen § 83 Absatz 1 Satz 2 oder Absatz 3 Satz 1 nicht dafür Sorge trägt, dass dort genannte Daten richtig sind,
+
+27. entgegen § 87 Absatz 1, auch in Verbindung mit Absatz 2, nicht sicherstellt, dass die Immobilienanzeige die dort genannten Pflichtangaben enthält,
+
+28. entgegen § 88 Absatz 1 einen Energieausweis ausstellt,
+
+29. entgegen § 96 Absatz 1 oder Absatz 4 eine Bestätigung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+
+30. entgegen § 96 Absatz 5 Satz 2 eine Abrechnung nicht oder nicht mindestens fünf Jahre aufbewahrt,
+
+31. entgegen § 96 Absatz 6 Satz 1, auch in Verbindung mit Satz 2, eine Bescheinigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ausstellen lässt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder
+
+32. einer vollziehbaren Anordnung nach § 99 Absatz 6 Satz 1, auch in Verbindung mit Absatz 8, zuwiderhandelt.
+
+(2) Die Ordnungswidrigkeit kann geahndet werden
+
+1. in den Fällen des Absatzes 1 Nummer 1 bis 3, 8 bis 11 und 20 mit einer Geldbuße bis zu fünfzigtausend Euro,
+
+2. in den Fällen des Absatzes 1 Nummer 21 bis 28 mit einer Geldbuße bis zu zehntausend Euro und
+
+3. in den Fällen des Absatzes 1
+
+a) Nummer 4 bis 7, 14, 15 und 29 bis 32,
+
+b) Nummer 12, 13 und 16 bis 19
+
+mit einer Geldbuße bis zu fünftausend Euro.
+
+In den Fällen des Satzes 1 Nummer 3 Buchstabe b ist § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten anzuwenden.
+
+(+++ § 108 Abs. 1 Nr. 12 u. 16 bis 19, Abs. 2 Satz 1 Nr. 3 Buchst. b u. Satz 2: Zur Nichtanwendung vgl. § 115 +++)
 
 # § 109 – Anschluss- und Benutzungszwang
 
@@ -1839,9 +2068,9 @@ Die technischen Anforderungen dieses Gesetzes an Anlagen der Heizungs-, Kühl- u
 
 # § 111 – Allgemeine Übergangsvorschriften
 
-(1) Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf Vorhaben, welche die Errichtung, die Änderung, die grundlegende Renovierung, die Erweiterung oder den Ausbau von Gebäuden zum Gegenstand haben, falls die Bauantragstellung oder der Antrag auf Zustimmung oder die Bauanzeige vor dem Inkrafttreten dieses Gesetzes erfolgte. Für diese Vorhaben sind die Bestimmungen der mit dem Inkrafttreten dieses Gesetzes zugleich abgelösten oder geänderten Rechtsvorschriften in den zum Zeitpunkt der Bauantragstellung oder des Antrags auf Zustimmung oder der Bauanzeige jeweils geltenden Fassungen weiter anzuwenden. Die Sätze 1 und 2 sind entsprechend anzuwenden auf alle Fälle nicht genehmigungsbedürftiger Vorhaben; für Vorhaben, die nach Maßgabe des Bauordnungsrechts der zuständigen Behörde zur Kenntnis zu geben sind, ist dabei auf den Zeitpunkt des Eingangs der Kenntnisgabe bei der zuständigen Behörde und für sonstige nicht genehmigungsbedürftige, insbesondere genehmigungs-, anzeige- und verfahrensfreie Vorhaben auf den Zeitpunkt des Beginns der Bauausführung abzustellen.
+(1) Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf Vorhaben, welche die Errichtung, die Änderung, die größere Renovierung, die Erweiterung oder den Ausbau von Gebäuden zum Gegenstand haben, falls die Bauantragstellung oder der Antrag auf Zustimmung oder die Bauanzeige vor dem Inkrafttreten dieses Gesetzes erfolgte. Für diese Vorhaben sind die Bestimmungen der mit dem Inkrafttreten dieses Gesetzes zugleich abgelösten oder geänderten Rechtsvorschriften in den zum Zeitpunkt der Bauantragstellung oder des Antrags auf Zustimmung oder der Bauanzeige jeweils geltenden Fassungen weiter anzuwenden. Die Sätze 1 und 2 sind entsprechend anzuwenden auf alle Fälle nicht genehmigungsbedürftiger Vorhaben; für Vorhaben, die nach Maßgabe des Bauordnungsrechts der zuständigen Behörde zur Kenntnis zu geben sind, ist dabei auf den Zeitpunkt des Eingangs der Kenntnisgabe bei der zuständigen Behörde und für sonstige nicht genehmigungsbedürftige, insbesondere genehmigungs-, anzeige- und verfahrensfreie Vorhaben auf den Zeitpunkt des Beginns der Bauausführung abzustellen.
 
-(2) Auf Vorhaben, welche die Errichtung, die Änderung, die grundlegende Renovierung, die Erweiterung oder den Ausbau von Gebäuden zum Gegenstand haben, ist dieses Gesetz in der zum Zeitpunkt der Bauantragstellung, des Antrags auf Zustimmung oder der Bauanzeige geltenden Fassung anzuwenden. Satz 1 ist entsprechend anzuwenden auf alle Fälle nicht genehmigungsbedürftiger Vorhaben; für Vorhaben, die nach Maßgabe des Bauordnungsrechts der zuständigen Behörde zur Kenntnis zu geben sind, ist dabei auf den Zeitpunkt des Eingangs der Kenntnisgabe bei der zuständigen Behörde und für sonstige nicht genehmigungsbedürftige, insbesondere genehmigungs-, anzeige- und verfahrensfreie Vorhaben auf den Zeitpunkt des Beginns der Bauausführung abzustellen.
+(2) Auf Vorhaben, welche die Errichtung, die Änderung, die größere Renovierung, die Erweiterung oder den Ausbau von Gebäuden zum Gegenstand haben, ist dieses Gesetz in der zum Zeitpunkt der Bauantragstellung, des Antrags auf Zustimmung oder der Bauanzeige geltenden Fassung anzuwenden. Satz 1 ist entsprechend anzuwenden auf alle Fälle nicht genehmigungsbedürftiger Vorhaben; für Vorhaben, die nach Maßgabe des Bauordnungsrechts der zuständigen Behörde zur Kenntnis zu geben sind, ist dabei auf den Zeitpunkt des Eingangs der Kenntnisgabe bei der zuständigen Behörde und für sonstige nicht genehmigungsbedürftige, insbesondere genehmigungs-, anzeige- und verfahrensfreie Vorhaben auf den Zeitpunkt des Beginns der Bauausführung abzustellen.
 
 (3) Auf Verlangen des Bauherren ist abweichend von den Absätzen 1 und 2 das jeweils neue Recht anzuwenden, wenn über den Bauantrag oder über den Antrag auf Zustimmung oder nach einer Bauanzeige noch nicht bestandskräftig entschieden worden ist.
 
@@ -1876,6 +2105,10 @@ Bei Energieausweisen für Wohngebäude nach Satz 1, bei denen noch keine Energie
 # § 114 – Übergangsvorschrift über die vorläufige Wahrnehmung von Vollzugsaufgaben der Länder durch das Deutsche Institut für Bautechnik
 
 Bis zum Inkrafttreten der erforderlichen jeweiligen landesrechtlichen Regelungen zur Aufgabenübertragung nimmt das Deutsche Institut für Bautechnik vorläufig die Aufgaben des Landesvollzugs als Registrierstelle nach § 98 und als Kontrollstelle nach § 99 wahr. Die vorläufige Aufgabenwahrnehmung als Kontrollstelle nach Satz 1 bezieht sich nur auf die Überprüfung von Stichproben auf der Grundlage der in § 99 Absatz 4 Satz 1 Nummer 1 und 2 geregelten Optionen oder gleichwertiger Maßnahmen, soweit diese Aufgaben elektronisch durchgeführt werden können. Die Sätze 1 und 2 sind längstens fünf Jahre nach Inkrafttreten dieser Regelung anzuwenden.
+
+# § 115 – Übergangsvorschrift für Geldbußen
+
+§ 108 Absatz 1 Nummer 12 und 16 bis 19, Absatz 2 Satz 1 Nummer 3 Buchstabe b und Satz 2 ist bis zum Ablauf der Fristen nach § 71 Absatz 8 nicht anzuwenden auf den Eigentümer eines Wohngebäudes mit nicht mehr als sechs Wohnungen, wenn dieser das Wohngebäude selber bewohnt.
 
 # Anlage 1 – (zu § 15 Absatz 1)Technische Ausführung des Referenzgebäudes (Wohngebäude)
 
@@ -2024,11 +2257,12 @@ Als zentrale Lüftungsanlage gelten sowohl gebäude- als auch wohnungszentrale A
 
 (Fundstelle: BGBl. I 2020, 1783 - 1786)
 
-# Anlage 8 – (zu den §§ 69, 70 und 71 Absatz 1)Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen
+# Anlage 8 – (zu den §§ 69 und 70)Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen
 
-(Fundstelle: BGBl. I 2020, 1787)
+(Fundstelle: BGBl. I 2020, 1787;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-1. Wärmedämmung von Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen in den Fällen des § 69 und § 71 Absatz 1
+1. Wärmedämmung von Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen
 
 a) Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen sind wie folgt zu dämmen:
 
@@ -2053,16 +2287,24 @@ gg)
 Bei Leitungen und Armaturen nach Doppelbuchstabe ff, die sich in einem Fußbodenaufbau befinden, beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, 6 Millimeter.
 
 hh)  
-Soweit in den Fällen des § 69 Wärmeverteilungs- und Warmwasserleitungen an Außenluft grenzen, beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, das Zweifache des jeweiligen Wertes nach den Doppelbuchstaben aa bis dd.
+Soweit in den Fällen des § 69 Absatz 1 Wärmeverteilungs- und Warmwasserleitungen an Außenluft grenzen, beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, das Zweifache des jeweiligen Wertes nach den Doppelbuchstaben aa bis dd.
 
-b) In den Fällen des § 69 ist Buchstabe a nicht anzuwenden, soweit sich Wärmeverteilungsleitungen nach Buchstabe a Doppelbuchstabe aa bis dd in beheizten Räumen oder in Bauteilen zwischen beheizten Räumen eines Nutzers befinden und ihre Wärmeabgabe durch frei liegende Absperreinrichtungen beeinflusst werden kann.
+Die Wärmeleitfähigkeiten der Wärmedämmung sind jeweils auf eine Mitteltemperatur von 40 Grad Celsius zu beziehen.
 
-c) In Fällen des § 69 ist Buchstabe a nicht anzuwenden auf Warmwasserleitungen bis zu einem Wasserinhalt von 3 Litern, die weder in den Zirkulationskreislauf einbezogen noch mit elektrischer Begleitheizung ausgestattet sind (Stichleitungen) und sich in beheizten Räumen befinden.
+b) In den Fällen des § 69 Absatz 1 ist Buchstabe a nicht anzuwenden, soweit sich Wärmeverteilungsleitungen nach Buchstabe a Doppelbuchstabe aa bis dd in beheizten Räumen oder in Bauteilen zwischen beheizten Räumen eines Nutzers befinden und ihre Wärmeabgabe durch frei liegende Absperreinrichtungen beeinflusst werden kann.
+
+c) In Fällen des § 69 Absatz 1 ist Buchstabe a nicht anzuwenden auf Warmwasserleitungen bis zu einem Wasserinhalt von 3 Litern, die weder in den Zirkulationskreislauf einbezogen noch mit elektrischer Begleitheizung ausgestattet sind (Stichleitungen) und sich in beheizten Räumen befinden.
 
 2. Wärmedämmung von Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen in den Fällen des § 70  
   
 
-Bei Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen von Raumlufttechnik- und Klimakältesystemen beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, 6 Millimeter.
+Bei Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen von Raumlufttechnik- und Klimakältesystemen mit einem Innendurchmesser
+
+a) von bis zu 22 Millimetern beträgt die Mindestdicke der Dämmschicht 9 Millimeter, bezogen auf eine Wärmeleitfähigkeit der Dämmschicht von 0,035 Watt pro Meter und Kelvin,
+
+b) von mehr als 22 Millimetern beträgt die Mindestdicke der Dämmschicht 19 Millimeter, bezogen auf eine Wärmeleitfähigkeit der Dämmschicht von 0,035 Watt pro Meter und Kelvin.
+
+Die Wärmeleitfähigkeit der Kältedämmung ist jeweils auf eine Mitteltemperatur von 10 Grad Celsius zu beziehen.
 
 3. Materialien mit anderen Wärmeleitfähigkeiten  
   

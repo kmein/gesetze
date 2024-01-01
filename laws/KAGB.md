@@ -3426,7 +3426,7 @@ Die Ordnungsgeldvorschriften der §§ 335 bis 335b des Handelsgesetzbuchs sind a
 
 2. über die Ergebnisse der Gesellschafterversammlung ein Protokoll in Textform anzufertigen ist, von dem die offene Investmentkommanditgesellschaft den Anlegern eine Kopie zu übersenden hat.
 
-(4) Im Gesellschaftsvertrag darf nicht von § 131 Absatz 3 Nummer 2 und 4 des Handelsgesetzbuchs abgewichen werden.
+(4) Im Gesellschaftsvertrag darf nicht von § 130 Absatz 1 Nummer 3 und 4 sowie § 130 Absatz 3 des Handelsgesetzbuchs abgewichen werden.
 
 (+++ § 125: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
@@ -3476,7 +3476,7 @@ Die Geschäftsführung hat bei der Wahrnehmung ihrer Aufgaben unabhängig von de
 
 (1) Die offene Investmentkommanditgesellschaft kann eine ihrem Unternehmensgegenstand entsprechende externe Kapitalverwaltungsgesellschaft bestellen. Dieser obliegt insbesondere die Anlage und Verwaltung des Kommanditanlagevermögens. Die Bestellung der externen AIF-Kapitalverwaltungsgesellschaft ist kein Fall des § 36. Die externe AIF-Kapitalverwaltungsgesellschaft ist berechtigt, die Verwaltung der Mittel der offenen Investmentkommanditgesellschaft zu kündigen. § 99 Absatz 1 bis 4 gilt entsprechend.
 
-(2) § 100 ist entsprechend anzuwenden mit der Maßgabe, dass das Verwaltungs- und Verfügungsrecht über das Gesellschaftsvermögen nur dann auf die Verwahrstelle zur Abwicklung übergeht, wenn die offene Investmentkommanditgesellschaft sich nicht in eine intern verwaltete offene Investmentkommanditgesellschaft umwandelt oder keine andere externe AIF-Kapitalverwaltungsgesellschaft benennt und dies jeweils der Bundesanstalt angezeigt wurde. Im Fall der Bestellung einer anderen externen AIF-Kapitalverwaltungsgesellschaft ist § 100b Absatz 1 Satz 1 bis 3, Absatz 2 und 3 entsprechend anzuwenden. § 147 des Handelsgesetzbuchs findet keine Anwendung.
+(2) § 100 ist entsprechend anzuwenden mit der Maßgabe, dass das Verwaltungs- und Verfügungsrecht über das Gesellschaftsvermögen nur dann auf die Verwahrstelle zur Abwicklung übergeht, wenn die offene Investmentkommanditgesellschaft sich nicht in eine intern verwaltete offene Investmentkommanditgesellschaft umwandelt oder keine andere externe AIF-Kapitalverwaltungsgesellschaft benennt und dies jeweils der Bundesanstalt angezeigt wurde. Im Fall der Bestellung einer anderen externen AIF-Kapitalverwaltungsgesellschaft ist § 100b Absatz 1 Satz 1 bis 3, Absatz 2 und 3 entsprechend anzuwenden.
 
 (+++ § 129: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
@@ -3601,7 +3601,7 @@ Einem Anleger wird der Jahresbericht auf Anfrage vorgelegt.
 
 # § 138 – Auflösung und Liquidation
 
-(1) § 133 Absatz 1 des Handelsgesetzbuchs gilt nicht. Ein Gesellschafter der offenen Investmentkommanditgesellschaft kann die Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft außerordentlich kündigen und aus ihr ausscheiden, wenn ein wichtiger Grund vorliegt. § 133 Absatz 2 und 3 des Handelsgesetzbuchs ist entsprechend anzuwenden.
+(1) Ein Gesellschafter der offenen Investmentkommanditgesellschaft kann die Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft außerordentlich kündigen und aus ihr ausscheiden, wenn ein wichtiger Grund vorliegt. § 132 Absatz 2 Satz 2 und Absatz 6 des Handelsgesetzbuchs ist entsprechend anzuwenden.
 
 (2) Die Kommanditisten haften nach Beendigung der Liquidation nicht für die Verbindlichkeiten der offenen Investmentkommanditgesellschaft.
 
@@ -3755,7 +3755,7 @@ zum Nutzen der Anleger sein. Der Gesellschaftsvertrag von geschlossenen Speziali
 
 2. über die Ergebnisse der Gesellschafterversammlung ein Protokoll in Textform anzufertigen ist, von dem die geschlossene Investmentkommanditgesellschaft den Anlegern eine Kopie zu übersenden hat.
 
-(4) Im Gesellschaftsvertrag darf nicht von § 131 Absatz 3 Nummer 2 und 4 des Handelsgesetzbuchs abgewichen werden.
+(4) Im Gesellschaftsvertrag darf nicht von § 130 Absatz 1 Nummer 3 und 4 sowie Absatz 3 des Handelsgesetzbuchs abgewichen werden.
 
 (+++ § 150: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
@@ -3821,7 +3821,7 @@ Die Geschäftsführung hat bei der Wahrnehmung ihrer Aufgaben unabhängig von de
 
 1. das Verwaltungs- und Verfügungsrecht über das Gesellschaftsvermögen nur dann auf die Verwahrstelle zur Abwicklung übergeht, wenn die geschlossene Investmentkommanditgesellschaft sich nicht in eine intern verwaltete geschlossene Investmentkommanditgesellschaft umwandelt oder keine andere externe AIF-Kapitalverwaltungsgesellschaft benennt und dies bei geschlossenen Publikumsinvestmentkommanditgesellschaften jeweils von der Bundesanstalt genehmigt wird und bei geschlossenen Spezialinvestmentkommanditgesellschaften jeweils der Bundesanstalt angezeigt wird;
 
-2. die Gesellschafter die Bestellung eines anderen Liquidators als der Verwahrstelle beschließen können; § 147 des Handelsgesetzbuchs findet keine Anwendung, wenn die Liquidation durch die Verwahrstelle als Liquidator erfolgt.
+2. die Gesellschafter die Bestellung eines anderen Liquidators als der Verwahrstelle beschließen können.
 
 Im Fall der Bestellung einer anderen externen AIF-Kapitalverwaltungsgesellschaft ist § 100b Absatz 1, 3 und 4 entsprechend anzuwenden mit der Maßgabe, dass die Übertragung bei Publikumsinvestmentkommanditgesellschaften frühestens mit Erteilung der Genehmigung der Bundesanstalt wirksam wird.
 
@@ -3879,7 +3879,7 @@ Der Jahresabschluss einer geschlossenen Publikumsinvestmentkommanditgesellschaft
 
 (1) Das Recht zur ordentlichen Kündigung besteht bei der geschlossenen Investmentkommanditgesellschaft nicht.
 
-(2) § 133 Absatz 1 des Handelsgesetzbuchs gilt nicht. Ein Gesellschafter der geschlossenen Investmentkommanditgesellschaft kann die Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit außerordentlich kündigen und aus ihr ausscheiden, wenn ein wichtiger Grund vorliegt. § 133 Absatz 2 und 3 des Handelsgesetzbuchs ist entsprechend anzuwenden.
+(2) Ein Gesellschafter der geschlossenen Investmentkommanditgesellschaft kann die Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit außerordentlich kündigen und aus ihr ausscheiden, wenn ein wichtiger Grund vorliegt. § 132 Absatz 2 Satz 2 und Absatz 6 des Handelsgesetzbuchs ist entsprechend anzuwenden.
 
 (3) Wird eine geschlossene Publikumsinvestmentkommanditgesellschaft abgewickelt, hat der Liquidator jährlich sowie auf den Tag, an dem die Abwicklung beendet ist, einen Abwicklungsbericht zu erstellen, der den Anforderungen nach § 158 entspricht.
 

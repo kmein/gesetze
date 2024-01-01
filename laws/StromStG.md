@@ -47,7 +47,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 Im Falle einer Steuerbefreiung oder Inanspruchnahme einer Steuerermäßigung hat das betreffende Unternehmen dem zuständigen Hauptzollamt unverzüglich mitzuteilen, wenn es sich im Sinn des Satzes 1 in wirtschaftlichen Schwierigkeiten befindet. Im Falle eines Antrages auf Steuerentlastung ist bei Antragstellung zu versichern, dass kein Fall von Satz 1 vorliegt.
 
-(3) Staatliche Beihilfen im Sinn des Artikels 107 des Vertrags über die Arbeitsweise der Europäischen Union, die der Kommission anzuzeigen oder von ihr zu genehmigen sind, sind in diesem Gesetz § 9 Absatz 1 Nummer 1 und 3, Absatz 2 und 3 sowie die §§ 9b, 9c und 10.
+(3) Staatliche Beihilfen im Sinn des Artikels 107 des Vertrags über die Arbeitsweise der Europäischen Union, die der Kommission anzuzeigen oder von ihr zu genehmigen sind, sind in diesem Gesetz § 9 Absatz 1 Nummer 1 und 3, Absatz 2 und 3 sowie die §§ 9b und 9c.
 
 # § 3 – Steuertarif
 
@@ -199,6 +199,8 @@ entnommen hat.
 
 (2) Die Steuerentlastung beträgt 5,13 Euro für eine Megawattstunde. Eine Steuerentlastung wird nur gewährt, soweit der Entlastungsbetrag nach Satz 1 im Kalenderjahr den Betrag von 250 Euro übersteigt.
 
+(2a) Abweichend von Absatz 2 Satz 1 beträgt die Steuerentlastung für vom 1. Januar 2024 bis einschließlich 31. Dezember 2025 entnommenen Strom 20 Euro für eine Megawattstunde.
+
 (3) Entlastungsberechtigt ist derjenige, der den Strom entnommen hat.
 
 (4) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
@@ -243,75 +245,7 @@ wenn diese Streitkräfte im Steuergebiet an einer Verteidigungsanstrengung teiln
 
 (2) Entlastungsberechtigt ist derjenige, der den Strom unmittelbar zu dem begünstigten Zweck geleistet hat.
 
-# § 10 – Erlass, Erstattung oder Vergütung in Sonderfällen
-
-(1) Die Steuer für nachweislich versteuerten Strom, den ein Unternehmen des Produzierenden Gewerbes für betriebliche Zwecke, ausgenommen solche nach § 9 Absatz 2 oder Absatz 3, entnommen hat, wird auf Antrag nach Maßgabe der nachfolgenden Absätze erlassen, erstattet oder vergütet, soweit die Steuer im Kalenderjahr den Betrag von 1 000 Euro übersteigt. Eine nach § 9b mögliche Steuerentlastung wird dabei abgezogen. Die Steuer für Strom, der zur Erzeugung von Licht, Wärme, Kälte, Druckluft und mechanischer Energie entnommen worden ist, wird jedoch nur erlassen, erstattet oder vergütet, soweit die vorgenannten Erzeugnisse nachweislich durch ein Unternehmen des Produzierenden Gewerbes genutzt worden sind. Abweichend von Satz 3 wird die Steuer auch in dem in § 9b Absatz 1 Satz 3 genannten Fall erlassen, erstattet oder vergütet. Erlass-, erstattungs- oder vergütungsberechtigt ist das Unternehmen des Produzierenden Gewerbes, das den Strom entnommen hat. Die Steuerentlastung wird nicht für Strom gewährt, der für Elektromobilität verwendet wird.
-
-(1a) (weggefallen)
-
-(2) Erlassen, erstattet oder vergütet werden für ein Kalenderjahr 90 Prozent der Steuer, jedoch höchstens 90 Prozent des Betrags, um den die Steuer im Kalenderjahr den Unterschiedsbetrag übersteigt zwischen
-
-1. dem Arbeitgeberanteil an den Rentenversicherungsbeiträgen, der sich für das Unternehmen errechnet, wenn in dem Kalenderjahr, für das der Antrag gestellt wird (Antragsjahr), der Beitragssatz in der allgemeinen Rentenversicherung 20,3 Prozent und in der knappschaftlichen Rentenversicherung 26,9 Prozent betragen hätte, und
-
-2. dem Arbeitgeberanteil an den Rentenversicherungsbeiträgen, der sich für das Unternehmen errechnet, wenn im Antragsjahr der Beitragssatz in der allgemeinen Rentenversicherung 19,5 Prozent und in der knappschaftlichen Rentenversicherung 25,9 Prozent betragen hätte.
-
-Sind die Beitragssätze in der Rentenversicherung im Antragsjahr niedriger als die in Satz 1 Nr. 2 genannten Beitragssätze, so sind die niedrigeren Beitragssätze für die Berechnung des Arbeitgeberanteils nach Satz 1 Nr. 2 maßgebend.
-
-(3) Die Steuer wird nach den Absätzen 1 und 2 erlassen, erstattet oder vergütet, wenn
-
-1. das Unternehmen für das Antragsjahr nachweist, dass es
-
-a) ein Energiemanagementsystem betrieben hat, das den Anforderungen der DIN EN ISO 50001, Ausgabe Dezember 2011 oder Ausgabe Dezember 2018, entspricht, oder
-
-b) eine registrierte Organisation nach Artikel 13 der Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission 2001/681/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1), die durch die Verordnung (EG) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, in der jeweils geltenden Fassung, ist, und
-
-2. die Bundesregierung
-
-a) festgestellt hat, dass mindestens der nach der Anlage zu § 10 für das Antragsjahr vorgesehene Zielwert für eine Reduzierung der Energieintensität erreicht wurde; die Feststellung erfolgt auf der Grundlage des Berichts, den ein unabhängiges wissenschaftliches Institut im Rahmen des Monitorings nach der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und der deutschen Wirtschaft zur Steigerung der Energieeffizienz vom 1. August 2012 (BAnz AT 16.10.2012 B1) erstellt hat, sowie
-
-b) die Feststellung nach Buchstabe a im Bundesgesetzblatt bekannt gemacht hat.
-
-Kleine und mittlere Unternehmen können anstelle der in Satz 1 Nummer 1 genannten Energie- und Umweltmanagementsysteme alternative Systeme zur Verbesserung der Energieeffizienz betreiben, die den Anforderungen der DIN EN 16247-1, Ausgabe Oktober 2012, entsprechen; kleine und mittlere Unternehmen sind solche im Sinn der Empfehlung 2003/361/EG der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L 124 vom 20.5.2003, S. 36) in der jeweils geltenden Fassung.
-
-(4) Abweichend von Absatz 3 wird die Steuer erlassen, erstattet oder vergütet
-
-1. für die Antragsjahre 2013 und 2014, wenn das Unternehmen nachweist, dass es im Antragsjahr oder früher begonnen hat, ein Energiemanagementsystem nach Absatz 3 Satz 1 Nummer 1 Buchstabe a oder ein Umweltmanagementsystem nach Absatz 3 Satz 1 Nummer 1 Buchstabe b einzuführen,
-
-2. für das Antragsjahr 2015, wenn
-
-a) das Unternehmen nachweist, dass es im Antragsjahr oder früher die Einführung eines Energiemanagementsystems nach Absatz 3 Satz 1 Nummer 1 Buchstabe a abgeschlossen hat, oder wenn das Unternehmen nachweist, dass es im Jahr 2015 oder früher als Organisation nach Artikel 13 der Verordnung (EG) Nr. 1221/2009 registriert worden ist, und
-
-b) die Voraussetzungen des Absatzes 3 Satz 1 Nummer 2 erfüllt sind,
-
-3. für das Antragsjahr 2023, wenn das Unternehmen nachweist, dass es im Antragsjahr die Voraussetzungen nach Absatz 3 Satz 1 Nummer 1 erfüllt und mit dem Antrag die Bereitschaft erklärt, alle in dem jeweiligen System des Absatzes 3 Satz 1 Nummer 1 als wirtschaftlich vorteilhaft identifizierten Endenergieeinsparmaßnahmen umzusetzen.
-
-Für kleine und mittlere Unternehmen gilt Absatz 3 Satz 2 entsprechend.
-
-(5) Für Unternehmen, die nach dem 31. Dezember 2013 neu gegründet werden, gilt Absatz 4 mit der Maßgabe, dass
-
-1. an die Stelle des Jahres 2013 das Kalenderjahr der Neugründung und an die Stelle der Jahre 2014 und 2015 die beiden auf die Neugründung folgenden Jahre treten sowie
-
-2. ab dem Antragsjahr 2015 die Voraussetzungen des Absatzes 3 Satz 1 Nummer 2 erfüllt sind; Absatz 6 gilt entsprechend.
-
-Als Zeitpunkt der Neugründung gilt der Zeitpunkt der erstmaligen Betriebsaufnahme. Neu gegründete Unternehmen sind nur solche, die nicht durch Umwandlung im Sinn des Umwandlungsgesetzes vom 28. Oktober 1994 (BGBl. I S. 3210; 1995 I S. 428), das zuletzt durch Artikel 2 Absatz 48 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, in der jeweils geltenden Fassung entstanden sind. Satz 1 Nummer 2 gilt nicht für das Antragsjahr 2023.
-
-(6) Stellt die Bundesregierung fest, dass der nach der Anlage zu § 10 für das Antragsjahr vorgesehene Zielwert für eine Reduzierung der Energieintensität nicht erreicht wurde, erhalten die Unternehmen die Steuerentlastung abweichend von Absatz 3 Satz 1 Nummer 2 Buchstabe a
-
-1. zu 60 Prozent, wenn die Bundesregierung festgestellt hat, dass der nach der Anlage zu § 10 vorgesehene Zielwert für eine Reduzierung der Energieintensität mindestens zu 92 Prozent erreicht wurde,
-
-2. zu 80 Prozent, wenn die Bundesregierung festgestellt hat, dass der nach der Anlage zu § 10 vorgesehene Zielwert für eine Reduzierung der Energieintensität mindestens zu 96 Prozent erreicht wurde.
-
-Die Feststellung, ob die Voraussetzungen nach Satz 1 Nummer 1 oder Nummer 2 vorliegen, erfolgt im Rahmen der Bekanntmachung der Bundesregierung nach Absatz 3 Satz 1 Nummer 2 Buchstabe b.
-
-(7) Der Nachweis nach Absatz 3 Satz 1 Nummer 1 Buchstabe a sowie nach Absatz 4 Satz 1 Nummer 1 und 2 Buchstabe a erste Alternative ist von den Unternehmen zu erbringen durch
-
-1. Umweltgutachter oder Umweltgutachterorganisationen, die nach dem Umweltauditgesetz in der Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 1 des Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2509) geändert worden ist, in der jeweils geltenden Fassung als Umweltgutachter tätig werden dürfen, in ihrem jeweiligen Zulassungsbereich, oder
-
-2. Konformitätsbewertungsstellen, die von der nationalen Akkreditierungsstelle für die Zertifizierung von Energiemanagementsystemen nach der DIN EN ISO 50001 akkreditiert sind.
-
-(8) Der Erlass, die Erstattung oder die Vergütung wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
-
-(9) DIN-, DIN EN- und DIN EN ISO-Normen, auf die in diesem Gesetz verwiesen wird, sind in der Beuth Verlag GmbH, Berlin, erschienen und bei der Nationalbibliothek archivmäßig gesichert niedergelegt.
+# § 10 – (weggefallen)
 
 (+++ Hinweis: Feststellung nach § 10 Abs. 3 Satz 1 Nr. 2 Buchst. a u. b  
 für das Antragsjahr 2015 am 21.1.2015 getroffen, vgl. Bek. v. 21.1.2015 I 26,  
@@ -376,7 +310,7 @@ f) Näheres zur Ermittlung für die Hocheffizienzkriterien, zur Berechnung und z
 
 9. zur Sicherung der Gleichmäßigkeit der Besteuerung auf das Erfordernis der Ausschließlichkeit in § 2 Nr. 7 bei aus Deponie-, Klärgas oder Biomasse erzeugtem Strom zu verzichten, wenn die Zuführung anderer Energieträger technisch zwingend erforderlich ist. Dabei kann es bestimmen, dass der aus den zugeführten anderen Energieträgern erzeugte Strom nicht steuerfrei nach § 9 Abs. 1 Nr. 1 entnommen werden kann und Regelungen zur Ermittlung und zum Verfahren des Nachweises des aus den anderen Energieträgern erzeugten Stroms erlassen;
 
-10. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung die Voraussetzungen für die Steuerentlastungen nach den §§ 9a bis 10 einschließlich der Begriffe näher zu bestimmen und das Verfahren der Steuerentlastung zu regeln sowie Vorschriften über Angaben und Nachweise zu erlassen, die zum Zwecke der Steuerentlastung erforderlich sind. Dabei kann es zur Verwaltungsvereinfachung anordnen, dass der Anspruch auf Erlass, Erstattung oder Vergütung der Steuer innerhalb bestimmter Fristen geltend zu machen ist;
+10. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung die Voraussetzungen für die Steuerentlastungen nach den §§ 9a bis 9e einschließlich der Begriffe näher zu bestimmen und das Verfahren der Steuerentlastung zu regeln sowie Vorschriften über Angaben und Nachweise zu erlassen, die zum Zwecke der Steuerentlastung erforderlich sind. Dabei kann es zur Verwaltungsvereinfachung anordnen, dass der Anspruch auf Erlass, Erstattung oder Vergütung der Steuer innerhalb bestimmter Fristen geltend zu machen ist;
 
 11. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung Regelungen zur Ermittlung der steuerrelevanten Strommengen zu erlassen und dabei aus Vereinfachungsgründen Mengenschätzungen durch den Steuerpflichtigen zuzulassen, soweit eine genaue Ermittlung nur mit unvertretbarem Aufwand möglich ist;
 
@@ -428,45 +362,11 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 Dabei kann es anordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht.
 
-# § 12 – Ermächtigung zu § 10 Absatz 3, 4 und 7
+# § 12 – (weggefallen)
 
-(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle, die nationale Akkreditierungsstelle und die Zulassungsstelle nach § 28 des Umweltauditgesetzes zu vollziehende Bestimmungen zu § 10 Absatz 3, 4 und 7 zu erlassen.
+# § 13 – Erlass von Rechtsverordnungen
 
-(2) Durch Rechtsverordnung nach Absatz 1 kann geregelt werden,
-
-1. dass kleine und mittlere Unternehmen auch andere alternative Systeme mit festgelegten Komponenten zur Verbesserung der Energieeffizienz als die in § 10 Absatz 3 Satz 2 genannten alternativen Systeme betreiben können,
-
-2. welche bereits normierten oder anderweitig konkretisierten Systeme als Systeme im Sinn der Nummer 1 betrieben werden können,
-
-3. welche Anforderungen an die inhaltliche Ausgestaltung von noch nicht normierten oder anderweitig konkretisierten Systemen nach Nummer 1 gestellt werden mit der Maßgabe, dass eine Anerkennung dieser Systeme oder der standardisierten Vorgaben für solche Systeme durch eine der in Absatz 1 genannten Stellen erfolgen muss, und
-
-4. wie die Einhaltung der Anforderungen des § 10 Absatz 3 Satz 1 Nummer 1 und Absatz 4 Satz 1 Nummer 1 und 2 Buchstabe a und gegebenenfalls die Einhaltung der Anforderungen der Rechtsverordnung nach den Nummern 1 bis 3 durch die Stellen nach § 10 Absatz 7 nachzuweisen ist.
-
-(3) Regelungen nach Absatz 2 Nummer 4 umfassen insbesondere
-
-1. Vorgaben für die Nachweisführung durch die in § 10 Absatz 7 genannten Stellen,
-
-2. die Anforderungen an die Akkreditierung oder Zulassung der in § 10 Absatz 7 genannten Stellen und Bestimmungen zu ihrer Überwachung einschließlich erforderlicher Auskunfts-, Einsichts- und Weisungsrechte, soweit sie nicht von den bestehenden Akkreditierungs- und Zulassungsregelungen erfasst sind, sowie
-
-3. die Befugnisse der in § 10 Absatz 7 genannten Stellen, während der Betriebszeit Geschäfts-, Betriebs- und Lagerräume sowie Transportmittel zu betreten, soweit dies für die Überwachung oder Kontrolle erforderlich ist.
-
-(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zur Durchführung dieses Gesetzes und der Verordnung nach Absatz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass Erkenntnisse und Informationen, die sich auf die Gültigkeit von Nachweisen nach § 10 Absatz 3, 4 und 7 auswirken können, übermittelt werden können, und dabei Folgendes zu regeln:
-
-1. die übermittelnden Stellen,
-
-2. die Art der zu übermittelnden Erkenntnisse und Informationen,
-
-3. die Voraussetzungen für die Übermittlung der Erkenntnisse und Informationen,
-
-4. die Art und Weise der Übermittlung der Erkenntnisse und Informationen,
-
-5. die Zuständigkeit für die Entgegennahme der zu übermittelnden Erkenntnisse und Informationen.
-
-# § 13 – Erlaß von Rechtsverordnungen, Verwaltungsvorschriften
-
-(1) Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen Ermächtigungen erlassen werden, bedürfen nicht der Zustimmung des Bundesrates.
-
-(2) Das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erlassen im Einvernehmen mit dem Bundesministerium der Finanzen die allgemeinen Verwaltungsvorschriften, die sich an die Stellen nach § 10 Absatz 7 richten, zur Durchführung von Rechtsverordnungen nach § 12.
+Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen Ermächtigungen erlassen werden, bedürfen nicht der Zustimmung des Bundesrates.
 
 # § 14 – Bußgeldvorschriften
 
@@ -480,18 +380,8 @@ Dabei kann es anordnen, dass bei einem Missbrauch für alle daran Beteiligten di
 
 (1) Nach § 9 Absatz 4 in Verbindung mit § 9 Absatz 3 dieses Gesetzes in der am 31. Dezember 2010 geltenden Fassung erteilte Erlaubnisse und den Inhabern dieser Erlaubnisse erteilte Zulassungen nach § 16 Absatz 1 der Stromsteuer-Durchführungsverordnung in der am 31. Dezember 2010 geltenden Fassung erlöschen mit Ablauf des 31. Dezember 2010.
 
-(2) § 10 in der am 31. Dezember 2012 geltenden Fassung gilt fort für Strom, der bis zum 31. Dezember 2012 entnommen worden ist.
+(2) (weggefallen)
 
 (3) Erlaubnisse, die nach § 9 Absatz 1 Nummer 1 und 3 in der am 1. Juli 2019 geltenden Fassung erforderlich werden, gelten bei Vorliegen der Voraussetzungen nach § 9 Absatz 1 Nummer 1 und 3 und vorbehaltlich des Satzes 2 ab dem 1. Juli 2019 auch ohne Antrag als widerruflich erteilt. Satz 1 gilt nur, wenn bis zum 31. Dezember 2019 der Antrag auf Erlaubnis nach § 9 Absatz 4 nachgereicht wird.
 
-# Anlage – (zu § 10)Zielwerte für die zu erreichende Reduzierung der Energieintensität
-
-(Fundstelle: BGBl. I 2012, 2444)
-
-Für die Bestimmung des Zielwertes gelten folgende Festlegungen:
-
-1. Der Zielwert bezeichnet den Prozentsatz, um den sich die Energieintensität in dem für das Antragsjahr maßgeblichen Bezugsjahr gegenüber dem Basiswert verringert. Der Basiswert ist die jahresdurchschnittliche Energieintensität in den Jahren 2007 bis 2012.
-
-2. Die Energieintensität ist der Quotient aus dem temperatur- und konjunkturbereinigten Gesamtenergieverbrauch und der Gesamtsumme der inflationsbereinigten Bruttoproduktionswerte. Der temperatur- und konjunkturbereinigte Gesamtenergieverbrauch und die inflationsbereinigten Bruttoproduktionswerte werden nach dem in der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und der deutschen Wirtschaft zur Steigerung der Energieeffizienz vom 1. August 2012 festgelegten Verfahren und Berechnungsansatz ermittelt. Die Energieintensität wird in der Bezugsgröße GJ/1 000 Euro Bruttoproduktionswert angegeben.
-
-3. Die Zielwerte für die Antragsjahre 2019 bis 2022 sind im Rahmen einer Evaluation im Jahr 2017 zu überprüfen. Im Fall einer Anpassung werden die jährlichen Steigerungen diejenige des Zielwertes für das Bezugsjahr 2016 nicht unterschreiten.
+# Anlage – (weggefallen)

@@ -75,11 +75,17 @@ Verschmelzung unter Beteiligung von Personengesellschaften
 
 Erster Unterabschnitt
 
-Verschmelzung unter Beteiligung von Personenhandelsgesellschaften
+Verschmelzung unter Beteiligung von Gesellschaften bürgerlichen Rechts
 
-§§ 39 bis 45
+§§ 39 bis 39f
 
 Zweiter Unterabschnitt
+
+Verschmelzung unter Beteiligung von Personenhandelsgesellschaften
+
+§§ 40 bis 45
+
+Dritter Unterabschnitt
 
 Verschmelzung unter Beteiligung von Partnerschaftsgesellschaften
 
@@ -655,7 +661,7 @@ Formwechsel von Personengesellschaften
 
 Erster Unterabschnitt
 
-Formwechsel von Personenhandelsgesellschaften
+Formwechsel von Gesellschaften bürgerlichen Rechts und Personenhandelsgesellschaften
 
 §§ 214 bis 225
 
@@ -789,17 +795,35 @@ Formwechsel von Körperschaften und Anstalten des öffentlichen Rechts
 
  
 
+ 
+
+ 
+
 Sechstes Buch
 
 Grenzüberschreitende Umwandlung
 
 §§ 305 bis 345
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 Erster Teil
 
 Grenzüberschreitende Verschmelzung
 
 §§ 305 bis 319
+
+ 
+
+ 
 
  
 
@@ -819,19 +843,15 @@ Grenzüberschreitende Spaltung
 
  
 
+ 
+
+ 
+
 Dritter Teil
 
 Grenzüberschreitender Formwechsel
 
 §§ 333 bis 345
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -879,7 +899,7 @@ gegen Gewährung von Anteilen oder Mitgliedschaften des übernehmenden oder neue
 
 (1) An Verschmelzungen können als übertragende, übernehmende oder neue Rechtsträger beteiligt sein:
 
-1. Personenhandelsgesellschaften (offene Handelsgesellschaften, Kommanditgesellschaften) und Partnerschaftsgesellschaften;
+1. eingetragene Gesellschaften bürgerlichen Rechts, Personenhandelsgesellschaften (offene Handelsgesellschaften, Kommanditgesellschaften) und Partnerschaftsgesellschaften;
 
 2. Kapitalgesellschaften (Gesellschaften mit beschränkter Haftung, Aktiengesellschaften, Kommanditgesellschaften auf Aktien);
 
@@ -1029,7 +1049,7 @@ b) sich alle Anteile des übertragenden und des übernehmenden Rechtsträgers in
 
 # § 16 – Anmeldung der Verschmelzung
 
-(1) Die Vertretungsorgane jedes der an der Verschmelzung beteiligten Rechtsträger haben die Verschmelzung zur Eintragung in das Register (Handelsregister, Partnerschaftsregister, Genossenschaftsregister oder Vereinsregister) des Sitzes ihres Rechtsträgers anzumelden. Das Vertretungsorgan des übernehmenden Rechtsträgers ist berechtigt, die Verschmelzung auch zur Eintragung in das Register des Sitzes jedes der übertragenden Rechtsträger anzumelden.
+(1) Die Vertretungsorgane jedes der an der Verschmelzung beteiligten Rechtsträger haben die Verschmelzung zur Eintragung in das Register (Handelsregister, Genossenschaftsregister, Gesellschaftsregister, Partnerschaftsregister oder Vereinsregister) des Sitzes ihres Rechtsträgers anzumelden. Das Vertretungsorgan des übernehmenden Rechtsträgers ist berechtigt, die Verschmelzung auch zur Eintragung in das Register des Sitzes jedes der übertragenden Rechtsträger anzumelden.
 
 (2) Bei der Anmeldung haben die Vertretungsorgane zu erklären, daß eine Klage gegen die Wirksamkeit eines Verschmelzungsbeschlusses nicht oder nicht fristgemäß erhoben oder eine solche Klage rechtskräftig abgewiesen oder zurückgenommen worden ist; hierüber haben die Vertretungsorgane dem Registergericht auch nach der Anmeldung Mitteilung zu machen. Liegt die Erklärung nicht vor, so darf die Verschmelzung nicht eingetragen werden, es sei denn, daß die klageberechtigten Anteilsinhaber durch notariell beurkundete Verzichtserklärung auf die Klage gegen die Wirksamkeit des Verschmelzungsbeschlusses verzichten.
 
@@ -1179,9 +1199,41 @@ In dem Verschmelzungsvertrag muß der Gesellschaftsvertrag, der Partnerschaftsve
 
 (2) Die Vertretungsorgane aller übertragenden Rechtsträger haben den neuen Rechtsträger bei dem Gericht, in dessen Bezirk er seinen Sitz haben soll, zur Eintragung in das Register anzumelden.
 
-# § 39 – Ausschluß der Verschmelzung
+# § 39 – Ausschluss der Verschmelzung
 
-Eine aufgelöste Personenhandelsgesellschaft kann sich nicht als übertragender Rechtsträger an einer Verschmelzung beteiligen, wenn die Gesellschafter nach § 145 des Handelsgesetzbuchs eine andere Art der Auseinandersetzung als die Abwicklung oder als die Verschmelzung vereinbart haben.
+Eine aufgelöste Gesellschaft bürgerlichen Rechts kann sich nicht als übertragender Rechtsträger an einer Verschmelzung beteiligen, wenn die Gesellschafter eine andere Art der Auseinandersetzung als die Abwicklung durch Liquidation oder als die Verschmelzung vereinbart haben.
+
+# § 39a – Verschmelzungsbericht
+
+Ein Verschmelzungsbericht ist für eine an der Verschmelzung beteiligte Gesellschaft bürgerlichen Rechts nicht erforderlich, wenn alle Gesellschafter dieser Gesellschaft zur Geschäftsführung berechtigt sind.
+
+# § 39b – Unterrichtung der Gesellschafter
+
+Der Verschmelzungsvertrag oder sein Entwurf und der Verschmelzungsbericht sind den Gesellschaftern, die von der Befugnis zur Geschäftsführung ausgeschlossen sind, spätestens zusammen mit der Einberufung der Gesellschafterversammlung, die gemäß § 13 Absatz 1 über die Zustimmung zum Verschmelzungsvertrag beschließen soll, zu übersenden.
+
+# § 39c – Beschluss der Gesellschafterversammlung
+
+(1) Der Verschmelzungsbeschluss der Gesellschafterversammlung bedarf der Zustimmung aller anwesenden Gesellschafter; ihm müssen auch die nicht erschienenen Gesellschafter zustimmen.
+
+(2) Der Gesellschaftsvertrag kann eine Mehrheitsentscheidung der Gesellschafter vorsehen. Die Mehrheit muss mindestens drei Viertel der abgegebenen Stimmen betragen.
+
+# § 39d – Widerspruch gegen den Beschluss der Gesellschafterversammlung
+
+Widerspricht ein Gesellschafter einer übernehmenden Gesellschaft bürgerlichen Rechts der Verschmelzung, hat sie zu unterbleiben. Das Gleiche gilt, wenn der Anteilsinhaber eines übertragenden Rechtsträgers der Verschmelzung auf eine Gesellschaft bürgerlichen Rechts widerspricht.
+
+# § 39e – Prüfung der Verschmelzung
+
+Im Fall des § 39c Absatz 2 ist der Verschmelzungsvertrag oder sein Entwurf für eine Gesellschaft bürgerlichen Rechts nach den §§ 9 bis 12 zu prüfen, wenn dies einer ihrer Gesellschafter innerhalb einer Frist von einer Woche verlangt, nachdem er die in § 39b genannten Unterlagen erhalten hat. Die Kosten der Prüfung trägt die Gesellschaft.
+
+# § 39f – Zeitliche Begrenzung der Haftung persönlich haftender Gesellschafter
+
+(1) Überträgt eine Gesellschaft bürgerlichen Rechts ihr Vermögen durch Verschmelzung auf einen Rechtsträger anderer Rechtsform, dessen Anteilsinhaber für die Verbindlichkeiten dieses Rechtsträgers nicht unbeschränkt haften, haftet ein Gesellschafter der Gesellschaft bürgerlichen Rechts für deren Verbindlichkeiten, wenn sie vor Ablauf von fünf Jahren nach der Verschmelzung fällig und daraus Ansprüche gegen ihn in einer in § 197 Absatz 1 Nummer 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts.
+
+(2) Die Frist beginnt mit dem Tag, an dem die Eintragung der Verschmelzung in das Register des Sitzes des übernehmenden Rechtsträgers nach § 19 Absatz 3 bekannt gemacht worden ist. Die §§ 204, 206, 210, 211 und 212 Absatz 2 und 3 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
+
+(3) Einer Feststellung in einer in § 197 Absatz 1 Nummer 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art bedarf es nicht, soweit der Gesellschafter den Anspruch schriftlich anerkannt hat.
+
+(4) Die Absätze 1 bis 3 sind auch anzuwenden, wenn der Gesellschafter in dem Rechtsträger anderer Rechtsform geschäftsführend tätig wird.
 
 # § 40 – Inhalt des Verschmelzungsvertrags
 
@@ -1189,33 +1241,19 @@ Eine aufgelöste Personenhandelsgesellschaft kann sich nicht als übertragender 
 
 (2) Anteilsinhabern eines übertragenden Rechtsträgers, die für dessen Verbindlichkeiten nicht als Gesamtschuldner persönlich unbeschränkt haften, ist die Stellung eines Kommanditisten zu gewähren. Abweichende Bestimmungen sind nur wirksam, wenn die betroffenen Anteilsinhaber dem Verschmelzungsbeschluß des übertragenden Rechtsträgers zustimmen.
 
-# § 41 – Verschmelzungsbericht
+# § 41 – Widerspruch gegen den Beschluss der Gesellschafterversammlung
 
-Ein Verschmelzungsbericht ist für eine an der Verschmelzung beteiligte Personenhandelsgesellschaft nicht erforderlich, wenn alle Gesellschafter dieser Gesellschaft zur Geschäftsführung berechtigt sind.
+Widerspricht ein Anteilsinhaber eines übertragenden Rechtsträgers, der für dessen Verbindlichkeiten persönlich unbeschränkt haftet, der Verschmelzung, ist ihm in der übernehmenden oder der neuen Personenhandelsgesellschaft die Stellung eines Kommanditisten zu gewähren; das Gleiche gilt für einen Anteilsinhaber der übernehmenden Personenhandelsgesellschaft, der für deren Verbindlichkeiten persönlich unbeschränkt haftet, wenn er der Verschmelzung widerspricht.
 
-# § 42 – Unterrichtung der Gesellschafter
+# § 42 – Entsprechend anzuwendende Vorschriften
 
-Der Verschmelzungsvertrag oder sein Entwurf und der Verschmelzungsbericht sind den Gesellschaftern, die von der Geschäftsführung ausgeschlossen sind, spätestens zusammen mit der Einberufung der Gesellschafterversammlung, die gemäß § 13 Abs. 1 über die Zustimmung zum Verschmelzungsvertrag beschließen soll, zu übersenden.
+Die §§ 39, 39a, 39b, 39c, 39e und 39f sind entsprechend anzuwenden.
 
-# § 43 – Beschluß der Gesellschafterversammlung
+# § 43 – (weggefallen)
 
-(1) Der Verschmelzungsbeschluß der Gesellschafterversammlung bedarf der Zustimmung aller anwesenden Gesellschafter; ihm müssen auch die nicht erschienenen Gesellschafter zustimmen.
+# § 44 – (weggefallen)
 
-(2) Der Gesellschaftsvertrag kann eine Mehrheitsentscheidung der Gesellschafter vorsehen. Die Mehrheit muß mindestens drei Viertel der abgegebenen Stimmen betragen. Widerspricht ein Anteilsinhaber eines übertragenden Rechtsträgers, der für dessen Verbindlichkeiten persönlich unbeschränkt haftet, der Verschmelzung, so ist ihm in der übernehmenden oder der neuen Personenhandelsgesellschaft die Stellung eines Kommanditisten zu gewähren; das gleiche gilt für einen Anteilsinhaber der übernehmenden Personenhandelsgesellschaft, der für deren Verbindlichkeiten persönlich unbeschränkt haftet, wenn er der Verschmelzung widerspricht.
-
-# § 44 – Prüfung der Verschmelzung
-
-Im Fall des § 43 Abs. 2 ist der Verschmelzungsvertrag oder sein Entwurf für eine Personenhandelsgesellschaft nach den §§ 9 bis 12 zu prüfen, wenn dies einer ihrer Gesellschafter innerhalb einer Frist von einer Woche verlangt, nachdem er die in § 42 genannten Unterlagen erhalten hat. Die Kosten der Prüfung trägt die Gesellschaft.
-
-# § 45 – Zeitliche Begrenzung der Haftung persönlich haftender Gesellschafter
-
-(1) Überträgt eine Personenhandelsgesellschaft ihr Vermögen durch Verschmelzung auf einen Rechtsträger anderer Rechtsform, dessen Anteilsinhaber für die Verbindlichkeiten dieses Rechtsträgers nicht unbeschränkt haften, so haftet ein Gesellschafter der Personenhandelsgesellschaft für ihre Verbindlichkeiten, wenn sie vor Ablauf von fünf Jahren nach der Verschmelzung fällig und daraus Ansprüche gegen ihn in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts.
-
-(2) Die Frist beginnt mit dem Tage, an dem die Eintragung der Verschmelzung in das Register des Sitzes des übernehmenden Rechtsträgers nach § 19 Abs. 3 bekannt gemacht worden ist. Die für die Verjährung geltenden §§ 204, 206, 210, 211 und 212 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
-
-(3) Einer Feststellung in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art bedarf es nicht, soweit der Gesellschafter den Anspruch schriftlich anerkannt hat.
-
-(4) Die Absätze 1 bis 3 sind auch anzuwenden, wenn der Gesellschafter in dem Rechtsträger anderer Rechtsform geschäftsführend tätig wird.
+# § 45 – (weggefallen)
 
 # § 45a – Möglichkeit der Verschmelzung
 
@@ -1229,7 +1267,7 @@ Eine Verschmelzung auf eine Partnerschaftsgesellschaft ist nur möglich, wenn im
 
 # § 45c – Verschmelzungsbericht und Unterrichtung der Partner
 
-Ein Verschmelzungsbericht ist für eine an der Verschmelzung beteiligte Partnerschaftsgesellschaft nur erforderlich, wenn ein Partner gemäß § 6 Abs. 2 des Partnerschaftsgesellschaftsgesetzes von der Geschäftsführung ausgeschlossen ist. Von der Geschäftsführung ausgeschlossene Partner sind entsprechend § 42 zu unterrichten.
+Ein Verschmelzungsbericht ist für eine an der Verschmelzung beteiligte Partnerschaftsgesellschaft nur erforderlich, wenn ein Partner gemäß § 6 Abs. 2 des Partnerschaftsgesellschaftsgesetzes von der Geschäftsführung ausgeschlossen ist. Von der Geschäftsführung ausgeschlossene Partner sind entsprechend § 39b zu unterrichten.
 
 # § 45d – Beschluß der Gesellschafterversammlung
 
@@ -1239,7 +1277,7 @@ Ein Verschmelzungsbericht ist für eine an der Verschmelzung beteiligte Partners
 
 # § 45e – Anzuwendende Vorschriften
 
-Die §§ 39 und 45 sind entsprechend anzuwenden. In den Fällen des § 45d Abs. 2 ist auch § 44 entsprechend anzuwenden.
+Die §§ 39 und 39f sind entsprechend anzuwenden. In den Fällen des § 45d Abs. 2 ist auch § 39e entsprechend anzuwenden.
 
 # § 46 – Inhalt des Verschmelzungsvertrags
 
@@ -1273,13 +1311,13 @@ Der Verschmelzungsvertrag oder sein Entwurf ist für eine Gesellschaft mit besch
 
 # § 51 – Zustimmungserfordernisse in Sonderfällen
 
-(1) Ist an der Verschmelzung eine Gesellschaft mit beschränkter Haftung, auf deren Geschäftsanteile nicht alle zu leistenden Einlagen in voller Höhe bewirkt sind, als übernehmender Rechtsträger beteiligt, so bedarf der Verschmelzungsbeschluß eines übertragenden Rechtsträgers der Zustimmung aller bei der Beschlußfassung anwesenden Anteilsinhaber dieses Rechtsträgers. Ist der übertragende Rechtsträger eine Personenhandelsgesellschaft, eine Partnerschaftsgesellschaft oder eine Gesellschaft mit beschränkter Haftung, so bedarf der Verschmelzungsbeschluß auch der Zustimmung der nicht erschienenen Gesellschafter. Wird eine Gesellschaft mit beschränkter Haftung, auf deren Geschäftsanteile nicht alle zu leistenden Einlagen in voller Höhe bewirkt sind, von einer Gesellschaft mit beschränkter Haftung durch Verschmelzung aufgenommen, bedarf der Verschmelzungsbeschluss der Zustimmung aller Gesellschafter der übernehmenden Gesellschaft.
+(1) Ist an der Verschmelzung eine Gesellschaft mit beschränkter Haftung, auf deren Geschäftsanteile nicht alle zu leistenden Einlagen in voller Höhe bewirkt sind, als übernehmender Rechtsträger beteiligt, so bedarf der Verschmelzungsbeschluß eines übertragenden Rechtsträgers der Zustimmung aller bei der Beschlußfassung anwesenden Anteilsinhaber dieses Rechtsträgers. Ist der übertragende Rechtsträger eine rechtsfähige Personengesellschaft oder eine Gesellschaft mit beschränkter Haftung, so bedarf der Verschmelzungsbeschluß auch der Zustimmung der nicht erschienenen Gesellschafter. Wird eine Gesellschaft mit beschränkter Haftung, auf deren Geschäftsanteile nicht alle zu leistenden Einlagen in voller Höhe bewirkt sind, von einer Gesellschaft mit beschränkter Haftung durch Verschmelzung aufgenommen, bedarf der Verschmelzungsbeschluss der Zustimmung aller Gesellschafter der übernehmenden Gesellschaft.
 
 (2) Wird der Nennbetrag der Geschäftsanteile nach § 46 Abs. 1 Satz 2 abweichend vom Betrag der Aktien festgesetzt, so muss der Festsetzung jeder Aktionär zustimmen, der sich nicht mit seinem gesamten Anteil beteiligen kann.
 
 # § 52 – Anmeldung der Verschmelzung
 
-Bei der Anmeldung der Verschmelzung zur Eintragung in das Register haben die Vertretungsorgane der an der Verschmelzung beteiligten Rechtsträger im Falle des § 51 Abs. 1 auch zu erklären, daß dem Verschmelzungsbeschluß jedes der übertragenden Rechtsträger alle bei der Beschlußfassung anwesenden Anteilsinhaber dieses Rechtsträgers und, sofern der übertragende Rechtsträger eine Personenhandelsgesellschaft, eine Partnerschaftsgesellschaft oder eine Gesellschaft mit beschränkter Haftung ist, auch die nicht erschienenen Gesellschafter dieser Gesellschaft zugestimmt haben. Wird eine Gesellschaft mit beschränkter Haftung, auf deren Geschäftsanteile nicht alle zu leistenden Einlagen in voller Höhe bewirkt sind, von einer Gesellschaft mit beschränkter Haftung durch Verschmelzung aufgenommen, so ist auch zu erklären, dass alle Gesellschafter dieser Gesellschaft dem Verschmelzungsbeschluss zugestimmt haben.
+Bei der Anmeldung der Verschmelzung zur Eintragung in das Register haben die Vertretungsorgane der an der Verschmelzung beteiligten Rechtsträger im Falle des § 51 Abs. 1 auch zu erklären, daß dem Verschmelzungsbeschluß jedes der übertragenden Rechtsträger alle bei der Beschlußfassung anwesenden Anteilsinhaber dieses Rechtsträgers und, sofern der übertragende Rechtsträger eine rechtsfähige Personengesellschaft oder eine Gesellschaft mit beschränkter Haftung ist, auch die nicht erschienenen Gesellschafter dieser Gesellschaft zugestimmt haben. Wird eine Gesellschaft mit beschränkter Haftung, auf deren Geschäftsanteile nicht alle zu leistenden Einlagen in voller Höhe bewirkt sind, von einer Gesellschaft mit beschränkter Haftung durch Verschmelzung aufgenommen, so ist auch zu erklären, dass alle Gesellschafter dieser Gesellschaft dem Verschmelzungsbeschluss zugestimmt haben.
 
 # § 53 – Eintragung bei Erhöhung des Stammkapitals
 
@@ -1423,7 +1461,7 @@ Die übernehmende Gesellschaft darf von der Gewährung von Aktien absehen, wenn 
 
 # § 69 – Verschmelzung mit Kapitalerhöhung
 
-(1) Erhöht die übernehmende Gesellschaft zur Durchführung der Verschmelzung ihr Grundkapital, so sind § 182 Abs. 4, § 184 Abs. 1 Satz 2, §§ 185, 186, 187 Abs. 1, § 188 Abs. 2 und 3 Nr. 1 des Aktiengesetzes nicht anzuwenden; eine Prüfung der Sacheinlage nach § 183 Abs. 3 des Aktiengesetzes findet nur statt, soweit übertragende Rechtsträger die Rechtsform einer Personenhandelsgesellschaft, einer Partnerschaftsgesellschaft oder eines rechtsfähigen Vereins haben, wenn Vermögensgegenstände in der Schlußbilanz eines übertragenden Rechtsträgers höher bewertet worden sind als in dessen letzter Jahresbilanz, wenn die in einer Schlußbilanz angesetzten Werte nicht als Anschaffungskosten in den Jahresbilanzen der übernehmenden Gesellschaft angesetzt werden oder wenn das Gericht Zweifel hat, ob der Wert der Sacheinlage den geringsten Ausgabebetrag der dafür zu gewährenden Aktien erreicht. Dies gilt auch dann, wenn das Grundkapital durch Ausgabe neuer Aktien auf Grund der Ermächtigung nach § 202 des Aktiengesetzes erhöht wird. In diesem Fall ist außerdem § 203 Abs. 3 des Aktiengesetzes nicht anzuwenden. Zum Prüfer kann der Verschmelzungsprüfer bestellt werden.
+(1) Erhöht die übernehmende Gesellschaft zur Durchführung der Verschmelzung ihr Grundkapital, so sind § 182 Abs. 4, § 184 Abs. 1 Satz 2, §§ 185, 186, 187 Abs. 1, § 188 Abs. 2 und 3 Nr. 1 des Aktiengesetzes nicht anzuwenden; eine Prüfung der Sacheinlage nach § 183 Abs. 3 des Aktiengesetzes findet nur statt, soweit übertragende Rechtsträger die Rechtsform einer rechtsfähigen Personengesellschaft oder eines rechtsfähigen Vereins haben, wenn Vermögensgegenstände in der Schlußbilanz eines übertragenden Rechtsträgers höher bewertet worden sind als in dessen letzter Jahresbilanz, wenn die in einer Schlußbilanz angesetzten Werte nicht als Anschaffungskosten in den Jahresbilanzen der übernehmenden Gesellschaft angesetzt werden oder wenn das Gericht Zweifel hat, ob der Wert der Sacheinlage den geringsten Ausgabebetrag der dafür zu gewährenden Aktien erreicht. Dies gilt auch dann, wenn das Grundkapital durch Ausgabe neuer Aktien auf Grund der Ermächtigung nach § 202 des Aktiengesetzes erhöht wird. In diesem Fall ist außerdem § 203 Abs. 3 des Aktiengesetzes nicht anzuwenden. Zum Prüfer kann der Verschmelzungsprüfer bestellt werden.
 
 (2) Der Anmeldung der Kapitalerhöhung zum Register sind außer den in § 188 Abs. 3 Nr. 2 und 3 des Aktiengesetzes bezeichneten Schriftstücken der Verschmelzungsvertrag und die Niederschriften der Verschmelzungsbeschlüsse in Ausfertigung oder öffentlich beglaubigter Abschrift beizufügen.
 
@@ -2067,7 +2105,7 @@ Durch den Übergang der Verbindlichkeiten auf übernehmende oder neue Gesellscha
 
 # § 157 – Zeitliche Begrenzung der Haftung für übertragene Verbindlichkeiten
 
-(1) Der Einzelkaufmann haftet für die im Ausgliederungs- und Übernahmevertrag aufgeführten Verbindlichkeiten, wenn sie vor Ablauf von fünf Jahren nach der Ausgliederung fällig und daraus Ansprüche gegen ihn in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts. Eine Haftung des Einzelkaufmanns als Gesellschafter des aufnehmenden Rechtsträgers nach § 128 des Handelsgesetzbuchs bleibt unberührt.
+(1) Der Einzelkaufmann haftet für die im Ausgliederungs- und Übernahmevertrag aufgeführten Verbindlichkeiten, wenn sie vor Ablauf von fünf Jahren nach der Ausgliederung fällig und daraus Ansprüche gegen ihn in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts. Eine Haftung des Einzelkaufmanns als Gesellschafter des aufnehmenden Rechtsträgers nach § 126 des Handelsgesetzbuchs bleibt unberührt.
 
 (2) Die Frist beginnt mit dem Tage, an dem die Eintragung der Ausgliederung in das Register des Sitzes des Einzelkaufmanns nach § 125 in Verbindung mit § 19 Abs. 3 bekannt gemacht worden ist. Die für die Verjährung geltenden §§ 204, 206, 210, 211 und 212 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
 
@@ -2291,7 +2329,7 @@ Sobald die Vermögensübertragung von allen beteiligten Aufsichtsbehörden geneh
 
 (1) Formwechselnde Rechtsträger können sein:
 
-1. Personenhandelsgesellschaften (§ 3 Abs. 1 Nr. 1) und Partnerschaftsgesellschaften;
+1. eingetragene Gesellschaften bürgerlichen Rechts, Personenhandelsgesellschaften (offene Handelsgesellschaft, Kommanditgesellschaft) und Partnerschaftsgesellschaften;
 
 2. Kapitalgesellschaften (§ 3 Abs. 1 Nr. 2);
 
@@ -2305,13 +2343,11 @@ Sobald die Vermögensübertragung von allen beteiligten Aufsichtsbehörden geneh
 
 (2) Rechtsträger neuer Rechtsform können sein:
 
-1. Gesellschaften des bürgerlichen Rechts;
+1. eingetragene Gesellschaften bürgerlichen Rechts, Personenhandelsgesellschaften (offene Handelsgesellschaft, Kommanditgesellschaft) und Partnerschaftsgesellschaften;
 
-2. Personenhandelsgesellschaften und Partnerschaftsgesellschaften;
+2. Kapitalgesellschaften;
 
-3. Kapitalgesellschaften;
-
-4. eingetragene Genossenschaften.
+3. eingetragene Genossenschaften.
 
 (3) Der Formwechsel ist auch bei aufgelösten Rechtsträgern möglich, wenn ihre Fortsetzung in der bisherigen Rechtsform beschlossen werden könnte.
 
@@ -2455,9 +2491,9 @@ Auf unbekannte Aktionäre ist § 35 entsprechend anzuwenden.
 
 # § 214 – Möglichkeit des Formwechsels
 
-(1) Eine Personenhandelsgesellschaft kann auf Grund eines Formwechselbeschlusses nach diesem Gesetz nur die Rechtsform einer Kapitalgesellschaft oder einer eingetragenen Genossenschaft erlangen.
+(1) Eine Gesellschaft bürgerlichen Rechts oder eine Personenhandelsgesellschaft kann aufgrund eines Formwechselbeschlusses nach diesem Gesetz nur die Rechtsform einer Kapitalgesellschaft oder einer eingetragenen Genossenschaft erlangen.
 
-(2) Eine aufgelöste Personenhandelsgesellschaft kann die Rechtsform nicht wechseln, wenn die Gesellschafter nach § 145 des Handelsgesetzbuchs eine andere Art der Auseinandersetzung als die Abwicklung oder als den Formwechsel vereinbart haben.
+(2) Eine aufgelöste Gesellschaft bürgerlichen Rechts und eine aufgelöste Personenhandelsgesellschaft können die Rechtsform nicht wechseln, wenn die Gesellschafter eine andere Art der Auseinandersetzung als die Abwicklung durch Liquidation oder als den Formwechsel vereinbart haben.
 
 # § 215 – Formwechselbericht
 
@@ -2513,7 +2549,7 @@ Der Anmeldung der neuen Rechtsform oder des Rechtsträgers neuer Rechtsform sind
 
 # § 224 – Fortdauer und zeitliche Begrenzung der persönlichen Haftung
 
-(1) Der Formwechsel berührt nicht die Ansprüche der Gläubiger der Gesellschaft gegen einen ihrer Gesellschafter aus Verbindlichkeiten der formwechselnden Gesellschaft, für die dieser im Zeitpunkt des Formwechsels nach § 128 des Handelsgesetzbuchs persönlich haftet.
+(1) Der Formwechsel berührt nicht die Ansprüche der Gläubiger der Gesellschaft gegen einen ihrer Gesellschafter aus Verbindlichkeiten der formwechselnden Gesellschaft, für die dieser im Zeitpunkt des Formwechsels nach § 721 des Bürgerlichen Gesetzbuchs oder nach § 126 des Handelsgesetzbuchs persönlich haftet.
 
 (2) Der Gesellschafter haftet für diese Verbindlichkeiten, wenn sie vor Ablauf von fünf Jahren nach dem Formwechsel fällig und daraus Ansprüche gegen ihn in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts.
 
@@ -2549,9 +2585,11 @@ Die §§ 207 bis 212 sind beim Formwechsel einer Kommanditgesellschaft auf Aktie
 
 # § 228 – Möglichkeit des Formwechsels
 
-(1) Durch den Formwechsel kann eine Kapitalgesellschaft die Rechtsform einer Personenhandelsgesellschaft nur erlangen, wenn der Unternehmensgegenstand im Zeitpunkt des Wirksamwerdens des Formwechsels den Vorschriften über die Gründung einer offenen Handelsgesellschaft (§ 105 Abs. 1 und 2 des Handelsgesetzbuchs) genügt.
+(1) Durch den Formwechsel kann eine Kapitalgesellschaft die Rechtsform einer Personenhandelsgesellschaft nur erlangen, wenn der Unternehmensgegenstand im Zeitpunkt des Wirksamwerdens des Formwechsels den Vorschriften über die Gründung einer offenen Handelsgesellschaft (§ 105 Absatz 1 und § 107 Absatz 1 des Handelsgesetzbuchs) genügt.
 
 (2) Ein Formwechsel in eine Partnerschaftsgesellschaft ist nur möglich, wenn im Zeitpunkt seines Wirksamwerdens alle Anteilsinhaber des formwechselnden Rechtsträgers natürliche Personen sind, die einen Freien Beruf ausüben (§ 1 Abs. 1 und 2 des Partnerschaftsgesellschaftsgesetzes). § 1 Abs. 3 des Partnerschaftsgesellschaftsgesetzes bleibt unberührt.
+
+(3) Ein Formwechsel in eine Gesellschaft bürgerlichen Rechts ist nur möglich, wenn die Gesellschaft kein Handelsgewerbe gemäß § 1 Absatz 2 des Handelsgesetzbuchs betreibt.
 
 # § 229 – (weggefallen)
 
@@ -2589,13 +2627,11 @@ In dem Formwechselbeschluss müssen auch enthalten sein:
 
 2. beim Formwechsel in eine Kommanditgesellschaft die Angabe der Kommanditisten sowie des Betrages der Einlage eines jeden von ihnen;
 
-3. der Gesellschaftsvertrag der Personengesellschaft. Beim Formwechsel in eine Partnerschaftsgesellschaft ist § 213 auf den Partnerschaftsvertrag nicht anzuwenden.
+3. der Gesellschaftsvertrag der Personengesellschaft.
 
 # § 235 – Anmeldung des Formwechsels
 
-(1) Beim Formwechsel in eine Gesellschaft des bürgerlichen Rechts ist statt der neuen Rechtsform die Umwandlung der Gesellschaft zur Eintragung in das Register, in dem die formwechselnde Gesellschaft eingetragen ist, anzumelden. § 198 Abs. 2 ist nicht anzuwenden.
-
-(2) Die Anmeldung nach Absatz 1 oder nach § 198 ist durch das Vertretungsorgan der formwechselnden Gesellschaft vorzunehmen.
+Die Anmeldung nach § 198 ist durch das Vertretungsorgan der formwechselnden Gesellschaft vorzunehmen.
 
 # § 236 – Wirkungen des Formwechsels
 
@@ -3031,7 +3067,7 @@ Der Formwechsel wird mit der Eintragung der Kapitalgesellschaft in das Handelsre
 
 (1) Eine grenzüberschreitende Verschmelzung ist eine Verschmelzung, bei der mindestens eine der beteiligten Gesellschaften dem Recht eines anderen Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum unterliegt.
 
-(2) Auf die Beteiligung einer Kapitalgesellschaft (§ 3 Absatz 1 Nummer 2) an einer grenzüberschreitenden Verschmelzung sind die Vorschriften des Ersten Teils und des Zweiten, Dritten und Vierten Abschnitts des Zweiten Teils des Zweiten Buches entsprechend anzuwenden, soweit sich aus diesem Teil nichts anderes ergibt. Auf die Beteiligung einer Personenhandelsgesellschaft (§ 3 Absatz 1 Nummer 1) an einer grenzüberschreitenden Verschmelzung sind die Vorschriften des Ersten Teils und des Ersten Unterabschnitts des Ersten Abschnitts des Zweiten Teils des Zweiten Buches entsprechend anzuwenden, soweit sich aus diesem Teil nichts anderes ergibt.
+(2) Auf die Beteiligung einer Kapitalgesellschaft (§ 3 Absatz 1 Nummer 2) an einer grenzüberschreitenden Verschmelzung sind die Vorschriften des Ersten Teils und des Zweiten, Dritten und Vierten Abschnitts des Zweiten Teils des Zweiten Buches entsprechend anzuwenden, soweit sich aus diesem Teil nichts anderes ergibt. Auf die Beteiligung einer Personenhandelsgesellschaft (§ 3 Absatz 1 Nummer 1) an einer grenzüberschreitenden Verschmelzung sind die Vorschriften des Ersten Teils und des Zweiten Unterabschnitts des Ersten Abschnitts des Zweiten Teils des Zweiten Buches entsprechend anzuwenden, soweit sich aus diesem Teil nichts anderes ergibt.
 
 # § 306 – Verschmelzungsfähige Gesellschaften
 
@@ -3171,7 +3207,7 @@ Die bekannt zu machenden Angaben sind dem Register bei Einreichung des Verschmel
 
 # § 311 – Verschmelzungsprüfung
 
-(1) Der Verschmelzungsplan oder sein Entwurf ist nach den §§ 9 bis 12 zu prüfen; die §§ 44 und 48 sind nicht anzuwenden. Der Prüfungsbericht muss den Anteilsinhabern spätestens einen Monat vor dem Tag der Versammlung der Anteilsinhaber, die nach § 13 über die Zustimmung zum Verschmelzungsplan beschließen soll, zugänglich gemacht werden.
+(1) Der Verschmelzungsplan oder sein Entwurf ist nach den §§ 9 bis 12 zu prüfen; die §§ 39e und 48 sind nicht anzuwenden. Der Prüfungsbericht muss den Anteilsinhabern spätestens einen Monat vor dem Tag der Versammlung der Anteilsinhaber, die nach § 13 über die Zustimmung zum Verschmelzungsplan beschließen soll, zugänglich gemacht werden.
 
 (2) § 9 Absatz 2 und § 12 Absatz 3, jeweils in Verbindung mit § 8 Absatz 3, gelten mit der Maßgabe, dass ein Verzicht aller Anteilsinhaber aller beteiligten Rechtsträger erforderlich ist. Verschmelzungsprüfung und Prüfungsbericht sind ferner nicht erforderlich in den Fällen des § 307 Absatz 3 Nummer 2 Buchstabe b und c.
 

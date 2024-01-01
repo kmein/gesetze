@@ -581,7 +581,7 @@ In den Vor- und Nachkalkulationen dürfen Löhne, Gehälter und andere Personalk
 
 (1) In Vor- und Nachkalkulationen sind die tariflichen oder, soweit sie angemessen sind, die mit dem Arbeitnehmer vereinbarten Löhne und Gehälter einzusetzen.
 
-(2) Bei Einzelkaufleuten und Personengesellschaften kann als Entgelt für die Arbeit der ohne feste Entlohnung tätigen Unternehmer ein kalkulatorischer Unternehmerlohn in der Kostenrechnung berücksichtigt werden. Auch für die ohne feste Entlohnung mitarbeitenden Angehörigen der Unternehmer kann ein ihrer Tätigkeit entsprechendes Entgelt kalkulatorisch verrechnet werden.
+(2) Bei Einzelkaufleuten und rechtsfähigen Personengesellschaften kann als Entgelt für die Arbeit der ohne feste Entlohnung tätigen Unternehmer ein kalkulatorischer Unternehmerlohn in der Kostenrechnung berücksichtigt werden. Auch für die ohne feste Entlohnung mitarbeitenden Angehörigen der Unternehmer kann ein ihrer Tätigkeit entsprechendes Entgelt kalkulatorisch verrechnet werden.
 
 (3) Der kalkulatorische Unternehmerlohn ist unabhängig von den tatsächlichen Entnahmen des Unternehmers in der Höhe des durchschnittlichen Gehalts eines Angestellten mit gleichwertiger Tätigkeit in einem Unternehmen gleichen Standorts, gleichen Geschäftszweigs und gleicher Bedeutung oder mit Hilfe eines anderen objektiven Leistungsmaßstabs zu bemessen. Die Größe des Betriebs, der Umsatz und die Zahl der in ihm tätigen Unternehmer sind zu berücksichtigen.
 

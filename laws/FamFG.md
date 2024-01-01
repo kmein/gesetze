@@ -3783,17 +3783,19 @@ Registersachen sind
 
 1. Handelsregistersachen,
 
-2. Genossenschaftsregistersachen,
+2. Gesellschaftsregistersachen,
 
-3. Partnerschaftsregistersachen,
+3. Genossenschaftsregistersachen,
 
-4. Vereinsregistersachen.
+4. Partnerschaftsregistersachen,
+
+5. Vereinsregistersachen.
 
 # § 375 – Unternehmensrechtliche Verfahren
 
 Unternehmensrechtliche Verfahren sind die nach
 
-1. § 146 Abs. 2, den §§ 147, 157 Abs. 2, § 166 Abs. 3, § 233 Abs. 3 und § 318 Abs. 3 bis 5 des Handelsgesetzbuchs,
+1. § 145 Absatz 1 und 3, § 152 Absatz 1 und § 318 Absatz 3 bis 5 des Handelsgesetzbuchs,
 
 2. § 11 des Binnenschifffahrtsgesetzes, nach den Vorschriften dieses Gesetzes, die die Dispache betreffen, sowie nach § 595 Absatz 2 des Handelsgesetzbuchs, auch in Verbindung mit § 78 des Binnenschifffahrtsgesetzes,
 
@@ -3825,17 +3827,19 @@ Unternehmensrechtliche Verfahren sind die nach
 
 14. § 6 Abs. 4 Satz 4 bis 7 des Börsengesetzes,
 
-15. § 10 des Partnerschaftsgesellschaftsgesetzes in Verbindung mit § 146 Abs. 2 und den §§ 147 und 157 Abs. 2 des Handelsgesetzbuchs,
+15. § 10 des Partnerschaftsgesellschaftsgesetzes in Verbindung mit § 145 Absatz 1 und § 152 Absatz 1 des Handelsgesetzbuchs,
 
-16. § 9 Absatz 2 und 3 Satz 2 und § 18 Absatz 2 Satz 2 und 3 des Schuldverschreibungsgesetzes
+16. § 9 Absatz 2 und 3 Satz 2 und § 18 Absatz 2 Satz 2 und 3 des Schuldverschreibungsgesetzes,
+
+17. § 736a Absatz 1 und 3 des Bürgerlichen Gesetzbuchs
 
 vom Gericht zu erledigenden Angelegenheiten.
 
-# § 376 – Besondere Zuständigkeitsregelungen
+# § 376 – Besondere Zuständigkeitsregelungen; Verordnungsermächtigung
 
-(1) Für Verfahren nach § 374 Nr. 1 und 2 sowie § 375 Nummer 1, 3 bis 14 und 16 ist das Gericht, in dessen Bezirk ein Landgericht seinen Sitz hat, für den Bezirk dieses Landgerichts zuständig.
+(1) Für Verfahren nach § 374 Nummer 1 bis 3 sowie § 375 Nummer 1, 3 bis 14 sowie 16 und 17 ist das Gericht, in dessen Bezirk ein Landgericht seinen Sitz hat, für den Bezirk dieses Landgerichts zuständig.
 
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Aufgaben nach § 374 Nummer 1 bis 4 sowie § 375 Nummer 1, 3 bis 14, 16 und 17 anderen oder zusätzlichen Amtsgerichten zu übertragen und die Bezirke der Gerichte abweichend von Absatz 1 festzulegen. Sie können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Mehrere Länder können die Zuständigkeit eines Gerichts für Verfahren nach § 374 Nr. 1 bis 3 über die Landesgrenzen hinaus vereinbaren.
+(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Aufgaben nach § 374 Nummer 1 bis 4 sowie § 375 Nummer 1, 3 bis 14, 16 und 17 anderen oder zusätzlichen Amtsgerichten zu übertragen und die Bezirke der Gerichte abweichend von Absatz 1 festzulegen. Sie können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Mehrere Länder können die Zuständigkeit eines Gerichts für Verfahren nach § 374 Nummer 1 bis 4 über die Landesgrenzen hinaus vereinbaren.
 
 # § 377 – Örtliche Zuständigkeit
 
@@ -3851,19 +3855,19 @@ vom Gericht zu erledigenden Angelegenheiten.
 
 (2) Ist die zu einer Eintragung erforderliche Erklärung von einem Notar beurkundet oder beglaubigt, gilt dieser als ermächtigt, im Namen des zur Anmeldung Berechtigten die Eintragung zu beantragen.
 
-(3) Anmeldungen in Registersachen mit Ausnahme der Genossenschafts- und Partnerschaftsregistersachen sind vor ihrer Einreichung für das Registergericht von einem Notar auf Eintragungsfähigkeit zu prüfen. In Handelsregistersachen sind sie zudem bei einem Notar zur Weiterleitung an die für die Eintragung zuständige Stelle einzureichen.
+(3) Anmeldungen in Registersachen mit Ausnahme der Genossenschafts- und Partnerschaftsregistersachen sind vor ihrer Einreichung für das Registergericht von einem Notar auf Eintragungsfähigkeit zu prüfen. In Handels- und Gesellschaftsregistersachen sind sie zudem bei einem Notar zur Weiterleitung an die für die Eintragung zuständige Stelle einzureichen.
 
 (4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass Notare neben den elektronischen Anmeldungen bestimmte darin enthaltene Angaben in strukturierter maschinenlesbarer Form zu übermitteln haben, soweit nicht durch das Bundesministerium der Justiz und für Verbraucherschutz nach § 387 Absatz 2 entsprechende Vorschriften erlassen werden. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 # § 379 – Mitteilungspflichten der Behörden
 
-(1) Die Gerichte, die Staatsanwaltschaften, die Polizei- und Gemeindebehörden sowie die Notare haben die ihnen amtlich zur Kenntnis gelangenden Fälle einer unrichtigen, unvollständigen oder unterlassenen Anmeldung zum Handels-, Genossenschafts-, Vereins- oder Partnerschaftsregister dem Registergericht mitzuteilen.
+(1) Die Gerichte, die Staatsanwaltschaften, die Polizei- und Gemeindebehörden sowie die Notare haben die ihnen amtlich zur Kenntnis gelangenden Fälle einer unrichtigen, unvollständigen oder unterlassenen Anmeldung zum Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister dem Registergericht mitzuteilen.
 
-(2) Die Finanzbehörden haben den Registergerichten Auskunft über die steuerlichen Verhältnisse von Kaufleuten oder Unternehmen, insbesondere auf dem Gebiet der Gewerbe- und Umsatzsteuer, zu erteilen, soweit diese Auskunft zur Verhütung unrichtiger Eintragungen im Handels- oder Partnerschaftsregister sowie zur Berichtigung, Vervollständigung oder Löschung von Eintragungen im Register benötigt wird. Die Auskünfte unterliegen nicht der Akteneinsicht (§ 13).
+(2) Die Finanzbehörden haben den Registergerichten Auskunft über die steuerlichen Verhältnisse von Kaufleuten oder Unternehmen, insbesondere auf dem Gebiet der Gewerbe- und Umsatzsteuer, zu erteilen, soweit diese Auskunft zur Verhütung unrichtiger Eintragungen im Handels-, Gesellschafts- oder Partnerschaftsregister sowie zur Berichtigung, Vervollständigung oder Löschung von Eintragungen im Register benötigt wird. Die Auskünfte unterliegen nicht der Akteneinsicht (§ 13).
 
 # § 380 – Beteiligung der berufsständischen Organe; Beschwerderecht
 
-(1) Die Registergerichte werden bei der Vermeidung unrichtiger Eintragungen, der Berichtigung und Vervollständigung des Handels- und Partnerschaftsregisters, der Löschung von Eintragungen in diesen Registern und beim Einschreiten gegen unzulässigen Firmengebrauch oder unzulässigen Gebrauch eines Partnerschaftsnamens von
+(1) Die Registergerichte werden bei der Vermeidung unrichtiger Eintragungen, der Berichtigung und Vervollständigung des Handels-, Gesellschafts- und Partnerschaftsregisters, der Löschung von Eintragungen in diesen Registern und beim Einschreiten gegen unzulässigen Firmengebrauch oder unzulässigen Gebrauch des Namens einer Partnerschaft oder einer eingetragenen Gesellschaft bürgerlichen Rechts von
 
 1. den Organen des Handelsstandes,
 
@@ -3941,7 +3945,7 @@ Das Registergericht hat auf Verlangen eine Bescheinigung darüber zu erteilen, d
 
 # § 388 – Androhung
 
-(1) Sobald das Registergericht von einem Sachverhalt, der sein Einschreiten nach den §§ 14, 37a Abs. 4 und § 125a Abs. 2 des Handelsgesetzbuchs, auch in Verbindung mit § 5 Abs. 2 des Partnerschaftsgesellschaftsgesetzes, den §§ 407 und 408 des Aktiengesetzes, § 79 Abs. 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 350 des Umwandlungsgesetzes oder § 12 des EWIV-Ausführungsgesetzes rechtfertigt, glaubhafte Kenntnis erhält, hat es dem Beteiligten unter Androhung eines Zwangsgelds aufzugeben, innerhalb einer bestimmten Frist seiner gesetzlichen Verpflichtung nachzukommen oder die Unterlassung mittels Einspruchs zu rechtfertigen.
+(1) Sobald das Registergericht von einem Sachverhalt, der sein Einschreiten nach den §§ 14, 37a Abs. 4 und § 125a Abs. 2 des Handelsgesetzbuchs, auch in Verbindung mit § 707b Nummer 2 des Bürgerlichen Gesetzbuchs, § 5 Absatz 2 des Partnerschaftsgesellschaftsgesetzes oder § 160 Absatz 1 des Genossenschaftsgesetzes, den §§ 407 und 408 des Aktiengesetzes, § 79 Abs. 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 350 des Umwandlungsgesetzes oder § 12 des EWIV-Ausführungsgesetzes rechtfertigt, glaubhafte Kenntnis erhält, hat es dem Beteiligten unter Androhung eines Zwangsgelds aufzugeben, innerhalb einer bestimmten Frist seiner gesetzlichen Verpflichtung nachzukommen oder die Unterlassung mittels Einspruchs zu rechtfertigen.
 
 (2) In gleicher Weise kann das Registergericht gegen die Mitglieder des Vorstands eines Vereins oder dessen Liquidatoren vorgehen, um sie zur Befolgung der in § 78 des Bürgerlichen Gesetzbuchs genannten Vorschriften anzuhalten.
 
@@ -3981,7 +3985,7 @@ Das Registergericht hat auf Verlangen eine Bescheinigung darüber zu erteilen, d
 
 2. das Ordnungsgeld festgesetzt wird, falls kein Einspruch erhoben oder der erhobene Einspruch rechtskräftig verworfen ist und der Beteiligte nach der Bekanntmachung des Beschlusses diesem zuwidergehandelt hat.
 
-(2) Absatz 1 gilt entsprechend im Fall des unbefugten Gebrauchs des Namens einer Partnerschaft.
+(2) Absatz 1 gilt entsprechend im Fall des unbefugten Gebrauchs des Namens einer Partnerschaft oder einer eingetragenen Gesellschaft bürgerlichen Rechts.
 
 # § 393 – Löschung einer Firma
 
@@ -3995,7 +3999,7 @@ Das Registergericht hat auf Verlangen eine Bescheinigung darüber zu erteilen, d
 
 (5) Die Löschung darf nur erfolgen, wenn kein Widerspruch erhoben oder wenn der den Widerspruch zurückweisende Beschluss rechtskräftig geworden ist.
 
-(6) Die Absätze 1 bis 5 gelten entsprechend, wenn die Löschung des Namens einer Partnerschaft eingetragen werden soll.
+(6) Die Absätze 1 bis 5 gelten entsprechend, wenn die Löschung des Namens einer Partnerschaft oder einer eingetragenen Gesellschaft bürgerlichen Rechts eingetragen werden soll.
 
 # § 394 – Löschung vermögensloser Gesellschaften und Genossenschaften
 
@@ -4005,7 +4009,7 @@ Das Registergericht hat auf Verlangen eine Bescheinigung darüber zu erteilen, d
 
 (3) Für das weitere Verfahren gilt § 393 Abs. 3 bis 5 entsprechend.
 
-(4) Die Absätze 1 bis 3 sind entsprechend anzuwenden auf offene Handelsgesellschaften und Kommanditgesellschaften, bei denen keiner der persönlich haftenden Gesellschafter eine natürliche Person ist. Eine solche Gesellschaft kann jedoch nur gelöscht werden, wenn die für die Vermögenslosigkeit geforderten Voraussetzungen sowohl bei der Gesellschaft als auch bei den persönlich haftenden Gesellschaftern vorliegen. Die Sätze 1 und 2 gelten nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere offene Handelsgesellschaft oder Kommanditgesellschaft gehört, bei der eine natürliche Person persönlich haftender Gesellschafter ist.
+(4) Die Absätze 1 bis 3 sind entsprechend anzuwenden auf eingetragene Gesellschaften bürgerlichen Rechts, offene Handelsgesellschaften und Kommanditgesellschaften, bei denen keiner der persönlich haftenden Gesellschafter eine natürliche Person ist. Eine solche Gesellschaft kann jedoch nur gelöscht werden, wenn die für die Vermögenslosigkeit geforderten Voraussetzungen sowohl bei der Gesellschaft als auch bei den persönlich haftenden Gesellschaftern vorliegen. Die Sätze 1 und 2 gelten nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere eingetragene Gesellschaft bürgerlichen Rechts, offene Handelsgesellschaft oder Kommanditgesellschaft gehört, bei der eine natürliche Person persönlich haftender Gesellschafter ist.
 
 # § 395 – Löschung unzulässiger Eintragungen
 

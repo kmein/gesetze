@@ -117,11 +117,11 @@ und mit der wohngeldberechtigten Person den Wohnraum, für den Wohngeld beantrag
 
 6. Hilfe zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch,
 
-7. a) ergänzender Hilfe zum Lebensunterhalt oder
+7. a) Leistungen zum Lebensunterhalt oder
 
-b) anderen Hilfen in einer stationären Einrichtung, die den Lebensunterhalt umfassen,
+b) anderen Leistungen in einer stationären Einrichtung, die den Lebensunterhalt umfassen,
 
-nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das dieses für anwendbar erklärt,
+nach dem Vierzehnten Buch Sozialgesetzbuch oder nach einem Gesetz, das dieses für anwendbar erklärt,
 
 8. Leistungen in besonderen Fällen und Grundleistungen nach dem Asylbewerberleistungsgesetz oder
 
@@ -131,7 +131,7 @@ wenn bei deren Berechnung Kosten der Unterkunft berücksichtigt worden sind (Lei
 
 1. die Leistungen nach den Sätzen 1 und 2 ausschließlich als Darlehen gewährt werden oder
 
-2. durch Wohngeld die Hilfebedürftigkeit im Sinne des § 9 des Zweiten Buches Sozialgesetzbuch, des § 19 Abs. 1 und 2 des Zwölften Buches Sozialgesetzbuch oder des § 27a des Bundesversorgungsgesetzes vermieden oder beseitigt werden kann und
+2. durch Wohngeld die Hilfebedürftigkeit im Sinne des § 9 des Zweiten Buches Sozialgesetzbuch, des § 19 Abs. 1 und 2 des Zwölften Buches Sozialgesetzbuch oder des § 93 des Vierzehnten Buches Sozialgesetzbuch vermieden oder beseitigt werden kann und
 
 a) die Leistungen nach Satz 1 Nr. 1 bis 7 während der Dauer des Verwaltungsverfahrens zur Feststellung von Grund und Höhe dieser Leistungen noch nicht erbracht worden sind oder
 
@@ -145,7 +145,7 @@ b) der zuständige Träger eine der in Satz 1 Nr. 1 bis 7 genannten Leistungen a
 
 3. deren Einkommen und Vermögen nach § 27 Absatz 2 Satz 2 oder 3 des Zwölften Buches Sozialgesetzbuch bei der Ermittlung der Leistung eines anderen Haushaltsmitglieds nach Absatz 1 Satz 1 Nummer 6 berücksichtigt worden sind,
 
-4. deren Einkommen und Vermögen nach § 27a Satz 2 des Bundesversorgungsgesetzes in Verbindung mit § 27 Absatz 2 Satz 2 oder 3 des Zwölften Buches Sozialgesetzbuch bei der Ermittlung der Leistung eines anderen Haushaltsmitglieds nach Absatz 1 Satz 1 Nummer 7 berücksichtigt worden sind, oder
+4. deren Einkommen und Vermögen nach § 93 des Vierzehnten Buches Sozialgesetzbuch in Verbindung mit § 27 Absatz 2 Satz 2 oder 3 des Zwölften Buches Sozialgesetzbuch bei der Ermittlung der Leistung eines anderen Haushaltsmitglieds nach Absatz 1 Satz 1 Nummer 7 berücksichtigt worden sind, oder
 
 5. deren Einkommen und Vermögen nach § 7 Absatz 1 des Asylbewerberleistungsgesetzes bei der Ermittlung der Leistung eines anderen Haushaltsmitglieds nach Absatz 1 Satz 1 Nummer 8 berücksichtigt worden sind.
 
@@ -1032,6 +1032,18 @@ Die erste Fortschreibung der Werte für „M“ und „Y“ (Anlage 3) und des z
 (4) Der Bewilligungsbescheid nach Absatz 1 Satz 1 muss auf die besonderen Entscheidungsgrundlagen der Absätze 1 und 2 hinweisen, insbesondere darauf, dass eine Entscheidung nach den §§ 27 oder 28 Absatz 2 oder die Mitteilung über die Unwirksamkeit nach § 28 Absatz 1 oder 3 dem Bewilligungsbescheid noch folgen kann und bezogen auf den Zeitpunkt der Änderung der Verhältnisse, der auch vor dem Inkrafttreten der aktuellen Fortschreibung liegen kann, das Wohngeld wegfallen oder sich verringern kann.
 
 (5) Ist bis zum Inkrafttreten der Fortschreibung über einen Wohngeldantrag nach § 22 noch nicht entschieden, so ist für die Zeit bis zum Inkrafttreten der Fortschreibung nach dem bis dahin geltenden Recht und für die darauf folgende Zeit nach dem neuen Recht zu entscheiden. Ist über einen vor dem Inkrafttreten der Fortschreibung gestellten Wohngeldantrag nach § 22 zu entscheiden und beginnt der Bewilligungszeitraum vor dem Inkrafttreten der Fortschreibung, so ist Satz 1 entsprechend anzuwenden. § 24 Absatz 2 und § 27 bleiben unberührt.
+
+# § 45 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+(1) Personen, die
+
+a) ergänzende Hilfe zum Lebensunterhalt oder
+
+b) andere Hilfen in einer stationären Einrichtung, die den Lebensunterhalt umfassen,
+
+nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung oder nach einem Gesetz, das dieses für anwendbar erklärt, empfangen, sind vom Wohngeld ausgeschlossen, wenn bei der Berechnung ihrer Hilfen Kosten der Unterkunft berücksichtigt worden sind. § 7 Absatz 1 Satz 3 und Absatz 2 und 3 in der Fassung bis zum 31. Dezember 2023 gelten entsprechend.
+
+(2) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 7 Absatz 1 Satz 1 Nummer 7, Satz 3 Nummer 2 und Absatz 2 Satz 1 Nummer 3 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 # Anlage 1 – (zu § 12 Absatz 1)
 

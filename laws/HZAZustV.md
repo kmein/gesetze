@@ -137,19 +137,17 @@ b) aller Hauptzollämter bundesweit, wenn das Hauptzollamt Braunschweig als erst
 
 Dem Hauptzollamt Bremen werden die Zuständigkeiten übertragen für
 
-1. die Aufgaben einer Kontrolleinheit Verkehrswege des Hauptzollamts Oldenburg,
+1. die Aufgaben einer Kontrolleinheit Grenznaher Raum des Hauptzollamts Oldenburg für die Landkreise Cuxhaven, Rotenburg (Wümme) und Stade und des Hauptzollamts Osnabrück für die Gemeinde Stuhr, begrenzt von der Bundesstraße 75, der Bundesautobahn 28 und Bundesautobahn 1 bis an die Landesgrenze der Freien Hansestadt Bremen,
 
-2. die Aufgaben einer Kontrolleinheit Grenznaher Raum des Hauptzollamts Oldenburg für die Landkreise Cuxhaven, Rotenburg (Wümme) und Stade und des Hauptzollamts Osnabrück für die Gemeinde Stuhr, begrenzt von der Bundesstraße 75, der Bundesautobahn 28 und Bundesautobahn 1 bis an die Landesgrenze der Freien Hansestadt Bremen,
+2. die Aufgaben einer Kontrolleinheit Zollboot des Hauptzollamts Oldenburg für den Bereich der Unterweser, beginnend ab der Landesgrenze Bremen in Bremerhaven weserabwärts bis hin zur Wesermündung in der Nordsee,
 
-3. die Aufgaben einer Kontrolleinheit Zollboot des Hauptzollamts Oldenburg für den Bereich der Unterweser, beginnend ab der Landesgrenze Bremen in Bremerhaven weserabwärts bis hin zur Wesermündung in der Nordsee,
+3. die Zollprüfungen, die Präferenzprüfungen und die Außenprüfungen, einschließlich der Überwachungsmaßnahmen, des Hauptzollamts Oldenburg für die Landkreise Cuxhaven, Rotenburg (Wümme) und Stade,
 
-4. die Zollprüfungen, die Präferenzprüfungen und die Außenprüfungen, einschließlich der Überwachungsmaßnahmen, des Hauptzollamts Oldenburg für die Landkreise Cuxhaven, Rotenburg (Wümme) und Stade,
+4. die Marktordnungsprüfungen, einschließlich der Überwachungsmaßnahmen, der Hauptzollämter Braunschweig, Hannover, Magdeburg, Oldenburg und Osnabrück,
 
-5. die Marktordnungsprüfungen, einschließlich der Überwachungsmaßnahmen, der Hauptzollämter Braunschweig, Hannover, Magdeburg, Oldenburg und Osnabrück,
+5. die Finanzkontrolle Schwarzarbeit des Hauptzollamts Oldenburg für die Landkreise Cuxhaven, Rotenburg (Wümme) und Stade sowie
 
-6. die Finanzkontrolle Schwarzarbeit des Hauptzollamts Oldenburg für die Landkreise Cuxhaven, Rotenburg (Wümme) und Stade sowie
-
-7. die Straf- und Bußgeldsachen der Hauptzollämter Oldenburg und Osnabrück.
+6. die Straf- und Bußgeldsachen der Hauptzollämter Oldenburg und Osnabrück.
 
 # § 8 – Hauptzollamt Darmstadt
 
@@ -307,15 +305,17 @@ b) aller Hauptzollämter bundesweit, wenn das Hauptzollamt Heilbronn als erstes 
 
 3. die zollamtliche Abfertigung des Warenverkehrs des Hauptzollamts Karlsruhe für den Neckar-Odenwald-Kreis,
 
-4. die Zollprüfungen, die Präferenzprüfungen und die Außenprüfungen, einschließlich der Überwachungsmaßnahmen, des Hauptzollamts Stuttgart,
+4. die Aufgaben einer Kontrolleinheit Verkehrswege des Hauptzollamts Stuttgart,
 
-5. die Außenwirtschaftsprüfungen und die Marktordnungsprüfungen, einschließlich der Überwachungsmaßnahmen, der Hauptzollämter Stuttgart und Ulm,
+5. die Zollprüfungen, die Präferenzprüfungen und die Außenprüfungen, einschließlich der Überwachungsmaßnahmen, des Hauptzollamts Stuttgart,
 
-6. die Sonderprüfungen der Hauptzollämter Karlsruhe, Lörrach, Singen, Stuttgart und Ulm,
+6. die Außenwirtschaftsprüfungen und die Marktordnungsprüfungen, einschließlich der Überwachungsmaßnahmen, der Hauptzollämter Stuttgart und Ulm,
 
-7. den Aufgabenbereich Vollstreckung der Hauptzollämter Stuttgart und Ulm sowie
+7. die Sonderprüfungen der Hauptzollämter Karlsruhe, Lörrach, Singen, Stuttgart und Ulm,
 
-8. den Aufgabenbereich Vollstreckung aller Hauptzollämter bundesweit, sofern eine rückständige Abgabe auf Kaffee, kaffeehaltige Waren, Schaumwein, Zwischenerzeugnisse sowie auf Alkohol und alkoholhaltige Waren im Rahmen eines IT-Verbrauchsteuerverfahrens bei der Zollzahlstelle des Hauptzollamts Stuttgart zum Soll gestellt wurde.
+8. den Aufgabenbereich Vollstreckung der Hauptzollämter Stuttgart und Ulm sowie
+
+9. den Aufgabenbereich Vollstreckung aller Hauptzollämter bundesweit, sofern eine rückständige Abgabe auf Kaffee, kaffeehaltige Waren, Schaumwein, Zwischenerzeugnisse sowie auf Alkohol und alkoholhaltige Waren im Rahmen eines IT-Verbrauchsteuerverfahrens bei der Zollzahlstelle des Hauptzollamts Stuttgart zum Soll gestellt wurde.
 
 # § 19 – Hauptzollamt Itzehoe
 
@@ -353,7 +353,7 @@ Dem Hauptzollamt Kiel werden die Zuständigkeiten übertragen für
 
 5. das Konsultationsverfahren und den weiteren Schriftwechsel zwischen der deutschen Zollverwaltung und den Verwaltungen der übrigen Mitgliedstaaten der Europäischen Union im Zusammenhang mit Anträgen von Schifffahrtsgesellschaften auf Erteilung einer Bewilligung zur Einrichtung eines Linienverkehrs oder auf Bewilligung vereinfachter gemeinschaftlicher Versandverfahren im Seeverkehr aller Hauptzollämter bundesweit,
 
-6. die Aufgaben einer Kontrolleinheit Verkehrswege des Hauptzollamts Itzehoe, mit Ausnahme des Stadtgebiets Hamburg,
+6. die Aufgaben einer Kontrolleinheit Verkehrswege der Hauptzollämter Hamburg und Itzehoe,
 
 7. die Aufgaben einer Kontrolleinheit Zollboot des Hauptzollamts Itzehoe für die Küstengewässer der Ostsee und die Aufgaben einer Kontrolleinheit Grenznaher Raum von der Ostseeküste bis einschließlich zur Bundesautobahn 7,
 
@@ -403,9 +403,11 @@ Dem Hauptzollamt Lörrach werden die Zuständigkeiten übertragen für
 
 1. die Bewilligung einer Gesamtsicherheit nach Artikel 95 Absatz 1 der Verordnung (EU) Nr. 952/2013 für Zollanmelder mit Sitz in der Schweiz oder Liechtenstein, die nach Artikel 110 Buchstabe b der Verordnung (EU) Nr. 952/2013 laufenden Zahlungsaufschub in Anspruch nehmen, der Hauptzollämter Singen und Ulm,
 
-2. die Zollprüfungen von Zollanmeldern mit Sitz in der Schweiz oder in Liechtenstein, die bei den Zollstellen der Hauptzollämter Lörrach, Singen und Ulm Zollanmeldungen im eigenen Namen abgegeben haben, sowie
+2. die Aufgaben einer Kontrolleinheit Verkehrswege des Hauptzollamts Singen,
 
-3. den Aufgabenbereich Vollstreckung der Hauptzollämter Karlsruhe und Singen.
+3. die Zollprüfungen von Zollanmeldern mit Sitz in der Schweiz oder in Liechtenstein, die bei den Zollstellen der Hauptzollämter Lörrach, Singen und Ulm Zollanmeldungen im eigenen Namen abgegeben haben, sowie
+
+4. den Aufgabenbereich Vollstreckung der Hauptzollämter Karlsruhe und Singen.
 
 # § 27 – Hauptzollamt Magdeburg
 
@@ -461,7 +463,11 @@ Dem Hauptzollamt Nürnberg werden die Zuständigkeiten übertragen für
 
 # § 31 – Hauptzollamt Oldenburg
 
-Dem Hauptzollamt Oldenburg wird die Zuständigkeit für die Anmahnung öffentlich-rechtlicher Geldforderungen und die Anforderung von Säumniszuschlägen des Hauptzollamts Bremen übertragen, sofern der Zollzahlstelle des Hauptzollamts Oldenburg die Überwachung des Zahlungseingangs obliegt.
+Dem Hauptzollamt Oldenburg werden die Zuständigkeiten übertragen für
+
+1. die Anmahnung öffentlich-rechtlicher Geldforderungen und die Anforderung von Säumniszuschlägen des Hauptzollamts Bremen, sofern der Zollzahlstelle des Hauptzollamts Oldenburg die Überwachung des Zahlungseingangs obliegt, sowie
+
+2. die Aufgaben einer Kontrolleinheit Verkehrswege des Hauptzollamts Bremen.
 
 # § 32 – Hauptzollamt Osnabrück
 
@@ -535,7 +541,7 @@ b) aller Hauptzollämter bundesweit, wenn das Hauptzollamt Rosenheim als erstes 
 
 4. die Aufgaben einer Kontrolleinheit Verkehrswege des Hauptzollamts München sowie
 
-5. den Aufgabenbereich Vollstreckung des Hauptzollamts München für die Landkreise Fürstenfeldbruck und München sowie die Stadt München, einschließlich des Verwertungsverfahrens der Hauptzollämter Augsburg, Landshut und München, sofern nicht die in § 25 Nummer 3 genannten Städte und Gemeinden betroffen sind.
+5. den Aufgabenbereich Vollstreckung des Hauptzollamts München für die Landkreise Fürstenfeldbruck und München, sofern nicht die in § 25 Nummer 3 genannten Städte und Gemeinden betroffen sind, sowie die Stadt München, einschließlich des Verwertungsverfahrens der Hauptzollämter Augsburg, Landshut und München.
 
 # § 36 – Hauptzollamt Saarbrücken
 

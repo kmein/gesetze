@@ -17,7 +17,7 @@
 
 # § 2 – Zweck des Sondervermögens
 
-Das Sondervermögen hat den Zweck, die Bündnis- und Verteidigungsfähigkeit zu stärken und dazu ab dem Jahr 2022 die Fähigkeitslücken der Bundeswehr zu schließen, um damit auch den deutschen Beitrag zu den geltenden NATO-Fähigkeitszielen gewährleisten zu können. Die Mittel des Sondervermögens sollen der Finanzierung bedeutsamer Ausrüstungsvorhaben der Bundeswehr, insbesondere komplexer überjähriger Maßnahmen, dienen.
+Das Sondervermögen hat den Zweck, die Bündnis- und Verteidigungsfähigkeit zu stärken und dazu ab dem Jahr 2022 die Fähigkeitslücken der Bundeswehr zu schließen, um damit auch den deutschen Beitrag zu den geltenden NATO-Fähigkeitszielen gewährleisten zu können. Die Mittel des Sondervermögens sollen der Finanzierung von Ausrüstungsvorhaben der Bundeswehr dienen. Dies umfasst insbesondere bedeutsame Maßnahmen im Bereich der Rüstungsinvestitionen nebst mit diesen zusammenhängender Forschung, Munitionsausgaben, Infrastrukturprojekte sowie Projekte auf den Gebieten der Informationstechnologie, zum Schutz von und zur Sicherstellung des Zugangs zu Schlüsseltechnologie und Logistik für die Bundeswehr.
 
 # § 3 – Stellung im Rechtsverkehr
 
@@ -39,7 +39,7 @@ Das Sondervermögen hat den Zweck, die Bündnis- und Verteidigungsfähigkeit zu 
 
 (1) Alle Einnahmen und Ausgaben des Sondervermögens werden in einem Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. Der Wirtschaftsplan für das Jahr 2022 ergibt sich aus der Anlage. Ab dem Wirtschaftsjahr 2023 wird der Wirtschaftsplan dem Haushaltsgesetz als Anlage beigefügt. Er wird ab dem Jahr 2023 zusammen mit dem Haushaltsgesetz festgestellt.
 
-(2) Die Ausgaben und Verpflichtungsermächtigungen, die im Wirtschaftsplan für die im Einzelnen benannten Vorhaben zur Verfügung gestellt werden, können nicht für andere dort benannte Vorhaben verwendet werden. Die Ausgaben und Verpflichtungsermächtigungen zu den Vorhaben sind jeweils in einzelnen Titeln zu veranschlagen. Die Ausgaben sind übertragbar und bleiben für die jeweilige Zweckbestimmung über das Haushaltsjahr hinaus verfügbar. § 45 Absatz 3 der Bundeshaushaltsordnung ist nicht anwendbar.
+(2) Die Ausgaben sind übertragbar und bleiben für die jeweilige Zweckbestimmung über das Haushaltsjahr hinaus verfügbar. § 45 Absatz 3 der Bundeshaushaltsordnung ist nicht anwendbar.
 
 (3) Verträge über Beschaffungsmaßnahmen und Entwicklungsvorhaben sowie Betreiberverträge, die ein Finanzvolumen von 25 Millionen Euro überschreiten, sind dem Haushaltsausschuss des Deutschen Bundestages zur Billigung vorzulegen. Bis zur Billigung des Haushaltsausschusses des Deutschen Bundestages sind Verträge zu der entsprechenden Maßnahme schwebend unwirksam.
 

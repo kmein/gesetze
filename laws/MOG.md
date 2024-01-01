@@ -619,7 +619,7 @@ zu regeln, soweit dies erforderlich ist, um Anforderungen in Regelungen in § 1 
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur Durchführung von Regelungen im Sinne des § 1 Absatz 2 erforderlich ist,
 
-1. Personen und nicht rechtsfähige Personenvereinigungen zu verpflichten, regelmäßig Aufzeichnungen über die angelieferten, verkauften oder in den oder aus dem Geltungsbereich dieses Gesetzes verbrachten Mengen an Marktordnungswaren und über die Preise zu machen sowie die Mengen und Preise der Marktordnungsstelle zu melden,
+1. Personen und sonstige Personenvereinigungen zu verpflichten, regelmäßig Aufzeichnungen über die angelieferten, verkauften oder in den oder aus dem Geltungsbereich dieses Gesetzes verbrachten Mengen an Marktordnungswaren und über die Preise zu machen sowie die Mengen und Preise der Marktordnungsstelle zu melden,
 
 2. Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen, die Preisnotierungen oder Preisfeststellungen hinsichtlich Marktordnungswaren vornehmen, zu verpflichten, der Marktordnungsstelle die Ergebnisse der Notierungen oder Feststellungen zu melden.
 

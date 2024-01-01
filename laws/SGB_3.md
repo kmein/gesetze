@@ -1448,11 +1448,11 @@ Meldepflicht bei Wechsel der Zuständigkeit
 
 Zweiter Unterabschnitt
 
-Anzeige- und Bescheinigungspflichten
+Anzeige-, Nachweis- und Bescheinigungspflichten
 
 § 311
 
-Anzeige- und Bescheinigungspflicht bei Arbeitsunfähigkeit
+Anzeige- und Nachweispflichten bei Arbeitsunfähigkeit und stationärer Behandlung
 
 § 312
 
@@ -2349,6 +2349,10 @@ Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur We
 
 Siebtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze
 
+§ 452
+
+Gesetz zur Regelung des Sozialen Entschädigungsrechts
+
 § 453
 
 Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze
@@ -2364,6 +2368,10 @@ Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetz
 § 456
 
 Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes
+
+§ 457
+
+Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze
 
 # § 1 – Ziele der Arbeitsförderung
 
@@ -2501,7 +2509,7 @@ abzustellen.
 
 (3) Die Agenturen für Arbeit arbeiten zur Erfüllung ihrer Aufgaben mit den Gemeinden, Kreisen und Bezirken sowie den weiteren Beteiligten des örtlichen Ausbildungs- und Arbeitsmarktes zusammen, insbesondere mit den
 
-1. Leistungsträgern im Sinne des § 12 des Ersten Buches sowie Trägern von Leistungen nach dem Bundesversorgungsgesetz und dem Asylbewerberleistungsgesetz,
+1. Leistungsträgern im Sinne des § 12 des Ersten Buches sowie Trägern von Leistungen nach dem Asylbewerberleistungsgesetz,
 
 2. Vertreterinnen und Vertretern der Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer,
 
@@ -2615,7 +2623,7 @@ Berufsrückkehrende sind Frauen und Männer, die
 
 # § 21 – Träger
 
-Träger sind natürliche oder juristische Personen oder Personengesellschaften, die Maßnahmen der Arbeitsförderung selbst durchführen oder durch Dritte durchführen lassen.
+Träger sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die Maßnahmen der Arbeitsförderung selbst durchführen oder durch Dritte durchführen lassen.
 
 # § 22 – Verhältnis zu anderen Leistungen
 
@@ -2699,7 +2707,7 @@ Sofern die Bundesagentur für die Erbringung von Leistungen nach § 35 besondere
 
 (2) Versicherungspflichtig sind Personen in der Zeit, für die sie
 
-1. von einem Leistungsträger Mutterschaftsgeld, Krankengeld, Versorgungskrankengeld, Verletztengeld oder von einem Träger der medizinischen Rehabilitation Übergangsgeld beziehen,
+1. von einem Leistungsträger Mutterschaftsgeld, Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld oder von einem Träger der medizinischen Rehabilitation Übergangsgeld beziehen,
 
 2. von einem privaten Krankenversicherungsunternehmen Krankentagegeld beziehen,
 
@@ -2991,7 +2999,7 @@ Die besonderen Bedürfnisse behinderter und schwerbehinderter Menschen sollen an
 
 (2) Die Agentur für Arbeit hat unverzüglich nach der Meldung nach Absatz 1 auch Berufsberatung durchzuführen.
 
-(3) Ausbildung- und Arbeitsuchende, die Dienstleistungen der Bundesagentur in Anspruch nehmen, haben dieser die für eine Vermittlung erforderlichen Auskünfte zu erteilen, Unterlagen vorzulegen und den Abschluss eines Ausbildungs- oder Arbeitsverhältnisses unter Benennung des Arbeitgebers und seines Sitzes unverzüglich mitzuteilen. Sie können die Weitergabe ihrer Unterlagen von deren Rückgabe an die Agentur für Arbeit abhängig machen oder ihre Weitergabe an namentlich benannte Arbeitgeber ausschließen. Die Anzeige- und Bescheinigungspflichten im Leistungsverfahren bei Arbeitsunfähigkeit nach § 311 gelten entsprechend.
+(3) Ausbildung- und Arbeitsuchende, die Dienstleistungen der Bundesagentur in Anspruch nehmen, haben dieser die für eine Vermittlung erforderlichen Auskünfte zu erteilen, Unterlagen vorzulegen und den Abschluss eines Ausbildungs- oder Arbeitsverhältnisses unter Benennung des Arbeitgebers und seines Sitzes unverzüglich mitzuteilen. Sie können die Weitergabe ihrer Unterlagen von deren Rückgabe an die Agentur für Arbeit abhängig machen oder ihre Weitergabe an namentlich benannte Arbeitgeber ausschließen. Die Anzeige- und Nachweispflichten im Leistungsverfahren bei Arbeitsunfähigkeit nach § 311 gelten entsprechend.
 
 (4) Die Arbeitsvermittlung ist durchzuführen,
 
@@ -3765,7 +3773,7 @@ Arbeitgeber können zur Eingliederung von Arbeitnehmerinnen und Arbeitnehmern, d
 
 # § 89 – Höhe und Dauer der Förderung
 
-Die Förderhöhe und die Förderdauer richten sich nach dem Umfang der Einschränkung der Arbeitsleistung der Arbeitnehmerin oder des Arbeitnehmers und nach den Anforderungen des jeweiligen Arbeitsplatzes (Minderleistung). Der Eingliederungszuschuss kann bis zu 50 Prozent des zu berücksichtigenden Arbeitsentgelts und die Förderdauer bis zu zwölf Monate betragen. Bei Arbeitnehmerinnen und Arbeitnehmern, die das 50. Lebensjahr vollendet haben, kann die Förderdauer bis zu 36 Monate betragen, wenn die Förderung bis zum 31. Dezember 2023 begonnen hat.
+Die Förderhöhe und die Förderdauer richten sich nach dem Umfang der Einschränkung der Arbeitsleistung der Arbeitnehmerin oder des Arbeitnehmers und nach den Anforderungen des jeweiligen Arbeitsplatzes (Minderleistung). Der Eingliederungszuschuss kann bis zu 50 Prozent des zu berücksichtigenden Arbeitsentgelts und die Förderdauer bis zu zwölf Monate betragen. Bei Arbeitnehmerinnen und Arbeitnehmern, die das 55. Lebensjahr vollendet haben, kann die Förderdauer bis zu 36 Monate betragen, wenn die Förderung bis zum 31. Dezember 2028 begonnen hat.
 
 # § 90 – Eingliederungszuschuss für Menschen mit Behinderungen und schwerbehinderte Menschen
 
@@ -4515,7 +4523,7 @@ Abweichend von § 180 Absatz 4 Satz 1 ist die Dauer einer Vollzeitmaßnahme der 
 
 # § 141 – Arbeitslosmeldung
 
-(1) Die oder der Arbeitslose hat sich elektronisch im Fachportal der Bundesagentur oder persönlich bei der zuständigen Agentur für Arbeit arbeitslos zu melden. Das in Satz 1 genannte elektronische Verfahren muss die Voraussetzungen des § 36a Absatz 2 Satz 4 Nummer 1 in Verbindung mit Satz 5 erster Halbsatz des Ersten Buches erfüllen. Eine Meldung ist auch zulässig, wenn die Arbeitslosigkeit noch nicht eingetreten, der Eintritt der Arbeitslosigkeit aber innerhalb der nächsten drei Monate zu erwarten ist.
+(1) Die oder der Arbeitslose hat sich elektronisch im Fachportal der Bundesagentur oder persönlich bei der zuständigen Agentur für Arbeit arbeitslos zu melden. Das in Satz 1 genannte elektronische Verfahren muss die Voraussetzungen des § 36a Absatz 2a Nummer 1 Buchstabe a des Ersten Buches erfüllen. Eine Meldung ist auch zulässig, wenn die Arbeitslosigkeit noch nicht eingetreten, der Eintritt der Arbeitslosigkeit aber innerhalb der nächsten drei Monate zu erwarten ist.
 
 (2) Ist die zuständige Agentur für Arbeit am ersten Tag der Beschäftigungslosigkeit der oder des Arbeitslosen nicht dienstbereit, so wirkt eine Meldung an dem nächsten Tag, an dem die Agentur für Arbeit dienstbereit ist, auf den Tag zurück, an dem die Agentur für Arbeit nicht dienstbereit war.
 
@@ -4691,6 +4699,8 @@ Satz 1 Nummer 3 ist nur anzuwenden, wenn die oder der Arbeitslose dies verlangt 
 
 3. für Zeiten einer Berufsausbildung, die im Rahmen eines Berufsausbildungsvertrages nach dem Berufsbildungsgesetz in einer außerbetrieblichen Einrichtung durchgeführt wurde (§ 25 Absatz 1 Satz 2 Nummer 1), die erzielte Ausbildungsvergütung; wurde keine Ausbildungsvergütung erzielt, der nach § 17 Absatz 2 des Berufsbildungsgesetzes als Mindestvergütung maßgebliche Betrag.
 
+(3a) War die oder der Arbeitslose innerhalb des auf zwei Jahre erweiterten Bemessungsrahmens in einer berufsvorbereitenden Bildungsmaßnahme versicherungspflichtig nach § 26 Absatz 1 Nummer 1 und kann ein Bemessungszeitraum von 150 Tagen mit Anspruch auf Arbeitsentgelt nicht festgestellt werden, ist Bemessungsentgelt ein Dreißigstel des Betrages, der bei Entstehung des Anspruchs als Mindestausbildungsvergütung nach § 17 Absatz 2 Satz 1 Nummer 1 des Berufsbildungsgesetzes maßgeblich ist; insoweit gilt § 152 nicht.
+
 (4) Haben Arbeitslose innerhalb der letzten zwei Jahre vor der Entstehung des Anspruchs Arbeitslosengeld bezogen, ist Bemessungsentgelt mindestens das Entgelt, nach dem das Arbeitslosengeld zuletzt bemessen worden ist; dies gilt auch, wenn sie das Arbeitslosengeld nur deshalb nicht bezogen haben, weil der Anspruch geruht hat.
 
 (5) Ist die oder der Arbeitslose nicht mehr bereit oder in der Lage, die im Bemessungszeitraum durchschnittlich auf die Woche entfallende Zahl von Arbeitsstunden zu leisten, vermindert sich das Bemessungsentgelt für die Zeit der Einschränkung entsprechend dem Verhältnis der Zahl der durchschnittlichen regelmäßigen wöchentlichen Arbeitsstunden, die die oder der Arbeitslose künftig leisten will oder kann, zu der Zahl der durchschnittlich auf die Woche entfallenden Arbeitsstunden im Bemessungszeitraum. Einschränkungen des Leistungsvermögens bleiben unberücksichtigt, wenn Arbeitslosengeld nach § 145 geleistet wird. Bestimmt sich das Bemessungsentgelt nach § 152, ist insoweit die tarifliche regelmäßige wöchentliche Arbeitszeit maßgebend, die bei Entstehung des Anspruchs für Angestellte im öffentlichen Dienst des Bundes gilt.
@@ -4715,7 +4725,7 @@ Satz 1 Nummer 3 ist nur anzuwenden, wenn die oder der Arbeitslose dies verlangt 
 
 1. eine Sozialversicherungspauschale in Höhe von 20 Prozent des Bemessungsentgelts,
 
-2. die Lohnsteuer, die sich nach dem vom Bundesministerium der Finanzen auf Grund des § 51 Absatz 4 Nummer 1a des Einkommensteuergesetzes bekannt gegebenen Programmablaufplan bei Berücksichtigung der Vorsorgepauschale nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe a bis c des Einkommensteuergesetzes zu Beginn des Jahres, in dem der Anspruch entstanden ist, ergibt und
+2. die Lohnsteuer, die sich nach dem vom Bundesministerium der Finanzen auf Grund des § 51 Absatz 4 Nummer 1a des Einkommensteuergesetzes bekannt gegebenen Programmablaufplan bei Berücksichtigung der Vorsorgepauschale nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe a bis c und e des Einkommensteuergesetzes zu Beginn des Jahres, in dem der Anspruch entstanden ist, ergibt und
 
 3. der Solidaritätszuschlag.
 
@@ -4727,7 +4737,7 @@ Bei der Berechnung der Abzüge nach Satz 2 Nummer 2 und 3 sind
 
 Für die Feststellung der Lohnsteuer wird die Vorsorgepauschale mit folgenden Maßgaben berücksichtigt:
 
-1. für Beiträge zur Rentenversicherung als Beitragsbemessungsgrenze die für das Bundesgebiet West maßgebliche Beitragsbemessungsgrenze,
+1. für Beiträge zur Rentenversicherung und zur Arbeitsförderung als Beitragsbemessungsgrenze die für das Bundesgebiet West maßgebliche Beitragsbemessungsgrenze,
 
 2. für Beiträge zur Krankenversicherung der ermäßigte Beitragssatz nach § 243 des Fünften Buches zuzüglich des durchschnittlichen Zusatzbeitragssatzes nach § 242a des Fünften Buches,
 
@@ -4769,7 +4779,7 @@ erhält, werden nach Abzug der Steuern, des auf die Arbeitnehmerin oder den Arbe
 
 1. Berufsausbildungsbeihilfe für Arbeitslose,
 
-2. Krankengeld, Versorgungskrankengeld, Verletztengeld, Mutterschaftsgeld oder Übergangsgeld nach diesem oder einem anderen Gesetz, dem eine Leistung zur Teilhabe zugrunde liegt, wegen der keine ganztägige Erwerbstätigkeit ausgeübt wird,
+2. Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld, Mutterschaftsgeld oder Übergangsgeld nach diesem oder einem anderen Gesetz, dem eine Leistung zur Teilhabe zugrunde liegt, wegen der keine ganztägige Erwerbstätigkeit ausgeübt wird,
 
 3. Rente wegen voller Erwerbsminderung aus der gesetzlichen Rentenversicherung oder
 
@@ -5483,7 +5493,7 @@ näher bestimmen.
 
 # § 288a – Untersagung der Berufsberatung
 
-(1) Die Agentur für Arbeit hat einer natürlichen oder juristischen Person oder Personengesellschaft, die Berufsberatung betreibt (Berufsberatende), die Ausübung dieser Tätigkeit ganz oder teilweise zu untersagen, sofern dies zum Schutz der Ratsuchenden erforderlich ist. Bei einer juristischen Person oder Personengesellschaft kann auch einer von ihr für die Leitung des Betriebes bestellten Person die Ausübung der Tätigkeit ganz oder teilweise untersagt werden, sofern dies zum Schutz der Ratsuchenden erforderlich ist.
+(1) Die Agentur für Arbeit hat einer natürlichen oder juristischen Person oder rechtsfähigen Personengesellschaft, die Berufsberatung betreibt (Berufsberatende), die Ausübung dieser Tätigkeit ganz oder teilweise zu untersagen, sofern dies zum Schutz der Ratsuchenden erforderlich ist. Bei einer juristischen Person oder rechtsfähigen Personengesellschaft kann auch einer von ihr für die Leitung des Betriebes bestellten Person die Ausübung der Tätigkeit ganz oder teilweise untersagt werden, sofern dies zum Schutz der Ratsuchenden erforderlich ist.
 
 (2) Im Untersagungsverfahren hat die betreffende Person auf Verlangen der Agentur für Arbeit
 
@@ -5607,15 +5617,23 @@ erfolgen.
 
 Wird für die Arbeitslose oder den Arbeitslosen nach der Arbeitslosmeldung eine andere Agentur für Arbeit zuständig, hat sie oder er sich bei der nunmehr zuständigen Agentur für Arbeit unverzüglich zu melden.
 
-# § 311 – Anzeige- und Bescheinigungspflicht bei Arbeitsunfähigkeit
+# § 311 – Anzeige- und Nachweispflichten bei Arbeitsunfähigkeit und stationärer Behandlung
 
-Wer Arbeitslosengeld oder Übergangsgeld beantragt hat oder bezieht, ist verpflichtet, der Agentur für Arbeit
+(1) Wer Anspruch auf Arbeitslosengeld erhebt, ist verpflichtet,
 
-1. eine eingetretene Arbeitsunfähigkeit und deren voraussichtliche Dauer unverzüglich anzuzeigen und
+1. eine Arbeitsunfähigkeit und deren voraussichtliche Dauer
 
-2. spätestens vor Ablauf des dritten Kalendertages nach Eintritt der Arbeitsunfähigkeit eine ärztliche Bescheinigung über die Arbeitsunfähigkeit und deren voraussichtliche Dauer vorzulegen.
+a) unverzüglich der Agentur für Arbeit anzuzeigen, ärztlich feststellen und sich eine ärztliche Bescheinigung aushändigen zu lassen und
 
-Die Agentur für Arbeit ist berechtigt, die Vorlage der ärztlichen Bescheinigung früher zu verlangen. Dauert die Arbeitsunfähigkeit länger als in der Bescheinigung angegeben, so ist der Agentur für Arbeit eine neue ärztliche Bescheinigung vorzulegen. Die Bescheinigungen müssen einen Vermerk der behandelnden Ärztin oder des behandelnden Arztes darüber enthalten, daß dem Träger der Krankenversicherung unverzüglich eine Bescheinigung über die Arbeitsunfähigkeit mit Angaben über den Befund und die voraussichtliche Dauer der Arbeitsunfähigkeit übersandt wird.
+b) spätestens vor Ablauf des dritten Kalendertages nach Eintritt der Arbeitsunfähigkeit der Agentur für Arbeit durch eine ärztliche Bescheinigung nachzuweisen;
+
+2. eine stationäre Behandlung auf Kosten der Krankenkasse unverzüglich bei der Agentur für Arbeit anzuzeigen und deren Beginn und Ende nachzuweisen.
+
+Dauert die Arbeitsunfähigkeit länger als in der Bescheinigung nach Satz 1 Nummer 1 angegeben, gilt Satz 1 Nummer 1 Buchstabe a entsprechend. Das Fortbestehen der Arbeitsunfähigkeit und die voraussichtliche Dauer sind der Agentur für Arbeit durch eine neue ärztliche Bescheinigung nachzuweisen.
+
+(2) Der Nachweis durch die ärztliche Bescheinigung nach Absatz 1 Satz 1 Nummer 1 Buchstabe b und Satz 3 entfällt, wenn die in § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches genannten Arbeitsunfähigkeitsdaten nach § 295 Absatz 1 Satz 10 des Fünften Buches elektronisch an die Krankenkasse zu übermitteln sind. Satz 1 gilt entsprechend, wenn die Arbeitsunfähigkeitsdaten nach § 201 Absatz 2 des Siebten Buches elektronisch an die Krankenkassen zu übermitteln sind. Der Nachweis nach Absatz 1 Satz 1 Nummer 2 entfällt, wenn die in § 301 Absatz 1 Satz 1 Nummer 3 und 7 des Fünften Buches genannten Daten zur stationären Behandlung nach § 301 Absatz 1 des Fünften Buches elektronisch an die Krankenkasse zu übermitteln sind.
+
+(3) Die Absätze 1 und 2 gelten entsprechend auch für Teilnehmende an Maßnahmen der beruflichen Weiterbildung oder einer Maßnahme nach § 45, die keinen Anspruch auf Arbeitslosengeld erheben.
 
 # § 312 – Arbeitsbescheinigung
 
@@ -5627,7 +5645,7 @@ Die Agentur für Arbeit ist berechtigt, die Vorlage der ärztlichen Bescheinigun
 
 3. das Arbeitsentgelt und die sonstigen Geldleistungen, die die Arbeitnehmerin oder der Arbeitnehmer erhalten oder zu beanspruchen hat;
 
-es gilt das Bescheinigungsverfahren nach § 313a Absatz 1. Für Zwischenmeisterinnen, Zwischenmeister und andere Auftraggeber von Heimarbeiterinnen und Heimarbeitern gilt Satz 1 entsprechend.
+es gilt das Bescheinigungsverfahren nach § 313a Absatz 1. Für die Bescheinigung von Tatsachen, die für die Entscheidung über ein Versicherungspflichtverhältnis auf Antrag oder einen Anspruch auf Teilarbeitslosengeld erheblich sein können, gilt Satz 1 entsprechend. Für Zwischenmeisterinnen, Zwischenmeister und andere Auftraggeber von Heimarbeiterinnen und Heimarbeitern gelten die Sätze 1 und 2 entsprechend.
 
 (2) Macht der Bescheinigungspflichtige nach Absatz 1 geltend, die Arbeitslosigkeit sei die Folge eines Arbeitskampfes, so hat er dies darzulegen, glaubhaft zu machen und eine Stellungnahme der Betriebsvertretung beizufügen. Der Bescheinigungspflichtige nach Absatz 1 hat der Betriebsvertretung die für die Stellungnahme erforderlichen Angaben zu machen.
 
@@ -5847,7 +5865,7 @@ Die Agentur für Arbeit kann das zu berücksichtigende Einkommen nach Anhörung 
 
 1. Renten der Sozialversicherung,
 
-2. Renten nach dem Bundesversorgungsgesetz sowie Renten, die nach anderen Gesetzen in entsprechender Anwendung des Bundesversorgungsgesetzes gewährt werden,
+2. Leistungen des Berufsschadensausgleichs nach Kapitel 10 des Vierzehnten Buches sowie nach Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen,
 
 3. Renten nach dem Gesetz zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen,
 
@@ -5987,11 +6005,11 @@ Als beitragspflichtige Einnahme gilt bei Personen,
 
 4. die als nicht satzungsmäßige Mitglieder geistlicher Genossenschaften oder ähnlicher religiöser Gemeinschaften für den Dienst in einer solchen Genossenschaft oder ähnlichen religiösen Gemeinschaft außerschulisch ausgebildet werden, ein Entgelt in Höhe der gewährten Geld- und Sachbezüge,
 
-5. die als Bezieherinnen oder Bezieher von Krankengeld, Versorgungskrankengeld, Verletztengeld oder Übergangsgeld versicherungspflichtig sind, 80 Prozent des der Leistung zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei 80 Prozent des beitragspflichtigen Arbeitsentgelts aus einem versicherungspflichtigen Beschäftigungsverhältnis abzuziehen sind; bei gleichzeitigem Bezug von Krankengeld neben einer anderen Leistung ist das dem Krankengeld zugrunde liegende Einkommen nicht zu berücksichtigen,
+5. die als Bezieherinnen oder Bezieher von Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld oder Übergangsgeld versicherungspflichtig sind, 80 Prozent des der Leistung zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei 80 Prozent des beitragspflichtigen Arbeitsentgelts aus einem versicherungspflichtigen Beschäftigungsverhältnis abzuziehen sind; bei gleichzeitigem Bezug von Krankengeld neben einer anderen Leistung ist das dem Krankengeld zugrunde liegende Einkommen nicht zu berücksichtigen,
 
 5a. die Krankengeld nach § 44a des Fünften Buches beziehen, das der Leistung zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen; wird Krankengeld in Höhe der Entgeltersatzleistungen nach diesem Buch gezahlt, gilt Nummer 5,
 
-5b. die Krankengeld nach § 45 Absatz 1 des Fünften Buches oder Verletztengeld nach § 45 Absatz 4 des Siebten Buches in Verbindung mit § 45 Absatz 1 des Fünften Buches beziehen, 80 Prozent des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts oder des der Leistung zugrunde liegenden Arbeitseinkommens,
+5b. die Krankengeld nach § 45 Absatz 1 oder Absatz 1a des Fünften Buches oder Verletztengeld nach § 45 Absatz 4 des Siebten Buches in Verbindung mit § 45 Absatz 1 oder Absatz 1a des Fünften Buches beziehen, 80 Prozent des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts oder des der Leistung zugrunde liegenden Arbeitseinkommens,
 
 6. die als Bezieherinnen oder Bezieher von Krankentagegeld versicherungspflichtig sind, ein Arbeitsentgelt in Höhe von 70 Prozent der für die Erhebung der Beiträge zur gesetzlichen Krankenversicherung maßgeblichen Beitragsbemessungsgrenze (§ 223 Abs. 3 Satz 1 des Fünften Buches). Für den Kalendermonat ist ein Zwölftel und für den Kalendertag ein Dreihundertsechzigstel des Arbeitsentgelts zugrunde zu legen,
 
@@ -6067,7 +6085,7 @@ Die Beiträge werden getragen
 
 5. für Personen, die Krankengeld oder Verletztengeld beziehen, von diesen und den Leistungsträgern je zur Hälfte, soweit sie auf die Leistung entfallen, im übrigen von den Leistungsträgern; die Leistungsträger tragen die Beiträge auch allein, soweit sie folgende Leistungen zahlen:
 
-a) Versorgungskrankengeld oder Übergangsgeld,
+a) Krankengeld der Sozialen Entschädigung oder Übergangsgeld,
 
 b) Krankengeld oder Verletztengeld in Höhe der Entgeltersatzleistungen nach diesem Buch oder
 
@@ -6123,7 +6141,7 @@ c) pflegebedürftige Person pflegen, die wegen Pflegebedürftigkeit Beihilfeleis
 
 (4b) Die Beiträge für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen beziehen, sind von den Stellen, die die Beiträge zu tragen haben, an die Bundesagentur zu zahlen. Absatz 4a Satz 2 gilt entsprechend.
 
-(5) Für die Zahlung der Beiträge nach den Absätzen 3 bis 4b sowie für die Zahlung der Beiträge für Gefangene gelten die Vorschriften für den Einzug der Beiträge, die an die Einzugsstellen zu zahlen sind, entsprechend, soweit die Besonderheiten der Beiträge nicht entgegenstehen; die Bundesagentur ist zur Prüfung der Beitragszahlung berechtigt. Die Zahlung der Beiträge nach Absatz 4a erfolgt in Form eines Gesamtbeitrags für das Kalenderjahr, in dem die Pflegetätigkeit geleistet oder das Pflegeunterstützungsgeld in Anspruch genommen wurde (Beitragsjahr). Abweichend von § 23 Abs. 1 Satz 4 des Vierten Buches ist der Gesamtbeitrag spätestens im März des Jahres fällig, das dem Beitragsjahr folgt.
+(5) Für die Zahlung der Beiträge nach den Absätzen 3 bis 4b sowie für die Zahlung der Beiträge für Gefangene gelten die Vorschriften für den Einzug der Beiträge, die an die Einzugsstellen zu zahlen sind, entsprechend, soweit die Besonderheiten der Beiträge nicht entgegenstehen; die Bundesagentur ist zur Prüfung der Beitragszahlung berechtigt.
 
 # § 349a – Beitragstragung und Beitragszahlung bei einem Versicherungspflichtverhältnis auf Antrag
 
@@ -6736,7 +6754,7 @@ Hat die Bundesagentur eine externe Gutachterin oder einen externen Gutachter bea
 
 19. entgegen
 
-a) § 312 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder Absatz 3 oder § 313 Absatz 1, auch in Verbindung mit Absatz 3,
+a) § 312 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit Satz 3, § 312 Absatz 1 oder § 313 Absatz 1, auch in Verbindung mit Absatz 3,
 
 b) § 312a Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder § 314 Absatz 1, auch in Verbindung mit Absatz 2,
 
@@ -6862,7 +6880,7 @@ Vorläufige Entscheidungen nach § 328 Absatz 1 Nummer 3 über die Zahlung von K
 
 (2) Für Zeiten, in denen die durchschnittliche regelmäßige wöchentliche Arbeitszeit der oder des Arbeitslosen auf Grund einer kollektivrechtlichen Beschäftigungssicherungsvereinbarung, die ab dem 1. März 2020 geschlossen oder wirksam geworden ist, vorübergehend vermindert war, gilt ergänzend zu § 151 Absatz 3, dass als Arbeitsentgelt das Arbeitsentgelt zu Grunde zu legen ist, das die oder der Arbeitslose ohne diese Vereinbarung und ohne Mehrarbeit erzielt hätte; insoweit gilt § 150 Absatz 2 Satz 1 Nummer 5 nicht. Satz 1 gilt nur für Zeiten mit Anspruch auf Arbeitsentgelt im Zeitraum vom 1. März 2020 bis zum 31. Dezember 2022. Sind Ansprüche auf Arbeitslosengeld vor dem 10. Dezember 2020 entstanden, so sind die Sätze 1 und 2 anzuwenden, wenn die oder der Arbeitslose dies verlangt und die zur Ermittlung des Bemessungsentgelts erforderlichen Tatsachen nachweist.
 
-(3) Abweichend von § 146 Absatz 2 besteht für das Kalenderjahr 2020 der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 15 Tage, bei alleinerziehenden Arbeitslosen längstens für 30 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 35 Tage, für alleinerziehende Arbeitslose für nicht mehr als 70 Tage fortgezahlt; für das Kalenderjahr 2021 besteht der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende Arbeitslose für nicht mehr als 130 Tage fortgezahlt; für das Kalenderjahr 2022 besteht der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende Arbeitslose für nicht mehr als 130 Tage fortgezahlt; für das Kalenderjahr 2023 besteht der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende Arbeitslose für nicht mehr als 130 Tage fortgezahlt. Satz 1 ist nur anzuwenden, wenn die oder der Arbeitslose dies verlangt und die übrigen Voraussetzungen vorliegen.
+(3) Abweichend von § 146 Absatz 2 besteht für das Kalenderjahr 2020 der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 15 Tage, bei alleinerziehenden Arbeitslosen längstens für 30 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 35 Tage, für alleinerziehende Arbeitslose für nicht mehr als 70 Tage fortgezahlt; für das Kalenderjahr 2021 besteht der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende Arbeitslose für nicht mehr als 130 Tage fortgezahlt; für das Kalenderjahr 2022 besteht der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende Arbeitslose für nicht mehr als 130 Tage fortgezahlt; für das Kalenderjahr 2023 besteht der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende Arbeitslose für nicht mehr als 130 Tage fortgezahlt; für die Kalenderjahre 2024 und 2025 besteht der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für jeweils 15 Tage, bei alleinerziehenden Arbeitslosen längstens für jeweils 30 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als jeweils 35 Tage, für alleinerziehende Arbeitslose für nicht mehr als jeweils 70 Tage fortgezahlt. Satz 1 ist nur anzuwenden, wenn die oder der Arbeitslose dies verlangt und die übrigen Voraussetzungen vorliegen.
 
 (4) Personen, die im Monat Juli 2022 für mindestens einen Tag Anspruch auf Arbeitslosengeld haben, erhalten eine Einmalzahlung in Höhe von 100 Euro. Satz 1 findet keine Anwendung auf Leistungsberechtigte nach § 73 des Zweiten Buches. Der Bund trägt die Aufwendungen einschließlich der Verwaltungskosten für die Einmalzahlung.
 
@@ -7120,6 +7138,12 @@ Für Fälle des § 132 Absatz 1 Satz 1 Nummer 2 in der bis zum 31. Juli 2019 gel
 
 (2) Die §§ 312, 312a, 313, 313a und 404 Absatz 2 Nummer 19 bis 21 in der bis zum 31. Dezember 2022 geltenden Fassung sind weiterhin anzuwenden, wenn das Versicherungsverhältnis oder die Nebenerwerbstätigkeit vor dem 1. Januar 2023 geendet hat.
 
+# § 452 – Gesetz zur Regelung des Sozialen Entschädigungsrechts
+
+(1) Bei der Anwendung von § 26 Absatz 2 Nummer 1, § 156 Absatz 1 Satz 1 Nummer 2, § 345 Nummer 5 und § 347 Nummer 5 Buchstabe a gilt das Versorgungskrankengeld als Krankengeld der Sozialen Entschädigung.
+
+(2) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 9 Absatz 3 Satz 1 Nummer 1, § 26 Absatz 2 Nummer 1, § 156 Absatz 1 Satz 1 Nummer 2, § 332 Absatz 1 Satz 1 Nummer 2, § 345 Nummer 5 und § 347 Nummer 5 Buchstabe a in der bis zum 31. Dezember 2023 geltenden Fassung weiter.
+
 # § 453 – Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze
 
 § 336 in der bis zum 31. März 2022 geltenden Fassung ist weiter anzuwenden, wenn die Deutsche Rentenversicherung Bund im Verfahren nach § 7a Absatz 1 des Vierten Buches in der bis zum 31. März 2022 geltenden Fassung die Versicherungspflicht nach diesem Buch durch Verwaltungsakt festgestellt hat.
@@ -7143,3 +7167,7 @@ Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67 und 123 bis 126 ab dem 1
 (2) § 131a Absatz 3 ist in der bis zum 30. Juni 2023 geltenden Fassung weiterhin anzuwenden, wenn die berufliche Weiterbildung vor dem 1. Juli 2023 begonnen worden ist.
 
 (3) § 148 Absatz 2 Satz 3 und Absatz 3 in der ab dem 1. Juli 2023 geltenden Fassung ist auch anzuwenden, wenn die berufliche Weiterbildung vor dem 1. Juli 2023 begonnen und nach dem 30. Juni 2023 beendet worden ist.
+
+# § 457 – Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze
+
+§ 349 Absatz 5 Satz 2 und 3 in der bis zum 31. Dezember 2023 geltenden Fassung gilt für Zeiten eines Versicherungspflichtverhältnisses nach § 26 Absatz 2 Nummer 2b und § 26 Absatz 2b bis zum 31. Dezember 2023.

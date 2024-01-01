@@ -175,7 +175,7 @@ Besteht die vom Bieter angebotene Gegenleistung in Aktien, sind für die Bestimm
 
 # § 8 – Antragstellung
 
-Der Antrag auf Befreiung von der Pflicht zur Veröffentlichung nach § 35 Abs. 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes und zur Abgabe eines Angebots nach § 35 Abs. 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes ist vom Bieter bei der Bundesanstalt zu stellen. Der Antrag kann vor Erlangung der Kontrolle über die Zielgesellschaft und innerhalb von sieben Kalendertagen nach dem Zeitpunkt gestellt werden, zu dem der Bieter Kenntnis davon hat oder nach den Umständen haben musste, dass er die Kontrolle über die Zielgesellschaft erlangt hat.
+Der Antrag auf Befreiung von der Pflicht zur Veröffentlichung nach § 35 Abs. 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes und zur Abgabe eines Angebots nach § 35 Abs. 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes ist vom Bieter bei der Bundesanstalt zu stellen. Der Antrag kann vor Erlangung der Kontrolle über die Zielgesellschaft und innerhalb von sieben Arbeitstagen nach dem Zeitpunkt gestellt werden, zu dem der Bieter Kenntnis davon hat oder nach den Umständen haben musste, dass er die Kontrolle über die Zielgesellschaft erlangt hat.
 
 # § 9 – Befreiungstatbestände
 

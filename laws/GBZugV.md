@@ -113,7 +113,7 @@ Fachlich geeignet im Sinne des Artikels 3 Absatz 1 Buchstabe d der Verordnung (E
 
 1. Name und Rechtsform des Unternehmens,
 
-2. das zuständige Registergericht, falls das Unternehmen im Handels-, Partnerschafts-, Genossenschafts- oder Vereinsregister eingetragen ist,
+2. das zuständige Registergericht, falls das Unternehmen im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragen ist,
 
 3. Anschrift des Sitzes,
 
@@ -141,7 +141,7 @@ d) Anschrift und Stellung im Unternehmen,
 
 1. für das antragstellende Unternehmen:
 
-a) ein Auszug aus dem Handels-, Partnerschafts-, Genossenschafts- oder Vereinsregister in beglaubigter Abschrift oder als amtlicher Ausdruck, wenn eine entsprechende Eintragung besteht,
+a) ein Auszug aus dem Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister in beglaubigter Abschrift oder als amtlicher Ausdruck, wenn eine entsprechende Eintragung besteht,
 
 b) der Nachweis der Vertretungsberechtigung,
 

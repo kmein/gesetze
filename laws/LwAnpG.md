@@ -320,7 +320,7 @@ Die §§ 36 und 37 gelten bei Teilungen und Zusammenschlüssen entsprechend.
 
 # § 38a – Umwandlung eingetragener Genossenschaften
 
-Eine eingetragene Genossenschaft, die durch formwechselnde Umwandlung einer LPG entstanden ist, kann durch erneuten Formwechsel in eine Personengesellschaft umgewandelt werden; für die Umwandlung gelten die Vorschriften dieses Abschnitts entsprechend.
+Eine eingetragene Genossenschaft, die durch formwechselnde Umwandlung einer LPG entstanden ist, kann durch erneuten Formwechsel in eine rechtsfähige Personengesellschaft umgewandelt werden; für die Umwandlung gelten die Vorschriften dieses Abschnitts entsprechend.
 
 # § 39 – Zulässigkeit des Formwechsels
 

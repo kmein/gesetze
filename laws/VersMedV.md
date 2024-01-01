@@ -7,7 +7,7 @@ Auf Grund des § 30 Abs. 17 des Bundesversorgungsgesetzes, der durch Artikel 1 N
 
 # § 1 – Zweck der Verordnung
 
-Diese Verordnung regelt die Grundsätze für die medizinische Bewertung von Schädigungsfolgen und die Feststellung des Grades der Schädigungsfolgen im Sinne des § 30 Abs. 1 des Bundesversorgungsgesetzes, für die Anerkennung einer Gesundheitsstörung nach § 1 Abs. 3 des Bundesversorgungsgesetzes, die Kriterien für die Bewertung der Hilflosigkeit und der Stufen der Pflegezulage nach § 35 Abs. 1 des Bundesversorgungsgesetzes und das Verfahren für deren Ermittlung und Fortentwicklung.
+Diese Verordnung regelt die medizinischen Grundsätze und Kriterien, die bei der ärztlichen Begutachtung nach Teil 3 des Neunten Buches Sozialgesetzbuch und nach dem Vierzehnten Buch Sozialgesetzbuch anzuwenden sind, sowie das dafür maßgebende Verfahren.
 
 # § 2 – Anlage „Versorgungsmedizinische Grundsätze“
 
@@ -93,7 +93,7 @@ Von Ausnahmefällen (z. B. hochgradige Schwerhörigkeit eines Ohres bei schwerer
 
 4. Hilflosigkeit
 
-a) Für die Gewährung einer Pflegezulage im sozialen Entschädigungsrecht ist Grundvoraussetzung, dass Beschädigte (infolge der Schädigung) „hilflos" sind.
+a) (weggefallen)
 
 b) Hilflos sind diejenigen, die infolge von Gesundheitsstörungen - nach dem Neunten Buch Sozialgesetzbuch (SGB I X) und dem Einkommensteuergesetz „nicht nur vorübergehend" - für eine Reihe von häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe dauernd bedürfen. Diese Voraussetzungen sind auch erfüllt, wenn die Hilfe in Form einer Überwachung oder einer Anleitung zu den genannten Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd geleistet werden muss, jedoch eine ständige Bereitschaft zur Hilfeleistung erforderlich ist.
 
@@ -219,7 +219,7 @@ d) Für die Feststellung von Hilflosigkeit ist im Übrigen zu prüfen, ob eine h
 
 7. Wesentliche Änderung der Verhältnisse
 
-a) Eine wesentliche Änderung im Ausmaß der Schädigungsfolgen oder der Behinderung liegt nur vor, wenn der veränderte Gesundheitszustand mehr als sechs Monate angehalten hat oder voraussichtlich anhalten wird und die Änderung des GdS wenigstens 10 beträgt. Eine wesentliche Änderung ist auch gegeben, wenn die entscheidenden Voraussetzungen für weitere Leistungen im sozialen Entschädigungsrecht (z.B. Pflegezulage) oder für Nachteilsausgleiche für behinderte Menschen erfüllt werden oder entfallen sind.
+a) Eine wesentliche Änderung im Ausmaß der Schädigungsfolgen oder der Behinderung liegt nur vor, wenn der veränderte Gesundheitszustand mehr als sechs Monate angehalten hat oder voraussichtlich anhalten wird und die Änderung des GdS wenigstens 10 beträgt. Eine wesentliche Änderung ist auch gegeben, wenn die entscheidenden Voraussetzungen für weitere Leistungen im sozialen Entschädigungsrecht oder für Nachteilsausgleiche für behinderte Menschen erfüllt werden oder entfallen sind.
 
 b) Nach Ablauf der Heilungsbewährung ist auch bei gleichbleibenden Symptomen eine Neubewertung des GdS zulässig, weil der Ablauf der Heilungsbewährung eine wesentliche Änderung der Verhältnisse darstellt.
 
@@ -11263,6 +11263,23 @@ Haben konkurrierende Ursachen zur primären Gesundheitsstörung beigetragen und 
 3.4.3  
 Nummer 3.4.2 gilt entsprechend, wenn die sekundäre Gesundheitsstörung auf konkurrierenden Ursachen beruht.
 
+3.4.4  
+Bei der Anwendung der Vermutungsregelung des § 4 Absatz 5 des Vierzehnten Buches Sozialgesetzbuch (SGB XIV) gilt Folgendes: Bei einer psychischen Gesundheitsstörung wird der ursächliche Zusammenhang kraft Gesetzes vermutet, wenn die Vermutung nicht durch einen anderen Kausalverlauf widerlegt wird (§ 4 Absatz 5 SGB XIV). Voraussetzung ist, dass die psychische Gesundheitsstörung nach einer der international anerkannten Klassifikationen (ICD-10 bzw. ICD-11 oder DSM-5) unter Verwendung der dortigen Bezeichnungen auf der Grundlage des aktuellen medizinisch-wissenschaftlichen Kenntnisstandes durch behandelnde Ärzte und Fachärzte diagnostiziert worden ist. Das schädigende Ereignis muss in seiner Art und Schwere nach den Erfahrungen der medizinischen Wissenschaft geeignet sein, diese Gesundheitsstörung zu begründen. Die Diagnosesicherung beinhaltet auch die Differenzierung zwischen Entstehung und Verschlimmerung der psychischen Gesundheitsstörung. Liegen diese Voraussetzungen vor, ist die Wahrscheinlichkeit des ursächlichen Zusammenhangs im Sinne einer Kausalitätsprüfung (Nummer 3.4.1 bis 3.4.3) zu vermuten, wenn keine Anhaltspunkte für einen anderen ursächlichen Zusammenhang vorliegen.
+
+3.4.5  
+Bei Vorliegen von Anhaltspunkten für einen anderen Kausalverlauf ist die Wahrscheinlichkeit des ursächlichen Zusammenhangs nach Nummer 3.4.1 bis 3.4.3 zu prüfen.
+
+3.4.6  
+Anhaltspunkte für einen anderen Kausalverlauf liegen insbesondere dann vor,
+
+a) wenn Art und Schwere des Ereignisses nicht geeignet sind, eine psychische Gesundheitsstörung als Schädigungsfolge hervorzurufen,
+
+b) wenn sich bei der Tatsachenfeststellung nach Nummer 2 Hinweise auf eine bereits vor dem schädigenden Ereignis bestehende psychische Gesundheitsstörung ergeben,
+
+c) wenn sich bei der Tatsachenfeststellung nach Nummer 2 Hinweise auf ein anderes, jedoch nicht nach § 4 Absatz 1 des Vierzehnten Buches Sozialgesetzbuch zu berücksichtigendes schädigendes Ereignis ergeben, das nach Art und Schwere für sich betrachtet geeignet ist, eine psychische Gesundheitsstörung hervorzurufen, oder
+
+d) wenn nach aktuellem medizinisch-wissenschaftlichem Kenntnisstand ein Ursachenzusammenhang zwischen einem auf die Psyche einwirkenden schädigenden Ereignis und einer psychischen Gesundheitsstörung nicht vorliegen kann, wie dies insbesondere bei der Entstehung von dementiellen und Intelligenzstörungen der Fall ist; das Auftreten einer komorbiden psychischen Gesundheitsstörung oder eine Verschlechterung der Auswirkungen von dementiellen oder Intelligenzstörungen auf die Teilhabe als Folge eines auf die Psyche einwirkenden schädigenden Ereignisses ist dadurch nicht ausgeschlossen.
+
 4  
 Kann-Versorgung
 
@@ -11385,57 +11402,6 @@ Haben mehrere Gesundheitsstörungen zum Tod beigetragen und sind nicht alle dies
 
 10.4  
 In Ausnahmefällen kann bei der Prüfung nach Nummer 10.2 auch der Zeitpunkt des Todes eine wichtige Rolle spielen, wenn neben den Schädigungsfolgen eine schwere, schädigungsunabhängige Gesundheitsstörung vorgelegen hat, die nach dem aktuellen Stand der medizinischen Wissenschaft ohne die Schädigungsfolgen noch nicht zu diesem Zeitpunkt, jedoch in absehbarer Zeit für sich allein zum Tode geführt hätte. In diesem Fall gilt der Tod als Schädigungsfolge, wenn die geschädigte Person ohne die Schädigungsfolgen wahrscheinlich mindestens ein Jahr länger gelebt hätte als mit den Schädigungsfolgen.
-
-13. Voraussetzungen für die Pflegezulage, Pflegezulagestufen
-
-a) Pflegezulage wird bewilligt, solange Beschädigte infolge der Schädigung so hilflos sind, dass sie für eine Reihe von häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe dauernd bedürfen. Diese Voraussetzungen sind auch erfüllt, wenn die Hilfe in Form einer Überwachung oder Anleitung zu den genannten Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd geleistet werden muss, jedoch eine ständige Bereitschaft zur Hilfeleistung erforderlich ist.
-
-b) Die Hilflosigkeit muss durch die Folgen der Schädigung verursacht sein. Dabei ist es nicht erforderlich, dass sie ausschließlich oder überwiegend auf eine Schädigungsfolge zurückzuführen ist. Es genügt, dass für den Eintritt der Hilflosigkeit - oder auch für eine Erhöhung des Pflegebedürfnisses - die Schädigungsfolge eine annähernd gleichwertige Bedeutung gegenüber anderen Gesundheitsstörungen hat.
-
-c) Die Pflegezulage wird in sechs Stufen bewilligt. Für dauerndes Krankenlager oder dauernd außergewöhnliche Pflege sind die Stufen II bis VI vorgesehen.
-
-d) Ein dauerndes außergewöhnliches Pflegebedürfnis liegt vor, wenn der Aufwand an Pflege etwa in gleichem Umfang wie bei dauerndem Krankenlager einer beschädigten Person notwendig ist. Dauerndes Krankenlager setzt nicht voraus, dass man das Bett überhaupt nicht verlassen kann.
-
-e) Bei Doppelamputierten ohne weitere Gesundheitsstörungen - ausgenommen Doppel-Unterschenkelamputierten - ist im allgemeinen eine Pflegezulage nach Stufe I angemessen, ohne Rücksicht darauf, ob es sich um paarige oder nichtpaarige Gliedverluste (Oberarm, Unterarm, ganze Hand, Oberschenkel, Unterschenkel, ganzer Fuß) handelt. Sofern nicht besondere Umstände eine höhere Einstufung rechtfertigen sind folgende Stufen der Pflegezulage angemessen:  
-  
-
-|                                                                |           |
-|:---------------------------------------------------------------|:----------|
-| 1\. Bei Verlust beider Beine im Oberschenkel:                  | Stufe II  |
-| 2\. Bei Verlust beider Hände oder Unterarme:                   | Stufe III |
-| 3\. Bei Verlust beider Arme im Oberarm oder dreier Gliedmaßen: | Stufe IV. |
-
-f) Die Pflegezulage nach Stufe V kommt in Betracht, wenn ein außergewöhnlicher Leidenszustand vorliegt und die Pflege besonders hohe Aufwendungen erfordert. Dies trifft immer zu bei
-
-1. Querschnittgelähmten mit Blasen- und Mastdarmlähmung,
-
-2. Hirnbeschädigten mit schweren psychischen und physischen Störungen,
-
-3. Ohnhändern mit Verlust beider Beine im Oberschenkel,
-
-4. blinden Doppel-Oberschenkelamputierten,
-
-5. Blinden mit völligem Verlust einer oberen und einer unteren Gliedmaße.
-
-g) Besonders schwer betroffene Beschädigte erhalten eine Pflegezulage nach Stufe VI. Es handelt sich dabei um
-
-1. Blinde mit völligem Gehörverlust,
-
-2. blinde Ohnhänder,
-
-3. Beschädigte mit Verlust beider Arme im Oberarm und beider Beine im Oberschenkel,
-
-4. Beschädigte, bei denen neben einem Leidenszustand, der bereits die Gewährung einer Pflegezulage nach Stufe V rechtfertigt, noch eine weitere Gesundheitsstörung vorliegt, die das Pflegebedürfnis wesentlich erhöht (z. B. erhebliche Gebrauchsbehinderung beider Arme bei vollständiger Lähmung beider Beine mit Blasen- und Mastdarmlähmung), sowie
-
-5. andere Beschädigte, deren außergewöhnlicher Leidenszustand und deren Pflegebedürfnis denen der vorgenannten Beschädigten vergleichbar sind.
-
-h) Bei Säuglingen und Kleinkindern ist - auch hinsichtlich der Pflegezulagestufe - nur der Teil der Hilflosigkeit zu berücksichtigen, der den Umfang des Hilfsbedürfnisses eines gesunden gleichaltrigen Kindes überschreitet.
-
-i) Erwerbsunfähige Hirnbeschädigte erhalten eine Pflegezulage mindestens nach Stufe I, wenn die Hirnbeschädigung allein die Erwerbsunfähigkeit bedingt. Ob bei erwerbsunfähigen Hirnbeschädigten eine höhere Pflegezulage als Stufe I in Betracht kommt, ist im Einzelfall nach den Auswirkungen der Krankheitserscheinungen zu entscheiden. Der Grad der psychischen Störungen und die Art und Häufigkeit von Anfällen sind dabei besonders zu berücksichtigen.
-
-j) Bei Beschädigten mit schweren geistigen oder seelischen Störungen, die wegen dauernder und außergewöhnlicher motorischer Unruhe ständiger Aufsicht bedürfen (z. B. erethische Kinder), sind die Voraussetzungen für eine Pflegezulage mindestens nach Stufe III gegeben.
-
-k) Blinde erhalten mindestens die Pflegezulage nach Stufe III. Treten bei Blinden weitere Gesundheitsstörungen, vor allem Störungen der Ausgleichsfunktion hinzu, die unter Beachtung von Buchstabe b bei der gebotenen Gesamtbetrachtung das Pflegebedürfnis über den tatsächlichen Bedarf der Stufe III hinaus erhöhen, so ist die Pflegezulage nach Stufe IV zu bewilligen, wenn nicht nach Buchstabe f oder g die Pflegezulage nach Stufe V oder VI zusteht. Hochgradig Sehbehinderte erfüllen grundsätzlich die Voraussetzungen für die Gewährung einer Pflegezulage nach Stufe I.
 
 1. Erhebliche Beeinträchtigung der Bewegungsfähigkeit im Straßenverkehr (Merkzeichen G)
 

@@ -47,7 +47,7 @@ Versicherungspflichtig sind selbständig tätige
 
 7. Küstenschiffer und Küstenfischer, die zur Besatzung ihres Fahrzeuges gehören oder als Küstenfischer ohne Fahrzeug fischen und regelmäßig nicht mehr als vier versicherungspflichtige Arbeitnehmer beschäftigen,
 
-8. Gewerbetreibende, die in die Handwerksrolle eingetragen sind und in ihrer Person die für die Eintragung in die Handwerksrolle erforderlichen Voraussetzungen erfüllen, wobei Handwerksbetriebe im Sinne der §§ 2 und 3 der Handwerksordnung sowie Betriebsfortführungen auf Grund von § 4 der Handwerksordnung außer Betracht bleiben; ist eine Personengesellschaft in die Handwerksrolle eingetragen, gilt als Gewerbetreibender, wer als Gesellschafter in seiner Person die Voraussetzungen für die Eintragung in die Handwerksrolle erfüllt,
+8. Gewerbetreibende, die in die Handwerksrolle eingetragen sind und in ihrer Person die für die Eintragung in die Handwerksrolle erforderlichen Voraussetzungen erfüllen, wobei Handwerksbetriebe im Sinne der §§ 2 und 3 der Handwerksordnung sowie Betriebsfortführungen auf Grund von § 4 der Handwerksordnung außer Betracht bleiben; ist eine rechtsfähige Personengesellschaft in die Handwerksrolle eingetragen, gilt als Gewerbetreibender, wer als Gesellschafter in seiner Person die Voraussetzungen für die Eintragung in die Handwerksrolle erfüllt,
 
 9. Personen, die
 
@@ -77,7 +77,7 @@ Versicherungspflichtig sind Personen in der Zeit,
 
 2b. in der sie als ehemalige Soldaten auf Zeit Übergangsgebührnisse beziehen, es sei denn, sie sind für die Zeiten als Soldaten auf Zeit nach § 186 nachversichert worden,
 
-3. für die sie von einem Leistungsträger Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Arbeitslosengeld oder von der sozialen oder einer privaten Pflegeversicherung Pflegeunterstützungsgeld beziehen, wenn sie im letzten Jahr vor Beginn der Leistung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
+3. für die sie von einem Leistungsträger Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Arbeitslosengeld oder von der sozialen oder einer privaten Pflegeversicherung Pflegeunterstützungsgeld beziehen, wenn sie im letzten Jahr vor Beginn der Leistung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
 
 3a. für die sie von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen beziehen, wenn sie im letzten Jahr vor Beginn dieser Zahlung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
 
@@ -301,7 +301,7 @@ ein anderer in Aussicht stehender Arbeitsplatz erlangt werden kann, wenn die Erh
 
 (1) Leistungen zur Teilhabe werden nicht für Versicherte erbracht, die
 
-1. wegen eines Arbeitsunfalls, einer Berufskrankheit, einer Schädigung im Sinne des sozialen Entschädigungsrechts oder wegen eines Einsatzunfalls, der Ansprüche nach dem Einsatz-Weiterverwendungsgesetz begründet, gleichartige Leistungen eines anderen Rehabilitationsträgers oder Leistungen zur Eingliederung nach dem Einsatz-Weiterverwendungsgesetz erhalten können,
+1. wegen eines Arbeitsunfalls, einer Berufskrankheit, einer Schädigung im Sinne des Sozialen Entschädigungsrechts oder wegen eines Einsatzunfalls, der Ansprüche nach dem Einsatz-Weiterverwendungsgesetz begründet, gleichartige Leistungen eines anderen Rehabilitationsträgers oder Leistungen zur Eingliederung nach dem Einsatz-Weiterverwendungsgesetz erhalten können,
 
 2. eine Rente wegen Alters von wenigstens zwei Dritteln der Vollrente beziehen oder beantragt haben,
 
@@ -317,7 +317,7 @@ ein anderer in Aussicht stehender Arbeitsplatz erlangt werden kann, wenn die Erh
 
 # § 13 – Leistungsumfang
 
-(1) Der Träger der Rentenversicherung bestimmt im Einzelfall unter Beachtung des Wunsch- und Wahlrechts des Versicherten im Sinne des § 8 des Neunten Buches und der Grundsätze der Wirtschaftlichkeit und Sparsamkeit Art, Dauer, Umfang, Beginn und Durchführung dieser Leistungen sowie die Rehabilitationseinrichtung nach pflichtgemäßem Ermessen. Die Leistungen werden auf Antrag durch ein Persönliches Budget erbracht; § 29 des Neunten Buches gilt entsprechend.
+(1) Der Träger der Rentenversicherung bestimmt im Einzelfall unter Beachtung des Wunsch- und Wahlrechts des Versicherten im Sinne des § 8 des Neunten Buches und der Grundsätze der Wirtschaftlichkeit und Sparsamkeit Art, Dauer, Umfang, Beginn und Durchführung dieser Leistungen sowie die Rehabilitationseinrichtung nach pflichtgemäßem Ermessen; der Träger der Rentenversicherung berücksichtigt bei seiner Entscheidung die besonderen Belange von Pflegepersonen im Sinne des § 19 Satz 1 des Elften Buches. Die Leistungen werden auf Antrag durch ein Persönliches Budget erbracht; § 29 des Neunten Buches gilt entsprechend.
 
 (2) Der Träger der Rentenversicherung erbringt nicht
 
@@ -465,7 +465,7 @@ Die Träger der gesetzlichen Rentenversicherung erbringen die Leistungen zur Tei
 
 a) Arbeitsentgelt oder Arbeitseinkommen erzielt und im Bemessungszeitraum Beiträge zur Rentenversicherung gezahlt haben oder
 
-b) Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Kurzarbeitergeld, Arbeitslosengeld oder Mutterschaftsgeld bezogen haben und für die von dem der Sozialleistung zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen Beiträge zur Rentenversicherung gezahlt worden sind.
+b) Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Kurzarbeitergeld, Arbeitslosengeld oder Mutterschaftsgeld bezogen haben und für die von dem der Sozialleistung zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen Beiträge zur Rentenversicherung gezahlt worden sind.
 
 (2) Versicherte, die Anspruch auf Arbeitslosengeld nach dem Dritten Buch oder Anspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches haben, haben abweichend von Absatz 1 Nummer 1 Anspruch auf Übergangsgeld, wenn sie wegen der Inanspruchnahme der Leistungen zur Teilhabe keine ganztägige Erwerbstätigkeit ausüben können.
 
@@ -1929,7 +1929,7 @@ a) das aufgrund einer Arbeitsunfähigkeit geleistet wird, die nach dem Beginn de
 
 b) das aufgrund einer stationären Behandlung geleistet wird, die nach dem Beginn der Rente begonnen worden ist,
 
-2. Versorgungskrankengeld,
+2. Krankengeld der Sozialen Entschädigung,
 
 a) das aufgrund einer Arbeitsunfähigkeit geleistet wird, die nach dem Beginn der Rente eingetreten ist, oder
 
@@ -3185,7 +3185,11 @@ Das Identifikationsmerkmal des Arbeitnehmers oder der Arbeitnehmerin ist die Ver
 
 (2) Die Träger der Rentenversicherung sind berechtigt, die nach § 22a Absatz 2 des Einkommensteuergesetzes erhobene steuerliche Identifikationsnummer nach § 139b der Abgabenordnung des Berechtigten für die Ermittlung des Einkommens nach § 97a zu nutzen. Das Bundeszentralamt für Steuern hat den Trägern der Rentenversicherung auf deren Anfrage die steuerliche Identifikationsnummer des Ehegatten des Berechtigten aus den nach § 39e Absatz 2 Satz 1 Nummer 2 des Einkommensteuergesetzes gespeicherten Daten sowie dessen Geburtsdatum aus den nach § 139b der Abgabenordnung gespeicherten Daten über die Koordinierende Stelle zu übermitteln; die erhobenen Daten dürfen nur für die Ermittlung des Einkommens nach § 97a genutzt werden.
 
-(3) Die Träger der Rentenversicherung erheben die nach § 97a Absatz 2 Satz 1 Nummer 1 und 2 erforderlichen und bei den Finanzbehörden vorhandenen Daten bei den zuständigen Finanzbehörden unter Angabe der steuerlichen Identifikationsnummer des Berechtigten sowie seines Ehegatten. Werden von der zuständigen Finanzbehörde keine Daten nach § 97a Absatz 2 Satz 1 Nummer 1 und Satz 4 Nummer 1 und 3 übermittelt, können die Träger der Rentenversicherung unter Angabe der steuerlichen Identifikationsnummer des Berechtigten sowie seines Ehegatten die für die Berücksichtigung nach § 97a Absatz 2 Satz 4 erforderliche Übermittlung vorhandener Rentenbezugsmitteilungen nach § 22a Absatz 1 des Einkommensteuergesetzes bei der zentralen Stelle im Sinne des § 81 des Einkommensteuergesetzes anfordern.
+(3) Die Träger der Rentenversicherung erheben die nach § 97a Absatz 2 Satz 1 Nummer 1 und 2 erforderlichen und bei den Finanzbehörden vorhandenen Daten bei den zuständigen Finanzbehörden unter Angabe der steuerlichen Identifikationsnummer des Berechtigten sowie seines Ehegatten. Werden von der zuständigen Finanzbehörde keine Daten nach § 97a Absatz 2 Satz 1 Nummer 1 und Satz 4 Nummer 1 und 3 übermittelt, können die Träger der Rentenversicherung unter Angabe der steuerlichen Identifikationsnummer des Berechtigten sowie seines Ehegatten die für die Berücksichtigung nach § 97a Absatz 2 Satz 4 erforderliche Übermittlung vorhandener Rentenbezugsmitteilungen nach § 22a Absatz 1 des Einkommensteuergesetzes bei der zentralen Stelle im Sinne des § 81 des Einkommensteuergesetzes anfordern. Für die Verarbeitung der Rentenbezugsmitteilungen nach § 97a Absatz 2 Satz 4 übermittelt die zentrale Stelle im Sinne des § 81 des Einkommensteuergesetzes der Koordinierenden Stelle für den Abruf steuerlicher Daten bei der Deutschen Rentenversicherung Bund
+
+1. einmalig unter Angabe der Kundennummer nach § 5 Absatz 4 der Altersvorsorge-Durchführungsverordnung die Kundenart nach § 5 Absatz 1 Nummer 1 in Verbindung mit § 5 Absatz 6 der Altersvorsorge-Durchführungsverordnung aller bei ihr gespeicherten mitteilungspflichtigen Stellen nach § 22a Absatz 1 Satz 1 des Einkommensteuergesetzes und
+
+2. bei jeder Änderung der nach Nummer 1 übermittelten Daten oder bei der Neuaufnahme einer mitteilungspflichtigen Stelle nach § 22a Absatz 1 Satz 1 des Einkommensteuergesetzes als Kunde der zentralen Stelle die jeweilige Kundennummer und Kundenart im Sinne der Nummer 1.
 
 (4) Für das automatisierte Abrufverfahren nach den Absätzen 1 bis 3 gilt § 79 Absatz 1, 2 bis 4 des Zehnten Buches entsprechend mit der Maßgabe, dass es einer Genehmigung nach § 79 Absatz 1 des Zehnten Buches nicht bedarf.
 
@@ -3375,7 +3379,7 @@ Beitragspflichtige Einnahmen sind
 
 (4) Bei Versicherten, die eine versicherungspflichtige ehrenamtliche Tätigkeit aufnehmen und für das vergangene Kalenderjahr freiwillige Beiträge gezahlt haben, gilt jeder Betrag zwischen dem Arbeitsentgelt und der Beitragsbemessungsgrenze als Arbeitsentgelt (Unterschiedsbetrag), wenn die Versicherten dies beim Arbeitgeber beantragen. Satz 1 gilt nur für versicherungspflichtige ehrenamtliche Tätigkeiten für Körperschaften des öffentlichen Rechts. Der Antrag kann nur für laufende und künftige Lohn- und Gehaltsabrechnungszeiträume gestellt werden.
 
-(5) Bei Arbeitnehmern, die nach dem Altersteilzeitgesetz Aufstockungsbeträge zum Arbeitsentgelt erhalten, gilt auch mindestens ein Betrag in Höhe von 80 vom Hundert des Regelarbeitsentgelts für die Altersteilzeitarbeit, begrenzt auf den Unterschiedsbetrag zwischen 90 vom Hundert der monatlichen Beitragsbemessungsgrenze und dem Regelarbeitsentgelt, höchstens jedoch bis zur Beitragsbemessungsgrenze, als beitragspflichtige Einnahme. Für Personen, die nach § 3 Satz 1 Nr. 3 für die Zeit des Bezugs von Krankengeld, Versorgungskrankengeld, Verletztengeld oder Übergangsgeld versichert sind, und für Personen, die für die Zeit der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur Teilhabe, in der sie Krankentagegeld von einem privaten Krankenversicherungsunternehmen erhalten, nach § 4 Abs. 3 Satz 1 Nr. 2 versichert sind, gilt Satz 1 entsprechend.
+(5) Bei Arbeitnehmern, die nach dem Altersteilzeitgesetz Aufstockungsbeträge zum Arbeitsentgelt erhalten, gilt auch mindestens ein Betrag in Höhe von 80 vom Hundert des Regelarbeitsentgelts für die Altersteilzeitarbeit, begrenzt auf den Unterschiedsbetrag zwischen 90 vom Hundert der monatlichen Beitragsbemessungsgrenze und dem Regelarbeitsentgelt, höchstens jedoch bis zur Beitragsbemessungsgrenze, als beitragspflichtige Einnahme. Für Personen, die nach § 3 Satz 1 Nr. 3 für die Zeit des Bezugs von Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld oder Übergangsgeld versichert sind, und für Personen, die für die Zeit der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur Teilhabe, in der sie Krankentagegeld von einem privaten Krankenversicherungsunternehmen erhalten, nach § 4 Abs. 3 Satz 1 Nr. 2 versichert sind, gilt Satz 1 entsprechend.
 
 (6) Soweit Kurzarbeitergeld geleistet wird, gilt als beitragspflichtige Einnahmen 80 vom Hundert des Unterschiedsbetrags zwischen dem Soll-Entgelt und dem Ist-Entgelt nach § 106 des Dritten Buches.
 
@@ -3427,7 +3431,7 @@ Beitragspflichtige Einnahmen sind bei selbständig Tätigen abweichend von Satz 
 
 1c. bei Personen, die als ehemalige Soldaten auf Zeit Übergangsgebührnisse beziehen, die nach § 11 des Soldatenversorgungsgesetzes gewährten Übergangsgebührnisse; liegen weitere Versicherungsverhältnisse vor, ist beitragspflichtige Einnahme höchstens die Differenz aus der Beitragsbemessungsgrenze und den beitragspflichtigen Einnahmen aus den weiteren Versicherungsverhältnissen,
 
-2. bei Personen, die Arbeitslosengeld, Übergangsgeld, Krankengeld, Verletztengeld oder Versorgungskrankengeld beziehen, 80 vom Hundert des der Leistung zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei 80 vom Hundert des beitragspflichtigen Arbeitsentgelts aus einem nicht geringfügigen Beschäftigungsverhältnis abzuziehen sind, und bei gleichzeitigem Bezug von Krankengeld neben einer anderen Leistung das dem Krankengeld zugrundeliegende Einkommen nicht zu berücksichtigen ist,
+2. bei Personen, die Arbeitslosengeld, Übergangsgeld, Krankengeld, Verletztengeld oder Krankengeld der Sozialen Entschädigung beziehen, 80 vom Hundert des der Leistung zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei 80 vom Hundert des beitragspflichtigen Arbeitsentgelts aus einem nicht geringfügigen Beschäftigungsverhältnis abzuziehen sind, und bei gleichzeitigem Bezug von Krankengeld neben einer anderen Leistung das dem Krankengeld zugrundeliegende Einkommen nicht zu berücksichtigen ist,
 
 2a. bei Personen, die im Anschluss an den Bezug von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Verletztengeld beziehen, monatlich der Betrag von 205 Euro,
 
@@ -3437,7 +3441,7 @@ Beitragspflichtige Einnahmen sind bei selbständig Tätigen abweichend von Satz 
 
 2d. bei Personen, die von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen beziehen, das diesen Leistungen zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen,
 
-2e. bei Personen, die Krankengeld nach § 45 Absatz 1 des Fünften Buches oder Verletztengeld nach § 45 Absatz 4 des Siebten Buches in Verbindung mit § 45 Absatz 1 des Fünften Buches beziehen, 80 vom Hundert des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts oder des der Leistung zugrunde liegenden Arbeitseinkommens,
+2e. bei Personen, die Krankengeld nach § 45 Absatz 1 oder Absatz 1a des Fünften Buches oder Verletztengeld nach § 45 Absatz 4 des Siebten Buches in Verbindung mit § 45 Absatz 1 oder Absatz 1a des Fünften Buches beziehen, 80 vom Hundert des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts oder des der Leistung zugrunde liegenden Arbeitseinkommens,
 
 2f. bei Personen, die Pflegeunterstützungsgeld beziehen, 80 vom Hundert des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts,
 
@@ -3523,7 +3527,7 @@ Die Höhe der monatlichen Mindestbeitragsbemessungsgrundlage für freiwillig Ver
 
 6. bei Arbeitnehmern, die nach dem Altersteilzeitgesetz Aufstockungsbeträge zum Arbeitsentgelt erhalten, für die sich nach § 163 Abs. 5 Satz 1 ergebende beitragspflichtige Einnahme von den Arbeitgebern,
 
-7. bei Arbeitnehmern, die nach dem Altersteilzeitgesetz Aufstockungsbeträge zum Krankengeld, Versorgungskrankengeld, Verletztengeld, Übergangsgeld oder Krankentagegeld erhalten, für die sich nach § 163 Abs. 5 Satz 2 ergebende beitragspflichtige Einnahme
+7. bei Arbeitnehmern, die nach dem Altersteilzeitgesetz Aufstockungsbeträge zum Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld, Übergangsgeld oder Krankentagegeld erhalten, für die sich nach § 163 Abs. 5 Satz 2 ergebende beitragspflichtige Einnahme
 
 a) von der Bundesagentur oder, im Fall der Leistungserbringung nach § 10 Abs. 2 Satz 2 des Altersteilzeitgesetzes, von den Arbeitgebern, wenn die Voraussetzungen des § 4 des Altersteilzeitgesetzes vorliegen,
 
@@ -3557,7 +3561,7 @@ Die Beiträge werden getragen
 
 a) Krankengeld oder Verletztengeld beziehen, von den Beziehern der Leistung und den Leistungsträgern je zur Hälfte, soweit sie auf die Leistung entfallen und diese Leistungen nicht in Höhe der Leistungen der Bundesagentur für Arbeit zu zahlen sind, im Übrigen vom Leistungsträger; die Beiträge werden auch dann von den Leistungsträgern getragen, wenn die Bezieher der Leistung zur Berufsausbildung beschäftigt sind und das der Leistung zugrunde liegende Arbeitsentgelt auf den Monat bezogen die Geringfügigkeitsgrenze nicht übersteigt,
 
-b) Versorgungskrankengeld, Übergangsgeld oder Arbeitslosengeld beziehen, von den Leistungsträgern,
+b) Krankengeld der Sozialen Entschädigung, Übergangsgeld oder Arbeitslosengeld beziehen, von den Leistungsträgern,
 
 c) Krankengeld nach § 44a des Fünften Buches beziehen, vom Leistungsträger,
 
@@ -3649,7 +3653,7 @@ gilt Absatz 1 entsprechend.
 
 # § 175 – Beitragszahlung bei Künstlern und Publizisten
 
-(1) Die Künstlersozialkasse zahlt für nachgewiesene Zeiten des Bezugs von Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld oder Mutterschaftsgeld sowie für nachgewiesene Anrechnungszeiten von Künstlern und Publizisten keine Beiträge.
+(1) Die Künstlersozialkasse zahlt für nachgewiesene Zeiten des Bezugs von Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld oder Mutterschaftsgeld sowie für nachgewiesene Anrechnungszeiten von Künstlern und Publizisten keine Beiträge.
 
 (2) Die Künstlersozialkasse ist zur Zahlung eines Beitrags für Künstler und Publizisten nur insoweit verpflichtet, als diese ihren Beitragsanteil zur Rentenversicherung nach dem Künstlersozialversicherungsgesetz an die Künstlersozialkasse gezahlt haben.
 
@@ -3985,7 +3989,7 @@ Sie haben dem Träger der Rentenversicherung auf dessen Verlangen unverzüglich 
 
 mitzuteilen. Die Datenstelle der Rentenversicherung hat diese Daten an den zuständigen Träger der Rentenversicherung zu übermitteln und anschließend bei sich unverzüglich zu löschen. Stellt die Datenstelle der Rentenversicherung in den Fällen des Satzes 1 Nummer 2 fest, dass der Einwohner keine Witwenrente oder Witwerrente und keine Erziehungsrente bezieht, übermittelt sie die Daten nicht an den zuständigen Träger der Rentenversicherung. Satz 1 Nummer 1 gilt entsprechend für die zuständige deutsche Auslandsvertretung, sofern diese Informationen bekannt sind.
 
-(3) Die Handwerkskammern sind verpflichtet, der Datenstelle der Rentenversicherung unverzüglich Eintragungen, Änderungen und Löschungen in der Handwerksrolle über natürliche Personen und Gesellschafter einer Personengesellschaft zu melden. Von der Meldepflicht ausgenommen sind Eintragungen, Änderungen und Löschungen zu Handwerksbetrieben im Sinne der §§ 2 und 3 der Handwerksordnung sowie Betriebsfortführungen auf Grund des § 4 der Handwerksordnung. Mit den Meldungen sind, soweit vorhanden, die folgenden Angaben zu übermitteln:
+(3) Die Handwerkskammern sind verpflichtet, der Datenstelle der Rentenversicherung unverzüglich Eintragungen, Änderungen und Löschungen in der Handwerksrolle über natürliche Personen und Gesellschafter einer rechtsfähigen Personengesellschaft zu melden. Von der Meldepflicht ausgenommen sind Eintragungen, Änderungen und Löschungen zu Handwerksbetrieben im Sinne der §§ 2 und 3 der Handwerksordnung sowie Betriebsfortführungen auf Grund des § 4 der Handwerksordnung. Mit den Meldungen sind, soweit vorhanden, die folgenden Angaben zu übermitteln:
 
 1. Familienname und Vornamen,
 
@@ -6688,11 +6692,11 @@ Sind Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versich
 
 2. nach dem 31. Dezember 1956 wegen einer Wehrdienstbeschädigung nach dem Soldatenversorgungsgesetz als Wehrdienstleistender oder als Soldat auf Zeit oder wegen einer Zivildienstbeschädigung nach dem Zivildienstgesetz als Zivildienstleistender,
 
-3. während eines aufgrund gesetzlicher Dienstpflicht oder Wehrpflicht oder während eines Krieges geleisteten militärischen oder militärähnlichen Dienstes (§§ 2 und 3 Bundesversorgungsgesetz),
+3. während eines aufgrund gesetzlicher Dienstpflicht oder Wehrpflicht oder während eines Krieges geleisteten militärischen oder militärähnlichen Dienstes (§§ 2 und 3 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung),
 
 4. nach dem 31. Dezember 1956 wegen eines Dienstes nach Nummer 3 oder während oder wegen einer anschließenden Kriegsgefangenschaft,
 
-5. wegen unmittelbarer Kriegseinwirkung (§ 5 Bundesversorgungsgesetz),
+5. wegen unmittelbarer Kriegseinwirkung (§ 5 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung),
 
 6. nach dem 29. Januar 1933 wegen Verfolgungsmaßnahmen als Verfolgter des Nationalsozialismus (§§ 1 und 2 Bundesentschädigungsgesetz),
 
@@ -6794,7 +6798,7 @@ Die Zeit der Pflegetätigkeit wird von der Aufnahme der Pflegetätigkeit an als 
 
 (1) Ersatzzeiten sind Zeiten vor dem 1. Januar 1992, in denen Versicherungspflicht nicht bestanden hat und Versicherte nach vollendetem 14. Lebensjahr
 
-1. militärischen oder militärähnlichen Dienst im Sinne der §§ 2 und 3 des Bundesversorgungsgesetzes aufgrund gesetzlicher Dienstpflicht oder Wehrpflicht oder während eines Krieges geleistet haben oder aufgrund dieses Dienstes kriegsgefangen gewesen sind oder deutschen Minenräumdienst nach dem 8. Mai 1945 geleistet haben oder im Anschluss an solche Zeiten wegen Krankheit arbeitsunfähig oder unverschuldet arbeitslos gewesen sind,
+1. militärischen oder militärähnlichen Dienst im Sinne der §§ 2 und 3 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung auf Grund gesetzlicher Dienstpflicht oder Wehrpflicht oder während eines Krieges geleistet haben oder auf Grund dieses Dienstes kriegsgefangen gewesen sind oder deutschen Minenräumdienst nach dem 8. Mai 1945 geleistet haben oder im Anschluss an solche Zeiten wegen Krankheit arbeitsunfähig oder unverschuldet arbeitslos gewesen sind,
 
 2. interniert oder verschleppt oder im Anschluss an solche Zeiten wegen Krankheit arbeitsunfähig oder unverschuldet arbeitslos gewesen sind, wenn sie als Deutsche wegen ihrer Volks- oder Staatsangehörigkeit oder in ursächlichem Zusammenhang mit den Kriegsereignissen außerhalb des Gebietes der Bundesrepublik Deutschland interniert oder in ein ausländisches Staatsgebiet verschleppt waren, nach dem 8. Mai 1945 entlassen wurden und innerhalb von zwei Monaten nach der Entlassung im Gebiet der Bundesrepublik Deutschland ständigen Aufenthalt genommen haben, wobei in die Frist von zwei Monaten Zeiten einer unverschuldeten Verzögerung der Rückkehr nicht eingerechnet werden,
 
@@ -8829,6 +8833,10 @@ Der Bund überträgt an die allgemeine Rentenversicherung zusätzlich zu den Zus
 
 Die Abrechnung und die Verteilung nach § 227 Absatz 1 und 1a erfolgen für Zahlungen bis zum Jahr 2024 für die Bundesrepublik Deutschland ohne das Beitrittsgebiet und für das Beitrittsgebiet getrennt.
 
+# § 287g – Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027
+
+Der Erhöhungsbetrag nach § 213 Absatz 4 wird in den Jahren 2024 bis 2027 jeweils um 600 Millionen Euro gemindert. Bei der Feststellung der Veränderung der Erhöhungsbeträge nach § 213 Absatz 4 Satz 3 ist der Abzugsbetrag nach Satz 1 nicht zu berücksichtigen.
+
 # § 288
 
 (weggefallen)
@@ -9001,7 +9009,7 @@ Die Leistung für Kindererziehung bleibt als Einkommen unberücksichtigt, wenn b
 
 # § 301 – Leistungen zur Teilhabe
 
-(1) Für Leistungen zur Teilhabe sind bis zum Ende der Leistungen die Vorschriften weiter anzuwenden, die im Zeitpunkt der Antragstellung oder, wenn den Leistungen ein Antrag nicht vorausging, der Inanspruchnahme galten. Werden Leistungen zur Teilhabe nach dem bis zum 31. Dezember 2000 geltenden Recht bewilligt und besteht deshalb ein Anspruch auf Rente wegen verminderter Erwerbsfähigkeit oder auf große Witwenrente oder große Witwerrente wegen Minderung der Erwerbsfähigkeit nicht, besteht der Anspruch auf Rente weiterhin nicht, solange Übergangsgeld, Verletztengeld oder Versorgungskrankengeld geleistet wird.
+(1) Für Leistungen zur Teilhabe sind bis zum Ende der Leistungen die Vorschriften weiter anzuwenden, die im Zeitpunkt der Antragstellung oder, wenn den Leistungen ein Antrag nicht vorausging, der Inanspruchnahme galten. Werden Leistungen zur Teilhabe nach dem bis zum 31. Dezember 2000 geltenden Recht bewilligt und besteht deshalb ein Anspruch auf Rente wegen verminderter Erwerbsfähigkeit oder auf große Witwenrente oder große Witwerrente wegen Minderung der Erwerbsfähigkeit nicht, besteht der Anspruch auf Rente weiterhin nicht, solange Übergangsgeld, Verletztengeld oder Krankengeld der Sozialen Entschädigung geleistet wird.
 
 (2) Die Träger der Rentenversicherung können die am 31. Dezember 1991 bestehenden Fachkliniken zur Behandlung von Erkrankungen der Atmungsorgane, die nicht überwiegend der Behandlung von Tuberkulose dienen, zur Krankenhausbehandlung weiter betreiben.
 
@@ -9530,6 +9538,10 @@ Ist der für den Berechtigten nach Anwendung der Vorschriften dieses Buches ermi
 
 Besteht für denselben Zeitraum Anspruch auf Leistungen nach den Vorschriften dieses Buches und auf solche nach dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets, werden die Leistungen nach den Vorschriften dieses Buches erbracht. Ist nach Anwendung der jeweiligen Vorschriften über das Zusammentreffen von Renten und von Einkommen die Gesamtleistung nach dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets höher als die Gesamtleistung nach den Vorschriften dieses Buches, wird zusätzlich zu den Leistungen nach den Vorschriften dieses Buches ein Übergangszuschlag geleistet. Bestand am 31. Dezember 1991 Anspruch auf eine Rente nach den Vorschriften des Beitrittsgebiets und liegen die rentenrechtlichen Voraussetzungen danach noch vor, wird für die Feststellung der Gesamtleistung nach dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets die am 31. Dezember 1991 gezahlte und um 6,84 vom Hundert erhöhte Rente berücksichtigt. Der Übergangszuschlag wird in Höhe der Differenz zwischen der Gesamtleistung nach dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets und der Gesamtleistung nach den Vorschriften dieses Buches gezahlt.
 
+# § 319d – Berücksichtigung von Versorgungskrankengeld
+
+Bei der Anwendung von § 3 Satz 1 Nummer 3, § 20 Nummer 3 Buchstabe b, § 96a Absatz 3 Satz 1 Nummer 2, § 163 Absatz 5 Satz 2, § 166 Absatz 1 Nummer 2, § 168 Absatz 1 Nummer 7, § 170 Absatz 1 Nummer 2 Buchstabe b, § 175 Absatz 1 und § 301 Absatz 1 Satz 2 gilt das Versorgungskrankengeld als Krankengeld der Sozialen Entschädigung.
+
 # § 320 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
@@ -9561,6 +9573,10 @@ Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die Rentenversicher
 7. Verstöße gegen das Aufenthaltsgesetz
 
 ergeben. Sie unterrichten die für die Verfolgung und Ahndung zuständigen Behörden, die Träger der Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben über die Tatsachen enthalten, die für die Abgabe der Meldungen des Arbeitgebers und die Einziehung der Beiträge zur Sozialversicherung erforderlich sind.
+
+# § 322 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 3 Satz 1 Nummer 3, des § 20 Absatz 1 Nummer 3 Buchstabe b, des § 96a Absatz 3 Satz 1 Nummer 2, des § 163 Absatz 5 Satz 2, des § 166 Absatz 1 Nummer 2, des § 168 Absatz 1 Nummer 7, des § 170 Absatz 1 Nummer 2 Buchstabe b, des § 175 Absatz 1, des § 245 Absatz 2 Nummer 3 und 5, des § 250 Absatz 1 Nummer 1 und des § 301 Absatz 1 Satz 2 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 # Anlage 1 – Durchschnittsentgelt in Euro/DM/RM
 
@@ -10398,15 +10414,21 @@ Durchschnittsentgelt
 
 22
 
- 
+42 053
 
-38 901\*)
+ 
 
 23
 
  
 
 43 142\*)
+
+24
+
+ 
+
+45 358\*)
 
 -----
 
@@ -11055,6 +11077,14 @@ Angestellten
 
 107 400
 
+1.1.2024 - 31.12.2024
+
+90 600
+
+ 
+
+111 600
+
 # Anlage 2a – Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM
 
 (Fundstelle: BGBl. I 2002, 872,  
@@ -11065,7 +11095,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 16%" /><col style="width: 51%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Zeitraum</td><td style="text-align: left;">Allgemeine<br />
 Rentenversicherung</td><td style="text-align: left;">Knappschaftliche<br />
-Rentenversicherung</td></tr><tr class="even"><td style="text-align: left;">1.7.1990 - 31.12.1990</td><td style="text-align: left;">32 400</td><td style="text-align: left;">32 400</td></tr><tr class="odd"><td style="text-align: left;">1.1.1991 - 30. 6.1991</td><td style="text-align: left;">36 000</td><td style="text-align: left;">36 000</td></tr><tr class="even"><td style="text-align: left;">1.7.1991 - 31.12.1991</td><td style="text-align: left;">40 800</td><td style="text-align: left;">40 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.1992 - 31.12.1992</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="even"><td style="text-align: left;">1.1.1993 - 31.12.1993</td><td style="text-align: left;">63 600</td><td style="text-align: left;">78 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.1994 - 31.12.1994</td><td style="text-align: left;">70 800</td><td style="text-align: left;">87 600</td></tr><tr class="even"><td style="text-align: left;">1.1.1995 - 31.12.1995</td><td style="text-align: left;">76 800</td><td style="text-align: left;">93 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.1996 - 31.12.1996</td><td style="text-align: left;">81 600</td><td style="text-align: left;">100 800</td></tr><tr class="even"><td style="text-align: left;">1.1.1997 - 31.12.1997</td><td style="text-align: left;">85 200</td><td style="text-align: left;">104 400</td></tr><tr class="odd"><td style="text-align: left;">1.1.1998 - 31.12.1998</td><td style="text-align: left;">84 000</td><td style="text-align: left;">103 200</td></tr><tr class="even"><td style="text-align: left;">1.1.1999 - 31.12.1999</td><td style="text-align: left;">86 400</td><td style="text-align: left;">105 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2000 - 31.12.2000</td><td style="text-align: left;">85 200</td><td style="text-align: left;">104 400</td></tr><tr class="even"><td style="text-align: left;">1.1.2001 - 31.12.2001</td><td style="text-align: left;">87 600</td><td style="text-align: left;">108 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2002 - 31.12.2002</td><td style="text-align: left;">45 000</td><td style="text-align: left;">55 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2003 - 31.12.2003</td><td style="text-align: left;">51 000</td><td style="text-align: left;">63 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2004 - 31.12.2004</td><td style="text-align: left;">52 200</td><td style="text-align: left;">64 200</td></tr><tr class="even"><td style="text-align: left;">1.1.2005 - 31.12.2005</td><td style="text-align: left;">52 800</td><td style="text-align: left;">64 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.2006 - 31.12.2006</td><td style="text-align: left;">52 800</td><td style="text-align: left;">64 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2007 - 31.12.2007</td><td style="text-align: left;">54 600</td><td style="text-align: left;">66 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2008 - 31.12.2008</td><td style="text-align: left;">54 000</td><td style="text-align: left;">66 600</td></tr><tr class="even"><td style="text-align: left;">1.1.2009 - 31.12.2009</td><td style="text-align: left;">54 600</td><td style="text-align: left;">67 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2010 - 31.12.2010</td><td style="text-align: left;">55 800</td><td style="text-align: left;">68 400</td></tr><tr class="even"><td style="text-align: left;">1.1.2011 - 31.12.2011</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.2012 - 31.12.2012</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2013 - 31.12.2013</td><td style="text-align: left;">58 800</td><td style="text-align: left;">72 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2014 - 31.12.2014</td><td style="text-align: left;">60 000</td><td style="text-align: left;">73 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2015 - 31.12.2015</td><td style="text-align: left;">62 400</td><td style="text-align: left;">76 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2016 - 31.12.2016</td><td style="text-align: left;">64 800</td><td style="text-align: left;">79 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2017 - 31.12.2017</td><td style="text-align: left;">68 400</td><td style="text-align: left;">84 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2018 - 31.12.2018</td><td style="text-align: left;">69 600</td><td style="text-align: left;">85 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2019 - 31.12.2019</td><td style="text-align: left;">73 800</td><td style="text-align: left;">91 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2020 - 31.12.2020</td><td style="text-align: left;">77 400</td><td style="text-align: left;">94 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2021 - 31.12.2021</td><td style="text-align: left;">80 400</td><td style="text-align: left;">99 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2022 - 31.12.2022</td><td style="text-align: left;">81 000</td><td style="text-align: left;">100 200</td></tr><tr class="even"><td style="text-align: left;">1.1.2023 - 31.12.2023</td><td style="text-align: left;">85 200</td><td style="text-align: left;">104 400</td></tr></tbody></table>
+Rentenversicherung</td></tr><tr class="even"><td style="text-align: left;">1.7.1990 - 31.12.1990</td><td style="text-align: left;">32 400</td><td style="text-align: left;">32 400</td></tr><tr class="odd"><td style="text-align: left;">1.1.1991 - 30. 6.1991</td><td style="text-align: left;">36 000</td><td style="text-align: left;">36 000</td></tr><tr class="even"><td style="text-align: left;">1.7.1991 - 31.12.1991</td><td style="text-align: left;">40 800</td><td style="text-align: left;">40 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.1992 - 31.12.1992</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="even"><td style="text-align: left;">1.1.1993 - 31.12.1993</td><td style="text-align: left;">63 600</td><td style="text-align: left;">78 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.1994 - 31.12.1994</td><td style="text-align: left;">70 800</td><td style="text-align: left;">87 600</td></tr><tr class="even"><td style="text-align: left;">1.1.1995 - 31.12.1995</td><td style="text-align: left;">76 800</td><td style="text-align: left;">93 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.1996 - 31.12.1996</td><td style="text-align: left;">81 600</td><td style="text-align: left;">100 800</td></tr><tr class="even"><td style="text-align: left;">1.1.1997 - 31.12.1997</td><td style="text-align: left;">85 200</td><td style="text-align: left;">104 400</td></tr><tr class="odd"><td style="text-align: left;">1.1.1998 - 31.12.1998</td><td style="text-align: left;">84 000</td><td style="text-align: left;">103 200</td></tr><tr class="even"><td style="text-align: left;">1.1.1999 - 31.12.1999</td><td style="text-align: left;">86 400</td><td style="text-align: left;">105 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2000 - 31.12.2000</td><td style="text-align: left;">85 200</td><td style="text-align: left;">104 400</td></tr><tr class="even"><td style="text-align: left;">1.1.2001 - 31.12.2001</td><td style="text-align: left;">87 600</td><td style="text-align: left;">108 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2002 - 31.12.2002</td><td style="text-align: left;">45 000</td><td style="text-align: left;">55 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2003 - 31.12.2003</td><td style="text-align: left;">51 000</td><td style="text-align: left;">63 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2004 - 31.12.2004</td><td style="text-align: left;">52 200</td><td style="text-align: left;">64 200</td></tr><tr class="even"><td style="text-align: left;">1.1.2005 - 31.12.2005</td><td style="text-align: left;">52 800</td><td style="text-align: left;">64 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.2006 - 31.12.2006</td><td style="text-align: left;">52 800</td><td style="text-align: left;">64 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2007 - 31.12.2007</td><td style="text-align: left;">54 600</td><td style="text-align: left;">66 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2008 - 31.12.2008</td><td style="text-align: left;">54 000</td><td style="text-align: left;">66 600</td></tr><tr class="even"><td style="text-align: left;">1.1.2009 - 31.12.2009</td><td style="text-align: left;">54 600</td><td style="text-align: left;">67 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2010 - 31.12.2010</td><td style="text-align: left;">55 800</td><td style="text-align: left;">68 400</td></tr><tr class="even"><td style="text-align: left;">1.1.2011 - 31.12.2011</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="odd"><td style="text-align: left;">1.1.2012 - 31.12.2012</td><td style="text-align: left;">57 600</td><td style="text-align: left;">70 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2013 - 31.12.2013</td><td style="text-align: left;">58 800</td><td style="text-align: left;">72 600</td></tr><tr class="odd"><td style="text-align: left;">1.1.2014 - 31.12.2014</td><td style="text-align: left;">60 000</td><td style="text-align: left;">73 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2015 - 31.12.2015</td><td style="text-align: left;">62 400</td><td style="text-align: left;">76 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2016 - 31.12.2016</td><td style="text-align: left;">64 800</td><td style="text-align: left;">79 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2017 - 31.12.2017</td><td style="text-align: left;">68 400</td><td style="text-align: left;">84 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2018 - 31.12.2018</td><td style="text-align: left;">69 600</td><td style="text-align: left;">85 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2019 - 31.12.2019</td><td style="text-align: left;">73 800</td><td style="text-align: left;">91 200</td></tr><tr class="odd"><td style="text-align: left;">1.1.2020 - 31.12.2020</td><td style="text-align: left;">77 400</td><td style="text-align: left;">94 800</td></tr><tr class="even"><td style="text-align: left;">1.1.2021 - 31.12.2021</td><td style="text-align: left;">80 400</td><td style="text-align: left;">99 000</td></tr><tr class="odd"><td style="text-align: left;">1.1.2022 - 31.12.2022</td><td style="text-align: left;">81 000</td><td style="text-align: left;">100 200</td></tr><tr class="even"><td style="text-align: left;">1.1.2023 - 31.12.2023</td><td style="text-align: left;">85 200</td><td style="text-align: left;">104 400</td></tr><tr class="odd"><td style="text-align: left;">1.1.2024 - 31.12.2024</td><td style="text-align: left;">89 400</td><td style="text-align: left;">110 400</td></tr></tbody></table>
 
 # Anlage 2b – Jährliche Höchstwerte an Entgeltpunkten
 

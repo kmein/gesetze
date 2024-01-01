@@ -105,7 +105,7 @@ Zur Bezeichnung des Berechtigten sind im Schiffregister einzutragen:
 
 1. bei natürlichen Personen der Name (Vorname und Familienname), der Beruf und der Wohnort sowie nötigenfalls andere die Berechtigten deutlich kennzeichnende Merkmale;
 
-2. bei Handelsgesellschaften, eingetragenen Genossenschaften und anderen juristischen Personen die Firma oder der Name und der Sitz.
+2. bei rechtsfähigen Personengesellschaften und juristischen Personen die Firma oder der Name und der Sitz.
 
 # § 17
 
@@ -199,9 +199,9 @@ Für die Eintragungen in Spalte 6 gilt zusätzlich folgendes:
 
 2. in Spalte 2:
 
-a) der Eigentümer, bei einer Reederei die sämtlichen Mitreeder, bei einer offenen Handelsgesellschaft die sämtlichen Gesellschafter, bei einer Kommanditgesellschaft oder einer Kommanditgesellschaft auf Aktien die sämtlichen persönlich haftenden Gesellschafter;
+a) der Eigentümer, bei einer Reederei die sämtlichen Mitreeder;
 
-b) bei mehreren Eigentümern die in § 51 der Schiffsregisterordnung vorgeschriebenen Angaben;
+b) bei mehreren Eigentümern die in § 51 Absatz 1 der Schiffsregisterordnung vorgeschriebenen Angaben;
 
 c) bei einer Reederei der Korrespondentreeder;
 
@@ -321,7 +321,7 @@ In der Aufschrift sind das Amtsgericht und die Nummer des Registerblatts anzugeb
 
 a) der Eigentümer des Schiffs oder die Miteigentümer;
 
-b) bei mehreren Eigentümern die in § 51 der Schiffsregisterordnung vorgeschriebenen Angaben;
+b) bei mehreren Eigentümern die in § 51 Absatz 1 der Schiffsregisterordnung vorgeschriebenen Angaben;
 
 3. in Spalte 3: bei mehreren Miteigentümern die Größe der den einzelnen Miteigentümern gehörenden Anteile in Form eines Bruchs; bei Alleineigentum ist ein waagerechter Strich zu ziehen;
 
@@ -455,7 +455,7 @@ In der Aufschrift sind das Amtsgericht und die Nummer des Registerblatts anzugeb
 
 a) der Eigentümer des Schiffsbauwerks oder die Miteigentümer, bei einer Baureederei die sämtlichen Mitreeder, gegebenenfalls der Korrespondentreeder;
 
-b) bei mehreren Eigentümern die in den §§ 51, 74 der Schiffsregisterordnung vorgeschriebenen Angaben;
+b) bei mehreren Eigentümern die in § 51 Absatz 1 und § 74 der Schiffsregisterordnung vorgeschriebenen Angaben;
 
 3. in Spalte 3:
 

@@ -151,9 +151,9 @@ Abweichend von § 2 Absatz 1 Satz 3 Nummer 2 ist für die Berechnung des Elterng
 
 2. eine Vorsorgepauschale
 
-a) mit den Teilbeträgen nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe b und c des Einkommensteuergesetzes, falls die berechtigte Person von ihr zu versteuernde Einnahmen nach § 2c hat, ohne in der gesetzlichen Rentenversicherung oder einer vergleichbaren Einrichtung versicherungspflichtig gewesen zu sein, oder
+a) mit den Teilbeträgen nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe b, c und e des Einkommensteuergesetzes, falls die berechtigte Person von ihr zu versteuernde Einnahmen nach § 2c hat, ohne in der gesetzlichen Rentenversicherung oder einer vergleichbaren Einrichtung versicherungspflichtig gewesen zu sein, oder
 
-b) mit den Teilbeträgen nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe a bis c des Einkommensteuergesetzes in allen übrigen Fällen,
+b) mit den Teilbeträgen nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe a bis c und e des Einkommensteuergesetzes in allen übrigen Fällen,
 
 wobei die Höhe der Teilbeträge ohne Berücksichtigung der besonderen Regelungen zur Berechnung der Beiträge nach § 55 Absatz 3 und § 58 Absatz 3 des Elften Buches Sozialgesetzbuch bestimmt wird.
 

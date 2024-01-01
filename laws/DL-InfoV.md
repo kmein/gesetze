@@ -23,7 +23,7 @@ Auf Grund des § 6c in Verbindung mit § 146 Absatz 2 Nummer 1 der Gewerbeordnun
 
 2. die Anschrift seiner Niederlassung oder, sofern keine Niederlassung besteht, eine ladungsfähige Anschrift sowie weitere Angaben, die es dem Dienstleistungsempfänger ermöglichen, schnell und unmittelbar mit ihm in Kontakt zu treten, insbesondere eine Telefonnummer und eine E-Mail-Adresse oder Faxnummer,
 
-3. falls er in ein solches eingetragen ist, das Handelsregister, Vereinsregister, Partnerschaftsregister oder Genossenschaftsregister unter Angabe des Registergerichts und der Registernummer,
+3. falls er in ein solches eingetragen ist, das Handelsregister, Genossenschaftsregister, Gesellschaftsregister, Partnerschaftsregister oder Vereinsregister unter Angabe des Registergerichts und der Registernummer,
 
 4. bei erlaubnispflichtigen Tätigkeiten Name und Anschrift der zuständigen Behörde oder der einheitlichen Stelle,
 

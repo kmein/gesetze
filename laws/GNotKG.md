@@ -355,7 +355,7 @@ ist derjenige, der die Erklärung, die Anzeige oder das Nachlassinventar abgegeb
 
 6. (weggefallen)
 
-7. in Handels-, Genossenschafts-, Partnerschafts- und Vereinsregistersachen bei Verfahren, die von Amts wegen durchgeführt werden, und bei Eintragungen, die von Amts wegen erfolgen, ist die Gesellschaft oder der Kaufmann, die Genossenschaft, die Partnerschaft oder der Verein;
+7. in Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- und Vereinsregistersachen bei Verfahren, die von Amts wegen durchgeführt werden, und bei Eintragungen, die von Amts wegen erfolgen, ist die Handelsgesellschaft oder der Kaufmann, die Gesellschaft bürgerlichen Rechts, die Genossenschaft, die Partnerschaft oder der Verein;
 
 8. für die Gebühr für die Entgegennahme, Prüfung und Aufbewahrung der zum Handels- oder Genossenschaftsregister einzureichenden Unterlagen ist das Unternehmen, für das die Unterlagen eingereicht werden;
 
@@ -744,11 +744,11 @@ Wenn keine genügenden Anhaltspunkte für einen höheren Wert von Anteilen an Ka
 
 (2) Das Verfahren über eine Abänderung oder Aufhebung einer Entscheidung gilt als besonderes Verfahren, soweit im Kostenverzeichnis nichts anderes bestimmt ist.
 
-# § 58 – Eintragungen in das Handels-, Partnerschafts- oder Genossenschaftsregister; Verordnungsermächtigung
+# § 58 – Eintragungen in das Handels-,  Genossenschafts-,  Gesellschafts-  oder Partnerschaftsregister; Verordnungsermächtigung
 
 (1) Gebühren werden nur aufgrund einer Rechtsverordnung (Handelsregistergebührenverordnung) erhoben für
 
-1. Eintragungen in das Handels-, Partnerschafts- oder Genossenschaftsregister,
+1. Eintragungen in das Handels-, Genossenschafts-, Gesellschafts- oder Partnerschaftsregister,
 
 2. Fälle der Zurücknahme oder Zurückweisung von Anmeldungen zu diesen Registern,
 
@@ -808,7 +808,7 @@ Der Geschäftswert für das Verfahren über die Ernennung oder Entlassung eines 
 
 1. bei Kapitalgesellschaften und Versicherungsvereinen auf Gegenseitigkeit 60 000 Euro,
 
-2. bei Personenhandels- und Partnerschaftsgesellschaften sowie bei Genossenschaften 30 000 Euro,
+2. bei rechtsfähigen Personengesellschaften sowie bei Genossenschaften 30 000 Euro,
 
 3. bei Vereinen 5 000 Euro und
 
@@ -838,7 +838,7 @@ Geschäftswert in dem Verfahren zum Zweck der Verhandlung über die Dispache ist
 
 (3) Ein grundstücksgleiches oder sonstiges Recht steht einem Grundstück gleich; die Absätze 1 und 2 sind entsprechend anzuwenden. Dies gilt auch für Rechte, die im Schiffsregister, im Schiffsbauregister und im Register für Pfandrechte an Luftfahrzeugen eingetragen sind. Dabei treten an die Stelle der Grundstücke die in diese Register eingetragenen Schiffe, Schiffsbauwerke und Luftfahrzeuge, an die Stelle des Grundbuchamts das Registergericht.
 
-(4) Die Absätze 1 bis 3 sind auf offene Handelsgesellschaften, Kommanditgesellschaften, Partnerschaften und Europäische wirtschaftliche Interessenvereinigungen nicht und auf Gesellschaften bürgerlichen Rechts nur für die Eintragung einer Änderung im Gesellschafterbestand anzuwenden.
+(4) (weggefallen)
 
 # § 71 – Nachträgliche Erteilung eines Hypotheken-, Grundschuld- oder Rentenschuldbriefs
 
@@ -1176,13 +1176,13 @@ b) Maßnahmen der Kapitalherabsetzung (§§ 222 bis 240 des Aktiengesetzes);
 
 Der Geschäftswert beträgt mindestens 30 000 Euro.
 
-(2) Bei sonstigen Anmeldungen zum Handelsregister sowie bei Anmeldungen zum Partnerschafts- und Genossenschaftsregister bestimmt sich der Geschäftswert nach den Absätzen 3 bis 5.
+(2) Bei sonstigen Anmeldungen zum Handelsregister sowie bei Anmeldungen zum Gesellschafts-, Genossenschafts- und Partnerschaftsregister bestimmt sich der Geschäftswert nach den Absätzen 3 bis 5.
 
 (3) Der Geschäftswert beträgt bei der ersten Anmeldung
 
 1. eines Einzelkaufmanns 30 000 Euro;
 
-2. einer offenen Handelsgesellschaft oder einer Partnerschaftsgesellschaft mit zwei Gesellschaftern 45 000 Euro; hat die offene Handelsgesellschaft oder die Partnerschaftsgesellschaft mehr als zwei Gesellschafter, erhöht sich der Wert für den dritten und jeden weiteren Gesellschafter um jeweils 15 000 Euro;
+2. einer Gesellschaft bürgerlichen Rechts, einer offenen Handelsgesellschaft oder einer Partnerschaftsgesellschaft mit zwei Gesellschaftern 45 000 Euro; hat die Gesellschaft mehr als zwei Gesellschafter, erhöht sich der Wert für den dritten und jeden weiteren Gesellschafter um jeweils 15 000 Euro;
 
 3. einer Genossenschaft oder einer juristischen Person (§ 33 des Handelsgesetzbuchs) 60 000 Euro.
 
@@ -1192,7 +1192,7 @@ Der Geschäftswert beträgt mindestens 30 000 Euro.
 
 2. einen Versicherungsverein auf Gegenseitigkeit betrifft, 60 000 Euro;
 
-3. eine Personenhandels- oder Partnerschaftsgesellschaft betrifft, 30 000 Euro; bei Eintritt oder Ausscheiden von mehr als zwei persönlich haftenden Gesellschaftern oder Partnern sind als Geschäftswert 15 000 Euro für jeden eintretenden oder ausscheidenden Gesellschafter oder Partner anzunehmen;
+3. eine rechtsfähige Personengesellschaft betrifft, 30 000 Euro; bei Eintritt oder Ausscheiden von mehr als zwei persönlich haftenden Gesellschaftern oder Partnern sind als Geschäftswert 15 000 Euro für jeden eintretenden oder ausscheidenden Gesellschafter oder Partner anzunehmen;
 
 4. einen Einzelkaufmann, eine Genossenschaft oder eine juristische Person (§ 33 des Handelsgesetzbuchs) betrifft, 30 000 Euro.
 
@@ -1218,15 +1218,13 @@ Bei der Beurkundung von Anmeldungen zu einem in § 105 genannten Register und zu
 
 # § 108 – Beschlüsse von Organen
 
-(1) Für den Geschäftswert bei der Beurkundung von Beschlüssen von Organen von Kapital-, Personenhandels- und Partnerschaftsgesellschaften sowie von Versicherungsvereinen auf Gegenseitigkeit, juristischen Personen (§ 33 des Handelsgesetzbuchs) oder Genossenschaften, deren Gegenstand keinen bestimmten Geldwert hat, gilt § 105 Absatz 4 und 6 entsprechend. Bei Beschlüssen, deren Gegenstand einen bestimmten Geldwert hat, beträgt der Wert nicht weniger als der sich nach § 105 Absatz 1 ergebende Wert.
+(1) Für den Geschäftswert bei der Beurkundung von Beschlüssen von Organen von Kapitalgesellschaften und rechtsfähigen Personengesellschaften sowie von Versicherungsvereinen auf Gegenseitigkeit, juristischen Personen (§ 33 des Handelsgesetzbuchs) oder Genossenschaften, deren Gegenstand keinen bestimmten Geldwert hat, gilt § 105 Absatz 4 und 6 entsprechend. Bei Beschlüssen, deren Gegenstand einen bestimmten Geldwert hat, beträgt der Wert nicht weniger als der sich nach § 105 Absatz 1 ergebende Wert.
 
 (2) Bei der Beurkundung von Beschlüssen im Sinne des Absatzes 1, welche die Zustimmung zu einem bestimmten Rechtsgeschäft enthalten, ist der Geschäftswert wie bei der Beurkundung des Geschäfts zu bestimmen, auf das sich der Zustimmungsbeschluss bezieht.
 
 (3) Der Geschäftswert bei der Beurkundung von Beschlüssen nach dem Umwandlungsgesetz ist der Wert des Vermögens des übertragenden oder formwechselnden Rechtsträgers. Bei Abspaltungen oder Ausgliederungen ist der Wert des übergehenden Vermögens maßgebend.
 
-(4) Der Geschäftswert bei der Beurkundung von Beschlüssen von Organen einer Gesellschaft bürgerlichen Rechts, deren Gegenstand keinen bestimmten Geldwert hat, beträgt 30 000 Euro.
-
-(5) Der Geschäftswert von Beschlüssen von Gesellschafts-, Stiftungs- und Vereinsorganen sowie von ähnlichen Organen beträgt höchstens 5 Millionen Euro, auch wenn mehrere Beschlüsse mit verschiedenem Gegenstand in einem Beurkundungsverfahren zusammengefasst werden.
+(4) Der Geschäftswert von Beschlüssen von Gesellschafts-, Stiftungs- und Vereinsorganen sowie von ähnlichen Organen beträgt höchstens 5 Millionen Euro, auch wenn mehrere Beschlüsse mit verschiedenem Gegenstand in einem Beurkundungsverfahren zusammengefasst werden.
 
 # § 109 – Derselbe Beurkundungsgegenstand
 
@@ -1785,12 +1783,12 @@ Jahresgebühr für jedes angefangene Kalenderjahr bei einer Dauerbetreuung, wenn
  (1) Für die Gebühr wird das Vermögen des von der Maßnahme Betroffenen nur berücksichtigt, soweit es nach Abzug der Verbindlichkeiten mehr als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet. Ist Gegenstand der Betreuung ein Teil des Vermögens, ist höchstens dieser Teil des Vermögens zu berücksichtigen.  (2) Für das bei der ersten Bestellung eines Betreuers laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben. Geht eine vorläufige Betreuung in eine endgültige über, handelt es sich um ein einheitliches Verfahren.  (3) Dauert die Betreuung nicht länger als drei Monate, beträgt die Gebühr abweichend von dem in der Gebührenspalte bestimmten Mindestbetrag 100,00 €.
 
   
-10,00 €  
+11,50 €  
 je angefangene  
 5 000,00 €  
 des zu  
 berücksichtigenden Vermögens  
-– mindestens 200,00 €
+– mindestens 230,00 €
 
 11102
 
@@ -1818,10 +1816,10 @@ eine Gebühr
 Jahresgebühr für jedes angefangene Kalenderjahr bei einer Dauerpflegschaft  ..........   
  (1) Ist Gegenstand der Pflegschaft ein Teil des Vermögens, ist höchstens dieser Teil des Vermögens zu berücksichtigen.  (2) Für das bei der ersten Bestellung eines Pflegers laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben.  (3) Erstreckt sich die Pflegschaft auf mehrere Betroffene, wird die Gebühr für jeden Betroffenen gesondert erhoben.  (4) Dauert die Pflegschaft nicht länger als drei Monate, beträgt die Gebühr abweichend von dem in der Gebührenspalte bestimmten Mindestbetrag 100,00 €.
 
-10,00 €  
+11,50 €  
 je angefangene  
 5 000,00 € des reinen Vermögens  
-– mindestens 200,00 €
+– mindestens 230,00 €
 
 11105
 
@@ -2765,15 +2763,21 @@ Eigentum
 
 14110
 
-Eintragung  
-1. eines Eigentümers oder von Miteigentümern oder  
-2. von Gesellschaftern einer Gesellschaft bürgerlichen Rechts im Wege der Grundbuchberichtigung  ..........   
- (1) Die Gebühr wird nicht für die Eintragung von Erben des eingetragenen Eigentümers oder von Erben des Gesellschafters bürgerlichen Rechts erhoben, wenn der Eintragungsantrag binnen zwei Jahren seit dem Erbfall bei dem Grundbuchamt eingereicht wird. Dies gilt auch, wenn die Erben erst infolge einer Erbauseinandersetzung eingetragen werden.  (2) Die Gebühr wird ferner nicht bei der Begründung oder Aufhebung von Wohnungs- oder Teileigentum erhoben, wenn damit keine weitergehende Veränderung der Eigentumsverhältnisse verbunden ist.
+Eintragung eines Eigentümers oder von Miteigentümern
 
-  
-  
-  
 1,0
+
+ 
+
+ (1) Die Gebühr wird nicht für die Eintragung von Erben des eingetragenen Eigentümers erhoben, wenn der Eintragungsantrag binnen zwei Jahren seit dem Erbfall bei dem Grundbuchamt eingereicht wird. Dies gilt auch, wenn die Erben erst infolge einer Erbauseinandersetzung eingetragen werden.
+
+ 
+
+ 
+
+ (2) Die Gebühr wird ferner nicht bei der Begründung oder Aufhebung von Wohnungs- oder Teileigentum erhoben, wenn damit keine weitergehende Veränderung der Eigentumsverhältnisse verbunden ist.
+
+ 
 
 14111
 

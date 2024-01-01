@@ -69,7 +69,7 @@ betreffen. Die §§ 54 bis 57 gelten auch für im Ausland außerhalb eines Hande
 
 1. Aktien,
 
-2. andere Anteile an in- oder ausländischen juristischen Personen, Personengesellschaften und sonstigen Unternehmen, soweit sie Aktien vergleichbar sind, sowie Hinterlegungsscheine, die Aktien vertreten,
+2. andere Anteile an in- oder ausländischen juristischen Personen, rechtsfähigen Personengesellschaften und sonstigen Unternehmen, soweit sie Aktien vergleichbar sind, sowie Hinterlegungsscheine, die Aktien vertreten,
 
 3. Schuldtitel,
 
