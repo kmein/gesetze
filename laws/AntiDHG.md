@@ -91,14 +91,6 @@ von 60 und mehr    15 339 Euro. Maßgebend für die Höhe der Einmalzahlung 
 
 (2) Die anderen durch Leistungen nach diesem Gesetz entstehenden Kosten trägt jeweils das Land, zu dessen heutigem Gebiet der Ort gehört, an dem die Anti-D-Immunprophylaxe durchgeführt wurde.
 
-(3) Den in Absatz 2 bezeichneten Ländern werden für Leistungen nach § 3 Abs. 2 in Verbindung mit Abs. 1, §§ 4 und 13 Abs. 1 und Abs. 2 vom Bund 50 vom Hundert und von den Ländern Baden-Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein 12,4 vom Hundert der entstandenen Kosten erstattet. Das Anteilsverhältnis unter den zur Erstattung verpflichteten Ländern wird zu zwei Dritteln nach dem Verhältnis ihrer Steuereinnahmen und zu einem Drittel nach dem Verhältnis ihrer Bevölkerungszahl bestimmt.
-
-# § 10 – Kostenträger
-
-(1) Die Kosten der Einmalzahlung trägt der Bund.
-
-(2) Die anderen durch Leistungen nach diesem Gesetz entstehenden Kosten trägt jeweils das Land, zu dessen heutigem Gebiet der Ort gehört, an dem die Anti-D-Immunprophylaxe durchgeführt wurde.
-
 (3) Den in Absatz 2 bezeichneten Ländern werden für Leistungen nach § 3 Absatz 2 in Verbindung mit Absatz 1 sowie in Verbindung mit § 7a, §§ 4 und 13 Abs. 1 und Abs. 2 vom Bund 50 vom Hundert und von den Ländern Baden-Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein 12,4 vom Hundert der entstandenen Kosten erstattet. Das Anteilsverhältnis unter den zur Erstattung verpflichteten Ländern wird zu zwei Dritteln nach dem Verhältnis ihrer Steuereinnahmen und zu einem Drittel nach dem Verhältnis ihrer Bevölkerungszahl bestimmt.
 
 # § 11 – Zuständigkeit, Verfahren
