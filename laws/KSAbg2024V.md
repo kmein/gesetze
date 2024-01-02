@@ -1,5 +1,5 @@
-% Künstlersozialabgabe-Verordnung 2022
-% Ausfertigungsdatum: 13.09.2021
+% Künstlersozialabgabe-Verordnung 2024
+% Ausfertigungsdatum: 04.09.2023
  
 # Eingangsformel
 
@@ -7,8 +7,8 @@ Auf Grund des § 26 Absatz 5 in Verbindung mit Absatz 1 des Künstlersozialversi
 
 # § 1 – Bestimmung des Prozentsatzes der Künstlersozialabgabe
 
-Der Prozentsatz der Künstlersozialabgabe im Jahr 2022 beträgt 4,2 Prozent.
+Der Prozentsatz der Künstlersozialabgabe im Jahr 2024 beträgt 5,0 Prozent.
 
 # § 2 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. Januar 2022 in Kraft. Gleichzeitig tritt die Künstlersozialabgabe-Verordnung 2020 vom 12. August 2019 (BGBl. I S. 1354) außer Kraft.
+Diese Verordnung tritt am 1. Januar 2024 in Kraft. Gleichzeitig tritt die Künstlersozialabgabe-Verordnung 2022 vom 13. September 2021 (BGBl. I S. 4243) außer Kraft.
