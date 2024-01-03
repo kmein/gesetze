@@ -17,7 +17,7 @@ jeweils in Verbindung mit § 1 Nr. 5 der Verordnung zur Übertragung von Befugni
 
 (1) Die Anzeigen und die Unterlagen, die nach dem Kreditwesengesetz zu erstatten oder vorzulegen sind und durch diese Verordnung näher bestimmt werden, sind vorbehaltlich abweichender Bestimmungen in dieser Verordnung jeweils in einfacher Ausfertigung der Aufsichtsbehörde im Sinne des § 1 Absatz 5 des Kreditwesengesetzes (Aufsichtsbehörde) und der für das Institut zuständigen Hauptverwaltung der Deutschen Bundesbank einzureichen. Anzeigen und Vorlagen von Unterlagen von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften nach § 12a Absatz 1 Satz 3 und § 24 Absatz 3a des Kreditwesengesetzes sind der Hauptverwaltung, in deren Bereich das übergeordnete Unternehmen nach § 10a Absatz 2 Satz 1 des Kreditwesengesetzes oder das konglomeratsangehörige Unternehmen aus der Banken- und Wertpapierdienstleistungsbranche mit der höchsten Bilanzsumme seinen Sitz hat, einzureichen.
 
-(2) Sofern die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) Aufsichtsbehörde ist und der Bundesanstalt eine entsprechende Einverständniserklärung des Verbandes vorliegt, haben Kreditinstitute, die einem genossenschaftlichen Prüfungsverband angeschlossen sind oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, die nach dieser Verordnung zu erstattenden Anzeigen und vorzulegenden Unterlagen, mit Ausnahme der Anzeige nach § 24 Absatz 1a Nummer 4 bis 6 des Kreditwesengesetzes, über ihren Verband mit je einer weiteren, für diesen bestimmten Ausfertigung einzureichen. Der Verband hat die Anzeigen und Unterlagen an die Bundesanstalt und die für das betroffene Institut zuständige Hauptverwaltung der Deutschen Bundesbank in der in dieser Verordnung jeweils bestimmten Anzahl von Ausfertigungen mit seiner Stellungnahme, bei Sparkassen zusammen mit der Stellungnahme der Prüfungsstelle, unverzüglich weiterzuleiten. Die Bundesanstalt kann auf die gesonderte Stellungnahme der Prüfungsstelle verzichten.
+(2) Sofern die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) Aufsichtsbehörde ist und der Bundesanstalt eine entsprechende Einverständniserklärung des Verbandes vorliegt, haben Kreditinstitute, die einem genossenschaftlichen Prüfungsverband angeschlossen sind oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, die nach dieser Verordnung zu erstattenden Anzeigen und vorzulegenden Unterlagen, mit Ausnahme der Anzeige nach § 24 Absatz 1a Nummer 4 bis 6, Absatz 1c und 1d des Kreditwesengesetzes, über ihren Verband mit je einer weiteren, für diesen bestimmten Ausfertigung einzureichen. Der Verband hat die Anzeigen und Unterlagen an die Bundesanstalt und die für das betroffene Institut zuständige Hauptverwaltung der Deutschen Bundesbank in der in dieser Verordnung jeweils bestimmten Anzahl von Ausfertigungen mit seiner Stellungnahme, bei Sparkassen zusammen mit der Stellungnahme der Prüfungsstelle, unverzüglich weiterzuleiten. Die Bundesanstalt kann auf die gesonderte Stellungnahme der Prüfungsstelle verzichten.
 
 (3) Soweit die Europäische Zentralbank Aufsichtsbehörde im Sinne des § 1 Absatz 5 Nummer 1 des Kreditwesengesetzes ist, sind § 24 Absatz 3c und § 24a Absatz 4a des Kreditwesengesetzes zu beachten.
 
@@ -369,13 +369,17 @@ Mehrere zeitgleich einzureichende Anzeigen nach Satz 1 können in einer Anzeige 
 
 3. ausschließlich dem Betreiben von Geschäften dienen, die keine Bankgeschäfte oder Finanzdienstleistungen sind.
 
-# § 9a – Anzeigen nach § 24 Absatz 1a Nummer 5 und 6 des Kreditwesengesetzes (Angaben zur Vergütung in CRR-Kreditinstituten)
+# § 9a – Anzeigen nach § 24 Absatz 1a Nummer 5 und 6, Absatz 1c und 1d des Kreditwesengesetzes (Angaben zur Vergütung in CRR-Kreditinstituten)
 
-(1) Anzeigen nach § 24 Absatz 1a Nummer 5 des Kreditwesengesetzes sind von CRR-Kreditinstituten, die als bedeutend im Sinne des § 1 Absatz 3c des Kreditwesengesetzes gelten oder von der Aufsichtsbehörde oder der Deutschen Bundesbank dazu aufgefordert wurden, jährlich bis zum 30. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres mit den Formularen „Vergleich der Vergütungstrends und -praktiken“ nach den Anlagen 13 bis 15 einzureichen. Satz 1 gilt für Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des Kreditwesengesetzes und für nachgeordnete Unternehmen im Sinne des § 10a Absatz 1 Satz 3 des Kreditwesengesetzes mit der Maßgabe entsprechend, dass das übergeordnete Unternehmen mit Sitz im Inland die Angaben auf zusammengefasster oder teilkonsolidierter Basis einzureichen hat, sofern der Gruppe mindestens ein bedeutendes Institut im Sinne des § 1 Absatz 3c des Kreditwesengesetzes angehört. Für Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im Sinne des § 10a Absatz 2 Satz 1 des Kreditwesengesetzes gilt Satz 2 entsprechend.
+(1) Anzeigen nach § 24 Absatz 1a Nummer 5 des Kreditwesengesetzes sind von CRR-Kreditinstituten, die als bedeutend im Sinne des § 1 Absatz 3c des Kreditwesengesetzes gelten oder von der Aufsichtsbehörde oder der Deutschen Bundesbank dazu aufgefordert wurden, jährlich bis zum 15. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres mit den Formularen „R 01.00”, „R 02.00”, „R 03.00”, „R 05.00”, „R 09.00”, „R 10.00”, „R 11.00”, „R 12.00.a” und „R 12.00.b” nach den Anlagen 13 bis 21 einzureichen. Satz 1 gilt für Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des Kreditwesengesetzes und für nachgeordnete Unternehmen im Sinne des § 10a Absatz 1 Satz 3 des Kreditwesengesetzes mit der Maßgabe entsprechend, dass das übergeordnete Unternehmen mit Sitz im Inland die Angaben auf zusammengefasster oder teilkonsolidierter Basis einzureichen hat, sofern der Gruppe mindestens ein bedeutendes Institut im Sinne des § 1 Absatz 3c des Kreditwesengesetzes angehört. Für Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im Sinne des § 10a Absatz 2 Satz 1 des Kreditwesengesetzes gilt Satz 2 entsprechend.
 
-(2) Anzeigen nach § 24 Absatz 1a Nummer 6 des Kreditwesengesetzes sind von CRR-Kreditinstituten jährlich bis zum 30. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres mit dem Formular „Vergütung ab 1 Million Euro (VAM)“ nach Anlage 16 oder mit dem Formular „REM HE“ nach Anlage 18 einzureichen. Verfügt ein Geschäftsleiter, Mitglied des Verwaltungs- oder Aufsichtsorgans oder Mitarbeiter nicht über eine Gesamtvergütung von mindestens einer Million Euro (Einkommensmillionär), so ist abweichend von Satz 1 das Formular „Fehlanzeige zur Anzeige der Vergütung ab 1 Million Euro(VAMFEHL)“ nach Anlage 17 einzureichen. Satz 2 gilt nicht für CRR-Kreditinstitute, die nicht bedeutend im Sinne des § 1 Absatz 3c des Kreditwesengesetzes sind und die das zweite Geschäftsjahr in Folge über keinen Einkommensmillionär verfügen. CRR-Kreditinstitute, bei denen die Europäische Zentralbank Aufsichtsbehörde ist, haben abweichend von den Sätzen 1 bis 3 jährlich bis zum 30. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres das Formular „REM HE“ nach Anlage 18 einzureichen. Die Sätze 1 bis 4 finden auf CRR-Kreditinstitute, deren übergeordnetes Unternehmen seinen Sitz in einem anderen Staat innerhalb des Europäischen Wirtschaftsraums hat, keine Anwendung. Die Sätze 1 bis 4 gelten für Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des Kreditwesengesetzes und für nachgeordnete Unternehmen im Sinne des § 10a Absatz 1 Satz 3 des Kreditwesengesetzes mit der Maßgabe entsprechend, dass das übergeordnete Unternehmen die Angaben für alle gruppenangehörigen Institute mit Sitz innerhalb des Europäischen Wirtschaftsraums einzureichen hat. Für Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im Sinne des § 10a Absatz 2 Satz 1 des Kreditwesengesetzes gilt Satz 6 entsprechend. Die Anzeige nach Satz 1 oder 4 erfolgt separat aggregiert zum einen für Einkommensbänder von jeweils einer Million Euro und zum anderen für jeden Mitgliedsstaat des Europäischen Wirtschaftsraums, in dem mindestens ein Einkommensmillionär tätig ist. Einkommensmillionäre, die eine berufliche Tätigkeit in unterschiedlichen Mitgliedsstaaten des Europäischen Wirtschaftsraums ausüben, sind dem Mitgliedsstaat zuzuordnen, in dem sie ihre berufliche Tätigkeit hauptsächlich ausüben. Einkommensmillionäre, die eine berufliche Tätigkeit sowohl innerhalb als auch außerhalb des Europäischen Wirtschaftsraums ausüben, sind einem Mitgliedsstaat nach Satz 9 zuzuordnen, sofern sie ihre berufliche Tätigkeit hauptsächlich innerhalb des Europäischen Wirtschaftsraums ausüben.
+(2) Anzeigen nach § 24 Absatz 1a Nummer 6 des Kreditwesengesetzes über Geschäftsleiter, Mitglieder des Verwaltungs- oder Aufsichtsorgans und Mitarbeiter mit jeweils einer Gesamtvergütung von jährlich mindestens 1 Million Euro (Einkommensmillionäre) sind von CRR-Kreditinstituten jährlich bis zum 15. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres mit den Formularen „R 04.00.a“, „R 04.00.b“, „R 04.00.c“ nach den Anlagen 22 bis 24 einzureichen. CRR-Kreditinstitute, deren übergeordnetes Unternehmen seinen Sitz in einem anderen Staat innerhalb des Europäischen Wirtschaftsraums hat, haben die Anzeige nicht einzureichen. Satz 1 gilt für Institutsgruppen nach § 10a Absatz 1 Satz 1 des Kreditwesengesetzes und für nachgeordnete Unternehmen nach § 10a Absatz 1 Satz 3 des Kreditwesengesetzes mit der Maßgabe entsprechend, dass das übergeordnete Unternehmen die Angaben für alle gruppenangehörigen Institute mit Sitz innerhalb des Europäischen Wirtschaftsraums einzureichen hat. Für Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen nach § 10a Absatz 2 Satz 1 des Kreditwesengesetzes gilt Satz 3 entsprechend. Die Anzeige der Informationen über die Einkommensmillionäre erfolgt aggregiert für Vergütungsstufen von jeweils 1 Million Euro separat für jeden Vertragsstaat des Europäischen Wirtschaftsraums, in dem mindestens ein Einkommensmillionär tätig ist. Einkommensmillionäre, die eine berufliche Tätigkeit in unterschiedlichen Vertragsstaaten des Europäischen Wirtschaftsraums ausüben, sind dem Vertragsstaat zuzuordnen, in dem sie ihre berufliche Tätigkeit hauptsächlich ausüben. Einkommensmillionäre, die eine berufliche Tätigkeit sowohl innerhalb als auch außerhalb des Europäischen Wirtschaftsraums ausüben, sind einem Vertragsstaat nach Satz 6 zuzuordnen, sofern sie ihre berufliche Tätigkeit hauptsächlich innerhalb des Europäischen Wirtschaftsraums ausüben.
 
-(3) Die Anzeigen nach Absatz 1 und 2 sind im elektronischen Verfahren bei der Deutschen Bundesbank einzureichen. Die Deutsche Bundesbank veröffentlicht im Internet die für die Einreichung zu verwendenden Datenformate und den Einreichungsweg. Sie leitet die Anzeigen an die Aufsichtsbehörden weiter. Den Angaben nach Absatz 1 und 2 sind die Begriffsbestimmungen und Regelungen des Kreditwesengesetzes und der Institutsvergütungsverordnung zugrunde zu legen. Sie müssen sich jeweils auf die fixe und die variable Vergütung beziehen, die den Geschäftsleitern, Mitgliedern des Verwaltungs- oder Aufsichtsorgans oder den Mitarbeitern für deren Leistung während des bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres vor der Einreichung der Anzeige gewährt worden ist oder nach § 20 Absatz 4 Nummer 2 der Institutsvergütungsverordnung ermittelt worden ist. Bei Fremdwährungen ist der Umrechnungskurs der Europäischen Kommission für Finanzplanung und Haushalt im Dezember des Jahres zugrunde zu legen, für das die Anzeige erfolgt.
+(3) Anzeigen nach § 24 Absatz 1c des Kreditwesengesetzes sind von CRR-Kreditinstituten, die über einen Beschluss über die Billigung eines höheren Höchstwerts für die variable Vergütung nach § 25a Absatz 5 Satz 5 des Kreditwesengesetzes verfügen, der Aufsichtsbehörde und der Deutschen Bundesbank zweijährlich bis zum 15. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres mit dem Formular „R 07.00“ nach der Anlage 25 einzureichen. Die Anzeige erfolgt auf Einzelinstitutsebene.
+
+(4) Anzeigen nach § 24 Absatz 1d des Kreditwesengesetzes zum geschlechtsspezifischen Lohngefälle sind von CRR-Kreditinstituten, die bedeutend im Sinne des § 1 Absatz 3c des Kreditwesengesetzes sind oder die von der Aufsichtsbehörde oder der Deutschen Bundesbank dazu aufgefordert wurden, der Aufsichtsbehörde und der Deutschen Bundesbank dreijährlich bis zum 15. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres mit den Formularen „R 06.00.a“ und „R 06.00.b“ nach den Anlagen 26 und 27 einzureichen. In Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des Kreditwesengesetzes sind dabei die Angaben zum Lohngefälle des übergeordneten Unternehmens zugrunde zu legen. In Finanzholding-Gruppen oder gemischten Finanzholding-Gruppen im Sinne des § 10a Absatz 2 Satz 1 des Kreditwesengesetzes sind der Anzeige die Angaben zum Lohngefälle des gruppenangehörigen CRR-Kreditinstituts mit der zum Meldestichtag höchsten Anzahl an Mitarbeitern, gemessen als Vollzeitäquivalent, zugrunde zu legen. Die Sätze 1 bis 3 gelten nicht für CRR-Kreditinstitute mit weniger als 50 Mitarbeitern unter Einbeziehung der Mitglieder der Geschäftsleitung. Die Anzeige erfolgt auf Einzelinstitutsebene für die im Inland tätigen Mitarbeiter und Geschäftsleiter.
+
+(5) Die Anzeigen nach den Absätzen 1 bis 4 sind im elektronischen Verfahren bei der Deutschen Bundesbank einzureichen. Die Deutsche Bundesbank veröffentlicht im Internet die für die Einreichung zu verwendenden Datenformate und den Einreichungsweg. Sie leitet die Anzeigen an die Aufsichtsbehörden weiter. Den Angaben nach den Absätzen 1 bis 4 sind die Begriffsbestimmungen und Regelungen des Kreditwesengesetzes und der Institutsvergütungsverordnung zugrunde zu legen. Die Angaben nach den Absätzen 1 bis 3 müssen sich jeweils auf die fixe und die variable Vergütung beziehen, die den Geschäftsleitern, Mitgliedern des Verwaltungs- oder Aufsichtsorgans oder den Mitarbeitern für deren Leistung während des bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres vor der Einreichung der Anzeige gewährt worden ist oder nach § 20 Absatz 4 Nummer 2 der Institutsvergütungsverordnung ermittelt worden ist. Die Angaben nach Absatz 4 müssen sich auf die Gesamtjahresvergütung beziehen, die den Geschäftsleitern und Mitarbeitern für deren Leistung während des bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres vor der Einreichung der Anzeige gewährt worden ist; dabei sind reguläre Beiträge des Arbeitgebers zur Sozialversicherung und zur Arbeitsförderung, garantierte variable Vergütungen und Abfindungen außen vor zu lassen. Bei Fremdwährungen ist der Umrechnungskurs der Europäischen Kommission für Finanzplanung und Haushalt im Dezember des Jahres zugrunde zu legen, für das die Anzeige erfolgt.
 
 # § 10 – Anzeigen nach § 24 Abs. 2 des Kreditwesengesetzes (Vereinigung von Instituten)
 
@@ -2921,38 +2925,92 @@ h. Gesamtaufwand pro Jahr in Tagen für alle Mandate, ohne das angezeigte Mandat
 
  
 
-# Anlage 13 – (zu § 9a Absatz 1 Satz 1 AnzV)
+# Anlage 13
 
-(Fundstelle: BGBl. I 2022, 2075)
+(Fundstelle: BGBl 2023 I Nr. 411, S. 68)
 
-<a href="../normengrafiken/bgbl1_2022/j2075_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Anlage 13 der Anzeigenverordnung enthält Tabelle R 01.00 mit dem Titel "Allgemeine Informationen und Informationen über die Vergütung aller Mitarbeiter“. In dieses Formular sind Eintragungen in den einzelnen Zellen nach Maßgabe der einzelnen Zeilen in Relation zu verschiedenen Gruppen von Mitarbeitern vorzunehmen, die sich aus der Bezeichnung der einzelnen Spalten ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0010.jpg)
 
-# Anlage 14 – (zu § 9a Absatz 1 Satz 1 AnzV)
+# Anlage 14
 
-(Fundstelle: BGBl. I 2022, 2076 - 2078)
+(Fundstelle: BGBl 2023 I Nr. 411, S. 69)
 
-<a href="../normengrafiken/bgbl1_2022/j2076_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Anlage 14 der Anzeigenverordnung enthält Tabelle R 02.00 mit dem Titel "Zusätzliche Informationen zur Vergütung von Risikoträgern“. In dieses Formular sind Eintragungen in den einzelnen Zellen nach Maßgabe der einzelnen Zeilen in Relation zu verschiedenen Gruppen von Mitarbeitern vorzunehmen, die sich aus der Bezeichnung der einzelnen Spalten ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0020.jpg)
 
-# Anlage 15 – (zu § 9a Absatz 1 Satz 1 AnzV)
+# Anlage 15
 
-(Fundstelle: BGBl. I 2022, 2079)
+(Fundstelle: BGBl 2023 I Nr. 411, S. 70)
 
-<a href="../normengrafiken/bgbl1_2022/j2079_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Anlage 15 der Anzeigenverordnung enthält Tabelle R 03.00 mit dem Titel "Informationen über Risikoträger mit Vergütungen von 1 Mio. EUR oder mehr pro Jahr“. In dieses Formular sind Eintragungen zur Anzahl der Risikoträger mit einer Vergütung von einer Million Euro oder mehr vorzunehmen, aufgeteilt auf Vergütungsstufen in Schritten von 500.000 Euro.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0030.jpg)
 
-# Anlage 16 – (zu § 9a Absatz 2 Satz 1 AnzV)
+# Anlage 16
 
-(Fundstelle: BGBl. I 2022, 2080 - 2081)
+(Fundstelle: BGBl 2023 I Nr. 411, S. 71)
 
-<a href="../normengrafiken/bgbl1_2022/j2080_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Anlage 16 der Anzeigenverordnung enthält Tabelle R 05.00 mit dem Titel "Ausnahmen von der Anwendung der Anforderungen zur Auszahlung von Teilen der variablen Vergütung im Rahmen von Zurückbehaltungsregelungen und in Instrumenten nach der Richtlinie 2013/36/EU (CRD)“. In dieses Formular sind Eintragungen in den einzelnen Zellen nach Maßgabe der einzelnen Zeilen vorzunehmen, die sich aus der Bezeichnung der einzelnen Spalten ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0040.jpg)
 
-# Anlage 17 – (zu § 9a Absatz 2 Satz 2 AnzV)
+# Anlage 17
 
-(Fundstelle: BGBl. I 2022, 2082)
+(Fundstelle: BGBl 2023 I Nr. 411, S. 72)
 
-<a href="../normengrafiken/bgbl1_2022/j2082_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Anlage 17 der Anzeigenverordnung enthält Tabelle R 09.00 mit dem Titel "Für das Geschäftsjahr gewährte Vergütung“. In dieses Formular sind Eintragungen in den einzelnen Zellen nach Maßgabe der einzelnen Zeilen in Relation zu verschiedenen Gruppen von Mitarbeitern vorzunehmen, die sich aus der Bezeichnung der einzelnen Spalten ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0050.jpg)
 
-# Anlage 18 – (zu § 9a Absatz 2 Sätze 1 und 4 AnzV)
+# Anlage 18
 
-(Fundstelle: BGBl. I 2022, 2083 - 2086)
+(Fundstelle: BGBl 2023 I Nr. 411, S. 73)
 
-<a href="../normengrafiken/bgbl1_2022/j2083_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Anlage 18 der Anzeigenverordnung enthält Tabelle R 10.00 mit dem Titel "Besondere Arten der Vergütung an Risikoträger“. In dieses Formular sind Eintragungen in den einzelnen Zellen nach Maßgabe der einzelnen Zeilen in Relation zu verschiedenen Gruppen von Mitarbeitern vorzunehmen, die sich aus der Bezeichnung der einzelnen Spalten ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0060.jpg)
+
+# Anlage 19
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 74)
+
+![Anlage 19 der Anzeigenverordnung enthält Tabelle R 11.00 mit dem Titel "Zurückbehaltene Vergütung“. In dieses Formular sind Eintragungen in den einzelnen Zellen nach Maßgabe der einzelnen Spalten in Relation zu verschiedenen Gruppen von Mitarbeitern vorzunehmen, die sich aus der Bezeichnung der einzelnen Zeilen ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0070.jpg)
+
+# Anlage 20
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 75)
+
+![Anlage 20 der Anzeigenverordnung enthält Tabelle R 12.00.a mit dem Titel "Angaben zur Vergütung der Risikoträger (I)“. In dieses Formular sind Eintragungen in den einzelnen Zellen nach Maßgabe der einzelnen Zeilen in Relation zu verschiedenen Gruppen von Mitarbeitern vorzunehmen, die sich aus der Bezeichnung der einzelnen Spalten ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0080.jpg)
+
+# Anlage 21
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 76)
+
+![Anlage 21 der Anzeigenverordnung enthält Tabelle R 12.00.b mit dem Titel "Angaben zur Vergütung der Risikoträger (II)“. In dieses Formular sind Eintragungen in den einzelnen Zellen nach Maßgabe der einzelnen Zeilen in Relation zu verschiedenen Geschäftsbereichen vorzunehmen, die sich aus der Bezeichnung der einzelnen Spalten ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0090.jpg)
+
+# Anlage 22
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 77)
+
+![Anlage 22 der Anzeigenverordnung enthält Tabelle R 04.00.a mit dem Titel "Information über die Vergütung der Einkommensmillionäre (I)“. In dieses Formular sind Eintragungen in den einzelnen Zellen nach Maßgabe der einzelnen Zeilen in Relation zu verschiedenen Gruppen von Mitarbeitern vorzunehmen, die sich aus der Bezeichnung der einzelnen Spalten ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0100.jpg)
+
+# Anlage 23
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 78)
+
+![Anlage 23 der Anzeigenverordnung enthält Tabelle R 04.00.b mit dem Titel "Information über die Vergütung der Einkommensmillionäre (II)“. In dieses Formular sind Eintragungen in den einzelnen Zellen nach Maßgabe der einzelnen Zeilen in Relation zu verschiedenen Gruppen von Mitarbeitern vorzunehmen, die sich aus der Bezeichnung der einzelnen Spalten ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0110.jpg)
+
+# Anlage 24
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 79)
+
+![Anlage 24 der Anzeigenverordnung enthält Tabelle R 04.00.c mit dem Titel "Information über die Vergütung der Einkommensmillionäre (III)“. In dieses Formular sind Eintragungen in den einzelnen Zellen der Zeile in Relation zu verschiedenen Gruppen von Mitarbeitern vorzunehmen, die sich aus der Bezeichnung der einzelnen Spalten ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0120.jpg)
+
+# Anlage 25
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 80)
+
+![Anlage 25 der Anzeigenverordnung enthält Tabelle R 07.00 mit dem Titel "Gebilligte höhere Höchstwerte für das Verhältnis zwischen variabler und fester Vergütung - Institute“. In dieses Formular sind in den einzelnen Zellen die Werte zu verschiedenen Gruppen von Mitarbeitern einzutragen, die sich aus der Bezeichnung der einzelnen Zeilen ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0130.jpg)
+
+# Anlage 26
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 81)
+
+![Anlage 26 der Anzeigenverordnung enthält Tabelle R 06.00.a mit dem Titel "Informationen zum geschlechtsspezifischen Lohngefälle (I)“. In dieses Formular ist in den einzelnen Zellen die Anzahl nach Köpfen von verschiedenen Gruppen von Mitarbeitern einzutragen, die sich aus der Bezeichnung der einzelnen Zeilen ergibt.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0140.jpg)
+
+# Anlage 27
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 82)
+
+![Anlage 27 der Anzeigenverordnung enthält Tabelle R 06.00.b mit dem Titel "Informationen zum geschlechtsspezifischen Lohngefälle (II)“. In dieses Formular sind in den einzelnen Zellen Angaben zum Geschlechterverhältnis und zum geschlechtsspezifischen Lohngefälle zu verschiedenen Zeiträumen vorzunehmen, die sich aus der Bezeichnung der einzelnen Zeilen ergeben.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j04110_0150.jpg)

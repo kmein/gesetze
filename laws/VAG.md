@@ -1045,6 +1045,12 @@ Satz 1 ist entsprechend anzuwenden für Tatsachen und Entscheidungen, von denen 
 (+++ § 35 Abs. 1 Satz 1 Nr. 5, 6 u. 7: Zur Anwendung vgl. § 356 Satz 1 +++)  
 (+++ § 35 Abs. 1 Satz 1 Nr. 8: Zur Anwendung vgl. § 356 Satz 2 +++)
 
+# § 35a – Bestimmung von Prüfungsinhalten
+
+(1) Unbeschadet der besonderen Pflichten des Prüfers nach § 35 kann die Aufsichtsbehörde gegenüber dem Versicherungsunternehmen Bestimmungen über den Inhalt der Prüfung treffen, die vom Prüfer im Rahmen der Jahresabschlussprüfung zu berücksichtigen sind. Sie kann insbesondere Schwerpunkte für die Prüfungen festlegen.
+
+(2) Die Prüfungsanordnung soll dem Versicherungsunternehmen mit einem Vorlauf von mindestens drei Monaten zum Ende des Wirtschaftsjahres bekannt gegeben werden.
+
 # § 36 – Anzeige des Abschlussprüfers gegenüber der Aufsichtsbehörde; Prüfungsauftrag
 
 (1) Der Vorstand hat der Aufsichtsbehörde unverzüglich den vom Versicherungsunternehmen gewählten Abschlussprüfer anzuzeigen. Die Aufsichtsbehörde kann innerhalb von zwei Monaten nach Zugang der Anzeige die Bestellung eines anderen Prüfers verlangen, wenn dies zur Erreichung des Prüfungszwecks geboten ist. Die Bestellung eines anderen Prüfers ist in der Regel zur Erreichung des Prüfungszwecks geboten, wenn der Vorstand eines Versicherungsunternehmens, das kein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 3 des Handelsgesetzbuchs ist, der Aufsichtsbehörde für mindestens elf aufeinanderfolgende Geschäftsjahre denselben Prüfer angezeigt hat.
@@ -1090,9 +1096,9 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Absatz 5 des Handelsgese
 
 1. die Buchführung, den Inhalt, die Form, die Frist und die Stückzahl des bei der Aufsichtsbehörde einzureichenden internen Berichts, bestehend aus einer für Aufsichtszwecke gegliederten Bilanz und einer nach Versicherungszweigen und Versicherungsarten gegliederten Gewinn-und-Verlustrechnung sowie besonderen Erläuterungen zur Bilanz und zur Gewinn-und-Verlustrechnung, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist;
 
-2. den Inhalt, die Form und die Stückzahl des bei der Aufsichtsbehörde vierteljährlich einzureichenden internen Zwischenberichts, bestehend aus einer Zusammenstellung aktueller Buchhaltungs- und Bestandsdaten sowie aus Angaben über die Anzahl der Versicherungsfälle, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist;
+2. den Inhalt, die Form, die Frist und die Stückzahl des bei der Aufsichtsbehörde vierteljährlich einzureichenden internen Zwischenberichts, bestehend aus einer Zusammenstellung aktueller Buchhaltungs- und Bestandsdaten sowie aus Angaben über die Anzahl der Versicherungsfälle, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist;
 
-3. den Inhalt, die Form und die Frist der Prüfungsberichte nach § 35 Absatz 1 und 2 sowie § 341k des Handelsgesetzbuchs, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist, insbesondere, um einheitliche Unterlagen zur Beurteilung der von den Versicherungsunternehmen durchgeführten Versicherungsgeschäfte zu erhalten;
+3. den Gegenstand der Prüfung nach § 35 Absatz 1 sowie den Inhalt, die Form und die Frist der Prüfungsberichte nach § 35 Absatz 1 und 2 sowie den Inhalt, die Frist und die Form der Einreichung der Prüfungsberichte bei der Aufsichtsbehörde nach § 341k des Handelsgesetzbuchs, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist, insbesondere, um einheitliche Unterlagen zur Beurteilung der von den Versicherungsunternehmen durchgeführten Versicherungsgeschäfte zu erhalten;
 
 3a. den Zeitpunkt der Prüfung nach § 35 Absatz 5 sowie den Inhalt, die Form und die Frist des Berichts über diese Prüfung, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist;
 
@@ -4253,13 +4259,13 @@ Das Bundesministerium der Finanzen wird ermächtigt, für Pensionsfonds, die nic
 
 1. den Wortlaut der versicherungsmathematischen Bestätigung, den Inhalt, den Umfang und die Vorlagefrist des Erläuterungsberichts gemäß § 141 Absatz 5 Satz 1 Nummer 2 sowie über den Inhalt, den Umfang und die Vorlagefrist des Berichts gemäß § 141 Absatz 5 Satz 1 Nummer 4, jeweils in Verbindung mit § 237 Absatz 1;
 
-2. die Buchführung, den Inhalt, die Form und die Stückzahl des bei der Aufsichtsbehörde einzureichenden internen Berichts, bestehend aus einer für Aufsichtszwecke gegliederten Bilanz und einer Gewinn-und-Verlustrechnung sowie besonderen Erläuterungen zur Bilanz und zur Gewinn-und-Verlustrechnung, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist;
+2. die Buchführung, den Inhalt, die Form, die Frist und die Stückzahl des bei der Aufsichtsbehörde einzureichenden internen Berichts, bestehend aus einer für Aufsichtszwecke gegliederten Bilanz und einer Gewinn-und-Verlustrechnung sowie besonderen Erläuterungen zur Bilanz und zur Gewinn-und-Verlustrechnung, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist;
 
-3. den Inhalt, die Form und die Stückzahl des bei der Aufsichtsbehörde vierteljährlich einzureichenden internen Zwischenberichts, bestehend aus einer Zusammenstellung von aktuellen Buchhaltungs-und Bestandsdaten sowie aus Angaben über die Anzahl der Versorgungsfälle, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist;
+3. den Inhalt, die Form, die Frist und die Stückzahl des bei der Aufsichtsbehörde vierteljährlich einzureichenden internen Zwischenberichts, bestehend aus einer Zusammenstellung von aktuellen Buchhaltungs-und Bestandsdaten sowie aus Angaben über die Anzahl der Versorgungsfälle, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist;
 
-4. den Inhalt des Prüfungsberichts nach § 341k des Handelsgesetzbuchs, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist, insbesondere, um einheitliche Unterlagen zur Beurteilung der von den Pensionsfonds durchgeführten Geschäfte zu erhalten;
+4. den Inhalt, die Frist und die Form der Einreichung des bei der Aufsichtsbehörde einzureichenden Prüfungsberichts nach § 341k des Handelsgesetzbuchs, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist, insbesondere, um einheitliche Unterlagen zur Beurteilung der von den Pensionsfonds durchgeführten Geschäfte zu erhalten;
 
-5. den Inhalt des Prüfungsberichts gemäß § 35 Absatz 1 Satz 1, soweit dies zur Erfüllung der Aufgaben der Aufsichtsbehörde erforderlich ist, insbesondere, um einheitliche Unterlagen zur Beurteilung der von den Pensionsfonds durchgeführten Geschäfte zu erhalten;
+5. den Gegenstand der Prüfung sowie den Inhalt, die Form und die Frist des Prüfungsberichts gemäß § 35 Absatz 1 Satz 1, soweit dies zur Erfüllung der Aufgaben der Aufsichtsbehörde erforderlich ist, insbesondere, um einheitliche Unterlagen zur Beurteilung der von den Pensionsfonds durchgeführten Geschäfte zu erhalten;
 
 6. die Art und Weise der Datenübermittlung, die zu verwendenden Datenformate sowie die einzuhaltende Datenqualität;
 
@@ -5585,7 +5591,7 @@ Die Aufsichtsbehörde kann nach Anhörung der Spitzenverbände der Unternehmen i
 
 1. Strafverfolgungsbehörden oder für Straf- und Bußgeldsachen zuständige Gerichte,
 
-2. kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von Versicherungsunternehmen, Versicherungsvermittlern, Kreditinstituten, Wertpapierinstituten, Kapitalverwaltungsgesellschaften, extern verwalteten Investmentgesellschaften, EU-Verwaltungsgesellschaften oder ausländischen AIF-Verwaltungsgesellschaften, Finanzunternehmen, der Finanzmärkte oder des Zahlungsverkehrs oder mit der Geldwäscheprävention betraute Stellen sowie von diesen beauftragte Personen,
+2. kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von Versicherungsunternehmen, Versicherungsvermittlern, Kreditinstituten, Wertpapierinstituten, Schwarmfinanzierungsdienstleistern, Kapitalverwaltungsgesellschaften, extern verwalteten Investmentgesellschaften, EU-Verwaltungsgesellschaften oder ausländischen AIF-Verwaltungsgesellschaften, Finanzunternehmen, der Finanzmärkte oder des Zahlungsverkehrs oder mit der Geldwäscheprävention betraute Stellen sowie von diesen beauftragte Personen,
 
 3. mit der Liquidation oder Insolvenz eines Versicherungsunternehmens, eines Kreditinstituts, eines Finanzdienstleistungsinstituts, einer Investmentgesellschaft oder eines anderen Finanzinstituts befasste Stellen,
 

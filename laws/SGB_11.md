@@ -2038,7 +2038,7 @@ Pflegepersonen im Sinne dieses Buches sind Personen, die nicht erwerbsmäßig ei
 
 5. Personen, die in Einrichtungen der Jugendhilfe, in Berufsbildungswerken oder in ähnlichen Einrichtungen für behinderte Menschen für eine Erwerbstätigkeit befähigt werden sollen,
 
-6. Teilnehmer an Leistungen zur Teilhabe am Arbeitsleben sowie an Berufsfindung oder Arbeitserprobung, es sei denn, die Leistungen werden nach den Vorschriften des Vierzehnten Buches erbracht,
+6. Teilnehmer an Leistungen zur Teilhabe am Arbeitsleben sowie an Berufsfindung oder Arbeitserprobung, es sei denn, sie gehören zu dem Personenkreis des § 151 des Vierzehnten Buches,
 
 7. behinderte Menschen, die in anerkannten Werkstätten für behinderte Menschen oder in Blindenwerkstätten im Sinne des § 226 des Neunten Buches oder für diese Einrichtungen in Heimarbeit oder bei einem anderen Leistungsanbieter nach § 60 des Neunten Buches tätig sind,
 
@@ -2065,6 +2065,8 @@ Pflegepersonen im Sinne dieses Buches sind Personen, die nicht erwerbsmäßig ei
 Versicherungspflicht in der sozialen Pflegeversicherung besteht auch für Personen mit Wohnsitz oder gewöhnlichem Aufenthalt im Inland, die
 
 1. nach dem Bundesversorgungsgesetz oder nach Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, bis zu deren Außerkrafttreten einen Anspruch auf Heilbehandlung oder Krankenbehandlung hatten,
+
+1a. nach § 42 Absatz 2, 3 oder 4 des Vierzehnten Buches leistungsberechtigt sind,
 
 2. Kriegsschadenrente oder vergleichbare Leistungen nach dem Lastenausgleichsgesetz oder dem Reparationsschädengesetz oder laufende Beihilfe nach dem Flüchtlingshilfegesetz beziehen,
 

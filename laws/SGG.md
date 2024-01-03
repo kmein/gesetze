@@ -978,7 +978,7 @@ Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 
 # § 84
 
-(1) Der Widerspruch ist binnen eines Monats, nachdem der Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich, in elektronischer Form nach § 36a Absatz 2 des Ersten Buches Sozialgesetzbuch oder zur Niederschrift bei der Stelle einzureichen, die den Verwaltungsakt erlassen hat. Die Frist beträgt bei Bekanntgabe im Ausland drei Monate.
+(1) Der Widerspruch ist binnen eines Monats, nachdem der Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich, in elektronischer Form nach § 36a Absatz 2 des Ersten Buches Sozialgesetzbuch, schriftformersetzend nach § 36a Absatz 2a des Ersten Buches Sozialgesetzbuch und § 9a Absatz 5 des Onlinezugangsgesetzes oder zur Niederschrift bei der Stelle einzureichen, die den Verwaltungsakt erlassen hat. Die Frist beträgt bei Bekanntgabe im Ausland drei Monate.
 
 (2) Die Frist zur Erhebung des Widerspruchs gilt auch dann als gewahrt, wenn die Widerspruchsschrift bei einer anderen inländischen Behörde oder bei einem Versicherungsträger oder bei einer deutschen Konsularbehörde oder, soweit es sich um die Versicherung von Seeleuten handelt, auch bei einem deutschen Seemannsamt eingegangen ist. Die Widerspruchsschrift ist unverzüglich der zuständigen Behörde oder dem zuständigen Versicherungsträger zuzuleiten, der sie der für die Entscheidung zuständigen Stelle vorzulegen hat. Im übrigen gelten die §§ 66 und 67 entsprechend.
 

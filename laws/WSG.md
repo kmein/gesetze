@@ -97,19 +97,23 @@ Im Fall einer Besoldungsanpassung nach § 14 Absatz 1 des Bundesbesoldungsgesetz
 
 (4) Soldatinnen und Soldaten erhalten kein Entlassungsgeld, wenn sie
 
-1. entlassen werden
+1. entlassen werden nach
 
-a) nach § 75 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
+a) § 46 Absatz 1 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
 
-b) nach § 75 Absatz 1 Satz 2 Nummer 6 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
+b) § 75 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
 
-c) nach § 75 Absatz 1 Satz 2 Nummer 10 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes, sofern sie ihre Dienstunfähigkeit vorsätzlich herbeigeführt haben, oder
+c) § 75 Absatz 1 Satz 2 Nummer 6 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
 
-d) nach § 75 Absatz 2 Nummer 2 oder Nummer 3 jeweils in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
+d) § 75 Absatz 1 Satz 2 Nummer 7 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
+
+e) § 75 Absatz 1 Satz 2 Nummer 11 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes, sofern sie ihre Dienstunfähigkeit vorsätzlich herbeigeführt haben, oder
+
+f) § 75 Absatz 2 Nummer 2 oder Nummer 3 jeweils in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
 
 2. nach § 76 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes aus der Bundeswehr ausgeschlossen werden oder
 
-3. innerhalb eines Jahres nach Beendigung des freiwilligen Wehrdienstes in ein Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit berufen werden (§ 40 des Soldatengesetzes).
+3. innerhalb eines Jahres nach Beendigung des freiwilligen Wehrdienstes nach § 40 des Soldatengesetzes in ein Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit berufen werden.
 
 # § 9 – Vergütung für herausgehobene Funktionen
 

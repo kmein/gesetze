@@ -117,7 +117,7 @@ Ein Reservewehrdienstverhältnis endet
 
 (1) Soldatinnen und Soldaten sind mit Ablauf des Monats, in dem sie das 65. Lebensjahr vollenden, aus dem Reservewehrdienstverhältnis entlassen.
 
-(2) § 46 Absatz 2 Satz 1 Nummer 1 bis 4, 7 und 8 des Soldatengesetzes gilt entsprechend.
+(2) § 46 Absatz 2 Satz 1 Nummer 1 bis 4, 7, 8 und Absatz 2a des Soldatengesetzes gilt entsprechend.
 
 (3) Aus dem Reservewehrdienstverhältnis ist zu entlassen, wer
 

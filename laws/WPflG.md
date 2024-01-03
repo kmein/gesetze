@@ -512,7 +512,7 @@ Zum Wehrdienst wird nicht herangezogen, wer nicht wehrdienstfähig ist.
 
 Vom Wehrdienst ist ausgeschlossen,
 
-1. wer durch ein deutsches Gericht wegen eines Verbrechens zu Freiheitsstrafe von mindestens einem Jahr oder wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von sechs Monaten oder mehr verurteilt worden ist, es sei denn, dass die Eintragung über die Verurteilung im Zentralregister getilgt ist,
+1. wer durch ein deutsches Gericht wegen eines Verbrechens zu Freiheitsstrafe von mindestens einem Jahr oder wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat, Gefährdung der äußeren Sicherheit oder Volksverhetzung strafbar ist, zu Freiheitsstrafe von sechs Monaten oder mehr verurteilt worden ist, es sei denn, dass die Eintragung über die Verurteilung im Zentralregister getilgt ist,
 
 2. wer infolge Richterspruchs die Fähigkeit zur Bekleidung öffentlicher Ämter nicht besitzt,
 
@@ -944,13 +944,15 @@ Im Übrigen ist er zu entlassen, wenn
 
 5. nach dem bisherigen Verhalten durch sein Verbleiben in der Bundeswehr die militärische Ordnung oder die Sicherheit der Truppe ernstlich gefährdet würde,
 
-6. er als Kriegsdienstverweigerer anerkannt ist, soweit er nicht nach § 19 Absatz 2 des Zivildienstgesetzes in den Zivildienst überführt wird,
+6. bei ihm die Voraussetzungen des § 46 Absatz 2a des Soldatengesetzes vorliegen,
 
-7. er seiner Aufstellung für die Wahl zum Deutschen Bundestag, zu einem Landtag oder zum Europäischen Parlament zugestimmt hat,
+7. er als Kriegsdienstverweigerer anerkannt ist, soweit er nicht nach § 19 Absatz 2 des Zivildienstgesetzes in den Zivildienst überführt wird,
 
-8. er unabkömmlich gestellt ist,
+8. er seiner Aufstellung für die Wahl zum Deutschen Bundestag, zu einem Landtag oder zum Europäischen Parlament zugestimmt hat,
 
-9. er nach § 12 Absatz 7 zurückgestellt ist.
+9. er unabkömmlich gestellt ist,
+
+10. er nach § 12 Absatz 7 zurückgestellt ist.
 
 (2) Er ist ferner zu entlassen, wenn er wegen seines körperlichen Zustandes oder aus gesundheitlichen Gründen zur Erfüllung seiner Dienstpflichten dauernd unfähig (dienstunfähig) ist. Auf seinen Antrag kann er auch dann entlassen werden, wenn die Wiederherstellung seiner Dienstfähigkeit innerhalb der gesetzlichen Wehrdienstzeit nicht zu erwarten ist. Er ist verpflichtet, sich von Ärzten der Bundeswehr oder von hierzu bestimmten Ärzten untersuchen zu lassen. Auf die Untersuchung ist § 17 Absatz 6 anzuwenden. Das Recht des Soldaten, darüber hinaus Gutachten von Ärzten seiner Wahl einzuholen, bleibt unberührt. Die über die Entlassung entscheidende Dienststelle kann auch andere Beweise erheben.
 
@@ -986,7 +988,7 @@ Ist ein Soldat während einer besonderen Auslandsverwendung wegen Verschleppung,
 
 # § 30 – Ausschluss aus der Bundeswehr und Verlust des Dienstgrades
 
-(1) Ein Soldat, der nach Maßgabe dieses Gesetzes Wehrdienst leistet, ist aus der Bundeswehr ausgeschlossen, wenn gegen ihn durch Urteil eines deutschen Gerichts auf die in § 10 bezeichneten Strafen, Maßregeln oder Nebenfolgen erkannt wird. Er verliert seinen Dienstgrad; dies gilt auch, wenn er wegen schuldhafter Verletzung seiner Dienstpflichten nach § 29 Absatz 1 Satz 3 Nummer 5 entlassen wird.
+(1) Ein Soldat, der nach Maßgabe dieses Gesetzes Wehrdienst leistet, ist aus der Bundeswehr ausgeschlossen, wenn gegen ihn durch Urteil eines deutschen Gerichts auf die in § 10 bezeichneten Strafen, Maßregeln oder Nebenfolgen erkannt wird. Er verliert seinen Dienstgrad; dies gilt auch, wenn er wegen schuldhafter Verletzung seiner Dienstpflichten nach § 29 Absatz 1 Satz 3 Nummer 5 oder nach § 29 Absatz 1 Satz 3 Nummer 6 entlassen wird.
 
 (2) Ein Wehrpflichtiger verliert seinen Dienstgrad, wenn gegen ihn durch ein deutsches Gericht erkannt wird
 

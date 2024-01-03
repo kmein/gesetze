@@ -1363,7 +1363,7 @@ Betriebs- oder Haushaltshilfe kann auch erbracht werden, wenn im übrigen Leistu
 
 Betriebs- oder Haushaltshilfe wird grundsätzlich bis zu einer Dauer von höchstens drei Monaten erbracht. Betriebs- oder Haushaltshilfe kann bei Inanspruchnahme einer Leistung nach § 31 Absatz 1 Nummer 2 des Sechsten Buches Sozialgesetzbuch auch an Bezieher einer Rente erbracht werden.
 
-(3) Als Betriebs- oder Haushaltshilfe wird eine Ersatzkraft gestellt. Kann eine Ersatzkraft nicht gestellt werden oder besteht Grund, davon abzusehen, werden die Kosten für eine selbstbeschaffte betriebsfremde Ersatzkraft in angemessener Höhe erstattet. Für Verwandte und Verschwägerte bis zum zweiten Grade werden Kosten nicht erstattet; die erforderlichen Fahrkosten und der Verdienstausfall können jedoch erstattet werden, wenn die Erstattung in einem angemessenen Verhältnis zu den sonst für eine Ersatzkraft entstehenden Kosten steht.
+(3) Als Betriebs- oder Haushaltshilfe wird eine Ersatzkraft gestellt. Kann eine Ersatzkraft nicht gestellt werden oder besteht Grund, davon abzusehen, werden die Kosten für eine selbstbeschaffte betriebsfremde Ersatzkraft in angemessener Höhe erstattet. Das Nähere zur Angemessenheit der Kosten für eine selbstbeschaffte betriebsfremde Ersatzkraft bestimmt die Satzung. Diese kann die Erstattungsfähigkeit der Kosten für selbstbeschaffte betriebsfremde Ersatzkräfte begrenzen. Für Verwandte und Verschwägerte bis zum zweiten Grade werden Kosten nicht erstattet; die erforderlichen Fahrkosten und der Verdienstausfall können jedoch erstattet werden, wenn die Erstattung in einem angemessenen Verhältnis zu den sonst für eine Ersatzkraft entstehenden Kosten steht.
 
 (4) (weggefallen)
 
@@ -1399,7 +1399,7 @@ Betriebs- oder Haushaltshilfe wird grundsätzlich bis zu einer Dauer von höchst
 
 3. sie vor Eintritt der Erwerbsminderung die Wartezeit von fünf Jahren erfüllt haben.
 
-Landwirte haben Anspruch auf Rente wegen voller Erwerbsminderung, wenn sie voll erwerbsgemindert nach § 43 des Sechsten Buches Sozialgesetzbuch sind und die sonstigen Voraussetzungen nach Satz 1 erfüllt sind.
+Landwirte haben Anspruch auf Rente wegen voller Erwerbsminderung, wenn sie voll erwerbsgemindert nach § 43 des Sechsten Buches Sozialgesetzbuch sind und die sonstigen Voraussetzungen nach Satz 1 erfüllt sind. § 43 Absatz 7 des Sechsten Buches Sozialgesetzbuch gilt entsprechend.
 
 (2) Der Zeitraum von fünf Jahren vor Eintritt der Erwerbsminderung verlängert sich um
 

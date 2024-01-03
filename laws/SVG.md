@@ -1310,7 +1310,7 @@ Kommt ein Soldat im Ruhestand entgegen den Vorschriften des § 50 Absatz 2 des S
 
 3. für jede Waise außerdem mit dem Ende des Monats, in dem sie das 18. Lebensjahr vollendet,
 
-4. für jeden Berechtigten, der durch ein deutsches Gericht im ordentlichen Strafverfahren wegen Verbrechens zu Freiheitsstrafe von mindestens zwei Jahren oder wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten verurteilt worden ist, mit der Rechtskraft des Urteils,
+4. für jeden Berechtigten, der durch ein deutsches Gericht im ordentlichen Strafverfahren wegen Verbrechens zu Freiheitsstrafe von mindestens zwei Jahren oder wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat, Gefährdung der äußeren Sicherheit oder Volksverhetzung strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten verurteilt worden ist, mit der Rechtskraft des Urteils,
 
 5. für jeden Berechtigten, der auf Grund einer Entscheidung des Bundesverfassungsgerichts gemäß Artikel 18 des Grundgesetzes ein Grundrecht verwirkt hat.
 
@@ -1961,6 +1961,22 @@ d) wenn die Gesundheitsstörung auf eigenen Vorsatz zurückzuführen ist.
 Satz 1 gilt nicht für die Zeit eines Aufschubs oder einer Unterbrechung der Zahlung der Übergangsgebührnisse nach § 11 Absatz 6 Satz 2.
 
 (2) Absatz 1 gilt nicht, wenn ein Soldat auf Zeit ohne Anspruch auf Versorgung mit Ausnahme der Beschädigtenversorgung aus dem Dienstverhältnis ausgeschieden oder wenn dieser Anspruch später aus einem anderen Grunde als dem des Ablaufs des Anspruchszeitraums weggefallen ist.
+
+# § 86b – Überbrückungsgeld
+
+(1) Einem Berufssoldaten, dem gegenüber eine vollziehbare Entlassungsverfügung nach § 46 Absatz 2a des Soldatengesetzes erlassen wurde, wird bis zur Unanfechtbarkeit der Entlassungsverfügung ein Überbrückungsgeld gewährt. Gleiches gilt für einen Soldaten auf Zeit, dem gegenüber nach Ableisten einer Wehrdienstzeit von mindestens vier Jahren eine vollziehbare Entlassungsverfügung nach § 55 Absatz 1 Satz 1 in Verbindung mit § 46 Absatz 2a des Soldatengesetzes erlassen wurde. War der Soldat im Zeitpunkt der Entlassung ohne Dienstbezüge beurlaubt, so erhält er das Überbrückungsgeld ab dem Zeitpunkt, zu dem die Beurlaubung geendet hätte. Wird die Entlassungsverfügung oder ihre Vollziehbarkeit aufgehoben, ist das geleistete Überbrückungsgeld auf nachzuzahlende Dienstbezüge anzurechnen.
+
+(2) Das Überbrückungsgeld beträgt die Hälfte der Dienstbezüge nach § 1 Absatz 2 Nummer 1, 3 und 4 des Bundesbesoldungsgesetzes, die der Soldat im letzten Monat vor Zustellung der Entlassungsverfügung erhalten hat oder erhalten hätte. § 17 Absatz 1 Satz 2 gilt entsprechend. Mindestens ist der sich aus der Pfändungsfreigrenzenbekanntmachung nach § 850c Absatz 4 Satz 1 Nummer 1 und 2 der Zivilprozessordnung ergebende monatliche Betrag zu gewähren.
+
+(3) Das Überbrückungsgeld wird wie die Dienstbezüge monatlich für die der Entlassung folgende Zeit gezahlt. Dem Soldaten auf Zeit ist das Überbrückungsgeld längstens bis zum Ende des Monats zu zahlen, in dem der Anspruch auf Übergangsgebührnisse nach § 11 bei regulärem Ablauf der Zeit, für die er in das Dienstverhältnis berufen war, geendet hätte. Führen die Hinterbliebenen das Verfahren nach dem Tod des Empfängers fort, so wird das Überbrückungsgeld bis zum rechtskräftigen Abschluss des zugrunde liegenden Verfahrens an die Hinterbliebenen weitergewährt.
+
+(4) Bezieht der Soldat Erwerbs- oder Erwerbsersatzeinkommen im Sinne des § 53 Absatz 5, verringert sich das Überbrückungsgeld um den Betrag dieser Einkünfte.
+
+(5) Der Anspruch auf das Überbrückungsgeld entfällt, wenn die Voraussetzungen für den Verlust der Rechtsstellung des Berufssoldaten nach § 48 des Soldatengesetzes oder des Soldaten auf Zeit nach § 54 Absatz 2 Nummer 2 des Soldatengesetzes vorliegen.
+
+(6) Wird die Entlassungsverfügung nach Abschluss des Verfahrens bestandskräftig, so haben der entlassene Soldat oder im Fall des Absatzes 3 Satz 3 die Hinterbliebenen das seit der Zustellung der Entlassungsverfügung gezahlte Überbrückungsgeld zu erstatten. Die Erstattungspflicht besteht nur, soweit die gezahlten Beträge den sich aus Absatz 2 Satz 3 ergebenden Betrag übersteigen.
+
+(7) Das Überbrückungsgeld wird auf Antrag gewährt.
 
 # § 87 – Dienstzeitversorgung
 

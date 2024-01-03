@@ -689,6 +689,8 @@ Voll erwerbsgemindert sind Versicherte, die wegen Krankheit oder Behinderung auf
 
 (6) Versicherte, die bereits vor Erfüllung der allgemeinen Wartezeit voll erwerbsgemindert waren und seitdem ununterbrochen voll erwerbsgemindert sind, haben Anspruch auf Rente wegen voller Erwerbsminderung, wenn sie die Wartezeit von 20 Jahren erfüllt haben.
 
+(7) Wird neben einer Rente nach Absatz 1 oder 2 unter den üblichen Bedingungen des allgemeinen Arbeitsmarktes eine Erwerbstätigkeit ausgeübt, deren Umfang das der Rentengewährung zugrunde liegende zeitliche Leistungsvermögen überschreitet, besteht für einen Zeitraum von regelmäßig sechs Monaten ab Beginn der Ausübung weiterhin Anspruch auf die gewährte Rente.
+
 # § 44
 
 (weggefallen)

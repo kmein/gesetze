@@ -289,7 +289,7 @@ Das Bundesministerium der Finanzen kann in der Rechtsverordnung die Anzeigepflic
 
 3. der Kredit nicht aus den für den Zweck der Ausführung eines Zahlungsvorgangs oder aus der Ausgabe von E-Geld entgegengenommenen oder gehaltenen Geldern gewährt wird.
 
-Satz 1 gilt für die Ausgabe von E-Geld entsprechend mit der Maßgabe, dass der Kredit auch nicht aus den im Austausch für die Ausgabe von E-Geld angenommenen Geldern gewährt werden darf. Eine Kreditgewährung durch ein Institut im Sinne dieses Gesetzes, die die Voraussetzungen des Satzes 1 erfüllt, gilt nicht als Kreditgeschäft im Sinne des § 1 Absatz 1 Satz 2 Nummer 2 des Kreditwesengesetzes. In diesem Fall prüft das Zahlungsinstitut vor Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über eine entgeltliche Finanzierungshilfe die Kreditwürdigkeit des Verbrauchers; § 18a Absatz 1 bis 10 des Kreditwesengesetzes gilt entsprechend.
+Satz 1 gilt für die Ausgabe von E-Geld entsprechend mit der Maßgabe, dass der Kredit auch nicht aus den im Austausch für die Ausgabe von E-Geld angenommenen Geldern gewährt werden darf. Eine Kreditgewährung durch ein Institut im Sinne dieses Gesetzes, die die Voraussetzungen des Satzes 1 erfüllt, gilt nicht als Kreditgeschäft im Sinne des § 1 Absatz 1 Satz 2 Nummer 2 des Kreditwesengesetzes. In diesem Fall prüft das Institut vor Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über eine entgeltliche Finanzierungshilfe die Kreditwürdigkeit des Verbrauchers; § 18a Absatz 1 bis 10 des Kreditwesengesetzes gilt entsprechend. Das Institut muss insbesondere über angemessene Strategien und Verfahren nach § 18a Absatz 8b des Kreditwesengesetzes verfügen.
 
 (+++ § 3: Zur Anwendung vgl. § 39 Abs. 3 +++)
 

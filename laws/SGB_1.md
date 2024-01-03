@@ -960,19 +960,37 @@ Sofern die Absätze 1 bis 5 nicht gemäß Satz 1 anzuwenden sind, gelten für de
 
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der Empfänger hierfür einen Zugang eröffnet.
 
-(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur versehen ist. Die Signierung mit einem Pseudonym, das die Identifizierung der Person des Signaturschlüsselinhabers nicht unmittelbar durch die Behörde ermöglicht, ist nicht zulässig. Die Schriftform kann auch ersetzt werden
+(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur versehen ist. Die Signierung mit einem Pseudonym, das die Identifizierung der Person des Signaturschlüsselinhabers nicht unmittelbar durch die Behörde ermöglicht, ist nicht zulässig.
 
-1. durch unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird;
+(2a) Die Schriftform kann auch ersetzt werden
 
-2. bei Anträgen und Anzeigen durch Versendung eines elektronischen Dokuments an die Behörde mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes;
+1. durch unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird, wenn
 
-3. bei elektronischen Verwaltungsakten oder sonstigen elektronischen Dokumenten der Behörden durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Bestätigung des akkreditierten Diensteanbieters die erlassende Behörde als Nutzer des De-Mail-Kontos erkennen lässt;
+a) bei einer Eingabe über öffentlich zugängliche Netze ein elektronischer Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erfolgt;
 
-4. durch sonstige sichere Verfahren, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, welche den Datenübermittler (Absender der Daten) authentifizieren und die Integrität des elektronisch übermittelten Datensatzes sowie die Barrierefreiheit gewährleisten; der IT-Planungsrat gibt Empfehlungen zu geeigneten Verfahren ab.
+b) bei der Kommunikation zwischen dem Versicherten und seiner Krankenkasse die Identität mit der elektronischen Gesundheitskarte nach § 291a des Fünften Buches oder mit der digitalen Identität nach § 291 Absatz 8 des Fünften Buches elektronisch nachgewiesen wird;
 
-In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich zugängliche Netze ein elektronischer Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen; in der Kommunikation zwischen dem Versicherten und seiner Krankenkasse kann die Identität auch mit der elektronischen Gesundheitskarte nach § 291a des Fünften Buches oder mit der digitalen Identität nach § 291 Absatz 8 des Fünften Buches elektronisch nachgewiesen werden.
+c) die Voraussetzungen nach § 9a Absatz 5 des Onlinezugangsgesetzes vorliegen;
 
-(2a) Ist durch Rechtsvorschrift die Verwendung eines bestimmten Formulars vorgeschrieben, das ein Unterschriftsfeld vorsieht, wird allein dadurch nicht die Anordnung der Schriftform bewirkt. Bei einer für die elektronische Versendung an die Behörde bestimmten Fassung des Formulars entfällt das Unterschriftsfeld.
+2. durch Übermittlung einer von dem Erklärenden elektronisch signierten Erklärung an die Behörde
+
+a) aus einem besonderen elektronischen Anwaltspostfach nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung oder aus einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach;
+
+b) aus einem elektronischen Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts, das nach Durchführung eines Identifizierungsverfahrens nach den Regelungen der auf Grund des § 130a Absatz 2 Satz 2 der Zivilprozessordnung erlassenen Rechtsverordnung eingerichtet wurde;
+
+c) aus einem elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung, das nach Durchführung eines Identifizierungsverfahrens nach den Regelungen der auf Grund des § 130a Absatz 2 Satz 2 der Zivilprozessordnung erlassenen Rechtsverordnung eingerichtet wurde;
+
+d) mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes;
+
+3. bei elektronischen Verwaltungsakten oder sonstigen elektronischen Dokumenten der Behörde
+
+a) indem diese mit dem qualifizierten elektronischen Siegel der Behörde versehen werden;
+
+b) durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Bestätigung des akkreditierten Diensteanbieters die erlassende Behörde als Nutzer des De-Mail-Kontos erkennen lässt.
+
+(2b) Ermöglicht die Behörde die unmittelbare Abgabe einer Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird, so hat sie dem Erklärenden vor Abgabe der Erklärung Gelegenheit zu geben, die gesamte Erklärung auf Vollständigkeit und Richtigkeit zu prüfen. Nach der Abgabe ist dem Erklärenden eine Kopie der Erklärung zur Verfügung zu stellen. Die Sätze 1 und 2 gelten nicht für Absatz 2a Nummer 1 Buchstabe c.
+
+(2c) Ist durch Rechtsvorschrift die Verwendung eines bestimmten Formulars vorgeschrieben, das ein Unterschriftsfeld vorsieht, wird allein dadurch nicht die Anordnung der Schriftform bewirkt. Bei einer für die elektronische Versendung an die Behörde bestimmten Fassung des Formulars entfällt das Unterschriftsfeld.
 
 (3) Ist ein der Behörde übermitteltes elektronisches Dokument für sie zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter Angabe der für sie geltenden technischen Rahmenbedingungen unverzüglich mit. Macht ein Empfänger geltend, er könne das von der Behörde übermittelte elektronische Dokument nicht bearbeiten, übermittelt sie es ihm erneut in einem geeigneten elektronischen Format oder als Schriftstück.
 
