@@ -2561,7 +2561,7 @@ d) die in § 47i genannten Behörden,
 
 3. die Angebote und Ergebnisse von Ausschreibungen über Lastflusszusagen.
 
-(11) Die Markttransparenzstelle kann festlegen, dass Marktgebietsverantwortliche im Sinne des § 2 Nummer 11 der Gasnetzzugangsverordnung Angaben zu folgenden Daten und Kategorien von Daten übermitteln:
+(11) Die Markttransparenzstelle kann festlegen, dass Marktgebietsverantwortliche im Sinne des § 3 Nummer 26a des Energiewirtschaftsgesetzes Angaben zu folgenden Daten und Kategorien von Daten übermitteln:
 
 1. die bestehenden Regelenergieverträge,
 

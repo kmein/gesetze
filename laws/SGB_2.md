@@ -195,7 +195,7 @@
 | § 65e | Übergangsregelung zur Aufrechnung                                                                                                                         |
 | § 66  | Rechtsänderungen bei Leistungen zur Eingliederung in Arbeit                                                                                               |
 | § 67  | Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung                                    |
-| § 68  | (weggefallen)                                                                                                                                             |
+| § 68  | Abweichende Leistungserbringung in Gemeinschaftsunterkünften                                                                                              |
 | § 69  | Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten                                                                           |
 | § 70  | Einmalzahlung aus Anlass der COVID-19-Pandemie                                                                                                            |
 | § 71  | Kinderfreizeitbonus und weitere Regelung aus Anlass der COVID-19-Pandemie                                                                                 |
@@ -207,7 +207,7 @@
 | § 77  | (weggefallen)                                                                                                                                             |
 | § 78  | (weggefallen)                                                                                                                                             |
 | § 79  | Achtes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch – Ergänzung personalrechtlicher Bestimmungen                                               |
-| § 80  | (weggefallen)                                                                                                                                             |
+| § 80  | Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts                                                                  |
 | § 81  | (weggefallen)                                                                                                                                             |
 | § 82  | Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung                                   |
 | § 83  | Übergangsregelung aus Anlass des Gesetzes zur Ermittlung der Regelbedarfe und zur Änderung des Zwölften Buches Sozialgesetzbuch sowie weiterer Gesetze    |
@@ -434,9 +434,9 @@ c) eine Person, die mit der erwerbsfähigen leistungsberechtigten Person in eine
 
 Die Sätze 1 und 3 Nummer 2 gelten für Bewohner von Räumlichkeiten im Sinne des § 42a Absatz 2 Satz 1 Nummer 2 und Satz 3 des Zwölften Buches entsprechend.
 
-(4a) (weggefallen)
+(4a) Personen, denen Leistungen zum Lebensunterhalt nach § 93 des Vierzehnten Buches zuerkannt worden sind, haben keinen Anspruch auf Leistungen zur Sicherung des Lebensunterhalts.
 
-(5) Auszubildende, deren Ausbildung im Rahmen des Bundesausbildungsförderungsgesetzes dem Grunde nach förderungsfähig ist, haben über die Leistungen nach § 27 hinaus keinen Anspruch auf Leistungen zur Sicherung des Lebensunterhalts. Satz 1 gilt auch für Auszubildende, deren Bedarf sich nach § 61 Absatz 2, § 62 Absatz 3, § 123 Nummer 2 sowie § 124 Nummer 2 des Dritten Buches bemisst.
+(5) Auszubildende, deren Ausbildung im Rahmen des Bundesausbildungsförderungsgesetzes dem Grunde nach förderungsfähig ist, haben über die Leistungen nach § 27 hinaus keinen Anspruch auf Leistungen zur Sicherung des Lebensunterhalts. Satz 1 gilt auch für Auszubildende, deren Bedarf sich nach § 61 Absatz 2, § 62 Absatz 3, § 123 Satz 1 Nummer 2 sowie § 124 Nummer 2 des Dritten Buches bemisst.
 
 (6) Absatz 5 Satz 1 ist nicht anzuwenden auf Auszubildende,
 
@@ -540,9 +540,9 @@ Für Abwesenheiten außerhalb des näheren Bereichs aufgrund der Ausübung einer
 
 1. Leistungen nach diesem Buch,
 
-2. die Grundrente nach dem Bundesversorgungsgesetz und nach den Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen,
+2. (weggefallen)
 
-3. die Renten oder Beihilfen, die nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit erbracht werden, bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz,
+3. die Renten oder Beihilfen, die nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit erbracht werden, bis zur Höhe der vergleichbaren Entschädigungszahlungen nach Kapitel 9 des Vierzehnten Buches,
 
 4. Aufwandspauschalen nach § 1878 des Bürgerlichen Gesetzbuchs kalenderjährlich bis zu dem in § 3 Nummer 26 Satz 1 des Einkommensteuergesetzes genannten Betrag,
 
@@ -550,7 +550,7 @@ Für Abwesenheiten außerhalb des näheren Bereichs aufgrund der Ausübung einer
 
 6. Mutterschaftsgeld nach § 19 des Mutterschutzgesetzes
 
-7. Erbschaften.
+7. Einmalige Einnahmen aus Erbschaften, Vermächtnissen und Pflichtteilszuwendungen.
 
 (2) Entschädigungen, die wegen eines Schadens, der kein Vermögensschaden ist, nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs geleistet werden, sind nicht als Einkommen zu berücksichtigen.
 
@@ -608,7 +608,7 @@ soweit die Beiträge nicht nach § 26 bezuschusst werden,
 
 8. bei erwerbsfähigen Leistungsberechtigten, deren Einkommen nach dem Vierten Abschnitt des Bundesausbildungsförderungsgesetzes oder nach § 67 oder § 126 des Dritten Buches bei der Berechnung der Leistungen der Ausbildungsförderung für mindestens ein Kind berücksichtigt wird, der nach den Vorschriften der Ausbildungsförderung berücksichtigte Betrag.
 
-Bei der Verteilung einer einmaligen Einnahme nach § 11 Absatz 3 Satz 4 sind die auf die einmalige Einnahme im Zuflussmonat entfallenden Beträge nach den Nummern 1, 2, 5 und 6 vorweg abzusetzen.
+Bei der Verteilung einer einmaligen Einnahme nach § 11 Absatz 3 sind die auf die einmalige Einnahme im Zuflussmonat entfallenden Beträge nach den Nummern 1, 2, 5 und 6 vorweg abzusetzen.
 
 (2) Bei erwerbsfähigen Leistungsberechtigten, die erwerbstätig sind, ist anstelle der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 ein Betrag von insgesamt 100 Euro monatlich von dem Einkommen aus Erwerbstätigkeit abzusetzen. Beträgt das monatliche Einkommen aus Erwerbstätigkeit mehr als 400 Euro, gilt Satz 1 nicht, wenn die oder der erwerbsfähige Leistungsberechtigte nachweist, dass die Summe der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 den Betrag von 100 Euro übersteigt.
 
@@ -662,7 +662,7 @@ Anstelle des Betrages von 1 200 Euro tritt für erwerbsfähige Leistungsberecht
 
 (5) Das Vermögen ist mit seinem Verkehrswert zu berücksichtigen. Für die Bewertung ist der Zeitpunkt maßgebend, in dem der Antrag auf Bewilligung oder erneute Bewilligung der Leistungen der Grundsicherung für Arbeitsuchende gestellt wird, bei späterem Erwerb von Vermögen der Zeitpunkt des Erwerbs.
 
-(6) Ist Bürgergeld unter Berücksichtigung des Einkommens nur für einen Monat zu erbringen, gilt keine Karenzzeit. Es wird vermutet, dass kein zu berücksichtigendes Vermögen vorhanden ist, wenn die Antragstellerin oder der Antragsteller dies im Antrag erklärt. Absatz 4 Satz 4 gilt entsprechend.
+(6) Ist Bürgergeld unter Berücksichtigung des Einkommens nur für einen Monat zu erbringen, gilt keine Karenzzeit. Es wird vermutet, dass kein zu berücksichtigendes Vermögen vorhanden ist, wenn die Antragstellerin oder der Antragsteller dies im Antrag erklärt. Absatz 4 Satz 5 gilt entsprechend.
 
 # § 12a – Vorrangige Leistungen
 
@@ -944,6 +944,8 @@ Erwerbsfähige Leistungsberechtigte erhalten einen Bonus in Höhe von 75 Euro f�
 
 (4) § 31 Absatz 1 Satz 1 Nummer 3 findet keine Anwendung.
 
+(5) Träger bedürfen einer Zulassung nach dem Fünften Kapitel des Dritten Buches, um Maßnahmen nach den Absätzen 1 und 2 durchzuführen oder durchführen zu lassen.
+
 # § 17 – Einrichtungen und Dienste für Leistungen zur Eingliederung
 
 (1) Zur Erbringung von Leistungen zur Eingliederung in Arbeit sollen die zuständigen Träger der Leistungen nach diesem Buch eigene Einrichtungen und Dienste nicht neu schaffen, soweit geeignete Einrichtungen und Dienste Dritter vorhanden sind, ausgebaut oder in Kürze geschaffen werden können. Die zuständigen Träger der Leistungen nach diesem Buch sollen Träger der freien Wohlfahrtspflege in ihrer Tätigkeit auf dem Gebiet der Grundsicherung für Arbeitsuchende angemessen unterstützen.
@@ -962,7 +964,7 @@ besteht. Die Vereinbarungen müssen den Grundsätzen der Wirtschaftlichkeit, Spa
 
 (1) Die zuständigen Träger der Leistungen arbeiten im Rahmen ihrer Aufgaben und Befugnisse mit den Gemeinden, Kreisen und Bezirken sowie den weiteren Beteiligten des örtlichen Ausbildungs- und Arbeitsmarktes zusammen, insbesondere mit den
 
-1. Leistungsträgern im Sinne des § 12 des Ersten Buches sowie Trägern von Leistungen nach dem Bundesversorgungsgesetz und dem Asylbewerberleistungsgesetz,
+1. Leistungsträgern im Sinne des § 12 des Ersten Buches sowie Trägern von Leistungen nach dem Asylbewerberleistungsgesetz,
 
 2. Vertreterinnen und Vertretern der Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer,
 
@@ -1100,7 +1102,7 @@ Höhere Aufwendungen sind abweichend von Satz 2 nur zu berücksichtigen, soweit 
 
 # § 22 – Bedarfe für Unterkunft und Heizung
 
-(1) Bedarfe für Unterkunft und Heizung werden in Höhe der tatsächlichen Aufwendungen anerkannt, soweit diese angemessen sind. Für die Anerkennung der Bedarfe für Unterkunft gilt eine Karenzzeit von einem Jahr ab Beginn des Monats, für den erstmals Leistungen nach diesem Buch bezogen werden. Innerhalb dieser Karenzzeit werden die Bedarfe für Unterkunft in Höhe der tatsächlichen Aufwendungen anerkannt; Satz 6 bleibt unberührt. Wird der Leistungsbezug in der Karenzzeit für mindestens einen Monat unterbrochen, verlängert sich die Karenzzeit um volle Monate ohne Leistungsbezug. Eine neue Karenzzeit beginnt, wenn zuvor mindestens drei Jahre keine Leistungen nach diesem oder dem Zwölften Buch bezogen worden sind. Erhöhen sich nach einem nicht erforderlichen Umzug die Aufwendungen für Unterkunft und Heizung, wird nur der bisherige Bedarf anerkannt. Soweit die Aufwendungen für die Unterkunft und Heizung den der Besonderheit des Einzelfalles angemessenen Umfang übersteigen, sind sie nach Ablauf der Karenzzeit als Bedarf so lange anzuerkennen, wie es der oder dem alleinstehenden Leistungsberechtigten oder der Bedarfsgemeinschaft nicht möglich oder nicht zuzumuten ist, durch einen Wohnungswechsel, durch Vermieten oder auf andere Weise die Aufwendungen zu senken, in der Regel jedoch längstens für sechs Monate. Nach Ablauf der Karenzzeit ist Satz 7 mit der Maßgabe anzuwenden, dass der Zeitraum der Karenzzeit nicht auf die in Satz 7 genannte Frist anzurechnen ist. Verstirbt ein Mitglied der Bedarfs- oder Haushaltsgemeinschaft und waren die Aufwendungen für die Unterkunft und Heizung davor angemessen, ist die Senkung der Aufwendungen für die weiterhin bewohnte Unterkunft für die Dauer von mindestens zwölf Monaten nach dem Sterbemonat nicht zumutbar. Eine Absenkung der nach Satz 1 unangemessenen Aufwendungen muss nicht gefordert werden, wenn diese unter Berücksichtigung der bei einem Wohnungswechsel zu erbringenden Leistungen unwirtschaftlich wäre.
+(1) Bedarfe für Unterkunft und Heizung werden in Höhe der tatsächlichen Aufwendungen anerkannt, soweit diese angemessen sind. Für die Anerkennung der Bedarfe für Unterkunft gilt eine Karenzzeit von einem Jahr ab Beginn des Monats, für den erstmals Leistungen nach diesem Buch bezogen werden. Innerhalb dieser Karenzzeit werden die Bedarfe für Unterkunft in Höhe der tatsächlichen Aufwendungen anerkannt; Satz 6 bleibt unberührt. Wird der Leistungsbezug in der Karenzzeit für mindestens einen Monat unterbrochen, verlängert sich die Karenzzeit um volle Monate ohne Leistungsbezug. Eine neue Karenzzeit beginnt, wenn zuvor mindestens drei Jahre keine Leistungen nach diesem oder dem Zwölften Buch bezogen worden sind. Erhöhen sich nach einem nicht erforderlichen Umzug die Aufwendungen für Unterkunft und Heizung, wird nur der bisherige Bedarf anerkannt. Soweit die Aufwendungen für Heizung und, nach Ablauf der Karenzzeit, die Aufwendungen der Unterkunft den der Besonderheit des Einzelfalles angemessenen Umfang übersteigen, sind sie als Bedarf so lange anzuerkennen, wie es der oder dem alleinstehenden Leistungsberechtigten oder der Bedarfsgemeinschaft nicht möglich oder nicht zuzumuten ist, durch einen Wohnungswechsel, durch Vermieten oder auf andere Weise die Aufwendungen zu senken, in der Regel jedoch längstens für sechs Monate. Nach Ablauf der Karenzzeit ist Satz 7 mit der Maßgabe anzuwenden, dass der Zeitraum der Karenzzeit nicht auf die in Satz 7 genannte Frist anzurechnen ist. Verstirbt ein Mitglied der Bedarfs- oder Haushaltsgemeinschaft und waren die Aufwendungen für die Unterkunft und Heizung davor angemessen, ist die Senkung der Aufwendungen für die weiterhin bewohnte Unterkunft für die Dauer von mindestens zwölf Monaten nach dem Sterbemonat nicht zumutbar. Eine Absenkung der nach Satz 1 unangemessenen Aufwendungen muss nicht gefordert werden, wenn diese unter Berücksichtigung der bei einem Wohnungswechsel zu erbringenden Leistungen unwirtschaftlich wäre.
 
 (1a) (weggefallen)
 
@@ -1150,7 +1152,7 @@ Der kommunale Träger hat die leistungsberechtigte Person über eine Zahlung der
 
 Außerdem kann der Tag der Rechtshängigkeit mitgeteilt werden. Die Übermittlung unterbleibt, wenn die Nichtzahlung der Miete nach dem Inhalt der Klageschrift offensichtlich nicht auf Zahlungsunfähigkeit der Mieterin oder des Mieters beruht.
 
-(10) Zur Beurteilung der Angemessenheit der Aufwendungen für Unterkunft und Heizung nach Absatz 1 Satz 1 ist die Bildung einer Gesamtangemessenheitsgrenze zulässig. Dabei kann für die Aufwendungen für Heizung der Wert berücksichtigt werden, der bei einer gesonderten Beurteilung der Angemessenheit der Aufwendungen für Unterkunft und der Aufwendungen für Heizung ohne Prüfung der Angemessenheit im Einzelfall höchstens anzuerkennen wäre. Absatz 1 Satz 2 bis 4 gilt entsprechend.
+(10) Zur Beurteilung der Angemessenheit der Aufwendungen für Unterkunft und Heizung nach Absatz 1 Satz 1 ist die Bildung einer Gesamtangemessenheitsgrenze zulässig. Dabei kann für die Aufwendungen für Heizung der Wert berücksichtigt werden, der bei einer gesonderten Beurteilung der Angemessenheit der Aufwendungen für Unterkunft und der Aufwendungen für Heizung ohne Prüfung der Angemessenheit im Einzelfall höchstens anzuerkennen wäre. Absatz 1 Satz 6 bis 10 gilt entsprechend.
 
 (11) Die für die Erstellung von Mietspiegeln nach § 558c Absatz 1 des Bürgerlichen Gesetzbuchs nach Landesrecht zuständigen Behörden sind befugt, die in Artikel 238 § 2 Absatz 2 Nummer 1 Buchstabe a, d und e des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Daten zu verarbeiten, soweit dies für die Erstellung von Übersichten über die Angemessenheit von Aufwendungen für eine Unterkunft nach Absatz 1 Satz 1 erforderlich ist. Erstellen die nach Landesrecht zuständigen Behörden solche Übersichten nicht, so sind sie befugt, die Daten nach Satz 1 auf Ersuchen an die kommunalen Träger der Grundsicherung für Arbeitsuchende für ihren örtlichen Zuständigkeitsbereich zu übermitteln, soweit dies für die Erstellung von Übersichten über die Angemessenheit von Aufwendungen für die Unterkunft erforderlich ist. Werden den kommunalen Trägern der Grundsicherung für Arbeitsuchende die Übersichten nicht zur Verfügung gestellt, so sind sie befugt, die Daten nach Satz 1 für ihren örtlichen Zuständigkeitsbereich bei den nach Landesrecht für die Erstellung von Mietspiegeln zuständigen Behörden zu erheben und in sonstiger Weise zu verarbeiten, soweit dies für die Erstellung von Übersichten über und die Bestimmung der Angemessenheit von Aufwendungen für die Unterkunft nach Absatz 1 Satz 1 erforderlich ist.
 
@@ -1230,7 +1232,7 @@ Beim Bürgergeld nach § 19 Absatz 1 Satz 2 gelten ergänzend folgende Maßgaben
 
 Leistungen für diese Bedarfe werden gesondert erbracht. Leistungen nach Satz 2 werden auch erbracht, wenn Leistungsberechtigte keine Leistungen zur Sicherung des Lebensunterhalts einschließlich der angemessenen Kosten für Unterkunft und Heizung benötigen, den Bedarf nach Satz 1 jedoch aus eigenen Kräften und Mitteln nicht voll decken können. In diesem Fall kann das Einkommen berücksichtigt werden, das Leistungsberechtigte innerhalb eines Zeitraumes von bis zu sechs Monaten nach Ablauf des Monats erwerben, in dem über die Leistung entschieden wird. Die Leistungen für Bedarfe nach Satz 1 Nummer 1 und 2 können als Sachleistung oder Geldleistung, auch in Form von Pauschalbeträgen, erbracht werden. Bei der Bemessung der Pauschalbeträge sind geeignete Angaben über die erforderlichen Aufwendungen und nachvollziehbare Erfahrungswerte zu berücksichtigen.
 
-(4) Leistungen zur Sicherung des Lebensunterhalts können als Darlehen erbracht werden, soweit in dem Monat, für den die Leistungen erbracht werden, voraussichtlich Einnahmen anfallen. Satz 1 gilt auch, soweit Leistungsberechtigte einmalige Einnahmen nach § 11 Absatz 3 Satz 4 vorzeitig verbraucht haben.
+(4) Leistungen zur Sicherung des Lebensunterhalts können als Darlehen erbracht werden, soweit in dem Monat, für den die Leistungen erbracht werden, voraussichtlich Einnahmen anfallen. Satz 1 gilt auch, soweit Leistungsberechtigte einmalige Einnahmen nach § 11 Absatz 3 vorzeitig verbraucht haben.
 
 (5) Soweit Leistungsberechtigten der sofortige Verbrauch oder die sofortige Verwertung von zu berücksichtigendem Vermögen nicht möglich ist oder für sie eine besondere Härte bedeuten würde, sind Leistungen als Darlehen zu erbringen. Die Leistungen können davon abhängig gemacht werden, dass der Anspruch auf Rückzahlung dinglich oder in anderer Weise gesichert wird.
 
@@ -1674,7 +1676,7 @@ Der Widerspruch ist zu begründen. Im Widerspruchsfall entscheidet die Agentur f
 
 (2) Die gutachterliche Stellungnahme des Rentenversicherungsträgers zur Erwerbsfähigkeit ist für alle gesetzlichen Leistungsträger nach dem Zweiten, Dritten, Fünften, Sechsten und Zwölften Buch bindend; § 48 des Zehnten Buches bleibt unberührt.
 
-(3) Entscheidet die Agentur für Arbeit, dass ein Anspruch auf Leistungen der Grundsicherung für Arbeitsuchende nicht besteht, stehen ihr und dem kommunalen Träger Erstattungsansprüche nach § 103 des Zehnten Buches zu, wenn der oder dem Leistungsberechtigten eine andere Sozialleistung zuerkannt wird. § 103 Absatz 3 des Zehnten Buches gilt mit der Maßgabe, dass Zeitpunkt der Kenntnisnahme der Leistungsverpflichtung des Trägers der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe der Tag des Widerspruchs gegen die Feststellung der Agentur für Arbeit ist.
+(3) Entscheidet die Agentur für Arbeit, dass ein Anspruch auf Leistungen der Grundsicherung für Arbeitsuchende nicht besteht, stehen ihr und dem kommunalen Träger Erstattungsansprüche nach § 103 des Zehnten Buches zu, wenn der oder dem Leistungsberechtigten eine andere Sozialleistung zuerkannt wird. § 103 Absatz 3 des Zehnten Buches gilt mit der Maßgabe, dass Zeitpunkt der Kenntnisnahme der Leistungsverpflichtung des Trägers der Sozialhilfe, der Sozialen Entschädigung nach dem Vierzehnten Buch, soweit er Besondere Leistungen im Einzelfall erbringt, und der Jugendhilfe der Tag des Widerspruchs gegen die Feststellung der Agentur für Arbeit ist.
 
 (4) Die Agentur für Arbeit stellt fest, ob und in welchem Umfang die erwerbsfähige Person und die dem Haushalt angehörenden Personen hilfebedürftig sind. Sie ist dabei und bei den weiteren Entscheidungen nach diesem Buch an die Feststellung der Angemessenheit der Kosten für Unterkunft und Heizung durch den kommunalen Träger gebunden. Die Agentur für Arbeit stellt fest, ob die oder der erwerbsfähige Leistungsberechtigte oder die dem Haushalt angehörenden Personen vom Bezug von Leistungen nach diesem Buch ausgeschlossen sind.
 
@@ -2256,7 +2258,23 @@ Der zuständige Träger der Leistungen nach diesem Buch kann mit Zustimmung des 
 
 (+++ § 67 Abs. 1 iVm Abs. 5: Zeitraum bis zum 31.12.2022 verlängert, vgl. § 1 Abs. 1 V 860-2-20 v. 10.3.2022 I 426, 427 (VZVV 2022) +++)
 
-# § 68 – (weggefallen)
+# § 68 – Abweichende Leistungserbringung in Gemeinschaftsunterkünften
+
+Ist eine leistungsberechtigte Person in einer Gemeinschaftsunterkunft ohne Selbstversorgungsmöglichkeit untergebracht, kann der Anspruch auf Bürgergeld, soweit er sich auf die Bedarfe für Ernährung und Haushaltsenergie bezieht, in Form von Sachleistungen erfüllt werden. Der Wert der Sachleistung nach Satz 1 beträgt
+
+1. bei Erwachsenen, bei denen der Regelbedarf für eine alleinstehende Person anerkannt wird, 186 Euro,
+
+2. bei Erwachsenen, die mit einem Partner zusammenleben, 167 Euro,
+
+3. bei jungen Erwachsenen, die das 18. Lebensjahr vollendet, aber das 25. Lebensjahr noch nicht vollendet haben 149 Euro,
+
+4. bei Jugendlichen von 14 bis unter 18 Jahren 178 Euro,
+
+5. bei Kindern von sechs bis unter 14 Jahren 131 Euro und
+
+6. bei Kindern von null bis unter 6 Jahren 98 Euro.
+
+Wird die Sachleistung im Auftrag oder mit Zustimmung der Agentur für Arbeit durch einen anderen öffentlich-rechtlichen Träger oder einen privaten Dritten erbracht, gilt dies als Leistung nach diesem Buch. Die Agentur für Arbeit hat dem öffentlich-rechtlichen Träger der Gemeinschaftsunterkunft oder, soweit ein solcher nicht vorhanden ist, dem privaten Betreiber der Gemeinschaftsunterkunft Aufwendungen für die Verpflegung einschließlich Haushaltsstrom in Höhe der in Satz 2 benannten Beträge zu erstatten.
 
 # § 69 – Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten
 
@@ -2320,7 +2338,9 @@ Leistungsberechtigte, die für den Monat Juli 2022 Anspruch auf Arbeitslosengeld
 
 (2) Eine spätere Zuweisung von Tätigkeiten in den gemeinsamen Einrichtungen, die nach § 44g Absatz 2 in der bis zum 31. Dezember 2014 geltenden Fassung erfolgt ist, gilt fort.
 
-# § 80 – (weggefallen)
+# § 80 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 11a Absatz 1 Nummer 2, § 18 Absatz 1 Nummer 1 und § 44a Absatz 3 Satz 2 in der bis zum 31. Dezember 2023 geltenden Fassung weiter.
 
 # § 81 – (weggefallen)
 

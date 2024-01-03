@@ -135,7 +135,7 @@ Die Bank ist berechtigt, ein Dienstsiegel zu führen. § 39a des Beurkundungsges
 
 (2) Der Gesamtbetrag der von der Bank ausgegebenen Schuldverschreibungen muss in Höhe des Nennwerts und der Zinsen jederzeit gedeckt sein. Als Deckung sind zulässig
 
-1. Pfandbriefe im Sinne des § 1 Absatz 2 des Pfandbriefgesetzes, die nach den Vorschriften des Pfandbriefgesetzes ausgegeben werden,
+1. Pfandbriefe im Sinne des § 1 Absatz 3 des Pfandbriefgesetzes, die nach den Vorschriften des Pfandbriefgesetzes ausgegeben werden,
 
 2. Darlehen an inländische Körperschaften und solche Anstalten des öffentlichen Rechts, für die eine Anstaltslast oder eine auf Gesetz beruhende Gewährträgerhaftung oder eine staatliche Refinanzierungsgarantie gilt oder die das gesetzliche Recht zur Erhebung von Gebühren und anderen Abgaben innehaben, oder gegen Übernahme der vollen Gewährleistung durch eine solche Körperschaft oder Anstalt gewährte Darlehen oder sonstige Darlehen der Bank, für die Sicherheiten bestehen, die den Anforderungen des Pfandbriefgesetzes für die Deckung von Hypothekenpfandbriefen oder Schiffspfandbriefen entsprechen,
 
@@ -143,9 +143,9 @@ Die Bank ist berechtigt, ein Dienstsiegel zu führen. § 39a des Beurkundungsges
 
 Die in Satz 2 vorgeschriebene ordentliche Deckung kann vorübergehend durch Guthaben bei der Deutschen Bundesbank und bei geeigneten Kreditinstituten ersetzt werden (Ersatzdeckung).
 
-(3) Die zur Deckung der Schuldverschreibungen bestimmten Vermögenswerte einschließlich der Ersatzdeckung sowie Vermögenswerte in Höhe der Deckungsrücklage nach § 2 Absatz 3 sind von der Bank einzeln in ein Register einzutragen. § 5 Absatz 1 und 2 des Pfandbriefgesetzes gilt entsprechend mit der Maßgabe, dass an die Stelle der Bundesanstalt die in § 11 Absatz 1 genannte Aufsichtsbehörde tritt.
+(3) Die zur Deckung der Schuldverschreibungen bestimmten Vermögenswerte einschließlich der Ersatzdeckung sowie Vermögenswerte in Höhe der Deckungsrücklage nach § 2 Absatz 3 sind von der Bank einzeln in ein Register einzutragen. § 5 Absatz 1 Satz 1, 3 und 4, Absatz 1a Satz 1, 4 und 5 und Absatz 1b des Pfandbriefgesetzes gilt entsprechend; § 5 Absatz 1 Satz 5 und Absatz 2 des Pfandbriefgesetzes sowie eine aufgrund des § 5 Absatz 3 des Pfandbriefgesetzes erlassene Rechtsverordnung gelten entsprechend mit der Maßgabe, dass an die Stelle der Bundesanstalt die in § 11 Absatz 1 genannte Aufsichtsbehörde tritt.
 
-(4) Die Aufsichtsbehörde (§ 11 Absatz 1) bestellt nach Anhörung der Bank einen Treuhänder und einen Stellvertreter. Der Treuhänder hat darauf zu achten, dass die Ausgabe, Verwaltung und Deckung der Schuldverschreibungen den gesetzlichen und satzungsmäßigen Bestimmungen und den Anleihebedingungen entsprechen. § 7 Absatz 3 und 4 und die §§ 8 bis 11 des Pfandbriefgesetzes gelten entsprechend mit der Maßgabe, dass an die Stelle der Bundesanstalt die in § 11 Absatz 1 genannte Aufsichtsbehörde tritt.
+(4) Die Aufsichtsbehörde (§ 11 Absatz 1) bestellt nach Anhörung der Bank einen Treuhänder und einen Stellvertreter. Der Treuhänder hat darauf zu achten, dass die Ausgabe, Verwaltung und Deckung der Schuldverschreibungen den gesetzlichen und satzungsmäßigen Bestimmungen und den Anleihebedingungen entsprechen. § 7 Absatz 3 bis 5 und die §§ 8 bis 11 des Pfandbriefgesetzes gelten entsprechend mit der Maßgabe, dass an die Stelle der Bundesanstalt die in § 11 Absatz 1 genannte Aufsichtsbehörde tritt.
 
 # § 13a – Mündelsicherheit
 

@@ -111,15 +111,13 @@
 
 # § 2 – Dienstliche Beurteilung
 
-(1) Eignung, Befähigung und fachliche Leistung der Soldatinnen und Soldaten sind zu beurteilen:
+(1) In der dienstlichen Beurteilung sind die Leistungen der Soldatin oder des Soldaten nachvollziehbar darzustellen sowie die Eignung und Befähigung für künftige Verwendungen einzuschätzen.
 
-1. in regelmäßigen Abständen, mindestens jedoch alle zwei Jahre,
+(2) Die in § 27b Absatz 1 Satz 2 des Soldatengesetzes genannten Soldatinnen und Soldaten sind in entsprechender Anwendung des § 27a des Soldatengesetzes von der betreffenden Fraktion des Deutschen Bundestages, der gesetzgebenden Körperschaft des Landes oder des Europäischen Parlaments zu beurteilen. In diesen Fällen ist § 3 Absatz 3 nicht anzuwenden. Der Zeitpunkt der Erstellung der Beurteilung richtet sich nach dem im Geschäftsbereich des Bundesministeriums der Verteidigung festgelegten Beurteilungstermin.
 
-2. im Übrigen, wenn die dienstlichen oder persönlichen Verhältnisse es erfordern.
+(3) Ausnahmen von der Beurteilungspflicht kann das Bundesministerium der Verteidigung zulassen, wenn eine dienstliche Beurteilung nicht zweckmäßig ist. Dies ist insbesondere bei Angehörigen der Reservelaufbahnen und Angehörigen der Laufbahnen der Mannschaften der Fall.
 
-Für die Beurteilung der Angehörigen der Reservelaufbahnen und der Angehörigen der Laufbahnen der Mannschaften kann das Bundesministerium der Verteidigung abweichende Regelungen treffen.
-
-(2) In der dienstlichen Beurteilung sind die Leistungen der Soldatin oder des Soldaten nachvollziehbar darzustellen sowie die Eignung und Befähigung für künftige Verwendungen einzuschätzen.
+(4) Für die Personalentwicklungsbewertungen gelten die Absätze 2 und 3 entsprechend.
 
 # § 3 – Beurteilungsverfahren
 
@@ -151,7 +149,19 @@ Zu diesem Zweck lassen die Gesamtverantwortlichen durch die nächsten Disziplina
 
 Das Bundesministerium der Verteidigung kann abweichende Regelungen treffen.
 
+(7) Für Personalentwicklungsbewertungen gelten Absatz 1 und Absatz 5 Satz 1 und 2 entsprechend. Zur Personalentwicklungsbewertung ist eine Stellungnahme abzugeben, wenn die Zweitbeurteilerin oder der Zweitbeurteiler mit ihrer oder seiner Bewertung die Dotierungsebene der eigenen Verwendung überschritten hat. Die Stellungnahme hat die oder der Vorgesetzte der Zweitbeurteilerin oder des Zweitbeurteilers abzugeben, die als nächste oder der als nächster die Dotierungsebene der vergebenen Entwicklungsprognose oder des vergebenen Verwendungsvorschlags inne hat. Ist keine Stellungnahme abzugeben, steht es der oder dem unmittelbaren Vorgesetzten der Zweitbeurteilerin oder des Zweitbeurteilers frei, Stellung zu nehmen. Diese Stellungnahmen gelten als Gesamturteil im Sinne des Absatzes 1 Satz 2.
+
 § 3 Abs. 1 Satz 3 Kursivdruck: Fehlschreibung des Begriffes "Bundesministerium der Vereidigung" in "Bundesministerium der Verteidigung" korrigiert
+
+# § 3a – Referenzgruppen
+
+(1) Für die in § 27b Absatz 1 des Soldatengesetzes genannten Soldatinnen und Soldaten hat das Bundesamt für das Personalmanagement der Bundeswehr zur fiktiven Nachzeichnung der beruflichen Entwicklung Referenzgruppen zu bilden. Als Grundlage für die Bildung der Referenzgruppe dient die letzte regelmäßige dienstliche Beurteilung. Die Referenzgruppen sind zu dem Zeitpunkt des gemäß § 27b Absatz 1 Satz 1 Nummer 1 bis 6 des Soldatengesetztes auslösenden Anlasses erstmals zu bilden.
+
+(2) Die fiktive Nachzeichnung der beruflichen Entwicklung beginnt bei förderlichen Verwendungsentscheidungen sofort, in allen übrigen Fällen, sobald für die referenzierten Soldatinnen und Soldaten keine aktuellen verwertbaren Beurteilungserkenntnisse mehr vorliegen; sie endet, sobald wieder verwertbare Beurteilungserkenntnisse vorliegen. In diesem Geltungszeitraum wird für referenzierte Soldatinnen und Soldaten eine förderliche Auswahlentscheidung getroffen, wenn Auswahlentscheidungen zugunsten von Referenzpersonen den Rangplatz der referenzierten Soldatin oder des referenzierten Soldaten erreicht haben.
+
+(3) Die Voraussetzungen des § 27b Absatz 2 Satz 2 Nummer 1 und 3 des Soldatengesetzes sind erfüllt, wenn die Referenzpersonen in der zu Grunde zu legenden dienstlichen Beurteilung gemessen an dem binnendifferenzierten Gesamturteil gleich beurteilt worden sind und derselben Ausbildungs- und Verwendungsreihe, demselben Werdegang oder demselben Kompetenzbereich wie die referenzierte Soldatin oder der referenzierte Soldat angehören.
+
+(4) Kann die Regelzahl von zehn Referenzpersonen nicht erreicht werden, so ist eine schrittweise Erweiterung der in § 27b Absatz 2 Satz 2 des Soldatengesetzes genannten Kriterien mindestens bis zum Erhalt der notwendigen Referenzgruppengröße vorzunehmen.
 
 # § 4 – Ordnung der Laufbahnen
 

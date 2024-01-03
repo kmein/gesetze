@@ -1331,21 +1331,21 @@ Urkunden und Akten können auch in elektronischer Form beigezogen werden, es sei
 
 a) die zur Abbildung eines Schriftstücks hergestellt wurden,
 
-b) die ein anderes technisches Format als das mit einer qualifizierten elektronischen Signatur verbundene Ausgangsdokument erhalten haben.
+b) die ein anderes technisches Format als das Ausgangsdokument, das verbunden ist mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel einer Behörde, erhalten haben.
 
 (5) Der Beglaubigungsvermerk muss zusätzlich zu den Angaben nach Absatz 3 Satz 2 bei der Beglaubigung
 
-1. des Ausdrucks eines elektronischen Dokuments, das mit einer qualifizierten elektronischen Signatur verbunden ist, die Feststellungen enthalten,
+1. des Ausdrucks eines elektronischen Dokuments, das mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel einer Behörde verbunden ist, die Feststellungen enthalten,
 
-a) wen die Signaturprüfung als Inhaber der Signatur ausweist,
+a) wen die Signaturprüfung als Inhaber der Signatur oder welche Behörde die Signaturprüfung als Inhaber des Siegels ausweist,
 
-b) welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur ausweist und
+b) welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur oder des Siegels ausweist und
 
-c) welche Zertifikate mit welchen Daten dieser Signatur zugrunde lagen;
+c) welche Zertifikate mit welchen Daten dieser Signatur oder diesem Siegel zugrunde lagen;
 
-2. eines elektronischen Dokuments den Namen des für die Beglaubigung zuständigen Bediensteten und die Bezeichnung der Behörde, die die Beglaubigung vornimmt, enthalten; die Unterschrift des für die Beglaubigung zuständigen Bediensteten und das Dienstsiegel nach Absatz 3 Satz 2 Nr. 4 werden durch eine dauerhaft überprüfbare qualifizierte elektronische Signatur ersetzt.
+2. eines elektronischen Dokuments den Namen des für die Beglaubigung zuständigen Bediensteten und die Bezeichnung der Behörde, die die Beglaubigung vornimmt, enthalten; die Unterschrift des für die Beglaubigung zuständigen Bediensteten und das Dienstsiegel nach Absatz 3 Satz 2 Nummer 4 werden durch eine dauerhaft überprüfbare qualifizierte elektronische Signatur oder durch ein dauerhaft überprüfbares qualifiziertes elektronisches Siegel der Behörde ersetzt.
 
-Wird ein elektronisches Dokument, das ein anderes technisches Format als das mit einer qualifizierten elektronischen Signatur verbundene Ausgangsdokument erhalten hat, nach Satz 1 Nr. 2 beglaubigt, muss der Beglaubigungsvermerk zusätzlich die Feststellungen nach Satz 1 Nr. 1 für das Ausgangsdokument enthalten.
+Wird ein elektronisches Dokument, das ein anderes technisches Format erhalten hat als das Ausgangsdokument, das mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel einer Behörde verbunden ist, nach Satz 1 Nummer 2 beglaubigt, so muss der Beglaubigungsvermerk zusätzlich die Feststellungen nach Satz 1 Nummer 1 für das Ausgangsdokument enthalten.
 
 (6) Die nach Absatz 4 hergestellten Dokumente stehen, sofern sie beglaubigt sind, beglaubigten Abschriften gleich.
 
@@ -1407,11 +1407,11 @@ oder verbunden werden mit
 
 (1) Ein Verwaltungsakt muss inhaltlich hinreichend bestimmt sein.
 
-(2) Ein Verwaltungsakt kann schriftlich, elektronisch, mündlich oder in anderer Weise erlassen werden. Ein mündlicher Verwaltungsakt ist schriftlich oder elektronisch zu bestätigen, wenn hieran ein berechtigtes Interesse besteht und der Betroffene dies unverzüglich verlangt. Ein elektronischer Verwaltungsakt ist unter denselben Voraussetzungen schriftlich zu bestätigen; § 36a Abs. 2 des Ersten Buches findet insoweit keine Anwendung.
+(2) Ein Verwaltungsakt kann schriftlich, elektronisch, mündlich oder in anderer Weise erlassen werden. Ein mündlicher Verwaltungsakt ist schriftlich oder elektronisch zu bestätigen, wenn hieran ein berechtigtes Interesse besteht und der Betroffene dies unverzüglich verlangt. Ein elektronischer Verwaltungsakt ist unter denselben Voraussetzungen schriftlich zu bestätigen; § 36a Absatz 2 und 2a des Ersten Buches findet insoweit keine Anwendung.
 
-(3) Ein schriftlicher oder elektronischer Verwaltungsakt muss die erlassende Behörde erkennen lassen und die Unterschrift oder die Namenswiedergabe des Behördenleiters, seines Vertreters oder seines Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch Rechtsvorschrift die Schriftform angeordnet ist, die elektronische Form verwendet, muss auch das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die erlassende Behörde erkennen lassen. Im Fall des § 36a Absatz 2 Satz 4 Nummer 3 des Ersten Buches muss die Bestätigung nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende Behörde als Nutzer des De-Mail-Kontos erkennen lassen.
+(3) Ein schriftlicher oder elektronischer Verwaltungsakt muss die erlassende Behörde erkennen lassen und die Unterschrift oder die Namenswiedergabe des Behördenleiters, seines Vertreters oder seines Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch Rechtsvorschrift die Schriftform angeordnet ist, die elektronische Form verwendet, muss auch das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die erlassende Behörde erkennen lassen. Im Fall des § 36a Absatz 2a Nummer 3 Buchstabe b des Ersten Buches muss die Bestätigung nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende Behörde als Nutzer des De-Mail-Kontos erkennen lassen.
 
-(4) Für einen Verwaltungsakt kann für die nach § 36a Abs. 2 des Ersten Buches erforderliche Signatur durch Rechtsvorschrift die dauerhafte Überprüfbarkeit vorgeschrieben werden.
+(4) Für einen Verwaltungsakt kann für die nach § 36a Absatz 2 des Ersten Buches erforderliche Signatur oder für das nach § 36a Absatz 2a Nummer 3 Buchstabe a des Ersten Buches erforderliche Siegel durch Rechtsvorschrift die dauerhafte Überprüfbarkeit vorgeschrieben werden.
 
 (5) Bei einem Verwaltungsakt, der mit Hilfe automatischer Einrichtungen erlassen wird, können abweichend von Absatz 3 Satz 1 Unterschrift und Namenswiedergabe fehlen; bei einem elektronischen Verwaltungsakt muss auch das der Signatur zugrunde liegende Zertifikat nur die erlassende Behörde erkennen lassen. Zur Inhaltsangabe können Schlüsselzeichen verwendet werden, wenn derjenige, für den der Verwaltungsakt bestimmt ist oder der von ihm betroffen wird, auf Grund der dazu gegebenen Erläuterungen den Inhalt des Verwaltungsaktes eindeutig erkennen kann.
 

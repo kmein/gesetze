@@ -1842,7 +1842,7 @@ In der Rechtsverordnung nach Satz 1 kann ferner die Befugnis des Gewerbetreibend
 
 (5) Die Absätze 1 bis 3 gelten nicht für
 
-1. Kreditinstitute, für die eine Erlaubnis nach § 32 Abs. 1 des Kreditwesengesetzes erteilt wurde, und für Zweigstellen von Unternehmen im Sinne des § 53b Abs. 1 Satz 1 des Kreditwesengesetzes,
+1. Kreditinstitute, für die eine Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes erteilt wurde, Wertpapierinstitute, für die eine Erlaubnis nach § 15 Absatz 1 des Wertpapierinstitutsgesetzes erteilt wurde oder nach § 86 Absatz 1 des Wertpapierinstitutsgesetzes als erteilt gilt, Zweigstellen von Unternehmen im Sinne des § 53b Absatz 1 Satz 1 des Kreditwesengesetzes sowie Zweigniederlassungen und vertraglich gebundene Vermittler von Wertpapierinstituten im Sinne des § 73 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes,
 
 1a. Kapitalverwaltungsgesellschaften, für die eine Erlaubnis nach § 20 Absatz 1 des Kapitalanlagegesetzbuchs erteilt wurde,
 
@@ -1958,7 +1958,7 @@ Die Beschäftigung einer unmittelbar bei der Vermittlung oder Beratung mitwirken
 
 # § 34e – Verordnungsermächtigung
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit dem Bundesministerium der Justiz und dem Bundesministerium der Finanzen durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zur Umsetzung der Richtlinie (EU) 2016/97, zur Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18), die zuletzt durch die Verordnung (EG) Nr. 1430/2007 (ABl. L 320 vom 6.12.2007, S. 3) geändert worden ist, zur Umsetzung der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L 358 vom 13.12.2014, S. 50) oder zum Schutz der Allgemeinheit und der Versicherungsnehmer Vorschriften erlassen über
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit dem Bundesministerium der Justiz, dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz und dem Bundesministerium der Finanzen durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zur Umsetzung der Richtlinie (EU) 2016/97, zur Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18), die zuletzt durch die Verordnung (EG) Nr. 1430/2007 (ABl. L 320 vom 6.12.2007, S. 3) geändert worden ist, zur Umsetzung der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L 358 vom 13.12.2014, S. 50) oder zum Schutz der Allgemeinheit und der Versicherungsnehmer Vorschriften erlassen über
 
 1. das Erlaubnisverfahren einschließlich der vom Antragsteller mitzuteilenden Angaben,
 
@@ -1996,7 +1996,7 @@ Die Rechtsverordnung nach Satz 1 ist dem Bundestag zuzuleiten. Die Zuleitung erf
 
 # § 34f – Finanzanlagenvermittler
 
-(1) Wer im Umfang der Bereichsausnahme des § 2 Absatz 6 Satz 1 Nummer 8 des Kreditwesengesetzes gewerbsmäßig zu
+(1) Wer im Umfang der Bereichsausnahmen des § 2 Absatz 6 Satz 1 Nummer 8 des Kreditwesengesetzes oder des § 3 Absatz 1 Satz 1 Nummer 11 des Wertpapierinstitutsgesetzes gewerbsmäßig zu
 
 1. Anteilen oder Aktien an inländischen offenen Investmentvermögen, offenen EU-Investmentvermögen oder ausländischen offenen Investmentvermögen, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen,
 
@@ -2004,7 +2004,7 @@ Die Rechtsverordnung nach Satz 1 ist dem Bundestag zuzuleiten. Die Zuleitung erf
 
 3. Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes
 
-Anlagevermittlung im Sinne des § 1 Absatz 1a Nummer 1 des Kreditwesengesetzes oder Anlageberatung im Sinne des § 1 Absatz 1a Nummer 1a des Kreditwesengesetzes erbringen will (Finanzanlagenvermittler), bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis kann inhaltlich beschränkt oder mit Auflagen verbunden werden, soweit dies zum Schutz der Allgemeinheit oder der Anleger erforderlich ist; unter denselben Voraussetzungen sind auch die nachträgliche Aufnahme, Änderung und Ergänzung von Auflagen zulässig. Die Erlaubnis nach Satz 1 kann auf die Anlageberatung zu und die Vermittlung von Verträgen über den Erwerb von einzelnen Kategorien von Finanzanlagen nach Nummer 1, 2 oder 3 beschränkt werden.
+Anlagevermittlung im Sinne des § 1 Absatz 1a Nummer 1 des Kreditwesengesetzes oder des § 2 Absatz 2 Nummer 3 des Wertpapierinstitutsgesetzes oder Anlageberatung im Sinne des § 1 Absatz 1a Nummer 1a des Kreditwesengesetzes oder des § 2 Absatz 2 Nummer 4 des Wertpapierinstitutsgesetzes erbringen will (Finanzanlagenvermittler), bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis kann inhaltlich beschränkt oder mit Auflagen verbunden werden, soweit dies zum Schutz der Allgemeinheit oder der Anleger erforderlich ist; unter denselben Voraussetzungen sind auch die nachträgliche Aufnahme, Änderung und Ergänzung von Auflagen zulässig. Die Erlaubnis nach Satz 1 kann auf die Anlageberatung zu und die Vermittlung von Verträgen über den Erwerb von einzelnen Kategorien von Finanzanlagen nach Nummer 1, 2 oder 3 beschränkt werden.
 
 (2) Die Erlaubnis ist zu versagen, wenn
 
@@ -2024,7 +2024,7 @@ Anlagevermittlung im Sinne des § 1 Absatz 1a Nummer 1 des Kreditwesengesetzes o
 
 3. Finanzdienstleistungsinstitute in Bezug auf Vermittlungstätigkeiten oder Anlageberatung, für die ihnen eine Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes erteilt wurde oder für die eine Erlaubnis nach § 64e Absatz 2, § 64i Absatz 1 oder § 64n des Kreditwesengesetzes als erteilt gilt,
 
-4. Gewerbetreibende in Bezug auf Vermittlungs- und Beratungstätigkeiten nach Maßgabe des § 2 Absatz 10 Satz 1 des Kreditwesengesetzes,
+4. Gewerbetreibende in Bezug auf Vermittlungs- und Beratungstätigkeiten nach Maßgabe des § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder des § 3 Absatz 2 des Wertpapierinstitutsgesetzes,
 
 5. Wertpapierinstitute in Bezug auf Vermittlungstätigkeiten oder Anlageberatung, soweit ihnen eine Erlaubnis nach § 15 Absatz 1 des Wertpapierinstitutsgesetzes erteilt wurde oder eine Erlaubnis nach § 86 Absatz 1 des Wertpapierinstitutsgesetzes als erteilt gilt.
 
@@ -2036,7 +2036,7 @@ Anlagevermittlung im Sinne des § 1 Absatz 1a Nummer 1 des Kreditwesengesetzes o
 
 # § 34g – Verordnungsermächtigung
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz hat im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium der Justiz durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Anleger Vorschriften zu erlassen über den Umfang der Verpflichtungen des Gewerbetreibenden bei der Ausübung des Gewerbes eines Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters und zur Umsetzung der Verordnung (EU) Nr. 1286/2014. Die Rechtsverordnung hat Vorschriften zu enthalten über
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz hat im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Anleger Vorschriften zu erlassen über den Umfang der Verpflichtungen des Gewerbetreibenden bei der Ausübung des Gewerbes eines Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters und zur Umsetzung der Verordnung (EU) Nr. 1286/2014. Die Rechtsverordnung hat Vorschriften zu enthalten über
 
 1. die Informationspflichten gegenüber dem Anleger, einschließlich einer Pflicht, Provisionen und andere Zuwendungen offenzulegen und dem Anleger ein Informationsblatt über die jeweilige Finanzanlage zur Verfügung zu stellen,
 
@@ -2074,7 +2074,7 @@ Außerdem kann der Gewerbetreibende in der Verordnung verpflichtet werden, die E
 
 # § 34h – Honorar-Finanzanlagenberater
 
-(1) Wer im Umfang der Bereichsausnahme des § 2 Absatz 6 Satz 1 Nummer 8 des Kreditwesengesetzes gewerbsmäßig zu Finanzanlagen im Sinne des § 34f Absatz 1 Nummer 1, 2 oder 3 Anlageberatung im Sinne des § 1 Absatz 1a Nummer 1a des Kreditwesengesetzes erbringen will, ohne von einem Produktgeber eine Zuwendung zu erhalten oder von ihm in anderer Weise abhängig zu sein (Honorar-Finanzanlagenberater), bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis kann inhaltlich beschränkt oder mit Auflagen verbunden werden, soweit dies zum Schutz der Allgemeinheit oder der Anleger erforderlich ist; unter denselben Voraussetzungen sind auch die nachträgliche Aufnahme, Änderung und Ergänzung von Auflagen zulässig. Die Erlaubnis kann auf die Beratung zu einzelnen Kategorien von Finanzanlagen nach § 34f Absatz 1 Nummer 1, 2 oder 3 beschränkt werden. § 34f Absatz 2 bis 6 ist entsprechend anzuwenden. Wird die Erlaubnis unter Vorlage der Erlaubnisurkunde nach § 34f Absatz 1 Satz 1 beantragt, so erfolgt keine Prüfung der Zuverlässigkeit, der Vermögensverhältnisse und der Sachkunde. Die Erlaubnis nach § 34f Absatz 1 Satz 1 erlischt mit der Erteilung der Erlaubnis nach Satz 1.
+(1) Wer im Umfang der Bereichsausnahmen des § 2 Absatz 6 Satz 1 Nummer 8 des Kreditwesengesetzes oder des § 3 Absatz 1 Satz 1 Nummer 11 des Wertpapierinstitutsgesetzes gewerbsmäßig zu Finanzanlagen im Sinne des § 34f Absatz 1 Nummer 1, 2 oder 3 Anlageberatung im Sinne des § 1 Absatz 1a Nummer 1a des Kreditwesengesetzes oder des § 2 Absatz 2 Nummer 4 des Wertpapierinstitutsgesetzes erbringen will, ohne von einem Produktgeber eine Zuwendung zu erhalten oder von ihm in anderer Weise abhängig zu sein (Honorar-Finanzanlagenberater), bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis kann inhaltlich beschränkt oder mit Auflagen verbunden werden, soweit dies zum Schutz der Allgemeinheit oder der Anleger erforderlich ist; unter denselben Voraussetzungen sind auch die nachträgliche Aufnahme, Änderung und Ergänzung von Auflagen zulässig. Die Erlaubnis kann auf die Beratung zu einzelnen Kategorien von Finanzanlagen nach § 34f Absatz 1 Nummer 1, 2 oder 3 beschränkt werden. § 34f Absatz 2 bis 6 ist entsprechend anzuwenden. Wird die Erlaubnis unter Vorlage der Erlaubnisurkunde nach § 34f Absatz 1 Satz 1 beantragt, so erfolgt keine Prüfung der Zuverlässigkeit, der Vermögensverhältnisse und der Sachkunde. Die Erlaubnis nach § 34f Absatz 1 Satz 1 erlischt mit der Erteilung der Erlaubnis nach Satz 1.
 
 (2) Gewerbetreibende nach Absatz 1 dürfen kein Gewerbe nach § 34f Absatz 1 Satz 1 ausüben. Sie müssen ihrer Empfehlung eine hinreichende Anzahl von auf dem Markt angebotenen Finanzanlagen zu Grunde legen, die von ihrer Erlaubnis umfasst sind und die nach Art und Anbieter oder Emittenten hinreichend gestreut und nicht beschränkt sind auf Anbieter oder Emittenten, die in einer engen Verbindung zu ihnen stehen oder zu denen in sonstiger Weise wirtschaftliche Verflechtungen bestehen.
 
@@ -2096,7 +2096,7 @@ Außerdem kann der Gewerbetreibende in der Verordnung verpflichtet werden, die E
 
 5. der Antragsteller seine Hauptniederlassung oder seinen Hauptsitz nicht im Inland hat oder seine Tätigkeit als Immobiliardarlehensvermittler nicht im Inland ausübt.
 
-(3) Keiner Erlaubnis nach Absatz 1 Satz 1 bedürfen Kreditinstitute, für die eine Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes erteilt wurde, und Zweigstellen von Unternehmen im Sinne des § 53b Absatz 1 Satz 1 des Kreditwesengesetzes.
+(3) Keiner Erlaubnis nach Absatz 1 Satz 1 bedürfen Kreditinstitute, für die eine Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes erteilt wurde, Wertpapierinstitute, für die eine Erlaubnis nach § 15 Absatz 1 des Wertpapierinstitutsgesetzes erteilt wurde, Zweigstellen von Unternehmen im Sinne des § 53b Absatz 1 Satz 1 des Kreditwesengesetzes sowie Zweigniederlassungen und vertraglich gebundene Vermittler von Wertpapierinstituten im Sinne des § 73 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes.
 
 (4) Keiner Erlaubnis nach Absatz 1 Satz 1 bedarf ein Immobiliardarlehensvermittler, der den Abschluss von Immobiliar-Verbraucherdarlehensverträgen oder entsprechenden entgeltlichen Finanzierungshilfen vermitteln oder Dritte zu solchen Verträgen beraten will und dabei im Umfang seiner Erlaubnis handelt, die nach Artikel 29 der Richtlinie 2014/17/EU des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Wohnimmobilienkreditverträge für Verbraucher und zur Änderung der Richtlinien 2008/48/EG und 2013/36/EU und der Verordnung (EU) Nr. 1093/2010 (ABl. L 60 vom 28.2.2014, S. 34) durch einen anderen Mitgliedstaat der Europäischen Union oder einen anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erteilt worden ist. Vor Aufnahme der Tätigkeit im Geltungsbereich dieses Gesetzes muss ein Verfahren nach Artikel 32 Absatz 3 der Richtlinie 2014/17/EU stattgefunden haben.
 

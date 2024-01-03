@@ -1392,13 +1392,13 @@ Leisten Träger der Sozialen Entschädigung nach dem Vierzehnten Buch Übergangs
 
 (4) Das Regelentgelt wird bis zur Höhe der für den Rehabilitationsträger jeweils geltenden Leistungs- oder Beitragsbemessungsgrenze berücksichtigt, in der Rentenversicherung bis zur Höhe des der Beitragsbemessung zugrunde liegenden Entgelts.
 
-(5) Für Leistungsempfänger, die im Inland nicht einkommensteuerpflichtig sind, werden für die Feststellung des entgangenen Nettoarbeitsentgelts die Steuern berücksichtigt, die bei einer Steuerpflicht im Inland durch Abzug vom Arbeitsentgelt erhoben würden.
+(5) Für Leistungsempfänger, die im Inland nicht einkommensteuerpflichtig sind, werden für die Feststellung des entgangenen Nettoarbeitsentgelts die Steuern berücksichtigt, die bei einer Steuerpflicht im Inland durch Abzug vom Arbeitsentgelt erhoben würden. Abweichend von Satz 1 sind die steuerlichen Abzüge nicht zu berücksichtigen bei Personen, deren Ansässigkeitsstaat nach einem Abkommen zur Vermeidung der Doppelbesteuerung das Besteuerungsrecht für das Übergangsgeld zusteht und wenn das aus Deutschland gezahlte Übergangsgeld nach den maßgebenden Vorschriften des Ansässigkeitsstaats der Steuer unterliegt.
 
 # § 68 – Berechnungsgrundlage in Sonderfällen
 
 (1) Für die Berechnung des Übergangsgeldes während des Bezuges von Leistungen zur Teilhabe am Arbeitsleben werden 65 Prozent eines fiktiven Arbeitsentgelts zugrunde gelegt, wenn
 
-1. die Berechnung nach den §§ 66 und 67 zu einem geringeren Betrag führt,
+1. die Berechnung nach den §§ 66, 67 und 69 zu einem geringeren Betrag führt,
 
 2. Arbeitsentgelt oder Arbeitseinkommen nicht erzielt worden ist oder
 
@@ -2516,7 +2516,7 @@ Wird das Einkommen im Sinne des § 135 überwiegend aus anderen Einkunftsarten e
 
 # § 139 – Begriff des Vermögens
 
-Zum Vermögen im Sinne dieses Teils gehört das gesamte verwertbare Vermögen. Die Leistungen nach diesem Teil dürfen nicht abhängig gemacht werden vom Einsatz oder von der Verwertung des Vermögens im Sinne des § 90 Absatz 2 Nummer 1 bis 8 des Zwölften Buches und eines Barvermögens oder sonstiger Geldwerte bis zu einem Betrag von 150 Prozent der jährlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches. Die Eingliederungshilfe darf ferner nicht vom Einsatz oder von der Verwertung eines Vermögens abhängig gemacht werden, soweit dies für den, der das Vermögen einzusetzen hat, und für seine unterhaltsberechtigten Angehörigen eine Härte bedeuten würde.
+Zum Vermögen im Sinne dieses Teils gehört das gesamte verwertbare Vermögen. Die Leistungen nach diesem Teil dürfen nicht abhängig gemacht werden vom Einsatz oder von der Verwertung des Vermögens im Sinne des § 90 Absatz 2 Nummer 1 bis 8 und 10 des Zwölften Buches und eines Barvermögens oder sonstiger Geldwerte bis zu einem Betrag von 150 Prozent der jährlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches. Die Eingliederungshilfe darf ferner nicht vom Einsatz oder von der Verwertung eines Vermögens abhängig gemacht werden, soweit dies für den, der das Vermögen einzusetzen hat, und für seine unterhaltsberechtigten Angehörigen eine Härte bedeuten würde.
 
 # § 140 – Einsatz des Vermögens
 

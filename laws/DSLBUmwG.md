@@ -51,9 +51,9 @@ Der Vorstand beruft die erste Hauptversammlung spätestens bis zum 31. März 200
 
 (3) Die in Absatz 2 vorgeschriebene ordentliche Deckung kann durch Guthaben bei der Deutschen Bundesbank und bei geeigneten Kreditinstituten ersetzt werden (Ersatzdeckung). Die Ersatzdeckung darf zehn vom Hundert des gesamten Umlaufs an gedeckten Schuldverschreibungen der Aktiengesellschaft nicht übersteigen.
 
-(4) Die zur Deckung der Schuldverschreibungen bestimmten Vermögenswerte einschließlich der Ersatzdeckung sind von der Aktiengesellschaft einzeln in ein Register einzutragen. § 5 Abs. 1 und 2 des Pfandbriefgesetzes gilt entsprechend.
+(4) Die zur Deckung der Schuldverschreibungen bestimmten Vermögenswerte einschließlich der Ersatzdeckung sind von der Aktiengesellschaft einzeln in ein Register einzutragen. § 5 Absatz 1 Satz 1, 3 bis 5, Absatz 1a Satz 1, 4 und 5, Absatz 1b und 2 des Pfandbriefgesetzes sowie eine aufgrund des § 5 Absatz 3 des Pfandbriefgesetzes erlassene Rechtsverordnung gelten entsprechend.
 
-(5) Das Bundesaufsichtsamt für das Kreditwesen bestellt bis spätestens 31. März 2000 einen Treuhänder und einen Stellvertreter. Der Treuhänder hat darauf zu achten, dass die Ausgabe, Verwaltung und Deckung der Schuldverschreibungen den gesetzlichen und satzungsmäßigen Bestimmungen und den Anleihebedingungen entsprechen. § 7 Abs. 3 und 4 und die §§ 8 bis 11 des Pfandbriefgesetzes gelten entsprechend. Der Treuhänder der Deutschen Siedlungs- und Landesrentenbank nimmt bis zum Amtsantritt des neuen Treuhänders dessen Aufgaben wahr. § 22 der Satzung der Deutschen Siedlungs- und Landesrentenbank in der vor der Umwandlung geltenden Fassung ist insoweit weiterhin anzuwenden.
+(5) Die Bundesanstalt für Finanzdienstleistungsaufsicht bestellt einen Treuhänder und einen Stellvertreter. Der Treuhänder hat darauf zu achten, dass die Ausgabe, Verwaltung und Deckung der Schuldverschreibungen den gesetzlichen und satzungsmäßigen Bestimmungen und den Anleihebedingungen entsprechen. § 7 Absatz 3 bis 5 und die §§ 8 bis 11 des Pfandbriefgesetzes gelten entsprechend.
 
 (6) § 248 Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs findet auch Anwendung, wenn andere Kreditinstitute Darlehen aus dem ihnen zur Verfügung gestellten Erlös der von der Aktiengesellschaft ausgegebenen gedeckten Schuldverschreibungen gewähren.
 

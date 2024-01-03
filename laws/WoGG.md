@@ -895,7 +895,7 @@ zu erlassen, wobei pauschalierende Regelungen getroffen werden dürfen, soweit d
 
 3. die Einzelheiten des Verfahrens des automatisierten Datenabgleichs und die Kosten des Verfahrens (§ 33) zu regeln; dabei kann auch geregelt werden, dass die Länder der Datenstelle die Kosten für die Durchführung des Datenabgleichs zu erstatten haben;
 
-4. die Höchstbeträge für Miete und Belastung (Anlage 1) und die Werte für „b“ und „c“ (Anlage 2) nach einer gesetzlichen Änderung nach § 43 zum 1. Januar jedes zweiten Jahres fortzuschreiben und die bisherigen Höchstbeträge in Anlage 1 und Werte in Anlage 2 zu ersetzen. Soweit der Deutsche Bundestag beschließt, die Höchstbeträge für Miete und Belastung (§ 12 Absatz 1), die Mietenstufen (§ 12 Absatz 2) oder die Höhe des Wohngeldes (§ 19) für ein solches Jahr neu festzusetzen, hat dieser Beschluss Vorrang gegenüber der Verordnungsermächtigung.
+4. die in § 43 Absatz 1 Satz 1 Nummer 1 bis 6 genannten Berechnungsgrößen nach einer gesetzlichen Änderung nach § 43 zum 1. Januar jedes zweiten Jahres fortzuschreiben und die bisherigen Anlagen 1 bis 3 zu ersetzen. Soweit der Deutsche Bundestag beschließt, die Höchstbeträge für Miete und Belastung (§ 12 Absatz 1), die Mietenstufen (§ 12 Absatz 2) oder die Höhe des Wohngeldes (§ 19) für ein solches Jahr neu festzusetzen, hat dieser Beschluss Vorrang gegenüber der Verordnungsermächtigung.
 
 # § 39 – Wohngeld- und Mietenbericht; Bericht über die Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in Deutschland
 
