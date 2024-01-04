@@ -487,6 +487,10 @@ Versorgungsüberleitungsregelungen aus Anlass des Dienstrechtsneuordnungsgesetze
 
 Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes
 
+§   69n
+
+Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen
+
  
 
  
@@ -503,7 +507,11 @@ Allgemeine Anpassung
 
 Erhöhung der Versorgungsbezüge
 
-§§  72 bis 76
+§   72
+
+Sonderzahlung zur Abmilderung der Folgen gestiegener Verbraucherpreise im Jahr 2023
+
+§§  73 bis 76
 
 (weggefallen)
 
@@ -2193,6 +2201,18 @@ Die Zeit einer vor dem 1. Juli 2020 bereits beendeten Verwendung im Dienst einer
 
 (3) Für am 31. August 2020 vorhandene Ruhestandsbeamte, bei denen eine ruhegehaltfähige Zeit nach § 85 Absatz 7 in der bis zum 31. August 2020 geltenden Fassung berücksichtigt worden ist, ist § 50a auf schriftlichen oder elektronischen Antrag anzuwenden. Dem Antrag ist stattzugeben, wenn am 1. September 2020 das Ruhegehalt ohne Zeiten nach § 85 Absatz 7 Satz 1 in der bis zum 31. August 2020 geltenden Fassung zusammen mit dem Kindererziehungszuschlag nach § 50a Absatz 1 in Verbindung mit Absatz 2 Satz 1 Nummer 1 sowie Absatz 5 und 6 dieses Gesetzes das Ruhegehalt übersteigt, das sich unter Berücksichtigung des § 85 Absatz 7 in der bis zum 31. August 2020 geltenden Fassung ergibt. Anträge, die innerhalb von drei Monaten ab dem 1. September 2020 gestellt werden, gelten als zum 1. September 2020 gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, tritt die Änderung mit Beginn des Antragsmonats ein. Wurde dem Antrag stattgegeben, ist § 85 Absatz 7 in der bis zum 31. August 2020 geltenden Fassung ab dem Zeitpunkt der Gewährung eines Kindererziehungszuschlags nach § 50a nicht mehr anzuwenden. Die Sätze 1 bis 5 gelten entsprechend für vor dem 1. September 2020 vorhandene Hinterbliebene.
 
+# § 69n – Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen
+
+(1) Die Stellenzulagen nach Anlage I Vorbemerkung Nummer 8 und 9 des Bundesbesoldungsgesetzes gehören für diejenigen am 31. Dezember 2023 vorhandenen Ruhestandsbeamten zu den ruhegehaltfähigen Dienstbezügen,
+
+1. deren Ruhestand nach dem 31. Dezember 2007 oder, sofern dem Ruhegehalt eine der Besoldungsgruppen A 1 bis A 9 zugrunde liegt, nach dem 31. Dezember 2010 begann, und
+
+2. die bei Versetzung oder Eintritt in den Ruhestand die Voraussetzungen der Anlage I Vorbemerkung Nummer 3a des Bundesbesoldungsgesetzes in der ab 1. Januar 2024 geltenden Fassung erfüllt haben.
+
+In den Fällen des § 81 Satz 2 des Bundesbesoldungsgesetzes ist Nummer 1 nicht anzuwenden. Der als ruhegehaltfähiger Dienstbezug zu berücksichtigende Betrag der jeweiligen Stellenzulage ergibt sich aus der zum Zeitpunkt des letztmaligen Bezuges der jeweiligen Stellenzulage geltenden Anlage IX des Bundesbesoldungsgesetzes. Eine Nachzahlung für Zeiträume vor dem 1. Januar 2024 erfolgt nicht.
+
+(2) Die Berücksichtigung der Stellenzulagen nach Anlage I Vorbemerkung Nummer 8 und 9 des Bundesbesoldungsgesetzes gemäß Absatz 1 als ruhegehaltfähiger Dienstbezug erfolgt nur auf schriftlichen oder elektronischen Antrag, der bei der für die Festsetzung der Versorgungsbezüge zuständigen Stelle einzureichen ist. Anträge, die bis zum 31. Dezember 2024 gestellt werden, gelten als zum 1. Januar 2024 gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, tritt die Änderung zum Beginn des Antragsmonats ein.
+
 # § 70 – Allgemeine Anpassung
 
 (1) Werden die Dienstbezüge der Besoldungsberechtigten allgemein erhöht oder vermindert, sind von demselben Zeitpunkt an die Versorgungsbezüge durch Bundesgesetz entsprechend zu regeln.
@@ -2201,19 +2221,31 @@ Die Zeit einer vor dem 1. Juli 2020 bereits beendeten Verwendung im Dienst einer
 
 # § 71 – Erhöhung der Versorgungsbezüge
 
-(1) Bei Versorgungsempfängern gilt die Erhöhung nach § 14 Absatz 2 des Bundesbesoldungsgesetzes entsprechend für die
+(1) Bei Versorgungsempfängern gilt die Erhöhung nach § 14 Absatz 2 Nummer 1 des Bundesbesoldungsgesetzes entsprechend für die
 
-1. in § 5 Absatz 1 Satz 1 Nummer 1 und § 69g Absatz 1 Nummer 1 Buchstabe a Satz 3 dieses Gesetzes sowie in § 84 Nummer 1, 3 und 4 des Bundesbesoldungsgesetzes genannten Bezügebestandteile,
+1. in § 5 Absatz 1 Satz 1 Nummer 1 dieses Gesetzes und § 84 Nummer 1 des Bundesbesoldungsgesetzes genannten Bezügebestandteile sowie
 
-2. Leistungsbezüge nach § 5 Absatz 1 Satz 1 Nummer 4, soweit sie nach den auf Grund des § 33 Absatz 4 des Bundesbesoldungsgesetzes erlassenen Rechtsverordnungen an den regelmäßigen Besoldungsanpassungen teilnehmen,
+2. den Versorgungsbezügen zugrunde liegenden
 
-3. den Versorgungsbezügen zugrunde liegenden Grundvergütungen,
+a) Grundvergütungen,
 
-4. den Versorgungsbezügen zugrunde liegenden Grundgehältern nach fortgeltenden oder früheren Besoldungsordnungen.
+b) Grundgehälter nach fortgeltenden oder früheren Besoldungsordnungen.
 
 Satz 1 gilt entsprechend für Empfänger von Versorgungsbezügen der weggefallenen Besoldungsgruppen A 1 und A 2.
 
-(2) Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem Bundesbesoldungsgesetz in der bis zum 30. Juni 1997 geltenden Fassung nicht zugrunde liegt, werden ab 1. April 2022 um 1,7 Prozent Prozent erhöht, wenn der Versorgungsfall vor dem 1. Juli 1997 eingetreten ist. Satz 1 gilt entsprechend für
+(2) Bei Versorgungsempfängern gilt die Erhöhung nach § 14 Absatz 2 Nummer 3 des Bundesbesoldungsgesetzes entsprechend für die
+
+1. den Versorgungsbezügen zugrunde liegenden Amtszulagen,
+
+2. in § 84 Nummer 3 und 4 des Bundesbesoldungsgesetzes genannten Bezügebestandteile.
+
+(3) Ab dem 1. März 2024 werden um 5,3 Prozent erhöht
+
+1. den Versorgungsbezügen zugrunde liegende Leistungsbezüge nach § 5 Absatz 1 Satz 1 Nummer 4, soweit sie nach einer auf Grund des § 33 Absatz 4 des Bundesbesoldungsgesetzes erlassenen Rechtsverordnung an den regelmäßigen Besoldungsanpassungen teilnehmen,
+
+2. der Überleitungsbetrag nach § 69g Absatz 1 Nummer 1 Buchstabe a Satz 3 sowie nach § 69g Absatz 2 Nummer 1 Satz 2.
+
+(4) Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem Bundesbesoldungsgesetz in der bis zum 30. Juni 1997 geltenden Fassung nicht zugrunde liegt, werden ab dem 1. März 2024 um 5,2 Prozent erhöht, wenn der Versorgungsfall vor dem 1. Juli 1997 eingetreten ist. Satz 1 gilt entsprechend für
 
 1. Hinterbliebene eines vor dem 1. Juli 1997 vorhandenen Versorgungsempfängers,
 
@@ -2221,9 +2253,39 @@ Satz 1 gilt entsprechend für Empfänger von Versorgungsbezügen der weggefallen
 
 3. den Betrag nach Artikel 13 § 2 Absatz 4 des Fünften Gesetzes zur Änderung besoldungsrechtlicher Vorschriften vom 28. Mai 1990 (BGBl. I S. 967).
 
-# § 72 – (weggefallen)
+# § 72 – Sonderzahlung zur Abmilderung der Folgen gestiegener Verbraucherpreise im Jahr 2023
 
-\-
+(1) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise wird den am 1. Mai 2023 vorhandenen Versorgungsempfängern für den Monat Juni 2023 eine einmalige Sonderzahlung gewährt, die sich nach dem jeweils maßgeblichen Ruhegehaltssatz und den Anteilssätzen des Witwen- und Waisengeldes sowie des Unterhaltsbeitrages aus dem Betrag von 1 240 Euro ergibt. Bei Empfängern von Mindestversorgungsbezügen gilt der jeweils maßgebliche Mindestruhegehaltssatz. Abweichend davon wird den am 1. Mai 2023 vorhandenen Versorgungsempfängern im Sinne des § 71 Absatz 4 für den Monat Juni 2023 die einmalige Sonderzahlung gewährt in Höhe von
+
+1. 744 Euro für Ruhegehaltsempfänger,
+
+2. 446 Euro für Witwen und versorgungsberechtigte geschiedene Ehefrauen,
+
+3. 149 Euro für Empfänger von Vollwaisengeld und
+
+4. 88 Euro für Empfänger von Halbwaisengeld.
+
+(2) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise wird Empfängern von laufenden Versorgungsbezügen ferner jeweils für die Monate Juli 2023 bis Februar 2024 eine monatliche Sonderzahlung neben ihren Versorgungsbezügen gewährt. Die Sonderzahlung wird in der Höhe gewährt, die sich nach dem jeweils maßgeblichen Ruhegehaltssatz und den Anteilssätzen des Witwen- und Waisengeldes sowie des Unterhaltsbeitrages aus dem Betrag von 220 Euro ergibt; Absatz 1 Satz 2 gilt entsprechend. Abweichend davon wird den Versorgungsempfängern von laufenden Versorgungsbezügen im Sinne des § 71 Absatz 4 die monatliche Sonderzahlung jeweils für die Monate Juli 2023 bis Februar 2024 gewährt in Höhe von
+
+1. 132 Euro für Ruhegehaltsempfänger,
+
+2. 79 Euro für Witwen und versorgungsberechtigte geschiedene Ehefrauen,
+
+3. 26 Euro für Empfänger von Vollwaisengeld und
+
+4. 16 Euro für Empfänger von Halbwaisengeld.
+
+(3) Die Sonderzahlung gilt nicht als Teil des Ruhegehaltes und bleibt bei der Anwendung von Ruhens‑, Anrechnungs- und Kürzungsvorschriften sowie bei Vorschriften über die anteilige Kürzung außer Betracht.
+
+(4) Die Sonderzahlung wird jedem Versorgungsempfänger nur einmal gewährt. Beim Zusammentreffen mit einer entsprechenden Leistung aus einem anderen Rechtsverhältnis im öffentlichen Dienst des Bundes wird die Sonderzahlung mit der Maßgabe gewährt, dass
+
+1. der Anspruch aus einem Dienst- oder Arbeitsverhältnis dem Anspruch aus dem Rechtsverhältnis als Versorgungsempfänger vorgeht,
+
+2. beim Zusammentreffen von Ruhegehalt mit Hinterbliebenenversorgung sich die Sonderzahlung nach dem Ruhegehalt bemisst und neben dem Ruhegehalt gewährt wird sowie
+
+3. im Übrigen der Anspruch aus einem späteren Rechtsverhältnis als Versorgungsempfänger dem Anspruch aus einem früheren Rechtsverhältnis als Versorgungsempfänger vorgeht.
+
+Dem öffentlichen Dienst im Sinne des Satzes 2 steht der Dienst bei öffentlich-rechtlichen Religionsgesellschaften und ihren Verbänden gleich.
 
 # §§ 73 bis 76 – (weggefallen)
 

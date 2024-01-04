@@ -2771,7 +2771,7 @@
 - [HotelAusbV](laws/HotelAusbV.md) Verordnung über die Berufsausbildungen zum Hotelfachmann und zur Hotelfachfrau sowie zum Kaufmann für Hotelmanagement und zur Kauffrau für Hotelmanagement*
 - [HotelMeistPrV](laws/HotelMeistPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Hotelmeister/Geprüfte Hotelmeisterin
 - [HPflEGRLDV](laws/HPflEGRLDV.md) Verordnung über die Kraftfahrzeug-Haftpflichtversicherung ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger
-- [HRegGebV](laws/HRegGebV.md) Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen*
+- [HRegGebV](laws/HRegGebV.md) Verordnung über Gebühren in Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregistersachen
 - [HRFEG](laws/HRFEG.md) Gesetz zur Fortentwicklung des Haushaltsrechts von Bund und Ländern
 - [HRG](laws/HRG.md) Hochschulrahmengesetz
 - [HRV](laws/HRV.md) Verordnung über die Einrichtung und Führung des Handelsregisters

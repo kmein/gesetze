@@ -101,7 +101,7 @@ Im Sinne dieser Verordnung bedeutet
 
 (3) Jeder Betreiber regelbarer Lasten muss die elektrische Energie für die Erbringung der Reserveleistung jeweils mindestens sechs Monate vor Erbringung über Termingeschäfte mit physischer Erfüllung beschaffen; die Beschaffung von elektrischer Energie im vortägigen oder untertägigen Handel sowie eine Absicherung mit rein finanziellen Kontrakten sind unzulässig.
 
-(4) Nach Ende des Erbringungszeitraums darf der Betreiber regelbarer Lasten abweichend von Absatz 2 Satz 4 die Leistung oder Arbeit der regelbaren Last weiterhin auf den Strommärkten veräußern; hiervon ausgenommen sind Ausschreibungen aufgrund einer Verordnung nach § 13i Absatz 1 und 2 des Energiewirtschaftsgesetzes.
+(4) Nach Ende des Erbringungszeitraums darf der Betreiber regelbarer Lasten abweichend von Absatz 2 Satz 4 die Leistung oder Arbeit der regelbaren Last weiterhin auf den Strommärkten veräußern.
 
 (5) Für die Vermarktung auf den Märkten für Regelenergie nach § 6 Absatz 1 der Stromnetzzugangsverordnung kann der Betreiber regelbarer Lasten wählen,
 
@@ -180,13 +180,13 @@ Die Übertragungsnetzbetreiber dürfen in Abstimmung mit der Bundesnetzagentur d
 
 2. für regelbare Lasten Anforderungen an die verbindliche Meldung des für den Folgetag insgesamt geplanten Verbrauchs der Anlage; wobei die Meldung vor Handelsschluss des vortägigen Börsenhandels erfolgen muss,
 
-3. informationstechnische und organisatorische Anforderungen, die sich an den Anforderungen für die Erbringung von Minutenreserveleistung nach § 2 Nummer 6 der Stromnetzzugangsverordnung orientieren,
+3. informationstechnische und organisatorische Anforderungen, die sich an den Anforderungen für die Erbringung von Minutenreserveleistung nach § 3 Nummer 26e des Energiewirtschaftsgesetzes orientieren,
 
 4. zur erforderlichen Fahrplangenauigkeit für die Aktivierung nach § 25, den Abruf nach § 26, den Funktionstest nach § 28, den Probeabruf nach § 29 sowie Nachbesserungen nach § 30 und
 
 5. Anforderungen an die Fernsteuerbarkeit der Anlage.
 
-(3) Die Teilnahme am Beschaffungsverfahren ist für regelbare Lasten auf solche Anlagen beschränkt, die in den der Bekanntmachung nach § 11 vorausgehenden 36 Monaten keine Vergütung für ihre Flexibilität erhalten haben. Die Vergütung im Sinne von Satz 1 gilt als erhalten, wenn die regelbare Last im Rahmen der Teilnahme an den Märkten für Regelenergie oder an Ausschreibungen aufgrund einer Verordnung nach § 13i Absatz 1 und 2 des Energiewirtschaftsgesetzes einen Zuschlag erhalten hat. Die Sätze 1 und 2 sind unabhängig davon anzuwenden, ob die regelbare Last die Vergütung individuell oder als Teil eines Konsortiums erhalten hat.
+(3) Die Teilnahme am Beschaffungsverfahren ist für regelbare Lasten auf solche Anlagen beschränkt, die in den der Bekanntmachung nach § 11 vorausgehenden 36 Monaten keine Vergütung für ihre Flexibilität erhalten haben. Die Vergütung im Sinne von Satz 1 gilt als erhalten, wenn die regelbare Last im Rahmen der Teilnahme an den Märkten für Regelenergie einen Zuschlag erhalten hat. Die Sätze 1 und 2 sind unabhängig davon anzuwenden, ob die regelbare Last die Vergütung individuell oder als Teil eines Konsortiums erhalten hat.
 
 (4) Die Teilnahmevoraussetzungen nach den Absätzen 1 und 2 sind vorbehaltlich einer Präzisierung oder Änderung durch Festlegung der Bundesnetzagentur nach § 42 anzuwenden, sofern eine solche Präzisierung oder Änderung nach den Erfahrungen oder Erwartungen in Bezug auf das Beschaffungsverfahren oder den Betrieb ausnahmsweise erforderlich erscheint.
 

@@ -63,7 +63,7 @@ Auf Verlangen der für die Bundesfachplanung oder Zulassung des Vorhabens zustä
 
 Satz 1 ist weder für die nachträgliche Änderung oder Erweiterung der Leitung noch für den nachträglichen Ersatz- und Parallelneubau anzuwenden.
 
-(5) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter Rohrleitungen. § 2 Absatz 5 des Energieleitungsausbaugesetzes ist entsprechend anzuwenden. Kunststoffisolierte Erdkabel mit einer Nennspannung von mehr als 320 Kilovolt bis zu 525 Kilovolt erfüllen die Anforderungen an die technische Sicherheit im Sinne des § 49 des Energiewirtschaftsgesetzes.
+(5) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter Rohrleitungen. Kunststoffisolierte Erdkabel mit einer Nennspannung von mehr als 320 Kilovolt bis zu 525 Kilovolt erfüllen die Anforderungen an die technische Sicherheit im Sinne des § 49 des Energiewirtschaftsgesetzes.
 
 (6) Für Leitungen zur Höchstspannungs-Drehstrom-Übertragung, die der Anbindung von Stromrichteranlagen im Rahmen des im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhabens dienen, ist § 4 entsprechend anzuwenden.
 
@@ -85,7 +85,7 @@ Satz 1 ist weder für die nachträgliche Änderung oder Erweiterung der Leitung 
 
 Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die Voraussetzungen nach Satz 1 nicht auf der gesamten Länge der jeweiligen technisch und wirtschaftlich effizienten Teilabschnitte vorliegen. Auf Verlangen der für die Bundesfachplanung oder Zulassung des Vorhabens zuständigen Behörde muss die Leitung auf dem jeweiligen technisch und wirtschaftlich effizienten Teilabschnitt nach Maßgabe dieser Vorschrift als Erdkabel errichtet und betrieben oder geändert werden.
 
-(3) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter Rohrleitungen. § 2 Absatz 5 des Energieleitungsausbaugesetzes ist entsprechend anzuwenden.
+(3) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter Rohrleitungen.
 
 (4) Vor dem 31. Dezember 2015 beantragte Planfeststellungsverfahren werden nach den bis dahin geltenden Vorschriften zu Ende geführt. Sie werden nur dann als Planfeststellungsverfahren in der ab dem 31. Dezember 2015 geltenden Fassung dieses Gesetzes fortgeführt, wenn der Träger des Vorhabens dies beantragt.
 
@@ -95,7 +95,7 @@ Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die Voraussetzungen nach
 
 (1) Über die in den Vorhaben nach § 2 Absatz 2 bis 8 gewonnenen Erfahrungen legt der jeweils verantwortliche Betreiber des Übertragungsnetzes der Bundesnetzagentur jährlich einen Bericht vor, in dem die technische Durchführbarkeit, Wirtschaftlichkeit und Umweltauswirkungen dieser Vorhaben bewertet werden. Der erste Bericht ist im zweiten Jahr nach der Inbetriebnahme des jeweils ersten Teilabschnitts eines solchen Vorhabens vorzulegen.
 
-(2) Der Bericht kann mit dem gemeinsamen Netzentwicklungsplan nach § 12b Absatz 1 Satz 1 des Energiewirtschaftsgesetzes oder dem gemeinsamen Umsetzungsbericht nach § 12d Satz 1 des Energiewirtschaftsgesetzes verbunden werden.
+(2) Der Bericht kann mit dem gemeinsamen Netzentwicklungsplan nach § 12b Absatz 1 Satz 1 des Energiewirtschaftsgesetzes verbunden werden.
 
 (3) Auf Verlangen haben die Betreiber von Übertragungsnetzen dem Bundesministerium für Wirtschaft und Klimaschutz über den Sachstand bei den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen Erfahrungen mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu berichten.
 
@@ -962,43 +962,35 @@ A2
 
 87
 
-Höchstspannungsleitungen Netzausbau und Verstärkung Berlin;
+Höchstspannungsleitungen Netzausbau und Verstärkung Berlin, Drehstrom, Nennspannung 380 kV mit den Bestandteilen
 
  
 
  
 
-Drehstrom, Nennspannung 380 kV
+–  
+Höchstspannungsleitungen Punkt Biesdorf Süd – Wuhlheide
+
+A1, F, G
+
+ 
+
+–  
+Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-Kreuzberg (Berlin)
 
  
 
  
 
-mit den Bestandteilen
+–  
+Malchow – Bezirke Mitte/Reinickendorf (Berlin) – Reuter
+
+A1, F, G
 
  
 
- 
-
-– Höchstspannungsleitungen Punkt Biesdorf Süd – Wuhlheide
-
- 
-
- 
-
-– Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-Kreuzberg (Berlin)
-
-A1, F
-
- 
-
-– Malchow – Bezirke Mitte/Reinickendorf (Berlin) – Reuter
-
-A1, F
-
- 
-
-– Reuter – Teufelsbruch
+–  
+Reuter – Teufelsbruch
 
 F
 

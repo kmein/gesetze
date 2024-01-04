@@ -249,9 +249,9 @@ In den Fällen nach Satz 1 Nummer 1 und 2 sind nicht die gemäß § 12 Satz 2 Nu
 
 # § 20 – Information der Bundesnetzagentur
 
-(1) Die Betreiber von Übertragungsnetzen sind verpflichtet, jährlich zum 1. Dezember gemeinsam einen Bericht über den Stand der Nachrüstung nach den §§ 11 bis 19 zu erstellen und der Bundesnetzagentur zu übermitteln. Diese kann im Verfahren nach § 29 Absatz 1 des Energiewirtschaftsgesetzes Inhalt und Form des Berichts festlegen.
+(1) Die Betreiber von Übertragungsnetzen sind verpflichtet, auf Anforderung der Bundesnetzagentur gemeinsam einen Bericht über den Stand der Nachrüstung nach den §§ 11 bis 19 zu erstellen und der Bundesnetzagentur zu übermitteln. Diese kann im Verfahren nach § 29 Absatz 1 des Energiewirtschaftsgesetzes Inhalt und Form des Berichts festlegen.
 
-(2) Die Netzbetreiber sind verpflichtet, den Betreibern von Übertragungsnetzen oder den jeweils vorgelagerten Betreibern von Elektrizitätsverteilernetzen die zur Erstellung des Berichts notwendigen Daten quartalsweise ab dem 14. März 2016 zu übermitteln.
+(2) Die Netzbetreiber sind verpflichtet, den Betreibern von Übertragungsnetzen oder den jeweils vorgelagerten Betreibern von Elektrizitätsverteilernetzen die zur Erstellung des Berichts notwendigen Daten zu übermitteln.
 
 # § 21 – Anteilige Kostenübernahme
 

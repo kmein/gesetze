@@ -183,7 +183,7 @@ soweit dies zur Sammlung und Auswertung von Informationen erforderlich ist und T
 
 (3) Anordnungen nach den Absätzen 1 und 2 dürfen sich nur gegen Personen richten, bei denen
 
-1. tatsächliche Anhaltspunkte dafür vorliegen, dass sie die schwerwiegenden Gefahren nach den Absätzen 2 oder 2a nachdrücklich fördern, oder
+1. tatsächliche Anhaltspunkte dafür vorliegen, dass sie die schwerwiegenden Gefahren nach den Absätzen 1 und 2 nachdrücklich fördern, oder
 
 2. auf Grund bestimmter Tatsachen anzunehmen ist
 
@@ -199,7 +199,8 @@ b) bei Auskünften nach Absatz 1 Satz 1 Nummer 4, dass sie für eine Person nach
 
 (5) bis (9) (weggefallen)
 
-(+++ Änderung durch Art. 7 Abs. 22 G v. 12.5.2021 I 990 wurde aufgrund offensichtlich unrichtiger Bezeichnung des Änderungsbefehls in § 8a Abs. 1 Satz 1 Nr. 2 ausgeführt +++)
+(+++ Änderung durch Art. 7 Abs. 22 G v. 12.5.2021 I 990 wurde aufgrund offensichtlich unrichtiger Bezeichnung des Änderungsbefehls in § 8a Abs. 1 Satz 1 Nr. 2 ausgeführt +++)  
+(+++ Änderung durch Art. 1 Nr. 1 Buchst. c DBuchst. aa G v. 30.3.2021 I 448 wurde in § 8a Abs. 3 Eingangssatz ausgeführt sowie in § 8a Abs. 3 Nr. 1 entsprechend umgesetzt +++)
 
 # § 8b – Verfahrensregelungen zu besonderen Auskunftsverlangen
 

@@ -1167,10 +1167,6 @@ Sofortzuschlag
 
 § 146
 
-Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-§ 146
-
 Sozialhilfe für Ausländerinnen und Ausländer mit einem Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder einer entsprechenden Fiktionsbescheinigung
 
   
@@ -1833,7 +1829,7 @@ Hat ein Kreis oder eine kreisfreie Stadt eine Satzung nach den §§ 22a bis 22c 
 
 5. den Termin zur mündlichen Verhandlung, sofern dieser bereits bestimmt ist.
 
-Außerdem kann der Tag der Rechtshängigkeit mitgeteilt werden. Die Übermittlung unterbleibt, wenn die Nichtzahlung der Miete nach dem Inhalt der Klageschrift offensichtlich nicht auf Zahlungsunfähigkeit des Mieters beruht. Die übermittelten Daten dürfen auch für entsprechende Zwecke der Sozialen Entschädigung, soweit es sich um Besondere Leistungen im Einzelfall nach Kapitel 11 des Vierzehnten Buches handelt, gespeichert, verändert, genutzt, übermittelt und in der Verarbeitung eingeschränkt werden.
+Außerdem kann der Tag der Rechtshängigkeit mitgeteilt werden. Die Übermittlung unterbleibt, wenn die Nichtzahlung der Miete nach dem Inhalt der Klageschrift offensichtlich nicht auf Zahlungsunfähigkeit des Mieters beruht. Die übermittelten Daten dürfen auch für entsprechende Zwecke der Kriegsopferfürsorge nach dem Bundesversorgungsgesetz gespeichert, verändert, genutzt, übermittelt und in der Verarbeitung eingeschränkt werden.
 
 # § 37 – Ergänzende Darlehen
 
@@ -2858,7 +2854,7 @@ zu bestimmen.
 
 # § 82 – Begriff des Einkommens
 
-(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Leistungen nach diesem Buch und der Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit bis zur Höhe der vergleichbaren Leistungen nach dem Vierzehnten Buch. Nicht zum Einkommen gehören
+(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert. Nicht zum Einkommen gehören
 
 1. Leistungen nach diesem Buch,
 
@@ -3557,7 +3553,7 @@ b) Darlehen bei am Monatsende fälligen Einkünften nach § 37a.
 
 7. Vermögenseinkünfte,
 
-8. Einkünfte nach dem Vierzehnten Buch,
+8. Einkünfte nach dem Bundesversorgungsgesetz,
 
 9. Erwerbseinkommen,
 
@@ -3836,10 +3832,6 @@ Der Sofortzuschlag wird erstmalig für den Monat Juli 2022 erbracht.
 (3) § 17 Absatz 1 Satz 2 gilt auch für den Anspruch auf den Sofortzuschlag.
 
 (4) Die für die Ausführung der Absätze 1 bis 3 zuständigen Träger werden nach Landesrecht bestimmt. Die §§ 3, 6 und 7 sind nicht anzuwenden.
-
-# § 146 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 36 Absatz 2 Satz 4, des § 43 Absatz 3 Satz 2 und 3, des § 82 Absatz 1 Satz 1 und des § 128d Nummer 8 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 # § 146 – Sozialhilfe für Ausländerinnen und Ausländer mit einem Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder einer entsprechenden Fiktionsbescheinigung
 

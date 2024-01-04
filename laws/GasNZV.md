@@ -33,7 +33,7 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
 10. „Marktgebiet“ ist die Zusammenfassung gleichgelagerter und nachgelagerter Netze, in denen Transportkunden gebuchte Kapazitäten frei zuordnen, Gas an Letztverbraucher ausspeisen und in andere Bilanzkreise übertragen können;
 
-11. „Marktgebietsverantwortlicher“ ist die von den Fernleitungsnetzbetreibern bestimmte natürliche oder juristische Person, die in einem Marktgebiet Leistungen erbringt, die zur Verwirklichung einer effizienten Abwicklung des Gasnetzzugangs in einem Marktgebiet durch eine Person zu erbringen sind;
+11. (weggefallen)
 
 11a. „Realisierungsfahrplan“ ist ein gemeinsamer Plan von Netzbetreiber und Anschlussnehmer oder Anschlusswilligem über Inhalt, zeitliche Abfolge und Verantwortlichkeit für die einzelnen Schritte zur Herstellung des Netzanschlusses oder zum Kapazitätsausbau, um die einzelnen Schritte der Beteiligten miteinander zu synchronisieren;
 
@@ -571,15 +571,7 @@ Für diesen Verordnungsabschnitt sind die folgenden Begriffsbestimmungen anzuwen
 
 (2) Das Bundesministerium für Wirtschaft und Energie evaluiert bis zum 1. Juni 2023 die Netzanschlusspflicht nach § 39b und ihre Auswirkungen. In dem Bericht stellt das Bundesministerium für Wirtschaft und Energie auch dar, ob eine Fortgeltung der Netzanschlusspflicht nach § 39b über den 1. Juni 2024 hinaus notwendig ist.
 
-# § 40 – Veröffentlichungspflichten
-
-Marktgebietsverantwortliche veröffentlichen auf ihrer Internetseite:
-
-1. die Methoden, nach denen die Ausgleichs- und Regelenergieentgelte berechnet werden;
-
-2. unverzüglich nach der Bilanzierungsperiode die verwendeten Entgelte für Ausgleichsenergie sowie
-
-3. jeweils am Folgetag des Einsatzes der Regelenergie und mindestens für die zwölf zurückliegenden Monate, Informationen über den Einsatz interner und externer Regelenergie. Bei externer Regelenergie haben die Marktgebietsverantwortlichen zwischen externen Flexibilitäten und externen Gasmengen zu unterscheiden. Sie haben auch anzugeben, welcher Anteil der externen Regelenergie auf Grund lokaler oder räumlich begrenzter Ungleichgewichte eingesetzt wurde.
+# § 40 – (weggefallen)
 
 # § 41 – Lieferantenwechsel
 
@@ -627,7 +619,7 @@ Die Messung erfolgt nach den Bestimmungen des Messstellenbetriebsgesetzes.
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1 Absatz 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die Regulierungsbehörde unter Beachtung der Anforderungen eines sicheren Netzbetriebs Entscheidungen durch Festlegungen nach § 29 Absatz 1 des Energiewirtschaftsgesetzes treffen:
 
-1. zu den Verträgen nach den §§ 3, 7 und 33 sowie den Geschäftsbedingungen nach § 3 Absatz 6, den §§ 4 und 40 Absatz 1a Nummer 2, sofern nicht ein Standardangebot angewendet wird;
+1. zu den Verträgen nach den §§ 3, 7 und 33 sowie den Geschäftsbedingungen nach § 3 Absatz 6, den §§ 4 und 23c Absatz 4 Nummer 8 des Energiewirtschaftsgesetzes, sofern nicht ein Standardangebot angewendet wird;
 
 2. zu den Voraussetzungen und Grenzen für technische Ausspeisemeldungen nach § 8 Absatz 5;
 
@@ -673,11 +665,11 @@ Die Messung erfolgt nach den Bestimmungen des Messstellenbetriebsgesetzes.
 
 (4) Die Regulierungsbehörde kann zu Standardlastprofilen nach § 24 und deren Anwendung nach Anhörung der Verbände der Netzbetreiber und der Verbände der Transportkunden Festlegungen treffen, insbesondere zur Behandlung der Messeinrichtungen im Sinne des Messstellenbetriebsgesetzes und zur Behandlung der ausgelesenen Messwerte im Rahmen des Netzzugangs sowie zur Erarbeitung von Lastprofilen für bestimmte Verbrauchergruppen. Sie kann für die Erarbeitung von Lastprofilen für bestimmte Verbrauchergruppen terminliche Vorgaben machen. Dabei sind die Erfahrungen der Marktteilnehmer angemessen zu berücksichtigen.
 
-(5) Die Regulierungsbehörde kann die Netzbetreiber auch verpflichten, über die Angaben in § 40 hinaus weitere Informationen zu veröffentlichen oder an die Regulierungsbehörde zu übermitteln, die für den Wettbewerb im Gashandel oder bei der Belieferung der Kunden erforderlich sind. Die Regulierungsbehörde kann die Netzbetreiber und Transportkunden verpflichten, bei der Erfüllung von Veröffentlichungs- und Datenübermittlungspflichten aus dieser Verordnung oder aus Festlegungsentscheidungen auf der Grundlage dieser Verordnung bestimmte einheitliche Formate einzuhalten.
+(5) (weggefallen)
 
 (6) Die Regulierungsbehörde macht Festlegungsentscheidungen in ihrem Amtsblatt öffentlich bekannt und veröffentlicht sie kostenfrei im Internet in druckbarer Form.
 
-(7) Anstelle einer Festlegungsentscheidung kann die Regulierungsbehörde in den Fällen des Absatzes 1 Satz 1 Nummer 1 die Netzbetreiber auffordern, ihr innerhalb einer bestimmten, angemessenen Frist ein Standardangebot für Geschäftsbedingungen nach § 4 und für die Ausgestaltung der Kapazitätsprodukte nach § 11 vorzulegen, insbesondere in Bezug auf die Möglichkeit zur nachträglichen Änderung der Nominierung sowie auf standardisierte Bedingungen nach § 40 Absatz 1a Nummer 2. Sie kann in dieser Aufforderung Vorgaben für die Ausgestaltung einzelner Bedingungen machen, insbesondere in Bezug auf Diskriminierungsfreiheit und Angemessenheit. Sie gibt den Verbänden der Netzbetreiber und den Verbänden der Transportkunden in geeigneter Form Gelegenheit zur Stellungnahme und kann unter Berücksichtigung der Stellungnahmen durch Festlegung Änderungen der Standardangebote vornehmen, insbesondere soweit einzelne Vorgaben nicht umgesetzt worden sind.
+(7) Anstelle einer Festlegungsentscheidung kann die Regulierungsbehörde in den Fällen des Absatzes 1 Satz 1 Nummer 1 die Netzbetreiber auffordern, ihr innerhalb einer bestimmten, angemessenen Frist ein Standardangebot für Geschäftsbedingungen nach § 4 und für die Ausgestaltung der Kapazitätsprodukte nach § 11 vorzulegen, insbesondere in Bezug auf die Möglichkeit zur nachträglichen Änderung der Nominierung sowie auf standardisierte Bedingungen nach § 23c Absatz 4 Nummer 8 des Energiewirtschaftsgesetzes. Sie kann in dieser Aufforderung Vorgaben für die Ausgestaltung einzelner Bedingungen machen, insbesondere in Bezug auf Diskriminierungsfreiheit und Angemessenheit. Sie gibt den Verbänden der Netzbetreiber und den Verbänden der Transportkunden in geeigneter Form Gelegenheit zur Stellungnahme und kann unter Berücksichtigung der Stellungnahmen durch Festlegung Änderungen der Standardangebote vornehmen, insbesondere soweit einzelne Vorgaben nicht umgesetzt worden sind.
 
 (8) Die Regulierungsbehörde kann Netzbetreiber und Marktgebietsverantwortliche verpflichten, innerhalb einer bestimmten, angemessenen Frist ein Standardangebot zu den in Absatz 1 Nummer 9 genannten Teilen des Bilanzierungssystems vorzulegen. Sie kann in dieser Aufforderung Vorgaben für die Ausgestaltung einzelner Bedingungen machen, insbesondere in Bezug auf standardisierte Geschäftsprozesse der Bilanzierung wie für den elektronischen Datenaustausch im Rahmen der Bilanzierung, soweit dies einer effizienten Abwicklung der Bilanzierung dient. Sie gibt den Verbänden der Netzbetreiber und den Verbänden der Transportkunden in geeigneter Form Gelegenheit zur Stellungnahme und kann unter Berücksichtigung der Stellungnahmen durch Festlegung Änderungen der Standardangebote vornehmen, insbesondere soweit einzelne Vorgaben nicht umgesetzt worden sind.
 
@@ -697,10 +689,8 @@ Die Messung erfolgt nach den Bestimmungen des Messstellenbetriebsgesetzes.
 
 6. entgegen § 33 Absatz 5 Satz 4 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-7. entgegen § 33 Absatz 6 Satz 3 ein Vertragsangebot nicht oder nicht rechtzeitig vorlegt,
+7. entgegen § 33 Absatz 6 Satz 3 ein Vertragsangebot nicht oder nicht rechtzeitig vorlegt oder
 
-8. entgegen § 40 Absatz 1 Nummer 2 oder § 40 Absatz 2 Nummer 2 oder Nummer 3 Satz 1 eine Veröffentlichung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt oder
-
-9. einer vollziehbaren Anordnung nach § 50 Absatz 5 zuwiderhandelt.
+8. einer vollziehbaren Anordnung nach § 50 Absatz 5 zuwiderhandelt.
 
 (2) Ordnungswidrig im Sinne des § 95 Absatz 1 Nummer 5 Buchstabe b des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 50 Absatz 1, 2, 3 Satz 1 oder Satz 2, Absatz 4 Satz 1 oder Satz 2, Absatz 7 oder Absatz 8 zuwiderhandelt.

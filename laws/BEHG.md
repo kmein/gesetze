@@ -221,9 +221,9 @@ Der Verantwortliche hat jährlich bis zum 30. September an die zuständige Behö
 
 3. im Zeitraum vom 1. Januar 2023 bis zum 31. Dezember 2023: 30 Euro,
 
-4. im Zeitraum vom 1. Januar 2024 bis zum 31. Dezember 2024: 35 Euro,
+4. im Zeitraum vom 1. Januar 2024 bis zum 31. Dezember 2024: 45 Euro,
 
-5. im Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025: 45 Euro.
+5. im Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025: 55 Euro.
 
 Verantwortliche können bis zu 10 Prozent der in einem der Jahre 2021 bis 2025 erworbenen Emissionszertifikate bis zum 30. September des jeweiligen Folgejahres zur Erfüllung der Abgabepflicht nach § 8 für das Vorjahr zu dem für dieses Jahr festgelegten Festpreis erwerben. Für das Jahr 2026 wird ein Preiskorridor mit einem Mindestpreis von 55 Euro pro Emissionszertifikat und einem Höchstpreis von 65 Euro pro Emissionszertifikat festgelegt.
 
