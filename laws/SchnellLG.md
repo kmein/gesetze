@@ -9,6 +9,10 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 Das Gesetz gilt für die Schnellladeinfrastruktur reiner Batterieelektrofahrzeuge der Klassen M und N im Sinne des Artikels 4 der Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG (ABl. L 151 vom 14.6.2018, S. 1), die durch die Verordnung (EU) 2019/2144 (ABl. L 325 vom 16.12.2019, S. 1) geändert worden ist, mit mindestens vier Rädern.
 
+# § 1a – Besondere Bedeutung der Errichtung und des Betriebs von Schnellladeinfrastruktur
+
+Die Errichtung und der Betrieb von Schnellladepunkten und Schnellladestandorten an Bundesfernstraßen liegt im überragenden öffentlichen Interesse, solange und soweit eine bedarfsdeckende Ausstattung noch nicht erreicht ist. Das Bundesministerium für Digitales und Verkehr gibt den Zeitpunkt, zu dem die bedarfsdeckende Ausstattung mit Schnellladepunkten und Schnellladestandorten erreicht ist, im Bundesanzeiger bekannt.
+
 # § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist

@@ -7,12 +7,12 @@ Auf Grund des § 21b Abs. 3 Satz 1 in Verbindung mit Satz 3, des § 24 Satz 1 Nr
 
 # Inhaltsübersicht
 
-|      |                                                                     |
-|:-----|:--------------------------------------------------------------------|
-| § 1  | Anwendungsbereich                                                   |
-| § 2  | Begriffsbestimmungen                                                |
-| § 3  | Grundlagen des Netzzugangs                                          |
-| § 3a | Gewährleistung des Netzzugangs in der einheitlichen Stromgebotszone |
+|      |                            |
+|:-----|:---------------------------|
+| § 1  | Anwendungsbereich          |
+| § 2  | Begriffsbestimmungen       |
+| § 3  | Grundlagen des Netzzugangs |
+| § 3a | (weggefallen)              |
 
 |     |                                                             |
 |:----|:------------------------------------------------------------|
@@ -43,19 +43,19 @@ Auf Grund des § 21b Abs. 3 Satz 1 in Verbindung mit Satz 3, des § 24 Satz 1 Nr
   
   
 
-|       |                                     |
-|:------|:------------------------------------|
-| § 14  | Lieferantenwechsel                  |
-| § 15  | Engpassmanagement                   |
-| § 16  | Allgemeine Zusammenarbeitspflichten |
-| § 17  | (weggefallen)                       |
-| § 18  | Messung                             |
-| § 18a | (weggefallen)                       |
-| § 18b | (weggefallen)                       |
-| § 19  | (weggefallen)                       |
-| § 20  | (weggefallen)                       |
-| § 21  | (weggefallen)                       |
-| § 22  | (weggefallen)                       |
+|       |                    |
+|:------|:-------------------|
+| § 14  | Lieferantenwechsel |
+| § 15  | Engpassmanagement  |
+| § 16  | (weggefallen)      |
+| § 17  | (weggefallen)      |
+| § 18  | Messung            |
+| § 18a | (weggefallen)      |
+| § 18b | (weggefallen)      |
+| § 19  | (weggefallen)      |
+| § 20  | (weggefallen)      |
+| § 21  | (weggefallen)      |
+| § 22  | (weggefallen)      |
 
   
   
@@ -114,25 +114,19 @@ eine Zeitreihe, die für jede Abrechnungsperiode einen Leistungsmittelwert festl
 
 ein Unternehmen, dessen Geschäftstätigkeit auf den Vertrieb von Elektrizität gerichtet ist;
 
-6. Minutenreserve
-
-die Regelleistung, mit deren Einsatz eine ausreichende Sekundärregelreserve innerhalb von 15 Minuten wiederhergestellt werden kann;
+6. (weggefallen)
 
 7. Netznutzungsvertrag
 
 der in § 20 Abs. 1a des Energiewirtschaftsgesetzes genannte Vertrag;
 
-8. Primärregelung
+8. (weggefallen)
 
-die im Sekundenbereich automatisch wirkende stabilisierende Wirkleistungsregelung der synchron betriebenen Verbundnetze durch Aktivbeitrag der Kraftwerke bei Frequenzänderungen und Passivbeitrag der von der Frequenz abhängigen Lasten;
+9. (weggefallen)
 
-9. Regelenergie
+10. (weggefallen)
 
-diejenige Energie, die zum Ausgleich von Leistungsungleichgewichten in der jeweiligen Regelzone eingesetzt wird;
-
-10. Sekundärregelung
-
-die betriebsbezogene Beeinflussung von zu einem Versorgungssystem gehörigen Einheiten zur Einhaltung des gewollten Energieaustausches der jeweiligen Regelzonen mit den übrigen Verbundnetzen bei gleichzeitiger, integraler Stützung der Frequenz;
+10a. (weggefallen)
 
 10a. Stromgebotszone
 
@@ -142,9 +136,7 @@ das größte geografische Gebiet, in dem Marktteilnehmer ohne Kapazitätsvergabe
 
 ein Bilanzkreis, der nicht für den Ausgleich der Abweichungen gegenüber dem Betreiber von Übertragungsnetzen verantwortlich ist;
 
-12. Verlustenergie
-
-die zum Ausgleich physikalisch bedingter Netzverluste benötigte Energie;
+12. (weggefallen)
 
 13. Zählerstandsgang
 
@@ -158,9 +150,7 @@ der Netzpunkt, an dem der Energiefluss zähltechnisch erfasst wird.
 
 Der Anspruch auf Netznutzung wird begrenzt durch die jeweiligen Kapazitäten der Elektrizitätsversorgungsnetze. Betreiber von Elektrizitätsversorgungsnetzen werden durch Netznutzungs- und Lieferantenrahmenverträge nicht gehindert, Änderungen an der Ausgestaltung ihrer Netze vorzunehmen. Die §§ 14 und 17 bleiben unberührt.
 
-# § 3a – Gewährleistung des Netzzugangs in der einheitlichen Stromgebotszone
-
-Die Betreiber von Übertragungsnetzen sind verpflichtet, Handelstransaktionen innerhalb des Gebiets der Bundesrepublik Deutschland ohne Kapazitätsvergabe in der Weise zu ermöglichen, dass das Gebiet der Bundesrepublik Deutschland eine einheitliche Stromgebotszone bildet. Sie dürfen insbesondere nicht einseitig eine Kapazitätsvergabe einführen, die zu einer einseitigen Aufteilung der einheitlichen deutschen Stromgebotszone führen würde. Sobald für einen Betreiber von Übertragungsnetzen erkennbar wird, dass die Erfüllung der Pflicht nach Satz 1 und die Einhaltung des Verbots nach Satz 2 unmöglich zu werden droht, hat er dies der Bundesnetzagentur unverzüglich in Textform anzuzeigen. § 20 Absatz 2 des Energiewirtschaftsgesetzes bleibt unberührt.
+# § 3a – (weggefallen)
 
 # § 4 – Bilanzkreise
 
@@ -308,11 +298,7 @@ Wenn der neue Lieferant keine der in Satz 2 aufgeführten Datenkombinationen vol
 
 (5) Die Absätze 1 bis 4 gelten auch für Betreiber von Elektrizitätsverteilernetzen.
 
-# § 16 – Allgemeine Zusammenarbeitspflichten
-
-(1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, gemeinsam mit den anderen Netzbetreibern einheitliche Bedingungen des Netzzugangs zu schaffen, um die Transaktionskosten des Zugangs zum gesamten Elektrizitätsversorgungsnetz so gering wie möglich zu halten.
-
-(2) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, untereinander die zur effizienten Organisation des Netzzugangs erforderlichen Verträge abzuschließen und die notwendigen Daten unverzüglich auszutauschen.
+# § 16 – (weggefallen)
 
 # § 17 – (weggefallen)
 
@@ -518,9 +504,7 @@ f) zu Übergangsbestimmungen.
 
 # § 29 – Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 65 Abs. 2 des Energiewirtschaftsgesetzes in Verbindung mit § 17 Abs. 1 oder 2 zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe b des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 27 Abs. 1 Nr. 1, 3, 7, 9, 15, 16, 17 oder 18 oder § 28 Abs. 1 Satz 2 zuwiderhandelt.
+Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe b des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 27 Abs. 1 Nr. 1, 3, 7, 9, 15, 16, 17 oder 18 oder § 28 Abs. 1 Satz 2 zuwiderhandelt.
 
 # § 30 – (weggefallen)
 
