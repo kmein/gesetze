@@ -1,4 +1,4 @@
-% Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung –  (SGB XIV)
+% Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung –  (Vierzehntes Buch Sozialgesetzbuch - SGB XIV)
 % Ausfertigungsdatum: 12.12.2019
  
 # Inhaltsübersicht
@@ -329,7 +329,7 @@ Ausländerinnen und Ausländer haben dieselben Ansprüche wie Deutsche.
 
 (1) Berechtigte haben wegen eines schädigenden Ereignisses nach diesem Buch gegen den Bund oder die Länder nur die auf diesem Buch beruhenden Ansprüche. Jedoch finden die Vorschriften der beamtenrechtlichen Unfallfürsorge in der jeweils geltenden Fassung Anwendung. Trifft ein Entschädigungsanspruch aufgrund eines schädigenden Ereignisses nach Kapitel 2 Abschnitt 2 Unterabschnitt 1 mit einem Schadensersatzanspruch aufgrund fahrlässiger Amtspflichtverletzung zusammen, so wird der Anspruch nach § 839 Absatz 1 des Bürgerlichen Gesetzbuchs nicht dadurch ausgeschlossen, dass die Voraussetzungen für den Entschädigungsanspruch bestehen.
 
-(2) Treffen Ansprüche aus mehreren schädigenden Ereignissen nach § 1 Absatz 3 zusammen, so ist ein einheitlicher Grad der Schädigungsfolgen festzusetzen. Dies gilt auch, wenn Ansprüche aus diesem Gesetz mit Ansprüchen aus anderen Gesetzen, die eine entsprechende Anwendung dieses Gesetzes vorsehen, zusammentreffen.
+(2) Treffen Ansprüche aus mehreren schädigenden Ereignissen nach § 1 Absatz 2 zusammen, so ist ein einheitlicher Grad der Schädigungsfolgen festzusetzen. Dies gilt auch, wenn Ansprüche aus diesem Gesetz mit Ansprüchen aus anderen Gesetzen, die eine entsprechende Anwendung dieses Gesetzes vorsehen, zusammentreffen.
 
 (3) Ansprüche nach dem Siebten Buch, nach dem Soldatenversorgungsgesetz oder nach der beamtenrechtlichen Unfallfürsorge gehen den Ansprüchen nach diesem Buch vor, soweit beide Ansprüche auf derselben Ursache beruhen. Der Anspruch auf Leistungen nach diesem Buch ruht in Höhe der Versorgung aus der gesetzlichen Unfallversicherung oder nach dem Soldatenversorgungsgesetz und in Höhe des Unterschiedsbetrags zwischen einer Versorgung nach allgemeinen beamtenrechtlichen Bestimmungen und aus der beamtenrechtlichen Unfallfürsorge, soweit beide Ansprüche auf derselben Ursache beruhen.
 
@@ -381,7 +381,7 @@ Ansprüche auf Entschädigungszahlungen nach Kapitel 9 und die Geldleistung nach
 
 # § 12 – Übernahme der Aufwendungen für Dolmetscherinnen und Dolmetscher, Übersetzerinnen und Übersetzer sowie Kommunikationshilfen
 
-(1) Bei der Ausführung von Leistungen nach diesem Buch und im Verwaltungsverfahren werden notwendige Aufwendungen für Dolmetscherinnen und Dolmetscher sowie Übersetzerinnen und Übersetzer von dem Träger der Sozialen Entschädigung getragen, wenn eine berechtigte oder antragstellende Person ihren gewöhnlichen Aufenthalt seit weniger als fünf Jahren im Geltungsbereich dieses Buches hat. Für Leistungen in einer Traumaambulanz beträgt diese Frist zehn Jahre.
+(1) Bei der Ausführung von Leistungen nach diesem Buch und im Verwaltungsverfahren werden notwendige Aufwendungen für Dolmetscherinnen und Dolmetscher sowie Übersetzerinnen und Übersetzer von dem Träger der Sozialen Entschädigung getragen, wenn eine berechtigte oder antragstellende Person ihren gewöhnlichen Aufenthalt seit weniger als fünf Jahren im Geltungsbereich dieses Buches hat. Für Leistungen in einer Traumaambulanz und psychotherapeutische Leistungen nach Kapitel 5 beträgt diese Frist zehn Jahre.
 
 (2) Hat eine antragstellende oder berechtigte Person ihren gewöhnlichen Aufenthalt im Ausland, werden notwendige Aufwendungen für Übersetzerinnen und Übersetzer bei der Antragstellung nach diesem Buch von dem Träger der Sozialen Entschädigung getragen.
 
@@ -648,7 +648,7 @@ Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende sollen psychothe
 
 (1) Besteht bei Personen, die die Betreuung in der Traumaambulanz in Anspruch nehmen, auch nach dieser Betreuung weiterer psychotherapeutischer Behandlungsbedarf, so verweist der Träger der Sozialen Entschädigung sie auf weitere psychotherapeutische Angebote.
 
-(2) Die Traumaambulanz ist verpflichtet, der zuständigen Behörde den weiteren Bedarf so frühzeitig wie möglich mitzuteilen. Die nach Landesrecht zuständigen Behörden legen in den nach § 39 zu schließenden Vereinbarungen die Konsequenzen eines Verstoßes gegen die Informationspflicht aus Satz 1 fest.
+(2) Die Traumaambulanz ist verpflichtet, der zuständigen Behörde den weiteren Bedarf so frühzeitig wie möglich mitzuteilen. Die nach Landesrecht zuständigen Behörden legen in den nach § 37 zu schließenden Vereinbarungen die Konsequenzen eines Verstoßes gegen die Informationspflicht aus Satz 1 fest.
 
 (+++ §§ 31 bis 37: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
@@ -782,14 +782,14 @@ c) von psychotherapeutisch tätigen Ärztinnen und Ärzten oder Psychotherapeuti
 
 (1) Leistungen der Krankenbehandlung werden als Sachleistungen erbracht, soweit sich aus diesem Buch, dem Fünften Buch oder dem Neunten Buch nichts Abweichendes ergibt.
 
-(2) Geschädigte erhalten Sachleistungen ohne Beteiligung an den Kosten.
+(2) Geschädigte erhalten Sachleistungen ohne Beteiligung an den Kosten. Dies gilt nicht für nach § 42 Absatz 2 erbrachte Sachleistungen.
 
 (+++ § 44 Abs. 2: Zur Geltung vgl. § 151 Abs. 1 Satz 2  
 § 44: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 45 – Nachweispflicht
 
-Berechtigte haben gegenüber Ärzten und anderen Leistungserbringern nachzuweisen, dass sie berechtigt sind, Leistungen der Krankenbehandlung der Sozialen Entschädigung in Anspruch zu nehmen. Für die Nachweispflicht gilt § 15 Absatz 2 bis 6 des Fünften Buches entsprechend. Berechtigte, die über keine elektronische Gesundheitskarte nach § 291 des Fünften Buches verfügen, erhalten von der nach § 57 Absatz 3 oder 4 zuständigen Krankenkasse eine mit der elektronischen Gesundheitskarte technisch kompatible Karte.
+Für den Nachweis der Berechtigung zur Inanspruchnahme von Leistungen der Krankenbehandlung der Sozialen Entschädigung nach § 42 gilt § 15 Absatz 2 bis 6 des Fünften Buches entsprechend. Abweichend von Satz 1 legitimieren sich Berechtigte, die über keine elektronische Gesundheitskarte nach § 291 des Fünften Buches verfügen, durch Vorlage von Behandlungsscheinen. Diese werden den Berechtigten von der nach § 57 Absatz 3 oder 4 zuständigen Krankenkasse ausgestellt.
 
 (+++ § 45: Zur Geltung vgl. § 143 Abs. 1 S 2 +++)  
 (+++ § 45 Satz 1 und 2: Zur Geltung vgl. § 151 Abs. 1 Satz 6 +++)  
@@ -831,13 +831,15 @@ Dabei gelten die Grundsätze der Leistungserbringung des Rechts der gesetzlichen
 
 (4) Das Krankengeld der Sozialen Entschädigung beträgt 80 Prozent des Regelentgelts, darf jedoch das entgangene regelmäßige Nettoarbeitsentgelt nicht übersteigen. Das Regelentgelt wird bis zur Höhe der jeweils geltenden Leistungsbemessungsgrenze berücksichtigt. Leistungsbemessungsgrenze ist der 360. Teil der jährlichen Beitragsbemessungsgrenze der allgemeinen Rentenversicherung.
 
-(5) Für die nach dem Künstlersozialversicherungsgesetz Versicherten sowie für Versicherte, die eine Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 2 des Fünften Buches abgegeben haben, entsteht der Anspruch auf Krankengeld der Sozialen Entschädigung zu den in § 46 Satz 1 des Fünften Buches geregelten Zeiten. § 46 Satz 2 bis 4 des Fünften Buches findet keine Anwendung.
+(5) Haben Geschädigte von einem anderen Rehabilitationsträger Krankengeld, Versorgungskrankengeld, Verletztengeld oder Übergangsgeld bezogen und ist ihnen im Anschluss daran Krankengeld der Sozialen Entschädigung zu zahlen, so ist bei dessen Berechnung von dem bisher zugrunde gelegten Entgelt auszugehen.
 
-(6) Für Versicherte, die eine Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 3 des Fünften Buches abgegeben haben, ruht der Anspruch auf Krankengeld der Sozialen Entschädigung abweichend von § 49 Absatz 1 Nummer 7 des Fünften Buches in den ersten sechs Wochen der Arbeitsunfähigkeit nicht.
+(6) Für die nach dem Künstlersozialversicherungsgesetz Versicherten sowie für Versicherte, die eine Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 2 des Fünften Buches abgegeben haben, entsteht der Anspruch auf Krankengeld der Sozialen Entschädigung zu den in § 46 Satz 1 des Fünften Buches geregelten Zeiten. § 46 Satz 2 bis 4 des Fünften Buches findet keine Anwendung.
 
-(7) Das Krankengeld der Sozialen Entschädigung endet nicht vor dem Ende einer stationären Behandlung.
+(7) Für Versicherte, die eine Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 3 des Fünften Buches abgegeben haben, ruht der Anspruch auf Krankengeld der Sozialen Entschädigung abweichend von § 49 Absatz 1 Nummer 7 des Fünften Buches in den ersten sechs Wochen der Arbeitsunfähigkeit nicht.
 
-(8) Das Krankengeld der Sozialen Entschädigung ist bis zum Beginn von Leistungen zur Teilhabe am Arbeitsleben oder einer weiteren medizinischen Maßnahme weiter zu zahlen, wenn die Leistungen zur Teilhabe am Arbeitsleben oder eine weitere medizinische Maßnahme
+(8) Das Krankengeld der Sozialen Entschädigung endet nicht vor dem Ende einer stationären Behandlung.
+
+(9) Das Krankengeld der Sozialen Entschädigung ist bis zum Beginn von Leistungen zur Teilhabe am Arbeitsleben oder einer weiteren medizinischen Maßnahme weiter zu zahlen, wenn die Leistungen zur Teilhabe am Arbeitsleben oder eine weitere medizinische Maßnahme
 
 1. nach Abschluss der Krankenbehandlung erforderlich sind und
 
@@ -845,7 +847,7 @@ Dabei gelten die Grundsätze der Leistungserbringung des Rechts der gesetzlichen
 
 Satz 1 gilt nur, wenn Geschädigte arbeitsunfähig sind und ihnen kein Anspruch auf Krankengeld nach dem Fünften Buch zusteht oder ihnen nach Wiedererlangung der Arbeitsfähigkeit keine zumutbare Beschäftigung vermittelt werden kann.
 
-(9) Ein wegen anerkannter Schädigungsfolgen erkranktes Kind, das dadurch bedingt der Beaufsichtigung, Betreuung oder Pflege bedarf, hat für den betreuenden Elternteil Anspruch auf Krankengeld der Sozialen Entschädigung. Es gilt § 45 des Fünften Buches entsprechend mit der Maßgabe, dass das Krankengeld der Sozialen Entschädigung
+(10) Ein wegen anerkannter Schädigungsfolgen erkranktes Kind, das dadurch bedingt der Beaufsichtigung, Betreuung oder Pflege bedarf, hat für den betreuenden Elternteil Anspruch auf Krankengeld der Sozialen Entschädigung. Es gilt § 45 des Fünften Buches entsprechend mit der Maßgabe, dass das Krankengeld der Sozialen Entschädigung
 
 1. abweichend von § 45 Absatz 2 Satz 3 des Fünften Buches 100 Prozent des ausgefallenen Nettoarbeitsentgeltes des betreuenden Elternteils beträgt, aber den 360. Teil der jährlichen Beitragsbemessungsgrenze der allgemeinen Rentenversicherung nicht übersteigen darf,
 
@@ -917,9 +919,9 @@ Anstelle der Versorgung mit Zahnersatz können Geschädigte für die Beschaffung
 
 (1) Für Geschädigte werden für die Zeit, in der sie Krankengeld der Sozialen Entschädigung erhalten, folgende Beiträge entrichtet:
 
-1. Beiträge zur Arbeitsförderung und
+1. Beiträge zur Arbeitsförderung bei bestehender Versicherungspflicht nach § 26 Absatz 2 Nummer 1 des Dritten Buches und
 
-2. Beiträge zur gesetzlichen Rentenversicherung.
+2. Beiträge zur gesetzlichen Rentenversicherung bei bestehender Versicherungspflicht nach § 3 Satz 1 Nummer 3 des Sechsten Buches.
 
 (2) Geschädigten, die nicht rentenversicherungspflichtig sind oder von der Rentenversicherungspflicht befreit sind, werden auf Antrag für die Zeit, in der sie Krankengeld der Sozialen Entschädigung erhalten, die Aufwendungen für die Alterssicherung erstattet. Aufwendungen für die Alterssicherung sind insbesondere
 
@@ -931,11 +933,19 @@ Anstelle der Versorgung mit Zahnersatz können Geschädigte für die Beschaffung
 
 Die Erstattung erfolgt bis zur Höhe der Beiträge, die zur gesetzlichen Rentenversicherung für die Zeit des Bezugs von Krankengeld der Sozialen Entschädigung zu entrichten wären, wenn die Geschädigten rentenversicherungspflichtig wären.
 
-(3) In Fällen des § 47 Absatz 9 werden
+(3) In Fällen des § 47 Absatz 10 werden
 
 1. abweichend von Absatz 1 die Beiträge für den Elternteil entrichtet, für den das geschädigte Kind Anspruch auf Krankengeld der Sozialen Entschädigung hat oder
 
 2. abweichend von Absatz 2 dem nicht rentenversicherungspflichtigen oder von der Rentenversicherungspflicht befreiten Elternteil, für den das geschädigte Kind Anspruch auf Krankengeld der Sozialen Entschädigung hat, die Aufwendungen für die Alterssicherung erstattet.
+
+(4) Die Krankenkasse
+
+1. benennt der zuständigen Verwaltungsbehörde vierteljährlich die Personen, die Krankengeld der Sozialen Entschädigung beziehen,
+
+2. macht gegenüber der zuständigen Verwaltungsbehörde vierteljährlich die für die Entrichtung der Beträge erforderlichen Angaben und
+
+3. legt der zuständigen Verwaltungsbehörde auf Anfrage Nachweise für die nach den Nummern 1 und 2 gemachten Meldungen vor.
 
 (+++ § 52: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
@@ -1018,7 +1028,7 @@ erbringt. Die Wahl der Krankenkasse nach Satz 1 ist innerhalb von zwei Wochen na
 
 (4) Das Wahlrecht nach Absatz 3 gilt entsprechend für Angehörige, Hinterbliebene und Nahestehende, die Leistungen nach § 42 Absatz 3 oder Absatz 4 erhalten.
 
-(5) Die Versorgung mit Hilfsmitteln nach § 46 erbringt die zuständige Unfallkasse des Landes für die zuständige Verwaltungsbehörde. Sie erbringt auch die Leistungen nach § 53, die mit der Inanspruchnahme einer Hauptleistung nach § 46 in Zusammenhang stehen.
+(5) Die Versorgung mit Hilfsmitteln nach § 46 Absatz 1 Satz 1 Nummer 1 erbringt die zuständige Unfallkasse des Landes für die zuständige Verwaltungsbehörde. Hierzu zählt auch die Wahrnehmung der sich aus dem Medizinprodukterecht ergebenden Pflichten. Sie erbringt auch die Leistungen nach § 53, die mit der Inanspruchnahme einer Hauptleistung nach § 46 Absatz 1 Satz 1 Nummer 1 in Zusammenhang stehen.
 
 (6) Alle weiteren Leistungen erbringt die zuständige Verwaltungsbehörde. § 18 Absatz 6 Satz 2 und 3 des Neunten Buches bleiben unberührt.
 
@@ -1043,26 +1053,88 @@ erbringt. Die Wahl der Krankenkasse nach Satz 1 ist innerhalb von zwei Wochen na
 
 # § 60 – Erstattung an Krankenkassen
 
-(1) Den Krankenkassen werden von der zuständigen Verwaltungsbehörde halbjährlich die Aufwendungen erstattet, die ihnen nach § 57 Absatz 2, 3 und 4 entstehen.
+(1) Den Krankenkassen werden von der zuständigen Verwaltungsbehörde halbjährlich die Aufwendungen erstattet, die ihnen nach § 57 Absatz 2, 3 und 4, den §§ 143 und 151 entstehen.
 
-(2) Den Krankenkassen werden von der zuständigen Verwaltungsbehörde halbjährlich Verwaltungskosten in Höhe von 5 Prozent des Erstattungsbetrages nach Absatz 1 erstattet.
+(2) Für Aufwendungen der Jahre 2024 bis 2029 werden die Erstattungsansprüche der Krankenkassen nach Absatz 1 pauschal abgegolten. Grundlage für die Festsetzung des Pauschalbetrages eines Kalenderjahres ist die Erstattung der Aufwendungen des Vorjahres. Die Festsetzung des Pauschalbetrages für das Jahr 2024 erfolgt dabei auf Grundlage der für die Aufwendungen im Sinne des Absatzes 1 nach § 20 Absatz 1 des Bundesversorgungsgesetzes oder nach Gesetzen, die § 20 des Bundesversorgungsgesetzes ganz oder teilweise für entsprechend anwendbar erklärt haben, jeweils für das Jahr 2023 gezahlten Erstattungsbeträge. Der sich daraus ergebende Betrag wird einmalig für das Jahr 2024 um 10 Prozent erhöht. Der für das Jahr 2024 erhöhte Betrag sowie in den Folgejahren der Betrag nach Satz 2 werden um den Prozentsatz verändert, um den sich die Zahl der Empfängerinnen und Empfänger von Leistungen nach Kapitel 9, den §§ 144 und 148 am 1. Juli des Jahres im Vergleich zum 1. Juli des Vorjahres verändert hat. Dieses Ergebnis wird danach um den Prozentsatz verändert, um den sich die Ausgaben der Krankenkassen je Mitglied und Rentner einschließlich der Familienangehörigen für Leistungen der Krankenbehandlung, mit Ausnahme für Leistungen der Hilfsmittelversorgung, nach dem Dritten Kapitel, Fünfter Abschnitt Erster und Zweiter Titel sowie Siebter und Achter Abschnitt des Fünften Buches jeweils im ersten Halbjahr gegenüber dem ersten Halbjahr des Vorjahres verändert haben.
 
-(3) Ab dem 1. Januar des dritten auf das Inkrafttreten dieses Gesetzes nach Artikel 60 Absatz 7 des Gesetzes zur Regelung des Sozialen Entschädigungsrechts folgenden Kalenderjahres werden die Erstattungsansprüche der Krankenkassen nach Absatz 1 pauschal abgegolten. Ab diesem Zeitpunkt werden den Krankenkassen Verwaltungskosten in Höhe von 5 Prozent des Pauschalbetrages nach Satz 1 erstattet. Näheres zur Pauschalabgeltung regelt eine Verwaltungsvereinbarung, die die Bundesstelle für Soziale Entschädigung mit dem Spitzenverband Bund der Krankenkassen abschließt. Die Verwaltungsvereinbarung kann auch eine vorläufige Regelung treffen. Die Vereinbarung bedarf der Zustimmung des Bundesministeriums für Arbeit und Soziales, des Bundesministeriums für Gesundheit und der Länder.
+(3) Der von den einzelnen Ländern zu tragende Anteil am Pauschalbetrag nach Absatz 2 bestimmt sich nach deren Anteil an der Zahl der Empfängerinnen und Empfänger von Leistungen nach Kapitel 9, den §§ 144 und 148 am 1. Juli des jeweiligen Jahres. Das Bundesministerium für Arbeit und Soziales gibt die von den Ländern zu zahlenden jährlichen Anteile am Pauschalbetrag bekannt. Die zuständige Verwaltungsbehörde zahlt ihren jeweiligen Anteil am Pauschalbetrag in Teilbeträgen an den Spitzenverband Bund der Krankenkassen. Der jeweils für das erste Kalenderhalbjahr zu zahlende Teilbetrag wird als Abschlagszahlung in Höhe von 40 Prozent des Pauschalbetrages des Vorjahres zum 1. Juli des Jahres geleistet. Der verbleibende Restbetrag ist zum Ende des Kalenderjahres zu leisten.
 
-(4) Können sich die Bundesstelle für Soziale Entschädigung und der Spitzenverband Bund der Krankenkassen bis zu dem in Absatz 3 Satz 1 genannten Zeitpunkt nicht auf eine Verwaltungsvereinbarung einigen, entscheidet eine Schiedsstelle über die Einzelheiten der Pauschalabgeltung. Die Entscheidung der Schiedsstelle bedarf der Zustimmung des Bundesministeriums für Arbeit und Soziales, des Bundesministeriums für Gesundheit und der Länder. Die Schiedsstelle besteht aus einem oder einer unparteiischen Vorsitzenden, zwei weiteren unparteiischen Mitgliedern sowie je zwei Vertretern und Vertreterinnen der Bundesstelle für Soziale Entschädigung und des Spitzenverbandes Bund der Krankenkassen. Der oder die Vorsitzende und die unparteiischen Mitglieder werden von der Bundesstelle für Soziale Entschädigung und dem Spitzenverband Bund der Krankenkassen gemeinsam bestellt. Können sich die Bundesstelle für Soziale Entschädigung und der Spitzenverband Bund der Krankenkassen nicht auf einzelne oder alle unparteiischen Mitglieder einigen, werden diese vom Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit bestellt.
+(4) Der Spitzenverband Bund der Krankenkassen verteilt den Pauschalbetrag nach Absatz 2 in Höhe von 75 Prozent auf die Krankenkassen nach ihrem Anteil an den risikoadjustierten Zuweisungen aus dem Gesundheitsfonds nach § 266 des Fünften Buches. Der Spitzenverband Bund der Krankenkassen verteilt den Pauschalbetrag in Höhe von 25 Prozent nach ihrem jeweiligen Anteil an den Anspruchsberechtigten nach § 57 Absatz 3 und 4 und den §§ 143 und 151, die weder Mitglied einer Krankenkasse noch nach § 10 des Fünften Buches familienversichert sind. Die Ermittlung des Anteils einer Krankenkasse an den risikoadjustierten Zuweisungen erfolgt auf Grundlage der Ergebnisse des zum Zeitpunkt der Verteilung aktuell abgeschlossenen Jahresausgleichs nach § 266 Absatz 7 Satz 3 des Fünften Buches. Für die landwirtschaftliche Krankenkasse ist aus dem Anteil an dem Pauschalbetrag nach Absatz 2, der nach risikoadjustierten Zuweisungen aus dem Gesundheitsfonds verteilt wird, vorab ein Anteil abzuziehen, der sich nach dem Verhältnis der Anzahl der Versicherten dieser Krankenkasse zu der Anzahl der Versicherten aller Krankenkassen am 1. Juli des Vorjahres bemisst und an die landwirtschaftliche Krankenkasse auszuzahlen ist. Die Krankenkassen melden dem Spitzenverband Bund der Krankenkassen nach Aufforderung die Anzahl der Anspruchsberechtigten nach § 57 Absatz 3 und 4 und den §§ 143 und 151. Maßgebend für die Anzahl der Anspruchsberechtigten sind jeweils die Verhältnisse zum 1. Juli des Vorjahres.
 
-(5) Die Mitglieder der Schiedsstelle führen ihr Amt als Ehrenamt. Auslagen werden ihnen in entsprechender Anwendung des Bundesreisekostengesetzes erstattet. Die Mitglieder der Schiedsstelle sind an Weisungen nicht gebunden. Jedes Mitglied hat eine Stimme. Die Entscheidungen werden von der Mehrheit der Mitglieder getroffen. Ergibt sich keine Mehrheit, gibt die Stimme des oder der Vorsitzenden den Ausschlag. Die Rechtsaufsicht über die Schiedsstelle führt das Bundesministerium für Arbeit und Soziales.
+(5) Für Aufwendungen ab dem Jahr 2030 werden die Erstattungsansprüche der Krankenkassen nach Absatz 1 ebenfalls pauschal abgegolten. Der Berechnung des Pauschalbetrages sind valide Daten zugrunde zu legen.
 
-(6) Bis zur Entscheidung der Schiedsstelle gelten die Absätze 1 und 2.
+(6) Näheres zu den Pauschalabgeltungen nach den Absätzen 2 und 5, einschließlich der zu deren Einführung erforderlichen Melde- und Datenaustauschverfahren sowie die Einzelheiten zur Durchführung der Verfahren, regelt eine Verwaltungsvereinbarung, die die Bundesstelle für Soziale Entschädigung mit dem Spitzenverband Bund der Krankenkassen abschließt. Die Vereinbarung bedarf der Zustimmung des Bundesministeriums für Arbeit und Soziales, des Bundesministeriums für Gesundheit und der Länder.
+
+(7) Können sich die Bundesstelle für Soziale Entschädigung und der Spitzenverband Bund der Krankenkassen nicht auf eine Verwaltungsvereinbarung nach Absatz 6 einigen oder stimmen das Bundesministerium für Arbeit und Soziales, das Bundesministerium für Gesundheit oder die Länder einer Verwaltungsvereinbarung nicht zu, können die Bundesstelle für Soziale Entschädigung oder der Spitzenverband Bund der Krankenkassen ein Schiedsstellenverfahren einleiten. Die Schiedsstelle legt den Vereinbarungsinhalt fest. Entsprechendes gilt, wenn die Bundesstelle für Soziale Entschädigung oder der Spitzenverband Bund der Krankenkassen eine Anpassung der Verwaltungsvereinbarung nach Absatz 6 verlangt und eine Einigung hierüber nicht zustande kommt. Die Entscheidung der Schiedsstelle bedarf der Zustimmung des Bundesministeriums für Arbeit und Soziales sowie des Bundesministeriums für Gesundheit. Die Schiedsstelle besteht aus einem oder einer unparteiischen Vorsitzenden, zwei weiteren unparteiischen Mitgliedern sowie je fünf Vertretern oder Vertreterinnen der Länder und des Spitzenverbandes Bund der Krankenkassen. Der oder die Vorsitzende und die unparteiischen Mitglieder werden von den Ländern und dem Spitzenverband Bund der Krankenkassen gemeinsam bestellt. Können sich die Länder und der Spitzenverband Bund der Krankenkassen nicht auf einzelne oder mehrere unparteiische Mitglieder einigen, werden diese vom Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit bestellt. Die Kosten des Schiedsverfahrens tragen die Länder und der Spitzenverband Bund der Krankenkassen zu gleichen Teilen.
+
+(8) Die Schiedsstelle gibt sich eine Geschäftsordnung. Die Mitglieder der Schiedsstelle führen ihr Amt als Ehrenamt. Sie sind an Weisungen nicht gebunden. Jedes Mitglied hat eine Stimme. Die Entscheidungen werden mit der Mehrheit der Mitglieder getroffen. Ergibt sich keine Mehrheit, gibt die Stimme der oder des Vorsitzenden den Ausschlag. Die Rechtsaufsicht über die Schiedsstelle führt das Bundesministerium für Arbeit und Soziales.
+
+(9) Soweit es ab dem Jahr 2030 an einer Regelung für die Festsetzung des Pauschalbetrages nach Absatz 5 fehlt, gelten die Absätze 2 bis 4 sowie 10 entsprechend.
+
+(10) Den Krankenkassen werden von der zuständigen Verwaltungsbehörde kalenderhalbjährlich Verwaltungskosten in Höhe von 5 Prozent der Pauschalbeträge nach den Absätzen 2 und 5 erstattet.
 
 (+++ § 60: Zur Geltung vgl. § 143 Abs. 1 S 2 +++)  
 (+++ § 60: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
+# § 60a – Datenerhebung
+
+(1) Die zuständige Verwaltungsbehörde übermittelt für erstmals ab dem 1. Januar 2024 bewilligte Leistungen nach Kapitel 5 dieses Buches an die nach § 57 Absatz 2 bis 4 zuständige Krankenkasse folgende Daten:
+
+1. den Namen und Vornamen des Berechtigten,
+
+2. das Geburtsdatum und den Geburtsort des Berechtigten,
+
+3. die Anschrift des Berechtigten,
+
+4. das Aktenzeichen der zuständigen Verwaltungsbehörde,
+
+5. die Krankenversichertennummer des Berechtigten,
+
+6. die Rechtsgrundlage und den Zeitpunkt des festgestellten Anspruchs und
+
+7. die anerkannte Schädigungsfolge.
+
+Zusätzlich übermittelt die zuständige Verwaltungsbehörde eine Kopie des aktuellen Anerkennungsbescheides. Die Übermittlung der Daten und der Kopie des Anerkennungsbescheides erfolgt unverzüglich nach Feststellung des Anspruches auf Leistungen der Krankenbehandlung der Sozialen Entschädigung. Die Verwaltungsbehörde informiert die Krankenkasse unverzüglich über ihr bekannte Änderungen der in Satz 1 genannten Daten. Bei Änderung der Anspruchsvoraussetzungen übermittelt sie der Krankenkasse unverzüglich eine Kopie des Neufeststellungsbescheides.
+
+(2) Werden der Krankenkasse Tatsachen bekannt, die zu einer Änderung der nach Absatz 1 übermittelten Daten führen können, so teilt sie dies unverzüglich der zuständigen Verwaltungsbehörde mit. Die Verwaltungsbehörde prüft, ob eine Änderung der nach Absatz 1 übermittelten Daten angezeigt ist und meldet Änderungen nach Absatz 1.
+
+(3) Für Berechtigte, die einen Anspruch auf Leistungen der Krankenbehandlung der Sozialen Entschädigung gemäß § 143 Absatz 1 haben und eine monatliche Zahlung nach § 83 oder § 144 beziehen, ist Absatz 1 mit der Maßgabe anzuwenden, dass eine erstmalige Übermittlung der Daten bis zum 31. Dezember 2024 zu erfolgen hat. Absatz 2 gilt entsprechend.
+
+(4) Die zuständige Krankenkasse meldet der zuständigen Verwaltungsbehörde bis zum 31. Dezember 2024 die ihr bekannten Berechtigten, die einen Anspruch auf eine Absicherung gegen Krankheit nach § 151 Absatz 1 haben, sowie die nicht von Absatz 3 umfassten Berechtigten, die weder Mitglied einer Krankenkasse noch nach § 10 des Fünften Buches familienversichert sind. Für diese Fälle übermittelt die zuständige Verwaltungsbehörde der zuständigen Krankenkasse bis zum 31. Dezember 2025 die in Absatz 1 Satz 1 Nummer 1 bis 6 genannten Daten und eine Kopie des aktuellen Anerkennungsbescheides.
+
+(5) Für die Jahre 2026 bis 2028 teilen die Krankenkassen den zuständigen Verwaltungsbehörden kalenderhalbjährlich mit:
+
+1. die nach den Absätzen 1, 3 und 4 gemeldeten Personen, die Leistungen der Krankenbehandlung der Sozialen Entschädigung erhalten,
+
+2. die Leistungen der Krankenbehandlung der Sozialen Entschädigung, einschließlich des Diagnoseschlüssels, oder als Absicherung gegen Krankheit, die in den Fällen nach Nummer 1 erbracht werden und
+
+3. die Aufwendungen, die bei der Leistungserbringung der Krankenkassen entstanden sind.
+
+Für Datenübermittlungen zwischen den Leistungserbringern der Krankenbehandlung und den Krankenkassen gilt die Mitteilung nach Satz 1 als Aufgabe im Sinne von § 59. Zugleich übermitteln die Krankenkassen die Daten nach Satz 1 in anonymisierter Form an den Spitzenverband Bund der Krankenkassen.
+
+(6) Die Bundesstelle für Soziale Entschädigung stellt den zuständigen Verwaltungsbehörden, dem Spitzenverband Bund der Krankenkassen, dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium für Gesundheit anonymisierte Auswertungen über die auftragsgemäße Erbringung der Krankenbehandlung nach diesem Buch zur Verfügung. Bei der Bundesstelle für Soziale Entschädigung werden hierfür folgende Daten anonymisiert erfasst:
+
+1. Anzahl der gemeldeten Leistungsfälle aufgegliedert nach
+
+a) Ländern,
+
+b) Krankenkassen,
+
+c) Diagnoseschlüsseln und
+
+d) Leistungsbereichen sowie
+
+2. die Höhe der Aufwendungen der Krankenkassen.
+
+Die zuständigen Verwaltungsbehörden übermitteln der Bundesstelle für Soziale Entschädigung die von den Krankenkassen zur Verfügung gestellten Angaben nach Absatz 5 in strukturierter und anonymisierter Form. Die Bundesstelle für Soziale Entschädigung legt das strukturierte Format für die anonymisierte Übermittlung der Daten einheitlich fest und erstellt auf dieser Grundlage halbjährlich, erstmals zum 1. Juli 2027 und letztmalig zum 1. Juli 2029, eine Auswertung der von den zuständigen Landesbehörden übermittelten Daten.
+
+(7) Die Krankenkassen melden die in Absatz 5 Satz 1 genannten Daten ab dem Jahr 2029 in anonymisierter Form an den Spitzenverband Bund der Krankenkassen. Für die Datenmeldung legt der Spitzenverband Bund der Krankenkassen das strukturierte Format für die anonymisierte Übermittlung der Daten fest.
+
 # § 61 – Erstattung an Unfallkassen der Länder
 
-(1) Den Unfallkassen der Länder werden von der zuständigen Verwaltungsbehörde halbjährlich die Aufwendungen erstattet, die ihnen nach § 57 Absatz 5 entstehen.
+(1) Den Unfallkassen der Länder werden von der zuständigen Verwaltungsbehörde die Aufwendungen erstattet, die ihnen nach § 57 Absatz 5 entstehen.
 
-(2) Den Unfallkassen der Länder werden von der zuständigen Verwaltungsbehörde halbjährlich Verwaltungskosten in Höhe von 5 Prozent des Erstattungsbetrages nach Absatz 1 erstattet.
+(2) Den Unfallkassen der Länder werden von der zuständigen Verwaltungsbehörde Verwaltungskosten in Höhe von 10 Prozent des Erstattungsbetrages nach Absatz 1 erstattet. Die Höhe der Pauschale wird nach Ablauf von zwei Jahren nach Inkrafttreten der Regelung von den Trägern der Sozialen Entschädigung und der Deutschen Gesetzlichen Unfallversicherung e.V. evaluiert. Diese treffen zu den Einzelheiten der Evaluierung eine Vereinbarung.
 
 (3) Die Länder können mit den Unfallkassen Vereinbarungen zur Durchführung des Verfahrens nach den Absätzen 1 und 2 treffen. Haben die Vereinbarungen finanzielle Auswirkungen für den Bund, bedürfen sie der Zustimmung des Bundesministeriums für Arbeit und Soziales.
 
@@ -1081,7 +1153,7 @@ Leistungen zur Teilhabe sind
 
 4. Leistungen zur medizinischen Rehabilitation.
 
-Die Leistungen nach Nummer 4 einschließlich der erforderlichen unterhaltssichernden und anderen ergänzenden Leistungen werden im Rahmen der Leistungen der Krankenbehandlung nach Kapitel 5 erbracht.
+Handelt es sich bei den Leistungen nach Satz 1 Nummer 1 bis 3 um eine Versorgung mit Hilfsmitteln, werden diese entsprechend § 46 Absatz 1 Satz 1 Nummer 1 und Absatz 2 erbracht. Die §§ 56 und 57 Absatz 5, die §§ 58 und 59 Absatz 2 und § 61 gelten entsprechend. Die Leistungen nach Nummer 4 einschließlich der erforderlichen unterhaltssichernden und anderen ergänzenden Leistungen werden im Rahmen der Leistungen der Krankenbehandlung nach Kapitel 5 erbracht.
 
 (+++ § 62: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
@@ -1095,9 +1167,11 @@ Die Leistungen nach Nummer 4 einschließlich der erforderlichen unterhaltssicher
 
 3. Leistungen im Arbeitsbereich einer anerkannten Werkstatt für behinderte Menschen nach § 58 des Neunten Buches einschließlich des Arbeitsförderungsgeldes nach § 59 des Neunten Buches,
 
-4. Leistungen bei anderen Leistungsanbietern nach § 60 des Neunten Buches und
+4. Leistungen bei anderen Leistungsanbietern nach § 60 des Neunten Buches,
 
-5. ein Budget für Arbeit nach § 61 des Neunten Buches.
+5. ein Budget für Arbeit nach § 61 des Neunten Buches und
+
+6. ein Budget für Ausbildung nach § 61a des Neunten Buches.
 
 (2) Die Leistungen zur Teilhabe am Arbeitsleben umfassen zudem Leistungen zum Betrieb, Unterhalt, Unterstellen und Abstellen eines Kraftfahrzeuges.
 
@@ -1115,9 +1189,11 @@ Die Leistungen nach Nummer 4 einschließlich der erforderlichen unterhaltssicher
 
 3. Haushalts- oder Betriebshilfe und Kinderbetreuungskosten nach § 74 des Neunten Buches.
 
+Übergangsgeld nach Satz 1 Nummer 1 wird nicht erbracht beim Bezug von Leistungen im Arbeitsbereich einer anerkannten Werkstatt nach § 63 Absatz 2 des Neunten Buches oder beim Bezug von Leistungen nach § 63 Absatz 3 Satz 2 des Neunten Buches.
+
 (2) Für die Berechnung des Übergangsgeldes während der Teilnahme an Leistungen zur Teilhabe am Arbeitsleben ist Leistungsbemessungsgrenze im Sinne des § 67 Absatz 4 des Neunten Buches der 360. Teil der jährlichen Beitragsbemessungsgrenze der allgemeinen Rentenversicherung.
 
-(3) Geschädigte und Hinterbliebene, die vor Beginn der Leistung zur Teilhabe am Arbeitsleben nicht erwerbstätig gewesen sind, erhalten anstelle des Übergangsgeldes Unterhaltsbeihilfe. § 71 Absatz 3 und Absatz 4 Satz 1 des Neunten Buches ist anzuwenden. Für die Bemessung der Unterhaltsbeihilfe ist § 93 entsprechend anzuwenden.
+(3) Geschädigte und Hinterbliebene, die vor Beginn der Leistung zur Teilhabe am Arbeitsleben nicht erwerbstätig gewesen sind, erhalten anstelle des Übergangsgeldes Unterhaltsbeihilfe. § 71 Absatz 3 und Absatz 4 Satz 1 des Neunten Buches ist anzuwenden. Für die Bemessung der Unterhaltsbeihilfe ist § 93 entsprechend anzuwenden mit der Maßgabe, dass in Fällen des Verbleibs in der eigenen Unterkunft der monatliche Regelbedarf das Zweifache der jeweils maßgebenden Regelbedarfsstufe nach der Anlage zu § 28 des Zwölften Buches beträgt.
 
 (4) Geschädigten und Hinterbliebenen, die nicht rentenversicherungspflichtig oder von der Rentenversicherungspflicht befreit sind, werden für die Zeit, in der sie Übergangsgeld erhalten, die Aufwendungen für die Alterssicherung erstattet. Die Erstattung erfolgt bis zur Höhe der Beiträge, die für die Zeit, in der die Geschädigten und Hinterbliebenen Übergangsgeld beziehen, zur gesetzlichen Rentenversicherung zu entrichten wären, wenn die Geschädigten und Hinterbliebenen rentenversicherungspflichtig wären. Aufwendungen für die Alterssicherung sind insbesondere
 
@@ -1253,27 +1329,23 @@ Geschädigte erhalten bei schädigungsbedingter Pflegebedürftigkeit im Sinne de
 
 (1) Leistungen bei Pflegebedürftigkeit nach diesem Buch werden von der zuständigen Verwaltungsbehörde nach Maßgabe der folgenden Absätze erbracht.
 
-(2) Für Geschädigte, die Mitglied einer Pflegekasse oder nach § 25 des Elften Buches familienversichert sind, erbringt ihre Pflegekasse für die zuständige Verwaltungsbehörde die Leistungen bei Pflegebedürftigkeit nach § 74 Nummer 1.
+(2) Für Geschädigte, die Mitglied einer Pflegekasse oder nach § 25 des Elften Buches familienversichert sind, erbringt ihre Pflegekasse für die zuständige Verwaltungsbehörde die Leistungen bei Pflegebedürftigkeit nach § 74 Nummer 1 und § 75 Absatz 1 Satz 2 Nummer 3.
 
-(3) Für Geschädigte, die weder nach dem Elften Buch versichert sind noch nach beamtenrechtlichen Vorschriften einen Anspruch auf Leistungen bei Pflegebedürftigkeit haben, erbringt die Pflegekasse, die der Krankenkasse ihrer Wahl gemäß § 57 Absatz 3 entspricht, für die zuständige Verwaltungsbehörde Leistungen bei Pflegebedürftigkeit nach § 74 Nummer 1. § 57 Absatz 3 gilt entsprechend.
+(3) Für Geschädigte, die weder nach dem Elften Buch versichert sind noch nach beamtenrechtlichen Vorschriften einen Anspruch auf Leistungen bei Pflegebedürftigkeit haben, erbringt die Pflegekasse, die der Krankenkasse ihrer Wahl gemäß § 57 Absatz 3 entspricht, für die zuständige Verwaltungsbehörde Leistungen bei Pflegebedürftigkeit nach § 74 Nummer 1 und § 75 Absatz 1 Satz 2 Nummer 3. § 57 Absatz 3 gilt entsprechend.
 
-(4) Die Versorgung mit Pflegehilfsmitteln und wohnumfeldverbessernden Maßnahmen nach § 75 Absatz 1 Satz 2 Nummer 3 erbringt die zuständige Unfallkasse des Landes für die zuständige Verwaltungsbehörde.
-
-(5) Die übrigen Leistungen nach § 75 und § 76 erbringt die zuständige Verwaltungsbehörde.
+(4) Die übrigen Leistungen nach § 75 und § 76 erbringt die zuständige Verwaltungsbehörde.
 
 (+++ § 77: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 78 – Widersprüche
 
-Über Widersprüche gegen Verwaltungsakte, die im Rahmen der Leistungserbringung von Pflegekassen nach § 77 Absatz 2 und 3 und von Unfallkassen der Länder nach § 77 Absatz 4 erlassen werden, entscheidet die für die Verwaltungsbehörde zuständige Widerspruchsbehörde.
+Über Widersprüche gegen Verwaltungsakte, die im Rahmen der Leistungserbringung von Pflegekassen nach § 77 Absatz 2 und 3 erlassen werden, entscheidet die für die Verwaltungsbehörde zuständige Widerspruchsbehörde.
 
 (+++ § 78: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 79 – Datenübermittlung
 
-(1) Für die Erbringer von Leistungen bei Pflegebedürftigkeit gelten die §§ 104 bis 106 des Elften Buches in entsprechender Anwendung, soweit dies für die Erfüllung der Aufgaben der zuständigen Pflegekasse oder der zuständigen Verwaltungsbehörde erforderlich ist.
-
-(2) Die Erbringer von Leistungen bei Pflegebedürftigkeit sind verpflichtet, der zuständigen Unfallkasse des Landes die in den §§ 201 und 203 des Siebten Buches genannten Daten zu übermitteln, soweit dies für die Erfüllung der Aufgaben der Unfallkasse des Landes erforderlich ist.
+Für die Erbringer von Leistungen bei Pflegebedürftigkeit gelten die §§ 104 bis 106 des Elften Buches in entsprechender Anwendung, soweit dies für die Erfüllung der Aufgaben der zuständigen Pflegekasse oder der zuständigen Verwaltungsbehörde erforderlich ist.
 
 (+++ § 79: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
@@ -1293,15 +1365,7 @@ Geschädigte erhalten bei schädigungsbedingter Pflegebedürftigkeit im Sinne de
 
 (+++ § 80: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
-# § 81 – Erstattung an Unfallkassen der Länder
-
-(1) Den Unfallkassen der Länder werden von der zuständigen Verwaltungsbehörde halbjährlich die Aufwendungen erstattet, die ihnen nach § 77 Absatz 4 entstehen.
-
-(2) Den Unfallkassen der Länder werden von der zuständigen Verwaltungsbehörde halbjährlich Verwaltungskosten in Höhe von 5 Prozent des Erstattungsbetrages nach Absatz 1 erstattet.
-
-(3) Die Länder können mit den Unfallkassen Vereinbarungen zur Durchführung des Verfahrens nach den Absätzen 1 und 2 treffen. Haben die Vereinbarungen finanzielle Auswirkungen für den Bund, bedürfen sie der Zustimmung des Bundesministeriums für Arbeit und Soziales.
-
-(+++ § 81: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
+# § 81 – (weggefallen)
 
 # § 82 – Anspruch und Umfang
 
@@ -1359,7 +1423,7 @@ eine weitere wesentliche Schädigungsfolge vorliegt, so dass der Leidenszustand 
 
 # § 85 – Monatliche Entschädigungszahlung an Witwen und Witwer sowie an Partner einer eheähnlichen Gemeinschaft
 
-(1) Eine monatliche Entschädigungszahlung in Höhe von 1 055 Euro erhält die Witwe oder der Witwer des oder der schädigungsbedingt verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 50 Euro monatlich für jedes im Haushalt lebende minderjährige Kind, das eine monatliche Entschädigungszahlung für Waisen bezieht.
+(1) Eine monatliche Entschädigungszahlung in Höhe von 1 055 Euro erhält die Witwe oder der Witwer des oder der schädigungsbedingt verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 50 Euro monatlich für jedes im Haushalt lebende minderjährige Kind, das eine monatliche Entschädigungszahlung für Waisen bezieht oder einen monatlichen Betrag nach § 144 Absatz 1 erhält, in dem eine Geldleistung nach § 45 Absatz 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung enthalten ist.
 
 (2) Die monatliche Entschädigungszahlung nach Absatz 1 erhalten auch Partner einer eheähnlichen Gemeinschaft, sofern ein Partner an den Schädigungsfolgen verstorben ist und der andere unter Verzicht auf eine Erwerbstätigkeit die Betreuung eines gemeinschaftlichen Kindes ausübt. Dieser Anspruch besteht für die ersten drei Lebensjahre des Kindes.
 
@@ -1437,13 +1501,19 @@ b) ihr oder ihm nicht mehr zugemutet werden können.
 
 (4) Berufsschadensausgleich nach Absatz 1 ist der Nettobetrag des Vergleichseinkommens (Absatz 5) abzüglich des Nettoeinkommens aus gegenwärtiger oder früherer Erwerbstätigkeit (Absatz 6).
 
-(5) Der Nettobetrag des Vergleichseinkommens wird für die Zeit bis zum Ablauf des Monats, in dem die oder der Geschädigte auch ohne die Schädigung aus dem Erwerbsleben ausgeschieden wäre, längstens jedoch bis zum Ablauf des Monats, in dem die oder der Geschädigte die Regelaltersgrenze nach dem Sechsten Buch erreicht, pauschal ermittelt, indem das Vergleichseinkommen
+(5) Der Nettobetrag des Vergleichseinkommens wird längstens bis zum Ablauf des Monats, in dem die oder der Geschädigte die Regelaltersgrenze nach dem Sechsten Buch erreicht, pauschal ermittelt. Abweichend von Satz 1 wird die Pauschale für die Zeit bis zum Ablauf des Monats ermittelt, in dem die oder der Geschädigte auch ohne die Schädigung oder ohne den Nachschaden nach Absatz 8
 
-1. bei verheirateten Geschädigten um 18 vom Hundert, der 716 Euro übersteigende Teil um 36 vom Hundert und der 1 790 Euro übersteigende Teil um 40 vom Hundert,
+1. wegen Erreichens oder Inanspruchnahme einer gesetzlichen Altersgrenze aus dem Erwerbsleben ausscheidet oder ausscheiden müsste oder
 
-2. bei nicht verheirateten Geschädigten um 18 vom Hundert, der 460 Euro übersteigende Teil um 40 vom Hundert und der 1 380 Euro übersteigende Teil um 49 vom Hundert
+2. auf Grund eines Gesetzes, eines Tarifvertrags, einer Betriebsvereinbarung oder einer Vereinbarung mit dem Arbeitgeber von der Möglichkeit des vorzeitigen Übergangs in den Ruhestand unter Verzicht auf Erwerbseinkommen Gebrauch macht und deswegen die Erwerbstätigkeit aufgibt oder aufgeben würde.
 
-gemindert wird. Im Übrigen gelten 50 vom Hundert des Vergleichseinkommens als dessen Nettobetrag.
+Satz 2 Nummer 1 und Nummer 2 sind nicht anwendbar, wenn die oder der Geschädigte glaubhaft macht, dass sie ohne die Schädigung noch erwerbstätig wären. Die Ermittlung der Pauschale nach Satz 1 erfolgt, indem das Vergleichseinkommen wie folgt gemindert wird
+
+1. bei verheirateten Geschädigten um 18 Prozent, der 716 Euro übersteigende Teil um 36 Prozent und der 1 790 Euro übersteigende Teil um 40 Prozent und
+
+2. bei nicht verheirateten Geschädigten um 18 Prozent, der 460 Euro übersteigende Teil um 40 Prozent und der 1 380 Euro übersteigende Teil um 49 Prozent.
+
+Im Übrigen gelten 50 Prozent des Vergleichseinkommens als dessen Nettobetrag.
 
 (6) Das Nettoeinkommen aus gegenwärtiger oder früherer Erwerbstätigkeit wird pauschal aus dem derzeitigen Bruttoeinkommen ermittelt, indem
 
@@ -1459,7 +1529,13 @@ In den Fällen des Absatzes 8 tritt an die Stelle des Nettoeinkommens im Sinne d
 
 (7) Der Berufsschadensausgleich wird in den Fällen einer Rentenminderung im Sinne des Absatzes 2 Satz 2 nur gezahlt, wenn die Zeiten des Erwerbslebens, in denen das Erwerbseinkommen nicht schädigungsbedingt gemindert war, von einem gesetzlichen oder einem gleichwertigen Alterssicherungssystem erfasst sind.
 
-(8) Wird durch nachträgliche schädigungsunabhängige Einwirkungen oder Ereignisse, insbesondere durch das Hinzutreten einer schädigungsunabhängigen Gesundheitsstörung das Bruttoeinkommen aus gegenwärtiger Tätigkeit voraussichtlich auf Dauer gemindert (Nachschaden), gilt als Einkommen das Grundgehalt der Besoldungsgruppe der Bundesbesoldungsordnung A, der die oder der Geschädigte ohne den Nachschaden zugeordnet würde; Arbeitslosigkeit oder altersbedingtes Ausscheiden aus dem Erwerbsleben gilt grundsätzlich nicht als Nachschaden. Tritt nach dem Nachschaden ein weiterer schädigungsbedingter Einkommensverlust ein, ist dieses Durchschnittseinkommen entsprechend zu mindern. Scheidet dagegen die oder der Geschädigte schädigungsbedingt aus dem Erwerbsleben aus, wird der Berufsschadensausgleich nach den Absätzen 1 bis 6 errechnet.
+(8) Eine Einkommensminderung, die auf einen Nachschaden zurückzuführen ist, bleibt bei der Berechnung des Berufsschadensausgleichs unberücksichtigt. Ein Nachschaden ist ein Schaden, der
+
+1. keine gesundheitliche Schädigung nach § 4 darstellt und
+
+2. zeitlich nach einem schädigenden Ereignis gemäß § 4 eintritt.
+
+Arbeitslosigkeit, schädigungs- oder altersbedingtes Ausscheiden aus dem Erwerbsleben sind grundsätzlich kein Nachschaden. Satz 1 findet auch Anwendung bei erfolgreich durchgeführten Maßnahmen der beruflichen Rehabilitation, wenn die oder der Geschädigte auf den im Anschluss möglichen Einkommenserwerb ohne rechtfertigenden Grund verzichtet oder bei Elternzeit über den Zeitraum des Elterngeldbezuges hinaus.
 
 (9) Geschädigte nach Absatz 1, die einen gemeinsamen Haushalt mit ihrer Ehegattin oder ihrem Ehegatten, einem Verwandten oder einem Stief- oder Pflegekind führen oder ohne die Schädigung führen würden, erhalten als Berufsschadensausgleich einen Betrag in Höhe der Hälfte der wegen der Folgen der Schädigung notwendigen Mehraufwendungen bei der Führung des gemeinsamen Haushalts.
 
@@ -1485,7 +1561,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 3. wie der Berufsschadensausgleich festzustellen ist, wenn die oder der Geschädigte ohne die Schädigung neben einer beruflichen Tätigkeit weitere berufliche Tätigkeiten ausgeübt oder einen gemeinsamen Haushalt im Sinne des § 89 Absatz 9 geführt hätte,
 
-4. was als derzeitiges Bruttoeinkommen oder als Durchschnittseinkommen im Sinne des § 89 Absatz 8 berücksichtigt wird und welche Einkünfte bei der Ermittlung des Einkommensverlustes nicht berücksichtigt werden,
+4. wie der Berufsschadenausgleich bei einem berücksichtigungsfähigen Schaden nach einem Nachschaden im Sinne des § 89 Absatz 8 festgestellt wird und welche Einkommen berücksichtigt werden,
 
 5. wie in besonderen Fällen das Nettoeinkommen abweichend von § 89 Absatz 6 Satz 1 Nummer 3 und 4 zu ermitteln ist.
 
@@ -1513,6 +1589,8 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 (6) Hinterbliebene erhalten Leistungen nach Absatz 4 Nummer 1 und 2, soweit und solange sie nicht oder nicht ausreichend in der Lage sind, den jeweiligen Bedarf aus ihrem Einkommen und Vermögen zu decken, und dieses Unvermögen durch den Tod der oder des Geschädigten entstanden ist. Ein Zusammenhang zwischen dem Tod der oder des Geschädigten und diesem Unvermögen wird vermutet, sofern nicht das Gegenteil offenkundig oder nachgewiesen ist. Der Zusammenhang ist stets anzunehmen bei Hinterbliebenen, die voll erwerbsgemindert im Sinne des Sechsten Buches sind.
 
+(7) § 26 des Zwölften Buches gilt entsprechend.
+
 (+++ § 92: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 93 – Leistungen zum Lebensunterhalt
@@ -1522,6 +1600,8 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 (2) Sind für Geschädigte und Waisen Leistungen zum Lebensunterhalt während der Erbringung von Leistungen nach dem Achten Buch erforderlich, erbringt diese der Träger der Sozialen Entschädigung nach Maßgabe des Absatzes 1, soweit nicht der Träger der öffentlichen Jugendhilfe Leistungen nach § 39 des Achten Buches erbringt.
 
 (3) Ansprüche nach dem Bundesausbildungsförderungsgesetz gehen Ansprüchen nach diesem Buch vor. Soweit für Geschädigte weitere Leistungen zum Lebensunterhalt während der Erbringung von Leistungen zur Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz erforderlich sind, erbringt diese der Träger der Sozialen Entschädigung nach Maßgabe des Absatzes 1.
+
+(4) Der Anspruch auf Leistungen zum Lebensunterhalt kann nicht abgetreten, übertragen, verpfändet oder gepfändet werden.
 
 (+++ § 93: Zur Anwendung vgl. § 64 Abs. 2 Satz 3  
 § 93: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
@@ -1538,9 +1618,11 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 Im Fall des Satzes 1 Nummer 1 gelten die Darlehensleistungen ab dem Zeitpunkt des Todes als schädigungsbedingt.
 
-(3) Der Antrag ist für nach § 17 Absatz 2 oder 3 des Bundesausbildungsförderungsgesetzes geleistete Darlehen innerhalb von drei Monaten nach Bekanntgabe des Bescheides des Bundesverwaltungsamtes nach § 18 Absatz 9 des Bundesausbildungsförderungsgesetzes zu stellen. Für nach § 17 Absatz 3 des Bundesausbildungsförderungsgesetzes in der bis zum 31. Juli 2019 anzuwendenden Fassung geleistete Darlehen ist der Antrag innerhalb von drei Monaten nach Zugang der Mitteilung der Kreditanstalt für Wiederaufbau nach § 18c Absatz 8 des Bundesausbildungsförderungsgesetzes zu stellen. Dem Antrag ist der Bescheid nach Satz 1 beziehungsweise die Mitteilung nach Satz 2 beizufügen.
+(3) Der Antrag ist für nach § 17 Absatz 2 oder 3 des Bundesausbildungsförderungsgesetzes geleistete Darlehen spätestens drei Monate nach Bekanntgabe des Bescheids des Bundesverwaltungsamtes nach § 18 Absatz 9 des Bundesausbildungsförderungsgesetzes zu stellen. Für nach § 17 Absatz 3 des Bundesausbildungsförderungsgesetzes in der bis zum 31. Juli 2019 anzuwendenden Fassung geleistete Darlehen ist der Antrag spätestens drei Monate nach Zugang der Mitteilung der Kreditanstalt für Wiederaufbau nach § 18c Absatz 8 des Bundesausbildungsförderungsgesetzes zu stellen. Dem Antrag ist der Bescheid nach Satz 1 beziehungsweise die Mitteilung nach Satz 2 beizufügen. Der Antrag kann in den Fällen des Satzes 1 bereits vor der Bekanntgabe des Bescheides und in den Fällen des Satzes 3 bereits vor dem Zugang der Mitteilung gestellt werden. Sofern in den Fällen des Satzes 1 der Bescheid im Zeitpunkt der Antragstellung noch nicht vorliegt, ist dieser unverzüglich nach dessen Bekanntgabe nachzureichen. Sofern in den Fällen des Satzes 2 die Mitteilung im Zeitpunkt der Antragstellung noch nicht vorliegt, ist diese unverzüglich nach ihrem Zugang nachzureichen.
 
-(4) Nach Kenntnis von der Unanfechtbarkeit des Bescheides nach Absatz 3 Satz 1 zahlt der Träger der Sozialen Entschädigung die von ihm zu übernehmende Darlehensschuld binnen drei Monaten in einer Summe an das Bundesverwaltungsamt zurück. § 18 Absatz 10 des Bundesausbildungsförderungsgesetzes findet keine Anwendung. Nach Kenntnis vom Zugang der Mitteilung nach Absatz 3 Satz 2 zahlt der Träger der Sozialen Entschädigung die von ihm zu übernehmende Darlehensschuld binnen drei Monaten in einer Summe an die Kreditanstalt für Wiederaufbau zurück.
+(4) Der Träger der Sozialen Entschädigung teilt den Eingang eines Antrags nach Absatz 3 Satz 1 oder 2 für ein nach § 17 Absatz 2 oder 3 des Bundesausbildungsförderungsgesetzes geleistetes Darlehen dem Bundesverwaltungsamt und für ein nach § 17 Absatz 3 des Bundesausbildungsförderungsgesetzes in der bis zum 31. Juli 2019 anzuwendenden Fassung geleistetes Darlehen der Kreditanstalt für Wiederaufbau zur Freistellung der antragstellenden Person von der Verpflichtung zur Darlehensrückzahlung nach dem Bundesausbildungsförderungsgesetz unverzüglich mit. Zudem teilt er der in Satz 1 genannten zuständigen Stelle unverzüglich seine darauf ergangene Entscheidung mit, sobald diese unanfechtbar geworden ist. Die Mitteilung nach Satz 2 erfolgt bei vollständiger Ablehnung oder einer Entscheidung, die Rückzahlung des Darlehens in einer bestimmten Teilhöhe zu übernehmen, zur Beendigung der Freistellung; bei vollständiger Übernahme erfolgt sie ausschließlich für die weitere Darlehensverwaltung. Die Mitteilungen nach den Sätzen 1 und 2 ergehen jeweils unter Angabe des Namens der antragstellenden Person und der Amt-Förderungsnummer.
+
+(5) Der Träger der Sozialen Entschädigung zahlt die von ihm zu übernehmende Darlehensschuld nach Kenntnis von der Unanfechtbarkeit des Bescheides nach Absatz 3 Satz 1 und nach Unanfechtbarkeit seiner Entscheidung über die teilweise oder vollständige Übernahme der Darlehensschuld in einer Summe an das Bundesverwaltungsamt zurück. § 18 Absatz 10 des Bundesausbildungsförderungsgesetzes findet keine Anwendung. Nach Kenntnis vom Zugang der Mitteilung nach Absatz 3 Satz 2 zahlt der Träger der Sozialen Entschädigung die von ihm zu übernehmende Darlehensschuld einschließlich der Zinsen nach § 18c Absatz 2 Satz 1 des Bundesausbildungsförderungsgesetzes binnen drei Monaten in einer Summe an die Kreditanstalt für Wiederaufbau zurück.
 
 (+++ § 94: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
@@ -1779,7 +1861,7 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 
 (5) Bei der Entschädigung nach § 24 ist dasjenige Land zuständig, in dem die ursächliche Schutzimpfung oder andere Maßnahme der spezifischen Prophylaxe vorgenommen wurde. Wurde die ursächliche Schutzimpfung oder andere Maßnahme der spezifischen Prophylaxe auf Grund einer Rechtsverordnung nach § 20i Absatz 3 des Fünften Buches im Ausland vorgenommen, ist dasjenige Land zuständig, in dem die Antragstellerin oder der Antragsteller zum Zeitpunkt der Antragstellung ihren oder seinen Wohnsitz oder gewöhnlichen Aufenthalt hat, oder, wenn im Zeitpunkt der Antragstellung ein Wohnsitz oder gewöhnlicher Aufenthalt im Geltungsbereich dieses Gesetzes nicht vorhanden ist, ist dasjenige Land zuständig, in dem die Antragstellerin oder der Antragsteller zuletzt ihren oder seinen Wohnsitz oder gewöhnlichen Aufenthalt gehabt hat oder in dem die Behörde oder die Einrichtung ihren Sitz hat, für die die Antragstellerin oder der Antragsteller oder deren oder dessen Angehörige oder deren oder dessen Angehöriger tätig ist oder war.
 
-(6) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die örtliche Zuständigkeit der Behörden für Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Ausland haben, zu bestimmen.
+(6) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die örtliche Zuständigkeit für Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Ausland haben, zu bestimmen.
 
 (+++ § 113 Abs. 6: Inkraft gem. Art. 60 Abs. 3 Nr. 1 G vom 12.12.2019 I 2652 mWv 20.12.2019 +++)  
 (+++ § 113 Abs. 1 bis 5: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
@@ -1864,6 +1946,10 @@ Hat der Träger der Sozialen Entschädigung Geldleistungen für die Zeit nach de
 
 (+++ § 122: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
+# § 122a – Zahlung
+
+Die Leistungen nach § 3 Satz 1 Nummer 5 bis 7 sowie 11 und 12 werden in Monatsbeträgen zuerkannt, auf volle Eurobeträge aufgerundet und monatlich im Voraus gezahlt. Die Leistung nach § 48 wird tageweise zuerkannt.
+
 # § 123 – Bundesstelle für Soziale Entschädigung
 
 Unter der Bezeichnung „Bundesstelle für Soziale Entschädigung“ führt das Bundesamt für Soziale Sicherung die Aufgaben nach § 124 aus. Dabei unterliegt es der Fachaufsicht des Bundesministeriums für Arbeit und Soziales.
@@ -1876,7 +1962,7 @@ Unter der Bezeichnung „Bundesstelle für Soziale Entschädigung“ führt das 
 
 (2) Die Bundesstelle für Soziale Entschädigung ist zuständig für die
 
-1. Aufgaben nach § 60 Absatz 3 Satz 3 und § 80 Absatz 3 Satz 3,
+1. Aufgaben nach § 60 Absatz 6, § 60a Absatz 6 und § 80 Absatz 3 Satz 3,
 
 2. Aufgaben der zentralen Behörde im Sinne des Artikels 12 Satz 2 des Europäischen Übereinkommens vom 24. November 1983 über die Entschädigung für Opfer von Gewalttaten (BGBl. 1996 II S. 1120, 1121) und
 
@@ -1904,7 +1990,7 @@ Unter der Bezeichnung „Bundesstelle für Soziale Entschädigung“ führt das 
 
 (5) Die Bundesstelle für Soziale Entschädigung erledigt weitere Aufgaben des Bundes, die mit den in den Absätzen 2 bis 4 genannten Aufgaben zusammenhängen und mit deren Durchführung sie vom Bundesministerium für Arbeit und Soziales beauftragt wird.
 
-(6) Die Wahrnehmung der Aufgaben nach Absatz 4 Nummer 2 bis 5 kann die Bundesstelle für Soziale Entschädigung ganz oder teilweise auf Dritte übertragen oder sich bei der Wahrnehmung der Aufgaben nach Absatz 4 Nummer 2 bis 8 durch Dritte unterstützen lassen.
+(6) Die Wahrnehmung der Aufgaben nach Absatz 4 Nummer 2 bis 5 kann die Bundesstelle für Soziale Entschädigung ganz oder teilweise auf Dritte übertragen oder sich bei der Wahrnehmung der Aufgaben nach § 60 Absatz 6 und nach Absatz 4 Nummer 2 bis 8 durch Dritte unterstützen lassen.
 
 (+++ § 124: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
@@ -1950,7 +2036,7 @@ Die Vertreterinnen oder Vertreter der Länder werden auf gemeinsamen Vorschlag d
 
 (1) Zur Beurteilung der Auswirkungen dieses Buches und zu dessen Fortentwicklung werden folgende Merkmale erhoben:
 
-1. Geschlecht, Geburtsjahr, Staatsangehörigkeit und gewöhnlicher Aufenthaltsort,
+1. das Geschlecht der leistungsberechtigten Person,
 
 2. das Land und die Kennnummer des zuständigen Trägers der Sozialen Entschädigung,
 
@@ -1962,7 +2048,7 @@ b) Angehörige, Hinterbliebene und Nahestehende,
 
 4. die Art des schädigenden Ereignisses:
 
-a) Art der Gewalttat, aufgegliedert nach Gruppen von Straftatbeständen und Täter-Opfer-Beziehung,
+a) Gewalttat, aufgegliedert nach
 
 aa)  
 Gewalttat im Inland oder
@@ -1970,139 +2056,60 @@ Gewalttat im Inland oder
 bb)  
 Gewalttat im Ausland,
 
-b) nachträgliche Weltkriegsauswirkung,
+b) Weltkriegsauswirkungen und Fälle nach § 139,
 
-c) Schutzimpfung oder eine andere Maßnahme der spezifischen Prophylaxe, aufgegliedert nach:
+c) Schutzimpfung oder eine andere Maßnahme der spezifischen Prophylaxe,
 
-aa)  
-Datum der Schutzimpfung oder der anderen Maßnahme der spezifischen Prophylaxe,
+d) Ereignis im Zusammenhang mit der Ableistung des Zivildienstes,
 
-bb)  
-Bezeichnung und Chargen-Bezeichnung des Impfstoffes oder der anderen Maßnahme der spezifischen Prophylaxe sowie
+e) Gewahrsam im Sinne des Häftlingshilfegesetzes,
 
-cc) Name der Krankheit, gegen die geimpft oder eine andere Maßnahme der spezifischen Prophylaxe getroffen wird,
+f) rechtsstaatswidrige Verwaltungsmaßnahme im Sinne des Verwaltungsrechtlichen Rehabilitierungsgesetzes,
 
-5. das Vorliegen des Krankenversicherungsverhältnisses und die Angabe, ob es sich um eine gesetzliche oder private Krankenversicherung handelt,
+g) rechtsstaatswidrige Entscheidung oder Maßnahme im Sinne des Strafrechtlichen Rehabilitierungsgesetzes,
 
-6. die Art und Anzahl der erbrachten einmaligen Leistungen im Laufe des Erhebungsmonats sowie die Art und Anzahl der erbrachten laufenden Leistungen zum letzten Tag des Berichtsjahres,
+5. die Zahl der Anträge im Erhebungsmonat, aufgegliedert nach Empfängergruppen,
 
-7. die Zahl der Anträge im Erhebungsmonat, aufgegliedert nach Empfängergruppen,
-
-8. die Zahl der im Erhebungsmonat erledigten Anträge, aufgegliedert nach
+6. die Zahl der im Erhebungsmonat erledigten Anträge, aufgegliedert nach
 
 a) Leistungsempfängergruppen und
 
-b) der Art der Erledigung.
+b) der Art der Erledigung, aufgegliedert nach
 
-(2) In den Fällen, die von der Richtlinie 2004/80/EG erfasst werden, werden zudem folgende Merkmale erhoben:
+aa)  
+Ablehnung,
+
+bb)  
+Bewilligung,
+
+cc) Rücknahme des Antrags und
+
+dd)  
+sonstige Erledigung,
+
+7. die Zahl der Fälle im Erhebungsmonat mit
+
+a) Ausübung des Wahlrechts nach § 152 Absatz 1 oder
+
+b) Überführung nach § 152 Absatz 4.
+
+(2) In den von der Richtlinie 2004/80/EG erfassten Fällen werden zudem folgende Merkmale erhoben:
 
 1. die Staatsangehörigkeit der Person, die eine Entschädigungsleistung erhält,
 
 2. der Staat, in dem die gesundheitliche Schädigung eingetreten ist,
 
-3. Art und Umfang der Entschädigungsleistung sowie
+3. Art und Umfang der Entschädigungsleistung,
 
-4. die Dauer des Verwaltungsverfahrens einschließlich eines etwaigen Widerspruchsverfahrens.
+4. Zahl der Ablehnungen und
 
-(3) Zusätzliche Erhebungsmerkmale von Absatz 1 Nummer 6 sind:
-
-1. Schnelle Hilfen, aufgegliedert nach
-
-a) Leistungen des Fallmanagements und
-
-b) Leistungen in einer Traumaambulanz,
-
-2. Leistungen der Krankenbehandlung der Sozialen Entschädigung, aufgegliedert nach
-
-a) Krankenbehandlung,
-
-b) ergänzenden Leistungen der Krankenbehandlung,
-
-c) Versorgung mit Hilfsmitteln,
-
-d) Krankengeld der Sozialen Entschädigung,
-
-e) Beihilfen bei erheblicher Beeinträchtigung der Erwerbsgrundlage,
-
-f) Zuschüsse bei Zahnersatz,
-
-g) Erstattung von Kosten bei selbst beschaffter Krankenbehandlung,
-
-h) Erstattung von Kosten für Krankenbehandlung bei vorübergehendem Auslandsaufenthalt sowie
-
-i) Beiträgen zur Arbeitsförderung, zur gesetzlichen Rentenversicherung und zur Alterssicherung,
-
-j) Reisekosten,
-
-3. Leistungen zur Teilhabe, aufgegliedert nach
-
-a) Leistungen zur Teilhabe am Arbeitsleben,
-
-b) unterhaltssichernden und anderen ergänzenden Leistungen,
-
-c) Leistungen zur Teilhabe an Bildung sowie
-
-d) Leistungen zur Sozialen Teilhabe,
-
-4. Leistungen bei Pflegebedürftigkeit,
-
-5. Leistungen bei Blindheit,
-
-6. Entschädigungszahlungen an Geschädigte, aufgegliedert nach
-
-a) monatlichen Entschädigungszahlungen und
-
-b) Abfindungen,
-
-7. Entschädigungszahlungen an Witwen und Witwer sowie an hinterbliebene Partner einer eheähnlichen Gemeinschaft, aufgegliedert nach
-
-a) monatlichen Entschädigungszahlungen und
-
-b) Abfindungen,
-
-8. monatliche Entschädigungszahlungen an Waisen,
-
-9. monatliche Entschädigungszahlungen an hinterbliebene Eltern,
-
-10. Berufsschadensausgleich,
-
-11. Besondere Leistungen im Einzelfall, aufgegliedert nach
-
-a) Leistungen zum Lebensunterhalt,
-
-b) der Leistung zur Förderung einer Ausbildung,
-
-c) Leistungen zur Weiterführung des Haushalts sowie
-
-d) Leistungen in sonstigen Lebenslagen,
-
-12. Leistungen bei Überführung und Bestattung,
-
-13. Ausgleich in Härtefällen sowie
-
-14. Leistungen nach den Vorschriften zu Besitzständen, aufgegliedert nach
-
-a) der Zugehörigkeit zu den Empfängergruppen
-
-aa)  
-Geschädigte oder
-
-bb)  
-Nichtgeschädigte,
-
-b) der jeweiligen Vorschrift zu Besitzständen des Kapitels 23 sowie
-
-c) der Art des schädigenden Ereignisses.
+5. die Dauer des Verwaltungsverfahrens einschließlich eines etwaigen Widerspruchsverfahrens.
 
 (+++ § 127: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 128 – Erhebungsmerkmale zu den Ausgaben und Einnahmen der Sozialen Entschädigung
 
-Zur Beurteilung der Auswirkungen dieses Buches und zu dessen Fortentwicklung werden folgende Merkmale zu den Ausgaben und Einnahmen der Sozialen Entschädigung erhoben:
-
-1. die Ausgaben, aufgegliedert nach den in § 127 Absatz 3 genannten zusätzlichen Erhebungsmerkmalen, sowie
-
-2. die Einnahmen, aufgegliedert nach Einnahmearten, jeweils im Inland und Ausland.
+Zur Beurteilung der Auswirkungen dieses Buches und zu dessen Fortentwicklung wird jeweils die Gesamtsumme der Ausgaben und die Gesamtsumme der Einnahmen der Sozialen Entschädigung erhoben, aufgegliedert nach den in § 127 Absatz 1 Nummer 4 genannten Arten des schädigenden Ereignisses.
 
 (+++ § 128: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
@@ -2128,7 +2135,7 @@ Stichtag für die Erhebungen ist der letzte Kalendertag des jeweiligen Monats.
 
 (2) Die Auskunftspflichtigen übermitteln die Datensätze aus der Erhebung monatlich in elektronischer Form an die Bundesstelle für Soziale Entschädigung. Diese Daten dürfen bei der Bundesstelle für Soziale Entschädigung ausschließlich für statistische Zwecke und durch eine von Verwaltungsaufgaben räumlich, organisatorisch und personell getrennte Einheit genutzt werden.
 
-(3) Die Bundesstelle für Soziale Entschädigung stellt dem Bundesministerium für Arbeit und Soziales die monatlichen Meldungen unverzüglich in elektronischer Form für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung zur Verfügung, jedoch nicht für die Regelung von Einzelfällen.
+(3) Die Bundesstelle für Soziale Entschädigung stellt dem Bundesministerium für Arbeit und Soziales die monatlichen Meldungen unverzüglich in elektronischer Form für die Verwendung gegenüber den gesetzgebenden Körperschaften, für Forschungsprojekte zur Evaluierung dieses Buches und zur Weiterentwicklung des Sozialen Entschädigungsrechts und für Zwecke der Planung zur Verfügung, jedoch nicht für die Regelung von Einzelfällen. Die in Satz 1 genannten Daten kann die Bundesstelle für Soziale Entschädigung den Trägern der Sozialen Entschädigung sowie Kranken-, Pflege- und Unfallkassen zur Planung der Leistungserbringung und -abrechnung zur Verfügung stellen.
 
 (4) Datensätze nach Absatz 2 dürfen auch dann in tabellarischer Form an die Bundesstelle für Soziale Entschädigung übermittelt werden, wenn Tabellenfelder nur einen einzigen Fall ausweisen. Tabellen, deren Tabellenfelder nur einen einzigen Fall ausweisen, dürfen nur dann übermittelt werden, wenn sie nicht differenzierter als auf Regierungsbezirksebene, bei Stadtstaaten auf Bezirksebene, aufbereitet sind.
 
@@ -2229,24 +2236,30 @@ Personen, die vor dem Inkrafttreten dieses Buches geschädigt worden sind, erhal
 
 (2) Über einen bis zum 31. Dezember 2023 gestellten und nicht bestandskräftig beschiedenen Antrag auf Leistungen nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für anwendbar erklärt, ist nach dem im Zeitpunkt der Antragstellung geltenden Recht zu entscheiden. Wird hierbei ein Anspruch festgestellt, werden ebenfalls Leistungen nach Absatz 1 Satz 1 erbracht.
 
-(3) Abweichend von den Absätzen 1 und 2 können im Rahmen des Wahlrechts nach § 152 Leistungen nach den Kapiteln 1 bis 22 in Anspruch genommen werden.
+(3) (weggefallen)
 
 (+++ § 142: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 143 – Heil- und Krankenbehandlung
 
-(1) Geschädigte, deren Anspruch auf Heilbehandlung nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, bestandskräftig festgestellt worden ist, erhalten ab 1. Januar 2024 Leistungen der Krankenbehandlung nach Kapitel 5. § 45 und die §§ 54 bis 61 gelten entsprechend.
+(1) Geschädigte, deren Anspruch auf Heilbehandlung nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, bestandskräftig festgestellt worden ist, erhalten ab 1. Januar 2024 Leistungen der Krankenbehandlung nach Kapitel 5. Die §§ 45, 54 bis 59 und 61 gelten entsprechend.
 
-(2) Abweichend von Absatz 1 erhalten Geschädigte, deren Ansprüche auf einzelne Leistungen der Heilbehandlung nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, bis zum 31. Dezember 2023 bestandskräftig festgestellt worden sind, diese Leistungen in dem bewilligten Umfang. Dies gilt auch für Ansprüche auf einzelne Leistungen der Heilbehandlung, die bis zum 31. Dezember 2023 beantragt, aber noch nicht bestandskräftig beschieden worden sind.
+(2) Abweichend von Absatz 1 erhalten Geschädigte, deren Ansprüche auf einzelne Leistungen der Heilbehandlung nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, bis zum 31. Dezember 2023 bestandskräftig festgestellt worden sind, diese Leistungen in dem bewilligten Umfang. Dies gilt auch für Ansprüche auf einzelne Leistungen der Heilbehandlung, die bis zum 31. Dezember 2023 beantragt, aber noch nicht bestandskräftig beschieden worden sind. § 18a des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung findet auf Leistungen nach den Sätzen 1 und 2 weiter Anwendung.
 
-(3) Personen, deren Ansprüche auf einzelne Leistungen der Krankenbehandlung nach dem Bundesversorgungsgesetz oder eines Gesetzes, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, bis zum 31. Dezember 2023 bestandskräftig festgestellt worden sind, erhalten für sich oder die jeweils berechtigten Leistungsempfängerinnen und Leistungsempfänger diese Leistungen in dem bewilligten Umfang. Dies gilt auch für Ansprüche auf einzelne Leistungen der Krankenbehandlung, die bis zum 31. Dezember 2023 beantragt, aber noch nicht bestandskräftig beschieden worden sind.
+(3) Personen, deren Ansprüche auf einzelne Leistungen der Krankenbehandlung nach dem Bundesversorgungsgesetz oder eines Gesetzes, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, bis zum 31. Dezember 2023 bestandskräftig festgestellt worden sind, erhalten für sich oder die jeweils berechtigten Leistungsempfängerinnen und Leistungsempfänger diese Leistungen in dem bewilligten Umfang. Dies gilt auch für Ansprüche auf einzelne Leistungen der Krankenbehandlung, die bis zum 31. Dezember 2023 beantragt, aber noch nicht bestandskräftig beschieden worden sind. § 18a des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung findet auf Leistungen nach den Sätzen 1 und 2 weiter Anwendung.
 
 (4) Zuständig für die Erbringung der Leistungen nach den Absätzen 2 und 3 bleiben die bis zum Außerkrafttreten des Bundesversorgungsgesetzes zuständigen Verwaltungsbehörden oder Krankenkassen.
 
-(5) Den Krankenkassen werden von der zuständigen Verwaltungsbehörde halbjährlich die Aufwendungen erstattet, die ihnen nach den Absätzen 2 und 3 entstehen. Als angemessene Verwaltungskosten werden ihnen von der zuständigen Verwaltungsbehörde halbjährlich 5 Prozent des Erstattungsbetrages nach Satz 1 erstattet.
+(5) (weggefallen)
 
 (+++ § 143: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)  
 § 143 Abs. 4 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Außerkraftteten" durch das Wort "Außerkrafttreten" ersetzt
+
+# § 143a – Wahrnehmung von Pflichten bei der Versorgung mit Hilfsmitteln
+
+(1) Die zuständige Verwaltungsbehörde nimmt für Hilfsmittel, die bis zum 31. Dezember 2023 nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, erbracht wurden, die sich aus dem Medizinprodukterecht ergebenden Pflichten wahr. Gleiches gilt für Hilfsmittel, die nach § 142 Absatz 2 oder § 143 Absatz 2 und 3 erbracht werden. Die zuständige Verwaltungsbehörde kann im Einzelfall die zuständige Unfallkasse des Landes mit der Wahrnehmung der Pflichten beauftragen.
+
+(2) Im Fall einer Beauftragung nach Absatz 1 Satz 3 gilt § 61 Absatz 1 entsprechend. § 61 Absatz 2 gilt entsprechend mit der Maßgabe, dass anstelle des Erstattungsbetrages die Anschaffungskosten des Hilfsmittels zugrunde gelegt werden und die Verwaltungskosten einmalig nach Auftragserteilung zu erstatten sind.
 
 # § 144 – Geldleistungen
 
@@ -2254,33 +2267,31 @@ Personen, die vor dem Inkrafttreten dieses Buches geschädigt worden sind, erhal
 
 1. die Führzulage nach § 14,
 
-2. der Pauschalbetrag für Kleider- und Wäscheverschleiß nach § 15,
+2. der Berufsschadensausgleich nach § 30 Absatz 3 bis 12,
 
-3. der Berufsschadensausgleich nach § 30 Absatz 3 bis 12,
+3. die Grundrente nach § 31 Absatz 1 Satz 1 und den §§ 38, 40, 42, 45, 46,
 
-4. die Grundrente nach § 31 Absatz 1 Satz 1 und den §§ 38, 40, 42, 45, 46,
+4. die Alterszulage nach § 31 Absatz 1 Satz 2,
 
-5. die Alterszulage nach § 31 Absatz 1 Satz 2,
+5. die Schwerstbeschädigtenzulage nach § 31 Absatz 4,
 
-6. die Schwerstbeschädigtenzulage nach § 31 Absatz 4,
+6. die Ausgleichsrente nach den §§ 32, 34, 41, 47,
 
-7. die Ausgleichsrente nach den §§ 32, 34, 41, 47,
+7. der Ehegattenzuschlag nach § 33a,
 
-8. der Ehegattenzuschlag nach § 33a,
+8. der Kinderzuschlag nach § 33b,
 
-9. der Kinderzuschlag nach § 33b,
+9. die Pflegezulage nach § 35 Absatz 1,
 
-10. die Pflegezulage nach § 35 Absatz 1,
+10. der nach § 35 Absatz 6 Satz 2 den Beschädigten und Hinterbliebenen von den Versorgungsbezügen zu belassende Betrag,
 
-11. der nach § 35 Absatz 6 Satz 2 den Beschädigten und Hinterbliebenen von den Versorgungsbezügen zu belassende Betrag,
+11. der Schadensausgleich nach § 40a,
 
-12. der Schadensausgleich nach § 40a,
+12. der Pflegeausgleich nach § 40b,
 
-13. der Pflegeausgleich nach § 40b,
+13. die Witwen- und Waisenbeihilfe nach § 48 sowie
 
-14. die Witwen- und Waisenbeihilfe nach § 48 sowie
-
-15. die Elternrente nach den §§ 49 bis 52.
+14. die Elternrente nach den §§ 49 bis 52.
 
 Der sich nach Satz 2 ergebende Betrag wird um 25 Prozent erhöht. Bei der Berechnung der von Einkommen beeinflussten Leistungen nach Satz 2 bleiben Anrechnungen von einmaligen Leistungen im Wege der Verrentung unberücksichtigt. Ist eine Grundrente kapitalisiert nach § 72 Bundesversorgungsgesetz oder nach § 1 Absatz 1 Rentenkapitalisierungsgesetz-KOV, verringert sich der Betrag nach Satz 1 während des Abfindungszeitraums um den kapitalisierten Betrag. Bei der Feststellung der Geldleistungen bleiben Beträge unberücksichtigt, die nach § 65 des Bundesversorgungsgesetzes zum Ruhen der Versorgungsleistungen geführt haben.
 
@@ -2312,7 +2323,7 @@ des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung
 
 2. binnen zwei Wochen nach Ablauf der Befristung die Weiterbewilligung der Leistung nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, in der am 31. Dezember 2023 geltenden Fassung beantragen,
 
-erhalten die bezogenen Leistungen nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, weiter bis längstens zum 31. Dezember 2033.
+erhalten die bezogenen Leistungen nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, weiter bis längstens zum 31. Dezember 2033. Satz 1 findet auf Leistungen nach § 143 Absatz 2 und Absatz 3 keine Anwendung.
 
 (2) Leistungen im Sinne des Absatzes 1 sind insbesondere folgende Leistungen nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung:
 
@@ -2346,7 +2357,7 @@ c) 20 Prozent des Bemessungsbetrages ein Betrag in Höhe des 20fachen der Regelb
 
 d) 2 Prozent des Bemessungsbetrages ein Betrag in Höhe des zweifachen der Regelbedarfsstufe 1 zugrunde gelegt wird.
 
-(4) Die Absätze 1 bis 3 gelten nicht, wenn die Leistungen nach Kapitel 1 bis 22 erbracht werden können und diese für die Berechtigten mindestens gleichwertig sind.
+(4) Die Absätze 1 bis 3 gelten nicht, wenn die Leistungen nach Kapitel 1 bis 4 und 6 bis 22 erbracht werden können und diese für die Berechtigten mindestens gleichwertig sind.
 
 (+++ § 145: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
@@ -2364,9 +2375,11 @@ Witwen und Witwer erhalten einen monatlichen Pflegeausgleich, wenn
 
 1. die oder der Geschädigte schädigungsbedingt pflegebedürftig war,
 
-2. sie die Geschädigte oder den Geschädigten während ihrer Ehe bereits vor Inkrafttreten dieses Buches gepflegt haben und
+2. sie die Geschädigte oder den Geschädigten während ihrer Ehe bereits vor Inkrafttreten dieses Buches gepflegt haben,
 
-3. die Pflegezeit insgesamt mehr als zehn Jahre betragen hat.
+3. die Pflegezeit insgesamt mehr als zehn Jahre betragen hat und
+
+4. sie nicht einen monatlichen Betrag nach § 144 Absatz 1 erhalten, in dem eine Geldleistung nach § 144 Absatz 1 Satz 2 Nummer 12 enthalten ist.
 
 Der monatliche Pflegeausgleich beträgt für jedes Jahr der über zehn Jahre hinausgehenden Pflegezeit 20 Euro. Kalendermonate, in denen die Pflege nicht unentgeltlich geleistet wurde, werden dabei nicht mitgezählt. Die anzurechnende Gesamtpflegezeit wird auf volle Jahre aufgerundet.
 
@@ -2378,9 +2391,11 @@ Der monatliche Pflegeausgleich beträgt für jedes Jahr der über zehn Jahre hin
 
 1. die Schädigung bereits vor dem Inkrafttreten dieses Buches eintrat,
 
-2. die Ehe bereits vor Inkrafttreten dieses Buches bestand und
+2. die Ehe bereits vor Inkrafttreten dieses Buches bestand,
 
-3. der oder die Geschädigte aufgrund der Schädigungsfolgen gehindert war, eine entsprechende Erwerbstätigkeit auszuüben und dadurch die von dem oder der Geschädigten abgeleitete Witwenrente oder Witwerrente aus der gesetzlichen Rentenversicherung nachweislich um mindestens 10 Prozent gemindert ist.
+3. der oder die Geschädigte aufgrund der Schädigungsfolgen gehindert war, eine entsprechende Erwerbstätigkeit auszuüben und dadurch die von dem oder der Geschädigten abgeleitete Witwenrente oder Witwerrente aus der gesetzlichen Rentenversicherung nachweislich um mindestens 10 Prozent gemindert ist und
+
+4. sie nicht einen monatlichen Betrag nach § 144 Absatz 1 erhalten, in dem eine Geldleistung nach § 144 Absatz 1 Satz 2 Nummer 13 enthalten ist.
 
 (2) Die Voraussetzungen des Absatzes 1 Nummer 3 gelten als erfüllt, wenn der oder die Geschädigte zum 31. Dezember 2023 Anspruch auf
 
@@ -2430,9 +2445,9 @@ Der nach den §§ 144 und 145 festgestellte Geldbetrag sowie die Beträge aus de
 
 # § 151 – Absicherung gegen Krankheit
 
-(1) Personen, die bis zum 1. Januar 2024 nach § 10 des Bundesversorgungsgesetzes oder in entsprechender Anwendung des § 10 des Bundesversorgungsgesetzes Leistungen der Heil- oder Krankenbehandlung für Nichtschädigungsfolgen erhalten haben, haben hinsichtlich der Behandlung von Nichtschädigungsfolgen Anspruch auf Leistungen bei Krankheit nach dem Dritten Kapitel des Fünften Buches. § 44 Absatz 2 gilt entsprechend. Ansprüche nach § 143 bleiben von Satz 1 unberührt. Die Leistungen nach Satz 1 erbringt für die zuständige Verwaltungsbehörde die Krankenkasse, die von der Person entsprechend § 173 des Fünften Buches gewählt wurde. § 175 Absatz 4 Satz 1 bis 5 des Fünften Buches gilt entsprechend. § 45 Satz 1 und 2 gilt entsprechend. Die Berechtigten erhalten von der gewählten Krankenkasse eine elektronische Gesundheitskarte nach § 291 des Fünften Buches.
+(1) Personen, die bis zum 1. Januar 2024 nach § 10 des Bundesversorgungsgesetzes oder in entsprechender Anwendung des § 10 des Bundesversorgungsgesetzes Leistungen der Heil- oder Krankenbehandlung für Nichtschädigungsfolgen erhalten haben, haben hinsichtlich der Behandlung von Nichtschädigungsfolgen Anspruch auf Leistungen bei Krankheit nach dem Dritten Kapitel des Fünften Buches. § 44 Absatz 2 gilt entsprechend. Ansprüche nach § 143 bleiben von Satz 1 unberührt. Die Leistungen nach Satz 1 erbringt für die zuständige Verwaltungsbehörde die Krankenkasse, die von der Person entsprechend § 173 des Fünften Buches gewählt wurde. § 175 Absatz 4 Satz 1 bis 5 des Fünften Buches gilt entsprechend. § 45 Satz 1 gilt entsprechend. Die Berechtigten erhalten von der gewählten Krankenkasse eine elektronische Gesundheitskarte nach § 291 des Fünften Buches.
 
-(2) Den Krankenkassen werden von der zuständigen Verwaltungsbehörde halbjährlich die Aufwendungen erstattet, die ihnen durch die Übernahme der Leistungen nach Absatz 1 entstehen. Als angemessene Verwaltungskosten werden ihnen von der zuständigen Verwaltungsbehörde halbjährlich 5 Prozent des Erstattungsbetrages nach Satz 1 erstattet.
+(2) (weggefallen)
 
 (3) Der Anspruch nach Absatz 1 ruht für die Dauer einer Mitgliedschaft in der gesetzlichen Krankenversicherung.
 
@@ -2440,11 +2455,29 @@ Der nach den §§ 144 und 145 festgestellte Geldbetrag sowie die Beträge aus de
 
 # § 152 – Wahlrecht
 
-(1) Anstelle der Leistungen nach diesem Kapitel können Berechtigte nach § 142 die Erbringung von Leistungen nach den Kapiteln 1 bis 22 mit Ausnahme der §§ 84 und 86 wählen. In diesem Fall gelten die bisher anerkannten Schädigungsfolgen sowie die Feststellung des Grades der Schädigungsfolgen für die Entscheidung über die Leistungen nach den Kapiteln 1 bis 22 als rechtsverbindlich festgestellt.
+(1) Anstelle der Leistungen nach diesem Kapitel können Berechtigte nach § 142 die Erbringung von Leistungen nach den Kapiteln 1 bis 4 und 6 bis 22 mit Ausnahme der §§ 84 und 86 wählen. In diesem Fall
 
-(2) Das Wahlrecht ist innerhalb von zwölf Monaten nach Eintritt der Bestandskraft der Entscheidung über Leistungen nach diesem Kapitel auszuüben. Die Ausübung des Wahlrechts ist unwiderruflich. Sie wirkt zurück auf den 1. Januar 2024. Bereits erbrachte Leistungen nach § 144 werden angerechnet.
+1. gelten die bisher anerkannten Schädigungsfolgen sowie die Feststellung des Grades der Schädigungsfolgen für die Entscheidung über die Leistungen nach den Kapiteln 1 bis 4 und 6 bis 22 als rechtsverbindlich festgestellt;
+
+2. wird der nach § 87 Absatz 1 des Bundesversorgungsgesetzes zum 31. Dezember 2023 berechnete Betrag festgesetzt und jährlich unter Berücksichtigung des § 110 Absatz 1, 2 und 4 angepasst. Dieser Betrag tritt an die Stelle der Leistung nach Kapitel 10.
+
+(2) Das Wahlrecht ist innerhalb von zwölf Monaten nach Eintritt der Bestandskraft der Entscheidung über Leistungen nach diesem Kapitel auszuüben. Die Ausübung des Wahlrechts ist unwiderruflich. Sie wirkt zurück auf den 1. Januar 2024. Bereits erbrachte Leistungen nach § 144 werden angerechnet. Die bis zur Bekanntgabe des Bescheides über die einer berechtigten Person zustehenden Leistungen nach den Kapiteln 1 bis 4 und 6 bis 22 erbrachten Leistungen nach § 144 werden auf folgende Leistungen angerechnet:
+
+1. monatliche Entschädigungszahlung nach § 83 Absatz 1,
+
+2. monatliche Entschädigungszahlung bei schwersten Schädigungsfolgen nach § 83 Absatz 2,
+
+3. monatliche Entschädigungszahlung an Witwen und Witwer sowie an Partner einer eheähnlichen Gemeinschaft nach § 85,
+
+4. monatliche Entschädigungszahlung an Waisen nach § 87,
+
+5. monatliche Entschädigungszahlung an hinterbliebene Eltern nach § 88 und
+
+6. Berufsschadensausgleich nach § 89.
 
 (3) Ist eine Rente kapitalisiert nach § 72 des Bundesversorgungsgesetzes oder nach § 1 Absatz 1 des Rentenkapitalisierungsgesetzes-KOV, verringert sich die Entschädigungszahlung nach § 83 während des Abfindungszeitraums um den kapitalisierten Betrag.
+
+(4) Berechtigte nach § 142, die ausschließlich eine Grundrente nach den §§ 31, 40, 45 Absatz 1 oder Absatz 3 Satz 1 Buchstabe a bis c des Bundesversorgungsgesetzes im Dezember 2023 erhalten haben, erhalten ab dem 1. Januar 2024 Leistungen nach den Kapiteln 1 bis 4 und 6 bis 22 mit Ausnahme der §§ 84 und 86. § 152 Absatz 1 Satz 2 gilt entsprechend. Satz 1 gilt nicht für Berechtigte, denen Leistungen nach § 143 Absatz 2 oder Absatz 3 zustehen oder die einen Anspruch als Vollwaise nach § 46 des Bundesversorgungsgesetzes haben.
 
 (+++ § 152: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
@@ -2470,7 +2503,7 @@ Geldleistungen nach diesem Kapitel bleiben bei anderen Sozialleistungen und bei 
 
 3. auf dem Opferentschädigungsgesetz beruhte, in Höhe von 40 Prozent der Ausgaben, die den Ländern durch Geldleistungen entstehen,
 
-4. auf dem Opferentschädigungsgesetz beruhte, in voller Höhe, wenn die Voraussetzungen von § 4 Absatz 2 des Opferentschädigungsgesetzes erfüllt waren,
+4. auf dem Opferentschädigungsgesetz beruhte, in voller Höhe, wenn die Voraussetzungen von § 4 Absatz 6 des Opferentschädigungsgesetzes erfüllt waren,
 
 5. auf dem Strafrechtlichen Rehabilitierungsgesetz beruhte, in Höhe von 65 Prozent der Ausgaben, die den Ländern durch Geldleistungen entstehen,
 

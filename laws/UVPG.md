@@ -698,7 +698,7 @@ In der Raumverträglichkeitsprüfung erfolgt die Prüfung der Umweltauswirkungen
 
 (1) Werden Bebauungspläne im Sinne des § 2 Absatz 6 Nummer 3, insbesondere bei Vorhaben nach Anlage 1 Nummer 18.1 bis 18.9, aufgestellt, geändert oder ergänzt, so wird die Umweltverträglichkeitsprüfung einschließlich der Vorprüfung nach den §§ 1 und 2 Absatz 1 und 2 sowie nach den §§ 3 bis 13 im Aufstellungsverfahren als Umweltprüfung sowie die Überwachung nach den Vorschriften des Baugesetzbuchs durchgeführt. Eine nach diesem Gesetz vorgeschriebene Vorprüfung entfällt, wenn für den aufzustellenden Bebauungsplan eine Umweltprüfung nach den Vorschriften des Baugesetzbuchs durchgeführt wird.
 
-(2) Besteht für die Aufstellung, Änderung oder Ergänzung eines Bauleitplans nach diesem Gesetz eine Verpflichtung zur Durchführung einer Strategischen Umweltprüfung, wird hierfür unbeschadet der §§ 13, 13a und 13b des Baugesetzbuchs eine Umweltprüfung einschließlich der Überwachung nach den Vorschriften des Baugesetzbuchs durchgeführt.
+(2) Besteht für die Aufstellung, Änderung oder Ergänzung eines Bauleitplans nach diesem Gesetz eine Verpflichtung zur Durchführung einer Strategischen Umweltprüfung, wird hierfür unbeschadet der §§ 13 und 13a des Baugesetzbuchs eine Umweltprüfung einschließlich der Überwachung nach den Vorschriften des Baugesetzbuchs durchgeführt.
 
 (3) Wird die Umweltverträglichkeitsprüfung in einem Aufstellungsverfahren für einen Bebauungsplan und in einem nachfolgenden Zulassungsverfahren durchgeführt, soll die Umweltverträglichkeitsprüfung im nachfolgenden Zulassungsverfahren auf zusätzliche oder andere erhebliche Umweltauswirkungen des Vorhabens beschränkt werden.
 

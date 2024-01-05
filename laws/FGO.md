@@ -347,19 +347,27 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 
 # § 48
 
-(1) Gegen Bescheide über die einheitliche und gesonderte Feststellung von Besteuerungsgrundlagen können Klage erheben:
+(1) Gegen Bescheide über die gesonderte und einheitliche Feststellung von Besteuerungsgrundlagen können Klage erheben:
 
-1. zur Vertretung berufene Geschäftsführer oder, wenn solche nicht vorhanden sind, der Klagebevollmächtigte im Sinne des Absatzes 2;
+1. bei rechtsfähigen Personenvereinigungen:
 
-2. wenn Personen nach Nummer 1 nicht vorhanden sind, jeder Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen den der Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+a) die Personenvereinigung,
 
-3. auch wenn Personen nach Nummer 1 vorhanden sind, ausgeschiedene Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen die der Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+b) wenn die rechtsfähige Personenvereinigung nicht mehr besteht, jeder Gesellschafter oder Gemeinschafter, gegen den der Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+
+2. bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen:
+
+a) der Klagebefugte im Sinne des Absatzes 2,
+
+b) wenn Personen nach Buchstabe a nicht vorhanden sind, jeder Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen den der Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+
+3. in den Fällen des § 183 Absatz 2 Satz 1 Nummer 2 oder des § 183a Absatz 2 Satz 1 Nummer 2 der Abgabenordnung jeder Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen den der Feststellungsbescheid ergangen ist oder zu ergehen hätte;
 
 4. soweit es sich darum handelt, wer an dem festgestellten Betrag beteiligt ist und wie dieser sich auf die einzelnen Beteiligten verteilt, jeder, der durch die Feststellungen hierzu berührt wird;
 
 5. soweit es sich um eine Frage handelt, die einen Beteiligten persönlich angeht, jeder, der durch die Feststellungen über die Frage berührt wird.
 
-(2) Klagebefugt im Sinne des Absatzes 1 Nr. 1 ist der gemeinsame Empfangsbevollmächtigte im Sinne des § 183 Abs. 1 Satz 1 der Abgabenordnung oder des § 6 Abs. 1 Satz 1 der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung vom 19. Dezember 1986 (BGBl. I S. 2663). Haben die Feststellungsbeteiligten keinen gemeinsamen Empfangsbevollmächtigten bestellt, ist klagebefugt im Sinne des Absatzes 1 Nr. 1 der nach § 183 Abs. 1 Satz 2 der Abgabenordnung fingierte oder der nach § 183 Abs. 1 Satz 3 bis 5 der Abgabenordnung oder nach § 6 Abs. 1 Satz 3 bis 5 der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung von der Finanzbehörde bestimmte Empfangsbevollmächtigte; dies gilt nicht für Feststellungsbeteiligte, die gegenüber der Finanzbehörde der Klagebefugnis des Empfangsbevollmächtigten widersprechen. Die Sätze 1 und 2 sind nur anwendbar, wenn die Beteiligten spätestens bei Erlass der Einspruchsentscheidung über die Klagebefugnis des Empfangsbevollmächtigten belehrt worden sind.
+(2) Klagebefugt im Sinne des Absatzes 1 Nummer 2 Buchstabe a ist der gemeinsame Empfangsbevollmächtigte im Sinne des § 183a Absatz 1 Satz 1 der Abgabenordnung oder des § 6 Absatz 1 Satz 1 der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung. Haben die Feststellungsbeteiligten keinen gemeinsamen Empfangsbevollmächtigten bestellt, ist klagebefugt im Sinne des Absatzes 1 Nummer 2 Buchstabe a der von der Finanzbehörde nach § 183a Absatz 1 Satz 2 und 3 der Abgabenordnung oder nach § 6 Absatz 1 Satz 3 und 4 der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung bestimmte Empfangsbevollmächtigte; Absatz 1 Nummer 3 bleibt unberührt. Die Sätze 1 und 2 sind nur anwendbar, wenn die Beteiligten spätestens bei Erlass der Einspruchsentscheidung über die Klagebefugnis des Empfangsbevollmächtigten belehrt worden sind.
 
 # § 49
 

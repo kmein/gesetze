@@ -696,8 +696,6 @@ handelt, oder
 
 Auf Antrag kann die Wirtschaftsprüferkammer Berufsangehörigen genehmigen, eine Tätigkeit nach Satz 1 auszuüben, wenn diese einer der Tätigkeiten nach Absatz 1 oder 2 vergleichbar ist und durch die Tätigkeit das Vertrauen in die Einhaltung der Berufspflichten nicht gefährdet werden kann. Auf Antrag kann die Wirtschaftsprüferkammer die Eingehung eines außerberuflichen Anstellungsverhältnisses vorübergehend genehmigen, wenn es der Übernahme einer Notgeschäftsführung oder der Sanierung einer gewerblichen Gesellschaft dient.
 
-§ 43a Abs. 1 Nr. 9 Buchst. b DBuchst. aa Kursivdruck: IdF d. Art. 77 Nr. 4 Buchst. b G v. 10.8.2021 I 3436 mWv 1.1.2024 (die Änderungsanweisung hätte lauten müssen "In Nummer 9 Buchstabe b Doppelbuchstabe aa...."; wegen offensichtlicher Unrichtigkeit wurde die Änderung sinngemäß konsolidiert)
-
 # § 44 – Eigenverantwortliche Tätigkeit
 
 (1) Eine eigenverantwortliche Tätigkeit übt nicht aus, wer sich als zeichnungsberechtigter Vertreter oder als zeichnungsberechtigter Angestellter an Weisungen zu halten hat, die ihn verpflichten, Prüfungsberichte und Gutachten auch dann zu unterzeichnen, wenn ihr Inhalt sich mit seiner Überzeugung nicht deckt. Weisungen, die solche Verpflichtungen enthalten, sind unzulässig. Anteilseigner einer Wirtschaftsprüfungsgesellschaft und Mitglieder der Verwaltungs-, Leitungs- und Aufsichtsorgane dieser oder einer verbundenen Wirtschaftsprüfungsgesellschaft dürfen auf die Durchführung von Abschlussprüfungen nicht in einer Weise Einfluss nehmen, die die Unabhängigkeit der verantwortlichen Berufsangehörigen beeinträchtigt.

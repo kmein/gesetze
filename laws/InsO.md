@@ -175,7 +175,7 @@ www.insolvenzbekanntmachungen.de
 
 # § 11 – Zulässigkeit des Insolvenzverfahrens
 
-(1) Ein Insolvenzverfahren kann über das Vermögen jeder natürlichen und jeder juristischen Person eröffnet werden. Der nicht rechtsfähige Verein steht insoweit einer juristischen Person gleich.
+(1) Ein Insolvenzverfahren kann über das Vermögen jeder natürlichen und jeder juristischen Person eröffnet werden. Der Verein ohne Rechtspersönlichkeit steht insoweit einer juristischen Person gleich.
 
 (2) Ein Insolvenzverfahren kann ferner eröffnet werden:
 
@@ -1993,7 +1993,7 @@ Sollen die Gläubiger aus den Erträgen des vom Schuldner oder von einem Dritten
 
 (1) Ist im Insolvenzplan vorgesehen, daß der Schuldner sein Unternehmen fortführt, und ist der Schuldner eine natürliche Person, so ist dem Plan die Erklärung des Schuldners beizufügen, daß er zur Fortführung des Unternehmens auf der Grundlage des Plans bereit ist. Ist der Schuldner eine rechtsfähige Personengesellschaft oder eine Kommanditgesellschaft auf Aktien, so ist dem Plan eine entsprechende Erklärung der Personen beizufügen, die nach dem Plan persönlich haftende Gesellschafter des Unternehmens sein sollen. Die Erklärung des Schuldners nach Satz 1 ist nicht erforderlich, wenn dieser selbst den Plan vorlegt.
 
-(2) Sollen Gläubiger Anteils- oder Mitgliedschaftsrechte oder Beteiligungen an einer juristischen Person, einem nicht rechtsfähigen Verein oder einer rechtsfähigen Personengesellschaft übernehmen, so ist dem Plan die zustimmende Erklärung eines jeden dieser Gläubiger beizufügen.
+(2) Sollen Gläubiger Anteils- oder Mitgliedschaftsrechte oder Beteiligungen an einer juristischen Person, einem Verein ohne Rechtspersönlichkeit oder einer rechtsfähigen Personengesellschaft übernehmen, so ist dem Plan die zustimmende Erklärung eines jeden dieser Gläubiger beizufügen.
 
 (3) Hat ein Dritter für den Fall der Bestätigung des Plans Verpflichtungen gegenüber den Gläubigern übernommen, so ist dem Plan die Erklärung des Dritten beizufügen.
 

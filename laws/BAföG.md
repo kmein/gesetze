@@ -493,6 +493,16 @@ zu zahlen. Maßgeblich ist jeweils der zuletzt mit Darlehen geförderte Ausbildu
 
 4. die Voraussetzungen für das Vorliegen eines geringfügigen Verstoßes gegen die Zahlungs- und Mitwirkungspflichten im Sinne des Absatzes 12 Satz 1.
 
+(15) Darlehensnehmende werden während der Rückzahlungsfrist des § 18 Absatz 3 Satz 1 mit Beginn des Monats, in dem die Mitteilung nach § 94 Absatz 4 Satz 1 des Vierzehnten Buches Sozialgesetzbuch zugeht, von der Verpflichtung zur Rückzahlung freigestellt. Rückwirkend erfolgt die Freistellung für längstens vier Monate vor Zugang der Mitteilung nach Satz 1. Die Freistellung endet
+
+1. mit der vollständigen Tilgung der Darlehensschuld durch den Träger der Sozialen Entschädigung nach § 94 Absatz 1 des Vierzehnten Buches Sozialgesetzbuch,
+
+2. mit Beginn des Monats, in dem die Mitteilung nach § 94 Absatz 4 Satz 2 des Vierzehnten Buches Sozialgesetzbuch über eine vollständige Ablehnung zugeht oder
+
+3. mit Beginn des Monats, in dem neben der Mitteilung nach § 94 Absatz 4 Satz 2 des Vierzehnten Buches Sozialgesetzbuch über die teilweise Rückzahlung des Darlehens die Tilgung in dieser Höhe erfolgt ist.
+
+4. § 18a Absatz 4 Satz 1 gilt entsprechend.
+
 # § 18a – Einkommensabhängige Rückzahlung
 
 (1) Auf Antrag sind Darlehensnehmende während der Rückzahlungsfrist des § 18 Absatz 3 Satz 1 bis spätestens zu deren Ablauf von der Verpflichtung zur Rückzahlung freizustellen, soweit ihr Einkommen monatlich jeweils den Betrag von 1 605 Euro nicht um mindestens 42 Euro übersteigt. Der in Satz 1 bezeichnete Betrag erhöht sich für
@@ -559,7 +569,7 @@ Auszubildende, die ihre Ausbildung an einer im Ausland gelegenen Ausbildungsstä
 
 (4) Vom Beginn der Rückzahlung an ist auf Antrag des Darlehensnehmers ein Festzins für die (Rest-)Laufzeit, längstens jedoch für zehn Jahre zu vereinbaren. Der Antrag kann jeweils zum 1. April und 1. Oktober gestellt werden und muss einen Monat im Voraus bei der Kreditanstalt für Wiederaufbau eingegangen sein. Es gilt – vorbehaltlich des Gleichbleibens der Rechtslage – der Zinssatz für Bankschuldverschreibungen mit entsprechender Laufzeit, zuzüglich eines Aufschlags von eins vom Hundert.
 
-(5) § 18 Absatz 3 Satz 3 und Absatz 11 ist entsprechend anzuwenden. Für die Rückzahlung gelten alle nach § 17 Absatz 3 Satz 1 in der am 31. Juli 2019 geltenden Fassung geleisteten Darlehen als ein Darlehen.
+(5) § 18 Absatz 3 Satz 3, Absatz 11 und Absatz 15 ist entsprechend anzuwenden. Für die Rückzahlung gelten alle nach § 17 Absatz 3 Satz 1 in der am 31. Juli 2019 geltenden Fassung geleisteten Darlehen als ein Darlehen.
 
 (6) Das Bankdarlehen ist einschließlich der Zinsen – vorbehaltlich des Gleichbleibens der Rechtslage – in möglichst gleichbleibenden monatlichen Raten von mindestens 130 Euro innerhalb von 20 Jahren zurückzuzahlen. Die erste Rate ist 18 Monate nach dem Ende des Monats, für den der Auszubildende zuletzt mit Bankdarlehen gefördert worden ist, zu zahlen.
 
