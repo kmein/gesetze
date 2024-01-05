@@ -157,8 +157,6 @@
 
 (3) Weitergehende Pflichten, die sich aus anderen Gesetzen ergeben, bleiben unberührt.
 
-§ 1 Abs. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "rechtsfähige" durch das Wort "rechtsfähigen" ersetzt
-
 # § 2 – Gestaltbare Rechtsverhältnisse
 
 (1) Auf der Grundlage eines Restrukturierungsplans können gestaltet werden:
@@ -271,7 +269,7 @@ Sollen Rechte an Gegenständen begründet, geändert, übertragen oder aufgehobe
 
 (1) Handelt es sich bei dem Schuldner um eine rechtsfähige Personengesellschaft oder eine Kommanditgesellschaft auf Aktien, so ist dem Restrukturierungsplan eine Erklärung der Personen beizufügen, die nach dem Plan persönlich haftende Gesellschafter des Unternehmens sein sollen, dass sie zur Fortführung des Unternehmens auf der Grundlage des Plans bereit sind.
 
-(2) Sollen Gläubiger Anteils- oder Mitgliedschaftsrechte oder Beteiligungen an einer juristischen Person, einem nicht rechtsfähigen Verein oder einer rechtsfähige Personengesellschaft übernehmen, so ist dem Restrukturierungsplan die Zustimmungserklärung eines jeden dieser Gläubiger beizufügen.
+(2) Sollen Gläubiger Anteils- oder Mitgliedschaftsrechte oder Beteiligungen an einer juristischen Person, einem Verein ohne Rechtspersönlichkeit oder einer rechtsfähige Personengesellschaft übernehmen, so ist dem Restrukturierungsplan die Zustimmungserklärung eines jeden dieser Gläubiger beizufügen.
 
 (3) Hat ein Dritter für den Fall der Bestätigung des Restrukturierungsplans Verpflichtungen gegenüber den Gläubigern übernommen, so ist dem Plan die Erklärung des Dritten beizufügen.
 

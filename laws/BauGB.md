@@ -13,7 +13,7 @@
 
 (4) Die Bauleitpläne sind den Zielen der Raumordnung anzupassen.
 
-(5) Die Bauleitpläne sollen eine nachhaltige städtebauliche Entwicklung, die die sozialen, wirtschaftlichen und umweltschützenden Anforderungen auch in Verantwortung gegenüber künftigen Generationen miteinander in Einklang bringt, und eine dem Wohl der Allgemeinheit dienende sozialgerechte Bodennutzung unter Berücksichtigung der Wohnbedürfnisse der Bevölkerung gewährleisten. Sie sollen dazu beitragen, eine menschenwürdige Umwelt zu sichern, die natürlichen Lebensgrundlagen zu schützen und zu entwickeln sowie den Klimaschutz und die Klimaanpassung, insbesondere auch in der Stadtentwicklung, zu fördern, sowie die städtebauliche Gestalt und das Orts- und Landschaftsbild baukulturell zu erhalten und zu entwickeln. Hierzu soll die städtebauliche Entwicklung vorrangig durch Maßnahmen der Innenentwicklung erfolgen.
+(5) Die Bauleitpläne sollen eine nachhaltige städtebauliche Entwicklung, die die sozialen, wirtschaftlichen und umweltschützenden Anforderungen auch in Verantwortung gegenüber künftigen Generationen miteinander in Einklang bringt, und eine dem Wohl der Allgemeinheit dienende sozialgerechte Bodennutzung unter Berücksichtigung der Wohnbedürfnisse der Bevölkerung gewährleisten. Sie sollen dazu beitragen, eine menschenwürdige Umwelt zu sichern, die natürlichen Lebensgrundlagen zu schützen und zu entwickeln sowie den Klimaschutz und die Klimaanpassung, insbesondere auch in der Stadtentwicklung, zu fördern und zur Erfüllung der Klimaschutzziele des Bundes-Klimaschutzgesetzes die Wärme- und Energieversorgung von Gebäuden treibhausgasneutral zu gestalten sowie die städtebauliche Gestalt und das Orts- und Landschaftsbild baukulturell zu erhalten und zu entwickeln. Hierzu soll die städtebauliche Entwicklung vorrangig durch Maßnahmen der Innenentwicklung erfolgen.
 
 (6) Bei der Aufstellung der Bauleitpläne sind insbesondere zu berücksichtigen:
 
@@ -41,9 +41,9 @@ d) umweltbezogene Auswirkungen auf Kulturgüter und sonstige Sachgüter,
 
 e) die Vermeidung von Emissionen sowie der sachgerechte Umgang mit Abfällen und Abwässern,
 
-f) die Nutzung erneuerbarer Energien sowie die sparsame und effiziente Nutzung von Energie,
+f) die Nutzung erneuerbarer Energien, insbesondere auch im Zusammenhang mit der Wärmeversorgung von Gebäuden, sowie die sparsame und effiziente Nutzung von Energie,
 
-g) die Darstellungen von Landschaftsplänen sowie von sonstigen Plänen, insbesondere des Wasser-, Abfall- und Immissionsschutzrechts,
+g) die Darstellungen von Landschaftsplänen und sonstigen Plänen, insbesondere des Wasser-, des Abfall- und des Immissionsschutzrechts, sowie die Darstellungen in Wärmeplänen und die Entscheidungen über die Ausweisung als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet gemäß § 26 des Wärmeplanungsgesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 394),
 
 h) die Erhaltung der bestmöglichen Luftqualität in Gebieten, in denen die durch Rechtsverordnung zur Erfüllung von Rechtsakten der Europäischen Union festgelegten Immissionsgrenzwerte nicht überschritten werden,
 
@@ -189,7 +189,9 @@ d) mit zentralen Versorgungsbereichen;
 
 4. die Flächen für Versorgungsanlagen, für die Abfallentsorgung und Abwasserbeseitigung, für Ablagerungen sowie für Hauptversorgungs- und Hauptabwasserleitungen;
 
-5. die Grünflächen, wie Parkanlagen, Dauerkleingärten, Sport-, Spiel-, Zelt- und Badeplätze, Friedhöfe;
+5. die Grünflächen, wie Parkanlagen, Naturerfahrungsräume, Dauerkleingärten, Sport-, Spiel-, Zelt- und Badeplätze, Friedhöfe;
+
+5a. die Flächen zur Gewährleistung eines natürlichen Klimaschutzes;
 
 6. die Flächen für Nutzungsbeschränkungen oder für Vorkehrungen zum Schutz gegen schädliche Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes;
 
@@ -291,9 +293,11 @@ b) Wald;
 
 15. die öffentlichen und privaten Grünflächen, wie Parkanlagen, Naturerfahrungsräume, Dauerkleingärten, Sport-, Spiel-, Zelt- und Badeplätze, Friedhöfe;
 
+15a. die Flächen zur Gewährleistung eines natürlichen Klimaschutzes;
+
 16. a) die Wasserflächen und die Flächen für die Wasserwirtschaft,
 
-b) die Flächen für Hochwasserschutzanlagen und für die Regelung des Wasserabflusses,
+b) die Flächen für Hochwasserschutzanlagen, für die Regelung des Wasserabflusses, einschließlich des Niederschlagswassers aus Starkregenereignissen,
 
 c) Gebiete, in denen bei der Errichtung baulicher Anlagen bestimmte bauliche oder technische Maßnahmen getroffen werden müssen, die der Vermeidung oder Verringerung von Hochwasserschäden einschließlich Schäden durch Starkregen dienen, sowie die Art dieser Maßnahmen,
 
@@ -520,10 +524,6 @@ Wird in einem Bebauungsplan weder eine zulässige Grundfläche noch eine Größe
 Die Bekanntmachung nach Satz 1 kann mit der ortsüblichen Bekanntmachung nach § 2 Absatz 1 Satz 2 verbunden werden. In den Fällen des Absatzes 1 Satz 2 Nummer 2 erfolgt die Bekanntmachung nach Satz 1 nach Abschluss der Vorprüfung des Einzelfalls.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für die Änderung, Ergänzung und Aufhebung eines Bebauungsplans.
-
-# § 13b – Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren
-
-Bis zum Ablauf des 31. Dezember 2022 gilt § 13a entsprechend für Bebauungspläne mit einer Grundfläche im Sinne des § 13a Absatz 1 Satz 2 von weniger als 10 000 Quadratmetern, durch die die Zulässigkeit von Wohnnutzungen auf Flächen begründet wird, die sich an im Zusammenhang bebaute Ortsteile anschließen. Das Verfahren zur Aufstellung eines Bebauungsplans nach Satz 1 kann nur bis zum Ablauf des 31. Dezember 2022 förmlich eingeleitet werden; der Satzungsbeschluss nach § 10 Absatz 1 ist bis zum Ablauf des 31. Dezember 2024 zu fassen.
 
 # § 14 – Veränderungssperre
 
@@ -3227,7 +3227,7 @@ Mutterboden, der bei der Errichtung und Änderung baulicher Anlagen sowie bei we
 
 # § 204 – Gemeinsamer Flächennutzungsplan, Bauleitplanung bei Bildung von Planungsverbänden und bei Gebiets- oder Bestandsänderung
 
-(1) Benachbarte Gemeinden sollen einen gemeinsamen Flächennutzungsplan aufstellen, wenn ihre städtebauliche Entwicklung wesentlich durch gemeinsame Voraussetzungen und Bedürfnisse bestimmt wird oder ein gemeinsamer Flächennutzungsplan einen gerechten Ausgleich der verschiedenen Belange ermöglicht. Ein gemeinsamer Flächennutzungsplan soll insbesondere aufgestellt werden, wenn die Ziele der Raumordnung oder wenn Einrichtungen und Anlagen des öffentlichen Verkehrs, sonstige Erschließungsanlagen sowie Gemeinbedarfs- oder sonstige Folgeeinrichtungen eine gemeinsame Planung erfordern. Der gemeinsame Flächennutzungsplan kann von den beteiligten Gemeinden nur gemeinsam aufgehoben, geändert oder ergänzt werden; die Gemeinden können vereinbaren, dass sich die Bindung nur auf bestimmte räumliche oder sachliche Teilbereiche erstreckt. Ist eine gemeinsame Planung nur für räumliche oder sachliche Teilbereiche erforderlich, genügt anstelle eines gemeinsamen Flächennutzungsplans eine Vereinbarung der beteiligten Gemeinden über bestimmte Darstellungen in ihren Flächennutzungsplänen. Sind die Voraussetzungen für eine gemeinsame Planung nach Satz 1 und 4 entfallen oder ist ihr Zweck erreicht, können die beteiligten Gemeinden den Flächennutzungsplan für ihr Gemeindegebiet ändern oder ergänzen; vor Einleitung des Bauleitplanverfahrens ist die Zustimmung der höheren Verwaltungsbehörde erforderlich.
+(1) Benachbarte Gemeinden sollen einen gemeinsamen Flächennutzungsplan aufstellen, wenn ihre städtebauliche Entwicklung wesentlich durch gemeinsame Voraussetzungen und Bedürfnisse bestimmt wird oder ein gemeinsamer Flächennutzungsplan einen gerechten Ausgleich der verschiedenen Belange ermöglicht. Ein gemeinsamer Flächennutzungsplan soll insbesondere aufgestellt werden, wenn die Ziele der Raumordnung, die Umsetzung eines Wärmeplans oder mehrerer Wärmepläne sowie Einrichtungen und Anlagen des öffentlichen Verkehrs, sonstige Erschließungsanlagen oder Gemeinbedarfs- oder sonstige Folgeeinrichtungen eine gemeinsame Planung erfordern. Der gemeinsame Flächennutzungsplan kann von den beteiligten Gemeinden nur gemeinsam aufgehoben, geändert oder ergänzt werden; die Gemeinden können vereinbaren, dass sich die Bindung nur auf bestimmte räumliche oder sachliche Teilbereiche erstreckt. Ist eine gemeinsame Planung nur für räumliche oder sachliche Teilbereiche erforderlich, genügt anstelle eines gemeinsamen Flächennutzungsplans eine Vereinbarung der beteiligten Gemeinden über bestimmte Darstellungen in ihren Flächennutzungsplänen. Sind die Voraussetzungen für eine gemeinsame Planung nach Satz 1 und 4 entfallen oder ist ihr Zweck erreicht, können die beteiligten Gemeinden den Flächennutzungsplan für ihr Gemeindegebiet ändern oder ergänzen; vor Einleitung des Bauleitplanverfahrens ist die Zustimmung der höheren Verwaltungsbehörde erforderlich.
 
 (2) Werden Gemeinden in ihrem Gebiet oder Bestand geändert oder geht die Zuständigkeit zur Aufstellung von Flächennutzungsplänen auf Verbände oder sonstige kommunale Körperschaften über, gelten unbeschadet abweichender landesrechtlicher Regelungen bestehende Flächennutzungspläne fort. Dies gilt auch für räumliche und sachliche Teile der Flächennutzungspläne. Die Befugnis und die Pflicht der Gemeinde, eines Verbands oder einer sonstigen Körperschaft, fortgeltende Flächennutzungspläne aufzuheben oder für das neue Gemeindegebiet zu ergänzen oder durch einen neuen Flächennutzungsplan zu ersetzen, bleiben unberührt.
 
@@ -3341,7 +3341,7 @@ keine aufschiebende Wirkung. § 80 Absatz 4 und 5 der Verwaltungsgerichtsordnung
 
 1. entgegen § 2 Absatz 3 die von der Planung berührten Belange, die der Gemeinde bekannt waren oder hätten bekannt sein müssen, in wesentlichen Punkten nicht zutreffend ermittelt oder bewertet worden sind und wenn der Mangel offensichtlich und auf das Ergebnis des Verfahrens von Einfluss gewesen ist;
 
-2. die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 3 Absatz 2, § 4 Absatz 2, § 4a Absatz 3, Absatz 4 Satz 2, nach § 13 Absatz 2 Satz 1 Nummer 2 und 3, auch in Verbindung mit § 13a Absatz 2 Nummer 1 und § 13b, nach § 22 Absatz 9 Satz 2, § 34 Absatz 6 Satz 1 sowie § 35 Absatz 6 Satz 5 verletzt worden sind; dabei ist unbeachtlich, wenn
+2. die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 3 Absatz 2, § 4 Absatz 2, § 4a Absatz 3, Absatz 4 Satz 2, nach § 13 Absatz 2 Satz 1 Nummer 2 und 3, auch in Verbindung mit § 13a Absatz 2 Nummer 1, nach § 22 Absatz 9 Satz 2, § 34 Absatz 6 Satz 1 sowie § 35 Absatz 6 Satz 5 verletzt worden sind; dabei ist unbeachtlich, wenn
 
 a) bei Anwendung der Vorschriften einzelne Personen, Behörden oder sonstige Träger öffentlicher Belange nicht beteiligt worden sind, die entsprechenden Belange jedoch unerheblich waren oder in der Entscheidung berücksichtigt worden sind,
 
@@ -3355,7 +3355,7 @@ e) bei Anwendung des § 3 Absatz 2 Satz 5 der Inhalt der Bekanntmachung zwar in 
 
 f) bei Anwendung des § 13 Absatz 3 Satz 2 die Angabe darüber, dass von einer Umweltprüfung abgesehen wird, unterlassen wurde oder
 
-g) bei Anwendung des § 4a Absatz 3 Satz 4 oder des § 13, auch in Verbindung mit § 13a Absatz 2 Nummer 1 und § 13b, die Voraussetzungen für die Durchführung der Beteiligung nach diesen Vorschriften verkannt worden sind;
+g) bei Anwendung des § 4a Absatz 3 Satz 4 oder des § 13, auch in Verbindung mit § 13a Absatz 2 Nummer 1, die Voraussetzungen für die Durchführung der Beteiligung nach diesen Vorschriften verkannt worden sind;
 
 3. die Vorschriften über die Begründung des Flächennutzungsplans und der Satzungen sowie ihrer Entwürfe nach §§ 2a, 3 Absatz 2, § 5 Absatz 1 Satz 2 Halbsatz 2 und Absatz 5, § 9 Absatz 8 und § 22 Absatz 10 verletzt worden sind; dabei ist unbeachtlich, wenn die Begründung des Flächennutzungsplans oder der Satzung oder ihr Entwurf unvollständig ist; abweichend von Halbsatz 2 ist eine Verletzung von Vorschriften in Bezug auf den Umweltbericht unbeachtlich, wenn die Begründung hierzu nur in unwesentlichen Punkten unvollständig ist;
 
@@ -3373,7 +3373,7 @@ Soweit in den Fällen des Satzes 1 Nummer 3 die Begründung in wesentlichen Punk
 
 4. im Parallelverfahren gegen § 8 Absatz 3 verstoßen worden ist, ohne dass die geordnete städtebauliche Entwicklung beeinträchtigt worden ist.
 
-(2a) Für Bebauungspläne, die im beschleunigten Verfahren nach § 13a, auch in Verbindung mit § 13b, aufgestellt worden sind, gilt ergänzend zu den Absätzen 1 und 2 Folgendes:
+(2a) Für Bebauungspläne, die im beschleunigten Verfahren nach § 13a aufgestellt worden sind, gilt ergänzend zu den Absätzen 1 und 2 Folgendes:
 
 1. (weggefallen)
 
@@ -3400,6 +3400,16 @@ Soweit in den Fällen des Satzes 1 Nummer 3 die Begründung in wesentlichen Punk
 wenn sie nicht innerhalb eines Jahres seit Bekanntmachung des Flächennutzungsplans oder der Satzung schriftlich gegenüber der Gemeinde unter Darlegung des die Verletzung begründenden Sachverhalts geltend gemacht worden sind. Satz 1 gilt entsprechend, wenn Fehler nach § 214 Absatz 2a beachtlich sind.
 
 (2) Bei Inkraftsetzung des Flächennutzungsplans oder der Satzung ist auf die Voraussetzungen für die Geltendmachung der Verletzung von Vorschriften sowie auf die Rechtsfolgen hinzuweisen.
+
+# § 215a – Beendigung von Bebauungsplanverfahren und ergänzendes Verfahren für Bebauungspläne nach § 13b in der bis zum Ablauf des 22. Juni 2021 oder bis zum Ablauf des 31. Dezember 2023 geltenden Fassung
+
+(1) Bebauungsplanverfahren nach § 13b in der bis zum Ablauf des 22. Juni 2021 oder bis zum Ablauf des 31. Dezember 2023 geltenden Fassung, die vor Ablauf des 31. Dezember 2022 förmlich eingeleitet wurden, können nach Maßgabe des Absatzes 3 im beschleunigten Verfahren in entsprechender Anwendung des § 13a abgeschlossen werden, wenn der Satzungsbeschluss nach § 10 Absatz 1 bis zum Ablauf des 31. Dezember 2024 gefasst wird.
+
+(2) Sollen Bebauungspläne, die im Verfahren nach § 13b in der bis zum Ablauf des 22. Juni 2021 oder bis zum Ablauf des 31. Dezember 2023 geltenden Fassung aufgestellt wurden, durch ein ergänzendes Verfahren gemäß § 214 Absatz 4 in Kraft gesetzt werden, kann § 13a nach Maßgabe des Absatzes 3 entsprechend angewendet werden. Der Satzungsbeschluss nach § 10 Absatz 1 ist bis zum Ablauf des 31. Dezember 2024 zu fassen.
+
+(3) § 13a Absatz 2 Nummer 1 in Verbindung mit § 13 Absatz 3 Satz 1 sowie § 13a Absatz 2 Nummer 4 können nur dann entsprechend angewendet werden, wenn die Gemeinde auf Grund einer Vorprüfung des Einzelfalls entsprechend § 13a Absatz 1 Satz 2 Nummer 2 zu der Einschätzung gelangt, dass der Bebauungsplan voraussichtlich keine erheblichen Umweltauswirkungen hat, die nach § 2 Absatz 4 Satz 4 in der Abwägung zu berücksichtigen wären oder die als Beeinträchtigungen des Landschaftsbildes oder der Leistungs- und Funktionsfähigkeit des Naturhaushalts entsprechend § 1a Absatz 3 auszugleichen wären. Die Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereiche durch die Planung berührt werden können, sind an der Vorprüfung des Einzelfalls zu beteiligen. Wird das Verfahren nach Absatz 1 oder Absatz 2 nach Abschluss der Vorprüfung des Einzelfalls ohne Durchführung einer Umweltprüfung nach § 2 Absatz 4 fortgesetzt, hat die Gemeinde dies einschließlich der hierfür wesentlichen Gründe ortsüblich bekanntzumachen.
+
+(4) Auf Bebauungspläne, deren Aufstellung nach Absatz 1 abgeschlossen worden ist oder die im ergänzenden Verfahren nach Absatz 2 in Kraft gesetzt worden sind, sind die Bestimmungen der §§ 214 und 215 zur Planerhaltung entsprechend anzuwenden.
 
 # § 216 – Aufgaben im Genehmigungsverfahren
 
@@ -3783,9 +3793,23 @@ abweichend von den §§ 29 bis 35 wiederaufgebaut oder instand gesetzt werden k�
 
 (7) In den ersten sechs Monaten nach Eintritt des Katastrophenfalls kann die Baugenehmigungsbehörde mit Zustimmung der höheren Verwaltungsbehörde im Gebiet der von der Katastrophe betroffenen Gemeinde sowie in benachbarten Gemeinden bei der Zulassung von Vorhaben im Sinne des Absatzes 2 Nummer 1 und unter den dort genannten weiteren Voraussetzungen von den §§ 29 bis 35 vorübergehend abweichen, wenn eine Rechtsverordnung nach den Absätzen 1 und 2 Nummer 1 nicht ergangen ist. Die Absätze 4 und 5 sind entsprechend anzuwenden.
 
-# § 246d – Sonderregelung für Biogasanlagen
+# § 246d – Sonderregelungen für Biogasanlagen
 
-Vor dem 1. September 2022 errichtete Anlagen zur Erzeugung von Biogas im Sinne des § 35 Absatz 1 Nummer 6 sind bis zum Ablauf des 31. Dezember 2024 abweichend von § 35 Absatz 1 Nummer 6 Buchstabe a, b und d auch dann bauplanungsrechtlich zulässig, wenn die Biogasproduktion erhöht wird und die Biomasse überwiegend aus dem Betrieb oder überwiegend aus diesem und aus weniger als 50 Kilometer entfernten Betrieben nach § 35 Absatz 1 Nummer 1, 2 oder 4 stammt, soweit Letzterer Tierhaltung betreibt. Zu den in Satz 1 genannten Betrieben nach § 35 Absatz 1 Nummer 4 zählen auch solche, die dem Anwendungsbereich des § 245a Absatz 5 Satz 1 oder 2 unterfallen.
+(1) Vor dem 1. September 2022 errichtete Anlagen zur Erzeugung von Biogas im Sinne des § 35 Absatz 1 Nummer 6 sind bis zum Ablauf des 31. Dezember 2024 abweichend von § 35 Absatz 1 Nummer 6 Buchstabe a, b und d auch dann bauplanungsrechtlich zulässig, wenn die Biogasproduktion erhöht wird und die Biomasse überwiegend aus dem Betrieb oder überwiegend aus diesem und aus weniger als 50 Kilometer entfernten Betrieben nach § 35 Absatz 1 Nummer 1, 2 oder 4 stammt, soweit Letzterer Tierhaltung betreibt. Zu den in Satz 1 genannten Betrieben nach § 35 Absatz 1 Nummer 4 zählen auch solche, die dem Anwendungsbereich des § 245a Absatz 5 Satz 1 oder 2 unterfallen.
+
+(2) Von § 35 Absatz 1 Nummer 6 werden bis zum 31. Dezember 2028 auch Vorhaben erfasst, die der energetischen Nutzung von Biomasse im Rahmen eines am 1. Januar 2024 bestehenden Tierhaltung betreibenden gewerblichen Betriebes dienen, der auf Grundlage der vor dem 20. September 2013 geltenden Fassung des § 35 Absatz 1 Nummer 4 zugelassen worden ist.
+
+(3) Bis zum Ablauf des 31. Dezember 2028 gilt § 35 Absatz 1 Nummer 6 Buchstabe b mit der Maßgabe, dass die Biomasse zusätzlich auch aus zulässigerweise errichteten und am 1. Januar 2024 bestehenden, weniger als 50 Kilometer entfernten Betrieben aller Art stammen kann, soweit es sich um Biomasse handelt, die in diesen Betrieben als Reststoff anfällt.
+
+(4) Im Außenbereich ist unbeschadet des § 35 Absatz 1 bis zum Ablauf des 31. Dezember 2028 ein Vorhaben zulässig, das
+
+1. der Aufbereitung von Biogas zu Biomethan einschließlich des Anschlusses an das öffentliche Versorgungsnetz dient, oder
+
+2. als Blockheizkraftwerk der Erzeugung von Strom einschließlich dessen Einspeisung in das öffentliche Netz sowie der Erzeugung von Wärme zur Einspeisung in ein bestehendes lokales Wärmenetz oder zur Wärmeversorgung von zulässigerweise errichteten Gebäuden in räumlicher Nähe zum Vorhaben dient,
+
+wenn das Vorhaben in einem räumlich-funktionalen Zusammenhang mit einer am 1. Januar 2024 bestehenden, zulässigerweise nach § 35 Absatz 1 Nummer 6 errichteten Anlage steht und keine größere Grundfläche in Anspruch nimmt als diese Anlage und wenn das verwendete Biogas aus dieser Anlage oder aus nahegelegenen Anlagen nach § 35 Absatz 1 Nummer 6 stammt.
+
+(5) Die Befristung in den Absätzen 1 bis 4 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende bei der zuständigen Behörde ein Antrag eingegangen ist. Die Änderung einer Anlage, die nach einem der Absätze 1 bis 4 zugelassen worden ist, ist nach dem 31. Dezember 2028 nach demselben Absatz zulässig, wenn durch die Änderung die Grundfläche oder Höhe der Anlage nicht oder nur insoweit vergrößert wird, als dies zur Erfüllung rechtlicher Anforderungen an die Anlage erforderlich ist.
 
 # § 247 – Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland
 

@@ -7,7 +7,7 @@
 
 (2) Die Finanzhilfen dienen im Rahmen der Förderziele nach Absatz 1 insbesondere der Bewältigung des Strukturwandels und der Sicherung der Beschäftigung im Zuge des Ausstiegs aus dem Braunkohleabbau und der Verstromung von Braunkohle.
 
-(3) Die Länder haben sich für die Fördergebiete nach § 2 Leitbilder nach den Anlagen 1 bis 3 gegeben, die sich auf eine nachhaltige Entwicklung in einem umfassenden ökonomischen, ökologischen und sozialen Verständnis beziehen. Die Leitbilder beschreiben in Umsetzung der Förderziele nach den Absätzen 1 und 2 Ansatzpunkte für die regionale Entwicklung und die Verwendung der Finanzhilfen. Sie können im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie weiterentwickelt und an die Strukturentwicklung der Reviere angepasst werden.
+(3) Die Länder haben sich für die Fördergebiete nach § 2 Leitbilder nach den Anlagen 1 bis 3 gegeben, die sich auf eine nachhaltige Entwicklung in einem umfassenden ökonomischen, ökologischen und sozialen Verständnis beziehen. Die Leitbilder beschreiben in Umsetzung der Förderziele nach den Absätzen 1 und 2 Ansatzpunkte für die regionale Entwicklung und die Verwendung der Finanzhilfen. Sie können im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz weiterentwickelt und an die Strukturentwicklung der Reviere angepasst werden.
 
 (4) Die Förderziele nach den Absätzen 1 und 2 sind auch für die Maßnahmen der Kapitel 3 und 4 maßgebend.
 
@@ -113,7 +113,7 @@ b) 40 Prozent für den Freistaat Sachsen.
 
 (4) Förderfähig sind auch Investitionsvorhaben, bei denen sich die öffentliche Verwaltung zur Erledigung der von ihr wahrzunehmenden Aufgaben über den Lebenszyklus des Vorhabens eines Privaten im Rahmen einer vertraglichen Zusammenarbeit bedient. Dabei kann sie dem privaten Vertragspartner für den investiven Kostenanteil des Vorhabens eine einmalige Vorabfinanzierung gewähren als Öffentlich-Private Partnerschaft (Vorabfinanzierungs-ÖPP). Fördermittel für derartige Vorabfinanzierungs-ÖPP können bis zum 31. Dezember 2038 beantragt werden, wenn bis zum 31. Dezember 2042 die Abnahme und Abrechnung des Investitionsvorhabens erfolgt.
 
-(5) Die Finanzhilfen der Förderperioden 2 und 3 werden nur gewährt, wenn die Überprüfung des Bundesministeriums für Wirtschaft und Energie nach § 49 des Kohleverstromungsbeendigungsgesetzes ergibt, dass in der jeweils vorausgehenden Förderperiode in den Revieren nach § 2 Stilllegungen von Braunkohleanlagen in dem nach § 4 des Kohleverstromungsbeendigungsgesetzes in Verbindung mit Teil 5 des Kohleverstromungsbeendigungsgesetzes vorgesehenen Umfang erfolgt oder rechtsverbindlich vereinbart worden sind.
+(5) Die Finanzhilfen der Förderperioden 2 und 3 werden nur gewährt, wenn die Überprüfung des Bundesministeriums für Wirtschaft und Klimaschutz nach § 49 des Kohleverstromungsbeendigungsgesetzes ergibt, dass in der jeweils vorausgehenden Förderperiode in den Revieren nach § 2 Stilllegungen von Braunkohleanlagen in dem nach § 4 des Kohleverstromungsbeendigungsgesetzes in Verbindung mit Teil 5 des Kohleverstromungsbeendigungsgesetzes vorgesehenen Umfang erfolgt oder rechtsverbindlich vereinbart worden sind.
 
 # § 7 – Förderquote und Bewirtschaftung
 
@@ -121,7 +121,7 @@ b) 40 Prozent für den Freistaat Sachsen.
 
 (2) Der Bund stellt den Ländern die Finanzhilfe zur eigenen Bewirtschaftung zur Verfügung. Die zuständigen Stellen der Länder sind ermächtigt, die Auszahlung der Bundesmittel anzuordnen, sobald sie zur anteiligen Begleichung erforderlicher und fälliger Zahlungen benötigt werden. Die Länder leiten die Finanzhilfen des Bundes unverzüglich an die Letztempfänger weiter.
 
-(3) Den Ländern obliegt jeweils entsprechend den landesspezifischen Gegebenheiten die Auswahl der Investitionsvorhaben. Diese sind unter enger Einbeziehung der Gemeinden und Gemeindeverbände zu entwickeln und vorzuschlagen. Die Länder teilen dem Bundesministerium für Wirtschaft und Energie mit,
+(3) Den Ländern obliegt jeweils entsprechend den landesspezifischen Gegebenheiten die Auswahl der Investitionsvorhaben. Diese sind unter enger Einbeziehung der Gemeinden und Gemeindeverbände zu entwickeln und vorzuschlagen. Die Länder teilen dem Bundesministerium für Wirtschaft und Klimaschutz mit,
 
 1. in welchen Fördergebieten nach § 2 die Investitionen getätigt werden,
 
@@ -133,9 +133,9 @@ b) 40 Prozent für den Freistaat Sachsen.
 
 # § 8 – Prüfung der Mittelverwendung
 
-(1) Die zuständigen obersten Landesbehörden sind verpflichtet, dem Bundesministerium für Wirtschaft und Energie die zur Durchführung des Gesetzes erforderlichen Auskünfte zu erteilen. Die Erhebungsrechte des Bundesrechnungshofes nach Artikel 114 Absatz 2 Satz 2 des Grundgesetzes in Verbindung mit § 91 Absatz 1 Nummer 5 der Bundeshaushaltsordnung bleiben unberührt.
+(1) Die zuständigen obersten Landesbehörden sind verpflichtet, dem Bundesministerium für Wirtschaft und Klimaschutz die zur Durchführung des Gesetzes erforderlichen Auskünfte zu erteilen. Die Erhebungsrechte des Bundesrechnungshofes nach Artikel 114 Absatz 2 Satz 2 des Grundgesetzes in Verbindung mit § 91 Absatz 1 Nummer 5 der Bundeshaushaltsordnung bleiben unberührt.
 
-(2) Die zuständigen obersten Landesbehörden übersenden dem Bundesministerium für Wirtschaft und Energie halbjährlich jeweils bis zum 1. April und zum 1. Oktober eines Jahres Übersichten über die zweckentsprechende Verwendung der Bundesmittel der abgeschlossenen Maßnahmen. Das Nähere regelt die Verwaltungsvereinbarung nach § 10.
+(2) Die zuständigen obersten Landesbehörden übersenden dem Bundesministerium für Wirtschaft und Klimaschutz halbjährlich jeweils bis zum 1. April und zum 1. Oktober eines Jahres Übersichten über die zweckentsprechende Verwendung der Bundesmittel der abgeschlossenen Maßnahmen. Das Nähere regelt die Verwaltungsvereinbarung nach § 10.
 
 (3) Die zuständigen obersten Landesbehörden übersenden dem Koordinierungsgremium nach § 25 jährlich zum 1. Oktober einen Bericht zur Umsetzung der Maßnahmen. Dieser enthält insbesondere Informationen zur Erreichung der in § 1 genannten Förderziele und der in § 4 Absatz 1 genannten Förderbereiche.
 
@@ -205,7 +205,7 @@ Der Bund fördert zweckgebunden Wissenschaft, Forschung, Lehre und Bildung in de
 
 # § 15 – Bundesförderprogramm
 
-(1) Das Bundesministerium für Wirtschaft und Energie wird unter Einhaltung des europäischen Beihilfenrechts ein Bundesförderprogramm auflegen. Das Programm unterstützt Projekte, die dazu beitragen, die in den §§ 2, 11 und 12 genannten Gemeinden und Gemeindeverbände zu bundesweiten Modellregionen einer treibhausgasneutralen, ressourceneffizienten und nachhaltigen Entwicklung zu wandeln. Die Länder sind verpflichtet, Begleitgremien unter Beteiligung der für die Regionalentwicklung maßgeblichen Akteure und der Sozialpartner einzurichten. Die Einzelheiten, wie dies durch das Bundesprogramm unterstützt werden kann, werden durch eine Förderrichtlinie des Bundesministeriums für Wirtschaft und Energie geregelt.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird unter Einhaltung des europäischen Beihilfenrechts ein Bundesförderprogramm auflegen. Das Programm unterstützt Projekte, die dazu beitragen, die in den §§ 2, 11 und 12 genannten Gemeinden und Gemeindeverbände zu bundesweiten Modellregionen einer treibhausgasneutralen, ressourceneffizienten und nachhaltigen Entwicklung zu wandeln. Die Länder sind verpflichtet, Begleitgremien unter Beteiligung der für die Regionalentwicklung maßgeblichen Akteure und der Sozialpartner einzurichten. Die Einzelheiten, wie dies durch das Bundesprogramm unterstützt werden kann, werden durch eine Förderrichtlinie des Bundesministeriums für Wirtschaft und Klimaschutz geregelt.
 
 (2) Im Rahmen des Förderprogramms werden auch lokale Bündnisse zwischen Gemeinden und Sozialpartnern, insbesondere Revierbegleitausschüsse, gefördert, die bei der Erarbeitung und Umsetzung der regionalen Entwicklungspläne und -maßnahmen eingebunden werden.
 
@@ -231,7 +231,7 @@ Der Bund wird unter Einhaltung des europäischen Beihilfenrechts und vorrangig z
 
 2. Erweiterung des Programms mFUND um ein Programmmodul „Digitalisierung und datenbasierte Innovationen für Mobilität 4.0 und Daseinsvorsorge in den Braunkohlerevieren“,
 
-3. Aufstockung bestehender Förderprogramme des Bundesministeriums für Verkehr und digitale Infrastruktur im Bereich alternativer Antriebe und Kraftstoffe oder Elektromobilität sowohl für die Straße als auch die Schiene,
+3. Aufstockung bestehender Förderprogramme des Bundesministeriums für Wirtschaft und Klimaschutz im Bereich alternativer Antriebe und Kraftstoffe oder Elektromobilität sowohl für die Straße als auch die Schiene,
 
 4. Fortführung und Weiterentwicklung des Programms „Unternehmen Revier“ zur Förderung von Maßnahmen zur Strukturanpassung in Braunkohleregionen,
 
@@ -301,7 +301,7 @@ Die Bundesregierung wird innerhalb des Finanzrahmens weitere Maßnahmen vorrangi
 
 # § 19 – Einrichtung einer Beratungs- und Koordinierungsstelle zur Dezentralisierung von Bundesaufgaben
 
-(1) Beim Bundesministerium des Innern, für Bau und Heimat wird eine Beratungs- und Koordinierungsstelle zur Dezentralisierung von Bundesaufgaben eingerichtet.
+(1) Beim Bundesministerium des Innern und für Heimat wird eine Beratungs- und Koordinierungsstelle zur Dezentralisierung von Bundesaufgaben eingerichtet.
 
 (2) Die Stelle nimmt mit Blick auf die Ansiedlung und Verstärkung von Behörden des Bundes und sonstigen Bundeseinrichtungen sowie zur Erreichung des Ziels nach § 18 folgende Aufgaben wahr:
 
@@ -331,21 +331,21 @@ Zur Förderung der Gebiete nach § 2 wird ergänzend zu den Vorhaben der Anlage 
 
 # § 23 – Sofortvollzug
 
-Für die Bau- und Ausbauvorhaben nach den §§ 20 und 21 sind die Bestimmungen des § 17e Absatz 2 und 4 des Bundesfernstraßengesetzes und des § 18e Absatz 2 und 4 des Allgemeinen Eisenbahngesetzes entsprechend anzuwenden.
+Für die Bau- und Ausbauvorhaben nach den §§ 20 und 21 sind die Bestimmungen des § 17e des Bundesfernstraßengesetzes und des § 18e des Allgemeinen Eisenbahngesetzes entsprechend anzuwenden.
 
 # § 24 – Transparenz zur Sicherstellung ausreichender Planungskapazitäten
 
-(1) Vor Beginn der Planung und Umsetzung einer der in Kapitel 4 genannten Maßnahmen, die nicht Bestandteil des Maßnahmengesetzvorbereitungsgesetzes und keine Maßnahmen nach Anlage 4 Abschnitt 2 Nummer 25 bis 28 sind, legt das Bundesministerium für Verkehr und digitale Infrastruktur dem Ausschuss für Verkehr und digitale Infrastruktur und dem Haushaltsausschuss des Deutschen Bundestages einen Bericht vor. Dieser Bericht enthält neben einer Beschreibung der Maßnahme eine Stellungnahme, ob und in welchem Umfang ausreichend Planungskapazitäten und Haushaltsmittel für die jeweilige Maßnahme vorhanden sind, die eine Umsetzung der jeweiligen Maßnahme ohne Konkurrenz zu anderen Maßnahmen des Bedarfsplans für die Bundesfernstraßen gemäß der Anlage des Fernstraßenausbaugesetzes in der Fassung der Bekanntmachung vom 20. Januar 2005 (BGBl. I S. 201), das zuletzt durch Artikel 1 des Gesetzes vom 23. Dezember 2016 (BGBl. I S. 3354) geändert worden ist, und des Bedarfsplans für die Bundeschienenwege gemäß der Anlage des Bundesschienenwegeausbaugesetzes vom 15. November 1993 (BGBl. I S. 1874), das zuletzt durch Artikel 1 des Gesetzes vom 23. Dezember 2016 (BGBl. I S. 3221) geändert worden ist, gewährleisten.
+(1) Vor Beginn der Planung und Umsetzung einer der in Kapitel 4 genannten Maßnahmen, die nicht Bestandteil des Maßnahmengesetzvorbereitungsgesetzes und keine Maßnahmen nach Anlage 4 Abschnitt 2 Nummer 25 bis 28 sind, legt das Bundesministerium für Digitales und Verkehr dem Ausschuss für Verkehr und digitale Infrastruktur und dem Haushaltsausschuss des Deutschen Bundestages einen Bericht vor. Dieser Bericht enthält neben einer Beschreibung der Maßnahme eine Stellungnahme, ob und in welchem Umfang ausreichend Planungskapazitäten und Haushaltsmittel für die jeweilige Maßnahme vorhanden sind, die eine Umsetzung der jeweiligen Maßnahme ohne Konkurrenz zu anderen Maßnahmen des Bedarfsplans für die Bundesfernstraßen gemäß der Anlage des Fernstraßenausbaugesetzes in der Fassung der Bekanntmachung vom 20. Januar 2005 (BGBl. I S. 201), das zuletzt durch Artikel 1 des Gesetzes vom 23. Dezember 2016 (BGBl. I S. 3354) geändert worden ist, und des Bedarfsplans für die Bundeschienenwege gemäß der Anlage des Bundesschienenwegeausbaugesetzes vom 15. November 1993 (BGBl. I S. 1874), das zuletzt durch Artikel 1 des Gesetzes vom 23. Dezember 2016 (BGBl. I S. 3221) geändert worden ist, gewährleisten.
 
-(2) Nimmt der Ausschuss für Verkehr und digitale Infrastruktur und der Haushaltsausschuss des Deutschen Bundestages den Bericht nach Absatz 1 zustimmend zur Kenntnis, kann das Bundesministerium für Verkehr und digitale Infrastruktur dem jeweiligen Vorhabenträger die Zustimmung zur Planung und Umsetzung der in Kapitel 4 genannten Maßnahme erteilen. Liegt keine zustimmende Kenntnisnahme vor, kann der Bericht überarbeitet und erneut vorgelegt werden.
+(2) Nimmt der Ausschuss für Verkehr und digitale Infrastruktur und der Haushaltsausschuss des Deutschen Bundestages den Bericht nach Absatz 1 zustimmend zur Kenntnis, kann das Bundesministerium für Digitales und Verkehr dem jeweiligen Vorhabenträger die Zustimmung zur Planung und Umsetzung der in Kapitel 4 genannten Maßnahme erteilen. Liegt keine zustimmende Kenntnisnahme vor, kann der Bericht überarbeitet und erneut vorgelegt werden.
 
-(3) Zum Zwecke der Berichterstellung nach Absatz 1 kann das Bundesministerium für Verkehr und digitale Infrastruktur von der Autobahn GmbH des Bundes, den Ländern, dem Eisenbahninfrastrukturunternehmen, dem Fernstraßen-Bundesamt und dem Eisenbahn-Bundesamt die dafür notwendigen Informationen einholen.
+(3) Zum Zwecke der Berichterstellung nach Absatz 1 kann das Bundesministerium für Digitales und Verkehr von der Autobahn GmbH des Bundes, den Ländern, dem Eisenbahninfrastrukturunternehmen, dem Fernstraßen-Bundesamt und dem Eisenbahn-Bundesamt die dafür notwendigen Informationen einholen.
 
 # § 25 – Bund-Länder-Koordinierungsgremium
 
 (1) Die Bundesregierung und die Regierungen der Länder Brandenburg, Nordrhein-Westfalen, Freistaat Sachsen und Sachsen-Anhalt bilden ein Koordinierungsgremium. Dieses begleitet und unterstützt die Bundesregierung und die Regierungen der Länder bei der Durchführung und Umsetzung der Maßnahmen insbesondere nach § 4 und stellt den Projektfluss sicher. Es prüft die Umsetzung entsprechend den Leitbildern, Förderzielen und Förderbereichen. Hierzu analysiert es aktuelle Entwicklungen, berichtet und empfiehlt bei Bedarf entsprechende Anpassungen. Die Empfehlungen sind nicht bindend. Das Koordinierungsgremium ist für die in den Kapiteln 1, 3 und 4 genannten Förderbereiche zuständig.
 
-(2) Das Koordinierungsgremium ist besetzt mit der fachlich zuständigen Vertreterin oder dem fachlich zuständigen Vertreter (Vertretung) auf Staatssekretärsebene des Bundesministeriums für Wirtschaft und Energie, des Bundesministeriums der Finanzen, des Bundesministeriums des Innern, für Bau und Heimat, des Bundesministeriums für Verkehr und digitale Infrastruktur, des Bundesministeriums für Bildung und Forschung, des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit, des Bundesministeriums für Arbeit und Soziales, des Bundesministeriums für Ernährung und Landwirtschaft sowie einer Vertretung für jedes Land nach § 1 Absatz 1 Satz 1. Die Vertretung des Bundesministeriums für Wirtschaft und Energie nach Satz 1 übt den Vorsitz aus. Jedes Mitglied kann sich vertreten lassen. Das Koordinierungsgremium kann bei Bedarf weitere Ressorts und Bundesbehörden sowie die für die Regionalentwicklung maßgeblichen Akteure und Sozialpartner beratend hinzuziehen.
+(2) Das Koordinierungsgremium ist besetzt mit der fachlich zuständigen Vertreterin oder dem fachlich zuständigen Vertreter (Vertretung) auf Staatssekretärsebene des Bundesministeriums für Wirtschaft und Klimaschutz, des Bundesministeriums der Finanzen, des Bundesministeriums des Innern und für Heimat, des Bundesministeriums für Digitales und Verkehr, des Bundesministeriums für Bildung und Forschung, des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz, des Bundesministeriums für Arbeit und Soziales, des Bundesministeriums für Ernährung und Landwirtschaft sowie einer Vertretung für jedes Land nach § 1 Absatz 1 Satz 1. Die Vertretung des Bundesministeriums für Wirtschaft und Energie nach Satz 1 übt den Vorsitz aus. Jedes Mitglied kann sich vertreten lassen. Das Koordinierungsgremium kann bei Bedarf weitere Ressorts und Bundesbehörden sowie die für die Regionalentwicklung maßgeblichen Akteure und Sozialpartner beratend hinzuziehen.
 
 (3) Jedes Land hat eine Stimme. Das Koordinierungsgremium beschließt mit der Stimme des Bundes und mindestens der Hälfte der Stimmen der Länder.
 
@@ -353,7 +353,7 @@ Für die Bau- und Ausbauvorhaben nach den §§ 20 und 21 sind die Bestimmungen d
 
 # § 26 – Evaluierung
 
-(1) Das Bundesministerium für Wirtschaft und Energie evaluiert die Anwendung der Vorschriften dieses Gesetzes und ihre Auswirkung auf die wirtschaftliche Dynamik in den Revieren nach § 2 auf wissenschaftlicher Grundlage alle zwei Jahre, erstmals zum 30. Juni 2023. Dabei sind insbesondere die Wirkungen der Maßnahmen nach den Kapiteln 1, 2 und 5 sowie nach Kapitel 3 mit Ausnahme der §§ 18 und 19 auf die Wertschöpfung, die Arbeitsmarktsituation und das kommunale Steueraufkommen zu untersuchen. Es berichtet hierüber dem Koordinierungsgremium nach § 25, dem Deutschen Bundestag und dem Bundesrat. Die betroffenen Länder, Gemeinden und Gemeindeverbände sind zur Mitwirkung verpflichtet.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz evaluiert die Anwendung der Vorschriften dieses Gesetzes und ihre Auswirkung auf die wirtschaftliche Dynamik in den Revieren nach § 2 auf wissenschaftlicher Grundlage alle zwei Jahre, erstmals zum 30. Juni 2023. Dabei sind insbesondere die Wirkungen der Maßnahmen nach den Kapiteln 1, 2 und 5 sowie nach Kapitel 3 mit Ausnahme der §§ 18 und 19 auf die Wertschöpfung, die Arbeitsmarktsituation und das kommunale Steueraufkommen zu untersuchen. Es berichtet hierüber dem Koordinierungsgremium nach § 25, dem Deutschen Bundestag und dem Bundesrat. Die betroffenen Länder, Gemeinden und Gemeindeverbände sind zur Mitwirkung verpflichtet.
 
 (2) Die Bundesregierung berichtet dem Haushaltsausschuss des Deutschen Bundestages jährlich bis zum 31. Oktober über die zweckentsprechende Verwendung der im Vorjahr nach diesem Gesetz verausgabten Mittel.
 

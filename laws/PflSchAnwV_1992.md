@@ -53,6 +53,8 @@ Die Verbote des Satzes 1 gelten auch in Gebieten von gemeinschaftlicher Bedeutun
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft untersucht die Anwendung der in Absatz 1 Satz 1 aufgeführten Pflanzenschutzmittel auf den in Absatz 1 Satz 2 bezeichneten Ackerflächen sowie die Maßnahmen, die zur Reduzierung der Anwendung dieser Pflanzenschutzmittel auf diesen Flächen ergriffen werden. Das Bundesministerium für Ernährung und Landwirtschaft erstattet dem Bundeskabinett bis spätestens 30. Juni 2024 Bericht über die Auswirkung der zur Reduzierung der Anwendung von Pflanzenschutzmitteln ergriffenen Maßnahmen. Dieser Bericht soll, sofern erforderlich, Vorschläge für Anpassungen der Regelungen des Absatzes 1 enthalten.
 
+(+++ Änderung durch Art. 2 Nr. 1 V v. 2.9.2021 I 4111 gem. § 2 V v. 12.12.2023 I Nr. 360 (VorlPflSchMAnwV) nicht anzuwenden +++)
+
 # § 4a – Verbot der Anwendung an Gewässern
 
 (1) Pflanzenschutzmittel dürfen an Gewässern, ausgenommen kleine Gewässer von wasserwirtschaftlich untergeordneter Bedeutung, innerhalb eines Abstandes von zehn Metern zum Gewässer, gemessen ab der Böschungsoberkante oder soweit keine Böschungsoberkante vorhanden ist ab der Linie des Mittelwasserstandes, nicht angewendet werden. Abweichend von Satz 1 beträgt der einzuhaltende Mindestabstand fünf Meter, wenn eine geschlossene, ganzjährig begrünte Pflanzendecke vorhanden ist. Eine Bodenbearbeitung zur Erneuerung des Pflanzenbewuchses darf einmal innerhalb von Fünfjahreszeiträumen durchgeführt werden. Der erste Fünfjahreszeitraum beginnt mit dem 1. Juli 2020. Sind mit der Zulassung des jeweiligen Pflanzenschutzmittels Anwendungsbestimmungen über größere Abstände oder über die zu verwendenden Pflanzenschutzgeräte festgelegt worden, bleibt die Pflicht zur Einhaltung dieser Anwendungsbestimmungen unberührt. Die Sätze 1 bis 4 gelten nicht, soweit ein Land Regelungen nach § 22 Absatz 1 Nummer 1 Buchstabe b des Pflanzenschutzgesetzes getroffen hat oder trifft, mit denen abweichende Gewässerabstände festgelegt werden.
@@ -100,6 +102,8 @@ bestehen oder einen solchen Stoff enthalten, in einem Wasserschutzgebiet oder He
 1. entgegen § 2, § 3 Absatz 1 oder 2, § 4 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder § 4a Absatz 1 Satz 1 ein Pflanzenschutzmittel anwendet oder
 
 2. einer vollziehbaren Anordnung nach § 3 Absatz 3 zuwiderhandelt.
+
+(+++ Änderung durch Art. 2 V v. 1.6.2022 I 867 gem. § 2 V v. 12.12.2023 I Nr. 360 (VorlPflSchMAnwV) nicht anzuwenden +++)
 
 # § 9 – Generelles Anwendungsverbot
 
@@ -783,3 +787,5 @@ Thiofanox
  
 
  
+
+(+++ Änderung durch Art. 2 Nr. 2 V v. 2.9.2021 I 4111 gem. § 2 V v. 12.12.2023 I Nr. 360 (VorlPflSchMAnwV) nicht anzuwenden +++)
