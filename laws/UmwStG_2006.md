@@ -214,7 +214,7 @@ Diese Teile gelten nicht für die Ausgliederung im Sinne des § 123 Abs. 3 des U
 
 (3) Der Sechste bis Achte Teil gilt nur für
 
-1. die Verschmelzung, Aufspaltung und Abspaltung im Sinne der §§ 2 und 123 Abs. 1 und 2 des Umwandlungsgesetzes von Personenhandelsgesellschaften und Partnerschaftsgesellschaften oder vergleichbare ausländische Vorgänge;
+1. die Verschmelzung, Aufspaltung und Abspaltung im Sinne der §§ 2 und 123 Abs. 1 und 2 des Umwandlungsgesetzes von Personengesellschaften oder vergleichbare ausländische Vorgänge;
 
 2. die Ausgliederung von Vermögensteilen im Sinne des § 123 Abs. 3 des Umwandlungsgesetzes oder vergleichbare ausländische Vorgänge;
 

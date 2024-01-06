@@ -11,17 +11,21 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht (Anstalt) verwaltet das dur
 
 Beitragspflichtige Institute sind alle vom Anwendungsbereich gemäß § 1 des Sanierungs- und Abwicklungsgesetzes erfassten
 
-1. CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes mit Ausnahme der Unternehmen im Sinne von Artikel 2 Absatz 5 der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338),
+1. CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes mit Ausnahme der Unternehmen im Sinne von Artikel 2 Absatz 5 der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S. 1; L 203 vom 26.6.2020, S. 95; L 436 vom 28.12.2020, S. 77), die zuletzt durch die Verordnung (EU) 2023/1114 (ABl. L 150 vom 9.6.2023, S. 40), geändert worden ist,
 
 2. Wertpapierinstitute im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes, die gemäß § 17 Absatz 1 Nummer 1 Buchstabe a des Wertpapierinstitutsgesetzes mit einem Anfangskapital im Gegenwert von mindestens 750 000 Euro auszustatten sind, und
 
 3. inländische Unionszweigstellen im Sinne des § 2 Absatz 3 Nummer 31 des Sanierungs- und Abwicklungsgesetzes (Unionszweigstellen),
 
-für die im Beitragsjahr eine Erlaubnis nach dem Kreditwesengesetz bestand. Die Beitragspflicht eines Instituts endet mit Ablauf des Kalenderjahres, in dem die Erlaubnis des Instituts erlischt oder aufgehoben wird.
+für die im Beitragsjahr eine Erlaubnis nach dem Kreditwesengesetz oder nach dem Wertpapierinstitutsgesetz bestand. Die Beitragspflicht eines Instituts endet mit Ablauf des Kalenderjahres, in dem die Erlaubnis des Instituts erlischt oder aufgehoben wird.
 
 # § 2a – Begriffsbestimmungen
 
-(1) Wertpapierinstitut unter Einzelaufsicht ist ein Wertpapierinstitut im Sinne des § 2 Nummer 2.
+(1) Wertpapierinstitut unter Einzelaufsicht ist ein Wertpapierinstitut im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes, das
+
+1. nach § 17 Absatz 1 Nummer 1 Buchstabe a des Wertpapierinstitutsgesetzes mit einem Anfangskapital im Gegenwert von mindestens 750 000 Euro auszustatten ist und
+
+2. nicht nach Artikel 4 Absatz 1 Buchstabe g der Verordnung (EU) Nr. 1024/2013 des Rates vom 15. Oktober 2013 zur Übertragung besonderer Aufgaben im Zusammenhang mit der Aufsicht über Kreditinstitute auf die Europäische Zentralbank (ABl. L 287 vom 29.10.2013, S. 63; L 218 vom 19.8.2015, S. 82) in die Beaufsichtigung ihres Mutterunternehmens auf konsolidierter Basis durch die Europäische Zentralbank einbezogen ist.
 
 (2) Für die Zwecke dieses Gesetzes gelten die folgenden Definitionen des Sanierungs- und Abwicklungsgesetzes:
 

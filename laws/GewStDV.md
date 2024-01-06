@@ -37,7 +37,7 @@ Bei Binnen- und Küstenschifffahrtsbetrieben, die feste örtliche Anlagen oder E
 
 # § 8 – Zusammenfassung mehrerer wirtschaftlicher Geschäftsbetriebe
 
-Werden von einer sonstigen juristischen Person des privaten Rechts oder einem nichtrechtsfähigen Verein (§ 2 Abs. 3 des Gesetzes) mehrere wirtschaftliche Geschäftsbetriebe unterhalten, so gelten sie als ein einheitlicher Gewerbebetrieb.
+Werden von einer sonstigen juristischen Person des privaten Rechts oder einem Verein ohne Rechtspersönlichkeit (§ 2 Abs. 3 des Gesetzes) mehrere wirtschaftliche Geschäftsbetriebe unterhalten, so gelten sie als ein einheitlicher Gewerbebetrieb.
 
 # § 9
 
@@ -113,7 +113,7 @@ Hebeberechtigte Gemeinde für die Betriebsstätten auf Kauffahrteischiffen, die 
 
 2. für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter Haftung), wenn sie nicht von der Gewerbesteuer befreit sind;
 
-3. für Genossenschaften einschließlich Europäischer Genossenschaften und für Versicherungsvereine auf Gegenseitigkeit, wenn sie nicht von der Gewerbesteuer befreit sind. Für sonstige juristische Personen des privaten Rechts und für nichtrechtsfähige Vereine ist eine Gewerbesteuererklärung nur abzugeben, soweit diese Unternehmen einen wirtschaftlichen Geschäftsbetrieb - ausgenommen Land- und Forstwirtschaft - unterhalten, dessen Gewerbeertrag im Erhebungszeitraum den Betrag von 5 000 Euro überstiegen hat;
+3. für Genossenschaften einschließlich Europäischer Genossenschaften und für Versicherungsvereine auf Gegenseitigkeit, wenn sie nicht von der Gewerbesteuer befreit sind. Für sonstige juristische Personen des privaten Rechts und für Vereine ohne Rechtspersönlichkeit ist eine Gewerbesteuererklärung nur abzugeben, soweit diese Unternehmen einen wirtschaftlichen Geschäftsbetrieb - ausgenommen Land- und Forstwirtschaft - unterhalten, dessen Gewerbeertrag im Erhebungszeitraum den Betrag von 5 000 Euro überstiegen hat;
 
 4. für Unternehmen von juristischen Personen des öffentlichen Rechts, wenn sie als stehende Gewerbebetriebe anzusehen sind und ihr Gewerbeertrag im Erhebungszeitraum den Betrag von 5 000 Euro überstiegen hat;
 

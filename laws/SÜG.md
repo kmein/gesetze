@@ -940,7 +940,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
 
 2. die §§ 42, 46, 51 Absatz 1 und 3, die §§ 52, 53, 54 Absatz 1 und 2 sowie die §§ 62, 64, 83 sind entsprechend anzuwenden.
 
-(2) Die Vorschriften des Ersten Abschnitts und die §§ 14 und 23 Nummer 3 des Bundesverfassungsschutzgesetzes auch in Verbindung mit § 12 des MAD-Gesetzes und § 18 des BND-Gesetzes sowie die §§ 1, 8 und § 10 Absatz 2 Satz 2 bis 6 des MAD-Gesetzes und § 8 des BND-Gesetzes finden Anwendung.
+(2) Die Vorschriften des Ersten Abschnitts und die §§ 14 und 23 Absatz 1 Satz 2 des Bundesverfassungsschutzgesetzes auch in Verbindung mit § 12 des MAD-Gesetzes und § 18 des BND-Gesetzes sowie die §§ 1, 8 und § 10 Absatz 2 Satz 2 bis 6 des MAD-Gesetzes und § 8 des BND-Gesetzes finden Anwendung.
 
 # § 36a – Unabhängige Datenschutzkontrolle
 

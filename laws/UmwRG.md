@@ -41,7 +41,7 @@ Dieses Gesetz findet auch Anwendung, wenn entgegen geltenden Rechtsvorschriften 
 
 2. § 17 Absatz 3 Satz 3 bis 5 und § 19 Absatz 2 Satz 5 bis 7 des Standortauswahlgesetzes sowie
 
-3. § 15 Absatz 3 Satz 2 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz, § 17a Absatz 5 Satz 1 des Energiewirtschaftsgesetzes, § 6 Absatz 9 Satz 1 des Windenergie-auf-See-Gesetzes, § 47 Absatz 4 und § 49 Absatz 3 des Gesetzes über die Umweltverträglichkeitsprüfung und andere entsprechende Rechtsvorschriften.
+3. § 15 Absatz 3 Satz 2 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz, § 6 Absatz 9 Satz 1 des Windenergie-auf-See-Gesetzes, § 47 Absatz 4 und § 49 Absatz 3 des Gesetzes über die Umweltverträglichkeitsprüfung und andere entsprechende Rechtsvorschriften.
 
 Die Sätze 1 und 2 gelten nicht, wenn eine Entscheidung im Sinne dieses Absatzes auf Grund einer Entscheidung in einem verwaltungsgerichtlichen Streitverfahren erlassen worden ist.
 

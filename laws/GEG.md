@@ -916,7 +916,7 @@ f) der Einstellungen von Bivalenzpunkt und Betriebsweise im Fall einer Wärmepum
 
 (5) Das Ergebnis der Prüfung und der etwaige Optimierungsbedarf hinsichtlich der Anforderungen nach Absatz 1 ist schriftlich festzuhalten und dem Verantwortlichen zum Nachweis zu übersenden. Die erforderlichen Optimierungsmaßnahmen sind innerhalb von einem Jahr nach der Betriebsprüfung durchzuführen. Das Ergebnis der Prüfung nach Satz 1 und ein Nachweis über die durchgeführten Arbeiten nach Satz 2 sind auf Verlangen dem Mieter unverzüglich vorzulegen. Satz 3 ist auf Pachtverhältnisse und auf sonstige Formen der entgeltlichen Nutzungsüberlassung von Gebäuden oder Wohnungen entsprechend anzuwenden.
 
-(+++ § 60a Abs. 5 Satz 4: Zur Anwendung vgl. § 60b Abs. 5 Satz 4 u. § 60c Abs. 4 Satz 3 +++)
+(+++ § 60a Abs. 5 Satz 4: Zur Anwendung ab 1.10.2024 vgl. § 60b Abs. 5 Satz 4 u. § 60c Abs. 4 Satz 3 +++)
 
 # § 61 – Verringerung und Abschaltung der Wärmezufuhr sowie Ein- und Ausschaltung elektrischer Antriebe
 

@@ -2480,21 +2480,29 @@ Die Zeit einer vor dem 1. Juli 2020 bereits beendeten Verwendung im Dienst einer
 
 5. der Pflegeausgleich nach § 40b des Bundesversorgungsgesetzes.
 
-Die Anpassung nach § 56 des Bundesversorgungsgesetzes wird ab dem 1. Januar 2024 auf den erhöhten Betrag durchgeführt.
+Die Anpassung nach § 56 des Bundesversorgungsgesetzes wird ab dem 1. Januar 2024 auf den erhöhten Betrag durchgeführt. Beträge sind bis 0,49 Euro auf volle Euro abzurunden und ab 0,50 Euro auf volle Euro aufzurunden.
 
 (3) Das Bundesministerium der Verteidigung hat durch Rechtsverordnung ohne Zustimmung des Bundesrates die in den §§ 14, 15, 31 Absatz 1 und 4, 32, 33 Absatz 1, §§ 33a, 35, 36, 40, 41, 46, 47, 51 und 53 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung bestimmten Beträge jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden, zu ändern. Dabei sind die in § 15 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung genannten Pauschbeträge durch Multiplikation der niedrigsten und der höchsten Bewertungszahl mit dem Multiplikator zu ermitteln. Die sich nach Satz 1 und 2 ergebenden Beträge sind bis 0,49 Euro auf volle Euro abzurunden und ab 0,50 Euro auf volle Euro aufzurunden.
 
-(4) Soweit die Weiterbewilligung der Leistung für Zeiten ab dem 1. Januar 2024 beantragt wird, richtet sich der Einsatz von Einkommen und Vermögen nach dem Bundesversorgungsgesetz und nach der Verordnung zur Kriegsopferfürsorge, jeweils in der am 31. Dezember 2023 geltenden Fassung, mit der folgenden Maßgabe, dass
+(4) Soweit die Weiterbewilligung der Leistung für Zeiten ab dem 1. Januar 2024 beantragt wird, richtet sich der Einsatz von Einkommen und Vermögen nach dem Bundesversorgungsgesetz und nach der Verordnung zur Kriegsopferfürsorge, jeweils in der am 31. Dezember 2023 geltenden Fassung. Soweit es für die berechtigte Person günstiger ist, richtet sich der Einsatz von Einkommen und Vermögen nach Satz 1 mit der Maßgabe, dass
 
 1. an die Stelle der Einkommensgrenze nach § 25e Absatz 1 in der am 31. Dezember 2023 geltenden Fassung des Bundesversorgungsgesetzes die Einkommensgrenze nach § 107 Absatz 1 des Sozialgesetzbuchs Vierzehntes Buch tritt,
 
-2. an die Stelle des Grundbetrags nach § 27d Absatz 5 Satz 2 Nummer 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung ein Betrag in Höhe des Vierfachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch tritt,
+2. an die Stelle des Grundbetrags nach § 26c Absatz 5 Satz 1 Nummer 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung ein Betrag in Höhe des Vierfachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch tritt,
 
-3. an die Stelle des Grundbetrags nach § 27d Absatz 5 Satz 2 Nummer 2 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung ein Betrag in Höhe des Achtfachen der Regelbedarfsstufe 1 tritt,
+3. an die Stelle des Grundbetrags nach § 26c Absatz 5 Satz 1 Nummer 2 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung ein Betrag in Höhe des Achtfachen der Regelbedarfsstufe 1 tritt,
 
 4. an die Stelle der Einkommensfreibeträge nach der Verordnung zur Kriegsopferfürsorge in der am 31. Dezember 2023 geltenden Fassung die Einkommensfreibeträge der Verordnung nach § 109 des Sozialgesetzbuchs Vierzehntes Buch treten und
 
-5. an die Stelle der Vermögensschonbeträge nach § 25f des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung in Verbindung mit der Verordnung zur Kriegsopferfürsorge in der am 31. Dezember 2023 geltenden Fassung die Vermögensschonbeträge der Verordnung nach § 109 des Sozialgesetzbuchs Vierzehntes Buch treten.
+5. bei der Ermittlung der Vermögensschonbeträge nach § 25f des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung an Stelle des Betrages von
+
+a) 40 Prozent des Bemessungsbetrages ein Betrag in Höhe des 40fachen der Regelbedarfsstufe 1 zugrunde gelegt wird,
+
+b) 35 Prozent des Bemessungsbetrages ein Betrag in Höhe des 35fachen der Regelbedarfsstufe 1 zugrunde gelegt wird,
+
+c) 20 Prozent des Bemessungsbetrages ein Betrag in Höhe des 20fachen der Regelbedarfsstufe 1 zugrunde gelegt wird und
+
+d) 2 Prozent des Bemessungsbetrages ein Betrag in Höhe des zweifachen der Regelbedarfsstufe 1 zugrunde gelegt wird.
 
 (5) Kapitel 23 des Sozialgesetzbuchs Vierzehntes Buch ist nicht anzuwenden.
 
