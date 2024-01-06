@@ -117,7 +117,7 @@ Die Bodenbeschaffenheit der Klassen- und Klassenabschnittsflächen ist anhand ei
 
 # § 12 – Anwendung der Abgabenordnung
 
-Sofern dieses Gesetz keine andere Regelung trifft, finden der Dritte Abschnitt des Ersten Teils (§§ 16 bis 29), der Dritte Teil (§§ 78 bis 133) und der Siebente Teil (§§ 347 bis 368) der Abgabenordnung Anwendung. Die Vorschriften über die gesonderte Feststellung von Einheitswerten (§§ 180 bis 183 der Abgabenordnung) sind entsprechend anzuwenden.
+Sofern dieses Gesetz keine andere Regelung trifft, finden der Dritte Abschnitt des Ersten Teils (§§ 16 bis 29), der Dritte Teil (§§ 78 bis 133) und der Siebente Teil (§§ 347 bis 368) der Abgabenordnung Anwendung. Die Vorschriften über die gesonderte Feststellung von Einheitswerten oder Grundsteuerwerten (§§ 180 bis 183a der Abgabenordnung) sind entsprechend anzuwenden.
 
 # § 13 – Offenlegung der Bodenschätzungsergebnisse
 
@@ -127,7 +127,7 @@ Sofern dieses Gesetz keine andere Regelung trifft, finden der Dritte Abschnitt d
 
 (3) Mit dem Ablauf der Offenlegungsfrist treten die Rechtswirkungen eines Feststellungsbescheids über die Ergebnisse der Bodenschätzung ein. Als Bekanntgabe gilt der letzte Tag der Offenlegungsfrist.
 
-(4) Die Offenlegung hat regelmäßig zu den üblichen Dienstzeiten in den Räumen des Finanzamts stattzufinden.
+(4) Die Offenlegung der Ergebnisse der Bodenschätzung soll zu den üblichen Dienstzeiten in den Räumen des Finanzamts stattfinden. Sie kann auch durch Veröffentlichung auf der Internetseite des Finanzamts oder der obersten Finanzbehörde des Landes erfolgen. § 122 Absatz 5 Satz 4 der Abgabenordnung gilt dabei entsprechend.
 
 # § 14 – Übernahme in das Liegenschaftskataster
 

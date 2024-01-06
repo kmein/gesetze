@@ -527,7 +527,11 @@ Zur Vereinfachung des Besteuerungsverfahrens wird das Bundesministerium der Fina
 
 (24) § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 und Absatz 4 und § 7 Absatz 3 in der am 1. Juli 2021 geltenden Fassung sind nicht anzuwenden, wenn die in § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 oder Absatz 4 oder § 7 Absatz 3 in der am 30. Juni 2021 geltenden Fassung geregelte Frist vor dem 1. Juli 2021 abgelaufen war.
 
-# §§ 24 bis 27 – (weggefallen)
+# § 24 – Rechtsfähige Personengesellschaften
+
+Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der Abgabenordnung) gelten für Zwecke der Grunderwerbsteuer als Gesamthand und deren Vermögen als Gesamthandsvermögen.
+
+# §§ 25 bis 27 – (weggefallen)
 
 # § 28
 

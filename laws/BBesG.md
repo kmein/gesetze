@@ -227,53 +227,49 @@ Erhält ein Beamter, Richter oder Soldat Sachbezüge, so werden diese unter Ber�
 
 (1) Die Besoldung wird entsprechend der Entwicklung der allgemeinen wirtschaftlichen und finanziellen Verhältnisse und unter Berücksichtigung der mit den Dienstaufgaben verbundenen Verantwortung durch Gesetz regelmäßig angepasst.
 
-(2) Ab dem 1. April 2022 gelten unter Berücksichtigung einer Erhöhung
+(2) Ab dem 1. März 2024 gelten die Monatsbeträge der Anlagen IV, V, VIII und IX unter Berücksichtigung einer Erhöhung
 
-1. des Grundgehalts,
+1. des Grundgehalts um 200 Euro und sodann um 5,3 Prozent,
 
-2. des Familienzuschlags mit Ausnahme der Erhöhungsbeträge für die Besoldungsgruppen A 3 bis A 5,
+2. des Familienzuschlags mit Ausnahme der Erhöhungsbeträge für die Besoldungsgruppen A 3 bis A 5 um 11,3 Prozent,
 
-3. der Amtszulagen und
+3. der Amtszulagen um 11,3 Prozent sowie
 
-4. der Anwärtergrundbeträge
+4. der Anwärtergrundbeträge um den Differenzbetrag zwischen den ab dem 1. April 2022 geltenden Monatsbeträgen und 52 Prozent der nach Nummer 1 ab dem 1. März 2024 für das jeweils niedrigste Eingangsamt der entsprechenden Laufbahngruppe geltenden Monatsbeträge des Grundgehalts.
 
-um jeweils 1,8 Prozent die Monatsbeträge der Anlagen IV, V, VIII und IX dieses Gesetzes.
+(3) Ab dem 1. März 2024 gelten für den Auslandszuschlag unter Berücksichtigung einer Erhöhung
 
-(3) Ab 1. April 2022 gelten für den Auslandszuschlag unter Berücksichtigung einer Erhöhung
+1. der Ober- und Untergrenzen der Grundgehaltsspannen um 200 Euro und sodann um 5,3 Prozent und
 
-1. der Ober- und Untergrenzen der Grundgehaltsspannen um 1,8 Prozent und
+2. der Monatsbeträge der Zonenstufen
 
-2. der Monatsbeträge der Zonenstufen um 1,44 Prozent
+a) nach § 53 Absatz 2 Satz 1 um 160 Euro und sodann um 4,24 Prozent und
+
+b) nach § 53 Absatz 2 Satz 3 um 9,04 Prozent
 
 die Monatsbeträge der Anlage VI.
 
-(4) Zur Abmilderung der zusätzlichen Belastung durch die COVID-19-Pandemie im Jahr 2020 wird Beamten und Soldaten eine einmalige Sonderzahlung gewährt. Die Höhe der Sonderzahlung beträgt
+(4) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise wird Beamten, Richtern und Soldaten für den Kalendermonat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240 Euro gewährt, wenn
 
-1. |                                       |           |
-|:--------------------------------------|----------:|
-| für die Besoldungsgruppen A 3 bis A 8 | 600 Euro, |
+1. das Dienstverhältnis am 1. Mai 2023 bestanden hat und
 
-2. |                                        |           |
-|:---------------------------------------|----------:|
-| für die Besoldungsgruppen A 9 bis A 12 | 400 Euro, |
+2. im Zeitraum vom 1. Januar 2023 bis 31. Mai 2023 mindestens an einem Tag ein Anspruch auf Dienst- oder Anwärterbezüge bestanden hat.
 
-3. |                                         |           |
-|:----------------------------------------|----------:|
-| für die Besoldungsgruppen A 13 bis A 15 | 300 Euro, |
+(5) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise wird Beamten, Richtern und Soldaten ferner für die Monate Juli 2023 bis Februar 2024 eine monatliche Sonderzahlung in Höhe von jeweils 220 Euro gewährt, wenn
 
-4. |              |           |
-|:-------------|----------:|
-| für Anwärter | 200 Euro. |
+1. das Dienstverhältnis in dem jeweiligen Kalendermonat besteht und
 
-Die Zahlung wird nur gewährt, wenn
+2. in dem jeweiligen Kalendermonat mindestens an einem Tag ein Anspruch auf Dienst- oder Anwärterbezüge besteht.
 
-1. das Dienstverhältnis am 1. Oktober 2020 bestanden hat und
+(6) Anwärtern werden die Sonderzahlungen nach den Absätzen 4 und 5 jeweils zur Hälfte gewährt.
 
-2. mindestens an einem Tag zwischen dem 1. März 2020 und dem 31. Oktober 2020 ein Anspruch auf Dienstbezüge aus einem Amt der Besoldungsgruppen A 3 bis A 15 oder auf Anwärterbezüge bestanden hat.
+(7) Für die Sonderzahlungen nach den Absätzen 4 und 5 gelten bei Teilzeitbeschäftigung § 6 Absatz 1 und bei begrenzter Dienstfähigkeit § 6a Absatz 1 bis 4 entsprechend. Maßgebend sind jeweils
 
-§ 6 Absatz 1 und § 6a Absatz 1 und 3 gelten entsprechend. Maßgebend sind jeweils die Verhältnisse am 1. Oktober 2020. Die Zahlung wird jedem Berechtigten nur einmal gewährt; ihr steht eine entsprechende Leistung aus einem anderen Rechtsverhältnis im öffentlichen Dienst des Bundes gleich. Die Zahlung bleibt bei der Berechnung der Zuschläge nach § 6 Absatz 2 bis 4 und § 6a Absatz 2 sowie bei sonstigen Bezügen unberücksichtigt.
+1. für die einmalige Sonderzahlung für den Kalendermonat Juni 2023 die Verhältnisse am 1. Mai 2023,
 
-(5) (weggefallen)
+2. für die Sonderzahlungen für die Kalendermonate Juli 2023 bis Februar 2024 die jeweiligen Verhältnisse am ersten Tag des jeweiligen Kalendermonats.
+
+(8) Leistungen aus einem anderen Rechtsverhältnis im öffentlichen Dienst des Bundes stehen den Sonderzahlungen nach den Absätzen 4 und 5 gleich und werden jedem Berechtigten nur einmal gewährt.
 
 # § 14a – Versorgungsrücklage
 
@@ -1380,6 +1376,22 @@ Die Ämter der Leiter von unteren Verwaltungsbehörden mit einem beim jeweiligen
 
 Den Grundamtsbezeichnungen beigefügte Zusätze bezeichnen die Funktionen, die diesen Ämtern zugeordnet werden können, nicht abschließend.
 
+3a. Ruhegehaltfähigkeit von Stellenzulagen
+
+(1) Zulagen nach den Nummern 4, 4a, 8, 9, 9a, 10 und 11 dieses Abschnitts gehören zu den ruhegehaltfähigen Dienstbezügen, wenn der Beamte oder Soldat
+
+1. mindestens zehn Jahre zulageberechtigend verwendet worden ist oder
+
+2. mindestens zwei Jahre zulageberechtigend verwendet worden ist und das Dienstverhältnis wegen Todes oder Dienstunfähigkeit infolge einer Krankheit, Verwundung oder sonstigen Beschädigung, die der Beamte oder Soldat ohne grobes Verschulden bei der Ausübung oder aus Veranlassung des Dienstes erlitten hat, beendet worden ist.
+
+(2) Eine Stellenzulage nach Nummer 9 ist darüber hinaus ruhegehaltfähig, wenn der Beamte oder Soldat mindestens zwei Jahre zulageberechtigend verwendet worden ist und infolge einer Krankheit, Verwundung oder sonstigen Beschädigung, die der Beamte oder Soldat ohne grobes Verschulden bei der Ausübung oder aus Veranlassung des Dienstes erlitten hat, nach amtsärztlicher Feststellung eine Polizeidiensttauglichkeit oder Feldjägerdiensttauglichkeit nicht mehr gegeben und aus diesem Grund ein Laufbahn- oder Verwendungswechsel erfolgt ist.
+
+(3) Eine Stellenzulage nach Nummer 10 ist darüber hinaus ruhegehaltfähig, wenn der Beamte oder Soldat mindestens zwei Jahre zulageberechtigend verwendet worden ist und infolge einer Krankheit, Verwundung oder sonstigen Beschädigung, die der Beamte oder Soldat ohne grobes Verschulden bei der Ausübung oder aus Veranlassung des Dienstes erlitten hat, nach amtsärztlicher Feststellung eine Feuerwehrdiensttauglichkeit nicht mehr gegeben und aus diesem Grund ein Verwendungswechsel erfolgt ist.
+
+(4) Der für die ruhegehaltfähige Zulage maßgebende Betrag ergibt sich aus der zum Zeitpunkt des letztmaligen Bezuges der Stellenzulage geltenden Anlage IX. Die Konkurrenzvorschriften bei den einzelnen Stellenzulagen gelten entsprechend auch bei den ruhegehaltfähigen Dienstbezügen.
+
+(5) Zeiten nach den Absätzen 1 bis 3 vor dem 1. Januar 2024 sind zu berücksichtigen. Als zulageberechtigende Zeiten werden auch solche Zeiträume berücksichtigt, während denen auf Grund von Konkurrenzvorschriften die Zulage nicht gewährt wurde.
+
 4. Zulage für militärische Führungsfunktionen
 
 (1) Eine Stellenzulage nach Anlage IX erhalten Soldaten in Besoldungsgruppen bis A 14
@@ -1470,7 +1482,7 @@ in einer Lehrtätigkeit im Einsatzführungsdienst,
 
 4. als Flugtechniker in der Bundespolizei oder als sonstige ständige Luftfahrzeugbesatzungsangehörige in der Bundeswehr.
 
-Die Stellenzulage erhöht sich um den Betrag nach Anlage IX für verantwortliche Luftfahrzeugführer, die mit der Berechtigung eines Kommandanten auf Flugzeugen verwendet werden, für die eine Mindestbesatzung von zwei Luftfahrzeugführern vorgeschrieben ist. Die Erhöhung gilt bis zum 31. Dezember 2023.
+Die Stellenzulage erhöht sich um den Betrag nach Anlage IX für verantwortliche Luftfahrzeugführer, die mit der Berechtigung eines Kommandanten auf Flugzeugen verwendet werden, für die eine Mindestbesatzung von zwei Luftfahrzeugführern vorgeschrieben ist. Die Erhöhung gilt bis zum 31. Dezember 2027.
 
 (2) Die zuletzt nach Absatz 1 Satz 1 gewährte Stellenzulage wird nach Beendigung der Verwendung, auch über die Besoldungsgruppe A 16 hinaus, für fünf Jahre weitergewährt, wenn der Beamte oder Soldat
 
@@ -1554,7 +1566,7 @@ Die Zulage erhalten unter den gleichen Voraussetzungen auch Beamte auf Widerruf,
 
 8c. Zulage für Beamte und Soldaten bei dem Bundesamt für Migration und Flüchtlinge
 
-(1) Beamte und Soldaten erhalten, wenn sie bei dem Bundesamt für Migration und Flüchtlinge verwendet werden, bis zum 31. Dezember 2023 eine Stellenzulage nach Anlage IX.
+(1) Beamte und Soldaten erhalten, wenn sie bei dem Bundesamt für Migration und Flüchtlinge verwendet werden, bis zum 31. Dezember 2027 eine Stellenzulage nach Anlage IX.
 
 (2) Durch die Stellenzulage werden die mit dem Dienst allgemein verbundenen Erschwernisse und Aufwendungen mit abgegolten.
 
@@ -1620,7 +1632,7 @@ Sind gleichzeitig mehrere Tatbestände nach Satz 1 Nummer 1 bis 3 erfüllt, wird
 
 11. Zulage für Beamte der Bundeswehr als Gebietsärzte sowie für Soldaten als Rettungsmediziner oder als Gebietsärzte
 
-(1) Eine Stellenzulage nach Anlage IX erhalten bis zum 31. Dezember 2023
+(1) Eine Stellenzulage nach Anlage IX erhalten bis zum 31. Dezember 2027
 
 1. Beamte der Bundeswehr der Besoldungsgruppen A 13 bis A 16 mit der Approbation als Arzt, die die Weiterbildung zum Gebietsarzt erfolgreich abgeschlossen haben und in diesem Fachgebiet in einer kurativen Sanitätseinrichtung der Bundeswehr verwendet werden,
 
@@ -2707,9 +2719,9 @@ Präsident des Bundessozialgerichts
 
 Präsident des Bundesverwaltungsgerichts
 
-# Anlage IV – (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2)Gültig ab 1. April 2022
+# Anlage IV – (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2)Gültig ab 1. März 2024
 
-(Fundstelle: BGBl. I 2021, 2458 - 2459)
+(Fundstelle: BGBl. 2023 I Nr. 414, S. 14 – 15)
 
 1\. Bundesbesoldungsordnung A
 
@@ -2738,257 +2750,258 @@ Stufe 8
 
 A 3 
 
-2 370,74
+2 706,99
 
-2 424,23
+2 763,31
 
-2 477,74
+2 819,66
 
-2 520,81
+2 865,01
 
-2 563,87
+2 910,36
 
-2 606,95
+2 955,72
 
-2 650,03
+3 001,08
 
-2 693,09
+3 046,42
 
 A 4 
 
-2 420,35
+2 759,23
 
-2 484,28
+2 826,55
 
-2 548,22
+2 893,88
 
-2 599,12
+2 947,47
 
-2 650,03
+3 001,08
 
-2 700,93
+3 054,68
 
-2 751,81
+3 108,26
 
-2 798,82
+3 157,76
 
 A 5 
 
-2 438,59
+2 778,44
 
-2 518,20
+2 862,26
 
-2 582,14
+2 929,59
 
-2 644,81
+2 995,58
 
-2 707,47
+3 061,57
 
-2 771,42
+3 128,91
 
-2 834,04
+3 194,84
 
-2 895,40
+3 259,46
 
 A 6 
 
-2 490,79
+2 833,40
 
-2 583,48
+2 931,00
 
-2 677,42
+3 029,92
 
-2 749,20
+3 105,51
 
-2 823,61
+3 183,86
 
-2 895,40
+3 259,46
 
-2 974,99
+3 343,26
 
-3 044,17
+3 416,11
 
 A 7 
 
-2 614,79
+2 963,97
 
-2 697,03
+3 050,57
 
-2 805,37
+3 164,65
 
-2 916,26
+3 281,42
 
-3 024,59
+3 395,49
 
-3 134,23
+3 510,94
 
-3 216,46
+3 597,53
 
-3 298,67
+3 684,10
 
 A 8 
 
-2 766,18
+3 123,39
 
-2 865,38
+3 227,85
 
-3 005,00
+3 374,87
 
-3 145,99
+3 523,33
 
-3 286,92
+3 671,73
 
-3 384,81
+3 774,80
 
-3 483,99
+3 879,24
 
-3 581,88
+3 982,32
 
 A 9 
 
-2 985,43
+3 354,26
 
-3 083,32
+3 457,34
 
-3 237,34
+3 619,52
 
-3 393,94
+3 784,42
 
-3 547,92
+3 946,56
 
-3 652,61
+4 056,80
 
-3 761,51
+4 171,47
 
-3 867,71
+4 283,30
 
 A 10
 
-3 195,55
+3 575,51
 
-3 329,98
+3 717,07
 
-3 524,46
+3 921,86
 
-3 719,80
+4 127,55
 
-3 918,78
+4 337,08
 
-4 057,26
+4 482,89
 
-4 195,70
+4 628,67
 
-4 334,22
+4 774,53
 
 A 11
 
-3 652,61
+4 056,80
 
-3 858,28
+4 273,37
 
-4 062,62
+4 488,54
 
-4 268,31
+4 705,13
 
-4 409,46
+4 853,76
 
-4 550,62
+5 002,40
 
-4 691,78
+5 151,04
 
-4 832,97
+5 299,72
 
 A 12
 
-3 916,11
+4 334,26
 
-4 159,44
+4 590,49
 
-4 404,10
+4 848,12
 
-4 647,41
+5 104,32
 
-4 816,81
+5 282,70
 
-4 983,50
+5 458,23
 
-5 151,55
+5 635,18
 
-5 322,29
+5 814,97
 
 A 13
 
-4 592,31
+5 046,30
 
-4 820,84
+5 286,94
 
-5 048,02
+5 526,17
 
-5 276,57
+5 766,83
 
-5 433,86
+5 932,45
 
-5 592,51
+6 099,51
 
-5 749,77
+6 265,11
 
-5 904,36
+6 427,89
 
 A 14
 
-4 722,70
+5 183,60
 
-5 017,10
+5 493,61
 
-5 312,87
+5 805,05
 
-5 607,27
+6 115,06
 
-5 810,26
+6 328,80
 
-6 014,63
+6 544,01
 
-6 217,60
+6 757,73
 
-6 421,96
+6 972,92
 
 A 15
 
-5 772,62
+6 289,17
 
-6 038,82
+6 569,48
 
-6 241,80
+6 783,22
 
-6 444,82
+6 997,00
 
-6 647,81
+7 210,74
 
-6 849,46
+7 423,08
 
-7 051,12
+7 635,43
 
-7 251,40
+7 846,32
 
 A 16
 
-6 368,18
+6 916,29
 
-6 677,40
+7 241,90
 
-6 911,29
+7 488,19
 
-7 145,22
+7 734,52
 
-7 377,79
+7 979,41
 
-7 613,07
+8 227,16
 
-7 846,97
+8 473,46
 
-8 078,22
+8 716,97
 
-Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10  
+Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
+
 Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6
 
 –  
@@ -2997,7 +3010,7 @@ für Beamte des mittleren Dienstes sowie
 –  
 für Soldaten in der Laufbahngruppe der Unteroffiziere sowie für Fahnenjunker und Seekadetten
 
-um 23,89 Euro.
+um 25,15 Euro.
 
 Es erhöht sich in den Besoldungsgruppen A 9 und A 10
 
@@ -3007,20 +3020,18 @@ für Beamte des gehobenen Dienstes sowie
 –  
 für Offiziere
 
-um 10,42 Euro.
+um 10,97 Euro.
 
 Beträge für die weggefallene Besoldungsgruppe A 2
 
-Die Beträge für die weggefallene Besoldungsgruppe A 2 macht das Bundesministerium des Innern, für Bau und Heimat im Bundesgesetzblatt bekannt.
+Die Beträge für die weggefallene Besoldungsgruppe A 2 macht das Bundesministerium des Innern und für Heimat im Bundesgesetzblatt bekannt.
 
-2\. Bundesbesoldungsordnung B  
-  
+2\. Bundesbesoldungsordnung B
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Besoldungsgruppe</th><th style="text-align: center;">Grundgehalt<br />
-(Monatsbetrag in Euro)</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">B 1 </td><td style="text-align: center;"> 7 251,40</td></tr><tr class="even"><td style="text-align: center;">B 2 </td><td style="text-align: center;"> 8 423,70</td></tr><tr class="odd"><td style="text-align: center;">B 3 </td><td style="text-align: center;"> 8 919,75</td></tr><tr class="even"><td style="text-align: center;">B 4 </td><td style="text-align: center;"> 9 438,66</td></tr><tr class="odd"><td style="text-align: center;">B 5 </td><td style="text-align: center;">10 034,23</td></tr><tr class="even"><td style="text-align: center;">B 6 </td><td style="text-align: center;">10 600,22</td></tr><tr class="odd"><td style="text-align: center;">B 7 </td><td style="text-align: center;">11 146,01</td></tr><tr class="even"><td style="text-align: center;">B 8 </td><td style="text-align: center;">11 717,33</td></tr><tr class="odd"><td style="text-align: center;">B 9 </td><td style="text-align: center;">12 425,82</td></tr><tr class="even"><td style="text-align: center;">B 10</td><td style="text-align: center;">14 626,52</td></tr><tr class="odd"><td style="text-align: center;">B 11</td><td style="text-align: center;">15 074,80</td></tr></tbody></table>
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Besoldungsgruppe</th><th style="text-align: center;">Grundgehalt<br />
+(Monatsbetrag in Euro)</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">B 1 </td><td style="text-align: center;"> 7 846,32</td></tr><tr class="even"><td style="text-align: center;">B 2 </td><td style="text-align: center;"> 9 080,76</td></tr><tr class="odd"><td style="text-align: center;">B 3 </td><td style="text-align: center;"> 9 603,10</td></tr><tr class="even"><td style="text-align: center;">B 4 </td><td style="text-align: center;">10 149,51</td></tr><tr class="odd"><td style="text-align: center;">B 5 </td><td style="text-align: center;">10 776,64</td></tr><tr class="even"><td style="text-align: center;">B 6 </td><td style="text-align: center;">11 372,63</td></tr><tr class="odd"><td style="text-align: center;">B 7 </td><td style="text-align: center;">11 947,35</td></tr><tr class="even"><td style="text-align: center;">B 8 </td><td style="text-align: center;">12 548,95</td></tr><tr class="odd"><td style="text-align: center;">B 9 </td><td style="text-align: center;">13 294,99</td></tr><tr class="even"><td style="text-align: center;">B 10</td><td style="text-align: center;">15 612,33</td></tr><tr class="odd"><td style="text-align: center;">B 11</td><td style="text-align: center;">16 084,36</td></tr></tbody></table>
 
-3\. Bundesbesoldungsordnung W  
-  
+3\. Bundesbesoldungsordnung W
 
 Besoldungsgruppe
 
@@ -3029,7 +3040,7 @@ Grundgehalt
 
 W 1
 
-5 046,69
+5 524,76
 
  
 
@@ -3041,23 +3052,25 @@ Stufe 3
 
 W 2
 
-6 269,77
+6 812,67
 
-6 638,59
+7 201,04
 
-7 007,40
+7 589,39
 
 W 3
 
-7 007,40
+7 589,39
 
-7 499,15
+8 107,20
 
-7 990,90
+8 625,02
 
 4\. Bundesbesoldungsordnung R
 
-Besoldungsgruppe
+Besol-  
+dungs-  
+gruppe
 
 Grundgehalt  
 (Monatsbetrag in Euro)
@@ -3080,49 +3093,49 @@ Stufe 8
 
 R 2 
 
- 5 580,37
+ 6 086,73
 
-5 866,75
+6 388,29
 
-6 151,76
+6 688,40
 
-6 541,62
+7 098,93
 
-6 934,14
+7 512,25
 
-7 325,37
+7 924,21
 
-7 717,93
+8 337,58
 
-8 110,48
+8 750,94
 
 |      |           |
 |:----:|:---------:|
-| R 3  |  8 919,75 |
-| R 5  | 10 034,23 |
-| R 6  | 10 600,22 |
-| R 7  | 11 146,01 |
-| R 8  | 11 717,33 |
-| R 9  | 12 425,82 |
-| R 10 | 15 074,80 |
+| R 3  |  9 603,10 |
+| R 5  | 10 776,64 |
+| R 6  | 11 372,63 |
+| R 7  | 11 947,35 |
+| R 8  | 12 548,95 |
+| R 9  | 13 294,99 |
+| R 10 | 16 084,36 |
 
 Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4
 
-Die Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4 macht das Bundesministerium des Innern, für Bau und Heimat im Bundesgesetzblatt bekannt.
+Die Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4 macht das Bundesministerium des Innern und für Heimat im Bundesgesetzblatt bekannt.
 
 (+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-10 v. 13.11.2018 I 1905 +++)
 
-# Anlage V – (zu § 39 Absatz 1 Satz 1)Gültig ab 1. April 2022
+# Anlage V – (zu § 39 Absatz 1 Satz 1)Gültig ab 1. März 2024
 
-(Fundstelle: BGBl. I 2021, 2460)
+(Fundstelle: BGBl. 2023 I Nr. 414, S. 16)
 
 Der Familienzuschlag erhöht sich
 
 –  
-für das zweite zu berücksichtigende Kind um 131,52 Euro,
+für das zweite zu berücksichtigende Kind um 146,38 Euro,
 
 –  
-für jedes weitere zu berücksichtigende Kind um 409,76 Euro.
+für jedes weitere zu berücksichtigende Kind um 456,06 Euro.
 
 Erhöhungsbeträge für die Besoldungsgruppen A 3 bis A 5 und für Anwärter des einfachen Dienstes
 
@@ -3170,15 +3183,15 @@ Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedriger
 Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 
 |                                   |             |
-|:----------------------------------|:------------|
-| – Besoldungsgruppen A 3 bis A 8:  | 129,62 Euro |
-| – Besoldungsgruppen A 9 bis A 12: | 137,60 Euro |
+|:----------------------------------|------------:|
+| – Besoldungsgruppen A 3 bis A 8:  | 144,27 Euro |
+| – Besoldungsgruppen A 9 bis A 12: | 153,15 Euro |
 
 (+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-10 v. 13.11.2019 I 1905 +++)
 
-# Anlage VI – (zu § 53 Absatz 2 Satz 1 und 3 sowie Absatz 3 Satz 1 und 4)Gültig ab 1. April 2022
+# Anlage VI – (zu § 53 Absatz 2 Satz 1 und 3 sowie Absatz 3 Satz 1 und 4)Gültig ab 1. März 2024
 
-(Fundstelle: BGBl. I 2021, 2461)
+(Fundstelle: BGBl. 2023 I Nr. 414, S. 17)
 
 VI.1 (Monatsbetrag in Euro)
 
@@ -3218,31 +3231,31 @@ spanne
 
  
 
-2 447,13
+2 787,43
 
-2 756,58
+3 113,28
 
-3 108,16
+3 483,49
 
-3 507,62
+3 904,12
 
-3 971,09
+4 392,16
 
-4 502,30
+4 951,52
 
-5 105,91
+5 587,12
 
-5 791,70
+6 309,26
 
-6 570,93
+7 129,79
 
-7 456,33
+8 062,11
 
-8 462,33
+9 121,43
 
-9 605,32
+10 325,00
 
-10 904,06
+11 692,57
 
  
 
@@ -3276,37 +3289,38 @@ bis
 
 ab
 
-2 447,12
+2 787,42
 
-2 756,57
+3 113,27
 
-3 108,15
+3 483,48
 
-3 507,61
+3 904,11
 
-3 971,08
+4 392,15
 
-4 502,29
+4 951,51
 
-5 105,90
+5 587,11
 
-5 791,69
+6 309,25
 
-6 570,92
+7 129,78
 
-7 456,32
+8 062,10
 
-8 462,32
+9 121,42
 
-9 605,31
+10 324,99
 
-10 904,05
+11 692,56
 
-12 379,72
+13 246,45
 
-12 379,73
+13 246,46
 
-Zonen- stufe
+Zonen-  
+stufe
 
  
 
@@ -3340,650 +3354,658 @@ Zonen- stufe
 
  1
 
-  818,22
+1 019,70
 
-  886,60
+1 090,98
 
-  959,97
+1 167,46
 
-1 042,03
+1 253,00
 
-1 130,34
+1 345,05
 
-1 228,55
+1 447,42
 
-1 335,47
+1 558,88
 
-1 453,63
+1 682,05
 
-1 584,20
+1 818,15
 
-1 729,67
+1 969,79
 
-1 888,84
+2 135,71
 
-1 955,99
+2 205,71
 
-2 026,85
+2 279,57
 
-2 102,72
+2 358,66
 
-2 183,56
+2 442,93
 
  2
 
-  910,20
+1 115,58
 
-  983,57
+1 192,06
 
-1 063,18
+1 275,04
 
-1 150,22
+1 365,77
 
-1 245,98
+1 465,59
 
-1 351,68
+1 575,78
 
-1 466,07
+1 695,02
 
-1 592,91
+1 827,23
 
-1 732,19
+1 972,42
 
-1 886,33
+2 133,09
 
-2 055,46
+2 309,40
 
-2 132,55
+2 389,75
 
-2 214,64
+2 475,32
 
-2 301,67
+2 566,04
 
-2 394,93
+2 663,26
 
  3
 
-1 001,00
+1 210,23
 
-1 080,59
+1 293,19
 
-1 166,37
+1 382,61
 
-1 259,64
+1 479,83
 
-1 362,87
+1 587,44
 
-1 474,77
+1 704,08
 
-1 597,88
+1 832,41
 
-1 732,19
+1 972,42
 
-1 880,14
+2 126,64
 
-2 043,02
+2 296,43
 
-2 220,88
+2 481,83
 
-2 309,15
+2 573,84
 
-2 402,40
+2 671,05
 
-2 501,88
+2 774,74
 
-2 606,32
+2 883,61
 
  4
 
-1 091,76
+1 304,83
 
-1 177,58
+1 394,29
 
-1 269,60
+1 490,22
 
-1 369,08
+1 593,91
 
-1 478,48
+1 707,95
 
-1 597,88
+1 832,41
 
-1 728,43
+1 968,50
 
-1 871,42
+2 117,55
 
-2 028,11
+2 280,89
 
-2 199,71
+2 459,76
 
-2 387,46
+2 655,47
 
-2 485,72
+2 757,90
 
-2 590,18
+2 866,79
 
-2 700,84
+2 982,14
 
-2 817,70
+3 103,95
 
  5
 
-1 183,80
+1 400,78
 
-1 274,58
+1 495,41
 
-1 372,82
+1 597,81
 
-1 478,48
+1 707,95
 
-1 594,14
+1 828,52
 
-1 720,97
+1 960,72
 
-1 859,00
+2 104,61
 
-2 009,47
+2 261,46
 
-2 174,84
+2 433,84
 
-2 356,39
+2 623,08
 
-2 554,10
+2 829,18
 
-2 662,30
+2 941,97
 
-2 777,93
+3 062,50
 
-2 899,79
+3 189,53
 
-3 030,34
+3 325,61
 
  6
 
-1 274,58
+1 495,41
 
-1 371,59
+1 596,53
 
-1 474,77
+1 704,08
 
-1 587,93
+1 822,04
 
-1 711,03
+1 950,36
 
-1 844,09
+2 089,06
 
-1 989,56
+2 240,70
 
-2 148,72
+2 406,61
 
-2 322,82
+2 588,09
 
-2 513,05
+2 786,39
 
-2 720,72
+3 002,86
 
-2 838,85
+3 126,00
 
-2 965,72
+3 258,25
 
-3 098,77
+3 396,94
 
-3 241,77
+3 546,01
 
  7
 
-1 366,59
+1 591,32
 
-1 468,56
+1 697,61
 
-1 577,98
+1 811,67
 
-1 697,32
+1 936,07
 
-1 826,68
+2 070,92
 
-1 967,19
+2 217,38
 
-2 121,37
+2 378,10
 
-2 288,00
+2 551,80
 
-2 470,78
+2 742,33
 
-2 669,74
+2 949,72
 
-2 887,36
+3 176,57
 
-3 016,68
+3 311,37
 
-3 153,46
+3 453,95
 
-3 298,95
+3 605,61
 
-3 453,14
+3 766,34
 
  8
 
-1 457,35
+1 685,93
 
-1 565,55
+1 798,71
 
-1 681,21
+1 919,28
 
-1 806,81
+2 050,20
 
-1 942,30
+2 191,44
 
-2 090,27
+2 345,68
 
-2 251,97
+2 514,24
 
-2 427,28
+2 696,98
 
-2 617,52
+2 895,29
 
-2 826,41
+3 113,03
 
-3 053,98
+3 350,25
 
-3 193,25
+3 495,43
 
-3 341,22
+3 649,67
 
-3 497,91
+3 813,01
 
-3 664,52
+3 986,68
 
  9
 
-1 549,34
+1 781,82
 
-1 662,54
+1 899,82
 
-1 784,38
+2 026,82
 
-1 916,19
+2 164,22
 
-2 059,21
+2 313,30
 
-2 214,64
+2 475,32
 
-2 382,50
+2 650,30
 
-2 566,54
+2 842,15
 
-2 765,47
+3 049,51
 
-2 983,11
+3 276,38
 
-3 220,59
+3 523,93
 
-3 369,82
+3 679,48
 
-3 528,99
+3 845,40
 
-3 696,84
+4 020,37
 
-3 875,92
+4 207,04
 
 10
 
-1 640,13
+1 876,46
 
-1 759,52
+2 000,91
 
-1 887,59
+2 134,41
 
-2 025,61
+2 278,28
 
-2 174,84
+2 433,84
 
-2 337,75
+2 603,65
 
-2 513,05
+2 786,39
 
-2 704,57
+2 986,03
 
-2 913,45
+3 203,76
 
-3 139,80
+3 439,71
 
-3 386,00
+3 696,35
 
-3 546,40
+3 863,55
 
-3 715,51
+4 039,83
 
-3 895,81
+4 227,78
 
-4 087,31
+4 427,40
 
 11
 
-1 730,95
+1 971,13
 
-1 856,50
+2 102,00
 
-1 989,56
+2 240,70
 
-2 135,05
+2 392,36
 
-2 291,72
+2 555,67
 
-2 460,83
+2 731,95
 
-2 644,89
+2 923,82
 
-2 843,85
+3 131,21
 
-3 060,21
+3 356,75
 
-3 296,44
+3 602,99
 
-3 552,63
+3 870,05
 
-3 722,99
+4 047,63
 
-3 903,26
+4 235,54
 
-4 096,03
+4 436,49
 
-4 299,96
+4 649,06
 
 12
 
-1 822,94
+2 067,02
 
-1 953,48
+2 203,09
 
-2 092,80
+2 348,32
 
-2 244,47
+2 506,42
 
-2 407,35
+2 676,21
 
-2 583,95
+2 860,29
 
-2 775,44
+3 059,90
 
-2 983,11
+3 276,38
 
-3 208,16
+3 510,97
 
-3 453,14
+3 766,34
 
-3 719,25
+4 043,73
 
-3 899,54
+4 231,66
 
-4 091,02
+4 431,26
 
-4 294,98
+4 643,87
 
-4 511,34
+4 869,40
 
 13
 
-1 913,73
+2 161,66
 
-2 050,48
+2 304,20
 
-2 195,95
+2 455,84
 
-2 352,67
+2 619,21
 
-2 523,02
+2 796,78
 
-2 707,06
+2 988,62
 
-2 906,03
+3 196,03
 
-3 122,38
+3 421,55
 
-3 356,15
+3 665,23
 
-3 609,82
+3 929,66
 
-3 885,85
+4 217,39
 
-4 076,13
+4 415,74
 
-4 278,81
+4 627,02
 
-4 493,90
+4 851,23
 
-4 722,75
+5 089,78
 
 14
 
-2 005,73
+2 257,56
 
-2 147,47
+2 405,31
 
-2 299,19
+2 563,46
 
-2 462,08
+2 733,26
 
-2 639,90
+2 918,62
 
-2 830,15
+3 116,93
 
-3 036,57
+3 332,10
 
-3 260,38
+3 565,40
 
-3 502,90
+3 818,21
 
-3 766,51
+4 092,99
 
-4 052,50
+4 391,11
 
-4 252,69
+4 599,79
 
-4 466,58
+4 822,75
 
-4 692,89
+5 058,65
 
-4 934,11
+5 310,10
 
 15
 
-2 096,50
+2 352,18
 
-2 244,47
+2 506,42
 
-2 401,18
+2 669,77
 
-2 571,49
+2 847,31
 
-2 755,55
+3 039,17
 
-2 953,26
+3 245,26
 
-3 168,38
+3 469,50
 
-3 399,68
+3 710,61
 
-3 650,87
+3 972,45
 
-3 923,20
+4 256,33
 
-4 219,12
+4 564,79
 
-4 430,51
+4 785,15
 
-4 654,31
+5 018,44
 
-4 893,11
+5 267,36
 
-5 145,50
+5 530,45
 
 16
 
-2 187,27
+2 446,79
 
-2 341,48
+2 607,54
 
-2 504,35
+2 777,32
 
-2 680,94
+2 961,40
 
-2 871,19
+3 159,71
 
-3 077,62
+3 374,90
 
-3 298,95
+3 605,61
 
-3 538,92
+3 855,75
 
-3 798,81
+4 126,66
 
-4 079,85
+4 419,62
 
-4 384,51
+4 737,20
 
-4 607,07
+4 969,19
 
-4 842,11
+5 214,20
 
-5 092,03
+5 474,72
 
-5 356,91
+5 750,83
 
 17
 
-2 279,30
+2 542,73
 
-2 438,46
+2 708,63
 
-2 607,57
+2 884,91
 
-2 790,35
+3 075,44
 
-2 988,08
+3 281,56
 
-3 200,71
+3 503,20
 
-3 429,51
+3 741,71
 
-3 678,19
+4 000,93
 
-3 946,81
+4 280,94
 
-4 236,53
+4 582,94
 
-4 551,13
+4 910,88
 
-4 783,67
+5 153,28
 
-5 029,85
+5 409,90
 
-5 291,00
+5 682,12
 
-5 569,54
+5 972,47
 
 18
 
-2 370,08
+2 637,36
 
-2 534,19
+2 808,42
 
-2 710,77
+2 992,49
 
-2 899,79
+3 189,53
 
-3 103,71
+3 402,09
 
-3 323,81
+3 631,52
 
-3 561,31
+3 879,09
 
-3 817,47
+4 146,11
 
-4 093,53
+4 433,88
 
-4 393,19
+4 746,25
 
-4 717,76
+5 084,58
 
-4 960,23
+5 337,33
 
-5 217,64
+5 605,65
 
-5 491,20
+5 890,81
 
-5 780,94
+6 192,84
 
 19
 
-2 462,08
+2 733,26
 
-2 631,20
+2 909,55
 
-2 813,98
+3 100,08
 
-3 009,23
+3 303,61
 
-3 219,34
+3 522,62
 
-3 446,92
+3 759,85
 
-3 691,88
+4 015,20
 
-3 955,51
+4 290,01
 
-4 241,53
+4 588,15
 
-4 549,90
+4 909,60
 
-4 884,41
+5 258,29
 
-5 136,79
+5 521,37
 
-5 405,40
+5 801,37
 
-5 690,18
+6 098,23
 
-5 992,32
+6 413,18
 
 20
 
-2 552,85
+2 827,87
 
-2 728,17
+3 010,63
 
-2 915,93
+3 206,35
 
-3 118,65
+3 417,66
 
-3 336,25
+3 644,49
 
-3 570,02
+3 888,17
 
-3 822,44
+4 151,30
 
-4 094,77
+4 435,17
 
-4 389,49
+4 742,39
 
-4 706,56
+5 072,90
 
-5 051,01
+5 431,96
 
-5 313,39
+5 705,46
 
-5 593,16
+5 997,09
 
-5 889,10
+6 305,58
 
-6 203,71
+6 633,53
 
 VI.2
 
-# Anlage VIII – (zu § 61)Gültig ab 1. April 2022
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 45%" /><col style="width: 55%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Zonen-<br />
+stufe</th><th style="text-align: center;">Monats-<br />
+betrag<br />
+in Euro</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;"> 1</td><td style="text-align: center;">172,20</td></tr><tr class="even"><td style="text-align: center;"> 2</td><td style="text-align: center;">189,82</td></tr><tr class="odd"><td style="text-align: center;"> 3</td><td style="text-align: center;">207,46</td></tr><tr class="even"><td style="text-align: center;"> 4</td><td style="text-align: center;">225,06</td></tr><tr class="odd"><td style="text-align: center;"> 5</td><td style="text-align: center;">244,06</td></tr><tr class="even"><td style="text-align: center;"> 6</td><td style="text-align: center;">261,67</td></tr><tr class="odd"><td style="text-align: center;"> 7</td><td style="text-align: center;">279,31</td></tr><tr class="even"><td style="text-align: center;"> 8</td><td style="text-align: center;">296,95</td></tr><tr class="odd"><td style="text-align: center;"> 9</td><td style="text-align: center;">314,54</td></tr><tr class="even"><td style="text-align: center;">10</td><td style="text-align: center;">332,20</td></tr><tr class="odd"><td style="text-align: center;">11</td><td style="text-align: center;">349,84</td></tr><tr class="even"><td style="text-align: center;">12</td><td style="text-align: center;">367,44</td></tr><tr class="odd"><td style="text-align: center;">13</td><td style="text-align: center;">385,07</td></tr><tr class="even"><td style="text-align: center;">14</td><td style="text-align: center;">402,71</td></tr><tr class="odd"><td style="text-align: center;">15</td><td style="text-align: center;">420,32</td></tr><tr class="even"><td style="text-align: center;">16</td><td style="text-align: center;">437,97</td></tr><tr class="odd"><td style="text-align: center;">17</td><td style="text-align: center;">455,61</td></tr><tr class="even"><td style="text-align: center;">18</td><td style="text-align: center;">473,21</td></tr><tr class="odd"><td style="text-align: center;">19</td><td style="text-align: center;">492,17</td></tr><tr class="even"><td style="text-align: center;">20</td><td style="text-align: center;">509,81</td></tr></tbody></table>
 
-(Fundstelle: BGBl. I 2021, 2462)
+# Anlage VIII – (zu § 61)Gültig ab 1. März 2024
 
-# Anlage IX – (zu den Anlagen I und III)Gültig ab 1. April 2022
+(Fundstelle: BGBl. 2023 I Nr. 414, S. 18)
 
-(Fundstelle: BGBl. I 2021, 2463 - 2466)
+  
+  
+
+# Anlage IX – (zu den Anlagen I und III)Gültig ab 1. März 2024
+
+(Fundstelle: BGBl. 2023 I Nr. 414, S. 19 – 23)

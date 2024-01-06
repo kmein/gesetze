@@ -33,7 +33,7 @@ Beschränkte Steuerpflicht
 
  
 
-Abgrenzung der Steuerpflicht bei nichtrechtsfähigen Personenvereinigungen und Vermögensmassen sowie bei Realgemeinden
+Abgrenzung der Steuerpflicht bei Personenvereinigungen und nicht rechtsfähigen Vermögensmassen sowie bei Realgemeinden
 
 § 3
 
@@ -433,7 +433,7 @@ Einlagen der Anteilseigner und Sonderausweis
 
 4. sonstige juristische Personen des privaten Rechts;
 
-5. nichtrechtsfähige Vereine, Anstalten, Stiftungen und andere Zweckvermögen des privaten Rechts;
+5. Vereine ohne Rechtspersönlichkeit, nicht rechtsfähige Anstalten, Stiftungen und andere Zweckvermögen des privaten Rechts;
 
 6. Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts.
 
@@ -497,9 +497,9 @@ c) die in § 8b Abs. 10 Satz 2 genannten Einnahmen oder Bezüge, die den sonstig
 
 (+++ § 2 Nr. 2: Zur erstmaligen Anwendung vgl. § 34 Abs. 2a +++)
 
-# § 3 – Abgrenzung der Steuerpflicht bei nichtrechtsfähigen Personenvereinigungen und Vermögensmassen sowie bei Realgemeinden
+# § 3 – Abgrenzung der Steuerpflicht bei Personenvereinigungen und nicht rechtsfähigen Vermögensmassen sowie bei Realgemeinden
 
-(1) Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen sind körperschaftsteuerpflichtig, wenn ihr Einkommen weder nach diesem Gesetz noch nach dem Einkommensteuergesetz unmittelbar bei einem anderen Steuerpflichtigen zu versteuern ist.
+(1) Personenvereinigungen, nicht rechtsfähige Anstalten, Stiftungen und andere Zweckvermögen sind körperschaftsteuerpflichtig, wenn ihr Einkommen weder nach diesem Gesetz noch nach dem Einkommensteuergesetz unmittelbar bei einem anderen Steuerpflichtigen zu versteuern ist.
 
 (2) ¹Hauberg-, Wald-, Forst- und Laubgenossenschaften und ähnliche Realgemeinden, die zu den in § 1 bezeichneten Steuerpflichtigen gehören, sind nur insoweit körperschaftsteuerpflichtig, als sie einen Gewerbebetrieb unterhalten oder verpachten, der über den Rahmen eines Nebenbetriebs hinausgeht. ²Im Übrigen sind ihre Einkünfte unmittelbar bei den Beteiligten zu versteuern.
 
@@ -703,7 +703,7 @@ Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6 Absatz 5 Satz
 
 (4) (weggefallen)
 
-(5) Bei Personenvereinigungen bleiben für die Ermittlung des Einkommens Beiträge, die auf Grund der Satzung von den Mitgliedern lediglich in ihrer Eigenschaft als Mitglieder erhoben werden, außer Ansatz.
+(5) Bei Körperschaften und Personenvereinigungen bleiben für die Ermittlung des Einkommens Beiträge, die auf Grund der Satzung von den Mitgliedern lediglich in ihrer Eigenschaft als Mitglieder erhoben werden, außer Ansatz.
 
 (6) Besteht das Einkommen nur aus Einkünften, von denen lediglich ein Steuerabzug vorzunehmen ist, so ist ein Abzug von Betriebsausgaben oder Werbungskosten nicht zulässig.
 
@@ -740,11 +740,11 @@ Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6 Absatz 5 Satz
 
 # § 8a – Betriebsausgabenabzug für Zinsaufwendungen bei Körperschaften (Zinsschranke)
 
-(1) ¹§ 4h Abs. 1 Satz 2 des Einkommensteuergesetzes ist mit der Maßgabe anzuwenden, dass anstelle des maßgeblichen Gewinns das maßgebliche Einkommen tritt. ²Maßgebliches Einkommen ist das nach den Vorschriften des Einkommensteuergesetzes und dieses Gesetzes ermittelte Einkommen mit Ausnahme der §§ 4h und 10d des Einkommensteuergesetzes und des § 9 Abs. 1 Nr. 2 dieses Gesetzes. ³Die §§ 8c und 8d gelten für den Zinsvortrag nach § 4h Absatz 1 Satz 5 des Einkommensteuergesetzes mit der Maßgabe entsprechend, dass stille Reserven im Sinne des § 8c Absatz 1 Satz 6 nur zu berücksichtigen sind, soweit sie die nach § 8c Absatz 1 Satz 5 und § 8d Absatz 2 Satz 1 abziehbaren nicht genutzten Verluste übersteigen. ⁴Auf Kapitalgesellschaften, die ihre Einkünfte nach § 2 Abs. 2 Nr. 2 des Einkommensteuergesetzes ermitteln, ist § 4h des Einkommensteuergesetzes sinngemäß anzuwenden.
+(1) ¹§ 4h Abs. 1 Satz 2 des Einkommensteuergesetzes ist mit der Maßgabe anzuwenden, dass anstelle des maßgeblichen Gewinns das maßgebliche Einkommen tritt. ²Maßgebliches Einkommen ist das nach den Vorschriften des Einkommensteuergesetzes und dieses Gesetzes ermittelte Einkommen mit Ausnahme der §§ 4h und 10d des Einkommensteuergesetzes und des § 9 Abs. 1 Nr. 2 dieses Gesetzes. ³Die §§ 8c und 8d gelten für den Zinsvortrag nach § 4h Absatz 1 Satz 5 des Einkommensteuergesetzes mit der Maßgabe entsprechend, dass stille Reserven im Sinne des § 8c Absatz 1 Satz 6 nur zu berücksichtigen sind, soweit sie die nach § 8c Absatz 1 Satz 5 und § 8d Absatz 2 Satz 1 abziehbaren nicht genutzten Verluste übersteigen. ⁴Bei Steuerpflichtigen im Sinne dieses Gesetzes gelten alle Einkünfte als in einem Betrieb im Sinne des § 4h Absatz 1 Satz 1 des Einkommensteuergesetzes erzielt.
 
-(2) § 4h Abs. 2 Satz 1 Buchstabe b des Einkommensteuergesetzes ist nur anzuwenden, wenn die Vergütungen für Fremdkapital an einen zu mehr als einem Viertel unmittelbar oder mittelbar am Grund- oder Stammkapital beteiligten Anteilseigner, eine diesem nahe stehende Person (§ 1 Abs. 2 des Außensteuergesetzes vom 8. September 1972 – BGBl. I S. 1713 –, das zuletzt durch Artikel 3 des Gesetzes vom 28. Mai 2007 – BGBl. I S. 914 – geändert worden ist, in der jeweils geltenden Fassung) oder einen Dritten, der auf den zu mehr als einem Viertel am Grund- oder Stammkapital beteiligten Anteilseigner oder eine diesem nahe stehende Person zurückgreifen kann, nicht mehr als 10 Prozent der die Zinserträge übersteigenden Zinsaufwendungen der Körperschaft im Sinne des § 4h Abs. 3 des Einkommensteuergesetzes betragen und die Körperschaft dies nachweist.
+(2) (weggefallen)
 
-(3) ¹§ 4h Abs. 2 Satz 1 Buchstabe c des Einkommensteuergesetzes ist nur anzuwenden, wenn die Vergütungen für Fremdkapital der Körperschaft oder eines anderen demselben Konzern zugehörenden Rechtsträgers an einen zu mehr als einem Viertel unmittelbar oder mittelbar am Kapital beteiligten Gesellschafter einer konzernzugehörigen Gesellschaft, eine diesem nahe stehende Person (§ 1 Abs. 2 des Außensteuergesetzes) oder einen Dritten, der auf den zu mehr als einem Viertel am Kapital beteiligten Gesellschafter oder eine diesem nahe stehende Person zurückgreifen kann, nicht mehr als 10 Prozent der die Zinserträge übersteigenden Zinsaufwendungen des Rechtsträgers im Sinne des § 4h Abs. 3 des Einkommensteuergesetzes betragen und die Körperschaft dies nachweist. ²Satz 1 gilt nur für Zinsaufwendungen aus Verbindlichkeiten, die in dem voll konsolidierten Konzernabschluss nach § 4h Abs. 2 Satz 1 Buchstabe c des Einkommensteuergesetzes ausgewiesen sind und bei Finanzierung durch einen Dritten einen Rückgriff gegen einen nicht zum Konzern gehörenden Gesellschafter oder eine diesem nahe stehende Person auslösen.
+(3) ¹§ 4h Absatz 2 Satz 1 Buchstabe c des Einkommensteuergesetzes ist nur anzuwenden, wenn die Vergütungen für Fremdkapital der Körperschaft oder eines anderen demselben Konzern zugehörenden Rechtsträgers an zu mindestens einem Viertel unmittelbar oder mittelbar am Kapital beteiligte Gesellschafter einer konzernzugehörigen Gesellschaft, diesen nahestehende Personen (§ 1 Absatz 2 des Außensteuergesetzes) oder Dritte, die auf zu mindestens einem Viertel am Kapital beteiligte Gesellschafter oder diesen nahestehende Personen zurückgreifen können, bezogen auf den jeweiligen Rechtsträger insgesamt nicht mehr als 10 Prozent der die Zinserträge übersteigenden Zinsaufwendungen des Rechtsträgers im Sinne des § 4h Absatz 3 des Einkommensteuergesetzes betragen und die Körperschaft dies nachweist. ²Satz 1 gilt nur für Zinsaufwendungen aus Verbindlichkeiten, die in dem voll konsolidierten Konzernabschluss nach § 4h Abs. 2 Satz 1 Buchstabe c des Einkommensteuergesetzes ausgewiesen sind und bei Finanzierung durch einen Dritten einen Rückgriff gegen einen nicht zum Konzern gehörenden Gesellschafter oder eine diesem nahe stehende Person auslösen.
 
 (+++ § 8a Abs 2 u. 3: Zur Anwendung vgl. § 34 Abs. 4 +++)
 
@@ -1304,7 +1304,7 @@ d) nach denen Versicherungsvereine auf Gegenseitigkeit von geringerer wirtschaft
 
 # § 34 – Schlussvorschriften
 
-(1) Diese Fassung des Gesetzes gilt, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum 2022.
+(1) Diese Fassung des Gesetzes gilt, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum 2024.
 
 (1a) § 1a in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050) ist erstmals für den Veranlagungszeitraum 2021 anzuwenden mit der Maßgabe, dass der Antrag erstmals für nach dem 31. Dezember 2021 beginnende Wirtschaftsjahre gestellt werden kann.
 
@@ -1322,7 +1322,7 @@ d) nach denen Versicherungsvereine auf Gegenseitigkeit von geringerer wirtschaft
 
 (3d) § 8 Absatz 8 Satz 6, § 8 Absatz 9 Satz 9, § 8c Absatz 2, § 8d Absatz 1 Satz 9, § 15 Satz 1 Nummer 1 Satz 2 und 3 und § 15 Satz 1 Nummer 1a in der Fassung des Artikels 3 des Gesetzes vom 27. Juni 2017 (BGBl. I S. 2074) sind auch für Veranlagungszeiträume vor 2017 anzuwenden, wenn der Steuerpflichtige einen Antrag nach § 52 Absatz 4a Satz 3 des Einkommensteuergesetzes in der Fassung des Artikels 2 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) stellt.
 
-(4) § 8a Absatz 2 und 3 ist nicht anzuwenden, wenn die Rückgriffsmöglichkeit des Dritten allein auf der Gewährträgerhaftung einer Gebietskörperschaft oder einer anderen Einrichtung des öffentlichen Rechts gegenüber den Gläubigern eines Kreditinstituts für Verbindlichkeiten beruht, die bis zum 18. Juli 2001 vereinbart waren; Gleiches gilt für bis zum 18. Juli 2005 vereinbarte Verbindlichkeiten, wenn deren Laufzeit nicht über den 31. Dezember 2015 hinausgeht.
+(4) ¹§ 8a Absatz 2 und 3 ist nicht anzuwenden, wenn die Rückgriffsmöglichkeit des Dritten allein auf der Gewährträgerhaftung einer Gebietskörperschaft oder einer anderen Einrichtung des öffentlichen Rechts gegenüber den Gläubigern eines Kreditinstituts für Verbindlichkeiten beruht, die bis zum 18. Juli 2001 vereinbart waren; Gleiches gilt für bis zum 18. Juli 2005 vereinbarte Verbindlichkeiten, wenn deren Laufzeit nicht über den 31. Dezember 2015 hinausgeht. ²§ 8a in der am 31. Dezember 2023 geltenden Fassung ist weiter anzuwenden, soweit dieser auf § 4h des Einkommensteuergesetzes in der am 31. Dezember 2023 geltenden Fassung Bezug nimmt.
 
 (5) ¹§ 8b Absatz 1 Satz 3 in der Fassung des Artikels 2 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für Bezüge anzuwenden, die nach dem 31. Dezember 2019 zufließen. ²§ 8b Absatz 3 Satz 6 in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050) ist erstmals für Gewinnminderungen im Sinne des § 8b Absatz 3 Satz 4 und 5 anzuwenden, die nach dem 31. Dezember 2021 eintreten. ³§ 8b Absatz 4 in der am 12. Dezember 2006 geltenden Fassung ist für Anteile weiter anzuwenden, die einbringungsgeboren im Sinne des § 21 des Umwandlungssteuergesetzes in der am 12. Dezember 2006 geltenden Fassung sind, und für Anteile im Sinne des § 8b Absatz 4 Satz 1 Nummer 2, die auf einer Übertragung bis zum 12. Dezember 2006 beruhen. ⁴§ 8b Absatz 4 Satz 8 in der Fassung des Artikels 6 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Veranlagungszeitraum 2018 anzuwenden. ⁵§ 8b Absatz 7 Satz 1 in der am 1. Januar 2017 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2017 anzuwenden; § 8b Absatz 7 Satz 2 in der am 1. Januar 2017 geltenden Fassung ist anzuwenden auf Anteile, die nach dem 31. Dezember 2016 dem Betriebsvermögen zugehen.
 

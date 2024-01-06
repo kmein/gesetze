@@ -435,7 +435,7 @@ Die Gemeinden erheben eine Gewerbesteuer als Gemeindesteuer.
 
 (2) ¹Als Gewerbebetrieb gilt stets und in vollem Umfang die Tätigkeit der Kapitalgesellschaften (insbesondere Europäische Gesellschaften, Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter Haftung), Genossenschaften einschließlich Europäischer Genossenschaften sowie der Versicherungs- und Pensionsfondsvereine auf Gegenseitigkeit. ²Ist eine Kapitalgesellschaft Organgesellschaft im Sinne der § 14 oder § 17 des Körperschaftsteuergesetzes, so gilt sie als Betriebsstätte des Organträgers.
 
-(3) Als Gewerbebetrieb gilt auch die Tätigkeit der sonstigen juristischen Personen des privaten Rechts und der nichtrechtsfähigen Vereine, soweit sie einen wirtschaftlichen Geschäftsbetrieb (ausgenommen Land- und Forstwirtschaft) unterhalten.
+(3) Als Gewerbebetrieb gilt auch die Tätigkeit der sonstigen juristischen Personen des privaten Rechts und der Vereine ohne Rechtspersönlichkeit, soweit sie einen wirtschaftlichen Geschäftsbetrieb (ausgenommen Land- und Forstwirtschaft) unterhalten.
 
 (4) Vorübergehende Unterbrechungen im Betrieb eines Gewerbes, die durch die Art des Betriebs veranlasst sind, heben die Steuerpflicht für die Zeit bis zur Wiederaufnahme des Betriebs nicht auf.
 

@@ -755,6 +755,18 @@ Das Steuerkontrollsystem muss die steuerlichen Risiken laufend abbilden.
 
 (3) Systemprüfungen von Steuerkontrollsystemen und daraufhin nach Absatz 1 Satz 1 zugesagte Erleichterungen sind von den Landesfinanzbehörden bis zum 30. April 2029 zu evaluieren. Die obersten Finanzbehörden der Länder haben die Ergebnisse der Evaluierung dem Bundesministerium der Finanzen bis zum 30. Juni 2029 mitzuteilen.
 
+# § 39 – Übergangs- und Anwendungsbestimmungen anlässlich der steuerverfahrensrechtlichen Umsetzung der Reform des Personengesellschaftsrechts
+
+(1) § 152 Absatz 4 Satz 3 und § 181 Absatz 2 Satz 2 Nummer 1 und 4 der Abgabenordnung in der am 1. Januar 2024 geltenden Fassung sind erstmals auf Feststellungserklärungen anzuwenden, die nach dem 31. Dezember 2023 einzureichen sind; eine Verlängerung der Feststellungserklärungsfrist nach § 109 der Abgabenordnung ist hierbei nicht zu berücksichtigen.
+
+(2) Wird die Feststellungserklärung für eine rechtsfähige Personenvereinigung nach dem 31. Dezember 2023 und vor dem 1. Januar 2026 durch eine Person im Sinne des § 181 Absatz 2 Satz 2 Nummer 1 oder 4 der Abgabenordnung in der am 31. Dezember 2023 geltenden Fassung abgegeben, ist die rechtsfähige Personenvereinigung von ihrer Erklärungspflicht nach § 181 Absatz 2 Satz 2 Nummer 1 der Abgabenordnung in der am 1. Januar 2024 geltenden Fassung befreit.
+
+(3) Bei einer rechtsfähigen Personenvereinigung können Verwaltungsakte und Mitteilungen, die nach der Abgabenordnung und den Steuergesetzen mit der gesonderten und einheitlichen Feststellung zusammenhängen, nach dem 31. Dezember 2023 und vor dem 1. Januar 2026 abweichend von § 183 Absatz 1 bis 3 der Abgabenordnung in der am 1. Januar 2024 geltenden Fassung auch nach Maßgabe des § 183 der Abgabenordnung in der am 31. Dezember 2023 geltenden Fassung dem Empfangsbevollmächtigten wirksam bekannt gegeben werden.
+
+(4) Wird gegen einen vor dem 1. Januar 2024 wirksam gewordenen Bescheid über die gesonderte und einheitliche Feststellung von Besteuerungsgrundlagen Einspruch eingelegt, bestimmt sich die Einspruchsbefugnis nach § 352 der Abgabenordnung in der am 31. Dezember 2023 geltenden Fassung. Das Gleiche gilt, wenn der eine rechtsfähige Personenvereinigung betreffende Feststellungsbescheid nach dem 31. Dezember 2023 und vor dem 1. Januar 2026 nach Maßgabe von Absatz 3 dem Empfangsbevollmächtigten nach § 183 der Abgabenordnung in der bis zum 31. Dezember 2023 geltenden Fassung bekannt gegeben worden ist. Ist über den Einspruch gegen einen vor dem 1. Januar 2024 wirksam gewordenen Bescheid nach dem 31. Dezember 2023 zu entscheiden, richtet sich das weitere Verfahren nach den ab dem 1. Januar 2024 geltenden Vorschriften der Abgabenordnung.
+
+(5) Wurde über das Vermögen einer Personenvereinigung vor dem 1. Januar 2024 das Insolvenzverfahren eröffnet, sind für Feststellungszeiträume und Feststellungszeitpunkte vor dem 1. Januar 2024 § 152 Absatz 4 Satz 3, § 181 Absatz 2 Satz 2 Nummer 1, die §§ 183 und 352 der Abgabenordnung in der am 31. Dezember 2023 geltenden Fassung weiterhin anzuwenden.
+
 # § 1 – Zuständigkeit
 
 (1) Für vor dem 1. Januar 1991 nach dem Recht der Bundesrepublik Deutschland oder der Deutschen Demokratischen Republik entstandene Besitz- und Verkehrsteuern, Zulagen und Prämien, auf die Abgabenrecht Anwendung findet, und dazugehörige steuerliche Nebenleistungen, bleiben die nach den bisher geltenden Vorschriften einschließlich der Vorschriften der Einzelsteuergesetze örtlich zuständigen Finanzbehörden weiterhin zuständig. Dies gilt auch für das Rechtsbehelfsverfahren.

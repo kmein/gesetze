@@ -897,7 +897,7 @@ Im Rahmen der veranschlagten Mittel können auch bis zu 15 Mio. Euro für neue F
 
 Zu Tit. 681 02
 
-Von dem veranschlagten Baransatz entfallen 3 013 Mio. Euro auf Stipendienprogramme, und zwar
+Von dem veranschlagten Baransatz entfallen 3,013 Mio. Euro auf Stipendienprogramme, und zwar
 
 –  
 1,72 Mio. Euro auf das MOE/GUS-Stipendienprogramm, mit dem Studentinnen und Studenten der Wirtschaftswissenschaften aus mittel-, ost- und südosteuropäischen Ländern ein Studienaufenthalt in Deutschland ermöglicht wird,
@@ -2110,3 +2110,5 @@ Diese zur Abdeckung der ERP-Förderlasten 2022 zur Verfügung stehenden Erträge
 2. Die danach verbleibenden Mittel in Höhe von 264,2 Mio. Euro wurden gemäß den vertraglichen Regelungen der ERP-Gewinnrücklage I zugeführt. Da das ERP-Beteiligungsvolumen der KfW Capital in Höhe von 1 339,9 Mio. Euro den Saldo vom 31.12.2021 von 924,6 Mio. Euro übersteigt, war eine Dotierung der ERP-Risikodeckungsmasse zum 31.12.2022 mit 415,3 Mio. Euro zulasten der ERP-Gewinnrücklage I erforderlich. Hiernach beläuft sich der Saldo der ERP-Gewinnrücklage I zum 31.12.2022 auf 1 758,5 Mio. Euro. Der Saldo der ERP-Risikodeckungsmasse zum 31.12.2022 beläuft sich auf 1 339,9 Mio. Euro.
 
 Somit wurden die aus dem eingebrachten Kapital erzielten Erträge für die ERP-Förderung eingesetzt bzw. dem ERP-Sondervermögen zugeführt. Die Ordnungsmäßigkeit der Berichterstattung zum 31.12.2022 wird vertragsgemäß durch einen Wirtschaftsprüfer geprüft und bestätigt.
+
+Kap. 1 Spalte 6 Erläuterungen zu Tit. 681 02 Satz 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe "3 013" durch "3,013" ersetzt

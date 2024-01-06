@@ -1105,7 +1105,7 @@ b) der verbleibende Wert ist nach dem für die Gesellschaft maßgebenden Gewinnv
 
 (1b) Der gemeine Wert eines Anteils an einer in § 97 Abs. 1 Satz 1 Nr. 1 genannten Kapitalgesellschaft bestimmt sich nach dem Verhältnis des Anteils am Nennkapital (Grund- oder Stammkapital) der Gesellschaft zum gemeinen Wert des Betriebsvermögens der Kapitalgesellschaft im Bewertungsstichtag. Dies gilt auch, wenn das Nennkapital noch nicht vollständig eingezahlt ist. Richtet sich die Beteiligung am Vermögen und am Gewinn der Gesellschaft auf Grund einer ausdrücklichen Vereinbarung der Gesellschafter nach der jeweiligen Höhe des eingezahlten Nennkapitals, bezieht sich der gemeine Wert nur auf das tatsächlich eingezahlte Nennkapital. Abweichend von Satz 1 sind bei der Wertermittlung des Anteils vorbehaltlich des § 9 Absatz 2 und 3 Regelungen zu berücksichtigen, die sich auf den Wert des Anteils auswirken, wie insbesondere eine vom Verhältnis des Anteils am Nennkapital (Grund- oder Stammkapital) abweichende Gewinnverteilung.
 
-(2) Einen Gewerbebetrieb bilden auch die Wirtschaftsgüter, die den sonstigen juristischen Personen des privaten Rechts, den nichtrechtsfähigen Vereinen, Anstalten, Stiftungen und anderen Zweckvermögen gehören, soweit sie einem wirtschaftlichen Geschäftsbetrieb (ausgenommen Land- und Forstwirtschaft) dienen.
+(2) Einen Gewerbebetrieb bilden auch die Wirtschaftsgüter, die den sonstigen juristischen Personen des privaten Rechts, den Vereinen ohne Rechtspersönlichkeit, den nicht rechtsfähigen Anstalten, Stiftungen und anderen Zweckvermögen gehören, soweit sie einem wirtschaftlichen Geschäftsbetrieb (ausgenommen Land- und Forstwirtschaft) dienen.
 
 (3) (weggefallen)
 
@@ -1744,7 +1744,7 @@ Für die gesonderten Feststellungen ist örtlich zuständig:
 
 (1) Das Finanzamt kann von jedem, für dessen Besteuerung eine gesonderte Feststellung von Bedeutung ist, die Abgabe einer Feststellungserklärung verlangen. Die Frist zur Abgabe der Feststellungserklärung muss mindestens einen Monat betragen.
 
-(2) Ist der Gegenstand der Feststellung mehreren Personen zuzurechnen oder ist eine Personengesellschaft oder Kapitalgesellschaft dessen Eigentümer, kann das Finanzamt auch von der Gemeinschaft oder Gesellschaft die Abgabe einer Feststellungserklärung verlangen. Dies gilt auch, wenn Gegenstand der Feststellung ein Anteil am Betriebsvermögen ist. Das Finanzamt kann in Erbbaurechtsfällen die Abgabe einer Feststellungserklärung vom Erbbauberechtigten und vom Erbbauverpflichteten verlangen. Absatz 4 Satz 5 ist nicht anzuwenden.
+(2) Ist der Gegenstand der Feststellung mehreren Personen zuzurechnen oder ist eine Personengesellschaft oder Kapitalgesellschaft dessen Eigentümer, kann das Finanzamt auch von der Gemeinschaft oder Gesellschaft die Abgabe einer Feststellungserklärung verlangen. In den Fällen, in denen der Gegenstand der Feststellung einer Personengesellschaft im Sinne des § 97 Absatz 1 Satz 1 Nummer 5 zuzurechnen ist, ist die Feststellungserklärung vorrangig von der Gesellschaft anzufordern. Dies gilt auch, wenn Gegenstand der Feststellung ein Anteil am Betriebsvermögen ist. Das Finanzamt kann in Erbbaurechtsfällen die Abgabe einer Feststellungserklärung vom Erbbauberechtigten und vom Erbbauverpflichteten verlangen. Absatz 4 Satz 5 ist nicht anzuwenden.
 
 (3) In den Fällen des § 151 Abs. 1 Satz 1 Nr. 3 kann das Finanzamt nur von der Kapitalgesellschaft die Abgabe einer Feststellungserklärung verlangen.
 
@@ -1768,7 +1768,7 @@ Gegenüber mehreren Beteiligten nach Satz 1 erfolgt eine gesonderte und einheitl
 
 (2) In den Fällen des § 151 Abs. 1 Satz 1 Nr. 3 ist der Feststellungsbescheid auch der Kapitalgesellschaft bekannt zu geben.
 
-(3) Soweit der Gegenstand der Feststellung einer Erbengemeinschaft in Vertretung der Miterben zuzurechnen ist, ist § 183 der Abgabenordnung entsprechend anzuwenden. Bei der Bekanntgabe des Feststellungsbescheids ist darauf hinzuweisen, dass die Bekanntgabe mit Wirkung für und gegen alle Miterben erfolgt.
+(3) Soweit der Gegenstand der Feststellung einer Erbengemeinschaft in Vertretung der Miterben zuzurechnen ist, ist § 183a der Abgabenordnung entsprechend anzuwenden. Bei der Bekanntgabe des Feststellungsbescheids ist darauf hinzuweisen, dass die Bekanntgabe mit Wirkung für und gegen alle Miterben erfolgt.
 
 (+++ § 154 Abs. 1 Satz 1 Nr. 3 u. Satz 2: Zur Anwendung vgl. § 265 Abs. 9 +++)
 

@@ -105,6 +105,12 @@ Die Abberufung und die Entlassung werden mit der Aushändigung der Entlassungsur
 
 (1) Die oder der Opferbeauftragte erhält vom Beginn des Kalendermonats an, in dem das Amtsverhältnis beginnt, bis zum Schluss des Kalendermonats, in dem das Amtsverhältnis endet, im Fall des § 6 Absatz 3 Satz 3 bis zum Ende des Monats, in dem die Geschäftsführung endet, Amtsbezüge in Höhe der einem Bundesbeamten der Besoldungsgruppe B 6 in einer obersten Bundesbehörde zustehenden Besoldung.
 
+(1a) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise werden der oder dem Opferbeauftragten in entsprechender Anwendung des § 14 Absatz 4 bis 8 des Bundesbesoldungsgesetzes die folgenden Sonderzahlungen gewährt:
+
+1. für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240 Euro sowie
+
+2. für die Monate Juli 2023 bis Februar 2024 eine monatliche Sonderzahlung in Höhe von jeweils 220 Euro.
+
 (2) Im Übrigen sind § 12 Absatz 6 sowie die §§ 13 bis 20 und 21a Absatz 5 des Bundesministergesetzes mit den Maßgaben anzuwenden, dass an die Stelle der vierjährigen Amtszeit in § 15 Absatz 1 des Bundesministergesetzes eine Amtszeit von fünf Jahren und an die Stelle der Besoldungsgruppe B 11 in § 21a Absatz 5 des Bundesministergesetzes die Besoldungsgruppe B 6 tritt.
 
 (3) Die Vorschriften des Bundesreisekostengesetzes und des Bundesumzugskostengesetzes für die infolge der Ernennung und Beendigung des Amtsverhältnisses erforderlich werdenden Umzüge sind entsprechend anzuwenden.

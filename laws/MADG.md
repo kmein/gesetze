@@ -127,6 +127,8 @@ Der Militärische Abschirmdienst erteilt dem Betroffenen über zu seiner Person 
 
 (1) Die Behörden des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts unterrichten von sich aus den Militärischen Abschirmdienst über die ihnen bekanntgewordenen Tatsachen, die sicherheitsgefährdende oder geheimdienstliche Tätigkeiten für eine fremde Macht oder Bestrebungen im Geltungsbereich dieses Gesetzes erkennen lassen, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen gegen die in § 1 Abs. 1 Satz 1 Nr. 1 und Satz 2 genannten Schutzgüter gerichtet sind, wenn tatsächliche Anhaltspunkte dafür bestehen, daß die Unterrichtung zur Erfüllung seiner Aufgaben nach § 1 Abs. 1 und 2 erforderlich ist.
 
+(1a) Die Staatsanwaltschaften und, vorbehaltlich der staatsanwaltschaftlichen Sachleitungsbefugnis, die Polizeien, die Behörden des Zollfahndungsdienstes sowie andere Zolldienststellen, soweit diese Aufgaben nach dem Bundespolizeigesetz wahrnehmen, unterrichten den Militärischen Abschirmdienst von sich aus entsprechend § 18 Absatz 1b und 6 des Bundesverfassungsschutzgesetzes.
+
 (2) Der Militärische Abschirmdienst darf nach § 18 Abs. 3 des Bundesverfassungsschutzgesetzes jede Behörde um die Übermittlung der zur Erfüllung seiner Aufgaben erforderlichen Informationen einschließlich personenbezogener Daten ersuchen. Im Rahmen der Erfüllung seiner Aufgaben darf er zur jederzeitigen Feststellung, ob eine Person dem Geschäftsbereich des Bundesministeriums der Verteidigung angehört oder in ihm tätig ist, den Familiennamen, den Vornamen, frühere Namen, das Geburtsdatum, die Personenkennziffer oder Personalnummer, den Wohnort, weitere Adressmerkmale, das Dienst- oder Arbeitsverhältnis, das Eintrittsdatum, die Amtsbezeichnung oder den Dienstgrad, die Dienststellennummer und das Dienstzeitende des Betroffenen aus dem Personalwirtschaftssystem der Bundeswehr abrufen. Die Verantwortung für den einzelnen Abruf trägt der Militärische Abschirmdienst. Das Bundesministerium der Verteidigung überprüft die Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht. Es regelt in einer Dienstvorschrift
 
 1. den Kreis der zum Abruf berechtigten Angehörigen des Militärischen Abschirmdienstes,
@@ -151,13 +153,11 @@ Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor 
 
 # § 11 – Übermittlung personenbezogener Daten durch den Militärischen Abschirmdienst
 
-(1) Der Militärische Abschirmdienst darf personenbezogene Daten nach § 19 des Bundesverfassungsschutzgesetzes übermitteln. An die Stelle der Zustimmung des Bundesministeriums des Innern, für Bau und Heimat tritt diejenige des Bundesministeriums der Verteidigung. Für vom Verfassungsschutz übermittelte personenbezogene Daten im Sinne des § 18 Abs. 1a Satz 1 des Bundesverfassungsschutzgesetzes gilt § 18 Abs. 1a Satz 2 bis 4 des Bundesverfassungsschutzgesetzes entsprechend.
-
-(2) Der Militärische Abschirmdienst übermittelt Informationen einschließlich personenbezogener Daten an Staatsanwaltschaften, Polizeien und den Bundesnachrichtendienst nach § 20 des Bundesverfassungsschutzgesetzes.
+Auf die Übermittlung personenbezogener Daten durch den Militärischen Abschirmdienst finden die §§ 19 bis 22a, 25a, 25b und 25d des Bundesverfassungsschutzgesetzes entsprechend Anwendung. Für vom Verfassungsschutz übermittelte personenbezogene Daten nach § 18 Absatz 1a Satz 1 des Bundesverfassungsschutzgesetzes gilt § 18 Absatz 1a Satz 2 bis 4 des Bundesverfassungsschutzgesetzes entsprechend.
 
 # § 12 – Verfahrensregeln für die Übermittlung von Informationen
 
-Für die Übermittlung von Informationen nach diesem Gesetz finden die §§ 23 bis 26 des Bundesverfassungsschutzgesetzes entsprechende Anwendung.
+Für die Übermittlung von Informationen nach diesem Gesetz finden die §§ 23 bis 25, 25c und 26 des Bundesverfassungsschutzgesetzes entsprechende Anwendung.
 
 (+++ § 12: Gemäß Art. 18 V v. 19.6.2020 I 1328 wird jeweils das Wort "Innern" durch die Wörter "Innern, für Bau und Heimat" mWv 27.6.2020 ersetzt. Aufgrund textlicher Unstimmigkeit ist die Änderungsanweisung unausführbar! +++)
 
@@ -189,6 +189,12 @@ Bei der Erfüllung der Aufgaben nach § 1 Absatz 1 bis 3, den §§ 2 und 14 durc
 
 (7) Die Bundesregierung unterrichtet das Parlamentarische Kontrollgremium vor Beginn des Einsatzes des Militärischen Abschirmdienstes im Ausland.
 
-# § 15 – Einschränkung von Grundrechten
+# § 15 – Besondere Eigensicherungsbefugnisse
+
+(1) Auf die Befugnisse und Verfahren der Eigensicherung des Militärischen Abschirmdienstes finden die §§ 26b und 26c des Bundesverfassungsschutzgesetzes entsprechend Anwendung. Das Grundrecht auf körperliche Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) und Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes) wird insoweit eingeschränkt.
+
+(2) Das Gesetz über die Anwendung unmittelbaren Zwanges und die Ausübung besonderer Befugnisse durch Soldaten der Bundeswehr und verbündeter Streitkräfte sowie zivile Wachpersonen bleibt hiervon unberührt.
+
+# § 16 – Einschränkung von Grundrechten
 
 Die Grundrechte der Versammlungsfreiheit (Artikel 8 des Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.

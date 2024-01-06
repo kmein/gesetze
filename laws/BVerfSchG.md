@@ -131,7 +131,7 @@ ein.
 
 (2) Die Verfassungsschutzbehörden verarbeiten zur Erfüllung ihrer Unterrichtungspflichten nach Absatz 1 Informationen im gemeinsamen nachrichtendienstlichen Informationssystem. Der Militärische Abschirmdienst kann zur Erfüllung der Unterrichtungspflichten nach § 3 Absatz 3 Satz 1 des MAD-Gesetzes am nachrichtendienstlichen Informationssystem teilnehmen. Der Abruf von Daten aus dem nachrichtendienstlichen Informationssystem im automatisierten Verfahren ist im Übrigen nur entsprechend den §§ 22a und 22b zulässig. Für die Verarbeitung personenbezogener Daten im nachrichtendienstlichen Informationssystem gelten die §§ 10 und 11. Die Verantwortung einer speichernden Stelle im Sinne der allgemeinen Vorschriften des Datenschutzrechts trägt jede Verfassungsschutzbehörde nur für die von ihr eingegebenen Daten; nur sie darf diese Daten verändern, die Verarbeitung einschränken oder löschen. Die eingebende Stelle muss feststellbar sein. Eine Abfrage von Daten ist nur zulässig, soweit dies zur Erfüllung von Aufgaben, mit denen der Abfragende unmittelbar betraut ist, erforderlich ist. Die Zugriffsberechtigung auf Daten, die nicht zum Auffinden von Akten und der dazu notwendigen Identifizierung von Personen erforderlich sind, ist auf Personen zu beschränken, die mit der Erfassung von Daten oder Analysen betraut sind. Die Zugriffsberechtigung auf Unterlagen, die gespeicherte Angaben belegen, ist zudem auf Personen zu beschränken, die unmittelbar mit Arbeiten in diesem Anwendungsgebiet betraut sind.
 
-(3) Das Bundesamt für Verfassungsschutz trifft für die gemeinsamen Dateien die technischen und organisatorischen Maßnahmen entsprechend § 64 des Bundesdatenschutzgesetzes. Es hat bei jedem Zugriff für Zwecke der Datenschutzkontrolle den Zeitpunkt, die Angaben, die die Feststellung der abgefragten Datensätze ermöglichen, sowie die abfragende Stelle zu protokollieren. Die Auswertung der Protokolldaten ist nach dem Stand der Technik zu gewährleisten. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind am Ende des Kalenderjahres, das dem Jahr der Protokollierung folgt, zu löschen.
+(3) Das Bundesamt für Verfassungsschutz trifft für die gemeinsamen Dateien die technischen und organisatorischen Maßnahmen entsprechend § 64 des Bundesdatenschutzgesetzes. Es hat bei jedem Zugriff für Zwecke der Datenschutzkontrolle den Zeitpunkt, die Angaben, die die Feststellung der abgefragten Datensätze ermöglichen, sowie die abfragende Stelle zu protokollieren. Die Auswertung der Protokolldaten ist nach dem Stand der Technik zu gewährleisten. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind nach Ablauf von fünf Jahren zu löschen.
 
 (+++ Erster Abschn. (§§ 1 bis 7): Zur Anwendung vgl. § 36 SÜG +++)
 
@@ -432,7 +432,7 @@ Die Entscheidung trifft der Behördenleiter oder ein von ihm besonders beauftrag
 
 (1) Die Behörden des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts unterrichten von sich aus das Bundesamt für Verfassungsschutz oder die Verfassungsschutzbehörde des Landes über die ihnen bekanntgewordenen Tatsachen, die sicherheitsgefährdende oder geheimdienstliche Tätigkeiten für eine fremde Macht oder Bestrebungen im Geltungsbereich dieses Gesetzes erkennen lassen, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen gegen die in § 3 Abs. 1 Nr. 1, 3 und 4 genannten Schutzgüter gerichtet sind. Über Satz 1 hinausgehende Unterrichtungspflichten nach dem Gesetz über den Militärischen Abschirmdienst oder dem Gesetz über den Bundesnachrichtendienst bleiben unberührt.
 
-(1a) Das Bundesamt für Migration und Flüchtlinge übermittelt von sich aus dem Bundesamt für Verfassungsschutz, die Ausländerbehörden eines Landes übermitteln von sich aus der Verfassungsschutzbehörde des Landes ihnen bekannt gewordene Informationen einschließlich personenbezogener Daten über Bestrebungen oder Tätigkeiten nach § 3 Abs. 1, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die Übermittlung für die Erfüllung der Aufgaben der Verfassungsschutzbehörde erforderlich ist. Die Übermittlung dieser personenbezogenen Daten an ausländische öffentliche Stellen sowie an über- und zwischenstaatliche Stellen nach § 19 Abs. 3 unterbleibt auch dann, wenn überwiegende schutzwürdige Belange Dritter entgegenstehen. Vor einer Übermittlung nach § 19 Abs. 3 ist das Bundesamt für Migration und Flüchtlinge zu beteiligen. Für diese Übermittlungen des Bundesamtes für Verfassungsschutz gilt § 8b Absatz 3 entsprechend. Die Zuständigkeit und das Verfahren für die Entscheidung des Bundesamtes für Migration und Flüchtlinge zu Übermittlungen nach Satz 1 sind in einer Dienstvorschrift zu regeln, die der Zustimmung des Bundesministeriums des Innern, für Bau und Heimat bedarf.
+(1a) Das Bundesamt für Migration und Flüchtlinge übermittelt von sich aus dem Bundesamt für Verfassungsschutz, die Ausländerbehörden eines Landes übermitteln von sich aus der Verfassungsschutzbehörde des Landes ihnen bekannt gewordene Informationen einschließlich personenbezogener Daten über Bestrebungen oder Tätigkeiten nach § 3 Abs. 1, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die Übermittlung für die Erfüllung der Aufgaben der Verfassungsschutzbehörde erforderlich ist. Die Übermittlung dieser personenbezogenen Daten an ausländische öffentliche Stellen sowie an über- und zwischenstaatliche Stellen nach § 25a unterbleibt auch dann, wenn überwiegende schutzwürdige Belange Dritter entgegenstehen. Vor einer Übermittlung nach § 25a ist das Bundesamt für Migration und Flüchtlinge zu beteiligen. Für diese Übermittlungen des Bundesamtes für Verfassungsschutz gilt § 8b Absatz 3 entsprechend. Die Zuständigkeit und das Verfahren für die Entscheidung des Bundesamtes für Migration und Flüchtlinge zu Übermittlungen nach Satz 1 sind in einer Dienstvorschrift zu regeln, die der Zustimmung des Bundesministeriums des Innern, für Bau und Heimat bedarf.
 
 (1b) Die Staatsanwaltschaften und, vorbehaltlich der staatsanwaltschaftlichen Sachleitungsbefugnis, die Polizeien, die Behörden des Zollfahndungsdienstes sowie andere Zolldienststellen, soweit diese Aufgaben nach dem Bundespolizeigesetz wahrnehmen, unterrichten von sich aus das Bundesamt für Verfassungsschutz oder die Verfassungsschutzbehörde des Landes über alle ihnen bekanntgewordenen Informationen einschließlich personenbezogener Daten über Bestrebungen und Tätigkeiten nach § 3 Absatz 1, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung für die Erfüllung der Aufgaben der Verfassungsschutzbehörde erforderlich ist. Auf die Übermittlung von Informationen zwischen Behörden desselben Bundeslandes findet Satz 1 keine Anwendung.
 
@@ -452,47 +452,85 @@ Die Entscheidung trifft der Behördenleiter oder ein von ihm besonders beauftrag
 
 (6) Die Übermittlung personenbezogener Daten, die auf Grund einer Maßnahme nach § 100a der Strafprozeßordnung bekanntgeworden sind, ist nach den Vorschriften der Absätze 1b und 3 nur zulässig, wenn tatsächliche Anhaltspunkte dafür bestehen, daß jemand eine der in § 3 Abs. 1 des Artikel 10-Gesetzes genannten Straftaten plant, begeht oder begangen hat. Auf die einer Verfassungsschutzbehörde nach Satz 1 übermittelten Kenntnisse und Unterlagen findet § 4 Abs. 1 und 4 des Artikel 10-Gesetzes entsprechende Anwendung.
 
-# § 19 – Übermittlung personenbezogener Daten durch das Bundesamt für Verfassungsschutz
+# § 19 – Übermittlung an inländische öffentliche Stellen zur Gefahrenabwehr
 
-(1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten, die mit den Mitteln nach § 8 Absatz 2 erhoben worden sind, an die Staatsanwaltschaften, die Finanzbehörden nach § 386 Absatz 1 der Abgabenordnung, die Polizeien, die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden, die Behörden des Zollfahndungsdienstes sowie andere Zolldienststellen, soweit diese Aufgaben nach dem Bundespolizeigesetz wahrnehmen, übermitteln, soweit dies erforderlich ist zur
+(1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an eine inländische öffentliche Stelle übermitteln, soweit dies im Einzelfall auf Grund tatsächlicher Anhaltspunkte zur Abwehr einer zumindest konkretisierten Gefahr für ein besonders gewichtiges Rechtsgut erforderlich ist. Im Falle einer unmittelbar bevorstehenden Gefahr oder einer im Einzelfall bestehenden Gefahr, die von einer Bestrebung oder Tätigkeit nach § 3 Absatz 1 ausgeht, ist das Bundesamt für Verfassungsschutz zur Übermittlung verpflichtet.
 
-1. Erfüllung eigener Aufgaben der Informationsgewinnung (§ 8 Absatz 1 Satz 2 und 3),
+(2) Eine konkretisierte Gefahr nach Absatz 1 Satz 1 liegt vor, wenn sich der zum Schaden führende Kausalverlauf zwar noch nicht mit hinreichender Wahrscheinlichkeit vorhersehen lässt, aber bereits bestimmte Tatsachen im Einzelfall auf die Entstehung einer konkreten Gefahr für ein besonders gewichtiges Rechtsgut hinweisen.
 
-2. Abwehr einer im Einzelfall bestehenden Gefahr für den Bestand oder die Sicherheit des Bundes oder eines Landes oder für Leib, Leben, Gesundheit oder Freiheit einer Person oder für Sachen von erheblichem Wert, deren Erhaltung im öffentlichen Interesse geboten ist,
+(3) Besonders gewichtige Rechtsgüter nach Absatz 1 sind:
 
-3. Verhinderung oder sonstigen Verhütung von Straftaten von erheblicher Bedeutung oder
+1. die freiheitliche demokratische Grundordnung, einschließlich des Gedankens der Völkerverständigung und des friedlichen Zusammenlebens der Völker,
 
-4. Verfolgung von Straftaten von erheblicher Bedeutung;
+2. der Bestand und die Sicherheit des Bundes, der Länder sowie überstaatlicher und internationaler Organisationen, denen die Bundesrepublik Deutschland angehört,
 
-§ 20 bleibt unberührt. Im Übrigen darf es an inländische öffentliche Stellen personenbezogene Daten übermitteln, wenn dies zur Erfüllung seiner Aufgaben erforderlich ist oder der Empfänger die Daten zum Schutz der freiheitlichen demokratischen Grundordnung oder sonst für erhebliche Zwecke der öffentlichen Sicherheit benötigt. Der Empfänger darf die übermittelten Daten, soweit gesetzlich nichts anderes bestimmt ist, nur zu dem Zweck verwenden, zu dem sie ihm übermittelt wurden.
+3. sonstige Güter der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, Sachen von bedeutendem Wert und bedeutende Vermögenswerte, deren Erhaltung im besonderen öffentlichen Interesse geboten ist,
 
-(2) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an Dienststellen der Stationierungsstreitkräfte übermitteln, soweit die Bundesrepublik Deutschland dazu im Rahmen von Artikel 3 des Zusatzabkommens zu dem Abkommen zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen vom 3. August 1959 (BGBl. 1961 II S. 1183, 1218) verpflichtet ist.
+4. das Leben sowie bei einer erheblichen Gefährdung im Einzelfall die körperliche Integrität und die Freiheit einer Person.
 
-(3) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an ausländische öffentliche Stellen sowie an über- und zwischenstaatliche Stellen übermitteln, wenn die Übermittlung zur Erfüllung seiner Aufgaben oder zur Wahrung erheblicher Sicherheitsinteressen des Empfängers erforderlich ist. Die Übermittlung unterbleibt, wenn auswärtige Belange der Bundesrepublik Deutschland oder überwiegende schutzwürdige Interessen des Betroffenen entgegenstehen. Die Übermittlung ist aktenkundig zu machen. Der Empfänger ist darauf hinzuweisen, daß die übermittelten Daten nur zu dem Zweck verwendet werden dürfen, zu dem sie ihm übermittelt wurden, und das Bundesamt für Verfassungsschutz sich vorbehält, um Auskunft über die vorgenommene Verwendung der Daten zu bitten.
+(4) Das Bundesamt für Verfassungsschutz darf die durch eine Maßnahme nach § 9 Absatz 2 erlangten personenbezogenen Daten an eine inländische öffentliche Stelle zum Zweck des Rechtsgüterschutzes nur übermitteln, soweit dies zur Abwehr einer dringenden Gefahr für ein in Absatz 3 genanntes Rechtsgut erforderlich ist.
 
-(4) Personenbezogene Daten dürfen an andere Stellen nur übermittelt werden, wenn dies zum Schutz der freiheitlichen demokratischen Grundordnung, des Bestandes oder der Sicherheit des Bundes oder eines Landes oder zur Gewährleistung der Sicherheit von lebens- oder verteidigungswichtigen Einrichtungen nach § 1 Abs. 4 des Sicherheitsüberprüfungsgesetzes erforderlich ist. Übermittlungen nach Satz 1 bedürfen der vorherigen Zustimmung durch das Bundesministerium des Innern, für Bau und Heimat. Das Bundesamt für Verfassungsschutz führt einen Nachweis über den Zweck, die Veranlassung, die Aktenfundstelle und die Empfänger der Übermittlungen nach Satz 1. Die Nachweise sind gesondert aufzubewahren, gegen unberechtigten Zugriff zu sichern und am Ende des Kalenderjahres, das dem Jahr ihrer Erstellung folgt, zu vernichten. Der Empfänger darf die übermittelten Daten nur zu dem Zweck verwenden, zu dem sie ihm übermittelt worden sind. Der Empfänger ist auf die Verwendungsbeschränkung und darauf hinzuweisen, dass das Bundesamt für Verfassungsschutz sich vorbehält, um Auskunft über die Verwendung der Daten zu bitten. Die Übermittlung der personenbezogenen Daten ist dem Betroffenen durch das Bundesamt für Verfassungsschutz mitzuteilen, sobald eine Gefährdung seiner Aufgabenerfüllung durch die Mitteilung nicht mehr zu besorgen ist.
+# § 20 – Übermittlung an inländische öffentliche Stellen zum administrativen Rechtsgüterschutz
 
-(5) Absatz 4 findet keine Anwendung, wenn personenbezogene Daten zum Zweck von Datenerhebungen nach § 8 Absatz 1 Satz 2 an Stellen übermittelt werden, von denen die Daten erhoben werden, oder die daran mitwirken. Hiervon abweichend findet Absatz 4 Satz 5 und 6 in Fällen Anwendung, in denen die Datenerhebung nicht mit den in § 8 Absatz 2 bezeichneten Mitteln erfolgt.
+(1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an eine inländische öffentliche Stelle übermitteln, soweit dies auf Grund tatsächlicher Anhaltspunkte im Einzelfall zum Schutz der in § 19 Absatz 3 genannten Rechtsgüter erforderlich ist
 
-# § 20 – Übermittlung von Informationen durch das Bundesamt für Verfassungsschutz an Strafverfolgungs- und Sicherheitsbehörden in Angelegenheiten des Staats- und Verfassungsschutzes
+1. zur Überprüfung der Verfassungstreue von Bewerbern und Beschäftigten des öffentlichen Dienstes,
 
-(1) Das Bundesamt für Verfassungsschutz übermittelt den Staatsanwaltschaften und, vorbehaltlich der staatsanwaltschaftlichen Sachleitungsbefugnis, den Polizeien von sich aus die ihm bekanntgewordenen Informationen einschließlich personenbezogener Daten, wenn tatsächliche Anhaltspunkte dafür bestehen, daß die Übermittlung zur Verhinderung oder Verfolgung von Staatsschutzdelikten erforderlich ist. Delikte nach Satz 1 sind die in §§ 74a und 120 des Gerichtsverfassungsgesetzes genannten Straftaten sowie sonstige Straftaten, bei denen auf Grund ihrer Zielsetzung, des Motivs des Täters oder dessen Verbindung zu einer Organisation tatsächliche Anhaltspunkte dafür vorliegen, daß sie gegen die in Artikel 73 Nr. 10 Buchstabe b oder c des Grundgesetzes genannten Schutzgüter gerichtet sind. Das Bundesamt für Verfassungsschutz übermittelt dem Bundesnachrichtendienst von sich aus die ihm bekanntgewordenen Informationen einschließlich personenbezogener Daten, wenn tatsächliche Anhaltspunkte dafür bestehen, daß die Übermittlung für die Erfüllung der gesetzlichen Aufgaben des Empfängers erforderlich ist.
+2. zur Vorbereitung oder Durchführung einer Maßnahme nach dem Vereinsgesetz,
 
-(2) Die Polizeien dürfen zur Verhinderung von Staatsschutzdelikten nach Absatz 1 Satz 2 das Bundesamt für Verfassungsschutz um Übermittlung der erforderlichen Informationen einschließlich personenbezogener Daten ersuchen. Der Bundesnachrichtendienst darf zur Erfüllung seiner Aufgaben das Bundesamt für Verfassungsschutz um die Übermittlung der erforderlichen Informationen einschließlich personenbezogener Daten ersuchen.
+3. zur Vorbereitung oder Stellung eines Antrags nach Artikel 18 Satz 2 des Grundgesetzes,
+
+4. zur Vorbereitung oder Stellung eines Antrags nach Artikel 21 Absatz 4 des Grundgesetzes,
+
+5. zur Durchführung einer Eignungs- oder Zuverlässigkeitsüberprüfung,
+
+a) die gesetzlich vorgesehen ist, insbesondere nach dem Waffenrecht, Jagdrecht, Sprengstoffrecht, Atomrecht, Luftsicherheitsrecht, Außenwirtschaftsrecht, Sicherheitsgewerberecht, Aufenthaltsrecht oder Staatsangehörigkeitsrecht oder den Sicherheitsüberprüfungsgesetzen,
+
+b) für gesetzliche Aufgaben des Objekt- oder Personenschutzes,
+
+6. zur Vorbereitung oder Durchführung der Aufhebung eines begünstigenden Verwaltungsakts, der auf Grund einer Überprüfung im Sinne von Nummer 5 erlassen wurde,
+
+7. zur Wahrnehmung von gesetzlichen Befugnissen des Empfängers beim aufsichtlichen Schutz vor missbräuchlicher Nutzung von Einrichtungen und Dienstleistungen der Unternehmen im Finanzsektor in Bezug auf Terrorismusfinanzierung,
+
+8. zur Vorbereitung oder Durchführung der Strafvollstreckung, einschließlich der Vollzugsplanung, gegen die unmittelbar betroffene Person oder zur Gewährleistung der Sicherheit des Vollzugs freiheitsentziehender Maßnahmen gegen Gefährdungen durch diese Person,
+
+9. zur Durchsetzung von im Bereich der Gemeinsamen Außen- und Sicherheitspolitik der Europäischen Union beschlossenen wirtschaftlichen Sanktionsmaßnahmen.
+
+In den Fällen des Satzes 1 Nummer 1 und 9 oder auf ein Ersuchen einer zuständigen Stelle im Rahmen eines gesetzlich besonders geregelten Anfrageverfahrens ist das Bundesamt für Verfassungsschutz zu der Übermittlung verpflichtet.
+
+(2) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten, die es mit nachrichtendienstlichen Mitteln erhoben hat, an eine inländische öffentliche Stelle zur Vorbereitung, Durchführung oder Überprüfung einer begünstigenden Maßnahme übermitteln, wenn dies auf Grund tatsächlicher Anhaltspunkte im Einzelfall zum Schutz der in § 19 Absatz 3 genannten Rechtsgüter erforderlich ist. Auf ein Ersuchen einer zuständigen Stelle ist das Bundesamt für Verfassungsschutz zu einer Übermittlung nach Satz 1 verpflichtet.
+
+(3) § 19 Absatz 4 bleibt unberührt.
 
 § 20 Abs. 1 Satz 1 u. 2: Nach Maßgabe der Entscheidungsformel nicht vereinbar mit Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG gem. Nr. 1 BVerfGE v. 28.9.2022 I 2096 - 1 BvR 2354/13 -. Gem. Nr. 2 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2023 nach Maßgabe der Entscheidungsformel fort.
 
-# § 21 – Übermittlung von Informationen durch die Verfassungsschutzbehörden der Länder an Strafverfolgungs- und Sicherheitsbehörden in Angelegenheiten des Staats- und Verfassungsschutzes
+# § 21 – Übermittlung an Strafverfolgungsbehörden zur Strafverfolgung
 
-(1) Die Verfassungsschutzbehörden der Länder übermitteln den Staatsanwaltschaften und, vorbehaltlich der staatsanwaltschaftlichen Sachleitungsbefugnis, den Polizeien Informationen einschließlich personenbezogener Daten unter den Voraussetzungen des § 20 Abs. 1 Satz 1 und 2 sowie Abs. 2 Satz 1. Auf die Übermittlung von Informationen zwischen Behörden desselben Bundeslandes findet Satz 1 keine Anwendung.
+(1) Das Bundesamt für Verfassungsschutz übermittelt personenbezogene Daten an eine zuständige inländische Strafverfolgungsbehörde, wenn bestimmte Tatsachen den Verdacht einer besonders schweren Straftat begründen und soweit die Daten zur Verfolgung dieser Straftat erforderlich sind.
 
-(2) Die Verfassungsschutzbehörden der Länder übermitteln dem Bundesnachrichtendienst und dem Militärischen Abschirmdienst Informationen einschließlich personenbezogener Daten unter den Voraussetzungen des § 20 Abs. 1 Satz 3 sowie Abs. 2 Satz 2.
+(2) Eine besonders schwere Straftat im Sinne des Absatzes 1 ist eine Straftat, die im Höchstmaß mit Freiheitsstrafe bedroht ist von
+
+1. mindestens zehn Jahren oder
+
+2. fünf Jahren, wenn sie aus einer Bestrebung nach § 3 Absatz 1 Nummer 1, 3 oder 4 heraus zur Durchsetzung der Ziele dieser Bestrebung, durch eine Tätigkeit nach § 3 Absatz 1 Nummer 2 oder zur Unterstützung einer solchen Bestrebung oder Tätigkeit begangen wurde.
+
+(3) Abweichend von Absatz 1 übermittelt das Bundesamt für Verfassungsschutz personenbezogene Daten, die es durch eine Maßnahme nach § 9 Absatz 2 Satz 1 erhoben hat, an eine im Einzelfall für die Strafverfolgung zuständige Behörde, wenn bestimmte Tatsachen den Verdacht einer Straftat nach § 100b Absatz 2 der Strafprozessordnung begründen und soweit die Daten zur Verfolgung dieser Straftat erforderlich sind. Eine Übermittlung von personenbezogenen Daten, die das Bundesamt für Verfassungsschutz durch eine Maßnahme nach § 9 Absatz 2 Satz 2 erhoben hat, ist nicht zulässig.
 
 § 21 Abs. 1 Satz 1: IVm § 20 Abs. 1 Satz 1 u. 2 nach Maßgabe der Entscheidungsformel nicht vereinbar mit Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG gem. Nr. 1 BVerfGE v. 28.9.2022 I 2096 - 1 BvR 2354/13 -. Gem. Nr. 2 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2023 nach Maßgabe der Entscheidungsformel fort.
 
-# § 22 – Übermittlung von Informationen durch die Staatsanwaltschaften und Polizeien an den Militärischen Abschirmdienst
+# § 22 – Übermittlung an inländische öffentliche Stellen ohne belastende Maßnahmen mit Außenwirkung
 
-Für die Übermittlung von Informationen einschließlich personenbezogener Daten durch die Staatsanwaltschaften und, vorbehaltlich der staatsanwaltschaftlichen Sachleitungsbefugnis, die Polizeien, die Behörden des Zollfahndungsdienstes sowie andere Zolldienststellen, soweit diese Aufgaben nach dem Bundespolizeigesetz wahrnehmen, an den Militärischen Abschirmdienst findet § 18 entsprechende Anwendung.
+(1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an eine inländische öffentliche Stelle übermitteln, wenn dies auf Grund tatsächlicher Anhaltspunkte zur eigenen Aufklärung einer beobachtungsbedürftigen Bestrebung oder Tätigkeit nach § 3 Absatz 1, insbesondere zur Vorbereitung oder Konkretisierung eines Auskunftsersuchens, erforderlich ist. Darf das Bundesamt für Verfassungsschutz eine Maßnahme nach § 8 Absatz 2 sowie den §§ 8a bis 9b (besonderes Mittel) nur zur Aufklärung einer qualifiziert beobachtungsbedürftigen Bestrebung oder Tätigkeit einsetzen, so darf es die durch den Einsatz dieses Mittels erhobenen personenbezogenen Daten nach Satz 1 nur zur Aufklärung einer ebenso beobachtungsbedürftigen Bestrebung oder Tätigkeit übermitteln.
+
+(2) Das Bundesamt für Verfassungsschutz übermittelt dem Bundesnachrichtendienst personenbezogene Daten, soweit sich aus ihnen Erkenntnisse über einen Vorgang im Ausland von außen- und sicherheitspolitischer Bedeutung ergeben. Darf das Bundesamt für Verfassungsschutz ein besonderes Mittel nur zur Aufklärung einer qualifiziert beobachtungsbedürftigen Bestrebung oder Tätigkeit einsetzen, so darf es die durch den Einsatz dieses Mittels erlangten personenbezogenen Daten nach Satz 1 nur zur Weitergabe von Erkenntnissen über einen Vorgang übermitteln, zu dessen Aufklärung der Bundesnachrichtendienst dieses Mittel einsetzen dürfte.
+
+(3) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an inländische öffentliche Stellen übermitteln, wenn dies auf Grund tatsächlicher Anhaltspunkte im Einzelfall zum Schutz der Schutzgüter nach § 19 Absatz 3 vor Bestrebungen oder Tätigkeiten nach § 3 Absatz 1 für Aufgaben erforderlich ist, die die empfangende Stelle ohne unmittelbar außenwirksame Maßnahmen zu Lasten der betroffenen Person wahrnimmt. Dies gilt insbesondere für die
+
+1. Erforschung und Bewertung dieser Bedrohungen,
+
+2. Verbesserung der Fachkompetenz und Organisation bei der Erforschung dieser Bedrohungen.
+
+Liegen die Voraussetzungen nach den §§ 19 und 20 nicht vor, darf der Empfänger die übermittelten Daten nicht für Maßnahmen nutzen, die die betroffene Person mit unmittelbarer Außenwirkung belasten.
 
 # § 22a – Projektbezogene gemeinsame Dateien
 
@@ -527,6 +565,36 @@ Für die Übermittlung von Informationen einschließlich personenbezogener Daten
 9. die Zuständigkeit des Bundesamtes für Verfassungsschutz für Schadensersatzansprüche des Betroffenen entsprechend § 83 des Bundesdatenschutzgesetzes.
 
 Die Dateianordnung bedarf der Zustimmung des Bundesministeriums des Innern, für Bau und Heimat sowie der für die Fachaufsicht über die beteiligten Behörden zuständigen obersten Bundes- oder Landesbehörden. Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlass einer Dateianordnung anzuhören. § 6 Absatz 2 Satz 7 gilt entsprechend.
+
+# § 22a – Übermittlung an inländische nichtöffentliche Stellen
+
+Eine Übermittlung personenbezogener Daten an nichtöffentliche inländische Stellen ist unzulässig, es sei denn, es bestehen im Einzelfall tatsächliche Anhaltspunkte, dass dies zum Schutz der Rechtsgüter nach § 19 Absatz 3 erforderlich ist
+
+1. zur eigenen Aufklärung einer beobachtungsbedürftigen Bestrebung oder Tätigkeit nach § 3 Absatz 1, insbesondere zur Vorbereitung oder Konkretisierung eines Auskunftsersuchens,
+
+2. zur Abwendung einer zumindest konkretisierten Gefahr für ein Rechtsgut nach § 19 Absatz 3,
+
+3. zur Erreichung eines der folgenden Zwecke:
+
+a) Schutz lebenswichtiger und verteidigungsrelevanter Einrichtungen und kritischer Infrastrukturen,
+
+b) Schutz der Sicherheit in der Informationstechnik gegen erhebliche Gefährdungen,
+
+c) Schutz rechtlich gewährleisteter Geheimnisse,
+
+d) wissenschaftliche Erforschung und Bewertung von Bestrebungen und Tätigkeiten nach § 3 Absatz 1,
+
+e) Schutz konkreter Präventions-, Ausstiegs- oder Deradikalisierungsprojekte, die finanziell oder organisatorisch mit öffentlichen Stellen kooperieren,
+
+f) Schutz des Kindeswohls bei der Erbringung von Leistungen und Erfüllung der Aufgaben der Kinder- und Jugendhilfe,
+
+g) Schutz der gesetzlichen Erziehungs- und Bildungsziele der Schulen und der Einrichtungen der Kindertagesbetreuung,
+
+h) Schutz der zweckgemäßen Verwendung öffentlicher Fördermittel oder sonstiger öffentlicher Vorteilszuwendungen.
+
+Eine nichtöffentliche Stelle, die personenbezogene Daten nach Satz 1 Nummer 3 erhalten hat, darf die Daten für Handlungen, die für die betroffene Person eine nachteilige rechtliche Wirkung entfalten oder diese Person in anderer Weise erheblich beeinträchtigen, nur verwenden, wenn dies zur Abwendung einer zumindest konkretisierten Gefahr für ein Rechtsgut nach § 19 Absatz 3 erforderlich ist und das Bundesamt für Verfassungsschutz zustimmt. Bei einer unmittelbar bevorstehenden Gefahr ist die vorherige Zustimmung des Bundesamts für Verfassungsschutz entbehrlich. Die nichtöffentliche Stelle hat das Bundesamt für Verfassungsschutz unverzüglich über ihre Handlungen und deren Anlass zu unterrichten.
+
+(+++ § 22a (doppelt): Eingef. durch Art. 1 Nr. 3 G v.22.12.2023 I 413 mWv 30.12.2023 +++)
 
 # § 22b – Errichtung gemeinsamer Dateien mit ausländischen Nachrichtendiensten
 
@@ -576,31 +644,217 @@ Das Bundesamt für Verfassungsschutz darf an gemeinsamen Dateien, die von auslä
 
 Das Bundesamt für Verfassungsschutz erteilt über die von ihm eingegebenen Daten entsprechend § 15 Auskunft.
 
-# § 23 – Übermittlungsverbote
+# § 23 – Übermittlungsverbot
 
-Die Übermittlung nach den Vorschriften dieses Abschnitts unterbleibt, wenn
+(1) Personenbezogene Daten dürfen nicht nach den §§ 19 bis 22a übermittelt werden, wenn
 
-1. für die übermittelnde Stelle erkennbar ist, daß unter Berücksichtigung der Art der Informationen und ihrer Erhebung die schutzwürdigen Interessen des Betroffenen das Allgemeininteresse an der Übermittlung überwiegen,
+1. besondere gesetzliche Verarbeitungsregelungen entgegenstehen,
 
-2. überwiegende Sicherheitsinteressen dies erfordern oder
+2. die schutzwürdigen Interessen der betroffenen Person das Allgemeininteresse an der Übermittlung überwiegen unter Berücksichtigung
 
-3. besondere gesetzliche Übermittlungsregelungen entgegenstehen; die Verpflichtung zur Wahrung gesetzlicher Geheimhaltungspflichten oder von Berufs- oder besonderen Amtsgeheimnissen, die nicht auf gesetzlichen Vorschriften beruhen, bleibt unberührt.
+a) der Art der Information,
+
+b) ihrer Wertigkeit, auch unter Berücksichtigung eines vergangenen Zeitraums und des Alters der betroffenen Person, insbesondere bei Minderjährigen,
+
+c) der Art der Erhebung, insbesondere im Falle des § 8 Absatz 2,
+
+d) drohender, insbesondere verdachtsgegründeter Anschlussmaßnahmen,
+
+e) der Verfügbarkeit vorherigen Rechtsschutzes gegen drohende Folgemaßnahmen,
+
+3. durch die Übermittlung der personenbezogenen Daten eine dringende Gefahr für ein Schutzgut nach § 19 Absatz 3 Nummer 4 zu besorgen ist; dies gilt nicht, wenn die Übermittlung dem Schutz solcher Rechtsgüter dient und dieses Schutzinteresse überwiegt, oder
+
+4. sonstige überwiegende Sicherheitsinteressen der Übermittlung entgegenstehen; dies ist nicht der Fall, wenn die Übermittlung unerlässlich ist zur
+
+a) Abwehr einer gegenwärtigen Gefahr für die Schutzgüter nach § 19 Absatz 3,
+
+b) Verfolgung einer auch im Einzelfall besonders schwerwiegenden Straftat, die im Höchstmaß mit einer Freiheitsstrafe von mindestens zehn Jahren bedroht ist.
+
+Die Verpflichtung zur Wahrung gesetzlicher Geheimhaltungspflichten bleibt unberührt.
+
+(2) Das Bundesministerium des Innern und für Heimat unterrichtet das Parlamentarische Kontrollgremium mindestens einmal im Jahr über die Fälle des Absatzes 1 Satz 1 Nummer 4.
 
 (+++ § 23: Zur Anwendung vgl. § 36 SÜG +++)
 
-# § 24 – Minderjährigenschutz
+# § 24 – Minderjährigenschutz bei Inlandsübermittlung
 
-(1) Informationen einschließlich personenbezogener Daten über das Verhalten Minderjähriger dürfen nach den Vorschriften dieses Gesetzes übermittelt werden, solange die Voraussetzungen der Speicherung nach § 11 Abs. 1 Satz 1 erfüllt sind. Liegen diese Voraussetzungen nicht mehr vor, bleibt eine Übermittlung nur zulässig, wenn sie zur Abwehr einer erheblichen Gefahr oder zur Verfolgung einer Straftat von erheblicher Bedeutung erforderlich ist.
+Das Bundesamt für Verfassungsschutz darf personenbezogene Daten, die sich auf das Verhalten Minderjähriger beziehen, vorbehaltlich der Sätze 2 und 3 nicht übermitteln. Es darf die personenbezogenen Daten nur übermitteln, wenn eine Weiterverarbeitung für die Vorbereitung oder Durchführung belastender Maßnahmen mit unmittelbarer Außenwirkung für die betroffene Person ausgeschlossen ist, bei einer Übermittlung nach § 22a Satz 1 Nummer 3 beschränkt auf dessen Buchstaben e bis g. Im Übrigen darf es personenbezogene Daten nur übermitteln in Bezug auf eine minderjährige Person, die
 
-(2) Informationen einschließlich personenbezogener Daten über das Verhalten Minderjähriger vor Vollendung des 16. Lebensjahres dürfen nach den Vorschriften dieses Gesetzes nicht an ausländische sowie über- oder zwischenstaatliche Stellen übermittelt werden. Abweichend hiervon dürfen Informationen einschließlich personenbezogener Daten über das Verhalten Minderjähriger, die das 14. Lebensjahr vollendet haben, übermittelt werden, wenn nach den Umständen des Einzelfalls nicht ausgeschlossen werden kann, dass die Übermittlung zur Abwehr einer erheblichen Gefahr für Leib oder Leben einer Person erforderlich ist oder tatsächliche Anhaltspunkte dafür vorliegen, dass die Übermittlung zur Verfolgung einer der in § 3 Abs. 1 des Artikel 10-Gesetzes genannten Straftaten erforderlich ist.
+1. mindestens 14 Jahre alt ist,
 
-# § 25 – Pflichten des Empfängers
+a) zur Abwehr einer Gefahr nach § 19 Absatz 1 Satz 1,
 
-Der Empfänger prüft, ob die nach den Vorschriften dieses Gesetzes übermittelten personenbezogenen Daten für die Erfüllung seiner Aufgaben erforderlich sind. Ergibt die Prüfung, daß sie nicht erforderlich sind, hat er die Unterlagen zu vernichten. Die Vernichtung kann unterbleiben, wenn die Trennung von anderen Informationen, die zur Erfüllung der Aufgaben erforderlich sind, nicht oder nur mit unvertretbarem Aufwand möglich ist; in diesem Fall ist die Verarbeitung der Daten einzuschränken.
+b) zum administrativen Rechtsgüterschutz nach § 20 Absatz 1 Nummer 1 und 8 oder
+
+c) zur Verfolgung einer besonders schweren Straftat nach § 21,
+
+2. noch nicht 14 Jahre alt ist, wenn nach den Umständen des Einzelfalls nicht ausgeschlossen werden kann, dass von der minderjährigen Person eine Gefahr ausgeht für
+
+a) Leib oder Leben einer Person oder
+
+b) Einrichtungen der Bundesrepublik Deutschland, der Europäischen Union oder des Nordatlantikvertrages.
+
+# § 25 – Weiterverarbeitung durch den Empfänger
+
+(1) Der Empfänger prüft, ob die nach den §§ 19 bis 22a übermittelten personenbezogenen Daten für die Erfüllung seiner Aufgaben erforderlich sind. Ergibt die Prüfung, dass die Daten nicht erforderlich sind, hat er sie zu löschen. Die Löschung kann unterbleiben, wenn die Trennung von anderen Informationen, die zur Erfüllung der Aufgaben erforderlich sind, nicht oder nur mit unvertretbarem Aufwand möglich ist. Der Empfänger darf diese weiteren Daten jedoch nicht nutzen.
+
+(2) Der Empfänger darf die übermittelten Daten, soweit gesetzlich nichts anderes bestimmt ist, nur verarbeiten
+
+1. zu dem Zweck, zu dem sie ihm übermittelt wurden, oder
+
+2. zu einem anderen Zweck, wenn sie ihm auch zu diesem Zweck übermittelt werden dürften unter der Voraussetzung, dass das Bundesamt für Verfassungsschutz der Verarbeitung zu dem abgeänderten Zweck für den Einzelfall oder eine Reihe gleichgelagerter Fälle zustimmt.
+
+Das Bundesamt für den Verfassungsschutz hat den Empfänger auf den Zweck der Übermittlung und die Zweckbindung nach Satz 1 hinzuweisen. Dies gilt nicht für Übermittlungen im Rahmen verdeckter Ermittlungen. Der Empfänger ist verpflichtet, dem Bundesamt für Verfassungsschutz auf dessen Verlangen Auskunft über die weitere Verarbeitung zu geben.
+
+(3) Hat die Übermittlung personenbezogener Daten in einem Verfahren zur vorbeugenden Personenüberprüfung nachteilige Folgen für die betroffene Person, so schließt das Auskunftsrecht der betroffenen Person auch das Recht auf Auskunft ein, dass die Folge durch eine Übermittlung des Bundesamtes für Verfassungsschutz veranlasst ist.
+
+# § 25a – Übermittlung an ausländische sowie über- und zwischenstaatliche Stellen
+
+(1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an ausländische öffentliche Stellen sowie an über- und zwischenstaatliche Stellen zur Weiterverarbeitung ohne Folgemaßnahmen mit unmittelbarer Außenwirkung übermitteln, wenn dies auf Grund tatsächlicher Anhaltspunkte im Einzelfall zum Schutz der Schutzgüter nach § 19 Absatz 3 oder zum Schutz der Sicherheit eines anderen Staates oder einer über- und zwischenstaatlichen Einrichtung erforderlich ist. Eine Übermittlung zum Schutz eines anderen Staates oder zur Aufklärung von Staatsschutzdelikten, die gegen einen anderen Staat begangen worden sind, ist unbeschadet des Absatzes 2 nur zulässig, wenn dort die grundlegenden demokratischen und rechtsstaatlichen Prinzipien sowie die elementaren Menschenrechte gewährleistet sind.
+
+(2) Die Übermittlung unterbleibt, wenn folgende Belange entgegenstehen:
+
+1. besondere gesetzliche Regelungen zur Verarbeitung personenbezogener Daten oder
+
+2. wesentliche auswärtige Belange der Bundesrepublik Deutschland oder
+
+3. überwiegende schutzwürdige Interessen einer Person.
+
+Überwiegende schutzwürdige Interessen stehen insbesondere entgegen, wenn Leib, Leben oder Freiheit einer Person oder sonstige elementare Menschenrechte gefährdet würden oder Verletzungen von elementaren rechtsstaatlichen Grundsätzen drohen. Bei der Prüfung, ob eine Übermittlung zu unterbleiben hat, berücksichtigt das Bundesamt für Verfassungsschutz insbesondere den bisherigen Umgang des Empfängers mit übermittelten Daten und die Gewährleistung eines zum Schutz der Menschenrechte angemessenen Datenschutzes. Ein die elementaren Menschenrechte wahrender Umgang mit den übermittelten Daten ist insbesondere dann nicht gewährleistet, wenn zu besorgen ist, dass die Daten zu politischer Verfolgung oder zu unmenschlicher oder erniedrigender Bestrafung oder Behandlung verwendet werden. Verbleiben auf Grund der Einschätzung Zweifel an der Vereinbarkeit der Übermittlung mit den Anforderungen nach Nummer 3, so dürfen die Daten nur auf der Grundlage einer belastbaren verbindlichen Zusicherung des Empfängers und nur mit Zustimmung des Bundesministeriums des Innern und für Heimat übermittelt werden.
+
+(3) Die übermittelten personenbezogenen Daten dürfen
+
+1. nur zu dem Zweck, zu dem sie ihm übermittelt wurden, und
+
+2. unbeschadet des Absatzes 4 nicht für Folgemaßnahmen mit unmittelbarer Außenwirkung zu Lasten der betroffenen Person
+
+weiterverarbeitet werden. Das Bundesamt für Verfassungsschutz hat den Empfänger hierauf hinzuweisen. Es hat ihn ferner darauf hinzuweisen, dass es sich vorbehält, um Auskunft über die vorgenommene Verwendung der Daten zu bitten.
+
+(4) Das Bundesamt für Verfassungsschutz darf einer Verwendung der personenbezogenen Daten für Maßnahmen mit unmittelbarer Außenwirkung zu Lasten der betroffenen Person zustimmen
+
+1. zur Abwehr einer zumindest konkretisierten Gefahr für ein Schutzgut, dessen Gewicht den Schutzgütern nach § 19 Absatz 3 entspricht,
+
+2. zum administrativen Rechtsgüterschutz in Verfahren, die den in § 20 Absatz 1 benannten entsprechen,
+
+3. auf Grund eines durch bestimmte Tatsachen begründeten Verdachts zur Verfolgung einer besonders schweren Straftat, deren Gewicht den Straftaten nach § 21 Absatz 2 entspricht.
+
+(5) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten, die sich auf das Verhalten Minderjähriger beziehen, vorbehaltlich der Sätze 2 bis 4 nicht übermitteln. Personenbezogene Daten einer minderjährigen Person, die mindestens 16 Jahre alt ist, darf das Bundesamt für Verfassungsschutz nur unter den Voraussetzungen des § 24 Absatz 1 Satz 3 Nummer 1 Buchstabe a und c übermitteln, zur Strafverfolgung jedoch nur bei dringendem Tatverdacht. Personenbezogene Daten einer minderjährigen Person, die noch nicht 16 Jahre alt ist, darf es nur übermitteln, wenn nach den Umständen des Einzelfalls nicht ausgeschlossen werden kann, dass von der minderjährigen Person eine Gefahr ausgeht für
+
+1. Leib oder Leben einer Person oder
+
+2. Einrichtungen der Bundesrepublik Deutschland, der Europäischen Union oder des Nordatlantikvertrages.
+
+Bei einer Übermittlung an einen Staat, der unmittelbar an die Bundesrepublik Deutschland angrenzt oder Mitgliedstaat der Europäischen Union oder des Nordatlantikvertrages ist, ist § 24 entsprechend anzuwenden.
+
+(6) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an eine nichtöffentliche Stelle im Ausland übermitteln, wenn dies auf Grund tatsächlicher Anhaltspunkte im Einzelfall zur Abwehr einer dringenden Gefahr für ein Schutzgut nach § 19 Absatz 3 Nummer 4 unerlässlich ist und überwiegende schutzwürdige Interessen der betroffenen Person nach § 23 Absatz 1 Satz 1 Nummer 2 nicht entgegenstehen.
+
+(7) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten auch an inländische Stellen übermitteln, wenn dies zur Vorbereitung einer Übermittlung nach den vorstehenden Absätzen erforderlich ist. § 25 Absatz 2 ist anzuwenden.
+
+# § 25b – Übermittlung zum Schutz der betroffenen Person
+
+Das Bundesamt für Verfassungsschutz darf personenbezogene Daten auch übermitteln, wenn offensichtlich ist, dass die Übermittlung im Interesse der betroffenen Person liegt, deren Einwilligung nicht oder nicht rechtzeitig eingeholt werden kann und kein Grund zu der Annahme besteht, dass sie in Kenntnis der Übermittlung ihre Einwilligung verweigern würde. Es darf personenbezogene Daten insbesondere für Zwecke der Jugendhilfe übermitteln.
+
+# § 25c – Weitere Verfahrensregelungen
+
+(1) Das Bundesamt für Verfassungsschutz protokolliert den Empfänger, die Rechtsgrundlage sowie den Zeitpunkt der Übermittlung. Die Protokolldaten müssen danach auswertbar sein, ob die Übermittlung nach den §§ 19, 20, 21, 22, 22a oder § 25a erfolgt ist. Das Bundesamt für Verfassungsschutz darf Protokolldaten, die ausschließlich zu Zwecken der Datenschutzkontrolle gespeichert werden, nur für diesen Zweck verarbeiten. Die Protokolldaten sind bis zum Ablauf des zweiten Kalenderjahres, das auf das Kalenderjahr der Protokollierung folgt, aufzubewahren und nach Ablauf dieser Aufbewahrungsfrist unverzüglich zu löschen.
+
+(2) Sind mit personenbezogenen Daten, die übermittelt werden dürfen, weitere Daten der betroffenen Person oder eines Dritten so verbunden, dass eine Trennung nicht oder nur mit unverhältnismäßigem Aufwand möglich ist, ist die Übermittlung auch dieser Daten zulässig, soweit nicht berechtigte Interessen der betroffenen Person oder eines Dritten an der Geheimhaltung offensichtlich überwiegen. Der Empfänger darf diese Daten nicht nutzen.
+
+(3) Eine Übermittlung an nichtöffentliche Stellen bedarf der Zustimmung der Amtsleitung des Bundesamtes für Verfassungsschutz. Für Übermittlungen an inländische nichtöffentliche Stellen kann die Zustimmung auch allgemein für gleichgelagerte Fälle erfolgen. Die Übermittlung ist dem Betroffenen durch das Bundesamt für Verfassungsschutz mitzuteilen, sobald eine Gefährdung seiner Aufgabenerfüllung durch die Mitteilung nicht mehr zu besorgen ist.
+
+(+++ § 25c Abs. 1 Satz 2 Kursivdruck: Tritt am 1.1.2025 in Kraft +++)
+
+# § 25d – Übermittlung von personenbezogenen Daten aus allgemein zugänglichen Quellen
+
+(1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten, die es aus allgemein zugänglichen Quellen erhoben hat, einer anderen Stelle übermitteln, wenn dies erforderlich ist
+
+1. zur Erfüllung seiner Aufgaben oder
+
+2. der Aufgaben der empfangenden Stelle.
+
+Eine automatisierte Übermittlung ist zulässig.
+
+(2) Absatz 1 gilt nicht für personenbezogene Daten, die aus allgemein zugänglichen Quellen systematisch erhoben oder zusammengeführt wurden. Die Übermittlung richtet sich in diesen Fällen nach den §§ 19 bis 25c.
 
 # § 26 – Nachberichtspflicht
 
 Erweisen sich personenbezogene Daten nach ihrer Übermittlung nach den Vorschriften dieses Gesetzes als unvollständig oder unrichtig, so sind sie unverzüglich gegenüber dem Empfänger zu berichtigen, es sei denn, daß dies für die Beurteilung eines Sachverhalts ohne Bedeutung ist.
+
+# § 26a – Übermittlung durch Landesverfassungsschutzbehörden an Strafverfolgungs- und Sicherheitsbehörden
+
+(1) Die Verfassungsschutzbehörden der Länder übermitteln den Staatsanwaltschaften und, vorbehaltlich der staatsanwaltschaftlichen Sachleitungsbefugnis, den Polizeien personenbezogene Daten unter den Voraussetzungen des § 19 Absatz 1 Satz 2 und des § 21. Auf die Übermittlung von Informationen zwischen Behörden desselben Bundeslandes findet Satz 1 keine Anwendung.
+
+(2) Die Verfassungsschutzbehörden der Länder übermitteln dem Bundesnachrichtendienst personenbezogene Daten unter den Voraussetzungen des § 22 Absatz 2.
+
+# § 26b – Besondere Eigensicherungsbefugnisse
+
+(1) Die Eigensicherung dient dem Schutz der Beschäftigten, Einrichtungen, Gegenstände, Quellen und amtlichen Informationen des Bundesamtes für Verfassungsschutz gegen sicherheitsgefährdende oder geheimdienstliche Tätigkeiten. Das Bundesamt für Verfassungsschutz hat hierzu besondere Befugnisse nach Maßgabe der folgenden Absätze.
+
+(2) Das Bundesamt für Verfassungsschutz darf bei Personen, die seine Dienststellen, Grundstücke und sonstigen Einrichtungen (Eigensicherungsbereich) betreten oder sich dort aufhalten, und von diesen Personen mitgeführte Taschen und sonstige Gegenstände sowie von diesen Personen genutzte Fahrzeuge
+
+1. verdachtsunabhängig kontrollieren,
+
+2. durchsuchen, wenn tatsächliche Anhaltspunkte für sicherheitsgefährdende oder geheimdienstliche Tätigkeiten vorliegen.
+
+(3) Eine Kontrolle nach Absatz 2 Nummer 1 ist die oberflächliche Suche nach Gegenständen an Personen, an oder in Taschen, mitgeführten Gegenständen und Fahrzeugen auch unter Einsatz technischer Mittel, ohne dass ein Körperkontakt mit der betroffenen Person stattfindet. Eine Durchsuchung nach Absatz 2 Nummer 2 ist die zielgerichtete und planmäßige Suche, auch unter Einsatz technischer Mittel,
+
+1. am äußeren Körper der betroffenen Person,
+
+2. in Kleidung und Taschen der betroffenen Person,
+
+3. an und in Fahrzeugen einschließlich der dort befindlichen Gegenstände der betroffenen Person sowie
+
+4. in sonstigen Gegenständen der betroffenen Person, die zur unbefugten Verbringung von amtlichen Informationen geeignet sind.
+
+(4) Gegenstände, die sich im Eigensicherungsbereich befinden, darf das Bundesamt für Verfassungsschutz sicherstellen und untersuchen, wenn
+
+1. tatsächliche Anhaltspunkte dafür vorliegen, dass sie für eine sicherheitsgefährdende oder geheimdienstliche Tätigkeit verwendet werden oder mit solchen Tätigkeiten gewonnen worden sind, oder
+
+2. diese keiner bestimmten Person zuzuordnen sind und die Sicherstellung und Untersuchung zum Schutz vor einer sicherheitsgefährdenden oder geheimdienstlichen Tätigkeit erforderlich ist.
+
+Bei Geräten der Informations- und Kommunikationstechnik umfasst das Untersuchen auch das Eingreifen mit technischen Mitteln sowie das Verarbeiten der auf dem Gerät gespeicherten Informationen einschließlich personenbezogener Daten.
+
+(5) Personen, die sich im Eigensicherungsbereich aufhalten, sind verpflichtet an Maßnahmen nach den Absätzen 2 und 4 mitzuwirken. Entziehen sich Personen Maßnahmen nach den Absätzen 2 und 4 im Eigensicherungsbereich, darf das Bundesamt für Verfassungsschutz die Maßnahmen auch noch in unmittelbarer Nähe des Eigensicherungsbereichs vornehmen.
+
+(6) Das Bundesamt für Verfassungsschutz darf optisch-elektronische Einrichtungen zur offenen Überwachung des Eigensicherungsbereichs nach Maßgabe einer Dienstvorschrift einsetzen. In der Dienstvorschrift sind die Voraussetzungen, das Verfahren und Grenzen der Maßnahme zu regeln. Eine Überwachung höchstpersönlich genutzter Räume ist unzulässig.
+
+(7) Das Bundesamt für Verfassungsschutz kann eine nach § 21h Absatz 3 Nummer 4 der Luftverkehrs-Ordnung unzulässige Benutzung des Luftraums seines Eigensicherungsbereichs durch unbemannte Fluggeräte durch geeignete technische Mittel gegen das unbemannte Fluggerät, dessen Steuerungseinheit oder Steuerungsverbindung aufklären und abwehren.
+
+(8) Das Bundesamt für Verfassungsschutz darf die besonderen Mittel nach den §§ 8a, 8d und 9 Absatz 1 und 4 sowie den §§ 9a und 9b unter den dort genannten Voraussetzungen auch einsetzen, soweit dies auf Grund tatsächlicher Anhaltspunkte im Einzelfall erforderlich ist zur Aufklärung von sicherheitsgefährdenden Tätigkeiten
+
+1. seiner Beschäftigten oder
+
+2. von Personen, die vom Bundesamt für Verfassungsschutz beauftragt sind
+
+a) im Eigensicherungsbereich tätig zu sein oder
+
+b) sonstige sicherheitsempfindliche Tätigkeiten wahrzunehmen.
+
+(9) Bei der Durchführung von Maßnahmen nach den Absätzen 2 sowie 4 bis 8 hat das Bundesamt für Verfassungsschutz unter mehreren möglichen und geeigneten Maßnahmen diejenigen zu treffen, die den Einzelnen am wenigsten beeinträchtigen. Eine Maßnahme darf nicht zu einem Nachteil führen, der zu dem erstrebten Erfolg erkennbar außer Verhältnis steht.
+
+# § 26c – Verfahren; Kernbereichsschutz
+
+(1) Maßnahmen nach § 26b Absatz 2 Nummer 2 und Absatz 4 bedürfen der Anordnung der für die Eigensicherung zuständigen Abteilungsleitung oder einer von ihr bestimmten Vertretung. Maßnahmen nach § 26b Absatz 6 bedürfen der Anordnung der Amtsleitung oder einer von ihr bestimmten Vertretung.
+
+(2) Ist eine Anordnung nach Absatz 1 Satz 1 auf Grund besonderer Eilbedürftigkeit nicht rechtzeitig zu erlangen, kann die Maßnahme auch ohne vorherige Anordnung durchgeführt werden, wenn ansonsten der Zweck der Maßnahme vereitelt oder wesentlich erschwert würde. Bei Geräten der Informations- und Kommunikationstechnik darf in diesem Fall lediglich das Gerät sichergestellt werden. Die Anordnung ist unverzüglich nachzuholen. Wird die Anordnung nach Absatz 1 Satz 1 nicht nachgeholt, so hat das Bundesamt für Verfassungsschutz unverzüglich bereits erhobene Daten zu löschen und sichergestellte Gegenstände an die betroffene Person herauszugeben.
+
+(3) Sichergestellte Gegenstände sind unverzüglich an die betroffene Person herauszugeben, sobald der Zweck der Eigensicherung entfällt. Satz 1 gilt nicht, wenn die Gegenstände zur Einleitung oder Durchführung eines strafrechtlichen Ermittlungsverfahrens an die Strafverfolgungsbehörden weitergegeben werden müssen.
+
+(4) Bei Maßnahmen nach § 26b Absatz 2 Nummer 2 hat die betroffene Person das Recht, anwesend zu sein. Über eine Durchsuchung nach § 26b Absatz 2 Nummer 2 oder eine Sicherstellung nach § 26b Absatz 4 Satz 1 ist auf Verlangen eine Bescheinigung über die Maßnahme und den Grund der Maßnahme zu erteilen. Maßnahmen nach § 26b Absatz 4, die in Abwesenheit der betroffenen Person durchgeführt worden sind, sind ihr schriftlich mitzuteilen, wenn hierdurch nicht der Zweck der Maßnahme gefährdet wird.
+
+(5) Bei der Untersuchung von Geräten der Informations- und Kommunikationstechnik, die nicht ausschließlich zur dienstlichen Nutzung überlassen wurden, ist sicherzustellen, dass an dem Gerät nur Veränderungen vorgenommen werden, die für die Datenverarbeitung unerlässlich sind. Vorgenommene Veränderungen sind bei Beendigung der Maßnahme, soweit technisch möglich, rückgängig zu machen. Sichergestellte Telekommunikationsendgeräte sind abweichend von Absatz 3 Satz 1 unabhängig von dem Abschluss der Maßnahmen nach § 26b Absatz 4 an die betroffene Person spätestens nach zwei Wochen herauszugeben. Macht die betroffene Person in den Fällen des Satzes 3 Gründe glaubhaft, nach denen für sie eine Aufrechterhaltung der Sicherstellung nicht zumutbar ist, so ist das mobile Endgerät innerhalb von 48 Stunden nach Darlegung der Gründe an die betroffene Person zurückzugeben. Das Bundesamt für Verfassungsschutz darf vor der Rückgabe ein Abbild der auf dem Gerät gespeicherten Informationen einschließlich personenbezogener Daten zur Datensicherung erzeugen.
+
+(6) Die Datenerhebung zum Zweck der Erlangung von Erkenntnissen über den Kernbereich privater Lebensgestaltung ist unzulässig. Das Bundesamt für Verfassungsschutz darf Erkenntnisse, die den Kernbereich privater Lebensgestaltung berühren, nicht verarbeiten, weitergeben oder in anderer Weise nutzen. Das Bundesamt für Verfassungsschutz hat, soweit möglich, technisch oder auf sonstige Weise sicherzustellen, dass Erkenntnisse, die den Kernbereich privater Lebensgestaltung berühren, nicht erlangt werden. Soweit Erkenntnisse erlangt wurden, die den Kernbereich privater Lebensgestaltung betreffen, sind diese Daten unverzüglich zu löschen. Die Tatsache ihrer Erlangung und Löschung ist zu dokumentieren. Die Dokumentation darf ausschließlich für Zwecke der Datenschutzkontrolle verwendet werden. Sie ist nach Ablauf von sechs Monaten zu löschen.
+
+(7) Das Bundesamt für Verfassungsschutz kann zur Durchsetzung von Maßnahmen gegenüber Personen, die nach § 26b Absatz 5 mitwirkungspflichtig sind, folgende Mittel anwenden:
+
+1. unmittelbare Einwirkung auf die betroffene Person oder Gegenstände (körperliche Gewalt) oder Hilfsmittel der körperlichen Gewalt; eine Fesselung der betroffenen Person ist nur dann zulässig, wenn Tatsachen die Annahme rechtfertigen, dass sie die mit der Durchsetzung der Maßnahme beauftragten Personen oder Dritte angreifen, Widerstand leisten oder sich der Kontrolle entziehen wird,
+
+2. unmittelbare Einwirkung auf Gegenstände mittels körperlicher Gewalt oder durch Hilfsmittel der körperlichen Gewalt.
+
+Mittel nach Satz 1 dürfen nur durch besonders qualifizierte und geschulte Personen angewandt werden, die durch die Behördenleitung des Bundesamtes für Verfassungsschutz hierzu besonders ermächtigt wurden. Das Grundrecht auf körperliche Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) und Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes) wird insoweit eingeschränkt.
+
+(8) Widerspruch und Anfechtungsklage gegen Maßnahmen nach § 26b haben keine aufschiebende Wirkung.
 
 # § 27 – Anwendung des Bundesdatenschutzgesetzes
 
