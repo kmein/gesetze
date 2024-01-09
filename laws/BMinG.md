@@ -125,8 +125,8 @@ und zwar der Bundeskanzler von
 
 |                                 |            |
 |:--------------------------------|-----------:|
-| jährlich                        | 24.000 DM, |
-| die Bundesminister von jährlich |  7.200 DM, |
+| jährlich                        | 24 000 DM, |
+| die Bundesminister von jährlich |  7 200 DM, |
 
 d) bei Unmöglichkeit der Verlegung des eigenen Hausstandes nach dem Sitz der Bundesregierung für die Dauer seiner Fortführung am bisherigen Wohnort eine Entschädigung von
 
@@ -134,7 +134,7 @@ d) bei Unmöglichkeit der Verlegung des eigenen Hausstandes nach dem Sitz der Bu
 
 |          |           |
 |:---------|:----------|
-| jährlich | 3.600 DM. |
+| jährlich | 3 600 DM. |
 
   
 Die Amtsbezüge werden monatlich im voraus gezahlt.
@@ -144,6 +144,12 @@ Die Amtsbezüge werden monatlich im voraus gezahlt.
 (3) Wird ein Mitglied der Bundesregierung nach Artikel 69 Abs. 3 des Grundgesetzes ersucht, die Geschäfte weiterzuführen, so werden die Amtsbezüge bis zum Schluß des Kalendermonats weitergewährt, in dem die Geschäftsführung endet.
 
 (4) § 83a des Bundesbeamtengesetzes einschließlich der dazu ergangenen Übergangsvorschriften und § 87a des Bundesbeamtengesetzes sind sinngemäß anzuwenden.
+
+(5) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise werden den Mitgliedern der Bundesregierung in entsprechender Anwendung des § 14 Absatz 4 bis 8 des Bundesbesoldungsgesetzes die folgenden Sonderzahlungen gewährt:
+
+1. für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240 Euro sowie
+
+2. für die Monate Juli 2023 bis Februar 2024 eine monatliche Sonderzahlung in Höhe von jeweils 220 Euro.
 
 § 11 Abs. 4 Kursivdruck: Aufgeh. durch Art. IV § 1 Nr. 9 G v. 23.5.1975 I 1173 mWv 1.7.1975; vgl. jetzt § 8 Bundesbesoldungsgesetz 2032-1
 

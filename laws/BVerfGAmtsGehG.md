@@ -5,6 +5,12 @@
 
 (1) Die Mitglieder des Bundesverfassungsgerichts erhalten als Amtsgehalt (Dienstbezüge) ein Grundgehalt und einen Familienzuschlag entsprechend den §§ 39 bis 41 des Bundesbesoldungsgesetzes. Neben dem Amtsgehalt wird dem Präsidenten und dem Vizepräsidenten des Bundesverfassungsgerichts eine Dienstaufwandsentschädigung gewährt.
 
+(1a) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise werden den Mitgliedern des Bundesverfassungsgerichts in entsprechender Anwendung des § 14 Absatz 4 bis 8 des Bundesbesoldungsgesetzes die folgenden Sonderzahlungen gewährt:
+
+1. für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240 Euro und
+
+2. für die Monate Juli 2023 bis Februar 2024 eine monatliche Sonderzahlung in Höhe von jeweils 220 Euro.
+
 (2) Im übrigen gelten die allgemeinen besoldungsrechtlichen und beihilferechtlichen Vorschriften, soweit nicht das Gesetz über das Bundesverfassungsgericht besondere Vorschriften enthält.
 
 # § 1a

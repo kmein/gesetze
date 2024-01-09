@@ -85,7 +85,7 @@ Für Personen ohne eigenes Einkommen, die nach § 4 der Bundesbeihilfeverordnung
 
 # § 7 – Anpassung des Wehrsoldes
 
-Im Fall einer Besoldungsanpassung nach § 14 Absatz 1 des Bundesbesoldungsgesetzes erhöhen oder verringern sich der Wehrsoldgrundbetrag, der Kinderzuschlag und die Auslandsvergütung um denselben Prozentsatz, um den das Grundgehalt, der Familienzuschlag und der Auslandszuschlag für eine dienstgradgleiche Soldatin auf Zeit oder einen dienstgradgleichen Soldaten auf Zeit erhöht oder verringert werden. Das Bundesministerium der Verteidigung macht die jeweils geltenden Monatsbeträge im Bundesgesetzblatt bekannt.
+Im Fall einer Besoldungsanpassung nach § 14 Absatz 1 des Bundesbesoldungsgesetzes erhöhen oder verringern sich der Wehrsoldgrundbetrag, der Kinderzuschlag und die Auslandsvergütung im gleichen Umfang, um den das Grundgehalt, der Familienzuschlag und der Auslandszuschlag für eine dienstgradgleiche Soldatin auf Zeit oder einen dienstgradgleichen Soldaten auf Zeit erhöht oder verringert werden. Das Bundesministerium der Verteidigung macht die jeweils geltenden Monatsbeträge im Bundesgesetzblatt bekannt.
 
 # § 8 – Entlassungsgeld
 
@@ -173,29 +173,35 @@ Geldbezüge nach den §§ 4, 6, 9, 10 und 11 unterliegen dem Kaufkraftausgleich 
 
 (3) Als Verpflegungsgeld für eine Mahlzeit erhalten sie den entsprechenden Teiltagessatz. Bei Dienstgeschäften im Inland gelten die §§ 3 und 4 der Trennungsgeldverordnung und bei Dienstgeschäften im Ausland die §§ 7 und 12 Absatz 7 der Auslandstrennungsgeldverordnung entsprechend.
 
-# § 18 – Übergangsregelung
+# § 18 – (weggefallen)
 
-Soldatinnen und Soldaten, deren Wehrdienst vor dem 1. Januar 2020 begonnen hat, erhalten eine Ausgleichszahlung, wenn sich die ihnen zustehenden Leistungen aus Anlass der Neufassung des Wehrsoldgesetzes ab dem 1. Januar 2020 verringern. Der Ausgleichsbetrag berechnet sich aus der Differenz zwischen der Summe der Beträge aus:
+# § 19 – Sonderzahlungen zur Abmilderung der Folgen gestiegener Verbraucherpreise im Jahr 2023
 
-1. dem Wehrsold nach § 2 Absatz 1 und § 8c des Wehrsoldgesetzes in der bis zum 31. Dezember 2019 geltenden Fassung,
+(1) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise werden die folgenden Sonderzahlungen unter den Voraussetzungen der Absätze 2 und 3 gewährt:
 
-2. einer Leistung nach § 13 des Unterhaltssicherungsgesetzes in der bis zum 31. Dezember 2019 geltenden Fassung,
+1. für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240 Euro sowie
 
-3. einer Leistung nach den §§ 17 und 22 des Unterhaltssicherungsgesetzes in der bis zum 31. Dezember 2019 geltenden Fassung,
+2. für die Monate Juli 2023 bis Februar 2024 eine monatliche Sonderzahlung in Höhe von jeweils 220 Euro.
 
-4. einer Leistung nach § 13 des Unterhaltssicherungsgesetzes und einer Leistung nach den §§ 17 und 22 des Unterhaltssicherungsgesetzes in der jeweils bis zum 31. Dezember 2019 geltenden Fassung
+(2) Die Sonderzahlung für den Monat Juni 2023 wird nur gewährt, wenn
 
-und dem Wehrsold nach § 4 in der seit dem 1. Januar 2020 geltenden Fassung. Der Anspruch auf die Ausgleichszulage endet, wenn die Voraussetzungen für die aufgeführten Leistungen nach der jeweils genannten Vorschrift entfallen und der Gesamtbetrag dieser Leistungen den Betrag des Wehrsoldes nach § 4 nicht mehr übersteigt.
+1. das Wehrdienstverhältnis am 1. Mai 2023 bestanden hat und
 
-# § 19 – Sonderzahlung für das Jahr 2020
+2. mindestens an einem Tag im Zeitraum vom 1. Januar 2023 bis 31. Mai 2023 ein Anspruch auf Wehrsold bestanden hat.
 
-Zur Abmilderung der zusätzlichen Belastung durch die COVID-19-Pandemie im Jahr 2020 wird eine einmalige Sonderzahlung in Höhe von 600 Euro gewährt, wenn
+(3) Die Sonderzahlungen für die Monate Juli 2023 bis Februar 2024 werden nur gewährt, wenn
 
-1. das Wehrdienstverhältnis am 1. Oktober 2020 bestanden hat und
+1. das Wehrdienstverhältnis in dem jeweiligen Monat besteht und
 
-2. mindestens an einem Tag zwischen dem 1. März 2020 und dem 31. Oktober 2020 ein Anspruch auf Wehrsold bestanden hat.
+2. mindestens an einem Tag in dem jeweiligen Monat ein Anspruch auf Wehrsold besteht.
 
-§ 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend. Maßgebend sind jeweils die Verhältnisse am 1. Oktober 2020. Die Zahlung wird jedem Berechtigten nur einmal gewährt; ihr steht eine entsprechende Leistung aus einem anderen Rechtsverhältnis im öffentlichen Dienst des Bundes gleich. Die Zahlung bleibt bei sonstigen Bezügen unberücksichtigt.
+(4) § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend. Maßgebend sind jeweils
+
+1. für die einmalige Sonderzahlung für den Monat Juni 2023 die Verhältnisse am 1. Mai 2023,
+
+2. für die Sonderzahlungen für die Monate Juli 2023 bis Februar 2024 die jeweiligen Verhältnisse am ersten Tag des jeweiligen Monats.
+
+(5) Den Sonderzahlungen nach Absatz 1 stehen entsprechende Leistungen aus einem anderen Rechtsverhältnis im öffentlichen Dienst des Bundes gleich und werden jedem Berechtigten nur einmal gewährt.
 
 # Anlage – (zu den §§ 4 und 6)Wehrsoldgrundbetrag, Kinderzuschlag, Auslandsvergütung
 
