@@ -3316,7 +3316,7 @@ einen Internationalen Jugendfreiwilligendienst im Sinne der Richtlinie des Bunde
 
 für einen der Dauer dieser Dienste oder der Tätigkeit entsprechenden Zeitraum, höchstens für die Dauer des inländischen gesetzlichen Grundwehrdienstes oder bei anerkannten Kriegsdienstverweigerern für die Dauer des inländischen gesetzlichen Zivildienstes über das 21. oder 25. Lebensjahr hinaus berücksichtigt. ²Wird der gesetzliche Grundwehrdienst oder Zivildienst in einem Mitgliedstaat der Europäischen Union oder einem Staat, auf den das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet, geleistet, so ist die Dauer dieses Dienstes maßgebend. ³Absatz 4 Satz 2 und 3 gilt entsprechend.
 
-(6) ¹Bei der Veranlagung zur Einkommensteuer wird für jedes zu berücksichtigende Kind des Steuerpflichtigen ein Freibetrag von 3 012 Euro für das sächliche Existenzminimum des Kindes (Kinderfreibetrag) sowie ein Freibetrag von 1 464 Euro für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf des Kindes vom Einkommen abgezogen. ²Bei Ehegatten, die nach den §§ 26, 26b zusammen zur Einkommensteuer veranlagt werden, verdoppeln sich die Beträge nach Satz 1, wenn das Kind zu beiden Ehegatten in einem Kindschaftsverhältnis steht. ³Die Beträge nach Satz 2 stehen dem Steuerpflichtigen auch dann zu, wenn
+(6) ¹Bei der Veranlagung zur Einkommensteuer wird für jedes zu berücksichtigende Kind des Steuerpflichtigen ein Freibetrag von 3 192 Euro für das sächliche Existenzminimum des Kindes (Kinderfreibetrag) sowie ein Freibetrag von 1 464 Euro für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf des Kindes vom Einkommen abgezogen. ²Bei Ehegatten, die nach den §§ 26, 26b zusammen zur Einkommensteuer veranlagt werden, verdoppeln sich die Beträge nach Satz 1, wenn das Kind zu beiden Ehegatten in einem Kindschaftsverhältnis steht. ³Die Beträge nach Satz 2 stehen dem Steuerpflichtigen auch dann zu, wenn
 
 1. der andere Elternteil verstorben oder nicht unbeschränkt einkommensteuerpflichtig ist oder
 
@@ -3328,29 +3328,29 @@ für einen der Dauer dieser Dienste oder der Tätigkeit entsprechenden Zeitraum,
 
 # § 32a – Einkommensteuertarif
 
-(1) ¹Die tarifliche Einkommensteuer bemisst sich nach dem auf volle Euro abgerundeten zu versteuernden Einkommen. ²Sie beträgt im Veranlagungszeitraum 2023 vorbehaltlich der §§ 32b, 32d, 34, 34a, 34b und 34c jeweils in Euro für zu versteuernde Einkommen
+(1) ¹Die tarifliche Einkommensteuer bemisst sich nach dem auf volle Euro abgerundeten zu versteuernden Einkommen. ²Sie beträgt ab dem Veranlagungszeitraum 2024 vorbehaltlich der §§ 32b, 32d, 34, 34a, 34b und 34c jeweils in Euro für zu versteuernde Einkommen
 
-1. bis 10 908 Euro (Grundfreibetrag):
+1. bis 11 604 Euro (Grundfreibetrag):
 
 0;
 
-2. von 10 909 Euro bis 15 999 Euro:
+2. von 11 605 Euro bis 17 005 Euro:
 
-(979,18 · y + 1 400) · y;
+(922,98 · y + 1 400) · y;
 
-3. von 16 000 Euro bis 62 809 Euro:
+3. von 17 006 Euro bis 66 760 Euro:
 
-(192,59 · z + 2 397) · z + 966,53;
+(181,19 · z + 2 397) · z + 1 025,38;
 
-4. von 62 810 Euro bis 277 825 Euro:
+4. von 66 761 Euro bis 277 825 Euro:
 
-0,42 · x – 9 972,98;
+0,42 · x – 10 602,13;
 
 5. von 277 826 Euro an:
 
-0,45 · x – 18 307,73.
+0,45 · x – 18 936,88.
 
-³Die Größe „y“ ist ein Zehntausendstel des den Grundfreibetrag übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. ⁴Die Größe „z“ ist ein Zehntausendstel des 15 999 Euro übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. ⁵Die Größe „x“ ist das auf einen vollen Euro-Betrag abgerundete zu versteuernde Einkommen. ⁶Der sich ergebende Steuerbetrag ist auf den nächsten vollen Euro-Betrag abzurunden.
+³Die Größe „y“ ist ein Zehntausendstel des den Grundfreibetrag übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. ⁴Die Größe „z“ ist ein Zehntausendstel des 17 005 Euro übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. ⁵Die Größe „x“ ist das auf einen vollen Euro-Betrag abgerundete zu versteuernde Einkommen. ⁶Der sich ergebende Steuerbetrag ist auf den nächsten vollen Euro-Betrag abzurunden.
 
 (2) bis (4) (weggefallen)
 
@@ -3371,7 +3371,7 @@ c) der bisherige Ehegatte und dessen neuer Ehegatte ebenfalls die Voraussetzunge
 ²Voraussetzung für die Anwendung des Satzes 1 ist, dass der Steuerpflichtige nicht nach den §§ 26, 26a einzeln zur Einkommensteuer veranlagt wird.
 
 (+++ § 32a: Zur Anwendung vgl. §§ 52 +++)  
-§ 32a Abs. 5 (F. 23.10.2000 u. ff. F.): Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 7.5.2013 I 1647 (2 BvR 909/06, 2 BvR 1981/06, 2 BvR 288/07)
+§ 32a Abs. 5 (F. 23.10.2000 u. ff. F.): Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 7.5.2013 I 1647 (2 BvR 909/06, 2 BvR 1981/06, 2 BvR 288/07); zur Umsetzung der Anforderungen des BVerfG vgl. G v. 15.7.2013 I 2397 mWv 19.7.2013
 
 # § 32b – Progressionsvorbehalt
 
@@ -4371,7 +4371,7 @@ Entschädigungen im Sinne des § 24 Nummer 1 sind bei Anwendung der Buchstaben a
 
 4. den Entlastungsbetrag für Alleinerziehende für ein Kind (§ 24b Absatz 2 Satz 1) in der Steuerklasse II,
 
-ergibt den zu versteuernden Jahresbetrag. ⁶Für den zu versteuernden Jahresbetrag ist die Jahreslohnsteuer in den Steuerklassen I, II und IV nach § 32a Absatz 1 sowie in der Steuerklasse III nach § 32a Absatz 5 zu berechnen. ⁷In den Steuerklassen V und VI ist die Jahreslohnsteuer zu berechnen, die sich aus dem Zweifachen des Unterschiedsbetrags zwischen dem Steuerbetrag für das Eineinviertelfache und dem Steuerbetrag für das Dreiviertelfache des zu versteuernden Jahresbetrags nach § 32a Absatz 1 ergibt; die Jahreslohnsteuer beträgt jedoch mindestens 14 Prozent des zu versteuernden Jahresbetrags, für den 12 485 Euro übersteigenden Teil des zu versteuernden Jahresbetrags höchstens 42 Prozent, für den 31 404 Euro übersteigenden Teil des zu versteuernden Jahresbetrags 42 Prozent und für den 222 260 Euro übersteigenden Teil des zu versteuernden Jahresbetrags 45 Prozent. ⁸Für die Lohnsteuerberechnung ist die als Lohnsteuerabzugsmerkmal mitgeteilte oder die nach § 39c Absatz 1 oder Absatz 2 oder nach § 39e Absatz 5a oder Absatz 6 Satz 8 anzuwendende Steuerklasse maßgebend. ⁹Die monatliche Lohnsteuer ist ¹/<sub>12</sub>, die wöchentliche Lohnsteuer sind ⁷/<sub>360</sub> und die tägliche Lohnsteuer ist ¹/<sub>360</sub> der Jahreslohnsteuer. ¹⁰Bruchteile eines Cents, die sich bei der Berechnung nach den Sätzen 2 und 9 ergeben, bleiben jeweils außer Ansatz. ¹¹Die auf den Lohnzahlungszeitraum entfallende Lohnsteuer ist vom Arbeitslohn einzubehalten. ¹²Das Betriebsstättenfinanzamt kann allgemein oder auf Antrag zulassen, dass die Lohnsteuer unter den Voraussetzungen des § 42b Absatz 1 nach dem voraussichtlichen Jahresarbeitslohn ermittelt wird, wenn gewährleistet ist, dass die zutreffende Jahreslohnsteuer (§ 38a Absatz 2) nicht unterschritten wird. ¹³Darüber hinaus kann das Betriebsstättenfinanzamt auf Antrag zulassen, dass bei nach § 1 Absatz 1 unbeschränkt einkommensteuerpflichtigen Arbeitnehmern mit Steuerklasse VI und ohne Freibetrag nach § 39a, die bei dem Arbeitgeber gelegentlich, nicht regelmäßig wiederkehrend beschäftigt werden und deren Dauer der Beschäftigung 24 zusammenhängende Arbeitstage nicht übersteigt, der während der Beschäftigung erzielte Arbeitslohn auf einen Jahresbetrag hochgerechnet und die sich ergebende Lohnsteuer auf den Lohnabrechnungszeitraum zurückgerechnet wird, wobei als Lohnabrechnungszeitraum der Zeitraum vom Beginn des Kalenderjahres bis zum Ende der Beschäftigung gilt. ¹⁴Bei Anwendung des Satzes 13 sind auch der im Kalenderjahr in etwaigen vorangegangenen und beendeten weiteren Dienstverhältnissen in der Steuerklasse VI bezogene Arbeitslohn und die darauf erhobene Lohnsteuer einzubeziehen, soweit dort bereits Satz 13 angewandt wurde. ¹⁵Voraussetzung für die Anwendung des Verfahrens nach Satz 13 ist zudem, dass der Arbeitnehmer vor Aufnahme der Beschäftigung
+ergibt den zu versteuernden Jahresbetrag. ⁶Für den zu versteuernden Jahresbetrag ist die Jahreslohnsteuer in den Steuerklassen I, II und IV nach § 32a Absatz 1 sowie in der Steuerklasse III nach § 32a Absatz 5 zu berechnen. ⁷In den Steuerklassen V und VI ist die Jahreslohnsteuer zu berechnen, die sich aus dem Zweifachen des Unterschiedsbetrags zwischen dem Steuerbetrag für das Eineinviertelfache und dem Steuerbetrag für das Dreiviertelfache des zu versteuernden Jahresbetrags nach § 32a Absatz 1 ergibt; die Jahreslohnsteuer beträgt jedoch mindestens 14 Prozent des zu versteuernden Jahresbetrags, für den 13 279 Euro übersteigenden Teil des zu versteuernden Jahresbetrags höchstens 42 Prozent, für den 33 380 Euro übersteigenden Teil des zu versteuernden Jahresbetrags 42 Prozent und für den 222 260 Euro übersteigenden Teil des zu versteuernden Jahresbetrags 45 Prozent. ⁸Für die Lohnsteuerberechnung ist die als Lohnsteuerabzugsmerkmal mitgeteilte oder die nach § 39c Absatz 1 oder Absatz 2 oder nach § 39e Absatz 5a oder Absatz 6 Satz 8 anzuwendende Steuerklasse maßgebend. ⁹Die monatliche Lohnsteuer ist ¹/<sub>12</sub>, die wöchentliche Lohnsteuer sind ⁷/<sub>360</sub> und die tägliche Lohnsteuer ist ¹/<sub>360</sub> der Jahreslohnsteuer. ¹⁰Bruchteile eines Cents, die sich bei der Berechnung nach den Sätzen 2 und 9 ergeben, bleiben jeweils außer Ansatz. ¹¹Die auf den Lohnzahlungszeitraum entfallende Lohnsteuer ist vom Arbeitslohn einzubehalten. ¹²Das Betriebsstättenfinanzamt kann allgemein oder auf Antrag zulassen, dass die Lohnsteuer unter den Voraussetzungen des § 42b Absatz 1 nach dem voraussichtlichen Jahresarbeitslohn ermittelt wird, wenn gewährleistet ist, dass die zutreffende Jahreslohnsteuer (§ 38a Absatz 2) nicht unterschritten wird. ¹³Darüber hinaus kann das Betriebsstättenfinanzamt auf Antrag zulassen, dass bei nach § 1 Absatz 1 unbeschränkt einkommensteuerpflichtigen Arbeitnehmern mit Steuerklasse VI und ohne Freibetrag nach § 39a, die bei dem Arbeitgeber gelegentlich, nicht regelmäßig wiederkehrend beschäftigt werden und deren Dauer der Beschäftigung 24 zusammenhängende Arbeitstage nicht übersteigt, der während der Beschäftigung erzielte Arbeitslohn auf einen Jahresbetrag hochgerechnet und die sich ergebende Lohnsteuer auf den Lohnabrechnungszeitraum zurückgerechnet wird, wobei als Lohnabrechnungszeitraum der Zeitraum vom Beginn des Kalenderjahres bis zum Ende der Beschäftigung gilt. ¹⁴Bei Anwendung des Satzes 13 sind auch der im Kalenderjahr in etwaigen vorangegangenen und beendeten weiteren Dienstverhältnissen in der Steuerklasse VI bezogene Arbeitslohn und die darauf erhobene Lohnsteuer einzubeziehen, soweit dort bereits Satz 13 angewandt wurde. ¹⁵Voraussetzung für die Anwendung des Verfahrens nach Satz 13 ist zudem, dass der Arbeitnehmer vor Aufnahme der Beschäftigung
 
 1. unter Angabe seiner Identifikationsnummer gegenüber dem Arbeitgeber schriftlich zustimmt,
 
@@ -5305,11 +5305,11 @@ b) die Kapitalerträge, bei denen die Erstattung von Kapitalertragsteuer beim Bu
 
 2. wenn der Steuerpflichtige nebeneinander von mehreren Arbeitgebern Arbeitslohn bezogen hat; das gilt nicht, soweit nach § 38 Absatz 3a Satz 7 Arbeitslohn von mehreren Arbeitgebern für den Lohnsteuerabzug zusammengerechnet worden ist;
 
-3. wenn Beiträge zu Krankenversicherungen und gesetzlichen Pflegeversicherungen im Sinne des § 10 Absatz 1 Nummer 3 erstattet wurden, die Erstattung mehr als 410 Euro betrug und der im Kalenderjahr erzielte Arbeitslohn 13 150 Euro übersteigt, oder bei Ehegatten, die die Voraussetzungen des § 26 Absatz 1 erfüllen, der im Kalenderjahr von den Ehegatten insgesamt erzielte Arbeitslohn 24 950 Euro übersteigt;
+3. wenn Beiträge zu Krankenversicherungen und gesetzlichen Pflegeversicherungen im Sinne des § 10 Absatz 1 Nummer 3 erstattet wurden, die Erstattung mehr als 410 Euro betrug und der im Kalenderjahr erzielte Arbeitslohn höher ist als die Summe aus dem Grundfreibetrag (§ 32a Absatz 1 Satz 2 Nummer 1), dem Arbeitnehmer-Pauschbetrag (§ 9a Satz 1 Nummer 1 Buchstabe a) und dem Sonderausgaben-Pauschbetrag (§ 10c Satz 1) oder bei Ehegatten, die die Voraussetzungen des § 26 Absatz 1 erfüllen, höher ist als die Summe aus dem doppelten Grundfreibetrag, dem Arbeitnehmer-Pauschbetrag und dem doppelten Sonderausgaben-Pauschbetrag;
 
 3a. wenn von Ehegatten, die nach den §§ 26, 26b zusammen zur Einkommensteuer zu veranlagen sind, beide Arbeitslohn bezogen haben und einer für den Veranlagungszeitraum oder einen Teil davon nach der Steuerklasse V oder VI besteuert oder bei Steuerklasse IV der Faktor (§ 39f) eingetragen worden ist;
 
-4. wenn für einen Steuerpflichtigen ein Freibetrag im Sinne des § 39a Absatz 1 Satz 1 Nummer 1 bis 3, 5 oder Nummer 6 ermittelt worden ist und der im Kalenderjahr insgesamt erzielte Arbeitslohn höher ist als die Summe aus dem Grundfreibetrag (§ 32a Absatz 1 Satz 2 Nummer 1), dem Arbeitnehmer-Pauschbetrag (§ 9a Satz 1 Nummer 1 Buchstabe a) und dem Sonderausgaben- Pauschbetrag (§ 10c Satz 1) oder bei Ehegatten, die die Voraussetzungen des § 26 Absatz 1 erfüllen, höher ist als die Summe aus dem doppelten Grundfreibetrag, dem Arbeitnehmer- Pauschbetrag und dem doppelten Sonderausgaben- Pauschbetrag; dasselbe gilt für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 2 gehört;
+4. wenn für einen Steuerpflichtigen ein Freibetrag im Sinne des § 39a Absatz 1 Satz 1 Nummer 1 bis 3, 5 oder Nummer 6 ermittelt worden ist und der im Kalenderjahr insgesamt erzielte Arbeitslohn 13 150 Euro übersteigt oder bei Ehegatten, die die Voraussetzungen des § 26 Absatz 1 erfüllen, der im Kalenderjahr von den Ehegatten insgesamt erzielte Arbeitslohn 24 950 Euro übersteigt; dasselbe gilt für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 2 gehört;
 
 4a. wenn bei einem Elternpaar, bei dem die Voraussetzungen des § 26 Absatz 1 Satz 1 nicht vorliegen,
 

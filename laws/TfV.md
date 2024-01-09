@@ -493,14 +493,6 @@ Die Anerkennung als Prüfer oder als Prüfstelle ist zu befristen. Sie gilt län
 
 (2) Die zuständige Behörde ist jederzeit berechtigt, während der Arbeitszeit des Triebfahrzeugführers zu überprüfen, ob er die nach dieser Verordnung mitzuführenden Dokumente vorweisen kann.
 
-(3) (weggefallen)
-
-(4) (weggefallen)
-
-(5) (weggefallen)
-
-(6) (weggefallen)
-
 # § 19a – Aussetzung und Entziehung eines Triebfahrzeugführerscheins
 
 (1) Erfüllt ein Triebfahrzeugführer die Voraussetzungen für die Erteilung eines Triebfahrzeugführerscheins nicht mehr, so kann die zuständige Behörde den von ihr erteilten Triebfahrzeugführerschein aussetzen oder entziehen.

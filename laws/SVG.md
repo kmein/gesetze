@@ -2058,6 +2058,10 @@ Dienstbezüge im Sinne der §§ 11 und 12 sind die Dienstbezüge nach § 1 Absat
 
 Auf die Versorgungsbezüge der Berufssoldaten, der Soldaten auf Zeit und ihrer Hinterbliebenen sind die §§ 70 und 71 des Beamtenversorgungsgesetzes entsprechend anzuwenden.
 
+# § 89c – Sonderzahlungen zur Abmilderung gestiegener Verbraucherpreise im Jahr 2023
+
+Auf die früheren Berufssoldaten, Soldaten auf Zeit und ihre Hinterbliebenen ist § 72 des Beamtenversorgungsgesetzes entsprechend anzuwenden.
+
 # § 90 – Anrechnung von Geldleistungen
 
 Auf laufende und einmalige Geldleistungen, die nach diesem Gesetz wegen eines Körper-, Sach- oder Vermögensschadens gewährt werden, sind Geldleistungen anzurechnen, die wegen desselben Schadens von anderer Seite erbracht werden. Hierzu gehören insbesondere Geldleistungen, die von Drittstaaten oder von zwischenstaatlichen oder überstaatlichen Einrichtungen gewährt oder veranlasst werden. Nicht anzurechnen sind Leistungen privater Schadensversicherungen, die auf Beiträgen der Soldaten oder anderen Angehörigen des Geschäftsbereichs des Bundesministeriums der Verteidigung beruhen; dies gilt nicht in den Fällen des § 86.
@@ -2463,6 +2467,18 @@ Die Zeit einer vor dem 1. Juli 2020 bereits beendeten Verwendung im Dienst einer
 # § 107a – Übergangsregelung zur Minderung der Förderungsdauer
 
 § 5 Absatz 6 Satz 2 und 3 gilt nur für Maßnahmen der militärischen Ausbildung derjenigen Soldaten auf Zeit, die am oder nach dem 1. Oktober 2021 in einem Dienstverhältnis als Soldat auf Zeit stehen. Für Maßnahmen der militärischen Ausbildung der Soldaten auf Zeit, deren Dienstverhältnis vor dem 1. Oktober 2021 endete, gilt § 5 Absatz 6 Satz 2 in der bis zum 30. September 2021 geltenden Fassung.
+
+# § 107b – Übergangsregelung aus Anlass der Einführung von Stellenzulagen
+
+(1) Die Stellenzulagen nach Anlage I Vorbemerkung Nummer 8 und 9 des Bundesbesoldungsgesetzes gehören für diejenigen am 31. Dezember 2023 vorhandenen Soldaten im Ruhestand zu den ruhegehaltfähigen Dienstbezügen,
+
+1. deren Ruhestand nach dem 31. Dezember 2007 oder, sofern dem Ruhegehalt eine der Besoldungsgruppen A 1 bis A 9 zugrunde liegt, nach dem 31. Dezember 2010 begann, und
+
+2. die bei Versetzung oder Eintritt in den Ruhestand die Voraussetzungen der Anlage I Vorbemerkung Nummer 3a des Bundesbesoldungsgesetzes in der ab 1. Januar 2024 geltenden Fassung erfüllt haben.
+
+In den Fällen des § 81 Satz 2 des Bundesbesoldungsgesetzes ist Nummer 1 nicht anzuwenden. Der als ruhegehaltfähiger Dienstbezug zu berücksichtigende Betrag der jeweiligen Stellenzulage ergibt sich aus der zum Zeitpunkt des letztmaligen Bezuges der jeweiligen Stellenzulage geltenden Anlage IX des Bundesbesoldungsgesetzes. Eine Nachzahlung für Zeiträume vor dem 1. Januar 2024 erfolgt nicht.
+
+(2) Die Berücksichtigung der Stellenzulagen nach Anlage I Vorbemerkung Nummer 8 und 9 des Bundesbesoldungsgesetzes gemäß Absatz 1 als ruhegehaltfähiger Dienstbezug erfolgt nur auf schriftlichen oder elektronischen Antrag, der bei der für die Festsetzung der Versorgungsbezüge zuständigen Stelle einzureichen ist. Anträge, die bis zum 31. Dezember 2024 gestellt werden, gelten als zum 1. Januar 2024 gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, tritt die Änderung zum Beginn des Antragsmonats ein.
 
 # § 108 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 

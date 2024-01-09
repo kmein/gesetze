@@ -127,6 +127,12 @@ Der Bundestag wählt in geheimer Wahl mit der Mehrheit seiner Mitglieder den Weh
 
 (1) Der Wehrbeauftragte erhält vom Beginn des Kalendermonats an, in dem das Amtsverhältnis beginnt, bis zum Schluß des Kalendermonats, in dem das Amtsverhältnis endet, Amtsbezüge. § 11 Abs. 1 Buchstaben a und b des Bundesministergesetzes ist mit der Maßgabe entsprechend anzuwenden, daß das Amtsgehalt und der Ortszuschlag 75 vom Hundert des Amtsgehaltes und des Ortszuschlages eines Bundesministers betragen. Die Amtsbezüge werden monatlich im voraus gezahlt.
 
+(1a) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise werden dem oder der Wehrbeauftragten in entsprechender Anwendung des § 14 Absatz 4 bis 8 des Bundesbesoldungsgesetzes die folgenden Sonderzahlungen gewährt:
+
+1. für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240 Euro sowie
+
+2. für die Monate Juli 2023 bis Februar 2024 eine monatliche Sonderzahlung in Höhe von jeweils 220 Euro.
+
 (2) Im übrigen werden § 11 Abs. 2 und 4, § 12 Abs. 6 und die §§ 13 bis 20 und 21a des Bundesministergesetzes entsprechend angewandt mit der Maßgabe, daß an die Stelle der vierjährigen Amtszeit (§ 15 Abs. 1 des Bundesministergesetzes) eine fünfjährige Amtszeit tritt. Satz 1 gilt für einen Berufssoldaten oder Soldaten auf Zeit, der zum Wehrbeauftragten ernannt worden ist, entsprechend mit der Maßgabe, daß für Soldaten auf Zeit bei Anwendung des § 18 Abs. 2 des Bundesministergesetzes an die Stelle des Eintritts in den Ruhestand die Beendigung des Dienstverhältnisses tritt.
 
 (3) Die Vorschriften des Bundesreisekostengesetzes in der Fassung der Bekanntmachung vom 13. November 1973 (BGBl. I S. 1621), zuletzt geändert durch die Verordnung vom 31. Mai 1979 (BGBl. I S. 618), der höchsten Reisekostenstufe und des Bundesumzugskostengesetzes in der Fassung der Bekanntmachung vom 13. November 1973 (BGBl. I S. 1628), zuletzt geändert durch Artikel VII des Gesetzes vom 20. Dezember 1974 (BGBl. I S. 3716), für die infolge der Ernennung und Beendigung des Amtsverhältnisses erforderlich werdenden Umzüge sind entsprechend anzuwenden.
