@@ -325,6 +325,8 @@ d) eines Wärmenetzes,
 
 (6) Kommt ein Auskunftspflichtiger seiner Verpflichtung nach diesem Gesetz nicht nach, so kann die planungsverantwortliche Stelle ihm gegenüber die zur Einhaltung der Verpflichtungen erforderlichen Maßnahmen unter Fristsetzung anordnen. Hinsichtlich den nach Absatz 1 Nummer 1 und 3 Auskunftspflichtigen hat die planungsverantwortliche Stelle die aufsichtführende Stelle zu ersuchen, entsprechende Maßnahmen anzuordnen.
 
+(+++ § 11 Abs. 4: Zur Anwendung vgl. § 8 Abs. 1 +++)
+
 # § 12 – Anforderungen an die Datenverarbeitung
 
 (1) Die planungsverantwortliche Stelle muss bei der Datenverarbeitung
@@ -593,6 +595,8 @@ Der Wärmenetzbetreiber muss die komplexe Maßnahme der nach Landesrecht zustän
 
 (9) Die Länder können abweichend von Absatz 1 höhere Anteile an erneuerbarer Wärme oder unvermeidbarer Abwärme an der jährlichen Nettowärmeerzeugung in Wärmenetzen für die jeweils genannten Zeitpunkte festlegen.
 
+(+++ § 29 Abs. 7 und 8: Zur Anwendung vgl. § 30 Abs. 3 +++)
+
 # § 30 – Anteil erneuerbarer Energien in neuen Wärmenetzen
 
 (1) Jedes neue Wärmenetz muss abweichend von § 29 Absatz 1 Nummer 1 ab dem 1. März 2025 zu einem Anteil von mindestens 65 Prozent der jährlichen Nettowärmeerzeugung mit Wärme aus erneuerbaren Energien, aus unvermeidbarer Abwärme oder einer Kombination hieraus gespeist werden.
@@ -600,6 +604,8 @@ Der Wärmenetzbetreiber muss die komplexe Maßnahme der nach Landesrecht zustän
 (2) Der Anteil Biomasse an der jährlich erzeugten Wärmemenge ist in neuen Wärmenetzen mit einer Länge von mehr als 50 Kilometern ab dem 1. Januar 2024 auf maximal 25 Prozent begrenzt. Satz 1 ist nicht anzuwenden für Wärme aus thermischer Abfallbehandlung, die unter § 3 Absatz 1 Nummer 15 Buchstabe e fällt. Eine Anlage, die bis zum 1. Januar 2024 genehmigt wurde und Wärme aus Biomasse erzeugt, die in ein Wärmenetz eingespeist wird, ist im Rahmen der Bestimmung des Biomasseanteils nach Satz 1 nicht zu berücksichtigen.
 
 (3) § 29 Absatz 7 und 8 ist entsprechend anzuwenden.
+
+(+++ § 30 Abs. 2: Zur Anwendung vgl. § 31 Abs. 2 +++)
 
 # § 31 – Vollständige Klimaneutralität in Wärmenetzen bis zum Jahr 2045
 
