@@ -2348,8 +2348,6 @@ Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung m
 
 Für Maßnahmen der ausbildungsbegleitenden Hilfen, die bis zum 28. Februar 2021 beginnen und bis zum 30. September 2021, im Fall des § 75 Absatz 2 Satz 2 des Dritten Buches in der bis zum 28. Mai 2020 geltenden Fassung bis zum 31. März 2022, enden, und für Maßnahmen der Assistierten Ausbildung, die bis zum 30. September 2020 beginnen, gelten § 16 Absatz 1 Satz 2 Nummer 3 in der bis zum 28. Mai 2020 geltenden Fassung in Verbindung mit § 450 Absatz 2 Satz 1 und Absatz 3 Satz 1 des Dritten Buches.
 
-# § 82 – (weggefallen)
-
 # § 83 – Übergangsregelung aus Anlass des Gesetzes zur Ermittlung der Regelbedarfe und zur Änderung des Zwölften Buches Sozialgesetzbuch sowie weiterer Gesetze
 
 (1) § 21 Absatz 4 Satz 1 in der bis zum 31. Dezember 2019 geltenden Fassung ist für erwerbsfähige Leistungsberechtigte mit Behinderungen, bei denen bereits bis zu diesem Zeitpunkt Eingliederungshilfe nach § 54 Absatz 1 Satz 1 Nummer 1 bis 3 des Zwölften Buches erbracht wurde und deswegen ein Mehrbedarf anzuerkennen war, ab dem 1. Januar 2020 für die Dauer der Maßnahme weiter anzuwenden, sofern der zugrundeliegende Maßnahmenbescheid noch wirksam ist. Der Mehrbedarf kann auch nach Beendigung der Maßnahme während einer angemessenen Übergangszeit, vor allem einer Einarbeitungszeit, anerkannt werden.

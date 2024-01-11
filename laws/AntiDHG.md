@@ -73,6 +73,14 @@ von 60 und mehr    15 339 Euro. Maßgebend für die Höhe der Einmalzahlung 
 
 (4) Abweichend von Absatz 1 Satz 1 wird über die Hilfen nach den §§ 3 und 4 von Amts wegen entschieden, wenn bereits eine Anerkennung nach dem Bundes-Seuchengesetz vorliegt oder beantragt ist, die auf einem Tatbestand des § 1 beruht.
 
+# § 7a – Bestandsschutz
+
+(1) Berechtigte nach § 1 Absatz 1 Satz 1 erhalten die monatliche Rente nach § 3 Absatz 2 weiterhin in der für den letzten bei ihnen festgestellten Grad der Schädigungsfolgen vorgesehenen Höhe, wenn nach dem 31. Dezember 2019 auf Grund einer Neufestsetzung des Grades der Schädigungsfolgen eine niedrigere oder keine Rente zu leisten wäre.
+
+(2) Berechtigte nach § 1 Absatz 1 Satz 1 erhalten die monatliche Rente nach § 3 Absatz 2 auf Antrag in der Höhe, die für den vor dem 1. Januar 2014 zuletzt bei ihnen festgestellten Grad der Schädigungsfolgen vorgesehen ist, wenn auf Grund von Neufestsetzungen des Grades der Schädigungsfolgen ab dem 1. Januar 2014 bis einschließlich 31. Dezember 2019 eine niedrigere oder keine Rente zu leisten war. Wurde der Antrag nach Satz 1 bis zum Ablauf des 30. Juni 2020 gestellt, besteht der Anspruch ab dem 1. Januar 2020, andernfalls ab dem Ersten des Monats, in dem der Antrag gestellt wurde.
+
+(3) Anpassungen nach § 8 bleiben von den Absätzen 1 und 2 unberührt.
+
 # § 8 – Anpassung
 
 (1) Die Hilfen nach § 3 Abs. 2 und § 4 ändern sich entsprechend dem Vomhundertsatz und jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden. Dabei sind die sich ergebenden Beträge bis 0,49 Euro nach unten, ab 0,50 Euro nach oben auf volle Euro zu runden. Die Änderungsbeträge werden durch das Bundesministerium für Gesundheit im Bundesanzeiger bekannt gemacht.
