@@ -522,6 +522,7 @@
 - [BBesG/BesÜGBek 2016](laws/BBesG_BesÜGBek_2016.md) Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes sowie nach § 5a Absatz 2 und § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
 - [BBesG/BesÜGBek 2018](laws/BBesG_BesÜGBek_2018.md) Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes sowie nach § 5a Absatz 2 und § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
 - [BBesG/BesÜGBek 2021](laws/BBesG_BesÜGBek_2021.md) Bekanntmachung nach § 77 Absatz 4, § 78 Absatz 2 und Anlage IV Nummer 1 und 4 des Bundesbesoldungsgesetzes sowie nach § 5a Absatz 2 und § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
+- [BBesG/BesÜGBek 2024](laws/BBesG_BesÜGBek_2024.md) Bekanntmachung nach § 77 Absatz 4, § 78 Absatz 2 und Anlage IV Nummer 1 und 4 des Bundesbesoldungsgesetzes sowie nach § 5a Absatz 2 und § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
 - [BBesG/BesÜV2Bek](laws/BBesG_BesÜV2Bek.md) Bekanntmachung nach § 77 Abs. 1 bis 3 des Bundesbesoldungsgesetzes und nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
 - [BBesG/BesÜV2Bek 2008](laws/BBesG_BesÜV2Bek_2008.md) Bekanntmachung nach § 77 Abs. 2 und 3 des Bundesbesoldungsgesetzes und nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
 - [BBesGAnlIVNr1u4Bek](laws/BBesGAnlIVNr1u4Bek.md) Bekanntmachung nach Anlage IV Nummer 1 und 4 des Bundesbesoldungsgesetzes

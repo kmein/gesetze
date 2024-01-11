@@ -5,6 +5,8 @@
 
 Pflanzenschutzmittel, die aus einem in Anlage 1 aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, dürfen nicht angewandt werden.
 
+(+++ § 1: Zur Nichtanwendung vgl. § 1 V v. 12.12.2023 I Nr. 360 (VorlPflSchMAnwV) +++)
+
 # § 2 – Eingeschränktes Anwendungsverbot
 
 Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, dürfen nur angewandt werden, soweit dies nach Spalte 3 zulässig ist.
@@ -67,6 +69,8 @@ Die Verbote des Satzes 1 gelten auch in Gebieten von gemeinschaftlicher Bedeutun
 
 (2) Saat- oder Pflanzgut oder Kultursubstrat, in oder auf dem ein Pflanzenschutzmittel vorhanden ist, das aus einem in Anlage 2 aufgeführten Stoff besteht oder einen solchen Stoff enthält, darf nicht eingeführt werden. Dies gilt nicht, soweit nach Anlage 2 Spalte 3 die Anwendung des Stoffes zur Behandlung des Saat- oder Pflanzgutes oder Kultursubstrats ausdrücklich zulässig ist und nicht der Zustimmung der zuständigen Behörde bedarf.
 
+(+++ § 5 Abs. 1: Zur Nichtanwendung vgl. § 1 V v. 12.12.2023 I Nr. 360 (VorlPflSchMAnwV) +++)
+
 # § 6 – Verunreinigungen
 
 Im Rahmen der §§ 1 bis 4 bleiben produktionstechnisch bedingte, geringfügige Verunreinigen mit in den Anlagen aufgeführten Stoffen unberücksichtigt, soweit dadurch nicht der Schutz der menschlichen Gesundheit oder die Abwehr von Gefahren, insbesondere für die Gesundheit von Mensch und Tier und für den Naturhaushalt, beeinträchtigt wird.
@@ -108,6 +112,8 @@ bestehen oder einen solchen Stoff enthalten, in einem Wasserschutzgebiet oder He
 # § 9 – Generelles Anwendungsverbot
 
 Glyphosat und Glyphosat-Trimesium (Anlage 1 Nummer 27a und 27b) unterliegen dem Anwendungsverbot nach den §§ 1 und 5 Absatz 1 erst ab dem 1. Januar 2024.
+
+(+++ § 9: Zur Nichtanwendung vgl. § 1 V v. 12.12.2023 I Nr. 360 (VorlPflSchMAnwV) +++)
 
 # Anlage 1 – (zu den §§ 1 und 5 Abs. 1)Vollständiges Anwendungsverbot
 
@@ -312,7 +318,7 @@ Selenverbindungen
 
 Tetrachlorkohlenstoff
 
-(+++ Zur Anwendung Nr. 27a u. 27b vgl. § 9 +++)
+(+++ Anlage 1 Nr. 27a u. 27b: Zur Nichtanwendung vgl. § 1 V v. 12.12.2023 I Nr. 360 (VorlPflSchMAnwV) +++)
 
 # Anlage 2 – (zu den §§ 2, 4 und 5 Abs. 2)  Eingeschränktes Anwendungsverbot
 

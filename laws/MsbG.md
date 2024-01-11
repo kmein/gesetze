@@ -157,7 +157,7 @@ Im Übrigen sind die Begriffsbestimmungen aus § 3 des Energiewirtschaftsgesetze
 
 (3) Für Kosten des Netzbetriebs, die bei Anwendung dieses Gesetzes entstehen, sind die §§ 21 und 21a des Energiewirtschaftsgesetzes entsprechend anzuwenden.
 
-(+++ Die Änderungsanweisung gem. Art. 12 Nr. 5 G v. 22.12.2023 I Nr. 405 wurde aufgrund eines Bezeichnungsfehlers in § 7 Satz 2 u. 4 ausgeführt +++)  
+(+++ Änderung gem. Art. 12 Nr. 5 G v. 22.12.2023 I Nr. 405 aufgrund eines Bezeichnungsfehlers in § 7 Satz 2 u. 4 ausgeführt +++)  
 (+++ § 7: Zur Anwendung vgl. § 7 Abs. 1 +++)
 
 # § 8 – Messstelle
