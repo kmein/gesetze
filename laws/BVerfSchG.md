@@ -199,8 +199,8 @@ b) bei Auskünften nach Absatz 1 Satz 1 Nummer 4, dass sie für eine Person nach
 
 (5) bis (9) (weggefallen)
 
-(+++ Änderung durch Art. 7 Abs. 22 G v. 12.5.2021 I 990 wurde aufgrund offensichtlich unrichtiger Bezeichnung des Änderungsbefehls in § 8a Abs. 1 Satz 1 Nr. 2 ausgeführt +++)  
-(+++ Änderung durch Art. 1 Nr. 1 Buchst. c DBuchst. aa G v. 30.3.2021 I 448 wurde in § 8a Abs. 3 Eingangssatz ausgeführt sowie in § 8a Abs. 3 Nr. 1 entsprechend umgesetzt +++)
+(+++ Änderung durch Art. 7 Abs. 22 G v. 12.5.2021 I 990 aufgrund eines Bezeichnungsfehlers in § 8a Abs. 1 Satz 1 Nr. 2 ausgeführt +++)  
+(+++ Änderung durch Art. 1 Nr. 1 Buchst. c DBuchst. aa G v. 30.3.2021 I 448 in § 8a Abs. 3 Eingangssatz ausgeführt sowie in § 8a Abs. 3 Nr. 1 entsprechend umgesetzt +++)
 
 # § 8b – Verfahrensregelungen zu besonderen Auskunftsverlangen
 
