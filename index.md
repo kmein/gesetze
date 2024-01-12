@@ -1817,8 +1817,6 @@
 - [ERPWiPlanG 1967](laws/ERPWiPlanG_1967.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Rechnungsjahr 1967
 - [ERPWiPlanG 1968](laws/ERPWiPlanG_1968.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Rechnungsjahr 1968
 - [ERPWiPlanG 1969](laws/ERPWiPlanG_1969.md) Gesetz über die Feststellung der Wirtschaftspläne des ERP-Sondervermögens für das Rechnungsjahr 1969
-- [ERPWiPlanG 2022](laws/ERPWiPlanG_2022.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2022
-- [ERPWiPlanG 2023](laws/ERPWiPlanG_2023.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2023
 - [ERPWiPlanG 2024](laws/ERPWiPlanG_2024.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2024
 - [ErrV](laws/ErrV.md) Verordnung zur Regelung weiterer Voraussetzungen der Erreichbarkeit erwerbsfähiger Leistungsberechtigter nach dem Zweiten Buch Sozialgesetzbuch
 - [ErsatzbaustoffV](laws/ErsatzbaustoffV.md) Verordnung über Anforderungen an den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke
@@ -2257,7 +2255,7 @@
 - [FrHfGrDEGV 1](laws/FrHfGrDEGV_1.md) Erste Verordnung zur Änderung der Grenze des Freihafens Deggendorf
 - [FrHfGrDEGV 2](laws/FrHfGrDEGV_2.md) Zweite Verordnung zur Änderung der Grenze des Freihafens Deggendorf
 - [FrHfHbgAufhG](laws/FrHfHbgAufhG.md) Gesetz zur Aufhebung des Freihafens Hamburg
-- [Frischzellenverordnung](laws/Frischzellenverordnung.md) Verordnung über das Verbot der Verwendung von Frischzellen tierischen Ursprungs bei der Herstellung von Arzneimitteln 1
+- [FrischZV 2021](laws/FrischZV_2021.md) Verordnung über das Verbot der Verwendung von Frischzellen tierischen Ursprungs bei der Herstellung von Arzneimitteln 1
 - [Friseur-MstrV](laws/Friseur-MstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Friseur-Handwerk
 - [FriseurAusbV 2008](laws/FriseurAusbV_2008.md) Verordnung über die Berufsausbildung zum Friseur/zur Friseurin *)
 - [FrSaftAusbV](laws/FrSaftAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Fruchtsafttechnik
@@ -2681,7 +2679,6 @@
 - [HandzMstrV](laws/HandzMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Handzuginstrumentenmacher-Handwerk
 - [HanfEinfV](laws/HanfEinfV.md) Verordnung über die Einfuhr von Hanf aus Drittländern
 - [HArchDVDV](laws/HArchDVDV.md) Verordnung über den Vorbereitungsdienst für den höheren Archivdienst des Bundes
-- [Haushaltsgesetz 2023](laws/Haushaltsgesetz_2023.md) Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2023
 - [HAuslG](laws/HAuslG.md) Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet
 - [HAV](laws/HAV.md) Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung
 - [HaWiAusbV](laws/HaWiAusbV.md) Verordnung über die Berufsausbildung zum Hauswirtschafter und zur Hauswirtschafterin
@@ -2717,7 +2714,6 @@
 - [HeuerVtrÜbkG](laws/HeuerVtrÜbkG.md) Gesetz betreffend das Internationale Übereinkommen über den Heuervertrag der Schiffsleute
 - [HfreqBetrGen](laws/HfreqBetrGen.md) Allgemeine Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten
 - [HfzHvzVStG](laws/HfzHvzVStG.md) Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer
-- [HG 2022](laws/HG_2022.md) Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2022
 - [HGB](laws/HGB.md) Handelsgesetzbuch
 - [HGBEG](laws/HGBEG.md) Einführungsgesetz zum Handelsgesetzbuch
 - [HgFSNatSchV](laws/HgFSNatSchV.md) Verordnung über das Befahren des Naturschutzgebietes "Helgoländer Felssockel"
@@ -2801,7 +2797,7 @@
 - [HwStatG](laws/HwStatG.md) Gesetz über Statistiken im Handwerk
 - [HwVerwdtV](laws/HwVerwdtV.md) Verordnung über verwandte Handwerke
 - [HwWahlO](laws/HwWahlO.md) Wahlordnung für die Wahlen der Mitglieder der Vollversammlung der Handwerkskammern (Anlage C zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung))
-- [Hybrid-DRG-Verordnung](laws/Hybrid-DRG-Verordnung.md) Verordnung über eine spezielle sektorengleiche Vergütung
+- [HybDRGV](laws/HybDRGV.md) Verordnung über eine spezielle sektorengleiche Vergütung
 - [HypAblV](laws/HypAblV.md) Verordnung über die Ablösung früherer Rechte und andere vermögensrechtliche Fragen
 - [HypBkGÄndG 5](laws/HypBkGÄndG_5.md) Fünftes Gesetz zur Änderung und Ergänzung des Hypothekenbankgesetzes
 - [HypKrlosErklG](laws/HypKrlosErklG.md) Gesetz über die Kraftloserklärung von Hypotheken-, Grundschuld- und Rentenschuldbriefen in besonderen Fällen

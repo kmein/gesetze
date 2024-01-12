@@ -349,8 +349,6 @@ g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen E
 
 Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden.
 
-Dabei kann es anordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht.
-
 # § 12 – (weggefallen)
 
 # § 13 – Erlass von Rechtsverordnungen
