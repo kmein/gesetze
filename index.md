@@ -6246,6 +6246,7 @@
 - [WpI-AnzV](laws/WpI-AnzV.md) Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Wertpapierinstitutsgesetz 1
 - [WpIG](laws/WpIG.md) Gesetz zur Beaufsichtigung von Wertpapierinstituten
 - [WpIPrüfbV](laws/WpIPrüfbV.md) Verordnung über die Prüfung der Jahresabschlüsse der Wertpapierinstitute sowie über die zu erstellenden Berichte 1
+- [WpIVergV](laws/WpIVergV.md) Verordnung über die aufsichtsrechtlichen Vorgaben an Vergütungssysteme von Mittleren Wertpapierinstituten 1
 - [WPO](laws/WPO.md) Gesetz über eine Berufsordnung der Wirtschaftsprüfer
 - [WPostVSaZProt 3](laws/WPostVSaZProt_3.md) Drittes Zusatzprotokoll zur Satzung des Weltpostvereins
 - [WPostVSaZProt 6](laws/WPostVSaZProt_6.md) Sechstes Zusatzprotokoll zur Satzung des Weltpostvereins
