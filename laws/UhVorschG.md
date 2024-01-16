@@ -156,11 +156,3 @@ Im Sinne dieses Gesetzes beträgt für die Zeit vom 1. Januar 2015 bis zum 30. J
 # § 12 – Bericht
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Juli 2018 einen Bericht über die Wirkung der Reform, die am 1. Juli 2017 in Kraft getreten ist, vor. Der Bericht darf keine personenbezogenen Daten enthalten.
-
-# § 12a – (Gegenstandslose Übergangsvorschrift)
-
-\-
-
-# § 13 – (weggefallen)
-
-\-

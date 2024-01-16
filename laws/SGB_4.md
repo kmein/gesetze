@@ -663,7 +663,7 @@ vom Arbeitgeber erbracht werden. Einmalig gezahltes Arbeitsentgelt ist dem Entge
 
 (5) Ist der Beschäftigte in der gesetzlichen Krankenversicherung pflichtversichert, ist für die Zuordnung des einmalig gezahlten Arbeitsentgelts nach Absatz 4 Satz 1 allein die Beitragsbemessungsgrenze der gesetzlichen Krankenversicherung maßgebend.
 
-§ 23a: Nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 24.5.2000 I 1082 - 1 BvL 1/98, 1 BvL 4/98 und 1 BvL 15/99 -
+§ 23a: Nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 24.5.2000 I 1082 - 1 BvL 1/98, 1 BvL 4/98 und 1 BvL 15/99; zur Umsetzung der Anforderungen des BVerfG vgl. G v. 21.12.2000 I 1971 mWv 22.6.2000 und 1.1.2001.
 
 # § 23b – Beitragspflichtige Einnahmen bei flexiblen Arbeitszeitregelungen
 

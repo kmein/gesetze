@@ -128,10 +128,6 @@ der in § 20 Abs. 1a des Energiewirtschaftsgesetzes genannte Vertrag;
 
 10a. (weggefallen)
 
-10a. Stromgebotszone
-
-das größte geografische Gebiet, in dem Marktteilnehmer ohne Kapazitätsvergabe Energie austauschen können;
-
 11. Unterbilanzkreis
 
 ein Bilanzkreis, der nicht für den Ausgleich der Abweichungen gegenüber dem Betreiber von Übertragungsnetzen verantwortlich ist;
