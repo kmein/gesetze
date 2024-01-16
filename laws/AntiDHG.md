@@ -17,7 +17,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # § 2 – Krankenbehandlung
 
-Berechtigte nach § 1 Abs. 1 Satz 1 erhalten für die durch die Hepatitis-C-Virus-Infektion verursachten gesundheitlichen Folgen Heil- und Krankenbehandlung in entsprechender Anwendung der §§ 41 bis 53 des Vierzehnten Buches Sozialgesetzbuch.
+Berechtigte nach § 1 Abs. 1 Satz 1 erhalten für die durch die Hepatitis-C-Virus-Infektion verursachten gesundheitlichen Folgen Krankenbehandlung in entsprechender Anwendung der §§ 41 bis 61 des Vierzehnten Buches Sozialgesetzbuch.
 
 # § 3 – Finanzielle Hilfe
 
@@ -111,11 +111,11 @@ von 60 und mehr    15 339 Euro. Maßgebend für die Höhe der Einmalzahlung 
 
 Für öffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses Gesetzes ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit gegeben.
 
-# § 13 – Übergangsvorschriften
+# § 13 – Besitzstände
 
 (1) Solange die Hilfen nach § 3 Abs. 2 und § 4 nicht die Höhe der beim Inkrafttreten dieses Gesetzes nach dem Bundes-Seuchengesetz gezahlten Leistungen erreichen, wird der jeweilige Differenzbetrag als Besitzstand weiter gezahlt.
 
-(2) Abweichend von § 2 wird die Heil- und Krankenbehandlung ab dem 1. Januar 2024 nach § 143 des Vierzehnten Buches Sozialgesetzbuch erbracht.
+(2) Geschädigte, deren Anspruch auf Heil- und Krankenbehandlung bis zum 31. Dezember 2023 nach diesem Gesetz bestandskräftig festgestellt worden ist, erhalten ab dem 1. Januar 2024 Leistungen nach § 143 des Vierzehnten Buches Sozialgesetzbuch.
 
 (3) Soweit Ansprüche auf Hilfen nach diesem Gesetz bestehen, ist Anlage I Kapitel X Sachgebiet D Abschnitt III Nummer 3 Buchstabe c des Einigungsvertrages nicht mehr anzuwenden. Nach dem Bundes-Seuchengesetz festgestellte Ansprüche erlöschen, soweit sie auf einem Tatbestand des § 1 dieses Gesetzes beruhen. Die bis zum Inkrafttreten dieses Gesetzes geleisteten Zahlungen nach dem Bundes-Seuchengesetz werden, soweit sie auf einem Tatbestand des § 1 beruhen, jedoch so lange weiter gewährt, bis über Ansprüche nach § 3 Abs. 2 in Verbindung mit Abs. 1 und § 4 entschieden wurde; sie sind auf Zahlungen nach § 3 Abs. 2 in Verbindung mit Abs. 1 und § 4 für denselben Zeitraum anzurechnen. Dies gilt entsprechend für bisher gewährte Heil- und Krankenbehandlung.
 
