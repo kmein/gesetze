@@ -195,6 +195,8 @@ b) des Artikels 4 Nummer 5 der Richtlinie 2014/17/EU,
 
 (5) Die Bundesanstalt und das Bundesamt für Justiz wirken zusammen auf eine widerspruchsfreie Aufsichtspraxis über Kreditdienstleistungen und Inkassodienstleistungen nach dem Rechtsdienstleistungsgesetz hin, soweit für diese Tätigkeiten vergleichbare gesetzliche Anforderungen gelten.
 
+(+++ § 3 Abs. 5: Zur Anwendung vgl. § 46 Abs. 6 +++)
+
 # § 4 – Zusammenarbeit mit zuständigen Behörden anderer Vertragsstaaten
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten bei der Wahrnehmung ihrer Aufgaben nach diesem Gesetz mit den zuständigen Behörden anderer Vertragsstaaten zusammen, wenn es für die Wahrnehmung ihrer Aufgaben, insbesondere die Erfüllung ihrer Pflichten oder die Ausübung ihrer Befugnisse im Rahmen der nationalen Bestimmungen zur Umsetzung der Richtlinie (EU) 2021/2167, erforderlich ist. Die Bundesanstalt und die Deutsche Bundesbank koordinieren ihre Maßnahmen mit den zuständigen Behörden anderer Vertragsstaaten, insbesondere im Hinblick auf die grenzüberschreitende Tätigkeit von Kreditdienstleistungsinstituten.

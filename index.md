@@ -6244,6 +6244,7 @@
 - [WpHG](laws/WpHG.md) Gesetz über den Wertpapierhandel
 - [WpHGMaAnzV](laws/WpHGMaAnzV.md) Verordnung über den Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsmitarbeiter, in der Finanzportfolioverwaltung, als Vertriebsbeauftragte oder als Compliance- Beauftragte und über die Anzeigepflichten nach § 87 des Wertpapierhandelsgesetzes
 - [WpI-AnzV](laws/WpI-AnzV.md) Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Wertpapierinstitutsgesetz 1
+- [WpI-InhKontrollV](laws/WpI-InhKontrollV.md) Verordnung über Anzeigen nach § 24 des Wertpapierinstitutsgesetzes 1
 - [WpIG](laws/WpIG.md) Gesetz zur Beaufsichtigung von Wertpapierinstituten
 - [WpIPrüfbV](laws/WpIPrüfbV.md) Verordnung über die Prüfung der Jahresabschlüsse der Wertpapierinstitute sowie über die zu erstellenden Berichte 1
 - [WpIVergV](laws/WpIVergV.md) Verordnung über die aufsichtsrechtlichen Vorgaben an Vergütungssysteme von Mittleren Wertpapierinstituten 1
@@ -6635,6 +6636,7 @@
 - [14. BImSchV](laws/14._BImSchV.md) Vierzehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [14. ProdSV](laws/14._ProdSV.md) Vierzehnte Verordnung zum Produktsicherheitsgesetz 1
 - [14. RAG](laws/14._RAG.md) Vierzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
+- [15. ProdSV](laws/15._ProdSV.md) Fünfzehnte Verordnung zum Produktsicherheitsgesetz
 - [15. RAG](laws/15._RAG.md) Fünfzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [16. ÄndG LAG](laws/16._ÄndG_LAG.md) Sechzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes
 - [16. BImSchV](laws/16._BImSchV.md) Sechzehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
@@ -6698,7 +6700,7 @@
 - [3. WindSeeV](laws/3._WindSeeV.md) Dritte Verordnung zur Durchführung des Windenergie-auf-See-Gesetzes
 - [3. WOMitbestG](laws/3._WOMitbestG.md) Dritte Wahlordnung zum Mitbestimmungsgesetz
 - [30. BImSchV](laws/30._BImSchV.md) Dreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
-- [31. BImSchV](laws/31._BImSchV.md) 31. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen bei der Verwendung organischer Lösemittel in bestimmten Anlagen)
+- [31. BImSchV](laws/31._BImSchV.md) 31. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [32. BImSchV](laws/32._BImSchV.md) 32. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [34. BImSchV](laws/34._BImSchV.md) Vierunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über die Lärmkartierung)
 - [35. BImSchV](laws/35._BImSchV.md) Fünfunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
