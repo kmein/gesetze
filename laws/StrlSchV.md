@@ -169,13 +169,13 @@
 
 (2) Äquivalentdosis: Produkt aus der Energiedosis im ICRU-Weichteilgewebe und dem Qualitätsfaktor Q der ICRU nach Anlage 18 Teil D, der die Einflüsse der Strahlungsart und der Strahlungsenergie berücksichtigt. Beim Vorliegen mehrerer Strahlungsarten und Strahlungsenergien ist die gesamte Äquivalentdosis die Summe ihrer ermittelten Einzelbeiträge.
 
-(3) Betriebsgelände: Grundstück, auf dem sich kerntechnische Anlagen, Anlagen zur Erzeugung ionisierender Strahlung und Anlagen im Sinne des § 9a Absatz 3 Satz 1 zweiter Satzteil des Atomgesetzes oder Einrichtungen befinden und zu dem der Strahlenschutzverantwortliche den Zugang oder auf dem der Strahlenschutzverantwortliche die Aufenthaltsdauer von Personen beschränken kann.
+(3) Betriebsgelände: Grundstück, auf dem sich kerntechnische Anlagen, Anlagen zur Erzeugung ionisierender Strahlung und Anlagen im Sinne des § 9a Absatz 3 Satz 1 erster Halbsatz zweiter Satzteil des Atomgesetzes oder Einrichtungen befinden und zu dem der Strahlenschutzverantwortliche den Zugang oder auf dem der Strahlenschutzverantwortliche die Aufenthaltsdauer von Personen beschränken kann.
 
 (4) Diagnostische Referenzwerte:
 
 1. Dosiswerte bei Anwendung ionisierender Strahlung am Menschen oder
 
-2. empfohlene Aktivitätswerte bei Anwendung radioaktiver Stoffe am Menschen,
+2. Aktivitätswerte bei Anwendung radioaktiver Stoffe am Menschen,
 
 für typische Untersuchungen, bezogen auf Standardphantome oder auf Patientengruppen, für einzelne Gerätekategorien.
 
@@ -207,7 +207,7 @@ für typische Untersuchungen, bezogen auf Standardphantome oder auf Patientengru
 
 2. juristische Person oder sonstige Personenvereinigung, die Sachverständigentätigkeiten durchführt (Sachverständigenorganisation).
 
-(17) Spezifische Aktivität: Verhältnis der Aktivität eines Radionuklids zur Masse des Materials, in dem das Radionuklid verteilt ist. Bei festen radioaktiven Stoffen ist die Bezugsmasse für die Bestimmung der spezifischen Aktivität die Masse des Körpers oder Gegenstandes, mit dem die Radioaktivität bei vorgesehener Anwendung untrennbar verbunden ist. Bei gasförmigen radioaktiven Stoffen ist die Bezugsmasse die Masse des Gases oder des Gasgemisches.
+(17) Spezifische Aktivität: Verhältnis der Aktivität eines Radionuklids zur Masse des Materials, in dem das Radionuklid verteilt ist. Bei festen radioaktiven Stoffen ist die Bezugsmasse für die Bestimmung der spezifischen Aktivität die Masse des Körpers oder Gegenstandes, mit dem die Radioaktivität bei vorgesehener Anwendung untrennbar verbunden ist. Bei flüssigen radioaktiven Stoffen ist die Bezugsmasse die Masse der Flüssigkeit. Bei gasförmigen radioaktiven Stoffen ist die Bezugsmasse die Masse des Gases oder des Gasgemisches.
 
 (18) Störfall: Ereignisablauf, bei dessen Eintreten der Betrieb der kerntechnischen Anlage, der Anlage zur Erzeugung ionisierender Strahlung oder die Tätigkeit aus sicherheitstechnischen Gründen nicht fortgeführt werden kann und für den die kerntechnische Anlage oder die Anlage zur Erzeugung ionisierender Strahlung auszulegen ist oder für den bei der Tätigkeit vorsorglich Schutzvorkehrungen vorzusehen sind.
 
@@ -278,6 +278,10 @@ Die für die Erteilung einer Genehmigung nach § 40 oder § 42 des Strahlenschut
 (1) Eine Genehmigung nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes ist in den in Anlage 3 Teil A und B genannten Fällen nicht erforderlich. Bei der Prüfung der Voraussetzungen nach Anlage 3 Teil B Nummer 1 oder 2 bleiben die mit den Tätigkeiten nach Anlage 3 Teil A oder Teil B Nummer 3 bis 9 verbundenen radioaktiven Stoffe außer Betracht.
 
 (2) Bei einem nach § 12 Absatz 1 Nummer 3 oder Absatz 2 des Strahlenschutzgesetzes genehmigten Umgang ist ein darüber hinausgehender genehmigungsfreier Umgang nach Absatz 1 für die radioaktiven Stoffe, die in der Genehmigung aufgeführt sind, auch unterhalb der Freigrenzen der Anlage 4 Tabelle 1 Spalte 2 und 3 nicht zulässig. Dies gilt nicht, wenn in einem einzelnen Betrieb oder selbständigen Zweigbetrieb, bei Nichtgewerbetreibenden am Ort der Tätigkeit des Genehmigungsinhabers, mit radioaktiven Stoffen in mehreren, räumlich voneinander getrennten Gebäuden, Gebäudeteilen, Anlagen oder Einrichtungen umgegangen wird und ausreichend sichergestellt ist, dass die radioaktiven Stoffe aus den einzelnen Gebäuden, Gebäudeteilen, Anlagen oder Einrichtungen nicht zusammenwirken können.
+
+# § 5a – Genehmigungsfreier Zusatz radioaktiver Stoffe
+
+Eine Genehmigung nach § 40 Absatz 1 des Strahlenschutzgesetzes ist in den in Anlage 3 Teil F genannten Fällen nicht erforderlich.
 
 # § 6 – Genehmigungsfreier Besitz von Kernbrennstoffen
 
@@ -363,7 +367,7 @@ oder
 
 2. sonstige radioaktive Stoffe nach § 3 Absatz 1 des Strahlenschutzgesetzes oder Kernbrennstoffe nach § 3 Absatz 3 des Strahlenschutzgesetzes, deren Aktivität je Versandstück das 10⁸fache der Freigrenzen der Anlage 4 Tabelle 1 Spalte 2 beträgt oder überschreitet.
 
-(3) Eine Genehmigung nach Absatz 1 ist nicht erforderlich, soweit eine Genehmigung nach § 3 Absatz 1 des Atomgesetzes vorliegt, die sich gemäß § 10a Absatz 1 des Atomgesetzes auf eine Verbringung nach Absatz 1 erstreckt. Eine Genehmigung nach Absatz 2 ist nicht erforderlich, soweit eine Genehmigung nach § 3 Absatz 1 des Atomgesetzes vorliegt, die sich gemäß § 10a Absatz 1 des Atomgesetzes auf eine Verbringung nach Absatz 2 erstreckt.
+(3) (weggefallen)
 
 # § 13 – Anmeldebedürftige grenzüberschreitende Verbringung
 
@@ -373,7 +377,7 @@ oder
 
 2. aus dem Geltungsbereich dieser Verordnung in einen Staat verbringt, der nicht Mitgliedstaat der Europäischen Union ist,
 
-und keiner Genehmigung nach § 12 Absatz 1 oder 2 bedarf, hat die Verbringung der nach § 188 Absatz 1 Satz 2 des Strahlenschutzgesetzes zuständigen Behörde elektronisch anzumelden. Bei der Zollabfertigung ist der Nachweis der Anmeldung nach Satz 1 der nach § 188 Absatz 2 Satz 1 des Strahlenschutzgesetzes für die Überwachung zuständigen Behörde oder der von ihr benannten Stelle vorzulegen. Für die Anmeldung ist der Ausdruck des elektronisch erzeugten Formulars zu verwenden, das die nach § 188 Absatz 1 Satz 2 des Strahlenschutzgesetzes zuständige Behörde bestimmt hat.
+und keiner Genehmigung nach § 12 Absatz 1 oder 2 bedarf, hat die Verbringung der nach § 188 Absatz 1 Satz 2 des Strahlenschutzgesetzes zuständigen Behörde elektronisch anzumelden. Das Verfahren der elektronischen Anmeldung bestimmt die nach § 188 Absatz 1 Satz 2 des Strahlenschutzgesetzes zuständige Behörde. Der im Verfahren der elektronischen Anmeldung erzeugte Ausdruck des Anmeldeformulars ist den Zollbehörden bei der Zollabfertigung als Nachweis der elektronischen Anmeldung vorzulegen.
 
 (2) Wer Kernbrennstoffe nach § 3 Absatz 1 des Strahlenschutzgesetzes in Form von
 
@@ -396,6 +400,8 @@ aus einem Staat, der nicht Mitgliedstaat der Europäischen Union ist, in den Gel
 3. Stoffe im Sinne der Nummer 2 zur eigenen Nutzung im Rahmen eines genehmigten Umgangs vorübergehend grenzüberschreitend verbringt, sofern es sich nicht um hochradioaktive Strahlenquellen handelt, oder
 
 4. nach § 42 des Strahlenschutzgesetzes Konsumgüter verbringt.
+
+(1a) Eine Genehmigung nach § 12 Absatz 1 oder 2 und eine Anmeldung nach § 13 sind nicht erforderlich, soweit eine Genehmigung nach § 3 Absatz 1 des Atomgesetzes vorliegt, die sich gemäß § 10a Absatz 1 des Atomgesetzes auf eine Verbringung nach § 12 Absatz 1 oder 2 erstreckt.
 
 (2) Die §§ 12 und 13 dieser Verordnung gelten nicht für die Verbringung durch die Bundeswehr.
 
@@ -497,7 +503,7 @@ b) Untersuchungsverfahren, die einen kontinuierlichen Betrieb des Röntgenstrahl
 
 # § 21 – Technische Anforderungen an die Bauartzulassung von Vollschutzgeräten
 
-Die Bauart einer Röntgeneinrichtung, die weder zur Anwendung am Menschen noch zur Anwendung am Tier bestimmt ist, darf als Vollschutzgerät nach § 45 Absatz 1 Nummer 5 des Strahlenschutzgesetzes nur dann zugelassen werden,
+Die Bauart einer Röntgeneinrichtung, die weder zur Anwendung am Menschen noch zur Anwendung am Tier in der Tierheilkunde bestimmt ist, darf als Vollschutzgerät nach § 45 Absatz 1 Nummer 5 des Strahlenschutzgesetzes nur dann zugelassen werden,
 
 1. wenn sichergestellt ist, dass
 
@@ -567,9 +573,11 @@ c) eine Betriebsanleitung in deutscher Sprache, in der auf die dem Strahlenschut
 
 1. einen Abdruck des Zulassungsscheins,
 
-2. die Betriebsanleitung und
+2. die Betriebsanleitung,
 
-3. im Falle einer Vorrichtung nach § 45 Absatz 1 Nummer 1 erste Alternative des Strahlenschutzgesetzes die Befunde der Dichtheitsprüfung nach Absatz 4 Satz 1.
+3. den Nachweis nach § 24 Nummer 5 Buchstabe b und
+
+4. im Falle einer Vorrichtung nach § 45 Absatz 1 Nummer 1 erste Alternative des Strahlenschutzgesetzes die Befunde der Dichtheitsprüfung nach Absatz 4 Satz 1.
 
 Bei einer Abgabe der bauartzugelassenen Vorrichtung gilt § 24 Nummer 5 entsprechend.
 
@@ -787,9 +795,15 @@ Satz 1 gilt auch, soweit die Freigabe zum Einsatz in einem Grubenbau nach § 1 A
 
 Ist kein Genehmigungsinhaber vorhanden, so kann eine Freigabe auch von Amts wegen erfolgen.
 
-# § 39 – Einvernehmen bei der spezifischen Freigabe zur Beseitigung
+# § 39 – Einvernehmen bei der spezifischen Freigabe zur Beseitigung und bei der spezifischen Freigabe von Metallschrott zum Recycling
 
-(1) Die zuständige Behörde stellt bei einer beabsichtigten Freigabe zur Beseitigung von Massen von mehr als 10 Megagramm im Kalenderjahr das Einvernehmen mit der für den Vollzug dieser Verordnung zuständigen obersten Landesbehörde her, in deren Zuständigkeitsbereich die freizugebenden Massen beseitigt werden sollen.
+(1) Die zuständige Behörde stellt das Einvernehmen mit der für den Vollzug dieser Verordnung zuständigen obersten Landesbehörde her, in deren Zuständigkeitsbereich die freizugebenden Massen entsorgt werden sollen, bei
+
+1. einer beabsichtigten spezifischen Freigabe zur Beseitigung von Massen von mehr als 10 Megagramm im Kalenderjahr,
+
+2. bei einer beabsichtigten spezifischen Freigabe von Metallschrott zum Recycling von Massen von mehr als 10 Megagramm im Kalenderjahr und
+
+3. bei einer beabsichtigten Freigabe von Metallschrott zum Recycling bei Vorliegen einer Festlegung nach Anlage 8 Teil G Nummer 4 von Massen von mehr als 1 Megagramm im Kalenderjahr.
 
 (2) Das Einvernehmen gilt als erteilt, wenn es nicht innerhalb von 30 Kalendertagen nach Eingang des Ersuchens der für die beabsichtigte Freigabe zuständigen Behörde versagt wird. Ist auf Grund einer Abschätzung nicht auszuschließen, dass mit der beabsichtigten Freigabe das Dosiskriterium für die Freigabe am Standort der Entsorgungsanlage nicht eingehalten wird, so versagt die für den Vollzug dieser Verordnung zuständige oberste Landesbehörde, in deren Zuständigkeitsbereich die freizugebenden Massen beseitigt werden sollen, das Einvernehmen.
 
@@ -797,9 +811,9 @@ Ist kein Genehmigungsinhaber vorhanden, so kann eine Freigabe auch von Amts wege
 
 (1) Bei einer spezifischen Freigabe zur Beseitigung, bei einer spezifischen Freigabe von Metallschrott zum Recycling und bei einer spezifischen Freigabe im Einzelfall dürfen bei der für die Freigabe zuständigen Behörde keine Bedenken gegen die abfallrechtliche Zulässigkeit des vorgesehenen Verwertungs- oder Beseitigungsweges und seine Einhaltung bestehen.
 
-(2) Der Antragsteller hat der für die Freigabe zuständigen Behörde vor Erteilung der Freigabe eine Erklärung über den Verbleib des künftigen Abfalls und eine Annahmeerklärung des Betreibers der Verwertungs- oder Beseitigungsanlage oder eine anderweitige Vereinbarung zwischen dem Antragsteller und dem Betreiber der Verwertungs- oder Beseitigungsanlage vorzulegen. Der Antragsteller hat der für die Verwertungs- oder Beseitigungsanlage nach dem Kreislaufwirtschaftsgesetz zuständigen Behörde gleichzeitig eine Kopie der Annahmeerklärung oder der Vereinbarung zuzuleiten und dies der für die Freigabe zuständigen Behörde nachzuweisen.
+(2) Der Antragsteller hat der für die Freigabe zuständigen Behörde vor Erteilung der Freigabe eine Erklärung über den Verbleib des künftigen Abfalls und eine Annahmeerklärung des Betreibers der Verwertungs- oder Beseitigungsanlage oder eine anderweitige Vereinbarung zwischen dem Antragsteller und dem Betreiber der Verwertungs- oder Beseitigungsanlage vorzulegen. Der Antragsteller hat der für die Verwertungs- oder Beseitigungsanlage nach dem Kreislaufwirtschaftsgesetz zuständigen Behörde gleichzeitig eine Kopie der Annahmeerklärung oder der Vereinbarung zuzuleiten und dies der für die Freigabe zuständigen Behörde nachzuweisen. Bei einer nach § 33 Absatz 3 aufschiebend bedingten Freigabe hat der Strahlenschutzverantwortliche, der Inhaber der Freigabe ist, der zuständigen Behörde die in Satz 1 genannten Dokumente vor der Bestätigung der Übereinstimmung mit dem Inhalt des Freigabebescheids vorzulegen.
 
-(3) Die für die Verwertungs- und Beseitigungsanlage nach dem Kreislaufwirtschaftsgesetz zuständige Behörde kann von der für die Freigabe zuständigen Behörde innerhalb einer Frist von 30 Kalendertagen nach Zugang der Kopie verlangen, dass Einvernehmen hinsichtlich der Anforderungen an den Verwertungs- oder Beseitigungsweg hergestellt wird.
+(3) Die für die Verwertungs- und Beseitigungsanlage nach dem Kreislaufwirtschaftsgesetz zuständige Behörde kann von der für die Freigabe zuständigen Behörde innerhalb einer Frist von 30 Kalendertagen nach Zugang der Kopie verlangen, dass Einvernehmen hinsichtlich der Anforderungen an den Verwertungs- oder Beseitigungsweg hergestellt wird. Die nach Maßgabe des Dosiskriteriums nach § 33 Absatz 1 getroffene Entscheidung über den Verwertungs- oder Beseitigungsweg ist von den Prüfungen der Anforderungen durch die nach dem Kreislaufwirtschaftsrecht zuständige Behörde zur Herstellung des Einvernehmens ausgenommen.
 
 (4) Die Bestimmungen des Kreislaufwirtschaftsgesetzes sowie der auf Grund dieses Gesetzes erlassenen Verordnungen über die ordnungsgemäße Entsorgung von Abfällen bleiben unberührt.
 
@@ -835,7 +849,7 @@ Die Feststellung ist dem Freigabeverfahren zugrunde zu legen.
 
 (1) Der Strahlenschutzverantwortliche, der Inhaber der Freigabe ist, hat für jede Masse oder Teilmasse, die auf Grund der Freigabe als nicht radioaktiver Stoff verwendet, verwertet, beseitigt, innegehabt oder an Dritte weitergegeben werden soll, zuvor die Übereinstimmung mit dem Inhalt des Freigabebescheides festzustellen.
 
-(2) Messungen der spezifischen Aktivität (Freimessungen), die zur Feststellung der Übereinstimmung mit dem Inhalt des Freigabebescheides erforderlich sind, und ihre Ergebnisse sind von dem Strahlenschutzverantwortlichen, der Inhaber der Freigabe ist, zu dokumentieren.
+(2) Messungen, die zur Feststellung der Übereinstimmung mit dem Inhalt des Freigabebescheides erforderlich sind (Freimessungen), und ihre Ergebnisse sind von dem Strahlenschutzverantwortlichen, der Inhaber der Freigabe ist, zu dokumentieren.
 
 (3) Der Strahlenschutzverantwortliche, der Inhaber der Freigabe ist, hat die zuständige Behörde unverzüglich zu informieren, wenn eine der Anforderungen, von denen die Erteilung der Freigabe abhängt, nicht mehr erfüllt ist.
 
@@ -848,6 +862,8 @@ Die Feststellung ist dem Freigabeverfahren zugrunde zu legen.
 # § 44 – Pflichten bei Nutzung durch weitere Strahlenschutzverantwortliche
 
 (1) Ein Strahlenschutzverantwortlicher, der Inhaber einer Genehmigung nach § 12 Absatz 1 Nummer 1, 3, 4 oder 5 des Strahlenschutzgesetzes ist oder der eine Anzeige nach § 17 Absatz 1 Satz 1 oder § 19 Absatz 1 Satz 1 des Strahlenschutzgesetzes erstattet hat, hat dafür zu sorgen, dass die zuständige Behörde unverzüglich unterrichtet wird, sobald eine weitere Person die Anlage zur Erzeugung ionisierender Strahlung, die radioaktiven Stoffe, die Röntgeneinrichtung oder den Störstrahler eigenverantwortlich nutzt. Die Pflicht der weiteren Person, als Strahlenschutzverantwortlicher eine Genehmigung nach § 12 Absatz 1 Nummer 1, 3, 4 oder 5 des Strahlenschutzgesetzes zu beantragen oder eine Anzeige nach §§ 17 oder 19 Absatz 1 des Strahlenschutzgesetzes zu erstatten, bleibt unberührt.
+
+(1a) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die zuständige Behörde unverzüglich unterrichtet wird, sobald er erstmalig die technische Durchführung bei der Untersuchung von Personen mit radioaktiven Stoffen oder ionisierender Strahlung vornimmt und für diese Untersuchung die rechtfertigende Indikation oder die Befundung durch eine weitere Person, die nicht unter seiner Aufsicht steht, erfolgt. Seine Verantwortung für die Anwendung von radioaktiven Stoffen oder ionisierender Strahlung am Menschen, einschließlich der rechtfertigenden Indikation und der Befundung, bleibt unberührt.
 
 (2) Der Strahlenschutzverantwortliche und die weitere Person haben ihre Pflichten sowie die Pflichten ihrer jeweiligen Strahlenschutzbeauftragten, Medizinphysik-Experten und sonst unter ihrer Verantwortung tätigen Personen vertraglich eindeutig gegeneinander abzugrenzen. Der Vertrag ist der zuständigen Behörde auf Verlangen vorzulegen.
 
@@ -885,7 +901,7 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass das Strahlenschutzg
 
 # § 47 – Erforderliche Fachkunde im Strahlenschutz
 
-(1) Der Erwerb der erforderlichen Fachkunde im Strahlenschutz wird von der zuständigen Stelle geprüft und bescheinigt. Dazu sind der zuständigen Stelle in der Regel folgende Unterlagen vorzulegen:
+(1) Der Erwerb der erforderlichen Fachkunde im Strahlenschutz wird von der zuständigen Stelle geprüft und bescheinigt. Die Bescheinigung dient als Nachweis der Anerkennung der erforderlichen Fachkunde im Strahlenschutz. Zur Prüfung sind der zuständigen Stelle in der Regel folgende Unterlagen vorzulegen:
 
 1. Nachweise über eine für das jeweilige Anwendungsgebiet geeignete Ausbildung,
 
@@ -893,7 +909,7 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass das Strahlenschutzg
 
 3. Nachweise über die erfolgreiche Teilnahme an anerkannten Kursen.
 
-Die Kursteilnahme darf insgesamt nicht länger als fünf Jahre zurückliegen.
+Die Kursteilnahme soll insgesamt nicht länger als fünf Jahre zurückliegen.
 
 (2) Der Nachweis der praktischen Erfahrung erfolgt durch Vorlage einer schriftlichen Bestätigung derjenigen Person, in deren Verantwortungsbereich oder unter deren Aufsicht die praktische Erfahrung erworben wurde. Der Nachweis soll insbesondere folgende Angaben enthalten:
 
@@ -913,13 +929,13 @@ Dauer, Art und Umfang der zu erwerbenden praktischen Erfahrung sind abhängig vo
 
 3. allgemeine und anwendungsspezifische Strahlenschutzmaßnahmen.
 
-Die Kurse sollen praktische Übungen im Strahlenschutz beinhalten. Von einer erfolgreichen Teilnahme an einem anerkannten Kurs kann ausgegangen werden, wenn die Abschlussprüfung über die Inhalte des Kurses erfolgreich absolviert wurde.
+Die Kurse sollen Praktika und Übungen im Strahlenschutz beinhalten. Von einer erfolgreichen Teilnahme an einem anerkannten Kurs kann ausgegangen werden, wenn die Abschlussprüfung über die Inhalte des Kurses erfolgreich absolviert wurde.
 
 (4) Die zuständige Stelle kann eine im Ausland erworbene Qualifikation im Strahlenschutz vollständig oder teilweise als erforderliche Fachkunde im Strahlenschutz anerkennen, wenn diese mit der für das jeweilige Anwendungsgebiet erforderlichen Fachkunde im Strahlenschutz vergleichbar ist. Zur Feststellung der Vergleichbarkeit sind der zuständigen Stelle im Ausland erworbene Ausbildungsnachweise und Nachweise über einschlägige Berufserfahrung und sonstige Befähigungsnachweise vorzulegen, sofern diese zur Feststellung der Vergleichbarkeit erforderlich sind.
 
 (5) Die erforderliche Fachkunde im Strahlenschutz wird mit Bestehen der Abschlussprüfung einer staatlichen oder staatlich anerkannten Berufsausbildung erworben, wenn die zuständige Behörde zuvor festgestellt hat, dass in dieser Ausbildung die für das jeweilige Anwendungsgebiet erforderliche Fachkunde im Strahlenschutz vermittelt wird. Die nach der jeweiligen Ausbildungs- und Prüfungsordnung oder Approbationsordnung für das Prüfungswesen zuständige Stelle erteilt die Bescheinigung über die erforderliche Fachkunde im Strahlenschutz.
 
-(6) Für Medizinisch-technische Radiologieassistenten gilt der Nachweis der erforderlichen Fachkunde mit der Erlaubnis nach § 1 Absatz 1 Nummer 2 des MTA-Gesetzes für die vorbehaltenen Tätigkeiten nach § 9 Absatz 1 Nummer 2 des MTA-Gesetzes als erbracht.
+(6) Für Medizinische Technologen für Radiologie gilt der Nachweis der erforderlichen Fachkunde mit der Erlaubnis nach § 1 Absatz 1 Nummer 2 des MT-Berufe-Gesetzes vom 24. Februar 2021 (BGBl. I S. 274) für die vorbehaltenen Tätigkeiten nach § 5 Absatz 2 des MT-Berufe-Gesetzes als erbracht.
 
 (+++ § 47 Abs. 1 bis 5: Zur Anwendung vgl. § 49 Abs. 2 Satz 1 +++)
 
@@ -957,13 +973,15 @@ Die Kurse sollen praktische Übungen im Strahlenschutz beinhalten. Von einer erf
 
 # § 51 – Anerkennung von Kursen
 
-Kurse nach § 47 Absatz 3, § 48 Absatz 1 Satz 1, § 49 Absatz 2 Satz 1 in Verbindung mit § 47 Absatz 3 und § 49 Absatz 3 in Verbindung mit § 48 Absatz 1 Satz 1 sind von der für die Kursstätte zuständigen Stelle anzuerkennen, wenn
+(1) Kurse nach § 47 Absatz 3, § 48 Absatz 1 Satz 1, § 49 Absatz 2 Satz 1 in Verbindung mit § 47 Absatz 3 und § 49 Absatz 3 in Verbindung mit § 48 Absatz 1 Satz 1 sind von der für den Sitz des Kursanbieters zuständigen Stelle anzuerkennen, wenn
 
 1. die Kursinhalte geeignet sind, die für das jeweilige Anwendungsgebiet notwendigen Fertigkeiten und das notwendige Wissen im Strahlenschutz entsprechend § 47 Absatz 3 zu vermitteln,
 
-2. die Qualifikation des Lehrpersonals, die verwendeten Lehrmaterialien und die Ausstattung der Kursstätte eine ordnungsgemäße Wissensvermittlung gewährleisten und
+2. die Qualifikation des Lehrpersonals, die verwendeten Lehrmaterialien, die Ausstattung der Kursstätte, soweit vorhanden, und das angewandte Kurskonzept eine ordnungsgemäße Wissensvermittlung gewährleisten und
 
 3. eine Erfolgskontrolle stattfindet.
+
+(2) Der Kursanbieter hat die Behörde, in deren Zuständigkeitsbereich die Kursstätte liegt, über die Durchführung eines anerkannten Kurses mindestens vier Wochen vor dessen Beginn zu unterrichten und ihr eine Kopie des Anerkennungsbescheides zu übersenden. Ist keine Kursstätte vorhanden, so sind die Pflichten nach Satz 1 gegenüber der Behörde zu erfüllen, die für die Aufsicht am Sitz des Kursanbieters zuständig ist.
 
 # § 52 – Einrichten von Strahlenschutzbereichen
 
@@ -993,11 +1011,17 @@ Maßgebend bei der Festlegung der Grenze von Kontrollbereich oder Überwachungsb
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass Kontrollbereiche nach § 52 Absatz 2 Satz 1 Nummer 2 abgegrenzt und zusätzlich zur Kennzeichnung nach § 91 Absatz 1 deutlich sichtbar und dauerhaft mit dem Zusatz „Kontrollbereich“ gekennzeichnet werden. Die zuständige Behörde kann Ausnahmen von Satz 1 gestatten, wenn dadurch Einzelne oder die Allgemeinheit nicht gefährdet werden.
 
-(2) Im Falle von Kontrollbereichen, in denen ausschließlich Röntgeneinrichtungen oder genehmigungsbedürftige Störstrahler betrieben werden, hat der Strahlenschutzverantwortliche dafür zu sorgen, dass diese Bereiche während der Einschaltzeit und der Betriebsbereitschaft mindestens mit den Worten „Kein Zutritt – Röntgen“ gekennzeichnet werden. Die dauerhafte Kennzeichnung nach § 91 Absatz 1 und Absatz 1 Satz 1 ist entbehrlich.
+(2) Im Falle von Kontrollbereichen, in denen ausschließlich Röntgeneinrichtungen oder genehmigungsbedürftige Störstrahler betrieben werden, hat der Strahlenschutzverantwortliche dafür zu sorgen, dass diese Bereiche während der Einschaltzeit und der Betriebsbereitschaft mindestens mit den Worten „Kein Zutritt – Röntgen“ gekennzeichnet werden. Die dauerhafte Kennzeichnung nach Absatz 1 Satz 1 und § 91 Absatz 1 ist entbehrlich.
 
 (3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass Sperrbereiche nach § 52 Absatz 2 Satz 1 Nummer 3 abgegrenzt und zusätzlich zur Kennzeichnung nach § 91 Absatz 1 deutlich sichtbar und dauerhaft mindestens mit dem Zusatz „Sperrbereich – Kein Zutritt“ gekennzeichnet werden. Er hat dafür zu sorgen, dass die Sperrbereiche so abgesichert werden, dass Personen, auch mit einzelnen Körperteilen, nicht unkontrolliert hineingelangen können. Die zuständige Behörde kann Ausnahmen von den Sätzen 1 und 2 gestatten, wenn dadurch Einzelne oder die Allgemeinheit nicht gefährdet werden.
 
-(4) Sperrbereiche, die innerhalb eines Teiles eines Röntgen- oder Bestrahlungsraumes eingerichtet sind, müssen abweichend von Absatz 3 nicht gesondert gekennzeichnet oder abgegrenzt werden, wenn sich während der Einschaltzeit der Röntgeneinrichtung, der Anlage zur Erzeugung ionisierender Strahlung oder der Bestrahlungsvorrichtung nur Personen, an denen ionisierende Strahlung angewendet wird, oder Betreuungs- oder Begleitpersonen in dem Röntgen- oder Bestrahlungsraum aufhalten können.
+(4) Sperrbereiche, die innerhalb eines Teiles eines Röntgen- oder Bestrahlungsraumes eingerichtet sind, müssen abweichend von Absatz 3 nicht gesondert gekennzeichnet oder abgegrenzt werden, wenn sich in dem Röntgen- oder Bestrahlungsraum während der Einschaltzeit der Röntgeneinrichtung, der Anlage zur Erzeugung ionisierender Strahlung oder der Bestrahlungsvorrichtung nur die folgenden Personen aufhalten können:
+
+1. Personen, an denen ionisierende Strahlung angewendet wird,
+
+2. Betreuungs- oder Begleitpersonen oder
+
+3. Personen, die ionisierende Strahlung anwenden und deren Aufenthalt in unmittelbarer Nähe der zu behandelnden Person erforderlich ist.
 
 (5) Beim ortsveränderlichen Umgang mit radioaktiven Stoffen und beim ortsveränderlichen Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, Röntgeneinrichtungen, Störstrahlern oder Bestrahlungsvorrichtungen hat der Strahlenschutzverantwortliche dafür zu sorgen, dass ein einzurichtender Kontrollbereich so abgegrenzt und gekennzeichnet wird, dass unbeteiligte Personen diesen nicht unbeabsichtigt betreten können. Kann ausgeschlossen werden, dass unbeteiligte Personen den Kontrollbereich unbeabsichtigt betreten können, ist die Abgrenzung nicht erforderlich. Eine zusätzliche Abgrenzung oder Kennzeichnung von Sperrbereichen innerhalb des Kontrollbereichs ist nicht erforderlich.
 
@@ -1199,7 +1223,7 @@ Diese Unterweisung kann Bestandteil sonstiger erforderlicher Unterweisungen insb
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass an Personen, die sich in einem Strahlenschutzbereich aufhalten, die Körperdosis nach Maßgabe des § 65 Absatz 1 ermittelt wird. Ist für den Aufenthalt in einem Überwachungsbereich für alle oder für einzelne Personen zu erwarten, dass im Kalenderjahr eine effektive Dosis von 1 Millisievert, eine höhere Organ-Äquivalentdosis als 15 Millisievert für die Augenlinse und eine lokale Hautdosis von 50 Millisievert nicht erreicht werden, so kann für diese Personen auf die Ermittlung der Körperdosis verzichtet werden. Satz 2 gilt nicht, wenn die zuständige Behörde die Ermittlung verlangt. Für den Aufenthalt im Kontrollbereich gilt Satz 2 entsprechend, wenn die zuständige Behörde dem zugestimmt hat. Der Strahlenschutzverantwortliche hat darauf hinzuwirken, dass die Ermittlungsergebnisse spätestens sechs Monate nach einem Aufenthalt im Strahlenschutzbereich vorliegen.
 
-(2) Absatz 1 gilt entsprechend für Personen, die bei der Ausübung einer Tätigkeit, die nicht mit dem Aufenthalt in einem Strahlenschutzbereich verbunden ist, eine effektive Dosis von mehr als 1 Millisievert, eine höhere Organ-Äquivalentdosis als 15 Millisievert für die Augenlinse oder eine lokale Hautdosis von mehr als 50 Millisievert im Kalenderjahr erhalten können. Für das eingesetzte fliegende Personal gilt Absatz 1 entsprechend, wenn die effektive Dosis durch kosmische Strahlung 1 Millisievert im Kalenderjahr überschreiten kann.
+(2) Absatz 1 gilt entsprechend für Personen, die bei der Ausübung einer Tätigkeit, die nicht mit dem Aufenthalt in einem Strahlenschutzbereich verbunden ist, eine effektive Dosis von mehr als 1 Millisievert, eine höhere Organ-Äquivalentdosis als 15 Millisievert für die Augenlinse oder eine lokale Hautdosis von mehr als 50 Millisievert im Kalenderjahr erhalten können. Für das eingesetzte fliegende Personal gilt Absatz 1 entsprechend, wenn die effektive Dosis, die das fliegende Personal während des Fluges durch kosmische Strahlung erhält, 1 Millisievert im Kalenderjahr überschreiten kann. Der Flug umfasst auch die aufgewendete Zeit für die Positionierung nach § 13 Satz 1 der Zweiten Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Dienst-, Flugdienst-, Block- und Ruhezeiten von Besatzungsmitgliedern in Luftfahrtunternehmen und außerhalb von Luftfahrtunternehmen bei berufsmäßiger Betätigung) vom 6. April 2009 (BAnz. S. 1327), die durch Artikel 180 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist.
 
 (3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass jeder unter seiner Aufsicht stehenden beruflich exponierten Person auf deren Verlangen die im Beschäftigungsverhältnis erhaltene berufliche Exposition schriftlich mitgeteilt wird, sofern nicht ein Strahlenpass geführt wird. Beim anzeigebedürftigen Betrieb eines Luftfahrzeugs hat der Strahlenschutzverantwortliche außerdem dafür zu sorgen, dass die erhaltene berufliche Exposition den als fliegendes Personal eingesetzten Personen einmal im Kalenderjahr sowie nach ihrem letztmaligen Einsatz schriftlich mitgeteilt wird.
 
@@ -1274,7 +1298,7 @@ Die zuständige Behörde kann gestatten, dass Dosimeter in Zeitabständen bis zu
 
 (3) Der für die Einrichtung eines Strahlenschutzbereichs verantwortliche Strahlenschutzverantwortliche hat dafür zu sorgen, dass beruflich exponierte Personen nach Absatz 1 Satz 1 und 3 im Strahlenschutzbereich nur beschäftigt werden, wenn diese den Strahlenpass vorlegen und ein Dosimeter nach § 66 Absatz 1 tragen. Satz 1 gilt nicht für Strahlenschutzbereiche, in denen auf die Ermittlung der Körperdosis verzichtet werden kann.
 
-(4) Die zuständige Behörde kann im Einzelfall von der Pflicht zum Führen eines Strahlenpasses nach Absatz 1 und von der Pflicht zur Vorlage nach Absatz 3 befreien, wenn die beruflich strahlenexponierte Person in nicht mehr als einer fremden Anlage oder Einrichtung beschäftigt wird.
+(4) Die zuständige Behörde kann im Einzelfall von der Pflicht zum Führen eines Strahlenpasses nach Absatz 1 und von der Pflicht zur Vorlage nach Absatz 3 befreien, wenn die beruflich exponierte Person in nicht mehr als einer fremden Anlage oder Einrichtung beschäftigt wird. Wird die beruflich exponierte Person in mehr als einer fremden Anlage oder Einrichtung beschäftigt, kann die zuständige Behörde im Einzelfall von der Pflicht zur Vorlage des Strahlenpasses befreien, wenn durch technische Vorkehrungen sichergestellt ist, dass die Körperdosis der beruflich exponierten Person vollständig in den Dosiserfassungssystemen der fremden und der entsendenden Anlage oder Einrichtung ermittelt und auf geeignete Weise dokumentiert wird.
 
 # § 69 – Schutz von schwangeren und stillenden Personen
 
@@ -1308,9 +1332,11 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass Personen unter 18 J
 
 (2) Beim anzeigebedürftigen Betrieb eines Luftfahrzeugs hat der Strahlenschutzverantwortliche dafür zu sorgen, dass die von ihm als fliegendes Personal eingesetzten beruflich exponierten Personen vor Aufnahme ihrer Tätigkeit den Kategorien zugeordnet werden:
 
-1. Beruflich exponierte Personen der Kategorie A: Personen, deren Einsatz als fliegendes Personal zu einer effektiven Dosis durch kosmische Strahlung von mehr als 6 Millisievert im Kalenderjahr führen kann;
+1. Beruflich exponierte Personen der Kategorie A: Personen, deren Einsatz als fliegendes Personal während des Fluges zu einer effektiven Dosis durch kosmische Strahlung von mehr als 6 Millisievert im Kalenderjahr führen kann;
 
-2. Beruflich exponierte Personen der Kategorie B: Personen, die nicht in die Kategorie A eingestuft sind und deren Einsatz als fliegendes Personal zu einer effektiven Dosis durch kosmische Strahlung von mehr als 1 Millisievert im Kalenderjahr führen kann.
+2. Beruflich exponierte Personen der Kategorie B: Personen, die nicht in die Kategorie A eingestuft sind und deren Einsatz als fliegendes Personal während des Fluges zu einer effektiven Dosis durch kosmische Strahlung von mehr als 1 Millisievert im Kalenderjahr führen kann.
+
+Der Flug umfasst auch die aufgewendete Zeit für die Positionierung nach § 13 Satz 1 der Zweiten Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät.
 
 (3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Zuordnung angepasst wird, wenn abzusehen ist, dass eine Person, die in die Kategorie B eingestuft wurde, die Werte für eine Einstufung in Kategorie A erreicht.
 
@@ -1353,6 +1379,8 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Grenzwerte nach
 # § 75 – Sonstige Schutzvorkehrungen
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der Schutz beruflich exponierter Personen vor äußerer und innerer Exposition vorrangig durch bauliche und technische Vorrichtungen oder durch geeignete Arbeitsverfahren sichergestellt wird.
+
+(1a) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass beruflich exponierte Personen, die sich im Kontrollbereich aufhalten, die erforderliche Schutzkleidung tragen und die erforderliche Schutzausrüstung verwenden.
 
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass offene radioaktive Stoffe an Arbeitsplätzen nur solange und in solchen Aktivitäten vorhanden sind, wie das Arbeitsverfahren es erfordert.
 
@@ -1480,7 +1508,11 @@ Für die Bestimmung, ab welcher Aktivität ein umschlossener radioaktiver Stoff 
 
 1. das für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesministerium und das Bundeskriminalamt über den Eingang einer dem Register über hochradioaktive Strahlenquellen nach § 167 Absatz 2 oder § 168 Absatz 2 übermittelten Mitteilung über Fund, Erlangung, Verlust, widerrechtliche Entwendung oder Wiederauffinden einer hochradioaktiven Strahlenquelle,
 
-2. die zuständige Behörde, wenn übermittelte Daten nicht vollständig sind oder eine hochradioaktive Strahlenquelle gefunden wurde.
+2. die zuständige Behörde
+
+a) in den Fällen, in denen übermittelte Daten nicht vollständig sind oder eine hochradioaktive Strahlenquelle gefunden wurde, und
+
+b) über Mitteilungen nach § 85 Absatz 4 Satz 1.
 
 (5) Das Bundesamt für Strahlenschutz bestimmt das Datenformat und legt die technischen Rahmenbedingungen der Datenübermittlung im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fest.
 
@@ -1506,11 +1538,11 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der Mitteilung übe
 
 (4) Bei hochradioaktiven Strahlenquellen hat der Strahlenschutzverantwortliche zusätzlich zu der Pflicht nach Absatz 1 Satz 1 dafür zu sorgen, dass dem Register über hochradioaktive Strahlenquellen beim Bundesamt für Strahlenschutz in gesicherter elektronischer Form Folgendes mitgeteilt wird:
 
-1. bei Erwerb und Abgabe hochradioaktiver Strahlenquellen unverzüglich die Angaben entsprechend Anlage 9 sowie Änderungen der erfassten Angaben und
+1. bei Erwerb und Abgabe hochradioaktiver Strahlenquellen unverzüglich die Angaben entsprechend Anlage 9,
 
-2. innerhalb eines Monats das Datum der Dichtheitsprüfung nach § 89 Absatz 2.
+2. unverzüglich jede Änderung erfasster Angaben und
 
-Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die zuständige Behörde unverzüglich über die Mitteilung unterrichtet wird.
+3. innerhalb eines Monats das Datum der Dichtheitsprüfung nach § 89 Absatz 2.
 
 (5) Die zuständige Behörde prüft innerhalb eines Monats die nach Absatz 4 Satz 1 übermittelten Daten auf Vollständigkeit und Übereinstimmung mit der erteilten Genehmigung nach § 9 des Atomgesetzes oder § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes. Bei positiver Feststellung kennzeichnet sie die Daten als geprüft und richtig.
 
@@ -1592,11 +1624,13 @@ Satz 1 gilt nicht für die in § 17 Absatz 1 des Strahlenschutzgesetzes und § 7
 
 (4) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 
-1. Röntgeneinrichtungen mindestens alle fünf Jahre durch einen nach § 172 Absatz 1 Satz 1 Nummer 1 des Strahlenschutzgesetzes bestimmten Sachverständigen insbesondere auf sicherheitstechnische Funktion, Sicherheit und Strahlenschutz geprüft werden und
+1. Röntgeneinrichtungen mindestens alle fünf Jahre durch einen nach § 172 Absatz 1 Satz 1 Nummer 1 des Strahlenschutzgesetzes bestimmten Sachverständigen insbesondere auf sicherheitstechnische Funktion, Sicherheit und Strahlenschutz geprüft werden,
 
-2. der Prüfbericht der zuständigen Behörde auf Verlangen vorgelegt wird.
+2. Anlagen zur Erzeugung ionisierender Strahlung nach § 17 Absatz 1 Satz 1 Nummer 3 und 4 des Strahlenschutzgesetzes mindestens alle fünf Jahre durch einen nach § 172 Absatz 1 Satz 1 Nummer 3 des Strahlenschutzgesetzes bestimmten Sachverständigen insbesondere auf sicherheitstechnische Funktion, Sicherheit und Strahlenschutz geprüft werden und
 
-(5) Die zuständige Behörde kann zum Schutz Einzelner oder der Allgemeinheit anordnen, dass Störstrahler, deren Betrieb genehmigungsbedürftig ist, und nach § 17 Absatz 1 Satz 1 des Strahlenschutzgesetzes anzeigebedürftige Anlagen zur Erzeugung ionisierender Strahlung durch einen nach § 172 Absatz 1 Satz 1 Nummer 1 oder 3 des Strahlenschutzgesetzes bestimmten Sachverständigen auf sicherheitstechnische Funktion, Sicherheit und Strahlenschutz zu prüfen sind und die Prüfung in bestimmten Zeitabständen zu wiederholen ist. Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der Prüfbericht der zuständigen Behörde auf Verlangen vorgelegt wird.
+3. der Prüfbericht der zuständigen Behörde auf Verlangen vorgelegt wird.
+
+(5) Die zuständige Behörde kann zum Schutz Einzelner oder der Allgemeinheit anordnen, dass Störstrahler, deren Betrieb genehmigungsbedürftig ist, und nach § 17 Absatz 1 Satz 1 Nummer 1 und 2 des Strahlenschutzgesetzes anzeigebedürftige Anlagen zur Erzeugung ionisierender Strahlung durch einen nach § 172 Absatz 1 Satz 1 Nummer 1 oder 3 des Strahlenschutzgesetzes bestimmten Sachverständigen auf sicherheitstechnische Funktion, Sicherheit und Strahlenschutz zu prüfen sind und die Prüfung in bestimmten Zeitabständen zu wiederholen ist. Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der Prüfbericht der zuständigen Behörde auf Verlangen vorgelegt wird.
 
 # § 89 – Dichtheitsprüfung
 
@@ -1713,6 +1747,8 @@ Kennnummern, Zeichen und sonstige Abkürzungen dürfen dabei nur verwendet werde
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass Kennzeichnungen nach § 91 Absatz 1 von Gegenständen entfernt werden, die gemäß § 58 Absatz 2 Satz 1 aus Strahlenschutzbereichen herausgebracht worden sind.
 
 (2) Der Strahlenschutzverantwortliche, der Inhaber der Freigabe nach § 33 Absatz 1 ist, hat dafür zu sorgen, dass nach einer Freigabe nach § 31 Absatz 1 Kennzeichnungen nach § 91 Absatz 1 entfernt werden.
+
+(3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass im Fall einer Ausnahme von der Pflicht zur Freigabe von Stoffen und Gegenständen gemäß § 31 Absatz 5 Satz 1 Kennzeichnungen nach § 91 Absatz 1 entfernt werden.
 
 # § 94 – Abgabe radioaktiver Stoffe
 
@@ -1872,7 +1908,7 @@ Die Ermittlung der Exposition hat realitätsnah zu erfolgen. Die Bundesregierung
 
 2. Daten, die für eine Ermittlung der durch Direktstrahlung erzeugten Exposition der repräsentativen Person geeignet sind.
 
-(5) Die zuständige Behörde hat die von ihr ermittelten Expositionen der repräsentativen Personen zu dokumentieren. Sie sind allen Interessenträgern auf Anfrage zur Verfügung zu stellen. Jedenfalls für die Tätigkeiten nach Absatz 1 Satz 1 Nummer 1 sind die ermittelten Expositionen jährlich zu veröffentlichen.
+(5) Die zuständige Behörde hat die von ihr ermittelten Expositionen der repräsentativen Personen zu dokumentieren. Sie sind allen Interessenträgern auf Anfrage zur Verfügung zu stellen. Jedenfalls für die Tätigkeiten nach Absatz 1 Satz 1 Nummer 1 sind die ermittelten Expositionen jährlich zu veröffentlichen, soweit die dort genannten Tätigkeiten auf dem Betriebsgelände von Anlagen oder Einrichtungen nach §§ 6, 7, 9 oder § 9b des Atomgesetzes ausgeübt werden.
 
 (6) Zuständig für die Ermittlung nach Absatz 1 Satz 1 Nummer 1 ist das Bundesamt für Strahlenschutz, soweit die dort genannten Tätigkeiten auf dem Betriebsgelände von Anlagen oder Einrichtungen nach §§ 6, 7, 9 oder § 9b des Atomgesetzes ausgeübt werden.
 
@@ -1880,7 +1916,7 @@ Die Ermittlung der Exposition hat realitätsnah zu erfolgen. Die Bundesregierung
 
 (1) Für den Betrieb, die Stilllegung, den sicheren Einschluss und den Abbau von kerntechnischen Anlagen, Anlagen im Sinne des § 9a Absatz 3 Satz 1 erster Halbsatz zweiter Satzteil des Atomgesetzes, Anlagen zur Erzeugung ionisierender Strahlung und Einrichtungen legt die zuständige Behörde die zulässigen Ableitungen radioaktiver Stoffe mit Luft und Wasser durch Begrenzung der Aktivitätskonzentrationen oder Aktivitätsmengen fest. Der Nachweis der Einhaltung der Grenzwerte des § 99 Absatz 1 gilt als erbracht, wenn diese Begrenzungen nicht überschritten werden.
 
-(2) Bei Anlagen oder Einrichtungen nach Absatz 1, die keiner Genehmigung nach §§ 6, 7, 9 oder 9b des Atomgesetzes und keines Planfeststellungsbeschlusses nach § 9b des Atomgesetzes bedürfen, kann die zuständige Behörde von der Festlegung von Aktivitätsmengen und Aktivitätskonzentrationen absehen und den Nachweis nach § 100 Absatz 1 zur Einhaltung der in § 99 Absatz 1 genannten Grenzwerte als erbracht ansehen, wenn die nach Anlage 11 Teil D zulässigen Aktivitätskonzentrationen für Ableitungen radioaktiver Stoffe mit Luft oder Wasser aus Strahlenschutzbereichen der betreffenden Anlagen oder Einrichtungen im Jahresdurchschnitt nicht überschritten werden. Werden die Werte der Anlage 11 Teil D eingehalten, so ist davon auszugehen, dass die effektive Dosis durch Ableitungen radioaktiver Stoffe aus dieser Tätigkeit mit Luft oder Wasser den Bereich von 10 Mikrosievert im Kalenderjahr jeweils nicht überschreitet. Soweit die zuständige Behörde nichts anderes festlegt, sind die zulässigen Aktivitätskonzentrationen an der Grenze eines Strahlenschutzbereichs einzuhalten. Satz 1 findet keine Anwendung, wenn der zuständigen Behörde Anhaltspunkte vorliegen, dass die in § 99 Absatz 1 genannten Grenzwerte oder die Grenzwerte des § 80 Absatz 1 und 2 des Strahlenschutzgesetzes an einem Standort durch Ableitungen oder Direktstrahlung aus in Absatz 1 genannten Anlagen oder Einrichtungen an diesem Standort oder anderen nach § 99 Absatz 2 einzubeziehenden Standorten überschritten werden können.
+(2) Bei Anlagen oder Einrichtungen nach Absatz 1, die keiner Genehmigung nach §§ 6, 7, 9 oder 9b des Atomgesetzes und keines Planfeststellungsbeschlusses nach § 9b des Atomgesetzes bedürfen, kann die zuständige Behörde von der Festlegung von Aktivitätsmengen und Aktivitätskonzentrationen absehen und den Nachweis nach § 100 Absatz 1 zur Einhaltung der in § 99 Absatz 1 genannten Grenzwerte als erbracht ansehen, wenn die nach Anlage 11 Teil D zulässigen Aktivitätskonzentrationen für Ableitungen radioaktiver Stoffe mit Luft oder Wasser aus Strahlenschutzbereichen der betreffenden Anlagen oder Einrichtungen im Jahresdurchschnitt nicht überschritten werden. Werden die Werte der Anlage 11 Teil D eingehalten, so ist davon auszugehen, dass die effektive Dosis durch Ableitungen radioaktiver Stoffe aus dieser Tätigkeit mit Luft oder Wasser den Bereich von 10 Mikrosievert im Kalenderjahr jeweils nicht überschreitet. Soweit die zuständige Behörde nichts anderes festlegt, sind die zulässigen Aktivitätskonzentrationen an der Grenze eines Strahlenschutzbereichs einzuhalten. Satz 1 findet keine Anwendung, wenn der zuständigen Behörde Anhaltspunkte vorliegen, dass die in § 99 Absatz 1 genannten Grenzwerte oder die Grenzwerte des § 80 Absatz 1 und 2 des Strahlenschutzgesetzes an einem Standort durch Ableitungen und Direktstrahlung aus in Absatz 1 genannten Anlagen oder Einrichtungen an diesem Standort oder anderen nach § 99 Absatz 2 einzubeziehenden Standorten überschritten werden können.
 
 # § 103 – Emissions- und Immissionsüberwachung
 
@@ -1890,9 +1926,9 @@ Die Ermittlung der Exposition hat realitätsnah zu erfolgen. Die Bundesregierung
 
 2. der zuständigen Behörde mindestens jährlich mitgeteilt werden; die Ableitungen sind nach Art und Aktivität zu spezifizieren.
 
-Die zuständige Behörde kann von der Mitteilungspflicht ganz oder teilweise befreien, wenn sie auf andere Weise hinreichend abschätzen kann, dass die Grenzwerte des § 99 Absatz 1 unter Berücksichtigung von § 99 Absatz 2 durch die Ableitungen nicht überschritten werden. Satz 2 gilt nicht für Anlagen zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität und von Anlagen zur Aufarbeitung bestrahlter Kernbrennstoffe.
+Die zuständige Behörde kann von der Überwachungspflicht nach Satz 1 Nummer 1 befreien, wenn einer Bewertung durch den Strahlenschutzverantwortlichen zufolge sichergestellt ist, dass die effektive Dosis durch Ableitungen radioaktiver Stoffe mit Luft oder Wasser den Bereich von 10 Mikrosievert im Kalenderjahr jeweils nicht überschreiten wird. Der Strahlenschutzverantwortliche hat der zuständigen Behörde die entsprechende Bewertung mindestens jährlich mitzuteilen. Satz 2 gilt nicht für Anlagen zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität und für Anlagen zur Aufarbeitung bestrahlter Kernbrennstoffe.
 
-(2) Die zuständige Behörde kann anordnen, dass bei dem Betrieb, der Stilllegung, dem sicheren Einschluss und dem Abbau von kerntechnischen Anlagen, Anlagen im Sinne des § 9a Absatz 3 Satz 1 zweiter Satzteil des Atomgesetzes, Anlagen zur Erzeugung ionisierender Strahlung und Einrichtungen die Aktivität von Proben aus der Umgebung sowie Ortsdosen zur Überwachung der Exposition durch Direktstrahlung nach einem festzulegenden Plan durch Messung bestimmt werden und dass die Messergebnisse aufzuzeichnen, der zuständigen Behörde auf Verlangen vorzulegen und der Öffentlichkeit zugänglich zu machen sind. Die zuständige Behörde kann die Stelle bestimmen, die die Messungen vorzunehmen hat.
+(2) Die zuständige Behörde kann anordnen, dass bei dem Betrieb, der Stilllegung, dem sicheren Einschluss und dem Abbau von kerntechnischen Anlagen, Anlagen im Sinne des § 9a Absatz 3 Satz 1 erster Halbsatz zweiter Satzteil des Atomgesetzes, Anlagen zur Erzeugung ionisierender Strahlung und Einrichtungen die Aktivität von Proben aus der Umgebung sowie Ortsdosen zur Überwachung der Exposition durch Direktstrahlung nach einem festzulegenden Plan durch Messung bestimmt werden und dass die Messergebnisse aufzuzeichnen, der zuständigen Behörde auf Verlangen vorzulegen und der Öffentlichkeit zugänglich zu machen sind. Die zuständige Behörde kann die Stelle bestimmen, die die Messungen vorzunehmen hat.
 
 (3) Zur Sicherstellung eines bundeseinheitlichen Qualitätsstandards bei der Emissions- und Immissionsüberwachung führen die in Anlage 12 genannten Verwaltungsbehörden des Bundes als Leitstellen Vergleichsmessungen und Vergleichsanalysen durch. Die Leitstellen haben ferner die Aufgabe, Probenahme-, Analyse- und Messverfahren zu entwickeln und festzulegen sowie die Daten der Emissions- und Immissionsüberwachung zusammenzufassen, aufzubereiten und zu dokumentieren. Die Physikalisch-Technische Bundesanstalt stellt Radioaktivitätsstandards für Vergleichsmessungen und Referenzmessfelder zur Messung der Gamma-Ortsdosisleistung der Umgebungsstrahlung bereit.
 
@@ -2052,25 +2088,35 @@ Dieser Abschnitt findet keine Anwendung beim anzeigebedürftigen Betrieb eines L
 
 4. im Falle der Verwendung zur Durchleuchtung bei Interventionen neben der Vorrichtung oder Funktion nach Nummer 1 über eine Funktion verfügt, die der Person nach § 145 durchgängig während der Anwendung die Parameter zur Ermittlung der Exposition der untersuchten Person anzeigt.
 
+Abweichend von Nummer 2 ist die dort genannte Funktion für Dentalaufnahmegeräte mit Tubus und für Panoramaschichtgeräte nicht erforderlich.
+
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine Anlage zur Erzeugung ionisierender Strahlung oder eine Bestrahlungsvorrichtung, die jeweils eine Photonen- oder Teilchenenergie von mindestens 1 Megaelektronenvolt bereitstellt, zur Behandlung von Personen nur verwendet wird, wenn sie die Überprüfung der Parameter zur Bestimmung der Dosisverteilung ermöglicht.
 
 (3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine Anlage zur Erzeugung ionisierender Strahlung zur Untersuchung von Personen nur verwendet wird, wenn sie über eine Funktion verfügt, die der Person nach § 145 die Parameter zur Ermittlung der Exposition der untersuchten Person anzeigt, oder, falls dies nach dem Stand der Technik nicht möglich ist, mit der die erhaltene Exposition der untersuchten Person auf andere Weise unmittelbar ermittelt werden kann.
 
-# § 115 – Qualitätssicherung vor Inbetriebnahme; Abnahmeprüfung
+# § 115 – Qualitätssicherung vor Inbetriebnahme; Abnahmeprüfung; Bezugswertfestlegung
 
 (1) Bei Anlagen zur Erzeugung ionisierender Strahlung, Bestrahlungsvorrichtungen, Röntgeneinrichtungen und sonstigen Vorrichtungen und Geräten, die bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen verwendet werden, hat der Strahlenschutzverantwortliche vor der Inbetriebnahme sicherzustellen, dass die für die Anwendung erforderliche Qualität im Sinne des § 14 Absatz 1 Nummer 5 des Strahlenschutzgesetzes erreicht wird und zu diesem Zweck unter seiner Einbindung eine Abnahmeprüfung durch den jeweiligen Hersteller oder Lieferanten der einzelnen Komponenten durchgeführt wird.
 
-(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass als Teil der Abnahmeprüfung die Bezugswerte für die Konstanzprüfung nach § 116 bestimmt werden.
+(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Bezugswerte für die Konstanzprüfung nach § 116 bestimmt werden:
+
+1. als Teil der Abnahmeprüfung oder
+
+2. im Rahmen sonstiger gleichwertiger qualitätssichernder Maßnahmen durch eine Person mit der erforderlichen Fachkunde im Strahlenschutz, soweit
+
+a) eine Bestimmung gemäß Nummer 1 nicht sachgerecht ist oder
+
+b) eine Bezugswertfestlegung notwendig ist, aber keine Pflicht zur Durchführung einer Abnahmeprüfung besteht.
 
 (3) Ist die Anlage zur Erzeugung ionisierender Strahlung, die Bestrahlungsvorrichtung, die Röntgeneinrichtung oder eine sonstige Vorrichtung oder ein Gerät Teil eines Gesamtsystems für die Anwendung am Menschen, so hat der Strahlenschutzverantwortliche auch für das Gesamtsystem durch eine Prüfung sicherzustellen, dass die für die Anwendung erforderliche Qualität im Sinne des § 14 Absatz 1 Nummer 5 des Strahlenschutzgesetzes erreicht wird.
 
-(4) Die Absätze 1 bis 3 gelten entsprechend nach jeder Änderung einer Anlage zur Erzeugung ionisierender Strahlung, Bestrahlungsvorrichtung, einer Röntgeneinrichtung, einer sonstigen Vorrichtung oder eines Gerätes nach Absatz 1, welche die für die Anwendung erforderliche Qualität im Sinne des § 14 Absatz 1 Nummer 5 des Strahlenschutzgesetzes beeinflussen kann. In diesem Fall kann sich die Prüfung auf die Änderung und deren Auswirkungen beschränken. Ist die Abnahmeprüfung durch den Hersteller oder Lieferanten nicht mehr möglich, so hat der Strahlenschutzverantwortliche dafür zu sorgen, dass eine gleichwertige Prüfung durch eine Person mit der erforderlichen Fachkunde im Strahlenschutz durchgeführt wird.
+(4) Die Absätze 1 bis 3 gelten entsprechend nach jeder Änderung einer Anlage zur Erzeugung ionisierender Strahlung, Bestrahlungsvorrichtung, einer Röntgeneinrichtung, einer sonstigen Vorrichtung oder eines Gerätes nach Absatz 1, welche die für die Anwendung erforderliche Qualität im Sinne des § 14 Absatz 1 Nummer 5 des Strahlenschutzgesetzes beeinflussen kann. In diesem Fall kann sich die Prüfung auf die Änderung und deren Auswirkungen beschränken. Ist die Abnahmeprüfung durch den Hersteller oder Lieferanten nicht mehr möglich oder würde sie zu einer unverhältnismäßigen Beeinträchtigung des angezeigten oder genehmigten Betriebs oder Umgangs führen, so hat der Strahlenschutzverantwortliche dafür zu sorgen, dass eine gleichwertige Prüfung durch eine Person mit der erforderlichen Fachkunde im Strahlenschutz durchgeführt wird.
 
 # § 116 – Konstanzprüfung
 
-(1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für Anlagen zur Erzeugung ionisierender Strahlung, Bestrahlungsvorrichtungen, Röntgeneinrichtungen oder sonstige Vorrichtungen oder Geräte nach § 115 Absatz 1 nach der Inbetriebnahme regelmäßig und in den erforderlichen Zeitabständen geprüft wird, ob die für die Anwendung erforderliche Qualität im Sinne des § 14 Absatz 1 Nummer 5 des Strahlenschutzgesetzes weiterhin erreicht wird (Konstanzprüfung). Hierzu ist insbesondere zu prüfen, ob die Bezugswerte, die nach § 115 Absatz 2 in der letzten Abnahmeprüfung erhoben wurden, eingehalten werden.
+(1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für Anlagen zur Erzeugung ionisierender Strahlung, Bestrahlungsvorrichtungen, Röntgeneinrichtungen oder sonstige Vorrichtungen oder Geräte nach § 115 Absatz 1 nach der Inbetriebnahme regelmäßig und in den erforderlichen Zeitabständen geprüft wird, ob die für die Anwendung erforderliche Qualität im Sinne des § 14 Absatz 1 Nummer 5 des Strahlenschutzgesetzes weiterhin erreicht wird (Konstanzprüfung). Hierzu ist insbesondere zu prüfen, ob die Bezugswerte, die nach § 115 Absatz 2 und Absatz 4 Satz 1 und 2 erhoben wurden, eingehalten werden. Die zuständige Behörde kann die Zeitabstände für die Konstanzprüfung festlegen, soweit dies zum Schutz von Personen, an denen ionisierende Strahlung oder radioaktive Stoffe angewandt werden, erforderlich ist.
 
-(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei der Konstanzprüfung die Prüfmittel verwendet werden, die bei der Abnahmeprüfung für die Bestimmung der Bezugswerte nach § 115 Absatz 2 verwendet wurden. Die zuständige Behörde kann im Einzelfall der Verwendung anderer Prüfmittel zustimmen, wenn die Verwendung der bei der Abnahmeprüfung verwendeten Prüfmittel zu einer unverhältnismäßigen Beeinträchtigung des angezeigten oder genehmigten Betriebs führen würde.
+(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei der Konstanzprüfung Prüfmittel verwendet werden, die denjenigen, die für die Bestimmung der Bezugswerte nach § 115 Absatz 2 verwendet wurden, gleichartig und gleichwertig sind. Die zuständige Behörde kann im Einzelfall der Verwendung anderer Prüfmittel zustimmen, wenn die Verwendung der Prüfmittel nach Satz 1 zu einer unverhältnismäßigen Beeinträchtigung des angezeigten oder genehmigten Betriebs oder Umgangs führen würde.
 
 (3) In Fällen des § 115 Absatz 3 ist zudem zu prüfen, ob auch das Gesamtsystem die für die Anwendung erforderliche Qualität im Sinne des § 14 Absatz 1 Nummer 5 des Strahlenschutzgesetzes weiterhin erreicht.
 
@@ -2084,7 +2130,7 @@ Dieser Abschnitt findet keine Anwendung beim anzeigebedürftigen Betrieb eines L
 
 1. bei Prüfungen nach § 115 für die Dauer des Betriebes, mindestens jedoch drei Jahre nach dem Abschluss der nächsten vollständigen Abnahmeprüfung,
 
-2. bei Prüfungen nach § 116 zehn Jahre nach Abschluss der Prüfung.
+2. bei Prüfungen nach § 116 fünf Jahre nach Abschluss der Prüfung.
 
 Die zuständige Behörde kann Abweichungen von den Aufbewahrungsfristen festlegen.
 
@@ -2174,11 +2220,13 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass ein aktuelles Besta
 
 (3) Das Bundesamt für Strahlenschutz ermittelt mindestens alle zwei Jahre die medizinische Exposition der Bevölkerung und ausgewählter Bevölkerungsgruppen.
 
-# § 126 – Risikoanalyse vor Strahlenbehandlungen
+# § 126 – Risikobeurteilung vor Strahlenbehandlungen
 
-(1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass vor dem erstmaligen Einsatz oder einer wesentlichen Änderung eines Behandlungsverfahrens mit radioaktiven Stoffen oder ionisierender Strahlung eine Analyse zur Identifikation und Bewertung der Gefahr unbeabsichtigter Expositionen der behandelten Person durchgeführt wird.
+(1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass vor dem erstmaligen Einsatz oder einer wesentlichen Änderung eines Behandlungsverfahrens mit radioaktiven Stoffen oder ionisierender Strahlung eine Risikobeurteilung zur Identifikation und Bewertung der Gefahr unbeabsichtigter Expositionen der behandelten Person durchgeführt wird.
 
-(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Ergebnisse der Analyse
+(1a) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Risikobeurteilung mindestens alle drei Jahre wiederholt wird.
+
+(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Ergebnisse der Risikobeurteilung
 
 1. aufgezeichnet werden,
 
@@ -2282,7 +2330,9 @@ Personenbezogene Daten der untersuchten oder behandelten Personen dürfen nicht 
 
 (5) Die ärztlichen und zahnärztlichen Stellen unterliegen im Hinblick auf personenbezogene Daten der untersuchten oder behandelten Personen der ärztlichen Schweigepflicht.
 
-(6) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der ärztlichen oder zahnärztlichen Stelle auf Verlangen alle Informationen zur Verfügung gestellt werden, die diese zur Wahrnehmung ihrer Aufgaben benötigt. Die ärztliche oder zahnärztliche Stelle darf die ihr nach Satz 1 übermittelten Daten nur zu den in den Absätzen 1 und 2 genannten Zwecken verarbeiten.
+(6) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der ärztlichen oder zahnärztlichen Stelle auf Verlangen alle Informationen und personenbezogenen Daten zur Verfügung gestellt werden, die diese zur Wahrnehmung ihrer Aufgaben benötigt. Die ärztliche oder zahnärztliche Stelle darf die ihr nach Satz 1 übermittelten Daten nur zu den in den Absätzen 1 und 2 genannten Zwecken verarbeiten.
+
+(7) Die ärztliche oder zahnärztliche Stelle darf die ihr nach Absatz 6 Satz 1 übermittelten Daten anderen ärztlichen oder zahnärztlichen Stellen übermitteln, wenn dies zur Erfüllung der Aufgaben der übermittelnden Stelle oder der Stelle, der die Daten übermittelt werden, erforderlich ist. Die ärztliche oder zahnärztliche Stelle, der die Daten übermittelt werden, darf diese nur zu den in den Absätzen 1 und 2 genannten Zwecken verarbeiten.
 
 # § 131 – Medizinphysik-Experte
 
@@ -2316,7 +2366,7 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass ein Medizinphysik-E
 
 5. Untersuchung von Vorkommnissen,
 
-6. Durchführung der Risikoanalyse für Behandlungen und
+6. Durchführung der Risikobeurteilung für Behandlungen und
 
 7. Unterweisung und Einweisung der bei der Anwendung tätigen Personen.
 
@@ -2520,7 +2570,7 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Exposition für
 
 1. Personen, die nach Absatz 1 ionisierende Strahlung und radioaktive Stoffe am Menschen anwenden dürfen,
 
-2. Personen mit einer Erlaubnis nach § 1 Absatz 1 Nummer 2 des MTA-Gesetzes vom 2. August 1993 (BGBl. I S. 1402), das zuletzt durch Artikel 21 des Gesetzes vom 18. April 2016 (BGBl. I S. 886) geändert worden ist,
+2. Personen mit einer Erlaubnis nach § 1 Absatz 1 Nummer 2 des MT-Berufe-Gesetzes,
 
 3. Personen mit einer staatlich geregelten, staatlich anerkannten oder staatlich überwachten erfolgreich abgeschlossenen Ausbildung, wenn die technische Durchführung Gegenstand ihrer Ausbildung und Prüfung war und sie die erforderliche Fachkunde im Strahlenschutz besitzen,
 
@@ -2530,11 +2580,13 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Exposition für
 
 6. Medizinphysik-Experten, wenn sie unter ständiger Aufsicht und Verantwortung einer Person nach Absatz 1 Nummer 1 tätig sind.
 
+Die berechtigten Personen nach Satz 1 müssen am Ort der technischen Durchführung anwesend sein.
+
 # § 146 – Berechtigte Personen in der Tierheilkunde
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass ionisierende Strahlung und radioaktive Stoffe in der Tierheilkunde nur angewendet werden von
 
-1. Personen, die als Tierärzte, Ärzte oder Zahnärzte approbiert sind oder denen die vorübergehende Ausübung des ärztlichen oder zahnärztlichen Berufs erlaubt ist und die die für die Anwendung erforderliche Fachkunde im Strahlenschutz besitzen,
+1. Personen, die als Tierärzte, Ärzte oder Zahnärzte approbiert sind oder denen die vorübergehende Ausübung des tierärztlichen, ärztlichen oder zahnärztlichen Berufs erlaubt ist und die die für die Anwendung erforderliche Fachkunde im Strahlenschutz besitzen,
 
 2. Personen, die zur Ausübung des tierärztlichen, ärztlichen oder zahnärztlichen Berufs berechtigt sind und die nicht die erforderliche Fachkunde im Strahlenschutz besitzen, wenn sie auf ihrem speziellen Arbeitsgebiet über die für die Anwendung erforderlichen Kenntnisse im Strahlenschutz verfügen und unter ständiger Aufsicht und Verantwortung einer der unter Nummer 1 genannten Personen tätig sind.
 
@@ -2542,13 +2594,15 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Exposition für
 
 1. Personen, die nach Absatz 1 ionisierende Strahlung und radioaktive Stoffe in der Tierheilkunde anwenden dürfen,
 
-2. Personen mit einer Erlaubnis nach § 1 Absatz 1 Nummer 2 des MTA-Gesetzes,
+2. Personen mit einer Erlaubnis nach § 1 Absatz 1 Nummer 2 des MT-Berufe-Gesetzes,
 
 3. Personen mit einer staatlich geregelten, staatlich anerkannten oder staatlich überwachten erfolgreich abgeschlossenen Ausbildung, wenn die technische Durchführung Gegenstand ihrer Ausbildung und Prüfung war und sie die erforderliche Fachkunde im Strahlenschutz besitzen,
 
 4. Medizinphysik-Experten,
 
 5. Personen, die über die erforderlichen Kenntnisse im Strahlenschutz verfügen, wenn sie unter ständiger Aufsicht und Verantwortung einer Person nach Absatz 1 Nummer 1 tätig sind.
+
+Die berechtigten Personen nach Satz 1 müssen am Ort der technischen Durchführung anwesend sein.
 
 # § 147 – Berechtigte Personen außerhalb der Anwendung am Menschen oder der Tierheilkunde
 
@@ -2578,9 +2632,19 @@ Satz 1 Nummer 2 gilt nicht für Störstrahler, deren Betrieb keiner Genehmigung 
 
 (1) In dem Aufsichtsprogramm nach § 180 Absatz 1 Satz 1 des Strahlenschutzgesetzes legt die zuständige Behörde die Durchführung und die Modalitäten aufsichtlicher Prüfungen fest, insbesondere von Vor-Ort-Prüfungen.
 
-(2) In welchen zeitlichen Abständen regelmäßige Vor-Ort-Prüfungen erfolgen, richtet sich nach Art und Ausmaß des mit der jeweiligen Tätigkeit verbundenen Risikos. Bei der Beurteilung der Art und des Ausmaßes des Risikos sind die Kriterien nach Anlage 16 zugrunde zu legen. Regelmäßige Vor-Ort-Prüfungen erfolgen in der Regel in zeitlichen Abständen von einem Jahr bis zu sechs Jahren. Für Tätigkeiten mit geringem Risiko kann in dem Aufsichtsprogramm von der Durchführung regelmäßiger Vor-Ort-Prüfungen abgesehen und eine andere Vorgehensweise zur Auswahl des Zeitpunkts einer Vor-Ort-Prüfung festgelegt werden.
+(2) In welchen zeitlichen Abständen regelmäßige Vor-Ort-Prüfungen erfolgen, richtet sich nach Art und Ausmaß des mit der jeweiligen Tätigkeit verbundenen Risikos. Bei der Beurteilung der Art und des Ausmaßes des Risikos sind die Kriterien nach Anlage 16 zugrunde zu legen. Regelmäßige Vor-Ort-Prüfungen erfolgen in der Regel in zeitlichen Abständen von einem Jahr bis zu sechs Jahren. Für Tätigkeiten mit geringem Risiko kann in dem Aufsichtsprogramm von der Durchführung regelmäßiger Vor-Ort-Prüfungen abgesehen und eine andere Vorgehensweise zur Auswahl des Zeitpunkts einer Vor-Ort-Prüfung festgelegt werden. Für Tätigkeiten, bei denen die Festlegung regelmäßiger zeitlicher Abstände für Vor-Ort-Prüfungen aufgrund spezifischer Tätigkeitsmerkmale oder Genehmigungsinhalte nicht möglich oder nicht sachgerecht ist, ist der Zeitpunkt einer Vor-Ort-Prüfung im Einzelfall festzulegen.
 
-(3) Die Absätze 1 und 2 sind nicht anzuwenden auf Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 3 bis 6 des Strahlenschutzgesetzes.
+(3) Die Absätze 1 und 2 sind nicht anzuwenden auf:
+
+1. Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 1 des Strahlenschutzgesetzes, soweit sich der Umgang auf natürlich vorkommende radioaktive Stoffe zur Nutzung als Kernbrennstoff oder zur Erzeugung von Kernbrennstoffen oder den Umgang mit radioaktiven Stoffen zum Zweck der Lagerung, Bearbeitung oder Verarbeitung als radioaktive Abfälle, mit dem Ziel, diese radioaktiven Abfälle geordnet zu beseitigen, bezieht,
+
+2. Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 2 des Strahlenschutzgesetzes, soweit diese sich auf
+
+a) natürlich vorkommende radioaktive Stoffe beziehen, die als Kernbrennstoff oder zur Erzeugung von Kernbrennstoff genutzt werden, oder
+
+b) die Beförderung oder grenzüberschreitende Verbringung radioaktiver Abfälle beziehen,
+
+3. Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 3 bis 6 des Strahlenschutzgesetzes.
 
 # § 150 – Dosimetrie bei Einsatzkräften
 
@@ -2730,7 +2794,7 @@ Die zuständige Behörde legt eine Ersatzdosis fest und veranlasst, dass die Ers
 
 (2) Wurde unter Verstoß gegen § 78 Absatz 1 oder 3 Satz 1 oder 3 des Strahlenschutzgesetzes ein Grenzwert im Kalenderjahr überschritten, so ist eine Weiterbeschäftigung der Person nur zulässig, wenn der nach § 131 Absatz 1 des Strahlenschutzgesetzes Verpflichtete dafür sorgt, dass die Expositionen in den folgenden vier Kalenderjahren unter Berücksichtigung der erfolgten Grenzwertüberschreitung so begrenzt werden, dass die Summe der Dosen das Fünffache des Grenzwertes nicht überschreitet. Ist die Überschreitung des Grenzwertes so hoch, dass bei Anwendung von Satz 1 die bisherige Beschäftigung nicht fortgesetzt werden kann, kann die zuständige Behörde im Benehmen mit einem nach § 175 Absatz 1 Satz 1 ermächtigten Arzt Ausnahmen zulassen.
 
-(3) Der nach § 131 Absatz 1 des Strahlenschutzgesetzes Verpflichtete darf Personen, die eine unter § 130 Absatz 3 des Strahlenschutzgesetzes fallende Betätigung ausüben, eine Beschäftigung oder Weiterbeschäftigung nur erlauben, wenn sie innerhalb des jeweiligen Kalenderjahres von einem nach § 175 Absatz 1 Satz 1 ermächtigten Arzt untersucht worden sind und dem nach § 131 Absatz 1 des Strahlenschutzgesetzes Verpflichteten eine von dem ermächtigten Arzt ausgestellte Bescheinigung vorliegt, nach der der Beschäftigung keine gesundheitlichen Bedenken entgegenstehen. Dies gilt entsprechend für Personen, die in eigener Verantwortung in eigener oder in einer anderen Betriebsstätte Arbeiten ausüben. § 77 Absatz 3 und die §§ 79 und 80 gelten entsprechend. Die entsprechend § 79 Absatz 1 Satz 1 angeforderten Unterlagen sind dem ermächtigten Arzt unverzüglich zu übergeben. Der ermächtigte Arzt hat die ärztliche Bescheinigung dem Verpflichteten nach § 131 Absatz 1 des Strahlenschutzgesetzes, der exponierten Person und, soweit gesundheitliche Bedenken bestehen, auch der zuständigen Behörde unverzüglich zu übersenden.
+(3) Der nach § 131 Absatz 1 des Strahlenschutzgesetzes Verpflichtete darf Personen, die eine unter § 130 Absatz 3 des Strahlenschutzgesetzes fallende Betätigung ausüben, eine Beschäftigung oder Weiterbeschäftigung nur erlauben, wenn sie innerhalb des jeweiligen Kalenderjahres von einem nach § 175 Absatz 1 Satz 1 ermächtigten Arzt untersucht worden sind und dem nach § 131 Absatz 1 des Strahlenschutzgesetzes Verpflichteten eine von dem ermächtigten Arzt ausgestellte Bescheinigung vorliegt, nach der der Beschäftigung keine gesundheitlichen Bedenken entgegenstehen. Dies gilt entsprechend für Personen, die in eigener Verantwortung in eigener oder in einer anderen Betriebsstätte Arbeiten ausüben. § 77 Absatz 2 Satz 2 und Absatz 3 sowie die §§ 79 und 80 gelten entsprechend. Die entsprechend § 79 Absatz 1 Satz 1 angeforderten Unterlagen sind dem ermächtigten Arzt unverzüglich zu übergeben. Der ermächtigte Arzt hat die ärztliche Bescheinigung dem Verpflichteten nach § 131 Absatz 1 des Strahlenschutzgesetzes, der exponierten Person und, soweit gesundheitliche Bedenken bestehen, auch der zuständigen Behörde unverzüglich zu übersenden.
 
 (4) Soweit die Expositionsbedingungen es erfordern, kann die zuständige Behörde bei unter § 130 Absatz 3 des Strahlenschutzgesetzes fallenden Betätigungen gegenüber dem nach § 131 Absatz 1 des Strahlenschutzgesetzes Verpflichteten Maßnahmen entsprechend den §§ 45, 46, 52, 53, 55, 56, 63, des § 75 Absatz 1 und des § 91 Absatz 1 Satz 1 Nummer 3 anordnen.
 
@@ -2742,7 +2806,7 @@ Der Verpflichtete nach § 135 Absatz 1 des Strahlenschutzgesetzes hat zum Nachwe
 
 2. dafür zu sorgen, dass der Aktivitätsindex die in Anlage 17 genannten Werte nicht überschreitet.
 
-# § 160 – Ermittlung der Exposition der Bevölkerung
+# § 160 – Ermittlung der Exposition
 
 (1) Bei der Ermittlung der Exposition von Einzelpersonen der Bevölkerung sind realistische Expositionspfade und Expositionsannahmen zu verwenden. Soweit dabei die Expositionspfade nach Anlage 11 Teil A Berücksichtigung finden, sind die Annahmen der Anlage 11 Teil B Tabelle 1 Spalte 1 bis 7 und Tabelle 2 zugrunde zu legen. Dabei sind unbeschadet des § 136 Absatz 3 des Strahlenschutzgesetzes Art und Konzentrationen der Radionuklide und die Möglichkeit ihrer Ausbreitung in der Umwelt zu berücksichtigen.
 
@@ -2754,7 +2818,7 @@ Der Verpflichtete nach § 135 Absatz 1 des Strahlenschutzgesetzes hat zum Nachwe
 
 Ist die Abschätzung der Exposition für den sich aus Satz 2 ergebenden Zeitraum nicht mit hinreichender Zuverlässigkeit möglich, so ist eine Abschätzung für den Zeitraum ausreichend, für den hinreichend zuverlässige Aussagen getroffen werden können. Eine Abschätzung ist höchstens für einen Zeitraum von 1 000 Jahren durchzuführen.
 
-(3) Für Einzelpersonen der Bevölkerung sind die Dosiskoeffizienten aus der Zusammenstellung im Bundesanzeiger Nummer 160a und b vom 28. August 2001 Teil I und II zu verwenden. Für Arbeitskräfte sind die Dosiskoeffizienten aus der Zusammenstellung im Bundesanzeiger Nummer 160a und b vom 28. August 2001 Teil I und III zu verwenden.
+(3) Für Einzelpersonen der Bevölkerung sind die in Anlage 18 Teil B Nummer 4 Satz 2 genannten Dosiskoeffizienten zu verwenden. Für Personen, die einer beruflichen Exposition ausgesetzt sind, sind die in Anlage 18 Teil B Nummer 4 Satz 3 genannten Dosiskoeffizienten zu verwenden. Zur Abschätzung der Körperdosis der Arbeitskräfte gemäß § 145 Absatz 1 des Strahlenschutzgesetzes sind stets die Dosiskoeffizienten für die berufliche Exposition gemäß Satz 2 zu verwenden.
 
 (4) Bei der Nutzung, Stilllegung, Sanierung und Folgenutzung bergbaulicher Anlagen und Einrichtungen, insbesondere der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus, sowie anderer Grundstücke, die durch bergbauliche Hinterlassenschaften kontaminiert sind, kann die zuständige Behörde davon ausgehen, dass die Anforderungen nach Absatz 1 erfüllt sind, wenn der Ermittlung der Exposition die Berechnungsgrundlagen zur Ermittlung der Exposition infolge bergbaubedingter Umweltradioaktivität (Berechnungsgrundlagen – Bergbau) zugrunde gelegt worden sind.
 
@@ -2794,7 +2858,7 @@ Der Genehmigungsinhaber hat insbesondere ein Messprogramm zur Immissionsüberwac
 
 2. Durchführung eines Messprogramms zur Immissionsüberwachung, das der Ergänzung und Kontrolle des vom Genehmigungsinhaber aufzustellenden Messprogramms dient.
 
-(3) Die zuständige Behörde kann davon ausgehen, dass die nach Absatz 1 und Absatz 2 Satz 2 erforderlichen Maßnahmen zur Emissions- und Immissionsüberwachung getroffen sind, wenn der Emissions- und Immissionsüberwachung die Richtlinie zur Emissions- und Immissionsüberwachung bei bergbaulichen Tätigkeiten (REI-Bergbau) zugrunde gelegt worden ist.
+(3) Die zuständige Behörde kann davon ausgehen, dass die nach Absatz 1 und 2 Satz 2 erforderlichen Maßnahmen zur Emissions- und Immissionsüberwachung getroffen sind, wenn der Emissions- und Immissionsüberwachung die Richtlinie zur Emissions- und Immissionsüberwachung bei bergbaulichen Tätigkeiten (REI-Bergbau) zugrunde gelegt worden ist.
 
 (4) § 103 Absatz 3 gilt entsprechend.
 
@@ -2890,7 +2954,7 @@ Der Genehmigungsinhaber hat insbesondere ein Messprogramm zur Immissionsüberwac
 
 # § 167 – Abhandenkommen
 
-(1) Der bisherige Inhaber der tatsächlichen Gewalt über einen radioaktiven Stoff nach § 3 des Strahlenschutzgesetzes hat der atom- oder strahlenschutzrechtlichen Aufsichtsbehörde oder der nach Landesrecht zuständigen Polizeibehörde das Abhandenkommen dieses Stoffes unverzüglich mitzuteilen. Satz 1 gilt entsprechend bei Abhandenkommen einer bauartzugelassenen Vorrichtung, die einen radioaktiven Stoff enthält, oder eines Konsumguts, dem ein radioaktiver Stoff zugesetzt ist, sofern die Aktivität und spezifische Aktivität des enthaltenen oder zugesetzten radioaktiven Stoffes die Werte der Anlage 4 Tabelle 1 Spalte 2 und 3 überschreitet. Die Sätze 1 und 2 gelten auch bei Wiederauffinden des radioaktiven Stoffes oder der in Satz 2 genannten Gegenstände. Die in Satz 1 genannten Behörden unterrichten sich jeweils wechselseitig unverzüglich über die von ihnen entgegengenommene Mitteilung.
+(1) Der bisherige Inhaber der tatsächlichen Gewalt über einen radioaktiven Stoff nach § 3 des Strahlenschutzgesetzes hat der atom- oder strahlenschutzrechtlichen Aufsichtsbehörde oder der nach Landesrecht zuständigen Polizeibehörde das Abhandenkommen dieses Stoffes unverzüglich mitzuteilen. Satz 1 gilt entsprechend bei Abhandenkommen einer bauartzugelassenen Vorrichtung, die einen radioaktiven Stoff enthält, oder eines Konsumguts, dem ein radioaktiver Stoff zugesetzt ist, sofern die Aktivität und spezifische Aktivität des enthaltenen oder zugesetzten radioaktiven Stoffes die Werte der Anlage 4 Tabelle 1 Spalte 2 und 3 überschreitet. Die Sätze 1 und 2 gelten auch bei Wiederauffinden des radioaktiven Stoffes oder der in Satz 2 genannten Gegenstände. Die in Satz 1 genannten Behörden unterrichten sich nach pflichtgemäßem Ermessen jeweils wechselseitig unverzüglich über die von ihnen entgegengenommene Mitteilung.
 
 (2) Zusätzlich zu der Mitteilung nach Absatz 1 Satz 1 hat der Strahlenschutzverantwortliche dafür zu sorgen, dass das Abhandenkommen einer hochradioaktiven Strahlenquelle unverzüglich dem Register über hochradioaktive Strahlenquellen beim Bundesamt für Strahlenschutz in gesicherter elektronischer Form entsprechend Anlage 9 Nummer 11 mitgeteilt wird und dass die zuständige Behörde über diese Mitteilung unverzüglich informiert wird. Satz 1 gilt auch bei Wiederauffinden einer hochradioaktiven Strahlenquelle.
 
@@ -2904,7 +2968,7 @@ Der Genehmigungsinhaber hat insbesondere ein Messprogramm zur Immissionsüberwac
 
 3. die tatsächliche Gewalt über einen radioaktiven Stoff nach § 3 des Strahlenschutzgesetzes erlangt hat, ohne zu wissen, dass dieser Stoff radioaktiv ist,
 
-hat dies der atom- oder strahlenschutzrechtlichen Aufsichtsbehörde oder der nach Landesrecht zuständigen Polizeibehörde unverzüglich mitzuteilen, sobald er von der Radioaktivität dieses Stoffes Kenntnis erlangt. Satz 1 gilt entsprechend für denjenigen, der vermutet, einen radioaktiven Stoff nach § 3 des Strahlenschutzgesetzes gefunden oder die tatsächliche Gewalt über einen radioaktiven Stoff nach § 3 des Strahlenschutzgesetzes erlangt zu haben. Die in Satz 1 genannten Behörden unterrichten sich jeweils wechselseitig unverzüglich über die von ihnen entgegengenommene Mitteilung.
+hat dies der atom- oder strahlenschutzrechtlichen Aufsichtsbehörde oder der nach Landesrecht zuständigen Polizeibehörde unverzüglich mitzuteilen, sobald er von der Radioaktivität dieses Stoffes Kenntnis erlangt. Satz 1 gilt entsprechend für denjenigen, der vermutet, einen radioaktiven Stoff nach § 3 des Strahlenschutzgesetzes gefunden oder die tatsächliche Gewalt über einen radioaktiven Stoff nach § 3 des Strahlenschutzgesetzes erlangt zu haben. Die in Satz 1 genannten Behörden unterrichten sich nach pflichtgemäßem Ermessen jeweils wechselseitig unverzüglich über die von ihnen entgegengenommene Mitteilung.
 
 (2) Die zuständige Behörde teilt den Fund oder die Erlangung einer hochradioaktiven Strahlenquelle dem Register über hochradioaktive Strahlenquellen beim Bundesamt für Strahlenschutz in gesicherter elektronischer Form entsprechend Anlage 9 Nummer 11 unverzüglich, spätestens an dem auf die Kenntnisnahme folgenden zweiten Werktag, mit.
 
@@ -2928,7 +2992,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 # § 170 – Information des zuständigen Bundesministeriums
 
-Die atom- oder strahlenschutzrechtliche Aufsichtsbehörde informiert unverzüglich das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit über eine nach § 167 Absatz 1 Satz 1 und 2, § 168 Absatz 1 Satz 1 und 2 und Absatz 3 Satz 1 und § 169 Absatz 1 Satz 1 erhaltene Mitteilung. Im Falle der Zuständigkeit einer Landesbehörde erfolgt die Information durch die zuständige oberste Landesbehörde.
+Die atom- oder strahlenschutzrechtliche Aufsichtsbehörde informiert unverzüglich das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit über eine nach § 167 Absatz 1 Satz 1 und 2, § 168 Absatz 1 Satz 1 und Absatz 3 Satz 1 und § 169 Absatz 1 Satz 1 erhaltene Mitteilung. Im Falle der Zuständigkeit einer Landesbehörde erfolgt die Information durch die zuständige oberste Landesbehörde.
 
 # § 171 – Dosis- und Messgrößen
 
@@ -2984,6 +3048,8 @@ Für die Teilnahme an den Maßnahmen zur Qualitätssicherung, die vom Bundesamt 
 
 Die zuständige Behörde kann davon ausgehen, dass die Anforderung nach Satz 1 Nummer 3 erfüllt ist, wenn der Pass dem Muster eines Strahlenpasses nach Allgemeinen Verwaltungsvorschriften entspricht.
 
+(2a) Die zuständige Behörde kann die Gültigkeit eines registrierten Strahlenpasses um bis zu fünf Jahre verlängern, wenn die Anforderungen nach Absatz 2 Satz 1 erfüllt sind.
+
 (3) Die nachfolgend genannten Personen oder die Behörde nach Absatz 2 haben dafür zu sorgen, dass in den Strahlenpass mindestens die folgenden Angaben eingetragen werden:
 
 1. der zur Führung des Strahlenpasses Verpflichtete:
@@ -3010,13 +3076,19 @@ b) die Angaben zu der Behörde.
 
 (5) Der für die fremde Anlage oder Einrichtung oder die fremde Betriebsstätte Verantwortliche hat dafür zu sorgen, dass die die Betätigung betreffenden Angaben nach Absatz 3 Nummer 2 unverzüglich nach Beendigung der Betätigung des Strahlenpassinhabers in der fremden Anlage oder Einrichtung oder Betriebsstätte eingetragen werden, insbesondere die Bezeichnung der fremden Anlage, Einrichtung oder Betriebsstätte, den Zeitraum der externen Betätigung sowie die Exposition in diesem Zeitraum.
 
-(6) Der Strahlenpass ist Eigentum des Strahlenpassinhabers und nicht übertragbar. Bei Beendigung des Beschäftigungsverhältnisses hat der zum Führen des Strahlenpasses Verpflichtete dafür zu sorgen, dass der Strahlenpass dem Strahlenpassinhaber zurückgegeben wird. Ein Strahlenpass, der nicht dem Strahlenpassinhaber zurückgegeben werden kann, ist der Behörde zu übergeben, die den Strahlenpass registriert hat.
+(6) Der Strahlenpass ist Eigentum des Strahlenpassinhabers und nicht übertragbar. Bei Beendigung des Beschäftigungsverhältnisses hat der zum Führen des Strahlenpasses Verpflichtete dafür zu sorgen, dass der Strahlenpass dem Strahlenpassinhaber zurückgegeben wird. Ein Strahlenpass, der nicht dem Strahlenpassinhaber zurückgegeben werden kann, ist der Behörde zu übergeben, die den Strahlenpass registriert hat. Diese kann den Strahlenpass nach Ablauf von zehn Jahren nach dem Ende seiner Gültigkeit vernichten.
 
 (7) Ein außerhalb des Geltungsbereichs des Strahlenschutzgesetzes registrierter Strahlenpass kann verwendet werden, wenn er die Voraussetzungen für eine Registrierung nach Absatz 2 Satz 1 erfüllt.
 
 # § 175 – Ermächtigte Ärzte
 
 (1) Die zuständige Behörde ermächtigt Ärzte zur Durchführung der ärztlichen Überwachung nach den §§ 77, 78, 79 und 81, auch in Verbindung mit den §§ 151, 158 Absatz 3, §§ 165 oder 166. Die Ermächtigung darf nur einem Arzt erteilt werden, der die für die ärztliche Überwachung bei beruflicher Exposition erforderliche Fachkunde im Strahlenschutz nachweist. Sie ist auf fünf Jahre zu befristen.
+
+(1a) Ein ermächtigter Arzt, der außerhalb des Zuständigkeitsbereichs der Behörde, die ihm die Ermächtigung erteilt hat, tätig wird, hat der für die Ermächtigung von Ärzten zuständigen Behörde, in deren Zuständigkeitsbereich er tätig wird,
+
+1. dies vor Aufnahme der Tätigkeit mitzuteilen und
+
+2. eine Kopie der Ermächtigung zu übersenden.
 
 (2) Der ermächtigte Arzt hat die Aufgabe, die Erstuntersuchungen, die erneuten Untersuchungen und die Beurteilungen nach den §§ 77 und 78 sowie die besondere ärztliche Überwachung nach § 81 durchzuführen. Er hat Maßnahmen vorzuschlagen, die bei erhöhter Exposition zur Vorbeugung vor gesundheitlichen Schäden und zu ihrer Abwehr erforderlich sind. Personen, die an Arbeitsplätzen beschäftigt sind, an denen die Augenlinse besonders belastet wird, sind daraufhin zu untersuchen, ob sich eine Katarakt gebildet hat.
 
@@ -3102,7 +3174,7 @@ Darüber hinaus ist eine abschließende Beurteilung vorzulegen, aus der hervorge
 
 (3) Für die Prüfung von Systemen, die nicht in Anlage 19 aufgeführt sind, sind mindestens fünf Jahre Erfahrung mit der Prüfung technisch verwandter Systeme erforderlich. Absatz 1 Nummer 3 und 4 ist nicht anzuwenden. Für den Nachweis der Prüfungen gilt Absatz 2 Satz 1 entsprechend.
 
-(4) Wird eine erneute Bestimmung zum Sachverständigen beantragt und deckt sich der Tätigkeitsumfang der beantragten Bestimmung mit dem der letzten Bestimmung, muss der Einzelsachverständige oder die prüfende Person
+(4) Wird eine erneute Bestimmung zum Sachverständigen beantragt und deckt sich der Tätigkeitsumfang der beantragten Bestimmung mit dem der letzten Bestimmung, soll der Einzelsachverständige oder die prüfende Person
 
 1. im Falle von § 172 Absatz 1 Satz 1 Nummer 1, 3 und 4 des Strahlenschutzgesetzes im Rahmen der letzten Bestimmung Prüfungen nach Anlage 19 Teil 1 Tabelle 1 Spalte 3 und Tabelle 2 Spalte 3 durchgeführt haben und
 
@@ -3150,9 +3222,13 @@ Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachw
 
 (2) Übt der Einzelsachverständige eine Sachverständigentätigkeit außerhalb des Zuständigkeitsbereichs der Behörde aus, die ihn bestimmt hat, so hat er der Behörde, in deren Zuständigkeitsbereich er tätig wird,
 
-1. dies unverzüglich nach Aufnahme der Tätigkeit mitzuteilen und
+1. dies in der Regel spätestens eine Woche vor Aufnahme der Tätigkeit mitzuteilen,
 
-2. eine Kopie des Bestimmungsbescheides zu übersenden.
+2. eine Kopie des Bestimmungsbescheides zu übersenden,
+
+3. Änderungen in der Bestimmung in der Regel spätestens eine Woche vor Aufnahme der geänderten Tätigkeit mitzuteilen und
+
+4. eine Kopie des geänderten Bestimmungsbescheids zu übersenden.
 
 (3) Für die behördlich bestimmte Sachverständigenorganisation gilt Absatz 1 Satz 1 Nummer 1 bis 3 und 5 bis 9 entsprechend. Sie ist darüber hinaus verpflichtet,
 
@@ -3176,11 +3252,15 @@ b) die Teilnahme an Maßnahmen des Meinungs- und Erfahrungsaustauschs,
 
 Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachweise darüber vorzulegen, dass die Pflichten nach Satz 1 in Verbindung mit Absatz 1 Satz 1 Nummer 2, 3 und 5 erfüllt worden sind.
 
-(4) Übt eine prüfende Person eine Sachverständigentätigkeit außerhalb des Zuständigkeitsbereichs der Behörde aus, die die Sachverständigenorganisation bestimmt hat, so hat diese der Behörde, in deren Zuständigkeitsbereich die prüfende Person tätig wird,
+(4) Übt eine prüfende Person eine Sachverständigentätigkeit außerhalb des Zuständigkeitsbereichs der Behörde aus, die die Sachverständigenorganisation bestimmt hat, so hat die Sachverständigenorganisation der Behörde, in deren Zuständigkeitsbereich die prüfende Person tätig wird,
 
-1. dies unverzüglich nach Aufnahme der Tätigkeit mitzuteilen und
+1. dies in der Regel spätestens eine Woche vor Aufnahme der Tätigkeit mitzuteilen,
 
-2. eine Kopie des Bestimmungsbescheides zu übersenden.
+2. eine Kopie des Bestimmungsbescheides zu übersenden,
+
+3. Änderungen in der Bestimmung in der Regel spätestens eine Woche vor Aufnahme der geänderten Tätigkeit mitzuteilen und
+
+4. eine Kopie des geänderten Bestimmungsbescheids zu übersenden.
 
 # § 184 – Ordnungswidrigkeiten
 
@@ -3226,7 +3306,7 @@ Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachw
 
 20. entgegen § 64 Absatz 1 Satz 1, auch in Verbindung mit Absatz 2, nicht dafür sorgt, dass die Körperdosis ermittelt wird,
 
-21. einer vollziehbaren Anordnung nach § 64 Absatz 4, § 66 Absatz 2 Satz 4, § 77 Absatz 4 oder 5, § 81 Absatz 2 Satz 1, § 88 Absatz 5 Satz 1, § 89 Absatz 1 Satz 2, auch in Verbindung mit Absatz 2 Satz 2, oder § 103 Absatz 2 zuwiderhandelt,
+21. einer vollziehbaren Anordnung nach § 64 Absatz 4, § 66 Absatz 2 Satz 4, § 77 Absatz 4 oder 5, § 81 Absatz 2 Satz 1, § 88 Absatz 5 Satz 1, § 89 Absatz 1 Satz 2, auch in Verbindung mit Absatz 2 Satz 2, nach § 103 Absatz 2 oder § 116 Absatz 1 Satz 3 zuwiderhandelt,
 
 22. entgegen § 68 Absatz 3 Satz 1 nicht dafür sorgt, dass eine dort genannte Person nur unter den dort genannten Voraussetzungen beschäftigt wird,
 
@@ -3234,7 +3314,7 @@ Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachw
 
 24. entgegen § 69 Absatz 2 Nummer 1 nicht dafür sorgt, dass die berufliche Exposition ermittelt wird,
 
-25. entgegen § 70 Absatz 1 Satz 1 Nummer 1 nicht dafür sorgt, dass eine Person Schutzkleidung trägt oder Schutzausrüstung verwendet,
+25. entgegen § 70 Absatz 1 Satz 1 Nummer 1 oder § 75 Absatz 1a nicht dafür sorgt, dass eine Person Schutzkleidung trägt oder Schutzausrüstung verwendet,
 
 26. entgegen § 70 Absatz 1 Satz 2 nicht dafür sorgt, dass eine Person unter 18 Jahren nicht mit einem dort genannten radioaktiven Stoff umgeht,
 
@@ -3318,7 +3398,7 @@ Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachw
 
 1. entgegen § 42 Absatz 3 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
-2. entgegen § 44 Absatz 1 Satz 1, § 65 Absatz 2 Satz 1 Nummer 1, § 85 Absatz 4 Satz 2, § 157 Absatz 5 Satz 1 Nummer 1 oder § 167 Absatz 2 Satz 1, auch in Verbindung mit Satz 2, nicht dafür sorgt, dass eine Unterrichtung oder Information erfolgt,
+2. entgegen § 44 Absatz 1 Satz 1, § 65 Absatz 2 Satz 1 Nummer 1, § 157 Absatz 5 Satz 1 Nummer 1 oder § 167 Absatz 2 Satz 1, auch in Verbindung mit Satz 2, nicht dafür sorgt, dass eine Unterrichtung oder Information erfolgt,
 
 3. entgegen § 56 Absatz 2 Satz 1 oder § 57 Absatz 3 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anfertigt,
 
@@ -3336,7 +3416,7 @@ Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachw
 
 10. entgegen § 66 Absatz 3 Satz 1 Nummer 2 nicht dafür sorgt, dass ein Messwert bereitgestellt wird,
 
-11. entgegen § 66 Absatz 4 Satz 2, § 85 Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Satz 2, entgegen § 85 Absatz 4 Satz 1 Nummer 1 oder 2, § 89 Absatz 4, § 141 Absatz 1 oder § 167 Absatz 2 Satz 1 oder 2 nicht dafür sorgt, dass eine Mitteilung erfolgt,
+11. entgegen § 66 Absatz 4 Satz 2, § 85 Absatz 1 Satz 1 Nummer 1 erster Halbsatz oder Nummer 3 oder Absatz 4, § 89 Absatz 4, § 141 Absatz 1 oder § 167 Absatz 2 Satz 1 oder 2 nicht dafür sorgt, dass eine Mitteilung erfolgt,
 
 12. entgegen § 85 Absatz 3 Nummer 1 nicht dafür sorgt, dass eine Unterlage 30 Jahre aufbewahrt oder hinterlegt wird,
 
@@ -3354,13 +3434,15 @@ Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachw
 
 19. entgegen § 97 Absatz 2 oder 3 nicht dafür sorgt, dass eine Betriebsanleitung, ein Prüfbericht oder eine Bescheinigung bereitgehalten wird,
 
+19a. entgegen § 98 Satz 1 Nummer 1 oder Nummer 2, jeweils auch in Verbindung mit Satz 2, nicht dafür sorgt, dass eine dort genannte Einweisung vorgenommen wird,
+
 20. entgegen § 98 Satz 1 Nummer 4, auch in Verbindung mit Satz 2, nicht dafür sorgt, dass eine Aufzeichnung aufbewahrt wird,
 
 21. einer vollziehbaren Anordnung nach § 101 Absatz 4 oder § 158 Absatz 4 zuwiderhandelt,
 
 22. entgegen § 108 Absatz 1 Satz 1, Absatz 3 Satz 2 oder § 108 Absatz 4 Satz 1 oder 2 nicht dafür sorgt, dass eine Meldung erfolgt,
 
-23. entgegen § 109 Absatz 4 Satz 1 nicht dafür sorgt, dass eine Aufzeichnung zehn Jahre aufbewahrt oder vorgelegt wird,
+23. entgegen § 109 Absatz 4 Satz 1 nicht dafür sorgt, dass eine Aufzeichnung 30 Jahre aufbewahrt oder vorgelegt wird,
 
 24. entgegen § 127 Absatz 1, 2 Satz 1 oder Absatz 3, auch in Verbindung mit § 140 Absatz 2 nicht dafür sorgt, dass eine dort genannte Aufbewahrung sichergestellt ist,
 
@@ -3378,7 +3460,7 @@ Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachw
 
 31. entgegen § 142 Absatz 1, auch in Verbindung mit Absatz 2, einen Abschlussbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-32. entgegen § 147 Satz 1 nicht dafür sorgt, dass Röntgenstrahlung, ionisierende Strahlung oder ein dort genannter radioaktiver Stoff von einer dort genannten Person angewendet oder eingesetzt wird,
+32. entgegen § 147 Satz 1 nicht dafür sorgt, dass Röntgenstrahlung nur von einer dort genannten Person angewendet wird,
 
 33. entgegen § 158 Absatz 3 Satz 1, auch in Verbindung mit Satz 2, eine Beschäftigung oder Weiterbeschäftigung erlaubt,
 
@@ -3394,7 +3476,7 @@ Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachw
 
 39. entgegen § 183 Absatz 1 Satz 1 Nummer 8, auch in Verbindung mit Absatz 3 Satz 1, eine Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
 
-40. entgegen § 183 Absatz 2 oder 4 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder eine Kopie des Bestimmungsbescheides nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übersendet oder
+40. entgegen § 183 Absatz 2 oder 4 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder eine Kopie nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übersendet oder
 
 41. entgegen § 183 Absatz 3 Satz 2 Nummer 3 nicht, nicht richtig oder nicht vollständig Buch führt.
 
@@ -3408,7 +3490,7 @@ Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachw
 
 # § 185 – Bauartzulassung (§§ 16 bis 26)
 
-Bauartzugelassene Vorrichtungen, die sonstige radioaktive Stoffe nach § 3 Absatz 1 des Strahlenschutzgesetzes enthalten oder enthalten haben und die gemäß § 208 Absatz 2, 3 zweiter Teilsatz oder Absatz 4 des Strahlenschutzgesetzes weiterbetrieben werden, hat der Inhaber, sofern im Zulassungsschein nicht kürzere Fristen vorgesehen sind, entsprechend § 25 Absatz 4 Satz 1 alle zehn Jahre nach Auslaufen der Bauartzulassung auf Unversehrtheit und Dichtheit prüfen zu lassen. Liegt das Auslaufen der Bauartzulassung am 31. Dezember 2018 mehr als zehn Jahre zurück, hat die Prüfung der Unversehrtheit und Dichtheit spätestens bis zum 31. Dezember 2021 zu erfolgen. Die Sätze 1 und 2 gelten nicht, wenn die Aktivität der in der Vorrichtung enthaltenen Stoffe unterhalb der Freigrenze nach Anlage 4 Tabelle 1 Spalte 2 liegt.
+Bauartzugelassene Vorrichtungen, die sonstige radioaktive Stoffe nach § 3 Absatz 1 des Strahlenschutzgesetzes enthalten und die gemäß § 208 Absatz 2, 3 zweiter Teilsatz oder Absatz 4 des Strahlenschutzgesetzes weiterbetrieben werden, hat der Inhaber, sofern im Zulassungsschein nicht kürzere Fristen vorgesehen sind, entsprechend § 25 Absatz 4 Satz 1 alle zehn Jahre nach Auslaufen der Bauartzulassung auf Unversehrtheit und Dichtheit prüfen zu lassen. Liegt das Auslaufen der Bauartzulassung am 31. Dezember 2018 mehr als zehn Jahre zurück, hat die Prüfung der Unversehrtheit und Dichtheit spätestens bis zum 31. Dezember 2021 zu erfolgen. Die Sätze 1 und 2 gelten nicht, wenn die Aktivität der in der Vorrichtung enthaltenen Stoffe unterhalb der Freigrenze nach Anlage 4 Tabelle 1 Spalte 2 liegt oder wenn die Verwendung der Vorrichtung nach § 4 Absatz 2 Satz 2 in Verbindung mit Anlage III Teil B Nummer 4 der Strahlenschutzverordnung vom 30. Juni 1989 (BGBl. I S. 1321) in der bis zum 31. Juli 2001 geltenden Fassung genehmigungs- und anzeigefrei war.
 
 # § 186 – Rückstände (§ 29)
 
@@ -3450,7 +3532,7 @@ erteilt worden sind und bei denen die Werte der Anlage III Tabelle 1 Spalte 5 de
 
 2. vor dem 1. Juli 2002 nach der Röntgenverordnung in der bis zum 30. Juni 2002 geltenden Fassung bestellt wurden,
 
-gilt die erforderliche Fachkunde im Strahlenschutz als erworben und bescheinigt nach § 47 Absatz 1 Satz 1. Für Einzelsachverständige oder prüfende Personen einer Sachverständigenorganisation, die nach § 66 der Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung oder § 4a der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung bestimmt wurden und die bis zum 31. Dezember 2018 noch als solche tätig waren, gilt die erforderliche Fachkunde im Strahlenschutz als erworben und bescheinigt nach § 47 Absatz 1 Satz 1. § 48 Absatz 1 Satz 1 bleibt unberührt. Im Übrigen gilt eine vor dem 31. Dezember 2018 erteilte Fachkundebescheinigung als Bescheinigung nach § 47 Absatz 1 Satz 1 fort.
+gilt die erforderliche Fachkunde im Strahlenschutz als erworben und bescheinigt nach § 47 Absatz 1 Satz 1. Satz 1 gilt entsprechend für Personen, die die erforderliche Fachkunde im Strahlenschutz vor dem 1. August 2001 nach der Strahlenschutzverordnung vom 30. Juni 1989 (BGBl. I S. 1321) in der bis zum 31. Juli 2001 geltenden Fassung oder vor dem 1. Juli 2002 nach der Röntgenverordnung vom 8. Januar 1987 (BGBl. I S. 114) in der bis zum 30. Juni 2002 geltenden Fassung erworben haben, aber nicht als Strahlenschutzbeauftragte bestellt waren. Für Einzelsachverständige oder prüfende Personen einer Sachverständigenorganisation, die nach § 66 der Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung oder § 4a der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung bestimmt wurden und die bis zum 31. Dezember 2018 noch als solche tätig waren, gilt die erforderliche Fachkunde im Strahlenschutz als erworben und bescheinigt nach § 47 Absatz 1 Satz 1. § 48 Absatz 1 Satz 1 bleibt unberührt. Im Übrigen gilt eine vor dem 31. Dezember 2018 erteilte Fachkundebescheinigung als Bescheinigung nach § 47 Absatz 1 Satz 1 fort.
 
 (2) Hat die zuständige Behörde nach § 18a Absatz 1 Satz 5 der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung festgestellt, dass in einer staatlichen oder staatlich anerkannten Berufsausbildung die für den jeweiligen Anwendungsbereich geeignete Ausbildung und praktische Erfahrung im Strahlenschutz sowie den anerkannten Kursen entsprechendes theoretisches Wissen vermittelt wurde, so gilt diese Feststellung als Feststellung nach § 47 Absatz 5 Satz 1 fort. Galt die erforderliche Fachkunde im Strahlenschutz nach § 18a Absatz 1 Satz 5 der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung als geprüft und bescheinigt, so gilt sie als geprüft und bescheinigt fort. § 48 Absatz 1 Satz 1 bleibt unberührt.
 
@@ -3458,7 +3540,7 @@ gilt die erforderliche Fachkunde im Strahlenschutz als erworben und bescheinigt 
 
 (4) Hat die zuständige Behörde nach § 18a Absatz 3 Satz 2 in Verbindung mit § 18a Absatz 1 Satz 5 der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung festgestellt, dass in einer staatlichen oder staatlich anerkannten Berufsausbildung die für den jeweiligen Anwendungsbereich geeignete Ausbildung und praktische Erfahrung im Strahlenschutz sowie den anerkannten Kursen entsprechendes theoretisches Wissen vermittelt wurde, so gilt diese Feststellung als Feststellung nach § 49 Absatz 2 Satz 1 in Verbindung mit § 47 Absatz 5 Satz 1 fort. Galten die erforderlichen Kenntnisse im Strahlenschutz nach § 18a Absatz 3 Satz 2 in Verbindung mit § 18a Absatz 1 Satz 5 der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung als geprüft und bescheinigt, so gelten sie als geprüft und bescheinigt fort. § 49 Absatz 3 in Verbindung mit § 48 Absatz 1 Satz 1 bleibt unberührt.
 
-(5) Vor dem 31. Dezember 2018 von der zuständigen Stelle anerkannte Kurse zur Vermittlung der erforderlichen Fachkunde oder der erforderlichen Kenntnisse gelten bis zum 31. Dezember 2023 als anerkannt nach § 51 fort, soweit die Anerkennung keine kürzere Frist enthält.
+(5) Vor dem 31. Dezember 2018 von der zuständigen Stelle anerkannte Kurse zur Vermittlung der erforderlichen Fachkunde oder der erforderlichen Kenntnisse gelten bis zum 31. Dezember 2026 als anerkannt nach § 51 fort, soweit die Anerkennung keine kürzere Frist enthält.
 
 # § 190 – Übergangsvorschriften im Zusammenhang mit Strahlenschutzbereichen (§§ 52 bis 62)
 
@@ -3500,7 +3582,15 @@ Bis zum Inkrafttreten Allgemeiner Verwaltungsvorschriften zur Störfallvorsorge 
 
 (1) § 114 Absatz 1 Nummer 1 gilt für Röntgeneinrichtungen, die vor dem 1. Juli 2002 erstmals in Betrieb genommen wurden, ab dem 1. Januar 2024.
 
-(2) § 114 Absatz 1 Nummer 2 gilt vorbehaltlich des Satzes 2 nur für Röntgeneinrichtungen, die nach dem 1. Januar 2023 erstmals in Betrieb genommen werden. Für Röntgeneinrichtungen, die für die Computertomographie oder für die Durchleuchtung eingesetzt werden und die vor dem 31. Dezember 2018 erstmals in Betrieb genommen wurden, gilt § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2023. Für Röntgeneinrichtungen, die für die Computertomographie oder für die Durchleuchtung eingesetzt werden und die ab dem 31. Dezember 2018 erstmals in Betrieb genommen wurden, gilt § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2021.
+(2) § 114 Absatz 1 Nummer 2 gilt nur für Röntgeneinrichtungen, die nach dem 1. Januar 2023 erstmals in Betrieb genommen werden. Abweichend von Satz 1 gilt
+
+1. für Röntgeneinrichtungen, die für die Computertomographie eingesetzt werden und die vor dem 31. Dezember 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2023,
+
+2. für Röntgeneinrichtungen, die für die Durchleuchtung eingesetzt werden und die ab dem 6. Februar 2018 bis einschließlich 30. Dezember 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2023,
+
+3. für Röntgeneinrichtungen, die für die Durchleuchtung mit erheblicher Exposition eingesetzt werden und die vor dem 6. Februar 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2023 und
+
+4. für Röntgeneinrichtungen, die für die Computertomographie oder für die Durchleuchtung eingesetzt werden und die ab dem 31. Dezember 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2021.
 
 (3) § 114 Absatz 1 Nummer 4 gilt für Röntgeneinrichtungen, die vor dem 31. Dezember 2018 erstmals in Betrieb genommen worden sind, erst ab dem 1. Januar 2021.
 
@@ -3516,7 +3606,7 @@ Eine vor dem 31. Dezember 2018 erfolgte Bestimmung einer ärztlichen oder zahnä
 
 (1) Die in Anlage 18 Teil A Nummer 1 Buchstabe b genannte Messgröße ist spätestens ab dem 1. Januar 2022 bei Messungen der Personendosis nach § 65 Absatz 1 Satz 1 und § 66 Absatz 2 Satz 4 und Absatz 5 zu verwenden. Die in Anlage 18 Teil A Nummer 2 Buchstabe b genannte Messgröße ist spätestens ab dem 1. Januar 2022 bei Messungen der Ortsdosis und Ortsdosisleistung nach den §§ 56 und 65 Absatz 1 Satz 2 Nummer 1 zu verwenden.
 
-(2) Die in Anlage 18 Teil C Nummer 1 und 2 angegebenen Werte des Strahlungs-Wichtungsfaktors und des Gewebe-Wichtungsfaktors sind spätestens ab dem 1. Januar 2025 zu verwenden.
+(2) Die in Anlage 18 Teil C Nummer 1 und 2 angegebenen Werte des Strahlungs-Wichtungsfaktors und des Gewebe-Wichtungsfaktors sind spätestens ab dem 1. Juli 2027 zu verwenden.
 
 # § 198 – Strahlenpass (§ 174)
 
@@ -3610,7 +3700,7 @@ a) ob und wie das Konsumgut oder die bauartzuzulassende Vorrichtung auch außerh
 
 b) ob die Integrität von Konsumgütern oder bauartzuzulassenden Vorrichtungen bei bestimmungsgemäßer Verwendung sowie für den Fall eines möglichen Missbrauchs oder eines unfallbedingten Schadens ausreichend ist.
 
-# Anlage 3 – (zu den §§ 5, 6, 7, 8, 9, 14, 82, 96)Genehmigungsfreie Tätigkeiten
+# Anlage 3 – (zu den §§ 5, 5a, 6, 7, 8, 9, 14, 82, 96)Genehmigungsfreie Tätigkeiten
 
 (Fundstelle: BGBl. I 2018, 2106 - 2107)
 
@@ -3638,7 +3728,7 @@ Genehmigungsfrei nach § 5 Absatz 1 ist
 
 9. der Umgang mit abgereichertem Uran in Form von Uranylverbindungen zu chemisch-analytischen oder zu chemisch-präparativen Zwecken mit einer Gesamtmasse des Urans von bis zu 30 Gramm.
 
-Genehmigungs- und anzeigefrei nach § 7 ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, deren Potenzialdifferenz nicht mehr als 30 Kilovolt beträgt und bei denen unter normalen Betriebsbedingungen die Ortsdosisleistung in 0,1 Meter Abstand von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet. Genehmigungs- und anzeigefrei ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, in denen durch das Auftreffen von Laserstrahlung nach § 2 Absatz 3 Satz 1 der Arbeitsschutzverordnung zu künstlicher optischer Strahlung auf Material ionisierende Strahlung erzeugt werden kann, falls die Bestrahlungsstärke der Laserstrahlung 1 x 10¹³ Watt pro Quadratzentimeter nicht überschreitet und die Ortsdosisleistung in 0,1 Meter von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet.
+Genehmigungs- und anzeigefrei nach § 7 ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, deren Potenzialdifferenz nicht mehr als 30 Kilovolt beträgt und bei denen unter normalen Betriebsbedingungen die Ortsdosisleistung in 0,1 Meter Abstand von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet. Genehmigungs- und anzeigefrei ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, in denen durch das Auftreffen von Laserstrahlung nach § 2 Absatz 3 Satz 1 der Arbeitsschutzverordnung zu künstlicher optischer Strahlung auf Material ionisierende Strahlung erzeugt werden kann, falls die Bestrahlungsstärke der Laserstrahlung 1 x 10¹³ Watt pro Quadratzentimeter nicht überschreitet und die Ortsdosisleistung in 0,1 Meter Abstand von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet.
 
  
 
@@ -3673,6 +3763,8 @@ Genehmigungs- und anmeldefrei nach § 14 ist die Verbringung von
 4. Vorrichtungen, deren Bauart nach § 45 Absatz 1 des Strahlenschutzgesetzes zugelassen ist, oder
 
 5. aus der Luft gewonnenen Edelgasen, wenn das Isotopenverhältnis im Gas demjenigen in der Luft entspricht.
+
+Genehmigungsfrei nach § 5a ist der Zusatz von Kalium-40 als natürlich vorkommendes Radionuklid zu Stoffen nach § 2 Satz 1 Nummer 1 bis 8 des Düngegesetzes vom 9. Januar 2009 (BGBl. I S. 54, 136), das zuletzt durch Artikel 2 Absatz 13 des Gesetzes vom 20. Dezember 2022 (BGBl. I S. 2752) geändert worden ist, bis zu 10 Becquerel je Gramm im Produkt.
 
 # Anlage 4 – (zu den §§ 5, 10, 11, 12, 16, 31, 35, 36, 37, 52, 57, 58,61, 70, 83, 87, 88, 89, 92, 104, 106, 167, 187 und Anlage 3)Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte für hochradioaktive Strahlenquellen, Werte der Oberflächenkontamination, Liste der Radionuklide und bei den Berechnungen berücksichtigte Tochternuklide
 
@@ -3712,7 +3804,7 @@ oder
 Erläuterung  
 zu Spalte 3:
 
-Bei Messungen nach den §§ 57 und 58 gilt für die zugrunde zu legende Mittelungsmasse M: 3 kg ≤ M ≤ 300 kg. Bei einer Masse &lt; 3 kg ist bei Messungen nach den §§ 57 und 58 die spezifische Aktivität nicht gesondert zu bestimmen, wenn die Oberflächenkontamination ermittelt und entsprechend § 57 Absatz 2 Satz 2 Nummer 2 bewertet wird.
+Bei Messungen nach § 58 gilt für die zugrunde zu legende Mittelungsmasse M: 3 kg ≤ M ≤ 300 kg. Bei einer Masse M &lt; 3 kg ist die spezifische Aktivität nicht gesondert zu bestimmen, wenn die Oberflächenkontamination nach § 58 Absatz 2 Satz 2 Nummer 2 ermittelt wird.
 
 Erläuterung  
 zu Spalte 4:
@@ -3771,68 +3863,21 @@ Die Angabe „a“ bedeutet „Jahr“, die Angabe „d“ bedeutet „Tag“, d
 
 Die Regelungen und Erläuterungen zur Freigabe (Spalten 3 und 5 bis 14) finden sich in den §§ 31 bis 42 und Anlage 8.
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0040.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0050.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0060.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0070.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0080.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0090.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0100.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0110.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0120.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0130.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0140.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0150-mod-929x1400.jpg)
-
- 
-
- 
-
-<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 35%" /><col style="width: 65%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Mutternuklid</th><th style="text-align: left;">Tochternuklide</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Mg-28+</td><td style="text-align: left;">Al-28</td></tr><tr class="even"><td style="text-align: left;">Si-32+</td><td style="text-align: left;">P-32</td></tr><tr class="odd"><td style="text-align: left;">Ca-45+</td><td style="text-align: left;">Sc-45m</td></tr><tr class="even"><td style="text-align: left;">Sc-44m+</td><td style="text-align: left;">Sc-44</td></tr><tr class="odd"><td style="text-align: left;">Ti-44+</td><td style="text-align: left;">Sc-44</td></tr><tr class="even"><td style="text-align: left;">Fe-52+</td><td style="text-align: left;">Mn-52m</td></tr><tr class="odd"><td style="text-align: left;">Fe-60+</td><td style="text-align: left;">Co-60, Co-60m</td></tr><tr class="even"><td style="text-align: left;">Co-62m+</td><td style="text-align: left;">Co-62</td></tr><tr class="odd"><td style="text-align: left;">Ni-66+</td><td style="text-align: left;">Cu-66</td></tr><tr class="even"><td style="text-align: left;">Zn-62+</td><td style="text-align: left;">Cu-62</td></tr><tr class="odd"><td style="text-align: left;">Zn-69m+</td><td style="text-align: left;">Zn-69</td></tr><tr class="even"><td style="text-align: left;">Zn-72+</td><td style="text-align: left;">Ga-72, Ga-72m</td></tr><tr class="odd"><td style="text-align: left;">Ga-73+</td><td style="text-align: left;">Ge-73m</td></tr><tr class="even"><td style="text-align: left;">Ge-68+</td><td style="text-align: left;">Ga-68</td></tr><tr class="odd"><td style="text-align: left;">As-73+</td><td style="text-align: left;">Ge-73m</td></tr><tr class="even"><td style="text-align: left;">Se-81m+</td><td style="text-align: left;">Se-81</td></tr><tr class="odd"><td style="text-align: left;">Br-80m+</td><td style="text-align: left;">Br-80</td></tr><tr class="even"><td style="text-align: left;">Br-83+</td><td style="text-align: left;">Kr-83m</td></tr><tr class="odd"><td style="text-align: left;">Kr-88+</td><td style="text-align: left;">Rb-88</td></tr><tr class="even"><td style="text-align: left;">Rb-81+</td><td style="text-align: left;">Kr-81m</td></tr><tr class="odd"><td style="text-align: left;">Rb-81m+</td><td style="text-align: left;">Kr-81m</td></tr><tr class="even"><td style="text-align: left;">Rb-83+</td><td style="text-align: left;">Kr-83m</td></tr><tr class="odd"><td style="text-align: left;">Sr-80+</td><td style="text-align: left;">Rb-80</td></tr><tr class="even"><td style="text-align: left;">Sr-82+</td><td style="text-align: left;">Rb-82</td></tr><tr class="odd"><td style="text-align: left;">Sr-89+</td><td style="text-align: left;">Y-89m</td></tr><tr class="even"><td style="text-align: left;">Sr-90+</td><td style="text-align: left;">Y-90</td></tr><tr class="odd"><td style="text-align: left;">Sr-91+</td><td style="text-align: left;">Y-91m</td></tr><tr class="even"><td style="text-align: left;">Y-87+</td><td style="text-align: left;">Sr-87m</td></tr><tr class="odd"><td style="text-align: left;">Zr-86+</td><td style="text-align: left;">Y-86, Y-86m</td></tr><tr class="even"><td style="text-align: left;">Zr-89+</td><td style="text-align: left;">Y-89m</td></tr><tr class="odd"><td style="text-align: left;">Zr-95+</td><td style="text-align: left;">Nb-95m</td></tr><tr class="even"><td style="text-align: left;">Zr-97+</td><td style="text-align: left;">Nb-97, Nb-97m</td></tr><tr class="odd"><td style="text-align: left;">Nb-89+</td><td style="text-align: left;">Zr-89m</td></tr><tr class="even"><td style="text-align: left;">Nb-89m+</td><td style="text-align: left;">Zr-89m</td></tr><tr class="odd"><td style="text-align: left;">Nb-90+</td><td style="text-align: left;">Zr-90m</td></tr><tr class="even"><td style="text-align: left;">Mo-90+</td><td style="text-align: left;">Nb-90m, Nb-90n</td></tr><tr class="odd"><td style="text-align: left;">Mo-99+</td><td style="text-align: left;">Tc-99m</td></tr><tr class="even"><td style="text-align: left;">Mo-101+</td><td style="text-align: left;">Tc-101</td></tr><tr class="odd"><td style="text-align: left;">Tc-95m+</td><td style="text-align: left;">Tc-95</td></tr><tr class="even"><td style="text-align: left;">Ru-103+</td><td style="text-align: left;">Rh-103m</td></tr><tr class="odd"><td style="text-align: left;">Ru-105+</td><td style="text-align: left;">Rh-105m</td></tr><tr class="even"><td style="text-align: left;">Ru-106+</td><td style="text-align: left;">Rh-106</td></tr><tr class="odd"><td style="text-align: left;">Pd-100+</td><td style="text-align: left;">Rh-100</td></tr><tr class="even"><td style="text-align: left;">Pd-103+</td><td style="text-align: left;">Rh-103m</td></tr><tr class="odd"><td style="text-align: left;">Pd-109+</td><td style="text-align: left;">Ag-109m</td></tr><tr class="even"><td style="text-align: left;">Ag-108m+</td><td style="text-align: left;">Ag-108</td></tr><tr class="odd"><td style="text-align: left;">Ag-110m+</td><td style="text-align: left;">Ag-110</td></tr><tr class="even"><td style="text-align: left;">Cd-104+</td><td style="text-align: left;">Ag-104m</td></tr><tr class="odd"><td style="text-align: left;">Cd-107+</td><td style="text-align: left;">Ag-107m</td></tr><tr class="even"><td style="text-align: left;">Cd-109+</td><td style="text-align: left;">Ag-109m</td></tr><tr class="odd"><td style="text-align: left;">Cd-115+</td><td style="text-align: left;">In-115m</td></tr><tr class="even"><td style="text-align: left;">Cd-115m+</td><td style="text-align: left;">In-115m</td></tr><tr class="odd"><td style="text-align: left;">Cd-117+</td><td style="text-align: left;">In-117, In-117m</td></tr><tr class="even"><td style="text-align: left;">Cd-117m+</td><td style="text-align: left;">In-117, In-117m</td></tr><tr class="odd"><td style="text-align: left;">In-111+</td><td style="text-align: left;">Cd-111m</td></tr><tr class="even"><td style="text-align: left;">In-114m+</td><td style="text-align: left;">In-114</td></tr><tr class="odd"><td style="text-align: left;">In-117m+</td><td style="text-align: left;">In-117</td></tr><tr class="even"><td style="text-align: left;">In-119m+</td><td style="text-align: left;">In-119</td></tr><tr class="odd"><td style="text-align: left;">Sn-110+</td><td style="text-align: left;">In-110m</td></tr><tr class="even"><td style="text-align: left;">Sn-111+</td><td style="text-align: left;">In-111m</td></tr><tr class="odd"><td style="text-align: left;">Sn-113+</td><td style="text-align: left;">In-113m</td></tr><tr class="even"><td style="text-align: left;">Sn-121m+</td><td style="text-align: left;">Sn-121</td></tr><tr class="odd"><td style="text-align: left;">Sn-126+</td><td style="text-align: left;">Sb-126, Sb-126m, Sb-126n</td></tr><tr class="even"><td style="text-align: left;">Sn-128+</td><td style="text-align: left;">Sb-128m</td></tr><tr class="odd"><td style="text-align: left;">Sb-125+</td><td style="text-align: left;">Te-125m</td></tr><tr class="even"><td style="text-align: left;">Sb-127+</td><td style="text-align: left;">Te-127</td></tr><tr class="odd"><td style="text-align: left;">Sb-129+</td><td style="text-align: left;">Te-129</td></tr><tr class="even"><td style="text-align: left;">Te-116+</td><td style="text-align: left;">Sb-116</td></tr><tr class="odd"><td style="text-align: left;">Te-127m+</td><td style="text-align: left;">Te-127</td></tr><tr class="even"><td style="text-align: left;">Te-129m+</td><td style="text-align: left;">Te-129</td></tr><tr class="odd"><td style="text-align: left;">Te-131m+</td><td style="text-align: left;">Te-131</td></tr><tr class="even"><td style="text-align: left;">Te-132+</td><td style="text-align: left;">I-132</td></tr><tr class="odd"><td style="text-align: left;">Te-133m+</td><td style="text-align: left;">Te-133</td></tr><tr class="even"><td style="text-align: left;">I-135+</td><td style="text-align: left;">Xe-135m</td></tr><tr class="odd"><td style="text-align: left;">Xe-122+</td><td style="text-align: left;">I-122</td></tr><tr class="even"><td style="text-align: left;">Cs-137+</td><td style="text-align: left;">Ba-137m</td></tr><tr class="odd"><td style="text-align: left;">Ba-126+</td><td style="text-align: left;">Cs-126</td></tr><tr class="even"><td style="text-align: left;">Ba-128+</td><td style="text-align: left;">Cs-128</td></tr><tr class="odd"><td style="text-align: left;">Ce-134+</td><td style="text-align: left;">La-134</td></tr><tr class="even"><td style="text-align: left;">Ce-137m+</td><td style="text-align: left;">Ce-137</td></tr><tr class="odd"><td style="text-align: left;">Ce-144+</td><td style="text-align: left;">Pr-144, Pr-144m</td></tr><tr class="even"><td style="text-align: left;">Pr-139+</td><td style="text-align: left;">Ce-139m</td></tr><tr class="odd"><td style="text-align: left;">Nd-136+</td><td style="text-align: left;">Pr-136</td></tr><tr class="even"><td style="text-align: left;">Nd-138+</td><td style="text-align: left;">Pr-138</td></tr><tr class="odd"><td style="text-align: left;">Nd-139m+</td><td style="text-align: left;">Ce-139m, Pr-139, Nd-139</td></tr><tr class="even"><td style="text-align: left;">Nd-140+</td><td style="text-align: left;">Pr-140</td></tr><tr class="odd"><td style="text-align: left;">Pm-141+</td><td style="text-align: left;">Nd-141m</td></tr><tr class="even"><td style="text-align: left;">Sm-141m+</td><td style="text-align: left;">Nd-141m, Pm-141, Sm-141</td></tr><tr class="odd"><td style="text-align: left;">Sm-142+</td><td style="text-align: left;">Pm-142</td></tr><tr class="even"><td style="text-align: left;">Gd-146+</td><td style="text-align: left;">Eu-146</td></tr><tr class="odd"><td style="text-align: left;">Ho-157+</td><td style="text-align: left;">Dy-157m</td></tr><tr class="even"><td style="text-align: left;">Ho-162m+</td><td style="text-align: left;">Ho-162</td></tr><tr class="odd"><td style="text-align: left;">Ho-164m+</td><td style="text-align: left;">Ho-164</td></tr><tr class="even"><td style="text-align: left;">Ho-167+</td><td style="text-align: left;">Er-167m</td></tr><tr class="odd"><td style="text-align: left;">Er-161+</td><td style="text-align: left;">Ho-161, Ho-161m</td></tr><tr class="even"><td style="text-align: left;">Tm-167+</td><td style="text-align: left;">Er-167m</td></tr><tr class="odd"><td style="text-align: left;">Tm-175+</td><td style="text-align: left;">Yb-175m</td></tr><tr class="even"><td style="text-align: left;">Yb-166+</td><td style="text-align: left;">Tm-166, Tm-166m</td></tr><tr class="odd"><td style="text-align: left;">Yb-178+</td><td style="text-align: left;">Lu-178</td></tr><tr class="even"><td style="text-align: left;">Lu-169+</td><td style="text-align: left;">Yb-169m</td></tr><tr class="odd"><td style="text-align: left;">Lu-177m+</td><td style="text-align: left;">Lu-177, Hf-177m</td></tr><tr class="even"><td style="text-align: left;">Lu-178m+</td><td style="text-align: left;">Hf-178m</td></tr><tr class="odd"><td style="text-align: left;">Hf-170+</td><td style="text-align: left;">Lu-170m</td></tr><tr class="even"><td style="text-align: left;">Hf-172+</td><td style="text-align: left;">Lu-172, Lu-172m</td></tr><tr class="odd"><td style="text-align: left;">Hf-177n+</td><td style="text-align: left;">Hf-177m</td></tr><tr class="even"><td style="text-align: left;">Hf-178n+</td><td style="text-align: left;">Hf-178m</td></tr><tr class="odd"><td style="text-align: left;">Hf-182+</td><td style="text-align: left;">Ta-182</td></tr><tr class="even"><td style="text-align: left;">Hf-182m+</td><td style="text-align: left;">Ta-182m, Ta-182n</td></tr><tr class="odd"><td style="text-align: left;">Ta-178m+</td><td style="text-align: left;">Hf-178m</td></tr><tr class="even"><td style="text-align: left;">Ta-182n+</td><td style="text-align: left;">Ta-182m</td></tr><tr class="odd"><td style="text-align: left;">Ta-183+</td><td style="text-align: left;">W-183m</td></tr><tr class="even"><td style="text-align: left;">W-178+</td><td style="text-align: left;">Ta-178</td></tr><tr class="odd"><td style="text-align: left;">W-188+</td><td style="text-align: left;">Re-188</td></tr><tr class="even"><td style="text-align: left;">Re-186m+</td><td style="text-align: left;">Re-186</td></tr><tr class="odd"><td style="text-align: left;">Re-189+</td><td style="text-align: left;">Os-189m</td></tr><tr class="even"><td style="text-align: left;">Os-180+</td><td style="text-align: left;">Re-180</td></tr><tr class="odd"><td style="text-align: left;">Os-191+</td><td style="text-align: left;">Ir-191m</td></tr><tr class="even"><td style="text-align: left;">Os-194+</td><td style="text-align: left;">Ir-194</td></tr><tr class="odd"><td style="text-align: left;">Ir-189+</td><td style="text-align: left;">Os-189m</td></tr><tr class="even"><td style="text-align: left;">Ir-195m+</td><td style="text-align: left;">Ir-195</td></tr><tr class="odd"><td style="text-align: left;">Pt-186+</td><td style="text-align: left;">Ir-186m</td></tr><tr class="even"><td style="text-align: left;">Pt-191+</td><td style="text-align: left;">Ir-191m</td></tr><tr class="odd"><td style="text-align: left;">Pt-197m+</td><td style="text-align: left;">Au-197m</td></tr><tr class="even"><td style="text-align: left;">Pt-200+</td><td style="text-align: left;">Au-200</td></tr><tr class="odd"><td style="text-align: left;">Au-200m+</td><td style="text-align: left;">Au-200</td></tr><tr class="even"><td style="text-align: left;">Hg-193+</td><td style="text-align: left;">Au-193m</td></tr><tr class="odd"><td style="text-align: left;">Hg-193m+</td><td style="text-align: left;">Au-193m, Hg-193</td></tr><tr class="even"><td style="text-align: left;">Hg-194+</td><td style="text-align: left;">Au-194</td></tr><tr class="odd"><td style="text-align: left;">Hg-195+</td><td style="text-align: left;">Au-195m</td></tr><tr class="even"><td style="text-align: left;">Hg-195m+</td><td style="text-align: left;">Au-195m, Hg-195</td></tr><tr class="odd"><td style="text-align: left;">Hg-197m+</td><td style="text-align: left;">Au-197m</td></tr><tr class="even"><td style="text-align: left;">Pb-195m+</td><td style="text-align: left;">Tl-195m</td></tr><tr class="odd"><td style="text-align: left;">Pb-202+</td><td style="text-align: left;">Tl-202</td></tr><tr class="even"><td style="text-align: left;">Pb-210+</td><td style="text-align: left;">Hg-206, Tl-206, Bi-210, Po-210</td></tr><tr class="odd"><td style="text-align: left;">Pb-211+</td><td style="text-align: left;">Tl-207, Bi-211, Po-211</td></tr><tr class="even"><td style="text-align: left;">Pb-212+</td><td style="text-align: left;">Tl-208, Bi-212, Po-212</td></tr><tr class="odd"><td style="text-align: left;">Pb-214+</td><td style="text-align: left;">Tl-210, Bi-214, Po-214</td></tr><tr class="even"><td style="text-align: left;">Bi-201+</td><td style="text-align: left;">Tl-197m, Pb-201m</td></tr><tr class="odd"><td style="text-align: left;">Bi-203+</td><td style="text-align: left;">Tl-199, Tl-199m, Pb-203m</td></tr><tr class="even"><td style="text-align: left;">Bi-205+</td><td style="text-align: left;">Pb-205m</td></tr><tr class="odd"><td style="text-align: left;">Bi-210+</td><td style="text-align: left;">Tl-206</td></tr><tr class="even"><td style="text-align: left;">Bi-210m+</td><td style="text-align: left;">Tl-206</td></tr><tr class="odd"><td style="text-align: left;">Bi-212+</td><td style="text-align: left;">Tl-208, Po-212</td></tr><tr class="even"><td style="text-align: left;">Bi-213+</td><td style="text-align: left;">Tl-209, Po-213</td></tr><tr class="odd"><td style="text-align: left;">Bi-214+</td><td style="text-align: left;">Tl-210, Po-214</td></tr><tr class="even"><td style="text-align: left;">Po-215+</td><td style="text-align: left;">At-215</td></tr><tr class="odd"><td style="text-align: left;">Po-218+</td><td style="text-align: left;">Po-214, At-218, Rn-218</td></tr><tr class="even"><td style="text-align: left;">At-211+</td><td style="text-align: left;">Po-211</td></tr><tr class="odd"><td style="text-align: left;">At-217+</td><td style="text-align: left;">Po-213, Rn-217</td></tr><tr class="even"><td style="text-align: left;">Rn-218+</td><td style="text-align: left;">Po-214</td></tr><tr class="odd"><td style="text-align: left;">Rn-219+</td><td style="text-align: left;">Po-215, At-215</td></tr><tr class="even"><td style="text-align: left;">Rn-220+</td><td style="text-align: left;">Po-216</td></tr><tr class="odd"><td style="text-align: left;">Rn-222+</td><td style="text-align: left;">Tl-210, Pb-209, Pb-214, Bi-214,<br />
-Po-214, Po-218, At-218, Rn-218</td></tr><tr class="even"><td style="text-align: left;">Fr-221+</td><td style="text-align: left;">Po-213, At-217, Rn-217</td></tr><tr class="odd"><td style="text-align: left;">Fr-222+</td><td style="text-align: left;">Po-214, Rn-218, Ra-222</td></tr><tr class="even"><td style="text-align: left;">Fr-223+</td><td style="text-align: left;">Tl-207, Bi-211, Bi-215, Po-211,<br />
-Po-215, At-215, At-219, Rn-219</td></tr><tr class="odd"><td style="text-align: left;">Ra-222+</td><td style="text-align: left;">Po-214, Rn-218</td></tr><tr class="even"><td style="text-align: left;">Ra-223+</td><td style="text-align: left;">Tl-207, Pb-211, Bi-211, Po-211,<br />
-Po-215, At-215, Rn-219</td></tr><tr class="odd"><td style="text-align: left;">Ra-224+</td><td style="text-align: left;">Tl-208, Pb-212, Bi-212, Po-212,<br />
-Po-216, Rn-220</td></tr><tr class="even"><td style="text-align: left;">Ra-226+</td><td style="text-align: left;">Tl-210, Pb-209, Pb-214, Bi-214,<br />
-Po-214, Po-218, At-218, Rn-218,<br />
-Rn-222</td></tr><tr class="odd"><td style="text-align: left;">Ra-228+</td><td style="text-align: left;">Ac-228</td></tr><tr class="even"><td style="text-align: left;">Ac-224+</td><td style="text-align: left;">Tl-208, Bi-212, Po-212, At-216,<br />
-Rn-216, Fr-220, Ra-220</td></tr><tr class="odd"><td style="text-align: left;">Ac-225+</td><td style="text-align: left;">Tl-209, Pb-209, Bi-213, Po-213,<br />
-At-217, Rn-217, Fr-221</td></tr><tr class="even"><td style="text-align: left;">Ac-226+</td><td style="text-align: left;">Po-214, Rn-218, Fr-222, Ra-222,<br />
-Th-226</td></tr><tr class="odd"><td style="text-align: left;">Ac-227+</td><td style="text-align: left;">Tl-207, Pb-211, Bi-211, Bi-215,<br />
-Po-211, Po-215, At-215, At-219,<br />
-Rn-219, Fr-223, Ra-223, Th-227</td></tr><tr class="even"><td style="text-align: left;">Th-226+</td><td style="text-align: left;">Po-214, Rn-218, Ra-222</td></tr><tr class="odd"><td style="text-align: left;">Th-228+</td><td style="text-align: left;">Tl-208, Pb-212, Bi-212, Po-212,<br />
-Po-216, Rn-220, Ra-224</td></tr><tr class="even"><td style="text-align: left;">Th-229+</td><td style="text-align: left;">Tl-209, Pb-209, Bi-213, Po-213,<br />
-At-217, Rn-217, Fr-221, Ra-225,<br />
-Ac-225</td></tr><tr class="odd"><td style="text-align: left;">Th-232+</td><td style="text-align: left;">Tl-208, Pb-212, Bi-212, Po-212,<br />
-Po-216, Rn-220, Ra-224, Ra-228, Ac-228, Th-228</td></tr><tr class="even"><td style="text-align: left;">Th-234+</td><td style="text-align: left;">Pa-234, Pa-234m</td></tr><tr class="odd"><td style="text-align: left;">Pa-227+</td><td style="text-align: left;">Tl-207, Bi-211, Po-211, At-215,<br />
-Fr-219, Ac-223</td></tr><tr class="even"><td style="text-align: left;">Pa-228+</td><td style="text-align: left;">Tl-208, Bi-212, Po-212, At-216,<br />
-Rn-216, Fr-220, Ra-220, Ac-224</td></tr><tr class="odd"><td style="text-align: left;">Pa-230+</td><td style="text-align: left;">Po-214, Rn-218, Fr-222, Ra-222,<br />
-Ac-226, Th-226</td></tr><tr class="even"><td style="text-align: left;">U-232+</td><td style="text-align: left;">Tl-208, Pb-212, Bi-212, Po-212,<br />
-Po-216, Rn-220, Ra-224, Th-228</td></tr><tr class="odd"><td style="text-align: left;">U-235+</td><td style="text-align: left;">Th-231</td></tr><tr class="even"><td style="text-align: left;">U-238+</td><td style="text-align: left;">Th-234, Pa-234, Pa-234m</td></tr><tr class="odd"><td style="text-align: left;">U-240+</td><td style="text-align: left;">Np-240</td></tr><tr class="even"><td style="text-align: left;">Np-237+</td><td style="text-align: left;">Pa-233</td></tr><tr class="odd"><td style="text-align: left;">Pu-239+</td><td style="text-align: left;">U-235m</td></tr><tr class="even"><td style="text-align: left;">Pu-241+</td><td style="text-align: left;">U-237</td></tr><tr class="odd"><td style="text-align: left;">Pu-244+</td><td style="text-align: left;">U-240, Np-240</td></tr><tr class="even"><td style="text-align: left;">Pu-245+</td><td style="text-align: left;">Am-245</td></tr><tr class="odd"><td style="text-align: left;">Pu-246+</td><td style="text-align: left;">Am-246m</td></tr><tr class="even"><td style="text-align: left;">Am-237+</td><td style="text-align: left;">Np-233, Pu-237m</td></tr><tr class="odd"><td style="text-align: left;">Am-242m+</td><td style="text-align: left;">Np-238, Am-242, Cm-242</td></tr><tr class="even"><td style="text-align: left;">Am-243+</td><td style="text-align: left;">Np-239</td></tr><tr class="odd"><td style="text-align: left;">Cm-238+</td><td style="text-align: left;">Am-238</td></tr><tr class="even"><td style="text-align: left;">Cm-247+</td><td style="text-align: left;">Pu-243</td></tr><tr class="odd"><td style="text-align: left;">Cm-250+</td><td style="text-align: left;">Pu-246, Am-246m</td></tr><tr class="even"><td style="text-align: left;">Bk-246+</td><td style="text-align: left;">Am-242, Am-242n</td></tr><tr class="odd"><td style="text-align: left;">Bk-249+</td><td style="text-align: left;">Am-245</td></tr><tr class="even"><td style="text-align: left;">Cf-253+</td><td style="text-align: left;">Cm-249</td></tr><tr class="odd"><td style="text-align: left;">Es-254+</td><td style="text-align: left;">Bk-250</td></tr><tr class="even"><td style="text-align: left;">Es-254m+</td><td style="text-align: left;">Bk-250, Fm-254</td></tr><tr class="odd"><td style="text-align: left;">Md-258+</td><td style="text-align: left;">Fm-254, Fm-258, No-258</td></tr></tbody></table>
-
 (+++ Anlage 4 Tabelle 1 Spalte 4: Zur Anwendung vgl. § 83 +++)
 
 # Anlage 5 – (zu § 27 und Anlage 7)Überwachungsgrenzen sowie Verwertungs- und Beseitigungswege für die Bestimmung der Überwachungsbedürftigkeit von Rückständen
 
 (Fundstelle: BGBl. I 2018, 2125)
 
-1. Bei der Verwertung oder Beseitigung von Rückständen gilt für repräsentativ ermittelte Werte C<sub>U238max</sub> und C<sub>Th232max</sub> der größten spezifischen Aktivitäten der Radionuklide der Nuklidketten U-238sec und Th-232sec in Becquerel durch Gramm (Bq/g), jeweils bezogen auf Trockenmasse, die folgende Summenformel:
+1. Bei der Verwertung oder Beseitigung von Rückständen gilt für repräsentativ ermittelte Werte C<sub>U238max</sub> und C<sub>Th232max</sub> der größten spezifischen Aktivitäten der Radionuklide der U-238-Zerfallsreihe und der Th-232-Zerfallsreihe in Becquerel durch Gramm (Bq/g), jeweils bezogen auf Trockenmasse, die folgende Summenformel:
 
 C<sub>U238max</sub> + C<sub>Th232max</sub>≤ C mit der Überwachungsgrenze C = 1 Bq/g.
 
+Für Stoffe, für die keine Trockenmasse bestimmt werden kann, insbesondere für Öle, ist ein geeignetes Verfahren zur Bestimmung der spezifischen Aktivitäten anzuwenden.
+
 2. Abweichend von Nummer 1 gilt C<sub>U238max</sub> + C<sub>Th232max</sub>≤ 0,5 Bq/g, wenn
 
-a) im Einzugsbereich eines nutzbaren Grundwasserleiters im Kalenderjahr mehr als 5 000 Tonnen Rückstände deponiert werden oder
+a) im Einzugsbereich eines nutzbaren Grundwasserleiters im Kalenderjahr mehr als 5 000 Megagramm Rückstände deponiert werden oder
 
 b) bei Baustoffen bei der Verwertung im Straßen-, Wege-, Landschafts- oder Wasserbau im Bereich von Sport- und Spielplätzen oder in sonstigen Bereichen mehr als 50 Prozent Rückstände zugesetzt werden.
 
@@ -3840,7 +3885,7 @@ Satz 1 gilt nicht für die Verwertung von Schlacken im Straßen-, Wege-, Landsch
 
 3. Abweichend von Nummer 1 gilt C<sub>U238max</sub> + C<sub>Th232max</sub>≤ 5 Bq/g bei der untertägigen Verwertung oder Deponierung von Rückständen.
 
-4. Ist die größte spezifische Aktivität der Radionuklide des Pb-210+ gegenüber der größten spezifischen Aktivität der übrigen Radionuklide der U-238sec-Nuklidkette um einen Faktor A größer 5 erhöht, so gilt abweichend von den Nummern 1 bis 3: R ∙ C<sub>U238max</sub> + C<sub>Th232max</sub>≤ C. Der Faktor R nimmt bei der übertägigen Verwertung oder Beseitigung den Wert 0,5 an. Für die untertägige Verwertung oder Beseitigung ist der Faktor R aus der folgenden Tabelle zu entnehmen.   
+4. Ist die größte spezifische Aktivität der Radionuklide des Pb-210 und seiner relevanten Folgeprodukte Bi-210 und Po-210 gegenüber der größten spezifischen Aktivität der übrigen Radionuklide der U-238-Zerfallsreihe um einen Faktor A größer 5 erhöht, so gilt abweichend von den Nummern 1 bis 3: R ∙ C<sub>U238max</sub> + C<sub>Th232max</sub>≤ C. Der Faktor R nimmt bei der übertägigen Verwertung oder Beseitigung den Wert 0,5 an. Für die untertägige Verwertung oder Beseitigung ist der Faktor R aus der folgenden Tabelle zu entnehmen.   
 
 |    Faktor A    | Faktor R |
 |:--------------:|:--------:|
@@ -3850,7 +3895,7 @@ Satz 1 gilt nicht für die Verwertung von Schlacken im Straßen-, Wege-, Landsch
 
 5. Abweichend von den Nummern 1 und 2 gelten die Bedingungen C<sub>U238max</sub>≤ 0,2 Bq/g und C<sub>Th232max</sub>≤ 0,2 Bq/g, wenn bei der Deponierung oder Verwertung im Straßen-, Wege- oder Landschaftsbau, auch im Bereich von Sport- und Spielplätzen, im Einzugsbereich eines nutzbaren Grundwasserleiters eine Fläche von mehr als 1 Hektar mit Nebengestein belegt wird.
 
-Expositionen durch Radionuklide der U-235-Zerfallsreihe sind in der Nuklidkette U-238sec berücksichtigt und müssen nicht gesondert betrachtet werden. Liegt zudem die spezifische Aktivität für jedes Radionuklid einer der Nuklidketten U-238sec oder Th-232sec unter 0,2 Bq/g, bleibt die jeweilige Nuklidkette unberücksichtigt.
+Expositionen durch Radionuklide der U-235-Zerfallsreihe sind in der U-238-Zerfallsreihe berücksichtigt und müssen nicht gesondert betrachtet werden. Liegt zudem die spezifische Aktivität für jedes Radionuklid der U-238-Zerfallsreihe oder der Th-232-Zerfallsreihe unter 0,2 Bq/g, bleibt die jeweilige Nuklidkette unberücksichtigt.
 
 # Anlage 6 – (zu den §§ 28, 100, 101)Grundsätze für die Ermittlung von Expositionen bei Rückständen
 
@@ -3864,7 +3909,7 @@ Expositionen durch Radionuklide der U-235-Zerfallsreihe sind in der Nuklidkette 
 
 4. Bei Grundstücken, die durch Rückstände verunreinigt sind, sind in die Ermittlung der Exposition nach § 64 Absatz 1 Satz 2 des Strahlenschutzgesetzes alle Expositionsszenarien einzubeziehen, die bei realistischen Nutzungsannahmen unter Berücksichtigung der natürlichen Standortverhältnisse auftreten können.
 
-Für Einzelpersonen der Bevölkerung sind die Dosiskoeffizienten aus der Zusammenstellung im Bundesanzeiger Nummer 160a und b vom 28. August 2001 Teil I und II zu verwenden. Für beruflich tätige Personen sind die Dosiskoeffizienten aus der Zusammenstellung im Bundesanzeiger Nummer 160a und b vom 28. August 2001 Teil I und III zu verwenden.
+Für Einzelpersonen der Bevölkerung sind die in Anlage 18 Teil B Nummer 4 Satz 2 genannten Dosiskoeffizienten zu verwenden. Für beruflich tätige Personen sind die in Anlage 18 Teil B Nummer 4 Satz 3 genannten Dosiskoeffizienten zu verwenden.
 
 # Anlage 7 – (zu § 29 Absatz 4)Voraussetzungen für die Entlassung aus der Überwachung bei gemeinsamer Deponierung von überwachungsbedürftigen Rückständen mit anderen Rückständen und Abfällen
 
@@ -3872,7 +3917,7 @@ Für Einzelpersonen der Bevölkerung sind die Dosiskoeffizienten aus der Zusamme
 
 Bei der Entlassung von Rückständen aus der Überwachung zum Zwecke einer gemeinsamen Deponierung mit anderen Rückständen und Abfällen kann die zuständige Behörde unter den folgenden Voraussetzungen davon ausgehen, dass Expositionen, die infolge dieser gemeinsamen Deponierung auftreten können, auch ohne weitere Maßnahmen für Einzelpersonen der Bevölkerung den Richtwert einer effektiven Dosis von 1 Millisievert im Kalenderjahr nicht überschreiten werden:
 
-1. Für die Mittelwerte CM</sup><sub>U238max</sub> und CM</sup><sub>Th232max</sub> der spezifischen Aktivitäten der Radionuklide der Nuklidketten U-238sec und Th-232sec in Becquerel durch Gramm (Bq/g) gilt nachfolgende Summenformel: CM</sup><sub>U238max</sub> + CM</sup><sub>Th232max</sub> ≤ CM</sup>. Die Mittelwerte CM</sup><sub>U238max</sub> und CM</sup><sub>Th232max</sub> der spezifischen Aktivitäten dürfen als Gesamtaktivität der innerhalb von 12 Monaten auf der Deponie beseitigten überwachungsbedürftigen Rückstände nach Anlage 1 des Strahlenschutzgesetzes und Anlage 5 dieser Verordnung geteilt durch die Gesamtmasse aller innerhalb dieses Zeitraums auf der Deponie beseitigten Rückstände und Abfälle bestimmt werden. Bei der Ermittlung der Gesamtaktivität ist jeweils die größte Aktivität der Radionuklide der Nuklidketten U-238sec und Th-232sec zugrunde zu legen. CM</sup> nimmt folgende Werte an:
+1. Für die Mittelwerte CM</sup><sub>U238max</sub> und CM</sup><sub>Th232max</sub> der spezifischen Aktivitäten der Radionuklide der U-238-Zerfallsreihe und der Th-232-Zerfallsreihe in Becquerel durch Gramm (Bq/g) gilt nachfolgende Summenformel: CM</sup><sub>U238max</sub> + CM</sup><sub>Th232max</sub> ≤ CM</sup>. Die Mittelwerte CM</sup><sub>U238max</sub> und CM</sup><sub>Th232max</sub> der spezifischen Aktivitäten dürfen als Gesamtaktivität der innerhalb von 12 Monaten auf der Deponie beseitigten überwachungsbedürftigen Rückstände nach Anlage 1 des Strahlenschutzgesetzes und Anlage 5 dieser Verordnung geteilt durch die Gesamtmasse aller innerhalb dieses Zeitraums auf der Deponie beseitigten Rückstände und Abfälle bestimmt werden. Bei der Ermittlung der Gesamtaktivität ist jeweils die größte Aktivität der Radionuklide der U-238-Zerfallsreihe und der Th-232-Zerfallsreihe zugrunde zu legen. CM</sup> nimmt folgende Werte an:
 
 a) CM</sup> = 0,05 Bq/g für Deponien mit einer Fläche von mehr als 15 Hektar,
 
@@ -3882,13 +3927,13 @@ c) CM</sup> = 1 Bq/g unabhängig von der Deponiefläche für Deponien, bei denen
 
 d) CM</sup> = 5 Bq/g bei der untertägigen Beseitigung.
 
-Dabei darf die spezifische Aktivität keines Radionuklids der Nuklidketten U-238sec und Th-232sec 10 Bq/g bzw. bei der Deponierung auf Deponien für gefährliche Abfälle 50 Bq/g überschreiten.
+Dabei darf die spezifische Aktivität keines Radionuklids der U-238-Zerfallsreihe und der Th-232-Zerfallsreihe 10 Bq/g bzw. bei der Deponierung auf Deponien für gefährliche Abfälle 50 Bq/g überschreiten.
 
-2. Ist in einer Rückstandscharge die größte spezifische Aktivität der Radionuklide des Pb-210+ gegenüber der spezifischen Aktivität der übrigen Radionuklide der U-238sec-Nuklidkette um einen Faktor A größer 5 erhöht, darf bei der Ermittlung der Gesamtaktivität entsprechend Nummer 1 die Aktivität der Radionuklide der Nuklidkette U-238sec für diese Charge mit einem Faktor R multipliziert werden. Bei der Beseitigung auf Deponien nimmt der Faktor R den Wert 0,3 an. Bei der untertägigen Beseitigung ist der Faktor R aus der Tabelle in Anlage 5 Nummer 4 zu entnehmen.
+2. Ist in einer Rückstandscharge die größte spezifische Aktivität der Radionuklide des Pb-210 und seiner relevanten Folgeprodukte Bi-210 und Po-210 gegenüber der spezifischen Aktivität der übrigen Radionuklide der U-238-Zerfallsreihe um einen Faktor A größer 5 erhöht, darf bei der Ermittlung der Gesamtaktivität entsprechend Nummer 1 die Aktivität der Radionuklide der U-238-Zerfallsreihe für diese Charge mit einem Faktor R multipliziert werden. Bei der Beseitigung auf Deponien nimmt der Faktor R den Wert 0,3 an. Bei der untertägigen Beseitigung ist der Faktor R aus der Tabelle in Anlage 5 Nummer 4 zu entnehmen.
 
-Expositionen durch Radionuklide der U-235-Zerfallsreihe sind in der Nuklidkette U-238sec berücksichtigt und müssen nicht gesondert betrachtet werden. Liegt zudem die spezifische Aktivität für jedes Radionuklid einer der Nuklidketten U-238sec oder Th-232sec in einzelnen Rückstandschargen unter 0,2 Bq/g, bleibt die jeweilige Nuklidkette für diese Charge bei der Berechnung der Gesamtaktivität gemäß Nummer 1 unberücksichtigt.
+Expositionen durch Radionuklide der U-235-Zerfallsreihe sind in der U-238-Zerfallsreihe berücksichtigt und müssen nicht gesondert betrachtet werden. Liegt zudem die spezifische Aktivität für jedes Radionuklid der U-238-Zerfallsreihe oder der Th-232-Zerfallsreihe in einzelnen Rückstandschargen unter 0,2 Bq/g, bleibt die jeweilige Nuklidkette für diese Charge bei der Berechnung der Gesamtaktivität nach Nummer 1 unberücksichtigt.
 
-# Anlage 8 – (zu den §§ 35, 36, 37 sowie Anlage 4)Festlegungen zur Freigabe
+# Anlage 8 – (zu den §§ 35, 36, 37, 39 sowie Anlage 4)Festlegungen zur Freigabe
 
 (Fundstelle: BGBl. I 2018, 2128 - 2130)
 
@@ -3924,9 +3969,11 @@ Die Werte der Anlage 4 Tabelle 1 Spalte 3 gelten für
 
 1. feste Stoffe,
 
-2. Bauschutt einschließlich anhaftenden Bodens, wenn die freizugebende Masse nicht mehr als 1 000 Megagramm im Kalenderjahr beträgt, und
+2. Bauschutt einschließlich anhaftenden Bodens, wenn die freizugebende Masse nicht mehr als 1 000 Megagramm im Kalenderjahr beträgt,
 
-3. Öle und ölhaltige Flüssigkeiten, organische Lösungs- und Kühlmittel.
+3. Bodenaushub, der auf Grund seiner stofflichen Eigenschaften nicht als durchwurzelbare Bodenschicht im Sinne des § 2 Satz 1 Nummer 5 der Bundes-Bodenschutz- und Altlastenverordnung aufgebracht werden kann, wenn die freizugebende Masse nicht mehr als 37 500 Megagramm im Kalenderjahr beträgt, und
+
+4. Öle und ölhaltige Flüssigkeiten, organische Lösungs- und Kühlmittel.
 
 1. Eine spezifische Freigabe zur Beseitigung setzt voraus, dass die Stoffe, für die eine wirksame Feststellung nach § 42 Absatz 1 getroffen wurde, auf einer Deponie abgelagert oder in einer Verbrennungsanlage beseitigt werden. Eine Verwertung oder Wiederverwendung außerhalb einer Deponie oder Verbrennungsanlage sowie der Wiedereintritt der Stoffe in den Wirtschaftskreislauf muss ausgeschlossen sein.
 
@@ -4021,7 +4068,7 @@ die mittlere Eindringtiefe in cm.
 
 2. Die Werte der Anlage 4 Tabelle 1 Spalte 14 gelten nicht für Verbundstoffe aus metallischen und nichtmetallischen Komponenten.
 
-3. Es sind nur solche Schmelzbetriebe geeignet, bei denen ein Mischungsverhältnis von 1:10 von freigegebenem Metallschrott zu anderen Metallen gewährleistet werden kann oder die einen Durchsatz von mindestens 40 000 Tonnen im Kalenderjahr aufweisen.
+3. Es sind nur solche Schmelzbetriebe geeignet, bei denen ein Mischungsverhältnis von 1:10 von freigegebenem Metallschrott zu anderen Metallen gewährleistet werden kann oder die einen Durchsatz von mindestens 40 000 Megagramm im Kalenderjahr aufweisen.
 
 4. Bei einer Freigabe von Metallschrott zum Recycling, der nur mit einem einzelnen der Radionuklide Be-7, C-14, Mn-53, Mn-54, Co-57, Ni-59, Ni-63, Nb-93m, Mo-93, Tc-97, Tc-99, Ru-103, Ag-105, Ag-108m, Cd-109, Sb-125, Te-132, I-129, Eu-155, Ti-204, Pa-231, Es-254 oder Fm-255 kontaminiert ist, ist die Masse auf 10 Megagramm im Kalenderjahr beschränkt. Eine Kontamination mit einem einzelnen Radionuklid liegt dann vor, wenn alle anderen Radionuklide zusammen einen Aktivitätsanteil von einem Tausendstel nicht überschreiten.
 
@@ -4586,7 +4633,7 @@ Die Aktivität des Radionuklids i im Jahresdurchschnitt im Kubikmeter Luft darf
 für Fortluftströme Q ≤ 10⁴ m³ h-1</sup> nicht höher sein als das Zehnfache der jeweiligen Werte der Tabelle 6 Spalte 2 oder Tabelle 8 Spalte 2 oder
 
 1.1.2  
-für Fortluftströme 10⁴ m³ h-1</sup>&lt; Q ≤ 10⁵ m³ h-1</sup> nicht höher sein als die jeweiligen Werte der Spalte 2 der Tabellen 4 oder 6;
+für Fortluftströme 10⁴ m³ h-1</sup>&lt; Q ≤ 10⁵ m³ h-1</sup> nicht höher sein als die jeweiligen Werte der Spalte 2 der Tabellen 6 oder 8;
 
 1.2  
 Submersion
@@ -4610,7 +4657,7 @@ Die Aktivität des Radionuklids i im Jahresdurchschnitt im Kubikmeter Wasser dar
 für Abwassermengen ≤ 10⁵ m³ a-1</sup> nicht höher sein als das Zehnfache der jeweiligen Werte der Tabelle 6 Spalte 3 oder Tabelle 8 Spalte 4 oder
 
 2.1.2  
-für Abwassermengen &gt; 10⁵ m³ a-1</sup> nicht höher sein als die jeweiligen Werte der Tabelle 6 Spalte 3 oder Tabelle 8 Spalte 4.
+für Abwassermengen 10⁵ m³ a-1</sup>&lt; Q ≤ 10⁶ m³ a-1</sup> nicht höher sein als die jeweiligen Werte der Tabelle 6 Spalte 3 oder Tabelle 8 Spalte 4.
 
  
 
@@ -10729,7 +10776,7 @@ I. Untersuchungen mit ionisierender Strahlung und radioaktiven Stoffen – ohne 
 1) Bezogen auf eine Gruppe von Personen  
   
 
-Jede Überschreitung des Mittelwertes über die letzten 20 aufeinanderfolgenden Untersuchungen gleicher Untersuchungsart um mehr als 100 Prozent des jeweiligen diagnostischen Referenzwertes, sobald der diagnostische Referenzwert einer einzelnen Untersuchung um 200 Prozent überschritten wurde.
+Jede Überschreitung des Mittelwertes über die letzten 20 aufeinanderfolgenden Untersuchungen gleicher Untersuchungsart am selben Gerät um mehr als 100 Prozent des jeweiligen diagnostischen Referenzwertes, sobald der diagnostische Referenzwert einer einzelnen Untersuchung um 200 Prozent überschritten wurde.
 
 2) Bezogen auf eine einzelne Person  
   
@@ -10742,6 +10789,8 @@ b) Jede Wiederholung einer Anwendung, insbesondere auf Grund einer Körperteilve
 c) Jede Personenverwechslung, wenn für die daraus resultierende gesamte zusätzliche Exposition das Kriterium nach Buchstabe a erfüllt ist.
 
 d) Jedes Auftreten einer deterministischen Wirkung, die für die festgelegte Untersuchung nicht zu erwarten war.
+
+e) Jede Verwechslung des radioaktiven Stoffs, wenn für die daraus resultierende gesamte zusätzliche Exposition das Kriterium nach Buchstabe a erfüllt ist.
 
 II. Interventionen
 
@@ -10948,9 +10997,9 @@ Bei einer inneren Exposition berücksichtigt die effektive Dosis auch die nach d
 
 Die effektive Folgedosis E(τ) ist die Summe der Folge-Organ-Äquivalentdosen H<sub>T</sub>(τ) nach Nummer 1, jeweils multipliziert mit dem zugehörigen Gewebe-Wichtungsfaktor w<sub>T</sub> nach Teil C Nummer 2. Dabei ist über alle in Teil C Nummer 2 aufgeführten Organe und Gewebe zu summieren:
 
-|                                                    |
-|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0280.jpg) |
+|                                                                                                                                                                                                                                                              |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Gleichung: E in Klammern tau gleich Summe über Laufindex T von Quotient w Index T geteilt durch 2 mal Klammer auf H Index T Exponent M in Klammern tau plus H Index T Exponent F in Klammern tau Klammer zu](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j00080_0010.jpg) |
 
 Hierbei bezeichnet τ den Zeitraum, über den die Integration erfolgt. Für Erwachsene ist ein Zeitraum von 50 Jahren und für Kinder der Zeitraum vom jeweiligen Alter bis zum Alter von 70 Jahren zugrunde zu legen, sofern kein anderer Wert angegeben wird.   
 
@@ -10967,22 +11016,13 @@ b) eine potenzielle Alphaenergie-Exposition von 0,71 Millijoule durch Kubikmeter
 
 Die zuständige Behörde kann auf Grund der Expositionsbedingungen von Satz 1 Buchstabe a abweichende Umrechnungsfaktoren festlegen.
 
-4. Berechnung der effektiven Dosis bei Inkorporation, Submersion oder Bodenkontamination:  
-  
-
-Für die Berechnung der Exposition sind jeweils die Dosiskoeffizienten und Vorgaben aus der Zusammenstellung im Bundesanzeiger Nr. 160a und b vom 28. August 2001 Teil I, II und III sowie IV und V heranzuziehen. Die zuständige Behörde kann unter Berücksichtigung der Expositionsbedingungen andere Dosiskoeffizienten nach dem Stand von Wissenschaft und Technik festlegen.
+4. Berechnung der effektiven Dosis bei Inkorporation, Submersion oder Bodenkontamination: Für die Berechnung der Exposition sind jeweils die Dosiskoeffizienten und Vorgaben aus den Zusammenstellungen im Bundesanzeiger Nummer 160 a und b vom 28. August 2001 Teil I und Teil II sowie im Bundesanzeiger vom 10. Mai 2023 (Bekanntmachung des Bundesamtes für Strahlenschutz vom 17. April 2023, BAnz AT 10. Mai 2023 B7) heranzuziehen. Für die Ermittlung der Exposition für Einzelpersonen der Bevölkerung sind die Dosiskoeffizienten und Vorgaben aus der Zusammenstellung im Bundesanzeiger Nummer 160 a und b vom 28. August 2001 Teil I und Teil II heranzuziehen. Für Personen, die einer beruflichen Exposition ausgesetzt sind, oder für beruflich tätige Personen sind die Dosiskoeffizienten und Vorgaben aus den Zusammenstellungen im Bundesanzeiger Nummer 160 a und b vom 28. August 2001 Teil I und im Bundesanzeiger vom 10. Mai 2023 (Bekanntmachung des Bundesamtes für Strahlenschutz vom 17. April 2023, BAnz AT 10. Mai 2023 B7) heranzuziehen. Die zuständige Behörde kann unter Berücksichtigung der Expositionsbedingungen andere Dosiskoeffizienten und Vorgaben nach dem Stand von Wissenschaft und Technik festlegen.
 
 5. Berechnung der effektiven Dosis des ungeborenen Kindes:
 
-a) Berechnung des Beitrags aus einer äußeren Exposition des ungeborenen Kindes:  
-  
+a) Berechnung des Beitrags für das ungeborene Kind bei äußerer Exposition der schwangeren Person: Für die Berechnung der Exposition sind jeweils die Dosisleistungskoeffizienten und Vorgaben aus der Zusammenstellung im Bundesanzeiger (Bekanntmachung des Bundesamtes für Strahlenschutz vom 17. April 2023, BAnz AT 10. Mai 2023 B6) heranzuziehen. Die zuständige Behörde kann unter Berücksichtigung der Expositionsbedingungen andere Dosisleistungskoeffizienten und Vorgaben nach dem Stand von Wissenschaft und Technik festlegen.
 
-Bei äußerer Exposition gilt die Organ-Äquivalentdosis der Gebärmutter der Schwangeren als effektive Dosis des ungeborenen Kindes.
-
-b) Berechnung des Beitrags aus einer inneren Exposition des ungeborenen Kindes auf Grund der Inkorporation von Radionukliden einer Schwangeren:  
-  
-
-Bei innerer Exposition gilt die effektive Folgedosis der Schwangeren, die durch die Aktivitätszufuhr bedingt ist, als effektive Dosis des ungeborenen Kindes, soweit die zuständige Behörde auf Grund der Expositionsbedingungen nichts anderes festlegt.
+b) Berechnung des Beitrags für das ungeborene Kind aus einer inneren Exposition des ungeborenen Kindes auf Grund der Inkorporation von Radionukliden einer schwangeren Person: Für die Berechnung der Exposition sind jeweils die Dosiskoeffizienten und Vorgaben aus der Zusammenstellung im Bundesanzeiger (Bekanntmachung des Bundesamtes für Strahlenschutz vom 27. Juni 2022, BAnz AT 4. Juli 2022 B13) heranzuziehen. Die zuständige Behörde kann unter Berücksichtigung der Expositionsbedingungen andere Dosiskoeffizienten und Vorgaben nach dem Stand von Wissenschaft und Technik festlegen.
 
 1. Strahlungs-Wichtungsfaktor w<sub>R</sub>:
 
@@ -11305,14 +11345,23 @@ Beim Erwerb der Qualifikation muss eine Prüfung den Umfang einer Erstprüfung i
 
 E 2
 
-Anlagen zur Erzeugung ionisierender Strahlung,  
-ausgenommen E 1
+Anlagen zur Erzeugung ionisierender Strahlung, ausgenommen E 1 und E 2a
 
 5
 
 2
 
 Beim Erwerb der Qualifikation müssen zwei Prüfungen den Umfang einer Erstprüfung inklusive des baulichen Strahlenschutzes umfassen.
+
+E 2a
+
+Laseranlagen mit Bestrahlungsstärken bis 10¹⁶ W/cm²
+
+5
+
+2
+
+Bei Erwerb oder Erhalt einer Qualifikation zusätzlich zu der Qualifikation für Prüfungen von Anlagen nach E 2 reduzieren sich die Zahlen der zu prüfenden Systeme auf 2 (Spalte 2) und 1 (Spalte 3).
 
 E 3
 
