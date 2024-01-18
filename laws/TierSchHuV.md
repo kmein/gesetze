@@ -143,8 +143,6 @@ Abweichend von Satz 1 Nr. 1 muss für einen Hund, der regelmäßig an mindestens
 
 (5) Werden mehrere Hunde auf einem Grundstück einzeln in Zwingern gehalten, so sollen die Zwinger so angeordnet sein, dass die Hunde Sichtkontakt zu anderen Hunden haben. Satz 1 gilt nicht für Zwinger, in denen sozial unverträgliche Hunde gehalten werden.
 
-(6) (weggefallen)
-
 # § 7 – Anbindehaltung
 
 (1) Hunde dürfen nicht angebunden gehalten werden.

@@ -267,7 +267,7 @@ Die Einfuhr von Tieren ist nur zulässig, wenn die erforderlichen Einfuhrdokumen
 
 11. entgegen Artikel 6 Abs. 2 eine Änderung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig meldet,
 
-12. einer Vorschrift des Artikels 6 Abs. 3 in Verbindung mit Anhang I Kapitel I Nummer 2 Buchstabe a, c, e, f oder g Kapitel II Nr. 1.1 Buchstabe b, Nr. 1.3, 2.1 oder 5.1, Kapitel III Nr. 1.3 Buchstabe a Halbsatz 2, Nr. 1.4, 1.11 Satz 3, Nr. 1.12 Buchstabe a, c, d, e oder g, Nr. 2.2 Satz 1, Nr. 2.3, 2.4 oder 2.5 in Verbindung mit Nr. 1.10, Kapitel IV Abschnitt 1 Nr. 2 oder 3 in Verbindung mit Kapitel VI Nr. 2.1, 2.2 oder 2.3, Kapitel IV Abschnitt 1 Nr. 4, 5, 7, 8 oder 9, Abschnitt 2, Kapitel V Nr. 1.2, Kapitel VI Nr. 1.6, 1.7, 1.9, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 3.4 oder 4.1 oder Kapitel VII über die Beförderung von Tieren zuwiderhandelt,
+12. einer Vorschrift des Artikels 6 Abs. 3 in Verbindung mit Anhang I Kapitel I Nummer 2 Buchstabe a, c, e, f oder g, Kapitel II Nr. 1.1 Buchstabe b, Nr. 1.3, 2.1 oder 5.1, Kapitel III Nr. 1.3 Buchstabe a Halbsatz 2, Nr. 1.4, 1.11 Satz 3, Nr. 1.12 Buchstabe a, c, d, e oder g, Nr. 2.2 Satz 1, Nr. 2.3, 2.4 oder 2.5 in Verbindung mit Nr. 1.10, Kapitel IV Abschnitt 1 Nr. 2 oder 3 in Verbindung mit Kapitel VI Nr. 2.1, 2.2 oder 2.3, Kapitel IV Abschnitt 1 Nr. 4, 5, 7, 8 oder 9, Abschnitt 2, Kapitel V Nr. 1.2, Kapitel VI Nr. 1.6, 1.7, 1.9, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 3.4 oder 4.1 oder Kapitel VII über die Beförderung von Tieren zuwiderhandelt,
 
 13. entgegen Artikel 6 Abs. 4 in Verbindung mit Anhang I oder II den Umgang mit Tieren einer nicht geschulten Person anvertraut,
 
