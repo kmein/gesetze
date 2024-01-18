@@ -181,8 +181,7 @@ Für einen nach § 1 Absatz 1 Nummer 3 Satz 1, Absatz 2 bis 3 oder Absatz 3a ste
 
 Erstreckt sich der Erwerbsvorgang auf ein noch zu errichtendes Gebäude oder beruht die Änderung des Gesellschafterbestandes im Sinne des § 1 Absatz 2a oder 2b auf einem vorgefaßten Plan zur Bebauung eines Grundstücks, ist der Wert des Grundstücks abweichend von § 157 Absatz 1 Satz 1 des Bewertungsgesetzes nach den tatsächlichen Verhältnissen im Zeitpunkt der Fertigstellung des Gebäudes maßgebend.
 
-(+++ § 8: Zur Anwendung vgl. § 23 +++)  
-§ 8 Abs. 2: Mit Art. 3 Abs. 1 GG unvereinbar gem. Nr. 1 BVerfGE v. 23.6.2015 I 1423 - 1 BvL 13/11, 1 BvL 14/11 -; das bisherige Recht ist bis zum 31.12.2008 weiter anwendbar; der Gesetzgeber ist verpflichtet, spätestens bis zum 30.6.2016 rückwirkend zum 1.1.2009 eine Neuregelung zu treffen, vgl. Nr. 2 BVerfGE v. 23.6.2015 I 1423 - 1 BvL 13/11, 1 BvL 14/11 -
+(+++ § 8: Zur Anwendung vgl. § 23 +++)
 
 # § 9 – Gegenleistung
 

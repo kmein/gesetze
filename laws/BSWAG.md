@@ -99,7 +99,7 @@ Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 # Anlage – (zu § 1 Absatz 1)Bedarfsplan für die Bundesschienenwege
 
-(Fundstelle: BGBl. 2023 I Nr. 409, S. 23 - 27)
+(Fundstelle: BGBl. 2023 I Nr. 409, S. 23 - 26)
 
 Abschnitt 1
 

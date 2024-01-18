@@ -1449,8 +1449,6 @@ In den Monitoring-Bericht der Bundesnetzagentur nach § 35 des Energiewirtschaft
 
 5. zum Angebot von Datenkommunikationsdiensten und Telekommunikationsdiensten für die Anbindung von Smart-Meter-Gateways.
 
-(+++ § 77 (einziger Text als Abs. 4 bezeichnet): IdF d. Art. 2 Nr. 48 G v. 22.5.2023 I Nr. 133 mWv 27.5.2023 +++)
-
 # Anlage – (zu § 22 Absatz 2 Satz 1)Übersicht über die Schutzprofile und Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik 2
 
 1. BSI: Protection Profile for the Gateway of a Smart-Metering-System (Smart-Meter-Gateway PP), BSI-CC-PP-0073 \[Schutzprofil für die Kommunikationseinheit eines intelligenten Messsystems für Stoff- und Energiemengen\],  

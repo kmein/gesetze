@@ -3702,7 +3702,8 @@ b) ob die Integrität von Konsumgütern oder bauartzuzulassenden Vorrichtungen b
 
 # Anlage 3 – (zu den §§ 5, 5a, 6, 7, 8, 9, 14, 82, 96)Genehmigungsfreie Tätigkeiten
 
-(Fundstelle: BGBl. I 2018, 2106 - 2107)
+(Fundstelle: BGBl. I 2018, 2106 - 2107  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Genehmigungsfrei nach § 5 Absatz 1 ist die Anwendung von Stoffen am Menschen, wenn die spezifische Aktivität der Stoffe 500 Mikrobecquerel je Gramm nicht überschreitet.
 
@@ -3768,7 +3769,8 @@ Genehmigungsfrei nach § 5a ist der Zusatz von Kalium-40 als natürlich vorkomme
 
 # Anlage 4 – (zu den §§ 5, 10, 11, 12, 16, 31, 35, 36, 37, 52, 57, 58,61, 70, 83, 87, 88, 89, 92, 104, 106, 167, 187 und Anlage 3)Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte für hochradioaktive Strahlenquellen, Werte der Oberflächenkontamination, Liste der Radionuklide und bei den Berechnungen berücksichtigte Tochternuklide
 
-(Fundstelle: BGBl. I 2018, 2108 - 2124)
+(Fundstelle: BGBl. I 2018, 2108 - 2124  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Zu Tabelle 1:  
   
@@ -3867,7 +3869,8 @@ Die Regelungen und Erläuterungen zur Freigabe (Spalten 3 und 5 bis 14) finden s
 
 # Anlage 5 – (zu § 27 und Anlage 7)Überwachungsgrenzen sowie Verwertungs- und Beseitigungswege für die Bestimmung der Überwachungsbedürftigkeit von Rückständen
 
-(Fundstelle: BGBl. I 2018, 2125)
+(Fundstelle: BGBl. I 2018, 2125  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Bei der Verwertung oder Beseitigung von Rückständen gilt für repräsentativ ermittelte Werte C<sub>U238max</sub> und C<sub>Th232max</sub> der größten spezifischen Aktivitäten der Radionuklide der U-238-Zerfallsreihe und der Th-232-Zerfallsreihe in Becquerel durch Gramm (Bq/g), jeweils bezogen auf Trockenmasse, die folgende Summenformel:
 
@@ -3899,7 +3902,8 @@ Expositionen durch Radionuklide der U-235-Zerfallsreihe sind in der U-238-Zerfal
 
 # Anlage 6 – (zu den §§ 28, 100, 101)Grundsätze für die Ermittlung von Expositionen bei Rückständen
 
-(Fundstelle: BGBl. I 2018, 2126)
+(Fundstelle: BGBl. I 2018, 2126  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Bei der Ermittlung der Exposition von Einzelpersonen der Bevölkerung und von beruflich tätigen Personen sind jeweils realistische Expositionspfade und Expositionsannahmen zu verwenden. Soweit dabei die Expositionspfade nach Anlage 11 Teil A Berücksichtigung finden, sind die Annahmen der Anlage 11 Teil B Tabelle 1 Spalte 1 bis 7 und Tabelle 2 zugrunde zu legen.
 
@@ -3913,7 +3917,8 @@ Für Einzelpersonen der Bevölkerung sind die in Anlage 18 Teil B Nummer 4 Satz 
 
 # Anlage 7 – (zu § 29 Absatz 4)Voraussetzungen für die Entlassung aus der Überwachung bei gemeinsamer Deponierung von überwachungsbedürftigen Rückständen mit anderen Rückständen und Abfällen
 
-(Fundstelle: BGBl. I 2018, 2127)
+(Fundstelle: BGBl. I 2018, 2127  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Bei der Entlassung von Rückständen aus der Überwachung zum Zwecke einer gemeinsamen Deponierung mit anderen Rückständen und Abfällen kann die zuständige Behörde unter den folgenden Voraussetzungen davon ausgehen, dass Expositionen, die infolge dieser gemeinsamen Deponierung auftreten können, auch ohne weitere Maßnahmen für Einzelpersonen der Bevölkerung den Richtwert einer effektiven Dosis von 1 Millisievert im Kalenderjahr nicht überschreiten werden:
 
@@ -3935,7 +3940,8 @@ Expositionen durch Radionuklide der U-235-Zerfallsreihe sind in der U-238-Zerfal
 
 # Anlage 8 – (zu den §§ 35, 36, 37, 39 sowie Anlage 4)Festlegungen zur Freigabe
 
-(Fundstelle: BGBl. I 2018, 2128 - 2130)
+(Fundstelle: BGBl. I 2018, 2128 - 2130  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Sofern in den folgenden Teilen B bis G nichts anderes bestimmt ist, gilt Folgendes:
 
@@ -4087,7 +4093,8 @@ Untergrund: gelb</td></tr></tbody></table>
 
 # Anlage 11 – (zu den §§ 100, 101, 102, 160, 168, Anlage 6 und Anlage 8)Annahmen bei der Berechnung der Exposition
 
-(Fundstelle: BGBl. I 2018, 2135 - 2158)
+(Fundstelle: BGBl. I 2018, 2135 - 2158  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Bei Ableitung mit Luft:
 
@@ -10769,7 +10776,8 @@ Die Information der Bevölkerung muss Folgendes umfassen:
 
 # Anlage 14 – (zu § 108)Kriterien für die Bedeutsamkeit eines Vorkommnisses bei medizinischer Exposition und bei Exposition der untersuchten Person bei einer nichtmedizinischen Anwendung
 
-(Fundstelle: BGBl. I 2018, 2161 - 2162)
+(Fundstelle: BGBl. I 2018, 2161 - 2162  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 I. Untersuchungen mit ionisierender Strahlung und radioaktiven Stoffen – ohne Interventionen – mit Ausnahme von Untersuchungen mittels konventioneller Projektionsradiographie und mittels digitaler Volumentomographie der Zähne und des Kiefers
 
@@ -10925,7 +10933,8 @@ Ist die Baustoffdicke im Bauwerk nicht bekannt, so ist d = 0,2 Meter zu setzen.
 
 # Anlage 18 – (zu den §§ 171, 197)Dosis- und Messgrößen
 
-(Fundstelle: BGBl. I 2018, 2166 - 2168)
+(Fundstelle: BGBl. I 2018, 2166 - 2168  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Messgrößen für äußere Strahlung sind
 
@@ -11083,7 +11092,8 @@ L ist der Zahlenwert des linearen Energieübertragungsvermögens in Wasser in ke
 
 # Anlage 19 – (zu § 181)Prüfungen zum Erwerb und Erhalt der erforderlichen fachlichen Qualifikation für die Ausübung einer Tätigkeit als behördlich bestimmter Sachverständiger nach § 172 Absatz 1 des Strahlenschutzgesetzes
 
-(Fundstelle: BGBl. I 2018, 2169 - 2171)
+(Fundstelle: BGBl. I 2018, 2169 - 2171  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Für den Erwerb der erforderlichen fachlichen Qualifikation nach § 181 Absatz 1 Nummer 4 für Prüfungen nach § 172 Absatz 1 Satz 1 Nummer 1, 3 und 4 des Strahlenschutzgesetzes ist für Prüfungen an Systemen nach Spalte 1 der Tabellen 1 und 2 die Durchführung von Prüfungen nach Spalte 2 der Tabellen 1 und 2 unter Aufsicht einer Person nach § 181 Absatz 1 Nummer 3 erforderlich.
 
