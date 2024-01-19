@@ -47,6 +47,8 @@ Von der Gruppenhaltung kann abgesehen werden, wenn dies wegen der Art der Verwen
 
 (5) Es ist verboten, bei der Ausbildung, bei der Erziehung oder beim Training von Hunden Stachelhalsbänder oder andere für die Hunde schmerzhafte Mittel zu verwenden.
 
+(+++ § 2 Abs. 2: Zur Anwendung vgl. § 13 Abs. 1 +++)
+
 # § 3 – Anforderungen an das Halten beim Züchten
 
 (1) Wer mit Hunden züchtet, hat einer Hündin spätestens drei Tage vor der zu erwartenden Geburt bis zum Absetzen der Welpen eine Wurfkiste nach Maßgabe des Satzes 2 zur Verfügung zu stellen. Die Wurfkiste muss
@@ -68,6 +70,8 @@ Eine Wurfkiste muss nicht zur Verfügung gestellt werden, wenn die Hündin und d
 (4) Werden Welpen in Räumen gehalten, muss ihnen vom Züchter ab einem Alter von fünf Wochen mindestens einmal täglich für eine angemessene Dauer Auslauf im Freien gewährt werden. Der Auslauf muss so beschaffen sein, dass von ihm keine Verletzungsgefahr oder sonstige Gesundheitsgefahr für die Welpen ausgeht. Insbesondere muss sichergestellt sein, dass die Welpen nicht mit Strom führenden Vorrichtungen oder Vorrichtungen, die elektrische Impulse aussenden, in Berührung kommen können. Die benutzbare Bodenfläche des Auslaufs muss der Zahl und der Größe der Welpen angemessen sein. Die Maße der benutzbaren Bodenfläche müssen mindestens die in § 6 Absatz 2 Satz 1 festgelegten Zwingermaße betragen. Die Einfriedung des Auslaufs muss aus gesundheitsunschädlichem Material bestehen und so beschaffen sein, dass die Welpen sie nicht überwinden können und sich nicht daran verletzen können.
 
 (5) Wer gewerbsmäßig mit Hunden züchtet, muss sicherstellen, dass für jeweils bis zu fünf Zuchthunde und ihre Welpen eine Betreuungsperson zur Verfügung steht, die die dafür notwendigen Kenntnisse und Fähigkeiten gegenüber der zuständigen Behörde nachgewiesen hat. Eine Betreuungsperson darf bis zu drei Hündinnen mit Welpen gleichzeitig betreuen.
+
+(+++ § 3: Zur Anwendung vgl. § 13 Abs. 1 +++)
 
 # § 4 – Anforderungen an das Halten im Freien
 
@@ -143,6 +147,8 @@ Abweichend von Satz 1 Nr. 1 muss für einen Hund, der regelmäßig an mindestens
 
 (5) Werden mehrere Hunde auf einem Grundstück einzeln in Zwingern gehalten, so sollen die Zwinger so angeordnet sein, dass die Hunde Sichtkontakt zu anderen Hunden haben. Satz 1 gilt nicht für Zwinger, in denen sozial unverträgliche Hunde gehalten werden.
 
+(+++ § 6 Abs. 2: Zur Anwendung vgl. § 13 Abs. 2 +++)
+
 # § 7 – Anbindehaltung
 
 (1) Hunde dürfen nicht angebunden gehalten werden.
@@ -154,6 +160,8 @@ Abweichend von Satz 1 Nr. 1 muss für einen Hund, der regelmäßig an mindestens
 2. das Anbindematerial von geringem Eigengewicht und so beschaffen ist, dass sich der Hund nicht verletzen kann, sowie
 
 3. breite, nicht einschneidende Brustgeschirre oder Halsbänder verwendet werden, die so beschaffen sind, dass sie sich nicht zuziehen und nicht zu Verletzungen führen können.
+
+(+++ § 7: Zur Anwendung vgl. § 13 Abs. 1 +++)
 
 # § 8 – Fütterung und Pflege
 

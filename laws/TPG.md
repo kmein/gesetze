@@ -406,7 +406,7 @@ Dabei sollen die Hausärzte ausdrücklich darauf hinweisen, dass keine Verpflich
 
 1. im Hinblick auf die Person, die eine Erklärung zur Organ- und Gewebespende abgibt, neben der Erklärung selbst
 
-a) ihre Vornamen, Familiennamen, Doktortitel, Geburtsname, Geburtsdatum und Geburtsort, Anschrit, die zu pseudonymisierende Krankenversichertennummer und E‑Mail-Adresse,
+a) ihre Vornamen, Familiennamen, Doktortitel, Geburtsname, Geburtsdatum und Geburtsort, Anschrift, die zu pseudonymisierende Krankenversichertennummer und E-Mail-Adresse,
 
 b) die für den Zugriff auf das Register erforderlichen Kennungen und
 
