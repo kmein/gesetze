@@ -131,6 +131,8 @@ Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtlichen 
 
 (4) Kälber im Alter von weniger als 28 Tagen dürfen vorbehaltlich des Artikels 1 Abs. 2 der Verordnung (EG) Nr. 1/2005 innerstaatlich nicht befördert werden.
 
+(+++ § 10 Abs. 4: Zur Anwendung vgl. § 23 +++)
+
 # § 11 – Eintagsküken
 
 Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtlichen Vorschriften hat der Absender bei innerstaatlichen Transporten von Eintagsküken sicherzustellen, dass
