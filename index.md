@@ -762,6 +762,7 @@
 - [BGeoRG](laws/BGeoRG.md) Gesetz über die geodätischen Referenzsysteme, -netze und geotopographischen Referenzdaten des Bundes
 - [BGG](laws/BGG.md) Gesetz zur Gleichstellung von Menschen mit Behinderungen
 - [BGH/BPatGERVV](laws/BGH_BPatGERVV.md) Verordnung über den elektronischen Rechtsverkehr beim Bundesgerichtshof und Bundespatentgericht
+- [BGHolzMetallDiszRZustAnO](laws/BGHolzMetallDiszRZustAnO.md) Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Berufsgenossenschaft Holz und Metall
 - [BGHWidVertrAnO](laws/BGHWidVertrAnO.md) Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden sowie der Vertretung bei Klagen von Richterinnen und Richtern sowie Beamtinnen und Beamten des Bundesgerichtshofs in Angelegenheiten der Besoldung
 - [BGL 2002](laws/BGL_2002.md) Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2002
 - [BGL 2003](laws/BGL_2003.md) Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2003
@@ -1851,7 +1852,7 @@
 - [EthRG](laws/EthRG.md) Gesetz zur Einrichtung des Deutschen Ethikrats
 - [EthylenoxidV](laws/EthylenoxidV.md) Verordnung über ein Verbot der Verwendung von Ethylenoxid bei Arzneimitteln
 - [ETWStBefrV](laws/ETWStBefrV.md) Verordnung über die Gewährung von Steuerbefreiungen für die European Transsonic Windtunnel GmbH
-- [EU-DBA-SBG](laws/EU-DBA-SBG.md) Gesetz zur Umsetzung der Richtlinie (EU) 2017/1852 des Rates vom 10. Oktober 2017 über Verfahren zur Beilegung von Besteuerungsstreitigkeiten in der Europäischen Union*
+- [EU-DBA-SBG](laws/EU-DBA-SBG.md) Gesetz zur Umsetzung der Richtlinie (EU) 2017/1852 des Rates vom 10. Oktober 2017 über Verfahren zur Beilegung von Besteuerungsstreitigkeiten in der Europäischen Union *
 - [EU-EnergieKBG](laws/EU-EnergieKBG.md) Gesetz zur Einführung eines EU-Energiekrisenbeitrags nach der Verordnung (EU) 2022/1854
 - [EU-FahrgRBusBGebV](laws/EU-FahrgRBusBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für individuell zurechenbare öffentliche Leistungen zur Durchsetzung der EU-Fahrgastrechte im Kraftomnibusverkehr
 - [EU-FahrgRBusG](laws/EU-FahrgRBusG.md) EU-Fahrgastrechte-Kraftomnibus-Gesetz
