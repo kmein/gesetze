@@ -169,9 +169,9 @@ d) Umsätze nach Art der Tätigkeit,
 
 e) Handelsumsätze nach Produktarten,
 
-f) Aufwendungen für Waren, Material und Dienstleistungen nach Arten,
+f) Aufwendungen nach Arten,
 
-g) Wert der Bestände an Waren und Material nach Arten zu Beginn und zum Ende des Berichtsjahres,
+g) Wert der Bestände nach Arten zu Beginn und zum Ende des Berichtsjahres,
 
 h) Aufwendungen für Mieten, Pachten und Leasing,
 
