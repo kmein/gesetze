@@ -159,7 +159,7 @@ e) dem Stellplatz.
 
 (5) Für Unternehmen, deren Inhaber Existenzgründer sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von § 3 Absatz 2 Satz 1, § 4 Absatz 2 Satz 1 und § 5 Absatz 2 keine Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer sind.
 
-(6) Existenzgründer im Sinne von Absatz 4 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
+(6) Existenzgründer im Sinne von Absatz 5 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
 
 # § 7c
 
