@@ -2665,6 +2665,7 @@
 - [GWDAPrV](laws/GWDAPrV.md) Verordnung über die Ausbildung und Prüfung für den gehobenen Wetterdienst des Bundes
 - [GwG](laws/GwG.md) Gesetz über das Aufspüren von Gewinnen aus schweren Straftaten
 - [GwGMeldV-Immobilien](laws/GwGMeldV-Immobilien.md) Verordnung zu den nach dem Geldwäschegesetz meldepflichtigen Sachverhalten im Immobilienbereich
+- [GWStatG](laws/GWStatG.md) Gesetz über die Statistik zu globalen Wertschöpfungsketten
 - [GZKtgRindFlV 1989](laws/GZKtgRindFlV_1989.md) Verordnung über die Grundsätze für die Verteilung der deutschen Quote des Gemeinschaftszollkontingents 1989 für gefrorenes Rindfleisch
 - [HaagÜbkAG](laws/HaagÜbkAG.md) Gesetz zur Ausführung des Haager Übereinkommens vom 15. November 1965 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke im Ausland in Zivil- oder Handelssachen und des Haager Übereinkommens vom 18. März 1970 über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
 - [HärteV](laws/HärteV.md) Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz
