@@ -259,6 +259,9 @@
 
 (4) Dieses Gesetz findet auf ausgeschlossene Einheiten im Sinne des § 5 keine Anwendung; für die Bestimmung der Umsatzgrenze sind die Umsatzerlöse dieser Einheiten jedoch zu berücksichtigen.
 
+(+++ § 1 Abs. 3: Zur Geltung vgl. § 5 Abs. 2 +++)  
+(+++ § 1 Abs. 3: Zur Anwendung vgl. § 63 Abs. 4 +++)
+
 # § 2 – Umfang der Besteuerung
 
 Die Mindeststeuer umfasst den Primärergänzungssteuerbetrag nach den §§ 8 bis 10, den Sekundärergänzungssteuerbetrag nach den §§ 11 bis 14 sowie den nationalen Ergänzungssteuerbetrag nach den §§ 90 bis 93.
@@ -356,6 +359,8 @@ b) ausschließlich Nebentätigkeiten zu den von der ausgeschlossenen Einheit ode
 Als ausgeschlossene Einheit gilt auch eine qualifizierte Tochtergesellschaft. Eine qualifizierte Tochtergesellschaft ist eine Einheit, deren gesamte Eigenkapitalanteile im gesamten Geschäftsjahr unmittelbar oder mittelbar von einer ausgeschlossenen Einheit im Sinne des Absatzes 1 Nummer 3 gehalten werden und wenn im Geschäftsjahr die Summe der Umsatzerlöse der Geschäftseinheiten der Unternehmensgruppe, ausgenommen der Umsatzerlöse ausgeschlossener Einheiten im Sinne des Absatzes 1 Nummer 3 sowie des Satzes 1, weniger als 750 Millionen Euro und weniger als 25 Prozent der im Konzernabschluss ausgewiesenen Umsatzerlöse beträgt; für den 750-Millionen-Schwellenwert gilt § 1 Absatz 3 entsprechend.
 
 (3) Auf Antrag der berichtspflichtigen Geschäftseinheit kann für jede Einheit gesondert von der Behandlung als ausgeschlossene Einheit nach Absatz 2 abgesehen werden. Für die Ausübung des Wahlrechts gilt § 77 Absatz 2.
+
+(+++ § 5: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
 # § 6 – Belegenheit von Einheiten und Betriebsstätten
 
@@ -651,6 +656,8 @@ Für die Zwecke dieses Paragraphen gelten die folgenden Begriffsbestimmungen:
 
 (4) Nettobuchwert im Sinne des Absatzes 1 ist das arithmetische Mittel, aus den für einen materiellen Vermögenswert zu Beginn und Ende des Geschäftsjahres im Jahresabschluss ausgewiesenen Werten nach Berücksichtigung der kumulierten Abschreibungen und substanzbedingten Wertminderungen.
 
+(+++ § 12: Zur Geltung vgl. § 11 Abs. 1 +++)
+
 # § 13 – Besonderheiten bei transparenten Einheiten
 
 (1) Für die Zuordnung der Beschäftigten im Sinne des § 12 Absatz 2 und der materiellen Vermögenswerte im Sinne des § 12 Absatz 3 zu den Betriebsstätten einer transparenten Einheit sind die Grundsätze von § 43 Absatz 1 und 2 für Zwecke des § 12 nicht anzuwenden.
@@ -724,6 +731,8 @@ Der Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag wird
 14. vermehrt um Gewinne oder vermindert um Verluste aus der Übertragung von Vermögenswerten oder Schulden (§ 66); Nummer 3 bleibt davon unberührt, und
 
 15. vermehrt oder vermindert um sonstige Anpassungen nach den Teilen 6 und 7 (§§ 64, 65, 67, 69 bis 74).
+
+(+++ § 18 Nummer 8: Zur Nichtanwendung vgl. § 24 Abs. 2 +++)
 
 # § 19 – Gesamtsteueraufwand
 
@@ -804,6 +813,8 @@ Korrekturposten Pensionsaufwand ist der Unterschiedsbetrag zwischen dem Betrag d
 (1) Anerkannte steuerliche Zulagen sind im Geschäftsjahr der Erfüllung der Anspruchsvoraussetzung für deren Gewährung als Erträge zu behandeln; eine Erfassung im Betrag der angepassten Steuern ist nicht zulässig. Steht eine solche Zulage im Zusammenhang mit der Investition in einen Vermögenswert und mindert die Zulage die Anschaffungskosten oder Herstellungskosten für Zwecke der Rechnungslegung, kann die Erfassung als Ertrag auf die Nutzungsdauer des Vermögenswerts in Übereinstimmung mit der bilanziellen Behandlung bei der Geschäftseinheit verteilt werden. Nicht anerkannte steuerliche Zulagen dürfen vorbehaltlich der §§ 28 und 29 nicht als Erträge behandelt werden, sie sind im Betrag der angepassten Steuern zu erfassen.
 
 (2) Anerkannte steuerliche Zulagen sind durch das Steuersystem gewährte Zulagen, soweit die jeweilige Zulage so ausgestaltet ist, dass sie innerhalb von vier Jahren ab Erfüllung der Anspruchsvoraussetzung für die Gewährung der Zulage auf die Steuer angerechnet oder ausgezahlt wird und deren Gewährung nicht vom Bestehen einer Steuerschuld abhängt. Anerkannte steuerliche Zulagen umfassen keine anrechenbaren oder erstattungsfähigen Steuern in Bezug auf zulässige Anrechnungssteuern oder unzulässige erstattungsfähige Anrechnungssteuern. Nicht anerkannte steuerliche Zulagen sind Steuergutschriften, die keine anerkannten steuerlichen Zulagen sind, aber ganz oder teilweise auszahlbar sind.
+
+(+++ § 27 Abs. 1: Zur Anwendung vgl. § 28 Abs. 1 +++)
 
 # § 28 – Marktfähige und übertragbare steuerliche Zulagen
 
@@ -1135,6 +1146,8 @@ Die nach Satz 1 verbleibenden erfassten Steuern des gruppenzugehörigen Gesellsc
 
 (3) Im Fall des § 42 Absatz 4 Satz 2 sind die erfassten Steuern, die im Belegenheitsstaat auf den Gewinn der Betriebsstätte anfallen, als erfasste Steuern des Stammhauses zu behandeln. Die nach Satz 1 zuzurechnenden erfassten Steuern dürfen den Betrag des Gewinns der Betriebsstätte, multipliziert mit dem höchsten inländischen Steuersatz für reguläre Einkünfte im Belegenheitsstaat des Stammhauses, nicht übersteigen.
 
+(+++ § 49: Zur Anwendung vgl. § 92 +++)
+
 # § 50 – Gesamtbetrag der angepassten latenten Steuern
 
 (1) Der Gesamtbetrag der angepassten latenten Steuern für eine Geschäftseinheit für ein Geschäftsjahr entspricht den im Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag angefallenen latenten Steuern, wenn der anwendbare Steuersatz niedriger ist als der Mindeststeuersatz, und in allen anderen Fällen der unter Zugrundelegung des Mindeststeuersatzes neu berechneten latenten Steuern, die sich auf die erfassten Steuern für dieses Geschäftsjahr beziehen. Dabei sind die in den Absätzen 2 und 3 aufgeführten Anpassungen sowie folgende Positionen ausgeschlossen:
@@ -1235,6 +1248,8 @@ Auflösungsbetrag = Mindeststeuer-Gesamtgewinns x Mindeststeuersatz
 
 (6) Ist ein 1 Million Euro übersteigender Betrag des laufenden Steueraufwands einer Geschäftseinheit, der in den angepassten erfassten Steuern für ein Geschäftsjahr berücksichtigt wurde, binnen drei Jahren nach Ablauf dieses Geschäftsjahres noch nicht entrichtet worden, werden der effektive Steuersatz und der Steuererhöhungsbetrag für das Geschäftsjahr, in dem der noch nicht entrichtete Betrag als erfasste Steuer geltend gemacht wurde, nach § 57 Absatz 1 neu berechnet, indem die noch nicht entrichteten Beträge aus den angepassten erfassten Steuern herausgerechnet werden.
 
+(+++ § 52 Abs. 1 und 2: Zur Geltung vgl. § 16 Abs. 3 +++)
+
 # § 53 – Effektiver Steuersatz der Unternehmensgruppe für ein Steuerhoheitsgebiet
 
 (1) Für die Unternehmensgruppe ist der effektive Steuersatz für ein Steuerhoheitsgebiet für das Geschäftsjahr wie folgt zu ermitteln:  
@@ -1244,6 +1259,8 @@ Der effektive Steuersatz ist auf vier Stellen nach dem Komma zu runden. Der Gesa
 (2) Für die Ermittlung des effektiven Steuersatzes nach Absatz 1 ist eine staatenlose Geschäftseinheit so zu behandeln, als wäre sie in einem Steuerhoheitsgebiet belegen, in dem sie die einzige Geschäftseinheit ist.
 
 (3) Die Beträge der angepassten erfassten Steuern und Mindeststeuer-Gewinne oder Mindeststeuer-Verluste von Investmenteinheiten sind bei der Ermittlung des effektiven Steuersatzes nach Absatz 1 auszunehmen.
+
+(+++ § 53 Abs. 2: Zur Anwendung vgl. § 91 +++)
 
 # § 54 – Mindeststeuersatz und Ermittlung des Steuererhöhungsbetrags
 
@@ -1298,9 +1315,11 @@ Für den Fall, dass in einem der zwei dem Geschäftsjahr vorangegangenen Geschä
 
 # § 58 – Ermittlung des substanzbasierten Freibetrags
 
-(1) Der substanzbasierte Freibetrag für alle in einem Steuerhoheitsgebiet belegenen Geschäftseinheiten, ausgenommen von Investmenteinheiten, beträgt:  
-5 % x berücksichtigungsfähige Lohnkosten für berücksichtigungsfähige Beschäftigte  
-+ 5 % x berücksichtigungsfähige materielle Vermögenswerte
+(1) Der substanzbasierte Freibetrag für alle in einem Steuerhoheitsgebiet belegenen Geschäftseinheiten, ausgenommen von Investmenteinheiten, beträgt:
+
+<table width="100%" style="border-collapse: collapse;"><tbody><tr class="odd"><td style="text-align: center;"><br />
+5 % x berücksichtigungsfähige Lohnkosten für berücksichtigungsfähige Beschäftigte<br />
++ 5 % x berücksichtigungsfähige materielle Vermögenswerte</td></tr><tr class="even"><td style="text-align: center;"> </td></tr></tbody></table>
 
 (2) Auf Antrag der berichtspflichtigen Geschäftseinheit kann für jedes Geschäftsjahr auf den Ansatz und die Ermittlung des substanzbasierten Freibetrags nach Absatz 1 verzichtet werden.
 
@@ -1626,13 +1645,17 @@ Eine oberste Muttergesellschaft, die ihren Mindeststeuer-Gewinn nach Satz 1 kür
 2. wird jeder zusätzliche Steuererhöhungsbetrag, der sich aus einer solchen Neuberechnung ergibt, mit der Nachversteuerungsquote im Veräußerungsfall multipliziert, um den zusätzlichen Steuererhöhungsbetrag im laufenden Jahr für die Zwecke von § 54 zu ermitteln.
 
 (8) Die Nachversteuerungsquote im Veräußerungsfall wird für jede aus der Unternehmensgruppe ausscheidende Geschäftseinheit anhand der folgenden Formel ermittelt:  
+  
 ![Mindeststeuer-Gewinn der Geschäftseinheit geteilt durch den Netto-Gewinn des Steuerhoheitsgebiets](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j03970_0080.jpg)  
+  
 Der Mindeststeuer-Gewinn der Geschäftseinheit ist die Summe der Mindeststeuer-Gewinne der ausscheidenden Geschäftseinheit für jedes der Geschäftsjahre auf die sich die Nachversteuerungskonten für das Steuerhoheitsgebiet beziehen. Der Netto-Gewinn des Steuerhoheitsgebiets ist die Summe der nach § 53 ermittelten Mindeststeuer-Gesamtgewinne des Steuerhoheitsgebiets für jedes der Geschäftsjahre, auf die sich die Nachversteuerungskonten für das Steuerhoheitsgebiet beziehen.
 
 # § 72 – Berechnung des effektiven Steuersatzes für Investmenteinheiten
 
 (1) Abweichend von § 53 und vorbehaltlich des § 73 oder des § 74 wird der effektive Steuersatz einer Investmenteinheit, die keine steuertransparente Einheit ist, getrennt vom effektiven Steuersatz der Unternehmensgruppe in diesem Steuerhoheitsgebiet wie folgt berechnet:  
+  
 ![angepasste erfasste Steuern der Investmenteinheit geteilt durch den der Unternehmensgruppe zuzurechnenden Anteil des Mindeststeuer-Gewinns dieser Investmenteinheit](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j03970_0090.jpg)  
+  
 Die angepassten erfassten Steuern einer Investmenteinheit entsprechen der Summe der nach den §§ 44 bis 48 für die Investmenteinheit ermittelten angepassten erfassten Steuern, die auf den der Unternehmensgruppe zuzurechnenden Anteil am Mindeststeuer-Gewinn der Investmenteinheit entfallen, und der erfassten Steuern, die der Investmenteinheit nach § 49 zuzurechnen sind. Die angepassten erfassten Steuern der Investmenteinheit umfassen nur die Steuern, die auf Gewinne entfallen, die zu dem der Unternehmensgruppe zuzurechnenden Anteil am Mindeststeuer-Gewinn der Investmenteinheit gehören. Der der Unternehmensgruppe zuzurechnende Anteil am Mindeststeuer-Gewinn der Investmenteinheit entspricht dem der obersten Muttergesellschaft zuzurechnenden Anteil; § 9 Absatz 2 gilt entsprechend, wobei nur Beteiligungen berücksichtigt werden, für die kein Wahlrecht nach § 73 oder § 74 in Anspruch genommen wurde. Sind in einem Steuerhoheitsgebiet mehr als eine Investmenteinheit belegen, so werden bezogen auf das Steuerhoheitsgebiet die angepassten erfassten Steuern und die der Unternehmensgruppe zuzurechnenden Anteile am Mindeststeuer-Gewinn oder Mindeststeuer-Verlust zusammengenommen (effektiver Steuersatz aller in diesem Steuerhoheitsgebiet belegenen Investmenteinheiten).
 
 (2) Der Ergänzungssteuerbetrag einer Investmenteinheit entspricht dem Ergänzungssteuersatz der Investmenteinheit multipliziert mit dem Betrag, um den der der Unternehmensgruppe zuzurechnende Anteil am Mindeststeuer-Gewinn der Investmenteinheit den substanzbasierten Freibetrag (§§ 58 bis 62) der Investmenteinheit übersteigt. Der Ergänzungssteuersatz einer Investmenteinheit ist die Differenz, um die der Mindeststeuersatz den effektiven Steuersatz der Investmenteinheit übersteigt. Ist in diesem Steuerhoheitsgebiet mehr als eine Investmenteinheit belegen, so werden die der Unternehmensgruppe zuzurechnenden Anteile am Mindeststeuer-Gewinn der in dem Steuerhoheitsgebiet belegenen Investmenteinheiten, die für jede dieser Investmenteinheiten ermittelt werden, und die für jede dieser Investmenteinheiten ermittelten substanzbasierten Freibeträge jeweils zusammengenommen, um den effektiven Steuersatz für alle in dem Steuerhoheitsgebiet belegenen Investmenteinheiten zu berechnen.
@@ -1895,7 +1918,9 @@ c) im Fall einer Geschäftseinheit, die allein aus Gründen der Größe oder der
 
 6. Der vereinfacht berechnete effektive Steuersatz für ein Steuerhoheitsgebiet wird wie folgt berechnet:
 
+  
 ![Vereinfachte erfasste Steuern geteilt durch den Gewinn oder Verlust vor Steuern](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j03970_0100.jpg)  
+  
 
 7. Der Übergangssteuersatz beträgt für die Geschäftsjahre, die in den Jahren 2023 und 2024 beginnende 15 Prozent, für im Jahr 2025 beginnende 16 Prozent und für im Jahr 2026 beginnende 17 Prozent.
 
@@ -1904,11 +1929,15 @@ c) im Fall einer Geschäftseinheit, die allein aus Gründen der Größe oder der
 # § 88 – Übergangsregelungen bei gemischter Hinzurechnungsbesteuerung
 
 (1) Für Geschäftsjahre, die am oder vor dem 31. Dezember 2025 beginnen, nicht mehr aber für Geschäftsjahre, die nach dem 30. Juni 2027 enden, ist die Zurechnung des im Jahresabschluss eines gruppenzugehörigen Gesellschafters berücksichtigten Betrags an erfassten Steuern zu den jeweiligen Geschäftseinheiten, deren Einkommen beim gruppenzugehörigen Gesellschafter einer gemischten Hinzurechnungsbesteuerung unterliegt, abweichend von § 49 Absatz 1 Nummer 3 und Absatz 2 nach folgender Formel vorzunehmen:  
+  
 ![Zurechnungsschlüssel geteilt durch die Summe aller Zurechnungsschlüssel, Ergebnis multipliziert mit den zuzurechnenden Steuern](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j03970_0110.jpg)  
+  
 Eine gemischte Hinzurechnungsbesteuerung ist eine Form der Hinzurechnungsbesteuerung im Sinne des § 7 Absatz 14, bei der Gewinne, Verluste sowie anrechenbare Steuern aller ausländischen Einheiten für Zwecke der Berechnung des Hinzurechnungsbetrags des unmittelbar oder mittelbar beteiligten Gesellschafters dieser ausländischen Einheiten aggregiert betrachtet werden und der Hinzurechnungsbetrag einem anwendbaren Steuersatz unterhalb von 15 Prozent unterliegt. Der anwendbare Steuersatz entspricht dem Steuersatz, bei dem unter Anrechnung ausländischer Steuern keine Steuer auf den Hinzurechnungsbetrag mehr verbleibt.
 
 (2) Der Zurechnungsschlüssel nach Absatz 1 ermittelt sich wie folgt:  
+  
 ![Zuzurechnendes Einkommen der ausländischen Geschäftseinheit multipliziert mit Klammer auf dem anwendbaren Steuersatz minus dem effektiven Steuersatz Klammer zu](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j03970_0120.jpg)  
+  
 Dabei entspricht das zuzurechnende Einkommen der Einheit dem betragsmäßigen Anteil des beteiligten Gesellschafters an dem Einkommen der ausländischen Einheit. Der effektive Steuersatz entspricht dem nach § 53 Absatz 1 ermittelten effektiven Steuersatz ohne Berücksichtigung von Steuern auf Hinzurechnungsbeträge. Entspricht der effektive Steuersatz mindestens dem anwendbaren Steuersatz, beträgt der Zurechnungsschlüssel nach Absatz 1 null. Steuern aufgrund einer anerkannten nationalen Ergänzungssteuer sind bei der Berechnung des effektiven Steuersatzes zu berücksichtigen, soweit diese im Rahmen der gemischten Hinzurechnungsbesteuerung nach der gleichen Maßgabe wie alle anderen erfassten Steuern anrechenbar sind.
 
 (3) Findet die gemischte Hinzurechnungsbesteuerung auch auf Einheiten Anwendung, die keine Geschäftseinheiten im Sinne dieses Gesetzes sind, ist für die Anwendung des Absatzes 1 insoweit ebenfalls eine Zurechnung zu diesen Einheiten vorzunehmen.
@@ -1970,6 +1999,9 @@ Die Mindeststeuer (§ 2) für ein Geschäftsjahr entsteht mit Ablauf des Kalende
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundeszentralamt für Steuern.
 
 (4) Für das Bußgeldverfahren gilt § 410 Absatz 1 Nummer 2 bis 12 der Abgabenordnung entsprechend.
+
+(+++ § 98 Abs. 1: Zur Anwendung vgl. § 101 Abs. 2 +++)  
+(+++ § 98 Abs. 1: Zur Nichtanwendung vgl. § 101 Abs. 3 +++)
 
 # § 99 – Ermächtigungen
 
