@@ -107,7 +107,7 @@ Reservistendienst Leistende erhalten für jeden Tag Reservistendienst eine Präm
 
 (1) Reservistendienst Leistenden kann für ihre Verwendung bei der Herbeiführung eines im besonderen öffentlichen Interesse liegenden unaufschiebbaren und zeitgebundenen Ergebnisses im Inland eine Prämie gewährt werden. Voraussetzung ist eine Entscheidung nach § 42b Absatz 3 des Bundesbesoldungsgesetzes für die entsprechende Verwendung von Soldatinnen und Soldaten.
 
-(2) Die Prämie beträgt 70 Prozent der entsprechenden Prämie für Soldatinnen und Soldaten nach § 42b Absatz 2 Satz 1 des Bundesbesoldungsgesetzes. § 42b Absatz 2 Satz 2 bis 4 des Bundesbesoldungsgesetzes gilt entsprechend.
+(2) Die Prämie beträgt 70 Prozent der entsprechenden Prämie für Soldatinnen und Soldaten nach § 42b Absatz 2 Satz 1 des Bundesbesoldungsgesetzes. Abweichend von Satz 1 beträgt die Prämie 100 Prozent, wenn sie für Soldatinnen und Soldaten nicht steuerpflichtig ist. § 42b Absatz 2 Satz 2 bis 4 des Bundesbesoldungsgesetzes gilt entsprechend.
 
 # § 12 – Zuschlag für längeren Dienst
 

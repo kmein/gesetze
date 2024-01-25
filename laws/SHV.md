@@ -7,7 +7,7 @@ Auf Grund des § 31 Absatz 8 und des § 93 Absatz 3 Nummer 2 des Soldatengesetze
 
 # § 1 – Erstattungsvoraussetzungen
 
-(1) Soldatinnen und Soldaten, die Familienpflichten im Sinne des § 4 Absatz 1 des Soldatinnen- und Soldatengleichstellungsgesetzes haben, werden Kosten für eine Familien- und Haushaltshilfe erstattet, soweit diese unmittelbar entstehen durch
+(1) Soldatinnen und Soldaten, die Familien- und Pflegeaufgaben im Sinne des § 3 Absatz 6 und 7 des Soldatinnen- und Soldatengleichstellungsgesetzes haben, werden Kosten für eine Familien- und Haushaltshilfe erstattet, soweit diese unmittelbar entstehen durch
 
 1. eine besondere Verwendung im Ausland nach § 56 Absatz 1 des Bundesbesoldungsgesetzes,
 

@@ -909,11 +909,9 @@ die Minderung des Ruhegehalts darf 10,8 vom Hundert in den Fällen der Nummern 1
 
 2. a) wegen Dienstunfähigkeit im Sinne des § 44 Abs. 1 des Bundesbeamtengesetzes in den Ruhestand versetzt worden ist oder
 
-b) wegen Erreichens einer besonderen Altersgrenze in den Ruhestand getreten ist,
+b) wegen Erreichens einer besonderen Altersgrenze in den Ruhestand getreten ist und
 
-3. einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht hat und
-
-4. kein Erwerbs- oder Erwerbsersatzeinkommen nach § 53 Absatz 7 bezieht, das im Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt.
+3. einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht hat.
 
 (2) Die Erhöhung des Ruhegehaltssatzes beträgt 0,95667 Prozent für je zwölf Kalendermonate der für die Erfüllung der Wartezeit (Absatz 1 Nummer 1) anrechnungsfähigen Pflichtbeitragszeiten, soweit sie vor Begründung des Beamtenverhältnisses zurückgelegt worden sind; unberücksichtigt bleiben
 
@@ -927,9 +925,7 @@ Die Erhöhung ist kaufmännisch auf zwei Dezimalstellen zu runden; der erhöhte 
 
 1. aus den anrechnungsfähigen Pflichtbeitragszeiten eine Versichertenrente einer inländischen oder ausländischen Alterssicherungseinrichtung bezieht, mit Ablauf des Tages vor dem Beginn der Rente, oder
 
-2. in den Fällen des Absatzes 1 Nr. 2 Buchstabe a nicht mehr dienstunfähig ist, mit Ablauf des Monats, in dem ihm der Wegfall der Erhöhung mitgeteilt wird, oder
-
-3. ein Erwerbseinkommen bezieht, mit Ablauf des Tages vor dem Beginn der Erwerbstätigkeit.
+2. in den Fällen des Absatzes 1 Nr. 2 Buchstabe a nicht mehr dienstunfähig ist, mit Ablauf des Monats, in dem ihm der Wegfall der Erhöhung mitgeteilt wird.
 
 § 35 Abs. 3 Satz 2 gilt sinngemäß.
 
@@ -1183,7 +1179,7 @@ Sind bei einem Dienstunfall Kleidungsstücke oder sonstige Gegenstände, die der
 
 (3) Der Verletzte ist verpflichtet, sich einer ärztlichen Untersuchung und Behandlung zu unterziehen, es sei denn, dass sie mit einer erheblichen Gefahr für Leben oder Gesundheit des Verletzten verbunden ist. Das Gleiche gilt für eine Operation dann, wenn sie keinen erheblichen Eingriff in die körperliche Unversehrtheit bedeutet. Die oberste Dienstbehörde oder die von ihr bestimmte Stelle kann bestimmen, welcher Arzt die Untersuchung oder Behandlung nach Satz 1 durchführt.
 
-(4) Verursachen die Folgen des Dienstunfalles außergewöhnliche Kosten für Kleider- und Wäscheverschleiß, so sind diese in angemessenem Umfang zu ersetzen. Kraftfahrzeughilfe wird gewährt, wenn der Verletzte infolge des Dienstunfalls nicht nur vorübergehend auf die Benutzung eines Kraftfahrzeugs angewiesen ist, um die zur Dienstausübung erforderlichen Wege zurückzulegen. Notwendige Aufwendungen für eine bedarfsgerechte Anpassung des Wohnumfelds werden erstattet, wenn infolge des Dienstunfalls nicht nur vorübergehend die Anpassung vorhandenen oder die Beschaffung bedarfsgerechten Wohnraums erforderlich ist. Ist der Verletzte an den Folgen des Dienstunfalles verstorben, so können auch die Kosten für die Überführung und die Bestattung in angemessener Höhe erstattet werden.
+(4) Verursachen die Folgen des Dienstunfalles außergewöhnliche Kosten für Kleider- und Wäscheverschleiß, so sind diese in angemessenem Umfang zu ersetzen. Kraftfahrzeughilfe wird gewährt, wenn die verletzte Person infolge des Dienstunfalls nicht nur vorübergehend auf die Benutzung eines Kraftfahrzeugs angewiesen ist. Notwendige Aufwendungen für eine bedarfsgerechte Anpassung des Wohnumfelds werden erstattet, wenn infolge des Dienstunfalls nicht nur vorübergehend die Anpassung vorhandenen oder die Beschaffung bedarfsgerechten Wohnraums erforderlich ist. Ist der Verletzte an den Folgen des Dienstunfalles verstorben, so können auch die Kosten für die Überführung und die Bestattung in angemessener Höhe erstattet werden.
 
 (5) Die Durchführung regelt das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung.
 
@@ -1425,7 +1421,7 @@ Im Fall des Satzes 1 Nummer 2 sind Leistungen, die dem Beamten und seinen Hinter
 
 (1) Die oberste Dienstbehörde setzt die Versorgungsbezüge fest, bestimmt die Person des Zahlungsempfängers und entscheidet über die Berücksichtigung von Zeiten als ruhegehaltfähige Dienstzeit sowie über die Bewilligung von Versorgungsbezügen auf Grund von Kannvorschriften. Sie kann diese Befugnisse im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat auf andere Stellen übertragen.
 
-(2) Entscheidungen über die Bewilligung von Versorgungsbezügen auf Grund von Kannvorschriften dürfen erst beim Eintritt des Versorgungsfalles getroffen werden; vorherige Zusicherungen sind unwirksam. Bei der Einstellung eines Beamten des Bundes ist auf Antrag zu entscheiden, ob ruhegehaltfähige Zeiten nach § 10 vorliegen und Zeiten auf Grund der §§ 11 und 12 als ruhegehaltfähig berücksichtigt werden können. Satz 2 gilt für die Versetzung eines Beamten von einem anderen Dienstherrn in den Dienst des Bundes entsprechend. Die Entscheidungen stehen unter dem Vorbehalt des Gleichbleibens der Sach- und Rechtslage, die diesen Entscheidungen zugrunde liegt.
+(2) Entscheidungen über die Bewilligung von Versorgungsbezügen auf Grund von Kannvorschriften dürfen erst beim Eintritt des Versorgungsfalles getroffen werden; vorherige Zusicherungen sind unwirksam. Über die Berücksichtigung von Zeiten nach den §§ 6a, 10 bis 12 und 13 Absatz 2 und 3 als ruhegehaltfähig ist auf Antrag des Beamten vorab zu entscheiden. Die Entscheidungen stehen unter dem Vorbehalt des Gleichbleibens der Sach- und Rechtslage, die diesen Entscheidungen zugrunde liegt.
 
 (3) Entscheidungen in versorgungsrechtlichen Angelegenheiten, die eine grundsätzliche, über den Einzelfall hinausgehende Bedeutung haben, sind von dem Bundesministerium des Innern, für Bau und Heimat zu treffen.
 
@@ -1543,19 +1539,13 @@ Der Kindererziehungsergänzungszuschlag wird nicht für Zeiten gewährt, für di
 
 b) sie wegen Erreichens einer besonderen Altersgrenze in den Ruhestand getreten sind,
 
-3. entsprechende Leistungen nach dem Sechsten Buch Sozialgesetzbuch dem Grunde nach zustehen, jedoch vor dem Erreichen der maßgebenden Altersgrenze noch nicht gewährt werden,
+3. entsprechende Leistungen nach dem Sechsten Buch Sozialgesetzbuch dem Grunde nach zustehen, jedoch vor dem Erreichen der maßgebenden Altersgrenze noch nicht gewährt werden und
 
-4. sie einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht haben,
-
-5. sie kein Erwerbs- oder Erwerbsersatzeinkommen nach § 53 Absatz 7 beziehen, das im Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt.
+4. sie einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht haben.
 
 Durch die Leistung nach Satz 1 darf der Betrag nicht überschritten werden, der sich bei Berechnung des Ruhegehalts mit einem Ruhegehaltssatz von 66,97 Prozent ergibt.
 
-(2) Die Leistung entfällt spätestens mit Ablauf des Monats, in dem der Versorgungsempfänger die Regelaltersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes erreicht. Sie endet vorher, wenn der Versorgungsempfänger
-
-1. eine Versichertenrente der gesetzlichen Rentenversicherung bezieht, mit Ablauf des Tages vor dem Beginn der Rente, oder
-
-2. ein Erwerbseinkommen (§ 53 Absatz 7 Satz 1 und 2) bezieht, das im Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt, mit Ablauf des Tages vor Beginn der Erwerbstätigkeit.
+(2) Die Leistung entfällt spätestens mit Ablauf des Monats, in dem der Versorgungsempfänger die Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreicht. Sie endet vorher, wenn der Versorgungsempfänger eine Versichertenrente der gesetzlichen Rentenversicherung bezieht, mit Ablauf des Tages vor dem Beginn der Rente.
 
 (3) Die Leistung wird auf Antrag gewährt. Anträge, die innerhalb von drei Monaten nach Eintritt des Beamten in den Ruhestand gestellt werden, gelten als zum Zeitpunkt des Ruhestandseintritts gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, so wird die Leistung vom Beginn des Antragsmonats an gewährt.
 
@@ -1599,7 +1589,7 @@ Die Verminderung darf den Betrag, der sich aus dem hälftigen Prozentsatz nach �
 
 2. (weggefallen)
 
-3. für Ruhestandsbeamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht, oder nach § 52 Abs. 1 und 2 des Bundesbeamtengesetzes in den Ruhestand getreten sind, bis zum Ablauf des Monats, in dem die Regelaltersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes erreicht wird, 71,75 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe von 71,75 Prozent des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 50 Abs. 1 sowie eines Betrages von monatlich 525 Euro.
+3. für Ruhestandsbeamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht, oder nach § 52 Abs. 1 und 2 des Bundesbeamtengesetzes in den Ruhestand getreten sind, bis zum Ablauf des Monats, in dem die Regelaltersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes erreicht wird, 71,75 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe von 71,75 Prozent des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 50 Abs. 1 sowie eines Betrages von monatlich 606,67 Euro.
 
 (3) (weggefallen)
 
@@ -1679,7 +1669,7 @@ Ist bei einem an der Ruhensregelung nach Satz 1 Nr. 1 oder 2 beteiligten Versorg
 
 2. Renten aus einer zusätzlichen Alters- oder Hinterbliebenenversorgung für Angehörige des öffentlichen Dienstes,
 
-3. Renten aus der gesetzlichen Unfallversicherung, wobei für den Ruhegehaltempfänger ein dem Unfallausgleich (§ 35) entsprechender Betrag unberücksichtigt bleibt; bei einer Minderung der Erwerbsfähigkeit um 20 Prozent bleiben zwei Drittel der Mindestgrundrente nach dem Bundesversorgungsgesetz, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente nach dem Bundesversorgungsgesetz unberücksichtigt,
+3. Renten aus der gesetzlichen Unfallversicherung, wobei für den Ruhegehaltempfänger ein dem Unfallausgleich (§ 35) entsprechender Betrag unberücksichtigt bleibt; bei einer Minderung der Erwerbsfähigkeit um 20 Prozent bleiben zwei Drittel der Mindestgrundrente nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung unberücksichtigt,
 
 4. Leistungen aus einer berufsständischen Versorgungseinrichtung oder aus einer befreienden Lebensversicherung, zu denen der Arbeitgeber auf Grund eines Beschäftigungsverhältnisses im öffentlichen Dienst mindestens die Hälfte der Beiträge oder Zuschüsse in dieser Höhe geleistet hat.
 
@@ -1849,7 +1839,7 @@ In den Fällen des Satzes 1 Nummer 1 Buchstabe a und b sowie Nummer 2 erhöht si
 
 1. die Verlegung des Wohnsitzes,
 
-2. den Bezug und jede Änderung von Einkünften nach den §§ 10, 14 Abs. 5, §§ 14a, 22 Abs. 1 Satz 2 und §§ 47, 47a sowie den §§ 53 bis 56 und 61 Abs. 2,
+2. den Bezug und jede Änderung von Einkünften nach den §§ 10, 14 Abs. 5, § 22 Absatz 1 Satz 2 und §§ 47, 47a sowie den §§ 53 bis 56 und 61 Abs. 2,
 
 3. die Witwe auch die Heirat (§ 61 Abs. 1 Satz 1 Nr. 2) sowie im Falle der Auflösung dieser Ehe den Erwerb und jede Änderung eines neuen Versorgungs-, Unterhalts- oder Rentenanspruchs (§ 61 Abs. 3 Satz 1 zweiter Halbsatz),
 
@@ -1935,13 +1925,7 @@ Werden Versorgungsberechtigte im öffentlichen Dienst (§ 53 Abs. 8) verwendet, 
 
 (2) Ruhegehaltfähig ist auch die Zeit, in der die Professoren, Hochschuldozenten, Oberassistenten, Oberingenieure, Wissenschaftlichen und Künstlerischen Assistenten nach der Habilitation dem Lehrkörper einer Hochschule angehört haben. Als ruhegehaltfähig gilt auch die zur Vorbereitung für die Promotion benötigte Zeit bis zu zwei Jahren. Die in einer Habilitationsordnung vorgeschriebene Mindestzeit für die Erbringung der Habilitationsleistungen oder sonstiger gleichwertiger wissenschaftlicher Leistungen kann als ruhegehaltfähige Dienstzeit berücksichtigt werden; soweit die Habilitationsordnung eine Mindestdauer nicht vorschreibt, sind bis zu drei Jahre berücksichtigungsfähig. Die nach erfolgreichem Abschluss eines Hochschulstudiums vor der Ernennung zum Professor, Hochschuldozenten, Oberassistenten, Oberingenieur, Wissenschaftlichen und Künstlerischen Assistenten liegende Zeit einer hauptberuflichen Tätigkeit, in der besondere Fachkenntnisse erworben wurden, die für die Wahrnehmung des Amtes förderlich sind, soll im Falle des § 44 Abs. 1 Nr. 4 Buchstabe c des Hochschulrahmengesetzes als ruhegehaltfähig berücksichtigt werden; im Übrigen kann sie bis zu fünf Jahren in vollem Umfang, darüber hinaus bis zur Hälfte als ruhegehaltfähig berücksichtigt werden. Zeiten nach Satz 4 können in der Regel insgesamt nicht über zehn Jahre hinaus als ruhegehaltfähig berücksichtigt werden. Zeiten mit einer geringeren als der regelmäßigen Arbeitszeit dürfen nur zu dem Teil als ruhegehaltfähig berücksichtigt werden, der dem Verhältnis der tatsächlichen zur regelmäßigen Arbeitszeit entspricht.
 
-(3) Bei der Einstellung eines in Absatz 1 genannten Beamten in den Dienst des Bundes ist auf Antrag zu entscheiden, ob
-
-1. ruhegehaltfähige Zeiten nach Absatz 2 Satz 1, 2 und 4 erster Halbsatz sowie nach § 10 vorliegen und
-
-2. Zeiten auf Grund des Absatzes 2 Satz 3 und 4 zweiter Halbsatz sowie der §§ 11 und 12 als ruhegehaltfähig berücksichtigt werden können.
-
-Satz 1 gilt für die Versetzung von einem anderen Dienstherrn in den Dienst des Bundes entsprechend. Diese Entscheidungen stehen unter dem Vorbehalt eines Gleichbleibens der Rechtslage, die ihnen zugrunde liegt.
+(3) Über die Berücksichtigung von Zeiten nach Absatz 2 Satz 1 bis 4 sowie nach den §§ 6a, 10 bis 12 und 13 Absatz 2 und 3 als ruhegehaltfähig ist auf Antrag eines in Absatz 1 genannten Beamten vorab zu entscheiden. Diese Entscheidungen stehen unter dem Vorbehalt des Gleichbleibens der Sach- und Rechtslage, die ihnen zugrunde liegt.
 
 (4) Für Hochschuldozenten, Oberassistenten, Oberingenieure, Wissenschaftliche und Künstlerische Assistenten beträgt das Übergangsgeld abweichend von § 47 Abs. 1 Satz 1 für ein Jahr Dienstzeit das Einfache, insgesamt höchstens das Sechsfache der Dienstbezüge (§ 1 Abs. 2 Nr. 1 bis 4 des Bundesbesoldungsgesetzes) des letzten Monats.
 
@@ -2197,7 +2181,7 @@ Die Zeit einer vor dem 1. Juli 2020 bereits beendeten Verwendung im Dienst einer
 
 (2) Für am 30. Juni 2020 vorhandene Versorgungsempfänger gilt vorbehaltlich von Satz 2 die bisherige Rechtslage weiter, insbesondere sind § 6 Absatz 3 Nummer 4, § 7 Satz 1 Nummer 1 Buchstabe b, § 55 Absatz 1 Satz 8 und 9, die §§ 56, 69c Absatz 5 sowie § 85 Absatz 6 Satz 2 bis 4 in der bis zum 30. Juni 2020 geltenden Fassung weiter anzuwenden; dabei bleiben § 69 Absatz 1 Nummer 2 Satz 2, Nummer 4 Satz 1, Nummer 6 Satz 1, Absatz 4 Satz 2, § 69a Nummer 3 Satz 2, Nummer 5 Satz 3 und § 69e Absatz 1 Nummer 3 Satz 1 unberührt. Versorgungsempfänger nach Satz 1, deren Ruhensbetrag mittels Höchstgrenzenberechnung nach § 56 Absatz 1 Satz 1 in Verbindung mit Absatz 2 in einer zwischen dem 1. Oktober 1994 und dem 30. Juni 2020 anzuwendenden Fassung bestimmt wird, können einmalig für die Zukunft beantragen, dass ihr Ruhegehalt in Höhe von 1,79375 Prozent der ruhegehaltfähigen Dienstbezüge für jedes Jahr einer Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung ruht; der Unterschiedsbetrag nach § 50 Absatz 1 ruht für jedes Jahr einer Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung in Höhe von 2,5 Prozent. Bei der Anwendung von Satz 2 ist § 69c Absatz 5 Satz 1 bis 4 in der bis zum 30. Juni 2020 geltenden Fassung vorrangig zu berücksichtigen. Dienstzeiten, die über volle Jahre hinausgehen, sind einzubeziehen; § 14 Absatz 1 Satz 2 und 3 gilt entsprechend. Zeiten ab Beginn des Ruhestandes sind nicht zu berücksichtigen, es sei denn, sie führen zu einer Erhöhung des Ruhegehaltssatzes. Die zuständige Behörde erteilt auf schriftlichen oder elektronischen Antrag Auskunft zur Höhe des Ruhensbetrages nach Satz 2 zu dem nach Satz 7 oder 8 maßgeblichen Zeitpunkt. Anträge, die bis zum 31. Juli 2021 gestellt werden, gelten als zum 1. Juli 2020 gestellt. Wird der Antrag später gestellt, tritt die Änderung mit Beginn des Antragsmonats ein. Vor dem Änderungszeitpunkt entstandene Ruhensbeträge bleiben unberührt. Die Sätze 1 bis 9 gelten entsprechend für künftige Hinterbliebene eines vor dem 1. Juli 2020 vorhandenen Ruhestandsbeamten.
 
-(2a) Versorgungsempfänger nach Absatz 2 Satz 1, bei denen sich der Ruhensbetrag nach § 56 in einer bis zum 30. September 1994 geltenden Fassung bestimmt, können einmalig für die Zukunft beantragen, dass bei der Ermittlung des Ruhensbetrages Zeiten ab Beginn des Ruhestandes nicht zu berücksichtigen sind. Dies gilt nicht, wenn die Zeiten nach Beginn des Ruhestandes zu einer Erhöhung des Ruhegehaltssatzes führen. Absatz 2 Satz 4 und 6 bis 9 gilt entsprechend.
+(2a) Versorgungsempfänger nach Absatz 2 Satz 1, deren Ruhensbetrag nach § 56 in einer bis zum 30. September 1994 geltenden Fassung oder auf Grund der verwendungszeitbezogenen Mindestbestimmung nach § 56 Absatz 1 Satz 1 erster Teilsatz in einer zwischen dem 1. Oktober 1994 und dem 30. Juni 2020 anzuwendenden Fassung bestimmt wird, können einmalig für die Zukunft beantragen, dass bei der Ermittlung des Ruhensbetrages Zeiten ab Beginn des Ruhestandes nicht zu berücksichtigen sind. Dies gilt nicht, wenn die Zeiten nach Beginn des Ruhestandes zu einer Erhöhung des Ruhegehaltssatzes führen. Absatz 2 Satz 4 und 6 bis 9 gilt entsprechend. Die Sätze 1 bis 3 gelten entsprechend für Hinterbliebene eines Ruhestandsbeamten nach Absatz 2 Satz 1.
 
 (3) Für am 31. August 2020 vorhandene Ruhestandsbeamte, bei denen eine ruhegehaltfähige Zeit nach § 85 Absatz 7 in der bis zum 31. August 2020 geltenden Fassung berücksichtigt worden ist, ist § 50a auf schriftlichen oder elektronischen Antrag anzuwenden. Dem Antrag ist stattzugeben, wenn am 1. September 2020 das Ruhegehalt ohne Zeiten nach § 85 Absatz 7 Satz 1 in der bis zum 31. August 2020 geltenden Fassung zusammen mit dem Kindererziehungszuschlag nach § 50a Absatz 1 in Verbindung mit Absatz 2 Satz 1 Nummer 1 sowie Absatz 5 und 6 dieses Gesetzes das Ruhegehalt übersteigt, das sich unter Berücksichtigung des § 85 Absatz 7 in der bis zum 31. August 2020 geltenden Fassung ergibt. Anträge, die innerhalb von drei Monaten ab dem 1. September 2020 gestellt werden, gelten als zum 1. September 2020 gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, tritt die Änderung mit Beginn des Antragsmonats ein. Wurde dem Antrag stattgegeben, ist § 85 Absatz 7 in der bis zum 31. August 2020 geltenden Fassung ab dem Zeitpunkt der Gewährung eines Kindererziehungszuschlags nach § 50a nicht mehr anzuwenden. Die Sätze 1 bis 5 gelten entsprechend für vor dem 1. September 2020 vorhandene Hinterbliebene.
 
@@ -2321,7 +2305,7 @@ Für am 1. Januar 1977 vorhandene Beamte können zum Ausgleich von Härten Zeite
 
 (7) (weggefallen)
 
-(8) Auf die am 31. Dezember 1991 vorhandenen Beamten, denen auf Grund eines bis zu diesem Zeitpunkt erlittenen Dienstunfalles ein Unfallausgleich gewährt wird, findet § 35 in der bis zum 31. Dezember 1991 geltenden Fassung Anwendung.
+(8) Auf die am 31. Dezember 1991 vorhandenen Beamten, denen auf Grund eines bis zu diesem Zeitpunkt erlittenen Dienstunfalles ein Unfallausgleich gewährt wird, findet § 35 in der bis zum 31. Dezember 1991 geltenden Fassung Anwendung. Satz 1 gilt mit der Maßgabe, dass sich die Höhe des Unfallausgleichs nach § 35 Absatz 1 Satz 2 dieses Gesetzes bestimmt.
 
 (9) Bei der Anwendung der Absätze 1 und 3 bleibt der am 31. Dezember 1991 erreichte Ruhegehaltssatz auch dann gewahrt, wenn dem Beamtenverhältnis, aus dem der Beamte in den Ruhestand tritt, mehrere öffentlich-rechtliche Dienstverhältnisse in unmittelbarem zeitlichen Zusammenhang mit dem am 31. Dezember 1991 bestehenden öffentlich-rechtlichen Dienstverhältnis vorangegangen sind.
 
@@ -2458,6 +2442,10 @@ beträgt die Höchstgrenze nach § 53 Absatz 2 Nummer 1 erste Alternative bis zu
 2. die Übergangszeit nach § 61 Absatz 2 Satz 1 Nummer 1 Buchstabe b überschritten wird.
 
 (3) Eine in der Zeit vom 1. März 2020 bis 31. März 2022 gewährte Leistung, die nach § 3 Nummer 11a des Einkommensteuergesetzes steuerfrei ist, gilt bis zu einem Betrag von 1 500 Euro nicht als Erwerbseinkommen.
+
+(4) Eine in der Zeit vom 18. November 2021 bis zum 31. Dezember 2022 gewährte Leistung, die nach § 3 Nummer 11b des Einkommensteuergesetzes steuerfrei ist, gilt bis zu einem Betrag von 4 500 Euro nicht als Erwerbseinkommen.
+
+(5) Eine in der Zeit vom 26. Oktober 2022 bis zum 31. Dezember 2024 in Form von Zuschüssen und Sachbezügen gewährte Leistung, die nach § 3 Nummer 11c des Einkommensteuergesetzes steuerfrei ist, gilt bis zu einem Betrag von 3 000 Euro nicht als Erwerbseinkommen.
 
 # § 108 – Anwendungsbereich in den Ländern
 

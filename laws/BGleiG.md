@@ -541,9 +541,9 @@ Für den Bundesnachrichtendienst gilt dieses Gesetz mit folgenden Abweichungen:
 
 3. § 14 gilt nicht; die Beschäftigten des Bundesnachrichtendienstes sind berechtigt, den Gleichstellungsplan bei den von der Personalverwaltung bezeichneten Stellen einzusehen,
 
-4. beim Bundesnachrichtendienst beschäftigte Soldatinnen sind gemäß § 19 Absatz 4 Satz 2 aktiv wahlberechtigt,
+4. beim Bundesnachrichtendienst beschäftigte Soldatinnen sind gemäß § 19 Absatz 4 Satz 2 wahlberechtigt und wählbar,
 
-5. beim Bundesnachrichtendienst tätige Soldatinnen und Soldaten gelten hinsichtlich der Zuständigkeit der dort bestellten Gleichstellungsbeauftragten als Beschäftigte des Bundesnachrichtendienstes, soweit dessen Leitung oder das Bundeskanzleramt für die Entscheidung in personellen, sozialen oder organisatorischen Angelegenheiten dieses Personenkreises zuständig ist,
+5. beim Bundesnachrichtendienst tätiges militärisches Personal gilt hinsichtlich der Zuständigkeit der dort bestellten Gleichstellungsbeauftragten als beim Bundesnachrichtendienst beschäftigt, soweit dessen Leitung oder das Bundeskanzleramt für die Entscheidung in personellen, sozialen oder organisatorischen Angelegenheiten dieses Personenkreises zuständig ist,
 
 6. beim Informations- und Erfahrungsaustausch der Gleichstellungsbeauftragten gemäß § 25 Absatz 5 sind die für den Bundesnachrichtendienst geltenden Sicherheitsbestimmungen zu beachten,
 
