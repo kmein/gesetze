@@ -1356,7 +1356,7 @@ Sobald die Voraussetzungen für eine Anhebung nach Satz 1 nicht mehr erfüllt si
 
 (7) Abweichend von Absatz 5 Nr. 1 sind von Berufssoldaten und Soldaten auf Zeit, die nach der Eignungsübung in das Dienstverhältnis eines Berufssoldaten oder Soldaten auf Zeit berufen worden sind, auch die während der Eignungsübung entstandenen Aufwendungen beihilfefähig.
 
-(8) In einer Rechtsverordnung kann vorgesehen werden, Soldaten mit Familienpflichten im Sinne des § 4 Absatz 1 des Soldatinnen- und Soldatengleichstellungsgesetzes diejenigen Kosten für eine Familien- und Haushaltshilfe zu erstatten, die durch besondere Verwendungen im Ausland gemäß § 56 Absatz 1 des Bundesbesoldungsgesetzes, durch die einsatzvorbereitende Ausbildung dazu, durch einsatzgleiche Verpflichtungen oder durch Dauereinsatzaufgaben entstehen. Als Voraussetzung für die Erstattung ist festzulegen, dass
+(8) In einer Rechtsverordnung kann vorgesehen werden, Soldaten mit Familien- oder Pflegeaufgaben im Sinne des § 3 Absatz 6 und 7 des Soldatinnen- und Soldatengleichstellungsgesetzes diejenigen Kosten für eine Familien- und Haushaltshilfe zu erstatten, die durch besondere Verwendungen im Ausland gemäß § 56 Absatz 1 des Bundesbesoldungsgesetzes, durch die einsatzvorbereitende Ausbildung dazu, durch einsatzgleiche Verpflichtungen oder durch Dauereinsatzaufgaben entstehen. Als Voraussetzung für die Erstattung ist festzulegen, dass
 
 1. der Soldat dem nächsthöheren Disziplinarvorgesetzten eine Betreuungs- oder Pflegesituation unverzüglich anzeigt,
 

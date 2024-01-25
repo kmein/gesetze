@@ -743,13 +743,11 @@ Zeiten nach § 30 des Bundesbesoldungsgesetzes sind nicht ruhegehaltfähig.
 
 2. a) wegen Dienstunfähigkeit im Sinne des § 44 Absatz 3 des Soldatengesetzes in den Ruhestand versetzt worden ist oder
 
-b) wegen Erreichens einer Altersgrenze in den Ruhestand getreten ist,
+b) wegen Erreichens einer Altersgrenze in den Ruhestand getreten ist und
 
-3. einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht hat und
+3. einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht hat.
 
-4. kein Erwerbs- oder Erwerbsersatzeinkommen nach § 53 Absatz 5 bezieht, das im Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt.
-
-Bei Offizieren, die in strahlgetriebenen Kampfflugzeugen als Flugzeugführer oder Waffensystemoffizier verwendet wurden und als solche in den Ruhestand versetzt werden, gilt Satz 1 mit der Maßgabe, dass sich der Ruhegehaltssatz frühestens von dem Zeitpunkt an erhöht, zu dem sie als Offiziere des Truppendienstes wegen Dienstunfähigkeit in den Ruhestand versetzt worden wären oder wegen Erreichens der ihrem Dienstgrad entsprechenden besonderen Altersgrenze in den Ruhestand hätten versetzt werden können. Bei Soldaten im Ruhestand, die wegen Erreichens der für sie festgesetzten besonderen Altersgrenze in den Ruhestand versetzt worden sind, wird bei Anwendung von Satz 1 Nummer 4 bis zum Ende des Monats, in dem sie die für Polizeivollzugsbeamte auf Lebenszeit geltende Altersgrenze nach § 5 des Bundespolizeibeamtengesetzes erreichen, lediglich Verwendungseinkommen im Sinne von § 53 Absatz 6 berücksichtigt.
+Bei Offizieren, die in strahlgetriebenen Kampfflugzeugen als Flugzeugführer oder Waffensystemoffizier verwendet wurden und als solche in den Ruhestand versetzt werden, gilt Satz 1 mit der Maßgabe, dass sich der Ruhegehaltssatz frühestens von dem Zeitpunkt an erhöht, zu dem sie als Offiziere des Truppendienstes wegen Dienstunfähigkeit in den Ruhestand versetzt worden wären oder wegen Erreichens der ihrem Dienstgrad entsprechenden besonderen Altersgrenze in den Ruhestand hätten versetzt werden können.
 
 (2) Die Erhöhung des Ruhegehaltssatzes beträgt 0,95667 Prozent für je zwölf Kalendermonate der für die Erfüllung der Wartezeit (Absatz 1 Satz 1 Nummer 1) anrechnungsfähigen Pflichtbeitragszeiten, soweit sie vor Begründung des Soldatenverhältnisses zurückgelegt worden sind; unberücksichtigt bleiben
 
@@ -763,9 +761,7 @@ Die Erhöhung ist kaufmännisch auf zwei Dezimalstellen zu runden; der erhöhte 
 
 1. aus den anrechnungsfähigen Pflichtbeitragszeiten eine Versichertenrente einer inländischen oder ausländischen Alterssicherungseinrichtung bezieht, mit Ablauf des Tages vor dem Beginn der Rente, oder
 
-2. in den Fällen des Absatzes 1 Nummer 2 Buchstabe a nicht mehr dienstunfähig ist, mit Ablauf des Monats, in dem ihm der Wegfall der Erhöhung mitgeteilt wird, oder
-
-3. ein Erwerbseinkommen (§ 53 Absatz 5 Satz 1 und 2) oder im Falle von Absatz 1 Satz 3 ein Verwendungseinkommen bezieht, das im Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt, mit Ablauf des Tages vor dem Beginn der Erwerbstätigkeit.
+2. in den Fällen des Absatzes 1 Nummer 2 Buchstabe a nicht mehr dienstunfähig ist, mit Ablauf des Monats, in dem ihm der Wegfall der Erhöhung mitgeteilt wird.
 
 § 35 Absatz 3 Satz 2 des Beamtenversorgungsgesetzes gilt sinngemäß.
 
@@ -909,7 +905,7 @@ entlassen worden ist, erhält ein Übergangsgeld. Das Übergangsgeld wird auch d
 
 (3) Der Ausgleich wird im Falle der Bewilligung von Urlaub bis zum Eintritt in den Ruhestand nach § 28a des Soldatengesetzes nicht gewährt.
 
-(4) Der Ausgleich nach Absatz 1 erhöht sich um 528 Euro für jedes Jahr, um das die Zurruhesetzung vor dem Ende des Monats liegt, in dem die Regelaltersgrenze für Polizeivollzugsbeamte nach § 5 des Bundespolizeibeamtengesetzes vollendet wird; für restliche Kalendermonate wird jeweils ein Zwölftel dieses Betrages gewährt. Für Offiziere im Sinne des § 26 Absatz 4 gilt Satz 1 mit der Maßgabe, dass sie für die Berechnung des Erhöhungsbetrages so zu behandeln sind, als wären sie zum frühestmöglichen Zeitpunkt wegen Erreichens der für ihren Dienstgrad jeweils geltenden Altersgrenze in den Ruhestand versetzt worden. Der Anspruch auf die Erhöhung nach Satz 1 entfällt für die Monate, in denen Einkünfte im Sinne des § 53 Absatz 6 in Höhe von mehr als 525 Euro erzielt werden; die Zahlungen stehen insoweit unter dem Vorbehalt der Rückforderung. Die Absätze 2 und 3 gelten entsprechend.
+(4) Der Ausgleich nach Absatz 1 erhöht sich um 528 Euro für jedes Jahr, um das die Zurruhesetzung vor dem Ende des Monats liegt, in dem die Regelaltersgrenze für Polizeivollzugsbeamte nach § 5 des Bundespolizeibeamtengesetzes vollendet wird; für restliche Kalendermonate wird jeweils ein Zwölftel dieses Betrages gewährt. Für Offiziere im Sinne des § 26 Absatz 4 gilt Satz 1 mit der Maßgabe, dass sie für die Berechnung des Erhöhungsbetrages so zu behandeln sind, als wären sie zum frühestmöglichen Zeitpunkt wegen Erreichens der für ihren Dienstgrad jeweils geltenden Altersgrenze in den Ruhestand versetzt worden. Der Anspruch auf die Erhöhung nach Satz 1 entfällt für die Monate, in denen Einkünfte im Sinne des § 53 Absatz 6 in Höhe von mehr als 606,67 Euro erzielt werden; die Zahlungen stehen insoweit unter dem Vorbehalt der Rückforderung. Die Absätze 2 und 3 gelten entsprechend.
 
 # § 39 – Berufsförderung der Berufssoldaten
 
@@ -1011,7 +1007,7 @@ Satz 1 Nummer 3 gilt auch bei Weiterzahlung an die Hinterbliebenen (§ 11 Absatz
 
 (1) Das Bundesministerium der Verteidigung entscheidet über die Bewilligung von Versorgungsbezügen auf Grund von Kannvorschriften sowie über die Berücksichtigung von Zeiten als ruhegehaltfähige Dienstzeit, setzt die Versorgungsbezüge fest und bestimmt die Person des Zahlungsempfängers. Es entscheidet ferner über die Bewilligung einer Kapitalabfindung und einer Umzugskostenvergütung. Das Bundesministerium der Verteidigung kann diese Aufgaben sowie seine Befugnisse nach Absatz 5, § 31 Satz 2 und 4, § 32 Absatz 1 Nummer 1, § 33 Absatz 4, § 34 Absatz 2 Satz 2 sowie § 60 Absatz 3 im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat auf andere Behörden seines Geschäftsbereichs oder nach Maßgabe des § 87 Absatz 1 Satz 2 auf Behörden im Geschäftsbereich eines anderen Bundesministeriums übertragen. Im Fall der Übertragung auf Behörden im Geschäftsbereich eines anderen Bundesministeriums bedarf die Übertragung des Einvernehmens des anderen Bundesministeriums.
 
-(2) Entscheidungen über die Bewilligung von Versorgungsbezügen auf Grund von Kannvorschriften dürfen erst beim Eintritt des Versorgungsfalles getroffen werden; vorherige Zusicherungen sind unwirksam. Bei der Berufung in das Dienstverhältnis eines Berufssoldaten ist auf Antrag zu entscheiden, ob Zeiten nach den §§ 22 bis 24 und 66 als ruhegehaltfähig berücksichtigt werden. Diese Entscheidungen stehen unter dem Vorbehalt eines Gleichbleibens der Rechtslage, die ihnen zugrunde liegt.
+(2) Entscheidungen über die Bewilligung von Versorgungsbezügen auf Grund von Kannvorschriften dürfen erst beim Eintritt des Versorgungsfalles getroffen werden; vorherige Zusicherungen sind unwirksam. Über die Berücksichtigung von Zeiten nach den §§ 20a, 22 bis 24, 25 Absatz 2 und nach § 66 als ruhegehaltfähig ist vor Beginn des Ruhestandes nur auf Antrag des Soldaten vorab zu entscheiden. Die Entscheidungen stehen unter dem Vorbehalt des Gleichbleibens der Sach- und Rechtslage, die diesen Entscheidungen zugrunde liegt.
 
 (3) Entscheidungen in versorgungsrechtlichen Angelegenheiten, die eine grundsätzliche, über den Einzelfall hinausgehende Bedeutung haben, sind vom Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat zu treffen.
 
@@ -1073,7 +1069,7 @@ Ein Aufrechnungs- oder Zurückbehaltungsrecht gegenüber Ansprüchen auf Versorg
 
 2. (weggefallen)
 
-3. für Soldaten im Ruhestand, die wegen Dienstunfähigkeit, die nicht auf einer Wehrdienstbeschädigung beruht, in den Ruhestand versetzt worden sind, bis zum Ablauf des Monats, in dem die für Bundesbeamte geltende Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreicht wird, 71,75 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe von 71,75 Prozent des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 47 Absatz 1 sowie eines Betrages von monatlich 525 Euro.
+3. für Soldaten im Ruhestand, die wegen Dienstunfähigkeit, die nicht auf einer Wehrdienstbeschädigung beruht, in den Ruhestand versetzt worden sind, bis zum Ablauf des Monats, in dem die für Bundesbeamte geltende Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreicht wird, 71,75 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe von 71,75 Prozent des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 47 Absatz 1 sowie eines Betrages von monatlich 606,67 Euro.
 
 (3) (weggefallen)
 
@@ -1163,7 +1159,7 @@ Ist bei einem an der Ruhensregelung nach Satz 1 Nummer 1 oder 2 beteiligten Vers
 
 2. Renten aus einer zusätzlichen Alters- oder Hinterbliebenenversorgung für Angehörige des öffentlichen Dienstes,
 
-3. Renten aus der gesetzlichen Unfallversicherung, wobei für den Ruhegehaltsempfänger ein der Grundrente nach § 31 in Verbindung mit § 84a Satz 1 und 2 des Bundesversorgungsgesetzes entsprechender Betrag unberücksichtigt bleibt; bei einer Minderung der Erwerbsfähigkeit um 20 Prozent bleiben zwei Drittel, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente unberücksichtigt,
+3. Renten aus der gesetzlichen Unfallversicherung, wobei für den Ruhegehaltsempfänger ein der Grundrente nach § 31 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung entsprechender Betrag unberücksichtigt bleibt; bei einer Minderung der Erwerbsfähigkeit um 20 Prozent bleiben zwei Drittel, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente unberücksichtigt,
 
 4. Leistungen aus einer berufsständischen Versorgungseinrichtung oder aus einer befreienden Lebensversicherung, zu denen der Arbeitgeber auf Grund eines Beschäftigungsverhältnisses im öffentlichen Dienst mindestens die Hälfte der Beiträge oder Zuschüsse in dieser Höhe geleistet hat.
 
@@ -1346,7 +1342,7 @@ In den Fällen des Satzes 1 Nummer 1 Buchstabe a und b und Nummer 2 erhöht sich
 
 1. die Verlegung des Wohnsitzes,
 
-2. den Bezug von Versorgungskrankengeld (§ 11 Absatz 7) und den Bezug und jede Änderung von Einkünften nach § 11 Absatz 3 Satz 4, § 11a Absatz 1 Satz 2, den §§ 22 und 26 Absatz 8, den §§ 26a, 37, 43, 53 bis 55b und 59 Absatz 2,
+2. den Bezug von Versorgungskrankengeld (§ 11 Absatz 7) und den Bezug und jede Änderung von Einkünften nach § 11 Absatz 3 Satz 4, § 11a Absatz 1 Satz 2, den §§ 22 und 26 Absatz 8, den §§ 37, 43, 53 bis 55b und 59 Absatz 2,
 
 3. die Begründung eines neuen öffentlich-rechtlichen Dienstverhältnisses oder eines privatrechtlichen Arbeitsverhältnisses im öffentlichen Dienst in den Fällen des § 37 Absatz 6,
 
@@ -1716,19 +1712,13 @@ Der Kindererziehungsergänzungszuschlag wird nicht für Zeiten gewährt, für di
 
 b) sie wegen Erreichen einer Altersgrenze in den Ruhestand getreten sind,
 
-3. entsprechende Leistungen nach dem Sechsten Buch Sozialgesetzbuch dem Grunde nach zustehen, jedoch vor dem Erreichen der maßgebenden Altersgrenze noch nicht gewährt werden,
+3. entsprechende Leistungen nach dem Sechsten Buch Sozialgesetzbuch dem Grunde nach zustehen, jedoch vor dem Erreichen der maßgebenden Altersgrenze noch nicht gewährt werden und
 
-4. sie einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht haben,
-
-5. sie kein Erwerbs- oder Erwerbsersatzeinkommen nach § 53 Absatz 5 beziehen, das im Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt.
+4. sie einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht haben.
 
 Durch die Leistung nach Satz 1 darf der Betrag nicht überschritten werden, der sich bei Berechnung des Ruhegehaltes mit einem Ruhegehaltssatz von 66,97 Prozent ergibt. Bei Soldaten, die wegen Erreichens der für sie festgesetzten besonderen Altersgrenze in den Ruhestand versetzt worden sind, wird bei Anwendung von Satz 1 Nummer 5 bis zum Ende des Monats, in dem sie die Altersgrenze für Polizeivollzugsbeamte auf Lebenszeit (§ 5 des Bundespolizeibeamtengesetzes) erreichen, lediglich Verwendungseinkommen im Sinne von § 53 Absatz 6 berücksichtigt.
 
-(2) Die Leistung entfällt spätestens mit Ablauf des Monats, in dem der Versorgungsempfänger die für Bundesbeamte geltende Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreicht. Sie endet vorher, wenn der Versorgungsempfänger
-
-1. eine Versichertenrente der gesetzlichen Rentenversicherung bezieht, mit Ablauf des Tages vor dem Beginn der Rente, oder
-
-2. ein Erwerbseinkommen (§ 53 Absatz 5 Satz 1 und 2) oder im Fall von Absatz 1 Satz 3 ein Verwendungseinkommen bezieht, das im Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt, mit Ablauf des Tages vor Beginn der Erwerbstätigkeit.
+(2) Die Leistung entfällt spätestens mit Ablauf des Monats, in dem der Versorgungsempfänger die für Bundesbeamte geltende Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreicht. Sie endet vorher, wenn der Versorgungsempfänger eine Versichertenrente der gesetzlichen Rentenversicherung bezieht, mit Ablauf des Tages vor dem Beginn der Rente.
 
 (3) Die Leistung wird auf Antrag gewährt. Anträge, die innerhalb von drei Monaten nach Eintritt des Berufssoldaten in den Ruhestand gestellt werden, gelten als zum Zeitpunkt des Ruhestandseintritts gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, so wird die Leistung vom Beginn des Antragsmonats an gewährt.
 
@@ -2442,6 +2432,10 @@ Für Versorgungsfälle, die vor dem 11. Januar 2017 eingetreten sind, sind § 20
 
 (5) Eine in der Zeit vom 1. März 2020 bis 31. März 2022 gewährte Leistung, die nach § 3 Nummer 11a des Einkommensteuergesetzes steuerfrei ist, gilt bis zu einem Betrag von 1 500 Euro nicht als Erwerbseinkommen.
 
+(6) Eine in der Zeit vom 18. November 2021 bis zum 31. Dezember 2022 gewährte Leistung, die nach § 3 Nummer 11b des Einkommensteuergesetzes steuerfrei ist, gilt bis zu einem Betrag von 4 500 Euro nicht als Erwerbseinkommen.
+
+(7) Eine in der Zeit vom 26. Oktober 2022 bis zum 31. Dezember 2024 in Form von Zuschüssen und Sachbezügen gewährte Leistung, die nach § 3 Nummer 11c des Einkommensteuergesetzes steuerfrei ist, gilt bis zu einem Betrag von 3 000 Euro nicht als Erwerbseinkommen.
+
 # § 107 – Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes
 
 (1) § 20a findet auf am 30. Juni 2020 vorhandene Soldaten Anwendung, wenn eine Verwendung im Sinne des § 20a Absatz 1 vor dem 1. Juli 2020
@@ -2460,7 +2454,7 @@ Die Zeit einer vor dem 1. Juli 2020 bereits beendeten Verwendung im Dienst einer
 
 (2) Für am 30. Juni 2020 vorhandene Versorgungsempfänger sind vorbehaltlich von Satz 2 § 20 Absatz 3 Satz 1 Nummer 3, § 21 Satz 1 Nummer 1 Buchstabe b, § 55a Absatz 1 Satz 8 und 9, die §§ 55b, 94b Absatz 5 Satz 2 bis 4 sowie § 96 Absatz 5 in der bis zum 30. Juni 2020 geltenden Fassung weiter anzuwenden; dabei bleiben § 94 Absatz 1 Nummer 2 und 5, Absatz 4 Satz 2, § 94a Nummer 3 Satz 2, Nummer 5 Satz 2 zweiter Halbsatz sowie § 97 Absatz 1 Nummer 3 Satz 1 unberührt. Versorgungsempfänger nach Satz 1, deren Ruhensbetrag mittels Höchstgrenzenberechnung nach § 55b Absatz 1 Satz 1 in Verbindung mit Absatz 2 in einer zwischen dem 1. Oktober 1994 und dem 30. Juni 2020 anzuwendenden Fassung ermittelt wird, können einmalig für die Zukunft beantragen, dass ihr Ruhegehalt in Höhe von 1,79375 Prozent der ruhegehaltfähigen Dienstbezüge für jedes Jahr einer Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung ruht; der Unterschiedsbetrag nach § 47 Absatz 1 ruht für jedes Jahr einer Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung in Höhe von 2,5 Prozent. Bei der Anwendung von Satz 2 ist § 96 Absatz 5 in der bis zum 30. Juni 2020 geltenden Fassung vorrangig zu berücksichtigen. Dienstzeiten, die über volle Jahre hinausgehen, sind einzubeziehen; § 26 Absatz 1 Satz 2 und 3 gilt entsprechend. Zeiten ab Beginn des Ruhestandes sind nicht zu berücksichtigen, es sei denn, sie führen zu einer Erhöhung des Ruhegehaltssatzes. Die zuständige Behörde erteilt auf schriftlichen oder elektronischen Antrag Auskunft zur Höhe des Ruhensbetrages nach Satz 2 zu dem nach Satz 7 oder 8 maßgeblichen Zeitpunkt. Anträge, die bis zum 31. Juli 2021 gestellt werden, gelten als zum 1. Juli 2020 gestellt. Wird der Antrag später gestellt, tritt die Änderung mit Beginn des Antragsmonats ein. Vor dem Änderungszeitpunkt entstandene Ruhensbeträge bleiben unberührt. Die Sätze 1 bis 9 gelten entsprechend für künftige Hinterbliebene eines vor dem 1. Juli 2020 vorhandenen Soldaten im Ruhestand.
 
-(2a) Versorgungsempfänger nach Absatz 2 Satz 1, bei denen sich der Ruhensbetrag nach § 55b in einer bis zum 30. September 1994 geltenden Fassung bestimmt, können einmalig für die Zukunft beantragen, dass bei der Ermittlung des Ruhensbetrages Zeiten ab Beginn des Ruhestandes nicht zu berücksichtigen sind. Dies gilt nicht, wenn die Zeiten nach Beginn des Ruhestandes zu einer Erhöhung des Ruhegehaltssatzes führen. Absatz 2 Satz 4 und 6 bis 9 gilt entsprechend.
+(2a) Versorgungsempfänger nach Absatz 2 Satz 1, deren Ruhensbetrag nach § 55b in einer bis zum 30. September 1994 geltenden Fassung oder auf Grund der verwendungszeitbezogenen Mindestbestimmung nach § 55b Absatz 1 Satz 1 erster Halbsatz in einer zwischen dem 1. Oktober 1994 und dem 30. Juni 2020 anzuwendenden Fassung bestimmt wird, können einmalig für die Zukunft beantragen, dass bei der Ermittlung des Ruhensbetrages Zeiten ab Beginn des Ruhestandes nicht zu berücksichtigen sind. Dies gilt nicht, wenn die Zeiten nach Beginn des Ruhestandes zu einer Erhöhung des Ruhegehaltssatzes führen. Absatz 2 Satz 4 und 6 bis 9 gilt entsprechend. Die Sätze 1 bis 3 gelten entsprechend für Hinterbliebene eines Soldaten im Ruhestand nach Absatz 2 Satz 1.
 
 (3) Für am 31. August 2020 vorhandenen Soldaten im Ruhestand, bei denen eine ruhegehaltfähige Zeit nach § 94b Absatz 6 in der bis zum 31. August 2020 geltenden Fassung berücksichtigt worden ist, ist § 70 auf schriftlichen oder elektronischen Antrag anzuwenden. Dem Antrag ist stattzugeben, wenn am 1. September 2020 das Ruhegehalt ohne Zeiten nach § 94b Absatz 6 Satz 1 in der bis zum 31. August 2020 geltenden Fassung zusammen mit dem Kindererziehungszuschlag nach § 70 Absatz 1 in Verbindung mit Absatz 2 Satz 1 Nummer 1 und Absatz 5 und 6 dieses Gesetzes das Ruhegehalt übersteigt, das sich unter Berücksichtigung des § 94b Absatz 6 Satz 1 in der bis zum 31. August 2020 geltenden Fassung ergibt. Anträge, die innerhalb von drei Monaten ab dem 1. September 2020 gestellt werden, gelten als zum 1. September 2020 gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, tritt die Änderung mit Beginn des Antragsmonats ein. Wurde dem Antrag stattgegeben, ist § 94b Absatz 6 in der bis zum 31. August 2020 geltenden Fassung ab dem Zeitpunkt der Gewährung eines Kindererziehungszuschlags nach § 70 nicht mehr anzuwenden. Die Sätze 1 bis 5 gelten entsprechend für vor dem 1. September 2020 vorhandene Hinterbliebene.
 
