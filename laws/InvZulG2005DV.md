@@ -17,12 +17,12 @@ Die Investitionszulage ist der Europäischen Kommission zur Genehmigung vorzuleg
 
 § 5 Abs. 2 Satz 5 des Gesetzes bleibt hiervon unberührt.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # § 2 – Inkrafttreten
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem die Europäische Kommission die hierzu erforderliche beihilferechtliche Genehmigung erteilt.
 
 (2) Der Tag des Inkrafttretens ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.

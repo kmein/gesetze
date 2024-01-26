@@ -5109,8 +5109,8 @@
 - [SGBXIVBSchAV](laws/SGBXIVBSchAV.md) Verordnung zur Durchführung des Berufsschadensausgleiches nach § 89 des Vierzehnten Buches Sozialgesetzbuch
 - [SGFFG](laws/SGFFG.md) Gesetz zur Förderung der Schienenwege der öffentlichen nicht bundeseigenen Eisenbahnen für den Schienengüterfernverkehr
 - [SGG](laws/SGG.md) Sozialgerichtsgesetz
-- [SGleibWV](laws/SGleibWV.md) Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterin durch Soldatinnen der Bundeswehr
-- [SGleiG](laws/SGleiG.md) Gesetz zur Gleichstellung von Soldatinnen und Soldaten der Bundeswehr
+- [SGleibWV](laws/SGleibWV.md) Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterinnen durch Soldatinnen der Bundeswehr
+- [SGleiG](laws/SGleiG.md) Soldatinnen- und Soldatengleichstellungsgesetz
 - [SGZDVertrAnO](laws/SGZDVertrAnO.md) Allgemeine Anordnung über die Vertretung der Bundesrepublik Deutschland vor den Gerichten der Sozialgerichtsbarkeit im Bereich des Zivildienstes
 - [SHKAMAusbV](laws/SHKAMAusbV.md) Verordnung über die Berufsausbildung zum Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik und zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik*
 - [SHStatG1985AussV](laws/SHStatG1985AussV.md) Verordnung zur Aussetzung statistischer Erhebungen im Bereich der Jugendhilfe im Jahre 1985 nach dem Gesetz über die Durchführung von Statistiken auf dem Gebiet der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe

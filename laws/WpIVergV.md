@@ -233,11 +233,15 @@ Die Instrumente nach Satz 1 sind mit einer angemessenen Sperrfrist von in der Re
 
 Die Rückzahlung bereits ausbezahlter variabler Vergütung ist für einen Zeitraum vorzusehen, der mit der Festsetzung der variablen Vergütung beginnt und ein Jahr nach Ablauf des Zurückbehaltungszeitraums für den zuletzt erdienten Vergütungsbestandteil der betreffenden variablen Vergütung endet.
 
+(+++ § 8 Abs. 3 bis 6: Zur Nichtanwednung vgl. § 10 Abs. 1 und 2 +++)
+
 # § 9 – Zusätzliche Leistungen zur Altersversorgung
 
 (1) Zusätzliche Leistungen zur Altersversorgung müssen im Einklang mit der Geschäftsstrategie, den Zielen, den Werten und den langfristigen Interessen des Wertpapierinstituts stehen.
 
-(2) Wenn ein Risikoträger das Wertpapierinstitut vor dem Renteneintrittsalter verlässt, müssen zusätzliche Leistungen zur Altersversorgung von dem Wertpapierinstitut für eine Zeit von fünf Jahren in Instrumenten nach § 8 Absatz 3 Satz 1 zurückbehalten werden. Erreicht der Risikoträger das Renteneintrittsalter, müssen zusätzliche Leistungen zur Altersversorgung von dem Wertpapierinstitut mit Instrumenten nach § 8 Absatz 3 Satz 1 geleistet und von dem Risikoträger mindestens fünf Jahre gehalten werden.
+(2) Wenn ein Risikoträger das Wertpapierinstitut vor dem Renteneintrittsalter verlässt, müssen zusätzliche Leistungen zur Altersversorgung von dem Wertpapierinstitut für eine Zeit von fünf Jahren in Instrumenten nach § 8 Absatz 3 Satz 1 zurückbehalten werden. Erreicht der Risikoträger das Renteneintrittsalter, müssen zusätzliche Leistungen zur Altersversorgung von dem Wertpapierinstitut mit Instrumenten nach § 8 Absatz 3 Satz 1 geleistet und von dem Risikoträger mindestens fünf Jahre gehalten werden.
+
+(+++ § 9 Abs. 2: Zur Nichtanwendung vgl. § 10 Abs. 1 und 2 +++)
 
 # § 10 – Ausnahmen in Bezug auf variable Vergütungen und zusätzliche Leistungen zur Altersversorgung
 
@@ -332,6 +336,8 @@ die mit dieser Verordnung nicht vereinbar sind, unverzüglich angepasst werden, 
 (4) Abweichend von Absatz 3 ist hinsichtlich Mitarbeitern oder Geschäftsleitern, die in einem nachgeordneten Unternehmen tätig sind, welches entweder eine Kapitalverwaltungsgesellschaft im Sinne des § 17 Absatz 1 Satz 1 des Kapitalanlagegesetzbuchs, eine EU-Verwaltungsgesellschaft im Sinne des § 1 Absatz 17 des Kapitalanlagegesetzbuchs oder eine ausländische AIF-Verwaltungsgesellschaft im Sinne des § 1 Absatz 18 des Kapitalanlagegesetzbuchs ist oder die im Anhang I Abschnitt A Nummer 2 bis 4, 6 und 7 der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S. 38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35; L 64 vom 10.3.2017, S. 116; L 278 vom 27.10.2017, S. 56), die zuletzt durch die Verordnung (EU) 2022/858 (ABl. L 151 vom 2.6.2022, S. 1) geändert worden ist, aufgeführten Wertpapierdienstleistungen und Anlagetätigkeiten ausführt, in der gruppenweiten Vergütungsstrategie die Einhaltung der Vorgaben nach Absatz 1 Satz 2 sowie Absatz 2 sicherzustellen, sofern sich deren berufliche Tätigkeit direkt und wesentlich auf das Risikoprofil mindestens eines Wertpapierinstituts der Wertpapierinstitutsgruppe oder der von diesem verwalteten Vermögenswerte auswirkt.
 
 (5) Sofern geboten, hat das übergeordnete Unternehmen auf die Einrichtung eines Vergütungskontrollausschusses in den nachgeordneten Unternehmen hinzuwirken, der die Vorgaben des § 44 Absatz 6 und 7 des Wertpapierinstitutsgesetzes sowie des § 17 erfüllt.
+
+(+++ § 18: Zur Anwendung vgl. § 1 Abs. 2 +++)
 
 # § 19 – Übergangsvorschrift
 
