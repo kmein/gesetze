@@ -2986,6 +2986,7 @@
 - [IRG](laws/IRG.md) Gesetz über die internationale Rechtshilfe in Strafsachen
 - [ISAusbV 1997](laws/ISAusbV_1997.md) Verordnung über die Berufsausbildung in der Isolier-Industrie
 - [IsolMstrV](laws/IsolMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Wärme-, Kälte- und Schallschutzisolierer-Handwerk
+- [IsraelAufenthÜV](laws/IsraelAufenthÜV.md) Verordnung zur vorübergehenden Befreiung vom Erfordernis eines Aufenthaltstitels von anlässlich des Krieges in Israel eingereisten israelischen Staatsangehörigen
 - [IStGHG](laws/IStGHG.md) Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof
 - [IT-FortbV](laws/IT-FortbV.md) Verordnung über die berufliche Fortbildung im Bereich der Informations- und Telekommunikationstechnik
 - [IT-NetzG](laws/IT-NetzG.md) Gesetz über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes –

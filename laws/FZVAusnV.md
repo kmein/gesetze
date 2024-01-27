@@ -23,7 +23,7 @@ Auf Grund des § 6 Absatz 1 Nummer 2 Buchstabe b und Nummer 8 in Verbindung mit 
 
 # § 2 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. März 2021 in Kraft. Sie tritt am 29. Februar 2024 außer Kraft.
+Diese Verordnung tritt am 1. März 2021 in Kraft. Sie tritt mit Ablauf des 31. August 2025 außer Kraft.
 
 # Anlage – Kennzeichenfolie auf Trägerplatte als Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge
 
