@@ -6282,6 +6282,7 @@
 - [WSF-ÜV](laws/WSF-ÜV.md) Verordnung zur Verwaltung des Wirtschaftsstabilisierungsfonds und zur Übertragung von Aufgaben auf die Kreditanstalt für Wiederaufbau nach § 20 des Stabilisierungsfondsgesetzes
 - [WSG](laws/WSG.md) Wehrsoldgesetz
 - [WSG2020§7Satz2Bek 2021](laws/WSG2020§7Satz2Bek_2021.md) Bekanntmachung zur Anpassung des Wehrsoldes nach § 7 Satz 2 des Wehrsoldgesetzes
+- [WSG2020§7Satz2Bek 2024](laws/WSG2020§7Satz2Bek_2024.md) Bekanntmachung zur Anpassung des Wehrsoldes nach § 7 Satz 2 des Wehrsoldgesetzes
 - [WStatG](laws/WStatG.md) Gesetz über die allgemeine und die repräsentative Wahlstatistik bei der Wahl zum Deutschen Bundestag und bei der Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland
 - [WStBG](laws/WStBG.md) Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Risikopositionen von Unternehmen des Finanzsektors durch den Fonds „Finanzmarktstabilisierungsfonds – FMS“ und der Realwirtschaft durch den Fonds „Wirtschaftsstabilisierungsfonds – WSF“
 - [WStG](laws/WStG.md) Wehrstrafgesetz
