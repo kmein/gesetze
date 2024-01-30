@@ -163,6 +163,10 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen nach Maßgabe des § 4a Absatz 2 Satz 1 des Zahlungsdiensteaufsichtsgesetzes und des § 28 Absatz 4 Satz 1 und 2 des Zahlungsdiensteaufsichtsgesetzes zu erlassen im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute.
 
+# § 1f
+
+Die Bundesanstalt für Finanzdienstleistungsaufsicht wird nach § 19 Absatz 5 des Zahlungskontengesetzes ermächtigt, eine Rechtsverordnung nach Maßgabe des § 19 Absatz 1 und 3 des Zahlungskontengesetzes im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium der Justiz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz zu erlassen.
+
 # § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

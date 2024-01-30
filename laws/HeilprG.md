@@ -19,6 +19,8 @@ Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet 
 
 (2) Wer durch besondere Leistungen seine Fähigkeit zur Ausübung der Heilkunde glaubhaft macht, wird auf Antrag des Reichsministers des Innern durch den Reichsminister für Wissenschaft, Erziehung und Volksbildung unter erleichterten Bedingungen zum Studium der Medizin zugelassen, sofern er seine Eignung für die Durchführung des Medizinstudiums nachweist.
 
+(+++ § 2 Abs. 2: Nach übereinstimmender Ansicht der Länderkommission zur Rechtsbereinigung gem. Art. 123ff. GG 100-1 kein Bundesrecht +++)
+
 # § 3
 
 Die Erlaubnis nach § 1 berechtigt nicht zur Ausübung der Heilkunde im Umherziehen.
@@ -26,6 +28,8 @@ Die Erlaubnis nach § 1 berechtigt nicht zur Ausübung der Heilkunde im Umherzie
 # § 4
 
 \-
+
+(+++ § 4: Widerspricht Art. 12 Abs. 1 GG 100-1 +++)
 
 # § 5
 
@@ -43,9 +47,13 @@ Wer, ohne zur Ausübung des ärztlichen Berufs berechtigt zu sein und ohne eine 
 
 (2) (gegenstandslos)
 
+(+++ § 6 Abs. 2: Ergänzungsermächtigung erloschen gem. Art. 129 Abs. 3 GG 100-1 +++)
+
 # § 7
 
 Der Reichsminister des Innern erläßt ... die zur Durchführung ... dieses Gesetzes erforderlichen Rechts- und Verwaltungsvorschriften.
+
+(+++ § 7: Auslassung in Zeile 1 durch d. staatsrechtliche Entwicklung überholt, Ergänzungsermächtigung erloschen gem. Art. 129 Abs. 1 GG 100-1 +++)
 
 # § 8
 
