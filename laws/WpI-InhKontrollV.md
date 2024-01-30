@@ -43,6 +43,8 @@ Anzeigepflichtige ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschä
 
 (5) Eine Anzeige gilt für die Zwecke des § 24 Absatz 4 Satz 1 des Wertpapierinstitutsgesetzes als vollständig eingegangen, wenn sie bei der Bundesanstalt vollständig eingegangen ist.
 
+(+++ § 5 Abs. 1: Zur Anwendung vgl. § 9 Abs. 1 +++)
+
 # § 6 – Erfüllung unionsrechtlicher Vorgaben
 
 (1) Zum Nachweis der Angaben nach Artikel 3 Absatz 1 Buchstabe a und Artikel 6 Buchstabe a der Delegierten Verordnung (EU) 2017/1946 haben anzeigepflichtige natürliche Personen und Personen, die die Geschäfte des Zielunternehmens nach dem Erwerb tatsächlich leiten werden, eine amtlich oder öffentlich beglaubigte Kopie eines gültigen Lichtbildausweises, mit dem die Pass- und Ausweispflicht im Inland erfüllt wird, einzureichen. Dies gilt entsprechend für die in Artikel 3 Absatz 2 Buchstabe d und e der Delegierten Verordnung (EU) 2017/1946 genannten Personen.
@@ -104,6 +106,8 @@ Alle Zeitangaben müssen monatsgenau erfolgen. Die Angaben müssen lückenlos, v
 (2) Der Anzeigepflichtige muss Unterlagen und Erklärungen nach Absatz 1 Satz 1 ohne zeitliche Einschränkung nicht erneut einreichen, sofern durch einen Erwerb lediglich eine bestehende indirekte bedeutende Beteiligung zu einer direkten bedeutenden Beteiligung würde oder wurde oder eine bestehende direkte bedeutende Beteiligung zu einer indirekten bedeutenden Beteiligung würde oder wurde, es sei denn, die in den Unterlagen und Erklärungen enthaltenen Angaben treffen nicht mehr zu. Treffen sämtliche in den Unterlagen und Erklärungen nach Absatz 1 Satz 1 enthaltenen Angaben noch zu, hat der Anzeigepflichtige dies in den Formularen nach § 5 Absatz 1 Satz 1 und 2 anzugeben.
 
 (3) Ist der Anzeigepflichtige bereits Inhaber einer bedeutenden Beteiligung, braucht er seine Identität oder Existenz nach Artikel 3 Absatz 1 Buchstabe a oder Absatz 2 Buchstabe a und b der Delegierten Verordnung (EU) 2017/1946 nicht erneut nachzuweisen. Die Bundesanstalt kann die in Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3 Satz 1 genannten Unterlagen und Erklärungen jedoch im Rahmen des § 25 Satz 2 bis 8 des Wertpapierinstitutsgesetzes anfordern.
+
+(+++ § 8 Abs. 1: Zur Anwendung vgl. § 9 Abs. 3 +++)
 
 # § 9 – Anzeige der Aufgabe oder Verringerung einer bedeutenden Beteiligung
 
