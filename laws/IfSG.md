@@ -1431,21 +1431,7 @@ Die Kassenärztlichen Vereinigungen und die zur Durchführung von Schutzimpfunge
 
 Das Robert Koch-Institut bestimmt die technischen Übermittlungsstandards für die im Rahmen der Impfsurveillance und der Pharmakovigilanz zu übermittelnden Daten sowie das Verfahren zur Bildung des Patienten-Pseudonyms nach Satz 1 Nummer 1. Eine Wiederherstellung des Personenbezugs der übermittelten pseudonymisierten Daten ist für das Robert Koch-Institut und das Paul-Ehrlich-Institut auszuschließen.
 
-(6) Für Zwecke der Feststellung einer überdurchschnittlichen Sterblichkeit hat das zuständige Standesamt der zuständigen Landesbehörde spätestens am dritten Arbeitstag nach der Eintragung in das Sterberegister und hat die zuständige Landesbehörde am folgenden Arbeitstag dem Robert Koch-Institut anonymisiert den Tod, die Todeserklärung oder die gerichtliche Feststellung der Todeszeit einer im Inland verstorbenen Person mit folgenden Angaben zu übermitteln (Mortalitätssurveillance):
-
-1. Daten zum übermittelnden Standesamt,
-
-2. Geschlecht der verstorbenen Person,
-
-3. Jahr und Monat der Geburt der verstorbenen Person,
-
-4. Todestag oder Todeszeitraum,
-
-5. Sterbeort,
-
-6. Landkreis oder kreisfreie Stadt des letzten Wohnsitzes der verstorbenen Person.
-
-Für die Übermittlungen von den zuständigen Landesbehörden an das Robert Koch-Institut bestimmt das Robert Koch-Institut die technischen Übermittlungsstandards. Die im Rahmen der Mortalitätssurveillance übermittelten Daten können durch das Robert Koch-Institut anderen obersten und oberen Bundesbehörden für den gleichen Zweck übermittelt werden.
+(6) (weggefallen)
 
 (7) Für Zwecke der Feststellung der Auslastung der Krankenhauskapazitäten (Krankenhauskapazitätssurveillance) sind Krankenhäuser verpflichtet, folgende Angaben an das Robert Koch-Institut zu übermitteln:
 

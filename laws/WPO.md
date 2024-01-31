@@ -2329,4 +2329,5 @@ c) Gebühren und Entgelte, die vom Dienstleistungserbringer für Verwaltungsverf
 
 # Anlage 2 – (zu § 122 Satz 1) Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2016, 546 - 548)
+(Fundstelle: BGBl. I 2016, 546 - 548  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
