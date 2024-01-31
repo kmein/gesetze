@@ -2853,6 +2853,9 @@ c) Gebühren und Entgelte, die vom Dienstleistungserbringer für Verwaltungsverf
 
 # Anlage 2 – (zu § 193 Satz 1 und § 195 Satz 1)Gebührenverzeichnis
 
+(Fundstelle: BGBl. I 2006, 3418 - 3420  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 Teil 1  
    Anwaltsgerichtliche Verfahren
 

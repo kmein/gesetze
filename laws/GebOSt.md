@@ -134,6 +134,8 @@ Der Bundesrat hat zugestimmt.
 (Fundstelle: BGBl. I 2011, 101 - 123;  
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Anlage Geb.Nr. 303.1: IdF d. Art. 5 Nr. 5 V v. 2.10.2019 I 1416 mWv 1.1.2020; Anlage Geb.Nr. 303.1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "40.90" durch "40,90" ersetzt
 
 # Anhang – (zu Gebühren-Nummer 263.1.1) Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- und Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO

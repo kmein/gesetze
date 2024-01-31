@@ -502,8 +502,6 @@ In den Fällen des Satzes 1 Nummer 1 und 9 oder auf ein Ersuchen einer zuständi
 
 (3) § 19 Absatz 4 bleibt unberührt.
 
-§ 20 Abs. 1 Satz 1 u. 2: Nach Maßgabe der Entscheidungsformel nicht vereinbar mit Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG gem. Nr. 1 BVerfGE v. 28.9.2022 I 2096 - 1 BvR 2354/13 -. Gem. Nr. 2 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2023 nach Maßgabe der Entscheidungsformel fort.
-
 # § 21 – Übermittlung an Strafverfolgungsbehörden zur Strafverfolgung
 
 (1) Das Bundesamt für Verfassungsschutz übermittelt personenbezogene Daten an eine zuständige inländische Strafverfolgungsbehörde, wenn bestimmte Tatsachen den Verdacht einer besonders schweren Straftat begründen und soweit die Daten zur Verfolgung dieser Straftat erforderlich sind.
@@ -515,8 +513,6 @@ In den Fällen des Satzes 1 Nummer 1 und 9 oder auf ein Ersuchen einer zuständi
 2. fünf Jahren, wenn sie aus einer Bestrebung nach § 3 Absatz 1 Nummer 1, 3 oder 4 heraus zur Durchsetzung der Ziele dieser Bestrebung, durch eine Tätigkeit nach § 3 Absatz 1 Nummer 2 oder zur Unterstützung einer solchen Bestrebung oder Tätigkeit begangen wurde.
 
 (3) Abweichend von Absatz 1 übermittelt das Bundesamt für Verfassungsschutz personenbezogene Daten, die es durch eine Maßnahme nach § 9 Absatz 2 Satz 1 erhoben hat, an eine im Einzelfall für die Strafverfolgung zuständige Behörde, wenn bestimmte Tatsachen den Verdacht einer Straftat nach § 100b Absatz 2 der Strafprozessordnung begründen und soweit die Daten zur Verfolgung dieser Straftat erforderlich sind. Eine Übermittlung von personenbezogenen Daten, die das Bundesamt für Verfassungsschutz durch eine Maßnahme nach § 9 Absatz 2 Satz 2 erhoben hat, ist nicht zulässig.
-
-§ 21 Abs. 1 Satz 1: IVm § 20 Abs. 1 Satz 1 u. 2 nach Maßgabe der Entscheidungsformel nicht vereinbar mit Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG gem. Nr. 1 BVerfGE v. 28.9.2022 I 2096 - 1 BvR 2354/13 -. Gem. Nr. 2 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2023 nach Maßgabe der Entscheidungsformel fort.
 
 # § 22 – Übermittlung an inländische öffentliche Stellen ohne belastende Maßnahmen mit Außenwirkung
 

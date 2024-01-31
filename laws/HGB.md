@@ -2255,6 +2255,8 @@ E. Passive latente Steuern.
 
 2. eines ausländischen Mindeststeuergesetzes, das der Umsetzung der Richtlinie (EU) 2022/2523 des Rates vom 15. Dezember 2022 zur Gewährleistung einer globalen Mindestbesteuerung für multinationale Unternehmensgruppen und große inländische Gruppen in der Union (ABl. L 328 vom 22.12.2022, S. 1; L 13 vom 16.1.2023, S. 9) oder der dieser Richtlinie zugrundeliegenden Mustervorschriften der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung für eine globale Mindestbesteuerung dient.
 
+(+++ § 274: Zur Anwendung vgl. Art. 91 Abs. 2 HGBEG +++)
+
 # § 274a – Größenabhängige Erleichterungen
 
 Kleine Kapitalgesellschaften sind von der Anwendung der folgenden Vorschriften befreit:
@@ -2580,7 +2582,7 @@ soweit die Angaben nicht im Lagebericht gemacht werden;
 
 34. der Vorschlag für die Verwendung des Ergebnisses oder der Beschluss über seine Verwendung.
 
-(+++ § 285: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+(+++ § 285: Zur Anwendung vgl. Art. 75 Abs. 1 u. Art. 91 Abs. 1 HGBEG +++)
 
 # § 286 – Unterlassen von Angaben
 
@@ -2616,7 +2618,7 @@ Die Angabe des Eigenkapitals und des Jahresergebnisses kann unterbleiben, wenn d
 
 (2) Mittelgroße Kapitalgesellschaften (§ 267 Absatz 2) brauchen die Angabe nach § 285 Nummer 4, 29 und 32 nicht zu machen. Wenn sie die Angabe nach § 285 Nummer 17 nicht machen, sind sie verpflichtet, diese der Wirtschaftsprüferkammer auf deren schriftliche Anforderung zu übermitteln. Sie brauchen die Angaben nach § 285 Nummer 21 nur zu machen, sofern die Geschäfte direkt oder indirekt mit einem Gesellschafter, Unternehmen, an denen die Gesellschaft selbst eine Beteiligung hält, oder Mitgliedern des Geschäftsführungs-, Aufsichts- oder Verwaltungsorgans abgeschlossen wurden.
 
-(+++ § 288: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+(+++ § 288: Zur Anwendung vgl. Art. 75 Abs. 1 u. Art. 91 Abs. 1 HGBEG +++)
 
 # § 289 – Inhalt des Lageberichts
 
@@ -3000,6 +3002,8 @@ Auf die Ermittlung der durchschnittlichen Zahl der Arbeitnehmer ist § 267 Abs. 
 
 Führen Maßnahmen, die nach den Vorschriften dieses Titels durchgeführt worden sind, zu Differenzen zwischen den handelsrechtlichen Wertansätzen der Vermögensgegenstände, Schulden oder Rechnungsabgrenzungsposten und deren steuerlichen Wertansätzen und bauen sich diese Differenzen in späteren Geschäftsjahren voraussichtlich wieder ab, so ist eine sich insgesamt ergebende Steuerbelastung als passive latente Steuern und eine sich insgesamt ergebende Steuerentlastung als aktive latente Steuern in der Konzernbilanz anzusetzen. Die sich ergebende Steuerbe- und die sich ergebende Steuerentlastung können auch unverrechnet angesetzt werden. Differenzen aus dem erstmaligen Ansatz eines nach § 301 Abs. 3 verbleibenden Unterschiedsbetrages bleiben unberücksichtigt. Das Gleiche gilt für Differenzen, die sich zwischen dem steuerlichen Wertansatz einer Beteiligung an einem Tochterunternehmen, assoziierten Unternehmen oder einem Gemeinschaftsunternehmen im Sinn des § 310 Abs. 1 und dem handelsrechtlichen Wertansatz des im Konzernabschluss angesetzten Nettovermögens ergeben. § 274 Absatz 2 und 3 ist entsprechend anzuwenden. Die Posten dürfen mit den Posten nach § 274 zusammengefasst werden.
 
+(+++ § 306: Zur Anwendung vgl. Art. 91 Abs. 2 HGBEG +++)
+
 # § 307 – Anteile anderer Gesellschafter
 
 (1) In der Konzernbilanz ist für nicht dem Mutterunternehmen gehörende Anteile an in den Konzernabschluß einbezogenen Tochterunternehmen ein Ausgleichsposten für die Anteile der anderen Gesellschafter in Höhe ihres Anteils am Eigenkapital unter dem Posten „nicht beherrschende Anteile“ innerhalb des Eigenkapitals gesondert auszuweisen.
@@ -3196,7 +3200,7 @@ soweit die Angaben nicht im Konzernlagebericht gemacht werden;
 
 (3) Für die Angabepflicht gemäß Absatz 1 Nummer 6 Buchstabe a und b gilt § 286 Absatz 4 entsprechend.
 
-(+++ § 314: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+(+++ § 314: Zur Anwendung vgl. Art. 75 Abs. 1 u. Art. 91 Abs. 1 HGBEG +++)
 
 # § 315 – Inhalt des Konzernlageberichts
 
