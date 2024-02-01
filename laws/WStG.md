@@ -519,7 +519,7 @@ Bei Straftaten von Soldaten darf Geldstrafe nicht verhängt werden, wenn besonde
 
 # § 11 – Ersatzfreiheitsstrafe
 
-Ist wegen einer Tat, die ein Soldat während der Ausübung des Dienstes oder in Beziehung auf den Dienst begangen hat, eine Geldstrafe bis zu einhundertachtzig Tagessätzen verhängt, so ist die Ersatzfreiheitsstrafe Strafarrest. Einem Tagessatz entspricht ein Tag Strafarrest.
+Ist wegen einer Tat, die ein Soldat während der Ausübung des Dienstes oder in Beziehung auf den Dienst begangen hat, eine Geldstrafe bis zu einhundertachtzig Tagessätzen verhängt, so ist die Ersatzfreiheitsstrafe Strafarrest. Zwei Tagessätzen entspricht ein Tag Strafarrest.
 
 # § 12 – Strafarrest statt Freiheitsstrafe
 

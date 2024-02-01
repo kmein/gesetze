@@ -956,6 +956,8 @@ Die Eichung besteht aus der eichtechnischen Prüfung (§ 37) und dem Aufbringen 
 
 (3) Auf Verlangen der antragstellenden Person kann auch eine Teilbefundprüfung im Hinblick auf einzelne Aspekte der Befundprüfung durchgeführt werden.
 
+(4) Bei Smart-Meter-Gateways nach § 2 Satz 1 Nummer 19 des Messstellenbetriebsgesetzes ordnet die zuständige Behörde zunächst einen Selbsttest nach den Vorgaben in Schutzprofilen und Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik nach dem Messstellenbetriebsgesetz durch den Smart-Meter-Gateway-Administrator an. Ergibt der Selbsttest keinen Anlass für Zweifel an der Messrichtigkeit, kann die Befundprüfung auf Wunsch der antragstellenden Person beendet werden.
+
 (+++ § 39: Zur Anwendung vgl. § 51 Abs. 3 +++)
 
 # § 40 – Genehmigungsverfahren zur Aktualisierung von Software in Messgeräten
@@ -988,27 +990,15 @@ cc) Aktualisierungen und Aktualisierungsversuche der Software im Messgerät auto
 
 3. die zuständige Behörde hat durch Stichproben die Richtigkeit der aktualisierten Messgeräte überprüft.
 
-(4) Die Genehmigung zum Verwenden von Messgeräten mit aktualisierter Software nach § 37 Absatz 6 des Mess- und Eichgesetzes ist auf Antrag vorläufig zu erteilen, wenn die nachfolgend genannten Voraussetzungen erfüllt sind:
+(4) Die Aktualisierung der Software eines Messgeräts darf nur erfolgen, wenn der Verwender dem zugestimmt hat.
 
-1. die Anforderungen des Absatzes 3 Nummer 1 sind erfüllt,
+(5) Die Absätze 1 bis 4 sind nicht anzuwenden auf Smart-Meter-Gateways nach § 2 Satz 1 Nummer 19 des Messstellenbetriebsgesetzes, sofern
 
-2. die beauftragte Stelle nach § 3 Absatz 1 Nummer 5 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821), das zuletzt durch Artikel 3 Absatz 7 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, in der jeweils geltenden Fassung oder eine von dieser Stelle nach § 9 des Gesetzes zur Stärkung der Sicherheit in der Informationstechnik des Bundes zertifizierte oder eine vergleichbare Stelle bestätigt hat, dass
+1. eine Software-Aktualisierung von einem Smart-Meter-Gateway-Administrator durchgeführt wird,
 
-a) eine informationstechnische Sicherheitslücke in der Software des Messgeräts besteht, die den unerlaubten Zugriff auf das Messgerät über Netzwerke ermöglicht,
+2. eine Konformitätsbescheinigung zur messtechnischen Eignung der aktualisierten Software durch eine Stelle nach § 41 der Mess- und Eichverordnung vorliegt und
 
-b) eine hohe Dringlichkeit zur Beseitigung der Sicherheitslücke gegeben ist und
-
-c) die aktualisierte Software zur Behebung der sicherheitstechnischen Lücke geeignet ist, anschließend
-
-3. die Konformitätsbewertungsstelle bei der Physikalisch-Technischen Bundesanstalt eine vorläufige Konformitätsbescheinigung zur messtechnischen Eignung der aktualisierten Software erstellt hat,
-
-4. die zuständige Behörde durch Stichproben die Richtigkeit der aktualisierten Messgeräte überprüft hat und
-
-5. das Verfahren zur Softwareaktualisierung nach Absatz 3 eingeleitet wurde.
-
-Die vorläufige Genehmigung nach Satz 1 ist innerhalb von vier Werktagen zu erteilen; sie gilt nach Ablauf der genannten Frist als erteilt. § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 3 des Gesetzes vom 25. Juli 2013 (BGBl. I S. 2749) geändert worden ist, ist anzuwenden.
-
-(5) Die Aktualisierung der Software eines Messgeräts darf nur erfolgen, wenn der Verwender dem zugestimmt hat.
+3. ein Selbsttest nach den Vorgaben in Schutzprofilen und Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik nach dem Messstellenbetriebsgesetz durchgeführt wird und der Smart-Meter-Gateway-Administrator dies nach § 25 des Messstellenbetriebsgesetzes überwacht.
 
 # § 41 – Konformitätsbewertung der aktualisierten Software
 
@@ -1232,7 +1222,7 @@ Ordnungswidrig im Sinne des § 60 Absatz 1 Nummer 26 des Mess- und Eichgesetzes 
 
 2. entgegen § 27 ein Ausschankmaß verwendet,
 
-3. entgegen § 40 Absatz 5 die Software eines Messgeräts aktualisiert,
+3. entgegen § 40 Absatz 4 die Software eines Messgeräts aktualisiert,
 
 4. entgegen § 55 Absatz 1 Satz 1 Nummer 1 oder Nummer 2 Satzteil vor dem zweiten Halbsatz ein Messgerät nicht, nicht richtig oder nicht rechtzeitig kenntlich macht,
 

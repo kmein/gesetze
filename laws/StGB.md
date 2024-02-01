@@ -4657,7 +4657,7 @@ Ist dem Verurteilten nach seinen persönlichen oder wirtschaftlichen Verhältnis
 
 # § 43 – Ersatzfreiheitsstrafe
 
-An die Stelle einer uneinbringlichen Geldstrafe tritt Freiheitsstrafe. Einem Tagessatz entspricht ein Tag Freiheitsstrafe. Das Mindestmaß der Ersatzfreiheitsstrafe ist ein Tag.
+An die Stelle einer uneinbringlichen Geldstrafe tritt Ersatzfreiheitsstrafe. Zwei Tagessätzen entspricht ein Tag Ersatzfreiheitsstrafe. Das Mindestmaß der Ersatzfreiheitsstrafe ist ein Tag.
 
 # § 44 – Fahrverbot
 

@@ -852,6 +852,9 @@ Verlustgründe nach anderen gesetzlichen Vorschriften bleiben unberührt.
 
 (2) Ist der Ausgeschiedene nach § 6 Absatz 2 gewählt, bleibt der Sitz unbesetzt.
 
+§ 48 Abs. 1 Satz 4 u. 5: Früher Satz 3 u. 4 gem. Art. 1 Nr. 5 G v. 14.11.2020 I 2395 mWv 19.11.2020, Art. 1 Nr. 5 G v. 14.11.2020 I 2395 ist gem. BVerfGE v. 29.11.2023 - 2 BvF 1/21 - mit GG vereinbar  
+§ 48 Abs. 1 Satz 6 u. 7: Früher Satz 5 u. 6 gem. Art. 1 Nr. 5 G v. 14.11.2020 I 2395 mWv 19.11.2020, Art. 1 Nr. 5 G v. 14.11.2020 I 2395 ist gem. BVerfGE v. 29.11.2023 - 2 BvF 1/21 - mit GG vereinbar; idF d. Art. 2 Nr. 15 Buchst. b DBuchst. dd G v. 8.6.2023 I Nr. 147 mWv 14.6.2023
+
 # § 49 – Anfechtung
 
 Entscheidungen und Maßnahmen, die sich unmittelbar auf das Wahlverfahren beziehen, können nur mit den in diesem Gesetz und in der Bundeswahlordnung vorgesehenen Rechtsbehelfen sowie im Wahlprüfungsverfahren angefochten werden.
