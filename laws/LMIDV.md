@@ -91,6 +91,26 @@ Bei den betreffenden Lebensmitteln oder in einem Aushang in der Verkaufsstätte 
 
 2. Eingabedaten in deutscher Sprache und eine E-Mail-Adresse, die so eingestellt ist, dass dort eingehende E-Mails automatisch an den Markeninhaber weitergeleitet werden.
 
+# § 4b – Herkunftskennzeichnung bei nicht vorverpacktem frischem, gekühltem und gefrorenem Schweine-, Schaf-, Ziegen- und Geflügelfleisch
+
+(1) Für diese Verordnung gelten
+
+1. für die Begriffe „Hackfleisch/Faschiertes“, „Schlachthof“ und „Zerlegungsbetrieb“ die Begriffsbestimmungen in Anhang I Nummer 1.13, 1.16 und 1.17 der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55; L 226 vom 25.6.2004, S. 22; L 46 vom 21.2.2008, S. 50; L 119 vom 13.5.2010, S. 26; L 160 vom 12.6.2013, S. 15; L 66 vom 11.3.2015, S. 22; L 13 vom 16.1.2019, S. 12) die zuletzt durch die Delegierte Verordnung (EU) 2023/166 (ABl. L 24 vom 26.1.2023, S. 1) geändert worden ist, und
+
+2. für die Begriffe „Fleischabschnitte“ und „Partie“ die Begriffsbestimmungen in Artikel 2 Absatz 2 Buchstabe a und b der Durchführungsverordnung (EU) Nr. 1337/2013 der Kommission vom 13. Dezember 2013 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates hinsichtlich der Angabe des Ursprungslandes bzw. Herkunftsortes von frischem, gekühltem oder gefrorenem Schweine-, Schaf-, Ziegen- und Geflügelfleisch (ABl. L 335 vom 14.12.2013, S. 19; L 95 vom 29.3.2014, S. 70).
+
+(2) Frisches, gekühltes und gefrorenes Schweine-, Schaf-, Ziegen- und Geflügelfleisch, das ein Lebensmittel im Sinne des § 4 Absatz 2 Satz 1 ist, darf durch den Verantwortlichen nach Artikel 8 Absatz 1 oder Absatz 4 Satz 2 der Verordnung (EU) Nr. 1169/2011 mit dem Ziel der Abgabe an Endverbraucher oder an Anbieter von Gemeinschaftsverpflegung nur in den Verkehr gebracht werden oder durch den Verantwortlichen nach Artikel 8 Absatz 3 der Verordnung (EU) Nr. 1169/2011 nur abgegeben werden, wenn die Herkunft gemäß
+
+1. Artikel 5 Absatz 1 Unterabsatz 1 Buchstabe a und b, Unterabsatz 2 und 3, Absatz 2 und 3 Buchstabe a,
+
+2. Artikel 6 oder
+
+3. Artikel 7
+
+der Durchführungsverordnung (EU) Nr. 1337/2013 gekennzeichnet wird. Die Kennzeichnung hat nach Maßgabe des § 4 Absatz 3 zu erfolgen. Wird überwiegend Fleisch mit der gleichen Herkunft abgegeben, kann die Angabe auch durch eine allgemeine Erklärung an gut sichtbarer Stelle erfolgen. Auf die Möglichkeit abweichender Herkünfte ist hinzuweisen. Fleisch, dessen Herkunft nicht mit der überwiegenden Herkunft übereinstimmt, ist gesondert nach Maßgabe der Sätze 1 und 2 zu kennzeichnen.
+
+(3) Für Lebensmittel im Sinne des § 4 Absatz 2 Satz 1 Nummer 1 bis 3 muss der Verantwortliche nach Artikel 8 Absatz 1 oder Absatz 4 Satz 2 der Verordnung (EU) Nr. 1169/2011 die zur Kennzeichnung nach Absatz 2 genannten Angaben bereithalten und zusammen mit dem Fleisch an die Unternehmer in den nachfolgenden Produktions- und Vertriebsstufen übermitteln.
+
 # § 5 – Verkehrs- und Abgabeverbote
 
 (1) Dem Verantwortlichen nach Artikel 8 Absatz 1 oder 4 Satz 2 der Verordnung (EU) Nr. 1169/2011 ist es verboten, vorverpackte Lebensmittel in den Verkehr zu bringen, und dem Verantwortlichen nach Artikel 8 Absatz 3 ist es verboten, vorverpackte Lebensmittel abzugeben, die folgenden Anforderungen nicht entsprechen:
@@ -165,7 +185,7 @@ c) Artikel 13 Absatz 1, 2, 3 oder 5 der Verordnung (EU) Nr. 1169/2011,
 
 (3) Dem Verantwortlichen nach Artikel 8 Absatz 1, oder Absatz 4 Satz 2 der Verordnung (EU) Nr. 1169/2011 ist es verboten, nicht vorverpackte Lebensmittel im Sinne des § 4 Absatz 2 in den Verkehr zu bringen, und dem Verantwortlichen nach Artikel 8 Absatz 3 der Verordnung (EU) Nr. 1169/2011 ist es verboten, nicht vorverpackte Lebensmittel im Sinne des § 4 Absatz 2 abzugeben, die durch Einsatz von Fernkommunikationstechniken zum Verkauf angeboten werden und für die die erforderlichen Angaben nach Artikel 14 Absatz 2 der Verordnung (EU) Nr. 1169/2011 in Verbindung mit Artikel 9 Absatz 1 Buchstabe c in Verbindung mit Artikel 21 Absatz 1 Unterabsatz 1, 2 oder 3 oder Anhang II der Verordnung (EU) Nr. 1169/2011 vor Abschluss des Kaufvertrages nicht verfügbar sind.
 
-(4) Dem nach Artikel 8 Absatz 6 der Verordnung (EU) Nr. 1169/2011 Verantwortlichen ist es verboten, nicht vorverpackte Lebensmittel, die für die Abgabe an Endverbraucher oder Anbieter von Gemeinschaftsverpflegung bestimmt sind, an Lebensmittelunternehmer abzugeben, ohne dass diesem Lebensmittelunternehmer ausreichende Angaben zur Erfüllung der in § 4 Absatz 1 oder 2 genannten Anforderungen übermittelt werden.
+(4) Dem nach Artikel 8 Absatz 6 der Verordnung (EU) Nr. 1169/2011 Verantwortlichen ist es verboten, nicht vorverpackte Lebensmittel, die für die Abgabe an Endverbraucher oder Anbieter von Gemeinschaftsverpflegung bestimmt sind, an Lebensmittelunternehmer abzugeben, ohne dass diesem Lebensmittelunternehmer ausreichende Angaben zur Erfüllung der in § 4 Absatz 1 oder 2 und § 4b Absatz 2 genannten Anforderungen übermittelt werden.
 
 (5) Dem nach Artikel 8 Absatz 7 Satz 1 der Verordnung (EU) Nr. 1169/2011 Verantwortlichen ist es verboten, vorverpackte Lebensmittel im Sinne des Artikels 8 Absatz 7 Satz 1 der Verordnung (EU) Nr. 1169/2011, die den in Absatz 1 genannten Anforderungen nicht entsprechen, in den Verkehr zu bringen, wenn nicht gewährleistet ist, dass die in Absatz 1 Nummer 1 bis 14, 16 und 17 genannten Angaben, in beiliegenden oder gleichzeitig versendeten Handelspapieren, die sich auf das Lebensmittel beziehen, gemacht werden. Unbeschadet der Regelung in Satz 1 stellt der in Satz 1 genannte Verantwortliche sicher, dass die Angaben nach Absatz 1 Nummer 1 oder Nummer 6 bis 8 auf der Außenverpackung, in der die vorverpackten Lebensmittel vermarktet werden, angebracht sind.
 
@@ -181,7 +201,7 @@ c) Artikel 13 Absatz 1, 2, 3 oder 5 der Verordnung (EU) Nr. 1169/2011,
 
 (4) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 4 Absatz 1 Satz 1, Absatz 2 Satz 1, auch in Verbindung mit Absatz 2 Satz 2, oder entgegen § 4 Absatz 5 Satz 1 erster Halbsatz, auch in Verbindung mit Absatz 5 Satz 2, ein Lebensmittel in den Verkehr bringt oder abgibt,
+1. entgegen § 4 Absatz 1 Satz 1, Absatz 2 Satz 1, auch in Verbindung mit Absatz 2 Satz 2, oder entgegen § 4b Absatz 2 Satz 1 ein Lebensmittel in den Verkehr bringt oder abgibt,
 
 2. entgegen § 5 Absatz 1 Nummer 1 Buchstabe a, Nummer 2 bis 4, Nummer 6 bis 13, Nummer 14 Buchstabe a, b Doppelbuchstabe bb oder Buchstabe c, Nummer 15 bis 17 oder 18, jeweils auch in Verbindung mit § 5 Absatz 2, ein Lebensmittel in den Verkehr bringt,
 
@@ -192,6 +212,10 @@ c) Artikel 13 Absatz 1, 2, 3 oder 5 der Verordnung (EU) Nr. 1169/2011,
 5. entgegen § 5 Absatz 5 Satz 2 nicht sicherstellt, dass eine dort genannte Angabe auf der Außenverpackung angebracht ist, oder
 
 6. entgegen § 5 Absatz 6 ein Lebensmittel liefert.
+
+# § 7 – Übergangsvorschrift
+
+Fleischwaren, für die keine hinreichenden Informationen am 1. Februar 2024 für die Erfüllung der Anforderungen des § 4b Absatz 2 vorliegen, dürfen noch bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
 # Anlage – (zu § 4a Absatz 1) Abbildung des Nutri-Score-Kennzeichens
 

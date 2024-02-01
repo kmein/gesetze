@@ -691,6 +691,8 @@ b) die unkenntlich gemachten, entwerteten oder entfernten Kennzeichen durch geei
 
 5. das Messgerät mit einer Einrichtung verbunden wird, deren Anfügung nicht zulässig ist.
 
+Satz 1 Nummer 2 ist nicht anzuwenden auf ein Smart-Meter-Gateway nach § 2 Satz 1 Nummer 19 des Messstellenbetriebsgesetzes, wenn ein Smart-Meter-Gateway-Administrator eine Software-Aktualisierung nach den Vorgaben des § 40 Absatz 5 der Mess- und Eichverordnung durchführt.
+
 (3) Die Eichung erfolgt auf Antrag. Bei der Eichung können vorgelegte aktuelle Prüf- und Untersuchungsergebnisse berücksichtigt werden.
 
 (4) Bei der Eichung sind grundsätzlich die zum Zeitpunkt des Inverkehrbringens geltenden wesentlichen Anforderungen nach § 6 Absatz 2 sowie die zu diesem Zeitpunkt vorliegenden in § 7 genannten harmonisierten Normen, normativen Dokumente, technischen Spezifikationen oder Regeln zu Grunde zu legen. Soweit es zur Gewährleistung der Messrichtigkeit oder der Messbeständigkeit unter Berücksichtigung der Verhältnismäßigkeit erforderlich ist, können bei der Eichung im Einzelfall die aktuellen Bedingungen zu Grunde gelegt werden; dies ist insbesondere vorzusehen, wenn die aktuellen Bedingungen für den Antragsteller weniger belastend sind.

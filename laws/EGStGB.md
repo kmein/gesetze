@@ -178,7 +178,7 @@ Vorschriften sind nicht mehr anzuwenden, soweit sie
 
 # Art 293 – Abwendung der Vollstreckung der Ersatzfreiheitsstrafe und Erbringung von Arbeitsleistungen
 
-(1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Regelungen zu treffen, wonach die Vollstreckungsbehörde dem Verurteilten gestatten kann, die Vollstreckung einer Ersatzfreiheitsstrafe nach § 43 des Strafgesetzbuches durch freie Arbeit abzuwenden. Soweit der Verurteilte die freie Arbeit geleistet hat, ist die Ersatzfreiheitsstrafe erledigt. Die Arbeit muß unentgeltlich sein; sie darf nicht erwerbswirtschaftlichen Zwecken dienen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+(1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Regelungen zu treffen, wonach die Vollstreckungsbehörde dem Verurteilten gestatten kann, die Vollstreckung einer Ersatzfreiheitsstrafe nach § 43 des Strafgesetzbuches durch freie Arbeit abzuwenden. Soweit der Verurteilte die freie Arbeit geleistet hat, ist die Ersatzfreiheitsstrafe erledigt. In der Rechtsverordnung ist die Zahl der Arbeitsstunden zu bestimmen, die geleistet werden müssen, um einen Tag Ersatzfreiheitsstrafe zu erledigen. Die Arbeit muß unentgeltlich sein; sie darf nicht erwerbswirtschaftlichen Zwecken dienen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 (2) Durch die freie Arbeit wird kein Arbeitsverhältnis im Sinne des Arbeitsrechts und kein Beschäftigungsverhältnis im Sinne der Sozialversicherung, einschließlich der Arbeitslosenversicherung, oder des Steuerrechts begründet. Die Vorschriften über den Arbeitsschutz finden sinngemäße Anwendung.
 
@@ -489,6 +489,12 @@ d) in der seit dem 1. Januar 2021 geltenden Fassung sowie
 2. aufgrund des § 219b des Strafgesetzbuches in der vom 1. Oktober 1987 bis einschließlich 15. Juni 1993 geltenden Fassung.
 
 (2) Die Verfahren, die den in Absatz 1 genannten Urteilen zugrunde liegen, werden eingestellt.
+
+# Art 316o – Übergangsvorschrift zum Gesetz zur Überarbeitung des Sanktionenrechts – Ersatzfreiheitsstrafe, Strafzumessung, Auflagen und Weisungen sowie Unterbringung in einer Entziehungsanstalt
+
+(1) Für die Vollstreckung von vor dem 1. Oktober 2023 rechtskräftig angeordneten Unterbringungen nach § 63 oder § 64 des Strafgesetzbuches gilt § 67 des Strafgesetzbuches in der bis zu diesem Tag geltenden Fassung. Artikel 313 Absatz 2 gilt entsprechend.
+
+(2) Für die Vollstreckung von vor dem 1. Februar 2024 rechtskräftig verhängten Geldstrafen gelten § 43 des Strafgesetzbuches und § 11 des Wehrstrafgesetzes jeweils in der bis zu diesem Tag geltenden Fassung. Artikel 313 Absatz 2 gilt entsprechend.
 
 # Art 317 – Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht
 

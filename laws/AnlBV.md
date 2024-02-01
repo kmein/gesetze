@@ -301,6 +301,11 @@ b) der Nachweis über das Vorliegen der Voraussetzungen nach Satz 1
 
 übermittelt werden können.
 
+2.5.2  
+Internationale Liniendienste
+
+Einem internationalen Liniendienst kann auf schriftlichen Antrag bei der Generaldirektion Wasserstraßen und Schifffahrt eine Ausnahme genehmigt werden, soweit die übrigen Mitgliedstaaten der Europäischen Union zugestimmt haben. Nach Erteilung der Genehmigung gilt Nummer 2.5.1 entsprechend.
+
 2.6  
 Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten nach der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 (ABl. L 283 vom 29.10.2010, S. 1)
 

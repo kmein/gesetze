@@ -102,10 +102,10 @@ Abschnitt 2
 Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG)
 
 Abschnitt 3  
-(zukünftig in Kraft)
+Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (eIDAS-Verordnung) und Vertrauensdienstegesetz (VDG)
 
 Abschnitt 4  
-(zukünftig in Kraft)
+Amateurfunkgesetz (AFuG) und Amateurfunkverordnung (AFuV)
 
  
 
@@ -188,5 +188,3 @@ Abschnitt 4
  
 
  
-
-(+++ Anlage Abschnitte 3 und 4: Treten gemäß § 6 Abs. 2 am 1.2.2024 in Kraft +++)
