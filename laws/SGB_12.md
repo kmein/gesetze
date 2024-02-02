@@ -1989,8 +1989,6 @@ Die zusätzlichen Aufwendungen nach Satz 4 Nummer 2 bis 4 sind nach der Anzahl d
 
 2. die Aufwendungen zusätzliche haushaltsbezogene Aufwendungen beinhalten, die ansonsten über die Regelbedarfe abzudecken wären.
 
-(+++ § 42a Abs. 3, 4: Zur Nichtanwendung vgl. § 133b +++)
-
 # § 42b – Mehrbedarfe
 
 (1) Für Bedarfe, die nicht durch den Regelsatz abgedeckt sind, werden ergänzend zu den Mehrbedarfen nach § 30 die Mehrbedarfe nach den Absätzen 2 bis 4 anerkannt.
@@ -2922,9 +2920,6 @@ Werden bis zu zwölf Monatsleistungen aus einer zusätzlichen Altersvorsorge, in
 
 (7) Einnahmen sind für den Monat zu berücksichtigen, in dem sie zufließen. Würde der Leistungsanspruch durch die Berücksichtigung einer als Nachzahlung zufließenden Einnahme, die nicht für den Monat des Zuflusses erbracht wird, in diesem Monat entfallen, so ist diese Einnahme auf einen Zeitraum von sechs Monaten gleichmäßig aufzuteilen und monatlich ab dem Monat des Zuflusses mit einem entsprechenden monatlichen Teilbetrag zu berücksichtigen. In begründeten Einzelfällen ist der Anrechnungszeitraum nach Satz 2 angemessen zu verkürzen. Die Sätze 1 und 2 sind auch anzuwenden, soweit während des Leistungsbezugs eine Auszahlung zur Abfindung einer Kleinbetragsrente im Sinne des § 93 Absatz 3 Satz 2 des Einkommensteuergesetzes oder nach § 3 Absatz 2 des Betriebsrentengesetzes erfolgt und durch den ausgezahlten Betrag das Vermögen überschritten wird, welches nach § 90 Absatz 2 Nummer 9 und Absatz 3 nicht einzusetzen ist.
 
-(+++ § 82 Abs. 3 u. 6: Zur Nichtanwendung vgl. § 88 Abs. 2 Satz 2 +++)  
-(+++ § 82 Abs. 4 u. 5: Zur Anwendung vgl. § 90 Abs. 2 Nr. 2 +++)
-
 # § 82a – Freibetrag für Personen mit Grundrentenzeiten oder entsprechenden Zeiten aus anderweitigen Alterssicherungssystemen
 
 (1) Bei der Hilfe zum Lebensunterhalt und Grundsicherung im Alter und bei Erwerbsminderung ist für Personen, die mindestens 33 Jahre an Grundrentenzeiten nach § 76g Absatz 2 des Sechsten Buches erreicht haben, ein Betrag in Höhe von 100 Euro monatlich aus der gesetzlichen Rente zuzüglich 30 Prozent des diesen Betrag übersteigenden Einkommens aus der gesetzlichen Rente vom Einkommen nach § 82 Absatz 1 abzusetzen, höchstens jedoch ein Betrag in Höhe von 50 Prozent der Regelbedarfsstufe 1 nach der Anlage zu § 28.
@@ -3820,8 +3815,6 @@ Ist eine nach dem Dritten oder Vierten Kapitel leistungsberechtigte Person in ei
 5. bei Regelbedarfsstufe 6 um 98 Euro.
 
 Die Sätze 1 und 2 gelten entsprechend, wenn die Sachleistung im Auftrag oder mit Zustimmung des zuständigen Trägers der Sozialhilfe durch einen anderen öffentlich-rechtlichen Träger oder einen privaten Dritten erbracht wird. Der zuständige Träger der Sozialhilfe hat dem öffentlich-rechtlichen Träger oder privaten Betreiber der Gemeinschaftsunterkunft ohne Selbstversorgungsmöglichkeit für die anderweitige Bedarfsdeckung für Verpflegung und Haushaltsstrom Aufwendungen in Höhe der in Satz 2 benannten Beträge zu erstatten.
-
-(+++ § 142 Abs. 1 Satz 1 iVm Abs. 2: Zeitraum bis zum 31.12.2022 verlängert, vgl. § 1 Abs. 2 V 860-2-20 v. 10.3.2022 I 426, 427 (VZVV 2022) +++)
 
 # § 143 – Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten
 
