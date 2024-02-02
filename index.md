@@ -6726,7 +6726,6 @@
 - [5. AnpG-KOV](laws/5._AnpG-KOV.md) Fünftes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes
 - [5. BImSchV](laws/5._BImSchV.md) Fünfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [5. DV-BEG](laws/5._DV-BEG.md) Fünfte Verordnung zur Durchführung des Bundesentschädigungsgesetzes
-- [5. PflegeArbbV](laws/5._PflegeArbbV.md) Fünfte Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche
 - [5. RAG](laws/5._RAG.md) Fünftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1962
 - [5. RAV](laws/5._RAV.md) Fünfte Verordnung zur Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 - [5. SGG-ÄndG](laws/5._SGG-ÄndG.md) Fünftes Gesetz zur Änderung des Sozialgerichtsgesetzes
@@ -6734,6 +6733,7 @@
 - [54. AnrV](laws/54._AnrV.md) Vierundfünfzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz
 - [6. AusbDienstLArbbV](laws/6._AusbDienstLArbbV.md) Sechste Verordnung über zwingende Arbeitsbedingungen für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch
 - [6. DV-BEG](laws/6._DV-BEG.md) Sechste Verordnung zur Durchführung des Bundesentschädigungsgesetzes
+- [6. PflegeArbbV](laws/6._PflegeArbbV.md) Sechste Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche
 - [6. ProdSV](laws/6._ProdSV.md) Sechste Verordnung zum Produktsicherheitsgesetz 1
 - [6. RAG](laws/6._RAG.md) Sechstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [6. SGGÄndG](laws/6._SGGÄndG.md) Sechstes Gesetz zur Änderung des Sozialgerichtsgesetzes
