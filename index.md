@@ -1979,6 +1979,7 @@
 - [EuTerrorÜbk](laws/EuTerrorÜbk.md) Europäisches Übereinkommen zur Bekämpfung des Terrorismus
 - [EuTerrorÜbkG](laws/EuTerrorÜbkG.md) Gesetz zu dem Europäischen Übereinkommen vom 27. Januar 1977 zur Bekämpfung des Terrorismus
 - [EUV](laws/EUV.md) Verordnung über die Untersuchung gefährlicher Ereignisse im Eisenbahnbetrieb
+- [EUV 2022/612](laws/EUV_2022_612.md) Verordnung (EU) 2022/612 des Europäischen Parlaments und des Rates über das Roaming in öffentlichen Mobilfunknetzen in der Union (Neufassung)
 - [EUV347/2013ZustBek](laws/EUV347_2013ZustBek.md) Bekanntmachung über die zuständige Behörde nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 347/2013
 - [EUVtr Amst](laws/EUVtr_Amst.md) Vertrag von Amsterdam zur Änderung des Vertrags über die Europäische Union, der Verträge zur Gründung der Europäischen Gemeinschaften sowie einiger damit zusammenhängender Rechtsakte
 - [EUVtr Liss](laws/EUVtr_Liss.md) Vertrag von Lissabon zur Änderung des Vertrags über die Europäische Union und des Vertrags zur Gründung der Europäischen Gemeinschaft
