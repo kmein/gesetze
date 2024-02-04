@@ -3443,6 +3443,8 @@ Hält der oder die Bundesbeauftragte für den Datenschutz und die Informationsfr
 
 (3) Steht eine Vermögensverwaltung anderen Personen als den Eigentümern des Vermögens oder deren gesetzlichen Vertretern zu, so haben die Vermögensverwalter die in Absatz 1 bezeichneten Pflichten, soweit ihre Verwaltung reicht.
 
+(+++ § 34: Zur Anwendung vgl. § 14b +++)
+
 # § 35 – Pflichten des Verfügungsberechtigten
 
 Wer als Verfügungsberechtigter im eigenen oder fremden Namen auftritt, hat die Pflichten eines gesetzlichen Vertreters (§ 34 Abs. 1), soweit er sie rechtlich und tatsächlich erfüllen kann.
@@ -4058,6 +4060,8 @@ Beteiligte sind
 (2) Betrifft ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen Gesetzbuchs den Gegenstand des Verfahrens, so ist ein geschäftsfähiger Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig, als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung des Betreuers handeln kann oder durch Vorschriften des öffentlichen Rechts als handlungsfähig anerkannt ist.
 
 (3) Die §§ 53 und 55 der Zivilprozessordnung gelten entsprechend.
+
+(+++ § 79: Zur Anwendung vgl. § 14b +++)
 
 # § 80 – Bevollmächtigte und Beistände
 
@@ -6379,7 +6383,7 @@ In diesen Fällen sind bei der Bemessung des Verspätungszuschlags die Dauer und
 
 (13) Die Absätze 2, 4 Satz 2, Absatz 5 Satz 2 sowie Absatz 8 gelten vorbehaltlich des Satzes 2 nicht für Steuererklärungen, die gegenüber den Hauptzollämtern abzugeben sind. Für die Bemessung des Verspätungszuschlags zu Steuererklärungen zur Luftverkehrsteuer gilt Absatz 8 Satz 2 entsprechend.
 
-(+++ § 152: Zur Anwendung vgl. Art. 97 §§ 1, 8 u. 36 AOEG 1977 +++)
+(+++ § 152: Zur Anwendung vgl. Art. 97 §§ 1, 8, 36 u. 39 AOEG 1977 +++)
 
 # § 153 – Berichtigung von Erklärungen
 
@@ -6928,7 +6932,7 @@ Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten Feststellung abge
 
 (5) Eine gesonderte Feststellung kann auch nach Ablauf der für sie geltenden Feststellungsfrist insoweit erfolgen, als die gesonderte Feststellung für eine Steuerfestsetzung von Bedeutung ist, für die die Festsetzungsfrist im Zeitpunkt der gesonderten Feststellung noch nicht abgelaufen ist; hierbei bleibt § 171 Abs. 10 außer Betracht. Hierauf ist im Feststellungsbescheid hinzuweisen. § 169 Abs. 1 Satz 3 gilt sinngemäß.
 
-(+++ § 181: Zur Anwendung vgl. Art. 97 §§ 1 u. 37 AOEG 1977 +++)
+(+++ § 181: Zur Anwendung vgl. Art. 97 §§ 1, 37 u. 39 AOEG 1977 +++)
 
 # § 182 – Wirkungen der gesonderten Feststellung
 
@@ -6966,7 +6970,7 @@ In den Fällen von Satz 1 Nummer 2 können die in Absatz 1 Satz 1 genannten Verw
 
 bekannt zu geben. Bei berechtigtem Interesse ist dem Feststellungsbeteiligten der gesamte Inhalt des Feststellungsbescheids mitzuteilen.
 
-(+++ § 183: Zur Anwendung vgl. Art. 97 § 1 Abs. 10 AOEG 1977 +++)
+(+++ § 183: Zur Anwendung vgl. Art. 97 §§ 1 u. 39 AOEG 1977 +++)
 
 # § 183a – Empfangsbevollmächtigte bei der gesonderten und einheitlichen Feststellung bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen
 
@@ -8650,6 +8654,8 @@ b) wenn Personen nach Buchstabe a nicht vorhanden sind, jeder Gesellschafter, Ge
 5. soweit es sich um eine Frage handelt, die einen Beteiligten persönlich angeht, jeder, der durch die Feststellungen über die Frage berührt wird.
 
 (2) Einspruchsbefugt im Sinne des Absatzes 1 Nummer 2 Buchstabe a ist der gemeinsame Empfangsbevollmächtigte im Sinne des § 183a Absatz 1 Satz 1 oder des § 6 Absatz 1 Satz 1 der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung. Haben die Feststellungsbeteiligten keinen gemeinsamen Empfangsbevollmächtigten bestellt, ist einspruchsbefugt im Sinne des Absatzes 1 Nummer 2 Buchstabe a der nach § 183a Absatz 1 Satz 2 und 3 oder nach § 6 Absatz 1 Satz 3 und 4 der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung von der Finanzbehörde bestimmte Empfangsbevollmächtigte; Absatz 1 Nummer 3 bleibt unberührt. Die Sätze 1 und 2 sind nur anwendbar, wenn die Beteiligten in der Feststellungserklärung oder in der Aufforderung zur Benennung eines Empfangsbevollmächtigten über die Einspruchsbefugnis des Empfangsbevollmächtigten belehrt worden sind.
+
+(+++ § 352: Zur Anwendung vgl. Art. 97 § 39 AOEG 1977 +++)
 
 # § 353 – Einspruchsbefugnis des Rechtsnachfolgers
 
