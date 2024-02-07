@@ -803,6 +803,7 @@
 - [BImADiszV](laws/BImADiszV.md) Verordnung zur Übertragung von Disziplinarbefugnissen auf die Bundesanstalt für Immobilienaufgaben
 - [BImAG](laws/BImAG.md) Gesetz über die Bundesanstalt für Immobilienaufgaben
 - [BImAZustBek](laws/BImAZustBek.md) Bekanntmachung über die Übertragung von Befugnissen und Zuständigkeiten der Bundesanstalt für Immobilienaufgaben
+- [BImAZustBek 2024](laws/BImAZustBek_2024.md) Bekanntmachung über die Übertragung von Befugnissen und Zuständigkeiten der Bundesanstalt für Immobilienaufgaben
 - [BImSchG](laws/BImSchG.md) Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge
 - [BinSch-SportbootVermV](laws/BinSch-SportbootVermV.md) Verordnung über die gewerbsmäßige Vermietung von Sportbooten sowie deren Benutzung auf den Binnenschifffahrtsstraßen
 - [BinSchAbfÜbkAG](laws/BinSchAbfÜbkAG.md) Ausführungsgesetz zum Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt
@@ -4695,6 +4696,7 @@
 - [RentBkGrSchG RP](laws/RentBkGrSchG_RP.md) Landesgesetz über die Rentenbankgrundschuld im Lande Rheinland-Pfalz
 - [RentEPPG](laws/RentEPPG.md) Gesetz zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner
 - [RentSV](laws/RentSV.md) Verordnung über die Wahrnehmung von Aufgaben der Träger der Rentenversicherung und anderer Sozialversicherungsträger durch den Renten Service der Deutschen Post AG
+- [RentÜAV](laws/RentÜAV.md) Verordnung zur Regelung des Stichtags zur verpflichtenden Anbindung der Vorsorgeeinrichtungen und des Anbindungsverfahrens an die Zentrale Stelle für die Digitale Rentenübersicht
 - [RentÜG](laws/RentÜG.md) Gesetz zur Entwicklung und Einführung einer Digitalen Rentenübersicht
 - [ResG](laws/ResG.md) Gesetz über die Rechtsstellung der Reservisten
 - [RestMAProRestPrV](laws/RestMAProRestPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Restaurator im Handwerk oder Geprüfte Restauratorin im Handwerk-Master Professional für Restaurierung im Handwerk
