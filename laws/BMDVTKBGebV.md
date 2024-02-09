@@ -188,3 +188,5 @@ Amateurfunkgesetz (AFuG) und Amateurfunkverordnung (AFuV)
  
 
  
+
+(+++ Anlage Abschnitte 1 und 2: Zur Anwendung vgl. § 6 Abs. 1 +++)
