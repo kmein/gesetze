@@ -298,8 +298,10 @@ b) Anforderungen zu regeln an die Ausstellung, Übertragung und Entwertung von R
 
 # § 15 – Subdelegation an das Bundesamt für Seeschifffahrt und Hydrographie
 
-Das Bundesamt für Seeschifffahrt und Hydrographie wird ermächtigt, durch Rechtsverordnung nach § 12 Absatz 5 Satz 1 des Windenergie-auf-See-Gesetzes für zentral voruntersuchte Flächen in der ausschließlichen Wirtschaftszone festzulegen
+(1) Das Bundesamt für Seeschifffahrt und Hydrographie wird ermächtigt, durch Rechtsverordnung nach § 12 Absatz 5 Satz 1 des Windenergie-auf-See-Gesetzes für zentral voruntersuchte Flächen in der ausschließlichen Wirtschaftszone festzulegen
 
-1. das Ergebnis der Eignungsprüfung, dass die Fläche zur Ausschreibung nach Teil 3 Abschnitt 5 des Windenergie-auf-See-Gesetzes geeignet ist, einschließlich der Feststellung nach § 12 Absatz 5 Satz 2 des Windenergie-auf-See-Gesetzes und der Vorgaben für das spätere Vorhaben nach § 12 Absatz 5 Satz 3 des Windenergie-auf-See-Gesetzes, und
+1. das Ergebnis der Eignungsprüfung, dass die Fläche zur Ausschreibung nach Teil 3 Abschnitt 5 des Windenergie-auf-See-Gesetzes geeignet ist, einschließlich der Feststellung nach § 12 Absatz 5 Satz 2 des Windenergie-auf-See-Gesetzes und der Vorgaben für das spätere Vorhaben nach § 12 Absatz 5 Satz 3 und 4 des Windenergie-auf-See-Gesetzes, und
 
 2. die zu installierende Leistung auf dieser Fläche.
+
+(2) Das Bundesamt für Seeschifffahrt und Hydrographie wird ermächtigt, eine Besondere Gebührenverordnung nach § 22 Absatz 4 des Bundesgebührengesetzes in Verbindung mit § 101 Absatz 1 des Windenergie-auf-See-Gesetzes zu erlassen.
