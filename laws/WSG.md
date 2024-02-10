@@ -88,8 +88,7 @@ Für Personen ohne eigenes Einkommen, die nach § 4 der Bundesbeihilfeverordnung
 Im Fall einer Besoldungsanpassung nach § 14 Absatz 1 des Bundesbesoldungsgesetzes erhöhen oder verringern sich der Wehrsoldgrundbetrag, der Kinderzuschlag und die Auslandsvergütung im gleichen Umfang, um den das Grundgehalt, der Familienzuschlag und der Auslandszuschlag für eine dienstgradgleiche Soldatin auf Zeit oder einen dienstgradgleichen Soldaten auf Zeit erhöht oder verringert werden. Das Bundesministerium der Verteidigung macht die jeweils geltenden Monatsbeträge im Bundesgesetzblatt bekannt.
 
 (+++ Hinweis: Zur Bekanntmachung der nach § 7 Satz 2 geltenden Beträge  
-ab 1.4.2021 u. 1.4.2022 vgl. Bek. v. 31.8.2021 I 4188 (WSG2020§7Satz2Bek 2021)  
-ab 1.3.2024 vgl. Bek. v. 19.1.2024 I Nr. 20 (WSG2020§7Satz2Bek 2024) +++)
+ab 1.4.2021 u. 1.4.2022 vgl. Bek. v. 31.8.2021 I 4188 (WSG2020§7Satz2Bek 2021) u. ab 1.3.2024 vgl. Bek. v. 19.1.2024 I Nr. 20 (WSG2020§7Satz2Bek 2024) +++)
 
 # § 8 – Entlassungsgeld
 
@@ -212,5 +211,4 @@ Geldbezüge nach den §§ 4, 6, 9, 10 und 11 unterliegen dem Kaufkraftausgleich 
 (Fundstelle: BGBl. I 2019, 1161)
 
 (+++ Hinweis: Zur Bekanntmachung der nach § 7 Satz 2 geltenden Beträge nach der Tabelle dieser Anlage  
-ab 1.4.2021 u. 1.4.2022 vgl. Bek. v. 31.8.2021 I 4188 (WSG2020§7Satz2Bek 2021)  
-ab 1.3.2024 vgl. Bek. v. 19.1.2024 I Nr. 20 (WSG2020§7Satz2Bek 2024) +++)
+ab 1.4.2021 u. 1.4.2022 vgl. Bek. v. 31.8.2021 I 4188 (WSG2020§7Satz2Bek 2021) u. ab 1.3.2024 vgl. Bek. v. 19.1.2024 I Nr. 20 (WSG2020§7Satz2Bek 2024) +++)
