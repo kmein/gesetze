@@ -47,6 +47,10 @@ Pflichten der Transportnetzbetreiber
 
 Widerruf der Zertifizierung nach § 4a, nachträgliche Versehung mit Auflagen
 
+§ 4e
+
+Zertifizierung des Betreibers einer Gasspeicheranlage
+
 § 5
 
 Anzeige der Energiebelieferung
@@ -628,7 +632,7 @@ Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnung
 
 § 35c
 
-Ausschreibung von strategischen Optionen zur Vorhaltung von Gas; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit
+Kontrahierung von Befüllungsinstrumenten; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit
 
 § 35d
 
@@ -644,7 +648,7 @@ Evaluierung
 
 § 35g
 
-Inkrafttreten, Außerkrafttreten
+Anwendungsbestimmungen
 
 § 35h
 
@@ -1979,6 +1983,16 @@ Die Transportnetzbetreiber haben die Regulierungsbehörde unverzüglich über al
 # § 4d – Widerruf der Zertifizierung nach § 4a, nachträgliche Versehung mit Auflagen
 
 Die Regulierungsbehörde kann eine Zertifizierung nach § 4a oder § 4b widerrufen oder erweitern oder eine Zertifizierung nachträglich mit Auflagen versehen sowie Auflagen ändern oder ergänzen, soweit auf Grund geänderter tatsächlicher Umstände eine Neubewertung der Zertifizierungsvoraussetzungen erforderlich wird. Die Regulierungsbehörde kann eine Zertifizierung auch nachträglich mit Auflagen versehen sowie Auflagen ändern oder ergänzen. Insbesondere kann sie dem Transportnetzbetreiber Maßnahmen aufgeben, die erforderlich sind, um zu gewährleisten, dass der Transportnetzbetreiber die Anforderungen der §§ 8 bis 10e erfüllt. § 65 bleibt unberührt.
+
+# § 4e – Zertifizierung des Betreibers einer Gasspeicheranlage
+
+(1) Das Verfahren zur Zertifizierung des Betreibers einer Gasspeicheranlage nach Artikel 3a der Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Bedingungen für den Zugang zu den Erdgasfernleitungsnetzen und zur Aufhebung der Verordnung (EG) Nr. 1775/2005 (ABl. L 211 vom 14.8.2009, S. 36; L 229 vom 1.9.2009, S. 29; L 309 vom 24.11.2009, S. 87) in der jeweils geltenden Fassung beginnt auf schriftlichen Antrag des Betreibers einer Gasspeicheranlage bei der Bundesnetzagentur oder wird von der Bundesnetzagentur von Amts wegen eingeleitet. Mit dem Antrag auf Zertifizierung hat der Betreiber der Gasspeicheranlage die für die Durchführung des Zertifizierungsverfahrens erforderlichen Unterlagen der Bundesnetzagentur elektronisch zur Verfügung zu stellen. Im Falle der Verfahrenseinleitung von Amts wegen hat der Betreiber der Gasspeicheranlage die Unterlagen nach Satz 2 auf Verlangen der Bundesnetzagentur elektronisch zur Verfügung zu stellen. Die nach Satz 2 oder 3 zur Verfügung zu stellenden Unterlagen hat die Bundesnetzagentur dem Bundesministerium für Wirtschaft und Klimaschutz elektronisch zur Verfügung zu stellen, soweit diese für die Prüfung nach Artikel 3a Absatz 3 der Verordnung (EG) Nr. 715/2009 erforderlich sind. Auf Verlangen der Bundesnetzagentur oder des Bundesministeriums für Wirtschaft und Klimaschutz sind die nach Satz 2, 3 oder 4 elektronisch zur Verfügung zu stellenden Unterlagen zusätzlich auch schriftlich zu übermitteln.
+
+(2) Die Bundesnetzagentur nimmt im Rahmen des Zertifizierungsverfahrens die Aufgaben nach Artikel 3a Absatz 2 bis 7 und 10 der Verordnung (EG) Nr. 715/2009 wahr. Die Bundesnetzagentur kann hierbei zu Fragen der Beeinträchtigung der wesentlichen Sicherheitsinteressen insbesondere auch das Bundesministerium des Innern und für Heimat beteiligen. Dem Bundesministerium des Innern und für Heimat können die zur entsprechenden Prüfung erforderlichen Unterlagen durch die Bundesnetzagentur zur Verfügung gestellt werden.
+
+(3) Das Bundesministerium für Wirtschaft und Klimaschutz erstellt die für die Prüfung nach Artikel 3a Absatz 3 der Verordnung (EG) Nr. 715/2009 zu Grunde zu legende Bewertung und übermittelt diese an die Bundesnetzagentur.
+
+(4) Die Zertifizierungsentscheidung der Bundesnetzagentur wird im Amtsblatt der Bundesnetzagentur gemeinsam mit der Stellungnahme der Europäischen Kommission unter Verwendung nicht personenbezogener Daten veröffentlicht.
 
 # § 5 – Anzeige der Energiebelieferung
 
@@ -4370,37 +4384,42 @@ Sofern ein Antrag nicht die Voraussetzungen des Satzes 1 erfüllt, weist die Reg
 
 2. am 1. November: 90 Prozent.
 
-3. am 1. Februar: 40 Prozent.
+3. am 1. Februar: 30 Prozent.
 
 (2) Um die Einhaltung der Füllstandsvorgaben nach Absatz 1 Satz 2 zu gewährleisten, hat der Betreiber einer Gasspeicheranlage bereits am 1. August eines Kalenderjahres einen Füllstand nachzuweisen, der die Erreichung der Füllstandsvorgaben nicht gefährdet.
 
 (3) Das Bundesministerium für Wirtschaft und Klimaschutz kann durch Rechtsverordnung ohne Zustimmung des Bundesrates abweichende Regelungen zu den relevanten Stichtagen und Füllstandsvorgaben nach Absatz 1 Satz 2 und Absatz 2 festlegen, soweit die Sicherheit der Gasversorgung dabei angemessen berücksichtigt bleibt.
 
-(4) Der Betreiber einer Gasspeicheranlage hat den Nachweis über die Einhaltung der Vorgaben aus Absatz 1 Satz 2 und Absatz 2 sowie, soweit eine Rechtsverordnung nach Absatz 3 erlassen wurde, die Einhaltung der darin enthaltenen Vorgaben, gegenüber dem Bundesministerium für Wirtschaft und Klimaschutz, der Bundesnetzagentur und dem Marktgebietsverantwortlichen schriftlich oder elektronisch zu erbringen. Der Betreiber einer Gasspeicheranlage muss im Rahmen von Satz 1 nachweisen, ob Gas physisch in den Gasspeicheranlagen in entsprechender Menge eingelagert ist. Zusätzlich zum Nachweis nach Satz 1 hat der Betreiber einer Gasspeicheranlage der Bundesnetzagentur und dem Marktgebietsverantwortlichen insbesondere folgende Angaben zu übermitteln:
+(4) Der Betreiber einer Gasspeicheranlage hat den Nachweis über die Einhaltung der Vorgaben aus Absatz 1 Satz 2 und Absatz 2 sowie, soweit eine Rechtsverordnung nach Absatz 3 erlassen wurde, die Einhaltung der darin enthaltenen Vorgaben, gegenüber dem Bundesministerium für Wirtschaft und Klimaschutz, der Bundesnetzagentur und dem Marktgebietsverantwortlichen schriftlich oder elektronisch zu erbringen. Der Betreiber einer Gasspeicheranlage muss im Rahmen von Satz 1 nachweisen, ob Gas physisch in den Gasspeicheranlagen in entsprechender Menge eingelagert ist; gegenüber der Bundesnetzagentur sind die entsprechenden technischen Kennlinien vorzulegen, die beschreiben, welcher Füllstand zu welchem Zeitpunkt notwendig ist, um die Füllstandsvorgaben erreichen zu können (Füllstandskennlinie). Wird diese Füllstandskennlinie erreicht oder unterschritten, ist der Betreiber einer Gasspeicheranlage verpflichtet, die nachfolgenden Angaben entsprechend gesondert je betroffenem Nutzer einer Gasspeicherspeicheranlage elektronisch an die Bundesnetzagentur zu übermitteln:
 
-1. die prozentualen Füllstände sowie die Füllstände in Kilowattstunden,
+1. die prozentualen Füllstände sowie Füllstände in Kilowattstunden,
 
-2. den Nachweis darüber, dass der jeweilige Gasspeicher die Voraussetzungen nach § 35a Absatz 2 Satz 1 erfüllt sowie
+2. den Nachweis darüber, dass der jeweilige Gasspeicher die Voraussetzungen nach § 35a Absatz 2 Satz 1 erfüllt, sowie
 
 3. sonstige im Zusammenhang mit der Erfüllung der Füllstandsvorgaben relevante Informationen.
 
-Die Mitteilungen nach Satz 3 müssen elektronisch in einem mit der Bundesnetzagentur und dem Marktgebietsverantwortlichen abgestimmten Datenformat einmal wöchentlich übermittelt werden, auf Verlagen der Bundesnetzagentur oder des Marktgebietsverantwortlichen in kürzeren Zeitabständen. Sofern die Angaben nach Satz 3 Nummer 1 zur Überprüfung und Sicherstellung der Füllstandsvorgaben nicht ausreichend sind, kann die Bundesnetzagentur die Angaben nach Satz 3 Nummer 1 je Nutzer der Gasspeicheranlage verlangen.
+Satz 3 ist entsprechend für Maßnahmen nach § 35c Absatz 2 Satz 3 anzuwenden. Die Bundesnetzagentur kann die Daten nach Satz 3 dem Marktgebietsverantwortlichen sowie dem Bundesministerium für Wirtschaft und Klimaschutz zur Verfügung stellen, wobei die Betriebs- und Geschäftsgeheimnisse der Nutzer der Gasspeicheranlagen angemessen zu wahren sind.
 
-(5) Wenn erkennbar ist, dass die Füllstandsvorgaben nach Absatz 1 Satz 2, soweit eine Rechtsverordnung nach Absatz 3 erlassen wurde die darin enthaltenen Vorgaben, oder Absatz 3 technisch nicht erreicht werden können, weil der Nutzer einer Gasspeicheranlage die von ihm auf fester Basis gebuchten Arbeitsgasvolumina (Speicherkapazitäten) nicht nutzt, ist der Betreiber einer Gasspeicheranlage verpflichtet, dem Marktgebietsverantwortlichen die nicht genutzten Speicherkapazitäten der Nutzer der Gasspeicheranlage rechtzeitig anteilig nach dem Maß der Nichtnutzung des Nutzers in dem zur Erreichung der Füllstandsvorgaben erforderlichen Umfang bis zum Ablauf des Speicherjahres zur Verfügung zu stellen; hierzu gehört auch die Ein- und Ausspeicherleistung.
+(5) Wenn erkennbar ist, dass die Füllstandsvorgaben nach Absatz 1 Satz 2, soweit eine Rechtsverordnung nach Absatz 3 erlassen wurde, die darin enthaltenen Vorgaben, technisch nicht erreicht werden können, weil der Nutzer einer Gasspeicheranlage die von ihm auf fester Basis gebuchten Arbeitsgasvolumina (Speicherkapazitäten) nicht nutzt, ist der Betreiber einer Gasspeicheranlage verpflichtet, dem Marktgebietsverantwortlichen die nicht genutzten Speicherkapazitäten der Nutzer der Gasspeicheranlage rechtzeitig anteilig nach dem Maß der Nichtnutzung des Nutzers in dem zur Erreichung der Füllstandsvorgaben erforderlichen Umfang bis zum Ablauf des Speicherjahres zur Verfügung zu stellen. Im Fall des Satzes 1 sind auch die Ein- und Ausspeicherleistung anteilig zur Verfügung zu stellen.
 
 (6) Der Betreiber einer Gasspeicheranlage hat in einem Vertrag über die Nutzung einer Gasspeicheranlage vertragliche Bestimmungen aufzunehmen, welche ihn berechtigen, von dem Nutzer nicht genutzte Speicherkapazitäten dem Marktgebietsverantwortlichen zur Verfügung zu stellen, soweit hinsichtlich des Nutzers die Voraussetzungen nach Absatz 5 vorliegen. Der Nutzer einer Gasspeicheranlage, dessen Speicherkapazitäten der Betreiber der Gasspeicheranlage dem Marktgebietsverantwortlichen zur Verfügung gestellt hat, bleibt zur Zahlung der Entgelte für die Speichernutzung verpflichtet mit Ausnahme der variablen Speicherentgelte für die Ein- und Ausspeisung. Eine von Satz 2 abweichende vertragliche Vereinbarung ist unwirksam. Auf Aufforderung der Bundesnetzagentur weist der Betreiber einer Gasspeicheranlage die Umsetzung der Verpflichtung nach Absatz 5 nach.
 
 (7) Das Bundesministerium für Wirtschaft und Klimaschutz kann ohne Zustimmung des Bundesrates durch Rechtsverordnung ein von Absatz 5 und 6 abweichendes Verfahren über die Zurverfügungstellung vom Nutzer einer Gasspeicheranlage ungenutzter Kapazitäten an den Marktgebietsverantwortlichen regeln, soweit dies zur Gewährleistung der Versorgungssicherheit erforderlich ist. Hierzu kann unter Berücksichtigung der technischen und wirtschaftlichen Rahmenbedingungen insbesondere geregelt werden, ob die vom Nutzer einer Gasspeicheranlage ungenutzten Speicherkapazitäten als unterbrechbare Kapazitäten durch den Marktgebietsverantwortlichen genutzt werden dürfen.
 
-# § 35c – Ausschreibung von strategischen Optionen zur Vorhaltung von Gas; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit
+(+++ § 35b: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 +++)  
+(+++ § 35b Abs. 5 Satz 3: Zur Anwendung ab dem 1.4.2024 vgl. § 35g Abs. 1 +++)
 
-(1) Zur Gewährleistung der Versorgungssicherheit hat der Marktgebietsverantwortliche nach Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz im Einvernehmen mit der Bundesnetzagentur in marktbasierten, transparenten und nichtdiskriminierenden öffentlichen Ausschreibungsverfahren strategische Optionen zur Vorhaltung von Gas (Gas-Optionen) in angemessenem Umfang zur Gewährleistung der Erreichung der Füllstände nach § 35b zu beschaffen.
+# § 35c – Kontrahierung von Befüllungsinstrumenten; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit
 
-(2) Sollten Maßnahmen nach Absatz 1 sowie Einspeicherungen der Nutzer einer Gasspeicheranlage zur Erreichung der Füllstände nach § 35b Absatz 1 sowie Absatz 3 nicht ausreichen, so ergreift der Marktgebietsverantwortliche nach Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz im Einvernehmen mit der Bundesnetzagentur in dem zur Erreichung der Füllstandsvorgaben erforderlichen Umfang zusätzliche Maßnahmen. Diese umfassen die zusätzliche, auch kurzfristige Ausschreibung von Gas-Optionen für die nach § 35b Absatz 5 zur Verfügung gestellten Kapazitäten in einem marktbasierten, transparenten und nichtdiskriminierenden öffentlichen Ausschreibungsverfahren sowie den Erwerb physischen Gases und dessen Einspeicherung. Sofern die nach § 35b Absatz 5 zur Verfügung gestellten Kapazitäten hierzu nicht ausreichen, kann der Marktgebietsverantwortliche die benötigten Speicherkapazitäten buchen, wobei als Speicherentgelt hierfür das durchschnittlich kostengünstigste Speicherentgelt der letzten drei Speicherjahre für die jeweilige Gasspeicheranlage zu Grunde gelegt wird.
+(1) Zur Gewährleistung der Versorgungssicherheit hat der Marktgebietsverantwortliche nach Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz im Einvernehmen mit der Bundesnetzagentur in marktbasierten, transparenten und nichtdiskriminierenden öffentlichen Ausschreibungsverfahren strategische Instrumente zur Förderung der Erreichung der Füllstandsvorgaben (Befüllungsinstrumente) in angemessenem Umfang zur Gewährleistung der Erreichung der Füllstände nach § 35b zu beschaffen.
+
+(2) Sollten Maßnahmen nach Absatz 1 sowie Einspeicherungen der Nutzer einer Gasspeicheranlage zur Erreichung der Füllstände nach § 35b Absatz 1 sowie Absatz 3 nicht ausreichen, so ergreift der Marktgebietsverantwortliche nach Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz im Einvernehmen mit der Bundesnetzagentur in dem zur Erreichung der Füllstandsvorgaben erforderlichen Umfang zusätzliche Maßnahmen. Diese umfassen die zusätzliche, auch kurzfristige Ausschreibung von Befüllungsinstrumenten für die nach § 35b Absatz 5 zur Verfügung gestellten Kapazitäten in einem marktbasierten, transparenten und nichtdiskriminierenden öffentlichen Ausschreibungsverfahren sowie den Erwerb physischen Gases und dessen Einspeicherung. Sofern die nach § 35b Absatz 5 zur Verfügung gestellten Kapazitäten hierzu nicht ausreichen, kann der Marktgebietsverantwortliche die benötigten Speicherkapazitäten buchen, wobei der Marktgebietsverantwortliche hierfür ein Speicherentgelt zu zahlen hat, das sich rechnerisch ergibt, indem für die jeweilige Gasspeicheranlage für die letzten drei abgeschlossenen Speicherjahre jeweils ein durchschnittliches Speicherentgelt ermittelt und das niedrigste dieser drei durchschnittlichen Speicherentgelte herangezogen wird.
+
+(+++ § 35c: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 +++)
 
 # § 35d – Freigabeentscheidung
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit der Bundesnetzagentur und nach Anhörung des Marktgebietsverantwortlichen anordnen, dass der Marktgebietsverantwortliche nach § 35c beschaffte Gas-Optionen ganz oder teilweise ausüben darf und dass er nach § 35c Absatz 2 erworbene Gasmengen ganz oder teilweise ausspeichern darf, insbesondere
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann im Einvernehmen mit der Bundesnetzagentur und nach Anhörung des Marktgebietsverantwortlichen anordnen, dass der Marktgebietsverantwortliche nach § 35c kontrahierte Befüllungsinstrumente ganz oder teilweise ausüben darf, sofern sie abrufbare Mengen beinhalten, und dass er nach § 35c Absatz 2 erworbene Gasmengen ganz oder teilweise ausspeichern darf, insbesondere
 
 1. zur Verhütung unmittelbar drohender oder zur Behebung eingetretener Störungen in der Energieversorgung
 
@@ -4416,6 +4435,8 @@ Satz 1 gilt entsprechend für die Anordnung, dass vorübergehend und in Abweichu
 
 (4) Der Marktgebietsverantwortliche hat die nach § 35c Absatz 2 physisch erworbenen Gasmengen spätestens ab dem 1. Januar eines Jahres bis zum Ende des Speicherjahres gleichmäßig zu veräußern. Der Marktgebietsverantwortliche hat das Bundesministerium für Wirtschaft und Klimaschutz sowie die Bundesnetzagentur mindestens zwei Wochen vor dem Beginn der Veräußerungen nach Satz 1 schriftlich oder elektronisch zu informieren. Satz 1 gilt nicht, wenn zu erwarten ist, dass die Füllstandsvorgaben nach § 35b Absatz 1 oder nach der Rechtsverordnung nach § 35b Absatz 3 in der Folgeperiode nicht ohne Maßnahmen nach § 35c Absatz 2 gewährleistet werden können oder das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit der Bundesnetzagentur der Veräußerung widersprochen hat. Absatz 1 bleibt unberührt.
 
+(+++ § 35d: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 +++)
+
 # § 35e – Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung
 
 Die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen Aufgaben zur Sicherstellung der Versorgungssicherheit entstehenden Kosten werden diskriminierungsfrei und in einem transparenten Verfahren auf die Bilanzkreisverantwortlichen im Marktgebiet umgelegt. Hierzu hat der Marktgebietsverantwortliche die Kosten und Erlöse, die im Rahmen der ergriffenen Maßnahmen nach diesem Teil, insbesondere nach den §§ 35c und 35d, entstehen, transparent und für Dritte nachvollziehbar zu ermitteln. Die Kosten und Erlöse sind zu saldieren. Der Marktgebietsverantwortliche ist berechtigt, von den Bilanzkreisverantwortlichen Abschlagszahlungen zur Deckung der voraussichtlichen Kosten zu verlangen. Die Einzelheiten genehmigt die Bundesnetzagentur im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium der Finanzen nach § 29 Absatz 1; dem Marktgebietsverantwortlichen ist Gelegenheit zur Stellungnahme zu geben.
@@ -4424,9 +4445,11 @@ Die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen Aufgaben zur Sic
 
 Das Bundesministerium für Wirtschaft und Klimaschutz bewertet bis zum 15. Dezember 2022 die Umsetzung der Vorschriften dieses Teils und evaluiert bis zum 1. April 2023 die Vorschriften dieses Teils und deren Auswirkungen. Die Berichte sind unverzüglich dem Deutschen Bundestag vorzulegen.
 
-# § 35g – Inkrafttreten, Außerkrafttreten
+# § 35g – Anwendungsbestimmungen
 
-Die gesetzlichen Regelungen zur Einführung von Füllstandsvorgaben für Gasspeicheranlagen treten am Tag nach der Verkündung in Kraft. Sie treten am 1. April 2025 außer Kraft.
+(1) Der § 35b Absatz 5 Satz 3 ist ab dem 1. April 2024 anzuwenden.
+
+(2) Die §§ 35a bis 35f sind bis zum Ablauf des 31. März 2027 anzuwenden.
 
 # § 35h – Außerbetriebnahme und Stilllegung von Gasspeichern
 
@@ -4436,7 +4459,7 @@ Die gesetzlichen Regelungen zur Einführung von Füllstandsvorgaben für Gasspei
 
 (3) Die Genehmigung kann nur erteilt werden, wenn hiervon keine nachteiligen Auswirkungen auf die Versorgungssicherheit der Bundesrepublik Deutschland oder der Europäischen Union ausgehen oder wenn der Weiterbetrieb technisch nicht möglich ist. Nur unerhebliche nachteilige Auswirkungen auf die Versorgungssicherheit der Bundesrepublik Deutschland oder der Europäischen Union sind im Rahmen des Satzes 1 unbeachtlich. Der Betreiber einer Gasspeicheranlage hat im Rahmen der ihm zur Verfügung stehenden Möglichkeiten den Nachweis für das Vorliegen der Genehmigungsvoraussetzungen zu erbringen.
 
-(4) Wird die Genehmigung versagt, so bleibt der Betreiber einer Gasspeicheranlage zum Betrieb nach § 11 Absatz 1 Satz 1 verpflichtet. Der Betreiber einer Gasspeicheranlage kann die vorläufige oder endgültige Außerbetriebnahme oder Stilllegung frühestens wieder nach Ablauf von 24 Monaten beantragen. Überträgt der Betreiber einer Gasspeicheranlage den Betrieb einem Dritten, so ist er so lange zum Weiterbetrieb verpflichtet, bis der Dritte in der Lage ist, den Betrieb im Sinne des § 11 Absatz 1 Satz 1 ohne zeitliche Unterbrechung fortzuführen. Kann der Betreiber einer Gasspeicheranlage den Betrieb im Sinne des § 11 Absatz 1 Satz 1 selbst nicht mehr gewährleisten, so hat er unverzüglich durch geeignete Maßnahmen, wie etwa eine Betriebsübertragung auf Dritte oder die Erbringung der Betriebsführung als Dienstleistung für einen Dritten oder durch einen Dritten, den Weiterbetrieb zu gewährleisten. Bleiben Maßnahmen nach Satz 4 erfolglos, kann die Bundesnetzagentur im Einzelfall die zur Sicherstellung des Weiterbetriebs erforderlichen Maßnahmen gegenüber dem Betreiber einer Gasspeicheranlage treffen. Tragen Dritte zum sicheren Betrieb der Gasspeicheranlage bei und ist der Weiterbetrieb ohne sie nicht möglich, so gilt die Befugnis nach Satz 5 auch gegenüber diesen Dritten.
+(4) Wird die Genehmigung versagt oder werden die Gasspeicheranlage, Teile einer Gasspeicheranlage oder Teile des betreffenden Netzanschlusses ohne die nach Absatz 2 Satz 1 hierfür erforderliche Genehmigung ganz oder teilweise außer Betrieb genommen oder stillgelegt, so bleibt der Betreiber einer Gasspeicheranlage zum Betrieb nach § 11 Absatz 1 Satz 1 verpflichtet. Der Betreiber einer Gasspeicheranlage kann die vorläufige oder endgültige Außerbetriebnahme oder Stilllegung frühestens wieder nach Ablauf von 24 Monaten beantragen. Überträgt der Betreiber einer Gasspeicheranlage den Betrieb einem Dritten, so ist er so lange zum Weiterbetrieb verpflichtet, bis der Dritte in der Lage ist, den Betrieb im Sinne des § 11 Absatz 1 Satz 1 ohne zeitliche Unterbrechung fortzuführen. Kann der Betreiber einer Gasspeicheranlage den Betrieb im Sinne des § 11 Absatz 1 Satz 1 selbst nicht mehr gewährleisten, so hat er unverzüglich durch geeignete Maßnahmen, wie etwa eine Betriebsübertragung auf Dritte oder die Erbringung der Betriebsführung als Dienstleistung für einen Dritten oder durch einen Dritten, den Weiterbetrieb zu gewährleisten. Bleiben Maßnahmen nach Satz 4 erfolglos, kann die Bundesnetzagentur im Einzelfall die zur Sicherstellung des Weiterbetriebs erforderlichen Maßnahmen gegenüber dem Betreiber einer Gasspeicheranlage treffen. Tragen Dritte zum sicheren Betrieb der Gasspeicheranlage bei und ist der Weiterbetrieb ohne sie nicht möglich, so gilt die Befugnis nach Satz 5 auch gegenüber diesen Dritten.
 
 (5) Soweit bei Vorhaben nach § 2 Absatz 2 Satz 1 Nummer 1 und 2 des Bundesberggesetzes vom 13. August 1980 (BGBl. I S. 1310), das zuletzt durch Artikel 1 des Gesetzes vom 14. Juni 2021 (BGBl. I S. 1760) geändert worden ist, zur Abwehr dringender Gefahren für Leib und Leben oder eines Umweltschadens im Sinne des § 2 Nummer 1 des Umweltschadensgesetzes in der Fassung der Bekanntmachung vom 5. März 2021 (BGBl. I S. 346) oder zur weiteren dauerhaften Aufrechterhaltung der Funktionsfähigkeit eine vorläufige oder endgültige Außerbetriebnahme oder Stilllegung aufgrund einer Anordnung der zuständigen Behörde nach § 142 des Bundesberggesetzes notwendig ist, kann die zuständige Behörde abweichend von den Absätzen 1 bis 3 eine entsprechende Anordnung treffen. Die zuständige Behörde konsultiert vor ihrer Anordnung die Bundesnetzagentur. Satz 2 gilt nicht, wenn aufgrund von Gefahr in Verzug eine sofortige Anordnung notwendig ist; in diesem Fall wird die Bundesnetzagentur unverzüglich von der zuständigen Behörde über die Anordnung in Kenntnis gesetzt. Die nach § 61 Absatz 1 Satz 2 Nummer 2 des Bundesberggesetzes resultierenden Pflichten des Unternehmers gelten unbeschadet der Regelungen der Absätze 1 bis 4. Der Betreiber einer Gasspeicheranlage ist verpflichtet, nach einer Anordnung nach Satz 1 den Speicher oder die Einrichtung unverzüglich wieder in einen betriebsbereiten Zustand zu versetzen, soweit dies technisch möglich ist.
 
@@ -5301,7 +5324,7 @@ Wenn neue oder weitergehende technische Schutzmaßnahmen an den beeinflussten te
 
 # § 49b – Temporäre Höherauslastung
 
-(1) Dürfen Betreiber von Anlagen, die nach § 13b Absatz 4 und 5, nach § 13d und nach Maßgabe der Netzreserveverordnung in der Netzreserve vorgehalten werden und die kein Erdgas zur Erzeugung elektrischer Energie einsetzen, aufgrund einer Rechtsverordnung nach § 50a befristet am Strommarkt teilnehmen, ist während dieses Zeitraums eine betriebliche Höherauslastung des Höchstspannungsnetzes ohne vorherige Genehmigung zulässig (temporäre Höherauslastung). Die Höherauslastung im Sinne dieser Vorschrift ist die Erhöhung der Stromtragfähigkeit ohne Erhöhung der zulässigen Betriebsspannung. Maßnahmen, die für eine temporäre Höherauslastung erforderlich sind und die unter Beibehaltung der Masten lediglich die Auslastung der Leitung anpassen und keine oder allenfalls geringfügige und punktuelle bauliche Änderungen erfordern, sind zulässig. § 4 Absatz 1 und 2 der Verordnung über elektromagnetische Felder in der Fassung der Bekanntmachung vom 14. August 2013 (BGBl. I S. 3266) ist bei Änderungen von Niederfrequenzanlagen, die durch den Beginn oder die Beendigung der temporären Höherauslastung bedingt sind, nicht anzuwenden.
+(1) Bis zum Ablauf des 31. März 2027 dürfen Betreiber von Übertragungsnetzen das Höchstspannungsnetz ohne vorherige Genehmigung betrieblich höher auslasten (temporäre Höherauslastung). Die Höherauslastung im Sinne dieser Vorschrift ist die Erhöhung der Stromtragfähigkeit ohne Erhöhung der zulässigen Betriebsspannung. Maßnahmen, die für eine temporäre Höherauslastung erforderlich sind und die unter Beibehaltung der Masten lediglich die Auslastung der Leitung anpassen und keine oder allenfalls geringfügige und punktuelle bauliche Änderungen erfordern, sind zulässig. § 4 Absatz 1 und 2 der Verordnung über elektromagnetische Felder in der Fassung der Bekanntmachung vom 14. August 2013 (BGBl. I S. 3266) ist bei Änderungen von Niederfrequenzanlagen, die durch den Beginn oder die Beendigung der temporären Höherauslastung bedingt sind, nicht anzuwenden.
 
 (2) Der zuständigen Behörde ist die temporäre Höherauslastung vor deren Beginn anzuzeigen. Der Anzeige ist ein Nachweis über die Einhaltung der Anforderungen an die magnetische Flussdichte nach den §§ 3 und 3a der Verordnung über elektromagnetische Felder beizufügen. Anzeige und Nachweis ersetzen die Anzeige nach § 7 Absatz 2 der Verordnung über elektromagnetische Felder. Die Beendigung der temporären Höherauslastung ist der zuständigen Behörde ebenfalls anzuzeigen.
 
@@ -6563,7 +6586,13 @@ zuwiderhandelt,
 
 3i. entgegen § 13g Absatz 4 Satz 1 Strom erzeugt,
 
-4. entgegen § 30 Abs. 1 Satz 1 eine Marktstellung missbraucht oder
+4. entgegen § 30 Abs. 1 Satz 1 eine Marktstellung missbraucht,
+
+4a. entgegen § 35b Absatz 5 Satz 1 oder Satz 2 die Speicherkapazitäten oder die Ein- und Ausspeicherleistung nicht, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+
+4b. ohne Genehmigung nach § 35h Absatz 2 Satz 1 eine Gasspeicheranlage, einen Teil einer solchen Anlage oder einen Netzanschluss außer Betrieb nimmt oder stilllegt,
+
+4c. ohne Genehmigung nach § 35h Absatz 7 Satz 1 eine Gasspeicheranlage von L-Gas auf H-Gas umstellt oder L-Gas-Speicherkapazitäten reduziert oder
 
 5. einer Rechtsverordnung nach
 
