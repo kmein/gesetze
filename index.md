@@ -37,6 +37,7 @@
 - [ABZusGrBrückVtrCESG](laws/ABZusGrBrückVtrCESG.md) Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluß der deutschen Autobahn A 6 und der tschechischen Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke
 - [ABZusGrBrückVtrCESNotw](laws/ABZusGrBrückVtrCESNotw.md) Verbalnote zum Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluß der deutschen Autobahn A 6 und der tschechischen Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke
 - [ABZusPolAbkG](laws/ABZusPolAbkG.md) Gesetz zu dem Abkommen vom 23. April 1993 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß im Raum Frankfurt/Oder und Schwetig
+- [AckerBoSaatV 2024](laws/AckerBoSaatV_2024.md) Verordnung über besondere Anforderungen an Saatgut von Ackerbohnen im Rahmen der Saatgutanerkennung 2024
 - [AdenauerHStiftG](laws/AdenauerHStiftG.md) Gesetz über die Errichtung einer Stiftung Bundeskanzler-Adenauer-Haus
 - [AdG](laws/AdG.md) Gesetz über die Annahme als Kind und zur Änderung anderer Vorschriften
 - [AdKG](laws/AdKG.md) Gesetz zur Errichtung der Akademie der Künste
@@ -2323,6 +2324,7 @@
 - [GAPAusnV](laws/GAPAusnV.md) Verordnung zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Ausnahmeregelungen hinsichtlich der Anwendung der Standards für den guten landwirtschaftlichen und ökologischen Zustand (GLÖZ-Standards) 7 und 8 für das Antragsjahr 2023
 - [GAPDZG](laws/GAPDZG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik finanzierten Direktzahlungen
 - [GAPDZV](laws/GAPDZV.md) Verordnung zur Durchführung der GAP-Direktzahlungen
+- [GAPDZV§8Nr7Bek](laws/GAPDZV§8Nr7Bek.md) Bekanntmachung zu § 8 Nummer 7 der GAP-Direktzahlungen-Verordnung
 - [GAPFinISchG](laws/GAPFinISchG.md) Gesetz zur Regelung einzelner dem Schutz der finanziellen Interessen der Union dienender Bestimmungen im Rahmen der Gemeinsamen Agrarpolitik
 - [GAPInVeKoSG](laws/GAPInVeKoSG.md) Gesetz zur Durchführung des im Rahmen der Gemeinsamen Agrarpolitik einzuführenden Integrierten Verwaltungs- und Kontrollsystems
 - [GAPInVeKoSV](laws/GAPInVeKoSV.md) Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems
