@@ -971,14 +971,14 @@ Höchstspannungsleitungen Netzausbau und Verstärkung Berlin, Drehstrom, Nennspa
 –  
 Höchstspannungsleitungen Punkt Biesdorf Süd – Wuhlheide
 
-A1, F, G
+ 
 
  
 
 –  
 Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-Kreuzberg (Berlin)
 
- 
+A1, F, G
 
  
 
