@@ -17,7 +17,7 @@
 
 # § 2 – Vergabe von Bauaufträgen
 
-Für die Vergabe von Bauaufträgen sind Abschnitt 1 und Abschnitt 2, Unterabschnitt 2 anzuwenden. Im Übrigen ist Teil A Abschnitt 2 der Vergabe- und Vertragsordnung für Bauleistungen in der Fassung der Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2) anzuwenden.
+Für die Vergabe von Bauaufträgen sind Abschnitt 1 und Abschnitt 2, Unterabschnitt 2 anzuwenden. Im Übrigen ist Teil A Abschnitt 2 der Vergabe- und Vertragsordnung für Bauleistungen in der Fassung der Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2), der zuletzt durch die Bekanntmachung vom 6. September 2023 (BAnz AT 25.09.2023 B4) geändert worden ist, anzuwenden.
 
 # § 3 – Schätzung des Auftragswerts
 
@@ -37,7 +37,7 @@ Für die Vergabe von Bauaufträgen sind Abschnitt 1 und Abschnitt 2, Unterabschn
 
 (8) Kann ein Vorhaben zum Zweck des Erwerbs gleichartiger Lieferungen zu einem Auftrag führen, der in mehreren Losen vergeben wird, ist der geschätzte Gesamtwert aller Lose zugrunde zu legen.
 
-(9) Der öffentliche Auftraggeber kann bei der Vergabe einzelner Lose von Absatz 7 Satz 3 sowie Absatz 8 abweichen, wenn der geschätzte Nettowert des betreffenden Loses bei Liefer- und Dienstleistungen unter 80 000 Euro und bei Bauleistungen unter 1 Million Euro liegt und die Summe der Nettowerte dieser Lose 20 Prozent des Gesamtwertes aller Lose nicht übersteigt.
+(9) Der öffentliche Auftraggeber kann bei der Vergabe einzelner Lose von Absatz 7 Satz 2 sowie Absatz 8 abweichen, wenn der geschätzte Nettowert des betreffenden Loses bei Liefer- und Dienstleistungen unter 80 000 Euro und bei Bauleistungen unter 1 Million Euro liegt und die Summe der Nettowerte dieser Lose 20 Prozent des Gesamtwertes aller Lose nicht übersteigt.
 
 (10) Bei regelmäßig wiederkehrenden Aufträgen oder Daueraufträgen über Liefer- oder Dienstleistungen sowie bei Liefer- oder Dienstleistungsaufträgen, die innerhalb eines bestimmten Zeitraums verlängert werden sollen, ist der Auftragswert zu schätzen
 

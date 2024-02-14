@@ -1,4 +1,4 @@
-% Gesetz zur Ausstellung, Übertragung und Entwertung von Herkunftsnachweisen sowie zur Schaffung eines Herkunftsnachweisregisters für gasförmige Energieträger und eines Herkunftsnachweisregisters für Wärme oder Kälte aus erneuerbaren Energien  (Herkunftsnachweisregistergesetz - HkNRG)
+% Gesetz zur Ausstellung, Übertragung und Entwertung von Herkunftsnachweisen sowie zur Schaffung von Herkunftsnachweisregistern für Gas, Wärme oder Kälte aus erneuerbaren Energien  (Herkunftsnachweisregistergesetz - HkNRG)
 % Ausfertigungsdatum: 04.01.2023
  
 # Inhaltsübersicht
