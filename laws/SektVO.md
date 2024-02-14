@@ -29,7 +29,7 @@
 
 (8) Kann ein Vorhaben zum Zweck des Erwerbs gleichartiger Lieferungen zu einem Auftrag führen, der in mehreren Losen vergeben wird, ist der geschätzte Gesamtwert aller Lose zugrunde zu legen.
 
-(9) Der Auftraggeber kann bei der Vergabe einzelner Lose von Absatz 7 Satz 3 sowie Absatz 8 abweichen, wenn der geschätzte Nettowert des betreffenden Loses bei Liefer- und Dienstleistungsaufträgen unter 80 000 Euro und bei Bauleistungen unter 1 Million Euro liegt und die Summe der Nettowerte dieser Lose 20 Prozent des Gesamtwertes aller Lose nicht übersteigt.
+(9) Der Auftraggeber kann bei der Vergabe einzelner Lose von Absatz 7 Satz 2 sowie Absatz 8 abweichen, wenn der geschätzte Nettowert des betreffenden Loses bei Liefer- und Dienstleistungsaufträgen unter 80 000 Euro und bei Bauleistungen unter 1 Million Euro liegt und die Summe der Nettowerte dieser Lose 20 Prozent des Gesamtwertes aller Lose nicht übersteigt.
 
 (10) Bei regelmäßig wiederkehrenden Aufträgen oder Daueraufträgen über Liefer- oder Dienstleistungen sowie bei Liefer- oder Dienstleistungsaufträgen, die innerhalb eines bestimmten Zeitraums verlängert werden sollen, ist der Auftragswert zu schätzen
 
