@@ -2720,6 +2720,7 @@
 - [HeuerVtrÜbkG](laws/HeuerVtrÜbkG.md) Gesetz betreffend das Internationale Übereinkommen über den Heuervertrag der Schiffsleute
 - [HfreqBetrGen](laws/HfreqBetrGen.md) Allgemeine Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten
 - [HfzHvzVStG](laws/HfzHvzVStG.md) Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer
+- [HG 2024](laws/HG_2024.md) Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024
 - [HGB](laws/HGB.md) Handelsgesetzbuch
 - [HGBEG](laws/HGBEG.md) Einführungsgesetz zum Handelsgesetzbuch
 - [HgFSNatSchV](laws/HgFSNatSchV.md) Verordnung über das Befahren des Naturschutzgebietes "Helgoländer Felssockel"
@@ -2733,7 +2734,7 @@
 - [HiWerkBehKGÄndG](laws/HiWerkBehKGÄndG.md) Gesetz zur Änderung des Gesetzes über die Errichtung einer Stiftung "Hilfswerk für behinderte Kinder"
 - [HKEntschG](laws/HKEntschG.md) Gesetz über eine einmalige Entschädigung an die Heimkehrer aus dem Beitrittsgebiet
 - [HkGAufhuaÄndG](laws/HkGAufhuaÄndG.md) Gesetz zur Aufhebung des Heimkehrergesetzes und zur Änderung anderer Vorschriften
-- [HkNRG](laws/HkNRG.md) Gesetz zur Ausstellung, Übertragung und Entwertung von Herkunftsnachweisen sowie zur Schaffung eines Herkunftsnachweisregisters für gasförmige Energieträger und eines Herkunftsnachweisregisters für Wärme oder Kälte aus erneuerbaren Energien
+- [HkNRG](laws/HkNRG.md) Gesetz zur Ausstellung, Übertragung und Entwertung von Herkunftsnachweisen sowie zur Schaffung von Herkunftsnachweisregistern für Gas, Wärme oder Kälte aus erneuerbaren Energien
 - [HKohlStiftG](laws/HKohlStiftG.md) Gesetz über die Errichtung einer Bundeskanzler-Helmut-Kohl-Stiftung
 - [HKrimDAPrV](laws/HKrimDAPrV.md) Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes
 - [HkRNDV](laws/HkRNDV.md) Durchführungsverordnung über Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien

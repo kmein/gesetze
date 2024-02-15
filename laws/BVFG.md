@@ -227,8 +227,6 @@ Verwaltungsvorgänge und Daten zur Aufnahme nach diesem Gesetz sind bei den zust
 
 # §§ 18 bis 20 – (weggefallen)
 
-\-
-
 # §§ 21 bis 25 – (weggefallen)
 
 \-
