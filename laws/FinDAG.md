@@ -359,6 +359,8 @@ Meinungsverschiedenheiten von erheblicher Bedeutung zwischen der Bundesanstalt u
 
 (4) Die Bundesanstalt kann bei Beschwerden im Rahmen der bestehenden aufsichtsrechtlichen Auskunftsansprüche das von der Beschwerde betroffene Institut oder Unternehmen zur Stellungnahme auffordern und dieses um Mitteilung bitten, ob es mit der Übermittlung der Stellungnahme oder von Teilen der Stellungnahme an den Beschwerdeführer einverstanden ist.
 
+(+++ § 4b: Zur Geltung vgl. § 40 Satz 2 KrZwMG +++)
+
 # § 4c – Aktenvorlage und Auskunftspflicht in verwaltungsgerichtlichen Verfahren
 
 Für die Vorlage von Urkunden oder Akten, die Übermittlung elektronischer Dokumente oder die Erteilung von Auskünften durch die Bundesanstalt in verwaltungsgerichtlichen Verfahren ist § 99 der Verwaltungsgerichtsordnung mit der Maßgabe anzuwenden, dass an die Stelle der obersten Aufsichtsbehörde die Bundesanstalt tritt.
