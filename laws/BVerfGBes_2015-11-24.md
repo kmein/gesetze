@@ -7,7 +7,7 @@ Das Plenum des Bundesverfassungsgerichts hat am 24. November 2015 gemäß § 14 
 
 # A.
 
-Mit Wirkung vom 1. Januar 2023 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
+Mit Wirkung vom 1. Januar 2024 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
 
 I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfassungsbeschwerden aus den Rechtsbereichen
 
@@ -35,7 +35,7 @@ b) Verfahren aus dem Rechtsbereich des Ersten Buchs, Achter Abschnitt der Strafp
 
 jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 
-II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2023 eingehen, aus den Rechtsbereichen
+II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen, aus den Rechtsbereichen
 
 1. des Vertriebenenrechts;
 
@@ -49,15 +49,11 @@ II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäf
 
 6. des Insolvenzrechts (ausgenommen Verfahren, in denen eine Verletzung von Artikel 12 GG gerügt wird);
 
-7. des Kaufrechts;
-
-8. des Rechts des Versicherungswesens;
-
-9. des sonstigen Deliktsrechts,
+7. des sonstigen Deliktsrechts,
 
 jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 
-III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2023 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
+III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
 
 1. Allgemeines Persönlichkeitsrecht;
 
@@ -107,7 +103,11 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2023 eingehen, aus d
 
 24. Wohnungseigentumsrecht;
 
-25. Dienst- und Werkvertragsrecht,
+25. Dienst- und Werkvertragsrecht;
+
+26. Kaufrecht;
+
+27. Recht des Versicherungswesens,
 
 jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 
@@ -123,6 +123,4 @@ Im Verfassungsbeschwerdeverfahren bestimmt sich der maßgebliche Rechtsbereich a
 
 # C.
 
-Am 31. Dezember 2022 anhängige Verfahren aus dem Rechtsbereich des Ersten Buchs, Achter Abschnitt StPO (A. I. Ziffer 6 Buchstabe b) gehen mit Ausnahme der Verfahren mit den Aktenzeichen 2 BvR 626/20, 2 BvR 714/20, 2 BvR 715/20, 2 BvR 1749/20, 2 BvR 2180/20, 2 BvR 1258/21, 2 BvR 1844/21 in die Zuständigkeit des Ersten Senats über.
-
-Im Übrigen bleibt es für am 31. Dezember 2022 anhängige Verfahren bei der bisherigen Senatszuständigkeit.
+Für die bis zum 31. Dezember 2023 anhängigen Verfahren bleibt es bei der bisherigen Senatszuständigkeit.

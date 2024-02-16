@@ -27,4 +27,5 @@ Auslagen werden nach § 12 Absatz 1 Satz 1 des Bundesgebührengesetzes gesondert
 
 # Anlage – (zu § 1)Gebührenverzeichnis
 
-(Fundstelle: BGBl. 2023 I, Nr. 24, 2 - 5)
+(Fundstelle: BGBl. 2023 I, Nr. 24, 2 - 5  
+bzgl. der einzelnen Änderungen vgl. Fußnote)

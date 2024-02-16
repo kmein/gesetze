@@ -1536,6 +1536,8 @@ sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9f die Vorgaben der Verordnung 
 
 Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen. Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer Position für eine Person oder Personengesellschaft nach Satz 1 tätig ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines Aufsichts- oder Verwaltungsrats oder eines vergleichbaren Kontrollgremiums in einem Institut wahrnimmt, das nicht unter Satz 1 fällt.
 
+(+++ § 1b: Zur Geltung vgl. § 15 Abs. 1 Satz 6 KrZwMG +++)
+
 # § 2 – Ausnahmen
 
 (1) Als Kreditinstitut gelten vorbehaltlich der Absätze 2 und 3 nicht
@@ -2261,7 +2263,8 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 (5) Die Bundesanstalt und die Deutsche Bundesbank können gemeinsame Dateisysteme einrichten. Jede der beiden Stellen darf nur die von ihr eingegebenen Daten verändern oder löschen oder ihre Verarbeitung einschränken und ist nur hinsichtlich der von ihr eingegebenen Daten Verantwortlicher. Hat eine der beiden Stellen Anhaltspunkte dafür, dass von der anderen Stelle eingegebene Daten unrichtig sind, teilt sie dies der anderen Stelle unverzüglich mit. Bei der Errichtung eines gemeinsamen Dateisystems ist festzulegen, welche Stelle die technischen und organisatorischen Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung zu treffen hat. Die nach Satz 4 bestimmte Stelle hat sicherzustellen, dass die Beschäftigten Zugang zu personenbezogenen Daten nur in dem Umfang erhalten, der zur Erfüllung ihrer Aufgaben erforderlich ist.
 
-(+++ §§ 6, 6a u. 7: Zur Anwendung vgl. § 2 Nr. 5 KfWV +++)
+(+++ §§ 6, 6a u. 7: Zur Anwendung vgl. § 2 Nr. 5 KfWV +++)  
+(+++ § 7 Abs. 1 Satz 2 bis 4 u. Abs. 1a bis 5: Zur Geltung vgl. § 3 Abs. 2 Satz 2 KrZwMG +++)
 
 # § 7a – Zusammenarbeit mit der Europäischen Kommission
 
@@ -2481,7 +2484,8 @@ Die Bundesanstalt kann bei Gefahr im Verzug von einer vorherigen Anhörung der z
 
 (11) Ergibt sich für die Bundesanstalt auf Grund der Überprüfung, insbesondere der Evaluierung der Unternehmensführungsregelung, des Geschäftsmodells oder der Tätigkeiten eines CRR-Kreditinstituts, der begründete Verdacht, dass im Zusammenhang mit diesem CRR-Kreditinstitut Geldwäsche oder Terrorismusfinanzierung stattfindet, stattgefunden hat oder diese Straftaten versucht wurden oder dass ein erhöhtes Risiko hierfür besteht, so meldet die Bundesanstalt diesen Verdacht unverzüglich der Behörde oder Stelle, die das Institut gemäß der Richtlinie (EU) 2015/849 beaufsichtigt und die Einhaltung dieser Richtlinie sicherzustellen hat. Besteht der Verdacht auf ein erhöhtes Risiko für Geldwäsche oder Terrorismusfinanzierung und ist die Bundesanstalt die zuständige Behörde, so nimmt die Bundesanstalt zusammen mit der Behörde oder Stelle, die das CRR-Kreditinstitut gemäß der Richtlinie (EU) 2015/849 beaufsichtigt und dafür zuständig ist, die Einhaltung dieser Richtlinie sicherzustellen, Kontakt mit der Europäischen Bankenaufsichtsbehörde auf, um ihre gemeinsame Bewertung unverzüglich zu übermitteln. Ist die Bundesanstalt die zuständige Behörde, so ergreift sie Maßnahmen, soweit dies erforderlich ist.
 
-(+++ § 8 Abs. 2: Zur Anwendung vgl. § 2 Nr. 7 KfWV +++)
+(+++ § 8 Abs. 2: Zur Anwendung vgl. § 2 Nr. 7 KfWV +++)  
+(+++ § 8 Abs. 5: Zur Geltung vgl. § 4 Abs. 3 KrZwMG +++)
 
 # § 8a – Besondere Aufgaben bei der Aufsicht auf zusammengefasster Basis
 
@@ -5306,7 +5310,8 @@ Sie kann für die Abwicklung Weisungen erlassen und eine geeignete Person als Ab
 (+++ §§ 26 bis 38: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)  
 (+++ §§ 33 bis 38: Zur Anwendung vgl. § 32 Abs. 1a Satz 6 +++)  
 (+++ § 38: Zur Geltung vgl. § 13 Abs. 3 Satz 1 u. § 37 Abs. 3 Satz 1 ZAG 2018 +++)  
-(+++ § 38: Zur Anwendung vgl. § 39 Abs. 4 KAGB +++)
+(+++ § 38: Zur Anwendung vgl. § 39 Abs. 4 KAGB +++)  
+(+++ § 38: Zur Geltung vgl. § 13 Abs. 4 Satz 1 KrZwMG +++)
 
 # § 39 – Bezeichnungen "Bank" und "Bankier"
 
@@ -5637,7 +5642,8 @@ Die Aufsichtsbehörde ist berechtigt, Maßnahmen nach Satz 1 zusätzlich zu eine
 (+++ §§ 44 bis 46h: Zur Geltung vgl. § 2 Abs. 12 Satz 4 +++)  
 (+++ §§ 45 bis 46a: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)  
 (+++ § 45c: Zur Geltung vgl. § 20 Abs. 2 Satz 2 ZAG 2018 +++)  
-(+++ § 45c: Zur Anwendung vgl. § 88 Abs. 5 Satz 2 SAG +++)
+(+++ § 45c: Zur Anwendung vgl. § 88 Abs. 5 Satz 2 SAG +++)  
+(+++ § 45c: Zur Anwendung vgl. § 37 Abs. 4 Satz 2 KrZwMG +++)
 
 # § 46 – Maßnahmen bei Gefahr
 
@@ -5666,7 +5672,8 @@ Die Aufsichtsbehörde kann unter den Voraussetzungen des Satzes 1 Zahlungen an k
 (+++ §§ 46 bis 46c: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)  
 (+++ § 46 Abs. 1 Satz 2 Nr. 4 bis 6: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a +++)  
 (+++ § 46 Abs. 1 Satz 3 bis 6: Zur Geltung vgl. § 21 Abs. 3 Satz 2 ZAG 2018 +++)  
-(+++ §§ 45 bis 46a: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)
+(+++ §§ 45 bis 46a: Zur Anwendung vgl. § 4 Nr. 4 KfWV +++)  
+(+++ § 46 Abs. 1 Satz 3 bis 6: Zur Geltung vgl. § 36 Abs. 2 Satz 2 KrZwMG +++)
 
 # § 46a – Untersagungs- und Anordnungsbefugnis bei Verwenden externer Ratings
 
@@ -5705,7 +5712,8 @@ Die Aufsichtsbehörde kann unter den Voraussetzungen des Satzes 1 Zahlungen an k
 (+++ §§ 46 bis 46h: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 8 +++)  
 (+++ §§ 46 bis 46c: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)  
 (+++ § 46c: Zur Nichtanwendung vgl. § 2 Abs. 7, Abs. 7a +++)  
-(+++ § 46c: Zur Geltung vgl. § 21 Abs. 3 Satz 2 ZAG 2018 +++)
+(+++ § 46c: Zur Geltung vgl. § 21 Abs. 3 Satz 2 ZAG 2018 +++)  
+(+++ § 46c: Zur Geltung vgl. § 36 Abs. 2 Satz 2 KrZwMG +++)
 
 # § 46d – Unterrichtung der anderen Staaten des Europäischen Wirtschaftsraums über Sanierungsmaßnahmen
 
