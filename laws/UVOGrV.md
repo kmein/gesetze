@@ -7,7 +7,7 @@ Auf Grund des Artikels VIII § 1 Absatz 6 Satz 1 des Zweiten Gesetzes zur Verein
 
 # § 1 – Stellenobergrenzen
 
-(1) Die Anteile der Beförderungsämter bei den bundesunmittelbaren gewerblichen Berufsgenossenschaften und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau dürfen nach Maßgabe sachgerechter Bewertung die in § 17 Absatz 1 der Bundeshaushaltsordnung festgelegten Obergrenzen nicht überschreiten.
+(1) Die Anteile der Beförderungsämter bei den bundesunmittelbaren gewerblichen Berufsgenossenschaften und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau dürfen nach Maßgabe sachgerechter Bewertung die in § 17a Absatz 1 der Bundeshaushaltsordnung festgelegten Obergrenzen nicht überschreiten.
 
 (2) § 17a Absatz 5 der Bundeshaushaltsordnung gilt entsprechend.
 

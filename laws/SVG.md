@@ -2436,6 +2436,8 @@ Für Versorgungsfälle, die vor dem 11. Januar 2017 eingetreten sind, sind § 20
 
 (7) Eine in der Zeit vom 26. Oktober 2022 bis zum 31. Dezember 2024 in Form von Zuschüssen und Sachbezügen gewährte Leistung, die nach § 3 Nummer 11c des Einkommensteuergesetzes steuerfrei ist, gilt bis zu einem Betrag von 3 000 Euro nicht als Erwerbseinkommen.
 
+(+++ § 106a: Eingef. durch Art. 10 Nr. 13 G v. 28.6.2021 I 2250 mWv 1.1.2020 (ersetzt früheren § 106a) +++)
+
 # § 107 – Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes
 
 (1) § 20a findet auf am 30. Juni 2020 vorhandene Soldaten Anwendung, wenn eine Verwendung im Sinne des § 20a Absatz 1 vor dem 1. Juli 2020

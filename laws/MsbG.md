@@ -653,7 +653,8 @@ Die optionale Ausstattung einer Messstelle bei einem Anlagenbetreiber mit einem 
 (6) Sobald das Bundesministerium für Wirtschaft und Klimaschutz eine Rechtsverordnung nach § 33 erlassen hat, gelten die dort festgesetzten Preisobergrenzen anstelle der in den Absätzen 1 bis 3 geregelten Preisobergrenzen.
 
 (+++ § 30: Zur Anwendung vgl. § 7 Abs. 1 u. § 31 Abs. 2 +++)  
-(+++ § 30 Abs. 1 bis 3: Zur Anwendung vgl. § 35 Abs. 1 +++)
+(+++ § 30 Abs. 1 bis 3: Zur Anwendung vgl. § 35 Abs. 1 +++)  
+(+++ § 30 Abs. 5: Zur Anwendung vgl. § 40 Abs. 1 +++)
 
 # § 31 – Agiler Rollout, Anwendungsupdate
 
@@ -675,7 +676,7 @@ Satz 1 findet auch auf die Ausstattung mit intelligenten Messsystemen durch nach
 
 (2) Sobald das Bundesministerium für Wirtschaft und Klimaschutz eine Rechtsverordnung nach § 33 erlassen hat, gelten die dort festgesetzten Preisobergrenzen anstelle der in Absatz 1 Satz 1 geregelten Preisobergrenze.
 
-(+++ § 32: Zur Anwendung vgl. § 7 Abs. 1 +++) §§ 30 bis 35: IdF d. Art. 2 Nr. 21 G v. 22.5.2023 I Nr. 133 mWv 27.5.2023
+(+++ § 32: Zur Anwendung vgl. § 7 Abs. 1 +++)
 
 # § 33 – Anpassungen, Aufhebungen oder Neufestlegungen bei Preisobergrenzen, agilem Rollout und Ausstattungsverpflichtungen; Verordnungsermächtigungen
 
