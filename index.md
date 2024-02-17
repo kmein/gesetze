@@ -5102,6 +5102,7 @@
 - [SGB2§51bDatV](laws/SGB2§51bDatV.md) Verordnung zur Erhebung der Daten nach § 51b des Zweiten Buches Sozialgesetzbuch
 - [SGB3EntGRuhV](laws/SGB3EntGRuhV.md) Verordnung über das Ruhen von Entgeltersatzleistungen nach dem Dritten Buch Sozialgesetzbuch bei Zusammentreffen mit Versorgungsleistungen der Sonderversorgungssysteme
 - [SGB4ErgG](laws/SGB4ErgG.md) Gesetz zur Einordnung der Vorschriften über die Meldepflichten des Arbeitgebers in der Kranken- und Rentenversicherung sowie im Arbeitsförderungsrecht und über den Einzug des Gesamtsozialversicherungsbeitrags in das Vierte Buch Sozialgesetzbuch - Gemeinsame Vorschriften für die Sozialversicherung -
+- [SGB5EÜV](laws/SGB5EÜV.md) Verordnung zur Übertragung der Ermächtigung zum Erlass einer Rechtsverordnung nach dem Fünften Buch Sozialgesetzbuch auf die Kassenärztliche Bundesvereinigung
 - [SGB5§252PrüfV](laws/SGB5§252PrüfV.md) Verordnung gemäß § 252 Absatz 5 des Fünften Buches Sozialgesetzbuch zur Prüfung der Beiträge nach § 252 Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch (Prüfverordnung sonstige Beiträge)
 - [SGB5§291Abs2bSatz14VerlV](laws/SGB5§291Abs2bSatz14VerlV.md) Verordnung zur Verlängerung der Frist nach § 291 Absatz 2b Satz 14 des Fünften Buches Sozialgesetzbuch
 - [SGB5§291VerlV](laws/SGB5§291VerlV.md) Verordnung zur Verlängerung der Frist nach § 291 Absatz 2b Satz 6 des Fünften Buches Sozialgesetzbuch

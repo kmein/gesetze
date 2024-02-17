@@ -1918,7 +1918,7 @@ eine einem Energieversorgungsunternehmen gehörende oder von ihm betriebene Anla
 
 der Zeitraum vom 1. Oktober eines Jahres bis zum 31. März des Folgejahres.
 
-(+++ § 3: Zur Anwendung vgl. § 2 MessbG +++)
+(+++ § 3: Zur Anwendung vgl. §§ 2 u. 7 Abs. 1 MessbG +++)
 
 # § 3a – Verhältnis zum Eisenbahnrecht
 

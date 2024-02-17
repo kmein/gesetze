@@ -2480,7 +2480,7 @@ Die Aufteilung der Kosten innerhalb der gesetzlichen Krankenversicherung und der
 
 6. die berufsständischen Versorgungseinrichtungen bei der Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V.
 
-(2) Abweichend von Absatz 1 kann ein Sozialversicherungsträger oder eine gemeinsame Einrichtung im Sinne des § 4 Absatz 2 des Tarifvertragsgesetzes durch schriftliche Vereinbarung einen anderen Sozialversicherungsträger mit dem Betrieb der Annahmestelle beauftragen.
+(2) Abweichend von Absatz 1 kann ein Sozialversicherungsträger oder eine gemeinsame Einrichtung im Sinne des § 4 Absatz 2 des Tarifvertragsgesetzes durch schriftliche Vereinbarung einen anderen Sozialversicherungsträger oder eine gemeinsame Einrichtung im Sinne des § 4 Absatz 2 des Tarifvertragsgesetzes mit dem Betrieb der Annahmestelle beauftragen.
 
 (3) Die erstannehmende Annahmestelle hat nach der Entschlüsselung der Daten und der technischen Prüfung die technisch fehlerfreien Daten innerhalb eines Arbeitstages an den Adressaten der Datenübermittlung weiterzuleiten. Die meldende Stelle erhält mit der Weiterleitung eine Weiterleitungsbestätigung; die Meldungen gelten damit als dem Adressaten zugegangen.
 
@@ -2489,6 +2489,8 @@ Die Aufteilung der Kosten innerhalb der gesetzlichen Krankenversicherung und der
 (5) Die Annahmestelle darf die Meldungen unter Beachtung der Datensicherheit und Datenvollständigkeit in ein anderes technisches Format umwandeln, wenn dies für die weitere Verarbeitung der Meldungen beim Adressaten der Daten notwendig oder wirtschaftlicher ist. Die Meldungen sind ohne inhaltliche Veränderungen in verschlüsselter Form oder über eine gesicherte Leitung an den Adressaten weiterzuleiten. Der Adressat der Meldungen hat diese elektronisch anzunehmen und zu verarbeiten.
 
 (6) Durch die Annahmestelle werden die Meldepflichtigen elektronisch über das Vorliegen einer an sie adressierten Meldung informiert.
+
+§ 97 Abs. 2 Kursivdruck: IdF d. Art. 1 Nr. 29 Buchst. b G v. 20.12.2022 I 2759 mWv 1.1.2023 (ungenaue Änderungsanweisung zur Fundstelle des Wortes "Sozialversicherungsträger", da mehrfach vorhanden; die Änderung wurde sinngemäß konsolidiert)
 
 # § 98 – Weiterleitung der Daten durch die Einzugsstellen
 
