@@ -165,6 +165,8 @@ Die Kapitalentschädigung nach § 13 Abs. 2 ist ab Antragstellung mit 2 Prozent 
 
 (2) Auf die Leistungen nach diesem Gesetz werden Zahlungen angerechnet, die wegen der Einnahme thalidomidhaltiger Präparate bereits von anderen möglicherweise Verantwortlichen geleistet worden sind. Auf die Kapitalentschädigung und die Conterganrente werden Zahlungen angerechnet, die wegen der Einnahme thalidomidhaltiger Präparate von Anderen, insbesondere von ausländischen Staaten, geleistet werden.
 
+§ 15 Abs. 2 Satz 2: Gem. Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 21.11.2023 - 1 BvL 6/21 –
+
 # § 16 – Gang des Verfahrens
 
 (1) Leistungen werden auf Antrag gewährt. Eine Aberkennung von Leistungsansprüchen nach diesem Gesetz darf nur erfolgen, wenn die Ansprüche auf vorsätzlich unrichtigen oder vorsätzlich unvollständigen Angaben der leistungsberechtigten Person beruhen. Das Gleiche gilt für die Aberkennung von Schadenspunkten, die gemäß Anlage 2 zu den Richtlinien für die Gewährung von Leistungen wegen Conterganschadensfällen anerkannt wurden. Die Anrechnung von Zahlungen gemäß § 15 Absatz 2 bleibt unberührt. Die jährlichen Sonderzahlungen und die jährlichen Leistungen zur Deckung spezifischer Bedarfe werden auch ohne Antrag an die Personen geleistet, die eine Conterganrente erhalten.
