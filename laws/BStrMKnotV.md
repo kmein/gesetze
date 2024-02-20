@@ -15,7 +15,5 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 # Anlage – Festlegung der von § 3a Absatz 1 Satz 1 Nummer 2 und Satz 2 bis 4 BFStrMG abweichenden Knotenpunkte
 
-(Fundstelle: BAnz AT 14.11.2022 V1)
-
-  
+(Fundstelle: BGBl. 2024 I Nr. 44, S. 1 – 54)  
   
