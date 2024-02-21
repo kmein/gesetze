@@ -1916,7 +1916,6 @@
 - [EUMETSATÜbk](laws/EUMETSATÜbk.md) Übereinkommen zur Gründung einer europäischen Organisation für die Nutzung von meteorologischen Satelliten ("EUMETSAT")
 - [EUMETSATV](laws/EUMETSATV.md) Verordnung über die Vorrechte und Immunitäten der Europäischen Organisation für die Nutzung von meteorologischen Satelliten (EUMETSAT)
 - [EUObstGemüseDV](laws/EUObstGemüseDV.md) Verordnung zur Durchführung von EU-Sondermaßnahmen im Sektor Obst und Gemüse
-- [EuOEÜbk](laws/EuOEÜbk.md) Europäisches Übereinkommen über die Entschädigung für Opfer von Gewalttaten
 - [EuOEÜbkG](laws/EuOEÜbkG.md) Gesetz zu dem Europäischen Übereinkommen vom 24. November 1983 über die Entschädigung für Opfer von Gewalttaten
 - [EuPAG](laws/EuPAG.md) Gesetz über die Tätigkeit europäischer Patentanwälte in Deutschland
 - [EuPatAnerkProt](laws/EuPatAnerkProt.md) Protokoll über die gerichtliche Zuständigkeit und die Anerkennung von Entscheidungen über den Anspruch auf Erteilung eines europäischen Patents
@@ -3303,7 +3302,6 @@
 - [KultgSchKonvG](laws/KultgSchKonvG.md) Gesetz zu der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten
 - [KultgSchKonvProt](laws/KultgSchKonvProt.md) Protokoll (zu der Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten vom 14. Mai 1954)
 - [KultgSchKonvProt 2](laws/KultgSchKonvProt_2.md) Zweites Protokoll zur Haager Konvention von 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten
-- [KultNatErbSchutzÜbk](laws/KultNatErbSchutzÜbk.md) Übereinkommen zum Schutz des Kultur- und Naturerbes der Welt
 - [KundenbTischlPrV](laws/KundenbTischlPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Kundenberater/Geprüfte Kundenberaterin im Tischlerhandwerk
 - [KunstSchAbk](laws/KunstSchAbk.md) Internationales Abkommen über den Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen
 - [KunstSchAbkG](laws/KunstSchAbkG.md) Gesetz zu dem Internationalen Abkommen vom 26. Oktober 1961 über den Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen
