@@ -405,9 +405,13 @@ Es sollen Angebote zur Betreuung von Kindern und pflegebedürftigen Angehörigen
 
 6. Unterstützungsleistungen für verbündete Streitkräfte im Rahmen der Landes- und Bündnisverteidigung.
 
+(++++ § 17: Zur Anwendung vgl. § 2 Abs. 6 +++)
+
 # § 18 – Zweck
 
 Der Gleichstellungsplan dient der Erreichung der Ziele dieses Gesetzes und ist ein wesentliches Instrument zur Durchsetzung der Gleichstellung von Soldatinnen und Soldaten. Das Erreichen der Zielvorgaben des Plans und die Umsetzung der hierfür im Plan vorgesehenen Maßnahmen sind Führungsaufgabe. Die Beschäftigten mit Vorgesetzten- oder Führungsaufgaben haben insoweit eine besondere Verpflichtung.
+
+(+++ § 18: Zur Geltung vgl. § 22 Abs. 2 +++)
 
 # § 19 – Erstellung, Inkrafttreten, Geltungszeitraum, Veröffentlichung
 
@@ -426,6 +430,9 @@ Der Gleichstellungsplan dient der Erreichung der Ziele dieses Gesetzes und ist e
 (4) Der Gleichstellungsplan muss in den Dienststellen des Geltungsbereichs des Gleichstellungsplans veröffentlicht werden.
 
 (5) Im Falle umfassender organisatorischer Änderungen im Sinne der §§ 38 bis 40 kann die jeweilige Dienststelle im Einvernehmen mit der Gleichstellungsbeauftragten mit Zustimmung des Bundesministeriums der Verteidigung abweichend von Absatz 1 Satz 2 andere Stichtage festlegen.
+
+(+++ § 19 Abs. 3 und 4: Zur Geltung vgl. § 21 Abs. 3 +++)  
+(+++ § 19 Abs. 1, 2, 3 und 5: Zur Geltung vgl. § 22 Abs. 2 +++)
 
 # § 20 – Inhalt
 
@@ -457,6 +464,8 @@ c) ein benachteiligungsfreies Arbeitsumfeld.
 
 (4) Zur Erreichung der Zielvorgaben sind Maßnahmen festzulegen. Sind Zielvorgaben aus dem vorangegangenen Gleichstellungsplan nicht vollständig oder gar nicht erreicht worden, sind die Gründe dafür bei der Festlegung neuer oder weiterer Zielvorgaben zu berücksichtigen.
 
+(+++ § 20 Abs. 1, 3 und 4: Zur Geltung vgl. § 22 Abs. 2 +++)
+
 # § 21 – Zwischenbilanz
 
 (1) Zum 31. Dezember des zweiten Jahres des Geltungszeitraums des Gleichstellungsplans hat die Dienststelle unter frühzeitiger Einbindung der jeweiligen Gleichstellungsbeauftragten eine Zwischenbilanz zum Gleichstellungsplan zu erstellen.
@@ -468,6 +477,8 @@ c) ein benachteiligungsfreies Arbeitsumfeld.
 2. ergänzende Maßnahmen festzulegen, um die Zielvorgaben erreichen zu können.
 
 (3) § 19 Absatz 3 und 4 gilt entsprechend.
+
+(+++ § 21: Zur Geltung vgl. § 22 Abs. 2 +++)
 
 # § 22 – Gleichstellungsplan für die personalbearbeitenden Stellen
 
@@ -613,6 +624,8 @@ Die Gleichstellungsbeauftragte und eine oder mehrere Stellvertreterinnen werden 
 
 (4) Treten zur Wahl der Stellvertreterin nicht genügend Kandidatinnen an, oder sind nach der Wahl nicht genügend Kandidatinnen gewählt, bestellt die Dienststelle Soldatinnen aus dem Kreis der Wahlberechtigten zur Stellvertreterin. Die Anzahl der Stellvertreterinnen ergibt sich aus § 33 Absatz 2. Für die Bestellung der Stellvertreterin hat die Gleichstellungsbeauftragte ein Vorschlagsrecht. Ihrem Vorschlag soll die Dienststelle folgen.
 
+(+++ § 31 Abs. 4: Zur Geltung vgl. § 32 Abs. 3 +++)
+
 # § 32 – Bestellung bei vorzeitigem Ausscheiden oder bei Verhinderung
 
 (1) Eine Neuwahl ist durchzuführen, wenn die Gleichstellungsbeauftragte und alle ihre Stellvertreterinnen
@@ -629,6 +642,8 @@ Die Bestellung erfolgt nach Durchführung der Neuwahl.
 
 (4) In den Fällen der Absätze 2 und 3 erfolgt die Bestellung jeweils für die restliche Amtszeit.
 
+(+++ § 32 Abs. 2 bis 4: Zur Geltung vgl. § 33 Abs. 4 +++)
+
 # § 33 – Anzahl der Stellvertreterinnen
 
 (1) Für die Gleichstellungsbeauftragte ist mindestens eine Stellvertreterin zu wählen. Es können maximal drei Stellvertreterinnen gewählt werden.
@@ -644,6 +659,8 @@ Die Bestellung erfolgt nach Durchführung der Neuwahl.
 Die Erhöhung ist nur zulässig, wenn ihr das Bundesministerium der Verteidigung zustimmt. Absatz 1 Satz 2 bleibt unberührt.
 
 (4) Für Wahl und Bestellung einer zusätzlichen Stellvertreterin gilt § 32 Absatz 2 bis 4 entsprechend.
+
+(+++ § 33 Abs. 3 und 4: Zur Anwendung vgl. § 39 Abs. 3 +++)
 
 # § 34 – Bestellung einer Stellvertreterin bei Abwesenheit
 
@@ -691,11 +708,16 @@ Das Bundesministerium der Verteidigung wird ermächtigt, das Verfahren für die 
 
 (5) Dauert die endgültige Einnahme der Zielstruktur ab Beginn der Organisationsmaßnahme voraussichtlich länger als vier Jahre, ist eine Wahl entsprechend Absatz 1 durchzuführen. Die Wahl soll innerhalb von vier Monaten nach Aufstellung der Dienststelle eingeleitet werden.
 
+(+++ § 37: Zur Geltung vgl. § 38 Abs. 2 +++)  
+(+++ § 37: Zur Geltung vgl. § 40 Abs. 1 +++)
+
 # § 38 – Auflösung und Zusammenlegung von Dienststellen
 
 (1) Bei der Auflösung einer oder mehrerer Dienststellen und der Zusammenlegung zu einer neuen Dienststelle endet die Amtszeit der Gleichstellungsbeauftragten und ihrer Stellvertreterinnen mit Wirkungsdatum der Auflösung.
 
 (2) Ist die neue Dienststelle eine Dienststelle im Sinne des § 23 Absatz 2, § 24 Absatz 1 bis 3 oder des § 25 Absatz 1, gilt § 37 entsprechend.
+
+(+++ § 38: Zur Geltung vgl. § 63 Abs. 2 +++)
 
 # § 39 – Eingliederung einer Dienststelle
 
@@ -705,6 +727,9 @@ Das Bundesministerium der Verteidigung wird ermächtigt, das Verfahren für die 
 
 (3) Wächst der Zuständigkeitsbereich der Gleichstellungsbeauftragten durch die Eingliederung wesentlich auf, ist § 33 Absatz 3 und 4 anzuwenden.
 
+(+++ § 39 Abs. 2: Zur Anwendung vgl. § 40 Abs. 2 +++)  
+(+++ § 39: Zur Geltung vgl. § 63 Abs. 2 +++)
+
 # § 40 – Aufspaltung einer Dienststelle
 
 (1) Entstehen im Falle der Aufspaltung einer Dienststelle in zwei oder mehrere Teile neue Dienststellen im Sinne des § 23 Absatz 2, § 24 Absatz 1 bis 3 oder des § 25 Absatz 1, ist § 37 für jede neue Dienststelle entsprechend anzuwenden.
@@ -713,9 +738,14 @@ Das Bundesministerium der Verteidigung wird ermächtigt, das Verfahren für die 
 
 (3) Im Falle des Verbleibs eines organisatorisch selbständigen Teils einer Dienststelle findet § 41 Anwendung.
 
+(+++ § 41: Zur Geltung vgl. § 63 Abs. 2 +++)
+
 # § 41 – Umbenennung einer Dienststelle
 
 Bei Umbenennung einer Dienststelle bleiben die Gleichstellungsbeauftragte und ihre Stellvertreterinnen im Amt.
+
+(+++ § 41: Zur Anwendung vgl. § 40 Abs. 3 +++)  
+(+++ § 41: Zur Geltung vgl. § 63 Abs. 2 +++)
 
 # § 42 – Rechtsstellung
 
@@ -735,6 +765,10 @@ Bei Umbenennung einer Dienststelle bleiben die Gleichstellungsbeauftragte und ih
 
 (8) Die Dienststelle erstellt auf Antrag der Gleichstellungsbeauftragten eine Tätigkeitsbeschreibung über deren Amtszeit.
 
+(+++ § 42 Abs. 1, 2 und 5 bis 7: Zur Geltung vgl. § 46 Abs. 3 +++)  
+(+++ § 42 Abs. 3: Zur Geltung vgl. § 47 Abs. 1 +++)  
+(+++ § 42 Abs. 3, 7 und 8: Zur Geltung vgl. § 48 Abs. 5 +++)
+
 # § 43 – Nichtvereinbarkeit des Amtes mit anderen Ämtern
 
 (1) Mit dem Amt der Gleichstellungsbeauftragten nicht vereinbar sind Ämter
@@ -746,6 +780,9 @@ Bei Umbenennung einer Dienststelle bleiben die Gleichstellungsbeauftragte und ih
 3. als Vertrauensperson nach dem Soldatinnen- und Soldatenbeteiligungsgesetz.
 
 (2) Mit Einzelpersonalmaßnahmen darf sie nur in ihrer Eigenschaft als Gleichstellungsbeauftragte befasst sein.
+
+(+++ § 43: Zur Geltung vgl. § 46 Abs. 3 +++)  
+(+++ § 43: Zur Geltung vgl. § 64 Abs. 8 +++)
 
 # § 44 – Verschwiegenheitspflicht
 
@@ -759,6 +796,8 @@ Die Verschwiegenheitspflicht gilt auch nach ihrer Amtszeit fort.
 
 (2) Für das Personal der Gleichstellungsbeauftragten gilt Absatz 1 entsprechend.
 
+(+++ § 44 Abs. 1: Zur Geltung vgl. § 46 Abs. 3 +++)
+
 # § 45 – Ausstattung, Verfügungsfonds, Weiterbildung
 
 (1) Der Gleichstellungsbeauftragten ist die notwendige personelle, räumliche und sachliche Ausstattung zur Verfügung zu stellen.
@@ -768,6 +807,9 @@ Die Verschwiegenheitspflicht gilt auch nach ihrer Amtszeit fort.
 (3) Die Dienststelle fördert den Erwerb und Erhalt der für eine angemessene Amtswahrnehmung erforderlichen Kenntnisse und Kompetenzen der Gleichstellungsbeauftragten. Die Dienststelle unterstützt die Gleichstellungsbeauftragte bei der Wahrnehmung entsprechender Bildungsangebote.
 
 (4) Angebote für eine Grundlagenausbildung sind an den Bildungseinrichtungen der Bundeswehr vorzuhalten.
+
+(+++ § 45 Abs. 3: Zur Geltung vgl. § 46 Abs. 3 +++)  
+(+++ § 45 Abs. 1 und 2: Zur Geltung vgl. § 48 Abs. 5 +++)
 
 # § 46 – Grundlagen
 
@@ -986,6 +1028,9 @@ Das Bundesministerium der Verteidigung hat die Gleichstellungsbeauftragte in Ver
 
 (3) Die Bestellung bedarf der Zustimmung der Soldatin.
 
+(+++ § 60 Abs. 2 und 3: Zur Geltung vgl. § 61 Abs. 2 +++)  
+(+++ § 60 Abs. 2 und 3: Zur Geltung vgl. § 62 Abs. 1 +++)
+
 # § 61 – Bestellung in den Dienststellen der Bundeswehrverwaltung
 
 (1) In den Dienststellen der Bundeswehrverwaltung auf der Ebene der Bundesunterbehörde, in denen keine eigene Gleichstellungsbeauftragte gewählt wird, kann die Dienststellenleitung eine Gleichstellungsvertrauensfrau bestellen.
@@ -1026,15 +1071,21 @@ Das Bundesministerium der Verteidigung hat die Gleichstellungsbeauftragte in Ver
 
 (8) § 43 gilt entsprechend.
 
+(+++ § 64 Abs. 1, 2 und 4 bis 7: Zur Geltung vgl. § 62 Abs. 2 +++)
+
 # § 65 – Verschwiegenheitspflicht
 
 Die Gleichstellungsvertrauensfrau und ihr Personal sind entsprechend § 44 zur Verschwiegenheit verpflichtet.
+
+(+++ § 65: Zur Geltung vgl. § 62 Abs. 2 +++)
 
 # § 66 – Vertrauensverhältnis
 
 (1) Die Gleichstellungsvertrauensfrau arbeitet vertrauensvoll mit der zuständigen Gleichstellungsbeauftragten zusammen. Bei allen Angelegenheiten und Maßnahmen, die ihre Dienststelle betreffen, berät und unterstützt sie die Gleichstellungsbeauftragte.
 
 (2) Ist das für die Aufgabenwahrnehmung der Gleichstellungsvertrauensfrau erforderliche Vertrauensverhältnis nicht mehr gegeben, bestellt die Dienststelle auf Vorschlag der Gleichstellungsbeauftragten eine andere Soldatin zur Gleichstellungsvertrauensfrau.
+
+(+++ § 66: Zur Geltung vgl. § 62 Abs. 2 +++)
 
 # § 67 – Aufgaben
 
@@ -1109,6 +1160,8 @@ Entfällt die aufschiebende Wirkung, kann die Dienststelle die Maßnahme sofort 
 1. die Gleichstellungsbeauftragte und die Dienststelle schriftlich oder elektronisch den Verzicht auf einen außergerichtlichen Einigungsversuch erklärt haben oder
 
 2. die Gleichstellungsbeauftragte oder die Dienststelle das Scheitern des außergerichtlichen Einigungsversuchs schriftlich oder elektronisch festgestellt hat.
+
+(+++ § 70: Zur Nichtanwendung vgl. § 75 Abs. 8 +++)
 
 # § 71 – Gerichtliches Verfahren
 

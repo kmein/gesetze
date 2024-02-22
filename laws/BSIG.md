@@ -755,6 +755,8 @@ Das Bundesamt stellt durch die notwendigen Maßnahmen sicher, dass das Fortbeste
 
 (7) Sicherheitszertifikate anderer anerkannter Zertifizierungsstellen aus dem Bereich der Europäischen Union werden vom Bundesamt anerkannt, soweit sie eine den Sicherheitszertifikaten des Bundesamtes gleichwertige Sicherheit ausweisen und die Gleichwertigkeit vom Bundesamt festgestellt worden ist.
 
+(+++ § 9: Zur Anwendung vgl. § 24 Abs. 2 MessbG +++)
+
 # § 9a – Nationale Behörde für die Cybersicherheitszertifizierung
 
 (1) Das Bundesamt ist die nationale Behörde für die Cybersicherheitszertifizierung im Sinne des Artikels 58 Absatz 1 der Verordnung (EU) 2019/881.
