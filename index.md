@@ -5158,6 +5158,7 @@
 - [SolvV](laws/SolvV.md) Verordnung zur angemessenen Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen 1
 - [SolZG](laws/SolZG.md) Solidaritätszuschlaggesetz
 - [SolzG 1995](laws/SolzG_1995.md) Solidaritätszuschlaggesetz 1995
+- [SommerGetrSaatV 2024](laws/SommerGetrSaatV_2024.md) Verordnung über besondere Anforderungen an Saatgut von Sommergetreide im Rahmen der Saatgutanerkennung 2024
 - [SonnenblV](laws/SonnenblV.md) Verordnung über besondere Anforderungen an Saatgut von Sonnenblumen im Rahmen der Saatgutanerkennung 2009
 - [SonntRPapIndAusnV](laws/SonntRPapIndAusnV.md) Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen in der Papierindustrie
 - [SonntRStIndAusnV](laws/SonntRStIndAusnV.md) Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen in der Eisen- und Stahlindustrie
