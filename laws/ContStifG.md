@@ -165,7 +165,7 @@ Die Kapitalentschädigung nach § 13 Abs. 2 ist ab Antragstellung mit 2 Prozent 
 
 (2) Auf die Leistungen nach diesem Gesetz werden Zahlungen angerechnet, die wegen der Einnahme thalidomidhaltiger Präparate bereits von anderen möglicherweise Verantwortlichen geleistet worden sind. Auf die Kapitalentschädigung und die Conterganrente werden Zahlungen angerechnet, die wegen der Einnahme thalidomidhaltiger Präparate von Anderen, insbesondere von ausländischen Staaten, geleistet werden.
 
-§ 15 Abs. 2 Satz 2: Gem. Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 21.11.2023 - 1 BvL 6/21 –
+§ 15 Abs. 2 Satz 2: Gem. Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 21.11.2023, 2024 I Nr. 46 - 1 BvL 6/21 –
 
 # § 16 – Gang des Verfahrens
 
