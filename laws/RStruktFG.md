@@ -69,7 +69,7 @@ für die im Beitragsjahr eine Erlaubnis nach dem Kreditwesengesetz oder nach dem
 
 1. Gewährung von Garantien nach § 6 für Verbindlichkeiten an ein in Abwicklung befindliche Wertpapierinstitut unter Einzelaufsicht, ihre Tochterunternehmen, ein Brückeninstitut oder eine Vermögensverwaltungsgesellschaft,
 
-2. Besicherung von Vermögenswerten nach § 6a eines in Abwicklung befindlichen Wertpapierinstituts unter Einzelaufsicht, ihrer Tochterunternehmen, eines Brückeninstituts oder einer Vermögensverwaltungsgesellschaft sowie Erwerb von Vermögenswerten einer in Abwicklung befindlichen CRR-Wertpapierfirma unter Einzelaufsicht,
+2. Besicherung von Vermögenswerten nach § 6a eines in Abwicklung befindlichen Wertpapierinstituts unter Einzelaufsicht, ihrer Tochterunternehmen, eines Brückeninstituts oder einer Vermögensverwaltungsgesellschaft sowie Erwerb von Vermögenswerten eines in Abwicklung befindlichen Wertpapierinstituts unter Einzelaufsicht,
 
 3. Gewährung von Darlehen nach § 6b an ein in Abwicklung befindliche Wertpapierinstitut unter Einzelaufsicht, ihre Tochterunternehmen, ein Brückeninstitut oder eine Vermögensverwaltungsgesellschaft,
 

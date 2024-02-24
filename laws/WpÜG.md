@@ -953,7 +953,7 @@ Die Bundesanstalt lässt auf Antrag zu, dass Stimmrechte aus Aktien der Zielgese
 
 # § 37 – Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
 
-(1) Die Bundesanstalt kann auf Antrag den Bieter von den Verpflichtungen nach § 35 Abs.1 Satz 1 und Abs. 2 Satz 1 befreien, sofern dies im Hinblick auf die Art der Erlangung, die mit der Erlangung der Kontrolle beabsichtigte Zielsetzung, ein nach der Erlangung der Kontrolle erfolgendes Unterschreiten der Kontrollschwelle, die Beteiligungsverhältnisse an der Zielgesellschaft oder die tatsächliche Möglichkeit zur Ausübung der Kontrolle unter Berücksichtigung der Interessen des Antragstellers und der Inhaber der Aktien der Zielgesellschaft gerechtfertigt erscheint.
+(1) Die Bundesanstalt kann auf Antrag den Bieter von den Verpflichtungen nach § 35 Abs. 1 Satz 1 und Abs. 2 Satz 1 befreien, sofern dies im Hinblick auf die Art der Erlangung, die mit der Erlangung der Kontrolle beabsichtigte Zielsetzung, ein nach der Erlangung der Kontrolle erfolgendes Unterschreiten der Kontrollschwelle, die Beteiligungsverhältnisse an der Zielgesellschaft oder die tatsächliche Möglichkeit zur Ausübung der Kontrolle unter Berücksichtigung der Interessen des Antragstellers und der Inhaber der Aktien der Zielgesellschaft gerechtfertigt erscheint.
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die Befreiung von den Verpflichtungen nach § 35 Abs. 1 Satz 1, Abs. 2 Satz 1 erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
