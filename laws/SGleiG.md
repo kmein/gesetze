@@ -738,7 +738,7 @@ Das Bundesministerium der Verteidigung wird ermächtigt, das Verfahren für die 
 
 (3) Im Falle des Verbleibs eines organisatorisch selbständigen Teils einer Dienststelle findet § 41 Anwendung.
 
-(+++ § 41: Zur Geltung vgl. § 63 Abs. 2 +++)
+(+++ § 40: Zur Geltung vgl. § 63 Abs. 2 +++)
 
 # § 41 – Umbenennung einer Dienststelle
 

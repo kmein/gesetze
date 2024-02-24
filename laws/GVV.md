@@ -556,7 +556,7 @@ Die an den Schnittstellen zwischen EETS-Teilsystem des Mauterhebers und Teilsyst
 
  
 
-1. Sperrliste (SST 001)
+1. Sperrliste (SST 001),
 
 2. Nutzerlisten (SST 002),
 
@@ -608,7 +608,7 @@ Die an den Schnittstellen zwischen EETS-Teilsystem des Mauterhebers und Teilsyst
 
  
 
-1. Sperrliste (SST 001)
+1. Sperrliste (SST 001),
 
 2. Nutzerlisten (SST 002),
 

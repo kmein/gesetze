@@ -185,6 +185,18 @@ Informationspflicht der Lieferanten
 
  
 
+Abschnitt 4a
+
+ 
+
+(zukünftig in Kraft)
+
+§§ 16g bis 16l
+
+(zukünftig in Kraft)
+
+ 
+
 Fünfter Abschnitt
 
  
@@ -330,6 +342,8 @@ Grundsätze der Guten Laborpraxis (GLP)
 Anhang 2
 
 GLP-Bescheinigung
+
+Inhaltsübersicht (zu Abschnitt 4a) Kursivdruck: Abschnitt 4a tritt gem. Art. 1 Nr. 9 iVm Art. 3 Abs. 2 G v. 16.11.2023 I Nr. 313 am 1.1.2026 in Kraft
 
 # § 1 – Zweck des Gesetzes
 
@@ -986,6 +1000,8 @@ Die Überwachungsbefugnisse der zuständigen Landesbehörden nach § 21 bleiben 
 Satz 1 gilt nicht für Erzeugnisse mit militärischer Zweckbestimmung.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates näher zu bestimmen, auf welche Art und Weise und mit welchen Maßgaben die Verpflichtung nach Absatz 1 unter Berücksichtigung der auf Unionsebene entwickelten Vorgaben für die Datenbank zu erfüllen ist.
+
+# §§ 16g bis 16l – (zukünftig in Kraft)
 
 # § 17 – Verbote und Beschränkungen
 
