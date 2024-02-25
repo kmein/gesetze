@@ -1916,7 +1916,6 @@
 - [EUMETSATÜbk](laws/EUMETSATÜbk.md) Übereinkommen zur Gründung einer europäischen Organisation für die Nutzung von meteorologischen Satelliten ("EUMETSAT")
 - [EUMETSATV](laws/EUMETSATV.md) Verordnung über die Vorrechte und Immunitäten der Europäischen Organisation für die Nutzung von meteorologischen Satelliten (EUMETSAT)
 - [EUObstGemüseDV](laws/EUObstGemüseDV.md) Verordnung zur Durchführung von EU-Sondermaßnahmen im Sektor Obst und Gemüse
-- [EuOEÜbkG](laws/EuOEÜbkG.md) Gesetz zu dem Europäischen Übereinkommen vom 24. November 1983 über die Entschädigung für Opfer von Gewalttaten
 - [EuPAG](laws/EuPAG.md) Gesetz über die Tätigkeit europäischer Patentanwälte in Deutschland
 - [EuPatAnerkProt](laws/EuPatAnerkProt.md) Protokoll über die gerichtliche Zuständigkeit und die Anerkennung von Entscheidungen über den Anspruch auf Erteilung eines europäischen Patents
 - [EuPatAuslProt](laws/EuPatAuslProt.md) Protokoll über die Auslegung des Artikels 69 des Übereinkommens
@@ -2847,7 +2846,6 @@
 - [IFGGebV](laws/IFGGebV.md) Verordnung über die Gebühren und Auslagen nach dem Informationsfreiheitsgesetz
 - [IfSG](laws/IfSG.md) Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen
 - [IFUKK1992ÄndUrk1996G](laws/IFUKK1992ÄndUrk1996G.md) Gesetz zu den Änderungsurkunden vom 24. November 2006 zur Konstitution und zur Konvention der Internationalen Fernmeldeunion vom 22. Dezember 1992
-- [IFUKK1992G](laws/IFUKK1992G.md) Gesetz zu der Konstitution und der Konvention der Internationalen Fernmeldeunion vom 22. Dezember 1992 sowie zu den Änderungen der Konstitution und der Konvention der Internationalen Fernmeldeunion vom 14. Oktober 1994
 - [IGV-DG](laws/IGV-DG.md) Gesetz zur Durchführung der Internationalen Gesundheitsvorschriften (2005)
 - [IHKG](laws/IHKG.md) Gesetz zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern
 - [IHRAVorRV](laws/IHRAVorRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Allianz zum Holocaust-Gedenken
