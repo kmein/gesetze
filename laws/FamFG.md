@@ -595,7 +595,9 @@ Das Beschwerdegericht ist an die Zulassung gebunden.
 
 2. eine Wiederholung konkret zu erwarten ist.
 
-(3) Hat der Verfahrensbeistand oder der Verfahrenspfleger die Beschwerde eingelegt, gelten die Absätze 1 und 2 entsprechend.
+(3) In Verfahren der Abschiebungs-, Zurückschiebungs- und Zurückweisungshaft liegt ein berechtigtes Interesse auch bei Vorliegen der Voraussetzungen des § 70 Absatz 2 Satz 1 vor.
+
+(4) Hat der Verfahrensbeistand oder der Verfahrenspfleger die Beschwerde eingelegt, gelten die Absätze 1 und 2 entsprechend.
 
 # § 63 – Beschwerdefrist
 
@@ -4270,6 +4272,8 @@ Von der Bekanntgabe der Gründe eines Beschlusses an den Betroffenen kann abgese
 (1) Das Gericht kann durch einstweilige Anordnung eine vorläufige Freiheitsentziehung anordnen, wenn dringende Gründe für die Annahme bestehen, dass die Voraussetzungen für die Anordnung einer Freiheitsentziehung gegeben sind und ein dringendes Bedürfnis für ein sofortiges Tätigwerden besteht. Die vorläufige Freiheitsentziehung darf die Dauer von sechs Wochen nicht überschreiten.
 
 (2) Bei Gefahr im Verzug kann das Gericht eine einstweilige Anordnung bereits vor der persönlichen Anhörung des Betroffenen sowie vor Bestellung und Anhörung des Verfahrenspflegers erlassen; die Verfahrenshandlungen sind unverzüglich nachzuholen.
+
+(3) Abweichend von den Absätzen 1 und 2 kann das Gericht eine einstweilige Anordnung vor der Anhörung des Betroffenen erlassen, wenn dringende Gründe für die Annahme vorliegen, dass die Voraussetzungen für die Anordnung einer Freiheitsentziehung gegeben sind, und die vorherige Anhörung den Zweck der Anordnung gefährden würde. Die Anhörung ist unverzüglich nachzuholen.
 
 # § 428 – Verwaltungsmaßnahme; richterliche Prüfung
 
