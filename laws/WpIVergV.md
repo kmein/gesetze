@@ -233,7 +233,7 @@ Die Instrumente nach Satz 1 sind mit einer angemessenen Sperrfrist von in der Re
 
 Die Rückzahlung bereits ausbezahlter variabler Vergütung ist für einen Zeitraum vorzusehen, der mit der Festsetzung der variablen Vergütung beginnt und ein Jahr nach Ablauf des Zurückbehaltungszeitraums für den zuletzt erdienten Vergütungsbestandteil der betreffenden variablen Vergütung endet.
 
-(+++ § 8 Abs. 3 bis 6: Zur Nichtanwednung vgl. § 10 Abs. 1 und 2 +++)
+(+++ § 8 Abs. 3 bis 6: Zur Nichtanwendung vgl. § 10 Abs. 1 und 2 +++)
 
 # § 9 – Zusätzliche Leistungen zur Altersversorgung
 

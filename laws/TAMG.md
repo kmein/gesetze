@@ -1059,6 +1059,8 @@ Die Nachweise nach Satz 1 sind mindestens drei Jahre aufzubewahren und auf Verla
 
 2. die Anwendung gemäß einer tierärztlichen Behandlungsanweisung, die die Tierärztin oder der Tierarzt für den betreffenden Fall ausgehändigt hat, erfolgt.
 
+Satz 1 gilt nicht für nicht verschreibungspflichtige registrierte homöopathische Arzneimittel nach § 2 Absatz 1, 2 und 3a des Arzneimittelgesetzes, soweit diese bei Tieren, die nicht der Gewinnung von Lebensmitteln dienen, angewendet werden.
+
 (3) Tierhalterinnen und Tierhalter sowie andere Personen, die nicht Tierärztinnen oder Tierärzte sind, dürfen andere als in Absatz 2 genannte von einer Tierärztin oder einem Tierarzt verschriebene oder erworbene Tierarzneimittel oder veterinärmedizintechnische Produkte nur gemäß einer tierärztlichen Behandlungsanweisung, die die Tierärztin oder der Tierarzt für den betreffenden Fall ausgehändigt hat, anwenden.
 
 (4) Apothekenpflichtige Tierarzneimittel und veterinärmedizintechnische Produkte, deren Anwendung nicht auf Grund einer tierärztlichen Behandlungsanweisung erfolgt, dürfen bei Tieren nur angewendet werden,
@@ -1073,7 +1075,7 @@ Die Nachweise nach Satz 1 sind mindestens drei Jahre aufzubewahren und auf Verla
 
 (5) Tierarzneimittel, die nach § 45 Absatz 4 zur Durchführung tierseuchenrechtlicher Maßnahmen bestimmt und nicht verschreibungspflichtig sind, dürfen bei Tieren, die der Gewinnung von Lebensmitteln dienen, nur gemäß der entsprechenden veterinärbehördlichen Anweisung angewendet werden.
 
-§ 50 Abs. 2: Nach Maßgabe der Entscheidungsformel mit Art. 2 Abs. 1 u. Art. 12 Abs. 1 GG unvereinbar u. nichtig gem. BVerfGE v. 29.9.2022 I 2261 - BvR 2380/21, 1 BvR 2449/21 -
+§ 50 Abs. 2 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 2 Abs. 1 u. Art. 12 Abs. 1 GG unvereinbar u. nichtig gem. BVerfGE v. 29.9.2022 I 2261 - BvR 2380/21, 1 BvR 2449/21 -
 
 # § 51 – Befugnisse tierärztlicher Bildungsstätten
 
@@ -1115,17 +1117,17 @@ Nachweise über den Erwerb verschreibungspflichtiger Arzneimittel zu führen hab
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die weiteren Einzelheiten über das Verfahren des Nachweises der spezifischen Produktqualität bei immunologischen Tierarzneimitteln im Geltungsbereich dieses Gesetzes nach Artikel 128 der Verordnung (EU) 2019/6 zu regeln. Das Bundesministerium kann diese Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die zuständige Bundesoberbehörde übertragen.
 
-(4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit, dem Bundesministerium für Wirtschaft und Energie sowie dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften darüber zu erlassen, wie der Nachweis der erforderlichen Sachkunde nach Artikel 97 Absatz 2 und 3 der Verordnung (EU) 2019/6 zu erbringen ist, um einen ordnungsgemäßen Verkehr mit Tierarzneimitteln und veterinärmedizintechnischen Produkten zu gewährleisten. Es kann dabei Prüfungszeugnisse über eine berufliche Aus- oder Fortbildung als Nachweis anerkennen. Es kann ferner bestimmen, dass die Sachkenntnis durch eine Prüfung vor der zuständigen Behörde oder einer von ihr bestimmten Stelle nachgewiesen wird, und das Nähere über die Prüfungsanforderungen und das Prüfungsverfahren regeln.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit, dem Bundesministerium für Wirtschaft und Klimaschutz sowie dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften darüber zu erlassen, wie der Nachweis der erforderlichen Sachkunde nach Artikel 97 Absatz 2 und 3 der Verordnung (EU) 2019/6 zu erbringen ist, um einen ordnungsgemäßen Verkehr mit Tierarzneimitteln und veterinärmedizintechnischen Produkten zu gewährleisten. Es kann dabei Prüfungszeugnisse über eine berufliche Aus- oder Fortbildung als Nachweis anerkennen. Es kann ferner bestimmen, dass die Sachkenntnis durch eine Prüfung vor der zuständigen Behörde oder einer von ihr bestimmten Stelle nachgewiesen wird, und das Nähere über die Prüfungsanforderungen und das Prüfungsverfahren regeln.
 
 # § 53 – Verordnungsermächtigungen zur Regelung der Kennzeichnung, der Packungsbeilage, der Packungsgrößen und der Preise
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates die Kennzeichnung von Tierarzneimitteln zu regeln, die zur klinischen Prüfung bestimmt sind. Satz 1 gilt nur, soweit die Kennzeichnung geboten ist, um eine unmittelbare oder mittelbare Gefährdung der Gesundheit von Mensch und Tier zu verhindern, die infolge mangelnder Kennzeichnung eintreten könnte.
 
-(2) Eine Rechtsverordnung nach Absatz 1 ergeht im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, soweit es sich um Tierarzneimittel handelt, die radioaktiv sind oder bei deren Herstellung ionisierende Strahlen verwendet werden.
+(2) Eine Rechtsverordnung nach Absatz 1 ergeht im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz, soweit es sich um Tierarzneimittel handelt, die radioaktiv sind oder bei deren Herstellung ionisierende Strahlen verwendet werden.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass Tierarzneimittel nur in bestimmten Packungsgrößen in den Verkehr gebracht werden dürfen. Die Bestimmung dieser Packungsgrößen erfolgt für bestimmte Wirkstoffe und berücksichtigt die Anwendungsgebiete, die Anwendungsdauer und die Darreichungsform des Tierarzneimittels.
 
-(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates Folgendes festzusetzen:
+(4) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates Folgendes festzusetzen:
 
 1. die Preisspannen für Tierarzneimittel, die im Großhandel, in Apotheken oder von Tierärztinnen oder Tierärzten im Wiederverkauf abgegeben werden,
 
@@ -1359,7 +1361,7 @@ b) der Löschung der Daten nach § 57 Absatz 8.
 
 # § 62 – Verordnungsermächtigung zur Regelung von Betriebsverordnungen
 
-(1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates Betriebsverordnungen für Betriebe und Einrichtungen zu erlassen,
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates Betriebsverordnungen für Betriebe und Einrichtungen zu erlassen,
 
 1. die Tierarzneimittel oder veterinärmedizintechnische Produkte in den Geltungsbereich dieses Gesetzes verbringen,
 
@@ -1369,33 +1371,49 @@ b) der Löschung der Daten nach § 57 Absatz 8.
 
 Eine Rechtsverordnung nach Satz 1 ergeht im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, soweit es sich um Tierarzneimittel handelt, die radioaktiv sind oder bei deren Herstellung ionisierende Strahlen verwendet werden.
 
-(2) In einer Rechtsverordnung nach Absatz 1 Satz 1 können für Tierarzneimittel und veterinärmedizintechnische Produkte insbesondere Regelungen getroffen werden über die
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung des in § 1 Absatz 1, auch in Verbindung mit Absatz 3, genannten Zwecks erforderlich ist, für Tierarzneimittel und veterinärmedizintechnische Produkte
 
-1. Entwicklung, Herstellung, Prüfung, Lagerung, Verpackung, Qualitätssicherung, den Erwerb, die Bereitstellung, die Bevorratung und das Bereitstellen auf dem Markt,
+1. die Entwicklung und Herstellung,
 
-2. Führung und Aufbewahrung von Nachweisen über die in Nummer 1 genannten Tätigkeiten,
+2. die Prüfung,
 
-3. Haltung und Kontrolle der bei der Herstellung und Prüfung der Tierarzneimittel oder veterinärmedizintechnischen Produkte verwendeten Tiere und die Nachweise darüber,
+3. die Lagerung und Verpackung,
 
-4. Anforderungen an das Personal,
+4. den Erwerb und die Bevorratung und
 
-5. Beschaffenheit, Größe und Einrichtung der Räume,
+5. die Bereitstellung auf dem Markt
 
-6. Anforderungen an die Hygiene,
+zu beschränken und die hierfür erforderlichen Maßnahmen vorzuschreiben. Hierbei kann insbesondere vorgeschrieben werden, dass
 
-7. Beschaffenheit der Behältnisse,
+1. über die in Satz 1 genannten Tätigkeiten Nachweise zu führen und aufzubewahren sind,
 
-8. Kennzeichnung der Vorratsbehältnisse, auch für Ausgangsstoffe,
+2. das die Tätigkeiten nach Satz 1 durchführende Personal bestimmte Anforderungen zu erfüllen hat,
 
-9. Dienstbereitschaft für Großhändlerinnen und Großhändler von Tierarzneimitteln oder veterinärmedizintechnischen Produkte,
+3. bestimmte Anforderungen an die Beschaffenheit, Größe und Einrichtung der Räume einzuhalten sind, in denen die Tätigkeiten nach Satz 1 stattfinden,
 
-10. Zurückstellung von Chargenproben sowie über deren Umfang und Lagerungsdauer,
+4. bestimmte Anforderungen an die erforderliche Hygiene bei der Durchführung der in Satz 1 genannten Tätigkeiten einzuhalten sind,
 
-11. Kennzeichnung, Absonderung oder Vernichtung nicht verkehrsfähiger Tierarzneimittel oder veterinärmedizintechnischer Produkte,
+5. bestimmte Anforderungen an die Beschaffenheit und Kennzeichnung der Behältnisse und Vorratsbehältnisse, auch für Ausgangsstoffe, einzuhalten sind, die bei den in Satz 1 genannten Tätigkeiten verwendet werden,
 
-12. Voraussetzungen für und die Anforderungen an die in Nummer 1 bezeichneten Tätigkeiten durch eine Tierärztin oder einen Tierarzt im Rahmen des Betriebs einer tierärztlichen Hausapotheke sowie über die Anforderungen an die Anwendung von Tierarzneimitteln und Arzneimitteln nach § 2 Absatz 1, 2 und 3a des Arzneimittelgesetzes durch eine Tierärztin oder einen Tierarzt an den von ihr oder ihm behandelten Tieren.
+6. Personen, Betriebe und Einrichtungen, die Tätigkeiten nach Satz 1 ausführen, ein System zu betreiben haben, das die Qualitätssicherung, die Gute Herstellungspraxis oder die gute fachliche Praxis einschließlich der Qualitätskontrolle und der periodischen Produktqualitätsüberprüfungen zum Gegenstand hat,
 
-(3) Eine Rechtsverordnung nach den Absätzen 1 und 2 gilt auch für Personen, die die in Absatz 1 genannten Tätigkeiten berufsmäßig ausüben.
+7. Chargenproben in bestimmtem Umfang und mit bestimmter Lagerungsdauer zurückzustellen sind,
+
+8. nicht verkehrsfähige Tierarzneimittel und nicht verkehrsfähige veterinärmedizintechnische Produkte zu kennzeichnen, gesondert aufzubewahren oder zu vernichten sind,
+
+9. über die Haltung der bei der Herstellung und Prüfung von Tierarzneimitteln oder veterinärmedizintechnischen Produkten verwendeten Tiere Nachweise zu führen und aufzubewahren sind,
+
+10. Großhändlerinnen und Großhändler von Tierarzneimitteln oder veterinärmedizintechnischen Produkten im Rahmen ihrer Dienstbereitschaft bestimmte Anforderungen einzuhalten haben.
+
+(3) In einer Rechtsverordnung nach Absatz 2 Satz 1, auch in Verbindung mit Absatz 2 Satz 2, können
+
+1. Anforderungen an den Betrieb einer tierärztlichen Hausapotheke durch eine Tierärztin oder einen Tierarzt geregelt werden,
+
+2. die Anwendung von Tierarzneimitteln durch eine Tierärztin oder einen Tierarzt an den von ihr oder ihm behandelten Tieren beschränkt und die hierfür erforderlichen Maßnahmen geregelt werden.
+
+Vorschriften nach Satz 1 können auch für Arzneimittel nach § 2 Absatz 1, 2 und 3a des Arzneimittelgesetzes erlassen werden.
+
+(4) Eine Rechtsverordnung nach Absatz 1, auch in Verbindung mit Absatz 2 oder 3, gilt auch für Personen, die die in Absatz 1 genannten Tätigkeiten berufsmäßig ausüben.
 
 # § 63 – Arzneibuch und amtliche Sammlung von Untersuchungsverfahren
 
@@ -1405,7 +1423,7 @@ Hinsichtlich der Regelungen zum Arzneibuch und der amtlichen Sammlung von Unters
 
 (1) Die Durchführung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsvorschriften sowie der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes obliegt den zuständigen Behörden der Länder, soweit nicht in diesem Gesetz oder auf Grund anderer gesetzlicher Rechtsgrundlagen eine abweichende Zuständigkeitsregelung getroffen wird.
 
-(2) Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt der Vollzug dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsvorschriften sowie der unmittelbar geltenden Rechtsakte der Europäischen Union und der Europäischen Gemeinschaft den zuständigen Stellen der Bundeswehr. Im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat obliegt der Vollzug dieses Gesetzes den zuständigen Stellen und Sachverständigen der Bundespolizei.
+(2) Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt der Vollzug dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsvorschriften sowie der unmittelbar geltenden Rechtsakte der Europäischen Union und der Europäischen Gemeinschaft den zuständigen Stellen der Bundeswehr. Im Geschäftsbereich des Bundesministeriums des Innern und für Heimat obliegt der Vollzug dieses Gesetzes den zuständigen Stellen und Sachverständigen der Bundespolizei.
 
 (3) Die zuständige Bundesoberbehörde ist die zuständige Behörde im Sinne
 
@@ -1459,7 +1477,7 @@ c) bei befristeten Sicherheitsbeschränkungen und bei der Anordnung des Ruhens u
 
 In den Verfahren nach Satz 1 übermittelt die zuständige Bundesoberbehörde dem Umweltbundesamt die zur Beurteilung der Auswirkungen auf die Umwelt erforderlichen Angaben und Unterlagen und räumt dem Umweltbundesamt eine angemessene Frist zur Stellungnahme ein.
 
-(3) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates die Zuständigkeit der Behörden des Bundes abweichend von den Absätzen 1 und 2 sowie von § 64 Absatz 3 zu regeln.
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates die Zuständigkeit der Behörden des Bundes abweichend von den Absätzen 1 und 2 sowie von § 64 Absatz 3 zu regeln.
 
 # § 66 – Gegenseitige Information
 
@@ -1563,13 +1581,13 @@ b) im Fall des § 45 Absatz 6 Nummer 2 die Zulassungsnummer.
 
 (6) Die nach den Absätzen 1 und 2 zur Übermittlung der Daten an das Bundesinstitut für Arzneimittel und Medizinprodukte sowie an die zuständige Bundesoberbehörde Verpflichteten sind für die Richtigkeit und Vollständigkeit der übermittelten Daten verantwortlich. Bei der Übermittlung der Daten sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung des Datenschutzes und der Datensicherheit zu treffen.
 
-(7) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit, dem Bundesministerium des Innern, für Bau und Heimat sowie dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates weitere technische Regelungen hinsichtlich der Art und Weise der Datenübermittlung zu treffen.
+(7) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit, dem Bundesministerium des Innern und für Heimat sowie dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates weitere technische Regelungen hinsichtlich der Art und Weise der Datenübermittlung zu treffen.
 
-(8) Die Rechtsverordnung nach Absatz 7 wird im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erlassen, soweit es sich um Tierarzneimittel handelt, die radioaktiv sind oder bei deren Herstellung ionisierende Strahlen verwendet werden.
+(8) Die Rechtsverordnung nach Absatz 7 wird im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz erlassen, soweit es sich um Tierarzneimittel handelt, die radioaktiv sind oder bei deren Herstellung ionisierende Strahlen verwendet werden.
 
 # § 70 – Datenabrufe aus dem Informationssystem
 
-(1) Das Bundesministerium für Ernährung und Landwirtschaft, das Bundesministerium für Gesundheit und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, die in § 65 genannten Bundesoberbehörden sowie die zuständigen Stellen der Länder sind befugt, die in dem Informationssystem nach § 68 Absatz 5 gespeicherten Daten abzurufen, soweit dies zur Wahrnehmung ihrer Aufgaben jeweils erforderlich ist. Die Verantwortung für die Zulässigkeit des einzelnen automatisierten Abrufs trägt die abrufende Stelle. Das Bundesinstitut für Arzneimittel und Medizinprodukte überprüft die Zulässigkeit des Abrufs nur, wenn dazu Anlass besteht.
+(1) Das Bundesministerium für Ernährung und Landwirtschaft, das Bundesministerium für Gesundheit und das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz, die in § 65 genannten Bundesoberbehörden sowie die zuständigen Stellen der Länder sind befugt, die in dem Informationssystem nach § 68 Absatz 5 gespeicherten Daten abzurufen, soweit dies zur Wahrnehmung ihrer Aufgaben jeweils erforderlich ist. Die Verantwortung für die Zulässigkeit des einzelnen automatisierten Abrufs trägt die abrufende Stelle. Das Bundesinstitut für Arzneimittel und Medizinprodukte überprüft die Zulässigkeit des Abrufs nur, wenn dazu Anlass besteht.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte legt im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik insbesondere unter Beachtung der Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 nähere Anforderungen an das Datenformat sowie die Anforderungen an die Sicherheit gegen unbefugte Zugriffe auf die gespeicherten Daten und bei der Datenübertragung fest. Diese haben dem Stand der Technik zu entsprechen und sind vom Bundesinstitut für Arzneimittel und Medizinprodukte im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fortlaufend anzupassen.
 
@@ -1711,7 +1729,7 @@ Die §§ 72 bis 74 gelten entsprechend für die in § 72 Absatz 2 genannten Unte
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen von den Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen für den Bereich der Bundeswehr, der Bundespolizei, der Bereitschaftspolizeien der Länder und des Zivil- und Katastrophenschutzes zuzulassen, soweit dies zur Durchführung der besonderen Aufgaben einschließlich der Teilnahme an internationalen Hilfsaktionen in diesen Bereichen gerechtfertigt ist und der Schutz der Gesundheit von Mensch und Tier gewahrt bleibt.
 
-(3) Eine Rechtsverordnung nach Absatz 2 ergeht im Einvernehmen mit dem Bundesministerium der Verteidigung, soweit sie den Bereich der Bundeswehr berührt, und im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, soweit sie den Bereich der Bundespolizei und des Zivilschutzes berührt, jeweils ohne Zustimmung des Bundesrates. Sie ergeht im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat mit Zustimmung des Bundesrates, soweit die Rechtsverordnung den Bereich der Bereitschaftspolizeien der Länder oder des Katastrophenschutzes berührt.
+(3) Eine Rechtsverordnung nach Absatz 2 ergeht im Einvernehmen mit dem Bundesministerium der Verteidigung, soweit sie den Bereich der Bundeswehr berührt, und im Einvernehmen mit dem Bundesministerium des Innern und für Heimat, soweit sie den Bereich der Bundespolizei und des Zivilschutzes berührt, jeweils ohne Zustimmung des Bundesrates. Sie ergeht im Einvernehmen mit dem Bundesministerium des Innern und für Heimat mit Zustimmung des Bundesrates, soweit die Rechtsverordnung den Bereich der Bereitschaftspolizeien der Länder oder des Katastrophenschutzes berührt.
 
 # § 79 – Allgemeine Anzeigepflicht
 
@@ -1735,9 +1753,9 @@ Die zuständigen Bundesoberbehörden und die zuständigen Behörden der Länder 
 
 # § 81 – Verordnungsermächtigungen für Krisenzeiten
 
-(1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen von den Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zuzulassen, wenn die notwendige Versorgung der Tierbestände mit Arzneimitteln sonst ernstlich gefährdet wäre und eine unmittelbare oder mittelbare Gefährdung der Gesundheit von Mensch und Tier durch Arzneimittel nicht zu befürchten ist.
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen von den Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zuzulassen, wenn die notwendige Versorgung der Tierbestände mit Arzneimitteln sonst ernstlich gefährdet wäre und eine unmittelbare oder mittelbare Gefährdung der Gesundheit von Mensch und Tier durch Arzneimittel nicht zu befürchten ist.
 
-(2) Eine Rechtsverordnung nach Absatz 1 ergeht im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, soweit es sich um Tierarzneimittel, die radioaktive sind oder bei deren Herstellung ionisierende Strahlen verwendet werden, oder um Regelungen zur Abwehr von Gefahren durch ionisierende Strahlung handelt.
+(2) Eine Rechtsverordnung nach Absatz 1 ergeht im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz, soweit es sich um Tierarzneimittel, die radioaktive sind oder bei deren Herstellung ionisierende Strahlen verwendet werden, oder um Regelungen zur Abwehr von Gefahren durch ionisierende Strahlung handelt.
 
 (3) Die Geltungsdauer einer Rechtsverordnung nach Absatz 1 ist auf sechs Monate zu befristen.
 
@@ -1829,9 +1847,11 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 14. entgegen § 58 Absatz 3 Satz 1 einen dort genannten Plan nicht, nicht richtig oder nicht rechtzeitig übermittelt,
 
-15. einer vollziehbaren Anordnung nach § 72 Absatz 4 Satz 1 Nummer 5 zuwiderhandelt oder
+15. einer Rechtsverordnung nach § 62 Absatz 2, auch in Verbindung mit Absatz 3, oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-16. entgegen § 79 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit § 79 Absatz 2, jeweils auch in Verbindung mit § 79 Absatz 4, entgegen § 79 Absatz 6 Satz 1, auch in Verbindung mit Satz 2, oder entgegen § 79 Absatz 7 Satz 1, auch in Verbindung mit Satz 3, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
+16. einer vollziehbaren Anordnung nach § 72 Absatz 4 Satz 1 Nummer 5 zuwiderhandelt oder
+
+17. entgegen § 79 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit § 79 Absatz 2, jeweils auch in Verbindung mit § 79 Absatz 4, entgegen § 79 Absatz 6 Satz 1, auch in Verbindung mit Satz 2, oder entgegen § 79 Absatz 7 Satz 1, auch in Verbindung mit Satz 3, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 (3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021 S. 17) verstößt, indem er vorsätzlich oder fahrlässig
 

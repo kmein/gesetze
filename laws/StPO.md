@@ -1185,7 +1185,7 @@ b) gewerbs- und bandenmäßige Verleitung zur missbräuchlichen Asylantragstellu
 
 5. aus dem Aufenthaltsgesetz:
 
-a) Einschleusen von Ausländern nach § 96 Abs. 2,
+a) Einschleusen von Ausländern und Personen, auf die das Freizügigkeitsgesetz/EU Anwendung findet, nach § 96 Absatz 1, 2 und 4,
 
 b) Einschleusen mit Todesfolge und gewerbs- und bandenmäßiges Einschleusen nach § 97,
 
