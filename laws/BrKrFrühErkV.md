@@ -9,7 +9,7 @@ Auf Grund des § 84 Absatz 2 in Verbindung mit Absatz 5 des Strahlenschutzgesetz
 
 (1) Röntgenuntersuchungen zur Früherkennung von Brustkrebs sind zulässig bei Frauen,
 
-1. die das 50., aber noch nicht das 70. Lebensjahr vollendet haben und
+1. die das 50., aber noch nicht das 76. Lebensjahr vollendet haben und
 
 2. bei denen die letzte Röntgenuntersuchung der Brust
 
@@ -19,7 +19,7 @@ b) außerhalb der Früherkennung mindestens zwölf Monate zurückliegt.
 
 (2) Darüber hinaus sind Röntgenuntersuchungen zur Früherkennung von Brustkrebs nur zulässig, wenn die Einhaltung aller Anforderungen nach den §§ 2 bis 8 gewährleistet ist.
 
-(3) Die Anforderungen an die Zulässigkeit nach Absatz 2 gelten als erfüllt, wenn die Früherkennung nach einem Programm zur Früherkennung von Brustkrebs gemäß den §§ 25a und 92 des Fünften Buches Sozialgesetzbuch in Verbindung mit der Richtlinie des Gemeinsamen Bundesausschusses über die Früherkennung von Krebserkrankungen (Krebsfrüherkennungs-Richtlinie) in der Fassung vom 18. Juni 2009 (BAnz. Nr. 148a vom 2. Oktober 2009), die zuletzt am 20. Juli 2017 geändert worden ist (BAnz AT 07.11.2017 B3), in der jeweils geltenden Fassung erfolgt.
+(3) Die Anforderungen an die Zulässigkeit nach Absatz 2 gelten als erfüllt, wenn die Früherkennung nach einem Programm zur Früherkennung von Brustkrebs gemäß den §§ 25, 25a und 92 des Fünften Buches Sozialgesetzbuch in Verbindung mit der Richtlinie des Gemeinsamen Bundesausschusses über die Früherkennung von Krebserkrankungen (Krebsfrüherkennungs-Richtlinie) in der Fassung vom 18. Juni 2009 (BAnz. Nr. 148a vom 2. Oktober 2009), die zuletzt am 18. Juni 2020 geändert worden ist (BAnz AT 27.08.2020 B3), in der jeweils geltenden Fassung erfolgt.
 
 (4) Die rechtfertigende Indikation für die Anwendung von Röntgenstrahlung in einem Programm nach Absatz 3 gilt als gestellt, wenn die Einschlusskriterien nach Absatz 1 erfüllt sind.
 
@@ -31,7 +31,13 @@ b) außerhalb der Früherkennung mindestens zwölf Monate zurückliegt.
 
 2. pro Jahr Röntgenaufnahmen von mindestens 5 000 Frauen befundet und dokumentiert.
 
-(2) Abweichend von Absatz 1 ist es im ersten Jahr der Tätigkeit der Früherkennung von Brustkrebs bei Frauen ausreichend, dass Röntgenaufnahmen von 3 000 Frauen befundet werden.
+(2) Abweichend von Absatz 1 Nummer 2 ist es ausreichend, dass eine Person Röntgenaufnahmen von mindestens 3 000 Frauen befundet, wenn
+
+1. sie sich im ersten Jahr ihrer Tätigkeit im Rahmen der Früherkennung von Brustkrebs bei Frauen befindet oder
+
+2. ein begründeter Einzelfall vorliegt.
+
+Eine Abweichung gemäß Absatz 2 Satz 1 Nummer 2 gilt nur für ein Jahr.
 
 # § 3 – Medizinphysik-Experte; Aufgaben des Medizinphysik-Experten
 
@@ -109,7 +115,7 @@ Diese Anforderungen gelten auch für Röntgeneinrichtungen, die für die Abklär
 
 a) zwei Personen gemäß § 2 Absatz 1 oder
 
-b) eine Person gemäß § 2 Absatz 2 und eine Person gemäß § 2 Absatz 1
+b) eine Person gemäß § 2 Absatz 2 Satz 1 und eine Person gemäß § 2 Absatz 1
 
 unabhängig voneinander befundet werden und
 

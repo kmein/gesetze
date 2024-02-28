@@ -215,7 +215,7 @@ c) in sonstiger Weise im Falle einer vorausgegangenen Unterrichtung nach Nummer 
 
 (1b) Die oberste Landesbehörde oder die von ihr bestimmte Stelle kann dem Bundesamt personenbezogene Daten über körperliche, seelische, geistige oder Sinnesbeeinträchtigungen eines Ausländers übermitteln, deren Kenntnis für das Bundesamt zur ordnungsgemäßen Durchführung der Anhörung erforderlich ist. Die Daten dürfen nur zu diesem Zweck verarbeitet werden und sind anschließend zu löschen.
 
-(1c) Die Träger der Grundsicherung für Arbeitsuchende, die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden, die Ausländerbehörden und die deutschen Auslandsvertretungen teilen den mit der Ausführung dieses Gesetzes betrauten Behörden mit, wenn sie von Umständen Kenntnis erlangt haben, dass ein Asylberechtigter oder ein Ausländer, dem internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt worden ist, in sein Herkunftsland (§ 3 Absatz 1 Nummer 2) gereist ist. Die nach Satz 1 übermittelten personenbezogenen Daten dürfen nur für die Prüfung verarbeitet werden, ob die Voraussetzungen für einen Widerruf oder eine Rücknahme der Asylberechtigung oder des internationalen Schutzes vorliegen.
+(1c) Die Träger der Grundsicherung für Arbeitsuchende, die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden, die Ausländerbehörden und die deutschen Auslandsvertretungen teilen den mit der Ausführung dieses Gesetzes betrauten Behörden mit, wenn sie von Umständen Kenntnis erlangt haben, dass ein Ausländer, der einen Asylantrag gestellt hat, ein Asylberechtigter oder ein Ausländer, dem internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt oder für den ein Abschiebungsverbot nach § 60 Absatz 5 oder Absatz 7 des Aufenthaltsgesetzes festgestellt worden ist, in sein Herkunftsland (§ 3 Absatz 1 Nummer 2) gereist ist. Die nach Satz 1 übermittelten personenbezogenen Daten dürfen nur für die Prüfung verarbeitet werden, ob die Voraussetzungen für die Einstellung des Asylverfahrens oder die Ablehnung eines Asylantrags nach § 33 Absatz 1 und 3 oder für einen Widerruf oder eine Rücknahme der Asylberechtigung, des internationalen Schutzes oder der Feststellung eines Abschiebungsverbots nach § 60 Absatz 5 oder Absatz 7 des Aufenthaltsgesetzes vorliegen.
 
 (2) Die zuständigen Behörden unterrichten das Bundesamt unverzüglich über ein förmliches Auslieferungsersuchen und ein mit der Ankündigung des Auslieferungsersuchens verbundenes Festnahmeersuchen eines anderen Staates sowie über den Abschluss des Auslieferungsverfahrens, wenn der Ausländer einen Asylantrag gestellt hat.
 
@@ -311,23 +311,7 @@ Gegen Maßnahmen und Entscheidungen nach diesem Gesetz findet kein Widerspruch s
 
 Die Ausländerbehörde leitet einen bei ihr eingereichten schriftlichen Antrag unverzüglich dem Bundesamt zu. Das Bundesamt bestimmt die für die Bearbeitung des Asylantrags zuständige Außenstelle.
 
-(3) Befindet sich der Ausländer in den Fällen des Absatzes 2 Satz 1 Nr. 2 in
-
-1. Untersuchungshaft,
-
-2. Strafhaft,
-
-3. Vorbereitungshaft nach § 62 Absatz 2 des Aufenthaltsgesetzes,
-
-4. Sicherungshaft nach § 62 Absatz 3 Satz 1 Nummer 2 des Aufenthaltsgesetzes, weil er sich nach der unerlaubten Einreise länger als einen Monat ohne Aufenthaltstitel im Bundesgebiet aufgehalten hat,
-
-5. Sicherungshaft nach § 62 Absatz 3 Satz 1 Nummer 1 und 3 des Aufenthaltsgesetzes,
-
-6. Mitwirkungshaft nach § 62 Absatz 6 des Aufenthaltsgesetzes,
-
-7. Ausreisegewahrsam nach § 62b des Aufenthaltsgesetzes,
-
-steht die Asylantragstellung der Anordnung oder Aufrechterhaltung von Abschiebungshaft nicht entgegen. Dem Ausländer ist unverzüglich Gelegenheit zu geben, mit einem Rechtsbeistand seiner Wahl Verbindung aufzunehmen, es sei denn, er hat sich selbst vorher anwaltlichen Beistands versichert. Die Abschiebungshaft endet mit der Zustellung der Entscheidung des Bundesamtes, spätestens jedoch vier Wochen nach Eingang des Asylantrags beim Bundesamt, es sei denn, es wurde auf Grund von Rechtsvorschriften der Europäischen Gemeinschaft oder eines völkerrechtlichen Vertrages über die Zuständigkeit für die Durchführung von Asylverfahren ein Auf- oder Wiederaufnahmeersuchen an einen anderen Staat gerichtet oder der Asylantrag wurde als unzulässig nach § 29 Absatz 1 Nummer 4 oder als offensichtlich unbegründet abgelehnt.
+(3) Befindet sich der Ausländer in Haft oder sonstigem öffentlichem Gewahrsam oder lagen zum Zeitpunkt der Stellung des Asylantrags die Voraussetzungen der Abschiebungshaft vor, so steht die Stellung des Asylantrags der Anordnung oder Aufrechterhaltung von Abschiebungshaft nicht entgegen. Dem Ausländer ist unverzüglich Gelegenheit zu geben, mit einem Rechtsbeistand seiner Wahl Verbindung aufzunehmen, es sei denn, er hat sich selbst vorher anwaltlichen Beistands versichert. Die Abschiebungshaft endet mit der Zustellung der Entscheidung des Bundesamtes, spätestens jedoch vier Wochen nach Eingang des Asylantrags beim Bundesamt, es sei denn, es wurde auf Grund von Rechtsvorschriften der Europäischen Gemeinschaft oder eines völkerrechtlichen Vertrages über die Zuständigkeit für die Durchführung von Asylverfahren ein Auf- oder Wiederaufnahmeersuchen an einen anderen Staat gerichtet oder der Asylantrag wurde abgelehnt.
 
 # § 14a – Familieneinheit
 
@@ -345,7 +329,7 @@ steht die Asylantragstellung der Anordnung oder Aufrechterhaltung von Abschiebun
 
 (2) Er ist insbesondere verpflichtet,
 
-1. den mit der Ausführung dieses Gesetzes betrauten Behörden die erforderlichen Angaben mündlich und nach Aufforderung auch schriftlich zu machen;
+1. den mit der Ausführung dieses Gesetzes betrauten Behörden die erforderlichen Angaben wahrheitsgemäß und nach bestem Wissen und Gewissen mündlich und nach Aufforderung auch schriftlich zu machen;
 
 2. das Bundesamt unverzüglich zu unterrichten, wenn ihm ein Aufenthaltstitel erteilt worden ist;
 
@@ -371,15 +355,19 @@ steht die Asylantragstellung der Anordnung oder Aufrechterhaltung von Abschiebun
 
 5. alle sonstigen Urkunden und Unterlagen, auf die der Ausländer sich beruft oder die für die zu treffenden asyl- und ausländerrechtlichen Entscheidungen und Maßnahmen einschließlich der Feststellung und Geltendmachung einer Rückführungsmöglichkeit in einen anderen Staat von Bedeutung sind.
 
-(4) Die mit der Ausführung dieses Gesetzes betrauten Behörden können den Ausländer und Sachen, die von ihm mitgeführt werden, durchsuchen, wenn der Ausländer seinen Verpflichtungen nach Absatz 2 Nr. 4 und 5 nicht nachkommt sowie nicht gemäß Absatz 2 Nummer 6 auf Verlangen die Datenträger vorlegt, aushändigt oder überlässt und Anhaltspunkte bestehen, dass er im Besitz solcher Unterlagen oder Datenträger ist. Der Ausländer darf nur von einer Person gleichen Geschlechts durchsucht werden.
+(4) Die mit der Ausführung dieses Gesetzes betrauten Behörden sowie die für die Aufnahmeeinrichtungen nach § 44 Absatz 1 zuständigen Behörden der Länder können den Ausländer und Sachen, die von ihm mitgeführt werden, durchsuchen, wenn der Ausländer seinen Verpflichtungen nach Absatz 2 Nummer 4 und 5 nicht nachkommt sowie nicht gemäß Absatz 2 Nummer 6 auf Verlangen die Datenträger vorlegt, aushändigt oder überlässt und Anhaltspunkte bestehen, dass er im Besitz solcher Unterlagen oder Datenträger ist. Der Ausländer darf nur von einer Person gleichen Geschlechts durchsucht werden.
 
 (5) Durch die Rücknahme des Asylantrags werden die Mitwirkungspflichten des Ausländers nicht beendet.
 
-# § 15a – Auswertung von Datenträgern
+# § 15a – Auslesen und Auswerten von Datenträgern
 
-(1) Die Auswertung von Datenträgern ist nur zulässig, soweit dies für die Feststellung der Identität und Staatsangehörigkeit des Ausländers nach § 15 Absatz 2 Nummer 6 erforderlich ist und der Zweck der Maßnahme nicht durch mildere Mittel erreicht werden kann. § 48 Absatz 3a Satz 2 bis 7 und § 48a des Aufenthaltsgesetzes gelten entsprechend.
+(1) Das Auslesen von Datenträgern, einschließlich mobiler Geräte und Cloud-Dienste, ist zum Zweck der Sicherstellung einer Auswertung nach Absatz 2 zulässig, wenn es zur Feststellung der Identität und der Staatsangehörigkeit erforderlich ist, da der Ausländer keinen gültigen Pass, Passersatz oder sonstigen geeigneten Identitätsnachweis besitzt. Der Ausländer hat die notwendigen Zugangsdaten für ein zulässiges Auslesen der Datenträger zur Verfügung zu stellen; § 48a des Aufenthaltsgesetzes gilt entsprechend.
 
-(2) Für die in Absatz 1 genannten Maßnahmen ist das Bundesamt zuständig.
+(2) Das Auswerten der ausgelesenen Daten ist nur zulässig, soweit dies für die Feststellung der Identität und Staatsangehörigkeit des Ausländers nach § 15 Absatz 2 Nummer 6 erforderlich ist und der Zweck der Maßnahme nicht durch mildere Mittel erreicht werden kann. Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch das Auswerten von Datenträgern allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Erkenntnisse aus dem Kernbereich privater Lebensgestaltung, die durch das Auswerten von Datenträgern erlangt werden, dürfen nicht verwertet werden. Aufzeichnungen hierüber sind unverzüglich zu löschen. Die Tatsache ihrer Erlangung und Löschung ist aktenkundig zu machen. Die Datenträger dürfen nur von einem Bediensteten ausgewertet werden, der die Befähigung zum Richteramt hat.
+
+(3) Ausgelesene Daten sind unverzüglich zu löschen, sobald sie für die Feststellung der Identität oder Staatsangehörigkeit nicht mehr erforderlich sind. Das Auslesen, Auswerten und Löschen von Daten ist in der Asylakte zu dokumentieren. Durch geeignete technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 ist sicherzustellen, dass kein unberechtigter Zugriff auf die ausgelesenen Daten erfolgt.
+
+(4) Für die in den Absätzen 1 bis 3 genannten Maßnahmen ist das Bundesamt zuständig.
 
 # § 16 – Sicherung, Feststellung und Überprüfung der Identität
 
@@ -681,29 +669,27 @@ für die Durchführung des Asylverfahrens zuständig ist,
 
 # § 30 – Offensichtlich unbegründete Asylanträge
 
-(1) Ein Asylantrag ist offensichtlich unbegründet, wenn die Voraussetzungen für eine Anerkennung als Asylberechtigter und die Voraussetzungen für die Zuerkennung des internationalen Schutzes offensichtlich nicht vorliegen.
+(1) Ein unbegründeter Asylantrag ist als offensichtlich unbegründet abzulehnen, wenn der Ausländer
 
-(2) Ein Asylantrag ist insbesondere offensichtlich unbegründet, wenn nach den Umständen des Einzelfalles offensichtlich ist, dass sich der Ausländer nur aus wirtschaftlichen Gründen oder um einer allgemeinen Notsituation zu entgehen, im Bundesgebiet aufhält.
+1. im Asylverfahren nur Umstände vorgebracht hat, die für die Prüfung des Asylantrags nicht von Belang sind,
 
-(3) Ein unbegründeter Asylantrag ist als offensichtlich unbegründet abzulehnen, wenn
+2. eindeutig unstimmige und widersprüchliche, eindeutig falsche oder offensichtlich unwahrscheinliche Angaben gemacht hat, die im Widerspruch zu hinreichend gesicherten Herkunftslandinformationen stehen, sodass die Begründung für seinen Asylantrag offensichtlich nicht überzeugend ist,
 
-1. in wesentlichen Punkten das Vorbringen des Ausländers nicht substantiiert oder in sich widersprüchlich ist, offenkundig den Tatsachen nicht entspricht oder auf gefälschte oder verfälschte Beweismittel gestützt wird,
+3. die Behörden durch falsche Angaben oder Dokumente oder durch Verschweigen wichtiger Informationen oder durch Zurückhalten von Dokumenten über seine Identität oder Staatsangehörigkeit offensichtlich getäuscht hat,
 
-2. der Ausländer im Asylverfahren über seine Identität oder Staatsangehörigkeit täuscht oder diese Angaben verweigert,
+4. ein Identitäts- oder ein Reisedokument, das die Feststellung seiner Identität oder Staatsangehörigkeit ermöglicht hätte, mutwillig vernichtet oder beseitigt hat oder die Umstände offensichtlich diese Annahme rechtfertigen,
 
-3. er unter Angabe anderer Personalien einen weiteren Asylantrag oder ein weiteres Asylbegehren anhängig gemacht hat,
+5. sich weigert, der Verpflichtung zur Abnahme seiner Fingerabdrücke gemäß der Verordnung (EU) Nr. 603/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über die Einrichtung von Eurodac für den Abgleich von Fingerabdruckdaten zum Zwecke der effektiven Anwendung der Verordnung (EU) Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist und über der Gefahrenabwehr und Strafverfolgung dienende Anträge der Gefahrenabwehr- und Strafverfolgungsbehörden der Mitgliedstaaten und Europols auf den Abgleich mit Eurodac-Daten sowie zur Änderung der Verordnung (EU) Nr. 1077/2011 zur Errichtung einer Europäischen Agentur für das Betriebsmanagement von IT-Großsystemen im Raum der Freiheit, der Sicherheit und des Rechts (ABl. L 180 vom 29.6.2013, S. 1) nachzukommen,
 
-4. er den Asylantrag gestellt hat, um eine drohende Aufenthaltsbeendigung abzuwenden, obwohl er zuvor ausreichend Gelegenheit hatte, einen Asylantrag zu stellen,
+6. den Asylantrag nur zur Verzögerung oder Behinderung der Vollstreckung einer bereits getroffenen oder unmittelbar bevorstehenden Entscheidung, die zu seiner Abschiebung führen würde, gestellt hat,
 
-5. er seine Mitwirkungspflichten nach § 13 Abs. 3 Satz 2, § 15 Abs. 2 Nr. 3 bis 5 oder § 25 Abs. 1 gröblich verletzt hat, es sei denn, er hat die Verletzung der Mitwirkungspflichten nicht zu vertreten oder ihm war die Einhaltung der Mitwirkungspflichten aus wichtigen Gründen nicht möglich,
+7. aus schwerwiegenden Gründen der öffentlichen Sicherheit oder öffentlichen Ordnung ausgewiesen wurde oder es schwerwiegende Gründe für die Annahme gibt, dass er eine Gefahr für die nationale Sicherheit oder die öffentliche Ordnung darstellt,
 
-6. er nach §§ 53, 54 des Aufenthaltsgesetzes vollziehbar ausgewiesen ist oder
+8. einen Folgeantrag (§ 71 Absatz 1) oder einen Zweitantrag (§ 71a Absatz 1) gestellt hat und ein weiteres Asylverfahren durchgeführt wurde oder
 
-7. er für einen nach diesem Gesetz handlungsunfähigen Ausländer gestellt wird oder nach § 14a als gestellt gilt, nachdem zuvor Asylanträge der Eltern oder des allein personensorgeberechtigten Elternteils unanfechtbar abgelehnt worden sind.
+9. entgegen einem Einreise- und Aufenthaltsverbot in das Bundesgebiet eingereist ist.
 
-(4) Ein Asylantrag ist ferner als offensichtlich unbegründet abzulehnen, wenn die Voraussetzungen des § 60 Abs. 8 Satz 1 des Aufenthaltsgesetzes oder des § 3 Abs. 2 vorliegen oder wenn das Bundesamt nach § 60 Absatz 8 Satz 3 des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen hat.
-
-(5) Ein beim Bundesamt gestellter Antrag ist auch dann als offensichtlich unbegründet abzulehnen, wenn es sich nach seinem Inhalt nicht um einen Asylantrag im Sinne des § 13 Abs. 1 handelt.
+(2) Auf unbegleitete Minderjährige findet Absatz 1 Nummer 1 bis 6 keine Anwendung.
 
 # § 30a – Beschleunigte Verfahren
 
@@ -719,9 +705,11 @@ für die Durchführung des Asylverfahrens zuständig ist,
 
 5. den Antrag nur zur Verzögerung oder Behinderung der Vollstreckung einer bereits getroffenen oder unmittelbar bevorstehenden Entscheidung, die zu seiner Abschiebung führen würde, gestellt hat,
 
-6. sich weigert, der Verpflichtung zur Abnahme seiner Fingerabdrücke gemäß der Verordnung (EU) Nr. 603/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über die Einrichtung von Eurodac für den Abgleich von Fingerabdruckdaten zum Zwecke der effektiven Anwendung der Verordnung (EU) Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist und über der Gefahrenabwehr und Strafverfolgung dienende Anträge der Gefahrenabwehr- und Strafverfolgungsbehörden der Mitgliedstaaten und Europols auf den Abgleich mit Eurodac-Daten sowie zur Änderung der Verordnung (EU) Nr. 1077/2011 zur Errichtung einer Europäischen Agentur für das Betriebsmanagement von IT-Großsystemen im Raum der Freiheit, der Sicherheit und des Rechts (ABl. L 180 vom 29.6.2013, S. 1) nachzukommen, oder
+6. sich weigert, der Verpflichtung zur Abnahme seiner Fingerabdrücke gemäß der Verordnung (EU) Nr. 603/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über die Einrichtung von Eurodac für den Abgleich von Fingerabdruckdaten zum Zwecke der effektiven Anwendung der Verordnung (EU) Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist und über der Gefahrenabwehr und Strafverfolgung dienende Anträge der Gefahrenabwehr- und Strafverfolgungsbehörden der Mitgliedstaaten und Europols auf den Abgleich mit Eurodac-Daten sowie zur Änderung der Verordnung (EU) Nr. 1077/2011 zur Errichtung einer Europäischen Agentur für das Betriebsmanagement von IT-Großsystemen im Raum der Freiheit, der Sicherheit und des Rechts (ABl. L 180 vom 29.6.2013, S. 1) nachzukommen,
 
-7. aus schwerwiegenden Gründen der öffentlichen Sicherheit oder öffentlichen Ordnung ausgewiesen wurde oder es schwerwiegende Gründe für die Annahme gibt, dass er eine Gefahr für die nationale Sicherheit oder die öffentliche Ordnung darstellt.
+7. aus schwerwiegenden Gründen der öffentlichen Sicherheit oder öffentlichen Ordnung ausgewiesen wurde oder es schwerwiegende Gründe für die Annahme gibt, dass er eine Gefahr für die nationale Sicherheit oder die öffentliche Ordnung darstellt, oder
+
+8. entgegen einem Einreise- und Aufenthaltsverbot in das Bundesgebiet eingereist ist.
 
 (2) Macht das Bundesamt von Absatz 1 Gebrauch, so entscheidet es innerhalb einer Woche ab Stellung des Asylantrags. Kann es nicht innerhalb dieser Frist entscheiden, dann führt es das Verfahren als nicht beschleunigtes Verfahren fort.
 
@@ -743,7 +731,7 @@ Die §§ 48 bis 50 bleiben unberührt.
 
 (1) Die Entscheidung des Bundesamtes ergeht schriftlich. Sie ist schriftlich zu begründen. Entscheidungen, die der Anfechtung unterliegen, sind den Beteiligten unverzüglich zuzustellen. Wurde kein Bevollmächtigter für das Verfahren bestellt, ist eine Übersetzung der Entscheidungsformel und der Rechtsbehelfsbelehrung in einer Sprache beizufügen, deren Kenntnis vernünftigerweise vorausgesetzt werden kann. Das Bundesamt informiert mit der Entscheidung über die Rechte und Pflichten, die sich aus ihr ergeben.
 
-(2) In Entscheidungen über zulässige Asylanträge und nach § 30 Absatz 5 ist ausdrücklich festzustellen, ob dem Ausländer die Flüchtlingseigenschaft oder der subsidiäre Schutz zuerkannt wird und ob er als Asylberechtigter anerkannt wird. In den Fällen des § 13 Absatz 2 Satz 2 ist nur über den beschränkten Antrag zu entscheiden.
+(2) In Entscheidungen über zulässige Asylanträge ist ausdrücklich festzustellen, ob dem Ausländer die Flüchtlingseigenschaft oder der subsidiäre Schutz zuerkannt wird und ob er als Asylberechtigter anerkannt wird. In den Fällen des § 13 Absatz 2 Satz 2 ist nur über den beschränkten Antrag zu entscheiden.
 
 (3) In den Fällen des Absatzes 2 und in Entscheidungen über unzulässige Asylanträge ist festzustellen, ob die Voraussetzungen des § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegen. Davon kann abgesehen werden, wenn der Ausländer als Asylberechtigter anerkannt wird oder ihm internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt wird. Von der Feststellung nach Satz 1 kann auch abgesehen werden, wenn das Bundesamt in einem früheren Verfahren über das Vorliegen der Voraussetzungen des § 60 Absatz 5 und 7 des Aufenthaltsgesetzes entschieden hat und die Voraussetzungen des § 51 Absatz 1 bis 3 des Verwaltungsverfahrensgesetzes nicht vorliegen.
 
@@ -803,9 +791,11 @@ Wird ein Verfahren nach dieser Vorschrift wieder aufgenommen, das vor der Einste
 
 2a. dem Ausländer kein subsidiärer Schutz gewährt wird,
 
-3. die Voraussetzungen des § 60 Absatz 5 und 7 des Aufenthaltsgesetzes nicht vorliegen oder die Abschiebung ungeachtet des Vorliegens der Voraussetzungen des § 60 Absatz 7 Satz 1 des Aufenthaltsgesetzes ausnahmsweise zulässig ist und
+3. die Voraussetzungen des § 60 Absatz 5 und 7 des Aufenthaltsgesetzes nicht vorliegen oder die Abschiebung ungeachtet des Vorliegens der Voraussetzungen des § 60 Absatz 7 Satz 1 des Aufenthaltsgesetzes ausnahmsweise zulässig ist,
 
-4. der Ausländer keinen Aufenthaltstitel besitzt.
+4. der Abschiebung weder das Kindeswohl noch familiäre Bindungen noch der Gesundheitszustand des Ausländers entgegenstehen und
+
+5. der Ausländer keinen Aufenthaltstitel besitzt.
 
 Eine Anhörung des Ausländers vor Erlass der Abschiebungsandrohung ist nicht erforderlich. Im Übrigen bleibt die Ausländerbehörde für Entscheidungen nach § 59 Absatz 1 Satz 4 und Absatz 6 des Aufenthaltsgesetzes zuständig.
 
@@ -1091,7 +1081,7 @@ Eine Anhörung des Ausländers ist erforderlich in den Fällen des Satzes 1 Numm
 
 (1) Für die Dauer der Pflicht, in einer Aufnahmeeinrichtung zu wohnen, darf der Ausländer keine Erwerbstätigkeit ausüben. Abweichend von Satz 1 ist dem Ausländer die Ausübung einer Beschäftigung zu erlauben, wenn
 
-1. das Asylverfahren nicht innerhalb von neun Monaten nach der Stellung des Asylantrags unanfechtbar abgeschlossen ist,
+1. das Asylverfahren nicht innerhalb von sechs Monaten nach der Stellung des Asylantrags unanfechtbar abgeschlossen ist,
 
 2. die Bundesagentur für Arbeit zugestimmt hat oder durch Rechtsverordnung bestimmt ist, dass die Ausübung der Beschäftigung ohne Zustimmung der Bundesagentur für Arbeit zulässig ist,
 
@@ -1099,7 +1089,19 @@ Eine Anhörung des Ausländers ist erforderlich in den Fällen des Satzes 1 Numm
 
 4. der Asylantrag nicht als offensichtlich unbegründet oder als unzulässig abgelehnt wurde, es sei denn das Verwaltungsgericht hat die aufschiebende Wirkung der Klage gegen die Entscheidung des Bundesamtes angeordnet;
 
-Ausländern, die seit mindestens sechs Monaten eine Duldung nach § 60a des Aufenthaltsgesetzes besitzen, kann die Ausübung einer Beschäftigung erlaubt werden. Die §§ 39, 40 Absatz 1 Nummer 1 und Absatz 2 und die §§ 41 und 42 des Aufenthaltsgesetzes gelten entsprechend für Ausländer nach Satz 2.
+Ausländern, die seit mindestens sechs Monaten eine Duldung nach § 60a des Aufenthaltsgesetzes besitzen, soll die Ausübung einer Beschäftigung erlaubt werden, es sei denn, zum Zeitpunkt der Beantragung der Erlaubnis zur Ausübung einer Beschäftigung stehen konkrete Maßnahmen zur Aufenthaltsbeendigung, die in einem hinreichenden sachlichen und zeitlichen Zusammenhang zur Aufenthaltsbeendigung stehen, bevor; diese konkreten Maßnahmen zur Aufenthaltsbeendigung stehen bevor, wenn
+
+1. eine ärztliche Untersuchung zur Feststellung der Reisefähigkeit veranlasst wurde,
+
+2. der Ausländer einen Antrag zur Förderung mit staatlichen Mitteln einer freiwilligen Ausreise gestellt hat,
+
+3. die Buchung von Transportmitteln für die Abschiebung eingeleitet wurde,
+
+4. vergleichbar konkrete Vorbereitungsmaßnahmen zur Abschiebung des Ausländers eingeleitet wurden, es sei denn, es ist von vornherein absehbar, dass diese nicht zum Erfolg führen, oder
+
+5. ein Verfahren zur Bestimmung des zuständigen Mitgliedstaates gemäß Artikel 20 Absatz 1 der Verordnung (EU) Nr. 604/2013 eingeleitet wurde.
+
+Die §§ 39, 40 Absatz 1 Nummer 1 und Absatz 2 und die §§ 41 und 42 des Aufenthaltsgesetzes gelten entsprechend für Ausländer nach Satz 2.
 
 (2) Im Übrigen kann einem Asylbewerber, der sich seit drei Monaten gestattet im Bundesgebiet aufhält, gemäß § 4a Absatz 4 des Aufenthaltsgesetzes die Ausübung einer Beschäftigung erlaubt werden, wenn die Bundesagentur für Arbeit zugestimmt hat oder durch Rechtsverordnung bestimmt ist, dass die Ausübung der Beschäftigung ohne Zustimmung der Bundesagentur für Arbeit zulässig ist. Ein geduldeter oder rechtmäßiger Voraufenthalt wird auf die Wartezeit nach Satz 1 angerechnet. Die §§ 39, 40 Absatz 1 Nummer 1 und Absatz 2 und die §§ 41 und 42 des Aufenthaltsgesetzes gelten entsprechend. Einem Ausländer aus einem sicheren Herkunftsstaat gemäß § 29a, der nach dem 31. August 2015 einen Asylantrag gestellt hat, darf während des Asylverfahrens die Ausübung einer Beschäftigung nicht erlaubt werden. Absatz 1 Satz 2 bleibt unberührt.
 
@@ -1113,7 +1115,7 @@ Ausländern, die seit mindestens sechs Monaten eine Duldung nach § 60a des Aufe
 
 (1) Dem Ausländer wird nach der Asylantragstellung innerhalb von drei Arbeitstagen eine mit den Angaben zur Person und einem Lichtbild versehene Bescheinigung über die Aufenthaltsgestattung ausgestellt, wenn er nicht im Besitz eines Aufenthaltstitels ist. Im Falle des Absatzes 3 Satz 2 ist der Ausländer bei der Asylantragstellung aufzufordern, innerhalb der Frist nach Satz 1 bei der zuständigen Ausländerbehörde die Ausstellung der Bescheinigung zu beantragen.
 
-(2) Die Bescheinigung ist zu befristen. Solange der Ausländer verpflichtet ist, in einer Aufnahmeeinrichtung zu wohnen, beträgt die Frist längstens drei und im Übrigen längstens sechs Monate.
+(2) Die Bescheinigung ist zu befristen. Solange der Ausländer verpflichtet ist, in einer Aufnahmeeinrichtung zu wohnen, beträgt die Frist längstens sechs und im Übrigen längstens zwölf Monate.
 
 (3) Zuständig für die Ausstellung der Bescheinigung ist das Bundesamt, solange der Ausländer verpflichtet ist, in einer Aufnahmeeinrichtung zu wohnen. Im Übrigen ist die Ausländerbehörde zuständig, auf deren Bezirk die Aufenthaltsgestattung beschränkt ist oder in deren Bezirk der Ausländer Wohnung zu nehmen hat. Auflagen und Änderungen der räumlichen Beschränkung sowie deren Anordnung (§ 59b) können auch von der Behörde vermerkt werden, die sie verfügt hat.
 
@@ -1261,27 +1263,21 @@ Liegt in den Fällen des § 23 Absatz 1 der dem Ausländer genannte Termin bei d
 
 # § 71 – Folgeantrag
 
-(1) Stellt der Ausländer nach Rücknahme oder unanfechtbarer Ablehnung eines früheren Asylantrags erneut einen Asylantrag (Folgeantrag), so ist ein weiteres Asylverfahren nur durchzuführen, wenn die Voraussetzungen des § 51 Abs. 1 bis 3 des Verwaltungsverfahrensgesetzes vorliegen; die Prüfung obliegt dem Bundesamt. Das Gleiche gilt für den Asylantrag eines Kindes, wenn der Vertreter nach § 14a Abs. 3 auf die Durchführung eines Asylverfahrens verzichtet hatte.
+(1) Stellt der Ausländer nach Rücknahme oder unanfechtbarer Ablehnung eines früheren Asylantrags erneut einen Asylantrag (Folgeantrag), so ist ein weiteres Asylverfahren nur durchzuführen, wenn neue Elemente oder Erkenntnisse zutage getreten oder vom Ausländer vorgebracht worden sind, die mit erheblicher Wahrscheinlichkeit zu einer für den Ausländer günstigeren Entscheidung beitragen, oder Wiederaufnahmegründe entsprechend § 580 der Zivilprozessordnung gegeben sind und der Ausländer ohne eigenes Verschulden außerstande war, die Gründe für den Folgeantrag im früheren Asylverfahren, insbesondere durch Rechtsbehelf, geltend zu machen; die Prüfung obliegt dem Bundesamt. Das Gleiche gilt für den Asylantrag eines Kindes, wenn der Vertreter nach § 14a Absatz 3 auf die Durchführung eines Asylverfahrens verzichtet hatte.
 
-(2) Der Ausländer hat den Folgeantrag persönlich bei der Außenstelle des Bundesamtes zu stellen, die der Aufnahmeeinrichtung zugeordnet ist, in der er während des früheren Asylverfahrens zu wohnen verpflichtet war. Wenn der Ausländer das Bundesgebiet zwischenzeitlich verlassen hatte, gelten die §§ 47 bis 67 entsprechend. In den Fällen des § 14 Abs. 2 Satz 1 Nr. 2 oder wenn der Ausländer nachweislich am persönlichen Erscheinen gehindert ist, ist der Folgeantrag schriftlich zu stellen. Der Folgeantrag ist schriftlich bei der Zentrale des Bundesamtes zu stellen, wenn
+(2) Der Ausländer hat den Folgeantrag persönlich bei einer Außenstelle des Bundesamtes zu stellen; ist sein Aufenthalt nach § 61 des Aufenthaltsgesetzes festgelegt, so hat er den Folgeantrag bei der nächstgelegenen Außenstelle in dem Land seines Aufenthalts zu stellen. Wenn der Ausländer das Bundesgebiet zwischenzeitlich verlassen hatte, gelten die §§ 47 bis 67 entsprechend. In den Fällen des § 14 Absatz 2 Satz 1 Nummer 2 oder wenn der Ausländer nachweislich am persönlichen Erscheinen gehindert ist, ist der Folgeantrag schriftlich zu stellen. § 19 Absatz 1 findet keine Anwendung.
 
-1. die Außenstelle, die nach Satz 1 zuständig wäre, nicht mehr besteht,
+(3) In dem Folgeantrag hat der Ausländer seine Anschrift sowie die Tatsachen und Beweismittel anzugeben, aus denen sich das Vorliegen der Voraussetzungen des Absatzes 1 Satz 1 ergibt. Auf Verlangen hat der Ausländer diese Angaben schriftlich zu machen. Von einer Anhörung kann abgesehen werden. § 10 gilt entsprechend.
 
-2. der Ausländer während des früheren Asylverfahrens nicht verpflichtet war, in einer Aufnahmeeinrichtung zu wohnen.
+(4) Liegen die Voraussetzungen des Absatzes 1 Satz 1 nicht vor, sind die §§ 34, 35 und 36 entsprechend anzuwenden; im Falle der Abschiebung in einen sicheren Drittstaat (§ 26a) ist § 34a entsprechend anzuwenden.
 
-§ 19 Abs. 1 findet keine Anwendung.
+(5) Stellt der Ausländer, nachdem eine nach Stellung des früheren Asylantrags ergangene Abschiebungsandrohung oder -anordnung vollziehbar geworden ist, einen Folgeantrag, der nicht zur Durchführung eines weiteren Verfahrens führt, so bedarf es zum Vollzug der Abschiebung keiner erneuten Fristsetzung und Abschiebungsandrohung oder -anordnung. Hat der Ausländer den Folgeantrag nur zur Verzögerung oder Behinderung der Abschiebung gestellt oder hat der Ausländer nach unanfechtbarer Ablehnung eines Folgeantrags einen erneuten Folgeantrag gestellt, so darf die Abschiebung vollzogen werden, wenn das Bundesamt mitgeteilt hat, dass die Voraussetzungen des Absatzes 1 Satz 1 nicht vorliegen. Im Übrigen darf die Abschiebung erst nach Ablauf der Frist nach § 74 Absatz 1 zweiter Halbsatz und im Fall eines innerhalb der Frist gestellten Antrags nach § 80 Absatz 5 der Verwaltungsgerichtsordnung erst nach der gerichtlichen Ablehnung dieses Antrags vollzogen werden.
 
-(3) In dem Folgeantrag hat der Ausländer seine Anschrift sowie die Tatsachen und Beweismittel anzugeben, aus denen sich das Vorliegen der Voraussetzungen des § 51 Abs. 1 bis 3 des Verwaltungsverfahrensgesetzes ergibt. Auf Verlangen hat der Ausländer diese Angaben schriftlich zu machen. Von einer Anhörung kann abgesehen werden. § 10 gilt entsprechend.
-
-(4) Liegen die Voraussetzungen des § 51 Abs. 1 bis 3 des Verwaltungsverfahrensgesetzes nicht vor, sind die §§ 34, 35 und 36 entsprechend anzuwenden; im Falle der Abschiebung in einen sicheren Drittstaat (§ 26a) ist § 34a entsprechend anzuwenden.
-
-(5) Stellt der Ausländer, nachdem eine nach Stellung des früheren Asylantrags ergangene Abschiebungsandrohung oder -anordnung vollziehbar geworden ist, einen Folgeantrag, der nicht zur Durchführung eines weiteren Verfahrens führt, so bedarf es zum Vollzug der Abschiebung keiner erneuten Fristsetzung und Abschiebungsandrohung oder -anordnung. Die Abschiebung darf erst nach einer Mitteilung des Bundesamtes, dass die Voraussetzungen des § 51 Abs. 1 bis 3 des Verwaltungsverfahrensgesetzes nicht vorliegen, vollzogen werden, es sei denn, der Ausländer soll in den sicheren Drittstaat abgeschoben werden.
-
-(6) Absatz 5 gilt auch, wenn der Ausländer zwischenzeitlich das Bundesgebiet verlassen hatte. Im Falle einer unerlaubten Einreise aus einem sicheren Drittstaat (§ 26a) kann der Ausländer nach § 57 Abs. 1 und 2 des Aufenthaltsgesetzes dorthin zurückgeschoben werden, ohne dass es der vorherigen Mitteilung des Bundesamtes bedarf.
+(6) Absatz 5 gilt auch, wenn der Ausländer zwischenzeitlich das Bundesgebiet verlassen hatte. Im Falle einer unerlaubten Einreise aus einem sicheren Drittstaat (§ 26a) kann der Ausländer nach § 57 Absatz 1 und 2 des Aufenthaltsgesetzes dorthin zurückgeschoben werden, ohne dass es der vorherigen Mitteilung des Bundesamtes bedarf.
 
 (7) War der Aufenthalt des Ausländers während des früheren Asylverfahrens räumlich beschränkt, gilt die letzte räumliche Beschränkung fort, solange keine andere Entscheidung ergeht. Die §§ 59a und 59b gelten entsprechend. In den Fällen der Absätze 5 und 6 ist für ausländerrechtliche Maßnahmen auch die Ausländerbehörde zuständig, in deren Bezirk sich der Ausländer aufhält.
 
-(8) Ein Folgeantrag steht der Anordnung von Abschiebungshaft nicht entgegen, es sei denn, es wird ein weiteres Asylverfahren durchgeführt.
+(8) Ein Folgeantrag steht der Anordnung von Abschiebungshaft nicht entgegen. Wird ein weiteres Asylverfahren durchgeführt, gilt § 14 Absatz 3 entsprechend.
 
 # § 71a – Zweitantrag
 
@@ -1356,6 +1352,8 @@ In den Fällen des § 26 Absatz 1 bis 3 und 5 ist die Anerkennung als Asylberech
 2. der Ausländer die Mitwirkungspflichten ohne genügende Entschuldigung verletzt hat.
 
 Bei der Entscheidung nach Aktenlage sind für die Entscheidung über einen Widerruf oder eine Rücknahme nach dieser Vorschrift oder nach § 48 des Verwaltungsverfahrensgesetzes sämtliche maßgeblichen Tatsachen und Umstände zu berücksichtigen. Ferner ist zu berücksichtigen, inwieweit der Ausländer seinen Mitwirkungspflichten nachgekommen ist. Der Ausländer ist durch das Bundesamt auf Inhalt und Umfang seiner Mitwirkungspflichten nach dieser Vorschrift sowie auf die Rechtsfolgen einer Verletzung hinzuweisen.
+
+(5a) Teilt der Ausländer dem Bundesamt mit, im Asylverfahren unrichtige oder unvollständige Angaben gemacht oder benutzt zu haben, so darf diese Information zu Beweiszwecken in einem gegen den Ausländer oder gegen einen seiner in § 52 Absatz 1 der Strafprozessordnung bezeichneten Angehörigen geführten Straf- oder Bußgeldverfahren nur mit Zustimmung des Ausländers verwendet werden. Der Ausländer ist auf diese Rechtsfolgen hinzuweisen.
 
 (6) Dem Ausländer ist die beabsichtigte Entscheidung über einen Widerruf oder eine Rücknahme nach dieser Vorschrift oder nach § 48 des Verwaltungsverfahrensgesetzes schriftlich unter Angabe der Gründe mitzuteilen und ihm ist Gelegenheit zu einer mündlichen oder schriftlichen Äußerung zu geben. Ihm kann aufgegeben werden, sich innerhalb eines Monats schriftlich zu äußern. Hat sich der Ausländer innerhalb dieser Frist nicht geäußert, ist nach Aktenlage zu entscheiden; der Ausländer ist auf diese Rechtsfolge hinzuweisen.
 
@@ -1459,7 +1457,7 @@ Das Verwaltungsgericht ist an die rechtliche und tatsächliche Beurteilung der E
 
 # § 80 – Ausschluss der Beschwerde
 
-Entscheidungen in Rechtsstreitigkeiten nach diesem Gesetz können vorbehaltlich des § 133 Abs. 1 der Verwaltungsgerichtsordnung nicht mit der Beschwerde angefochten werden.
+Entscheidungen in Rechtsstreitigkeiten nach diesem Gesetz und über Maßnahmen zum Vollzug der Abschiebungsandrohung (§ 34) oder der Abschiebungsanordnung (§ 34a) nach dem Aufenthaltsgesetz können vorbehaltlich des § 133 Absatz 1 der Verwaltungsgerichtsordnung nicht mit der Beschwerde angefochten werden.
 
 # § 80a – Ruhen des Verfahrens
 
@@ -1529,15 +1527,25 @@ handelt.
 
 # § 85 – Sonstige Straftaten
 
-Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
+(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 1. entgegen § 50 Abs. 6, auch in Verbindung mit § 71a Abs. 2 Satz 1, sich nicht unverzüglich zu der angegebenen Stelle begibt,
 
 2. wiederholt einer Aufenthaltsbeschränkung nach § 56 oder § 59b Absatz 1, jeweils auch in Verbindung mit § 71a Abs. 3, zuwiderhandelt,
 
-3. einer vollziehbaren Anordnung nach § 60 Abs. 2 Satz 1, auch in Verbindung mit § 71a Abs. 3, nicht rechtzeitig nachkommt oder
+3. einer vollziehbaren Anordnung nach § 60 Abs. 2 Satz 1, auch in Verbindung mit § 71a Abs. 3, nicht rechtzeitig nachkommt,
 
-4. entgegen § 61 Abs. 1, auch in Verbindung mit § 71a Abs. 3, eine Erwerbstätigkeit ausübt.
+4. entgegen § 61 Abs. 1, auch in Verbindung mit § 71a Abs. 3, eine Erwerbstätigkeit ausübt,
+
+5. entgegen § 15 Absatz 2 Nummer 1 wider besseres Wissen eine erforderliche Angabe zu seinem Alter, seiner Identität oder seiner Staatsangehörigkeit nicht, nicht richtig oder nicht vollständig macht, soweit nicht die Tat in Absatz 2 mit Strafe bedroht ist oder
+
+6. entgegen § 15 Absatz 2 Nummer 4 bis 6 einen Pass, Passersatz, erforderliche Urkunden, sonstige Unterlagen oder Datenträger nicht vorlegt, aushändigt oder überlässt.
+
+(2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer im Asylverfahren vor dem Bundesamt oder im gerichtlichen Verfahren unrichtige oder unvollständige Angaben macht oder benutzt, um
+
+1. die Anerkennung als Asylberechtigter, die Zuerkennung internationalen Schutzes im Sinne des § 1 Absatz 1 Nummer 2 oder die Feststellung der Voraussetzungen des § 60 Absatz 5 oder Absatz 7 des Aufenthaltsgesetzes zu erreichen oder
+
+2. den Widerruf oder die Rücknahme der Anerkennung als Asylberechtigter, der Zuerkennung internationalen Schutzes im Sinne des § 1 Absatz 1 Nummer 2 oder der Feststellung der Voraussetzungen des § 60 Absatz 5 oder Absatz 7 Satz 1 des Aufenthaltsgesetzes abzuwenden.
 
 # § 86 – Bußgeldvorschriften
 
@@ -1566,6 +1574,8 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 4. Hat ein vor Inkrafttreten dieses Gesetzes eingelegter Rechtsbehelf nach bisher geltendem Recht aufschiebende Wirkung, finden die Vorschriften dieses Gesetzes über den Ausschluss der aufschiebenden Wirkung keine Anwendung.
 
 5. Ist in einem gerichtlichen Verfahren vor Inkrafttreten dieses Gesetzes eine Aufforderung nach § 33 des Asylverfahrensgesetzes in der Fassung der Bekanntmachung vom 9. April 1991 (BGBl. I S. 869), geändert durch Artikel 7 § 13 in Verbindung mit Artikel 11 des Gesetzes vom 12. September 1990 (BGBl. I S. 2002), erlassen worden, gilt insoweit diese Vorschrift fort.
+
+6. Auf Personen, deren Asylantrag bis zum 27. Februar 2024 als offensichtlich unbegründet abgelehnt wurde, findet § 30 in der bis zu diesem Tag geltenden Fassung Anwendung.
 
 # § 87a – Übergangsvorschriften aus Anlass der am 1. Juli 1993 in Kraft getretenen Änderungen
 
