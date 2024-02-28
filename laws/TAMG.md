@@ -1075,7 +1075,7 @@ Satz 1 gilt nicht für nicht verschreibungspflichtige registrierte homöopathisc
 
 (5) Tierarzneimittel, die nach § 45 Absatz 4 zur Durchführung tierseuchenrechtlicher Maßnahmen bestimmt und nicht verschreibungspflichtig sind, dürfen bei Tieren, die der Gewinnung von Lebensmitteln dienen, nur gemäß der entsprechenden veterinärbehördlichen Anweisung angewendet werden.
 
-§ 50 Abs. 2 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 2 Abs. 1 u. Art. 12 Abs. 1 GG unvereinbar u. nichtig gem. BVerfGE v. 29.9.2022 I 2261 - BvR 2380/21, 1 BvR 2449/21 -
+§ 50 Abs. 2 Satz 1: Nach der Entscheidungsformel mit Art. 2 Abs. 1 u. Art. 12 Abs. 1 GG unvereinbar u. nichtig, soweit die Vorschrift die Anwendung nicht verschreibungspflichtiger und zugleich registrierter homöopathischer Humanarzneimittel bei Tieren, die nicht der Gewinnung von Lebensmitteln dienen, unter einen Tierarztvorbehalt stellt gem. BVerfGE v. 29.9.2022 I 2261 - BvR 2380/21, 1 BvR 2449/21 -; Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 20.2.2024 I Nr. 53 mWv 27.2.2024
 
 # § 51 – Befugnisse tierärztlicher Bildungsstätten
 

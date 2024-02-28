@@ -1402,7 +1402,7 @@ Beim anzeigebedürftigen Betrieb eines Raumfahrzeugs ist abweichend von den §§
 
 (5) Die zuständige Behörde kann anordnen, dass Personen unter 18 Jahren, die eine berufliche Exposition erhalten, aber nicht als beruflich exponierte Person der Kategorie A oder B eingestuft sind, sich von einem nach § 175 Absatz 1 Satz 1 ermächtigten Arzt untersuchen lassen, wenn die Arbeitsbedingungen oder der Gesundheitszustand der Person dies erfordern.
 
-(+++ § 77 Abs. 3: Zur Anwendung vgl. § 158 Abs. 3 Satz 3 +++)
+(+++ § 77 Abs. 2 Satz 2 u. Abs. 3: Zur Anwendung vgl. § 158 Abs. 3 Satz 3 +++)
 
 # § 78 – Ärztliche Überwachung nach Beendigung der Aufgabenwahrnehmung
 

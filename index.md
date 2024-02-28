@@ -78,7 +78,7 @@
 - [AFBG](laws/AFBG.md) Gesetz zur Förderung der beruflichen Aufstiegsfortbildung
 - [AFGBV](laws/AFGBV.md) Verordnung zur Genehmigung und zum Betrieb von Kraftfahrzeugen mit autonomer Fahrfunktion in festgelegten Betriebsbereichen
 - [AFG§116G](laws/AFG§116G.md) Gesetz zur Sicherung der Neutralität der Bundesanstalt für Arbeit bei Arbeitskämpfen
-- [AFIG](laws/AFIG.md) Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Europäischen Fonds für Landwirtschaft und Fischerei
+- [AFIG](laws/AFIG.md) Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Agrar- und Fischereifonds der Europäischen Union
 - [AFIV](laws/AFIV.md) Verordnung über die Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Europäischen Fonds für Landwirtschaft und für Fischerei
 - [Aflatoxin VerbotsV](laws/Aflatoxin_VerbotsV.md) Verordnung über das Verbot der Verwendung von mit Aflatoxinen kontaminierten Stoffen bei der Herstellung von Arzneimitteln
 - [AfögLTAV](laws/AfögLTAV.md) Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für landwirtschaftlich-technische, milchwirtschaftlich-technische und biologisch-technische Assistentinnen und Assistenten

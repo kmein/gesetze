@@ -71,7 +71,7 @@ wenn der internationale Schutz oder das aus anderen Gründen gewährte Aufenthal
 
 6. sie den gewährten Termin zur förmlichen Antragstellung bei der zuständigen Außenstelle des Bundesamtes für Migration und Flüchtlinge oder dem Bundesamt für Migration und Flüchtlinge nicht wahrgenommen haben oder
 
-7. sie den Tatbestand nach § 30 Absatz 3 Nummer 2 zweite Alternative des Asylgesetzes verwirklichen, indem sie Angaben über ihre Identität oder Staatsangehörigkeit verweigern,
+7. sie Angaben über ihre Identität oder Staatsangehörigkeit verweigern,
 
 es sei denn, sie haben die Verletzung der Mitwirkungspflichten oder die Nichtwahrnehmung des Termins nicht zu vertreten oder ihnen war die Einhaltung der Mitwirkungspflichten oder die Wahrnehmung des Termins aus wichtigen Gründen nicht möglich. Die Anspruchseinschränkung nach Satz 1 endet, sobald sie die fehlende Mitwirkungshandlung erbracht oder den Termin zur förmlichen Antragstellung wahrgenommen haben.
 
@@ -87,7 +87,7 @@ und deshalb zu Unrecht Leistungen nach diesem Gesetz beziehen, haben nur Anspruc
 
 # § 2 – Leistungen in besonderen Fällen
 
-(1) Abweichend von den §§ 3 und 4 sowie 6 bis 7 sind das Zwölfte Buch Sozialgesetzbuch und Teil 2 des Neunten Buches Sozialgesetzbuch auf diejenigen Leistungsberechtigten entsprechend anzuwenden, die sich seit 18 Monaten ohne wesentliche Unterbrechung im Bundesgebiet aufhalten und die Dauer des Aufenthalts nicht rechtsmissbräuchlich selbst beeinflusst haben. Die Sonderregelungen für Auszubildende nach § 22 des Zwölften Buches Sozialgesetzbuch finden dabei jedoch keine Anwendung auf
+(1) Abweichend von den §§ 3 und 4 sowie 6 bis 7 sind das Zwölfte Buch Sozialgesetzbuch und Teil 2 des Neunten Buches Sozialgesetzbuch auf diejenigen Leistungsberechtigten entsprechend anzuwenden, die sich seit 36 Monaten ohne wesentliche Unterbrechung im Bundesgebiet aufhalten und die Dauer des Aufenthalts nicht rechtsmissbräuchlich selbst beeinflusst haben. Die Sonderregelungen für Auszubildende nach § 22 des Zwölften Buches Sozialgesetzbuch finden dabei jedoch keine Anwendung auf
 
 1. Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 3 und 4 in einer nach den §§ 51, 57 und 58 des Dritten Buches Sozialgesetzbuch dem Grunde nach förderungsfähigen Ausbildung sowie
 
@@ -188,7 +188,7 @@ Die Beträge nach den Absätzen 1 und 2 ergeben sich für die Zeit ab 1.1.2024 a
 
 # § 5 – Arbeitsgelegenheiten
 
-(1) In Aufnahmeeinrichtungen im Sinne des § 44 des Asylgesetzes und in vergleichbaren Einrichtungen sollen Arbeitsgelegenheiten insbesondere zur Aufrechterhaltung und Betreibung der Einrichtung zur Verfügung gestellt werden; von der Bereitstellung dieser Arbeitsgelegenheiten unberührt bleibt die Verpflichtung der Leistungsberechtigten, Tätigkeiten der Selbstversorgung zu erledigen. Im übrigen sollen soweit wie möglich Arbeitsgelegenheiten bei staatlichen, bei kommunalen und bei gemeinnützigen Trägern zur Verfügung gestellt werden, sofern die zu leistende Arbeit sonst nicht, nicht in diesem Umfang oder nicht zu diesem Zeitpunkt verrichtet werden würde.
+(1) In Aufnahmeeinrichtungen im Sinne des § 44 des Asylgesetzes und in vergleichbaren Einrichtungen sollen Arbeitsgelegenheiten insbesondere zur Aufrechterhaltung und Betreibung der Einrichtung zur Verfügung gestellt werden; von der Bereitstellung dieser Arbeitsgelegenheiten unberührt bleibt die Verpflichtung der Leistungsberechtigten, Tätigkeiten der Selbstversorgung zu erledigen. Im Übrigen sollen soweit wie möglich Arbeitsgelegenheiten bei staatlichen, bei kommunalen und bei gemeinnützigen Trägern zur Verfügung gestellt werden, wenn das Arbeitsergebnis der Allgemeinheit dient.
 
 (2) Für die zu leistende Arbeit nach Absatz 1 Satz 1 erster Halbsatz und Absatz 1 Satz 2 wird eine Aufwandsentschädigung von 80 Cent je Stunde ausgezahlt, soweit der Leistungsberechtigte nicht im Einzelfall höhere notwendige Aufwendungen nachweist, die ihm durch die Wahrnehmung der Arbeitsgelegenheit entstehen.
 
@@ -503,3 +503,7 @@ Der Leistungsanspruch endet mit Ablauf des Monats, der dem Monat vorausgeht, fü
 # § 19 – Einmalzahlung für Kinder
 
 Minderjährige Leistungsberechtigte erhalten eine Einmalzahlung in Höhe von 100 Euro, wenn sie für den Monat Oktober 2022 Anspruch auf Leistungen nach diesem Gesetz haben. Eines gesonderten Antrags bedarf es nicht. Ausgenommen von der Einmalzahlung nach Satz 1 sind Leistungsberechtigte, für die in einem der Monate von Januar bis Oktober 2022 ein Anspruch auf Kindergeld besteht.
+
+# § 20 – Übergangsregelung für die Änderung der Dauer des Grundleistungsbezuges
+
+Für Leistungsberechtigte, die bis zum 26. Februar 2024 Leistungen gemäß § 2 Absatz 1 erhalten haben, ist § 2 dieses Gesetzes in der Fassung der Bekanntmachung vom 5. August 1997 (BGBl. I S. 2022), das zuletzt durch Artikel 4 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) geändert worden ist, weiter anzuwenden.
