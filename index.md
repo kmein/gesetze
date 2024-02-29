@@ -706,7 +706,6 @@
 - [BetrPrämDurchfV](laws/BetrPrämDurchfV.md) Verordnung zur Durchführung der einheitlichen Betriebsprämie
 - [BetrPrämRegV 2014](laws/BetrPrämRegV_2014.md) Verordnung zur Kürzung der Zahlungsansprüche im Rahmen der Betriebsprämienregelung für das Jahr 2014
 - [BetrSichV](laws/BetrSichV.md) Verordnung über Sicherheit und Gesundheitsschutz bei der Verwendung von Arbeitsmitteln
-- [BetrSichV2015ÄndV2Ber](laws/BetrSichV2015ÄndV2Ber.md) Berichtigung der Zweiten Verordnung zur Änderung der Betriebssicherheitsverordnung
 - [BetrVG](laws/BetrVG.md) Betriebsverfassungsgesetz
 - [BetrVRG](laws/BetrVRG.md) Gesetz zur Reform des Betriebsverfassungsgesetzes
 - [BetrWHwOPrV](laws/BetrWHwOPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung und Geprüfte Betriebswirtin nach der Handwerksordnung
@@ -720,7 +719,6 @@
 - [BewAufnÜbkHaag](laws/BewAufnÜbkHaag.md) Haager Übereinkommen über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
 - [BewG](laws/BewG.md) Bewertungsgesetz
 - [BewGÄndG](laws/BewGÄndG.md) Gesetz zur Änderung des Bewertungsgesetzes
-- [BewGAnl27bis33NeufV](laws/BewGAnl27bis33NeufV.md) Verordnung zur Neufassung der Anlagen 27 bis 33 des Bewertungsgesetzes
 - [BewG§122Abs3DV](laws/BewG§122Abs3DV.md) Verordnung zur Durchführung des § 122 Abs. 3 des Bewertungsgesetzes
 - [BewG§39DV 1](laws/BewG§39DV_1.md) Erste Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
 - [BewG§39DV 2](laws/BewG§39DV_2.md) Zweite Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
@@ -907,7 +905,6 @@
 - [BKOrgErl1999Bek](laws/BKOrgErl1999Bek.md) Bekanntmachung des Organisationserlasses des Bundeskanzlers
 - [BKrFQG](laws/BKrFQG.md) Gesetz über die Grundqualifikation und die Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr
 - [BKrFQV](laws/BKrFQV.md) Verordnung zur Durchführung des Berufskraftfahrerqualifikationsgesetzes
-- [BKrFQVAbluaÄndVBer](laws/BKrFQVAbluaÄndVBer.md) Berichtigung der Verordnung zur Ablösung der Berufskraftfahrer-Qualifikations-Verordnung und zur Änderung anderer straßenverkehrsrechtlicher Vorschriften
 - [BKRG](laws/BKRG.md) Bundeskrebsregisterdatengesetz
 - [BKV](laws/BKV.md) Verordnung über die Berufsausbildung zum Berufskraftfahrer/zur Berufskraftfahrerin
 - [BKV](laws/BKV.md) Berufskrankheiten-Verordnung
@@ -1300,7 +1297,6 @@
 - [BVwAWehrpflAnO](laws/BVwAWehrpflAnO.md) Anordnung über die Wahrnehmung von Aufgaben durch das Bundesverwaltungsamt bei der Ermittlung von Wehrpflichtigen, die sich der Erfassung entziehen
 - [BVwAZustG131AnO](laws/BVwAZustG131AnO.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des Rechts nach G131 auf das Bundesverwaltungsamt
 - [BWahlG](laws/BWahlG.md) Bundeswahlgesetz
-- [BWahlGÄndG 24](laws/BWahlGÄndG_24.md) Vierundzwanzigstes Gesetz zur Änderung des Bundeswahlgesetzes
 - [BWahlGV](laws/BWahlGV.md) Verordnung über den Einsatz von Wahlgeräten bei Wahlen zum Deutschen Bundestag und der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland
 - [BWaldG](laws/BWaldG.md) Gesetz zur Erhaltung des Waldes und zur Förderung der Forstwirtschaft
 - [BWappenBek](laws/BWappenBek.md) Bekanntmachung betreffend das Bundeswappen und den Bundesadler
@@ -2086,7 +2082,6 @@
 - [FeuerwEhrKrÄndErl 2011](laws/FeuerwEhrKrÄndErl_2011.md) Erlass über die Genehmigung von Änderungen der Satzung und der Verleihungsbedingungen des Deutschen Feuerwehr-Ehrenkreuzes
 - [FeV](laws/FeV.md) Verordnung über die Zulassung von Personen zum Straßenverkehr
 - [FeV2010AusnV 2](laws/FeV2010AusnV_2.md) Zweite Verordnung über Ausnahmen von den Vorschriften der Fahrerlaubnis-Verordnung
-- [FeV2010AusnV3ÄndV 1](laws/FeV2010AusnV3ÄndV_1.md) Erste Verordnung zur Änderung der Dritten Verordnung über Ausnahmen von den Vorschriften der Fahrerlaubnis-Verordnung
 - [FFG](laws/FFG.md) Gesetz über Maßnahmen zur Förderung des deutschen Films*
 - [FFGV 1993](laws/FFGV_1993.md) Verordnung zum Filmförderungsgesetz
 - [FFVAV](laws/FFVAV.md) Verordnung über die Verbrauchserfassung und Abrechnung bei der Versorgung mit Fernwärme oder Fernkälte
@@ -5127,7 +5122,6 @@
 - [SiebdrMstrV](laws/SiebdrMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Siebdrucker-Handwerk
 - [SiMedErl](laws/SiMedErl.md) Erlaß über die Stiftung der Silbermedaille für den Behindertensport
 - [SiSchmAusbV](laws/SiSchmAusbV.md) Verordnung über die Berufsausbildung zum Silberschmied/zur Silberschmiedin
-- [SISIIIGArt3Nr5u7InkrBek](laws/SISIIIGArt3Nr5u7InkrBek.md) Bekanntmachung über das Inkrafttreten des Artikels 3 Nummer 5 und 7 des SIS-III-Gesetzes
 - [SiV](laws/SiV.md) Verordnung über die Anforderungen an Sicherheiten und die Anlage bestimmter Vermögen
 - [SKAG Berlin](laws/SKAG_Berlin.md) Gesetz zur Einführung der Selbstverwaltung auf dem Gebiet der Sozialversicherung und Angleichung des Rechts der Krankenversicherung im Land Berlin
 - [SkAufG](laws/SkAufG.md) Gesetz über die Rechtsstellung ausländischer Streitkräfte bei vorübergehenden Aufenthalten in der Bundesrepublik Deutschland
@@ -5714,7 +5708,6 @@
 - [UBAG](laws/UBAG.md) Gesetz über die Errichtung eines Umweltbundesamtes
 - [UBGG](laws/UBGG.md) Gesetz über Unternehmensbeteiligungsgesellschaften
 - [UBRegG](laws/UBRegG.md) Gesetz zur Errichtung und Führung eines Registers über Unternehmensbasisdaten und zur Einführung einer bundeseinheitlichen Wirtschaftsnummer für Unternehmen
-- [UBRegGÄndG 1](laws/UBRegGÄndG_1.md) Erstes Gesetz zur Änderung des Unternehmensbasisdatenregistergesetzes
 - [UDÜV](laws/UDÜV.md) Verordnung zur Übertragung von Befugnissen und Pflichten auf die Bundesnetzagentur gemäß § 157 Absatz 5 des Telekommunikationsgesetzes
 - [ÜAG](laws/ÜAG.md) Gesetz zur Ausführung des Übereinkommens vom 21. März 1983 über die Überstellung verurteilter Personen, des Zusatzprotokolls vom 18. Dezember 1997 und des Schengener Durchführungsübereinkommens
 - [ÜAnlG](laws/ÜAnlG.md) Gesetz über überwachungsbedürftige Anlagen
