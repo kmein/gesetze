@@ -43,7 +43,7 @@ wert</td></tr><tr class="even"><td style="text-align: center;">Baden-Württember
 
 # § 4 – Gegenstand und Höhe des Zuschusses pro Vollzeitäquivalent
 
-Der Zuschuss wird für Personal- und Sachausgaben gewährt. Er ist auf jährlich 95 000 Euro pro Vollzeitäquivalent begrenzt.
+Der Zuschuss wird für Personal- und Sachausgaben gewährt. Er ist auf jährlich 110 000 Euro pro Vollzeitäquivalent begrenzt.
 
 # § 5 – Personalausgaben
 

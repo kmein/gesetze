@@ -29,7 +29,7 @@ Dieses Gesetz dient der Durchführung
 
 # § 3 – Datenverarbeitung
 
-(1) Wer die in § 2 Absatz 1 genannten Daten von der Internetseite der Bundesanstalt für Landwirtschaft und Ernährung erhebt und speichert, darf die Daten nur zum Zweck der sachbezogenen Information der Öffentlichkeit über die Empfänger von Zahlungen aus den europäischen Agrar- und Fischereifonds nach Maßgabe des Absatzes 2 Satz 1 verwenden.
+(1) Wer die in § 2 Absatz 1 und 2 bezeichneten Informationen von den Internetseiten der Bundesanstalt erhebt und speichert, darf diese Daten nur zum Zweck der sachbezogenen Information der Öffentlichkeit über die Begünstigten der Agrar- und Fischereifonds nach Maßgabe des Absatzes 2 verwenden.
 
 (2) Die Daten nach Absatz 1 dürfen nicht
 
