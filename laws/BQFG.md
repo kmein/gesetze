@@ -9,7 +9,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (1) Dieses Gesetz gilt für die Feststellung der Gleichwertigkeit im Ausland erworbener Ausbildungsnachweise, unter Berücksichtigung sonstiger nachgewiesener Berufsqualifikationen, und inländischer Ausbildungsnachweise für bundesrechtlich geregelte Berufe, sofern die entsprechenden berufsrechtlichen Regelungen nicht etwas anderes bestimmen. § 10 des Bundesvertriebenengesetzes bleibt unberührt.
 
-(2) Dieses Gesetz ist auf alle Personen anwendbar, die im Ausland einen Ausbildungsnachweis erworben haben und darlegen, im Inland eine ihren Berufsqualifikationen entsprechende Erwerbstätigkeit ausüben zu wollen.
+(2) Dieses Gesetz ist auf alle Personen anwendbar, die im Ausland einen Ausbildungsnachweis erworben haben und darlegen, im Inland eine ihren Berufsqualifikationen entsprechende oder eine andere Erwerbstätigkeit ausüben zu wollen.
 
 # § 3 – Begriffsbestimmungen
 
@@ -61,7 +61,15 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Stelle die Antragstellerin oder den Antragsteller auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Kopien oder weitere geeignete Unterlagen vorzulegen.
 
-(6) Die Antragstellerin oder der Antragsteller hat durch geeignete Unterlagen darzulegen, im Inland eine der Berufsqualifikationen entsprechende Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen können beispielsweise der Nachweis der Beantragung eines Einreisevisums zur Erwerbstätigkeit, der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern oder ein Geschäftskonzept sein. Für Antragstellerinnen oder Antragsteller mit Wohnsitz in einem Mitgliedstaat der Europäischen Union, einem weiteren Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
+(6) Die Antragstellerin oder der Antragsteller hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind beispielsweise
+
+1. der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
+
+2. ein Geschäftskonzept oder
+
+3. der Vermerk über eine Standortberatung der Zentralen Servicestelle Berufsanerkennung.
+
+Die zuständige Stelle darf nicht zwingend einen Vermerk über eine Standortberatung nach Nummer 3 fordern, wenn durch andere Unterlagen die Erwerbsabsicht dargelegt wurde. Für Antragstellerinnen oder Antragsteller mit Wohnsitz in einem Mitgliedstaat der Europäischen Union, einem weiteren Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
 
 # § 6 – Verfahren
 
@@ -167,7 +175,15 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Stelle die Antragstellerin oder den Antragsteller auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Kopien oder weitere geeignete Unterlagen vorzulegen. Im Fall einer gerichtlichen Feststellung, dass eine Antragstellerin oder ein Antragsteller in einem Verfahren nach diesem Kapitel gefälschte Nachweise über Berufsqualifikationen verwendet hat, unterrichtet die zuständige Stelle spätestens drei Tage nach Rechtskraft dieser Feststellung die zuständigen Stellen der übrigen Mitgliedstaaten der Europäischen Union oder weiteren Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum über das Binnenmarkt-Informationssystem über die Identität der betreffenden Person.
 
-(6) Die Antragstellerin oder der Antragsteller hat durch geeignete Unterlagen darzulegen, im Inland eine ihren Berufsqualifikationen entsprechende Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen können beispielsweise der Nachweis der Beantragung eines Einreisevisums zur Erwerbstätigkeit, der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern oder ein Geschäftskonzept sein. Für Antragstellerinnen oder Antragsteller mit Wohnsitz in einem Mitgliedstaat der Europäischen Union, einem weiteren Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
+(6) Die Antragstellerin oder der Antragsteller hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind beispielsweise
+
+1. der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
+
+2. ein Geschäftskonzept oder
+
+3. der Vermerk über eine Standortberatung der Zentralen Servicestelle Berufsanerkennung.
+
+Die zuständige Stelle darf nicht zwingend einen Vermerk über eine Standortberatung nach Nummer 3 fordern, wenn durch andere Unterlagen die Erwerbsabsicht dargelegt wurde. Für Antragstellerinnen oder Antragsteller mit Wohnsitz in einem Mitgliedstaat der Europäischen Union, einem weiteren Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
 
 # § 13 – Verfahren
 
@@ -267,4 +283,4 @@ Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben.
 
 # § 19 – Ausschluss abweichenden Landesrechts
 
-Von den in § 5 Absatz 1, 3, 4 und 6, in § 6 Absatz 1 bis 3, 4 bis 5, in den §§ 7, 10, 12 Absatz 1, 4 und 6, in § 13 Absatz 1 Satz 1, Absatz 2 bis 4 sowie in den §§ 14 und 15 Absatz 1, 2 und 3 Satz 1 getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
+Von folgenden Regelungen des Verwaltungsverfahrens darf durch Landesrecht nicht abgewichen werden: § 5 Absatz 1, 3 und 4, § 6 Absatz 1 bis 3, 4 und 5, den §§ 7, 10, 12 Absatz 1 und 4, § 13 Absatz 1 Satz 1 und Absatz 2 bis 4, den §§ 14 und 15 Absatz 1 bis 3 Satz 1.

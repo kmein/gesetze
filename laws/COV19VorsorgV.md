@@ -5,9 +5,7 @@
 
 Auf Grund des § 20i Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch, der durch Artikel 4 Nummer 4 Buchstabe b des Gesetzes vom 19. Mai 2020 (BGBl. I S. 1018) neu gefasst worden ist, und auf Grund des § 13 Absatz 5 Satz 3 des Infektionsschutzgesetzes, der durch Artikel 1 Nummer 8 Buchstabe b Doppelbuchstabe bb des Gesetzes vom 16. September 2022 (BGBl. I S. 1454) neu gefasst worden ist, verordnet das Bundesministerium für Gesundheit, hinsichtlich des § 20i Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch nach Anhörung der Ständigen Impfkommission und des Spitzenverbandes Bund der Krankenkassen:
 
-# § 1 – Anspruch auf Schutzimpfungen gegen das Coronavirus SARS-CoV-2
-
-Versicherte haben im Rahmen der Verfügbarkeit der vorhandenen Impfstoffe über den Anspruch nach § 20i Absatz 1 Satz 1 und 3 des Fünften Buches Sozialgesetzbuch in Verbindung mit den Richtlinien des Gemeinsamen Bundesausschusses nach § 92 des Fünften Buches Sozialgesetzbuch hinaus einen Anspruch auf Schutzimpfungen gegen das Coronavirus SARS-CoV-2, wenn die Verabreichung der Schutzimpfung durch eine Ärztin oder einen Arzt für medizinisch erforderlich gehalten wird.
+# § 1 – (weggefallen)
 
 # § 2 – Präexpositionsprophylaxe gegen die Coronavirus-Krankheit-2019 (COVID-19)
 

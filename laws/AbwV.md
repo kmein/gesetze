@@ -19,7 +19,7 @@ Im Sinne dieser Verordnung ist:
 
 3. qualifizierte Stichprobe eine Mischprobe aus mindestens fünf Stichproben, die in einem Zeitraum von höchstens zwei Stunden im Abstand von nicht weniger als zwei Minuten entnommen und gemischt werden;
 
-4. produktionsspezifischer Frachtwert der Frachtwert (z. B. cbm/t, g/t, kg/t), der sich auf die der wasserrechtlichen Zulassung zugrunde liegende Produktionskapazität bezieht;
+4. produktionsspezifischer Frachtwert der Frachtwert (z. B. cbm/t, g/t, kg/t), der sich auf die der wasserrechtlichen Zulassung zugrunde liegende Produktionskapazität bezieht, soweit sich nicht aus dem jeweiligen Anhang etwas anderes ergibt;
 
 5. Ort des Anfalls der Ort, an dem Abwasser vor der Vermischung mit anderem Abwasser behandelt worden ist, sonst an dem es erstmalig gefasst wird;
 
@@ -772,62 +772,35 @@ Anforderungen an das Abwasser für die Einleitungsstelle
   
 (2) Die Anforderungen für Ammoniumstickstoff und Stickstoff, gesamt, gelten bei einer Abwassertemperatur von 12 °C und größer im Ablauf des biologischen Reaktors der Abwasserbehandlungsanlage und sofern die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Stickstoff, gesamt, mehr als 100 kg je Tag beträgt. In der wasserrechtlichen Zulassung kann für Stickstoff, gesamt, eine höhere Konzentration bis zu 25 mg/l zugelassen werden, wenn die Verminderung der Gesamtstickstofffracht mindestens 70 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der Stickstofffracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll. Für die Frachten ist der gesamte gebundene Stickstoff (TN<sub>b</sub>) zugrunde zu legen. (3) Die Anforderung für Phosphor, gesamt, gilt, wenn die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor, gesamt, mehr als 20 kg je Tag beträgt. (4) Ist bei Teichanlagen, die für eine Aufenthaltszeit von 24 Stunden und mehr bemessen sind und bei denen die der wasserrechtlichen Zulassung zugrunde liegende tägliche Abwassermenge 500 m³ nicht übersteigt, eine Probe durch Algen deutlich gefärbt, so sind der CSB und der BSB<sub>5</sub> von der algenfreien Probe zu bestimmen. In diesem Fall verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l und beim BSB<sub>5</sub> um 5 mg/l.
 
-# Anhang 9 – Herstellung von Beschichtungsstoffen und Lackharzen
+# Anhang 9 – Herstellung von Beschichtungsstoffen
 
-(Fundstelle: BGBl. I 2004, 1124 - 1125;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 66, S. 2 – 3)
 
-A  
-Anwendungsbereich
+(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Beschichtungsstoffen durch physikalische Verfahren wie wässrigen Dispersionsfarben, kunstharzgebundenen Putzen und wasserverdünnbaren Beschichtungsstoffen sowie von Beschichtungsstoffen auf Lösemittelbasis mit angegliederten Nebenbetrieben stammt.
 
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von wässrigen Dispersionsfarben, kunstharzgebundenen Putzen und wasserverdünnbaren Beschichtungsstoffen, Lackharzen sowie von Beschichtungsstoffen auf Lösemittelbasis mit angegliederten Nebenbetrieben stammt. (2) Dieser Anhang gilt nicht für Abwasser aus der Herstellung von organischen Farbpigmenten und von anorganischen Pigmenten sowie aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
+(2) Dieser Anhang gilt nicht für Abwasser aus der Herstellung von Beschichtungsstoffen durch chemische Synthese, wie zum Beispiel aus der Herstellung von organischen Farbpigmenten, von anorganischen Pigmenten und von Lackharzen. Dieser Anhang gilt nicht für Abwasser aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
 
-B  
-Allgemeine Anforderungen
+(1) Bei der Erzeugung von Vakuum im Produktionsprozess ist der Abwasseranfall durch Einsatz abwasserfreier Verfahren gering zu halten.
 
-(1) Bei der Erzeugung von Vakuum im Produktionsprozess ist der Abwasseranfall durch Einsatz abwasserfreier Verfahren gering zu halten. (2) Das Abwasser darf keine Quecksilberverbindungen und organischen Zinnverbindungen enthalten, die aus dem Einsatz als Konservierungsstoffe sowie mikrobizider Zusatzstoffe stammen. Der Nachweis, dass Quecksilber- oder organische Zinnverbindungen im Abwasser nicht enthalten sind, kann dadurch erbracht werden, dass von den Herstellern Angaben vorliegen, nach denen die zur Konservierung oder mikrobiziden Einstellung verwendeten Einsatz- und Hilfsstoffe derartige Verbindungen nicht enthalten. (3) Abwasser aus dem Herstellungsbereich Beschichtungsstoffe auf Lösemittelbasis mit Nebenbetrieben, das aus der Ablöschung des Destillationssumpfes aus der Lösemittelrückgewinnung herrührt, darf nicht abgeleitet werden.
+(2) Das Abwasser darf keine Quecksilberverbindungen und organischen Zinnverbindungen enthalten, die aus dem Einsatz als Konservierungsstoffe sowie mikrobizider Zusatzstoffe stammen. Der Nachweis, dass Quecksilber- oder organische Zinnverbindungen im Abwasser nicht enthalten sind, kann dadurch erbracht werden, dass von den Herstellern Angaben vorliegen, nach denen die zur Konservierung oder mikrobiziden Einstellung verwendeten Einsatz- und Hilfsstoffe derartige Verbindungen nicht enthalten.
 
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
+(3) Abwasser aus dem Herstellungsbereich Beschichtungsstoffe auf Lösemittelbasis mit Nebenbetrieben, das aus der Ablöschung des Destillationssumpfes aus der Lösemittelrückgewinnung herrührt, darf nicht abgeleitet werden.
 
-(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
+(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:
 
- 
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 53%" /><col style="width: 47%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
+2-Stunden-Mischprobe</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Chemischer Sauerstoffbedarf (CSB)</td><td style="text-align: center;">120 mg/l</td></tr><tr class="even"><td style="text-align: left;">Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)</td><td style="text-align: center;">20 mg/l</td></tr><tr class="odd"><td style="text-align: left;">Giftigkeit gegenüber Fischeiern (G<sub>Ei</sub>)</td><td style="text-align: center;">2</td></tr></tbody></table>
 
-Qualifizierte Stichprobe oder  
-2-Stunden-Mischprobe
+(2) Bei Abwasserströmen, deren CSB-Konzentration am Ort des Anfalls mehr als 50 g/l beträgt, ist der CSB auf höchstens 500 mg/l zu vermindern.
 
-Chemischer Sauerstoffbedarf (CSB)
+(1) An das Abwasser aus folgenden Bereichen werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:
 
-mg/l
-
-120
-
-Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)
-
-mg/l
-
-20
-
-Giftigkeit gegenüber Fischeiern (G<sub>Ei</sub>)
-
- 
-
-2
-
-  
-(2) Bei Abwasserströmen, deren CSB-Konzentration am Ort des Anfalls mehr als 50 g/l beträgt, ist der CSB auf mindestens 500 mg/l zu vermindern.
-
-D  
-Anforderungen an das Abwasser vor Vermischung
-
-(1) An das Abwasser aus folgenden Bereichen werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:  
-
- 
+Parameter
 
 Wässrige Dispersionsfarben,  
 kunstharzgebundene Putze  
-und wasserverdünnbare  
+und  
+wasserverdünnbare  
 Beschichtungsstoffe
 
 Behälterreinigung mit Lauge  
@@ -841,72 +814,71 @@ mg/l
 
 Barium
 
-2
+2,0
 
-2
+2,0
 
 Blei
 
-0,5
+0,50
 
-0,5
+0,50
 
 Cadmium
 
-0,1
+0,10
 
-0,1
+0,10
 
 Chrom, gesamt
 
-0,5
+0,50
 
-0,5
+0,50
 
 Cobalt
 
-1
+1,0
 
-1
+1,0
 
 Kupfer
 
-0,5
+0,50
 
-0,5
+0,50
 
 Nickel
 
-0,5
+0,50
 
-0,5
+0,50
 
 Zink
 
-2
+2,0
 
-2
+2,0
 
 Zinn
 
-\-
+–
 
-1
+1,0
 
 Adsorbierbare organisch gebundene Halogene (AOX)
 
-1
+1,0
 
-1
+1,0
 
 Leichtflüchtige halogenierte Kohlenwasserstoffe (LHKW)
 
-0,1
+0,10
 
-\-
+–
 
-  
-(2) Die Anforderungen an AOX und LHKW (Summe aus Trichlorethen, Tetrachlorethen, 1.1.1-Trichlorethan, Dichlormethan - gerechnet als Chlor) beziehen sich auf die Stichprobe. Die Anforderung an LHKW gilt auch als eingehalten, wenn nachgewiesen ist, dass leichtflüchtige halogenierte Kohlenwasserstoffe in der Produktion und für Reinigungszwecke nicht eingesetzt werden.
+(2) Die Anforderungen an AOX und LHKW (Summe aus Trichlorethen, Tetrachlorethen, 1.1.1-Trichlorethan, Dichlormethan – gerechnet als Chlor) beziehen sich auf die Stichprobe. Die Anforderung an LHKW gilt auch als eingehalten, wenn nachgewiesen ist, dass keine leichtflüchtigen halogenierten Kohlenwasserstoffe in der Produktion und für Reinigungszwecke eingesetzt werden.
 
 # Anhang 10 – Fleischwirtschaft
 
@@ -1544,16 +1516,13 @@ mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Bioch
 
 # Anhang 22 – Chemische Industrie
 
-(Fundstelle: BGBl. I 2020, 1289 – 1294)
+(Fundstelle: BGBl. 2024 I Nr. 66, S. 3 – 11)
 
-  
-  
-
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Stoffen durch chemische, biochemische oder physikalische Verfahren, einschließlich der zugehörigen Vor-, Zwischen- und Nachbehandlung, stammt.
+(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Stoffen durch chemische, biochemische oder physikalische Verfahren, einschließlich der zugehörigen Vor-, Zwischen- und Nachbehandlung, stammt. Er gilt ferner für betriebsspezifisch verunreinigtes Niederschlagswasser, das in dem genannten Bereich anfällt.
 
 (2) Dieser Anhang gilt nicht für Abwassereinleitungen in öffentliche Abwasseranlagen von weniger als 10 m³ je Tag. Dieser Anhang gilt ferner nicht für Abwasser, das aus der Sodaherstellung oder aus der Herstellung von Kalidüngemitteln stammt.
 
-(3) Für Abwasser, das aus dem Herstellen von Stoffen und Zubereitungen durch Mischen, Lösen oder Abfüllen (Formulieren) stammt und das ohne Zusammenführung mit einem anderen Abwasserstrom, der in den Anwendungsbereich dieses Anhangs fällt, in ein Gewässer oder in eine Abwasseranlage eingeleitet wird, gilt nur Teil B Absatz 1 und 5. Die Anforderungen nach Satz 1 gelten für den Ort des Anfalls des Abwassers.
+(3) Für Abwasser, das aus dem Herstellen von Stoffen und Zubereitungen durch Mischen, Lösen oder Abfüllen (Formulieren) stammt und das ohne Zusammenführung mit einem anderen Abwasserstrom, der in den Anwendungsbereich dieses Anhangs fällt, in ein Gewässer oder in eine Abwasseranlage eingeleitet wird, gilt nur Teil B Absatz 1 und Absatz 5. Die Anforderungen nach Satz 1 gelten für den Ort des Anfalls des Abwassers.
 
 (4) Die in Teil C Absatz 3 Nummer 1 Satz 1, Nummer 2 und 3 sowie Absatz 4 und 5 genannten Anforderungen sind Emissionsgrenzwerte im Sinne von § 1 Absatz 2 Satz 1.
 
@@ -1563,19 +1532,23 @@ mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Bioch
 
 2. Einsatz abwasserfreier Verfahren zur Vakuumerzeugung und bei der Abluftreinigung,
 
-3. Rückhaltung oder Rückgewinnung von Stoffen durch Aufbereitung von Mutterlaugen und durch optimierte Verfahren,
+3. Rückhaltung oder Rückgewinnung von Stoffen durch Aufbereitung von Mutterlaugen und durch optimierte Verfahren sowie
 
-4. Vorbehandlung von Abwasserteilströmen, die Schadstoffe enthalten, die bei der abschließenden Abwasserbehandlung nicht ausreichend behandelt werden können, insbesondere biologisch schlecht abbaubare oder nicht durch die abschließende Abwasserbehandlung eliminierbare organische Verbindungen sowie flüchtige Schadstoffe, wie Benzol und flüchtige halogenorganische Verbindungen.
+4. Vorbehandlung von Abwasserteilströmen, die Schadstoffe enthalten, die
+
+a) die Funktionstüchtigkeit der biologischen Endbehandlung beeinträchtigen können oder
+
+b) bei der abschließenden Abwasserbehandlung nicht ausreichend behandelt werden können, insbesondere biologisch schlecht abbaubare oder nicht durch die abschließende Abwasserbehandlung eliminierbare organische Verbindungen sowie flüchtige Schadstoffe wie Benzol und flüchtige halogenorganische Verbindungen.
 
 (2) Nicht behandlungsbedürftiges Abwasser ist getrennt von behandlungsbedürftigem Abwasser abzuleiten.
 
-(3) Es sind Rückhaltekapazitäten für Abwasser und Maßnahmen für eine ordnungsgemäße Wiederverwendung, Behandlung oder Entsorgung zurückgehaltenen Abwassers in einem dem Risiko angemessenem Umfang vorzuhalten, um bei außerplanmäßigen Betriebszuständen unkontrollierte Emissionen zu verhindern. Der Einleiter hat eine entsprechende Risikobewertung vorzunehmen.
+(3) Es sind Rückhaltekapazitäten für Abwasser vorzuhalten und Maßnahmen für eine ordnungsgemäße Wiederverwendung, Behandlung oder Entsorgung zurückgehaltenen Abwassers vorzusehen, um bei außerplanmäßigen Betriebszuständen unkontrollierte Emissionen zu verhindern. Der Umfang der Rückhaltekapazitäten und der Maßnahmen muss dem Risiko angemessen sein. Der Einleiter hat eine entsprechende Risikobewertung vorzunehmen.
 
-(4) Bei mehreren abwassererzeugenden Betrieben am Standort hat der Inhaber der wasserrechtlichen Zulassung mit den betrieblich Verantwortlichen der übrigen abwassererzeugenden Betriebe die Aufgaben, Verantwortlichkeiten und das Zusammenwirken im Hinblick auf eine ordnungsgemäße Abwasserbeseitigung in geeigneter Form festzulegen.
+(4) Bei mehreren abwassererzeugenden Betrieben am Standort hat der Inhaber der wasserrechtlichen Zulassung mit den betrieblich Verantwortlichen der übrigen abwassererzeugenden Betriebe die Aufgaben, die Verantwortlichkeiten und das Zusammenwirken im Hinblick auf eine ordnungsgemäße Abwasserbeseitigung in geeigneter Form festzulegen.
 
 (5) Der Nachweis für die Einhaltung der allgemeinen Anforderungen ist in einem betrieblichen Abwasserkataster zu erbringen. Das Abwasserkataster hat, über die Angaben gemäß Anlage 2 Nummer 1 hinaus, folgende Informationen zu enthalten:
 
-1. Angaben zu abwassererzeugenden Synthesen, Verfahren und Anlagen, einschließlich einer Darstellung der chemischen Hauptreaktionen in Form von Umsetzungsgleichungen sowie der wichtigsten Nebenreaktionen,
+1. Angaben zu abwassererzeugenden Synthesen, Verfahren und Anlagen, einschließlich einer Darstellung der chemischen Hauptreaktionen in Form von Umsetzungsgleichungen sowie der wichtigsten Nebenreaktionen und
 
 2. Daten über die biologische Eliminierbarkeit der organischen Schadstofffracht der Abwasserströme.
 
@@ -1589,7 +1562,7 @@ mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Bioch
 
 2. die einzuhaltende TOC-Konzentration in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe sowie
 
-3. die einzuhaltende CSB-Konzentration in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe als dreifacher Wert der TOC-Konzentration nach Nummer 2 oder als Ergebnis einer Multiplikation der TOC-Konzentration nach Nummer 2 mit einem festzulegenden standortspezifischen Faktor für das CSB/TOC-Verhältnis.
+3. die einzuhaltende CSB-Konzentration in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe als dreifacher Wert der TOC-Konzentration nach Nummer 2 oder als Ergebnis einer Multiplikation der TOC-Konzentration nach Nummer 2 mit einem festzulegenden standortspezifischen Faktor für das CSB/TOC-Verhältnis.
 
 Grundlage für die Festlegungen nach Satz 1 ist eine Ermittlung der zulässigen TOC-Jahresgesamtfracht. Diese ergibt sich aus der Summe der Jahresfrachten der einzelnen Abwasserströme. Die einzelnen Abwasserströme gehen mit folgenden TOC-Konzentrationen in die Ermittlung der zulässigen Jahresgesamtfracht ein:
 
@@ -1607,42 +1580,32 @@ Werden mit Zustimmung der zuständigen Behörde zur Verringerung der TOC-Fracht 
 
 Für die Überwachung der einzuhaltenden TOC-Gesamtfracht nach Satz 1 Nummer 1 ist die TOC-Konzentration in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe zu messen. Die tatsächliche TOC-Gesamtfracht ergibt sich aus einer Multiplikation der gemessenen TOC-Konzentration mit dem Volumen des Abwasserstroms in 0,5 oder 2 Stunden, der mit der Probenahme korrespondiert.
 
-Die Anforderungen an die TOC-Gesamtfracht nach Satz 1 Nummer 1 gelten als eingehalten, wenn unter Beachtung von Teil B eine TOC-Konzentration von 25 mg/l in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe eingehalten wird und in der wasserrechtlichen Zulassung nichts Abweichendes festgelegt ist.
+Die Anforderungen an die einzuhaltende TOC-Gesamtfracht nach Satz 1 Nummer 1 gelten als eingehalten, wenn unter Beachtung von Teil B eine TOC-Konzentration von 25 mg/l in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe eingehalten wird und in der wasserrechtlichen Zulassung nichts Abweichendes festgelegt wird.
 
-(3) Im Übrigen werden an das Abwasser in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe folgende Anforderungen gestellt:
+(3) Im Übrigen werden an das Abwasser folgende Anforderungen jeweils in der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe gestellt:
 
-1\.
+1. Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>): 50 mg/l.
 
-Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>):
+In der wasserrechtlichen Zulassung kann eine höhere Konzentration bis zu 75 mg/l festgesetzt werden, wenn die Stickstofffracht um 75 Prozent verringert wird,
 
-50 mg/l.
+2. Phosphor, gesamt: 2,0 mg/l,
 
- 
+3. Giftigkeit:
 
-In der wasserrechtlichen Zulassung kann eine höhere Konzentration von bis zu 75 mg/l  
-festgesetzt werden, wenn die Stickstofffracht um 75 Prozent verringert wird.
+|                                         |                |     |      |
+|:----------------------------------------|:---------------|:----|:-----|
+| Giftigkeit gegenüber Fischeiern         | G<sub>EI</sub> | =   |  2   |
+| Giftigkeit gegenüber Daphnien           | G<sub>D</sub>  | =   |  8   |
+| Giftigkeit gegenüber Algen              | G<sub>A</sub>  | =   | 16   |
+| Giftigkeit gegenüber Leuchtbakterien    | G<sub>L</sub>  | =   | 32   |
+| Erbgutveränderndes Potential (umu-Test) | G<sub>M</sub>  | =   |  1,5 |
 
-2\.
+(4) Für die Parameter TOC, abfiltrierbare Stoffe, TN<sub>b</sub> und N<sub>ges</sub> sind bei Überschreiten der nachfolgend genannten eingeleiteten Jahresfrachten folgende Konzentrationswerte im Jahresmittel einzuhalten:
 
-Phosphor, gesamt:
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 39%" /><col style="width: 30%" /><col style="width: 30%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Jahresfracht</th><th style="text-align: center;">Konzentration<br />
+(Jahresmittelwert)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">TOC</td><td style="text-align: center;">3,3 Tonnen/a</td><td style="text-align: center;">33 mg/l<span id="FnR.FnA1-F829229_02"></span><a href="#FnA1-F829229_02" class="FnR">1</a></sup> ,</sup><span id="FnR.FnA1-F829229_03"></span><a href="#FnA1-F829229_03" class="FnR">2</a></sup> ,</sup><span id="FnR.FnA1-F829229_04"></span><a href="#FnA1-F829229_04" class="FnR">3</a></sup></td></tr><tr class="even"><td style="text-align: left;">Abfiltrierbare Stoffe</td><td style="text-align: center;">3,5 Tonnen/a</td><td style="text-align: center;">35 mg/l</td></tr><tr class="odd"><td style="text-align: left;">TN<sub>b</sub></td><td style="text-align: center;">2,5 Tonnen/a</td><td style="text-align: center;">25 mg/l<span id="FnR.FnA1-F829229_05"></span><a href="#FnA1-F829229_05" class="FnR">4</a></sup> ,</sup><span id="FnR.FnA1-F829229_06"></span><a href="#FnA1-F829229_06" class="FnR">5</a></sup> ,</sup><span id="FnR.FnA1-F829229_07"></span><a href="#FnA1-F829229_07" class="FnR">6</a></sup></td></tr><tr class="even"><td style="text-align: left;">N<sub>ges</sub></td><td style="text-align: center;">2,0 Tonnen/a</td><td style="text-align: center;">20 mg/l<a href="#FnA1-F829229_05" class="FnR">4</a></sup> ,<a href="#FnA1-F829229_06" class="FnR">5</a></sup> ,<a href="#FnA1-F829229_07" class="FnR">6</a></sup></td></tr></tbody></table>
 
-2,0 mg/l.
-
-|     |                                         |                |     |     |
-|:----|:----------------------------------------|:---------------|:----|:----|
-| 3\. | Giftigkeit:                             |                |     |     |
-|     | Giftigkeit gegenüber Fischeiern         | G<sub>Ei</sub> | =   | 2   |
-|     | Giftigkeit gegenüber Daphnien           | G<sub>D</sub>  | =   | 8   |
-|     | Giftigkeit gegenüber Algen              | G<sub>A</sub>  | =   | 16  |
-|     | Giftigkeit gegenüber Leuchtbakterien    | G<sub>L</sub>  | =   | 32  |
-|     | Erbgutveränderndes Potenzial (umu-Test) | G<sub>M</sub>  | =   | 1,5 |
-
-(4) Für die Parameter TOC, abfiltrierbare Stoffe, TN<sub>b</sub> und N<sub>ges</sub> sind bei Überschreiten der nachfolgend genannten eingeleiteten Jahresfrachten folgende Konzentrationen als Jahresmittelwerte einzuhalten:
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 34%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Jahresfracht</th><th style="text-align: center;">Konzentration<br />
-(Jahresmittelwert)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">TOC</td><td style="text-align: center;">3,3 t/a</td><td style="text-align: center;">   33,0 mg/l<span id="FnR.FnA1-F812064_02"></span><a href="#FnA1-F812064_02" class="FnR">1</a></sup> ,</sup><span id="FnR.FnA1-F812064_03"></span><a href="#FnA1-F812064_03" class="FnR">2</a></sup> ,</sup><span id="FnR.FnA1-F812064_04"></span><a href="#FnA1-F812064_04" class="FnR">3</a></sup></td></tr><tr class="even"><td style="text-align: left;">abfiltrierbare Stoffe</td><td style="text-align: center;">3,5 t/a</td><td style="text-align: center;">35,0 mg/l</td></tr><tr class="odd"><td style="text-align: left;">TN<sub>b</sub></td><td style="text-align: center;">2,5 t/a</td><td style="text-align: center;">   25,0 mg/l<span id="FnR.FnA1-F812064_05"></span><a href="#FnA1-F812064_05" class="FnR">4</a></sup> ,</sup><span id="FnR.FnA1-F812064_06"></span><a href="#FnA1-F812064_06" class="FnR">5</a></sup> ,</sup><span id="FnR.FnA1-F812064_07"></span><a href="#FnA1-F812064_07" class="FnR">6</a></sup></td></tr><tr class="even"><td style="text-align: left;">N<sub>ges</sub></td><td style="text-align: center;">2,0 t/a</td><td style="text-align: center;">   20,0 mg/l4, 5, 6</sup></td></tr></tbody></table>
-
-<span id="FnA1-F812064_02"></span><a href="#FnR.FnA1-F812064_02" class="Footnote">1</a>  
+<span id="FnA1-F829229_02"></span><a href="#FnR.FnA1-F829229_02" class="Footnote">1</a>  
 Der Jahresmittelwert für den TOC darf bis zu 100 mg/l betragen, wenn
 
 a) die Eliminationsrate im Jahresdurchschnitt bei der Vor- und Endbehandlung mindestens 90 Prozent beträgt und
@@ -1650,12 +1613,12 @@ a) die Eliminationsrate im Jahresdurchschnitt bei der Vor- und Endbehandlung min
 b) im Fall einer biologischen Behandlung mindestens eine der folgenden Voraussetzungen erfüllt ist:
 
 aa)  
-der BSB<sub>5</sub>-Wert im Ablauf beträgt höchstens 20 mg/l und die CSB-Schlammbelastung beträgt höchstens 0,25 kg CSB/kg organischer Trockensubstanz im Schlamm oder
+der BSB5-Wert im Ablauf beträgt höchstens 20 mg/l und die CSB-Schlammbelastung beträgt höchstens 0,25 kg CSB/kg organischer Trockensubstanz im Schlamm oder
 
 bb)  
 die Auslegung und der Betrieb der Behandlungsanlage sind auf eine gezielte Nitrifikation ausgerichtet.
 
-<span id="FnA1-F812064_03"></span><a href="#FnR.FnA1-F812064_03" class="Footnote">2</a>  
+<span id="FnA1-F829229_03"></span><a href="#FnR.FnA1-F829229_03" class="Footnote">2</a>  
 Der Jahresmittelwert für den TOC darf mehr als 100 mg/l betragen, wenn
 
 a) die Eliminationsrate im Jahresdurchschnitt bei der Vor- und Endbehandlung mindestens 95 Prozent beträgt,
@@ -1664,41 +1627,39 @@ b) eine der in Fußnote 1 Buchstabe b genannten Voraussetzungen erfüllt ist und
 
 c) der TOC im Zulauf zur Abwasserendbehandlung mehr als 2,0 g/l im Jahresdurchschnitt beträgt und der Zulauf einen hohen Anteil an schwer abbaubaren organischen Verbindungen aufweist.
 
-<span id="FnA1-F812064_04"></span><a href="#FnR.FnA1-F812064_04" class="Footnote">3</a>  
-Der Jahresmittelwert für den TOC gilt nicht für Abwasser, dessen Hauptschadstofffracht aus der Herstellung von Methylcellulose stammt.
+<span id="FnA1-F829229_04"></span><a href="#FnR.FnA1-F829229_04" class="Footnote">3</a>  
+Der Jahresmittelwert für den TOC gilt nicht für Abwasser, dessen Hauptschadstofffracht aus der Herstellung von Methylcellulose stammt
 
-<span id="FnA1-F812064_05"></span><a href="#FnR.FnA1-F812064_05" class="Footnote">4</a>  
+<span id="FnA1-F829229_05"></span><a href="#FnR.FnA1-F829229_05" class="Footnote">4</a>  
 Es gilt entweder der Jahresmittelwert für TN<sub>b</sub> oder für N<sub>ges</sub>.
 
-<span id="FnA1-F812064_06"></span><a href="#FnR.FnA1-F812064_06" class="Footnote">5</a>  
+<span id="FnA1-F829229_06"></span><a href="#FnR.FnA1-F829229_06" class="Footnote">5</a>  
 Der Jahresmittelwert für TN<sub>b</sub> und N<sub>ges</sub> gilt nicht bei Abwasserbehandlungsanlagen ohne biologische Abwasserbehandlung.
 
-<span id="FnA1-F812064_07"></span><a href="#FnR.FnA1-F812064_07" class="Footnote">6</a>  
-Der Jahresmittelwert für TN<sub>b</sub> und N<sub>ges</sub> darf bei TN<sub>b</sub> bis zu 40 mg/l und bei N<sub>ges</sub> bis zu 35 mg/l betragen, wenn die Eliminationsrate bei der Vor- und Endbehandlung im Jahresdurchschnitt jeweils mindestens 70 Prozent beträgt.
+<span id="FnA1-F829229_07"></span><a href="#FnR.FnA1-F829229_07" class="Footnote">6</a>  
+Der Jahresmittelwert für TN<sub>b</sub> und N<sub>ges</sub> kann bei TN<sub>b</sub> bis zu 40 mg/l und bei N<sub>ges</sub> bis zu 35 mg/l betragen, wenn die Eliminationsrate bei der Vor- und Endbehandlung im Jahresdurchschnitt jeweils mindestens 70 Prozent beträgt.
 
-(5) Für die Parameter adsorbierbare organisch gebundene Halogene (AOX) und Schwermetalle sind bei Überschreiten der nachfolgend genannten eingeleiteten Jahresfrachten folgende Konzentrationen als Jahresmittelwerte einzuhalten:
+(5) Für die Parameter adsorbierbare organisch gebundene Halogene (AOX) und Schwermetalle sind bei Überschreiten der nachfolgend genannten eingeleiteten Jahresfrachten folgende Konzentrationswerte im Jahresmittel einzuhalten:
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 34%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Jahresfracht</th><th style="text-align: center;">Konzentration<br />
-(Jahresmittelwert)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">AOX</td><td style="text-align: center;">100   kg/a</td><td style="text-align: center;">1,0   mg/l<span id="FnR.FnA2-F812064_08"></span><a href="#FnA2-F812064_08" class="FnR">1</a></sup></td></tr><tr class="even"><td style="text-align: left;">Chrom, gesamt</td><td style="text-align: center;">  2,5 kg/a</td><td style="text-align: center;">  0,025 mg/l<span id="FnR.FnA2-F812064_09"></span><a href="#FnA2-F812064_09" class="FnR">2</a></sup> ,</sup><span id="FnR.FnA2-F812064_10"></span><a href="#FnA2-F812064_10" class="FnR">3</a></sup> ,</sup><span id="FnR.FnA2-F812064_11"></span><a href="#FnA2-F812064_11" class="FnR">4</a></sup></td></tr><tr class="odd"><td style="text-align: left;">Kupfer</td><td style="text-align: center;">  5,0 kg/a</td><td style="text-align: center;">  0,050 mg/l<a href="#FnA2-F812064_09" class="FnR">2</a></sup> ,<a href="#FnA2-F812064_10" class="FnR">3</a></sup> ,</sup><span id="FnR.FnA2-F812064_12"></span><a href="#FnA2-F812064_12" class="FnR">5</a></sup></td></tr><tr class="even"><td style="text-align: left;">Nickel</td><td style="text-align: center;">  5,0 kg/a</td><td style="text-align: center;">  0,050 mg/l<a href="#FnA2-F812064_09" class="FnR">2</a></sup> ,<a href="#FnA2-F812064_10" class="FnR">3</a></sup></td></tr><tr class="odd"><td style="text-align: left;">Zink</td><td style="text-align: center;"> 30   kg/a</td><td style="text-align: center;">  0,30  mg/l<a href="#FnA2-F812064_09" class="FnR">2</a></sup> ,<a href="#FnA2-F812064_10" class="FnR">3</a></sup> ,</sup><span id="FnR.FnA2-F812064_13"></span><a href="#FnA2-F812064_13" class="FnR">6</a></sup></td></tr></tbody></table>
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 39%" /><col style="width: 30%" /><col style="width: 30%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Jahresfracht</th><th style="text-align: center;">Konzentration<br />
+(Jahresmittelwert)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">AOX</td><td style="text-align: center;">100 kg/a</td><td style="text-align: center;">1,0 mg/l<span id="FnR.FnA2-F829229_08"></span><a href="#FnA2-F829229_08" class="FnR">1</a></sup></td></tr><tr class="even"><td style="text-align: left;">Chrom, gesamt</td><td style="text-align: center;">2,5 kg/a</td><td style="text-align: center;">0,025 mg/l<span id="FnR.FnA2-F829229_09"></span><a href="#FnA2-F829229_09" class="FnR">2</a></sup> ,</sup><span id="FnR.FnA2-F829229_10"></span><a href="#FnA2-F829229_10" class="FnR">3</a></sup> ,</sup><span id="FnR.FnA2-F829229_11"></span><a href="#FnA2-F829229_11" class="FnR">4</a></sup></td></tr><tr class="odd"><td style="text-align: left;">Kupfer</td><td style="text-align: center;">5,0 kg/a</td><td style="text-align: center;">0,050 mg/l<a href="#FnA2-F829229_09" class="FnR">2</a></sup> ,<a href="#FnA2-F829229_10" class="FnR">3</a></sup> ,</sup><span id="FnR.FnA2-F829229_12"></span><a href="#FnA2-F829229_12" class="FnR">5</a></sup></td></tr><tr class="even"><td style="text-align: left;">Nickel</td><td style="text-align: center;">5,0 kg/a</td><td style="text-align: center;">0,050 mg/l<a href="#FnA2-F829229_09" class="FnR">2</a></sup> ,<a href="#FnA2-F829229_10" class="FnR">3</a></sup></td></tr><tr class="odd"><td style="text-align: left;">Zink</td><td style="text-align: center;">30 kg/a</td><td style="text-align: center;">0,30 mg/l<a href="#FnA2-F829229_09" class="FnR">2</a></sup> ,<a href="#FnA2-F829229_10" class="FnR">3</a></sup> ,</sup><span id="FnR.FnA2-F829229_13"></span><a href="#FnA2-F829229_13" class="FnR">6</a></sup></td></tr></tbody></table>
 
-  
-
-<span id="FnA2-F812064_08"></span><a href="#FnR.FnA2-F812064_08" class="Footnote">1</a>  
+<span id="FnA2-F829229_08"></span><a href="#FnR.FnA2-F829229_08" class="Footnote">1</a>  
 Der Jahresmittelwert gilt nicht für Abwasser, dessen Hauptschadstofffracht aus der Herstellung jodierter Röntgenkontrastmittel oder aus der Herstellung von Propylenoxid oder Epichlorhydrin nach dem Chlorhydrinverfahren stammt.
 
-<span id="FnA2-F812064_09"></span><a href="#FnR.FnA2-F812064_09" class="Footnote">2</a>  
+<span id="FnA2-F829229_09"></span><a href="#FnR.FnA2-F829229_09" class="Footnote">2</a>  
 Der Jahresmittelwert gilt nicht für anorganisches Abwasser, dessen Hauptschadstofffracht aus der Herstellung anorganischer Schwermetallverbindungen stammt.
 
-<span id="FnA2-F812064_10"></span><a href="#FnR.FnA2-F812064_10" class="Footnote">3</a>  
+<span id="FnA2-F829229_10"></span><a href="#FnR.FnA2-F829229_10" class="Footnote">3</a>  
 Der Jahresmittelwert gilt nicht für Abwasser, dessen Hauptschadstofffracht aus der Verarbeitung metallkontaminierter fester anorganischer Rohstoffe stammt.
 
-<span id="FnA2-F812064_11"></span><a href="#FnR.FnA2-F812064_11" class="Footnote">4</a>  
+<span id="FnA2-F829229_11"></span><a href="#FnR.FnA2-F829229_11" class="Footnote">4</a>  
 Der Jahresmittelwert gilt nicht für Abwasser, dessen Hauptschadstofffracht aus der Produktion von chromorganischen Verbindungen stammt.
 
-<span id="FnA2-F812064_12"></span><a href="#FnR.FnA2-F812064_12" class="Footnote">5</a>  
-Der Jahresmittelwert gilt nicht für Abwasser, dessen Hauptschadstofffracht aus der Herstellung kupferorganischer Verbindungen oder aus der Herstellung von Vinylchlorid-Monomer oder Ethylendichlorid durch Oxychlorierung stammt.
+<span id="FnA2-F829229_12"></span><a href="#FnR.FnA2-F829229_12" class="Footnote">5</a>  
+Der Jahresmittelwert gilt nicht für Abwasser, dessen Hauptschadstofffracht aus der Herstellung kupferorganischer Verbindungen oder aus der Herstellung von Vinylchlorid-Monomer oder 1,2-Dichlorethan durch Oxychlorierung stammt.
 
-<span id="FnA2-F812064_13"></span><a href="#FnR.FnA2-F812064_13" class="Footnote">6</a>  
+<span id="FnA2-F829229_13"></span><a href="#FnR.FnA2-F829229_13" class="Footnote">6</a>  
 Der Jahresmittelwert gilt nicht für Abwasser, dessen Hauptschadstofffracht aus der Herstellung von Viskosefasern stammt.
 
 (6) Die Parameter nach den Absätzen 4 und 5 sind nach Teil H Absatz 1 zu messen. Die Ergebnisse der Messungen stehen Ergebnissen staatlicher Überwachung gleich. § 6 Absatz 1 findet keine Anwendung.
@@ -1713,44 +1674,41 @@ Der Jahresmittelwert gilt nicht für Abwasser, dessen Hauptschadstofffracht aus 
 
 Grundlage für die Festlegungen nach Satz 1 ist eine Ermittlung der zulässigen AOX-Jahresgesamtfracht. Diese ergibt sich aus der Summe der Jahresfrachten der einzelnen Abwasserströme. Die einzelnen Abwasserströme gehen mit folgenden AOX-Konzentrationen und -Frachten in die Ermittlung der zulässigen Jahresgesamtfracht ein:
 
-1. Abwasser aus der Herstellung von Epichlorhydrin, Propylenoxid und Butylenoxid: 3,0 mg/l
+1. Abwasser aus der Herstellung von Epichlorhydrin, Propylenoxid und Butylenoxid: 3,0 mg/l,
 
-2. Abwasser aus der einstufigen Herstellung von Acetaldehyd: 30 g/t
+2. Abwasser aus der einstufigen Herstellung von Acetaldehyd: 30 g/t,
 
-3. Abwasser aus der Herstellung von AOX-relevanten organischen Farbstoffen, organischen Pigmenten und aromatischen Zwischenprodukten, wenn diese überwiegend der Herstellung organischer Farbstoffe und organischer Pigmente dienen: 8,0 mg/l
+3. Abwasser aus der Herstellung von AOX-relevanten organischen Farbstoffen, organischen Pigmenten und aromatischen Zwischenprodukten, wenn diese überwiegend der Herstellung organischer Farbstoffe dienen: 8,0 mg/l,
 
-4. Abwasser aus der Herstellung von AOX-relevanten pharmazeutischen Wirkstoffen: 8,0 mg/l
+4. Abwasser aus der Herstellung von AOX-relevanten pharmazeutischen Wirkstoffen: 8,0 mg/l,
 
-5. Abwasser aus der Herstellung von C<sub>1</sub>-CKW durch Methanchlorierung und Methanolveresterung sowie aus der Herstellung von Tetrachlormethan und Tetrachlorethen durch Perchlorierung: 10 g/t
+5. Abwasser aus der Herstellung von C<sub>1</sub>-CKW durch Methanchlorierung und Methanolveresterung sowie aus der Herstellung von Tetrachlormethan und Tetrachlorethen durch Perchlorierung: 10 g/t,
 
-6. Abwasser aus der Herstellung von 1.2-Dichlorethan (EDC), auch einschließlich Weiterverarbeitung zu Vinylchlorid (VC): 2,0 g/t
+6. Abwasser aus der Herstellung von 1.2-Dichlorethan (DCE), auch einschließlich Weiterverarbeitung zu Vinylchlorid (VCM): 2,0 g/t,
 
-Der Frachtwert bezieht sich auf die Produktionskapazität für gereinigtes EDC. Die Kapazität ist unter Berücksichtigung des EDC-Anteils festzulegen, der in der mit der EDC-Produktionseinheit gekoppelten VC-Einheit nicht gecrackt und in der EDC-Reinigungsanlage in den Produktionskreis zurückgeführt wird.
+Der Frachtwert bezieht sich auf die Produktionskapazität für gereinigtes DCE. Die Kapazität ist unter Berücksichtigung des DCE-Anteils festzulegen, der in der mit der DCE-Produktionseinheit gekoppelten VCM-Einheit nicht gecrackt und in der DCE-Reinigungsanlage in den Produktionskreis zurückgeführt wird.
 
-7. Abwasser aus der Herstellung von Polyvinylchlorid (PVC): 5,0 g/t
+7. Abwasser aus der Herstellung von Polyvinylchlorid (PVC): 5,0 g/t,
 
-8. Abwasserströme, bei denen eine AOX-Konzentration von 0,10 mg/l überschritten und von 1,0 mg/l ohne gezielte Maßnahmen unterschritten wird: 0,30 mg/l
+8. Abwasserströme, in denen eine AOX-Konzentration von 0,10 mg/l überschritten wird und eine AOX-Konzentration von 1,0 mg/l ohne gezielte Maßnahmen unterschritten wird: 0,30 mg/l,
 
-9. nicht gesondert geregelte Abwasserströme aus der Herstellung, der Weiterverarbeitung oder der Anwendung von Stoffen, in denen eine Konzentration von 1,0 mg/l überschritten oder durch gezielte Maßnahmen unterschritten wird: 1,0 mg/l oder 20 g/t
+9. nicht gesondert geregelte Abwasserströme aus der Herstellung, Weiterverarbeitung oder der Anwendung von Stoffen, in denen eine Konzentration von 1,0 mg/l überschritten wird oder durch gezielte Maßnahmen unterschritten wird: 1,0 mg/l oder 20 g/t.
 
 Der Frachtwert bezieht sich auf die Kapazität der organischen Zielprodukte. Er gilt nicht für die Anwendung von Stoffen.
 
-Für die Überwachung der einzuhaltenden AOX-Gesamtfracht nach Satz 1 Nummer 1 ist die AOX-Konzentration in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe zu messen. Die tatsächliche AOX-Gesamtfracht ergibt sich aus einer Multiplikation der gemessenen AOX-Konzentration mit dem Volumen des Abwasserstroms in 0,5 oder 2 Stunden, der mit der Probenahme korrespondiert. Die Anforderungen an AOX nach den Sätzen 1 bis 6 gelten nicht für jodorganische Stoffe im Abwasser aus der Herstellung und Abfüllung von Röntgenkontrastmitteln. Bei Einhaltung der Anforderungen an AOX nach den Sätzen 1 bis 6 und der allgemeinen Anforderungen nach Teil B gelten auch die Anforderungen des Anhangs 48 Teil 10 als eingehalten.
+Für die Überwachung der einzuhaltenden AOX-Gesamtfracht nach Satz 1 Nummer 1 ist die AOX-Konzentration in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe zu messen. Die tatsächliche AOX-Gesamtfracht ergibt sich aus einer Multiplikation der gemessenen AOX-Konzentration mit dem Volumen des Abwasserstroms in 0,5 oder 2 Stunden, der mit der Probenahme korrespondiert. Die Anforderungen an AOX nach den Sätzen 1 bis 6 gelten nicht für jodorganische Stoffe im Abwasser aus der Herstellung und Abfüllung von Röntgenkontrastmitteln.
 
 (3) In der wasserrechtlichen Zulassung sind zu begrenzen:
 
 1. für die Parameter Quecksilber, Cadmium, Kupfer, Nickel, Blei, Chrom, gesamt, Zink und Zinn die einzuhaltenden Gesamtfrachten je Parameter in 0,5 oder 2 Stunden sowie
 
-2. die einzuhaltenden Konzentrationen der in Nummer 1 genannten Stoffe in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe.
+2. die einzuhaltende Konzentration der in Nummer 1 genannten Stoffe in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe.
 
-Grundlage für die Festlegungen nach Satz 1 ist eine Ermittlung der für die einzelnen Stoffe zulässigen Jahresgesamtfracht. Diese ergibt sich aus der Summe der jeweiligen Jahresfrachten der einzelnen Abwasserströme. Die einzelnen Abwasserströme gehen mit folgenden Konzentrationen in die Ermittlung der zulässigen Jahresgesamtfracht ein:
+Grundlage für die Festlegungen nach Satz 1 ist eine Ermittlung der für die einzelnen Stoffe zulässigen Jahresgesamtfracht. Diese ergibt sich aus der Summe der jeweiligen Jahresfrachten der einzelnen Abwasserströme. Die einzelnen Abwasserströme gehen mit folgenden Konzentrationen der jeweiligen Stoffe in die Ermittlung der zulässigen Jahresgesamtfracht ein:
 
 Parameter
 
-Qualifizierte Stichprobe oder  
-2-Stunden-Mischprobe (mg/l)
-
- 
+Konzentration für die Ermittlung der Jahresfrachten (mg/l)
 
 I
 
@@ -1764,63 +1722,63 @@ Quecksilber
 
 Cadmium
 
-0,20 
+0,20
 
 0,0050
 
 Kupfer
 
-0,50 
+0,50
 
-0,10  
+0,10
 
 Nickel
 
-0,50 
+0,50
 
-0,050 
+0,050
 
 Blei
 
-0,50 
+0,50
 
-0,050 
+0,050
 
 Chrom, gesamt
 
-0,50 
+0,50
 
-0,050 
+0,050
 
 Zink
 
-2,0  
+2,0
 
-0,20  
+0,20
 
 Zinn
 
-2,0  
+2,0
 
-0,20  
+0,20
 
-Die Werte der Spalte I gelten für Abwasserströme aus der Herstellung, Weiterverarbeitung oder Anwendung dieser Stoffe. Die Werte der Spalte II gelten für Abwasserströme, die nicht aus der Herstellung, Weiterverarbeitung oder Anwendung dieser Stoffe stammen, aber dennoch mit solchen Stoffen unterhalb der Konzentrationswerte der Spalte I belastet sind.
+Die Werte der Spalte I sind für Abwasserströme aus der Herstellung, Weiterverarbeitung oder Anwendung dieser Stoffe zu verwenden. Die Werte der Spalte II sind für Abwasserströme, die nicht aus der Herstellung, Weiterverarbeitung oder Anwendung dieser Stoffe stammen, aber dennoch mit solchen Stoffen belastet sind, zu verwenden.
 
 Für die Überwachung der einzuhaltenden Gesamtfracht der einzelnen Stoffe nach Satz 1 Nummer 1 ist die Konzentration der jeweiligen Stoffe in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe zu messen. Die tatsächliche Gesamtfracht des jeweiligen Stoffes ergibt sich aus einer Multiplikation der gemessenen Konzentration mit dem Volumen des Abwasserstroms in 0,5 oder 2 Stunden, der mit der Probenahme korrespondiert.
 
 (4) Ein Abwasserstrom darf nur dann mit einem anderen Abwasserstrom, der unter den Anwendungsbereich dieses Anhangs fällt, zusammengeführt oder mit anderem Abwasser vermischt werden, wenn
 
-1. nachgewiesen wird, dass die für den Ort des Entstehens ermittelte TOC-Fracht dieses Abwasserstromes um mindestens 80 Prozent vermindert wird, oder
+1. nachgewiesen wird, dass die für den Ort des Entstehens ermittelte TOC-Fracht dieses Abwasserstromes um mindestens 80 Prozent vermindert wird oder
 
-2. die aus dem jeweiligen Abwasserstrom in das Gewässer eingeleitete TOC-Restfracht 20 kg je Tag, 300 kg je Jahr oder 1 kg je Tonne Produktionskapazität des organischen Zielproduktes unterschreitet.
+2. die aus dem jeweiligen Abwasserstrom in das Gewässer eingeleitete TOC-Restfacht 20 kg je Tag, 300 kg je Jahr oder 1 kg je Tonne Produktionskapazität des organischen Zielproduktes unterschreitet.
 
-Für den Nachweis der Frachtverminderung nach Satz 1 Nummer 1 ist für aerobe biologische Abwasserbehandlungsanlagen das Ergebnis einer Untersuchung nach Nummer 407 der Anlage 1 und für andere Abwasserbehandlungsanlagen der TOC-Eliminationsgrad dieser Anlagen zugrunde zu legen.
+Für den Nachweis der Frachtverringerung nach Satz 1 Nummer 1 ist für aerobe biologische Abwasserbehandlungsanlagen das Ergebnis einer Untersuchung nach Nummer 407 der Anlage 1 und für andere Abwasserbehandlungsanlagen der TOC-Eliminationsgrad dieser Anlagen zugrunde zu legen.
 
 Für Chrom VI ist eine Konzentration von 0,10 mg/l in der Stichprobe einzuhalten.
 
 (1) Abweichend von Teil B Absatz 2 kann bei vorhandenen Anlagen zur Ableitung von behandlungsbedürftigem Abwasser, die vor dem 24. Juni 2020 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, mit Zustimmung der zuständigen Behörde nicht behandlungsbedürftiges Abwasser zusammen mit behandlungsbedürftigem Abwasser abgeleitet werden.
 
-(2) Die Anforderungen für das erbgutverändernde Potenzial (umu-Test) nach Teil C Absatz 3 Nummer 3 sind für vorhandene Einleitungen von Abwasser aus Anlagen, die vor dem 1. Januar 1999 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, spätestens ab dem 24. Juni 2024 einzuhalten.
+(2) Die Anforderung für das erbgutverändernde Potenzial (umu-Test) nach Teil C Absatz 3 Nummer 3 ist für vorhandene Einleitungen von Anlagen, die vor dem 1. Januar 1999 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, spätestens ab dem 24. Juni 2024 einzuhalten.
 
 (3) Die zuständige Behörde kann von den Anforderungen nach Teil D Absatz 4 bei vorhandenen Einleitungen von Abwasser aus Anlagen, die vor dem 1. Januar 1999 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, ausnehmen:
 
@@ -1834,15 +1792,15 @@ Abfallrechtliche Anforderungen werden nicht gestellt.
 
 (1) Betreiber haben nachstehende Parameter im Abwasser an der Einleitungsstelle in das Gewässer in der durchflussproportionalen 24-Stunden-Mischprobe wie folgt zu messen:
 
-| Parameter                                                              | Mindesthäufigkeit |
-|:-----------------------------------------------------------------------|:-----------------:|
-| TOC                                                                    |      täglich      |
-| abfiltrierbare Stoffe                                                  |      täglich      |
-| N<sub>ges</sub> oder TN<sub>b</sub>                                    |      täglich      |
-| P<sub>ges</sub>                                                        |      täglich      |
-| AOX                                                                    |     monatlich     |
-| Chrom, gesamt; Kupfer, Nickel, Zink, Blei                              |     monatlich     |
-| andere Schwermetalle, wenn in der wasserrechtlichen Zulassung begrenzt |     monatlich     |
+| Parameter                                                                | Mindesthäufigkeit |
+|:-------------------------------------------------------------------------|:-----------------:|
+| TOC                                                                      |      Täglich      |
+| Abfiltrierbare Stoffe                                                    |      Täglich      |
+| N<sub>ges</sub> oder TN<sub>b</sub>                                      |      Täglich      |
+| P<sub>ges</sub>                                                          |      Täglich      |
+| AOX                                                                      |     Monatlich     |
+| Chrom, gesamt, Kupfer, Nickel, Zink, Blei                                |     Monatlich     |
+| Andere Schwermetalle, sofern in der wasserrechtlichen Zulassung begrenzt |     Monatlich     |
 
 Bei Abwasserströmen mit nachgewiesenen geringen Schwankungen im Volumenstrom und in der Konzentration können die Messungen nach behördlicher Festlegung auch in der zeitproportional entnommenen 24-Stunden-Mischprobe erfolgen. Wird mit vorliegenden Datenreihen eine deutliche Stabilität der Messergebnisse nachgewiesen, kann die Häufigkeit der Messungen nach behördlicher Festlegung verringert werden.
 
@@ -1851,6 +1809,122 @@ Bei Abwasserströmen mit nachgewiesenen geringen Schwankungen im Volumenstrom un
 (3) Es ist ein Jahresbericht nach Anlage 2 Nummer 3 zu erstellen.
 
 (4) Die Messungen der Parameter nach Absatz 1 sind nach den Analyse- und Messverfahren nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
+
+Für das Abwasser aus der Herstellung organischer Grundchemikalien gemäß dem nachfolgenden Anwendungsbereich A gelten zusätzlich zu den Anforderungen des Abschnitts I die Anforderungen der folgenden Teile B bis H.
+
+(1) Dieser Abschnitt gilt für Abwasser aus der Herstellung von 1,2-Dichlorethan (DCE), Vinylchlorid (VCM), Dinitrotoluol (DNT), Toluoldiamin (TDA), Toluoldiisocyanat (TDI), Methylendiphenyldiamin (MDA) und Methylendiphenyldiisocyanat (MDI).
+
+(2) Die in Teil C Absatz 1 genannten Anforderungen sind Emissionsgrenzwerte im Sinne von § 1 Absatz 2 Satz 1.
+
+Bei der Herstellung von DCE durch Oxychlorierung im Wirbelschichtreaktor ist der Austrag von Katalysatorpartikeln in das Abwasser durch geeignete verfahrenstechnische Maßnahmen so weit wie möglich zu verringern.
+
+(1) Im Abwasser aus Anlagen zur Herstellung von DCE sind folgende Jahresmittelwerte in Gramm oder Mikrogramm je Tonne durch Oxychlorierung hergestelltes DCE einzuhalten:
+
+| Parameter                                                                                           | Anforderung (Jahresmittel) |
+|:----------------------------------------------------------------------------------------------------|:--------------------------:|
+| Kupfer<span id="FnR.FnA3-F829229_14"></span><a href="#FnA3-F829229_14" class="FnR">1</a></sup> |          0,20 g/t          |
+| Kupfer<span id="FnR.FnA3-F829229_15"></span><a href="#FnA3-F829229_15" class="FnR">2</a></sup> |         0,040 g/t          |
+| PCDD/PCDF                                                                                           |      0,30 µg I-TEQ/t       |
+
+Die Anforderungen für Kupfer gelten, wenn die Kupferfracht im Abwasser hauptsächlich aus der Herstellung von DCE durch Qxychlorierung
+
+<span id="FnA3-F829229_14"></span><a href="#FnR.FnA3-F829229_14" class="Footnote">1</a>  
+mit Wirbelschichtreaktor
+
+<span id="FnA3-F829229_15"></span><a href="#FnR.FnA3-F829229_15" class="Footnote">2</a>  
+mit Festbettreaktor stammt.
+
+Für den Parameter DCE ist ein Jahresmittelwert von 0,05 Gramm je Tonne gereinigtes DCE einzuhalten. Gereinigtes DCE ist die Summe aus hergestellter Menge an DCE und aus der VCM-Herstellung in die Reinigung zurückgeführten Menge an DCE.
+
+(2) Die Jahresmittelwerte nach Absatz 1 sind aus den Messwerten nach Teil H Absatz 1 zu ermitteln. Für die Berechnung der produktionsspezifischen Frachtwerte sind zunächst die Jahresmittelwerte der Konzentrationen für Kupfer, DCE und PCDD/PCDF zu ermitteln. Diese Jahresmittelwerte sind jeweils mit der Jahresabwassermenge an der Einleitungsstelle zu multiplizieren und durch die Menge des im jeweiligen Jahr hergestellten Produkts zu teilen. Der Jahresmittelwert für die Konzentration des Parameters DCE ist aus Tagesmittelwerten zu berechnen, die aus den Messwerten jedes Probenahmetages gebildet worden sind.
+
+(3) Die Parameter nach Absatz 1 sind nach Teil H Absatz 1 zu messen. Die Ergebnisse der Messungen stehen Ergebnissen staatlicher Überwachung gleich. § 6 Absatz 1 findet keine Anwendung.
+
+Es werden keine Anforderungen gestellt, die über Abschnitt I Teil D hinausgehen.
+
+(1) Im Abwasser aus der Herstellung von DCE und aus der Herstellung von VCM sind nach dem Abwasserstripper folgende Konzentrationswerte im Monatsmittel einzuhalten:
+
+| Parameter | Konzentration (Monatsmittelwert) |
+|:----------|:--------------------------------:|
+| DCE       |            0,40 mg/l             |
+| VCM       |            0,050 mg/l            |
+
+Die Parameter sind nach Teil H Absatz 2 zu messen.
+
+Die Monatsmittelwerte errechnen sich aus den Ergebnissen der Messungen nach Teil H Absatz 2. Der Monatsmittelwert ist aus den Tagesmittelwerten zu berechnen, die aus den Messwerten jedes Probenahmetages gebildet worden sind.
+
+(2) Im Abwasser aus der Herstellung von DCE durch Oxychlorierung im Wirbelschichtverfahren sind am Auslass der Vorbehandlungsanlage folgende Konzentrationswerte im Jahresmittel einzuhalten:
+
+| Parameter             | Konzentration (Jahresmittelwert) |
+|:----------------------|:--------------------------------:|
+| Kupfer                |            0,60 mg/l             |
+| PCDD/PCDF             |         0,80 ng I-TEQ/l          |
+| Abfiltrierbare Stoffe |             30 mg/l              |
+
+Die Parameter sind nach Teil H Absatz 2 zu messen.
+
+Die Jahresmittelwerte errechnen sich aus den Ergebnissen der Messungen nach Teil H Absatz 2.
+
+(3) Bei der Herstellung von DNT ist am Auslass der Abwasservorbehandlungsanlage der DNT-Anlage eine produktionsspezifische TOC-Fracht von 1,0 kg/t hergestelltem DNT im Monatsmittel einzuhalten.
+
+Der Parameter TOC ist nach Teil H Absatz 2 zu messen.
+
+Für die Berechnung der produktionsspezifischen TOC-Fracht ist zunächst der Monatsmittelwert der TOC-Konzentration zu ermitteln. Dieser Monatsmittelwert ist mit der für den gleichen Monat ermittelten Abwassermenge zu multiplizieren und durch die im gleichen Monat hergestellte DNT-Menge zu teilen.
+
+(3a) Abweichend von § 3 Absatz 5 ist eine Vermischung möglich, wenn über eine Frachtbilanzierung nachgewiesen wird, dass durch die gemeinsame Abwasservorbehandlung vor der Einleitung in das Gewässer insgesamt mindestens eine gleichwertige Verringerung der Fracht für Kupfer, PCDD/PCDF und abfiltrierbare Stoffe erreicht wird. In diesen Fällen gelten die Anforderungen nach Absatz 3 als eingehalten.
+
+(4) Bei der Herstellung von TDI ist am Auslass der Herstellungsanlage eine produktionsspezifische TOC-Fracht von 0,10 kg/t hergestelltem TDI im Jahresmittel einzuhalten.
+
+Der Parameter TOC ist nach Teil H Absatz 2 zu messen.
+
+(5) Bei der Herstellung von MDI ist am Auslass der Herstellungsanlage eine produktionsspezifische TOC-Fracht von 0,20 kg/t hergestelltem MDI im Jahresmittel einzuhalten.
+
+Der Parameter TOC ist nach Teil H Absatz 2 zu messen.
+
+(6) Für die Berechnung der produktionsspezifischen TOC-Fracht nach den Absätzen 5 und 6 ist zunächst der Jahresmittelwert der TOC-Konzentration zu ermitteln. Dieser Jahresmittelwert ist mit der für das gleiche Jahr ermittelten Abwassermenge zu multiplizieren und durch die Menge des im gleichen Jahr hergestellten Produkts zu teilen.
+
+(7) Die Ergebnisse der Messungen nach den Absätzen 1 bis 5 stehen Ergebnissen staatlicher Überwachung gleich. Für die Mittelwerte nach den Absätzen 1 bis 5 findet § 6 Absatz 1 keine Anwendung.
+
+Entsprechen vorhandene Einleitungen von Abwasser aus Anlagen, die vor dem 1. März 2024 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, nicht den Anforderungen nach Teil E Absatz 1 Satz 1, Absatz 4 Satz 1, Absatz 5 Satz 1 oder Absatz 6 Satz 1, sind die erforderlichen Anpassungsmaßnahmen innerhalb angemessener Fristen, die von der zuständigen Behörde festzulegen sind, vorzunehmen.
+
+Abfallrechtliche Anforderungen werden nicht gestellt.
+
+(1) Betreiber haben nachstehende Parameter im Abwasser an der Einleitungsstelle in das Gewässer wie folgt zu messen, wenn Abwasser aus Anlagen für die angegebenen Produktionen eingeleitet wird:
+
+| Parameter             |      Produktion      | Mindesthäufigkeit |
+|:----------------------|:--------------------:|:-----------------:|
+| Kupfer                | DCE (Oyxchlorierung) |     Monatlich     |
+| Anilin                |         MDA          |     Monatlich     |
+| Chlorierte Lösemittel |       MDI, TDI       |     Monatlich     |
+| DCE                   |       DCE, VCM       |     Monatlich     |
+| PCDD/PCDF             | DCE (Oxychlorierung) |   Dreimonatlich   |
+
+Sofern nicht anders angegeben, sind die Messungen in der durchflussproportionalen 24-Stunden-Mischprobe vorzunehmen. Bei Abwasserströmen mit nachgewiesenen geringen Schwankungen im Volumenstrom und in der Konzentration können die Messungen nach behördlicher Festlegung auch in der zeitproportional entnommenen 24-Stunden-Mischprobe erfolgen. Wird mit vorliegenden Datenreihen eine deutliche Stabilität der Messergebnisse nachgewiesen, kann die Häufigkeit der Messungen nach behördlicher Festlegung verringert werden.
+
+Die Bestimmung des Parameters DCE erfolgt als Tagesmittelwert aus mindestens drei Stichproben an einem Tag im Abstand von mindestens 30 Minuten.
+
+(2) Betreiber haben nachstehende Parameter im Abwasser am jeweils angegebenen Ort der Probenahme oder der Messung wie folgt zu messen:
+
+| Parameter            | Produktion |                                            Mindesthäufigkeit                                             |
+|:---------------------|:----------:|:--------------------------------------------------------------------------------------------------------:|
+| TOC                  |    DNT     | Wöchentlich<span id="FnR.FnA4-F829229_16"></span><a href="#FnA4-F829229_16" class="FnR">1</a></sup> |
+| TOC                  |  MDI, TDI  |                                                Monatlich                                                 |
+| DCE                  |  DCE, VCM  |                                                 Täglich                                                  |
+| VCM                  |  DCE, VCM  |                                                 Täglich                                                  |
+| PCDD/PCDF            |    DCE     |                                              Dreimonatlich                                               |
+| Kupfer               |    DCE     |                                                 Täglich                                                  |
+| Abfiltierbare Stoffe |    DCE     |                                                 Täglich                                                  |
+
+<span id="FnA4-F829229_16"></span><a href="#FnR.FnA4-F829229_16" class="Footnote">1</a>  
+Bei diskontinuierlicher Ableitung von Abwasser beträgt die Mindesthäufigkeit der Überwachung einmal pro Ableitung.
+
+Die Bestimmung der Parameter DCE und VCM erfolgt als Tagesmittelwert aus mindestens drei Stichproben an einem Tag im Abstand von mindestens 30 Minuten. Bei Abwasserströmen mit nachgewiesenen geringen Schwankungen im Volumenstrom und in der Konzentration können die Messungen nach behördlicher Feststellung auch in zeitproportional entnommenen 24-Stunden-Mischproben erfolgen.
+
+Die Mindesthäufigkeit kann für die Parameter Kupfer und abfiltrierbare Stoffe auf monatliche Messungen reduziert werden, sofern die Eliminationsleistung durch die Überwachung geeigneter Leitparameter ausreichend kontrolliert wird.
+
+(3) Der Nachweis der Einhaltung der Anforderungen dieses Abschnitts ist Bestandteil des Jahresberichtes gemäß Abschnitt I Teil H Absatz 3.
+
+(4) Die Messungen der Parameter nach den Absätzen 1 und 2 sind nach den Analysen- und Messverfahren nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 
 # Anhang 23 – Anlagen zur biologischen Behandlung von Abfällen
 
@@ -3946,13 +4020,9 @@ Sofern PFC-haltige Prozesschemikalien verwendet werden oder verwendet wurden, is
 
 # Anhang 36 – Herstellung von Kohlenwasserstoffen
 
-(Fundstelle: BGBl. I 2004, 1153 - 1154;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 66, S. 11 – 13)
 
-A  
-Anwendungsbereich
-
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus folgenden Bereichen der Herstellung von Kohlenwasserstoffen stammt:
+(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen ausfolgenden Bereichen der Herstellung von Kohlenwasserstoffen stammt:
 
 1. Erzeugung bestimmter Kohlenwasserstoffe, im Wesentlichen Olefinkohlenwasserstoffe mit 2 bis 4 Kohlenstoffatomen sowie Benzol, Toluol und Xylole aus Mineralölprodukten durch Kracken unter Zuhilfenahme von Dampf (Steamcracking),
 
@@ -3960,80 +4030,172 @@ Anwendungsbereich
 
 3. Umwandlung von Kohlenwasserstoffen in andere Kohlenwasserstoffe durch die chemischen Verfahren der Hydrierung, Dehydrierung, Alkylierung, Dealkylierung, Hydrodealkylierung, Isomerisierung oder Disproportionierung.
 
-Hierzu zählt auch das im Prozessbereich der Herstellungsanlagen mit Kohlenwasserstoffen in Kontakt kommende Niederschlagswasser. (2) Dieser Anhang gilt nicht für Abwasser aus der Erzeugung reiner Paraffine aus Paraffingatschen, aus der Erdölverarbeitung, aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
+Er gilt ferner für betriebsspezifisch verunreinigtes Niederschlagswasser, das in dem genannten Bereich anfällt und im Prozessbereich der Herstellungsanlagen mit Kohlenwasserstoffen in Kontakt kommt.
 
-B  
-Allgemeine Anforderungen
+(2) Dieser Anhang gilt nicht für Abwasser aus der Erzeugung reiner Paraffine aus Paraffingatschen, aus der Erdölverarbeitung, aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
 
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
+(3) Die in Teil C Absatz 2 bis 4 sowie Teil D Absatz 1 genannten Anforderungen sind Emissionsgrenzwerte im Sinne von § 1 Absatz 2 Satz 1.
 
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
+(1) Abwasseranfall und Schadstofffracht sind so gering zu halten, wie dies durch folgende Maßnahmen möglich ist:
 
-(1) An das Einleiten des Abwassers werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
+1. Mehrfachnutzung und Kreislaufführung,
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
-2-Stunden-Mischprobe<br />
-mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Chemischer Sauerstoffbedarf (CSB)</td><td style="text-align: center;">120</td></tr><tr class="even"><td style="text-align: left;">Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)</td><td style="text-align: center;">25</td></tr><tr class="odd"><td style="text-align: left;">Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>)</td><td style="text-align: center;">25</td></tr><tr class="even"><td style="text-align: left;">Phosphor, gesamt</td><td style="text-align: center;">1,5</td></tr><tr class="odd"><td style="text-align: left;">Kohlenwasserstoffe, gesamt</td><td style="text-align: center;">2</td></tr></tbody></table>
+2. Einsatz abwasserfreier Verfahren zur Vakuumerzeugung und bei der Abluftreinigung,
 
-  
-(2) Für den CSB kann eine Konzentration bis zu 190 mg/l in der qualifizierten Stichprobe oder 2-Stunden-Mischprobe zugelassen werden, wenn in einer zentralen Abwasserbehandlungsanlage die CSB-Fracht um mindestens 80 Prozent vermindert wird. Die Verminderung der CSB-Fracht bezieht sich auf das Verhältnis der CSB-Fracht im Ablauf des Schwerkraftölabscheiders zu derjenigen des Ablaufs der biologischen Abwasserbehandlungsanlage in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll. (3) Für Stickstoff, gesamt, ist eine höhere Konzentration zulässig, wenn in einer zentralen Abwasserbehandlungsanlage die Stickstofffracht um mindestens 75 Prozent vermindert wird. Die Verminderung der Stickstofffracht bezieht sich auf das Verhältnis der Stickstofffracht im Ablauf des Schwerkraftölabscheiders zu derjenigen des Ablaufs der biologischen Abwasserbehandlungsanlage in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll. Für die Frachten ist der gesamte gebundene Stickstoff (TN<sub>b</sub>) zugrunde zu legen.
+3. Rückhaltung oder Rückgewinnung von Stoffen durch optimierte Verfahren,
 
-D  
-Anforderungen an das Abwasser vor Vermischung
+4. Vorbehandlung von Abwasserteilströmen, die Schadstoffe enthalten, die
 
-An das Abwasser werden vor Vermischung mit anderem Abwasser folgende Anforderungen gestellt:  
+a) die Funktionstüchtigkeit der biologischen Endbehandlung beeinträchtigen können oder
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 40%" /><col style="width: 30%" /><col style="width: 30%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
-2-Stunden-Mischprobe<br />
-mg/l</th><th style="text-align: center;"><br />
-Stichprobe mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Adsorbierbare organisch gebundene Halogene (AOX)</td><td style="text-align: center;">-</td><td style="text-align: center;">0,1</td></tr><tr class="even"><td style="text-align: left;">Phenolindex nach Destillation und Farbstoffextraktion</td><td style="text-align: center;">0,15</td><td style="text-align: center;">-</td></tr><tr class="odd"><td style="text-align: left;">Benzol und Derivate</td><td style="text-align: center;">0,05</td><td style="text-align: center;">-</td></tr><tr class="even"><td style="text-align: left;">Sulfid, leicht freisetzbar</td><td style="text-align: center;">0,6</td><td style="text-align: center;">-</td></tr></tbody></table>
+b) bei der abschließenden Abwasserbehandlung nicht ausreichend behandelt werden können, insbesondere biologisch schlecht abbaubare oder nicht durch die abschließende Abwasserbehandlung eliminierbare organische Verbindungen sowie flüchtige Schadstoffe wie Benzol.
 
-  
-Umfasst die Kohlenwasserstoffherstellung auch die Herstellung von Ethylbenzol und Cumol, gilt für den AOX ein Wert von 0,15 mg/l.
+(1a) Bei der Herstellung von Aromaten darf aus Anlagen zur Aromatenextraktion kein Abwasser aus der Verwendung nasser Lösemittel anfallen.
 
-E  
-Anforderungen an das Abwasser für den Ort des Anfalls
+(1b) Für die Herstellung von kurzkettigen Olefinen gelten folgende Anforderungen:
 
-Im Abwasser aus der Ethylbenzol- und Cumolherstellung ist für adsorbierbare organisch gebundene Halogene (AOX) ein Wert von 1 mg/l in der Stichprobe einzuhalten.
+1. die Rückgewinnung von Kohlenwasserstoffen aus dem Quenchwasser der ersten Stufe der Fraktionierung ist zu maximieren und das Quenchwasser bei der Erzeugung von Prozessdampf wiederzuverwenden und
+
+2. die verbrauchte alkalische Waschflüssigkeit, die bei der Beseitigung von Schwefelwasserstoff aus den Spaltgasen anfällt, ist zur Verringerung der organischen Fracht zu strippen.
+
+(2) Nicht behandlungsbedürftiges Abwasser ist getrennt von behandlungsbedürftigem Abwasser abzuleiten.
+
+(3) Es sind Rückhaltekapazitäten für Abwasser und Maßnahmen für eine ordnungsgemäße Wiederverwendung, Behandlung oder Entsorgung zurückgehaltenen Abwassers in einem dem Risiko angemessenen Umfang vorzuhalten, um bei außerplanmäßigen Betriebszuständen unkontrollierte Emissionen zu verhindern. Der Einleiter hat eine entsprechende Risikobewertung vorzunehmen.
+
+(4) Bei mehreren abwassererzeugenden Betrieben am Standort hat der Inhaber der wasserrechtlichen Zulassung mit den betrieblich Verantwortlichen der übrigen abwassererzeugenden Betriebe die Aufgaben, die Verantwortlichkeiten und das Zusammenwirken im Hinblick auf eine ordnungsgemäße Abwasserbeseitigung in geeigneter Form festzulegen.
+
+(5) Der Nachweis für die Einhaltung der allgemeinen Anforderungen ist in einem betrieblichen Abwasserkataster zu erbringen. Das Abwasserkataster hat, über die Angaben gemäß Anlage 2 Nummer 1 hinaus, folgende Informationen zu enthalten:
+
+1. Angaben zu abwassererzeugenden Synthesen, Verfahren und Anlagen, einschließlich einer Darstellung der chemischen Hauptreaktionen in Form von Umsetzungsgleichungen sowie der wichtigsten Nebenreaktionen und
+
+2. Daten über die biologische Eliminierbarkeit der organischen Schadstofffracht der Abwasserströme.
+
+(6) Abwasserbehandlungsanlagen nach § 60 Absatz 3 Satz 1 Nummer 2 des Wasserhaushaltsgesetzes sowie zugehörige Kanalisationen und Anlagen zur Entwässerung von Klärschlamm im Zusammenhang mit der Abwasserbeseitigung sind so zu errichten und zu betreiben, dass Geruchs- und Lärmemissionen vermieden werden.
+
+(1) Für das Abwasser gelten für die Einleitungsstelle in das Gewässer die Anforderungen nach den Absätzen 1 bis 4.
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
+2-Stunden-Mischprobe</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">TOC</td><td style="text-align: center;">33 mg/l</td></tr><tr class="even"><td style="text-align: left;">CSB</td><td style="text-align: center;">100 mg/l</td></tr><tr class="odd"><td style="text-align: left;">N<sub>ges</sub></td><td style="text-align: center;">20 mg/l</td></tr><tr class="even"><td style="text-align: left;">P<sub>ges</sub></td><td style="text-align: center;">1,3 mg/l</td></tr><tr class="odd"><td style="text-align: left;">Kohlenwasserstoffe, gesamt</td><td style="text-align: center;">1,5 mg/l</td></tr><tr class="even"><td style="text-align: left;">Giftigkeit gegenüber Fischeiern GEI</td><td style="text-align: center;">2</td></tr></tbody></table>
+
+(2) Für den Parameter abfiltrierbare Stoffe darf bei einer eingeleiteten Jahresfracht von mehr als 3,5 t/a ein Jahresmittelwert von 35 mg/l nicht überschritten werden.
+
+(3) Für die folgenden Schwermetalle sind bei Überschreiten der nachfolgend genannten eingeleiteten Jahresfrachten folgende Konzentrationswerte im Jahresmittel einzuhalten:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 39%" /><col style="width: 30%" /><col style="width: 30%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Jahresfracht</th><th style="text-align: center;">Konzentration<br />
+(Jahresmittelwert)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Chrom, gesamt</td><td style="text-align: center;">2,5 kg/a</td><td style="text-align: center;">0,025 mg/l</td></tr><tr class="even"><td style="text-align: left;">Kupfer</td><td style="text-align: center;">5,0 kg/a</td><td style="text-align: center;">0,050 mg/l</td></tr><tr class="odd"><td style="text-align: left;">Nickel</td><td style="text-align: center;">5,0 kg/a</td><td style="text-align: center;">0,050 mg/l</td></tr><tr class="even"><td style="text-align: left;">Zink</td><td style="text-align: center;">30 kg/a</td><td style="text-align: center;">0,30 mg/l</td></tr></tbody></table>
+
+(4) Die Parameter nach den Absätzen 2 und 3 sind nach Teil H Absatz 1 zu messen. Die Ergebnisse der Messungen stehen Ergebnissen staatlicher Überwachung gleich. § 6 Absatz 1 findet keine Anwendung.
+
+Für das Abwasser gelten vor der Vermischung mit anderem Abwasser folgende Anforderungen:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 39%" /><col style="width: 30%" /><col style="width: 30%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
+2‑Stunden‑Mischprobe</th><th style="text-align: center;">Stichprobe</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Adsorbierbare organisch gebundene Halogene (AOX)</td><td style="text-align: center;"> </td><td style="text-align: center;">0,10 mg/l</td></tr><tr class="even"><td style="text-align: left;">Phenolindex nach Destillation und Farbstoffextraktion</td><td style="text-align: center;">0,10 mg/l</td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: left;">Benzol und Derivate</td><td style="text-align: center;">0,050 mg/l</td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: left;">Sulfid, leicht freisetzbar</td><td style="text-align: center;">0,40 mg/l</td><td style="text-align: center;"> </td></tr></tbody></table>
+
+An das Abwasser werden für den Ort des Anfalls keine zusätzlichen Anforderungen gestellt.
+
+Abweichend von Teil B Absatz 2 kann bei Anlagen zur Ableitung von behandlungsbedürftigem Abwasser, die vor dem 1. März 2024 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, mit Zustimmung der zuständigen Behörde nicht behandlungsbedürftiges Abwasser zusammen mit behandlungsbedürftigem Abwasser abgeleitet werden.
+
+Abfallrechtliche Anforderungen werden nicht gestellt.
+
+(1) Betreiber haben nachstehende Parameter im Abwasser an der Einleitungsstelle in das Gewässer in der durchflussproportionalen 24-Stunden-Mischprobe wie folgt zu messen:
+
+| Parameter                                                                | Mindesthäufigkeit |
+|:-------------------------------------------------------------------------|:-----------------:|
+| TOC                                                                      |      Täglich      |
+| Abfiltrierbare Stoffe                                                    |      Täglich      |
+| N<sub>ges</sub> oder TNb                                                 |      Täglich      |
+| P<sub>ges</sub>                                                          |      Täglich      |
+| AOX                                                                      |     Monatlich     |
+| Chrom, gesamt, Kupfer, Nickel, Zink, Blei                                |     Monatlich     |
+| Andere Schwermetalle, sofern in der wasserrechtlichen Zulassung begrenzt |     Monatlich     |
+
+Bei Abwasserströmen mit nachgewiesenen geringen Schwankungen im Volumenstrom und in der Konzentration können die Messungen nach Maßgabe behördlicher Festlegung auch in der zeitproportional entnommenen Probe erfolgen. Wird mit vorliegenden Datenreihen eine deutliche Stabilität der Messergebnisse nachgewiesen, kann die Häufigkeit der Messungen nach näherer Maßgabe behördlicher Festlegung verringert werden.
+
+(2) Die Jahresmittelwerte für die Parameter nach Teil C Absatz 2 und 3 errechnen sich aus den Ergebnissen der Messungen nach Absatz 1.
+
+(3) Es ist ein Jahresbericht nach Anlage 2 Nummer 3 zu erstellen.
+
+(4) Die Messungen der Parameter nach Absatz 1 sind nach den Analyse- und Messverfahren nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 
 # Anhang 37 – Herstellung anorganischer Pigmente
 
-(Fundstelle: BGBl. I 2004, 1154 - 1155;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 66, S. 13 – 16)
 
-A  
-Anwendungsbereich
-
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung anorganischer Pigmente folgender Bereiche stammt:
+(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus folgenden Bereichen der Herstellung anorganischer Pigmente durch chemische oder physikalische Verfahren, einschließlich der zugehörigen Vor-, Zwischen- und Nachbehandlung stammt:
 
 1. Blei- und Zinkpigmente,
 
-2. Cadmiumpigmente,
+2. Lithopone, Zinksulfidpigmente und gefälltes Bariumsulfat,
 
-3. Lithopone, Zinksulfidpigmente und gefälltes Bariumsulfat,
+3. Silikatische Füllstoffe,
 
-4. Silikatische Füllstoffe,
+4. Eisenoxidpigmente,
 
-5. Eisenoxidpigmente,
+5. Chromoxidpigmente,
 
-6. Chromoxidpigmente,
+6. Mischphasenpigmente, Pigment- und Farbkörpermischungen und Fritten sowie
 
-7. Mischphasenpigmente, Pigment- und Farbkörpermischungen und Fritten.
+7. Titandioxid,
 
-(2) Dieser Anhang gilt nicht für Abwasser aus der Herstellung von hochdispersen Oxiden und Tonträgerpigmenten sowie aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
+7.1. Chloridverfahren,
 
-B  
-Allgemeine Anforderungen
+7.2. Sulfatverfahren,
 
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
+7.2.1. Stufenkeimverfahren,
 
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
+7.2.2. Kombikeimverfahren.
 
-(1) An das Abwasser aus einem der in Teil A Abs. 1 genannten Bereiche werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
+Er gilt ferner für betriebsspezifisch verunreinigtes Niederschlagswasser, das in dem genannten Bereich anfällt.
 
-Bereiche
+(2) Dieser Anhang gilt nicht für Abwasser aus:
+
+1. der Herstellung von Stoffen und Zubereitungen durch Mischen, Lösen oder Abfüllen (Formulieren),
+
+2. der Herstellung von hochdispersen Oxiden,
+
+3. der Herstellung von Tonträgerpigmenten,
+
+4. der Herstellung von Titandioxid-Mikrorutilen,
+
+5. indirekten Kühlsystemen und
+
+6. der Betriebswasseraufbereitung.
+
+(3) Die in Teil C Absatz 1, 3 und 4 sowie in Teil D Absatz 1 genannten Anforderungen sind Emissionsgrenzwerte im Sinne von § 1 Absatz 2 Satz 1.
+
+(1) Abwasseranfall und Schadstofffracht sind so gering zu halten, wie dies durch folgende Maßnahmen möglich ist:
+
+1. die Mehrfachnutzung und Kreislaufführung,
+
+2. den Einsatz abwasserfreier Verfahren zur Vakuumerzeugung und bei der Abluftreinigung,
+
+3. die Rückhaltung oder Rückgewinnung von Stoffen durch Aufbereitung von Mutterlaugen und durch optimierte Verfahren,
+
+4. die Vorbehandlung von Abwasserteilströmen, die Schadstoffe enthalten, die bei der abschließenden Abwasserbehandlung nicht ausreichend behandelt werden können, insbesondere Schwermetalle.
+
+(2) Nicht behandlungsbedürftiges Abwasser ist getrennt von behandlungsbedürftigem Abwasser abzuleiten.
+
+(3) Es sind Rückhaltekapazitäten für Abwasser und Maßnahmen für eine ordnungsgemäße Wiederverwendung, Behandlung oder Entsorgung zurückgehaltenen Abwassers in einem dem Risiko angemessenem Umfang vorzuhalten, um bei außerplanmäßigen Betriebszuständen unkontrollierte Emissionen zu verhindern. Der Einleiter hat eine entsprechende Risikobewertung vorzunehmen.
+
+(4) Bei mehreren abwassererzeugenden Betrieben am Standort hat der Inhaber der wasserrechtlichen Zulassung mit den betrieblich Verantwortlichen der übrigen abwassererzeugenden Betriebe die Aufgaben, die Verantwortlichkeiten und das Zusammenwirken im Hinblick auf eine ordnungsgemäße Abwasserbeseitigung in geeigneter Form festzulegen.
+
+(5) Der Nachweis für die Einhaltung der allgemeinen Anforderungen ist in einem betrieblichen Abwasserkataster zu erbringen. Das Abwasserkataster hat, über die Angaben gemäß Anlage 2 Nummer 1 hinaus, folgende Informationen zu enthalten:
+
+1. Angaben zu abwassererzeugenden Synthesen, Verfahren und Anlagen, einschließlich einer Darstellung der chemischen Hauptreaktionen in Form von Umsetzungsgleichungen sowie der wichtigsten Nebenreaktionen,
+
+2. Daten über die biologische Eliminierbarkeit der organischen Schadstofffracht der Abwasserströme.
+
+(6) Abwasserbehandlungsanlagen nach § 60 Absatz 3 Satz 1 Nummer 2 des Wasserhaushaltsgesetzes sowie zugehörige Kanalisationen und Anlagen zur Entwässerung von Klärschlamm im Zusammenhang mit der Abwasserbeseitigung sind so zu errichten und zu betreiben, dass Geruchs- und Lärmemissionen vermieden werden.
+
+(7) Das Abwasser aus der Herstellung von Titandioxid darf nur eingeleitet werden, wenn
+
+1. eine gezielte Schadstoffminderung für die Stoffe Eisen, Titan und Vanadium durchgeführt worden ist und
+
+2. das Abwasser keine Abfälle im Sinne von Artikel 67 der Richtlinie 2010/75/EU enthält.
+
+(1) Für das Abwasser aus einem der in Teil A Absatz 1 genannten Bereiche gelten für die Einleitungsstelle in das Gewässer die folgenden Anforderungen:
+
+Bereich
 
  
 
@@ -4051,115 +4213,137 @@ Bereiche
 
 7
 
+Parameter
+
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
-Chemischer Sauerstoffbedarf (CSB)
+TOC
+
+mg/l
+
+33
+
+33
+
+33
+
+33
+
+25
+
+33
+
+33
+
+CSB
 
 mg/l
 
 100
 
-150
+100
 
 100
 
-\-
-
-\-
+100
 
 70
 
 100
 
-kg/t
+100
 
-\-
-
-\-
-
-\-
-
-0,6
-
-4
-
-\-
-
-\-
-
-Ammoniumstickstoff (NH<sub>4</sub>-N)
+NH<sub>4</sub>-N
 
 mg/l
 
-\-
+–
 
-\-
+–
 
-\-
-
-\-
+–
 
 10
 
-\-
+–
 
-\-
+–
+
+–
+
+Chlorid
+
+kg/t
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+<span id="FnR.FnA1-F829229_17"></span><a href="#FnA1-F829229_17" class="FnR">1</a></sup> ,</sup><span id="FnR.FnA1-F829229_18"></span><a href="#FnA1-F829229_18" class="FnR">2</a></sup>
 
 Sulfat
 
 kg/t
 
-\-
+–
 
-\-
-
-\-
+–
 
 600
 
-1 600
+1600<span id="FnR.FnA1-F829229_19"></span><a href="#FnA1-F829229_19" class="FnR">3</a></sup>
 
-1 200
+1200
 
-\-
+–
+
+500<span id="FnR.FnA1-F829229_20"></span><a href="#FnA1-F829229_20" class="FnR">4</a></sup>
 
 Sulfit
 
 mg/l
 
-\-
-
-\-
+–
 
 20
 
-\-
+–
 
-\-
+–
 
 20
 
-\-
+–
+
+–
 
 Eisen
 
 kg/t
 
-\-
+–
 
-\-
+–
 
-\-
+–
 
-\-
+0,50<span id="FnR.FnA1-F829229_21"></span><a href="#FnA1-F829229_21" class="FnR">5</a></sup>
 
-0,5
+–
 
-\-
+–
 
-\-
+–
 
-Giftigkeit gegenüber Fischeiern (G<sub>Ei</sub>)
+G<sub>Ei</sub>
 
  
 
@@ -4177,15 +4361,51 @@ Giftigkeit gegenüber Fischeiern (G<sub>Ei</sub>)
 
 2
 
-  
-(2) Die Schadstofffracht wird aus den Konzentrationswerten der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe und aus dem mit der Probenahme korrespondierenden Abwasservolumenstrom bestimmt. (3) Bei der Eisenoxidpigmentherstellung (Bereich 5) gilt die Anforderung für Sulfat nur für die Herstellung nach dem Fäll- und dem Penniman-Verfahren. Für die Herstellung nach dem Anilinverfahren gilt für Sulfat ein Wert von 40 kg/t. Die Anforderung für Eisen gilt für Eisenoxidpigmente und technische Eisenoxide. Für transparente und hochreine Eisenoxidpigmente gilt für Eisen ein Wert von 1 kg/t.
+<span id="FnA1-F829229_17"></span><a href="#FnR.FnA1-F829229_17" class="Footnote">1</a>  
+Für die Herstellung von Titandioxid nach dem Sulfatverfahren gelten bei Verwendung von Schlacke folgende Anforderungen:
 
-D  
-Anforderungen an das Abwasser vor Vermischung
+1. Für die Herstellung nach dem Stufenkeimverfahren: 70 kg/t.
 
-(1) An das Abwasser aus einem der in Teil A Abs. 1 genannten Bereiche werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:  
+2. Für die Herstellung nach dem Kombikeimverfahren: 165 kg/t
 
-Bereiche
+<span id="FnA1-F829229_18"></span><a href="#FnR.FnA1-F829229_18" class="Footnote">2</a>  
+Für die Herstellung von Titandioxid nach dem Chloridverfahren nach Anhang VIII Teil 1 Nummer 2 Buchstabe c der Richtlinie 2010/75/EU gelten folgende Anforderungen:
+
+1. Bei der Verwendung von natürlichem Rutil: 130 kg/t,
+
+2. bei der Verwendung von synthetischem Rutil: 228 kg/t,
+
+3. bei der Verwendung von Schlacke: 330 kg/t.
+
+4. Für Einleitungen in Küstengewässer nach § 3 Nummer 2 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585) und für Übergangsgewässer nach § 2 Nummer 2 der Oberflächengewässerverordnung vom 20. Juni 2016 (BGBl. I S. 1373) kann bei Verwendung von Schlacke ein Emissionswert von 450 kg/t festgelegt werden.
+
+5. Wird mehr als ein Einsatzstoff verwendet, gelten die Emissionswerte für Chlorid proportional zu der Menge der verwendeten Einsatzstoffe.
+
+<span id="FnA1-F829229_19"></span><a href="#FnR.FnA1-F829229_19" class="Footnote">3</a>  
+Die Anforderung gilt für die Herstellung von Eisenoxidpigmenten nach dem Fäll- und dem Penniman-Verfahren. Für die Herstellung nach dem Anilinverfahren gilt ein Wert von 40 kg/t.
+
+<span id="FnA1-F829229_20"></span><a href="#FnR.FnA1-F829229_20" class="Footnote">4</a>  
+Die Anforderung gilt nur für die Herstellung von Titandioxid nach dem Sulfatverfahren.
+
+<span id="FnA1-F829229_21"></span><a href="#FnR.FnA1-F829229_21" class="Footnote">5</a>  
+Die Anforderung gilt für Eisenoxidpigmente und technische Eisenoxide. Für transparente und hochreine Eisenoxidpigmente gilt ein Wert von 1 kg/t.
+
+(2) Die produktionsspezifischen Frachtwerte (kg/t) nach Absatz 1 ergeben sich aus dem Verhältnis der Schadstofffracht zur Produktionskapazität, die der wasserrechtlichen Zulassung zugrunde liegt. Die Schadstofffracht ergibt sich aus einer Multiplikation des Konzentrationswerts der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe mit dem Volumen des Abwasserstroms, der mit der Probenahme korrespondiert.
+
+(3) Für den Parameter „abfiltrierbare Stoffe“ ist bei Überschreiten der Fracht von 3,5 Tonnen/a eine Konzentration von 35 mg/l im Jahresmittel einzuhalten. Diese Anforderung gilt nicht für die Herstellung von Titandioxid (Bereich 7).
+
+(4) Für die folgenden Schwermetalle sind bei Überschreiten der nachfolgend genannten eingeleiteten Jahresfrachten folgende Konzentrationen als Jahresmittelwerte einzuhalten:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 39%" /><col style="width: 30%" /><col style="width: 30%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Jahresfracht</th><th style="text-align: center;">Konzentration<br />
+(Jahresmittelwert)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Chrom, gesamt</td><td style="text-align: center;">2,5 kg/a</td><td style="text-align: center;">0,025 mg/l</td></tr><tr class="even"><td style="text-align: left;">Kupfer</td><td style="text-align: center;">5,0 kg/a</td><td style="text-align: center;">0,050 mg/l</td></tr><tr class="odd"><td style="text-align: left;">Nickel</td><td style="text-align: center;">5,0 kg/a</td><td style="text-align: center;">0,050 mg/l</td></tr><tr class="even"><td style="text-align: left;">Zink</td><td style="text-align: center;">30 kg/a</td><td style="text-align: center;">0,30 mg/l</td></tr></tbody></table>
+
+Die Jahresmittelwerte gelten nicht für Abwasser, dessen Hauptschadstofffracht aus der Herstellung anorganischer Schwermetallverbindungen stammt, sowie für Abwasser, dessen Hauptschadstofffracht aus der Verarbeitung metallkontaminierter fester anorganischer Rohstoffe stammt.
+
+(5) Die Parameter nach den Absätzen 3 und 4 sind nach Teil H Absatz 1 zu messen. Die Ergebnisse der Messungen stehen Ergebnissen staatlicher Überwachung gleich. § 6 Absatz 1 findet keine Anwendung.
+
+(1) An das Abwasser aus einem der in Teil A Absatz 1 genannten Bereiche werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:
+
+Bereich
 
  
 
@@ -4193,13 +4413,17 @@ Bereiche
 
 2
 
-3
+4
 
 5
 
 6
 
-7
+7.1
+
+7.2
+
+Parameter
 
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
@@ -4207,192 +4431,298 @@ Anilin
 
 kg/t
 
-\-
+ 
 
-\-
+ 
 
-\-
+0,20<span id="FnR.FnA2-F829229_22"></span><a href="#FnA2-F829229_22" class="FnR">1</a></sup>
 
-0,2
+ 
 
-\-
+ 
 
-\-
+ 
+
+ 
 
 Barium
 
 mg/l
 
-\-
+ 
 
-\-
+2,0
 
-2
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
+
+ 
 
 Blei
 
 kg/t
 
-0,04
+0,040
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+0,0050
+
+0,030
 
 Cadmium
 
 mg/l
 
-\-
+ 
 
-\-
+0,010
 
-0,01
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-kg/t
+ 
 
-\-
+g/t
 
-0,15
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
+
+0,20
+
+2,0
 
 Chrom, gesamt
 
 mg/l
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+0,50
 
-0,5
+ 
+
+0,50<span id="FnR.FnA2-F829229_23"></span><a href="#FnA2-F829229_23" class="FnR">2</a></sup>
 
 kg/t
 
-0,03
+0,030
 
-\-
+ 
 
-\-
+ 
 
-\-
+0,020
 
-0,02
+ 
 
-\-
+0,010
+
+0,050<a href="#FnA2-F829229_23" class="FnR">2</a></sup>
 
 Cobalt
 
 mg/l
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+1,0
 
-1
+ 
+
+ 
 
 Kupfer
 
 mg/l
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+0,50
 
-0,5
+ 
+
+ 
+
+kg/t
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0,010
+
+0,020
 
 Nickel
 
 mg/l
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+0,50
 
-0,5
+ 
+
+ 
+
+kg/t
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0,0050
+
+0,015
+
+Quecksilber
+
+g/t
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0,10
+
+1,5
 
 Sulfid, leicht freisetzbar
 
 mg/l
 
-\-
+ 
 
-\-
+1,0
 
-1
+ 
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
+
+ 
 
 Zink
 
 mg/l
 
-2
+2,0
 
-2
+2,0
 
-2
+ 
 
-\-
+ 
 
-\-
+0,50
 
-0,5
+ 
 
-  
-(2) Bei der Eisenoxidpigmentherstellung (Bereich 5) gilt die Anforderung des Absatzes 1 für Anilin nur für die Herstellung nach dem Anilinverfahren. (3) Die produktionsspezifischen Frachtwerte (kg/t) bei der Herstellung von Cadmiumpigmenten beziehen sich auf die eingesetzte Cadmiummenge. (4) Die Schadstofffracht wird aus den Konzentrationswerten der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe und aus dem mit der Probenahme korrespondierenden Abwasservolumenstrom bestimmt.
+ 
+
+<span id="FnA2-F829229_22"></span><a href="#FnR.FnA2-F829229_22" class="Footnote">1</a>  
+Die Anforderung gilt nur für die Herstellung nach dem Anilinverfahren.
+
+<span id="FnA2-F829229_23"></span><a href="#FnR.FnA2-F829229_23" class="Footnote">2</a>  
+Es gilt entweder die Anforderung an die Konzentration oder an die produktionsspezifische Fracht.
+
+(2) Die produktionsspezifischen Frachtwerte (kg/t und g/t) nach Absatz 1 ergeben sich aus dem Verhältnis der Schadstofffracht zur Produktionskapazität, die der wasserrechtlichen Zulassung zugrunde liegt. Die Schadstofffracht ergibt sich aus einer Multiplikation des Konzentrationswerts der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe mit dem Volumen des Abwasserstroms, der mit der Probenahme korrespondiert.
+
+An das Abwasser werden für den Ort des Anfalls keine zusätzlichen Anforderungen gestellt.
+
+Abweichend von Teil B Absatz 2 kann bei vorhandenen Anlagen zur Ableitung von behandlungsbedürftigem Abwasser, die vor dem 1. März 2024 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, mit Zustimmung der zuständigen Behörde nicht behandlungsbedürftiges Abwasser zusammen mit behandlungsbedürftigem Abwasser abgeleitet werden.
+
+Abfallrechtliche Anforderungen werden nicht gestellt.
+
+(1) Betreiber haben nachstehende Parameter im Abwasser an der Einleitungsstelle in das Gewässer in der durchflussproportionalen 24-Stunden-Mischprobe wie folgt zu messen:
+
+| Parameter                                                                |                                          Mindesthäufigkeit                                           |
+|:-------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------:|
+| TOC                                                                      |                                               Täglich                                                |
+| Abfiltrierbare Stoffe                                                    |                                               Täglich                                                |
+| Chrom, gesamt, Kupfer, Nickel, Zink, Blei                                |                                              Monatlich                                               |
+| Andere Schwermetalle, sofern in der wasserrechtlichen Zulassung begrenzt |                                              Monatlich                                               |
+| N<sub>ges</sub> oder TN<sub>b</sub>                                      | Täglich<span id="FnR.FnA3-F829229_24"></span><a href="#FnA3-F829229_24" class="FnR">1</a></sup> |
+
+<span id="FnA3-F829229_24"></span><a href="#FnR.FnA3-F829229_24" class="Footnote">1</a>  
+Der Parameter ist nur für die Herstellung von Eisenoxidpigmenten (Bereich 4) zu messen.
+
+Bei Abwasserströmen mit nachgewiesenen geringen Schwankungen im Volumenstrom und in der Konzentration können die Messungen nach Maßgabe behördlicher Festlegung auch in der zeitproportional entnommenen Probe erfolgen. Wird mit vorliegenden Datenreihen eine deutliche Stabilität der Messergebnisse nachgewiesen, kann die Häufigkeit der Messungen nach näherer Maßgabe behördlicher Festlegung verringert werden.
+
+(2) Die Jahresmittelwerte für die Parameter nach Teil C Absatz 3 und 4 errechnen sich aus den Ergebnissen der Messungen nach Absatz 1.
+
+(3) Es ist ein Jahresbericht nach Anlage 2 Nummer 3 zu erstellen.
+
+(4) Die Messungen der Parameter nach Absatz 1 sind nach den Analyse- und Messverfahren nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 
 # Anhang 38 – Textilherstellung, Textilveredlung
 
@@ -6861,26 +7191,27 @@ Für vorhandene Einleitungen von Abwasser sind die unter Teil A Absatz 3 genannt
 
 # Anhang 42 – Alkalichloridelektrolyse
 
-(Fundstelle: BGBl. I 2004, 1164 - 1165;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 66, S. 16 – 18)
 
-A  
-Anwendungsbereich
+(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus Alkalichloridelektrolysen stammt.
 
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus Alkalichloridelektrolysen stammt. (2) Dieser Anhang gilt nicht für Abwasser aus Kühlsystemen und aus der Betriebswasseraufbereitung sowie aus Schmelzflusselektrolysen von Natriumchlorid und aus Alkalichloridelektrolysen zur Herstellung von Alkoholaten und Dithioniten. (3) Die in den Teilen C, E und F Abschnitt I Absatz 1 und 3 sowie in Teil F Abschnitt II Absatz 1 und 2 genannten Anforderungen sind Emissionsgrenzwerte im Sinne von § 1 Absatz 2 Satz 1 der Abwasserverordnung.
+(2) Dieser Anhang gilt nicht für Abwasser aus Kühlsystemen und aus der Betriebswasseraufbereitung sowie aus Schmelzflusselektrolysen von Natriumchlorid und aus Alkalichloridelektrolysen zur Herstellung von Alkoholaten und Dithioniten.
 
-B  
-Allgemeine Anforderungen
+(3) Die in den Teilen C, E und F genannten Anforderungen sind Emissionsgrenzwerte im Sinne von § 1 Absatz 2 Satz 1.
 
-(1) Abwasser aus der Betriebseinheit Alkalichloridelektrolyse ist so weit, wie es aus technischen Gründen möglich ist, in den Produktionsprozess zurückzuführen. (2) Quecksilber und Asbest dürfen im Abwasser nicht enthalten sein. Diese Anforderungen gelten als eingehalten, wenn in der Betriebseinheit Alkalichloridelektrolyse Quecksilber und Asbest nicht im Produktionsverfahren eingesetzt werden. (3) Der Anfall von Abwasser und die Emissionen von Chlorid sind so gering wie möglich zu halten. Dies soll insbesondere durch folgende Maßnahmen erfolgen:
+(1) Abwasser aus der Betriebseinheit Alkalichloridelektrolyse ist so weit, wie es aus technischen Gründen möglich ist, in den Produktionsprozess zurückzuführen.
 
-1. Recycling von Prozessströmen aus der Alkalichloridanlage,
+(2) Quecksilber und Asbest dürfen im Abwasser nicht enthalten sein. Diese Anforderungen gelten als eingehalten, wenn in der Betriebseinheit Alkalichloridelektrolyse Quecksilber und Asbest nicht im Produktionsverfahren eingesetzt werden.
+
+(3) Der Anfall von Abwasser und die Emissionen von Chlorid sind so gering wie möglich zu halten. Dies soll insbesondere durch folgende Maßnahmen erfolgen:
+
+1. Recycling von Prozessströmen aus der Betriebseinheit Alkalichloridelektrolyse,
 
 2. Konzentration von Solefiltrationsschlamm,
 
 3. Recycling salzhaltigen Abwassers aus anderen Produktionsprozessen,
 
-4. Nutzung von Abwasser für die Solung.
+4. Nutzung von Abwasser zur Solung.
 
 Bei Anwendung des Membranverfahrens sollen zusätzlich folgende Maßnahmen ergriffen werden:
 
@@ -6888,7 +7219,7 @@ Bei Anwendung des Membranverfahrens sollen zusätzlich folgende Maßnahmen ergri
 
 2. Aufreinigung der Sole vor Rückführung in die Elektrolyse durch Nanofiltration oder durch ein gleichwertiges Verfahren.
 
-(4) Die Emissionen von Chlorat sind so gering wie möglich zu halten. Dies soll insbesondere durch folgende Maßnahmen erfolgen:
+(4) Die Emissionen von Chlorat sind so gering wie möglich zu halten. Dies soll insbesondere durch folgende Maßnahmen erfolgen:
 
 1. Verwendung hochreiner Sole,
 
@@ -6906,135 +7237,52 @@ Bei Anwendung des Membranverfahrens sollen zusätzlich folgende Maßnahmen ergri
 
 2. Einsatz von Hochleistungselektroden mit entsprechenden Beschichtungen.
 
-<!-- -->
+(5) Es sind Rückhaltekapazitäten für Abwasser und Maßnahmen für eine ordnungsgemäße Wiederverwendung, Behandlung oder Entsorgung zurückgehaltenen Abwassers in einem dem Risiko angemessenem Umfang vorzuhalten, um bei außerplanmäßigen Betriebszuständen unkontrollierte Emissionen zu verhindern. Der Einleiter hat eine entsprechende Risikobewertung vorzunehmen.
 
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
+(6) Der Nachweis für die Einhaltung der allgemeinen Anforderungen ist in einem betrieblichen Abwasserkataster zu erbringen. Das Abwasserkataster hat, über die Angaben nach Anlage 2 Nummer 1 hinaus, Angaben zu abwassererzeugenden Synthesen, Verfahren und Anlagen, einschließlich einer Darstellung der chemischen Hauptreaktionen in Form von Umsetzungsgleichungen sowie der wichtigsten Nebenreaktionen zu enthalten.
 
-  
+(7) Nicht behandlungsbedürftiges Abwasser ist getrennt von behandlungsbedürftigem Abwasser abzuleiten.
 
-An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:
+(1) Für das Abwasser gelten für die Einleitungsstelle in das Gewässer die folgenden Anforderungen:
 
- 
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
+2-Stunden-Mischprobe</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">CSB</td><td style="text-align: center;">50 mg/l</td></tr><tr class="even"><td style="text-align: left;">TOC</td><td style="text-align: center;">20 mg/l</td></tr><tr class="odd"><td style="text-align: left;">Abfiltrierbare Stoffe</td><td style="text-align: center;">35 mg/l</td></tr><tr class="even"><td style="text-align: left;">Giftigkeit gegenüber Fischeiern G<sub>Ei</sub></td><td style="text-align: center;">2</td></tr></tbody></table>
 
-Qualifizierte Stichprobe oder  
-2-Stunden-Mischprobe
+An das Abwasser werden vor der Vermischung mit anderem Abwasser keine Anforderungen gestellt.
 
-Chemischer Sauerstoffbedarf (CSB)
+(1) Das Abwasser darf in der Stichprobe nicht mehr als 2,5 mg/l adsorbierbare organisch gebundenen Halogene (AOX) und 0,20 mg/l freies Chlor enthalten.
 
-mg/l
+(2) Die in Teil B Absatz 2 genannte Anforderung ist für den Ort des Anfalls einzuhalten.
 
-50
+(1) Abweichend von Teil D ist bei Einleitungen aus Anlagen, die vor dem 1. März 2024 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, im Abwasser aus der Betriebseinheit Alkalichloridelektrolyse nach dem Diaphragmaverfahren vor der Vermischung mit anderem Abwasser für den Parameter AOX die Konzentration 3,0 mg/l in der Stichprobe einzuhalten.
 
-Giftigkeit gegenüber Fischeiern (G<sub>Ei</sub>)
-
- 
-
-2
-
-  
-
-D  
-Anforderungen an das Abwasser vor Vermischung
-
-An das Abwasser werden vor der Vermischung mit anderem Abwasser keine Anforderungen gestellt. 
-E  
-Anforderungen an das Abwasser für den Ort des Anfalls
-
-(1) Das Abwasser darf in der Stichprobe nicht mehr als 2,5 mg/l adsorbierbare organisch gebundene Halogene (AOX) und 0,20 mg/l freies Chlor enthalten. (2) Die in Teil B Absatz 2 genannte Anforderung ist für den Ort des Anfalls einzuhalten. 
-F  
-Anforderungen für vorhandene Einleitungen
-
-Für vorhandene Einleitungen von Abwasser sind die unter Teil B Absatz 2 genannten Anforderungen spätestens bis zum 11. Dezember 2017 einzuhalten.
-
-I. Vorhandene Einleitungen aus Anlagen nach dem Amalgamverfahren
-
-(1) Zusätzlich zu Teil C werden an das Abwasser aus Anlagen nach dem Amalgamverfahren für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:
-
- 
-
-Qualifizierte Stichprobe  
-oder 2-Stunden-Mischprobe
-
-Quecksilber
-
-mg/l
-
-  0,050
-
-g/t
-
-0,30
-
-Sulfid, leicht freisetzbar
-
-mg/l
-
-1,0
-
-  
-(2) Ab dem Datum der Stilllegung der Anlage gilt die Anforderung an die Quecksilberkonzentration nach Absatz 1 für weitere zwei Jahre. (3) Abweichend von Teil D werden an das Abwasser aus der Betriebseinheit Alkalichloridelektrolyse nach dem Amalgamverfahren vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 40%" /><col style="width: 20%" /><col style="width: 40%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Quecksilber</td><td style="text-align: center;">0,040 g/t</td><td style="text-align: center;">Qualifizierte Stichprobe<br />
-oder 2-Stunden-Mischprobe</td></tr><tr class="even"><td style="text-align: left;">Adsorbierbare organisch gebundene Halogene (AOX)</td><td style="text-align: center;">3,5 mg/l</td><td style="text-align: center;">Stichprobe</td></tr></tbody></table>
-
-  
-(4) Die Anforderungen für Quecksilber als produktionsspezifische Frachtwerte beziehen sich auf die Chlorproduktionskapazität in 24 Stunden. (5) Teil E findet keine Anwendung. 
-II. Vorhandene Einleitungen aus Anlagen nach dem Diaphragmaverfahren
-
-(1) Abweichend von Teil C werden an das Abwasser aus Anlagen nach dem Diaphragmaverfahren für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:
-
- 
-
-Qualifizierte Stichprobe oder  
-2-Stunden-Mischprobe
-
-Chemischer Sauerstoffbedarf (CSB)
-
-mg/l
-
-130
-
-Giftigkeit gegenüber Fischeiern (G<sub>Ei</sub>)
-
- 
-
-2
-
-  
-(2) Abweichend von Teil D werden an das Abwasser aus der Betriebseinheit Alkalichloridelektrolyse nach dem Diaphragmaverfahren vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:
-
-|                                                  |          |            |
-|:-------------------------------------------------|:--------:|:----------:|
-| Adsorbierbare organisch gebundene Halogene (AOX) | 3,0 mg/l | Stichprobe |
-
-(3) Teil E findet keine Anwendung. 
-G  
-Abfallrechtliche Anforderungen
+(2) Abweichend von Teil B Absatz 7 kann bei vorhandenen Anlagen zur Ableitung von behandlungsbedürftigem Abwasser, die vor dem 1. März 2024 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, mit Zustimmung der zuständigen Behörde nicht behandlungsbedürftiges Abwasser zusammen mit behandlungsbedürftigem Abwasser abgeleitet werden.
 
 Abfallrechtliche Anforderungen werden nicht gestellt.
 
-H  
-Betreiberpflichten
+(1) Betreiber haben nachstehende Parameter im Abwasser an der Einleitungsstelle in das Gewässer in der durchflussproportionalen 24-Stunden-Mischprobe wie folgt zu messen:
 
-(1) Am Ort des Anfalls sind mindestens folgende Messungen im Abwasser vorzunehmen:
+| Parameter                                                         | Mindesthäufigkeit |
+|:------------------------------------------------------------------|:-----------------:|
+| TOC                                                               |    Wöchentlich    |
+| Abfiltrierbare Stoffe                                             |      Täglich      |
+| AOX                                                               |     Monatlich     |
+| Schwermetalle, sofern in der wasserrechtlichen Zulassung begrenzt |     Monatlich     |
 
-1. monatliche Messung von adsorbierbaren organisch gebundenen Halogenen (AOX), Chlorat und Chlorid in der Stichprobe,
+Bei Abwasserströmen mit nachgewiesenen geringen Schwankungen im Volumenstrom und in der Konzentration können die Messungen nach Maßgabe behördlicher Festlegung auch in der zeitproportional entnommenen Probe erfolgen. Wird mit vorliegenden Datenreihen eine deutliche Stabilität der Messergebnisse nachgewiesen, kann die Häufigkeit der Messungen nach näherer Maßgabe behördlicher Festlegung verringert werden.
 
-2. monatliche Messung von freiem Chlor in der Stichprobe,
+(2) Am Ort des Anfalls sind mindestens folgende Messungen im Abwasser vorzunehmen:
 
-3. jährliche Messung von Sulfat, Nickel und Kupfer in der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe,
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 39%" /><col style="width: 30%" /><col style="width: 30%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Probenahme</th><th style="text-align: center;">Mindesthäufigkeit</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">AOX, Chlorat, Chlorid und freies Chlor</td><td style="text-align: center;">Stichprobe</td><td style="text-align: center;">Monatlich</td></tr><tr class="even"><td style="text-align: left;">Kupfer, Nickel, Sulfat</td><td style="text-align: center;">Qualifizierte Stichprobe oder<br />
+2-Stunden-Mischprobe</td><td style="text-align: center;">Jährlich</td></tr><tr class="odd"><td style="text-align: left;">Freies Chlor (Redoxpotential)</td><td style="text-align: center;">Kontinuierlich</td><td style="text-align: center;">Kontinuierlich</td></tr></tbody></table>
 
-4. kontinuierliche Messung von freiem Chlor (Redoxpotential).
+(3) Es ist ein Jahresbericht nach Anlage 2 Nummer 3 zu erstellen.
 
-(2) Sofern Einleitungen aus Anlagen nach dem Amalgamverfahren vorhanden sind, ist die Konzentration an Quecksilber im Auslass dieser Behandlungsanlage täglich zu bestimmen. (3) Es ist ein Jahresbericht nach Anlage 2 Nummer 3 zu erstellen. (4) Die Messung der Parameter nach den Absätzen 1 und 2 ist nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 1 bis 3 unberührt. 
+(4) Die Messungen der Parameter nach den Absätzen 1 und 2 sind nach den Analyse- und Messverfahren nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
+
 # Anhang 43 – Herstellung von Chemiefasern, Folien und Schwammtuch nach dem Viskoseverfahren sowie von Celluloseacetatfasern
 
-(Fundstelle: BGBl. I 2004, 1165 - 1166;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-A  
-Anwendungsbereich
+(Fundstelle: BGBl. 2024 I Nr. 66, S. 18 – 22)
 
 (1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus einem oder mehreren der folgenden Herstellungsbereiche einschließlich der zugehörigen Vorstufen stammt:
 
@@ -7046,37 +7294,51 @@ Anwendungsbereich
 
 4. Celluloseacetatfaser.
 
+Er gilt ferner für betriebsspezifisch verunreinigtes Niederschlagswasser, das in dem genannten Bereich anfällt.
+
 (2) Dieser Anhang gilt nicht für Abwasser aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
 
-B  
-Allgemeine Anforderungen
+(3) Die in Teil C Absatz 1, 3 und 4 und Teil D Absatz 1 genannten Anforderungen sind Emissionsgrenzwerte im Sinne von § 1 Absatz 2 Satz 1 der Abwasserverordnung.
 
-(1) Die Schadstofffracht ist so gering zu halten, wie dies nach Prüfung der Verhältnisse im Einzelfall durch folgende Maßnahmen möglich ist:
+(1) Abwasseranfall und Schadstofffracht sind so gering zu halten, wie dies durch folgende Maßnahmen möglich ist:
 
-1. Einsatz Wasser sparender Verfahren bei Wasch- und Reinigungsvorgängen (z.B. Spulenwäsche, Kabelwäsche, Filtertuchwäsche) wie Gegenstromwäsche und Kreislaufführung,
+1. Einsatz Wasser sparender Verfahren bei Wasch- und Reinigungsvorgängen (z. B. Spulenwäsche, Kabelwäsche, Filtertuchwäsche) wie Mehrfachnutzung, Gegenstromwäsche und Kreislaufführung,
 
-2. Kondensation von Brüden (z.B. bei der Spinnbadaufbereitung) durch Indirektkühlung oder über Kühlturmkreislauf,
+2. Kondensation von Brüden (z. B. bei der Spinnbadaufbereitung) durch Indirektkühlung oder über Kühlturmkreislauf,
 
-3. Einsatz abwasserfreier Verfahren zur Vakuumerzeugung,
+3. Einsatz abwasserfreier Verfahren zur Vakuumerzeugung und bei der Abluftreinigung,
 
-4. Verminderung von Spinnbadverlusten (z.B. bei der Rinnenspülung),
+4. Verminderung von Spinnbadverlusten (z. B. bei der Rinnenspülung),
 
 5. Wiederaufbereitung und Rückführung von überschüssiger Lauge,
 
 6. Rückgewinnung und Wiedereinsatz von Essigsäure und Aceton bei der Herstellung von Celluloseacetatfasern,
 
-7. Einsatz von Zellstoff, der keinen höheren Gehalt an organisch gebundenen Halogenen, gemessen als AOX (gemäß DIN 38414, Teil 18 (Ausgabe November 1989)) von 150 g/t Zellstoff enthält,
+7. Einsatz von Zellstoff, der keinen höheren Gehalt an organisch gebundenen Halogenen, gemessen als AOX (gemäß DIN 38414, Teil 18 (Ausgabe Juli 2019)) von 150 g/t Zellstoff enthält,
 
-8. Einsatz von Bleichbädern, die Chlor oder chlorabspaltende Mittel nicht enthalten,
+8. Einsatz von Bleichbädern, die weder Chlor noch chlorabspaltende Mittel enthalten,
 
-9. Verwendung von Präparationen, die einen DOC-Eliminationsgrad nach 7 Tagen von 80 Prozent entsprechend dem Verfahren nach Anlage 1 Nummer 408 erreichen, oder Rückhaltung, Wiederverwertung, getrennte Entsorgung oder Behandlung von unverbrauchten Präparationen aus dem Auftragen auf Fasern oder Folien aus der Ansetzstation und aus den Zuleitungen.
+9. Verwendung von Präparationen, die einen DOC-Eliminationsgrad nach 7 Tagen von 80 Prozent entsprechend dem Verfahren nach Anlage 1 Nummer 408 erreichen, oder Rückhaltung, Wiederverwertung, getrennte Entsorgung oder Behandlung von unverbrauchten Präparationen aus dem Auftragen auf Fasern oder Folien, aus der Ansetzstation und aus den Zuleitungen,
 
-(2) Der Nachweis, dass die Anforderung an Bleichbäder eingehalten ist, kann dadurch erbracht werden, dass die eingesetzten Bleichbäder in einem Betriebstagebuch aufgeführt werden und deren Verwendung belegt wird sowie Herstellerangaben vorliegen, dass in den Bleichbädern Chlor oder chlor abspaltende Mittel nicht enthalten sind.
+10. Vorbehandlung von Abwasserteilströmen, die Schadstoffe enthalten, die bei der abschließenden Abwasserbehandlung nicht ausreichend behandelt werden können, insbesondere biologisch schlecht abbaubare oder nicht durch abschließende Abwasserbehandlung eliminierbare organische Verbindungen sowie flüchtige Schadstoffe wie Benzol und flüchtige halogenorganische Verbindungen.
 
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
+(2) Der Nachweis, dass die Anforderung an Bleichbäder eingehalten ist, kann dadurch erbracht werden, dass die eingesetzten Bleichbäder in einem Betriebstagebuch aufgeführt werden und deren Verwendung belegt wird sowie Herstellerangaben vorliegen, dass in den Bleichbädern weder Chlor noch chlorabspaltende Mittel enthalten sind.
 
-(1) An das Abwasser aus einem der in Teil A Abs. 1 genannten Bereiche werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
+(3) Nicht behandlungsbedürftiges Abwasser ist getrennt von behandlungsbedürftigem Abwasser abzuleiten.
+
+(4) Es sind Rückhaltekapazitäten für Abwasser und Maßnahmen für eine ordnungsgemäße Wiederverwendung, Behandlung oder Entsorgung zurückgehaltenen Abwassers in einem dem Risiko angemessenem Umfang vorzuhalten, um bei außerplanmäßigen Betriebszuständen unkontrollierte Emissionen zu verhindern. Der Betreiber hat eine entsprechende Risikobewertung vorzunehmen.
+
+(5) Bei mehreren abwassererzeugenden Betrieben am Standort hat der Inhaber der wasserrechtlichen Zulassung mit den betrieblich Verantwortlichen der übrigen abwassererzeugenden Betriebe die Aufgaben, die Verantwortlichkeiten und das Zusammenwirken im Hinblick auf eine ordnungsgemäße Abwasserbeseitigung in geeigneter Form festzulegen.
+
+(6) Der Nachweis für die Einhaltung der allgemeinen Anforderungen ist in einem betrieblichen Abwasserkataster zu erbringen. Das Abwasserkataster hat, über die Angaben gemäß Anlage 2 Nummer 1 hinaus, folgende Informationen zu enthalten:
+
+1. Angaben zu abwassererzeugenden Synthesen, Verfahren und Anlagen, einschließlich einer Darstellung der chemischen Hauptreaktionen in Form von Umsetzungsgleichungen sowie der wichtigsten Nebenreaktionen,
+
+2. Daten über die biologische Eliminierbarkeit der organischen Schadstofffracht der Abwasserströme.
+
+(7) Abwasserbehandlungsanlagen nach § 60 Absatz 3 Satz 1 Nummer 2 des Wasserhaushaltsgesetzes sowie zugehörige Kanalisationen und Anlagen zur Entwässerung von Klärschlamm im Zusammenhang mit der Abwasserbeseitigung sind so zu errichten und zu betreiben, dass Geruchs- und Lärmemissionen vermieden werden.
+
+(1) Für das Abwasser aus einem der in Teil A Absatz 1 genannten Bereiche gelten für die Einleitungsstelle in das Gewässer die folgenden Anforderungen:
 
 Bereiche
 
@@ -7090,9 +7352,23 @@ Bereiche
 
 4
 
+Parameter
+
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
-Chemischer Sauerstoffbedarf (CSB)
+TOC
+
+kg/t
+
+7,0
+
+7,0
+
+17
+
+0,70
+
+CSB
 
 kg/t
 
@@ -7102,21 +7378,9 @@ kg/t
 
 50
 
-2
+2,0
 
-Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)
-
-mg/l
-
-25
-
-25
-
-25
-
-25
-
-Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>)
+N<sub>ges</sub>
 
 mg/l
 
@@ -7128,49 +7392,82 @@ mg/l
 
 10
 
-Phosphor, gesamt
+P<sub>ges</sub>
 
 mg/l
 
-2
+2,0
 
-2
+2,0
 
-2
+2,0
 
-2
+2,0
 
 Sulfid, leicht freisetzbar
 
 mg/l
 
-0,3
+0,30
 
-0,3
+0,30
 
-0,3
+0,30
 
-\-
+–
 
-Giftigkeit gegenüber Fischeiern (G<sub>Ei</sub>)
+G<sub>Ei</sub>
 
-2
-
-2
+ 
 
 2
 
 2
 
-  
-(2) Die produktionsspezifischen Frachtwerte für den CSB (kg/t) beziehen sich auf die der wasserrechtlichen Zulassung zugrunde liegende Produktionskapazität der organischen Zielprodukte. Die Schadstofffracht wird aus den Konzentrationswerten der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe und aus dem mit der Probenahme korrespondierenden Abwasservolumenstrom bestimmt.
+2
 
-D  
-Anforderungen an das Abwasser vor Vermischung
+2
 
-(1) An das Abwasser aus einem der in Teil A Abs. 1 genannten Bereiche werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:  
+(2) Die produktionsspezifischen Frachtwerte für den Parameter CSB in kg/t beziehen sich auf die der wasserrechtlichen Zulassung zugrundeliegenden Produktionskapazität der organischen Zielprodukte. Die Schadstofffracht wird aus den Konzentrationswerten der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe und aus dem mit der Probennahme korrespondierenden Abwasservolumenstrom bestimmt.
 
-Herstellungsbereiche
+(3) Für die Parameter TOC, abfiltrierbare Stoffe, TN<sub>b</sub> und N<sub>ges</sub> sind bei Überschreiten der nachfolgend genannten eingeleiteten Jahresfrachten folgende Konzentrationswerte im Jahresmittel einzuhalten:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 39%" /><col style="width: 30%" /><col style="width: 30%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Jahresfracht</th><th style="text-align: center;">Konzentration<br />
+(Jahresmittelwert)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">TOC</td><td style="text-align: center;">3,3 Tonnen/a</td><td style="text-align: center;">33 mg/l<span id="FnR.FnA1-F829229_25"></span><a href="#FnA1-F829229_25" class="FnR">1</a></sup></td></tr><tr class="even"><td style="text-align: left;">Abfiltrierbare Stoffe</td><td style="text-align: center;">3,5 Tonnen/a</td><td style="text-align: center;">35 mg/l</td></tr><tr class="odd"><td style="text-align: left;">TN<sub>b</sub><span id="FnR.FnA1-F829229_26"></span><a href="#FnA1-F829229_26" class="FnR">2</a></sup></td><td style="text-align: center;">2,5 Tonnen/a</td><td style="text-align: center;">25 mg/l<span id="FnR.FnA1-F829229_27"></span><a href="#FnA1-F829229_27" class="FnR">3</a></sup> ,</sup><span id="FnR.FnA1-F829229_28"></span><a href="#FnA1-F829229_28" class="FnR">4</a></sup></td></tr><tr class="even"><td style="text-align: left;">N<sub>ges</sub><a href="#FnA1-F829229_26" class="FnR">2</a></sup></td><td style="text-align: center;">2,0 Tonnen/a</td><td style="text-align: center;">20 mg/l<a href="#FnA1-F829229_27" class="FnR">3</a></sup> ,<a href="#FnA1-F829229_28" class="FnR">4</a></sup></td></tr></tbody></table>
+
+<span id="FnA1-F829229_25"></span><a href="#FnR.FnA1-F829229_25" class="Footnote">1</a>  
+Der Jahresmittelwert für den TOC darf bis zu 100 mg/l betragen, wenn
+
+a) die Eliminationsrate im Jahresdurchschnitt bei der Vor- und Endbehandlung mindestens 90 Prozent beträgt und
+
+b) im Fall einer biologischen Behandlung mindestens eine der folgenden Voraussetzungen erfüllt ist:
+
+I. der BSB5-Wert im Ablauf beträgt höchstens 20 mg/l und die CSB-Schlammbelastung beträgt höchstens 0,25 kg CSB/kg organischer Trockensubstanz im Schlamm oder
+
+II. die Auslegung und der Betrieb der Behandlungsanlage sind auf eine gezielte Nitrifikation ausgerichtet.
+
+<span id="FnA1-F829229_26"></span><a href="#FnR.FnA1-F829229_26" class="Footnote">2</a>  
+Es gilt entweder der Jahresmittelwert für TN<sub>b</sub> oder für N<sub>ges</sub>.
+
+<span id="FnA1-F829229_27"></span><a href="#FnR.FnA1-F829229_27" class="Footnote">3</a>  
+Der Jahresmittelwert für TN<sub>b</sub> und N<sub>ges</sub> gilt nicht bei Abwasserbehandlungsanlagen ohne biologische Abwasserbehandlung sowie bei Abwasser aus den Herstellungsbereichen 1, 3 und 4.
+
+<span id="FnA1-F829229_28"></span><a href="#FnR.FnA1-F829229_28" class="Footnote">4</a>  
+Der Jahresmittelwert für TN<sub>b</sub> und N<sub>ges</sub> für Abwasser aus Herstellungsbereich 2 kann bei TN<sub>b</sub> bis zu 40 mg/l und bei N<sub>ges</sub> bis zu 35 mg/l betragen, wenn die Eliminationsrate bei der Vor- und Endbehandlung im Jahresdurchschnitt jeweils mindestens 70 Prozent beträgt.
+
+(4) Für die Parameter adsorbierbare organisch gebundene Halogene (AOX) und Schwermetalle sind bei Überschreiten der nachfolgend genannten eingeleiteten Jahresfrachten folgende Konzentrationswerte im Jahresmittel einzuhalten:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 39%" /><col style="width: 30%" /><col style="width: 30%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Jahresfracht</th><th style="text-align: center;">Konzentration<br />
+(Jahresmittelwert)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">AOX</td><td style="text-align: center;">100 kg/a</td><td style="text-align: center;">1,0 mg/l</td></tr><tr class="even"><td style="text-align: left;">Chrom, gesamt</td><td style="text-align: center;">2,5 kg/a</td><td style="text-align: center;">0,025 mg/l</td></tr><tr class="odd"><td style="text-align: left;">Kupfer</td><td style="text-align: center;">5,0 kg/a</td><td style="text-align: center;">0,050 mg/l</td></tr><tr class="even"><td style="text-align: left;">Nickel</td><td style="text-align: center;">5,0 kg/a</td><td style="text-align: center;">0,050 mg/l</td></tr><tr class="odd"><td style="text-align: left;">Zink</td><td style="text-align: center;">30 kg/a</td><td style="text-align: center;">0,30 mg/l<span id="FnR.FnA2-F829229_29"></span><a href="#FnA2-F829229_29" class="FnR">1</a></sup></td></tr></tbody></table>
+
+<span id="FnA2-F829229_29"></span><a href="#FnR.FnA2-F829229_29" class="Footnote">1</a>  
+Der Jahresmittelwert gilt nicht für Abwasser, dessen Hauptschadstofffracht aus der Herstellung von Viskosefasern stammt.
+
+(5) Die Parameter nach den Absätzen 3 und 4 sind nach Teil H Absatz 1 zu messen. Die Ergebnisse der Messungen stehen Ergebnissen staatlicher Überwachung gleich. § 6 Absatz 1 findet keine Anwendung.
+
+(1) An das Abwasser aus einem der in Teil A Absatz 1 genannten Bereiche werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:
+
+Bereiche
 
  
 
@@ -7182,33 +7479,35 @@ Herstellungsbereiche
 
 4
 
+Parameter
+
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
 Zink
 
 mg/l
 
-1
+1,0
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
 Kupfer
 
 g/t
 
-\-
+ 
 
-\-
+ 
 
-\-
+ 
 
-7
+7,0
 
-Adsorbierbare organisch gebundene Halogene (AOX)
+AOX
 
 g/t
 
@@ -7218,20 +7517,41 @@ g/t
 
 30
 
-8
+8,0
 
-  
-(2) Für AOX gelten die Werte für die Stichprobe. (3) Für Abwasser aus der Spulenwäsche, Kabelwäsche, Spinnerei und Spinnbadaufbereitung gilt für die Herstellung von Viskosefilamentgarn eine produktionsspezifische Fracht für Zink von 8 kg/t in der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe. (4) Die produktionsspezifischen Frachtwerte (g/t; kg/t) beziehen sich auf die der wasserrechtlichen Zulassung zugrunde liegende Produktionskapazität der organischen Zielprodukte. Die Schadstofffracht wird aus den Konzentrationswerten der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe, bei AOX aus der Stichprobe, und aus dem mit der Probenahme korrespondierenden Abwasservolumenstrom bestimmt.
+Für AOX gelten die Werte für die Stichprobe.
 
-E  
-Anforderungen an das Abwasser für den Ort des Anfalls
+(2) Für Abwasser aus der Spulenwäsche, Kabelwäsche, Spinnerei und Spinnbadaufbereitung gilt für die Herstellung von Viskosefilamentgarn eine produktionsspezifische Fracht für Zink von 8,0 kg/t.
 
-Das Abwasser aus Wasch- und Spülbädern darf nur organische Komplexbildner enthalten, die einen DOC-Abbaugrad nach 28 Tagen von 80 Prozent entsprechend dem Verfahren nach Anlage 1 Nummer 406 erreichen.
+(3) Die produktionsspezifischen Frachtwerte in g/t und kg/t beziehen sich auf die der wasserrechtlichen Zulassung zugrundeliegende Produktionskapazität der organischen Zielprodukte. Die Schadstofffracht wird aus den Konzentrationswerten der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe, bei AOX aus der Stichprobe, und aus dem mit der Probennahme korrespondierenden Abwasservolumenstrom bestimmt.
 
-F  
-Anforderungen für vorhandene Einleitungen
+Das Abwasser aus Wasch- und Spülbädern darf nur organische Komplexbildner enthalten, die einen DOC-Abbaugrad von 80 Prozent nach 28 Tagen entsprechend dem Verfahren nach Anlage 1 Nummer 406 erreichen.
 
-Für vorhandene Einleitungen von Abwasser aus der Spulenwäsche, Kabelwäsche, Spinnerei und Spinnbadaufbereitung für die Herstellung von Viskosefilamentgarn gilt abweichend von Teil D für das Herstellungsverfahren mit integrierter Fadenwäsche in der Spinnmaschine ein produktionsspezifischer Frachtwert von 12 kg/t Zink in der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe.
+(1) Für vorhandene Einleitungen von Abwasser aus der Spulenwäsche, Kabelwäsche, Spinnerei und Spinnbadaufbereitung für die Herstellung von Viskosefilamentgarn gilt abweichend von Teil D für das Herstellungsverfahren mit integrierter Fadenwäsche in der Spinnmaschine ein produktionsspezifischer Frachtwert von 12 kg/t Zink, der sich errechnet nach Teil D Absatz 3.
+
+(2) Abweichend von Teil B Absatz 3 kann bei vorhandenen Anlagen zur Ableitung von behandlungsbedürftigem Abwasser, die vor dem 1. März 2024 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, mit Zustimmung der zuständigen Behörde nicht behandlungsbedürftiges Abwasser zusammen mit behandlungsbedürftigem Abwasser abgeleitet werden.
+
+Abfallrechtliche Anforderungen werden nicht gestellt.
+
+(1) Betreiber haben nachstehende Parameter im Abwasser an der Einleitungsstelle in das Gewässer in der durchflussproportionalen 24-Stunden-Mischprobe wie folgt zu messen:
+
+| Parameter                                                                | Mindesthäufigkeit |
+|:-------------------------------------------------------------------------|:-----------------:|
+| TOC                                                                      |      Täglich      |
+| Abfiltrierbare Stoffe                                                    |      Täglich      |
+| N<sub>ges</sub> oder TN<sub>b</sub>                                      |      Täglich      |
+| P<sub>ges</sub>                                                          |      Täglich      |
+| AOX                                                                      |     Monatlich     |
+| Chrom, gesamt, Kupfer, Nickel, Zink, Blei                                |     Monatlich     |
+| Andere Schwermetalle, sofern in der wasserrechtlichen Zulassung begrenzt |     Monatlich     |
+
+Bei Abwasserströmen mit nachgewiesenen geringen Schwankungen im Volumenstrom und in der Konzentration können die Messungen nach Maßgabe behördlicher Festlegung auch in der zeitproportional entnommenen Probe erfolgen. Wird mit vorliegenden Datenreihen eine deutliche Stabilität der Messergebnisse nachgewiesen, kann die Häufigkeit der Messungen nach näherer Maßgabe behördlicher Festlegung verringert werden.
+
+(2) Die Jahresmittelwerte für die Parameter nach Teil C Absatz 3 und 4 errechnen sich aus den Ergebnissen der Messungen nach Absatz 1.
+
+(3) Es ist ein Jahresbericht nach Anlage 2 Nummer 3 zu erstellen.
+
+(4) Die Messungen der Parameter nach Absatz 1 sind nach den Analyse- und Messverfahren nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 
 # Anhang 45 – Erdölverarbeitung
 
@@ -7608,525 +7928,7 @@ b) der Parameter Chlorid und TN<sub>b</sub> sowie
 
 (3) Die Messungen der Parameter nach Absatz 1 sind nach den Analyse- und Messverfahren nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 1 und 2 unberührt.
 
-# Anhang 48 – Verwendung bestimmter gefährlicher Stoffe
-
-(Fundstelle:BGBl. I 2004, 1169 - 1173;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-Teil 1 Anwendungsbereich
-
-(1) Dieser Anhang dient der Umsetzung der Richtlinien des Rates 76/464/EWG, 83/513/EWG, 84/156/EWG, 84/491/EWG, 86/280/EWG, 87/217/EWG, 88/347/EWG, 90/415/EWG und 2010/75/EU sowie der Verpflichtungen der Vertragsstaaten aufgrund der Ergänzung des Anhangs IV vom 10. Juli 1990 des Übereinkommens zum Schutze des Rheins gegen Verunreinigungen. Er gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Verwendung von Stoffen stammt, die in diesem Anhang aufgeführt sind.
-
-(2) Als Verwendung gilt jedes industrielle Verfahren, bei dem die in diesem Anhang genannten Stoffe oder Verbindungen hergestellt oder benutzt werden, oder jedes andere industrielle Verfahren, bei dem diese Stoffe auftreten.
-
-(3) Dieser Anhang gilt nicht, soweit seine Anwendung ausdrücklich ausgeschlossen ist oder ein anderer Anhang anzuwenden ist und die dort gestellten Anforderungen gleich streng oder strenger als diejenigen dieses Anhangs sind.
-
-Teil 2 Allgemeine Bestimmungen
-
-(1) Für Produktionsbereiche, bei denen eine Stofffracht in 24 Stunden festgelegt ist, kann eine Stofffracht auch bezogen auf die 2-Stunden-Mischprobe oder qualifizierte Stichprobe und den der Probeentnahme vorausgehenden Abwasservolumenstrom in 24 Stunden festgelegt werden. In diesem Falle gilt der zweifache Frachtwert sowie die Stoffkonzentration für die 2-Stunden-Mischprobe oder die qualifizierte Stichprobe, die sich aus dem zweifachen Frachtwert in 24 Stunden und dem produktionsspezifischen Abwasservolumenstrom in 24 Stunden ergibt.
-
-(2) Für nicht genannte Produktionsbereiche, bei denen Abwasser mit den genannten Stoffen oder ihren Verbindungen anfällt, sind im Einzelfall auf der Grundlage des § 57 Absatz 1 Nummer 1 des Wasserhaushaltsgesetzes Anforderungen für die Konzentration und die Fracht zu stellen. Sind die Verhältnisse dieser Bereiche mit denen der genannten Bereiche vergleichbar, sind entsprechende Anforderungen festzulegen.
-
-(3) Die Anforderungen beziehen sich auf das Abwasser im Ablauf des Betriebes oder der Betriebseinheit, in der die Stoffe oder deren Verbindungen verwendet werden, vor der Vermischung mit anderem Abwasser. Wird das Abwasser außerhalb des Betriebes oder der Betriebseinheit in einer Abwasserbehandlungsanlage behandelt, die für die Behandlung von mit den genannten Stoffen oder ihren Verbindungen belastetem Abwasser bestimmt ist, beziehen sich die Werte auf das Abwasser im Ablauf dieser Abwasserbehandlungsanlage.
-
-Teil 3 Anforderungen für Quecksilber aus anderen Anlagen als der Alkalichloridelektrolyse
-
-(1) Für Quecksilber (Hg) gilt vorbehaltlich der Absätze 2 bis 5 eine Anforderung von 0,05 mg/l in der 2-Stunden-Mischprobe oder qualifizierten Stichprobe.
-
-(2) Bei der Verwendung quecksilberhaltiger Katalysatoren gilt für die Vinylchloridproduktion eine Anforderung von 0,1 g/t Produktionskapazität Vinylchlorid, für andere Produktionszweige von 5 g/kg verwendetem Quecksilber.
-
-(3) Bei der Herstellung von quecksilberhaltigen Katalysatoren zur Verwendung für die Vinylchloridproduktion gilt eine Anforderung von 0,7 g/kg verwendetem Quecksilber.
-
-(4) Bei der Herstellung von Quecksilberverbindungen mit Ausnahme der in Absatz 3 genannten Erzeugnisse gilt eine Anforderung von 0,05 g/kg verwendetem Quecksilber.
-
-(5) Die Anforderungen der Absätze 2 bis 4 beziehen sich auf die der wasserrechtlichen Zulassung zugrunde liegende Kapazität für die Verwendung von Quecksilber in 24 Stunden.
-
-Teil 4 Anforderungen für Cadmium
-
-(1) Für Cadmium (Cd) gilt eine Anforderung von 0,2 mg/l in der 2-Stunden-Mischprobe oder qualifizierten Stichprobe. Satz 1 gilt nicht für die Herstellung von Phosphorsäure und von Phosphatdüngemitteln aus Phosphormineralien.
-
-(2) Zusätzlich gelten folgende Anforderungen:  
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 54%" /><col style="width: 46%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: center;">Cadmium<br />
-(kg/t)</td></tr><tr class="even"><td style="text-align: left;">Herstellung von Cadmiumverbindungen</td><td style="text-align: center;">0,5</td></tr><tr class="odd"><td style="text-align: left;">Pigmentherstellung</td><td style="text-align: center;">0,15</td></tr><tr class="even"><td style="text-align: left;">Herstellung von Stabilisatoren</td><td style="text-align: center;">0,5</td></tr></tbody></table>
-
-Die Anforderungen beziehen sich auf die der wasserrechtlichen Zulassung zugrunde liegende Kapazität für die Verwendung von Cadmium in 24 Stunden.
-
-Teil 5 Anforderungen für Hexachlorcyclohexan
-
-(1) Für Hexachlorcyclohexan (HCH) gelten folgende Anforderungen:  
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 54%" /><col style="width: 46%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">HCH<br />
-(g/t)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Herstellung von HCH</td><td style="text-align: center;">2</td></tr><tr class="even"><td style="text-align: left;">Extraktion von Lindan</td><td style="text-align: center;">4</td></tr><tr class="odd"><td style="text-align: left;">Herstellung von HCH und Extraktion, gemeinsam</td><td style="text-align: center;">5</td></tr></tbody></table>
-
-  
-Die Anforderungen beziehen sich auf die der wasserrechtlichen Zulassung zugrunde liegende Kapazität für die Verwendung von HCH in 24 Stunden. Die Anforderungen gelten auch, wenn unmittelbar mit der Herstellung von HCH oder der Extraktion von Lindan eine Lindan-Formulierung durchgeführt wird. Wird nur Lindan formuliert, darf kein Abwasser anfallen.
-
-(2) HCH umfasst die Isomere des 1,2,3,4,5,6-Hexachlorcyclohexans.
-
-Teil 6 Anforderungen für DDT, Pentachlorphenol
-
-(1) Bei der Herstellung, Verwendung und Formulierung von DDT (einschließlich Dicofol), Pentachlorphenol und seiner Salze anfallendes Abwasser darf nicht in Gewässer eingeleitet werden.
-
-(2) Als "DDT" gelten folgende Verbindungen:
-
-1. die Summe der Isomere 1,1,1-Trichlor-2,2 bis (p-Chlorphenyl)-ethan,
-
-2. die chemische Verbindung 1,1,1-Trichlor-2-(o-Chlorphenyl) -2-(p-Chlorphenyl)-ethan,
-
-3. die chemische Verbindung 1,1-Dichlor-2,2 bis (p-Chlorphenyl)-ethen und 1,1-Dichlor-2,2 bis (p-Chlorphenyl)-ethan.
-
-(3) Dicofol ist die chemische Verbindung 2,2,2-Trichlor-1,1- bis(4-Chlorphenyl)-ethanol.
-
-(4) Pentachlorphenol (PCP) ist die chemische Verbindung 2,3,4,5,6-Pentachlor-1-Hydroxybenzol und ihre Salze.
-
-Teil 7 Anforderungen für Endosulfan
-
-(1) Für Endosulfan gelten folgende Anforderungen:  
-
- 
-
-Endosulfan
-
-g/t
-
-µg/l
-
- 
-
-in der Stichprobe
-
-Herstellung und Formulierung von Endosulfan im gleichen Betrieb
-
-0,23
-
-15
-
-Formulierung von Endosulfan
-
-0,03
-
-30
-
-  
-Die produktionsspezifischen Frachtwerte beziehen sich auf die der wasserrechtlichen Zulassung zugrunde liegende Produktionskapazität für die Verwendung von Endosulfan in 0,5 oder 2 Stunden bezogen auf die Stichprobe und den mit der Probenahme korrespondierenden Abwasservolumenstrom in 24 Stunden.
-
-(2) Endosulfan ist die chemische Verbindung (C<sub>9</sub>H<sub>6</sub>Cl<sub>6</sub>O<sub>3</sub>S<sub>9</sub>) 6,7,8,9,10,10-Hexachlor-1,5,5a,6,9,9a-hexahydro-6, 9-methano-2,3,4-benzo-(e)-Dioxathiepin-3-oxid.
-
-Teil 8 Anforderungen für Aldrin, Dieldrin, Endrin, Isodrin
-
-(1) Für die Verwendung von Aldrin, Dieldrin, Endrin einschließlich der Formulierung dieser Stoffe gilt ein produktionsspezifischer Frachtwert von 3 g/t für die Summe dieser Stoffe. Dieser Wert bezieht sich auf die der wasserrechtlichen Zulassung zugrunde liegende Gesamtkapazität für die Verwendung von Aldrin, Dieldrin und Endrin in 24 Stunden. Enthält das Abwasser auch Isodrin, gilt die Anforderung für die Summe der Stoffe Aldrin, Dieldrin, Endrin und Isodrin.
-
-(2) Aldrin ist die chemische Verbindung (C<sub>12</sub>H<sub>8</sub>Cl<sub>6</sub>), 1,2,3,4,10,10-Hexachlor-1,4,4a,5,8,8a-hexahydro-1, 4-endo-5,8-exo-dimethanonaphthalin.
-
-(3) Dieldrin ist die chemische Verbindung (C<sub>12</sub>H<sub>8</sub>Cl<sub>6</sub>O), 1,2,3,4,10,10-Hexachlor-6,7-epoxy-1,4,4a, 5,6,7,8,8a-octahydro-1,4-endo-5,8-exo-dimethanonaphthalin.
-
-(4) Endrin ist die chemische Verbindung (C<sub>12</sub>H<sub>8</sub>Cl<sub>6</sub>O), 1,2,3,4,10,10-Hexachlor-6,7-epoxy-1,4,4a, 5,6,7,8,8a-octahydro-1,4-endo-5,8-endo-dimethanonaphthalin.
-
-(5) Isodrin ist die chemische Verbindung (C<sub>12</sub>H<sub>8</sub>Cl<sub>6</sub>O), 1,2,3,4,10,10-Hexachlor-1,4,4a,5,8,8a-hexahydro-1, 4-endo-5,8-exo-dimethanonaphthalin.
-
-Teil 9 Anforderungen für Asbest
-
-(1) Bei der Herstellung von Asbestzement sowie von Asbestpapier und -pappe darf Abwasser nicht in ein Gewässer eingeleitet werden. Die Vorschriften der Gefahrstoffverordnung bleiben unberührt.
-
-(2) Als Asbest gelten folgende Silikate mit Faserstruktur:
-
-1. Krokydolith (blauer Asbest),
-
-2. Aktinolith,
-
-3. Anthophyllit,
-
-4. Chrysotil (weißer Asbest),
-
-5. Amosit (Grünerit-Asbest),
-
-6. Tremolit.
-
-Teil 10 Anforderungen für halogenorganische Verbindungen
-
-(1) Die Vorschriften dieses Teils gelten für folgende Stoffe:
-
-1. Tetrachlormethan (Tetrachlorkohlenstoff) (CCl<sub>4</sub>),
-
-2. Hexachlorbenzol (HCB),
-
-3. Hexachlorbutadien (HCBD),
-
-4. Trichlormethan (Chloroform) (CHCl<sub>3</sub>),
-
-5. Trichlorethen (TRI),
-
-6. Tetrachlorethen (Perchlorethen) (PER),
-
-7. 1,2-Dichlorethan (EDC),
-
-8. Trichlorbenzol (TCB).
-
-(2) An das Abwasser werden für die Stoffe nach Absatz 1 folgende Anforderungen gestellt:  
-
-Herstellungsbereich
-
-CHCI<sub>3</sub>
-
-CCI<sub>4</sub>
-
-HCB
-
-HCBD
-
-TRI
-
-PER
-
-EDC
-
-TCB
-
- 
-
-g/t
-
-g/t
-
-g/t
-
-g/t
-
-g/t
-
-g/t
-
-g/t
-
-g/t
-
-Herstellung von Chlormethan durch Methanchlorierung (einschließlich Hochdruckchlorolyse-Verfahren) und Methanolveresterung
-
-7,5
-
-10
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-Herstellung von Tetrachlorethen (Perchlorethen) (PER) und Tetrachlormethan (CCI<sub>4</sub>) durch Perchlorierung
-
-\-
-
-2,5
-
-1,5
-
-1,5
-
-\-
-
-2,5
-
-\-
-
-\-
-
-Herstellung von Hexachlorbenzol und Weiterverarbeitung von Hexachlorbenzol
-
-\-
-
-\-
-
-10
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-Herstellung von Tetrachlorethen (Perchlorethen) (PER) und Trichlorethen (TRI)
-
-\-
-
-\-
-
-\-
-
-\-
-
-2,5
-
-2,5
-
-\-
-
-\-
-
-Herstellung von 1,2-Dichlorethan (EDC)
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-2,5
-
-\-
-
-Herstellung von 1,2-Dichlorethan (EDC) sowie Weiterverarbeitung und Verwendung, ausschließlich der Herstellung von Ionenaustauschern
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-5
-
-\-
-
-Verarbeitung von 1,2-Dichlorethan (EDC) zu anderen Stoffen als Vinylchlorid (VC)
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-2,5
-
-\-
-
-Herstellung von Trichlorbenzol (TCB) durch Dehydrochlorierung von HCH und/oder Verarbeitung von TCB
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-10
-
-Herstellung und/oder Verarbeitung von Chlorbenzolen durch Chlorierung von Benzol
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-0,5
-
-(3) Wird in der wasserrechtlichen Zulassung eine Stofffracht bezogen auf die qualifizierte Stichprobe und bezogen auf den der Probenahme vorausgehenden Abwasservolumenstrom in 24 Stunden festgesetzt, ist bei der Herstellung von Chlormethan durch Methanchlorierung und Methanolveresterung der Frachtwert von 10 an Stelle von 7,5 g/t CHCl<sub>3</sub> zugrunde zu legen. Die Anforderungen beziehen sich auf die der wasserrechtlichen Zulassung zugrunde liegende Produktionskapazität für die in Absatz 1 genannten Stoffe in 24 Stunden.
-
-Teil 11 Anforderungen für Titandioxid
-
-(1) Die Vorschriften dieses Teils gelten für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Titandioxidpigmenten stammt. Sie gelten nicht für Abwasser aus der Herstellung von Titandioxid-Mikrorutilen sowie aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
-
-(2) Das Abwasser darf nur eingeleitet werden, wenn eine gezielte Schadstoffminderung für die Stoffe Eisen, Titan und Vanadium durchgeführt worden ist.
-
-(3) Das Abwasser darf keine Abfälle aus der Herstellung von Titandioxid im Sinne von Artikel 67 der Richtlinie 2010/75/EU enthalten.
-
-(4) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
-
- 
-
-Chloridverfahren
-
-Sulfatverfahren
-
-Stufenkeimverfahren
-
-Kombikeimverfahren
-
- 
-
-Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
-
-Chemischer Sauerstoffbedarf (CSB)
-
-kg/t
-
-8
-
-8
-
-8
-
-Chlorid bei Verwendung von
-
- 
-
- 
-
- 
-
- 
-
-\- natürlichem Rutil
-
-kg/t
-
-130
-
- -
-
- -
-
-\- synthetischem Rutil
-
-kg/t
-
-228
-
-  -
-
-  -
-
-\- Schlacke
-
-kg/t
-
-330
-
-70
-
-165
-
-Sulfat
-
-kg/t
-
-\-
-
-500
-
-500
-
-Giftigkeit gegenüber Fischeiern (G<sub>Ei</sub>)
-
- 
-
-2
-
-2
-
-2
-
-  
-Die Anforderungen für Chlorid in der Spalte Chloridverfahren gelten für das Chloridverfahren im Sinne von Anhang VIII Teil 1 Nummer 2 Buchstabe c der in Absatz 3 genannten Richtlinie. Für Einleitungen in Küstengewässer nach § 3 Nummer 2 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585) und für Übergangsgewässer nach § 2 Nummer 2 der Oberflächengewässerverordnung vom 20. Juli 2011 (BGBl. I S. 1429) in der jeweils geltenden Fassung kann abweichend von Satz 1 bei Verwendung von Schlacke ein Emissionswert von 450 kg Chlorid pro Tonne nach dem Chloridverfahren erzeugten Titandioxids festgelegt werden. Wird mehr als ein Einsatzstoff verwendet, gelten die Emissionswerte für Chlorid proportional zu der Menge der verwendeten Einsatzstoffe.
-
-(5) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:  
-
- 
-
-Chloridverfahren
-
-Sulfatverfahren
-
- 
-
-Qualifizierte Stichprobe oder  
-2-Stunden-Mischprobe
-
-Blei
-
-kg/t
-
-0,005
-
-0,03
-
-Cadmium
-
-g/t
-
-0,2
-
-2
-
-Chrom, gesamt
-
-kg/t
-
-0,01
-
-0,05
-
-Kupfer
-
-kg/t
-
-0,01
-
-0,02
-
-Nickel
-
-kg/t
-
-0,005
-
-0,015
-
-Quecksilber
-
-g/t
-
-0,1
-
-1,5
-
-  
-In der wasserrechtlichen Zulassung kann beim Sulfatverfahren für Chrom, gesamt, auch eine Konzentration von 0,5 mg/l zugelassen werden.
-
-(6) die produktionsspezifischen Anforderungen (g/t; kg/t) nach den Absätzen 4 und 5 beziehen sich auf die der wasserrechtlichen Zulassung zugrunde liegende Produktionskapazität. Die Schadstofffracht wird aus den Konzentrationswerten der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe und aus dem mit der Probenahme korrespondierenden Abwasservolumenstrom ermittelt.
+# Anhang 48 – (weggefallen)
 
 # Anhang 49 – Mineralölhaltiges Abwasser
 

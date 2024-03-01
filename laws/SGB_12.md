@@ -1359,7 +1359,7 @@ Personen, die nach dem Zweiten Buch als Erwerbsfähige oder als Angehörige dem 
 
 1. sie weder in der Bundesrepublik Deutschland Arbeitnehmer oder Selbständige noch auf Grund des § 2 Absatz 3 des Freizügigkeitsgesetzes/EU freizügigkeitsberechtigt sind, für die ersten drei Monate ihres Aufenthalts,
 
-2. sie kein Aufenthaltsrecht haben oder sich ihr Aufenthaltsrecht allein aus dem Zweck der Arbeitsuche ergibt oder
+2. sie kein Aufenthaltsrecht haben oder sich ihr Aufenthaltsrecht allein aus dem Zweck der Arbeitsuche, der Ausbildungs- oder Studienplatzsuche oder aus einer Aufenthaltserlaubnis nach § 20a des Aufenthaltsgesetzes ergibt oder
 
 3. sie eingereist sind, um Sozialhilfe zu erlangen.
 

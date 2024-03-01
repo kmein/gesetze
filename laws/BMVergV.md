@@ -65,10 +65,10 @@ Vergütungen für Mehrarbeit an Beamtinnen und Beamte des Bundes dürfen nur nac
   
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 11%" /><col style="width: 28%" /><col style="width: 61%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">1.</td><td style="text-align: left;">in den Besoldungsgruppen<br />
-A 3 bis A 4</td><td style="text-align: left;">13,85 Euro,</td></tr><tr class="even"><td style="text-align: left;">2.</td><td style="text-align: left;">in den Besoldungsgruppen<br />
-A 5 bis A 8</td><td style="text-align: left;">16,37 Euro,</td></tr><tr class="odd"><td style="text-align: left;">3.</td><td style="text-align: left;">in den Besoldungsgruppen<br />
-A 9 bis A 12</td><td style="text-align: left;">22,49 Euro,</td></tr><tr class="even"><td style="text-align: left;">4.</td><td style="text-align: left;">in den Besoldungsgruppen<br />
-A 13 bis A 16</td><td style="text-align: left;">30,96 Euro.</td></tr></tbody></table>
+A 3 bis A 4</td><td style="text-align: left;">15,42 Euro,</td></tr><tr class="even"><td style="text-align: left;">2.</td><td style="text-align: left;">in den Besoldungsgruppen<br />
+A 5 bis A 8</td><td style="text-align: left;">18,22 Euro,</td></tr><tr class="odd"><td style="text-align: left;">3.</td><td style="text-align: left;">in den Besoldungsgruppen<br />
+A 9 bis A 12</td><td style="text-align: left;">25,03 Euro,</td></tr><tr class="even"><td style="text-align: left;">4.</td><td style="text-align: left;">in den Besoldungsgruppen<br />
+A 13 bis A 16</td><td style="text-align: left;">34,46 Euro.</td></tr></tbody></table>
 
 (2) Diese Beträge gelten auch für Beamtinnen und Beamte vergleichbarer Besoldungsgruppen, die der Bundesbesoldungsordnung C angehören.
 
@@ -77,8 +77,8 @@ A 13 bis A 16</td><td style="text-align: left;">30,96 Euro.</td></tr></tbody></t
 
 |     |                     |             |
 |:----|:--------------------|:------------|
-| 1\. | im gehobenen Dienst | 30,76 Euro, |
-| 2\. | im höheren Dienst   | 35,94 Euro. |
+| 1\. | im gehobenen Dienst | 34,24 Euro, |
+| 2\. | im höheren Dienst   | 40,00 Euro. |
 
 (4) Die in den Absätzen 1 und 3 enthaltenen Vergütungssätze gelten nur für Mehrarbeit, die nach dem Inkrafttreten dieser Sätze geleistet wird.
 

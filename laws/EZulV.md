@@ -39,11 +39,11 @@ Bei Teilzeitbeschäftigung verringern sich die in § 3 Absatz 1 und 3 Satz 2 sow
 
 (1) Die Zulage beträgt für Dienst
 
-1. an Sonntagen und gesetzlichen Wochenfeiertagen, an den Samstagen vor Ostern und Pfingsten nach 12.00 Uhr sowie am 24. und 31. Dezember jeden Jahres nach 12.00 Uhr, wenn diese Tage nicht auf einen Sonntag fallen, 5,67 Euro je Stunde,
+1. an Sonntagen und gesetzlichen Wochenfeiertagen, an den Samstagen vor Ostern und Pfingsten nach 12.00 Uhr sowie am 24. und 31. Dezember jeden Jahres nach 12.00 Uhr, wenn diese Tage nicht auf einen Sonntag fallen, 6,31 Euro je Stunde,
 
-2. a) an den übrigen Samstagen in der Zeit zwischen 13.00 Uhr und 20.00 Uhr 1,34 Euro je Stunde sowie
+2. a) an den übrigen Samstagen in der Zeit zwischen 13.00 Uhr und 20.00 Uhr 1,49 Euro je Stunde sowie
 
-b) im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 2,67 Euro je Stunde.
+b) im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 2,97 Euro je Stunde.
 
 (2) Für Dienst über volle Stunden hinaus wird die Zulage anteilig gewährt.
 
@@ -95,7 +95,7 @@ Zu den Tauchertätigkeiten gehören auch Übungen oder Arbeiten in Pressluft (Dr
 
 # § 8 – Höhe der Zulage
 
-(1) Die Zulage für Tauchertätigkeit nach § 7 Absatz 2 Satz 1 Nummer 1 beträgt je Stunde 3,88 Euro.
+(1) Die Zulage für Tauchertätigkeit nach § 7 Absatz 2 Satz 1 Nummer 1 beträgt je Stunde 4,35 Euro.
 
 (2) Die Zulage für Tauchertätigkeit nach § 7 Absatz 2 Satz 1 Nummer 2 beträgt je Stunde Tauchzeit  
   
@@ -103,27 +103,27 @@ Zu den Tauchertätigkeiten gehören auch Übungen oder Arbeiten in Pressluft (Dr
 1. bei einer Tauchtiefe von  
 bis zu 5 Metern
 
-16,08 Euro,
+18,01 Euro,
 
 2. bei einer Tauchtiefe von  
 mehr als 5 Metern
 
-19,52 Euro,
+21,86 Euro,
 
 3. bei einer Tauchtiefe von  
 mehr als 10 Metern
 
-24,25 Euro,
+27,16 Euro,
 
 4. bei einer Tauchtiefe von  
 mehr als 15 Metern oder beim  
 Tauchen mit reinem Sauerstoff
 
-31,24 Euro.
+34,99 Euro.
 
   
   
-Bei Tauchtiefen von mehr als zwanzig Metern erhöht sich die Zulage für je fünf Meter weiterer Tauchtiefe um 6,24 Euro je Stunde.
+Bei Tauchtiefen von mehr als zwanzig Metern erhöht sich die Zulage für je fünf Meter weiterer Tauchtiefe um 6,99 Euro je Stunde.
 
 (3) Die Zulage nach Absatz 2 erhöht sich für Tauchertätigkeit
 
@@ -585,7 +585,7 @@ Werden im Falle des Satzes 1 Nummer 3 im laufenden Kalendermonat fünf bis neun 
 
 # § 23 – Zulage für die Beseitigung von Munition aus den Weltkriegen
 
-(1) Beamte und Soldaten erhalten, wenn sie als Räumgruppenleiter bei besonderen Entgiftungsarbeiten eingesetzt werden, eine Zulage. Die Zulage beträgt monatlich 823,95 Euro, wenn die Beamten oder Soldaten 120 oder mehr Stunden im Kalendermonat im unmittelbaren Gefahrenbereich tätig sind. Die Zulage verringert sich für jede Stunde, die an 120 Stunden fehlt, um 1/120.
+(1) Beamte und Soldaten erhalten, wenn sie als Räumgruppenleiter bei besonderen Entgiftungsarbeiten eingesetzt werden, eine Zulage. Die Zulage beträgt monatlich 922,82 Euro, wenn die Beamten oder Soldaten 120 oder mehr Stunden im Kalendermonat im unmittelbaren Gefahrenbereich tätig sind. Die Zulage verringert sich für jede Stunde, die an 120 Stunden fehlt, um 1/120.
 
 (2) Beamte erhalten, wenn sie als Feuerwerker oder als Hilfskräfte in Munitionsräumgruppen zur Beseitigung von Munition und anderen Sprengkörpern eingesetzt werden, eine Zulage. Die Zulage beträgt monatlich höchstens 398,81 Euro für den Feuerwerker, sofern er selbst Munition und Sprengkörper entschärft, für die Hilfskräfte höchstens 281,21 Euro. Die Beamten müssen 135 oder mehr Arbeitsstunden im Kalendermonat im unmittelbaren Gefahrenbereich tätig sein. Sinkt die Zahl der Arbeitsstunden im unmittelbaren Gefahrenbereich im Kalendermonat um mehr als 30, so verringert sich die Zulage für jede Stunde, die an 135 Stunden fehlt, um 1/135.
 

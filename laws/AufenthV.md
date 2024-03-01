@@ -862,7 +862,9 @@ Die Inhaber der in Anlage A zu dieser Verordnung genannten Dokumente sind für d
 
 (1) Für die Einreise und den Kurzaufenthalt sind die Personen nach Artikel 4 Absatz 1 der Verordnung (EU) 2018/1806 in der jeweils geltenden Fassung und die Inhaber eines von einem Schengen-Staat ausgestellten Aufenthaltstitels oder nationalen Visums für den längerfristigen Aufenthalt vom Erfordernis eines Aufenthaltstitels nicht befreit, sofern sie im Bundesgebiet eine Erwerbstätigkeit ausüben.
 
-(2) Absatz 1 findet keine Anwendung, soweit der Ausländer im Bundesgebiet bis zu 90 Tage innerhalb von zwölf Monaten lediglich Tätigkeiten ausübt, die nach § 30 Nummer 2 und 3 der Beschäftigungsverordnung nicht als Beschäftigung gelten, oder diesen entsprechende selbständige Tätigkeiten ausübt. Die zeitliche Beschränkung des Satzes 1 gilt nicht für Kraftfahrer im grenzüberschreitenden Straßenverkehr, die lediglich Güter oder Personen durch das Bundesgebiet hindurchbefördern, ohne dass die Güter oder Personen das Transportfahrzeug wechseln. Die Frist nach Satz 1 beträgt für Tätigkeiten nach § 15a und § 30 Nummer 1 der Beschäftigungsverordnung 90 Tage innerhalb von 180 Tagen. Selbständige Tätigkeiten nach § 30 Nummer 1 der Beschäftigungsverordnung und nach den Sätzen 1 und 2 dürfen unter den dort genannten Voraussetzungen ohne den nach § 4a Absatz 1 Satz 1 des Aufenthaltsgesetzes erforderlichen Aufenthaltstitel ausgeübt werden.
+(2) Absatz 1 findet keine Anwendung, soweit der Ausländer im Bundesgebiet bis zu 90 Tage innerhalb von zwölf Monaten lediglich Tätigkeiten ausübt, die nach § 30 Nummer 2 und 3 der Beschäftigungsverordnung nicht als Beschäftigung gelten, oder diesen entsprechende selbständige Tätigkeiten ausübt. Die zeitliche Beschränkung des Satzes 1 gilt nicht für Kraftfahrer im grenzüberschreitenden Straßenverkehr, die lediglich Güter oder Personen durch das Bundesgebiet hindurchbefördern, ohne dass die Güter oder Personen das Transportfahrzeug wechseln. Die Frist nach Satz 1 beträgt für Tätigkeiten nach § 30 Nummer 1 der Beschäftigungsverordnung 90 Tage innerhalb von 180 Tagen. Selbständige Tätigkeiten nach § 30 Nummer 1 der Beschäftigungsverordnung und nach den Sätzen 1 und 2 dürfen unter den dort genannten Voraussetzungen ohne den nach § 4a Absatz 1 Satz 1 des Aufenthaltsgesetzes erforderlichen Aufenthaltstitel ausgeübt werden.
+
+(3) Absatz 1 findet keine Anwendung auf Beschäftigungen für eine Dauer von bis zu 90 Tagen innerhalb von 180 Tagen, zu deren Ausübung die Bundesagentur für Arbeit eine Arbeitserlaubnis nach § 15a Absatz 1 Nummer 1 oder § 15d Absatz 1 Satz 1 Nummer 1 der Beschäftigungsverordnung erteilt hat.
 
 # § 17a – Befreiung zur Dienstleistungserbringung für langfristig Aufenthaltsberechtigte
 
@@ -1128,7 +1130,7 @@ Ein Ausländer kann ein nationales Visum bei der am Sitz des Auswärtigen Amtes 
 
 # § 38a – Voraussetzungen für die Anerkennung von Forschungseinrichtungen
 
-(1) Eine öffentliche oder private Einrichtung soll auf Antrag zum Abschluss von Aufnahmevereinbarungen oder von entsprechenden Verträgen nach § 18d Absatz 1 Satz 1 Nummer 1 des Aufenthaltsgesetzes anerkannt werden, wenn sie im Inland Forschung betreibt. Forschung ist jede systematisch betriebene schöpferische und rechtlich zulässige Tätigkeit, die den Zweck verfolgt, den Wissensstand zu erweitern, einschließlich der Erkenntnisse über den Menschen, die Kultur und die Gesellschaft, oder solches Wissen einzusetzen, um neue Anwendungsmöglichkeiten zu finden.
+(1) Eine überwiegend privat finanzierte Einrichtung soll auf Antrag zum Abschluss von Aufnahmevereinbarungen oder von entsprechenden Verträgen nach § 18d Absatz 1 Satz 1 Nummer 1 des Aufenthaltsgesetzes anerkannt werden, wenn sie im Inland Forschung betreibt. Forschung ist jede systematisch betriebene schöpferische und rechtlich zulässige Tätigkeit, die den Zweck verfolgt, den Wissensstand zu erweitern, einschließlich der Erkenntnisse über den Menschen, die Kultur und die Gesellschaft, oder solches Wissen einzusetzen, um neue Anwendungsmöglichkeiten zu finden.
 
 (2) Der Antrag auf Anerkennung ist schriftlich beim Bundesamt für Migration und Flüchtlinge zu stellen. Er hat folgende Angaben zu enthalten:
 
@@ -1142,13 +1144,13 @@ Ein Ausländer kann ein nationales Visum bei der am Sitz des Auswärtigen Amtes 
 
 5. Angaben zur Tätigkeit der Forschungseinrichtung, aus denen hervorgeht, dass sie im Inland Forschung betreibt.
 
-Bei öffentlichen Einrichtungen sind die Angaben zu Satz 2 Nummer 4 und 5 nicht erforderlich. Im Antragsverfahren sind amtlich vorgeschriebene Vordrucke, Eingabemasken im Internet oder Dateiformate, die mit allgemein verbreiteten Datenverarbeitungsprogrammen erzeugt werden können, zu verwenden. Das Bundesamt für Migration und Flüchtlinge stellt die jeweils gültigen Vorgaben nach Satz 3 auch im Internet zur Verfügung.
+Im Antragsverfahren sind amtlich vorgeschriebene Vordrucke, Eingabemasken im Internet oder Dateiformate, die mit allgemein verbreiteten Datenverarbeitungsprogrammen erzeugt werden können, zu verwenden. Das Bundesamt für Migration und Flüchtlinge stellt die jeweils gültigen Vorgaben nach Satz 3 auch im Internet zur Verfügung.
 
-(3) Die Anerkennung kann von der Abgabe einer allgemeinen Erklärung nach § 18d Absatz 3 des Aufenthaltsgesetzes und dem Nachweis der hinreichenden finanziellen Leistungsfähigkeit zur Erfüllung einer solchen Verpflichtung abhängig gemacht werden, wenn die Tätigkeit der Forschungseinrichtung nicht überwiegend aus öffentlichen Mitteln finanziert wird. Das Bundesamt für Migration und Flüchtlinge kann auf Antrag feststellen, dass eine Forschungseinrichtung überwiegend aus öffentlichen Mitteln finanziert wird oder dass die Durchführung eines bestimmten Forschungsprojekts im öffentlichen Interesse liegt. Eine Liste der wirksamen Feststellungen nach Satz 2 kann das Bundesamt für Migration und Flüchtlinge im Internet veröffentlichen.
+(3) Die Anerkennung kann von der Abgabe einer allgemeinen Erklärung nach § 18d Absatz 3 des Aufenthaltsgesetzes und dem Nachweis der hinreichenden finanziellen Leistungsfähigkeit zur Erfüllung einer solchen Verpflichtung abhängig gemacht werden, wenn die Tätigkeit der Forschungseinrichtung nicht überwiegend aus öffentlichen Mitteln finanziert wird. Das Bundesamt für Migration und Flüchtlinge kann auf Antrag feststellen, dass die Durchführung eines bestimmten Forschungsprojekts im besonderen öffentlichen Interesse liegt. Eine Liste der wirksamen Feststellungen nach Satz 2 kann das Bundesamt für Migration und Flüchtlinge im Internet veröffentlichen.
 
 (4) Die Anerkennung soll auf mindestens fünf Jahre befristet werden.
 
-(4a) Die Absätze 1 bis 4 gelten weder für staatliche oder staatlich anerkannte Hochschulen noch für andere Forschungseinrichtungen, deren Tätigkeit überwiegend aus öffentlichen Mitteln finanziert wird. Diese Hochschulen und Forschungseinrichtungen gelten als anerkannte Forschungseinrichtungen.
+(4a) Die Absätze 1 bis 4 gelten weder für staatliche oder staatlich anerkannte Hochschulen noch für andere Forschungseinrichtungen, deren Tätigkeit überwiegend aus öffentlichen Mitteln finanziert wird. Diese Hochschulen und Forschungseinrichtungen gelten als anerkannte Forschungseinrichtungen. Das Bundesamt für Migration und Flüchtlinge kann auf Ersuchen einer Forschungseinrichtung feststellen, dass diese überwiegend aus öffentlichen Mitteln finanziert wird.
 
 (5) Eine anerkannte Forschungseinrichtung ist verpflichtet, dem Bundesamt für Migration und Flüchtlinge unverzüglich Änderungen der in Absatz 2 Satz 2 Nr. 1 bis 3 genannten Verhältnisse oder eine Beendigung des Betreibens von Forschung anzuzeigen.
 
@@ -1176,7 +1178,7 @@ Eine Forschungseinrichtung ist verpflichtet, der zuständigen Ausländerbehörde
 
 1. Umstände vorliegen, die dazu führen können, dass eine Aufnahmevereinbarung nicht erfüllt werden kann oder die Voraussetzungen ihres Abschlusses nach § 38f Abs. 2 entfallen oder
 
-2. ein Ausländer seine Tätigkeit für ein Forschungsvorhaben, für das sie eine Aufnahmevereinbarung abgeschlossen hat, beendet.
+2. ein Ausländer seine Tätigkeit für ein Forschungsvorhaben, für das sie eine Aufnahmevereinbarung abgeschlossen hat, vorzeitig beendet.
 
 Die Mitteilung nach Satz 1 Nr. 1 muss unverzüglich, die Mitteilung nach Satz 1 Nr. 2 innerhalb von zwei Monaten nach Eintritt der zur Mitteilung verpflichtenden Tatsachen gemacht werden. In der Mitteilung sind neben den mitzuteilenden Tatsachen und dem Zeitpunkt ihres Eintritts die Namen, Vornamen und Staatsangehörigkeiten des Ausländers anzugeben sowie die Aufnahmevereinbarung näher zu bezeichnen.
 
@@ -1242,9 +1244,9 @@ Das Bundesamt für Migration und Flüchtlinge veröffentlicht im Internet eine a
 
 2. die Verpflichtung der Forschungseinrichtung, den Ausländer zur Durchführung des Forschungsvorhabens aufzunehmen,
 
-3. die Angaben zum wesentlichen Inhalt des Rechtsverhältnisses, das zwischen der Forschungseinrichtung und dem Ausländer begründet werden soll, wenn ihm eine Aufenthaltserlaubnis nach § 18d des Aufenthaltsgesetzes erteilt wird, insbesondere zum Umfang der Tätigkeit des Ausländers und zum Gehalt,
+3. die Angaben zum wesentlichen Inhalt des Rechtsverhältnisses, das zwischen der Forschungseinrichtung und dem Ausländer begründet werden soll, wenn ihm ein Aufenthaltstitel nach § 18d oder § 18f des Aufenthaltsgesetzes erteilt wird oder wenn die aufnehmende deutsche Forschungseinrichtung eine kurzfristige Forschermobilität nach § 18e des Aufenthaltsgesetzes mitteilt, insbesondere zum Umfang der Tätigkeit des Ausländers und zum Gehalt,
 
-4. eine Bestimmung, wonach die Aufnahmevereinbarung oder der entsprechende Vertrag unwirksam wird, wenn dem Ausländer keine Aufenthaltserlaubnis nach § 18d des Aufenthaltsgesetzes erteilt wird,
+4. eine Bestimmung, wonach die Aufnahmevereinbarung oder der entsprechende Vertrag unwirksam wird, wenn dem Ausländer kein Aufenthaltstitel nach § 18d oder § 18f des Aufenthaltsgesetzes erteilt wird oder wenn die kurzfristige Forschermobilität nach § 18e des Aufenthaltsgesetzes abgelehnt wird,
 
 5. Beginn und voraussichtlichen Abschluss des Forschungsvorhabens sowie
 
@@ -1294,7 +1296,7 @@ a) einen gültigen Aufenthaltstitel eines anderen Mitgliedstaates besitzt, der a
 
 b) eine Aufenthaltserlaubnis nach § 18f des Aufenthaltsgesetzes beantragt oder eine Aufenthaltserlaubnis zum Zweck des Familiennachzugs zu einem Inhaber einer Aufenthaltserlaubnis nach § 18f des Aufenthaltsgesetzes beantragt oder
 
-11. er vor Ablauf der Arbeitserlaubnis oder der Arbeitserlaubnisse zum Zweck der Saisonbeschäftigung, die ihm nach § 15a Absatz 1 Satz 1 Nummer 1 der Beschäftigungsverordnung erteilt wurde oder wurden, einen Aufenthaltstitel zum Zweck der Saisonbeschäftigung bei demselben oder einem anderen Arbeitgeber beantragt; dieser Aufenthaltstitel gilt bis zur Entscheidung der Ausländerbehörde als erteilt.
+11. er vor Ablauf der Arbeitserlaubnis oder der Arbeitserlaubnisse, die ihm nach § 15a Absatz 1 Satz 1 Nummer 1 oder § 15d Absatz 1 Satz 1 Nummer 1 der Beschäftigungsverordnung erteilt wurde oder wurden, einen Aufenthaltstitel zum Zweck der Beschäftigung bei demselben oder einem anderen Arbeitgeber oder zum Zweck der Ausbildung beantragt; wird der Aufenthaltstitel nach § 19c Absatz 1 des Aufenthaltsgesetzes in Verbindung mit § 15a oder § 15d der Beschäftigungsverordnung beantragt, gilt dieser bis zur Entscheidung der Ausländerbehörde als erteilt.
 
 Satz 1 gilt nicht, wenn eine ICT-Karte nach § 19 des Aufenthaltsgesetzes beantragt wird.
 

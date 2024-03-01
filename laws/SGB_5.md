@@ -830,7 +830,7 @@ Das Recht auf Befreiung setzt nicht voraus, dass der Antragsteller erstmals vers
 
 5. Arbeitnehmer, deren Mitgliedschaft durch Beschäftigung im Ausland oder bei einer zwischenstaatlichen oder überstaatlichen Organisation endete, wenn sie innerhalb von zwei Monaten nach Rückkehr in das Inland oder nach Beendigung ihrer Tätigkeit bei der zwischenstaatlichen oder überstaatlichen Organisation wieder eine Beschäftigung aufnehmen,
 
-6. (weggefallen)
+6. innerhalb von drei Monaten nach Aufenthaltnahme im Inland Ausländer mit einer Aufenthaltserlaubnis nach § 18d Absatz 1 des Aufenthaltsgesetzes,
 
 7. innerhalb von sechs Monaten nach ständiger Aufenthaltnahme im Inland oder innerhalb von drei Monaten nach Ende des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Spätaussiedler sowie deren gemäß § 7 Abs. 2 Satz 1 des Bundesvertriebenengesetzes leistungsberechtigte Ehegatten und Abkömmlinge, die bis zum Verlassen ihres früheren Versicherungsbereichs bei einem dortigen Träger der gesetzlichen Krankenversicherung versichert waren,
 
