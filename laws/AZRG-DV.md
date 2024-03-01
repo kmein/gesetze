@@ -393,6 +393,9 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtm�
 
  
 
+<span id="FnA1-F827671_02"></span><a href="#FnR.FnA1-F827671_02" class="Footnote">*</a>  
+In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
+
  
 
  \* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
@@ -512,5 +515,4 @@ wenn die rechtlichen Voraussetzungen vorliegen,
 wenn ein Anlass oder eine Entscheidung nach (1) bis (6) die Datenübermittlung notwendig macht.
 
 Anlage Abschn. I Nr. 5b: Eingef. durch Art. 2 Nr. 7 Buchst. h G v. 9.7.2021 I 2467 mWv 1.11.2022 (Kursivdruck: "Landeskrimnalämter" müsste richtig "Landeskriminalämter" lauten)  
-Anlage Abschn. I Nr. 8 (Teil I) Spalte A Buchst. y (früher Buchst. z): Eingef. durch Art. 1 Nr. 15 Buchst. d DBuchst. dd V v. 11.12.2018 I 2424 mWv 15.9.2019; früherer Buchst. w wurde Buchst. y gem. Art. 1 Nr. 15 Buchst. d DBuchst. cc V v. 11.12.2018 I 2424 mWv 15.9.2019, Buchst. y aufgeh. u. früherer Buchst. z jetzt Buchst. y gem. Art. 2 Nr. 5 Buchst. h DBuchst. aa aaa u. bbb nach Maßgabe d. Art. 11 iVm. Art. 12 Abs. 6 G v. 4.8.2019 I 1131 mWv 1.5.2020 (Kursivdruck: Änderungsanweisung Art. 2 Nr. 5 Buchst. h DBuchst. aa bbb hätte richtig lauten müssen: "Die Buchstaben "z und ai" werden die Buchstaben "y und z".")  
-Anlage Abschn. I Nr. 10 Spalte A Buchst. a bis b DBuchst. ee: IdF d. Art. 53 Nr. 2 Buchst. a G v. 15.8.2019 I 1307 mWv 1.3.2020 (Kursivdruck: "Qualizierungsmaßnahme" müsste richtig "Qualifizierungsmaßnahme" lauten)
+Anlage Abschn. I Nr. 8 (Teil I) Spalte A Buchst. y (früher Buchst. z): Eingef. durch Art. 1 Nr. 15 Buchst. d DBuchst. dd V v. 11.12.2018 I 2424 mWv 15.9.2019; früherer Buchst. w wurde Buchst. y gem. Art. 1 Nr. 15 Buchst. d DBuchst. cc V v. 11.12.2018 I 2424 mWv 15.9.2019, Buchst. y aufgeh. u. früherer Buchst. z jetzt Buchst. y gem. Art. 2 Nr. 5 Buchst. h DBuchst. aa aaa u. bbb nach Maßgabe d. Art. 11 iVm. Art. 12 Abs. 6 G v. 4.8.2019 I 1131 mWv 1.5.2020 (Kursivdruck: Änderungsanweisung Art. 2 Nr. 5 Buchst. h DBuchst. aa bbb hätte richtig lauten müssen: "Die Buchstaben "z und ai" werden die Buchstaben "y und z".")

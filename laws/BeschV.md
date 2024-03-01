@@ -13,23 +13,33 @@
 
 4. die Zustimmung der Bundesagentur für Arbeit abweichend von § 39 Absatz 3 des Aufenthaltsgesetzes erteilt werden darf.
 
-(2) Die erstmalige Erteilung der Zustimmung der Bundesagentur für Arbeit setzt in den Fällen des § 24a und § 26 Absatz 2, in denen die Aufnahme der Beschäftigung nach Vollendung des 45. Lebensjahres der Ausländerin oder des Ausländers erfolgt, eine Höhe des Gehalts von mindestens 55 Prozent der jährlichen Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung voraus, es sei denn, der Ausländer kann den Nachweis über eine angemessene Altersversorgung erbringen. Von den Voraussetzungen nach Satz 1 kann nur in begründeten Ausnahmefällen, in denen ein öffentliches, insbesondere ein regionales, wirtschaftliches oder arbeitsmarktpolitisches Interesse an der Beschäftigung der Ausländerin oder des Ausländers besteht, abgesehen werden. Das Bundesministerium des Innern, für Bau und Heimat gibt das Mindestgehalt für jedes Kalenderjahr jeweils bis zum 31. Dezember des Vorjahres im Bundesanzeiger bekannt.
+(2) Die erstmalige Erteilung der Zustimmung der Bundesagentur für Arbeit setzt in den Fällen der §§ 6, 22a, 24a und 26 Absatz 2, in denen die Aufnahme der Beschäftigung nach Vollendung des 45. Lebensjahres der Ausländerin oder des Ausländers erfolgt, eine Höhe des Gehalts von mindestens 55 Prozent der jährlichen Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung voraus, es sei denn, die Ausländerin oder der Ausländer kann den Nachweis über eine angemessene Altersversorgung erbringen. Von den Voraussetzungen nach Satz 1 kann abgesehen werden, wenn ein öffentliches, insbesondere ein regionales, wirtschaftliches oder arbeitsmarktpolitisches Interesse an der Beschäftigung der Ausländerin oder des Ausländers besteht. Insbesondere kann von den Voraussetzungen nach Satz 1 abgesehen werden, wenn die Gehaltsschwelle nur geringfügig unterschritten oder die Altersgrenze nur geringfügig überschritten wird. In den Fällen des § 26 Absatz 2 kann von den Voraussetzungen nach Satz 1 nur in begründeten Ausnahmefällen abgesehen werden, wenn ein öffentliches Interesse nach Satz 2 besteht; Satz 3 findet keine Anwendung. Das Bundesministerium des Innern und für Heimat gibt das Mindestgehalt für jedes Kalenderjahr jeweils bis zum 31. Dezember des Vorjahres im Bundesanzeiger bekannt.
 
 # § 2 – Vermittlungsabsprachen
 
-(1) Für die Erteilung einer Aufenthaltserlaubnis nach § 16d Absatz 4 Nummer 1 des Aufenthaltsgesetzes kann Ausländerinnen und Ausländern die Zustimmung zur Ausübung einer Beschäftigung erteilt werden, deren Anforderungen in einem engen Zusammenhang mit den berufsfachlichen Kenntnissen stehen, die in dem nach der Anerkennung ausgeübten Beruf verlangt werden, wenn
+(1) Für die Erteilung einer Aufenthaltserlaubnis nach § 16d Absatz 4 Nummer 1 des Aufenthaltsgesetzes kann Ausländerinnen und Ausländern die Zustimmung zur Ausübung einer Beschäftigung erteilt werden, deren Anforderungen in einem Zusammenhang mit den berufsfachlichen Kenntnissen stehen, die in dem nach der Anerkennung ausgeübten Beruf verlangt werden, wenn
 
-1. ihnen ein konkretes Arbeitsplatzangebot für eine qualifizierte Beschäftigung in dem nach der Einreise anzuerkennenden Beruf im Gesundheits- und Pflegebereich vermittelt worden ist,
+1. soweit erforderlich, für diese Beschäftigung eine Berufsausübungserlaubnis erteilt wurde und
 
-2. soweit erforderlich, für diese Beschäftigung eine Berufsausübungserlaubnis erteilt wurde und
-
-3. sie erklären, nach der Einreise im Inland bei der nach den Regelungen des Bundes oder der Länder für die berufliche Anerkennung zuständigen Stelle das Verfahren zur Feststellung der Gleichwertigkeit ihrer ausländischen Berufsqualifikation und, soweit erforderlich, zur Erteilung der Berufsausübungserlaubnis durchzuführen.
+2. sie erklären, nach der Einreise im Inland bei der nach den Regelungen des Bundes oder der Länder für die berufliche Anerkennung zuständigen Stelle das Verfahren zur Feststellung der Gleichwertigkeit ihrer ausländischen Berufsqualifikation und, soweit erforderlich, zur Erteilung der Berufsausübungserlaubnis durchzuführen.
 
 Satz 1 gilt in den Fällen von § 16d Absatz 4 Nummer 2 des Aufenthaltsgesetzes auch für weitere im Inland reglementierte Berufe.
 
 (2) Für die Erteilung einer Aufenthaltserlaubnis bei nicht reglementierten Berufen nach § 16d Absatz 4 Nummer 2 des Aufenthaltsgesetzes kann Ausländerinnen und Ausländern die Zustimmung zur Ausübung einer qualifizierten Beschäftigung in ihrem anzuerkennenden Beruf erteilt werden, wenn sie erklären, dass sie nach der Einreise im Inland bei der nach den Regelungen des Bundes oder der Länder für die berufliche Anerkennung zuständigen Stelle das Verfahren zur Feststellung der Gleichwertigkeit ihrer Berufsqualifikation durchführen werden.
 
 (3) Die Zustimmung nach den Absätzen 1 und 2 wird für ein Jahr erteilt. Eine erneute Zustimmung kann nur erteilt werden, wenn das Verfahren zur Feststellung der Gleichwertigkeit der ausländischen Berufsqualifikation oder, soweit erforderlich, zur Erteilung der Berufsausübungserlaubnis bei der nach den Regelungen des Bundes oder der Länder für die berufliche Anerkennung zuständigen Stelle betrieben wird. Das Verfahren umfasst die Teilnahme an Qualifizierungsmaßnahmen einschließlich sich daran anschließender Prüfungen, die für die Feststellung der Gleichwertigkeit oder die Erteilung der Berufsausübungserlaubnis erforderlich sind.
+
+# § 2a – Anerkennungspartnerschaft
+
+(1) Die Zustimmung kann für eine Aufenthaltserlaubnis nach § 16d Absatz 3 des Aufenthaltsgesetzes erteilt werden, wenn die Anforderungen an die bis zur Feststellung der Gleichwertigkeit der Berufsqualifikation oder zur Erteilung der Berufsausübungserlaubnis ausgeübte Beschäftigung
+
+1. in einem berufsfachlichen Zusammenhang mit der ausländischen Berufsqualifikation stehen und
+
+2. ein Anerkennungsverfahren für einen Beruf in derselben Berufsgruppe erfolgen soll, in der die Beschäftigung ausgeübt wird.
+
+§ 2 Absatz 1 Satz 1 Nummer 1 gilt entsprechend.
+
+(2) Die Zustimmung wird für höchstens ein Jahr erteilt. Sie kann nur dann erneut erteilt werden, wenn das Verfahren zur Feststellung der Gleichwertigkeit der Berufsqualifikation oder zur Erteilung der Berufsausübungserlaubnis bei der für die berufliche Anerkennung zuständigen Stelle betrieben wird. Das Verfahren umfasst die Teilnahme an Qualifizierungsmaßnahmen einschließlich sich daran anschließender Prüfungen, die für die Feststellung der Gleichwertigkeit oder die Erteilung der Berufsausübungserlaubnis erforderlich sind. § 9 findet keine Anwendung.
 
 # § 3 – Leitende Angestellte, Führungskräfte und Spezialisten
 
@@ -57,17 +67,33 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
 5. Lehrkräfte zur Sprachvermittlung an Hochschulen.
 
-# § 6 – Beschäftigung in ausgewählten Berufen bei ausgeprägter berufspraktischer Erfahrung
+# § 6 – Beschäftigung bei ausgeprägter berufspraktischer Erfahrung
 
-Die Zustimmung kann Ausländerinnen und Ausländern für eine qualifizierte Beschäftigung in Berufen auf dem Gebiet der Informations- und Kommunikationstechnologie unabhängig von einer Qualifikation als Fachkraft erteilt werden, wenn die Ausländerin oder der Ausländer eine durch in den letzten sieben Jahren erworbene, mindestens dreijährige Berufserfahrung nachgewiesene vergleichbare Qualifikation besitzt, die Höhe des Gehalts mindestens 60 Prozent der jährlichen Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung beträgt und die Ausländerin oder der Ausländer über ausreichende deutsche Sprachkenntnisse verfügt. § 9 Absatz 1 findet keine Anwendung. Im begründeten Einzelfall kann auf den Nachweis deutscher Sprachkenntnisse verzichtet werden. Das Bundesministerium des Innern, für Bau und Heimat gibt das Mindestgehalt nach Satz 1 für jedes Kalenderjahr jeweils bis zum 31. Dezember des Vorjahres im Bundesanzeiger bekannt.
+(1) Die Zustimmung zur Ausübung einer inländischen qualifizierten Beschäftigung kann Ausländerinnen und Ausländern erteilt werden, wenn die Ausländerin oder der Ausländer über Folgendes verfügt:
+
+1. eine in den letzten fünf Jahren erworbene, mindestens zweijährige Berufserfahrung, die die Ausländerin oder den Ausländer zu der Beschäftigung befähigt,
+
+2. einen Arbeitsplatz, bei dem die Höhe des Gehalts mindestens 45 Prozent der jährlichen Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung beträgt, oder ein Angebot für einen solchen Arbeitsplatz und
+
+3. eine der folgenden Qualifikationen:
+
+a) eine ausländische Berufsqualifikation, die von dem Staat, in dem sie erworben wurde, staatlich anerkannt ist und deren Erlangung eine Ausbildungsdauer von mindestens zwei Jahren vorausgesetzt hat,
+
+b) einen ausländischen Hochschulabschluss, der von dem Staat, in dem er erworben wurde, staatlich anerkannt ist, oder
+
+c) einen im Ausland erworbenen Berufsabschluss, der durch eine Ausbildung erworben wurde, die nach Inhalt, Dauer und der Art ihrer Durchführung die Anforderungen des Berufsbildungsgesetzes an eine Berufsausbildung einhält und geeignet ist, die notwendige berufliche Handlungsfähigkeit für einen Ausbildungsberuf nach dem Berufsbildungsgesetz oder der Handwerksordnung zu vermitteln, und der von einer deutschen Auslandshandelskammer erteilt worden ist.
+
+Ist der Arbeitgeber tarifgebunden und beschäftigt er die Ausländerin oder den Ausländer zu den bei ihm geltenden tariflichen Arbeitsbedingungen, findet die Gehaltsschwelle nach Satz 1 Nummer 2 Halbsatz 2 keine Anwendung. In Berufen auf dem Gebiet der Informations- und Kommunikationstechnologie findet Satz 1 Nummer 3 keine Anwendung. Der Ausländer ist verpflichtet, sich das Vorliegen der Voraussetzungen nach Satz 1 Nummer 3 Buchstabe a oder b von einer fachkundigen inländischen Stelle bestätigen zu lassen. Das Vorliegen der nach Satz 1 Nummer 3 Buchstabe c an die Ausbildung im Ausland gestellten Anforderungen ist gegenüber der abschlusserteilenden Stelle auf deren Antrag und Kosten zu bestätigen.
+
+(2) § 9 findet keine Anwendung. Das Bundesministerium des Innern und für Heimat gibt das Mindestgehalt nach Absatz 1 Satz 1 für jedes Kalenderjahr jeweils bis zum 31. Dezember des Vorjahres im Bundesanzeiger bekannt.
 
 # § 7 – (weggefallen)
 
 # § 8 – Betriebliche Aus- und Weiterbildung; Anerkennung ausländischer Berufsqualifikationen
 
-(1) Die Zustimmung kann mit Vorrangprüfung für die Erteilung eines Aufenthaltstitels nach § 16a Absatz 1 des Aufenthaltsgesetzes erteilt werden.
+(1) Die Zustimmung kann für die Erteilung eines Aufenthaltstitels nach § 16a Absatz 1 des Aufenthaltsgesetzes erteilt werden.
 
-(2) Die Zustimmung kann für die Erteilung einer Aufenthaltserlaubnis nach § 16d Absatz 1 Satz 2 Nummer 3, Absatz 2 und 3 des Aufenthaltsgesetzes erteilt werden.
+(2) Die Zustimmung kann für die Erteilung einer Aufenthaltserlaubnis nach § 16d Absatz 1 Satz 2 Nummer 3 und Absatz 2 des Aufenthaltsgesetzes erteilt werden.
 
 (3) Ist für eine qualifizierte Beschäftigung
 
@@ -147,7 +173,7 @@ kann erteilt werden, wenn diese Personen vor ihrer Einreise die Hausangestellte 
 
 (1a) Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an vorwiegend aus religiösen Gründen Beschäftigte, die über hinreichende deutsche Sprachkenntnisse verfügen. Wenn es dem aus religiösen Gründen Beschäftigten auf Grund besonderer Umstände des Einzelfalles nicht möglich oder nicht zumutbar ist, vor der Einreise Bemühungen zum Erwerb hinreichender Kenntnisse der deutschen Sprache zu unternehmen, oder in Abwägung der Gesamtumstände das Sprachnachweiserfordernis im Einzelfall eine besondere Härte darstellen würde, bedarf die erstmalige Erteilung eines Aufenthaltstitels trotz fehlender einfacher deutscher Sprachkenntnisse keiner Zustimmung. Im Fall des Satzes 2 sind innerhalb eines Zeitraums von weniger als einem Jahr nach Einreise hinreichende deutsche Sprachkenntnisse nachzuweisen. Aus vorwiegend religiösen Gründen Beschäftigte, die wegen ihrer Staatsangehörigkeit auch für einen Aufenthalt, der kein Kurzaufenthalt ist, visumfrei in das Bundesgebiet einreisen und sich darin aufhalten dürfen, sind vom Erfordernis der Sprachkenntnisse befreit.
 
-(2) Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an Studierende sowie Schülerinnen und Schüler ausländischer Hochschulen und Fachschulen zur Ausübung einer Ferienbeschäftigung von bis zu 90 Tagen innerhalb eines Zeitraums von zwölf Monaten, die von der Bundesagentur für Arbeit vermittelt worden ist.
+(2) Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an Studierende ausländischer Hochschulen bis zur Vollendung des 35. Lebensjahres zur Ausübung einer Ferienbeschäftigung von bis zu 90 Tagen innerhalb eines Zeitraums von zwölf Monaten, die von der Bundesagentur für Arbeit vermittelt worden ist.
 
 # § 15 – Praktika zu Weiterbildungszwecken
 
@@ -163,9 +189,11 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels für ein Praktiku
 
 5. an Fach- und Führungskräfte, die ein Stipendium aus öffentlichen deutschen Mitteln, Mitteln der Europäischen Union oder Mitteln internationaler zwischenstaatlicher Organisationen erhalten,
 
-6. mit einer Dauer von bis zu einem Jahr während eines Studiums an einer ausländischen Hochschule, das nach dem vierten Semester studienfachbezogen im Einvernehmen mit der Bundesagentur für Arbeit ausgeübt wird, oder
+6. mit einer Dauer von bis zu einem Jahr während eines Studiums an einer ausländischen Hochschule, das nach dem vierten Semester studienfachbezogen im Einvernehmen mit der Bundesagentur für Arbeit ausgeübt wird,
 
-7. von Schülerinnen und Schülern deutscher Auslandsschulen mit einer Dauer von bis zu sechs Wochen.
+7. von Schülerinnen und Schülern sowie Schulabsolventinnen und Schulabsolventen deutscher Auslandsschulen mit einer Dauer von bis zu sechs Wochen oder
+
+8. von Schülerinnen und Schülern sowie Schulabsolventinnen und Schulabsolventen anderer allgemeinbildender ausländischer Schulen mit einer Dauer von bis zu sechs Wochen, wenn sie über ausreichende deutsche Sprachkenntnisse verfügen.
 
 # § 15a – Saisonabhängige Beschäftigung
 
@@ -221,9 +249,9 @@ Stellt der Arbeitgeber der oder dem Saisonbeschäftigten eine Unterkunft zur Ver
 
 7. das Unternehmen des Arbeitgebers keine Geschäftstätigkeit ausübt.
 
-Die Arbeitserlaubnis oder die Zustimmung ist zu versagen, wenn die durch die Bundesagentur für Arbeit festgelegte Zahl der Arbeitserlaubnisse und Zustimmungen für den maßgeblichen Zeitraum erreicht ist. § 39 Absatz 3 des Aufenthaltsgesetzes bleibt unberührt.
+Die Arbeitserlaubnis oder die Zustimmung ist zu versagen, wenn die durch die Bundesagentur für Arbeit festgelegte Zahl der Arbeitserlaubnisse und Zustimmungen für den maßgeblichen Zeitraum erreicht ist. § 39 Absatz 3 des Aufenthaltsgesetzes bleibt unberührt. Die Arbeitserlaubnis oder die Zustimmung kann versagt oder die Arbeitserlaubnis entzogen werden, wenn der Arbeitgeber seinen sozialversicherungsrechtlichen, steuerrechtlichen oder arbeitsrechtlichen Pflichten nicht nachgekommen ist. § 40 Absatz 1 und 2 und § 41 des Aufenthaltsgesetzes gelten fort.
 
-(4) Die Arbeitserlaubnis ist vom Arbeitgeber bei der Bundesagentur für Arbeit zu beantragen.
+(4) Die Arbeitserlaubnis ist vom Arbeitgeber bei der Bundesagentur für Arbeit zu beantragen. Die Ausländerin oder der Ausländer muss spätestens bei Aufnahme der Beschäftigung im Besitz der Arbeitserlaubnis sein.
 
 (5) Bei einer ein- oder mehrmaligen Verlängerung des Beschäftigungsverhältnisses bei demselben oder einem anderen Arbeitgeber kann eine weitere Arbeitserlaubnis erteilt werden, soweit die in Absatz 1 Satz 1 Nummer 1 genannte Höchstdauer nicht überschritten wird.
 
@@ -236,6 +264,36 @@ Die Zustimmung zu einem Aufenthaltstitel zur Ausübung einer Beschäftigung im S
 # § 15c – Haushaltshilfen
 
 Die Zustimmung zu einem Aufenthaltstitel zur Ausübung einer versicherungspflichtigen Vollzeitbeschäftigung bis zu drei Jahren für hauswirtschaftliche Arbeiten und notwendige pflegerische Alltagshilfen in Haushalten mit Pflegebedürftigen im Sinne des Elften Buches Sozialgesetzbuch kann mit Vorrangprüfung erteilt werden, wenn die betreffenden Personen auf Grund einer Absprache der Bundesagentur für Arbeit mit der Arbeitsverwaltung des Herkunftslandes über das Verfahren und die Auswahl vermittelt worden sind. Innerhalb des Zulassungszeitraums von drei Jahren kann die Zustimmung zum Wechsel des Arbeitgebers erteilt werden. Für eine erneute Beschäftigung nach der Ausreise darf die Zustimmung nach Satz 1 nur erteilt werden, wenn sich die betreffende Person nach der Ausreise mindestens so lange im Ausland aufgehalten hat, wie sie zuvor im Inland beschäftigt war.
+
+# § 15d – Kurzzeitige kontingentierte Beschäftigung
+
+(1) Die Bundesagentur für Arbeit kann Ausländerinnen und Ausländern zur Ausübung jeder inländischen Beschäftigung von regelmäßig mindestens 30 Stunden wöchentlich
+
+1. eine Arbeitserlaubnis für die Dauer von bis zu 90 Tagen je Zeitraum von 180 Tagen erteilen, wenn es sich um Staatsangehörige eines in Anhang II der Verordnung (EU) 2018/1806 genannten Staates handelt, oder
+
+2. die Zustimmung zu einem Aufenthaltstitel erteilen, wenn
+
+a) die Aufenthaltsdauer mehr als 90 Tage je Zeitraum von 180 Tagen beträgt oder
+
+b) es sich um Staatsangehörige eines in Anhang I der Verordnung (EU) 2018/1806 genannten Staates handelt.
+
+Die Zustimmung oder Arbeitserlaubnis setzt voraus, dass die Bundesagentur für Arbeit eine am Bedarf orientierte Zulassungszahl (Kontingent) festgelegt hat und das Kontingent noch nicht ausgeschöpft ist. Die Festlegung kann sich insbesondere auf bestimmte Wirtschaftszweige oder Berufsgruppen beziehen oder diese ausschließen. Die Bundesagentur für Arbeit kann die Festlegung entsprechend des arbeitsmarktlichen Bedarfs jederzeit ändern. Die Bundesagentur für Arbeit kann die Zustimmung oder die Arbeitserlaubnis versagen, wenn sie für einzelne Berufsgruppen oder Wirtschaftszweige festgestellt hat, dass sich aus der Besetzung offener Stellen mit ausländischen Bewerberinnen oder Bewerbern nachteilige Auswirkungen auf den Arbeitsmarkt, insbesondere hinsichtlich der Beschäftigungsstruktur, der Region oder eines Wirtschaftszweiges, ergeben.
+
+(2) Die Zustimmung oder die Arbeitserlaubnis setzt weiter voraus, dass der Arbeitgeber
+
+1. gemäß § 3 oder § 5 des Tarifvertragsgesetzes an einen Tarifvertrag gebunden ist, der die Entlohnung für die angestrebte Tätigkeit der Ausländerin oder des Ausländers regelt,
+
+2. die Ausländerin oder den Ausländer zu den geltenden tariflichen Arbeitsbedingungen beschäftigt,
+
+3. die erforderlichen Reisekosten trägt und
+
+4. Ausländerinnen und Ausländer aufgrund dieser Vorschrift an höchstens zehn innerhalb von zwölf Monaten in dem Einsatzbetrieb beschäftigt.
+
+(3) Die Beschäftigung darf acht Monate innerhalb eines Zeitraums von zwölf Monaten nicht überschreiten. Im Fall des § 39 Satz 1 Nummer 11 der Aufenthaltsverordnung gilt die Zustimmung als erteilt, bis über sie entschieden ist.
+
+(4) Die Arbeitserlaubnis ist vom Arbeitgeber bei der Bundesagentur für Arbeit zu beantragen. Die Ausländerin oder der Ausländer muss spätestens bei Aufnahme der Beschäftigung im Besitz der Arbeitserlaubnis sein.
+
+(5) Bei einer ein- oder mehrmaligen Verlängerung des Beschäftigungsverhältnisses kann eine weitere Arbeitserlaubnis erteilt werden, soweit die in Absatz 1 Satz 1 Nummer 1 genannte Höchstdauer nicht überschritten wird. Dies gilt auch für ein Beschäftigungsverhältnis bei einem anderen Arbeitgeber.
 
 # § 16 – Geschäftsreisende
 
@@ -336,6 +394,16 @@ c) der für den eSport zuständige deutsche Spitzenverband die berufsmäßige Au
 8. Dolmetscherinnen und Dolmetscher, die unter Beibehaltung ihres gewöhnlichen Aufenthaltes im Ausland für ein Unternehmen mit Sitz im Ausland an Besprechungen oder Verhandlungen im Inland teilnehmen, wenn die Dauer der Tätigkeit 90 Tage innerhalb eines Zeitraums von zwölf Monaten nicht übersteigt, oder
 
 9. Hausangestellte, die unter Beibehaltung ihres gewöhnlichen Aufenthaltes im Ausland ihren Arbeitgeber oder dessen Familienangehörige mit gewöhnlichem Aufenthalt im Ausland für eine Dauer von bis zu 90 Tagen innerhalb eines Zeitraums von zwölf Monaten in das Inland begleiten.
+
+# § 22a – Beschäftigung von Pflegehilfskräften
+
+Die Zustimmung kann Ausländerinnen und Ausländern für eine inländische Beschäftigung als Pflegehilfskraft erteilt werden, wenn sie die durch Bundes- oder Landesrecht bestimmten Voraussetzungen zur Ausübung einer Pflegehilfstätigkeit erfüllen, und
+
+1. sie über eine nach bundes- oder landesrechtlichen Vorschriften geregelte, staatlich anerkannte Ausbildung in einer Pflegehilfstätigkeit verfügen oder
+
+2. die nach den Regelungen der Länder zuständige Stelle die Gleichwertigkeit ihrer im Ausland erworbenen Berufsqualifikation zu einer Ausbildung nach Nummer 1 festgestellt hat.
+
+§ 9 findet keine Anwendung.
 
 # § 23 – Internationale Sportveranstaltungen
 
@@ -496,6 +564,22 @@ Die Erteilung der Erlaubnis zur Beschäftigung an Ausländerinnen und Ausländer
 (2) Die Zustimmung zur Ausübung einer Beschäftigung gilt als erteilt, wenn die Bundesagentur für Arbeit der zuständigen Stelle nicht innerhalb von zwei Wochen nach Übermittlung der Zustimmungsanfrage mitteilt, dass die übermittelten Informationen für die Entscheidung über die Zustimmung nicht ausreichen oder dass der Arbeitgeber die erforderlichen Auskünfte nicht oder nicht rechtzeitig erteilt hat. In den Fällen des § 18g Absatz 4 und des § 81a des Aufenthaltsgesetzes verkürzt sich die Frist nach Satz 1 auf eine Woche.
 
 (3) Die Bundesagentur für Arbeit soll bereits vor der Übermittlung der Zustimmungsanfrage der Ausübung der Beschäftigung gegenüber der zuständigen Stelle zustimmen oder prüfen, ob die arbeitsmarktbezogenen Voraussetzungen für eine spätere Zustimmung vorliegen, wenn der Arbeitgeber die hierzu erforderlichen Auskünfte erteilt hat und das Verfahren dadurch beschleunigt wird.
+
+(4) Ein Arbeitgeber kann für eine Dauer von bis zu fünf Jahren von der Möglichkeit ausgeschlossen werden, dass die Bundesagentur für Arbeit eine Zustimmung oder eine Arbeitserlaubnis für die Beschäftigung einer Ausländerin oder eines Ausländers bei diesem Arbeitgeber erteilt, wenn
+
+1. der Arbeitgeber eine oder mehrere Ausländerinnen oder einen oder mehrere Ausländer wiederholt zu ungünstigeren Arbeitsbedingungen als vergleichbare inländische Arbeitnehmerinnen und Arbeitnehmer beschäftigt oder beschäftigt hat,
+
+2. der Arbeitgeber seinen sozialversicherungsrechtlichen, steuerrechtlichen oder arbeitsrechtlichen Pflichten in schwerwiegender Weise nicht nachgekommen ist,
+
+3. der Arbeitgeber oder sein nach Satzung oder Gesetz Vertretungsberechtigter innerhalb der letzten fünf Jahre wegen eines Verstoßes gegen § 404 Absatz 1 oder Absatz 2 Nummer 3 des Dritten Buches Sozialgesetzbuch rechtskräftig mit einer Geldbuße belegt oder wegen eines Verstoßes gegen die §§ 10, 10a oder 11 des Schwarzarbeiterbekämpfungsgesetzes oder gegen die §§ 15, 15a oder 16 Absatz 1 Nummer 2 des Arbeitnehmerüberlassungsgesetzes rechtskräftig zu einer Geld- oder Freiheitsstrafe verurteilt worden ist,
+
+4. der Arbeitgeber durch die Präsenz der Ausländerin oder des Ausländers in schwerwiegender Weise eine Einflussnahme auf arbeitsrechtliche oder betriebliche Auseinandersetzungen oder Verhandlungen bezweckt oder bewirkt oder bezweckt hat oder bewirkt hat oder
+
+5. der Arbeitgeber in der Vergangenheit Arbeitsverhältnisse mit einer Ausländerin oder mehreren Ausländerinnen oder einem Ausländer oder mehreren Ausländern hauptsächlich zu dem Zweck begründet hat, die Einreise und den Aufenthalt von Ausländerinnen oder Ausländern zu anderen Zwecken als der Beschäftigung zu erleichtern, für die eine Zustimmung oder Arbeitserlaubnis erteilt wurde. Satz 1 Nummer 5 gilt auch, wenn sich der Ausländer oder die Ausländerin zustimmungs- oder arbeitserlaubnisfrei aufhielt und eine andere Beschäftigung ausgeübt hat, als die, die der Befreiung zugrunde gelegen hat.
+
+Der Ausschluss gilt auch für Vermittlungen nach § 14 Absatz 2 oder für Einvernehmen nach § 15 Nummer 4 und 6.
+
+§ 36 Abs. 4: Eingef. durch Art. 2 Nr. 11 V v. 30.8.2023 I Nr. 233 mWv 1.3.2024; Kursivdruck: Müsste richtig "Schwarzarbeitsbekämpfungsgesetz" lauten
 
 # § 37 – Härtefallregelung
 

@@ -219,6 +219,8 @@ Nach der Übertragung sind die mit dem Wertguthaben verbundenen Arbeitgeberpflic
 
 (2) Bei der Anwendung des Absatzes 1 sind mehrere geringfügige Beschäftigungen nach Nummer 1 oder Nummer 2 sowie geringfügige Beschäftigungen nach Nummer 1 mit Ausnahme einer geringfügigen Beschäftigung nach Nummer 1 und nicht geringfügige Beschäftigungen zusammenzurechnen. Eine geringfügige Beschäftigung liegt nicht mehr vor, sobald die Voraussetzungen des Absatzes 1 entfallen. Wird beim Zusammenrechnen nach Satz 1 festgestellt, dass die Voraussetzungen einer geringfügigen Beschäftigung nicht mehr vorliegen, tritt die Versicherungspflicht erst mit dem Tag ein, an dem die Entscheidung über die Versicherungspflicht nach § 37 des Zehnten Buches durch die Einzugsstelle nach § 28i Satz 5 oder einen anderen Träger der Rentenversicherung bekannt gegeben wird. Dies gilt nicht, wenn der Arbeitgeber vorsätzlich oder grob fahrlässig versäumt hat, den Sachverhalt für die versicherungsrechtliche Beurteilung der Beschäftigung aufzuklären.
 
+(2a) Absatz 1 Nummer 2 gilt nicht für aufgrund der Beschäftigungsverordnung zugelassene kontingentierte kurzzeitige Beschäftigungen.
+
 (3) Die Absätze 1, 1a und 2 gelten entsprechend, soweit anstelle einer Beschäftigung eine selbständige Tätigkeit ausgeübt wird. Dies gilt nicht für das Recht der Arbeitsförderung.
 
 (+++ Hinweis: Zur Höhe der Geringfügigkeitsgrenze nach § 8 Abs. 1a ab dem 1.10.2022 vgl. Bek. v. 19.8.2022 BAnz AT 05.09.2022 B1, ab dem 1.1.2024 u. ab dem 1.1.2025 vgl. Bek. v. 30.11.2023 BAnz AT 07.12.2023 B1 +++)

@@ -133,7 +133,7 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 
 1. Unterlagen, aus denen die nach Absatz 1 Satz 1 Nr. 3, 9 und 17 erforderlichen Angaben ersichtlich sind,
 
-2. (weggefallen)
+2. die Arbeitserlaubnis der Bundesagentur für Arbeit nach § 15d der Beschäftigungsverordnung oder der nach § 19c Absatz 1 des Aufenthaltsgesetzes in Verbindung mit § 15d der Beschäftigungsverordnung erteilte Aufenthaltstitel,
 
 3. die Daten der erstatteten Meldungen,
 
