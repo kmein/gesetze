@@ -111,4 +111,4 @@ Bei automatisiert geführten Aufzeichnungen sind die in Satz 1 genannten Auskunf
 
 (1) Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
-(2) Sie tritt mit Ablauf des 6. April 2024 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird.
+(2) Sie tritt mit Ablauf des 31. Dezember 2025 außer Kraft. Sie ist auf Sachverhalte, die vor diesem Tag eingetreten sind, weiter anzuwenden.
