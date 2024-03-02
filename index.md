@@ -1722,9 +1722,9 @@
 - [ElektroG](laws/ElektroG.md) Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Elektro- und Elektronikgeräten
 - [ElektroG2015ÄndG 1](laws/ElektroG2015ÄndG_1.md) Erstes Gesetz zur Änderung des Elektro- und Elektronikgerätegesetzes*
 - [ElektroGBattGGebV](laws/ElektroGBattGGebV.md) Gebührenverordnung zum Elektro- und Elektronikgerätegesetz und zum Batteriegesetz
-- [ElektroMbMstrV](laws/ElektroMbMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Elektromaschinenbauer-Handwerk
+- [ElektroMbMstrV](laws/ElektroMbMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Elektromaschinenbauer-Handwerk
 - [ElektroStoffV](laws/ElektroStoffV.md) Verordnung zur Beschränkung der Verwendung gefährlicher Stoffe in Elektro- und Elektronikgeräten 1 , 2
-- [ElektroTechMstrV](laws/ElektroTechMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Elektrotechniker-Handwerk
+- [ElektroTechMstrV](laws/ElektroTechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Elektrotechniker-Handwerk
 - [ElekZeugnV](laws/ElekZeugnV.md) Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule für Elektrotechnik in Bremen mit den Zeugnissen über das Bestehen der Abschlußprüfung in Ausbildungsberufen
 - [ElmV](laws/ElmV.md) Verordnung über die Verwendung von Extraktionslösungsmitteln bei der Herstellung von Lebensmitteln
 - [EltLastV](laws/EltLastV.md) Verordnung über die Sicherstellung der Elektrizitätsversorgung
@@ -2877,7 +2877,7 @@
 - [InfoElekAusbErprbV](laws/InfoElekAusbErprbV.md) Verordnung über die Erprobung abweichender Prüfungsbestimmungen in der Berufsausbildung zum Informationselektroniker und zur Informationselektronikerin
 - [InfoElekAusbV](laws/InfoElekAusbV.md) Verordnung über die Berufsausbildung zum Informationselektroniker und zur Informationselektronikerin*
 - [InfoGesStatG](laws/InfoGesStatG.md) Gesetz über die Statistik zur Informationsgesellschaft
-- [InformationsTechMstrV](laws/InformationsTechMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Informationstechniker-Handwerk
+- [InformationsTechMstrV](laws/InformationsTechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Informationstechniker-Handwerk
 - [InfrGG](laws/InfrGG.md) Gesetz zur Errichtung einer Infrastrukturgesellschaft für Autobahnen und andere Bundesfernstraßen
 - [InfrGGBV](laws/InfrGGBV.md) Verordnung über die Beleihung der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes
 - [InhKontrollV](laws/InhKontrollV.md) Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 17 des Versicherungsaufsichtsgesetzes *)
@@ -5693,6 +5693,7 @@
 - [TVMindestbedingungen FlWi 2](laws/TVMindestbedingungen_FlWi_2.md) Rechtsnormen des Bundeseinheitlichen Tarifvertrags zur Regelung der Mindestbedingungen für Arbeitnehmer in der Fleischwirtschaft der Bundesrepublik Deutschland (TV Mindestbedingungen) vom 27. Mai 2021
 - [TVMindestlohn Gerüstb 8](laws/TVMindestlohn_Gerüstb_8.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. August 2023
 - [TVMindestlohn Maler 11](laws/TVMindestlohn_Maler_11.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 16. Dezember 2022
+- [TVMindestlohnDachd 12](laws/TVMindestlohnDachd_12.md) Rechtsnormen des Tarifvertrages zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. September 2023
 - [TVMindestlohnGebäude 2022](laws/TVMindestlohnGebäude_2022.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 2. Juni 2022
 - [TVMindestlohnPäda 6](laws/TVMindestlohnPäda_6.md) Rechtsnormen des Tarifvertrags Nr. 7 zur Regelung des Mindestlohns für pädagogisches Personal vom 27. Juli 2022
 - [TWirtAusbStEignV 2005](laws/TWirtAusbStEignV_2005.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Tierwirt/zur Tierwirtin
@@ -6627,6 +6628,7 @@
 - [11. RAG](laws/11._RAG.md) Elftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [11. RAV](laws/11._RAV.md) Verordnung zur elften Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1996
 - [12. BImSchV](laws/12._BImSchV.md) Zwölfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+- [12. DachdArbbV](laws/12._DachdArbbV.md) Zwölfte Verordnung über zwingende Arbeitsbedingungen im Dachdeckerhandwerk
 - [12. ProdSV](laws/12._ProdSV.md) Zwölfte Verordnung zum Produktsicherheitsgesetz 1
 - [12. RAG](laws/12._RAG.md) Zwölftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (Art. 4 d. Dritten Rentenversicherungs- Änderungsgesetzes - 3. RVÄndG)
 - [13. BImSchV](laws/13._BImSchV.md) Dreizehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes

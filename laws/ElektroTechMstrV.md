@@ -1,218 +1,392 @@
-% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Elektrotechniker-Handwerk  (Elektrotechnikermeisterverordnung - ElektroTechMstrV)
-% Ausfertigungsdatum: 17.06.2002
+% Verordnung über die Meisterprüfung in den Teilen I und II im Elektrotechniker-Handwerk  (Elektrotechnikermeisterverordnung - ElektroTechMstrV)
+% Ausfertigungsdatum: 21.02.2024
  
-# Eingangsformel
+# § 1 – Gegenstand
 
-Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in den Teilen I und II der Meisterprüfung zu stellenden Anforderungen sowie die Bestimmungen zur Durchführung der Meisterprüfung im Elektrotechniker-Handwerk in folgenden Schwerpunkten:
 
-# § 1 – Gliederung und Inhalt der Meisterprüfung
+1. Energie- und Gebäudetechnik,
 
-(1) Die Meisterprüfung im Elektrotechniker-Handwerk umfasst folgende selbständige Prüfungsteile:
+2. Automatisierungs- und Systemtechnik sowie
 
-1. die Prüfung der meisterhaften Verrichtung der gebräuchlichen Arbeiten (Teil I),
-
-2. die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
-
-3. die Prüfung der erforderlichen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
-
-4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
-
-(2) Für die Meisterprüfung in Teil I im Elektrotechniker-Handwerk werden die Schwerpunkte Energie- und Gebäudetechnik, Kommunikations- und Sicherheitstechnik sowie Systemelektronik gebildet; der Prüfling hat einen dieser Schwerpunkte auszuwählen.
+3. Gebäudesystemintegration.
 
 # § 2 – Meisterprüfungsberufsbild
 
-(1) Durch die Meisterprüfung im Elektrotechniker-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
+In den Teilen I und II der Meisterprüfung im Elektrotechniker-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
-(2) Allen Schwerpunkten im Elektrotechniker-Handwerk werden zum Zwecke der Meisterprüfung folgende gemeinsame Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
+1. einen Betrieb im Elektrotechniker-Handwerk führen und organisieren und dabei technische, kaufmännische und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung
 
-1. Kundenwünsche ermitteln, Kunden beraten, Leistungen kalkulieren und Angebote erstellen, Auftragsverhandlungen führen und Auftragsziele festlegen,
+a) der Kostenstrukturen,
 
-2. Aufgaben der technischen und kaufmännischen Betriebsführung, der Betriebsorganisation, der Personalplanung und des Personaleinsatzes wahrnehmen, insbesondere unter Berücksichtigung der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, der Haftung sowie des Arbeitsschutzes, der Arbeitssicherheit, des Datenschutzes und des Umweltschutzes; Informationssysteme nutzen,
+b) der Wettbewerbssituation,
 
-3. Aufträge durchführen unter Berücksichtigung von Systemtechnik, Instandhaltungsalternativen, topografischen Bedingungen, berufsbezogenen Gesetzen, Normen, Regeln und Vorschriften, Personalbedarf und Ausbildung; Auftragsbearbeitung und Auftragsabwicklung organisieren, planen und überwachen,
+c) der für den Betrieb wesentlichen Ausbildung, Fort- und Weiterbildung des Personals,
 
-4. Dokumentationen, insbesondere unter Einsatz von rechnergestützten Systemen erstellen,
+d) der Betriebsorganisation,
 
-5. Werkstoffeigenschaften bei Planung, Konstruktion und Ausführung berücksichtigen,
+e) des Qualitätsmanagements,
 
-6. elektrotechnische Anlagen, insbesondere unter Berücksichtigung sicherheits- und gesundheitsrelevanter Vorsorgemaßnahmen entwickeln, planen, herstellen, programmieren, parametrieren, errichten und instand halten; Techniken zur rationellen Energieanwendung berücksichtigen und anwenden,
+f) des Arbeitsschutzrechtes,
 
-7. Mess- und Prüftechniken anwenden, Ergebnisse beurteilen und dokumentieren,
+g) des Datenschutzes, der Datensicherheit und der Datenverarbeitung,
 
-8. Verträge konzipieren; Standardverträge, insbesondere Serviceverträge entwickeln und pflegen,
+h) der ökologischen, ökonomischen sowie der sozialen Nachhaltigkeit sowie
 
-9. Fehler- und Störungssuche durchführen, Maßnahmen zur Beseitigung von Fehlern und Störungen beherrschen, Ergebnisse bewerten und dokumentieren,
+i) technologischer Entwicklungen sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien,
 
-10. Leistungen abnehmen und protokollieren, dem Kunden übergeben, abrechnen und Nachkalkulation durchführen.
+2. Konzepte für Betriebsausstattung sowie Lagerausstattung und für logistische Geschäfts- und Arbeitsprozesse entwickeln und umsetzen,
 
-(3) Den einzelnen Schwerpunkten im Elektrotechniker-Handwerk werden zum Zwecke der Meisterprüfung folgende spezifische Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
+3. Kundenwünsche und jeweilige Rahmenbedingungen ermitteln, Anforderungen ableiten, Kundinnen und Kunden beraten sowie über Fördermöglichkeiten informieren, Serviceleistungen anbieten, Lösungen entwickeln, Verhandlungen führen und Ziele festlegen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen,
 
-1. Schwerpunkt Energie- und Gebäudetechnik
+4. Messverfahren sowie Analyseverfahren zur Feststellung der Rahmenbedingungen an Systemen der Elektrotechnik auswählen, anwenden und bewerten,
 
-Anlagen und Anlagenkomponenten der Energie- und Gebäudetechnik, insbesondere zur Erzeugung, Fortleitung, Umwandlung und Abgabe der elektrischen Energie, Erdungs-, Blitzschutz-, Überspannungsschutz- und Antennenanlagen, Beleuchtungs-, Wärme-, Kälte- und Klimaanlagen, Gebäudeautomatisierung, Bustechnologie, Signalübertragungstechnik, Techniken zur rationellen Energieanwendung sowie deren elektrische und elektronische Betriebsmittel planen, berechnen, bauen, programmieren, parametrieren, errichten, prüfen, in Betrieb nehmen und instand halten;
+5. auftragsbezogene Unterlagen und Bestimmungen, insbesondere des Baurechts sowie des Datenschutzes, auswerten und beim Planen, Durchführen und Kontrollieren der Aufträge berücksichtigen,
 
-2. Schwerpunkt Kommunikations- und Sicherheitstechnik
+6. Konzepte, Pläne und technische Dokumentationen für Systeme der Elektrotechnik, auch unter Einsatz von Informations- und Kommunikationstechnologien, erarbeiten, bewerten und anpassen,
 
-Anlagen und Anlagenkomponenten der Kommunikations- und Sicherheitstechnik, insbesondere der Telekommunikationstechnik, der Elektro-Akustik, der Datenübertragungs- und Verarbeitungstechnik, der Fernwirktechnik, der Ruf- und Signaltechnik, der Gefahrenmeldetechnik, der Notfallwarnsystemtechnik, der Videotechnik, der Krankenhauskommunikationstechnik, der Zutrittskontrolltechnik sowie Zeitdienstsysteme planen, berechnen, bauen, programmieren, parametrieren, errichten, prüfen, in Betrieb nehmen und instand halten;
+7. Geschäfts- und Arbeitsprozesse zur Leistungserbringung planen, organisieren und überwachen,
 
-3. Schwerpunkt Systemelektronik
+8. Leistungen im Elektrotechniker-Handwerk in den folgenden Schwerpunkten erbringen:
 
-Anlagen und Anlagenkomponenten der Systemelektronik, insbesondere der Mess-, Steuerungs-, Regelungs- und Antriebstechnik, der Prüf- und Zähltechnik, der Medizin- und Labortechnik sowie Verfahren der Systemintegration und Softwareintegration entwickeln, planen, berechnen, bauen, programmieren, parametrieren, errichten, prüfen, in Betrieb nehmen und instand halten.
+a) im Schwerpunkt Energie- und Gebäudetechnik
 
-# § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
+aa)  
+Systeme der Energie- und Gebäudetechnik, insbesondere zur energieeffizienten Erzeugung, energieeffizienten Fortleitung, energieeffizienten Umwandlung, energieeffizienten Speicherung sowie energieeffizienten Abgabe der elektrischen Energie, planen, errichten sowie instand halten,
 
-(1) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
+bb)  
+Überspannungsschutzanlagen sowie Antennenanlagen, Beleuchtungsanlagen, Wärmeanlagen, Kälteanlagen und Klimaanlagen, Gebäudeautomatisierung, Bustechnologie, Informations- und Kommunikationstechnologie sowie deren elektrische Betriebsmittel sowie deren elektronische Betriebsmittel planen, berechnen, errichten, programmieren, parametrieren, prüfen, in Betrieb nehmen und instand halten,
 
-1. ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch,
+cc) Erdungsanlagen sowie Blitzschutzanlagen planen, berechnen, errichten, prüfen, in Betrieb nehmen und instand halten,
 
-2. eine Situationsaufgabe.
+b) im Schwerpunkt Automatisierungs- und Systemtechnik energieeffiziente Anlagen und Anlagenkomponenten der Automatisierungstechnik und der Systemtechnik, insbesondere der Messtechnik, der Steuerungstechnik, der Regelungstechnik sowie der Antriebstechnik, der Prüftechnik sowie der Zähltechnik entwickeln, planen, berechnen, errichten, programmieren, parametrieren, prüfen, in Betrieb nehmen und instand halten,
 
-(2) Die Anfertigung des Meisterprüfungsprojekts soll nicht länger als vier Arbeitstage, das Fachgespräch nicht länger als 30 Minuten dauern. Die Ausführung der Situationsaufgabe soll acht Stunden nicht überschreiten.
+c) im Schwerpunkt Gebäudesystemintegration gebäudetechnische Systeme, insbesondere Anlagen der elektrischen Wärmeerzeugung und elektrischen Speicherung, Kälte- und Klimaanlagen, Anlagen der Messtechnik, der Steuerungstechnik, der Regelungstechnik sowie der Antriebstechnik, Anlagen mit Lastenmanagement sowie Gebäudeleittechnik, gewerkeübergreifend analysieren, planen und in eine vernetzte Gebäudetechnik zusammenführen sowie energetisch optimieren, gewerkeübergreifende Zusammenarbeit planen und koordinierend begleiten,
 
-(3) Meisterprüfungsprojekt, Fachgespräch und Situationsaufgabe werden gesondert bewertet. Die Prüfungsleistungen im Meisterprüfungsprojekt und im Fachgespräch werden im Verhältnis 3:1 gewichtet. Hieraus wird eine Gesamtbewertung gebildet. Diese Gesamtbewertung wird zum Prüfungsergebnis der Situationsaufgabe im Verhältnis 2:1 gewichtet.
+9. technische Gesichtspunkte, organisatorische Gesichtspunkte sowie rechtliche Gesichtspunkte bei der Leistungserbringung berücksichtigen, insbesondere
 
-(4) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch noch in der Situationsaufgabe mit weniger als 30 Punkten bewertet worden sein darf.
+a) baurechtliche Vorschriften sowie datenschutzrechtliche Vorschriften und damit verbundene Anforderungen,
+
+b) Sicherheitsrisiken, Gesundheitsrisiken, Umweltrisiken sowie Haftungsrisiken und damit verbundene Hinweispflichten,
+
+c) der effiziente Einsatz von elektrischer Energie und sonstigen Ressourcen,
+
+d) die berufsbezogenen Rechtsvorschriften und technischen Normen,
+
+e) die allgemein anerkannten Regeln der Technik,
+
+f) das einzusetzende Personal sowie die Materialien, Arbeitsmittel sowie Betriebsmittel sowie
+
+g) die Möglichkeiten zum Einsatz von Auszubildenden,
+
+10. Arten und Eigenschaften von zu bearbeitenden und zu verwendenden Materialien berücksichtigen,
+
+11. Unteraufträge kriterienorientiert, insbesondere unter Berücksichtigung von Qualität der Leistungen und Rechtsvorschriften, vergeben und deren Ausführung kontrollieren,
+
+12. fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus bewerten und dokumentieren sowie
+
+13. erbrachte Leistungen kontrollieren, Mängel beseitigen, Leistungen dokumentieren und übergeben, Abnahmeprotokolle erstellen sowie Nachkalkulationen durchführen, Auftragsabwicklung auswerten.
+
+Die Tätigkeiten nach Satz 2 Nummer 8 Buchstabe a und c erfolgen im Zusammenhang mit den Tätigkeiten im Elektrotechniker-Handwerk.
+
+# § 3 – Ziel und Gliederung der Prüfung in Teil I
+
+(1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er wesentliche Tätigkeiten des Elektrotechniker-Handwerks meisterhaft verrichtet.
+
+(2) Die Prüfung in Teil I gliedert sich in folgende Prüfungsbereiche:
+
+1. ein Meisterprüfungsprojekt nach § 4 und ein darauf bezogenes Fachgespräch nach § 5 sowie
+
+2. eine Situationsaufgabe nach § 6.
 
 # § 4 – Meisterprüfungsprojekt
 
-(1) In dem von ihm gewählten Schwerpunkt hat der Prüfling ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
+(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht und wählt dafür einen Schwerpunkt nach § 1 Nummer 1 bis 3 aus. Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs-, Kontroll- und Dokumentationsarbeiten.
 
-(2) Als Meisterprüfungsprojekt ist in dem gewählten Schwerpunkt eine der nachfolgenden Aufgaben durchzuführen:
+(2) Als Meisterprüfungsprojekt ist in dem gewählten Schwerpunkt eine der folgenden Arbeiten unter Einsatz von Informations- und Kommunikationstechnologien durchzuführen:
 
-1. Schwerpunkt Energie- und Gebäudetechnik
+1. im Schwerpunkt Energie- und Gebäudetechnik ein Projekt der Energie- und Gebäudetechnik, einschließlich deren Einbindung in bestehende oder neue Anlagen der technischen Gebäudeausstattung, planen, dabei
 
-Eine Anlage oder eine Anlagenkomponente der Energie- und Gebäudetechnik entwerfen, berechnen, planen und kalkulieren, die Leistung ausführen sowie ein Prüfprotokoll erstellen.
+a) im Rahmen der Planungsarbeiten einen Entwurf, technische Berechnungen, Zeichnungen und eine Kalkulation anfertigen,
 
-2. Schwerpunkt Kommunikations- und Sicherheitstechnik
+b) auf Grundlage der Tätigkeiten nach Buchstabe a Installationsarbeiten, Parametrierungsarbeiten sowie Programmierarbeiten durchführen, dabei Anlagen überprüfen und in Betrieb nehmen sowie
 
-Eine Anlage oder eine Anlagenkomponente der Kommunikations- und Sicherheitstechnik entwerfen, berechnen, planen und kalkulieren, die Leistung ausführen sowie ein Prüfprotokoll erstellen.
+c) im Rahmen der Kontroll- und Dokumentationsarbeiten notwendige Messungen durchführen und Messprotokolle sowie Prüfberichte erstellen,
 
-3. Schwerpunkt Systemelektronik
+2. im Schwerpunkt Automatisierungs- und Systemtechnik ein Projekt der Automatisierungs- und Systemtechnik, einschließlich deren Einbindung in bestehende oder neue Anlagen und Geräte, planen, dabei
 
-Eine Anlage oder eine Anlagenkomponente der Systemelektronik entwerfen, berechnen, planen und kalkulieren, die Leistung ausführen sowie ein Prüfprotokoll erstellen.
+a) im Rahmen der Planungen einen Entwurf, technische Berechnungen, Zeichnungen und eine Kalkulation anfertigen,
 
-(3) Die Entwurfs-, Berechnungs-, Planungs- und Kalkulationsunterlagen werden mit 40 vom Hundert, die ausgeführte Leistung mit 40 vom Hundert und das Prüfprotokoll mit 20 vom Hundert gewichtet.
+b) auf Grundlage der Tätigkeiten nach Buchstabe a Installationsarbeiten, Parametrierungsarbeiten sowie Programmierarbeiten durchführen, dabei Anlagen überprüfen und in Betrieb nehmen sowie
+
+c) im Rahmen der Kontroll- und Dokumentationsarbeiten notwendige Messungen durchführen und Messprotokolle sowie Prüfberichte erstellen oder
+
+3. im Schwerpunkt Gebäudesystemintegration ein Projekt der Gebäudesystemintegration gewerkeübergreifend planen, dabei
+
+a) im Rahmen der Planungsarbeiten Kundenanforderungen an gebäudetechnische Anlagen und Systeme analysieren, einen Entwurf, technische Berechnungen, Zeichnungen und eine Kalkulation anfertigen,
+
+b) auf Grundlage der Tätigkeiten nach Buchstabe a Installationsarbeiten, Parametrierungsarbeiten, Integrationsarbeiten sowie Programmierarbeiten durchführen, dabei Anlagen überprüfen und in Betrieb nehmen sowie
+
+c) im Rahmen der Kontroll- und Dokumentationsarbeiten notwendige Messungen durchführen und Messprotokolle sowie Prüfberichte erstellen.
+
+(3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt. Die Auswahl der Durchführungsarbeiten nach Absatz 2 Nummer 1 bis 3 erfolgt durch den Meisterprüfungsausschuss unter Berücksichtigung des vom Prüfling gewählten Schwerpunktes nach Absatz 2 Nummer 1 bis 3.
+
+(4) Für die Bearbeitung des Meisterprüfungsprojekts stehen dem Prüfling 4 Arbeitstage zur Verfügung.
+
+(5) Für die Bewertung des Meisterprüfungsprojekts werden die einzelnen Bestandteile wie folgt gewichtet:
+
+1. die Planungsarbeiten anhand der Planungsunterlagen, bestehend aus einem Entwurf, technischen Berechnungen, Zeichnungen und einer Kalkulation, mit 45 Prozent,
+
+2. die Durchführungsarbeiten mit 45 Prozent sowie
+
+3. die Kontroll- und die Dokumentationsarbeiten anhand der Dokumentationsunterlagen, bestehend aus Messprotokollen, Prüfberichten und notwendigen Dokumentationen mit 10 Prozent.
 
 # § 5 – Fachgespräch
 
-Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, dass er den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösung darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
+(1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
+
+2. Kundinnen und Kunden zu beraten und dabei den jeweiligen Kundenwunsch und wirtschaftliche Gesichtspunkte, rechtliche Gesichtspunkte sowie technische Gesichtspunkte in das Beratungsgespräch einzubeziehen,
+
+3. sein Vorgehen bei der Planung und Durchführung des Meisterprüfungsprojekts zu begründen sowie
+
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Elektrotechniker-Handwerk zu berücksichtigen.
+
+(2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
 # § 6 – Situationsaufgabe
 
-(1) In der Situationsaufgabe sind die wesentlichen Grundkenntnisse und Grundfertigkeiten zu prüfen, die im Meisterprüfungsprojekt nicht oder nur unzureichend nachgewiesen werden konnten.
+(1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und vervollständigt für die Meisterprüfung den Nachweis der beruflichen Handlungskompetenz im Elektrotechniker-Handwerk.
 
-(2) Zur Vervollständigung des Qualifikationsnachweises für das Elektrotechniker-Handwerk sind als Situationsaufgabe die nachstehend genannten Aufgaben auszuführen:
+(2) Die Situationsaufgabe wird nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung unter Berücksichtigung des vom Prüfling im Rahmen des Meisterprüfungsprojektes gewählten Schwerpunktes festgelegt. Als Bestandteil der Situationsaufgabe hat der Prüfling jeweils eine Aufgabe aus den beiden nicht gewählten Schwerpunkten zu bearbeiten und dabei an Anlagen oder Anlagenkomponenten Fehler und Störungen einzugrenzen, zu bestimmen und zu beheben, messtechnische Prüfungen zu protokollieren sowie Ergebnisse zu dokumentieren.
 
-1. im gewählten Schwerpunkt Energie- und Gebäudetechnik
+(3) Für die Bearbeitung der Situationsaufgabe stehen dem Prüfling insgesamt 4 Stunden zur Verfügung.
 
-An Anlagen oder Anlagenkomponenten der Kommunikations- und Sicherheitstechnik sowie der Systemelektronik Fehler und Störungen eingrenzen, bestimmen, und beheben; Leistungen kalkulieren, messtechnische Prüfungen protokollieren sowie Ergebnisse dokumentieren.
+(4) Jede Aufgabe nach Absatz 2 Satz 2 wird gesondert bewertet. Die Gesamtbewertung der Situationsaufgabe entspricht dem arithmetischen Mittel der Aufgaben nach Absatz 2 Satz 2.
 
-2. im gewählten Schwerpunkt Kommunikations- und Sicherheitstechnik
+# § 7 – Gewichtung, Bestehen der Prüfung in Teil I
 
-An Anlagen oder Anlagenkomponenten der Energie- und Gebäudetechnik sowie der Systemelektronik Fehler und Störungen eingrenzen, bestimmen und beheben; Leistungen kalkulieren, messtechnische Prüfungen protokollieren sowie Ergebnisse dokumentieren.
+(1) Das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe werden gesondert bewertet. Bei Berechnung des Gesamtergebnisses der Prüfung in Teil I der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden zunächst die Bewertung des Meisterprüfungsprojekts und die Bewertung des Fachgesprächs im Verhältnis 3:1 gewichtet. Anschließend wird das hieraus folgende Ergebnis mit der Bewertung der Situationsaufgabe im Verhältnis 2:1 gewichtet.
 
-3. im gewählten Schwerpunkt Systemelektronik
+(2) Der Prüfling hat den Teil I der Meisterprüfung bestanden, wenn
 
-An Anlagen oder Anlagenkomponenten der Energie- und Gebäudetechnik sowie der Kommunikations- und Sicherheitstechnik Fehler und Störungen eingrenzen, bestimmen und beheben; Leistungen kalkulieren, messtechnische Prüfungen protokollieren sowie Ergebnisse dokumentieren.
+1. das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe jeweils mit mindestens 30 Punkten bewertet worden ist und
 
-Die Gesamtbewertung der Situationsaufgabe wird aus dem arithmetischen Mittel der Einzelbewertungen der Arbeiten nach Absatz 2 gebildet.
+2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
-# § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+# § 8 – Ziel und Gliederung der Prüfung in Teil II
 
-(1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung technologischer, sicherheitstechnischer, ablauf- und verfahrenstechnischer, werkstofftechnischer, mathematischer und wirtschaftlicher Kenntnisse nachweisen, dass er Probleme analysieren und bewerten sowie geeignete Lösungswege aufzeigen und dokumentieren kann.
+(1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Elektrotechniker-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
-(2) Prüfungsfächer sind:
+1. nach Maßgabe des § 9 „Anforderungen von Kundinnen und Kunden eines Betriebs im Elektrotechniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“,
 
-1. Elektro- und Sicherheitstechnik,
+2. nach Maßgabe des § 10 „Leistungen eines Betriebs im Elektrotechniker-Handwerk erbringen, kontrollieren und übergeben“ und
 
-2. Auftragsabwicklung,
+3. nach Maßgabe des § 11 „Einen Betrieb im Elektrotechniker-Handwerk führen und organisieren“.
 
-3. Betriebsführung und Betriebsorganisation.
+(2) Der Prüfling hat in jedem der drei Handlungsfelder eine fallbezogene Aufgabe zu bearbeiten, die den Anforderungen des Absatzes 1 entspricht. Bei jeder Aufgabenstellung können die Qualifikationen der drei Handlungsfelder handlungsfeldübergreifend verknüpft werden.
 
-(3) In jedem der Prüfungsfächer ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss.
+(3) Die Aufgaben sind schriftlich zu bearbeiten.
 
-1. Elektro- und Sicherheitstechnik
+(4) Für die Bearbeitung der Aufgaben stehen dem Prüfling in jedem Handlungsfeld 3 Stunden zur Verfügung. Eine Prüfungsdauer von 6 Stunden an einem Tag darf nicht überschritten werden.
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben und Probleme an elektrotechnischen Anlagen unter Beachtung technischer, sicherheitstechnischer, wirtschaftlicher und ökologischer Aspekte in einem Elektrotechnikerbetrieb zu bearbeiten. Er soll fachliche Sachverhalte beurteilen und beschreiben. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+# § 9 – Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Elektrotechniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“
 
-a) Kundenanforderungen analysieren,
+(1) Im Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Elektrotechniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Betrieb im Elektrotechniker-Handwerk Anforderungen erfolgsorientiert, kundenorientiert sowie qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er baurechtliche Gesichtspunkte, datenschutzrechtliche Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte sowie soziale Gesichtspunkte und die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
 
-b) elektrische und elektronische Schaltungen nach Funktionsvorgaben entwickeln, entwerfen und berechnen,
+(2) Das Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Elektrotechniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
 
-c) Schaltpläne bewerten und korrigieren, Schaltungsunterlagen computergestützt erstellen,
+1. Kundenwünsche und die Rahmenbedingungen zu deren Erfüllung analysieren, dokumentieren sowie bewerten und daraus Anforderungen ableiten, hierzu zählen insbesondere:
 
-d) mechanische Konstruktionsteile, Leitungen, elektrische und elektronische Betriebsmittel und Materialien bemessen, auswählen und Verwendungszwecken zuordnen,
+a) Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten,
 
-e) technische Lösungen, insbesondere unter Berücksichtigung sicherheits- und gesundheitsrelevanter Vorsorgemaßnahmen erarbeiten, bewerten und korrigieren;
+b) Ausschreibungen sowie Angebotsanfragen öffentlicher Auftraggeber, gewerblicher Auftraggeber oder privater Auftraggeber analysieren und bewerten,
 
-2. Auftragsabwicklung
+c) Messverfahren sowie Analyseverfahren, einschließlich notwendiger Berechnungen zur Feststellung der Rahmenbedingungen an Systemen der Elektrotechnik, erläutern und bewerten, Messergebnisse erläutern und bewerten, auftragsrelevante Vorleistungen beurteilen,
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, bei der Auftragsabwicklung die ablaufbezogenen Maßnahmen, die für den technischen und wirtschaftlichen Erfolg eines Elektrotechnikerbetriebs notwendig sind, kundenorientiert einzuleiten und abzuschließen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+d) Unterlagen, insbesondere zu baurechtlichen Bestimmungen sowie datenschutzrechtlichen Bestimmungen, lesen und im Hinblick auf Vollständigkeit und Konsequenzen für die Auftragsplanung beurteilen,
 
-a) Auftragsunterlagen auswerten und Auftragsabwicklungsprozesse unter Berücksichtigung des Einsatzes von Material, Geräten, Personal und qualitätssichernden Aspekten planen,
+e) Kundinnen und Kunden über Fördermöglichkeiten informieren und diese bei der Planung berücksichtigen sowie
 
-b) technische Arbeitspläne, insbesondere Skizzen und Zeichnungen erarbeiten, bewerten und korrigieren, auch unter Anwendung von elektronischen Datenverarbeitungssystemen,
+f) Ergebnisse der vorstehenden Handlungsschritte dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten,
 
-c) Analyse von Genehmigungserfordernissen vornehmen und bewerten,
+2. Lösungsmöglichkeiten entwickeln, erläutern und begründen, auch unter Berücksichtigung der berufsbezogenen Rechtsvorschriften und technischen Normen sowie der allgemein anerkannten Regeln der Technik, hierzu zählen insbesondere:
 
-d) Unteraufträge vergeben und kontrollieren,
+a) Möglichkeiten und Notwendigkeiten des Einsatzes von Materialien, Bauteilen, Maschinen, Werkzeugen, Geräten, Personal, auch unter Berücksichtigung einzusetzender Verfahren, darstellen, erläutern und begründen,
 
-e) technische Prüfungen planen, Daten erfassen und bewerten sowie Prüfergebnisse dokumentieren,
+b) Sicherheitsrisiken, Gesundheitsrisiken, Umweltrisiken sowie Haftungsrisiken bewerten und Konsequenzen ableiten,
 
-f) Vor- und Nachkalkulation durchführen;
+c) Konzepte, Pläne sowie technische Informationen für vernetzte Systeme der Elektrotechnik, auch unter Einsatz von Informations- und Kommunikationstechnologien, erarbeiten, bewerten und korrigieren,
 
-3. Betriebsführung und Betriebsorganisation
+d) in bestehenden Anlagen Möglichkeiten der Energieeinsparung und Energieeffizienz aufzeigen,
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Elektrotechnikerbetrieb wahrzunehmen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+e) gewerkeübergreifende technische Schnittstellen definieren und bestehende Systeme zusammenführen,
 
-a) Arbeitspositionen zu Angebotspaketen zusammenfassen und Preise kalkulieren,
+f) Kriterien für die Vergabe von Unteraufträgen festlegen, insbesondere unter Berücksichtigung von Qualität und Rechtsvorschriften, darauf aufbauend Ausschreibungen oder Angebotsanfragen erstellen und hierauf eingehende Angebote bewerten sowie
 
-b) Stundenverrechnungssätze anhand einer vorgegebenen Kostenstruktur berechnen,
+g) Vor- und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkte rechtliche und sicherheitstechnische Gesichtspunkte erläutern und abwägen sowie daraus eine Lösung auswählen und diese Auswahl begründen sowie
 
-c) betriebliche Kennzahlen anhand vorgegebener Schemata ermitteln und nutzen,
+3. Angebote kalkulieren, erstellen und erläutern sowie Leistungen vereinbaren, hierzu zählen insbesondere:
 
-d) auf der Grundlage der technischen Entwicklung und des Marktes die Geschäftsfeldentwicklung planen,
+a) Personalkosten, Materialkosten sowie Gerätekosten auf der Grundlage der Planungen kalkulieren,
 
-e) Personalentwicklungs- und -führungskonzepte entwerfen und umsetzen,
+b) auf der Grundlage entwickelter Lösungsmöglichkeiten Angebotspositionen bestimmen und zu Angebotspaketen zusammenfassen sowie Preise kalkulieren,
 
-f) betriebliches Qualitätsmanagement planen und darstellen,
+c) Vertragsbedingungen unter Berücksichtigung von Haftungsbestimmungen formulieren und beurteilen,
 
-g) Mitarbeiter in Aufgabenstellungen einweisen und schulen,
+d) Angebotsunterlagen vorbereiten, Angebote erstellen sowie
 
-h) Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden entwickeln,
+e) Angebotspositionen und Vertragsbedingungen gegenüber Kundinnen und Kunden erläutern und begründen sowie Leistungen vereinbaren.
 
-i) Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsatzmöglichkeiten beschreiben und beurteilen,
+# § 10 – Handlungsfeld „Leistungen eines Betriebs im Elektrotechniker-Handwerk erbringen, kontrollieren und übergeben“
 
-k) berufsbezogene Gesetze, Normen, Regeln und Vorschriften anwenden,
+(1) Im Handlungsfeld „Leistungen eines Betriebs im Elektrotechniker-Handwerk erbringen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Leistungen eines Betriebs im Elektrotechniker-Handwerk erfolgsorientiert, kundenorientiert sowie qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu erbringen, zu kontrollieren und zu übergeben. Dabei hat er baurechtliche Gesichtspunkte, datenschutzrechtliche Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte sowie soziale Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
 
-l) die Haftung bei der Herstellung, der Instandhaltung und bei Serviceleistungen beurteilen,
+(2) Das Handlungsfeld „Leistungen eines Betriebs im Elektrotechniker-Handwerk erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
 
-m) Erfordernisse der Arbeitssicherheit, des Gesundheitsschutzes, des Datenschutzes und des Umweltschutzes darstellen; Gefahren beurteilen und Maßnahmen zur Gefahrenabwehr festlegen,
+1. die Erbringung der Leistungen vorbereiten, hierzu zählen insbesondere:
 
-n) Betriebs-, Lager- und Baustellenausstattung sowie Logistik planen und darstellen.
+a) Methoden der Arbeitsplanung sowie der Arbeitsorganisation sowie des Projektmanagements erläutern, auswählen und die Auswahl begründen sowie unter Berücksichtigung einzusetzender Herstellungsverfahren sowie einzusetzender Instandhaltungsverfahren den Einsatz von Personal, Material sowie Geräten, Maschinen oder Werkzeugen planen,
 
-(4) Die Prüfung im Teil II ist schriftlich durchzuführen. Sie soll insgesamt nicht länger als neun Stunden dauern. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
+b) mögliche Störungen und Risiken bei der Leistungserbringung, auch in der Zusammenarbeit mit anderen an der Leistungserbringung Beteiligten, vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder Behebung entwickeln sowie
 
-(5) Wurden in höchstens zwei der in Absatz 2 genannten Prüfungsfächer jeweils mindestens 30 und weniger als 50 Punkte erreicht, kann in einem dieser Prüfungsfächer eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese das Bestehen des Teils II der Meisterprüfung ermöglicht.
+c) technische Ausführungsplanung und Zeichnungen erarbeiten, bewerten und korrigieren,
 
-(6) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Über das Ergebnis der Prüfung im Prüfungsfach nach Absatz 2 Nummer 1 stellt der Meisterprüfungsausschuss dem Prüfling nach Bestehen des Teils II der Meisterprüfung eine Bescheinigung aus. Die Prüfung des Teils II ist nicht bestanden, wenn
+2. die Leistungen erbringen, hierzu zählen insbesondere:
 
-1. ein Prüfungsfach mit weniger als 30 Punkten bewertet worden ist oder
+a) berufsbezogene Rechtsvorschriften und technische Normen sowie die allgemein anerkannten Regeln der Technik anwenden,
 
-2. nach durchgeführter Ergänzungsprüfung zwei Prüfungsfächer jeweils mit weniger als 50 Punkten bewertet worden sind.
+b) Maßnahmen zur Gefahrenvermeidung sowie zur Gefahrenbeseitigung erläutern sowie Folgen ableiten,
 
-(+++ § 7 Abs. 5 u. 6: Zur Anwendung vgl. § 9 +++)
+c) Analysieren von Systemen der Elektrotechnik,
 
-# § 8 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+d) Fehler und Mängel in der Erbringung der Leistungen erläutern sowie Maßnahmen zu deren Beseitigung ableiten,
+
+e) Vorgehensweise zur Erbringung von Leistungen unter Berücksichtigung von Herstellungsverfahren sowie von Instandhaltungsverfahren, baurechtlichen Vorschriften sowie datenschutzrechtlichen Vorschriften erläutern und begründen,
+
+f) Konzepte für vernetzte Systeme der Elektrotechnik, insbesondere durch Installieren, Parametrieren, Programmieren und Inbetriebnehmen, umsetzen
+
+g) Instandhalten von Systemen der Elektrotechnik sowie
+
+h) technische Systeme sowie gewerkeübergreifende Systeme erkennen und in eine vernetzte Gebäudetechnik zusammenführen sowie
+
+3. die Leistungen kontrollieren, dokumentieren, übergeben und abrechnen, hierzu zählen insbesondere:
+
+a) Kriterien zur Feststellung der Qualität der erbrachten Leistungen erläutern,
+
+b) Leistungen dokumentieren,
+
+c) Prüfergebnisse, insbesondere sicherheitsrelevante Messungen gemäß Normen und rechtlicher Vorgaben, dokumentieren, bewerten sowie erläutern,
+
+d) Vorgehensweise bei Übergabe der Leistungen und Information der Kundinnen und Kunden über Handhabung und Wartung erläutern, dabei Überprüfungspflichten, Wartungspflichten sowie Wartungsnotwendigkeiten darstellen,
+
+e) Leistungen abrechnen,
+
+f) auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten,
+
+g) Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung erläutern und beurteilen sowie
+
+h) Serviceleistungen anlässlich der Übergabe, insbesondere mit Blick auf Überprüfungspflichten sowie Wartungspflichten, erläutern und bewerten.
+
+# § 11 – Handlungsfeld „Einen Betrieb im Elektrotechniker-Handwerk führen und organisieren“
+
+(1) Im Handlungsfeld „Einen Betrieb im Elektrotechniker-Handwerk führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Betrieb im Elektrotechniker-Handwerk unter Berücksichtigung der Rechtsvorschriften, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Einen Betrieb im Elektrotechniker-Handwerk führen und organisieren“ besteht aus folgenden Qualifikationen:
+
+1. betriebliche Kosten analysieren und für die Preisgestaltung und Effizienzsteigerung nutzen, hierzu zählen insbesondere:
+
+a) betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,
+
+b) betriebliche Kostenstrukturen überprüfen,
+
+c) betriebliche Kennzahlen ermitteln und vergleichen,
+
+d) Maßnahmen zur Effizienzsteigerung ableiten sowie
+
+e) Stundenverrechnungssätze anhand vorgegebener Kostenstrukturen berechnen,
+
+2. Marketingmaßnahmen zur Kundengewinnung und Kundenpflege erarbeiten, hierzu zählen insbesondere:
+
+a) Auswirkungen technologischer Entwicklungen, wirtschaftlicher Entwicklungen, rechtlicher Entwicklungen sowie gesellschaftlicher Entwicklungen sowie veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen,
+
+b) Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen zur Kundengewinnung und Kundenpflege entwickeln,
+
+c) Informationen über Produkte und über das Leistungsspektrum des Betriebs erstellen sowie
+
+d) Vertriebswege ermitteln und bewerten,
+
+3. betriebliches Qualitätsmanagement entwickeln, hierzu zählen insbesondere:
+
+a) Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen,
+
+b) Qualitätsmanagementsysteme unterscheiden und beurteilen,
+
+c) Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen und
+
+d) Maßnahmen zur kontinuierlichen Verbesserung von Geschäfts- und Arbeitsprozessen festlegen und bewerten sowie
+
+e) Maßnahmen zur Rückverfolgbarkeit der verwendeten Produkte und Materialien, insbesondere zum Nachweis der Nachhaltigkeit, der Schadstofffreiheit sowie der ökologischen Verantwortung sowie der sozialen Verantwortung, festlegen,
+
+4. Personal unter Berücksichtigung gewerbespezifischer Bedingungen planen und anleiten, Personalentwicklung planen, hierzu zählen insbesondere:
+
+a) Einsatz von Personal disponieren,
+
+b) Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren,
+
+c) Methoden zur Anleitung von Personal erläutern,
+
+d) Qualifikationsbedarfe ermitteln sowie
+
+e) Maßnahmen zur fortlaufenden Qualifizierung, insbesondere unter Berücksichtigung der Weiterentwicklungsmöglichkeiten im Elektrotechniker-Handwerk, planen sowie
+
+5. Betriebsausstattung sowie Lagerausstattung und Abläufe planen, hierzu zählen insbesondere:
+
+a) Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Folgen aus dem Ergebnis ableiten,
+
+b) Ausstattung des Betriebes, insbesondere unter Berücksichtigung der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, der Gefahrstoffhandhabung und ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte, sozialer Gesichtspunkte sowie logistischer Gesichtspunkte, planen und begründen,
+
+c) Maßnahmen zur Unfallverhütung, zum Arbeitsschutz, zur Gefahrstofflagerung, insbesondere unter Berücksichtigung ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte sowie sozialer Gesichtspunkte, planen und begründen,
+
+d) Instandhaltung von Werkzeugen, Geräten, Maschinen oder Fahrzeugen planen,
+
+e) Betriebsabläufe planen und verbessern, unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, Material und Werkzeugen, Geräten, Maschinen oder Fahrzeugen sowie
+
+f) Möglichkeiten zur Gewinnung, Nutzung oder Einsparung von Energie darstellen.
+
+# § 12 – Gewichtung, Bestehen der Prüfung in Teil II
+
+(1) Bei der Berechnung des Gesamtergebnisses der Prüfung in Teil II der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden die Bewertungen der Handlungsfelder nach den §§ 9 bis 11 gleich gewichtet.
+
+(2) Wurden in höchstens zwei der drei Handlungsfelder jeweils mindestens 30 und weniger als 50 Punkte erreicht, so kann in einem dieser Handlungsfelder eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese für das Bestehen der Prüfung in Teil II der Meisterprüfung ausschlaggebend ist.
+
+(3) Der Prüfling hat den Teil II der Meisterprüfung bestanden, wenn
+
+1. jedes der drei Handlungsfelder mit mindestens 30 Punkten bewertet worden ist,
+
+2. nach durchgeführter Ergänzungsprüfung nach Absatz 2 höchstens ein Handlungsfeld mit weniger als 50 Punkten bewertet worden ist und
+
+3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
+
+(4) Der Meisterprüfungsausschuss stellt dem Prüfling eine Bescheinigung aus, wenn die folgenden Prüfungsleistungen mit jeweils mindestens 50 Prozent der möglichen Punktzahl bewertet worden sind:
+
+1. im Meisterprüfungsprojekt der Bestandteil „Kontroll- und Dokumentationsarbeiten anhand der Dokumentationsunterlagen“ nach § 4 Absatz 5 Nummer 3,
+
+2. im Fachgespräch nach § 5,
+
+3. im Handlungsfeld „Anforderungen von Kunden eines Betriebes im Elektrotechniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ nach § 9 sowie
+
+4. im Handlungsfeld „Leistungen eines Betriebs im Elektrotechniker-Handwerk erbringen, kontrollieren und übergeben“ nach § 10.
+
+# § 13 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
-(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
-# § 9 – Übergangsvorschrift
+# § 14 – Übergangsvorschrift
 
-Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
+(1) Die bis zum Ablauf des 29. Februar 2024 begonnenen Prüfungsverfahren werden nach den Vorschriften für der Elektrotechnikermeisterverordnung vom 17. Juni 2002 (BGBl. I S. 2331), die zuletzt durch Artikel 2 Absatz 40 der Verordnung vom 18. Januar 2022 (BGBl. I S. 39) geändert worden ist, zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 31. August 2024, so sind auf Verlangen des Prüflings die bis zum Ablauf des 29. Februar 2024 geltenden Vorschriften weiter anzuwenden.
 
-# § 10 – Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am 1. Oktober 2002 in Kraft.
+(2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 29. Februar 2024 geltenden Vorschriften nicht bestanden haben und sich bis zum Ablauf des 28. Februar 2026 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum Ablauf des 29. Februar 2024 geltenden Vorschriften ablegen.

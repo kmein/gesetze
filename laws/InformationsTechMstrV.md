@@ -1,173 +1,358 @@
-% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Informationstechniker-Handwerk  (Informationstechnikermeisterverordnung - InformationsTechMstrV)
-% Ausfertigungsdatum: 17.06.2002
+% Verordnung über die Meisterprüfung in den Teilen I und II im Informationstechniker-Handwerk  (Informationstechnikermeisterverordnung - InformationsTechMstrV)
+% Ausfertigungsdatum: 21.02.2024
  
-# Eingangsformel
+# § 1 – Gegenstand
 
-Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
-
-# § 1 – Gliederung und Inhalt der Meisterprüfung
-
-Die Meisterprüfung im Informationstechniker-Handwerk umfasst folgende selbständige Prüfungsteile:
-
-1. die Prüfung der meisterhaften Verrichtung der gebräuchlichen Arbeiten (Teil I),
-
-2. die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
-
-3. die Prüfung der erforderlichen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
-
-4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
+Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in den Teilen I und II der Meisterprüfung zu stellenden Anforderungen sowie die Bestimmungen zur Durchführung der Meisterprüfung im Informationstechniker-Handwerk in den Gebieten Gerätetechnik, Informationstechnik und Bürosystemtechnik, Sendetechnik, Empfangstechnik und Breitbandtechnik, Brandschutztechnik und Gefahrenmeldetechnik sowie Telekommunikationstechnik.
 
 # § 2 – Meisterprüfungsberufsbild
 
-(1) Durch die Meisterprüfung im Informationstechniker-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
+In den Teilen I und II der Meisterprüfung im Informationstechniker-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
-(2) Dem Informationstechniker-Handwerk werden zum Zwecke der Meisterprüfung folgende Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
+1. einen Betrieb im Informationstechniker-Handwerk führen und organisieren und dabei technische, kaufmännische und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung
 
-1. Kundenwünsche ermitteln, Kunden beraten, Leistungen kalkulieren und Angebote erstellen, Auftragsverhandlungen führen und Auftragsziele festlegen,
+a) der Kostenstrukturen,
 
-2. Aufgaben der technischen und kaufmännischen Betriebsführung, der Betriebsorganisation, der Personalplanung und des Personaleinsatzes wahrnehmen, insbesondere unter Berücksichtigung der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, der Haftung sowie des Arbeitsschutzes, der Arbeitssicherheit, des Datenschutzes und des Umweltschutzes; Informationssysteme nutzen,
+b) der Wettbewerbssituation,
 
-3. Aufträge durchführen unter Berücksichtigung von Fertigungsmöglichkeiten, Instandhaltungsalternativen, topografischen Bedingungen, berufsbezogenen Gesetzen, Normen, Regeln und Vorschriften, Personalbedarf und Ausbildung; Auftragsbearbeitung und Auftragsabwicklung organisieren, planen und überwachen,
+c) der für den Betrieb wesentlichen Ausbildung, Fort- und Weiterbildung des Personals,
 
-4. Werkstoffeigenschaften bei Planung, Konstruktion und Ausführung berücksichtigen,
+d) der Betriebsorganisation,
 
-5. Dokumentationen, insbesondere unter Einsatz von rechnergestützten Systemen erstellen,
+e) des Qualitätsmanagements,
 
-6. informationstechnische Anlagen, Geräte, Systeme und Systemkomponenten, insbesondere der Geräte- und Systemtechnik sowie der Bürosystemtechnik, deren Netzwerke und Software unter Berücksichtigung sicherheits- und gesundheitsrelevanter Vorsorgemaßnahmen entwickeln, planen, herstellen, modifizieren, installieren, konfigurieren, programmieren, bedienen, administrieren und parametrieren,
+f) des Arbeitsschutzrechtes,
 
-7. Mess- und Prüftechniken anwenden, Ergebnisse beurteilen und dokumentieren,
+g) des Datenschutzes, der Datensicherheit und der Datenverarbeitung,
 
-8. Schulungsmaßnahmen erarbeiten und Schulungen durchführen,
+h) der ökologischen, ökonomischen sowie sozialen Nachhaltigkeit sowie
 
-9. Energiemanagement im Bereich der Informationstechnik konzipieren und umsetzen,
+i) technologischer Entwicklungen sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien,
 
-10. Verträge konzipieren; Standardverträge, insbesondere Serviceverträge entwickeln und pflegen,
+2. Konzepte für Betriebsausstattung sowie Lagerausstattung sowie für logistische Geschäfts- und Arbeitsprozesse entwickeln und umsetzen,
 
-11. Fehler- und Störungssuche durchführen, Maßnahmen zur Beseitigung von Fehlern und Störungen beherrschen, Ergebnisse bewerten und dokumentieren,
+3. Kundenwünsche und jeweilige Rahmenbedingungen ermitteln, Anforderungen ableiten, Kundinnen und Kunden beraten, Serviceleistungen anbieten, Lösungen entwickeln, Verhandlungen führen und Ziele festlegen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen,
 
-12. Leistungen abnehmen und protokollieren, dem Kunden übergeben, abrechnen und Nachkalkulation durchführen.
+4. Messverfahren sowie Analyseverfahren zur Feststellung der Rahmenbedingungen an Systemen der Informations- und Kommunikationstechnik erläutern, anwenden und bewerten,
 
-# § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
+5. auftragsbezogene Unterlagen und Bestimmungen, insbesondere des Baurechts sowie des Datenschutzes, auswerten und beim Planen, Durchführen und Kontrollieren der Aufträge berücksichtigen,
 
-(1) Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
+6. Konzepte, Pläne und technische Dokumentationen für Systeme der Informations- und Kommunikationstechnik, auch unter Einsatz von Informations- und Kommunikationstechnologien, erarbeiten, bewerten und korrigieren,
 
-(2) Die Anfertigung des Meisterprüfungsprojekts soll nicht länger als vier Arbeitstage, das Fachgespräch nicht länger als 30 Minuten dauern.
+7. Geschäfts- und Arbeitsprozesse zur Leistungserbringung planen, organisieren und überwachen,
 
-(3) Meisterprüfungsprojekt und Fachgespräch werden gesondert bewertet. Die Prüfungsleistungen im Meisterprüfungsprojekt und im Fachgespräch werden im Verhältnis 3:1 gewichtet. Hieraus wird eine Gesamtbewertung gebildet.
+8. Leistungen im Informationstechniker-Handwerk erbringen, insbesondere
 
-(4) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch mit weniger als 30 Punkten bewertet worden sein darf.
+a) Umsetzung von Konzepten für umfängliche und vernetzte Systeme der Informations- und Kommunikationstechnik, insbesondere durch Installieren, Parametrieren, Programmieren und Inbetriebnehmen,
+
+b) Analysieren und Instandhalten von Systemen der Informations- und Kommunikationstechnik sowie
+
+c) technische und gewerkeübergreifende Systeme erkennen und in eine vernetzte Gebäudetechnik zusammenführen,
+
+9. technische Gesichtspunkte, organisatorische Gesichtspunkte sowie rechtliche Gesichtspunkte bei der Leistungserbringung berücksichtigen, insbesondere
+
+a) baurechtliche Vorschriften sowie datenschutzrechtliche Vorschriften und damit verbundene Anforderungen,
+
+b) Sicherheitsrisiken, Gesundheitsrisiken, Umweltrisiken sowie Haftungsrisiken und damit verbundene Hinweispflichten,
+
+c) die berufsbezogenen Rechtsvorschriften und technischen Normen,
+
+d) die allgemein anerkannten Regeln der Technik,
+
+e) das einzusetzende Personal sowie die Materialien, Arbeitsmittel sowie Betriebsmittel sowie
+
+f) die Möglichkeiten zum Einsatz von Auszubildenden,
+
+10. Arten und Eigenschaften von zu bearbeitenden und zu verwendenden Materialien berücksichtigen,
+
+11. Unteraufträge kriterienorientiert, insbesondere unter Berücksichtigung der Qualität der Leistungen und Rechtsvorschriften, vergeben und deren Ausführung kontrollieren,
+
+12. fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus bewerten und dokumentieren,
+
+13. erbrachte Leistungen kontrollieren, Mängel beseitigen, Leistungen dokumentieren und übergeben, Abnahmeprotokolle erstellen sowie Nachkalkulationen durchführen, Auftragsabwicklung auswerten sowie
+
+14. Kundinnen und Kunden im Hinblick auf die bestimmungsgemäße Verwendung der Systeme der Informations- und Kommunikationstechnik beraten.
+
+# § 3 – Ziel und Gliederung der Prüfung in Teil I
+
+(1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er wesentliche Tätigkeiten des Informationstechniker-Handwerks meisterhaft verrichtet.
+
+(2) Die Prüfung in Teil I gliedert sich in folgende Prüfungsbereiche:
+
+1. ein Meisterprüfungsprojekt nach § 4 und ein darauf bezogenes Fachgespräch nach § 5 sowie
+
+2. eine Situationsaufgabe nach § 6.
 
 # § 4 – Meisterprüfungsprojekt
 
-(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
+(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs-, Kontroll- und Dokumentationsarbeiten.
 
-(2) Als Meisterprüfungsprojekt ist die nachfolgende Aufgabe durchzuführen:  
-Ein Produkt der Informationstechnik, bestehend aus einer Anlage, einer Teilanlage, einem Gerät oder einem Teilgerät entwerfen, berechnen, planen und kalkulieren, anfertigen oder erweitern sowie ein Prüfprotokoll erstellen.
+(2) Als Meisterprüfungsprojekt sind folgende Arbeiten an mindestens zwei miteinander interagierenden Systemen der Informations- und Kommunikationstechnik durchzuführen:
 
-(3) Die Entwurfs-, Berechnungs-, Planungs- und Kalkulationsunterlagen werden mit 40 vom Hundert, das angefertigte oder erweiterte Produkt mit 35 vom Hundert und das Prüfprotokoll mit 25 vom Hundert gewichtet.
+1. im Rahmen der Planungsarbeiten einen Entwurf, technische Berechnungen, Zeichnungen und eine Kalkulation anfertigen sowie die Einbindung der Systeme in bestehende oder neu zu planende Daten- und Netzwerktechnik und in elektrische Anlagen berücksichtigen,
+
+2. auf der Grundlage der Tätigkeiten nach Nummer 1 Installationsarbeiten, Parametrierungsarbeiten sowie Programmierarbeiten durchführen, dabei Anlagen sicherheitstechnisch überprüfen und in Betrieb nehmen sowie
+
+3. im Rahmen der Kontrollarbeiten sowie Dokumentationsarbeiten notwendige Messungen durchführen sowie Messprotokolle und Prüfberichte erstellen.
+
+(3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt. Die Auswahl der Tätigkeiten nach Absatz 2 Nummer 2 und 3 wird vom Meisterprüfungsausschuss festgelegt.
+
+(4) Für die Bearbeitung des Meisterprüfungsprojekts stehen dem Prüfling 3 Arbeitstage zur Verfügung.
+
+(5) Für die Bewertung des Meisterprüfungsprojekts werden die einzelnen Bestandteile wie folgt gewichtet:
+
+1. die Planungsarbeiten anhand der Planungsunterlagen, bestehend aus einem Entwurf, Berechnungen, Zeichnungen und einer Kalkulation, mit 40 Prozent,
+
+2. die Durchführungsarbeiten mit 40 Prozent und
+
+3. die Kontroll- und Dokumentationsarbeiten anhand der Dokumentationsunterlagen, bestehend aus Messprotokollen, Prüfberichten und notwendigen Dokumentationen, mit 20 Prozent.
 
 # § 5 – Fachgespräch
 
-Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, dass er den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösung darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
+(1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-# § 6 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
 
-(1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung technologischer, sicherheitstechnischer, ablauf- und verfahrenstechnischer, werkstofftechnischer, mathematischer und wirtschaftlicher Kenntnisse nachweisen, dass er Probleme analysieren und bewerten sowie geeignete Lösungswege aufzeigen und dokumentieren kann.
+2. Kundinnen und Kunden zu beraten und dabei den jeweiligen Kundenwunsch sowie wirtschaftliche, rechtliche und technische Gesichtspunkte in das Beratungsgespräch einzubeziehen,
 
-(2) Prüfungsfächer sind:
+3. sein Vorgehen bei der Planung und Durchführung des Meisterprüfungsprojekts zu begründen sowie
 
-1. Informations- und Sicherheitstechnik,
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Informationstechniker-Handwerk zu berücksichtigen.
 
-2. Auftragsabwicklung,
+(2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
-3. Betriebsführung und Betriebsorganisation.
+# § 6 – Situationsaufgabe
 
-(3) In jedem der Prüfungsfächer ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss.
+(1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und vervollständigt für die Meisterprüfung den Nachweis der beruflichen Handlungskompetenz im Informationstechniker-Handwerk.
 
-1. Informations- und Sicherheitstechnik
+(2) Die Situationsaufgabe wird nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt und gliedert sich in folgende Prüfungsleistungen:
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben und Probleme an Anlagen und Geräten der Geräte- und Systemtechnik sowie der Bürosystemtechnik unter Beachtung technischer, sicherheitstechnischer, gestalterischer, wirtschaftlicher und ökologischer Aspekte in einem Informationstechnikerbetrieb zu bearbeiten. Er soll fachliche Sachverhalte beurteilen und beschreiben. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+1. Fehler- und Störungssuche an einer informations- und kommunikationstechnischen Anlage durchführen und dokumentieren,
 
-a) Kundenanforderungen analysieren,
+2. Fehler und Störungen an einer informations- und kommunikationstechnischen Anlage beheben und die Anlage in Betrieb nehmen sowie
 
-b) Diagnosen und Fehleranalysen erstellen, bewerten und korrigieren; Vorschläge für Serviceleistungen erarbeiten,
+3. sicherheitsrelevante Messungen an einer elektrischen Anlage oder einem elektrischen Gerät durchführen und Ergebnisse beurteilen.
 
-c) technische Lösungen, insbesondere unter Berücksichtigung sicherheits- und gesundheitsrelevanter Vorsorgemaßnahmen erarbeiten, bewerten und korrigieren,
+(3) Für die Bearbeitung der Situationsaufgabe stehen dem Prüfling insgesamt 5 Stunden zur Verfügung.
 
-d) Geräte und Anlagen der Informationstechnik konfigurieren,
+(4) Jede Prüfungsleistung nach Absatz 2 Satz 2 Nummer 1 bis 3 wird gesondert bewertet. Die Gesamtbewertung der Situationsaufgabe entspricht dem arithmetischen Mittel der Bewertungen der Prüfungsleistungen nach Absatz 2 Satz 2 Nummer 1 bis 3.
 
-e) technische Daten bewerten und Verwendungszwecken zuordnen,
+# § 7 – Gewichtung, Bestehen der Prüfung in Teil I
 
-f) Konzepte für Energiemanagement entwerfen;
+(1) Das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe werden gesondert bewertet. Bei Berechnung des Gesamtergebnisses der Prüfung in Teil I der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden zunächst die Bewertung des Meisterprüfungsprojekts und die Bewertung des Fachgesprächs im Verhältnis 3:1 gewichtet. Anschließend wird das hieraus folgende Ergebnis mit der Bewertung der Situationsaufgabe im Verhältnis 2:1 gewichtet.
 
-2. Auftragsabwicklung
+(2) Der Prüfling hat den Teil I der Meisterprüfung bestanden, wenn
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, bei der Auftragsabwicklung die ablaufbezogenen Maßnahmen, die für den technischen und wirtschaftlichen Erfolg eines Informationstechnikerbetriebs notwendig sind, kundenorientiert einzuleiten und abzuschließen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+1. das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe jeweils mit mindestens 30 Punkten bewertet worden ist und
 
-a) Auftragsunterlagen auswerten und Auftragsabwicklungsprozesse unter Berücksichtigung des Einsatzes von Material, Geräten, Personal und qualitätssichernden Aspekten planen,
+2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
-b) technische Arbeitspläne, insbesondere Skizzen und Zeichnungen erarbeiten, bewerten und korrigieren, auch unter Anwendung von elektronischen Datenverarbeitungssystemen,
+# § 8 – Ziel und Gliederung der Prüfung in Teil II
 
-c) Analyse von Genehmigungserfordernissen vornehmen und bewerten,
+(1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Informationstechniker-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
-d) Unteraufträge vergeben und kontrollieren,
+1. nach Maßgabe des § 9 „Anforderungen von Kundinnen und Kunden eines Betriebs im Informationstechniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“,
 
-e) technische Prüfungen planen, Daten erfassen und bewerten sowie Prüfergebnisse dokumentieren,
+2. nach Maßgabe des § 10 „Leistungen eines Betriebs im Informationstechniker-Handwerk erbringen, kontrollieren und übergeben“ und
 
-f) Vor- und Nachkalkulation durchführen;
+3. nach Maßgabe des § 11 „Einen Betrieb im Informationstechniker-Handwerk führen und organisieren“.
 
-3. Betriebsführung und Betriebsorganisation
+(2) Der Prüfling hat in jedem der drei Handlungsfelder eine fallbezogene Aufgabe zu bearbeiten, die den Anforderungen des Absatzes 1 entspricht. Bei jeder Aufgabenstellung können die Qualifikationen der drei Handlungsfelder handlungsfeldübergreifend verknüpft werden.
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Informationstechnikerbetrieb wahrzunehmen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+(3) Die Aufgaben sind schriftlich zu bearbeiten.
 
-a) Arbeitspositionen zu Angebotspaketen zusammenfassen und Preise kalkulieren,
+(4) Für die Bearbeitung der Aufgaben stehen dem Prüfling in jedem Handlungsfeld 3 Stunden zur Verfügung. Eine Prüfungsdauer von 6 Stunden an einem Tag darf nicht überschritten werden.
 
-b) Stundenverrechnungssätze anhand einer vorgegebenen Kostenstruktur berechnen,
+# § 9 – Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Informationstechniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“
 
-c) betriebliche Kennzahlen anhand vorgegebener Schemata ermitteln und nutzen,
+(1) Im Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Informationstechniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Betrieb im Informationstechniker-Handwerk Anforderungen erfolgsorientiert, kundenorientiert sowie qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er baurechtliche Gesichtspunkte, datenschutzrechtliche Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte sowie soziale Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
 
-d) auf der Grundlage der technischen Entwicklung und des Marktes die Geschäftsfeldentwicklung planen,
+(2) Das Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Informationstechniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
 
-e) Personalentwicklungs- und -führungskonzepte entwerfen und umsetzen,
+1. Kundenwünsche und die Rahmenbedingungen zu deren Erfüllung analysieren, dokumentieren sowie bewerten und daraus Anforderungen ableiten, hierzu zählen insbesondere:
 
-f) betriebliches Qualitätsmanagement planen und darstellen,
+a) Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten,
 
-g) Mitarbeiter in Aufgabenstellungen einweisen und schulen,
+b) Ausschreibungen und Angebotsanfragen öffentlicher oder privater Auftraggeber analysieren und bewerten,
 
-h) Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden entwickeln,
+c) Messverfahren sowie Analyseverfahren, einschließlich notwendiger Berechnungen zur Feststellung der Rahmenbedingungen an Systemen der Informations- und Kommunikationstechnik, erläutern und bewerten, Messergebnisse erläutern und bewerten, auftragsrelevante Vorleistungen beurteilen,
 
-i) Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsatzmöglichkeiten beschreiben und beurteilen,
+d) Unterlagen, insbesondere zu baurechtlichen Bestimmungen sowie datenschutzrechtlichen Bestimmungen, auswerten und im Hinblick auf Vollständigkeit und Konsequenzen für die Auftragsplanung beurteilen sowie
 
-k) berufsbezogene Gesetze, Normen, Regeln und Vorschriften anwenden,
+e) Ergebnisse der vorstehenden Handlungsschritte dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten,
 
-l) die Haftung bei der Herstellung, der Instandhaltung und bei Serviceleistungen beurteilen,
+2. Lösungsmöglichkeiten entwickeln, erläutern und begründen, auch unter Berücksichtigung der berufsbezogenen Rechtsvorschriften und technischen Normen sowie der allgemein anerkannten Regeln der Technik, hierzu zählen insbesondere:
 
-m) Erfordernisse der Arbeitssicherheit, des Gesundheitsschutzes, des Datenschutzes und des Umweltschutzes darstellen; Gefahren beurteilen und Maßnahmen zur Gefahrenabwehr festlegen,
+a) Möglichkeiten und Notwendigkeiten des Einsatzes von Materialien, Bauteilen, Maschinen, Werkzeugen, Geräten, Personal, auch unter Berücksichtigung einzusetzender Verfahren, darstellen, erläutern und begründen,
 
-n) Betriebs-, Lager- und Baustellenausstattung sowie Logistik planen und darstellen.
+b) Sicherheitsrisiken, Gesundheitsrisiken, Umweltrisiken sowie Haftungsrisiken bewerten und Konsequenzen ableiten,
 
-(4) Die Prüfung im Teil II ist schriftlich durchzuführen. Sie soll insgesamt nicht länger als neun Stunden dauern. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
+c) Konzepte, Pläne und technische Informationen für Systeme der Informations- und Kommunikationstechnik, auch unter Einsatz von Informations- und Kommunikationstechnologien, erarbeiten, bewerten und korrigieren,
 
-(5) Wurden in höchstens zwei der in Absatz 2 genannten Prüfungsfächer jeweils mindestens 30 und weniger als 50 Punkte erreicht, kann in einem dieser Prüfungsfächer eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese das Bestehen des Teils II der Meisterprüfung ermöglicht.
+d) Kriterien für die Vergabe von Unteraufträgen festlegen, insbesondere unter Berücksichtigung von Qualität und Rechtsvorschriften, darauf aufbauend Ausschreibungen oder Angebotsanfragen erstellen sowie hierauf eingehende Angebote bewerten sowie
 
-(6) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Über das Ergebnis der Prüfung im Prüfungsfach nach Absatz 2 Nummer 1 stellt der Meisterprüfungsausschuss dem Prüfling nach Bestehen des Teils II der Meisterprüfung eine Bescheinigung aus. Die Prüfung des Teils II ist nicht bestanden, wenn
+e) Vor- und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkte, rechtliche Gesichtspunkte sowie sicherheitstechnische Gesichtspunkte erläutern und abwägen sowie daraus eine Lösung auswählen und diese Auswahl begründen sowie
 
-1. ein Prüfungsfach mit weniger als 30 Punkten bewertet worden ist oder
+3. Angebote kalkulieren, erstellen und erläutern sowie Leistungen vereinbaren, hierzu zählen insbesondere:
 
-2. nach durchgeführter Ergänzungsprüfung zwei Prüfungsfächer jeweils mit weniger als 50 Punkten bewertet worden sind.
+a) Personalkosten, Materialkosten sowie Gerätekosten auf der Grundlage der Planungen kalkulieren,
 
-(+++ § 6 Abs. 5 u. 6: Zur Anwendung vgl. § 8 +++)
+b) auf der Grundlage entwickelter Lösungsmöglichkeiten Angebotspositionen bestimmen und zu Angebotspaketen zusammenfassen, Preise kalkulieren,
 
-# § 7 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+c) Vertragsbedingungen unter Berücksichtigung von Haftungsbestimmungen formulieren und beurteilen,
+
+d) Angebotsunterlagen vorbereiten, Angebote erstellen sowie
+
+e) Angebotspositionen und Vertragsbedingungen gegenüber Kundinnen und Kunden erläutern und begründen sowie Leistungen vereinbaren.
+
+# § 10 – Handlungsfeld „Leistungen eines Betriebs im Informationstechniker-Handwerk erbringen, kontrollieren und übergeben“
+
+(1) Im Handlungsfeld „Leistungen eines Betriebs im Informationstechniker-Handwerk erbringen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Leistungen eines Betriebs im Informationstechniker-Handwerk erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu erbringen, zu kontrollieren und zu übergeben. Dabei hat er baurechtliche Gesichtspunkte, datenschutzrechtliche Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte sowie soziale Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Leistungen eines Betriebs im Informationstechniker-Handwerk erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
+
+1. die Erbringung der Leistungen vorbereiten, hierzu zählen insbesondere:
+
+a) Methoden der Arbeitsplanung sowie der Arbeitsorganisation sowie des Projektmanagements erläutern, auswählen und die Auswahl begründen sowie unter Berücksichtigung einzusetzender Herstellungsverfahren sowie einzusetzender Instandhaltungsverfahren den Einsatz von Personal, Material sowie Geräten, Maschinen oder Werkzeugen planen,
+
+b) mögliche Störungen und Risiken bei der Leistungserbringung, auch in der Zusammenarbeit mit anderen an der Leistungserbringung Beteiligten, vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder Behebung entwickeln sowie
+
+c) technische Ausführungsplanungen, Zeichnungen, Montageanweisungen erarbeiten, bewerten und korrigieren,
+
+2. die Leistungen erbringen, hierzu zählen insbesondere:
+
+a) berufsbezogene Rechtsvorschriften und technische Normen sowie die allgemein anerkannten Regeln der Technik anwenden,
+
+b) Maßnahmen zur Gefahrenvermeidung sowie zur Gefahrenbeseitigung erläutern sowie Folgen ableiten,
+
+c) Fehler und Mängel in der Erbringung der Leistungen erläutern sowie Maßnahmen zu deren Beseitigung ableiten,
+
+d) Vorgehensweise zur Erbringung von Leistungen unter Berücksichtigung von Herstellungsverfahren sowie von Instandhaltungsverfahren, baurechtlicher Vorschriften sowie datenschutzrechtlicher Vorschriften erläutern und begründen,
+
+e) Vorgehensweise zur Umsetzung von Konzepten für umfängliche und vernetzte Systeme der Informations- und Kommunikationstechnik, insbesondere durch Installieren, Parametrieren, Programmieren und Inbetriebnehmen, erläutern und begründen,
+
+f) Analysieren von Systemen der Informations- und Kommunikationstechnik und Instandhalten planen sowie
+
+g) technische und gewerkeübergreifende Systeme erkennen und in eine vernetzte Gebäudetechnik zusammenführen sowie
+
+3. die Leistungen kontrollieren, dokumentieren, übergeben und abrechnen, hierzu zählen insbesondere:
+
+a) Kriterien zur Feststellung der Qualität der erbrachten Leistungen erläutern,
+
+b) Leistungen dokumentieren,
+
+c) Prüfergebnisse dokumentieren und bewerten, insbesondere sicherheitsrelevante Messungen gemäß Normen und rechtlicher Vorgaben erläutern und Ergänzungen der elektronischen Bauakte vornehmen,
+
+d) Vorgehensweise bei Übergabe der Leistungen und Information der Kundinnen und Kunden über Handhabung, Pflege und Wartung erläutern, dabei Überprüfungspflichten sowie Wartungspflichten und Wartungsnotwendigkeiten darstellen,
+
+e) Leistungen abrechnen,
+
+f) auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten,
+
+g) Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung erläutern und beurteilen sowie
+
+h) Serviceleistungen anlässlich der Übergabe, insbesondere mit Blick auf Überprüfungspflichten sowie Wartungspflichten, erläutern und bewerten.
+
+# § 11 – Handlungsfeld „Einen Betrieb im Informationstechniker-Handwerk führen und organisieren“
+
+(1) Im Handlungsfeld „Einen Betrieb im Informationstechniker-Handwerk führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Betrieb im Informationstechniker-Handwerk unter Berücksichtigung der Rechtsvorschriften, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Einen Betrieb im Informationstechniker-Handwerk führen und organisieren“ besteht aus folgenden Qualifikationen:
+
+1. betriebliche Kosten analysieren und für die Preisgestaltung und Effizienzsteigerung nutzen, hierzu zählen insbesondere:
+
+a) betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,
+
+b) betriebliche Kostenstrukturen überprüfen,
+
+c) betriebliche Kennzahlen ermitteln und vergleichen,
+
+d) Maßnahmen zur Effizienzsteigerung ableiten sowie
+
+e) Stundenverrechnungssätze anhand vorgegebener Kostenstrukturen berechnen,
+
+2. Marketingmaßnahmen zur Kundengewinnung und zur Kundenpflege erarbeiten, hierzu zählen insbesondere:
+
+a) Auswirkungen technologischer Entwicklungen, wirtschaftlicher Entwicklungen, rechtlicher Entwicklungen sowie gesellschaftlicher Entwicklungen sowie veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen,
+
+b) Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen zur Kundengewinnung und Kundenpflege entwickeln,
+
+c) Informationen über Produkte und über das Leistungsspektrum des Betriebs erstellen sowie
+
+d) Vertriebswege ermitteln und bewerten,
+
+3. betriebliches Qualitätsmanagement entwickeln, hierzu zählen insbesondere:
+
+a) Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen,
+
+b) Qualitätsmanagementsysteme unterscheiden und beurteilen,
+
+c) Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen,
+
+d) Maßnahmen zur kontinuierlichen Verbesserung von Geschäfts- und Arbeitsprozessen festlegen und bewerten,
+
+e) Maßnahmen zur Rückverfolgbarkeit der verwendeten Produkte und Materialien, insbesondere zum Nachweis der Nachhaltigkeit, der Schadstofffreiheit sowie der ökologischen und sozialen Verantwortung, festlegen sowie
+
+f) Maßnahmen zur Dokumentation der verwendeten Produkte zur Erfüllung der Gesetze zu digitalen Märkten und digitalen Diensten, insbesondere der Pflicht zur Aktualisierung von installierten Software-Systemen, festlegen,
+
+4. Personal unter Berücksichtigung gewerbespezifischer Bedingungen planen und anleiten, Personalentwicklung planen, hierzu zählen insbesondere:
+
+a) Einsatz von Personal disponieren,
+
+b) Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren,
+
+c) Methoden zur Anleitung von Personal erläutern,
+
+d) Qualifikationsbedarfe ermitteln sowie
+
+e) Maßnahmen zur fortlaufenden Qualifizierung, insbesondere unter Berücksichtigung der Weiterentwicklungsmöglichkeiten im Informationstechniker-Handwerk, planen sowie
+
+5. Betriebs- und Lagerausstattung sowie Abläufe planen, hierzu zählen insbesondere:
+
+a) Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Folgen aus dem Ergebnis ableiten,
+
+b) Ausstattung des Betriebes, insbesondere unter Berücksichtigung der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, der Gefahrstoffhandhabung sowie ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte, sozialer Gesichtspunkte sowie logistischer Gesichtspunkte, planen und begründen,
+
+c) Maßnahmen zur Unfallverhütung, zum Arbeitsschutz, zur Gefahrstofflagerung, insbesondere unter Berücksichtigung ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte sowie sozialer Gesichtspunkte, planen und begründen,
+
+d) Instandhaltung von Werkzeugen, Geräten, Maschinen oder Fahrzeugen planen,
+
+e) Betriebsabläufe unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, Material und Werkzeugen, Geräten, Maschinen oder Fahrzeugen planen und verbessern sowie
+
+f) Möglichkeiten zur Gewinnung, Nutzung oder Einsparung von Energie darstellen.
+
+# § 12 – Gewichtung, Bestehen der Prüfung in Teil II
+
+(1) Bei der Berechnung des Gesamtergebnisses der Prüfung in Teil II der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden die Bewertungen der Handlungsfelder nach den §§ 9 bis 11 gleich gewichtet.
+
+(2) Wurden in höchstens zwei der drei Handlungsfelder jeweils mindestens 30 und weniger als 50 Punkte erreicht, so kann in einem dieser Handlungsfelder eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese für das Bestehen der Prüfung in Teil II der Meisterprüfung ausschlaggebend ist.
+
+(3) Der Prüfling hat den Teil II der Meisterprüfung bestanden, wenn
+
+1. jedes der drei Handlungsfelder mit mindestens 30 Punkten bewertet worden ist,
+
+2. nach durchgeführter Ergänzungsprüfung nach Absatz 2 höchstens ein Handlungsfeld mit weniger als 50 Punkten bewertet worden ist und
+
+3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
+
+(4) Der Meisterprüfungsausschuss stellt dem Prüfling eine Bescheinigung aus, wenn folgende Prüfungsleistungen mit jeweils mindestens 50 Prozent der möglichen Punktzahl bewertet worden sind:
+
+1. im Fachgespräch nach § 5,
+
+2. in der Situationsaufgabe Tätigkeiten nach § 6 Absatz 2 Nummer 3,
+
+3. im Handlungsfeld „Anforderungen von Kunden eines Betriebes im Informationstechniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ nach § 9 und
+
+4. im Handlungsfeld „Leistungen eines Betriebs im Informationstechniker-Handwerk erbringen, kontrollieren und übergeben“ nach § 10.
+
+# § 13 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
-(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
-# § 8 – Übergangsvorschrift
+# § 14 – Übergangsvorschrift
 
-Die Regelungen des § 6 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
+(1) Die bis zum Ablauf des 29. Februar 2024 begonnenen Prüfungsverfahren werden nach den Vorschriften der Informationstechnikermeisterverordnung vom 17. Juni 2002 (BGBl. I S. 2328), die zuletzt durch Artikel 2 Absatz 39 der Verordnung vom 18. Januar 2022 (BGBl. I S. 39) geändert worden ist, zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 31. August 2024, so sind auf Verlangen des Prüflings die bis zum Ablauf des 29. Februar 2024 geltenden Vorschriften weiter anzuwenden.
 
-# § 9 – Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am 1. Oktober 2002 in Kraft.
+(2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 29. Februar 2024 geltenden Vorschriften nicht bestanden haben und sich bis zum Ablauf des 28. Februar 2026 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum Ablauf des 29. Februar 2024 geltenden Vorschriften ablegen.

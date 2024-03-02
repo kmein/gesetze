@@ -1,185 +1,439 @@
-% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Elektromaschinenbauer-Handwerk  (Elektromaschinenbauermeisterverordnung - ElektroMbMstrV)
-% Ausfertigungsdatum: 17.06.2002
+% Verordnung über die Meisterprüfung in den Teilen I und II im Elektromaschinenbauer-Handwerk  (Elektromaschinenbauermeisterverordnung - ElektroMbMstrV)
+% Ausfertigungsdatum: 21.02.2024
  
-# Eingangsformel
+# § 1 – Gegenstand
 
-Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in den Teilen I und II der Meisterprüfung zu stellenden Anforderungen sowie die Bestimmungen zur Durchführung der Meisterprüfung im Elektromaschinenbauer-Handwerk.
 
-# § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 2 – Begriffsbestimmungen
 
-Die Meisterprüfung im Elektromaschinenbauer-Handwerk umfasst folgende selbständige Prüfungsteile:
+(1) Antriebssysteme im Sinne dieser Verordnung umfassen mechanische Antriebssysteme, elektrische Antriebssysteme sowie elektronische Antriebssysteme.
 
-1. die Prüfung der meisterhaften Verrichtung der gebräuchlichen Arbeiten (Teil I),
+(2) Energieerzeugungssysteme im Sinne dieser Verordnung umfassen mechanische Energieerzeugungssysteme, elektrische Energieerzeugungssysteme sowie elektronische Energieerzeugungssysteme.
 
-2. die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
+(3) Energiespeichersysteme im Sinne dieser Verordnung umfassen mechanische Energiespeichersysteme, elektrische Energiespeichersysteme sowie elektronische Energiespeichersysteme.
 
-3. die Prüfung der erforderlichen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
+# § 3 – Meisterprüfungsberufsbild
 
-4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
+In den Teilen I und II der Meisterprüfung im Elektromaschinenbauer-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
-# § 2 – Meisterprüfungsberufsbild
+1. einen Betrieb im Elektromaschinenbauer-Handwerk führen und organisieren und dabei technische, kaufmännische und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung
 
-(1) Durch die Meisterprüfung im Elektromaschinenbauer-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
+a) der Kostenstrukturen,
 
-(2) Dem Elektromaschinenbauer-Handwerk werden zum Zwecke der Meisterprüfung folgende Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
+b) der Wettbewerbssituation,
 
-1. Kundenwünsche ermitteln, Kunden beraten, Leistungen kalkulieren und Angebote erstellen, Auftragsverhandlungen führen und Auftragsziele festlegen,
+c) der für den Betrieb wesentlichen Ausbildung, Fort- und Weiterbildung des Personals,
 
-2. Aufgaben der technischen und kaufmännischen Betriebsführung, der Betriebsorganisation, der Personalplanung und des Personaleinsatzes wahrnehmen, insbesondere unter Berücksichtigung der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, der Haftung sowie des Arbeitsschutzes, der Arbeitssicherheit, des Datenschutzes und des Umweltschutzes; Informationssysteme nutzen,
+d) der Betriebsorganisation,
 
-3. Aufträge durchführen unter Berücksichtigung von Fertigungstechniken, Instandhaltungsalternativen, berufsbezogenen Gesetzen, Normen, Regeln und Vorschriften, Personalbedarf und Ausbildung; Auftragsbearbeitung und Auftragsabwicklung organisieren, planen und überwachen,
+e) des Qualitätsmanagements,
 
-4. ausrüstungstechnische Anlagen der Antriebstechnik, der Mess-, Steuerungs- und Regelungstechnik sowie der Leitungs-, Verteilungs-, Schweiß- und Verfahrenstechnik unter Berücksichtigung sicherheits- und gesundheitsrelevanter Vorsorgemaßnahmen entwickeln, planen, herstellen, programmieren und errichten,
+f) des Arbeitsschutzrechtes,
 
-5. Funktionsweisen von Energieverbrauchseinrichtungen sowie von elektrischen und elektronischen Betriebsmitteln, Baugruppen und deren Stromversorgungseinrichtungen, beherrschen; Techniken zur rationellen Energieanwendung berücksichtigen und anwenden,
+g) des Datenschutzes, der Datensicherheit und der Datenverarbeitung,
 
-6. Digital-, Daten- und Netzwerktechnik beherrschen, Schnittstellen analysieren,
+h) der ökologischen, ökonomischen sowie sozialen Nachhaltigkeit sowie
 
-7. Werkstoffeigenschaften bei Planung, Konstruktion und Ausführung berücksichtigen,
+i) technologischer Entwicklungen sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien,
 
-8. drehende und ruhende elektrische Maschinen und Geräte berechnen, montieren, instand setzen, prüfen, in Betrieb nehmen und instand halten; Mess- und Prüfwerkzeuge einsetzen und warten,
+2. Konzepte für Betriebsausstattung und Lagerausstattung sowie für logistische Geschäfts- und Arbeitsprozesse entwickeln und umsetzen,
 
-9. Dokumentationen, insbesondere Wicklungsdarstellungen und Schaltpläne, auch unter Einsatz von rechnergestützten Systemen erstellen,
+3. Kundenwünsche und jeweilige Rahmenbedingungen ermitteln, Anforderungen ableiten, Kundinnen und Kunden beraten,
 
-10. Funktionsweisen der Mechanik, Hydraulik und Pneumatik unter Berücksichtigung physikalischer Gesetzmäßigkeiten beherrschen,
+4. Lösungen zur Planung, Umgestaltung oder Instandhaltung von Antriebssystemen, Energieerzeugungssystemen sowie Energiespeichersystemen entwickeln,
 
-11. Verträge konzipieren; Standardverträge, insbesondere Serviceverträge entwickeln und pflegen,
+5. Verhandlungen führen und Ziele festlegen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen, Serviceleistungen zur Instandhaltung entwickeln und anbieten,
 
-12. Fehler- und Störungssuche durchführen, Maßnahmen zur Beseitigung von Fehlern und Störungen beherrschen, Ergebnisse bewerten und dokumentieren,
+6. Geschäfts- und Arbeitsprozesse zur Leistungserbringung planen, organisieren sowie überwachen,
 
-13. Leistungen abnehmen und protokollieren, dem Kunden übergeben, abrechnen und Nachkalkulation durchführen.
+7. Leistungen im Elektromaschinenbauer-Handwerk bei Kundinnen und Kunden sowie in der Werkstatt erbringen, insbesondere
 
-# § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
+a) drehende mechanische Maschinen sowie drehende elektrische Maschinen sowie elektronische Geräte und ruhende elektrische Maschinen planen, montieren, installieren, prüfen sowie in Betrieb nehmen,
 
-(1) Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
+b) Antriebssysteme, Energieerzeugungssysteme sowie Energiespeichersysteme entwickeln, planen, herstellen, programmieren, parametrieren, errichten sowie einrichten,
 
-(2) Die Anfertigung des Meisterprüfungsprojekts soll insgesamt nicht länger als fünf Arbeitstage, das Fachgespräch nicht länger als 30 Minuten dauern.
+c) bestehende Antriebssysteme, bestehende Energieerzeugungssysteme und bestehende Energiespeichersysteme prüfen, Maßnahmen zur Instandhaltung durchführen sowie in Betrieb nehmen sowie
 
-(3) Das Meisterprüfungsprojekt und das Fachgespräch werden gesondert bewertet. Die Prüfungsleistungen im Meisterprüfungsprojekt und im Fachgespräch werden im Verhältnis 3:1 gewichtet. Hieraus wird eine Gesamtbewertung gebildet.
+d) bestehende Maschinen, bestehende Geräte sowie bestehende ausrüstungstechnische Anlagen warten, instand setzen sowie verbessern,
 
-(4) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch mit weniger als 30 Punkten bewertet worden sein darf.
+8. technische Gesichtspunkte, organisatorische Gesichtspunkte sowie rechtliche Gesichtspunkte bei der Leistungserbringung berücksichtigen, insbesondere
 
-# § 4 – Meisterprüfungsprojekt
+a) Ablaufprozessplanung zur Herstellung sowie zur Instandhaltung,
 
-(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
+b) Digitaltechnik, Datentechnik oder Netzwerktechnik sowie Schnittstellen in informationstechnischen Systemen,
 
-(2) Als Meisterprüfungsprojekt ist die nachfolgende Aufgabe durchzuführen:  
-Eine Anlage oder ein Teilstück der Antriebstechnik, unter Berücksichtigung der Mess-, Steuerungs- und Regelungstechnik anfertigen oder instand setzen.
+c) Leitungstechnik sowie Verteilungstechnik für elektrische Energie,
 
-(3) Das Meisterprüfungsprojekt nach Absatz 2 besteht aus:
+d) Messtechnik, Steuerungstechnik sowie Regelungstechnik,
 
-1. Entwurfs-, Berechnungs-, Planungs- und Kalkulationsunterlagen,
+e) mechanische Antriebstechnik, hydraulische Antriebstechnik sowie pneumatische Antriebstechnik,
 
-2. Anfertigung oder Instandsetzung der Anlage oder des Teilstücks,
+f) Schweißtechnik sowie Verfahrenstechnik,
 
-3. Prüfprotokoll.
+g) Automatisierungstechnik,
 
-Die Entwurfs-, Berechnungs-, Planungs- und Kalkulationsunterlagen werden mit 30 vom Hundert, die Anfertigung oder Instandsetzung der Anlage oder des Teilstücks mit 50 vom Hundert und das Prüfprotokoll mit 20 vom Hundert gewichtet.
+h) Techniken zur rationellen Energieanwendung,
 
-# § 5 – Fachgespräch
+i) Verfahren zur Berechnung von Wicklungssystemen sowie Dimensionierung von Maschinen und Anlagen,
 
-Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, dass er den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
+j) Lagerungsverfahren von Maschinen,
 
-# § 6 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+k) die berufsbezogenen Rechtsvorschriften und technischen Normen,
 
-(1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung technologischer, sicherheitstechnischer, ablauf- und verfahrenstechnischer, werkstofftechnischer, mathematischer und wirtschaftlicher Kenntnisse nachweisen, dass er Probleme analysieren und bewerten sowie geeignete Lösungswege aufzeigen und dokumentieren kann.
+l) die allgemein anerkannten Regeln der Technik,
 
-(2) Prüfungsfächer sind:
+m) das einzusetzende Personal sowie die Materialien, Arbeitsmittel oder Betriebsmittel sowie
 
-1. Antriebs- und Sicherheitstechnik,
+n) die Möglichkeiten zum Einsatz von Auszubildenden,
 
-2. Auftragsabwicklung,
+9. Dokumentationen über die Herstellung und Instandhaltung von Maschinen, Geräten sowie Anlagen, insbesondere unter Berücksichtigung von eingesetztem Personal und verwendeten Materialien sowie unter Einsatz von Informations- und Kommunikationstechnologien, anfertigen, bewerten und korrigieren,
 
-3. Betriebsführung und Betriebsorganisation.
+10. Arten und Eigenschaften von zu bearbeitenden und zu verarbeitenden sowie zu verwendenden Materialien berücksichtigen,
 
-(3) In jedem der Prüfungsfächer ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss.
+11. Unteraufträge kriterienorientiert, insbesondere unter Berücksichtigung von Qualität der Leistungen und Rechtsvorschriften, vergeben und deren Ausführung kontrollieren,
 
-1. Antriebs- und Sicherheitstechnik
+12. fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus bewerten und dokumentieren,
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben und Probleme der Antriebstechnik unter Beachtung technischer, sicherheitstechnischer, wirtschaftlicher und ökologischer Aspekte in einem Elektromaschinenbauerbetrieb zu bearbeiten. Er soll fachliche Sachverhalte beurteilen und beschreiben. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+13. erbrachte Leistungen kontrollieren, Mängel beseitigen, Leistungen dokumentieren und übergeben sowie Nachkalkulationen durchführen, Auftragsabwicklung auswerten und Abnahmeprotokolle erstellen sowie
 
-a) Kundenanforderungen analysieren,
+14. Motoren, Geräte, Maschinen sowie Anlagen und Anlagenkomponenten zerlegen, unter Berücksichtigung von rechtlichen Vorschriften und Nachhaltigkeitsgesichtspunkten einer umweltschonenden Wiederverwertung oder Entsorgung zuführen.
 
-b) Aufbau, Wirkungsweise und Funktion von Anlagen der Antriebstechnik, insbesondere der Mess-, Steuerungs- und Regelungstechnik beschreiben und beurteilen,
+Dokumentationen im Sinne des Satzes 2 Nummer 7 bestehen aus technischen Zeichnungen, Wickelschaltbildern, Stromlaufplänen, Prüfergebnissen sowie einer Benutzerdokumentation.
 
-c) Methoden der Diagnose, Wartung, Instandsetzung und Messtechnik beschreiben und bewerten,
+# § 4 – Ziel und Gliederung der Prüfung in Teil I
 
-d) technische Daten bewerten und Verwendungszwecken zuordnen,
+(1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er wesentliche Tätigkeiten des Elektromaschinenbauer-Handwerks meisterhaft verrichtet.
 
-e) Arten, Eigenschaften und Verarbeitung von Werkstoffen und Werkstoffverbindungen beurteilen und Verwendungszwecken zuordnen,
+(2) Die Prüfung in Teil I gliedert sich in folgende Prüfungsbereiche:
 
-f) technische Lösungen, insbesondere unter Berücksichtigung sicherheits- und gesundheitsrelevanter Vorsorgemaßnahmen erarbeiten, bewerten und korrigieren;
+1. ein Meisterprüfungsprojekt nach § 5 und ein darauf bezogenes Fachgespräch nach § 6 sowie
 
-2. Auftragsabwicklung
+2. eine Situationsaufgabe nach § 7.
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, bei der Auftragsabwicklung die ablaufbezogenen Maßnahmen, die für den technischen und wirtschaftlichen Erfolg eines Elektromaschinenbauerbetriebs notwendig sind, kundenorientiert einzuleiten und abzuschließen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+# § 5 – Meisterprüfungsprojekt
 
-a) Auftragsunterlagen auswerten und Auftragsabwicklungsprozesse planen,
+(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs-, Kontroll- und Dokumentationsarbeiten.
 
-b) Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung der Fertigungs- und Instandsetzungsmethoden sowie des Einsatzes von Material, Geräten und Personal bewerten, dabei qualitätssichernde Aspekte darstellen,
+(2) Als Meisterprüfungsprojekt ist unter Einsatz von Informations- und Kommunikationstechnologien eine Anlage oder ein Teilstück der Antriebstechnik mit einer elektrischen Maschine unter Berücksichtigung der Messtechnik, der Steuertechnik sowie der Regeltechnik sowie gesetzlicher Vorschriften und technischer Normen zu planen, herzustellen, instand zu setzen oder zu modernisieren, dabei
 
-c) technische Arbeitspläne, insbesondere Skizzen, technische Zeichnungen, Wicklungsdarstellungen und Schaltpläne erarbeiten, bewerten und korrigieren, auch unter Anwendung von elektronischen Datenverarbeitungssystemen,
+1. im Rahmen der Planungsarbeiten technische Berechnungen, Wickelschaltbilder, technische Zeichnungen, Stromlaufpläne anfertigen sowie eine Arbeitsprozessplanung erstellen, Material auswählen und die Materialauswahl begründen sowie den Auftrag kalkulieren,
 
-d) Analyse von Genehmigungserfordernissen vornehmen und bewerten,
+2. auf Grundlage der Tätigkeiten nach Nummer 1 eine Anlage oder ein Teilstück der Antriebstechnik herstellen, instand setzen oder modernisieren, dabei Installationsarbeiten, Parametrierungsarbeiten sowie Programmierarbeiten durchführen sowie
 
-e) Unteraufträge vergeben und kontrollieren,
+3. im Rahmen der Kontrollarbeiten sowie der Dokumentationsarbeiten notwendige sicherheitstechnische Überprüfungen und Messungen durchführen sowie Prüfprotokolle, einen Nachweis über die Erfüllung von Sicherheitsstandards und eine Nachkalkulation erstellen.
 
-f) Daten erfassen und bewerten sowie Prüfergebnisse dokumentieren,
+(3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt. Die Auswahl der Durchführungsarbeiten nach Absatz 2 Nummer 2 erfolgt durch den Meisterprüfungsausschuss.
 
-g) Vor- und Nachkalkulation durchführen;
+(4) Für die Bearbeitung des Meisterprüfungsprojekts stehen dem Prüfling 5 Arbeitstage zur Verfügung.
 
-3. Betriebsführung und Betriebsorganisation
+(5) Für die Bewertung des Meisterprüfungsprojekts werden die einzelnen Bestandteile wie folgt gewichtet:
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Elektromaschinenbauerbetrieb wahrzunehmen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+1. die Planungsarbeiten anhand technischer Berechnungen, Wickelschaltbilder, technischer Zeichnungen, von Stromlaufplänen, der Arbeitsprozessplanung, Begründung der Materialauswahl sowie einer Auftragskalkulation mit 30 Prozent,
 
-a) Arbeitspositionen zu Angebotspaketen zusammenfassen und Preise kalkulieren,
+2. die Durchführungsarbeiten mit 50 Prozent und
 
-b) Stundenverrechnungssätze anhand einer vorgegebenen Kostenstruktur berechnen,
+3. die Kontrollarbeiten sowie die Dokumentationsarbeiten anhand der Dokumentationsunterlagen, bestehend aus Prüfprotokollen und einem Nachweis über die Erfüllung von Sicherheitsstandards sowie einer Nachkalkulation, mit 20 Prozent.
 
-c) betriebliche Kennzahlen anhand vorgegebener Schemata ermitteln und nutzen,
+# § 6 – Fachgespräch
 
-d) auf der Grundlage der technischen Entwicklung und des Marktes die Geschäftsfeldentwicklung planen,
+(1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-e) Personalentwicklungs- und -führungskonzepte entwerfen und umsetzen,
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
 
-f) betriebliches Qualitätsmanagement planen und darstellen,
+2. Kundinnen und Kunden zu beraten und dabei den jeweiligen Kundenwunsch sowie wirtschaftliche, rechtliche, technische und energieeffiziente Gesichtspunkte in das Beratungsgespräch einzubeziehen,
 
-g) Mitarbeiter in Aufgabenstellungen einweisen und schulen,
+3. sein Vorgehen bei der Planung und Durchführung des Meisterprüfungsprojekts zu begründen sowie
 
-h) Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden entwickeln,
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Elektromaschinenbauer-Handwerk zu berücksichtigen.
 
-i) Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsatzmöglichkeiten beschreiben und beurteilen,
+(2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
-k) berufsbezogene Gesetze, Normen, Regeln und Vorschriften anwenden,
+# § 7 – Situationsaufgabe
 
-l) die Haftung bei der Herstellung, der Instandhaltung und bei Serviceleistungen beurteilen,
+(1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und vervollständigt für die Meisterprüfung den Nachweis der beruflichen Handlungskompetenz im Elektromaschinenbauer-Handwerk.
 
-m) Erfordernisse der Arbeitssicherheit, des Gesundheitsschutzes, des Datenschutzes und des Umweltschutzes darstellen; Gefahren beurteilen und Maßnahmen zur Gefahrenabwehr festlegen,
+(2) Die Situationsaufgabe wird nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt. Als Bestandteil der Situationsaufgabe hat der Prüfling folgende Prüfungsleistungen zu erbringen:
 
-n) Betriebs-, Lager- und Baustellenausstattung sowie Logistik planen und darstellen.
+1. im Bereich Elektrotechnik
 
-(4) Die Prüfung im Teil II ist schriftlich durchzuführen. Sie soll insgesamt nicht länger als neun Stunden dauern. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
+a) eine Fehler- und Störungssuche an einer elektrischen Anlage durchführen und die Ergebnisse der Überprüfung dokumentieren,
 
-(5) Wurden in höchstens zwei der in Absatz 2 genannten Prüfungsfächer jeweils mindestens 30 und weniger als 50 Punkte erreicht, kann in einem dieser Prüfungsfächer eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese das Bestehen des Teils II der Meisterprüfung ermöglicht.
+b) auf Grundlage der Tätigkeiten nach Buchstabe a Fehler und Störungen an der elektrischen Anlage beseitigen,
 
-(6) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Über das Ergebnis der Prüfung im Prüfungsfach nach Absatz 2 Nummer 1 stellt der Meisterprüfungsausschuss dem Prüfling nach Bestehen des Teils II der Meisterprüfung eine Bescheinigung aus. Die Prüfung des Teils II ist nicht bestanden, wenn
+c) eine elektrische Anlage in Betrieb nehmen sowie
 
-1. ein Prüfungsfach mit weniger als 30 Punkten bewertet worden ist oder
+d) sicherheitstechnische Überprüfungen und Messungen an einer elektrischen Anlage durchführen und protokollieren sowie Ergebnisse beurteilen und
 
-2. nach durchgeführter Ergänzungsprüfung zwei Prüfungsfächer jeweils mit weniger als 50 Punkten bewertet worden sind.
+2. im Bereich Automatisierungstechnik
 
-(+++ § 6 Abs. 5 u. 6: Zur Anwendung vgl. § 8 +++)
+a) eine Fehler- und Störungssuche an einer automatisierten Anlage durchführen und die Ergebnisse der Überprüfung dokumentieren,
 
-# § 7 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+b) auf Grundlage der Tätigkeiten nach Buchstabe a Fehler und Störungen an der automatisierten Anlage beseitigen,
+
+c) eine automatisierte Anlage in Betrieb nehmen sowie
+
+d) die sicherheitstechnischen Überprüfungen und Messungen an einer automatisierten Anlage durchführen und protokollieren sowie die Ergebnisse beurteilen.
+
+(3) Für die Bearbeitung der Situationsaufgabe stehen dem Prüfling insgesamt 8 Stunden zur Verfügung.
+
+(4) Jede Prüfungsleistung nach Absatz 2 Satz 2 Nummer 1 bis 2 wird gesondert bewertet. Die Gesamtbewertung der Situationsaufgabe entspricht dem arithmetischen Mittel der Bewertungen der Prüfungsleistungen nach Absatz 2 Satz 2 Nummer 1 bis 2.
+
+# § 8 – Gewichtung, Bestehen der Prüfung in Teil I
+
+(1) Das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe werden gesondert bewertet. Bei Berechnung des Gesamtergebnisses der Prüfung in Teil I der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden zunächst die Bewertung des Meisterprüfungsprojekts und die Bewertung des Fachgesprächs im Verhältnis 3:1 gewichtet. Anschließend wird das hieraus folgende Ergebnis mit der Bewertung der Situationsaufgabe im Verhältnis 2:1 gewichtet.
+
+(2) Der Prüfling hat den Teil I der Meisterprüfung bestanden, wenn
+
+1. das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe jeweils mit mindestens 30 Punkten bewertet worden ist und
+
+2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
+
+# § 9 – Ziel und Gliederung der Prüfung in Teil II
+
+(1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Elektromaschinenbauer-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
+
+1. nach Maßgabe des § 10 „Anforderungen von Kundinnen und Kunden eines Betriebs im Elektromaschinenbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“,
+
+2. nach Maßgabe des § 11 „Leistungen eines Betriebs im Elektromaschinenbauer-Handwerk erbringen, kontrollieren und übergeben“ und
+
+3. nach Maßgabe des § 12 „Einen Betrieb im Elektromaschinenbauer-Handwerk führen und organisieren“.
+
+(2) Der Prüfling hat in jedem der drei Handlungsfelder eine fallbezogene Aufgabe zu bearbeiten, die den Anforderungen des Absatzes 1 entspricht. Bei jeder Aufgabenstellung können die Qualifikationen der drei Handlungsfelder handlungsfeldübergreifend verknüpft werden.
+
+(3) Die Aufgaben sind schriftlich zu bearbeiten.
+
+(4) Für die Bearbeitung der Aufgaben stehen dem Prüfling in jedem Handlungsfeld 3 Stunden zur Verfügung. Eine Prüfungsdauer von 6 Stunden an einem Tag darf nicht überschritten werden.
+
+# § 10 – Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Elektromaschinenbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“
+
+(1) Im Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Elektromaschinenbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Betrieb im Elektromaschinenbauer-Handwerk Anforderungen erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er technologische Gesichtspunkte, sicherheitstechnische Gesichtspunkte, verfahrenstechnische Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte sowie soziale Gesichtspunkte und die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Elektromaschinenbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
+
+1. Kundenwünsche und die Rahmenbedingungen zu deren Erfüllung analysieren, dokumentieren sowie bewerten und daraus Anforderungen ableiten, hierzu zählen insbesondere:
+
+a) Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten,
+
+b) Ausschreibungen oder Angebotsanfragen öffentlicher oder privater Auftraggeber analysieren und bewerten,
+
+c) Messverfahren sowie Analyseverfahren und Prüfwerkzeuge zur Durchführung von Eingangsprüfungen von Antriebssystemen, Energieerzeugungssystemen sowie Energiespeichersystemen bei Kundinnen und Kunden sowie in der Werkstatt erläutern und bewerten,
+
+d) Messergebnisse auswerten, Fehler an den Systemen und veränderte Rahmenbedingungen erkennen und protokollieren,
+
+e) Dokumentationen nach § 3 Satz 3 sowie systembezogene Anwendungssoftware analysieren und auswerten sowie
+
+f) Ergebnisse der vorstehenden Handlungsschritte dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten,
+
+2. Lösungsmöglichkeiten, auch unter Einsatz digitaler Technologien, entwickeln, erläutern und begründen, auch unter Berücksichtigung der berufsbezogenen Rechtsvorschriften und technischen Normen sowie der allgemein anerkannten Regeln der Technik, hierzu zählen insbesondere:
+
+a) Möglichkeiten und Notwendigkeiten des Einsatzes von Komponenten und Materialien, auch unter Berücksichtigung einzusetzender Verfahren, darstellen, erläutern und begründen,
+
+b) Sicherheitsrisiken, Gesundheitsrisiken, Umweltrisiken sowie Haftungsrisiken bewerten und Konsequenzen ableiten,
+
+c) Aufbau, Leistung und Kapazitäten von Antriebssystemen, Energieerzeugungssystemen sowie Energiespeichersystemen planen und berechnen,
+
+d) Maßnahmen zur Instandhaltung von Antriebssystemen, Energieerzeugungssystemen sowie Energiespeichersystemen entwickeln,
+
+e) Dokumentationen zum Aufbau und zur Instandhaltung von Antriebssystemen, Energieerzeugungssystemen sowie Energiespeichersystemen anfertigen, bewerten und korrigieren,
+
+f) für die Angebotserstellung technische Berechnungen durchführen,
+
+g) notwendige logistische Maßnahmen sowie Einlagerungsverfahren anlassbezogen berücksichtigen,
+
+h) Kriterien für die Vergabe von Unteraufträgen festlegen, insbesondere unter Berücksichtigung von Qualität und Rechtsvorschriften, darauf aufbauend Ausschreibungen oder Angebotsanfragen erstellen sowie hierauf eingehende Angebote bewerten sowie
+
+i) Vorteile sowie Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkten sowie Gesichtspunkte der Energieeffizienz, der Nachhaltigkeit und des Umweltschutzes erläutern und abwägen sowie daraus eine Lösung auswählen und diese Auswahl begründen sowie
+
+3. Angebote kalkulieren, erstellen und erläutern sowie Leistungen vereinbaren, hierzu zählen insbesondere:
+
+a) Personalkosten, Materialkosten, Maschinenkosten sowie Messgerätekosten auf der Grundlage der Planungen kalkulieren,
+
+b) auf der Grundlage entwickelter Lösungsmöglichkeiten Angebotspositionen bestimmen, Angebotspakete erstellen, Preise kalkulieren,
+
+c) Vertragsbedingungen unter Berücksichtigung von Haftungsbestimmungen formulieren und beurteilen,
+
+d) Angebotsunterlagen vorbereiten, Angebote erstellen sowie
+
+e) Angebotspositionen und Vertragsbedingungen gegenüber Kundinnen und Kunden erläutern und begründen sowie Leistungen vereinbaren.
+
+# § 11 – Handlungsfeld „Leistungen eines Betriebs im Elektromaschinenbauer-Handwerk erbringen, kontrollieren und übergeben“
+
+(1) Im Handlungsfeld „Leistungen eines Betriebs im Elektromaschinenbauer-Handwerk erbringen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Leistungen eines Betriebs im Elektromaschinenbauer-Handwerk erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu erbringen, zu kontrollieren und zu übergeben. Dabei hat er technologische Gesichtspunkte, sicherheitstechnische Gesichtspunkte, verfahrenstechnische Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte sowie soziale Gesichtspunkte und die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Leistungen eines Betriebs im Elektromaschinenbauer-Handwerk erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
+
+1. die Erbringung der Leistungen bei Kundinnen und Kunden sowie in der Werkstatt, auch unter Einsatz digitaler Technologien, vorbereiten, hierzu zählen insbesondere:
+
+a) Methoden der Arbeitsplanung sowie der Arbeitsorganisation erläutern, auswählen und die Auswahl begründen sowie unter Berücksichtigung einzusetzender Verfahren den Einsatz von Personal, Material und Geräten, Maschinen oder Werkzeugen planen,
+
+b) mögliche Störungen bei der Leistungserbringung, auch in der Zusammenarbeit mit anderen an der Leistungserbringung Beteiligten, vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder Behebung entwickeln,
+
+c) Handhabungshinweise von Geräten, Maschinen oder Werkzeugen sowie Produktinformationen leistungsbezogen auswerten und erläutern,
+
+d) technische Arbeitspläne, Skizzen oder Fertigungszeichnungen erstellen, bewerten und korrigieren,
+
+e) technische Detailberechnungen durchführen,
+
+f) logistische Maßnahmen, Transportwege und Einlagerung planen,
+
+g) Vorgaben zur Prüfung an Maschinen und Prüfpläne erarbeiten sowie
+
+h) auftragsbezogene Vorgaben zum Programmieren systembezogener Anwendungssoftware und zum Parametrieren erarbeiten und festlegen,
+
+2. die Leistungen erbringen, hierzu zählen insbesondere:
+
+a) berufsbezogene Rechtsvorschriften und technische Normen sowie die allgemein anerkannten Regeln der Technik anwenden,
+
+b) Maßnahmen zur Gefahrenvermeidung sowie zur Gefahrenbeseitigung erläutern sowie Folgen ableiten,
+
+c) Fehler und Mängel in der Erbringung der Leistungen erläutern sowie Maßnahmen zu deren Beseitigung ableiten,
+
+d) Vorgehensweise zur Erbringung von Leistungen unter Berücksichtigung von Materialien und Komponenten erläutern und begründen sowie
+
+e) Dokumentationen nach § 3 Satz 3 erstellen, bewerten und korrigieren,
+
+f) Vorgehen zum Einstellen von Parametern erläutern und dokumentieren sowie
+
+g) systembezogene Anwendungssoftware programmieren sowie
+
+3. die Leistungen kontrollieren, dokumentieren, übergeben und abrechnen, hierzu zählen insbesondere:
+
+a) Kriterien zur Feststellung der Qualität der erbrachten Leistungen erläutern,
+
+b) Leistungen dokumentieren,
+
+c) Vorgehensweise zur Durchführung von Prüfungen anhand von Prüfvorgaben und Prüfplänen erläutern, Prüfergebnisse sowie Messergebnisse bewerten und daraus Konsequenzen ableiten,
+
+d) Vorgehensweise bei Übergabe der Leistungen und Information der Kundinnen und Kunden über Handhabung, die Einhaltung von Sicherheitshinweisen, Instandhaltungsintervalle sowie Pflege und Wartung von Antriebssystemen, Energieerzeugungssystemen sowie Energiespeichersystemen erläutern,
+
+e) Vorgehensweise bei der Übergabe von Dokumentationen nach § 3 Satz 3 oder systembezogener Anwendungssoftware erläutern,
+
+f) Serviceleistungen anlässlich der Übergabe, insbesondere zu empfohlenen Instandhaltungsintervallen, erläutern und bewerten,
+
+g) Leistungen abrechnen,
+
+h) auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten sowie
+
+i) Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung erläutern und beurteilen.
+
+# § 12 – Handlungsfeld „Einen Betrieb im Elektromaschinenbauer-Handwerk führen und organisieren“
+
+(1) Im Handlungsfeld „Einen Betrieb im Elektromaschinenbauer-Handwerk führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Betrieb im Elektromaschinenbauer-Handwerk unter Berücksichtigung der Rechtsvorschriften, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Einen Betrieb im Elektromaschinenbauer-Handwerk führen und organisieren“ besteht aus folgenden Qualifikationen:
+
+1. betriebliche Kosten analysieren und für die Preisgestaltung und Effizienzsteigerung nutzen, hierzu zählen insbesondere:
+
+a) betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,
+
+b) betriebliche Kostenstrukturen überprüfen,
+
+c) betriebliche Kennzahlen ermitteln und vergleichen,
+
+d) Maßnahmen zur Effizienzsteigerung ableiten,
+
+e) Stundenverrechnungssätze berechnen, überprüfen und anpassen,
+
+f) Einsatzpauschalen für Maschinen, Geräte, Messgeräte oder Fahrzeuge ermitteln sowie
+
+g) Materialzuschläge kalkulieren,
+
+2. Marketingmaßnahmen zur Kundengewinnung sowie zur Kundenpflege erarbeiten, hierzu zählen insbesondere:
+
+a) Auswirkungen technologischer Entwicklungen, wirtschaftlicher Entwicklungen, rechtlicher Entwicklungen sowie gesellschaftlicher Entwicklungen sowie veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen,
+
+b) Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen zur Kundengewinnung sowie zur Kundenpflege entwickeln,
+
+c) Informationen über Produkte und über das Leistungsspektrum des Betriebs erstellen sowie
+
+d) Vertriebswege, auch informations- und kommunikationsgestützte, ermitteln und bewerten,
+
+3. betriebliches Qualitätsmanagement entwickeln, hierzu zählen insbesondere:
+
+a) Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen,
+
+b) Qualitätsmanagementsysteme unterscheiden und beurteilen,
+
+c) Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen,
+
+d) Maßnahmen zur kontinuierlichen Verbesserung von Geschäfts- und Arbeitsprozessen festlegen und bewerten sowie
+
+e) Maßnahmen zur Rückverfolgbarkeit von verwendeten Materialien, Produktionsmitteln, Produkten oder Komponenten erläutern,
+
+aa)  
+aus Haftungsgründen,
+
+bb)  
+für Regressfragen von Kundinnen und Kunden,
+
+cc) für Rückrufe gegenüber Kundinnen und Kunden sowie
+
+dd)  
+für die Entsorgung,
+
+4. Personal unter Berücksichtigung gewerbespezifischer Bedingungen planen und anleiten, Personalentwicklung planen, hierzu zählen insbesondere:
+
+a) Einsatz von Personal disponieren,
+
+b) Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren,
+
+c) Methoden zur Anleitung von Personal erläutern,
+
+d) Qualifikationsbedarfe ermitteln,
+
+e) Maßnahmen zur fortlaufenden Qualifizierung, insbesondere unter Berücksichtigung des Berufslaufbahnkonzepts im Elektromaschinenbauer-Handwerk, planen sowie
+
+f) Maßnahmen zur Gewinnung und Bindung von Auszubildenden und Mitarbeitenden erläutern sowie
+
+5. Betriebs- und Lagerausstattung sowie Abläufe planen, hierzu zählen insbesondere:
+
+a) Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Folgen aus dem Ergebnis ableiten,
+
+b) Ausstattung des Betriebes, des Lagers, der Werkstatt sowie der Fahrzeuge, insbesondere unter Berücksichtigung der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, der Gefahrstoffhandhabung, des Explosionsschutzes sowie ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte, sozialer Gesichtspunkte sowie logistischer Gesichtspunkte, planen und begründen,
+
+c) Maßnahmen zur Unfallverhütung, zum Arbeitsschutz, zur Gefahrgutlagerung, insbesondere unter Berücksichtigung ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte sowie sozialer Gesichtspunkte, planen und begründen,
+
+d) Instandhaltung von Werkzeugen, Geräten, Maschinen, Fahrzeugen und Gebäuden, auch mit digitaler Unterstützung, planen,
+
+e) Betriebsabläufe unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, Material und Werkzeugen, Geräten, Maschinen und Fahrzeugen planen und verbessern,
+
+f) logistische Abläufe für den Transport von Geräten, Maschinen, Produkten und Anlagen planen sowie
+
+g) Möglichkeiten zur Gewinnung, Nutzung und Einsparung von Energie darstellen.
+
+# § 13 – Gewichtung, Bestehen der Prüfung in Teil II
+
+(1) Bei der Berechnung des Gesamtergebnisses der Prüfung in Teil II der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden die Bewertungen der Handlungsfelder nach den §§ 10 bis 12 gleich gewichtet.
+
+(2) Wurden in höchstens zwei der drei Handlungsfelder jeweils mindestens 30 und weniger als 50 Punkte erreicht, so kann in einem dieser Handlungsfelder eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese für das Bestehen der Prüfung in Teil II der Meisterprüfung ausschlaggebend ist.
+
+(3) Der Prüfling hat den Teil II der Meisterprüfung bestanden, wenn
+
+1. jedes der drei Handlungsfelder mit mindestens 30 Punkten bewertet worden ist,
+
+2. nach durchgeführter Ergänzungsprüfung nach Absatz 2 höchstens ein Handlungsfeld mit weniger als 50 Punkten bewertet worden ist und
+
+3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
+
+(4) Der Meisterprüfungsausschuss stellt dem Prüfling eine Bescheinigung aus, wenn die folgenden Prüfungsleistungen mit jeweils mindestens 50 Prozent der möglichen Punktzahl bewertet worden sind:
+
+1. im Fachgespräch nach § 6,
+
+2. in der Situationsaufgabe Tätigkeiten nach § 7 Absatz 2 Satz 2 Nummer 1 und
+
+3. im Handlungsfeld „Anforderungen von Kunden eines Betriebes im Elektromaschinenbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“ nach § 10 sowie
+
+4. im Handlungsfeld „Leistungen eines Betriebs im Elektromaschinenbauer-Handwerk erbringen, kontrollieren und übergeben“ nach § 11.
+
+# § 14 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
-(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
-# § 8 – Übergangsvorschrift
+# § 15 – Übergangsvorschrift
 
-Die Regelungen des § 6 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
+(1) Die bis zum Ablauf des 29. Februar 2024 begonnenen Prüfungsverfahren werden nach den Vorschriften der Elektromaschinenbauermeisterverordnung vom 17. Juni 2002 (BGBl. I S. 2325), die zuletzt durch Artikel 2 Absatz 38 der Verordnung vom 18. Januar 2022 (BGBl. I S. 39) geändert worden ist, zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 31. August 2024, so sind auf Verlangen des Prüflings die bis zum Ablauf des 29. Februar 2024 geltenden Vorschriften weiter anzuwenden.
 
-# § 9 – Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am 1. Oktober 2002 in Kraft.
+(2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 29. Februar 2024 geltenden Vorschriften nicht bestanden haben und sich bis zum Ablauf des 28. Februar 2026 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum Ablauf des 29. Februar 2024 geltenden Vorschriften ablegen.

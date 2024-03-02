@@ -1675,7 +1675,7 @@ Die Bundespolizei kann zur Abwehr einer Gefahr eine Person vorübergehend von ei
 
 (3) Die festgehaltene Person soll gesondert, insbesondere ohne ihre Einwilligung nicht in demselben Raum mit Straf- oder Untersuchungsgefangenen untergebracht werden. Männer und Frauen sollen getrennt untergebracht werden. Der festgehaltenen Person dürfen nur solche Beschränkungen auferlegt werden, die der Zweck der Freiheitsentziehung oder die Ordnung im Gewahrsam erfordert.
 
-(+++ Diese Vorschrift dient der Umsetzung der EURL 2016/800 gem. Bek. v. 27.2.2024 I Nr. 69 +++)
+(+++ Diese Vorschrift dient der Umsetzung der EURL 2016/800 gem. Nr. 1 Bek. v. 27.2.2024 I Nr. 69 +++)
 
 # § 42 – Dauer der Freiheitsentziehung
 
