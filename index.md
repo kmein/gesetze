@@ -5984,6 +5984,7 @@
 - [VGG](laws/VGG.md) Gesetz über die Wahrnehmung von Urheberrechten und verwandten Schutzrechten durch Verwertungsgesellschaften*
 - [VgHilAbk USA](laws/VgHilAbk_USA.md) Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gegenseitige Verteidigungshilfe
 - [VgHilAbkUSAG](laws/VgHilAbkUSAG.md) Gesetz über das Abkommen vom 30. Juni 1955 zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gegenseitige Verteidigungshilfe
+- [VglWebMV](laws/VglWebMV.md) Verordnung über die Meldungen zu Zahlungskonten für die Vergleichswebsite nach dem Zahlungskontengesetz
 - [VgV](laws/VgV.md) Verordnung über die Vergabe öffentlicher Aufträge
 - [VIBBestV](laws/VIBBestV.md) Verordnung zur Durchführung des § 15 Absatz 4 des Vermögensanlagengesetzes
 - [ViehVerkV](laws/ViehVerkV.md) Verordnung zum Schutz gegen die Verschleppung von Tierseuchen im Viehverkehr
