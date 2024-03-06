@@ -249,8 +249,6 @@ b) in Fällen nach § 3a Absatz 1 Nummer 1 Buchstabe b, dass und wie lange di
 
 (9) Die Absätze 1 bis 8 finden auf Personen, die ein Recht zur Einreise und zum Aufenthalt im Bundesgebiet nach § 3a Absatz 1 haben, entsprechende Anwendung.
 
-§ 6 Abs. 5 Kursivdruck: Müsste richtig „mehrerer“ lauten
-
 # § 7 – Ausreisepflicht
 
 (1) Unionsbürger oder ihre Familienangehörigen sind ausreisepflichtig, wenn die Ausländerbehörde festgestellt hat, dass das Recht auf Einreise und Aufenthalt nicht besteht. In dem Bescheid soll die Abschiebung angedroht und eine Ausreisefrist gesetzt werden. Außer in dringenden Fällen muss die Frist mindestens einen Monat betragen. Wird ein Antrag nach § 80 Abs. 5 der Verwaltungsgerichtsordnung gestellt, darf die Abschiebung nicht erfolgen, bevor über den Antrag entschieden wurde.

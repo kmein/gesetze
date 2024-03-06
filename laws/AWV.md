@@ -157,6 +157,8 @@ Soweit in Satz 1 und im Folgenden auf einen Anhang der Verordnung (EU) 2021/821 
 
 2. in Fällen, in denen nach dem der Ausfuhr zugrunde liegenden Vertrag derartige Güter im Wert von nicht mehr als 5 000 Euro geliefert werden sollen; die Ausfuhr von Software und Technologie ist unabhängig von ihrem Wert stets genehmigungspflichtig.
 
+(4) Artikel 5 Absatz 2 Satz 1 und 2 der Verordnung (EU) 2021/821 gilt entsprechend, wenn einem Ausführer aufgrund von Erkenntnissen, die er nicht im Rahmen seiner Sorgfaltspflicht erlangt hat, bekannt ist, dass dort genannte Güter für eine dort genannte Verwendung bestimmt sind.
+
 # § 10 – Genehmigungserfordernisse für die Ausfuhr von Gütern des Teils II der Ausfuhrliste
 
 Die Ausfuhr der in Teil II Spalte 3 der Ausfuhrliste mit „G“ gekennzeichneten Waren bedarf der Genehmigung. Dies gilt nicht, wenn die Waren den im Amtsblatt der Europäischen Union veröffentlichten Vermarktungsnormen oder Mindestanforderungen entsprechen, die in der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in der jeweils geltenden Fassung festgelegt worden sind. Satz 2 ist nicht anzuwenden, soweit in der Verordnung (EU) Nr. 1308/2013 Ausnahmen hinsichtlich der Beachtung der Vermarktungsnormen oder Mindestanforderungen vorgesehen sind.
