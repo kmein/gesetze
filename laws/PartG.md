@@ -103,7 +103,17 @@ mitzuteilen. Änderungen zu Satz 1 Nr. 1 und 2 sind bis zum 31. Dezember des jew
 
 # § 9 – Mitglieder- und Vertreterversammlung (Parteitag, Hauptversammlung)
 
-(1) Die Mitglieder- oder Vertreterversammlung (Parteitag, Hauptversammlung) ist das oberste Organ des jeweiligen Gebietsverbandes. Sie führt bei Gebietsverbänden höherer Stufen die Bezeichnung "Parteitag", bei Gebietsverbänden der untersten Stufe die Bezeichnung "Hauptversammlung"; die nachfolgenden Bestimmungen über den Parteitag gelten auch für die Hauptversammlung. Die Parteitage treten mindestens in jedem zweiten Kalenderjahr einmal zusammen.
+(1) Die Mitglieder- oder Vertreterversammlung (Parteitag, Hauptversammlung) ist das oberste Organ des jeweiligen Gebietsverbandes. Sie führt bei Gebietsverbänden höherer Stufen die Bezeichnung "Parteitag", bei Gebietsverbänden der untersten Stufe die Bezeichnung "Hauptversammlung"; die nachfolgenden Bestimmungen über den Parteitag gelten auch für die Hauptversammlung. Die Parteitage treten mindestens in jedem zweiten Kalenderjahr einmal zusammen. Sie müssen in einer der folgenden Formen abgehalten werden:
+
+1. als Präsenzversammlung an einem Ort, an dem die Mitglieder gemeinsam physisch anwesend sind,
+
+2. als virtuelle Versammlung ohne gemeinsame physische Anwesenheit der Mitglieder an einem Ort,
+
+3. als hybride Versammlung, an der die Mitglieder nach ihrer Wahl am Ort der Präsenzversammlung physisch anwesend oder ohne physische Anwesenheit an diesem Ort virtuell teilnehmen können, oder
+
+4. als hybride Versammlung, bei der mehrere Teilversammlungen an verschiedenen Versammlungsorten, an denen die Mitglieder physisch anwesend sind, virtuell miteinander verbunden werden.
+
+Die Form des Parteitags wird durch den Vorstand bestimmt, soweit die Satzung nichts anderes bestimmt.
 
 (2) Vorstandsmitglieder, Mitglieder anderer Organe des Gebietsverbandes sowie Angehörige des in § 11 Abs. 2 genannten Personenkreises können einer Vertreterversammlung kraft Satzung angehören, dürfen aber in diesem Fall nur bis zu einem Fünftel der satzungsmäßigen Gesamtzahl der Versammlungsmitglieder mit Stimmrecht ausgestattet sein.
 
@@ -171,6 +181,14 @@ Die Zusammensetzung einer Vertreterversammlung oder eines sonstigen Organs, das 
 
 (2) Die Wahlen der Vorstandsmitglieder und der Vertreter zu Vertreterversammlungen und zu Organen höherer Gebietsverbände sind geheim. Bei den übrigen Wahlen kann offen abgestimmt werden, wenn sich auf Befragen kein Widerspruch erhebt.
 
+(2a) Der Vorstand kann entscheiden,
+
+1. dass die Stimmabgabe unter Wahrung der Rechte aller Stimmberechtigten bei Beschlussfassungen und Wahlen ganz oder teilweise im Wege der elektronischen Kommunikation erfolgen kann, wenn dabei die Sicherheit, auch mit Blick auf den Schutz personenbezogener Daten, auf dem Stand der Technik gewährleistet ist, und
+
+2. welche Kommunikationsmittel dabei eingesetzt werden.
+
+Dies gilt nicht, soweit die Satzung etwas anderes bestimmt.
+
 (3) Das Antragsrecht ist so zu gestalten, daß eine demokratische Willensbildung gewährleistet bleibt, insbesondere auch Minderheiten ihre Vorschläge ausreichend zur Erörterung bringen können. In den Versammlungen höherer Gebietsverbände ist mindestens den Vertretern der Gebietsverbände der beiden nächstniedrigen Stufen ein Antragsrecht einzuräumen. Bei Wahlen und Abstimmungen ist eine Bindung an Beschlüsse anderer Organe unzulässig.
 
 # § 16 – Maßnahmen gegen Gebietsverbände
@@ -193,7 +211,7 @@ Die Aufstellung von Bewerbern für Wahlen zu Volksvertretungen muß in geheimer 
 
 (1) Die Parteien erhalten Mittel als Teilfinanzierung der allgemein ihnen nach dem Grundgesetz obliegenden Tätigkeit. Maßstäbe für die Verteilung der staatlichen Mittel bilden der Erfolg, den eine Partei bei den Wählern bei Europa-, Bundestags- und Landtagswahlen erzielt, die Summe ihrer Mitglieds- und Mandatsträgerbeiträge sowie der Umfang der von ihr eingeworbenen Spenden.
 
-(2) Das jährliche Gesamtvolumen staatlicher Mittel, das allen Parteien höchstens ausgezahlt werden darf, beträgt für das Jahr 2011 141,9 Millionen Euro und für das Jahr 2012 150,8 Millionen Euro (absolute Obergrenze). Die absolute Obergrenze erhöht sich jährlich, jedoch erstmals für das Jahr 2013, um den Prozentsatz, abgerundet auf ein Zehntel Prozent, um den sich der Preisindex der für eine Partei typischen Ausgaben im dem Anspruchsjahr vorangegangenen Jahr erhöht hat. Grundlage des Preisindexes ist zu einem Wägungsanteil von 70 Prozent der allgemeine Verbraucherpreisindex und von 30 Prozent der Index der tariflichen Monatsgehälter der Arbeiter und Angestellten bei Gebietskörperschaften. Der Präsident des Statistischen Bundesamtes legt dem Deutschen Bundestag hierzu bis spätestens 30. April jedes Jahres einen Bericht über die Entwicklung des Preisindexes bezogen auf das vorangegangene Jahr vor. Der Bundestagspräsident veröffentlicht bis spätestens 31. Mai jedes Jahres die sich aus der Steigerung ergebende Summe der absoluten Obergrenze, abgerundet auf volle Eurobeträge, als Bundestagsdrucksache.
+(2) Das jährliche Gesamtvolumen staatlicher Mittel, das allen Parteien höchstens ausgezahlt werden darf, beträgt für die für das Jahr 2018 vorzunehmende Festsetzung 184 793 822 Euro (absolute Obergrenze). Die absolute Obergrenze erhöht sich jährlich um den Prozentsatz, abgerundet auf ein Zehntel Prozent, um den sich der Preisindex der für eine Partei typischen Ausgaben im dem Anspruchsjahr vorangegangenen Jahr erhöht hat. Grundlage des Preisindexes ist zu einem Wägungsanteil von 70 Prozent der allgemeine Verbraucherpreisindex und von 30 Prozent der Index der tariflichen Monatsgehälter der Arbeiter und Angestellten bei Gebietskörperschaften. Der Präsident des Statistischen Bundesamtes legt dem Deutschen Bundestag hierzu bis spätestens 30. April jedes Jahres einen Bericht über die Entwicklung des Preisindexes bezogen auf das vorangegangene Jahr vor. Der Bundestagspräsident veröffentlicht bis spätestens 31. Mai jedes Jahres die sich aus der Steigerung ergebende Summe der absoluten Obergrenze, abgerundet auf volle Eurobeträge, als Bundestagsdrucksache.
 
 (3) Die Parteien erhalten jährlich im Rahmen der staatlichen Teilfinanzierung
 
@@ -281,7 +299,7 @@ Die Bundesverbände der Parteien haben für einen angemessenen Finanzausgleich f
 
 # § 23b – Anzeigepflicht bei Unrichtigkeiten im Rechenschaftsbericht
 
-(1) Erlangt eine Partei Kenntnis von Unrichtigkeiten in ihrem bereits frist- und formgerecht beim Präsidenten des Deutschen Bundestages eingereichten Rechenschaftsbericht, hat sie diese unverzüglich dem Präsidenten des Deutschen Bundestages schriftlich anzuzeigen.
+(1) Erlangt eine Partei Kenntnis von Unrichtigkeiten in ihrem bereits frist- und formgerecht beim Präsidenten des Deutschen Bundestages eingereichten Rechenschaftsbericht, hat sie diese unverzüglich dem Präsidenten des Deutschen Bundestages schriftlich anzuzeigen, wenn der Wert der anzuzeigenden Unrichtigkeit im Einzelfall 500 Euro überschreitet.
 
 (2) Bei einer von der Partei angezeigten Unrichtigkeit unterliegt die Partei nicht den Rechtsfolgen des § 31b oder des § 31c, wenn im Zeitpunkt des Eingangs der Anzeige konkrete Anhaltspunkte für diese unrichtigen Angaben öffentlich nicht bekannt waren oder weder dem Präsidenten des Deutschen Bundestages vorgelegen haben noch in einem amtlichen Verfahren entdeckt waren und die Partei den Sachverhalt umfassend offen legt und korrigiert. Die zu Unrecht erlangten Finanzvorteile sind innerhalb einer vom Präsidenten des Deutschen Bundestages gesetzten Frist an diesen abzuführen.
 
@@ -461,7 +479,7 @@ c) es sich um eine Spende eines Ausländers von nicht mehr als 1 000 Euro hande
 
 8. Spenden, die von einem Dritten gegen ein von der Partei zu zahlendes Entgelt eingeworben werden, das 25 vom Hundert des Wertes der eingeworbenen Spende übersteigt.
 
-(3) Spenden, Mitgliedsbeiträge und Mandatsträgerbeiträge an eine Partei oder einen oder mehrere ihrer Gebietsverbände, deren Gesamtwert in einem Kalenderjahr (Rechnungsjahr) 10 000 Euro übersteigt, sind unter Angabe des Namens und der Anschrift des Zuwenders sowie der Gesamthöhe der Zuwendung im Rechenschaftsbericht zu verzeichnen. Spenden, die im Einzelfall die Höhe von 50 000 Euro übersteigen, sind dem Präsidenten des Deutschen Bundestages unverzüglich anzuzeigen. Dieser veröffentlicht die Zuwendung unter Angabe des Zuwenders zeitnah als Bundestagsdrucksache.
+(3) Spenden, Mitgliedsbeiträge und Mandatsträgerbeiträge an eine Partei oder einen oder mehrere ihrer Gebietsverbände, deren Gesamtwert in einem Kalenderjahr (Rechnungsjahr) 10 000 Euro übersteigt, sind unter Angabe des Namens und der Anschrift des Zuwenders oder anderer Angaben, die eine Identifikation der Person vergleichbar ermöglichen, sowie der Gesamthöhe der Zuwendung im Rechenschaftsbericht zu verzeichnen. Spenden, die im Einzelfall die Höhe von 35 000 Euro übersteigen, sind dem Präsidenten des Deutschen Bundestages unverzüglich anzuzeigen. Dieser veröffentlicht die Zuwendung unter Angabe des Zuwenders zeitnah als Bundestagsdrucksache.
 
 (4) Nach Absatz 2 unzulässige Spenden sind von der Partei unverzüglich, spätestens mit Einreichung des Rechenschaftsberichts für das betreffende Jahr (§ 19a Abs. 3) an den Präsidenten des Deutschen Bundestages weiterzuleiten.
 
@@ -469,7 +487,7 @@ c) es sich um eine Spende eines Ausländers von nicht mehr als 1 000 Euro hande
 
 # § 26 – Begriff der Einnahme
 
-(1) Einnahme ist, soweit für einzelne Einnahmearten (§ 24 Abs. 4) nichts besonderes gilt, jede von der Partei erlangte Geld- oder geldwerte Leistung. Als Einnahmen gelten auch die Freistellung von üblicherweise entstehenden Verbindlichkeiten, die Übernahme von Veranstaltungen und Maßnahmen durch andere, mit denen ausdrücklich für eine Partei geworben wird, die Auflösung von Rückstellungen sowie Wertaufholungen im Anlagevermögen.
+(1) Einnahme ist, soweit für einzelne Einnahmearten (§ 24 Abs. 4) nichts besonderes gilt, jede von der Partei erlangte Geld- oder geldwerte Leistung. Als Einnahmen gelten auch die Freistellung von üblicherweise entstehenden Verbindlichkeiten, die Übernahme von Veranstaltungen und Maßnahmen durch andere, mit denen unmittelbar für eine Partei geworben wird (Werbemaßnahmen), die Auflösung von Rückstellungen sowie Wertaufholungen im Anlagevermögen.
 
 (2) Alle Einnahmen sind mit ihrem vollen Betrag an der für sie vorgesehenen Stelle einzusetzen und in der Vermögensbilanz zu berücksichtigen.
 
@@ -491,9 +509,25 @@ c) es sich um eine Spende eines Ausländers von nicht mehr als 1 000 Euro hande
 
 # § 27 – Einzelne Einnahmearten
 
-(1) Mitgliedsbeiträge sind nur solche regelmäßigen Geldleistungen, die ein Mitglied auf Grund satzungsrechtlicher Vorschriften entrichtet. Mandatsträgerbeiträge sind regelmäßige Geldleistungen, die ein Inhaber eines öffentlichen Wahlamtes (Mandatsträger) über seinen Mitgliedsbeitrag hinaus leistet. Spenden sind darüber hinausgehende Zahlungen. Dazu gehören auch Sonderumlagen und Sammlungen sowie geldwerte Zuwendungen aller Art, sofern sie nicht üblicherweise unentgeltlich Parteien außerhalb eines Geschäftsbetriebes zur Verfügung gestellt werden oder eine hierfür dennoch vereinbarte Vergütung an die Partei zurückgeleitet oder auf eine solche Vergütung verzichtet wird.
+(1) Mitgliedsbeiträge sind nur solche regelmäßigen Geldleistungen, die ein Mitglied auf Grund satzungsrechtlicher Vorschriften entrichtet. Mandatsträgerbeiträge sind regelmäßige Geldleistungen, die ein Inhaber eines öffentlichen Wahlamtes (Mandatsträger) über seinen Mitgliedsbeitrag hinaus leistet.
 
-(2) Sonstige Einnahmen nach § 24 Abs. 4 Nr. 9 sind aufzugliedern und zu erläutern, wenn sie bei einer der in § 24 Abs. 3 aufgeführten Gliederungen mehr als 2 vom Hundert der Summe der Einnahmen nach § 24 Abs. 4 Nr. 1 bis 6 ausmachen. Darüber hinaus sind Einnahmen, die im Einzelfall die Summe von 10.000 Euro übersteigen, offen zu legen. Erbschaften und Vermächtnisse sind unter Angabe ihrer Höhe, des Namens und der letzten Anschrift des Erblassers im Rechenschaftsbericht zu verzeichnen, soweit der Gesamtwert 10.000 Euro übersteigt.
+(1a) Spenden sind über Absatz 1 hinausgehende Geld- oder geldwerte Leistungen an die Partei. Dazu gehören auch Satz 1 entsprechende Sonderumlagen, Sammlungen und Freistellungen von üblicherweise entstehenden Verbindlichkeiten sowie geldwerte Zuwendungen aller Art einschließlich der Übernahme von Werbemaßnahmen. Geldwerte Zuwendungen im Sinne der Sätze 1 und 2 liegen nicht vor, wenn derartige Zuwendungen üblicherweise unentgeltlich Parteien außerhalb eines Geschäftsbetriebes zur Verfügung gestellt werden; dies gilt auch dann, wenn eine hierfür dennoch vereinbarte Vergütung an die Partei zurückgeleitet oder auf eine solche Vergütung verzichtet wird. Als Werbemaßnahmen gelten auch solche, die zwar nicht den Namen einer Partei beinhalten, aber aufgrund ihrer Gesamterscheinung nach ihrer Gestaltung oder ihrer Inhalte als Werbemaßnahme für eine bestimmte Partei aufzufassen sind. Als Werbemaßnahmen gelten nicht Meinungsäußerungen oder Bekundungen zu einer Partei, deren Positionen zu einer Sachfrage oder deren Kandidaten, soweit sie sich im Rahmen der allgemeinen politischen Willensbildung halten und nicht die wirtschaftlich relevante Werbung für eine Partei im Vordergrund steht. Davon ist insbesondere auszugehen, wenn der Wert einer Werbemaßnahme 500 Euro nicht übersteigt. Ebenfalls nicht als Werbemaßnahme gilt die Öffentlichkeitsarbeit der Fraktionen gemäß den §§ 55 und 58 des Abgeordnetengesetzes und entsprechender Regelungen der Länder.
+
+(1b) Einnahmen aus Sponsoring sind Zuwendungen zur Förderung einer Partei, mit denen der Zuwendende als Gegenleistung eine Förderung eigener Ziele der Werbung oder Öffentlichkeitsarbeit verfolgt. Dabei darf die Höhe der jeweiligen Zuwendung nicht außer Verhältnis zur von der Partei erbrachten Gegenleistung stehen.
+
+(2) Sonstige Einnahmen nach § 24 Abs. 4 Nr. 9 sind aufzugliedern und zu erläutern, wenn sie bei einer der in § 24 Abs. 3 aufgeführten Gliederungen mehr als 2 vom Hundert der Summe der Einnahmen nach § 24 Abs. 4 Nr. 1 bis 6 ausmachen. Darüber hinaus sind Einnahmen, die im Einzelfall die Summe von 10 000 Euro übersteigen, offen zu legen. Erbschaften und Vermächtnisse sind unter Angabe ihrer Höhe, des Namens und der letzten Anschrift des Erblassers im Rechenschaftsbericht zu verzeichnen, soweit der Gesamtwert 10 000 Euro übersteigt.
+
+# § 27a – Werbemaßnahmen anderer
+
+(1) Personen, die beabsichtigen Werbemaßnahmen im Sinne des § 27 Absatz 1a zu Gunsten einer Partei durchzuführen, haben der Partei die Maßnahme unter Angabe von deren Wert, Inhalt, Finanzierung und Umfang so frühzeitig anzuzeigen, dass die Partei rechtzeitig vor der Durchführung über die Annahme als Spende entscheiden kann. Auf ein Verlangen der Partei sind sie verpflichtet, entsprechende Werbemaßnahmen unverzüglich zu unterlassen.
+
+(2) Verlangt die Partei nicht unverzüglich, nachdem sie von einer Werbemaßnahme im Sinne des Absatzes 1 durch die Anzeige oder auf sonstigem Wege Kenntnis erlangt hat, ihre Unterlassung, so ist die Maßnahme als Spende angenommen. Die Partei hat Unterlassung zu verlangen, wenn die Spende nach § 25 Absatz 2 nicht angenommen werden darf.
+
+(3) Die Pflichten des Absatzes 2 gelten nur dann, wenn der Partei ein Unterlassungsverlangen möglich und zumutbar ist. Ist ihr das Unterlassungsverlangen nicht möglich oder zumutbar, hat die Partei jedoch den Vorgang dem Bundestagspräsidenten anzuzeigen und über ihn in ihrem Rechenschaftsbericht zu berichten.
+
+(4) Für Öffentlichkeitsarbeit der Fraktionen, die nicht unter § 27 Absatz 1a Satz 7 fällt und die als Übernahme von Werbemaßnahmen für ihre Partei zu werten ist, gelten die allgemeinen Regelungen dieses Gesetzes zur Annahme von Spenden.
+
+(5) Die Anzeige nach Absatz 1 Satz 1 muss an die Geschäftsstelle der höchsten Gliederungsebene der Partei erfolgen.
 
 # § 28 – Vermögensbilanz
 
@@ -573,6 +607,18 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft. Nach S
 
 (2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als Prüfer oder Gehilfe eines Prüfers über das Ergebnis der Prüfung eines Rechenschaftsberichts unrichtig berichtet, im Prüfungsbericht erhebliche Umstände verschweigt oder einen inhaltlich unrichtigen Bestätigungsvermerk erteilt. Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
+# § 31e – Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer
+
+1. entgegen § 27a Absatz 1 Satz 1 eine Anzeige nicht oder nicht rechtzeitig erstattet oder
+
+2. entgegen § 27a Absatz 1 Satz 2 eine Werbemaßnahme nicht oder nicht rechtzeitig unterlässt.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu hunderttausend Euro geahndet werden. § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist der Bundestagspräsident.
+
 # § 32 – Vollstreckung
 
 (1) Wird eine Partei oder eine Teilorganisation einer Partei nach Artikel 21 Abs. 2 des Grundgesetzes für verfassungswidrig erklärt, so treffen die von den Landesregierungen bestimmten Behörden im Rahmen der Gesetze alle Maßnahmen, die zur Vollstreckung des Urteils und etwaiger zusätzlicher Vollstreckungsregelungen des Bundesverfassungsgerichts erforderlich sind. Die obersten Landesbehörden haben zu diesem Zweck unbeschränktes Weisungsrecht gegenüber den Behörden und Dienststellen des Landes, die für die Wahrung der öffentlichen Sicherheit oder Ordnung zuständig sind.
@@ -607,7 +653,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft. Nach S
 
 # § 37 – Nichtanwendbarkeit einer Vorschrift des Bürgerlichen Gesetzbuchs
 
-§ 54 Satz 2 des Bürgerlichen Gesetzbuchs wird bei Parteien nicht angewandt.
+§ 54 Absatz 2 des Bürgerlichen Gesetzbuchs wird bei Parteien nicht angewandt.
 
 # § 38 – Zwangsmittel
 

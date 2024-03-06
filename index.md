@@ -4495,6 +4495,7 @@
 - [PNUPZV](laws/PNUPZV.md) Verordnung über Leistungsprämien und -zulagen für Beamtinnen und Beamte der Postnachfolgeunternehmen
 - [PodAPrV](laws/PodAPrV.md) Ausbildungs- und Prüfungsverordnung für Podologinnen und Podologen
 - [PodG](laws/PodG.md) Gesetz über den Beruf der Podologin und des Podologen
+- [PolBeauftrG](laws/PolBeauftrG.md) Gesetz über die Polizeibeauftragte oder den Polizeibeauftragten des Bundes beim Deutschen Bundestag
 - [PolBTLV](laws/PolBTLV.md) Verordnung über die Laufbahnen des Polizeivollzugsdienstes beim Deutschen Bundestag
 - [PolierPrV 2012](laws/PolierPrV_2012.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Polier und Geprüfte Polierin
 - [PolioV](laws/PolioV.md) Verordnung zur Vernichtung und zum Laborcontainment des Poliovirus Typ 3

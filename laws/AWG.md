@@ -587,15 +587,21 @@ Soweit die in Satz 1 genannten Vorschriften auf die Anhänge II, III oder IV zur
 
 (5) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2021/821 des Europäischen Parlaments und des Rates vom 20. Mai 2021 über eine Unionsregelung für die Kontrolle der Ausfuhr, der Vermittlung, der technischen Unterstützung der Durchfuhr und der Verbringung betreffend Güter mit doppeltem Verwendungszweck (ABl. L 206 vom 11.6.2021, S. 1) verstößt, indem er
 
-1. ohne Genehmigung nach Artikel 3 Absatz 1 oder Artikel 4 Absatz 1 Güter mit doppeltem Verwendungszweck ausführt,
+1. ohne Genehmigung nach Artikel 3 Absatz 1, Artikel 4 Absatz 1, Artikel 5 Absatz 1 oder Artikel 10 Absatz 1 Güter mit doppeltem Verwendungszweck oder Güter für digitale Überwachung ausführt,
 
-2. entgegen Artikel 4 Absatz 2 Satz 2 Güter ohne Entscheidung der zuständigen Behörde über die Genehmigungspflicht oder ohne Genehmigung der zuständigen Behörde ausführt,
+2. entgegen Artikel 4 Absatz 2 Satz 2 oder Artikel 5 Absatz 2 Satz 2, auch in Verbindung mit § 9 Absatz 4 der Außenwirtschaftsverordnung, Güter ohne Entscheidung der zuständigen Behörde über die Genehmigungspflicht oder ohne Genehmigung der zuständigen Behörde ausführt,
 
-3. ohne Genehmigung nach Artikel 6 Absatz 1 in Verbindung mit Artikel 4 Absatz 1 Buchstabe a eine Vermittlungstätigkeit erbringt oder
+3. ohne Genehmigung nach Artikel 6 Absatz 1 oder Artikel 8 Absatz 1 eine Vermittlungstätigkeit oder technische Unterstützung erbringt oder
 
-4. entgegen Artikel 6 Absatz 2 Satz 2 in Verbindung mit Artikel 4 Absatz 1 Buchstabe a eine Vermittlungstätigkeit ohne Entscheidung der zuständigen Behörde über die Genehmigungspflicht oder ohne Genehmigung der zuständigen Behörde erbringt.
+4. entgegen Artikel 6 Absatz 2 Satz 2 oder Artikel 8 Absatz 2 Satz 2 eine Vermittlungstätigkeit oder technische Unterstützung ohne Entscheidung der zuständigen Behörde über die Genehmigungspflicht oder ohne Genehmigung der zuständigen Behörde erbringt.
 
-Soweit die in Satz 1 genannten Vorschriften auf Anhang I der Verordnung (EU) 2021/821 verweisen, findet dieser Anhang in der jeweils geltenden Fassung Anwendung. In den Fällen des Satzes 1 Nummer 2 steht dem Ausführer eine Person gleich, die die Ausfuhr durch einen anderen begeht, wenn der Person bekannt ist, dass die Güter mit doppeltem Verwendungszweck ganz oder teilweise für eine Verwendung im Sinne des Artikels 4 Absatz 1 Buchstabe a der Verordnung (EU) 2021/821 bestimmt sind.
+Soweit die in Satz 1 genannten Vorschriften auf Anhang I der Verordnung (EU) 2021/821 verweisen, findet dieser Anhang in der jeweils geltenden Fassung Anwendung. In den Fällen des Satzes 1
+
+1. Nummer 2 steht dem Ausführer eine Person gleich, die die Ausfuhr durch einen anderen begeht, wenn der Person bekannt ist, dass die Güter mit doppeltem Verwendungszweck oder für digitale Überwachung ganz oder teilweise für eine Verwendung im Sinne des Artikels 4 Absatz 1 oder Artikel 5 Absatz 1 der Verordnung (EU) 2021/821;
+
+2. Nummer 4 steht dem Vermittler oder dem Erbringer technischer Unterstützung eine Person gleich, die die Vermittlung oder die Erbringung technischer Unterstützung durch einen anderen begeht, wenn der Person bekannt ist, dass die Güter ganz oder teilweise für eine Verwendung im Sinne des Artikels 4 Absatz 1 der Verordnung (EU) 2021/821
+
+bestimmt sind.
 
 (5a) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen Artikel 9 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 269/2014 des Rates vom 17. März 2014 über restriktive Maßnahmen angesichts von Handlungen, die die territoriale Unversehrtheit, Souveränität und Unabhängigkeit der Ukraine untergraben oder bedrohen (ABl. L 78 vom 17.3.2014, S. 6), die zuletzt durch die Durchführungsverordnung (EU) 2022/1529 (ABl. L 239 vom 15.9.2022, S. 1) geändert worden ist, eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
