@@ -863,7 +863,6 @@
 - [BKADV](laws/BKADV.md) Verordnung über die Art der Daten, die nach den §§ 8 und 9 des Bundeskriminalamtgesetzes gespeichert werden dürfen
 - [BKAG](laws/BKAG.md) Gesetz über das Bundeskriminalamt und die Zusammenarbeit des Bundes und der Länder in kriminalpolizeilichen Angelegenheiten
 - [BKartASitzBek](laws/BKartASitzBek.md) Bekanntmachung über den Dienstsitz des Bundeskartellamtes
-- [BKATerrAbwG](laws/BKATerrAbwG.md) Gesetz zur Abwehr von Gefahren des internationalen Terrorismus durch das Bundeskriminalamt
 - [BKatV](laws/BKatV.md) Verordnung über die Erteilung einer Verwarnung, Regelsätze für Geldbußen und die Anordnung eines Fahrverbotes wegen Ordnungswidrigkeiten im Straßenverkehr
 - [BKGG](laws/BKGG.md) Bundeskindergeldgesetz
 - [BKleingÄndG](laws/BKleingÄndG.md) Gesetz zur Änderung des Bundeskleingartengesetzes
