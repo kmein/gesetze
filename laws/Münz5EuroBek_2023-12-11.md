@@ -1,4 +1,4 @@
-% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Gebänderte Prachtlibelle“)
 % Ausfertigungsdatum: 11.12.2023
  
 # ----
