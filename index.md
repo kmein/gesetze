@@ -3975,7 +3975,7 @@
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
 - [Münz25EuroBek 2021-09-15](laws/Münz25EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
 - [Münz25EuroBek 2022-11-17](laws/Münz25EuroBek_2022-11-17.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Herrnhuter Stern“)
-- [Münz25EuroBek 2023-12-11](laws/Münz25EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro
+- [Münz25EuroBek 2023-12-11](laws/Münz25EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Erzgebirgischer Schwibbogen“)
 - [Münz2DMBek 1970](laws/Münz2DMBek_1970.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1973](laws/Münz2DMBek_1973.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1979](laws/Münz2DMBek_1979.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
@@ -4078,7 +4078,7 @@
 - [Münz5EuroBek 2023-08-11/1](laws/Münz5EuroBek_2023-08-11_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Siebenpunkt-Marienkäfer“)
 - [Münz5EuroBek 2023-08-11/2](laws/Münz5EuroBek_2023-08-11_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Schwalbenschwanz“)
 - [Münz5EuroBek 2023-10-06](laws/Münz5EuroBek_2023-10-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Rostrote Mauerbiene“)
-- [Münz5EuroBek 2023-12-11](laws/Münz5EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro
+- [Münz5EuroBek 2023-12-11](laws/Münz5EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Gebänderte Prachtlibelle“)
 - [MünzG](laws/MünzG.md) Münzgesetz
 - [MünzUmschriftBek](laws/MünzUmschriftBek.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 1, 5, 10 und 50 Pfennig, die an Stelle der Schrift "Bank deutscher Länder" die Umschrift "Bundesrepublik Deutschland" tragen
 - [MuKFrRGDBest 1](laws/MuKFrRGDBest_1.md) Erste Durchführungsbestimmung zum Gesetz über den Mutter- und Kinderschutz und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen
