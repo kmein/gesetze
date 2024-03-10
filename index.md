@@ -3800,6 +3800,7 @@
 - [Münz100EuroBek 2021-09-15](laws/Münz100EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „Recht“)
 - [Münz100EuroBek 2022-09-12](laws/Münz100EuroBek_2022-09-12.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „Freiheit“)
 - [Münz100EuroBek 2023-12-11](laws/Münz100EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "Faust")
+- [Münz100EuroBek 2024-02-20](laws/Münz100EuroBek_2024-02-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "Der zerbrochene Krug (Kleist)")
 - [Münz10DMBek](laws/Münz10DMBek.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 750-Jahr-Feier Berlins)
 - [Münz10DMBek 1987-10](laws/Münz10DMBek_1987-10.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 30 Jahre Römische Verträge)
 - [Münz10DMBek 1988-08](laws/Münz10DMBek_1988-08.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Arthur Schopenhauer)
@@ -3918,6 +3919,8 @@
 - [Münz10EuroBek 2021-04-23](laws/Münz10EuroBek_2021-04-23.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Auf dem Wasser“)
 - [Münz10EuroBek 2022-04-06](laws/Münz10EuroBek_2022-04-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Pflege“)
 - [Münz10EuroBek 2023-08-11](laws/Münz10EuroBek_2023-08-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Feuerwehr“)
+- [Münz10EuroBek 2024-02-20](laws/Münz10EuroBek_2024-02-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "Polizei")
+- [Münz11EuroBek 2024-02-20](laws/Münz11EuroBek_2024-02-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 11 Euro (Gedenkmünze "UEFA Fußball-Europameisterschaft 2024")
 - [Münz1DMBek](laws/Münz1DMBek.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 1 Deutschen Mark
 - [Münz1PfBek 1948](laws/Münz1PfBek_1948.md) Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig
 - [Münz1PfBek BW](laws/Münz1PfBek_BW.md) Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig
@@ -3972,10 +3975,15 @@
 - [Münz20EuroBek 2023-08-11](laws/Münz20EuroBek_2023-08-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Steinbock“ der Serie „Rückkehr der Wildtiere“)
 - [Münz20EuroBek 2023-10-06](laws/Münz20EuroBek_2023-10-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „400 Jahre Rechenmaschine von Wilhelm Schickard“)
 - [Münz20EuroBek 2023-12-11](laws/Münz20EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „100. Geburtstag Vicco von Bülow)
+- [Münz20EuroBek 2024-02-20](laws/Münz20EuroBek_2024-02-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Biber“)
+- [Münz20EuroBek 2024-02-20/1](laws/Münz20EuroBek_2024-02-20_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „300. Geburtstag Immanuel Kant“)
+- [Münz20EuroBek 2024-02-20/2](laws/Münz20EuroBek_2024-02-20_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „125. Geburtstag Erich Kästner“)
+- [Münz20EuroBek 2024-02-20/3](laws/Münz20EuroBek_2024-02-20_3.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „75 Jahre Grundgesetz“)
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
 - [Münz25EuroBek 2021-09-15](laws/Münz25EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
 - [Münz25EuroBek 2022-11-17](laws/Münz25EuroBek_2022-11-17.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Herrnhuter Stern“)
 - [Münz25EuroBek 2023-12-11](laws/Münz25EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Erzgebirgischer Schwibbogen“)
+- [Münz25EuroBek 2024-02-20](laws/Münz25EuroBek_2024-02-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Adventskranz“)
 - [Münz2DMBek 1970](laws/Münz2DMBek_1970.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1973](laws/Münz2DMBek_1973.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1979](laws/Münz2DMBek_1979.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
@@ -4011,6 +4019,8 @@
 - [Münz2EuroBek 2022-04-06](laws/Münz2EuroBek_2022-04-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „35 Jahre Erasmus-Programm“)
 - [Münz2EuroBek 2023-03-30](laws/Münz2EuroBek_2023-03-30.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Hamburg“)
 - [Münz2EuroBek 2023-08-11](laws/Münz2EuroBek_2023-08-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „1275. Geburtstag Karl der Große“)
+- [Münz2EuroBek 2024-02-20/1](laws/Münz2EuroBek_2024-02-20_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze "Mecklenburg-Vorpommern")
+- [Münz2EuroBek 2024-02-20/2](laws/Münz2EuroBek_2024-02-20_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze "175. Jubiläum Paulskirchenverfassung")
 - [Münz2PfBek 1950](laws/Münz2PfBek_1950.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz2PfBek 1968](laws/Münz2PfBek_1968.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz5/10PfBek](laws/Münz5_10PfBek.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 5 und 10 Pfennig
@@ -4021,6 +4031,7 @@
 - [Münz50EuroBek 2021-06-21](laws/Münz50EuroBek_2021-06-21.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Pauke“)
 - [Münz50EuroBek 2022-09-12](laws/Münz50EuroBek_2022-09-12.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Konzertgitarre“)
 - [Münz50EuroBek 2023-10-06](laws/Münz50EuroBek_2023-10-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Ernährung“)
+- [Münz50EuroBek 2024-02-20](laws/Münz50EuroBek_2024-02-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Mobilität“)
 - [Münz50PfBek 1949](laws/Münz50PfBek_1949.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 50 Pfennig
 - [Münz50PfBek 1950](laws/Münz50PfBek_1950.md) Bekanntmachung über die Ausgabe von Bundesmünzen im Nennwert von 50 Deutschen Pfennig
 - [Münz50PfBek 1972](laws/Münz50PfBek_1972.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 50 Deutschen Pfennig
@@ -4079,6 +4090,10 @@
 - [Münz5EuroBek 2023-08-11/2](laws/Münz5EuroBek_2023-08-11_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Schwalbenschwanz“)
 - [Münz5EuroBek 2023-10-06](laws/Münz5EuroBek_2023-10-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Rostrote Mauerbiene“)
 - [Münz5EuroBek 2023-12-11](laws/Münz5EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Gebänderte Prachtlibelle“)
+- [Münz5EuroBek 2024-02-20](laws/Münz5EuroBek_2024-02-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Steinhummel“)
+- [Münz5EuroBek 2024-02-20/1](laws/Münz5EuroBek_2024-02-20_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Grünes Heupferd“)
+- [Münz5EuroBek 2024-02-20/2](laws/Münz5EuroBek_2024-02-20_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Hirschkäfer“)
+- [Münz5EuroBek 2024-02-20/3](laws/Münz5EuroBek_2024-02-20_3.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Hainschwebfliege“)
 - [MünzG](laws/MünzG.md) Münzgesetz
 - [MünzUmschriftBek](laws/MünzUmschriftBek.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 1, 5, 10 und 50 Pfennig, die an Stelle der Schrift "Bank deutscher Länder" die Umschrift "Bundesrepublik Deutschland" tragen
 - [MuKFrRGDBest 1](laws/MuKFrRGDBest_1.md) Erste Durchführungsbestimmung zum Gesetz über den Mutter- und Kinderschutz und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen
@@ -4765,6 +4780,7 @@
 - [RohTabBeih2006V](laws/RohTabBeih2006V.md) Verordnung zur Festsetzung des endgültigen Beihilfebetrags für Rohtabak für das Erntejahr 2006
 - [RollSonnTMstrV](laws/RollSonnTMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Rollladen- und Sonnenschutztechniker-Handwerk
 - [RotkleeSaatV](laws/RotkleeSaatV.md) Verordnung über besondere Anforderungen an Saatgut von Rotklee im Rahmen der Saatgutanerkennung 2015
+- [RotkleeSaatV 2024](laws/RotkleeSaatV_2024.md) Verordnung über besondere Anforderungen an Saatgut von Rotklee im Rahmen der Saatgutanerkennung 2024
 - [RoV](laws/RoV.md) Raumordnungsverordnung
 - [RPflG](laws/RPflG.md) Rechtspflegergesetz
 - [RRG](laws/RRG.md) Gesetz zur weiteren Reform der gesetzlichen Rentenversicherungen und über die Fünfzehnte Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
