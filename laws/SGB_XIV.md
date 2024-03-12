@@ -199,6 +199,8 @@
 
  
 
+Inhaltsübersicht (zu § 81) Kursivdruck: § 81 tritt gem. Art. 1 Nr. 12 iVm Art. 21 Abs. 1 G v. 23.12.2023 I Nr. 408 am 1.1.2026 außer Kraft
+
 # § 1 – Aufgabe und Anwendungsbereich der Sozialen Entschädigung
 
 (1) Die Soziale Entschädigung unterstützt Menschen, die durch ein schädigendes Ereignis, für das die staatliche Gemeinschaft eine besondere Verantwortung trägt, eine gesundheitliche Schädigung erlitten haben, bei der Bewältigung der dadurch entstandenen Folgen.
@@ -784,15 +786,13 @@ c) von psychotherapeutisch tätigen Ärztinnen und Ärzten oder Psychotherapeuti
 
 (2) Geschädigte erhalten Sachleistungen ohne Beteiligung an den Kosten. Dies gilt nicht für nach § 42 Absatz 2 erbrachte Sachleistungen.
 
-(+++ § 44 Abs. 2: Zur Geltung vgl. § 151 Abs. 1 Satz 2  
-§ 44: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
+(+++ § 44 Abs. 2: Zur Geltung vgl. § 151 Abs. 1 Satz 2 +++)  
+(+++ § 44: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 45 – Nachweispflicht
 
 Für den Nachweis der Berechtigung zur Inanspruchnahme von Leistungen der Krankenbehandlung der Sozialen Entschädigung nach § 42 gilt § 15 Absatz 2 bis 6 des Fünften Buches entsprechend. Abweichend von Satz 1 legitimieren sich Berechtigte, die über keine elektronische Gesundheitskarte nach § 291 des Fünften Buches verfügen, durch Vorlage von Behandlungsscheinen. Diese werden den Berechtigten von der nach § 57 Absatz 3 oder 4 zuständigen Krankenkasse ausgestellt.
 
-(+++ § 45: Zur Geltung vgl. § 143 Abs. 1 S 2 +++)  
-(+++ § 45 Satz 1 und 2: Zur Geltung vgl. § 151 Abs. 1 Satz 6 +++)  
 (+++ § 45: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 46 – Versorgung mit Hilfsmitteln, Pauschbetrag für außergewöhnlichen Verschleiß von Kleidung und Wäsche
@@ -1032,7 +1032,6 @@ erbringt. Die Wahl der Krankenkasse nach Satz 1 ist innerhalb von zwei Wochen na
 
 (6) Alle weiteren Leistungen erbringt die zuständige Verwaltungsbehörde. § 18 Absatz 6 Satz 2 und 3 des Neunten Buches bleiben unberührt.
 
-(+++ § 57 Abs. 3: Zur Geltung vgl. § 77 Abs. 3 Satz 2 +++)  
 (+++ § 57: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 58 – Zuständigkeit zur Entscheidung über Widersprüche
@@ -1073,7 +1072,6 @@ erbringt. Die Wahl der Krankenkasse nach Satz 1 ist innerhalb von zwei Wochen na
 
 (10) Den Krankenkassen werden von der zuständigen Verwaltungsbehörde kalenderhalbjährlich Verwaltungskosten in Höhe von 5 Prozent der Pauschalbeträge nach den Absätzen 2 und 5 erstattet.
 
-(+++ § 60: Zur Geltung vgl. § 143 Abs. 1 S 2 +++)  
 (+++ § 60: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 60a – Datenerhebung
@@ -1138,7 +1136,6 @@ Die zuständigen Verwaltungsbehörden übermitteln der Bundesstelle für Soziale
 
 (3) Die Länder können mit den Unfallkassen Vereinbarungen zur Durchführung des Verfahrens nach den Absätzen 1 und 2 treffen. Haben die Vereinbarungen finanzielle Auswirkungen für den Bund, bedürfen sie der Zustimmung des Bundesministeriums für Arbeit und Soziales.
 
-(+++ § 61: Zur Geltung vgl. § 143 Abs. 1 S 2 +++)  
 (+++ § 61: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 62 – Leistungsumfang
@@ -1602,9 +1599,6 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 (3) Ansprüche nach dem Bundesausbildungsförderungsgesetz gehen Ansprüchen nach diesem Buch vor. Soweit für Geschädigte weitere Leistungen zum Lebensunterhalt während der Erbringung von Leistungen zur Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz erforderlich sind, erbringt diese der Träger der Sozialen Entschädigung nach Maßgabe des Absatzes 1.
 
 (4) Der Anspruch auf Leistungen zum Lebensunterhalt kann nicht abgetreten, übertragen, verpfändet oder gepfändet werden.
-
-(+++ § 93: Zur Anwendung vgl. § 64 Abs. 2 Satz 3  
-§ 93: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 94 – Leistung zur Förderung einer Ausbildung
 
