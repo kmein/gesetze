@@ -205,6 +205,8 @@ Der Hinweis nach Satz 1 Nummer 1 muss die in Anlage 1 genannten Anforderungen er
 
 Der Hinweis und der Aushang können jedoch freiwillig erfolgen. Bei gebrauchten Personenkraftwagen ist die freiwillige Kennzeichnung nur mit WLTP-Werten zulässig. Bei der Kennzeichnung gebrauchter Personenkraftwagen müssen Hinweis und Aushang deutlich erkennbar mit der Information versehen werden, dass es sich um einen gebrauchten Personenkraftwagen handelt. Bei neuen Personenkraftwagen, für die dem Hersteller noch keine verbindlichen WLTP-Werte vorliegen, müssen Hinweis und Aushang deutlich erkennbar mit der Information versehen werden, dass es sich bei den angegebenen Werten um vorläufige Werte handelt.
 
+(+++ § 3 Abs. 4 Satz 1 Nr. 4 u. § 3 Abs. 4 Satz 2 u. 5: Zur Anwendung vgl. § 5 Abs. 4 +++)
+
 # § 3a – Zuweisung zu einer CO2-Klasse
 
 (1) Der Hersteller muss neue Personenkraftwagen entsprechend der Höhe der kombinierten CO<sub>2</sub>-Emissionen einer der nachfolgend bestimmten CO<sub>2</sub>-Klassen zuweisen:

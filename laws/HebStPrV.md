@@ -1092,8 +1092,6 @@ Tras acceder a los estudios de matrona con arreglo al artículo 10, apartado 1, 
 |                                                          |     |          |
 | (Unterschrift oder qualifizierte elektronische Signatur) |     |          |
 
-Satz 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde der doppelt verwendete Artikel "der" gestrichen.
-
 # Anlage 6a – (zu § 57 Absatz 8)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger“
 
 (Fundstelle: BGBl. 2023 I Nr. 359, S. 44 – 45)
