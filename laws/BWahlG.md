@@ -335,7 +335,7 @@ Bei Ermittlung der Bevölkerungszahlen bleiben Ausländer (§ 2 Abs. 1 des Aufen
 
 (3) Die Wahlkreiskommission hat die Aufgabe, über Änderungen der Bevölkerungszahlen im Wahlgebiet zu berichten und darzulegen, ob und welche Änderungen der Wahlkreiseinteilung sie im Hinblick darauf für erforderlich hält. Sie kann in ihrem Bericht auch aus anderen Gründen Änderungsvorschläge machen. Bei ihren Vorschlägen zur Wahlkreiseinteilung hat sie die in Absatz 1 genannten Grundsätze zu beachten; ergeben sich nach der Berechnung in Absatz 1 Nr. 2 mehrere mögliche Wahlkreiszuteilungen, erarbeitet sie hierzu Vorschläge.
 
-(4) Der Bericht der Wahlkreiskommission ist dem Bundesministerium des Innern, für Bau und Heimat innerhalb von fünfzehn Monaten nach Beginn der Wahlperiode des Deutschen Bundestages zu erstatten. Das Bundesministerium des Innern, für Bau und Heimat leitet ihn unverzüglich dem Deutschen Bundestag zu und veröffentlicht einen Hinweis auf die Veröffentlichung als Bundestagsdrucksache im Bundesanzeiger. Auf Ersuchen des Bundesministeriums des Innern, für Bau und Heimat hat die Wahlkreiskommission einen ergänzenden Bericht zu erstatten; für diesen Fall gilt Satz 2 entsprechend.
+(4) Der Bericht der Wahlkreiskommission ist dem Bundesministerium des Innern und für Heimat innerhalb von fünfzehn Monaten nach Beginn der Wahlperiode des Deutschen Bundestages zu erstatten. Das Bundesministerium des Innern und für Heimat leitet ihn unverzüglich dem Deutschen Bundestag zu und veröffentlicht einen Hinweis auf die Veröffentlichung als Bundestagsdrucksache im Bundesanzeiger. Auf Ersuchen des Bundesministeriums des Innern und für Heimat hat die Wahlkreiskommission einen ergänzenden Bericht zu erstatten; für diesen Fall gilt Satz 2 entsprechend.
 
 (5) Werden Landesgrenzen nach den gesetzlichen Vorschriften über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes geändert, so ändern sich entsprechend auch die Grenzen der betroffenen Wahlkreise. Werden im aufnehmenden Land zwei oder mehrere Wahlkreise berührt oder wird eine Exklave eines Landes gebildet, so bestimmt sich die Wahlkreiszugehörigkeit des neuen Landesteiles nach der Wahlkreiszugehörigkeit der Gemeinde, des Gemeindebezirks oder des gemeindefreien Gebietes, denen er zugeschlagen wird. Änderungen von Landesgrenzen, die nach Ablauf des 32. Monats nach Beginn der Wahlperiode vorgenommen werden, wirken sich auf die Wahlkreiseinteilung erst in der nächsten Wahlperiode aus.
 
@@ -390,7 +390,7 @@ mindestens ein Wahlvorsteher und ein Wahlvorstand für jeden Wahlkreis zur Fests
 
 # § 9 – Bildung der Wahlorgane
 
-(1) Der Bundeswahlleiter und sein Stellvertreter werden vom Bundesministerium des Innern, für Bau und Heimat, die Landeswahlleiter, Kreiswahlleiter und Wahlvorsteher sowie ihre Stellvertreter von der Landesregierung oder der von ihr bestimmten Stelle ernannt.
+(1) Der Bundeswahlleiter und sein Stellvertreter werden vom Bundesministerium des Innern und für Heimat, die Landeswahlleiter, Kreiswahlleiter und Wahlvorsteher sowie ihre Stellvertreter von der Landesregierung oder der von ihr bestimmten Stelle ernannt.
 
 (2) Der Bundeswahlausschuß besteht aus dem Bundeswahlleiter als Vorsitzendem sowie acht von ihm berufenen Wahlberechtigten als Beisitzern und zwei Richtern des Bundesverwaltungsgerichts. Die übrigen Wahlausschüsse bestehen aus dem Wahlleiter als Vorsitzendem und sechs von ihm berufenen Wahlberechtigten als Beisitzern; in die Landeswahlausschüsse sind zudem zwei Richter des Oberverwaltungsgerichts des Landes zu berufen. Die Wahlvorstände bestehen aus dem Wahlvorsteher als Vorsitzendem, seinem Stellvertreter und weiteren drei bis sieben vom Wahlvorsteher berufenen Wahlberechtigten als Beisitzern; die Landesregierung oder die von ihr bestimmte Stelle kann anordnen, daß die Beisitzer des Wahlvorstandes von der Gemeindebehörde und die Beisitzer des Wahlvorstandes zur Feststellung des Briefwahlergebnisses vom Kreiswahlleiter, im Falle einer Anordnung nach § 8 Abs. 3 von der Gemeindebehörde oder von der Kreisverwaltungsbehörde allein oder im Einvernehmen mit dem Wahlvorsteher berufen werden. Bei Berufung der Beisitzer sind die in dem jeweiligen Bezirk vertretenen Parteien nach Möglichkeit zu berücksichtigen.
 
@@ -532,7 +532,7 @@ Kreiswahlvorschläge sind dem Kreiswahlleiter, Landeslisten dem Landeswahlleiter
 
 (2) Kreiswahlvorschläge von Parteien müssen von dem Vorstand des Landesverbandes oder, wenn Landesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, in deren Bereich der Wahlkreis liegt, persönlich und handschriftlich unterzeichnet sein. Sie können nur dann zugelassen werden, wenn für die Partei in dem betreffenden Land eine Landesliste zugelassen wird. Kreiswahlvorschläge der in § 18 Abs. 2 genannten Parteien müssen außerdem von mindestens 200 Wahlberechtigten des Wahlkreises persönlich und handschriftlich unterzeichnet sein; die Wahlberechtigung muß im Zeitpunkt der Unterzeichnung gegeben sein und ist bei Einreichung des Kreiswahlvorschlages nachzuweisen. Das Erfordernis von 200 Unterschriften gilt nicht für Kreiswahlvorschläge von Parteien nationaler Minderheiten.
 
-(3) Andere Kreiswahlvorschläge müssen von mindestens 200 Wahlberechtigten des Wahlkreises persönlich und handschriftlich unterzeichnet sein. Absatz 2 Satz 2 zweiter Halbsatz gilt entsprechend.
+(3) Andere Kreiswahlvorschläge müssen von mindestens 200 Wahlberechtigten des Wahlkreises persönlich und handschriftlich unterzeichnet sein. Absatz 2 Satz 3 zweiter Halbsatz gilt entsprechend.
 
 (4) Kreiswahlvorschläge von Parteien müssen den Namen der einreichenden Partei und, sofern sie eine Kurzbezeichnung verwendet, auch diese, andere Kreiswahlvorschläge ein Kennwort enthalten.
 
@@ -672,9 +672,9 @@ Der Wähler faltet daraufhin den Stimmzettel in der Weise, dass seine Stimmabgab
 
 (1) Zur Erleichterung der Abgabe und Zählung der Stimmen können anstelle von Stimmzetteln und Wahlurnen Wahlgeräte benutzt werden.
 
-(2) Wahlgeräte im Sinne von Absatz 1 müssen die Geheimhaltung der Stimmabgabe gewährleisten. Ihre Bauart muß für die Verwendung bei Wahlen zum Deutschen Bundestag amtlich für einzelne Wahlen oder allgemein zugelassen sein. Über die Zulassung entscheidet das Bundesministerium des Innern, für Bau und Heimat auf Antrag des Herstellers des Wahlgerätes. Die Verwendung eines amtlich zugelassenen Wahlgerätes bedarf der Genehmigung durch das Bundesministerium des Innern, für Bau und Heimat. Die Genehmigung kann für einzelne Wahlen oder allgemein ausgesprochen werden.
+(2) Wahlgeräte im Sinne von Absatz 1 müssen die Geheimhaltung der Stimmabgabe gewährleisten. Ihre Bauart muß für die Verwendung bei Wahlen zum Deutschen Bundestag amtlich für einzelne Wahlen oder allgemein zugelassen sein. Über die Zulassung entscheidet das Bundesministerium des Innern und für Heimat auf Antrag des Herstellers des Wahlgerätes. Die Verwendung eines amtlich zugelassenen Wahlgerätes bedarf der Genehmigung durch das Bundesministerium des Innern und für Heimat. Die Genehmigung kann für einzelne Wahlen oder allgemein ausgesprochen werden.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über
 
 1. die Voraussetzungen für die amtliche Zulassung der Bauart von Wahlgeräten sowie für die Rücknahme und den Widerruf der Zulassung,
 
@@ -816,7 +816,7 @@ Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für die einzel
 
 4. Verzicht,
 
-5. Feststellung der Verfassungswidrigkeit der Partei oder der Teilorganisation einer Partei, der er angehört, durch das Bundesverfassungsgericht nach Artikel 21 Abs. 2 Satz 2 des Grundgesetzes.
+5. Feststellung der Verfassungswidrigkeit der Partei oder der Teilorganisation einer Partei, der er angehört, durch das Bundesverfassungsgericht nach Artikel 21 Absatz 4 des Grundgesetzes.
 
 Verlustgründe nach anderen gesetzlichen Vorschriften bleiben unberührt.
 
@@ -824,11 +824,9 @@ Verlustgründe nach anderen gesetzlichen Vorschriften bleiben unberührt.
 
 (3) Der Verzicht ist nur wirksam, wenn er zur Niederschrift des Präsidenten des Deutschen Bundestages, eines deutschen Notars, der seinen Sitz im Geltungsbereich dieses Gesetzes hat, oder eines zur Vornahme von Beurkundungen ermächtigten Bediensteten einer deutschen Auslandsvertretung erklärt wird. Die notarielle oder bei einer Auslandsvertretung abgegebene Verzichtserklärung hat der Abgeordnete dem Bundestagspräsidenten zu übermitteln. Der Verzicht kann nicht widerrufen werden.
 
-(4) Wird eine Partei oder die Teilorganisation einer Partei durch das Bundesverfassungsgericht nach Artikel 21 Abs. 2 Satz 2 des Grundgesetzes für verfassungswidrig erklärt, verlieren die Abgeordneten ihre Mitgliedschaft im Deutschen Bundestag und die Nachfolger ihre Anwartschaft, sofern sie dieser Partei oder Teilorganisation in der Zeit zwischen der Antragstellung (§ 43 des Gesetzes über das Bundesverfassungsgericht) und der Verkündung der Entscheidung (§ 46 des Gesetzes über das Bundesverfassungsgericht) angehört haben. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, in Wahlkreisen gewählt waren, wird die Wahl eines Wahlkreisabgeordneten in diesen Wahlkreisen bei entsprechender Anwendung des § 44 Abs. 2 bis 4 wiederholt; hierbei dürfen die Abgeordneten, die nach Satz 1 ihre Mitgliedschaft verloren haben, nicht als Bewerber auftreten. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, nach einer Landesliste der für verfassungswidrig erklärten Partei oder Teilorganisation der Partei gewählt waren, bleiben die Sitze unbesetzt. Im übrigen gilt § 48 Abs. 1.
+(4) Wird eine Partei oder die Teilorganisation einer Partei durch das Bundesverfassungsgericht nach Artikel 21 Absatz 4 des Grundgesetzes für verfassungswidrig erklärt, verlieren die Abgeordneten ihre Mitgliedschaft im Deutschen Bundestag und die Nachfolger ihre Anwartschaft, sofern sie dieser Partei oder Teilorganisation in der Zeit zwischen der Antragstellung (§ 43 des Gesetzes über das Bundesverfassungsgericht) und der Verkündung der Entscheidung (§ 46 des Gesetzes über das Bundesverfassungsgericht) angehört haben. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, in Wahlkreisen gewählt waren, wird die Wahl eines Wahlkreisabgeordneten in diesen Wahlkreisen bei entsprechender Anwendung des § 44 Abs. 2 bis 4 wiederholt; hierbei dürfen die Abgeordneten, die nach Satz 1 ihre Mitgliedschaft verloren haben, nicht als Bewerber auftreten. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, nach einer Landesliste der für verfassungswidrig erklärten Partei oder Teilorganisation der Partei gewählt waren, bleiben die Sitze unbesetzt. Im übrigen gilt § 48 Abs. 1.
 
-§ 46 Abs. 1 Satz 1 Nr. 5 Kursivdruck: Der Verweis müsste richtig lauten: "Artikel 21 Abs. 4 des Grundgesetzes"  
-§ 46 Abs. 2: IdF d. Art. 1 Nr. 1a G v. 3.5.2013 I 1082 mWv 9.5.2013, d. Art. 1 Nr. 4 G v. 14.11.2020 I 2395 mWv 19.11.2020, Art. 1 Nr. 4 G v. 14.11.2020 I 2395 ist gem. BVerfGE v. 29.11.2023 - 2 BvF 1/21 - mit GG vereinbar; idF d. Art. 2 Nr. 14 Buchst. a G v. 8.6.2023 I Nr. 147 mWv 14.6.2023  
-§ 46 Abs. 4 Satz 1 Kursivdruck: Der Verweis müsste richtig lauten: "Artikel 21 Abs. 4 des Grundgesetzes"
+§ 46 Abs. 2: IdF d. Art. 1 Nr. 1a G v. 3.5.2013 I 1082 mWv 9.5.2013, d. Art. 1 Nr. 4 G v. 14.11.2020 I 2395 mWv 19.11.2020, Art. 1 Nr. 4 G v. 14.11.2020 I 2395 ist gem. BVerfGE v. 29.11.2023 - 2 BvF 1/21 - mit GG vereinbar; idF d. Art. 2 Nr. 14 Buchst. a G v. 8.6.2023 I Nr. 147 mWv 14.6.2023
 
 # § 47 – Entscheidung über den Verlust der Mitgliedschaft
 
@@ -897,7 +895,7 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 
 (2) Die Kosten für die Versendung der Wahlbenachrichtigungen und der Briefwahlunterlagen sowie die Erfrischungsgelder für die Mitglieder der Wahlvorstände werden den Ländern im Wege der Einzelabrechnung ersetzt. Bei zeitgleicher Durchführung von Landtags- oder Kommunalwahlen sowie von Abstimmungen mit Wahlen zum Deutschen Bundestag werden diese Kosten dem jeweiligen Land anteilig ersetzt.
 
-(3) Die übrigen Kosten werden durch einen festen Betrag je Wahlberechtigten erstattet. Er beträgt für Gemeinden bis zu 100 000 Wahlberechtigten 0,56 Euro und für Gemeinden mit mehr als 100 000 Wahlberechtigten 0,87 Euro. Der Präsident des Statistischen Bundesamtes legt in jedem Jahr bis zum 30. April dem Bundesministerium des Innern, für Bau und Heimat einen Bericht über die Entwicklung des Wahlkostenindexes mit einer Fortrechnung gemäß der Anlage 1 zu diesem Gesetz vor. Dementsprechende Steigerungen der festen Beträge gelten ab Beginn des Jahres des Berichts und werden vom Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger veröffentlicht; Bruchteile eines Cents ab 0,5 werden dabei aufgerundet, ansonsten abgerundet.
+(3) Die übrigen Kosten werden durch einen festen Betrag je Wahlberechtigten erstattet. Er beträgt für Gemeinden bis zu 100 000 Wahlberechtigten 0,56 Euro und für Gemeinden mit mehr als 100 000 Wahlberechtigten 0,87 Euro. Der Präsident des Statistischen Bundesamtes legt in jedem Jahr bis zum 30. April dem Bundesministerium des Innern und für Heimat einen Bericht über die Entwicklung des Wahlkostenindexes mit einer Fortrechnung gemäß der Anlage 1 zu diesem Gesetz vor. Dementsprechende Steigerungen der festen Beträge gelten ab Beginn des Jahres des Berichts und werden vom Bundesministerium des Innern und für Heimat im Bundesanzeiger veröffentlicht; Bruchteile eines Cents ab 0,5 werden dabei aufgerundet, ansonsten abgerundet.
 
 (4) Der Bund erstattet den Blindenvereinen, die ihre Bereitschaft zur Herstellung von Stimmzettelschablonen erklärt haben, die durch die Herstellung und die Verteilung der Stimmzettelschablonen veranlassten notwendigen Ausgaben.
 
@@ -905,7 +903,7 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 
 # § 52 – Bundeswahlordnung
 
-(1) Das Bundesministerium des Innern, für Bau und Heimat erläßt die zur Durchführung dieses Gesetzes erforderliche Bundeswahlordnung. Es trifft darin insbesondere Rechtsvorschriften über
+(1) Das Bundesministerium des Innern und für Heimat erläßt die zur Durchführung dieses Gesetzes erforderliche Bundeswahlordnung. Es trifft darin insbesondere Rechtsvorschriften über
 
 1. die Bestellung der Wahlleiter und Wahlvorsteher, die Bildung der Wahlausschüsse und Wahlvorstände sowie über die Tätigkeit, Beschlußfähigkeit und das Verfahren der Wahlorgane,
 
@@ -943,7 +941,7 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 
 (2) Die Rechtsvorschriften bedürfen nicht der Zustimmung des Bundesrates.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Falle einer Auflösung des Deutschen Bundestages die in dem Bundeswahlgesetz und in der Bundeswahlordnung bestimmten Fristen und Termine durch Rechtsverordnung ohne Zustimmung des Bundesrates abzukürzen.
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt, im Falle einer Auflösung des Deutschen Bundestages die in dem Bundeswahlgesetz und in der Bundeswahlordnung bestimmten Fristen und Termine durch Rechtsverordnung ohne Zustimmung des Bundesrates abzukürzen.
 
 (4) (weggefallen)
 
@@ -978,7 +976,4 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen Bundes
 
 # Anlage 2 – (zu § 2 Absatz 2)
 
-(Fundstelle: BGBl. I 2020, 1410 – 1472)
-
-  
-  
+(Fundstelle: BGBl. 2024 I Nr. 91, S. 3 – 62)
