@@ -729,6 +729,7 @@
 - [BewG§90DV](laws/BewG§90DV.md) Verordnung zur Durchführung des § 90 des Bewertungsgesetzes
 - [BezeichnungsV](laws/BezeichnungsV.md) Verordnung zur Bezeichnung der landesrechtlichen Vorschriften nach § 59 Abs. 3 Bundesausbildungsförderungsgesetz
 - [BEZNG](laws/BEZNG.md) Gesetz zur Zusammenführung und Neugliederung der Bundeseisenbahnen
+- [BfAAErnAnO](laws/BfAAErnAnO.md) Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten des Bundesamts für Auswärtige Angelegenheiten
 - [BfAAG](laws/BfAAG.md) Gesetz über die Errichtung eines Bundesamts für Auswärtige Angelegenheiten
 - [BfAAWidVertrAnO](laws/BfAAWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesamts für Auswärtige Angelegenheiten in Beihilfe-, Reisekosten- und Umzugskostenangelegenheiten sowie für die Beihilfefestsetzung
 - [BfAG](laws/BfAG.md) Gesetz über die Errichtung der Bundesversicherungsanstalt für Angestellte
