@@ -415,6 +415,8 @@ Unter diesen Voraussetzungen ist die Bundesanstalt auch von den Pflichten nach d
 
 (3) Die Absätze 1 und 2 gelten entsprechend für eine Anhörung nach § 28 des Verwaltungsverfahrensgesetzes.
 
+(+++ § 4h: Zur Anwendung vgl. § 4j Abs. 2 Satz 5 u. Abs. 3 Satz 4 +++)
+
 # § 4i – Absehen von einer Anhörung
 
 Die Bundesanstalt kann innerhalb ihrer gesetzlichen Befugnisse die Erteilung von Auskünften und die Vorlage von Unterlagen verlangen, ohne dass dem Adressaten zuvor nach § 28 Absatz 1 des Verwaltungsverfahrensgesetzes Gelegenheit gegeben werden muss, sich zu den für die Entscheidung erheblichen Tatsachen zu äußern.
