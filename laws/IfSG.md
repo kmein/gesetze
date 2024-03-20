@@ -2988,6 +2988,10 @@ Die Landesregierungen bestimmen durch Rechtsverordnung die zuständigen Behörde
 
 (5) Absatz 1 Nummer 4 und 5 lässt völkerrechtliche Verträge über die Stationierung ausländischer Streitkräfte in der Bundesrepublik Deutschland unberührt.
 
+# § 54b – Vollzug durch das Eisenbahn-Bundesamt
+
+Im Bereich der Eisenbahnen des Bundes und der Magnetschwebebahnen obliegt der Vollzug dieses Gesetzes für Schienenfahrzeuge sowie für Anlagen zur ausschließlichen Befüllung von Schienenfahrzeugen dem Eisenbahn-Bundesamt, soweit die Aufgaben des Gesundheitsamtes und der zuständigen Behörde nach den §§ 15a, 37 bis 39 und 41 betroffen sind.
+
 # § 55 – Angleichung an Gemeinschaftsrecht
 
 Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der Angleichung der Rechtsvorschriften der Mitgliedstaaten der Europäischen Union erlassen werden, soweit dies zur Durchführung von Verordnungen oder zur Umsetzung von Richtlinien oder Entscheidungen des Rates der Europäischen Union oder der Kommission der Europäischen Gemeinschaften, die Sachbereiche dieses Gesetzes betreffen, erforderlich ist.
