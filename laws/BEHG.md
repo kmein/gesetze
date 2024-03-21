@@ -397,7 +397,10 @@ Der Tag des Inkrafttretens ist vom Bundesministerium für Umwelt, Naturschutz un
 
 # Anlage 1 – (zu § 2 Absatz 1)Brennstoffe
 
-(Fundstelle: BGBl. I 2019, 2736)
+(Fundstelle: BGBl. I 2019, 2736;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+ 
 
 Brennstoffe im Sinne dieses Gesetzes sind:
 

@@ -620,6 +620,7 @@
 - [BEBußAktEV](laws/BEBußAktEV.md) Verordnung über den Zeitpunkt der Einführung der elektronischen Aktenführung in Bußgeldverfahren im Geschäftsbereich des Bundes
 - [BECV](laws/BECV.md) Verordnung über Maßnahmen zur Vermeidung von Carbon-Leakage durch den nationalen Brennstoffemissionshandel
 - [BEDBPStruktG](laws/BEDBPStruktG.md) Gesetz zur Verbesserung der personellen Struktur beim Bundeseisenbahnvermögen und in den Postnachfolgeunternehmen
+- [BedGgstV](laws/BedGgstV.md) Bedarfsgegenständeverordnung
 - [BEDV](laws/BEDV.md) Verordnung zur Kompensation doppelt bilanzierter Brennstoffemissionen nach Brennstoffemissionshandelsgesetz
 - [BEEG](laws/BEEG.md) Gesetz zum Elterngeld und zur Elternzeit
 - [BefBedV](laws/BefBedV.md) Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen
@@ -4236,6 +4237,7 @@
 - [OASG](laws/OASG.md) Gesetz zur Sicherung der zivilrechtlichen Ansprüche der Opfer von Straftaten
 - [OberflbeschAusbV](laws/OberflbeschAusbV.md) Verordnung über die Berufsausbildung zum Oberflächenbeschichter/zur Oberflächenbeschichterin
 - [ODV](laws/ODV.md) Ortsbewegliche-Druckgeräte-Verordnung *)
+- [ÖDAPrV](laws/ÖDAPrV.md) Verordnung über die Durchführung der Abschlussprüfung in den staatlich anerkannten Ausbildungsberufen des öffentlichen Dienstes
 - [ÖDZustG](laws/ÖDZustG.md) Gesetz über die Zuständigkeit auf dem Gebiet des Rechts des öffentlichen Dienstes
 - [ÖkoKennzG](laws/ÖkoKennzG.md) Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse des ökologischen Landbaus
 - [ÖkoKennzV](laws/ÖkoKennzV.md) Verordnung zur Gestaltung und Verwendung des Öko-Kennzeichens

@@ -36,5 +36,3 @@
 # § 3 – Aufsicht
 
 Die Aufsicht über das Bundesamt für Bauwesen und Raumordnung wird durch das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen ausgeübt. Die Zuständigkeit des Bundesministeriums der Verteidigung für seine Bauangelegenheiten bleibt insoweit unberührt.
-
-# § 4 – (weggefallen)
