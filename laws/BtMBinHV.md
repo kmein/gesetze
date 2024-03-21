@@ -117,6 +117,10 @@ Der Bundesminister für Jugend, Familie und Gesundheit
 
 # Anlage – Vorgaben für das elektronische Belegverfahren
 
+(Fundstelle: BAnz AT 20.12.2022 V1, 2 - 3)
+
+ 
+
 1.1 Für jeden Teil des Abgabebelegs werden auf der Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM) Musterdateien zur Verfügung gestellt.
 
 1.2 Abgabebeleg-Nummern
