@@ -4252,6 +4252,8 @@ e) Projekte, die vorhandene Wasserstoff-Leitungsinfrastrukturen mit Wasserstoffn
 
 (3) Die Bundesregierung kann das Verfahren zur Festlegung oder Genehmigung nach Absatz 1 sowie das Verfahren zur Änderung der Bedingungen und Methoden nach Absatz 2 durch Rechtsverordnung mit Zustimmung des Bundesrates näher ausgestalten. Dabei kann insbesondere vorgesehen werden, dass Entscheidungen der Regulierungsbehörde im Einvernehmen mit dem Bundeskartellamt ergehen.
 
+(+++ § 29 Abs. 1: Änderungsanweisung gem. Art. 1 Nr. 38 G v. 22.12.2023 I Nr. 405 trotz textlicher Unstimmigkeit in Bezug auf die Streichung der Textstelle "§ 21a Abs. 6" aufgrund offensichtlicher Unrichtigkeit ausgeführt +++)
+
 # § 30 – Missbräuchliches Verhalten eines Netzbetreibers
 
 (1) Betreibern von Energieversorgungsnetzen ist ein Missbrauch ihrer Marktstellung verboten. Ein Missbrauch liegt insbesondere vor, wenn ein Betreiber von Energieversorgungsnetzen
