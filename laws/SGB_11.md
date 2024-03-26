@@ -899,7 +899,7 @@ Pflichten der Beteiligten
 
 Neuntes Kapitel
 
-Datenschutz und Statistik
+Datenschutz, Statistik und Interoperabilität
 
  
 
@@ -981,6 +981,10 @@ Angaben über Leistungsvoraussetzungen
 
 Kennzeichen für Leistungsträger und Leistungserbringer
 
+§ 103a
+
+IT-Sicherheit der Pflegekassen
+
  
 
  
@@ -1046,7 +1050,19 @@ Pflegestatistiken
 
  
 
-Zehntes Kapitel
+Fünfter Abschnitt
+
+Interoperabilität
+
+ 
+
+§ 109a
+
+Recht auf Interoperabilität
+
+ 
+
+ 
 
 Private Pflegeversicherung
 
@@ -3466,11 +3482,11 @@ Auch wenn die digitale Pflegeanwendung mehrfach zur Nutzung abgerufen wird oder 
 
 6. den Gebühren und Gebührensätzen für die von den Herstellern zu tragenden Kosten und Auslagen.
 
-(7) Das Bundesamt für Sicherheit in der Informationstechnik legt im Einvernehmen mit dem Bundesinstitut für Arzneimittel und Medizinprodukte und im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit erstmals bis zum 31. Dezember 2021 und dann in der Regel jährlich die von digitalen Pflegeanwendungen nach Absatz 4 Satz 3 Nummer 2 zu gewährleistenden Anforderungen an die Datensicherheit fest. § 139e Absatz 10 Satz 2 und 3 des Fünften Buches gilt entsprechend.
+(7) Das Bundesamt für Sicherheit in der Informationstechnik legt im Einvernehmen mit dem Bundesinstitut für Arzneimittel und Medizinprodukte und im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit erstmals bis zum 31. Dezember 2021 und dann in der Regel jährlich die von digitalen Pflegeanwendungen nach Absatz 4 Satz 3 Nummer 2 zu gewährleistenden Anforderungen an die Datensicherheit fest. § 139e Absatz 10 Satz 2 bis 4 des Fünften Buches gilt entsprechend.
 
 (8) Das Bundesinstitut für Arzneimittel und Medizinprodukte legt im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit und im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik erstmals bis zum 31. März 2022 und dann in der Regel jährlich die Prüfkriterien für die von Herstellern einer digitalen Pflegeanwendung nach Absatz 4 Satz 3 Nummer 2 nachzuweisende Erfüllung der Anforderungen an den Datenschutz fest. § 139e Absatz 11 Satz 2 des Fünften Buches gilt entsprechend.
 
-(9) Der Spitzenverband Bund der Pflegekassen legt über das Bundesministerium für Gesundheit und das Bundesministerium für Arbeit und Soziales dem Deutschen Bundestag jährlich, erstmals zum 1. April 2024, einen barrierefreien Bericht vor. Der Bericht enthält Informationen über die Inanspruchnahme der Leistungen nach den §§ 39a und 40a, insbesondere dazu, wie viele Pflegebedürftige der jeweiligen Pflegegrade Leistungen in Anspruch genommen haben und welche Mittel die Pflegekassen dafür verausgabt haben. Hinsichtlich der Leistungen der privaten Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, bezieht der Spitzenverband Bund der Pflegekassen den Verband der privaten Krankenversicherung e. V. mit ein. Das Bundesministerium für Gesundheit kann weitere Inhalte des Berichts in der Verordnung nach Absatz 6 festlegen.
+(9) Der Spitzenverband Bund der Pflegekassen legt über das Bundesministerium für Gesundheit und das Bundesministerium für Arbeit und Soziales dem Deutschen Bundestag jährlich, erstmals zum 1. April 2025, einen barrierefreien Bericht vor. Der Bericht enthält Informationen über die Inanspruchnahme der Leistungen nach den §§ 39a und 40a, insbesondere dazu, wie viele Pflegebedürftige der jeweiligen Pflegegrade Leistungen in Anspruch genommen haben und welche Mittel die Pflegekassen dafür verausgabt haben. Hinsichtlich der Leistungen der privaten Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, bezieht der Spitzenverband Bund der Pflegekassen den Verband der privaten Krankenversicherung e. V. mit ein. Das Bundesministerium für Gesundheit kann weitere Inhalte des Berichts in der Verordnung nach Absatz 6 festlegen.
 
 # § 79 – Wirtschaftlichkeits- und Abrechnungsprüfungen
 
@@ -3932,6 +3948,8 @@ Für den Schutz personenbezogener Daten bei der Verarbeitung in der Pflegeversic
 
 10. statistische Zwecke (§ 109),
 
+10a. die Unterstützung der Versicherten bei der Durchsetzung des Herausgabeanspruchs nach § 109a Absatz 1 Satz 2 in Verbindung mit Absatz 4,
+
 11. die Unterstützung der Versicherten bei der Verfolgung von Schadensersatzansprüchen (§ 115 Abs. 3 Satz 7)
 
 erforderlich ist.
@@ -4026,6 +4044,30 @@ Die Pflegekasse hat Angaben über Leistungen, die zur Prüfung der Voraussetzung
 
 (2) § 293 Abs. 2 und 3 des Fünften Buches gilt entsprechend.
 
+# § 103a – IT-Sicherheit der Pflegekassen
+
+(1) Pflegekassen sind verpflichtet, nach dem Stand der Technik angemessene organisatorische und technische Vorkehrungen zur Vermeidung von Störungen der Verfügbarkeit, Integrität und Vertraulichkeit ihrer informationstechnischen Systeme, Komponenten oder Prozesse zu treffen, die für die Funktionsfähigkeit der jeweiligen Pflegekasse und die Sicherheit der verarbeiteten Versicherteninformationen maßgeblich sind.
+
+(2) Organisatorische und technische Vorkehrungen nach Absatz 1 sind angemessen, wenn der dafür erforderliche Aufwand nicht außer Verhältnis zu den Folgen eines Ausfalls oder einer Beeinträchtigung der Arbeitsprozesse der Pflegekasse oder der Sicherheit der verarbeiteten Versicherteninformationen steht.
+
+(3) Die Pflegekassen erfüllen die Verpflichtungen nach Absatz 1, insbesondere indem sie einen branchenspezifischen Sicherheitsstandard für die informationstechnische Sicherheit der Pflegekassen in der jeweils gültigen Fassung anwenden, dessen Eignung vom Bundesamt für Sicherheit in der Informationstechnik nach § 8a Absatz 2 des BSI-Gesetzes festgestellt wurde.
+
+(4) Die Pflegekassen sind verpflichtet, repräsentiert durch ihre Verbände und den Spitzenverband der Pflegekassen, in einem gemeinsam bestehenden oder zu schaffenden Branchenarbeitskreis an der Entwicklung des branchenspezifischen Sicherheitsstandards für die informationstechnische Sicherheit der Pflegekassen im Sinne des Absatzes 3 mitzuwirken. Die Pflegekassen, repräsentiert durch ihre Verbände und den Spitzenverband der Pflegekassen, haben darauf hinzuwirken, dass der branchenspezifische Sicherheitsstandard auch Vorgaben enthält zu
+
+1. geeigneten Maßnahmen zur Erhöhung der Cybersecurity-Awareness,
+
+2. dem Einsatz von Systemen zur Angriffserkennung, die geeignete Parameter und Merkmale aus dem laufenden Betrieb kontinuierlich und automatisch erfassen und auswerten, wobei diese dazu in der Lage sein sollten, fortwährend Bedrohungen zu identifizieren und zu vermeiden sowie für eingetretene Störungen geeignete Beseitigungsmaßnahmen vorzusehen (Maßnahmen zur Aufrechterhaltung der Betriebskontinuität),
+
+3. an IT-Dienstleister zu stellende Sicherheitsanforderungen gemäß Absatz 6, sofern diese Leistungen für die Pflegekassen zur Wahrnehmung ihrer gesetzlichen Aufgaben erbringen.
+
+(5) Die Verpflichtung nach Absatz 1 gilt für alle Pflegekassen, soweit sie nicht ohnehin als Betreiber Kritischer Infrastrukturen gemäß § 8a des BSI-Gesetzes angemessene organisatorische und technische Vorkehrungen zu treffen haben.
+
+(6) Sofern eine Pflegekasse im Rahmen ihrer Aufgabenerfüllung IT-Dienstleistungen eines Dritten in Anspruch nimmt und eine Störung der Verfügbarkeit, Integrität und Vertraulichkeit der informationstechnischen Systeme, Komponenten oder Prozesse des Dritten zu einer Beeinträchtigung der Funktionsfähigkeit der jeweiligen Pflegekasse oder der Sicherheit der verarbeiteten Versicherteninformationen führen kann, so muss die Pflegekasse durch geeignete vertragliche Vereinbarungen sicherstellen, dass die Einhaltung des branchenspezifischen Sicherheitsstandards im Sinne des Absatzes 3 durch den Dritten gewährleistet wird.
+
+(7) Der Spitzenverband der Pflegekassen legt bis einschließlich 30. Juni 2024 den branchenspezifischen Sicherheitsstandard im Sinne des Absatzes 3 in der jeweils aktuellen Fassung als Richtlinie zur Vermeidung von Störungen der Verfügbarkeit, Integrität und Vertraulichkeit der informationstechnischen Systeme, Komponenten oder Prozesse der Pflegekassen für diese verbindlich fest. Die Richtlinie ist jährlich an die jeweils aktuelle Fassung des branchenspezifischen Sicherheitsstandards anzupassen.
+
+(8) Der Spitzenverband der Pflegekassen berichtet dem Bundesministerium für Gesundheit und den anderen zuständigen Aufsichtsbehörden der Pflegekassen erstmals bis zum 31. Dezember 2024 und danach jährlich über den aktuellen Stand der Umsetzung der Vorgaben der Richtlinie im Sinne des Absatzes 7. Dabei ist für jede Pflegekasse gesondert darzustellen, ob die Vorgaben der Richtlinie im Sinne des Absatzes 7 umgesetzt und welche Maßnahmen hierzu im Einzelnen ergriffen wurden.
+
 # § 104 – Pflichten der Leistungserbringer
 
 (1) Die Leistungserbringer sind berechtigt und verpflichtet:
@@ -4092,7 +4134,7 @@ Zugelassene Pflegedienste, anerkannte Beratungsstellen, beauftragte Pflegefachkr
 
 erhalten nach § 72 zugelassene ambulante und stationäre Pflegeeinrichtungen in entsprechender Anwendung der Finanzierungsregelungen für die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer die sich aus § 378 Absatz 2 des Fünften Buches ergebenden Erstattungen nach Maßgabe des Absatzes 2 in Form einer monatlichen Pauschale (TI-Pauschale) aus dem Ausgleichsfonds der Pflegeversicherung.
 
-(2) Näheres zum Ausgleich nach Absatz 1, dem Zahlungs- und Abrechnungsverfahren sowie der Beteiligung der privaten Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, an den Kosten, legen der Spitzenverband Bund der Pflegekassen, der Verband der Privaten Krankenversicherung e. V. und die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene in einer Finanzierungsvereinbarung im Benehmen mit dem Bundesministerium für Gesundheit fest. Grundlage dieser Finanzierungsvereinbarung sind die nach § 378 Absatz 2 des Fünften Buches vereinbarten Bundesmantelverträge. Ein abweichender Erstattungsbedarf der Pflegeeinrichtungen gegenüber den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern aufgrund ihrer Besonderheiten, insbesondere bezogen auf Größe und Beschäftigtenanzahl, ist dabei zu berücksichtigen. Zudem sind Übergangsregelungen festzulegen, um die Erstattungsmodalitäten beim Übergang von den bisher geltenden auf die neuen Erstattungsregelungen zu bestimmen. Die Finanzierungsvereinbarung muss spätestens zwei Monate nach Anpassung der Bundesmantelverträge vorliegen.
+(2) Näheres zum Ausgleich nach Absatz 1, dem Zahlungs- und Abrechnungsverfahren sowie der Beteiligung der privaten Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, an den Kosten, legen der Spitzenverband Bund der Pflegekassen, der Verband der Privaten Krankenversicherung e. V. und die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene in einer Finanzierungsvereinbarung im Benehmen mit dem Bundesministerium für Gesundheit fest. Grundlage dieser Finanzierungsvereinbarung sind die nach § 378 Absatz 2 des Fünften Buches vereinbarten Bundesmantelverträge. Ein abweichender Erstattungsbedarf der Pflegeeinrichtungen gegenüber den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern aufgrund ihrer Besonderheiten, insbesondere bezogen auf Größe und Beschäftigtenanzahl, ist dabei zu berücksichtigen. Zudem sind Übergangsregelungen festzulegen, um die Erstattungsmodalitäten beim Übergang von den bisher geltenden auf die neuen Erstattungsregelungen zu bestimmen. Die Finanzierungsvereinbarung nach Satz 1 ist bis zum 29. Februar 2024 zu schließen. Kommt eine Vereinbarung nach Satz 1 nicht oder nicht vollständig bis zum 29. Februar 2024 zustande, legt das Bundesministerium für Gesundheit den Vereinbarungsinhalt innerhalb von zwei Monaten nach Ablauf der in Satz 1 genannten Frist fest. Klagen gegen die Festlegung des Vereinbarungsinhalts nach Satz 6 haben keine aufschiebende Wirkung.
 
 (3) Die durch die Erstattung nach Absatz 1 entstehenden Kosten, soweit die ambulanten Pflegeeinrichtungen betroffen sind, tragen die gesetzlichen Krankenkassen und die soziale Pflegeversicherung in dem Verhältnis, das der Relation zwischen den Ausgaben der Krankenkassen für die häusliche Krankenpflege und den Ausgaben der sozialen Pflegeversicherung für Pflegesachleistungen im vorangegangenen Kalenderjahr entspricht. Bei den in § 39a Absatz 1 des Fünften Buches genannten stationären Hospizen, mit denen ein Versorgungsvertrag als stationäre Pflegeeinrichtung nach § 72 besteht, tragen die gesetzlichen Krankenkassen 80 Prozent der nach Absatz 1 entstehenden Erstattungen. Zur Finanzierung der den Krankenkassen nach den Sätzen 1 und 2 entstehenden Kosten erhebt der Spitzenverband Bund der Krankenkassen von den Krankenkassen eine Umlage gemäß dem Anteil der Versicherten der Krankenkassen an der Gesamtzahl der Versicherten aller Krankenkassen. Die privaten Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, beteiligen sich mit einem Anteil von 7 Prozent an den Kosten, die sich gemäß Absatz 1 ergeben. Der jeweilige Finanzierungsanteil, der auf die privaten Versicherungsunternehmen entfällt, kann von dem Verband der Privaten Krankenversicherung e. V. unmittelbar an das Bundesamt für Soziale Sicherung zugunsten des Ausgleichsfonds der Pflegeversicherung nach § 65 geleistet werden. Das Nähere zum Umlageverfahren und zur Zahlung an den Ausgleichsfonds der Pflegeversicherung bestimmen der Spitzenverband Bund der Krankenkassen, der Verband der Privaten Krankenversicherung e. V. und das Bundesamt für Soziale Sicherung.
 
@@ -4175,6 +4217,16 @@ Auskunftspflichtig ist der Medizinische Dienst gegenüber den statistischen Ämt
 (5) Die Statistiken nach den Absätzen 1 und 2 sind für die Bereiche der ambulanten Pflege und der Kurzzeitpflege erstmals im Jahr 1996 für das Jahr 1995 vorzulegen, für den Bereich der stationären Pflege im Jahr 1998 für das Jahr 1997.
 
 § 109 Abs. 1 Satz 2 Nr. 5 Kursivdruck: Gem. Art. 1 Nr. 19 Buchst. a G v. 23.12.2016 I 3191 wurden die Wörter "Postleitzahl des Wohnorts vor dem Einzug in eine vollstationäre Pflegeeinrichtung," zur Vermeidung einer Dopplung der Kommata nach "Wohnort," anstelle nach "Wohnort" mWv 1.1.2017 eingefügt
+
+# § 109a – Recht auf Interoperabilität
+
+(1) Den Versicherten sind auf Verlangen ihre personenbezogenen Gesundheitsdaten unverzüglich und kostenfrei von dem Datenverantwortlichen einer digitalen Pflegeanwendung nach § 40a im interoperablen Format herauszugeben. Die Versicherten können verlangen, dass ihre personenbezogenen Daten von der in Satz 1 genannten Stelle an einen Datenverantwortlichen einer digitalen Pflegeanwendung nach § 40a ihrer Wahl oder an ihre Pflegekasse oder an das private Pflegeversicherungsunternehmen, das die private Pflege-Pflichtversicherung durchführt, nach Absatz 4 im interoperablen Format übermittelt werden. § 630f Absatz 3 und § 630g des Bürgerlichen Gesetzbuches bleiben hiervon unberührt.
+
+(2) Das geltende interoperable Format bei der Übermittlung aus und in digitale Pflegeanwendungen ergibt sich aus den Interoperabilitätsanforderungen nach § 6 Absatz 1 in Verbindung mit § 7 der Digitale Pflegeanwendungen-Verordnung.
+
+(3) Die Pflegekassen und die privaten Pflegeversicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, sollen die Versicherten bei der Verfolgung ihrer Ansprüche nach Absatz 1 unterstützen. Die Unterstützung der Pflegekassen und der privaten Pflegeversicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, nach Absatz 1 Satz 1 soll insbesondere umfassen, mit Einwilligung der Versicherten deren personenbezogene Daten stellvertretend für die Versicherten anzufordern.
+
+(4) Die auf Grundlage der Einwilligung der Versicherten bei den Datenverantwortlichen einer digitalen Pflegeanwendung nach § 40a erhobenen Daten dürfen von den Pflegekassen und den privaten Pflegeversicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, ausschließlich zum Zwecke der Unterstützung der Versicherten bei der Durchsetzung des Herausgabeanspruches nach Absatz 1 Satz 1 in Verbindung mit § 94 Absatz 1 Nummer 10a verarbeitet werden.
 
 # § 110 – Regelungen für die private Pflegeversicherung
 
@@ -4962,7 +5014,7 @@ Sowohl Personen- und Altersgruppen als auch Begutachtungsanlässe und Begutachtu
 
 (3) § 17 Absatz 2 findet Anwendung. Eine Genehmigung des Bundesministeriums für Gesundheit wird frühestens am 15. August 2023 wirksam. Die Nichtbeanstandung der nach Absatz 1 angepassten Richtlinien kann vom Bundesministerium für Gesundheit mit Auflagen verbunden werden. Das Bundesministerium für Gesundheit kann zur Erfüllung dieser Auflagen eine angemessene Frist setzen.
 
-(4) Mit Wirksamwerden der nach Absatz 1 vorgenommenen Anpassungen der Richtlinien nach § 17 Absatz 1 kann abweichend von den entsprechenden Bestimmungen des Zweiten Kapitels die Feststellung der Pflegebedürftigkeit und Einstufung in einen Pflegegrad ergänzend oder alternativ zur Untersuchung des Versicherten in seinem Wohnbereich aufgrund eines strukturierten telefonischen Interviews erfolgen. Der Wunsch des Antragstellers, persönlich in seinem Wohnbereich untersucht zu werden, geht einer Begutachtung durch ein strukturiertes telefonisches Interview vor. Der Antragsteller ist über sein Wahlrecht nach Satz 2 durch die Gutachterin oder den Gutachter zu informieren; die Entscheidung des Antragstellers ist im Begutachtungsformular schriftlich oder elektronisch zu dokumentieren.
+(4) Mit Wirksamwerden der nach Absatz 1 vorgenommenen Anpassungen der Richtlinien nach § 17 Absatz 1 kann abweichend von den entsprechenden Bestimmungen des Zweiten Kapitels die Feststellung der Pflegebedürftigkeit und Einstufung in einen Pflegegrad ergänzend oder alternativ zur Untersuchung des Versicherten in seinem Wohnbereich aufgrund eines strukturierten telefonischen Interviews, das auch per Videotelefonie durchgeführt werden kann, erfolgen; bei der Durchführung der Begutachtung per Videotelefonie sind die nach § 365 Absatz 1 Satz 1 des Fünften Buches vereinbarten Anforderungen an die technischen Verfahren zu Videosprechstunden einzuhalten. Der Wunsch des Antragstellers, persönlich in seinem Wohnbereich untersucht zu werden, geht einer Begutachtung durch ein strukturiertes telefonisches Interview vor. Der Antragsteller ist über sein Wahlrecht nach Satz 2 durch die Gutachterin oder den Gutachter zu informieren; die Entscheidung des Antragstellers ist im Begutachtungsformular schriftlich oder elektronisch zu dokumentieren.
 
 (5) Der Medizinische Dienst Bund berichtet dem Bundesministerium für Gesundheit bis zum 30. Juni 2024 über die Erfahrungen der Medizinischen Dienste mit der Durchführung von strukturierten telefonischen Interviews zur Feststellung der Pflegebedürftigkeit und über erforderliche Änderungsbedarfe in den Richtlinien nach § 17 Absatz 1. Für die Berichterstattung nach Satz 1 beauftragt der Medizinische Dienst Bund eine unabhängige wissenschaftliche Einrichtung oder einen unabhängigen Sachverständigen mit der begleitenden Evaluation von Begutachtungen, die auf Grundlage der Anpassungen nach Absatz 1 durchgeführt werden; der Evaluationsbericht ist dem Bundesministerium für Gesundheit unverzüglich vorzulegen.
 
