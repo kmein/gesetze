@@ -420,7 +420,7 @@ b) Institutskennzeichen, E-Mail-Adresse und Kennnummer des Krankenhauses und
 
 c) Kennnummer des Eintrags.
 
-Das Bundesinstitut für Arzneimittel und Medizinprodukte darf das Pseudonym der Krankenversichertennummer ausschließlich zum Zweck der Vermeidung möglicher Fehlzuordnungen bei Doppelungen persönlicher Daten bei unterschiedlichen Personen im Abfragefall verarbeiten. Das Verfahren zur Pseudonymisierung legt das Bundesinstitut für Arzneimittel und Medizinprodukte im Benehmen mit dem Bundesamt für die Sicherheit in der Informationstechnik und dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit fest.
+Das Bundesinstitut für Arzneimittel und Medizinprodukte darf das auf Grundlage der Krankenversichertennummer gebildete Pseudonym ausschließlich zum Zweck der eindeutigen Zuordnung der Erklärungen zu den erklärenden Personen verarbeiten. Das Verfahren zur Pseudonymisierung der Krankenversichertennummer legt das Bundesinstitut für Arzneimittel und Medizinprodukte im Benehmen mit dem Bundesamt für die Sicherheit in der Informationstechnik und dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit fest.
 
 (4) Eine Auskunft aus dem Register darf ausschließlich an die Person, die die Erklärung zur Organ- und Gewebespende abgegeben hat, sowie an einen Arzt oder Transplantationsbeauftragten erteilt werden, der von einem Krankenhaus dem Bundesinstitut für Arzneimittel und Medizinprodukte als auskunftsberechtigt benannt wurde und der weder an der Entnahme noch an der Übertragung der Organe oder der Gewebe des möglichen Organ- oder Gewebespenders beteiligt ist und auch nicht Weisungen eines Arztes untersteht, der an diesen Maßnahmen beteiligt ist. Ein als auskunftsberechtigt benannter Arzt oder Transplantationsbeauftragter darf eine Auskunft zu einem möglichen Organ- oder Gewebespender erfragen,
 
@@ -680,15 +680,17 @@ Die für Gewebespender nach § 8d Abs. 1 Satz 2 Nr. 3 vorgeschriebenen Laborunte
 
 1. den endgültigen, nicht behebbaren Ausfall der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms von Patienten, die nach ärztlicher Beurteilung als Organspender in Betracht kommen, nach § 5 festzustellen und der Koordinierungsstelle nach § 11 unverzüglich mitzuteilen; kommen diese Patienten zugleich als Gewebespender in Betracht, ist dies gleichzeitig mitzuteilen,
 
-2. sicherzustellen, dass die Zuständigkeiten und Handlungsabläufe zur Erfüllung ihrer Verpflichtungen aus diesem Gesetz in einer Verfahrensanweisung festgelegt und eingehalten werden,
+2. sicherzustellen, dass in ihrem Entnahmekrankenhaus Ärzte oder Transplantationsbeauftragte dem Bundesinstitut für Arzneimittel und Medizinprodukte als auskunftsberechtigt benannt werden,
 
-3. sicherzustellen, dass die Entnahme in einem Operationssaal durchgeführt wird, der dem Stand der medizinischen Wissenschaft und Technik entspricht, um die Qualität und Sicherheit der entnommenen Organe zu gewährleisten,
+3. sicherzustellen, dass die Zuständigkeiten und Handlungsabläufe zur Erfüllung ihrer Verpflichtungen aus diesem Gesetz in einer Verfahrensanweisung festgelegt und eingehalten werden,
 
-4. sicherzustellen, dass das von ihnen eingesetzte medizinische Personal für seine Aufgaben qualifiziert ist,
+4. sicherzustellen, dass die Entnahme in einem Operationssaal durchgeführt wird, der dem Stand der medizinischen Wissenschaft und Technik entspricht, um die Qualität und Sicherheit der entnommenen Organe zu gewährleisten,
 
-5. die auf Grund des § 11 getroffenen Regelungen zur Organentnahme einzuhalten und
+5. sicherzustellen, dass das von ihnen eingesetzte medizinische Personal für seine Aufgaben qualifiziert ist,
 
-6. sicherzustellen, dass alle Todesfälle mit primärer oder sekundärer Hirnschädigung sowie die Gründe für eine nicht erfolgte Feststellung oder für eine nicht erfolgte Meldung nach Nummer 1 oder andere der Organentnahme entgegenstehende Gründe erfasst und die Daten der Koordinierungsstelle nach § 11 mindestens einmal jährlich anonymisiert übermittelt werden.
+6. die auf Grund des § 11 getroffenen Regelungen zur Organentnahme einzuhalten und
+
+7. sicherzustellen, dass alle Todesfälle mit primärer oder sekundärer Hirnschädigung sowie die Gründe für eine nicht erfolgte Feststellung oder für eine nicht erfolgte Meldung nach Nummer 1 oder andere der Organentnahme entgegenstehende Gründe erfasst und die Daten der Koordinierungsstelle nach § 11 mindestens einmal jährlich anonymisiert übermittelt werden.
 
 Verfügt ein Entnahmekrankenhaus nicht über Ärzte, die für die Feststellung des endgültigen, nicht behebbaren Ausfalls der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms bei einem Patienten qualifiziert sind, und ist es auch anderweitig nicht in der Lage, seine Verpflichtung nach Satz 1 Nummer 1 zu erfüllen, vermittelt die Koordinierungsstelle nach § 11 auf Anfrage des Entnahmekrankenhauses hierfür qualifizierte Ärzte. Die Koordinierungsstelle organisiert einen neurochirurgischen und neurologischen konsiliarärztlichen Rufbereitschaftsdienst (Rufbereitschaftsdienst), der sicherstellt, dass auf Anfrage eines Entnahmekrankenhauses regional und flächendeckend jederzeit Ärzte, die für die Feststellung des endgültigen, nicht behebbaren Ausfalls der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms qualifiziert sind, zur Verfügung stehen. Krankenhäuser mit neurochirurgischen oder neurologischen Fachabteilungen sowie neurochirurgische oder neurologische Medizinische Versorgungszentren und neurochirurgische oder neurologische Praxen beteiligen sich auf Anfrage der Koordinierungsstelle an dem Rufbereitschaftsdienst. Die Krankenhäuser, Medizinischen Versorgungszentren und Praxen haben einen Anspruch auf einen angemessenen Ausgleich der Kosten, die ihnen dadurch entstehen, dass sie Ärzte für den Rufbereitschaftsdienst zur Verfügung stellen. Die sich beteiligenden Ärzte haben Anspruch auf eine angemessene Vergütung einschließlich einer Einsatzpauschale.
 
@@ -722,7 +724,7 @@ Die Kosten für fachspezifische Fort- und Weiterbildungen der Transplantationsbe
 
 2. dass die Angehörigen von Spendern nach § 3 oder § 4 in angemessener Weise begleitet werden,
 
-3. die Verfahrensanweisungen nach § 9a Absatz 2 Nummer 2 zu erstellen,
+3. die Verfahrensanweisungen nach § 9a Absatz 2 Satz 1 Nummer 3 zu erstellen,
 
 4. dass das ärztliche und pflegerische Personal im Entnahmekrankenhaus über die Bedeutung und den Prozess der Organspende regelmäßig informiert wird,
 
@@ -758,7 +760,7 @@ Die Kosten für fachspezifische Fort- und Weiterbildungen der Transplantationsbe
 
 8. nach Maßgabe der Vorschriften des Fünften Buches Sozialgesetzbuch Maßnahmen zur Qualitätssicherung, die auch einen Vergleich mit anderen Transplantationszentren ermöglichen, im Rahmen ihrer Tätigkeit nach diesem Gesetz durchzuführen; dies gilt für die Nachbetreuung von Organspendern nach § 8 Abs. 3 Satz 1 entsprechend.
 
-§ 9a Absatz 2 Nummer 2 und 3 gilt entsprechend.
+§ 9a Absatz 2 Satz 1 Nummer 3 und 4 gilt entsprechend.
 
 (3) Die nach Absatz 2 Satz 1 Nummer 1 für die Organvermittlung erforderlichen Angaben sind von einem Arzt oder einer von diesem beauftragten Person zu erheben, zu dokumentieren und an die Vermittlungsstelle nach Maßgabe des § 13 Absatz 3 Satz 3 zu übermitteln. Den in Satz 1 genannten Personen ist es verboten,
 
@@ -814,7 +816,7 @@ Wenn in einem besonderen Fall, einschließlich einem lebensbedrohlichen Notfall,
 
 Die Koordinierungsstelle stellt sicher, dass das von ihr eingesetzte medizinische Personal für seine Aufgaben qualifiziert ist. Sie berät die Entnahmekrankenhäuser bei der Erfüllung ihrer gesetzlichen Verpflichtungen und die Transplantationsbeauftragten bei der Auswertung der Todesfälle mit primärer oder sekundärer Hirnschädigung nach § 9b Absatz 2 Nummer 5 und bei der Verbesserung krankenhausinterner Handlungsabläufe im Prozess der Organspende. Das Nähere zur Erstellung der Verfahrensanweisungen nach Satz 2 regelt der Vertrag nach Absatz 2.
 
-(1b) Die Koordinierungsstelle wertet die von den Entnahmekrankenhäusern an sie nach § 9a Absatz 2 Nummer 6 zu übermittelnden Daten aus und leitet die Daten und die Ergebnisse der Auswertung standortbezogen an die nach Landesrecht zuständigen Stellen weiter. Die Ergebnisse der Auswertung werden von der Koordinierungsstelle standortbezogen auch an das jeweilige Entnahmekrankenhaus weitergeleitet. Die Anforderungen an die von den Entnahmekrankenhäusern an die Koordinierungsstelle nach § 9a Absatz 2 Nummer 6 zu übermittelnden Daten, das Verfahren für die Übermittlung der Daten, die Auswertung der Daten und an ihre Weiterleitung werden im Vertrag nach Absatz 2 festgelegt.
+(1b) Die Koordinierungsstelle wertet die von den Entnahmekrankenhäusern an sie nach § 9a Absatz 2 Satz 1 Nummer 7 zu übermittelnden Daten aus und leitet die Daten und die Ergebnisse der Auswertung standortbezogen an die nach Landesrecht zuständigen Stellen weiter. Die Ergebnisse der Auswertung werden von der Koordinierungsstelle standortbezogen auch an das jeweilige Entnahmekrankenhaus weitergeleitet. Die Anforderungen an die von den Entnahmekrankenhäusern an die Koordinierungsstelle nach § 9a Absatz 2 Satz 1 Nummer 7 zu übermittelnden Daten, das Verfahren für die Übermittlung der Daten, die Auswertung der Daten und an ihre Weiterleitung werden im Vertrag nach Absatz 2 festgelegt.
 
 (2) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer, die Deutsche Krankenhausgesellschaft und die Koordinierungsstelle regeln durch Vertrag das Nähere zu den Aufgaben der Koordinierungsstelle mit Wirkung für die Transplantationszentren und die Entnahmekrankenhäuser. Der Vertrag regelt insbesondere
 

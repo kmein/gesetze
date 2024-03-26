@@ -19,7 +19,9 @@
 
 5. Arbeiten zur medizinischen und technischen Sicherheit, Eignung und Leistung von Medizinprodukten,
 
-6. zentrale Risikoerfassung sowie Durchführung von Maßnahmen zur Risikoabwehr bei Medizinprodukten.
+6. zentrale Risikoerfassung sowie Durchführung von Maßnahmen zur Risikoabwehr bei Medizinprodukten,
+
+7. Koordinierung des Datenzugangs im Gesundheitswesen für die forschungsbezogene Zusammenführung und Verknüpfung von Gesundheitsdaten.
 
 # § 2 – Robert Koch-Institut - Bundesinstitut für Infektionskrankheiten und nicht übertragbare Krankheiten -
 
