@@ -267,6 +267,8 @@ Es ist nicht erforderlich, dass die an weiteren Orten angebotenen Leistungen in 
 
 (7) Der Zulassungsausschuss darf den Antrag eines Vertragszahnarztes auf Verlegung seines Vertragszahnarztsitzes nur genehmigen, wenn Gründe der vertragszahnärztlichen Versorgung dem nicht entgegenstehen. Entsprechendes gilt für die Verlegung einer genehmigten Anstellung.
 
+(8) Die vertragszahnärztliche Tätigkeit darf hinsichtlich der in § 87 Absatz 2k des Fünften Buches Sozialgesetzbuch genannten Videosprechstundenleistungen außerhalb des Vertragszahnarztsitzes erbracht werden.
+
 # § 25
 
 (weggefallen)

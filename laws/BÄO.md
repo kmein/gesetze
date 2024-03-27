@@ -317,4 +317,39 @@ ist die Approbation als Arzt zu erteilen, wenn die Behörden dieser Mitgliedstaa
 
 (Inkrafttreten, Außerkrafttreten)
 
-# Anlage – (zu § 3 Abs. 1 Satz 2)
+# Anlage – (zu § 3 Absatz 1 Satz 2)
+
+(Fundstelle: BGBl. 2024 I Nr. 99, S. 1 - 4)
+
+<span id="FnA1-F829550_01a"></span><a href="#FnR.FnA1-F829550_01a" class="Footnote">1</a>  
+Seit September 2013.
+
+<span id="FnA1-F829550_02"></span><a href="#FnR.FnA1-F829550_02" class="Footnote">2</a>  
+Seit September 2013.
+
+<span id="FnA1-F829550_03"></span><a href="#FnR.FnA1-F829550_03" class="Footnote">3</a>  
+Seit Oktober 2014.
+
+<span id="FnA1-F829550_04"></span><a href="#FnR.FnA1-F829550_04" class="Footnote">4</a>  
+Bis 2012.
+
+<span id="FnA1-F829550_05"></span><a href="#FnR.FnA1-F829550_05" class="Footnote">5</a>  
+Seit 2013.
+
+<span id="FnA1-F829550_06"></span><a href="#FnR.FnA1-F829550_06" class="Footnote">6</a>  
+Seit 2011.
+
+<span id="FnA1-F829550_07"></span><a href="#FnR.FnA1-F829550_07" class="Footnote">7</a>  
+Von 2003/2004 bis 2013/2014.
+
+<span id="FnA1-F829550_08"></span><a href="#FnR.FnA1-F829550_08" class="Footnote">8</a>  
+Seit 2014/2015.
+
+<span id="FnA1-F829550_09"></span><a href="#FnR.FnA1-F829550_09" class="Footnote">9</a>  
+Seit 2001/2002.
+
+<span id="FnA1-F829550_10"></span><a href="#FnR.FnA1-F829550_10" class="Footnote">10</a>  
+Bis zum 2.4.2020.
+
+<span id="FnA1-F829550_11"></span><a href="#FnR.FnA1-F829550_11" class="Footnote">11</a>  
+Vor dem 1.1.2021 ausgestellt.

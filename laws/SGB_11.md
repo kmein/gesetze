@@ -3950,7 +3950,9 @@ Für den Schutz personenbezogener Daten bei der Verarbeitung in der Pflegeversic
 
 10a. die Unterstützung der Versicherten bei der Durchsetzung des Herausgabeanspruchs nach § 109a Absatz 1 Satz 2 in Verbindung mit Absatz 4,
 
-11. die Unterstützung der Versicherten bei der Verfolgung von Schadensersatzansprüchen (§ 115 Abs. 3 Satz 7)
+11. die Unterstützung der Versicherten bei der Verfolgung von Schadensersatzansprüchen (§ 115 Abs. 3 Satz 7),
+
+12. Auswertungen nach § 25b des Fünften Buches
 
 erforderlich ist.
 

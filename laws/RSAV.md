@@ -425,7 +425,7 @@ Das Bundesamt für Soziale Sicherung kann die Schätzung nach Satz 1 Nummer 2 au
 
 # § 23 – Aufzubringende Mittel der Krankenkassen für den Innovationsfonds
 
-(1) Das Bundesamt für Soziale Sicherung ermittelt für die in § 92a Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch genannten Jahre für jede Krankenkasse für das jeweilige Jahr den von dieser zu tragenden Anteil zur Finanzierung des Innovationsfonds, indem es jeweils den sich aus § 92a Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch für die Krankenkassen ergebenden Betrag durch die Summe der nach § 7 Absatz 1 Satz 1 Nummer 1 von den Krankenkassen übermittelten Versicherungszeiten aller Krankenkassen teilt und danach das Ergebnis mit den Versicherungszeiten der Krankenkasse vervielfacht.
+(1) Das Bundesamt für Soziale Sicherung ermittelt jährlich für jede Krankenkasse den von dieser zu tragenden Anteil zur Finanzierung des Innovationsfonds, indem es jeweils den sich aus § 92a Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch für die Krankenkassen ergebenden Betrag durch die Summe der nach § 7 Absatz 1 Satz 1 Nummer 1 von den Krankenkassen übermittelten Versicherungszeiten aller Krankenkassen teilt und danach das Ergebnis mit den Versicherungszeiten der Krankenkasse vervielfacht.
 
 (2) Das Bundesamt für Soziale Sicherung hat für jede Krankenkasse das Ergebnis nach Absatz 1 von den Zuweisungen an die Krankenkasse nach § 266 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch für das jeweilige Jahr abzusetzen. § 18 gilt entsprechend.
 

@@ -253,7 +253,7 @@ Neben den Angaben nach Satz 1 ist im Verzeichnis für digitale Pflegeanwendungen
 
 (1) Im Verzeichnis für digitale Pflegeanwendungen werden weitere Angaben aus den eingereichten Unterlagen veröffentlicht, soweit dies für die Information der Pflegebedürftigen und Nutzer sowie der Kostenträger im Hinblick auf eine informierte Entscheidung und für die qualitätsgesicherte Versorgung mit der digitalen Pflegeanwendung erforderlich ist.
 
-(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht die Nutzung der Angaben nach § 16 Absatz 2 und 3 durch die Landesverbände der Pflegekassen für Zwecke der Pflegeversicherung. Hierzu veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte mit Errichtung des Verzeichnisses eine geeignete Schnittstelle auf Basis international anerkannter Standards und beantragt deren Aufnahme in das Interoperabilitätsverzeichnis nach § 385 des Fünften Buches Sozialgesetzbuch.
+(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht die Nutzung der Angaben nach § 16 Absatz 2 und 3 durch die Landesverbände der Pflegekassen für Zwecke der Pflegeversicherung. Hierzu veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte mit Errichtung des Verzeichnisses eine geeignete Schnittstelle auf Basis international anerkannter Standards und beantragt deren Aufnahme auf die Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch.
 
 (3) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt die in § 16 Absatz 2 und 3 aufgeführten Angaben folgenden Berechtigten auf Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur Verarbeitung und Veröffentlichung zur Verfügung:
 
@@ -289,7 +289,7 @@ Neben den Angaben nach Satz 1 ist im Verzeichnis für digitale Pflegeanwendungen
 
 16. gemeinnützigen juristischen Personen des Privatrechts.
 
-Das Nähere zu der Übermittlung der Daten, insbesondere zum Datenformat, zu den Nutzungsrechten und den Pflichten des Nutzers bei der Verwendung der Daten bestimmt das Bundesinstitut für Arzneimittel und Medizinprodukte in Nutzungsbedingungen, die dem Datennutzungsvertrag zu Grunde gelegt werden. Mit den Nutzungsbedingungen wird eine nicht missbräuchliche, nicht wettbewerbsverzerrende und manipulationsfreie Verwendung der Daten sichergestellt. Die Berechtigten nach Satz 1 haben zu gewährleisten, dass die Herkunft der Daten für Pflegebedürftige und alle anderen Nutzer der Informationen transparent bleibt. Dies gilt insbesondere, wenn eine Verwendung der Daten in Zusammenhang mit anderen Daten erfolgt. Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht eine geeignete Schnittstelle auf Basis international anerkannter Standards und beantragt deren Aufnahme in das Interoperabilitätsverzeichnis nach § 385 des Fünften Buches Sozialgesetzbuch.
+Das Nähere zu der Übermittlung der Daten, insbesondere zum Datenformat, zu den Nutzungsrechten und den Pflichten des Nutzers bei der Verwendung der Daten bestimmt das Bundesinstitut für Arzneimittel und Medizinprodukte in Nutzungsbedingungen, die dem Datennutzungsvertrag zu Grunde gelegt werden. Mit den Nutzungsbedingungen wird eine nicht missbräuchliche, nicht wettbewerbsverzerrende und manipulationsfreie Verwendung der Daten sichergestellt. Die Berechtigten nach Satz 1 haben zu gewährleisten, dass die Herkunft der Daten für Pflegebedürftige und alle anderen Nutzer der Informationen transparent bleibt. Dies gilt insbesondere, wenn eine Verwendung der Daten in Zusammenhang mit anderen Daten erfolgt. Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht eine geeignete Schnittstelle auf Basis international anerkannter Standards und beantragt deren Aufnahme auf die Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch.
 
 (4) Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht die im Verzeichnis für digitale Pflegeanwendungen enthaltenen Angaben nach § 16 Absatz 2 und 3 auf einem Webportal in einer für Pflegebedürftige und sonstige Nutzer intuitiv zugänglichen barrierefreien Struktur, Form und Darstellung.
 
@@ -1717,7 +1717,7 @@ Verfügt die digitale Pflegeanwendung über standardisierte Schnittstellen zu pe
 
 § 6 Absatz 1 und § 7
 
-Ja, die digitale Pflegeanwendung ist in der Lage, Daten aus von Pflegebedürftigen genutzten Medizingeräten oder vom Versicherten getragenen Sensoren zur Messung und Übertragung von Vitalwerten (Wearables) zu erfassen, und unterstützt hierzu ein offengelegtes und dokumentiertes Profil der DIN EN ISO/IEEE 11073 Normenfamilie. Sofern ein solch geeignetes Profil nicht vorliegt, unterstützt die digitale Pflegeanwendung eine andere offengelegte und dokumentierte Schnittstelle, welche im Interoperabilitätsverzeichnis nach § 385 des Fünften Buches Sozialgesetzbuch empfohlen ist.
+Ja, die digitale Pflegeanwendung ist in der Lage, Daten aus von Pflegebedürftigen genutzten Medizingeräten oder vom Versicherten getragenen Sensoren zur Messung und Übertragung von Vitalwerten (Wearables) zu erfassen, und unterstützt hierzu ein offengelegtes und dokumentiertes Profil der DIN EN ISO/IEEE 11073 Normenfamilie. Sofern ein solch geeignetes Profil nicht vorliegt, unterstützt die digitale Pflegeanwendung eine andere offengelegte und dokumentierte Schnittstelle, welche auf der Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch empfohlen ist.
 
  
 
@@ -1729,7 +1729,7 @@ Im Rahmen der bestimmungsgemäßen Nutzung der digitalen Pflegeanwendung ist nic
 
  
 
-Sofern eine solche geeignete Schnittstelle nicht vorliegt, unterstützt die digitale Pflegeanwendung eine andere offengelegte und dokumentierte Schnittstelle, welche entweder im Interoperabilitätsverzeichnis nach § 385 des Fünften Buches Sozialgesetzbuch gelistet ist oder für welche vom Hersteller ein entsprechender Antrag gestellt wurde.
+Sofern eine solche geeignete Schnittstelle nicht vorliegt, unterstützt die digitale Pflegeanwendung eine andere offengelegte und dokumentierte Schnittstelle, welche entweder auf der Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch gelistet ist oder für welche vom Hersteller ein entsprechender Antrag gestellt wurde.
 
  
 

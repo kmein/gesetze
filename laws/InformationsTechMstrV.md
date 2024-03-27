@@ -135,7 +135,7 @@ f) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 (3) Für die Bearbeitung der Situationsaufgabe stehen dem Prüfling insgesamt 5 Stunden zur Verfügung.
 
-(4) Jede Prüfungsleistung nach Absatz 2 Satz 2 Nummer 1 bis 3 wird gesondert bewertet. Die Gesamtbewertung der Situationsaufgabe entspricht dem arithmetischen Mittel der Bewertungen der Prüfungsleistungen nach Absatz 2 Satz 2 Nummer 1 bis 3.
+(4) Jede Prüfungsleistung nach Absatz 2 Nummer 1 bis 3 wird gesondert bewertet. Die Gesamtbewertung der Situationsaufgabe entspricht dem arithmetischen Mittel der Bewertungen der Prüfungsleistungen nach Absatz 2 Nummer 1 bis 3.
 
 # § 7 – Gewichtung, Bestehen der Prüfung in Teil I
 
