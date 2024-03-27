@@ -69,7 +69,7 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 25. den für die Nutzung der digitalen Gesundheitsanwendung vom Hersteller für erforderlich gehaltenen Tätigkeiten der Heilmittelerbringer oder Hebammen, sofern zutreffend, und
 
-26. den Daten aus Hilfsmitteln und Implantaten, die nach § 374a des Fünften Buches Sozialgesetzbuch von der digitalen Gesundheitsanwendung verarbeitet werden, und zu den Produktbezeichnungen der Hilfsmittel und Implantate, von denen Daten nach § 374a des Fünften Buches Sozialgesetzbuch an die digitale Gesundheitsanwendung übermittelt werden.
+26. den Daten aus Hilfsmitteln und Implantaten, die nach § 374a des Fünften Buches Sozialgesetzbuch von der digitalen Gesundheitsanwendung verarbeitet werden, und zu den Produktbezeichnungen der Hilfsmittel und Implantate, von denen Daten nach § 374a des Fünften Buches Sozialgesetzbuch an die digitale Gesundheitsanwendung übermittelt werden. Bei digitalen Gesundheitsanwendungen höherer Risikoklasse müssen die Angaben des Herstellers nach Satz 2 Nummer 9 bis 13 auch geeignet sein, den Nachweis eines medizinischen Nutzens zu führen.
 
 (2) Der Hersteller kennzeichnet in seinem Antrag die Angaben nach Absatz 1, bei denen rechtliche Anforderungen an den Schutz der Betriebs- und Geschäftsgeheimnisse oder an den Schutz personenbezogener Daten oder des geistigen Eigentums einer Veröffentlichung entgegenstehen.
 
@@ -97,7 +97,7 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 2. zu dem Nachweis positiver Versorgungseffekte im Rahmen einer Erprobung nach § 139e Absatz 4 des Fünften Buches Sozialgesetzbuch,
 
-3. zu der Nachweisführung bei Vereinbarungen nach § 134 Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch,
+3. zu der Nachweisführung der Vereinbarungen nach § 134 Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch,
 
 4. zu der dauerhaften Gewährleistung der technischen Funktionsfähigkeit, der Nutzerfreundlichkeit und der Weiterentwicklung der digitalen Gesundheitsanwendung.
 
@@ -224,6 +224,12 @@ Als interoperable Formate nach § 5 Absatz 1 gelten Festlegungen für die seman
 
 (2) § 10 Absatz 3 bis 7 gilt entsprechend.
 
+# § 11a – Studien zum Nachweis des medizinischen Nutzens bei digitalen Gesundheitsanwendungen höherer Risikoklasse
+
+(1) Abweichend von § 10 Absatz 1 legt der Hersteller zum Nachweis des medizinischen Nutzens bei digitalen Gesundheitsanwendungen höherer Risikoklasse eine prospektive Vergleichsstudie vor.
+
+(2) § 10 Absatz 5 bis 7 gilt entsprechend.
+
 # § 12 – Nachweis für diagnostische Instrumente
 
 (1) Enthält eine digitale Gesundheitsanwendung ein diagnostisches Instrument, so hat der Hersteller zusätzlich zu den Nachweisen nach § 10 mittels einer Studie die Sensitivität und Spezifität der digitalen Gesundheitsanwendung im Hinblick auf die angegebene Patientengruppe nach § 9 Absatz 1 Nummer 2 und Absatz 3 zu ermitteln.
@@ -252,11 +258,11 @@ Der Hersteller legt im Rahmen eines Antrags nach § 139e Absatz 4 des Fünften B
 
 # § 17 – Verfahren bei Aufnahme zur Erprobung
 
-(1) Hat ein Hersteller einen Antrag auf Aufnahme einer digitalen Gesundheitsanwendung nach § 139e Absatz 4 des Fünften Buches Sozialgesetzbuch in das Verzeichnis für digitale Gesundheitsanwendungen gestellt und sind die mit dem Antrag einzureichende plausible Begründung nach § 14 sowie das Evaluationskonzept nach § 15 für eine vorläufige Aufnahme ausreichend, entscheidet das Bundesinstitut für Arzneimittel und Medizinprodukte nach Eingang der vollständigen Antragsunterlagen per Bescheid. Der Bescheid enthält insbesondere Angaben zur Dauer der Aufnahme zur Erprobung sowie zu den spätestens zum Ablauf des Erprobungszeitraums vorzulegenden Nachweisen nach § 139e Absatz 4 Satz 3 des Fünften Buches Sozialgesetzbuch einschließlich der zur Erprobung erforderlichen ärztlichen Leistungen und Leistungen der Heilmittelerbringer oder Hebammen.
+(1) Hat ein Hersteller einer digitalen Gesundheitsanwendung niedriger Risikoklasse einen Antrag auf Aufnahme einer digitalen Gesundheitsanwendung nach § 139e Absatz 4 des Fünften Buches Sozialgesetzbuch in das Verzeichnis für digitale Gesundheitsanwendungen gestellt und sind die mit dem Antrag einzureichende plausible Begründung nach § 14 sowie das Evaluationskonzept nach § 15 für eine vorläufige Aufnahme ausreichend, entscheidet das Bundesinstitut für Arzneimittel und Medizinprodukte nach Eingang der vollständigen Antragsunterlagen per Bescheid. Der Bescheid enthält insbesondere Angaben zur Dauer der Aufnahme zur Erprobung sowie zu den spätestens zum Ablauf des Erprobungszeitraums vorzulegenden Nachweisen nach § 139e Absatz 4 Satz 3 des Fünften Buches Sozialgesetzbuch einschließlich der zur Erprobung erforderlichen ärztlichen Leistungen und Leistungen der Heilmittelerbringer oder Hebammen.
 
 (2) Zur endgültigen Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen sind dem Bundesinstitut für Arzneimittel und Medizinprodukte spätestens zum Ablauf des Erprobungszeitraums die in dem Bescheid nach Absatz 1 festgelegten Nachweise auf elektronischem Wege vollständig zu übermitteln.
 
-(3) Der Hersteller kann eine einmalige Verlängerung des Erprobungszeitraums um bis zu zwölf Monate beantragen. Hierzu hat der Antragsteller spätestens drei Monate vor Ablauf des im Bescheid nach Absatz 1 gewährten Erprobungszeitraums einen elektronischen Antrag auf Verlängerung des Erprobungszeitraums beim Bundesinstitut für Arzneimittel und Medizinprodukte zu stellen. In dem Antrag nach Satz 1 begründet der Hersteller die Erforderlichkeit einer Verlängerung des Erprobungszeitraums. Insbesondere hat der Hersteller darzulegen, warum die geforderten Nachweise nicht fristgerecht vorgelegt werden können und inwieweit eine abschließende Nachweisführung im Rahmen der beantragten Verlängerung des Erprobungszeitraums möglich sein wird.
+(3) Der Hersteller einer digitalen Gesundheitsanwendung niedriger Risikoklasse kann eine einmalige Verlängerung des Erprobungszeitraums um bis zu zwölf Monate beantragen. Hierzu hat der Antragsteller spätestens drei Monate vor Ablauf des im Bescheid nach Absatz 1 gewährten Erprobungszeitraums einen elektronischen Antrag auf Verlängerung des Erprobungszeitraums beim Bundesinstitut für Arzneimittel und Medizinprodukte zu stellen. In dem Antrag nach Satz 1 begründet der Hersteller die Erforderlichkeit einer Verlängerung des Erprobungszeitraums. Insbesondere hat der Hersteller darzulegen, warum die geforderten Nachweise nicht fristgerecht vorgelegt werden können und inwieweit eine abschließende Nachweisführung im Rahmen der beantragten Verlängerung des Erprobungszeitraums möglich sein wird.
 
 (4) Wird der Antrag auf Verlängerung des Erprobungszeitraums nach Absatz 3 nicht spätestens drei Monate vor Ablauf des Erprobungszeitraums gestellt, ist dieser unvollständig, oder sind die Inhalte des Antrags nicht geeignet, die Anforderungen nach den §§ 10 bis 12 zu erfüllen, lehnt das Bundesinstitut für Arzneimittel und Medizinprodukte den Antrag auf Verlängerung des Erprobungszeitraums ab und streicht die digitale Gesundheitsanwendung nach Ablauf des Erprobungszeitraums aus dem Verzeichnis für digitale Gesundheitsanwendungen. Der Hersteller ist über die Streichung nach Satz 1 zu informieren.
 
@@ -294,7 +300,7 @@ Im Umfang geringfügige und lediglich redaktionelle Änderungen der Angaben und 
 
 1. den nachgewiesenen oder nachzuweisenden positiven Versorgungseffekten,
 
-2. den nach den §§ 10 und 11 vorgelegten Studien in Form von Zusammenfassungen zum Forschungsdesign und zu den Ergebnissen einschließlich eines Verweises auf den Ort der Registrierung sowie auf den Ort der vollumfänglichen Veröffentlichung der Studien nach § 10 Absatz 6 im Internet,
+2. den nach den §§ 10 bis 11a vorgelegten Studien in Form von Zusammenfassungen zum Forschungsdesign und zu den Ergebnissen einschließlich eines Verweises auf den Ort der Registrierung sowie auf den Ort der vollumfänglichen Veröffentlichung der Studien nach § 10 Absatz 6 im Internet,
 
 3. der Sensitivität und Spezifität der in der digitalen Gesundheitsanwendung enthaltenen diagnostischen Instrumente gemäß den Ergebnissen der nach § 12 vorgelegten Studie zur diagnostischen Testgüte, sofern zutreffend,
 
@@ -310,7 +316,7 @@ Im Umfang geringfügige und lediglich redaktionelle Änderungen der Angaben und 
 
 (1) In dem Verzeichnis für digitale Gesundheitsanwendungen werden weitere Angaben aus den eingereichten Unterlagen veröffentlicht, soweit dies für die Information der Leistungserbringer, für die Unterstützung einer informierten Nutzungsentscheidung seitens der Patienten und für die qualitätsgesicherte Anwendung der digitalen Gesundheitsanwendung erforderlich ist.
 
-(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht die Nutzung der Angaben nach § 20 Absatz 2 und 3 durch Dritte, sofern dies für die Verwendung von elektronischen Verordnungen der Leistungen nach § 33a Absatz 1 des Fünften Buches Sozialgesetzbuch erforderlich ist. Hierzu veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte mit der Errichtung des Verzeichnisses eine geeignete Schnittstelle auf Basis internationaler anerkannter Standards und beantragt deren Aufnahme in das Interoperabilitätsverzeichnis nach § 385 des Fünften Buches Sozialgesetzbuch.
+(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht die Nutzung der Angaben nach § 20 Absatz 2 und 3 durch Dritte, sofern dies für die Verwendung von elektronischen Verordnungen der Leistungen nach § 33a Absatz 1 des Fünften Buches Sozialgesetzbuch erforderlich ist. Hierzu veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte mit der Errichtung des Verzeichnisses eine geeignete Schnittstelle auf Basis internationaler anerkannter Standards und beantragt deren Aufnahme auf die Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch.
 
 (3) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt die in § 20 Absatz 2 und 3 aufgeführten Angaben
 
@@ -320,7 +326,7 @@ Im Umfang geringfügige und lediglich redaktionelle Änderungen der Angaben und 
 
 3. gemeinnützigen juristischen Personen des Privatrechts
 
-auf Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur Verarbeitung und Veröffentlichung zur Verfügung. Das Nähere zu der Übermittlung der Daten, insbesondere zum Datenformat, zum Datennutzungsvertrag, zu den Nutzungsrechten und den Pflichten des Nutzers bei der Verwendung der Daten, bestimmt das Bundesinstitut für Arzneimittel und Medizinprodukte in Nutzungsbedingungen, die dem Datennutzungsvertrag zu Grunde gelegt werden. Mit den Nutzungsbedingungen wird eine nicht missbräuchliche, nicht wettbewerbsverzerrende und manipulationsfreie Verwendung der Daten sichergestellt. Der Dritte nach Satz 1 hat zu gewährleisten, dass die Herkunft der Daten für Versicherte, Leistungserbringer und alle anderen Nutzer der Informationen transparent bleibt. Dies gilt insbesondere, wenn eine Verwendung der Daten in Zusammenhang mit anderen Daten erfolgt. Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht eine geeignete Schnittstelle auf Basis internationaler anerkannter Standards und beantragt deren Aufnahme in das Interoperabilitätsverzeichnis nach § 385 des Fünften Buches Sozialgesetzbuch.
+auf Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur Verarbeitung und Veröffentlichung zur Verfügung. Das Nähere zu der Übermittlung der Daten, insbesondere zum Datenformat, zum Datennutzungsvertrag, zu den Nutzungsrechten und den Pflichten des Nutzers bei der Verwendung der Daten, bestimmt das Bundesinstitut für Arzneimittel und Medizinprodukte in Nutzungsbedingungen, die dem Datennutzungsvertrag zu Grunde gelegt werden. Mit den Nutzungsbedingungen wird eine nicht missbräuchliche, nicht wettbewerbsverzerrende und manipulationsfreie Verwendung der Daten sichergestellt. Der Dritte nach Satz 1 hat zu gewährleisten, dass die Herkunft der Daten für Versicherte, Leistungserbringer und alle anderen Nutzer der Informationen transparent bleibt. Dies gilt insbesondere, wenn eine Verwendung der Daten in Zusammenhang mit anderen Daten erfolgt. Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht eine geeignete Schnittstelle auf Basis internationaler anerkannter Standards und beantragt deren Aufnahme auf die Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch.
 
 (4) Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht die in dem Verzeichnis für digitale Gesundheitsanwendungen enthaltenen Angaben nach § 20 Absatz 2 und 3 auf einem Webportal in einer für Patientinnen und Patienten und Leistungserbringer intuitiv zugänglichen Struktur, Form und Darstellung.
 
@@ -502,7 +508,7 @@ Die Geschäftsstelle der Schiedsstelle wird beim Spitzenverband Bund der Kranken
 
 (2) Ist ein gekündigter Vertrag nach § 134 Absatz 1 nicht durch einen neuen Vertrag ersetzt worden, so beginnt das Schiedsverfahren mit dem auf den Ablauf der Kündigungsfrist folgenden Tag. Die Vertragspartei, die die Kündigung ausgesprochen hat, hat die Schiedsstelle schriftlich oder elektronisch unter Darstellung des Sachverhalts zu benachrichtigen.
 
-(3) Für die Festlegungen der Rahmenvereinbarung nach § 134 Absatz 4 und 5 gilt Absatz 1 entsprechend.
+(3) Für die Festlegungen der Rahmenvereinbarung nach § 134 Absatz 4 bis 7 gilt Absatz 1 entsprechend.
 
 (4) Der Vorsitzende lädt die weiteren Mitglieder der Schiedsstelle schriftlich oder elektronisch mit einer Frist von mindestens zwei Wochen ein. Der Einladung sind Sitzungsunterlagen beizufügen, die Gegenstand der Beratung sind.
 

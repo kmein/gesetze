@@ -345,7 +345,7 @@ Für die Verjährung der Ansprüche auf Künstlersozialabgabe gilt § 25 des Vie
 
 # § 34
 
-(1) Der Zuschuß des Bundes beträgt für das Kalenderjahr 20 vom Hundert der Ausgaben der Künstlersozialkasse. Überzahlungen sind mit dem Bundeszuschuß des übernächsten Jahres zu verrechnen.
+(1) Der Zuschuss des Bundes beträgt für das Kalenderjahr 20 vom Hundert der Ausgaben der Künstlersozialkasse. Überzahlungen sind mit dem Bundeszuschußss des übernächsten Jahres zu verrechnen.
 
 (2) Der Bund trägt die Verwaltungskosten der Künstlersozialkasse.
 
@@ -425,11 +425,19 @@ Auf die Rechtsbeziehungen zwischen der Künstlersozialkasse und den Versicherten
 
 # § 37a
 
-(weggefallen)
+(1) Alle Rechte und Pflichten der Unfallversicherung Bund und Bahn in Angelegenheiten der Künstlersozialversicherung, die am 31. Dezember 2024 bestehen, gehen mit Beginn des 1. Januar 2025 auf die Deutsche Rentenversicherung Knappschaft-Bahn-See über. Die §§ 42 und 44 bleiben unberührt.
+
+(2) Die Deutsche Rentenversicherung Knappschaft-Bahn-See kann im Einvernehmen mit der Unfallversicherung Bund und Bahn schon vor dem 1. Januar 2025 einzelne Aufgaben der Künstlersozialkasse übernehmen oder deren spätere Erledigung vorbereiten. Zur Übernahme der Aufgaben nach Satz 1 und zu deren Vorbereitung dürfen zwischen der Unfallversicherung Bund und Bahn und der Deutschen Rentenversicherung Knappschaft-Bahn-See die dafür erforderlichen Daten übermittelt werden. Insoweit nimmt die Deutsche Rentenversicherung Knappschaft-Bahn-See Aufgaben der Künstlersozialkasse wahr. Dadurch entstehende Verwaltungskosten sind als Verwaltungskosten der Künstlersozialkasse gemäß § 34 Absatz 2 im Haushaltsjahr ihrer Entstehung an die Deutsche Rentenversicherung Knappschaft-Bahn-See zu erstatten.
 
 # § 37b
 
-(weggefallen)
+(1) Die Beamtinnen und Beamten der Unfallversicherung Bund und Bahn, die am 31.Dezember 2024 der Künstlersozialkasse zugeordnet sind, treten mit Beginn des 1. Januar 2025 nach den §§ 134 bis 136 Absatz 1 des Bundesbeamtengesetzes in den Dienst der Deutschen Rentenversicherung Knappschaft-Bahn-See über. Für die Rechtsstellung der Versorgungsempfängerinnen und Versorgungsempfänger gilt § 137 des Bundesbeamtengesetzes.
+
+(2) Die Deutsche Rentenversicherung Knappschaft-Bahn-See tritt mit Beginn des 1. Januar 2025 in die Arbeits- und Ausbildungsverhältnisse ein, die am 31. Dezember 2024 zwischen der Unfallversicherung Bund und Bahn und den der Künstlersozialkasse zugeordneten Arbeitnehmerinnen und Arbeitnehmern sowie Auszubildenden bestehen. Bestehende Anwartschaften aus betrieblicher Altersversorgung gelten fort, auch soweit sie noch nicht unverfallbar sind. Vom Zeitpunkt des Übertritts an sind die für die Deutsche Rentenversicherung Knappschaft-Bahn-See geltenden Tarifverträge unter Wahrung des tariflichen Besitzstandes ausschließlich anzuwenden.
+
+(3) Die in einem Beschäftigungsverhältnis bei der Unfallversicherung Bund und Bahn oder einer Vorläuferorganisation dieser Einrichtung verbrachten Zeiten gelten bei der Anwendung beamtenrechtlicher und personalvertretungsrechtlicher Bestimmungen sowie tarifrechtlicher Regelungen als bei der Deutschen Rentenversicherung Knappschaft-Bahn-See verbrachte Zeiten.
+
+(4) Soweit sich durch den Übergang der Künstlersozialversicherung auf die Deutsche Rentenversicherung Knappschaft-Bahn-See eine Überschreitung der Obergrenzen für Beförderungsämter nach § 17a Absatz 1 der Bundeshaushaltsordnung ergibt, wird die Umwandlung der die Obergrenzen überschreitenden Planstellen für fünf Jahre ausgesetzt und danach auf jede dritte freiwerdende Planstelle beschränkt.
 
 # §§ 37c bis 37e – (weggefallen)
 
@@ -479,7 +487,7 @@ Die Einnahmen aus Beitragsanteilen, der Künstlersozialabgabe und dem Bundeszusc
 
 (6) Im Falle eines unvorhergesehenen und unabweisbaren Bedürfnisses, für das Ausgaben im Haushaltsplan nicht oder nicht in ausreichender Höhe veranschlagt sind, kann die Künstlersozialkasse mit Einwilligung des Bundesamtes für Soziale Sicherung, die mit Zustimmung des Bundesministeriums für Arbeit und Soziales und des Bundesministeriums der Finanzen erteilt wird, überplanmäßige und außerplanmäßige Ausgaben leisten. Bei Beitragsabführungen erforderliche überplanmäßige Ausgaben können abweichend von Satz 1 vom Geschäftsführer der Unfallversicherung Bund und Bahn bewilligt werden. Die Bewilligung ist unverzüglich von der Unfallversicherung Bund und Bahn dem Bundesamt für Soziale Sicherung anzuzeigen. Das Bundesversicherungsamt setzt das Bundesministerium für Arbeit und Soziales und das Bundesministerium der Finanzen über die Bewilligung in Kenntnis.
 
-(7) Nach Ende des Haushaltsjahres hat die Künstlersozialkasse eine Rechnung aufzustellen. Die Rechnung umfaßt auch den Bestand, die Einnahmen und Ausgaben der Liquiditätsreserve und des sonstigen Vermögens. Sie ist vom Bundesamt für Soziale Sicherung zu prüfen. Das Bundesamt für Soziale Sicherung erteilt die Entlastung.
+(7) Nach Ende des Haushaltsjahres hat die Künstlersozialkasse eine Jahresrechnung aufzustellen. Die Jahresrechnung umfaßt auch den Bestand, die Einnahmen und Ausgaben der Liquiditätsreserve und des sonstigen Vermögens. Sie ist von dem nach § 77 Absatz 1a Satz 5 des Vierten Buches Sozialgesetzbuch bestellten Prüfer zu prüfen. Das Bundesamt für Soziale Sicherung erteilt die Entlastung.
 
 # § 44
 
@@ -489,7 +497,7 @@ Die Einnahmen aus Beitragsanteilen, der Künstlersozialabgabe und dem Bundeszusc
 
 # § 45
 
-Die §§ 80, 83 bis 86 des Vierten Buches Sozialgesetzbuch gelten entsprechend.
+Die §§ 80, 81 und 82a bis 86 des Vierten Buches Sozialgesetzbuch gelten entsprechend.
 
 # § 46
 
