@@ -561,6 +561,14 @@ Grundsatz
 
 Beitragssatz, Beitragsbemessungsgrenze, Verordnungsermächtigung
 
+§ 55a
+
+Automatisiertes Übermittlungsverfahren zur Erhebung und zum Nachweis der Elterneigenschaft sowie der Anzahl der berücksichtigungsfähigen Kinder für die Beitragssatzermittlung
+
+§ 55b
+
+Meldung der Pflegekasse im Verfahren nach § 55a bei Selbstzahlern
+
 § 56
 
 Beitragsfreiheit
@@ -2983,6 +2991,44 @@ Die Richtlinien werden erst wirksam, wenn das Bundesministerium für Gesundheit 
 2. Stiefeltern, wenn das Kind zum Zeitpunkt der Eheschließung oder der Begründung der eingetragenen Lebenspartnerschaft gemäß § 1 des Lebenspartnerschaftsgesetzes mit dem Elternteil des Kindes bereits die in § 25 Abs. 2 vorgesehenen Altersgrenzen erreicht hat oder wenn das Kind vor Erreichen dieser Altersgrenzen nicht in den gemeinsamen Haushalt mit dem Mitglied aufgenommen worden ist.
 
 (5) Sind landwirtschaftliche Unternehmer, die nicht zugleich Bürgergeld beziehen, sowie mitarbeitende Familienangehörige Mitglied der landwirtschaftlichen Krankenkasse, wird der Beitrag abweichend von den Absätzen 1 bis 3 in Form eines Zuschlags auf den Krankenversicherungsbeitrag, den sie nach den Vorschriften des Zweiten Gesetzes über die Krankenversicherung der Landwirte aus dem Arbeitseinkommen aus Land- und Forstwirtschaft zu zahlen haben, erhoben. Die Höhe des Zuschlags ergibt sich aus dem Verhältnis des Beitragssatzes nach Absatz 1 Satz 1 zu dem um den durchschnittlichen Zusatzbeitragssatz erhöhten allgemeinen Beitragssatz nach § 241 des Fünften Buches. Sind die Voraussetzungen für einen Beitragszuschlag für Kinderlose nach Absatz 3 Satz 1 erfüllt und handelt es sich nicht um Mitglieder, die vor dem 1. Januar 1940 geboren wurden und nicht um Wehr- und Zivildienstleistende, erhöht sich der Zuschlag nach Satz 2 um das Verhältnis des Beitragszuschlags für Kinderlose zu dem Beitragssatz nach Absatz 1 Satz 1. Sind die Voraussetzungen für einen Abschlag nach Absatz 3 Satz 4 und 5 erfüllt und handelt es sich nicht um Wehr- und Zivildienstleistende, reduziert sich der Zuschlag nach Satz 2 um das Verhältnis des Abschlags zu dem Beitragssatz nach Absatz 1 Satz 1; § 59a Satz 2 findet keine Anwendung auf mitarbeitende Familienangehörige.
+
+# § 55a – Automatisiertes Übermittlungsverfahren zur Erhebung und zum Nachweis der Elterneigenschaft sowie der Anzahl der berücksichtigungsfähigen Kinder für die Beitragssatzermittlung
+
+(1) Die beitragsabführenden Stellen, die zur Berücksichtigung von Zu- oder Abschlägen verpflichtet sind, und die Pflegekassen rufen beim Bundeszentralamt für Steuern die für die Beitragssatzermittlung nach § 55 Absatz 3 und 3a erforderlichen Daten in einem automatisierten Verfahren ab. Der Datenabruf der beitragsabführenden Stellen und der Pflegekassen beim Bundeszentralamt für Steuern erfolgt über die zentrale Stelle nach § 81 des Einkommensteuergesetzes. Für nicht an die zentrale Stelle nach § 81 des Einkommensteuergesetzes angebundene beitragsabführende Stellen erfolgt der Datenabruf über die Datenstelle der Rentenversicherung nach § 145 Absatz 1 Satz 1 des Sechsten Buches; diese leitet die Daten über die zentrale Stelle nach § 81 des Einkommensteuergesetzes weiter.
+
+(2) Die zentrale Stelle nach § 81 des Einkommensteuergesetzes kann die bereits eingerichteten Datenübermittlungswege und die Identifikation der Kommunikationspartner, die sie bereits im Rahmen ihrer Tätigkeiten nach § 5 Absatz 1 Satz 1 Nummer 18 des Finanzverwaltungsgesetzes nutzt, auch für dieses automatisierte Übermittlungsverfahren nutzen. Das Nähere, insbesondere die Höhe der Verwaltungskostenerstattung sowie zur Ausübung der Fachaufsicht, wird durch Verwaltungsvereinbarung zwischen dem Bundesministerium für Arbeit und Soziales und der Deutschen Rentenversicherung Bund geregelt.
+
+(3) Die beitragsabführenden Stellen und die Pflegekassen erheben die zum Nachweis der Elterneigenschaft sowie die zur Ermittlung der Anzahl der berücksichtigungsfähigen Kinder des beitragspflichtigen Mitglieds erforderlichen Daten beim Bundeszentralamt für Steuern. Dazu melden sie das beitragspflichtige Mitglied zu dem Abrufverfahren beim Bundeszentralamt für Steuern an. Die Anmeldung erfolgt unter Angabe der steuerlichen Identifikationsnummer nach § 139b der Abgabenordnung und des Geburtsdatums des beitragspflichtigen Mitglieds über die zentrale Stelle nach § 81 des Einkommensteuergesetzes oder in den Fällen des Absatzes 1 Satz 3 über die Datenstelle der Rentenversicherung nach § 145 Absatz 1 Satz 1 des Sechsten Buches. Die beitragsabführenden Stellen und die Pflegekassen sind berechtigt, die für steuerliche Zwecke erhobene steuerliche Identifikationsnummer nach § 139b der Abgabenordnung sowie das Geburtsdatum des beitragspflichtigen Mitglieds für das automatisierte Übermittlungsverfahren zu nutzen. Die zentrale Stelle nach § 81 des Einkommensteuergesetzes und die Datenstelle der Rentenversicherung nach § 145 Absatz 1 Satz 1 des Sechsten Buches sind für die Identifikation der am Verfahren beteiligten Kommunikationspartner zuständig.
+
+(4) Das Bundeszentralamt für Steuern hat die zum Nachweis der Elterneigenschaft sowie die zur Ermittlung der Anzahl der berücksichtigungsfähigen Kinder erforderlichen Daten, soweit diese vom Bundeszentralamt für Steuern gemäß den §§ 39 und 39e des Einkommensteuergesetzes für die Zwecke des Lohnsteuerabzuges gespeichert werden, einschließlich des Gültigkeitszeitraumes, für den sie zu berücksichtigen sind, an die zentrale Stelle nach § 81 des Einkommensteuergesetzes zu übermitteln. Die Daten sind von der zentralen Stelle nach § 81 des Einkommensteuergesetzes an die beitragsabführende Stelle oder die Pflegekasse weiterzuleiten. In den Fällen des Absatzes 1 Satz 3 erfolgt die Weiterleitung von der zentralen Stelle nach § 81 des Einkommensteuergesetzes über die Datenstelle der Rentenversicherung nach § 145 Absatz 1 Satz 1 des Sechsten Buches.
+
+(5) Das Bundeszentralamt für Steuern speichert den Datenabruf nach Absatz 3 und die Datenübermittlung nach diesem Absatz und nach den Absätzen 4 und 6 in seiner Datenbank. Ergibt sich eine Änderung bei der Elterneigenschaft oder der Anzahl der berücksichtigungsfähigen Kinder des beitragspflichtigen Mitglieds nach § 55 Absatz 3, übermittelt das Bundeszentralamt für Steuern einen Datensatz mit den geänderten Daten einschließlich des Gültigkeitszeitraumes, für den sie zu berücksichtigen sind, an die zentrale Stelle nach § 81 des Einkommensteuergesetzes. Die Änderungsmitteilungen werden gesammelt einmal im Kalendermonat übermittelt. Die Änderungsmitteilung wird von der zentralen Stelle nach § 81 des Einkommensteuergesetzes an die beitragsabführende Stelle oder die Pflegekasse weitergeleitet. In den Fällen des Absatzes 1 Satz 3 erfolgt die Weiterleitung von der zentralen Stelle nach § 81 des Einkommensteuergesetzes über die Datenstelle der Rentenversicherung nach § 145 Absatz 1 Satz 1 des Sechsten Buches. Liegt eine Abmeldung nach Absatz 6 vor, ist eine Änderungsmitteilung nicht zu übermitteln.
+
+(6) Bei Wegfall der Notwendigkeit zum Abruf nach Absatz 1 Satz 1 meldet die beitragsabführende Stelle oder die Pflegekasse das Mitglied vom automatisierten Abrufverfahren über die zentrale Stelle nach § 81 des Einkommensteuergesetzes oder über die Datenstelle der Rentenversicherung nach § 145 Absatz 1 des Sechsten Buches innerhalb von sechs Wochen beim Bundeszentralamt für Steuern ab. Das Bundeszentralamt für Steuern hat den gespeicherten Datensatz innerhalb von 24 Monaten zu löschen.
+
+(7) § 30 der Abgabenordnung steht dem automatisierten Übermittlungsverfahren nach den Absätzen 1 bis 6 nicht entgegen. § 93c der Abgabenordnung ist für das Übermittlungsverfahren nach den Absätzen 1 bis 6 nicht anzuwenden.
+
+(8) Das Nähere zum Verfahren sowie zum Aufbau und zum Inhalt der Datensätze für die Anmeldung nach Absatz 3, den Datenabruf nach Absatz 4, die Änderungsmitteilung nach Absatz 5 und die Abmeldung nach Absatz 6 für die beitragsabführenden Stellen mit Ausnahme der Arbeitgeber regeln das Bundeszentralamt für Steuern, die Deutsche Rentenversicherung Bund und der Spitzenverband Bund der Pflegekassen in Gemeinsamen Grundsätzen, die vom Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales, dem Bundesministerium für Gesundheit und dem Bundesministerium für Ernährung und Landwirtschaft zu genehmigen sind; die Bundesorganisationen der beitragsabführenden Stellen sind vorher anzuhören.
+
+(9) Die beitragsabführenden Stellen und die Pflegekassen verarbeiten die nach den Absätzen 4 und 5 übermittelten Angaben ausschließlich für die Beitragssatzermittlung nach § 55 Absatz 3 und den Nachweis der Elterneigenschaft sowie der Anzahl der berücksichtigungsfähigen Kinder nach § 55 Absatz 3a.
+
+(10) Eine Datenübermittlung nach § 55a Absatz 1 bis 6 ist ab dem 1. April 2025 zulässig. Für Zwecke der Einführung der automatisierten Datenübermittlung bei den beteiligten Stellen ist eine frühere Datenübermittlung nach § 55a Absatz 1 bis 6 zulässig.
+
+# § 55b – Meldung der Pflegekasse im Verfahren nach § 55a bei Selbstzahlern
+
+(1) Die Pflegekasse hat ab dem 1. Juli 2025 für Selbstzahler bei Beginn einer Mitgliedschaft eine Meldung im Sinne des § 55a Absatz 3 über die zentrale Stelle nach § 81 des Einkommensteuergesetzes an das Bundeszentralamt für Steuern zu richten. Bei Ende der Mitgliedschaft hat sie eine Meldung nach § 55a Absatz 6 zu erstatten. Bei Beginn der Mitgliedschaft hat die Meldung innerhalb von sieben Tagen zu erfolgen; die Abmeldung erfolgt innerhalb von sechs Wochen nach Beendigung der Mitgliedschaft. In der Meldung sind insbesondere anzugeben:
+
+1. das Geburtsdatum des Mitglieds,
+
+2. die steuerliche Identifikationsnummer des Mitglieds nach § 139b der Abgabenordnung,
+
+3. der Tag des Beginns oder des Endes der Mitgliedschaft,
+
+4. die Kundennummer der Pflegekasse bei der zentralen Stelle nach § 81 des Einkommensteuergesetzes.
+
+Bei Meldung des Beginns der Mitgliedschaft hat das Bundeszentralamt für Steuern über die zentrale Stelle nach § 81 des Einkommensteuergesetzes der Pflegekasse unverzüglich die auf den Tag des Beginns der Mitgliedschaft bezogenen erforderlichen Daten zum Nachweis der Elterneigenschaft sowie zur Ermittlung der Anzahl der berücksichtigungsfähigen Kinder nach Maßgabe des § 55a Absatz 4 Satz 1 und 2 zu übermitteln. Änderungen bei der Elterneigenschaft oder der Anzahl der berücksichtigungsfähigen Kinder während einer laufenden Mitgliedschaft werden der Pflegekasse nach Maßgabe des § 55a Absatz 5 mitgeteilt.
+
+(2) Die Pflegekassen müssen ab dem 1. Juli 2025 für Selbstzahler, die bereits vor diesem Zeitpunkt in diesem Status Mitglied der sozialen Pflegeversicherung waren, eine Meldung entsprechend Absatz 1 erstatten. Die Meldung hat spätestens bis zum 31. Dezember 2025 zu erfolgen. Bei Pflegekassen, die im Zeitraum vom 1. Juli 2023 bis zum 30. Juni 2025 sich weder die Elterneigenschaft sowie die Anzahl der Kinder nach § 55 Absatz 3a Satz 1 haben nachweisen lassen noch an dem Nachweisverfahren nach § 55 Absatz 3d Satz 2 teilgenommen haben, erstreckt sich die Meldung auf den gesamten genannten Zeitraum."
 
 # § 56 – Beitragsfreiheit
 
