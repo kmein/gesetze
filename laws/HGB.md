@@ -1659,7 +1659,7 @@ Auf das Informationsrecht des stillen Gesellschafters ist § 166 entsprechend an
 
 # § 241a – Befreiung von der Pflicht zur Buchführung und Erstellung eines Inventars
 
-Einzelkaufleute, die an den Abschlussstichtagen von zwei aufeinander folgenden Geschäftsjahren nicht mehr als jeweils 600 000 Euro Umsatzerlöse und jeweils 60 000 Euro Jahresüberschuss aufweisen, brauchen die §§ 238 bis 241 nicht anzuwenden. Im Fall der Neugründung treten die Rechtsfolgen schon ein, wenn die Werte des Satzes 1 am ersten Abschlussstichtag nach der Neugründung nicht überschritten werden.
+Einzelkaufleute, die an den Abschlussstichtagen von zwei aufeinander folgenden Geschäftsjahren nicht mehr als jeweils 800 000 Euro Umsatzerlöse und jeweils 80 000 Euro Jahresüberschuss aufweisen, brauchen die §§ 238 bis 241 nicht anzuwenden. Im Fall der Neugründung treten die Rechtsfolgen schon ein, wenn die Werte des Satzes 1 am ersten Abschlussstichtag nach der Neugründung nicht überschritten werden.
 
 (+++ § 241a Satz 1: Zur Anwendung vgl. Art. 76 HGBEG +++)
 

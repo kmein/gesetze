@@ -2239,7 +2239,7 @@
 - [FrBordÜbk](laws/FrBordÜbk.md) Internationales Freibord-Übereinkommen
 - [FrBordÜbkG](laws/FrBordÜbkG.md) Gesetz zu dem Internationalen Freibord-Übereinkommen von 1966 vom 5. April 1966
 - [FreizügG/EU](laws/FreizügG_EU.md) Gesetz über die allgemeine Freizügigkeit von Unionsbürgern
-- [FremdSprPrV](laws/FremdSprPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fremdsprachenkorrespondent/Geprüfte Fremdsprachenkorrespondentin
+- [FremdSprKFPrV](laws/FremdSprKFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für fremdsprachige Kommunikation oder Geprüfte Berufsspezialistin für fremdsprachige Kommunikation
 - [FreqV](laws/FreqV.md) Frequenzverordnung*
 - [FRG](laws/FRG.md) Fremdrentengesetz
 - [FRG§15V](laws/FRG§15V.md) Verordnung über die Anerkennung von Systemen und Einrichtungen der sozialen Sicherheit als gesetzliche Rentenversicherungen

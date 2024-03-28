@@ -312,6 +312,8 @@ Es ist nicht erforderlich, dass die an weiteren Orten angebotenen Leistungen in 
 
 (7) Der Zulassungsausschuss darf den Antrag eines Vertragsarztes auf Verlegung seines Vertragsarztsitzes nur genehmigen, wenn Gründe der vertragsärztlichen Versorgung dem nicht entgegenstehen. Entsprechendes gilt für die Verlegung einer genehmigten Anstellung.
 
+(8) Die vertragsärztliche Tätigkeit darf in Form von Videosprechstunden außerhalb des Vertragsarztsitzes erbracht werden, sofern der Vertragsarzt seiner Verpflichtung nach § 19a Absatz 1 Satz 2 und 3 am Ort des Vertragsarztsitzes nachkommt.
+
 # § 25
 
 (weggefallen)

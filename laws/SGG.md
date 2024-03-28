@@ -437,7 +437,9 @@ Der Vorsitzende kann gegen einen ehrenamtlichen Richter, der sich der Erfüllung
 
 3. Streitigkeiten betreffend den Ausgleich unter den gewerblichen Berufsgenossenschaften nach dem Siebten Buch Sozialgesetzbuch,
 
-4. Streitigkeiten über Entscheidungen des Bundeskartellamts, die die freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften Buches Sozialgesetzbuch betreffen.
+4. Streitigkeiten über Entscheidungen des Bundeskartellamts, die die freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften Buches Sozialgesetzbuch betreffen,
+
+5. Streitigkeiten betreffend die Veröffentlichung des Transparenzverzeichnisses nach § 135d des Fünften Buches Sozialgesetzbuch.
 
 (4) Das Landessozialgericht Berlin-Brandenburg entscheidet im ersten Rechtszug über
 
