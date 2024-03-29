@@ -3605,21 +3605,21 @@ Der nach Satz 1 und 2 zu führende buchmäßige Nachweis ist entsprechend dem je
 
 (1) Der Antrag nach § 57 des Gesetzes ist bei dem für den Betrieb des Antragstellers zuständigen Hauptzollamt zu stellen. Hat der Inhaber eines Betriebs nach § 57 Abs. 2 des Gesetzes seinen Wohnsitz nicht im Steuergebiet und führt er im Steuergebiet Arbeiten im Sinne des § 57 Abs. 1 des Gesetzes aus, so ist der Antrag bei dem Hauptzollamt zu stellen, das für die Steuerentlastung nach § 57 des Gesetzes in der Gemeinde, in der die Arbeiten überwiegend ausgeführt werden, zuständig ist.
 
-(2) Die Steuerentlastung ist mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für die innerhalb eines Kalenderjahrs (Entlastungsabschnitt) zu begünstigten Zwecken nach § 57 Abs. 1 des Gesetzes verwendeten Energieerzeugnisse (begünstigter Verbrauch) zu beantragen. Die elektronische Übermittlung der Antragsdaten ist zugelassen, soweit für die Datenübermittlung und den Ausdruck des Entlastungsantrags (komprimierter Vordruck) die von der Finanzverwaltung hierfür zur Verfügung gestellten elektronischen Komponenten genutzt werden. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag bis zum 30. September des Jahres, das dem Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, beim zuständigen Hauptzollamt gestellt wird. Bei einer elektronischen Übermittlung der Antragsdaten gilt der Antrag erst als gestellt, wenn dem zuständigen Hauptzollamt zusätzlich zu den elektronisch übermittelten Daten der unterschriebene komprimierte Vordruck zugeht. Für die Fristwahrung ist allein der Eingang des unterschriebenen komprimierten Vordrucks maßgeblich. Bei erstmaliger Antragstellung sind dem Antrag beizufügen:
+(2) Die Steuerentlastung ist mit einer Anmeldung nach amtlich vorgeschriebenem Datensatz für die innerhalb eines Kalenderjahres (Entlastungsabschnitt) zu begünstigten Zwecken nach § 57 Absatz 1 des Gesetzes verwendeten Gasöle (begünstigter Verbrauch) zu beantragen. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag bis zum 31. Dezember des Jahres, das dem Kalenderjahr folgt, in dem die Gasöle verwendet worden sind, beim zuständigen Hauptzollamt gestellt wird. Bei erstmaliger Antragstellung sind dem Antrag beizufügen:
 
-1. Quittungen oder Lieferbescheinigungen nach Absatz 4 über im Entlastungsabschnitt insgesamt bezogene Gasöle und Biokraftstoffe,
+1. Quittungen oder Lieferbescheinigungen nach Absatz 4 über im Entlastungsabschnitt insgesamt bezogenen Gasöle,
 
 2. die Aufzeichnungen nach Absatz 5, soweit der Antragsteller zu deren Führung verpflichtet ist,
 
 3. von Betrieben der Imkerei ein Nachweis über die Anzahl der Bienenvölker (Völkermeldung) und
 
-4. Bescheinigungen nach Absatz 6 über das im Entlastungsabschnitt von Betrieben im Sinne des § 57 Abs. 2 Nr. 5 des Gesetzes verbrauchte Gasöl.
+4. Bescheinigungen nach Absatz 6 über die im Entlastungsabschnitt von Betrieben im Sinne des § 57 Absatz 2 Nummer 5 des Gesetzes verbrauchten Gasöle.
 
-Bei Folgeanträgen hat der Antragsteller die in Satz 7 genannten Unterlagen lediglich auf Verlangen des Hauptzollamts vorzulegen.
+Bei Folgeanträgen hat der Antragsteller die in Satz 4 genannten Unterlagen lediglich auf Verlangen des Hauptzollamts vorzulegen.
 
-(3) Antragsberechtigt ist der Inhaber eines Betriebs im Sinne des § 57 Abs. 2 des Gesetzes (Begünstigter). Wechselt innerhalb eines Entlastungsabschnitts der Inhaber eines Betriebs, so bleibt der bisherige Inhaber für die Zeit bis zum Inhaberwechsel Begünstigter.
+(3) Antragsberechtigt ist der Inhaber eines Betriebs im Sinne des § 57 Absatz 2 Nummer 1 bis 4 des Gesetzes (Begünstigter). Wechselt innerhalb eines Entlastungsabschnitts der Inhaber eines Betriebs, so bleibt der bisherige Inhaber für die Zeit bis zum Inhaberwechsel Begünstigter.
 
-(4) Der Begünstigte hat sich Quittungen oder Lieferbescheinigungen über die im Entlastungsabschnitt insgesamt für begünstigte und nicht begünstigte Zwecke bezogene Gasöle und Biokraftstoffe ausstellen zu lassen, welche die Anschriften des Empfängers und des Lieferers, das Datum der Lieferung, die gelieferte Menge und den zu zahlenden Betrag enthalten. Tankbelege gelten auch ohne die Anschrift des Empfängers als Lieferbescheinigung, wenn sie die übrigen Angaben nach Satz 1 enthalten. Der Antragsteller hat die Belege nach § 147 Abs. 1 und 3 der Abgabenordnung aufzubewahren.
+(4) Der Begünstigte hat sich Quittungen oder Lieferbescheinigungen über die im Entlastungsabschnitt insgesamt für begünstigte und nicht begünstigte Zwecke bezogene Gasöle ausstellen zu lassen, welche die Anschriften des Empfängers und des Lieferers, das Datum der Lieferung, die gelieferte Menge und den zu zahlenden Betrag enthalten. Tankbelege gelten auch ohne die Anschrift des Empfängers als Lieferbescheinigung, wenn sie die übrigen Angaben nach Satz 1 enthalten. Der Antragsteller hat die Belege nach § 147 Abs. 1 und 3 der Abgabenordnung aufzubewahren.
 
 (5) Inhaber von Betrieben im Sinne des § 57 Abs. 2 Nr. 5 des Gesetzes haben für jedes oder jede der in § 57 Abs. 1 des Gesetzes genannten Fahrzeuge, Geräte und Maschinen geeignete Aufzeichnungen zu führen, aus denen das Datum und der Umfang der ausgeführten Arbeiten sowie die Raummenge der beim Betrieb verbrauchten Energieerzeugnisse ersichtlich sein müssen. Die Aufzeichnungen sind am Schluss des Kalenderjahrs abzuschließen.
 
@@ -3627,7 +3627,7 @@ Bei Folgeanträgen hat der Antragsteller die in Satz 7 genannten Unterlagen ledi
 
 (7) Der Steuerentlastungsanspruch nach § 57 des Gesetzes entsteht mit Ablauf des Entlastungsabschnitts (Absatz 2 Satz 1).
 
-(8) Absatz 2 Satz 2, 5 und 6 ist ab dem Zeitpunkt des Beginns der elektronischen Datenübermittlung nach § 3 Absatz 1 in Verbindung mit Absatz 2 der Verbrauch-und-Luftverkehrsteuerdaten-Übermittlungs-Verordnung für diese Steuerentlastung nicht mehr anwendbar.
+(8) (weggefallen)
 
 # § 103a – Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
 

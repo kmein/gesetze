@@ -8837,7 +8837,7 @@ Die Abrechnung und die Verteilung nach § 227 Absatz 1 und 1a erfolgen für Zahl
 
 # § 287g – Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027
 
-Der Erhöhungsbetrag nach § 213 Absatz 4 wird in den Jahren 2024 bis 2027 jeweils um 600 Millionen Euro gemindert. Bei der Feststellung der Veränderung der Erhöhungsbeträge nach § 213 Absatz 4 Satz 3 ist der Abzugsbetrag nach Satz 1 nicht zu berücksichtigen.
+Der Erhöhungsbetrag nach § 213 Absatz 4 wird in den Jahren 2024 bis 2027 jeweils um 1,2 Milliarden Euro gemindert. Bei der Feststellung der Veränderung der Erhöhungsbeträge nach § 213 Absatz 4 Satz 3 ist der Abzugsbetrag nach Satz 1 nicht zu berücksichtigen.
 
 # § 288
 

@@ -493,6 +493,18 @@ Die Bundesnetzagentur macht die Ausschreibungen spätestens vier Kalendermonate 
 
 Die Zweckbindung der Zahlungen nach § 57 gilt entsprechend.
 
+(1a) Der bezuschlagte Bieter, der im dynamischen Gebotsverfahren nach § 21 den Zuschlag erhalten hat, leistet die zweite Gebotskomponente für Ausschreibungen im Jahr 2023 nach Maßgabe der folgenden Ziffern:
+
+1. eine Zahlung in Höhe von 90 Prozent des Gesamtbetrags der zweiten Gebotskomponente als Stromkostensenkungskomponente an den anbindungsverpflichteten Übertragungsnetzbetreiber; für Mittelverwendung und Zahlungsweise gelten die Vorgaben des § 59 entsprechend,
+
+2. eine Zahlung in Höhe von 3,125 Prozent des Gesamtbetrags der zweiten Gebotskomponente als Meeresnaturschutzkomponente an den Bundeshaushalt; für Mittelverwendung und Zahlungsweise gelten die Vorgaben des § 58 Absatz 1 entsprechend,
+
+3. eine Zahlung in Höhe von 1 Prozent des Gesamtbetrags der zweiten Gebotskomponente als Fischereikomponente an den Bundeshaushalt; für Mittelverwendung und Zahlungsweise gelten die Vorgaben des § 58 Absatz 2 entsprechend und
+
+4. eine Zahlung in Höhe von 5,875 Prozent des Gesamtbetrags der zweiten Gebotskomponente als Transformationskomponente an den Bundeshaushalt; für Mittelverwendung und Zahlungsweise gelten die Vorgaben des § 58 Absatz 3 entsprechend.
+
+Die Zweckbindung der Zahlungen nach § 57 gilt entsprechend.
+
 (2) Der vom bezuschlagten Bieter zu zahlende Gesamtbetrag ergibt sich, indem die zweite Gebotskomponente des bezuschlagten Gebots mit dem Ausschreibungsvolumen der ausgeschriebenen Fläche nach § 16 Satz 2 Nummer 2 multipliziert wird.
 
 # § 24 – Rechtsfolgen des Zuschlags
@@ -856,22 +868,24 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 
 # § 57 – Zweckbindung der Zahlungen
 
-Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 werden anteilig für Maßnahmen des Meeresnaturschutzes sowie zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen sowie zur Senkung der Offshore-Netzumlage gemäß § 17f des Energiewirtschaftsgesetzes verwendet.
+Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 werden anteilig für Maßnahmen des Meeresnaturschutzes sowie zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen sowie zur Senkung der Offshore-Netzumlage gemäß § 17f des Energiewirtschaftsgesetzes verwendet. Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 werden abweichend von Satz 1 für Ausschreibungen im Jahr 2023 anteilig für Maßnahmen des Meeresnaturschutzes, zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen, als Einnahmen des Bundeshaushalts sowie zur Senkung der Offshore-Netzumlage gemäß § 2 Nummer 11 des Energiefinanzierungsgesetzes verwendet.
 
 (+++ § 57: Zur Geltung vgl. § 23 Abs. 1 Satz 2 +++)
 
-# § 58 – Meeresnaturschutz- und Fischereikomponente
+# § 58 – Meeresnaturschutz-, Fischerei- und Transformationskomponente
 
 (1) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach Erteilung des Zuschlags eine Zahlung in Höhe von 5 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Meeresnaturschutzkomponente an den Bundeshaushalt. Die Mittel aus der Zahlung sind zweckgebunden für Maßnahmen des Meeresnaturschutzes möglichst in dem betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz bewirtschaftet. Die Verpflichtungen nach § 15 des Bundesnaturschutzgesetzes bleiben unberührt.
 
 (2) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach Erteilung des Zuschlags eine Zahlung in Höhe von 5 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Fischereikomponente an den Bundeshaushalt. Die Mittel aus der Zahlung sind zweckgebunden für Maßnahmen zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen möglichst in dem betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden vom Bundesministerium für Ernährung und Landwirtschaft bewirtschaftet.
+
+(3) Für Ausschreibungen im Jahr 2023 leistet der bezuschlagte Bieter innerhalb von zwölf Monaten nach Erteilung des Zuschlags abweichend von Absatz 1 Satz 1 und Absatz 2 Satz 1 eine Zahlung von 3,125 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Meeresnaturschutzkomponente, eine Zahlung von 1 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Fischereikomponente und eine Zahlung in Höhe von 5,875 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Transformationskomponente an den Bundeshaushalt.
 
 (+++ § 58 Abs. 1: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 2 +++)  
 (+++ § 58 Abs. 2: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 3 +++)
 
 # § 59 – Stromkostensenkungskomponente
 
-(1) Der bezuschlagte Bieter leistet an den anbindungsverpflichteten Übertragungsnetzbetreiber eine Zahlung in Höhe von 90 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1, die der Übertragungsnetzbetreiber zur Senkung der Kosten verwendet, die in den Ausgleich nach § 17f Absatz 1 Satz 2 des Energiewirtschaftsgesetzes und den Aufschlag nach § 17f Absatz 5 Satz 1 des Energiewirtschaftsgesetzes einfließen.
+(1) Der bezuschlagte Bieter leistet an den anbindungsverpflichteten Übertragungsnetzbetreiber eine Zahlung in Höhe von 90 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1, die der Übertragungsnetzbetreiber zur Senkung der Kosten verwendet, die in den Ausgleich nach § 15 des Energiefinanzierungsgesetzes und den Aufschlag nach § 12 Absatz 1 des Energiefinanzierungsgesetzes, jeweils bezogen auf die Offshore-Netzumlage nach § 2 Nummer 11 des Energiefinanzierungsgesetzes, einfließen.
 
 (2) Die Stromkostensenkungskomponente nach Absatz 1 ist über einen Zeitraum von 20 Jahren in gleichbleibenden jährlichen Raten zu zahlen, beginnend mit der Erbringung des Nachweises nach § 81 Absatz 2 Nummer 4.
 

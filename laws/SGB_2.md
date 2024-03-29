@@ -46,7 +46,7 @@
 | § 16g | Förderung bei Wegfall der Hilfebedürftigkeit                        |
 | § 16h | Förderung schwer zu erreichender junger Menschen                    |
 | § 16i | Teilhabe am Arbeitsmarkt                                            |
-| § 16j | Bürgergeldbonus                                                     |
+| § 16j | (weggefallen)                                                       |
 | § 16k | Ganzheitliche Betreuung                                             |
 | § 17  | Einrichtungen und Dienste für Leistungen zur Eingliederung          |
 | § 18  | Örtliche Zusammenarbeit                                             |
@@ -213,6 +213,7 @@
 | § 83  | Übergangsregelung aus Anlass des Gesetzes zur Ermittlung der Regelbedarfe und zur Änderung des Zwölften Buches Sozialgesetzbuch sowie weiterer Gesetze    |
 | § 84  | (weggefallen)                                                                                                                                             |
 | § 85  | Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes                                                                                                   |
+| § 86  | Zweites Haushaltsfinanzierungsgesetz 2024                                                                                                                 |
 
 # § 1 – Aufgabe und Ziel der Grundsicherung für Arbeitsuchende
 
@@ -294,7 +295,7 @@ Absatz 1 Satz 3 gilt entsprechend. In den Fällen des Satzes 1 ist die Teilnahme
 
 (4) Leistungen zur Eingliederung in Arbeit nach dem Ersten Abschnitt des Dritten Kapitels werden nicht an oder für erwerbsfähige Leistungsberechtigte erbracht, die einen Anspruch auf Arbeitslosengeld oder Teilarbeitslosengeld haben.
 
-(5) Leistungen nach den §§ 16a, 16b, 16d sowie 16f bis 16k können auch an erwerbsfähige Leistungsberechtigte erbracht werden, sofern ein Rehabilitationsträger im Sinne des Neunten Buches zuständig ist; § 22 Absatz 2 Satz 1 und 2 des Dritten Buches ist entsprechend anzuwenden.
+(5) Leistungen nach den §§ 16a, 16b, 16d sowie 16f bis 16i und 16k können auch an erwerbsfähige Leistungsberechtigte erbracht werden, sofern ein Rehabilitationsträger im Sinne des Neunten Buches zuständig ist; § 22 Absatz 2 Satz 1 und 2 des Dritten Buches ist entsprechend anzuwenden.
 
 # § 6 – Träger der Grundsicherung für Arbeitsuchende
 
@@ -924,15 +925,7 @@ In der Regel soll die erwerbsfähige leistungsberechtigte Person bereits für ei
 
 (10) Abweichend von Absatz 3 Nummer 2 und 3 kann eine erwerbsfähige leistungsberechtigte Person auch dann einem Arbeitgeber zugewiesen werden, wenn sie seit dem 1. Januar 2015 für mehr als sechs Monate in einem Arbeitsverhältnis beschäftigt war, das durch einen Zuschuss nach § 16e in der bis zum 31. Dezember 2018 geltenden Fassung oder im Rahmen des Bundesprogramms „Soziale Teilhabe am Arbeitsmarkt“ gefördert wurde, und sie dieses Arbeitsverhältnis nicht selbst gekündigt hat. Zeiten eines nach § 16e in der bis zum 31. Dezember 2018 geltenden Fassung oder nach dem Bundesprogramm „Soziale Teilhabe am Arbeitsmarkt“ geförderten Arbeitsverhältnisses werden bei der Ermittlung der Förderdauer und Förderhöhe nach Absatz 2 Satz 1 berücksichtigt und auf die Förderdauer nach Absatz 3 Nummer 4 angerechnet.
 
-# § 16j – Bürgergeldbonus
-
-Erwerbsfähige Leistungsberechtigte erhalten einen Bonus in Höhe von 75 Euro für jeden Monat der Teilnahme an einer der folgenden Maßnahmen:
-
-1. Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82 des Dritten Buches sowie nach § 49 Absatz 3 Nummer 4 des Neunten Buches mit einer Mindestdauer von acht Wochen, für die kein Weiterbildungsgeld nach § 87a Absatz 2 des Dritten Buches gezahlt wird,
-
-2. berufsvorbereitende Bildungsmaßnahmen nach § 51 des Dritten Buches sowie nach § 49 Absatz 3 Nummer 2 des Neunten Buches, Maßnahmen in der Vorphase der Assistierten Ausbildung nach § 75a des Dritten Buches in Verbindung mit § 16 Absatz 1 Satz 2 Nummer 3,
-
-3. Maßnahmen zur Förderung schwer zu erreichender junger Menschen nach § 16h Absatz 1.
+# § 16j – (weggefallen)
 
 # § 16k – Ganzheitliche Betreuung
 
@@ -1392,6 +1385,8 @@ Dies gilt nicht, wenn erwerbsfähige Leistungsberechtigte einen wichtigen Grund 
 
 (6) Erwerbsfähige Leistungsberechtigte, die das 25. Lebensjahr noch nicht vollendet haben, sollen innerhalb von vier Wochen nach Feststellung einer Leistungsminderung ein Beratungsangebot erhalten, in dem die Inhalte des Kooperationsplans überprüft und bei Bedarf fortgeschrieben werden.
 
+(7) Abweichend von Absatz 4 Satz 1 entfällt der Leistungsanspruch in Höhe des Regelbedarfes, wenn erwerbsfähige Leistungsberechtigte, deren Bürgergeld wegen einer Pflichtverletzung nach § 31 Absatz 1 Satz 1 Nummer 2, Absatz 2 Nummer 3 oder Absatz 2 Nummer 4 innerhalb des letzten Jahres gemindert war, eine zumutbare Arbeit nicht aufnehmen. Die Möglichkeit der Arbeitsaufnahme muss tatsächlich und unmittelbar bestehen und willentlich verweigert werden. Absatz 1 Satz 6, die Absätze 2 und 3 sowie § 31 Absatz 1 Satz 2 finden Anwendung.
+
 # § 31b – Beginn und Dauer der Minderung
 
 (1) Der Auszahlungsanspruch mindert sich mit Beginn des Kalendermonats, der auf das Wirksamwerden des Verwaltungsaktes folgt, der die Pflichtverletzung und den Umfang der Minderung der Leistung feststellt. In den Fällen des § 31 Absatz 2 Nummer 3 tritt die Minderung mit Beginn der Sperrzeit oder mit dem Erlöschen des Anspruchs nach dem Dritten Buch ein. Die Feststellung der Minderung ist nur innerhalb von sechs Monaten ab dem Zeitpunkt der Pflichtverletzung zulässig.
@@ -1406,13 +1401,15 @@ Dies gilt nicht, wenn erwerbsfähige Leistungsberechtigte einen wichtigen Grund 
 
 In den Fällen des § 31a Absatz 1 Satz 6 ist die Minderung ab dem Zeitpunkt der Pflichterfüllung oder der Erklärung der Bereitschaft zur Pflichterfüllung aufzuheben, soweit der Minderungszeitraum mindestens einen Monat betragen hat, andernfalls nach Ablauf dieses Monats.
 
-(3) Während der Minderung des Auszahlungsanspruchs besteht kein Anspruch auf ergänzende Hilfe zum Lebensunterhalt nach den Vorschriften des Zwölften Buches.
+(3) In den Fällen des § 31a Absatz 7 wird die Minderung aufgehoben, wenn die Möglichkeit der Arbeitsaufnahme nicht mehr besteht, spätestens aber mit dem Ablauf eines Zeitraums von zwei Monaten. Absatz 1 Satz 1 und 3 sowie Absatz 2 Satz 2 sind entsprechend anzuwenden.
+
+(4) Während der Minderung des Auszahlungsanspruchs besteht kein Anspruch auf ergänzende Hilfe zum Lebensunterhalt nach den Vorschriften des Zwölften Buches.
 
 # § 32 – Meldeversäumnisse
 
 (1) Kommen Leistungsberechtigte trotz schriftlicher Belehrung über die Rechtsfolgen oder deren Kenntnis einer Aufforderung des zuständigen Trägers, sich bei ihm zu melden oder bei einem ärztlichen oder psychologischen Untersuchungstermin zu erscheinen, nicht nach, mindert sich das Bürgergeld jeweils um 10 Prozent des für sie nach § 20 maßgebenden Regelbedarfs. Dies gilt nicht, wenn Leistungsberechtigte einen wichtigen Grund für ihr Verhalten darlegen und nachweisen.
 
-(2) § 31a Absatz 2 bis 5 und § 31b Absatz 1 und 3 gelten entsprechend. Der Minderungszeitraum beträgt einen Monat.
+(2) § 31a Absatz 2 bis 5 und § 31b Absatz 1 und 4 gelten entsprechend. Der Minderungszeitraum beträgt einen Monat.
 
 # § 33 – Übergang von Ansprüchen
 
@@ -2359,3 +2356,7 @@ Für Maßnahmen der ausbildungsbegleitenden Hilfen, die bis zum 28. Februar 2021
 # § 85 – Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes
 
 Abweichend von § 12a Satz 1 sind Leistungsberechtigte für am 31. Dezember 2022 laufende Bewilligungszeiträume oder Bewilligungszeiträume, die in der Zeit vom 1. Januar 2023 bis 30. Juni 2023 beginnen, nicht verpflichtet, Wohngeld nach dem Wohngeldgesetz in Anspruch zu nehmen.
+
+# § 86 – Zweites Haushaltsfinanzierungsgesetz 2024
+
+§ 31a Absatz 7 und § 31b Absatz 3 werden mit Ablauf des 27. März 2026 aufgehoben.
