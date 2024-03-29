@@ -2115,6 +2115,7 @@
 - [FinAusglG2021DV 1](laws/FinAusglG2021DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2021
 - [FinAusglG2022DV 1](laws/FinAusglG2022DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2022
 - [FinAusglG2023DV 1](laws/FinAusglG2023DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2023
+- [FinAusglG2024DV 1](laws/FinAusglG2024DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2024
 - [FinAusglVtr AUT](laws/FinAusglVtr_AUT.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Regelung von Schäden der Vertriebenen, Umsiedler und Verfolgten, über weitere finanzielle Fragen und Fragen aus dem sozialen Bereich
 - [FinBerG DDR](laws/FinBerG_DDR.md) Gesetz zur Bereinigung von in der ehemaligen Deutschen Demokratischen Republik zwischen den öffentlichen Haushalten und volkseigenen Unternehmen, Genossenschaften sowie Gewerbetreibenden begründeten Finanzbeziehungen
 - [FinDAG](laws/FinDAG.md) Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht
@@ -3653,6 +3654,7 @@
 - [MeAnlG](laws/MeAnlG.md) Gesetz zur Regelung der Rechtsverhältnisse an Meliorationsanlagen
 - [MechatronikerAusbV](laws/MechatronikerAusbV.md) Verordnung über die Berufsausbildung zum Mechatroniker und zur Mechatronikerin*)
 - [MedaillenV](laws/MedaillenV.md) Verordnung über die Herstellung und den Vertrieb von Medaillen und Münzstücken zum Schutz deutscher Euro-Gedenkmünzen
+- [MedCanG](laws/MedCanG.md) Gesetz zur Versorgung mit Cannabis zu medizinischen und medizinisch-wissenschaftlichen Zwecken
 - [MedFAngAusbV](laws/MedFAngAusbV.md) Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten
 - [MediationsG](laws/MediationsG.md) Mediationsgesetz
 - [MedienKfmAusbV](laws/MedienKfmAusbV.md) Verordnung über die Berufsausbildung zum Medienkaufmann Digital und Print/zur Medienkauffrau Digital und Print

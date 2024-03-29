@@ -251,7 +251,11 @@ Heilbehandlung
 
 § 27
 
-Umfang der Heilbehandlung
+Umfang der Heilbehandlung, Anschluss an die Telematikinfrastruktur
+
+§ 27a
+
+Nutzung der Telematikinfrastruktur
 
 § 28
 
@@ -2871,7 +2875,7 @@ Die Verwaltungsvorschriften nach Satz 1 Nr. 1 werden vom Bundesministerium für 
 
 (5) Die Unfallversicherungsträger bestimmen im Einzelfall Art, Umfang und Durchführung der Heilbehandlung und der Leistungen zur Teilhabe sowie die Einrichtungen, die diese Leistungen erbringen, nach pflichtgemäßem Ermessen. Dabei prüfen sie auch, welche Leistungen geeignet und zumutbar sind, Pflegebedürftigkeit zu vermeiden, zu überwinden, zu mindern oder ihre Verschlimmerung zu verhüten.
 
-# § 27 – Umfang der Heilbehandlung
+# § 27 – Umfang der Heilbehandlung, Anschluss an die Telematikinfrastruktur
 
 (1) Die Heilbehandlung umfaßt insbesondere
 
@@ -2889,9 +2893,19 @@ Die Verwaltungsvorschriften nach Satz 1 Nr. 1 werden vom Bundesministerium für 
 
 7. Leistungen zur medizinischen Rehabilitation nach § 42 Abs. 2 Nr 1 und 3 bis 7 und Abs. 3 des Neunten Buches.
 
+Für die an der Heilbehandlung nach Satz 1 beteiligten Ärzte, Zahnärzte, Einrichtungen und sonstigen Leistungserbringer, die Leistungen für die gesetzliche Unfallversicherung erbringen und für die aufgrund der Regelungen des Fünften Buches noch keine Möglichkeit zur Anbindung an die Telematikinfrastruktur besteht, gilt eine Pflicht zur Anbindung ab dem 1. Januar 2027. Satz 2 gilt ebenso für die Verpflichtung zur Empfangsbereitschaft elektronischer Briefe nach § 295 Absatz 1c des Fünften Buches. Zum Ausgleich der in § 376 des Fünften Buches genannten Ausstattungs- und Betriebskosten erhalten die in Satz 2 genannten Leistungserbringer die in der jeweils geltenden Fassung der Vereinbarung nach § 378 Absatz 2 des Fünften Buches für die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer vereinbarten Erstattungen von der gesetzlichen Unfallversicherung.
+
+(1a) Sofern bei der Erbringung von Leistungen nach Absatz 1 telemedizinische Verfahren angewandt werden, sollen diese die nach den §§ 364 bis 368 des Fünften Buches festgelegten Anforderungen erfüllen.
+
 (2) In den Fällen des § 8 Abs. 3 wird ein beschädigtes oder verlorengegangenes Hilfsmittel wiederhergestellt oder erneuert.
 
 (3) Während einer aufgrund eines Gesetzes angeordneten Freiheitsentziehung wird Heilbehandlung erbracht, soweit Belange des Vollzugs nicht entgegenstehen.
+
+# § 27a – Nutzung der Telematikinfrastruktur
+
+(1) Bei der Erbringung von Leistungen nach § 27 Absatz 1 gelten die §§ 31a, 347, 348 und 374a des Fünften Buches entsprechend, sofern der Leistungserbringer an die Telematikinfrastruktur angebunden ist.
+
+(2) § 360 des Fünften Buches gilt entsprechend für die Leistungserbinger nach § 27 Absatz 1 sowie die Unfallversicherungsträger, sobald die Verordnung von Leistungen nach § 27 Absatz 1 Nummer 4 elektronisch erfolgt und der Leistungserbringer an die Telematikinfrastruktur angebunden ist.
 
 # § 28 – Ärztliche und zahnärztliche Behandlung
 

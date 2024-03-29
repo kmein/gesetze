@@ -226,7 +226,7 @@ Abluftbehandlungsanlagen im Sinn des Satzes 2 Nummer 3 sind insbesondere Rauchga
 
 Im Falle einer Steuerbefreiung oder Inanspruchnahme einer Steuerermäßigung hat das betreffende Unternehmen dem zuständigen Hauptzollamt unverzüglich mitzuteilen, wenn es sich im Sinn des Satzes 1 in wirtschaftlichen Schwierigkeiten befindet. Im Falle eines Antrages auf Steuerentlastung ist bei Antragstellung zu versichern, dass kein Fall von Satz 1 vorliegt.
 
-(3) Staatliche Beihilfen im Sinn des Artikels 107 des Vertrags über die Arbeitsweise der Europäischen Union, die der Kommission anzuzeigen oder von ihr zu genehmigen sind, sind in diesem Gesetz die §§ 3, 3a, 28 Absatz 1 Satz 1 Nummer 1 und 2 sowie die §§ 47a, 53a, 54, 55, 56 und 57.
+(3) Staatliche Beihilfen im Sinn des Artikels 107 des Vertrags über die Arbeitsweise der Europäischen Union, die der Kommission anzuzeigen oder von ihr zu genehmigen sind, sind in diesem Gesetz die Begünstigungen nach den §§ 3, 3a sowie nach den §§ 47a, 53a, 54, 56 und 57.
 
 # § 4 – Anwendungsbereich
 
@@ -1637,11 +1637,11 @@ bei der Ausführung von Arbeiten zur Gewinnung pflanzlicher oder tierischer Erze
 
 a) aus denen natürliche Personen Einkünfte nach § 13 Abs. 1 Nr. 1 des Einkommensteuergesetzes erzielen oder
 
-b) deren Inhaber eine nichtrechtsfähige Personenvereinigung, eine juristische Person des privaten Rechts oder eine Hauberg-, Wald-, Forst- oder Laubgenossenschaft oder eine ähnliche Realgemeinde im Sinne des § 13 Abs. 1 Nr. 4 des Einkommensteuergesetzes ist und bei denen im Falle der Gewinnung tierischer Erzeugnisse die mit der Bodenbewirtschaftung verbundene Tierhaltung die Grenzen des § 51 des Bewertungsgesetzes in der Fassung der Bekanntmachung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 14 des Gesetzes vom 20. Dezember 2001 (BGBl. I S. 3794) geändert worden ist, in der jeweils geltenden Fassung nicht überschreitet oder
+b) deren Inhaber eine Personenvereinigung, eine juristische Person des privaten Rechts oder eine Hauberg-, Wald-, Forst- oder Laubgenossenschaft oder eine ähnliche Realgemeinde im Sinne des § 13 Absatz 1 Nummer 4 des Einkommensteuergesetzes ist und bei denen im Falle der Gewinnung tierischer Erzeugnisse die mit der Bodenbewirtschaftung verbundene Tierhaltung die Grenzen des § 241 des Bewertungsgesetzes in der Fassung der Bekanntmachung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 31 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 411) geändert worden ist, in der jeweils geltenden Fassung nicht überschreitet oder
 
 c) deren Inhaber eine Körperschaft, Personenvereinigung oder Vermögensmasse ist, die ausschließlich und unmittelbar kirchliche, gemeinnützige oder mildtätige Zwecke verfolgt,
 
-2. Imkereien, aus denen natürliche Personen Einkünfte nach § 13 Abs. 1 Nr. 2 des Einkommensteuergesetzes erzielen oder deren Inhaber eine nichtrechtsfähige Personenvereinigung oder eine juristische Person des privaten Rechts ist,
+2. Imkereien, aus denen natürliche Personen Einkünfte nach § 13 Abs. 1 Nr. 2 des Einkommensteuergesetzes erzielen oder deren Inhaber eine Personenvereinigung oder eine juristische Person des privaten Rechts ist,
 
 3. Wanderschäfereien und Teichwirtschaften,
 
@@ -1661,31 +1661,13 @@ c) deren Inhaber eine Körperschaft, Personenvereinigung oder Vermögensmasse is
 
 4. die Beförderung von Bienenvölkern zu den Trachten und Heimatständen sowie Fahrten zur Betreuung der Bienen.
 
-(5) Die Steuerentlastung beträgt  
-  
+(5) Die Steuerentlastung beträgt für 1 000 Liter Gasöle nach § 2 Absatz 1 Nummer 4
 
-|     |     |                                                                                                                                                                                                                                       |             |
-|:----|:----|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------|
-| 1\. |     | für 1 000 l Gasöle nach § 2 Abs. 1 Nr. 4                                                                                                                                                                                              | 214,80 EUR, |
-| 2\. |     | für 1 000 l Biokraftstoffe                                                                                                                                                                                                            |             |
-|     | a) | nach § 50 Absatz 3 Satz 4 Nummer 1 des Energiesteuergesetzes in der Fassung vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007), das zuletzt durch Artikel 9 des Gesetzes vom 10. März 2017 (BGBl. I S. 420) geändert worden ist |             |
-|     |     | bis 31. Dezember 2007                                                                                                                                                                                                                 | 90,00 EUR,  |
-|     |     | vom 1. Januar 2008                                                                                                                                                                                                                    |             |
-|     |     | bis 31. Dezember 2008                                                                                                                                                                                                                 | 150,00 EUR, |
-|     |     | vom 1. Januar 2009                                                                                                                                                                                                                    |             |
-|     |     | bis 31. Dezember 2009                                                                                                                                                                                                                 | 182,92 EUR, |
-|     |     | vom 1. Januar 2010                                                                                                                                                                                                                    |             |
-|     |     | bis 31. Dezember 2012                                                                                                                                                                                                                 | 185,96 EUR  |
-|     |     | ab 1. Januar 2013                                                                                                                                                                                                                     | 450,33 EUR, |
-|     | b) | nach § 50 Absatz 3 Satz 4 Nummer 2 des Energiesteuergesetzes in der Fassung vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007), das zuletzt durch Artikel 9 des Gesetzes vom 10. März 2017 (BGBl. I S. 420) geändert worden ist |             |
-|     |     | bis 31. Dezember 2007                                                                                                                                                                                                                 | 23,52 EUR,  |
-|     |     | vom 1. Januar 2008                                                                                                                                                                                                                    |             |
-|     |     | bis 31. Dezember 2008                                                                                                                                                                                                                 | 100,00 EUR, |
-|     |     | vom 1. Januar 2009                                                                                                                                                                                                                    |             |
-|     |     | bis 31. Dezember 2009                                                                                                                                                                                                                 | 180,00 EUR, |
-|     |     | vom 1. Januar 2010                                                                                                                                                                                                                    |             |
-|     |     | bis 31. Dezember 2012                                                                                                                                                                                                                 | 184,55 EUR, |
-|     |     | ab 1. Januar 2013                                                                                                                                                                                                                     | 450,00 EUR, |
+1. bis zum 29. Februar 2024 214,80 EUR,
+
+2. vom 1. März 2024 bis zum 31. Dezember 2024 128,88 EUR,
+
+3. vom 1. Januar 2025 bis zum 31. Dezember 2025 64,44 EUR,
 
 jeweils unvermischt mit anderen Energieerzeugnissen, ausgenommen Biokraftstoffen oder Additiven der Position 3811 der Kombinierten Nomenklatur.
 
@@ -1693,13 +1675,9 @@ jeweils unvermischt mit anderen Energieerzeugnissen, ausgenommen Biokraftstoffen
 
 (7) Eine Steuerentlastung wird nur gewährt, wenn der Entlastungsbetrag nach Absatz 5 mindestens 50 Euro im Kalenderjahr beträgt.
 
-(8) Entlastungsberechtigt ist
+(8) Entlastungsberechtigt ist der Betrieb der Land- und Forstwirtschaft nach Absatz 2 Nummer 1 bis 4, der die Gasöle verwendet hat. Dabei gelten Gasöle, die durch Betriebe nach Absatz 2 Nummer 5 bei der Ausführung von Arbeiten nach Absatz 1 Satz 1 für einen Betrieb der Land- und Forstwirtschaft nach Absatz 2 Nummer 1 bis 4 verwendet wurden, als durch den Betrieb der Land- und Forstwirtschaft verwendet, für den die Arbeiten ausgeführt wurden.
 
-1. im Falle des Absatzes 5 Nr. 1 der Betrieb der Land- und Forstwirtschaft nach Absatz 2 Nr. 1 bis 4, der die Gasöle verwendet hat. Dabei gelten Gasöle, die durch Betriebe nach Absatz 2 Nr. 5 bei der Ausführung von Arbeiten nach Absatz 1 Satz 1 für einen Betrieb der Land- und Forstwirtschaft nach Absatz 2 Nr. 1 bis 4 verwendet wurden, als durch den Betrieb der Land- und Forstwirtschaft verwendet, für den die Arbeiten ausgeführt wurden,
-
-2. im Falle des Absatzes 5 Nr. 2 der Betrieb der Land- und Forstwirtschaft nach Absatz 2, der die Biokraftstoffe verwendet hat.
-
-(9) Die festgelegte Steuerentlastung nach Absatz 5 Nummer 1 wird angewendet nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
+(9) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 # § 58 – Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
 
