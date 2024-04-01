@@ -825,7 +825,7 @@ ist eine Strafkammer als Schwurgericht zuständig. § 120 bleibt unberührt.
 
 3. der Gefährdung der Landesverteidigung in den Fällen der §§ 109d bis 109g des Strafgesetzbuches,
 
-4. der Zuwiderhandlung gegen ein Vereinigungsverbot in den Fällen des § 129, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches und des § 20 Abs. 1 Satz 1 Nr. 1 bis 4 des Vereinsgesetzes; dies gilt nicht, wenn dieselbe Handlung eine Straftat nach dem Betäubungsmittelgesetz darstellt,
+4. der Zuwiderhandlung gegen ein Vereinigungsverbot in den Fällen des § 129, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches und des § 20 Abs. 1 Satz 1 Nr. 1 bis 4 des Vereinsgesetzes; dies gilt nicht, wenn dieselbe Handlung eine Straftat nach dem Betäubungsmittelgesetz, Konsumcannabisgesetz oder Medizinal-Cannabisgesetz darstellt,
 
 5. der Verschleppung (§ 234a des Strafgesetzbuches) und
 

@@ -496,6 +496,10 @@ d) in der seit dem 1. Januar 2021 geltenden Fassung sowie
 
 (2) Für die Vollstreckung von vor dem 1. Februar 2024 rechtskräftig verhängten Geldstrafen gelten § 43 des Strafgesetzbuches und § 11 des Wehrstrafgesetzes jeweils in der bis zu diesem Tag geltenden Fassung. Artikel 313 Absatz 2 gilt entsprechend.
 
+# Art 316p – Noch nicht vollstreckte Strafen im Zusammenhang mit Cannabis nach dem Betäubungsmittelgesetz
+
+Im Hinblick auf vor dem 1. April 2024 verhängte Strafen nach dem Betäubungsmittelgesetz, die nach dem Konsumcannabisgesetz oder dem Medizinal-Cannabisgesetz nicht mehr strafbar und auch nicht mit Geldbuße bedroht sind, ist Artikel 313 entsprechend anzuwenden.
+
 # Art 317 – Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht
 
 (1) Die bei Inkrafttreten des neuen Rechts schwebenden Verfahren wegen einer Zuwiderhandlung, die nach neuem Recht nur noch mit Geldbuße bedroht ist, werden in der Lage, in der sie sich befinden, nach den Vorschriften des Gesetzes über Ordnungswidrigkeiten fortgesetzt, soweit nichts anderes bestimmt ist. Hat das Gericht wegen einer solchen Zuwiderhandlung bereits das Hauptverfahren eröffnet oder einen Strafbefehl oder eine Strafverfügung erlassen, so bleibt die Staatsanwaltschaft für die Verfolgung auch im Bußgeldverfahren zuständig. § 72 des Gesetzes über Ordnungswidrigkeiten ist in diesem Fall nicht anzuwenden.

@@ -109,7 +109,7 @@ Die Einschränkungen nach Satz 1 gelten nicht in Fällen des § 10 Absatz 1 Satz
 
 (3) Die Aufwendungen für eine Untersuchung oder Begutachtung im unmittelbaren Anschluss an ein Unfallereignis werden auch dann erstattet, wenn diese Maßnahme nur der Feststellung diente, ob ein Dienstunfall vorliegt oder ob Dienstunfallfolgen eingetreten sind.
 
-(4) Bei dienstunfallbedingten Aufwendungen, die im Ausland entstanden sind, gilt § 11 Absatz 1 und 2 der Bundesbeihilfeverordnung entsprechend. Für verletzte Personen, die ihren dienstlichen Wohnsitz im Ausland haben oder in das Ausland abgeordnet sind, gelten § 11 Absatz 3, § 18a Absatz 4 Satz 2, § 23 Absatz 2 Satz 1, § 26a Absatz 6, § 29 Absatz 1 und 3, § 31 Absatz 6, § 32 Absatz 3, § 36 Absatz 3 sowie § 44 Absatz 2 der Bundesbeihilfeverordnung entsprechend.
+(4) Bei dienstunfallbedingten Aufwendungen, die im Ausland entstanden sind, gilt § 11 Absatz 1 und 2 der Bundesbeihilfeverordnung entsprechend. Für verletzte Personen, die ihren dienstlichen Wohnsitz im Ausland haben oder in das Ausland abgeordnet sind, gelten § 11 Absatz 3, § 18a Absatz 4 Satz 2, § 23 Absatz 3 Satz 1, § 26a Absatz 6, § 29 Absatz 1 und 3, § 31 Absatz 6, § 32 Absatz 3, § 36 Absatz 3 sowie § 44 Absatz 2 der Bundesbeihilfeverordnung entsprechend.
 
 (5) Zur Vermeidung unbilliger Härten kann die Dienstunfallfürsorgestelle mit vorheriger Zustimmung des Bundesministeriums des Innern und für Heimat und des Bundesministeriums der Finanzen von dieser Verordnung abweichen.
 
@@ -165,7 +165,7 @@ Die Einschränkungen nach Satz 1 gelten nicht in Fällen des § 10 Absatz 1 Satz
 
 1. Krankenhausbehandlungen bis zur Höhe der Aufwendungen, wie sie in Krankenhäusern im Sinne der §§ 26 und 26a der Bundesbeihilfeverordnung ohne Abzug von Eigenbehalten entstanden wären,
 
-2. die gesondert berechnete Unterkunft ohne Abzug von Eigenbehalten
+2. die gesondert berechnete Unterkunft
 
 a) bis zur Höhe der Aufwendungen für ein Zweibettzimmer der jeweiligen Abteilung oder
 
@@ -245,7 +245,7 @@ Einer alleinstehenden verletzten Person werden Aufwendungen für eine Haushaltsh
 
 2. höchstens sechs Monate, sofern gleichzeitig die Voraussetzungen nach Absatz 2 Satz 1 vorliegen.
 
-(5) Der Dienstunfallfürsorgestelle ist eine fachärztliche Bescheinigung über die Notwendigkeit und den zeitlichen Umfang der Haushaltshilfe vorzulegen. Die Aufwendungen für eine Haushaltshilfe sind pro Stunde bis zur Höhe von 0,32 Prozent der sich aus § 18 Absatz 1 des Vierten Buches Sozialgesetzbuch ergebenden monatlichen Bezugsgröße, aufgerundet auf volle Euro, erstattungsfähig. Aufwendungen für notwendige Fahrten der Haushaltshilfe werden in sinngemäßer Anwendung des § 12 Absatz 1 Satz 1 erstattet. § 3 Absatz 3 gilt entsprechend.
+(5) Der Dienstunfallfürsorgestelle ist eine fachärztliche Bescheinigung über die Notwendigkeit und den zeitlichen Umfang der Haushaltshilfe vorzulegen. Die Aufwendungen für eine Haushaltshilfe sind entsprechend § 28 Absatz 1 Satz 1 der Bundesbeihilfeverordnung erstattungsfähig. Aufwendungen für notwendige Fahrten der Haushaltshilfe werden in sinngemäßer Anwendung des § 12 Absatz 1 Satz 1 erstattet. § 3 Absatz 3 gilt entsprechend.
 
 # § 12 – Fahrten
 

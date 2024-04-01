@@ -2254,13 +2254,13 @@ Der Anspruch auf Krankengeld bleibt jeweils bis zu dem Tag bestehen, an dem die 
 
 (2) Die Krankenkassen haben der zuständigen berufsständischen Versorgungseinrichtung den Beginn und das Ende der Beitragszahlung sowie die Höhe der der Beitragsberechnung zugrunde liegenden beitragspflichtigen Einnahmen und den zu zahlenden Beitrag für das Mitglied zu übermitteln; ab dem 1. Januar 2017 erfolgt die Übermittlung durch elektronischen Nachweis. Das Nähere zum Verfahren, zu notwendigen weiteren Angaben und den Datensatz regeln der Spitzenverband Bund der Krankenkassen und die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen bis zum 31. Juli 2016 in gemeinsamen Grundsätzen, die vom Bundesministerium für Gesundheit zu genehmigen sind.
 
-# § 47b – Höhe und Berechnung des Krankengeldes bei Beziehern von Arbeitslosengeld, Unterhaltsgeld oder Kurzarbeitergeld
+# § 47b – Höhe und Berechnung des Krankengeldes bei Beziehern von Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld
 
 (1) Das Krankengeld für Versicherte nach § 5 Abs. 1 Nr. 2 wird in Höhe des Betrages des Arbeitslosengeldes oder des Unterhaltsgeldes gewährt, den der Versicherte zuletzt bezogen hat.
 
 (2) Ändern sich während des Bezuges von Krankengeld die für den Anspruch auf Arbeitslosengeld oder Unterhaltsgeld maßgeblichen Verhältnisse des Versicherten, so ist auf Antrag des Versicherten als Krankengeld derjenige Betrag zu gewähren, den der Versicherte als Arbeitslosengeld oder Unterhaltsgeld erhalten würde, wenn er nicht erkrankt wäre. Änderungen, die zu einer Erhöhung des Krankengeldes um weniger als zehn vom Hundert führen würden, werden nicht berücksichtigt.
 
-(3) Für Versicherte, die während des Bezuges von Kurzarbeitergeld arbeitsunfähig erkranken, wird das Krankengeld nach dem regelmäßigen Arbeitsentgelt, das zuletzt vor Eintritt des Arbeitsausfalls erzielt wurde (Regelentgelt), berechnet.
+(3) Für Versicherte, die während des Bezuges von Kurzarbeitergeld oder Qualifizierungsgeld arbeitsunfähig erkranken, wird das Krankengeld nach dem regelmäßigen Arbeitsentgelt, das zuletzt vor Eintritt des Arbeitsausfalls erzielt wurde (Regelentgelt), berechnet.
 
 (4) Für Versicherte, die arbeitsunfähig erkranken, bevor in ihrem Betrieb die Voraussetzungen für den Bezug von Kurzarbeitergeld nach dem Dritten Buch erfüllt sind, wird, solange Anspruch auf Fortzahlung des Arbeitsentgelts im Krankheitsfalle besteht, neben dem Arbeitsentgelt als Krankengeld der Betrag des Kurzarbeitergeldes gewährt, den der Versicherte erhielte, wenn er nicht arbeitsunfähig wäre. Der Arbeitgeber hat das Krankengeld kostenlos zu errechnen und auszuzahlen. Der Arbeitnehmer hat die erforderlichen Angaben zu machen.
 
@@ -2290,7 +2290,7 @@ Der Anspruch auf Krankengeld bleibt jeweils bis zu dem Tag bestehen, an dem die 
 
 2. solange Versicherte Elternzeit nach dem Bundeselterngeld- und Elternzeitgesetz in Anspruch nehmen; dies gilt nicht, wenn die Arbeitsunfähigkeit vor Beginn der Elternzeit eingetreten ist oder das Krankengeld aus dem Arbeitsentgelt zu berechnen ist, das aus einer versicherungspflichtigen Beschäftigung während der Elternzeit erzielt worden ist,
 
-3. soweit und solange Versicherte Versorgungskrankengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Unterhaltsgeld oder Kurzarbeitergeld beziehen,
+3. soweit und solange Versicherte Versorgungskrankengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld beziehen,
 
 3a. soweit er auf der Erkrankung eines Kindes beruht, das für die Versicherte oder den Versicherten Anspruch auf Versorgungskrankengeld oder Krankengeld der Sozialen Entschädigung hat.
 
@@ -7685,7 +7685,7 @@ Die freiwillige Mitgliedschaft endet
 
 3. von einem Rehabilitationsträger während einer Leistung zur medizinischen Rehabilitation Verletztengeld, Versorgungskrankengeld, Krankengeld der Sozialen Entschädigung oder Übergangsgeld gezahlt wird oder
 
-4. Kurzarbeitergeld nach dem Dritten Buch bezogen wird.
+4. Kurzarbeitergeld oder Qualifizierungsgeld nach dem Dritten Buch bezogen wird.
 
 (2) Während der Schwangerschaft bleibt die Mitgliedschaft Versicherungspflichtiger auch erhalten, wenn das Beschäftigungsverhältnis vom Arbeitgeber zulässig aufgelöst oder das Mitglied unter Wegfall des Arbeitsentgelts beurlaubt worden ist, es sei denn, es besteht eine Mitgliedschaft nach anderen Vorschriften.
 
@@ -8630,7 +8630,7 @@ Erreicht das Arbeitsentgelt nicht die Beitragsbemessungsgrenze, werden nacheinan
 
 (3) Unständig ist die Beschäftigung, die auf weniger als eine Woche entweder nach der Natur der Sache befristet zu sein pflegt oder im Voraus durch den Arbeitsvertrag befristet ist.
 
-# § 232a – Beitragspflichtige Einnahmen der Bezieher von Arbeitslosengeld, Unterhaltsgeld oder Kurzarbeitergeld
+# § 232a – Beitragspflichtige Einnahmen der Bezieher von Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld
 
 (1) Als beitragspflichtige Einnahmen gelten
 
@@ -8642,7 +8642,7 @@ Bei Personen, die Teilarbeitslosengeld oder Teilunterhaltsgeld nach dem Dritten 
 
 (1a) (weggefallen)
 
-(2) Soweit Kurzarbeitergeld nach dem Dritten Buch gewährt wird, gelten als beitragspflichtige Einnahmen nach § 226 Abs. 1 Satz 1 Nr. 1 80 vom Hundert des Unterschiedsbetrages zwischen dem Sollentgelt und dem Istentgelt nach § 106 des Dritten Buches.
+(2) Soweit Kurzarbeitergeld oder Qualifizierungsgeld nach dem Dritten Buch gewährt wird, gelten als beitragspflichtige Einnahmen nach § 226 Abs. 1 Satz 1 Nr. 1 80 vom Hundert des Unterschiedsbetrages zwischen dem Sollentgelt und dem Istentgelt nach § 106 des Dritten Buches beim Kurzarbeitergeld oder nach § 82b des Dritten Buches beim Qualifizierungsgeld.
 
 (3) § 226 gilt entsprechend.
 
@@ -8804,7 +8804,7 @@ Bei Versicherungspflichtigen gilt für die Bemessung der Beiträge aus Versorgun
 
 (1) Beschäftigte, die nach § 5 Absatz 1 Nummer 1 oder Nummer 13 versicherungspflichtig sind, und ihre Arbeitgeber tragen die nach dem Arbeitsentgelt zu bemessenden Beiträge jeweils zur Hälfte. Bei geringfügig Beschäftigten gilt § 249b.
 
-(2) Der Arbeitgeber trägt den Beitrag allein für Beschäftigte, soweit Beiträge für Kurzarbeitergeld zu zahlen sind.
+(2) Der Arbeitgeber trägt den Beitrag allein für Beschäftigte, soweit Beiträge für Kurzarbeitergeld oder Qualifizierungsgeld zu zahlen sind.
 
 (3) Abweichend von Absatz 1 werden die Beiträge bei versicherungspflichtig Beschäftigten, deren beitragspflichtige Einnahme sich nach § 226 Absatz 4 bestimmt, vom Versicherten in Höhe der Hälfte des Betrages, der sich ergibt, wenn der allgemeine oder der ermäßigte Beitragssatz zuzüglich des kassenindividuellen Zusatzbeitragssatzes auf die nach Maßgabe von § 20 Absatz 2a Satz 6 des Vierten Buches ermittelte beitragspflichtige Einnahme angewendet wird, im Übrigen vom Arbeitgeber getragen.
 
@@ -8934,7 +8934,7 @@ Versicherungspflichtige Studenten haben vor der Einschreibung oder Rückmeldung 
 
 (1) Freiwillig in der gesetzlichen Krankenversicherung versicherte Beschäftigte, die nur wegen Überschreitens der Jahresarbeitsentgeltgrenze versicherungsfrei sind, erhalten von ihrem Arbeitgeber als Beitragszuschuß den Betrag, den der Arbeitgeber entsprechend § 249 Absatz 1 oder 2 bei Versicherungspflicht des Beschäftigten zu tragen hätte. Satz 1 gilt für freiwillig in der gesetzlichen Krankenversicherung versicherte Beschäftigte, deren Mitgliedschaft auf der Versicherungsberechtigung nach § 9 Absatz 1 Satz 1 Nummer 8 beruht, entsprechend. Bestehen innerhalb desselben Zeitraums mehrere Beschäftigungsverhältnisse, sind die beteiligten Arbeitgeber anteilig nach dem Verhältnis der Höhe der jeweiligen Arbeitsentgelte zur Zahlung des Beitragszuschusses verpflichtet. Freiwillig in der gesetzlichen Krankenversicherung Versicherte, die eine Beschäftigung nach dem Jugendfreiwilligendienstegesetz oder nach dem Bundesfreiwilligendienstgesetz ausüben, erhalten von ihrem Arbeitgeber als Beitragszuschuss den Betrag, den der Arbeitgeber bei Versicherungspflicht der Freiwilligendienstleistenden nach § 20 Absatz 3 Satz 1 Nummer 2 des Vierten Buches für die Krankenversicherung zu tragen hätte.
 
-(2) Beschäftigte, die nur wegen Überschreitens der Jahresarbeitsentgeltgrenze oder auf Grund von § 6 Abs. 3a versicherungsfrei oder die von der Versicherungspflicht befreit und bei einem privaten Krankenversicherungsunternehmen versichert sind und für sich und ihre Angehörigen, die bei Versicherungspflicht des Beschäftigten nach § 10 versichert wären, Vertragsleistungen beanspruchen können, die der Art nach den Leistungen dieses Buches entsprechen, erhalten von ihrem Arbeitgeber einen Beitragszuschuß. Der Zuschuss wird in Höhe des Betrages gezahlt, der sich bei Anwendung der Hälfte des Beitragssatzes nach § 241 zuzüglich der Hälfte des durchschnittlichen Zusatzbeitragssatzes nach § 242a und der nach § 226 Absatz 1 Satz 1 Nummer 1 bei Versicherungspflicht zugrunde zu legenden beitragspflichtigen Einnahmen als Beitrag ergibt, höchstens jedoch in Höhe der Hälfte des Betrages, den der Beschäftigte für seine Krankenversicherung zu zahlen hat. Für Beschäftigte, die bei Versicherungspflicht keinen Anspruch auf Krankengeld hätten, tritt an die Stelle des Beitragssatzes nach § 241 der Beitragssatz nach § 243. Soweit Kurzarbeitergeld bezogen wird, ist der Beitragszuschuss in Höhe des Betrages zu zahlen, den der Arbeitgeber bei Versicherungspflicht des Beschäftigten entsprechend § 249 Absatz 2 zu tragen hätte, höchstens jedoch in Höhe des Betrages, den der Beschäftigte für seine Krankenversicherung zu zahlen hat; für die Berechnung gilt der um den durchschnittlichen Zusatzbeitragssatz nach § 242a erhöhte allgemeine Beitragssatz nach § 241. Absatz 1 Satz 3 gilt.
+(2) Beschäftigte, die nur wegen Überschreitens der Jahresarbeitsentgeltgrenze oder auf Grund von § 6 Abs. 3a versicherungsfrei oder die von der Versicherungspflicht befreit und bei einem privaten Krankenversicherungsunternehmen versichert sind und für sich und ihre Angehörigen, die bei Versicherungspflicht des Beschäftigten nach § 10 versichert wären, Vertragsleistungen beanspruchen können, die der Art nach den Leistungen dieses Buches entsprechen, erhalten von ihrem Arbeitgeber einen Beitragszuschuß. Der Zuschuss wird in Höhe des Betrages gezahlt, der sich bei Anwendung der Hälfte des Beitragssatzes nach § 241 zuzüglich der Hälfte des durchschnittlichen Zusatzbeitragssatzes nach § 242a und der nach § 226 Absatz 1 Satz 1 Nummer 1 bei Versicherungspflicht zugrunde zu legenden beitragspflichtigen Einnahmen als Beitrag ergibt, höchstens jedoch in Höhe der Hälfte des Betrages, den der Beschäftigte für seine Krankenversicherung zu zahlen hat. Für Beschäftigte, die bei Versicherungspflicht keinen Anspruch auf Krankengeld hätten, tritt an die Stelle des Beitragssatzes nach § 241 der Beitragssatz nach § 243. Soweit Kurzarbeitergeld oder Qualifizierungsgeld bezogen wird, ist der Beitragszuschuss in Höhe des Betrages zu zahlen, den der Arbeitgeber bei Versicherungspflicht des Beschäftigten entsprechend § 249 Absatz 2 zu tragen hätte, höchstens jedoch in Höhe des Betrages, den der Beschäftigte für seine Krankenversicherung zu zahlen hat; für die Berechnung gilt der um den durchschnittlichen Zusatzbeitragssatz nach § 242a erhöhte allgemeine Beitragssatz nach § 241. Absatz 1 Satz 3 gilt.
 
 (2a) Der Zuschuss nach Absatz 2 wird ab 1. Januar 2009 für eine private Krankenversicherung nur gezahlt, wenn das Versicherungsunternehmen
 

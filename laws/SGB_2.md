@@ -751,9 +751,9 @@ Im Kooperationsplan kann auch festgehalten werden,
 
 2. Leistungen zur Aktivierung und beruflichen Eingliederung nach dem Zweiten Abschnitt,
 
-3. Leistungen zur Berufsausbildung nach dem Vierten Unterabschnitt des Dritten Abschnitts und Leistungen nach § 54a Absatz 1 bis 5,
+3. Leistungen zur Berufsausbildung nach dem Vierten Unterabschnitt des Dritten Abschnitts und Leistungen nach den §§ 48a und 54a Absatz 1 bis 5,
 
-4. Leistungen zur beruflichen Weiterbildung nach dem Vierten Abschnitt, mit Ausnahme von Leistungen nach § 82 Absatz 6, und Leistungen nach den §§ 131a und 131b,
+4. Leistungen zur beruflichen Weiterbildung nach dem Vierten Abschnitt, mit Ausnahme von Leistungen nach § 82 Absatz 5 und § 82a, und Leistungen nach den §§ 131a und 131b,
 
 5. Leistungen zur Aufnahme einer sozialversicherungspflichtigen Beschäftigung nach dem Ersten Unterabschnitt des Fünften Abschnitts.
 

@@ -585,7 +585,7 @@ Nach der Entlassung besteht kein Anspruch auf Besoldung und Versorgung, soweit g
 
 1. wegen einer vorsätzlichen Tat zu einer Freiheitsstrafe von mindestens einem Jahr oder
 
-2. wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit oder, soweit sich die Tat auf eine Diensthandlung im Hauptamt bezieht, Bestechlichkeit strafbar ist, zu einer Freiheitsstrafe von mindestens sechs Monaten
+2. wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit, Volksverhetzung oder, soweit sich die Tat auf eine Diensthandlung im Hauptamt bezieht, Bestechlichkeit strafbar ist, zu einer Freiheitsstrafe von mindestens sechs Monaten
 
 verurteilt, endet das Beamtenverhältnis mit der Rechtskraft des Urteils. Entsprechendes gilt, wenn die Fähigkeit zur Wahrnehmung öffentlicher Ämter aberkannt wird oder wenn Beamtinnen oder Beamte aufgrund einer Entscheidung des Bundesverfassungsgerichts nach Artikel 18 des Grundgesetzes ein Grundrecht verwirkt haben.
 
@@ -1260,9 +1260,9 @@ Satz 1 gilt nur für Beamtinnen und Beamte, deren Ernennung zu einem Zeitpunkt e
 
 Im Fall der Auflösung oder einer wesentlichen Änderung des Aufbaus oder der Aufgaben einer Behörde oder der Verschmelzung von Behörden können Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit, deren Aufgabengebiet davon betroffen ist und die ein Amt der Bundesbesoldungsordnung B wahrnehmen, in den einstweiligen Ruhestand versetzt werden, wenn durch die organisatorische Änderung eine ihrem Amt entsprechende Planstelle eingespart wird und eine Versetzung nicht möglich ist. Frei werdende Planstellen sollen den in den einstweiligen Ruhestand versetzten Beamtinnen und Beamten, die dafür geeignet sind, vorbehalten werden.
 
-# § 56 – Beginn des einstweiligen Ruhestands
+# § 56 – Beginn des einstweiligen Ruhestands; Bekenntnis zu der freiheitlichen demokratischen Grundordnung
 
-Wenn nicht im Einzelfall ausdrücklich ein späterer Zeitpunkt festgesetzt wird, beginnt der einstweilige Ruhestand mit dem Zeitpunkt, zu dem die Versetzung in den einstweiligen Ruhestand der Beamtin oder dem Beamten bekannt gegeben wird, spätestens jedoch mit dem Ende des dritten Monats, der auf den Monat der Bekanntgabe folgt. Die Verfügung kann bis zum Beginn des Ruhestands zurückgenommen werden.
+Wenn nicht im Einzelfall ausdrücklich ein späterer Zeitpunkt festgesetzt wird, beginnt der einstweilige Ruhestand mit dem Zeitpunkt, zu dem die Versetzung in den einstweiligen Ruhestand der Beamtin oder dem Beamten bekannt gegeben wird, spätestens jedoch mit dem Ende des dritten Monats, der auf den Monat der Bekanntgabe folgt. Die Verfügung kann bis zum Beginn des Ruhestands zurückgenommen werden. Politische Beamtinnen und politische Beamte müssen sich auch während des einstweiligen Ruhestands durch ihr gesamtes Verhalten zu der freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes bekennen.
 
 # § 57 – Erneute Berufung
 
@@ -1408,7 +1408,7 @@ Werden Beamtinnen, Beamte, Versorgungsberechtigte oder ihre Angehörigen körper
 
 4. einer Verpflichtung nach § 46 Absatz 1, 2, 4 oder 7 oder § 57 schuldhaft nicht nachkommen.
 
-Satz 1 Nummer 1 bis 3 gilt auch für frühere Beamtinnen mit Anspruch auf Altersgeld und frühere Beamte mit Anspruch auf Altersgeld.
+Satz 1 Nummer 1 bis 3 gilt auch für frühere Beamtinnen mit Anspruch auf Altersgeld und frühere Beamte mit Anspruch auf Altersgeld. Für politische Beamtinnen und politische Beamte gilt ein Verstoß gegen § 56 Satz 3 als Dienstvergehen.
 
 (3) Die Verfolgung von Dienstvergehen richtet sich nach dem Bundesdisziplinargesetz.
 
@@ -1812,13 +1812,39 @@ Die zur Ausführung der §§ 97 bis 103 notwendigen weiteren Vorschriften zu Neb
 
 4. dass die Beamtin oder der Beamte verpflichtet werden kann, nach Ablauf eines jeden Kalenderjahres der oder dem Dienstvorgesetzten die ihr oder ihm zugeflossenen Entgelte und geldwerten Vorteile aus Nebentätigkeiten anzugeben.
 
-# § 105 – Anzeigepflicht nach Beendigung des Beamtenverhältnisses
+# § 105 – Anzeige- und Genehmigungspflicht nach Beendigung des Beamtenverhältnisses
 
-(1) Ruhestandsbeamtinnen, Ruhestandsbeamte, frühere Beamtinnen mit Versorgungsbezügen und frühere Beamte mit Versorgungsbezügen haben eine Erwerbstätigkeit oder sonstige Beschäftigung außerhalb des öffentlichen Dienstes, die mit ihrer dienstlichen Tätigkeit in den letzten fünf Jahren vor Beendigung des Beamtenverhältnisses im Zusammenhang steht und durch die dienstliche Interessen beeinträchtigt werden können, vor ihrer Aufnahme schriftlich oder elektronisch anzuzeigen. Die Anzeigepflicht endet, wenn die Beamtinnen und Beamten mit Erreichen der Regelaltersgrenze in den Ruhestand treten, drei Jahre, im Übrigen fünf Jahre nach Beendigung des Beamtenverhältnisses. Die Sätze 1 und 2 gelten auch für frühere Beamtinnen mit Anspruch auf Altersgeld und frühere Beamte mit Anspruch auf Altersgeld.
+(1) Ruhestandsbeamtinnen und Ruhestandsbeamte sind verpflichtet, eine Erwerbstätigkeit oder sonstige Beschäftigung außerhalb des öffentlichen Dienstes, die mit ihrer dienstlichen Tätigkeit in den letzten fünf Jahren vor Beendigung des Beamtenverhältnisses im Zusammenhang steht und durch die dienstliche Interessen beeinträchtigt werden können, vor Aufnahme dieser Tätigkeit oder dieser Beschäftigung schriftlich oder elektronisch der zuständigen Behörde anzuzeigen. Die Anzeigepflicht endet
 
-(2) Die Erwerbstätigkeit oder sonstige Beschäftigung ist zu untersagen, soweit zu besorgen ist, dass durch sie dienstliche Interessen beeinträchtigt werden. Die Untersagung ist für den Zeitraum bis zum Ende der Anzeigepflicht auszusprechen, es sei denn, die Voraussetzungen für eine Untersagung liegen nur für einen kürzeren Zeitraum vor.
+1. drei Jahre nach Beendigung des Beamtenverhältnisses, wenn die Beamtin oder der Beamte mit Erreichen der Regelaltersgrenze in den Ruhestand tritt, und
 
-(3) Zuständig ist die letzte oberste Dienstbehörde. Sie kann ihre Zuständigkeit auf nachgeordnete Behörden übertragen.
+2. in den übrigen Fällen fünf Jahre nach Beendigung des Beamtenverhältnisses.
+
+(2) Zur Anzeige jeder Erwerbstätigkeit oder sonstigen Beschäftigung außerhalb des öffentlichen Dienstes verpflichtet ist eine Ruhestandsbeamtin oder ein Ruhestandsbeamter, wenn sie oder er
+
+1. vor Eintritt in den Ruhestand politische Beamtin oder politischer Beamter nach § 54 Absatz 1 war oder
+
+2. in den letzten fünf Jahren vor Beendigung des Beamtenverhältnisses betraut gewesen ist mit mindestens einer sicherheitsempfindlichen Tätigkeit im Sinne des § 1 Absatz 2 des Sicherheitsüberprüfungsgesetzes.
+
+(3) Die Anzeigepflicht nach Absatz 2 endet
+
+1. fünf Jahre nach Beendigung des Beamtenverhältnisses, wenn die Beamtin oder der Beamte mit Erreichen der Regelaltersgrenze in den Ruhestand tritt, und
+
+2. in den übrigen Fällen sieben Jahre nach Beendigung des Beamtenverhältnisses.
+
+(4) Die Anzeige nach den Absätzen 1 und 2 soll mindestens einen Monat vor Aufnahme der Tätigkeit oder Beschäftigung erfolgen. Wird die Frist nicht eingehalten, so kann die zuständige Behörde die Aufnahme der Tätigkeit oder Beschäftigung bis zur Dauer von höchstens einem Monat vorläufig untersagen.
+
+(5) Ruhestandsbeamtinnen oder Ruhestandsbeamte, bei denen in den letzten fünf Jahren vor Beendigung des Beamtenverhältnisses eine erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen nach § 10 des Sicherheitsüberprüfungsgesetzes durchgeführt wurde, bedürfen für die Aufnahme einer Erwerbstätigkeit oder sonstigen Beschäftigung für eine fremde Macht oder einen ihrer Mittelsmänner der vorherigen Genehmigung, sofern die beabsichtigte Erwerbstätigkeit oder sonstige Beschäftigung einen Bezug zu sicherheitsempfindlichen Belangen aufweist. Die Pflicht zur Einholung einer Genehmigung endet
+
+1. fünf Jahre nach Beendigung des Beamtenverhältnisses, wenn die Beamtin oder der Beamte mit Erreichen der Regelaltersgrenze in den Ruhestand tritt, und
+
+2. in den übrigen Fällen sieben Jahre nach Beendigung des Beamtenverhältnisses.
+
+(6) Die Erwerbstätigkeit oder sonstige Beschäftigung ist zu untersagen, soweit zu besorgen ist, dass durch sie dienstliche Interessen beeinträchtigt werden. Auch, wenn die zuständige Behörde auf anderem Weg als durch die Anzeige Kenntnis von der Erwerbstätigkeit oder sonstigen Beschäftigung erlangt, ist sie verpflichtet, diese Tätigkeit oder Beschäftigung zu untersagen, soweit zu besorgen ist, dass durch sie dienstliche Interessen beeinträchtigt werden. Die Untersagung ist für den Zeitraum bis zum Ende der Anzeigepflicht auszusprechen. Liegen die Voraussetzungen für eine Untersagung nur für einen kürzeren Zeitraum vor, so ist die Untersagung nur bis zum Ende dieses Zeitraums auszusprechen. Entsprechendes gilt für die Versagung der Genehmigung in den Fällen des Absatzes 5.
+
+(7) Die Absätze 1 bis 6 gelten für frühere Beamtinnen mit Versorgungsbezügen und frühere Beamte mit Versorgungsbezügen sowie für frühere Beamtinnen mit Anspruch auf Altersgeld und frühere Beamte mit Anspruch auf Altersgeld entsprechend.
+
+(8) Zuständige Behörde ist die letzte oberste Dienstbehörde. Sie kann ihre Zuständigkeit auf nachgeordnete Behörden übertragen.
 
 # § 106 – Personalakte
 

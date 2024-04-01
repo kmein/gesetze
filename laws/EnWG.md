@@ -862,27 +862,27 @@ Vorratshaltung zur Sicherung der Energieversorgung
 
 § 50a
 
-Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve; Verordnungsermächtigung
+(weggefallen)
 
 § 50b
 
-Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Pflicht zur Betriebsbereitschaft und Brennstoffbevorratung für die befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve
+(weggefallen)
 
 § 50c
 
-Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Ende der befristeten Teilnahme am Strommarkt und ergänzende Regelungen zur Kostenerstattung
+(weggefallen)
 
 § 50d
 
-Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung
+(zukünftig in Kraft)
 
 § 50e
 
-Verordnungsermächtigung zu Maßnahmen zur Ausweitung des Stromerzeugungsangebots und Festlegungskompetenz der Bundesnetzagentur
+(weggefallen)
 
 § 50f
 
-Verordnungsermächtigung für Maßnahmen zur Reduzierung der Gasverstromung zur reaktiven und befristeten Gaseinsparung
+(weggefallen)
 
 § 50g
 
@@ -890,11 +890,11 @@ Flexibilisierung der Gasbelieferung
 
 § 50h
 
-Vertragsanalyse der Gaslieferanten für Letztverbraucher
+(weggefallen)
 
 § 50i
 
-Verhältnis zum Energiesicherungsgesetz
+(weggefallen)
 
 § 50j
 
@@ -5376,69 +5376,11 @@ als Vorrat zu halten, die erforderlich sind, um bei Betrieb der Anlage zur Erzeu
 
 3. den für die Berechnung der Vorratsmengen maßgeblichen Zeitraum zu verlängern, soweit dies erforderlich ist, um die Vorratspflicht an Rechtsakte der Europäischen Gemeinschaften über Mindestvorräte fossiler Brennstoffe anzupassen.
 
-# § 50a – Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve; Verordnungsermächtigung
+# § 50a – (weggefallen)
 
-(1) Die Bundesregierung kann nach Ausrufung der Alarmstufe oder Notfallstufe nach Artikel 8 Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober 2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom 28.10.2017, S. 1), die durch die Delegierte Verordnung (EU) 2022/517 (ABl. L 104 vom 1.4.2022, S. 53) geändert worden ist, in Verbindung mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und Energie vom September 2019, der auf der Internetseite des Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates zulassen, dass die Betreiber solcher Anlagen, die nach § 13b Absatz 4 und 5 und § 13d sowie nach Maßgabe der Netzreserveverordnung in der Netzreserve vorgehalten werden und die kein Erdgas zur Erzeugung elektrischer Energie einsetzen, befristet am Strommarkt teilnehmen. In der Rechtsverordnung nach Satz 1 ist zugleich der Zeitraum für die befristete Teilnahme am Strommarkt nach Satz 1 festzulegen, die längstens bis zum Ablauf des 31. März 2024 zulässig ist.
+# § 50b – (weggefallen)
 
-(2) Die befristete Teilnahme am Strommarkt nach Absatz 1 ist durch den Anlagenbetreiber mindestens fünf Werktage vor Beginn gegenüber der Bundesnetzagentur und dem Betreiber des Übertragungsnetzes mit Regelzonenverantwortung, in dessen Regelzone sich die Anlage befindet, anzuzeigen.
-
-(3) Während der befristeten Teilnahme am Strommarkt nach Absatz 1 darf der Betreiber
-
-1. die elektrische Leistung oder Arbeit und die thermische Leistung der Anlage ganz oder teilweise veräußern und
-
-2. Kohle verfeuern.
-
-Der Betreiber der Anlage ist insoweit von den Beschränkungen des § 13c Absatz 2 Satz 1, Absatz 4 Satz 1, des § 13d Absatz 3 und des § 7 Absatz 1 der Netzreserveverordnung und von dem Verbot der Kohleverfeuerung nach § 51 Absatz 1 Satz 1 des Kohleverstromungsbeendigungsgesetzes ausgenommen. § 13b Absatz 4 und 5 sowie § 13d sind entsprechend anzuwenden.
-
-(4) Endgültige Stilllegungen von Anlagen, für die nach § 51 Absatz 1 und 2 Nummer 1 Buchstabe c und d des Kohleverstromungsbeendigungsgesetzes in den Jahren 2022 und 2023 ein Verbot der Kohleverfeuerung wirksam wird, sind bis zum 31. März 2024 verboten, soweit ein Weiterbetrieb technisch und rechtlich möglich ist. Anlagen nach Satz 1 werden durch die Betreiber von Übertragungsnetzen ab dem Zeitpunkt, zu dem das Verbot der Kohleverfeuerung wirksam wird, in entsprechender Anwendung von § 13d zum Zweck der Vorsorge vor einer möglichen Gefährdung der Gasversorgung in der Netzreserve vorgehalten. § 13b Absatz 4 Satz 4, § 13b Absatz 5 Satz 11, die §§ 13c und 13d und die Netzreserveverordnung sind entsprechend anzuwenden. Auf die Anlagen nach Satz 1 sind die Absätze 1 bis 3 sowie die §§ 50b und 50c ebenfalls anwendbar. Das Verbot der Kohleverfeuerung nach § 51 des Kohleverstromungsbeendigungsgesetzes ist für eine Anlage unwirksam, solange sie nach Satz 2 in der Netzreserve vorgehalten wird.
-
-(5) Vorläufige und endgültige Stilllegungen von Anlagen, die am 12. Juli 2022 nach § 13b Absatz 4 und 5 und § 13d sowie nach Maßgabe der Netzreserveverordnung in der Netzreserve vorgehalten werden, sind bis zum 31. März 2024 verboten, soweit ein Weiterbetrieb rechtlich und technisch möglich ist. § 13b Absatz 4 Satz 4, Absatz 5 Satz 11, die §§ 13c und 13d und die Netzreserveverordnung sind entsprechend anzuwenden.
-
-(+++ § 50a Abs. 5: Zur Anwendung vgl. § 50b Abs. 6 (bis 31.3.2024 +++)
-
-# § 50b – Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Pflicht zur Betriebsbereitschaft und Brennstoffbevorratung für die befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve
-
-(1) Der Betreiber einer Anlage, die nach § 13b Absatz 4 und 5 und § 13d sowie nach Maßgabe der Netzreserveverordnung in der Netzreserve vorgehalten wird, muss die Anlage während des Zeitraums, in dem die Frühwarnstufe, Alarmstufe oder Notfallstufe nach Artikel 8 Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober 2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom 28.10.2017, S. 1), die durch die Delegierte Verordnung (EU) 2022/517 (ABl. L 104 vom 1.4.2022, S. 53) geändert worden ist, in Verbindung mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und Energie vom September 2019, der auf der Internetseite des Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht ist, ausgerufen ist, frühestens aber ab dem 1. November 2022 für die befristete Teilnahme am Strommarkt im Dauerbetrieb betriebsbereit halten.
-
-(2) Zur Einhaltung der Verpflichtung zur Betriebsbereitschaft der Anlage nach Absatz 1 muss der Betreiber insbesondere
-
-1. jeweils zum 1. November der Jahre 2022 und 2023 und jeweils zum 1. Februar der Jahre 2023 und 2024 Brennstoffvorräte in einem Umfang bereithalten, die es ermöglichen,
-
-a) bei Einsatz von Kohle zur Erzeugung elektrischer Energie für 30 Kalendertage die Abgabeverpflichtungen an Elektrizität bei Betrieb der Anlage mit der maximal möglichen Nettonennleistung zu decken oder
-
-b) bei Einsatz von Mineralöl zur Erzeugung elektrischer Energie für zehn Kalendertage die Abgabeverpflichtung an Elektrizität bei Betrieb der Anlage mit der maximal möglichen Nettonennleistung zu decken,
-
-2. die Brennstoffversorgung für einen Dauerbetrieb auch bei einer befristeten Teilnahme am Strommarkt nach § 50a sicherstellen und
-
-3. der Bundesnetzagentur und dem Betreiber des Übertragungsnetzes mit Regelzonenverantwortung ab dem 1. November 2022 monatlich nachweisen, dass die Verpflichtungen nach den Nummern 1 und 2 eingehalten werden.
-
-(3) Die Brennstoffvorräte nach Absatz 2 Nummer 1 müssen am Standort der Anlage gelagert werden. Die Lagerung an einem anderen Lagerort ist zulässig, wenn
-
-1. es sich hierbei um ein ergänzendes Lager zu dem Lager am Standort der Anlage handelt und
-
-2. der Transport der weiteren Brennstoffvorräte zu dem Standort der Anlage innerhalb von zehn Kalendertagen gewährleistet ist.
-
-Ist die Einhaltung der Anforderungen an Bevorratung und Lagerung nach Satz 1 und Absatz 2 Nummer 1 für den Betreiber der Erzeugungsanlage im Einzelfall unmöglich, kann die Bundesnetzagentur auf Antrag zulassen, dass die Verpflichtung zur Betriebsbereitschaft als erfüllt gilt, wenn der Betreiber der Erzeugungsanlage in jedem Kalendermonat nachweist, dass die vorhandenen Lagerkapazitäten vollständig mit Brennstoffen befüllt sind.
-
-(4) Die Verpflichtung zur Betriebsbereitschaft der Anlage nach Absatz 1 umfasst auch, dass die Anlage während der befristeten Teilnahme am Strommarkt in einem Zustand erhalten wird, der eine Anforderung zur weiteren Vorhaltung der Betriebsbereitschaft nach § 13b Absatz 4 sowie für Anforderungen für Anpassungen der Einspeisung durch die Übertragungsnetzbetreiber nach § 13 Absatz 1 und 2 und § 13a Absatz 1 jederzeit während der befristeten Teilnahme am Strommarkt ermöglicht. Dies ist auch anzuwenden für die Zeit nach der befristeten Teilnahme am Strommarkt, wenn die Anlage weiterhin in der Netzreserve vorgehalten wird. Absatz 2 Nummer 1 und Absatz 3 sind für eine Anlage während der Dauer der befristeten Teilnahme am Strommarkt nicht anzuwenden. Der jeweilige Betreiber des Übertragungsnetzes mit Regelzonenverantwortung ist in den Fällen des Satzes 3 berechtigt, gegenüber dem Betreiber einer Anlage Vorgaben zur Brennstoffbevorratung zu machen, sofern dies für die Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungsnetzes erforderlich ist.
-
-(5) Die Absätze 1 bis 3 sind auch für Betreiber von Anlagen anzuwenden, die erst ab dem 1. November 2022 in der Netzreserve vorgehalten werden. § 13c Absatz 3 Satz 1 Nummer 2 ist für Maßnahmen, die zur Herstellung oder Aufrechterhaltung der Betriebsbereitschaft der Anlage vor dem 1. November 2022 vorgenommen werden, entsprechend anzuwenden.
-
-(6) Der Betreiber einer Anlage, die nach § 13b Absatz 4 und 5 und nach § 13d sowie nach Maßgabe der Netzreserveverordnung in der Netzreserve vorgehalten wird und die vor dem 1. Januar 1970 in Betrieb genommen wurde, kann dem Betreiber des Übertragungsnetzes mit Regelzonenverantwortung, in dessen Regelzone sich die Anlage befindet, und der Bundesnetzagentur bis zum 9. August 2022 anzeigen, dass er von den Regelungen nach den Absätzen 1 bis 3 ausgenommen werden möchte. Eine befristete Teilnahme am Strommarkt nach § 50a ist nach einer Anzeige nach Satz 1 ausgeschlossen und § 50a Absatz 5 ist nicht anwendbar.
-
-(+++ § 50b: Zur Anwendung vgl. § 50a Abs. 4 (bis 31.3.2024) +++)
-
-# § 50c – Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Ende der befristeten Teilnahme am Strommarkt und ergänzende Regelungen zur Kostenerstattung
-
-(1) Die befristete Teilnahme am Strommarkt endet spätestens zu dem in der Rechtsverordnung nach § 50a Absatz 1 Satz 2 festgelegten Datum.
-
-(2) Der Anlagenbetreiber kann die befristete Teilnahme am Strommarkt für eine Anlage vorzeitig beenden. Der Anlagenbetreiber hat den Zeitpunkt der vorzeitigen Beendigung gegenüber der Bundesnetzagentur und dem Betreiber des Übertragungsnetzes mit Regelzonenverantwortung, in dessen Regelzone sich die Anlage befindet, unter Einhaltung einer Frist von vier Wochen vor der Beendigung anzuzeigen. Nach einer vorzeitigen Beendigung ist eine erneute befristete Teilnahme dieser Anlage am Strommarkt ausgeschlossen. Wird durch Rechtsverordnung nach § 50a Absatz 1 Satz 1 und 2 ein weiterer Zeitraum zur befristeten Teilnahme am Strommarkt bestimmt, darf der Betreiber der Anlage abweichend von Satz 3 auch in diesem weiteren Zeitraum befristet am Strommarkt teilnehmen.
-
-(3) Mit der Beendigung oder der vorzeitigen Beendigung der befristeten Teilnahme am Strommarkt gelten wieder die Rechte und Pflichten, die aufgrund der Vorhaltung in der Netzreserve gemäß § 13c Absatz 2 Satz 1, Absatz 4 Satz 1, § 13d Absatz 3 und § 7 der Netzreserveverordnung bestehen. Dies gilt nur, wenn die Anlage noch als systemrelevant ausgewiesen ist. Sofern die Systemrelevanz einer Anlage am 31. März 2024 im Fall einer angezeigten endgültigen Stilllegung nicht mehr ausgewiesen ist, hat der Betreiber die Anlage endgültig stillzulegen.
-
-(4) Die befristete Teilnahme am Strommarkt nach § 50a wird bei der Bestimmung des Zeitpunktes für die Ermittlung der Rückerstattung investiver Vorteile nach § 13c Absatz 4 Satz 3 im Fall einer endgültigen Stilllegung und nach § 13c Absatz 2 Satz 3 im Fall einer vorläufigen Stilllegung nicht berücksichtigt. Wiederherstellungskosten, die nach dem 1. Juni 2022 entstanden sind, können zeitanteilig der Netzreserve und dem Zeitraum der befristeten Teilnahme am Strommarkt zugeordnet und erstattet werden. Im Übrigen findet während der befristeten Teilnahme am Strommarkt keine Kostenerstattung nach § 13c sowie nach § 9 Absatz 2 und § 10 der Netzreserveverordnung statt.
-
-(+++ § 50c: Zur Anwendung vgl. § 50a Abs. 4 (bis 31.3.2024 +++)
+# § 50c – (weggefallen)
 
 # § 50d – Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung
 
@@ -5470,59 +5412,9 @@ Im Fall der Reserveanlagen nach § 13g Absatz 1 Satz 1 Nummer 4 richtet sich die
 
 (9) Die Absätze 1 bis 8 dürfen nur nach Maßgabe und für die Dauer einer beihilferechtlichen Genehmigung der Europäischen Kommission angewendet werden.
 
-# § 50e – Verordnungsermächtigung zu Maßnahmen zur Ausweitung des Stromerzeugungsangebots und Festlegungskompetenz der Bundesnetzagentur
+# § 50e – (weggefallen)
 
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über Einzelheiten des Verfahrens zur befristeten Teilnahme am Strommarkt von Anlagen aus der Netzreserve nach den §§ 50a bis 50c und zur befristeten Versorgungsreserve Braunkohle nach § 50d.
-
-(2) Die Bundesregierung kann nach Ausrufung der Alarmstufe oder Notfallstufe nach Artikel 8 Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober 2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom 28.10.2017, S. 1), die durch die Delegierte Verordnung (EU) 2022/517 (ABl. L 104 vom 1.4.2022, S. 53) geändert worden ist, in Verbindung mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und Energie vom September 2019, der auf der Internetseite des Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht ist, oder nach Übermittlung einer Frühwarnung gemäß Artikel 14 Absatz 1 der Verordnung (EU) 2019/941 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über die Risikovorsorge im Elektrizitätssektor und zur Aufhebung der Richtlinie 2005/89/EG, durch Deutschland oder einen Mitgliedsstaat, dessen Übertragungsnetzbetreiber mit den deutschen Übertragungsnetzbetreibern dasselbe regionale Koordinierungszentrum nach Maßgabe von Artikel 36 der Verordnung (EU) 2019/943 teilt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zulassen, dass die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung befristet Anlagen, die nach § 13b Absatz 4 und 5, § 13d oder § 50a Absatz 4 Satz 2 sowie nach Maßgabe der Netzreserveverordnung in der Netzreserve im Inland vorgehalten werden, zur Veräußerung von Strommengen aus diesen Anlagen am Strommarkt einsetzen oder die Betreiber dieser Anlagen zu einer Veräußerung dieser Strommengen auffordern (Vermarktung von Reserveanlagen). In der Rechtsverordnung sollen insbesondere Regelungen getroffen werden
-
-1. zur Regelung konkretisierender Einsatzkriterien,
-
-2. zur näheren Bestimmung der nach Satz 1 einzusetzenden Anlagen der Netzreserve, deren Erzeugungsmengen am Strommarkt eingesetzt werden können, insbesondere zur Regelung einer Ausnahme für die Anlagen, die nach § 50a Absatz 1 in Verbindung mit der Stromangebotsausweitungsverordnung befristet am Strommarkt teilnehmen,
-
-3. zu den Einzelheiten und der operativen Ausgestaltung der Vermarktung gemäß derer die Übertragungsnetzbetreiber mit Regelzonenverantwortung die erzeugten Strommengen am Strommarkt einsetzen dürfen und deren Verhältnis zu den bestehenden Netzreserveverträgen, dies schließt die Vermarktung von Strommengen durch die Anlagenbetreiber auf Anweisung des Übertragungsnetzbetreibers mit Regelzonenverantwortung ein,
-
-4. zur Konkretisierung des Zeitraums in dem die Vermarktung zugelassen wird, die längstens bis zum Ablauf des 31. März 2024 zulässig ist,
-
-5. zur Regelung der Erstattung von Kosten, die durch den Einsatz in der Vermarktung von Reserveanlagen entstehen, soweit diese nicht bereits anderweitig ersetzt werden,
-
-6. zum Verhältnis der Vergütungsregelungen in den Reserven nach § 13c dieses Gesetzes sowie § 6 der Netzreserveverordnung,
-
-7. zur Verwendung von Strommarkterlösen, soweit diese durch die Vermarktung erzielt werden und
-
-8. zur Einhaltung und Herstellung von Transparenz für die Regulierungsbehörde und alle Marktteilnehmer.
-
-Während der Vermarktung von Reserveanlagen nach Satz 1 darf der Betreiber, in dem Fall, dass dieser die Mengen veräußert, die elektrische Leistung oder Arbeit und die thermische Leistung der Anlage ganz oder teilweise am Strommarkt veräußern und Kohle verfeuern.
-
-(3) Die Bundesnetzagentur kann durch Festlegungen nach § 29 Absatz 1 nähere Bestimmungen zu den Nachweisen nach § 50b Absatz 2 Nummer 3 erlassen.
-
-# § 50f – Verordnungsermächtigung für Maßnahmen zur Reduzierung der Gasverstromung zur reaktiven und befristeten Gaseinsparung
-
-(1) Die Bundesregierung kann nach Ausrufung der Alarmstufe oder Notfallstufe nach Artikel 8 Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober 2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom 28.10.2017, S. 1), die durch die Delegierte Verordnung (EU) 2022/517 (ABl. L 104 vom 1.4.2022, S. 53) geändert worden ist, in Verbindung mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und Energie vom September 2019, der auf der Internetseite des Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates Regelungen zur Verringerung oder zum vollständigen Ausschluss der Erzeugung elektrischer Energie durch den Einsatz von Erdgas für einen Zeitraum von längstens neun Monaten erlassen. Insbesondere können durch Rechtsverordnung Regelungen getroffen werden
-
-1. zu den Anlagen, auf die die Rechtsverordnung anzuwenden ist; hierfür kann auf die Größe der Anlage und zu deren Ermittlung insbesondere auf die elektrische Nettonennleistung der Anlagen zur Erzeugung elektrischer Energie durch den Einsatz von Erdgas abgestellt werden,
-
-2. zur rechtlichen Begrenzung oder zum rechtlichen Ausschluss des Betriebs der Anlagen, in denen elektrische Energie durch den Einsatz von Erdgas erzeugt wird,
-
-3. zur Sicherstellung, dass die Anlagen, auf die die Rechtsverordnung nach Satz 1 anzuwenden ist, auf Anforderung der Betreiber von Übertragungsnetzen für Maßnahmen nach § 13 zur Verfügung stehen,
-
-4. zur Ermittlung und zur Höhe eines angemessenen Ausgleichs für den Ausschluss oder die Begrenzung der Vollbenutzungsstunden für die Erzeugung elektrischer Energie durch den Einsatz von Erdgas,
-
-5. zur Sicherstellung, dass Erdgas, das durch die Verringerung oder den Ausschluss der Erzeugung elektrischer Energie durch den Einsatz von Erdgas eingespart wird, in vorhandenen Gasspeicheranlagen eingespeichert wird, insbesondere durch ein Vorkaufsrecht des Marktgebietsverantwortlichen, und
-
-6. zu den Entscheidungsbefugnissen der Bundesnetzagentur.
-
-In der Rechtsverordnung nach Satz 1 muss die Bundesregierung
-
-1. Anlagen, soweit darin Wärme erzeugt wird, die nicht dauerhaft auf andere Weise erzeugt werden kann,
-
-2. Anlagen der Bundeswehr einschließlich ihrer Unternehmen zur Erfüllung ihrer außerhalb einer Teilnahme am Strommarkt liegenden Aufgaben und
-
-3. Anlagen, soweit sie Fahrstrom für Eisenbahnen erzeugen,
-
-von der rechtlichen Begrenzung oder dem Ausschluss des Betriebs der Anlagen ausnehmen.
-
-(2) Die Versorgung geschützter Kunden im Sinne der Verordnung (EU) 2017/1938 darf durch eine Rechtsverordnung nach Absatz 1 nicht beeinträchtigt werden.
+# § 50f – (weggefallen)
 
 # § 50g – Flexibilisierung der Gasbelieferung
 
@@ -5530,25 +5422,9 @@ von der rechtlichen Begrenzung oder dem Ausschluss des Betriebs der Anlagen ausn
 
 (2) Verzichtet ein Letztverbraucher mit registrierender Leistungsmessung in einem Vertrag, der die Mindestbelieferung einer Anlage mit Gas zum Gegenstand hat, ganz oder teilweise auf den Bezug der Mindestabnahmemengen, hat der Letztverbraucher gegenüber dem Lieferanten einen Anspruch auf Verrechnung der entsprechenden Abnahmemengen. Der Anspruch auf Verrechnung besteht für den jeweils zu dem nach dem Zeitraum korrespondierenden, börslichen Großhandelspreis abzüglich einer Aufwandspauschale in Höhe von 10 Prozent der nicht bezogenen Gasmengen.
 
-# § 50h – Vertragsanalyse der Gaslieferanten für Letztverbraucher
+# § 50h – (weggefallen)
 
-(1) Gaslieferanten stellen den von ihnen belieferten Letztverbrauchern mit registrierender Leistungsmessung jährlich zum 1. Oktober eine Vertragsanalyse zur Verfügung.
-
-(2) Die Vertragsanalyse nach Absatz 1 hat alle erforderlichen Informationen zu enthalten, damit Gaslieferanten und Letztverbraucher bewerten können, inwieweit auf die jeweils relevanten Gasgroßhandelspreise an der Börse reagiert werden kann und inwieweit das Potenzial besteht, sich über den Gaslieferanten oder direkt am Gasgroßhandelsmarkt zu beteiligen. Die Vertragsanalyse muss insbesondere Angaben enthalten
-
-1. zu den jeweils relevanten Gasgroßhandelspreisen an der Börse,
-
-2. zu den Möglichkeiten eines Weiterverkaufs der kontrahierten Mengen durch den Gaslieferanten und den Letztverbraucher,
-
-3. zu den Möglichkeiten einer Partizipation des Letztverbrauchers an dem Verkaufserlös, wenn er zu Gunsten eines Weiterverkaufs seinen Bezug an Gas einstellt oder verringert und
-
-4. zu den möglichen Vertragsänderungen, um eine Partizipation wie unter den Nummern 2 und 3 dargestellt zu ermöglichen.
-
-(3) Um die Einhaltung der Verpflichtung nach Absatz 1 zu überprüfen, kann die Bundesnetzagentur den Gaslieferanten auffordern, die Vertragsanalyse vorzulegen.
-
-# § 50i – Verhältnis zum Energiesicherungsgesetz
-
-Die Vorschriften des Energiesicherungsgesetzes vom 20. Dezember 1974 (BGBl. I S. 3681), das zuletzt durch Artikel 1 des Gesetzes vom 20. Mai 2022 (BGBl. I S. 730) geändert worden ist, bleiben von den §§ 50a bis 50h unberührt.
+# § 50i – (weggefallen)
 
 # § 50j – Evaluierung der Maßnahmen nach den §§ 50a bis 50h
 

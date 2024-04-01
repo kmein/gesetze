@@ -1205,6 +1205,18 @@ a) Straftaten nach einer in § 29 Abs. 3 Satz 2 Nr. 1 in Bezug genommenen Vorsch
 
 b) Straftaten nach den §§ 29a, 30 Abs. 1 Nr. 1, 2 und 4 sowie den §§ 30a und 30b,
 
+7a. aus dem Konsumcannabisgesetz:
+
+a) Straftaten nach einer in § 34 Absatz 3 Satz 2 Nummer 1 in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen,
+
+b) Straftaten nach § 34 Absatz 4,
+
+7b. aus dem Medizinal-Cannabisgesetz:
+
+a) Straftaten nach einer in § 25 Absatz 4 Satz 2 Nummer 1 in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen,
+
+b) Straftaten nach § 25 Absatz 5,
+
 8. aus dem Grundstoffüberwachungsgesetz:  
   
 
@@ -1332,6 +1344,14 @@ b) Straftaten nach § 18 Absatz 7 und 8, jeweils auch in Verbindung mit Absatz 1
 a) besonders schwerer Fall einer Straftat nach § 29 Absatz 1 Satz 1 Nummer 1, 5, 6, 10, 11 oder 13, Absatz 3 unter der in § 29 Absatz 3 Satz 2 Nummer 1 genannten Voraussetzung,
 
 b) eine Straftat nach den §§ 29a, 30 Absatz 1 Nummer 1, 2, 4, § 30a,
+
+5a. aus dem Konsumcannabisgesetz:
+
+Straftaten nach § 34 Absatz 4 Nummer 1, 3 oder Nummer 4,
+
+5b. aus dem Medizinal-Cannabisgesetz:
+
+Straftaten nach § 25 Absatz 5 Nummer 1, 3 oder Nummer 4,
 
 6. aus dem Gesetz über die Kontrolle von Kriegswaffen:
 
@@ -1585,7 +1605,7 @@ ermittelt werden, soweit dies für die Erforschung des Sachverhalts oder die Erm
 
 2. über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes) von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt.
 
-Bezieht sich das Auskunftsverlangen nach Satz 1 Nummer 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 174 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Bezieht sich das Auskunftsverlangen nach Satz 1 Nummer 2 auf als Bestandsdaten erhobene Passwörter oder andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 23 des Telekommunikation-Telemedien-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für ihre Nutzung zur Verfolgung einer besonders schweren Straftat nach § 100b Absatz 2 Nummer 1 Buchstabe a, c, e, f, g, h oder m, Nummer 3 Buchstabe b erste Alternative oder Nummer 5, 6, 9 oder 10 vorliegen.
+Bezieht sich das Auskunftsverlangen nach Satz 1 Nummer 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 174 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Bezieht sich das Auskunftsverlangen nach Satz 1 Nummer 2 auf als Bestandsdaten erhobene Passwörter oder andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 23 des Telekommunikation-Telemedien-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für ihre Nutzung zur Verfolgung einer besonders schweren Straftat nach § 100b Absatz 2 Nummer 1 Buchstabe a, c, e, f, g, h oder m, Nummer 3 Buchstabe b erste Alternative oder Nummer 5, 5a, 5b, 6, 9 oder 10 vorliegen.
 
 (2) Die Auskunft nach Absatz 1 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 174 Absatz 1 Satz 3, § 177 Absatz 1 Nummer 3 des Telekommunikationsgesetzes und § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-Datenschutz- Gesetzes). Das Vorliegen der Voraussetzungen für ein Auskunftsverlangen nach Satz 1 ist aktenkundig zu machen.
 
@@ -1841,7 +1861,7 @@ Bei dem, welcher als Täter oder Teilnehmer einer Straftat oder der Datenhehlere
 
 4. zur Wiederergreifung eines entwichenen Gefangenen.
 
-(2) Diese Beschränkung gilt nicht für Räume, die zur Nachtzeit jedermann zugänglich oder die der Polizei als Herbergen oder Versammlungsorte bestrafter Personen, als Niederlagen von Sachen, die mittels Straftaten erlangt sind, oder als Schlupfwinkel des Glücksspiels, des unerlaubten Betäubungsmittel- und Waffenhandels oder der Prostitution bekannt sind.
+(2) Diese Beschränkung gilt nicht für Räume, die zur Nachtzeit jedermann zugänglich oder die der Polizei als Herbergen oder Versammlungsorte bestrafter Personen, als Niederlagen von Sachen, die mittels Straftaten erlangt sind, oder als Schlupfwinkel des Glücksspiels, des unerlaubten Betäubungsmittel-, Cannabis- und Waffenhandels oder der Prostitution bekannt sind.
 
 (3) Die Nachtzeit umfasst den Zeitraum von 21 bis 6 Uhr.
 
@@ -2113,7 +2133,7 @@ und wenn deshalb die Gefahr droht, daß die Ermittlung der Wahrheit erschwert we
 
 1. eine Straftat nach den §§ 174, 174a, 176 bis 176d, 177, 178, 184b Absatz 2 oder nach § 238 Abs. 2 und 3 des Strafgesetzbuches oder
 
-2. wiederholt oder fortgesetzt eine die Rechtsordnung schwerwiegend beeinträchtigende Straftat nach den §§ 89a, 89c Absatz 1 bis 4, nach § 125a, nach den §§ 224 bis 227, nach den §§ 243, 244, 249 bis 255, 260, nach § 263, nach den §§ 306 bis 306c oder § 316a des Strafgesetzbuches oder nach § 29 Absatz 1 Satz 1 Nummer 1, 10 oder Abs. 3, § 29a Abs. 1, § 30 Abs. 1, § 30a Abs. 1 des Betäubungsmittelgesetzes oder nach § 4 Absatz 3 Nummer 1 Buchstabe a des Neue-psychoaktive-Stoffe-Gesetzes
+2. wiederholt oder fortgesetzt eine die Rechtsordnung schwerwiegend beeinträchtigende Straftat nach den §§ 89a, 89c Absatz 1 bis 4, nach § 125a, nach den §§ 224 bis 227, nach den §§ 243, 244, 249 bis 255, 260, nach § 263, nach den §§ 306 bis 306c oder § 316a des Strafgesetzbuches oder nach § 29 Absatz 1 Satz 1 Nummer 1, 10 oder Abs. 3, § 29a Abs. 1, § 30 Abs. 1, § 30a Abs. 1 des Betäubungsmittelgesetzes oder nach einer in § 34 Absatz 3 Satz 2 Nummer 1, 3 oder Nummer 4 des Konsumcannabisgesetzes in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen oder nach § 34 Absatz 4 des Konsumcannabisgesetzes oder nach einer in § 25 Absatz 4 Satz 2 Nummer 1, 3 oder Nummer 4 des Medizinal-Cannabisgesetzes in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen oder nach § 25 Absatz 5 des Medizinal-Cannabisgesetzes oder nach § 4 Absatz 3 Nummer 1 Buchstabe a des Neue-psychoaktive-Stoffe-Gesetzes
 
 begangen zu haben, und bestimmte Tatsachen die Gefahr begründen, daß er vor rechtskräftiger Aburteilung weitere erhebliche Straftaten gleicher Art begehen oder die Straftat fortsetzen werde, die Haft zur Abwendung der drohenden Gefahr erforderlich und in den Fällen der Nummer 2 eine Freiheitsstrafe von mehr als einem Jahr zu erwarten ist. In die Beurteilung des dringenden Verdachts einer Tatbegehung im Sinne des Satzes 1 Nummer 2 sind auch solche Taten einzubeziehen, die Gegenstand anderer, auch rechtskräftig abgeschlossener, Verfahren sind oder waren.
 
@@ -5643,9 +5663,13 @@ Vernichtung, Unbrauchbarmachung und Beseitigung eines gesetzwidrigen Zustandes s
 
 2. einer in § 330 Abs. 1 Satz 1 des Strafgesetzbuches in Bezug genommenen Vorschrift unter der Voraussetzung, daß der Beschuldigte verdächtig ist, vorsätzlich Leib oder Leben eines anderen oder fremde Sachen von bedeutendem Wert gefährdet zu haben, oder unter einer der in § 330 Abs. 1 Satz 2 Nr. 1 bis 3 des Strafgesetzbuches genannten Voraussetzungen oder nach § 330 Abs. 2, § 330a Abs. 1, 2 des Strafgesetzbuches,
 
-3. den §§ 51, 52 Abs. 1 Nr. 1, 2 Buchstabe c und d, Abs. 5, 6 des Waffengesetzes, den §§ 17 und 18 des Außenwirtschaftsgesetzes, wenn die Tat vorsätzlich begangen wird, oder nach § 19 Abs. 1 bis 3, § 20 Abs. 1 oder 2, jeweils auch in Verbindung mit § 21, oder § 22a Abs. 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen oder
+3. den §§ 51, 52 Abs. 1 Nr. 1, 2 Buchstabe c und d, Abs. 5, 6 des Waffengesetzes, den §§ 17 und 18 des Außenwirtschaftsgesetzes, wenn die Tat vorsätzlich begangen wird, oder nach § 19 Abs. 1 bis 3, § 20 Abs. 1 oder 2, jeweils auch in Verbindung mit § 21, oder § 22a Abs. 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen,
 
-4. einer in § 29 Abs. 3 Satz 2 Nr. 1 des Betäubungsmittelgesetzes in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen oder einer Straftat nach den §§ 29a, 30 Abs. 1 Nr. 1, 2, 4, § 30a oder § 30b des Betäubungsmittelgesetzes
+4. einer in § 29 Abs. 3 Satz 2 Nr. 1 des Betäubungsmittelgesetzes in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen oder einer Straftat nach den §§ 29a, 30 Abs. 1 Nr. 1, 2, 4, § 30a oder § 30b des Betäubungsmittelgesetzes,
+
+5. einer in § 34 Absatz 3 Satz 2 Nummer 1, 3 oder Nummer 4 des Konsumcannabisgesetzes in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen oder einer Straftat nach § 34 Absatz 4 des Konsumcannabisgesetzes oder
+
+6. einer in § 25 Absatz 4 Satz 2 Nummer 1, 3 oder Nummer 4 des Medizinal-Cannabisgesetzes in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen oder einer Straftat nach § 25 Absatz 5 des Medizinal-Cannabisgesetzes
 
 die öffentliche Klage erhoben oder Haftbefehl erlassen worden ist, können mit Beschlag belegt werden. Die Beschlagnahme umfaßt auch das Vermögen, das dem Beschuldigten später zufällt. Die Beschlagnahme ist spätestens nach Beendigung der Hauptverhandlung des ersten Rechtszuges aufzuheben.
 

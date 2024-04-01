@@ -294,6 +294,8 @@ Wird gegen einen Richter durch Urteil eines deutschen Gerichts im Geltungsbereic
 
 1. Freiheitsstrafe von mindestens einem Jahr wegen einer vorsätzlichen Tat,
 
+1a. Freiheitsstrafe von mindestens sechs Monaten wegen einer Tat, die nach § 130 des Strafgesetzbuchs (Volksverhetzung) strafbar ist,
+
 2. Freiheitsstrafe wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist,
 
 3. Aberkennung der Fähigkeit zur Bekleidung öffentlicher Ämter oder
@@ -999,7 +1001,7 @@ f) einer Verfügung über Ermäßigung des Dienstes oder Beurlaubung nach §§ 4
 
 # § 63 – Disziplinarverfahren
 
-(1) Für das Verfahren in Disziplinarsachen gelten die Vorschriften des Bundesdisziplinargesetzes sinngemäß.
+(1) Für das Verfahren in Disziplinarsachen gelten die Vorschriften des Bundesdisziplinargesetzes in der am 31. März 2024 geltenden Fassung sinngemäß.
 
 (2) Über die vorläufige Dienstenthebung und die Einbehaltung von Bezügen sowie über die Aufhebung dieser Maßnahmen entscheidet auf Antrag der obersten Dienstbehörde das Dienstgericht durch Beschluss. Der Beschluß ist der obersten Dienstbehörde und dem Richter zuzustellen.
 

@@ -1063,19 +1063,19 @@ Die Leiterin oder der Leiter der Dienststelle kann bei Maßnahmen, die der Natur
 
 3. Übertragung von Aufgaben der Dienststelle, die üblicherweise von ihren Beschäftigten wahrgenommen werden, auf Dauer an Privatpersonen oder andere Rechtsträger in der Rechtsform des Privatrechts,
 
-4. Erhebung der Disziplinarklage gegen eine Beamtin oder einen Beamten,
+4. Erlass einer Disziplinarverfügung gegen eine Beamtin oder einen Beamten, mit der eine Zurückstufung oder Entfernung aus dem Beamtenverhältnis ausgesprochen wird,
 
 5. Entlassung einer Beamtin oder eines Beamten auf Probe oder auf Widerruf, die oder der die Entlassung nicht selbst beantragt hat,
 
 6. vorzeitiger Versetzung in den Ruhestand und Feststellung der begrenzten Dienstfähigkeit.
 
-(2) Maßnahmen nach Absatz 1 Nummer 4 bis 6 gegenüber den in § 78 Absatz 3 genannten Beschäftigten unterliegen nicht der Mitwirkung. Im Übrigen wird der Personalrat in den Fällen des Absatzes 1 Nummer 4 bis 6 nur auf Antrag der oder des Beschäftigten beteiligt; die oder der Beschäftigte ist von der beabsichtigten Maßnahme rechtzeitig vorher in Kenntnis zu setzen. Der Personalrat kann bei der Mitwirkung nach Absatz 1 Nummer 4 Einwendungen auf die in § 78 Absatz 5 Nummer 1 und 2 bezeichneten Gründe stützen.
+(2) Maßnahmen nach Absatz 1 Nummer 4 bis 6 gegenüber den in § 78 Absatz 4 genannten Beschäftigten unterliegen nicht der Mitwirkung. Im Übrigen wird der Personalrat in den Fällen des Absatzes 1 Nummer 4 bis 6 nur auf Antrag der oder des Beschäftigten beteiligt; die oder der Beschäftigte ist von der beabsichtigten Maßnahme rechtzeitig vorher in Kenntnis zu setzen. Der Personalrat kann bei der Mitwirkung nach Absatz 1 Nummer 4 Einwendungen auf die in § 78 Absatz 5 Nummer 1 und 2 bezeichneten Gründe stützen.
 
 (+++ § 84 Abs. 1 Nummer 2: Zur Nichtanwendung vgl. § 117 Abs. 4 +++)
 
 # § 85 – Ordentliche Kündigung
 
-(1) Der Personalrat wirkt bei der ordentlichen Kündigung durch den Arbeitgeber mit. § 78 Absatz 3 gilt entsprechend. Der Personalrat kann gegen die Kündigung Einwendungen erheben, wenn nach seiner Ansicht
+(1) Der Personalrat wirkt bei der ordentlichen Kündigung durch den Arbeitgeber mit. § 78 Absatz 4 gilt entsprechend. Der Personalrat kann gegen die Kündigung Einwendungen erheben, wenn nach seiner Ansicht
 
 1. bei der Auswahl der zu kündigenden Arbeitnehmerin oder des zu kündigenden Arbeitnehmers soziale Gesichtspunkte nicht oder nicht ausreichend berücksichtigt worden sind,
 

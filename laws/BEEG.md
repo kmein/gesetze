@@ -61,7 +61,7 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 Abweichend von Satz 1 Nummer 3 erste Alternative ist ein minderjähriger nicht freizügigkeitsberechtigter Ausländer oder eine minderjährige nicht freizügigkeitsberechtigte Ausländerin unabhängig von einer Erwerbstätigkeit anspruchsberechtigt.
 
-(8) Ein Anspruch entfällt, wenn die berechtigte Person im letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes ein zu versteuerndes Einkommen nach § 2 Absatz 5 des Einkommensteuergesetzes in Höhe von mehr als 250 000 Euro erzielt hat. Erfüllt auch eine andere Person die Voraussetzungen des Absatzes 1 Satz 1 Nummer 2 oder der Absätze 3 oder 4, entfällt abweichend von Satz 1 der Anspruch, wenn die Summe des zu versteuernden Einkommens beider Personen mehr als 300 000 Euro beträgt.
+(8) Ein Anspruch entfällt, wenn die berechtigte Person im letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes ein zu versteuerndes Einkommen nach § 2 Absatz 5 des Einkommensteuergesetzes in Höhe von mehr als 175 000 Euro erzielt hat. Erfüllt auch eine andere Person die Voraussetzungen des Absatzes 1 Satz 1 Nummer 2 oder der Absätze 3 oder 4, entfällt abweichend von Satz 1 der Anspruch, wenn die Summe des zu versteuernden Einkommens beider Personen mehr als 175 000 Euro beträgt.
 
 # § 2 – Höhe des Elterngeldes
 
@@ -211,7 +211,7 @@ Stehen der berechtigten Person die Einnahmen nur für einen Teil des Lebensmonat
 
 (1) Elterngeld wird als Basiselterngeld oder als Elterngeld Plus gewährt. Es kann ab dem Tag der Geburt bezogen werden. Basiselterngeld kann bis zur Vollendung des 14. Lebensmonats des Kindes bezogen werden. Elterngeld Plus kann bis zur Vollendung des 32. Lebensmonats bezogen werden, solange es ab dem 15. Lebensmonat in aufeinander folgenden Lebensmonaten von zumindest einem Elternteil in Anspruch genommen wird. Für angenommene Kinder und Kinder im Sinne des § 1 Absatz 3 Satz 1 Nummer 1 kann Elterngeld ab Aufnahme bei der berechtigten Person längstens bis zur Vollendung des achten Lebensjahres des Kindes bezogen werden.
 
-(2) Elterngeld wird in Monatsbeträgen für Lebensmonate des Kindes gezahlt. Der Anspruch endet mit dem Ablauf des Lebensmonats, in dem eine Anspruchsvoraussetzung entfallen ist. Die Eltern können die jeweiligen Monatsbeträge abwechselnd oder gleichzeitig beziehen.
+(2) Elterngeld wird in Monatsbeträgen für Lebensmonate des Kindes gezahlt. Der Anspruch endet mit dem Ablauf des Lebensmonats, in dem eine Anspruchsvoraussetzung entfallen ist.
 
 (3) Die Eltern haben gemeinsam Anspruch auf zwölf Monatsbeträge Basiselterngeld. Ist das Einkommen aus Erwerbstätigkeit eines Elternteils in zwei Lebensmonaten gemindert, haben die Eltern gemeinsam Anspruch auf zwei weitere Monate Basiselterngeld (Partnermonate). Statt für einen Lebensmonat Basiselterngeld zu beanspruchen, kann die berechtigte Person jeweils zwei Lebensmonate Elterngeld Plus beziehen.
 
@@ -260,6 +260,8 @@ a) hat ein Elternteil abweichend von Absatz 4 Satz 1 Anspruch auf höchstens 16 
 b) kann Basiselterngeld abweichend von Absatz 1 Satz 3 bis zur Vollendung des 18. Lebensmonats des Kindes bezogen werden und
 
 c) kann Elterngeld Plus abweichend von Absatz 1 Satz 4 bis zur Vollendung des 32. Lebensmonats des Kindes bezogen werden, solange es ab dem 19. Lebensmonat in aufeinander folgenden Lebensmonaten von zumindest einem Elternteil in Anspruch genommen wird.
+
+(6) Ein gleichzeitiger Bezug von Basiselterngeld beider Elternteile ist nur in einem der ersten zwölf Lebensmonate des Kindes möglich. Bezieht einer der beiden Elternteile Elterngeld Plus, so kann dieser Elternteil das Elterngeld Plus gleichzeitig zum Bezug von Basiselterngeld oder von Elterngeld Plus des anderen Elternteils beziehen. § 4b bleibt unberührt. Abweichend von Satz 1 können bei Mehrlingsgeburten und Frühgeburten im Sinne des Absatzes 5 sowie bei Kindern, bei denen eine Behinderung im Sinne von § 2 Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch ärztlich festgestellt wird und bei Kindern, die einen Geschwisterbonus nach § 2a Absatz 1 in Verbindung mit Absatz 2 Satz 3 auslösen, beide Elternteile gleichzeitig Basiselterngeld beziehen.
 
 # § 4a – Berechnung von Basiselterngeld und Elterngeld Plus
 
@@ -637,10 +639,14 @@ Beantragt eine Person Elterngeld, so darf das für die Entgegennahme der Anzeige
 
 (1) Für die vor dem 1. September 2021 geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder ist dieses Gesetz in der bis zum 31. August 2021 geltenden Fassung weiter anzuwenden.
 
-(1a) Soweit dieses Gesetz Mutterschaftsgeld nach dem Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte in Bezug nimmt, gelten die betreffenden Regelungen für Mutterschaftsgeld nach der Reichsversicherungsordnung oder nach dem Gesetz über die Krankenversicherung der Landwirte entsprechend.
+(1a) Für die nach dem 31. August 2021 und vor dem 1. April 2024 geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder ist dieses Gesetz in der bis zum 31. März 2024 geltenden Fassung weiter anzuwenden.
+
+(1b) Soweit dieses Gesetz Mutterschaftsgeld nach dem Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte in Bezug nimmt, gelten die betreffenden Regelungen für Mutterschaftsgeld nach der Reichsversicherungsordnung oder nach dem Gesetz über die Krankenversicherung der Landwirte entsprechend.
 
 (2) Für die dem Erziehungsgeld vergleichbaren Leistungen der Länder sind § 8 Absatz 1 und § 9 des Bundeserziehungsgeldgesetzes in der bis zum 31. Dezember 2006 geltenden Fassung weiter anzuwenden.
 
 (3) § 1 Absatz 7 Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29. Februar 2020 beginnen. § 1 Absatz 7 Satz 1 Nummer 5 in der Fassung des Artikels 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen. § 1 Absatz 7 Satz 1 Nummer 2 Buchstabe c in der Fassung des Artikels 12 Nummer 1 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen.
 
 (4) § 9 Absatz 2 und § 25 sind auf Kinder anwendbar, die nach dem 31. Dezember 2021 geboren oder nach dem 31. Dezember 2021 mit dem Ziel der Adoption aufgenommen worden sind. Zur Erprobung des Verfahrens können diese Regelungen in Pilotprojekten mit Zustimmung des Bundesministeriums für Familie, Senioren, Frauen und Jugend, des Bundesministeriums für Arbeit und Soziales und des Bundesministeriums des Innern, für Bau und Heimat auf Kinder, die vor dem 1. Januar 2022 geboren oder vor dem 1. Januar 2022 zur Adoption aufgenommen worden sind, angewendet werden.
+
+(5) § 1 Absatz 8 ist auf Kinder anwendbar, die ab dem 1. April 2025 geboren oder mit dem Ziel der Adoption angenommen worden sind. Für die ab dem 1. April 2024 und vor dem 1. April 2025 geborenen oder mit dem Ziel der Adoption angenommenen Kinder gilt § 1 Absatz 8 mit der Maßgabe, dass ein Anspruch entfällt, wenn die berechtigte Person im letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes ein zu versteuerndes Einkommen nach § 2 Absatz 5 des Einkommensteuergesetzes in Höhe von mehr als 200 000 Euro erzielt hat. Erfüllt auch eine andere Person die Voraussetzungen des § 1 Absatz 1 Satz 1 Nummer 2 oder des Absatzes 3 oder 4, entfällt in diesem Zeitraum abweichend von § 1 Absatz 8 Satz 1 der Anspruch, wenn die Summe des zu versteuernden Einkommens beider Personen mehr als 200 000 Euro beträgt.

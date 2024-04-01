@@ -221,8 +221,6 @@ und die Handelsrechnung oder Packliste der Ausfuhrgenehmigung in Kopie beizufüg
 
 im grenzüberschreitenden Verkehr mitgeführt werden.
 
-Satz 1 Nummer 2 gilt auch für den in der Anlage III des Betäubungsmittelgesetzes aufgeführten Cannabis in Form von getrockneten Blüten.
-
 (2) Die Vorschriften der §§ 1 bis 12 finden ferner keine Anwendung auf Betäubungsmittel, wenn diese in angemessenen Mengen als Ausrüstungen für die erste Hilfeleistung oder für sonstige dringende Fälle in Autobussen, Eisenbahnzügen, Luftfahrzeugen oder Schiffen im internationalen Verkehr mitgeführt werden.
 
 (3) Die Vorschriften der §§ 7 bis 12 finden keine Anwendung auf Betäubungsmittel, die in Katastrophenfällen durch Hilfsorganisationen, Hersteller oder andere Lieferanten, die eine entsprechende Erlaubnis gemäß § 3 Abs. 1 des Betäubungsmittelgesetzes besitzen, auf der Grundlage der Model Guidelines for the International Provision of Controlled Medicines for Emergency Medical Care der Weltgesundheitsorganisation (Dokument WHO/PSA/96.17; Weltgesundheitsorganisation, 1211 Genf 27, Schweiz) ausgeführt werden.

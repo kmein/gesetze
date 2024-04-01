@@ -3,7 +3,7 @@
  
 # § 1 – Rauchverbot
 
-(1) Das Rauchen ist nach Maßgabe der Absätze 2 und 3 verboten
+(1) Das Rauchen von Tabak- und Cannabisprodukten, einschließlich der Benutzung von elektronischen Zigaretten und erhitzten Tabakerzeugnissen sowie von Geräten zur Verdampfung von Tabak- und Cannabisprodukten ist nach Maßgabe der Absätze 2 und 3 verboten
 
 1. in Einrichtungen des Bundes sowie der Verfassungsorgane des Bundes,
 
@@ -35,7 +35,7 @@ c) Luftfahrzeuge, die für die gewerbsmäßige oder entgeltliche Beförderung vo
 
 d) Fahrgastschiffe, die Fahrgäste im Linienverkehr befördern.
 
-3. Personenbahnhöfe der öffentlichen Eisenbahnen im Sinne dieses Gesetzes sind solche nach § 3 Absatz 1 des Allgemeinen Eisenbahngesetzes in Verbindung mit Anlage 2 (zu den §§ 10 bis 14) Nummer 2 Satz 1 Buchstabe a des Eisenbahnregulierungsgesetzes.
+3. Personenbahnhöfe der öffentlichen Eisenbahnen im Sinne dieses Gesetzes sind solche nach § 3 Absatz 1 des Allgemeinen Eisenbahngesetzes in Verbindung mit Anlage 2 Nummer 2 Buchstabe a des Eisenbahnregulierungsgesetzes.
 
 4. Räume im Sinne dieses Gesetzes sind
 

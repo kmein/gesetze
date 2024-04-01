@@ -1388,7 +1388,7 @@ Leisten Träger der Sozialen Entschädigung nach dem Vierzehnten Buch Übergangs
 
 (2) Bei Teilarbeitslosigkeit ist für die Berechnung das Arbeitsentgelt maßgebend, das in der infolge der Teilarbeitslosigkeit nicht mehr ausgeübten Beschäftigung erzielt wurde.
 
-(3) Für Leistungsempfänger, die Kurzarbeitergeld bezogen haben, wird das regelmäßige Arbeitsentgelt zugrunde gelegt, das zuletzt vor dem Arbeitsausfall erzielt wurde.
+(3) Für Leistungsempfänger, die Kurzarbeitergeld oder Qualifizierungsgeld bezogen haben, wird das regelmäßige Arbeitsentgelt zugrunde gelegt, das zuletzt vor dem Arbeitsausfall erzielt wurde.
 
 (4) Das Regelentgelt wird bis zur Höhe der für den Rehabilitationsträger jeweils geltenden Leistungs- oder Beitragsbemessungsgrenze berücksichtigt, in der Rentenversicherung bis zur Höhe des der Beitragsbemessung zugrunde liegenden Entgelts.
 

@@ -466,6 +466,22 @@ e) sonst zu klären ist, ob Alkoholmissbrauch oder Alkoholabhängigkeit nicht me
 
 Im Falle des Satzes 1 Nummer 2 Buchstabe b sind Zuwiderhandlungen, die ausschließlich gegen § 24c des Straßenverkehrsgesetzes begangen worden sind, nicht zu berücksichtigen.
 
+# § 13a – Klärung von Eignungszweifeln bei Cannabisproblematik
+
+Zur Vorbereitung von Entscheidungen über die Erteilung oder Verlängerung der Fahrerlaubnis oder über die Anordnung von Beschränkungen oder Auflagen ordnet die Fahrerlaubnisbehörde an, dass
+
+1. ein ärztliches Gutachten (§ 11 Absatz 2 Satz 3) beizubringen ist, wenn Tatsachen die Annahme von Cannabisabhängigkeit begründen, oder
+
+2. ein medizinisch-psychologisches Gutachten beizubringen ist, wenn
+
+a) nach dem ärztlichen Gutachten zwar keine Cannabisabhängigkeit, jedoch Anzeichen für Cannabismissbrauch vorliegen oder sonst Tatsachen die Annahme von Cannabismissbrauch begründen,
+
+b) wiederholt Zuwiderhandlungen im Straßenverkehr unter Cannabiseinfluss begangen wurden,
+
+c) die Fahrerlaubnis aus einem der unter den Buchstaben a und b genannten Gründen entzogen war oder
+
+d) sonst zu klären ist, ob Cannabismissbrauch oder Cannabisabhängigkeit nicht mehr besteht.
+
 # § 14 – Klärung von Eignungszweifeln im Hinblick auf Betäubungsmittel und Arzneimittel
 
 (1) Zur Vorbereitung von Entscheidungen über die Erteilung oder die Verlängerung der Fahrerlaubnis oder über die Anordnung von Beschränkungen oder Auflagen ordnet die Fahrerlaubnisbehörde an, dass ein ärztliches Gutachten (§ 11 Absatz 2 Satz 3) beizubringen ist, wenn Tatsachen die Annahme begründen, dass
@@ -476,7 +492,7 @@ Im Falle des Satzes 1 Nummer 2 Buchstabe b sind Zuwiderhandlungen, die ausschlie
 
 3. missbräuchliche Einnahme von psychoaktiv wirkenden Arzneimitteln oder anderen psychoaktiv wirkenden Stoffen
 
-vorliegt. Die Beibringung eines ärztlichen Gutachtens kann angeordnet werden, wenn der Betroffene Betäubungsmittel im Sinne des Betäubungsmittelgesetzes widerrechtlich besitzt oder besessen hat. Die Beibringung eines medizinisch-psychologischen Gutachtens kann angeordnet werden, wenn gelegentliche Einnahme von Cannabis vorliegt und weitere Tatsachen Zweifel an der Eignung begründen.
+vorliegt. Die Beibringung eines ärztlichen Gutachtens kann angeordnet werden, wenn der Betroffene Betäubungsmittel im Sinne des Betäubungsmittelgesetzes widerrechtlich besitzt oder besessen hat.
 
 (2) Die Beibringung eines medizinisch-psychologischen Gutachtens ist für die Zwecke nach Absatz 1 anzuordnen, wenn
 
@@ -2647,7 +2663,7 @@ d) Vor der Untersuchung hat der Gutachter den Betroffenen über Gegenstand und Z
 
 e) Über die Untersuchung sind Aufzeichnungen anzufertigen.
 
-f) In den Fällen der §§ 13 und 14 ist Gegenstand der Untersuchung auch das voraussichtliche künftige Verhalten des Betroffenen, insbesondere ob zu erwarten ist, dass er nicht oder nicht mehr ein Kraftfahrzeug unter Einfluss von Alkohol oder Betäubungsmitteln oder Arzneimitteln führen wird. Hat Abhängigkeit von Alkohol oder Betäubungsmitteln oder Arzneimitteln vorgelegen, muss sich die Untersuchung darauf erstrecken, dass eine stabile Abstinenz besteht. Bei Alkoholmissbrauch, ohne dass Abhängigkeit vorhanden war oder ist, muss sich die Untersuchung darauf erstrecken, ob der Betroffene den Konsum von Alkohol einerseits und das Führen von Kraftfahrzeugen im Straßenverkehr andererseits zuverlässig voneinander trennen kann. Dem Betroffenen kann die Fahrerlaubnis nur dann erteilt werden, wenn sich bei ihm ein grundlegender Wandel in seiner Einstellung zum Führen von Kraftfahrzeugen unter Einfluss von Alkohol oder Betäubungsmitteln oder Arzneimitteln vollzogen hat. Es müssen zum Zeitpunkt der Erteilung der Fahrerlaubnis Bedingungen vorhanden sein, die einen Rückfall als unwahrscheinlich erscheinen lassen. Das Gutachten kann auch geeignete Kurse zur Wiederherstellung der Kraftfahreignung empfehlen. Die Empfehlung darf nur gegenüber Personen erfolgen, die zum Zeitpunkt der Begutachtung nicht Inhaber einer Fahrerlaubnis sind.
+f) In den Fällen der §§ 13 und 14 ist Gegenstand der Untersuchung auch das voraussichtliche künftige Verhalten des Betroffenen, insbesondere ob zu erwarten ist, dass er nicht oder nicht mehr ein Kraftfahrzeug unter Einfluss von Alkohol oder Betäubungsmitteln oder Cannabis oder Arzneimitteln führen wird. Hat Abhängigkeit von Alkohol oder Betäubungsmitteln oder Cannabis oder Arzneimitteln vorgelegen, muss sich die Untersuchung darauf erstrecken, dass eine stabile Abstinenz besteht. Bei Alkoholmissbrauch, ohne dass Abhängigkeit vorhanden war oder ist, muss sich die Untersuchung darauf erstrecken, ob der Betroffene den Konsum von Alkohol einerseits und das Führen von Kraftfahrzeugen im Straßenverkehr andererseits zuverlässig voneinander trennen kann. Dem Betroffenen kann die Fahrerlaubnis nur dann erteilt werden, wenn sich bei ihm ein grundlegender Wandel in seiner Einstellung zum Führen von Kraftfahrzeugen unter Einfluss von Alkohol oder Betäubungsmitteln oder Cannabis oder Arzneimitteln vollzogen hat. Es müssen zum Zeitpunkt der Erteilung der Fahrerlaubnis Bedingungen vorhanden sein, die einen Rückfall als unwahrscheinlich erscheinen lassen. Das Gutachten kann auch geeignete Kurse zur Wiederherstellung der Kraftfahreignung empfehlen. Die Empfehlung darf nur gegenüber Personen erfolgen, die zum Zeitpunkt der Begutachtung nicht Inhaber einer Fahrerlaubnis sind.
 
 g) In den Fällen des § 2a Absatz 4 Satz 1 und Absatz 5 Satz 5 oder des § 4 Absatz 10 Satz 4 des Straßenverkehrsgesetzes oder des § 11 Absatz 3 Nummer 4 bis 9 dieser Verordnung ist Gegenstand der Untersuchung auch die Erwartung an das voraussichtliche künftige Verhalten des Betroffenen, dass er nicht mehr erheblich oder wiederholt gegen verkehrsrechtliche Bestimmungen oder gegen Strafgesetze verstoßen wird. Es sind die Bestimmungen von Buchstabe f Satz 4 bis 6 entsprechend anzuwenden.
 
