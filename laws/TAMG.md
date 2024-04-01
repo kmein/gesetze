@@ -197,7 +197,7 @@
 
 (1) Dieses Gesetz und die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen gelten für
 
-1. Tierarzneimittel im Anwendungsbereich der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021, S. 17) ergänzend zu den Bestimmungen dieser Verordnung,
+1. Tierarzneimittel im Anwendungsbereich der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021, S. 17; L 151 vom 2.6.2022, S. 74), die zuletzt durch die Delegierte Verordnung (EU) 2023/183 (ABl. L 26 vom 30.1.2023, S. 7) geändert worden ist, ergänzend zu den Bestimmungen dieser Verordnung,
 
 2. Tierarzneimittel, die nicht in den Anwendungsbereich der Verordnung (EU) 2019/6 fallen; hierunter fallen insbesondere
 
@@ -215,7 +215,7 @@ d) Tierarzneimittel, die im Rahmen ihrer Herstellung keinen industriellen Prozes
 
 1. Stoffe oder Zubereitungen aus Stoffen, die ausschließlich dazu bestimmt sind, äußerlich am Tier zur Reinigung, zur Pflege, zur Beeinflussung des Aussehens oder des Körpergeruchs angewendet zu werden, soweit ihnen keine Stoffe oder Zubereitungen aus Stoffen zugesetzt sind, die als Wirkstoffe in apothekenpflichtigen Tierarzneimitteln verwendet werden,
 
-2. Biozidprodukte nach Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1; L 303 vom 20.11.2015, S. 109; L 305 vom 21.11.2015, S. 55; L 280 vom 28.10.2017, S. 57), die zuletzt durch die Delegierte Verordnung (EU) 2021/407 (ABl. L 81 vom 9.3.2021, S. 15) geändert worden ist, sowie
+2. Biozidprodukte nach Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1; L 303 vom 20.11.2015, S. 109; L 305 vom 21.11.2015, S. 55; L 280 vom 28.10.2017, S. 57), die zuletzt durch die Delegierte Verordnung (EU) 2021/807 (ABl. L 180 vom 21.5.2021, S. 81) geändert worden ist, sowie
 
 3. Futtermittel nach Artikel 3 Nummer 4 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist.
 
@@ -399,7 +399,7 @@ Die Inhaberin oder der Inhaber der Zulassung für ein Tierarzneimittel hat die P
 
 1. mindestens der Wartezeit nach Artikel 115 der Verordnung (EU) 2019/6 entsprechen und gegebenenfalls einen Sicherheitsfaktor einschließen, der die Art des Tierarzneimittels berücksichtigt, oder,
 
-2. wenn Höchstmengen für Rückstände im Anhang der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 (ABl. L 15 vom 20.1.2010, S. 1; L 293 vom 11.11.2010, S. 72), die zuletzt durch die Durchführungsverordnung (EU) 2021/621 (ABl. L 131 vom 16.4.2021, S. 120) geändert worden ist, festgelegt wurden, sicherstellen, dass diese Höchstmengen in den Lebensmitteln, die von den Tieren gewonnen werden, nicht überschritten werden.
+2. wenn Höchstmengen für Rückstände im Anhang der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 (ABl. L 15 vom 20.1.2010, S. 1; L 293 vom 11.11.2010, S. 72), die zuletzt durch die Durchführungsverordnung (EU) 2023/2203 (ABl. L, 2023/2203, 23.10.2023) geändert worden ist, festgelegt wurden, sicherstellen, dass diese Höchstmengen in den Lebensmitteln, die von den Tieren gewonnen werden, nicht überschritten werden.
 
 (4) Von den Tieren, bei denen diese Prüfungen durchgeführt werden, dürfen Lebensmittel nicht gewonnen werden. Satz 1 gilt nicht, wenn die zuständige Bundesoberbehörde eine angemessene Wartezeit nach Absatz 3 festgelegt hat.
 
@@ -849,7 +849,7 @@ Satz 1 gilt nicht, wenn der Stoff oder die Stoffzusammenstellung
 
 3. in einem Tierarzneimittel enthalten ist, das in einem Betrieb hergestellt wurde, der der allgemeinen Anzeigepflicht nach § 79 Absatz 1 unterliegt.
 
-(5) Es ist verboten, einem der Gewinnung von Lebensmitteln dienenden Tier pharmakologisch wirksame Stoffe zu verabreichen, wenn diese Stoffe in Tabelle 2 des Anhangs der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1; L 293 vom 11.11.2010, S. 72), die zuletzt durch die Durchführungsverordnung (EU) 2021/621 (ABl. L 131 vom 16.4.2021, S. 120) geändert worden ist, aufgeführt sind.
+(5) Es ist verboten, einem der Gewinnung von Lebensmitteln dienenden Tier pharmakologisch wirksame Stoffe zu verabreichen, wenn diese Stoffe in Tabelle 2 des Anhangs der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1; L 293 vom 11.11.2010, S. 72), die zuletzt durch die Durchführungsverordnung (EU) 2023/2203 (ABl. L, 2023/2203, 23.10.2023) geändert worden ist, aufgeführt sind.
 
 # § 40 – Kategorisierung; Verordnungsermächtigung
 
@@ -1853,7 +1853,7 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 17. entgegen § 79 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit § 79 Absatz 2, jeweils auch in Verbindung mit § 79 Absatz 4, entgegen § 79 Absatz 6 Satz 1, auch in Verbindung mit Satz 2, oder entgegen § 79 Absatz 7 Satz 1, auch in Verbindung mit Satz 3, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
-(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021 S. 17) verstößt, indem er vorsätzlich oder fahrlässig
+(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021, S. 17; L 151 vom 2.6.2022, S. 74), die zuletzt durch die Delegierte Verordnung (EU) 2023/183 (ABl. L 26 vom 30.1.2023, S. 7) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 14 Absatz 1 Satz 1, auch in Verbindung mit Artikel 16, eine Packungsbeilage nicht oder nicht zum Zeitpunkt des Bereitstellens auf dem Markt zur Verfügung stellt,
 

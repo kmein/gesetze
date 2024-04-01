@@ -743,7 +743,7 @@ Zeiten einer Teilzeitbeschäftigung sind nur zu dem Teil ruhegehaltfähig, der d
 
 (2) Nicht ruhegehaltfähig sind Dienstzeiten
 
-1. in einem Beamtenverhältnis, das durch eine Entscheidung der in § 41 Abs. 1 des Bundesbeamtengesetzes bezeichneten Art oder durch Disziplinarurteil beendet worden ist,
+1. in einem Beamtenverhältnis, das durch eine Entscheidung der in § 41 Abs. 1 des Bundesbeamtengesetzes bezeichneten Art oder durch die Entfernung aus dem Beamtenverhältnis nach dem Bundesdisziplinargesetz beendet worden ist,
 
 2. in einem Beamtenverhältnis auf Probe oder auf Widerruf, wenn der Beamte entlassen worden ist, weil er eine Handlung begangen hat, die bei einem Beamten auf Lebenszeit mindestens eine Kürzung der Dienstbezüge zur Folge hätte,
 
@@ -1413,7 +1413,7 @@ Im Fall des Satzes 1 Nummer 2 sind Leistungen, die dem Beamten und seinen Hinter
 
 (1) Beamte des Vollzugsdienstes, Beamte des Einsatzdienstes der Feuerwehr und Beamte im Flugverkehrskontrolldienst, die vor Vollendung des 67. Lebensjahres wegen Erreichens der besonderen Altersgrenze in den Ruhestand treten, erhalten neben dem Ruhegehalt einen Ausgleich in Höhe des Fünffachen der Dienstbezüge (§ 1 Abs. 2 Nr. 1, 3 und 4 des Bundesbesoldungsgesetzes) des letzten Monats, jedoch nicht über 4 091 Euro. Dieser Betrag verringert sich um jeweils ein Fünftel für jedes Jahr, das über die besondere Altersgrenze hinaus abgeleistet wird. § 5 Abs. 1 Satz 2 gilt entsprechend. Der Ausgleich ist bei Eintritt in den Ruhestand in einer Summe zu zahlen. Der Ausgleich wird nicht neben einer einmaligen (Unfall-)Entschädigung im Sinne des § 43 gewährt.
 
-(2) Schwebt zum Zeitpunkt des Eintritts in den Ruhestand gegen den Beamten ein Verfahren auf Rücknahme der Ernennung oder ein Verfahren, das nach § 41 Abs. 1 des Bundesbeamtengesetzes zum Verlust der Beamtenrechte führen könnte, oder ist gegen den Beamten Disziplinarklage erhoben worden, darf der Ausgleich erst nach dem rechtskräftigen Abschluss des Verfahrens und nur gewährt werden, wenn kein Verlust der Versorgungsbezüge eingetreten ist. Die disziplinarrechtlichen Vorschriften bleiben unberührt.
+(2) Schwebt zum Zeitpunkt des Eintritts in den Ruhestand gegen den Beamten ein Verfahren auf Rücknahme der Ernennung oder ein Verfahren, das nach § 41 Abs. 1 des Bundesbeamtengesetzes zum Verlust der Beamtenrechte führen könnte, oder ein Disziplinarverfahren, in dem voraussichtlich die Entfernung aus dem Beamtenverhältnis oder die Aberkennung des Ruhegehalts erfolgen wird, darf der Ausgleich erst nach dem rechtskräftigen Abschluss des Verfahrens und nur gewährt werden, wenn kein Verlust der Versorgungsbezüge eingetreten ist. Die disziplinarrechtlichen Vorschriften bleiben unberührt.
 
 (3) Der Ausgleich wird im Falle der Bewilligung von Urlaub bis zum Eintritt in den Ruhestand nach § 95 Abs. 1 Nr. 2 des Bundesbeamtengesetzes nicht gewährt.
 
@@ -1785,7 +1785,7 @@ Dies gilt nicht, soweit der Arbeitgeber mindestens die Hälfte der Beiträge ode
 
 a) wegen einer vorsätzlichen Tat zu Freiheitsstrafe von mindestens zwei Jahren oder
 
-b) wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten
+b) wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates, Volksverhetzung oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten
 
 verurteilt worden ist,
 
@@ -1807,7 +1807,7 @@ Kommt ein Ruhestandsbeamter entgegen den Vorschriften des § 46 Abs. 1 und des �
 
 3. für jede Waise außerdem mit dem Ende des Monats, in dem sie das achtzehnte Lebensjahr vollendet,
 
-4. für jeden Berechtigten, der durch ein deutsches Gericht im Geltungsbereich dieses Gesetzes im ordentlichen Strafverfahren wegen eines Verbrechens zu Freiheitsstrafe von mindestens zwei Jahren oder wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten verurteilt worden ist, mit der Rechtskraft des Urteils.
+4. für jeden Berechtigten, der durch ein deutsches Gericht im Geltungsbereich dieses Gesetzes im ordentlichen Strafverfahren wegen eines Verbrechens zu Freiheitsstrafe von mindestens zwei Jahren oder wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates, Volksverhetzung oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten verurteilt worden ist, mit der Rechtskraft des Urteils.
 
 Entsprechendes gilt, wenn der Berechtigte auf Grund einer Entscheidung des Bundesverfassungsgerichts gemäß Artikel 18 des Grundgesetzes ein Grundrecht verwirkt hat. In den Fällen des Satzes 1 Nr. 4 und des Satzes 2 gilt § 41 sinngemäß. Die §§ 42 und 43 des Bundesbeamtengesetzes finden entsprechende Anwendung.
 

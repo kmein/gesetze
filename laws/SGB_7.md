@@ -3059,7 +3059,7 @@ für die Versicherten und für eine wegen des Gesundheitsschadens erforderliche 
 
 1. infolge des Versicherungsfalls arbeitsunfähig sind oder wegen einer Maßnahme der Heilbehandlung eine ganztägige Erwerbstätigkeit nicht ausüben können und
 
-2. unmittelbar vor Beginn der Arbeitsunfähigkeit oder der Heilbehandlung Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch oder Mutterschaftsgeld hatten.
+2. unmittelbar vor Beginn der Arbeitsunfähigkeit oder der Heilbehandlung Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch oder Mutterschaftsgeld hatten.
 
 (2) Verletztengeld wird auch erbracht, wenn
 
@@ -3115,7 +3115,7 @@ Arbeitseinkommen ist bei der Ermittlung des Regelentgelts mit dem 360. Teil des 
 
 (1a) Für Ansprüche auf Verletztengeld, die vor dem 1. Januar 2001 entstanden sind, ist § 47 Abs. 1 und 2 des Fünften Buches in der vor dem 22. Juni 2000 jeweils geltenden Fassung für Zeiten nach dem 31. Dezember 1996 mit der Maßgabe entsprechend anzuwenden, dass sich das Regelentgelt um 10 vom Hundert, höchstens aber bis zu einem Betrag in Höhe des dreihundertsechzigsten Teils des Höchstjahresarbeitsverdienstes erhöht. Das regelmäßige Nettoarbeitsentgelt ist um denselben Vomhundertsatz zu erhöhen. Satz 1 und 2 gilt für Ansprüche, über die vor dem 22. Juni 2000 bereits unanfechtbar entschieden war, nur für Zeiten vom 22. Juni 2000 an bis zum Ende der Leistungsdauer. Entscheidungen über die Ansprüche, die vor dem 22. Juni 2000 unanfechtbar geworden sind, sind nicht nach § 44 Abs. 1 des Zehnten Buches zurückzunehmen.
 
-(2) Versicherte, die Arbeitslosengeld, Unterhaltsgeld oder Kurzarbeitergeld bezogen haben, erhalten Verletztengeld in Höhe des Krankengeldes nach § 47b des Fünften Buches. Versicherte, die nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch bezogen haben, erhalten Verletztengeld in Höhe des Betrages des Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten Buches.
+(2) Versicherte, die Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld, Qualifizierungsgeld bezogen haben, erhalten Verletztengeld in Höhe des Krankengeldes nach § 47b des Fünften Buches. Versicherte, die nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch bezogen haben, erhalten Verletztengeld in Höhe des Betrages des Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten Buches.
 
 (3) Versicherte, die als Entwicklungshelfer Unterhaltsleistungen nach § 4 Abs. 1 Nr. 1 des Entwicklungshelfer-Gesetzes bezogen haben, erhalten Verletztengeld in Höhe dieses Betrages.
 
@@ -3157,7 +3157,7 @@ Auf das Verletzten- und Übergangsgeld werden von dem gleichzeitig erzielten Ein
 
 1. beitragspflichtiges Arbeitsentgelt oder Arbeitseinkommen, das bei Arbeitnehmern um die gesetzlichen Abzüge und bei sonstigen Versicherten um 20 vom Hundert vermindert ist; dies gilt nicht für einmalig gezahltes Arbeitsentgelt,
 
-2. Mutterschaftsgeld, Krankengeld der Sozialen Entschädigung, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches; dies gilt auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gemindert ist.
+2. Mutterschaftsgeld, Krankengeld der Sozialen Entschädigung, Unterhaltsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches; dies gilt auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gemindert ist.
 
 # § 53 – Vorrang der medizinischen Betreuung durch die Reeder
 

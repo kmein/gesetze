@@ -293,7 +293,7 @@ Im Fall des Satzes 1 Nr. 2 ist § 26 Abs. 2 bei allein mangelnder gesundheitlich
 
 1. wegen einer vorsätzlichen Tat zu einer Freiheitsstrafe von mindestens einem Jahr oder
 
-2. wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat und Gefährdung des demokratischen Rechtsstaates, Landesverrat und Gefährdung der äußeren Sicherheit oder, soweit sich die Tat auf eine Diensthandlung im Hauptamt bezieht, Bestechlichkeit, strafbar ist, zu einer Freiheitsstrafe von mindestens sechs Monaten
+2. wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat und Gefährdung des demokratischen Rechtsstaates, Landesverrat und Gefährdung der äußeren Sicherheit, Volksverhetzung oder, soweit sich die Tat auf eine Diensthandlung im Hauptamt bezieht, Bestechlichkeit, strafbar ist, zu einer Freiheitsstrafe von mindestens sechs Monaten
 
 verurteilt wird, endet das Beamtenverhältnis mit der Rechtskraft des Urteils. Entsprechendes gilt, wenn die Fähigkeit zur Bekleidung öffentlicher Ämter aberkannt wird oder wenn die Beamtin oder der Beamte aufgrund einer Entscheidung des Bundesverfassungsgerichts nach Artikel 18 des Grundgesetzes ein Grundrecht verwirkt hat.
 
@@ -429,7 +429,9 @@ Eine Nebentätigkeit ist grundsätzlich anzeigepflichtig. Sie ist unter Erlaubni
 
 # § 41 – Tätigkeit nach Beendigung des Beamtenverhältnisses
 
-Ruhestandsbeamtinnen und Ruhestandsbeamte sowie frühere Beamtinnen mit Versorgungsbezügen und frühere Beamte mit Versorgungsbezügen haben die Ausübung einer Erwerbstätigkeit oder sonstigen Beschäftigung außerhalb des öffentlichen Dienstes, die mit der dienstlichen Tätigkeit innerhalb eines Zeitraums, dessen Bestimmung dem Landesrecht vorbehalten bleibt, im Zusammenhang steht und durch die dienstliche Interessen beeinträchtigt werden können, anzuzeigen. Die Erwerbstätigkeit oder sonstige Beschäftigung ist zu untersagen, wenn zu besorgen ist, dass durch sie dienstliche Interessen beeinträchtigt werden. Das Verbot endet spätestens mit Ablauf von fünf Jahren nach Beendigung des Beamtenverhältnisses.
+(1) Ruhestandsbeamtinnen und Ruhestandsbeamte sowie frühere Beamtinnen mit Versorgungsbezügen und frühere Beamte mit Versorgungsbezügen haben die Ausübung einer Erwerbstätigkeit oder sonstigen Beschäftigung außerhalb des öffentlichen Dienstes, die mit der dienstlichen Tätigkeit innerhalb eines Zeitraums, dessen Bestimmung dem Landesrecht vorbehalten bleibt, im Zusammenhang steht und durch die dienstliche Interessen beeinträchtigt werden können, anzuzeigen. Die Erwerbstätigkeit oder sonstige Beschäftigung ist zu untersagen, wenn zu besorgen ist, dass durch sie dienstliche Interessen beeinträchtigt werden. Das Verbot endet spätestens mit Ablauf von sieben Jahren nach Beendigung des Beamtenverhältnisses.
+
+(2) Durch Landesrecht können für bestimmte Gruppen der in Absatz 1 Satz 1 genannten Beamtinnen und Beamten abweichende Voraussetzungen für eine Anzeige oder Regelungen für eine Genehmigung von Tätigkeiten nach Beendigung des Beamtenverhältnisses bestimmt werden.
 
 # § 42 – Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen
 

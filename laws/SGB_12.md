@@ -2122,13 +2122,7 @@ Der zuständige Träger der Rentenversicherung informiert und berät leistungsbe
 
 # § 46a – Erstattung durch den Bund
 
-(1) Der Bund erstattet den Ländern
-
-1. im Jahr 2013 einen Anteil von 75 Prozent und
-
-2. ab dem Jahr 2014 jeweils einen Anteil von 100 Prozent
-
-der im jeweiligen Kalenderjahr den für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Trägern entstandenen Nettoausgaben für Geldleistungen nach diesem Kapitel.
+(1) Der Bund erstattet den Ländern jeweils einen Anteil von 100 Prozent der im jeweiligen Kalenderjahr den für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Trägern entstandenen Nettoausgaben für Geldleistungen nach diesem Kapitel.
 
 (2) Die Höhe der Nettoausgaben für Geldleistungen nach Absatz 1 ergibt sich aus den Bruttoausgaben der für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Träger, abzüglich der auf diese Geldleistungen entfallenden Einnahmen. Einnahmen nach Satz 1 sind insbesondere Einnahmen aus Aufwendungen, Kostenersatz und Ersatzansprüchen nach dem Dreizehnten Kapitel, soweit diese auf Geldleistungen nach diesem Kapitel entfallen, aus dem Übergang von Ansprüchen nach § 93 sowie aus Erstattungen anderer Sozialleistungsträger nach dem Zehnten Buch.
 
@@ -2144,23 +2138,23 @@ der im jeweiligen Kalenderjahr den für die Ausführung des Gesetzes nach diesem
 
 zulässig (Abrufzeiträume). Werden Leistungen für Leistungszeiträume im folgenden Haushaltsjahr zur fristgerechten Auszahlung an den Leistungsberechtigten bereits im laufenden Haushaltsjahr erbracht, sind die entsprechenden Nettoausgaben im Abrufzeitraum 15. März bis 14. Mai des Folgejahres abzurufen. Der Abruf für Nettoausgaben aus Vorjahren, für die bereits ein Jahresnachweis vorliegt, ist in den darauf folgenden Jahren nach Maßgabe des Absatzes 1 jeweils nur vom 15. Juni bis 14. August zulässig.
 
-(4) Die Länder gewährleisten die Prüfung, dass die Ausgaben für Geldleistungen der für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Träger begründet und belegt sind und den Grundsätzen für Wirtschaftlichkeit und Sparsamkeit entsprechen. Sie haben dies dem Bundesministerium für Arbeit und Soziales für das jeweils abgeschlossene Quartal in tabellarischer Form zu belegen (Quartalsnachweis). In den Quartalsnachweisen sind
+(4) Die Länder gewährleisten die Prüfung, dass die Ausgaben für Geldleistungen der für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Träger begründet und belegt sind und den Grundsätzen für Wirtschaftlichkeit und Sparsamkeit entsprechen. Sie haben dies dem Bundesministerium für Arbeit und Soziales für das jeweils abgeschlossene Quartal in tabellarischer Form zu belegen (Quartalsnachweis). In den Quartalsnachweisen sind zu belegen:
 
 1. die Bruttoausgaben für Geldleistungen nach § 46a Absatz 2 sowie die darauf entfallenden Einnahmen,
 
-2. die Bruttoausgaben und Einnahmen nach Nummer 1, differenziert nach Leistungen für Leistungsberechtigte außerhalb und in Einrichtungen,
+2. die Bruttoausgaben und Einnahmen nach Nummer 1, differenziert nach Leistungen für Leistungsberechtigte
 
-3. erstmals ab dem Jahr 2016 die Bruttoausgaben und Einnahmen nach Nummer 1, differenziert nach Leistungen für Leistungsberechtigte nach § 41 Absatz 2 und 3
+a) in Wohnungen und sonstigen Unterkünften nach § 42a Absatz 2 Satz 1 Nummer 1 und 3,
 
-zu belegen. Die Quartalsnachweise für die Abrufzeiträume nach Absatz 3 Satz 2 Nummer 1 bis 3 sind dem Bundesministerium für Arbeit und Soziales durch die Länder jeweils zwischen dem 15. und dem 20. der Monate Mai, August und November für das jeweils abgeschlossene Quartal vorzulegen, für den Abrufzeitraum nach Absatz 3 Satz 2 Nummer 4 zwischen dem 1. und 5. März des Folgejahres. Die Länder können die Quartalsnachweise auch vor den sich nach Satz 4 ergebenden Terminen vorlegen; ein weiterer Abruf in dem für das jeweilige Quartal nach Absatz 3 Satz 1 geltenden Abrufzeitraum ist nach Vorlage des Quartalsnachweises nicht zulässig.
+b) in der besonderen Wohnform nach § 42a Absatz 2 Nummer 2,
 
-(5) Die Länder haben dem Bundesministerium für Arbeit und Soziales die Angaben nach
+c) in Einrichtungen, für die § 42 Nummer 4 Buchstabe b anzuwenden ist,
 
-1. Absatz 4 Satz 3 Nummer 1 und 2 entsprechend ab dem Kalenderjahr 2015 und
+3. die Bruttoausgaben und Einnahmen nach Nummer 1, differenziert nach Leistungen für Leistungsberechtigte nach § 41 Absatz 2, 3 und 3a.
 
-2. Absatz 4 Satz 3 Nummer 3 entsprechend ab dem Kalenderjahr 2016
+Die Quartalsnachweise für die Abrufzeiträume nach Absatz 3 Satz 2 Nummer 1 bis 3 sind dem Bundesministerium für Arbeit und Soziales durch die Länder jeweils zwischen dem 15. und dem 20. der Monate Mai, August und November für das jeweils abgeschlossene Quartal vorzulegen, für den Abrufzeitraum nach Absatz 3 Satz 2 Nummer 4 zwischen dem 1. und 5. März des Folgejahres. Die Länder können die Quartalsnachweise auch vor den sich nach Satz 4 ergebenden Terminen vorlegen; ein weiterer Abruf in dem für das jeweilige Quartal nach Absatz 3 Satz 1 geltenden Abrufzeitraum ist nach Vorlage des Quartalsnachweises nicht zulässig.
 
-bis 31. März des jeweils folgenden Jahres in tabellarischer Form zu belegen (Jahresnachweis). Die Angaben nach Satz 1 sind zusätzlich für die für die Ausführung nach diesem Kapitel zuständigen Träger zu differenzieren.
+(5) Die Länder haben dem Bundesministerium für Arbeit und Soziales die Angaben nach Absatz 4 Satz 3 jeweils bis zum Ablauf des 31. März des jeweils folgenden Jahres in tabellarischer Form zu belegen (Jahresnachweis). Die Angaben nach Satz 1 sind zusätzlich für die für die Ausführung nach diesem Kapitel zuständigen Träger zu differenzieren.
 
 # § 46b – Zuständigkeit
 

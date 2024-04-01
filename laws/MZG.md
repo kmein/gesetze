@@ -609,7 +609,7 @@ cc) Höhe der gesetzlichen Leistungen bei Erwerbsminderung, Berufs- oder Dienstu
 e) Höhe der erhaltenen öffentlichen Zahlungen und Unterhaltszahlungen:
 
 aa)  
-Höhe der gesetzlichen Leistungen bei Arbeitslosigkeit und der Höhen der Grundsicherung für Arbeitsuchende, insbesondere Höhen des Bürgergeldes, des Bürgergeldbonus und der Weiterbildungsleistungen,
+Höhen der gesetzlichen Leistungen bei Arbeitslosigkeit, bei Aus- und Weiterbildungsförderungen der Bundesagentur für Arbeit, insbesondere Höhen des Qualifizierungsgeldes, und Höhen der Grundsicherung für Arbeitsuchende, insbesondere Höhen des Bürgergeldes, des Bürgergeldbonus und der Weiterbildungsleistungen,
 
 bb)  
 Höhe der laufenden Hilfe zum Lebensunterhalt,

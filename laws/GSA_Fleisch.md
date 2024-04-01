@@ -53,41 +53,13 @@ Bei der Bestimmung der Anzahl der in der Regel tätigen Personen nach Satz 2 sin
 
 (2) Der Inhaber darf im Bereich der Schlachtung einschließlich der Zerlegung von Schlachtkörpern sowie im Bereich der Fleischverarbeitung Arbeitnehmerinnen und Arbeitnehmer nur im Rahmen von mit ihm bestehenden Arbeitsverhältnissen tätig werden lassen. Er darf in diesen Bereichen keine Selbstständigen tätig werden lassen. Ein Dritter darf in diesen Bereichen keine Arbeitnehmerinnen und Arbeitnehmer und keine Selbstständigen tätig werden lassen und keine Leiharbeitnehmerinnen und Leiharbeitnehmer in diese Bereiche überlassen.
 
-(3) Abweichend von Absatz 2 Satz 1 und 3 kann in einem Tarifvertrag von Tarifvertragsparteien der Einsatzbranche festgelegt werden, dass der tarifgebundene Inhaber Leiharbeitnehmerinnen und Leiharbeitnehmer im Bereich der Fleischverarbeitung bis zu einem kalenderjährlichen Arbeitszeitvolumen einsetzen darf, das insgesamt
+(3) Inhaber ist, wer über die Nutzung der Betriebsmittel und den Einsatz des Personals entscheidet. Wenn aufgrund der räumlichen oder funktionalen Einbindung des Betriebes in eine übergreifende Organisation die Arbeitsabläufe in dem Betrieb inhaltlich oder zeitlich im Wesentlichen vorgegeben sind, ist Inhaber, wer die übergreifende Organisation führt.
 
-1. einen Anteil von 8 Prozent des von eigenen Arbeitnehmerinnen und Arbeitnehmern des Inhabers in diesem Bereich kalenderjährlich erbrachten Arbeitszeitvolumens nicht überschreitet und
-
-2. das regelmäßige vertragliche kalenderjährliche Arbeitszeitvolumen von 100 im Bereich der Fleischverarbeitung in Vollzeit beim Inhaber beschäftigten Arbeitnehmerinnen und Arbeitnehmern nicht überschreitet.
-
-Dritte dürfen Leiharbeitnehmerinnen und Leiharbeitnehmer nur überlassen, wenn dies nach Satz 1 zulässig ist. Zur Bestimmung der Quote nach Satz 1 Nummer 1 sind die Arbeitszeiten in der Fleischverarbeitung entsprechend § 6 manipulationssicher separat zu erfassen. Für diese Arbeitnehmerüberlassungen gilt das Arbeitnehmerüberlassungsgesetz mit der Maßgabe, dass
-
-1. abweichend von § 1 Absatz 1b des Arbeitnehmerüberlassungsgesetzes
-
-a) der Verleiher dieselbe Leiharbeitnehmerin oder denselben Leiharbeitnehmer nicht länger als vier aufeinander folgende Monate demselben Entleiher überlassen darf,
-
-b) der Entleiher dieselbe Leiharbeitnehmerin oder denselben Leiharbeitnehmer nicht länger als vier aufeinander folgende Monate tätig werden lassen darf,
-
-c) der Zeitraum vorheriger Überlassungen durch denselben oder einen anderen Verleiher an denselben Entleiher vollständig anzurechnen ist, wenn zwischen den Einsätzen jeweils nicht mehr als sechs Monate liegen,
-
-2. § 1 Absatz 1b Satz 3 bis 8 des Arbeitnehmerüberlassungsgesetzes nicht anwendbar ist und
-
-3. § 8 Absatz 2 bis 4 des Arbeitnehmerüberlassungsgesetzes nicht anwendbar ist.
-
-Der Inhaber hat die Nutzung der Arbeitnehmerüberlassung bei den Behörden der Zollverwaltung in Textform in deutscher Sprache gemäß den Sätzen 6 und 7 anzuzeigen. Die Anzeige ist vor dem Beginn des Einsatzes von Leiharbeitnehmerinnen und Leiharbeitnehmern sowie unverzüglich nach dem Ende des Einsatzes zu erstatten. Die Anzeige muss die für die Prüfung der Einhaltung der Vorgaben der Sätze 1 bis 4 erforderlichen Angaben enthalten. Änderungen bezüglich dieser Angaben hat der Inhaber unverzüglich bei den Behörden der Zollverwaltung anzuzeigen. Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen,
-
-1. nähere Einzelheiten zu den in der Anzeige und Änderungsanzeige erforderlichen Angaben,
-
-2. dass, auf welche Weise und unter welchen technischen und organisatorischen Voraussetzungen Anzeigen und Änderungsanzeigen elektronisch übermittelt werden können sowie
-
-3. welche Behörde nach den Sätzen 5 und 8 für die Entgegennahme der Anzeige und Änderungsanzeige zuständig ist.
-
-(4) Inhaber ist, wer über die Nutzung der Betriebsmittel und den Einsatz des Personals entscheidet. Wenn aufgrund der räumlichen oder funktionalen Einbindung des Betriebes in eine übergreifende Organisation die Arbeitsabläufe in dem Betrieb inhaltlich oder zeitlich im Wesentlichen vorgegeben sind, ist Inhaber, wer die übergreifende Organisation führt.
-
-(5) Eine übergreifende Organisation ist ein überbetrieblicher, nicht notwendig räumlich zusammenhängender Produktionsverbund, in dem ein Unternehmer die Arbeitsabläufe im Bereich der Schlachtung einschließlich der Zerlegung von Schlachtkörpern oder im Bereich der Fleischverarbeitung inhaltlich oder zeitlich im Wesentlichen vorgibt.
+(4) Eine übergreifende Organisation ist ein überbetrieblicher, nicht notwendig räumlich zusammenhängender Produktionsverbund, in dem ein Unternehmer die Arbeitsabläufe im Bereich der Schlachtung einschließlich der Zerlegung von Schlachtkörpern oder im Bereich der Fleischverarbeitung inhaltlich oder zeitlich im Wesentlichen vorgibt.
 
 # § 6b – Prüfung und Befugnisse der Behörden der Zollverwaltung
 
-(1) Die Prüfung der Einhaltung der Vorgaben des § 6a obliegt den Behörden der Zollverwaltung. Abweichend von Satz 1 obliegt die Prüfung der Einhaltung der Vorgabe des § 6a Absatz 3 Satz 4 Nummer 1 Buchstabe a der Bundesagentur für Arbeit.
+(1) Die Prüfung der Einhaltung der Vorgaben des § 6a obliegt den Behörden der Zollverwaltung.
 
 (2) Die §§ 2 bis 6, 14, 15 bis 20, 22 und 23 des Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der Maßgabe, dass
 
@@ -103,11 +75,9 @@ Der Inhaber hat die Nutzung der Arbeitnehmerüberlassung bei den Behörden der Z
 
 1. entgegen § 6a Absatz 1 Satz 1 den Betrieb oder die übergreifende Organisation nicht richtig führt,
 
-2. entgegen § 6a Absatz 2 Satz 1 eine Arbeitnehmerin oder einen Arbeitnehmer tätig werden lässt,
+2. entgegen § 6a Absatz 2 Satz 1 eine Arbeitnehmerin oder einen Arbeitnehmer tätig werden lässt oder
 
-3. entgegen § 6a Absatz 2 Satz 2 einen Selbstständigen tätig werden lässt oder
-
-4. entgegen § 6a Absatz 3 Satz 4 Nummer 1 Buchstabe b eine Leiharbeitnehmerin oder einen Leiharbeitnehmer tätig werden lässt.
+3. entgegen § 6a Absatz 2 Satz 2 einen Selbstständigen tätig werden lässt.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -119,25 +89,17 @@ Der Inhaber hat die Nutzung der Arbeitnehmerüberlassung bei den Behörden der Z
 
 4. entgegen § 6a Absatz 2 Satz 1 eine Arbeitnehmerin oder einen Arbeitnehmer tätig werden lässt,
 
-5. entgegen § 6a Absatz 2 Satz 2 einen Selbstständigen tätig werden lässt,
+5. entgegen § 6a Absatz 2 Satz 2 einen Selbstständigen tätig werden lässt oder
 
-6. entgegen § 6a Absatz 2 Satz 3 eine Arbeitnehmerin oder einen Arbeitnehmer oder einen Selbstständigen tätig werden lässt oder eine Leiharbeitnehmerin oder einen Leiharbeitnehmer überlässt,.
+6. entgegen § 6a Absatz 2 Satz 3 eine Arbeitnehmerin oder einen Arbeitnehmer oder einen Selbstständigen tätig werden lässt oder eine Leiharbeitnehmerin oder einen Leiharbeitnehmer überlässt..
 
-7. entgegen § 6a Absatz 3 Satz 4 Nummer 1 Buchstabe a eine Leiharbeitnehmerin oder einen Leiharbeitnehmer überlässt,
-
-8. entgegen § 6a Absatz 3 Satz 4 Nummer 1 Buchstabe b eine Leiharbeitnehmerin oder einen Leiharbeitnehmer tätig werden lässt oder
-
-9. entgegen § 6a Absatz 3 Satz 5 oder 8, jeweils auch in Verbindung mit einer Rechtsverordnung nach Satz 9 Nummer 1 oder 3, eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet.
-
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 3 sowie des Absatzes 2 Nummer 3 bis 6 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 1 mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 4 sowie des Absatzes 2 Nummer 2, 7 und 8 mit einer Geldbuße bis zu dreißigtausend Euro und in den Fällen des Absatzes 2 Nummer 9 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 sowie des Absatzes 2 Nummer 3 bis 6 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 1 mit einer Geldbuße bis zu fünfzigtausend Euro und in den Fällen des Absatzes 2 Nummer 2 mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
 (4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind
 
-1. in den Fällen der Absätze 1 und 2 Nummer 2 bis 6, 8 und 9 die Behörden der Zollverwaltung jeweils für ihren Geschäftsbereich,
+1. in den Fällen der Absätze 1 und 2 Nummer 2 bis 6 die Behörden der Zollverwaltung jeweils für ihren Geschäftsbereich und
 
-2. in den Fällen des Absatzes 2 Nummer 1 der Versicherungsträger und
-
-3. in den Fällen des Absatzes 2 Nummer 7 die Bundesagentur für Arbeit.
+2. in den Fällen des Absatzes 2 Nummer 1 der Versicherungsträger.
 
 # § 8 – Evaluation
 

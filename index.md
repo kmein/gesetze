@@ -145,7 +145,6 @@
 - [ALBeitrBek 2022](laws/ALBeitrBek_2022.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2022
 - [ALBeitrBek 2023](laws/ALBeitrBek_2023.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2023
 - [ALBeitrBek 2024](laws/ALBeitrBek_2024.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2024
-- [ALFV](laws/ALFV.md) Verordnung über die Anzeigepflicht von Leiharbeit in der Fleischwirtschaft
 - [ALG](laws/ALG.md) Gesetz über die Alterssicherung der Landwirte
 - [AlkopopStG](laws/AlkopopStG.md) Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetränke (Alkopops) zum Schutz junger Menschen
 - [AlkopopStV](laws/AlkopopStV.md) Verordnung über das Verfahren zur Berechnung des Netto-Mehraufkommens der nach dem Alkopopsteuergesetz erhobenen Alkopopsteuer
@@ -761,7 +760,6 @@
 - [BGebG](laws/BGebG.md) Gesetz über Gebühren und Auslagen des Bundes
 - [BGeoRG](laws/BGeoRG.md) Gesetz über die geodätischen Referenzsysteme, -netze und geotopographischen Referenzdaten des Bundes
 - [BGG](laws/BGG.md) Gesetz zur Gleichstellung von Menschen mit Behinderungen
-- [BGH/BPatGERVV](laws/BGH_BPatGERVV.md) Verordnung über den elektronischen Rechtsverkehr beim Bundesgerichtshof und Bundespatentgericht
 - [BGHolzMetallDiszRZustAnO](laws/BGHolzMetallDiszRZustAnO.md) Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Berufsgenossenschaft Holz und Metall
 - [BGHWidVertrAnO](laws/BGHWidVertrAnO.md) Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden sowie der Vertretung bei Klagen von Richterinnen und Richtern sowie Beamtinnen und Beamten des Bundesgerichtshofs in Angelegenheiten der Besoldung
 - [BGL 2002](laws/BGL_2002.md) Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2002
@@ -931,6 +929,7 @@
 - [BMASZustAnO](laws/BMASZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundesministeriums für Arbeit und Soziales in Angelegenheiten von Besoldung, von Amtsbezügen und nach dem Bundesreisekostengesetz, dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Verordnungen und nach den Beihilfevorschriften des Bundes
 - [BmAusV](laws/BmAusV.md) Verordnung über die Berufsausbildung zum Bogenmacher und zur Bogenmacherin*
 - [BMDV-WS-BesGebV](laws/BMDV-WS-BesGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung
+- [BMDVDelegatAnO](laws/BMDVDelegatAnO.md) Anordnung über die Übertragung beamtenrechtlicher Zuständigkeiten im Geschäftsbereich des Bundesministeriums für Digitales und Verkehr
 - [BMDVTKBGebV](laws/BMDVTKBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für telekommunikationsrechtliche Tätigkeiten
 - [BMELBGebV](laws/BMELBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 - [BMeldDAV](laws/BMeldDAV.md) Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder
@@ -1497,7 +1496,6 @@
 - [DialogmServAusbV](laws/DialogmServAusbV.md) Verordnung über die Berufsausbildung zur Servicefachkraft für Dialogmarketing
 - [DienstRÄndG 2](laws/DienstRÄndG_2.md) Zweites Gesetz zur Änderung dienstrechtlicher Vorschriften (Angehörige des öffentlichen Dienstes in Landesparlamenten)
 - [DienstRÄndG 5](laws/DienstRÄndG_5.md) Fünftes Gesetz zur Änderung dienstrechtlicher Vorschriften
-- [DIFG](laws/DIFG.md) Gesetz zur Errichtung des Sondervermögens „Digitale Infrastruktur“
 - [DiGAV](laws/DiGAV.md) Verordnung über das Verfahren und die Anforderungen zur Prüfung der Erstattungsfähigkeit digitaler Gesundheitsanwendungen in der gesetzlichen Krankenversicherung
 - [DigiManKflAusbV](laws/DigiManKflAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für Digitalisierungsmanagement und zur Kauffrau für Digitalisierungsmanagement*
 - [DIMDIAMV](laws/DIMDIAMV.md) Verordnung über das datenbankgestützte Informationssystem über Arzneimittel des Bundesinstituts für Arzneimittel und Medizinprodukte*)
@@ -1759,7 +1757,6 @@
 - [EnSiG](laws/EnSiG.md) Gesetz zur Sicherung der Energieversorgung
 - [EnSiGEntschV](laws/EnSiGEntschV.md) Verordnung über das Verfahren zur Festsetzung von Entschädigung und Härteausgleich nach dem Energiesicherungsgesetz
 - [EnSimiMaV](laws/EnSimiMaV.md) Verordnung zur Sicherung der Energieversorgung über mittelfristig wirksame Maßnahmen
-- [EnSiTrV](laws/EnSiTrV.md) Verordnung zur priorisierten Abwicklung von schienengebundenen Energieträgertransporten zur Sicherung der Energieversorgung
 - [EnStatG](laws/EnStatG.md) Energiestatistikgesetz
 - [EnSTransV](laws/EnSTransV.md) Verordnung zur Umsetzung unionsrechtlicher Veröffentlichungs-, Informations- und Transparenzpflichten im Energiesteuer- und im Stromsteuergesetz
 - [EntgFG](laws/EntgFG.md) Gesetz über die Zahlung des Arbeitsentgelts an Feiertagen und im Krankheitsfall
@@ -3090,6 +3087,7 @@
 - [KBFG](laws/KBFG.md) Gesetz zur Errichtung eines Sondervermögens „Kinderbetreuungsausbau“
 - [KBNAnrG](laws/KBNAnrG.md) Gesetz zur Nichtanrechnung und Nichtberücksichtigung des Kinderbonus
 - [KBV](laws/KBV.md) Kleinbetragsverordnung
+- [KCanG](laws/KCanG.md) Gesetz zum Umgang mit Konsumcannabis
 - [KDAV](laws/KDAV.md) Verordnung über das automatisierte Verfahren zur Auskunft über Kundendaten nach § 112 des Telekommunikationsgesetzes
 - [KDV](laws/KDV.md) Verordnung zur Krisendestillation von Wein
 - [KDVErstattV](laws/KDVErstattV.md) Verordnung über die Erstattung von Auslagen, Verdienstausfall und Aufwendungen bei der Anhörung im Anerkennungsverfahren als Kriegsdienstverweigerin oder Kriegsdienstverweigerer
@@ -3399,7 +3397,6 @@
 - [LogMstrV](laws/LogMstrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Logistikmeister/Geprüfte Logistikmeisterin
 - [LogopG](laws/LogopG.md) Gesetz über den Beruf des Logopäden
 - [LogSystFachwBAProFV](laws/LogSystFachwBAProFV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Logistiksysteme oder Geprüfte Fachwirtin für Logistiksysteme – Bachelor Professional in Logistiksysteme
-- [LohnUGAÜV 5](laws/LohnUGAÜV_5.md) Fünfte Verordnung über eine Lohnuntergrenze in der Arbeitnehmerüberlassung
 - [LorbBlErl 2013](laws/LorbBlErl_2013.md) Erlass über die Stiftung des Silbernen Lorbeerblattes
 - [LottStVereinfV](laws/LottStVereinfV.md) Verordnung zur Vereinfachung der Steuererhebung bei der Lotteriesteuer
 - [LPachtVG](laws/LPachtVG.md) Gesetz über die Anzeige und Beanstandung von Landpachtverträgen

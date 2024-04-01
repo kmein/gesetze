@@ -47,7 +47,9 @@ Im Zuständigkeitsbereich des Bundesministeriums für Gesundheit werden Gebühre
 
 17. Stammzellgesetz,
 
-18. Bundeskrebsregisterdatengesetz.
+18. Bundeskrebsregisterdatengesetz,
+
+19. Medizinal-Cannabisgesetz.
 
 # § 2 – Höhe der Gebühren und Auslagen
 
@@ -271,6 +273,10 @@ In der nachstehenden Tabelle bedeuten:
 Bekannter Stoff: Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegen.
 
 Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegt.
+
+ 
+
+ 
 
  
 

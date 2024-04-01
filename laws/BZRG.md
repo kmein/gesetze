@@ -209,7 +209,7 @@ Ist eine Freiheitsstrafe, ein Strafarrest, eine Jugendstrafe oder eine Maßregel
 
 # § 17 – Sonstige Entscheidungen und gerichtliche Feststellungen
 
-(1) Wird die Vollstreckung einer Strafe, eines Strafrestes oder der Unterbringung in einer Entziehungsanstalt nach § 35 - auch in Verbindung mit § 38 - des Betäubungsmittelgesetzes zurückgestellt, so ist dies in das Register einzutragen. Dabei ist zu vermerken, bis zu welchem Tag die Vollstreckung zurückgestellt worden ist. Wird nachträglich ein anderer Tag festgesetzt oder die Zurückstellung der Vollstreckung widerrufen, so ist auch dies mitzuteilen. Wird die Vollstreckung der Strafe, des Strafrestes oder die Unterbringung in einer Entziehungsanstalt ohne Widerruf der Zurückstellung begonnen oder fortgesetzt, so ist dies im Register zu vermerken.
+(1) Wird die Vollstreckung einer Strafe, eines Strafrestes oder der Unterbringung in einer Entziehungsanstalt nach § 35 des Betäubungsmittelgesetzes – auch in Verbindung mit § 38 des Betäubungsmittelgesetzes, § 39 des Konsumcannabisgesetzes oder § 30 des Medizinal-Cannabisgesetzes – zurückgestellt, so ist dies in das Register einzutragen. Dabei ist zu vermerken, bis zu welchem Tag die Vollstreckung zurückgestellt worden ist. Wird nachträglich ein anderer Tag festgesetzt oder die Zurückstellung der Vollstreckung widerrufen, so ist auch dies mitzuteilen. Wird die Vollstreckung der Strafe, des Strafrestes oder die Unterbringung in einer Entziehungsanstalt ohne Widerruf der Zurückstellung begonnen oder fortgesetzt, so ist dies im Register zu vermerken.
 
 (2) Wird auf Freiheitsstrafe von nicht mehr als zwei Jahren erkannt und hat das Gericht festgestellt, daß der Verurteilte die Tat auf Grund einer Betäubungsmittelabhängigkeit begangen hat, so ist diese Feststellung in das Register einzutragen; dies gilt auch bei einer Gesamtstrafe von nicht mehr als zwei Jahren, wenn der Verurteilte alle oder den ihrer Bedeutung nach überwiegenden Teil der abgeurteilten Straftaten auf Grund einer Betäubungsmittelabhängigkeit begangen hat.
 
@@ -457,7 +457,7 @@ Lässt das elektronische Speicher- und Verarbeitungsmedium die Übermittlung des
 
 2. der Schuldspruch nach § 27 des Jugendgerichtsgesetzes,
 
-3. Verurteilungen, durch die auf Jugendstrafe von nicht mehr als zwei Jahren erkannt worden ist, wenn die Vollstreckung der Strafe oder eines Strafrestes gerichtlich oder im Gnadenweg zur Bewährung ausgesetzt oder nach § 35 des Betäubungsmittelgesetzes zurückgestellt und diese Entscheidung nicht widerrufen worden ist,
+3. Verurteilungen, durch die auf Jugendstrafe von nicht mehr als zwei Jahren erkannt worden ist, wenn die Vollstreckung der Strafe oder eines Strafrestes gerichtlich oder im Gnadenweg zur Bewährung ausgesetzt oder nach § 35 des Betäubungsmittelgesetzes – auch in Verbindung mit § 39 des Konsumcannabisgesetzes oder § 30 des Medizinal-Cannabisgesetzes – zurückgestellt und diese Entscheidung nicht widerrufen worden ist,
 
 4. Verurteilungen, durch die auf Jugendstrafe erkannt worden ist, wenn der Strafmakel gerichtlich oder im Gnadenweg als beseitigt erklärt und die Beseitigung nicht widerrufen worden ist,
 
@@ -471,13 +471,13 @@ erkannt worden ist, wenn im Register keine weitere Strafe eingetragen ist,
 
 6. Verurteilungen, durch die auf Freiheitsstrafe von nicht mehr als zwei Jahren erkannt worden ist, wenn die Vollstreckung der Strafe oder eines Strafrestes
 
-a) nach § 35 oder § 36 des Betäubungsmittelgesetzes zurückgestellt oder zur Bewährung ausgesetzt oder
+a) nach § 35 oder § 36 des Betäubungsmittelgesetzes – auch in Verbindung mit § 39 des Konsumcannabisgesetzes oder § 30 des Medizinal-Cannabisgesetzes – zurückgestellt oder zur Bewährung ausgesetzt oder
 
 b) nach § 56 oder § 57 des Strafgesetzbuchs zur Bewährung ausgesetzt worden ist und sich aus dem Register ergibt, daß der Verurteilte die Tat oder bei Gesamtstrafen alle oder den ihrer Bedeutung nach überwiegenden Teil der Taten auf Grund einer Betäubungsmittelabhängigkeit begangen hat,
 
 diese Entscheidungen nicht widerrufen worden sind und im Register keine weitere Strafe eingetragen ist,
 
-7. Verurteilungen, durch die neben Jugendstrafe oder Freiheitsstrafe von nicht mehr als zwei Jahren die Unterbringung in einer Entziehungsanstalt angeordnet worden ist, wenn die Vollstreckung der Strafe, des Strafrestes oder der Maßregel nach § 35 des Betäubungsmittelgesetzes zurückgestellt worden ist und im übrigen die Voraussetzungen der Nummer 3 oder 6 erfüllt sind,
+7. Verurteilungen, durch die neben Jugendstrafe oder Freiheitsstrafe von nicht mehr als zwei Jahren die Unterbringung in einer Entziehungsanstalt angeordnet worden ist, wenn die Vollstreckung der Strafe, des Strafrestes oder der Maßregel nach § 35 des Betäubungsmittelgesetzes – auch in Verbindung mit § 39 des Konsumcannabisgesetzes oder § 30 des Medizinal-Cannabisgesetzes – zurückgestellt worden ist und im übrigen die Voraussetzungen der Nummer 3 oder 6 erfüllt sind,
 
 8. Verurteilungen, durch die Maßregeln der Besserung und Sicherung, Nebenstrafen oder Nebenfolgen allein oder in Verbindung miteinander oder in Verbindung mit Erziehungsmaßregeln oder Zuchtmitteln angeordnet worden sind,
 
@@ -813,7 +813,7 @@ in allen übrigen Fällen.
 
 # § 48 – Anordnung der Tilgung wegen Gesetzesänderung
 
-Ist die Verurteilung ausschließlich wegen einer Handlung eingetragen, für die das nach der Verurteilung geltende Gesetz keine Strafe mehr vorsieht, oder droht das neue Gesetz für die Handlung nur noch Geldbuße allein oder Geldbuße in Verbindung mit einer Nebenfolge an, wird die Eintragung auf Antrag der betroffenen Person getilgt.
+Ist die Verurteilung ausschließlich wegen einer Handlung eingetragen, für die das nach der Verurteilung geltende Gesetz keine Strafe mehr vorsieht, oder droht das neue Gesetz für die Handlung nur noch Geldbuße allein oder Geldbuße in Verbindung mit einer Nebenfolge an, wird die Eintragung auf Antrag der betroffenen Person getilgt. Die Tilgung erfolgt nur, wenn sich die Voraussetzungen des Satzes 1 anhand der nach § 5 eingetragenen Daten feststellen lassen. Andere gesetzliche Bestimmungen über die Tilgung von Eintragungen wegen Rechtsänderungen bleiben unberührt.
 
 # § 49 – Anordnung der Tilgung in besonderen Fällen
 

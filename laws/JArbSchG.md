@@ -1391,9 +1391,11 @@ und ihr Schutz durch die Aufsicht eines Fachkundigen gewährleistet ist.
 
 3. wegen einer Straftat nach den §§ 109h, 171, 174 bis 184l, 225, 232 bis 233a des Strafgesetzbuches,
 
-4. wegen einer Straftat nach dem Betäubungsmittelgesetz oder
+4. wegen einer Straftat nach dem Betäubungsmittelgesetz,
 
-5. wegen einer Straftat nach dem Jugendschutzgesetz oder nach dem Gesetz über die Verbreitung jugendgefährdender Schriften wenigstens zweimal
+5. wegen einer Straftat nach dem Konsumcannabisgesetz oder nach dem Medizinal-Cannabisgesetz oder
+
+6. wegen einer Straftat nach dem Jugendschutzgesetz wenigstens zweimal
 
 rechtskräftig verurteilt worden sind, dürfen Jugendliche nicht beschäftigen sowie im Rahmen eines Rechtsverhältnisses im Sinne des § 1 nicht beaufsichtigen, nicht anweisen, nicht ausbilden und nicht mit der Beaufsichtigung, Anweisung oder Ausbildung von Jugendlichen beauftragt werden. Eine Verurteilung bleibt außer Betracht, wenn seit dem Tag ihrer Rechtskraft fünf Jahre verstrichen sind. Die Zeit, in welcher der Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist, wird nicht eingerechnet.
 

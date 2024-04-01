@@ -3,7 +3,7 @@
  
 # § 1 – Grundsätze
 
-(1) Die in Anlage III des Betäubungsmittelgesetzes bezeichneten Betäubungsmittel dürfen nur als Zubereitungen, Cannabis auch in Form von getrockneten Blüten, verschrieben werden. Die Vorschriften dieser Verordnung gelten auch für Salze und Molekülverbindungen der Betäubungsmittel, die nach den Erkenntnissen der medizinischen Wissenschaft ärztlich, zahnärztlich oder tierärztlich angewendet werden.
+(1) Die in Anlage III des Betäubungsmittelgesetzes bezeichneten Betäubungsmittel dürfen nur als Zubereitungen verschrieben werden. Die Vorschriften dieser Verordnung gelten auch für Salze und Molekülverbindungen der Betäubungsmittel, die nach den Erkenntnissen der medizinischen Wissenschaft ärztlich, zahnärztlich oder tierärztlich angewendet werden.
 
 (2) Betäubungsmittel für einen Patienten oder ein Tier und für den Praxisbedarf eines Arztes, Zahnarztes oder Tierarztes dürfen nur nach Vorlage eines ausgefertigten Betäubungsmittelrezeptes (Verschreibung), für den Stationsbedarf, den Notfallbedarf nach § 5d und den Rettungsdienstbedarf nach § 6 Absatz 1 nur nach Vorlage eines ausgefertigten Betäubungsmittelanforderungsscheines (Verschreibung für den Stationsbedarf, den Notfallbedarf und den Rettungsdienstbedarf), abgegeben werden.
 
@@ -33,7 +33,7 @@
 
 # § 3 – Verschreiben durch einen Zahnarzt
 
-(1) Für einen Patienten darf der Zahnarzt die in Anlage III des Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer Alfentanil, Amfetamin, Cannabis, Cocain, Diamorphin, Dronabinol, Etorphin, Fenetyllin, Fentanyl, Levacetylmethadol, Methadon, Methylphenidat, Nabilon, Normethadon, Opium, Papaver somniferum, Pentobarbital, Remifentanil, Secobarbital und Sufentanil verschreiben.
+(1) Für einen Patienten darf der Zahnarzt die in Anlage III des Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer Alfentanil, Amfetamin, Cocain, Diamorphin, Etorphin, Fenetyllin, Fentanyl, Levacetylmethadol, Methadon, Methylphenidat, Nabilon, Normethadon, Opium, Papaver somniferum, Pentobarbital, Remifentanil, Secobarbital und Sufentanil verschreiben.
 
 (2) Für seinen Praxisbedarf darf der Zahnarzt die in Absatz 1 bezeichneten Betäubungsmittel sowie Alfentanil, Fentanyl, Remifentanil und Sufentanil bis zur Menge seines durchschnittlichen Zweiwochenbedarfs, mindestens jedoch die kleinste Packungseinheit, verschreiben. Die Vorratshaltung soll für jedes Betäubungsmittel den Monatsbedarf des Zahnarztes nicht übersteigen.
 
@@ -41,7 +41,7 @@
 
 # § 4 – Verschreiben durch einen Tierarzt
 
-(1) Für ein Tier darf der Tierarzt die in Anlage III des Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer Alfentanil, Cannabis, Cocain, Diamorphin, Dronabinol, Etorphin, Fenetyllin, Fentanyl, Levacetylmethadol, Methadon, Methylphenidat, Nabilon, Oxycodon, Papaver somniferum, Pentobarbital, Remifentanil, Secobarbital und Sufentanil verschreiben.
+(1) Für ein Tier darf der Tierarzt die in Anlage III des Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer Alfentanil, Cocain, Diamorphin, Etorphin, Fenetyllin, Fentanyl, Levacetylmethadol, Methadon, Methylphenidat, Nabilon, Oxycodon, Papaver somniferum, Pentobarbital, Remifentanil, Secobarbital und Sufentanil verschreiben.
 
 (2) Für seinen Praxisbedarf darf der Tierarzt die in Absatz 1 bezeichneten Betäubungsmittel sowie Alfentanil, Cocain zur Lokalanästhesie bei Eingriffen am Kopf als Lösung bis zu einem Gehalt von 20 vom Hundert oder als Salbe bis zu einem Gehalt von 2 vom Hundert, Etorphin nur zur Immobilisierung von Tieren, die im Zoo, im Zirkus oder in Wildgehegen gehalten werden, durch eigenhändige oder in Gegenwart des Verschreibenden erfolgende Verabreichung, Fentanyl, Methadon, Pentobarbital, Remifentanil und Sufentanil bis zur Menge seines durchschnittlichen Zweiwochenbedarfs, mindestens jedoch die kleinste Packungseinheit, verschreiben. Die Vorratshaltung soll für jedes Betäubungsmittel den Monatsbedarf des Tierarztes nicht übersteigen.
 

@@ -4203,7 +4203,7 @@ zu regeln; es kann dabei die Weiterleitung von Ausfertigungen an die zuständige
 
 # § 81 – Verhältnis zu anderen Gesetzen
 
-Die Vorschriften des Betäubungsmittel- und Atomrechts, des Anti-Doping-Gesetzes und des Tierschutzgesetzes bleiben unberührt.
+Die Vorschriften des Betäubungsmittel- und Atomrechts, des Konsumcannabisgesetzes, des Medizinal-Cannabisgesetzes, des Anti-Doping-Gesetzes und des Tierschutzgesetzes bleiben unberührt.
 
 # § 82 – Allgemeine Verwaltungsvorschriften
 

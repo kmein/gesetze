@@ -75,9 +75,11 @@ Die Teilnahme an einer Maßnahme wird nach diesem Gesetz nicht gefördert, wenn
 
 3. Arbeitslosengeld bei Arbeitslosigkeit nach dem Dritten Buch Sozialgesetzbuch geleistet wird und es sich um eine Maßnahme in Vollzeitform handelt,
 
-4. ein Gründungszuschuss nach den §§ 93 und 94 des Dritten Buches Sozialgesetzbuch geleistet wird und es sich um eine Maßnahme in Vollzeitform handelt oder
+4. ein Gründungszuschuss nach den §§ 93 und 94 des Dritten Buches Sozialgesetzbuch geleistet wird und es sich um eine Maßnahme in Vollzeitform handelt,
 
-5. Leistungen zur Rehabilitation nach den für einen Rehabilitationsträger im Sinne des Neunten Buches Sozialgesetzbuch geltenden Vorschriften erbracht werden.
+5. Leistungen zur Rehabilitation nach den für einen Rehabilitationsträger im Sinne des Neunten Buches Sozialgesetzbuch geltenden Vorschriften erbracht werden oder
+
+6. Qualifizierungsgeld nach dem Dritten Buch Sozialgesetzbuch geleistet wird.
 
 Der Anspruch auf Förderung nach diesem Gesetz ist auf die Leistungen zum Lebensunterhalt beschränkt, wenn die Kosten der Maßnahme nach dem Dritten Buch Sozialgesetzbuch für Personen ohne Vorbeschäftigungszeit übernommen werden.
 

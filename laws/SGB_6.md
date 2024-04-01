@@ -7,7 +7,7 @@
 
 Versicherungspflichtig sind
 
-1. Personen, die gegen Arbeitsentgelt oder zu ihrer Berufsausbildung beschäftigt sind; während des Bezuges von Kurzarbeitergeld nach dem Dritten Buch besteht die Versicherungspflicht fort,
+1. Personen, die gegen Arbeitsentgelt oder zu ihrer Berufsausbildung beschäftigt sind; während des Bezuges von Kurzarbeitergeld oder von Qualifizierungsgeld nach dem Dritten Buch besteht die Versicherungspflicht fort,
 
 2. behinderte Menschen, die
 
@@ -465,7 +465,7 @@ Die Träger der gesetzlichen Rentenversicherung erbringen die Leistungen zur Tei
 
 a) Arbeitsentgelt oder Arbeitseinkommen erzielt und im Bemessungszeitraum Beiträge zur Rentenversicherung gezahlt haben oder
 
-b) Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Kurzarbeitergeld, Arbeitslosengeld oder Mutterschaftsgeld bezogen haben und für die von dem der Sozialleistung zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen Beiträge zur Rentenversicherung gezahlt worden sind.
+b) Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld oder Mutterschaftsgeld bezogen haben und für die von dem der Sozialleistung zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen Beiträge zur Rentenversicherung gezahlt worden sind.
 
 (2) Versicherte, die Anspruch auf Arbeitslosengeld nach dem Dritten Buch oder Anspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches haben, haben abweichend von Absatz 1 Nummer 1 Anspruch auf Übergangsgeld, wenn sie wegen der Inanspruchnahme der Leistungen zur Teilhabe keine ganztägige Erwerbstätigkeit ausüben können.
 
@@ -3383,7 +3383,7 @@ Beitragspflichtige Einnahmen sind
 
 (5) Bei Arbeitnehmern, die nach dem Altersteilzeitgesetz Aufstockungsbeträge zum Arbeitsentgelt erhalten, gilt auch mindestens ein Betrag in Höhe von 80 vom Hundert des Regelarbeitsentgelts für die Altersteilzeitarbeit, begrenzt auf den Unterschiedsbetrag zwischen 90 vom Hundert der monatlichen Beitragsbemessungsgrenze und dem Regelarbeitsentgelt, höchstens jedoch bis zur Beitragsbemessungsgrenze, als beitragspflichtige Einnahme. Für Personen, die nach § 3 Satz 1 Nr. 3 für die Zeit des Bezugs von Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld oder Übergangsgeld versichert sind, und für Personen, die für die Zeit der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur Teilhabe, in der sie Krankentagegeld von einem privaten Krankenversicherungsunternehmen erhalten, nach § 4 Abs. 3 Satz 1 Nr. 2 versichert sind, gilt Satz 1 entsprechend.
 
-(6) Soweit Kurzarbeitergeld geleistet wird, gilt als beitragspflichtige Einnahmen 80 vom Hundert des Unterschiedsbetrags zwischen dem Soll-Entgelt und dem Ist-Entgelt nach § 106 des Dritten Buches.
+(6) Soweit Kurzarbeitergeld oder Qualifizierungsgeld geleistet wird, gilt als beitragspflichtige Einnahmen 80 vom Hundert des Unterschiedsbetrags zwischen dem Soll-Entgelt und dem Ist-Entgelt nach § 106 des Dritten Buches (Kurzarbeitergeld) oder nach § 82b des Dritten Buches (Qualifizierungsgeld).
 
 (7) Bei Beschäftigten, die gegen ein monatliches Arbeitsentgelt bis zum oberen Grenzbetrag des Übergangsbereichs (§ 20 Absatz 2 des Vierten Buches) mehr als geringfügig beschäftigt sind, berechnet sich die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches.
 
@@ -3507,7 +3507,7 @@ Die Höhe der monatlichen Mindestbeitragsbemessungsgrundlage für freiwillig Ver
 
 1. bei Personen, die gegen Arbeitsentgelt beschäftigt werden, von den Versicherten und von den Arbeitgebern je zur Hälfte,
 
-1a. bei Arbeitnehmern, die Kurzarbeitergeld beziehen, vom Arbeitgeber,
+1a. bei Arbeitnehmern, die Kurzarbeitergeld oder Qualifizierungsgeld beziehen, vom Arbeitgeber,
 
 1b. bei Personen, die gegen Arbeitsentgelt geringfügig versicherungspflichtig beschäftigt werden, von den Arbeitgebern in Höhe des Betrages, der 15 vom Hundert des der Beschäftigung zugrunde liegenden Arbeitsentgelts entspricht, im Übrigen vom Versicherten,
 
