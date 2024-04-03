@@ -155,13 +155,15 @@ Das Bundesministerium der Verteidigung kann abweichende Regelungen treffen.
 
 # § 3a – Referenzgruppen
 
-(1) Für die in § 27b Absatz 1 des Soldatengesetzes genannten Soldatinnen und Soldaten hat das Bundesamt für das Personalmanagement der Bundeswehr zur fiktiven Nachzeichnung der beruflichen Entwicklung Referenzgruppen zu bilden. Als Grundlage für die Bildung der Referenzgruppe dient die letzte regelmäßige dienstliche Beurteilung. Die Referenzgruppen sind zu dem Zeitpunkt des gemäß § 27b Absatz 1 Satz 1 Nummer 1 bis 6 des Soldatengesetztes auslösenden Anlasses erstmals zu bilden.
+(1) Für die in § 27b Absatz 1 des Soldatengesetzes genannten Soldatinnen und Soldaten hat das Bundesamt für das Personalmanagement der Bundeswehr zur fiktiven Nachzeichnung der beruflichen Entwicklung Referenzgruppen zu bilden. Als Grundlage für die Bildung der Referenzgruppe dient die letzte regelmäßige dienstliche Beurteilung. Die Referenzgruppen sind zu dem Zeitpunkt des gemäß § 27b Absatz 1 Satz 1 Nummer 1 bis 6 des Soldatengesetzes auslösenden Anlasses erstmals zu bilden.
 
 (2) Die fiktive Nachzeichnung der beruflichen Entwicklung beginnt bei förderlichen Verwendungsentscheidungen sofort, in allen übrigen Fällen, sobald für die referenzierten Soldatinnen und Soldaten keine aktuellen verwertbaren Beurteilungserkenntnisse mehr vorliegen; sie endet, sobald wieder verwertbare Beurteilungserkenntnisse vorliegen. In diesem Geltungszeitraum wird für referenzierte Soldatinnen und Soldaten eine förderliche Auswahlentscheidung getroffen, wenn Auswahlentscheidungen zugunsten von Referenzpersonen den Rangplatz der referenzierten Soldatin oder des referenzierten Soldaten erreicht haben.
 
 (3) Die Voraussetzungen des § 27b Absatz 2 Satz 2 Nummer 1 und 3 des Soldatengesetzes sind erfüllt, wenn die Referenzpersonen in der zu Grunde zu legenden dienstlichen Beurteilung gemessen an dem binnendifferenzierten Gesamturteil gleich beurteilt worden sind und derselben Ausbildungs- und Verwendungsreihe, demselben Werdegang oder demselben Kompetenzbereich wie die referenzierte Soldatin oder der referenzierte Soldat angehören.
 
 (4) Kann die Regelzahl von zehn Referenzpersonen nicht erreicht werden, so ist eine schrittweise Erweiterung der in § 27b Absatz 2 Satz 2 des Soldatengesetzes genannten Kriterien mindestens bis zum Erhalt der notwendigen Referenzgruppengröße vorzunehmen.
+
+§ 2a Abs. 1 Satz 3 Kursivdruck: Fehlschreibung des Wortes "Soldatengesetztes" in "Soldatengesetzes" korrigiert
 
 # § 4 – Ordnung der Laufbahnen
 
