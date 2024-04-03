@@ -3767,7 +3767,7 @@ c) nicht mehr als 30 Stunden mit 0,75 und
 
 (7) Bei der Ausübung des Ermessens hat die Agentur für Arbeit die unterschiedlichen Betriebsgrößen angemessen zu berücksichtigen.
 
-(8) Die Förderung von Arbeitnehmerinnen und Arbeitnehmern in Maßnahmen, die während des Bezugs von Kurzarbeitergeld beginnen, ist bis zum 31. Juli 2023 ausgeschlossen.
+(8) Die Förderung von Arbeitnehmerinnen und Arbeitnehmern in Maßnahmen, die während des Bezugs von Kurzarbeitergeld beginnen, ist bis zum 31. Juli 2024 ausgeschlossen.
 
 (9) Behinderungsbedingt erforderliche Mehraufwendungen, die im Zusammenhang mit der Teilnahme an einer nach Absatz 1 geförderten Maßnahme entstehen, werden übernommen.
 

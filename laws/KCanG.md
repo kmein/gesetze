@@ -361,7 +361,7 @@ c) den Möglichkeiten einer weitergehenden wohnortnahen Beratung oder Hilfe.
 
 Cannabis und Vermehrungsmaterial sind am Wohnsitz und am gewöhnlichen Aufenthalt durch geeignete Maßnahmen und Sicherheitsvorkehrungen vor dem Zugriff durch Dritte, insbesondere Kinder und Jugendliche, zu schützen.
 
-# § 11 bis 15 – (zukünftig in Kraft)
+# §§ 11 bis 15 – (zukünftig in Kraft)
 
 (+++ §§ 11 bis 15: Treten gem. Art. 15 Abs. 2 G v. 27.3.2024 I Nr. 109 am 1.7.2024 in Kraft +++)
 
