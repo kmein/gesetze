@@ -163,7 +163,7 @@ Das Bundesministerium der Verteidigung kann abweichende Regelungen treffen.
 
 (4) Kann die Regelzahl von zehn Referenzpersonen nicht erreicht werden, so ist eine schrittweise Erweiterung der in § 27b Absatz 2 Satz 2 des Soldatengesetzes genannten Kriterien mindestens bis zum Erhalt der notwendigen Referenzgruppengröße vorzunehmen.
 
-§ 2a Abs. 1 Satz 3 Kursivdruck: Fehlschreibung des Wortes "Soldatengesetztes" in "Soldatengesetzes" korrigiert
+§ 3a Abs. 1 Satz 3 Kursivdruck: Fehlschreibung des Wortes "Soldatengesetztes" in "Soldatengesetzes" korrigiert
 
 # § 4 – Ordnung der Laufbahnen
 

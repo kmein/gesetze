@@ -153,18 +153,24 @@ Das Bundesministerium der Finanzen kann den Wortlaut dieses Gesetzes in der jewe
 
 im Bundesgesetzblatt bekannt zu machen.
 
+# § 16a – Anonymisierung und Datenverarbeitung
+
+Das Bundesministerium für Bildung und Forschung und die Bescheinigungsstelle nach § 2 Absatz 1 Satz 2 der Forschungszulagen-Bescheinigungsverordnung dürfen die im Rahmen des Bescheinigungsverfahrens nach § 6 erhobenen Einzelangaben der Antragsteller anonymisieren und in anonymisierter Form für weitere Datenanalysen zum Zweck der Verfahrensverbesserungen verarbeiten. Das Bundesministerium für Bildung und Forschung darf die Daten in anonymisierter Form für weitere Datenanalysen zum Zweck der Ausgestaltung anderer Fördermaßnahmen sowie politikberatender Maßnahmen im Bereich Forschung und Entwicklung verarbeiten.
+
 # § 17 – Evaluierung und wissenschaftliche Forschung
 
 (1) Die Bundesregierung wird die Anwendung dieses Gesetzes spätestens nach Ablauf von fünf Jahren auf wissenschaftlicher Grundlage evaluieren. Die Bundesregierung unterrichtet den Deutschen Bundestag über die Ergebnisse der Evaluierung.
 
 (2) Die im Rahmen des Bescheinigungsverfahrens nach § 6 erhobenen Einzelangaben der Antragsteller dürfen
 
-1. zum Zweck der Evaluierung verarbeitet und an die mit der Evaluierung des Gesetzes betrauten Stelle, soweit diese Angaben für die Evaluierung erforderlich sind, und
+1. zum Zweck der Evaluierung verarbeitet und an die mit der Evaluierung des Gesetzes betrauten Stelle, soweit diese Angaben für die Evaluierung erforderlich sind,
 
-2. an die die Erhebungen gemäß Durchführungsverordnung (EU) Nr. 995/2012 der Kommission vom 26. Oktober 2012 mit Durchführungsvorschriften zur Entscheidung Nr. 1608/2003/EG des Europäischen Parlaments und des Rates zur Erstellung und Entwicklung von Gemeinschaftsstatistiken über Wissenschaft und Technologie (ABl. L 299 vom 27.10.2012, S. 18) in der jeweils geltenden Fassung durchführenden Stellen, zum Zweck der Evaluierung, weiterer wissenschaftlicher Forschung und zur Qualitätssicherung der genannten Erhebungen
+2. in anonymisierter Form an die die Erhebungen gemäß Durchführungsverordnung (EU) Nr. 995/2012 der Kommission vom 26. Oktober 2012 mit Durchführungsvorschriften zur Entscheidung Nr. 1608/2003/EG des Europäischen Parlaments und des Rates zur Erstellung und Entwicklung von Gemeinschaftsstatistiken über Wissenschaft und Technologie (ABl. L 299 vom 27.10.2012, S. 18) in der jeweils geltenden Fassung durchführenden Stellen, zum Zweck der Evaluierung, weiterer wissenschaftlicher Forschung und zur Qualitätssicherung der genannten Erhebungen, und
 
-übermittelt werden. Diese Empfänger der Daten dürfen die Daten nur zu dem Zweck verarbeiten, zu dem sie ihnen übermittelt worden sind. Sie sind nach Abschluss der Evaluierung und der wissenschaftlichen Forschung zu löschen.
+3. zum Zweck weiterer wissenschaftlicher Forschung in anonymisierter Form an in einem Mitgliedstaat der Europäischen Union ansässige Forschungseinrichtungen
 
-(3) Die Daten dürfen durch die aufgrund der Rechtsverordnung nach § 14 Absatz 1 Nummer 1 zu bestimmende Stelle sowie durch die mit der Evaluierung des Gesetzes betrauten Stelle nur durch Personen verarbeitet werden, die zur Wahrung des Steuergeheimnisses verpflichtet worden sind.
+übermittelt werden. Diese Empfänger der Daten dürfen die Daten nur zu dem Zweck verarbeiten, zu dem sie ihnen übermittelt worden sind. Sie sind nach Abschluss der jeweiligen Arbeiten zu löschen.
+
+(3) Die Daten dürfen durch die Bescheinigungsstelle nach § 2 Absatz 1 Satz 2 der Forschungszulagen-Bescheinigungsverordnung sowie durch die mit der Evaluierung des Gesetzes betrauten Stelle nur durch Personen verarbeitet werden, die zur Wahrung des Steuergeheimnisses verpflichtet worden sind.
 
 (4) Die Ergebnisse der Evaluierung sowie der weiteren wissenschaftlichen Forschung dürfen nur in anonymisierter Form veröffentlicht werden.

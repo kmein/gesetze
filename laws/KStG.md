@@ -459,13 +459,21 @@ b) künstliche Inseln errichtet oder genutzt werden und Anlagen und Bauwerke fü
 
 # § 1a – Option zur Körperschaftsbesteuerung
 
-(1) Auf unwiderruflichen Antrag sind für Zwecke der Besteuerung nach dem Einkommen eine Personenhandels- oder Partnerschaftsgesellschaft wie eine Kapitalgesellschaft (optierende Gesellschaft) und ihre Gesellschafter wie die nicht persönlich haftenden Gesellschafter einer Kapitalgesellschaft zu behandeln; § 217 Absatz 1 des Umwandlungsgesetzes gilt sinngemäß. Der Antrag ist von der Personenhandels- oder Partnerschaftsgesellschaft nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung bei dem für die gesonderte und einheitliche Feststellung der Einkünfte nach § 180 der Abgabenordnung zuständigen Finanzamt spätestens einen Monat vor Beginn des Wirtschaftsjahrs zu stellen, ab dem die Besteuerung wie eine Kapitalgesellschaft gelten soll; § 31 Absatz 1a Satz 2 gilt entsprechend. Erfolgt für die Personenhandels- oder Partnerschaftsgesellschaft keine gesonderte und einheitliche Feststellung der Einkünfte, ist der Antrag bei dem für die Einkommensteuer oder Körperschaftsteuer des Gesellschafters zuständigen Finanzamt zu stellen. Erzielt eine Personenhandels- oder Partnerschaftsgesellschaft ausschließlich Einkünfte, die dem Steuerabzug vom Kapitalertrag oder dem Steuerabzug auf Grund des § 50a des Einkommensteuergesetzes unterliegen und gilt infolgedessen die Einkommensteuer nach § 50 Absatz 2 Satz 1 des Einkommensteuergesetzes oder die Körperschaftsteuer nach § 32 Absatz 1 als abgegolten, ist der Antrag bei dem Bundeszentralamt für Steuern zu stellen. Hat die Gesellschaft ihren Sitz im Inland, ist der Antrag abweichend von den Sätzen 3 und 4 bei dem Finanzamt zu stellen, in dessen Bezirk die Gesellschaft ihren Sitz hat. Die Sätze 1 bis 5 finden keine Anwendung auf
+(1) Auf unwiderruflichen Antrag sind für Zwecke der Besteuerung nach dem Einkommen eine Personenhandelsgesellschaft, Partnerschaftsgesellschaft oder eingetragene Gesellschaft bürgerlichen Rechts wie eine Kapitalgesellschaft (optierende Gesellschaft) und ihre Gesellschafter wie die nicht persönlich haftenden Gesellschafter einer Kapitalgesellschaft zu behandeln; § 217 Absatz 1 des Umwandlungsgesetzes gilt sinngemäß. Der Antrag ist von der Personenhandelsgesellschaft, Partnerschaftsgesellschaft oder eingetragenen Gesellschaft bürgerlichen Rechts nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung bei dem für die gesonderte und einheitliche Feststellung der Einkünfte nach § 180 der Abgabenordnung zuständigen Finanzamt spätestens einen Monat vor Beginn des Wirtschaftsjahrs zu stellen, ab dem die Besteuerung wie eine Kapitalgesellschaft gelten soll; § 31 Absatz 1a Satz 2 gilt entsprechend. Erfolgt für die Personenhandelsgesellschaft, Partnerschaftsgesellschaft oder eingetragene Gesellschaft bürgerlichen Rechts keine gesonderte und einheitliche Feststellung der Einkünfte, ist der Antrag bei dem für die Einkommensteuer oder Körperschaftsteuer des Gesellschafters zuständigen Finanzamt zu stellen. Erzielt eine Personenhandelsgesellschaft, Partnerschaftsgesellschaft oder eingetragene Gesellschaft bürgerlichen Rechts ausschließlich Einkünfte, die dem Steuerabzug vom Kapitalertrag oder dem Steuerabzug auf Grund des § 50a des Einkommensteuergesetzes unterliegen und gilt infolgedessen die Einkommensteuer nach § 50 Absatz 2 Satz 1 des Einkommensteuergesetzes oder die Körperschaftsteuer nach § 32 Absatz 1 als abgegolten, ist der Antrag bei dem Bundeszentralamt für Steuern zu stellen. Hat die Gesellschaft ihren Sitz im Inland, ist der Antrag abweichend von den Sätzen 3 und 4 bei dem Finanzamt zu stellen, in dessen Bezirk die Gesellschaft ihren Sitz hat. Die Sätze 1 bis 5 finden keine Anwendung auf
 
 1. Investmentfonds im Sinne des Investmentsteuergesetzes und
 
 2. Gesellschaften, die nach Ausübung der Option in dem Staat, in dem sich ihre Geschäftsleitung befindet, keiner der deutschen unbeschränkten Körperschaftsteuerpflicht vergleichbaren Steuerpflicht unterliegen.
 
-(2) Der Übergang zur Körperschaftsbesteuerung gilt als Formwechsel im Sinne des § 1 Absatz 3 Nummer 3 des Umwandlungssteuergesetzes. Die §§ 1 und 25 des Umwandlungssteuergesetzes sind entsprechend anzuwenden. Als Einbringungszeitpunkt gilt das Ende des Wirtschaftsjahrs, das dem Wirtschaftsjahr im Sinne des Absatzes 1 Satz 2 unmittelbar vorangeht; § 9 Satz 3 des Umwandlungssteuergesetzes ist nicht anzuwenden. Das im Einbringungszeitpunkt in der Steuerbilanz auszuweisende Eigenkapital wird auf dem steuerlichen Einlagekonto der optierenden Gesellschaft erfasst. Die zur Vertretung der Gesellschaft ermächtigten Personen gelten als gesetzliche Vertreter der optierenden Gesellschaft.
+Abweichend von Satz 2 kann der Antrag im Fall
+
+1. einer Neugründung bis zum Ablauf eines Monats nach Abschluss des Gesellschaftsvertrags,
+
+2. eines Formwechsels einer Körperschaft in eine Personengesellschaft bis zum Ablauf eines Monats nach Anmeldung des Formwechsels beim zuständigen Register von der Körperschaft oder der Personengesellschaft
+
+mit Wirkung für das bereits laufende Wirtschaftsjahr gestellt werden.
+
+(2) Der Übergang zur Körperschaftsbesteuerung gilt als Formwechsel im Sinne des § 1 Absatz 3 Nummer 3 des Umwandlungssteuergesetzes. Die §§ 1 und 25 des Umwandlungssteuergesetzes sind entsprechend anzuwenden; dabei schließt allein die Zurückbehaltung der Beteiligung an einer Komplementärin der optierenden Gesellschaft die Anwendung des § 20 Absatz 2 des Umwandlungssteuergesetzes nicht aus. Als Einbringungszeitpunkt gilt das Ende des Wirtschaftsjahrs, das dem Wirtschaftsjahr im Sinne des Absatzes 1 Satz 2 unmittelbar vorangeht; § 9 Satz 3 des Umwandlungssteuergesetzes ist nicht anzuwenden. Das im Einbringungszeitpunkt in der Steuerbilanz auszuweisende Eigenkapital wird auf dem steuerlichen Einlagekonto der optierenden Gesellschaft erfasst. Die zur Vertretung der Gesellschaft ermächtigten Personen gelten als gesetzliche Vertreter der optierenden Gesellschaft.
 
 (3) Aufgrund der Option gilt die Beteiligung an einer optierenden Gesellschaft für Zwecke der Besteuerung nach dem Einkommen als Beteiligung eines nicht persönlich haftenden Gesellschafters an einer Kapitalgesellschaft. Beim Gesellschafter führen daher insbesondere
 
@@ -477,7 +485,7 @@ b) künstliche Inseln errichtet oder genutzt werden und Anlagen und Bauwerke fü
 
 4. Einnahmen aus der Überlassung von Wirtschaftsgütern zu Einkünften im Sinne des § 21 oder § 22 des Einkommensteuergesetzes.
 
-Die §§ 13 bis 16, 18 und 35 des Einkommensteuergesetzes sind vorbehaltlich des Satzes 4 nicht anzuwenden. Soweit entsprechende Einnahmen bei einem Gesellschafter einer Kapitalgesellschaft anderen Einkunftsarten zuzurechnen wären, gilt abweichend von Satz 3, dass auch die Einnahmen des Gesellschafters der optierenden Gesellschaft zu diesen Einkünften gehören. Gewinnanteile gelten erst dann als ausgeschüttet, wenn sie entnommen werden oder ihre Auszahlung verlangt werden kann. § 4 Absatz 3 des Einkommensteuergesetzes ist bei einer optierenden Gesellschaft nicht anzuwenden. In den Fällen des Satzes 2 Nummer 2 gelten die optierende Gesellschaft als lohnsteuerlicher Arbeitgeber und der Gesellschafter als Arbeitnehmer.
+Die §§ 13 bis 16, 18 und 35 des Einkommensteuergesetzes sind vorbehaltlich des Satzes 4 nicht anzuwenden. Soweit entsprechende Einnahmen bei einem Gesellschafter einer Kapitalgesellschaft anderen Einkunftsarten zuzurechnen wären, gilt abweichend von Satz 3, dass auch die Einnahmen des Gesellschafters der optierenden Gesellschaft zu diesen Einkünften gehören. Gewinnanteile gelten erst dann als ausgeschüttet, wenn sie entnommen werden. § 4 Absatz 3 des Einkommensteuergesetzes ist bei einer optierenden Gesellschaft nicht anzuwenden. In den Fällen des Satzes 2 Nummer 2 gelten die optierende Gesellschaft als lohnsteuerlicher Arbeitgeber und der Gesellschafter als Arbeitnehmer.
 
 (4) Eine Gesellschaft, die nach Absatz 1 zur Körperschaftsbesteuerung optiert hat, kann beantragen, dass sie nicht mehr wie eine Kapitalgesellschaft und ihre Gesellschafter nicht mehr wie die nicht persönlich haftenden Gesellschafter einer Kapitalgesellschaft behandelt werden (Rückoption). Die Rückoption gilt als Formwechsel nach § 1 Absatz 1 Satz 1 Nummer 2 des Umwandlungssteuergesetzes mit der Maßgabe, dass § 9 Satz 3 des Umwandlungssteuergesetzes keine Anwendung findet. Absatz 1 Satz 2, 3 und 5 gilt mit der Maßgabe entsprechend, dass der Antrag bei dem für die Körperschaftsbesteuerung zuständigen Finanzamt zu stellen ist; in den Fällen des Absatzes 1 Satz 4 ist der Antrag bei dem Bundeszentralamt für Steuern zu stellen. Die Sätze 1 und 2 finden auch ohne Antrag Anwendung, wenn die Voraussetzungen des Absatzes 1 entfallen. Scheidet der vorletzte Gesellschafter aus der Gesellschaft aus, gilt die optierende Gesellschaft als unmittelbar danach aufgelöst und, sofern der verbleibende Gesellschafter die persönlichen Voraussetzungen eines übernehmenden Rechtsträgers einer Umwandlung einer Kapitalgesellschaft im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 oder 4 des Umwandlungssteuergesetzes erfüllt, im Fall des § 1 Absatz 1 Satz 1 Nummer 1 des Umwandlungssteuergesetzes als auf den verbleibenden Gesellschafter verschmolzen beziehungsweise gilt im Fall des § 1 Absatz 1 Satz 1 Nummer 4 des Umwandlungssteuergesetzes das Vermögen der optierenden Gesellschaft als auf den verbleibenden Gesellschafter übertragen mit der Maßgabe, dass jeweils § 2 des Umwandlungssteuergesetzes keine Anwendung findet. Erfüllt der verbleibende Gesellschafter nicht die persönlichen Voraussetzungen eines übernehmenden Rechtsträgers einer Umwandlung einer Kapitalgesellschaft im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 oder 4 des Umwandlungssteuergesetzes, gilt die optierende Gesellschaft als aufgelöst und ihr Vermögen als an die Gesellschafter ausgeschüttet; § 11 des Körperschaftsteuergesetzes ist entsprechend mit der Maßgabe anzuwenden, dass an die Stelle des zur Verteilung kommenden Vermögens der gemeine Wert des vorhandenen Vermögens tritt. Abweichend von Satz 4 gilt die Umwandlung der optierenden Gesellschaft in eine Körperschaft im Sinne des Umwandlungssteuergesetzes als Umwandlung einer Kapitalgesellschaft in eine Körperschaft.
 
@@ -585,7 +593,7 @@ a) Wohnungen herstellen oder erwerben und sie den Mitgliedern auf Grund eines Mi
 
 b) im Zusammenhang mit einer Tätigkeit im Sinne des Buchstabens a Gemeinschaftsanlagen oder Folgeeinrichtungen herstellen oder erwerben und sie betreiben, wenn sie überwiegend für Mitglieder bestimmt sind und der Betrieb durch die Genossenschaft oder den Verein notwendig ist.
 
-²Die Steuerbefreiung ist ausgeschlossen, wenn die Einnahmen des Unternehmens aus den in Satz 1 nicht bezeichneten Tätigkeiten 10 Prozent der gesamten Einnahmen übersteigen. ³Erzielt das Unternehmen Einnahmen aus der Lieferung von Strom aus Anlagen, für den es unter den Voraussetzungen des § 21 Absatz 3 des Erneuerbare-Energien-Gesetzes einen Anspruch auf Zahlung eines Mieterstromzuschlags hat, erhöht sich die Grenze des Satzes 2 für diese Einnahmen auf 20 Prozent, wenn die Grenze des Satzes 2 nur durch diese Einnahmen überschritten wird. ⁴Zu den Einnahmen nach Satz 3 gehören auch Einnahmen aus der zusätzlichen Stromlieferung im Sinne des § 42a Absatz 2 Satz 6 des Energiewirtschaftsgesetzes sowie Einnahmen aus der Einspeisung von Strom aus diesen Anlagen. ⁵Investierende Mitglieder im Sinne des § 8 Absatz 2 des Genossenschaftsgesetzes sind keine Mitglieder im Sinne des Satzes 1. ⁶Satz 1 ist auch auf Verträge zur vorübergehenden Unterbringung von Wohnungslosen anzuwenden, die mit juristischen Personen des öffentlichen Rechts oder mit Steuerpflichtigen im Sinne der Nummer 9, die Mitglied sind, abgeschlossen werden. ⁷Eine Einweisungsverfügung nach den Ordnungsbehördengesetzen der Länder steht dem Abschluss eines Vertrags im Sinne des Satzes 6 gleich;
+²Die Steuerbefreiung ist ausgeschlossen, wenn die Einnahmen des Unternehmens aus den in Satz 1 nicht bezeichneten Tätigkeiten 10 Prozent der gesamten Einnahmen übersteigen. ³Erzielt das Unternehmen Einnahmen aus der Lieferung von Strom aus Anlagen, für den es unter den Voraussetzungen des § 21 Absatz 3 des Erneuerbare-Energien-Gesetzes einen Anspruch auf Zahlung eines Mieterstromzuschlags hat, oder aus der Bereitstellung von Strom aus Gebäudestromanlagen gemäß § 3 Nummer 20a des Energiewirtschaftsgesetzes zur Nutzung durch Letztverbraucher im Rahmen der Gemeinschaftlichen Gebäudeversorgung, erhöht sich die Grenze des Satzes 2 für diese Einnahmen auf 30 Prozent, wenn die Grenze des Satzes 2 nur durch diese Einnahmen überschritten wird. ⁴Zu den Einnahmen nach Satz 3 gehören auch Einnahmen aus der zusätzlichen Stromlieferung im Sinne des § 42a Absatz 2 Satz 6 des Energiewirtschaftsgesetzes sowie Einnahmen aus der Einspeisung von Strom aus diesen Anlagen. ⁵Investierende Mitglieder im Sinne des § 8 Absatz 2 des Genossenschaftsgesetzes sind keine Mitglieder im Sinne des Satzes 1. ⁶Satz 1 ist auch auf Verträge zur vorübergehenden Unterbringung von Wohnungslosen anzuwenden, die mit juristischen Personen des öffentlichen Rechts oder mit Steuerpflichtigen im Sinne der Nummer 9, die Mitglied sind, abgeschlossen werden. ⁷Eine Einweisungsverfügung nach den Ordnungsbehördengesetzen der Länder steht dem Abschluss eines Vertrags im Sinne des Satzes 6 gleich;
 
 11. (weggefallen)
 
@@ -954,7 +962,7 @@ c) ein von der Finanzverwaltung beanstandeter Fehler spätestens in dem nächste
 
 4. Die Organgesellschaft darf Beträge aus dem Jahresüberschuss nur insoweit in die Gewinnrücklagen (§ 272 Abs. 3 des Handelsgesetzbuchs) mit Ausnahme der gesetzlichen Rücklagen einstellen, als dies bei vernünftiger kaufmännischer Beurteilung wirtschaftlich begründet ist.
 
-5. Negative Einkünfte des Organträgers oder der Organgesellschaft bleiben bei der inländischen Besteuerung unberücksichtigt, soweit sie in einem ausländischen Staat im Rahmen der Besteuerung des Organträgers, der Organgesellschaft oder einer anderen Person berücksichtigt werden.
+5. (weggefallen)
 
 ²Das Einkommen der Organgesellschaft ist dem Organträger erstmals für das Kalenderjahr zuzurechnen, in dem das Wirtschaftsjahr der Organgesellschaft endet, in dem der Gewinnabführungsvertrag wirksam wird.
 
@@ -1244,6 +1252,32 @@ c) im Staat des Orts ihrer Geschäftsleitung ohne Wahlmöglichkeit einer mit § 
 
 ³Der Gläubiger der Kapitalerträge hat die Voraussetzungen für die Erstattung nachzuweisen. ⁴Er hat insbesondere durch eine Bescheinigung der Steuerbehörden seines Ansässigkeitsstaates nachzuweisen, dass er in diesem Staat als steuerlich ansässig betrachtet wird, dort unbeschränkt körperschaftsteuerpflichtig und nicht von der Körperschaftsteuer befreit sowie der tatsächliche Empfänger der Kapitalerträge ist. ⁵Aus der Bescheinigung der ausländischen Steuerverwaltung muss hervorgehen, dass die deutsche Kapitalertragsteuer nicht angerechnet, nicht abgezogen oder nicht vorgetragen werden kann und inwieweit eine Anrechnung, ein Abzug oder Vortrag auch tatsächlich nicht erfolgt ist. ⁶Die Erstattung der Kapitalertragsteuer erfolgt für alle in einem Kalenderjahr bezogenen Kapitalerträge im Sinne des Satzes 1 auf der Grundlage eines Freistellungsbescheids nach § 155 Absatz 1 Satz 3 der Abgabenordnung.
 
+(6) ¹Ist die Körperschaftsteuer des Gläubigers für Kapitalerträge im Sinne des § 49 Absatz 1 Nummer 5 des Einkommensteuergesetzes nach Absatz 1 abgegolten, wird dem Gläubiger der Kapitalerträge auf Antrag die einbehaltene und abgeführte Kapitalertragsteuer erstattet, wenn
+
+1. der Gläubiger der Kapitalerträge eine nach § 2 Nummer 1 beschränkt steuerpflichtige Körperschaft, Personenvereinigung oder Vermögensmasse ist, die
+
+a) die Voraussetzungen des § 5 Absatz 1 Nummer 9 erfüllt,
+
+b) Sitz und Geschäftsleitung in einem Mitgliedstaat der Europäischen Union oder in einem Staat hat, der auf Grund völkervertraglicher Abkommen oder Übereinkommen verpflichtet ist, der Bundesrepublik Deutschland entsprechend dem OECD-Standard für Transparenz und effektiven Informationsaustausch auf Ersuchen im Sinne des § 4 Absatz 2 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des Steueroasen-Abwehrgesetzes Amtshilfe zu leisten und tatsächlich leistet,
+
+c) Sitz und Geschäftsleitung in einem Mitgliedstaat der Europäischen Union oder in einem Staat hat, der auf Grund völkervertraglicher Abkommen oder Übereinkommen verpflichtet ist, der Bundesrepublik Deutschland Amtshilfe bei der Beitreibung gemäß der Richtlinie 2010/24/EU des Rates vom 16. März 2010 über die Amtshilfe bei der Beitreibung von Forderungen in Bezug auf bestimmte Steuern, Abgaben und sonstige Maßnahmen (ABl. L 84 vom 31.3.2010, S. 1) oder gemäß einem dem Artikel 27 des OECD-Musterabkommens 2017 zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen<span id="FnR.F829427_02"></span><a href="#F829427_02" class="FnR">1</a></sup> entsprechenden Artikel in einem Abkommen zur Vermeidung der Doppelbesteuerung zu leisten, und tatsächlich leistet, und
+
+d) im Staat des Orts ihrer Geschäftsleitung ohne Wahlmöglichkeit einer § 1 vergleichbaren unbeschränkten Steuerpflicht unterliegt,
+
+2. in den Fällen des § 20 Absatz 1 Nummer 1, 2 und 9 des Einkommensteuergesetzes der Gläubiger unmittelbar am Grund- oder Stammkapital der Schuldnerin der Kapitalerträge beteiligt ist und
+
+3. im Fall der Ansässigkeit des Gläubigers außerhalb eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates, auf den das Abkommen über den Europäischen Wirtschaftraums Anwendung findet, die Kapitalerträge nicht im Zusammenhang mit Direktinvestitionen stehen.
+
+²Satz 1 gilt nur, soweit
+
+1. keine Erstattung der betreffenden Kapitalertragsteuer nach anderen Vorschriften vorgesehen ist,
+
+2. ein Anspruch auf völlige oder teilweise Erstattung der Kapitalertragsteuer bei entsprechender Anwendung des § 50d Absatz 3 oder § 50j des Einkommensteuergesetzes nicht ausgeschlossen wäre und
+
+3. die Kapitalertragsteuer beim Gläubiger nicht angerechnet oder von der Steuerbemessungsgrundlage abgezogen werden kann; die Möglichkeit eines Anrechnungsvortrags steht der Anrechnung gleich.
+
+³Der Gläubiger der Kapitalerträge hat die Erstattungsvoraussetzungen nach den Sätzen 1 und 2 nachzuweisen. ⁴Der Gläubiger hat insbesondere nachzuweisen, inwieweit die deutsche Kapitalertragsteuer im anderen Staat tatsächlich nicht angerechnet, nicht abgezogen oder nicht vorgetragen worden ist. ⁵§ 50c Absatz 3 Satz 1, 2 und Satz 3 erster Halbsatz sowie Absatz 5 des Einkommensteuergesetzes sind entsprechend anzuwenden.
+
 (+++ § 32 Abs. 3: Zur Anwendung vgl. § 34 Abs. 13b dieses G u. § 6 Abs. 3 InvStG +++)
 
 # § 32a – Erlass, Aufhebung oder Änderung von Steuerbescheiden bei verdeckter Gewinnausschüttung oder verdeckter Einlage
@@ -1316,7 +1350,7 @@ d) nach denen Versicherungsvereine auf Gegenseitigkeit von geringerer wirtschaft
 
 (3a) § 5 Absatz 1 Nummer 3 Buchstabe d, Nummer 4 und 16 Satz 3 in der am 1. Januar 2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016 anzuwenden.
 
-(3b) § 5 Absatz 1 Nummer 10 in der Fassung des Artikels 2 des Gesetzes vom 4. August 2019 (BGBl. I S. 1122) ist erstmals für den Veranlagungszeitraum 2019 anzuwenden.
+(3b) § 5 Absatz 1 Nummer 10 in der Fassung des Artikels 18 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals für den Veranlagungszeitraum 2023 anzuwenden.
 
 (3c) § 8 Absatz 1 in der Fassung des Artikels 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2056) ist auch für Veranlagungszeiträume vor 2021 anzuwenden.
 
@@ -1364,7 +1398,9 @@ d) nach denen Versicherungsvereine auf Gegenseitigkeit von geringerer wirtschaft
 
 (10) § 27 Absatz 8 in der Fassung des Artikels 9 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmalig anzuwenden auf Leistungen und Nennkapitalrückzahlungen, die nach dem 31. Dezember 2022 erbracht werden.
 
-(10a) § 33 Absatz 1 Nummer 2 Buchstabe d in der am 1. Januar 2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016 anzuwenden.
+(10a) § 32 Absatz 6 in der Fassung des Artikels 18 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist in allen offenen Fällen anzuwenden.
+
+(10b) § 33 Absatz 1 Nummer 2 Buchstabe d in der am 1. Januar 2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016 anzuwenden.
 
 (11) § 36 ist in allen Fällen, in denen die Endbestände im Sinne des § 36 Absatz 7 noch nicht bestandskräftig festgestellt sind, in der folgenden Fassung anzuwenden:  
   
