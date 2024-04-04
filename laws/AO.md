@@ -4911,6 +4911,8 @@ Soweit die zwischenstaatliche Rechts- und Amtshilfe Steuern betrifft, die von de
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, zur Förderung der zwischenstaatlichen Zusammenarbeit durch Rechtsverordnung mit Zustimmung des Bundesrates völkerrechtliche Vereinbarungen über die gegenseitige Rechts- und Amtshilfe auf dem Gebiete des Zollwesens in Kraft zu setzen, wenn sich die darin übernommenen Verpflichtungen im Rahmen der nach diesem Gesetz zulässigen zwischenstaatlichen Rechts- und Amtshilfe halten.
 
+(6) § 2a Absatz 5 Nummer 2 gilt nicht, soweit seine Anwendung der Inanspruchnahme oder der Leistung der zwischenstaatlichen Amtshilfe entgegensteht; die Pflicht zur Wahrung des Steuergeheimnisses bleibt unberührt.
+
 # § 117a – Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
 
 (1) Auf ein Ersuchen einer für die Verhütung und Verfolgung von Straftaten zuständigen öffentlichen Stelle eines Mitgliedstaates der Europäischen Union können die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden personenbezogene Daten, die in Zusammenhang mit dem in § 208 bestimmten Aufgabenbereich stehen, zum Zweck der Verhütung von Straftaten übermitteln. Für die Übermittlung dieser Daten gelten die Vorschriften über die Datenübermittlung im innerstaatlichen Bereich entsprechend.
@@ -5238,11 +5240,9 @@ a) damit eine Beteiligung von mindestens 10 Prozent am Kapital oder am Vermögen
 
 b) die Summe der Anschaffungskosten aller Beteiligungen mehr als 150 000 Euro beträgt. Dies gilt nicht für den Erwerb und die Veräußerung von Beteiligungen von weniger als 1 Prozent am Kapital oder am Vermögen der Körperschaft, Personenvereinigung oder Vermögensmasse, wenn mit der Hauptgattung der Aktien der ausländischen Gesellschaft ein wesentlicher und regelmäßiger Handel an einer Börse in einem Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des EWR-Abkommens stattfindet oder an einer Börse, die in einem anderen Staat nach § 193 Absatz 1 Satz 1 Nummer 2 und 4 des Kapitalanlagegesetzbuchs von der Bundesanstalt für Finanzdienstleistungsaufsicht zugelassen ist. Für die Ermittlung der Beteiligungshöhe im Sinne des Satzes 2 sind alle gehaltenen Beteiligungen zu berücksichtigen. Nicht mitteilungspflichtige Erwerbe und nicht mitteilungspflichtige Veräußerungen im Sinne des Satzes 2 sind bei der Ermittlung der Summe der Anschaffungskosten im Sinne des Satzes 1 außer Betracht zu lassen;
 
-4. die Tatsache, dass sie allein oder zusammen mit nahestehenden Personen im Sinne des § 1 Absatz 2 des Außensteuergesetzes erstmals unmittelbar oder mittelbar einen beherrschenden oder bestimmenden Einfluss auf die gesellschaftsrechtlichen, finanziellen oder geschäftlichen Angelegenheiten einer Drittstaat-Gesellschaft ausüben können;
+4. die Tatsache, dass sie allein oder zusammen mit nahestehenden Personen im Sinne des § 1 Absatz 2 des Außensteuergesetzes erstmals unmittelbar oder mittelbar einen beherrschenden oder bestimmenden Einfluss auf die gesellschaftsrechtlichen, finanziellen oder geschäftlichen Angelegenheiten einer Drittstaat-Gesellschaft ausüben können.
 
-5. die Art der wirtschaftlichen Tätigkeit des Betriebs, der Betriebstätte, der Personengesellschaft, Körperschaft, Personenvereinigung, Vermögensmasse oder der Drittstaat-Gesellschaft.
-
-In den Fällen des Satzes 1 Nummer 3 sind unmittelbare und mittelbare Beteiligungen zusammenzurechnen.
+In den Fällen des Satzes 1 Nummer 1 bis 4 ist auch die Art der wirtschaftlichen Tätigkeit des Betriebs, der Betriebsstätte, der Körperschaft, Personenvereinigung, Vermögensmasse oder der Drittstaat-Gesellschaft mitzuteilen. In den Fällen des Satzes 1 Nummer 3 sind unmittelbare und mittelbare Beteiligungen zusammenzurechnen.
 
 (3) Drittstaat-Gesellschaft ist eine Körperschaft, Personenvereinigung oder Vermögensmasse mit Sitz oder Geschäftsleitung in Staaten oder Territorien, die nicht Mitglieder der Europäischen Union oder der Europäischen Freihandelsassoziation sind.
 
@@ -5308,7 +5308,7 @@ In den Fällen von Satz 1 Nummer 3 ist auch anzugeben, bei welcher Finanzbehörd
 
 (7) Das Bundeszentralamt für Steuern übermittelt alle ihm zugegangenen länderbezogenen Berichte an die jeweils zuständige Finanzbehörde. Enthält ein länderbezogener Bericht Angaben im Sinne von Absatz 2 für einen Vertragsstaat der völkerrechtlichen Vereinbarungen, übermittelt das Bundeszentralamt für Steuern auf Grundlage dieser völkerrechtlichen Vereinbarungen den ihm zugegangenen länderbezogenen Bericht an die zuständige Behörde des jeweiligen Vertragsstaates. Das Bundeszentralamt für Steuern nimmt die länderbezogenen Berichte entgegen, die ihm von den zuständigen Behörden der in Satz 2 genannten Vertragsstaaten übermittelt worden sind, und übermittelt diese an die jeweils zuständige Finanzbehörde. Das Bundeszentralamt für Steuern kann länderbezogene Berichte im Rahmen der ihm gesetzlich übertragenen Aufgaben auswerten. Das Bundeszentralamt für Steuern speichert die länderbezogenen Berichte und löscht sie mit Ablauf des 15. Jahres, das dem Jahr der Übermittlung folgt.
 
-(8) § 2a Absatz 5 Nummer 2 gilt nicht.
+(8) (weggefallen)
 
 (+++ § 138a: Zur Anwendung vgl. Art. 97 §§ 1, 31 u. 37 AOEG 1977 +++)
 

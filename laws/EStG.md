@@ -1184,7 +1184,7 @@ soweit der Gewinn bei der Veräußerung von Binnenschiffen entstanden ist.
 
 (5) An die Stelle der Anschaffungs- oder Herstellungskosten im Sinne des Absatzes 1 tritt in den Fällen, in denen das Wirtschaftsgut im Wirtschaftsjahr vor der Veräußerung angeschafft oder hergestellt worden ist, der Buchwert am Schluss des Wirtschaftsjahres der Anschaffung oder Herstellung.
 
-(6) ¹Ist ein Betrag nach Absatz 1 oder 3 abgezogen worden, so tritt für die Absetzungen für Abnutzung oder Substanzverringerung oder in den Fällen des § 6 Absatz 2 und Absatz 2a im Wirtschaftsjahr des Abzugs der verbleibende Betrag an die Stelle der Anschaffungs- oder Herstellungskosten. ²In den Fällen des § 7 Absatz 4 Satz 1 und Absatz 5 sind die um den Abzugsbetrag nach Absatz 1 oder 3 geminderten Anschaffungs- oder Herstellungskosten maßgebend.
+(6) ¹Ist ein Betrag nach Absatz 1 oder 3 abgezogen worden, so tritt für die Absetzungen für Abnutzung oder Substanzverringerung oder in den Fällen des § 6 Absatz 2 und Absatz 2a im Wirtschaftsjahr des Abzugs der verbleibende Betrag an die Stelle der Anschaffungs- oder Herstellungskosten. ²In den Fällen des § 7 Absatz 4 Satz 1, Absatz 5 und 5a sind die um den Abzugsbetrag nach Absatz 1 oder 3 geminderten Anschaffungs- oder Herstellungskosten maßgebend.
 
 (7) Soweit eine nach Absatz 3 Satz 1 gebildete Rücklage gewinnerhöhend aufgelöst wird, ohne dass ein entsprechender Betrag nach Absatz 3 abgezogen wird, ist der Gewinn des Wirtschaftsjahres, in dem die Rücklage aufgelöst wird, für jedes volle Wirtschaftsjahr, in dem die Rücklage bestanden hat, um 6 Prozent des aufgelösten Rücklagenbetrags zu erhöhen.
 
@@ -1254,7 +1254,7 @@ b) vor dem 1. Januar 2023 und nach dem 31. Dezember 1924 fertiggestellt worden s
 
 c) vor dem 1. Januar 1925 fertiggestellt worden sind, jährlich 2,5 Prozent
 
-der Anschaffungs- oder Herstellungskosten; Absatz 1 Satz 5 gilt entsprechend. ²Beträgt die tatsächliche Nutzungsdauer eines Gebäudes in den Fällen des Satzes 1 Nummer 1 weniger als 33 Jahre, in den Fällen des Satzes 1 Nummer 2 Buchstabe a weniger als 50 Jahre, in den Fällen des Satzes 1 Nummer 2 Buchstabe b weniger als 40 Jahre, so können anstelle der Absetzungen nach Satz 1 die der tatsächlichen Nutzungsdauer entsprechenden Absetzungen für Abnutzung vorgenommen werden. ³Absatz 1 letzter Satz bleibt unberührt. ⁴Bei Gebäuden im Sinne der Nummer 2 rechtfertigt die für Gebäude im Sinne der Nummer 1 geltende Regelung weder die Anwendung des Absatzes 1 letzter Satz noch den Ansatz des niedrigeren Teilwerts (§ 6 Absatz 1 Nummer 1 Satz 2).
+der Anschaffungs- oder Herstellungskosten; Absatz 1 Satz 5 gilt entsprechend. ²Beträgt die tatsächliche Nutzungsdauer eines Gebäudes in den Fällen des Satzes 1 Nummer 1 und 2 Buchstabe a weniger als 33 Jahre, in den Fällen des Satzes 1 Nummer 2 Buchstabe b weniger als 50 Jahre, in den Fällen des Satzes 1 Nummer 2 Buchstabe c weniger als 40 Jahre, so können anstelle der Absetzungen nach Satz 1 die der tatsächlichen Nutzungsdauer entsprechenden Absetzungen für Abnutzung vorgenommen werden. ³Absatz 1 letzter Satz bleibt unberührt. ⁴Bei Gebäuden im Sinne der Nummer 2 rechtfertigt die für Gebäude im Sinne der Nummer 1 geltende Regelung weder die Anwendung des Absatzes 1 letzter Satz noch den Ansatz des niedrigeren Teilwerts (§ 6 Absatz 1 Nummer 1 Satz 2).
 
 (5) ¹Bei Gebäuden, die in einem Mitgliedstaat der Europäischen Union oder einem anderen Staat belegen sind, auf den das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen) angewendet wird, und die vom Steuerpflichtigen hergestellt oder bis zum Ende des Jahres der Fertigstellung angeschafft worden sind, können abweichend von Absatz 4 als Absetzung für Abnutzung die folgenden Beträge abgezogen werden:
 
@@ -1319,7 +1319,9 @@ jeweils 1,25 Prozent,</td></tr></tbody></table>
 
 der Anschaffungs- oder Herstellungskosten. ²Im Fall der Anschaffung kann Satz 1 nur angewendet werden, wenn der Hersteller für das veräußerte Gebäude weder Absetzungen für Abnutzung nach Satz 1 vorgenommen noch erhöhte Absetzungen oder Sonderabschreibungen in Anspruch genommen hat. ³Absatz 1 Satz 4 gilt nicht.
 
-(5a) Die Absätze 4 und 5 sind auf Gebäudeteile, die selbständige unbewegliche Wirtschaftsgüter sind, sowie auf Eigentumswohnungen und auf im Teileigentum stehende Räume entsprechend anzuwenden.
+(5a) ¹Bei Gebäuden, die in einem Mitgliedstaat der Europäischen Union oder einem anderen Staat belegen sind, auf den das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen) angewendet wird, soweit sie Wohnzwecken dienen und vom Steuerpflichtigen hergestellt oder bis zum Ende des Jahres der Fertigstellung angeschafft worden sind, kann statt der Absetzung für Abnutzung in gleichen Jahresbeträgen nach Absatz 4 Nummer 2 Buchstabe a die Absetzung für Abnutzung in fallenden Jahresbeträgen erfolgen, wenn mit der Herstellung nach dem 30. September 2023 und vor dem 1. Oktober 2029 begonnen wurde oder die Anschaffung auf Grund eines nach dem 30. September 2023 und vor dem 1. Oktober 2029 rechtswirksam abgeschlossenen obligatorischen Vertrags erfolgt. ²Als Beginn der Herstellung gilt das Datum in der nach den jeweiligen landesrechtlichen Vorschriften einzureichenden Baubeginnsanzeige. ³Sollten landesrechtlich im Einzelfall keine Baubeginnsanzeigen vorgeschrieben sein, hat der Steuerpflichtige zu erklären, dass er den Baubeginn gegenüber der zuständigen Baubehörde freiwillig angezeigt hat. ⁴Die Absetzung für Abnutzung in fallenden Jahresbeträgen kann nach einem unveränderlichen Prozentsatz in Höhe von 5 Prozent vom jeweiligen Buchwert (Restwert) vorgenommen werden. ⁵Absatz 1 Satz 4 gilt entsprechend. ⁶Bei Gebäuden, bei denen die Absetzung für Abnutzung in fallenden Jahresbeträgen bemessen wird, sind Absetzungen für außergewöhnliche technische oder wirtschaftliche Abnutzung nicht zulässig. ⁷Der Übergang von der Absetzung für Abnutzung in fallenden Jahresbeträgen zur Absetzung für Abnutzung in gleichen Jahresbeträgen ist zulässig. ⁸Die weitere Absetzung für Abnutzung bemisst sich nach dem Übergang zur Absetzung für Abnutzung im Sinne des Absatzes 4 vom Restwert und dem nach Absatz 4 unter Berücksichtigung der Restnutzungsdauer maßgebenden Prozentsatz.
+
+(5b) Die Absätze 4 bis 5a sind auf Gebäudeteile, die selbständige unbewegliche Wirtschaftsgüter sind, sowie auf Eigentumswohnungen und auf im Teileigentum stehende Räume entsprechend anzuwenden.
 
 (6) Bei Bergbauunternehmen, Steinbrüchen und anderen Betrieben, die einen Verbrauch der Substanz mit sich bringen, ist Absatz 1 entsprechend anzuwenden; dabei sind Absetzungen nach Maßgabe des Substanzverzehrs zulässig (Absetzung für Substanzverringerung).
 
@@ -1349,13 +1351,13 @@ der Anschaffungs- oder Herstellungskosten. ²Im Fall der Anschaffung kann Satz 1
 
 # § 7b – Sonderabschreibung für Mietwohnungsneubau
 
-(1) ¹Für die Anschaffung oder Herstellung neuer Wohnungen, die in einem Mitgliedstaat der Europäischen Union belegen sind, können nach Maßgabe der nachfolgenden Absätze im Jahr der Anschaffung oder Herstellung und in den folgenden drei Jahren Sonderabschreibungen bis zu jährlich 5 Prozent der Bemessungsgrundlage neben der Absetzung für Abnutzung nach § 7 Absatz 4 in Anspruch genommen werden. ²Im Fall der Anschaffung ist eine Wohnung neu, wenn sie bis zum Ende des Jahres der Fertigstellung angeschafft wird. ³In diesem Fall können die Sonderabschreibungen nach Satz 1 nur vom Anschaffenden in Anspruch genommen werden. ⁴Bei der Anwendung des Satzes 1 sind den Mitgliedstaaten der Europäischen Union Staaten gleichgestellt, die auf Grund vertraglicher Verpflichtung Amtshilfe entsprechend dem EU-Amtshilfegesetz in einem Umfang leisten, der für die Überprüfung der Voraussetzungen dieser Vorschrift erforderlich ist.
+(1) ¹Für die Anschaffung oder Herstellung neuer Wohnungen, die in einem Mitgliedstaat der Europäischen Union belegen sind, können nach Maßgabe der nachfolgenden Absätze im Jahr der Anschaffung oder Herstellung und in den folgenden drei Jahren Sonderabschreibungen bis zu jährlich 5 Prozent der Bemessungsgrundlage neben der Absetzung für Abnutzung nach § 7 Absatz 4 oder 5a in Anspruch genommen werden. ²Im Fall der Anschaffung ist eine Wohnung neu, wenn sie bis zum Ende des Jahres der Fertigstellung angeschafft wird. ³In diesem Fall können die Sonderabschreibungen nach Satz 1 nur vom Anschaffenden in Anspruch genommen werden. ⁴Bei der Anwendung des Satzes 1 sind den Mitgliedstaaten der Europäischen Union Staaten gleichgestellt, die auf Grund vertraglicher Verpflichtung Amtshilfe entsprechend dem EU-Amtshilfegesetz in einem Umfang leisten, der für die Überprüfung der Voraussetzungen dieser Vorschrift erforderlich ist.
 
 (2) ¹Die Sonderabschreibungen können nur in Anspruch genommen werden, wenn
 
-1. durch Baumaßnahmen auf Grund eines nach dem 31. August 2018 und vor dem 1. Januar 2022 oder nach dem 31. Dezember 2022 und vor dem 1. Januar 2027 gestellten Bauantrags oder einer in diesem Zeitraum getätigten Bauanzeige neue, bisher nicht vorhandene, Wohnungen hergestellt werden, die die Voraussetzungen des § 181 Absatz 9 des Bewertungsgesetzes erfüllen; hierzu gehören auch die zu einer Wohnung gehörenden Nebenräume,
+1. durch Baumaßnahmen auf Grund eines nach dem 31. August 2018 und vor dem 1. Januar 2022 oder nach dem 31. Dezember 2022 und vor dem 1. Oktober 2029 gestellten Bauantrags oder einer in diesem Zeitraum getätigten Bauanzeige neue, bisher nicht vorhandene, Wohnungen hergestellt werden, die die Voraussetzungen des § 181 Absatz 9 des Bewertungsgesetzes erfüllen; hierzu gehören auch die zu einer Wohnung gehörenden Nebenräume,
 
-2. Wohnungen, die aufgrund eines nach dem 31. Dezember 2022 und vor dem 1. Januar 2027 gestellten Bauantrags oder einer in diesem Zeitraum getätigten Bauanzeige hergestellt werden, in einem Gebäude liegen, das die Kriterien eines „Effizienzhaus 40“ mit Nachhaltigkeits-Klasse erfüllt und dies durch Qualitätssiegel Nachhaltiges Gebäude nachgewiesen wird,
+2. Wohnungen, die aufgrund eines nach dem 31. Dezember 2022 und vor dem 1. Oktober 2029 gestellten Bauantrags oder einer in diesem Zeitraum getätigten Bauanzeige hergestellt werden, in einem Gebäude liegen, das die Kriterien eines „Effizienzhaus 40“ mit Nachhaltigkeits-Klasse erfüllt und dies durch Qualitätssiegel Nachhaltiges Gebäude nachgewiesen wird,
 
 3. die Wohnung im Jahr der Anschaffung oder Herstellung und in den folgenden neun Jahren der entgeltlichen Überlassung zu Wohnzwecken dient; Wohnungen dienen nicht Wohnzwecken, soweit sie zur vorübergehenden Beherbergung von Personen genutzt werden.
 
@@ -1363,13 +1365,13 @@ der Anschaffungs- oder Herstellungskosten. ²Im Fall der Anschaffung kann Satz 1
 
 1. die aufgrund eines nach dem 31. August 2018 und vor dem 1. Januar 2022 gestellten Bauantrags oder einer in diesem Zeitraum getätigten Bauanzeige hergestellt werden, 3 000 Euro je Quadratmeter Wohnfläche nicht übersteigen,
 
-2. die aufgrund eines nach dem 31. Dezember 2022 und vor dem 1. Januar 2027 gestellten Bauantrags oder einer in diesem Zeitraum getätigten Bauanzeige hergestellt werden, 4 800 Euro je Quadratmeter Wohnfläche nicht übersteigen.
+2. die aufgrund eines nach dem 31. Dezember 2022 und vor dem 1. Oktober 2029 gestellten Bauantrags oder einer in diesem Zeitraum getätigten Bauanzeige hergestellt werden, 5 200 Euro je Quadratmeter Wohnfläche nicht übersteigen.
 
 (3) Bemessungsgrundlage für die Sonderabschreibungen nach Absatz 1 sind die Anschaffungs- oder Herstellungskosten der nach Absatz 2 begünstigten Wohnung, jedoch
 
 1. maximal 2 000 Euro je Quadratmeter Wohnfläche für Wohnungen im Sinne des Absatzes 2 Satz 2 Nummer 1 und
 
-2. maximal 2 500 Euro je Quadratmeter Wohnfläche für Wohnungen im Sinne des Absatzes 2 Satz 2 Nummer 2.
+2. maximal 4 000 Euro je Quadratmeter Wohnfläche für Wohnungen im Sinne des Absatzes 2 Satz 2 Nummer 2.
 
 (4) ¹Die nach Absatz 1 in Anspruch genommenen Sonderabschreibungen sind rückgängig zu machen, wenn
 
@@ -1428,7 +1430,7 @@ b) im Wirtschaftsjahr, in dem die Abzüge vorgenommen werden sollen, ohne Berüc
 
 # § 7h – Erhöhte Absetzungen bei Gebäuden in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen
 
-(1) ¹Bei einem im Inland belegenen Gebäude in einem förmlich festgelegten Sanierungsgebiet oder städtebaulichen Entwicklungsbereich kann der Steuerpflichtige abweichend von § 7 Absatz 4 und 5 im Jahr der Herstellung und in den folgenden sieben Jahren jeweils bis zu 9 Prozent und in den folgenden vier Jahren jeweils bis zu 7 Prozent der Herstellungskosten für Modernisierungs- und Instandsetzungsmaßnahmen im Sinne des § 177 des Baugesetzbuchs absetzen. ²Satz 1 ist entsprechend anzuwenden auf Herstellungskosten für Maßnahmen, die der Erhaltung, Erneuerung und funktionsgerechten Verwendung eines Gebäudes im Sinne des Satzes 1 dienen, das wegen seiner geschichtlichen, künstlerischen oder städtebaulichen Bedeutung erhalten bleiben soll, und zu deren Durchführung sich der Eigentümer neben bestimmten Modernisierungsmaßnahmen gegenüber der Gemeinde verpflichtet hat. ³Der Steuerpflichtige kann die erhöhten Absetzungen im Jahr des Abschlusses der Maßnahme und in den folgenden elf Jahren auch für Anschaffungskosten in Anspruch nehmen, die auf Maßnahmen im Sinne der Sätze 1 und 2 entfallen, soweit diese nach dem rechtswirksamen Abschluss eines obligatorischen Erwerbsvertrags oder eines gleichstehenden Rechtsakts durchgeführt worden sind. ⁴Die erhöhten Absetzungen können nur in Anspruch genommen werden, soweit die Herstellungs- oder Anschaffungskosten durch Zuschüsse aus Sanierungs- oder Entwicklungsförderungsmitteln nicht gedeckt sind. ⁵Nach Ablauf des Begünstigungszeitraums ist ein Restwert den Herstellungs- oder Anschaffungskosten des Gebäudes oder dem an deren Stelle tretenden Wert hinzuzurechnen; die weiteren Absetzungen für Abnutzung sind einheitlich für das gesamte Gebäude nach dem sich hiernach ergebenden Betrag und dem für das Gebäude maßgebenden Prozentsatz zu bemessen.
+(1) ¹Bei einem im Inland belegenen Gebäude in einem förmlich festgelegten Sanierungsgebiet oder städtebaulichen Entwicklungsbereich kann der Steuerpflichtige abweichend von § 7 Absatz 4 bis 5a im Jahr der Herstellung und in den folgenden sieben Jahren jeweils bis zu 9 Prozent und in den folgenden vier Jahren jeweils bis zu 7 Prozent der Herstellungskosten für Modernisierungs- und Instandsetzungsmaßnahmen im Sinne des § 177 des Baugesetzbuchs absetzen. ²Satz 1 ist entsprechend anzuwenden auf Herstellungskosten für Maßnahmen, die der Erhaltung, Erneuerung und funktionsgerechten Verwendung eines Gebäudes im Sinne des Satzes 1 dienen, das wegen seiner geschichtlichen, künstlerischen oder städtebaulichen Bedeutung erhalten bleiben soll, und zu deren Durchführung sich der Eigentümer neben bestimmten Modernisierungsmaßnahmen gegenüber der Gemeinde verpflichtet hat. ³Der Steuerpflichtige kann die erhöhten Absetzungen im Jahr des Abschlusses der Maßnahme und in den folgenden elf Jahren auch für Anschaffungskosten in Anspruch nehmen, die auf Maßnahmen im Sinne der Sätze 1 und 2 entfallen, soweit diese nach dem rechtswirksamen Abschluss eines obligatorischen Erwerbsvertrags oder eines gleichstehenden Rechtsakts durchgeführt worden sind. ⁴Die erhöhten Absetzungen können nur in Anspruch genommen werden, soweit die Herstellungs- oder Anschaffungskosten durch Zuschüsse aus Sanierungs- oder Entwicklungsförderungsmitteln nicht gedeckt sind. ⁵Nach Ablauf des Begünstigungszeitraums ist ein Restwert den Herstellungs- oder Anschaffungskosten des Gebäudes oder dem an deren Stelle tretenden Wert hinzuzurechnen; die weiteren Absetzungen für Abnutzung sind einheitlich für das gesamte Gebäude nach dem sich hiernach ergebenden Betrag und dem für das Gebäude maßgebenden Prozentsatz zu bemessen.
 
 (1a) ¹Absatz 1 ist nicht anzuwenden, sofern Maßnahmen zur Herstellung eines neuen Gebäudes führen. ²Die Prüfung, ob Maßnahmen zur Herstellung eines neuen Gebäudes führen, obliegt der Finanzbehörde.
 
@@ -1440,7 +1442,7 @@ b) im Wirtschaftsjahr, in dem die Abzüge vorgenommen werden sollen, ohne Berüc
 
 # § 7i – Erhöhte Absetzungen bei Baudenkmalen
 
-(1) ¹Bei einem im Inland belegenen Gebäude, das nach den jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, kann der Steuerpflichtige abweichend von § 7 Absatz 4 und 5 im Jahr der Herstellung und in den folgenden sieben Jahren jeweils bis zu 9 Prozent und in den folgenden vier Jahren jeweils bis zu 7 Prozent der Herstellungskosten für Baumaßnahmen, die nach Art und Umfang zur Erhaltung des Gebäudes als Baudenkmal oder zu seiner sinnvollen Nutzung erforderlich sind, absetzen. ²Eine sinnvolle Nutzung ist nur anzunehmen, wenn das Gebäude in der Weise genutzt wird, dass die Erhaltung der schützenswerten Substanz des Gebäudes auf die Dauer gewährleistet ist. ³Bei einem im Inland belegenen Gebäudeteil, das nach den jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, sind die Sätze 1 und 2 entsprechend anzuwenden. ⁴Bei einem im Inland belegenen Gebäude oder Gebäudeteil, das für sich allein nicht die Voraussetzungen für ein Baudenkmal erfüllt, aber Teil einer Gebäudegruppe oder Gesamtanlage ist, die nach den jeweiligen landesrechtlichen Vorschriften als Einheit geschützt ist, kann der Steuerpflichtige die erhöhten Absetzungen von den Herstellungskosten für Baumaßnahmen vornehmen, die nach Art und Umfang zur Erhaltung des schützenswerten äußeren Erscheinungsbildes der Gebäudegruppe oder Gesamtanlage erforderlich sind. ⁵Der Steuerpflichtige kann die erhöhten Absetzungen im Jahr des Abschlusses der Baumaßnahme und in den folgenden elf Jahren auch für Anschaffungskosten in Anspruch nehmen, die auf Baumaßnahmen im Sinne der Sätze 1 bis 4 entfallen, soweit diese nach dem rechtswirksamen Abschluss eines obligatorischen Erwerbsvertrags oder eines gleichstehenden Rechtsakts durchgeführt worden sind. ⁶Die Baumaßnahmen müssen in Abstimmung mit der in Absatz 2 bezeichneten Stelle durchgeführt worden sein. ⁷Die erhöhten Absetzungen können nur in Anspruch genommen werden, soweit die Herstellungs- oder Anschaffungskosten nicht durch Zuschüsse aus öffentlichen Kassen gedeckt sind. ⁸§ 7h Absatz 1 Satz 5 ist entsprechend anzuwenden.
+(1) ¹Bei einem im Inland belegenen Gebäude, das nach den jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, kann der Steuerpflichtige abweichend von § 7 Absatz 4 bis 5a im Jahr der Herstellung und in den folgenden sieben Jahren jeweils bis zu 9 Prozent und in den folgenden vier Jahren jeweils bis zu 7 Prozent der Herstellungskosten für Baumaßnahmen, die nach Art und Umfang zur Erhaltung des Gebäudes als Baudenkmal oder zu seiner sinnvollen Nutzung erforderlich sind, absetzen. ²Eine sinnvolle Nutzung ist nur anzunehmen, wenn das Gebäude in der Weise genutzt wird, dass die Erhaltung der schützenswerten Substanz des Gebäudes auf die Dauer gewährleistet ist. ³Bei einem im Inland belegenen Gebäudeteil, das nach den jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, sind die Sätze 1 und 2 entsprechend anzuwenden. ⁴Bei einem im Inland belegenen Gebäude oder Gebäudeteil, das für sich allein nicht die Voraussetzungen für ein Baudenkmal erfüllt, aber Teil einer Gebäudegruppe oder Gesamtanlage ist, die nach den jeweiligen landesrechtlichen Vorschriften als Einheit geschützt ist, kann der Steuerpflichtige die erhöhten Absetzungen von den Herstellungskosten für Baumaßnahmen vornehmen, die nach Art und Umfang zur Erhaltung des schützenswerten äußeren Erscheinungsbildes der Gebäudegruppe oder Gesamtanlage erforderlich sind. ⁵Der Steuerpflichtige kann die erhöhten Absetzungen im Jahr des Abschlusses der Baumaßnahme und in den folgenden elf Jahren auch für Anschaffungskosten in Anspruch nehmen, die auf Baumaßnahmen im Sinne der Sätze 1 bis 4 entfallen, soweit diese nach dem rechtswirksamen Abschluss eines obligatorischen Erwerbsvertrags oder eines gleichstehenden Rechtsakts durchgeführt worden sind. ⁶Die Baumaßnahmen müssen in Abstimmung mit der in Absatz 2 bezeichneten Stelle durchgeführt worden sein. ⁷Die erhöhten Absetzungen können nur in Anspruch genommen werden, soweit die Herstellungs- oder Anschaffungskosten nicht durch Zuschüsse aus öffentlichen Kassen gedeckt sind. ⁸§ 7h Absatz 1 Satz 5 ist entsprechend anzuwenden.
 
 (2) ¹Der Steuerpflichtige kann die erhöhten Absetzungen nur in Anspruch nehmen, wenn er durch eine nicht offensichtlich rechtswidrige Bescheinigung der nach Landesrecht zuständigen oder von der Landesregierung bestimmten Stelle die Voraussetzungen des Absatzes 1 für das Gebäude oder Gebäudeteil und für die Erforderlichkeit der Aufwendungen nachweist. ²Hat eine der für Denkmalschutz oder Denkmalpflege zuständigen Behörden ihm Zuschüsse gewährt, so hat die Bescheinigung auch deren Höhe zu enthalten; werden ihm solche Zuschüsse nach Ausstellung der Bescheinigung gewährt, so ist diese entsprechend zu ändern.
 
@@ -2308,23 +2310,17 @@ oder
 ³Der maßgebende Prozentsatz, der Höchstbetrag des Versorgungsfreibetrags und der Zuschlag zum Versorgungsfreibetrag sind der nachstehenden Tabelle zu entnehmen:  
   
 
-Jahr des  
-Versorgungs-  
-beginns
+Jahr des Versorgungsbeginns
 
 Versorgungsfreibetrag
 
-Zuschlag zum  
-Versorgungs-  
-freibetrag  
+Zuschlag zum Versorgungsfreibetrag  
 in Euro
 
 in % der  
-Versorgungs-  
-bezüge
+Versorgungsbezüge
 
-Höchstbetrag  
-in Euro
+Höchstbetrag in Euro
 
 bis 2005
 
@@ -2472,147 +2468,291 @@ ab 2006
 
 2023
 
+14,0
+
+1 050
+
+315
+
+2024
+
 13,6
 
 1 020
 
 306
 
-2024
-
-12,8
-
-  960
-
-288
-
 2025
 
-12,0
+13,2
 
-  900
+  990
 
-270
+297
 
 2026
 
-11,2
+12,8
 
-  840
+  960
 
-252
+288
 
 2027
 
-10,4
+12,4
 
-  780
+  930
 
-234
+279
 
 2028
 
- 9,6
+12,0
 
-  720
+  900
 
-216
+270
 
 2029
 
- 8,8
+11,6
 
-  660
+  870
 
-198
+261
 
 2030
 
- 8,0
+11,2
 
-  600
+  840
 
-180
+252
 
 2031
 
- 7,2
+10,8
 
-  540
+  810
 
-162
+243
 
 2032
 
- 6,4
+10,4
 
-  480
+  780
 
-144
+234
 
 2033
 
- 5,6
+10,0
 
-  420
+  750
 
-126
+225
 
 2034
 
- 4,8
+ 9,6
 
-  360
+  720
 
-108
+216
 
 2035
 
- 4,0
+ 9,2
 
-  300
+  690
 
- 90
+207
 
 2036
 
- 3,2
+ 8,8
 
-  240
+  660
 
- 72
+198
 
 2037
 
- 2,4
+ 8,4
 
-  180
+  630
 
- 54
+189
 
 2038
 
- 1,6
+ 8,0
 
-  120
+  600
 
- 36
+180
 
 2039
 
- 0,8
+ 7,6
 
-   60
+  570
 
- 18
+171
 
 2040
 
+ 7,2
+
+  540
+
+162
+
+2041
+
+ 6,8
+
+  510
+
+153
+
+2042
+
+ 6,4
+
+  480
+
+144
+
+2043
+
+ 6,0
+
+  450
+
+135
+
+2044
+
+ 5,6
+
+  420
+
+126
+
+2045
+
+ 5,2
+
+  390
+
+117
+
+2046
+
+ 4,8
+
+  360
+
+108
+
+2047
+
+ 4,4
+
+  330
+
+ 99
+
+2048
+
+ 4,0
+
+  300
+
+ 90
+
+2049
+
+ 3,6
+
+  270
+
+ 81
+
+2050
+
+ 3,2
+
+  240
+
+ 72
+
+2051
+
+ 2,8
+
+  210
+
+ 63
+
+2052
+
+ 2,4
+
+  180
+
+ 54
+
+2053
+
+ 2,0
+
+  150
+
+ 45
+
+2054
+
+ 1,6
+
+  120
+
+ 36
+
+2055
+
+ 1,2
+
+   90
+
+ 27
+
+2056
+
+ 0,8
+
+   60
+
+ 18
+
+2057
+
+ 0,4
+
+   30
+
+  9
+
+2058
+
  0,0
 
-    0
+    0
 
-  0
+   0
 
   
   
@@ -2787,11 +2927,11 @@ aa)
 die aus den gesetzlichen Rentenversicherungen, der landwirtschaftlichen Alterskasse, den berufsständischen Versorgungseinrichtungen und aus Rentenversicherungen im Sinne des § 10 Absatz 1 Nummer 2 Buchstabe b erbracht werden, soweit sie jeweils der Besteuerung unterliegen. ²Bemessungsgrundlage für den der Besteuerung unterliegenden Anteil ist der Jahresbetrag der Rente. ³Der der Besteuerung unterliegende Anteil ist nach dem Jahr des Rentenbeginns und dem in diesem Jahr maßgebenden Prozentsatz aus der nachstehenden Tabelle zu entnehmen:  
   
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><thead><tr class="header"><th style="text-align: center;">Jahr des<br />
-Renten-<br />
-beginns</th><th style="text-align: center;">Besteuerungs-<br />
-anteil<br />
-in %</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">bis 2005</td><td style="text-align: center;"> 50</td></tr><tr class="even"><td style="text-align: center;">ab 2006</td><td style="text-align: center;"> 52</td></tr><tr class="odd"><td style="text-align: center;">2007</td><td style="text-align: center;"> 54</td></tr><tr class="even"><td style="text-align: center;">2008</td><td style="text-align: center;"> 56</td></tr><tr class="odd"><td style="text-align: center;">2009</td><td style="text-align: center;"> 58</td></tr><tr class="even"><td style="text-align: center;">2010</td><td style="text-align: center;"> 60</td></tr><tr class="odd"><td style="text-align: center;">2011</td><td style="text-align: center;"> 62</td></tr><tr class="even"><td style="text-align: center;">2012</td><td style="text-align: center;"> 64</td></tr><tr class="odd"><td style="text-align: center;">2013</td><td style="text-align: center;"> 66</td></tr><tr class="even"><td style="text-align: center;">2014</td><td style="text-align: center;"> 68</td></tr><tr class="odd"><td style="text-align: center;">2015</td><td style="text-align: center;"> 70</td></tr><tr class="even"><td style="text-align: center;">2016</td><td style="text-align: center;"> 72</td></tr><tr class="odd"><td style="text-align: center;">2017</td><td style="text-align: center;"> 74</td></tr><tr class="even"><td style="text-align: center;">2018</td><td style="text-align: center;"> 76</td></tr><tr class="odd"><td style="text-align: center;">2019</td><td style="text-align: center;"> 78</td></tr><tr class="even"><td style="text-align: center;">2020</td><td style="text-align: center;"> 80</td></tr><tr class="odd"><td style="text-align: center;">2021</td><td style="text-align: center;"> 81</td></tr><tr class="even"><td style="text-align: center;">2022</td><td style="text-align: center;"> 82</td></tr><tr class="odd"><td style="text-align: center;">2023</td><td style="text-align: center;"> 83</td></tr><tr class="even"><td style="text-align: center;">2024</td><td style="text-align: center;"> 84</td></tr><tr class="odd"><td style="text-align: center;">2025</td><td style="text-align: center;"> 85</td></tr><tr class="even"><td style="text-align: center;">2026</td><td style="text-align: center;"> 86</td></tr><tr class="odd"><td style="text-align: center;">2027</td><td style="text-align: center;"> 87</td></tr><tr class="even"><td style="text-align: center;">2028</td><td style="text-align: center;"> 88</td></tr><tr class="odd"><td style="text-align: center;">2029</td><td style="text-align: center;"> 89</td></tr><tr class="even"><td style="text-align: center;">2030</td><td style="text-align: center;"> 90</td></tr><tr class="odd"><td style="text-align: center;">2031</td><td style="text-align: center;"> 91</td></tr><tr class="even"><td style="text-align: center;">2032</td><td style="text-align: center;"> 92</td></tr><tr class="odd"><td style="text-align: center;">2033</td><td style="text-align: center;"> 93</td></tr><tr class="even"><td style="text-align: center;">2034</td><td style="text-align: center;"> 94</td></tr><tr class="odd"><td style="text-align: center;">2035</td><td style="text-align: center;"> 95</td></tr><tr class="even"><td style="text-align: center;">2036</td><td style="text-align: center;"> 96</td></tr><tr class="odd"><td style="text-align: center;">2037</td><td style="text-align: center;"> 97</td></tr><tr class="even"><td style="text-align: center;">2038</td><td style="text-align: center;"> 98</td></tr><tr class="odd"><td style="text-align: center;">2039</td><td style="text-align: center;"> 99</td></tr><tr class="even"><td style="text-align: center;">2040</td><td style="text-align: center;">100</td></tr></tbody></table>
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Jahr des<br />
+Rentenbeginns</th><th style="text-align: center;">Besteuerungsanteil<br />
+in %</th><th style="text-align: center;">Jahr des<br />
+Rentenbeginns</th><th style="text-align: center;">Besteuerungsanteil<br />
+in %</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">bis 2005</td><td style="text-align: center;">50,0</td><td style="text-align: center;">2032</td><td style="text-align: center;">87,0</td></tr><tr class="even"><td style="text-align: center;">ab 2006</td><td style="text-align: center;">52,0</td><td style="text-align: center;">2033</td><td style="text-align: center;">87,5</td></tr><tr class="odd"><td style="text-align: center;">2007</td><td style="text-align: center;">54,0</td><td style="text-align: center;">2034</td><td style="text-align: center;">88,0</td></tr><tr class="even"><td style="text-align: center;">2008</td><td style="text-align: center;">56,0</td><td style="text-align: center;">2035</td><td style="text-align: center;">88,5</td></tr><tr class="odd"><td style="text-align: center;">2009</td><td style="text-align: center;">58,0</td><td style="text-align: center;">2036</td><td style="text-align: center;">89,0</td></tr><tr class="even"><td style="text-align: center;">2010</td><td style="text-align: center;">60,0</td><td style="text-align: center;">2037</td><td style="text-align: center;">89,5</td></tr><tr class="odd"><td style="text-align: center;">2011</td><td style="text-align: center;">62,0</td><td style="text-align: center;">2038</td><td style="text-align: center;">90,0</td></tr><tr class="even"><td style="text-align: center;">2012</td><td style="text-align: center;">64,0</td><td style="text-align: center;">2039</td><td style="text-align: center;">90,5</td></tr><tr class="odd"><td style="text-align: center;">2013</td><td style="text-align: center;">66,0</td><td style="text-align: center;">2040</td><td style="text-align: center;">91,0</td></tr><tr class="even"><td style="text-align: center;">2014</td><td style="text-align: center;">68,0</td><td style="text-align: center;">2041</td><td style="text-align: center;">91,5</td></tr><tr class="odd"><td style="text-align: center;">2015</td><td style="text-align: center;">70,0</td><td style="text-align: center;">2042</td><td style="text-align: center;">92,0</td></tr><tr class="even"><td style="text-align: center;">2016</td><td style="text-align: center;">72,0</td><td style="text-align: center;">2043</td><td style="text-align: center;">92,5</td></tr><tr class="odd"><td style="text-align: center;">2017</td><td style="text-align: center;">74,0</td><td style="text-align: center;">2044</td><td style="text-align: center;">93,0</td></tr><tr class="even"><td style="text-align: center;">2018</td><td style="text-align: center;">76,0</td><td style="text-align: center;">2045</td><td style="text-align: center;">93,5</td></tr><tr class="odd"><td style="text-align: center;">2019</td><td style="text-align: center;">78,0</td><td style="text-align: center;">2046</td><td style="text-align: center;">94,0</td></tr><tr class="even"><td style="text-align: center;">2020</td><td style="text-align: center;">80,0</td><td style="text-align: center;">2047</td><td style="text-align: center;">94,5</td></tr><tr class="odd"><td style="text-align: center;">2021</td><td style="text-align: center;">81,0</td><td style="text-align: center;">2048</td><td style="text-align: center;">95,0</td></tr><tr class="even"><td style="text-align: center;">2022</td><td style="text-align: center;">82,0</td><td style="text-align: center;">2049</td><td style="text-align: center;">95,5</td></tr><tr class="odd"><td style="text-align: center;">2023</td><td style="text-align: center;">82,5</td><td style="text-align: center;">2050</td><td style="text-align: center;">96,0</td></tr><tr class="even"><td style="text-align: center;">2024</td><td style="text-align: center;">83,0</td><td style="text-align: center;">2051</td><td style="text-align: center;">96,5</td></tr><tr class="odd"><td style="text-align: center;">2025</td><td style="text-align: center;">83,5</td><td style="text-align: center;">2052</td><td style="text-align: center;">97,0</td></tr><tr class="even"><td style="text-align: center;">2026</td><td style="text-align: center;">84,0</td><td style="text-align: center;">2053</td><td style="text-align: center;">97,5</td></tr><tr class="odd"><td style="text-align: center;">2027</td><td style="text-align: center;">84,5</td><td style="text-align: center;">2054</td><td style="text-align: center;">98,0</td></tr><tr class="even"><td style="text-align: center;">2028</td><td style="text-align: center;">85,0</td><td style="text-align: center;">2055</td><td style="text-align: center;">98,5</td></tr><tr class="odd"><td style="text-align: center;">2029</td><td style="text-align: center;">85,5</td><td style="text-align: center;">2056</td><td style="text-align: center;">99,0</td></tr><tr class="even"><td style="text-align: center;">2030</td><td style="text-align: center;">86,0</td><td style="text-align: center;">2057</td><td style="text-align: center;">99,5</td></tr><tr class="odd"><td style="text-align: center;">2031</td><td style="text-align: center;">86,5</td><td style="text-align: center;">2058</td><td style="text-align: center;">100,0</td></tr></tbody></table>
 
   
   
@@ -2948,11 +3088,8 @@ c) als Ausgleichszahlungen an Handelsvertreter nach § 89b des Handelsgesetzbuch
 ³Der Altersentlastungsbetrag wird einem Steuerpflichtigen gewährt, der vor dem Beginn des Kalenderjahres, in dem er sein Einkommen bezogen hat, das 64. Lebensjahr vollendet hatte. ⁴Im Fall der Zusammenveranlagung von Ehegatten zur Einkommensteuer sind die Sätze 1 bis 3 für jeden Ehegatten gesondert anzuwenden. ⁵Der maßgebende Prozentsatz und der Höchstbetrag des Altersentlastungsbetrags sind der nachstehenden Tabelle zu entnehmen:  
   
 
-Das auf die  
-Vollendung des  
-64. Lebensjahres  
-folgende  
-Kalenderjahr
+Das auf die Vollendung des  
+64. Lebensjahres folgende Kalenderjahr
 
 Altersentlastungsbetrag
 
@@ -3070,111 +3207,219 @@ Höchstbetrag in Euro
 
 2023
 
+14,0
+
+  665
+
+2024
+
 13,6
 
   646
 
-2024
+2025
+
+13,2
+
+  627
+
+2026
 
 12,8
 
   608
 
-2025
+2027
+
+12,4
+
+  589
+
+2028
 
 12,0
 
   570
 
-2026
+2029
+
+11,6
+
+  551
+
+2030
 
 11,2
 
   532
 
-2027
+2031
+
+10,8
+
+  513
+
+2032
 
 10,4
 
   494
 
-2028
+2033
+
+10,0
+
+  475
+
+2034
 
  9,6
 
   456
 
-2029
+2035
+
+ 9,2
+
+  437
+
+2036
 
  8,8
 
   418
 
-2030
+2037
+
+ 8,4
+
+  399
+
+2038
 
  8,0
 
   380
 
-2031
+2039
+
+ 7,6
+
+  361
+
+2040
 
  7,2
 
   342
 
-2032
+2041
+
+ 6,8
+
+  323
+
+2042
 
  6,4
 
   304
 
-2033
+2043
+
+ 6,0
+
+  285
+
+2044
 
  5,6
 
   266
 
-2034
+2045
+
+ 5,2
+
+  247
+
+2046
 
  4,8
 
   228
 
-2035
+2047
+
+ 4,4
+
+  209
+
+2048
 
  4,0
 
   190
 
-2036
+2049
+
+ 3,6
+
+  171
+
+2050
 
  3,2
 
   152
 
-2037
+2051
+
+ 2,8
+
+  133
+
+2052
 
  2,4
 
   114
 
-2038
+2053
+
+ 2,0
+
+   95
+
+2054
 
  1,6
 
-   76
+   76
 
-2039
+2055
+
+ 1,2
+
+   57
+
+2056
 
  0,8
 
-   38
+   38
 
-2040
+2057
+
+ 0,4
+
+   19
+
+2058
 
  0,0
 
-    0
+     0
 
 # § 24b – Entlastungsbetrag für Alleinerziehende
 
@@ -6193,9 +6438,9 @@ und die Muster der Bescheinigungen für den Lohnsteuerabzug nach § 39 Absatz 3 
 
 (14a) § 6e in der Fassung des Artikels 1 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist auch in Wirtschaftsjahren anzuwenden, die vor dem 18. Dezember 2019 enden.
 
-(15) ¹Bei Wirtschaftsgütern, die vor dem 1. Januar 2001 angeschafft oder hergestellt worden sind, ist § 7 Absatz 2 Satz 2 in der Fassung des Gesetzes vom 22. Dezember 1999 (BGBl. I S. 2601) weiter anzuwenden. ²Bei Gebäuden, soweit sie zu einem Betriebsvermögen gehören und nicht Wohnzwecken dienen, ist § 7 Absatz 4 Satz 1 und 2 in der am 31. Dezember 2000 geltenden Fassung weiter anzuwenden, wenn der Steuerpflichtige im Fall der Herstellung vor dem 1. Januar 2001 mit der Herstellung des Gebäudes begonnen hat oder im Fall der Anschaffung das Objekt auf Grund eines vor dem 1. Januar 2001 rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft hat. ³Als Beginn der Herstellung gilt bei Gebäuden, für die eine Baugenehmigung erforderlich ist, der Zeitpunkt, in dem der Bauantrag gestellt wird; bei baugenehmigungsfreien Gebäuden, für die Bauunterlagen einzureichen sind, der Zeitpunkt, in dem die Bauunterlagen eingereicht werden.
+(15) ¹Bei Wirtschaftsgütern, die vor dem 1. Januar 2001 angeschafft oder hergestellt worden sind, ist § 7 Absatz 2 Satz 2 in der Fassung des Gesetzes vom 22. Dezember 1999 (BGBl. I S. 2601) weiter anzuwenden. ²Bei Gebäuden, soweit sie zu einem Betriebsvermögen gehören und nicht Wohnzwecken dienen, ist § 7 Absatz 4 Satz 1 und 2 in der am 31. Dezember 2000 geltenden Fassung weiter anzuwenden, wenn der Steuerpflichtige im Fall der Herstellung vor dem 1. Januar 2001 mit der Herstellung des Gebäudes begonnen hat oder im Fall der Anschaffung das Objekt auf Grund eines vor dem 1. Januar 2001 rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft hat. ³Als Beginn der Herstellung im Sinne des Satzes 2 gilt bei Gebäuden, für die eine Baugenehmigung erforderlich ist, der Zeitpunkt, in dem der Bauantrag gestellt wird; bei baugenehmigungsfreien Gebäuden, für die Bauunterlagen einzureichen sind, der Zeitpunkt, in dem die Bauunterlagen eingereicht werden.
 
-(15a) ¹Die Inanspruchnahme der Sonderabschreibungen nach § 7b in der Fassung des Artikels 1 des Gesetzes vom 4. August 2019 (BGBl. I S. 1122) kann erstmalig für den Veranlagungszeitraum 2018 und letztmalig für den Veranlagungszeitraum 2026, in den Fällen des § 4a letztmalig für Wirtschaftsjahre, die vor dem 1. Januar 2027 enden, geltend gemacht werden. ²Das gilt auch dann, wenn der Abschreibungszeitraum nach § 7b Absatz 1 noch nicht abgelaufen ist. ³§ 7b Absatz 5 in der Fassung des Artikels 4 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) gilt für Sonderabschreibungen, die für neue Wohnungen in Anspruch genommen werden, die aufgrund eines nach dem 31. Dezember 2022 und vor dem 1. Januar 2027 gestellten Bauantrags oder einer in diesem Zeitraum getätigten Bauanzeige hergestellt werden.
+(15a) ¹Die Inanspruchnahme der Sonderabschreibungen nach § 7b in der Fassung des Artikels 1 des Gesetzes vom 4. August 2019 (BGBl. I S. 1122) kann erstmalig für den Veranlagungszeitraum 2018 und letztmalig für den Veranlagungszeitraum 2026, in den Fällen des § 4a letztmalig für Wirtschaftsjahre, die vor dem 1. Januar 2027 enden, geltend gemacht werden. ²Das gilt auch dann, wenn der Abschreibungszeitraum nach § 7b Absatz 1 noch nicht abgelaufen ist. ³§ 7b Absatz 5 in der Fassung des Artikels 4 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) gilt für Sonderabschreibungen, die für neue Wohnungen in Anspruch genommen werden, die aufgrund eines nach dem 31. Dezember 2022 und vor dem 1. Oktober 2029 gestellten Bauantrags oder einer in diesem Zeitraum getätigten Bauanzeige hergestellt werden.
 
 (15b) § 7c in der Fassung des Artikels 2 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für nach dem 31. Dezember 2019 und vor dem 1. Januar 2031 angeschaffte neue Elektrolieferfahrzeuge anzuwenden.
 
@@ -6241,7 +6486,7 @@ entstehen; Nummer 1 gilt nur bei Schiffen, deren Anschaffungs- oder Herstellungs
 
 (26) Für die Anwendung des § 18 Absatz 4 Satz 2 in der Fassung des Artikels 1 des Gesetzes vom 22. Dezember 2005 (BGBl. I S. 3683) gilt Absatz 25 entsprechend.
 
-(26a) § 19 Absatz 1 Satz 1 Nummer 3 Satz 2 und 3 in der am 31. Dezember 2014 geltenden Fassung gilt für alle Zahlungen des Arbeitgebers nach dem 30. Dezember 2014.
+(26a) § 19 Absatz 2 Satz 3 und § 24a Satz 5 in der Fassung des Artikels 1 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) sind beim Steuerabzug vom Arbeitslohn erstmals ab dem 1. Januar 2025 anzuwenden.
 
 (27) (weggefallen)
 

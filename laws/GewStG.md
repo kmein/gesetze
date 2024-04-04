@@ -708,7 +708,7 @@ im Zusammenhang mit dem Betrieb von Anlagen zur Stromerzeugung aus erneuerbaren 
 bb)  
 aus dem Betrieb von Ladestationen für Elektrofahrzeuge oder Elektrofahrräder,
 
-erzielt werden und diese Einnahmen im Wirtschaftsjahr nicht höher als 10 Prozent der Einnahmen aus der Gebrauchsüberlassung des Grundbesitzes sind; die Einnahmen im Sinne von Doppelbuchstabe aa dürfen nicht aus der Lieferung an Letztverbraucher stammen, es sei denn, diese sind Mieter des Anlagenbetreibers, oder
+erzielt werden und diese Einnahmen im Wirtschaftsjahr nicht höher als 20 Prozent der Einnahmen aus der Gebrauchsüberlassung des Grundbesitzes sind; die Einnahmen im Sinne von Doppelbuchstabe aa dürfen nicht aus der Lieferung an Letztverbraucher stammen, es sei denn, diese sind Mieter des Anlagenbetreibers, oder
 
 c) Einnahmen aus unmittelbaren Vertragsbeziehungen mit den Mietern des Grundbesitzes aus anderen als den in den Buchstaben a und b bezeichneten Tätigkeiten erzielt werden und diese Einnahmen im Wirtschaftsjahr nicht höher als 5 Prozent der Einnahmen aus der Gebrauchsüberlassung des Grundbesitzes sind.
 
@@ -1037,6 +1037,8 @@ g) über die Festsetzung abweichender Vorauszahlungstermine.
 (4) ¹§ 8 Nummer 1 Buchstabe d Satz 2 ist nur auf Entgelte anzuwenden, die auf Verträgen beruhen, die nach dem 31. Dezember 2019 abgeschlossen worden sind. ²Dabei ist bei Verträgen, die vor dem 1. Januar 2025 abgeschlossen werden, statt einer Reichweite von 80 Kilometern eine Reichweite von 60 Kilometern ausreichend. ³§ 8 Nummer 1 Buchstabe d Satz 2 ist letztmals für den Erhebungszeitraum 2030 anzuwenden.
 
 (4a) § 8 Nummer 5 in der Fassung des Artikels 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für den Erhebungszeitraum 2022 anzuwenden.
+
+(4b) § 9 Nummer 1 Satz 3 Buchstabe b in der Fassung des Artikels 19 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals für den Erhebungszeitraum 2023 anzuwenden.
 
 (5) ¹§ 9 Nummer 3 Satz 1 erster Halbsatz in der Fassung des Artikels 16 des Gesetzes vom 20. Dezember 2016 (BGBl. I S. 3000) ist erstmals für den Erhebungszeitraum 2017 anzuwenden. ²§ 9 Nummer 5 Satz 12 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für Zuwendungen anzuwenden, die nach dem 31. Dezember 2019 geleistet werden.
 

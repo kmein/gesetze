@@ -45,6 +45,28 @@ Satz 1 Nummer 3 Buchstabe a bis c gilt auch, soweit im Verhältnis der dritten P
 
 Die Feststellung des Eigentums oder der Inhaberschaft an einem immateriellen Wert, einschließlich aus einem solchen abgeleiteter Rechte, ist Ausgangspunkt für die Bestimmung, welchem an dem Geschäftsvorfall beteiligten Unternehmen der Ertrag zusteht, der sich aus jedweder Art der Verwertung dieses immateriellen Werts ergibt. Soweit eine dem Eigentümer oder dem Inhaber des immateriellen Werts nahestehende Person Funktionen im Zusammenhang mit der Entwicklung oder Erschaffung, der Verbesserung, dem Erhalt, dem Schutz oder jedweder Art der Verwertung des immateriellen Werts ausübt, hierzu Vermögenswerte einsetzt und Risiken übernimmt, sind diese Funktionen vom Eigentümer oder Inhaber der nahestehenden Person angemessen zu vergüten. Die Finanzierung der Entwicklung oder Erschaffung, des Erhalts oder des Schutzes eines immateriellen Werts ist angemessen zu vergüten und berechtigt nicht zum Ertrag aus dem finanzierten immateriellen Wert.
 
+(3d) Es entspricht nicht dem Fremdvergleichsgrundsatz, wenn ein aus einer grenzüberschreitenden Finanzierungsbeziehung innerhalb einer multinationalen Unternehmensgruppe resultierender Aufwand die Einkünfte des Steuerpflichtigen gemindert hat und
+
+1. der Steuerpflichtige nicht glaubhaft machen kann, dass er
+
+a) den Kapitaldienst für die gesamte Laufzeit dieser Finanzierungsbeziehung von Anfang an hätte erbringen können und
+
+b) die Finanzierung wirtschaftlich benötigt und für den Unternehmenszweck verwendet
+
+oder
+
+2. soweit der seitens des Steuerpflichtigen zu entrichtende Zinssatz für eine grenzüberschreitende Finanzierungsbeziehung mit einer ihm nahestehenden Person den Zinssatz übersteigt, zu dem sich das Unternehmen unter Zugrundelegung des Ratings für die Unternehmensgruppe gegenüber fremden Dritten finanzieren könnte. Wird im Einzelfall nachgewiesen, dass ein aus dem Unternehmensgruppenrating abgeleitetes Rating dem Fremdvergleichsgrundsatz entspricht, ist dieses bei der Bemessung des Zinssatzes zu berücksichtigen.
+
+Als Finanzierungsbeziehung gelten insbesondere ein Darlehensverhältnis sowie die Nutzung oder die Bereitstellung von Fremdkapital und fremdkapitalähnlichen Instrumenten.
+
+(3e) Es handelt sich regelmäßig um eine funktions- und risikoarme Dienstleistung, wenn
+
+1. eine Finanzierungsbeziehung von einem Unternehmen gegenüber einem anderen Unternehmen innerhalb einer multinationalen Unternehmensgruppe vermittelt wird oder
+
+2. eine Finanzierungsbeziehung von einem Unternehmen an ein anderes Unternehmen innerhalb einer multinationalen Unternehmensgruppe weitergeleitet wird.
+
+Hiervon ist auch regelmäßig dann auszugehen, wenn ein Unternehmen in der Unternehmensgruppe für ein oder mehrere Unternehmen der Unternehmensgruppe die Steuerung von Finanzmitteln, wie etwa ein Liquiditätsmanagement, ein Finanzrisikomanagement, ein Währungsrisikomanagement oder die Tätigkeit als Finanzierungsgesellschaft, übernimmt. Die Sätze 1 und 2 gelten nicht, wenn anhand einer Funktions- und Risikoanalyse nachgewiesen wird, dass es sich nicht um eine funktions- und risikoarme Dienstleistung handelt.
+
 (4) Geschäftsbeziehungen im Sinne dieser Vorschrift sind
 
 1. einzelne oder mehrere zusammenhängende wirtschaftliche Vorgänge (Geschäftsvorfälle) zwischen einem Steuerpflichtigen und einer ihm nahestehenden Person,
@@ -69,7 +91,7 @@ Liegt einem Geschäftsvorfall keine schuldrechtliche Vereinbarung zugrunde, ist 
 
 Auf der Grundlage dieser Zuordnung sind in einem zweiten Schritt die Art der Geschäftsbeziehungen zwischen dem Unternehmen und seiner Betriebsstätte und die Verrechnungspreise für diese Geschäftsbeziehungen zu bestimmen. Die Sätze 1 bis 4 sind entsprechend auf ständige Vertreter anzuwenden. Die Möglichkeit, einen Ausgleichsposten nach § 4g des Einkommensteuergesetzes zu bilden, wird nicht eingeschränkt. Auf Geschäftsbeziehungen zwischen einem Gesellschafter und seiner Personengesellschaft oder zwischen einem Mitunternehmer und seiner Mitunternehmerschaft sind die Sätze 1 bis 4 nicht anzuwenden, unabhängig davon, ob die Beteiligung unmittelbar besteht oder ob sie nach § 15 Absatz 1 Satz 1 Nummer 2 Satz 2 des Einkommensteuergesetzes mittelbar besteht; für diese Geschäftsbeziehungen gilt Absatz 1. Ist ein Abkommen zur Vermeidung der Doppelbesteuerung anzuwenden und macht der Steuerpflichtige geltend, dass dessen Regelungen den Sätzen 1 bis 7 widersprechen, so hat das Abkommen nur Vorrang, soweit der Steuerpflichtige nachweist, dass der andere Staat sein Besteuerungsrecht entsprechend diesem Abkommen ausübt und deshalb die Anwendung der Sätze 1 bis 7 zu einer Doppelbesteuerung führen würde.
 
-(6) Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Einzelheiten des Fremdvergleichsgrundsatzes im Sinne der Absätze 1, 3 bis 3c und 5 und Einzelheiten zu dessen einheitlicher Anwendung zu regeln sowie Grundsätze zur Bestimmung des Dotationskapitals im Sinne des Absatzes 5 Satz 3 Nummer 4 festzulegen.
+(6) Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Einzelheiten des Fremdvergleichsgrundsatzes im Sinne der Absätze 1, 3 bis 3e und 5 und Einzelheiten zu dessen einheitlicher Anwendung zu regeln sowie Grundsätze zur Bestimmung des Dotationskapitals im Sinne des Absatzes 5 Satz 3 Nummer 4 festzulegen.
 
 (+++ § 1: Zur Anwendung vgl. § 21 +++)
 
@@ -422,6 +444,12 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 2. für die Gewerbesteuer erstmals für den Erhebungszeitraum 2022,
 
 3. für die Erbschaftsteuer auf Erwerbe, bei denen die Steuerschuld nach dem Inkrafttreten dieses Gesetzes entstanden ist.
+
+(1a) § 1 Absatz 3d und 3e in der Fassung des Artikels 10 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals anzuwenden
+
+1. für die Einkommensteuer und für die Körperschaftsteuer für den Veranlagungszeitraum 2024;
+
+2. für die Gewerbesteuer für den Erhebungszeitraum 2024.
 
 (2) § 1 Absatz 2 in der Fassung des Artikels 5 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist für Zwecke der Anwendung des § 4k Absatz 6 des Einkommensteuergesetzes in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) bereits für den Veranlagungs- und Erhebungszeitraum 2020 anzuwenden.
 

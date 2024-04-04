@@ -421,7 +421,7 @@ Bei der Ermittlung der Einnahmen ist als Werbungskostenpauschale der Sparer-Paus
 
 2. Einnahmen aus Vermietung und Verpachtung im Sinne des § 21 des Einkommensteuergesetzes nach Abzug der Werbungskosten und
 
-3. Gewinne aus privaten Veräußerungsgeschäften im Sinne des § 23 des Einkommensteuergesetzes, soweit sie mindestens 600 Euro im Kalenderjahr betragen.
+3. Gewinne aus privaten Veräußerungsgeschäften im Sinne des § 23 des Einkommensteuergesetzes, soweit sie mindestens 1 000 Euro im Kalenderjahr betragen.
 
 # § 18b – Höhe des zu berücksichtigenden Einkommens
 
@@ -2950,9 +2950,15 @@ Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung 
 
 (3) Vermögensgenstände, die dem Verwaltungsvermögen zuzuordnen sind und die der Versicherungsträger am 31. August 2022 der Rücklage zugeordnet hat, müssen spätestens bis zum 31. Dezember 2025 dem Verwaltungsvermögen zugewiesen werden.
 
-# § 124 – (weggefallen)
+# § 124 – Bestandsabfrage zur Erhebung der Elterneigenschaft und der Anzahl der berücksichtigungsfähigen Kinder nach § 55 Absatz 3 des Elften Buches
 
-# § 125 – (weggefallen)
+Arbeitgeber müssen ab dem 1. Juli 2025 für die in der sozialen Pflegeversicherung versicherungspflichtigen Beschäftigten eine Meldung entsprechend § 28a Absatz 13 erstatten. Die Meldung hat spätestens bis zur Entgeltabrechnung Dezember 2025 zu erfolgen. Die Datenstelle der Rentenversicherung nach § 145 Absatz 1 Satz 1 des Sechsten Buches hat dem Arbeitgeber unverzüglich die ab dem 1. Juli 2025 zum Nachweis der Elterneigenschaft oder der Anzahl der berücksichtigungsfähigen Kinder erforderlichen Daten nach Maßgabe des § 55a Absatz 4 Satz 1 und 3 des Elften Buches weiterzuleiten. Bei Arbeitgebern, die im Zeitraum vom 1. Juli 2023 bis zum 30. Juni 2025 sich weder die Elterneigenschaft sowie die Anzahl der Kinder nach § 55 Absatz 3a Satz 1 haben nachweisen lassen noch an dem Nachweisverfahren nach § 55 Absatz 3d Satz 2 des Elften Buches teilgenommen haben, erstreckt sich die Meldung auf den gesamten genannten Zeitraum. Das Nähere zum Verfahren sowie zum Aufbau und zum Inhalt der Datensätze für die Meldung wird in den Grundsätzen nach § 28a Absatz 13 Satz 5 geregelt.
+
+# § 125 – Übergangsregelung zum Erstattungsanspruch nach § 55 Absatz 3d Satz 1 des Elften Buches und zur Verzinsung dieses Erstattungsanspruchs
+
+(1) Der Erstattungsanspruch nach § 55 Absatz 3d Satz 1 des Elften Buches ist nach Ablauf des Kalendermonats der Beitragszahlung bis zum Ablauf des Kalendermonats vor der Erstattung mit 4 Prozent pro Jahr zu verzinsen. Ein gesonderter Antrag ist nicht zu stellen.
+
+(2) Der Erstattungsanspruch und der sich nach Absatz 1 Satz 1 ergebende Zinsbetrag sind durch die beitragsabführenden Stellen und die Pflegekassen bei Selbstzahlern auszuzahlen oder mit künftigen Beitragsansprüchen aufzurechnen. Die Aufrechnung bedarf keiner Zustimmung des Berechtigten.
 
 # § 126 – Verzicht auf die elektronisch unterstützte Prüfung bei den Arbeitgebern
 

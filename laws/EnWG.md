@@ -5668,11 +5668,13 @@ Die Bundesnetzagentur ist befugt, die auf Grundlage der in Satz 1 genannten Rech
 
 3. Artikel 5 Absatz 8 der Verordnung (EU) 2017/1485 der Kommission vom 2. August 2017 zur Festlegung einer Leitlinie für den Übertragungsnetzbetrieb (ABl. L 220 vom 25.8.2017, S. 1) die zuletzt durch die Durchführungsverordnung (EU) 2021/280 (ABl. L 62 vom 23.2.2021, S. 24) geändert worden ist,
 
-4. Artikel 4 Absatz 6 der Verordnung (EU) 2017/2195 Kommission vom 23. November 2017 zur Festlegung einer Leitlinie über den Systemausgleich im Elektrizitätsversorgungssystem (ABl. L 312 vom 28.11.2017, S. 6), die zuletzt durch die Durchführungsverordnung (EU) 2021/280 (ABl. L 62 vom 23.2.2021, S. 24) geändert worden ist, und
+4. Artikel 4 Absatz 6 der Verordnung (EU) 2017/2195 der Kommission vom 23. November 2017 zur Festlegung einer Leitlinie über den Systemausgleich im Elektrizitätsversorgungssystem (ABl. L 312 vom 28.11.2017, S. 6), die zuletzt durch die Durchführungsverordnung (EU) 2021/280 (ABl. L 62 vom 23.2.2021, S. 24) geändert worden ist, und
 
 5. Artikel 15 Absatz 2 der Verordnung (EU) 2019/943 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über den Elektrizitätsbinnenmarkt (ABl. L 158 vom 14.6.2019, S. 54), die zuletzt durch die Verordnung (EU) 2022/869 (ABl. L 152 vom 3.6.2022, S. 45) geändert worden ist.
 
 Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
+
+§ 56 Abs. 2 Satz 1 Nr. 4 Kursivdruck: Grammatikalischen Fehler durch Einfügung des Artikels "der" korrigiert
 
 # § 57 – Zusammenarbeit mit Regulierungsbehörden anderer Mitgliedstaaten, der Agentur für die Zusammenarbeit der Energieregulierungsbehörden und der Europäischen Kommission
 

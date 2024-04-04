@@ -189,27 +189,27 @@ Der Verwalter hat jederzeit dem Gericht oder einem mit der Prüfung beauftragten
 
 (1) Bei der Zwangsverwaltung von Grundstücken, die durch Vermieten oder Verpachten genutzt werden, erhält der Verwalter als Vergütung in der Regel 10 Prozent des für den Zeitraum der Verwaltung an Mieten oder Pachten eingezogenen Bruttobetrags. Für vertraglich geschuldete, nicht eingezogene Mieten oder Pachten erhält er 20 Prozent der Vergütung, die er erhalten hätte, wenn diese Mieten eingezogen worden wären. Soweit Mietrückstände eingezogen werden, für die der Verwalter bereits eine Vergütung nach Satz 2 erhalten hat, ist diese anzurechnen.
 
-(2) Ergibt sich im Einzelfall ein Missverhältnis zwischen der Tätigkeit des Verwalters und der Vergütung nach Absatz 1, so kann der in Absatz 1 Satz 1 genannte Prozentsatz bis auf 5 vermindert oder bis auf 15 angehoben werden.
+(2) Ergibt sich im Einzelfall ein Missverhältnis zwischen der Tätigkeit des Verwalters und der Vergütung nach Absatz 1, so kann der in Absatz 1 Satz 1 genannte Prozentsatz bis auf 5 vermindert oder bis auf 20 angehoben werden.
 
 (3) Für die Fertigstellung von Bauvorhaben erhält der Verwalter 6 Prozent der von ihm verwalteten Bausumme. Planungs-, Ausführungs- und Abnahmekosten sind Bestandteil der Bausumme und finden keine Anrechnung auf die Vergütung des Verwalters.
 
 # § 19 – Abweichende Berechnung der Vergütung
 
-(1) Wenn dem Verwalter eine Vergütung nach § 18 nicht zusteht, bemisst sich die Vergütung nach Zeitaufwand. In diesem Fall erhält er für jede Stunde der für die Verwaltung erforderlichen Zeit, die er oder einer seiner Mitarbeiter aufgewendet hat, eine Vergütung von mindestens 35 Euro und höchstens 95 Euro. Der Stundensatz ist für den jeweiligen Abrechnungszeitraum einheitlich zu bemessen.
+(1) Wenn dem Verwalter eine Vergütung nach § 18 nicht zusteht, bemisst sich die Vergütung nach Zeitaufwand. In diesem Fall erhält er für jede Stunde der für die Verwaltung erforderlichen Zeit, die er oder einer seiner Mitarbeiter aufgewendet hat, eine Vergütung von mindestens 50 Euro und höchstens 250 Euro. Der Stundensatz ist für den jeweiligen Abrechnungszeitraum einheitlich zu bemessen.
 
 (2) Der Verwalter kann für den Abrechnungszeitraum einheitlich nach Absatz 1 abrechnen, wenn die Vergütung nach § 18 Abs. 1 und 2 offensichtlich unangemessen ist.
 
 # § 20 – Mindestvergütung
 
-(1) Ist das Zwangsverwaltungsobjekt von dem Verwalter in Besitz genommen, so beträgt die Vergütung des Verwalters mindestens 600 Euro.
+(1) Ist das Zwangsverwaltungsobjekt von dem Verwalter in Besitz genommen, so beträgt die Vergütung des Verwalters mindestens 1 200 Euro.
 
-(2) Ist das Verfahren der Zwangsverwaltung aufgehoben worden, bevor der Verwalter das Grundstück in Besitz genommen hat, so erhält er eine Vergütung von 200 Euro, sofern er bereits tätig geworden ist.
+(2) Ist das Verfahren der Zwangsverwaltung aufgehoben worden, bevor der Verwalter das Grundstück in Besitz genommen hat, so erhält er eine Vergütung von 450 Euro, sofern er bereits tätig geworden ist.
 
 # § 21 – Auslagen
 
 (1) Mit der Vergütung sind die allgemeinen Geschäftskosten abgegolten. Zu den allgemeinen Geschäftskosten gehört der Büroaufwand des Verwalters einschließlich der Gehälter seiner Angestellten.
 
-(2) Besondere Kosten, die dem Verwalter im Einzelfall, zum Beispiel durch Reisen oder die Einstellung von Hilfskräften für bestimmte Aufgaben im Rahmen der Zwangsverwaltung, tatsächlich entstehen, sind als Auslagen zu erstatten, soweit sie angemessen sind. Anstelle der tatsächlich entstandenen Auslagen kann der Verwalter nach seiner Wahl für den jeweiligen Abrechnungszeitraum eine Pauschale von 10 Prozent seiner Vergütung, höchstens jedoch 40 Euro für jeden angefangenen Monat seiner Tätigkeit, fordern.
+(2) Besondere Kosten, die dem Verwalter im Einzelfall, zum Beispiel durch Reisen oder die Einstellung von Hilfskräften für bestimmte Aufgaben im Rahmen der Zwangsverwaltung, tatsächlich entstehen, sind als Auslagen zu erstatten, soweit sie angemessen sind. Anstelle der tatsächlich entstandenen Auslagen kann der Verwalter nach seiner Wahl für den jeweiligen Abrechnungszeitraum eine Pauschale von 10 Prozent seiner Vergütung, höchstens jedoch 50 Euro für jeden angefangenen Monat seiner Tätigkeit, fordern.
 
 (3) Mit der Vergütung sind auch die Kosten einer Haftpflichtversicherung abgegolten. Ist die Verwaltung jedoch mit einem besonderen Haftungsrisiko verbunden, so sind die durch eine Höherversicherung nach § 1 Abs. 4 begründeten zusätzlichen Kosten als Auslagen zu erstatten.
 
@@ -229,7 +229,13 @@ Die vorstehenden Bestimmungen sind auf die Zwangsverwaltung von Berechtigungen, 
 
 # § 25 – Übergangsvorschrift
 
-In Zwangsverwaltungen, die bis einschließlich zum 31. Dezember 2003 angeordnet worden sind, findet die Verordnung über die Geschäftsführung und die Vergütung des Zwangsverwalters vom 16. Februar 1970 (BGBl. I S. 185), zuletzt geändert durch Artikel 9 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3574), weiter Anwendung; jedoch richten sich die Vergütung des Verwalters und der Auslagenersatz ab dem ersten auf den 31. Dezember 2003 folgenden Abrechnungszeitraum nach den §§ 17 bis 22 dieser Verordnung.
+(1) Auf die Vergütung des Verwalters und auf den Ersatz seiner Auslagen für Zwangsverwaltungen, die seit dem 1. Januar 2004 angeordnet wurden, sind die §§ 17 bis 22 erst für Abrechnungszeiträume anzuwenden, die auf den 3. April 2024 folgen; für die übrigen Abrechnungszeiträume gelten die §§ 17 bis 22 dieser Verordnung in der Fassung vom 19. Dezember 2003 (BGBl. I S. 2804).
+
+(2) Auf Zwangsverwaltungen, die bis einschließlich 31. Dezember 2003 angeordnet wurden, ist die Verordnung über die Geschäftsführung und die Vergütung des Zwangsverwalters vom 16. Februar 1970 (BGBl. I S. 185), die zuletzt durch Artikel 9 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3574) geändert worden ist, weiter anzuwenden. Jedoch richten sich die Vergütung des Verwalters und der Ersatz seiner Auslagen
+
+1. ab dem ersten auf den 31. Dezember 2003 folgenden Abrechnungszeitraum nach den §§ 17 bis 22 dieser Verordnung in der Fassung vom 19. Dezember 2003 (BGBl. I S. 2804),
+
+2. ab dem ersten auf den 3. April 2024 folgenden Abrechnungszeitraum nach den §§ 17 bis 22 dieser Verordnung.
 
 # § 26 – Inkrafttreten, Außerkrafttreten
 

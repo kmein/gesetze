@@ -11766,6 +11766,16 @@ Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
 
 (4) Auf Verlangen der Versicherten hat die Krankenkasse, abweichend von § 303 Absatz 4, Diagnosedaten, die ihr nach den §§ 295 und 295a übermittelt wurden und deren Unrichtigkeit durch einen ärztlichen Nachweis bestätigt wird, in berichtigter Form über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte des Versicherten zu übermitteln und dort zu speichern.
 
+# § 350a – Anspruch der Versicherten auf Digitalisierung von in Papierform vorliegenden medizinischen Informationen; Übertragung in die elektronische Patientenakte
+
+(1) Versicherte haben ab der Zurverfügungstellung der elektronischen Patientenakte gemäß § 342 Absatz 1 Satz 2 einen Anspruch darauf, dass die Krankenkassen auf ihren Antrag und mit ihrer Einwilligung in Papierform vorliegende medizinische Informationen gemäß § 341 Absatz 2 Nummer 1 Buchstabe a und d digitalisieren und über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte übermitteln und speichern. Der Anspruch nach Satz 1 kann je Versicherten zweimal innerhalb eines Zeitraumes von 24 Monaten geltend gemacht werden und ist jeweils auf zehn Dokumente begrenzt. Die Krankenkassen und die Anbieter der elektronischen Patientenakte haben die bei ihnen nach Satz 1 gespeicherten Daten unmittelbar nach der Übermittlung und Speicherung in der elektronischen Patientenakte zu löschen.
+
+(2) Die Krankenkassen legen das Nähere zum Verfahren nach Absatz 1 fest. Zur Erfüllung ihrer Verpflichtung nach Absatz 1 können die Krankenkassen eine übergreifende gemeinsame Stelle bestimmen.
+
+(3) Die Krankenkassen haben die Versicherten über den Anspruch und das Verfahren nach Absatz 1 umfassend und leicht verständlich zu informieren. Sie haben darüber aufzuklären, dass die Übermittlung der Daten über den Anbieter der elektronischen Patientenakte und nur auf Antrag der Versicherten erfolgt. Sofern die Krankenkassen eine übergreifende gemeinsame Stelle nach Absatz 2 Satz 2 bestimmen, haben sie über die Verarbeitung dieser Daten durch diese Stelle aufzuklären.
+
+(4) Der Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium für Gesundheit zum 1. April 2026 über den Umfang der Nutzung des Anspruchs nach Absatz 1.
+
 # § 351 – Übertragung von Daten aus Anwendungen nach § 33a in die elektronische Patientenakte; Bereitstellung von Daten der elektronischen Patientenakte im grenzübergreifenden Austausch
 
 (1) Die Krankenkasse hat sicherzustellen, dass Daten der Versicherten in digitalen Gesundheitsanwendungen nach § 33a mit Einwilligung der Versicherten vom Hersteller einer digitalen Gesundheitsanwendung nach § 33a über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte der Versicherten nach § 341 Absatz 2 Nummer 9 übermittelt und dort gespeichert werden können.
@@ -12328,6 +12338,14 @@ Die nach Satz 1 zu schaffende Übermittlungsmöglichkeit an authentifizierte Lei
 
 7. die Dokumentation der Datenübermittlung nach Absatz 4.
 
+# § 361b – Zugriff auf ärztliche Verordnungen digitaler Gesundheitsanwendungen in der Telematikinfrastruktur
+
+(1) Krankenkassen dürfen zum Zwecke der Einlösung elektronischer Verordnungen von digitalen Gesundheitsanwendungen nach § 360 Absatz 4 auf Daten der Versicherten in vertragsärztlichen elektronischen Verordnungen zugreifen.
+
+(2) Im Rahmen des Zugriffs nach Absatz 1 darf nicht in die ärztliche Therapiefreiheit eingegriffen oder die Wahlfreiheit der Versicherten beschränkt werden.
+
+(3) Die Krankenkassen ermöglichen den Versicherten die Nutzung einer digitalen Gesundheitsanwendung in der Regel innerhalb von zwei Arbeitstagen ab dem Zeitpunkt des Eingangs einer Verordnung bei der Krankenkasse.
+
 # § 362 – Nutzung von elektronischen Gesundheitskarten oder digitalen Identitäten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte, für sonstige heilfürsorgeberechtigte Beamte oder für Soldaten der Bundeswehr
 
 (1) Werden von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, der Bundespolizei, der Landespolizeien, von der Bundeswehr oder von Trägern der freien Heilfürsorge elektronische Gesundheitskarten oder digitale Identitäten für die Verarbeitung von Daten einer Anwendung nach § 334 Absatz 1 Satz 2 an ihre Versicherten, an Polizeivollzugsbeamte, an sonstige heilfürsorgeberechtigte Beamte oder an Soldaten zur Verfügung gestellt, sind § 291 Absatz 8 Satz 5 bis 9, § 291a Absatz 5 bis 7, die §§ 334 bis 337, 339, 341 Absatz 1 bis 4, § 342 Absatz 2 bis 3, § 343 Absatz 1 und 1a, die §§ 344, 345, 352, 353, 356 bis 359a und 361 entsprechend anzuwenden.
@@ -12469,6 +12487,16 @@ In der Vereinbarung nach Satz 1 ist vorzusehen, dass den Versicherten therapiere
 3. den Inhalten der Verfahrensordnung nach Absatz 3 Satz 1 sowie zum Zeitpunkt ihrer Veröffentlichung.
 
 In der Rechtsverordnung nach Satz 1 können auch weitere Funktionalitäten des elektronischen Systems festgelegt werden.
+
+# § 370b – Technische Verfahren in strukturierten Behandlungsprogrammen mit digitalisierten Versorgungsprozessen; Verordnungsermächtigung
+
+Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere zu regeln
+
+1. zu den Anforderungen an die für die Versorgung der Versicherten im Rahmen von strukturierten Behandlungsprammen mit digitalisierten Versorgungsprozessen erforderliche technische Ausstattung und an die Anwendungen der Leistungserbringer und Versicherten,
+
+2. zu dem Nachweis, dass die für die Versorgung im Rahmen von strukturierten Behandlungsprammen mit digitalisierten Versorgungsprozessen erforderliche technische Ausstattung und die Anwendungen der Leistungserbringer und Versicherten den Anforderungen an den Datenschutz entsprechen und die Datensicherheit nach dem Stand der Technik gewährleisten, und
+
+3. zu den zusätzlichen technischen Anforderungen an digitale Gesundheitsanwendungen, die im Rahmen von strukturierten Behandlungsprogrammen mit digitalisierten Versorgungsprozessen eingesetzt werden.
 
 # § 371 – Integration offener und standardisierter Schnittstellen in informationstechnische Systeme
 
@@ -12641,6 +12669,12 @@ Das Nähere zur Abrechnung der Erstattung vereinbaren für die von Hebammen gele
 (1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und Betriebskosten erhalten die Rechtsträger der für den Öffentlichen Gesundheitsdienst zuständigen Behörden ab dem 1. Januar 2021 die in der Vereinbarung nach § 378 Absatz 2 in der jeweils geltenden Fassung für die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer vereinbarten Erstattungen von den Krankenkassen.
 
 (2) Das Nähere zur Abrechnung der Erstattungen vereinbart der Spitzenverband Bund der Krankenkassen mit den obersten Landesbehörden oder den von ihnen jeweils bestimmten Stellen bis zum 1. Oktober 2020.
+
+# § 382a – Erstattung der den Betriebsärzten entstehenden Ausstattungs- und Betriebskosten
+
+(1) Zum Ausgleich der in § 376 genannten Ausstattungs- und Betriebskosten erhalten Betriebsärzte im Sinne von § 352 Satz 1 Nummer 18, die nicht an der vertragsärztlichen Versorgung teilnehmen, ab dem 1. Januar 2025 diejenigen Erstattungen von den Krankenkassen, die in der Vereinbarung nach § 378 Absatz 2 in der jeweils geltenden Fassung für die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer vereinbart wurden.
+
+(2) Das Nähere zur Abrechnung der Erstattungen vereinbart der Spitzenverband Bund der Krankenkassen mit den für die Wahrnehmung der Interessen der Betriebsärzte maßgeblichen Spitzenorganisationen auf Bundesebene bis zum 1. Oktober 2024.
 
 # § 383 – Erstattung der Kosten für die Übermittlung elektronischer Briefe in der vertragsärztlichen Versorgung
 
@@ -12858,6 +12892,26 @@ Die Pflichten nach Satz 1 entstehen bei wesentlichen Änderungen an Bestandssyst
 # § 389 – Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung
 
 Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der gesetzlichen Krankenversicherung nur ganz oder teilweise finanziert werden, wenn die Anbieter der elektronischen Anwendungen die Empfehlungen und verbindlichen Festlegungen nach § 385 Absatz 2 Satz 1 Nummer 1 beachten.
+
+# § 390 – IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung
+
+(1) Die Kassenärztlichen Bundesvereinigungen legen in einer Richtlinie die Anforderungen zur Gewährleistung der IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung fest.
+
+(2) Die Richtlinie nach Absatz 1 umfasst insbesondere auch
+
+1. Anforderungen an die sichere Installation und Wartung von Komponenten und Diensten der Telematikinfrastruktur, die in der vertragsärztlichen und vertragszahnärztlichen Versorgung genutzt werden, und
+
+2. Maßnahmen zur Sensibilisierung von Mitarbeiterinnen und Mitarbeitern zur Informationssicherheit (Steigerung der Security-Awareness).
+
+(3) Die in der Richtlinie festzulegenden Anforderungen müssen geeignet sein, abgestuft im Verhältnis zum Gefährdungspotential und dem Schutzbedarf der verarbeiteten Informationen, in Bezug auf die primären Schutzziele der Informationssicherheit (Verfügbarkeit, Integrität und Vertraulichkeit) Störungen der informationstechnischen Systeme, Komponenten oder Prozesse der vertragsärztlichen und vertragszahnärztlichen Leistungserbringer zu vermeiden.
+
+(4) Die in der Richtlinie festzulegenden Anforderungen müssen dem Stand der Technik entsprechen, sind jährlich inhaltlich zu überprüfen und zu korrigieren sowie spätestens alle zwei Jahre an den Stand der Technik und an das Gefährdungspotential anzupassen.
+
+(5) Die in der Richtlinie festzulegenden Anforderungen sowie deren Anpassungen erfolgen im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik sowie im Benehmen mit dem oder der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit, der Bundesärztekammer, der Bundeszahnärztekammer, der Deutschen Krankenhausgesellschaft und den für die Wahrnehmung der Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich der Informationstechnologie im Gesundheitswesen. Die Anforderungen nach Absatz 2 Nummer 1 legen die Kassenärztlichen Bundesvereinigungen zusätzlich im Benehmen mit der Gesellschaft für Telematik fest.
+
+(6) Die Richtlinie nach Absatz 1 ist für die an der vertragsärztlichen und vertragszahnärztlichen Versorgung teilnehmenden Leistungserbringer verbindlich. Die Richtlinie ist nicht anzuwenden für die vertragsärztliche und vertragszahnärztliche Versorgung im Krankenhaus, soweit dort bereits angemessene Vorkehrungen nach § 391 getroffen werden.
+
+(7) Die Kassenärztlichen Bundesvereinigungen müssen die Mitarbeiterinnen und Mitarbeiter der Anbieter von informationstechnischen Systemen, die im Gesundheitswesen eingesetzt werden, im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik auf deren Antrag zertifizieren, wenn diese Personen über die notwendige Eignung verfügen, um die an der vertragsärztlichen und vertragszahnärztlichen Versorgung teilnehmenden Leistungserbringer bei der Umsetzung der Richtlinie sowie deren Anpassungen zu unterstützen. Die Vorgaben für die Zertifizierung werden von den Kassenärztlichen Bundesvereinigungen im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik sowie im Benehmen mit den für die Wahrnehmung der Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich der Informationstechnologie im Gesundheitswesen erstellt und regelmäßig überarbeitet. Die Vorgaben nach Satz 2 werden jeweils auf der Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 veröffentlicht. In Bezug auf die Anforderungen nach Absatz 2 Nummer 1 legen die Kassenärztlichen Bundesvereinigungen die Vorgaben für die Zertifizierung der Mitarbeiterinnen und Mitarbeiter der Anbieter nach Satz 1 im Benehmen mit der Gesellschaft für Telematik fest.
 
 # § 391 – IT-Sicherheit in Krankenhäusern
 
