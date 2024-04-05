@@ -748,6 +748,9 @@ Die zuständige Behörde darf nicht zwingend einen Vermerk über eine Standortbe
 
 (9) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 10 erteilt.
 
+(+++ § 45 Abs. 5: Änderungsanweisung zu § 45 Abs. 5 Satz 3 bis 5 durch Art. 4 Nr. 22 Buchst. c DBuchst. cc G v. 12.12.2023 I Nr. 359 mWv 16.12.2023 nicht ausführbar, da Abs. 5 keine Sätze 3 bis 5 hat +++)  
+(+++ § 45 Abs. 5 Satz 2: IdF d. Art. 4 Nr. 22 Buchst. c DBuchst. bb G v. 12.12.2023 I Nr. 359 mWv 16.12.2023; Änderung durch Art. 4 Nr. 22 Buchst. d G v. 12.12.2023 I Nr. 359 mWv 16.12.2023 nicht ausführbar, da diese bereits mit Art. 4 Nr. 22 Buchst. c DBuchst. bb G v. 12.12.2023 I Nr. 359 mWv 16.12.2023 umgesetzt wurde +++)
+
 # § 45a – Inhalt und Durchführung der Kenntnisprüfung nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes als anwendungsorientierte Parcoursprüfung
 
 (1) Die Kenntnisprüfung kann abweichend von § 45 als anwendungsorientierte Parcoursprüfung durchgeführt werden. In der Kenntnisprüfung als anwendungsorientierte Parcoursprüfung hat die zu prüfende Person nachzuweisen, dass sie über die Kompetenzen verfügt, die zur Ausübung des Berufs der Pflegefachfrau oder des Pflegefachmanns, des Berufs der Gesundheits- und Kinderkrankenpflegerin oder des Gesundheits- und Kinderkrankenpflegers oder des Berufs der Altenpflegerin oder des Altenpflegers erforderlich sind.
@@ -1093,7 +1096,8 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage 1 – (zu § 7 Satz 2)Kompetenzen für die Zwischenprüfung nach § 7
 
-(Fundstelle: BGBl. I 2018, 1592 - 1595)
+(Fundstelle: BGBl. I 2018, 1592 - 1595;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
   
 
@@ -1331,7 +1335,8 @@ g) verfolgen nationale und internationale Entwicklungen des Pflegeberufs.
 
 # Anlage 2 – (zu § 9 Absatz 1 Satz 2)Kompetenzen für die staatliche Prüfung nach § 9 zur Pflegefachfrau oder zum Pflegefachmann
 
-(Fundstelle: BGBl. I 2018, 1596 - 1600)
+(Fundstelle: BGBl. I 2018, 1596 - 1600;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
   
 
@@ -1581,7 +1586,8 @@ g) bringen sich den gesellschaftlichen Veränderungen und berufspolitischen Entw
 
 # Anlage 3 – (zu § 26 Absatz 3 Satz 1)Kompetenzen für die staatliche Prüfung nach § 26 zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- und Kinderkrankenpfleger
 
-(Fundstelle: BGBl. I 2018, 1601 - 1605)
+(Fundstelle: BGBl. I 2018, 1601 - 1605;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
   
 
@@ -1831,7 +1837,8 @@ g) bringen sich den gesellschaftlichen Veränderungen und berufspolitischen Entw
 
 # Anlage 4 – (zu § 28 Absatz 3 Satz 1)Kompetenzen für die staatliche Prüfung nach § 28 zur Altenpflegerin oder zum Altenpfleger
 
-(Fundstelle: BGBl. I 2018, 1606 - 1610)
+(Fundstelle: BGBl. I 2018, 1606 - 1610;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
   
 
@@ -2083,7 +2090,8 @@ g) werden befähigt, sich in die gesellschaftlichen Veränderungen und berufspol
 
 # Anlage 5 – (zu § 35 Absatz 2, § 36 Absatz 1, § 37 Absatz 1)Kompetenzen für die Prüfung der hochschulischen Pflegeausbildung nach § 32
 
-(Fundstelle: BGBl. I 2018, 1611 - 1612)
+(Fundstelle: BGBl. I 2018, 1611 - 1612;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
   
 
@@ -2171,7 +2179,8 @@ In der Ausbildung zur Pflegefachfrau oder zum Pflegefachmann entfallen über die
 
 # Anlage 8 – (zu § 19 Absatz 2 Satz 1)
 
-(Fundstelle: BGBl. I 2018, 1615)
+(Fundstelle: BGBl. I 2018, 1615;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 Die/der Vorsitzende  
 des Prüfungsausschusses
@@ -2180,7 +2189,8 @@ des Prüfungsausschusses
 
 # Anlage 9 – (zu § 44 Absatz 3 Satz 2)
 
-(Fundstelle: BGBl. I 2018, 1616)
+(Fundstelle: BGBl. I 2018, 1616;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
   
                    
@@ -2188,7 +2198,8 @@ Bezeichnung der Einrichtung
 
 # Anlage 10 – (zu § 45 Absatz 9, § 45a Absatz 9)
 
-(Fundstelle: BGBl. I 2018, 1617)
+(Fundstelle: BGBl. I 2018, 1617;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 Die/der Vorsitzende  
 des Prüfungsausschusses
@@ -2197,14 +2208,16 @@ des Prüfungsausschusses
 
 # Anlage 11 – (zu § 46 Absatz 3)
 
-(Fundstelle: BGBl. I 2018, 1618)
+(Fundstelle: BGBl. I 2018, 1618;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
                    
 Bezeichnung der Einrichtung
 
 # Anlage 12 – (zu § 47 Absatz 5 Satz 2)
 
-(Fundstelle: BGBl. I 2018, 1619)
+(Fundstelle: BGBl. I 2018, 1619;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
   
 Die/der Vorsitzende  
@@ -2287,6 +2300,7 @@ Ort, Datum
 
 # Anlage 13 – (zu § 42 Satz 1)
 
-(Fundstelle: BGBl. I 2018, 1620)
+(Fundstelle: BGBl. I 2018, 1620;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 # Anlage 14 – (weggefallen)

@@ -5674,7 +5674,7 @@ Die Bundesnetzagentur ist befugt, die auf Grundlage der in Satz 1 genannten Rech
 
 Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
 
-§ 56 Abs. 2 Satz 1 Nr. 4 Kursivdruck: Grammatikalischen Fehler durch Einfügung des Artikels "der" korrigiert
+§ 56 Abs. 2 Satz 1 Nr. 4 Kursivdruck: Textfehler durch Einfügung des Artikels "der" vor dem Wort "Kommission" korrigiert
 
 # § 57 – Zusammenarbeit mit Regulierungsbehörden anderer Mitgliedstaaten, der Agentur für die Zusammenarbeit der Energieregulierungsbehörden und der Europäischen Kommission
 
