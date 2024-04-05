@@ -541,7 +541,7 @@ Telematikinfrastruktur .......
 
 Zwölftes Kapitel
 
-Förderung von offenen Standards und Schnittstellen; Nationales Gesundheitsportal .......
+Interoperabilität und Cybersicherheit im Gesundheitswesen; Nationales Gesundheitsportal .......
 
 §§ 384 bis 395
 
@@ -562,6 +562,10 @@ Fünfzehntes Kapitel
 Weitere Übergangsvorschriften .......
 
 §§ 403 bis 423
+
+  
+  
+Anlage zu § 307
 
 Inhaltsübersicht: (+++ Änderungsanweisung durch Art. 32 Nr. 1 G v. 12.12.2019 I 2652 mWv 1.1.2024 wegen textlicher Unstimmigkeit nicht ausführbar +++); idF d. Art. 1 Nr. 0 Buchst. a u. b G v. 14.12.2019 I 2789 mWv 1.1.2020 u. d. Art. 1b Nr. 1 G v. 4.3.2020 I 437 mWv 1.1.2020; (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. a G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++); (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. b G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. a, b u. d G v. 14.10.2020 I 2115 mWv 20.10.2020; (+++ Änderungsanweisung d. Art. 1 Nr. 1 Buchst. c G v. 14.10.2020 I 2115 mWv 20.10.2020 wurde sinngemäß konsolidiert); idF d. Art. 8j Nr. 1 G v. 12.12.2023 I Nr. 359 mWv 16.12.2023, sinngemäß konsolidiert; im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
 
