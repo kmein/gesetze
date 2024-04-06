@@ -256,7 +256,7 @@ Die für die Luftverkehrsteuer bedeutsamen Sachverhalte unterliegen der Steuerau
 
 (2) Das Luftfahrt-Bundesamt, die Bundespolizei sowie die für die Flugsicherung zuständigen Stellen haben dem zuständigen Hauptzollamt auf Anforderung die Informationen mitzuteilen, die zur Feststellung der Besteuerung erheblich sind.
 
-(3) Das zuständige Hauptzollamt kann dem Luftfahrt-Bundesamt anlassbezogen oder auf Anforderung Auskünfte aus dem steuerlichen Verfahren erteilen, die erforderlich sind, um die nach dem Luftverkehrsrecht geforderte Zuverlässigkeit eines Luftverkehrsunternehmens zu beurteilen.
+(3) Das zuständige Hauptzollamt kann dem Luftfahrt-Bundesamt anlassbezogen oder auf Anforderung Auskünfte aus dem steuerlichen Verfahren erteilen, die erforderlich sind, um die nach dem Luftverkehrsrecht geforderte Zuverlässigkeit eines Luftverkehrsunternehmens oder die Einhaltung der Vorschriften dieses Gesetzes durch Luftverkehrsunternehmen mit Hauptsitz außerhalb des Geltungsbereichs des Luftrechts der Europäischen Union zu beurteilen.
 
 # § 18 – Ermächtigungen
 

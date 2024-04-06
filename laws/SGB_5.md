@@ -73,7 +73,7 @@ Vierter Abschnitt
 
 Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung von Krankheiten .......
 
-§§ 25 und 26
+§§ 25 bis 26
 
 Fünfter Abschnitt
 
@@ -497,7 +497,7 @@ Erster Titel
 
 Grundsätze der Datenverwendung ......
 
-§§ 284 bis 287a
+§§ 284 bis 287
 
 Zweiter Titel
 
@@ -648,7 +648,7 @@ Das Bundesministerium für Gesundheit kann die Ermächtigung nach Satz 1 durch R
 
 # § 4b – Sonderregelungen zum Verwaltungsverfahren
 
-Abweichungen von den Regelungen des Verwaltungsverfahrens gemäß den §§ 266, 267, 269 und 287a durch Landesrecht sind ausgeschlossen.
+Abweichungen von den Regelungen des Verwaltungsverfahrens gemäß den §§ 266, 267 und 269 durch Landesrecht sind ausgeschlossen.
 
 # § 5 – Versicherungspflicht
 
@@ -1421,9 +1421,41 @@ Die Maßnahmen nach Satz 2 Nummer 4 beinhalten auch einen Abgleich der Daten, di
 
 (3) Stellt der Gemeinsame Bundesausschuss bei seinen Beratungen fest, dass notwendige Erkenntnisse fehlen, kann er eine Richtlinie zur Erprobung der geeigneten inhaltlichen und organisatorischen Ausgestaltung eines organisierten Krebsfrüherkennungsprogramms beschließen. § 137e gilt entsprechend. Die Frist nach Absatz 2 Satz 1 bis 3 für die Regelung des Näheren über die Durchführung der organisierten Krebsfrüherkennungsprogramme verlängert sich in diesem Fall um den Zeitraum der Vorbereitung, Durchführung und Auswertung der Erprobung, längstens jedoch um fünf Jahre.
 
-(4) Die nach Absatz 2 Satz 4 in den Richtlinien bestimmten Stellen sind befugt, die für die Wahrnehmung ihrer Aufgaben erforderlichen und in den Richtlinien aufgeführten Daten nach den dort genannten Vorgaben zu verarbeiten. Für die Einladungen nach Absatz 1 Satz 2 Nummer 1 dürfen die in § 291a Absatz 2 Nummer 1 bis 6 genannten Daten der Krankenkassen verarbeitet werden; sofern andere Stellen als die Krankenkassen die Aufgabe der Einladung wahrnehmen, darf die Krankenversichertennummer nur in pseudonymisierter Form verarbeitet werden. Die Versicherten können in Textform weiteren Einladungen widersprechen; sie sind in den Einladungen auf ihr Widerspruchsrecht hinzuweisen. Andere personenbezogene Daten der Krankenkassen, insbesondere Befunddaten und Daten über die Inanspruchnahme von Krebsfrüherkennungsuntersuchungen, dürfen für die Einladungen nur mit Einwilligung der Versicherten verarbeitet werden. Für die Datenverarbeitungen zum Zwecke der Qualitätssicherung nach Absatz 1 Satz 2 Nummer 4 gilt § 299, sofern der Versicherte nicht schriftlich oder elektronisch widersprochen hat. Ein Abgleich der Daten nach Satz 4 und der Daten, die nach § 299 zum Zwecke der Qualitätssicherung an eine vom Gemeinsamen Bundesausschuss bestimmte Stelle übermittelt werden, mit Daten der epidemiologischen oder klinischen Krebsregister ist unter Verwendung eines aus dem unveränderbaren Teil der Krankenversichertennummer des Versicherten abgeleiteten Pseudonyms zulässig, sofern der Versicherte nicht schriftlich oder elektronisch widersprochen hat. Der Gemeinsame Bundesausschuss legt in den Richtlinien fest, welche Daten für den Abgleich zwischen den von ihm bestimmten Stellen und den epidemiologischen oder klinischen Krebsregistern übermittelt werden sollen. Das Nähere zur technischen Umsetzung des Abgleichs nach Satz 6 vereinbaren der Gemeinsame Bundesausschuss und die von den Ländern zur Durchführung des Abgleichs bestimmten Krebsregister bis zum 31. Dezember 2021. Die epidemiologischen oder klinischen Krebsregister übermitteln erstmals bis Ende 2023 und anschließend regelmäßig ausschließlich zum Zweck des Abgleichs der Daten nach Satz 6 die vom Gemeinsamen Bundesausschuss festgelegten Daten zusammen mit dem Pseudonym nach Satz 6 an die Vertrauensstelle nach § 299 Absatz 2 Satz 5.
+(4) Die nach Absatz 2 Satz 4 in den Richtlinien bestimmten Stellen sind befugt, die für die Wahrnehmung ihrer Aufgaben erforderlichen und in den Richtlinien aufgeführten Daten nach den dort genannten Vorgaben zu verarbeiten; die Befugnis umfasst auch die Befugnis zur Anonymisierung der Daten für den Zweck der Übermittlung nach Absatz 5 Satz 2. Für die Einladungen nach Absatz 1 Satz 2 Nummer 1 dürfen die zuständigen Meldebehörden die Daten nach § 34 Absatz 1 Satz 1 Nummer 1 bis 3, 6 und 9 des Bundesmeldegesetzes aus den Melderegistern an die in den Richtlinien nach Absatz 2 Satz 4 bestimmten Stellen übermitteln; ferner dürfen die in § 291a Absatz 2 Nummer 1 bis 6 genannten Daten der Krankenkassen verarbeitet werden; sofern andere Stellen als die Krankenkassen die Aufgabe der Einladung wahrnehmen, darf die Krankenversichertennummer nur in pseudonymisierter Form verarbeitet werden. Die Versicherten können in Textform weiteren Einladungen widersprechen; sie sind in den Einladungen auf ihr Widerspruchsrecht hinzuweisen. Andere personenbezogene Daten der Krankenkassen, insbesondere Befunddaten und Daten über die Inanspruchnahme von Krebsfrüherkennungsuntersuchungen, dürfen für die Einladungen nur mit Einwilligung der Versicherten verarbeitet werden. Für die Datenverarbeitungen zum Zwecke der Qualitätssicherung nach Absatz 1 Satz 2 Nummer 4 gilt § 299, sofern der Versicherte nicht schriftlich oder elektronisch widersprochen hat. Ein Abgleich der Daten nach Satz 4 und der Daten, die nach § 299 zum Zwecke der Qualitätssicherung an eine vom Gemeinsamen Bundesausschuss bestimmte Stelle übermittelt werden, mit Daten der epidemiologischen oder klinischen Krebsregister ist unter Verwendung eines aus dem unveränderbaren Teil der Krankenversichertennummer des Versicherten abgeleiteten Pseudonyms zulässig, sofern der Versicherte nicht schriftlich oder elektronisch widersprochen hat. Der Gemeinsame Bundesausschuss legt in den Richtlinien fest, welche Daten für den Abgleich zwischen den von ihm bestimmten Stellen und den epidemiologischen oder klinischen Krebsregistern übermittelt werden sollen. Das Nähere zur technischen Umsetzung des Abgleichs nach Satz 6 vereinbaren der Gemeinsame Bundesausschuss und die von den Ländern zur Durchführung des Abgleichs bestimmten Krebsregister bis zum 31. Dezember 2021. Die epidemiologischen oder klinischen Krebsregister übermitteln erstmals bis Ende 2023 und anschließend regelmäßig ausschließlich zum Zweck des Abgleichs der Daten nach Satz 6 die vom Gemeinsamen Bundesausschuss festgelegten Daten zusammen mit dem Pseudonym nach Satz 6 an die Vertrauensstelle nach § 299 Absatz 2 Satz 5.
 
-(5) Der Gemeinsame Bundesausschuss oder eine von ihm beauftragte Stelle veröffentlicht alle zwei Jahre einen Bericht über den Stand der Maßnahmen nach Absatz 1 Satz 2 Nummer 4. Der Gemeinsame Bundesausschuss oder eine von ihm beauftragte Stelle übermittelt auf Antrag, nach Prüfung des berechtigten Interesses des Antragstellers, anonymisierte Daten zum Zwecke der wissenschaftlichen Forschung. Die Entscheidung über den Antrag ist dem Antragsteller innerhalb von zwei Monaten nach Antragstellung mitzuteilen; eine Ablehnung ist zu begründen.
+(5) Der Gemeinsame Bundesausschuss oder eine von ihm beauftragte Stelle veröffentlicht alle zwei Jahre einen Bericht über den Stand der Maßnahmen nach Absatz 1 Satz 2 Nummer 4. Der Gemeinsame Bundesausschuss oder eine von ihm beauftragte Stelle übermittelt auf Antrag, nach Prüfung des berechtigten Interesses des Antragstellers, anonymisierte Daten zum Zwecke der wissenschaftlichen Forschung. Die Entscheidung über den Antrag ist dem Antragsteller innerhalb von zwei Monaten nach Antragstellung mitzuteilen; eine Ablehnung ist zu begründen. Das Nähere zu einem Verfahren der nach Absatz 4 erhobenen Daten einschließlich der Datenübermittlung regelt der Gemeinsame Bundesausschuss unter Beachtung datenschutzrechtlicher Vorgaben und des Gebotes der Datensicherheit in seiner Verfahrensordnung.
+
+# § 25b – Datengestützte Erkennung individueller Gesundheitsrisiken durch die Kranken- und Pflegekassen
+
+(1) Die Kranken- und Pflegekassen können zum Gesundheitsschutz eines Versicherten datengestützte Auswertungen vornehmen und den Versicherten auf die Ergebnisse dieser Auswertung hinweisen, soweit die Auswertungen den folgenden Zwecken dienen:
+
+1. der Erkennung von seltenen Erkrankungen,
+
+2. der Erkennung von Krebserkrankungen,
+
+3. der Erkennung von schwerwiegenden Gesundheitsgefährdungen, die durch die Arzneimitteltherapie entstehen können,
+
+4. der Erkennung einer noch nicht festgestellten Pflegebedürftigkeit nach § 14 des Elften Buches,
+
+5. der Erkennung ähnlich schwerwiegender Gesundheitsgefährdungen, soweit dies aus Sicht der Kranken- und Pflegekassen im überwiegenden Interesse der Versicherten ist, oder
+
+6. der Erkennung des Vorliegens von Impfindikationen für Schutzimpfungen, die von der Ständigen Impfkommission nach § 20 Absatz 2 des Infektionsschutzgesetzes empfohlen sind.
+
+(2) Eine Verarbeitung der bei den Kranken- und Pflegekassen vorliegenden personenbezogenen Daten der Versicherten zur Durchführung einer Auswertung nach Absatz 1 ist ohne Einwilligung der betroffenen Person nur zulässig, soweit sie zu den in Absatz 1 genannten Zwecken erforderlich und geeignet ist. Die Kranken- und Pflegekassen haben in den Hinweisen nach Absatz 1 auf die Möglichkeit des Widerspruchs nach Absatz 3 hinzuweisen und über ihre Pflicht nach Absatz 5 in präziser, transparenter, verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache zu informieren. Ein Eingreifen in die ärztliche Therapiefreiheit oder eine Beschränkung der Wahlfreiheit der Versicherten im Rahmen von Hinweisen nach Absatz 1 ist unzulässig. Die Weitergabe der bei den Kranken- und Pflegekassen vorliegenden personenbezogenen Daten der Versicherten an Dritte ist untersagt. Abweichend von Satz 4 ist die Verarbeitung dieser Daten durch Auftragsverarbeiter zulässig.
+
+(3) Die Datenverarbeitung nach Absatz 2 ist zu unterlassen, soweit der Versicherte einer Datenverarbeitung ausdrücklich gegenüber seiner Kranken- und Pflegekasse widersprochen hat. Die Versicherten sind rechtzeitig, mindestens vier Wochen vor Beginn der in Absatz 1 genannten Datenverarbeitung, von den Kranken- und Pflegekassen über die Datenverarbeitung und über die Möglichkeit des Widerspruchs nach Satz 1 in präziser, transparenter, verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache, auch öffentlich, zu informieren. Die Einlegung des Widerspruchs muss barrierefrei und jederzeit möglich sein. In den Informationen nach Satz 2 müssen die Kranken- und Pflegekassen darüber informieren, dass sie gemäß Absatz 6 Satz 1 Versicherte, die der Verarbeitung nach Absatz 2 nicht widersprochen oder widersprochen haben, nicht bevorzugen oder benachteiligen dürfen.
+
+(4) Sofern bei einer in Absatz 1 genannten Auswertung eine konkrete Gesundheitsgefährdung, das konkrete Risiko einer Erkrankung oder einer Pflegebedürftigkeit oder das Vorliegen einer Impfindikation identifiziert wird, ist der Versicherte hierauf umgehend in präziser, transparenter, verständlicher Weise und in einer klaren und einfachen Sprache hinzuweisen. Der Hinweis nach Satz 1 ist mit einer Empfehlung zu verbinden, eine ärztliche, zahnärztliche, psychotherapeutische oder pflegerische Beratung in Anspruch zu nehmen. Die Empfehlung ist zu begründen. Die Hinweise nach Satz 1 erfolgen schriftlich und können, soweit erforderlich, zusätzlich in einer anderen geeigneten Form erfolgen. Die Kranken- und Pflegekassen haben die Hinweise nach Satz 1 zu Dokumentations- und Transparenzzwecken in die elektronische Patientenakte zu übermitteln und dort zu speichern.
+
+(5) Die Kranken- und Pflegekassen sind verpflichtet, auf Anfrage der betroffenen Person oder ihres Vertreters, dieser oder diesem die Datengrundlage mitzuteilen, auf welcher ein Hinweis nach Absatz 1 oder Absatz 4 erteilt wurde.
+
+(6) Die Kranken- und Pflegekasse ist verpflichtet, der Aufsichtsbehörde vor Beginn der Verarbeitung personenbezogener Daten nach Absatz 2 die Ziele und Datengrundlagen einer in Absatz 1 genannten Auswertung anzuzeigen. Über ein Programm zu der in Absatz 1 genannten Auswertung hat die Krankenkasse oder Pflegekasse den Verwaltungsrat der Krankenkasse oder Pflegekasse unverzüglich zu unterrichten.
+
+(7) Die Versicherten dürfen nicht bevorzugt oder benachteiligt werden, weil sie einer Datenverarbeitung nach Absatz 2 nicht widersprochen oder widersprochen haben. Die Versicherten dürfen nicht bevorzugt oder benachteiligt werden, weil sie einen Hinweis nach Absatz 1 oder Absatz 4 beachtet oder nicht beachtet haben.
+
+(8) Der Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium für Gesundheit jährlich, erstmals bis zum 30. Juni 2026 darüber, wie und in welchem Umfang Versicherte über Maßnahmen nach den Absätzen 2 und 4 informiert wurden, wie und in welchem Umfang Maßnahmen nach den Absätzen 2 und 4 durchgeführt wurden und welche Auswirkungen diese Maßnahmen auf die Versorgung haben sowie über die Zahl der Versicherten, die von dem Widerspruchsrecht nach Absatz 3 Gebrauch gemacht haben. Der Spitzenverband Bund der Krankenkassen bestimmt zu diesem Zweck die von seinen Mitgliedern zu übermittelnden Informationen.
+
+(9) Hat eine Kranken- und Pflegekasse entgegen den vorstehenden Absätzen Daten verarbeitet und hat ein Vorstandsmitglied hiervon gewusst oder hätte hiervon wissen müssen, hat die zuständige Aufsichtsbehörde nach Anhörung des Vorstandsmitglieds den Verwaltungsrat zu veranlassen, das Vorstandsmitglied auf Ersatz des aus dieser Pflichtverletzung entstandenen Schadens in Anspruch zu nehmen, falls der Verwaltungsrat das Regressverfahren nicht bereits von sich aus eingeleitet hat.
 
 # § 26 – Gesundheitsuntersuchungen für Kinder und Jugendliche
 
@@ -2598,7 +2630,7 @@ Kommt der Rahmenvertrag nicht innerhalb der Frist nach Absatz 1 Satz 4 oder Satz
 
 # § 64e – Modellvorhaben zur umfassenden Diagnostik und Therapiefindung mittels Genomsequenzierung bei seltenen und bei onkologischen Erkrankungen, Verordnungsermächtigung
 
-(1) Der Spitzenverband Bund der Krankenkassen schließt bis zum 1. Januar 2024 mit den Leistungserbringern, deren Berechtigung zur Teilnahme am Modellvorhaben nach Absatz 4 Satz 2 festgestellt worden ist, mit bindender Wirkung für die Krankenkassen einen einheitlichen Vertrag zur Durchführung eines Modellvorhabens zur umfassenden Diagnostik und Therapiefindung mittels einer Genomsequenzierung bei seltenen und bei onkologischen Erkrankungen. Die Laufzeit des Modellvorhabens beträgt abweichend von § 63 Absatz 5 mindestens fünf Jahre. Vor Abschluss des Vertrages ist der Deutschen Krankenhausgesellschaft Gelegenheit zur Stellungnahme zu geben. Der Verband der Privaten Krankenversicherung kann dem Vertrag durch Mitteilung an den Spitzenverband Bund der Krankenkassen und an die Leistungserbringer nach Satz 1 beitreten. Eine Kündigung des Vertrages durch den Verband der Privaten Krankenversicherung muss gegenüber dem Spitzenverband Bund der Krankenkassen und den Leistungserbringern nach Satz 1 erklärt werden. Eine Kündigung des Vertrages durch einen Leistungserbringer muss gegenüber dem Spitzenverband Bund der Krankenkassen und dem Verband der Privaten Krankenversicherung, sofern dieser dem Vertrag beigetreten ist, erfolgen. Die Kündigung nach den Sätzen 5 oder 6 berührt die Wirksamkeit des Vertrages für die übrigen Vertragspartner nicht. Leistungserbringer, deren Berechtigung zur Teilnahme am Modellvorhaben nach Absatz 4 Satz 2 nach Abschluss des Vertrages nach Satz 1 festgestellt worden ist, können dem Vertrag beitreten, indem sie ihren Beitritt gegenüber dem Spitzenverband Bund der Krankenkassen erklären.
+(1) Der Spitzenverband Bund der Krankenkassen schließt bis zum 1. April 2024 mit den Leistungserbringern, deren Berechtigung zur Teilnahme am Modellvorhaben nach Absatz 4 Satz 2 festgestellt worden ist, mit bindender Wirkung für die Krankenkassen einen einheitlichen Vertrag zur Durchführung eines Modellvorhabens zur umfassenden Diagnostik und Therapiefindung mittels einer Genomsequenzierung bei seltenen und bei onkologischen Erkrankungen. Die Laufzeit des Modellvorhabens beträgt abweichend von § 63 Absatz 5 mindestens fünf Jahre. Vor Abschluss des Vertrages ist der Deutschen Krankenhausgesellschaft Gelegenheit zur Stellungnahme zu geben. Der Verband der Privaten Krankenversicherung kann dem Vertrag durch Mitteilung an den Spitzenverband Bund der Krankenkassen und an die Leistungserbringer nach Satz 1 beitreten. Eine Kündigung des Vertrages durch den Verband der Privaten Krankenversicherung muss gegenüber dem Spitzenverband Bund der Krankenkassen und den Leistungserbringern nach Satz 1 erklärt werden. Eine Kündigung des Vertrages durch einen Leistungserbringer muss gegenüber dem Spitzenverband Bund der Krankenkassen und dem Verband der Privaten Krankenversicherung, sofern dieser dem Vertrag beigetreten ist, erfolgen. Die Kündigung nach den Sätzen 5 oder 6 berührt die Wirksamkeit des Vertrages für die übrigen Vertragspartner nicht. Leistungserbringer, deren Berechtigung zur Teilnahme am Modellvorhaben nach Absatz 4 Satz 2 nach Abschluss des Vertrages nach Satz 1 festgestellt worden ist, können dem Vertrag beitreten, indem sie ihren Beitritt gegenüber dem Spitzenverband Bund der Krankenkassen erklären.
 
 (2) Das Modellvorhaben umfasst eine einheitliche, qualitätsgesicherte und standardisierte und nach dem Stand von Wissenschaft und Technik zu erbringende Diagnostik und eine personalisierte Therapiefindung mittels einer Genomsequenzierung bei dem Versicherten, der nach Absatz 5 an dem Modellvorhaben teilnimmt, bei seltenen oder bei onkologischen Erkrankungen. Die Leistung ist unter Beachtung des Gendiagnostikgesetzes und datenschutzrechtlicher Vorgaben zu erbringen und umfasst insbesondere
 
@@ -2626,7 +2658,7 @@ Zusätzlich zur Genomsequenzierung des Versicherten kann ein Teil der Diagnostik
 
 Die Ausweisung und Festlegung als Zentrum oder eine gleichartige Festlegung durch die zuständige Landesbehörde im Einzelfall gegenüber dem Krankenhaus wird nicht vorausgesetzt. Maßgeblich für die Teilnahme am Modellprojekt ist eine therapie- oder maßnahmenbegleitende Datenerhebung, die eine Evaluation und gegebenenfalls Anpassung der empfohlenen Therapien und Maßnahmen ermöglicht. Die Leistungserbringer nach Satz 1 müssen über ein qualitätsgesichertes, interdisziplinäres und multiprofessionelles Versorgungsangebot verfügen sowie die Aufgaben zur Diagnostik und Therapiefindung nach Absatz 2 übernehmen. Eine Teilnahme des Leistungserbringers an multidisziplinären Fallkonferenzen im Bereich der Diagnostik von seltenen oder von onkologischen Erkrankungen ist nachzuweisen. Die Deutsche Krankenhausgesellschaft teilt dem Spitzenverband Bund der Krankenkassen Empfehlungen für die Konkretisierung der in den Sätzen 1 bis 5 genannten Anforderungen sowie für weitere geeignete Voraussetzungen für die Teilnahme der Leistungserbringer nach Satz 1 am Modellvorhaben mit, die bei der Prüfung nach Absatz 4 Satz 2 berücksichtigt werden sollen. Der Spitzenverband Bund der Krankenkassen hat die anzuwendenden Empfehlungen zu veröffentlichen und der Deutschen Krankenhausgesellschaft gegenüber zu begründen, wenn Empfehlungen nicht angewendet werden.
 
-(4) Die Teilnahme der Leistungserbringer an dem Modellvorhaben kann bei dem Spitzenverband Bund der Krankenkassen unter Nachweis der Erfüllung der Voraussetzungen nach Absatz 3 beantragt werden. Der Spitzenverband Bund der Krankenkassen prüft das Vorliegen der Voraussetzungen nach Absatz 3 und entscheidet durch Verwaltungsakt über die Berechtigung des antragstellenden Leistungserbringers zur Teilnahme an dem Modellvorhaben. Wenn weitere Unterlagen erforderlich sind, um über den Antrag abschließend entscheiden zu können, fordert der Spitzenverband Bund der Krankenkassen diese Unterlagen von dem Leistungserbringer an. Der Spitzenverband Bund der Krankenkassen veröffentlicht die zur Teilnahme am Modellvorhaben berechtigten Leistungserbringer namentlich auf seiner Internetseite. Die Leistungserbringer haben mit dem Antrag auf Teilnahme der Veröffentlichung nach Satz 4 zuzustimmen.
+(4) Die Teilnahme der Leistungserbringer an dem Modellvorhaben kann bei dem Spitzenverband Bund der Krankenkassen unter Nachweis der Erfüllung der Voraussetzungen nach Absatz 3 beantragt werden. Der Spitzenverband Bund der Krankenkassen prüft das Vorliegen der Voraussetzungen nach Absatz 3 und entscheidet durch Verwaltungsakt über die Berechtigung des antragstellenden Leistungserbringers zur Teilnahme an dem Modellvorhaben. Wenn weitere Unterlagen erforderlich sind, um über den Antrag abschließend entscheiden zu können, fordert der Spitzenverband Bund der Krankenkassen diese Unterlagen von dem Leistungserbringer an. Der Spitzenverband Bund der Krankenkassen veröffentlicht die am Modellvorhaben teilnehmenden Leistungserbringer namentlich auf seiner Internetseite. Die Leistungserbringer haben mit dem Antrag auf Teilnahme der Veröffentlichung nach Satz 4 zuzustimmen.
 
 (5) Versicherte können an dem Modellvorhaben teilnehmen, wenn
 
@@ -2640,7 +2672,7 @@ b) einem Leistungserbringer, dessen Berechtigung zur Teilnahme am Modellvorhaben
 
 Die Teilnahme am Modellvorhaben ist dann zu empfehlen, wenn von einer Genomsequenzierung nach dem Stand der Wissenschaft und Technik wesentliche Erkenntnisse in Bezug auf die Diagnose oder ein klinisch relevanter Mehrwert für die Behandlung des Versicherten zu erwarten ist. Die Empfehlung zur Teilnahme nach Satz 1 Nummer 2 Ziffer b soll durch mindestens eine multidisziplinäre Fallkonferenz, die durch den Leistungserbringer nach Satz 1 Nummer 2 einberufen wird, bestätigt werden. Eine den Vorgaben nach Absatz 7 Satz 1 Nummer 2 entsprechende Information über den bisherigen Behandlungsverlauf durch den behandelnden Leistungserbringer an den am Modellvorhaben teilnehmenden Leistungserbringer sowie eine Information über die durch Diagnostik und Therapiefindung gewonnenen Erkenntnisse durch den am Modellvorhaben teilnehmenden Leistungserbringer an den behandelnden Leistungserbringer ist sicherzustellen.
 
-(6) Die Leistungserbringer, die Vertragspartner nach Absatz 1 Satz 1 sind, dürfen die für die in den Absätzen 2 und 10 Satz 3 genannten Zwecke erforderlichen personenbezogenen Daten nur mit ausdrücklicher schriftlicher oder elektronischer Einwilligung und nach vorheriger ärztlicher Aufklärung und Beratung der Versicherten unter Beachtung europäischer und nationaler datenschutzrechtlicher Vorgaben, insbesondere der Rechte der betroffenen Person nach den Artikeln 12 bis 22 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) in der jeweils geltenden Fassung, verarbeiten. Satz 1 gilt bei einer Genomsequenzierung nach Absatz 2 Satz 3 für einen biologischen Elternteil oder für beide biologischen Elternteile entsprechend.
+(6) Die Leistungserbringer, Genomrechenzentren, klinischen Datenknoten sowie Datendienste sind befugt, die erforderlichen personenbezogenen Daten zur Wahrnehmung ihrer Aufgaben nach den Absätzen 10 bis 10c zu verarbeiten. Die Nutzung der Daten zu den in Absatz 9c Satz 7 Nummer 1 und Absatz 11 Satz 3 Nummer 4 genannten Zwecken bedarf der vorherigen schriftlichen oder elektronischen Einwilligung der Versicherten gegenüber den Leistungserbringern unter Beachtung datenschutzrechtlicher Vorgaben, insbesondere der Rechte der betroffenen Person nach den Artikeln 12 bis 22 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) in der jeweils geltenden Fassung. Im Fall einer Genomsequenzierung nach Absatz 2 Satz 3 ist die in Satz 2 genannte Einwilligung abweichend von Satz 2 durch den biologischen Elternteil oder durch beide biologischen Elternteile einzeln zu erklären. Der Plattformträger stellt eine datenschutzkonforme, barrierefreie und einheitliche Ausgestaltung der Erklärung der in Satz 2 genannten Einwilligung der Versicherten sicher. Dies hat im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit sowie der oder dem Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten zu erfolgen.
 
 (7) In dem Vertrag nach Absatz 1 Satz 1 haben die Vertragspartner insbesondere Vereinbarungen zu treffen über
 
@@ -2654,7 +2686,7 @@ Die Teilnahme am Modellvorhaben ist dann zu empfehlen, wenn von einer Genomseque
 
 5. Anforderungen an die Koordination und Strukturierung der Abläufe bei den Leistungserbringern einschließlich Festlegungen zu Reevaluationszyklen sowie über die aktive Kooperation der Leistungserbringer in einem Netzwerk,
 
-6. die datenschutzkonforme, barrierefreie einheitliche Ausgestaltung der Einwilligung der Versicherten nach Absatz 6; dies hat im Einvernehmen mit dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit sowie der Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten zu erfolgen,
+6. die einheitliche Verwendung der in Absatz 6 Satz 4 genannten Erklärung der Einwilligung der Versicherten durch die Leistungserbringer,
 
 7. Möglichkeiten zur Kooperation der am Modellvorhaben teilnehmenden Leistungserbringer im Hinblick auf die Erbringung von in Absatz 2 Satz 2 genannten Leistungen und Maßnahmen,
 
@@ -2662,81 +2694,145 @@ Die Teilnahme am Modellvorhaben ist dann zu empfehlen, wenn von einer Genomseque
 
 9. Maßnahmen zur Sicherstellung der Wirtschaftlichkeit der im Rahmen dieses Modellvorhabens zu erbringenden Leistungen,
 
-10. die Sicherstellung der Anbindung der Leistungserbringer an die Dateninfrastruktur nach den Absätzen 9 bis 12 und die Ausgestaltung und Unterzeichnung einer Vereinbarung über die Nutzung der Dateninfrastruktur durch die Leistungserbringer,
+10. die Sicherstellung der Anbindung der Leistungserbringer an die Dateninfrastruktur nach den Absätzen 9 bis 11b,
 
-11. Maßnahmen zur Zusammenführung der im Rahmen der Diagnostik und Therapiefindung erhobenen Daten von allen an dem Modellvorhaben teilnehmenden Leistungserbringern in der Dateninfrastruktur nach den Absätzen 9 bis 12,
+11. Maßnahmen zur Bereitstellung der im Rahmen der Diagnostik und Therapiefindung erhobenen Daten von allen an dem Modellvorhaben teilnehmenden Leistungserbringern in den Genomrechenzentren und den klinischen Datenknoten,
 
-12. Maßnahmen, die sicherstellen, dass die in der Dateninfrastruktur nach den Absätzen 9 bis 12 enthaltenen Daten nur im Rahmen dieses Modellvorhabens genutzt werden und
+12. die Folgen einer Kündigung eines Leistungserbringers insbesondere im Hinblick auf den Umgang mit den durch diesen Leistungserbringer bereits generierten Daten.
 
-13. die Folgen einer Kündigung eines Leistungserbringers insbesondere im Hinblick auf den Umgang mit den durch diesen Leistungserbringer bereits generierten Daten.
+Der Vertrag ist nach dem Stand von Wissenschaft und Technik zu schließen. Der Vertrag ist von den Vertragspartnern der Fortentwicklung des Standes von Wissenschaft und Technik anzupassen oder, wenn sich aus den Zwischenberichten nach Absatz 13 Satz 3 ein Anpassungsbedarf ergibt. Abweichend von Absatz 1 Satz 3 ist mit der Deutschen Krankenhausgesellschaft bezüglich der in Satz 1 Nummer 2 und 3 genannten Vertragsinhalte Einvernehmen herzustellen. Die nach der aufgrund des § 140g erlassenen Rechtsverordnung anerkannten Organisationen sind vor dem Abschluss des Vertrages nach Absatz 1 Satz 1 anzuhören. Die Organisationen benennen hierzu sachkundige Personen. § 116b Absatz 6 Satz 13 bis 15 gilt entsprechend mit der Maßgabe, dass die morbiditätsbedingte Gesamtvergütung um die Leistungen zu bereinigen ist, die im Rahmen des Modellvorhabens nach Absatz 2 erbracht werden. Für die Vergütung der Leistungen, die durch die Leistungserbringer, deren Berechtigung zur Teilnahme am Modellvorhaben nach Absatz 4 Satz 2 festgestellt worden ist, im Rahmen des Modellvorhabens erbracht werden, gilt § 120 Absatz 2 Satz 1 entsprechend; das Nähere über das Verfahren der Abrechnung ist in der Vereinbarung nach § 301 Absatz 3 zu vereinbaren. § 136c Absatz 5 Satz 3 und § 140a Absatz 2 Satz 7 gelten entsprechend.
 
-Der Vertrag ist nach dem Stand von Wissenschaft und Technik zu schließen. Der Vertrag ist von den Vertragspartnern der Fortentwicklung des Standes von Wissenschaft und Technik anzupassen oder, wenn sich aus den Zwischenberichten nach Absatz 13 Satz 3 ein Anpassungsbedarf ergibt. Abweichend von Absatz 1 Satz 3 ist mit der Deutschen Krankenhausgesellschaft bezüglich der in Satz 1 Nummer 2 und 3 genannten Vertragsinhalte Einvernehmen herzustellen. Die nach der aufgrund des § 140g erlassenen Rechtsverordnung anerkannten Organisationen sind vor dem Abschluss des Vertrages nach Absatz 1 Satz 1 anzuhören. Die Organisationen benennen hierzu sachkundige Personen. § 116b Absatz 6 Satz 13 bis 15 gilt entsprechend mit der Maßgabe, dass die morbiditätsbedingte Gesamtvergütung um die Leistungen zu bereinigen ist, die im Rahmen des Modellvorhabens nach Absatz 2 erbracht werden. Für die Vergütung der Leistungen, die durch die Leistungserbringer, deren Berechtigung zur Teilnahme am Modellvorhaben nach Absatz 4 Satz 2 festgestellt worden ist, im Rahmen des Modellvorhabens erbracht werden, gilt § 120 Absatz 2 Satz 1 entsprechend. § 136c Absatz 5 Satz 3 und § 140a Absatz 2 Satz 7 gelten entsprechend.
+(8) Kommt ein Vertrag nach Absatz 1 Satz 1 ganz oder teilweise nicht bis zum 1. April 2024 zu Stande, wird der Vertragsinhalt von einer von den Vertragsparteien gemeinsam zu benennenden unabhängigen Schiedsperson innerhalb von drei Monaten festgelegt. Kann das nach Absatz 7 Satz 4 erforderliche Einvernehmen nicht hergestellt werden, legt die Schiedsperson nach Anhörung der Deutschen Krankenhausgesellschaft die in Absatz 7 Satz 1 Nummer 2 und 3 genannten Vertragsinhalte fest. Die Kosten des Schiedsverfahrens tragen der Spitzenverband Bund der Krankenkassen und die Gesamtheit der Leistungserbringer, deren Berechtigung zur Teilnahme am Modellvorhaben nach Absatz 4 Satz 2 festgestellt worden ist, je zur Hälfte. Klagen, die die Festlegung des Vertragsinhalts betreffen, sind gegen eine der beiden Vertragsparteien, nicht gegen die Schiedsperson, zu richten.
 
-(8) Kommt ein Vertrag nach Absatz 1 Satz 1 ganz oder teilweise nicht bis zum 1. Januar 2024 zu Stande, wird der Vertragsinhalt von einer von den Vertragsparteien gemeinsam zu benennenden unabhängigen Schiedsperson innerhalb von drei Monaten festgelegt. Kann das nach Absatz 7 Satz 4 erforderliche Einvernehmen nicht hergestellt werden, legt die Schiedsperson nach Anhörung der Deutschen Krankenhausgesellschaft die in Absatz 7 Satz 1 Nummer 2 und 3 genannten Vertragsinhalte fest. Die Kosten des Schiedsverfahrens tragen der Spitzenverband Bund der Krankenkassen und die Gesamtheit der Leistungserbringer, deren Berechtigung zur Teilnahme am Modellvorhaben nach Absatz 4 Satz 2 festgestellt worden ist, je zur Hälfte. Klagen, die die Festlegung des Vertragsinhalts betreffen, sind gegen eine der beiden Vertragsparteien, nicht gegen die Schiedsperson, zu richten.
+(9) Beim Bundesinstitut für Arzneimittel und Medizinprodukte (Plattformträger) wird eine zentrale Plattform für das Modellvorhaben in seiner Trägerschaft eingerichtet und betrieben. Der Plattformträger unterliegt dem Sozialgeheimnis nach § 35 des Ersten Buches. Er muss durch die Qualifikation seiner Mitarbeiterinnen und Mitarbeiter sowie durch seine räumliche, sachliche und technische Ausstattung gewährleisten, dass er die ihm übertragenen Aufgaben erfüllen kann. Der Plattformträger hat insbesondere
 
-(9) Die Aufgaben der Datenverarbeitung im Rahmen des Modellvorhabens werden von der Vertrauensstelle und dem Träger der Dateninfrastruktur wahrgenommen. Die Aufgaben der Vertrauensstelle werden durch das Robert Koch-Institut, die Aufgaben des Trägers der Dateninfrastruktur durch das Bundesinstitut für Arzneimittel und Medizinprodukte wahrgenommen. Der Träger der Dateninfrastruktur und die Vertrauensstelle unterliegen dem Sozialgeheimnis nach § 35 des Ersten Buches und unterstehen der Rechtsaufsicht des Bundesministeriums für Gesundheit. Der Träger der Dateninfrastruktur und die Vertrauensstelle müssen durch die Qualifikation ihrer Mitarbeiterinnen und Mitarbeiter sowie durch ihre räumliche, sachliche und technische Ausstattung gewährleisten, dass sie die ihnen übertragenen Aufgaben erfüllen können. Die Leistungserbringer, die Vertragspartner nach Absatz 1 Satz 1 sind, übermitteln für die in Absatz 10 Satz 3 genannten Zwecke für jeden teilnehmenden Versicherten die folgenden verschlüsselten Daten jeweils in Verbindung mit einer Arbeitsnummer an den Träger der Dateninfrastruktur:
+1. die klinischen Datenknoten, Genomrechenzentren und Datendienste zuzulassen und zu kontrollieren sowie Anforderungen an die Qualitätsprüfung und Qualitätssicherung der in den Genomrechenzentren nach Absatz 10a Satz 4 und den klinischen Datenknoten nach Absatz 10b Satz 4 zu speichernden Daten festzulegen,
 
-1. Angaben zu Alter, Geschlecht und Kreisschlüssel,
+2. ein öffentliches Antragsregister mit Informationen zu den antragstellenden Nutzungsberechtigten, zu den Vorhaben, für die Daten beantragt wurden, und ihren Ergebnissen aufzubauen und zu pflegen,
 
-2. die Daten der Genomsequenzierung,
+3. das Modellvorhaben weiterzuentwickeln,
 
-3. die Daten der Phänotypisierung und
+4. die Öffentlichkeit über das Modellvorhaben zu informieren,
 
-4. Daten zum Behandlungsverlauf.
+5. den Nutzungsberechtigten auf Antrag Daten bereitzustellen und zugänglich zu machen.
 
-Die Leistungserbringer, die Vertragspartner nach Absatz 1 Satz 1 sind, übermitteln die Arbeitsnummer und die Krankenversichertennummer im Sinne des § 290 an die Vertrauensstelle. Die Vertrauensstelle überführt die ihr nach Satz 6 übermittelten Krankenversichertennummern nach einem einheitlich anzuwendenden Verfahren in periodenübergreifende Pseudonyme. Die Vertrauensstelle hat im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik ein schlüsselabhängiges Verfahren zur Pseudonymisierung festzulegen, das dem jeweiligen Stand der Wissenschaft und Technik entspricht. Das Verfahren zur Pseudonymisierung ist so zu gestalten, dass für die jeweilige Krankenversichertennummern eines jeden Versicherten periodenübergreifend immer das gleiche Pseudonym erstellt wird, aus dem Pseudonym aber nicht auf die Arbeitsnummer oder die Identität des Versicherten geschlossen werden kann. Die Vertrauensstelle übermittelt dem Träger der Dateninfrastruktur die periodenübergreifenden Pseudonyme mit den dazugehörigen Arbeitsnummern. Mit dem periodenübergreifenden Pseudonym und der bereits übersandten Arbeitsnummer verknüpft der Träger der Dateninfrastruktur die freigegebenen Daten mit den im Träger der Dateninfrastruktur vorliegenden Daten vorheriger Übermittlungen. Nach der Übermittlung hat sie die Arbeitsnummern, die Krankenversichertennummern sowie die periodenübergreifenden Pseudonyme zu löschen.
+Zum Betrieb der Plattform und zur Wahrnehmung der Aufgaben nach Satz 4 wird beim Plattformträger eine Geschäftsstelle eingerichtet. Das Nähere zur Organisation und Arbeitsweise der Geschäftsstelle sowie zur Ausgestaltung der Aufgaben nach Satz 4, insbesondere zu den Voraussetzungen einer Zulassung sowie zu Art, Umfang und Verfahren einer Kontrolle nach Satz 4 Nummer 1, legt der Plattformträger in einer Geschäfts- und Nutzungsordnung fest. Sie bedarf der Zustimmung des Bundesministeriums für Gesundheit im Benehmen mit dem Bundesministerium für Bildung und Forschung.
 
-(10) Der Träger der Dateninfrastruktur nach Absatz 9 Satz 2 hat folgende Aufgaben:
+(9a) Der Plattformträger richtet im Benehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Bildung und Forschung einen Beirat unter seinem Vorsitz sowie Arbeitsgruppen ein. Der Beirat berät den Plattformträger bei der Wahrnehmung seiner Aufgaben nach Absatz 9 Satz 4 Nummer 1 bis 4 und Absatz 9c Satz 12 und 13. Die Arbeitsgruppen unterstützen den Beirat bei der Wahrnehmung seiner Aufgabe; ihre Mitglieder sind ehrenamtlich tätig. Der Plattformträger beruft für den Beirat sach- und fachkundige Mitglieder und Stellvertreter der Mitglieder. Die Berufung erfolgt jeweils für die Dauer von einem Jahr. Er stellt bei der Zusammensetzung des Beirats sicher, dass vertreten sind:
 
-1. die ihm von den Leistungserbringern übermittelten Daten für die Auswertung für Zwecke nach Satz 3 qualitätsgesichert aufzubereiten,
+1. das Bundesministerium für Gesundheit,
 
-2. Qualitätssicherungen der Daten vorzunehmen,
+2. die Vertrauensstelle,
 
-3. Anträge auf Datennutzung zu prüfen,
+3. die Leistungserbringer,
 
-4. das spezifische Reidentifikationsrisiko in Bezug auf die durch Nutzungsberechtigte nach Absatz 11 beantragten Daten zu bewerten und unter angemessener Wahrung des angestrebten wissenschaftlichen Nutzens durch geeignete Maßnahmen zu minimieren,
+4. die Betreiber der Genomrechenzentren und klinischen Datenknoten,
 
-5. die beantragten Daten den Nutzungsberechtigten nach Absatz 11 Satz 1 zugänglich zu machen und
+5. die gesetzliche Krankenversicherung,
 
-6. die wissenschaftliche Erschließung der Daten zu fördern.
+6. die maßgeblichen Bundesorganisationen für die Wahrnehmung der Interessen von Patientinnen und Patienten und der Selbsthilfe chronisch kranker Menschen,
 
-Der Träger der Dateninfrastruktur hat die versichertenbezogenen Einzeldatensätze spätestens nach 30 Jahren zu löschen. Der Träger der Dateninfrastruktur macht die ihm von den Leistungserbringern übermittelten Daten den Nutzungsberechtigten auf Antrag in anonymisierter und aggregierter Form zugänglich, soweit die beantragten Daten geeignet und erforderlich sind zur
+7. die Gesundheitsforschung.
 
-1. Verbesserung der Versorgung im Zusammenhang mit personalisierten und standardisierten Therapien und Diagnostika mittels einer Genomsequenzierung
+Beratend können an den Sitzungen des Beirats Vertreter des Bundesministeriums für Bildung und Forschung sowie des Verbands der Universitätsklinika teilnehmen. Das Nähere zu den Aufgaben und der Besetzung des Beirats und der Arbeitsgruppen ist in der Geschäfts- und Nutzungsordnung nach Absatz 9 Satz 6 festzulegen.
 
-2. Qualitätssicherung oder
+(9b) Der Plattformträger richtet im Benehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Bildung und Forschung einen wissenschaftlichen Ausschuss unter seinem Vorsitz ein. Der wissenschaftliche Ausschuss berät und unterstützt den Plattformträger bei der Wahrnehmung seiner Aufgaben nach Absatz 9 Satz 4 Nummer 5. Absatz 9a Satz 4, 5 und 8 gilt entsprechend.
 
-3. wissenschaftlichen Forschung.
+(9c) Das Robert Koch-Institut richtet eine Vertrauensstelle für das Modellvorhaben ein. Absatz 9 Satz 2 und 3 gilt entsprechend. Die Vertrauensstelle hat insbesondere
 
-Der Träger der Dateninfrastruktur kann einem Nutzungsberechtigten entsprechend seinen Anforderungen auch pseudonymisierte Einzeldatensätze bereitstellen, wenn der antragstellende Nutzungsberechtigte nachvollziehbar darlegt, dass die Nutzung der pseudonymisierten Einzeldatensätze für einen nach Satz 3 zulässigen Nutzungszweck erforderlich ist. Der Träger der Dateninfrastruktur stellt einem Nutzungsberechtigten die pseudonymisierten Einzeldatensätze ohne Sichtbarmachung der Pseudonyme für die Verarbeitung unter Kontrolle des Trägers der Dateninfrastruktur bereit, soweit
+1. zu den ihr nach Absatz 10 Satz 1 Nummer 1 übermittelten Daten eine zufällige Vorgangsnummer zu generieren und diese an den jeweiligen Leistungserbringer zu übermitteln,
 
-1. gewährleistet ist, dass diese Daten nur solchen Personen bereitgestellt werden, die einer Geheimhaltungspflicht nach § 203 des Strafgesetzbuches unterliegen, und
+2. zu der ihr nach Absatz 10a Satz 4 Nummer 1 übermittelten Vorgangsnummer ein Genomdatensatzpseudonym zu generieren und dieses an ein Genomrechenzentrum zu übermitteln,
 
-2. durch geeignete technische und organisatorische Maßnahmen sichergestellt wird, dass die Verarbeitung durch den Nutzungsberechtigten auf das erforderliche Maß beschränkt und insbesondere ein Kopieren der Daten verhindert werden kann.
+3. zu der ihr nach Absatz 10b Satz 4 Nummer 1 übermittelten Vorgangsnummer ein Klinikdatensatzpseudonym zu generieren und dieses an einen klinischen Datenknoten zu übermitteln,
 
-Personen, die nicht der Geheimhaltungspflicht nach § 203 des Strafgesetzbuches unterliegen, können pseudonymisierte Einzeldatensätze nach Satz 4 bereitgestellt werden, wenn sie vor dem Zugang zur Geheimhaltung verpflichtet wurden. § 1 Absatz 2, 3 und 4 Nummer 2 des Verpflichtungsgesetzes gilt entsprechend.
+4. für eine in Satz 7 Nummer 1 genannte Fallidentifizierung zu den ihr nach Absatz 10 Satz 3 Nummer 1 übermittelten Daten eine zufällige Vorgangsnummer zu generieren und diese zusammen mit dem Kontakt des ersuchten Leistungserbringers an den ersuchenden Leistungserbringer zu übermitteln,
 
-(11) Nutzungsberechtigte sind die Leistungserbringer, die Vertragspartner nach Absatz 1 Satz 1 sind, Hochschulen, die nach landesrechtlichen Vorschriften anerkannten Hochschulkliniken, öffentlich geförderte außeruniversitäre Forschungseinrichtungen und sonstige öffentliche Einrichtungen mit der Aufgabe unabhängiger wissenschaftlicher Forschung, sofern die Daten wissenschaftlichen Vorhaben dienen. Die Nutzungsberechtigten dürfen die nach Absatz 10 Satz 3 und 4 zugänglich gemachten Daten
+5. für eine in Satz 7 Nummer 1 genannte Fallidentifizierung aus den ihr nach Absatz 10 Satz 3 Nummer 2 übermittelten Daten die Arbeitsnummer zu ermitteln und diese an den ersuchten Leistungserbringer zu übermitteln,
 
-1. nur für die Zwecke nutzen, für die sie zugänglich gemacht werden und
+6. für eine in Satz 7 Nummer 2 genannte Information des behandelnden Leistungserbringers aus den ihr nach Absatz 10 Satz 4 übermittelten Daten die Arbeitsnummer zu ermitteln und diese an den behandelnden Leistungserbringer zu übermitteln.
 
-2. nicht an Dritte weitergeben, es sei denn, der Träger der Dateninfrastruktur genehmigt auf Antrag eine Weitergabe an einen Dritten im Rahmen eines nach Absatz 10 Satz 3 zulässigen Nutzungszwecks.
+Nach der Übermittlung ist die Vorgangsnummer bei der Vertrauensstelle, den Leistungserbringern, Genomrechenzentren und klinischen Datenknoten zu löschen. Das Verfahren zur Pseudonymisierung muss nach dem jeweiligen Stand der Technik eine widerrechtliche Identifizierung der betroffenen Patientinnen und Patienten ausschließen. Das Verfahren zur Pseudonymisierung wird von der Vertrauensstelle im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit und dem Bundesamt für Sicherheit in der Informationstechnik festgelegt. Die Vertrauensstelle ist zur Wiederherstellung des Fallbezugs der Daten und zur Übermittlung von Daten berechtigt, soweit dies erforderlich ist
 
-Die Nutzungsberechtigten haben bei der Verarbeitung der nach Absatz 10 Satz 3 und 4 zugänglich gemachten Daten darauf zu achten, keinen Bezug zu Personen, Leistungserbringern oder Leistungsträgern herzustellen. Wird ein Bezug zu Personen, Leistungserbringern oder Leistungsträgern unbeabsichtigt hergestellt, so ist dies dem Träger der Dateninfrastruktur zu melden. Die Verarbeitung der bereitgestellten Daten zum Zwecke der Herstellung eines Personenbezugs, zum Zwecke der Identifizierung von Leistungserbringern oder Leistungsträgern sowie zum Zwecke der bewussten Verschaffung von Kenntnissen über fremde Betriebs- und Geschäftsgeheimnisse ist untersagt. Wenn die zuständige Datenschutzaufsichtsbehörde feststellt, dass Nutzungsberechtigte die vom Träger der Dateninfrastruktur nach Absatz 10 Satz 3 und 4 zugänglich gemachten Daten in einer Art und Weise verarbeitet haben, die nicht den geltenden datenschutzrechtlichen Vorschriften oder den Auflagen des Trägers der Dateninfrastruktur entspricht, und wegen eines solchen Verstoßes eine Maßnahme nach Artikel 58 Absatz 2 Buchstabe b bis j der Verordnung (EU) 2016/679 gegenüber dem Nutzungsberechtigten ergriffen hat, informiert sie den Träger der Dateninfrastruktur. In diesem Fall schließt der Träger der Dateninfrastruktur den Nutzungsberechtigten für einen Zeitraum von bis zu zwei Jahren vom Datenzugang aus.
+1. zur Fallidentifizierung durch einen ersuchenden Leistungserbringer oder
 
-(12) Das Bundesministerium für Gesundheit bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere
+2. zur Information des behandelnden Leistungserbringers eines Versicherten.
 
-1. zu näheren Bestimmungen zu Art und Umfang der nach den Absätzen 9 und 10 zu übermittelnden Daten und zu den Fristen der Datenübermittlung,
+Die Wiederherstellung des Fallbezugs und die Übermittlung von Daten sind zur Fallidentifizierung erforderlich, wenn die Behandlung eines Versicherten nach klinisch-diagnostischer Einschätzung des ersuchenden Leistungserbringers den fachlichen Austausch und Kontakt mit einem ersuchten Leistungserbringer im Modellvorhaben erfordert, bei dem ein ähnlich gelagerter Fall vorliegt. Die Wiederherstellung des Fallbezugs und die Übermittlung von Daten sind zur Information des behandelnden Leistungserbringers eines Versicherten erforderlich, wenn sich aus Vorhaben, die unter Nutzung von pseudonymisierten Einzeldatensätzen nach Absatz 11a durchgeführt wurden, Informationen ergeben, die für die Versorgung eines Versicherten im Modellvorhaben relevant sind. Hierüber hat der jeweilige Nutzungsberechtigte den Plattformträger unverzüglich zu informieren. Der Plattformträger hat mittels eines entsprechenden Datendienstes die Information und die jeweils relevanten Pseudonyme unverzüglich an den jeweiligen behandelnden Leistungserbringer zu übermitteln. Der Plattformträger und die Vertrauensstelle haben im Einvernehmen mit zwei von den klinischen Krebsregistern der Länder nach § 65c zu benennenden Vertretern dem Bundesministerium für Gesundheit bis zum 31. Mai 2025 ein Konzept zur Verknüpfung und Verarbeitung von pseudonymisierten Daten des Modellvorhabens und der klinischen Krebsregister der Länder nach § 65c vorzulegen. Der Plattformträger hat im Einvernehmen mit dem Forschungsdatenzentrum und den beteiligten Vertrauensstellen dem Bundesministerium für Gesundheit bis zum 31. Mai 2026 ein Konzept zur Verknüpfung und Verarbeitung von pseudonymisierten Daten des Modellvorhabens und des Forschungsdatenzentrums vorzulegen.
+
+(10) Die Leistungserbringer übermitteln für die in Absatz 11 Satz 3 genannten Zwecke für jeden teilnehmenden Versicherten
+
+1. an die Vertrauensstelle die von ihnen erstellte Arbeitsnummer und die Krankenversichertennummer im Sinne des § 290,
+
+2. an ein Genomrechenzentrum die Vorgangsnummer und die Daten der Genomsequenzierung,
+
+3. an einen klinischen Datenknoten die Vorgangsnummer, die klinischen Daten und die Daten der jeweiligen Einwilligung.
+
+Die klinischen Daten umfassen die Angaben zu Alter, Geschlecht und Kreisschlüssel, die Daten der Phänotypisierung sowie die Daten zum Behandlungsverlauf. Für eine in Absatz 9c Satz 7 Nummer 1 genannte Fallidentifizierung übermittelt
+
+1. der ersuchende Leistungserbringer an die Vertrauensstelle das über einen Datendienst breitgestellte Genomdatensatz- oder Klinikdatensatzpseudonym,
+
+2. der ersuchte Leistungserbringer an die Vertrauensstelle die nach Absatz 9c Satz 3 Nummer 4 generierte zufällige Vorgangsnummer, die ihm vom ersuchenden Leistungserbringer mitgeteilt wurde.
+
+Für eine in Absatz 9c Satz 7 Nummer 2 genannte Fallidentifizierung übermittelt der behandelnde Leistungserbringer an die Vertrauensstelle die nach Absatz 9c Satz 11 vom Plattformträger übermittelten relevanten Pseudonyme.
+
+(10a) Qualifizierte Einrichtungen der wissenschaftlichen Forschung können Genomrechenzentren einrichten. Ihr Einsatz im Modellvorhaben bedarf der Zulassung durch den Plattformträger gegenüber dem Betreiber des Genomrechenzentrums. Absatz 9 Satz 3 gilt entsprechend. Die Genomrechenzentren haben insbesondere
+
+1. die ihnen nach Absatz 10 Satz 1 Nummer 2 übermittelten Daten auf ihre Datenqualität gemäß den Anforderungen nach Absatz 9 Satz 4 Nummer 1 zu prüfen, zu speichern und die jeweiligen Vorgangsnummern an die Vertrauensstelle zu übermitteln,
+
+2. die gespeicherten Genomdaten mit den nach Absatz 9c Satz 3 Nummer 2 übermittelten Genomdatensatzpseudonymen zu verknüpfen und zu speichern.
+
+Die Genomrechenzentren haben die versichertenbezogenen Einzeldatensätze spätestens nach 100 Jahren zu löschen. Der Zugang zu den in den Genomrechenzentren gespeicherten Daten erfolgt ausschließlich nach den Vorgaben der Absätze 11 bis 11b. Kommt das Genomrechenzentrum seinen Verpflichtungen nach Satz 4 nicht nach, kann der Plattformträger gegenüber dem Genomrechenzentrum Maßnahmen zur Sicherstellung der Aufgabenwahrnehmung anordnen. Kommt das Genomrechenzentrum den Anordnungen wiederholt nicht nach, kann der Plattformträger gegenüber dem Genomrechenzentrum den Ausschluss vom Modellvorhaben anordnen.
+
+(10b) Die Leistungserbringer richten klinische Datenknoten ein und betreiben diese oder schließen sich dem klinischen Datenknoten eines anderen Leistungserbringers an. Ihr Einsatz im Modellvorhaben bedarf der Zulassung durch den Plattformträger gegenüber dem Betreiber des klinischen Datenknotens. Absatz 9 Satz 3 gilt entsprechend. Die klinischen Datenknoten haben insbesondere
+
+1. die ihnen nach Absatz 10 Satz 1 Nummer 3 übermittelten Daten auf ihre Datenqualität gemäß den Anforderungen nach Absatz 9 Satz 4 Nummer 1 zu prüfen, zu speichern und die jeweiligen Vorgangsnummern an die Vertrauensstelle zu übermitteln,
+
+2. die gespeicherten klinischen Daten und Daten der Einwilligung mit den nach Absatz 9c Satz 3 Nummer 3 übermittelten Klinikdatensatzpseudonymen zu verknüpfen und zu speichern.
+
+Die klinischen Datenknoten haben die versichertenbezogenen Einzeldatensätze spätestens nach 100 Jahren zu löschen. Der Zugang zu den in den klinischen Datenknoten gespeicherten Daten erfolgt ausschließlich nach den Vorgaben der Absätze 11 bis 11b. Kommt der klinische Datenknoten seinen Verpflichtungen nach Satz 4 nicht nach, kann der Plattformträger gegenüber dem klinischen Datenknoten Maßnahmen zur Sicherstellung der Aufgabenwahrnehmung anordnen. Kommt der klinische Datenknoten den Anordnungen wiederholt nicht nach, kann der Plattformträger gegenüber dem klinischen Datenknoten den Ausschluss vom Modellvorhaben anordnen.
+
+(10c) Das Zugänglichmachen von Daten nach Absatz 11 und das Bereitstellen von Daten nach Absatz 11a erfolgen über automatisierte, informationstechnische Lösungen (Datendienste). Absatz 9 Satz 3 gilt entsprechend. Der Einsatz der Datendienste im Modellvorhaben bedarf der Zulassung durch den Plattformträger gegenüber dem Betreiber des Datendienstes.
+
+(11) Der Plattformträger macht die in den klinischen Datenknoten und Genomrechenzentren gespeicherten Daten nach Maßgabe der Sätze 4 und 5 sowie der Absätze 11a und 11b den Nutzungsberechtigten zugänglich. Nutzungsberechtigt sind natürliche und juristische Personen im Anwendungsbereich der Verordnung (EU) 2016/679, soweit diese nach Satz 3 zur Verarbeitung der Daten berechtigt sind. Die vom Plattformträger zugänglich gemachten Daten dürfen von den Nutzungsberechtigten verarbeitet werden, soweit dies für folgende Zwecke erforderlich ist:
+
+1. Verbesserung der Versorgung durch umfassende Diagnostik und Therapiefindung mittels einer Genomsequenzierung,
+
+2. Qualitätssicherung,
+
+3. Evaluation des Modellvorhabens,
+
+4. wissenschaftliche Forschung.
+
+Liegen die Voraussetzungen nach den Sätzen 3 und 5 vor, stellt der Plattformträger dem Nutzungsberechtigten auf Antrag die entsprechend den Anforderungen des Nutzungsberechtigten ausgewählten Daten durch einen einmaligen oder wiederholten Zugang zu einem Datendienst anonymisiert und aggregiert bereit. In dem Antrag hat der Nutzungsberechtigte nachvollziehbar darzulegen, dass Umfang und Struktur der beantragten Daten geeignet und erforderlich sind, um eine von ihm zur Untersuchung vorgesehene Frage zu beantworten.
+
+(11a) Der Plattformträger kann einem Nutzungsberechtigten pseudonymisierte Einzeldatensätze bereitstellen, wenn der antragstellende Nutzungsberechtigte nachvollziehbar darlegt, dass ein in Absatz 11 Satz 3 genannter Nutzungszweck dies erfordert. Für den in Absatz 11 Satz 3 Nummer 1 genannten Zweck kann der Plattformträger dem Nutzungsberechtigten auf Antrag pseudonymisierte Einzeldatensätze über einen Datendienst für eine wiederholte Nutzung bereitstellen. Der Plattformträger stellt einem Nutzungsberechtigten die pseudonymisierten Einzeldatensätze für die Verarbeitung unter Kontrolle des Plattformträgers bereit, soweit
+
+1. gewährleistet ist, dass diese Daten nur solchen Personen bereitgestellt werden, die einer Geheimhaltungspflicht unterliegen, und
+
+2. durch geeignete technische und organisatorische Maßnahmen sichergestellt wird, dass die Verarbeitung durch den Nutzungsberechtigten auf das erforderliche Maß beschränkt und insbesondere ein Kopieren der Daten ausgeschlossen ist.
+
+Der Plattformträger kann Personen, die keiner Geheimhaltungspflicht unterliegen, pseudonymisierte Einzeldatensätze nach den Sätzen 1 und 2 bereitstellen, wenn sie vor dem Zugang zur Geheimhaltung verpflichtet wurden. § 1 Absatz 2, 3 und 4 Nummer 2 des Verpflichtungsgesetzes gilt entsprechend.
+
+(11b) Die Nutzungsberechtigten dürfen die nach den Absätzen 11 und 11a zugänglich gemachten oder bereitgestellten Daten
+
+1. nur für die Zwecke nutzen, für die sie zugänglich gemacht oder bereitgestellt werden, und
+
+2. nicht an Dritte weitergeben, wenn nicht der Plattformträger auf Antrag eine Weitergabe an einen Dritten im Rahmen eines in Absatz 11 Satz 3 genannten Nutzungszwecks genehmigt. Das Nähere zu den Voraussetzungen einer in Satz 1 Nummer 2 genannten Genehmigung ist in der Geschäfts- und Nutzungsordnung nach Absatz 9 Satz 6 festzulegen.
+
+Die Nutzungsberechtigten informieren den Plattformträger über die Vorhaben, für die Daten beantragt wurden, und deren Ergebnisse. Die Nutzungsberechtigten haben bei der Verarbeitung der nach den Absätzen 11 und 11a zugänglich gemachten oder bereitgestellten Daten darauf zu achten, keinen Bezug zu Personen oder Leistungserbringern herzustellen. Wird ein Bezug zu Personen oder Leistungserbringern unbeabsichtigt hergestellt, so ist dies dem Plattformträger unverzüglich zu melden. Die vorsätzliche Verarbeitung der bereitgestellten Daten zum Zwecke der Herstellung eines Personenbezugs, zum Zwecke der Identifizierung von Leistungserbringern und zum Zwecke der bewussten Verschaffung von Kenntnissen über fremde Betriebs- und Geschäftsgeheimnisse ist untersagt. Dies gilt nicht für den Fall einer in Absatz 9c Satz 7 Nummer 1 genannten Fallidentifizierung durch die Vertrauensstelle. Wenn ein begründeter Verdacht besteht, dass Nutzungsberechtigte die vom Plattformträger nach den Absätzen 11 und 11a zugänglich gemachten oder bereitgestellten Daten in einer Art und Weise verarbeitet haben, die nicht den geltenden datenschutzrechtlichen Vorschriften oder den Auflagen des Plattformträgers entsprechen, kann der Plattformträger den Nutzungsberechtigten vom Datenzugang ausschließen. Der Ausschluss kann befristet werden. Der Plattformträger informiert die zuständigen Datenschutzaufsichtsbehörden über jeden in Satz 8 genannten begründeten Verdacht einer rechtswidrigen Verarbeitung und über jeden Ausschluss eines Nutzungsberechtigten vom Datenzugang.
+
+(12) Das Bundesministerium für Gesundheit bestimmt im Benehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere
+
+1. zu Art und Umfang der nach den Absätzen 9 bis 11b zu übermittelnden Daten und zu den Fristen der Datenübermittlung,
 
 2. zur Datenverarbeitung durch die Leistungserbringer,
 
-3. zum Verfahren der Pseudonymisierung der Versichertendaten durch die Leistungserbringer,
+3. zum Verfahren der Pseudonymisierung und
 
-4. zur technischen Ausgestaltung der Datenübermittlung nach den Absätzen 9 und 10 und
+4. zur technischen Ausgestaltung der Datenübermittlung nach den Absätzen 9 bis 11b.
 
-5. zur Evaluation des Modellvorhabens.
-
-(13) § 65 gilt mit der Maßgabe, dass der Bericht über die Ergebnisse der Auswertungen einen Vorschlag zur Übernahme der Leistungen des Modellvorhabens in die Regelversorgung enthalten muss. Nach Ablauf der Laufzeit nach Absatz 1 Satz 2 und bis zur Vorlage des Berichts über die Ergebnisse der Auswertungen oder bis zu einer gesetzlichen Regelung zur Übernahme in die Regelversorgung können die Krankenkassen das Modellvorhaben auf Grundlage eines Vertrages nach § 140a fortführen. Darüber hinaus hat der Spitzenverband Bund der Krankenkassen dem Bundesministerium für Gesundheit während der Laufzeit des Modellvorhabens jährlich ein Zwischenbericht der Evaluierung, der insbesondere die wissenschaftliche Auswertung der bis dahin vorliegenden Ergebnisse enthält, vorzulegen.
+(13) § 65 gilt mit der Maßgabe, dass der Bericht über die Ergebnisse der Auswertungen einen Vorschlag zur Übernahme der Leistungen des Modellvorhabens in die Regelversorgung enthalten muss und die wissenschaftliche Begleitung und Auswertung im Einvernehmen mit dem Bundesministerium für Gesundheit zu erfolgen hat. Nach Ablauf der Laufzeit nach Absatz 1 Satz 2 und bis zur Vorlage des Berichts über die Ergebnisse der Auswertungen oder bis zu einer gesetzlichen Regelung zur Übernahme in die Regelversorgung können die Krankenkassen das Modellvorhaben auf Grundlage eines Vertrages nach § 140a fortführen. Darüber hinaus hat der Spitzenverband Bund der Krankenkassen dem Bundesministerium für Gesundheit während der Laufzeit des Modellvorhabens jährlich ein Zwischenbericht der Evaluierung, der insbesondere die wissenschaftliche Auswertung der bis dahin vorliegenden Ergebnisse enthält, vorzulegen.
 
 (14) Der Spitzenverband Bund der Krankenkassen hat den Vertrag nach Absatz 1 Satz 1 dem Bundesministerium für Gesundheit zur Genehmigung vorzulegen. Die Genehmigung gilt als erteilt, wenn das Bundesministerium für Gesundheit sie nicht innerhalb von zwei Monaten nach Vorlage des Vertrages ganz oder teilweise versagt. Im Rahmen der Prüfung kann das Bundesministerium für Gesundheit vom Spitzenverband Bund der Krankenkassen zusätzliche Informationen, die dem Vertragsschluss zugrunde lagen, sowie ergänzende Stellungnahmen anfordern; bis zum Eingang der Auskünfte ist der Ablauf der Frist nach Satz 2 gehemmt. Bereits während der laufenden Vertragsverhandlungen ist das Bundesministerium für Gesundheit berechtigt, Auskunft über den Stand der Verhandlungen zu verlangen und sich hierzu relevante Unterlagen vorlegen zu lassen. Es ist berechtigt, an den Verhandlungen zwischen den Vertragsparteien nach Absatz 1 Satz 1 teilzunehmen. Über die jeweiligen Verhandlungstermine hat der Spitzenverband Bund der Krankenkassen das Bundesministerium für Gesundheit frühzeitig zu informieren.
 
@@ -3746,11 +3842,11 @@ Kommt eine Vereinbarung bis zum Ablauf der in Satz 1 genannten Frist nicht zusta
 
 (4a) Die Vorstände der Krankenkassenverbände sowie der Ersatzkassen, soweit sie Vertragspartei nach Absatz 1 sind und der Kassenärztlichen Vereinigungen haften für eine ordnungsgemäße Umsetzung der vorgenannten Maßnahmen.
 
-(5) Zur Feststellung des tatsächlichen Ausgabenvolumens nach Absatz 3 erfassen die Krankenkassen die während der Geltungsdauer der Arzneimittelvereinbarung veranlassten Ausgaben arztbezogen, nicht versichertenbezogen. Sie übermitteln diese Angaben nach Durchführung der Abrechnungsprüfung dem Spitzenverband Bund der Krankenkassen, der diese Daten kassenartenübergreifend zusammenführt und jeweils der Kassenärztlichen Vereinigung übermittelt, der die Ärzte, welche die Ausgaben veranlasst haben, angehören; zugleich übermittelt der Spitzenverband Bund der Krankenkassen diese Daten den Landesverbänden der Krankenkassen und den Ersatzkassen, die Vertragspartner der jeweiligen Kassenärztlichen Vereinigung nach Absatz 1 sind. Ausgaben nach Satz 1 sind auch Ausgaben für Leistungen nach § 31, die durch Kostenerstattung vergütet worden sind. Zudem erstellt der Spitzenverband Bund der Krankenkassen für jede Kassenärztliche Vereinigung monatliche Berichte über die Entwicklung der Ausgaben von Leistungen nach § 31 und übermitteln diese Berichte als Schnellinformationen den Vertragspartnern nach Absatz 1 insbesondere für Abschluss und Durchführung der Arzneimittelvereinbarung sowie für die Informationen nach § 73 Abs. 8. Für diese Berichte gelten Satz 1 und 2 entsprechend; Satz 2 gilt mit der Maßgabe, dass die Angaben vor Durchführung der Abrechnungsprüfung zu übermitteln sind. Die Kassenärztliche Bundesvereinigung erhält für die Vereinbarung der Rahmenvorgaben nach Absatz 7 und für die Informationen nach § 73 Abs. 8 eine Auswertung dieser Berichte. Die Krankenkassen sowie der Spitzenverband Bund der Krankenkassen können eine Arbeitsgemeinschaft nach § 219 mit der Durchführung der vorgenannten Aufgaben beauftragen. § 304 Abs. 1 Satz 1 Nr. 2 gilt entsprechend.
+(5) Zur Feststellung des tatsächlichen Ausgabenvolumens nach Absatz 3 erfassen die Krankenkassen die während der Geltungsdauer der Arzneimittelvereinbarung veranlassten Ausgaben arztbezogen, nicht versichertenbezogen. Sie übermitteln diese Angaben nach Durchführung der Abrechnungsprüfung dem Spitzenverband Bund der Krankenkassen, der diese Daten kassenartenübergreifend zusammenführt und jeweils der Kassenärztlichen Vereinigung übermittelt, der die Ärzte, welche die Ausgaben veranlasst haben, angehören; zugleich übermittelt der Spitzenverband Bund der Krankenkassen diese Daten den Landesverbänden der Krankenkassen und den Ersatzkassen, die Vertragspartner der jeweiligen Kassenärztlichen Vereinigung nach Absatz 1 sind. Ausgaben nach Satz 1 sind auch Ausgaben für Leistungen nach § 31, die durch Kostenerstattung vergütet worden sind. Zudem erstellt der Spitzenverband Bund der Krankenkassen für jede Kassenärztliche Vereinigung monatliche Berichte über die Entwicklung der Ausgaben von Leistungen nach § 31 und übermitteln diese Berichte als Schnellinformationen den Vertragspartnern nach Absatz 1 insbesondere für Abschluss und Durchführung der Arzneimittelvereinbarung sowie für die Informationen nach § 73 Abs. 8. Für diese Berichte gelten Satz 1 und 2 entsprechend; Satz 2 gilt mit der Maßgabe, dass die Angaben vor Durchführung der Abrechnungsprüfung zu übermitteln sind. Die Kassenärztliche Bundesvereinigung erhält für die Vereinbarung der Rahmenvorgaben nach Absatz 7 und für die Informationen nach § 73 Abs. 8 eine Auswertung dieser Berichte. Die Krankenkassen sowie der Spitzenverband Bund der Krankenkassen können eine Arbeitsgemeinschaft nach § 219 mit der Durchführung der vorgenannten Aufgaben beauftragen. § 304 Abs. 1 Satz 1 Nr. 2 gilt entsprechend. Der Spitzenverband Bund der Krankenkassen oder die von den Krankenkassen und dem Spitzenverband Bund der Krankenkassen beauftragte Arbeitsgemeinschaft stellen dem Bundesministerium für Gesundheit zur Wahrnehmung seiner Aufgaben auf Anforderung unverzüglich Auswertungen der in den Sätzen 1 bis 6 genannten Daten ohne Versichertenbezug und Arztbezug in maschinenlesbarer Form zur Verfügung.
 
 (6) Die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen vereinbaren bis zum 30. September für das jeweils folgende Kalenderjahr Rahmenvorgaben für die Inhalte der Arzneimittelvereinbarungen nach Absatz 1 sowie für die Inhalte der Informationen und Hinweise nach § 73 Abs. 8. Die Rahmenvorgaben haben die Arzneimittelverordnungen zwischen den Kassenärztlichen Vereinigungen zu vergleichen und zu bewerten; dabei ist auf Unterschiede in der Versorgungsqualität und Wirtschaftlichkeit hinzuweisen. Von den Rahmenvorgaben dürfen die Vertragspartner der Arzneimittelvereinbarung nur abweichen, soweit dies durch die regionalen Versorgungsbedingungen begründet ist.
 
-(7) Die Absätze 1 bis 6 sind für Heilmittel unter Berücksichtigung der besonderen Versorgungs- und Abrechnungsbedingungen im Heilmittelbereich entsprechend anzuwenden. Veranlasste Ausgaben im Sinne des Absatzes 5 Satz 1 betreffen die während der Geltungsdauer der Heilmittelvereinbarung mit den Krankenkassen abgerechneten Leistungen. Die in Absatz 5 geregelte Datenübermittlung erfolgt für die Heilmittel in arztbezogener Form sowie versichertenbezogen in pseudonymisierter Form. Das Nähere zur Datenübermittlung und zum Verfahren der Pseudonymisierung regelt der Spitzenverband Bund der Krankenkassen.
+(7) Die Absätze 1 bis 6 sind für Heilmittel unter Berücksichtigung der besonderen Versorgungs- und Abrechnungsbedingungen im Heilmittelbereich entsprechend anzuwenden. Veranlasste Ausgaben im Sinne des Absatzes 5 Satz 1 betreffen die während der Geltungsdauer der Heilmittelvereinbarung mit den Krankenkassen abgerechneten Leistungen. Die in Absatz 5 geregelte Datenübermittlung erfolgt für die Heilmittel in arztbezogener Form sowie versichertenbezogen in pseudonymisierter Form. Das Nähere zur Datenübermittlung und zum Verfahren der Pseudonymisierung regelt der Spitzenverband Bund der Krankenkassen. Absatz 5 Satz 9 gilt entsprechend.
 
 (8) Das Bundesministerium für Gesundheit kann bei Ereignissen mit erheblicher Folgewirkung für die medizinische Versorgung zur Gewährleistung der notwendigen Versorgung mit Leistungen nach § 31 die Ausgabenvolumen nach Absatz 1 Nr. 1 durch Rechtsverordnung mit Zustimmung des Bundesrates erhöhen.
 
@@ -4538,7 +4634,7 @@ Ziel der Weiterbildung ist der Erwerb der in den Weiterbildungsordnungen festgel
 
 # § 95d – Pflicht zur fachlichen Fortbildung
 
-(1) Der Vertragsarzt ist verpflichtet, sich in dem Umfang fachlich fortzubilden, wie es zur Erhaltung und Fortentwicklung der zu seiner Berufsausübung in der vertragsärztlichen Versorgung erforderlichen Fachkenntnisse notwendig ist. Die Fortbildungsinhalte müssen dem aktuellen Stand der wissenschaftlichen Erkenntnisse auf dem Gebiet der Medizin, Zahnmedizin oder Psychotherapie entsprechen. Sie müssen frei von wirtschaftlichen Interessen sein.
+(1) Der Vertragsarzt ist verpflichtet, sich in dem Umfang fachlich fortzubilden, wie es zur Erhaltung und Fortentwicklung der zu seiner Berufsausübung in der vertragsärztlichen Versorgung erforderlichen Fachkenntnisse, Fähigkeiten und Fertigkeiten notwendig ist. Die Fortbildungsinhalte müssen dem aktuellen Stand der wissenschaftlichen Erkenntnisse auf dem Gebiet der Medizin, Zahnmedizin oder Psychotherapie entsprechen. Sie müssen frei von wirtschaftlichen Interessen sein.
 
 (2) Der Nachweis über die Fortbildung kann durch Fortbildungszertifikate der Kammern der Ärzte, der Zahnärzte sowie der Psychotherapeuten erbracht werden. Andere Fortbildungszertifikate müssen den Kriterien entsprechen, die die jeweilige Arbeitsgemeinschaft der Kammern dieser Berufe auf Bundesebene aufgestellt hat. In Ausnahmefällen kann die Übereinstimmung der Fortbildung mit den Anforderungen nach Absatz 1 Satz 2 und 3 auch durch sonstige Nachweise erbracht werden; die Einzelheiten werden von den Kassenärztlichen Bundesvereinigungen nach Absatz 6 Satz 2 geregelt.
 
@@ -9152,6 +9248,8 @@ nach Maßgabe dieser Vorschrift an das Bundesamt für Soziale Sicherung. Eine un
 
 (7) Die Absätze 1 bis 6 gelten nicht für die landwirtschaftliche Krankenkasse.
 
+(8) Das Bundesamt für Soziale Sicherung stellt dem Bundesministerium für Gesundheit zur Wahrnehmung seiner Aufgaben auf Anforderung unverzüglich Auswertungen der nach Absatz 1 Satz 1 an das Bundesamt für Soziale Sicherung übermittelten Daten ohne Versichertenbezug in maschinenlesbarer Form zur Verfügung.
+
 # § 268 – Risikopool
 
 (1) Ergänzend zum Risikostrukturausgleich gemäß § 266 werden die finanziellen Belastungen für aufwendige Leistungsfälle teilweise über einen Risikopool ausgeglichen. Übersteigt die Summe der im Risikopool ausgleichsfähigen Leistungsausgaben eines Versicherten bei einer Krankenkasse innerhalb eines Ausgleichsjahres den Schwellenwert nach Satz 3, werden 80 Prozent des den Schwellenwert übersteigenden Betrags über den Risikopool ausgeglichen. Der Schwellenwert beträgt 100 000 Euro und ist in den Folgejahren anhand der jährlichen Veränderungsrate der im Risikopool ausgleichsfähigen Leistungsausgaben je Versicherten anzupassen.
@@ -9207,6 +9305,8 @@ Für die Übermittlung der Daten nach Satz 1 gilt § 267 Absatz 1 Satz 2 und Abs
 2. zu den Fristen der Datenübermittlung und zum Verfahren der Verarbeitung der nach Absatz 2 Satz 2, Absatz 4 und 5 Satz 1 zu übermittelnden Daten.
 
 (8) Der Spitzenverband Bund der Krankenkassen bestimmt im Einvernehmen mit dem Bundesamt für Soziale Sicherung das Nähere zum Verfahren der Datenübermittlung nach Absatz 2 Satz 2, Absatz 4 und 5 Satz 1. Die Kosten für die Datenübermittlung nach Absatz 2 Satz 2 und Absatz 5 Satz 1 werden durch die betroffenen Krankenkassen getragen.
+
+(9) Das Bundesamt für Soziale Sicherung stellt dem Bundesministerium für Gesundheit zur Wahrnehmung seiner Aufgaben auf Anforderung unverzüglich Auswertungen der nach Absatz 5 Satz 1 Nummer 5 an das Bundesamt für Soziale Sicherung übermittelten Daten ohne Versichertenbezug in maschinenlesbarer Form zur Verfügung.
 
 # § 270 – Zuweisungen aus dem Gesundheitsfonds für sonstige Ausgaben
 
@@ -9836,11 +9936,7 @@ Die Krankenkassen und die Kassenärztlichen Vereinigungen regeln in Dienstanweis
 
 (1) Die Krankenkassen und die Kassenärztlichen Vereinigungen dürfen mit Erlaubnis der Aufsichtsbehörde die Datenbestände leistungserbringer- oder fallbeziehbar für zeitlich befristete und im Umfang begrenzte Forschungsvorhaben, insbesondere zur Gewinnung epidemiologischer Erkenntnisse, von Erkenntnissen über Zusammenhänge zwischen Erkrankungen und Arbeitsbedingungen oder von Erkenntnissen über örtliche Krankheitsschwerpunkte, selbst auswerten oder über die sich aus § 304 ergebenden Fristen hinaus aufbewahren.
 
-(2) Sozialdaten sind zu anonymisieren.
-
-# § 287a – Federführende Datenschutzaufsicht in der Versorgungs- und Gesundheitsforschung
-
-Bei länderübergreifenden Vorhaben der Versorgungs- und Gesundheitsforschung, an denen nicht-öffentliche Stellen oder öffentliche Stellen des Bundes oder der Länder aus zwei oder mehr Ländern als Verantwortliche beteiligt sind, findet § 27 des Bundesdatenschutzgesetzes Anwendung. Die beteiligten Verantwortlichen benennen einen Hauptverantwortlichen und melden diesen der für die Hauptniederlassung des Hauptverantwortlichen zuständigen Aufsichtsbehörde. Die Artikel 56 und 60 der Verordnung (EU) 2016/679 sind entsprechend anzuwenden.
+(2) Die nach Absatz 1 verarbeiteten Daten sind zu anonymisieren, soweit und sobald dies nach dem Forschungszweck des jeweiligen Forschungsvorhabens möglich ist.
 
 # § 288 – Versichertenverzeichnis
 
@@ -10198,7 +10294,7 @@ aufzuzeichnen und zu übermitteln. Die Diagnosen nach Satz 1 Nr. 1 und 2 sind na
 
 (1a) Für die Erfüllung der Aufgaben nach § 106d sind die an der vertragsärztlichen Versorgung teilnehmenden Ärzte verpflichtet und befugt, auf Verlangen der Kassenärztlichen Vereinigungen die für die Prüfung erforderlichen Befunde vorzulegen.
 
-(1b) Ärzte, Einrichtungen und medizinische Versorgungszentren, die ohne Beteiligung der Kassenärztlichen Vereinigungen mit den Krankenkassen oder ihren Verbänden Verträge über Modellvorhaben nach § 64e, zu besonderen Versorgungsformen (§ 140a) oder zur Versorgung nach den §§ 73b, 132e oder 132f abgeschlossen haben, psychiatrische Institutsambulanzen sowie Leistungserbringer, die gemäß § 116b Abs. 2 an der ambulanten spezialfachärztlichen Versorgung teilnehmen, übermitteln die in Absatz 1 genannten Angaben, bei Krankenhäusern einschließlich ihres Institutionskennzeichens, an die jeweiligen Krankenkassen im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern; vertragsärztliche Leistungserbringer können in den Fällen des § 116b die Angaben über die Kassenärztliche Vereinigung übermitteln. Das Nähere regelt der Spitzenverband Bund der Krankenkassen mit Ausnahme der Datenübermittlung der Leistungserbringer, die gemäß § 116b Absatz 2 an der ambulanten spezialärztlichen Versorgung teilnehmen, sowie der psychiatrischen Institutsambulanzen. Die psychiatrischen Institutsambulanzen übermitteln die Angaben nach Satz 1 zusätzlich an die Datenstelle nach § 21 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes. Die Selbstverwaltungspartner nach § 17b Absatz 2 des Krankenhausfinanzierungsgesetzes vereinbaren für die Dokumentation der Leistungen der psychiatrischen Institutsambulanzen nach Satz 1 sowie für die Durchführung der vom Gemeinsamen Bundesausschuss nach § 101 Absatz 1 Satz 1 Nummer 2b zu beschließenden Bestimmungen bis spätestens zum 1. Januar 2018 einen bundeseinheitlichen Katalog, der nach Art und Umfang der Leistung sowie der zur Leistungserbringung eingesetzten personellen Kapazitäten getrennt nach Berufsgruppen und Fachgebieten differenziert, sowie das Nähere zur Datenübermittlung nach Satz 3; für die Umsetzung des Prüfauftrags nach § 17d Absatz 1 Satz 3 des Krankenhausfinanzierungsgesetzes vereinbaren sie dabei auch, ob und wie der Prüfauftrag auf der Grundlage der Daten einer Vollerhebung oder einer repräsentativen Stichprobe der Leistungen psychiatrischer Institutsambulanzen sachgerecht zu erfüllen ist. § 21 Absatz 4, Absatz 5 Satz 1 und 2 sowie Absatz 6 des Krankenhausentgeltgesetzes ist für die Vereinbarung zur Datenübermittlung entsprechend anzuwenden. Für die Vereinbarung einer bundeseinheitlichen Dokumentation der Leistungen der psychiatrischen Institutsambulanzen gilt § 21 Absatz 4 und 6 des Krankenhausentgeltgesetzes entsprechend mit der Maßgabe, dass die Schiedsstelle innerhalb von sechs Wochen entscheidet. Die Schiedsstelle entscheidet innerhalb von sechs Wochen nach Antrag einer Vertragspartei auch über die Tatbestände nach Satz 4 zweiter Halbsatz, zu denen keine Einigung zustande gekommen ist. In Fällen der Verträge nach den §§ 73b und 140a sind als zusätzliche Angabe je Diagnose auch die Vertragsnummern nach § 293a Absatz 1 Satz 4 zu übermitteln; Satz 1 gilt entsprechend.
+(1b) Ärzte, Einrichtungen und medizinische Versorgungszentren, die ohne Beteiligung der Kassenärztlichen Vereinigungen mit den Krankenkassen oder ihren Verbänden Verträge zu besonderen Versorgungsformen (§ 140a) oder zur Versorgung nach den §§ 73b, 132e oder 132f abgeschlossen haben, psychiatrische Institutsambulanzen sowie Leistungserbringer, die gemäß § 116b Abs. 2 an der ambulanten spezialfachärztlichen Versorgung teilnehmen, übermitteln die in Absatz 1 genannten Angaben, bei Krankenhäusern einschließlich ihres Institutionskennzeichens, an die jeweiligen Krankenkassen im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern; vertragsärztliche Leistungserbringer können in den Fällen des § 116b die Angaben über die Kassenärztliche Vereinigung übermitteln. Das Nähere regelt der Spitzenverband Bund der Krankenkassen mit Ausnahme der Datenübermittlung der Leistungserbringer, die gemäß § 116b Absatz 2 an der ambulanten spezialärztlichen Versorgung teilnehmen, sowie der psychiatrischen Institutsambulanzen. Die psychiatrischen Institutsambulanzen übermitteln die Angaben nach Satz 1 zusätzlich an die Datenstelle nach § 21 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes. Die Selbstverwaltungspartner nach § 17b Absatz 2 des Krankenhausfinanzierungsgesetzes vereinbaren für die Dokumentation der Leistungen der psychiatrischen Institutsambulanzen nach Satz 1 sowie für die Durchführung der vom Gemeinsamen Bundesausschuss nach § 101 Absatz 1 Satz 1 Nummer 2b zu beschließenden Bestimmungen bis spätestens zum 1. Januar 2018 einen bundeseinheitlichen Katalog, der nach Art und Umfang der Leistung sowie der zur Leistungserbringung eingesetzten personellen Kapazitäten getrennt nach Berufsgruppen und Fachgebieten differenziert, sowie das Nähere zur Datenübermittlung nach Satz 3; für die Umsetzung des Prüfauftrags nach § 17d Absatz 1 Satz 3 des Krankenhausfinanzierungsgesetzes vereinbaren sie dabei auch, ob und wie der Prüfauftrag auf der Grundlage der Daten einer Vollerhebung oder einer repräsentativen Stichprobe der Leistungen psychiatrischer Institutsambulanzen sachgerecht zu erfüllen ist. § 21 Absatz 4, Absatz 5 Satz 1 und 2 sowie Absatz 6 des Krankenhausentgeltgesetzes ist für die Vereinbarung zur Datenübermittlung entsprechend anzuwenden. Für die Vereinbarung einer bundeseinheitlichen Dokumentation der Leistungen der psychiatrischen Institutsambulanzen gilt § 21 Absatz 4 und 6 des Krankenhausentgeltgesetzes entsprechend mit der Maßgabe, dass die Schiedsstelle innerhalb von sechs Wochen entscheidet. Die Schiedsstelle entscheidet innerhalb von sechs Wochen nach Antrag einer Vertragspartei auch über die Tatbestände nach Satz 4 zweiter Halbsatz, zu denen keine Einigung zustande gekommen ist. In Fällen der Verträge nach den §§ 73b und 140a sind als zusätzliche Angabe je Diagnose auch die Vertragsnummern nach § 293a Absatz 1 Satz 4 zu übermitteln; Satz 1 gilt entsprechend.
 
 (1c) Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte und Einrichtungen sind verpflichtet, spätestens ab dem 30. Juni 2024 die Empfangsbereitschaft für elektronische Briefe in der vertragsärztlichen Versorgung nach § 383, die die nach § 311 Absatz 6 Satz 1 festgelegten sicheren Verfahren nutzen, sicherzustellen.
 
@@ -10238,7 +10334,7 @@ Die Kassenärztlichen Vereinigungen übermitteln für die Durchführung der Prog
 
 5. Einzelheiten der Datenübermittlung einschließlich einer einheitlichen Datensatzstruktur und der Aufbereitung von Abrechnungsunterlagen nach den §§ 296 und 297.
 
-Die Vertragsparteien nach Satz 1 vereinbaren bis zum 30. September 2021 eine Verkürzung der Frist der Übermittlung der Abrechnungsunterlagen nach Satz 1 Nummer 4.
+Die Vertragsparteien nach Satz 1 vereinbaren bis zum 30. September 2021 eine Verkürzung der Frist der Übermittlung der Abrechnungsunterlagen nach Satz 1 Nummer 4. Der Spitzenverband Bund der Krankenkassen oder eine von ihm beauftragte Stelle stellt dem Bundesministerium für Gesundheit zur Wahrnehmung seiner Aufgaben auf Anforderung unverzüglich Auswertungen der nach Absatz 2 und der Vereinbarung nach Satz 1 Nummer 4 an den Spitzenverband Bund der Krankenkassen oder eine von ihm beauftragte Stelle übermittelten statistischen Daten ohne Versichertenbezug und Arztbezug in maschinenlesbarer Form zur Verfügung.
 
 (4) Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte, Einrichtungen und medizinischen Versorgungszentren haben die für die Abrechnung der Leistungen notwendigen Angaben der Kassenärztlichen Vereinigung im Wege elektronischer Datenübertragung, die unter Anwendung des sicheren Übermittlungsverfahrens nach § 311 Absatz 6 über die Telematikinfrastruktur erfolgen kann, oder maschinell verwertbar auf Datenträgern zu übermitteln. Das Nähere regelt die Kassenärztliche Bundesvereinigung. Dies umfasst im Benehmen mit dem Spitzenverband Bund der Krankenkassen, der Deutschen Krankenhausgesellschaft und dem Bundesinstitut für Arzneimittel und Medizinprodukte für die Abrechnung und Vergütung der vertragsärztlichen Leistungen die Vorgabe von verbindlichen Regelungen zur Vergabe und Übermittlung der Schlüssel nach Absatz 1 Satz 6 sowie von Prüfmaßstäben erstmals bis zum 30. Juni 2020 mit Wirkung zum 1. Januar 2022. Die Regelungen und die Prüfmaßstäbe nach Satz 3 sind danach jährlich zu aktualisieren; die Kassenärztliche Bundesvereinigung hat gegenüber den nach Satz 3 zu Beteiligenden das Verfahren nachvollziehbar und transparent zu begründen, Anforderungen für die Zertifizierung von Software, Softwareteilen und Komponenten nach Satz 6 darzulegen und die Erläuterungen auf ihrer Internetseite zu veröffentlichen. Die Regelungen und die Prüfmaßstäbe nach Satz 3 gelten auch für Leistungserbringer nach § 27b Absatz 3, den §§ 73b, 76 Absatz 1a, den §§ 116, 116a, 116b Absatz 2, den §§ 117 bis 119, 119c, 120 Absatz 1a, den §§ 121a, 137f und 140a sowie für die Leistungserbringung nach § 115b. Die Regelungen und die Prüfmaßstäbe nach Satz 3 sind auch Gegenstand der durch die Kassenärztliche Bundesvereinigung durchzuführenden Zertifizierung von Software, Softwareteilen und Komponenten, soweit diese außerhalb der vertragsärztlichen Versorgung zur Anwendung kommen sollen; das Zertifizierungsverfahren hat zudem die Einhaltung der ärztlichen Pflicht zur Übermittlung der Vertragsnummer nach Absatz 1b Satz 8 in Verträgen nach den §§ 73b und 140a zu gewährleisten. Die Vorgabe von verbindlichen Regelungen zur Vergabe und Übermittlung der Schlüssel sowie von Prüfmaßstäben nach Satz 3 und die jährliche Aktualisierung nach Satz 4 sind im Einvernehmen mit der Deutschen Krankenhausgesellschaft zu beschließen, sofern Schlüssel nach Absatz 1 Satz 6 wesentlich von Leistungserbringern nach Satz 5, mit Ausnahme von Leistungserbringern nach den §§ 73b und 140a, vergeben werden.
 
@@ -10251,6 +10347,18 @@ Die Vertragsparteien nach Satz 1 vereinbaren bis zum 30. September 2021 eine Ver
 (2) Der Vertragspartner auf Leistungserbringerseite darf eine andere Stelle mit der Verarbeitung der für die Abrechnung der in Absatz 1 genannten Leistungen erforderlichen personenbezogenen Daten beauftragen; die Vorschriften des Fünften Abschnitts bleiben unberührt. § 80 des Zehnten Buches ist anzuwenden mit der weiteren Maßgabe, dass Unterauftragsverhältnisse ausgeschlossen sind. Für Auftraggeber und Auftragsverarbeiter, die nicht zu den in § 35 des Ersten Buches genannten Stellen gehören, gilt diese Vorschrift entsprechend; sie haben insbesondere die technischen und organisatorischen Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 zu treffen.
 
 (3) Für die Abrechnung von im Notfall erbrachten ambulanten ärztlichen Leistungen darf das Krankenhaus eine andere Stelle mit der Verarbeitung der erforderlichen personenbezogenen Daten beauftragen, sofern der Versicherte schriftlich oder elektronisch in die Datenübermittlung eingewilligt hat; § 334 bleibt unberührt. Der Auftragsverarbeiter darf diese Daten nur zu Abrechnungszwecken verarbeiten. Absatz 2 Satz 2 und 3 gilt entsprechend.
+
+# § 295b – Vorabübermittlung vorläufiger Daten zur Abrechnung bei ärztlichen Leistungen
+
+(1) Ergänzend zu der Verpflichtung zur Datenübermittlung zu Abrechnungszwecken nach § 295 Absatz 2 sind die in § 295 Absatz 2 Satz 1 genannten Daten nach Maßgabe der Absätze 2 bis 4 von den Kassenärztlichen Vereinigungen vorab an die Krankenkassen zur Weiterleitung nach § 303b zu übermitteln, ohne dass zuvor eine Bereinigung der Daten im Zuge der Abrechnungsprüfung nach § 106d vorzunehmen ist.
+
+(2) Die Übermittlung der unbereinigten Daten nach Absatz 1 erfolgt nach § 295 Absatz 2 in der dort vorgegebenen Struktur.
+
+(3) Die Datenübermittlung nach Absatz 1 hat spätestens vier Wochen nach Ende des jeweiligen Quartals zu erfolgen.
+
+(4) Die nach Absatz 1 übermittelten Daten werden im Rahmen der Datenzusammenführung und ‑übermittlung nach § 303b über den Spitzenverband Bund der Krankenkassen als Datensammelstelle und die Vertrauensstelle nach § 303c an das Forschungsdatenzentrum übermittelt und dort für die Zwecke nach § 303e Absatz 2 mit dem Hinweis, dass es sich um unbereinigte Daten im Rahmen einer Vorabübermittlung handelt, zugänglich gemacht. Das Forschungsdatenzentrum hat die nach Absatz 1 übermittelten Daten zu löschen, sobald ihm die bereinigten Daten nach § 303b übermittelt worden sind. Auf die Nutzung unbereinigter Daten der Vorabübermittlung ist auch bei Publikation von Forschungsergebnissen in transparenter Form hinzuweisen.
+
+(5) Der Spitzenverband Bund der Krankenkassen nimmt auf Anforderung des Bundesministeriums für Gesundheit unverzüglich statistische Auswertungen der ihm nach Absatz 4 übermittelten Daten ohne Versichertenbezug und Arztbezug vor und stellt dem Bundesministerium für Gesundheit die Ergebnisse der Auswertung zur Wahrnehmung seiner Aufgaben in maschinenlesbarer Form zur Verfügung.
 
 # § 296 – Datenübermittlung für Wirtschaftlichkeitsprüfungen
 
@@ -10478,7 +10586,7 @@ Die Verpflichtung nach Satz 7 besteht nach Ablauf von drei Monaten, nachdem der 
 
 (4) Soweit der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der Interessen der Leistungserbringer maßgeblichen Spitzenorganisationen auf Bundesebene in Rahmenempfehlungen oder in den Verträgen nach § 125 Regelungen zur Abrechnung der Leistungen getroffen haben, die von den Richtlinien nach den Absätzen 2 und 3 abweichen, sind die Rahmenempfehlungen oder die Verträge nach § 125 maßgeblich; dies gilt nicht für Abrechnungen nach Absatz 2 Satz 7 und 8.
 
-(5) Der Spitzenverband Bund der Krankenkassen veröffentlicht erstmals bis zum 30. Juni 2018 und danach jährlich einen nach Produktgruppen differenzierten Bericht über die Entwicklung der Mehrkostenvereinbarungen für Versorgungen mit Hilfsmittelleistungen. Der Bericht informiert ohne Versicherten- oder Einrichtungsbezug insbesondere über die Zahl der abgeschlossenen Mehrkostenvereinbarungen und die durchschnittliche Höhe der mit ihnen verbundenen Aufzahlungen der Versicherten. Der Spitzenverband Bund der Krankenkassen bestimmt zu diesem Zweck die von seinen Mitgliedern zu übermittelnden statistischen Informationen sowie Art und Umfang der Übermittlung.
+(5) Der Spitzenverband Bund der Krankenkassen veröffentlicht erstmals bis zum 30. Juni 2018 und danach jährlich einen nach Produktgruppen differenzierten Bericht über die Entwicklung der Mehrkostenvereinbarungen für Versorgungen mit Hilfsmittelleistungen. Der Bericht informiert ohne Versicherten- oder Einrichtungsbezug insbesondere über die Zahl der abgeschlossenen Mehrkostenvereinbarungen und die durchschnittliche Höhe der mit ihnen verbundenen Aufzahlungen der Versicherten. Der Spitzenverband Bund der Krankenkassen bestimmt zu diesem Zweck die von seinen Mitgliedern zu übermittelnden statistischen Informationen sowie Art und Umfang der Übermittlung. Der Spitzenverband Bund der Krankenkassen stellt dem Bundesministerium für Gesundheit zur Wahrnehmung seiner Aufgaben auf Anforderung unverzüglich Auswertungen der ihm nach Satz 3 übermittelten Informationen ohne Versichertenbezug und Einrichtungsbezug in maschinenlesbarer Form zur Verfügung.
 
 (6) Sind im Rahmen der Abrechnung nach Absatz 1 Auszahlungen für Lieferungen und Dienstleistungen durch Rechnungen des Leistungserbringers als zahlungsbegründende Unterlage zu belegen, darf die Rechnung des Leistungserbringers durch eine von den Krankenkassen ausgestellte Rechnung (Gutschrift) ersetzt werden, wenn dies zuvor zwischen dem Leistungserbringer und der Krankenkasse vereinbart wurde. Die Krankenkassen sind verpflichtet, dem Leistungserbringer die Gutschrift schriftlich oder elektronisch zur Prüfung zu übermitteln. Widerspricht der Leistungserbringer der von der Krankenkasse übermittelten Gutschrift, verliert diese ihre Wirkung als zahlungsbegründende Unterlage. Das Nähere zu dem Verfahren nach den Sätzen 1 bis 3 einschließlich einer zeitlichen Begrenzung des Widerspruchsrechts der Leistungserbringer regelt der Spitzenverband Bund der Krankenkassen in seinen Richtlinien nach Absatz 2 Satz 1.
 
@@ -10502,41 +10610,39 @@ wird, wenn dadurch eine ordnungsgemäße Abrechnung und die Erfüllung der geset
 
 (1) Die Aufgaben der Datentransparenz werden von öffentlichen Stellen des Bundes als Vertrauensstelle nach § 303c und als Forschungsdatenzentrum nach § 303d sowie vom Spitzenverband Bund der Krankenkassen als Datensammelstelle wahrgenommen. Das Bundesministerium für Gesundheit bestimmt im Benehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Wahrnehmung der Aufgaben der Datentransparenz eine öffentliche Stelle des Bundes als Vertrauensstelle nach § 303c und eine öffentliche Stelle des Bundes als Forschungsdatenzentrum nach § 303d.
 
-(2) Die Vertrauensstelle und das Forschungsdatenzentrum sind räumlich, organisatorisch und personell eigenständig zu führen. Sie unterliegen dem Sozialgeheimnis nach § 35 des Ersten Buches und unterstehen der Rechtsaufsicht des Bundesministeriums für Gesundheit.
+(2) Die Vertrauensstelle und das Forschungsdatenzentrum sind räumlich, organisatorisch und personell eigenständig zu führen. Sie unterstehen der Rechtsaufsicht des Bundesministeriums für Gesundheit.
 
-(3) Die Kosten, die den öffentlichen Stellen nach Absatz 1 durch die Wahrnehmung der Aufgaben der Datentransparenz entstehen, tragen die Krankenkassen nach der Zahl ihrer Mitglieder.
+(3) Die jeweiligen Kosten, die den öffentlichen Stellen nach Absatz 1 durch die Wahrnehmung der Aufgaben der Datentransparenz entstehen, tragen die Krankenkassen und Pflegekassen jeweils nach der Zahl ihrer Mitglieder.
 
 (4) In der Rechtsverordnung nach Absatz 1 Satz 2 ist auch das Nähere zu regeln
 
-1. zu spezifischen Festlegungen zu Art und Umfang der nach § 303b Absatz 1 Satz 1 zu übermittelnden Daten und zu den Fristen der Datenübermittlung nach § 303b Absatz 1 Satz 1,
+1. zu spezifischen Festlegungen zu Art und Umfang der nach § 303b Absatz 1 Satz 1 zu übermittelnden Daten,
 
 2. zur Datenverarbeitung durch den Spitzenverband Bund der Krankenkassen nach § 303b Absatz 2 und 3 Satz 1 und 2,
 
 3. zum Verfahren der Pseudonymisierung der Versichertendaten nach § 303c Absatz 1 und 2 und zum Verfahren der Übermittlung der Pseudonyme an das Forschungsdatenzentrum nach § 303c Absatz 3 durch die Vertrauensstelle,
 
-4. zur Wahrnehmung der Aufgaben nach § 303d Absatz 1 und § 303e einschließlich der Bereitstellung von Einzeldatensätzen nach § 303e Absatz 4 durch das Forschungsdatenzentrum,
+4. zur Wahrnehmung der Aufgaben nach § 303d Absatz 1 einschließlich der Reihenfolge der Bearbeitung von Anträgen nach Dringlichkeit und § 303e einschließlich der Bereitstellung von Einzeldatensätzen nach § 303e Absatz 4 durch das Forschungsdatenzentrum,
 
-5. zur Verkürzung der Höchstfrist für die Aufbewahrung von Einzeldatensätzen nach § 303d Absatz 3,
+5. zur Evaluation und Weiterentwicklung der Datentransparenz,
 
-6. zur Evaluation und Weiterentwicklung der Datentransparenz,
+6. zur Erstattung der Kosten nach Absatz 3 einschließlich der zu zahlenden Vorschüsse.
 
-7. zur Erstattung der Kosten nach Absatz 3 einschließlich der zu zahlenden Vorschüsse.
+# § 303b – Datenzusammenführung und -übermittlung; Verordnungsermächtigung
 
-# § 303b – Datenzusammenführung und -übermittlung
-
-(1) Für die in § 303e Absatz 2 genannten Zwecke übermitteln die Krankenkassen an den Spitzenverband Bund der Krankenkassen als Datensammelstelle für jeden Versicherten jeweils in Verbindung mit einem Versichertenpseudonym, das eine kassenübergreifende eindeutige Identifizierung im Berichtszeitraum erlaubt (Lieferpseudonym),
+(1) Für die in § 303e Absatz 2 genannten Zwecke übermitteln die Krankenkassen und die Pflegekassen bis spätestens zehn Wochen nach Quartalsende an den Spitzenverband Bund der Krankenkassen als Datensammelstelle für jeden Versicherten jeweils in Verbindung mit einem Versichertenpseudonym, das eine kassenübergreifende eindeutige Identifizierung im Berichtszeitraum erlaubt (Lieferpseudonym),
 
 1. Angaben zu Alter, Geschlecht und Wohnort,
 
 2. Angaben zum Versicherungsverhältnis,
 
-3. die Kosten- und Leistungsdaten nach den §§ 295, 295a, 300, 301, 301a und 302,
+3. die Kosten- und Leistungsdaten nach den §§ 295, 295a, 295b, 300, 301, 301a und 302 sowie nach § 105 des Elften Buches,
 
-4. Angaben zum Vitalstatus und zum Sterbedatum und
+4. Angaben zum Vitalstatus, Grad der Pflegebedürftigkeit nach § 15 des Elften Buches und zum Sterbedatum und
 
 5. Angaben zu den abrechnenden Leistungserbringern.
 
-Das Nähere zur technischen Ausgestaltung der Datenübermittlung nach Satz 1 regelt der Spitzenverband Bund der Krankenkassen spätestens bis zum 31. Dezember 2021.
+Im Rahmen der Datenübermittlung nach Satz 1 übermitteln die Krankenkassen und Pflegekassen jeweils diejenigen in Satz 1 genannten Daten, die ihnen für das jeweils vergangene Kalenderquartal und für die diesem vergangenen Kalenderquartal vorangegangenen drei Kalenderquartale vorliegen. Das Forschungsdatenzentrum löscht die nach Satz 1 übermittelten Daten zu einem Kalenderquartal, sobald ihnen nach Satz 1 erneut Daten zu diesem Kalenderquartal übermittelt werden. Abweichend von Satz 3 dürfen Daten zu einem Kalenderquartal, zu dem erneut Daten übermittelt wurden, durch Nutzungsberechtigte und durch das Forschungsdatenzentrum weiterhin verarbeitet werden, wenn die Daten einem Nutzungsberechtigten bereits auf dessen Antrag hin nach § 303e zugänglich gemacht wurden und die Verarbeitung im Rahmen dieses Antrags erfolgt. Das Nähere zur technischen Ausgestaltung der Datenübermittlung regelt der Spitzenverband Bund der Krankenkassen. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass die Datenübermittlung nach Satz 1, abweichend von Satz 1, zu einem anderen Zeitpunkt zu erfolgen hat. Die Datenübermittlung nach Satz 1 erfolgt erstmals für das erste Kalenderquartal des Jahres 2025.
 
 (2) Der Spitzenverband Bund der Krankenkassen führt die Daten nach Absatz 1 zusammen, prüft die Daten auf Vollständigkeit, Plausibilität und Konsistenz und klärt Auffälligkeiten jeweils mit der die Daten liefernden Stelle.
 
@@ -10546,7 +10652,7 @@ Das Nähere zur technischen Ausgestaltung der Datenübermittlung nach Satz 1 reg
 
 2. an die Vertrauensstelle nach § 303c eine Liste mit den Lieferpseudonymen einschließlich der Arbeitsnummern, die zu den nach Nummer 1 übermittelten Einzeldatensätzen für das jeweilige Lieferpseudonym gehören.
 
-Die Angaben zu den Leistungserbringern sind vor der Übermittlung an das Forschungsdatenzentrum zu pseudonymisieren. Das Nähere zur technischen Ausgestaltung der Datenübermittlung nach Satz 1 vereinbart der Spitzenverband Bund der Krankenkassen mit den nach § 303a Absatz 1 Satz 2 bestimmten Stellen spätestens bis zum 31. Dezember 2021.
+Die Angaben zu den Leistungserbringern sind vor der Übermittlung an das Forschungsdatenzentrum zu pseudonymisieren. Das Nähere zur technischen Ausgestaltung der Datenübermittlung nach Satz 1 vereinbart der Spitzenverband Bund der Krankenkassen mit den nach § 303a Absatz 1 Satz 2 bestimmten Stellen.
 
 (4) Der Spitzenverband Bund der Krankenkassen kann eine Arbeitsgemeinschaft nach § 219 mit der Durchführung der Aufgaben nach den Absätzen 1 bis 3 beauftragen.
 
@@ -10563,6 +10669,8 @@ Die Angaben zu den Leistungserbringern sind vor der Übermittlung an das Forschu
 
 (3) Die Vertrauensstelle hat die Liste der Pseudonyme dem Forschungsdatenzentrum mit den Arbeitsnummern zu übermitteln. Nach der Übermittlung dieser Liste an das Forschungsdatenzentrum hat sie die diesen Pseudonymen zugrunde liegenden Lieferpseudonyme und Arbeitsnummern sowie die Pseudonyme zu löschen.
 
+(4) Die Vertrauensstelle wirkt bei der Verknüpfung und Verarbeitung von Gesundheitsdaten nach § 4 des Gesundheitsdatennutzungsgesetzes mit. Sie ist befugt, die für diesen Zweck erforderlichen Daten zu verarbeiten.
+
 # § 303d – Forschungsdatenzentrum
 
 (1) Das Forschungsdatenzentrum hat folgende Aufgaben:
@@ -10573,7 +10681,7 @@ Die Angaben zu den Leistungserbringern sind vor der Übermittlung an das Forschu
 
 3. Anträge auf Datennutzung zu prüfen,
 
-4. die beantragten Daten den Nutzungsberechtigten nach § 303e zugänglich zu machen,
+4. die für Zwecke nach § 303e Absatz 2 beantragten Daten den Nutzungsberechtigten nach § 303e zugänglich zu machen,
 
 5. das spezifische Reidentifikationsrisiko in Bezug auf die durch Nutzungsberechtigte nach § 303e beantragten Daten zu bewerten und unter angemessener Wahrung des angestrebten wissenschaftlichen Nutzens durch geeignete Maßnahmen zu minimieren,
 
@@ -10583,75 +10691,73 @@ Die Angaben zu den Leistungserbringern sind vor der Übermittlung an das Forschu
 
 8. Nutzungsberechtigte nach § 303e Absatz 1 zu beraten,
 
-9. Schulungsmöglichkeiten für Nutzungsberechtigte anzubieten sowie
+9. Schulungsmöglichkeiten für Nutzungsberechtigte anzubieten,
 
-10. die wissenschaftliche Erschließung der Daten zu fördern.
+10. die wissenschaftliche Erschließung der Daten zu fördern und
 
-(2) Das Forschungsdatenzentrum richtet im Benehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Bildung und Forschung einen Arbeitskreis der Nutzungsberechtigten nach § 303e Absatz 1 ein. Der Arbeitskreis wirkt beratend an der Ausgestaltung, Weiterentwicklung und Evaluation des Datenzugangs mit.
+11. die Daten im Rahmen der Mitwirkung bei der Verknüpfung und Verarbeitung von Gesundheitsdaten nach § 4 des Gesundheitsdatennutzungsgesetzes zu verarbeiten.
 
-(3) Das Forschungsdatenzentrum hat die versichertenbezogenen Einzeldatensätze spätestens nach 30 Jahren zu löschen.
+(2) Das Forschungsdatenzentrum richtet im Benehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Bildung und Forschung einen Arbeitskreis zur Sekundärnutzung von Versorgungsdaten nach § 303e Absatz 1 ein. Der Arbeitskreis wirkt beratend an der Ausgestaltung, Weiterentwicklung und Evaluation des Datenzugangs mit. An dem Arbeitskreis nach Satz 1 sind zu beteiligen:
+
+1. die maßgeblichen Verbände der Selbstverwaltung im Gesundheitswesen und in der Pflege,
+
+2. Institutionen der Gesundheits- und Versorgungsforschung, Bundes- und Landesbehörden,
+
+3. maßgebliche Bundesorganisationen für die Wahrnehmung der Interessen von Patientinnen und Patienten und der Selbsthilfe chronisch kranker Menschen sowie von Menschen mit Behinderung und
+
+4. die auf Bundesebene maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe pflegebedürftiger und behinderter Menschen nach § 118 des Elften Buches.
+
+(3) Das Forschungsdatenzentrum hat die versichertenbezogenen Einzeldatensätze spätestens nach 100 Jahren zu löschen.
 
 (+++ § 303d Abs. 1: Änderungsanweisung durch Art. 32 Nr. 14 G v. 12.12.2019 I 2652 mWv 1.1.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++)
 
 # § 303e – Datenverarbeitung
 
-(1) Das Forschungsdatenzentrum macht die ihm vom Spitzenverband Bund der Krankenkassen und von der Vertrauensstelle übermittelten Daten nach Maßgabe der Absätze 3 bis 6 folgenden Nutzungsberechtigten zugänglich, soweit diese nach Absatz 2 zur Verarbeitung der Daten berechtigt sind:
+(1) Das Forschungsdatenzentrum macht die ihm vom Spitzenverband Bund der Krankenkassen und von der Vertrauensstelle übermittelten Daten nach Maßgabe der Absätze 2 bis 6 den in Satz 2 genannten Nutzungsberechtigten auf Antrag zugänglich. Nutzungsberechtigt sind natürliche und juristische Personen im Anwendungsbereich der Verordnung (EU) 2016/679, soweit diese nach Absatz 2 zur Verarbeitung der Daten berechtigt sind.
 
-1. dem Spitzenverband Bund der Krankenkassen,
-
-2. den Bundes- und Landesverbänden der Krankenkassen,
-
-3. den Krankenkassen,
-
-4. den Kassenärztlichen Bundesvereinigungen und den Kassenärztlichen Vereinigungen,
-
-5. den für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Spitzenorganisationen der Leistungserbringer auf Bundesebene,
-
-6. den Institutionen der Gesundheitsberichterstattung des Bundes und der Länder,
-
-7. den Institutionen der Gesundheitsversorgungsforschung,
-
-8. den Hochschulen, den nach landesrechtlichen Vorschriften anerkannten Hochschulkliniken, öffentlich geförderten außeruniversitären Forschungseinrichtungen und sonstigen Einrichtungen mit der Aufgabe unabhängiger wissenschaftlicher Forschung, sofern die Daten wissenschaftlichen Vorhaben dienen,
-
-9. dem Gemeinsamen Bundesausschuss,
-
-10. dem Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen,
-
-11. dem Institut des Bewertungsausschusses,
-
-12. der oder dem Beauftragten der Bundesregierung und der Landesregierungen für die Belange der Patientinnen und Patienten,
-
-13. den für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen Organisationen auf Bundesebene,
-
-14. dem Institut für Qualitätssicherung und Transparenz im Gesundheitswesen,
-
-15. dem Institut für das Entgeltsystem im Krankenhaus,
-
-16. den für die gesetzliche Krankenversicherung zuständigen obersten Bundes- und Landesbehörden und deren jeweiligen nachgeordneten Bereichen sowie den übrigen obersten Bundesbehörden,
-
-17. der Bundesärztekammer, der Bundeszahnärztekammer, der Bundespsychotherapeutenkammer sowie der Bundesapothekerkammer,
-
-18. der Deutschen Krankenhausgesellschaft.
-
-(2) Soweit die Datenverarbeitung jeweils für die Erfüllung von Aufgaben der nach Absatz 1 Nutzungsberechtigten erforderlich ist, dürfen die Nutzungsberechtigten Daten für folgende Zwecke verarbeiten:
+(2) Die dem Forschungsdatenzentrum übermittelten Daten dürfen von den Nutzungsberechtigten verarbeitet werden, soweit dies für folgende Zwecke erforderlich ist:
 
 1. Wahrnehmung von Steuerungsaufgaben durch die Kollektivvertragspartner,
 
-2. Verbesserung der Qualität der Versorgung,
+2. Verbesserung der Qualität der Versorgung sowie Verbesserung der Sicherheitsstandards der Prävention, Versorgung und Pflege,
 
-3. Planung von Leistungsressourcen, zum Beispiel Krankenhausplanung,
+3. Planung von Leistungsressourcen, zum Beispiel Krankenhausplanung oder Pflegestrukturplanungsempfehlungen nach § 8a Absatz 4 des Elften Buches,
 
-4. Forschung, insbesondere für Längsschnittanalysen über längere Zeiträume, Analysen von Behandlungsabläufen oder Analysen des Versorgungsgeschehens,
+4. wissenschaftliche Forschung zu Fragestellungen aus den Bereichen Gesundheit und Pflege, Analysen des Versorgungsgeschehens, sowie Grundlagenforschung im Bereich der Lebenswissenschaften,
 
-5. Unterstützung politischer Entscheidungsprozesse zur Weiterentwicklung der gesetzlichen Krankenversicherung,
+5. Unterstützung politischer Entscheidungsprozesse zur Weiterentwicklung der gesetzlichen Kranken- und Pflegeversicherung,
 
-6. Analyse und Entwicklung von sektorenübergreifenden Versorgungsformen sowie von Einzelverträgen der Krankenkassen,
+6. Analysen zur Wirksamkeit sektorenübergreifender Versorgungsformen sowie zur Wirksamkeit von Einzelverträgen der Kranken- und Pflegekassen,
 
-7. Wahrnehmung von Aufgaben der Gesundheitsberichterstattung.
+7. Wahrnehmung von Aufgaben der Gesundheitsberichterstattung, anderer Berichtspflichten des Bundes nach diesem oder dem Elften Buch und der amtlichen Statistik sowie Berichtspflichten der Länder,
 
-(3) Das Forschungsdatenzentrum macht einem Nutzungsberechtigten auf Antrag Daten zugänglich, wenn die Voraussetzungen nach Absatz 2 erfüllt sind. In dem Antrag hat der antragstellende Nutzungsberechtigte nachvollziehbar darzulegen, dass Umfang und Struktur der beantragten Daten geeignet und erforderlich sind, um die zu untersuchende Frage zu beantworten. Liegen die Voraussetzungen nach Absatz 2 vor, übermittelt das Forschungsdatenzentrum dem antragstellenden Nutzungsberechtigten die entsprechend den Anforderungen des Nutzungsberechtigten ausgewählten Daten anonymisiert und aggregiert. Das Forschungsdatenzentrum kann einem Nutzungsberechtigten entsprechend seinen Anforderungen auch anonymisierte und aggregierte Daten mit kleinen Fallzahlen übermitteln, wenn der antragstellende Nutzungsberechtigte nachvollziehbar darlegt, dass ein nach Absatz 2 zulässiger Nutzungszweck, insbesondere die Durchführung eines Forschungsvorhabens, die Übermittlung dieser Daten erfordert.
+8. Wahrnehmung gesetzlicher Aufgaben in den Bereichen öffentliche Gesundheit und Epidemiologie,
 
-(4) Das Forschungsdatenzentrum kann einem Nutzungsberechtigten entsprechend seinen Anforderungen auch pseudonymisierte Einzeldatensätze bereitstellen, wenn der antragstellende Nutzungsberechtigte nachvollziehbar darlegt, dass die Nutzung der pseudonymisierten Einzeldatensätze für einen nach Absatz 2 zulässigen Nutzungszweck, insbesondere für die Durchführung eines Forschungsvorhabens, erforderlich ist. Das Forschungsdatenzentrum stellt einem Nutzungsberechtigten die pseudonymisierten Einzeldatensätze ohne Sichtbarmachung der Pseudonyme für die Verarbeitung unter Kontrolle des Forschungsdatenzentrums bereit, soweit
+9. Entwicklung, Weiterentwicklung und Überwachung der Sicherheit von Arzneimitteln, Medizinprodukten, Untersuchungs- und Behandlungsmethoden, Hilfs- und Heilmitteln, digitalen Gesundheits- und Pflegeanwendungen sowie Systemen der Künstlichen Intelligenz im Gesundheitswesen einschließlich des Trainings, der Validierung und des Testens dieser Systeme der Künstlichen Intelligenz oder
+
+10. Nutzenbewertung von Arzneimitteln, Medizinprodukten, Untersuchungs- und Behandlungsmethoden, Hilfs- und Heilmitteln sowie digitalen Gesundheits- und Pflegeanwendungen, Verhandlung von Vergütungsbeträgen oder Festlegung von Höchstbeträgen und Schwellenwerten nach § 134 sowie Vereinbarung oder Festsetzung von Erstattungsbeträgen von Arzneimitteln nach § 130b.
+
+(3) Das Forschungsdatenzentrum macht einem Nutzungsberechtigten auf Antrag Daten zugänglich, wenn die Voraussetzungen nach Absatz 2 erfüllt sind. In dem Antrag hat der antragstellende Nutzungsberechtigte nachvollziehbar darzulegen, dass Umfang und Struktur der beantragten Daten geeignet und erforderlich sind, um die angestrebten Zwecke nach Absatz 2 zu erfüllen. Das Forschungsdatenzentrum kann einen Antrag dem Arbeitskreis nach § 303d Absatz 2 mit einer Bitte um Stellungnahme zu der Plausibilität des Antrags innerhalb von höchstens vier Wochen vorlegen. Liegen die Voraussetzungen nach Absatz 2 vor, übermittelt das Forschungsdatenzentrum dem antragstellenden Nutzungsberechtigten die entsprechend den Anforderungen des Nutzungsberechtigten ausgewählten Daten anonymisiert und aggregiert. Das Forschungsdatenzentrum kann einem Nutzungsberechtigten entsprechend seinen Anforderungen auch anonymisierte und aggregierte Daten mit kleinen Fallzahlen übermitteln, wenn der antragstellende Nutzungsberechtigte nachvollziehbar darlegt, dass ein nach Absatz 2 zulässiger Nutzungszweck, insbesondere die Durchführung eines Forschungsvorhabens, die Übermittlung dieser Daten erfordert.
+
+(3a) Das Forschungsdatenzentrum lehnt einen Antrag nach Absatz 3 ab, wenn
+
+1. durch das Zugänglichmachen der beantragten Daten ein unangemessenes Risiko für die öffentliche Sicherheit und Ordnung oder den Schutz personenbezogener Daten entstehen würde und dieses Risiko nicht durch Auflagen und weitere Maßnahmen ausreichend minimiert werden kann,
+
+2. der begründete Verdacht besteht, die Daten könnten für einen anderen Zweck als die in Absatz 2 genannten Zwecke verarbeitet werden,
+
+3. die Bearbeitung eines oder mehrerer Anträge des gleichen Nutzungsberechtigten die Kapazitäten des Forschungsdatenzentrums unverhältnismäßig bindet und dadurch die Arbeitsfähigkeit des Forschungsdatenzentrums gefährdet.
+
+Die Nutzung der nach Absatz 3 oder Absatz 4 zugänglich gemachten Daten ist insbesondere für folgende Zwecke verboten:
+
+1. Entscheidungen hinsichtlich des Abschlusses oder der Ausgestaltung eines Versicherungsvertrags mit Bezug auf eine natürliche Person oder eine Gruppe natürlicher Personen,
+
+2. Treffen von Entscheidungen zum Nachteil einer natürlichen Person auf der Grundlage ihrer elektronischen Gesundheitsdaten,
+
+3. Entwicklung von Produkten oder Dienstleistungen, die Einzelpersonen oder der Gesellschaft insgesamt schaden können, insbesondere illegale Drogen, alkoholische Getränke und Tabakerzeugnisse,
+
+4. Nutzung der Daten für Marktforschung, Werbung und Vertriebstätigkeiten für Arzneimittel, Medizinprodukte und sonstige Produkte.
+
+(4) Das Forschungsdatenzentrum kann einem Nutzungsberechtigten entsprechend seinen Anforderungen auch pseudonymisierte Einzeldatensätze bereitstellen, wenn der antragstellende Nutzungsberechtigte nachvollziehbar darlegt, dass die Nutzung der pseudonymisierten Einzeldatensätze für einen nach Absatz 2 zulässigen Nutzungszweck, insbesondere für die Durchführung eines Forschungsvorhabens, erforderlich ist. Das Forschungsdatenzentrum stellt einem Nutzungsberechtigten die pseudonymisierten Einzeldatensätze ohne Sichtbarmachung der Pseudonyme mit einer temporären Arbeitsnummer für die Verarbeitung unter Kontrolle des Forschungsdatenzentrums bereit, soweit
 
 1. gewährleistet ist, dass diese Daten nur solchen Personen bereitgestellt werden, die einer Geheimhaltungspflicht nach § 203 des Strafgesetzbuches unterliegen, und
 
@@ -10659,19 +10765,37 @@ Die Angaben zu den Leistungserbringern sind vor der Übermittlung an das Forschu
 
 Personen, die nicht der Geheimhaltungspflicht nach § 203 des Strafgesetzbuches unterliegen, können pseudonymisierte Einzeldatensätze nach Satz 2 bereitgestellt werden, wenn sie vor dem Zugang zur Geheimhaltung verpflichtet wurden. § 1 Absatz 2, 3 und 4 Nummer 2 des Verpflichtungsgesetzes gilt entsprechend.
 
+(4a) Das Forschungsdatenzentrum kann entsprechend den Anforderungen der Nutzungsberechtigten die in Absatz 4 genannten pseudonymisierten Einzeldatensätze mit pseudonymisierten Daten von gesetzlich geregelten medizinischen Registern, die unter Bundesverwaltung stehen, verknüpfen und die so verknüpften Datensätze einem Nutzungsberechtigten für die in Absatz 2 Nummer 4 genannten Zwecke bereitstellen. Eine Verknüpfung nach Satz 1 ist nur zulässig, soweit
+
+1. die Voraussetzungen nach den Absätzen 4 und 5 erfüllt sind,
+
+2. die Verknüpfung für die zu untersuchende Forschungsfrage erforderlich ist,
+
+3. der Nutzungsberechtigte dem Forschungsdatenzentrum nachweist, dass die zu verknüpfenden Daten des gesetzlich geregelten medizinischen Registers von dem Nutzungsberechtigten entsprechend den anwendbaren rechtlichen Anforderungen für den jeweiligen in Absatz 2 Nummer 4 genannten Zweck verarbeitet werden dürfen, und
+
+4. schutzwürdige Interessen der betroffenen Person nicht beeinträchtigt werden oder das öffentliche Interesse an der wissenschaftlichen Forschung das Geheimhaltungsinteresse der betroffenen Person überwiegt und das spezifische Re-Identifikationsrisiko in Bezug auf die zu verknüpfenden Daten bewertet und unter angemessener Wahrung des angestrebten wissenschaftlichen Nutzens durch geeignete Maßnahmen minimiert worden ist.
+
+Das Bundesministerium für Gesundheit wird im Benehmen mit dem Bundesministerium für Bildung und Forschung ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere zu regeln
+
+1. zu dem technischen Verfahren zur Verknüpfung der Daten, einschließlich der hierfür erforderlichen Datenverarbeitung, und
+
+2. zu der Auswahl jener gesetzlich geregelten medizinischen Register, deren Daten nach Satz 1 verknüpft werden dürfen.
+
 (5) Die Nutzungsberechtigten dürfen die nach Absatz 3 oder Absatz 4 zugänglich gemachten Daten
 
 1. nur für die Zwecke nutzen, für die sie zugänglich gemacht werden,
 
-2. nicht an Dritte weitergeben, es sei denn, das Forschungsdatenzentrum genehmigt auf Antrag eine Weitergabe an einen Dritten im Rahmen eines nach Absatz 2 zulässigen Nutzungszwecks.
+2. nicht an Dritte weitergeben, es sei denn, das Forschungsdatenzentrum genehmigt auf Antrag eine Bereitstellung der beantragten Daten an einen Dritten im Rahmen eines nach Absatz 2 zulässigen Nutzungszwecks.
 
-Die Nutzungsberechtigten haben bei der Verarbeitung der nach Absatz 3 oder Absatz 4 zugänglich gemachten Daten darauf zu achten, keinen Bezug zu Personen, Leistungserbringern oder Leistungsträgern herzustellen. Wird ein Bezug zu Personen, Leistungserbringern oder Leistungsträgern unbeabsichtigt hergestellt, so ist dies dem Forschungsdatenzentrum zu melden. Die Verarbeitung der bereitgestellten Daten zum Zwecke der Herstellung eines Personenbezugs, zum Zwecke der Identifizierung von Leistungserbringern oder Leistungsträgern sowie zum Zwecke der bewussten Verschaffung von Kenntnissen über fremde Betriebs- und Geschäftsgeheimnisse ist untersagt.
+Die Nutzungsberechtigten haben bei der Verarbeitung der nach Absatz 3 oder Absatz 4 zugänglich gemachten Daten darauf zu achten, keinen Bezug zu Personen, Leistungserbringern oder Leistungsträgern herzustellen. Wird ein Bezug zu Personen, Leistungserbringern oder Leistungsträgern unbeabsichtigt hergestellt, so ist dies dem Forschungsdatenzentrum unverzüglich zu melden. Die Verarbeitung der bereitgestellten Daten zum Zwecke der Herstellung eines Personenbezugs, zum Zwecke der Identifizierung von Leistungserbringern oder Leistungsträgern sowie zum Zwecke der bewussten Verschaffung von Kenntnissen über fremde Betriebs- und Geschäftsgeheimnisse ist untersagt.
 
-(6) Wenn die zuständige Datenschutzaufsichtsbehörde feststellt, dass Nutzungsberechtigte die vom Forschungsdatenzentrum nach Absatz 3 oder Absatz 4 zugänglich gemachten Daten in einer Art und Weise verarbeitet haben, die nicht den geltenden datenschutzrechtlichen Vorschriften oder den Auflagen des Forschungsdatenzentrums entspricht, und wegen eines solchen Verstoßes eine Maßnahme nach Artikel 58 Absatz 2 Buchstabe b bis j der Verordnung (EU) 2016/679 gegenüber dem Nutzungsberechtigten ergriffen hat, informiert sie das Forschungsdatenzentrum. In diesem Fall schließt das Forschungsdatenzentrum den Nutzungsberechtigten für einen Zeitraum von bis zu zwei Jahren vom Datenzugang aus.
+(5a) Ergeben sich konkrete Anhaltspunkte dafür, dass Antragstellende oder Nutzungsberechtigte die vom Forschungsdatenzentrum nach Absatz 3 oder Absatz 4 zugänglich gemachten Daten in einer Art und Weise verarbeitet haben, die nicht den geltenden datenschutzrechtlichen Vorschriften oder den Auflagen des Forschungsdatenzentrums entspricht, kann das Forschungsdatenzentrum diese Anhaltspunkte der zuständigen Datenschutzaufsichtsbehörde und dem Arbeitskreis zur Sekundärnutzung nach § 303d Absatz 2 zur Stellungnahme mit Fristsetzung von zehn Arbeitstagen vorlegen. Darüber ist der Antragsteller oder Nutzungsberechtigte zu informieren. Während dieser Frist ruht der Zugang des Antragstellenden oder Nutzungsberechtigten zu den Daten des Forschungsdatenzentrums.
+
+(6) Stellt die zuständige Datenschutzaufsichtsbehörde fest, dass Nutzungsberechtigte die vom Forschungsdatenzentrum nach Absatz 3 oder Absatz 4 zugänglich gemachten Daten in einer Art und Weise verarbeitet haben, die nicht den geltenden datenschutzrechtlichen Vorschriften oder den diesbezüglichen Auflagen des Forschungsdatenzentrums entspricht, und hat sie wegen eines solchen Verstoßes eine Maßnahme nach Artikel 58 Absatz 2 Buchstabe b bis j der Verordnung (EU) 2016/679 gegenüber dem Nutzungsberechtigten ergriffen, informiert sie das Forschungsdatenzentrum. In diesem Fall schließt das Forschungsdatenzentrum den Nutzungsberechtigten für einen Zeitraum von bis zu zwei Jahren vom Datenzugang aus.
 
 # § 303f – Gebührenregelung; Verordnungsermächtigung
 
-(1) Das Forschungsdatenzentrum erhebt von den Nutzungsberechtigten nach § 303e Absatz 1 Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen nach § 303d zur Deckung des Verwaltungsaufwandes. Die Gebührensätze sind so zu bemessen, dass sie den auf die Leistungen entfallenden durchschnittlichen Personal- und Sachaufwand nicht übersteigen. Die Krankenkassen, ihre Verbände, der Spitzenverband Bund der Krankenkassen sowie das Bundesministerium für Gesundheit als Aufsichtsbehörde sind von der Zahlung der Gebühren befreit.
+(1) Das Forschungsdatenzentrum erhebt von den Nutzungsberechtigten nach § 303e Absatz 1 Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen nach § 303d zur Deckung des Verwaltungsaufwandes. Die Gebührensätze sind so zu bemessen, dass sie den auf die Leistungen entfallenden durchschnittlichen Personal- und Sachaufwand nicht übersteigen. Die Krankenkassen, die Pflegekassen, ihre Verbände, der Spitzenverband Bund der Krankenkassen sowie das Bundesministerium für Gesundheit als Aufsichtsbehörde sind von der Zahlung der Gebühren befreit.
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen sowie Regelungen über die Gebührenentstehung, die Gebührenerhebung, die Erstattung von Auslagen, den Gebührenschuldner, Gebührenbefreiungen, die Fälligkeit, die Stundung, die Niederschlagung, den Erlass, Säumniszuschläge, die Verjährung und die Erstattung zu treffen. Das Bundesministerium für Gesundheit kann die Ermächtigung durch Rechtsverordnung auf die öffentliche Stelle, die vom Bundesministerium für Gesundheit nach § 303a Absatz 1 als Forschungsdatenzentrum nach § 303d bestimmt ist, übertragen.
 
@@ -12366,33 +12490,35 @@ Wird die Telematikinfrastruktur für Anwendungen im Bereich der Krankenbehandlun
 
 Wird die Telematikinfrastruktur zur Erteilung von Auskunft aus dem Zentralen Vorsorgeregister nach § 78b Absatz 1 Satz 1 der Bundesnotarordnung verwendet, gilt § 327 entsprechend.
 
-# § 363 – Verarbeitung von Daten der elektronischen Patientenakte zu Forschungszwecken
+# § 363 – Verarbeitung von Daten der elektronischen Patientenakte zu Forschungszwecken; Verordnungsermächtigung
 
-(1) Versicherte können die Daten ihrer elektronischen Patientenakte freiwillig für die in § 303e Absatz 2 Nummer 2, 4, 5 und 7 aufgeführten Forschungszwecke freigeben.
+(1) Die Daten der elektronischen Patientenakte werden für die in § 303e Absatz 2 aufgeführten Zwecke zugänglich gemacht, soweit Versicherte nicht der Datenübermittlung nach Absatz 5 widersprochen haben.
 
-(2) Die Übermittlung der freigegebenen Daten nach Absatz 1 erfolgt an das Forschungsdatenzentrum nach § 303d und bedarf als Verarbeitungsbedingung einer informierten Einwilligung des Versicherten. Die Einwilligung erklärt der Versicherte über die Benutzeroberfläche eines geeigneten Endgeräts. Den Umfang der Datenfreigabe können Versicherte frei wählen und auf bestimmte Kategorien oder auf Gruppen von Dokumenten und Datensätzen oder auf spezifische Dokumente und Datensätze beschränken. Die Freigabe wird in der elektronischen Patientenakte dokumentiert.
+(2) Die Daten nach Absatz 1 werden automatisiert an das Forschungsdatenzentrum nach § 303d übermittelt. Es werden ausschließlich Daten übermittelt, die zuverlässig automatisiert pseudonymisiert wurden. Die Übermittlung wird in der elektronischen Patientenakte dokumentiert.
 
-(3) Die nach § 341 Absatz 4 für die Datenverarbeitung in der elektronischen Patientenakte Verantwortlichen pseudonymisieren und verschlüsseln die mit der informierten Einwilligung nach den Absätzen 1 und 2 freigegebenen Daten, versehen diese mit einer Arbeitsnummer und übermitteln
+(3) Die nach § 341 Absatz 4 für die Datenverarbeitung in der elektronischen Patientenakte Verantwortlichen sind verantwortlich für die Pseudonymisierung und Verschlüsselung der nach den Absätzen 1 und 2 zu übermittelnden Daten, versehen diese mit einer Arbeitsnummer und übermitteln
 
 1. an das Forschungsdatenzentrum die pseudonymisierten und verschlüsselten Daten samt Arbeitsnummer,
 
-2. an die Vertrauensstellen nach § 303c das Lieferpseudonym zu den freigegebenen Daten und die entsprechende Arbeitsnummer.
+2. an die Vertrauensstellen nach § 303c das Lieferpseudonym zu den nach Absatz 2 übermittelten Daten und die entsprechende Arbeitsnummer.
 
 Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende Pseudonyme und übermittelt dem Forschungsdatenzentrum die periodenübergreifenden Pseudonyme mit den dazugehörigen Arbeitsnummern. Mit dem periodenübergreifenden Pseudonym und der bereits übersandten Arbeitsnummer verknüpft das Forschungsdatenzentrum die freigegebenen Daten mit den im Forschungsdatenzentrum vorliegenden Daten vorheriger Übermittlungen.
 
-(4) Die an das Forschungsdatenzentrum freigegebenen Daten dürfen von diesem für die Erfüllung seiner Aufgaben verarbeitet und auf Antrag den Nutzungsberechtigten nach § 303e Absatz 1 Nummer 6, 7, 8, 10, 13, 14, 15 und 16 bereitgestellt werden. § 303a Absatz 3, § 303c Absatz 1 und 2, die §§ 303d, 303e Absatz 3 bis 6 sowie § 303f gelten entsprechend.
+(4) Die an das Forschungsdatenzentrum übermittelten Daten dürfen von diesem für die Erfüllung seiner Aufgaben verarbeitet und auf Antrag den Nutzungsberechtigten nach § 303e Absatz 1 bereitgestellt werden. § 303a Absatz 3, § 303c Absatz 1 und 2, die §§ 303d, 303e Absatz 3 bis 6 sowie § 303f gelten entsprechend.
 
-(5) Vor Erteilung der informierten Einwilligung ist der Versicherte umfassend nach Maßgabe des § 343 Absatz 1 Satz 1 über die Freiwilligkeit der Datenfreigabe, die pseudonymisierte Datenübermittlung an das Forschungsdatenzentrum, die möglichen Nutzungsberechtigten, die Zwecke, die Aufgaben des Forschungsdatenzentrums, die Arten der Datenbereitstellung an Nutzungsberechtigte, das Verbot der Re-Identifizierung von Versicherten und Leistungserbringern sowie die Widerrufsmöglichkeiten zu informieren. Diese Informationen sind gemäß § 343 Absatz 1 Satz 3 Nummer 16 Bestandteile des geeigneten Informationsmaterials der Krankenkassen.
+(5) Versicherte können der Übermittlung von Daten nach den Absätzen 1 und 2 gegenüber den nach § 341 Absatz 4 für die Datenverarbeitung in der elektronischen Patientenakte Verantwortlichen jederzeit widersprechen. Der Widerspruch wird über die Benutzeroberfläche eines geeigneten Endgeräts oder gegenüber der Ombudsstelle gemäß § 342a erklärt. Der Widerspruch kann auf bestimmte Zwecke nach § 303e Absatz 2 beschränkt werden. Ein getätigter Widerspruch wird in der elektronischen Patientenakte mit Datum und Uhrzeit dokumentiert.
 
-(6) Im Fall des Widerrufs der informierten Einwilligung nach Absatz 2 werden die entsprechenden Daten, die bereits an das Forschungsdatenzentrum übermittelt wurden, im Forschungsdatenzentrum gelöscht. Das Löschverfahren erfolgt analog zur Datenübermittlung und Verknüpfung in Absatz 3. Die bis zum Widerruf der Einwilligung nach Absatz 2 übermittelten und für konkrete Forschungsvorhaben bereits verwendeten Daten dürfen weiterhin für diese Forschungsvorhaben verarbeitet werden. Die Rechte der betroffenen Person nach den Artikeln 17, 18 und 21 der Verordnung (EU) 2016/679 sind insoweit für diese Forschungsvorhaben ausgeschlossen. Der Widerruf der Einwilligung kann ebenso wie deren Erteilung über die Benutzeroberfläche eines geeigneten Endgeräts erfolgen.
+(6) Im Fall des Widerspruchs nach Absatz 5 werden die entsprechenden Daten, die bereits an das Forschungsdatenzentrum übermittelt wurden, im Forschungsdatenzentrum gelöscht. Das Löschverfahren erfolgt analog zur Datenübermittlung und Verknüpfung in Absatz 3. Die bis zur Erklärung des Widerspruchs nach Absatz 5 übermittelten und für konkrete Forschungsvorhaben bereits verwendeten Daten dürfen weiterhin für diese Forschungsvorhaben verarbeitet werden. Die Rechte der betroffenen Person nach den Artikeln 17, 18 und 21 der Verordnung (EU) 2016/679 sind insoweit für diese Forschungsvorhaben ausgeschlossen.
 
 (7) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen mit dem Bundesministerium für Bildung und Forschung ohne Zustimmung des Bundesrates durch Rechtsverordnung das Nähere zu regeln zu
 
 1. den angemessenen und spezifischen Maßnahmen zur Wahrung der Interessen der betroffenen Person im Sinne von Artikel 9 Absatz 2 Buchstabe i und j in Verbindung mit Artikel 89 der Verordnung (EU) 2016/679,
 
-2. den technischen und organisatorischen Einzelheiten der Datenfreigabe, der Datenübermittlung und der Pseudonymisierung nach den Absätzen 2 und 3.
+2. den technischen und organisatorischen Einzelheiten der Datenfreigabe, der Datenübermittlung, der Pseudonymisierung und des Widerspruchs nach den Absätzen 2, 3, 5 und 6,
 
-(8) Unbeschadet der nach den vorstehenden Absätzen vorgesehenen Datenfreigabe an das Forschungsdatenzentrum können Versicherte die Daten ihrer elektronischen Patientenakte auch auf der alleinigen Grundlage einer informierten Einwilligung für ein bestimmtes Forschungsvorhaben oder für bestimmte Bereiche der wissenschaftlichen Forschung zur Verfügung stellen.
+3. den Anforderungen an eine automatisierte Pseudonymisierung zu übermittelnder Daten nach Absatz 2 Satz 2.
+
+(8) Unbeschadet der nach den vorstehenden Absätzen vorgesehenen Datenübermittlung an das Forschungsdatenzentrum können Versicherte die Daten ihrer elektronischen Patientenakte auch auf der alleinigen Grundlage einer informierten Einwilligung für ein bestimmtes Forschungsvorhaben oder für bestimmte Bereiche der wissenschaftlichen Forschung zur Verfügung stellen. Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen mit dem Bundesministerium für Bildung und Forschung und ohne Zustimmung des Bundesrates durch Rechtsverordnung das Nähere zum technischen Verfahren bei der Ausleitung von Daten aus der elektronischen Patientenakte nach Satz 1 und der Zurverfügungstellung für die in Satz 1 genannten Forschungsvorhaben und -bereiche zu regeln.
 
 # § 364 – Vereinbarung über technische Verfahren zur konsiliarischen Befundbeurteilung von Röntgenaufnahmen
 
@@ -13005,13 +13131,15 @@ Sie unterrichten die für die Verfolgung und Ahndung zuständigen Behörden, die
 
 (1) Ordnungswidrig handelt, wer
 
-1. entgegen § 332a Absatz 1 Satz 2 die dort genannte Einbindung beschränkt,
+1. entgegen § 25b Absatz 7 einen Versicherten bevorzugt oder benachteiligt,
 
-2. entgegen § 335 Absatz 1 einen Zugriff auf dort genannte Daten verlangt,
+2. entgegen § 332a Absatz 1 Satz 2 die dort genannte Einbindung beschränkt,
 
-3. entgegen § 335 Absatz 2 eine Vereinbarung abschließt oder
+3. entgegen § 335 Absatz 1 einen Zugriff auf dort genannte Daten verlangt,
 
-4. entgegen § 339 Absatz 3 Satz 1 oder Absatz 5 Satz 1 oder § 361 Absatz 2 Satz 1 oder Absatz 3 Nummer 1 auf dort genannte Daten zugreift.
+4. entgegen § 335 Absatz 2 eine Vereinbarung abschließt oder
+
+5. entgegen § 339 Absatz 3 Satz 1 oder Absatz 5 Satz 1 oder § 361 Absatz 2 Satz 1 oder Absatz 3 Nummer 1 auf dort genannte Daten zugreift.
 
 (1a) (weggefallen)
 
@@ -13061,9 +13189,9 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
-1. entgegen § 64e Absatz 11 Satz 2 Nummer 2 oder § 303e Absatz 5 Satz 1 Nummer 2, auch in Verbindung mit § 363 Absatz 4 Satz 2, Daten weitergibt,
+1. entgegen § 64e Absatz 11b Satz 1 Nummer 2 oder § 303e Absatz 5 Satz 1 Nummer 2, auch in Verbindung mit § 363 Absatz 4 Satz 2, Daten weitergibt,
 
-2. entgegen § 64e Absatz 11 Satz 5 oder § 303e Absatz 5 Satz 4, auch in Verbindung mit § 363 Absatz 4 Satz 2, dort genannte Daten verarbeitet oder
+2. entgegen § 64e Absatz 11b Satz 6 oder § 303e Absatz 5 Satz 4, auch in Verbindung mit § 363 Absatz 4 Satz 2, dort genannte Daten verarbeitet oder
 
 3. entgegen § 352, § 356 Absatz 1 oder 2, § 357 Absatz 1, 2 Satz 1 oder Absatz 3, § 359 Absatz 1 oder § 361 Absatz 1 auf dort genannte Daten zugreift.
 
