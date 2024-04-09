@@ -638,6 +638,10 @@ Beratung, Auskunft
 
 Vorabverständigungsverfahren
 
+§ 89b
+
+Internationale Risikobewertungsverfahren
+
 § 90
 
 Mitwirkungspflichten der Beteiligten
@@ -821,6 +825,10 @@ Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förd
 § 117d
 
 Statistiken über die zwischenstaatliche Amts- und Rechtshilfe
+
+§ 117e
+
+Besondere Formen der Amtshilfe mit Drittstaaten
 
  
 
@@ -3760,27 +3768,35 @@ Die Steuervergünstigung wird gewährt, wenn sich aus der Satzung, dem Stiftungs
 
 # § 60b – Zuwendungsempfängerregister
 
-(1) Das Bundeszentralamt für Steuern führt ein Register, in dem Körperschaften geführt werden, die die Voraussetzungen der §§ 51 bis 68 oder des § 34g des Einkommensteuergesetzes erfüllen (Zuwendungsempfängerregister).
+(1) Das Bundeszentralamt für Steuern führt ein Register, in dem Körperschaften und juristische Personen des öffentlichen Rechts geführt werden, an die steuerbegünstigt Zuwendungen nach den §§ 10b, 34g des Einkommensteuergesetzes geleistet werden können (Zuwendungsempfängerregister).
 
-(2) Im Zuwendungsempfängerregister speichert das Bundeszentralamt für Steuern zu Zwecken des Sonderausgabenabzugs nach § 10b des Einkommensteuergesetzes zu Körperschaften, die die Voraussetzungen der §§ 51 bis 68 erfüllen, folgende Daten:
+(2) Im Zuwendungsempfängerregister speichert das Bundeszentralamt für Steuern zu Zwecken des Sonderausgabenabzugs nach § 10b des Einkommensteuergesetzes und der Steuerermäßigung nach § 34g des Einkommensteuergesetzes automatisiert folgende Daten:
 
-1. Wirtschafts-Identifikationsnummer der Körperschaft,
+1. Wirtschafts-Identifikationsnummer,
 
-2. Name der Körperschaft,
+2. Name,
 
-3. Anschrift der Körperschaft,
+3. Anschrift,
 
-4. steuerbegünstigte Zwecke der Körperschaft,
+4. steuerbegünstigte Zwecke nach den §§ 52 bis 54,
 
-5. das für die Festsetzung der Körperschaftsteuer der Körperschaft zuständige Finanzamt,
+5. Datum der Anerkennung als Partei im Sinne des § 2 des Parteiengesetzes,
 
-6. Datum der Erteilung des letzten Freistellungsbescheides oder Feststellungsbescheides nach § 60a,
+6. Datum der Anerkennung als Wählervereinigung,
 
-7. Bankverbindung der Körperschaft.
+7. Status als juristische Person des öffentlichen Rechts,
 
-(3) Das für die Festsetzung der Körperschaftsteuer der Körperschaft zuständige Finanzamt übermittelt dem Bundeszentralamt für Steuern die Daten nach Absatz 2 sowie unverzüglich jede Änderung dieser Daten.
+8. zuständige Finanzbehörde,
+
+9. Datum der Erteilung des letzten Freistellungsbescheides, der Anlage zum Körperschaftsteuerbescheid oder des Feststellungsbescheides nach § 60a,
+
+10. Kontoverbindungen bei Banken/Kreditinstituten und Bezahldienstleistern.
+
+(3) Die für die Besteuerung nach dem Einkommen zuständige Finanzbehörde übermittelt dem Bundeszentralamt für Steuern die Daten nach Absatz 2 sowie unverzüglich jede Änderung dieser Daten.
 
 (4) Das Bundeszentralamt für Steuern ist befugt, die Daten nach Absatz 2 Dritten zu offenbaren. § 30 steht dem nicht entgegen.
+
+(5) Die im Zuwendungsempfängerregister Geführten können Änderungen und Ergänzungen der Eintragungen nach Absatz 2 Nummer 10 mit Hilfe eines amtlich vorgeschriebenen Datensatzes durch Datenfernübertragung bewirken.
 
 # § 61 – Satzungsmäßige Vermögensbindung
 
@@ -4404,6 +4420,66 @@ Die Prüfung der Voraussetzungen nach Satz 1 obliegt der nach Absatz 1 Satz 1 zu
 
 (8) Nimmt der Antragsteller seinen Antrag nach Absatz 1 Satz 1 vor Bekanntgabe der Gebührenfestsetzung zurück, kann von einer Gebührenfestsetzung abgesehen werden. Wird der Antrag zurückgenommen oder abgelehnt, wird eine zu diesem Zeitpunkt unanfechtbar festgesetzte Gebühr nicht erstattet; dies gilt auch im Fall des Scheiterns des Vorabverständigungsverfahrens.
 
+# § 89b – Internationale Risikobewertungsverfahren
+
+(1) Soweit in einem internationalen Risikobewertungsverfahren nach Absatz 2 das Risiko eines Steuerausfalls unter Beibehaltung der erklärten oder im Rahmen des internationalen Risikobewertungsverfahrens angepassten Angaben in Bezug auf die bewerteten Sachverhalte als gering eingeschätzt wird, kann die Ermittlung der steuerlichen Verhältnisse des Steuerpflichtigen im Rahmen einer Außenprüfung unterbleiben.
+
+(2) Ein internationales Risikobewertungsverfahren ist eine gemeinsame Einschätzung von steuerlichen Risiken von bereits verwirklichten Sachverhalten mit einem oder mehreren Staaten oder Hoheitsgebieten in einem auf Kooperation und Transparenz angelegten Verfahren. Die steuerlichen Risiken sind dabei nur unter Würdigung des Umfangs und der Plausibilität der vom Steuerpflichtigen vorgelegten Unterlagen und Informationen, der zu erwartenden steuerlichen Auswirkungen und des zu erwartenden zeitlichen und personellen Aufwands einer vertieften Sachverhaltsprüfung zu bewerten.
+
+(3) Ein internationales Risikobewertungsverfahren kann auf schriftlichen oder elektronischen Antrag des Steuerpflichtigen bei dem für seine Besteuerung nach dem Einkommen zuständigen Finanzamt oder auf Anregung eines anderen Staates oder Hoheitsgebietes geführt werden. Antragsbefugt ist ein Steuerpflichtiger, sofern es sich bei ihm um eine inländische Konzernobergesellschaft im Sinne des § 138a Absatz 1 Satz 1, die zur Erstellung eines länderbezogenen Berichts verpflichtet ist, oder um die beherrschende inländische Gesellschaft einer multinationalen Unternehmensgruppe, für die nach § 90 Absatz 3 Satz 3 eine Stammdokumentation (§ 5 der Gewinnabgrenzungsaufzeichnungs-Verordnung) zu erstellen ist, handelt. Im Antrag hat der antragsbefugte Steuerpflichtige
+
+1. alle für die Prüfung, ob das jeweilige internationale Risikobewertungsverfahren in Betracht kommt, erforderlichen Unterlagen beizufügen,
+
+2. zuzusichern, alle Mitwirkungspflichten einschließlich der Pflichten des jeweiligen internationalen Risikobewertungsverfahrens zu erfüllen,
+
+3. die Einwilligung in die Offenbarung und den Austausch personen- und unternehmensbezogener Daten im Rahmen des internationalen Risikobewertungsverfahrens entsprechend den jeweiligen internationalen und nationalen Verfahrensgrundsätzen sowie die Einwilligung nach § 87a Absatz 1 Satz 3 zweiter Halbsatz bezogen auf unternehmensbezogene Daten für alle betroffenen Unternehmen der Unternehmensgruppe zu erteilen und
+
+4. zuzusichern, die für das Verfahren notwendige technische Infrastruktur für alle beteiligten in- und ausländischen Finanzbehörden unter Einhaltung der gesetzlichen Regelungen zum Datenschutz und zur Informationssicherheit bei der Verarbeitung von personenbezogenen Daten zur Verfügung zu stellen, sofern nicht eine geeignete technische Infrastruktur von diesen Finanzbehörden bereitgestellt wird.
+
+Bei durch einen anderen Staat oder ein anderes Hoheitsgebiet angeregten internationalen Risikobewertungsverfahren gilt Satz 3 Nummer 3 entsprechend für das ausländische leitende Unternehmen.
+
+(4) Die Durchführung eines internationalen Risikobewertungsverfahrens ist ausgeschlossen, wenn auf Grund der bestehenden Erfahrungen, insbesondere bei Außenprüfungen, bei dem betroffenen Steuerpflichtigen und den seiner Unternehmensgruppe angehörigen Unternehmen oder auf Grund der im Zusammenhang mit dem Antrag gemachten Angaben und eingereichten Unterlagen nicht zu erwarten ist, dass das Verfahren zeitnah, kooperativ, wirtschaftlich und mit einer Einschätzung der Risiken abgeschlossen werden kann. Das ist insbesondere dann der Fall, wenn
+
+1. der Steuerpflichtige oder ein der Unternehmensgruppe angehöriges Unternehmen von den Finanzbehörden als nicht kooperativ eingeschätzt wird,
+
+2. das leitende Unternehmen im Sinne des Absatzes 7 Satz 3 sich nicht bereit erklärt, die zusätzlichen Pflichten des jeweiligen Verfahrens zu erfüllen und die für das Verfahren notwendige technische Infrastruktur für alle beteiligten Finanzbehörden zur Verfügung zu stellen,
+
+3. der Grundsatz der Wirtschaftlichkeit der Verwaltung nicht gewahrt wird,
+
+4. es unwahrscheinlich ist, eine übereinstimmende Risikoeinschätzung mit der zuständigen Behörde des anderen Staates oder Hoheitsgebietes zu erzielen, oder
+
+5. sich nicht genügend Staaten oder Hoheitsgebiete an einem internationalen Risikobewertungsverfahren beteiligen oder die wirtschaftliche Tätigkeit der inländischen Unternehmen in den Staaten, die sich beteiligen wollen, unbedeutend ist.
+
+An einem kooperativen Verhalten im Sinne des Satzes 1 Nummer 1 fehlt es insbesondere, wenn steuerliche Mitwirkungspflichten schuldhaft nicht, nicht hinreichend oder nicht fristgerecht erfüllt wurden. Das ist insbesondere dann der Fall, wenn innerhalb der letzten fünf Jahre
+
+1. Steuererklärungen, länderbezogene Berichte im Sinne des § 138a oder Stammdokumentationen im Sinne des § 90 Absatz 3 Satz 3 nicht oder nicht rechtzeitig abgegeben wurden,
+
+2. ein Mitwirkungsverzögerungsgeld nach § 200a Absatz 2 oder ein Zuschlag nach § 162 Absatz 4 oder 4a festgesetzt worden ist oder
+
+3. der inländische Steuerpflichtige oder eine ihn nach § 34 vertretende oder nach § 79 für ihn handelnde Person rechtskräftig wegen einer das Unternehmen betreffenden Steuerstraftat rechtskräftig verurteilt worden ist.
+
+(5) Über das Ergebnis der Prüfung nach Absatz 4, ob ein internationales Risikobewertungsverfahren erfolgen kann, und die Einleitung des Verfahrens ist der Antragsteller zu informieren, insbesondere über die teilnehmenden Staaten und Hoheitsgebiete und die zu bewertenden Sachverhalte. Das internationale Risikobewertungsverfahren wird durch Übersendung des Risikobewertungsberichts im Sinne des Absatzes 6 beendet. Es wird auch beendet, wenn der inländische Steuerpflichtige vom Verfahren zurücktritt oder die Finanzbehörde das Verfahren vor dessen Abschluss beendet. Eine Beendigung ist möglich, wenn nicht mehr zu erwarten ist, dass eine Einigung über das weitere Vorgehen im Verfahren erzielt wird oder die Mitwirkung der beteiligten Unternehmen eine angemessene Fortführung ermöglicht, insbesondere weil
+
+1. über den Umfang der vorzulegenden Unterlagen oder zu erteilenden Auskünfte keine Einigung erzielt wird oder
+
+2. die erforderlichen technischen und rechtlichen Voraussetzungen für ein elektronisches Bereitstellen von und Zugreifen auf Unterlagen im Verfahren fehlen.
+
+Über die Beendigung werden der Antragsteller und die ausländische zuständige Behörde informiert.
+
+(6) Die Bewertung nach Absatz 2, einschließlich ihres Ergebnisses, wird mit den an dem internationalen Risikobewertungsverfahren beteiligten Staaten oder Hoheitsgebieten abgestimmt. Es soll ein Risikobewertungsbericht erstellt werden, der
+
+1. alle bewerteten Sachverhalte beschreibt,
+
+2. die beteiligten Unternehmen sowie die an dem internationalen Risikobewertungsverfahren beteiligten Staaten und Hoheitsgebiete bezeichnet,
+
+3. die steuerlichen Risiken der bewerteten Sachverhalte einschätzt und
+
+4. darlegt, für welche Zeiträume die Bewertung vorgenommen wurde.
+
+Der Risikobewertungsbericht ist dem Antragsteller oder dem leitenden Unternehmen im Sinne des Absatzes 7 Satz 3 zu übersenden; auf die Anwendung des § 194 Absatz 1a ist hinzuweisen.
+
+(7) Über den Eingang eines Antrags auf ein internationales Risikobewertungsverfahren ist das Bundeszentralamt für Steuern unverzüglich in Kenntnis zu setzen. Geht beim Bundeszentralamt für Steuern eine Anregung eines anderen Staates oder Hoheitsgebietes auf ein internationales Risikobewertungsverfahren ein, informiert es das Finanzamt, das für die Besteuerung des Unternehmens nach dem Einkommen zuständig ist, welches am Verfahren beteiligt sein soll. Handelt es sich um mehrere Unternehmen, ist das Unternehmen maßgeblich, das den gesamten inländischen Teil der Unternehmensgruppe leitet. Fehlt es an einem solchen, sind vom Bundeszentralamt für Steuern alle betroffenen Finanzämter zu informieren und ist darauf hinzuwirken, dass eine Zuständigkeitsvereinbarung für die Durchführung des internationalen Risikobewertungsverfahrens getroffen wird. Über die Durchführung eines internationalen Risikobewertungsverfahrens entscheidet das Bundeszentralamt für Steuern im Einvernehmen mit der zuständigen obersten Landesfinanzbehörde. Das Bundeszentralamt für Steuern ist insbesondere dafür zuständig, das internationale Risikobewertungsverfahren zu koordinieren und die zwischenstaatliche Amtshilfe durchzuführen. Die Risikobewertung und die Durchführung erfolgen durch die örtlich zuständige Finanzbehörde unter Mitwirkung und in Abstimmung mit dem Bundeszentralamt für Steuern.
+
 # § 90 – Mitwirkungspflichten der Beteiligten
 
 (1) Die Beteiligten sind zur Mitwirkung bei der Ermittlung des Sachverhalts verpflichtet. Sie kommen der Mitwirkungspflicht insbesondere dadurch nach, dass sie die für die Besteuerung erheblichen Tatsachen vollständig und wahrheitsgemäß offenlegen und die ihnen bekannten Beweismittel angeben. Der Umfang dieser Pflichten richtet sich nach den Umständen des Einzelfalls.
@@ -4478,9 +4554,11 @@ und der Abruf in diesen Fällen zur Festsetzung der Einkommensteuer erforderlich
 
 4a. zur Ermittlung, in welchen Fällen ein inländischer Steuerpflichtiger im Sinne des § 138 Absatz 2 Satz 1 Verfügungsberechtigter oder wirtschaftlich Berechtigter im Sinne des Geldwäschegesetzes eines Kontos oder Depots einer natürlichen Person, Körperschaft, Personenvereinigung oder Vermögensmasse mit Wohnsitz, gewöhnlichem Aufenthalt, Sitz, Hauptniederlassung oder Geschäftsleitung außerhalb des Geltungsbereichs dieses Gesetzes ist, oder
 
-4b. zur Ermittlung der Besteuerungsgrundlagen in den Fällen des § 208 Absatz 1 Satz 1 Nummer 3
+4b. zur Ermittlung der Besteuerungsgrundlagen in den Fällen des § 208 Absatz 1 Satz 1 Nummer 3 oder
 
 4c. zur Durchführung der Amtshilfe für andere Mitgliedstaaten der Europäischen Union nach § 3a des EU-Amtshilfegesetzes oder
+
+4d. zur Verifizierung der Kontoverbindung des Zuwendungsempfängers nach § 60b Absatz 2 Nummer 10, wenn dieser eine Änderung oder Ergänzung von Kontoverbindungen nach § 60b Absatz 5 beantragt,
 
 oder
 
@@ -4903,7 +4981,7 @@ Kommen für die Amtshilfe mehrere Behörden in Betracht, so soll nach Möglichke
 
 3. der ersuchende Staat zusichert, dass er bereit ist, bei den Steuern vom Einkommen, Ertrag und Vermögen eine mögliche Doppelbesteuerung im Verständigungswege durch eine sachgerechte Abgrenzung der Besteuerungsgrundlagen zu vermeiden und
 
-4. die Erledigung des Ersuchens die Souveränität, die Sicherheit, die öffentliche Ordnung oder andere wesentliche Interessen des Bundes oder seiner Gebietskörperschaften nicht beeinträchtigt und keine Gefahr besteht, dass dem inländischen Beteiligten ein mit dem Zweck der Rechts- und Amtshilfe nicht zu vereinbarender Schaden entsteht, falls ein Handels-, Industrie-, Gewerbe- oder Berufsgeheimnis oder ein Geschäftsverfahren, das auf Grund des Ersuchens offenbart werden soll, preisgegeben wird.
+4. die Erledigung des Ersuchens die Souveränität, die Sicherheit, die öffentliche Ordnung oder andere wesentliche Interessen des Bundes oder seiner Gebietskörperschaften nicht beeinträchtigt und keine Gefahr besteht, dass ein Handels-, Industrie-, Gewerbe- oder Berufsgeheimnis oder ein Geschäftsverfahren, das auf Grund des Ersuchens offenbart werden soll, preisgegeben wird.
 
 Soweit die zwischenstaatliche Rechts- und Amtshilfe Steuern betrifft, die von den Landesfinanzbehörden verwaltet werden, entscheidet das Bundesministerium der Finanzen im Einvernehmen mit der zuständigen obersten Landesbehörde.
 
@@ -4992,6 +5070,26 @@ In einer Rechtsverordnung nach Satz 1 kann dem Bundeszentralamt für Steuern das
 Informationen, die im Zuge der zwischenstaatlichen Amts- und Rechtshilfe verarbeitet werden, dürfen statistisch pseudonymisiert oder anonymisiert aufbereitet werden. Diese statistischen Daten dürfen öffentlich zugänglich gemacht werden.
 
 (+++ § 117d: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
+
+# § 117e – Besondere Formen der Amtshilfe mit Drittstaaten
+
+(1) Die Finanzbehörden können im Verhältnis zu Staaten und Hoheitsgebieten, die nicht Mitgliedstaaten der Europäischen Union sind (Drittstaaten), in entsprechender Anwendung von § 2 Absatz 1 und 13, § 3 Absatz 2 Satz 3 und 4 und Absatz 3a sowie der §§ 10 bis 12a des EU-Amtshilfegesetzes nach Maßgabe des Absatzes 2 besondere Formen der zwischenstaatlichen Amtshilfe in Anspruch nehmen und unter der Voraussetzung der Gegenseitigkeit leisten. § 117 bleibt unberührt, soweit diese Vorschrift nichts anderes bestimmt.
+
+(2) Abweichend von
+
+1. § 10 Absatz 1 Satz 2 erster Halbsatz des EU-Amtshilfegesetzes kann die Teilnahme an behördlichen Ermittlungen mittels elektronischer Kommunikation gestattet werden;
+
+2. § 10 Absatz 1 Satz 3 und § 12 Absatz 5 Satz 2 des EU-Amtshilfegesetzes soll die Bestätigung oder die Ablehnung innerhalb von 60 Tagen nach Erhalt des Ersuchens übermittelt werden;
+
+3. § 10 Absatz 2 Satz 1 und § 12 Absatz 2 Satz 2 bis 5 des EU-Amtshilfegesetzes bestimmt sich die Zulässigkeit des Austausches von Informationen nach den im Einzelfall innerstaatlich anwendbaren völkerrechtlichen Vereinbarungen oder, in Ermangelung solcher, nach § 117 Absatz 3;
+
+4. § 12a Absatz 4 Satz 2 erster Halbsatz des EU-Amtshilfegesetzes sollen die Feststellungen in einem gemeinsamen Prüfbericht festgehalten werden;
+
+5. § 12a Absatz 4 Satz 4 des EU-Amtshilfegesetzes können die beteiligten Behörden, sofern die Gegenseitigkeit verbürgt ist, mit der zuständigen Behörde des Drittstaates vereinbaren, die Beweisführung der entsprechenden Behörde des Drittstaates zu unterstützen.
+
+An die Stelle des zentralen Verbindungsbüros treten im Inland das Bundeszentralamt für Steuern und im Drittstaat die jeweils zuständige Behörde. § 12 Absatz 7 des EU-Amtshilfegesetzes gilt nicht; zielen die behördlichen Ermittlungen im Inland auf ein Verfahren nach den §§ 193 bis 207, kann auf die Anhörung des inländischen Beteiligten bis zur Bekanntgabe der Prüfungsanordnung verzichtet werden, sofern andernfalls der Erfolg der gleichzeitigen oder gemeinsamen Prüfung gefährdet würde.
+
+(3) Hinsichtlich der Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union sowie den Verbrauch- und Verkehrssteuern kann das Zollkriminalamt als Zentralstelle gemäß § 3 Absatz 7 Satz 1 Nummer 1 des Zollfahndungsdienstgesetzes entsprechend den Absätzen 1 bis 2 zwischenstaatliche Amtshilfe für den Zuständigkeitsbereich der Zollverwaltung bewilligen und ersuchen, soweit das Bundesministerium der Finanzen die Aufgabe nicht selbst wahrnimmt oder eine abweichende Zuweisung vorsieht.
 
 # § 118 – Begriff des Verwaltungsakts
 
@@ -5222,11 +5320,13 @@ Ist ein Verwaltungsakt unanfechtbar widerrufen oder zurückgenommen oder ist sei
 
 # § 138 – Anzeigen über die Erwerbstätigkeit
 
-(1) Wer einen Betrieb der Land- und Forstwirtschaft, einen gewerblichen Betrieb oder eine Betriebstätte eröffnet, hat dies nach amtlich vorgeschriebenem Vordruck der Gemeinde mitzuteilen, in der der Betrieb oder die Betriebstätte eröffnet wird; die Gemeinde unterrichtet unverzüglich das nach § 22 Abs. 1 zuständige Finanzamt von dem Inhalt der Mitteilung. Ist die Festsetzung der Realsteuern den Gemeinden nicht übertragen worden, so tritt an die Stelle der Gemeinde das nach § 22 Abs. 2 zuständige Finanzamt. Wer eine freiberufliche Tätigkeit aufnimmt, hat dies dem nach § 19 zuständigen Finanzamt mitzuteilen. Das Gleiche gilt für die Verlegung und die Aufgabe eines Betriebs, einer Betriebstätte oder einer freiberuflichen Tätigkeit.
+(1) Wer einen Betrieb der Land- und Forstwirtschaft, einen gewerblichen Betrieb oder eine Betriebstätte eröffnet, hat dies nach amtlich vorgeschriebenem Vordruck der Gemeinde mitzuteilen, in der der Betrieb oder die Betriebstätte eröffnet wird; die Gemeinde unterrichtet unverzüglich das nach § 22 Abs. 1 zuständige Finanzamt von dem Inhalt der Mitteilung. Ist die Festsetzung der Realsteuern den Gemeinden nicht übertragen worden, so tritt an die Stelle der Gemeinde das nach § 22 Abs. 2 zuständige Finanzamt. Wer eine freiberufliche Tätigkeit aufnimmt, hat dies dem nach § 19 zuständigen Finanzamt mitzuteilen. Das Gleiche gilt für die Verlegung und die Aufgabe eines Betriebs, einer Betriebstätte oder einer freiberuflichen Tätigkeit. Unternehmer im Sinne des § 21 Absatz 1 Satz 2 haben die Aufnahme einer im Geltungsbereich des Gesetzes umsatzsteuerbaren Tätigkeit dem nach der Umsatzsteuer-Zuständigkeitsverordnung zuständigen Finanzamt anzuzeigen, es sei denn, diese Unternehmer erbringen in Deutschland ausschließlich steuerbare und steuerpflichtige Umsätze, die in den besonderen Besteuerungsverfahren nach den §§ 18i bis 18k des Umsatzsteuergesetzes zu erklären sind.
 
 (1a) Unternehmer im Sinne des § 2 des Umsatzsteuergesetzes können ihre Anzeigepflichten nach Absatz 1 zusätzlich bei der für die Umsatzbesteuerung zuständigen Finanzbehörde elektronisch erfüllen.
 
-(1b) Sofern Steuerpflichtige gemäß Absatz 1 Satz 1 bis 3 verpflichtet sind, eine Betriebseröffnung oder Aufnahme einer freiberuflichen Tätigkeit mitzuteilen, haben sie dem in Absatz 1 bezeichneten Finanzamt weitere Auskünfte über die für die Besteuerung erheblichen rechtlichen und tatsächlichen Verhältnisse zu erteilen. Die Auskünfte im Sinne des Satzes 1 sind nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle zu übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung unbilliger Härten auf eine Übermittlung gemäß Satz 2 verzichten; in diesem Fall sind die Auskünfte im Sinne des Satzes 1 nach amtlich vorgeschriebenem Vordruck zu erteilen.
+(1b) Sofern Steuerpflichtige gemäß Absatz 1 Satz 1 bis 3 verpflichtet sind, eine Betriebseröffnung oder Aufnahme einer freiberuflichen Tätigkeit mitzuteilen, haben sie dem in Absatz 1 bezeichneten Finanzamt weitere Auskünfte über die für die Besteuerung erheblichen rechtlichen und tatsächlichen Verhältnisse zu erteilen. Die Auskünfte im Sinne des Satzes 1 sind nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle zu übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung unbilliger Härten auf eine Übermittlung gemäß Satz 2 verzichten; in diesem Fall sind die Auskünfte im Sinne des Satzes 1 nach amtlich vorgeschriebenem Vordruck zu erteilen. Die Sätze 1 bis 3 gelten entsprechend für Steuerpflichtige im Sinne des § 137, die nicht nach Absatz 1 zur Anzeige verpflichtet sind.
+
+(1c) Das Bundesministerium der Finanzen kann im Einvernehmen mit den obersten Finanzbehörden der Länder durch ein im Bundessteuerblatt zu veröffentlichendes Schreiben Ausnahmen von der Verpflichtung zur Anzeige einer Erwerbstätigkeit nach Absatz 1 und der Auskunftspflicht nach Absatz 1b gegenüber dem zuständigen Finanzamt bestimmen, soweit die anzuzeigende Tätigkeit keine oder nur geringfügige steuerliche Auswirkung hat.
 
 (2) Steuerpflichtige mit Wohnsitz, gewöhnlichem Aufenthalt, Geschäftsleitung oder Sitz im Geltungsbereich dieses Gesetzes (inländische Steuerpflichtige) haben dem für sie nach den §§ 18 bis 20 zuständigen Finanzamt mitzuteilen:
 
@@ -5474,7 +5574,7 @@ f) die Aushöhlung von Verfahren zur Erfüllung der Sorgfaltspflichten, die Fina
 
 a) die keine wesentliche wirtschaftliche Tätigkeit ausüben, die mit angemessener Ausstattung, angemessenen personellen Ressourcen, angemessenen Vermögenswerten und angemessenen Räumlichkeiten einhergeht, und
 
-b) die in anderen Steuerhoheitsgebieten eingetragen, ansässig oder niedergelassen sind oder verwaltet oder kontrolliert werden als dem Steuerhoheitsgebiet, in dem ein oder mehrere der wirtschaftlichen Eigentümer der von diesen Personen, Rechtsvereinbarungen oder Strukturen gehaltenen Vermögenswerte ansässig sind,
+b) die in anderen Steuerhoheitsgebieten eingetragen, ansässig oder niedergelassen sind oder verwaltet oder kontrolliert werden als dem Steuerhoheitsgebiet, in dem ein oder mehrere der wirtschaftlich Berechtigten der von diesen Personen, Rechtsvereinbarungen oder Strukturen gehaltenen Vermögenswerte ansässig sind,
 
 sofern die wirtschaftlich Berechtigten dieser Personen, Rechtsvereinbarungen oder Strukturen im Sinne des § 3 des Geldwäschegesetzes nicht identifizierbar gemacht werden (intransparente Kette);
 
@@ -5567,7 +5667,7 @@ b) einer abstrakt gehaltenen Beschreibung der relevanten Geschäftstätigkeit od
 
 10. Angaben zu allen in einem Mitgliedstaat der Europäischen Union ansässigen Personen, die von der grenzüberschreitenden Steuergestaltung wahrscheinlich unmittelbar betroffen sind, einschließlich Angaben darüber, zu welchen Mitgliedstaaten der Europäischen Union sie in Beziehung stehen, soweit dem Intermediär dies bekannt ist.
 
-Soweit dem Intermediär bekannt ist, dass neben ihm mindestens ein weiterer Intermediär im Geltungsbereich dieses Gesetzes oder in einem anderen Mitgliedstaat der Europäischen Union zur Mitteilung derselben grenzüberschreitenden Steuergestaltung verpflichtet ist, so kann er im Datensatz nach Satz 1 die Angaben nach Satz 1 Nummer 1 auch hinsichtlich der anderen ihm bekannten Intermediäre machen.
+Soweit dem Intermediär bekannt ist, dass neben ihm mindestens ein weiterer Intermediär im Geltungsbereich dieses Gesetzes oder in einem anderen Mitgliedstaat der Europäischen Union zur Mitteilung derselben grenzüberschreitenden Steuergestaltung verpflichtet ist, so kann er mit deren Einwilligung im Datensatz nach Satz 1 die Angaben nach Satz 1 Nummer 1 auch hinsichtlich der anderen ihm bekannten Intermediäre machen.
 
 (4) Der mitteilende Intermediär hat den Nutzer darüber zu informieren, welche den Nutzer betreffenden Angaben er gemäß Absatz 3 an das Bundeszentralamt für Steuern übermitteln wird. Im Fall des Absatzes 3 Satz 2 hat der mitteilende Intermediär die anderen ihm bekannten Intermediäre unverzüglich darüber zu informieren, dass die Angaben gemäß Absatz 3 an das Bundeszentralamt für Steuern übermittelt wurden.
 
@@ -5585,7 +5685,7 @@ zu und teilt diese dem mitteilenden Intermediär mit. Hat das Bundeszentralamt f
 
 2. dem Nutzer die nach Absatz 3 Satz 1 Nummer 2, 3 und 10 erforderlichen Angaben, soweit sie dem Nutzer nicht bereits bekannt sind, sowie die Registriernummer und die Offenlegungsnummer zur Verfügung gestellt hat.
 
-Ist die Mitteilungspflicht hinsichtlich der in Absatz 3 Satz 1 Nummer 2, 3 und 10 bezeichneten Angaben auf den Nutzer übergegangen, so hat dieser in seiner Mitteilung die Registriernummer und die Offenlegungsnummer anzugeben; die Absätze 1 und 2 gelten in diesem Fall entsprechend. Die Information des Nutzers nach Satz 1 Nummer 2 ist vom Intermediär nach Zugang der Mitteilung der Offenlegungsnummer unverzüglich zu veranlassen. Erlangt der Nutzer die in Satz 1 Nummer 2 bezeichneten Informationen erst nach Eintritt des nach Absatz 2 maßgebenden Ereignisses, so beginnt die Frist zur Übermittlung der in Absatz 3 Satz 1 Nummer 2, 3 und 10 bezeichneten Angaben abweichend von Absatz 2 erst mit Ablauf des Tages, an dem der Nutzer die Informationen erlangt hat. Hat der Nutzer einer grenzüberschreitenden Steuergestaltung einen Intermediär, der einer gesetzlichen Pflicht zur Verschwiegenheit unterliegt, nicht von seiner Verschwiegenheitspflicht entbunden, kann die Pflicht des Intermediärs zur Mitteilung der Angaben nach Absatz 3 Satz 1 Nummer 1 und 4 bis 9 dadurch erfüllt werden, dass der Nutzer diese Angaben im Auftrag des Intermediärs übermittelt.
+Ist die Mitteilungspflicht hinsichtlich der in Absatz 3 Satz 1 Nummer 2, 3 und 10 bezeichneten Angaben auf den Nutzer übergegangen, so hat dieser in seiner Mitteilung die Registriernummer und die Offenlegungsnummer anzugeben; die Absätze 1 und 2 gelten in diesem Fall entsprechend. Die Information des Nutzers nach Satz 1 Nummer 2 ist vom Intermediär nach Zugang der Mitteilung der Offenlegungsnummer unverzüglich zu veranlassen und dem Bundeszentralamt für Steuern auf Verlangen mitzuteilen. Erlangt der Nutzer die in Satz 1 Nummer 2 bezeichneten Informationen erst nach Eintritt des nach Absatz 2 maßgebenden Ereignisses, so beginnt die Frist zur Übermittlung der in Absatz 3 Satz 1 Nummer 2, 3 und 10 bezeichneten Angaben abweichend von Absatz 2 erst mit Ablauf des Tages, an dem der Nutzer die Informationen erlangt hat. Hat der Nutzer einer grenzüberschreitenden Steuergestaltung einen Intermediär, der einer gesetzlichen Pflicht zur Verschwiegenheit unterliegt, nicht von seiner Verschwiegenheitspflicht entbunden, kann die Pflicht des Intermediärs zur Mitteilung der Angaben nach Absatz 3 Satz 1 Nummer 1 und 4 bis 9 dadurch erfüllt werden, dass der Nutzer diese Angaben im Auftrag des Intermediärs übermittelt.
 
 (7) Ein Intermediär ist nur dann zur Mitteilung der grenzüberschreitenden Steuergestaltung gegenüber dem Bundeszentralamt für Steuern verpflichtet, wenn er seinen Wohnsitz, seinen gewöhnlichen Aufenthalt, seine Geschäftsleitung oder seinen Sitz
 
@@ -5601,9 +5701,9 @@ c) bei einem Berufsverband für juristische, steuerliche oder beratende Dienstle
 
 Bei Anwendung von Satz 1 Nummer 2 Buchstabe a gilt § 138d Absatz 4 entsprechend.
 
-(8) Ist ein Intermediär hinsichtlich derselben grenzüberschreitenden Steuergestaltung zur Mitteilung im Geltungsbereich dieses Gesetzes und zugleich in mindestens einem anderen Mitgliedstaat der Europäischen Union verpflichtet, so ist er von der Mitteilungspflicht nach diesem Gesetz nur dann befreit, wenn er nachweisen kann, dass er die grenzüberschreitende Steuergestaltung bereits in einem anderen Mitgliedstaat der Europäischen Union im Einklang mit den dort geltenden Rechtsvorschriften der zuständigen Behörde mitgeteilt hat.
+(8) Ist ein Intermediär hinsichtlich derselben grenzüberschreitenden Steuergestaltung zur Mitteilung im Geltungsbereich dieses Gesetzes und zugleich in mindestens einem anderen Mitgliedstaat der Europäischen Union verpflichtet, so ist er von der Mitteilungspflicht nach diesem Gesetz nur dann befreit, wenn er nachweisen kann, dass er oder der Nutzer die grenzüberschreitende Steuergestaltung bereits in einem anderen Mitgliedstaat der Europäischen Union im Einklang mit den dort geltenden Rechtsvorschriften der zuständigen Behörde mitgeteilt hat.
 
-(9) Mehrere Intermediäre derselben grenzüberschreitenden Steuergestaltung sind nebeneinander zur Mitteilung verpflichtet. Ein Intermediär ist in diesem Fall von der Mitteilungspflicht gegenüber dem Bundeszentralamt für Steuern befreit, soweit er nachweisen kann, dass die in Absatz 3 bezeichneten Informationen zu derselben grenzüberschreitenden Steuergestaltung bereits durch einen anderen Intermediär dem Bundeszentralamt für Steuern oder der zuständigen Behörde eines anderen Mitgliedstaats der Europäischen Union im Einklang mit den dort geltenden Rechtsvorschriften mitgeteilt wurden.
+(9) Mehrere Intermediäre derselben grenzüberschreitenden Steuergestaltung sind nebeneinander zur Mitteilung verpflichtet. Ein Intermediär ist in diesem Fall von der Mitteilungspflicht gegenüber dem Bundeszentralamt für Steuern befreit, soweit er nachweisen kann, dass die in Absatz 3 bezeichneten Informationen zu derselben grenzüberschreitenden Steuergestaltung bereits durch einen anderen Intermediär oder durch den Nutzer dem Bundeszentralamt für Steuern oder der zuständigen Behörde eines anderen Mitgliedstaats der Europäischen Union im Einklang mit den dort geltenden Rechtsvorschriften mitgeteilt wurden.
 
 (+++ §§ 138d bis 138k: Zur Anwendung vgl. Art. 97 §§ 33 u. 37 AOEG 1977 +++)
 
@@ -5754,7 +5854,7 @@ Hat ein Nutzer eine grenzüberschreitende Steuergestaltung im Sinne des § 138d 
 
 5. den Finanzbehörden die Erfüllung der ihnen durch Rechtsvorschrift zugewiesenen Aufgaben zu ermöglichen.
 
-Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur Ermittlung des Einkommens nach § 97a des Sechsten Buches Sozialgesetzbuch gespeichert und können von den Trägern der gesetzlichen Rentenversicherung zu diesem Zweck verarbeitet werden. Die Regelungen des Identifikationsnummerngesetzes bleiben unberührt.
+Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur Ermittlung des Einkommens nach § 97a des Sechsten Buches Sozialgesetzbuch gespeichert und können von den Trägern der gesetzlichen Rentenversicherung zu diesem Zweck verarbeitet werden. Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zum Nachweis der Elterneigenschaft sowie zur Ermittlung der Anzahl der berücksichtigungsfähigen Kinder des beitragspflichtigen Mitglieds für die Beitragssatzermittlung nach § 55 Absatz 3 und 3a des Elften Buches Sozialgesetzbuch gespeichert und können von den beitragsabführenden Stellen und den Pflegekassen zu diesem Zweck verarbeitet werden. Die Regelungen des Identifikationsnummerngesetzes bleiben unberührt.
 
 (4a) Die in Absatz 3 Nummer 3 bis 6, 8 und 10 aufgeführten Daten werden bei einer natürlichen Person, die ein Nutzerkonto im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes nutzt, auch zum Nachweis der Identität als Nutzer dieses Nutzerkontos gespeichert; diese Daten dürfen elektronisch an das Nutzerkonto übermittelt werden, wenn der Nutzer zuvor in die Übermittlung eingewilligt hat.
 
@@ -5992,15 +6092,15 @@ Wer nach anderen Gesetzen als den Steuergesetzen Bücher und Aufzeichnungen zu f
 
 (1) Gewerbliche Unternehmer sowie Land- und Forstwirte, die nach den Feststellungen der Finanzbehörde für den einzelnen Betrieb
 
-1. einen Gesamtumsatz im Sinne des § 19 Absatz 3 Satz 1 des Umsatzsteuergesetzes von mehr als 600 000 Euro im Kalenderjahr oder
+1. einen Gesamtumsatz im Sinne des § 19 Absatz 3 Satz 1 des Umsatzsteuergesetzes von mehr als 800 000 Euro im Kalenderjahr oder
 
 2. (weggefallen)
 
 3. selbstbewirtschaftete land- und forstwirtschaftliche Flächen mit einem Wirtschaftswert (§ 46 des Bewertungsgesetzes) von mehr als 25 000 Euro oder
 
-4. einen Gewinn aus Gewerbebetrieb von mehr als 60 000 Euro im Wirtschaftsjahr oder
+4. einen Gewinn aus Gewerbebetrieb von mehr als 80 000 Euro im Wirtschaftsjahr oder
 
-5. einen Gewinn aus Land- und Forstwirtschaft von mehr als 60 000 Euro im Kalenderjahr
+5. einen Gewinn aus Land- und Forstwirtschaft von mehr als 80 000 Euro im Kalenderjahr
 
 gehabt haben, sind auch dann verpflichtet, für diesen Betrieb Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen Abschlüsse zu machen, wenn sich eine Buchführungspflicht nicht aus § 140 ergibt. Die §§ 238, 240, 241, 242 Abs. 1 und die §§ 243 bis 256 des Handelsgesetzbuchs gelten sinngemäß, sofern sich nicht aus den Steuergesetzen etwas anderes ergibt. Bei der Anwendung der Nummer 3 ist der Wirtschaftswert aller vom Land- und Forstwirt selbstbewirtschafteten Flächen maßgebend, unabhängig davon, ob sie in seinem Eigentum stehen oder nicht.
 
@@ -6110,7 +6210,7 @@ Werden der Finanzbehörde Umstände bekannt, die zu einer Beeinträchtigung der 
 
 (2) Wer aufzeichnungspflichtige Geschäftsvorfälle im Sinne des Absatzes 1 Satz 1 erfasst, hat dem an diesem Geschäftsvorfall Beteiligten in unmittelbarem zeitlichem Zusammenhang mit dem Geschäftsvorfall unbeschadet anderer gesetzlicher Vorschriften einen Beleg über den Geschäftsvorfall auszustellen und dem an diesem Geschäftsvorfall Beteiligten zur Verfügung zu stellen (Belegausgabepflicht). Bei Verkauf von Waren an eine Vielzahl von nicht bekannten Personen können die Finanzbehörden nach § 148 aus Zumutbarkeitsgründen nach pflichtgemäßem Ermessen von einer Belegausgabepflicht nach Satz 1 befreien. Die Befreiung kann widerrufen werden.
 
-(3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundestages und des Bundesrates und im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium für Wirtschaft und Energie Folgendes zu bestimmen:
+(3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundestages und des Bundesrates und im Einvernehmen mit dem Bundesministerium des Innern und für Heimat und dem Bundesministerium für Wirtschaft und Klimaschutz Folgendes zu bestimmen:
 
 1. die elektronischen Aufzeichnungssysteme, die über eine zertifizierte technische Sicherheitseinrichtung verfügen müssen, und
 
@@ -6132,7 +6232,7 @@ g) die Zertifizierung der technischen Sicherheitseinrichtung.
 
 Die Erfüllung der Anforderungen nach Satz 1 Nummer 2 Buchstabe a bis c ist durch eine Zertifizierung des Bundesamts für Sicherheit in der Informationstechnik nachzuweisen, die fortlaufend aufrechtzuerhalten ist. Das Bundesamt für Sicherheit in der Informationstechnik kann mit der Festlegung von Anforderungen an die technische Sicherheitseinrichtung im Sinne des Satzes 1 Nummer 2 Buchstabe a bis c beauftragt werden. Die Rechtsverordnung nach Satz 1 ist dem Bundestag zuzuleiten. Die Zuleitung erfolgt vor der Zuleitung an den Bundesrat. Der Bundestag kann der Rechtsverordnung durch Beschluss zustimmen oder sie durch Beschluss ablehnen. Der Beschluss des Bundestages wird dem Bundesministerium der Finanzen zugeleitet. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, so gilt die Zustimmung nach Satz 1 als erteilt und die Rechtsverordnung wird dem Bundesrat zugeleitet.
 
-(4) Wer aufzeichnungspflichtige Geschäftsvorfälle oder andere Vorgänge mit Hilfe eines elektronischen Aufzeichnungssystems im Sinne des Absatzes 1 erfasst, hat dem nach den §§ 18 bis 20 zuständigen Finanzamt nach amtlich vorgeschriebenen Vordruck mitzuteilen:
+(4) Wer aufzeichnungspflichtige Geschäftsvorfälle oder andere Vorgänge mit Hilfe eines elektronischen Aufzeichnungssystems im Sinne des Absatzes 1 erfasst, hat dem nach den §§ 18 bis 20 zuständigen Finanzamt nach amtlich vorgeschriebenen Datensatz durch Datenfernübertragung mitzuteilen:
 
 1. Name des Steuerpflichtigen,
 
@@ -6219,7 +6319,7 @@ Die Kosten trägt der Steuerpflichtige. In Fällen des Satzes 3 hat der mit der 
 
 (1) Steuerpflichtige, bei denen die Summe der positiven Einkünfte nach § 2 Absatz 1 Nummer 4 bis 7 des Einkommensteuergesetzes (Überschusseinkünfte) mehr als 500 000 Euro im Kalenderjahr beträgt, haben die Aufzeichnungen und Unterlagen über die den Überschusseinkünften zu Grunde liegenden Einnahmen und Werbungskosten sechs Jahre aufzubewahren. Im Falle der Zusammenveranlagung sind für die Feststellung des Überschreitens des Betrags von 500 000 Euro die Summe der positiven Einkünfte nach Satz 1 eines jeden Ehegatten oder Lebenspartners maßgebend. Die Verpflichtung nach Satz 1 ist vom Beginn des Kalenderjahrs an zu erfüllen, das auf das Kalenderjahr folgt, in dem die Summe der positiven Einkünfte im Sinne des Satzes 1 mehr als 500 000 Euro beträgt. Die Verpflichtung nach Satz 1 endet mit Ablauf des fünften aufeinanderfolgenden Kalenderjahrs, in dem die Voraussetzungen des Satzes 1 nicht erfüllt sind. § 147 Absatz 2, Absatz 3 Satz 5 und Absatz 4 bis 7 gilt entsprechend. Die Sätze 1 bis 3 und 5 gelten entsprechend in den Fällen, in denen die zuständige Finanzbehörde den Steuerpflichtigen für die Zukunft zur Aufbewahrung der in Satz 1 genannten Aufzeichnungen und Unterlagen verpflichtet, weil er seinen Mitwirkungspflichten nach § 12 Absatz 3 des Gesetzes zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb nicht nachgekommen ist.
 
-(2) Steuerpflichtige, die allein oder zusammen mit nahestehenden Personen im Sinne des § 1 Absatz 2 des Außensteuergesetzes unmittelbar oder mittelbar einen beherrschenden oder bestimmenden Einfluss auf die gesellschaftsrechtlichen, finanziellen oder geschäftlichen Angelegenheiten einer Drittstaat-Gesellschaft im Sinne des § 138 Absatz 3 ausüben können, haben die Aufzeichnungen und Unterlagen über diese Beziehung und alle damit verbundenen Einnahmen und Ausgaben sechs Jahre aufzubewahren. Diese Aufbewahrungspflicht ist von dem Zeitpunkt an zu erfüllen, in dem der Sachverhalt erstmals verwirklicht worden ist, der den Tatbestand des Satzes 1 erfüllt. Absatz 1 Satz 4 sowie § 147 Absatz 2, 3 Satz 3 und Absatz 5 bis 7 gelten entsprechend.
+(2) Steuerpflichtige, die allein oder zusammen mit nahestehenden Personen im Sinne des § 1 Absatz 2 des Außensteuergesetzes unmittelbar oder mittelbar einen beherrschenden oder bestimmenden Einfluss auf die gesellschaftsrechtlichen, finanziellen oder geschäftlichen Angelegenheiten einer Drittstaat-Gesellschaft im Sinne des § 138 Absatz 3 ausüben können, haben die Aufzeichnungen und Unterlagen über diese Beziehung und alle damit verbundenen Einnahmen und Ausgaben sechs Jahre aufzubewahren. Diese Aufbewahrungspflicht ist von dem Zeitpunkt an zu erfüllen, in dem der Sachverhalt erstmals verwirklicht worden ist, der den Tatbestand des Satzes 1 erfüllt. Absatz 1 Satz 4 sowie § 147 Absatz 2, 3 Satz 5 und Absatz 5 bis 7 gelten entsprechend.
 
 (+++ § 147a: Zur Anwendung vgl. Art. 97 § 1 Abs. 10 u. §§ 22 u. 37 AOEG 1977 +++)
 
@@ -7079,6 +7179,8 @@ Wer sich auf Grund eines Vertrags verpflichtet hat, für die Steuer eines andere
 
 (1) Die Außenprüfung dient der Ermittlung der steuerlichen Verhältnisse des Steuerpflichtigen. Sie kann eine oder mehrere Steuerarten, einen oder mehrere Besteuerungszeiträume umfassen oder sich auf bestimmte Sachverhalte beschränken. Die Außenprüfung bei einer Personengesellschaft umfasst die steuerlichen Verhältnisse der Gesellschafter insoweit, als diese Verhältnisse für die zu überprüfenden einheitlichen Feststellungen von Bedeutung sind. Die steuerlichen Verhältnisse anderer Personen können insoweit geprüft werden, als der Steuerpflichtige verpflichtet war oder verpflichtet ist, für Rechnung dieser Personen Steuern zu entrichten oder Steuern einzubehalten und abzuführen; dies gilt auch dann, wenn etwaige Steuernachforderungen den anderen Personen gegenüber geltend zu machen sind.
 
+(1a) Das Ergebnis eines internationalen Risikobewertungsverfahrens nach § 89b und auch die bei dessen Durchführung erlangten Erkenntnisse, die nicht im Risikobewertungsbericht nach § 89b Absatz 6 enthalten sind, sollen bei der Bestimmung des sachlichen Umfangs einer Außenprüfung nach Absatz 1 Satz 2 berücksichtigt werden.
+
 (2) Die steuerlichen Verhältnisse von Gesellschaftern und Mitgliedern sowie von Mitgliedern der Überwachungsorgane können über die in Absatz 1 geregelten Fälle hinaus in die bei einer Gesellschaft durchzuführende Außenprüfung einbezogen werden, wenn dies im Einzelfall zweckmäßig ist.
 
 (3) Werden anlässlich einer Außenprüfung Verhältnisse anderer als der in Absatz 1 genannten Personen festgestellt, so ist die Auswertung der Feststellungen insoweit zulässig, als ihre Kenntnis für die Besteuerung dieser anderen Personen von Bedeutung ist oder die Feststellungen eine unerlaubte Hilfeleistung in Steuersachen betreffen.
@@ -7491,7 +7593,7 @@ Ansprüche aus dem Steuerschuldverhältnis unterliegen einer besonderen Zahlungs
 
 (1) Die Verjährung ist gehemmt, solange der Anspruch wegen höherer Gewalt innerhalb der letzten sechs Monate der Verjährungsfrist nicht verfolgt werden kann.
 
-(2) Die Verjährung ist gehemmt, solange die Festsetzungsfrist des Anspruchs noch nicht abgelaufen ist. § 171 Absatz 14 ist dabei nicht anzuwenden.
+(2) Die Verjährungsfrist läuft nicht ab, solange die Festsetzungsfrist des Anspruchs noch nicht abgelaufen ist. § 171 Absatz 14 ist dabei nicht anzuwenden.
 
 (+++ § 230: Zur Geltung vgl. Art. 97 § 14 AOEG 1977 +++)
 
@@ -7639,6 +7741,8 @@ führt.
 (4) § 234 Abs. 2 und 3 gelten entsprechend.
 
 (5) Ein Zinsbescheid ist nicht aufzuheben oder zu ändern, wenn der Steuerbescheid nach Abschluss des Rechtsbehelfsverfahrens aufgehoben, geändert oder nach § 129 berichtigt wird.
+
+(6) Die Absätze 1 bis 5 gelten für festgesetzte Haftungsansprüche entsprechend, soweit sich die Haftung auf Steuern und zurückzuzahlende Steuervergütungen erstreckt.
 
 (+++ § 237 F. 21.12.1993: Zur Geltung vgl. Art. 97 § 15 Abs. 6 AOEG 1977 +++)
 
@@ -9009,9 +9113,9 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 
 1d. der Mitteilungspflicht nach § 138b Absatz 1 bis 3 nicht, nicht vollständig oder nicht rechtzeitig nachkommt,
 
-1e. entgegen § 138d Absatz 1, entgegen § 138f Absatz 1, 2, 3 Satz 1 Nummer 1 bis 7 sowie 9 und 10 oder entgegen § 138h Absatz 2 eine Mitteilung über eine grenzüberschreitende Steuergestaltung nicht oder nicht rechtzeitig macht oder zur Verfügung stehende Angaben nicht vollständig mitteilt,
+1e. entgegen § 138d Absatz 1 in Verbindung mit § 138f Absatz 1, 2, 3 Satz 1 Nummer 1 bis 7 sowie 9 und 10 oder § 138h Absatz 2, jeweils auch in Verbindung mit § 138f Absatz 6 Satz 1 und 2 oder § 138g Absatz 1 Satz 1, eine Mitteilung über eine grenzüberschreitende Steuergestaltung nicht oder nicht rechtzeitig macht oder zur Verfügung stehende Angaben nicht vollständig mitteilt,
 
-1f. entgegen § 138g Absatz 1 Satz 1 oder entgegen § 138h Absatz 2 die Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt,
+1f. (weggefallen)
 
 1g. entgegen § 138k Satz 1 in der Steuererklärung die Angabe der von ihm verwirklichten grenzüberschreitenden Steuergestaltung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
@@ -9029,7 +9133,7 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 
 (6) Die Ordnungswidrigkeit nach Absatz 1 Satz 1 Nummer 3 bis 7 und Absatz 2 Nummer 1h und 1i kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
-(7) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1 und 1d bis 1g kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
+(7) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1, 1d, 1e und 1g kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
 (+++ § 379: Zur Anwendung vgl. Art. 97 §§ 30, 32, 33 u. 37 AOEG 1977 +++)
 
