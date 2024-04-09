@@ -2406,7 +2406,8 @@ b) längerfristig, sofern der Therapieversuch nach Buchstabe a erfolgreich verla
 
 # Anlage 9 – (zu § 23 Absatz 1)Höchstbeträge für beihilfefähige Aufwendungen für Heilmittel
 
-(Fundstelle: BGBl. I 2018, 1247 - 1254;)
+(Fundstelle: BGBl. I 2018, 1247 - 1254;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorbemerkungen: Wenn im Leistungsverzeichnis ein Richtwert angegeben ist, ist die jeweilige Therapiemaßnahme einschließlich ihrer Vor- und Nachbereitung sowie ihrer Dokumentation innerhalb des durch den Richtwert angegebenen Zeitrahmens durchzuführen. Der Richtwert darf nur aus medizinischen Gründen unterschritten werden.
 

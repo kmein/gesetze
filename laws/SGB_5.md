@@ -565,7 +565,8 @@ Weitere Übergangsvorschriften .......
 
   
   
-Anlage zu § 307
+Anlage 1 (zu § 135d)  
+Anlage 2 (zu § 307 Absatz 1 Satz 3)
 
 Inhaltsübersicht: (+++ Änderungsanweisung durch Art. 32 Nr. 1 G v. 12.12.2019 I 2652 mWv 1.1.2024 wegen textlicher Unstimmigkeit nicht ausführbar +++); idF d. Art. 1 Nr. 0 Buchst. a u. b G v. 14.12.2019 I 2789 mWv 1.1.2020 u. d. Art. 1b Nr. 1 G v. 4.3.2020 I 437 mWv 1.1.2020; (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. a G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++); (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. b G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. a, b u. d G v. 14.10.2020 I 2115 mWv 20.10.2020; (+++ Änderungsanweisung d. Art. 1 Nr. 1 Buchst. c G v. 14.10.2020 I 2115 mWv 20.10.2020 wurde sinngemäß konsolidiert); idF d. Art. 8j Nr. 1 G v. 12.12.2023 I Nr. 359 mWv 16.12.2023, sinngemäß konsolidiert; im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
 
@@ -6533,6 +6534,58 @@ Der Gemeinsame Bundesausschuss überprüft die zu Lasten der Krankenkassen erbra
 
 (2) Der Qualitätsbericht des Krankenhauses nach § 136b Absatz 1 Satz 1 Nummer 3 hat eine Erklärung zu enthalten, die unbeschadet der Rechte Dritter Auskunft darüber gibt, ob sich das Krankenhaus bei Verträgen mit leitenden Ärzten an die Empfehlungen nach Absatz 1 Satz 2 hält. Hält sich das Krankenhaus nicht an die Empfehlungen, hat es unbeschadet der Rechte Dritter anzugeben, welche Leistungen oder Leistungsbereiche von solchen Zielvereinbarungen betroffen sind.
 
+# § 135d – Transparenz der Qualität der Krankenhausbehandlung
+
+(1) Das Bundesministerium für Gesundheit veröffentlicht ab dem 1. Mai 2024 in einem Transparenzverzeichnis zur Krankenhausbehandlung in Deutschland im Internet insbesondere die in Absatz 3 genannten Informationen barrierefrei in leicht verständlicher, interaktiver Form. Das Bundesministerium für Gesundheit aktualisiert das Transparenzverzeichnis fortlaufend auf Grundlage aktueller Daten und Auswertungen nach Absatz 3 und untersucht die Nutzung des Transparenzverzeichnisses durch die Öffentlichkeit. Es benennt eine Stelle, die die technische Umsetzung der Veröffentlichung des Transparenzverzeichnisses durchführt. Die Veröffentlichung von Informationen im Transparenzverzeichnis erfolgt ohne Personenbezug. Die nach Satz 3 benannte Stelle stellt die im Transparenzverzeichnis veröffentlichten Daten und die dem Transparenzverzeichnis zugrundeliegenden Daten, die das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen nach Absatz 2 Satz 4 und das Institut für das Entgeltsystem im Krankenhaus nach § 21 Absatz 3d Satz 3 des Krankenhausentgeltgesetzes übermittelt haben, in maschinenlesbarer Form sowie ab 1. Januar 2026 über eine technische Schnittstelle öffentlich entgeltfrei zur Verfügung.
+
+(2) Das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen bereitet für die Veröffentlichung und Aktualisierung des Transparenzverzeichnisses nach Absatz 3 die erforderlichen stets aktuellsten Daten fortlaufend auf und nimmt für das Transparenzverzeichnis geeignete Bewertungen vor. Das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen wählt aus den Daten, die es als unabhängige Stelle im Sinne des § 299 Absatz 3 Satz 1 für die in § 136 Absatz 1 Satz 1 Nummer 1 genannten Maßnahmen zur datengestützten einrichtungsübergreifenden Qualitätssicherung erhält, die für das Transparenzverzeichnis geeigneten patientenrelevanten Ergebnisse aus und führt diese mit den nach § 21 Absatz 3d Satz 3 des Krankenhausentgeltgesetzes vom Institut für das Entgeltsystem im Krankenhaus übermittelten Daten zusammen. Das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen kann auf Grundlage der nach § 21 Absatz 3d Satz 3 des Krankenhausentgeltgesetzes vom Institut für das Entgeltsystem im Krankenhaus übermittelten Daten weitere Auswertungen und Bewertungen vornehmen. Das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen übermittelt die nach den Sätzen 1 bis 3 aufbereiteten aktuellsten Daten ohne Personenbezug unverzüglich an die nach Absatz 1 Satz 3 benannte Stelle. Es hat bei der Übermittlung gegenüber der nach Absatz 1 Satz 3 benannten Stelle die Richtigkeit und Sachlichkeit der übermittelten Daten zu erklären. Satz 5 gilt nicht für die nach § 21 Absatz 3d des Krankenhausentgeltgesetzes übermittelten Daten. Bei der Wahrnehmung der Aufgaben nach den Sätzen 1 bis 3 kann das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen externen wissenschaftlichen Sachverstand einbeziehen, ohne dabei einen Zugriff auf personenbezogene Daten zu gewähren. Die termingerechte Wahrnehmung der Aufgaben nach den Sätzen 1 bis 4 und Absatz 6 sowie deren Finanzierung sind von der Trägerin des Instituts für Qualitätssicherung und Transparenz im Gesundheitswesen sicherzustellen. § 137a Absatz 8 gilt auch für die Finanzierung der Aufgaben nach den Sätzen 1 bis 4 und Absatz 6.
+
+(3) Im Transparenzverzeichnis nach Absatz 1 Satz 1 werden insbesondere folgende Informationen zu einzelnen Standorten von Krankenhäusern im Sinne des Satzes 2 sowie Bewertungen dieser Informationen veröffentlicht:
+
+1. die Fallzahl der erbrachten Leistungen bis zum 30. September 2024 differenziert nach Fachabteilungen und ab dem 1. Oktober 2024 differenziert nach den in Anlage 1 genannten Leistungsgruppen sowie die Fallzahl der für Patienten besonders relevanten erbrachten Leistungen, die das Institut für das Entgeltsystem im Krankenhaus im Einvernehmen mit dem Institut für Qualitätssicherung und Transparenz im Gesundheitswesen bestimmt,
+
+2. die nach Absatz 4 zugeordnete Versorgungsstufe,
+
+3. die personelle Ausstattung im Verhältnis zum Leistungsumfang,
+
+4. die patientenrelevanten Ergebnisse aus den in § 136 Absatz 1 Satz 1 Nummer 1 genannten Maßnahmen zur datengestützten einrichtungsübergreifenden Qualitätssicherung, auch in zusammengefasster Form,
+
+5. das Vorliegen aussagekräftiger Qualitätssiegel und Zertifikate über die stationäre Versorgung, die ein Krankenhausträger gegenüber dem Institut für Qualitätssicherung und Transparenz im Gesundheitswesen nachgewiesen hat,
+
+6. die Erfüllung der vom Gemeinsamen Bundesausschuss nach § 136b Absatz 1 Satz 1 Nummer 2 beschlossenen Mindestmengen sowie der Entscheidungen der für die Krankenhausplanung zuständigen Landesbehörden nach § 136b Absatz 5a über die Nichtanwendung von § 136b Absatz 5 Satz 1 und 2,
+
+7. die Stufe der Notfallversorgung nach dem vom Gemeinsamen Bundesausschuss gemäß § 136c Absatz 4 beschlossenen gestuften System von Notfallstrukturen in Krankenhäusern.
+
+Der Standort eines Krankenhauses bestimmt sich nach § 2 der zwischen dem Spitzenverband Bund der Krankenkassen und der Deutschen Krankenhausgesellschaft gemäß § 2a Absatz 1 des Krankenhausfinanzierungsgesetzes getroffenen Vereinbarung über die Definition von Standorten der Krankenhäuser und ihrer Ambulanzen vom 29. August 2017, die auf der Internetseite der Deutschen Krankenhausgesellschaft veröffentlicht ist. Abweichend von Satz 1 Nummer 1 werden die in dieser Nummer genannten Informationen zu den Standorten von Krankenhäusern, denen die für die Krankenhausplanung zuständige Landesbehörde bis zum 28. März 2024 Leistungsgruppen zugewiesen hat, im Transparenzverzeichnis im Zeitraum bis zum 31. Dezember 2025 differenziert nach diesen zugewiesenen Leistungsgruppen veröffentlicht. Die von Satz 3 betroffenen Standorte von Krankenhäusern sind im Transparenzverzeichnis gesondert zu kennzeichnen. Bei Bundeswehrkrankenhäusern und Krankenhäusern der gesetzlichen Unfallversicherung umfasst die Fallzahl der erbrachten Leistungen nach Satz 1 Nummer 1 auch die Krankenhausfälle, in denen sie nicht Zivilpatienten behandeln oder in denen die Kosten von der gesetzlichen Unfallversicherung getragen werden. Auch für diese Leistungen haben die Bundeswehrkrankenhäuser und die Krankenhäuser der gesetzlichen Unfallversicherung die Angaben nach § 21 Absatz 2 Nummer 2 Buchstabe b, d, e, f und i des Krankenhausentgeltgesetzes ohne die Postleitzahl, den Wohnort und Stadtteil im Falle von Stadtstaaten an das Institut für das Entgeltsystem im Krankenhaus zu übermitteln und diese gesondert auszuweisen. Aufgrund des besonderen Auftrages und des besonderen Zuschnitts der Krankenhäuser der gesetzlichen Unfallversicherung und ihrer Vereinigungen beinhaltet die Veröffentlichung der Versorgungsstufe nach Satz 1 Nummer 2 im Transparenzverzeichnis die Angabe, dass es sich um ein Krankenhaus der gesetzlichen Unfallversicherung handelt. Dem Institut für Qualitätssicherung und Transparenz im Gesundheitswesen übermitteln unverzüglich je Standort eines Krankenhauses
+
+1. die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam und einheitlich die in § 136b Absatz 5 Satz 7 genannten Informationen der erfolgten Prognoseprüfungen und die Entscheidungen der für die Krankenhausplanung zuständigen Landesbehörden nach § 136b Absatz 5a über die Nichtanwendung von § 136b Absatz 5 Satz 1 und 2 sowie
+
+2. die Krankenhäuser die aktuellen Informationen über die Teilnahme an dem vom Gemeinsamen Bundesausschuss gemäß § 136c Absatz 4 beschlossenen gestuften System von Notfallstrukturen in Krankenhäusern.
+
+Das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen übermittelt dem Institut für das Entgeltsystem im Krankenhaus die Informationen nach Satz 8 Nummer 2, sofern dies für die Auswertungen für das Transparenzverzeichnis erforderlich ist.
+
+(4) Das Institut für das Entgeltsystem im Krankenhaus ordnet jeden Standort eines Krankenhauses zum Zweck der Veröffentlichung im Transparenzverzeichnis auf der Grundlage der von den Krankenhäusern nach § 21 Absatz 1 des Krankenhausentgeltgesetzes übermittelten Daten einer Versorgungsstufe zu. Ein Standort eines Krankenhauses ist zuzuordnen der
+
+1. Versorgungsstufe „Level 3U“, wenn es sich um einen Standort einer Hochschulklinik handelt und an ihm Leistungen aus mindestens fünf internistischen Leistungsgruppen, mindestens fünf chirurgischen Leistungsgruppen, der Leistungsgruppe Intensivmedizin, der Leistungsgruppe Notfallmedizin sowie zusätzlich aus acht weiteren Leistungsgruppen erbracht werden,
+
+2. Versorgungsstufe „Level 3“, wenn an ihm die in Nummer 1 genannten Leistungen erbracht werden und es sich nicht um einen Standort einer Hochschulklinik handelt,
+
+3. Versorgungsstufe „Level 2“, wenn an ihm Leistungen aus mindestens zwei internistischen Leistungsgruppen, mindestens zwei chirurgischen Leistungsgruppen, der Leistungsgruppe Intensivmedizin, der Leistungsgruppe Notfallmedizin sowie zusätzlich drei weiteren Leistungsgruppen erbracht werden,
+
+4. Versorgungsstufe „Level 1n“, wenn an ihm Leistungen aus mindestens der Leistungsgruppe Allgemeine Innere Medizin, der Leistungsgruppe Allgemeine Chirurgie, der Leistungsgruppe Intensivmedizin sowie der Leistungsgruppe Notfallmedizin erbracht werden oder wenn es sich um ein in Satz 3 oder Satz 4 genanntes Krankenhaus handelt, das noch nicht der Versorgungsstufe „Level F“ oder „Level 1i“ zugeordnet wurde.
+
+Fachkrankenhäuser, die sich auf die Behandlung einer bestimmten Erkrankung, Krankheitsgruppe oder Personengruppe spezialisiert haben und einen relevanten Versorgungsanteil in diesem Bereich leisten, werden von der für die Krankenhausplanung zuständigen Landesbehörde der Versorgungsstufe „Level F“ zugeordnet. Krankenhäuser, die eine sektorenübergreifende Versorgung und in der Regel keine Notfallmedizin erbringen, werden von der für die Krankenhausplanung zuständigen Landesbehörde der Versorgungsstufe „Level 1i“ zugeordnet. Eine Zuordnung nach Satz 3 oder Satz 4 tritt an die Stelle einer Zuordnung nach Satz 2 Nummer 4, sofern diese bereits erfolgt ist. Die in den Sätzen 3 und 4 genannten Krankenhäuser sind im Transparenzverzeichnis gesondert zu kennzeichnen. Die für die Krankenhausplanung zuständige Landesbehörde teilt dem Institut für das Entgeltsystem im Krankenhaus unverzüglich eine Zuordnung nach Satz 3 oder Satz 4 oder eine Änderung dieser Zuordnung mit. Das Bundesministerium für Gesundheit bestimmt auf Vorschlag des Instituts für das Entgeltsystem im Krankenhaus, in welchen Fällen bei der Zuordnung zu einer Versorgungsstufe eine Leistungsgruppe nicht zu berücksichtigen ist, weil der Standort eines Krankenhauses im bundesweiten Vergleich wenig Behandlungsfälle in der Leistungsgruppe erbracht hat.
+
+(5) Gegen die Veröffentlichung im Transparenzverzeichnis ist der Rechtsweg vor den Gerichten der Sozialgerichtsbarkeit gegeben.
+
+(6) Das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen prüft, welchen Einfluss
+
+1. die personelle Ausstattung weiterer im Krankenhaus tätiger Gesundheitsberufe und
+
+2. der jeweilige Anteil von Leiharbeit bei Ärzten und Pflegepersonal
+
+auf die Qualität der Versorgung hat. Das Institut prüft außerdem, welche zusätzlichen Daten erhoben und gemeldet werden müssen, um diesen Einfluss prospektiv weiter untersuchen und transparent ausweisen zu können. Das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen prüft zudem, bei welchen Leistungen ein Zusammenhang zwischen arztbezogener Fallzahl und der Qualität der Leistungserbringung besteht und welche Daten konkret erforderlich sind, um diesen Zusammenhang auszuwerten. Das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen legt dem Bundesministerium für Gesundheit bis zum 31. Dezember 2024 einen Bericht über die Ergebnisse der Prüfung nach den Sätzen 1 und 2 vor.
+
 # § 136 – Richtlinien des Gemeinsamen Bundesausschusses zur Qualitätssicherung
 
 (1) Der Gemeinsame Bundesausschuss bestimmt für die vertragsärztliche Versorgung und für zugelassene Krankenhäuser grundsätzlich einheitlich für alle Patienten durch Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 13 insbesondere
@@ -6569,7 +6622,7 @@ Soweit erforderlich erlässt der Gemeinsame Bundesausschuss die notwendigen Durc
 
 Soweit erforderlich erlässt der Gemeinsame Bundesausschuss die notwendigen Durchführungsbestimmungen. § 136 Absatz 2 und 3 gilt entsprechend. Arzneimittel für neuartige Therapien im Sinne von § 4 Absatz 9 des Arzneimittelgesetzes dürfen ausschließlich von Leistungserbringern angewendet werden, die die vom Gemeinsamen Bundesausschuss beschlossenen Mindestanforderungen nach den Sätzen 1 bis 3 erfüllen.
 
-(6) Der Gemeinsame Bundesausschuss legt in einer Richtlinie erstmals bis zum 31. Dezember 2022 einheitliche Anforderungen für die Information der Öffentlichkeit zum Zweck der Erhöhung der Transparenz und der Qualität der Versorgung durch einrichtungsbezogene risikoadjustierte Vergleiche der an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer und zugelassenen Krankenhäuser auf der Basis der einrichtungsbezogenen Auswertungen nach Maßgabe des § 299 (Qualitätsdaten) fest. Er trifft insbesondere Festlegungen zu Inhalt, Art, Umfang und Plausibilisierung der für diesen Zweck durch den Gemeinsamen Bundesausschuss oder einen von ihm beauftragten Dritten einrichtungsbezogen zu verarbeitenden Qualitätsdaten sowie zu Inhalt, Art, Umfang und Verfahren der Veröffentlichung der risikoadjustierten Vergleichsdaten in übersichtlicher Form und in allgemein verständlicher Sprache. Die Erforderlichkeit der Datenverarbeitung für die Information der Öffentlichkeit zum Zweck der Erhöhung der Transparenz und der Qualität der Versorgung durch einrichtungsbezogene risikoadjustierte Vergleiche ist in der Richtlinie darzulegen. Die Veröffentlichung der Vergleichsdaten hat einrichtungsbezogen und mindestens jährlich auf Basis aktueller Qualitätsdaten zu erfolgen. Die Ergebnisse der Beauftragung des Instituts für Qualitätssicherung und Transparenz im Gesundheitswesen gemäß § 137a Absatz 3 Satz 2 Nummer 5 und 6 sollen in der Richtlinie nach Satz 1 berücksichtigt werden. Der Gemeinsame Bundesausschuss evaluiert regelmäßig die in der Richtlinie bestimmten Qualitätsdaten und Vergleichsdaten im Hinblick auf ihre Eignung und Erforderlichkeit zur Erreichung des festgelegten Ziels. Über die Ergebnisse hat der Gemeinsame Bundesausschuss dem Bundesministerium für Gesundheit alle zwei Jahre, erstmals bis zum 31. Dezember 2024, zu berichten. Mit der Evaluation nach Satz 6 kann der Gemeinsame Bundesausschuss das Institut nach § 137a beauftragen.
+(6) Der Gemeinsame Bundesausschuss legt in einer Richtlinie erstmals bis zum 31. Dezember 2022 einheitliche Anforderungen für die Information der Öffentlichkeit zum Zweck der Erhöhung der Transparenz und der Qualität der Versorgung durch einrichtungsbezogene risikoadjustierte Vergleiche der an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer auf der Basis der einrichtungsbezogenen Auswertungen nach Maßgabe des § 299 (Qualitätsdaten) fest. Er trifft insbesondere Festlegungen zu Inhalt, Art, Umfang und Plausibilisierung der für diesen Zweck durch den Gemeinsamen Bundesausschuss oder einen von ihm beauftragten Dritten einrichtungsbezogen zu verarbeitenden Qualitätsdaten sowie zu Inhalt, Art, Umfang und Verfahren der Veröffentlichung der risikoadjustierten Vergleichsdaten in übersichtlicher Form und in allgemein verständlicher Sprache. Die Erforderlichkeit der Datenverarbeitung für die Information der Öffentlichkeit zum Zweck der Erhöhung der Transparenz und der Qualität der Versorgung durch einrichtungsbezogene risikoadjustierte Vergleiche ist in der Richtlinie darzulegen. Die Veröffentlichung der Vergleichsdaten hat einrichtungsbezogen und mindestens jährlich auf Basis aktueller Qualitätsdaten zu erfolgen. Die Ergebnisse der Beauftragung des Instituts für Qualitätssicherung und Transparenz im Gesundheitswesen gemäß § 137a Absatz 3 Satz 2 Nummer 6 sollen in der Richtlinie nach Satz 1 berücksichtigt werden. Der Gemeinsame Bundesausschuss evaluiert regelmäßig die in der Richtlinie bestimmten Qualitätsdaten und Vergleichsdaten im Hinblick auf ihre Eignung und Erforderlichkeit zur Erreichung des festgelegten Ziels. Über die Ergebnisse hat der Gemeinsame Bundesausschuss dem Bundesministerium für Gesundheit alle zwei Jahre, erstmals bis zum 31. Dezember 2024, zu berichten. Mit der Evaluation nach Satz 6 kann der Gemeinsame Bundesausschuss das Institut nach § 137a beauftragen.
 
 # § 136b – Beschlüsse des Gemeinsamen Bundesausschusses zur Qualitätssicherung im Krankenhaus
 
@@ -6687,7 +6740,7 @@ Die Maßnahmen sind verhältnismäßig zu gestalten und anzuwenden. Der Gemeinsa
 
 4. die Ergebnisse der Qualitätssicherungsmaßnahmen in geeigneter Weise und in einer für die Allgemeinheit verständlichen Form zu veröffentlichen,
 
-5. auf der Grundlage geeigneter Daten, die in den Qualitätsberichten der Krankenhäuser veröffentlicht werden, einrichtungsbezogen vergleichende risikoadjustierte Übersichten über die Qualität in maßgeblichen Bereichen der stationären Versorgung zu erstellen und in einer für die Allgemeinheit verständlichen Form im Internet zu veröffentlichen; Ergebnisse nach Nummer 6 sollen einbezogen werden,
+5. (weggefallen)
 
 6. für die Weiterentwicklung der Qualitätssicherung zu ausgewählten Leistungen die Qualität der ambulanten und stationären Versorgung zusätzlich auf der Grundlage geeigneter Sozialdaten darzustellen, die dem Institut von den Krankenkassen nach § 299 Absatz 1a auf der Grundlage von Richtlinien und Beschlüssen des Gemeinsamen Bundesausschusses übermittelt werden, sowie
 
@@ -6907,7 +6960,7 @@ Der Standort eines Krankenhauses bestimmt sich nach § 2 der zwischen dem Spitze
 
 # § 137j – Pflegepersonalquotienten, Verordnungsermächtigung
 
-(1) Zur Verbesserung der Pflegepersonalausstattung der Krankenhäuser und Sicherung der pflegerischen Versorgungsqualität ermittelt das Institut für das Entgeltsystem im Krankenhaus jährlich, erstmals zum 31. Mai 2020, für jedes nach § 108 zugelassene Krankenhaus einen Pflegepersonalquotienten, der das Verhältnis der Anzahl der Vollzeitkräfte in der unmittelbaren Patientenversorgung auf bettenführenden Stationen zu dem Pflegeaufwand eines Krankenhauses beschreibt. Der Pflegepersonalquotient ist für jeden Standort eines Krankenhauses zu ermitteln. Der Standort eines Krankenhauses bestimmt sich nach § 2 der zwischen dem Spitzenverband Bund der Krankenkassen und der Deutschen Krankenhausgesellschaft gemäß § 2a Absatz 1 des Krankenhausfinanzierungsgesetzes getroffenen Vereinbarung über die Definition von Standorten der Krankenhäuser und ihrer Ambulanzen vom 29. August 2017, die auf der Internetseite der Deutschen Krankenhausgesellschaft veröffentlicht ist. Für die Zahl der in Satz 1 genannten Vollzeitkräfte sind die dem Institut nach § 21 Absatz 2 Nummer 1 Buchstabe e des Krankenhausentgeltgesetzes übermittelten Daten zu Grunde zu legen, mit Ausnahme der den Mindestvorgaben zu Personalausstattung nach § 136a Absatz 2 Satz 2 unterfallenden Vollzeitkräfte in der unmittelbaren Patientenversorgung auf bettenführenden Stationen. Das nach Satz 4 für die Zahl der in Satz 1 genannten Vollzeitkräfte zugrunde zu legende Pflegepersonal, das nicht über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 des Pflegeberufegesetzes, § 58 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes oder § 64 des Pflegeberufegesetzes, auch in Verbindung mit § 66 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes, verfügt, ist bis zur Höhe des jeweils obersten Quartils des an allen Standorten mit den jeweiligen Berufsbezeichnungen eingesetzten Pflegepersonals einzubeziehen. Für die Ermittlung des Pflegeaufwands erstellt das Institut bis zum 31. Mai 2020 einen Katalog zur Risikoadjustierung des Pflegeaufwands, mit dem für die Entgelte nach § 17b Absatz 1 des Krankenhausfinanzierungsgesetzes tagesbezogen die durchschnittlichen pflegerischen Leistungen abbildbar sind. Das Institut aktualisiert den Katalog jährlich und veröffentlicht ihn auf seiner Internetseite. Für die Ermittlung des Pflegeaufwands ermittelt das Institut auf der Grundlage dieses Katalogs aus den ihm nach § 21 Absatz 2 des Krankenhausentgeltgesetzes übermittelten Daten für jeden Standort eines Krankenhauses die Summe seiner Bewertungsrelationen. Das Institut veröffentlicht unter Angabe des Namens und der Kennzeichen nach § 293 Absatz 1 und 6 eine vergleichende Zusammenstellung der für jeden Standort eines Krankenhauses ermittelten Pflegepersonalquotienten bis zum 31. August eines Jahres, erstmals bis zum 31. August 2021, barrierefrei auf seiner Internetseite. In der Veröffentlichung weist das Institut standortbezogen auch die prozentuale Zusammensetzung des Pflegepersonals nach Berufsbezeichnungen auf Grundlage der nach § 21 Absatz 2 Nummer 1 Buchstabe e des Krankenhausentgeltgesetzes übermittelten Daten aus.
+(1) Zur Verbesserung der Pflegepersonalausstattung der Krankenhäuser und Sicherung der pflegerischen Versorgungsqualität ermittelt das Institut für das Entgeltsystem im Krankenhaus jährlich, erstmals zum 31. Mai 2020, für jedes nach § 108 zugelassene Krankenhaus einen Pflegepersonalquotienten, der das Verhältnis der Anzahl der Vollzeitkräfte in der unmittelbaren Patientenversorgung auf bettenführenden Stationen zu dem Pflegeaufwand eines Krankenhauses beschreibt. Der Pflegepersonalquotient ist für jeden Standort eines Krankenhauses zu ermitteln. Der Standort eines Krankenhauses bestimmt sich nach § 2 der zwischen dem Spitzenverband Bund der Krankenkassen und der Deutschen Krankenhausgesellschaft gemäß § 2a Absatz 1 des Krankenhausfinanzierungsgesetzes getroffenen Vereinbarung über die Definition von Standorten der Krankenhäuser und ihrer Ambulanzen vom 29. August 2017, die auf der Internetseite der Deutschen Krankenhausgesellschaft veröffentlicht ist. Für die Zahl der in Satz 1 genannten Vollzeitkräfte sind die dem Institut nach § 21 Absatz 2 Nummer 1 Buchstabe e des Krankenhausentgeltgesetzes übermittelten Daten zu Grunde zu legen, mit Ausnahme der den Mindestvorgaben zu Personalausstattung nach § 136a Absatz 2 Satz 2 unterfallenden Vollzeitkräfte in der unmittelbaren Patientenversorgung auf bettenführenden Stationen. Das nach Satz 4 für die Zahl der in Satz 1 genannten Vollzeitkräfte zugrunde zu legende Pflegepersonal, das nicht über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 des Pflegeberufegesetzes, § 58 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes oder § 64 des Pflegeberufegesetzes, auch in Verbindung mit § 66 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes, verfügt, ist bis zur Höhe des jeweils obersten Quartils des an allen Standorten mit den jeweiligen Berufsbezeichnungen eingesetzten Pflegepersonals einzubeziehen. Für die Ermittlung des Pflegeaufwands erstellt das Institut bis zum 31. Mai 2020 einen Katalog zur Risikoadjustierung des Pflegeaufwands, mit dem für die Entgelte nach § 17b Absatz 1 des Krankenhausfinanzierungsgesetzes tagesbezogen die durchschnittlichen pflegerischen Leistungen abbildbar sind. Das Institut aktualisiert den Katalog jährlich und veröffentlicht ihn auf seiner Internetseite. Für die Ermittlung des Pflegeaufwands ermittelt das Institut auf der Grundlage dieses Katalogs aus den ihm nach § 21 Absatz 2 des Krankenhausentgeltgesetzes übermittelten Daten für jeden Standort eines Krankenhauses die Summe seiner Bewertungsrelationen. Das Institut veröffentlicht unter Angabe des Namens und der Kennzeichen nach § 293 Absatz 1 und 6 eine vergleichende Zusammenstellung der für jeden Standort eines Krankenhauses ermittelten Pflegepersonalquotienten bis zum 31. Oktober eines Jahres barrierefrei auf seiner Internetseite. In der Veröffentlichung weist das Institut standortbezogen auch die prozentuale Zusammensetzung des Pflegepersonals nach Berufsbezeichnungen auf Grundlage der nach § 21 Absatz 2 Nummer 1 Buchstabe e des Krankenhausentgeltgesetzes übermittelten Daten aus.
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, auf der Grundlage der durch das Institut für das Entgeltsystem im Krankenhaus nach Absatz 1 ermittelten Pflegepersonalquotienten der Krankenhäuser durch Rechtsverordnung mit Zustimmung des Bundesrates eine Untergrenze für das erforderliche Verhältnis zwischen Pflegepersonal und Pflegeaufwand festzulegen, bei der widerlegbar vermutet wird, dass eine nicht patientengefährdende pflegerische Versorgung noch gewährleistet ist. Für den Fall, dass der Pflegepersonalquotient eines Krankenhauses die in der Rechtsverordnung nach Satz 1 festgelegte Untergrenze unterschreitet, vereinbaren der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft im Benehmen mit dem Verband der Privaten Krankenversicherung mit Wirkung für die Vertragspartner nach § 11 des Krankenhausentgeltgesetzes die Höhe und nähere Ausgestaltung der Sanktionen nach Absatz 2a. Kommt eine Vereinbarung über die Sanktionen nach Satz 2 bis zum 30. Juni 2019 nicht zustande, trifft die Schiedsstelle nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes ohne Antrag einer Vertragspartei nach Satz 2 innerhalb von sechs Wochen die ausstehenden Entscheidungen. Die Rechtsverordnung nach Satz 1 regelt das Nähere
 
@@ -6969,6 +7022,8 @@ b) Anzahl der in der jeweiligen Station auf Grundlage des Pflegebedarfs einzuset
 
 7. zur Übermittlung nach Absatz 1 Satz 4.
 
+Für den Fall, dass Krankenhäuser ihre in der Verordnung nach Satz 1 bestimmten Erfassungs- und Übermittlungspflichten nach Satz 2 Nummer 3 und 4 nicht, nicht vollständig oder nicht rechtzeitig erfüllen, haben der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft im Benehmen mit dem Verband der Privaten Krankenversicherung e. V. innerhalb von sechs Monaten nach Inkrafttreten der Verordnung nach Satz 1 eine Vereinbarung mit Wirkung für die Vertragsparteien nach § 11 des Krankenhausentgeltgesetzes über Vergütungsabschläge, ihre Höhe sowie ihre nähere Ausgestaltung zu schließen. Kommt eine Vereinbarung nach Satz 3 innerhalb der im Satz 3 vorgesehenen Frist nicht zustande, trifft die Schiedsstelle nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes ohne Antrag einer Vertragspartei nach Satz 3 innerhalb von sechs Wochen die ausstehenden Entscheidungen.
+
 (5) Das Bundesministerium für Gesundheit wird ermächtigt, aufgrund der in der Rechtsverordnung nach Absatz 4 vorgesehenen Datenerfassung zur Festlegung des konkreten erforderlichen Erfüllungsgrads der Soll-Personalbesetzung in der Rechtsverordnung nach Absatz 4 mit Zustimmung des Bundesrates und im Einvernehmen mit dem Bundesministerium der Finanzen Regelungen zu treffen
 
 1. zur schrittweisen Anpassung der Ist-Personalbesetzung an den konkreten erforderlichen Erfüllungsgrad der Soll-Personalbesetzung durch das Krankenhaus,
@@ -6993,7 +7048,7 @@ b) die Anpassung der Ist-Personalbesetzung an die Soll-Personalbesetzung nachzuw
 
 (3) Die Vertragsparteien nach Absatz 1 Satz 1 legen dem Bundesministerium für Gesundheit vor der Beauftragung nach Absatz 1 Satz 4 und spätestens bis zum 31. März 2023 eine Beschreibung des Inhalts der Beauftragung sowie einen Zeitplan mit konkreten Zeitzielen vor. Die Beauftragung nach Absatz 1 Satz 4 hat spätestens bis zum 30. September 2023 zu erfolgen. Die Vertragsparteien nach Absatz 1 Satz 1 sind verpflichtet, dem Bundesministerium für Gesundheit fortlaufend, insbesondere wenn die Umsetzung der Vorgaben nach Absatz 1 oder die Erreichung der gesetzlich oder in dem Zeitplan nach Satz 1 festgelegten Zeitziele gefährdet sind, und auf dessen Verlangen unverzüglich Auskunft über den Bearbeitungsstand der Entwicklung, Erprobung und der Auftragsvergabe sowie über Problembereiche und mögliche Lösungen zu geben.
 
-(4) Wird ein gesetzlich oder ein in dem Zeitplan nach Absatz 3 Satz 1 festgelegtes Zeitziel nicht fristgerecht erreicht und ist deshalb die fristgerechte Weiterentwicklung gefährdet, kann das Bundesministerium für Gesundheit nach Fristablauf einzelne Verfahrensschritte selbst durchführen. Haben sich die Vertragsparteien nach Absatz 1 Satz 1 bis zum 31. März 2023 nicht über den Inhalt der Beauftragung nach Absatz 1 Satz 4 geeinigt, beauftragt das Bundesministerium für Gesundheit die Entwicklung und Erprobung nach Absatz 1 Satz 4 spätestens bis zum 31. Dezember 2023 auf Kosten der Vertragsparteien nach Absatz 1 Satz 1.
+(4) Wird ein gesetzlich oder ein in dem Zeitplan nach Absatz 3 Satz 1 festgelegtes Zeitziel nicht fristgerecht erreicht und ist deshalb die fristgerechte Weiterentwicklung gefährdet, kann das Bundesministerium für Gesundheit nach Fristablauf einzelne Verfahrensschritte selbst durchführen. Haben sich die Vertragsparteien nach Absatz 1 Satz 1 bis zum 31. März 2023 nicht über den Inhalt der Beauftragung nach Absatz 1 Satz 4 geeinigt oder ist keine Beauftragung innerhalb der in Absatz 3 Satz 2 festgelegten Frist erfolgt, kann das Bundesministerium für Gesundheit die Beauftragung nach Absatz 1 Satz 4 auf Kosten der Vertragsparteien nach Absatz 1 Satz 1 vornehmen.
 
 # § 138 – Neue Heilmittel
 
@@ -8105,9 +8160,25 @@ Der Arbeitgeber hat die versicherungspflichtig Beschäftigten nach den §§ 28a 
 
 (1) Die Zahlstelle hat bei der erstmaligen Bewilligung von Versorgungsbezügen sowie bei Mitteilung über die Beendigung der Mitgliedschaft eines Versorgungsempfängers und in den Fällen des § 5 Absatz 1 Nummer 11b die zuständige Krankenkasse des Versorgungsempfängers zu ermitteln und dieser Beginn, Höhe, Veränderungen und Ende der Versorgungsbezüge und in den Fällen des § 5 Absatz 1 Nummer 11b den Tag der Antragstellung sowie in den Fällen von Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 5 erster Halbsatz deren Vorliegen unverzüglich mitzuteilen; in der Mitteilung ist auch anzugeben, ob der Versorgungsempfänger nach dem Ende des Arbeitsverhältnisses als alleiniger Versicherungsnehmer Leistungen aus nicht durch den Arbeitgeber finanzierten Beiträgen erworben hat. Im Falle eines Versorgungsbezuges nach § 229 Absatz 1 Satz 1 Nummer 1, 3 und 4 hat die Zahlstelle zusätzlich anzugeben, ob es sich um eine den Waisenrenten gemäß § 48 des Sechsten Buches entsprechende Leistung nach § 15 des Gesetzes über die Alterssicherung der Landwirte, aus einem Dienst- oder Arbeitsverhältnis gemäß § 229 Absatz 1 Satz 1 Nummer 1 oder einer berufsständischen Versorgungseinrichtung unter den Voraussetzungen des § 5 Absatz 1 Nummer 11b Buchstabe b handelt. Bei den am 1. Januar 1989 vorhandenen Versorgungsempfängern hat die Ermittlung der Krankenkasse innerhalb von sechs Monaten zu erfolgen. Der Versorgungsempfänger hat der Zahlstelle seine Krankenkasse anzugeben und einen Kassenwechsel sowie die Aufnahme einer versicherungspflichtigen Beschäftigung anzuzeigen. Die Krankenkasse hat der Zahlstelle von Versorgungsbezügen und dem Bezieher von Versorgungsbezügen unverzüglich die Beitragspflicht des Versorgungsempfängers und, soweit die Summe der beitragspflichtigen Einnahmen nach § 237 Satz 1 Nummer 1 und 2 die Beitragsbemessungsgrenze überschreitet, deren Umfang mitzuteilen. Die Krankenkasse hat der Zahlstelle im Falle des Mehrfachbezugs von Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 5 erster Halbsatz zusätzlich mitzuteilen, ob und in welcher Höhe der Freibetrag nach § 226 Absatz 2 Satz 2 anzuwenden ist.
 
+(1a) Die Zahlstelle hat ab dem 1. Juli 2025 bei Beginn eines in der sozialen Pflegeversicherung beitragspflichtigen Versorgungsbezuges eine Meldung im Sinne des § 55a Absatz 3 des Elften Buches über die zentrale Stelle nach § 81 des Einkommensteuergesetzes an das Bundeszentralamt für Steuern zu richten. Bei Ende des beitragspflichtigen Versorgungsbezuges hat sie eine Meldung nach § 55a Absatz 6 des Elften Buches zu erstatten. Bei der erstmaligen Bewilligung von Versorgungsbezügen hat die Meldung innerhalb von sieben Tagen nach Eingang der Meldung der Krankenkasse nach Absatz 1 Satz 5 zu erfolgen. Die Meldung zur Beendigung des Versorgungsbezuges ist zeitgleich mit der Meldung nach Absatz 1 Satz 1 zu erstatten. Bei Beendigung der Beitragsabführungspflicht während des Versorgungsbezuges ist eine Abmeldung innerhalb von sechs Wochen vorzunehmen. In der Meldung sind insbesondere anzugeben:
+
+1. das Geburtsdatum des Versorgungsbeziehers,
+
+2. die steuerliche Identifikationsnummer des Versorgungsbeziehers nach § 139b der Abgabenordnung,
+
+3. der Tag des Beginns oder des Endes des Versorgungsbezuges,
+
+4. die Zahlstellennummer der Zahlstelle.
+
+Bei Meldung des Beginns eines Versorgungsbezuges hat das Bundeszentralamt für Steuern über die zentrale Stelle nach § 81 des Einkommensteuergesetzes der Zahlstelle unverzüglich die auf den Tag des Beginns des Versorgungsbezuges bezogenen erforderlichen Daten zum Nachweis der Elterneigenschaft sowie zur Ermittlung der Anzahl der berücksichtigungsfähigen Kinder nach Maßgabe des § 55a Absatz 4 Satz 1 und 2 des Elften Buches zu übermitteln. Änderungen bei der Elterneigenschaft oder der Anzahl der berücksichtigungsfähigen Kinder während eines laufenden Versorgungbezuges werden der Zahlstelle nach Maßgabe des § 55a Absatz 5 des Elften Buches mitgeteilt.
+
 (2) Die Zahlstelle hat der zuständigen Krankenkasse die Meldung durch gesicherte und verschlüsselte Datenübertragung aus systemgeprüften Programmen oder mittels maschineller Ausfüllhilfen zu erstatten. Die Krankenkasse hat nach inhaltlicher Prüfung alle fehlerfreien Angaben elektronisch zu verarbeiten. Alle Rückmeldungen der Krankenkasse an die Zahlstelle erfolgen arbeitstäglich durch Datenübertragung. Den Aufbau des Datensatzes, notwendige Schlüsselzahlen und Angaben legt der Spitzenverband Bund der Krankenkassen in Grundsätzen fest, die vom Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit zu genehmigen sind; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist anzuhören.
 
 (3) Die Zahlstellen haben für die Durchführung der Meldeverfahren nach diesem Gesetzbuch eine Zahlstellennummer beim Spitzenverband Bund der Krankenkassen elektronisch zu beantragen. Die Zahlstellennummern und alle Angaben, die zur Vergabe der Zahlstellennummer notwendig sind, werden in einer gesonderten elektronischen Datei beim Spitzenverband Bund der Krankenkassen gespeichert. Die Sozialversicherungsträger, ihre Verbände und ihre Arbeitsgemeinschaften, die Künstlersozialkasse, die Behörden der Zollverwaltung, soweit sie Aufgaben nach § 2 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 66 des Zehnten Buches wahrnehmen, sowie die zuständigen Aufsichtsbehörden und die Arbeitgeber dürfen die ihnen von den Zahlstellen zur Erfüllung einer gesetzlichen Aufgabe nach diesem Buch übermittelten Zahlstellennummern verarbeiten, soweit dies für die Erfüllung einer gesetzlichen Aufgabe nach diesem Gesetzbuch erforderlich ist. Andere Behörden, Gerichte oder Dritte dürfen die Zahlstellennummern verarbeiten, sofern sie nach anderen gesetzlichen Vorschriften zu deren Erhebung befugt sind und soweit dies für die Erfüllung einer gesetzlichen Aufgabe einer der in Satz 3 genannten Stellen erforderlich ist. Das Nähere zum Verfahren und den Aufbau der Zahlstellennummer regeln die Grundsätze nach Absatz 2 Satz 4.
+
+# § 202a – Bestandsabfrage zur Erhebung der Elterneigenschaft und der Anzahl der berücksichtigungsfähigen Kinder nach § 55 Absatz 3 des Elften Buches
+
+Die Zahlstellen müssen ab dem 1. Juli 2025 für die in der sozialen Pflegeversicherung bereits vor diesem Zeitpunkt versicherungspflichtigen Versorgungsbezieher eine Meldung entsprechend § 202 Absatz 1a erstatten, soweit eine Beitragsabführungspflicht besteht. Die Meldung hat spätestens bis zum 31. Dezember 2025 zu erfolgen. Bei Zahlstellen, die im Zeitraum vom 1. Juli 2023 bis zum 30. Juni 2025 sich weder die Elterneigenschaft sowie die Anzahl der Kinder nach § 55 Absatz 3a Satz 1 haben nachweisen lassen noch an dem Nachweisverfahren nach § 55 Absatz 3d Satz 2 des Elften Buches teilgenommen haben, erstreckt sich die Meldung auf den gesamten genannten Zeitraum.
 
 # § 203 – Meldepflichten bei Leistung von Mutterschaftsgeld, Elterngeld oder Erziehungsgeld
 
@@ -10436,7 +10507,7 @@ b) die Richtigkeit der Behandlungsdokumentation Gegenstand der Qualitätsprüfun
 
 die Gründe sind in den Richtlinien, Beschlüssen und Vereinbarungen darzulegen.
 
-Auch Auswahl, Umfang und Verfahren der Stichprobe sind in den Richtlinien und Beschlüssen sowie den Vereinbarungen nach Satz 1 festzulegen und von den an der vertragsärztlichen Versorgung teilnehmenden Ärzten und den übrigen Leistungserbringern zu erheben und zu übermitteln. Es ist auszuschließen, dass die Krankenkassen, Kassenärztlichen Vereinigungen oder deren jeweilige Verbände Kenntnis von Daten erlangen, die über den Umfang der ihnen nach den §§ 295, 300, 301, 301a und 302 zu übermittelnden Daten hinausgeht; dies gilt nicht für die Kassenärztlichen Vereinigungen in Bezug auf die für die Durchführung der Qualitätsprüfung nach § 135b Absatz 2 sowie die für die Durchführung der Aufgaben einer Datenannahmestelle oder für Einrichtungsbefragungen zur Qualitätssicherung aus Richtlinien nach § 136 Absatz 1 Satz 1 erforderlichen Daten. Eine über die in den Richtlinien nach § 136 Absatz 1 Satz 1 festgelegten Zwecke hinausgehende Verarbeitung dieser Daten, insbesondere eine Zusammenführung mit anderen Daten, ist unzulässig. Aufgaben zur Qualitätssicherung sind von den Kassenärztlichen Vereinigungen räumlich und personell getrennt von ihren anderen Aufgaben wahrzunehmen. Abweichend von Satz 4 Nummer 1 zweiter Halbsatz können die Richtlinien und Beschlüsse des Gemeinsamen Bundesausschusses nach § 135b Absatz 2, § 136 Absatz 1 Satz 1 und § 136b und die Vereinbarungen nach § 137d vorsehen, dass den Leistungserbringern nach Satz 1 die Daten der von ihnen behandelten Versicherten versichertenbezogen für Zwecke der Qualitätssicherung im erforderlichen Umfang übermittelt werden. Die Leistungserbringer dürfen diese versichertenbezogenen Daten mit den Daten, die bei ihnen zu den Versicherten bereits vorliegen, zusammenführen und für die in den Richtlinien, Beschlüssen oder Vereinbarungen nach Satz 1 festgelegten Zwecke verarbeiten.
+Auch Auswahl, Umfang und Verfahren der Stichprobe sind in den Richtlinien und Beschlüssen sowie den Vereinbarungen nach Satz 1 festzulegen und von den an der vertragsärztlichen Versorgung teilnehmenden Ärzten und den übrigen Leistungserbringern zu erheben und zu übermitteln. Es ist auszuschließen, dass die Krankenkassen, Kassenärztlichen Vereinigungen oder deren jeweilige Verbände Kenntnis von Daten erlangen, die über den Umfang der ihnen nach den §§ 295, 300, 301, 301a und 302 zu übermittelnden Daten hinausgeht; dies gilt nicht für die Kassenärztlichen Vereinigungen in Bezug auf die für die Durchführung der Qualitätsprüfung nach § 135b Absatz 2 sowie die für die Durchführung der Aufgaben einer Datenannahmestelle oder für Einrichtungsbefragungen zur Qualitätssicherung aus Richtlinien nach § 136 Absatz 1 Satz 1 erforderlichen Daten. Eine über die in den Richtlinien nach § 136 Absatz 1 Satz 1 festgelegten Zwecke hinausgehende Verarbeitung dieser Daten, insbesondere eine Zusammenführung mit anderen Daten, ist unzulässig. Aufgaben zur Qualitätssicherung sind von den Kassenärztlichen Vereinigungen räumlich und personell getrennt von ihren anderen Aufgaben wahrzunehmen. Abweichend von Satz 4 Nummer 1 zweiter Halbsatz können die Richtlinien und Beschlüsse des Gemeinsamen Bundesausschusses nach § 135b Absatz 2, § 136 Absatz 1 Satz 1 und § 136b und die Vereinbarungen nach § 137d vorsehen, dass den Leistungserbringern nach Satz 1 die Daten der von ihnen behandelten Versicherten versichertenbezogen für Zwecke der Qualitätssicherung im erforderlichen Umfang übermittelt werden. Die Leistungserbringer dürfen diese versichertenbezogenen Daten mit den Daten, die bei ihnen zu den Versicherten bereits vorliegen, zusammenführen und für die in den Richtlinien, Beschlüssen oder Vereinbarungen nach Satz 1 festgelegten Zwecke verarbeiten. Einrichtungsbezogene Daten der Krankenhäuser, deren Verarbeitung in Richtlinien des Gemeinsamen Bundesausschusses nach § 136 Absatz 1 Satz 1 Nummer 1 vorgesehen ist, sind nicht zu pseudonymisieren.
 
 (1a) Die Krankenkassen sind befugt und verpflichtet, nach § 284 Absatz 1 erhobene und gespeicherte Sozialdaten für Zwecke der Qualitätssicherung nach § 135a Absatz 2, § 135b Absatz 2 oder § 137a Absatz 3 zu verarbeiten, soweit dies erforderlich und in Richtlinien und Beschlüssen des Gemeinsamen Bundesausschusses nach § 27b Absatz 2, § 135b Absatz 2, § 136 Absatz 1 Satz 1, den §§ 136b, 136c Absatz 1 und 2, § 137 Absatz 3 und § 137b Absatz 1 sowie in Vereinbarungen nach § 137d vorgesehen ist. In den Richtlinien, Beschlüssen und Vereinbarungen nach Satz 1 sind diejenigen Daten, die von den Krankenkassen für Zwecke der Qualitätssicherung zu verarbeiten sind, sowie deren Empfänger festzulegen und die Erforderlichkeit darzulegen. Absatz 1 Satz 3 bis 7 gilt entsprechend.
 
@@ -10444,13 +10515,23 @@ Auch Auswahl, Umfang und Verfahren der Stichprobe sind in den Richtlinien und Be
 
 (2a) Enthalten die für Zwecke des Absatz 1 Satz 1 verarbeiteten Daten noch keine den Anforderungen des § 290 Absatz 1 Satz 2 entsprechende Krankenversichertennummer und ist in Richtlinien des Gemeinsamen Bundesausschusses vorgesehen, dass die Pseudonymisierung auf der Grundlage der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 erfolgen soll, kann der Gemeinsame Bundesausschuss in den Richtlinien ein Übergangsverfahren regeln, das einen Abgleich der für einen Versicherten vorhandenen Krankenversichertennummern ermöglicht. In diesem Fall hat er in den Richtlinien eine von den Krankenkassen und ihren Verbänden räumlich, organisatorisch und personell getrennte eigenständige Vertrauensstelle zu bestimmen, die dem Sozialgeheimnis nach § 35 Absatz 1 des Ersten Buches unterliegt, an die die Krankenkassen für die in das Qualitätssicherungsverfahren einbezogenen Versicherten die vorhandenen Krankenversichertennummern übermitteln. Weitere Daten dürfen nicht übermittelt werden. Der Gemeinsame Bundesausschuss hat in den Richtlinien die Dauer der Übergangsregelung und den Zeitpunkt der Löschung der Daten bei der Stelle nach Satz 2 festzulegen.
 
-(3) Zur Auswertung der für Zwecke der Qualitätssicherung nach § 135a Abs. 2 erhobenen Daten bestimmen in den Fällen des § 136 Absatz 1 Satz 1 und § 136b der Gemeinsame Bundesausschuss und im Falle des § 137d die Vereinbarungspartner eine unabhängige Stelle. Diese darf Auswertungen nur für Qualitätssicherungsverfahren mit zuvor in den Richtlinien, Beschlüssen oder Vereinbarungen festgelegten Auswertungszielen durchführen. Daten, die für Zwecke der Qualitätssicherung nach § 135a Abs. 2 für ein Qualitätssicherungsverfahren verarbeitet werden, dürfen nicht mit für andere Zwecke als die Qualitätssicherung erhobenen Datenbeständen zusammengeführt und ausgewertet werden. Für die unabhängige Stelle gilt § 35 Absatz 1 des Ersten Buches entsprechend.
+(3) Zur Auswertung der für Zwecke der Qualitätssicherung nach § 135a Abs. 2 erhobenen Daten bestimmen in den Fällen des § 136 Absatz 1 Satz 1 und § 136b der Gemeinsame Bundesausschuss und im Falle des § 137d die Vereinbarungspartner eine unabhängige Stelle. Diese darf Auswertungen nur für Qualitätssicherungsverfahren mit zuvor in den Richtlinien, Beschlüssen oder Vereinbarungen festgelegten Auswertungszielen durchführen. Daten, die für Zwecke der Qualitätssicherung nach § 135a Abs. 2 für ein Qualitätssicherungsverfahren verarbeitet werden, dürfen nicht mit für andere Zwecke als die Qualitätssicherung erhobenen Datenbeständen zusammengeführt und ausgewertet werden. Für die unabhängige Stelle gilt § 35 Absatz 1 des Ersten Buches entsprechend. Abweichend von Satz 1 ist für die in § 136 Absatz 1 Satz 1 Nummer 1 genannten Maßnahmen zur datengestützten einrichtungsübergreifenden Qualitätssicherung das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen die unabhängige Stelle im Sinne des Satzes 1.
 
 (4) Der Gemeinsame Bundesausschuss kann zur Durchführung von Patientenbefragungen für Zwecke der Qualitätssicherung in den Richtlinien und Beschlüssen nach den §§ 136 bis 136b eine zentrale Stelle (Versendestelle) bestimmen, die die Auswahl der zu befragenden Versicherten und die Versendung der Fragebögen übernimmt. In diesem Fall regelt er in den Richtlinien oder Beschlüssen die Einzelheiten des Verfahrens; insbesondere legt er die Auswahlkriterien fest und bestimmt, wer welche Daten an die Versendestelle zu übermitteln hat. Dabei kann er auch die Übermittlung nicht pseudonymisierter personenbezogener Daten der Versicherten und nicht pseudonymisierter personen- oder einrichtungsbezogener Daten der Leistungserbringer vorsehen, soweit dies für die Auswahl der Versicherten oder die Versendung der Fragebögen erforderlich ist. Der Rücklauf der ausgefüllten Fragebögen darf nicht über die Versendestelle erfolgen. Die Versendestelle muss von den Krankenkassen und ihren Verbänden, den Kassenärztlichen Vereinigungen und ihren Verbänden, der Vertrauensstelle nach Absatz 2 Satz 5, dem Institut nach § 137a und sonstigen nach Absatz 1 Satz 2 festgelegten Datenempfängern räumlich, organisatorisch und personell getrennt sein. Die Versendestelle darf über die Daten nach Satz 2 hinaus weitere Behandlungs-, Leistungs- oder Sozialdaten von Versicherten auf Grund anderer Vorschriften nur verarbeiten, sofern diese Datenverarbeitung organisatorisch, personell und räumlich von der Datenverarbeitung für den Zweck der Versendestelle nach Satz 1 getrennt ist und nicht zum Zweck der Qualitätssicherung in den Richtlinien und Beschlüssen nach den §§ 136 bis 136b erfolgt. Die Versendestelle hat die ihr übermittelten Identifikationsmerkmale der Versicherten in gleicher Weise geheim zu halten wie derjenige, von dem sie sie erhalten hat; sie darf diese Daten anderen Personen oder Stellen nicht zugänglich machen. Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte, zugelassenen Krankenhäuser und übrigen Leistungserbringer gemäß § 135a Absatz 2 sowie die Krankenkassen sind befugt und verpflichtet, die vom Gemeinsamen Bundesausschuss nach Satz 2 festgelegten Daten an die Stelle nach Satz 1 zu übermitteln. Die Daten nach Satz 8 sind von der Versendestelle spätestens sechs Monate nach Versendung der Fragebögen zu löschen, es sei denn, dass es aus methodischen Gründen der Befragung erforderlich ist, bestimmte Daten länger zu verarbeiten. Dann sind diese Daten spätestens 24 Monate nach Versendung der Fragebögen zu löschen. Der Gemeinsame Bundesausschuss kann Patientenbefragungen auch in digitaler Form vorsehen; die Sätze 1 bis 10 gelten entsprechend.
 
 (5) Der Gemeinsame Bundesausschuss ist befugt und berechtigt, abweichend von Absatz 3 Satz 3 transplantationsmedizinische Qualitätssicherungsdaten, die aufgrund der Richtlinien nach § 136 Absatz 1 Satz 1 Nummer 1 erhoben werden, nach § 15e des Transplantationsgesetzes an die Transplantationsregisterstelle zu übermitteln sowie von der Transplantationsregisterstelle nach § 15f des Transplantationsgesetzes übermittelte Daten für die Weiterentwicklung von Richtlinien und Beschlüssen zur Qualitätssicherung transplantationsmedizinischer Leistungen nach den §§ 136 bis 136c zu verarbeiten.
 
 (6) Der Gemeinsame Bundesausschuss ist befugt und berechtigt, abweichend von Absatz 3 Satz 3 die Daten, die ihm von der Registerstelle des Implantateregisters Deutschland nach § 29 Absatz 1 Nummer 4 des Implantateregistergesetzes übermittelt werden, für die Umsetzung und Weiterentwicklung von Richtlinien und Beschlüssen zur Qualitätssicherung implantationsmedizinischer Leistungen nach den §§ 136 bis 136c zu verarbeiten.
+
+(7) Das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen ist befugt, folgende personen- und einrichtungsbezogenen Daten der Versicherten und der Krankenhäuser zum Zweck der Veröffentlichung im Transparenzverzeichnis nach § 135d zu verarbeiten:
+
+1. Daten, die das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen als unabhängige Stelle im Sinne des Absatzes 3 Satz 1 für die in § 136 Absatz 1 Satz 1 Nummer 1 genannten Maßnahmen zur datengestützten einrichtungsübergreifenden Qualitätssicherung erhält,
+
+2. Auswertungen und Daten, die dem Institut für Qualitätssicherung und Transparenz im Gesundheitswesen nach § 21 Absatz 3d des Krankenhausentgeltgesetzes übermittelt werden, sowie
+
+3. die Daten aus den in § 136b Absatz 1 Satz 1 Nummer 3 genannten strukturierten Qualitätsberichten der zugelassenen Krankenhäuser.
+
+Abweichend von Absatz 3 Satz 3 darf das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen zum Zweck der Veröffentlichung im Transparenzverzeichnis nach § 135d die in Satz 1 genannten Daten zusammenführen und verarbeiten. Die in den Richtlinien nach § 136 Absatz 1 Satz 1 Nummer 1 für Maßnahmen zur datengestützten einrichtungsübergreifenden Qualitätssicherung bestimmten Datenannahmestellen sind verpflichtet, dem Institut für Qualitätssicherung und Transparenz im Gesundheitswesen zum Zweck der Veröffentlichung im Transparenzverzeichnis mitzuteilen, wie die in Satz 1 Nummer 1 genannten Daten, soweit sie den Zeitraum ab dem 1. Januar 2022 betreffen, einzelnen Standorten der Krankenhäuser zuzuordnen sind.
 
 # § 300 – Abrechnung der Apotheken und weiterer Stellen
 
@@ -10863,7 +10944,7 @@ b) einem gesicherten Netz einschließlich der für den Betrieb notwendigen Diens
 
 # § 307 – Datenschutzrechtliche Verantwortlichkeiten
 
-(1) Die Verarbeitung personenbezogener Daten mittels der Komponenten der dezentralen Infrastruktur nach § 306 Absatz 2 Nummer 1 liegt in der Verantwortung derjenigen, die diese Komponenten für die Zwecke der Authentifizierung und elektronischen Signatur sowie zur Verschlüsselung, Entschlüsselung und sicheren Verarbeitung von Daten in der zentralen Infrastruktur nutzen, soweit sie über die Mittel der Datenverarbeitung mitentscheiden. Die Verantwortlichkeit nach Satz 1 erstreckt sich insbesondere auf die ordnungsgemäße Inbetriebnahme, Wartung und Verwendung der Komponenten. Für die Verarbeitung personenbezogener Daten mittels der Komponenten der dezentralen Infrastruktur nach § 306 Absatz 2 Nummer 1 durch Verantwortliche nach Satz 1 erfolgt in der Anlage zu diesem Gesetz eine Datenschutz-Folgenabschätzung nach Artikel 35 Absatz 10 der Verordnung (EU) 2016/679. Soweit eine Datenschutz-Folgenabschätzung nach Satz 3 erfolgt, gilt für die Verantwortlichen nach Satz 1 Artikel 35 Absatz 1 bis 7 der Verordnung (EU) 2016/679 sowie § 38 Absatz 1 Satz 2 des Bundesdatenschutzgesetzes nicht.
+(1) Die Verarbeitung personenbezogener Daten mittels der Komponenten der dezentralen Infrastruktur nach § 306 Absatz 2 Nummer 1 liegt in der Verantwortung derjenigen, die diese Komponenten für die Zwecke der Authentifizierung und elektronischen Signatur sowie zur Verschlüsselung, Entschlüsselung und sicheren Verarbeitung von Daten in der zentralen Infrastruktur nutzen, soweit sie über die Mittel der Datenverarbeitung mitentscheiden. Die Verantwortlichkeit nach Satz 1 erstreckt sich insbesondere auf die ordnungsgemäße Inbetriebnahme, Wartung und Verwendung der Komponenten. Für die Verarbeitung personenbezogener Daten mittels der Komponenten der dezentralen Infrastruktur nach § 306 Absatz 2 Nummer 1 durch Verantwortliche nach Satz 1 erfolgt in der Anlage 2 zu diesem Gesetz eine Datenschutz-Folgenabschätzung nach Artikel 35 Absatz 10 der Verordnung (EU) 2016/679. Soweit eine Datenschutz-Folgenabschätzung nach Satz 3 erfolgt, gilt für die Verantwortlichen nach Satz 1 Artikel 35 Absatz 1 bis 7 der Verordnung (EU) 2016/679 sowie § 38 Absatz 1 Satz 2 des Bundesdatenschutzgesetzes nicht.
 
 (2) Der Betrieb der durch die Gesellschaft für Telematik spezifizierten und zugelassenen Zugangsdienste nach § 306 Absatz 2 Nummer 2 Buchstabe a liegt in der Verantwortung des jeweiligen Anbieters des Zugangsdienstes. Der Anbieter eines Zugangsdienstes darf personenbezogene Daten der Versicherten ausschließlich für Zwecke des Aufbaus und des Betriebs seines Zugangsdienstes verarbeiten. § 3 des Telekommunikation-Telemedien-Datenschutz-Gesetzes ist entsprechend anzuwenden.
 
@@ -13437,7 +13518,283 @@ In Fällen, in denen die Krankenkasse für Zeiträume ab dem 1. Januar 2018 die 
 
 (3) Abweichend von den Absätzen 1 und 2 sind die dort genannten Berichte hinsichtlich der Änderungen des § 130a Absatz 8 bis 8b jeweils bis zum 31. Dezember 2025 und bis zum 31. Dezember 2028 vorzulegen.
 
-# Anlage – (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung
+# Anlage 1 – (zu § 135d)Leistungsgruppen der Krankenhausbehandlung
+
+ 
+
+(Fundstelle: BGBl. 2024 I Nr. 105, Seite 4 - 6)
+
+Nummer
+
+Leistungsgruppe
+
+Internistische Leistungsgruppen
+
+1
+
+Allgemeine Innere Medizin
+
+2
+
+Komplexe Endokrinologie und Diabetologie
+
+3
+
+Infektiologie
+
+4
+
+Komplexe Gastroenterologie
+
+5
+
+Komplexe Nephrologie
+
+6
+
+Komplexe Pneumologie
+
+7
+
+Komplexe Rheumatologie
+
+8
+
+Stammzelltransplantation
+
+9
+
+Leukämie und Lymphome
+
+10
+
+EPU/Ablation
+
+11
+
+Interventionelle Kardiologie
+
+12
+
+Kardiale Devices
+
+13
+
+Minimalinvasive Herzklappenintervention
+
+Chirurgische Leistungsgruppen
+
+14
+
+Allgemeine Chirurgie
+
+15
+
+Kinder- und Jugendchirurgie
+
+16
+
+Spezielle Kinder- und Jugendchirurgie
+
+17
+
+Plastische und Rekonstruktive Chirurgie
+
+18
+
+Bauchaortenaneurysma
+
+19
+
+Carotis operativ/interventionell
+
+20
+
+Komplexe periphere arterielle Gefäße
+
+21
+
+Herzchirurgie
+
+22
+
+Herzchirurgie – Kinder und Jugendliche
+
+23
+
+Endoprothetik Hüfte
+
+24
+
+Endoprothetik Knie
+
+25
+
+Revision Hüftendoprothese
+
+26
+
+Revision Knieendoprothese
+
+27
+
+Spezielle Traumatologie
+
+28
+
+Wirbelsäuleneingriffe
+
+29
+
+Thoraxchirurgie
+
+30
+
+Bariatrische Chirurgie
+
+31
+
+Lebereingriffe
+
+32
+
+Ösophaguseingriffe
+
+33
+
+Pankreaseingriffe
+
+34
+
+Tiefe Rektumeingriffe
+
+Weitere Leistungsgruppen
+
+35
+
+Augenheilkunde
+
+36
+
+Haut- und Geschlechtskrankheiten
+
+37
+
+MKG
+
+38
+
+Urologie
+
+39
+
+Allgemeine Frauenheilkunde
+
+40
+
+Ovarial-CA
+
+41
+
+Senologie
+
+42
+
+Geburten
+
+43
+
+Perinataler Schwerpunkt
+
+44
+
+Perinatalzentrum Level 1
+
+45
+
+Perinatalzentrum Level 2
+
+46
+
+Allgemeine Kinder- und Jugendmedizin
+
+47
+
+Spezielle Kinder- und Jugendmedizin
+
+48
+
+Kinder-Hämatologie und -Onkologie – Stammzelltransplantation
+
+49
+
+Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome
+
+50
+
+HNO
+
+51
+
+Cochleaimplantate
+
+52
+
+Neurochirurgie
+
+53
+
+Allgemeine Neurologie
+
+54
+
+Stroke Unit
+
+55
+
+Neuro-Frühreha (NNF, Phase B)
+
+56
+
+Geriatrie
+
+57
+
+Palliativmedizin
+
+58
+
+Darmtransplantation
+
+59
+
+Herztransplantation
+
+60
+
+Lebertransplantation
+
+61
+
+Lungentransplantation
+
+62
+
+Nierentransplantation
+
+63
+
+Pankreastransplantation
+
+64
+
+Intensivmedizin
+
+65
+
+Notfallmedizin
+
+# Anlage 2 – (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung
 
 (Fundstelle: BGBl. I 2021, 1350 – 1361)
 
