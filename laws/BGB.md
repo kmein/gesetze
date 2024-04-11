@@ -13051,6 +13051,8 @@ verlangen, dass diese in eine genetische Abstammungsuntersuchung einwilligen und
 
 (4) Ist das Kind mit Einwilligung des Mannes und der Mutter durch künstliche Befruchtung mittels Samenspende eines Dritten gezeugt worden, so ist die Anfechtung der Vaterschaft durch den Mann oder die Mutter ausgeschlossen.
 
+§ 1600 Abs. 2 u. Abs. 3 Satz 1 idF d. G v. 20.7.2017 I 2780: Nach Maßgabe der Entscheidungsformel mit Art. 6 Abs. 2 Satz 1 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 9.4.2024 - 1 BvR 2017/21-. Gem. Nr. 2 dieser BVerfGE gilt § 1600 Abs. 2 u. Abs. 3 Satz 1 bis zum Inkrafttreten einer Neuregelung, längstens bis zum 30. Juni 2025, fort. Bis zu einer Neuregelung sind durch Anträge von Anfechtungsberechtigten nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen Gesetzbuchs eingeleitete Verfahren auf deren Antrag hin auszusetzen.
+
 # § 1600a – Persönliche Anfechtung; Anfechtung bei fehlender oder beschränkter Geschäftsfähigkeit
 
 (1) Die Anfechtung kann nicht durch einen Bevollmächtigten erfolgen.
