@@ -4346,7 +4346,7 @@
 - [PartG DDR](laws/PartG_DDR.md) Gesetz über Parteien und andere politische Vereinigungen
 - [PartGG](laws/PartGG.md) Gesetz über Partnerschaftsgesellschaften Angehöriger Freier Berufe
 - [PassDEÜV](laws/PassDEÜV.md) Verordnung zur Erfassung und Qualitätssicherung des Lichtbildes und der Fingerabdrücke in den Passbehörden und der Übermittlung der Passantragsdaten an den Passhersteller
-- [PaßG](laws/PaßG.md) Paßgesetz
+- [PassG](laws/PassG.md) Passgesetz
 - [PassV](laws/PassV.md) Verordnung zur Durchführung des Passgesetzes
 - [PatAnwAPrV](laws/PatAnwAPrV.md) Verordnung über die Ausbildung und Prüfung der Patentanwälte
 - [PatAnwVV](laws/PatAnwVV.md) Verordnung über das Patentanwaltsverzeichnis

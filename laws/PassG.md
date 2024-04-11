@@ -1,4 +1,4 @@
-% Paßgesetz  (PaßG)
+% Passgesetz  (PassG)
 % Ausfertigungsdatum: 19.04.1986
  
 # § 1 – Passpflicht
