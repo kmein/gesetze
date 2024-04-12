@@ -1,4 +1,4 @@
-% Kostenverordnung der Luftfahrtverwaltung  (LuftkostV)
+% Kostenverordnung der Luftfahrtverwaltung  (LuftKostV)
 % Ausfertigungsdatum: 14.02.1984
  
 # Eingangsformel
