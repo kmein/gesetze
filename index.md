@@ -79,7 +79,7 @@
 - [AFGBV](laws/AFGBV.md) Verordnung zur Genehmigung und zum Betrieb von Kraftfahrzeugen mit autonomer Fahrfunktion in festgelegten Betriebsbereichen
 - [AFG§116G](laws/AFG§116G.md) Gesetz zur Sicherung der Neutralität der Bundesanstalt für Arbeit bei Arbeitskämpfen
 - [AFIG](laws/AFIG.md) Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Agrar- und Fischereifonds der Europäischen Union
-- [AFIV](laws/AFIV.md) Verordnung über die Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Europäischen Fonds für Landwirtschaft und für Fischerei
+- [AFIV](laws/AFIV.md) Verordnung zur Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Agrar- und Fischereifonds der Europäischen Union
 - [Aflatoxin VerbotsV](laws/Aflatoxin_VerbotsV.md) Verordnung über das Verbot der Verwendung von mit Aflatoxinen kontaminierten Stoffen bei der Herstellung von Arzneimitteln
 - [AfögLTAV](laws/AfögLTAV.md) Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für landwirtschaftlich-technische, milchwirtschaftlich-technische und biologisch-technische Assistentinnen und Assistenten
 - [AfögVorkHSV](laws/AfögVorkHSV.md) Verordnung über die Ausbildungsförderung für die Teilnahme an Vorkursen zur Vorbereitung des Besuchs von Kollegs und Hochschulen
@@ -3420,7 +3420,7 @@
 - [LuftFzgÜbk](laws/LuftFzgÜbk.md) Mehrseitiges Übereinkommen über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge
 - [LuftFzgÜbkDV](laws/LuftFzgÜbkDV.md) Verordnung zur Durchführung des Mehrseitigen Übereinkommens vom 22. April 1960 über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge
 - [LuftGerPV](laws/LuftGerPV.md) Verordnung zur Prüfung von Luftfahrtgerät
-- [LuftkostV](laws/LuftkostV.md) Kostenverordnung der Luftfahrtverwaltung
+- [LuftKostV](laws/LuftKostV.md) Kostenverordnung der Luftfahrtverwaltung
 - [LuftNaSiG](laws/LuftNaSiG.md) Gesetz zur Sicherung des Nachweises der Eigentümerstellung und der Kontrolle von Luftfahrtunternehmen für die Aufrechterhaltung der Luftverkehrsbetriebsgenehmigung und der Luftverkehrsrechte
 - [LuftPersV](laws/LuftPersV.md) Verordnung über Luftfahrtpersonal
 - [LuftPersVDV 3 2017](laws/LuftPersVDV_3_2017.md) Dritte Durchführungsverordnung des Luftfahrt-Bundesamtes zur Verordnung über Luftfahrtpersonal
