@@ -489,7 +489,7 @@ a) mehr als 25 Gramm und bis zu 30 Gramm an einem Ort, der nicht sein Wohnsitz o
 
 b) insgesamt mehr als 50 Gramm und bis zu 60 Gramm,
 
-2. entgegen § 8 Absatz 1 eine MItteilung nicht richtig, nicht vollständig oder nicht unverzüglich macht,
+2. entgegen § 8 Absatz 1 eine Mitteilung nicht richtig, nicht vollständig oder nicht unverzüglich macht,
 
 3. einer vollziehbaren Auflage nach § 10 zuwiderhandelt,
 
@@ -508,6 +508,8 @@ b) insgesamt mehr als 50 Gramm und bis zu 60 Gramm,
 10. entgegen § 20 Absatz 1 eine dort genannte Maßnahme nicht duldet.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1, 3 und 4 mit einer Geldbuße bis zu dreißigtausend Euro und in den übrigen Fällen des Absatzes 1 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+
+§ 27 Abs. 1 Nummer 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wird das Wort "MItteilung" durch das Wort "Mitteilung" ersetzt
 
 # § 28 – Einziehung
 
