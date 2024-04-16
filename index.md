@@ -861,6 +861,7 @@
 - [BJagdGÄndG 2](laws/BJagdGÄndG_2.md) Zweites Gesetz zur Änderung des Bundesjagdgesetzes
 - [BKADV](laws/BKADV.md) Verordnung über die Art der Daten, die nach den §§ 8 und 9 des Bundeskriminalamtgesetzes gespeichert werden dürfen
 - [BKAG](laws/BKAG.md) Gesetz über das Bundeskriminalamt und die Zusammenarbeit des Bundes und der Länder in kriminalpolizeilichen Angelegenheiten
+- [BKAmtZustAnO](laws/BKAmtZustAnO.md) Anordnung des Bundeskanzleramtes zur Übertragung beamtenrechtlicher Zuständigkeiten
 - [BKartASitzBek](laws/BKartASitzBek.md) Bekanntmachung über den Dienstsitz des Bundeskartellamtes
 - [BKatV](laws/BKatV.md) Verordnung über die Erteilung einer Verwarnung, Regelsätze für Geldbußen und die Anordnung eines Fahrverbotes wegen Ordnungswidrigkeiten im Straßenverkehr
 - [BKGG](laws/BKGG.md) Bundeskindergeldgesetz
@@ -907,7 +908,6 @@
 - [BKV](laws/BKV.md) Verordnung über die Berufsausbildung zum Berufskraftfahrer/zur Berufskraftfahrerin
 - [BKV](laws/BKV.md) Berufskrankheiten-Verordnung
 - [BKWid/BVtrAnO](laws/BKWid_BVtrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen in Angelegenheiten nach dem Bundesumzugskostengesetz von Beschäftigten des Bundeskanzleramtes
-- [BKWid/VtrAnO](laws/BKWid_VtrAnO.md) Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis sowie über die Vertretung in bürgerlichen oder sonstigen rechtlichen Angelegenheiten im Geschäftsbereich des Bundeskanzleramtes
 - [BKWid/VtrBRKGuaAnO](laws/BKWid_VtrBRKGuaAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundeskanzleramtes in Angelegenheiten nach dem Bundesreisekostengesetz und der Auslandsreisekostenverordnung einschließlich der hierzu ergangenen Verwaltungsvorschriften
 - [BlauSchimmelV 1978](laws/BlauSchimmelV_1978.md) Verordnung zur Bekämpfung der Blauschimmelkrankheit des Tabaks
 - [BlauzungenSchV 2006](laws/BlauzungenSchV_2006.md) Verordnung zur Durchführung gemeinschaftsrechtlicher und unionsrechtlicher Vorschriften über Maßnahmen zur Bekämpfung, Überwachung und Beobachtung der Blauzungenkrankheit
@@ -1018,7 +1018,6 @@
 - [BMZWidAnO](laws/BMZWidAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen in Angelegenheiten nach dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung von Beschäftigten des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung
 - [BNatSchG](laws/BNatSchG.md) Gesetz über Naturschutz und Landschaftspflege
 - [BNDDisRZustAnO](laws/BNDDisRZustAnO.md) Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Bereich des Bundesnachrichtendienstes
-- [BNDErnAnO 2009](laws/BNDErnAnO_2009.md) Anordnung über die Ernennung und Entlassung von Beamtinnen und Beamten beim Bundesnachrichtendienst
 - [BNDG](laws/BNDG.md) Gesetz über den Bundesnachrichtendienst
 - [BNetzA BGebV-FreqZut](laws/BNetzA_BGebV-FreqZut.md) Besondere Gebührenverordnung der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen für Frequenzzuteilungen
 - [BNetzABGebV](laws/BNetzABGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur

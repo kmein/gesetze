@@ -1259,11 +1259,11 @@ Schäden, die nach dem Stand der wissenschaftlichen Erkenntnis aus der Einwirkun
 
 # § 54 – Erlaß von Rechtsverordnungen
 
-(1) Rechtsverordnungen auf Grund der §§ 2, 9g, 11, 12, 12b, 13, 21 Abs. 3, § 21a Abs. 2 und § 21b Abs. 3 erläßt die Bundesregierung. Das gleiche gilt für Rechtsverordnungen auf Grund des § 10, soweit Ausnahmen von dem Erfordernis einer Genehmigung nach § 7 zugelassen werden. Die übrigen in diesem Gesetz vorgesehenen Rechtsverordnungen erläßt der für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesminister.
+(1) Rechtsverordnungen auf Grund der §§ 2, 9g, 11, 12, 12b, 13, 21 Abs. 3, § 21a Abs. 2 und § 21b Abs. 3 erläßt die Bundesregierung. Das gleiche gilt für Rechtsverordnungen auf Grund des § 10, soweit Ausnahmen von dem Erfordernis einer Genehmigung nach § 7 zugelassen werden. Die übrigen in diesem Gesetz vorgesehenen Rechtsverordnungen erläßt das für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesministerium.
 
 (2) Die Rechtsverordnungen bedürfen der Zustimmung des Bundesrates. Dies gilt nicht für Rechtsverordnungen, die sich darauf beschränken, die in Rechtsverordnungen nach den §§ 11 und 12 festgelegten physikalischen, technischen und strahlenbiologischen Werte durch andere Werte zu ersetzen.
 
-(3) Die Bundesregierung kann durch Rechtsverordnung die in den §§ 11 und 12 bezeichneten Ermächtigungen ganz oder teilweise auf den für die kerntechnische Sicherheit und den Strahlenschutz zuständigen Bundesminister übertragen.
+(3) Die Bundesregierung kann durch Rechtsverordnung die in den §§ 11 und 12 bezeichneten Ermächtigungen ganz oder teilweise auf das für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesministerium übertragen.
 
 # § 55 – (Aufhebung von Rechtsvorschriften)
 
