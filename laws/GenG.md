@@ -849,6 +849,10 @@ Zwangsgeldverfahren
 
 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
 
+§ 176
+
+Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften
+
 # § 1 – Wesen der Genossenschaft
 
 (1) Gesellschaften von nicht geschlossener Mitgliederzahl, deren Zweck darauf gerichtet ist, den Erwerb oder die Wirtschaft ihrer Mitglieder oder deren soziale oder kulturelle Belange durch gemeinschaftlichen Geschäftsbetrieb zu fördern (Genossenschaften), erwerben die Rechte einer "eingetragenen Genossenschaft" nach Maßgabe dieses Gesetzes.
@@ -2446,3 +2450,7 @@ Die Festlegungen nach § 9 Absatz 3 Satz 1 und 3 sowie Absatz 4 Satz 1 und 3 in 
 # § 175 – Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
 
 § 53a Absatz 2 Satz 1 Nummer 3 und § 89 Satz 3 in der ab dem 1. August 2022 geltenden Fassung sind erstmals auf Rechnungslegungsunterlagen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis einschließlich 31. Juli 2022 geltenden Fassung sind letztmals anzuwenden auf Rechnungslegungsunterlagen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
+
+# § 176 – Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften
+
+Die Größenmerkmale des § 267a Absatz 1 Satz 1 des Handelsgesetzbuchs in der ab dem 17. April 2024 geltenden Fassung sind für die Einstufung als Kleinstgenossenschaft in § 53a Absatz 1 Satz 1 erstmals anzuwenden auf die Prüfung für ein frühestens am 31. Dezember 2024 endendes Geschäftsjahr.

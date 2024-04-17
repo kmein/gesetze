@@ -1293,9 +1293,9 @@ Von folgenden Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht 
 
 3. (weggefallen)
 
-4. des Gesetzes über die Pflichtversicherung für Kraftfahrzeughalter vom 5. April 1965 (BGBl. I S. 213) und
+4. des Pflichtversicherungsgesetzes und
 
-5. des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger vom 24. Juli 1956 (BGBl. I S. 667)
+5. des Auslandsfahrzeug-Pflichtversicherungsgesetzes
 
 nicht berührt, soweit sich nicht aus § 23 etwas anderes ergibt.
 

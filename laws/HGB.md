@@ -2122,17 +2122,17 @@ E. Passive latente Steuern.
 
 (1) Kleine Kapitalgesellschaften sind solche, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten:
 
-1. 6 000 000 Euro Bilanzsumme.
+1. 7 500 000 Euro Bilanzsumme.
 
-2. 12 000 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.
+2. 15 000 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.
 
 3. Im Jahresdurchschnitt fünfzig Arbeitnehmer.
 
 (2) Mittelgroße Kapitalgesellschaften sind solche, die mindestens zwei der drei in Absatz 1 bezeichneten Merkmale überschreiten und jeweils mindestens zwei der drei nachstehenden Merkmale nicht überschreiten:
 
-1. 20 000 000 Euro Bilanzsumme.
+1. 25 000 000 Euro Bilanzsumme.
 
-2. 40 000 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.
+2. 50 000 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.
 
 3. Im Jahresdurchschnitt zweihundertfünfzig Arbeitnehmer.
 
@@ -2152,9 +2152,9 @@ E. Passive latente Steuern.
 
 (1) Kleinstkapitalgesellschaften sind kleine Kapitalgesellschaften, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten:
 
-1. 350 000 Euro Bilanzsumme;
+1. 450 000 Euro Bilanzsumme;
 
-2. 700 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlussstichtag;
+2. 900 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlussstichtag;
 
 3. im Jahresdurchschnitt zehn Arbeitnehmer.
 
@@ -2872,9 +2872,9 @@ Im Falle des Satzes 2 ist mit dem Bestätigungsvermerk nach Absatz 1 Nummer 4 au
 
 1. am Abschlußstichtag seines Jahresabschlusses und am vorhergehenden Abschlußstichtag mindestens zwei der drei nachstehenden Merkmale zutreffen:
 
-a) Die Bilanzsummen in den Bilanzen des Mutterunternehmens und der Tochterunternehmen, die in den Konzernabschluß einzubeziehen wären, übersteigen insgesamt nicht 24 000 000 Euro.
+a) Die Bilanzsummen in den Bilanzen des Mutterunternehmens und der Tochterunternehmen, die in den Konzernabschluß einzubeziehen wären, übersteigen insgesamt nicht 30 000 000 Euro.
 
-b) Die Umsatzerlöse des Mutterunternehmens und der Tochterunternehmen, die in den Konzernabschluß einzubeziehen wären, übersteigen in den zwölf Monaten vor dem Abschlußstichtag insgesamt nicht 48 000 000 Euro.
+b) Die Umsatzerlöse des Mutterunternehmens und der Tochterunternehmen, die in den Konzernabschluß einzubeziehen wären, übersteigen in den zwölf Monaten vor dem Abschlußstichtag insgesamt nicht 60 000 000 Euro.
 
 c) Das Mutterunternehmen und die Tochterunternehmen, die in den Konzernabschluß einzubeziehen wären, haben in den zwölf Monaten vor dem Abschlußstichtag im Jahresdurchschnitt nicht mehr als 250 Arbeitnehmer beschäftigt;
 
@@ -2882,9 +2882,9 @@ oder
 
 2. am Abschlußstichtag eines von ihm aufzustellenden Konzernabschlusses und am vorhergehenden Abschlußstichtag mindestens zwei der drei nachstehenden Merkmale zutreffen:
 
-a) Die Bilanzsumme übersteigt nicht 20 000 000 Euro.
+a) Die Bilanzsumme übersteigt nicht 25 000 000 Euro.
 
-b) Die Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag übersteigen nicht 40 000 000 Euro.
+b) Die Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag übersteigen nicht 50 000 000 Euro.
 
 c) Das Mutterunternehmen und die in den Konzernabschluß einbezogenen Tochterunternehmen haben in den zwölf Monaten vor dem Abschlußstichtag im Jahresdurchschnitt nicht mehr als 250 Arbeitnehmer beschäftigt.
 

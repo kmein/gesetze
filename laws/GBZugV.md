@@ -41,7 +41,7 @@ c) Vorschriften, die im Interesse der Verkehrs-, Betriebs- oder Lebensmittelsich
 
 d) die abgabenrechtlichen Pflichten, die sich aus unternehmerischer Tätigkeit ergeben,
 
-e) § 1 des Pflichtversicherungsgesetzes vom 5. April 1965 (BGBl. I S. 213) in der jeweils geltenden Fassung,
+e) § 6 des Pflichtversicherungsgesetzes,
 
 f) umweltschützende Vorschriften, insbesondere des Abfall- und Immissionsschutzrechts oder gegen
 
