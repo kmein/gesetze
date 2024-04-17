@@ -671,7 +671,7 @@ Der Versicherungswert kann durch Vereinbarung auf einen bestimmten Betrag (Taxe)
 
 (2) Die Versicherer sind im Verhältnis zueinander zu Anteilen nach Maßgabe der Beträge verpflichtet, die sie dem Versicherungsnehmer nach dem jeweiligen Vertrag zu zahlen haben. Ist auf eine der Versicherungen ausländisches Recht anzuwenden, kann der Versicherer, für den das ausländische Recht gilt, gegen den anderen Versicherer einen Anspruch auf Ausgleichung nur geltend machen, wenn er selbst nach dem für ihn maßgeblichen Recht zur Ausgleichung verpflichtet ist.
 
-(3) In der Haftpflichtversicherung von Gespannen sind bei einer Mehrfachversicherung die Versicherer im Verhältnis zueinander zu Anteilen entsprechend der Regelung in § 19 Absatz 4 des Straßenverkehrsgesetzes verpflichtet.
+(3) In der Haftpflichtversicherung von Gespannen sind bei einer Mehrfachversicherung die Versicherer im Verhältnis zueinander zu Anteilen entsprechend der Regelung in § 19 Absatz 4 des Straßenverkehrsgesetzes verpflichtet. Wird ein Unfall durch ein Gespann verursacht und ist der Kraftfahrzeughaftpflichtversicherer des Anhängers nicht verpflichtet, dem Dritten vollständigen Schadensersatz zu leisten, so unterrichtet dieser Versicherer den Dritten auf dessen Verlangen unverzüglich über die Identität des Kraftfahrzeughaftpflichtversicherers des Zugfahrzeugs oder, wenn er den Kraftfahrzeughaftpflichtversicherer des Zugfahrzeugs nicht ermitteln kann, über den Entschädigungsmechanismus nach Artikel 10 der Richtlinie 2009/103/EG des Europäischen Parlaments und des Rates vom 16. September 2009 über die Kraftfahrzeug-Haftpflichtversicherung und die Kontrolle der entsprechenden Versicherungspflicht (ABl. L 263 vom 7.10.2009, S. 11), die durch die Richtlinie (EU) 2021/2118 (ABl. L 430 vom 2.12.2021, S. 1) geändert worden ist.
 
 (4) Hat der Versicherungsnehmer eine Mehrfachversicherung in der Absicht vereinbart, sich dadurch einen rechtswidrigen Vermögensvorteil zu verschaffen, ist jeder in dieser Absicht geschlossene Vertrag nichtig; dem Versicherer steht die Prämie bis zu dem Zeitpunkt zu, zu dem er von den die Nichtigkeit begründenden Umständen Kenntnis erlangt.
 
@@ -899,7 +899,7 @@ Von den §§ 104 und 106 kann nicht zum Nachteil des Versicherungsnehmers abgewi
 
 (1) Der Dritte kann seinen Anspruch auf Schadensersatz auch gegen den Versicherer geltend machen,
 
-1. wenn es sich um eine Haftpflichtversicherung zur Erfüllung einer nach dem Pflichtversicherungsgesetz bestehenden Versicherungspflicht handelt oder
+1. wenn es sich um eine Haftpflichtversicherung zur Erfüllung einer nach § 1 des Pflichtversicherungsgesetzes oder nach § 3 des Auslandsfahrzeug-Pflichtversicherungsgesetzes bestehenden Versicherungspflicht handelt oder
 
 2. wenn über das Vermögen des Versicherungsnehmers das Insolvenzverfahren eröffnet oder der Eröffnungsantrag mangels Masse abgewiesen worden ist oder ein vorläufiger Insolvenzverwalter bestellt worden ist oder
 
@@ -1665,9 +1665,9 @@ Die Vorschriften dieses Gesetzes sind auf die Rückversicherung und die Versiche
 
 3. Risiken der unter den Nummern 3, 8, 9, 10, 13 und 16 der Anlage 1 zum Versicherungsaufsichtsgesetz erfassten Sach-, Haftpflicht- und sonstigen Schadensversicherungen bei Versicherungsnehmern, die mindestens zwei der folgenden drei Merkmale überschreiten:
 
-a) 6 200 000 Euro Bilanzsumme,
+a) 6 600 000 Euro Bilanzsumme,
 
-b) 12 800 000 Euro Nettoumsatzerlöse,
+b) 13 600 000 Euro Nettoumsatzerlöse,
 
 c) im Durchschnitt 250 Arbeitnehmer pro Wirtschaftsjahr.
 

@@ -7,7 +7,7 @@ Auf Grund der §§ 7a, 8 Abs. 2 und § 8a Abs. 1 des Gesetzes über die Haftpfli
 
 # § 1
 
-Eine Versicherungsbescheinigung nach § 1 Abs. 2 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger ist nicht erforderlich für
+Von der Pflicht zum Mitführen und Aushändigen des Versicherungsnachweises nach § 12 Absatz 1 des Auslandsfahrzeug-Pflichtversicherungsgesetzes sind die Fahrer folgender Fahrzeuge ausgenommen:
 
 1. Kraftfahrzeuge und Kraftfahrzeuganhänger, die ein vorgeschriebenes Kennzeichen aus einem Mitgliedstaat der Europäischen Union führen, unabhängig davon, ob es sich um ein endgültiges oder vorläufiges Kennzeichen handelt;
 
@@ -40,37 +40,11 @@ hat.
 
 # § 2
 
-Die Befreiung nach § 1 Nr. 1 erstreckt sich nicht auf die in der Anlage zu dieser Verordnung aufgeführten Kraftfahrzeuge und Kraftfahrzeuganhänger.
+Die Ausnahme nach § 1 Nr. 1 erstreckt sich nicht auf die in der Anlage zu dieser Verordnung aufgeführten Kraftfahrzeuge und Kraftfahrzeuganhänger.
 
-# § 3 – Erweiterter Versicherungsschutz für das Gebiet der Mitgliedstaaten der Europäischen Union und für die Gebiete der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+# § 3 – Ausnahmen von der Pflicht zum Mitführen und Aushändigen des Versicherungsnachweises
 
-(1) Kraftfahrzeuge und Kraftfahrzeuganhänger, die in einem anderen Gebiet als dem der Mitgliedstaaten der Europäischen Union oder dem der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zugelassen sind, dürfen auf öffentlichen Straßen oder Plätzen im Geltungsbereich dieser Verordnung nur gebraucht werden, wenn die durch den Gebrauch des Fahrzeugs verursachten Schäden im gesamten Gebiet der Mitgliedstaaten der Europäischen Union und dem der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum nach den dort jeweils geltenden Vorschriften über die Pflichtversicherung gedeckt sind, soweit das Fahrzeug in die vorgenannten Gebiete ohne Kontrolle eines Versicherungsnachweises weiterreisen kann.
-
-(2) Im Sinne dieser Verordnung steht der Zulassung eines Fahrzeugs gleich die Zuteilung eines Versicherungskennzeichens oder eines dem amtlichen Kennzeichen ähnlichen Unterscheidungszeichens für ein Fahrzeug. Ist für zweirädrige Kraftfahrzeuge weder eine Zulassung noch die Zuteilung eines Versicherungskennzeichens oder eines dem amtlichen Kennzeichen ähnlichen Unterscheidungszeichens vorgeschrieben, so gelten sie in dem Staat oder Gebiet als zugelassen, in dem der Fahrzeugführer seinen gesetzlichen Wohnsitz hat.
-
-(3) Absatz 1 gilt nicht für Fahrzeuge der ausländischen Streitkräfte, die zum Aufenthalt im Geltungsbereich dieser Verordnung befugt sind.
-
-# § 4 – Nachweis des EU-Versicherungsschutzes
-
-Der Führer des Fahrzeugs hat das Bestehen der Haftpflichtversicherung im Sinne des § 3 durch eine Grüne Internationale Versicherungskarte oder durch eine Bescheinigung über den Abschluß einer Grenzversicherung nachzuweisen. Der Nachweis ist mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
-
-# § 5 – Abschluß der Grenzversicherung für den EU-Versicherungsschutz
-
-Für den im Geltungsbereich dieser Verordnung vorgenommenen Abschluß der Grenzversicherung sind die Vorschriften der §§ 2 bis 5 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger entsprechend anzuwenden.
-
-# § 6 – Verpflichtung des Fahrzeughalters hinsichtlich des EU-Versicherungsschutzes
-
-Besteht keine Haftpflichtversicherung nach § 3 oder führt der Führer des Fahrzeugs die nach § 4 erforderliche Versicherungsbescheinigung nicht mit, so darf der Halter nicht anordnen oder zulassen, daß das Fahrzeug im Geltungsbereich dieser Verordnung auf öffentlichen Straßen oder Plätzen gebraucht wird.
-
-# § 7 – Kontrolle
-
-(1) Fehlt die nach § 4 erforderliche Versicherungsbescheinigung bei der Einreise eines Fahrzeugs aus einem anderen Gebiet als dem der Mitgliedstaaten der Europäischen Union oder dem der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum in den Geltungsbereich dieser Verordnung, so müssen die für die Grenzkontrolle zuständigen Personen es zurückweisen. Fehlt die Bescheinigung bei der Einreise aus dem Gebiet eines Mitgliedstaates der Europäischen Union oder aus dem Gebiet eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, so kann das Fahrzeug zurückgewiesen werden. Stellt sich der Mangel während des Gebrauchs im Geltungsbereich dieser Verordnung heraus, so kann das Fahrzeug sichergestellt werden, bis die Bescheinigung vorgelegt wird.
-
-(2) Fehlt die nach § 1 Abs. 2 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger erforderliche Versicherungsbescheinigung bei der Einreise eines Fahrzeugs aus dem Gebiet eines Mitgliedstaats der Europäischen Union oder aus dem Gebiet eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum in den Geltungsbereich dieser Verordnung, so ist § 1 Abs. 4 Satz 1 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger nur mit der Maßgabe anzuwenden, daß beim Fehlen der erforderlichen Versicherungsbescheinigung die Grenzzollstellen solche Fahrzeuge zurückweisen können.
-
-# § 8 – Wegfall des Versicherungsnachweises
-
-(1) Eine Versicherungsbescheinigung nach § 1 Abs. 2 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger sowie nach § 4 dieser Verordnung ist nicht erforderlich für
+(1) Von der Pflicht zum Mitführen und Aushändigen des Versicherungsnachweises nach § 12 Absatz 1 des Auslandsfahrzeug-Pflichtversicherungsgesetzes sind die Fahrer folgender Fahrzeuge ausgenommen:
 
 1. Kraftfahrzeuge und Kraftfahrzeuganhänger, die ein vorgeschriebenes Kennzeichen folgender Staaten oder Gebiete führen:
 
@@ -111,24 +85,10 @@ Monaco
 
 hat.
 
-(2) Die Befreiung nach Absatz 1 Nr. 1 erstreckt sich nicht auf folgende Fahrzeuge von San Marino und Vatikanstadt:  
+(2) Die Ausnahme nach Absatz 1 Nr. 1 erstreckt sich nicht auf folgende Fahrzeuge von San Marino und Vatikanstadt:  
 landwirtschaftliche Fahrzeuge, insbesondere landwirtschaftliche Zugmaschinen, ihre Anhänger sowie landwirtschaftliche Arbeitsgeräte.
 
 (3) (weggefallen)
-
-# § 9 – Bußgeldvorschriften für EU-Versicherungsschutz
-
-Ordnungswidrig im Sinne des § 9a Abs. 1 Nr. 2 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger handelt, wer vorsätzlich oder fahrlässig
-
-1. als Führer entgegen § 3 Abs. 1 ein Fahrzeug gebraucht, obwohl das erforderliche Versicherungsverhältnis nicht oder nicht mehr besteht und die Pflichten eines Haftpflichtversicherers auch nicht von den nationalen Versicherungsbüros aller Mitgliedstaaten der Europäischen Union nach Artikel 8 Absatz 1 Satz 2 der Richtlinie 2009/103/EG des Europäischen Parlaments und des Rates vom 16. September 2009 über die Kraftfahrzeug-Haftpflichtversicherung und die Kontrolle der entsprechenden Versicherungspflicht (ABl. L 263 vom 7.10.2009, S. 11) übernommen worden sind;
-
-2. als Führer eines Fahrzeugs entgegen § 4 Satz 2 den Nachweis nicht mit sich führt oder auf Verlangen nicht aushändigt oder
-
-3. als Halter eines Fahrzeugs entgegen § 6 anordnet oder zuläßt, daß das Fahrzeug gebraucht wird, obwohl
-
-a) das nach § 3 Abs. 1 erforderliche Versicherungsverhältnis nicht oder nicht mehr besteht und die Pflichten eines Haftpflichtversicherers auch nicht von den nationalen Versicherungsbüros aller Mitgliedstaaten der Europäischen Union nach Artikel 8 Absatz 1 Satz 2 der Richtlinie 2009/103/EG des Europäischen Parlaments und des Rates vom 16. September 2009 über die Kraftfahrzeug-Haftpflichtversicherung und die Kontrolle der entsprechenden Versicherungspflicht (ABl. L 263 vom 7.10.2009, S. 11) übernommen worden sind, oder
-
-b) der Führer den nach § 4 Satz 2 erforderlichen Nachweis nicht mit sich führt.
 
 # Schlußformel
 

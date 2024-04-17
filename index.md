@@ -4460,7 +4460,6 @@
 - [PflSchSachkV 2013](laws/PflSchSachkV_2013.md) Pflanzenschutz-Sachkundeverordnung
 - [PflvDV](laws/PflvDV.md) Verordnung zur Durchführung der Zulage für die private Pflegevorsorge nach dem Vierzehnten Kapitel des Elften Buches Sozialgesetzbuch
 - [PflVG](laws/PflVG.md) Gesetz über die Pflichtversicherung für Kraftfahrzeughalter
-- [PflVGOWiZustV](laws/PflVGOWiZustV.md) Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Pflichtversicherungsgesetz
 - [PflZSchÜbk](laws/PflZSchÜbk.md) Internationales Übereinkommen zum Schutz von Pflanzenzüchtungen
 - [PflZSchÜbkG](laws/PflZSchÜbkG.md) Gesetz zu den Internationalen Übereinkommen vom 2. Dezember 1961 zum Schutz von Pflanzenzüchtungen
 - [PflZV](laws/PflZV.md) Verordnung über einen Vorschuss bei der Inanspruchnahme von Familienpflegezeit oder Pflegezeit

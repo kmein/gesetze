@@ -77,7 +77,7 @@ c) Vorschriften, die im Interesse der Verkehrs- und Betriebssicherheit erlassen 
 
 d) die abgabenrechtlichen Pflichten, die sich aus unternehmerischer Tätigkeit ergeben,
 
-e) § 1 des Pflichtversicherungsgesetzes vom 5. April 1965 (BGBl. I S. 213) in der jeweils geltenden Fassung,
+e) § 6 des Pflichtversicherungsgesetzes,
 
 f) umweltschützende Vorschriften, dabei insbesondere des Bundes-Immissionsschutzgesetzes oder solche der Straßenverkehrs-Zulassungs-Ordnung in ihren jeweils geltenden Fassungen.
 
@@ -109,7 +109,7 @@ c) Vorschriften, die im Interesse der Verkehrs- und Betriebssicherheit erlassen 
 
 d) die abgabenrechtlichen Pflichten, die sich aus unternehmerischer Tätigkeit ergeben,
 
-e) § 1 des Pflichtversicherungsgesetzes vom 5. April 1965 (BGBl. I S. 213) in der jeweils geltenden Fassung,
+e) § 6 des Pflichtversicherungsgesetzes,
 
 f) umweltschützende Vorschriften, insbesondere des Abfall- und Immissionsschutzrechts oder
 

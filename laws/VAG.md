@@ -1455,7 +1455,7 @@ Handelt es sich bei einem vom Vertragspartner abweichenden Bezugsberechtigten od
 
 1. bei der Versicherung von Risiken mit Bezug auf unbewegliche Sachen, insbesondere Bauwerke und Anlagen, und den darin befindlichen, durch den gleichen Vertrag gedeckten Sachen der Mitglied- oder Vertragsstaat, in dem diese Gegenstände belegen sind,
 
-2. bei der Versicherung von Risiken mit Bezug auf Fahrzeuge aller Art, die in einem Mitglied- oder Vertragsstaat in ein amtliches oder amtlich anerkanntes Register einzutragen sind und ein Unterscheidungskennzeichen erhalten, dieser Mitglied- oder Vertragsstaat; abweichend hiervon ist bei einem Fahrzeug, das von einem Mitglied- oder Vertragsstaat in einen anderen überführt wird, während eines Zeitraums von 30 Tagen nach Abnahme des Fahrzeugs durch den Käufer der Bestimmungsmitglied- oder Bestimmungsvertragsstaat als der Mitglied- oder Vertragsstaat anzusehen, in dem das Risiko belegen ist,
+2. bei der Versicherung von Risiken mit Bezug auf Fahrzeuge aller Art, die in einem Mitglied- oder Vertragsstaat in ein amtliches oder amtlich anerkanntes Register einzutragen sind und ein Unterscheidungskennzeichen erhalten, dieser Mitglied- oder Vertragsstaat,
 
 3. bei der Versicherung von Reise- und Ferienrisiken in Versicherungsverträgen über eine Laufzeit von höchstens vier Monaten der Mitglied- oder Vertragsstaat, in dem der Versicherungsnehmer die zum Abschluss des Vertrags erforderlichen Rechtshandlungen vorgenommen hat, und
 
@@ -1464,6 +1464,16 @@ Handelt es sich bei einem vom Vertragspartner abweichenden Bezugsberechtigten od
 a) wenn der Versicherungsnehmer eine natürliche Person ist, der Mitglied- oder Vertragsstaat, in dem er seinen gewöhnlichen Aufenthalt hat, und
 
 b) wenn der Versicherungsnehmer keine natürliche Person ist, der Mitglied- oder Vertragsstaat, in dem sich das Unternehmen, die Betriebsstätte oder die entsprechende Einrichtung befindet, auf die sich der Vertrag bezieht.
+
+(4) Abweichend von Absatz 3 Satz 2 Nummer 2 ist bei einem Fahrzeug, das von einem Mitglied- oder Vertragsstaat in einen anderen überführt wird, entsprechend der Wahl der für die Haftpflichtversicherung verantwortlichen Person folgender Staat als der Mitglied- oder Vertragsstaat anzusehen, in dem das Risiko belegen ist:
+
+1. der Zulassungsstaat oder
+
+2. unmittelbar nach der Abnahme des Fahrzeugs durch den Käufer während eines Zeitraums von 30 Tagen der Bestimmungsmitglied- oder Bestimmungsvertragsstaat.
+
+Satz 1 Nummer 2 gilt auch dann, wenn das Fahrzeug im Bestimmungsmitglied- oder Bestimmungsvertragsstaat nicht offiziell zugelassen wurde.
+
+(+++ § 57 Abs. 2 bis 4: Zur Geltung vgl. § 61 Abs. 1 Satz 2 +++)
 
 # § 58 – Errichtung einer Niederlassung
 
@@ -1541,7 +1551,7 @@ ohne Abzug der Rückversicherung sowie nach Mitgliedstaaten aufgeschlüsselt mit
 
 # § 61 – Geschäftstätigkeit durch eine Niederlassung oder im Dienstleistungsverkehr
 
-(1) Erstversicherungsunternehmen mit Sitz in einem anderen Mitglied- oder Vertragsstaat mit Ausnahme der in den §§ 65 und 66 genannten Unternehmen dürfen das Versicherungsgeschäft im Inland durch eine Niederlassung oder im Dienstleistungsverkehr nur nach Maßgabe der Absätze 2 bis 4 betreiben. § 57 Absatz 2 und 3 gilt sinngemäß.
+(1) Erstversicherungsunternehmen mit Sitz in einem anderen Mitglied- oder Vertragsstaat mit Ausnahme der in den §§ 65 und 66 genannten Unternehmen dürfen das Versicherungsgeschäft im Inland durch eine Niederlassung oder im Dienstleistungsverkehr nur nach Maßgabe der Absätze 2 bis 4 betreiben. § 57 Absatz 2 bis 4 gilt sinngemäß.
 
 (2) Will das Unternehmen seine Tätigkeit durch eine Niederlassung ausüben, hat die Aufsichtsbehörde des Herkunftsstaats der Bundesanstalt die in Artikel 145 Absatz 2 und 3 der Richtlinie 2009/138/EG bezeichneten Angaben unter Benachrichtigung des Unternehmens zu übermitteln. Die Aufnahme der Geschäftstätigkeit der Niederlassung ist erst zulässig, wenn seit Eingang dieser Benachrichtigung zwei Monate vergangen sind. Dies gilt nur, wenn die Bundesanstalt dem Unternehmen keinen früheren Zeitpunkt mitteilt. Änderungen des Inhalts der in Artikel 145 Absatz 2 Buchstabe b, c oder d der Richtlinie 2009/138/EG bezeichneten Angaben teilt das Unternehmen der Bundesanstalt und der Aufsichtsbehörde seines Sitzes einen Monat vor der beabsichtigten Durchführung der Änderung mit. Sind Erweiterungen der Geschäftstätigkeit damit verbunden, sind diese erst zulässig, wenn seit Eingang der Mitteilung des Unternehmens an die Bundesanstalt ein Monat vergangen ist.
 
@@ -2940,7 +2950,7 @@ Für die Berechnung der Deckungsrückstellung von Renten in der Allgemeinen Haft
 
 3. das nationale Versicherungsbüro im Sinne des Artikels 1 Nummer 3 der Richtlinie 2009/103/EG des Europäischen Parlaments und des Rates vom 16. September 2009 über die Kraftfahrzeug-Haftpflichtversicherung und die Kontrolle der entsprechenden Versicherungspflicht (ABl. L 263 vom 7.10.2009, S. 11) des Staats, in dem sich der Unfall ereignet hat, dem System der Grünen Karte beigetreten ist.
 
-In diesem Fall gilt § 3a Absatz 1 Nummer 1 und 2 des Pflichtversicherungsgesetzes entsprechend.
+In diesem Fall gilt § 3a des Pflichtversicherungsgesetzes entsprechend.
 
 (5) Die Bestellung eines Schadenregulierungsbeauftragten durch ein ausländisches Versicherungsunternehmen im Inland stellt für sich allein keine Errichtung einer Zweigniederlassung dar; der Schadenregulierungsbeauftragte gilt nicht als Niederlassung.
 
@@ -3346,13 +3356,13 @@ Der Vorstand hat die Auflösung des Vereins zur Eintragung in das Handelsregiste
 
 (1) Kleine Versicherungsunternehmen im Sinne dieses Gesetzes sind Erstversicherungsunternehmen,
 
-1. deren jährlich gebuchte Bruttobeitragseinnahmen den in Artikel 4 Absatz 1 Buchstabe a der Richtlinie 2009/138/EG genannten Betrag nicht überschreiten,
+1. deren jährlich gebuchte Bruttobeitragseinnahmen den in Artikel 4 Absatz 1 Buchstabe a der Richtlinie 2009/138/EG in Verbindung mit der jüngsten Veröffentlichung der angepassten Beträge im Amtsblatt der Europäischen Union nach Artikel 300 Unterabsatz 3 der Richtlinie 2009/138/EG genannten Betrag nicht überschreiten,
 
-2. deren gesamte versicherungstechnischen Rückstellungen im Sinne des § 75 ohne Abzug der einforderbaren Beträge aus Rückversicherungsverträgen und von Zweckgesellschaften den in Artikel 4 Absatz 1 Buchstabe b der Richtlinie 2009/138/EG genannten Betrag nicht überschreiten,
+2. deren gesamte versicherungstechnischen Rückstellungen im Sinne des § 75 ohne Abzug der einforderbaren Beträge aus Rückversicherungsverträgen und von Zweckgesellschaften den in Artikel 4 Absatz 1 Buchstabe b der Richtlinie 2009/138/EG in Verbindung mit der jüngsten Veröffentlichung der angepassten Beträge im Amtsblatt der Europäischen Union nach Artikel 300 Unterabsatz 3 der Richtlinie 2009/138/EG genannten Betrag nicht überschreiten,
 
 3. deren Geschäftstätigkeit keine Rückversicherungstätigkeiten einschließt, die
 
-a) die in Artikel 4 Absatz 1 Buchstabe e der Richtlinie 2009/138/EG genannten Beträge bezogen auf ihre gebuchten Bruttobeitragseinnahmen oder ihre versicherungstechnischen Rückstellungen im Sinne des § 75 ohne Abzug der einforderbaren Beträge aus Rückversicherungsverträgen und von Zweckgesellschaften oder
+a) die in Artikel 4 Absatz 1 Buchstabe e der Richtlinie 2009/138/EG in Verbindung mit der jüngsten Veröffentlichung der angepassten Beträge im Amtsblatt der Europäischen Union nach Artikel 300 Unterabsatz 3 der Richtlinie 2009/138/EG genannten Beträge bezogen auf ihre gebuchten Bruttobeitragseinnahmen oder ihre versicherungstechnischen Rückstellungen im Sinne des § 75 ohne Abzug der einforderbaren Beträge aus Rückversicherungsverträgen und von Zweckgesellschaften oder
 
 b) 10 Prozent ihrer gebuchten Bruttobeitragseinnahmen oder
 
@@ -3366,7 +3376,7 @@ c) 10 Prozent ihrer versicherungstechnischen Rückstellungen im Sinne des § 75 
 
 6. die keine Pensions- oder Sterbekassen sind.
 
-Sofern das Erstversicherungsunternehmen einer Gruppe angehört, dürfen die gesamten versicherungstechnischen Bruttorückstellungen der Gruppe den in Artikel 4 Absatz 1 Buchstabe c der Richtlinie 2009/138/EG genannten Betrag nicht überschreiten. Wenn eine Erlaubnis zum Geschäftsbetrieb als Erstversicherungsunternehmen beantragt wird, ist Satz 1 Nummer 1 bis 3 nicht anzuwenden, wenn zu erwarten ist, dass einer der dort genannten Beträge innerhalb der nächsten fünf Jahre überschritten wird.
+Sofern das Erstversicherungsunternehmen einer Gruppe angehört, dürfen die gesamten versicherungstechnischen Bruttorückstellungen der Gruppe den in Artikel 4 Absatz 1 Buchstabe c der Richtlinie 2009/138/EG in Verbindung mit der jüngsten Veröffentlichung der angepassten Beträge im Amtsblatt der Europäischen Union nach Artikel 300 Unterabsatz 3 der Richtlinie 2009/138/EG genannten Betrag nicht überschreiten. Wenn eine Erlaubnis zum Geschäftsbetrieb als Erstversicherungsunternehmen beantragt wird, ist Satz 1 Nummer 1 bis 3 nicht anzuwenden, wenn zu erwarten ist, dass einer der dort genannten Beträge innerhalb der nächsten fünf Jahre überschritten wird.
 
 (2) Wenn ein Erstversicherungsunternehmen die Voraussetzungen des Absatzes 1 erfüllt und die in Absatz 1 festgelegten Summengrenzen in den letzten drei aufeinanderfolgenden Jahren nicht überschritten wurden, stellt die Aufsichtsbehörde von Amts wegen fest, dass es als kleines Versicherungsunternehmen anzusehen ist, es sei denn, in den nächsten fünf Jahren wird voraussichtlich eine dieser Summengrenzen überschritten.
 
