@@ -764,7 +764,7 @@ e) deren Zweck nach § 52 Absatz 2 Satz 2 der Abgabenordnung für gemeinnützig 
 
 9. u\. 10. (weggefallen)
 
-(+++ § 9: Zur Anwendung vgl. § 36 dieses G u. § 53 Ab. 4 InvStG 2018 +++)
+(+++ § 9: Zur Anwendung vgl. § 36 dieses G u. § 53 Abs. 4 InvStG 2018 +++)
 
 # § 10 – Maßgebender Gewerbeertrag
 

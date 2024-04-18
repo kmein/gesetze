@@ -658,7 +658,7 @@ b) wenn am Schluss des Wirtschaftsjahrs das Vermögen nicht höher ist als 60 Pr
 (+++ § 5: Zur Anwendung vgl. § 34 +++)  
 (+++ § 5 Abs. 1 Nr. 3 Buchst. d u. Nr. 4: Zur erstmaligen Anwendung vgl. § 34 Abs. 3 (F 2015-04-01) +++)  
 (+++ § 5 Abs. 1 Nr. 8: Zur erstmaligen Anwendung vgl. § 34 Abs. 3a +++)  
-(+++ § 5 Abs. 1 Nr. 10: Zur erstmaligen Anwendung vgl. § 34 Abs. 3b +++)  
+(+++ § 5 Abs. 1 Nr. 10: Zur Anwendung vgl. § 34 Abs. 3b +++)  
 (+++ § 5 Abs. 1 Nr. 16: Zur erstmaligen Anwendung vgl. § 34 Abs. 3c +++)  
 (+++ § 5 Abs. 1 Nr. 16 Satz 1 u. 2: Zur erstmaligen Anwendung vgl. § 34 Abs. 3 Satz 3 +++)  
 (+++ § 5 Abs. 1 Nr. 16 Satz 3: Zur erstmaligen Anwendung vgl. § 34 Abs. 3 (F 2015-04-01) +++)  

@@ -404,7 +404,7 @@ Die Anteile an der übernehmenden Körperschaft treten steuerlich an die Stelle 
 
 (3) Bei einer Abspaltung mindern sich verrechenbare Verluste, verbleibende Verlustvorträge, nicht ausgeglichene negative Einkünfte, ein Zinsvortrag nach § 4h Absatz 1 Satz 5 des Einkommensteuergesetzes und ein EBITDA-Vortrag nach § 4h Absatz 1 Satz 3 des Einkommensteuergesetzes der übertragenden Körperschaft in dem Verhältnis, in dem bei Zugrundelegung des gemeinen Werts das Vermögen auf eine andere Körperschaft übergeht.
 
-(+++ § 15 Abs. 3: Zur erstmaligen Anwendung vgl. § 27 Abs. 5 Satz 1 u. Abs. 10 +++)
+(+++ § 15: Zur Anwendung vgl. § 27 +++)
 
 # § 16 – Aufspaltung oder Abspaltung auf eine Personengesellschaft
 
