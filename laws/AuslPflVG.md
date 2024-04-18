@@ -57,6 +57,8 @@ b) im Falle eines Fahrzeugs mit gewöhnlichem Standort in einem Drittstaat nach 
 
 (4) Es ist verboten, einen nach den Absätzen 1 bis 3 unzulässigen Gebrauch zu gestatten.
 
+(+++ § 3: Zur Nichtanwendung vgl. § 4 +++)
+
 # § 4 – Ausnahmen vom Verbot des Gebrauchs nicht versicherter Fahrzeuge
 
 § 3 ist nicht anzuwenden

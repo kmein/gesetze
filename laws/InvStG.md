@@ -127,6 +127,8 @@ b) die unmittelbar oder mittelbar Beteiligungen an Kapitalgesellschaften halten,
 
 (3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung mit Zustimmung des Bundesrates die Zuständigkeit nach Absatz 2 Nummer 2 und nach § 9 Absatz 1 Nummer 2 einer anderen Finanzbehörde oder mehreren anderen Finanzbehörden übertragen.
 
+(+++ § 2: Zur Anwendung vgl. § 57 +++)
+
 # § 5 – Prüfung der steuerlichen Verhältnisse
 
 (1) Die zuständige Finanzbehörde ist zur Überprüfung der steuerlichen Verhältnisse befugt.
@@ -557,7 +559,7 @@ Der Bestandsschutz nach Satz 2 Buchstabe c ist bei Beteiligungen, die ab dem 24.
 
 10. Die Anlagebestimmungen gehen mit Ausnahme der Nummer 7a aus den Anlagebedingungen hervor.
 
-(+++ § 26: Zur Anwendung vgl. § 56 Abs. 1 u. § 57 Abs. 4 u. 7 +++)
+(+++ § 26: Zur Anwendung vgl. § 56 Abs. 1 u. § 57 +++)
 
 # § 27 – Rechtsformen von inländischen Spezial-Investmentfonds
 
@@ -854,6 +856,7 @@ Die angewachsenen Ansprüche sind mit der Emissionsrendite anzusetzen, sofern di
 
 (3) Auf ausgeschüttete oder ausschüttungsgleiche Erträge, die aus Ausschüttungen von Investmentfonds, Vorabpauschalen oder Gewinnen aus der Veräußerung von Investmentanteilen stammen, ist die Teilfreistellung nach § 20 entsprechend anzuwenden.
 
+(+++ § 43: Zur Anwendung vgl. § 57 +++)  
 (+++ § 43 Abs. 1: Zur Anwendung vgl. § 48 Abs. 2 +++)  
 (+++ § 43 Abs. 1: Zur Anwendung vgl. § 48 Abs. 5 +++)  
 (+++ § 43 Abs. 3: Zur Anwendung vgl. § 48 Abs. 2 +++)  

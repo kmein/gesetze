@@ -451,7 +451,6 @@
 - [BAföG-MedPflegbV](laws/BAföG-MedPflegbV.md) Verordnung über die Ausbildungsförderung für Medizinalfachberufe und für Pflegeberufe
 - [BAföG-TeilerlaßV](laws/BAföG-TeilerlaßV.md) Verordnung über den leistungsabhängigen Teilerlaß von Ausbildungsförderungsdarlehen
 - [BAföGZustV 2004](laws/BAföGZustV_2004.md) Verordnung über die örtliche Zuständigkeit für Ausbildungsförderung im Ausland
-- [BAFzAZustAnO](laws/BAFzAZustAnO.md) Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
 - [BahnG](laws/BahnG.md) Gesetz über Maßnahmen zur Aufrechterhaltung des Betriebs von Bahnunternehmen des öffentlichen Verkehrs
 - [BahnVorschrAnwG](laws/BahnVorschrAnwG.md) Gesetz betreffend die Anwendung landesgesetzlicher Vorschriften über Bahneinheiten
 - [BAIUDBwOWiZustV](laws/BAIUDBwOWiZustV.md) Verordnung über die Zuständigkeit des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr für die Verfolgung und Ahndung von Ordnungswidrigkeiten
@@ -939,6 +938,8 @@
 - [BMFJubAnO](laws/BMFJubAnO.md) Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen an Beamte im Geschäftsbereich des Bundesministers der Finanzen
 - [BMFlüJubAnO](laws/BMFlüJubAnO.md) Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen an Beamte im Geschäftsbereich des Bundesministeriums für Vertriebene, Flüchtlinge und Kriegsgeschädigte
 - [BMFNVAnO](laws/BMFNVAnO.md) Anordnung über die Übertragung der Befugnis zur Genehmigung von Nebentätigkeiten im Geschäftsbereich des Bundesministers der Finanzen
+- [BMFSFJBAFzAZustAnO](laws/BMFSFJBAFzAZustAnO.md) Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
+- [BMFSFJBVABesBeihUnffAnO](laws/BMFSFJBVABesBeihUnffAnO.md) Anordnung des Bundesministeriums für Familie, Senioren, Frauen und Jugend zur Übertragung von Zuständigkeiten in Angelegenheiten der Besoldung, der Beihilfe und der Unfallfürsorge auf das Bundesverwaltungsamt
 - [BMFSVZustAnO](laws/BMFSVZustAnO.md) Anordnung zur Übertragung der örtlichen Zuständigkeit auf dem Gebiet der Soldatenversorgung im Geschäftsbereich des Bundesministeriums der Finanzen
 - [BMFWidVertrAnO](laws/BMFWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten im Widerspruchsverfahren und die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem Beamtenverhältnis von Beamten im Geschäftsbereich des Bundesministeriums der Finanzen
 - [BMFZVersAnO](laws/BMFZVersAnO.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Dienstbereich des Bundesministers der Finanzen
@@ -953,8 +954,6 @@
 - [BMinBF/BIBBWidAnO](laws/BMinBF_BIBBWidAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesministeriums für Bildung und Forschung und des Bundesinstituts für Berufsbildung in Angelegenheiten nach dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung in Verbindung mit dem Dienstrechtlichen Begleitgesetz
 - [BMinBFBeihZustAnO 2010](laws/BMinBFBeihZustAnO_2010.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesministeriums für Bildung und Forschung in Angelegenheiten nach den Beihilfevorschriften des Bundes
 - [BMinBFZustAnO](laws/BMinBFZustAnO.md) Anordnung zur Übertragung der Zuständigkeit für die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesinstituts für Berufsbildung im Geschäftsbereich des Bundesministeriums für Bildung und Forschung in Angelegenheiten nach den Beihilfevorschriften des Bundes
-- [BMinFSFJWid/BVtrAnO](laws/BMinFSFJWid_BVtrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend
-- [BMinFSFJWid/BVtrAnO 2001](laws/BMinFSFJWid_BVtrAnO_2001.md) Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend
 - [BMinFSFJWid/BVtrAnO 2003](laws/BMinFSFJWid_BVtrAnO_2003.md) Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend
 - [BMinG](laws/BMinG.md) Gesetz über die Rechtsverhältnisse der Mitglieder der Bundesregierung
 - [BMinGErnAnO](laws/BMinGErnAnO.md) Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit
@@ -5991,7 +5990,6 @@
 - [VersVergV](laws/VersVergV.md) Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme im Versicherungsbereich
 - [VersVermV](laws/VersVermV.md) Verordnung über die Versicherungsvermittlung und -beratung
 - [VertLastÄndG](laws/VertLastÄndG.md) Gesetz zur Änderung des Gesetzes zum NATO-Truppenstatut und anderer Gesetze
-- [VertrBMinFSFJAnO](laws/VertrBMinFSFJAnO.md) Anordnung über die Vertretung des Bundes bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend
 - [VertrFPrV](laws/VertrFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Vertrieb oder Geprüfte Berufsspezialistin für Vertrieb
 - [VertrGebErstG](laws/VertrGebErstG.md) Gesetz über die Erstattung von Gebühren der beigeordneten Vertretung in Patent-, Gebrauchsmuster-, Marken-, Design-, Topographieschutz- und Sortenschutzsachen
 - [VerwAnO](laws/VerwAnO.md) Anordnung über die Verwahrung unterirdischer bergbaulicher Anlagen
