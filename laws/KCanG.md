@@ -257,7 +257,8 @@ Satz 1 gilt nicht in militärischen Bereichen der Bundeswehr.
 
 (6) Unbeschadet des Absatzes 4 können die Zollbehörden im Rahmen der Wahrnehmung ihrer Aufgaben nach § 1 Absatz 3 des Zollverwaltungsgesetzes Waren, bei denen Grund zu der Annahme besteht, dass es sich um Cannabis handelt, das entgegen Absatz 1 in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbracht worden ist oder verbracht werden soll, sicherstellen. Die §§ 48 bis 50 des Bundespolizeigesetzes gelten entsprechend. Kosten, die den Zollbehörden durch die Sicherstellung und Verwahrung entstehen, sind vom Verantwortlichen zu tragen; die §§ 17 und 18 des Bundespolizeigesetzes gelten entsprechend. Mehrere Verantwortliche haften als Gesamtschuldner. Die Kosten können im Verwaltungsvollstreckungsverfahren beigetrieben werden.
 
-(+++ § 2 Abs. 3 Satz 1 Nr. 4: Tritt gem. Art. 15 Abs. 2 G v. 27.3.2024 I Nr. 109 am 1.7.2024 in Kraft +++)
+(+++ § 2 Abs. 3 Satz 1 Nr. 4: Tritt gem. Art. 15 Abs. 2 G v. 27.3.2024 I Nr. 109 am 1.7.2024 in Kraft +++)  
+(+++ § 2 Abs. 6: Zur Geltung vgl. § 4 Abs. 4 +++)
 
 # § 3 – Erlaubter Besitz von Cannabis
 
