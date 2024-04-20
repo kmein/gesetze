@@ -59,9 +59,9 @@ Die zuständige Behörde kann dem Jäger eine Durchschrift des Wildursprungssche
 
 # § 2c – Verbote und Beschränkungen
 
-(1) Es ist verboten, Fleisch von nach § 2a Absatz 1 geschlachteten Tieren vor Abschluss einer nach § 2a Absatz 1 erforderlichen amtlichen Untersuchung für den menschlichen Verzehr im eigenen häuslichen Bereich zuzubereiten oder zu be- oder verarbeiten. Die zuständige Behörde kann die Zubereitung, Be- oder Verarbeitung von in Satz 1 bezeichnetem Fleisch vor Abschluss der Untersuchung nach § 2a Absatz 1 Nummer 3 genehmigen, sofern der zur Anmeldung der Untersuchung Verpflichtete sicherstellt, dass der Verzehr dieses Fleisches bis zur Bestätigung, dass Trichinen nicht nachgewiesen worden sind, ausgeschlossen ist.
+(1) Es ist verboten, Fleisch von nach § 2a Absatz 1 geschlachteten Tieren vor Abschluss einer nach § 2a Absatz 1 erforderlichen amtlichen Untersuchung für den menschlichen Verzehr im eigenen häuslichen Bereich zuzubereiten oder zu be- oder verarbeiten. Die zuständige Behörde kann die Zubereitung, die Be- oder die Verarbeitung von in Satz 1 bezeichnetem Fleisch bereits vor Abschluss der Untersuchung nach § 2a Absatz 1 Nummer 3 genehmigen, sofern der zur Anmeldung der Untersuchung Verpflichtete sicherstellt, dass der Verzehr dieses Fleisches bis zur Bestätigung, dass keine Trichinen nachgewiesen worden sind, ausgeschlossen ist.
 
-(2) Es ist verboten, nach § 2b Absatz 1 erlegtes Wild vor Abschluss einer nach § 2b Absatz 1 erforderlichen amtlichen Untersuchung für den menschlichen Verzehr im eigenen häuslichen Bereich zuzubereiten oder zu be- oder verarbeiten.
+(2) Es ist verboten, nach § 2b Absatz 1 erlegtes Wild vor Abschluss einer nach § 2b Absatz 1 erforderlichen amtlichen Untersuchung für den menschlichen Verzehr im eigenen häuslichen Bereich zuzubereiten oder zu be- oder verarbeiten. Die zuständige Behörde kann die Zubereitung, die Be- oder die Verarbeitung von in Satz 1 bezeichnetem Fleisch von erlegtem Wild bereits vor Abschluss der Untersuchung nach § 2b Absatz 1 Nummer 2 genehmigen, sofern der zur Anmeldung der Untersuchung Verpflichtete sicherstellt, dass der Verzehr dieses Fleisches bis zur Bestätigung, dass keine Trichinen nachgewiesen worden sind, ausgeschlossen ist.
 
 # § 3 – Anforderungen an die Abgabe kleiner Mengen bestimmter Primärerzeugnisse und Lebensmittel tierischen Ursprungs
 
@@ -223,19 +223,11 @@ hat hierüber Nachweise zu führen. Die Nachweise nach Satz 1 sind in übersicht
 
 # § 12 – Schlachtungen außerhalb eines Schlachthofes
 
-(1) Tierkörper von als Haustiere gehaltenen Huftieren, die nach Anhang III Abschnitt I Kapitel VI der Verordnung (EG) Nr. 853/2004 außerhalb eines Schlachthofes notgeschlachtet worden sind, dürfen nur zu einem Schlachthof befördert werden, wenn ihnen ein Begleitschein nach Form und Inhalt des Musters der Anlage 8 beigefügt ist.
-
-(2) Einzelne Huftiere der Gattung Rind, die ganzjährig im Freiland gehalten werden, dürfen mit Genehmigung der zuständigen Behörde im Haltungsbetrieb geschlachtet oder zur Gewinnung von Fleisch für den menschlichen Verzehr getötet werden, wenn die Anforderungen nach Anhang III Abschnitt III Nummer 3 Buchstabe a bis j der Verordnung (EG) Nr. 853/2004 eingehalten werden. Fleisch von nach Satz 1 geschlachteten oder getöteten Tieren darf abweichend von Anhang III Abschnitt I Kapitel IV Nummer 2 Buchstabe a der Verordnung (EG) Nr. 853/2004 für den menschlichen Verzehr verwendet werden. Nach Satz 1 geschlachtete oder getötete Tiere dürfen abweichend von Anhang III Abschnitt I Kapitel IV Nummer 2 Buchstabe b der Verordnung (EG) Nr. 853/2004 in einen Schlachthof verbracht werden. Die Beförderung der geschlachteten oder getöteten Tiere in den Schlachthof darf abweichend von Anhang III Abschnitt III Nummer 3 Buchstabe h der Verordnung (EG) Nr. 853/2004 nicht länger als eine Stunde dauern.
+Tierkörper von als Haustiere gehaltenen Huftieren, die nach Anhang III Abschnitt I Kapitel VI der Verordnung (EG) Nr. 853/2004 außerhalb eines Schlachthofes notgeschlachtet worden sind, dürfen nur zu einem Schlachthof befördert werden, wenn ihnen ein Begleitschein nach Form und Inhalt des Musters der Anlage 8 beigefügt ist.
 
 # § 13 – Abgabe von Wild an Wildbearbeitungsbetriebe
 
-Wer als Jäger Wildkörper an einen Wildbearbeitungsbetrieb abgibt, hat auf Anweisung der zuständigen Behörde abweichend von Anhang III Abschnitt IV Kapitel II Nummer 4 Buchstabe a Satz 3 der Verordnung (EG) Nr. 853/2004 den Kopf oder die Eingeweide beizufügen, soweit dies zur Untersuchung auf
-
-1. in Anhang I Gruppe B Nummer 3 der Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmaßnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. EG Nr. L 125 S. 10) in der jeweils geltenden Fassung genannte Stoffe oder
-
-2. Krankheitserreger insbesondere zur Überwachung von Zoonosen und Zoonoseerregern
-
-erforderlich ist.
+Wer als Jäger Wildkörper an einen Wildbearbeitungsbetrieb abgibt, hat auf Anweisung der zuständigen Behörde abweichend von Anhang III Abschnitt IV Kapitel II Nummer 4 Buchstabe a Satz 3 der Verordnung (EG) Nr. 853/2004 jedem Wildkörper den Kopf oder die Eingeweide beizufügen, sofern dies zur Untersuchung auf Krankheitserreger, insbesondere zur Überwachung von Zoonosen und Zoonoseerregern, erforderlich ist.
 
 # § 13a – Ausnahmen für das Inverkehrbringen von Hackfleisch
 
@@ -423,7 +415,7 @@ in den Verkehr zu bringen.
 
 (2) Es ist verboten, mit Wasserbindern behandeltes Geflügelfleisch als frisches Fleisch in den Verkehr zu bringen.
 
-(3) Es ist verboten, Eier nach Ablauf des 21. Tages nach dem Legen an Verbraucher abzugeben.
+(3) Es ist verboten, Eier nach Ablauf des 28. Tages nach dem Legen an Verbraucher abzugeben.
 
 # § 23 – Straftaten
 
@@ -451,7 +443,7 @@ in den Verkehr zu bringen.
 
 (2) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
 
-1. entgegen § 4 Absatz 3 Satz 3 einen Tierkörper oder Fleisch in den Verkehr bringt,
+1. entgegen § 4 Absatz 3 Satz 4 einen Tierkörper oder Fleisch in den Verkehr bringt,
 
 2. entgegen § 5 Absatz 1 Satz 1 kleine Mengen von Fischereierzeugnissen abgibt,
 
@@ -471,9 +463,9 @@ in den Verkehr zu bringen.
 
 (2) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 2b Absatz 1 Nummer 2 oder Absatz 2 Satz 1 das Wild nicht, nicht richtig oder nicht rechtzeitig anmeldet,
+1. (weggefallen)
 
-2. entgegen § 2c Absatz 1 Satz 1 oder Absatz 2 Fleisch oder Wild zubereitet oder be- oder verarbeitet,
+2. entgegen § 2c Absatz 1 Satz 1 oder Absatz 2 Satz 1 Fleisch oder Wild zubereitet oder be- oder verarbeitet,
 
 3. entgegen § 3 Absatz 1 Satz 1 Nummer 1 oder 2, jeweils in Verbindung mit Anlage 1 Nummer 1.4 Satz 1, nicht Trinkwasser verwendet,
 
@@ -1783,9 +1775,10 @@ Telefon: ..... Fax: .....
 <span id="FnA1-f802437_13"></span><a href="#FnR.FnA1-f802437_13" class="Footnote">* </a>  
 Angabe der Tierart. \*\* Zutreffendes ankreuzen.
 
-# Anlage 8 – (zu § 12 Absatz 1)Muster
+# Anlage 8 – (zu § 12)Muster
 
-(Fundstelle: BGBl. I 2018, 517 - 518)
+(Fundstelle: BGBl. I 2018, 517 - 518  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Angaben zum Tier:
 
@@ -1811,32 +1804,13 @@ Das Tier
 hat keine verbotenen oder nicht als Arzneimittel zugelassenen oder registrierten oder nicht als Futtermittelzusatzstoffe zugelassenen Stoffe mit pharmakologischer Wirkung erhalten,
 
 –  
-ist mit zugelassenen oder registrierten Arzneimitteln behandelt worden: Ja/Nein<a href="#FnA1-f802437_31" class="FnR">*</a></sup> .
+ist mit zugelassenen oder registrierten Arzneimitteln behandelt worden: Ja/Nein<a href="#f802437_31" class="FnR">*</a></sup> .
 
 Wenn ja, Angabe des/der Arzneimittel, des Behandlungsdatums/der Behandlungsdaten und ggf. der Wartezeit/en
 
 ......
 
-3. Der unterzeichnende Tierarzt erklärt, dass das unter Nummer 1 beschriebene transportunfähige Tier
-
-–  
-am
-
-–  
-|     |         |     |           |                                                      |
-|:----|:--------|:----|:----------|:-----------------------------------------------------|
-| am  | .....   | um  | .....     | in dem vorgenannten Betrieb geschlachtet worden ist. |
-|     | (Datum) |     | (Uhrzeit) |                                                      |
-
-  
-  
-
-Ergebnis der Schlachttieruntersuchung
-
-Körpertemperatur:..... °C 
-
-<span id="FnA1-f802437_31"></span><a href="#FnR.FnA1-f802437_31" class="Footnote">*</a>  
-Nicht Zutreffendes streichen.
+3. (weggefallen)
 
 # Anlage 8a – (zu § 2b Absatz 2, § 4 Absatz 3 und § 4a)Wildursprungsschein für Untersuchung auf Trichinen im Falle der Trichinenprobenahme durch den Jäger (§ 6 Absatz 2 der Tierische Lebensmittel-Überwachungsverordnung)
 

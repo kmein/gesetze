@@ -117,7 +117,7 @@ Die zuständige Behörde hat in landwirtschaftlichen Betrieben, in denen kleine 
 
 (1) Bei Tieren, die nach § 2a Absatz 1 der Tierische Lebensmittel-Hygieneverordnung zur amtlichen Untersuchung angemeldet worden sind, sind folgende Untersuchungen durchzuführen:
 
-1. die amtliche Schlachttieruntersuchung nach Artikel 11 Absatz 2 und 5 der Durchführungsverordnung (EU) 2019/627 oder
+1. die amtliche Schlachttieruntersuchung nach Artikel 11 Absatz 2 und 5 der Durchführungsverordnung (EU) 2019/627,
 
 2. die amtliche Fleischuntersuchung nach Artikel 12 Absatz 2 und 3, auch in Verbindung mit Artikel 15 Absatz 2 und 3, Artikel 18 bis 24, Artikel 27 Absatz 1 Buchstabe a bis c, Artikel 29, 30, 32 Absatz 3, Artikel 33, 34 und 45 Buchstabe c bis u der Durchführungsverordnung (EU) 2019/627 und
 
@@ -141,7 +141,7 @@ Die zuständige Behörde kann abweichend von Satz 1 Nummer 3 die Untersuchung au
 
 (3) (weggefallen)
 
-(4) Fleisch, ausgenommen Fleisch von Geflügel oder Hasentieren, das nach Artikel 45 oder Artikel 28 Absatz 6 der Durchführungsverordnung (EU) 2019/627 genussuntauglich erklärt wurde, ist mit einem Kennzeichen nach Form und Inhalt des Musters der Anlage 1 Nummer 4 in der in den Absätzen 1 bis 3 geregelten Weise zu kennzeichnen.
+(4) Fleisch, ausgenommen Fleisch von Geflügel oder Hasentieren, das nach Artikel 45 oder Artikel 28 Absatz 6 der Durchführungsverordnung (EU) 2019/627 genussuntauglich erklärt wurde, ist mit einem Kennzeichen nach Form und Inhalt des Musters der Anlage 1 Nummer 4 in der in den Absätzen 1 bis 2 geregelten Weise zu kennzeichnen.
 
 (5) (weggefallen)
 

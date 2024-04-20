@@ -3366,6 +3366,7 @@
 - [LFBAG](laws/LFBAG.md) Gesetz über das Luftfahrt-Bundesamt
 - [LFGB](laws/LFGB.md) Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch 1) 2) 3)
 - [LFÜG](laws/LFÜG.md) Gesetz über den Übergang auf das neue Lebensmittel- und Futtermittelrecht
+- [LFVV](laws/LFVV.md) Verordnung mit Durchführungsvorschriften über die Verbringung von Lebensmitteln und Futtermitteln in die Europäische Union und über die amtlichen Kontrollen der Verbringung (Lebensmittel-und-Futtermittel-Verbringungs-Verordnung – LFVV)*, **
 - [LFZ/KVRÄndG](laws/LFZ_KVRÄndG.md) Gesetz über die Fortzahlung des Arbeitsentgelts im Krankheitsfall und über Änderungen des Rechts der gesetzlichen Krankenversicherung
 - [LFzPfSchG](laws/LFzPfSchG.md) Gesetz über die Unzulässigkeit der Sicherungsbeschlagnahme von Luftfahrzeugen
 - [LHauswAusbStV](laws/LHauswAusbStV.md) Verordnung über die Eignung der Ausbildungsstätte in der ländlichen Hauswirtschaft
@@ -3380,7 +3381,6 @@
 - [LMBVV](laws/LMBVV.md) Verordnung über Lebensmittel für bestimmte Verbrauchergruppen
 - [LMeerSchÜbk](laws/LMeerSchÜbk.md) Übereinkommen zur Verhütung der Meeresverschmutzung vom Lande aus
 - [LMeerSchÜbkG](laws/LMeerSchÜbkG.md) Gesetz zu dem Übereinkommen vom 4. Juni 1974 zur Verhütung der Meeresverschmutzung vom Lande aus
-- [LMEV](laws/LMEV.md) Verordnung über die Durchführung der veterinärrechtlichen Kontrollen bei der Einfuhr und Durchfuhr von Lebensmitteln tierischen Ursprungs aus Drittländern sowie über die Einfuhr sonstiger Lebensmittel aus Drittländern
 - [LMG1974§25AnwG](laws/LMG1974§25AnwG.md) Gesetz über die weitere Anwendbarkeit des § 25 des Lebensmittel- und Bedarfsgegenständegesetzes
 - [LmhFortbPrüfV](laws/LmhFortbPrüfV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Verkaufsleiter im Lebensmittelhandwerk und Geprüfte Verkaufsleiterin im Lebensmittelhandwerk
 - [LMHV](laws/LMHV.md) Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und Inverkehrbringen von Lebensmitteln
@@ -6724,7 +6724,7 @@
 - [34. BImSchV](laws/34._BImSchV.md) Vierunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über die Lärmkartierung)
 - [35. BImSchV](laws/35._BImSchV.md) Fünfunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [36. BImSchV](laws/36._BImSchV.md) Sechsunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Durchführung der Regelungen der Biokraftstoffquote)
-- [37. BImSchV](laws/37._BImSchV.md) Siebenunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote) 1, 2
+- [37. BImSchV](laws/37._BImSchV.md) Verordnung zur Neufassung der Siebenunddreißigsten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes 1, 2 (Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote)
 - [38. BImSchV](laws/38._BImSchV.md) Achtunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes 1, 2
 - [39. BImSchV](laws/39._BImSchV.md) Neununddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes*)
 - [4. ÄndG LAG](laws/4._ÄndG_LAG.md) Viertes Gesetz zur Änderung des Lastenausgleichsgesetzes

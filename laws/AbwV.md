@@ -97,7 +97,7 @@ Soweit in den Anhängen nichts anderes bestimmt ist, ist die Einhaltung der Anfo
 
 Die zusammengefassten Mittelwerte nach den Nummern 1 und 2 sind der zuständigen Behörde im Rahmen des Jahresberichtes nach Anlage 2 Nummer 3 Buchstabe a zu übermitteln.
 
-(+++ § 6 Abs. 1: Zur Anwendung vgl. Anhang 13 Teil C Abs. 1 u. 5; Anhang 19 Teil C Abs. 4, Teil D Abs. 3; Anhang 22 Abschn. I Teil C Abs. 6, Abschn. II Teil C Abs. 3, Abschn. II Teil E Abs. 7; Anhang 28 Teil C Abs. 10, Teil D Abs. 4; Anhang 36 Teil C Abs. 4 ; Anhang 37 Teil C Abs. 5 ; Anhang 39 Teil E Abs. 1; Anhang 43 Teil C Abs. 5; Anhang 45 Teil C Abs. 3, Teil D Abs. 3 +++)
+(+++ § 6 Abs. 1: Zur Anwendung vgl. Anhang 13 Teil C Abs. 1 u. 5; Anhang 19 Teil C Abs. 4, Teil D Abs. 3; Anhang 22 Abschn. I Teil C Abs. 6, Abschn. II Teil C Abs. 3, Abschn. II Teil E Abs. 7; Anhang 28 Teil C Abs. 10, Teil D Abs. 4; Anhang 36 Teil C Abs. 4 ; Anhang 37 Teil C Abs. 5 ; Anhang 39 Teil E Abs. 1; Anhang 43 Teil C Abs. 5; Anhang 45 Teil C Abs. 3, Teil D Abs. 3 +++) (+++ § 6 Abs. 1: Zur Nichtanwendung vgl. Anhang 12 Teil C Abs. 4 Satz 3 +++)
 
 # § 7 – Ordnungswidrigkeiten
 

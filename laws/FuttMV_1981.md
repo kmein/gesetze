@@ -47,21 +47,7 @@ für die Vertragsverhandlungen und den Vertragsschluss ausschließlich Fernkommu
 
 # § 3 – (weggefallen)
 
-# § 4 – Kennzeichnung bestimmter Futtermittel
-
-(1) Die im Anhang Nummer 13 Spalte 2 Nummer 2.2.1., 2.2.2., 2.2.3., 2.3.1. und 2.3.2. der Verordnung (EU) Nr. 242/2010 der Kommission vom 19. März 2010 zur Erstellung eines Katalogs der Einzelfuttermittel (ABl. L 77 vom 19.3.2010, S. 17) bezeichneten Einzelfuttermittel dürfen nur in den Verkehr gebracht werden,
-
-1. wenn die danach zu verwendende jeweilige Bezeichnung durch die Wörter „für Rinder, Schafe und Ziegen mit Pansenfunktion“ ergänzt wird und,
-
-2. soweit es sich um ein in Anhang Nummer 13 Spalte 2 Nummer 2.2.3. der Verordnung (EU) Nr. 242/2010 bezeichnetes Einzelfuttermittel handelt, ein Hinweis angegeben ist, dass bei Kälbern oder Schaf- oder Ziegenlämmern der Gehalt an Ammoniumsulfat in der täglichen Ration 0,5 vom Hundert nicht überschreiten darf.
-
-(2) Mischfuttermittel, die in Absatz 2 genannte Einzelfuttermittel enthalten, dürfen nur in den Verkehr gebracht werden, wenn
-
-1. die Bezeichnung dieser Einzelfuttermittel durch die Wörter „für Rinder, Schafe und Ziegen mit Pansenfunktion“ ergänzt wird und
-
-2. die Menge der darin enthaltenen nicht proteinhaltigen Stickstoffverbindungen, ausgedrückt als Rohprotein, die beim Verfüttern täglich je Tier oder 100 Kilogramm Lebendgewicht nicht überschritten werden darf, verbunden mit dem Hinweis, dass allmählich anzufüttern ist, angegeben ist.
-
-(3) Ergänzungsfuttermittel für Kälber oder Schaf- oder Ziegenlämmer, die Ammoniumsulfat enthalten, dürfen nur mit dem Hinweis in den Verkehr gebracht werden, dass der Gehalt an Ammoniumsulfat in der täglichen Ration 0,5 vom Hundert nicht überschreiten darf.
+# § 4 – (weggefallen)
 
 # § 5 – Kennzeichnung von Futtermitteln bei Fernabsatzverträgen
 
@@ -127,9 +113,7 @@ Es ist verboten,
 
 2. ein Einzelfuttermittel oder ein Ergänzungsfuttermittel, das den Anforderungen nach Artikel 8 in Verbindung mit Artikel 32 Absatz 2 der Verordnung (EG) Nr. 767/2009 nicht entspricht, in den Verkehr zu bringen.
 
-# § 13 – Zugelassene Futtermittelzusatzstoffe
-
-In der Europäischen Union zugelassene Futtermittelzusatzstoffe sind im Gemeinschaftsregister der Futtermittelzusatzstoffe nach der Verordnung (EG) Nr. 1831/2003<span id="FnR.f795305_02"></span><a href="#f795305_02" class="FnR">*</a></sup> aufgeführt.
+# § 13 – (weggefallen)
 
 # § 14 – Fütterungsvorschriften
 
@@ -397,107 +381,9 @@ Bei der amtlichen Untersuchung von Futtermitteln auf Pestizidrückstände sind d
 
 (2) Die Buchführungspflichtigen nach Absatz 1 oder nach Artikel 5 Absatz 1 in Verbindung mit Anhang I oder Artikel 5 Absatz 2 in Verbindung mit Anhang II der Verordnung (EG) Nr. 183/2005 haben die Bücher, Buchführungsunterlagen, Dokumentationen und Dateien fünf Jahre aufzubewahren. Vorschriften, die eine längere Aufbewahrungspflicht vorsehen, bleiben unberührt.
 
-# § 31 – Einfuhrverbote
+# §§ 31 bis 37 – (weggefallen)
 
-(1) Die Einfuhr von Futtermitteln tierischen Ursprungs aus der Volksrepublik China ist verboten.
-
-(2) Abweichend von Absatz 1 ist die Einfuhr von Erzeugnissen, die in Teil I des Anhangs der Entscheidung 2002/994/EG der Kommission vom 20. Dezember 2002 über Schutzmaßnahmen betreffend aus China eingeführte Erzeugnisse tierischen Ursprungs (ABl. L 348 vom 21.12.2002, S. 154), die zuletzt durch den Durchführungsbeschluss (EU) 2015/1068 (ABl. L 174 vom 3.7.2015, S. 30) geändert worden ist, genannt sind, gestattet.
-
-(3) Abweichend von Absatz 1 ist ferner die Einfuhr von Erzeugnissen, die in Teil II des Anhangs der Entscheidung 2002/994/EG genannt sind, gestattet, sofern ihnen eine Bescheinigung der zuständigen Behörde der Volksrepublik China beigefügt ist, aus der hervorgeht, dass jede Sendung einer chemischen Untersuchung unterzogen wurde, um sicherzustellen, dass die betreffenden Erzeugnisse keine Gefahr für die Gesundheit von Mensch oder Tier darstellen. Ein Erzeugnis stellt insbesondere eine Gefahr für die Gesundheit von Mensch oder Tier dar, wenn bei der Untersuchung festgestellt wird, dass
-
-1. es Chloramphenicol oder Nitrofuran einschließlich seiner Metaboliten oder
-
-2. ein im ersten Anstrich in Teil II des Anhangs der Entscheidung 2002/994/EG genanntes Erzeugnis Malachitgrün oder Kristallviolett oder deren jeweiligen Metaboliten
-
-enthält. Die Analyseergebnisse der Untersuchung sind in der Bescheinigung anzugeben.
-
-(4) (weggefallen)
-
-# § 32 – Einfuhrregelungen für Guarkernmehl
-
-(1) Ein
-
-1. in Artikel 1 Absatz 1 der Durchführungsverordnung (EU) 2015/175 der Kommission vom 5. Februar 2015 zur Festlegung von Sondervorschriften für die Einfuhr von Guarkernmehl, dessen Ursprung oder Herkunft Indien ist, wegen des Risikos einer Kontamination mit Pentachlorphenol und Dioxinen (ABl. L 30 vom 6.2.2015, S. 10) bezeichneter Stoff, der für den Verzehr durch Tiere bestimmt ist, oder
-
-2. in Artikel 1 Absatz 2 der Durchführungsverordnung (EU) 2015/175 bezeichnetes Mischfuttermittel
-
-darf nur eingeführt werden, wenn es über einen in Anlage 5 genannten Eingangsort in das Inland verbracht wird.
-
-(2) Abweichend von Artikel 5 Absatz 1 der Durchführungsverordnung (EU) 2015/175 ist die Einfuhr eines in Artikel 1 Absatz 1 oder Absatz 2 der Durchführungsverordnung (EU) 2015/175 genannten Futtermittels, das vor dem 26. Februar 2015 aus seinem Ursprungsland verbracht worden ist, zulässig, soweit es
-
-1. über einen in Anlage 5 genannten Eingangsort in das Inland verbracht wird und
-
-2. nachweislich einer Genusstauglichkeitsbescheinigung nach Artikel 2 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 258/2010 der Kommission vom 25. März 2010 zum Erlass von Sondervorschriften für die Einfuhr von Guarkernmehl, dessen Ursprung oder Herkunft Indien ist, wegen des Risikos einer Kontamination mit Pentachlorphenol und Dioxinen sowie zur Aufhebung der Entscheidung 2008/352/EG (ABl. L 80 vom 26.3.2010, S. 28) keinen Gehalt an Pentachlorphenol enthält, der 0,01 mg/kg überschreitet.
-
-# § 33 – Verbote auf Grund von Schutzmaßnahmen der Europäischen Gemeinschaft
-
-(1) Futtermittel, die in Drittländern hergestellt oder behandelt worden sind, dürfen nicht eingeführt oder sonst verbracht werden, soweit die Voraussetzungen des Absatzes 2 erfüllt sind.
-
-(2) Die Voraussetzungen für die Verbote nach Absatz 1 sind erfüllt, soweit
-
-1. die Einfuhr in oder die Durchfuhr durch die Europäische Union oder das erstmalige Inverkehrbringen in der Europäischen Union durch einen nicht unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union, den die Europäische Gemeinschaft oder die Europäische Union auf Grund
-
-a) des Artikels 53 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1) oder
-
-b) des Artikels 22 der Richtlinie 97/78/EG des Rates vom 18. Dezember 1997 zur Festlegung von Grundregeln für die Veterinärkontrollen von aus Drittländern in die Gemeinschaft eingeführten Erzeugnissen (ABl. L 24 vom 30.1.1998, S. 9)
-
-in der jeweils geltenden Fassung im Hinblick auf das betreffende Drittland oder einen in einem Drittland gelegenen Betrieb erlassen hat, beschränkt oder verboten ist und
-
-2. das Bundesministerium jeweils den maßgeblichen Rechtsakt im Bundesanzeiger bekannt gemacht hat; das Bundesministerium macht auch Änderungen und die Aufhebung des Rechtsaktes im Bundesanzeiger bekannt.
-
-(3) Das Verbot des Absatzes 1 gilt nicht für Futtermittel, die vor Wirksamwerden der Bekanntmachung nach Absatz 2 Nummer 2 in Verbindung mit Absatz 4 eingeführt worden sind.
-
-(4) Bekanntmachungen nach Absatz 2 Nummer 2 werden mit Beginn des Tages, der auf ihre Veröffentlichung folgt, wirksam, soweit in der Bekanntmachung kein späterer Zeitpunkt bestimmt ist.
-
-# § 34 – Ausnahmen von Verbringungsverboten
-
-(1) Abweichend von § 53 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches dürfen Futtermittel in das Inland verbracht werden, soweit sie
-
-1. unter zollamtlicher Überwachung befördert werden,
-
-2. in Zolllagern oder Lagern in Freizonen gelagert werden,
-
-3. veredelt und umgewandelt werden, solange sich die Futtermittel unter zollamtlicher Überwachung befinden.
-
-Satz 1 gilt nicht für Futtermittel, die den Verboten des § 17 Absatz 1 Satz 1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches oder des Artikels 15 Absatz 1 in Verbindung mit Absatz 2 erster Anstrich der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EG) Nr. 596/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist, nicht entsprechen.
-
-(2) Waren im Sinne von Absatz 1 Satz 1 Nummer 3 unterliegen den Vorschriften des § 57 Absatz 4 des Lebensmittel- und Futtermittelgesetzbuches.
-
-# § 35 – Eingangsstellen, Anmeldepflicht
-
-(1) Die Einfuhr von Futtermitteln, die nur von nach Artikel 10 Nummer 1 Buchstabe a oder b der Verordnung (EG) Nr. 183/2005 oder nach § 18 Absatz 4 Satz 1 zugelassenen Betrieben in den Verkehr gebracht werden dürfen, aus einem Drittland ist nur über Zollstellen mit zugeordneten Grenzkontrollstellen (Eingangsstellen) zulässig. Die tierseuchen- und pflanzenschutzrechtlichen Einfuhrvorschriften bleiben unberührt.
-
-(2) Derjenige, der Futtermittel nach Absatz 1 aus einem Drittland einführt, hat dies spätestens einen Werktag vor deren Eintreffen an der vorgesehenen Eingangsstelle der für die Eingangsstelle zuständigen Behörde anzumelden.
-
-(3) Sendungen von Futtermitteln nach Artikel 3 Buchstabe c der Verordnung (EG) Nr. 669/2009 der Kommission vom 24. Juli 2009 zur Durchführung der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates im Hinblick auf verstärkte amtliche Kontrollen bei der Einfuhr bestimmter Futtermittel und Lebensmittel nicht tierischen Ursprungs und zur Änderung der Entscheidung 2006/504/EG (ABl. L 194 vom 25.7.2009, S. 11) in der jeweils geltenden Fassung dürfen aus Drittländern nur über einen in Deutschland für Futtermittel benannten Eingangsort im Sinne des Artikels 3 Buchstabe b der Verordnung (EG) Nr. 669/2009 in das Inland gebracht werden, soweit die jeweilige Sendung nicht bereits über einen von einem anderen Mitgliedstaat nach Artikel 3 Buchstabe b der Verordnung (EG) Nr. 669/2009 benannten Eingangsort in das Gebiet der Europäischen Union gebracht worden ist. Die Veröffentlichung der Liste der benannten Eingangsorte nach Artikel 5 Satz 1 der Verordnung (EG) Nr. 669/2009 erfolgt durch das Bundesamt.
-
-# § 36 – Dokumentenprüfung, Nämlichkeitskontrolle, Warenuntersuchung
-
-(1) Soweit auf Grund eines auf Grund der Verordnung (EG) Nr. 882/2004 erlassenen Rechtsaktes der Europäischen Gemeinschaft oder der Europäischen Union oder auf Grund der Verordnung (EU) 2017/625 oder eines auf Grund der Verordnung (EU) 2017/625 erlassenen Rechtsaktes der Europäischen Union bei der Einfuhr von Futtermitteln
-
-1. eine Dokumentenprüfung oder eine Nämlichkeitskontrolle durchzuführen ist, ist diese von den vom Bundesministerium der Finanzen bestimmten Zollstellen (Zollstellen),
-
-2. eine Warenuntersuchung durchzuführen ist, ist diese von den für die Futtermittelüberwachung zuständigen Behörden in Abstimmung mit den Zollstellen
-
-durchzuführen.
-
-(2) Die Durchfuhr von Futtermitteln erfolgt unter zollamtlicher Überwachung, soweit möglich in Form des Zollverschlusses.
-
-# § 37 – Bescheinigungen
-
-(1) Die Bescheinigung nach § 55 Absatz 2 des Lebensmittel- und Futtermittelgesetzbuches ist als Teil der Warenbegleitpapiere bis zur Überführung der Futtermittel in den zollrechtlich freien Verkehr mitzuführen.
-
-(2) Werden Futtermittel aus einem Drittland über andere Mitgliedstaaten zur Einfuhr in das Inland verbracht, so ist der zuständigen Behörde die von dem zuerst berührten Mitgliedstaat bei dem Verbringen ausgestellte Bescheinigung über die durchgeführten futtermittelrechtlichen Kontrollen vorzulegen. Die zuständige Behörde kann eine deutsche Übersetzung der Bescheinigung verlangen.
-
-# § 38 – Straftaten
-
-Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
-
-1. entgegen § 31 Absatz 1 ein Futtermittel einführt,
-
-2. entgegen § 32 Absatz 1 einen dort genannten Stoff, der für den Verzehr durch Tiere bestimmt ist, oder ein dort genanntes Mischfuttermittel einführt oder
-
-3. entgegen § 33 Absatz 1 ein Futtermittel einführt oder sonst verbringt.
+# § 38 – (weggefallen)
 
 # § 39 – Straftaten
 
@@ -513,9 +399,7 @@ Nach § 58 Absatz 3, 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird
 
 # § 40 – Ordnungswidrigkeiten
 
-(1) Wer eine in § 38 bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
-
-(2) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
 1. (weggefallen),
 
@@ -549,11 +433,7 @@ b) § 17 Absatz 3 Fette, Öle, Fettsäuren, mit Glycerin veresterte Fettsäuren,
 
 14. entgegen § 30 Absatz 1 nicht, nicht richtig oder nicht vollständig Buch führt oder entgegen § 30 Absatz 2 Satz 1 Bücher, Buchführungsunterlagen, Dokumentationen oder Dateien nicht oder nicht mindestens fünf Jahre aufbewahrt.
 
-(3) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
-
-1. entgegen § 17 Absatz 4 Satz 1 oder § 20 Satz 1 einen Futtermittelzusatzstoff, eine Vormischung, ein Einzelfuttermittel oder ein Mischfuttermittel einführt oder
-
-2. entgegen § 35 Absatz 2 eine Anmeldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+(2) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 17 Absatz 4 Satz 1 oder § 20 Satz 1 einen Futtermittelzusatzstoff, eine Vormischung oder ein Mischfuttermittel einführt.
 
 # § 40a – Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 999/2001
 
@@ -612,15 +492,11 @@ nicht erfüllt,
 
 2. entgegen Artikel 5 Absatz 6 sich ein Futtermittel beschafft oder ein Futtermittel verwendet,
 
-3. entgegen Artikel 7 Absatz 1 Buchstabe a einen dort genannten Nachweis nach Aufforderung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht unverzüglich erbringt,
+3. entgegen Artikel 7 Absatz 1 Buchstabe a einen dort genannten Nachweis nach Aufforderung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht unverzüglich erbringt oder
 
-4. entgegen Artikel 11 eine Tätigkeit ohne Registrierung oder Zulassung ausübt oder
+4. entgegen Artikel 11 eine Tätigkeit ohne Registrierung oder Zulassung ausübt.
 
-5. entgegen Artikel 23 Absatz 1 nicht sicherstellt, dass Futtermittel aus Drittländern nur unter den dort genannten Bedingungen eingeführt werden.
-
-# § 43 – Ordnungswidrigkeiten bei Zuwiderhandlungen gegen die Verordnung (EG) Nr. 669/2009
-
-Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 6 Unterabsatz 2 der Verordnung (EG) Nr. 669/2009 der Kommission vom 24. Juli 2009 zur Durchführung der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates im Hinblick auf verstärkte amtliche Kontrollen bei der Einfuhr bestimmter Futtermittel und Lebensmittel nicht tierischen Ursprungs und zur Änderung der Entscheidung 2006/504/EG (ABl. L 194 vom 25.7.2009, S. 11), die zuletzt durch die Durchführungsverordnung (EU) 2017/2298 (ABl. L 329 vom 13.12.2017, S. 26) geändert worden ist, als Futtermittelunternehmer oder als sein Vertreter ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+# § 43 – (weggefallen)
 
 # § 44 – Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 767/2009
 
@@ -664,25 +540,15 @@ ein dort genanntes Futtermittel in den Verkehr bringt.
 
 (2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 23 Absatz 1 Satz 1 der Verordnung (EG) Nr. 767/2009, auch in Verbindung mit Satz 2, ein Einzelfuttermittel oder ein Mischfuttermittel in den Verkehr bringt.
 
-# § 45 – Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) Nr. 884/2014
+# § 45 – (weggefallen)
 
-Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Durchführungsverordnung (EU) Nr. 884/2014 der Kommission vom 13. August 2014 zur Festlegung besonderer Bedingungen für die Einfuhr bestimmter Futtermittel und Lebensmittel aus bestimmten Drittländern wegen des Risikos einer Aflatoxin-Kontamination und zur Aufhebung der Verordnung (EG) Nr. 1152/2009 (ABl. L 242 vom 14.8.2014, S. 4), die durch die Durchführungsverordnung (EU) 2016/2106 (ABl. L 327 vom 2.12.2016, S. 44) geändert worden ist, verstößt, indem er als Futtermittelunternehmer oder als sein Vertreter vorsätzlich oder fahrlässig
-
-1. entgegen Artikel 7 Absatz 2 das dort genannte Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder
-
-2. entgegen Artikel 7 Absatz 4 Satz 1 in Verbindung mit Satz 2 die zuständige Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig informiert.
-
-# § 46 – Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) 2015/175
-
-Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig als Futtermittelunternehmer oder als sein Vertreter entgegen Artikel 7 Absatz 2 Satz 2 der Durchführungsverordnung (EU) 2015/175 der Kommission vom 5. Februar 2015 zur Festlegung von Sondervorschriften für die Einfuhr von Guarkernmehl, dessen Ursprung oder Herkunft Indien ist, wegen des Risikos einer Kontamination mit Pentachlorphenol und Dioxinen (ABl. L 30 vom 6.2.2015, S. 10) ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+# § 46 – (weggefallen)
 
 # § 46a – Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2015/786
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 6 Absatz 1 Satz 1 der Verordnung (EU) 2015/786 der Kommission vom 19. Mai 2015 zur Festlegung von Kriterien für die Zulässigkeit von Entgiftungsverfahren, denen zur Tierernährung bestimmte Erzeugnisse unterzogen werden, gemäß der Richtlinie 2002/32/EG des Europäischen Parlaments und des Rates (ABl. L 125 vom 21.5.2015, S. 10) nicht dafür sorgt, dass ein dort genannter Betrieb zugelassen ist.
 
-# § 47 – Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) 2016/6
-
-Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig als Futtermittelunternehmer oder als sein Vertreter entgegen Artikel 9 Absatz 2 Unterabsatz 2 der Durchführungsverordnung (EU) 2016/6 der Kommission vom 5. Januar 2016 mit besonderen Bedingungen für die Einfuhr von Lebens- und Futtermitteln, deren Ursprung oder Herkunft Japan ist, nach dem Unfall im Kernkraftwerk Fukushima und zur Aufhebung der Durchführungsverordnung (EU) Nr. 322/2014 (ABl. L 3 vom 6.1.2016, S. 5), die durch die Durchführungsverordnung (EU) 2017/2058 (ABl. L 294 vom 11.11.2017, S. 29) geändert worden ist, ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+# § 47 – (weggefallen)
 
 # § 47a – Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2020/354
 
@@ -785,6 +651,4 @@ Das Gutachten nach Nummer 2 Satz 2 zum Nachweis der Voraussetzungen nach Nummer 
 
 Das Gutachten nach Nummer 2 Satz 2 zum Nachweis der Voraussetzungen nach Nummer 2 Satz 1 Buchstabe b und c ist entbehrlich, soweit für die Anlage eine Genehmigung nach dem Bundes-Immissionsschutzgesetz vorliegt, in der die Anforderungen nach Nummer 2 Satz 1 Buchstabe b und c berücksichtigt sind, oder eine Genehmigung nach dem Bundes-Immissionsschutzgesetz vorliegt und die Anforderungen nach Nummer 2 Satz 1 Buchstabe b und c im Rahmen einer Zertifizierung nach den Grundsätzen des Systems der Gefahrenanalyse und Überwachung kritischer Kontrollpunkte (HACCP) oder der ISO 9002 nachgewiesen werden.
 
-# Anlage 5 – (zu § 32 Absatz 1 und 2)Liste der nach Artikel 3 Absatz 2 der Durchführungsverordnung (EU) 2015/175 in Deutschland für Futtermittel benannten Eingangsorte
-
-(Fundstelle: BGBl. I 2016, 2029)
+# Anlage 5 – (weggefallen)

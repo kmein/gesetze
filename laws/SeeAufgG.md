@@ -702,8 +702,8 @@ Das Bundesministerium für Digitales und Verkehr kann durch allgemeine Verwaltun
 (Fundstelle: BGBl. I 2016, 1503;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-1. Internationales Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen vom 5. Oktober 2001 (AFS-Übereinkommen) (BGBl. 2008 II S. 520, 522),
+1. Internationales Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen vom 5. Oktober 2001 (AFS-Übereinkommen) (BGBl. 2024 II Nr. 37),
 
-2. Internationales Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe vom 2. November 1973 und das Protokoll von 1978 zu diesem Übereinkommen vom 17. Februar 1978 (BGBl. 1982 II S. 2, 4; 1996 II S. 399), zuletzt geändert durch die Entschließung MEPC.324(75) vom 20. November 2020 (BGBl. 2022 II S. 155),
+2. Internationales Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe vom 2. November 1973 und das Protokoll von 1978 zu diesem Übereinkommen vom 17. Februar 1978 (BGBl. 1982 II S. 2, 4; 1996 II S. 399), zuletzt geändert durch die Entschließungen MEPC.328(76), MEPC.329(76) und MEPC.330(76) vom 17. Juni 2021 (BGBl. 2024 II Nr. 37),
 
 3. Internationales Übereinkommen von 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen (Ballastwasser-Übereinkommen) vom 13. Februar 2004 (BGBl. 2013 II S. 42, 44), zuletzt geändert durch die Entschließung MEPC.325(75) vom 20. November 2020 (BGBl. 2022 II S. 155).
