@@ -21,7 +21,7 @@ Diese Verordnung regelt das Bescheinigungsverfahren nach § 6 des Gesetzes.
 
 (1) Der Antrag auf Erteilung einer Bescheinigung nach § 6 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck des Bundesministeriums für Bildung und Forschung einheitlich für sämtliche Forschungs- und Entwicklungsvorhaben eines Wirtschaftsjahres, für die ein Antrag auf Forschungszulage beim Finanzamt gestellt werden soll, elektronisch bei der nach § 2 Absatz 1 benannten Bescheinigungsstelle zu stellen. Sofern erforderlich, sind ergänzende Unterlagen beizufügen. Der Vordruck nach Satz 1 wird im Internet auf der Seite der zuständigen Stelle veröffentlicht.
 
-(2) Die Bescheinigung nach § 6 des Gesetzes kann vor oder während der Durchführung eines Forschungs- und Entwicklungsvorhabens oder nach Ablauf des Wirtschaftsjahres, für das die Forschungszulage beantragt werden soll, beantragt werden.
+(2) Die Bescheinigung nach § 6 des Gesetzes kann vor, während oder nach der Durchführung eines Forschungs- und Entwicklungsvorhabens beantragt werden. Wird die Bescheinigung vor oder während der Durchführung eines Forschungs- und Entwicklungsvorhabens beantragt, so kann sie für vergangene Wirtschaftsjahre, für das aktuelle Wirtschaftsjahr sowie für längstens drei volle Wirtschaftsjahre in der Zukunft ausgestellt werden.
 
 (3) Der Antrag muss enthalten:
 
@@ -31,7 +31,9 @@ a) eine aussagekräftige, nachvollziehbare inhaltliche Beschreibung des Forschun
 
 b) die Angabe, ob es sich um eigenbetriebliche Forschung, Auftragsforschung oder ein Kooperationsvorhaben handelt,
 
-c) den zeitlichen, personellen und den finanziellen Umfang des Forschungs- und Entwicklungsvorhabens;
+c) den zeitlichen, personellen und den finanziellen Umfang des Forschungs- und Entwicklungsvorhabens,
+
+d) sofern im Antrag nach § 5 des Gesetzes auch förderfähige Aufwendungen im Sinne des § 3 Absatz 3a des Gesetzes geltend gemacht werden: eine Auflistung der im Forschungs- und Entwicklungsvorhaben ausschließlich eigenbetrieblich genutzten abnutzbaren beweglichen Wirtschaftsgüter des Anlagevermögens, soweit die Wirtschaftsgüter nach dem 27. März 2024 angeschafft oder hergestellt wurden, jeweils verbunden mit einer Begründung, weshalb das betreffende Wirtschaftsgut für die Durchführung des begünstigten Forschungs- und Entwicklungsvorhabens erforderlich ist, sowie mit der Angabe, im Rahmen welcher Abschnitte des Arbeitsplans des jeweiligen Forschungs- und Entwicklungsvorhabens das betreffende Wirtschaftsgut benötigt wird.
 
 2. den Namen (gegebenenfalls inklusive Rechtsformzusatz), die Anschrift, die Kontaktdaten (Telefonnummer, E-Mail-Adresse, Ansprechperson des Antragstellers);
 
@@ -39,7 +41,9 @@ c) den zeitlichen, personellen und den finanziellen Umfang des Forschungs- und E
 
 4. soweit vorhanden, eine Handelsregister-Nummer;
 
-5. den Namen, die Anschrift und die Steuernummer der mit dem Antragsteller im Sinne des § 3 Absatz 6 Satz 2 des Gesetzes verbundenen Unternehmen, soweit diese im Inland beschränkt oder unbeschränkt steuerpflichtig sind.
+5. den Namen, die Anschrift und die Steuernummer der mit dem Antragsteller im Sinne des § 3 Absatz 6 Satz 2 des Gesetzes verbundenen Unternehmen, soweit diese im Inland beschränkt oder unbeschränkt steuerpflichtig sind;
+
+6. den Namen und, falls vorhanden, die Firma einschließlich des Rechtsformzusatzes, sowie die dienstliche Anschrift der Personen, die neben dem Antragsteller gegen Entgelt an der Antragstellung beratend mitgewirkt haben.
 
 # § 4 – Antragsprüfung
 
@@ -57,7 +61,7 @@ c) den zeitlichen, personellen und den finanziellen Umfang des Forschungs- und E
 
 (1) Die Bescheinigung wird von der Bescheinigungsstelle für alle in einem Antrag nach § 3 aufgeführten Forschungs- und Entwicklungsvorhaben ausgestellt, die die Voraussetzungen nach § 2 Absatz 1 bis 3 des Gesetzes erfüllen.
 
-(2) Die Bescheinigung hat jeweils getrennt für jedes Vorhaben die Feststellung und die Begründung zu enthalten, dass es sich um ein begünstigtes Forschungs- und Entwicklungsvorhaben im Sinne des § 2 Absatz 1 bis 3 des Gesetzes handelt.
+(2) Die Bescheinigung hat jeweils getrennt für jedes Vorhaben die Feststellung und die Begründung zu enthalten, dass es sich um ein begünstigtes Forschungs- und Entwicklungsvorhaben im Sinne des § 2 Absatz 1 bis 3 des Gesetzes handelt. Sofern im Antrag nach § 5 des Gesetzes auch förderfähige Aufwendungen im Sinne des § 3 Absatz 3a des Gesetzes geltend gemacht werden sollen, hat die Bescheinigung daneben für jedes Vorhaben die Feststellung zu enthalten, ob die für das jeweilige Vorhaben genutzten abnutzbaren beweglichen Wirtschaftsgüter des Anlagevermögens für die Durchführung des begünstigten Forschungs- und Entwicklungsvorhabens erforderlich sind, sowie die Angabe, im Rahmen welcher Abschnitte des Arbeitsplans des jeweiligen Forschungs- und Entwicklungsvorhabens das betreffende Wirtschaftsgut benötigt wird.
 
 (3) Die Bescheinigung soll innerhalb von drei Monaten nach Vorlage der vollständigen Unterlagen dem Antragsteller bekanntgegeben und dem zuständigen Finanzamt übermittelt werden. Das nach § 6 Absatz 2 des Gesetzes vorgeschriebene Muster der Bescheinigung wird vom Bundesministerium der Finanzen in Abstimmung mit den obersten Finanzbehörden der Länder und im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Bildung und Forschung erstellt und im Bundessteuerblatt bekannt gemacht.
 
@@ -93,9 +97,9 @@ Bei verbundenen Unternehmen sollen die Angaben zu 2. bis 5. grundsätzlich für 
 
 (1) Für die weitere Bearbeitung des Antrags auf Forschungszulage nach § 5 des Gesetzes sowie zum Zwecke der Erfolgskontrolle, Evaluierung und Gesetzesfolgenabschätzung übermittelt die Bescheinigungsstelle Daten aus dem Bescheinigungsverfahren an die Finanzverwaltung. In den Fällen nach § 5 Absatz 4 erfolgt eine Datenübermittlung an das zuständige Finanzamt nur, wenn der Antragsteller für weitere in demselben Zeitraum durchgeführte Forschungs- und Entwicklungsvorhaben eine Bescheinigung nach § 5 Absatz 1 erhalten hat und die Datenübermittlung zur Erfüllung der Aufgaben der Finanzverwaltung erforderlich ist.
 
-(2) Zum Zwecke der Evaluierung nach § 17 des Gesetzes verarbeiten die zuständige Stelle sowie die Bescheinigungsstelle auf Weisung durch die zuständige Stelle die erhobenen Einzelangaben der Antragsteller. Sie übermitteln die Angaben nach Satz 1 einschließlich identifizierender Merkmale (insbesondere den Namen, die Anschrift, die E-Mail-Adresse, die Handelsregister-Nummer, die Steuernummer) sowie der jeweiligen Entscheidung über den betreffenden Antrag an die mit der Evaluierung betraute Stelle bzw. betrauten Stellen zur weiteren Verarbeitung, sofern die Angaben für die Durchführung der Evaluierung erforderlich sind.
+(2) Zum Zwecke weiterer Datenanalysen (§ 16a des Gesetzes) sowie zum Zwecke der Evaluierung (§ 17 des Gesetzes) verarbeitet die zuständige Stelle oder auf Anweisung der zuständigen Stelle die Bescheinigungsstelle die von den Antragstellern erhobenen Einzelangaben. Auf die Angaben nach Satz 1, einschließlich der jeweiligen Entscheidung über den betreffenden Antrag, sowie auf die Daten der Geschäftsstatistik nach § 6 sind die §§ 16a und 17 Absatz 2 des Gesetzes anzuwenden.
 
-(3) Die zuständige Stelle sowie die Bescheinigungsstelle dürfen die erhobenen Einzelangaben der Antragsteller einschließlich identifizierender Merkmale (insbesondere den Namen, die Anschrift, die E-Mail-Adresse, die Handelsregister-Nummer, die Steuernummer) sowie der jeweiligen Entscheidung über den betreffenden Antrag verarbeiten und zum Zweck der Evaluierung, weiterer wissenschaftlicher Forschung und zur Qualitätssicherung unionsrechtlicher Erhebungen an die die Erhebungen gemäß Durchführungsverordnung (EU) Nr. 995/2012 der Kommission vom 26. Oktober 2012 mit Durchführungsvorschriften zur Entscheidung Nr. 1608/2003/EG des Europäischen Parlaments und des Rates zur Erstellung und Entwicklung von Gemeinschaftsstatistiken über Wissenschaft und Technologie (ABl. L 299 vom 27.10.2012, S. 18) durchführenden Stellen zur weiteren Verarbeitung übermitteln.
+(3) (weggefallen)
 
 # § 8 – Inkrafttreten
 
