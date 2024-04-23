@@ -6679,6 +6679,7 @@
 - [2. ERP-BürgschG](laws/2._ERP-BürgschG.md) Gesetz zur Ergänzung des Dritten Gesetzes über die Übernahme von Sicherheitsleistungen und Gewährleistungen zur Förderung der deutschen Wirtschaft
 - [2. FlGDV](laws/2._FlGDV.md) Verordnung über die Anforderungen an die Zulassung von Klassifizierungsunternehmen und Klassifizierern für Schlachtkörper von Rindern, Schweinen und Schafen
 - [2. FlugLSV](laws/2._FlugLSV.md) Zweite Verordnung zur Durchführung des Gesetzes zum Schutz gegen Fluglärm
+- [2. GAPAusnV](laws/2._GAPAusnV.md) Verordnung zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Ausnahmeregelung hinsichtlich der Anwendung des Standards Nummer 8 für den guten landwirtschaftlichen und ökologischen Zustand für das Antragsjahr 2024
 - [2. GleiBG](laws/2._GleiBG.md) Gesetz zur Durchsetzung der Gleichberechtigung von Frauen und Männern
 - [2. HStruktG](laws/2._HStruktG.md) Zweites Gesetz zur Verbesserung der Haushaltsstruktur
 - [2. LADV-Saar](laws/2._LADV-Saar.md) Zweite Verordnung zur Durchführung des Gesetzes zur Einführung von Vorschriften des Lastenausgleichsrechts im Saarland
