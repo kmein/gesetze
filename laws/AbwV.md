@@ -393,26 +393,106 @@ Chemischer Sauerstoffbedarf (CSB)
   
 (2) Die Werte für die produktionsspezifische Fracht (g/t) beziehen sich auf die installierte maximale Trocknerleistung, ausgedrückt in Menge Trockenkohle in 2 Stunden mit einem Massenanteil an Wasser von 16 bis 18 Prozent. Sind Produktionskapazitäten auf Trockenkohle mit anderen Massenanteilen an Wasser als 16 bis 18 Prozent bezogen, sind bei der Berechnung der Trocknerleistung 17 Prozent zugrunde zu legen. Die Schadstofffracht wird aus den Konzentrationswerten der 2-Stunden-Mischprobe oder der qualifizierten Stichprobe und dem Abwasservolumenstrom bei Trockenwetter (Trockenwetterabfluss) in 2 Stunden bestimmt.
 
-# Anhang 3 – Milchverarbeitung
+# Anhang 3 – Herstellung von Nahrungsmitteln und Futtermitteln
 
-(Fundstelle: BGBl. I 2004, 1119 - 1120)
+(Fundstelle: BGBl. 2024 I Nr. 132, S. 2 - 6)
 
-A  
-Anwendungsbereich
+(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus folgenden Bereichen der Herstellung von Nahrungsmitteln, Getränken, Milch und Milcherzeugnissen oder Futtermitteln durch Behandlung oder Verarbeitung pflanzlicher und tierischer Rohstoffe stammt:
 
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Anlieferung, Umfüllung oder Verarbeitung von Milch und Milchprodukten stammt und das in Milchwerken, Molkereien, Käsereien und anderen Betrieben dieser Art anfällt. (2) Dieser Anhang gilt nicht für Abwasser aus Milch verarbeitenden Betrieben mit einer Schadstofffracht im Rohabwasser von weniger als 3 kg BSB<sub>5</sub> je Tag, aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
+1. Herstellung von Alkohol und alkoholischen Getränken,
 
-B  
-Allgemeine Anforderungen
+2. Brauereien,
 
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
+3. Herstellung von Erfrischungsgetränken und Getränkeabfüllung,
 
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
+4. Verarbeitung von Fischen, Schalen- und Krustentieren,
+
+5. Fleischverarbeitung, einschließlich der Herstellung von Fertiggerichten,
+
+6. Trocknung pflanzlicher Produkte für die Futtermittelherstellung,
+
+7. Kartoffelverarbeitung,
+
+8. Mälzereien,
+
+9. Verarbeitung von Milch und Milcherzeugnissen,
+
+10. Herstellung von Obst- und Gemüseprodukten sowie von Fertiggerichten,
+
+11. Ölsaatenaufbereitung, Speisefett- und Speiseölraffination,
+
+12. Herstellung von Stärke,
+
+13. Gewinnung von festen und flüssigen Zuckern sowie Sirup aus Zuckerrüben und Zuckerrohr,
+
+14. Herstellung von Hefe und
+
+15. sonstige Verfahren zur Nahrungs- und Futtermittelherstellung, soweit die Anlagen unter § 1 Absatz 3 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung fallen.
+
+Dieser Anhang gilt ferner für betriebsspezifisch verunreinigtes Niederschlagswasser.
+
+(2) Dieser Anhang gilt auch für Abwasser,
+
+1. dessen Schadstofffracht im Wesentlichen aus der Herstellung von Tafelwasser sowie aus der Gewinnung und Abfüllung von natürlichem Mineralwasser, von Quellwasser und Heilwasser stammt, oder
+
+2. dessen Schadstofffracht sowohl aus der Verarbeitung von Fischen, Schalen- und Krustentieren als auch aus Haushaltungen und Anlagen im Sinne des Anhangs 1 Teil A stammt, wenn im Rohwasser die CSB-Fracht des Abwassers aus der Verarbeitung von Fischen, Schalen- und Krustentieren in der Regel mehr als zwei Drittel der Gesamtfracht und die BSB<sub>5</sub>-Fracht mindestens 600 kg je Tag beträgt.
+
+(3) Dieser Anhang gilt nicht für
+
+1. Abwasser aus milchverarbeitenden Betrieben mit einer Schadstofffracht im Rohabwasser von weniger als 3 kg BSB<sub>5</sub> je Tag,
+
+2. Abwasser aus der Fleischverarbeitung mit einer Schadstofffracht im Rohabwasser von weniger als 10 kg BSB<sub>5</sub> je Woche,
+
+3. Abwasser, dessen Schadstofffracht im Wesentlichen aus der Schlachtung von Tieren stammt,
+
+4. Abwasser aus Abfindungsbrennereien nach § 9 des Alkoholsteuergesetzes, aus Anlagen zur Bereitung von Wein und Obstwein und aus Anlagen zur Alkoholherstellung aus Melasse, die jeweils nicht unter § 1 Absatz 3 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung fallen,
+
+5. Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Ethanol aus pflanzlicher Biomasse in Anlagen nach Anhang 1 Nummer 4.1.2 der Verordnung über genehmigungsbedürftige Anlagen, einschließlich der Herstellung von Co-Produkten, stammt,
+
+6. Abwasser aus der Herstellung von Pektin,
+
+7. Abwasser aus der Herstellung von Hautleim, Gelatine und Knochenleim,
+
+8. Abwasser, dessen Schadstofffracht im Wesentlichen
+
+a) beim Sammeln, Befördern, Lagern, Behandeln und Verarbeiten von nicht zum menschlichen Verzehr bestimmten tierischen Nebenprodukten entsteht oder
+
+b) in Lagerbetrieben, Zwischenbehandlungsbetrieben und Verarbeitungsbetrieben für Material der Kategorien 1, 2 und 3 im Sinne der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1) anfällt, und
+
+9. Abwasser aus indirekten Kühlsystemen, aus der Betriebswasseraufbereitung und aus der Dampferzeugung.
+
+(4) Die in Teil C Absatz 1, Absatz 2 Satz 1 und 2 und Absatz 3 genannten Anforderungen sind Emissionsgrenzwerte im Sinne von § 1 Absatz 2 Satz 1.
+
+(1) Abwasseranfall und Schadstofffracht sind so gering zu halten, wie dies durch folgende Maßnahmen und unter Berücksichtigung der Bestimmungen der Hygienevorschriften oder der Vorschriften für die Lebensmittel- und Futtermittelsicherheit möglich ist:
+
+1. Mehrfachnutzung und Kreislaufführung, zum Beispiel zum Reinigen, Waschen, Kühlen oder als Prozesswasser,
+
+2. Einsatz wassersparender oder wasserfreier Verfahren zur Reinigung von Produktionsanlagen und Rohrleitungen,
+
+3. bedarfsgesteuerte Chemikaliendosierung bei der Reinigung der Produktionsanlagen und Rohrleitungen und
+
+4. Vermeidung oder Minimierung der Verwendung von Reinigungschemikalien oder Desinfektionsmitteln, die schädlich für die aquatische Umwelt sind, vor allem von prioritären Stoffen, die in Anlage 8 Tabelle 1 Spalte 8 der Oberflächengewässerverordnung enthalten sind.
+
+(2) Nicht behandlungsbedürftiges Abwasser ist getrennt von behandlungsbedürftigem Abwasser abzuleiten.
+
+(3) Für Anlagen im Sinne des § 1 Absatz 3 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung sind Rückhaltekapazitäten für Abwasser vorzuhalten und Maßnahmen für eine ordnungsgemäße Wiederverwendung, Behandlung oder Entsorgung zurückgehaltenen Abwassers vorzusehen, um bei außerplanmäßigen Betriebszuständen unkontrollierte Emissionen zu verhindern. Der Umfang der Rückhaltekapazitäten und der Maßnahmen muss dem Risiko angemessen sein. Der Einleiter hat eine entsprechende Risikobewertung vorzunehmen.
+
+(4) Bei der Ölsaatenaufbereitung, Speisefett- und Speiseölraffination gilt ferner, dass
+
+1. die Schadstofffracht durch den Einsatz phosphorarmer Rohware gering zu halten ist und
+
+2. das Abwasser aus Reinigungs- und Desinfektionsprozessen nur Tenside enthalten darf, die einen DOC-Abbaugrad von 80 Prozent nach 28 Tagen entsprechend dem Verfahren nach Anlage 1 Nummer 405 erreichen. Tenside sind organische grenzflächenaktive Stoffe mit waschenden und netzenden Eigenschaften, die bei einer Konzentration von 0,5 Prozent und einer Temperatur von 20 °C die Oberflächenspannung von destilliertem Wasser auf 0,045 N/m oder weniger herabsetzen.
+
+(5) Für Anlagen zur Zuckerherstellung gilt ferner, dass im Abwasser keine organisch gebundenen Halogene enthalten sein dürfen, die aus dem Einsatz von Chlor oder Chlor abspaltenden Verbindungen, ausgenommen Chlordioxid, im Fallwasserkreislauf stammen. Der Nachweis, dass diese Anforderung eingehalten ist, kann dadurch erbracht werden, dass
+
+1. die eingesetzten Betriebs- und Hilfsstoffe in einem Betriebstagebuch aufgeführt sind und
+
+2. Angaben des Herstellers vorliegen, nach denen keine der genannten Stoffe oder Stoffgruppen im Abwasser enthalten sind.
 
 (1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
+  
 
- 
+Parameter
 
 Qualifizierte Stichprobe oder  
 2-Stunden-Mischprobe  
@@ -420,357 +500,107 @@ mg/l
 
 Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)
 
-25
+ 20
 
 Chemischer Sauerstoffbedarf (CSB)
 
-110
+100
+
+Organisch gebundener Kohlenstoff, gesamt (TOC)
+
+  35<span id="FnR.FnA1-F829790_03"></span><a href="#FnA1-F829790_03" class="FnR">1</a></sup>
+
+Abfiltrierbare Stoffe (AFS)
+
+     30<span id="FnR.FnA1-F829790_04"></span><a href="#FnA1-F829790_04" class="FnR">2</a></sup> ,</sup><span id="FnR.FnA1-F829790_05"></span><a href="#FnA1-F829790_05" class="FnR">3</a></sup>
 
 Ammoniumstickstoff (NH<sub>4</sub>-N)
 
-10
+    5,0
 
 Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>)
 
-18
+ 15
 
-Phosphor, gesamt
+Gesamter gebundener Stickstoff (TN<sub>b</sub>)
 
-2
+ 18
 
-  
-(2) Die Anforderungen für Ammoniumstickstoff und Stickstoff, gesamt, gelten bei einer Abwassertemperatur von 12 °C und größer im Ablauf des biologischen Reaktors der Abwasserbehandlungsanlage und sofern die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Stickstoff, gesamt, mehr als 100 kg je Tag beträgt. In der wasserrechtlichen Zulassung kann für Stickstoff, gesamt, eine höhere Konzentration bis zu 25 mg/l zugelassen werden, wenn die Verminderung der Gesamtstickstofffracht mindestens 70 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der Stickstofffracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll. Für die Frachten ist der gesamte gebundene Stickstoff (TN<sub>b</sub>) zugrunde zu legen. (3) Die Anforderung für Phosphor, gesamt, gilt, wenn die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor, gesamt, mehr als 20 kg je Tag beträgt. (4) Ist bei Teichanlagen, die für eine Aufenthaltszeit von 24 Stunden und mehr bemessen sind und bei denen die der wasserrechtlichen Zulassung zugrunde liegende tägliche Abwassermenge 500 m³ nicht übersteigt, eine Probe durch Algen deutlich gefärbt, so sind der CSB und der BSB<sub>5</sub> von der algenfreien Probe zu bestimmen. In diesem Fall verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l und beim BSB<sub>5</sub> um 5 mg/l.
+Phosphor, gesamt (P<sub>ges</sub>)
 
-D  
-Anforderungen an das Abwasser vor Vermischung
+    2,0
 
-An das Abwasser werden vor Vermischung mit anderem Abwasser keine zusätzlichen Anforderungen gestellt.
+<span id="FnA1-F829790_03"></span><a href="#FnR.FnA1-F829790_03" class="Footnote">1</a>  
+In der wasserrechtlichen Zulassung kann für den Parameter TOC eine abweichende Konzentration zugelassen werden, wenn aus geeigneten Messreihen für den Standort ein standortspezifischer Faktor für das CSB/TOC-Verhältnis abgeleitet werden kann. In diesem Fall ermittelt sich die TOC-Konzentration als Ergebnis der Division der CSB-Konzentration nach Absatz 1, Absatz 5, Absatz 6 oder Absatz 7 durch den standortspezifischen Faktor für das CSB/TOC-Verhältnis.
 
-E  
-Anforderungen für den Ort des Anfalls
+<span id="FnA1-F829790_04"></span><a href="#FnR.FnA1-F829790_04" class="Footnote">2</a>  
+Die Anforderung für AFS gilt nur für Abwasser, dessen Fracht im Wesentlichen aus Anlagen im Sinne des § 1 Absatz 3 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung stammt.
 
-An das Abwasser werden für den Ort des Anfalls keine zusätzlichen Anforderungen gestellt.
+<span id="FnA1-F829790_05"></span><a href="#FnR.FnA1-F829790_05" class="Footnote">3</a>  
+Für das Abwasser aus der Gewinnung von festen und flüssigen Zuckern sowie aus der Gewinnung von Sirup aus Zuckerrüben und Zuckerrohr gilt ein Wert von 50 mg/l.
 
-F  
-Anforderungen für vorhandene Einleitungen
+(2) Die Anforderungen für Ammoniumstickstoff (NH<sub>4</sub>-N), gesamter gebundener Stickstoff (TN<sub>b</sub>) und Stickstoff, gesamt (N<sub>ges</sub>), gelten, wenn die der wasserrechtlichen Zulassung zugrundeliegende Rohfracht an Stickstoff, gesamt (N<sub>ges</sub>), im Zulauf der Abwasserbehandlungsanlage mehr als 100 kg je Tag beträgt oder es sich um eine Anlage im Sinne des § 1 Absatz 3 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung handelt. Die Anforderungen gelten ferner nur bei einer Abwassertemperatur von 12 °C und größer im Ablauf des biologischen Reaktors.
 
-Für vorhandene Einleitungen von Abwasser aus Anlagen, die vor dem 1. Juni 2000 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, gilt abweichend von Teil C für Phosphor, gesamt, ein Wert von 5 mg/l, wenn die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor, gesamt, mehr als 20 kg und weniger als 100 kg je Tag beträgt.
+In der wasserrechtlichen Zulassung kann für Stickstoff, gesamt (N<sub>ges</sub>), eine höhere Konzentration bis zu 25 mg/l und für den gesamten gebundenen Stickstoff (TN<sub>b</sub>) eine höhere Konzentration bis zu 30 mg/l zugelassen werden, wenn die Verminderung der Fracht des gesamten gebundenen Stickstoffs (TN<sub>b</sub>) mindestens 80 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der Stickstofffracht im Zulauf zu derjenigen im Ablauf der Abwasserbehandlungsanlage in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll.
 
-# Anhang 4 – Ölsaatenaufbereitung, Speisefett- und Speiseölraffination
+(3) Die Anforderung für Phosphor, gesamt, gilt, wenn die der wasserrechtlichen Zulassung zugrundeliegende Rohfracht an Phosphor, gesamt, mehr als 20 kg je Tag beträgt oder es sich um eine Anlage im Sinne des § 1 Absatz 3 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung handelt.
 
-(Fundstelle: BGBl. I 2004, 1120 - 1121)
+(4) Stammt das Abwasser aus der Verarbeitung von Fischen, Schalen- und Krustentieren, gilt eine maximal zulässige Konzentration von Phosphor, gesamt, von 0,70 mg/l, wenn die der wasserrechtlichen Zulassung zugrundeliegende Rohfracht von Phosphor, gesamt, 200 kg je Tag im Zulauf der Abwasserbehandlungsanlage übersteigt.
 
-A  
-Anwendungsbereich
+(5) Stammt das Abwasser aus der Herstellung von Stärke, kann abweichend von Absatz 1 in der wasserrechtlichen Zulassung eine höhere Konzentration für den CSB von bis zu 185 mg/l und für den TOC von bis zu 65 mg/l zugelassen werden, wenn die Verminderung der CSB-Fracht mindestens 95 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der CSB-Fracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll.
 
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Ölsaatenaufbereitung, Speisefett- und Speiseölraffination stammt. (2) Dieser Anhang gilt nicht für Abwasser aus indirekten Kühlsystemen, der Betriebswasseraufbereitung und der Dampferzeugung.
+(6) Stammt das Abwasser aus der Gewinnung von festen und flüssigen Zuckern sowie aus der Gewinnung von Sirup aus Zuckerrüben und Zuckerrohr, kann außerhalb der Rübenkampagne abweichend von Absatz 1 in der wasserrechtlichen Zulassung ein höherer Gehalt für den CSB von bis zu 155 mg/l und für den TOC von bis zu 55 mg/l zugelassen werden, wenn die Verminderung der CSB-Fracht mindestens 95 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der CSB-Fracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll.
 
-B  
-Allgemeine Anforderungen
+(7) Stammt das Abwasser aus der Herstellung von Hefe, kann abweichend von Absatz 1 in der wasserrechtlichen Zulassung ein höherer Gehalt für folgende Parameter zugelassen werden:
 
-(1) Die Schadstofffracht ist so gering zu halten, wie dies nach Prüfung der Verhältnisse im Einzelfall durch folgende Maßnahmen möglich ist:
+–  
+CSB von bis zu 250 mg/l und TOC von bis zu 85 mg/l, wenn die Verminderung der CSB-Fracht mindestens 95 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der CSB-Fracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll,
 
-1. Kreislaufführung von Teilströmen, insbesondere von Fallwasser der destillativen Entsäuerung und der Dämpfung,
+–  
+P<sub>ges</sub> von bis zu 2,5 mg/l.
 
-2. Vermeidung und Verminderung von Stoffverlusten durch prozessinterne Verwertung oder Gewinnung von Nebenprodukten,
+(8) Stammt das Abwasser aus Anlagen zur Trocknung pflanzlicher Produkte für die Futtermittelherstellung, kann abweichend von Absatz 1 in der wasserrechtlichen Zulassung von den Anforderungen an AFS und TN<sub>b</sub> abgesehen werden.
 
-3. Einsatz phosphorarmer Rohware,
+(9) Ist bei Teichanlagen, die für eine Aufenthaltszeit von 24 Stunden und mehr bemessen sind und bei denen die der wasserrechtlichen Zulassung zugrundeliegende tägliche Abwassermenge 500 m³ nicht übersteigt, eine Probe durch Algen deutlich gefärbt, so sind der CSB, der TOC und der BSB<sub>5</sub> von der algenfreien Probe zu bestimmen. In diesem Fall verringern sich die in Absatz 1 festgelegten Werte für den CSB um 15 mg/l, für den TOC um 5 mg/l und für den BSB<sub>5</sub> um 5 mg/l.
 
-4. Einsatz Wasser sparender Verfahren, z. B. Gegenstromwäsche.
+(10) Die Anforderungen beziehen sich bei Stapelteichen auf die Stichprobe.
 
-(2) Das Abwasser aus Reinigungs- und Desinfektionsprozessen darf nur Tenside enthalten, die einen DOC-Abbaugrad nach 28 Tagen von 80 Prozent entsprechend dem Verfahren nach Anlage 1 Nummer 405 erreichen. Tenside sind organische grenzflächenaktive Stoffe mit waschenden und netzenden Eigenschaften, die bei einer Konzentration von 0,5 Prozent und einer Temperatur von 20 °C die Oberflächenspannung von destilliertem Wasser auf 0,045 N/m oder weniger herabsetzen.
+Sperr- und Kondensationswasser, das bei der Gewinnung von festen und flüssigen Zuckern sowie bei der Gewinnung von Sirup aus Zuckerrüben und Zuckerrohr anfällt, darf, soweit es nicht innerbetrieblich wiederverwendet werden kann, zum Zweck der gemeinsamen Behandlung mit Abwasser anderer Herkunft nur vermischt werden, wenn die Konzentrationen der in Teil C Absatz 1 festgelegten Parameter die dort festgelegten Werte im Rohabwasser überschreiten.
 
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
+An das Abwasser werden am Ort des Anfalls keine zusätzlichen Anforderungen gestellt.
 
-(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
+(1) Abweichend von Teil B Absatz 2 kann bei vorhandenen Anlagen zur Ableitung von behandlungsbedürftigem Abwasser, die vor dem 20. April 2024 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, mit Zustimmung der zuständigen Behörde nicht behandlungsbedürftiges Abwasser zusammen mit behandlungsbedürftigem Abwasser abgeleitet werden.
 
- 
+(2) Abweichend von Teil B Absatz 3 kann bei vorhandenen Anlagen, die vor dem 20. April 2024 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, mit Zustimmung der zuständigen Behörde von der Anforderung, Rückhaltekapazitäten für Abwasser vorzuhalten, abgesehen werden, wenn diese Anforderung aus Platzgründen oder auf Grund der Anlagenkonfiguration unverhältnismäßig ist.
 
-Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
+(3) Für vorhandene Einleitungen von Abwasser aus Anlagen, die keine Anlagen im Sinne des § 1 Absatz 3 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung sind, die vor dem 20. April 2024 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist und für die vor dem 20. April 2024 Anforderungen in der Abwasserverordnung festgelegt waren, gelten die Anforderungen nach Teil C ab dem 1. Januar 2027. Bis zu diesem Zeitpunkt gelten jeweils die Anforderungen nach den Teilen C der Anhänge 3, 4, 5, 6, 7, 8, 10, 11, 12, 14, 18 und 21 der Abwasserverordnung in der bis einschließlich 19. April 2024 geltenden Fassung.
 
- 
+Abfallrechtliche Anforderungen werden nicht gestellt.
 
- 
+(1) Die Anforderungen nach den Absätzen 2 bis 5 gelten für die Einleitung von Abwasser aus Anlagen nach § 1 Absatz 3 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung.
 
-Saatenaufbereitung
+(2) An der Einleitungsstelle in das Gewässer sind mindestens folgende Messungen im Abwasser vorzunehmen:
 
-Raffination
+1. kontinuierliche Messung von pH-Wert, Temperatur und Abwasservolumenstrom sowie
 
-Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)
+2. Messung der folgenden Parameter in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe:
 
-g/t
+Parameter
 
-5
+<span id="FnA2-F829790_06"></span><a href="#FnR.FnA2-F829790_06" class="Footnote">1</a>  
+Wird mit vorliegenden Datenreihen eine deutliche Stabilität der Messergebnisse nachgewiesen, kann die Häufigkeit der Messungen nach behördlicher Festlegung verringert werden. Es ist mindestens monatlich zu messen.
 
-38
+(3) Es ist ein Jahresbericht nach Anlage 2 Nummer 3 zu erstellen.
 
-Chemischer Sauerstoffbedarf (CSB)
+(4) Die Messungen der Parameter nach Absatz 2 sind nach den Analyse- und Messverfahren nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 2 und 3 unberührt.
 
-g/t
+(5) Der Nachweis für die Einhaltung der allgemeinen Anforderungen ist in einem betrieblichen Abwasserkataster nach Anlage 2 zu führen. Das Abwasserkataster hat, über die Angaben gemäß Anlage 2 Nummer 1 hinaus, folgende Informationen zu enthalten:
 
-20
+1. abwasserrelevante Teilströme und ihre Merkmale,
 
-200
+2. vorgehaltene Rückhaltekapazitäten und vorgesehene Maßnahmen gemäß den Anforderungen nach Teil B Absatz 3 und
 
-Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>)
-
-mg/l
-
-30
-
-30
-
-Phosphor, gesamt
-
-g/t
-
-0,4
-
-4,5
-
-Spezifische Abwassermenge
-
-m³/t
-
-0,2
-
-1,5
-
-  
-(2) Die Anforderungen für Stickstoff, gesamt, gelten bei einer Abwassertemperatur von 12 °C und größer im Ablauf des biologischen Reaktors der Abwasserbehandlungsanlage und sofern die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Stickstoff, gesamt, mehr als 100 kg je Tag beträgt. (3) Die Anforderungen für Phosphor, gesamt, gelten, wenn die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor, gesamt, mehr als 20 kg je Tag beträgt. (4) Die produktionsspezifischen Anforderungen (g/t, m³/t) nach Absatz 1 beziehen sich auf die der wasserrechtlichen Zulassung zugrunde liegende Produktionskapazität an Einsatzprodukt. Einsatzprodukte sind bei der Saatenaufbereitung Saat und bei der Raffination Öl. Wird mehr als ein Einsatzprodukt eingesetzt, gelten die Anforderungen proportional zu der Menge der verwendeten Einsatzprodukte. Die Schadstofffracht wird aus den Konzentrationswerten der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe und aus dem mit der Probenahme korrespondierenden Abwasservolumenstrom ermittelt.
-
-D  
-Anforderungen an das Abwasser vor Vermischung
-
-An das Abwasser werden vor der Vermischung mit anderem Abwasser keine zusätzlichen Anforderungen gestellt.
-
-E  
-Anforderungen für den Ort des Anfalls
-
-An das Abwasser werden für den Ort des Anfalls keine zusätzlichen Anforderungen gestellt.
-
-F  
-Anforderungen für vorhandene Einleitungen
-
-Für vorhandene Einleitungen von Abwasser aus Anlagen, die vor dem 1. August 2002 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, gelten abweichend von Teil C folgende Anforderungen:  
-
- 
-
-Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
-
- 
-
- 
-
-Saatenaufbereitung
-
-Raffination
-
-Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)
-
-g/t
-
-13
-
-38
-
-Chemischer Sauerstoffbedarf (CSB)
-
-g/t
-
-55
-
-225
-
-Phosphor, gesamt
-
-g/t
-
-1,5
-
-7,5
-
-Spezifische Abwassermenge
-
-m³/t
-
-0,5
-
-1,5
-
-  
-Fallwasser oder anderes schwach belastetes Abwasser darf, soweit es nicht innerbetrieblich weiter verwendet werden kann, nur getrennt vom übrigen Abwasser eingeleitet werden, wenn im Rohabwasser für den CSB ein Wert von 75 mg/l in der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe unterschritten wird.
-
-# Anhang 5 – Herstellung von Obst- und Gemüseprodukten
-
-(Fundstelle: BGBl. I 2004, 1122)
-
-A  
-Anwendungsbereich
-
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Obst- und Gemüseprodukten sowie von Fertiggerichten auf überwiegender Basis von Obst und Gemüse stammt. (2) Dieser Anhang gilt nicht für Abwasser aus der Herstellung von Babynahrung, Tees und Heilkräutererzeugnissen sowie aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
-
-B  
-Allgemeine Anforderungen
-
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
-
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
-
-(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
-
- 
-
-Qualifizierte Stichprobe oder  
-2-Stunden-Mischprobe
-
- 
-
-mg/l
-
-Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)
-
-25
-
-Chemischer Sauerstoffbedarf (CSB)
-
-110
-
-Ammoniumstickstoff (NH<sub>4</sub>-N)
-
-10
-
-Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>)
-
-18
-
-Phosphor, gesamt
-
-2
-
-  
-(2) Die Anforderungen für Ammoniumstickstoff und Stickstoff, gesamt, gelten bei einer Abwassertemperatur von 12 °C und größer im Ablauf des biologischen Reaktors der Abwasserbehandlungsanlage und sofern die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Stickstoff, gesamt, mehr als 100 kg je Tag beträgt. In der wasserrechtlichen Zulassung kann für Stickstoff, gesamt, eine höhere Konzentration bis zu 25 mg/l zugelassen werden, wenn die Verminderung der Gesamtstickstofffracht mindestens 70 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der Stickstofffracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll. Für die Frachten ist der gesamte gebundene Stickstoff (TN<sub>b</sub>) zugrunde zu legen. (3) Die Anforderung für Phosphor, gesamt, gilt, wenn die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor, gesamt, mehr als 20 kg je Tag beträgt. (4) Ist bei Teichanlagen, die für eine Aufenthaltszeit von 24 Stunden und mehr bemessen sind und bei denen die der wasserrechtlichen Zulassung zugrunde liegende tägliche Abwassermenge 500 m³ nicht übersteigt, eine Probe durch Algen deutlich gefärbt, so sind der CSB und der BSB<sub>5</sub> von der algenfreien Probe zu bestimmen. In diesem Fall verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l und beim BSB<sub>5</sub> um 5 mg/l.
-
-# Anhang 6 – Herstellung von Erfrischungsgetränken und Getränkeabfüllung
-
-(Fundstelle: BGBl. I 2004, 1122 - 1123)
-
-A  
-Anwendungsbereich
-
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Erfrischungsgetränken und Tafelwasser, der Gewinnung und Abfüllung von natürlichem Mineralwasser, von Quellwasser und Heilwasser sowie der Abfüllung von Getränken aller Art stammt, sofern das Abwasser aus der Abfüllung nicht gemeinsam mit Abwasser aus der Herstellung der Getränkegrundstoffe sowie der Essenzen für Erfrischungsgetränke behandelt wird. (2) Dieser Anhang gilt nicht für Abwasser aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
-
-B  
-Allgemeine Anforderungen
-
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
-
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
-
-(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
-
- 
-
-Qualifizierte Stichprobe oder  
-2-Stunden-Mischprobe
-
- 
-
-mg/l
-
-Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)
-
-25
-
-Chemischer Sauerstoffbedarf (CSB)
-
-110
-
-Phosphor, gesamt
-
-2
-
-  
-(2) Die Anforderung für Phosphor, gesamt, gilt, wenn die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor, gesamt, mehr als 20 kg je Tag beträgt. (3) Ist bei Teichanlagen, die für eine Aufenthaltszeit von 24 Stunden und mehr bemessen sind und bei denen die der wasserrechtlichen Zulassung zugrunde liegende tägliche Abwassermenge 500 m³ nicht übersteigt, eine Probe durch Algen deutlich gefärbt, so sind der CSB und der BSB<sub>5</sub> von der algenfreien Probe zu bestimmen. In diesem Fall verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l und beim BSB<sub>5</sub> um 5 mg/l.
-
-# Anhang 7 – Fischverarbeitung
-
-(Fundstelle: BGBl. I 2004, 1123)
-
-A  
-Anwendungsbereich
-
-Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Fischverarbeitung und der Verarbeitung von Schalen- und Krustentieren, sowie für Abwasser, dessen Schadstofffracht sowohl aus der Verarbeitung von Fischen, Schalen- und Krustentieren als auch aus Haushaltungen und Anlagen im Sinne des Anhangs 1 Teil A stammt, wenn im Rohwasser die CSB-Fracht des Abwassers aus der Verarbeitung von Fischen, Schalen- und Krustentieren in der Regel mehr als zwei Drittel der Gesamtfracht und die BSB<sub>5</sub>-Fracht mindestens 600 kg je Tag beträgt.
-
-B  
-Allgemeine Anforderungen
-
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
-
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
-
-(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
-
- 
-
-Qualifizierte Stichprobe oder  
-2-Stunden-Mischprobe
-
- 
-
-mg/l
-
-Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)
-
-25
-
-Chemischer Sauerstoffbedarf (CSB)
-
-110
-
-Ammoniumstickstoff (NH<sub>4</sub>-N)
-
-10
-
-Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>)
-
-25
-
-Phosphor, gesamt
-
-2
-
-  
-(2) Die Anforderungen für Ammoniumstickstoff und Stickstoff, gesamt, gelten bei einer Abwassertemperatur von 12 °C und größer im Ablauf des biologischen Reaktors der Abwasserbehandlungsanlage und sofern die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Stickstoff, gesamt, mehr als 100 kg je Tag beträgt. In der wasserrechtlichen Zulassung kann für Stickstoff, gesamt, eine höhere Konzentration bis zu 40 mg/l zugelassen werden, wenn die Verminderung der Gesamtstickstofffracht mindestens 70 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der Stickstofffracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll. Für die Frachten ist der gesamte gebundene Stickstoff (TN<sub>b</sub>) zugrunde zu legen. (3) Die Anforderung für Phosphor, gesamt, gilt, wenn die der wasserrechtlichen Zulassung zugrunde liegende BSB<sub>5</sub>-Fracht im Zulauf der Abwasserbehandlungsanlage 600 kg je Tag übersteigt. Für Abwasser, dessen BSB<sub>5</sub> (roh)-Fracht 6 000 kg je Tag oder mehr beträgt, gilt für Phosphor, gesamt, ein Wert von 1 mg/l.
-
-# Anhang 8 – Kartoffelverarbeitung
-
-(Fundstelle: BGBl. I 2004, 1124)
-
-A  
-Anwendungsbereich
-
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Verarbeitung von Kartoffeln für die menschliche Ernährung stammt. (2) Dieser Anhang gilt nicht für Abwasser aus der Kartoffelverarbeitung in Brennereien, Stärkefabriken, Betrieben zur Trocknung pflanzlicher Produkte für die Futtermittelherstellung und Betrieben zur Herstellung von Obst- und Gemüseprodukten sowie aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
-
-B  
-Allgemeine Anforderungen
-
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
-
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
-
-(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
-2-Stunden-Mischprobe mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)</td><td style="text-align: center;">25</td></tr><tr class="even"><td style="text-align: left;">Chemischer Sauerstoffbedarf (CSB)</td><td style="text-align: center;">150</td></tr><tr class="odd"><td style="text-align: left;">Ammoniumstickstoff (NH<sub>4</sub>-N)</td><td style="text-align: center;">10</td></tr><tr class="even"><td style="text-align: left;">Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>)</td><td style="text-align: center;">18</td></tr><tr class="odd"><td style="text-align: left;">Phosphor, gesamt</td><td style="text-align: center;">2</td></tr></tbody></table>
-
-  
-(2) Die Anforderungen für Ammoniumstickstoff und Stickstoff, gesamt, gelten bei einer Abwassertemperatur von 12 °C und größer im Ablauf des biologischen Reaktors der Abwasserbehandlungsanlage und sofern die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Stickstoff, gesamt, mehr als 100 kg je Tag beträgt. In der wasserrechtlichen Zulassung kann für Stickstoff, gesamt, eine höhere Konzentration bis zu 25 mg/l zugelassen werden, wenn die Verminderung der Gesamtstickstofffracht mindestens 70 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der Stickstofffracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll. Für die Frachten ist der gesamte gebundene Stickstoff (TN<sub>b</sub>) zugrunde zu legen. (3) Die Anforderung für Phosphor, gesamt, gilt, wenn die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor, gesamt, mehr als 20 kg je Tag beträgt. (4) Ist bei Teichanlagen, die für eine Aufenthaltszeit von 24 Stunden und mehr bemessen sind und bei denen die der wasserrechtlichen Zulassung zugrunde liegende tägliche Abwassermenge 500 m³ nicht übersteigt, eine Probe durch Algen deutlich gefärbt, so sind der CSB und der BSB<sub>5</sub> von der algenfreien Probe zu bestimmen. In diesem Fall verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l und beim BSB<sub>5</sub> um 5 mg/l.
+3. Daten über die eingesetzten Reinigungschemikalien und Desinfektionsmittel gemäß der Anforderung nach Teil B Absatz 1 Nummer 4.
 
 # Anhang 9 – Herstellung von Beschichtungsstoffen
 
@@ -880,14 +710,15 @@ Leichtflüchtige halogenierte Kohlenwasserstoffe (LHKW)
 
 (2) Die Anforderungen an AOX und LHKW (Summe aus Trichlorethen, Tetrachlorethen, 1.1.1-Trichlorethan, Dichlormethan – gerechnet als Chlor) beziehen sich auf die Stichprobe. Die Anforderung an LHKW gilt auch als eingehalten, wenn nachgewiesen ist, dass keine leichtflüchtigen halogenierten Kohlenwasserstoffe in der Produktion und für Reinigungszwecke eingesetzt werden.
 
-# Anhang 10 – Fleischwirtschaft
+# Anhang 10 – Schlachtung von Tieren
 
-(Fundstelle: BGBl. I 2004, 1125 - 1126)
+(Fundstelle: BGBl. I 2004, 1125 - 1126  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 A  
 Anwendungsbereich
 
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Schlachtung, der Bearbeitung und Verarbeitung von Fleisch einschließlich der Darmbearbeitung sowie der Herstellung von Fertiggerichten auf überwiegender Basis von Fleisch stammt. (2) Dieser Anhang gilt nicht für Abwasser aus Kleineinleitungen im Sinne des § 8 des Abwasserabgabengesetzes mit einer Schadstofffracht im Rohabwasser von weniger als 10 kg BSB<sub>5</sub> je Woche sowie aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
+(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Schlachtung von Tieren und der Darmbearbeitung stammt. (2) Dieser Anhang gilt nicht für Abwasser aus Kleineinleitungen im Sinne des § 8 des Abwasserabgabengesetzes mit einer Schadstofffracht im Rohabwasser von weniger als 10 kg BSB<sub>5</sub> je Woche sowie aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
 
 B  
 Allgemeine Anforderungen
@@ -906,57 +737,129 @@ mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Bioch
   
 (2) Die Anforderungen für Ammoniumstickstoff und Stickstoff, gesamt, gelten bei einer Abwassertemperatur von 12 °C und größer im Ablauf des biologischen Reaktors der Abwasserbehandlungsanlage und sofern die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Stickstoff, gesamt, mehr als 100 kg je Tag beträgt. In der wasserrechtlichen Zulassung kann für Stickstoff, gesamt, eine höhere Konzentration bis zu 25 mg/l zugelassen werden, wenn die Verminderung der Gesamtstickstofffracht mindestens 70 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der Stickstofffracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll. Für die Frachten ist der gesamte gebundene Stickstoff (TN<sub>b</sub>) zugrunde zu legen. (3) Die Anforderung für Phosphor, gesamt, gilt, wenn die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor, gesamt, mehr als 20 kg je Tag beträgt. (4) Ist bei Teichanlagen, die für eine Aufenthaltszeit von 24 Stunden und mehr bemessen sind und bei denen die der wasserrechtlichen Zulassung zugrunde liegende tägliche Abwassermenge 500 m³ nicht übersteigt, eine Probe durch Algen deutlich gefärbt, so sind der CSB und der BSB<sub>5</sub> von der algenfreien Probe zu bestimmen. In diesem Fall verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l und beim BSB<sub>5</sub> um 5 mg/l.
 
-# Anhang 11 – Brauereien
+# Anhang 12 – Herstellung von Bioethanol
 
-(Fundstelle: BGBl. I 2004, 1126 - 1127)
+(Fundstelle: BGBl. 2024 I Nr. 132, S. 6 - 8)
 
-A  
-Anwendungsbereich
+(1) Dieser Anhang gilt für Abwasser, dessen Schmutzfracht im Wesentlichen aus der Herstellung von Ethanol aus Biomasse in Anlagen nach Anhang 1 Nummer 4.1.2 der Verordnung über genehmigungsbedürftige Anlagen einschließlich der Herstellung von Co-Produkten, die im Zusammenhang mit der Herstellung von Ethanol produziert werden, stammt.
 
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus dem Brauen von Bier stammt. Er gilt auch für das Abwasser aus einer integrierten Mälzerei, soweit sie nur den Bedarf der jeweiligen Brauerei abdeckt. (2) Dieser Anhang gilt nicht für Abwasser aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
+Dieser Anhang gilt ferner für betriebsspezifisch verunreinigtes Niederschlagswasser.
 
-B  
-Allgemeine Anforderungen
+(2) Dieser Anhang gilt nicht für Abwasser aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
 
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
+(3) Die in Teil C Absatz 1, 2 und 3 genannten Anforderungen sind Emissionsgrenzwerte im Sinne von § 1 Absatz 2 Satz 1.
 
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
+(1) Abwasseranfall und Schadstofffracht sind so gering zu halten, wie dies durch folgende Maßnahmen möglich ist:
 
-(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
+1. Mehrfachnutzung und Kreislaufführung,
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
-2-Stunden-Mischprobe<br />
-mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)</td><td style="text-align: center;">25</td></tr><tr class="even"><td style="text-align: left;">Chemischer Sauerstoffbedarf (CSB)</td><td style="text-align: center;">110</td></tr><tr class="odd"><td style="text-align: left;">Ammoniumstickstoff (NH<sub>4</sub>-N)</td><td style="text-align: center;">10</td></tr><tr class="even"><td style="text-align: left;">Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>)</td><td style="text-align: center;">18</td></tr><tr class="odd"><td style="text-align: left;">Phosphor, gesamt</td><td style="text-align: center;">2</td></tr></tbody></table>
+2. Einsatz abwasserfreier Verfahren zur Vakuumerzeugung und bei der Abluftreinigung sowie
 
-  
-(2) Die Anforderungen für Ammoniumstickstoff und Stickstoff, gesamt, gelten bei einer Abwassertemperatur von 12 °C und größer im Ablauf des biologischen Reaktors der Abwasserbehandlungsanlage und sofern die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Stickstoff, gesamt, mehr als 100 kg je Tag beträgt. In der wasserrechtlichen Zulassung kann für Stickstoff, gesamt, eine höhere Konzentration bis zu 25 mg/l zugelassen werden, wenn die Verminderung der Gesamtstickstofffracht mindestens 70 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der Stickstofffracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll. Für die Frachten ist der gesamte gebundene Stickstoff (TN<sub>b</sub>) zugrunde zu legen. (3) Die Anforderung für Phosphor, gesamt, gilt, wenn die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor, gesamt, mehr als 20 kg je Tag beträgt. (4) Ist bei Teichanlagen, die für eine Aufenthaltszeit von 24 Stunden und mehr bemessen sind und bei denen die der wasserrechtlichen Zulassung zugrunde liegende tägliche Abwassermenge 500 m³ nicht übersteigt, eine Probe durch Algen deutlich gefärbt, so sind der CSB und der BSB<sub>5</sub> von der algenfreien Probe zu bestimmen. In diesem Fall verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l und beim BSB<sub>5</sub> um 5 mg/l.
+3. Rückhaltung oder Rückgewinnung von Stoffen durch Aufbereitung von Mutterlaugen und durch optimierte Verfahren.
 
-# Anhang 12 – Herstellung von Alkohol und alkoholischen Getränken
+(2) Nicht behandlungsbedürftiges Abwasser ist getrennt von behandlungsbedürftigem Abwasser abzuleiten.
 
-(Fundstelle: BGBl. I 2004, 1127; bzgl. einzelner Änderungen vgl. Fußnote)
+(3) Es sind Rückhaltekapazitäten für Abwasser vorzuhalten und Maßnahmen für eine ordnungsgemäße Wiederverwendung, Behandlung oder Entsorgung zurückgehaltenen Abwassers vorzusehen, um bei außerplanmäßigen Betriebszuständen unkontrollierte Emissionen zu verhindern. Der Umfang der Rückhaltekapazitäten und der Maßnahmen muss dem Risiko angemessen sein. Der Einleiter hat eine entsprechende Risikobewertung vorzunehmen.
 
-A  
-Anwendungsbereich
+(4) Bei mehreren abwassererzeugenden Betrieben an einem Standort hat der Inhaber der wasserrechtlichen Zulassung mit den betrieblich Verantwortlichen der übrigen abwassererzeugenden Betriebe die Aufgaben, die Verantwortlichkeiten und das Zusammenwirken im Hinblick auf eine ordnungsgemäße Abwasserbeseitigung in geeigneter Form festzulegen.
 
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Alkohol in einer Verschlussbrennerei im Sinne des § 3 Nummer 12 des Alkoholsteuergesetzes, einschließlich seiner Verarbeitung und Abfüllung, sowie aus der Herstellung, Verarbeitung und Abfüllung von alkoholischen Getränken stammt. (2) Dieser Anhang gilt nicht für Abwasser aus Abfindungsbrennereien im Sinne des § 9 des Alkoholsteuergesetzes, der Bereitung von Wein und Obstwein, dem Brauen von Bier, der Alkoholherstellung aus Melasse, aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
+(5) Der Nachweis für die Einhaltung der allgemeinen Anforderungen ist in einem betrieblichen Abwasserkataster zu erbringen. Das Abwasserkataster hat, über die Angaben gemäß Anlage 2 Nummer 1 hinaus, Informationen über vorgehaltene Rückhaltekapazitäten oder vorgesehene Maßnahmen gemäß Absatz 3 zu enthalten.
 
-B  
-Allgemeine Anforderungen
+(6) Abwasserbehandlungsanlagen nach § 60 Absatz 3 Satz 1 Nummer 2 des Wasserhaushaltsgesetzes sowie zugehörige Kanalisationen und Anlagen zur Entwässerung von Klärschlamm im Zusammenhang mit der Abwasserbeseitigung sind so zu errichten und zu betreiben, dass Geruchs- und Lärmemissionen vermieden werden.
 
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
-
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
+(7) Soweit Abwasser nach Teil A Absatz 1, welches den Anforderungen nach Teil C Absatz 1 entspricht, als Zusatzwasser in Kühlsystemen zur indirekten Kühlung von industriellen Prozessen eingesetzt wird, gilt die Beschaffenheit dieses Zusatzwassers als Vorbelastung im Sinne von Anhang 31 Teil B Absatz 4.
 
 (1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
-2-Stunden-Mischprobe<br />
-mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)</td><td style="text-align: center;">25</td></tr><tr class="even"><td style="text-align: left;">Chemischer Sauerstoffbedarf (CSB)</td><td style="text-align: center;">110</td></tr><tr class="odd"><td style="text-align: left;">Ammoniumstickstoff (NH<sub>4</sub>-N)</td><td style="text-align: center;">10</td></tr><tr class="even"><td style="text-align: left;">Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>)</td><td style="text-align: center;">18</td></tr><tr class="odd"><td style="text-align: left;">Phosphor, gesamt</td><td style="text-align: center;">2</td></tr></tbody></table>
-
   
-(2) Die Anforderungen für Ammoniumstickstoff und Stickstoff, gesamt, gelten bei einer Abwassertemperatur von 12 °C und größer im Ablauf des biologischen Reaktors der Abwasserbehandlungsanlage und sofern die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Stickstoff, gesamt, mehr als 100 kg je Tag beträgt. In der wasserrechtlichen Zulassung kann für Stickstoff, gesamt, eine höhere Konzentration bis zu 25 mg/l zugelassen werden, wenn die Verminderung der Gesamtstickstofffracht mindestens 70 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der Stickstofffracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll. Für die Frachten ist der gesamte gebundene Stickstoff (TN<sub>b</sub>) zugrunde zu legen. (3) Die Anforderung für Phosphor, gesamt, gilt, wenn die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor, gesamt, mehr als 20 kg je Tag beträgt. (4) Ist bei Teichanlagen, die für eine Aufenthaltszeit von 24 Stunden und mehr bemessen sind und bei denen die der wasserrechtlichen Zulassung zugrunde liegende tägliche Abwassermenge 500 m³ nicht übersteigt, eine Probe durch Algen deutlich gefärbt, so sind der CSB und der BSB<sub>5</sub> von der algenfreien Probe zu bestimmen. In diesem Fall verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l und beim BSB<sub>5</sub> um 5 mg/l. (5) Die Anforderungen beziehen sich bei Stapelteichen auf die Stichprobe. Sie gelten als nicht eingehalten, wenn der Stapelteich vor Erreichen der festgelegten Werte abgelassen wird.
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Parameter</th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
+2-Stunden-Mischprobe<br />
+mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)</td><td style="text-align: center;"> 25</td></tr><tr class="even"><td style="text-align: left;">Chemischer Sauerstoffbedarf (CSB)</td><td style="text-align: center;">100</td></tr><tr class="odd"><td style="text-align: left;">Organisch gebundener Kohlenstoff, gesamt (TOC)</td><td style="text-align: center;"> 33</td></tr><tr class="even"><td style="text-align: left;">Abfiltrierbare Stoffe (AFS)</td><td style="text-align: center;"> 30</td></tr><tr class="odd"><td style="text-align: left;">Ammoniumstickstoff (NH<sub>4</sub>-N)</td><td style="text-align: center;"> 10</td></tr><tr class="even"><td style="text-align: left;">Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>)</td><td style="text-align: center;"> 18</td></tr><tr class="odd"><td style="text-align: left;">Gesamter gebundener Stickstoff (TN<sub>b</sub>)</td><td style="text-align: center;"> 20</td></tr><tr class="even"><td style="text-align: left;">Phosphor, gesamt (P<sub>ges</sub>)</td><td style="text-align: center;">    2,0</td></tr></tbody></table>
+
+(2) Die Anforderungen für Ammoniumstickstoff (NH<sub>4</sub>-N), Stickstoff, gesamt (N<sub>ges</sub>), und gesamter gebundener Stickstoff (TN<sub>b</sub>) in Absatz 1 gelten bei einer Abwassertemperatur von 12° C und größer im Ablauf des biologischen Reaktors.
+
+(3) Bei Überschreiten der nachfolgend genannten eingeleiteten Jahresfrachten sind folgende Konzentrationen als Jahresmittelwerte einzuhalten:  
+  
+
+Parameter
+
+Jahresfracht
+
+Konzentration mg/l  
+(Jahresmittelwert)
+
+TN<sub>b</sub>
+
+  2,5 t/a
+
+25<span id="FnR.FnA1-F829790_07"></span><a href="#FnA1-F829790_07" class="FnR">1</a></sup>   
+
+AOX
+
+100 kg/a
+
+1,0
+
+Chrom, gesamt
+
+   2,5 kg/a
+
+   0,025
+
+Kupfer
+
+   5,0 kg/a
+
+   0,050
+
+Nickel
+
+   5,0 kg/a
+
+   0,050
+
+Zink
+
+ 30 kg/a
+
+  0,30
+
+<span id="FnA1-F829790_07"></span><a href="#FnR.FnA1-F829790_07" class="Footnote">1</a>  
+Der Jahresmittelwert darf bei TNb bis zu 40 mg/l betragen, wenn die Eliminationsrate im Jahresdurchschnitt mindestens 70 Prozent beträgt.
+
+(4) Die Parameter nach Absatz 3 sind nach Teil H Absatz 1 zu messen. Die Ergebnisse der Messung stehen Ergebnissen staatlicher Überwachung gleich. § 6 Absatz 1 findet keine Anwendung.
+
+An das Abwasser werden vor Vermischung mit anderem Abwasser keine zusätzlichen Anforderungen gestellt.
+
+An das Abwasser werden für den Ort des Anfalls keine zusätzlichen Anforderungen gestellt.
+
+(1) Abweichend von Teil B Absatz 2 kann bei vorhandenen Anlagen zur Ableitung von behandlungsbedürftigem Abwasser, die vor dem 20. April 2024 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, mit Zustimmung der zuständigen Behörde nicht behandlungsbedürftiges Abwasser zusammen mit behandlungsbedürftigem Abwasser abgeleitet werden.
+
+(2) Abweichend von Teil B Absatz 3 kann bei vorhandenen Anlagen, die vor dem 20. April 2024 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, mit Zustimmung der zuständigen Behörde von der Anforderung, Rückhaltekapazitäten für Abwasser vorzuhalten, abgesehen werden, wenn diese Anforderung aus Platzgründen oder auf Grund der Anlagenkonfiguration unverhältnismäßig ist.
+
+Abfallrechtliche Anforderungen werden nicht gestellt.
+
+(1) Betreiber haben nachstehende Parameter im Abwasser an der Einleitungsstelle in das Gewässer in der durchflussproportionalen 24-Stunden-Mischprobe wie folgt zu messen:  
+  
+
+| Parameter                                                                | Mindesthäufigkeit |
+|:-------------------------------------------------------------------------|:-----------------:|
+| TOC                                                                      |      täglich      |
+| AFS                                                                      |      täglich      |
+| TN<sub>b</sub>                                                           |      täglich      |
+| P<sub>ges</sub>                                                          |      täglich      |
+| BSB<sub>5</sub>                                                          |     monatlich     |
+| AOX                                                                      |     monatlich     |
+| Chrom, gesamt, Kupfer, Nickel, Zink, Blei                                |     monatlich     |
+| Andere Schwermetalle, sofern in der wasserrechtlichen Zulassung begrenzt |     monatlich     |
+
+Bei Abwasserströmen mit nachgewiesenen geringen Schwankungen im Volumenstrom und in der Konzentration können die Messungen nach behördlicher Festlegung auch in der qualifizierten Stichprobe oder der 2-Stunden-Mischrobe erfolgen. Wird mit vorliegenden Datenreihen eine deutliche Stabilität der Messergebnisse nachgewiesen, kann die Häufigkeit der Messungen nach behördlicher Festlegung verringert werden. Messungen mit der Mindesthäufigkeit täglich müssen jedoch mindestens einmal im Monat, die übrigen jährlich stattfinden.
+
+(2) Die Jahresmittelwerte für die Parameter nach Teil C Absatz 3 errechnen sich aus den Ergebnissen der Messungen nach Absatz 1.
+
+(3) Es ist ein Jahresbericht nach Anlage 2 Nummer 3 zu erstellen.
+
+(4) Die Messungen der Parameter nach Absatz 1 sind nach den Analyse- und Messverfahren nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 
 # Anhang 13 – Herstellung von Holzspanplatten, Holzfaserplatten oder Holzfasermatten
 
@@ -1072,32 +975,6 @@ f) Zink.
 (3) Betreiber von Anlagen zur Herstellung von Holzspanplatten, Holzfaserplatten oder Holzfasermatten mit einer Produktionskapazität von 600 m³ oder mehr je Tag haben einen Jahresbericht nach Anlage 2 Nummer 3 zu erstellen.
 
 (4) Die Messungen der Parameter nach Absatz 1 sind nach den Analyse- und Messverfahren nach Anlage 1 oder nach behördlich anerkannten Überwachungsverfahren durchzuführen. Die landesrechtlichen Vorschriften für die Selbstüberwachung bleiben von den Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
-
-# Anhang 14 – Trocknung pflanzlicher Produkte für die Futtermittelherstellung
-
-(Fundstelle: BGBl. I 2004, 1128 - 1129)
-
-A  
-Anwendungsbereich
-
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der direkten und indirekten Trocknung pflanzlicher Produkte für die Futtermittelherstellung stammt. (2) Dieser Anhang gilt nicht für Abwasser aus der Trocknung pflanzlicher Produkte für die Futtermittelherstellung als Nebenproduktion sowie aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
-
-B  
-Allgemeine Anforderungen
-
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
-
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
-
-(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
-2-Stunden-Mischprobe<br />
-mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)</td><td style="text-align: center;">25</td></tr><tr class="even"><td style="text-align: left;">Chemischer Sauerstoffbedarf (CSB)</td><td style="text-align: center;">110</td></tr><tr class="odd"><td style="text-align: left;">Phosphor, gesamt</td><td style="text-align: center;">2</td></tr></tbody></table>
-
-  
-(2) Die Anforderung für Phosphor, gesamt, gilt, wenn die der wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor, gesamt, mehr als 20 kg je Tag beträgt. (3) Ist bei Teichanlagen, die für eine Aufenthaltszeit von 24 Stunden und mehr bemessen sind und bei denen die der wasserrechtlichen Zulassung zugrunde liegende tägliche Abwassermenge 500 m³ nicht übersteigt, eine Probe durch Algen deutlich gefärbt, so sind der CSB und der BSB<sub>5</sub> von der algenfreien Probe zu bestimmen. In diesem Fall verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l und beim BSB<sub>5</sub> um 5 mg/l. (4) Die Anforderungen beziehen sich bei Stapelteichen auf die Stichprobe. Sie gelten als nicht eingehalten, wenn der Stapelteich vor Erreichen der festgelegten Werte abgelassen wird.
 
 # Anhang 15 – Herstellung von Hautleim, Gelatine und Knochenleim
 
@@ -1249,37 +1126,6 @@ F
 Anforderungen für vorhandene Einleitungen
 
 Für vorhandene Einleitungen von Abwasser aus Anlagen, die vor dem 1. Juni 2000 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, gelten die Bestimmungen der Teile B, C und D nur, soweit in den Absätzen 1 bis 4 keine abweichenden Anforderungen festgelegt sind. (1) Abwasser aus der Spaltplatten- und Fliesenherstellung darf abweichend von Teil B Abs. 1 eingeleitet werden, wenn es im Herstellungsprozess mindestens zu 50 Prozent wiederverwendet worden ist. (2) Abwasser aus der Herstellung von Piezo-Keramik darf abweichend von Teil B Abs. 2 Nr. 1 eingeleitet werden, wenn es mindestens zu 30 Prozent wiederverwendet worden ist. (3) Abwasser aus dem Bereich der Sanitärkeramik und der Geschirrherstellung darf abweichend von Teil B Abs. 2 Nr. 2 und 3 ohne Wiederverwendung eingeleitet werden. (4) Wird mehr Wasser wiederverwendet, als in den Absätzen 1, 2 und 3 gefordert, dürfen für den AOX und den CSB höhere Konzentrationen als die in Teil C und D vorgegebenen Konzentrationen zugelassen werden, wenn die sich aus den Absätzen 1, 2 und 3 jeweils ergebende Fracht eingehalten wird.
-
-# Anhang 18 – Zuckerherstellung
-
-(Fundstelle: BGBl. I 2004, 1131 - 1132)
-
-A  
-Anwendungsbereich
-
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Gewinnung von festen und flüssigen Zuckern sowie Sirupen aus Zuckerrüben und Zuckerrohr stammt. (2) Dieser Anhang gilt nicht für Abwasser aus indirekten Kühlsystemen, aus der Betriebswasseraufbereitung und aus der Wäsche von Rauchgasen.
-
-B  
-Allgemeine Anforderungen
-
-Im Abwasser dürfen organisch gebundene Halogene, die aus dem Einsatz von Chlor oder Chlor abspaltenden Verbindungen, ausgenommen Chlordioxid, im Fallwasserkreislauf stammen, nicht enthalten sein. Der Nachweis, dass die Anforderung eingehalten ist, kann dadurch erbracht werden, dass die eingesetzten Betriebs- und Hilfsstoffe in einem Betriebstagebuch aufgeführt sind und nach Angaben des Herstellers keine der genannten Stoffe oder Stoffgruppen enthalten.
-
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
-
-(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
-2-Stunden-Mischprobe<br />
-mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)</td><td style="text-align: center;">25</td></tr><tr class="even"><td style="text-align: left;">Chemischer Sauerstoffbedarf (CSB)</td><td style="text-align: center;">200</td></tr><tr class="odd"><td style="text-align: left;">Ammoniumstickstoff (NH<sub>4</sub>-N)</td><td style="text-align: center;">10</td></tr><tr class="even"><td style="text-align: left;">Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N<sub>ges</sub>)</td><td style="text-align: center;">30</td></tr><tr class="odd"><td style="text-align: left;">Phosphor, gesamt</td><td style="text-align: center;">2</td></tr></tbody></table>
-
-  
-(2) Die Anforderungen für Ammoniumstickstoff und Stickstoff, gesamt, gelten bei einer Abwassertemperatur von 12 °C und größer im Ablauf des biologischen Reaktors der Abwasserbehandlungsanlage. In der wasserrechtlichen Zulassung kann für Stickstoff, gesamt, eine höhere Konzentration bis zu 50 mg/l in der qualifizierten Stichprobe oder 2-Stunden-Mischprobe zugelassen werden, wenn die Verminderung der Gesamtstickstofffracht mindestens 70 Prozent beträgt. Die Verminderung bezieht sich auf das Verhältnis der Stickstofffracht im Zulauf zu derjenigen im Ablauf in einem repräsentativen Zeitraum, der 24 Stunden nicht überschreiten soll. Für die Frachten ist der gesamte gebundene Stickstoff (TN<sub>b</sub>) zugrunde zu legen. (3) Die Anforderungen beziehen sich bei Stapelteichen auf die Stichprobe. Sie gelten als nicht eingehalten, wenn der Stapelteich vor Erreichen der festgelegten Werte abgelassen wird.
-
-D  
-Anforderungen an das Abwasser vor Vermischung
-
-Sperr- und Kondensationswasser darf, soweit es nicht innerbetrieblich wiederverwendet werden kann, zum Zwecke der gemeinsamen Behandlung mit Abwasser anderer Herkunftsbereiche nur vermischt werden, wenn die Konzentrationen an den in Teil C Abs. 1 festgelegten Parametern die dort festgelegten Werte im Rohabwasser überschreiten.
 
 # Anhang 19 – Zellstofferzeugung
 
@@ -1487,32 +1333,6 @@ D
 Anforderungen an das Abwasser vor Vermischung
 
 Das Abwasser darf vor Vermischung mit Abwasser anderer Herkunftsbereiche einen Wert von 0,1 mg/l für adsorbierbare organisch gebundene Halogene (AOX) in der Stichprobe nicht überschreiten. Die Anforderung gilt auch als eingehalten, wenn die eingesetzten Reinigungs- und Desinfektionsmittel oder sonstigen Betriebs- und Hilfsstoffe keine organisch gebundenen Halogenverbindungen oder Halogen abspaltenden Stoffe enthalten. Der Nachweis kann dadurch erbracht werden, dass die eingesetzten Betriebs- und Hilfsstoffe in einem Betriebstagebuch aufgeführt sind und nach Angaben des Herstellers keine der in Satz 1 genannten Stoffe oder Stoffgruppen enthalten.
-
-# Anhang 21 – Mälzereien
-
-(Fundstelle: BGBl. I 2004, 1134)
-
-A  
-Anwendungsbereich
-
-(1) Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Malz aus Getreide stammt. (2) Dieser Anhang gilt nicht für Abwasser aus der in einer Brauerei integrierten Mälzerei, soweit sie nur den Bedarf der jeweiligen Brauerei abdeckt, sowie aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
-
-B  
-Allgemeine Anforderungen
-
-Es werden keine über § 3 hinausgehenden Anforderungen gestellt.
-
-C  
-Anforderungen an das Abwasser für die Einleitungsstelle
-
-(1) An das Abwasser werden für die Einleitungsstelle in das Gewässer folgende Anforderungen gestellt:  
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: center;">Qualifizierte Stichprobe oder<br />
-2-Stunden-Mischprobe<br />
-mg/l</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Biochemischer Sauerstoffbedarf in 5 Tagen (BSB<sub>5</sub>)</td><td style="text-align: center;">25</td></tr><tr class="even"><td style="text-align: left;">Chemischer Sauerstoffbedarf (CSB)</td><td style="text-align: center;">110</td></tr></tbody></table>
-
-  
-(2) Ist bei Teichanlagen, die für eine Aufenthaltszeit von 24 Stunden und mehr bemessen sind und bei denen die der wasserrechtlichen Zulassung zugrunde liegende tägliche Abwassermenge 500 m³ nicht übersteigt, eine Probe durch Algen deutlich gefärbt, so sind der CSB und der BSB<sub>5</sub> von der algenfreien Probe zu bestimmen. In diesem Fall verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l und beim BSB<sub>5</sub> um 5 mg/l.
 
 # Anhang 22 – Chemische Industrie
 
