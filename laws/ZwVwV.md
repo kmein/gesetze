@@ -185,6 +185,8 @@ Der Verwalter hat jederzeit dem Gericht oder einem mit der Prüfung beauftragten
 
 (3) Ist der Verwalter als Rechtsanwalt zugelassen, so kann er für Tätigkeiten, die ein nicht als Rechtsanwalt zugelassener Verwalter einem Rechtsanwalt übertragen hätte, die gesetzliche Vergütung eines Rechtsanwalts abrechnen. Ist der Verwalter Steuerberater oder besitzt er eine andere besondere Qualifikation, gilt Satz 1 sinngemäß.
 
+(+++ § 17: Zur Anwendung vgl. § 25 +++)
+
 # § 18 – Regelvergütung
 
 (1) Bei der Zwangsverwaltung von Grundstücken, die durch Vermieten oder Verpachten genutzt werden, erhält der Verwalter als Vergütung in der Regel 10 Prozent des für den Zeitraum der Verwaltung an Mieten oder Pachten eingezogenen Bruttobetrags. Für vertraglich geschuldete, nicht eingezogene Mieten oder Pachten erhält er 20 Prozent der Vergütung, die er erhalten hätte, wenn diese Mieten eingezogen worden wären. Soweit Mietrückstände eingezogen werden, für die der Verwalter bereits eine Vergütung nach Satz 2 erhalten hat, ist diese anzurechnen.
@@ -193,17 +195,23 @@ Der Verwalter hat jederzeit dem Gericht oder einem mit der Prüfung beauftragten
 
 (3) Für die Fertigstellung von Bauvorhaben erhält der Verwalter 6 Prozent der von ihm verwalteten Bausumme. Planungs-, Ausführungs- und Abnahmekosten sind Bestandteil der Bausumme und finden keine Anrechnung auf die Vergütung des Verwalters.
 
+(+++ § 18: Zur Anwendung vgl. § 25 +++)
+
 # § 19 – Abweichende Berechnung der Vergütung
 
 (1) Wenn dem Verwalter eine Vergütung nach § 18 nicht zusteht, bemisst sich die Vergütung nach Zeitaufwand. In diesem Fall erhält er für jede Stunde der für die Verwaltung erforderlichen Zeit, die er oder einer seiner Mitarbeiter aufgewendet hat, eine Vergütung von mindestens 50 Euro und höchstens 250 Euro. Der Stundensatz ist für den jeweiligen Abrechnungszeitraum einheitlich zu bemessen.
 
 (2) Der Verwalter kann für den Abrechnungszeitraum einheitlich nach Absatz 1 abrechnen, wenn die Vergütung nach § 18 Abs. 1 und 2 offensichtlich unangemessen ist.
 
+(+++ § 19: Zur Anwendung vgl. § 25 +++)
+
 # § 20 – Mindestvergütung
 
 (1) Ist das Zwangsverwaltungsobjekt von dem Verwalter in Besitz genommen, so beträgt die Vergütung des Verwalters mindestens 1 200 Euro.
 
 (2) Ist das Verfahren der Zwangsverwaltung aufgehoben worden, bevor der Verwalter das Grundstück in Besitz genommen hat, so erhält er eine Vergütung von 450 Euro, sofern er bereits tätig geworden ist.
+
+(+++ § 20: Zur Anwendung vgl. § 25 +++)
 
 # § 21 – Auslagen
 
@@ -213,9 +221,13 @@ Der Verwalter hat jederzeit dem Gericht oder einem mit der Prüfung beauftragten
 
 (3) Mit der Vergütung sind auch die Kosten einer Haftpflichtversicherung abgegolten. Ist die Verwaltung jedoch mit einem besonderen Haftungsrisiko verbunden, so sind die durch eine Höherversicherung nach § 1 Abs. 4 begründeten zusätzlichen Kosten als Auslagen zu erstatten.
 
+(+++ § 21: Zur Anwendung vgl. § 25 +++)
+
 # § 22 – Festsetzung
 
 Die Vergütung und die dem Verwalter zu erstattenden Auslagen werden im Anschluss an die Rechnungslegung nach § 14 Abs. 2 oder die Schlussrechnung nach § 14 Abs. 3 für den entsprechenden Zeitraum auf seinen Antrag vom Gericht festgesetzt. Vor der Festsetzung kann der Verwalter mit Einwilligung des Gerichts aus den Einnahmen einen Vorschuss auf die Vergütung und die Auslagen entnehmen.
+
+(+++ § 22: Zur Anwendung vgl. § 25 +++)
 
 # § 23 – Grundstücksgleiche Rechte
 

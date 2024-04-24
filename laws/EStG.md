@@ -2771,7 +2771,7 @@ jeweils zuzüglich voraussichtlicher Sonderzahlungen im Kalenderjahr, auf die zu
 (3) ¹Die Energiepreispauschale nach dem Versorgungsrechtlichen Energiepreispauschalen-Gewährungsgesetz oder vergleichbare Leistungen zum Ausgleich gestiegener Energiepreise nach Landesrecht sind als Einnahmen nach Absatz 2 zu berücksichtigen. ²Sie gelten nicht als Sonderzahlung im Sinne von Absatz 2 Satz 4, jedoch als regelmäßige Anpassung des Versorgungsbezugs im Sinne von Absatz 2 Satz 9. ³Im Lohnsteuerabzugsverfahren sind die Energiepreispauschale und vergleichbare Leistungen bei der Berechnung einer Vorsorgepauschale nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe b und c nicht zu berücksichtigen. ⁴In den Fällen des Satzes 1 sind die §§ 3 und 24a nicht anzuwenden.
 
 (+++ § 19 Abs. 2: Zur Anwendung vgl. § 22 Nr. 5 +++)  
-(+++ § 19 Abs. 1 Satz 1 Nr. 3 Satz 2: Zur Anwendung vgl. § 52 +++)
+(+++ § 19: Zur Anwendung vgl. § 52 +++)
 
 # § 19a – Sondervorschrift für Einkünfte aus nichtselbständiger Arbeit bei Vermögensbeteiligungen
 
@@ -3420,6 +3420,8 @@ Höchstbetrag in Euro
  0,0
 
      0
+
+(+++ § 24a: Zur Anwendung vgl. § 52 +++)
 
 # § 24b – Entlastungsbetrag für Alleinerziehende
 
