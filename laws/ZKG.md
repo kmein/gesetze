@@ -633,4 +633,5 @@ jeweils auch in Verbindung mit einer Rechtsverordnung nach § 19 Absatz 1 Nummer
 
 # Anlage 4 – (zu § 34 Absatz 4 Satz 3)Antrag auf Durchführung eines Verwaltungsverfahrens bei Ablehnung eines Antrags auf Abschluss eines Basiskontovertrags
 
-(Fundstelle: BGBl. I 2016, 744)
+(Fundstelle: BGBl. I 2016, 744  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
