@@ -1,4 +1,4 @@
-% Verordnung mit Durchführungsvorschriften über die Verbringung von Lebensmitteln und Futtermitteln in die Europäische Union und über die amtlichen Kontrollen der Verbringung (Lebensmittel-und-Futtermittel-Verbringungs-Verordnung – LFVV)*, **  (Lebensmittel-und-Futtermittel-Verbringungs-Verordnung - LFVV)
+% Verordnung mit Durchführungsvorschriften über die Verbringung von Lebensmitteln und Futtermitteln in die Europäische Union und über die amtlichen Kontrollen der Verbringung *, **  (Lebensmittel-und-Futtermittel-Verbringungs-Verordnung - LFVV)
 % Ausfertigungsdatum: 11.04.2024
  
 # § 1 – Anwendungsbereich

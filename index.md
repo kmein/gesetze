@@ -2981,7 +2981,6 @@
 - [IRG](laws/IRG.md) Gesetz über die internationale Rechtshilfe in Strafsachen
 - [ISAusbV 1997](laws/ISAusbV_1997.md) Verordnung über die Berufsausbildung in der Isolier-Industrie
 - [IsolMstrV](laws/IsolMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Wärme-, Kälte- und Schallschutzisolierer-Handwerk
-- [IsraelAufenthÜV](laws/IsraelAufenthÜV.md) Verordnung zur vorübergehenden Befreiung vom Erfordernis eines Aufenthaltstitels von anlässlich des Krieges in Israel eingereisten israelischen Staatsangehörigen
 - [IStGHG](laws/IStGHG.md) Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof
 - [IT-FortbV](laws/IT-FortbV.md) Verordnung über die berufliche Fortbildung im Bereich der Informations- und Telekommunikationstechnik
 - [IT-NetzG](laws/IT-NetzG.md) Gesetz über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes –
@@ -3366,7 +3365,7 @@
 - [LFBAG](laws/LFBAG.md) Gesetz über das Luftfahrt-Bundesamt
 - [LFGB](laws/LFGB.md) Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch 1) 2) 3)
 - [LFÜG](laws/LFÜG.md) Gesetz über den Übergang auf das neue Lebensmittel- und Futtermittelrecht
-- [LFVV](laws/LFVV.md) Verordnung mit Durchführungsvorschriften über die Verbringung von Lebensmitteln und Futtermitteln in die Europäische Union und über die amtlichen Kontrollen der Verbringung (Lebensmittel-und-Futtermittel-Verbringungs-Verordnung – LFVV)*, **
+- [LFVV](laws/LFVV.md) Verordnung mit Durchführungsvorschriften über die Verbringung von Lebensmitteln und Futtermitteln in die Europäische Union und über die amtlichen Kontrollen der Verbringung *, **
 - [LFZ/KVRÄndG](laws/LFZ_KVRÄndG.md) Gesetz über die Fortzahlung des Arbeitsentgelts im Krankheitsfall und über Änderungen des Rechts der gesetzlichen Krankenversicherung
 - [LFzPfSchG](laws/LFzPfSchG.md) Gesetz über die Unzulässigkeit der Sicherungsbeschlagnahme von Luftfahrzeugen
 - [LHauswAusbStV](laws/LHauswAusbStV.md) Verordnung über die Eignung der Ausbildungsstätte in der ländlichen Hauswirtschaft
