@@ -113,7 +113,7 @@ Die vorstehenden Ermäßigungen können nicht nebeneinander geltend gemacht werd
 
 (5) Das Beratungsgeld wird erhöht im Seelotsrevier Wismar/Rostock/Stralsund um 15 vom Hundert für Schiffe mit gasförmiger oder flüssiger Ladung einschließlich Tanker in Ballast sowie für Schiffe mit feuergefährlicher oder explosiver Gesamtladung.
 
-(+++ § 2 Abs. 1 Satz 1 Nr. 2 Buchst. b: Zur Nichtanwendung ab 1.1.2024 vgl. § 8 +++)
+(+++ § 2 Abs. 4 Satz 1 Nr. 2 Buchst. b: Zur Nichtanwendung ab 1.1.2024 vgl. § 8 +++)
 
 # § 3
 
@@ -177,7 +177,7 @@ von einem von der Generaldirektion Wasserstraßen und Schifffahrt bestimmten Sac
 
 # § 8
 
-§ 2 Absatz 1 Satz 1 Nummer 2 Buchstabe b ist ab dem 1. Januar 2024 nicht mehr anzuwenden.
+§ 2 Absatz 4 Satz 1 Nummer 2 Buchstabe b ist ab dem 1. Januar 2024 nicht mehr anzuwenden.
 
 # Anlage 1 – (zu § 1 Absatz 1)Verzeichnis und Tabelle der Lotsabgaben
 
