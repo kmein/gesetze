@@ -37,7 +37,6 @@
 - [ABZusGrBrückVtrCESG](laws/ABZusGrBrückVtrCESG.md) Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluß der deutschen Autobahn A 6 und der tschechischen Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke
 - [ABZusGrBrückVtrCESNotw](laws/ABZusGrBrückVtrCESNotw.md) Verbalnote zum Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluß der deutschen Autobahn A 6 und der tschechischen Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke
 - [ABZusPolAbkG](laws/ABZusPolAbkG.md) Gesetz zu dem Abkommen vom 23. April 1993 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß im Raum Frankfurt/Oder und Schwetig
-- [AckerBoSaatV 2024](laws/AckerBoSaatV_2024.md) Verordnung über besondere Anforderungen an Saatgut von Ackerbohnen im Rahmen der Saatgutanerkennung 2024
 - [AdenauerHStiftG](laws/AdenauerHStiftG.md) Gesetz über die Errichtung einer Stiftung Bundeskanzler-Adenauer-Haus
 - [AdG](laws/AdG.md) Gesetz über die Annahme als Kind und zur Änderung anderer Vorschriften
 - [AdKG](laws/AdKG.md) Gesetz zur Errichtung der Akademie der Künste
@@ -2660,6 +2659,7 @@
 - [GWDAPrV](laws/GWDAPrV.md) Verordnung über die Ausbildung und Prüfung für den gehobenen Wetterdienst des Bundes
 - [GwG](laws/GwG.md) Gesetz über das Aufspüren von Gewinnen aus schweren Straftaten
 - [GwGMeldV-Immobilien](laws/GwGMeldV-Immobilien.md) Verordnung zu den nach dem Geldwäschegesetz meldepflichtigen Sachverhalten im Immobilienbereich
+- [GWKHV](laws/GWKHV.md) Verordnung über das Herkunftsnachweisregister für Gas und das Herkunftsnachweisregister für Wärme oder Kälte 1
 - [GWStatG](laws/GWStatG.md) Gesetz über die Statistik zu globalen Wertschöpfungsketten
 - [GZKtgRindFlV 1989](laws/GZKtgRindFlV_1989.md) Verordnung über die Grundsätze für die Verteilung der deutschen Quote des Gemeinschaftszollkontingents 1989 für gefrorenes Rindfleisch
 - [HaagÜbkAG](laws/HaagÜbkAG.md) Gesetz zur Ausführung des Haager Übereinkommens vom 15. November 1965 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke im Ausland in Zivil- oder Handelssachen und des Haager Übereinkommens vom 18. März 1970 über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
@@ -3555,7 +3555,6 @@
 - [LuftVStAbsenkV 2021](laws/LuftVStAbsenkV_2021.md) Verordnung zur Absenkung der Steuersätze im Jahr 2021 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
 - [LuftVStAbsenkV 2022](laws/LuftVStAbsenkV_2022.md) Verordnung zur Absenkung der Steuersätze im Jahr 2022 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
 - [LuftVStAbsenkV 2023](laws/LuftVStAbsenkV_2023.md) Verordnung zur Absenkung der Steuersätze im Jahr 2023 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
-- [LuftVStAbsenkV 2024](laws/LuftVStAbsenkV_2024.md) Verordnung zur Absenkung der Steuersätze im Jahr 2024 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
 - [LuftVStDV](laws/LuftVStDV.md) Verordnung zur Durchführung des Luftverkehrsteuergesetzes
 - [LuftVStFestV 2014](laws/LuftVStFestV_2014.md) Verordnung zur Festlegung der Steuersätze im Jahr 2014 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
 - [LuftVStFestV 2015](laws/LuftVStFestV_2015.md) Verordnung zur Festlegung der Steuersätze im Jahr 2015 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
@@ -6749,6 +6748,7 @@
 - [5. VermBG](laws/5._VermBG.md) Fünftes Gesetz zur Förderung der Vermögensbildung der Arbeitnehmer
 - [54. AnrV](laws/54._AnrV.md) Vierundfünfzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz
 - [6. AusbDienstLArbbV](laws/6._AusbDienstLArbbV.md) Sechste Verordnung über zwingende Arbeitsbedingungen für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch
+- [6. BinSchStrOAbweichV](laws/6._BinSchStrOAbweichV.md) Sechste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
 - [6. DV-BEG](laws/6._DV-BEG.md) Sechste Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 - [6. PflegeArbbV](laws/6._PflegeArbbV.md) Sechste Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche
 - [6. ProdSV](laws/6._ProdSV.md) Sechste Verordnung zum Produktsicherheitsgesetz 1

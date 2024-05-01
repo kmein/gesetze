@@ -73,7 +73,7 @@ b) ihren Namen und Heimathafen oder -ort außen in mindestens 10 cm hohen latein
 
 dies gilt nur, soweit Gegenseitigkeit gewährleistet ist;
 
-4. ein nach landesrechtlichen Vorschriften zugeteiltes amtliches Kennzeichen führen, soweit es vom Bundesministerium für Verkehr und digitale Infrastruktur anerkannt worden ist; diese amtlichen Kennzeichen werden im Verkehrsblatt bekanntgemacht.
+4. ein nach landesrechtlichen Vorschriften zugeteiltes amtliches Kennzeichen führen, soweit es vom Bundesministerium für Digitales und Verkehr anerkannt worden ist; diese amtlichen Kennzeichen werden im Verkehrsblatt bekanntgemacht.
 
 # § 4 – Amtliche Kennzeichen
 
@@ -83,7 +83,7 @@ dies gilt nur, soweit Gegenseitigkeit gewährleistet ist;
 
 2. Buchstaben und Ziffern, die mit Bindestrich angeschlossen werden.
 
-Die Kennzeichen nach Nummer 1 ergeben sich aus dem fahrzeugzulassungsrechtlichen Unterscheidungszeichen des Verwaltungsbezirkes in dem das zuteilende Wasserstraßen- und Schifffahrtsamt seinen Sitz hat; Unterscheidungszeichen, die als Wunschkennzeichen gelten, sind nicht zu berücksichtigen. Die Kennzeichen, die auf der Grundlage der am 3. Juni 2016 geltenden Fassung dieser Verordnung erteilt worden sind, gelten weiter.
+Die Kennzeichen nach Nummer 1 ergeben sich aus dem fahrzeugzulassungsrechtlichen Unterscheidungszeichen des Verwaltungsbezirkes in dem der zuteilende Dienstort des Wasserstraßen- und Schifffahrtsamtes seinen Sitz hat; Unterscheidungszeichen, die als Wunschkennzeichen gelten, sind nicht zu berücksichtigen. Die Kennzeichen, die auf der Grundlage der am 30. April 2024 geltenden Fassung dieser Verordnung erteilt worden sind, gelten weiter.
 
 (2) Als amtliche Kennzeichen im Sinne dieser Verordnung gelten auch unverwechselbare Unterscheidungszeichen nach anderen Rechtsvorschriften des Bundes, insbesondere:
 
@@ -157,7 +157,7 @@ f) bei Eigentumsänderung das bisherige Kennzeichen;
 
 g) sonstige für die Identität wesentliche Merkmale, zum Beispiel die Wasserverdrängung oder die Antriebsart.
 
-Im Falle eines Eigenbaues ist von diesem mindestens ein Foto vorzulegen. Die Vorlage weiterer Unterlagen, insbesondere zusätzliche Fotos oder Konstruktionszeichnungen, kann verlangt werden. Die Angaben nach Satz 1 Nr. 1 sind, soweit natürliche Personen betroffen sind, durch Vorlage des Personalausweises oder des Reisepasses nachzuweisen; im Übrigen sind die Angaben glaubhaft zu machen. Der Vorlage des Personalausweises oder Reisepasses stehen bei schriftlicher Antragstellung die Beifügung einer Kopie oder bei elektronischer Antragstellung die qualifizierte elektronische Signatur gleich.
+Im Falle eines Eigenbaues ist von diesem mindestens ein Foto vorzulegen. Die Vorlage weiterer Unterlagen, insbesondere zusätzliche Fotos oder Konstruktionszeichnungen, kann verlangt werden. Die Angaben nach Satz 1 Nr. 1 sind, soweit natürliche Personen betroffen sind, durch Vorlage des Personalausweises oder des Reisepasses nachzuweisen; im Übrigen sind die Angaben glaubhaft zu machen. Der Vorlage des Personalausweises oder Reisepasses steht bei schriftlicher oder elektronischer Antragstellung die Beifügung einer Kopie gleich.
 
 # § 8 – Zuteilung des Kennzeichens, Ausstellung des Ausweises
 
@@ -167,7 +167,7 @@ Im Falle eines Eigenbaues ist von diesem mindestens ein Foto vorzulegen. Die Vor
 
 (3) Die in § 5 Satz 2 genannten Organisationen teilen das amtlich anerkannte Kennzeichen zu. Der Internationale Bootsschein gilt als Ausweis im Sinne des Absatzes 2.
 
-(4) Ist ein Ausweis unbrauchbar geworden, verlorengegangen oder sonst abhanden gekommen, stellt die ausstellende Stelle auf Antrag eine Ersatzausfertigung aus, die als solche zu kennzeichnen ist. Ein unbrauchbar gewordener oder wieder aufgefundener Ausweis ist der ausstellenden Stelle unverzüglich zurückzugeben oder ihr zur Entwertung vorzulegen.
+(4) Ist ein Ausweis unbrauchbar geworden, verlorengegangen oder sonst abhanden gekommen, stellt die ausstellende Stelle auf Antrag eine Ersatzausfertigung aus, die als solche zu kennzeichnen ist. Ein unbrauchbar gewordener oder wieder aufgefundener Ausweis ist der ausstellenden Stelle unverzüglich zurückzugeben oder ihr zur Entwertung vorzulegen. Wird die Unbrauchbarkeit eines Ausweises elektronisch mitgeteilt, ist diese glaubhaft zu machen. Hierzu ist die Übermittlung eines aussagekräftigen Bildes zusammen mit der elektronischen Mitteilung ausreichend.
 
 # § 9 – Änderungen
 
@@ -179,7 +179,7 @@ Im Falle eines Eigenbaues ist von diesem mindestens ein Foto vorzulegen. Die Vor
 
 3. die Eigentumsverhältnisse
 
-geändert haben. In diesen Fällen ist der Ausweis zur Berichtigung vorzulegen. Satz 2 gilt auch, wenn das Kleinfahrzeug zerstört wird, für den Verkehr auf Binnenschiffahrtsstraßen nicht mehr geeignet ist oder abgemeldet werden soll.
+geändert haben. In diesen Fällen ist der Ausweis zur Berichtigung vorzulegen. Wird eine Änderung nach Satz 1 elektronisch mitgeteilt, ist der bisherige Ausweis unbrauchbar zu machen. Die Unbrauchbarkeit ist glaubhaft zu machen. Hierzu ist die Übermittlung eines aussagekräftigen Bildes zusammen mit der elektronischen Mitteilung ausreichend. Die Sätze 2 bis 5 gelten auch, wenn das Kleinfahrzeug zerstört wird, für den Verkehr auf Binnenschifffahrtsstraßen nicht mehr geeignet ist oder abgemeldet werden soll.
 
 (2) Im Falle einer Wohnsitz- oder Eigentumsänderung kann das Wasserstraßen- und Schifffahrtsamt die Beibehaltung des bisherigen Kennzeichens zulassen.
 
@@ -199,9 +199,11 @@ a) entgegen § 2 Abs. 1 Satz 1 oder Abs. 5 ein Kleinfahrzeug führt,
 
 b) entgegen § 2 Abs. 1 Satz 2 ein anderes als das dort genannte Nationalitätenkennzeichen verwendet,
 
-c) entgegen § 2 Abs. 1 Satz 4 nicht dafür sorgt, daß das Kennzeichen jederzeit deutlich sichtbar oder lesbar ist oder
+c) entgegen § 2 Abs. 1 Satz 4 nicht dafür sorgt, daß das Kennzeichen jederzeit deutlich sichtbar oder lesbar ist,
 
-d) entgegen § 6 Satz 1 eine dort genannte Urkunde an Bord nicht mitführt,
+d) entgegen § 6 Satz 1 eine dort genannte Urkunde an Bord nicht mitführt oder
+
+e) entgegen § 6 Satz 2 eine dort genannte Urkunde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Prüfung aushändigt.
 
 2. als Eigentümer eines Kleinfahrzeugs
 
