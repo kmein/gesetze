@@ -874,7 +874,7 @@ Vorratshaltung zur Sicherung der Energieversorgung
 
 § 50d
 
-(zukünftig in Kraft)
+Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung
 
 § 50e
 
@@ -886,7 +886,7 @@ Vorratshaltung zur Sicherung der Energieversorgung
 
 § 50g
 
-Flexibilisierung der Gasbelieferung
+(weggefallen)
 
 § 50h
 
@@ -5416,11 +5416,7 @@ Im Fall der Reserveanlagen nach § 13g Absatz 1 Satz 1 Nummer 4 richtet sich die
 
 # § 50f – (weggefallen)
 
-# § 50g – Flexibilisierung der Gasbelieferung
-
-(1) In einem Vertrag, der die Mindestbelieferung eines Letztverbrauchers mit Gas in einem bestimmten Zeitraum zum Gegenstand hat, sind Vereinbarungen, die eine Weiterveräußerung nicht verbrauchter Mindestabnahmemengen untersagen, unwirksam.
-
-(2) Verzichtet ein Letztverbraucher mit registrierender Leistungsmessung in einem Vertrag, der die Mindestbelieferung einer Anlage mit Gas zum Gegenstand hat, ganz oder teilweise auf den Bezug der Mindestabnahmemengen, hat der Letztverbraucher gegenüber dem Lieferanten einen Anspruch auf Verrechnung der entsprechenden Abnahmemengen. Der Anspruch auf Verrechnung besteht für den jeweils zu dem nach dem Zeitraum korrespondierenden, börslichen Großhandelspreis abzüglich einer Aufwandspauschale in Höhe von 10 Prozent der nicht bezogenen Gasmengen.
+# § 50g – (weggefallen)
 
 # § 50h – (weggefallen)
 

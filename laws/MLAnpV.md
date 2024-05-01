@@ -1,13 +1,13 @@
 % Verordnung zur Anpassung der Mindestleistung nach dem Unterhaltssicherungsgesetz  (Mindestleistungsanpassungsverordnung - MLAnpV)
-% Ausfertigungsdatum: 09.05.2022
+% Ausfertigungsdatum: 11.04.2024
  
 # Eingangsformel
 
-Auf Grund des § 8 Absatz 1 Satz 3 in Verbindung mit Satz 2 des Unterhaltssicherungsgesetzes in der Fassung der Bekanntmachung vom 4. August 2019 (BGBl. I S. 1147, 1179) verordnet das Bundesministerium der Verteidigung:
+Auf Grund des § 8 Absatz 1 Satz 3 in Verbindung mit Satz 2 des Unterhaltssicherungsgesetzes vom 4. August 2019 (BGBl. I S. 1147, 1179) verordnet das Bundesministerium der Verteidigung:
 
-# § 1 – Höhe der Tagessätze ab dem 28. Mai 2022
+# § 1 – Höhe der Tagessätze ab dem 1. Mai 2024
 
-Ab dem 28. Mai 2022 gelten für die Mindestleistung nach § 8 Absatz 1 des Unterhaltssicherungsgesetzes die folgenden Tagessätze:
+Ab dem 1. Mai 2024 gelten für die Mindestleistung nach § 8 Absatz 1 des Unterhaltssicherungsgesetzes die folgenden Tagessätze:
 
  
 
@@ -51,9 +51,9 @@ Kindern
 
 mit drei  
 unterhaltsberechtigten  
-Kindern<span id="FnR.FnA1-F821691_01"></span><a href="#FnA1-F821691_01" class="FnR">*</a></sup>
+Kindern<span id="FnR.FnA1-F829703_01"></span><a href="#FnA1-F829703_01" class="FnR">*</a></sup>
 
- 1
+1
 
 Jäger,  
 Panzerschütze,  
@@ -72,28 +72,28 @@ Panzerjäger,
 Panzerkanonier,  
 Panzerfunker
 
- 68,31 €
+76,85 €
 
- 80,34 €
+89,52 €
 
- 84,50 €
+93,90 €
 
- 95,37 €
+105,34 €
 
- 2
+2
 
 Obergefreiter,  
 Hauptgefreiter
 
- 69,44 €
+78,04 €
 
- 81,64 €
+90,88 €
 
- 85,64 €
+95,10 €
 
- 96,27 €
+106,29 €
 
- 3
+3
 
 Stabsgefreiter,  
 Oberstabsgefreiter,  
@@ -102,28 +102,28 @@ Maat,
 Fahnenjunker,  
 Seekadett
 
- 69,86 €
+78,48 €
 
- 82,12 €
+91,39 €
 
- 85,93 €
+95,40 €
 
- 96,41 €
+106,44 €
 
- 4
+4
 
 Stabsunteroffizier,  
 Obermaat
 
- 71,60 €
+80,31 €
 
- 83,92 €
+93,29 €
 
- 87,22 €
+96,76 €
 
- 97,19 €
+107,26 €
 
- 5
+5
 
 Feldwebel,  
 Bootsmann,  
@@ -132,30 +132,30 @@ Fähnrich zur See,
 Oberfeldwebel,  
 Oberbootsmann
 
- 73,91 €
+82,74 €
 
- 86,54 €
+96,04 €
 
- 89,80 €
+99,48 €
 
- 99,69 €
+109,89 €
 
- 6
+6
 
 Hauptfeldwebel,  
 Hauptbootsmann,  
 Oberfähnrich,  
 Oberfähnrich zur See
 
- 77,33 €
+86,35 €
 
- 90,38 €
+100,09 €
 
- 93,56 €
+103,44 €
 
-103,41 €
+113,81 €
 
- 7
+7
 
 Stabsfeldwebel,  
 Stabsbootsmann,  
@@ -164,39 +164,39 @@ Oberstabsbootsmann,
 Leutnant,  
 Leutnant zur See
 
- 82,38 €
+91,66 €
 
- 96,27 €
+106,29 €
 
- 99,43 €
+109,62 €
 
-109,18 €
+119,88 €
 
- 8
+8
 
 Oberleutnant,  
 Oberleutnant zur See
 
- 87,21 €
+96,75 €
 
-101,45 €
+111,74 €
 
-104,80 €
+115,27 €
 
-114,27 €
+125,24 €
 
- 9
+9
 
 Hauptmann,  
 Kapitänleutnant
 
- 96,79 €
+106,84 €
 
-112,24 €
+123,11 €
 
-115,47 €
+126,51 €
 
-125,02 €
+136,56 €
 
 10
 
@@ -208,13 +208,13 @@ Stabskapitänleutnant,
 Major,  
 Korvettenkapitän
 
-115,33 €
+126,36 €
 
-133,39 €
+145,38 €
 
-136,65 €
+148,81 €
 
-146,24 €
+158,91 €
 
 11
 
@@ -224,13 +224,13 @@ Oberstabsveterinär,
 Oberstleutnant,  
 Fregattenkapitän
 
-117,81 €
+128,97 €
 
-136,30 €
+148,44 €
 
-139,58 €
+151,90 €
 
-148,95 €
+161,76 €
 
 12
 
@@ -240,13 +240,13 @@ Oberfeldapotheker,
 Flottillenapotheker,  
 Oberfeldveterinär
 
-136,80 €
+148,97 €
 
-159,33 €
+172,69 €
 
-162,50 €
+176,03 €
 
-171,56 €
+185,57 €
 
 13
 
@@ -259,17 +259,17 @@ Flottenapotheker,
 Oberstveterinär und  
 höhere Dienstgrade
 
-147,34 €
+160,07 €
 
-171,99 €
+186,02 €
 
-175,14 €
+189,34 €
 
-184,03 €
+198,70 €
 
-<span id="FnA1-F821691_01"></span><a href="#FnR.FnA1-F821691_01" class="Footnote">*</a>  
+<span id="FnA1-F829703_01"></span><a href="#FnR.FnA1-F829703_01" class="Footnote">*</a>  
 Bei mehr als drei unterhaltsberechtigten Kindern wird der Tagessatz für jedes weitere Kind um die Differenz zwischen den Tagessätzen nach den Spalten 4 und 5 erhöht.
 
-# § 2 – Inkrafttreten
+# § 2 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt am 1. Mai 2024 in Kraft. Gleichzeitig tritt die Mindestleistungsanpassungsverordnung vom 9. Mai 2022 (BGBl. I S. 775) außer Kraft.
