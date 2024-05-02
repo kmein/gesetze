@@ -513,17 +513,17 @@ Der Bundesrat hat zugestimmt.
 
 # Anhang 1 – Muster des Personalausweises
 
-(Fundstelle: BGBl. I 2021, 3691)
+(Fundstelle: BGBl. 2024 I Nr. 125)
 
 Vorderseite
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0050.jpg)
+![Abbildung der Vorderseite des Personalausweises](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1010.jpg)
 
-  
-  
 Rückseite
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0060.jpg)
+![Abbildung der Rückseite des Personalausweises mit dem neuen Datenfeld „\[a\] Doktorgrad“ und dem dort zugeordneten Datenfeld „\[b\] Ordens- oder Künstlername“](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1020.jpg)
+
+ 
 
 # Anhang 1a – Muster des Aufklebers zur Anschriftenänderung des Personalausweises
 
@@ -606,7 +606,7 @@ Bei der Personalisierung des Aufklebers zur Änderung der Anschrift auf dem Pers
 
 7. Sofern neben dem Familiennamen auch ein Geburtsname vorhanden ist, ist der Geburtsname in einer eigenen Zeile einzutragen. Bei vorläufigen Personalausweisen und Ersatz-Personalausweisen ist dem Geburtsnamen die Zeichenfolge „GEB.“ unter Hinzufügung eines Leerzeichens voranzustellen.
 
-8. Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser oder werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigten Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für den Namenseintrag.
+8. Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw. werden diese im Personalausweis im Datenfeld „Doktorgrad“, im vorläufigen Personalausweis im Datenfeld „Name“ eingetragen. Die Anzahl der für den Namenseintrag vorgesehenen Zeichen verringert sich um die für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigte Zeichenzahl, sofern diese Eintragung im Datenfeld „Name“ vorgenommen wird.
 
 9. Die alphanummerische Seriennummer des Personalausweises wird ausschließlich aus den Buchstaben C, F, G, H, J, K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 1, 2, 3, 4, 5, 6, 7, 8, 9 gebildet. Beim vorläufigen Personalausweis und beim Ersatz-Personalausweis besteht die Seriennummer aus einem Buchstaben und sieben Ziffern.
 
@@ -697,13 +697,21 @@ Farbe der Augen
 
 Einträge in Schriftgröße 2 sind unzulässig
 
-Ordens- und Künstlername
+Doktorgrad
 
 20 Zeichen pro Zeile;  
 1 Zeile (insgesamt 20 Zeichen)
 
-30 Zeichen pro Zeile;  
-2 Zeilen (insgesamt 60 Zeichen)
+31 Zeichen pro Zeile;  
+1 Zeile (insgesamt 32 Zeichen)
+
+Ordens- und Künstlername<span id="FnR.FnA1-F829576_02"></span><a href="#FnA1-F829576_02" class="FnR">2</a></sup>
+
+20 Zeichen pro Zeile;  
+1 Zeile (insgesamt 20 Zeichen)
+
+31 Zeichen pro Zeile;  
+1 Zeile (insgesamt 32 Zeichen)
 
 ausstellende Behörde
 
@@ -722,6 +730,9 @@ Einträge in Schriftgröße 2 sind unzulässig
 
 <span id="FnA1-F1_790187"></span><a href="#FnR.FnA1-F1_790187" class="Footnote">1</a>  
 Die Schriftgröße ist am Großbuchstaben E auszurichten.
+
+<span id="FnA1-F829576_02"></span><a href="#FnR.FnA1-F829576_02" class="Footnote">2</a>  
+Gilt nur für den Personalausweis.
 
 Datenfelder  
 – der Aufkleber für  

@@ -666,7 +666,7 @@ c) die Angaben nicht in einer germanischen oder romanischen Sprache enthält.
 
 7. das Europäische Reisedokument für die Rückkehr (§ 1 Absatz 8).
 
-Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer Gültigkeitsdauer von bis zu drei Jahren oder, sofern der Passinhaber im Besitz eines Aufenthaltstitels nach § 9 oder 9a des Aufenthaltsgesetzes oder eines auf Grund des Freizügigkeitsgesetzes/EU ausgestellten Dokuments ist, mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt; eine Verlängerung ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente ohne Chip ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr können in begründeten Fällen abweichend von Absatz 4 Satz 1 Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 ohne Chip ausgegeben werden. Passersatzpapiere nach Satz 4 ohne Chip sind höchstens ein Jahr gültig, längstens jedoch bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des zwölften Lebensjahres um jeweils ein Jahr zulässig; es ist jeweils ein aktuelles Lichtbild einzubringen. Passersatzpapiere nach Satz 1 Nummer 3 und 4, die an heimatlose Ausländer nach dem Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet ausgestellt werden, können mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt werden.
+Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer Gültigkeitsdauer von bis zu drei Jahren oder, sofern der Passinhaber im Besitz eines Aufenthaltstitels nach den §§ 9 oder 9a des Aufenthaltsgesetzes oder eines auf Grund des Freizügigkeitsgesetzes/EU ausgestellten Dokuments ist, mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt; eine Verlängerung ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente ohne Chip ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr können in begründeten Fällen abweichend von Absatz 4 Satz 1 Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 ohne Chip ausgegeben werden. Passersatzpapiere nach Satz 4 ohne Chip sind höchstens ein Jahr gültig, längstens jedoch bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des zwölften Lebensjahres um jeweils ein Jahr zulässig; es ist jeweils ein aktuelles Lichtbild einzubringen. Passersatzpapiere nach Satz 1 Nummer 3 und 4, die an heimatlose Ausländer nach dem Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet ausgestellt werden, können mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt werden.
 
 (2) Passersatzpapiere nach Absatz 1 Satz 1 Nummer 1, 3 und 4 enthalten neben der Angabe der ausstellenden Behörde, dem Tag der Ausstellung, dem letzten Tag der Gültigkeitsdauer und der Seriennummer sowie dem Lichtbild und der Unterschrift des Inhabers des Passersatzpapiers ausschließlich folgende sichtbar aufgebrachte Angaben über den Inhaber des Passersatzpapiers:
 
@@ -1432,13 +1432,11 @@ Für die Ausstellung eines Aufenthaltstitels nach § 78a Absatz 1 Satz 1 des Auf
 
 3. des Verlustes des Dokuments nach § 78 Absatz 1 des Aufenthaltsgesetzes,
 
-4. des Verlustes der technischen Funktionsfähigkeit des Chip oder
+4. des Verlustes der technischen Funktionsfähigkeit des Chips oder
 
 5. der Beantragung nach § 105b Satz 2 des Aufenthaltsgesetzes.
 
 (2) Die Gebühr nach Absatz 1 Nummer 4 entfällt, wenn der Ausländer den Defekt nicht durch einen unsachgemäßen Gebrauch oder eine unsachgemäße Verwendung herbeigeführt hat.
-
-§ 45c Abs. 1 Nr. 4: IdF d. Art. 1 Nr. 8 Buchst. c V v. 27.2.2013 I 351 mWv 5.3.2013 u. d. Art. 3 Nr. 14 Buchst. c V v. 30.10.2023 I Nr. 290 mWv 1.11.2023 (Kursivdruck: Müsste richtig "Chips" lauten)
 
 # § 46 – Gebühren für das Visum
 
@@ -1954,9 +1952,7 @@ Ein Ausländer, dem ein Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 
 
 1. der für den Wohnort, ersatzweise der für den Aufenthaltsort im Inland zuständigen Ausländerbehörde oder einer anderen nach Landesrecht zuständigen Stelle den Verlust und das Wiederauffinden des Dokuments anzuzeigen und das Dokument vorzulegen, wenn es wiederaufgefunden wurde; bei Verlust im Ausland können die Anzeige und die Vorlage auch gegenüber einer deutschen Auslandsvertretung erfolgen, welche die zuständige oder zuletzt zuständige Ausländerbehörde unterrichtet,
 
-2. nach Kenntnis vom Verlust der technischen Funktionsfähigkeit des Chip der zuständigen Ausländerbehörde das Dokument vorzulegen und die Neuausstellung zu beantragen.
-
-§ 57a Nr. 2: IdF d. Art. 3 Nr. 9 Buchst. b V v. 30.10.2023 I Nr. 290 mWv 1.11.2023 (Kursivdruck: Müsste richtig "Chips" lauten)
+2. nach Kenntnis vom Verlust der technischen Funktionsfähigkeit des Chips der zuständigen Ausländerbehörde das Dokument vorzulegen und die Neuausstellung zu beantragen.
 
 # § 58 – Vordruckmuster
 
@@ -3233,87 +3229,88 @@ Auf Seite 5 ist stets das in dieser Anlage wiedergegebene Klebeetikett aufzukleb
 
 # Anlage D4c – Ausweismuster Reiseausweis für Ausländer nach § 4 Absatz 1 Satz 1 Nummer 1
 
-(Fundstelle: BGBl. I 2017, 226 — 235)
+(Fundstelle: BGBl. 2024 I Nr. 125)
 
-|                                                    |                                                    |
-|:---------------------------------------------------|---------------------------------------------------:|
-| – Einband –                                        |                                                    |
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1140.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1150.jpg) |
+– Einband –
+
+![Abbildung des Einbands des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1030.jpg)
 
 – Vorsatz und Passkartentitelseite –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1160.jpg)
+![Abbildung des Vorsatzes und der Passkartentitelseite des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1040.jpg)
 
 – Passkartendatenseite und Passbuchinnenseite 1 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1170.jpg)
+![Abbildung der Passkartendatenseite und der Passbuchinnenseite 1 des Reiseausweises für Ausländer mit dem neuen Datenfeld „Nr. 14. Doktorgrad“](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1050.jpg)
 
 Die Seiten 1 bis 32 sowie der hintere Einband  
 werden am unteren Rand mit der Seriennummer perforiert.
 
 – Passbuchinnenseiten 2 und 3 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1180.jpg)
+![Abbildung der Passbuchinnenseiten 2 und 3 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1060.jpg)
 
 – Passbuchinnenseiten 4 und 5 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1190.jpg)
+![Abbildung der Passbuchinnenseiten 4 und 5 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1070.jpg)
 
 – Passbuchinnenseiten 6 und 7 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1200.jpg)
+![Abbildung der Passbuchinnenseiten 6 und 7 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1080.jpg)
 
 – Passbuchinnenseiten 8 und 9 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1210.jpg)
+![Abbildung der Passbuchinnenseiten 8 und 9 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1090.jpg)
 
 – Passbuchinnenseiten 10 und 11 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1220.jpg)
+![Abbildung der Passbuchinnenseiten 10 und 11 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1100.jpg)
 
 – Passbuchinnenseiten 12 und 13 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1230.jpg)
+![Abbildung der Passbuchinnenseiten 12 und 13 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1110.jpg)
 
 – Passbuchinnenseiten 14 und 15 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1240.jpg)
+![Abbildung der Passbuchinnenseiten 14 und 15 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1120.jpg)
 
 – Passbuchinnenseiten 16 und 17 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1250.jpg)
+![Abbildung der Passbuchinnenseiten 16 und 17 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1130.jpg)
 
 – Passbuchinnenseiten 18 und 19 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1260.jpg)
+![Abbildung der Passbuchinnenseiten 18 und 19 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1140.jpg)
 
 – Passbuchinnenseiten 20 und 21 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1270.jpg)
+![Abbildung der Passbuchinnenseiten 20 und 21 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1150.jpg)
 
 – Passbuchinnenseiten 22 und 23 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1280.jpg)
+![Abbildung der Passbuchinnenseiten 22 und 23 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1160.jpg)
 
 – Passbuchinnenseiten 24 und 25 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1290.jpg)
+![Abbildung der Passbuchinnenseiten 24 und 25 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1170.jpg)
 
 – Passbuchinnenseiten 26 und 27 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1300.jpg)
+![Abbildung der Passbuchinnenseiten 26 und 27 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1180.jpg)
 
 – Passbuchinnenseiten 28 und 29 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1310.jpg)
+![Abbildung der Passbuchinnenseiten 28 und 29 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1190.jpg)
 
 – Passbuchinnenseiten 30 und 31 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1320.jpg)
+![Abbildung der Passbuchinnenseiten 30 und 31 des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1200.jpg)
 
 – Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1330.jpg)
+![Abbildung der Passbuchinnenseite 32 und des Vorsatzes des hinteren Einbands des Reiseausweises für Ausländer](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1210.jpg)
+
+ 
 
 # Anlage D4d – Vorläufiger Reiseausweis für Ausländer nach § 4 Abs. 1 Satz 2
 
@@ -3375,87 +3372,88 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 # Anlage D7a – Ausweismuster Reiseausweis für Flüchtlinge nach § 4 Absatz 1 Satz 1 Nummer 3
 
-(Fundstelle: BGBl. I 2017, 236 — 245)
+(Fundstelle: BGBl. 2024 I Nr. 125)
 
-|                                                    |                                                    |
-|:---------------------------------------------------|---------------------------------------------------:|
-| – Deckseiten –                                     |                                                    |
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1340.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1350.jpg) |
+– Deckseiten –
+
+![Abbildung des Einbands des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1220.jpg)
 
 – Vorsatz und Passkartentitelseite –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1360.jpg)
+![Abbildung des Vorsatzes und der Passkartentitelseite des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1230.jpg)
 
 – Passkartendatenseite und Passbuchinnenseite 1 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1370.jpg)
+![Abbildung der Passkartendatenseite und der Passbuchinnenseite 1 des Reiseausweises für Flüchtlinge mit dem neuen Datenfeld „Nr. 14. Doktorgrad“](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1240.jpg)
 
 Die Seiten 1 bis 32 sowie der hintere Einband  
 werden am unteren Rand mit der Seriennummer perforiert.
 
 – Passbuchinnenseiten 2 und 3 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1380.jpg)
+![Abbildung der Passbuchinnenseiten 2 und 3 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1250.jpg)
 
 – Passbuchinnenseiten 4 und 5 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1390.jpg)
+![Abbildung der Passbuchinnenseiten 4 und 5 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1260.jpg)
 
 – Passbuchinnenseiten 6 und 7 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1400.jpg)
+![Abbildung der Passbuchinnenseiten 6 und 7 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1270.jpg)
 
 – Passbuchinnenseiten 8 und 9 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1410.jpg)
+![Abbildung der Passbuchinnenseiten 8 und 9 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1280.jpg)
 
 – Passbuchinnenseiten 10 und 11 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1420.jpg)
+![Abbildung der Passbuchinnenseiten 10 und 11 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1290.jpg)
 
 – Passbuchinnenseiten 12 und 13 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1430.jpg)
+![Abbildung der Passbuchinnenseiten 12 und 13 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1300.jpg)
 
 – Passbuchinnenseiten 14 und 15 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1440.jpg)
+![Abbildung der Passbuchinnenseiten 14 und 15 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1310.jpg)
 
 – Passbuchinnenseiten 16 und 17 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1450.jpg)
+![Abbildung der Passbuchinnenseiten 16 und 17 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1320.jpg)
 
 – Passbuchinnenseiten 18 und 19 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1460.jpg)
+![Abbildung der Passbuchinnenseiten 18 und 19 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1330.jpg)
 
 – Passbuchinnenseiten 20 und 21 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1470.jpg)
+![Abbildung der Passbuchinnenseiten 20 und 21 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1340.jpg)
 
 – Passbuchinnenseiten 22 und 23 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1480.jpg)
+![Abbildung der Passbuchinnenseiten 22 und 23 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1350.jpg)
 
 – Passbuchinnenseiten 24 und 25 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1490.jpg)
+![Abbildung der Passbuchinnenseiten 24 und 25 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1360.jpg)
 
 – Passbuchinnenseiten 26 und 27 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1500.jpg)
+![Abbildung der Passbuchinnenseiten 26 und 27 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1370.jpg)
 
 – Passbuchinnenseiten 28 und 29 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1510.jpg)
+![Abbildung der Passbuchinnenseiten 28 und 29 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1380.jpg)
 
 – Passbuchinnenseiten 30 und 31 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1520.jpg)
+![Abbildung der Passbuchinnenseiten 30 und 31 des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1390.jpg)
 
-– Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
+– Passbuchinnenseite 32 und Vorsatz des hinteren Einbands –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1530.jpg)
+![Abbildung der Passbuchinnenseite 32 und des Vorsatzes des hinteren Einbandes des Reiseausweises für Flüchtlinge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1400.jpg)
+
+ 
 
 # Anlage D7b – Vorläufiger Reiseausweis für Flüchtlinge nach § 4 Abs. 1 Satz 2
 
@@ -3499,87 +3497,88 @@ vorzugsweise den Seiten 6 bis 11, aufzukleben ist;
 
 # Anlage D8a – Ausweismuster Reiseausweis für Staatenlose nach § 4 Absatz 1 Satz 1 Nummer 4
 
-(Fundstelle: BGBl. I 2017, 246 — 255)
+(Fundstelle: BGBl. 2024 I Nr. 125)
 
-|                                                    |                                                    |
-|:---------------------------------------------------|---------------------------------------------------:|
-| – Einband –                                        |                                                    |
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1540.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1550.jpg) |
+– Einband –
+
+![Abbildung des Einbandes des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1410.jpg)
 
 – Vorsatz und Passkartentitelseite –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1560.jpg)
+![Abbildung des Vorsatzes und der Passkartentitelseite des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1420.jpg)
 
 – Passkartendatenseite und Passbuchinnenseite 1 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1570.jpg)
+![Abbildung der Passkartendatenseite und der Passbuchinnenseite 1 des Reiseausweises für Staatenlose mit dem neuen Datenfeld „Nr. 14. Doktorgrad“ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1430.jpg)
 
 Die Seiten 1 bis 32 sowie der hintere Einband  
 werden am unteren Rand mit der Seriennummer perforiert.
 
 – Passbuchinnenseiten 2 und 3 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1580.jpg)
+![Abbildung der Passbuchinnenseiten 2 und 3 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1440.jpg)
 
 – Passbuchinnenseiten 4 und 5 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1590.jpg)
+![Abbildung der Passbuchinnenseiten 4 und 5 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1450.jpg)
 
 – Passbuchinnenseiten 6 und 7 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1600.jpg)
+![Abbildung der Passbuchinnenseiten 6 und 7 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1460.jpg)
 
 – Passbuchinnenseiten 8 und 9 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1610.jpg)
+![Abbildung der Passbuchinnenseiten 8 und 9 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1470.jpg)
 
 – Passbuchinnenseiten 10 und 11 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1620.jpg)
+![Abbildung der Passbuchinnenseiten 10 und 11 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1480.jpg)
 
 – Passbuchinnenseiten 12 und 13 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1630.jpg)
+![Abbildung der Passbuchinnenseiten 12 und 13 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1490.jpg)
 
 – Passbuchinnenseiten 14 und 15 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1640.jpg)
+![Abbildung der Passbuchinnenseiten 14 und 15 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1500.jpg)
 
 – Passbuchinnenseiten 16 und 17 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1650.jpg)
+![Abbildung der Passbuchinnenseiten 16 und 17 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1510.jpg)
 
 – Passbuchinnenseiten 18 und 19 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1660.jpg)
+![Abbildung der Passbuchinnenseiten 18 und 19 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1520.jpg)
 
 – Passbuchinnenseiten 20 und 21 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1670.jpg)
+![Abbildung der Passbuchinnenseiten 20 und 21 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1530.jpg)
 
 – Passbuchinnenseiten 22 und 23 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1680.jpg)
+![Abbildung der Passbuchinnenseiten 22 und 23 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1540.jpg)
 
 – Passbuchinnenseiten 24 und 25 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1690.jpg)
+![Abbildung der Passbuchinnenseiten 24 und 25 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1550.jpg)
 
 – Passbuchinnenseiten 26 und 27 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1700.jpg)
+![Abbildung der Passbuchinnenseiten 26 und 27 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1560.jpg)
 
 – Passbuchinnenseiten 28 und 29 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1710.jpg)
+![Abbildung der Passbuchinnenseiten 28 und 29 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1570.jpg)
 
 – Passbuchinnenseiten 30 und 31 –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1720.jpg)
+![Abbildung der Passbuchinnenseiten 30 und 31 des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1580.jpg)
 
 – Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1730.jpg)
+![Abbildung der Passbuchinnenseite 32 und des Vorsatzes des hinteren Einbandes des Reiseausweises für Staatenlose](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j01250_1590.jpg)
+
+ 
 
 # Anlage D8b – Vorläufiger Reiseausweis für Staatenlose nach § 4 Abs. 1 Satz 2
 
