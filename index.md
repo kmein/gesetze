@@ -5161,6 +5161,7 @@
 - [SoldErnAnO 2015](laws/SoldErnAnO_2015.md) Anordnung über die Ernennung und Entlassung von Soldatinnen und Soldaten und die Ernennung von Reservistinnen und Reservisten
 - [SoldGG](laws/SoldGG.md) Gesetz über die Gleichbehandlung der Soldatinnen und Soldaten
 - [SoldRehaHomG](laws/SoldRehaHomG.md) Gesetz zur Rehabilitierung der wegen einvernehmlicher homosexueller Handlungen, wegen ihrer homosexuellen Orientierung oder wegen ihrer geschlechtlichen Identität dienstrechtlich benachteiligten Soldatinnen und Soldaten
+- [SoldSÜV](laws/SoldSÜV.md) Verordnung zur intensivierten erweiterten Sicherheitsüberprüfung mit Sicherheitsermittlungen für Soldatinnen und Soldaten
 - [SolingenV](laws/SolingenV.md) Verordnung zum Schutz des Namens Solingen
 - [SolvV](laws/SolvV.md) Verordnung zur angemessenen Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen 1
 - [SolZG](laws/SolZG.md) Solidaritätszuschlaggesetz

@@ -681,7 +681,8 @@ sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 von dem Betroffenen,
 
 Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte Erstattungen nach § 15 oder sonstige Einnahmen gedeckt werden, sind sie unter Berücksichtigung von Fehlbeträgen, nicht eingegangenen Beträgen und Überschüssen der Vorjahre anteilig auf die Kredit- und Finanzdienstleistungsinstitute, Wertpapierinstitute, Zahlungs- und E-Geld-Institute, die Kreditanstalt für Wiederaufbau, die Kapitalverwaltungsgesellschaften, extern verwalteten OGAW-Investmentaktiengesellschaften, Versicherungsunternehmen, Wertpapierdienstleistungsunternehmen und Emittenten mit Sitz im Inland, deren Wertpapiere an einer inländischen Börse zum Handel zugelassen oder in den Freiverkehr einbezogen sind, die Abwicklungsanstalten sowie die Bilanzkontrollemittenten nach Maßgabe der §§ 16a bis 16s umzulegen.
 
-(+++ § 16: Zur Anwendung vgl. § 24 +++)
+(+++ § 16 in der ab dem 26.6.2021 geltenden Fassung: Zur Anwendung vgl. § 23 Abs. 13 +++)  
+(+++ § 16 in der ab dem 1.7.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 24 Abs. 7 Satz 1 +++)
 
 # § 16a – Umlagefähige Kosten; Umlagejahr
 
@@ -907,7 +908,7 @@ e) die Hälfte des Mindestbetrages der Buchstaben b bis d für die dort genannte
 
 (4) Der von jedem Umlagepflichtigen des Aufgabenbereichs Versicherungen zu entrichtende Umlagebetrag beträgt mindestens 250 Euro.
 
-(+++ § 16h: Zur Anwendung vgl. § 23 +++)
+(+++ § 16h in der ab dem 26.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 13 +++)
 
 # § 16i – Kostenermittlung und Umlagepflicht im Aufgabenbereich Wertpapierhandel
 
