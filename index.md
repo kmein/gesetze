@@ -2675,6 +2675,7 @@
 - [HaldeRlAnO](laws/HaldeRlAnO.md) Anordnung über Halden und Restlöcher
 - [HandzMstrV](laws/HandzMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Handzuginstrumentenmacher-Handwerk
 - [HanfEinfV](laws/HanfEinfV.md) Verordnung über die Einfuhr von Hanf aus Drittländern
+- [HanfSaatV 2024](laws/HanfSaatV_2024.md) Verordnung über besondere Anforderungen an Saatgut von Hanf im Rahmen der Saatgutanerkennung 2024
 - [HArchDVDV](laws/HArchDVDV.md) Verordnung über den Vorbereitungsdienst für den höheren Archivdienst des Bundes
 - [HAuslG](laws/HAuslG.md) Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet
 - [HAV](laws/HAV.md) Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung
