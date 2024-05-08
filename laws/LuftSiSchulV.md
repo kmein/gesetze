@@ -1151,7 +1151,7 @@ Im Übrigen auch: LBA-Handlungsvorgabe „Vorbereitung der durch Sprengstoffspü
 Sprengstoff
 
 –  
-Rechtsvorschriften (z. B. SprenG, SprengV, SprengLR, GGBefG, ADR)
+Rechtsvorschriften (z. B. SprengG, SprengV, SprengLR, GGBefG, ADR)
 
 –  
 Sprengstoffe, Zündmittel, Sprengzubehör
@@ -1363,7 +1363,8 @@ Schulungsinhalte der Wiederholungsschulungen
 
 Die oben genannten Lehrinhalte der Erstschulung sind im Rahmen von Wiederholungsschulungen erneut zu vermitteln. Die Inhalte der Wiederholungsschulungen sind auf Grundlage der aktuellen Sicherheitsentwicklungen und nach dem jeweiligen Bedarf des Sprengstoffspürhundes, dem Hundeführer und des Sprengstoffspürhunde-Teams auszuwählen und zu schulen.
 
-Nr. 1.2 Tabelle Zeile 4 Spalte 2 Anstrich 5 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde das Wort "Straßenverkehrsordnung" durch das Wort "Straßenverkehrs-Ordnung ersetzt
+Nr. 1.2 Tabelle Zeile 4 Spalte 2 Anstrich 5 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde das Wort "Straßenverkehrsordnung" durch das Wort "Straßenverkehrs-Ordnung" ersetzt  
+Nr. 1.2 Tabelle Zeile 5 Spalte 2 Anstrich 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde die Abkürzung "SprenG" durch die Abkürzung "SprengG" ersetzt
 
 # Anlage 5 – (zu den §§ 10 bis 18)Prüfungsordnung
 
