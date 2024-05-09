@@ -584,6 +584,7 @@
 - [BDGBMASKDV](laws/BDGBMASKDV.md) Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
 - [BDGBMinGAnO](laws/BDGBMinGAnO.md) Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung
 - [BDGMinIAnO](laws/BDGMinIAnO.md) Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich des Bundesministeriums des Innern
+- [BDGMinIAnO](laws/BDGMinIAnO.md) Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich des Bundesministeriums des Innern und für Heimat
 - [BDGPNEDV](laws/BDGPNEDV.md) Verordnung zur Durchführung des Bundesdisziplinargesetzes bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost und der Museumsstiftung Post und Telekommunikation
 - [BDiGZustDBAnO](laws/BDiGZustDBAnO.md) Anordnung über die Zuständigkeit der Bundesdisziplinarkammern für Beamte der Deutschen Bundesbahn im Grenzdienst
 - [BDNOG](laws/BDNOG.md) Gesetz zur Neuordnung des Bundesdisziplinarrechts

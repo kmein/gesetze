@@ -9,7 +9,7 @@ Arzneimittel,
 
 2. die Zubereitungen aus den in der Anlage 1 bestimmten Stoffen oder Zubereitungen aus Stoffen sind oder
 
-3. denen die unter Nummer 1 oder 2 genannten Stoffe und Zubereitungen aus Stoffen zugesetzt sind
+3. denen die unter Nummer 1 oder 2 genannten Stoffe und Zubereitungen aus Stoffen zugesetzt sind,
 
 dürfen nur bei Vorliegen einer ärztlichen, zahnärztlichen oder tierärztlichen Verschreibung abgegeben werden (verschreibungspflichtige Arzneimittel), soweit in den nachfolgenden Vorschriften nichts anderes bestimmt ist.
 
@@ -17,7 +17,7 @@ dürfen nur bei Vorliegen einer ärztlichen, zahnärztlichen oder tierärztliche
 
 (1) Die Verschreibung muss enthalten:
 
-1. Name, Vorname, Berufsbezeichnung und Anschrift der Praxis oder der Klinik der verschreibenden ärztlichen, tierärztlichen oder zahnärztlichen Person (verschreibende Person) einschließlich einer Telefonnummer zur Kontaktaufnahme,
+1. Name, Vorname, Berufsbezeichnung und Anschrift der Praxis, der Klinik oder einer sonstigen Gesundheitseinrichtung der verschreibenden ärztlichen, tierärztlichen oder zahnärztlichen Person (verschreibende Person) oder, sofern diese nicht in einer Gesundheitseinrichtung tätig ist, die Anschrift der verschreibenden Person, jeweils einschließlich einer Telefonnummer zur Kontaktaufnahme,
 
 2. Datum der Ausfertigung oder, bei Verschreibungen in elektronischer Form, das Datum der qualifizierten elektronischen Signatur,
 
@@ -151,7 +151,7 @@ Von der Verschreibungspflicht sind Arzneimittel ausgenommen, die aus den in der 
 
 # Anlage 1 – (zu § 1 Nr. 1 und § 5)Stoffe und Zubereitungen nach § 1 Nr. 1
 
-Die Anlage enthält unter grundsätzlicher Verwendung der INN-Nomenklatur eine alphabetisch geordnete Auflistung der Stoffe und Zubereitungen. Verschreibungspflichtig sind, sofern im Einzelfall nicht anders geregelt, auch Arzneimittel, die die jeweiligen Salze der nachfolgend aufgeführten Stoffe enthalten oder denen diese zugesetzt sind. Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, Haaren oder Nägeln zu verstehen.
+Die Anlage enthält unter grundsätzlicher Verwendung der INN-Nomenklatur eine alphabetisch geordnete Auflistung der Stoffe und Zubereitungen. Verschreibungspflichtig sind, sofern im Einzelfall nicht anders geregelt, auch Arzneimittel, die die jeweiligen Salze oder Hydrate der nachfolgend aufgeführten Stoffe enthalten oder denen diese zugesetzt sind. Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, Haaren oder Nägeln zu verstehen.
 
 Abacavir  
 Abamectin  
@@ -159,6 +159,7 @@ Abarelix
 Abatacept  
 Abemaciclib  
 Abirateron und seine Ester  
+Abrocitinib  
 Acalabrutinib  
 Acamprosat  
 Acarbose  
@@ -297,6 +298,7 @@ Androstanolon und seine Ester
 Androstenon  
 - zur Anwendung bei Tieren -  
 Anetholtrithion  
+Angiotensin II  
 Angiotensinamid  
 Anidulafungin  
 Anistreplase  
@@ -326,8 +328,10 @@ Aripiprazol
 Arsen und seine Verbindungen  
 Artenimol und seine Ester und Ether  
 Artemether  
+Artesunat und seine Ester  
 Articain  
 Ascaridol  
+Asciminib und seine Ester  
 Asenapin  
 Asfotase alfa  
 Asparaginase  
@@ -346,6 +350,8 @@ Atracurium-Salze
 Atropin  
 Auranofin  
 Aurothioglucose  
+Avacopan  
+Avalglucosidase alfa  
 Avanafil  
 Avapritinib  
 Avatrombopag und seine Ester  
@@ -453,6 +459,7 @@ Bicisat
 Tc) Technetium -  
 Bictegravir  
 Bilastin und seine Ester  
+– ausgenommen in festen Zubereitungen zur oralen Anwendung in Konzentrationen von 10 mg je abgeteilter Form, sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der Anwendung auf Kinder von sechs bis elf Jahren angegeben ist –  
 – ausgenommen in festen Zubereitungen zur oralen Anwendung in Konzentrationen von 20 mg je abgeteilter Form, sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der Anwendung auf Erwachsene und Jugendliche ab zwölf Jahren angegeben ist –  
 Bimatoprost  
 Binimetinib und seine Ester  
@@ -555,6 +562,7 @@ Cantharides und ihre Zubereitungen
 - ausgenommen zum äußeren Gebrauch in Pflastern, Salben oder ähnlichen Zubereitungen -  
 Cantharidin  
 Capecitabin  
+Capmatinib  
 Capreomycin  
 Capsaicin und seine Ester  
 - zur Behandlung von peripheren neuropathischen Schmerzen -  
@@ -634,6 +642,7 @@ Cefuroxim und seine Ester
 Celecoxib  
 Celiprolol  
 Cenegermin  
+Cenobamat  
 Ceritinib  
 Cerliponase alfa  
 Certoparin  
@@ -831,6 +840,7 @@ Dapoxetin
 Dapson  
 Daptomycin  
 Darbepoetin alfa  
+Daridorexant  
 Darifenacin  
 Darolutamid und seine Ester  
 Darunavir  
@@ -878,8 +888,10 @@ Desoxycholsäure und ihre Ester
 Desoxycorton, seine Ester und Glukosidverbindungen  
 Destomycin A  
 - zur Anwendung bei Tieren -  
+Desvenlafaxin und seine Ester  
 Detajmiumbitartrat  
 Detomidin  
+Deucravacitinib  
 Dexamethason und seine Ester  
 – ausgenommen Dexamethasondihydrogenphosphat zur einmaligen parenteralen Anwendung in wässriger Lösung in Ampullen/Fertigspritzen mit 40 mg Wirkstoff und bis zu maximal 3 Packungseinheiten (entsprechend 120 mg Wirkstoff) für die Notfallbehandlung schwerer anaphylaktischer Reaktionen beim Menschen nach Neuraltherapie bis zum Eintreffen des Rettungsdienstes –  
 Dexibuprofen  
@@ -922,6 +934,7 @@ Diethylcarbamazin
 1-(2-(2-(Diethylmethylazaniumyl)ethoxy)ethyl)-1-methylpyrrolidiniumdiiodid  
 Diethyl(4-nitrophenyl)phosphat  
 Diethylstilbestrol  
+Difelikefalin und seine Ester  
 Diflorason-17,21-diacetat  
 Difloxacin  
 Diflucortolon und seine Ester  
@@ -988,6 +1001,7 @@ Dipivefrin
 Dipyridamol  
 Dirlotapid  
 – zur Anwendung bei Tieren –  
+Diroximelfumarat  
 Disopyramid  
 Distickstoffmonoxid  
 – zur inhalativen Anwendung –  
@@ -1037,6 +1051,7 @@ Edotreotid
 Edoxaban  
 Edoxudin  
 Efavirenz  
+Efgartigimod alfa  
 Eflornithin  
 Eisen(III)-citrat-Hydrat, basisches  
 Eisen(III)-hexacyanoferrat(II)  
@@ -1101,6 +1116,7 @@ Eprinomectin
 Eprosartan  
 Eptifibatid  
 Eptotermin alfa  
+Eravacyclin und seine Ester  
 Erdostein  
 Ergocalciferol,  
 - ausgenommen Zubereitungen
@@ -1220,6 +1236,7 @@ Filgrastrim
 Filgotinib  
 Filicis rhizoma und seine Zubereitungen  
 Finasterid  
+Finerenon  
 Fingolimod und seine Derivate  
 Firocoxib  
 - zur Anwendung bei Tieren -  
@@ -1311,7 +1328,8 @@ Fulvestrant
 Furaltadon  
 Furazolidon  
 Furosemid  
-Fusidinsäure und ihre Ester
+Fusidinsäure und ihre Ester  
+Futibatinib
 
 Gabapentin  
 Galantamin  
@@ -1352,6 +1370,7 @@ Gliquidon
 Glisoxepid  
 Glucagon  
 Glucametacin  
+Glucarpidase  
 Glucosamin  
 - ausgenommen zur oralen Anwendung -  
 Glycerolphenylbutyrat  
@@ -1472,6 +1491,7 @@ Ibuprofen
 – ausgenommen zur oralen Anwendung (in maximaler Einzeldosis von 400 mg und in einer maximalen Tagesdosis von 1 200 mg) in Kombination mit Coffein (in maximaler Einzeldosis von 100 mg und in einer maximalen Tagesdosis von 300 mg), zur Behandlung von akuten mäßig starken Schmerzen bei Erwachsenen –  
 – ausgenommen zur oralen Anwendung (in maximaler Einzeldosis von 200 mg und maximaler Tagesdosis von 1 200 mg) in Kombination mit Paracetamol (in maximaler Einzeldosis von 500 mg und maximaler Tagesdosis von 3 000 mg) und einer Gesamtwirkstoffmenge von bis zu 4 g Ibuprofen und bis zu 10 g Paracetamol je Packung für die kurzzeitige symptomatische Behandlung leichter bis mäßig starker Schmerzen –  
 Icatibant  
+Icosapent-Ethyl  
 Idarubicin  
 Idebenon und seine Ester  
 Idelalisib  
@@ -1556,6 +1576,7 @@ Itraconazol
 Ivabradin  
 Ivacaftor  
 Ivermectin und seine Ester  
+Ivosidenib  
 Ixazomib und seine Derivate
 
 Jalapae resina et tuber und ihre Zubereitungen  
@@ -1607,6 +1628,7 @@ Lansoprazol
 Lapatinib  
 Laronidase  
 Larotrectinib und seine Ester  
+Lasmiditan  
 Lasofoxifen und seine Ester  
 Latamoxef  
 Latanoprost  
@@ -1671,6 +1693,7 @@ Lofepramin
 Lomefloxacin  
 Lomitapid  
 Lomustin  
+Lonafarnib  
 Lonazolac  
 Loperamid  
 - ausgenommen in festen Zubereitungen zur oralen Anwendung bei akuter Diarrhö in Tagesdosen bis zu 12 mg und in Packungsgrößen bis zu 24 mg, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene und Kinder ab dem vollendeten 12. Lebensjahr beschränkt ist -  
@@ -1721,12 +1744,15 @@ Manidipin
 Mannitolhexanitrat  
 Mannomustin  
 Maprotilin  
+Maralixibat  
 Maraviroc  
 Marbofloxacin  
+Maribavir und seine Derivate  
 Maropitant  
 – zur Anwendung bei Tieren –  
 Masitinib  
 – zur Anwendung bei Tieren –  
+Mavacamten  
 Mavacoxib  
 – zur Anwendung bei Tieren –  
 Mazipredon  
@@ -1754,6 +1780,7 @@ Melitracen
 Meloxicam  
 Melperon  
 Melphalan  
+Melphalanflufenamid  
 Memantin  
 Mepacrin  
 Mephenesin  
@@ -1913,6 +1940,7 @@ Natriumnitrit
 Natriumperchlorat  
 Natriumthiosulfat  
 – als Antidot –  
+– zur Vorbeugung einer durch eine Cisplatin-Chemotherapie induzierten Ototoxizität –  
 Natriumzirconiumhydrogencyclohexasilicat-Hydrat (3:2:1:1:x)  
 Nebivolol  
 Nedocromil  
@@ -1963,6 +1991,7 @@ Nimustin
 Nintedanib  
 Niraparib  
 Niridazol  
+Nirmatrelvir  
 Nisoldipin  
 Nitisinon  
 Nitrendipin  
@@ -2001,6 +2030,7 @@ Oclacitinib
 – zur Anwendung bei Tieren –  
 Ocriplasmin  
 Octreotid  
+Odevixibat und seine Ester  
 Öl von Hochseefischen (mit spezifizierter Zusammensetzung)  
 - zur parenteralen Ernährung -  
 Ofloxacin  
@@ -2008,9 +2038,11 @@ Olanzapin
 Olaparib  
 Oleander-Glykoside  
 Oleandomycin  
+Olipudase alfa  
 Olmesartan und seine Ester  
 Olodaterol  
 Olopatadin  
+– ausgenommen zur Anwendung am Auge, sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der Anwendung auf Erwachsene angegeben ist, es sei denn, es handelt sich um von der Europäischen Kommission als verschreibungspflichtig zugelassene Arzneimittel –  
 Olsalazin  
 Ombitasvir  
 Omega-3-Säurenethylester  
@@ -2124,12 +2156,14 @@ Pegaptanib
 Pegbovigrastim  
 – zur Anwendung bei Tieren –  
 Pegaspargase  
+Pegcetacoplan  
 PEG-Epoetin beta  
 Pegfilgrastim  
 Peginterferon alfa-2a  
 Peginterferon alfa-2b  
 Peginterferon beta-1a  
 Pegloticase  
+Pegunigalsidase alfa  
 Pegvaliase  
 Pegvisomant  
 Pemetrexed  
@@ -2270,6 +2304,7 @@ Practolol
 Pradofloxacin  
 – zur Anwendung bei Tieren –  
 Prajmalium  
+Pralsetinib  
 Pramipexol  
 Pramiverin  
 Pranoprofen  
@@ -2422,7 +2457,7 @@ Ramifenazon
 - zur parenteralen Anwendung -  
 - ausgenommen zur Anwendung bei Tieren -  
 Ramipril  
-Ranelinsäure  
+Ranelinsäure und ihre Ester  
 Ranitidin  
 - ausgenommen in Zubereitungen zur oralen Anwendung in einer Konzentration von bis zu 75 mg je abgeteilter Form und in Packungsgrößen bis zu 1 050 mg, sofern die Anwendung für Erwachsene und Kinder ab dem vollendeten 16. Lebensjahr auf die Anwendungsgebiete "Bei Sodbrennen und/oder saurem Aufstoßen" und auf eine maximale Therapiedauer von 14 Tagen beschränkt ist -  
 Ranolazin  
@@ -2432,6 +2467,9 @@ Rauwolfia-Arten, ihre Zubereitungen und Alkaloide – ausgenommen in homöopathi
 Reboxetin  
 Regadenoson  
 Regorafenib  
+Relebactam  
+Relugolix  
+Remdesivir und seine Ester  
 Repaglinid  
 Reproterol  
 Reserpin  
@@ -2457,10 +2495,11 @@ Rifaximin
 Rilonacept  
 Rilpivirin  
 Riluzol  
-Rimazoliummetilsulfat  
+Rimazolium  
 Rimexolon  
 Rimonabant  
 Riociguat  
+Ripretinib  
 Risdiplam  
 Risedronsäure  
 Risperidon  
@@ -2469,6 +2508,7 @@ Ritonavir
 Rivaroxaban  
 Rivastigmin  
 Rizatriptan  
+– ausgenommen zur akuten Behandlung der Kopfschmerzphase bei Migräneanfällen mit und ohne Aura, nach ärztlicher Erstdiagnose einer Migräne, in festen Zubereitungen zur oralen Anwendung in Konzentrationen von 5 mg je abgeteilter Form und in einer Gesamtmenge von 10 mg je Packung –  
 Robenacoxib  
 – zur Anwendung bei Tieren –  
 Rocuroniumbromid  
@@ -2486,6 +2526,7 @@ Rosiglitazon
 Rosoxacin  
 Rosuvastatin  
 Rotigotin  
+Roxadustat und seine Ester  
 Roxatidin und seine Ester  
 Roxithromycin  
 Rucaparib  
@@ -2533,6 +2574,7 @@ Selenverbindungen
 - ausgenommen Selendisulfid zum äußeren Gebrauch in einer Konzentration bis zu 2,5 Gewichtsprozenten -  
 - ausgenommen in Zubereitungen zum inneren Gebrauch mit einer Tagesdosis bis zu 70 µg Selen -  
 Selexipag  
+Selinexor  
 Semaglutid  
 Selpercatinib und seine Ester  
 Selumetinib und seine Ester  
@@ -2542,6 +2584,7 @@ Sermorelin
 Serrapeptase  
 Sertindol  
 Sertralin  
+Setmelanotid  
 Sevelamer  
 Sevofluran  
 Sibutramin  
@@ -2567,11 +2610,13 @@ Solifenacin
 Solriamfetol  
 Somatorelin  
 Somatostatin  
+Somatrogon  
 Somatropin  
 Sonidegib  
 Sorafenib  
 Sotagliflozin und seine Ester  
 Sotalol  
+Sotorasib und seine Ester  
 Spagluminsäure  
 - zur Behandlung der saisonalen Rhinitis -  
 Sparfloxacin  
@@ -2629,12 +2674,14 @@ Suxamethonium-Salze
 Suxibuzon  
 Syrosingopin
 
+Tabelecleucel  
 Tacalcitol  
 Tacrin  
 Tacrolimus  
 Tadalafil  
 Tafamidis und seine Ester  
 Tafluprost  
+Tagraxofusp  
 Talastin  
 Talazoparib  
 Talimogen laherparepvec  
@@ -2646,6 +2693,7 @@ Tasonermin
 Taurolidin  
 Tazaroten  
 Tazobactam  
+Tebentafusp  
 Tedizolid und seine Ester  
 Teduglutid  
 Tegafur  
@@ -2666,6 +2714,7 @@ Teniposid
 Tenofovir und seine Derivate  
 Tenonitrozol  
 Tenoxicam  
+Tepotinib  
 Tepoxalin  
 - zur Anwendung bei Tieren -  
 Terazosin  
@@ -2756,6 +2805,7 @@ Tipiracil
 Tipranavir  
 Tiracizin  
 Tiratricol  
+Tirbanibulin  
 Tirofiban  
 Tiropramid  
 Tivozanib  
@@ -2866,8 +2916,9 @@ Urapidil
 Urethan  
 Urofollitropin  
 Urokinase  
-Ursodeoxycholsäure
+Ursodesoxycholsäure  
 
+Vadadustat und seine Ester  
 Valaciclovir  
 Valdecoxib  
 Valdetamid  
@@ -2893,6 +2944,7 @@ Verapamil
 Veratri rhizoma und seine Zubereitungen  
 - ausgenommen zum äußeren Gebrauch bei Tieren und als Schneeberger Schnupftabak mit einem Gehalt von höchstens 3 Gewichtsprozenten Nieswurzel -  
 Veratrum-Alkaloide  
+Vericiguat  
 Vernakalant  
 Verteporfin  
 Vestronidase alfa  
@@ -2912,11 +2964,15 @@ Viomycin
 Viquidil  
 Virginiamycin  
 Vismodegib  
+Voclosporin und seine Ester  
 Volanesorsen  
 Vorapaxar  
 Voriconazol  
 Vortioxetin  
+Vosoritid  
+Voxelotor und seine Ester  
 Voxilaprevir  
+Vutrisiran  
 Warfarin
 
 Xantocillin  
@@ -2930,6 +2986,7 @@ Yohimbinsäure und ihre Ester
 Zalcitabin  
 Zaleplon  
 Zanamivir  
+Zanubrutinib  
 Zellen menschlicher oder tierischer Herkunft in frischem, gefrorenem oder getrocknetem Zustand, soweit sie zur Injektion oder Infusion bei Menschen bestimmt sind  
 Zeranol  
 Ziconotid  
