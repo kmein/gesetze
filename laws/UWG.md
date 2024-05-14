@@ -227,7 +227,7 @@ Die Informationen nach Satz 1 müssen von der Anzeige der Suchergebnisse aus unm
 
 a) bei der die Identität des Absenders, in dessen Auftrag die Nachricht übermittelt wird, verschleiert oder verheimlicht wird oder
 
-b) bei der gegen § 6 Absatz 1 des Telemediengesetzes verstoßen wird oder in der der Empfänger aufgefordert wird, eine Website aufzurufen, die gegen diese Vorschrift verstößt, oder
+b) bei der gegen § 6 Absatz 1 des Digitale-Dienste-Gesetzes verstoßen wird oder in der der Empfänger aufgefordert wird, eine Website aufzurufen, die gegen diese Vorschrift verstößt, oder
 
 c) bei der keine gültige Adresse vorhanden ist, an die der Empfänger eine Aufforderung zur Einstellung solcher Nachrichten richten kann, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen.
 
@@ -385,7 +385,7 @@ b) seine Ansprüche nicht vorwiegend geltend machen wird, um für sich Einnahmen
 
 (4) Der Anspruch auf Ersatz der erforderlichen Aufwendungen nach Absatz 3 ist für Anspruchsberechtigte nach § 8 Absatz 3 Nummer 1 ausgeschlossen bei
 
-1. im elektronischen Geschäftsverkehr oder in Telemedien begangenen Verstößen gegen gesetzliche Informations- und Kennzeichnungspflichten oder
+1. im elektronischen Geschäftsverkehr oder in digitalen Diensten nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes begangenen Verstößen gegen gesetzliche Informations- und Kennzeichnungspflichten oder
 
 2. sonstigen Verstößen gegen die Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) und das Bundesdatenschutzgesetz durch Unternehmen sowie gewerblich tätige Vereine, sofern sie in der Regel weniger als 250 Mitarbeiter beschäftigen.
 
@@ -417,7 +417,7 @@ b) seine Ansprüche nicht vorwiegend geltend machen wird, um für sich Einnahmen
 
 (2) Für alle bürgerlichen Rechtsstreitigkeiten, mit denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird, ist das Gericht zuständig, in dessen Bezirk der Beklagte seinen allgemeinen Gerichtsstand hat. Für alle bürgerlichen Rechtsstreitigkeiten, mit denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird, ist außerdem das Gericht zuständig, in dessen Bezirk die Zuwiderhandlung begangen wurde. Satz 2 gilt nicht für
 
-1. Rechtsstreitigkeiten wegen Zuwiderhandlungen im elektronischen Geschäftsverkehr oder in Telemedien oder
+1. Rechtsstreitigkeiten wegen Zuwiderhandlungen im elektronischen Geschäftsverkehr oder in digitalen Diensten nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes oder
 
 2. Rechtsstreitigkeiten, die von den nach § 8 Absatz 3 Nummer 2 bis 4 zur Geltendmachung eines Unterlassungsanspruchs Berechtigten geltend gemacht werden,
 

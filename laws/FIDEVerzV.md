@@ -79,7 +79,7 @@ s) § 328 des Strafgesetzbuches,
 
 t) § 27 Absatz 1 und 2 des Jugendschutzgesetzes,
 
-u) § 25 Absatz 1 Nummer 3 Variante 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes,
+u) § 25 Absatz 1 Nummer 3 Variante 2 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes,
 
 v) § 5 des Hundeverbringungs- und -einfuhrbeschränkungsgesetzes;
 

@@ -51,7 +51,7 @@
 
 4. die Kosten, die dem Diensteanbieter für Mittel nach Nummer 3 entstehen.
 
-(3) Auf § 10 Satz 1 des Telemediengesetzes kann sich der Diensteanbieter nicht berufen.
+(3) Auf Artikel 6 Absatz 1 der Verordnung (EU) 2022/2065 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einen Binnenmarkt für digitale Dienste und zur Änderung der Richtlinie 2000/31/EG (Gesetz über digitale Dienste) (ABl. L 277 vom 27.10.2022, S. 1; L 310 vom 1.12.2022, S. 17) kann sich der Diensteanbieter nicht berufen.
 
 (4) Ein Diensteanbieter, dessen Hauptzweck es ist, sich an Urheberrechtsverletzungen zu beteiligen oder sie zu erleichtern, kann sich auf Absatz 2 nicht berufen.
 
@@ -245,13 +245,63 @@ Die folgenden Nutzungen von Werken Dritter gelten als geringfügig im Sinne des 
 
 (1) Der Diensteanbieter kann sich zur Erfüllung seiner Pflichten nach § 14 einer anerkannten externen Beschwerdestelle bedienen.
 
-(2) Die Entscheidung über die Anerkennung einer externen Beschwerdestelle trifft das Bundesamt für Justiz im Einvernehmen mit dem Deutschen Patent- und Markenamt. Für die Voraussetzungen sowie für das Verfahren der Anerkennung gelten im Übrigen die Vorschriften des Netzwerkdurchsetzungsgesetzes über die Anerkennung einer Einrichtung der Regulierten Selbstregulierung entsprechend.
+(2) Die Entscheidung über die Anerkennung einer externen Beschwerdestelle trifft das Bundesamt für Justiz im Einvernehmen mit dem Deutschen Patent- und Markenamt. Die Entscheidung kann mit Nebenbestimmungen versehen werden. Eine Befristung soll den Zeitraum von fünf Jahren nicht unterschreiten.
+
+(3) Eine externe Beschwerdestelle ist anzuerkennen, wenn
+
+1. die Unabhängigkeit und Sachkunde ihrer Prüfer gewährleistet ist,
+
+2. eine sachgerechte Ausstattung und eine zügige Prüfung innerhalb von sieben Tagen sichergestellt sind,
+
+3. eine Verfahrensordnung besteht, die
+
+a) den Umfang und den Ablauf der Prüfung regelt,
+
+b) die Vorlagepflichten der angeschlossenen Diensteanbieter regelt und
+
+c) die Möglichkeit der Überprüfung von Entscheidungen auf Antrag des Rechtsinhabers und auf Antrag des Nutzers vorsieht,
+
+4. sie von mehreren Diensteanbietern oder Institutionen getragen wird, die eine sachgerechte Ausstattung sicherstellen, und
+
+5. sie für den Beitritt weiterer Diensteanbieter oder Institutionen offensteht.
+
+(4) Die anerkannte externe Beschwerdestelle hat das Bundesamt für Justiz unverzüglich zu unterrichten, wenn sich Änderungen der für die Anerkennung relevanten Umstände oder Änderungen sonstiger Angaben, die im Antrag auf Anerkennung mitgeteilt worden sind, ergeben. Wenn Voraussetzungen für die Anerkennung nachträglich entfallen, kann die Anerkennung ganz oder teilweise widerrufen werden oder mit Nebenbestimmungen versehen werden.
+
+(5) Die anerkannte externe Beschwerdestelle hat jeweils bis zum 31. Juli einen Tätigkeitsbericht über das vorangegangene Kalenderjahr auf ihrer Internetseite zu veröffentlichen und dem Bundesamt für Justiz zu übermitteln.
 
 # § 16 – Außergerichtliche Streitbeilegung durch private Schlichtungsstellen
 
-(1) Zur außergerichtlichen Beilegung von Streitigkeiten über die Blockierung und öffentliche Wiedergabe eines geschützten Werkes durch einen Diensteanbieter sowie über Auskunftsrechte (§ 19) können Rechtsinhaber und Nutzer eine privatrechtlich organisierte Schlichtungsstelle anrufen.
+(1) Zur außergerichtlichen Beilegung von Streitigkeiten über die Blockierung und öffentliche Wiedergabe eines geschützten Werkes durch einen Diensteanbieter sowie über Auskunftsrechte (§ 19) können Rechtsinhaber und Nutzer eine anerkannte privatrechtlich organisierte Schlichtungsstelle anrufen. Für die Entscheidung über die Anerkennung gilt § 15 Absatz 2 Satz 1 und 2 entsprechend.
 
-(2) Die Vorschriften des Netzwerkdurchsetzungsgesetzes über privatrechtlich organisierte Schlichtungsstellen sind mit der Maßgabe anzuwenden, dass das Bundesamt für Justiz als zuständige Behörde die Entscheidung über die Anerkennung einer privatrechtlich organisierten Schlichtungsstelle im Einvernehmen mit dem Deutschen Patent- und Markenamt trifft.
+(2) Eine privatrechtlich organisierte Schlichtungsstelle ist anzuerkennen, wenn
+
+1. ihr Träger eine juristische Person ist,
+
+a) die ihren Sitz in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, für den die Richtlinie 2010/13/EU gilt, hat,
+
+b) sie auf Dauer angelegt ist und
+
+c) deren Finanzierung gesichert ist,
+
+2. die Unabhängigkeit, die Unparteilichkeit und die Sachkunde derjenigen Personen gewährleistet sind, die mit der Schlichtung befasst werden sollen,
+
+3. ihre sachgerechte Ausstattung und die zügige Bearbeitung der Schlichtungsverfahren sichergestellt sind,
+
+4. sie eine Schlichtungsordnung hat, die die Einzelheiten des Schlichtungsverfahrens und ihre Zuständigkeit regelt und die ein einfaches, kostengünstiges, unverbindliches und faires Schlichtungsverfahren ermöglicht, an dem der Diensteanbieter, der Rechtsinhaber und der Nutzer teilnehmen können,
+
+5. sichergestellt ist, dass die Öffentlichkeit dauerhaft über Erreichbarkeit und Zuständigkeit der Schlichtungsstelle sowie über den Ablauf des Schlichtungsverfahrens, einschließlich der Schlichtungsordnung, informiert wird.
+
+§ 15 Absatz 4 und 5 gilt entsprechend.
+
+(3) Rechtsinhaber und Nutzer können eine Schlichtungsstelle im Rahmen ihrer Zuständigkeit anrufen, wenn
+
+1. zuvor ein internes Beschwerdeverfahren nach § 14 durchgeführt worden ist oder eine Überprüfung der Entscheidung im Sinne des § 15 Absatz 3 Nummer 3 stattgefunden hat und
+
+2. der Diensteanbieter an der Schlichtung durch diese Schlichtungsstelle teilnimmt.
+
+Nimmt der Diensteanbieter an der Schlichtung teil, so darf er der Schlichtungsstelle den beanstandeten Inhalt, Angaben zum Zeitpunkt des Teilens oder der Zugänglichmachung des Inhalts und zum Umfang der Verbreitung sowie Inhalte, die mit dem beanstandeten Inhalt in erkennbarem Zusammenhang stehen, übermitteln, soweit dies für das Schlichtungsverfahren erforderlich ist. Im Falle einer Anrufung der Schlichtungsstelle durch den Rechtsinhaber dürfen auch die Kontaktdaten des Nutzers übermittelt werden. Im Falle einer Anrufung der Schlichtungsstelle durch den Nutzer dürfen auch die Kontaktdaten des Rechtsinhabers übermittelt werden. Die Schlichtungsstelle ist befugt, die betreffenden personenbezogenen Daten zu verarbeiten, soweit dies für das Schlichtungsverfahren erforderlich ist; eine Offenlegung der personenbezogenen Daten des Rechtsinhabers und des Nutzers ist jedoch nicht zulässig.
+
+(4) Das Verbraucherstreitbeilegungsgesetz vom 19. Februar 2016 (BGBl. I S. 254, 1039), das zuletzt durch Artikel 16 des Gesetzes vom 8. Oktober 2023 (BGBl. 2023 I Nr. 272) geändert worden ist, ist nicht anzuwenden.
 
 (+++ § 16 Abs. 1: Zur Anwendung vgl. § 17 Abs. 2 Satz 2 +++)
 
@@ -259,9 +309,11 @@ Die folgenden Nutzungen von Werken Dritter gelten als geringfügig im Sinne des 
 
 (1) Das Bundesamt für Justiz richtet im Einvernehmen mit dem Deutschen Patent- und Markenamt eine behördliche Schlichtungsstelle ein.
 
-(2) Die behördliche Schlichtungsstelle ist nur zuständig, wenn eine privatrechtlich organisierte Schlichtungsstelle nach § 16 nicht zur Verfügung steht. § 16 Absatz 1 ist entsprechend anzuwenden.
+(2) Die behördliche Schlichtungsstelle ist nur zuständig, wenn eine privatrechtlich organisierte Schlichtungsstelle nach § 16 nicht zur Verfügung steht. § 16 Absatz 1 Satz 1, Absatz 2 Satz 1 Nummer 2 bis 5, Absatz 3 und 4 ist entsprechend anzuwenden.
 
-(3) Die Vorschriften des Netzwerkdurchsetzungsgesetzes über die behördliche Schlichtungsstelle sind entsprechend anzuwenden.
+(3) Die behördliche Schlichtungsstelle hat jeweils bis zum 31. Juli einen Tätigkeitsbericht über das vorangegangene Kalenderjahr auf ihrer Internetseite zu veröffentlichen.
+
+(4) Die behördliche Schlichtungsstelle kann für die Durchführung des Schlichtungsverfahrens Gebühren erheben. Die Gebühren hat sie in ihrer Schlichtungsordnung anzugeben.
 
 # § 18 – Maßnahmen gegen Missbrauch
 
@@ -289,11 +341,11 @@ so ist er für einen angemessenen Zeitraum von dem jeweiligen Verfahren auszusch
 
 (2) Der Rechtsinhaber kann von dem Diensteanbieter angemessene Auskunft über die Funktionsweise der Verfahren zur Blockierung unerlaubter Nutzungen seines Repertoires nach den §§ 7 und 8 verlangen.
 
-(3) Der Diensteanbieter gewährt Berechtigten nach § 60d Absatz 2 des Urheberrechtsgesetzes zum Zweck der wissenschaftlichen Forschung Zugang zu Daten über den Einsatz von Verfahren zur automatisierten und nicht automatisierten Erkennung und Blockierung von Inhalten, soweit überwiegende schutzwürdige Interessen des Diensteanbieters nicht entgegenstehen. Der Diensteanbieter hat Anspruch auf Erstattung der hierdurch entstehenden Kosten in angemessener Höhe.
+(3) (weggefallen)
 
 # § 20 – Inländischer Zustellungsbevollmächtigter
 
-Für die Verpflichtung des Diensteanbieters zur Bestellung eines inländischen Zustellungsbevollmächtigten für das gerichtliche Verfahren gilt § 5 Absatz 1 des Netzwerkdurchsetzungsgesetzes entsprechend.
+Für die Verpflichtung des Diensteanbieters, bei dem nach § 2 des Digitale-Dienste-Gesetzes kein anderer Mitgliedstaat Sitzland ist oder als Sitzland gilt, zur Bestellung eines inländischen Zustellungsbevollmächtigten für das gerichtliche Verfahren gilt § 5 des Netzwerkdurchsetzungsgesetzes entsprechend.
 
 # § 21 – Anwendung auf verwandte Schutzrechte
 

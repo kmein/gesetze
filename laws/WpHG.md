@@ -651,7 +651,7 @@ kann die Bundesanstalt zur Verhinderung weiterer Verstöße für einen Zeitraum 
 
 # § 7 – Herausgabe von Kommunikationsdaten
 
-(1) Die Bundesanstalt kann von einem Telekommunikationsbetreiber die Herausgabe von in dessen Besitz befindlichen bereits existierenden Verkehrsdaten im Sinne der §§ 9 und 12 des Telekommunikation-Telemedien-Datenschutz-Gesetzes verlangen, wenn bestimmte Tatsachen den Verdacht begründen, dass jemand gegen Artikel 14 oder 15 der Verordnung (EU) Nr. 596/2014 oder eine der in § 6 Absatz 6 Satz 1 Nummer 3 und 4 genannten Vorschriften verstoßen hat, soweit dies zur Erforschung des Sachverhalts erforderlich ist. § 100a Absatz 3 und 4, § 100e Absatz 1, 3 und 5 Satz 1 der Strafprozessordnung gelten entsprechend mit der Maßgabe, dass die Bundesanstalt antragsberechtigt ist. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen die richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis nach Artikel 10 des Grundgesetzes werden insoweit eingeschränkt.
+(1) Die Bundesanstalt kann von einem Telekommunikationsbetreiber die Herausgabe von in dessen Besitz befindlichen bereits existierenden Verkehrsdaten im Sinne der §§ 9 und 12 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes verlangen, wenn bestimmte Tatsachen den Verdacht begründen, dass jemand gegen Artikel 14 oder 15 der Verordnung (EU) Nr. 596/2014 oder eine der in § 6 Absatz 6 Satz 1 Nummer 3 und 4 genannten Vorschriften verstoßen hat, soweit dies zur Erforschung des Sachverhalts erforderlich ist. § 100a Absatz 3 und 4, § 100e Absatz 1, 3 und 5 Satz 1 der Strafprozessordnung gelten entsprechend mit der Maßgabe, dass die Bundesanstalt antragsberechtigt ist. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen die richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis nach Artikel 10 des Grundgesetzes werden insoweit eingeschränkt.
 
 (2) Die Bundesanstalt kann von Wertpapierdienstleistungsunternehmen, Datenbereitstellungsdiensten, Kreditinstituten im Sinne des Artikels 4 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 575/2013, beaufsichtigten Unternehmen im Sinne des Artikels 3 Absatz 1 Nummer 17 der Verordnung (EU) 2016/1011 und Finanzinstituten im Sinne des Artikels 4 Absatz 1 Nummer 26 der Verordnung (EU) Nr. 575/2013 die Herausgabe von bereits existierenden
 
@@ -659,7 +659,7 @@ kann die Bundesanstalt zur Verhinderung weiterer Verstöße für einen Zeitraum 
 
 2. elektronischen Mitteilungen oder
 
-3. Verkehrsdaten im Sinne der §§ 9 und 12 des Telekommunikation-Telemedien-Datenschutz-Gesetzes,
+3. Verkehrsdaten im Sinne der §§ 9 und 12 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes,
 
 die sich im Besitz dieser Unternehmen befinden, verlangen, soweit dies auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines Verbots nach den Artikeln 14 und 15 der Verordnung (EU) Nr. 596/2014 oder einer in § 6 Absatz 6 Satz 1 Nummer 3 und 4 genannten Vorschriften oder eines Verbots oder Gebots nach der Verordnung (EU) 2016/1011 erforderlich ist. Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis nach Artikel 10 des Grundgesetzes werden insoweit eingeschränkt.
 

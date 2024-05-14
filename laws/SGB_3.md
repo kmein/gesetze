@@ -6920,7 +6920,7 @@ Hat die Bundesagentur eine externe Gutachterin oder einen externen Gutachter bea
 
 19. entgegen
 
-a) § 312 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit Satz 3, § 312 Absatz 1 oder § 313 Absatz 1, auch in Verbindung mit Absatz 3,
+a) § 312 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit Satz 3, § 312 Absatz 3 oder § 313 Absatz 1, auch in Verbindung mit Absatz 3,
 
 b) § 312a Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder § 314 Absatz 1, auch in Verbindung mit Absatz 2,
 
