@@ -41,9 +41,9 @@ k) Zahlungsdiensteverträge,
 
 2. die Vorschriften des Fernunterrichtsschutzgesetzes,
 
-3. diejenigen Vorschriften des Telemediengesetzes, die das Verhältnis zwischen Anbietern von elektronischen Informations- und Kommunikationsdiensten und Verbrauchern regeln, die §§ 8, 9, 70, 74 und 98 des Medienstaatsvertrags vom 14. bis 28. April 2020, die §§ 4, 5, 5a, 5b und 6 des Jugendmedienschutz-Staatsvertrags vom 10. bis 27. September 2002, die §§ 10 und 11 des Deutsche-Welle-Gesetzes und die §§ 2, 3, 3b und 3e des Netzwerkdurchsetzungsgesetzes,
+3. diejenigen Vorschriften des Digitale-Dienste-Gesetzes, die das Verhältnis zwischen Anbietern von elektronischen Informations- und Kommunikationsdiensten und Verbrauchern regeln, die §§ 8, 9, 70, 74 und 98 des Medienstaatsvertrags vom 14. bis 28. April 2020, die §§ 4, 5, 5a, 5b und 6 des Jugendmedienschutz-Staatsvertrags vom 10. bis 27. September 2002 und die §§ 10 und 11 des Deutsche-Welle-Gesetzes,
 
-4. diejenigen Vorschriften des Telekommunikation-Telemedien-Datenschutz-Gesetzes, die das Verhältnis zwischen Unternehmern und Verbrauchern regeln,
+4. diejenigen Vorschriften des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes, die das Verhältnis zwischen Unternehmern und Verbrauchern regeln,
 
 5. die Vorschriften des Arzneimittelgesetzes, die das Verhältnis zwischen Unternehmern und Verbrauchern regeln,
 
@@ -467,11 +467,11 @@ Für Klagen nach § 2 gelten § 15 des Gesetzes gegen den unlauteren Wettbewerb 
 
 # § 12a – Anhörung der Datenschutzbehörden in Verfahren über Ansprüche nach § 2
 
-Das Gericht hat vor einer Entscheidung in einem Verfahren über einen Anspruch nach § 2, das eine Zuwiderhandlung gegen ein Verbraucherschutzgesetz nach § 2 Absatz 2 Satz 1 Nummer 11 zum Gegenstand hat, die zuständige inländische Datenschutzbehörde zu hören. Satz 1 ist nicht anzuwenden, wenn über einen Antrag auf Erlass einer einstweiligen Verfügung ohne mündliche Verhandlung entschieden wird.
+Das Gericht hat vor einer Entscheidung in einem Verfahren über einen Anspruch nach § 2, das eine Zuwiderhandlung gegen ein Verbraucherschutzgesetz nach § 2 Absatz 2 Nummer 13 und 14 zum Gegenstand hat, die zuständige inländische Datenschutzbehörde zu hören. Satz 1 ist nicht anzuwenden, wenn über einen Antrag auf Erlass einer einstweiligen Verfügung ohne mündliche Verhandlung entschieden wird.
 
 # § 13 – Auskunftsanspruch der anspruchsberechtigten Stellen
 
-(1) Wer geschäftsmäßig Post-, Telekommunikations- oder Telemediendienste erbringt oder an der Erbringung solcher Dienste mitwirkt, hat anspruchsberechtigten Stellen nach § 3 Absatz 1 Satz 1 auf deren Verlangen den Namen und die zustellfähige Anschrift eines an Post-, Telekommunikations- oder Telemediendiensten Beteiligten mitzuteilen, wenn diese Stellen schriftlich versichern, dass sie die Angaben zur Durchsetzung eines Anspruchs nach den §§ 1 bis 2b benötigen und nicht anderweitig beschaffen können.
+(1) Wer geschäftsmäßig Post-, Telekommunikations- oder digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes erbringt oder an der Erbringung solcher Dienste mitwirkt, hat anspruchsberechtigten Stellen nach § 3 Absatz 1 Satz 1 auf deren Verlangen den Namen und die zustellfähige Anschrift eines an Post-, Telekommunikations- oder digitalen Diensten Beteiligten mitzuteilen, wenn diese Stellen schriftlich versichern, dass sie die Angaben zur Durchsetzung eines Anspruchs nach den §§ 1 bis 2b benötigen und nicht anderweitig beschaffen können.
 
 (2) Der Anspruch besteht nur, soweit die Auskunft ausschließlich anhand der bei dem Auskunftspflichtigen vorhandenen Bestandsdaten erteilt werden kann. Die Auskunft darf nicht deshalb verweigert werden, weil der Beteiligte, dessen Angaben mitgeteilt werden sollen, in die Übermittlung nicht einwilligt.
 
@@ -479,7 +479,7 @@ Das Gericht hat vor einer Entscheidung in einem Verfahren über einen Anspruch n
 
 # § 13a – Auskunftsanspruch sonstiger Betroffener
 
-Wer von einem anderen Unterlassung der Lieferung unbestellter Sachen, der Erbringung unbestellter sonstiger Leistungen oder der Zusendung oder sonstiger Übermittlung unverlangter Werbung verlangen kann, hat die Ansprüche gemäß § 13 mit der Maßgabe, dass an die Stelle eines Anspruchs nach den §§ 1 bis 2b sein Anspruch auf Unterlassung nach allgemeinen Vorschriften tritt.
+Wer von einem anderen Unterlassung der Lieferung unbestellter Sachen, der Erbringung unbestellter sonstiger Leistungen, der Zusendung oder der sonstigen Übermittlung unverlangter Werbung verlangen kann, hat den Anspruch gemäß § 13 mit der Maßgabe, dass an die Stelle eines Anspruchs nach den §§ 1 bis 2b sein Anspruch aus Unterlassung nach den allgemeinen Vorschriften tritt.
 
 (+++ Gem. Art. 10 Nr. 21 G v. 8.10.2023 I Nr. 272 wurden abweichend von der Änderungsanweisung die Wörter "§§ 1 bis 2a oder nach § 4e" durch die Angabe "§§ 1 bis 2b" ersetzt +++)
 

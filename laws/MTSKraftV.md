@@ -109,7 +109,7 @@ Der Antrag hat zudem folgende Angaben zu enthalten:
 
 3. den Namen einer Kontaktperson unter Angabe von deren Telefonnummer,
 
-4. und falls vorhanden, den Namen des gesetzlichen Vertreters oder des Verantwortlichen nach § 5 des Telemediengesetzes oder des § 55 Absatz 2 des Rundfunkstaatsvertrags sowie dessen Adresse und Telefonnummer sowie, falls vorhanden, dessen Telefaxnummer und E-Mail-Adresse.
+4. und falls vorhanden, den Namen des gesetzlichen Vertreters oder des Verantwortlichen nach § 5 des Digitale-Dienste-Gesetzes oder des § 18 Absatz 2 des Medienstaatsvertrags sowie dessen Adresse und Telefonnummer sowie, falls vorhanden, dessen Telefaxnummer und E-Mail-Adresse.
 
 Änderungen der Angaben nach den Sätzen 1 und 2 sind der Markttransparenzstelle unverzüglich zu übermitteln.
 

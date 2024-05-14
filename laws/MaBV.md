@@ -395,7 +395,8 @@ Gewerbetreibende, die Vermögenswerte des Auftraggebers nach den §§ 3 oder 7 A
 
 # Anlage 1 – (zu § 15b Absatz 1)
 
-(Fundstelle: BGBl. I 2018, 552 — 554)
+(Fundstelle: BGBl. I 2018, 552 — 554  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -479,7 +480,7 @@ Informationspflichten des Maklers
 Dienstleistungs-Informationspflichten-Verordnung
 
 3.8.2  
-Telemediengesetz
+Digitale-Dienste-Gesetz
 
 3.8.3  
 Preisangabenverordnung
@@ -623,7 +624,7 @@ Informationspflichten des Verwalters
 Dienstleistungs-Informationspflichten-Verordnung
 
 2.12.2  
-Telemediengesetz
+Digitale-Dienste-Gesetz
 
 2.12.3  
 Preisangabenverordnung

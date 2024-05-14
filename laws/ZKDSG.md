@@ -11,9 +11,9 @@ Im Sinne dieses Gesetzes bezeichnet der Ausdruck
 
 1. "zugangskontrollierte Dienste"
 
-a) Rundfunkdarbietungen im Sinne von § 2 des Rundfunkstaatsvertrages,
+a) Rundfunk im Sinne von § 2 Absatz 1 Satz 1 des Medienstaatsvertrages,
 
-b) Telemedien im Sinne von § 1 des Telemediengesetzes,
+b) digitale Dienste im Sinne von § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes,
 
 die unter der Voraussetzung eines Entgelts erbracht werden und nur unter Verwendung eines Zugangskontrolldienstes genutzt werden können,
 

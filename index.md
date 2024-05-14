@@ -1458,6 +1458,7 @@
 - [DBSchichtZulErhV](laws/DBSchichtZulErhV.md) Verordnung über die Erhöhung der Schichtzulagen für Beamte des Bundeseisenbahnvermögens, die der Deutschen Bahn AG oder einer ihrer Tochtergesellschaften zugewiesen sind
 - [DBSeeLuftAbkG PAN](laws/DBSeeLuftAbkG_PAN.md) Gesetz zu dem Abkommen vom 21. November 2016 zwischen der Bundesrepublik Deutschland und der Republik Panama zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen betreffend den Betrieb von Seeschiffen oder Luftfahrzeugen im internationalen Verkehr
 - [DBUStiftG](laws/DBUStiftG.md) Gesetz zur Errichtung einer Stiftung "Deutsche Bundesstiftung Umwelt"
+- [DDG](laws/DDG.md) Digitale-Dienste-Gesetz *
 - [DDR-EErfG](laws/DDR-EErfG.md) Gesetz zur Regelung in der Deutschen Demokratischen Republik nicht erfüllter Entschädigungsansprüche aus Enteignung
 - [DDR-IG](laws/DDR-IG.md) Gesetz zum Abbau von Hemmnissen bei Investitionen in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)
 - [DDRUMünzAkBek](laws/DDRUMünzAkBek.md) Bekanntmachung über die Außerkurssetzung der im Beitrittsgebiet noch gültigen Umlaufmünzen der ehemaligen DDR zu 1, 5, 10, 20 und 50 Pfennig
@@ -5661,7 +5662,6 @@
 - [TKTransparenzV](laws/TKTransparenzV.md) Verordnung zur Förderung der Transparenz auf dem Telekommunikationsmarkt
 - [TKÜV](laws/TKÜV.md) Verordnung über die technische und organisatorische Umsetzung von Maßnahmen zur Überwachung der Telekommunikation
 - [TLMV](laws/TLMV.md) Verordnung über tiefgefrorene Lebensmittel
-- [TMG](laws/TMG.md) Telemediengesetz
 - [TNV](laws/TNV.md) Telekommunikations-Nummerierungsverordnung
 - [TollwV 1991](laws/TollwV_1991.md) Verordnung zum Schutz gegen die Tollwut
 - [TomatKennzV](laws/TomatKennzV.md) Verordnung über die vorübergehende saatgutrechtliche Kennzeichnung und Verpackung für Saatgut von Tomaten
