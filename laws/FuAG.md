@@ -61,7 +61,11 @@ c) Funkanlagen, die von Funkamateuren im Rahmen des Amateurfunkdienstes zu exper
 
 2. Ausrüstung im Sinne der Richtlinie 2014/90/EU des Europäischen Parlaments und des Rates vom 23. Juli 2014 über Schiffsausrüstung und zur Aufhebung der Richtlinie 96/98/EG des Rates (ABl. L 257 vom 28.8.2014, S. 146), in ihrer jeweiligen Fassung sowie Ausrüstung im Sinne der Richtlinie 2009/45/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über Sicherheitsvorschriften und -normen für Fahrgastschiffe (ABl. L 163 vom 25.6.2009, S. 1),
 
-3. Erzeugnisse, Teile und Ausrüstungen an Bord von Luftfahrzeugen, die in den Anwendungsbereich der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Europäischen Agentur für Flugsicherheit, zur Aufhebung der Richtlinie 91/670/EWG des Rates, der Verordnung (EG) Nr. 1592/2002 und der Richtlinie 2004/36/EG (ABl. L 79 vom 19.3.2008, S. 1) fallen,
+3. die folgende Luftfahrtausrüstung, wenn diese Ausrüstung in den Anwendungsbereich der Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates<span id="FnR.F829824_02"></span><a href="#F829824_02" class="FnR">2</a></sup> fällt und ausschließlich für die Nutzung in der Luft bestimmt ist:
+
+a) Luftfahrzeuge, die keine unbemannten Luftfahrzeuge sind, und die dazugehörigen Motoren, Propeller und Teile und die dazugehörige nicht eingebaute Ausrüstung,
+
+b) unbemannte Luftfahrzeuge sowie die dazugehörigen Motoren, Propeller, Teile und die dazugehörige nicht eingebaute Ausrüstung, deren Konstruktion gemäß Artikel 56 Absatz 1 der genannten Verordnung zertifiziert ist und die zum Betrieb ausschließlich auf den durch die Vollzugsordnung für den Funkdienst der Internationalen Fernmeldeunion zugeteilten Frequenzen für den geschützten Flugbetrieb bestimmt sind,
 
 4. kunden- und anwendungsspezifisch angefertigte Erprobungsmodule, die von Fachleuten ausschließlich in Forschungs- und Entwicklungseinrichtungen für Forschungs- und Entwicklungszwecke verwendet werden,
 
@@ -169,7 +173,7 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (3) Funkanlagen bestimmter Kategorien oder Klassen müssen, sofern und soweit die Kommission gemäß Artikel 44 der Richtlinie 2014/53/EU dies in delegierten Rechtsakten festgelegt hat, so gebaut sein, dass sie die folgenden grundlegenden Anforderungen erfüllen:
 
-1. Sie sind mit Zubehör, insbesondere mit einheitlichen Ladegeräten, kompatibel.
+1. Sie sind mit anderem Zubehör kompatibel als den Ladenetzteilen für die in Anhang Ia Teil I der Richtlinie 2014/53/EU aufgeführten Kategorien oder Klassen von Funkanlagen, die in Absatz 4 ausdrücklich genannt sind.
 
 2. Sie arbeiten über Netzwerke mit anderen Funkanlagen zusammen.
 
@@ -186,6 +190,14 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 8. Sie unterstützen bestimmte Funktionen, die ihre Bedienung durch Menschen mit Behinderungen erleichtern sollen.
 
 9. Sie unterstützen bestimmte Funktionen, mit denen sichergestellt werden soll, dass nur solche Software geladen werden kann, für die die Konformität ihrer Kombination mit der Funkanlage nachgewiesen wurde.
+
+(4) Funkanlagen der in Anhang Ia Teil I der Richtlinie 2014/53/EU genannten Kategorien oder Klassen müssen so konstruiert sein, dass sie den in diesem Anhang für die jeweilige Kategorie oder Klasse von Funkanlagen festgelegten Spezifikationen für Ladefunktionen entsprechen.
+
+# § 4a – Erwerb von Funkanlagen ohne Ladenetzteil
+
+(1) Bietet ein Wirtschaftsakteur Endnutzern die Möglichkeit an, die in § 4 Absatz 4 genannten Funkanlagen zusammen mit einem Ladenetzteil zu erwerben, so hat der Wirtschaftsakteur den Verbrauchern und anderen Endnutzern immer auch die Möglichkeit anzubieten, die Funkanlage ohne Ladenetzteil zu erwerben.
+
+(2) Wird eine Funkanlage im Sinne des § 4 Absatz 4 in Verkehr gebracht oder auf dem Markt bereitgestellt, müssen die Wirtschaftsakteure sicherstellen, dass die Information, ob ein Ladenetzteil im Lieferumfang der Funkanlage enthalten ist, durch grafische Darstellung anhand des zutreffenden Piktogramms gemäß Anhang Ia Teil III der Richtlinie 2014/53/EU kenntlich gemacht wird. Das Piktogramm ist gut sichtbar und lesbar auf die Verpackung aufzudrucken oder als Aufkleber auf der Verpackung anzubringen. Im Fall des Fernabsatzes muss sich das Piktogramm in der Nähe der Preisangabe befinden.
 
 # § 5 – Bereitstellung von Informationen über die Konformität von Kombinationen von Funkanlagen und Software
 
@@ -279,6 +291,8 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (6) Hat der Einführer Kenntnis davon oder Grund zu der Annahme, dass von der Funkanlage eine Gefahr ausgeht, hat der Einführer Stichproben von auf dem Markt bereitgestellten Funkanlagen zu nehmen und zu überprüfen, soweit dies zum Schutz der Gesundheit und der Sicherheit der Endnutzer erforderlich ist. Der Einführer führt ein Verzeichnis der Beschwerden, der nichtkonformen Funkanlagen und der Rückrufe. Der Einführer unterrichtet die Händler fortlaufend über diese Überwachungstätigkeiten.
 
+(7) Wenn Einführer Funkanlagen im Sinne des § 4 Absatz 4 in Verkehr bringen, müssen sie dafür sorgen, dass die Funkanlage ein Etikett gemäß § 20 Absatz 6 aufweist oder mit diesem Etikett geliefert wird und das Etikett gut sichtbar und lesbar ist und sich im Fall des Fernabsatzes in der Nähe der Preisangabe befindet.
+
 # § 13 – Kennzeichnungs- und Informationspflichten des Einführers
 
 (1) Der Einführer hat beim Inverkehrbringen der Funkanlage seinen Namen, seinen eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie seine Postanschrift auf der Funkanlage anzugeben. Falls dies aufgrund der Größe oder der Art der Funkanlage nicht möglich ist, müssen diese Kontaktdaten auf der Verpackung oder in den der Funkanlage beigefügten Unterlagen angegeben werden. Das Anbringen auf der Verpackung oder den Unterlagen ist auch dann zulässig, wenn der Einführer die Verpackung der Funkanlage öffnen müsste, um seinen Namen oder seine Anschrift anzubringen. Die Kontaktdaten sind in einer Sprache abzufassen, die von den Endnutzern und der Bundesnetzagentur leicht verstanden werden kann. Die Postanschrift muss eine zentrale Stelle bezeichnen, über die der Einführer kontaktiert werden kann.
@@ -307,6 +321,8 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (5) Der Händler hat der Bundesnetzagentur auf deren begründetes Verlangen alle Informationen und Unterlagen in Papierform oder elektronisch zur Verfügung zu stellen, die für den Nachweis der Konformität einer Funkanlage erforderlich sind. Die Informationen und Unterlagen müssen in deutscher Sprache oder in einer Sprache, die von der Bundesnetzagentur leicht verstanden werden kann, abgefasst sein. Der Händler hat mit der Bundesnetzagentur auf deren Verlangen bei allen Maßnahmen zur Abwehr von Gefahren zusammenzuarbeiten, die von der Funkanlage ausgehen, die von ihm auf dem Markt bereitgestellt wurde.
 
+(6) Wenn Händler Funkanlagen im Sinne des § 4 Absatz 4 auf dem Markt bereitstellen, müssen sie dafür sorgen, dass die Funkanlage ein Etikett gemäß § 20 Absatz 6 aufweist oder mit diesem Etikett geliefert wird und das Etikett gut sichtbar und lesbar ist und sich im Falle des Fernabsatzes in der Nähe der Preisangabe befindet.
+
 # § 15 – Einführer oder Händler als Hersteller
 
 Ein Einführer oder ein Händler gilt als Hersteller im Sinne dieses Gesetzes und unterliegt den Pflichten des Herstellers nach den §§ 9 und 10, wenn er
@@ -331,7 +347,7 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 # § 18 – Konformitätsbewertungsverfahren
 
-(1) Der Hersteller hat die Konformität der Funkanlage mit den Anforderungen des § 4 Absatz 1 durch eines der folgenden Konformitätsbewertungsverfahren nachzuweisen:
+(1) Der Hersteller hat die Konformität der Funkanlage mit den Anforderungen des § 4 Absatz 1 und 4 durch eines der folgenden Konformitätsbewertungsverfahren nachzuweisen:
 
 1. die interne Fertigungskontrolle nach Anhang II der Richtlinie 2014/53/EU,
 
@@ -378,6 +394,10 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 2. die maximale Sendeleistung, die in dem Frequenzband oder in den Frequenzbändern abgestrahlt wird.
 
 (4) Unterliegt die Inbetriebnahme einer Funkanlage Beschränkungen, so muss aus den Angaben auf der Verpackung der Funkanlage hervorgehen, in welchem Mitgliedstaat der Europäischen Union oder in welchem geografischen Gebiet innerhalb eines Mitgliedstaates diese Beschränkungen gelten. Bedarf eine Funkanlage einer Nutzungsgenehmigung, die von der Einhaltung weiterer Anforderungen abhängt, so sind die weiteren einzuhaltenden Anforderungen in der Gebrauchsanleitung vollständig anzugeben. Die Art und Weise der Darstellung der Angaben erfolgen nach den Festlegungen der Kommission nach Artikel 10 Absatz 10 Satz 3 der Richtlinie 2014/53/EU.
+
+(5) Bei Funkanlagen im Sinne des § 4 Absatz 4 müssen in der Gebrauchsanleitung die Angaben zur Ladefunktion der Funkanlagen und zu den kompatiblen Ladenetzteilen gemäß Anhang Ia Teil II der Richtlinie 2014/53/EU enthalten sein.
+
+(6) Jeder Funkanlage im Sinne des § 4 Absatz 4, müssen die in Absatz 5 genannten Informationen außerdem auf einem Etikett gemäß Anhang Ia Teil IV der Richtlinie 2014/53/EU angegeben sein. Dieses Etikett ist in der Gebrauchsanleitung abzubilden und gut sichtbar und lesbar auf die Verpackung aufzubringen oder als Aufkleber auf der Verpackung anzubringen. Wenn es keine Verpackung gibt, muss ein Aufkleber mit dem Etikett gut sichtbar und lesbar auf der Funkanlage angebracht werden. Wenn dies aufgrund der Größe oder der Art der Funkanlage nicht möglich ist, muss das Etikett als gesondertes Begleitdokument zu der Funkanlage ausgedruckt werden. Im Falle des Fernabsatzes muss sich das Etikett in der Nähe der Preisangabe befinden.
 
 # § 21 – Technische Unterlagen
 
@@ -427,9 +447,17 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 7. die Rechtsverordnungen nach § 22 Absatz 2, den §§ 32, 33 Absatz 3 sowie § 35 Absatz 4 auszuführen.
 
-# § 24 – Maßnahmen bei Funkanlagen, von denen eine Gefahr ausgeht
+# § 24 – Maßnahmen bei Funkanlagen, von denen eine Gefahr ausgeht oder die grundlegende Anforderungen nicht erfüllen
 
-(1) Hat die Bundesnetzagentur Grund zu der Annahme, dass eine Funkanlage die Gesundheit oder Sicherheit von Menschen oder andere im öffentlichen Interesse stehende und durch dieses Gesetz geschützte Werte wie die effektive und effiziente Nutzung des Funkspektrums oder die Vermeidung funktechnischer oder elektromagnetischer Störungen gefährdet, so prüft sie, ob die Funkanlage den Anforderungen dieses Gesetzes genügt. Die Wirtschaftsakteure sind verpflichtet, zu diesem Zweck im erforderlichen Umfang mit der Bundesnetzagentur zusammenzuarbeiten.
+(1) Hat die Bundesnetzagentur Grund zu der Annahme, dass eine Funkanlage
+
+1. die Gesundheit oder Sicherheit von Menschen gefährdet,
+
+2. andere im öffentlichen Interesse stehende und durch dieses Gesetz geschützte Werte wie die effektive und effiziente Nutzung des Funkspektrums oder die Vermeidung funktechnischer oder elektromagnetischer Störungen gefährdet oder
+
+3. mindestens einer der anwendbaren grundlegenden Anforderungen nach § 4 nicht entspricht,
+
+so prüft sie, ob die Funkanlage den Anforderungen dieses Gesetzes genügt. Die Wirtschaftsakteure sind verpflichtet, zu diesem Zweck im erforderlichen Umfang mit der Bundesnetzagentur zusammenzuarbeiten.
 
 (2) Gelangt die Bundesnetzagentur zu dem Ergebnis, dass die Funkanlage den Anforderungen dieses Gesetzes nicht genügt, so fordert sie unverzüglich den betreffenden Wirtschaftsakteur auf, innerhalb einer von ihr festgesetzten, der Art der Gefahr angemessenen Frist alle geeigneten Maßnahmen zu ergreifen, damit die Funkanlage den Anforderungen dieses Gesetzes genügt oder um die Funkanlage zurückzunehmen oder zurückzurufen. Die Bundesnetzagentur unterrichtet die notifizierte Stelle, die das Konformitätsbewertungsverfahren für die Funkanlage durchgeführt hat, über das Ergebnis ihrer Prüfung.
 
@@ -463,7 +491,7 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 # § 28 – Maßnahmen bei formaler Nichtkonformität
 
-(1) Stellt die Bundesnetzagentur eine formale Nichtkonformität fest, so fordert sie den betreffenden Wirtschaftsakteur auf, die Nichtkonformität innerhalb einer angemessenen Frist zu korrigieren.
+(1) Unbeschadet des § 24 fordert die Bundesnetzagentur, wenn sie eine formale Nichtkonformität feststellt, den betreffenden Wirtschaftsakteur auf, die Nichtkonformität innerhalb einer angemessenen Frist zu korrigieren.
 
 (2) Formale Nichtkonformität liegt vor, wenn
 
@@ -475,13 +503,23 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 4. die technischen Unterlagen nicht verfügbar oder nicht vollständig sind,
 
-5. die Angaben des Herstellers nach § 10 Absatz 1 und 2 oder des Einführers nach § 13 Absatz 1 fehlen oder falsch oder unvollständig sind,
+5. das Piktogramm nach § 4a Absatz 2 oder das Etikett gemäß § 20 Absatz 6 nicht ordnungsgemäß erstellt wurde,
 
-6. die Anforderungen des § 16 an die Identifizierung der Wirtschaftsakteure nicht erfüllt werden,
+6. das Etikett gemäß § 20 Absatz 6 nicht beigelegt wurde,
 
-7. die Anforderungen des § 6 an die Registrierung von Funkanlagen bestimmter Kategorien nicht erfüllt sind oder
+7. das Piktogramm oder das Etikett nicht gemäß § 4a Absatz 2 beziehungsweise § 20 Absatz 6 angebracht oder abgebildet wurde,
 
-8. eine andere formale Verpflichtung nach den §§ 9, 10, 12 oder 13 nicht erfüllt ist.
+8. die Angaben des Herstellers nach § 10 Absatz 1 und 2 oder des Einführers nach § 13 Absatz 1 fehlen oder falsch oder unvollständig sind,
+
+9. die in § 20 Absatz 1, 3 und 5 genannten Informationen, die in § 20 Absatz 2 genannten Informationen über die EU-Konformitätserklärung oder die in § 20 Absatz 4 genannten Informationen über Nutzungsbeschränkungen der Funkanlage nicht beiliegen,
+
+10. die Anforderungen des § 16 an die Identifizierung der Wirtschaftsakteure nicht erfüllt werden,
+
+11. die Anforderungen des § 4a Absatz 1 an die Möglichkeit für Verbraucher und andere Endnutzer, bestimmte Kategorien oder Klassen von Funkanlagen ohne Ladenetzteile zu erwerben, nicht erfüllt werden,
+
+12. die Anforderungen des § 6 an die Registrierung von Funkanlagen bestimmter Kategorien nicht erfüllt sind oder
+
+13. eine andere formale Verpflichtung nach den §§ 9, 10, 12 oder 13 nicht erfüllt ist.
 
 (3) Ergreift der Wirtschaftsakteur innerhalb der gesetzten Frist keine geeigneten Korrekturmaßnahmen, so trifft die Bundesnetzagentur alle geeigneten Maßnahmen, um die Bereitstellung der Funkanlage auf dem Markt zu beschränken, oder sie untersagt die Bereitstellung auf dem Markt oder sorgt dafür, dass die Funkanlage zurückgenommen oder zurückgerufen wird. § 25 Absatz 1 Satz 2 gilt entsprechend.
 
@@ -625,4 +663,6 @@ Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach § 24 Absatz 2 
 
 # § 38 – Übergangsbestimmung
 
-Funkanlagen, auf die dieses Gesetz anzuwenden ist und die mit den bis zum 13. Juni 2016 geltenden Bestimmungen in Einklang stehen und vor dem 13. Juni 2017 in Verkehr gebracht werden, dürfen auf dem Markt bereitgestellt und in Betrieb genommen werden. Funkanlagen, die mit bislang geltenden harmonisierten Normen übereinstimmen, dürfen auch nach dem 12. Juni 2017 bis zur Veröffentlichung aktueller harmonisierter Normen in Verkehr gebracht werden.
+(1) Funkanlagen, auf die dieses Gesetz anzuwenden ist und die mit den bis zum 13. Juni 2016 geltenden Bestimmungen in Einklang stehen und vor dem 13. Juni 2017 in Verkehr gebracht werden, dürfen auf dem Markt bereitgestellt und in Betrieb genommen werden.
+
+(2) Funkanlagen im Sinne des Anhangs Ia Teil I Nummer 1.1 bis 1.12 der Richtlinie 2014/53/EU, die vor dem 28. Dezember 2024 in Verkehr gebracht werden, müssen die Anforderungen nach § 4 Absatz 4, den §§ 4a, 12 Absatz 7, nach § 14 Absatz 6 und § 20 Absatz 5 und 6 nicht erfüllen. Das gilt ebenso für Funkanlagen im Sinne des Anhangs Ia Teil I Nummer 1.13 der Richtlinie 2014/53/EU, die vor dem 28. April 2026 in Verkehr gebracht wurden.

@@ -38,7 +38,7 @@
 
 # § 3 – Aufgabe
 
-(1) Die Deutsche Welle bietet für das Ausland Rundfunk (Hörfunk, Fernsehen) und Telemedien an.
+(1) Die Deutsche Welle bietet für das Ausland Rundfunk (Hörfunk, Fernsehen) und digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes an.
 
 (2) Die Angebote der Deutschen Welle werden in deutscher Sprache sowie auch in anderen Sprachen verbreitet.
 
@@ -130,7 +130,7 @@ Im Fall der Nummer 2 gilt § 131 Abs. 2 des Strafgesetzbuches entsprechend. Im F
 
 (9) Auf Antrag des Intendanten kann der Rundfunkrat der Deutschen Welle von der Vermutung nach Absatz 2 abweichen. Dies gilt insbesondere für Angebote, deren Bewertung länger als 15 Jahre zurückliegt. Die obersten Landesjugendbehörden sind von der abweichenden Bewertung zu unterrichten.
 
-(10) Die Absätze 1 und 4 gelten nicht für Nachrichtensendungen, Sendungen zum politischen Zeitgeschehen im Rundfunk und vergleichbare Angebote bei Telemedien, soweit ein berechtigtes Interesse gerade an dieser Form der Darstellung oder Berichterstattung vorliegt.
+(10) Die Absätze 1 und 4 gelten nicht für Nachrichtensendungen, Sendungen zum politischen Zeitgeschehen im Rundfunk und vergleichbare Angebote bei digitalen Diensten, soweit ein berechtigtes Interesse gerade an dieser Form der Darstellung oder Berichterstattung vorliegt.
 
 # § 7 – Jugendschutzbeauftragte/Jugendschutzbeauftragter
 
@@ -170,7 +170,7 @@ Im Fall der Nummer 2 gilt § 131 Abs. 2 des Strafgesetzbuches entsprechend. Im F
 
 4. von Dritten erwirbt (Fremdproduktionen).
 
-(2) Zur Darstellung der Vielfalt im deutschsprachigen und europäischen Raum und zur Förderung von europäischen Film- und Fernsehproduktionen soll die Deutsche Welle den Hauptanteil ihrer insgesamt für Spielfilme, Fernsehspiele, Serien, Dokumentarsendungen und vergleichbare Produktionen vorgesehenen Sendezeit europäischen Werken entsprechend dem europäischen Recht vorbehalten. Die Deutsche Welle stellt in ihrem Angebot audiovisueller Mediendienste auf Abruf im Sinne des § 2 Satz 1 Nummer 8 des Telemediengesetzes sicher, dass der Anteil europäischer Werke mindestens 30 Prozent entspricht und solche Werke herausgestellt werden.
+(2) Zur Darstellung der Vielfalt im deutschsprachigen und europäischen Raum und zur Förderung von europäischen Film- und Fernsehproduktionen soll die Deutsche Welle den Hauptanteil ihrer insgesamt für Spielfilme, Fernsehspiele, Serien, Dokumentarsendungen und vergleichbare Produktionen vorgesehenen Sendezeit europäischen Werken entsprechend dem europäischen Recht vorbehalten. Die Deutsche Welle stellt in ihrem Angebot audiovisueller Mediendienste auf Abruf im Sinne des § 1 Absatz 4 Nummer 6 des Digitale-Dienste-Gesetzes sicher, dass der Anteil europäischer Werke mindestens 30 Prozent entspricht und solche Werke herausgestellt werden.
 
 (3) Die Spielfilme, Fernsehspiele, Serien, Dokumentarsendungen und vergleichbaren Produktionen der Deutschen Welle sollen jeweils einen angemessenen Anteil an Eigen- und Gemeinschaftsproduktionen sowie an europäischen Werken von unabhängigen Herstellern enthalten. Unter den Werken unabhängiger Hersteller soll eine angemessene Quote neueren Produktionen vorbehalten sein, die innerhalb eines Zeitraums von fünf Jahren nach ihrer Herstellung ausgestrahlt werden.
 
@@ -180,7 +180,7 @@ Im Fall der Nummer 2 gilt § 131 Abs. 2 des Strafgesetzbuches entsprechend. Im F
 
 # § 10 – Werbung
 
-(1) Werbung ist jede Äußerung, die der unmittelbaren oder mittelbaren Förderung des Absatzes von Waren und Dienstleistungen, einschließlich unbeweglicher Sachen, Rechte und Verpflichtungen, oder des Erscheinungsbilds natürlicher oder juristischer Personen, die einer wirtschaftlichen Tätigkeit nachgehen, dient und gegen Entgelt oder eine ähnliche Gegenleistung oder als Eigenwerbung im Rundfunk oder in einem Telemedium aufgenommen ist. Werbung ist insbesondere Rundfunkwerbung, Sponsern und Produktplatzierung.
+(1) Werbung ist jede Äußerung, die der unmittelbaren oder mittelbaren Förderung des Absatzes von Waren und Dienstleistungen, einschließlich unbeweglicher Sachen, Rechte und Verpflichtungen, oder des Erscheinungsbilds natürlicher oder juristischer Personen, die einer wirtschaftlichen Tätigkeit nachgehen, dient und gegen Entgelt oder eine ähnliche Gegenleistung oder als Eigenwerbung im Rundfunk oder in einem digitalen Dienst nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes aufgenommen ist. Werbung ist insbesondere Rundfunkwerbung, Sponsern und Produktplatzierung.
 
 (2) Werbung darf nicht die Menschenwürde verletzen oder Diskriminierungen aufgrund von Geschlecht, Rasse oder ethnischer Herkunft, Staatsangehörigkeit, Religion oder Glauben, Behinderung, Alter oder sexueller Orientierung beinhalten oder fördern.
 
@@ -234,7 +234,7 @@ f) Die Höhe des Alkoholgehalts von Getränken darf nicht als positive Eigenscha
 
 # § 11 – Sponsern
 
-(1) Sponsern ist der Beitrag einer natürlichen oder juristischen Person oder einer Personenvereinigung, die an Rundfunktätigkeiten, an der Bereitstellung von Telemedien oder an der Produktion audiovisueller Werke nicht beteiligt ist, zur direkten oder indirekten Finanzierung von Telemedien oder einer Sendung, um den Namen, die Marke, das Erscheinungsbild der Person, ihre Tätigkeit oder ihre Leistungen zu fördern.
+(1) Sponsern ist der Beitrag einer natürlichen oder juristischen Person oder einer Personenvereinigung, die an Rundfunktätigkeiten, an der Bereitstellung von digitalen Diensten nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes oder an der Produktion audiovisueller Werke nicht beteiligt ist, zur direkten oder indirekten Finanzierung von digitalen Diensten nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes oder einer Sendung, um den Namen, die Marke, das Erscheinungsbild der Person, ihre Tätigkeit oder ihre Leistungen zu fördern.
 
 (2) Bei Angeboten, die ganz oder teilweise gesponsert werden, muss zu Beginn und am Ende auf die Finanzierung durch den Sponsor in vertretbarer Kürze deutlich hingewiesen werden; der Hinweis ist in diesem Rahmen auch durch Bewegtbild möglich. Neben oder an Stelle des Namens des Sponsors kann auch dessen Firmenemblem oder eine Marke eingeblendet werden.
 

@@ -5570,6 +5570,7 @@
 - [TAV](laws/TAV.md) Verordnung über die von den Traumaambulanzen in der Sozialen Entschädigung zu erfüllenden Qualitätskriterien und die Pflichten der Traumaambulanz
 - [TBelV](laws/TBelV.md) Verordnung über die Übertragung der Führung des Transparenzregisters
 - [TBetrWPrV](laws/TBetrWPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
+- [TDDDG](laws/TDDDG.md) Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei digitalen Diensten *
 - [TdDtEinhBPräsProk](laws/TdDtEinhBPräsProk.md) Proklamation des Bundespräsidenten
 - [TechFachwPrV](laws/TechFachwPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin
 - [TechKontrollV](laws/TechKontrollV.md) Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße
@@ -5702,7 +5703,6 @@
 - [TSEVorsorgV](laws/TSEVorsorgV.md) Verordnung über die Tötung von Rindern, Schafen und Ziegen zur Vorsorge für die menschliche und tierische Gesundheit im Hinblick auf Transmissible Spongiforme Enzephalopathien
 - [TSG](laws/TSG.md) Gesetz über die Änderung der Vornamen und die Feststellung der Geschlechtszugehörigkeit in besonderen Fällen
 - [TspV](laws/TspV.md) Verordnung über die Zulassung des Befahrens der Eder- und der Diemeltalsperre sowie die Abwehr strom- und schifffahrtspolizeilicher Gefahren
-- [TTDSG](laws/TTDSG.md) Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei Telemedien *
 - [TÜPrKostO1992GebVAnpV](laws/TÜPrKostO1992GebVAnpV.md) Verordnung zur Anpassung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen
 - [TÜPrKostO1992GebVAnpV 2](laws/TÜPrKostO1992GebVAnpV_2.md) Zweite Verordnung zur Anpassung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen
 - [TÜPrKostO1992GebVUmstV](laws/TÜPrKostO1992GebVUmstV.md) Verordnung zur Umstellung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen auf Euro

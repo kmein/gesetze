@@ -39,7 +39,7 @@ b) eine natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die 
 
 für die Vertragsverhandlungen und den Vertragsschluss ausschließlich Fernkommunikationsmittel verwenden, es sei denn, dass der Vertragsschluss nicht im Rahmen eines für den Fernabsatz organisierten Vertriebs- oder Dienstleistungssystems erfolgt,
 
-13. Fernkommunikationsmittel: Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrages eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge, Telekopien, E-Mails oder Telemedien.
+13. Fernkommunikationsmittel: Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrages eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge, Telekopien, E-Mails oder digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes.
 
 (+++ Vgl. Anwendungsregelung zu § 37c +++)
 

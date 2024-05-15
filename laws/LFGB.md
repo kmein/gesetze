@@ -983,7 +983,7 @@ den zuständigen Behörden der Länder auf deren Anforderung die ihm aus der Beo
 
 (4) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Verfahrens der Datenübermittlung zu regeln.
 
-# § 38b – Unterrichtung von Telemediendiensteanbietern
+# § 38b – Unterrichtung von Anbietern digitaler Dienste
 
 (1) Erfolgt zu einem Erzeugnis, das im Inland in den Verkehr gebracht worden ist, eine Meldung
 
@@ -991,9 +991,9 @@ den zuständigen Behörden der Länder auf deren Anforderung die ihm aus der Beo
 
 2. nach Artikel 11 oder 12 der Richtlinie 2001/95/EG des Europäischen Parlaments und des Rates vom 3. Dezember 2001 über die allgemeine Produktsicherheit (ABl. L 11 vom 15.1.2002, S. 4), die zuletzt durch die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist,
 
-so kann die zuständige Behörde denjenigen Diensteanbietern nach § 2 Satz 1 Nummer 1 des Telemediengesetzes vom 26. Februar 2007 (BGBl. I S. 179), das zuletzt durch Artikel 2 des Gesetzes vom 3. Juni 2021 (BGBl. I S. 1436) geändert worden ist, deren Dienste für den Vertrieb des Erzeugnisses genutzt werden, die zur Identifizierung des Erzeugnisses sowie des Herstellers oder Inverkehrbringers erforderlichen Informationen sowie den Grund der Meldung übermitteln.
+so kann die zuständige Behörde denjenigen Diensteanbietern nach § 1 Absatz 1 des Digitale-Dienste-Gesetzes, deren Dienste für den Vertrieb des Erzeugnisses genutzt werden, die zur Identifizierung des Erzeugnisses sowie des Herstellers oder Inverkehrbringers erforderlichen Informationen sowie den Grund der Meldung übermitteln.
 
-(2) Zuständige Behörde nach Absatz 1 ist die Behörde, in deren Bezirk der Diensteanbieter nach § 2a des Telemediengesetzes seinen Sitz hat. Hat der Diensteanbieter keinen Sitz im Inland, so ist das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zuständige Behörde.
+(2) Zuständige Behörde nach Absatz 1 ist die Behörde, in deren Bezirk der Diensteanbieter nach § 2 des Digitale-Dienste-Gesetzes seinen Sitz hat. Hat der Diensteanbieter keinen Sitz im Inland, so ist das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zuständige Behörde.
 
 (3) Bevor die zuständige Behörde Angaben nach Absatz 1 übermittelt, hat sie den Hersteller oder Inverkehrbringer anzuhören. Satz 1 gilt nicht, sofern hierdurch die Erreichung des mit der Maßnahme verfolgten Zwecks gefährdet wird.
 

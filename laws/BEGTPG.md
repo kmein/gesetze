@@ -13,9 +13,11 @@ Die auf der Grundlage des Zehnten Teils des Telekommunikationsgesetzes vom 25. J
 
 2. des Telekommunikationsrechts,
 
-3. des Postrechts sowie
+3. des Postrechts,
 
-4. des Rechts des Zuganges zur Eisenbahninfrastruktur nach Maßgabe des Bundeseisenbahnverkehrsverwaltungsgesetzes
+4. des Rechts des Zuganges zur Eisenbahninfrastruktur nach Maßgabe des Bundeseisenbahnverkehrsverwaltungsgesetzes sowie
+
+5. des Rechts der digitalen Dienste nach Maßgabe des Digitale-Dienste-Gesetzes
 
 tätig.
 

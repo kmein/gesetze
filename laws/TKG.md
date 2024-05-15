@@ -261,7 +261,7 @@ e) sicherstellen, dass im Bereich der Telekommunikation keine Wettbewerbsverzerr
 
 (6) Die Belange der Behörden und Organisationen mit Sicherheitsaufgaben des Bundes und der Länder sind zu berücksichtigen, ebenso nach Maßgabe dieses Gesetzes die Belange der Bundeswehr.
 
-(7) Die Belange des Rundfunks und vergleichbarer Telemedien sind unabhängig von der Art der Übertragung zu berücksichtigen. Die medienrechtlichen Bestimmungen der Länder bleiben unberührt.
+(7) Die Belange des Rundfunks und vergleichbarer digitaler Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes sind unabhängig von der Art der Übertragung zu berücksichtigen. Die medienrechtlichen Bestimmungen der Länder bleiben unberührt.
 
 # § 3 – Begriffsbestimmungen
 
@@ -317,7 +317,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 25. „Kennung“ einem Nutzer, einem Anschluss oder einem Endgerät zu einem bestimmten Zeitpunkt zugewiesene eindeutige Zeichenfolge, die eine eindeutige Identifizierung des Nutzers, des Anschlusses oder des Endgerätes ermöglicht;
 
-26. „Kurzwahl-Datendienste“ Kurzwahldienste, die der Übermittlung von nichtsprachgestützten Inhalten mittels Telekommunikation dienen und die keine Telemedien sind;
+26. „Kurzwahl-Datendienste“ Kurzwahldienste, die der Übermittlung von nichtsprachgestützten Inhalten mittels Telekommunikation dienen und die keine digitalen Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes sind;
 
 27. „Kurzwahldienste“ Dienste, die die Merkmale eines Premium-Dienstes haben, jedoch eine spezielle Nummernart mit kurzen Nummern nutzen;
 
@@ -4047,7 +4047,7 @@ Satz 1 gilt entsprechend
 
 1. bei der Übermittlung einer Kurz-, Multimedia- oder ähnlichen Nachricht; hierbei treten an die Stelle der Angaben nach Satz 1 Nummer 2 die Zeitpunkte der Versendung und des Empfangs der Nachricht;
 
-2. für unbeantwortete oder wegen eines Eingriffs des Netzwerkmanagements erfolglose Anrufe, soweit der Anbieter öffentlich zugänglicher Sprachkommunikationsdienste die in Satz 1 genannten Verkehrsdaten für die in § 9 des Telekommunikation-Telemedien-Datenschutz-Gesetzes genannten Zwecke speichert oder protokolliert.
+2. für unbeantwortete oder wegen eines Eingriffs des Netzwerkmanagements erfolglose Anrufe, soweit der Anbieter öffentlich zugänglicher Sprachkommunikationsdienste die in Satz 1 genannten Verkehrsdaten für die in § 9 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes genannten Zwecke speichert oder protokolliert.
 
 (3) Die Anbieter öffentlich zugänglicher Internetzugangsdienste speichern
 
@@ -4061,7 +4061,7 @@ Satz 1 gilt entsprechend
 
 (5) Der Inhalt der Kommunikation, Daten über aufgerufene Internetseiten und Daten von Diensten der elektronischen Post dürfen aufgrund dieser Vorschrift nicht gespeichert werden.
 
-(6) Daten, die den in § 11 Absatz 5 des Telekommunikation-Telemedien-Datenschutz-Gesetzes genannten Verbindungen zugrunde liegen, dürfen aufgrund dieser Vorschrift nicht gespeichert werden. Dies gilt entsprechend für Telefonverbindungen, die von den in § 11 Absatz 5 des Telekommunikation-Telemedien-Datenschutz-Gesetzes genannten Stellen ausgehen. § 11 Absatz 6 des Telekommunikation-Telemedien-Datenschutz-Gesetzes gilt entsprechend.
+(6) Daten, die den in § 11 Absatz 5 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes genannten Verbindungen zugrunde liegen, dürfen aufgrund dieser Vorschrift nicht gespeichert werden. Dies gilt entsprechend für Telefonverbindungen, die von den in § 11 Absatz 5 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes genannten Stellen ausgehen. § 11 Absatz 6 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes gilt entsprechend.
 
 (7) Die Speicherung der Daten hat so zu erfolgen, dass Auskunftsersuchen der berechtigten Stellen unverzüglich beantwortet werden können.
 
@@ -4323,9 +4323,9 @@ rechtzeitig vor Abschluss des Verfahrens Gelegenheit zur Stellungnahme.
 
 (5) Beide Behörden wirken auf eine einheitliche und den Zusammenhang mit dem Gesetz gegen Wettbewerbsbeschränkungen wahrende Auslegung dieses Gesetzes, auch beim Erlass von Verwaltungsvorschriften, hin. Sie haben einander Beobachtungen und Feststellungen mitzuteilen, die für die Erfüllung der beiderseitigen Aufgaben von Bedeutung sein können.
 
-(6) Die Bundesnetzagentur arbeitet mit den Landesmedienanstalten zusammen. Auf Anfrage übermittelt sie den Landesmedienanstalten Erkenntnisse, die für die Erfüllung von deren Aufgaben erforderlich sind. Im Falle einer Betroffenheit von Belangen von Rundfunk und vergleichbaren Telemedien nach § 2 Absatz 7 Satz 1, wird die zuständige Landesmedienanstalt hierüber informiert und an eingeleiteten Verfahren beteiligt. Auf Antrag der zuständigen Landesmedienanstalt prüft die Bundesnetzagentur auf der Grundlage dieses Gesetzes die Einleitung eines Verfahrens und die Anordnung von Maßnahmen nach diesem Gesetz.
+(6) Die Bundesnetzagentur arbeitet mit den Landesmedienanstalten zusammen. Auf Anfrage übermittelt sie den Landesmedienanstalten Erkenntnisse, die für die Erfüllung von deren Aufgaben erforderlich sind. Im Falle einer Betroffenheit von Belangen von Rundfunk und vergleichbaren digitalen Diensten nach § 2 Absatz 7 Satz 1, wird die zuständige Landesmedienanstalt hierüber informiert und an eingeleiteten Verfahren beteiligt. Auf Antrag der zuständigen Landesmedienanstalt prüft die Bundesnetzagentur auf der Grundlage dieses Gesetzes die Einleitung eines Verfahrens und die Anordnung von Maßnahmen nach diesem Gesetz.
 
-(7) Bei der Wahrnehmung ihrer Aufgaben und Befugnisse nach Artikel 5 der Verordnung (EU) 2015/2120 arbeitet die Bundesnetzagentur, soweit Belange des Rundfunks und vergleichbarer Telemedien nach § 2 Absatz 7 Satz 1 betroffen sind, mit der nach dem jeweiligen Landesrecht zuständigen Stelle zusammen.
+(7) Bei der Wahrnehmung ihrer Aufgaben und Befugnisse nach Artikel 5 der Verordnung (EU) 2015/2120 arbeitet die Bundesnetzagentur, soweit Belange des Rundfunks und vergleichbarer digitaler Dienste nach § 2 Absatz 7 Satz 1 betroffen sind, mit der nach dem jeweiligen Landesrecht zuständigen Stelle zusammen.
 
 # § 198 – Zusammenarbeit mit anderen Behörden auf der Ebene der Europäischen Union
 

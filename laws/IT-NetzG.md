@@ -15,7 +15,7 @@
 
 # § 2 – Begriffsbestimmungen
 
-(1) Informationstechnische Netze im Sinne dieses Gesetzes sind die Gesamtheit von Übertragungssystemen und gegebenenfalls Vermittlungs- und Leitwegeinrichtungen sowie anderweitigen Ressourcen, die die Übertragung von Signalen ermöglichen. Ausgenommen sind Telemedien, Rundfunk sowie Sprechfunk- und Telefonnetze.
+(1) Informationstechnische Netze im Sinne dieses Gesetzes sind die Gesamtheit von Übertragungssystemen und gegebenenfalls Vermittlungs- und Leitwegeinrichtungen sowie anderweitigen Ressourcen, die die Übertragung von Signalen ermöglichen. Ausgenommen sind digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes, Rundfunk sowie Sprechfunk- und Telefonnetze.
 
 (2) Verbindungsnetz im Sinne dieses Gesetzes ist das informationstechnische Netz, welches die informationstechnischen Netze des Bundes und der Länder verbindet. Die Übergabepunkte zu den jeweils verbundenen Netzen werden gemeinsam vereinbart.
 
