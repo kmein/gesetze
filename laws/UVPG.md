@@ -1112,7 +1112,8 @@ b) der Umweltverträglichkeitsprüfungen, die im Betrachtungszeitraum für Vorha
 
 # Anlage 1 – Liste „UVP-pflichtige Vorhaben“
 
-(Fundstelle: BGBl. I 2021, 565 – 582)
+(Fundstelle: BGBl. I 2021, 565 – 582;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   

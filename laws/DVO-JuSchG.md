@@ -11,7 +11,7 @@ Sitz der Prüfstelle für jugendgefährdende Medien ist Bonn.
 
 # § 2 – Beginn des Verfahrens
 
-(1) Der Antrag auf Aufnahme eines Mediums in die Liste jugendgefährdender Medien (Liste) muss schriftlich oder elektronisch gestellt und begründet werden. Dem Antrag sollen bei Trägermedien mindestens ein Exemplar und bei Telemedien mindestens die technischen Zugangsdaten zu den Telemedienangeboten beigefügt werden. Wird der Antrag durch Telefax oder elektronisch übermittelt, so können die erforderlichen Anlagen nachgereicht werden.
+(1) Der Antrag auf Aufnahme eines Mediums in die Liste jugendgefährdender Medien (Liste) muss schriftlich oder elektronisch gestellt und begründet werden. Dem Antrag sollen bei Trägermedien mindestens ein Exemplar und bei digitalen Diensten mindestens die technischen Zugangsdaten zu den Angeboten der digitalen Dienste beigefügt werden. Wird der Antrag durch Telefax oder elektronisch übermittelt, so können die erforderlichen Anlagen nachgereicht werden.
 
 (2) Die Anregung auf Aufnahme eines Mediums in die Liste soll schriftlich begründet werden. Absatz 1 Satz 2 und 3 gilt entsprechend. Erfolgt die Anregung durch einen anerkannten Träger der freien Jugendhilfe, soll dieser seine Anerkennung nach § 75 des Achten Buches Sozialgesetzbuch nachweisen. Die Begründung sowie der Nachweis der Anerkennung können auch durch Telefax oder elektronisch übermittelt werden.
 
@@ -29,7 +29,7 @@ Werden wegen desselben Mediums mehrere Anträge gestellt oder Anregungen eingere
 
 3. die Inhaberin oder der Inhaber der Nutzungsrechte.
 
-Bei Telemedien sind zusätzlich die Anbieterin oder der Anbieter Beteiligte im Sinne des Satz 1.
+Bei digitalen Diensten sind zusätzlich die Anbieterin oder der Anbieter Beteiligte im Sinne des Satz 1.
 
 (2) Anregende im Sinne dieser Verordnung sind die in § 21 Absatz 4 des Jugendschutzgesetzes genannten zur Verfahrensanregung berechtigten Stellen und die zu deren Vertretung berechtigten Personen.
 
@@ -145,19 +145,19 @@ Die Bundeszentrale für Kinder- und Jugendmedienschutz hat den als öffentlich g
 
 # § 14 – Zusammenarbeit mit der Kommission für Jugendmedienschutz
 
-(1) Die Prüfstelle für jugendgefährdende Medien hat vor der Entscheidung über die Aufnahme eines Telemediums in die Liste nur dann keine Stellungnahme der Kommission für Jugendmedienschutz nach § 21 Absatz 6 Satz 1 des Jugendschutzgesetzes einzuholen, wenn diese hierüber bereits entschieden und die Prüfstelle für jugendgefährdende Medien benachrichtigt hat.
+(1) Die Prüfstelle für jugendgefährdende Medien hat vor der Entscheidung über die Aufnahme eines digitalen Dienstes in die Liste nur dann keine Stellungnahme der Kommission für Jugendmedienschutz nach § 21 Absatz 6 Satz 1 des Jugendschutzgesetzes einzuholen, wenn diese hierüber bereits entschieden und die Prüfstelle für jugendgefährdende Medien benachrichtigt hat.
 
-(2) Zur Mitteilung von Entscheidungen über die Aufnahme eines Telemediums in die Liste nach § 24 Absatz 4 des Jugendschutzgesetzes holt die Bundeszentrale für Kinder- und Jugendmedienschutz von der Kommission für Jugendmedienschutz eine Übersicht über die anerkannten Einrichtungen der Selbstkontrolle und eine Übersicht der aus Mitteln der Länder oder der Landesmedienanstalten geförderten Internet-Beschwerdestellen ein.
+(2) Zur Mitteilung von Entscheidungen über die Aufnahme eines digitalen Dienstes in die Liste nach § 24 Absatz 4 des Jugendschutzgesetzes holt die Bundeszentrale für Kinder- und Jugendmedienschutz von der Kommission für Jugendmedienschutz eine Übersicht über die anerkannten Einrichtungen der Selbstkontrolle und eine Übersicht der aus Mitteln der Länder oder der Landesmedienanstalten geförderten Internet-Beschwerdestellen ein.
 
-(3) Zur Gewährleistung einer effektiven Zusammenarbeit informiert die Bundeszentrale für Kinder- und Jugendmedienschutz die Kommission für Jugendmedienschutz neben Entscheidungen der Prüfstelle für jugendgefährdende Medien über die Listenaufnahme von Telemedien auch über damit zusammenhängende relevante Fragen und Ereignisse.
+(3) Zur Gewährleistung einer effektiven Zusammenarbeit informiert die Bundeszentrale für Kinder- und Jugendmedienschutz die Kommission für Jugendmedienschutz neben Entscheidungen der Prüfstelle für jugendgefährdende Medien über die Listenaufnahme von digitalen Diensten auch über damit zusammenhängende relevante Fragen und Ereignisse.
 
 # § 15 – Mitteilungspflichten
 
 (1) Wird ein Trägermedium in die Liste jugendgefährdender Medien aufgenommen, die Aufnahme in die Liste jedoch nach § 24 Absatz 2a Satz 2 des Jugendschutzgesetzes nicht bekannt gemacht, so teilt die Bundeszentrale für Kinder- und Jugendmedienschutz den obersten Landesjugendbehörden den Zeitpunkt der Zustellung der Entscheidung mit.
 
-(2) Wird ein Telemedium in die Liste aufgenommen oder aus dieser gestrichen, so teilt die Bundeszentrale für Kinder- und Jugendmedienschutz der Kommission für Jugendmedienschutz den Zeitpunkt der Entscheidung mit.
+(2) Wird ein digitaler Dienst in die Liste aufgenommen oder aus dieser gestrichen, so teilt die Bundeszentrale für Kinder- und Jugendmedienschutz der Kommission für Jugendmedienschutz den Zeitpunkt der Entscheidung mit.
 
-(3) Bei erfolgloser Zustellung soll die Bundeszentrale für Kinder- und Jugendmedienschutz die Entscheidungen den im Bereich der Telemedien anerkannten Einrichtungen der Selbstkontrolle mitteilen.
+(3) Bei erfolgloser Zustellung soll die Bundeszentrale für Kinder- und Jugendmedienschutz die Entscheidungen den im Bereich der digitalen Dienste anerkannten Einrichtungen der Selbstkontrolle mitteilen.
 
 # § 16 – Inkrafttreten
 
