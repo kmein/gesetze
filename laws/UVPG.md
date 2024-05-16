@@ -295,7 +295,7 @@ Für die in Anlage 1 Nummer 18.5, 18.7 und 18.8 aufgeführten Industriezonen und
 
 (1) Bei Städtebauprojekten für Anlagen zur Nutzung solarer Strahlungsenergie im bisherigen Außenbereich im Sinne des § 35 des Baugesetzbuchs nach Anlage 1 Nummer 18.7 ist von der Durchführung einer Umweltverträglichkeitsprüfung abzusehen, wenn die Anlage zur Nutzung solarer Strahlungsenergie in einem Gebiet liegt, für das in einem Plan Anlagen zur Nutzung solarer Strahlungsenergie vorgesehen sind, und wenn bei Aufstellung dieses Plans eine Strategische Umweltprüfung durchgeführt wurde.
 
-(2) Absatz 1 ist auf bereits laufende und nach dem 29. März 2023 begonnene Zulassungsverfahren nur anzuwenden, wenn der Antragsteller dies gegenüber der zuständigen Behörde verlangt und den Antrag bis zum Ablauf des 30. Juni 2024 stellt. Satz 1 ist für das gesamte Zulassungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2024 abgeschlossen wird.
+(2) Absatz 1 ist auf bereits laufende und nach dem 29. März 2023 begonnene Zulassungsverfahren nur anzuwenden, wenn der Antragsteller dies gegenüber der zuständigen Behörde verlangt und den Antrag bis zum Ablauf des 30. Juni 2025 stellt. Satz 1 ist für das gesamte Zulassungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2025 abgeschlossen wird.
 
 # § 14c – Ersatzneubauten mit baulicher Erweiterung im Vorgriff auf einen späteren Ausbau
 

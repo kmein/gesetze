@@ -2289,7 +2289,7 @@ Eine Aufenthaltserlaubnis nach § 25 Absatz 4a Satz 1 soll auch dann widerrufen 
 
 (1) Das Ausweisungsinteresse im Sinne von § 53 Absatz 1 wiegt besonders schwer, wenn der Ausländer
 
-1. wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens zwei Jahren verurteilt worden ist oder bei der letzten rechtskräftigen Verurteilung Sicherungsverwahrung angeordnet worden ist,
+1. wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens zwei Jahren verurteilt worden ist oder bei der letzten rechtskräftigen Verurteilung Sicherungsverwahrung oder die Unterbringung in einem psychiatrischen Krankenhaus nach § 63 des Strafgesetzbuches angeordnet worden ist,
 
 1a. rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr verurteilt worden ist wegen einer oder mehrerer vorsätzlicher Straftaten
 
@@ -3271,7 +3271,7 @@ c) Maßnahmen nach § 9 Abs. 5 des Bundesvertriebenengesetzes;
 
 5a. Prüfung der Mitteilungen nach § 16c Absatz 1, § 18e Absatz 1 und § 19a Absatz 1 sowie Ausstellung der Bescheinigungen nach § 16c Absatz 4, § 18e Absatz 5 und § 19a Absatz 4 oder Ablehnung der Einreise und des Aufenthalts;
 
-6. Führung des Registers nach § 91a;
+6. Datenerhebung und verwendung im Fall vorübergehenden Schutzes;
 
 7. Koordinierung der Programme und Mitwirkung an Projekten zur Förderung der freiwilligen Rückkehr sowie Auszahlung hierfür bewilligter Mittel;
 
@@ -3745,7 +3745,7 @@ Angaben zum Umfang und zur Begründung der Förderung müssen ebenfalls erhoben 
 
 # § 87 – Übermittlungen an Ausländerbehörden
 
-(1) Öffentliche Stellen mit Ausnahme von Schulen sowie Bildungs- und Erziehungseinrichtungen haben ihnen bekannt gewordene Umstände den in § 86 Satz 1 genannten Stellen auf Ersuchen mitzuteilen, soweit dies für die dort genannten Zwecke erforderlich ist.
+(1) Öffentliche Stellen mit Ausnahme von Schulen sowie Bildungs- und Erziehungseinrichtungen haben ihnen bekannt gewordene Umstände den in § 86 Satz 1 genannten Stellen auf Ersuchen mitzuteilen, soweit dies für die dort genannten Zwecke erforderlich ist. Ein solches Ersuchen ist nur zulässig, sofern nicht ein Abruf von Daten aus dem Ausländerzentralregister für die Erfüllung der jeweiligen Aufgabe ausreichend ist.
 
 (2) Öffentliche Stellen im Sinne von Absatz 1 haben unverzüglich die zuständige Ausländerbehörde zu unterrichten, wenn sie im Zusammenhang mit der Erfüllung ihrer Aufgaben Kenntnis erlangen von
 
@@ -3753,15 +3753,17 @@ Angaben zum Umfang und zur Begründung der Förderung müssen ebenfalls erhoben 
 
 2. dem Verstoß gegen eine räumliche Beschränkung,
 
-2a. der Inanspruchnahme oder Beantragung von Sozialleistungen durch einen Ausländer, für sich selbst, seine Familienangehörigen oder für sonstige Haushaltsangehörige in den Fällen des § 7 Absatz 1 Satz 2 Nummer 2 oder Satz 4 des Zweiten Buches Sozialgesetzbuch oder in den Fällen des § 23 Absatz 3 Satz 1 Nummer 2 oder 3, Satz 3, 6 oder 7 des Zwölften Buches Sozialgesetzbuch oder
+2a. der Inanspruchnahme oder Beantragung von Sozialleistungen durch einen Ausländer, für sich selbst, seine Familienangehörigen oder für sonstige Haushaltsangehörige in den Fällen des § 7 Absatz 1 Satz 2 Nummer 2 oder Satz 4 des Zweiten Buches Sozialgesetzbuch oder in den Fällen des § 23 Absatz 3 Satz 1 Nummer 2 oder 3, Satz 3, 6 oder 7 des Zwölften Buches Sozialgesetzbuch, sofern die Inanspruchnahme nicht bereits im Ausländerzentralregister gespeichert ist,
 
-3. einem sonstigen Ausweisungsgrund;
+3. einem sonstigen Ausweisungsgrund oder
+
+4. einer ihrer Natur nach nicht nur vorübergehenden Ausreise des Ausländers, sofern diese nicht bereits im Ausländerzentralregister gespeichert ist;
 
 in den Fällen der Nummern 1 und 2 und sonstiger nach diesem Gesetz strafbarer Handlungen kann statt der Ausländerbehörde die zuständige Polizeibehörde unterrichtet werden, wenn eine der in § 71 Abs. 5 bezeichneten Maßnahmen in Betracht kommt; die Polizeibehörde unterrichtet unverzüglich die Ausländerbehörde. Öffentliche Stellen sollen unverzüglich die zuständige Ausländerbehörde unterrichten, wenn sie im Zusammenhang mit der Erfüllung ihrer Aufgaben Kenntnis erlangen von einer besonderen Integrationsbedürftigkeit im Sinne einer nach § 43 Abs. 4 erlassenen Rechtsverordnung. Die für Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch zuständigen Stellen sind über die in Satz 1 geregelten Tatbestände hinaus verpflichtet, der Ausländerbehörde mitzuteilen, wenn ein Ausländer mit einer Aufenthaltserlaubnis nach Kapitel 2 Abschnitt 3 oder 4 für sich oder seine Familienangehörigen entsprechende Leistungen beantragt. Die Auslandsvertretungen übermitteln der zuständigen Ausländerbehörde personenbezogene Daten eines Ausländers, die geeignet sind, dessen Identität oder Staatsangehörigkeit festzustellen, wenn sie davon Kenntnis erlangen, dass die Daten für die Durchsetzung der vollziehbaren Ausreisepflicht gegenüber dem Ausländer gegenwärtig von Bedeutung sein können.
 
 (3) Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration ist nach den Absätzen 1 und 2 zu Mitteilungen über einen diesem Personenkreis angehörenden Ausländer nur verpflichtet, soweit dadurch die Erfüllung der eigenen Aufgaben nicht gefährdet wird. Die Landesregierungen können durch Rechtsverordnung bestimmen, dass Ausländerbeauftragte des Landes und Ausländerbeauftragte von Gemeinden nach den Absätzen 1 und 2 zu Mitteilungen über einen Ausländer, der sich rechtmäßig in dem Land oder der Gemeinde aufhält oder der sich bis zum Erlass eines die Rechtmäßigkeit des Aufenthalts beendenden Verwaltungsaktes rechtmäßig dort aufgehalten hat, nur nach Maßgabe des Satzes 1 verpflichtet sind.
 
-(4) Die für die Einleitung und Durchführung eines Straf- oder eines Bußgeldverfahrens zuständigen Stellen haben die zuständige Ausländerbehörde unverzüglich über die Einleitung des Strafverfahrens sowie die Erledigung des Straf- oder Bußgeldverfahrens bei der Staatsanwaltschaft, bei Gericht oder bei der für die Verfolgung und Ahndung der Ordnungswidrigkeit zuständigen Verwaltungsbehörde unter Angabe der gesetzlichen Vorschriften zu unterrichten. Satz 1 gilt entsprechend bei Strafverfahren für die Erhebung der öffentlichen Klage sowie den Erlass und die Aufhebung eines Haftbefehls, solange dies nicht den Untersuchungszweck gefährdet. Satz 1 gilt entsprechend für die Einleitung eines Auslieferungsverfahrens gegen einen Ausländer. Satz 1 gilt nicht für Verfahren wegen einer Ordnungswidrigkeit, die nur mit einer Geldbuße bis zu eintausend Euro geahndet werden kann, sowie für Verfahren wegen einer Zuwiderhandlung im Sinne des § 24 des Straßenverkehrsgesetzes oder wegen einer fahrlässigen Zuwiderhandlung im Sinne des § 24a des Straßenverkehrsgesetzes. Die Zeugenschutzdienststelle unterrichtet die zuständige Ausländerbehörde unverzüglich über Beginn und Ende des Zeugenschutzes für einen Ausländer.
+(4) Die für die Einleitung und Durchführung eines Straf- oder eines Bußgeldverfahrens zuständigen Stellen haben die zuständige Ausländerbehörde unverzüglich über die Einleitung des Strafverfahrens sowie die Erledigung des Straf- oder Bußgeldverfahrens bei der Staatsanwaltschaft, bei Gericht oder bei der für die Verfolgung und Ahndung der Ordnungswidrigkeit zuständigen Verwaltungsbehörde unter Angabe der gesetzlichen Vorschriften zu unterrichten. Satz 1 gilt entsprechend bei Strafverfahren für die Erhebung der öffentlichen Klage, sowie den Erlass und die Aufhebung eines Haftbefehls sowie für dessen Invollzugsetzung und die Aussetzung des Vollzuges, solange dies nicht den Untersuchungszweck gefährdet. Satz 1 gilt entsprechend für die Einleitung eines Auslieferungsverfahrens gegen einen Ausländer. Satz 1 gilt nicht für Verfahren wegen einer Ordnungswidrigkeit, die nur mit einer Geldbuße bis zu eintausend Euro geahndet werden kann, sowie für Verfahren wegen einer Zuwiderhandlung im Sinne des § 24 des Straßenverkehrsgesetzes oder wegen einer fahrlässigen Zuwiderhandlung im Sinne des § 24a des Straßenverkehrsgesetzes. Die Zeugenschutzdienststelle unterrichtet die zuständige Ausländerbehörde unverzüglich über Beginn und Ende des Zeugenschutzes für einen Ausländer.
 
 (5) Die nach § 72 Abs. 6 zu beteiligenden Stellen haben den Ausländerbehörden
 
@@ -3903,51 +3905,17 @@ Die Ausländer- und Meldebehörden übermitteln einander jährlich die in § 90a
 
 (2) Mitteilungen nach § 87 Abs. 1, die für eine anstehende ausländerrechtliche Entscheidung unerheblich sind und voraussichtlich auch für eine spätere ausländerrechtliche Entscheidung nicht erheblich werden können, sind unverzüglich zu vernichten.
 
-# § 91a – Register zum vorübergehenden Schutz
+# § 91a – Datenerhebung und -verwendung im Fall vorübergehenden Schutzes
 
-(1) Das Bundesamt für Migration und Flüchtlinge führt ein Register über die Ausländer nach § 24 Abs. 1, die ein Visum oder eine Aufenthaltserlaubnis beantragt haben, und über deren Familienangehörige im Sinne des Artikels 15 Abs. 1 der Richtlinie 2001/55/EG zum Zweck der Aufenthaltsgewährung, der Verteilung der aufgenommenen Ausländer im Bundesgebiet, der Wohnsitzverlegung aufgenommener Ausländer in andere Mitgliedstaaten der Europäischen Union, der Familienzusammenführung und der Förderung der freiwilligen Rückkehr.
+(1) Die Daten zu Ausländern nach § 24 Absatz 1, die ein Visum oder eine Aufenthaltserlaubnis beantragt haben oder denen ein solches Visum oder eine solche Aufenthaltserlaubnis erteilt worden ist, und zu deren Familienangehörigen im Sinne des Artikels 15 Absatz 1 der Richtlinie 2001/55/EG werden im Ausländerzentralregister nach den dort geltenden Regelungen gespeichert. Der Umfang der nach Artikel 10 der Richtlinie 2001/55/EG zu speichernden Daten berücksichtigt die Vorgabe der Anlage II Buchstabe a der Richtlinie 2001/55/EG in der jeweils geltenden Fassung, soweit die Speicherung dieser Daten im Ausländerzentralregister grundsätzlich vorgesehen ist.
 
-(2) Folgende Daten werden in dem Register gespeichert:
+(2) Das Bundesamt für Migration und Flüchtlinge darf diese Daten zum Zweck der Aufenthaltsgewährung, der Verteilung der aufgenommenen Ausländer im Bundesgebiet, der Wohnsitzverlegung aufgenommener Ausländer in andere Mitgliedstaaten der Europäischen Union, der Familienzusammenführung und der Förderung der freiwilligen Rückkehr verwenden, sofern dies erforderlich ist.
 
-1. zum Ausländer:
-
-a) die Personalien, mit Ausnahme der früher geführten Namen und der Wohnanschrift im Inland, sowie der letzte Wohnort im Herkunftsland, die Herkunftsregion und freiwillig gemachte Angaben zur Religionszugehörigkeit,
-
-b) Angaben zum Beruf und zur beruflichen Ausbildung,
-
-c) das Eingangsdatum seines Antrages auf Erteilung eines Visums oder einer Aufenthaltserlaubnis, die für die Bearbeitung seines Antrages zuständige Stelle und Angaben zur Entscheidung über den Antrag oder den Stand des Verfahrens,
-
-d) Angaben zum Identitäts- und Reisedokument,
-
-e) die AZR-Nummer und die Visadatei-Nummer,
-
-f) Zielland und Zeitpunkt der Ausreise,
-
-2. die Personalien nach Nummer 1 Buchstabe a mit Ausnahme der freiwillig gemachten Angaben zur Religionszugehörigkeit der Familienangehörigen des Ausländers nach Absatz 1,
-
-3. Angaben zu Dokumenten zum Nachweis der Ehe, der Lebenspartnerschaft oder der Verwandtschaft.
-
-(3) Die Ausländerbehörden und die Auslandsvertretungen sind verpflichtet, die in Absatz 2 bezeichneten Daten unverzüglich an die Registerbehörde zu übermitteln, wenn
-
-1. eine Aufenthaltserlaubnis nach § 24 Abs. 1 oder
-
-2. ein Visum zur Inanspruchnahme vorübergehenden Schutzes im Bundesgebiet
-
-beantragt wurden.
-
-(4) Die §§ 8 und 9 des AZR-Gesetzes gelten entsprechend.
-
-(5) Die Daten dürfen auf Ersuchen an die Ausländerbehörden, Auslandsvertretungen und andere Organisationseinheiten des Bundesamtes für Migration und Flüchtlinge einschließlich der dort eingerichteten nationalen Kontaktstelle nach Artikel 27 Abs. 1 der Richtlinie 2001/55/EG zum Zweck der Erfüllung ihrer ausländer- und asylrechtlichen Aufgaben im Zusammenhang mit der Aufenthaltsgewährung, der Verteilung der aufgenommenen Ausländer im Bundesgebiet, der Wohnsitzverlegung aufgenommener Ausländer in andere Mitgliedstaaten der Europäischen Union, der Familienzusammenführung und der Förderung der freiwilligen Rückkehr übermittelt werden. Die Daten dürfen auf Ersuchen auch den Mitgliedsstaaten der Europäischen Union und der Europäischen Kommission übermittelt werden, um Aufgaben nach den Artikeln 10 und 27 Absatz 1 der Richtlinie 2001/55/EG zu erfüllen.
-
-(6) Die Registerbehörde hat über Datenübermittlungen nach Absatz 5 Aufzeichnungen zu fertigen. § 13 des AZR-Gesetzes gilt entsprechend.
-
-(7) Die Datenübermittlungen nach den Absätzen 3 und 5 erfolgen schriftlich, elektronisch oder im automatisierten Verfahren. § 22 Abs. 2 bis 4 des AZR-Gesetzes gilt entsprechend.
-
-(8) Die Daten sind spätestens zwei Jahre nach Beendigung des vorübergehenden Schutzes des Ausländers zu löschen. Für die Auskunft an die betroffene Person und für die Einschränkung der Verarbeitung der Daten gelten § 34 Abs. 1 und 2 und § 37 des AZR-Gesetzes entsprechend.
+(3) Die Daten dürfen auf Ersuchen auch den Mitgliedstaaten der Europäischen Union und der Europäischen Kommission übermittelt werden, um Aufgaben nach Artikel 27 Absatz 1 der Richtlinie 2001/55/EG zu erfüllen.
 
 # § 91b – Datenübermittlung durch das Bundesamt für Migration und Flüchtlinge als nationale Kontaktstelle
 
-Das Bundesamt für Migration und Flüchtlinge als nationale Kontaktstelle nach Artikel 27 Abs. 1 der Richtlinie 2001/55/EG darf die Daten des Registers nach § 91a zum Zweck der Verlegung des Wohnsitzes aufgenommener Ausländer in andere Mitgliedstaaten der Europäischen Union oder zur Familienzusammenführung an folgende Stellen übermitteln:
+Das Bundesamt für Migration und Flüchtlinge als nationale Kontaktstelle nach Artikel 27 Abs. 1 der Richtlinie 2001/55/EG darf die Daten des Ausländerzentralregisters zum Zweck der Verlegung des Wohnsitzes aufgenommener Ausländer in andere Mitgliedstaaten der Europäischen Union oder zur Familienzusammenführung an folgende Stellen übermitteln:
 
 1. nationale Kontaktstellen anderer Mitgliedstaaten der Europäischen Union,
 
@@ -4033,9 +4001,9 @@ Wenn eine Ausländerbehörde die Entscheidung getroffen hat, übermittelt sie de
 
 (5) Wird ein Aufenthaltstitel nach § 16b Absatz 1, den §§ 16e, 18d oder 19e widerrufen, zurückgenommen, nicht verlängert oder läuft er nach einer Verkürzung der Frist gemäß § 7 Absatz 2 Satz 2 ab, so unterrichtet das Bundesamt für Migration und Flüchtlinge unverzüglich die zuständigen Behörden des anderen Mitgliedstaates, sofern sich der Ausländer dort im Rahmen des Anwendungsbereichs der Richtlinie (EU) 2016/801 aufhält und dies dem Bundesamt für Migration und Flüchtlinge bekannt ist. Die Ausländerbehörde, die die Entscheidung getroffen hat, übermittelt dem Bundesamt für Migration und Flüchtlinge unverzüglich die hierfür erforderlichen Angaben. Die Ausländerbehörden können der nationalen Kontaktstelle die für die Unterrichtungen nach Satz 1 erforderlichen Daten aus dem Ausländerzentralregister unter Nutzung der AZR-Nummer automatisiert übermitteln. Wird dem Bundesamt für Migration und Flüchtlinge durch die zuständige Behörde eines anderen Mitgliedstaates mitgeteilt, dass ein Aufenthaltstitel eines Ausländers, der sich nach den §§ 16c, 18e oder 18f im Bundesgebiet aufhält, der in den Anwendungsbereich der Richtlinie (EU) 2016/801 fällt, widerrufen, zurückgenommen oder nicht verlängert wurde oder abgelaufen ist, so unterrichtet das Bundesamt für Migration und Flüchtlinge unverzüglich die zuständige Ausländerbehörde.
 
-# § 91e – Gemeinsame Vorschriften für das Register zum vorübergehenden Schutz und zu innergemeinschaftlichen Datenübermittlungen
+# § 91e – Gemeinsame Vorschriften zu innergemeinschaftlichen Datenübermittlungen
 
-Im Sinne der §§ 91a bis 91g sind
+Im Sinne der §§ 91c bis 91g sind
 
 1. Personalien: Namen, insbesondere Familienname, Geburtsname, Vornamen und früher geführte Namen, Geburtsdatum, Geburtsort, Geschlecht, Staatsangehörigkeiten und Wohnanschrift im Inland,
 
@@ -4433,7 +4401,7 @@ Ausschlüsse nach Satz 1 können bis zur nachgewiesenen Wiederherstellung der Zu
 
 # § 99 – Verordnungsermächtigung
 
-(1) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+(1) Das Bundesministerium des Innern und für Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1. zur Erleichterung des Aufenthalts von Ausländern Befreiungen vom Erfordernis des Aufenthaltstitels vorzusehen, das Verfahren für die Erteilung von Befreiungen und die Fortgeltung und weitere Erteilung von Aufenthaltstiteln nach diesem Gesetz bei Eintritt eines Befreiungsgrundes zu regeln sowie zur Steuerung der Erwerbstätigkeit von Ausländern im Bundesgebiet Befreiungen einzuschränken,
 
@@ -4471,7 +4439,7 @@ f) den Zeitpunkt des Beginns der Bearbeitung von Anträgen auf Anerkennung von F
 
 10. die ausweisrechtlichen Pflichten von Ausländern, die sich im Bundesgebiet aufhalten, zu regeln hinsichtlich der Ausstellung und Verlängerung, des Verlustes und des Wiederauffindens sowie der Vorlage und der Abgabe eines Passes, Passersatzes und Ausweisersatzes sowie der Eintragungen über die Einreise, die Ausreise, das Antreffen im Bundesgebiet und über Entscheidungen der zuständigen Behörden in solchen Papieren,
 
-11. Näheres zum Register nach § 91a sowie zu den Voraussetzungen und dem Verfahren der Datenübermittlung zu bestimmen,
+11. Näheres zur Datenerhebung und verwendung nach § 91a sowie zu den Voraussetzungen und dem Verfahren der Datenübermittlung zu bestimmen,
 
 12. zu bestimmen, wie der Wohnsitz von Ausländern, denen vorübergehend Schutz gemäß § 24 Abs. 1 gewährt worden ist, in einen anderen Mitgliedstaat der Europäischen Union verlegt werden kann,
 
@@ -4545,7 +4513,7 @@ b) das Verfahren der Datenübermittlung und
 
 c) die an der elektronischen Datenübermittlung im Ausländerwesen beteiligten Behörden,
 
-16. Regelungen für die Qualitätssicherung der nach § 49 Absatz 6, 8 und 9 erhobenen Lichtbilder und Fingerabdruckdaten festzulegen.
+16. Regelungen für die Qualitätssicherung der nach § 49 verarbeiteten Lichtbilder, Fingerabdruckdaten und ausländischen Ausweis- oder Identifikationsdokumente festzulegen.
 
 (2) Das Bundesministerium des Innern, für Bau und Heimat wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass
 
