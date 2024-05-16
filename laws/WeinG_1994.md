@@ -396,6 +396,10 @@ Fortbestehen anderer Vorschriften
 
 Ermächtigung zur Aufhebung von Rechtsvorschriften
 
+§ 57b
+
+Geändertes Unionsrecht
+
 # § 1 – Zweck
 
 (1) Dieses Gesetz regelt den Anbau, das Verarbeiten, das Inverkehrbringen und die Absatzförderung von Wein und sonstigen Erzeugnissen des Weinbaus, soweit
@@ -1852,11 +1856,9 @@ Rechtsverordnungen nach den Absätzen 2 und 3 können im Falle des Satzes 1 Numm
 
 (1) Rechtsverordnungen nach diesem Gesetz können auch zur Durchführung von für den Weinbau und die Weinwirtschaft anwendbaren Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erlassen werden.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates in den von ihm auf Grund dieses Gesetzes erlassenen Rechtsverordnungen Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist.
+(2) Rechtsverordnungen nach diesem Gesetz, die der Zustimmung des Bundesrates bedürfen, können ohne Zustimmung des Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur Durchführung von für den Weinbau und die Weinwirtschaft anwendbaren Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens sechs Monaten begrenzt wird.
 
-(3) Rechtsverordnungen nach diesem Gesetz, die der Zustimmung des Bundesrates bedürfen, können ohne Zustimmung des Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur Durchführung von für den Weinbau und die Weinwirtschaft anwendbaren Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens sechs Monaten begrenzt wird.
-
-(4) Das Bundesministerium für Ernährung und Landwirtschaft kann Rechtsverordnungen nach diesem Gesetz, die ausschließlich der Umsetzung verbindlicher technischer Vorschriften aus Richtlinien, Entscheidungen oder Beschlüssen der Europäischen Union dienen, ohne Zustimmung des Bundesrates erlassen.
+(3) Das Bundesministerium für Ernährung und Landwirtschaft kann Rechtsverordnungen nach diesem Gesetz, die ausschließlich der Umsetzung verbindlicher technischer Vorschriften aus Richtlinien, Entscheidungen oder Beschlüssen der Europäischen Union dienen, ohne Zustimmung des Bundesrates erlassen.
 
 # § 54 – Übertragung von Ermächtigungen
 
@@ -1937,3 +1939,13 @@ jeweils in der bis zum 15. Juli 1994 geltenden Fassung weiter anzuwenden.
 (1) Soweit durch Änderungen dieses Gesetzes Ermächtigungen zum Erlass von Rechtsverordnungen des Bundes fortgefallen sind, können Vorschriften, die auf solche Ermächtigungen gestützt sind, durch Rechtsverordnung des Bundesministeriums für Ernährung und Landwirtschaft mit Zustimmung des Bundesrates aufgehoben werden.
 
 (2) Soweit durch Änderungen dieses Gesetzes oder Änderungen von auf Grund dieses Gesetzes erlassenen Rechtsverordnungen Ermächtigungen zum Erlass von Rechtsverordnungen der Länder fortgefallen sind, werden die Landesregierungen ermächtigt, Vorschriften, die auf solche Ermächtigungen gestützt sind, aufzuheben.
+
+# § 57b – Geändertes Unionsrecht
+
+(1) Wird eine in einer Vorschrift dieses Gesetzes oder in einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung (innerstaatliche Vorschrift) genannte Vorschrift eines unmittelbar geltenden Rechtsakts der Europäischen Gemeinschaft oder der Europäischen Union aufgehoben oder für nicht mehr anwendbar erklärt, bleibt für Straftaten und Ordnungswidrigkeiten nach den §§ 48 bis 50, die bis zum Zeitpunkt der Aufhebung oder der Nichtanwendung begangen worden sind, die bis dahin geltende innerstaatliche Vorschrift abweichend von § 2 Absatz 3 des Strafgesetzbuches und von § 4 Absatz 3 des Gesetzes über Ordnungswidrigkeiten weiter anwendbar.
+
+(2) Durch Rechtsverordnung ohne Zustimmung des Bundesrates kann das Bundesministerium für Ernährung und Landwirtschaft in einer innerstaatlichen Vorschrift den Verweis auf eine Vorschrift in einem Rechtsakt
+
+1. der Europäischen Gemeinschaft oder der Europäischen Union ändern, soweit es zur Anpassung an eine Änderung dieser Vorschrift erforderlich ist,
+
+2. der Europäischen Gemeinschaft oder der Europäischen Union, die durch eine inhaltsgleiche Vorschrift der Europäischen Union ersetzt worden ist, durch den Verweis auf die ersetzende Vorschrift anpassen.

@@ -1061,6 +1061,16 @@ Löschung einer eingetragenen Marke wegen des Bestehens älterer Rechte
 
 Schutzdauer und Verlängerung
 
+§ 160
+
+ 
+
+ 
+
+ 
+
+Geändertes Unionsrecht
+
 # § 1 – Geschützte Marken und sonstige Kennzeichen
 
 Nach diesem Gesetz werden geschützt:
@@ -2996,7 +3006,19 @@ Ist vor dem 1. Januar 1995 ein Verfahren von Amts wegen zur Löschung der Eintra
 
 (2) Für eingetragene Marken, deren Schutzdauer gemäß § 47 Absatz 1 spätestens zwölf Monate nach dem 31. Januar 2019 endet, sind die §§ 3, 5 und 7 des Patentkostengesetzes vom 13. Dezember 2001 (BGBl. I S. 3656), das zuletzt durch Artikel 13 des Gesetzes vom 4. April 2016 (BGBl. I S. 558) geändert worden ist, in ihrer bis dahin geltenden Fassung weiter anzuwenden.
 
-# §§ 160 bis 163 – (weggefallen)
+# § 160 – Geändertes Unionsrecht
+
+(1) Wird eine in einer Vorschrift dieses Gesetzes oder in einer aufgrund dieses Gesetzes erlassenen Rechtsverordnung (innerstaatliche Vorschrift) genannte Vorschrift eines unmittelbar geltenden Rechtsakts der Europäischen Union aufgehoben oder für nicht mehr anwendbar erklärt, bleibt für Straftaten und Ordnungswidrigkeiten nach den §§ 143a, 144 Absatz 2, auch in Verbindung mit den Absätzen 3 bis 5, und nach § 145 Absatz 2, die bis zum Zeitpunkt der Aufhebung oder der Nichtanwendung begangen worden sind, die bis dahin geltende innerstaatliche Vorschrift abweichend von § 2 Absatz 3 des Strafgesetzbuches und von § 4 Absatz 3 des Gesetzes über Ordnungswidrigkeiten weiter anwendbar.
+
+(2) Durch Rechtsverordnung ohne Zustimmung des Bundesrates kann das Bundesministerium der Justiz in einer innerstaatlichen Vorschrift den Verweis auf eine Vorschrift in einem Rechtsakt
+
+1. der Europäischen Union ändern, soweit es zur Anpassung an eine Änderung dieser Vorschrift erforderlich ist,
+
+2. der Europäischen Union, die durch eine inhaltsgleiche Vorschrift der Europäischen Union ersetzt worden ist, durch den Verweis auf die ersetzende Vorschrift anpassen.
+
+Soweit der Rechtsakt im Sinne des Absatzes 1 den Schutz geografischer Angaben und Ursprungsbezeichnungen für Agrarerzeugnisse und Lebensmittel betrifft, ist für den Erlass der Rechtsverordnung nach Satz 1 das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium der Justiz zuständig.
+
+# §§ 161 bis 163 – (weggefallen)
 
 # § 164 – (weggefallen)
 

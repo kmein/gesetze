@@ -307,24 +307,22 @@ Register im Sinne des § 1 dieses Gesetzes sind:
 
 40. Berufsregister der Steuerberater und Wirtschaftsprüfer
 
-41. Register zum vorübergehenden Schutz nach § 91a des Aufenthaltsgesetzes
+41. Beitragskontendatenbank
 
-42. Beitragskontendatenbank
+42. bei den öffentlichen Arbeitgebern in Bund, Ländern und Kommunen nach § 2 Absatz 1 des Finanz- und Personalstatistikgesetzes systematisch geführte personenbezogene Datenbestände über die Beschäftigten
 
-43. bei den öffentlichen Arbeitgebern in Bund, Ländern und Kommunen nach § 2 Absatz 1 des Finanz- und Personalstatistikgesetzes systematisch geführte personenbezogene Datenbestände über die Beschäftigten
+43. sämtliche von den Architekten- und Ingenieurkammern der Länder auf gesetzlicher Grundlage zu führenden Listen, Verzeichnisse oder Register
 
-44. sämtliche von den Architekten- und Ingenieurkammern der Länder auf gesetzlicher Grundlage zu führenden Listen, Verzeichnisse oder Register
+44. bei den Industrie- und Handelskammern geführten Verzeichnisse ihrer Mitglieder nach § 2 des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern
 
-45. bei den Industrie- und Handelskammern geführten Verzeichnisse ihrer Mitglieder nach § 2 des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern
+45. Krisenvorsorgeliste nach § 6 Absatz 3 des Konsulargesetzes
 
-46. Krisenvorsorgeliste nach § 6 Absatz 3 des Konsulargesetzes
+46. Zentrale Luftfahrerdatei
 
-47. Zentrale Luftfahrerdatei
+47. Register für Betreiber von unbemannten und zulassungspflichtigen Fluggeräten
 
-48. Register für Betreiber von unbemannten und zulassungspflichtigen Fluggeräten
+48. Luftfahrzeugrolle nach § 64 Absatz 1 Nummer 1 des Luftverkehrsgesetzes
 
-49. Luftfahrzeugrolle nach § 64 Absatz 1 Nummer 1 des Luftverkehrsgesetzes
+49. Zulassungsregister nach § 14 des Umweltauditgesetzes
 
-50. Zulassungsregister nach § 14 des Umweltauditgesetzes
-
-51. Verzeichnis über die Bescheinigungen über die Fahrzeugführerschulung nach Abschnitt 8.2.2 der Vorschriften für die Ausbildung der Fahrzeugbesatzung (sog. ADR-Infodatenbank) gemäß § 14 Absatz 3 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
+50. Verzeichnis über die Bescheinigungen über die Fahrzeugführerschulung nach Abschnitt 8.2.2 der Vorschriften für die Ausbildung der Fahrzeugbesatzung (sog. ADR-Infodatenbank) gemäß § 14 Absatz 3 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt

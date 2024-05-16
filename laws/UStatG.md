@@ -107,7 +107,9 @@ Erstreckt sich der Einsatz nicht stationärer Anlagen über mehrere Länder, wer
 
 1. Materialart und Menge der erstmals in Verkehr gebrachten systembeteiligungspflichtigen Verpackungen nach § 3 Absatz 8 des Verpackungsgesetzes,
 
-2. Materialart und Menge der Verpackungsabfälle, die bei den privaten Endverbrauchern nach § 3 Absatz 11 des Verpackungsgesetzes von den Systemen nach § 14 Absatz 1 Satz 1 des Verpackungsgesetzes gesammelt oder von den Branchenlösungen nach § 8 Absatz 1 Satz 1 des Verpackungsgesetzes zurückgenommen worden sind, sowie Verbleib und Entsorgung dieser Verpackungsabfälle, gegliedert nach Ländern.
+2. Materialart und Menge der Verpackungsabfälle, die bei den privaten Endverbrauchern nach § 3 Absatz 11 des Verpackungsgesetzes von den Systemen nach § 14 Absatz 1 Satz 1 des Verpackungsgesetzes gesammelt oder von den Branchenlösungen nach § 8 Absatz 1 Satz 1 des Verpackungsgesetzes zurückgenommen worden sind, gegliedert nach Ländern,
+
+3. Verbleib und Entsorgung der Verpackungsabfälle nach Nummer 2.
 
 Die Erhebung wird vom Statistischen Bundesamt durchgeführt.
 
@@ -123,7 +125,7 @@ Die Erhebung wird vom Statistischen Bundesamt durchgeführt.
 
 jeweils gegliedert nach Verkaufsverpackungen im Sinne des § 3 Absatz 1 Nummer 1 des Verpackungsgesetzes und sonstigen Mehrwegverpackungen, soweit ihnen diese Daten vorliegen.
 
-(3) Die Erhebung erstreckt sich auf Hersteller nach § 3 Absatz 14 des Verpackungsgesetzes, die mit Ware befüllte Verpackungen in Verkehr bringen. Die Erhebung wird beginnend mit dem Berichtsjahr 2022 alle zehn Jahre als Vollerhebung durchgeführt. In den dazwischenliegenden Jahren wird die Erhebung jährlich, basierend auf den Ergebnissen der vorangegangenen Vollerhebung bezüglich Umfang und Struktur des Berichtskreises, als geschichtete Stichprobenerhebung durchgeführt. Die Erhebung erfasst folgende Erhebungsmerkmale:
+(3) Die Erhebung erstreckt sich auf Hersteller nach § 3 Absatz 14 des Verpackungsgesetzes, die mit Ware befüllte Verpackungen in Verkehr bringen. Die Erhebung wird beginnend mit dem Berichtsjahr 2023 alle zehn Jahre als Vollerhebung durchgeführt. In den dazwischenliegenden Jahren wird die Erhebung jährlich als Stichprobenerhebung durchgeführt. Hierfür erfolgt die Auswahl der Erhebungseinheiten nach mathematisch-statistischen Verfahren. § 6 Absatz 4 des Bundesstatistikgesetzes findet keine Anwendung. Die Erhebung erfasst folgende Erhebungsmerkmale:
 
 1. Art und Menge der erstmals in Verkehr gebrachten Verpackungen nach § 15 Absatz 1 Satz 1 des Verpackungsgesetzes, mit Ausnahme von Mehrwegverpackungen nach § 3 Absatz 3 des Verpackungsgesetzes,
 
@@ -141,9 +143,11 @@ jeweils gegliedert nach Verkaufsverpackungen im Sinne des § 3 Absatz 1 Nummer 1
 
 (5) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei den Unternehmen, die in Artikel 13 Absatz 1 der Richtlinie (EU) 2019/904 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt (ABl. L 155 vom 12.6.2019, S. 1) in der jeweils geltenden Fassung genannte Erzeugnisse erstmals in Verkehr bringen, die Erhebungsmerkmale Art und Menge der erstmals in Verkehr gebrachten Erzeugnisse, soweit sie nicht nach Absatz 1 bis 4 erfasst werden.
 
-(6) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei höchstens 400 Behörden oder bei Unternehmen, Körperschaften und Einrichtungen, die in Artikel 13 Absatz 1 der Richtlinie (EU) 2019/904 genannte Erzeugnisse sammeln und entsorgen, die Erhebungsmerkmale Art, Menge, Verbleib und Entsorgung der gesammelten Abfälle aus diesen Erzeugnissen, soweit die Daten nicht nach Absatz 1 bis 5 erfasst werden. Die Erhebung erfolgt bei Behörden, soweit die in Satz 1 genannten Daten bei diesen vorliegen.
+(6) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei höchstens 400 Behörden oder bei Unternehmen, Körperschaften und Einrichtungen, die in Artikel 13 Absatz 1 der Richtlinie (EU) 2019/904 genannte Erzeugnisse sammeln und entsorgen, die Erhebungsmerkmale Art, Menge, Verbleib und Entsorgung der gesammelten Abfälle aus diesen Erzeugnissen, soweit die Daten nicht nach Absatz 1 bis 5 oder 8 erfasst werden. Die Erhebung erfolgt bei Behörden, soweit die in Satz 1 genannten Daten bei diesen vorliegen.
 
-(7) Die Erhebung erfasst alle zwei Jahre, beginnend mit dem Berichtsjahr 2022, bei den Unternehmen, Körperschaften und Einrichtungen, die mit der Sammlung und Entsorgung passiv gefischter Abfälle nach Artikel 8 Absatz 7 in Verbindung mit Artikel 2 Nummer 4 der Richtlinie (EU) 2019/883 des Europäischen Parlaments und des Rates vom 17. April 2019 über Hafenauffangeinrichtungen für die Entladung von Abfällen von Schiffen, zur Änderung der Richtlinie 2010/65/EU und zur Aufhebung der Richtlinie 2000/59/EG (ABl. L 151 vom 7.6.2019, S. 116) in der jeweils geltenden Fassung befasst sind, das Erhebungsmerkmal Menge der gesammelten und entsorgten Abfälle.
+(7) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei den Unternehmen, Körperschaften und Einrichtungen, die mit der Sammlung und Entsorgung passiv gefischter Abfälle nach Artikel 8 Absatz 7 in Verbindung mit Artikel 2 Nummer 4 der Richtlinie (EU) 2019/883 des Europäischen Parlaments und des Rates vom 17. April 2019 über Hafenauffangeinrichtungen für die Entladung von Abfällen von Schiffen, zur Änderung der Richtlinie 2010/65/EU und zur Aufhebung der Richtlinie 2000/59/EG (ABl. L 151 vom 7.6.2019, S. 116) in der jeweils geltenden Fassung befasst sind, das Erhebungsmerkmal Menge der gesammelten und entsorgten passiv gefischten Abfälle.
+
+(8) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei Behörden oder bei Unternehmen, Körperschaften und Einrichtungen, die in Artikel 13 Absatz 1 Buchstabe d) der Richtlinie (EU) 2019/904 genannten Fanggeräteabfälle sammeln, die Erhebungsmerkmale Art, Menge, Verbleib und Entsorgung der gesammelten Fanggeräteabfälle. Die Erhebung erfolgt bei Behörden, soweit die in Satz 1 genannten Daten bei diesen vorliegen.
 
 # § 6 – Aufbereitung und Veröffentlichung der abfallstatistischen Erhebungen
 
@@ -151,7 +155,7 @@ jeweils gegliedert nach Verkaufsverpackungen im Sinne des § 3 Absatz 1 Nummer 1
 
 (2) Das Statistische Bundesamt veröffentlicht die Ergebnisse der Erhebungen nach den §§ 3 bis 5a sowie die Bilanzen nach Absatz 1 spätestens 18 Monate nach Ablauf des Berichtsjahres.
 
-# § 7 – Erhebung der öffentlichen Wasserversorgung und der öffentlichen Abwasserentsorgung
+# § 7 – Erhebung der öffentlichen Wasserversorgung und Abwasserentsorgung
 
 (1) Die Erhebung erfasst alle drei Jahre, beginnend mit dem Berichtsjahr 2022, bei Anstalten, Körperschaften, Unternehmen und anderen Einrichtungen, die Anlagen für die öffentliche Wasserversorgung betreiben, folgende Erhebungsmerkmale:
 
@@ -161,7 +165,9 @@ jeweils gegliedert nach Verkaufsverpackungen im Sinne des § 3 Absatz 1 Nummer 1
 
 3. Abgabe von Wasser an Letztverbraucher nach Menge, gegliedert nach Gemeinden, und Zahl der versorgten Einwohner nach dem Stand vom 31. Dezember des dem Berichtsjahr vorangegangenen Kalenderjahres, gegliedert nach Gemeinden,
 
-4. Menge des Eigenbedarfs an Wasser und Menge der Wasserverluste.
+4. Menge des Eigenbedarfs an Wasser und Menge der Wasserverluste,
+
+5. bei Anlagenbetreibern, die mindestens 3,65 Millionen Kubikmeter Wasser pro Jahr an Letztverbraucher abgeben, zusätzlich zur Menge der jährlichen Wasserverluste nach Nummer 4, die Menge der jährlich unvermeidbaren Wasserverluste und den infrastructural leakage index (ILI).
 
 (2) Die Erhebung erfasst bei Anstalten, Körperschaften, Unternehmen und anderen Einrichtungen, die Anlagen für die öffentliche Abwasserentsorgung betreiben, sowie bei Abwasserbehandlungsanlagen mit einer genehmigten Ausbaugröße von mehr als 50 Einwohnerwerten,
 
@@ -179,7 +185,7 @@ e) Menge des nach der Behandlung in Abwasserbehandlungsanlagen eingeleiteten ode
 
 f) Ausbaugröße der Anlagen sowie deren Nutzungsdauer im Berichtsjahr, und
 
-2. jährlich, beginnend mit dem Berichtsjahr 2021, die Erhebungsmerkmale Klärschlamm nach erzeugter, bezogener und abgegebener Menge, Behandlung, Beschaffenheit, Verbleib und Verwertung sowie die Fläche, auf der oder in die die Auf- oder Einbringung des Klärschlamms erfolgte, nach Größe und zusätzlich, beginnend mit dem Berichtsjahr 2022, die Fläche nach Ort mit Geokoordinaten.
+2. jährlich, beginnend mit dem Berichtsjahr 2021, die Erhebungsmerkmale Klärschlamm nach erzeugter, bezogener und abgegebener Menge, Behandlung, Beschaffenheit, Verbleib und Verwertung.
 
 (3) Die Erhebung erfasst alle drei Jahre, beginnend mit dem Berichtsjahr 2022, bei den für die öffentliche Wasserversorgung und bei den für die öffentliche Abwasserentsorgung zuständigen Gemeinden oder Dritten, soweit ihnen diese Aufgaben übertragen wurden oder sie mit der Erfüllung der Aufgaben beauftragt worden sind, folgende Erhebungsmerkmale:
 
@@ -191,27 +197,33 @@ f) Ausbaugröße der Anlagen sowie deren Nutzungsdauer im Berichtsjahr, und
 
 (4) Erstrecken sich die Wasserversorgung und die Abwasserentsorgung über mehrere Länder, werden die Erhebungsmerkmale nach den Absätzen 1 bis 3 für jedes Land getrennt erfasst.
 
-# § 8 – Erhebung der nichtöffentlichen Wasserversorgung und der nichtöffentlichen Abwasserentsorgung
+(5) Die Erhebung erfasst alle drei Jahre nach Jahren, beginnend mit den Berichtsjahren 2023 bis 2025, für alle Betreiber von Anlagen der öffentlichen Wasserversorgung das Erhebungsmerkmal Wasserentgelte für die Wasserversorgung jeweils nach Gemeinden.
 
-Die Erhebung erstreckt sich auf nichtöffentliche Betriebe, die mindestens 2 000 Kubikmeter Wasser pro Jahr gewinnen oder mindestens 10 000 Kubikmeter Wasser pro Jahr von anderen Betrieben beziehen oder mindestens 2 000 Kubikmeter Wasser oder Abwasser pro Jahr in Gewässer einleiten. Die Erhebung erfasst
+(6) Die Erhebung erfasst alle drei Jahre nach Jahren, beginnend mit den Berichtsjahren 2023 bis 2025, für alle Betreiber von Anlagen der öffentlichen Abwasserentsorgung die Erhebungsmerkmale Abwasserentgelte für die Abwasserentsorgung jeweils nach Gemeinden und die Zahl der pro Gemeinde an die Abwasserentsorgung angeschlossenen Einwohner.
 
-1. alle drei Jahre, beginnend mit dem Berichtsjahr 2022, folgende Erhebungsmerkmale:
+# § 8 – Erhebung der nichtöffentlichen Wasserversorgung und Abwasserentsorgung
 
-a) Gewinnung von Wasser nach Wasserarten sowie Bezug und Abgabe von Wasser, jeweils nach Menge,
+Die Erhebung erstreckt sich auf nichtöffentliche Betriebe, die mindestens 2 000 Kubikmeter Wasser pro Jahr gewinnen oder mindestens 10 000 Kubikmeter Wasser pro Jahr von anderen Betrieben beziehen oder mindestens 2 000 Kubikmeter Wasser oder Abwasser pro Jahr in Gewässer einleiten. Die Erhebung erfasst alle drei Jahre, beginnend mit dem Berichtsjahr 2022, folgende Erhebungsmerkmale:
 
-b) Verwendung von Wasser, getrennt nach Einsatzbereichen, nach Menge sowie nach Einfach-, Mehrfach- und Kreislaufnutzung,
+1. Gewinnung von Wasser nach Wasserarten sowie Bezug und Abgabe von Wasser, jeweils nach Menge,
 
-c) Herkunft und Verbleib des ungenutzten Wassers und Abwassers nach Menge sowie Ort der Einleitstelle mit Geokoordinaten,
+2. Verwendung von Wasser, getrennt nach Einsatzbereichen, nach Menge sowie nach Einfach-, Mehrfach- und Kreislaufnutzung,
 
-d) Art der Abwasserbehandlung,
+3. Herkunft und Verbleib des ungenutzten Wassers und Abwassers nach Menge sowie Ort der Einleitstelle mit Geokoordinaten,
 
-e) Menge des nach der Behandlung in Abwasseranlagen eingeleiteten oder unbehandelt eingeleiteten Abwassers sowie die jeweiligen Konzentrationen und Frachten an Schadstoffen und Schadstoffgruppen, insbesondere entsprechend der Abwasserverordnung, nach Ort der Einleitstelle mit Geokoordinaten,
+4. Art der Abwasserbehandlung,
 
-f) Klärschlamm nach Menge, Behandlung und Verbleib mit Stand vom 31. Dezember des Berichtsjahres und
+5. Menge des nach der Behandlung in Abwasseranlagen eingeleiteten oder unbehandelt eingeleiteten Abwassers sowie die jeweiligen Konzentrationen und Frachten an Schadstoffen und Schadstoffgruppen, insbesondere entsprechend der Abwasserverordnung, nach Ort der Einleitstelle mit Geokoordinaten,
 
-2. jährlich, beginnend mit dem Berichtsjahr 2022, bei Betrieben, die Klärschlamm zur Verwendung in der Landwirtschaft abgeben, zusätzlich die Erhebungsmerkmale Beschaffenheit sowie die Fläche, auf der die Auf- oder Einbringung des Klärschlamms erfolgte, nach Größe, Ort und Geokoordinaten. Abweichend von § 2 Absatz 2 ist von der Erhebung nach Satz 2 Nummer 1 Buchstabe c bis f und Nummer 2 der Wirtschaftszweig nach Abschnitt A – „Land- und Forstwirtschaft, Fischerei“ des Anhangs I der Verordnung (EG) Nr. 1893/2006 ausgenommen.
+6. Klärschlamm nach Menge, Behandlung, Beschaffenheit, Verbleib und Verwertung mit Stand vom 31. Dezember des Berichtsjahres.
 
-# § 9 – Erhebung der Unfälle beim Umgang mit und bei der Beförderung von wassergefährdenden Stoffen sowie der prüfpflichtigen Anlagen zum Umgang mit wassergefährdenden Stoffen
+Abweichend von § 2 Absatz 2 ist von der Erhebung nach Satz 2 Nummer 3 bis 6 der Wirtschaftszweig nach Abschnitt A – „Land- und Forstwirtschaft, Fischerei“ des Anhangs I der Verordnung (EG) Nr. 1893/2006 ausgenommen.
+
+# § 8a – Erhebung der Klärschlammaufbringungsflächen in der Landwirtschaft
+
+Die Erhebung erfasst ab dem Berichtsjahr 2022 jährlich bei den Stellen, die nach Landesrecht für die Entgegennahme der Angaben zur Auf- oder Einbringung von Klärschlamm in der Landwirtschaft zuständig sind, oder bei Dritten, soweit ihnen die Aufgabe der Entgegennahme der Angaben zur Auf- oder Einbringung von Klärschlamm in der Landwirtschaft übertragen wurde, als Erhebungsmerkmal die Fläche, auf der die Auf- oder Einbringung des Klärschlamms erfolgte, nach Größe, Ort und Geokoordinaten. Die Angaben hierzu sind bis zum 31. März des dem Berichtsjahr folgenden Jahres an das Statistische Landesamt zu übermitteln.
+
+# § 9 – Erhebung der Unfälle beim Umgang mit und bei der Beförderung von wassergefährdenden Stoffen
 
 (1) Die Erhebung erfasst bei den nach Landesrecht für die Entgegennahme der Anzeigen über die Unfälle beim Umgang mit wassergefährdenden Stoffen zuständigen Behörden jährlich, beginnend mit dem Berichtsjahr 2022, die Erhebungsmerkmale
 
@@ -235,7 +247,7 @@ f) Klärschlamm nach Menge, Behandlung und Verbleib mit Stand vom 31. Dezember d
 
 3. Ursache des Unfalls,
 
-4. Art, Menge und maßgebende Wassergefährdungsklasse des beförderten, freigesetzten und wiedergewonnenen Stoffes, unterteilt in Ladegut und Betriebsstoff des eingesetzten Fahrzeugs,
+4. Art, Menge und maßgebende Wassergefährdungsklasse des beförderten, freigesetzten und wiedergewonnenen Stoffes,
 
 5. Unfallfolgen,
 
@@ -243,31 +255,9 @@ f) Klärschlamm nach Menge, Behandlung und Verbleib mit Stand vom 31. Dezember d
 
 (3) Als Unfall im Sinne der Absätze 1 und 2 gilt das Austreten einer im Hinblick auf den Schutz der Gewässer nicht unerheblichen Menge wassergefährdender Stoffe.
 
-(4) Die Erhebung erfasst jährlich für alle im Berichtsjahr prüfpflichtigen und vollständig geprüften Anlagen zum Umgang mit wassergefährdenden Stoffen, beginnend mit dem Berichtsjahr 2018, die Erhebungsmerkmale
+(4) (weggefallen)
 
-1. Standort, einschließlich Standortgegebenheiten,
-
-2. Baujahr oder Jahr der Inbetriebnahme,
-
-3. Art, Verwendungszweck und Bauart,
-
-4. maßgebendes Volumen bei flüssigen, maßgebende Masse bei festen und gasförmigen wassergefährdenden Stoffen,
-
-5. Gefährdungsstufe,
-
-6. wassergefährdende Stoffe, zusammengefasst zu Kategorien und nach Wassergefährdungsklasse,
-
-7. Jahr der Prüfung,
-
-8. Nummer des Prüfberichts,
-
-9. Art und Ergebnis der Prüfung,
-
-10. Art der festgestellten Mängel.
-
-Die Angaben sind dem Statistischen Bundesamt von den durch die zuständigen Behörden anerkannten Sachverständigenorganisationen bis zum 31. März des dem Berichtsjahr folgenden Jahres zu übermitteln. Entfällt die Berichtspflicht der Sachverständigenorganisation während des Berichtsjahres, sind die Angaben nach Satz 1 dem Statistischen Bundesamt für die Anlagen, die bis zu diesem Zeitpunkt vollständig geprüft wurden, innerhalb von zehn Wochen nach dem Wegfall der Berichtspflicht zu übermitteln.
-
-(5) Zuständige Behörde für die Erhebung und Aufbereitung der Angaben nach Absatz 4 ist das Statistische Bundesamt.
+(5) (weggefallen)
 
 # § 10 – Erhebung bestimmter klimawirksamer Stoffe
 
@@ -305,7 +295,7 @@ das Erhebungsmerkmal Menge des Stoffes und im Falle der Nummer 2 auch den vorges
 
 # § 11 – Erhebung der Aufwendungen für den Umweltschutz
 
-(1) Die Erhebung erfasst bei Unternehmen und Betrieben des Produzierenden Gewerbes mit Ausnahme des Baugewerbes, soweit sie dem Berichtskreis nach § 2, § 3 Buchstabe A Ziffer II, § 6 Buchstabe B sowie § 6a Buchstabe B des Gesetzes über die Statistik im Produzierenden Gewerbe in der Fassung der Bekanntmachung vom 21. März 2002 (BGBl. I S. 1181), das zuletzt durch Artikel 8 des Gesetzes vom 22. November 2019 (BGBl. I S. 1746) geändert worden ist, in der jeweils geltenden Fassung angehören,
+Die Erhebung erfasst bei Unternehmen und Betrieben des Produzierenden Gewerbes mit Ausnahme des Baugewerbes, soweit sie dem Berichtskreis nach § 2, § 3 Buchstabe A Ziffer II, § 6 Buchstabe B sowie § 6a Buchstabe B des Gesetzes über die Statistik im Produzierenden Gewerbe in der Fassung der Bekanntmachung vom 21. März 2002 (BGBl. I S. 1181), das zuletzt durch Artikel 7 des Gesetzes vom 22. Februar 2021 (BGBl. I S. 266) geändert worden ist, in der jeweils geltenden Fassung angehören,
 
 1. jährlich, beginnend mit dem Berichtsjahr 2021, folgende Erhebungsmerkmale:
 
@@ -317,11 +307,36 @@ c) Investitionen in immaterielle Vermögensgegenstände,
 
 die ausschließlich oder überwiegend dem Schutz der Umwelt dienen, jeweils gegliedert nach Art der Investition und Sachanlage sowie additiven und integrierten Umweltschutzmaßnahmen,
 
-2. alle drei Jahre, beginnend mit dem Berichtsjahr 2022, bei 10 000 Erhebungseinheiten das Erhebungsmerkmal laufende Aufwendungen für Maßnahmen, die ausschließlich oder überwiegend dem Schutz der Umwelt dienen, nach Art der Aufwendung.
+2. alle drei Jahre, beginnend mit dem Berichtsjahr 2025, bei 10 000 Erhebungseinheiten das Erhebungsmerkmal laufende Aufwendungen für Maßnahmen, die ausschließlich oder überwiegend dem Schutz der Umwelt dienen, untergliedert nach
+
+a) laufenden Aufwendungen für den Betrieb von Anlagen und Einrichtungen für den Umweltschutz, weiter untergliedert nach:
+
+aa)  
+steuerlichen Abschreibungen,
+
+bb)  
+Fremdkapitalzinsen,
+
+cc) Personalkosten,
+
+dd)  
+laufenden Aufwendungen für Hilfs- und Betriebsstoffe,
+
+ee)  
+laufenden Aufwendungen für Energie,
+
+ff)  
+laufenden Aufwendungen für weitere Leistungen, die selbst oder durch Dritte durchgeführt werden,
+
+b) sonstigen laufenden Aufwendungen für den Umweltschutz, weiter untergliedert nach:
+
+aa)  
+laufenden Aufwendungen für Gebühren und Beiträge,
+
+bb)  
+anderen laufenden Aufwendungen.
 
 Die Erhebung bei Betrieben nach § 2 des Gesetzes über die Statistik im Produzierenden Gewerbe kann durch die Erhebung bei den zugehörigen Unternehmen in der Untergliederung der Erhebungsmerkmale nach Ländern ersetzt werden. Die Erhebungsmerkmale werden nach Umweltmaßnahmen sowie den Umweltbereichen nach Anhang IV der Verordnung (EU) Nr. 691/2011 des Europäischen Parlaments und des Rates vom 6. Juli 2011 über europäische umweltökonomische Gesamtrechnungen (ABl. L 192 vom 22.7.2011, S. 1), die zuletzt durch die Verordnung (EU) Nr. 538/2014 (ABl. L 158 vom 27.5.2014, S. 113) geändert worden ist, in der jeweils geltenden Fassung erfasst. Im Bereich Klimaschutz werden diese Erhebungsmerkmale zusätzlich getrennt nach Maßnahmen in den Bereichen Treibhausgas-Emissionen, erneuerbare Energien und Energieeffizienz erfasst. Die Erhebung nach Satz 1 Nummer 2 wird vom Statistischen Bundesamt durchgeführt. Umweltmaßnahmen sind alle Maßnahmen und Tätigkeiten, die vorrangig der Vorbeugung, Verringerung und Beseitigung von Umweltverschmutzung und jeder anderen Form der Umweltbelastung dienen oder eine schonendere Nutzung der Ressourcen ermöglichen.
-
-(2) Die Erhebung erfasst alle drei Jahre nach Jahren, beginnend mit den Berichtsjahren 2008 bis 2010, für alle Betreiber von Anlagen der öffentlichen Wasserversorgung und Abwasserentsorgung die Erhebungsmerkmale Wasserentgelte für die Wasserversorgung und Abwasserentgelte für die Abwasserentsorgung jeweils nach Gemeinden.
 
 # § 12 – Erhebung der Güter und Leistungen für den Umweltschutz
 
@@ -353,13 +368,15 @@ Die Erhebungsmerkmale nach Satz 1 Nummer 1 werden nach Umweltmaßnahmen sowie na
 
 3. für die Erhebung nach § 4 Nr. 1 zusätzlich Name und Anschrift der Abfallerzeuger,
 
-4. für die Erhebung nach § 7 bei Angaben zu Bezug und Weiterleitung von Wasser zusätzlich Name und Sitz des liefernden bzw. abnehmenden Versorgungsunternehmens,
+4. für die Erhebung nach § 7 bei Angaben zu Bezug und Weiterleitung von Wasser zusätzlich Name und Sitz des liefernden bzw. abnehmenden Versorgungsunternehmens und bei Angaben zu Wasser- oder Abwasserentgelten zusätzlich Name und Anschrift des Wasserversorgers oder des Abwasserentsorgers,
 
 5. für die Erhebungen nach § 5 Abs. 1 zusätzlich Name und Anschrift der Mieter oder Lohnauftraggeber der Anlagen,
 
 6. für die Erhebungen nach § 3 Abs. 1 zusätzlich Erzeuger- und Entsorgernummer,
 
-7. für die Erhebungen nach § 5a Absatz 2 zusätzlich Name und Anschrift der teilnehmenden Hersteller der Mehrwegverpackungen
+7. für die Erhebungen nach § 5a Absatz 2 zusätzlich Name und Anschrift der teilnehmenden Hersteller der Mehrwegverpackungen,
+
+8. für die Erhebung nach § 11 zusätzlich das Geschäftsjahr des Unternehmens oder des Betriebes.
 
 (2) Mit den Hilfsmerkmalen nach Absatz 1 Nr. 3, 5 und 6 dürfen die Erhebungsmerkmale nach den §§ 3 bis 5 zusammengeführt werden.
 
@@ -419,7 +436,7 @@ b) im Falle der Absätze 2 bis 5
 
 die Inhaber oder Inhaberinnen oder Leitungen der genannten Betriebe und Unternehmen,
 
-c) im Falle der Absätze 6 und 7
+c) im Falle der Absätze 6 bis 8
 
 die Inhaber oder Inhaberinnen oder Leitungen der genannten Unternehmen, Körperschaften und Einrichtungen oder die genannten Behörden,
 
@@ -433,11 +450,19 @@ b) im Falle des Absatzes 3
 
 die für die öffentliche Wasserversorgung und die öffentliche Abwasserentsorgung zuständigen Gemeinden oder Dritte, soweit ihnen die Aufgaben der öffentlichen Wasserversorgung und der öffentlichen Abwasserentsorgung übertragen worden sind oder soweit sie mit der Erfüllung dieser Aufgaben beauftragt worden sind,
 
+c) im Falle der Absätze 5 und 6
+
+die Inhaber oder Inhaberinnen oder Leitungen der genannten Anlagen oder die Gemeinden,
+
 6. § 8
 
 die Inhaber oder Inhaberinnen oder Leitungen der genannten Betriebe,
 
-7. § 9
+7. § 8a
+
+die Stellen, die nach Landesrecht für die Entgegennahme der Angaben zur Auf- oder Einbringung von Klärschlamm in der Landwirtschaft zuständig sind oder Dritte, soweit ihnen die Aufgabe der Entgegennahme der Angaben zur Auf- oder Einbringung von Klärschlamm in der Landwirtschaft übertragen worden ist,
+
+8. § 9
 
 a) im Falle des Absatzes 1
 
@@ -447,29 +472,23 @@ b) im Falle des Absatzes 2
 
 die Behörden, die nach Landesrecht für die Entgegennahme der Anzeigen über Unfälle bei der Beförderung wassergefährdender Stoffe und für die Beseitigung von Unfallfolgen zuständig sind, oder Dritte, soweit ihnen die Aufgabe der Entgegennahme der Anzeigen über Unfälle bei der Beförderung wassergefährdender Stoffe übertragen wurde und soweit sie für die Beseitigung von Unfallfolgen zuständig sind,
 
-c) im Falle des Absatzes 4 die vertretungsberechtigten natürlichen Personen der anerkannten Sachverständigenorganisationen zur Prüfung von Anlagen zum Umgang mit wassergefährdenden Stoffen,
+c) (weggefallen)
 
-8. § 10
+9. § 10
 
 die Inhaber oder Inhaberinnen oder Leitungen der genannten Unternehmen,
 
-9. § 11
-
-a) im Falle des Absatzes 1
+10. § 11
 
 die Inhaber oder Inhaberinnen oder Leitungen der genannten Unternehmen und Betriebe,
 
-b) im Falle des Absatzes 2
-
-die Inhaber oder Inhaberinnen oder Leitungen der genannten Anlagen oder die Gemeinden,
-
-10. § 12
+11. § 12
 
 die Inhaber oder Inhaberinnen und Leitungen der genannten Betriebe und Einrichtungen.
 
 (3) Soweit bei Verwaltungsstellen auf Grund nichtstatistischer Rechts- oder Verwaltungsvorschriften Angaben zu den Erhebungsmerkmalen einer Erhebung nach diesem Gesetz angefallen sind, dürfen auch die Verwaltungsstellen befragt werden. Insoweit sind neben den nach § 14 Abs. 2 Auskunftspflichtigen auch die Verwaltungsstellen auskunftspflichtig.
 
-(4) Für Unternehmen Betriebe und Einrichtungen, deren Inhaber oder Inhaberinnen Existenzgründer oder Existenzgründerinnen sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 keine Auskunftspflicht für Erhebungen nach den §§ 11 und 12. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen Betriebe und Einrichtungen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen sind.
+(4) Für Unternehmen, Betriebe und Einrichtungen, deren Inhaber oder Inhaberinnen Existenzgründer oder Existenzgründerinnen sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 keine Auskunftspflicht für Erhebungen nach den §§ 11 und 12. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen , der Betrieb oder die Einrichtung im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen sind.
 
 (5) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 4 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
 
@@ -490,15 +509,15 @@ die Inhaber oder Inhaberinnen und Leitungen der genannten Betriebe und Einrichtu
 
 (1) An die fachlich zuständigen obersten Bundes- und Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
-(2) Die statistischen Ämter des Bundes und der Länder dürfen die Ergebnisse der Erhebungen nach § 3, soweit es sich um öffentlich-rechtliche Abfallentsorgungsanlagen handelt, sowie nach §§ 7 und 11 Abs. 2 veröffentlichen, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
+(2) Die statistischen Ämter des Bundes und der Länder dürfen die Ergebnisse der Erhebungen nach § 3, soweit es sich um öffentlich-rechtliche Abfallentsorgungsanlagen handelt, sowie nach § 7 veröffentlichen, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
-(3) Die Angaben zu Investitionen, zu tätigen Personen und zum Umsatz in Unternehmen und Betrieben nach § 2 Satz 2 Buchstabe A Ziffer I Nummer 1 und 4 und Ziffer II, Buchstabe B Ziffer II Nummer 1, 3 und 4, § 3 Buchstabe A Ziffer I Nummer 1 und 3, Ziffer II Nummer 1 und Ziffer III Nummer 1 und 2, § 6 Buchstabe A Nummer 1, Buchstabe B Ziffer I Nummer 1 und Ziffer II Nummer 1 Buchstabe a und d sowie § 6a Buchstabe A Nummer 1, Buchstabe B Ziffer I Nummer 1 und 3 und Ziffer II Nummer 1 Buchstabe a und d des Gesetzes über die Statistik im Produzierenden Gewerbe dürfen, zusammen mit den Hilfsmerkmalen nach § 7 Absatz 2 Nummer 1 des Gesetzes über die Statistik im Produzierenden Gewerbe, für den Abgleich des Kreises der zu Befragenden und für die Plausibilisierung der erhobenen Daten über Investitionen für den Umweltschutz nach § 11 Absatz 1 Satz 1 Nummer 1 verwendet werden.
+(3) Die Angaben zu Investitionen, zu tätigen Personen und zum Umsatz in Unternehmen und Betrieben nach § 2 Satz 2 Buchstabe A Ziffer I Nummer 1 und 4 und Ziffer II, Buchstabe B Ziffer II Nummer 1, 3 und 4, § 3 Buchstabe A Ziffer I Nummer 1 und 3, Ziffer II Nummer 1 und Ziffer III Nummer 1 und 2, § 6 Buchstabe A Nummer 1, Buchstabe B Ziffer I Nummer 1 und Ziffer II Nummer 1 Buchstabe a und d sowie § 6a Buchstabe A Nummer 1, Buchstabe B Ziffer I Nummer 1 und 3 und Ziffer II Nummer 1 Buchstabe a und d des Gesetzes über die Statistik im Produzierenden Gewerbe dürfen, zusammen mit den Hilfsmerkmalen nach § 7 Absatz 2 Nummer 1 des Gesetzes über die Statistik im Produzierenden Gewerbe, für den Abgleich des Kreises der zu Befragenden und für die Plausibilisierung der erhobenen Daten über Investitionen für den Umweltschutz nach § 11 Satz 1 Nummer 1 verwendet werden.
 
 (4) Die Angaben zu tätigen Personen und zum Umsatz in Unternehmen oder Betrieben nach § 2 Buchstabe A Ziffer I Nummer 1 und 4 und Buchstabe B Ziffer II Nummer 1 und 3, § 4 Buchstabe A Ziffer I Nummer 1 und 4, Buchstabe B Ziffer I Nummer 1 und 4 und Buchstabe C Ziffer I Nummer 1 Buchstabe a und d und Nummer 2 sowie § 5 Ziffer I Nummer 1 und 3 des Gesetzes über die Statistik im Produzierenden Gewerbe dürfen, zusammen mit den Hilfsmerkmalen nach § 7 Absatz 2 Nummer 1 des Gesetzes über die Statistik im Produzierenden Gewerbe, für die Auswahl der zu Befragenden und für die Plausibilitätsprüfung der erhobenen Angaben über Güter und Leistungen für den Umweltschutz nach § 12 verwendet werden.
 
 (5) Die statistischen Ämter der Länder übermitteln dem Statistischen Bundesamt die von ihnen erhobenen Einzelangaben für Zusatzaufbereitungen des Bundes und für die Erfüllung von über- und zwischenstaatlichen Aufgaben.
 
-(6) Das Statistischen Bundesamt und die statistischen Ämter der Länder übermitteln dem Umweltbundesamt für eigene statistische Auswertungen insbesondere zur Erfüllung europa- und völkerrechtlicher Pflichten der Bundesrepublik Deutschland, jedoch nicht für die Regelung von Einzelfällen, unentgeltlich Tabellen mit statistischen Ergebnissen, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Die Tabellen dürfen nur von den für diese Aufgabe zuständigen Organisationseinheiten des Umweltbundesamtes gespeichert und genutzt und nicht an andere Stellen weitergegeben werden. Die Organisationseinheiten nach Satz 2 müssen von den mit Vollzugsaufgaben befassten Organisationseinheiten des Umweltbundesamtes räumlich, organisatorisch und personell getrennt sein.
+(6) Das Statistische Bundesamt und die statistischen Ämter der Länder übermitteln dem Umweltbundesamt für eigene statistische Auswertungen insbesondere zur Erfüllung europa- und völkerrechtlicher Pflichten der Bundesrepublik Deutschland, jedoch nicht für die Regelung von Einzelfällen, unentgeltlich Tabellen mit statistischen Ergebnissen, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Die Tabellen dürfen nur von den für diese Aufgabe zuständigen Organisationseinheiten des Umweltbundesamtes gespeichert und genutzt und nicht an andere Stellen weitergegeben werden. Die Organisationseinheiten nach Satz 2 müssen von den mit Vollzugsaufgaben befassten Organisationseinheiten des Umweltbundesamtes räumlich, organisatorisch und personell getrennt sein.
 
 § 16 Abs. 6 Satz 1 Kursivdruck: IdF d. Art. 1 Nr. 14 Buchst. d G v. 22.9.2021 I 4363 mWv 1.1.2022 (amtlicher Wortlaut)
 
@@ -511,3 +530,7 @@ a) die Durchführung einer Erhebung oder die Erhebung einzelner Merkmale auszuse
 b) einzelne neue Merkmale einzuführen, wenn dies zur Deckung eines geänderten Bedarfs für Zwecke der Umweltpolitik erforderlich ist und durch gleichzeitige Aussetzung anderer Merkmale eine Erweiterung des Erhebungsumfangs vermieden wird; nicht eingeführt werden können Merkmale, die die Höhe von Umsätzen, Einnahmen oder Gewinnen, Bildungs- oder Sozialdaten oder besondere Arten personenbezogener Daten nach § 3 Abs. 9 des Bundesdatenschutzgesetzes betreffen;
 
 c) die Erhebung von Merkmalen anzuordnen, soweit dies zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Union erforderlich ist.
+
+# § 18 – Übergangsregelung
+
+Für die Erhebung nach § 9 Absatz 2 für das Berichtsjahr 2024 ist § 9 Absatz 2 in der Fassung des Umweltstatistikgesetzes vom 16. August 2005 (BGBl. I S. 2446), das zuletzt durch Artikel 1 des Gesetzes vom 22. September 2021 (BGBl. I S. 4363) geändert worden ist, anzuwenden. Die in § 13 Absatz 1 Nummer 4 genannten Hilfsmerkmale werden ab dem Berichtsjahr 2023 erfasst.

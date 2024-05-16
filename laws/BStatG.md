@@ -211,11 +211,13 @@ Soweit es zur Gewinnung von statistischen Informationen ohne zusätzliche statis
 
 2. Daten aus dem Statistikregister,
 
-3. Daten nach dem Verwaltungsdatenverwendungsgesetz und
+3. Daten nach dem Verwaltungsdatenverwendungsgesetz,
 
-4. Daten, die die statistischen Ämter des Bundes und der Länder aus allgemein zugänglichen Quellen gewinnen.
+4. Daten, die die statistischen Ämter des Bundes und der Länder aus allgemein zugänglichen Quellen gewinnen sowie
 
-Zu diesem Zweck darf die Deutsche Bundesbank Daten aus den von ihr erstellten Wirtschaftsstatistiken an das Statistische Bundesamt übermitteln. Für Zusammenführungen nach Satz 1 dürfen Kennnummern nach § 1 Absatz 1 Satz 4 des Statistikregistergesetzes in den Datensätzen mit den Angaben zu den Erhebungsmerkmalen bis zu 30 Jahre gespeichert werden. Nach Ablauf der Speicherfrist sind die Kennnummern zu löschen. Die Frist beginnt mit Abschluss der jeweiligen Erhebung.
+5. Daten oberster Bundesbehörden, die diese zur Erfüllung statistischer Berichtspflichten nach dem Recht der Europäischen Union erhoben haben oder die zu diesem Zweck in deren Auftrag erhoben wurden.
+
+Für Zusammenführungen nach Satz 1 darf die Deutsche Bundesbank Daten aus den von ihr erstellten Wirtschaftsstatistiken an das Statistische Bundesamt übermitteln. Für Zusammenführungen nach Satz 1 dürfen die obersten Bundesbehörden und die von ihnen beauftragten Stellen die in Satz 1 Nummer 5 genannten Daten an das Statistische Bundesamt übermitteln. Soweit die nach Satz 1 Nummer 5 zusammengeführten Daten Merkmale enthalten, die der Identifikation von Einheiten im Statistikregister nach § 13 Absatz 1 dienen, werden diese Merkmale beim Statistischen Bundesamt spätestens vier Jahre nach Übermittlung der Daten gelöscht. Für Zusammenführungen nach Satz 1 dürfen Kennnummern nach § 1 Absatz 1 Satz 4 des Statistikregistergesetzes in den Datensätzen mit den Angaben zu den Erhebungsmerkmalen bis zu 30 Jahre gespeichert werden. Nach Ablauf der Speicherfrist sind die Kennnummern zu löschen. Die Frist beginnt mit Abschluss der jeweiligen Erhebung.
 
 # § 14 – Erhebungsbeauftragte
 
