@@ -1,4 +1,4 @@
-% Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems  (GAPInVeKoS-Verordnung)
+% Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems  (GAPInVeKoS-Verordnung - GAPInVeKoSV)
 % Ausfertigungsdatum: 19.12.2022
  
 # Eingangsformel
@@ -137,7 +137,7 @@ e) alle gekoppelten Einkommensstützungen,
 
 2. die in Artikel 3 Absatz 4 der Delegierten Verordnung (EU) 2022/126 der Kommission vom 7. Dezember 2021 zur Ergänzung der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates um zusätzliche Anforderungen für bestimmte, von den Mitgliedstaaten in ihren GAP-Strategieplänen für den Zeitraum 2023 bis 2027 gemäß der genannten Verordnung festgelegte Interventionskategorien sowie um Vorschriften über den Anteil für den Standard für den guten landwirtschaftlichen und ökologischen Zustand (GLÖZ-Standard) Nr. 1 (ABl. L 20 vom 31.1.2022, S. 52), in der jeweils geltenden Fassung, vorgesehene Mitteilung an die Europäische Kommission,
 
-3. die Bekanntmachung der in § 11 Absatz 2 Nummer 1 der GAP-Direktzahlungen-Verordnung bezeichneten Hanfsorten,
+3. die Bekanntmachung der Hanfsorten, deren Anbau dazu führt, dass für eine Fläche, auf der sie angebaut werden, Direktzahlungen gewährt werden dürfen oder nicht gewährt werden dürfen,
 
 4. die in § 1 Nummer 2 genannten Beihilfezahlungen an anerkannte Erzeugerorganisationen im Hopfensektor.
 
@@ -241,7 +241,7 @@ Der Betriebsinhaber hat im Sammelantrag anzugeben:
 
 # § 10 – Angaben zum aktiven Betriebsinhaber
 
-(1) Der Betriebsinhaber hat im Sammelantrag mindestens einen der in § 8 Nummer 1 bis 6 der GAP-Direktzahlungen-Verordnung genannten Fälle anzugeben, nach dem er zum Zeitpunkt der Antragstellung aktiver Betriebsinhaber ist. Bei dem erstmaligen Antrag auf Direktzahlungen ist zusätzlich das Datum anzugeben, an dem die Gründung oder Übernahme des Betriebs erfolgt ist.
+(1) Der Betriebsinhaber hat im Sammelantrag mindestens einen der in § 8 Nummer 1 bis 7 der GAP-Direktzahlungen-Verordnung genannten Fälle anzugeben, nach dem er zum Zeitpunkt der Antragstellung aktiver Betriebsinhaber ist. Bei dem erstmaligen Antrag auf Direktzahlungen ist zusätzlich das Datum anzugeben, an dem die Gründung oder Übernahme des Betriebs erfolgt ist.
 
 (2) Der Betriebsinhaber hat im Antrag des Weiteren anzugeben
 
@@ -251,7 +251,7 @@ Der Betriebsinhaber hat im Sammelantrag anzugeben:
 
 3. bei Angabe eines Falls nach § 8 Nummer 5 der GAP-Direktzahlungen-Verordnung eine Erklärung, dass er aufgrund seines Antrags für das Jahr vor dem Jahr der Antragstellung vor Anwendung von Sanktionen keinen Anspruch auf Direktzahlungen von über 5 000 Euro hatte.
 
-In den Fällen nach § 8 Nummer 1 bis 5 der GAP-Direktzahlungen-Verordnung ist dem Antrag ein geeigneter Nachweis über das Vorliegen des jeweiligen Falls beizufügen, sofern dieser Nachweis der zuständigen Behörde nicht bereits vorliegt. Soweit dem Sammelantrag für das Jahr 2023 der Nachweis nach Satz 2 nicht beigefügt worden ist und dieser der zuständigen Behörde nicht bereits vorliegt, kann der Antragsteller diesen bis spätestens zum 15. Dezember 2023 nachreichen. Ein geeigneter Nachweis ist in den Fällen nach § 8 Nummer 1 bis 3 der GAP-Direktzahlungen-Verordnung der jüngste Beleg über die Beitragszahlung oder, soweit dieser noch nicht vorliegt, ein Beleg über den Beginn der Zuständigkeit der jeweiligen Unfallversicherung.
+In den Fällen nach § 8 Nummer 1 bis 5 und Nummer 7 der GAP-Direktzahlungen-Verordnung ist dem Antrag ein geeigneter Nachweis über das Vorliegen des jeweiligen Falls beizufügen, sofern dieser Nachweis der zuständigen Behörde nicht bereits vorliegt. Soweit dem Sammelantrag der Nachweis nach Satz 2 nicht beigefügt worden ist und dieser der zuständigen Behörde nicht bereits vorliegt, kann der Antragsteller diesen bis spätestens zu dem in § 22 Absatz 1 genannten Termin nachreichen. Ein geeigneter Nachweis ist in den Fällen nach § 8 Nummer 1 bis 3 der GAP-Direktzahlungen-Verordnung der Beleg über die Beitragszahlung oder, soweit dieser noch nicht vorliegt, ein Beleg über den Beginn der Zuständigkeit der jeweiligen Unfallversicherung.
 
 # § 11 – Flächenbezogene Angaben
 
@@ -279,7 +279,9 @@ Er hat dabei besonders zu bezeichnen:
 
 8. landwirtschaftliche Flächen mit Agri-Photovoltaik-Anlagen im Sinne des § 12 Absatz 5 Satz 1 der GAP-Direktzahlungen-Verordnung,
 
-9. mit anderen Betriebsinhabern gemeinsam genutzte Flächen unter Angabe seines Anteils an der Nutzung.
+9. mit anderen Betriebsinhabern gemeinsam genutzte Flächen unter Angabe seines Anteils an der Nutzung,
+
+10. Flächen, die voraussichtlich nicht jederzeit während des Kalenderjahres die Voraussetzungen einer förderfähigen Fläche gemäß § 11 GAPDZV erfüllen werden.
 
 Sofern eine Fläche, die für den Anbau von Hanf genutzt werden soll, nicht bereits nach den Bestimmungen des Satzes 2 besonders zu bezeichnen ist, ist diese zusätzlich besonders zu bezeichnen und die für die Aussaat vorgesehene Sorte anzugeben.
 
@@ -333,17 +335,17 @@ Sofern der Betriebsinhaber Zahlungen für eine Öko-Regelung oder mehrere Öko-R
 
 a) § 20 Absatz 1 Nummer 1 Buchstabe a des GAP-Direktzahlungen-Gesetzes: Flächen nach Lage und Größe,
 
-b) § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes: Blühflächen und -streifen nach Lage und Größe und Angabe des Jahres der Aussaat sowie der Kategorie der Saatgutmischung nach Nummer 1.2.5 der Anlage 5 zur GAP-Direktzahlungen-Verordnung,
+b) § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes: Blühflächen und streifen nach Lage und Größe und Angabe des Jahres der Aussaat sowie der Kategorie der Saatgutmischung nach Nummer 1.2.5 der Anlage 5 zur GAP-Direktzahlungen-Verordnung,
 
 c) § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes: die Angaben nach Buchstabe b,
 
-d) § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes: Altgrasstreifen und -flächen nach Lage und Größe,
+d) § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes: Altgrasstreifen und flächen nach Lage und Größe,
 
 e) § 20 Absatz 1 Nummer 2 des GAP-Direktzahlungen-Gesetzes: für das gesamte Ackerland mit Ausnahme des brachliegenden Ackerlandes die Kulturarten nach Nutzungscode, die im Zeitraum vom 1. Juni bis zum 15. Juli des Antragsjahres am längsten auf der jeweiligen Fläche stehen als Hauptfruchtart im Sinne der Anlage 5 Nummer 2 zur GAP-Direktzahlungen-Verordnung sowie die Flächen nach Lage und Größe,
 
 f) § 20 Absatz 1 Nummer 3 des GAP-Direktzahlungen-Gesetzes: Flächen der Gehölzstreifen nach Lage und Größe, Anzahl der Gehölzstreifen,
 
-g) § 20 Absatz 1 Nummer 4 des GAP-Direktzahlungen-Gesetzes: voraussichtliche durchschnittliche Tierzahl je raufutterfressender Tierart gemäß dem in Anlage 5 Nummer 4.2 der GAP-Direktzahlungen-Verordnung aufgeführten Berechnungsschlüssel im Zeitraum vom 1. Januar bis zum 30. September des Antragsjahres im Gesamtbetrieb und die Dauergrünlandflächen nach Lage und Größe,
+g) § 20 Absatz 1 Nummer 4 des GAP-Direktzahlungen-Gesetzes: voraussichtliche durchschnittliche Tierzahl je raufutterfressender Tierart gemäß dem in Anlage 5 Nummer 4.2 der GAP-Direktzahlungen-Verordnung aufgeführten Berechnungsschlüssel im Antragsjahr im Gesamtbetrieb und die Dauergrünlandflächen nach Lage und Größe,
 
 h) § 20 Absatz 1 Nummer 5 des GAP-Direktzahlungen-Gesetzes: Flächen nach Lage und Größe und die Erklärung, dass mindestens vier der zulässigen Pflanzenarten oder Artengruppen aus der vom Belegenheitsland der Fläche durch Rechtsverordnung auf Grund von § 17 Absatz 3 der GAP-Direktzahlungen-Verordnung geregelten Liste der Kennarten oder Kennartengruppen des artenreichen Grünlands auf diesen Flächen vorkommen,
 
@@ -357,11 +359,11 @@ Nr. 2 Buchstabe d Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird das
 
 (1) Sofern der Betriebsinhaber die Zahlung für Mutterschafe und -ziegen beantragt, hat er im Sammelantrag zusätzlich folgende Angaben zu machen und folgende Erklärung beizufügen:
 
-1. die Anzahl der Mutterschafe und -ziegen, für die diese Zahlung beantragt wird,
+1. die Anzahl der Mutterschafe und ziegen, für die diese Zahlung beantragt wird,
 
-2. die Identifikation der Mutterschafe und -ziegen, für die diese Zahlung beantragt wird, und eine Erklärung, dass diese Tiere am 1. Januar des Antragsjahres mindestens 10 Monate alt waren,
+2. die Identifikation der Mutterschafe und ziegen, für die diese Zahlung beantragt wird, und eine Erklärung, dass diese Tiere am 1. Januar des Antragsjahres mindestens 10 Monate alt waren,
 
-3. den Aufenthaltsort der Tiere, für die diese Zahlung beantragt wird, sofern sich diese in einem anderen Land als dem der Stellung des Sammelantrags befinden,
+3. den Aufenthaltsort der Tiere, für die diese Zahlung beantragt wird, insbesondere sofern sich diese in einem anderen Land als dem der Stellung des Sammelantrags befinden,
 
 4. die Erklärung, dass die Tiere, für die diese Zahlung beantragt wird, im Haltungszeitraum im Betrieb gehalten und für sie im Haltungszeitraum die Pflichten zur Kennzeichnung und Registrierung eingehalten werden.
 
@@ -373,13 +375,13 @@ Nr. 2 Buchstabe d Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird das
 
 # § 15 – Besondere Angaben und Unterlagen bei Anbau von Nutzhanf
 
-(1) Sofern der Betriebsinhaber Direktzahlungen für Flächen beantragt, auf denen Hanf angebaut werden soll, hat er mit dem Sammelantrag einzureichen:
+(1) Sofern der Betriebsinhaber Direktzahlungen für Flächen beantragt, auf denen Hanf angebaut werden soll, hat er mit dem Sammelantrag elektronisch einzureichen:
 
-1. das amtliche Etikett oder eine Kopie des amtlichen Etiketts des Saatguts nach § 29 Absatz 2 der Saatgutverordnung oder
+1. das amtliche Etikett des Saatguts nach § 29 Absatz 2 der Saatgutverordnung oder
 
 2. das Etikett nach § 9 der Erhaltungssortenverordnung, sofern es sich um eine Erhaltungssorte handelt.
 
-Im Fall einer Einreichung einer Kopie ist das amtliche Etikett des Saatguts nach § 29 Absatz 2 der Saatgutverordnung bis zum 30. Juni des Antragsjahres nachzureichen.
+Im Antragsjahr 2024 können die in Satz 1 geforderten Etiketten auch in physischer Form eingereicht werden.
 
 (2) Bei einer Aussaat des Hanfs nach dem 30. Juni des Antragsjahres ist das Etikett des Saatguts nach Absatz 1 bis spätestens zum 1. September des Antragsjahres einzureichen.
 
@@ -461,7 +463,7 @@ d) zu erklären, dass diese nicht als natürliche Person für einen anderen Betr
 
 2. die Kulturarten nach Nutzungscode, die im Zeitraum vom 1. Juni bis zum 15. Juli des Antragsjahres am längsten auf der Fläche stehen, als Hauptkultur im Sinne des § 18 der GAP-Konditionalitäten-Verordnung,
 
-3. für jede landwirtschaftliche Parzelle des Ackerlands, soweit durchgeführt, die Zweitkultur nach § 18 Absatz 1 der GAP-Konditionalitäten-Verordnung, oder die Zwischenfrucht oder Untersaat nach § 18 Absatz 2 der GAP-Konditionalitäten-Verordnung sowie im Antragsjahr 2023 die gleichen Angaben auch für das Vorjahr, sofern diese nicht bereits der zuständigen Behörde vorliegen,
+3. für jede landwirtschaftliche Parzelle des Ackerlands, soweit durchgeführt, die Zwischenfrucht oder Untersaat nach § 18 Absatz 2 der GAP-Konditionalitäten-Verordnung sowie im Antragsjahr 2023 die gleichen Angaben auch für das Vorjahr, sofern diese nicht bereits der zuständigen Behörde vorliegen,
 
 4. die nichtproduktiven Flächen und Landschaftselemente nach § 20 der GAP-Konditionalitäten-Verordnung nach Lage und Größe und unter Angabe des Nutzungscodes oder der entsprechenden Kennzeichnung,
 
@@ -481,7 +483,9 @@ d) zu erklären, dass diese nicht als natürliche Person für einen anderen Betr
 
 (1) Der einheitliche letzte Termin nach Artikel 7 der Durchführungsverordnung (EU) 2022/1173 der Kommission vom 31. Mai 2022 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik (ABl. L 183 vom 8.7.2022, S. 23) in der jeweils geltenden Fassung zur Änderung oder vollständigen oder teilweisen Rücknahme des Sammelantrags ist unbeschadet der dort geregelten Einschränkungen der 30. September des Antragsjahres.
 
-(2) Abweichend von Absatz 1 können landwirtschaftliche Parzellen und Flächen nach § 11 Absatz 1 bis zum 31. Mai eines Antragsjahres nachgemeldet werden.
+(2) Bis zum 31. Mai eines Antragsjahres können landwirtschaftliche Parzellen und Flächen nach § 11 Absatz 1 nachgemeldet werden.
+
+(3) Die Änderung eines Sammelantrags durch die Nachmeldung von Tieren, für die die Zahlung für Mutterschafe und -ziegen oder die Zahlung für Mutterkühe beantragt wird, ist nur bis einschließlich 15. Mai zulässig.
 
 # § 23 – Berichtigung offensichtlicher Irrtümer
 
@@ -495,7 +499,7 @@ Die Bundesanstalt hat den anerkannten Erzeugerorganisationen im Hopfensektor vor
 
 (1) Hanf darf, ausgenommen auf den nach Satz 2 festgelegten Parzellenteilen, ab Beginn der Blüte auch vor Ablauf von zehn Tagen nach Ende der Blüte geerntet werden, sobald der Betriebsinhaber eine darauf gerichtete Mitteilung von der Bundesanstalt erhalten hat. Die Mitteilung nach Satz 1 hat zu erfolgen, sobald die Bundesanstalt den Beginn der Blüte festgestellt und die Parzellenteile festgelegt hat, die im Hinblick auf die Kontrolle nach dem in Anhang I der Delegierten Verordnung (EU) 2022/126 genannten Verfahren bis zehn Tage nach Ende der Blüte nicht abgeerntet werden dürfen.
 
-(2) Ein Betriebsinhaber, der Hanf anbaut auf einer Fläche, für die er Direktzahlungen beantragt hat, hat der Bundesanstalt den Beginn der Blüte unverzüglich nach deren Beginn schriftlich oder elektronisch mitzuteilen.
+(2) Ein Betriebsinhaber, der Hanf anbaut auf einer Fläche, für die er Direktzahlungen beantragt hat, und der von der Bundesanstalt eine Mitteilung erhalten hat, dass er für eine Kontrolle nach Absatz 3 vorgesehen ist, hat der Bundesanstalt den Beginn der Blüte unverzüglich nach deren Beginn schriftlich oder elektronisch mitzuteilen.
 
 (3) Hanfflächen dürfen bei dem zu kontrollierenden Betriebsinhaber vollständig abgeerntet werden, sobald die Bundesanstalt die erforderlichen Proben für die Kontrolle des Gehalts an Tetrahydrocannabinol des Hanfs genommen hat. Die Bundesanstalt hat dem Betriebsinhaber das Ergebnis der Kontrolle des Gehalts an Tetrahydrocannabinol mitzuteilen.
 
@@ -509,7 +513,7 @@ Die Bundesanstalt hat die Hanfsorten, im Falle deren Anbaus eine Fläche nach §
 
 (1) Die Länder haben, soweit der Anbau von Hopfen und Hanf betroffen ist, dem Bundesministerium für Ernährung und Landwirtschaft die zur Erfüllung der der Bundesrepublik Deutschland gegenüber den Organen der Europäischen Union nach den in § 1 Nummer 1 und 2 genannten Rechtsakten obliegenden Mitteilungspflichten erforderlichen Angaben mitzuteilen.
 
-(2) Die zuständigen Behörden der Länder haben der Bundesanstalt bis zum 15. Juli des Jahres, in dem die Antragstellung erfolgt, mitzuteilen:
+(2) Die zuständigen Behörden der Länder haben der Bundesanstalt bis zum 1. Juli des Jahres, in dem die Antragstellung erfolgt, mitzuteilen:
 
 1. die Gesamtzahl der Hanfanbauflächen, für die eine Zahlung beantragt wurde,
 
@@ -517,7 +521,7 @@ Die Bundesanstalt hat die Hanfsorten, im Falle deren Anbaus eine Fläche nach §
 
 3. für jede der in Nummer 2 genannten Flächen die Hanfsorten, die auf der Fläche ausgesät wurden oder noch ausgesät werden sollen.
 
-Für jede der in Satz 1 Nummer 2 genannten Flächen sind die in § 15 genannten Etiketten für das ausgesäte Hanfsaatgut vorzulegen, im Falle der Aussaat von Hanf nach dem 30. Juni des Antragsjahres spätestens zum 15. September desselben Jahres.
+Für jede der in Satz 1 Nummer 2 genannten Flächen sind die in § 15 genannten Etiketten für das ausgesäte Hanfsaatgut elektronisch vorzulegen, im Falle der Aussaat von Hanf nach dem 30. Juni des Antragsjahres spätestens zum 15. September desselben Jahres. Im Antragsjahr 2024 können die in § 15 genannten Etiketten auch in physischer Form vorgelegt werden.
 
 (3) Soweit die zuständigen Behörden der Länder bei Kontrollen Abweichungen von den Angaben nach Absatz 2 Nummer 1 bis 3 feststellen, haben sie diese Abweichungen der Bundesanstalt mitzuteilen.
 
@@ -601,7 +605,9 @@ Dem Betriebsinhaber ist eine Kopie des Kontrollberichts bereitzustellen.
 
 Erfolgt eine betriebsbezogene Auswahl, kann die Kontrolle auf eine nach dem Zufallsprinzip ausgewählte Stichprobe von mindestens 50 Prozent der relevanten landwirtschaftlichen Parzellen begrenzt werden.
 
-(3) Abweichend von Absatz 1 können die Landesregierungen durch Rechtsverordnung nach § 17 Absatz 1 Satz 2 Nummer 6 in Verbindung mit Absatz 3 Satz 1 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes für das Antragsjahr 2023 bestimmen, dass Kontrollen durch das Flächenüberwachungssystem nur bei einzelnen flächenbezogenen Direktzahlungen erfolgen.
+(3) Informationen aus den Qualitätsbewertungen nach den Artikeln 4 und 5 der Delegierten Verordnung (EU) 2022/1172 der Kommission vom 4. Mai 2022 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik und der Verhängung und Berechnung von Verwaltungssanktionen im Bereich der Konditionalität (ABl. L 183 vom 8.7.2022, S. 12), die durch die Delegierte Verordnung (EU) 2023/744 (ABl. L 99 vom 12.4.2023, S. 1) geändert worden ist, dürfen für die Kontrolle bei flächenbezogenen Direktzahlungen herangezogen werden.
+
+(4) Abweichend von Absatz 1 können die Landesregierungen durch Rechtsverordnung nach § 17 Absatz 1 Satz 2 Nummer 6 in Verbindung mit Absatz 3 Satz 1 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes für das Antragsjahr 2023 bestimmen, dass Kontrollen durch das Flächenüberwachungssystem nur bei einzelnen flächenbezogenen Direktzahlungen erfolgen.
 
 # § 33 – Vor-Ort-Kontrollen bei dem Flächenüberwachungssystem
 
@@ -613,7 +619,7 @@ Erfolgt eine betriebsbezogene Auswahl, kann die Kontrolle auf eine nach dem Zufa
 
 (1) Die Fördervoraussetzungen der gekoppelten Einkommensstützungen sind für jede der gekoppelten Einkommensstützungen durch eine Stichprobe jährlicher Vor-Ort-Kontrollen zu überprüfen. Die jährliche Stichprobe hat bei der Zahlung für Mutterschafe und -ziegen und bei der Zahlung für Mutterkühe jeweils mindestens drei Prozent der Betriebsinhaber zu umfassen, die die jeweilige Zahlung beantragt haben.
 
-(2) Die Auswahl der Betriebsinhaber nach Absatz 1 hat zu einem von der zuständigen Behörde festgelegten Anteil nach dem Zufallsprinzip zu erfolgen. Dieser soll grundsätzlich 20 bis 30 Prozent betragen. Der verbleibende Anteil ist auf Basis einer Risikoanalyse auszuwählen. Werden bei mehr als 10 Prozent der zufällig ausgewählten Betriebsinhaber Verstöße festgestellt, ist die jeweilige Kontrollrate nach Absatz 1 im Folgejahr auf fünf Prozent zu erhöhen. Sofern die Kontrollrate bereits im aktuellen Jahr erhöht wurde, ist sie bei fünf Prozent zu belassen.
+(2) Die Auswahl der Betriebsinhaber nach Absatz 1 hat zu einem von der zuständigen Behörde festgelegten Anteil nach dem Zufallsprinzip zu erfolgen. Dieser soll grundsätzlich 20 bis 30 Prozent betragen. Der verbleibende Anteil ist auf Basis einer Risikoanalyse auszuwählen. Werden bei mehr als zehn Prozent der zufällig ausgewählten Betriebsinhaber und mehr als fünf Prozent der vor Ort kontrollierten Tiere Verstöße festgestellt, ist die jeweilige Kontrollrate nach Absatz 1 im Folgejahr auf fünf Prozent zu erhöhen. Sofern die Kontrollrate bereits im aktuellen Jahr erhöht wurde, ist sie bei fünf Prozent zu belassen.
 
 # § 35 – Gegenstand der Vor-Ort-Kontrollen bei gekoppelten Einkommensstützungen
 
@@ -681,7 +687,7 @@ Die Auswahl der Betriebsinhaber und Flächen nach § 38 für eine Kontrollstichp
 
 1. im Falle der Öko-Regelung nach § 20 Absatz 1 Nummer 1 des GAP-Direktzahlungen-Gesetzes für die Maßnahmen nach dessen Buchstaben b und c die amtlichen Saatgutetiketten der auf den jeweiligen Flächen ausgesäten Saatgutmischungen oder, wenn amtliche Saatgutetiketten fehlen, insbesondere bei der Aussaat selbst erzeugter Saatgutmischungen, geeignete Nachweise, insbesondere Rückstellproben,
 
-2. im Falle der Öko-Regelung nach § 20 Absatz 1 Nummer 4 des GAP-Direktzahlungen-Gesetzes geeignete Aufzeichnungen zum Nachweis des Viehbesatzes je Hektar förderfähigem Dauergrünland von raufutterfressenden Großvieheinheiten vom 1. Januar bis 30. September und für das Dauergrünland geeignete schlagbezogene Aufzeichnungen und Nachweise über die Verwendung von Düngemitteln einschließlich Wirtschaftsdüngern sowie gegebenenfalls Ausnahmegenehmigungen zum Einsatz von Pflanzenschutzmitteln,
+2. im Falle der Öko-Regelung nach § 20 Absatz 1 Nummer 4 des GAP-Direktzahlungen-Gesetzes geeignete Aufzeichnungen zum Nachweis des Viehbesatzes je Hektar förderfähigem Dauergrünland von raufutterfressenden Großvieheinheiten im Antragsjahr und für das Dauergrünland geeignete schlagbezogene Aufzeichnungen und Nachweise über die Verwendung von Düngemitteln einschließlich Wirtschaftsdüngern sowie gegebenenfalls Ausnahmegenehmigungen zum Einsatz von Pflanzenschutzmitteln,
 
 3. im Falle der Öko-Regelung nach § 20 Absatz 1 Nummer 5 des GAP-Direktzahlungen-Gesetzes Nachweise über das Vorkommen von mindestens vier Pflanzenarten oder Artengruppen aus der vom Belegenheitsland der Fläche durch Rechtsverordnung auf Grund des § 17 Absatz 3 der GAP-Direktzahlungen-Verordnung geregelten Liste der Kennarten oder Kennartengruppen des artenreichen Grünlands, die mittels der dort dafür festgelegten Methode erstellt wurden, soweit nicht bereits eine entsprechende Mitteilung an die zuständige Behörde erfolgt ist,
 
@@ -756,6 +762,24 @@ Kann das Vorliegen einer Fördervoraussetzung mangels Mitwirkung des Betriebsinh
 
 (2) Jede zu gewährende Direktzahlung, im Fall der Öko-Regelung nach § 20 Absatz 1 Nummer 1 des GAP-Direktzahlungen-Gesetzes die zu gewährende Direktzahlung für jede dort bezeichnete Maßnahme, ist auf Grundlage der im Sammelantrag gemachten Angaben zu Flächen und Tieren zu berechnen. Bei jeder nach Satz 1 zu berechnenden Direktzahlung sind abweichend von Satz 1 die ermittelten Flächen und ermittelten Tiere maßgeblich, sofern bei Kontrollen festgestellt wird, dass die im Sammelantrag angemeldeten Flächen und Tiere größer sind als die ermittelten Flächen und ermittelten Tiere nach Absatz 1 nach Größe oder Anzahl.
 
+(3) Im Fall der Öko-Regelung nach § 20 Absatz 1 Nummer 4 des GAP-Direktzahlungen-Gesetzes gilt das gesamte förderfähige Dauergrünland auch dann als ermittelt, wenn im Antragsjahr Dauergrünland des Betriebsinhabers im Umfang von höchstens 500 Quadratmetern je Region im Sinne des § 4 Absatz 2 des GAP-Konditionalitäten-Gesetzes gepflügt wird.
+
+# § 42a – Verstöße gegen die Vorschriften des Systems zur Kennzeichnung und Registrierung von Rindern, Mutterschafen und Mutterziegen
+
+(1) Ein im Betrieb vorhandenes Rind, das eines der beiden Kennzeichnungsmittel verloren hat, gilt auch als ermittelt, sofern es durch die übrigen Elemente des Systems zur Kennzeichnung und Registrierung von Rindern nach Teil IV Titel 1 der Verordnung (EU) 2016/429 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit (ABl. L 84 vom 31.3.2016, S. 1; L 57 vom 3.3.2017, S. 65; L 84 vom 20.3.2020, S. 24; L 48 vom 11.2.2021, S. 3; L 224 vom 24.6.2021, S. 42; L 310 vom 1.12.2022, S. 18) in der jeweils geltenden Fassung eindeutig identifiziert werden kann.
+
+(2) Ein im Betrieb vorhandenes Mutterschaf oder eine im Betrieb vorhandene Mutterziege, das oder die eines der beiden Kennzeichnungsmittel verloren hat, gilt auch als ermittelt, sofern
+
+1. das Tier durch ein Kennzeichen nach Artikel 108 Absatz 3 der Verordnung (EU) 2016/429 weiterhin identifiziert werden kann und
+
+2. alle sonstigen Anforderungen des Systems zur Kennzeichnung und Registrierung von Schafen und Ziegen erfüllt sind.
+
+(3) Ein einzelnes Rind, ein einzelnes Mutterschaf oder eine einzelne Mutterziege im Betrieb, das oder die beide Kennzeichnungsmittel verloren hat, gilt auch als ermittelt, sofern
+
+1. dieses Tier durch das Register, einen Tierpass, die Datenbank oder ein sonstiges Mittel nach der Verordnung (EU) 2016/429 weiterhin eindeutig identifiziert werden kann und
+
+2. der Tierhalter nachweist, dass er bereits vor Ankündigung der Vor-Ort-Kontrolle Abhilfemaßnahmen getroffen hat.
+
 # § 43 – Sanktion bei der Nichtanmeldung aller Flächen
 
 Der Gesamtbetrag der dem Betriebsinhaber für ein bestimmtes Jahr im Rahmen von flächenbezogenen Direktzahlungen zu gewährenden Zahlungen ist um drei Prozent zu kürzen (Nichtanmeldungssanktion), sofern
@@ -806,9 +830,11 @@ so wird die ermittelte Anzahl im Umfang der Differenz zwischen den angemeldeten 
 
 # § 46 – Verspätete Einreichung des Sammelantrags
 
-(1) Jede Direktzahlung ist vorbehaltlich des Absatzes 2 zu kürzen, sofern der Sammelantrag nach Ablauf der in § 6 Absatz 1 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes genannten Frist eingereicht wird (Fristsanktion). Der Kürzungsbetrag beträgt für jeden Kalendertag, um den der Antrag verspätet eingereicht wird, ein Prozent der berechneten Direktzahlung.
+(1) Jede Direktzahlung ist zu kürzen, sofern der Sammelantrag nach Ablauf der in § 6 Absatz 1 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes genannten Frist eingereicht wird (Fristsanktion). Der Kürzungsbetrag beträgt für jeden Kalendertag, um den der Antrag verspätet eingereicht wird, ein Prozent der berechneten Direktzahlung.
 
-(2) Wird der Sammelantrag nach dem 31. Mai eingereicht, ist er abzulehnen.
+(2) Ein Antrag auf gekoppelte Einkommensstützung für den Sektor Schaf- und Ziegenfleisch oder für den Sektor Rind- und Kalbfleisch, der nach dem 15. Mai eingereicht wird, ist abzulehnen.
+
+(3) Wird der Sammelantrag nach dem 31. Mai eingereicht, ist er abzulehnen.
 
 # § 47 – Reihenfolge der Abzüge
 

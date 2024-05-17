@@ -553,7 +553,7 @@ Die Bundesnetzagentur kann ihre Anordnungen, insbesondere Fristsetzungen zur Ant
 
 (5) Der Träger des Vorhabens kann einen Antrag auf Anwendung von § 5 Absatz 5 in seiner bis zum Ablauf des 29. Dezember 2023 geltenden Fassung stellen. Der Antrag muss bis zum Ablauf des 29. Februar 2024 gestellt sein, andernfalls ist § 5 Absatz 5 in seiner ab dem 29. Dezember 2023 geltenden Fassung in der Bundesfachplanung anzuwenden. In einem Antrag auf Anwendung von § 5 Absatz 5 in seiner bis zum Ablauf des 29. Dezember 2023 geltenden Fassung ist zugleich ein Antrag auf Nichtanwendung des § 18 Absatz 4 Satz 2 zu sehen, mit der Folge, dass im Planfeststellungsverfahren § 18 Absatz 4 Satz 2 nicht anzuwenden ist.
 
-(6) Bei Planfeststellungsverfahren, die bis zum Ablauf des 30. Juni 2024 begonnen werden, kann der Vorhabenträger bei der Antragstellung verlangen, das Verfahren nach den §§ 19 bis 21 in der bis zum 29. Dezember 2023 geltenden Fassung zu führen. Im Fall eines solchen Verlangens ist auch § 33 Absatz 1 Nummer 3 in der bis zum Ablauf des 29. Dezember 2023 geltenden Fassung anzuwenden.
+(6) Bei Planfeststellungsverfahren, die bis zum Ablauf des 30. Juni 2025 begonnen werden, kann der Vorhabenträger bei der Antragstellung verlangen, das Verfahren nach den §§ 19 bis 21 in der bis zum 29. Dezember 2023 geltenden Fassung zu führen. Im Fall eines solchen Verlangens ist auch § 33 Absatz 1 Nummer 3 in der bis zum Ablauf des 29. Dezember 2023 geltenden Fassung anzuwenden.
 
 # § 36 – Evaluierung
 

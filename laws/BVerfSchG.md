@@ -163,7 +163,7 @@ Die Bundesregierung kann, wenn ein Angriff auf die verfassungsmäßige Ordnung d
 
 3. (weggefallen)
 
-4. denjenigen, die geschäftsmäßig Telekommunikationsdienste erbringen oder daran mitwirken, zu Verkehrsdaten nach § 9 Absatz 1 Satz 1 Nummer 1 bis 4 des Telekommunikation-Telemedien-Datenschutz-Gesetzes und sonstigen zum Aufbau und zur Aufrechterhaltung der Telekommunikation notwendigen Verkehrsdaten und
+4. denjenigen, die geschäftsmäßig Telekommunikationsdienste erbringen oder daran mitwirken, zu Verkehrsdaten nach § 9 Absatz 1 Satz 1 Nummer 1 bis 4 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes und sonstigen zum Aufbau und zur Aufrechterhaltung der Telekommunikation notwendigen Verkehrsdaten und
 
 5. denjenigen, die geschäftsmäßig Teledienste erbringen oder daran mitwirken, zu
 
@@ -246,7 +246,7 @@ Zur Regelung der Datenübermittlung kann in der Rechtsverordnung auf Veröffentl
 
 1. Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 3 Nummer 6 und § 172 des Telekommunikationsgesetzes,
 
-2. Telemediendienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes.
+2. digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes erbringt oder daran mitwirkt, über Bestandsdaten nach § 2 Absatz 2 Nummer 2 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes.
 
 Zur Auskunft sind Unternehmen verpflichtet, die in Deutschland
 

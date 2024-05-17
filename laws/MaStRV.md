@@ -217,7 +217,7 @@ Bei jeder Registrierung müssen die Daten eingetragen werden, die nach der Anlag
 
 2. durch den Betreiber abgeändert wurden.
 
-(2) Netzbetreiber müssen die Daten innerhalb eines Monats nach der Aufforderung durch die Bundesnetzagentur überprüfen. Die Frist nach Satz 1 beginnt bei Daten zu Stromerzeugungseinheiten, die Teil einer EEG- oder KWK-Anlage sind, die eine Zahlung nach dem Erneuerbare-Energien-Gesetz oder dem Kraft-Wärme-Kopplungsgesetz in Anspruch nehmen wollen, deren Höhe nicht durch Ausschreibungen ermittelt worden ist, mit der Übermittlung des Inbetriebnahmeprotokolls durch den Anlagenbetreiber an den Netzbetreiber, spätestens jedoch sechs Monate nach der Aufforderung der Bundesnetzagentur. Der Netzbetreiber teilt der Bundesnetzagentur das Prüfergebnis mit. Übermittelt ein Netzbetreiber der Bundesnetzagentur als Prüfergebnis einen Hinweis auf einen möglichen Datenfehler oder von den eingetragenen Daten abweichende Daten, so ist § 10 Absatz 2 entsprechend anzuwenden.
+(2) Netzbetreiber müssen die Daten innerhalb eines Monats nach der Aufforderung durch die Bundesnetzagentur überprüfen. Die Frist nach Satz 1 beginnt bei Daten zu Stromerzeugungseinheiten, die Teil einer EEG- oder KWK-Anlage sind und bei denen die Höhe des anzulegenden Werts oder der Zuschlagszahlung nicht durch Ausschreibungen ermittelt worden ist, mit der Übermittlung des Inbetriebnahmeprotokolls durch den Anlagenbetreiber an den Netzbetreiber, spätestens jedoch sechs Monate nach der Aufforderung der Bundesnetzagentur. Der Netzbetreiber teilt der Bundesnetzagentur das Prüfergebnis mit. Übermittelt ein Netzbetreiber der Bundesnetzagentur als Prüfergebnis einen Hinweis auf einen möglichen Datenfehler oder von den eingetragenen Daten abweichende Daten, so ist § 10 Absatz 2 entsprechend anzuwenden.
 
 (3) Die Bundesnetzagentur kennzeichnet die erfolgte Überprüfung der Daten durch den Netzbetreiber im Marktstammdatenregister.
 
@@ -251,7 +251,7 @@ a) Standortangaben zu Straße, Hausnummer, Flurstücksbezeichnungen und Geokoord
 
 b) Daten, die nach der Anlage als vertraulich gekennzeichnet sind, und
 
-c) Daten zu Einheiten, die nach § 2 Absatz 5 in Verbindung mit Anhang 1 der BSI-Kritisverordnung als kritische Infrastrukturen gelten, soweit der Betreiber gegenüber der Bundesnetzagentur nachweist, dass die Daten besonders schutzbedürftig sind;
+c) Daten zu Einheiten, die nach § 2 Absatz 6 in Verbindung mit Anhang 1 der BSI-Kritisverordnung als kritische Infrastrukturen gelten, soweit der Betreiber gegenüber der Bundesnetzagentur nachweist, dass die Daten besonders schutzbedürftig sind;
 
 2. Daten zu Marktakteuren nach der Anlage Tabelle I werden nicht veröffentlicht, wenn der Marktakteur eine natürliche Person ist; Daten sonstiger Marktakteure werden veröffentlicht.
 
@@ -285,7 +285,7 @@ Betreiber von mehreren Stromerzeugungseinheiten dürfen aus Vertraulichkeitsgrü
 
 Die Bundesnetzagentur muss jeden Zugang, den sie nach Satz 1 eröffnet, im Internet bekanntmachen und dabei die angegebene gesetzliche Aufgabe der jeweiligen Behörde benennen.
 
-(4) Andere als die in Absatz 3 genannten Behörden erhalten auf Anforderung von der Bundesnetzagentur Daten, die nach § 15 Absatz 1 nicht veröffentlicht werden, einschließlich personenbezogener Daten, soweit dies zur Erfüllung der gesetzlichen Aufgaben dieser Behörden im Einzelfall erforderlich ist. Die Bundesnetzagentur muss jede Übermittlung nach Satz 1 dokumentieren und dabei die gesetzliche Aufgabe der jeweiligen Behörde benennen.
+(4) Andere als die in Absatz 3 genannten Behörden erhalten auf Anforderung von der Bundesnetzagentur Daten, die nach § 15 Absatz 1 nicht veröffentlicht werden, einschließlich personenbezogener Daten, soweit dies zur Erfüllung der gesetzlichen Aufgaben dieser Behörden im Einzelfall erforderlich ist. Sofern sich die Anforderung von Daten nach Satz 1 ausschließlich auf Daten von Anlagen bezieht, kann die Übermittlung der Daten nach Satz 1 im automatisierten Abrufverfahren erfolgen, wenn es sich bei der gesetzlichen Aufgabe der in Satz 1 genannten Behörden jeweils um eine dauerhaft angelegte Aufgabe handelt. Für Abrufmöglichkeiten nach Satz 2 ist Absatz 3 Satz 2 entsprechend anzuwenden. Die Bundesnetzagentur hat jeweils über die Abrufe Aufzeichnungen zu fertigen, die die bei der Durchführung der Abrufe verwendeten Daten, den Tag und die Uhrzeit der Abrufe, die Nummer nach § 8 Absatz 2 der abrufenden Behörde nach Satz 1 und die abgerufenen Daten enthalten müssen. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind durch geeignete Vorkehrungen gegen zweckfremde Verwendung und gegen sonstigen Missbrauch zu schützen und nach sechs Monaten zu löschen.
 
 (5) Die Bundesnetzagentur und die Behörden nach Absatz 3 dürfen Daten, die nach § 15 Absatz 1 nicht veröffentlicht werden, einschließlich personenbezogener Daten, zu im öffentlichen Interesse liegenden Archivzwecken, zu wissenschaftlichen oder historischen Forschungszwecken und zu statistischen Zwecken nach Maßgabe des Artikels 89 der Verordnung (EU) 2016/679 übermitteln. Die Vorschriften des Bundesstatistikgesetzes und der Statistikgesetze der Länder sowie des Bundesarchivgesetzes oder der Archivgesetze der Länder bleiben unberührt.
 
@@ -307,39 +307,13 @@ Datenzugang nach Satz 1 ist entsprechend den zuständigen Übertragungsnetzbetre
 
 (3) Netzbetreiber müssen Daten, zu denen ihnen Zugang nach Absatz 1 oder nach § 13 gewährt wurde, unverzüglich löschen, sobald sie die Daten nicht mehr zur Erfüllung ihrer gesetzlichen Aufgaben sowie zur Überprüfung nach § 13 Absatz 1 benötigen. Die Löschpflicht ist entsprechend auf die zuständigen Übertragungsnetzbetreiber und den zuständigen Marktgebietsverantwortlichen anzuwenden.
 
-# § 18 – Zusätzliche Meldepflichten
+# § 18 – Zusätzliche Meldepflicht
 
-(1) Betreiber von EEG-Anlagen, für die erstmals die Flexibilitätsprämie nach § 50b des Erneuerbare-Energien-Gesetzes in Anspruch genommen werden soll, müssen die geplante Inanspruchnahme im Marktstammdatenregister eintragen. Die Eintragung darf frühestens drei Monate vor der geplanten Inanspruchnahme der Flexibilitätsprämie erfolgen. Diese Frist ist abweichend von § 7 Absatz 1 auch anzuwenden auf die Registrierung einer Erhöhung der installierten Leistung der Anlage, wenn die Leistung zur Inanspruchnahme der Flexibilitätsprämie erhöht wird.
-
-(2) Die Eintragung der Angabe nach § 23c Absatz 1 Nummer 1 des Erneuerbare-Energien-Gesetzes kann frühestens im Rahmen der Registrierung nach § 5 Absatz 1 erfolgen. § 7 Absatz 1 ist für diese Angabe nicht anzuwenden.
-
-(3) Betreiber von Wasserkraftanlagen müssen vorgenommene Ertüchtigungen im Sinne von § 40 Absatz 2 des Erneuerbare-Energien-Gesetzes nach Maßgabe der Anlage zu dieser Verordnung innerhalb eines Monats nach der Inbetriebnahme der ertüchtigten Anlage eintragen.
+Betreiber von Wasserkraftanlagen müssen vorgenommene Ertüchtigungen im Sinne von § 40 Absatz 2 des Erneuerbare-Energien-Gesetzes nach Maßgabe der Anlage zu dieser Verordnung innerhalb eines Monats nach der Inbetriebnahme der ertüchtigten Anlage eintragen.
 
 # § 19 – Veröffentlichungen
 
-Die Bundesnetzagentur veröffentlicht auf einer von ihr betriebenen Internetseite:
-
-1. spätestens zum letzten Kalendertag eines Monats
-
-a) den Brutto-Zubau von Windenergieanlagen an Land und auf See im jeweils vorangegangenen Kalendermonat; hierbei ist jeweils gesondert auszuweisen der Brutto-Zubau von Pilotwindenergieanlagen an Land und auf See,
-
-b) den Brutto-Zubau von Solaranlagen im jeweils vorangegangenen Kalendermonat; hierbei ist gesondert auszuweisen:
-
-aa)  
-der Brutto-Zubau von Solaranlagen, deren anzulegender Wert gesetzlich bestimmt worden ist, hiervon ist gesondert auszuweisen der Wert von Freiflächenanlagen, deren anzulegender Wert nicht durch Ausschreibungen ermittelt worden ist,
-
-bb)  
-der Brutto-Zubau von Solaranlagen, deren anzulegender Wert durch Ausschreibungen bestimmt worden ist, hiervon ist gesondert auszuweisen der Wert von Solaranlagen, deren anzulegender Wert durch Sonderausschreibungen bestimmt worden ist,
-
-c) den Brutto-Zubau von Biomasseanlagen im jeweils vorangegangenen Kalendermonat; hierbei ist gesondert auszuweisen der Brutto-Zubau von Biomasseanlagen, deren anzulegender Wert nicht durch Ausschreibung ermittelt worden ist, und
-
-d) die Summe der installierten Leistung der Biomasseanlagen, die die Geltendmachung des verlängerten Zahlungsanspruchs nach § 12a der Erneuerbare-Energien-Verordnung mitgeteilt haben, und
-
-2. spätestens zum letzten Kalendertag des auf einen Bezugszeitraum nach § 49 Absatz 4 des Erneuerbare-Energien-Gesetzes folgenden Kalendermonats
-
-a) den annualisierten Brutto-Zubau von Solaranlagen in dem Bezugszeitraum und
-
-b) die anzulegenden Werte, die sich jeweils nach Maßgabe von § 49 des Erneuerbare-Energien-Gesetzes für Solaranlagen ergeben.
+Die Bundesnetzagentur veröffentlicht spätestens zum letzten Kalendertag jeden Monats den Zubau der erneuerbaren Energien im vorangegangenen Monat auf einer von ihr betriebenen Internetseite.
 
 (+++ Neufassung d. § 19 Abs. 1 gem. Art. 10 Nr. 7 G v. 20.7.2022 I 1237 mWv 1.1.2023 aufgrund textlicher Unstimmigkeit nicht ausführbar +++)
 
@@ -353,7 +327,7 @@ b) die anzulegenden Werte, die sich jeweils nach Maßgabe von § 49 des Erneuerb
 
 # § 21 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinn des § 95 Absatz 1 Nummer 5 Buchstabe d des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinn des § 95 Absatz 1 Nummer 5 Buchstabe e des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 3 Absatz 1, § 5 Absatz 1, 3 oder 4 Satz 1 oder § 7 Absatz 1 eine Registrierung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt oder
 
@@ -381,13 +355,12 @@ Die Bundesnetzagentur kann Festlegungen nach § 29 Absatz 1 des Energiewirtschaf
 
 (1) Ansprüche auf Zahlungen von Marktprämien, Einspeisevergütungen und Flexibilitätsprämien nach dem Erneuerbare-Energien-Gesetz sowie Ansprüche auf Zahlungen nach dem Kraft-Wärme-Kopplungsgesetz werden erst fällig, wenn die Betreiber die Einheiten registriert haben oder, bei KWK-Anlagen, die Wiederaufnahme des Betriebs nach ihrer Modernisierung registriert haben. Dies gilt entsprechend für Abschlagszahlungen auf diese Zahlungen. Die Sätze 1 und 2 sind auf Einheiten und EEG-Anlagen, die vor dem 1. Februar 2019 in Betrieb genommen wurden, und auf KWK-Anlagen, die vor dem 1. Februar 2019 den Dauerbetrieb aufgenommen oder nach einer erfolgten Modernisierung wieder aufgenommen haben, ab dem 1. Oktober 2021 und mit der Maßgabe anzuwenden, dass die Fälligkeit nur dann nicht eintritt, wenn der Netzbetreiber von der Nichtregistrierung Kenntnis erlangt hat oder erlangt haben müsste.
 
-(2) § 52 des Erneuerbare-Energien-Gesetzes und § 13a des Kraft-Wärme-Kopplungsgesetzes bleiben unberührt.
+(2) § 13a des Kraft-Wärme-Kopplungsgesetzes bleibt unberührt.
 
 # § 24 – Übergangsbestimmungen
 
 Stromspeicher gelten bis zum 30. September 2021 als registriert im Sinn von § 5.
 
-# Anlage – Im Marktstammregister zu erfassende Daten
+# Anlage – Im Marktstammdatenregister zu erfassende Daten
 
-(Fundstelle: BGBl. I 2018, 1895 - 1904;)  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 151, S. 28 - 37)
