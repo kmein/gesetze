@@ -1583,6 +1583,7 @@
 - [DWDG](laws/DWDG.md) Gesetz über den Deutschen Wetterdienst
 - [DWG](laws/DWG.md) Gesetz über die Rundfunkanstalt des Bundesrechts "Deutsche Welle"
 - [DWGÄndG](laws/DWGÄndG.md) Gesetz zur Änderung des Deutsche-Welle-Gesetzes
+- [EAAV](laws/EAAV.md) Verordnung über technische Anforderungen an Energieanlagen 1
 - [EAG-BehandV](laws/EAG-BehandV.md) Verordnung über Anforderungen an die Behandlung von Elektro- und Elektronik-Altgeräten*
 - [EAGVtr](laws/EAGVtr.md) Vertrag zur Gründung der Europäischen Atomgemeinschaft (EURATOM)
 - [EAKAV](laws/EAKAV.md) Verordnung zum elektronischen Anzeigeverfahren für inländische Investmentvermögen und EU-Investmentvermögen nach dem Kapitalanlagegesetzbuch
@@ -4424,6 +4425,7 @@
 - [PfändfreiGrBek 2021](laws/PfändfreiGrBek_2021.md) Bekanntmachung zu den Pfändungsfreigrenzen 2021 nach § 850c der Zivilprozessordnung
 - [PfändfreiGrBek 2022](laws/PfändfreiGrBek_2022.md) Bekanntmachung zu den Pfändungsfreigrenzen 2022 nach § 850c der Zivilprozessordnung
 - [Pfändungsfreigrenzenbekanntmachung 2023](laws/Pfändungsfreigrenzenbekanntmachung_2023.md) Bekanntmachung zu den Pfändungsfreigrenzen 2023 nach § 850c der Zivilprozessordnung
+- [Pfändungsfreigrenzenbekanntmachung 2024](laws/Pfändungsfreigrenzenbekanntmachung_2024.md) Bekanntmachung zu den Pfändungsfreigrenzen 2024 nach § 850c der Zivilprozessordnung
 - [PfandBarwertV](laws/PfandBarwertV.md) Verordnung über die Sicherstellung der jederzeitigen Deckung von Hypothekenpfandbriefen, Öffentlichen Pfandbriefen, Schiffspfandbriefen und Flugzeugpfandbriefen nach dem Barwert und dessen Berechnung bei Pfandbriefbanken
 - [PfandBG](laws/PfandBG.md) Pfandbriefgesetz
 - [PfandBrAUmwG](laws/PfandBrAUmwG.md) Gesetz über die Umwandlung der Deutschen Pfandbriefanstalt in eine Aktiengesellschaft

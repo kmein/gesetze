@@ -411,6 +411,8 @@ Das Umweltbundesamt stellt nach Satz 1 Nummer 2 einen Herkunftsnachweis für Gas
 
 (2) Sofern ein Herkunftsnachweis für Gas zur Vermarktung verwendet wird und für die dem vermarkteten Gas zugrunde liegende Anlage Investitionsbeihilfen oder sonstige Förderung für die Erzeugung des Gases nach Artikel 2 Nummer 5 der Richtlinie (EU) 2018/2001 geleistet werden, ist der Marktwert dieser Herkunftsnachweise bei der Berechnung der finanziellen Förderung zu berücksichtigen. Der Anlagenbetreiber muss die Absicht zur Vermarktung bei der für die Förderung zuständigen Stelle unverzüglich nach Antragstellung anzeigen.
 
+(+++ § 23: Zur Anwendung vgl. § 14 Abs. 1 +++)
+
 # § 24 – Unterscheidbarkeit
 
 Das Umweltbundesamt stellt sicher, dass ein Herkunftsnachweis für Gas, der für kohlenstoffarmes Gas ausgestellt ist, klar zu unterscheiden ist von einem Herkunftsnachweis für Gas, der für Gas aus oder auf Basis von erneuerbarer Energie ausgestellt ist.
@@ -445,6 +447,8 @@ Das Umweltbundesamt stellt auf Antrag des Anlagenbetreibers einen Herkunftsnachw
 
 Ein Herkunftsnachweis für Wärme oder Kälte kann abweichend von § 4 Absatz 2 des Herkunftsnachweisregistergesetzes für thermische Energie ausgestellt werden, die der Anlagenbetreiber selbst nutzt. Der Herkunftsnachweis für Wärme oder Kälte weist die Art der thermischen Energie aus.
 
+(+++ § 28: Zur Anwendung vgl. § 14 Abs. 1 +++)
+
 # § 29 – Ausstellung eines Herkunftsnachweises für Wärme oder Kälte für strombasierte thermische Energie
 
 Ein Herkunftsnachweis für Wärme oder Kälte wird nach § 14 Absatz 1 und § 16 ausgestellt für
@@ -456,6 +460,8 @@ Ein Herkunftsnachweis für Wärme oder Kälte wird nach § 14 Absatz 1 und § 16
 3. die Menge an strombasierter thermischer Energie im Sinne des § 28 Satz 1 Nummer 2 aus unvermeidbarer Abwärme, die abzüglich der Energiemenge des zur Erzeugung verbrauchten Stroms aus unvermeidbarer Abwärme erzeugt wurde, oder
 
 4. die Menge an strombasierter thermischer Energie, die im Sinne des § 28 Satz 1 Nummer 4 aus anderen Energiequellen erzeugt wurde.
+
+(+++ § 29: Zur Anwendung vgl. § 14 Abs. 1 +++)
 
 # § 30 – Ausstellung eines Herkunftsnachweises für Wärme oder Kälte für gasbasierte thermische Energie
 
@@ -482,6 +488,8 @@ c) Gas verbraucht wurde und Massenbilanzierungsnachweise in entsprechendem Umfan
 2. für die Erzeugung von Gas aus der Gaserzeugungsanlage Betriebsbeihilfen geleistet wurden und
 
 3. die Erzeugung des Gases in sonstiger Weise gefördert wurde.
+
+(+++ § 30: Zur Anwendung vgl. § 14 Abs. 1 +++)
 
 # § 31 – Unterscheidbarkeit
 
@@ -620,6 +628,8 @@ Das Umweltbundesamt kann Daten nach den Sätzen 3 und 4 mit dem Betreiber eines 
 Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle oder Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die protokollierten Daten sind durch geeignete Vorkehrungen gegen zweckfremde Verwendung und gegen sonstigen Missbrauch zu schützen. Die protokollierten Daten sind sechs Monate nach der Protokollierung zu löschen.
 
 (5) Das Umweltbundesamt richtet eine elektronische Schnittstelle ein, die es ermöglicht, Daten an die nach Landesrecht zuständigen Behörden zu übermitteln, soweit es für den Vollzug des Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S. 1728), das durch Artikel 1 des Gesetzes vom 16. Oktober 2023 (BGBl. 2023 I Nr. 280) geändert worden ist, erforderlich ist. Absatz 4 Satz 2 bis 5 ist entsprechend anzuwenden.
+
+(+++ § 39 Abs. 4: Zur Anwendung vgl. § 11 Abs. 4 +++)
 
 # § 40 – Subdelegation an das Umweltbundesamt
 

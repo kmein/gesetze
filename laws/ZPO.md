@@ -11467,8 +11467,10 @@ Die sich aus der Berechnung nach Satz 1 ergebenden Beträge sind in der Pfändun
 für den Zeitraum ab 1. Juli 2021 vgl. Bek. v. 10.5.2021 I 1099  
 (Pfändungsfreigrenzenbekanntmachung 2021),  
 für die Zeit ab 1. Juli 2022 vgl. Bek. v. 25.5.2022 I 825  
-(Pfändungsfreigrenzenbekanntmachung 2022) u. für die Zeit ab 1. Juli 2023 vgl. Bek. v. 15.3.2023 I Nr. 79  
-(Pfändungsfreigrenzenbekanntmachung 2023) +++)
+(Pfändungsfreigrenzenbekanntmachung 2022),  
+für die Zeit ab 1. Juli 2023 vgl. Bek. v. 15.3.2023 I Nr. 79  
+(Pfändungsfreigrenzenbekanntmachung 2023) u. für die Zeit ab 1. Juli 2024 vgl. Bek. v. 10.5.2024 I Nr. 160  
+(Pfändungsfreigrenzenbekanntmachung 2024) +++)
 
 # § 850d – Pfändbarkeit bei Unterhaltsansprüchen
 

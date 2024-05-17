@@ -127,7 +127,7 @@ Satz 1 ist entsprechend anzuwenden, wenn in einem Gebotstermin einer Ausschreibu
 
 # § 4 – Elektronisches Verfahren
 
-Die Ausschreibungen können von der ausschreibenden Stelle ganz oder teilweise auf ein elektronisches Verfahren umgestellt werden; dabei kann auch von dem Schriftformerfordernis nach § 9 Absatz 1 Satz 2 abgewichen werden. In diesem Fall kann die ausschreibende Stelle insbesondere Vorgaben zur Authentifizierung für die gesicherte Datenübertragung machen. Bei der Umstellung auf ein elektronisches Verfahren muss die ausschreibende Stelle bei der Bekanntmachung der Ausschreibung auf das elektronische Verfahren hinweisen.
+Die Ausschreibungen können von der ausschreibenden Stelle ganz oder teilweise auf ein elektronisches Verfahren umgestellt werden; dabei kann auch von der Zustellung nach § 73 des Energiewirtschaftsgesetzes abgewichen werden. In diesem Fall kann die ausschreibende Stelle insbesondere Vorgaben zur Authentifizierung für die gesicherte Datenübertragung machen. Bei der Umstellung auf ein elektronisches Verfahren muss die ausschreibende Stelle bei der Bekanntmachung der Ausschreibung auf das elektronische Verfahren hinweisen.
 
 # § 5 – Höchstwert
 
@@ -283,7 +283,7 @@ Abweichend von Satz 1 darf ein Gebot eine Gebotsmenge von weniger als 500 Kilowa
 
 # § 9 – Rücknahme und Bindungswirkung von Geboten
 
-(1) Die Rücknahme von Geboten ist bis zum jeweiligen Gebotstermin zulässig; maßgeblich ist der Zugang einer Rücknahmeerklärung bei der ausschreibenden Stelle. Die Rücknahme muss durch eine unbedingte, unbefristete und der Schriftform genügende Erklärung des Bieters erfolgen, die sich dem Gebot eindeutig zuordnen lässt.
+(1) Die Rücknahme von Geboten ist bis zum jeweiligen Gebotstermin zulässig; maßgeblich ist der Zugang einer Rücknahmeerklärung bei der ausschreibenden Stelle. Die Rücknahme muss durch eine unbedingte, unbefristete und schriftlich oder elektronisch übermittelte Erklärung des Bieters erfolgen, die sich dem Gebot eindeutig zuordnen lässt.
 
 (2) Bieter sind an ihre Gebote, die bis zum Gebotstermin abgegeben und nicht zurückgenommen worden sind, gebunden, bis ihnen von der ausschreibenden Stelle mitgeteilt worden ist, dass ihr Gebot keinen Zuschlag erhalten hat.
 
@@ -297,11 +297,11 @@ Abweichend von Satz 1 darf ein Gebot eine Gebotsmenge von weniger als 500 Kilowa
 
 (4) Wer eine Sicherheit leisten muss, kann dies bewirken durch
 
-1. die unwiderrufliche, unbedingte, unbefristete und selbstschuldnerische Bürgschaft auf erstes Anfordern nach Maßgabe des Absatzes 5 und die Übersendung einer entsprechenden schriftlichen Bürgschaftserklärung an die ausschreibende Stelle oder
+1. die unwiderrufliche, unbedingte, unbefristete und selbstschuldnerische Bürgschaft auf erstes Anfordern nach Maßgabe des Absatzes 5 und die Übersendung einer entsprechenden Bürgschaftserklärung an die ausschreibende Stelle oder
 
 2. die Zahlung eines Geldbetrages auf das nach Absatz 6 eingerichtete Verwahrkonto der ausschreibenden Stelle.
 
-(5) Die Bürgschaftserklärung nach Absatz 4 Nummer 1 ist schriftlich in deutscher Sprache oder in einer Amtssprache des Kooperationsstaats unter Verzicht auf die Einrede der Vorausklage nach § 771 des Bürgerlichen Gesetzbuchs und unter Verzicht auf die Einreden der Aufrechenbarkeit und Anfechtbarkeit nach § 770 des Bürgerlichen Gesetzbuchs einzureichen. Der Bürge muss in der Europäischen Union oder in einem Staat der Vertragsparteien des Abkommens über den Europäischen Wirtschaftsraum als Kreditinstitut oder als Kreditversicherer zugelassen sein. Die ausschreibende Stelle kann bei begründeten Bedenken vom Bieter verlangen, die Tauglichkeit des Bürgen nachzuweisen. Für den Nachweis der Tauglichkeit im Einzelfall ist § 239 Absatz 1 des Bürgerlichen Gesetzbuchs heranzuziehen.
+(5) Die Bürgschaftserklärung nach Absatz 4 Nummer 1 ist in deutscher Sprache oder in einer Amtssprache des Kooperationsstaats unter Verzicht auf die Einrede der Vorausklage nach § 771 des Bürgerlichen Gesetzbuchs und unter Verzicht auf die Einreden der Aufrechenbarkeit und Anfechtbarkeit nach § 770 des Bürgerlichen Gesetzbuchs einzureichen. Der Bürge muss in der Europäischen Union oder in einem Staat der Vertragsparteien des Abkommens über den Europäischen Wirtschaftsraum als Kreditinstitut oder als Kreditversicherer zugelassen sein. Die ausschreibende Stelle kann bei begründeten Bedenken vom Bieter verlangen, die Tauglichkeit des Bürgen nachzuweisen. Für den Nachweis der Tauglichkeit im Einzelfall ist § 239 Absatz 1 des Bürgerlichen Gesetzbuchs heranzuziehen.
 
 (6) Die ausschreibende Stelle verwahrt die Sicherheiten nach Absatz 4 Nummer 2 treuhänderisch zugunsten der Bieter und der Übertragungsnetzbetreiber. Hierzu richtet sie ein Verwahrkonto ein. Die ausschreibende Stelle ist berechtigt, die Sicherheiten einzubehalten, bis die Voraussetzungen zur Rückgabe der Sicherheiten oder zur Befriedigung der Übertragungsnetzbetreiber vorliegen. Die Sicherheiten werden nicht verzinst.
 
