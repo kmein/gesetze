@@ -175,8 +175,6 @@ Die Geltendmachung eines Anspruchs nach den §§ 1 bis 2b ist unzulässig, wenn 
 
 In diesen Fällen kann der Anspruchsgegner Ersatz der für seine Rechtsverteidigung erforderlichen Aufwendungen verlangen. Weitergehende Ersatzansprüche bleiben unberührt.
 
-(+++ Gem. Art. 10 Nr. 5 G v. 8.10.2023 I Nr. 272 wurde abweichend von der Änderungsanweisung die Angabe "2a" durch die Angabe "2b" ersetzt +++)
-
 # § 3 – Anspruchsberechtigte Stellen
 
 (1) Die in den §§ 1 bis 2a bezeichneten Ansprüche auf Unterlassung, auf Widerruf und auf Beseitigung stehen zu:
@@ -480,8 +478,6 @@ Das Gericht hat vor einer Entscheidung in einem Verfahren über einen Anspruch n
 # § 13a – Auskunftsanspruch sonstiger Betroffener
 
 Wer von einem anderen Unterlassung der Lieferung unbestellter Sachen, der Erbringung unbestellter sonstiger Leistungen, der Zusendung oder der sonstigen Übermittlung unverlangter Werbung verlangen kann, hat den Anspruch gemäß § 13 mit der Maßgabe, dass an die Stelle eines Anspruchs nach den §§ 1 bis 2b sein Anspruch aus Unterlassung nach den allgemeinen Vorschriften tritt.
-
-(+++ Gem. Art. 10 Nr. 21 G v. 8.10.2023 I Nr. 272 wurden abweichend von der Änderungsanweisung die Wörter "§§ 1 bis 2a oder nach § 4e" durch die Angabe "§§ 1 bis 2b" ersetzt +++)
 
 # § 14 – Schlichtungsverfahren und Verordnungsermächtigung
 
