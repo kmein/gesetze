@@ -85,6 +85,16 @@ Sie ist von dem Betreiber der Windenergieanlage als zweckgebundene Abgabe an den
 
 (2) Absatz 1 ist auf Genehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag bis zum Ablauf des 30. Juni 2025 stellt. Der Antragsteller hat bei der Antragstellung nachzuweisen, dass er das Grundstück, auf dem die Windenergieanlage errichtet werden soll, für die Errichtung und den Betrieb vertraglich gesichert hat. Absatz 1 ist auch auf bereits laufende Genehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag vor dem 29. März 2023 gestellt hat und bei denen noch keine endgültige Entscheidung ergangen ist, wenn der Antragsteller dies gegenüber der zuständigen Behörde verlangt. Die Sätze 1 bis 3 sind für das gesamte Genehmigungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2025 abgeschlossen wird. Windenergiegebiete im Sinne von Absatz 1 sind abweichend von § 2 Nummer 1 Buchstabe b auch Eignungs- und Vorbehaltsgebiete in Raumordnungsplänen, wenn der Raumordnungsplan nach dem 1. Februar 2024 wirksam geworden ist.
 
+# § 6a – Erklärung bestehender Windenergiegebiete zu Beschleunigungsgebieten für die Windenergie an Land
+
+(1) Windenergiegebiete im Sinne des § 2 Nummer 1, die bis zum Ablauf des 19. Mai 2024 ausgewiesen worden sind, sind Beschleunigungsgebiete im Sinne des Artikels 15c der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 238 vom 21.12.2018, S. 82), die zuletzt durch die Richtlinie (EU) 2023/2413 des Europäischen Parlaments und des Rates vom 18. Oktober 2023 zur Änderung der Richtlinie (EU) 2018/2001, der Verordnung (EU) 2018/1999 und der Richtlinie 98/70/EG im Hinblick auf die Förderung von Energie aus erneuerbaren Quellen und zur Aufhebung der Richtlinie (EU) 2015/652 des Rates (ABl. L, 2023/2413, 31.10.2023) geändert worden ist,
+
+1. wenn bei Ausweisung des Windenergiegebietes eine Umweltprüfung im Sinne des § 8 des Raumordnungsgesetzes oder des § 2 Absatz 4 des Baugesetzbuchs und, soweit erforderlich, eine Verträglichkeitsprüfung im Sinne des § 7 Absatz 6 des Raumordnungsgesetzes oder § 1a Absatz 4 des Baugesetzbuchs durchgeführt wurde und
+
+2. soweit das Windenergiegebiet nicht in einem Natura 2000-Gebiet, einem Naturschutzgebiet, einem Nationalpark oder in der Kern- oder Pflegezone eines Biosphärenreservates liegt.
+
+(2) § 6 bleibt unberührt.
+
 # § 7 – Evaluierung; Verordnungsermächtigung
 
 (1) Die Bundesregierung berichtet ab dem 1. Januar 2024 nach § 98 Absatz 4 des Erneuerbare-Energien-Gesetzes zum Stand der Umsetzung dieses Gesetzes.
