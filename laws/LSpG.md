@@ -117,6 +117,16 @@ f) eine Auskunft nicht, nicht richtig oder nicht vollständig erteilt,
 
 Ist eine Straftat nach § 7 Abs. 1 oder 2 oder eine Ordnungswidrigkeit nach § 8 Abs. 1 oder 2 begangen worden, so können Gegenstände, auf die sich die Straftat oder Ordnungswidrigkeit bezieht, und Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
+# § 9a – Geändertes Unionsrecht
+
+(1) Wird eine in einer Vorschrift dieses Gesetzes oder in einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung (innerstaatliche Vorschrift) genannte Vorschrift eines unmittelbar geltenden Rechtsakts der Europäischen Union aufgehoben oder für nicht mehr anwendbar erklärt, bleibt für Straftaten und Ordnungswidrigkeiten nach den §§ 7 und 8, die bis zum Zeitpunkt der Aufhebung oder der Nichtanwendung begangen worden sind, die bis dahin geltende innerstaatliche Vorschrift abweichend von § 2 Absatz 3 des Strafgesetzbuchs und von § 4 Absatz 3 des Gesetzes über Ordnungswidrigkeiten weiter anwendbar.
+
+(2) Durch Rechtsverordnung ohne Zustimmung des Bundesrates kann das Bundesministerium für Ernährung und Landwirtschaft in einer innerstaatlichen Vorschrift den Verweis auf eine Vorschrift in einem Rechtsakt
+
+1. der Europäischen Union ändern, soweit es zur Anpassung an eine Änderung dieser Vorschrift erforderlich ist,
+
+2. der Europäischen Union, die durch eine inhaltsgleiche Vorschrift der Europäischen Union ersetzt worden ist, durch den Verweis auf die ersetzende Vorschrift anpassen.
+
 # § 10 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

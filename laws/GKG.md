@@ -463,7 +463,7 @@ Anlage 2 (zu § 34 Absatz 1 Satz 3)
 
 17a. nach dem Verbraucherrechtedurchsetzungsgesetz;
 
-18. nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen;
+18. nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen sowie nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz;
 
 19. nach dem Kohlendioxid-Speicherungsgesetz;
 

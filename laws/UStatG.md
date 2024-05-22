@@ -488,12 +488,9 @@ die Inhaber oder Inhaberinnen und Leitungen der genannten Betriebe und Einrichtu
 
 (3) Soweit bei Verwaltungsstellen auf Grund nichtstatistischer Rechts- oder Verwaltungsvorschriften Angaben zu den Erhebungsmerkmalen einer Erhebung nach diesem Gesetz angefallen sind, dürfen auch die Verwaltungsstellen befragt werden. Insoweit sind neben den nach § 14 Abs. 2 Auskunftspflichtigen auch die Verwaltungsstellen auskunftspflichtig.
 
-(4) Für Unternehmen, Betriebe und Einrichtungen, deren Inhaber oder Inhaberinnen Existenzgründer oder Existenzgründerinnen sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 keine Auskunftspflicht für Erhebungen nach den §§ 11 und 12. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen , der Betrieb oder die Einrichtung im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen sind.
+(4) Für Unternehmen, Betriebe und Einrichtungen, deren Inhaber oder Inhaberinnen Existenzgründer oder Existenzgründerinnen sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 keine Auskunftspflicht für Erhebungen nach den §§ 11 und 12. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen, der Betrieb oder die Einrichtung im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen sind.
 
 (5) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 4 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
-
-§ 14 Abs. 4 Satz 1 Kursivdruck: IdF d. Art. 1 Nr. 12 Buchst. b G v. 22.9.2021 I 4363 mWv 1.1.2022 (amtlicher Wortlaut; bezeichnet als Abs. 4)  
-§ 14 Abs. 4 Satz 2 Kursivdruck : IdF d. Art. 1 Nr. 12 Buchst. b G v. 22.9.2021 I 4363 mWv 1.1.2022 (amtlicher Wortlaut; bezeichnet als Abs. 4)
 
 # § 15 – Anschriftenübermittlung
 
@@ -518,8 +515,6 @@ die Inhaber oder Inhaberinnen und Leitungen der genannten Betriebe und Einrichtu
 (5) Die statistischen Ämter der Länder übermitteln dem Statistischen Bundesamt die von ihnen erhobenen Einzelangaben für Zusatzaufbereitungen des Bundes und für die Erfüllung von über- und zwischenstaatlichen Aufgaben.
 
 (6) Das Statistische Bundesamt und die statistischen Ämter der Länder übermitteln dem Umweltbundesamt für eigene statistische Auswertungen insbesondere zur Erfüllung europa- und völkerrechtlicher Pflichten der Bundesrepublik Deutschland, jedoch nicht für die Regelung von Einzelfällen, unentgeltlich Tabellen mit statistischen Ergebnissen, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Die Tabellen dürfen nur von den für diese Aufgabe zuständigen Organisationseinheiten des Umweltbundesamtes gespeichert und genutzt und nicht an andere Stellen weitergegeben werden. Die Organisationseinheiten nach Satz 2 müssen von den mit Vollzugsaufgaben befassten Organisationseinheiten des Umweltbundesamtes räumlich, organisatorisch und personell getrennt sein.
-
-§ 16 Abs. 6 Satz 1 Kursivdruck: IdF d. Art. 1 Nr. 14 Buchst. d G v. 22.9.2021 I 4363 mWv 1.1.2022 (amtlicher Wortlaut)
 
 # § 17 – Verordnungsermächtigung
 
