@@ -135,11 +135,9 @@ Probenahme
 
 Duldungs- und Mitwirkungspflicht
 
-§ 24a
-
-(weggefallen)
-
 § 25
+
+ 
 
 (weggefallen)
 
@@ -741,10 +739,6 @@ Anstelle der in Nummer 6 bezeichneten Aufzeichnungen können die Durchschriften 
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist zugleich die besondere Verwaltungsdienststelle im Sinne der internationalen Suchtstoffübereinkommen.
 
-(2a) (weggefallen)
-
-(3) (weggefallen)
-
 # § 20 – Besondere Ermächtigung für den Spannungs- oder Verteidigungsfall
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates dieses Gesetz oder die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen für Verteidigungszwecke zu ändern, um die medizinische Versorgung der Bevölkerung mit Betäubungsmitteln sicherzustellen, wenn die Sicherheit und Kontrolle des Betäubungsmittelverkehrs oder der Herstellung ausgenommener Zubereitungen gewährleistet bleiben. Insbesondere können
@@ -802,8 +796,6 @@ angeordnet werden. In der Rechtsverordnung kann ferner der über die in Satz 2 N
 (1) Jeder Teilnehmer am Betäubungsmittelverkehr oder jeder Hersteller ausgenommener Zubereitungen ist verpflichtet, die Maßnahmen nach den §§ 22 und 23 zu dulden und die mit der Überwachung beauftragten Personen bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere ihnen auf Verlangen die Stellen zu bezeichnen, in denen der Betäubungsmittelverkehr oder die Herstellung ausgenommener Zubereitungen stattfindet, umfriedete Grundstücke, Gebäude, Räume, Behälter und Behältnisse zu öffnen, Auskünfte zu erteilen sowie Einsicht in Unterlagen und die Entnahme der Proben zu ermöglichen.
 
 (2) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen seiner in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
-
-# § 24a – (weggefallen)
 
 # § 25 – (weggefallen)
 
