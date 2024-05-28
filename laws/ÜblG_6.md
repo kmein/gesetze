@@ -13,7 +13,7 @@ Bundesrecht, das in Berlin (West) auf Grund alliierter Vorbehaltsrechte bisher n
 
 (1) Das Gesetz über die Erweiterung des Katastrophenschutzes in der Fassung der Bekanntmachung vom 14. Februar 1990 (BGBl. I S. 229) tritt in Berlin (West) mit der Maßgabe in Kraft, daß Katastrophenschutzhelfer, die auf Grund der Verordnung des Berliner Senats über die Erweiterung des Katastrophenschutzes vom 25. März 1974 (GVBl. S. 683), die zuletzt durch Verordnung vom 29. November 1977 (GVBl. S. 2290) geändert worden ist, im erweiterten Katastrophenschutz mitwirken und nach Inkrafttreten des Wehrpflichtgesetzes in Berlin (West) wehrpflichtig sind, als vom Wehrdienst gemäß § 8 Abs. 2 Katastrophenschutzgesetz freigestellt gelten. Die 8-Jahresfrist gemäß § 8 Abs. 3 Katastrophenschutzgesetz beginnt mit der Annahme der Verpflichtung durch die Organisation, frühestens jedoch, nachdem der Helfer das 18. Lebensjahr vollendet hat.
 
-(2)
+(2) (Änderungsvorschrift)
 
 (3) Die Eisenbahnvorschriften des Bundesrechtes gelten in Berlin (West) nach Maßgabe der Anlage I Kapitel XI Sachgebiet A des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1098).
 
@@ -23,7 +23,7 @@ Bundesrecht, das in Berlin (West) auf Grund alliierter Vorbehaltsrechte bisher n
 
 (6) Das Gesetz über die Bundesanstalt für Flugsicherung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 96-3, veröffentlichten bereinigten Fassung, zuletzt geändert durch Gesetz vom 18. Dezember 1989 (BGBl. I S. 2218), tritt in Berlin (West) mit der Maßgabe in Kraft, daß sich die Bundesanstalt für Flugsicherung zur Wahrnehmung ihrer Aufgaben in Berlin und im Gebiet der ehemaligen Deutschen Demokratischen Republik bis zum 31. Dezember 1994 alliierter Stellen oder alliierten Personals bedienen kann. Wird vor Ablauf des in Satz 1 genannten Zeitpunkts eine juristische Person des privaten Rechts mit der Wahrnehmung der Flugsicherungsaufgaben betraut, gilt Satz 1 für diese Stelle entsprechend.
 
-(7) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung ermächtigt, zur Überleitung des Bundesrechts im Einvernehmen mit dem Bundesministerium der Finanzen in Berlin (West) gelegene Wasserstraßen durch Rechtsverordnung zu Bundeswasserstraßen zu erklären, die als Binnenwasserstraßen dem allgemeinen Verkehr dienen. In der Rechtsverordnung ist die Anlage zum Bundeswasserstraßengesetz in der Fassung der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818) zu ändern. § 2 des Bundeswasserstraßengesetzes findet keine Anwendung.
+(7) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, zur Überleitung des Bundesrechts im Einvernehmen mit dem Bundesministerium der Finanzen in Berlin (West) gelegene Wasserstraßen durch Rechtsverordnung zu Bundeswasserstraßen zu erklären, die als Binnenwasserstraßen dem allgemeinen Verkehr dienen. In der Rechtsverordnung ist die Anlage zum Bundeswasserstraßengesetz in der Fassung der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818) zu ändern. § 2 des Bundeswasserstraßengesetzes findet keine Anwendung.
 
 (8) Die Vorschriften der §§ 1 bis 12 des Gesetzes zum Schutz gegen Fluglärm vom 30. März 1971 (BGBl. I S. 282), das zuletzt durch Artikel 39 des Gesetzes vom 16. Dezember 1986 (BGBl. I S. 2441) geändert worden ist, treten in Berlin (West) mit folgenden Maßgaben in Kraft:
 

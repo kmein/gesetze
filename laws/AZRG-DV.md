@@ -113,6 +113,8 @@ Die Dokumente sind unverzüglich zu übermitteln.
 
 6. Strafvollstreckung,
 
+6a. Vollzug freiheitsentziehender Maßnahmen,
+
 7. Rechtspflege,
 
 8. Abwehr von Gefahren,
@@ -195,7 +197,7 @@ Die Dokumente sind unverzüglich zu übermitteln.
 
 # § 10 – Zulassung zum Abruf im automatisierten Verfahren
 
-(1) Die Zulassung zum Abruf von Daten im automatisierten Verfahren nach § 22 Abs. 1 des AZR-Gesetzes ist schriftlich bei der Registerbehörde zu beantragen. Im Fall des § 22 Abs. 1 Nr. 9 des AZR-Gesetzes ist die Zustimmung der für den Antragsteller zuständigen obersten Bundes- oder Landesbehörde einzuholen. In der Antragsbegründung ist darzulegen, daß die Einrichtung des automatisierten Abrufverfahrens wegen der Häufigkeit der Übermittlungsersuchen oder der Eilbedürftigkeit angemessen ist, und in welchem Umfang und an welchen Standorten Einrichtungen zum Datenabruf im automatisierten Verfahren geschaffen werden sollen. Die Registerbehörde ist berechtigt, entsprechende Nachweise zu verlangen. Im Fall des § 22 Abs. 1 Nr. 9 des AZR-Gesetzes holt sie die Zustimmung des Bundesministeriums des Innern, für Bau und Heimat ein, wenn sie dem Antrag stattgeben will.
+(1) Die Zulassung zum Abruf von Daten im automatisierten Verfahren nach § 22 Abs. 1 des AZR-Gesetzes ist schriftlich bei der Registerbehörde zu beantragen. Im Fall des § 22 Abs. 1 Nr. 9 des AZR-Gesetzes ist die Zustimmung der für den Antragsteller zuständigen obersten Bundes- oder Landesbehörde einzuholen. In der Antragsbegründung ist darzulegen, in welchem Umfang und an welchen Standorten Einrichtungen zum Datenabruf im automatisierten Verfahren geschaffen werden sollen. Die Registerbehörde ist berechtigt, entsprechende Nachweise zu verlangen. Im Fall des § 22 Abs. 1 Nr. 9 des AZR-Gesetzes holt sie die Zustimmung des Bundesministeriums des Innern, für Bau und Heimat ein, wenn sie dem Antrag stattgeben will.
 
 (2) Die Registerbehörde teilt dem Antragsteller die beabsichtigte Entscheidung mit und fordert ihn zugleich auf, die zur Datensicherung erforderlichen technischen und organisatorischen Maßnahmen zu treffen. Die Entscheidung ergeht, sobald der Antragsteller der Registerbehörde schriftlich mitgeteilt hat, daß er diese Maßnahmen getroffen hat. Die Registerbehörde kann die Zulassung mit Beschränkungen erteilen.
 
