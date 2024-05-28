@@ -3382,7 +3382,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 (+++ § 14: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 3 +++)  
 (+++ § 14: Zur Geltung vgl. § 2 Abs. 2 +++)  
 (+++ § 14 Abs. 1: Zur Anwendung vgl. § 32 Abs. 6 Satz 2 +++)  
-(+++ § 14 Abs. 2 bis 4: Zur Anwendung vgl. § 32 Abs. 6 Satz 2 +++)
+(+++ § 14 Abs. 2 bis 4: Zur Anwendung vgl. § 32 Abs. 6 Satz 2 +++) (+++ § 14 Abs. 2 bis 4: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
 
 # § 15 – Organkredite
 
@@ -3643,7 +3643,7 @@ Die Zusammenfassungstatbestände nach den Nummern 1 bis 3 sind kumulativ anzuwen
 (6) (weggefallen)
 
 (+++ § 19 Abs. 3: Zur Geltung vgl. § 15 Abs. 6 +++)  
-(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
+(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++) (+++ § 19: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
 
 # § 20 – Ausnahmen von den Verpflichtungen nach § 14
 
@@ -3663,7 +3663,7 @@ Als Kredite im Sinne des § 14 gelten nicht:
 
 7. Verfügungen über gutgeschriebene Beträge aus dem Lastschrifteinzugsverfahren, die mit dem Vermerk „Eingang vorbehalten“ versehen werden.
 
-(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++)
+(+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 6 KfWV +++) (+++ § 20: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
 
 # §§ 20a bis 20c – (weggefallen)
 

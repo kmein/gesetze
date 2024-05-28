@@ -181,6 +181,8 @@ Die Institute und die übergeordneten Unternehmen haben die Meldungen zu den Sta
 
 (2) Derivate im Sinne von Teil 2 dieser Verordnung sind solche nach § 19 Absatz 1a des Kreditwesengesetzes.
 
+(+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
+
 # § 12 – Bemessungsgrundlage
 
 (1) Die Bemessungsgrundlage für die Ermittlung der Kreditbeträge nach § 14 des Kreditwesengesetzes ist
@@ -209,9 +211,13 @@ Anteilige Zinsen sind zu berücksichtigen, sofern diese bei der Anwendung der Ar
 
 (3) Abweichend von Absatz 1 darf ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen im Sinne von § 14 Absatz 1 Satz 1 des Kreditwesengesetzes, das nicht der Verordnung (EU) Nr. 575/2013 unterliegt, für die Zwecke des Teils 2 dieser Verordnung die Bemessungsgrundlage für derivative Adressenausfallrisikopositionen nach einheitlicher Wahl gemäß Artikel 282 der Verordnung (EU) Nr. 575/2013 ermitteln (Ursprungsrisikomethode). Für bestimmte und eindeutig abgegrenzte Teilbereiche darf die Wahl unterschiedlich ausfallen. Die Festlegung von Teilbereichen kann nach verschiedenen Finanzinstrumenten oder nach unterschiedlichen organisatorisch festgelegten Bereichen des Instituts erfolgen. Die Ursprungsrisikomethode nach Artikel 282 der Verordnung (EU) Nr. 575/2013 darf mit Zustimmung der Bundesanstalt auch von Zweigstellen von Unternehmen mit Sitz in einem Drittstaat angewandt werden, die unter die Rechtsverordnung nach § 53c des Kreditwesengesetzes fallen; die Bundesanstalt kann die Zustimmung jederzeit widerrufen.
 
+(+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
+
 # § 13 – Umrechnung der auf fremde Währungen lautenden Positionen
 
 Eine auf eine fremde Währung lautende Position ist entweder zu dem Referenzkurs, der von der Europäischen Zentralbank am Tag des Meldestichtags festgestellt und von der Deutschen Bundesbank veröffentlicht worden ist (Euro-Referenzkurs), oder unter Anwendung des Artikels 24 der Verordnung (EU) Nr. 575/2013 in Euro umzurechnen. Statt des Euro-Referenzkurses am Meldestichtag darf für Beteiligungen der zum Zeitpunkt ihrer Erstverbuchung maßgebliche Devisenkurs angewendet werden. Bei der Umrechnung von Währungen, für die kein Euro-Referenzkurs veröffentlicht wird, sind die Mittelkurse aus feststellbaren An- und Verkaufskursen des Meldestichtags zugrunde zu legen.
+
+(+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
 
 # § 14 – Bestimmung des Kreditnehmers
 
@@ -241,6 +247,8 @@ Eine auf eine fremde Währung lautende Position ist entweder zu dem Referenzkurs
 
 (2) Bei Forderungen aus Geschäften im Sinne des Artikels 112 Buchstabe m (Verbriefungspositionen) oder des Artikels 112 Buchstabe o (Forderungen in Form von Anteilen an Organismen für Gemeinsame Anlagen) der Verordnung (EU) Nr. 575/2013 oder aus anderen Geschäften, bei denen Forderungen aus zugrunde liegenden Vermögenswerten resultieren, hat das Institut das Geschäft als solches für die Zwecke des § 14 des Kreditwesengesetzes wie einen Kreditnehmer zu melden. Nimmt das Institut die Zerlegung nach Artikel 390 Absatz 7 und 8 der Verordnung (EU) Nr. 575/2013 für Großkreditzwecke vor, hat das Institut auch die zugrunde liegenden Vermögenswerte zu melden.
 
+(+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
+
 # § 15 – Meldeverfahren, Meldestichtag, Ermittlung der Millionenkreditmeldegrenze
 
 (1) Im Rahmen der Millionenkreditanzeigen nach § 14 des Kreditwesengesetzes haben die am Millionenkreditmeldeverfahren beteiligten Unternehmen unter Berücksichtigung der Bildung von Kreditnehmereinheiten nach § 19 Absatz 2 des Kreditwesengesetzes folgende Daten zu melden:
@@ -253,7 +261,7 @@ Eine auf eine fremde Währung lautende Position ist entweder zu dem Referenzkurs
 
 (3) Für die Ermittlung, ob das Volumen der Kredite, die ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen einem Kreditnehmer oder einer Kreditnehmereinheit gewährt hat, die Millionenkreditmeldegrenze erreicht oder übersteigt, sind Wertpapiere des Handelsbuchs nicht zu berücksichtigen. Für die Ermittlung nach Satz 1 ist der Stand der Geschäfte täglich bei Geschäftsschluss maßgeblich; untertägige Spitzen, die bis Geschäftsschluss wieder unter die Millionenkreditmeldegrenze zurückgeführt werden, bleiben unberücksichtigt.
 
-(+++ § 15: Zur Anwendung vgl. § 20 +++)
+(+++ § 15: Zur Anwendung vgl. § 20 +++) (+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
 
 # § 16 – Stammdaten für Millionenkreditnehmer
 
@@ -287,6 +295,8 @@ Wenn die anzuzeigende Änderung bereits im Datenbestand der Deutschen Bundesbank
 
 (5) Abweichend von Absatz 1 Satz 1 kann die Bundesanstalt statt der Einreichung in Papierform die elektronische Einreichung durch eine Allgemeinverfügung verbindlich vorgeben, sobald die für die elektronische Stammdateneinreichung erforderlichen technischen Voraussetzungen bei der Deutschen Bundesbank vorliegen. Vor Erlass einer Allgemeinverfügung nach Satz 1 sind die am Meldeverfahren beteiligten Unternehmen und die Deutsche Bundesbank anzuhören. Mindestens zwölf Monate vor dem Erlass einer Allgemeinverfügung ist dieser allen beteiligten Unternehmen gegenüber anzukündigen.
 
+(+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
+
 # § 17 – Betragsdaten für Millionenkredite
 
 (1) Ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen muss die Angaben zu den Betragsdaten der Millionenkredite der Evidenzzentrale in elektronischer Form bis zum 15. Geschäftstag der Monate Januar, April, Juli und Oktober melden. Für die Meldung nach Satz 1 sind folgende Formulare nach Maßgabe der Absätze 2 bis 6 zu verwenden:  
@@ -302,11 +312,13 @@ Angaben zu den Krediten nach § 14 KWG – BA, BAS, BA6, BAS6, BA7, BAS7 § 14 (
 
 (6) Mit Zustimmung der Evidenzzentrale darf ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen die Meldung von Betragsdaten abweichend von den in Absatz 1 Satz 2 vorgesehenen Formularen vornehmen, soweit es für die technische Durchführung des Meldeverfahrens zweckmäßig erscheint und der Informationsgehalt der Meldungen dadurch nicht beeinträchtigt wird.
 
-(+++ § 17: Zur Anwendung vgl. § 20 Abs. 3 Satz 1 +++)
+(+++ § 17: Zur Anwendung vgl. § 20 Abs. 3 Satz 1 +++) (+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
 
 # § 18 – Aufbewahrungsfristen
 
 Die am Millionenkreditmeldeverfahren beteiligten Unternehmen haben die Meldungen zu den Stammdaten und zu den Betragsdaten nach den §§ 15 bis 17, die sie im laufenden Kalenderjahr und in den zwei vorangegangenen Kalenderjahren eingereicht haben, aufzubewahren.
+
+(+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
 
 # § 19 – Benachrichtigung über die Verschuldung der Kreditnehmer
 
@@ -326,7 +338,7 @@ Haben mindestens vier am Millionenkreditmeldeverfahren beteiligte Unternehmen ei
 
 (5) Die Evidenzzentrale kann jedem am Millionenkreditmeldeverfahren beteiligten Unternehmen für den nächsten Meldetermin in elektronischer Form eine Rückmeldung als Grundlage für die Meldung der zum Meldetermin bestehenden Millionenkredite, die Stammdaten und weitere gemeldete Informationen zu den Kreditnehmern und Kreditnehmereinheiten enthält, die von den am Millionenkreditmeldeverfahren beteiligten Unternehmen zum vorhergehenden Meldetermin von diesen gemeldet wurden, bereitstellen.
 
-(+++ § 19: Zur Anwendung vgl. § 20 Abs. 4 Satz 1 +++)
+(+++ § 19: Zur Anwendung vgl. § 20 Abs. 4 Satz 1 +++) (+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
 
 # § 20 – (weggefallen)
 

@@ -17,7 +17,7 @@ Nummer 3 von 64,54 auf 68,66 Euro täglich,
 
 b) in Absatz 2 Satz 1
 
-Nummer 1 von 527,76 auf 560,90 Euro monatlich,
+Nummer 1 von 527,76 auf 561,43 Euro monatlich,
 
 Nummer 2 von 121,46 auf 129,21 Euro wöchentlich,
 
@@ -47,6 +47,6 @@ Der Bundesminister der Justiz
 
 # Anhang
 
-(Fundstelle: BGBl. 2024 I Nr. 160, S. 3 - 26)
+(Fundstelle: BGBl. 2024 I Nr. 160, S. 11 - 26 u. Nr. 165a, S. 1 - 9)
 
  
