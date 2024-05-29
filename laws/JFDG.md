@@ -13,21 +13,23 @@
 
 1. die Vollzeitschulpflicht erfüllt haben, aber das 27. Lebensjahr noch nicht vollendet haben,
 
-2. einen freiwilligen Dienst
+2. einen freiwilligen Dienst leisten ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar
 
-a) ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar einer Vollzeitbeschäftigung leisten oder
+a) einer Vollzeitbeschäftigung oder
 
-b) ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar einer Teilzeitbeschäftigung von mehr als 20 Stunden pro Woche leisten, sofern ein berechtigtes Interesse der Freiwilligen an einer Teilzeitbeschäftigung vorliegt,
+b) einer Teilzeitbeschäftigung von mehr als 20 Stunden pro Woche,
 
 3. sich auf Grund einer Vereinbarung nach § 11 zur Leistung des freiwilligen Dienstes für eine Zeit von mindestens sechs Monaten und höchstens 24 Monaten verpflichtet haben und
 
-4. für den freiwilligen Dienst
+4. für den Dienst nur folgende Geld- und Sachleistungen erhalten dürfen:
 
-a) nur unentgeltliche Unterkunft, Verpflegung und Arbeitskleidung sowie ein angemessenes Taschengeld erhalten dürfen oder
+a) ein angemessenes Taschengeld,
 
-b) anstelle von unentgeltlicher Unterkunft, Verpflegung und Arbeitskleidung entsprechende Geldersatzleistungen sowie ein angemessenes Taschengeld erhalten dürfen.
+b) unentgeltliche Unterkunft, Verpflegung und Arbeitskleidung oder entsprechende Geldersatzleistungen sowie
 
-Angemessen ist ein Taschengeld, wenn es 6 Prozent der in der allgemeinen Rentenversicherung geltenden Beitragsbemessungsgrenze nicht übersteigt. Bei einem freiwilligen Dienst vergleichbar einer Teilzeitbeschäftigung ist dieser Prozentsatz zu kürzen.
+c) Mobilitätszuschläge oder entsprechende Sachleistungen.
+
+Angemessen ist ein monatliches Taschengeld, das 8 Prozent der in der allgemeinen Rentenversicherung monatlich geltenden Beitragsbemessungsgrenze nicht übersteigt. Bei einem freiwilligen Dienst vergleichbar einer Teilzeitbeschäftigung ist das Taschengeld zu kürzen.
 
 (2) Als Freiwillige gelten auch Personen, die durch einen nach § 10 zugelassenen Träger des Jugendfreiwilligendienstes darauf vorbereitet werden, einen Jugendfreiwilligendienst im Ausland zu leisten (Vorbereitungsdienst), für den Vorbereitungsdienst nur Leistungen erhalten, die dieses Gesetz vorsieht, und neben dem Vorbereitungsdienst keine Tätigkeit gegen Entgelt ausüben sowie die Voraussetzungen des Absatzes 1 Nummer 1 und 3 erfüllen.
 
@@ -47,7 +49,7 @@ Angemessen ist ein Taschengeld, wenn es 6 Prozent der in der allgemeinen Rentenv
 
 (1) Das freiwillige soziale Jahr und das freiwillige ökologische Jahr im Inland werden in der Regel für eine Dauer von zwölf zusammenhängenden Monaten geleistet. Die Mindestdauer bei demselben nach § 10 anerkannten Träger beträgt sechs Monate, der Dienst kann bis zu der Gesamtdauer von insgesamt 18 Monaten verlängert werden. Der Träger kann den Jugendfreiwilligendienst im Rahmen des pädagogischen Gesamtkonzepts auch unterbrochen zur Ableistung in Abschnitten anbieten, wenn ein Abschnitt mindestens drei Monate dauert.
 
-(2) Die pädagogische Begleitung umfasst die an Lernzielen orientierte fachliche Anleitung der Freiwilligen durch die Einsatzstelle, die individuelle Betreuung durch pädagogische Kräfte des Trägers und durch die Einsatzstelle sowie die Seminararbeit. Es werden ein Einführungs-, ein Zwischen- und ein Abschlussseminar durchgeführt, deren Mindestdauer je fünf Tage beträgt. Die Gesamtdauer der Seminare beträgt bezogen auf eine zwölfmonatige Teilnahme am Jugendfreiwilligendienst mindestens 25 Tage. Wird ein Dienst über den Zeitraum von zwölf Monaten hinaus vereinbart oder verlängert, erhöht sich die Zahl der Seminartage um mindestens einen Tag je Monat der Verlängerung. Die Seminarzeit gilt als Dienstzeit. Die Teilnahme ist Pflicht. Die Freiwilligen wirken an der inhaltlichen Gestaltung und der Durchführung der Seminare mit.
+(2) Die pädagogische Begleitung umfasst die an Lernzielen orientierte fachliche Anleitung der Freiwilligen durch die Einsatzstelle, die individuelle Betreuung durch pädagogische Kräfte des Trägers und durch die Einsatzstelle sowie die Seminararbeit. Es werden ein Einführungs-, ein Zwischen- und ein Abschlussseminar durchgeführt, deren Mindestdauer je fünf Tage beträgt. Die Gesamtdauer der Seminare beträgt bezogen auf eine zwölfmonatige Teilnahme am Jugendfreiwilligendienst mindestens 25 Tage. Wird ein Dienst über den Zeitraum von zwölf Monaten hinaus vereinbart oder verlängert, erhöht sich die Zahl der Seminartage um mindestens einen Tag je Monat der Verlängerung. Die Teilnahme an den Seminaren ist Pflicht. Die Seminarzeit gilt als Dienstzeit. An den Seminartagen gilt die regelmäßige Dienstzeit des jeweiligen Tages als geleistet. Fallen Seminartage auf Tage, die ansonsten für die an dem Seminar teilnehmende Person in der Einsatzstelle dienstfrei wären, so erhält die teilnehmende Person die gleiche Anzahl an dienstfreien Tagen als Ersatz. Die Freiwilligen wirken an der inhaltlichen Gestaltung und der Durchführung der Seminare mit.
 
 (3) Bis zu einer Höchstdauer von insgesamt 18 Monaten können ein freiwilliges soziales Jahr und ein freiwilliges ökologisches Jahr mit einer Mindestdienstdauer von sechs Monaten nacheinander geleistet werden. In diesem Fall richtet sich die Zahl der Seminartage für jeden einzelnen Dienst nach Absatz 2. Auf die Gesamtdauer ist ein Bundesfreiwilligendienst nach dem Bundesfreiwilligendienstgesetz anzurechnen.
 
@@ -155,13 +157,13 @@ Die Förderung des freiwilligen sozialen Jahres und des freiwilligen ökologisch
 
 5. die Angabe des Zulassungsbescheides des Trägers oder der gesetzlichen Zulassung,
 
-6. Angaben zur Art und Höhe der Geld- und Sachleistungen für Unterkunft, Verpflegung, Arbeitskleidung und Taschengeld,
+6. Angaben zur Art und Höhe der Geld- und Sachleistungen,
 
 7. die Angabe der Anzahl der Urlaubstage und
 
 8. die Ziele des Dienstes und die wesentlichen der Zielerreichung dienenden Maßnahmen.
 
-(2) Die Vereinbarung nach Absatz 1 kann auch als gemeinsame Vereinbarung zwischen dem zugelassenen Träger, der Einsatzstelle und der oder dem Freiwilligen geschlossen werden, in der die Einsatzstelle die Geld- und Sachleistungen für Unterkunft, Verpflegung, Arbeitskleidung und Taschengeld auf eigene Rechnung übernimmt. Der Träger haftet für die Erfüllung dieser Pflichten gegenüber der oder dem Freiwilligen und Dritten wie ein selbstschuldnerischer Bürge.
+(2) Die Vereinbarung nach Absatz 1 kann auch als gemeinsame Vereinbarung zwischen dem zugelassenen Träger, der Einsatzstelle und der oder dem Freiwilligen geschlossen werden, in der die Einsatzstelle die Geld- und Sachleistungen auf eigene Rechnung übernimmt. Der Träger haftet für die Erfüllung dieser Pflichten gegenüber der oder dem Freiwilligen und Dritten wie ein selbstschuldnerischer Bürge.
 
 (3) Der Träger stellt der Freiwilligen oder dem Freiwilligen nach Abschluss des Dienstes eine Bescheinigung aus. Absatz 1 Satz 2 Nr. 4 und 5 gilt entsprechend; außerdem muss die Bescheinigung den Zeitraum des Dienstes enthalten.
 
@@ -173,7 +175,19 @@ Der Träger des Jugendfreiwilligendienstes darf personenbezogene Daten nach § 1
 
 # § 13 – Anwendung arbeitsrechtlicher und arbeitsschutzrechtlicher Bestimmungen
 
-Für eine Tätigkeit im Rahmen eines Jugendfreiwilligendienstes im Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen und das Bundesurlaubsgesetz entsprechend anzuwenden. Für Schäden bei der Ausübung ihrer Tätigkeit haften Freiwillige nur wie Arbeitnehmerinnen und Arbeitnehmer.
+Für eine Tätigkeit im Rahmen eines Jugendfreiwilligendienstes im Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen und das Jugendarbeitsschutzgesetz entsprechend anzuwenden. Für Schäden bei der Ausübung ihrer Tätigkeit haften Freiwillige nur wie Arbeitnehmerinnen und Arbeitnehmer.
+
+# § 13a – Urlaub
+
+(1) Freiwillige haben Anspruch auf Erholungsurlaub.
+
+(2) Bei Freiwilligen, die das 18. Lebensjahr vollendet haben, beträgt der Anspruch auf Erholungsurlaub bei einer Dienstdauer von zwölf Monaten und einer Verteilung der regelmäßigen Dienstzeit auf fünf Werktage in der Kalenderwoche mindestens 20 Werktage. Ist die regelmäßige Dienstzeit auf mehr oder weniger als fünf Tage in der Kalenderwoche verteilt, ist der Urlaubsanspruch nach Satz 1 entsprechend umzurechnen. Bei Freiwilligen, die das 18. Lebensjahr noch nicht vollendet haben, richtet sich der Anspruch auf Erholungsurlaub nach § 19 Absatz 2 des Jugendarbeitsschutzgesetzes.
+
+(3) Bei einer kürzeren oder längeren Dienstdauer als zwölf Monate verringert oder erhöht sich der Urlaubsanspruch nach Absatz 1 für jeden vollen Monat um ein Zwölftel. Bruchteile von Urlaubstagen, die mindestens einen halben Tag ergeben, werden auf volle Urlaubstage aufgerundet.
+
+(4) Während des Urlaubs sind die den Freiwilligen nach der Vereinbarung zustehenden Geld- und Sachleistungen weiter zu gewähren.
+
+(5) Kann der Urlaub wegen Beendigung des Dienstes ganz oder teilweise nicht mehr gewährt werden, ist er abzugelten.
 
 # § 14 – Übergangsregelung
 

@@ -3,7 +3,7 @@
  
 # § 1 – Aufgaben des Bundesfreiwilligendienstes
 
-Im Bundesfreiwilligendienst engagieren sich Frauen und Männer für das Allgemeinwohl, insbesondere im sozialen, ökologischen und kulturellen Bereich sowie im Bereich des Sports, der Integration und des Zivil- und Katastrophenschutzes. Der Bundesfreiwilligendienst fördert das lebenslange Lernen.
+Im Bundesfreiwilligendienst engagieren sich Personen für das Allgemeinwohl, insbesondere im sozialen, ökologischen und kulturellen Bereich sowie im Bereich des Sports, der Integration und des Zivil- und Katastrophenschutzes. Der Bundesfreiwilligendienst fördert das lebenslange Lernen.
 
 # § 2 – Freiwillige
 
@@ -11,33 +11,27 @@ Freiwillige im Sinne dieses Gesetzes sind Personen, die
 
 1. die Vollzeitschulpflicht erfüllt haben,
 
-2. einen freiwilligen Dienst
+2. einen freiwilligen Dienst leisten ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar
 
-a) ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar einer Vollzeitbeschäftigung leisten oder
+a) einer Vollzeitbeschäftigung oder
 
-b) ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar einer Teilzeitbeschäftigung von mehr als 20 Stunden pro Woche leisten, sofern sie
-
-aa)  
-das 27. Lebensjahr vollendet haben oder
-
-bb)  
-das 27. Lebensjahr noch nicht vollendet haben und ein berechtigtes Interesse der Freiwilligen an einer Teilzeitbeschäftigung vorliegt,
+b) einer Teilzeitbeschäftigung von mehr als 20 Stunden pro Woche,
 
 3. sich auf Grund einer Vereinbarung nach § 8 zur Leistung eines Bundesfreiwilligendienstes für eine Zeit von mindestens sechs Monaten und höchstens 24 Monaten verpflichtet haben und
 
-4. für den Dienst nur unentgeltliche Unterkunft, Verpflegung und Arbeitskleidung sowie ein angemessenes Taschengeld oder anstelle von Unterkunft, Verpflegung und Arbeitskleidung entsprechende Geldersatzleistungen erhalten dürfen; ein Taschengeld ist dann angemessen, wenn es
+4. für den Dienst nur folgende Geld- und Sachleistungen erhalten dürfen:
 
-a) 6 Prozent der in der allgemeinen Rentenversicherung geltenden Beitragsbemessungsgrenze nicht übersteigt,
+a) ein angemessenes Taschengeld,
 
-b) dem Taschengeld anderer Personen entspricht, die einen Jugendfreiwilligendienst nach dem Jugendfreiwilligendienstegesetz leisten und eine vergleichbare Tätigkeit in derselben Einsatzstelle ausüben und
+b) unentgeltliche Unterkunft, Verpflegung und Arbeitskleidung oder entsprechende Geldersatzleistungen sowie
 
-c) bei einem Dienst vergleichbar einer Teilzeitbeschäftigung gekürzt ist.
+c) Mobilitätszuschläge oder entsprechende Sachleistungen.
 
-§ 2 Nr. 2 Kursivdruck: Abweichend von Art. 1 Nr. 1 Buchst. a G v. 6.5.2019 I 644 wird der Punkt am Ende durch ein Komma ersetzt
+Angemessen ist ein monatliches Taschengeld, das 8 Prozent der in der allgemeinen Rentenversicherung monatlich geltenden Beitragsbemessungsgrenze nicht übersteigt und dem Taschengeld anderer Personen entspricht, die einen Jugendfreiwilligendienst nach dem Jugendfreiwilligendienstegesetz leisten und eine vergleichbare Tätigkeit in derselben Einsatzstelle ausüben. Bei einem freiwilligen Dienst vergleichbar einer Teilzeitbeschäftigung ist das Taschengeld zu kürzen.
 
 # § 3 – Einsatzbereiche, Dauer
 
-(1) Der Bundesfreiwilligendienst wird in der Regel ganztägig als überwiegend praktische Hilfstätigkeit in gemeinwohlorientierten Einrichtungen geleistet, insbesondere in Einrichtungen der Kinder- und Jugendhilfe, einschließlich der Einrichtungen für außerschulische Jugendbildung und für Jugendarbeit, in Einrichtungen der Wohlfahrts-, Gesundheits- und Altenpflege, der Behindertenhilfe, der Kultur und Denkmalpflege, des Sports, der Integration, des Zivil- und Katastrophenschutzes und in Einrichtungen, die im Bereich des Umweltschutzes einschließlich des Naturschutzes und der Bildung zur Nachhaltigkeit tätig sind. Der Bundesfreiwilligendienst ist arbeitsmarktneutral auszugestalten.
+(1) Der Bundesfreiwilligendienst wird als überwiegend praktische Hilfstätigkeit in gemeinwohlorientierten Einrichtungen geleistet, insbesondere in Einrichtungen der Kinder- und Jugendhilfe, einschließlich der Einrichtungen für außerschulische Jugendbildung und für Jugendarbeit, in Einrichtungen der Wohlfahrts-, Gesundheits- und Altenpflege, der Behindertenhilfe, der Kultur und Denkmalpflege, des Sports, der Integration, des Zivil- und Katastrophenschutzes und in Einrichtungen, die im Bereich des Umweltschutzes einschließlich des Naturschutzes und der Bildung zur Nachhaltigkeit tätig sind. Der Bundesfreiwilligendienst ist arbeitsmarktneutral auszugestalten.
 
 (2) Der Bundesfreiwilligendienst wird in der Regel für eine Dauer von zwölf zusammenhängenden Monaten geleistet. Der Dienst dauert mindestens sechs Monate und höchstens 18 Monate. Er kann ausnahmsweise bis zu einer Dauer von 24 Monaten verlängert werden, wenn dies im Rahmen eines besonderen pädagogischen Konzepts begründet ist. Im Rahmen eines pädagogischen Gesamtkonzepts ist auch eine Ableistung in zeitlich getrennten Abschnitten möglich, wenn ein Abschnitt mindestens drei Monate dauert. Die Gesamtdauer aller Abschnitte sowie mehrerer geleisteter Bundesfreiwilligendienste darf bis zum 27. Lebensjahr die zulässige Gesamtdauer nach den Sätzen 2 und 3 nicht überschreiten, danach müssen zwischen jedem Ableisten der nach den Sätzen 2 und 3 zulässigen Gesamtdauer fünf Jahre liegen; auf das Ableisten der Gesamtdauer ist ein Jugendfreiwilligendienst nach dem Jugendfreiwilligendienstegesetz anzurechnen.
 
@@ -47,7 +41,7 @@ c) bei einem Dienst vergleichbar einer Teilzeitbeschäftigung gekürzt ist.
 
 (2) Die Freiwilligen erhalten von den Einsatzstellen fachliche Anleitung.
 
-(3) Während des Bundesfreiwilligendienstes finden Seminare statt, für die Teilnahmepflicht besteht. Die Seminarzeit gilt als Dienstzeit. Die Gesamtdauer der Seminare beträgt bei einer zwölfmonatigen Teilnahme am Bundesfreiwilligendienst mindestens 25 Tage; Freiwillige, die das 27. Lebensjahr vollendet haben, nehmen in angemessenem Umfang an den Seminaren teil. Wird ein Dienst über den Zeitraum von zwölf Monaten hinaus vereinbart oder verlängert, erhöht sich die Zahl der Seminartage für jeden weiteren Monat um mindestens einen Tag. Bei einem kürzeren Dienst als zwölf Monate verringert sich die Zahl der Seminartage für jeden Monat um zwei Tage. Die Freiwilligen wirken an der inhaltlichen Gestaltung und der Durchführung der Seminare mit.
+(3) Während des Bundesfreiwilligendienstes finden Seminare statt, für die Teilnahmepflicht besteht. Die Seminarzeit gilt als Dienstzeit. An den Seminartagen gilt die regelmäßige Dienstzeit des jeweiligen Tages als geleistet. Fallen Seminartage auf Tage, die ansonsten für die an dem Seminar teilnehmende Person in der Einsatzstelle dienstfrei wären, so erhält die teilnehmende Person die gleiche Anzahl an dienstfreien Tagen als Ersatz. Die Gesamtdauer der Seminare beträgt bei einer zwölfmonatigen Teilnahme am Bundesfreiwilligendienst mindestens 25 Tage; Freiwillige, die das 27. Lebensjahr vollendet haben, nehmen in angemessenem Umfang an den Seminaren teil. Wird ein Dienst über den Zeitraum von zwölf Monaten hinaus vereinbart oder verlängert, erhöht sich die Zahl der Seminartage für jeden weiteren Monat um mindestens einen Tag. Bei einem kürzeren Dienst als zwölf Monate verringert sich die Zahl der Seminartage für jeden Monat um zwei Tage. Die Freiwilligen wirken an der inhaltlichen Gestaltung und der Durchführung der Seminare mit.
 
 (4) Die Freiwilligen nehmen im Rahmen der Seminare nach Absatz 3 an einem fünftägigen Seminar zur politischen Bildung teil. In diesem Seminar darf die Behandlung politischer Fragen nicht auf die Darlegung einer einseitigen Meinung beschränkt werden. Das Gesamtbild des Unterrichts ist so zu gestalten, dass die Dienstleistenden nicht zugunsten oder zuungunsten einer bestimmten politischen Richtung beeinflusst werden.
 
@@ -131,7 +125,7 @@ Die Einsatzstellen, Zentralstellen und Träger dürfen personenbezogene Daten na
 
 # § 13 – Anwendung arbeitsrechtlicher, arbeitsschutzrechtlicher und sonstiger Bestimmungen
 
-(1) Für eine Tätigkeit im Rahmen eines Bundesfreiwilligendienstes im Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen, das Jugendarbeitsschutzgesetz und das Bundesurlaubsgesetz entsprechend anzuwenden.
+(1) Für eine Tätigkeit im Rahmen eines Bundesfreiwilligendienstes im Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen und das Jugendarbeitsschutzgesetz entsprechend anzuwenden.
 
 (2) Soweit keine ausdrückliche sozialversicherungsrechtliche Regelung vorhanden ist, finden auf den Bundesfreiwilligendienst die sozialversicherungsrechtlichen Bestimmungen entsprechende Anwendung, die für die Jugendfreiwilligendienste nach dem Jugendfreiwilligendienstegesetz gelten. Im Übrigen sind folgende Vorschriften entsprechend anzuwenden:
 
@@ -142,6 +136,18 @@ Die Einsatzstellen, Zentralstellen und Träger dürfen personenbezogene Daten na
 3. § 1 Absatz 1 Nummer 2 Buchstabe h der Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Straßenpersonenverkehr,
 
 4. § 1 Absatz 1 Nummer 2 Buchstabe h der Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Eisenbahnverkehr.
+
+# § 13a – Urlaub
+
+(1) Freiwillige haben Anspruch auf Erholungsurlaub.
+
+(2) Bei Freiwilligen, die das 18. Lebensjahr vollendet haben, beträgt der Anspruch auf Erholungsurlaub bei einer Dienstdauer von zwölf Monaten und einer Verteilung der regelmäßigen Dienstzeit auf fünf Werktage in der Kalenderwoche mindestens 20 Werktage. Ist die regelmäßige Dienstzeit auf mehr oder weniger als fünf Tage in der Kalenderwoche verteilt, ist der Urlaubsanspruch nach Satz 1 entsprechend umzurechnen. Bei Freiwilligen, die das 18. Lebensjahr noch nicht vollendet haben, richtet sich der Anspruch auf Erholungsurlaub nach § 19 Absatz 2 des Jugendarbeitsschutzgesetzes.
+
+(3) Bei einer kürzeren oder längeren Dienstdauer als zwölf Monate verringert oder erhöht sich der Urlaubsanspruch nach Absatz 1 für jeden vollen Monat um ein Zwölftel. Bruchteile von Urlaubstagen, die mindestens einen halben Tag ergeben, werden auf volle Urlaubstage aufgerundet.
+
+(4) Während des Urlaubs sind die den Freiwilligen nach der Vereinbarung zustehenden Geld- und Sachleistungen weiter zu gewähren.
+
+(5) Kann der Urlaub wegen Beendigung des Dienstes ganz oder teilweise nicht mehr gewährt werden, ist er abzugelten.
 
 # § 14 – Zuständige Bundesbehörde
 
@@ -177,11 +183,11 @@ Die Einsatzstellen, Zentralstellen und Träger können mit ihrem Einverständnis
 
 # § 17 – Kosten
 
-(1) Soweit die Freiwilligen Unterkunft, Verpflegung und Arbeitskleidung oder entsprechende Geldersatzleistungen erhalten, erbringen die Einsatzstellen diese Leistungen auf ihre Kosten für den Bund. Sie tragen die ihnen aus der Beschäftigung der Freiwilligen entstehenden Verwaltungskosten.
+(1) Soweit die Freiwilligen Unterkunft, Verpflegung und Arbeitskleidung oder entsprechende Geldersatzleistungen, Mobilitätszuschläge oder entsprechende Sachleistungen erhalten, erbringen die Einsatzstellen diese Leistungen auf ihre Kosten für den Bund. Sie tragen die ihnen aus der Beschäftigung der Freiwilligen entstehenden Verwaltungskosten.
 
 (2) Für den Bund zahlen die Einsatzstellen den Freiwilligen das Taschengeld, soweit ein Taschengeld vereinbart ist. Für die Einsatzstellen gelten die Melde-, Beitragsnachweis- und Zahlungspflichten des Sozialversicherungsrechts. Die Einsatzstellen tragen die Kosten der pädagogischen Begleitung der Freiwilligen.
 
-(3) Den Einsatzstellen wird der Aufwand für das Taschengeld, die Sozialversicherungsbeiträge und die pädagogische Begleitung im Rahmen der im Haushaltsplan vorgesehenen Mittel erstattet; das Bundesministerium für Familie, Senioren, Frauen und Jugend legt im Einvernehmen mit dem Bundesministerium der Finanzen einheitliche Obergrenzen für die Erstattung fest. Der Zuschuss für den Aufwand für die pädagogische Begleitung wird nach den für das freiwillige soziale Jahr im Inland geltenden Richtlinien des Bundes festgesetzt.
+(3) Den Einsatzstellen wird der Aufwand für das Taschengeld, die Sozialversicherungsbeiträge, die gesetzlich geregelten Zuschüsse zu Beiträgen zur Kranken- und Pflegeversicherung sowie zu einer berufsständischen Versorgungseinrichtung und die pädagogische Begleitung im Rahmen der im Haushaltsplan vorgesehenen Mittel erstattet; das Bundesministerium für Familie, Senioren, Frauen und Jugend legt im Einvernehmen mit dem Bundesministerium der Finanzen einheitliche Obergrenzen für die Erstattung fest. Der Zuschuss für den Aufwand für die pädagogische Begleitung wird nach den für das freiwillige soziale Jahr im Inland geltenden Richtlinien des Bundes festgesetzt.
 
 # § 18 – Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 

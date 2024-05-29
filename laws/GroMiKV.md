@@ -261,7 +261,8 @@ Eine auf eine fremde Währung lautende Position ist entweder zu dem Referenzkurs
 
 (3) Für die Ermittlung, ob das Volumen der Kredite, die ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen einem Kreditnehmer oder einer Kreditnehmereinheit gewährt hat, die Millionenkreditmeldegrenze erreicht oder übersteigt, sind Wertpapiere des Handelsbuchs nicht zu berücksichtigen. Für die Ermittlung nach Satz 1 ist der Stand der Geschäfte täglich bei Geschäftsschluss maßgeblich; untertägige Spitzen, die bis Geschäftsschluss wieder unter die Millionenkreditmeldegrenze zurückgeführt werden, bleiben unberücksichtigt.
 
-(+++ § 15: Zur Anwendung vgl. § 20 +++) (+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
+(+++ § 15: Zur Anwendung vgl. § 20 +++)  
+(+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
 
 # § 16 – Stammdaten für Millionenkreditnehmer
 
@@ -312,7 +313,8 @@ Angaben zu den Krediten nach § 14 KWG – BA, BAS, BA6, BAS6, BA7, BAS7 § 14 (
 
 (6) Mit Zustimmung der Evidenzzentrale darf ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen die Meldung von Betragsdaten abweichend von den in Absatz 1 Satz 2 vorgesehenen Formularen vornehmen, soweit es für die technische Durchführung des Meldeverfahrens zweckmäßig erscheint und der Informationsgehalt der Meldungen dadurch nicht beeinträchtigt wird.
 
-(+++ § 17: Zur Anwendung vgl. § 20 Abs. 3 Satz 1 +++) (+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
+(+++ § 17: Zur Anwendung vgl. § 20 Abs. 3 Satz 1 +++)  
+(+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
 
 # § 18 – Aufbewahrungsfristen
 
@@ -338,7 +340,8 @@ Haben mindestens vier am Millionenkreditmeldeverfahren beteiligte Unternehmen ei
 
 (5) Die Evidenzzentrale kann jedem am Millionenkreditmeldeverfahren beteiligten Unternehmen für den nächsten Meldetermin in elektronischer Form eine Rückmeldung als Grundlage für die Meldung der zum Meldetermin bestehenden Millionenkredite, die Stammdaten und weitere gemeldete Informationen zu den Kreditnehmern und Kreditnehmereinheiten enthält, die von den am Millionenkreditmeldeverfahren beteiligten Unternehmen zum vorhergehenden Meldetermin von diesen gemeldet wurden, bereitstellen.
 
-(+++ § 19: Zur Anwendung vgl. § 20 Abs. 4 Satz 1 +++) (+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
+(+++ § 19: Zur Anwendung vgl. § 20 Abs. 4 Satz 1 +++)  
+(+++ Teil 2 u. 3: Zur Geltung vgl. § 66 Abs. 1 Satz 2 WpIG +++)
 
 # § 20 – (weggefallen)
 
