@@ -395,7 +395,7 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtm�
 
  
 
-<span id="FnA1-F827671_02"></span><a href="#FnR.FnA1-F827671_02" class="Footnote">*</a>  
+<span id="FnA1-F829919_01"></span><a href="#FnR.FnA1-F829919_01" class="Footnote">*</a>  
 In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 
  
