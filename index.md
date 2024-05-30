@@ -4893,6 +4893,7 @@
 - [SatellitÜbkG](laws/SatellitÜbkG.md) Gesetz zu dem Übereinkommen vom 21. Mai 1974 über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale
 - [SattlFeintMstrV](laws/SattlFeintMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Sattler- und Feintäschner-Handwerk
 - [SaubFahrzeugBeschG](laws/SaubFahrzeugBeschG.md) Gesetz über die Beschaffung sauberer Straßenfahrzeuge
+- [SaubFahrzeugBeschG§10Bek](laws/SaubFahrzeugBeschG§10Bek.md) Bekanntmachung nach § 10 des Saubere-Fahrzeuge-Beschaffungs-Gesetzes
 - [SAZV](laws/SAZV.md) Verordnung über die Arbeitszeit der Soldatinnen und Soldaten
 - [SBBFestV 2014](laws/SBBFestV_2014.md) Verordnung zur Festlegung der Höhe der Sonderentlastung von Kommunen mit besonderen Herausforderungen aus dem Zuzug aus anderen EU-Mitgliedstaaten über die Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2014
 - [SBG](laws/SBG.md) Soldatinnen- und Soldatenbeteiligungsgesetz

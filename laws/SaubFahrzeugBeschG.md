@@ -45,6 +45,8 @@ Im Fall des Satzes 1 Nummer 5 dürfen Fahrzeuge nur mit flüssigen oder gasförm
 
 Ferner dürfen im Fall von Fahrzeugen, die mit flüssigen Biokraftstoffen, synthetischen oder paraffinischen Kraftstoffen betrieben werden, diese Kraftstoffe nicht mit konventionellen fossilen Kraftstoffen vermischt werden. Das Einhalten der Anforderungen an die verwendeten Kraftstoffe ist durch die öffentlichen Auftraggeber oder Sektorenauftraggeber bei der Auftragsvergabe durch vertragliche Verpflichtungen sicherzustellen. Werden Fahrzeuge mit Verbrennungsmotoren eingesetzt, so müssen diese nach der Abgasnorm Euro VI oder neuer typgenehmigt sein.
 
+(+++ § 2 Satz 1 Nr. 5 iVm Satz 2 bis 6: Zur Anwendung vgl. § 10 Abs. 3 Satz 1 +++)
+
 # § 3 – Sachlicher Anwendungsbereich
 
 Dieses Gesetz gilt für die Beschaffung bestimmter Straßenfahrzeuge und Dienstleistungen durch öffentliche Auftraggeber und Sektorenauftraggeber durch
@@ -224,6 +226,8 @@ Soweit bei der Übertragung auf ein Unternehmen des Bundes hoheitliche Aufgaben 
 (2) Für Beschaffungen im Sinne des § 3, deren Auftragsbekanntmachung bis zum Ablauf des 27. Mai 2024 veröffentlicht worden ist oder bei denen bis zum Ablauf dieses Tages zur Abgabe eines Angebots aufgefordert worden ist, ist § 2 Nummer 5 in der bis zum 27. Mai 2024 geltenden Fassung weiter anzuwenden.
 
 (3) § 2 Satz 1 Nummer 5 in Verbindung mit den Sätzen 2 bis 6 in der ab dem 28. Mai 2024 geltenden Fassung ist erst ab dem Tag anzuwenden, an dem erstmals eine Änderung der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl. I S. 1849), die zuletzt durch Artikel 1 der Verordnung vom 13. Dezember 2019 (BGBl. I S. 2739) geändert worden ist, nach dem 28. Mai 2024 in Kraft tritt, die das Inverkehrbringen von Kraftstoffen nach DIN EN 15940<span id="FnR.F829621_02"></span><a href="#F829621_02" class="FnR">*</a></sup> , Ausgabe Juli 2023, in Reinform ermöglicht. Das Bundesministerium für Digitales und Verkehr hat den nach Satz 1 maßgeblichen Tag im Bundesgesetzblatt bekanntzugeben. Bis zu dem nach Satz 1 maßgeblichen Tag ist für Beschaffungen im Sinne des § 3, deren Auftragsbekanntmachung ab dem 28. Mai 2024 veröffentlicht worden ist oder bei denen ab diesem Tag zur Abgabe eines Angebots aufgefordert worden ist, § 2 Nummer 5 in der bis zum 27. Mai 2024 geltenden Fassung weiter anzuwenden.
+
+(+++ Hinweis: Zur Bekanntmachung nach § 10 Abs. 3 vgl. Bek. v. 28.5.2024 I Nr. 171 +++)
 
 # Anlage 1 – (zu § 2 Nummer 4, § 6 Absatz 1)Emissionsgrenzwerte für saubere leichte Nutzfahrzeuge
 

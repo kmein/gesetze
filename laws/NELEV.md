@@ -155,10 +155,6 @@ Die Mitarbeiter und beauftragten Personen müssen sich gegenüber dem Betreiber 
 
 (7) Eine Erzeugungsanlage, die nach Absatz 2 vom Elektrizitätsversorgungsnetz getrennt wurde, kann wieder in Betrieb genommen werden, sobald der Betreiber der Erzeugungsanlage die Anforderungen nach § 2 Absatz 1 vollständig nachgewiesen hat.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # § 7 – Übergangsregelungen, Anwendungsbestimmungen
 
 (1) Soweit für die Ausstellung des Nachweisdokuments nach § 2 Absatz 2 keine allgemein anerkannten Regeln der Technik gemäß § 3 existieren, ist § 2 Absatz 2 nicht anzuwenden. Soweit für die Überprüfung der Simulationsmodelle nach § 2 Absatz 3 keine allgemein anerkannten Regeln der Technik gemäß § 3 existieren, ist § 2 Absatz 3 nicht anzuwenden.
@@ -172,3 +168,7 @@ Der Bundesrat hat zugestimmt.
 # § 8 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2017 in Kraft.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.
