@@ -1233,27 +1233,113 @@ c) seit drei Jahren ununterbrochen eine qualifizierte Beschäftigung ausgeübt h
 
 Eine Ablehnung nach Satz 1 Nummer 1 und 2 hat innerhalb von 30 Tagen nach Zugang der vollständigen Mitteilung nach § 16c Absatz 1 Satz 1 oder § 18e Absatz 1 Satz 1 beim Bundesamt für Migration und Flüchtlinge zu erfolgen. Im Fall des Satzes 1 Nummer 4 ist eine Ablehnung durch die Ausländerbehörde jederzeit während des Aufenthalts des Ausländers möglich; § 73 Absatz 3c ist entsprechend anwendbar. Die Ablehnung ist neben dem Ausländer auch der zuständigen Behörde des anderen Mitgliedstaates und der mitteilenden Einrichtung schriftlich bekannt zu geben.
 
-# § 20 – Arbeitsplatzsuche für Fachkräfte
+# § 20 – Arbeitsplatzsuche im Anschluss an Aufenthalte im Bundesgebiet
 
-(1) Einer Fachkraft mit Berufsausbildung kann eine Aufenthaltserlaubnis für bis zu sechs Monate zur Suche nach einem Arbeitsplatz, zu dessen Ausübung ihre Qualifikation befähigt, erteilt werden, wenn die Fachkraft über der angestrebten Tätigkeit entsprechende deutsche Sprachkenntnisse verfügt. Auf Ausländer, die sich bereits im Bundesgebiet aufhalten, findet Satz 1 nur Anwendung, wenn diese unmittelbar vor der Erteilung der Aufenthaltserlaubnis nach Satz 1 im Besitz eines Aufenthaltstitels zum Zweck der Erwerbstätigkeit oder nach § 16e waren. Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Zustimmung des Bundesrates Berufsgruppen bestimmen, in denen Fachkräften keine Aufenthaltserlaubnis nach Satz 1 erteilt werden darf. Die Aufenthaltserlaubnis berechtigt nur zur Ausübung von Probebeschäftigungen bis zu zehn Stunden je Woche, zu deren Ausübung die erworbene Qualifikation die Fachkraft befähigt.
+(1) Zur Suche nach einer Erwerbstätigkeit
 
-(2) Einer Fachkraft mit akademischer Ausbildung kann eine Aufenthaltserlaubnis für bis zu sechs Monate zur Suche nach einem Arbeitsplatz, zu dessen Ausübung ihre Qualifikation befähigt, erteilt werden. Absatz 1 Satz 2 und 4 gilt entsprechend.
+1. wird einem Ausländer nach erfolgreichem Abschluss eines Studiums im Bundesgebiet im Rahmen eines Aufenthalts nach § 16b oder § 16c eine Aufenthaltserlaubnis erteilt,
 
-(3) Zur Suche nach einem Arbeitsplatz, zu dessen Ausübung seine Qualifikation befähigt,
+2. wird einem Ausländer nach Abschluss der Forschungstätigkeit im Rahmen eines Aufenthalts nach § 18d oder § 18f eine Aufenthaltserlaubnis erteilt,
 
-1. wird einem Ausländer nach erfolgreichem Abschluss eines Studiums im Bundesgebiet im Rahmen eines Aufenthalts nach § 16b oder § 16c eine Aufenthaltserlaubnis für bis zu 18 Monate erteilt,
+3. ist einem Ausländer nach erfolgreichem Abschluss einer qualifizierten Berufsausbildung im Bundesgebiet im Rahmen eines Aufenthalts nach § 16a eine Aufenthaltserlaubnis zu erteilen,
 
-2. wird einem Ausländer nach Abschluss der Forschungstätigkeit im Rahmen eines Aufenthalts nach § 18d oder § 18f eine Aufenthaltserlaubnis für bis zu neun Monate erteilt,
+4. ist einem Ausländer nach der Feststellung der Gleichwertigkeit der Berufsqualifikation oder der Erteilung der Berufsausübungserlaubnis im Bundesgebiet im Rahmen eines Aufenthalts nach § 16d eine Aufenthaltserlaubnis zu erteilen,
 
-3. kann einem Ausländer nach erfolgreichem Abschluss einer qualifizierten Berufsausbildung im Bundesgebiet im Rahmen eines Aufenthalts nach § 16a eine Aufenthaltserlaubnis für bis zu zwölf Monate erteilt werden,
+5. wird einem Ausländer nach erfolgreichem Abschluss einer Assistenz- oder Helferausbildung in einem staatlich anerkannten oder vergleichbar geregelten Ausbildungsberuf in einem Beruf im Gesundheits- und Pflegewesen im Bundesgebiet eine Aufenthaltserlaubnis erteilt,
 
-4. kann einem Ausländer nach der Feststellung der Gleichwertigkeit der Berufsqualifikation oder der Erteilung der Berufsausübungserlaubnis im Bundesgebiet im Rahmen eines Aufenthalts nach § 16d eine Aufenthaltserlaubnis für bis zu zwölf Monate erteilt werden oder
+sofern die Tätigkeit nach den Bestimmungen der §§ 18a, 18b, 18d, 18g, 19c und 21 von Ausländern ausgeübt werden darf.
 
-5. wird einem Ausländer nach erfolgreichem Abschluss einer Assistenz- oder Helferausbildung in einem staatlich anerkannten oder vergleichbar geregelten Ausbildungsberuf in einem Beruf im Gesundheits- und Pflegewesen im Bundesgebiet eine Aufenthaltserlaubnis für zwölf Monate erteilt,
+(2) Die Erteilung einer Aufenthaltserlaubnis nach Absatz 1 setzt die Lebensunterhaltssicherung voraus. Sie wird in den Fällen des Absatzes 1 Nummer 1 bis 4 für einen Zeitraum von bis zu 18 Monaten erteilt. In den Fällen des Absatzes 1 Nummer 5 wird sie für einen Zeitraum von bis zu zwölf Monaten erteilt und kann einmalig um bis zu sechs Monate verlängert werden, wenn der Lebensunterhalt gesichert ist. Die Verlängerung nach Absatz 1 über diese Zeiträume hinaus ist ausgeschlossen.
 
-sofern der Arbeitsplatz nach den Bestimmungen der §§ 18a, 18b, 18d, 18g, 19c und 21 von Ausländern besetzt werden darf.
+# § 20a – Chancenkarte; Verordnungsermächtigung
 
-(4) Die Erteilung der Aufenthaltserlaubnis nach den Absätzen 1 bis 3 setzt die Lebensunterhaltssicherung voraus. Die Verlängerung der Aufenthaltserlaubnis über die in den Absätzen 1 bis 3 genannten Höchstzeiträume hinaus ist ausgeschlossen. Eine Aufenthaltserlaubnis nach den Absätzen 1 und 2 kann erneut nur erteilt werden, wenn sich der Ausländer nach seiner Ausreise mindestens so lange im Ausland aufgehalten hat, wie er sich zuvor auf der Grundlage einer Aufenthaltserlaubnis nach Absatz 1 oder 2 im Bundesgebiet aufgehalten hat. § 9 findet keine Anwendung.
+(1) Eine Chancenkarte ist eine Aufenthaltserlaubnis zur Suche nach einer Erwerbstätigkeit oder nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen.
+
+(2) Die Chancenkarte berechtigt dazu,
+
+1. eine Beschäftigung von durchschnittlich insgesamt höchstens 20 Stunden je Woche auszuüben und
+
+2. eine Probebeschäftigung für jeweils höchstens zwei Wochen auszuüben, die jeweils
+
+a) qualifiziert sein muss,
+
+b) auf eine Ausbildung abzielen muss oder
+
+c) geeignet sein muss, im Rahmen einer Maßnahme zur Anerkennung ausländischer Berufsqualifikationen nach § 16d aufgenommen zu werden.
+
+(3) Die Chancenkarte kann einem Ausländer erteilt werden, wenn
+
+1. er eine Fachkraft ist oder
+
+2. er nach Maßgabe der Tabelle in der Anlage zu diesem Gesetz eine ausreichende Punktzahl für die Erfüllung von Merkmalen nach § 20b Absatz 1 erhalten hat.
+
+(4) Die Chancenkarte darf jedoch nur erteilt werden, wenn der Lebensunterhalt gesichert ist. Einem Ausländer, der sich bereits im Bundesgebiet aufhält, darf die Chancenkarte nur erteilt werden, wenn er im Besitz eines Aufenthaltstitels nach Abschnitt 3 oder Abschnitt 4 ist. Die Chancenkarte nach Absatz 3 Nummer 2 kann nur erteilt werden, wenn er
+
+1. entweder
+
+a) eine ausländische Berufsqualifikation hat,
+
+aa)  
+die von dem Staat, in dem sie erworben worden ist, staatlich anerkannt ist und
+
+bb)  
+deren Erlangung eine Ausbildungsdauer von mindestens zwei Jahren vorausgesetzt hat, oder
+
+b) einen ausländischen Hochschulabschluss hat, der in dem Staat, in dem er erworben worden ist, staatlich anerkannt ist, oder
+
+c) einen im Ausland erworbenen Berufsabschluss hat, der durch eine Ausbildung erworben wurde, die nach Inhalt, Dauer und der Art ihrer Durchführung die Anforderungen des Berufsbildungsgesetzes an eine Berufsausbildung einhält und geeignet ist, die notwendige berufliche Handlungsfähigkeit für einen Ausbildungsberuf nach dem Berufsbildungsgesetz oder der Handwerksordnung zu vermitteln und der von einer deutschen Auslandshandelskammer erteilt worden ist, und
+
+2. der Ausländer
+
+a) mindestens einfache deutsche Sprachkenntnisse nachweist oder
+
+b) englische Sprachkenntnisse mindestens auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen nachweist.
+
+Der Ausländer ist verpflichtet, sich das Vorliegen der Voraussetzungen nach Satz 3 Nummer 1 Buchstabe a oder b von einer fachkundigen inländischen Stelle bestätigen zu lassen. Das Vorliegen der nach Satz 3 Nummer 1 Buchstabe c an die Ausbildung im Ausland gestellten Anforderungen ist gegenüber der abschlusserteilenden Stelle auf deren Antrag und Kosten zu bestätigen.
+
+(5) Die Chancenkarte wird zunächst für einen Zeitraum von bis zu einem Jahr erteilt (Such-Chancenkarte). Die Chancenkarte kann auf Grund eines während eines Aufenthaltes nach Satz 1 gestellten Antrags um bis zu zwei Jahre als solche verlängert werden, wenn der Ausländer einen Arbeitsvertrag oder ein verbindliches Arbeitsplatzangebot für eine inländische qualifizierte Beschäftigung hat und die Bundesagentur für Arbeit zugestimmt hat (Folge-Chancenkarte). Eine Folge-Chancenkarte wird nur erteilt, wenn der Ausländer die Voraussetzungen für die Erteilung einer anderen Aufenthaltserlaubnis nach Abschnitt 4 nicht erfüllt. Für eine Verlängerung als Folge-Chancenkarte und die zukünftige Beschäftigung findet bis zur Entscheidung über die Verlängerung § 81 Absatz 4 mit der Maßgabe Anwendung, dass nur die Ausübung der zukünftigen Beschäftigung nach Satz 2 erlaubt ist. Absatz 2 findet auf die Folge-Chancenkarte keine Anwendung. Eine über Satz 2 hinausgehende Verlängerung als Chancenkarte ist ausgeschlossen. Eine Such-Chancenkarte kann erneut nur erteilt werden, wenn sich der Ausländer nach dem Ende der Geltungsdauer der letzten Such-Chancenkarte mindestens so lange im Ausland oder erlaubt im Bundesgebiet aufgehalten hat, wie er sich davor auf Grundlage einer Such-Chancenkarte im Bundesgebiet aufgehalten hat.
+
+(6) § 9 findet in den Fällen von Absatz 5 Satz 1 keine Anwendung.
+
+(7) Zur Steuerung der Erwerbsmigration wird die Bundesregierung ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Zahl der Chancenkarten, die Ausländern erteilt werden, die sich noch nicht im Bundesgebiet aufhalten, jährlich oder für einen kürzeren Zeitraum zu begrenzen. Bei einer Begrenzung sollen arbeitsmarkt- und integrationspolitische Erwägungen und die Kapazitäten der beteiligten Behörden zugrunde gelegt werden.
+
+# § 20b – Punktevergabe für die Chancenkarte; Verordnungsermächtigung
+
+(1) Punkte im Hinblick auf eine Erteilung der Chancenkarte nach § 20a Absatz 3 Nummer 2 erhält der Ausländer jeweils,
+
+1. wenn er eine ausländische Berufsqualifikation hat, für die eine nach den Regelungen des Bundes oder der Länder für die berufliche Anerkennung zuständige Stelle festgestellt hat, dass Anpassungs- oder Ausgleichsmaßnahmen oder weitere Qualifikationen erforderlich sind
+
+a) für die Feststellung, dass die erworbene Berufsqualifikation gleichwertig mit einer inländischen Berufsqualifikation ist, oder
+
+b) für die Erteilung der Berufsausübungserlaubnis in einem Beruf, der im Inland reglementiert ist,
+
+2. wenn er gute deutsche Sprachkenntnisse nachweist,
+
+3. wenn er ausreichende deutsche Sprachkenntnisse nachweist, es sei denn, er erhält Punkte, weil er Sprachkenntnisse nach Nummer 2 nachweist,
+
+4. wenn er hinreichende deutsche Sprachkenntnisse nachweist, es sei denn, er erhält Punkte, weil er Sprachkenntnisse nach Nummer 2 oder Nummer 3 nachweist,
+
+5. wenn er englische Sprachkenntnisse auf dem Niveau C1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen nachweist,
+
+6. wenn er nach Erwerb einer Berufsqualifikation oder eines Hochschulabschlusses nach § 20a Absatz 4 Satz 3 Nummer 1 Buchstabe b in den letzten sieben Jahren mindestens fünf Jahre Berufserfahrung, die im Zusammenhang mit der Berufsqualifikation steht, erworben hat,
+
+7. wenn er nach Erwerb einer Berufsqualifikation oder eines Hochschulabschlusses nach § 20a Absatz 4 Satz 3 Nummer 1 Buchstabe b in den letzten fünf Jahren mindestens zwei Jahre Berufserfahrung, die im Zusammenhang mit der Berufsqualifikation steht, erworben hat und keine Punkte nach Nummer 6 erhält,
+
+8. wenn die erworbene Berufsqualifikation nach § 20a Absatz 4 Satz 3 Nummer 1 einer der Berufsgruppen nach § 18g Absatz 1 Satz 2 Nummer 1 zugehört,
+
+9. wenn er bei der Beantragung der Chancenkarte nicht älter als 35 Jahre ist,
+
+10. wenn er bei der Beantragung der Chancenkarte älter als 35 Jahre und nicht älter als 40 Jahre ist,
+
+11. wenn er sich in den vergangenen fünf Jahren mindestens sechs Monate lang rechtmäßig und ununterbrochen im Bundesgebiet aufgehalten hat; unschädlich sind Unterbrechungen, die dazu geführt haben, dass sich bei einer Gesamtbetrachtung der räumliche Schwerpunkt des Aufenthalts weiterhin im Bundesgebiet befunden hatte, und
+
+12. wenn sein Ehegatte oder eingetragener Lebenspartner die Voraussetzungen für die Erteilung der Chancenkarte erfüllt, bei derselben zuständigen Stelle ebenfalls eine Chancenkarte beantragt oder beantragt hat, gemeinsam mit dem Ausländer nach Deutschland einreist oder einzureisen beabsichtigt und der Ausländer bei der Antragstellung einen Bezug zum bestimmten Antrag des Ehegatten oder eingetragenen Lebenspartners herstellt.
+
+Erhält der Ausländer nach Satz 1 Nummer 1 Punkte, so entfallen bei ihm für die Erteilung der Chancenkarte die in § 20a Absatz 4 Satz 3 Nummer 1 genannten Voraussetzungen.
+
+(2) Für die in Absatz 1 Satz 1 genannten Merkmale werden Punkte nach der Tabelle in der Anlage zu diesem Gesetz vergeben. Die Voraussetzung nach § 20a Absatz 3 Nummer 2 ist erfüllt, wenn die in der Tabelle genannte Mindestpunktzahl erreicht ist.
+
+(3) Die Bundesregierung wird ermächtigt, zur Steuerung der Erwerbsmigration nach dem Punktesystem des § 20a Absatz 3 Nummer 2 und nach den Absätzen 1 und 2 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrats bedarf, die Tabelle in der Anlage zu diesem Gesetz zu ändern hinsichtlich der für einzelne Merkmale nach Absatz 1 jeweils zu vergebenden Punkte und hinsichtlich der Mindestpunktzahl, die zu erreichen ist, um die Voraussetzung nach § 20a Absatz 3 Nummer 2 zu erfüllen.
 
 # § 21 – Selbständige Tätigkeit
 
@@ -1832,6 +1918,8 @@ Die Zustimmung wird ohne Vorrangprüfung im Sinne des Absatzes 3 Nummer 3 erteil
 2. die in § 16d Absatz 3, den §§ 19, 19b, 19c Absatz 3 oder § 19d Absatz 1 Nummer 1 oder durch die Beschäftigungsverordnung geregelten Voraussetzungen für die Zustimmung in Bezug auf die Ausübung der Beschäftigung vorliegen und
 
 3. für die Beschäftigung deutsche Arbeitnehmer sowie Ausländer, die diesen hinsichtlich der Arbeitsaufnahme rechtlich gleichgestellt sind, oder andere Ausländer, die nach dem Recht der Europäischen Union einen Anspruch auf vorrangigen Zugang zum Arbeitsmarkt haben, nicht zur Verfügung stehen (Vorrangprüfung), soweit diese Prüfung durch die Beschäftigungsverordnung oder Gesetz vorgesehen ist.
+
+(3a) Die Bundesagentur für Arbeit kann der Ausübung einer qualifizierten inländischen Beschäftigung nach § 20a Absatz 5 Satz 2 zustimmen, wenn der Ausländer nicht zu ungünstigeren Arbeitsbedingungen als vergleichbare inländische Arbeitnehmer beschäftigt wird.
 
 (4) Für die Erteilung der Zustimmung oder Arbeitserlaubnis hat der Arbeitgeber der Bundesagentur für Arbeit Auskünfte in Bezug auf das Beschäftigungsverhältnis, insbesondere zum Arbeitsentgelt, zu den Arbeitszeiten und sonstigen Arbeitsbedingungen, zu der Sozialversicherungspflicht und zum Erfordernis einer Berufsausübungserlaubnis, zu erteilen. Auf Aufforderung durch die Bundesagentur für Arbeit hat ein Arbeitgeber, der einen Ausländer beschäftigt oder beschäftigt hat, eine Auskunft nach Satz 1 innerhalb eines Monats zu erteilen.
 
@@ -3083,7 +3171,7 @@ Soweit der Widerspruch Erfolg hat, ist die Gebühr auf die Gebühr für die vorz
 
 # § 71 – Zuständigkeit
 
-(1) Für aufenthalts- und passrechtliche Maßnahmen und Entscheidungen nach diesem Gesetz und nach ausländerrechtlichen Bestimmungen in anderen Gesetzen sind die Ausländerbehörden zuständig. Die Landesregierung oder die von ihr bestimmte Stelle kann bestimmen, dass für einzelne Aufgaben nur eine oder mehrere bestimmte Ausländerbehörden zuständig sind. Nach Satz 2 kann durch die zuständigen Stellen der betroffenen Länder auch geregelt werden, dass den Ausländerbehörden eines Landes für die Bezirke von Ausländerbehörden verschiedener Länder Aufgaben zugeordnet werden. Für die Vollziehung von Abschiebungen ist in den Ländern jeweils eine zentral zuständige Stelle zu bestimmen. Die Länder sollen jeweils mindestens eine zentrale Ausländerbehörde einrichten, die bei Visumanträgen nach § 6 zu Zwecken nach den §§ 16a, 16d, 17 Absatz 1, den §§ 18a, 18b, 18c Absatz 3, den §§ 18d, 18f, 18g, 19, 19b, 19c und 20 sowie bei Visumanträgen des Ehegatten oder der minderjährigen ledigen Kinder zum Zweck des Familiennachzugs, die in zeitlichem Zusammenhang gestellt werden, die zuständige Ausländerbehörde ist.
+(1) Für aufenthalts- und passrechtliche Maßnahmen und Entscheidungen nach diesem Gesetz und nach ausländerrechtlichen Bestimmungen in anderen Gesetzen sind die Ausländerbehörden zuständig. Die Landesregierung oder die von ihr bestimmte Stelle kann bestimmen, dass für einzelne Aufgaben nur eine oder mehrere bestimmte Ausländerbehörden zuständig sind. Nach Satz 2 kann durch die zuständigen Stellen der betroffenen Länder auch geregelt werden, dass den Ausländerbehörden eines Landes für die Bezirke von Ausländerbehörden verschiedener Länder Aufgaben zugeordnet werden. Für die Vollziehung von Abschiebungen ist in den Ländern jeweils eine zentral zuständige Stelle zu bestimmen. Die Länder sollen jeweils mindestens eine zentrale Ausländerbehörde einrichten, die bei Visumanträgen nach § 6 zu Zwecken nach den §§ 16a, 16d, 17 Absatz 1, den §§ 18a, 18b, 18c Absatz 3, den §§ 18d, 18f, 18g, 19, 19b, 19c, 20 und 20a sowie bei Visumanträgen des Ehegatten oder der minderjährigen ledigen Kinder zum Zweck des Familiennachzugs, die in zeitlichem Zusammenhang gestellt werden, die zuständige Ausländerbehörde ist.
 
 (2) Im Ausland sind für Pass- und Visaangelegenheiten die vom Auswärtigen Amt ermächtigten Auslandsvertretungen zuständig. Das Auswärtige Amt wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat dem Bundesamt für Auswärtige Angelegenheiten die Entscheidung über Anträge auf Erteilung eines Visums zu übertragen. Soweit von dieser Ermächtigung Gebrauch gemacht wird, stehen dem Bundesamt für Auswärtige Angelegenheiten die Befugnisse zur Datenverarbeitung sowie alle sonstigen Aufgaben und Befugnisse einer Auslandsvertretung bei der Erteilung von Visa gemäß Absatz 3 Nummer 3 Buchstabe b sowie gemäß den §§ 54, 66, 68, 69, 72, 72a, 73, 73a, 75, 87, 90c, 91d und 91g zu.
 
@@ -4732,3 +4820,64 @@ Zur Glaubhaftmachung nach Satz 1 Nummer 1 hat der Antragsteller an Eides statt z
 # § 107 – Stadtstaatenklausel
 
 Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt, die Vorschriften dieses Gesetzes über die Zuständigkeit von Behörden dem besonderen Verwaltungsaufbau ihrer Länder anzupassen.
+
+# Anlage – (zu § 20a Absatz 3 Nummer 2, § 20b)
+
+(Fundstelle: BGBl. 2023 I Nr. 217, S. 20)
+
+  
+  
+
+Merkmal nach § 20b Absatz 1 Nummer
+
+Punkte bei Erfüllung des Merkmals
+
+1
+
+4
+
+2
+
+3
+
+3
+
+2
+
+4
+
+1
+
+5
+
+1
+
+6
+
+3
+
+7
+
+2
+
+8
+
+1
+
+9
+
+2
+
+10
+
+1
+
+11
+
+1
+
+12
+
+1
+
+Die Mindestpunktzahl beträgt sechs Punkte.

@@ -3111,7 +3111,7 @@ Es ist verboten, in die Abstände zwischen den Teilen eines Schleppverbandes hin
 
 1. Fahrzeuge mit Maschinenantrieb, die einen Verband fortbewegen, müssen über eine ausreichende Maschinenleistung verfügen, um die gute Manövrierfähigkeit des Verbandes zu gewährleisten.
 
-2. Fahrzeuge mit Maschinenantrieb dürfen, außer im Fall der Rettung oder Hilfeleistung in Notfällen, nur dann zum Schleppen, zum Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet werden, wenn dies in ihrem Schiffsattest zugelassen ist. Das Fahrzeug mit Maschinenantrieb, das bei gekuppelten Fahrzeugen die Hauptantriebskraft stellt, muß sich an der Steuerbordseite befinden. Wenn jedoch ein oder mehrere Schubleichter mitgeführt wird oder werden, darf einer an der Steuerbordseite gekuppelt werden.
+2. Fahrzeuge mit Maschinenantrieb dürfen, außer im Fall der Rettung oder Hilfeleistung in Notfällen, nur dann zum Schleppen, zum Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet werden, wenn dies in ihrem Schiffsattest zugelassen ist. Werden in einem Schubverband oder bei gekuppelten Fahrzeugen ein oder mehrere Fahrzeuge mitgeführt, dürfen diese sich sowohl an der Backbordseite als auch an der Steuerbordseite des Fahrzeugs mit Maschinenantrieb, das den Verband fortbewegt, befinden.
 
 3. Fahrgastschiffe, die Fahrgäste an Bord haben, dürfen nicht längsseits gekuppelt fahren; sie dürfen weder schleppen noch geschleppt werden, es sei denn, daß dies zum Abschleppen eines beschädigten Fahrzeugs erforderlich ist.
 
@@ -3606,7 +3606,7 @@ Vor dem Einfahren in den Wesel-Datteln-Kanal müssen alle Talfahrer auf Strom au
 
 # § 9.08 – Nachtschifffahrt auf der Strecke Bingen – St. Goar
 
-Zwischen Bingen (km 530,00) und St. Goar (km 556,00) ist die Fahrt nachts nur Fahrzeugen erlaubt, die Sprechfunk auf den Kanälen 10 (Schiff-Schiff) und 18 bzw. 24 und in der Talfahrt Radar benutzen.
+Zwischen Bingen (km 530,00) und St. Goar (km 556,00) ist die Fahrt nachts nur Fahrzeugen erlaubt, die Sprechfunk auf den Kanälen 10 (Schiff-Schiff) oder 04 und in der Talfahrt Radar benutzen.
 
 # § 9.09 – Beschränkung der Schifffahrt zwischen Bad Salzig (km 564,30) und Gorinchem (km 952,50)
 
@@ -4179,7 +4179,7 @@ Liegestelle „Oberer Klybeckquai – TMS 1 und 2“ von km 168,09 bis km 168,33
 
 # § 14.03 – Mannheim-Ludwigshafen
 
-1. Die Reede erstreckt sich vor Mannheim am rechten Ufer von km 412,35 bis km 417,15 und von km 423,50 bis km 431,80 sowie vor Ludwigshafen am linken Ufer von km 419,77 bis km 424,83 und von km 425,50 bis km 431,90.
+1. Die Reede erstreckt sich vor Mannheim am rechten Ufer von km 412,50 bis km 417,16 und von km 423,50 bis km 431,80 sowie vor Ludwigshafen am linken Ufer von km 419,72 bis km 424,83 und von km 425,50 bis km 431,90.
 
 2. Für Fahrzeuge, die keine Bezeichnung nach § 3.14 führen müssen, werden bestimmt:
 
@@ -4187,11 +4187,11 @@ a) Liegestellen am rechten Ufer
 
 i. vor Mannheim-Rheinau
 
-von km 413,40 bis km 414,25,
+von km 413,10 bis km 414,25,
 
 von km 414,56 bis km 414,90,
 
-von km 415,50 bis km 416,75;
+von km 415,50 bis km 416,75,
 
 ii. vor Mannheim
 
@@ -4199,24 +4199,28 @@ von km 423,50 bis km 424,00,
 
 von km 425,36 bis km 427,00,
 
-von km 428,72 bis km 429,60,
-
-von km 429,80 bis km 430,30;
+von km 428,93 bis km 429,42.
 
 b) Liegestelle am linken Ufer vor Ludwigshafen von km 425,50 bis km 426,20.
 
-3. Für Fahrzeuge, die die Bezeichnung nach § 3.14 Nummer 1 führen müssen, werden bestimmt:
+3. Für die Fahrzeuge, die die Bezeichnung nach § 3.14 Nummer 1 führen müssen, werden bestimmt:
 
 a) Liegestellen am rechten Ufer
 
 von km 413,10 bis km 413,40,
 
-von km 430,30 bis km 431,10;
+von km 430,20 bis km 430,70.
 
 b) Liegestelle am linken Ufer von km 421,60 bis km 422,00.
 
-4. Für Fahrzeuge, die bei der BASF Aktiengesellschaft laden oder löschen wollen oder dort geladen oder gelöscht haben, wird bestimmt:
+4. Für die Fahrzeuge, die die Bezeichnung nach § 3.14 Nummer 2 führen müssen, wird bestimmt:
 
+  
+Liegestelle am rechten Ufer von km 430,75 bis km 431,10.
+
+5. Für Fahrzeuge, die bei der BASF Aktiengesellschaft laden oder löschen wollen oder dort geladen oder gelöscht haben, wird bestimmt:
+
+  
 Liegestelle am linken Ufer von km 426,20 bis km 431,47.
 
 # § 14.04 – Mainz

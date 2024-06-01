@@ -1030,31 +1030,52 @@ Satz 1 gilt entsprechend für die Familienangehörigen des Ausländers, wenn die
 
 (1) Ein Visum bedarf der vorherigen Zustimmung der für den vorgesehenen Aufenthaltsort zuständigen Ausländerbehörde, wenn
 
-1. der Ausländer sich zu anderen Zwecken als zur Erwerbstätigkeit oder zur Arbeits- oder Ausbildungsplatzsuche länger als 90 Tage im Bundesgebiet aufhalten will,
+1. der Ausländer sich zu anderen Zwecken als zur Ausbildung nach Kapitel 2 Abschnitt 3 des Aufenthaltsgesetzes oder zur Erwerbstätigkeit nach Kapitel 2 Abschnitt 4 des Aufenthaltsgesetzes länger als 90 Tage im Bundesgebiet aufhalten will,
 
-2. der Ausländer im Bundesgebiet
+2. der Ausländer
 
-a) eine selbständige Tätigkeit ausüben will,
+a) im Bundesgebiet eine selbständige Tätigkeit ausüben will,
 
-b) eine Beschäftigung nach § 19c Absatz 3 des Aufenthaltsgesetzes ausüben will oder
+b) im Bundesgebiet eine Beschäftigung nach § 19c Absatz 3 des Aufenthaltsgesetzes ausüben will,
 
-c) eine sonstige Beschäftigung ausüben will und wenn er sich entweder bereits zuvor auf der Grundlage einer Duldung oder einer Aufenthaltsgestattung im Bundesgebiet aufgehalten hat oder wenn gegen ihn aufenthaltsbeendende Maßnahmen erfolgt sind oder
+c) im Bundesgebiet
 
-d) eine Beschäftigung gemäß § 14 Absatz 1a der Beschäftigungsverordnung ausüben will und dabei einen Fall des § 14 Absatz 1a Satz 2 der Beschäftigungsverordnung geltend macht, oder
+aa)  
+eine sonstige Beschäftigung ausüben will,
+
+bb)  
+mit einem Aufenthaltstitel nach § 18d des Aufenthaltsgesetzes forschen will,
+
+cc) mit einem Aufenthaltstitel nach §§ 16a, 16b, 16d, 16e oder 16f Absatz 1 des Aufenthaltsgesetzes die jeweils zulässigen Aufenthaltszwecke verfolgen will, oder
+
+dd)  
+mit einem Aufenthaltstitel nach § 17 des Aufenthaltsgesetzes einen Ausbildungs- oder Studienplatz suchen oder sich mit einer Chancenkarte nach § 20a des Aufenthaltsgesetzes aufhalten will, und
+
+wenn er sich bereits zuvor auf der Grundlage einer Duldung oder einer Aufenthaltsgestattung im Bundesgebiet aufgehalten hat oder wenn gegen ihn aufenthaltsbeendende Maßnahmen erfolgt sind,
+
+d) im Bundesgebiet eine Beschäftigung gemäß § 14 Absatz 1a der Beschäftigungsverordnung ausüben will und dabei einen Fall des § 14 Absatz 1a Satz 2 der Beschäftigungsverordnung geltend macht,
+
+e) im Bundesgebiet einen Schulbesuch nach § 16f Absatz 2 des Aufenthaltsgesetzes beabsichtigt, oder
 
 3. die Daten des Ausländers nach § 73 Absatz 1 Satz 1 des Aufenthaltsgesetzes an die Sicherheitsbehörden übermittelt werden, soweit das Bundesministerium des Innern, für Bau und Heimat die Zustimmungsbedürftigkeit unter Berücksichtigung der aktuellen Sicherheitslage angeordnet hat.
 
-Das Visum des Ehegatten oder Lebenspartners und der minderjährigen Kinder eines Ausländers, der eine sonstige Beschäftigung ausüben will, bedarf in der Regel nicht der Zustimmung der Ausländerbehörde, wenn
+Das Visum des Ehegatten oder Lebenspartners und der minderjährigen Kinder eines Ausländers, der eine sonstige Beschäftigung ausüben oder mit einem Aufenthaltstitel nach § 18d des Aufenthaltsgesetzes forschen will, bedarf in der Regel nicht der Zustimmung der Ausländerbehörde, wenn
 
-1. das Visum des Ausländers nicht der Zustimmungspflicht der Ausländerbehörde nach Satz 1 Nummer 2 Buchstabe c unterliegt,
+1. das Visum des Ausländers nicht der Zustimmungspflicht der Ausländerbehörde nach Satz 1 Nummer 2 Buchstabe c Doppelbuchstabe aa oder bb unterliegt,
 
-2. das Visum des Ehegatten oder Lebenspartners nicht selbst der Zustimmungspflicht der Ausländerbehörde nach Satz 1 Nummer 2 Buchstabe a bis c unterliegt,
+2. das Visum des Ehegatten oder Lebenspartners nicht selbst der Zustimmungspflicht der Ausländerbehörde nach Satz 1 Nummer 2 unterliegt,
 
 3. die Visumanträge in zeitlichem Zusammenhang gestellt werden und
 
 4. die Ehe oder Lebenspartnerschaft bereits bei der Visumbeantragung des Ausländers besteht.
 
-Im Fall des Satzes 1 Nr. 3 gilt die Zustimmung als erteilt, wenn nicht die Ausländerbehörde der Erteilung des Visums binnen zehn Tagen nach Übermittlung der Daten des Visumantrages an sie widerspricht oder die Ausländerbehörde im Einzelfall innerhalb dieses Zeitraums der Auslandsvertretung mitgeteilt hat, dass die Prüfung nicht innerhalb dieser Frist abgeschlossen wird. Dasselbe gilt im Fall eines Ausländers, der eine sonstige Beschäftigung ausüben will, und seiner Familienangehörigen nach Satz 2, wenn das Visum nur auf Grund eines Voraufenthalts im Sinne von Satz 1 Nummer 2 Buchstabe c der Zustimmung der Ausländerbehörde bedarf. Dasselbe gilt bei Anträgen auf Erteilung eines Visums zu einem Aufenthalt nach § 16b Absatz 1 oder Absatz 5, § 17 Absatz 2 oder § 18d des Aufenthaltsgesetzes, soweit das Visum nicht nach § 34 Nummer 3 bis 5 zustimmungsfrei ist, mit der Maßgabe, dass die Frist drei Wochen und zwei Werktage beträgt.
+Im Fall des Satzes 1 Nr. 3 gilt die Zustimmung als erteilt, wenn nicht die Ausländerbehörde der Erteilung des Visums binnen zehn Tagen nach Übermittlung der Daten des Visumantrages an sie widerspricht oder die Ausländerbehörde im Einzelfall innerhalb dieses Zeitraums der Auslandsvertretung mitgeteilt hat, dass die Prüfung nicht innerhalb dieser Frist abgeschlossen wird. Dasselbe gilt im Fall eines Ausländers, der
+
+1. eine sonstige Beschäftigung ausüben oder mit einem Aufenthaltstitel nach § 18d des Aufenthaltsgesetzes forschen will, und seiner Familienangehörigen nach Satz 2, oder
+
+2. die Voraussetzungen nach Satz 1 Nummer 2 Buchstabe c Doppelbuchstabe bb, cc oder dd erfüllt,
+
+wenn das Visum nur auf Grund eines Voraufenthalts im Sinne von Satz 1 Nummer 2 Buchstabe c der Zustimmung der Ausländerbehörde bedarf und das Visum nicht nach anderen Bestimmungen zustimmungsfrei ist.
 
 (2) Wird der Aufenthalt des Ausländers von einer öffentlichen Stelle mit Sitz im Bundesgebiet vermittelt, kann die Zustimmung zur Visumerteilung auch von der Ausländerbehörde erteilt werden, die für den Sitz der vermittelnden Stelle zuständig ist. Im Visum ist ein Hinweis auf diese Vorschrift aufzunehmen und die Ausländerbehörde zu bezeichnen.
 
@@ -2008,7 +2029,7 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 # § 59 – Muster der Aufenthaltstitel
 
-(1) Das Muster des Aufenthaltstitels nach § 4 Abs. 1 Satz 2 Nr. 1 des Aufenthaltsgesetzes (Visum) richtet sich nach der Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung (ABl. EG Nr. L 164 S. 1), zuletzt geändert durch die Verordnung (EG) Nr. 856/2008 (ABl. L 235 vom 2.9.2008, S. 1), in der jeweils geltenden Fassung. Es ist in Anlage D13a abgedruckt. Für die Verlängerung im Inland ist das in Anlage D13b abgedruckte Muster zu verwenden.
+(1) Das Muster des Aufenthaltstitels nach § 4 Abs. 1 Satz 2 Nr. 1 des Aufenthaltsgesetzes (Visum) richtet sich nach der Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung (ABl. EG Nr. L 164 S. 1), zuletzt geändert durch die Verordnung (EG) Nr. 856/2008 (ABl. L 235 vom 2.9.2008, S. 1), in der jeweils geltenden Fassung. Es ist in Anlage D13a abgedruckt. Im Falle des § 20a des Aufenthaltsgesetzes wird der Vermerk „Chancenkarte“ eingetragen. Für die Verlängerung im Inland ist das in Anlage D13b abgedruckte Muster zu verwenden.
 
 (2) Die Muster der Aufenthaltstitel, die nach § 78 Absatz 1 des Aufenthaltsgesetzes als eigenständige Dokumente mit Chip auszustellen sind, sowie die Muster der Aufenthalts- und Daueraufenthaltskarten, Aufenthaltsdokumente-GB und Aufenthaltsdokumente für Grenzgänger-GB, die nach § 11 Absatz 3 Satz 1 des Freizügigkeitsgesetzes/EU in Verbindung mit § 78 Absatz 1 des Aufenthaltsgesetzes als Dokumente mit Chip auszustellen sind, richten sich nach der Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige (ABl. L 157 vom 15.6.2002, S. 1) in der jeweils geltenden Fassung. Gleiches gilt für Aufenthaltserlaubnisse, die nach Maßgabe des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits auf Antrag als Dokumente mit Chip ausgestellt werden. Die Muster für Dokumente nach den Sätzen 1 und 2 sind in Anlage D14a abgedruckt. Aufenthaltstitel nach § 78 Absatz 1 in Verbindung mit § 4 Absatz 1 Satz 2 Nummer 4 des Aufenthaltsgesetzes, die gemäß dem bis zum 1. Dezember 2013 zu verwendenden Muster der Anlage D14a ausgestellt wurden, behalten ihre Gültigkeit.
 
@@ -2027,6 +2048,8 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 (4d) Bei Forschern oder Studenten, die im Rahmen eines bestimmten Programms mit Mobilitätsmaßnahmen oder im Rahmen einer Vereinbarung zwischen zwei oder mehr anerkannten Hochschuleinrichtungen in die Europäische Union reisen, wird das betreffende Programm oder die Vereinbarung auf der Aufenthaltserlaubnis oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 angegeben.
 
 (4e) In einem Aufenthaltstitel, der für eine Saisonbeschäftigung gemäß § 15a der Beschäftigungsverordnung erteilt wird, oder in einem zu diesem Aufenthaltstitel gehörenden Zusatzblatt nach Anlage D11 oder in dem Trägervordruck nach Anlage D13a wird im Feld Anmerkungen der Vermerk „Saisonbeschäftigung“ eingetragen.
+
+(4f) In einer Aufenthaltserlaubnis, die nach § 20a des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk „Chancenkarte“ eingetragen.
 
 (5) Ist in einem Aufenthaltstitel die Nebenbestimmung eingetragen, wonach die Ausübung einer Erwerbstätigkeit nicht gestattet ist, bezieht sich diese Nebenbestimmung nicht auf die in § 17 Abs. 2 genannten Tätigkeiten, sofern im Aufenthaltstitel nicht ausdrücklich etwas anderes bestimmt ist.
 

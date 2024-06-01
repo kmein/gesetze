@@ -1731,6 +1731,7 @@
 - [EltSV](laws/EltSV.md) Verordnung zur Sicherung der Elektrizitätsversorgung in einer Versorgungskrise
 - [EltZSoldV](laws/EltZSoldV.md) Verordnung über die Elternzeit für Soldatinnen und Soldaten
 - [ELV](laws/ELV.md) Verordnung über die Laufbahnen der Beamtinnen und Beamten beim Bundeseisenbahnvermögen
+- [EM2024LärmSchV](laws/EM2024LärmSchV.md) Verordnung über den Lärmschutz bei öffentlichen Fernsehdarbietungen im Freien über die Fußball-Europameisterschaft der Männer 2024
 - [EMASPrivilegV](laws/EMASPrivilegV.md) Verordnung über immissionsschutz- und abfallrechtliche Überwachungserleichterungen für nach der Verordnung (EG) Nr. 761/2001 registrierte Standorte und Organisationen
 - [EMFV](laws/EMFV.md) Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch elektromagnetische Felder
 - [EmoG](laws/EmoG.md) Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge 1
@@ -4174,7 +4175,6 @@
 - [NetzDG](laws/NetzDG.md) Gesetz zur Verbesserung der Rechtsdurchsetzung in sozialen Netzwerken
 - [NetzResV](laws/NetzResV.md) Verordnung zur Regelung der Beschaffung und Vorhaltung von Anlagen in der Netzreserve
 - [NeuGlV](laws/NeuGlV.md) Verordnung zur Durchführung des Gesetzes nach Artikel 29 Abs. 6 des Grundgesetzes
-- [NeustädterBuchtFzgV 2021](laws/NeustädterBuchtFzgV_2021.md) Verordnung über das Verbot des Befahrens 1 der Neustädter Bucht mit bestimmten Fahrzeugen
 - [NHBrfBek](laws/NHBrfBek.md) Bekanntmachung der Briefe des Bundespräsidenten vom 19. August 1991 und des Bundeskanzlers vom 23. August 1991 über die Bestimmung der 3. Strophe des Liedes der Deutschen zur Nationalhymne der Bundesrepublik Deutschland
 - [NichtAnpG](laws/NichtAnpG.md) Gesetz über die Nichtanpassung von Amtsgehalt und Ortszuschlag der Mitglieder der Bundesregierung und der Parlamentarischen Staatssekretäre
 - [NiederlFrhEWGDG 1](laws/NiederlFrhEWGDG_1.md) Gesetz zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr
@@ -6762,6 +6762,7 @@
 - [6. RAG](laws/6._RAG.md) Sechstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [6. SGGÄndG](laws/6._SGGÄndG.md) Sechstes Gesetz zur Änderung des Sozialgerichtsgesetzes
 - [7. BImSchV](laws/7._BImSchV.md) Siebente Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+- [7. BinSchStrOAbweichV](laws/7._BinSchStrOAbweichV.md) Siebte Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
 - [7. RAG](laws/7._RAG.md) Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [8. ÄndGLAG](laws/8._ÄndGLAG.md) Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndG LAG)
 - [8. GerüstbauerArbbV](laws/8._GerüstbauerArbbV.md) Achte Verordnung über zwingende Arbeitsbedingungen im Gerüstbauerhandwerk
