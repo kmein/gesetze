@@ -1967,15 +1967,15 @@ Die Zustimmung kann widerrufen und die Arbeitserlaubnis der Bundesagentur für A
 
 (1) Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung (Beschäftigungsverordnung) mit Zustimmung des Bundesrates Folgendes bestimmen:
 
-1. Beschäftigungen, für die Ausländer nach § 4a Absatz 2 Satz 1, § 16a Absatz 1 Satz 1, den §§ 16d, 16e Absatz 1 Satz 1, den §§ 19, 19b, 19c Absatz 1 und 2 sowie § 19e mit oder ohne Zustimmung der Bundesagentur für Arbeit zugelassen werden können, und ihre Voraussetzungen,
+1. Beschäftigungen, für die Ausländer nach § 4a Absatz 2 Satz 1, § 16a Absatz 1 Satz 1, den §§ 16d, 16e Absatz 1 Satz 1, den §§ 19, 19b, 19c Absatz 1 sowie § 19e mit oder ohne Zustimmung der Bundesagentur für Arbeit zugelassen werden können, und ihre Voraussetzungen,
 
 2. Beschäftigungen und Bedingungen, zu denen eine Zustimmung der Bundesagentur für Arbeit für eine qualifizierte Beschäftigung nach § 19c Absatz 2 unabhängig von der Qualifikation als Fachkraft erteilt werden kann und
 
 3. nähere Voraussetzungen in Bezug auf die Ausübung einer Beschäftigung als Fachkraft nach den §§ 18a ,18b und 18g Absatz 1 sowie für Beschäftigungen eines Inhabers einer Blauen Karte EU nach § 18g Absatz 2,
 
-4. Ausnahmen für Angehörige bestimmter Staaten,
+4. Tätigkeiten, die für die Durchführung dieses Gesetzes stets oder unter bestimmten Voraussetzungen nicht als Beschäftigung anzusehen sind.
 
-5. Tätigkeiten, die für die Durchführung dieses Gesetzes stets oder unter bestimmten Voraussetzungen nicht als Beschäftigung anzusehen sind.
+(1a) Die Bundesregierung kann durch die Beschäftigungsverordnung mit Zustimmung des Bundesrates bestimmen, dass die Bundesagentur für Arbeit der Beschäftigung von Angehörigen bestimmter Staaten unter gesonderten Voraussetzungen zustimmen kann.
 
 (2) Das Bundesministerium für Arbeit und Soziales kann durch die Beschäftigungsverordnung ohne Zustimmung des Bundesrates Folgendes bestimmen:
 
