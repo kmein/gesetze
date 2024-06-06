@@ -3626,7 +3626,7 @@ Das Interesse des Anschlussnehmers an kostengünstigen Lösungen ist dabei beson
 
 # § 19 – Technische Vorschriften
 
-(1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, unter Berücksichtigung der nach § 17 festgelegten Bedingungen für den Netzanschluss von Erzeugungsanlagen, Anlagen zur Speicherung elektrischer Energie Elektrizitätsverteilernetzen, Anlagen direkt angeschlossener Kunden, Verbindungsleitungen und Direktleitungen technische Mindestanforderungen an deren Auslegung und deren Betrieb (technische Anschlussbedingungen) festzulegen und im Internet zu veröffentlichen. Dabei werden die allgemeinen technischen Mindestanforderungen nach Absatz 4 über die technischen Anschlussbedingungen in den Netzanschlussvertrag oder in das sonstige dem Netzanschluss zugrunde liegende Schuldverhältnis einbezogen.
+(1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, unter Berücksichtigung der nach § 17 festgelegten Bedingungen für den Netzanschluss von Erzeugungsanlagen, Anlagen zur Speicherung elektrischer Energie, Elektrizitätsverteilernetzen, Anlagen direkt angeschlossener Kunden, Verbindungsleitungen und Direktleitungen technische Mindestanforderungen an deren Auslegung und deren Betrieb (technische Anschlussbedingungen) festzulegen und im Internet zu veröffentlichen. Dabei werden die allgemeinen technischen Mindestanforderungen nach Absatz 4 über die technischen Anschlussbedingungen in den Netzanschlussvertrag oder in das sonstige dem Netzanschluss zugrunde liegende Schuldverhältnis einbezogen.
 
 (1a) Anforderungen in den technischen Anschlussbedingungen, die im Widerspruch zu den allgemeinen technischen Mindestanforderungen nach Absatz 4 stehen, sind unwirksam. Ergänzungen zu den allgemeinen technischen Mindestanforderungen nach Absatz 4 sind nur zulässig, soweit
 
@@ -3657,6 +3657,8 @@ Ergänzungen nach Satz 2 sind Regelungen zu Sachverhalten, zu denen die allgemei
 Dabei ist dafür Sorge zu tragen, dass die allgemeinen technischen Mindestanforderungen nach Satz 1 nur dann Möglichkeiten für Konkretisierungen durch die Betreiber von Elektrizitätsversorgungsnetzen vorsehen, wenn diese zwingend notwendig sind, um technischen Besonderheiten von Elektrizitätsversorgungsnetzen zur Wahrung der Sicherheit oder Zuverlässigkeit der Elektrizitätsversorgung Rechnung zu tragen.
 
 (5) Die allgemeinen technischen Mindestanforderungen nach Absatz 4 sind der Regulierungsbehörde und dem Bundesministerium für Wirtschaft und Klimaschutz vor deren Verabschiedung mitzuteilen. Das Bundesministerium für Wirtschaft und Klimaschutz unterrichtet die Europäische Kommission nach Artikel 4 und Artikel 5 der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1). Die Verabschiedung der Mindestanforderungen darf nicht vor Ablauf der jeweils maßgeblichen Fristen nach Artikel 6 dieser Richtlinie erfolgen.
+
+(+++ § 19 Abs. 1 Satz 1 (früher einziger Text): Hinter den gem. Art. 1 Nr. 15 Buchst. a G v. 26.7.2011 I 1554 einzufügenden Wörtern "Anlagen zur Speicherung elektrischer Energie" wurde aufgrund offensichtlicher Unrichtigkleit ein fehlendes Komma angefügt +++)
 
 # § 19a – Umstellung der Gasqualität; Verordnungsermächtigung
 

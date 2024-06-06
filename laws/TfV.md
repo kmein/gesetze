@@ -529,7 +529,7 @@ Die Anerkennung als Prüfer oder als Prüfstelle ist zu befristen. Sie gilt län
 
 1. ohne Fahrberechtigung nach § 3 Absatz 1 Satz 1 ein Triebfahrzeug führt,
 
-2. entgegen § 5 Absatz 3 Satz 1 eine Zusatzbescheinigung ausstellt,
+2. entgegen § 5 Absatz 2 Satz 1 eine Zusatzbescheinigung ausstellt,
 
 3. entgegen § 9 Absatz 4 eine Zusatzbescheinigung nicht oder nicht rechtzeitig ändert,
 

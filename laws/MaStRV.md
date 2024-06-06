@@ -315,8 +315,6 @@ Betreiber von Wasserkraftanlagen müssen vorgenommene Ertüchtigungen im Sinne v
 
 Die Bundesnetzagentur veröffentlicht spätestens zum letzten Kalendertag jeden Monats den Zubau der erneuerbaren Energien im vorangegangenen Monat auf einer von ihr betriebenen Internetseite.
 
-(+++ Neufassung d. § 19 Abs. 1 gem. Art. 10 Nr. 7 G v. 20.7.2022 I 1237 mWv 1.1.2023 aufgrund textlicher Unstimmigkeit nicht ausführbar +++)
-
 # § 20 – Nutzungsbestimmungen
 
 (1) Die Bundesnetzagentur kann im Rahmen dieser Verordnung durch Allgemeinverfügung weitere konkretisierende Bedingungen und Spezifikationen zur Nutzung des Marktstammdatenregisters erlassen. Insbesondere kann sie Formulare, Formatvorgaben und Registrierungsverfahren verbindlich vorgeben.
