@@ -1233,6 +1233,7 @@
 - [BtOG](laws/BtOG.md) Betreuungsorganisationsgesetz
 - [BTPräsAmtsbezAnO](laws/BTPräsAmtsbezAnO.md) Anordnung des Präsidenten des Deutschen Bundestages über die Festsetzung einer Amtsbezeichnung
 - [BtRegV](laws/BtRegV.md) Verordnung über die Registrierung von beruflichen Betreuern
+- [BTV-3-ImpfgestattungsV](laws/BTV-3-ImpfgestattungsV.md) Zweite Verordnung über bestimmte Impfstoffe zum Schutz vor der Blauzungenkrankheit
 - [BTVBhHFZustAnO](laws/BTVBhHFZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten der Verwaltung des Deutschen Bundestages im Widerspruchsverfahren und über die Vertretung des Bundes bei Klagen aus dem Beamtenverhältnis in Angelegenheiten der Beihilfe und der Heilfürsorge
 - [BuchbAusbV](laws/BuchbAusbV.md) Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin*)
 - [BuchBMstrV](laws/BuchBMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Buchbinder-Handwerk
@@ -5104,7 +5105,7 @@
 - [SGB 8](laws/SGB_8.md) Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)
 - [SGB IX](laws/SGB_IX.md) Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234)
 - [SGB V-ÜbV](laws/SGB_V-ÜbV.md) Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach dem Fünften Buch Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung
-- [SGB XIV](laws/SGB_XIV.md) Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung –
+- [SGB XIV](laws/SGB_XIV.md) Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung -
 - [SGB2§20Abs2Bek](laws/SGB2§20Abs2Bek.md) Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2005
 - [SGB2§20Abs2Bek 2006](laws/SGB2§20Abs2Bek_2006.md) Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2006
 - [SGB2§20Abs2Bek 2007](laws/SGB2§20Abs2Bek_2007.md) Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 Satz 1 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2007
