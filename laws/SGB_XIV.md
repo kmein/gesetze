@@ -1,4 +1,4 @@
-% Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung –  (Vierzehntes Buch Sozialgesetzbuch - SGB XIV)
+% Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung -  (Vierzehntes Buch Sozialgesetzbuch - SGB XIV)
 % Ausfertigungsdatum: 12.12.2019
  
 # Inhaltsübersicht

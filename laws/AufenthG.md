@@ -3359,7 +3359,7 @@ c) Maßnahmen nach § 9 Abs. 5 des Bundesvertriebenengesetzes;
 
 5a. Prüfung der Mitteilungen nach § 16c Absatz 1, § 18e Absatz 1 und § 19a Absatz 1 sowie Ausstellung der Bescheinigungen nach § 16c Absatz 4, § 18e Absatz 5 und § 19a Absatz 4 oder Ablehnung der Einreise und des Aufenthalts;
 
-6. Datenerhebung und verwendung im Fall vorübergehenden Schutzes;
+6. Datenerhebung und -verwendung im Fall vorübergehenden Schutzes;
 
 7. Koordinierung der Programme und Mitwirkung an Projekten zur Förderung der freiwilligen Rückkehr sowie Auszahlung hierfür bewilligter Mittel;
 
