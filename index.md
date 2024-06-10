@@ -1988,7 +1988,6 @@
 - [EuVtrÜbkProtG](laws/EuVtrÜbkProtG.md) Gesetz zu den Protokollen vom 19. Dezember 1988 betreffend die Auslegung des Übereinkommens vom 19. Juni 1980 über das auf vertragliche Schuldverhältnisse anzuwendende Recht durch den Gerichtshof der Europäischen Gemeinschaften sowie zur Übertragung bestimmter Zuständigkeiten für die Auslegung dieses Übereinkommens auf den Gerichtshof der Europäischen Gemeinschaften
 - [EuWaffKontrÜbk](laws/EuWaffKontrÜbk.md) Europäisches Übereinkommen über die Kontrolle des Erwerbs und des Besitzes von Schußwaffen durch Einzelpersonen
 - [EuWaffKontrÜbkG](laws/EuWaffKontrÜbkG.md) Gesetz zu dem Europäischen Übereinkommen vom 28. Juni 1978 über die Kontrolle des Erwerbs und Besitzes von Schußwaffen durch Einzelpersonen
-- [EuWahlT2024Bek](laws/EuWahlT2024Bek.md) Bekanntmachung des Wahltages für die Europawahl 2024
 - [EuWAktG](laws/EuWAktG.md) Gesetz zu dem Beschluß und Akt des Rates der Europäischen Gemeinschaften vom 20. September 1976 zur Einführung allgemeiner unmittelbarer Wahlen der Abgeordneten der Versammlung
 - [EuWG](laws/EuWG.md) Gesetz über die Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland
 - [EuWO](laws/EuWO.md) Europawahlordnung
