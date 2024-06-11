@@ -545,6 +545,8 @@ Umschuldungsklauseln nach § 4a des Bundesschuldenwesengesetzes in den Emissions
 
 (5) Treuhänder und Stellvertreter haften der Pfandbriefbank sowie den Pfandbriefgläubigern und den Gläubigern von Ansprüchen aus Derivategeschäften nach § 4 Abs. 3 aus ihrer Tätigkeit nur im Falle von Vorsatz und grober Fahrlässigkeit.Die Ersatzpflicht des Treuhänders oder des Stellvertreters beschränkt sich im Falle grob fahrlässigen Handelns auf 1 Million Euro. Sie kann nicht durch Vertrag ausgeschlossen oder beschränkt werden. Wird die Haftung des Treuhänders oder des Stellvertreters durch eine Versicherung abgedeckt, ist ein Selbstbehalt in Höhe des Eineinhalbfachen der nach § 11 Absatz 1 festgesetzten jährlichen Vergütung vorzusehen. Die Pfandbriefbank darf den Versicherungsvertrag zugunsten des Treuhänders und des Stellvertreters schließen und die Prämien zahlen.
 
+(+++ § 7 Abs. 3 bis 5: Zur Geltung vgl. § 7 Abs. 5 Satz 3 DSLBUmwG +++)
+
 # § 8 – Aufgaben
 
 (1) Der Treuhänder hat darauf zu achten, dass die vorschriftsmäßige Deckung für die Pfandbriefe und Ansprüche aus Derivategeschäften nach § 4 Abs. 3 jederzeit vorhanden ist; hierbei hat er darauf zu achten, dass der Wert der beliehenen Grundstücke nach der auf Grund des § 16 Abs. 4 erlassenen Rechtsverordnung, der Wert der beliehenen Schiffe und Schiffsbauwerke nach der auf Grund des § 24 Abs. 5 erlassenen Rechtsverordnung und der Wert der beliehenen Flugzeuge nach der auf Grund des § 26d Abs. 3 erlassenen Rechtsverordnung festgesetzt ist. Darüber hinaus ist er nicht verpflichtet zu untersuchen, ob der festgesetzte Wert dem wirklichen Wert entspricht.
@@ -554,6 +556,8 @@ Umschuldungsklauseln nach § 4a des Bundesschuldenwesengesetzes in den Emissions
 (3) Der Treuhänder hat die Pfandbriefe vor der Ausgabe mit einer Bescheinigung über das Vorhandensein der vorschriftsmäßigen Deckung und über die Eintragung in das entsprechende Deckungsregister zu versehen. Eine Nachbildung der eigenhändigen Unterschrift genügt. Bei einem Pfandbrief, der als elektronisches Wertpapier nach § 2 Absatz 1 des Gesetzes über elektronische Wertpapiere begeben werden soll, ist die Bescheinigung nach Satz 1 vor Eintragung des Pfandbriefs in ein elektronisches Wertpapierregister bei derselben registerführenden Stelle im Sinne des § 4 Absatz 10 des Gesetzes über elektronische Wertpapiere niederzulegen, bei der auch die Emissionsbedingungen des Pfandbriefs niedergelegt sind; § 5 Absatz 1 des Gesetzes über elektronische Wertpapiere gilt entsprechend.
 
 (4) Im Deckungsregister eingetragene Werte können nur mit Zustimmung des Treuhänders in dem Deckungsregister gelöscht werden. Die Zustimmung des Treuhänders bedarf bei einem in Papierform geführten Deckungsregister der Schriftform; sie kann in der Weise erfolgen, dass der Treuhänder seine Namensunterschrift dem Löschungsvermerk im Deckungsregister beifügt. Bei einem elektronisch geführten Deckungsregister darf die Pfandbriefbank von einer Zustimmung des Treuhänders ausgehen, wenn sie mittels eines geeigneten Authentifizierungsinstruments erteilt wurde und beweissicher dokumentiert ist. Für die Löschung eines eingetragenen Derivats, das noch nicht vollständig abgewickelt ist, ist ferner die Zustimmung des Vertragspartners der Pfandbriefbank erforderlich; eine Löschung ohne die erforderliche Zustimmung gilt als nicht erfolgt. Absatz 2 Satz 2 ist entsprechend anzuwenden.
+
+(+++ §§ 8 bis 11: Zur Geltung vgl. § 7 Abs. 5 Satz 3 DSLBUmwG +++)
 
 # § 9 – (weggefallen)
 
@@ -565,11 +569,15 @@ Umschuldungsklauseln nach § 4a des Bundesschuldenwesengesetzes in den Emissions
 
 (2) Die Pfandbriefbank ist verpflichtet, von den Kapitalrückzahlungen auf die in die Deckungsregister eingetragenen Werte sowie von sonstigen für die Pfandbriefgläubiger und die Gläubiger von Ansprüchen aus Derivategeschäften nach § 4 Abs. 3 erheblichen Änderungen, welche diese Werte betreffen, dem Treuhänder fortlaufende Mitteilung zu machen.
 
+(+++ §§ 8 bis 11: Zur Geltung vgl. § 7 Abs. 5 Satz 3 DSLBUmwG +++)
+
 # § 11 – Vergütung, Streitentscheidung
 
 (1) Der Treuhänder und seine Stellvertreter erhalten von der Pfandbriefbank eine angemessene Vergütung, deren Höhe von der Bundesanstalt festgesetzt wird, und Ersatz der notwendigen Auslagen. Darüber hinausgehende Leistungen der Pfandbriefbank sind unzulässig.
 
 (2) Streitigkeiten zwischen dem Treuhänder und der Pfandbriefbank entscheidet die Bundesanstalt.
+
+(+++ §§ 8 bis 11: Zur Geltung vgl. § 7 Abs. 5 Satz 3 DSLBUmwG +++)
 
 # § 12 – Deckungswerte
 
