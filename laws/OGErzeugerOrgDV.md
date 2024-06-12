@@ -355,7 +355,7 @@ b) bis zum 30. April des Jahres, das auf das Jahr folgt, auf das sich der Antrag
 
 Für im Rahmen einer Beihilfe nach der Verordnung (EU) 2021/2115 geförderte Investitionen gilt eine Zweckbindungsfrist von fünf Jahren. Abweichend von Satz 1 beträgt die Zweckbindungsfrist für Bauten und bauliche Anlagen zehn Jahre. Die Zweckbindungsfrist beginnt mit dem Tag an dem der Vermögenswert dem Begünstigten zur Verfügung gestellt wird. Innerhalb der Zweckbindungsfrist darf eine Investition nur nach der im genehmigten operationellen Programm beschriebenen Bestimmung verwendet werden.
 
-(+++ § 20 Satz 1 u. 2: Zur Anwendung bis 30.6.2024 vgl. § 40 Abs. 2 +++)
+(+++ § 20 Satz 1 u. 2: Zur Anwendung vgl. § 40 Abs. 2 +++)
 
 # § 21 – Rechtswidrige Beihilfen
 
