@@ -706,7 +706,7 @@ Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte Erstattung
 
 4. Aufgaben der Bundesanstalt als Abwicklungsbehörde nach § 3 Absatz 1 des Sanierungs- und Abwicklungsgesetzes sowie Aufgaben der Bundesanstalt nach dem Restrukturierungsfondsgesetz und der Verordnung (EU) Nr. 806/2014 (Aufgabenbereich Abwicklung),
 
-5. Bilanzkontrollemittenten (Aufgabenbereich Bilanzkontrolle)
+5. Bilanzkontrollemittenten (Aufgabenbereich Bilanzkontrolle).
 
 Innerhalb des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen sowie des Aufgabenbereichs Wertpapierhandel hat eine gesonderte Ermittlung nach Gruppen gemäß den §§ 16e und 16i zu erfolgen.
 
@@ -716,7 +716,8 @@ Innerhalb des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen sowie 
 
 (4) Die Einnahmen im Sinne des § 16 sind von den Kosten des Aufgabenbereichs abzusetzen, dem sie jeweils unmittelbar zuzurechnen sind. Einnahmen, die zwei Aufgabenbereichen gemeinsam zugerechnet werden können, sind entsprechend dem Verhältnis der Kosten, die den Aufgabenbereichen unmittelbar zuzurechnen sind, abzuziehen. Einnahmen, die keinem Aufgabenbereich unmittelbar zugerechnet werden können, sind vor Verteilung der Gemeinkosten nach Absatz 3 von diesen abzuziehen.
 
-(+++ § 16b: Zur Anwendung vgl. § 24 +++)
+(+++ § 16b in der ab 26.6.2021 geltenden Fassung: Zur Anwendung vgl. § 23 Abs. 13 +++)  
+(+++ § 16b in der ab dem 1.7.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 24 Abs. 7 Satz 1 +++)
 
 # § 16c – Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Vorjahre
 
@@ -772,7 +773,10 @@ Die Kosten des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen, die 
 
 (4) Die Umlagepflicht nach Absatz 2 entsteht mit Erteilung oder der Fiktion der Erlaubnis, mit der Registrierung oder im Fall einer Abwicklungsanstalt mit deren Errichtung. Sie endet in dem Jahr des Erlöschens der Erlaubnis, der Registrierung oder der Auflösung der Abwicklungsanstalt. Ändert sich im Laufe eines Umlagejahres der Erlaubnisumfang oder wird von der Aufsichtsbehörde im Sinne des § 1 Absatz 5 des Kreditwesengesetzes eine Erlaubnis zum Betreiben eines anderen Geschäfts erteilt, wird der Umlagepflichtige nach Maßgabe der Regelungen zur Umlage herangezogen, die für das Geschäft gelten, auf das sich die zuletzt im Umlagejahr bestehende Erlaubnis bezieht. Die Umlagepflicht der Kreditanstalt für Wiederaufbau beginnt am 1. Januar 2015 und endet mit Ende der Beaufsichtigung durch die Bundesanstalt.
 
-(+++ § 16e: Zur Anwendung vgl. § 23 +++) §§ 16a bis 16j: Eingef. durch Art. 2a Nr. 3 G v. 28.11.2012 I 2369 mWv 1.1.2013
+(+++ § 16e Abs. 1 Satz 1 Nr. 1 in der ab 10.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 12 +++)  
+(+++ § 16e in der ab dem 26.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 13 +++)  
+(+++ § 16e Abs. 1 in der ab dem 10.11.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 14 +++)  
+(+++ § 16e Abs. 1 u. 4: Zur erstmaligen Anwendung vgl. § 23 Abs. 15 +++)
 
 # § 16f – Bemessungsgrundlagen der Umlage im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
 
@@ -810,8 +814,10 @@ Satz 1 Nummer 1 Buchstabe c gilt für die von der Bundesanstalt beaufsichtigten 
 
 (5) Liegen die Bilanz oder die Daten nach Absatz 4 am 1. Juli nicht vor, schätzt die Bundesanstalt die Bilanzsumme und setzt den Umlagebetrag anhand der geschätzten Daten fest. Die Bundesanstalt kann auf Antrag eine angemessene Nachfrist von bis zu einem Monat zur Einreichung der in Absatz 4 genannten Unterlagen gewähren. Bei der Schätzung hat die Bundesanstalt im Regelfall die Bilanzdaten des Umlagepflichtigen aus vorangegangenen Geschäftsjahren zugrunde zu legen. Liegen keinerlei Daten im Sinne des Satzes 3 und auch keine entsprechenden Daten für die nachfolgenden Geschäftsjahre vor, hat die Schätzung auf der Grundlage des arithmetischen Mittels der vorliegenden Bilanzdaten der anderen Umlagepflichtigen derselben nach § 16g Absatz 1 Nummer 1 Buchstabe a bis d oder Nummer 2 bestimmten Gruppe zu erfolgen.
 
-(+++ § 16f: Zur Anwendung vgl. § 23 +++)  
-(+++ § 16f: Zur Anwendung vgl. § 16k +++)  
+(+++ § 16f in der ab dem 26.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 13 +++)  
+(+++ § 16f Abs. 1 in der ab dem 10.11.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 14 +++)  
+(+++ § 16f Abs. 2 Satz 1 Nr. 1 u. Abs. 4 Satz 2: Zur erstmaligen Anwendung vgl. § 23 Abs. 15 +++)  
+(+++ § 16f Abs. 1 Nr. 1 Satz 2, Abs. 2, 4 u. 5: Zur Anwendung vgl. § 16k Abs. 2 Satz 6 +++)  
 (+++ § 16f Abs. 1 Nr. 3: Zur Anwendung vgl. § 16j Abs. 5a +++)
 
 # § 16g – Mindestumlagebeträge im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
@@ -896,7 +902,9 @@ e) die Hälfte des Mindestbetrages der Buchstaben b bis d für die dort genannte
 
 12. ab einer Bilanzsumme von 100 Millionen Euro auf 100 000 Euro.
 
-(+++ § 16g: Zur Anwendung vgl. § 23 +++)
+(+++ § 16g Abs. 1 Nr. 1 Buchst. b DBuchst. aa u. Buchst. c DBuchst. aa in der ab dem 10.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 12 +++)  
+(+++ § 16g in der ab dem 26.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 13 +++)  
+(+++ § 16g Abs. 1 Nr. 1 Buchst. d: Zur erstmaligen Anwendung vgl. § 23 Abs. 15 +++)
 
 # § 16h – Aufgabenbereich Versicherungen
 
@@ -1041,7 +1049,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (8) Die Bundesanstalt kann anordnen, dass eine Ermächtigung zum Einzug des Umlagebetrages von einem Konto des Umlagepflichtigen oder eines Dritten bei einem Geldinstitut erteilt wird. Besteht eine Verpflichtung nach Satz 1, hat der betroffene Umlagepflichtige unter Nutzung eines durch die Bundesanstalt bereitgestellten elektronischen Kommunikationsverfahrens die Daten zur Erteilung des SEPA-Lastschrift-Mandats für den Einzug des Umlagebetrages in der von der Bundesanstalt vorgegebenen Form zu übermitteln und bei Änderungen zu aktualisieren.
 
-(+++ § 16m: Zur Anwendung vgl. § 24 +++)
+(+++ § 16m: Zur Anwendung vgl. § 24 +++) (+++ § 16m Abs. 3 bis 5 u. 7: Zur Geltung vgl. § 16n Abs. 1 Satz 3 +++) (+++ § 16m Abs. 6: Zur Anwendung vgl. § 16n Abs. 6 +++)
 
 # § 16n – Festsetzung und Fälligkeit von Umlagevorauszahlungen
 

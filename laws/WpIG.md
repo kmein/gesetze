@@ -345,7 +345,7 @@ Alle Betriebsstellen eines Wertpapierinstituts mit Hauptverwaltung in einem ande
 
 3. sofern es sich um eine juristische Person handelt, für die nach dem nationalen Recht, das für das Wertpapierinstitut maßgeblich ist, kein Sitz bestimmt ist, der Vertragsstaat, in dem sich die Hauptverwaltung des Wertpapierinstituts befindet.
 
-(20) Aufnahmevertragsstaat eines Wertpapierinstituts ist der Vertragsstaat, in dem das Wertpapierinstitut eine Zweigniederlassung unterhält oder Wertpapierdienstleistungen im Wege des grenzüberschreitenden Dienstleistungsverkehrs erbringt;
+(20) Aufnahmevertragsstaat eines Wertpapierinstituts ist der Vertragsstaat, in dem das Wertpapierinstitut eine Zweigniederlassung unterhält oder Wertpapierdienstleistungen im Wege des grenzüberschreitenden Dienstleistungsverkehrs erbringt.
 
 (21) Systemrisiko im Sinne dieses Gesetzes ist das Risiko einer Störung des Finanzsystems mit möglicherweise schwerwiegenden negativen Auswirkungen auf das Finanzsystem und die Realwirtschaft.
 
@@ -382,8 +382,6 @@ Alle Betriebsstellen eines Wertpapierinstituts mit Hauptverwaltung in einem ande
 (37) Vertragsstaat im Sinne dieses Gesetzes ist ein Mitgliedstaat der Europäischen Union oder ein Vertragsstaat des Europäischen Wirtschaftsraums.
 
 (38) Auslagerungsunternehmen im Sinne dieses Gesetzes sind Unternehmen, auf die ein Wertpapierinstitut oder ein übergeordnetes Unternehmen Aktivitäten und Prozesse zur Durchführung von Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder Nebengeschäften ausgelagert hat, sowie deren Subunternehmen bei Weiterverlagerung von Aktivitäten und Prozessen, die für die Durchführung von Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder Nebengeschäften wesentlich sind.
-
-§ 2 Abs. 20 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Satzzeichen "erbringt;" durch das Satzzeichen "erbringt." ersetzt
 
 # § 2a – Unzuverlässigkeit von sanktionierten Personen
 
