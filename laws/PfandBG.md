@@ -525,6 +525,8 @@ Umschuldungsklauseln nach § 4a des Bundesschuldenwesengesetzes in den Emissions
 
 (3) Das Bundesministerium der Finanzen hat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Einzelheiten über die Form und den notwendigen Inhalt des Deckungsregisters sowie der vorzunehmenden Eintragungen, einschließlich Verfahren und Dokumentation der Zustimmung des Treuhänders nach Absatz 1 Satz 2 und § 8 Absatz 4 Satz 1, zu bestimmen. Die Rechtsverordnung muss auch Vorschriften über die Form der Aufzeichnung, über die Form der Bestätigung durch den Treuhänder sowie über die Art und Weise der Übermittlung der Aufzeichnung und deren Aufbewahrung durch die Bundesanstalt enthalten. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Kreditwirtschaft anzuhören. Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
+(+++ § 5 Abs. 1 Satz 1, 3 bis 5, Abs. 1a Satz 1, 4 u. 5, Abs. 1b, Abs. 2, Abs. 3: Zur Geltung vgl. § 7 Abs. 4 Satz 2 DSLBUmwG +++)
+
 # § 6 – Inhalt der Pfandbriefe
 
 (1) In den Pfandbriefen sind die für das Rechtsverhältnis zwischen der Pfandbriefbank und den Pfandbriefgläubigern maßgebenden Bestimmungen, insbesondere bezüglich der Kündbarkeit der Pfandbriefe, ersichtlich zu machen. Auf die Möglichkeit einer Fälligkeitsverschiebung nach § 30 Absatz 2a und die dafür maßgeblichen Voraussetzungen ist in den Emissionsbedingungen von Pfandbriefen deutlich hinzuweisen.
