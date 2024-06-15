@@ -41,6 +41,8 @@
 
 Wer die Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“ führen will, bedarf der Erlaubnis. Personen mit einer Ausbildung nach Teil 3 führen die Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“ mit dem akademischen Grad.
 
+(+++ § 1: Zur Anwendung vgl. § 64a Abs. 1 bis 4 +++)
+
 # § 2 – Voraussetzungen für die Erteilung der Erlaubnis
 
 Die Erlaubnis zum Führen der Berufsbezeichnung ist auf Antrag zu erteilen, wenn die antragstellende Person
