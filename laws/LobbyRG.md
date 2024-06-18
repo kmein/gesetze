@@ -281,7 +281,7 @@ d) wenn juristische Personen, Personengesellschaften oder sonstige Organisatione
 
 3. entgegen § 3 Absatz 3 Satz 2 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aktualisiert oder
 
-4. entgegen § 4 Absatz 2 Satz 2, auch in Verbindung mit den Sätzen 3 und 4, eine Bestätigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt.
+4. entgegen § 4 Absatz 2 Satz 2, auch in Verbindung mit den Sätzen 3 oder 4, eine Bestätigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt.
 
 (2) Ordnungswidrig handelt, wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht.
 
