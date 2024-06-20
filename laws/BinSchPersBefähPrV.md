@@ -1,4 +1,4 @@
-% Verordnung über die Durchführung von Befähigungsprüfungen nach der Binnenschiffspersonalverordnung  (Binnenschiffspersonal-Befähigungsprüfungsverordnung - BinSchPersBefähPrV)
+% Verordnung über die Durchführung von Befähigungsprüfungen nach der Binnenschiffspersonalverordnung *  (Binnenschiffspersonal-Befähigungsprüfungsverordnung - BinSchPersBefähPrV)
 % Ausfertigungsdatum: 21.12.2021
  
 # Eingangsformel

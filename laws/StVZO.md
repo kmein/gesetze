@@ -29,17 +29,15 @@ anordnen und wenn nötig mehrere solcher Anordnungen treffen.
 
 # § 19 – Erteilung und Wirksamkeit der Betriebserlaubnis
 
-(1) Die Betriebserlaubnis ist zu erteilen, wenn das Fahrzeug den Vorschriften dieser Verordnung, den zu ihrer Ausführung erlassenen Anweisungen des Bundesministeriums für Verkehr und digitale Infrastruktur und den Vorschriften der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L 60 vom 28.2.2014, S. 1; L 93 vom 9.4.2015, S. 103; L 246 vom 23.9.2015, S. 11), die durch die Verordnung (EU) 2020/1054 (ABl. L 249 vom 31.7.2020, S. 1) geändert worden ist, entspricht. Die Betriebserlaubnis ist ferner zu erteilen, wenn das Fahrzeug anstelle der Vorschriften dieser Verordnung die Einzelrechtsakte und Einzelregelungen in ihrer jeweils geltenden Fassung erfüllt, die
+(1) Die Betriebserlaubnis ist zu erteilen, wenn das Fahrzeug den Vorschriften der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L 60 vom 28.2.2014, S. 1; L 93 vom 9.4.2015, S. 103; L 246 vom 23.9.2015, S. 11), die durch die Verordnung (EU) 2020/1054 (ABl. L 249 vom 31.7.2020, S. 1) geändert worden ist, entspricht und das Fahrzeug die Anforderungen der Einzelrechtsakte und Einzelregelungen erfüllt, die in
 
-1. in Anhang IV der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie) (ABl. L 263 vom 9.10.2007, S. 1), die zuletzt durch die Verordnung (EU) Nr. 2019/543 (ABl. L 95 vom 4.4.2019, S. 1) geändert worden ist, in der bis zum Ablauf des 31. August 2020 geltenden Fassung, oder
+1. Anhang II der Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG (ABl. L 151 vom 14.6.2018, S. 1; L 210 vom 11.8.2022, S. 19), die zuletzt durch die Delegierte Verordnung (EU) 2022/2236 (ABl. L 296 vom 16.11.2022, S. 1) geändert worden ist,
 
-2. in Anhang II der Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG (ABl. L 151 vom 14.6.2018, S. 1), oder
+2. Anhang I der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/519 (ABl. L 91 vom 29.3.2019, S. 42) geändert worden ist, oder
 
-3. in Anhang I der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 1), die zuletzt durch die Verordnung (EU) 2020/1694 (ABl. L 381 vom 13.11.2020, S. 4) geändert worden ist, oder
+3. Anhang II der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates vom 15. Januar 2013 über die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 52; L 77 vom 23.3.2016, S. 65; L 64 vom 10.3.2017, S. 116; L 398 vom 11.11.2021, S. 54), die zuletzt durch die Verordnung (EU) 2020/1694 (ABl. L 381 vom 13.11.2020, S. 4) geändert worden ist,
 
-4. in Anhang II der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates vom 15. Januar 2013 über die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 52; L 77 vom 23.3.2016, S. 65; L 64 vom 10.3.2017, S. 116), die zuletzt durch die Verordnung (EU) 2020/1694 (ABl. L 381 vom 13.11.2020, S. 4) geändert worden ist,
-
-in ihrer jeweils geltenden Fassung genannt sind. Die in Satz 2 genannten Einzelrechtsakte und Einzelregelungen sind jeweils ab dem Zeitpunkt anzuwenden, zu dem sie in Kraft treten. Soweit in einer Einzelrichtlinie ihre verbindliche Anwendung vorgeschrieben ist, ist nur diese Einzelrichtlinie maßgeblich. Gehört ein Fahrzeug zu einem genehmigten Typ oder liegt eine Einzelbetriebserlaubnis nach dieser Verordnung oder eine Einzelgenehmigung nach § 13 der EG-Fahrzeuggenehmigungsverordnung vor, ist die Erteilung einer neuen Betriebserlaubnis nur zulässig, wenn die Betriebserlaubnis nach Absatz 2 Satz 2 erloschen ist.
+genannt sind. Die Betriebserlaubnis nach den Vorschriften dieser Verordnung ist nur zu erteilen, wenn die Einzelrechtsakte und Einzelregelungen, die in den in Satz 1 Nummer 1, 2 oder 3 genannten Vorschriften angegeben sind, nicht anwendbar sind. Die Einzelrechtsakte und Einzelregelungen, die in den in Satz 1 Nummer 1 bis 3 genannten Vorschriften angegeben sind, sind jeweils ab dem Zeitpunkt anzuwenden, zu dem sie in Kraft treten. Soweit in einem Einzelrechtsakt die verbindliche Anwendung vorgeschrieben ist, ist nur dieser Einzelrechtsakt maßgeblich. Gehört ein solches Fahrzeug zu einem genehmigten Typ oder liegt eine Einzelbetriebserlaubnis nach dieser Verordnung oder eine Einzelgenehmigung nach § 13 der EG-Fahrzeuggenehmigungsverordnung vor, ist die Erteilung einer neuen Betriebserlaubnis nur zulässig, wenn die Betriebserlaubnis nach Absatz 2 Satz 2 erloschen ist.
 
 (2) Die Betriebserlaubnis des Fahrzeugs bleibt, wenn sie nicht ausdrücklich entzogen wird, bis zu seiner endgültigen Außerbetriebsetzung wirksam. Sie erlischt, wenn Änderungen vorgenommen werden, durch die
 
@@ -55,9 +53,9 @@ Fahrzeughersteller, Importeure oder Gewerbetreibende dürfen keine Änderungen v
 
 2. die Vorführung des Fahrzeugs
 
-anordnen und wenn nötig mehrere solcher Anordnungen treffen; auch darf eine Prüfplakette nach Anlage IX nicht zugeteilt werden.
+anordnen und wenn nötig mehrere solcher Anordnungen treffen; auch darf eine Prüfplakette nach Anlage IX nicht zugeteilt werden. Für Softwareänderungen von im Verkehr befindlichen Fahrzeugen sind zusätzlich die hierzu amtlich bekannt gemachten Vorschriften zur Durchführung sowie der Stand der Technik zu beachten. Softwareänderungen nicht genehmigungspflichtiger Erweiterungen sind hiervon nicht betroffen.
 
-(2a) Die Betriebserlaubnis für Fahrzeuge, die nach ihrer Bauart speziell für militärische oder polizeiliche Zwecke sowie für Zwecke des Brandschutzes und des Katastrophenschutzes bestimmt sind, bleibt nur so lange wirksam, wie die Fahrzeuge für die Bundeswehr, die Bundespolizei, die Polizei, die Feuerwehr oder den Katastrophenschutz zugelassen oder eingesetzt werden. Für Fahrzeuge nach Satz 1 darf eine Betriebserlaubnis nach § 21 nur der Bundeswehr, der Bundespolizei, der Polizei, der Feuerwehr oder dem Katastrophenschutz erteilt werden; dies gilt auch, wenn die für die militärischen oder die polizeilichen Zwecke sowie die Zwecke des Brandschutzes und des Katastrophenschutzes vorhandene Ausstattung oder Ausrüstung entfernt, verändert oder unwirksam gemacht worden ist. Ausnahmen von Satz 2 für bestimmte Einsatzzwecke können gemäß § 70 genehmigt werden.
+(2a) Die Betriebserlaubnis für Fahrzeuge, die nach ihrer Bauart speziell für militärische oder polizeiliche Zwecke sowie für Zwecke des Brandschutzes, des Katastrophenschutzes oder des Rettungsdienstes bestimmt sind, bleibt nur so lange wirksam, wie die Fahrzeuge für die Bundeswehr, die Bundespolizei, die Polizeien der Länder, die Feuerwehr oder Einrichtungen des Katastrophenschutzes oder des Rettungsdienstes zugelassen oder eingesetzt werden. Für Fahrzeuge nach Satz 1 darf eine Betriebserlaubnis nach § 21 nur der Bundeswehr, der Bundespolizei, den Polizeien der Länder, der Feuerwehr oder Einrichtungen des Katastrophenschutzes oder des Rettungsdienstes erteilt werden; dies gilt auch, wenn die für die militärischen oder die polizeilichen Zwecke sowie die Zwecke des Brandschutzes, des Katastrophenschutzes und des Rettungsdienstes vorhandene Ausstattung oder Ausrüstung entfernt, verändert oder unwirksam gemacht worden ist. Ausnahmen von Satz 2 für bestimmte Einsatzzwecke können nach § 70 genehmigt werden.
 
 (3) Abweichend von Absatz 2 Satz 2 erlischt die Betriebserlaubnis des Fahrzeugs jedoch nicht, wenn bei Änderungen durch Ein- oder Anbau von Teilen
 
@@ -79,27 +77,23 @@ erteilt worden ist und eventuelle Einschränkungen oder Einbauanweisungen beacht
 
 3. die Wirksamkeit der Betriebserlaubnis, der Bauartgenehmigung oder der Genehmigung dieser Teile nach Nummer 1 Buchstabe a oder b von einer Abnahme des Ein- oder Anbaus abhängig gemacht ist und die Abnahme unverzüglich durchgeführt und nach § 22 Absatz 1 Satz 5, auch in Verbindung mit § 22a Absatz 1a, bestätigt worden ist oder
 
-4. für diese Teile
-
-a) die Identität mit einem Teil gegeben ist, für das ein Gutachten eines Technischen Dienstes nach Anlage XIX über die Vorschriftsmäßigkeit eines Fahrzeugs bei bestimmungsgemäßem Ein- oder Anbau dieser Teile (Teilegutachten) vorliegt,
-
-b) der im Gutachten angegebene Verwendungsbereich eingehalten wird und
-
-c) die Abnahme des Ein- oder Anbaus unverzüglich durch einen amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr oder durch einen Kraftfahrzeugsachverständigen oder Angestellten nach Nummer 4 der Anlage VIIIb durchgeführt und der ordnungsgemäße Ein- oder Anbau entsprechend § 22 Absatz 1 Satz 5 bestätigt worden ist; § 22 Absatz 1 Satz 2 und Absatz 2 Satz 3 gilt entsprechend.
+4. (weggefallen)
 
 Werden bei Teilen nach Nummer 1 oder 2 in der Betriebserlaubnis, der Bauartgenehmigung oder der Genehmigung aufgeführte Einschränkungen oder Einbauanweisungen nicht eingehalten, erlischt die Betriebserlaubnis des Fahrzeugs.
 
 (4) Der Führer des Fahrzeugs hat in den Fällen
 
-1. des Absatzes 3 Nummer 1 den Abdruck oder die Ablichtung der betreffenden Betriebserlaubnis, Bauartgenehmigung, Genehmigung im Rahmen der Betriebserlaubnis oder eines Nachtrags dazu oder eines Auszugs dieser Erlaubnis oder Genehmigung, der die für die Verwendung wesentlichen Angaben enthält, und
+1. des Absatzes 3 Satz 1 Nummer 1 den Abdruck oder die Ablichtung der betreffenden Betriebserlaubnis, Bauartgenehmigung, Genehmigung im Rahmen der Betriebserlaubnis oder eines Auszugs dieser Erlaubnis oder Genehmigung, der die für die Verwendung wesentlichen Angaben enthält,
 
-2. des Absatzes 3 Nummer 3 und 4 einen Nachweis nach einem vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt bekannt gemachten Muster über die Erlaubnis, die Genehmigung oder das Teilegutachten mit der Bestätigung des ordnungsgemäßen Ein- oder Anbaus sowie den zu beachtenden Beschränkungen oder Auflagen mitzuführen und zuständigen Personen auf Verlangen auszuhändigen. Satz 1 gilt nicht, wenn die Zulassungsbescheinigung Teil I, das Anhängerverzeichnis nach § 13 Absatz 2 der Fahrzeug-Zulassungsverordnung oder ein nach § 4 Absatz 5 der Fahrzeug-Zulassungsverordnung mitzuführender oder aufzubewahrender Nachweis einen entsprechenden Eintrag einschließlich zu beachtender Beschränkungen oder Auflagen enthält; anstelle der zu beachtenden Beschränkungen oder Auflagen kann auch ein Vermerk enthalten sein, dass diese in einer mitzuführenden Erlaubnis, Genehmigung oder einem mitzuführenden Nachweis aufgeführt sind. Die Pflicht zur Mitteilung von Änderungen nach § 15 der Fahrzeug-Zulassungsverordnung bleibt unberührt.
+2. des Absatzes 3 Satz 1 Nummer 3 einen Nachweis nach einem vom Bundesministerium für Digitales und Verkehr im Verkehrsblatt bekannt gemachten Muster über die Erlaubnis oder die Genehmigung mit der Bestätigung des ordnungsgemäßen Ein- oder Anbaus sowie den zu beachtenden Beschränkungen oder Auflagen,
+
+mitzuführen und zuständigen Personen auf Verlangen vorzulegen. Satz 1 gilt nicht, wenn die Zulassungsbescheinigung Teil I, das Anhängerverzeichnis nach § 13 Absatz 2 Satz 1 der Fahrzeug-Zulassungsverordnung oder ein nach § 4 Absatz 5 der Fahrzeug-Zulassungsverordnung mitzuführender oder aufzubewahrender Nachweis einen entsprechenden Eintrag einschließlich zu beachtender Beschränkungen oder Auflagen enthält; anstelle der zu beachtenden Beschränkungen oder Auflagen kann auch ein Vermerk enthalten sein, dass diese in einer mitzuführenden Erlaubnis, Genehmigung oder einem mitzuführenden Nachweis aufgeführt sind. Die Pflicht zur Mitteilung von Änderungen nach § 15 der Fahrzeug-Zulassungsverordnung bleibt unberührt.
 
 (5) Ist die Betriebserlaubnis nach Absatz 2 Satz 2 oder Absatz 3 Satz 2 erloschen, so darf das Fahrzeug nicht auf öffentlichen Straßen in Betrieb genommen werden oder dessen Inbetriebnahme durch den Halter angeordnet oder zugelassen werden. Ausnahmen von Satz 1 sind nur nach Maßgabe der Sätze 3 bis 6 zulässig. Ist die Betriebserlaubnis nach Absatz 2 Satz 2 erloschen, dürfen nur solche Fahrten durchgeführt werden, die in unmittelbarem Zusammenhang mit der Erlangung einer neuen Betriebserlaubnis stehen. Am Fahrzeug sind die bisherigen Kennzeichen oder rote Kennzeichen zu führen. Die Sätze 3 und 4 gelten auch für Fahrten, die der amtlich anerkannte Sachverständige für den Kraftfahrzeugverkehr oder der Ersteller des Gutachtens des nach § 30 der EG-Fahrzeuggenehmigungsverordnung zur Prüfung von Gesamtfahrzeugen benannten Technischen Dienstes im Rahmen der Erstellung des Gutachtens durchführt. Kurzzeitkennzeichen dürfen nur nach Maßgabe des § 42 Absatz 6 der Fahrzeug-Zulassungsverordnung verwendet werden.
 
-(6) Werden an Fahrzeugen von Fahrzeugherstellern, die Inhaber einer Betriebserlaubnis für Typen sind, im Sinne des Absatzes 2 Teile verändert, so bleibt die Betriebserlaubnis wirksam, solange die Fahrzeuge ausschließlich zur Erprobung verwendet werden; insoweit ist auch keine Mitteilung an die Zulassungsbehörde erforderlich. Satz 1 gilt nur, wenn die Zulassungsbehörde im Fahrzeugschein bestätigt hat, dass ihr das Fahrzeug als Erprobungsfahrzeug gemeldet worden ist.
+(6) Werden an Fahrzeugen von Fahrzeugherstellern, die Inhaber einer Betriebserlaubnis oder einer EU-Genehmigung für Typen sind, im Sinne des Absatzes 2 Teile verändert, so bleibt die Betriebserlaubnis wirksam, solange die Fahrzeuge ausschließlich zur Erprobung verwendet werden; insoweit ist auch keine Mitteilung an die Zulassungsbehörde erforderlich. Satz 1 gilt nur, wenn die Zulassungsbehörde im Fahrzeugschein bestätigt hat, dass ihr das Fahrzeug als Erprobungsfahrzeug gemeldet worden ist. Sofern für die Verwendung als Erprobungsfahrzeug die Genehmigung einer Ausnahme nach § 70 von den Bau- und Betriebsvorschriften der §§ 30 bis 62 erforderlich ist, ist diese einzuholen und der Hinweis hierauf in die Zulassungsbescheinigung einzutragen. Die Sätze 1 bis 3 gelten auch für Fahrzeuge, die von Herstellern von Fahrzeugteilen oder Fahrzeugsystemen zur Erprobung verwendet werden, sofern diese selbst Genehmigungsinhaber für Fahrzeugteile oder Fahrzeugsysteme sind oder sie die Anfangsbewertung nach Anhang IV Nummer 2 der in Absatz 1 Satz 1 Nummer 1 genannten Verordnung zur Zufriedenheit der Genehmigungsbehörde abgeschlossen haben.
 
-(7) Die Absätze 2 bis 6 gelten entsprechend für die EG-Typgenehmigung.
+(7) Die Absätze 2 bis 6 gelten entsprechend für die EG-Typgenehmigung, die EG-Genehmigung oder die EU-Einzelgenehmigung.
 
 # § 20 – Allgemeine Betriebserlaubnis für Typen
 
@@ -167,7 +161,7 @@ Im Verfahren auf Erteilung der Betriebserlaubnis werden Prüfungen anerkannt, di
 
 # § 22 – Betriebserlaubnis für Fahrzeugteile
 
-(1) Die Betriebserlaubnis kann auch gesondert für Teile von Fahrzeugen erteilt werden, wenn der Teil eine technische Einheit bildet, die im Erlaubnisverfahren selbstständig behandelt werden kann. Dürfen die Teile nur an Fahrzeugen bestimmter Art, eines bestimmten Typs oder nur bei einer bestimmten Art des Ein- oder Anbaus verwendet werden, ist die Betriebserlaubnis dahingehend zu beschränken. Die Wirksamkeit der Betriebserlaubnis kann davon abhängig gemacht werden, dass der Ein- oder Anbau abgenommen worden ist. Die Abnahme ist von einem amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr oder von einem Kraftfahrzeugsachverständigen oder Angestellten nach Nummer 4 der Anlage VIIIb durchführen zu lassen. In den Fällen des Satzes 3 ist durch die abnehmende Stelle nach Satz 4 auf dem Nachweis (§ 19 Absatz 4 Satz 1) darüber der ordnungsgemäße Ein- oder Anbau unter Angabe des Fahrzeugherstellers und -typs sowie der Fahrzeug-Identifizierungsnummer zu bestätigen.
+(1) Die Betriebserlaubnis kann – auch als nationale Teiletypgenehmigung – gesondert für Teile von Fahrzeugen erteilt werden, wenn der Teil eine technische Einheit bildet, die im Erlaubnisverfahren selbstständig behandelt werden kann. Dürfen die Teile nur an Fahrzeugen bestimmter Art, eines bestimmten Typs oder nur bei einer bestimmten Art des Ein- oder Anbaus verwendet werden, ist die Betriebserlaubnis dahingehend zu beschränken. Die Wirksamkeit der Betriebserlaubnis kann davon abhängig gemacht werden, dass der Ein- oder Anbau abgenommen worden ist. Die Abnahme ist von einem amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr oder von einem Kraftfahrzeugsachverständigen oder Angestellten nach Nummer 4 der Anlage VIIIb durchführen zu lassen. In den Fällen des Satzes 3 ist durch die abnehmende Stelle nach Satz 4 auf dem Nachweis (§ 19 Absatz 4 Satz 1) darüber der ordnungsgemäße Ein- oder Anbau unter Angabe des Fahrzeugherstellers und -typs sowie der Fahrzeug-Identifizierungsnummer zu bestätigen.
 
 (2) Für das Verfahren gelten die Vorschriften über die Erteilung der Betriebserlaubnis für Fahrzeuge entsprechend. Bei reihenweise zu fertigenden oder gefertigten Teilen ist sinngemäß nach § 20 zu verfahren; der Inhaber einer Allgemeinen Betriebserlaubnis für Fahrzeugteile hat durch Anbringung des ihm vorgeschriebenen Typzeichens auf jedem dem Typ entsprechenden Teil dessen Übereinstimmung mit dem genehmigten Typ zu bestätigen. Außerdem hat er jedem gefertigten Teil einen Abdruck oder eine Ablichtung der Betriebserlaubnis oder den Auszug davon und gegebenenfalls den Nachweis darüber (§ 19 Absatz 4 Satz 1) beizufügen. Bei Fahrzeugteilen, die nicht zu einem genehmigten Typ gehören, ist nach § 21 zu verfahren; das Gutachten des amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr ist, falls es sich nicht gegen die Erteilung der Betriebserlaubnis ausspricht, in den Fahrzeugschein einzutragen, wenn der Teil an einem bestimmten zulassungspflichtigen Fahrzeug an- oder eingebaut werden soll. Unter dem Gutachten hat die Zulassungsbehörde gegebenenfalls einzutragen:  
 
@@ -256,7 +250,7 @@ f) Verbindungseinrichtungen an Anbaugeräten, die an land- oder forstwirtschaftl
 
 21a. Beleuchtungseinrichtungen für transparente amtliche Kennzeichen (§ 12 Fahrzeugzulassungs-Verordnung);
 
-22. Lichtmaschinen, Scheinwerfer für Abblendlicht, auch mit Fernlichtfunktion oder auch mit Tagfahrlichtfunktion, Schlussleuchten, auch mit Bremslichtfunktion, Fahrtrichtungsanzeiger, rote, gelbe und weiße Rückstrahler, Pedalrückstrahler und retroreflektierende Streifen an Reifen, Felgen oder in den Speichen, weiß retroreflektierende Speichen oder Speichenhülsen für Fahrräder und Fahrradanhänger (§ 67 Absatz 1 bis 5, § 67a Absatz 1);
+22. Lichtmaschinen, Systeme zur automatischen Scheinwerferausrichtung, Scheinwerfer für Abblendlicht, auch mit Fernlichtfunktion oder auch mit Tagfahrlichtfunktion oder auch mit Standlichtfunktion, Schlussleuchten, auch mit Bremslichtfunktion oder auch mit Standlichtfunktion, Leuchten für weißes Licht, Leuchten für rotes Licht, Fahrtrichtungsanzeiger, rote, gelbe und weiße Rückstrahler, Pedalrückstrahler und retroreflektierende Streifen an Reifen, Felgen oder in den Speichen, weiß retroreflektierende Speichen oder Speichenhülsen für Fahrräder und Fahrradanhänger (§ 67 Absatz 1 bis 6, § 67a Absatz 1 bis 4);
 
 23. (weggefallen)
 
@@ -961,9 +955,9 @@ Achsabstand 1,3 m bis weniger als 1,8 m
 
 d)
 
-Achsabstand 1,3 m bis weniger als 1,8 m, wenn die Antriebsachse mit Doppelbereifung und Luftfederung oder einer als gleichwertig anerkannten Federung nach Anlage XII ausgerüstet ist oder jede Antriebsachse mit Doppelbereifung und Luftfederung ausgerüstet ist und dabei die höchstzulässige Achslast von 9,50 t je Achse nicht überschritten wird,
+Achsabstand 1,3 m bis weniger als 1,8 m, wenn die Antriebsachse mit Doppelbereifung und Luftfederung oder einer als gleichwertig anerkannten Federung nach Anlage XII ausgerüstet ist oder jede Antriebsachse mit Doppelbereifung ausgerüstet ist und dabei die höchstzulässige Achslast von 9,50 t je Achse nicht überschritten wird,
 
-19,00 t  
+19,00 t;  
 
 3\.
 
@@ -1848,7 +1842,7 @@ In jedem Fall muss die Herstellung einer betriebssicheren Verbindung leicht und 
 
 (1) Kraftfahrzeuge mit Fremdzündungsmotor oder Selbstzündungsmotor mit mindestens vier Rädern, einer zulässigen Gesamtmasse von mindestens 400 kg und einer bauartbedingten Höchstgeschwindigkeit von mindestens 50 km/h – mit Ausnahme von land- oder forstwirtschaftlichen Zug- und Arbeitsmaschinen sowie anderen Arbeitsmaschinen und Staplern –, soweit sie in den Anwendungsbereich der Richtlinie 70/220/EWG des Rates vom 20. März 1970 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Verunreinigung der Luft durch Emissionen von Kraftfahrzeugmotoren (ABl. L 76 vom 6.4.1970, S. 1), die zuletzt durch die Richtlinie 2006/96//EG (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist, fallen, müssen hinsichtlich ihres Abgasverhaltens und der Anforderungen in Bezug auf die Kraftstoffe den Vorschriften dieser Richtlinie entsprechen.
 
-(1a) Kraftfahrzeuge, im Sinne des Artikels 2 Absatz 1 der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1), müssen hinsichtlich ihres Abgasverhaltens in den Fällen des § 13 der EG-Fahrzeuggenehmigungsverordnung oder des § 21 den Vorschriften dieser Verordnung und der Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 199 vom 28.7.2008, S. 1), geändert durch die im Anhang zu dieser Vorschrift genannten Bestimmungen, entsprechen.
+(1a) Kraftfahrzeuge im Sinne des Artikels 2 Absatz 1 der Verordnung (EG) Nr. 715/2007 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung müssen hinsichtlich ihres Abgasverhaltens den Vorschriften der Verordnung (EG) Nr. 715/2007 in Verbindung mit der Verordnung (EU) 2017/1151, jeweils in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung, entsprechen.
 
 (2) Kraftfahrzeuge mit Selbstzündungsmotor mit oder ohne Aufbau, mit mindestens vier Rädern und einer bauartbedingten Höchstgeschwindigkeit von mehr als 25 km/h – mit Ausnahme von landwirtschaftlichen Zug- und Arbeitsmaschinen sowie anderen Arbeitsmaschinen und Staplern – soweit sie in den Anwendungsbereich der Richtlinie 72/306/EWG des Rates vom 2. August 1972 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von Fahrzeugen (ABl. L 190 vom 20.8.1972, S. 1), die zuletzt durch die Richtlinie 2005/21/EG (ABl. L 61 vom 8.3.2005, S. 25) geändert worden ist, fallen, müssen hinsichtlich der Emission verunreinigender Stoffe dieser Richtlinie entsprechen. Kraftfahrzeuge mit Selbstzündungsmotor, auf die sich die Anlage XVI bezieht, müssen hinsichtlich der Emission verunreinigender Stoffe (feste Bestandteile – Dieselrauch) im Abgas der Anlage XVI oder der Richtlinie 72/306/EWG entsprechen.
 
@@ -1880,11 +1874,11 @@ In jedem Fall muss die Herstellung einer betriebssicheren Verbindung leicht und 
 
 13. der Richtlinie 2003/76/EG der Kommission vom 11. August 2003 zur Änderung der Richtlinie 70/220/EWG des Rates über Maßnahmen gegen die Verunreinigung der Luft durch Emissionen von Kraftfahrzeugen (ABl. L 206 vom 15.8.2003, S. 29) oder
 
-14. der Verordnung (EG) Nr. 715/2007 und der Verordnung (EG) Nr. 692/2008
+14. der Verordnung (EG) Nr. 715/2007 in Verbindung mit der Verordnung (EG) Nr. 692/2008 und mit der Verordnung (EU) 2017/1151, jeweils in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung,
 
 entsprechen, gelten als schadstoffarm.
 
-(3a) Personenkraftwagen und Wohnmobile mit Selbstzündungsmotor gelten als besonders partikelreduziert, wenn sie den Anforderungen einer der in Anlage XXVI Nummer 2 festgelegten Minderungsstufen oder den Anforderungen der Verordnung (EG) Nr. 715/2007 und der Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 entsprechen.
+(3a) Personenkraftwagen und Wohnmobile mit Selbstzündungsmotor gelten als besonders partikelreduziert, wenn sie den Anforderungen einer der in Anlage XXVI Nummer 2 festgelegten Minderungsstufen oder den Anforderungen der Verordnung (EG) Nr. 715/2007 in Verbindung mit der Verordnung (EG) Nr. 692/2008 oder der Verordnung (EU) 2017/1151, jeweils in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung, entsprechen.
 
 (3b) Kraftfahrzeuge mit Selbstzündungsmotor mit einer technisch zulässigen Gesamtmasse bis 2 800 Kilogramm der Klasse N1 sowie Kraftfahrzeuge mit Selbstzündungsmotor ohne Begrenzung der zulässigen Gesamtmasse der Klassen M1 und M2 der Emissionsklasse „Euro 4“, die jeweils genehmigt sind entsprechend Zeile B der Grenzwerttabelle in Anhang I Abschnitt 5.3.1.4 der Richtlinie 98/69/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über Maßnahmen gegen die Verunreinigung der Luft durch Emissionen von Kraftfahrzeugen und zur Änderung der Richtlinie 70/220/EWG des Rates (ABl. L 350 vom 28.12.1998, S. 1), die zuletzt durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 zur Anpassung bestimmter Richtlinien im Bereich freier Warenverkehr anlässlich des Beitritts Bulgariens und Rumäniens (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist und durch die Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1) aufgehoben worden ist, stoßen im praktischen Fahrbetrieb weniger als 270 Milligramm Stickoxid pro Kilometer aus, wenn sie über ein Stickoxid-Minderungssystem mit hoher Minderungsleistung verfügen, das die in der Anlage XXII festgelegten Anforderungen erfüllt.
 
@@ -1904,7 +1898,7 @@ stoßen im praktischen Fahrbetrieb weniger als 270 Milligramm Stickoxid pro Kilo
 
 (6a) Fahrzeuge oder Motoren für Fahrzeuge, die in den Anwendungsbereich der Richtlinie 2005/55/EG des Europäischen Parlaments und des Rates vom 28. September 2005 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Flüssiggas oder Erdgas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen (ABl. L 275 vom 20.10.2005, S. 1) fallen, müssen hinsichtlich ihres Abgasverhaltens den Vorschriften dieser Richtlinie und der Richtlinie 2005/78/EG der Kommission vom 14. November 2005 zur Durchführung der Richtlinie 2005/55/EG des Europäischen Parlaments und des Rates zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Flüssiggas oder Erdgas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen und zur Änderung ihrer Anhänge I, II, III, IV und VI (ABl. L 313 vom 29.11.2005, S. 1), geändert durch die im Anhang zu dieser Vorschrift genannten Bestimmungen, entsprechen.
 
-(6b) Fahrzeuge oder Motoren für Fahrzeuge, die in den Anwendungsbereich der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG (ABl. L 188 vom 18.7.2009, S. 1) fallen und Kraftfahrzeuge, die hinsichtlich der Baumerkmale ihres Fahrgestells diesen Fahrzeugen gleichzusetzen sind, müssen hinsichtlich ihres Abgasverhaltens den Vorschriften dieser Verordnung und der Verordnung (EU) Nr. 582/2011 der Kommission vom 25. Mai 2011 zur Durchführung und Änderung der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und zur Änderung der Anhänge I und III der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates (ABl. L 167 vom 25.6.2011, S. 1), jeweils geändert durch die im Anhang zu dieser Vorschrift genannten Bestimmungen, entsprechen.
+(6b) Kraftfahrzeuge im Sinne des Artikels 2 Absatz 1 Satz 1 der Verordnung (EG) Nr. 595/2009 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung und Kraftfahrzeuge, die hinsichtlich der Baumerkmale ihres Fahrgestells diesen Kraftfahrzeugen gleichzusetzen sind, müssen hinsichtlich ihres Abgasverhaltens den Vorschriften der Verordnung (EG) Nr. 595/2009 in Verbindung mit der Verordnung (EU) Nr. 582/2011, jeweils in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung, entsprechen.
 
 (7) Krafträder, auf die sich die Regelung Nummer 40 – Einheitliche Vorschriften für die Genehmigung der Krafträder hinsichtlich der Emission luftverunreinigender Gase aus Motoren mit Fremdzündung – des Übereinkommens über die Annahme einheitlicher Bedingungen für die Genehmigung der Ausrüstungsgegenstände und Teile von Kraftfahrzeugen und über die gegenseitige Anerkennung der Genehmigung, in Kraft gesetzt durch die Verordnung vom 14. September 1983 (BGBl. 1983 II S. 584), bezieht, müssen hinsichtlich ihres Abgasverhaltens den Vorschriften der Regelung Nr. 40, zuletzt geändert durch Verordnung zur Änderung 1 und zum Korrigendum 3 der ECE-Regelung Nr. 40 über einheitliche Vorschriften für die Genehmigung der Krafträder hinsichtlich der Emission luftverunreinigender Gase aus Motoren mit Fremdzündung vom 29. Dezember 1992 (BGBl. 1993 II S. 110), entsprechen; dies gilt auch für Krafträder mit einer Leermasse von mehr als 400 kg.
 
@@ -1912,9 +1906,19 @@ stoßen im praktischen Fahrbetrieb weniger als 270 Milligramm Stickoxid pro Kilo
 
 (8a) Kraftfahrzeuge, die in den Anwendungsbereich der Richtlinie 97/24/EG fallen, müssen hinsichtlich ihres Abgasverhaltens den Vorschriften dieser Richtlinie entsprechen.
 
-(8b) Kraftfahrzeuge, die in den Anwendungsbereich der Achtundzwanzigsten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes vom 11. November 1998 (BGBl. I S. 3411) fallen, müssen mit Motoren ausgerüstet sein, die hinsichtlich ihres Abgasverhaltens den Vorschriften der Achtundzwanzigsten Verordnung zur Durchführung des Bundes-Immissions-schutzgesetzes vom 11. November 1998 entsprechen.
+(8b) Kraftfahrzeuge im Sinne des Artikels 2 Absatz 1 der Verordnung (EU) Nr. 168/2013 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung müssen hinsichtlich ihres Abgasverhaltens den Anforderungen entsprechen, die in der Verordnung (EU) Nr. 168/2013 in Verbindung mit der Verordnung (EU) Nr. 134/2014, jeweils in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung, genannt sind.
 
-(8c) Zugmaschinen oder Motoren für Zugmaschinen, die in den Anwendungsbereich der Richtlinie 2000/25/EG des Europäischen Parlaments und des Rates vom 22. Mai 2000 über Maßnahmen zur Bekämpfung der Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Motoren, die für den Antrieb von land- und forstwirtschaftlichen Zugmaschinen bestimmt sind, und zur Änderung der Richtlinie 74/150/EWG des Rates (ABl. L 173 vom 12.7.2000, S. 1) fallen, müssen hinsichtlich ihres Abgasverhaltens den Vorschriften dieser Richtlinie entsprechen.
+(8c) Kraftfahrzeuge, deren Motoren in den Anwendungsbereich der Verordnung (EU) 2016/1628 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung fallen, müssen mit Motoren ausgerüstet sein, die hinsichtlich ihres Abgasverhaltens den Anforderungen der genannten Verordnung entsprechen.
+
+(8d) Kraftfahrzeuge, die in den Anwendungsbereich der Achtundzwanzigsten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes vom 11. November 1998 (BGBl. I S. 3411) fallen, müssen mit Motoren ausgerüstet sein, die hinsichtlich ihres Abgasverhaltens den Vorschriften der Achtundzwanzigsten Verordnung zur Durchführung des Bundes-Immissions-schutzgesetzes vom 11. November 1998 entsprechen.
+
+(8e) Zugmaschinen oder Motoren für Zugmaschinen, die in den Anwendungsbereich der Richtlinie 2000/25/EG in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung fallen und vor dem 20. Juni 2024 erstmals in den Verkehr gebracht worden sind, müssen hinsichtlich ihres Abgasverhaltens den Anforderungen dieser Richtlinie zu dem Zeitpunkt entsprechen, zu dem die Zugmaschinen oder die Motoren für Zugmaschinen jeweils erstmals in den Verkehr gebracht worden sind.
+
+(8f) Zugmaschinen oder Motoren für Zugmaschinen im Sinne des Artikels 2 Absatz 1 und 3 der Verordnung (EU) Nr. 167/2013 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung müssen hinsichtlich ihres Abgasverhaltens den in den folgenden Vorschriften genannten Anforderungen entsprechen:
+
+1. Artikel 19 Absatz 2 Buchstabe a und Absatz 3 der vorgenannten Verordnung und
+
+2. Artikel 3 der Verordnung (EU) 2018/985 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung.
 
 (9) Technischer Dienst und Prüfstelle im Sinne der genannten Regelwerke ist die Abgasprüfstelle der TÜV-Nord Mobilität GmbH & Co. KG, Adlerstraße 7, 45307 Essen. Es können auch andere Technische Prüfstellen für den Kraftfahrzeugverkehr oder von der obersten Landesbehörde anerkannte Stellen prüfen, sofern diese über die erforderlichen eigenen Mess- und Prüfeinrichtungen verfügen. Der Technische Dienst ist über alle Prüfungen zu unterrichten. In Zweifelsfällen ist er zu beteiligen; bei allen Fragen der Anwendung ist er federführend. Die Prüfstellen haben die verwendeten Mess- und Prüfeinrichtungen hinsichtlich der Messergebnisse und der Messgenauigkeit mit dem Technischen Dienst regelmäßig abzugleichen.
 
@@ -1933,9 +1937,11 @@ Die Mündungen von Auspuffrohren dürfen nur nach oben, nach hinten, nach hinten
 
 # § 47d – Kohlendioxidemissionen, Kraftstoffverbrauch, Reichweite, Stromverbrauch
 
-(1) Für Kraftfahrzeuge, die in den Anwendungsbereich der Richtlinie 80/1268/EWG des Rates vom 16. Dezember 1980 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über den Kraftstoffverbrauch von Kraftfahrzeugen (ABl. L 375 vom 31.12.1980, S. 36), geändert durch die im Anhang zu dieser Vorschrift genannten Bestimmungen sowie in den Anwendungsbereich der Verordnung (EG) Nr. 715/2007, die durch die Verordnung (EG) Nr. 692/2008 geändert worden ist, fallen, sind die Werte für die Kohlendioxidemissionen, den Kraftstoffverbrauch, die Reichweite und den Stromverbrauch gemäß den Anforderungen dieser Vorschriften zu ermitteln.
+(1) Für Kraftfahrzeuge, die in den Anwendungsbereich der Verordnung (EG) Nr. 715/2007 in Verbindung mit der Verordnung (EU) 2017/1151, jeweils in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung, fallen, sind die Werte für die Kohlendioxidemissionen, den Kraftstoffverbrauch, die Reichweite und den Stromverbrauch nach den Vorgaben der genannten Verordnungen zu ermitteln.
 
-(2) Bei Nichtvorliegen einer EG-Übereinstimmungsbescheinigung nach Anhang IX der Richtlinie 70/156/EWG sowie Anhang IX der Richtlinie 2007/46/EG sind die gemäß den Anforderungen dieser Vorschriften ermittelten Werte in einer dem Fahrzeughalter beim Kauf des Fahrzeugs zu übergebenden Bescheinigung anzugeben.
+(2) Für Fahrzeuge, die in den Anwendungsbereich der Verordnung (EG) Nr. 595/2009 in Verbindung mit der Verordnung (EU) 2017/2400 oder in Verbindung mit der Durchführungsverordnung (EU) 2022/1362, jeweils in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung, fallen, sind die Werte für die Kohlendioxidemissionen und den Kraftstoffverbrauch nach den Vorgaben der genannten Verordnungen zu ermitteln.
+
+(3) Bei Nichtvorliegen einer EG-Übereinstimmungsbescheinigung nach Anhang IX der Richtlinie 2007/46/EG oder nach Anhang VIII der Durchführungsverordnung (EU) 2020/683, jeweils in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung, sind die nach dieser Richtlinie ermittelten Werte in einer Bescheinigung anzugeben, die dem Fahrzeughalter beim Kauf des Fahrzeugs zu übergeben ist.
 
 (+++ § 47d: Zur Anwendung vgl. § 72 Abs. 2 Nr. 5 +++)
 
@@ -1961,33 +1967,27 @@ Kraftfahrzeuge mit Klimaanlage, die in den Anwendungsbereich der Richtlinie 2006
 
 (1) Kraftfahrzeuge und ihre Anhänger müssen so beschaffen sein, dass die Geräuschentwicklung das nach dem jeweiligen Stand der Technik unvermeidbare Maß nicht übersteigt.
 
-(2) Kraftfahrzeuge, für die Vorschriften über den zulässigen Geräuschpegel und die Schalldämpferanlage in den nachfolgend genannten Richtlinien der Europäischen Gemeinschaften festgelegt sind, müssen diesen Vorschriften entsprechen:
+(2) Kraftfahrzeuge nach Anlage XXIX und deren Austauschschalldämpferanlagen sowie von Kraftfahrzeugen nach Anlage XXIX abgeleitete Kraftfahrzeuge müssen den folgenden Vorschriften über den zulässigen Geräuschpegel und die Schalldämpferanlage, jeweils in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung, entsprechen:
 
-1. Richtlinie 70/157/EWG des Rates vom 6. Februar 1970 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über den zulässigen Geräuschpegel und die Auspuffvorrichtung von Kraftfahrzeugen (ABl. L 42 vom 23.2.1970, S. 16), geändert durch die im Anhang zu dieser Vorschrift genannten Bestimmungen,
+1. der Verordnung (EU) Nr. 540/2014,
 
-2. Richtlinie 74/151/EWG des Rates vom 4. März 1974 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über bestimmte Bestandteile und Merkmale von land- oder forstwirtschaftlichen Zugmaschinen auf Rädern (ABl. L 84 vom 28.3.1974, S. 25), geändert durch die im Anhang zu dieser Vorschrift genannten Bestimmungen,
+2. der Delegierten Verordnung (EU) 2018/985 in Verbindung mit den in Artikel 19 Absatz 4 der Verordnung (EU) Nr. 167/2013 genannten Geräuschgrenzwerten und
 
-3. (weggefallen)
+3. der Delegierten Verordnung (EU) Nr. 134/2014 in Verbindung mit den in Anhang VI Abschnitt D der Verordnung (EU) Nr. 168/2013 genannten Geräuschgrenzwerten und mit den in Anhang IV Nummer 1.9 Tabellenspalte „Bestehende Fahrzeugtypen verbindlich“ der Verordnung (EU) Nr. 168/2013 genannten maßgeblichen Zeitpunkten hinsichtlich der erstmaligen Zulassung.
 
-4. Richtlinie 97/24/EG, jeweils in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung.
+Selbstfahrende Arbeitsmaschinen und Stapler entsprechen der Vorschrift des Absatzes 1 auch dann, wenn sie den Vorschriften nach Satz 1 Nummer 2 entsprechen. Kraftfahrzeuge, die den Vorschriften nach Satz 1 Nummer 2 entsprechen müssen, genügen den Anforderungen auch dann, wenn sie den Vorschriften nach Satz 1 Nummer 1 entsprechen.
 
-Land- oder forstwirtschaftliche Zugmaschinen mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 30 km/h und selbstfahrende Arbeitsmaschinen und Stapler entsprechen der Vorschrift nach Absatz 1 auch, wenn sie den Vorschriften der Richtlinie nach Nummer 2 genügen. Fahrzeuge entsprechen den Vorschriften der Richtlinie nach Nummer 2 auch, wenn sie den Vorschriften der Richtlinie nach Nummer 1 genügen.
+(2a) Schalldämpferanlagen für Kraftfahrzeuge im Sinne des Artikels 2 Absatz 1 der Verordnung (EU) Nr. 168/2013 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung sowie deren Austauschschalldämpferanlagen und Einzelteile dieser Anlagen als unabhängige technische Einheit für diese Kraftfahrzeuge dürfen im Geltungsbereich dieser Verordnung nur verwendet werden oder zur Verwendung feilgeboten oder veräußert werden, wenn sie folgendermaßen gekennzeichnet sind:
 
-(2a) Auspuffanlagen für Krafträder sowie Austauschauspuffanlagen und Einzelteile dieser Anlagen als unabhängige technische Einheit für Krafträder dürfen im Geltungsbereich dieser Verordnung nur verwendet werden oder zur Verwendung feilgeboten oder veräußert werden, wenn sie
+1. mit dem EWG-Betriebserlaubniszeichen nach Anhang II Nummer 3.1.3 der Richtlinie 78/1015/EWG des Rates vom 23. November 1978 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über den zulässigen Geräuschpegel und die Auspuffanlage von Krafträdern (ABl. L 349 vom 13.12.1978, S. 21), die zuletzt durch die Richtlinie 89/235/EWG (ABl. L 98 vom 11.4.1989, S. 1) geändert worden ist,
 
-1. mit dem EWG-Betriebserlaubniszeichen gemäß Anhang II Nummer 3.1.3 der Richtlinie 78/1015/EWG des Rates vom 23. November 1978 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über den zulässigen Geräuschpegel und die Auspuffanlage von Krafträdern (ABl. L 349 vom 13.12.1978, S. 21), die zuletzt durch die Richtlinie 89/235/EWG (ABl. L 98 vom 11.4.1989, S. 1) geändert worden ist, oder
+2. mit dem Genehmigungszeichen nach Kapitel 9 Anhang VI Nummer 1.3 der Richtlinie 97/24/EG des Europäischen Parlaments und des Rates vom 17. Juni 1997 über bestimmte Bauteile und Merkmale von zweirädrigen oder dreirädrigen Kraftfahrzeugen (ABl. L 226 vom 18.8.1997, S. 1; L 65 vom 5.3.1998, S. 35; L 244 vom 3.9.1998, S. 20; L 67 vom 11.3.2008, S. 22), die zuletzt durch die Richtlinie 2013/60/EU (ABl. L 329 vom 10.12.2013, S. 15) geändert worden ist,
 
-2. mit dem Genehmigungszeichen gemäß Kapitel 9 Anhang VI Nummer 1.3 der Richtlinie 97/24/EG
+3. mit dem Markenzeichen „e“ und dem Kennzeichen des Landes, das die Bauartgenehmigung erteilt hat, nach Kapitel 9 Anhang III Nummer 2.3.2.2 der Richtlinie 97/24/EG in der in Nummer 2 genannten Fassung oder
 
-oder
+4. mit dem nach Artikel 39 Absatz 2 und 3 der Verordnung (EU) Nr. 168/2013 in Verbindung mit Anhang IX der Delegierten Verordnung (EU) Nr. 134/2014 jeweils in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung oder den darin genannten einschlägigen UNECE-Regelungen vorgeschriebenen Typgenehmigungszeichen.
 
-3. mit dem Markenzeichen „e“ und dem Kennzeichen des Landes, das die Bauartgenehmigung erteilt hat gemäß Kapitel 9 Anhang III Nummer 2.3.2.2 der Richtlinie 97/24/EG
-
-gekennzeichnet sind. Satz 1 gilt nicht für
-
-1. Auspuffanlagen und Austauschauspuffanlagen, die ausschließlich im Rennsport verwendet werden,
-
-2. Auspuffanlagen und Austauschauspuffanlagen für Krafträder mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 50 km/h.
+Satz 1 gilt nicht für Schalldämpferanlagen und Austauschschalldämpferanlagen, die ausschließlich im Rennsport verwendet werden.
 
 (3) Kraftfahrzeuge, die gemäß Anlage XIV zur Geräuschklasse G 1 gehören, gelten als geräuscharm; sie dürfen mit dem Zeichen „Geräuscharmes Kraftfahrzeug“ gemäß Anlage XV gekennzeichnet sein. Andere Fahrzeuge dürfen mit diesem Zeichen nicht gekennzeichnet werden. An Fahrzeugen dürfen keine Zeichen angebracht werden, die mit dem Zeichen nach Satz 1 verwechselt werden können.
 
@@ -2516,13 +2516,39 @@ die vorgeschriebenen sowie vorhandenen gemäß Anhang III Nummer 2.1.1 der im An
 
 # § 57b – Prüfung der Fahrtenschreiber und Kontrollgeräte
 
-(1) Halter, deren Kraftfahrzeuge mit einem Fahrtenschreiber nach der Verordnung (EU) Nr. 165/2014 ausgerüstet sein müssen, haben auf ihre Kosten die Fahrtenschreiber nach Maßgabe des Absatzes 2 und der Anlagen XVIII und XVIIIa darauf prüfen zu lassen, dass Einbau, Zustand, Messgenauigkeit und Arbeitsweise vorschriftsmäßig sind. Bestehen keine Bedenken gegen die Vorschriftsmäßigkeit, so hat der Hersteller oder die Werkstatt auf oder neben dem Fahrtenschreiber oder an der B-Säule der Fahrerseite gut sichtbar und dauerhaft ein Einbauschild anzubringen. Bei Fahrzeugen ohne B-Säule ist, sofern möglich, das Einbauschild am Türrahmen der Fahrerseite des Fahrzeugs gut sichtbar und dauerhaft anzubringen und muss in jedem Fall deutlich sichtbar sein. Das Einbauschild muss plombiert sein, es sei denn, dass es sich nicht ohne Vernichtung der Angaben entfernen lässt. Der Halter hat dafür zu sorgen, dass das Einbauschild die vorgeschriebenen Angaben enthält, plombiert sowie vorschriftsmäßig angebracht und weder verdeckt noch verschmutzt ist.
+(1) Halter, deren Kraftfahrzeuge nach der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung mit einem Fahrtenschreiber ausgerüstet sein müssen, haben auf ihre Kosten die Fahrtenschreiber nach Maßgabe des Absatzes 2 und der Anlagen XVIII und XVIIIa darauf prüfen zu lassen, dass Einbau, Zustand, Messgenauigkeit und Arbeitsweise vorschriftsmäßig sind. Bestehen keine Bedenken gegen die Vorschriftsmäßigkeit, so hat der Hersteller oder die Werkstatt auf oder neben dem Fahrtenschreiber oder an der B-Säule der Fahrerseite gut sichtbar und dauerhaft ein Einbauschild anzubringen. Bei Fahrzeugen ohne B-Säule ist, sofern möglich, das Einbauschild am Türrahmen der Fahrerseite des Fahrzeugs gut sichtbar und dauerhaft anzubringen und muss in jedem Fall deutlich sichtbar sein. Das Einbauschild muss plombiert sein, es sei denn, dass es sich nicht ohne Vernichtung der Angaben entfernen lässt. Der Halter hat dafür zu sorgen, dass das Einbauschild die vorgeschriebenen Angaben enthält, plombiert sowie vorschriftsmäßig angebracht und weder verdeckt noch verschmutzt ist.
 
-(2) Die Prüfungen sind mindestens einmal innerhalb von 24 Monaten seit der letzten Prüfung durchzuführen. Außerdem müssen die Prüfungen nach jedem Einbau, jeder Reparatur der Fahrtenschreiberanlage, jeder Änderung der Wegdrehzahl oder Wegimpulszahl und nach jeder Änderung des wirksamen Reifenumfanges des Kraftfahrzeugs, die sich aus einer Änderung der Reifengröße ergibt, und wenn eine Plombierung gemäß Artikel 22 der Verordnung (EU) Nr. 165/2014 ersetzt wird, durchgeführt werden.
+(1a) Im Sinne dieser Verordnung ist
 
-Bei Fahrtenschreibern nach den Anhängen I B der Verordnung (EU) Nr. 165/2014 und I C der Durchführungsverordnung (EU) 2016/799 der Kommission vom 18. März 2016 zur Durchführung der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates zur Festlegung der Vorschriften über Bauart, Prüfung, Einbau, Betrieb und Reparatur von Fahrtenschreibern und ihren Komponenten (ABl. L 139 vom 26.5.2016, S. 1; L 146 vom 3.6.2016, S. 31; L 27 vom 1.2.2017, S. 169), die zuletzt durch die Durchführungsverordnung (EU) 2020/158 (ABl. L 34 vom 6.2.2020, S. 20) geändert worden ist, ist die Prüfung auch dann durchzuführen, wenn die koordinierte Weltzeit (Coordinated Universal Time – UTC) von der korrekten Zeit um mehr als 20 Minuten abweicht und wenn sich das amtliche Kennzeichen des Kraftfahrzeugs geändert hat.
+1. ein Fahrtenschreiber ein Gerät im Sinne des Artikels 2 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung,
 
-(3) Die Prüfungen dürfen nur durchgeführt werden durch
+2. ein analoger Fahrtenschreiber ein Gerät im Sinne des Artikels 2 Absatz 2 Buchstabe g der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung,
+
+3. ein digitaler Fahrtenschreiber ein Gerät im Sinne des Artikels 2 Absatz 2 Buchstabe h der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung,
+
+4. ein digitaler Fahrtenschreiber der ersten Generation ein Gerät im Sinne des Artikels 2 Satz 2 Nummer 1 der Durchführungsverordnung (EU) 2016/799 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung,
+
+5. ein digitaler Fahrtenschreiber der zweiten Generation ein Gerät im Sinne des Artikels 2 Satz 2 Nummer 7 der Durchführungsverordnung (EU) 2016/799 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung.
+
+(2) Nach jedem Einbau eines Fahrtenschreibers ist eine Einbauprüfung durchzuführen. Eine Nachprüfung ist durchzuführen
+
+1. unverzüglich nach jeder Reparatur der Fahrtenschreiberanlage,
+
+2. unverzüglich nach jeder Änderung der Wegdrehzahl oder Wegimpulszahl,
+
+3. unverzüglich nach jeder Änderung des wirksamen Reifenumfanges des Kraftfahrzeugs, die sich aus einer Änderung der Reifengröße ergibt,
+
+4. bei jedem Ersetzen einer Plombierung nach Artikel 22 der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung,
+
+5. mindestens einmal innerhalb von 24 Monaten seit der letzten Einbauprüfung oder Nachprüfung.
+
+Bei digitalen Fahrtenschreibern ist die Nachprüfung auch dann unverzüglich durchzuführen, wenn
+
+1. die am Fahrtenschreiber als koordinierte Weltzeit eingestellte Uhrzeit von der koordinierten Weltzeit um mehr als 20 Minuten abweicht oder
+
+2. sich das amtliche Kennzeichen des Kraftfahrzeugs geändert hat.
+
+(3) Die Einbauprüfungen und Nachprüfungen dürfen nur durchgeführt werden durch
 
 1. einen nach Maßgabe der Anlage XVIIIc hierfür amtlich anerkannten Fahrtenschreiberhersteller,
 
@@ -2530,7 +2556,9 @@ Bei Fahrtenschreibern nach den Anhängen I B der Verordnung (EU) Nr. 165/2014 un
 
 3. die in den gemäß Artikel 24 Absatz 5 der Verordnung (EU) Nr. 165/2014 von der Kommission veröffentlichten Verzeichnissen aufgeführten zugelassenen Einbaubetrieben und Werkstätten.
 
-(4) Wird der Fahrtenschreiber vom Fahrzeughersteller eingebaut, so kann dieser, sofern er hierfür nach Anlage XVIIIc amtlich anerkannt ist, die Einbauprüfung nach Maßgabe der Anlage XVIIIa durchführen und das Gerät kalibrieren. Die Einbauprüfung und Kalibrierung kann abweichend von Satz 1 auch durch einen hierfür anerkannten Fahrzeugimporteur durchgeführt werden. Die Einbauprüfung darf nur an einer Prüfstelle durchgeführt werden, die den in Anlage XVIIIb festgelegten Anforderungen entspricht.
+Einbauprüfungen und Nachprüfungen dürfen nur an einer Prüfstelle durchgeführt werden, die den in Anlage XVIIIb festgelegten Anforderungen entspricht.
+
+(4) Wird der Fahrtenschreiber vom Fahrzeughersteller eingebaut, so kann dieser, sofern er hierfür nach Anlage XVIIIc amtlich anerkannt ist, die Einbauprüfung nach Maßgabe der Anlagen XVIII und XVIIIa durchführen und das Gerät kalibrieren. Die Einbauprüfung und Kalibrierung kann abweichend von Satz 1 auch durch einen nach Maßgabe der Anlage XVIIIc hierfür anerkannten Fahrzeugimporteur durchgeführt werden. Die Einbauprüfung darf nur an einer Prüfstelle durchgeführt werden, die den in Anlage XVIIIb festgelegten Anforderungen entspricht. Absatz 1 Satz 2 bis 5 gilt entsprechend.
 
 # § 57c – Ausrüstung von Kraftfahrzeugen mit Geschwindigkeitsbegrenzern und ihre Benutzung
 
@@ -2564,49 +2592,39 @@ Bei Fahrtenschreibern nach den Anhängen I B der Verordnung (EU) Nr. 165/2014 un
 
 2. Herstellern von Geschwindigkeitsbegrenzern oder
 
-3. Beauftragten der Hersteller
+3. Beauftragten der Hersteller nach Nummer 1 oder 2.
 
-sowie durch von diesen ermächtigten Werkstätten. Darüber hinaus dürfen die in § 57b Absatz 3 genannten Stellen diese Prüfungen durchführen.
+(1a) Ferner dürfen Geschwindigkeitsbegrenzer von den in § 57b Absatz 3 Satz 1 genannten Stellen nach Maßgabe der Anlage XVIIIc geprüft werden. Das Beauftragen von Kraftfahrzeugwerkstätten für diese Prüfung bestimmt sich nach Anlage XVIIId. Die Prüfung darf nur an einer Prüfstelle durchgeführt werden, die den in Anlage XVIIIb festgelegten Anforderungen entspricht.
 
-(2) Halter, deren Kraftfahrzeuge mit einem Geschwindigkeitsbegrenzer nach § 57c Absatz 2 ausgerüstet sind, haben auf ihre Kosten die Geschwindigkeitsbegrenzer nach jedem Einbau, jeder Reparatur, jeder Änderung der Wegdrehzahl oder des wirksamen Reifenumfanges des Kraftfahrzeugs oder der Kraftstoff-Zuführungseinrichtung durch einen Berechtigten nach Absatz 1 prüfen und bescheinigen zu lassen, dass Einbau, Zustand und Arbeitsweise vorschriftsmäßig sind. Die Bescheinigung über die Prüfung muss mindestens folgende Angaben enthalten:
+(2) Halter, deren Kraftfahrzeuge mit einem Geschwindigkeitsbegrenzer nach § 57c Absatz 2 ausgerüstet sind, haben auf ihre Kosten die Geschwindigkeitsbegrenzer vor der Erstinbetriebnahme, nach jedem Einbau, jeder Reparatur, jeder Änderung der Wegdrehzahl oder des wirksamen Reifenumfanges des Kraftfahrzeuges, die sich aus einer Änderung der Reifengröße ergibt, sowie bei für die Begrenzung wesentlichen Änderungen an der Kraftstoff-Zuführungseinrichtung durch einen Berechtigten nach Absatz 1 oder 1a prüfen zu lassen, ob Einbau, Zustand und Arbeitsweise vorschriftsmäßig sind. Bei Vorliegen der Vorschriftsmäßigkeit hat der Berechtigte nach Absatz 1 oder 1a an der B-Säule der Fahrerseite gut sichtbar und dauerhaft ein Einbauschild anzubringen. Bei Fahrzeugen ohne B-Säule ist das Einbauschild gut sichtbar und dauerhaft am Türrahmen der Fahrerseite des Fahrzeuges anzubringen. Das Einbauschild muss plombiert sein. Der Halter hat sicherzustellen, dass das Einbauschild die in Satz 7 genannten Angaben enthält, plombiert, vorschriftsmäßig angebracht und weder verdeckt noch verschmutzt ist. Abweichend von Satz 4 muss das Einbauschild nicht plombiert sein, wenn es sich nur durch Zerstörung der Angaben entfernen lässt. Das Einbauschild muss mindestens folgende Angaben enthalten:
 
 1. Name, Anschrift oder Firmenzeichen der Berechtigten nach Absatz 1,
 
 2. die eingestellte Geschwindigkeit v<sub>set</sub>,
 
-3. Wegdrehzahl des Kraftfahrzeugs,
+3. Wegdrehzahl oder Wegimpulszahl des Kraftfahrzeugs,
 
-4. wirksamer Reifenumfang des Kraftfahrzeugs,
+4. wirksamer Reifenumfang des Kraftfahrzeugs und Reifengröße,
 
 5. Datum der Prüfung und
 
-6. die letzten acht Zeichen der Fahrzeug-Identifizierungsnummer des Kraftfahrzeugs.
+6. die letzten acht Zeichen der Fahrzeug-Identifizierungsnummer des Kraftfahrzeuges.
 
-Der Fahrzeugführer hat die Bescheinigung über die Prüfung des Geschwindigkeitsbegrenzers mitzuführen und auf Verlangen zuständigen Personen zur Prüfung auszuhändigen. Die Sätze 1 und 3 gelten nicht für Fahrzeuge mit roten Kennzeichen oder mit Kurzzeitkennzeichen.
+Dieses Einbauschild kann mit dem Einbauschild nach § 57b kombiniert werden.
 
-(3) Wird der Geschwindigkeitsbegrenzer von einem Fahrzeughersteller eingebaut, der Inhaber einer Allgemeinen Betriebserlaubnis nach § 20 ist, kann dieser die nach Absatz 2 erforderliche Bescheinigung ausstellen.
+(3) Wird der Geschwindigkeitsbegrenzer von einem Fahrzeughersteller eingebaut, der Inhaber einer EU-Typgenehmigung oder einer Allgemeinen Betriebserlaubnis nach § 20 ist, kann dieser das nach Absatz 2 erforderliche Einbauschild ausstellen.
 
-(4) Für die Anerkennung der Fahrzeughersteller, der Hersteller von Geschwindigkeitsbegrenzern oder von Beauftragten der Hersteller sind die oberste Landesbehörde, die von ihr bestimmten oder die nach Landesrecht zuständigen Stellen zuständig.
+(4) Für die Anerkennung der Fahrzeughersteller, der Hersteller von Geschwindigkeitsbegrenzern, der Beauftragten der Fahrzeughersteller und der Beauftragten der Hersteller von Geschwindigkeitsbegrenzern für den Einbau und für die Prüfung von Geschwindigkeitsbegrenzern ist das Kraftfahrt-Bundesamt zuständig.
 
-(5) Die Anerkennung kann Fahrzeugherstellern, Herstellern von Geschwindigkeitsbegrenzern oder Beauftragten der Hersteller erteilt werden:
-
-1. zur Vornahme des Einbaus und der Prüfung nach Absatz 2,
-
-2. zur Ermächtigung von Werkstätten, die den Einbau und die Prüfungen vornehmen.
-
-(6) Die Anerkennung wird erteilt, wenn
+(5) Die Anerkennung wird erteilt, wenn
 
 1. der Antragsteller, bei juristischen Personen die nach Gesetz oder Satzung zur Vertretung berufenen Personen, die Gewähr für zuverlässige Ausübung der dadurch verliehenen Befugnisse bietet,
 
-2. der Antragsteller, falls er die Prüfungen selbst vornimmt, nachweist, dass er über die erforderlichen Fachkräfte sowie über die notwendigen, dem Stand der Technik entsprechenden Prüfgeräte und sonstigen Einrichtungen und Ausstattungen verfügt,
+2. der Antragsteller, falls er die Prüfungen selbst vornimmt, nachweist, dass er über die erforderlichen Fachkräfte sowie über die notwendigen, dem Stand der Technik entsprechenden Prüfgeräte und sonstigen Einrichtungen und Ausstattungen verfügt.
 
-3. der Antragsteller, falls er die Prüfungen und den Einbau durch von ihm ermächtigte Werkstätten vornehmen lässt, nachweist, dass er durch entsprechende Überwachungs- und Weisungsbefugnisse sichergestellt hat, dass bei den Werkstätten die Voraussetzungen nach Nummer 2 vorliegen und die Durchführung des Einbaus und der Prüfungen ordnungsgemäß erfolgt.
+(6) Die Anerkennung ist nicht übertragbar; sie kann mit Nebenbestimmungen verbunden werden, die sicherstellen, dass der Einbau und die Prüfungen ordnungsgemäß durchgeführt werden.
 
-(7) Wird die Anerkennung nach Absatz 5 Nummer 2 ausgesprochen, so haben der Fahrzeughersteller, der Hersteller von Geschwindigkeitsbegrenzern oder die Beauftragten der Hersteller der Anerkennungsbehörde und den zuständigen obersten Landesbehörden die ermächtigten Werkstätten mitzuteilen.
-
-(8) Die Anerkennung ist nicht übertragbar; sie kann mit Nebenbestimmungen verbunden werden, die sicherstellen, dass der Einbau und die Prüfungen ordnungsgemäß durchgeführt werden.
-
-(9) Die oberste Landesbehörde, die von ihr bestimmten oder die nach Landesrecht zuständigen Stellen üben die Aufsicht über die Inhaber der Anerkennung aus. Die Aufsichtsbehörde kann selbst prüfen oder durch von ihr bestimmte Sachverständige prüfen lassen, ob insbesondere die Voraussetzungen für die Anerkennung gegeben sind, ob der Einbau und die Prüfungen ordnungsgemäß durchgeführt und ob die sich sonst aus der Anerkennung oder den Nebenbestimmungen ergebenden Pflichten erfüllt werden.
+(7) Das Kraftfahrt-Bundesamt übt die Aufsicht über die Inhaber der Anerkennung aus. Die Aufsichtsbehörde kann selbst prüfen oder durch von ihr bestimmte Sachverständige prüfen lassen, ob insbesondere die Voraussetzungen für die Anerkennung gegeben sind, ob der Einbau und die Prüfungen ordnungsgemäß durchgeführt und ob die sich sonst aus der Anerkennung oder den Nebenbestimmungen ergebenden Pflichten erfüllt werden.
 
 # § 58 – Geschwindigkeitsschilder
 
@@ -2676,7 +2694,27 @@ Satz 3 Nummer 3 ist entsprechend anzuwenden, wenn nach dem Austausch die Fahrzeu
 
 (2) Die auf dem Nachweis der Übereinstimmung angeführten Werte müssen mit den am einzelnen Fahrzeug tatsächlich gemessenen übereinstimmen.
 
-# § 60 – (weggefallen)
+# § 60 – Flüssiggasanlagen in Fahrzeugen
+
+(1) Die Halter von zulassungspflichtigen Fahrzeugen im Sinne des § 3 Absatz 1 Satz 1 der Fahrzeug-Zulassungsverordnung und kennzeichenpflichtigen Fahrzeugen nach § 4 Absatz 2 Satz 1 und Absatz 3 Satz 2 der Fahrzeug-Zulassungsverordnung haben die Flüssiggasanlagen ihrer Fahrzeuge mit einem Höchstverbrauch von 1,5 kg/h, die nicht zum Antrieb dieser Fahrzeuge dienen, auf ihre Kosten nach Maßgabe der Technischen Regel Arbeitsblatt DVGW G 607 (A) „Flüssiggasanlagen mit einem Höchstverbrauch von 1,5 kg/h in Freizeitfahrzeugen, Mobilheimen und zu Wohnzwecken in anderen Fahrzeugen; Betrieb und Prüfung“ (ISSN 0176-3490, DVGW, Bonn, August 2022) des Vereins „Deutscher Verein des Gas- und Wasserfaches e. V.“ Josef-Wirmer-Straße 1–3, 53123 Bonn prüfen zu lassen
+
+1. vor ihrer erstmaligen Inbetriebnahme,
+
+2. vor einer Wiederinbetriebnahme nach prüfpflichtigen Änderungen sowie
+
+3. danach wiederkehrend im Abstand von jeweils 24 Monaten zur vorausgegangenen Prüfung (Wiederholungsprüfung).
+
+Die Frist für die Durchführung einer Wiederholungsprüfung endet mit Ablauf des vierundzwanzigsten Monats. Ausgenommen von der Pflicht nach Satz 1 sind
+
+1. Fahrzeuge mit rotem Kennzeichen nach den §§ 41 und 43 der Fahrzeug-Zulassungsverordnung sowie Kurzzeitkennzeichen nach § 42 Absatz 3 der Fahrzeug-Zulassungsverordnung,
+
+2. Fahrzeuge der Bundeswehr und
+
+3. Fahrzeuge nach § 52 Absatz 3 Satz 1 Nummer 1, 2 und 4.
+
+(2) Abweichend von Absatz 1 Satz 1 haben die Halter von gewerblich genutzten Fahrzeugen mit Flüssiggasanlagen zu Brennzwecken die Flüssiggasanlagen, die im Sinne des § 2 Absatz 1 der Betriebssicherheitsverordnung vom 3. Februar 2015 (BGBl. I S. 49), die zuletzt durch Artikel 7 des Gesetzes vom 27. Juli 2021 geändert worden ist, als Arbeitsmittel verwendet werden, auf ihre Kosten nach Maßgabe des § 14 Absatz 4 in Verbindung mit Anhang 3 Abschnitt 2 der Betriebssicherheitsverordnung, zu den dort genannten Zeitpunkten prüfen zu lassen. Die Ergebnisse der Prüfung sind unter Verwendung der Vorlagen des Anhanges des Grundsatzes 310-003 „Prüfaufzeichnung über die Prüfung von Flüssiggasanlagen zu Brennzwecken in oder an Fahrzeugen“ der Deutschen Gesetzlichen Unfallversicherung e. V.<span id="FnR.F830186_01"></span><a href="#F830186_01" class="FnR">*</a></sup> , Ausgabe Juni 2023 und nach Maßgabe des § 14 Absatz 7 in Verbindung mit Anhang 3 Abschnitt 2 Nummer 4.2 der Betriebssicherheitsverordnung aufzuzeichnen und aufzubewahren.
+
+(3) Die Halter von gewerblich genutzten Fahrzeugen mit Flüssiggas-Verbrennungsmotoren zu Antriebszwecken haben die Flüssiggasanlagen, die im Sinne des § 2 Absatz 1 der Betriebssicherheitsverordnung als Arbeitsmittel verwendet werden und die nicht der wiederkehrenden Prüfung nach § 41a Absatz 6 unterliegen, auf ihre Kosten nach Maßgabe des § 14 Absatz 4 in Verbindung mit Anhang 3 Abschnitt 2 der Betriebssicherheitsverordnung zu den dort genannten Zeitpunkten prüfen zu lassen. Die Ergebnisse der Prüfung sind unter Verwendung der Vorlage des Anhanges des Grundsatzes 310-004 „Prüfaufzeichnung über die Prüfung von Flurförderzeugen und anderen mobilen Arbeitsmitteln mit Flüssiggas-Verbrennungsmotoren“ der Deutschen Gesetzlichen Unfallversicherung e. V.<span id="FnR.F830186_02"></span><a href="#F830186_02" class="FnR">**</a></sup> , Ausgabe 2023, und nach Maßgabe des § 14 Absatz 7 in Verbindung mit Anhang 3 Abschnitt 2 Nummer 4.2 der Betriebssicherheitsverordnung aufzuzeichnen und aufzubewahren.
 
 # § 60a – (weggefallen)
 
@@ -2784,7 +2822,7 @@ Schlussleuchte und Rückstrahler dürfen in einem Gerät verbaut sein. Schlussle
 
 3. mindestens zwei um 180 Grad versetzt angebrachten, nach der Seite wirkenden gelben Speichenrückstrahlern an den Speichen des Vorderrades und des Hinterrades
 
-kenntlich gemacht sein. Zusätzlich zu der Mindestausrüstung mit einer der Absicherungsarten dürfen Sicherungsmittel aus den anderen Absicherungsarten angebracht sein. Werden mehr als zwei Speichenrückstrahler an einem Rad angebracht, so sind sie am Radumfang gleichmäßig zu verteilen. Zusätzliche nach der Seite wirkende bauartgenehmigte gelbe rückstrahlende Mittel sind zulässig. Nach vorne und nach hinten wirkende Fahrtrichtungsanzeiger, genehmigt nach der Regelung Nr. 50 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten, Fahrtrichtungsanzeigern und Beleuchtungseinrichtungen für das hintere Kennzeichenschild für Fahrzeuge der Klasse L (ABl. L 97 vom 29.3.2014, S. 1) und angebaut nach der Regelung Nr. 74 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Fahrzeugen der Klasse L 1 hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 166 vom 18.6.2013, S. 88) sowie Anordnung der Bedienteile nach der Regelung Nr. 60 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Vorschriften für die Genehmigung zweirädriger Krafträder und Fahrräder mit Hilfsmotor hinsichtlich der vom Fahrzeugführer betätigten Bedienteile und der Kennzeichnung von Bedienteilen, Kontrollleuchten und Anzeigevorrichtungen (ABl. L 297 vom 15.10.2014, S. 23), sind nur bei mehrspurigen Fahrrädern oder solchen mit einem Aufbau, der Handzeichen des Fahrers ganz oder teilweise verdeckt, zulässig.
+kenntlich gemacht sein. Zusätzlich zu der Mindestausrüstung mit einer der Absicherungsarten dürfen Sicherungsmittel aus den anderen Absicherungsarten angebracht sein. Werden mehr als zwei Speichenrückstrahler an einem Rad angebracht, so sind sie am Radumfang gleichmäßig zu verteilen. Zusätzliche nach der Seite wirkende bauartgenehmigte gelbe rückstrahlende Mittel sind zulässig. Nach vorne und nach hinten wirkende Fahrtrichtungsanzeiger, genehmigt nach der Regelung Nr. 50 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten, Fahrtrichtungsanzeigern und Beleuchtungseinrichtungen für das hintere Kennzeichenschild für Fahrzeuge der Klasse L (ABl. L 97 vom 29.3.2014, S. 1) oder genehmigt nach der UN-Regelung Nr. 148 – Einheitliche Bedingungen für die Genehmigung von Lichtsignaleinrichtungen (Leuchten) für Kraftfahrzeuge und ihre Anhänger \[2021/1719\] (ABl. L 347 vom 30.9.2021, S. 123) und angebaut nach der Regelung Nr. 74 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Fahrzeugen der Klasse L 1 hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 166 vom 18.6.2013, S. 88) sowie Anordnung der Bedienteile nach der Regelung Nr. 60 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Vorschriften für die Genehmigung zweirädriger Krafträder und Fahrräder mit Hilfsmotor hinsichtlich der vom Fahrzeugführer betätigten Bedienteile und der Kennzeichnung von Bedienteilen, Kontrollleuchten und Anzeigevorrichtungen (ABl. L 297 vom 15.10.2014, S. 23), sind zulässig.
 
 (6) Schlussleuchte und Scheinwerfer dürfen nur gemeinsam einzuschalten sein, wenn sie mit Hilfe einer Lichtmaschine betrieben werden. Bei eingeschalteter Standlichtfunktion darf auch die Schlussleuchte allein leuchten. In den Scheinwerfern und Leuchten dürfen nur die nach ihrer Bauart dafür bestimmten Leuchtmittel verwendet werden.
 
@@ -2836,7 +2874,7 @@ c) mit mindestens zwei um 180 Grad versetzt angebrachten, nach der Seite wirkend
 
 1. einer weiteren Leuchte für rotes Licht nach hinten auf der rechten Seite oder
 
-2. Fahrtrichtungsanzeigern, genehmigt nach der Regelung Nr. 50 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten, Fahrtrichtungsanzeigern und Beleuchtungseinrichtungen für das hintere Kennzeichenschild für Fahrzeuge der Klasse L (ABl. L 97 vom 29.3.2014, S. 1) und angebaut nach der Regelung Nr. 74 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Fahrzeugen der Klasse L 1 hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 166 vom 18.6.2013, S. 88), oder
+2. Fahrtrichtungsanzeigern, genehmigt nach der Regelung Nr. 50 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten, Fahrtrichtungsanzeigern und Beleuchtungseinrichtungen für das hintere Kennzeichenschild für Fahrzeuge der Klasse L (ABl. L 97 vom 29.3.2014, S. 1) oder genehmigt nach der UN-Regelung Nr. 148 – Einheitliche Bedingungen für die Genehmigung von Lichtsignaleinrichtungen (Leuchten) für Kraftfahrzeuge und ihre Anhänger \[2021/1719\] (ABl. L 347 vom 30.9.2021, S. 123) und angebaut nach der Regelung Nr. 74 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Fahrzeugen der Klasse L 1 hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 166 vom 18.6.2013, S. 88), oder
 
 3. zwei weiteren zusätzlichen roten nicht dreieckigen Rückstrahlern nach hinten wirkend mit einem maximalen Abstand von 200 mm zur Außenkante
 
@@ -2900,7 +2938,9 @@ verstößt,
 
 18. einer Vorschrift des § 29 Absatz 1 Satz 1 in Verbindung mit Nummer 3.1.4.2 Satz 2 Halbsatz 2 der Anlage VIII über die Behebung der geringen Mängel oder Nummer 3.1.4.3 Satz 2 Halbsatz 2 über die Behebung der erheblichen Mängel oder die Wiedervorführung zur Nachprüfung der Mängelbeseitigung zuwiderhandelt,
 
-19. entgegen § 29 Absatz 1 Satz 1 in Verbindung mit Nummer 4.3 Satz 5 der Anlage VIII, Nummer 8.1.1 Satz 2 oder Nummer 8.2.1 Satz 2 der Anlage VIIIc die Maßnahmen nicht duldet oder die vorgeschriebenen Aufzeichnungen nicht vorlegt.
+19. entgegen § 29 Absatz 1 Satz 1 in Verbindung mit Nummer 4.3 Satz 5 der Anlage VIII, Nummer 8.1.1 Satz 2 oder Nummer 8.2.1 Satz 2 der Anlage VIIIc die Maßnahmen nicht duldet oder die vorgeschriebenen Aufzeichnungen nicht vorlegt oder
+
+20. entgegen § 60 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1 eine Flüssiggasanlage nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig prüfen lässt.
 
 (3) Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt ferner, wer vorsätzlich oder fahrlässig ein Kraftfahrzeug oder ein Kraftfahrzeug mit Anhänger (Fahrzeugkombination) unter Verstoß gegen eine der folgenden Vorschriften in Betrieb nimmt:
 
@@ -3132,43 +3172,79 @@ Die Genehmigung von Ausnahmen von den Vorschriften dieser Verordnung kann mit Au
 
 # § 72 – Übergangsbestimmungen
 
-(1) Für Fahrzeuge sowie für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge, die vor dem 3. Juli 2021 erstmals in den Verkehr gekommen sind, gelten die zum Zeitpunkt ihrer Zulassung geltenden Vorschriften einschließlich der für diese Fahrzeuge erlassenen Nachrüstvorschriften fort.
+(1) Für Fahrzeuge sowie für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge, die vor dem 20. Juni 2024 erstmals in den Verkehr gebracht worden sind, sind die zum Zeitpunkt des jeweiligen Inverkehrbringens geltenden Vorschriften über den Bau der Fahrzeuge, der Systeme, der Bauteile und der selbstständigen technischen Einheiten für diese Fahrzeuge einschließlich der für solche Fahrzeuge erlassenen Nachrüstvorschriften anzuwenden, soweit sich aus den nachfolgenden Absätzen nicht etwas anderes ergibt.
 
-(2) § 32, Anlage VIII und Anlage VIIIc in der bis zum Ablauf des 2. Juli 2021 geltenden Fassung können bis zum Ablauf des 2. Juli 2022 alternativ angewendet werden.
+(1a) § 19 Absatz 1 kann bis zum 31. Oktober 2024 auch in der bis zum 19. Juni 2024 geltenden Fassung angewendet werden.
 
-(3) Für land- oder forstwirtschaftliche Zugmaschinen, die vor dem 1. November 2021 erstmals in den Verkehr gekommen sind, ist § 32e in der vor dem 3. Juli 2021 geltenden Fassung weiter anzuwenden.
+(2) Teilegutachten im Sinne des § 19 Absatz 3 Satz 1 Nummer 4 Buchstabe a in Verbindung mit Anlage XIX in der am 19. Juni 2024 geltenden Fassung dürfen
 
-(4) Für land- oder forstwirtschaftliche Zugmaschinen, die vor dem 1. November 2021 erstmals in den Verkehr gekommen sind, ist § 35a in der vor dem 3. Juli 2021 geltenden Fassung weiter anzuwenden.
+1. bis einschließlich 19. Juni 2025 erweitert oder neu erstellt werden;
 
-(5) § 35d Absatz 2 ist für land- oder forstwirtschaftliche Zugmaschinen, die vor dem 3. Juli 2021 erstmals in den Verkehr gekommen sind, wahlweise anwendbar.
+2. nur bis einschließlich 19. Juni 2028 für die Zwecke des Einbaus oder des Anbaus von Teilen verwendet werden.
 
-(6) § 47 Absatz 1a ist hinsichtlich der Vorschriften der Verordnung (EG) Nr. 715/2007 und der Verordnung (EG) Nr. 692/2008 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Juni 2012, entsprechend der in der Verordnung (EG) Nr. 692/2008 in Anhang I, Anlage 6, Tabelle 1, Spalte 7 unter „Einführungszeitpunkt Neufahrzeuge“ genannten Termine anzuwenden.
+(3) § 22a Absatz 1 Nummer 22 ist für Fahrradanhänger anzuwenden, die ab dem 19. Juni 2025 erstmals in den Verkehr gebracht werden. Für Fahrradanhänger, die vor dem 19. Juni 2025 erstmals in den Verkehr gebracht werden, ist § 22a Absatz 1 Nummer 22 in der am 19. Juni 2024 geltenden Fassung anzuwenden.
 
-(7) § 47 Absatz 6b ist hinsichtlich der Vorschriften der Verordnung (EG) Nr. 595/2009 und der Verordnung (EU) Nr. 582/2011 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Dezember 2017 anzuwenden und es gelten für diese Fahrzeuge hinsichtlich der Überwachungsanforderungen für Reagensqualität und -verbrauch sowie der Schwellenwerte für die Eigensystemüberwachung (OBD) für NO<sub>x</sub> und Partikel die in der Verordnung (EU) Nr. 582/2011, Anhang I, Anlage 9, Tabelle 1 unter „Letztes Zulassungsdatum“ genannten Termine.
+(4) § 47 Absatz 1a ist für Fahrzeuge anzuwenden, die ab dem 19. Dezember 2024 erstmals in den Verkehr gebracht werden. Für Fahrzeuge, die vor dem 19. Dezember 2024 erstmals in den Verkehr gebracht werden, ist § 47 Absatz 1a in der am 19. Juni 2024 geltenden Fassung anzuwenden.
 
-(8) § 47 Absatz 8c ist für Fahrzeuge, die mit einer Einzelgenehmigung erstmals in den Verkehr kommen, wie folgt anzuwenden:
+(5) § 47 Absatz 6b ist für Fahrzeuge anzuwenden, die ab dem 19. Dezember 2024 erstmals in den Verkehr gebracht werden. Für Fahrzeuge, die vor dem 19. Dezember 2024 erstmals in den Verkehr gebracht werden, ist § 47 Absatz 6b in der am 19. Juni 2024 geltenden Fassung anzuwenden.
 
-1. spätestens ab den in Artikel 4 Absatz 3 der Richtlinie 2000/25/EG genannten Terminen; derweil wird bei Fahrzeugen, die mit Motoren ausgerüstet sind, deren Herstellungsdatum vor den in Artikel 4 Absatz 3 der Richtlinie 2000/25/EG genannten Terminen liegt, für jede Kategorie der Zeitpunkt für erstmals in den Verkehr kommende Fahrzeuge um zwei Jahre verlängert;
+(6) § 47 Absatz 8b ist für Fahrzeuge anzuwenden, die ab dem 19. Dezember 2024 erstmals in den Verkehr gebracht werden.
 
-2. spätestens ab dem 1. Juni 2012 entsprechend der Termine, die in Artikel 4 Absatz 2 und 3 der Richtlinie 2000/25/EG in der bis zum 1. Januar 2007 geltenden durch die Richtlinie 2005/13/EG geänderten Fassung genannt sind, vorbehaltlich einer Verlängerung um zwei Jahre nach Artikel 4 Absatz 5 und 6 der Richtlinie 2000/25/EG in der bis zum 1. Januar 2007 geltenden durch die Richtlinie 2005/13/EG geänderten Fassung; für land- oder forstwirtschaftliche Zugmaschinen, die vor den genannten Terminen erstmals in den Verkehr kamen, bleibt § 47 Absatz 8c in der vor dem 1. Juni 2012 geltenden Fassung anwendbar.
+(7) § 47 Absatz 8c ist für Fahrzeuge anzuwenden, die ab dem 19. Dezember 2024 erstmals in den Verkehr gebracht werden.
 
-(9) § 47e ist wie folgt anzuwenden:
+(8) § 47 Absatz 8f ist für Zugmaschinen oder Motoren für Zugmaschinen anzuwenden, die ab dem 19. Dezember 2024 erstmals in den Verkehr gebracht werden. Für Zugmaschinen oder Motoren für Zugmaschinen, die nach dem 19. Juni 2024 und vor dem 19. Dezember 2024 erstmals in den Verkehr gebracht werden, ist § 47 Absatz 8e entsprechend anzuwenden.
 
-a) in Fahrzeuge, für die eine Typgenehmigung ab dem 1. Januar 2011 erteilt wurde, darf ab dem 1. Juni 2012 eine Klimaanlage, die darauf ausgelegt ist, fluorierte Treibhausgase mit einem global warming potential-Wert (GWP-Wert) über 150 zu enthalten, nicht mehr nachträglich eingebaut werden;
+(9) § 47d Absatz 1 ist für Fahrzeuge mit einer Einzelgenehmigung anzuwenden, die ab dem 19. Dezember 2024 erstmals in den Verkehr gebracht werden. Für Fahrzeuge mit einer Einzelgenehmigung, die vor dem 19. Dezember 2024 erstmals in den Verkehr gebracht werden, ist § 47d Absatz 1 in der am 19. Juni 2024 geltenden Fassung anzuwenden.
 
-b) Klimaanlagen, die in Fahrzeuge eingebaut sind, für die ab dem 1. Januar 2011 eine Typgenehmigung erteilt wurde, dürfen nicht mit fluorierten Treibhausgasen mit einem GWP-Wert von über 150 befüllt werden und mit Wirkung vom 1. Januar 2017 dürfen Klimaanlagen in sämtlichen Fahrzeugen nicht mehr mit fluorierten Treibhausgasen mit einem GWP-Wert über 150 befüllt werden; hiervon ausgenommen ist das Nachfüllen von diese Gase enthaltenden Klimaanlagen, die vor diesem Zeitpunkt in Fahrzeuge eingebaut worden sind;
+(10) § 49 Absatz 2 Satz 1 Nummer 1 ist hinsichtlich der Geräuschgrenzwerte, die in Anhang III der Verordnung (EU) Nr. 540/2014 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung genannt sind, abweichend von den in Anhang III der vorgenannten Verordnung genannten Zeitpunkten anzuwenden
 
-c) Fahrzeuge mit einer Einzelgenehmigung, die ab dem 1. Januar 2017 erstmals in den Verkehr gebracht werden sollen, ist die Zulassung zu verweigern, wenn deren Klimaanlagen mit einem fluorierten Treibhausgas mit einem GWP-Wert über 150 befüllt sind.
+1. im Fall der Phase 2 für erstmalig zugelassene Fahrzeuge ab dem 1. Januar 2024,
 
-(10) Für land- oder forstwirtschaftliche Zugmaschinen, die vor dem 1. November 2021 erstmals in den Verkehr gekommen sind, kann die im Anhang zu § 56 Absatz 2 Nummer 4 genannte Vorschrift in der vor dem 3. Juli 2021 geltenden Fassung weiter angewendet werden.
+2. im Fall der Phase 3 für erstmalig zugelassene Fahrzeuge ab dem 1. Januar 2028.
+
+(11) § 49 Absatz 2 Satz 1 Nummer 2 ist für Fahrzeuge mit einer Einzelgenehmigung anzuwenden, die ab dem 19. Dezember 2025 erstmals in den Verkehr gebracht werden.
+
+(12) Abweichend von § 22a, § 50 Absatz 2 und § 53 Absatz 1 dürfen an Krafträdern mit einer Erstzulassung vor dem 1. Januar 1938 alternativ oder zusätzlich zu den vorgeschriebenen lichttechnischen Einrichtungen, abnehmbare bauartgenehmigte LED-Fahrradscheinwerfer mit einer Mindestlichtstärke von 50 Lux und einer Mindestreichweite von 50 Metern, bei Bedarf auch in Verbindung mit festen oder abnehmbaren bauartgenehmigten LED-Fahrradschlussleuchten mit Fahrradrückstrahlern, verwendet werden.
+
+(13) Abweichend von § 57 Absatz 1 und 2 dürfen an Krafträdern mit einer Erstzulassung vor dem 1. Januar 1961 abnehmbare Geschwindigkeitsmessgeräte und Wegstreckenzähler verwendet werden, wenn
+
+1. diese während der Fahrt sicher angebracht sind,
+
+2. der Anbau im Sichtbereich erfolgt, ohne das Sichtfeld des Fahrers einzuschränken,
+
+3. die zulässige Abweichung der angezeigten Geschwindigkeit in den letzten Dritteln des Anzeigebereichs höchstens plus 7 Prozent des Skalenendwertes beträgt und
+
+4. die angezeigte Geschwindigkeit nicht unter der tatsächlichen Geschwindigkeit des Fahrzeugs liegt.
+
+(14) Abweichend von Anlage VIII dürfen Fahrzeughalter, die vor dem 1. Juni 1998 nach Anlage VIII Nummer 4.1 in Verbindung mit Nummer 6 in der am 31. Mai 1998 geltenden Fassung von der Pflicht zur Vorführung ihrer Fahrzeuge zu
+
+1. Hauptuntersuchungen bei einem Sachverständigen oder Prüfer befreit waren und deren Anerkennung für die Durchführung der Hauptuntersuchung ihrer Fahrzeuge im eigenen Betrieb fortbesteht, auch weiterhin Hauptuntersuchungen an ihren Fahrzeugen im eigenen Betrieb jeweils bis zum Ablauf des durch die Prüfplakette nachgewiesenen Monats durchführen,
+
+2. Zwischen- und Bremsensonderuntersuchungen bei einem Sachverständigen oder Prüfer befreit waren und deren Genehmigung für die Durchführung der Zwischen- und Bremsensonderuntersuchungen ihrer Fahrzeuge im eigenen Betrieb fortbesteht, Sicherheitsprüfungen an ihren Fahrzeugen im eigenen Betrieb jeweils bis zum Ablauf des durch die Prüfmarke nachgewiesenen Monats durchführen.
+
+Die Hauptuntersuchungen nach Satz 1 Nummer 1 und die Sicherheitsprüfungen nach Satz 1 Nummer 2
+
+1. sind mit der Maßgabe durchzuführen, dass Nummer 1.4 der Anlage VIIIc nicht anzuwenden ist und für die fortbestehenden Anerkennungen und Genehmigungen und die Aufsicht nach Anlage VIII Nummer 6 in der am 31. Mai 1998 geltenden Fassung anzuwenden ist,
+
+2. dürfen ab dem 1. Oktober 2024 nur anerkannte Fahrzeughalter durchführen, die Aufgaben der öffentlichen Verwaltung wahrnehmen.
+
+(15) § 60 ist ab dem 19. Juni 2025 anzuwenden.
+
+(16) Bei einem Fahrzeug im Sinne des § 60 Absatz 1 Satz 1, das bis zum Ablauf des 19. Juni 2025 in den Verkehr gebracht worden ist, ist die Flüssiggasanlage
+
+1. für den Fall, dass die Flüssiggasanlage bereits nach Maßgabe der Technischen Regel Arbeitsblatt DVGW G 607 (A) „Flüssiggasanlagen mit einem Höchstverbrauch von 1,5 kg/h in Freizeitfahrzeugen, Mobilheimen und zu Wohnzwecken in anderen Fahrzeugen; Betrieb und Prüfung“ (ISSN 0176-3490, DVGW, Bonn, August 2022) des Vereins „Deutscher Verein des Gas- und Wasserfaches e. V.“ Josef-Wirmer-Straße 1–3, 53123 Bonn geprüft worden ist, im Abstand von 24 Monaten zu dieser Prüfung einer ersten Wiederholungsprüfung im Sinne des § 60 Absatz 1 Satz 1 Nummer 3 zu unterziehen,
+
+2. für den Fall, dass die Flüssiggasanlage noch nicht nach Maßgabe der in Nummer 1 bezeichneten Technischen Regel geprüft worden ist, bis zum 19. Juni 2025 einer erstmaligen Prüfung nach Maßgabe der in Nummer 1 bezeichneten Technischen Regel zu unterziehen.
+
+Für eine Prüfung im Sinne des Satzes 2 Nummer 1 oder 2 gilt § 60 Absatz 1 Satz 1 Nummer 3 und Satz 2.
 
 # § 73 – Technische Festlegungen
 
-Soweit in dieser Verordnung auf DIN- oder ISO-Normen Bezug genommen wird, sind diese im Beuth Verlag GmbH, Burggrafenstraße 6, 10787 Berlin, VDE-Bestimmungen auch im VDE-Verlag, Bismarckstr. 33, 10625 Berlin, erschienen. Sie sind beim Deutschen Patent-und Markenamt in München archivmäßig gesichert niedergelegt.
+Soweit in dieser Verordnung auf DIN- oder ISO-Normen Bezug genommen wird, sind diese im Beuth Verlag GmbH, Saatwinkler Damm 42/43, 13627 Berlin, VDE-Bestimmungen auch im VDE-Verlag GmbH, Bismarckstraße 33, 10625 Berlin, erschienen. Sie sind beim Deutschen Patent- und Markenamt, Zweibrückenstraße 12, 80331 München archivmäßig gesichert niedergelegt.
 
 # Anlage I bis VII – (weggefallen)
 
-# Anlage VIII – (§ 29 Absatz 1 bis 4, 7, 9, 11 und 13)Untersuchung der Fahrzeuge
+# Anlage VIII – (§ 29 Absatz 1, 3, 4, 7, 9, 10)Untersuchung der Fahrzeuge
 
 (Fundstelle: BGBl. I 2012, 734 - 740;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3572,7 +3648,7 @@ mit einer zulässigen Gesamtmasse &gt; 7,5 t
 Wird der Mietvertrag nachträglich auf eine Dauer von weniger als einem Jahr verkürzt, beträgt die Frist für die Hauptuntersuchung in allen Fällen zwölf Monate.
 
 2.3  
-Die Frist für die nächste Hauptuntersuchung beginnt mit dem Monat und Jahr der letzten Hauptuntersuchung. Bei Fahrzeugen, die erstmals in den Verkehr kommen, beginnt die Frist für die nächste Hauptuntersuchung mit dem Monat und Jahr der Zuteilung eines amtlichen Kennzeichens, jedoch nicht bei der Zuteilung eines Kurzzeitkennzeichens. Bei Fahrzeugen, die wieder zum Verkehr zugelassen werden oder die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, beginnt die Frist mit dem Monat und Jahr der Begutachtung nach § 21 oder einer Hauptuntersuchung (§ 14 Absatz 2 Fahrzeug-Zulassungsverordnung). Sie endet mit Ablauf des durch die Prüfplakette nachgewiesenen Monats und Jahres. Bei Fahrzeugen mit einer EG-Typgenehmigung, die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, ist § 7 Absatz 2 der Fahrzeug-Zulassungsverordnung anzuwenden.
+Die Frist für die nächste Hauptuntersuchung beginnt mit dem Monat und Jahr der letzten Hauptuntersuchung. Bei Fahrzeugen, die erstmals in den Verkehr kommen, beginnt die Frist für die nächste Hauptuntersuchung mit dem Monat und Jahr der Zuteilung eines amtlichen Kennzeichens, jedoch nicht bei der Zuteilung eines Kurzzeitkennzeichens. Bei Fahrzeugen, die wieder zum Verkehr zugelassen werden oder die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, beginnt die Frist mit dem Monat und Jahr der Begutachtung nach § 21 oder einer Hauptuntersuchung (§ 16 Absatz 2 Fahrzeug-Zulassungsverordnung). Sie endet mit Ablauf des durch die Prüfplakette nachgewiesenen Monats und Jahres. Bei Fahrzeugen mit einer EG-Typgenehmigung, die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, ist § 8 Absatz 2 der Fahrzeug-Zulassungsverordnung anzuwenden.
 
 2.4  
 Die Frist für die Durchführung der Sicherheitsprüfung beginnt mit dem Monat und Jahr der letzten Hauptuntersuchung. Die Sicherheitsprüfung darf in dem unmittelbar vor dem durch die Prüfmarke in Verbindung mit dem SP-Schild ausgewiesenen Monat durchgeführt werden, ohne dass sich die nach Nummer 2.1 oder Nummer 2.2 vorgeschriebenen Zeitabstände für die nächste vorgeschriebene Sicherheitsprüfung ändern. Bei Fahrzeugen, die wieder zum Verkehr zugelassen werden oder die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, beginnt die Frist mit dem Monat und Jahr der Begutachtung nach § 21. Bei Fahrzeugen mit einer EG-Typgenehmigung, die außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, ist § 8 Absatz 2 der Fahrzeug-Zulassungsverordnung entsprechend anzuwenden. Die Frist endet mit Ablauf des durch die Prüfmarke in Verbindung mit dem SP-Schild nachgewiesenen Monats und Jahres. Diese Frist darf um höchstens einen Monat überschritten werden, wenn die mit der Prüfung beauftragte Stelle trotz rechtzeitig erteilten Auftrags die Sicherheitsprüfung nicht bis zum Ablauf der Frist nach Satz 5 durchführen konnte und dies in dem Prüfprotokoll bestätigt. Wird die Frist zur Durchführung einer Sicherheitsprüfung überschritten und liegt keine Bestätigung nach Satz 6 vor, ist eine Hauptuntersuchung verbunden mit einer Sicherheitsprüfung im Umfang von Nummer 2.3 der Anlage VIIIa durchzuführen.
@@ -3818,16 +3894,13 @@ die unter den Nummern 3.2.5.1.2, 3.2.5.1.6 und 3.2.5.1.11 aufgeführten Daten un
 Untersuchungsstellen zur Durchführung von Hauptuntersuchungen und Untersuchungen der Abgase sowie Sicherheitsprüfungen und wiederkehrenden Gasanlagenprüfungen
 
 4.1  
-Hauptuntersuchungen und Untersuchungen der Abgase der Kraftfahrzeuge nach Nummer 3.1.1.1 sowie Sicherheitsprüfungen und wiederkehrende Gasanlagenprüfungen dürfen von den hierzu berechtigten Personen nur an den Untersuchungsstellen durchgeführt werden, die die Vorschriften der Anlage VIIId erfüllen. Die Untersuchungsstellen der Technischen Prüfstellen und der amtlich anerkannten Überwachungsorganisationen sind der zuständigen obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen unter Angabe der Ausstattungsmerkmale gemäß Anlage VIIId sowie der zu untersuchenden und prüfenden Fahrzeugarten zu melden. Darüber hinaus sind die Prüfstellen und auf Anforderung die anderen Untersuchungsstellen zur Anerkennung zu melden.
+Hauptuntersuchungen und Untersuchungen der Abgase der Kraftfahrzeuge nach Nummer 3.1.1.1 sowie Sicherheitsprüfungen und wiederkehrende Gasanlagenprüfungen dürfen von den hierzu berechtigten Personen nur an den Untersuchungsstellen durchgeführt werden, die die Vorschriften der Anlage VIIId erfüllen. Die Untersuchungsstellen der Technischen Prüfstellen und der amtlich anerkannten Überwachungsorganisationen sind der zuständigen obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen unter Angabe der Ausstattungsmerkmale gemäß Anlage VIIId sowie der zu untersuchenden und prüfenden Fahrzeugarten zu melden. Die Untersuchungsstellen, die die Voraussetzungen nach Anlage VIIId erfüllen, gelten mit der Meldung zur Durchführung von Hauptuntersuchungen, Sicherheitsprüfungen, Untersuchungen der Abgase oder wiederkehrenden Gasanlagenprüfungen als anerkannt.
 
 4.2  
-Die Hauptuntersuchungen durch aaSoP der Technischen Prüfstellen sollen in der Regel in deren Prüfstellen nach Nummer 2.1 der Anlage VIIId, die Hauptuntersuchungen durch die amtlich anerkannten Überwachungsorganisationen sollen in der Regel in Prüfstützpunkten nach Nummer 2.2 der Anlage VIIId oder auf Prüfplätzen nach Nummer 2.3 der Anlage VIIId durchgeführt werden.
-
-4.3  
 Die zuständige oberste Landesbehörde oder die von ihr bestimmten oder nach Landesrecht zuständigen Stellen oder die zuständige Anerkennungsstelle können selbst prüfen oder durch von ihr bestimmte sachverständige Personen oder Stellen prüfen lassen, ob die für die Untersuchungsstellen geltenden Vorschriften eingehalten sind. Technische Prüfstellen und amtlich anerkannte Überwachungsorganisationen müssen die erstmalige Überprüfung jeweils für ihren Bereich selbst durchführen, wenn die nach § 10 Absatz 1 des Kraftfahrsachverständigengesetzes zuständige Stelle oder die nach Nummer 1 der Anlage VIIIb zuständige Anerkennungsstelle sie dazu beauftragt hat; Nummer 4.1 bleibt unberührt. Die regelmäßig wiederkehrende Prüfung von Prüfstützpunkten nach Nummer 2.2 der Anlage VIIId erfolgt hierbei mindestens alle drei Jahre durch die in Nummer 1.1 Satz 1 der Anlage VIIIc genannten Stellen. Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschäftsräume, die zur gemeldeten Untersuchungsstelle gehören, während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und die vorgeschriebenen Aufzeichnungen einzusehen. Der Inhaber der Untersuchungsstelle hat diese Maßnahmen zu dulden, soweit erforderlich die beauftragten Personen dabei zu unterstützen und auf Verlangen die vorgeschriebenen Aufzeichnungen vorzulegen. Der Inhaber der Untersuchungsstelle hat die Kosten der Prüfung zu tragen.
 
-4.4  
-Die nach Nummer 4.3 Satz 3 zuständigen Stellen führen einen Nachweis über die durchgeführten Überprüfungen der Prüfstützpunkte und teilen die Ergebnisse, insbesondere Abweichungen von Nummer 3 der Anlage VIIId, den dort tätigen Technischen Prüfstellen und Überwachungsorganisationen mit.
+4.3  
+Die nach Nummer 4.2 Satz 3 zuständigen Stellen führen einen Nachweis über die durchgeführten Überprüfungen der Prüfstützpunkte und teilen die Ergebnisse, insbesondere Abweichungen von Nummer 3 der Anlage VIIId, den dort tätigen Technischen Prüfstellen und Überwachungsorganisationen mit.
 
 Anlage VIII Nr. 2.6 Satz 2 Kursivdruck: Änderungsanweisung d. Art. 1 Nr. 9 Buchst. j DBuchst. aa V v. 10.5.2012 I 1086 mWv 1.6.2012 nicht durchführbar, sie müsste richtig lauten "In Satz 2 wird das Wort "Zulassungszeitraums" durch das Wort "Betriebszeitraums" ersetzt."
 
@@ -3840,7 +3913,7 @@ Durchführung und Gegenstand der Hauptuntersuchung
 
 Bei der Durchführung der Hauptuntersuchung (HU) hat der amtlich anerkannte Sachverständige oder Prüfer für den Kraftfahrzeugverkehr (im Folgenden als aaSoP bezeichnet) oder der von einer amtlich anerkannten Überwachungsorganisation betraute Prüfingenieur (im Folgenden als PI bezeichnet) die Einhaltung
 
-1. der für diese Untersuchung geltenden Vorschriften des § 29 und der Anlage VIII sowie
+1. der für diese Untersuchung geltenden Vorschriften des § 29 und der Anlage VIII dieser Verordnung sowie der Verordnung über den Betrieb von Kraftfahrunternehmen im Personenverkehr vom 21. Juni 1975 (BGBl. I S. 1573), die zuletzt durch Artikel 1 des Gesetzes vom 16. April 2021 (BGBl. I S. 822) geändert worden ist, sowie
 
 2. der dazu im Verkehrsblatt vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinien
 
@@ -4434,7 +4507,7 @@ die Überwachungsorganisation eine geeignete Stelle im Anerkennungsgebiet unterh
 die Prüfingenieure, die in der Überwachungsorganisation tätig werden sollen, von keiner anderen Überwachungsorganisation betraut sind,
 
 2.1b  
-sie für die gesamte Überwachungsorganisation ein Qualitätsmanagementsystem unterhält, das mindestens den Anforderungen der DIN EN ISO/IEC 17020:2012 entspricht, deren Erfüllung gegenüber der Deutschen Akkreditierungsstelle nachzuweisen ist (Inspektionsstelle Typ A); die Anerkennungsbehörde kann bis zum 30. Juni 2022 von den Nummern 6.2.6, 6.2.7, 6.3 und 7.1.6 der DIN EN ISO/IEC 17020:2012 abweichende Anforderungen zulassen, die zu den Nummern 6.2.6 und 6.2.7 der DIN EN ISO/IEC 17020:2012 durch das Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bestimmt und im Verkehrsblatt öffentlich bekannt gemacht werden, die zu den Nummern 6.3 und 7.1.6 der DIN EN ISO/IEC 17020:2012 durch die Vorschriften dieser Verordnung in der vor dem 3. Juli 2021 geltenden Fassung hierzu ersetzt werden; soweit eine Überwachungsorganisation von den abweichenden Anforderungen zu den Nummern 6.2.6 und 6.2.7 der DIN EN ISO/IEC 17020:2012 Gebrauch macht, weist sie die Einhaltung dieser abweichenden Anforderungen sowie der sonstigen sich aus DIN EN ISO/IEC 17020:2012 ergebenden Anforderungen gegenüber der Deutschen Akkreditierungsstelle nach; die Deutsche Akkreditierungsstelle bestätigt der Überwachungsorganisation die Erfüllung der Anforderungen durch eine Bescheinigung,
+sie für die gesamte Überwachungsorganisation (Inspektionsstelle Typ A) ein Qualitätsmanagementsystem unterhält, das mindestens den Anforderungen der DIN EN ISO/IEC 17020:2012 entspricht, deren Erfüllung gegenüber der Deutschen Akkreditierungsstelle nachzuweisen ist; die Anerkennungsbehörde kann bis zum 30. Juni 2022 von den Nummern 6.2.6, 6.2.7, 6.3 und 7.1.6 der DIN EN ISO/IEC 17020:2012 abweichende Anforderungen zulassen, die zu den Nummern 6.2.6 und 6.2.7 der DIN EN ISO/IEC 17020:2012 durch das Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bestimmt und im Verkehrsblatt öffentlich bekannt gemacht werden, die zu den Nummern 6.3 und 7.1.6 der DIN EN ISO/IEC 17020:2012 durch die Vorschriften dieser Verordnung in der vor dem 3. Juli 2021 geltenden Fassung hierzu ersetzt werden; soweit eine Überwachungsorganisation von den abweichenden Anforderungen zu den Nummern 6.2.6 und 6.2.7 der DIN EN ISO/IEC 17020:2012 Gebrauch macht, weist sie die Einhaltung dieser abweichenden Anforderungen sowie der sonstigen sich aus DIN EN ISO/IEC 17020:2012 ergebenden Anforderungen gegenüber der Deutschen Akkreditierungsstelle nach; die Deutsche Akkreditierungsstelle bestätigt der Überwachungsorganisation die Erfüllung der Anforderungen durch eine Bescheinigung,
 
 2.2  
 die nach Gesetz, Vertrag oder Satzung zur Vertretung der Überwachungsorganisation berufenen Personen persönlich zuverlässig sind,
@@ -4590,6 +4663,9 @@ Für das Verfahren der Anerkennung und des Widerrufs von Kraftfahrzeugwerkstätt
 
 1.3  
 Für die nach Nummer 2.6 vorgeschriebenen Schulungen und Wiederholungsschulungen wird vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der zuständigen obersten Landesbehörden eine Richtlinie im Verkehrsblatt bekannt gemacht.
+
+1.4  
+Zur Vermeidung von Interessenkollisionen dürfen der BIV und die anerkannte Werkstatt, ihre Inhaber, ihre Gesellschafter und ihre nach Gesetz, Vertrag oder Satzung zur Vertretung der anerkannten Werkstatt verantwortlichen Personen sowie ihre Mitarbeitenden nicht mit der Durchführung von hoheitlichen Untersuchungen im Sinne dieser Verordnung, insbesondere mit der Hauptuntersuchung zur Beurteilung des Fahrzeugzustandes, befasst sein. Die Untersuchungen des Motormanagement- oder Abgasreinigungssystems und der Gasanlagen für Antriebssysteme von Kraftfahrzeugen sind hiervon ausgenommen, ebenso die Sicherheitsprüfung sowie die Untersuchungen nach §§ 57b und 57d. Darüberhinausgehende Untersuchungen sind nicht zulässig.
 
 2  
 Allgemeine Voraussetzungen für die Anerkennung von Kraftfahrzeugwerkstätten  
@@ -4772,7 +4848,7 @@ die von ihm benannte Betriebsstätte in ein unabhängiges Qualitätsmanagementsy
 die von ihm benannte Betriebsstätte die Anforderungen des BIV erfüllt. Der BIV muss ein Qualitätsmanagementsystem unterhalten, das mindestens den Anforderungen der DIN EN ISO/IEC 17020:2012 entspricht, dessen Erfüllung gegenüber der Deutschen Akkreditierungsstelle nachzuweisen ist; ist der Antragsteller eine Einrichtung des Bundes, entfällt diese Anforderung.
 
 2.12  
-Zur Vermeidung von Interessenkollisionen dürfen der BIV oder die anerkannte Werkstatt, ihre Inhaber, ihre Gesellschafter und ihre nach Gesetz, Vertrag oder Satzung zur Vertretung der anerkannten Werkstatt verantwortlichen Personen sowie ihre Mitarbeiter nicht mit der Durchführung von hoheitlichen Untersuchungen im Sinne dieser Verordnung, insbesondere mit der Hauptuntersuchung zur Beurteilung des Fahrzeugzustandes, befasst sein. Die Untersuchung des Motormanagement-/Abgasreinigungssystems und die Prüfung der Gasanlagen für Antriebssysteme von Kraftfahrzeugen sind hiervon ausgenommen, ebenso die Sicherheitsprüfung sowie die Untersuchungen nach §§ 57b und 57d. Darüber hinausgehende Untersuchungen sind nicht zulässig.
+(weggefallen)
 
 3  
 Nebenbestimmungen
@@ -4802,7 +4878,7 @@ Aufsicht über anerkannte Kraftfahrzeugwerkstätten
 Die Anerkennungsstellen nach Nummer 1.1 üben die Aufsicht über die anerkannten Kraftfahrzeugwerkstätten aus. Die Anerkennungsstellen können selbst prüfen oder prüfen lassen, ob die SP und/oder die AU und/oder die AUK ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen sind sowie die sich sonst aus der Anerkennung ergebenden Pflichten von den anerkannten Kraftfahrzeugwerkstätten erfüllt werden.
 
 6.2  
-Die Anerkennungsstellen unterhalten ein Qualitätsmanagementsystem im Sinne der DIN EN ISO/IEC 17020:2012, bei dem die Anerkennung von Kraftfahrzeugwerkstätten nach Nummer 1.1 ein Teil des Qualitätsmanagementsystems nach Nummer 2.11 ist. In dem System müssen zusätzlich die folgenden Prozesse und Zuständigkeiten dokumentiert sein:
+Die Anerkennungsstellen, ausgenommen die zuständigen obersten Landesbehörden oder die von ihnen bestimmten oder nach Landesrecht zuständigen Anerkennungsbehörden, unterhalten ein Qualitätsmanagementsystem im Sinne der DIN EN ISO/IEC 17020:2012, bei dem die Anerkennung von Kraftfahrzeugwerkstätten nach Nummer 1.1 ein Teil des Qualitätsmanagementsystems nach Nummer 2.11 ist. In dem System müssen zusätzlich die folgenden Prozesse und Zuständigkeiten dokumentiert sein:
 
 6.2.1  
 System zur Erhebung und Speicherung von Daten
@@ -6074,7 +6150,7 @@ Schadstoffklasse S 6
 
 Zur Schadstoffklasse S 6 gehören Fahrzeuge, die
 
-1. in den Anwendungsbereich der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1) und der Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung (EG) Nr. 715/2007 (ABl. L 199 vom 28.7.2008, S. 1) fallen, den Vorschriften der Verordnung entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in der Tabelle 2 im Anhang I der Verordnung genannten Grenzwerte nicht überschreiten oder
+1. in den Anwendungsbereich der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) (ABl. L 171 vom 29.6.2007, S. 1), die zuletzt durch die Verordnung (EU) Nr. 2018/858 (ABl. L 151 vom 14.6.2018, S. 1) geändert worden ist, in Verbindung mit der Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 199 vom 28.7.2008, S. 1), die zuletzt durch die Verordnung (EU) 2018/1832 (ABl. L 301 vom 27.11.2018, S. 1) geändert worden ist, oder in Verbindung mit der Verordnung (EU) 2017/1151 der Kommission vom 1. Juni 2017 zur Ergänzung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 692/2008 der Kommission sowie der Verordnung (EU) Nr. 1230/2012 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 692/2008 der Kommission (ABl. L 175 vom 7.7.2017, S. 1; L 209 vom 12.8.2017, S. 63; L 56 vom 28.2.2018, S. 66; L 2 vom 6.1.2020, S. 13; L 338 vom 15.10.2020, S. 12), die zuletzt durch die Verordnung (EU) 2020/49 (ABl. L 17 vom 22.1.2020, S. 1) geändert worden ist, fallen und den Vorschriften der vorgenannten Verordnungen entsprechen oder
 
 2. in den Anwendungsbereich der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/76/EG (ABl. L 188 vom 18.7.2009, S. 1) fallen, den Vorschriften der Verordnung entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die im Anhang I der Verordnung genannten Grenzwerte nicht überschreiten oder
 
@@ -7058,208 +7134,246 @@ Veränderungen bei anerkannten Kraftfahrzeugwerkstätten, die ihre Anerkennung b
 9.2  
 Veränderungen bei Schulungsstätten, die Einfluss auf die Schulung haben, sind den in Nummer 7.2 genannten Stellen unaufgefordert zu melden. Bei Zuwiderhandlungen können die in Nummer 8.2 genannten Stellen die Durchführungen von Schulungen untersagen.
 
-# Anlage XVIII – (zu § 57b Absatz 1)Prüfung der Fahrtschreiber und Kontrollgeräte
+# Anlage XVIII – (zu § 57b Absatz 1 und 4)Prüfung der Fahrtenschreiber
 
-(Fundstelle: BGBl. I 2012, 807 - 809)
+  
+  
+
+(Fundstelle: BGBl. 2024 I Nr. 191, S. 12 – 14)
+
+  
+  
 
 1  
-Voraussetzungen für die Prüfung von Fahrtschreibern und Kontrollgeräten
+Allgemeines
 
-1.1  
-Fahrtschreiber und Kontrollgeräte müssen nach Maßgabe des Herstellers eingebaut sein. Fahrtschreiber und Kontrollgeräte müssen im Kraftfahrzeug so angebracht sein, dass für den Fahrer alle notwendigen Funktionen vom Fahrersitz aus zugänglich sind.
-
-1.2  
-Zum Zwecke des Einbaus müssen Kontrollgeräte nach Anhang I B der Verordnung (EWG) Nr. 3821/85 in nicht aktiviertem Zustand geliefert worden sein, wobei alle in Kapitel III Abschnitt 20 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 aufgeführten Kalibrierungsparameter auf geeignete und gültige Standardwerte eingestellt sein müssen. Liegt kein bestimmter Wert vor, müssen Buchstaben-Parameter auf „?“ und numerische Parameter auf „0“ gesetzt sein. Das Kontrollgerät muss vor der Aktivierung kalibrierfähig sein.
-
-1.3  
-Während des Einbaus müssen alle bekannten Parameter voreingestellt worden sein.
-
-1.4  
-Das eingebaute Kontrollgerät muss spätestens am endgültigen Einbaustandort aktiviert worden sein.
-
-1.5  
-Gegebenenfalls erforderliche Koppelungen zwischen dem Weg- und/oder Geschwindigkeitsgeber und der Fahrzeugeinheit müssen automatisch während der Aktivierung des Kontrollgeräts stattfinden. Die Aktivierung des Kontrollgeräts wird durch das erstmalige Einstecken einer Werkstattkarte in eine der beiden Kartenschnittstellen automatisch ausgelöst.
-
-1.6  
-Nach dem Einbau muss eine Kalibrierung erfolgt sein. Bei der Erstkalibrierung, die innerhalb von zwei Wochen nach dem Einbau oder nach der Zuteilung des amtlichen Kennzeichens für das Kraftfahrzeug erfolgt sein muss, je nachdem, welches Ereignis zuletzt eintritt, muss das amtliche Kennzeichen des Kraftfahrzeugs eingegeben worden sein.
+Der Begriff Prüfung der Fahrtenschreiber umfasst die Einbauprüfung und die Nachprüfung.
 
 2  
-Datensicherung bei Reparatur oder Austausch des Kontrollgeräts nach Anhang I B der Verordnung (EWG) Nr. 3821/85
+Voraussetzungen für die Prüfung der Fahrtenschreiber
 
-Wird im Rahmen einer Prüfung ein defektes digitales Kontrollgerät repariert oder ausgetauscht, so hat das Unternehmen, das die Prüfung durchführt, die im Speicher des defekten Geräts befindlichen Daten auf einen Datenträger zu kopieren und hierüber eine Bescheinigung nach dem Muster im Anhang zu dieser Anlage auszustellen. Die kopierten Daten sind bis zur Weitergabe an den Berechtigten, längstens jedoch für die Dauer von zwei Jahren zu speichern und nach der Weitergabe oder nach Fristablauf unverzüglich zu löschen. Ist ein Kopieren der Daten nicht möglich, so ist hierüber ebenfalls eine Bescheinigung nach dem Muster im Anhang zu dieser Anlage auszustellen. Das Unternehmen hat eine Kopie der nach Satz 1 oder Satz 3 ausgestellten Bescheinigungen für die Dauer eines Jahres in Papierform aufzubewahren.
+2.1  
+Analoge Fahrtenschreiber müssen gemäß den Vorgaben des Anhangs I Kapitel 5 Nummer 1 und 2 der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung eingebaut sein.
+
+2.2  
+Digitale Fahrtenschreiber der ersten Generation müssen gemäß den Vorgaben des Anhangs I B Kapitel V Nummer 1 der Verordnung (EWG) Nr. 3821/85 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung eingebaut sein.
+
+2.3  
+Digitale Fahrtenschreiber der zweiten Generation müssen gemäß den Vorgaben des Anhangs I C Nummer 5.1 der Durchführungsverordnung (EU) 2016/799 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung eingebaut sein.
 
 3  
-Art und Gegenstand der Prüfung
+Datensicherung bei Austausch des digitalen Fahrtenschreibers
 
-Bei Kraftfahrzeugen, die mit Fahrtschreibern oder Kontrollgeräten nach § 57b Absatz 1 ausgerüstet sind, ist bei der Einbauprüfung und allen weiteren Prüfungen der Fahrtschreiber und Kontrollgeräte die Einhaltung der Bestimmungen der Verordnung (EWG) Nr. 3821/85 festzustellen.
+Wird im Rahmen einer Prüfung ein defekter digitaler Fahrtenschreiber ausgetauscht, so hat die Werkstatt, die die Prüfung durchführt, die im Speicher des defekten Geräts befindlichen Daten des betroffenen Transportunternehmens herunterzuladen und ihm auf dessen Verlangen zu übermitteln und hierüber eine Bescheinigung nach dem Muster in Nummer 7 auszustellen. Ist ein Herunterladen der Daten nicht möglich, so ist hierüber ebenfalls eine Bescheinigung nach dem Muster in Nummer 7 auszustellen. Die Werkstatt hat eine Kopie der nach Satz 1 oder 3 ausgestellten Bescheinigungen für die Dauer von zwei Jahren ab dem Zeitpunkt der Ausstellung aufzubewahren.
 
 4  
-Durchführung der Prüfung, Nachweise
+Art und Gegenstand der Prüfung der Fahrtenschreiber
 
-4.1  
-Prüfungen nach § 57b Absatz 1 sind nach Maßgabe der Anlage XVIIIa durchzuführen.
-
-4.2  
-Das nach Abschluss der Prüfung anzubringende Einbauschild muss folgende Angaben enthalten:
-
-a) Name, Anschrift oder Firmenzeichen des anerkannten Fahrtschreiber- oder Kontrollgeräteherstellers oder der von diesem beauftragten Kraftfahrzeugwerkstatt oder Name, Anschrift oder Firmenzeichen des anerkannten Fahrzeugherstellers, des anerkannten Fahrzeugimporteurs oder der anerkannten Kraftfahrzeugwerkstatt,
-
-b) Wegimpulszahl des Kraftfahrzeugs in der Form „w = … Imp/km“ bei elektronischem Fahrtschreiber oder Kontrollgerät,
-
-Wegdrehzahl des Kraftfahrzeugs in der Form „w = … U/km“ bei mechanischem Fahrtschreiber oder Kontrollgerät,
-
-c) Konstante des Kontrollgeräts in der Form „k = … Imp/km“,
-
-d) tatsächlicher Reifenumfang in der Form „L = … mm“,
-
-e) Reifengröße,
-
-f) Datum der Bestimmung der Wegimpulszahl des Kraftfahrzeugs und der Messung des tatsächlichen Reifenumfangs,
-
-g) Fahrzeug-Identifizierungsnummer 17-stellig (bei Kontrollgeräten nach Anhang I der Verordnung (EWG) Nr. 3821/85 genügen die letzten acht Zeichen), und bei Verwendung eines Adapters zusätzlich folgende Angaben:
-
-h) Fahrzeugteil, in das der Adapter eingebaut wird,
-
-i) Fahrzeugteil, in das der Weg- oder Geschwindigkeitsgeber eingebaut wird, wenn er nicht an das Getriebe angeschlossen ist,
-
-j) Farbe des Kabels zwischen dem Adapter und dem Fahrzeugteil, das seine Eingangsimpulse bereitstellt, und
-
-k) Seriennummer des eingebetteten Weg- oder Geschwindigkeitsgebers des Adapters.
-
-4.3  
-Über jede durchgeführte Prüfung ist ein Nachweis zu führen. In dem Nachweis sind anzugeben:
-
-a) bei Prüfungen nach § 57b Absatz 1 Halter, Hersteller, Fahrzeug-Identifizierungsnummer (bei Kontrollgeräten nach Anhang I der Verordnung (EWG) Nr. 3821/85 genügen die letzten acht Zeichen) sowie amtliches Kennzeichen des betreffenden Kraftfahrzeugs, das Ergebnis der Prüfung und das Datum der Anbringung des Einbauschilds,
-
-b) bei Einbauprüfungen im Sinne des § 57b Absatz 4 die Fahrzeug-Identifizierungsnummer (bei Kontrollgeräten nach Anhang I der Verordnung (EWG) Nr. 3821/85 genügen die letzten acht Zeichen) des betreffenden Kraftfahrzeugs, das Ergebnis der Prüfung und das Datum der Anbringung des Einbauschilds.
-
-Der Prüfnachweis ist von dem Unternehmen, das die Prüfung durchgeführt hat, drei Jahre lang aufzubewahren und zuständigen Personen auf Verlangen zur Prüfung vorzulegen.
+Bei Kraftfahrzeugen, die mit Fahrtenschreibern ausgerüstet sein müssen, ist bei der Prüfung der Fahrtenschreiber die Einhaltung der jeweiligen Bestimmungen der Verordnung (EWG) Nr. 3821/85, der Verordnung (EU) Nr. 165/2014 und der Durchführungsverordnung (EU) Nr. 2016/799, jeweils in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung, festzustellen.
 
 5  
-Plombierung
+Durchführung der Prüfung der Fahrtenschreiber, Nachweise
 
 5.1  
-Folgende Geräteteile müssen plombiert werden:
-
-a) jeder Anschluss, sofern es bei einer Trennung der Verbindung zu nicht nachweisbaren Änderungen oder nicht feststellbaren Datenverlusten kommen würde, und
-
-b) das Einbauschild, es sei denn, es ist so angebracht, dass es sich nicht ohne Vernichtung der Angaben entfernen lässt.
+Prüfungen sind nach Maßgabe der Anlage XVIIIa durchzuführen. Abweichende Prüfschritte aufgrund bauartbedingter Umstände müssen im Prüfnachweis begründet und dokumentiert werden. In diesen Fällen ist dem Fahrzeughalter eine lesbare Kopie des Prüfnachweises auszuhändigen. Eine Kopie des Prüfnachweises ist zuständigen Personen auf Verlangen vorzulegen.
 
 5.2  
-Die genannten Plombierungen dürfen entfernt werden:
+Das nach Abschluss der Prüfung anzubringende Einbauschild muss folgende Angaben enthalten:
 
-a) in Notfällen,
+a) Name, Anschrift oder Firmenzeichen des anerkannten Fahrtenschreiberherstellers oder der von diesem beauftragten Kraftfahrzeugwerkstatt oder Name, Anschrift oder Firmenzeichen des anerkannten Fahrzeugherstellers oder des anerkannten Fahrzeugimporteurs,
 
-b) um einen Geschwindigkeitsbegrenzer oder ein anderes der Sicherheit im Straßenverkehr dienendes Gerät einzubauen, zu justieren oder zu reparieren, sofern das Kontrollgerät auch dann noch zuverlässig und ordnungsgemäß arbeitet und von einem anerkannten Fahrtschreiber- oder Kontrollgerätehersteller, einer von diesem beauftragten Werkstatt oder von einer anerkannten Werkstatt unmittelbar nach dem Einbau des Geschwindigkeitsbegrenzers oder des anderen der Sicherheit im Straßenverkehr dienenden Geräts, spätestens jedoch sieben Tage nach der Entfernung, wieder plombiert wird,
+b) Wegimpulszahl des Kraftfahrzeugs in der Form „w = … Imp/km“ bei der Messung von Impulsen je Kilometer,
 
-c) zur Prüfung der Funktion des Geschwindigkeitsbegrenzers im Rahmen der Hauptuntersuchung nach § 29 durch den amtlich anerkannten Sachverständigen oder Prüfer oder Prüfingenieur; die Plombierung ist durch den amtlich anerkannten Sachverständigen oder Prüfer oder Prüfingenieur unmittelbar nach Abschluss der Funktionsprüfung des Geschwindigkeitsbegrenzers wieder herzustellen.
+c) Wegdrehzahl des Kraftfahrzeugs in der Form „w = … U/km“ bei der Messung der Umdrehungen der Räder je Kilometer,
+
+d) Konstante des Fahrtenschreibers in der Form „k = … Imp/km“,
+
+e) tatsächlicher Reifenumfang in der Form „L = … mm“,
+
+f) Reifengröße,
+
+g) Datum der Bestimmung der Wegimpulszahl des Kraftfahrzeugs und der Messung des tatsächlichen Reifenumfangs,
+
+h) Fahrzeug-Identifizierungsnummer 17-stellig; bei analogen Fahrtenschreibern genügen die letzten acht Zeichen,
+
+i) bei Verwendung eines Adapters zusätzlich folgende Angaben:
+
+aa)  
+Fahrzeugteil, in das der Adapter eingebaut wird,
+
+bb)  
+Fahrzeugteil, in das der Weg- oder Geschwindigkeitsgeber eingebaut wird, wenn er nicht an das Getriebe angeschlossen ist,
+
+cc) Farbe des Kabels zwischen dem Adapter und dem Fahrzeugteil, das seine Eingangsimpulse bereitstellt, und
+
+dd)  
+Seriennummer des eingebetteten Weg- oder Geschwindigkeitsgebers des Adapters,
+
+j) bei digitalen Fahrtenschreibern zusätzlich folgende Angaben:
+
+aa)  
+Vorhandensein oder Nichtvorhandensein einer externen GNSS-Ausrüstung,
+
+bb)  
+Seriennummer der externen GNSS-Ausrüstung,
+
+cc) Seriennummer der Fernkommunikationsausrüstung,
+
+dd)  
+Seriennummern aller vorhandenen Plombierungen.
+
+5.2.1  
+Bei Fahrzeugen der Klassen M<sub>1</sub> und N<sub>1</sub>, die mit einem Adapter nach Anhang IC Nummer 1 Doppelbuchstabe yy der Durchführungsverordnung (EU) 2016/799 oder Anhang IB Kapitel I Doppelbuchstabe rr der Verordnung (EWG) Nr. 3821/85, jeweils in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung, ausgestattet sind und bei denen das Einbauschild nicht alle der in Nummer 4.2 genannten Angaben enthalten kann, kann ein zweites zusätzliches Einbauschild verwendet werden. In diesen Fällen muss das zusätzliche Einbauschild mindestens die Angaben nach Nummer 4.2 Buchstabe i enthalten, plombiert sein, falls es sich nicht ohne Vernichtung der Angaben entfernen lässt, und an oder neben dem ersten Einbauschild angebracht werden. Ein zweites Einbauschild muss zudem Name, Anschrift oder Firmenzeichen des anerkannten Einbaubetriebes oder der beauftragten Werkstatt, der oder die den Einbau vorgenommen hat, sowie das Einbaudatum tragen.
 
 5.3  
-Jede Verletzung der Plombierung muss Gegenstand einer schriftlichen Begründung sein. Die Begründung ist für die Dauer von drei Jahren aufzubewahren und den zuständigen Personen auf Verlangen zur Prüfung vorzulegen.
+Über jede durchgeführte Prüfung ist ein Nachweis zu führen. In dem Nachweis sind Halter, Hersteller, Fahrzeug-Identifizierungsnummer sowie amtliches Kennzeichen des Kraftfahrzeugs, das Ergebnis der Prüfung und das Datum der Anbringung des Einbauschilds anzugeben. Bei analogen Fahrtenschreibern genügt die Angabe der letzten acht Zeichen der Fahrzeug-Identifizierungsnummer.
 
-Wird bei einem Kraftfahrzeug das Kontrollgerät ausgetauscht oder besteht die Möglichkeit, dass nach einer Reparatur nicht mehr auf die im Massenspeicher gespeicherten Daten zugegriffen werden kann, ist das betroffene Transportunternehmen davon in Kenntnis zu setzen, dass die im Kontrollgerät gespeicherten Daten entweder heruntergeladen worden sind und diesem Unternehmen auf Verlangen zur Verfügung gestellt werden, oder dass die im Kontrollgerät gespeicherten Daten nicht heruntergeladen werden konnten. Dies hat durch die Ausstellung einer Bescheinigung nach dem beigefügten Muster zu erfolgen. Bescheinigungen können in „Heftform“ und nach Bedarf in zwei- oder dreifacher Ausfertigung erstellt werden. Sie sind in der Überschrift mit der Länderkennzahl 1 für Deutschland und einer fortlaufenden Nummerierung zu versehen, die durch Schrägstrich von der Länderkennzahl abzugrenzen ist. Das Original ist zusammen mit der Rechnung für die ausgeführten Arbeiten dem Fahrer auszuhändigen oder kann dem Transportunternehmen per Post zugeleitet werden. Eine Ausfertigung verbleibt im Heft und wird bei dem Unternehmen, das die Bescheinigung ausgestellt hat, zur Prüfung durch die zuständige Behörde verwahrt.
+Bei Einbauprüfungen nach § 57b Absatz 4 entfällt die Pflicht zur Angabe von Halter, Hersteller und amtlichem Kennzeichen des Kraftfahrzeugs. Der Prüfnachweis ist von dem Unternehmen, das die Prüfung durchgeführt hat, drei Jahre aufzubewahren und zuständigen Personen auf Verlangen zur Kontrolle vorzulegen.
 
-Die Bescheinigung ist zu unterschreiben und mit einem Firmenstempel zu versehen.
+6  
+Plombierung
+
+Die Plombierung der Geräteteile hat zu erfolgen:
+
+a) für analoge Fahrtenschreiber nach Anhang I Kapitel V Nummer 4 der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung,
+
+b) für digitale Fahrtenschreiber der ersten Generation nach Anhang I B Kapitel V Nummer 3 der Verordnung (EWG) Nr. 3821/85 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung,
+
+c) für digitale Fahrtenschreiber der zweiten Generation nach Anhang I C Kapitel 5.3 der Durchführungsverordnung (EU) Nr. 2016/799 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung.
+
+7  
+Muster für eine Bescheinigung über das Herunterladen von Daten/über die Unmöglichkeit des Herunterladens von Daten
+
+Für eine Bescheinigung über das Herunterladen von Daten/über die Unmöglichkeit des Herunterladens von Daten ist das nachfolgende Muster zu verwenden:
+
+  
+  
+
+|                                                                                                                                                  |
+|:------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                      Muster                                                                      |
+|                                                           Bescheinigung Nummer: 1/XXXX                                                           |
+|                                                            Digitale Fahrtenschreiber                                                             |
+|                                                 Bescheinigung über das Herunterladen von Daten/                                                  |
+| über die Unmöglichkeit des Herunterladens von Daten<span id="FnR.FnA1-F830186_03"></span><a href="#FnA1-F830186_03" class="FnR">*</a></sup> |
+|                                                                                                                                                  |
 
 1  
-Das Kontrollgerät, das nachfolgend unter Nummer 2 beschrieben ist und im Fahrzeug mit dem amtlichen Kennzeichen:     .......... eingebaut war/ist<a href="#F776225_T5_02" class="FnR">*)</a></sup> , wurde ausgetauscht/repariert<a href="#F776225_T5_02" class="FnR">*)</a></sup> am: (Datum)     ..........
+<table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Der Fahrtenschreiber, der nachfolgend unter Nummer 2 beschrieben ist und im Fahrzeug mit dem amtlichen Kennzeichen: .......... eingebaut war/ist*, wurde ausgetauscht<br />
+am: (Datum) ..........</td><td style="text-align: right;"> </td></tr></tbody></table>
 
-  
-  
-
-Angaben zum Kontrollgerät
+|                              |
+|:----------------------------:|
+| Angaben zum Fahrtenschreiber |
 
 2  
-Hersteller:     ..........
+Hersteller: ..........
 
-Modell:     .......... Seriennummer:     ..........
+Modell: .......... Seriennummer: ..........
 
 3  
-Die im Kontrollgerät gespeicherten Daten<a href="#F776225_T5_02" class="FnR">*)</a></sup>
+Die im Fahrtenschreiber gespeicherten Daten<a href="#FnA1-F830186_03" class="FnR">*</a></sup>
 
 a) wurden heruntergeladen und können zur Verfügung gestellt werden (siehe nachfolgende Bemerkungen)
 
 b) konnten nicht heruntergeladen werden und sind daher nicht verfügbar,
 
 –  
-weil     ..........
+weil ..........
 
 –  
-folgende Versuche zur Reparatur des Kontrollgeräts, die ein Herunterladen der Daten ermöglichen sollten, wurden unternommen:     ..........
+folgende Versuche zur Reparatur des Fahrtenschreibers, die ein Herunterladen der Daten ermöglichen sollten, wurden unternommen: ..........
 
 Bemerkungen
 
-(a) Heruntergeladene Daten können nur dem betroffenen Transportunternehmen zur Verfügung gestellt werden, das heißt dem Unternehmen, das sich mittels einer Unternehmenskarte in das Kontrollgerät eingeloggt hat.
+(a) Heruntergeladene Daten dürfen nur dem betroffenen Transportunternehmen zur Verfügung gestellt werden, das heißt dem Unternehmen, das sich mittels einer Unternehmenskarte in den Fahrtenschreiber eingeloggt hat.
 
-(b) Nur Daten, die sich auf das betroffene Transportunternehmen beziehen, können diesem Unternehmen zur Verfügung gestellt werden.
+(b) Nur Daten, die sich auf das betroffene Transportunternehmen beziehen, dürfen diesem Unternehmen zur Verfügung gestellt werden.
 
-(c) Für den Zugriff auf die Daten ist ein Berechtigungsnachweis erforderlich.
+(c) Die Daten werden nur für einen Zeitraum von zwei Jahren ab dem unter Nummer 1 genannten Tag aufbewahrt und nach Ablauf dieses Zeitraums vernichtet.
 
-(d) Die Daten werden nur auf Antrag übermittelt. Der Antrag ist schriftlich an die unten genannte Adresse des Unternehmens zu richten, das die Daten zur Übermittlung bereithält. In dem Antrag ist anzugeben, wie die Daten übermittelt werden sollen (zum Beispiel per Einschreiben, E-Mail etc.).
+(d) Für den Zugriff auf die gespeicherten Daten ist ein Berechtigungsnachweis erforderlich.
 
-(e) Die Daten werden nur für einen Zeitraum von zwei Jahren ab dem unter Nummer 1 genannten Tag aufbewahrt und nach Ablauf dieses Zeitraums vernichtet.
-
-(f) Für die Übermittlung der Daten wird ein Entgelt in Höhe von Euro    .......... erhoben.
+(e) Die gespeicherten Daten werden nur auf Antrag übermittelt. Der Antrag ist schriftlich an die unten genannte Adresse des Unternehmens zu richten, das die Daten zur Übermittlung bereithält. In dem Antrag ist anzugeben, wie die Daten übermittelt werden sollen (zum Beispiel per Einschreiben, E-Mail etc.).
 
 Unternehmen, das die Daten zur Übermittlung bereithält:
 
-Datum, Unterschrift, Firmenstempel  
+  
+  
+Datum, Unterschrift, Firmenstempel
 
-# Anlage XVIIIa – (zu § 57b Absatz 1)Durchführung der Prüfungen von Fahrtschreibern und Kontrollgeräten
+<span id="FnA1-F830186_03"></span><a href="#FnR.FnA1-F830186_03" class="Footnote">*</a>  
+Nichtzutreffendes streichen
 
-(Fundstelle: BGBl. I 2012, 810 - 813)
+\_\_\_\_\_\_\_\_\_\_
+
+# Anlage XVIIIa – (zu § 57b Absatz 1 und 4)Durchführung der Prüfungen der Fahrtenschreiber und Kontrollgeräten
+
+  
+  
+
+(Fundstelle: BGBl. 2024 I Nr. 191, S. 15 – 18)
+
+  
+  
 
 1  
 Allgemeines
 
-Prüfungen der Fahrtschreiber und Kontrollgeräte sind nach den Vorschriften dieser Anlage unter Beachtung der gegebenenfalls dazu im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland – veröffentlichten Richtlinien durchzuführen.
+1.1  
+Der Begriff Prüfung der Fahrtenschreiber umfasst die Einbauprüfung und die Nachprüfung.
+
+1.2  
+Prüfungen der Fahrtenschreiber sind nach dieser Anlage unter Beachtung der gegebenenfalls dazu im Verkehrsblatt – Amtsblatt des Bundesministeriums für Digitales und Verkehr der Bundesrepublik Deutschland – veröffentlichten Richtlinien durchzuführen.
 
 2  
 Prüfungsfälle
 
 2.1  
-Prüfungen von Fahrtschreibern und Kontrollgeräten nach § 57b sind durchzuführen
+Eine Einbauprüfung ist nach jedem Einbau eines Fahrtenschreibers durchzuführen.
 
-a) nach dem Einbau,
+Eine Nachprüfung ist durchzuführen
 
-b) mindestens einmal innerhalb von zwei Jahren nach der letzten Prüfung,
+a) unverzüglich nach jeder Reparatur an der Fahrtenschreiberanlage,
 
-c) nach jeder Reparatur an der Fahrtschreiber- oder Kontrollgeräteanlage,
+b) unverzüglich nach jeder Änderung der Wegdrehzahl oder Wegimpulszahl des Kraftfahrzeugs,
 
-d) nach jeder Änderung der Wegdrehzahl/Wegimpulszahl des Kraftfahrzeugs und
+c) unverzüglich nach jeder Änderung des wirksamen Reifenumfangs des Kraftfahrzeugs, die sich aus der Änderung der Reifengröße ergibt,
 
-e) nach jeder Änderung des wirksamen Reifenumfangs des Kraftfahrzeugs, die sich aus der Änderung der Reifengröße ergibt.
+d) bei jedem Ersetzen einer Plombierung nach Artikel 22 der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung,
+
+e) mindestens einmal innerhalb von 24 Monaten seit der letzten Einbauprüfung oder Nachprüfung.
 
 2.2  
-An Kontrollgeräten nach Anhang I B der Verordnung (EWG) Nr. 3821/85 sind zusätzlich Prüfungen durchzuführen
+Eine Nachprüfung eines digitalen Fahrtenschreibers ist zusätzlich durchzuführen, wenn
 
-a) nach jeder Änderung des amtlichen Kennzeichens des Kraftfahrzeugs oder
+a) die am Fahrtenschreiber als koordinierte Weltzeit eingestellte Uhrzeit von der koordinierten Weltzeit um mehr als 20 Minuten abweicht oder
 
-b) wenn die UTC-Zeit von der korrekten Zeit um mehr als 20 Minuten abweicht.
+b) sich das amtliche Kennzeichen des Kraftfahrzeugs geändert hat.
 
 3  
-Durchführung der Prüfung
+Durchführung der Prüfung der Fahrtenschreiber
 
 3.1  
-Einbauprüfungen, Nachprüfungen und Reparaturen von Fahrtschreibern und Kontrollgeräten nach Anhang I der Verordnung (EWG) Nr. 3821/85
+Prüfung von analogen Fahrtenschreibern
 
 3.1.1  
-Einbau, Funktionsprobe und Nachprüfung (bei Prüfungen nach Nummer 2.1).
+Einbau, Funktionsprobe, Plombierung und Überprüfung der angeglichenen Wegdrehzahl oder Wegimpulszahl
 
 3.1.1.1  
-Der Fahrtschreiber oder das Kontrollgerät ist in das Fahrzeug einzubauen sowie mechanisch und elektrisch anzuschließen.
+Der Fahrtenschreiber ist in das Fahrzeug einzubauen sowie mechanisch und elektrisch anzuschließen.
 
 3.1.1.2  
-Es ist eine Funktionsprobefahrt durchzuführen (entfällt bei Rollenprüfstand).
+Es ist eine Funktionsprobefahrt durchzuführen. Diese kann auch auf einem dafür geeigneten Rollenprüfstand durchgeführt werden.
 
 3.1.1.3  
-Die Anlage ist an den lösbaren mechanischen oder elektrischen Verbindungen mit Plombenzeichen zu plombieren.
+Die Anlage ist mit einem Plombenzeichen zu plombieren.
 
 3.1.1.4  
-Bei Nachprüfungen des eingebauten Fahrtschreibers oder Kontrollgeräts in den Fällen der Nummer 2.1 Buchstabe b bis e wird die angeglichene Wegdrehzahl geprüft und im Einbauschild unter w eingetragen; bei Fahrtschreibern oder Kontrollgeräten mit elektronischer Angleichung der Gerätekonstante an die Wegimpulszahl des Fahrzeugs wird die Wegimpulszahl geprüft und im Einbauschild unter w eingetragen.
+Bei jeder Nachprüfung eines eingebauten Fahrtenschreibers ist die angeglichene Wegdrehzahl zu überprüfen und im Einbauschild unter w einzutragen. Bei Fahrtenschreibern mit elektronischer Angleichung der Gerätekonstante an die Wegimpulszahl des Fahrzeugs ist die Wegimpulszahl zu prüfen und im Einbauschild unter w einzutragen.
 
 3.1.2  
-Angleichung des Fahrtschreibers oder des Kontrollgeräts an das Kraftfahrzeug
+Angleichung des Fahrtenschreibers an das Kraftfahrzeug
 
 3.1.2.1  
 Die Gerätekonstante auf dem Einbauschild ist festzustellen.
@@ -7268,184 +7382,120 @@ Die Gerätekonstante auf dem Einbauschild ist festzustellen.
 Das Wegdrehzahl- oder Wegimpulsmessgerät ist am Fahrzeug anzuschließen, danach ist das Fahrzeug abzurollen.
 
 3.1.2.3  
-Die Wegdrehzahl/Wegimpulszahl w ist auf einer geeigneten ebenen Prüfstrecke von mindestens 40 m festzustellen; ersatzweise kann eine 20 m lange Messstrecke bei Verwendung eines elektronischen Wegimpulszahlmessgeräts gewählt werden.
+Die Wegdrehzahl oder Wegimpulszahl w ist auf einer geeigneten ebenen Prüfstrecke von mindestens 20 Meter in Verbindung mit einer Lichtschrankenmessung festzustellen.
 
 3.1.2.4  
-Die Messung der Wegdrehzahl/Wegimpulszahl w kann auch auf einem für diese Zwecke geeigneten Rollenprüfstand durchgeführt werden (w = Anzahl der Umdrehungen oder Impulse des Geräteanschlusses am Fahrzeug bezogen auf eine Wegstrecke von 1 km).
+Die Messung der Wegdrehzahl oder Wegimpulszahl w kann auch auf einem für diese Zwecke geeigneten Rollenprüfstand durchgeführt werden.
 
 3.1.2.5  
-Bei Fahrtschreibern und Kontrollgeräten mit mechanischer Angleichung ist die Wegdrehzahl w an Gerätekonstante k innerhalb ± 2 % so anzugleichen, dass das Gerät im eingebauten Zustand die Fehlergrenze nach Anhang I Kapitel III Buchstabe f Nummer 2 der Verordnung (EWG) Nr. 3821/85 einhalten kann. Die Angleichung ist mittels Zwischengetriebe vorzunehmen und auf Einhaltung der Fehlergrenzen zu überprüfen. Bei Fahrtschreibern oder Kontrollgeräten mit elektronischer Angleichung der Gerätekonstante an die Wegimpulszahl des Fahrzeugs sind ebenfalls die Fehlergrenzen nach Anhang I Kapitel III Buchstabe f Nummer 2 der Verordnung (EWG) Nr. 3821/85 einzuhalten.
+Bei Fahrtenschreibern mit mechanischer Angleichung ist die Wegdrehzahl (w) an die Gerätekonstante (k) innerhalb ± 2 Prozent so anzugleichen, dass das Gerät im eingebauten Zustand die Fehlergrenze nach Anhang I Kapitel III Buchstabe f Nummer 2 der Verordnung (EU) Nr.165/2014 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung einhalten kann. Die Angleichung ist mittels eines Zwischengetriebes vorzunehmen und auf Einhaltung der Fehlergrenzen zu überprüfen. Bei Fahrtenschreibern mit elektronischer Angleichung der Gerätekonstante an die Wegimpulszahl des Fahrzeugs sind ebenfalls die Fehlergrenzen nach Anhang I Kapitel III Buchstabe f Nummer 2 der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung einzuhalten.
 
 3.1.2.6  
 Die Messung des Fahrzeugs ist wie folgt vorzunehmen:
 
-a) mit unbeladenem Fahrzeug in fahrbereitem Zustand nur mit einem Fahrer besetzt,
+a) mit unbeladenem Fahrzeug in fahrbereitem Zustand mit nur einem Fahrer besetzt,
 
 b) mit verkehrssicheren Fahrzeugreifen und dem vom Fahrzeughersteller empfohlenen Innendruck,
 
 c) durch nachfolgend beschriebene Bewegung des Fahrzeugs:
 
-Das Fahrzeug muss sich mit eigener Motorkraft geradlinig auf ebenem Gelände und mit einer Geschwindigkeit von 50 ± 5 km/h fortbewegen. Die Messstrecke muss mindestens 1 000 m betragen.
-
-Die Prüfung kann auch mit anderen Methoden, wie zum Beispiel auf einem Prüfstand durchgeführt werden, sofern eine vergleichbare Genauigkeit gewährleistet ist.
+Das Fahrzeug muss sich mit eigener Motorkraft geradlinig auf ebenem Gelände und mit einer Geschwindigkeit von mindestens 5 km/h fortbewegen. Die Prüfung kann auch mit anderen Methoden, beispielsweise auf einem Prüfstand, durchgeführt werden, sofern eine vergleichbare Genauigkeit gewährleistet ist.
 
 3.1.2.7  
-Der nach Nummer 3.1.2.6 Buchstabe a und b zu berücksichtigende Normalzustand des Fahrzeugs kann aus anderen betrieblichen Zuständen des Fahrzeugs durch Korrektur der zugehörigen Messwerte rechnerisch angenähert sein (vgl. die Korrekturwerte bzw. die Korrekturtabellen der Fahrtschreiberhersteller).
+Der nach Nummer 3.1.2.6 Buchstabe a und b zu berücksichtigende Normalzustand des Fahrzeugs kann aus anderen betrieblichen Zuständen des Fahrzeugs durch Korrektur der zugehörigen Messwerte rechnerisch angenähert sein (vgl. die Korrekturwerte bzw. die Korrekturtabellen der Fahrtenschreiberhersteller).
 
 3.1.2.8  
-Die Antriebswelle ist auf gute Verlegung und einwandfreien Lauf zu prüfen.
+Die Antriebswelle ist hinsichtlich ihrer sicheren Anbringung und auf einwandfreien Lauf zu prüfen.
 
 3.1.3  
-Untersuchung des Fahrtschreibers oder des Kontrollgeräts auf Eigenfehler (bei Prüfungen nach Nummer 2.1 Buchstabe a bis c)
+Überprüfung des Fahrtenschreibers auf Eigenfehler bei Einbauprüfungen und Nachprüfungen nach Nummer 2.1 Satz 2 Buchstabe b und e.
 
 3.1.3.1  
-Das Schaublatt ist mit den Fahrzeugdaten und Datum auszufüllen und in den Fahrtschreiber oder in das Kontrollgerät einzulegen.
+Das Schaublatt ist mit den Fahrzeugdaten und dem Datum auszufüllen und in den Fahrtenschreiber einzulegen.
 
 3.1.3.2  
-Der Fahrtschreiber oder das Kontrollgerät ist als separate Komponente mit einem Prüfgerät zu kontrollieren; dabei dürfen die Abweichungen höchstens betragen:
-
-a) zurückgelegte Wegstrecke:
-
-± 1 %, bezogen auf 1 000 m,
-
-b) Geschwindigkeit:
-
-± 3 km/h (gilt bis Messbereich 125 km/h),
-
-c) Zeit:
-
-± 2 Minuten pro Tag oder
-
-± 10 Minuten nach sieben Tagen.
+Der Fahrtenschreiber ist ohne Impulsgeber und Kabel mit einem Prüfgerät zu kontrollieren. Dabei ist die Einhaltung der Abweichungen nach Anhang I Kapitel III Buchstabe f Nummer 1 der Verordnung (EU) Nr.165/2014 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung zu überprüfen.
 
 3.1.3.3  
 Es ist ein Prüfdiagramm wie folgt zu erstellen:
 
-a) Es sind drei Messpunkte nach Geschwindigkeitsanzeige anzufahren (zum Beispiel 40, 80, 120 für Messbereich 125 km/h).
+a) Es müssen drei Messpunkte nach Geschwindigkeitsanzeige geprüft werden, beispielsweise 40 km/h, 80 km/h und 120 km/h für den Messbereich bis 125 km/h.
 
-b) Leitliniendiagramm
+b) Das Prüfgerät ist kurzzeitig bis zum Endpunkt hochzufahren und nach ca. 60 Sekunden auszuschalten = zeitlose Abfalllinie.
 
-Es ist kurzzeitig bis zum Endpunkt hochzufahren und das Prüfgerät ist nach ca. 60 Sekunden auszuschalten = zeitlose Abfalllinie.
+c) Das Prüfgerät ist wieder bis zum Endpunkt hochzufahren und danach in drei Stufen mit jeweils 60 Sekunden Verharrung auf jeden Messpunkt abwärts zu schreiben.
 
-c) Es ist wieder bis zum Endpunkt hochzufahren und danach in drei Stufen mit jeweils 60 Sekunden Verharrung auf jeden Messpunkt abwärts zu schreiben.
-
-d) Das Prüfschaublatt ist durch ein Auswertgerät mit Lupe zu kontrollieren.
-
-Bei nichtauswertbarem Aufschrieb muss der Fahrtschreiber oder das Kontrollgerät instand gesetzt werden; anschließend ist die Überprüfung nach Nummer 3.1.3 zu wiederholen.
+d) Das Prüfschaublatt ist durch ein Auswertgerät zu kontrollieren. Bei nichtauswertbarem Aufschrieb muss der Fahrtenschreiber instand gesetzt werden. Anschließend ist die Überprüfung nach Nummer 3.1.3 zu wiederholen.
 
 3.1.3.4  
-Die Prüfung nach Nummer 3.1.3 entfällt beim Einbau, wenn die Prüfung bereits vom Gerätehersteller vorgenommen wurde und nicht länger als ein Jahr zurückliegt.
+Die Überprüfung nach Nummer 3.1.3 entfällt beim Einbau, wenn die Prüfung auf Eigenfehler bereits vom Fahrtenschreiberhersteller vorgenommen wurde und nicht länger als ein Jahr zurückliegt.
 
 3.2  
-Einbauprüfungen, Nachprüfungen und Reparaturen von Kontrollgeräten nach Anhang I B der Verordnung (EWG) Nr. 3821/85
+Prüfung der digitalen Fahrtenschreiber der ersten Generation
 
 3.2.1  
-Bei neuen oder reparierten Kontrollgeräten wird die ordnungsgemäße Arbeitsweise und die Genauigkeit der Anzeigen und Aufzeichnungen innerhalb der in den Nummern 3.2.5.1 und 3.2.5.2 festgelegten Fehlergrenzen durch die vom Hersteller oder der Werkstatt vorgenommene Plombierung bestätigt und muss beim Einbau oder der Eingabe des Fahrzeugkennzeichens nicht nochmals überprüft werden, sondern es sind lediglich die Prüfungen nach Nummer 3.2.3 Buchstabe c bis f durchzuführen.
-
-3.2.2  
 Einbauprüfung
 
-Beim Einbau in ein Fahrzeug muss die Gesamtanlage (einschließlich Kontrollgerät) den Vorschriften über die in den Nummern 3.2.5.1 und 3.2.5.2 festgelegten Fehlergrenzen entsprechen.
+Nach dem Einbau in ein Fahrzeug muss der Fahrtenschreiber die in Anhang I B Kapitel III Nummer 2.1 und 2.2 der Verordnung (EWG) Nr. 3821/85 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung genannten Fehlergrenzen einhalten.
+
+3.2.2  
+Nachprüfung
+
+Die Nachprüfung umfasst mindestens die Überprüfung:
+
+a) der ordnungsgemäßen Arbeitsweise des Fahrtenschreibers einschließlich der Datenspeicherung auf den Fahrtenschreiberkarten,
+
+b) der Einhaltung der in Anhang I B Kapitel III Nummer 2.1 und 2.2 der Verordnung (EWG) Nr. 3821/85 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung genannten Fehlergrenzen des Geräts in eingebautem Zustand,
+
+c) des Vorhandenseins des Prüfzeichens auf der Fahrzeugeinheit,
+
+d) des Vorhandenseins des Einbauschilds nach Nummer 4.2 der Anlage XVIII,
+
+e) der Unversehrtheit der Plombierung des Geräts und der anderen Einbauteile,
+
+f) der Reifengröße und des tatsächlichen Reifenumfangs,
+
+g) der Abwesenheit von Manipulationsgeräten.
+
+Falls sich erweist, dass seit der letzten Prüfung eines der Ereignisse oder eine der Störungen aufgetreten ist, das oder die von den Herstellern von Fahrtenschreibern oder nationalen Behörden als potenzielle Bedrohung der Sicherheit des Gerätes betrachtet wird, sind von der Werkstatt folgende Maßnahmen zu treffen:
+
+a) Vergleich zwischen den Kenndaten des an das Getriebe angeschlossenen Bewegungssensors und jenen des gekoppelten und in der Fahrzeugeinheit registrierten Sensors,
+
+b) Überprüfung der Übereinstimmung der Informationen auf dem Einbauschild mit den in den Aufzeichnungen der Fahrzeugeinheit enthaltenen Informationen,
+
+c) Vergleich der Seriennummer und der Genehmigungsnummer des Bewegungssensors, sofern auf dessen Gehäuse aufgedruckt, auf Übereinstimmung mit den in dem Massenspeicher der Fahrzeugeinheit enthaltenen Informationen.
+
+Zulassungsbedingte Vorgaben der jeweiligen Hersteller sind ebenfalls einzuhalten. Die Werkstätten halten etwaige Kenntnisse in Bezug auf aufgebrochene Plomben oder Manipulationsgeräte in ihren Prüfnachweisen fest. Bestandteil der Nachprüfung muss eine Kalibrierung nach Nummer 3.2.3.5 sein.
 
 3.2.3  
-Regelmäßige Nachprüfung
+Messung der Anzeigefehler, der zurückgelegten Wegstrecke und der Geschwindigkeit sowie Kalibrierung
 
-Regelmäßige Nachprüfungen müssen bei jedem der unter Nummer 2 aufgeführten Prüfungsfälle erfolgen. Überprüft werden mindestens:
+3.2.3.1  
+Die Messung der Anzeigefehler beim Einbau und während der Benutzung hat nach den in Anhang I B Kapitel VI Nummer 5 der Verordnung (EWG) Nr. 3821/85 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung genannten Vorgaben zu erfolgen.
 
-a) die ordnungsgemäße Arbeitsweise des Kontrollgeräts einschließlich der Datenspeicherung auf den Kontrollgerätkarten,
+3.2.3.2  
+Die Messung der zurückgelegten Wegstrecke hat nach den in Anhang I B Kapitel III Nummer 2.1 der Verordnung (EWG) Nr. 3821/85 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung genannten Vorgaben zu erfolgen. Es sind 1000 Meter zu fahren und zu dokumentieren.
 
-b) die Einhaltung der in den Nummern 3.2.5.1 und 3.2.5.2 aufgeführten Fehlergrenzen des Geräts in eingebautem Zustand,
+3.2.3.3  
+Die Messung der Geschwindigkeit hat nach den in Anhang I B Kapitel III Nummer 2.2 der Verordnung (EWG) Nr. 3821/85 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung genannten Vorgaben zu erfolgen. Es sind drei Messpunkte der Geschwindigkeitsanzeige anzufahren und zu dokumentieren.
 
-c) das Vorhandensein des Prüfzeichens auf dem Kontrollgerät,
+3.2.3.4  
+Gerätespezifische Prüfabläufe müssen nach den Vorgaben der Hersteller von Fahrzeugeinheiten oder Komponenten erfolgen.
 
-d) das Vorhandensein des Einbauschilds,
-
-e) die Unversehrtheit der Plombierung des Geräts und der anderen Einbauteile,
-
-f) die Reifengröße und der tatsächliche Reifenumfang.
-
-Bestandteil der Überprüfung muss eine Kalibrierung nach Nummer 3.3 sein.
-
-3.2.4  
-Messung der Anzeigefehler
-
-Die Messung der Anzeigefehler beim Einbau und während der Benutzung wird unter folgenden Bedingungen, die als normale Prüfbedingungen anzusehen sind, durchgeführt:
-
-a) unbeladenes Fahrzeug in fahrbereitem Zustand,
-
-b) Reifendrücke gemäß Angaben des Herstellers,
-
-c) Reifenabnutzung innerhalb der zulässigen Grenzen der Straßenverkehrs-Zulassungs-Ordnung,
-
-d) Bewegung des Fahrzeugs:
-
-Das Fahrzeug muss sich mit eigener Motorkraft geradlinig auf ebenem Gelände und mit einer Geschwindigkeit von 50 ± 5 km/h fortbewegen. Die Messstrecke muss mindestens 1 000 m betragen.
-
-Die Prüfung kann auch mit anderen Methoden, wie zum Beispiel auf einem Prüfstand durchgeführt werden, sofern eine vergleichbare Genauigkeit gewährleistet ist.
-
-3.2.5  
-Fehlergrenzen
-
-3.2.5.1  
-Messung der zurückgelegten Wegstrecke
-
-3.2.5.1.1  
-Die Messung kann erfolgen:
-
-a) als Kumulierung der Vorwärts- und der Rückwärtsfahrt oder
-
-b) nur beim Vorwärtsfahren.
-
-3.2.5.1.2  
-Das Kontrollgerät muss Wegstrecken von 0 bis 9 999 999,9 km messen können.
-
-3.2.5.1.3  
-Die simuliert gemessene Wegstrecke muss innerhalb folgender Fehlergrenzen liegen (Strecken von mindestens 1 000 m):
-
-a) ± 1 Prozent vor dem Einbau,
-
-b) ± 2 Prozent beim Einbau und bei den regelmäßigen Nachprüfungen,
-
-c) ± 4 Prozent während des Betriebs.
-
-3.2.5.1.4  
-Die Wegstreckenmessung hat auf mindestens 0,1 km genau zu erfolgen.
-
-3.2.5.2  
-Geschwindigkeitsmessung
-
-3.2.5.2.1  
-Das Kontrollgerät muss Geschwindigkeiten von 0 bis 220 km/h messen können.
-
-3.2.5.2.2  
-Zur Gewährleistung einer zulässigen Fehlergrenze der angezeigten Geschwindigkeit im Betrieb von ± 6 km/h und unter der Berücksichtigung
-
-a) einer Fehlergrenze von ± 2 km/h für Eingangsabweichung (Reifenabweichung),
-
-b) einer Fehlergrenze von ± 1 km/h beim Einbau oder der regelmäßigen Nachprüfung
-
-darf das Kontrollgerät bei Geschwindigkeiten zwischen 20 und 180 km/h und bei Wegimpulszahlen des Fahrzeugs zwischen 4 000 bis 25 000 Imp/km die Geschwindigkeit innerhalb einer Fehlergrenze von ± 1 km/h (bei konstanter Geschwindigkeit) messen. Auf Grund der Auflösung der Datenspeicherung ergibt sich eine weitere zulässige Fehlergrenze von 0,5 km/h für die im Kontrollgerät gespeicherte Geschwindigkeit.
-
-3.2.5.2.3  
-Die Geschwindigkeitsmessung muss auf mindestens 1 km/h genau erfolgen.
-
-3.2.6  
-Die Prüfabläufe und die Erstellung des Prüfdiagramms müssen nach den Vorgaben des Kontrollgeräteherstellers erfolgen.
-
-3.3  
+3.2.3.5  
 Kalibrierung
 
 Bei der Kalibrierung müssen folgende Vorgänge ausgeführt werden:
 
-a) Koppelung des Weg- und/oder Geschwindigkeitsgebers mit der Fahrzeugeinheit,
+a) Koppelung des Weg- oder Geschwindigkeitsgebers mit der Fahrzeugeinheit,
 
-b) digitale Angleichung der Konstante des Kontrollgeräts (k) an die Wegimpulszahl (w) des Fahrzeugs (Kraftfahrzeuge mit mehreren Hinterachsuntersetzungen müssen mit einer Umschalteinrichtung ausgerüstet sein, durch die die verschiedenen Untersetzungsverhältnisse automatisch auf die Wegimpulszahl gebracht werden, für die das Gerät abgestimmt wurde),
+b) digitale Angleichung der Konstante des Fahrtenschreibers (k) an die Wegimpulszahl (w) des Fahrzeugs; Kraftfahrzeuge mit mehreren Hinterachsuntersetzungen müssen mit einer Umschalteinrichtung ausgerüstet sein, durch die die verschiedenen Untersetzungsverhältnisse automatisch auf die Wegimpulszahl gebracht werden, für die das Gerät abgestimmt wurde,
 
-c) Kontrolle und gegebenenfalls Einstellung der aktuellen Uhrzeit (UTC-Zeit), gegebenenfalls die Einstellung des aktuellen Kilometerstands (Gerätetausch),
+c) Kontrolle und gegebenenfalls Einstellung der aktuellen Uhrzeit als koordinierte Weltzeit,
 
 d) Aktualisierung der im Massenspeicher gespeicherten Kenndaten des Weg- und/oder Geschwindigkeitsgebers,
 
-e) Aktualisierung oder Bestätigung der anderen dem Kontrollgerät bekannten Parameter wie:
+e) Aktualisierung oder Bestätigung der anderen dem Fahrtenschreiber bekannten Parameter wie:
 
 aa)  
 Fahrzeugkennung:
@@ -7473,186 +7523,326 @@ ddd)
 Reifengröße,
 
 eee)  
-UTC-Zeit,
-
-fff)  
 aktueller Kilometerstand,
 
-ggg)  
+fff)  
+Wert der vorgeschriebenen Abregelgeschwindigkeit des Fahrzeugs.
+
+Nach der Kalibrierung muss ein Ausdruck der technischen Daten am Fahrtenschreiber sowie ein Download der Werkstattkartendaten erstellt werden. Der Ausdruck der technischen Daten muss von dem Unternehmen, das die Prüfung durchgeführt hat, zusammen mit dem Prüfnachweis drei Jahre aufbewahrt werden.
+
+3.3  
+Prüfung der digitalen Fahrtenschreiber der zweiten Generation
+
+3.3.1  
+Einbauprüfung
+
+Die Einbauprüfung richtet sich nach den Vorgaben in Anhang I C Kapitel 6.3 der Durchführungsverordnung (EU) 2016/799 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung. Die ordnungsgemäße Arbeitsweise des Fahrtenschreibers einschließlich der Datenspeicherung auf den Fahrtenschreiberkarten und der Kommunikation mit Fernabfragegeräten nach Anhang I C Anlage 14 Kapitel 6.3 der Durchführungsverordnung (EU) 2016/799 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung muss gewährleistet und aussagekräftig dokumentiert sein.
+
+3.3.2  
+Nachprüfung
+
+Die Nachprüfung richtet sich nach den Vorgaben in Anhang I C Kapitel 6.4 der Durchführungsverordnung (EU) 2016/799 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung.
+
+3.3.3  
+Messung der Anzeigefehler, der zurückgelegten Wegstrecke und der Geschwindigkeit sowie Kalibrierung
+
+3.3.3.1  
+Die Messung der Anzeigefehler richtet sich nach Anhang I C Kapitel 6.5 der Durchführungsverordnung (EU) 2016/799 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung.
+
+3.3.3.2  
+Die Messung der zurückgelegten Wegstrecke richtet sich nach Anhang I C Kapitel 3.2.1 der Durchführungsverordnung (EU) 2016/799 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung und ist zu dokumentieren.
+
+3.3.3.3  
+Die Messung der Geschwindigkeit richtet sich nach Anhang I C Kapitel 3.2.2 der Durchführungsverordnung (EU) 2016/799 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung. Es sind drei Messpunkte der Geschwindigkeitsanzeige anzufahren und zu dokumentieren.
+
+3.3.3.4  
+Gerätespezifische Prüfabläufe müssen nach den Vorgaben der Hersteller von Fahrzeugeinheiten oder Komponenten erfolgen.
+
+3.3.3.5  
+Kalibrierung
+
+Bei der Kalibrierung müssen folgende Vorgänge ausgeführt werden:
+
+a) Kopplung des Weg- oder Geschwindigkeitsgebers mit der Fahrzeugeinheit,
+
+b) Kopplung der externen GNSS-Ausrüstung mit der Fahrzeugeinheit,
+
+c) Aktualisierung der im Massenspeicher gespeicherten Kenndaten der externen GNSS-Ausrüstung,
+
+d) digitale Angleichung der Konstante des Fahrtenschreibers (k) an die Wegimpulszahl (w) des Fahrzeugs; Kraftfahrzeuge mit mehreren Hinterachsuntersetzungen müssen mit einer Umschalteinrichtung ausgerüstet sein, durch die die verschiedenen Untersetzungsverhältnisse automatisch auf die Wegimpulszahl gebracht werden, für die das Gerät abgestimmt wurde,
+
+e) Kontrolle und gegebenenfalls Einstellung der aktuellen Uhrzeit als koordinierte Weltzeit innerhalb der Gültigkeitsdauer der gesteckten Werkstattkarte,
+
+f) Aktualisierung der im Massenspeicher gespeicherten Kenndaten des Weg- oder Geschwindigkeitsgebers,
+
+g) Aktualisierung von Typ und Kennung aller vorhandenen Plombierungen,
+
+h) Aktualisierung oder Bestätigung der anderen dem Fahrtenschreiber bekannten Parameter wie:
+
+aa)  
+Fahrzeugkennung:
+
+aaa)  
+Fahrzeugkennzeichen,
+
+bbb)  
+Fahrzeug-Identifizierungsnummer,
+
+ccc) zulassender Mitgliedstaat (Country Code);
+
+bb)  
+Fahrzeugmerkmale:
+
+aaa)  
+Wegimpulszahl (w),
+
+bbb)  
+Konstante (k),
+
+ccc) Reifenumfang (L),
+
+ddd)  
+Reifengröße,
+
+eee)  
+aktueller Kilometerstand,
+
+fff)  
 Wert der gesetzlich vorgeschriebenen Abregelgeschwindigkeit des Fahrzeugs.
 
-Nach der Kalibrierung muss ein Ausdruck der technischen Daten am Kontrollgerät sowie ein Download der Werkstattkartendaten erstellt werden. Das Kalibrierungsprotokoll muss zusammen mit dem Prüfnachweis für drei Jahre aufbewahrt werden.
+Nach der Kalibrierung muss ein Ausdruck der technischen Daten am Fahrtenschreiber sowie ein Download der Werkstattkartendaten erstellt werden. Der Ausdruck der technischen Daten muss von dem Unternehmen, das die Prüfung durchgeführt hat, zusammen mit dem Prüfnachweis drei Jahre aufbewahrt werden.
 
-# Anlage XVIIIb – (zu § 57b Absatz 3 und 4)Prüfstellen für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte
+# Anlage XVIIIb – (zu § 57b Absatz 3 und 4 und § 57d Absatz 1a)Prüfstellen für die Durchführung von Prüfungen der Fahrtenschreiber und der Geschwindigkeitsbegrenzer
 
-(Fundstelle: BGBl. I 2012, 814)
+  
+  
+
+(Fundstelle: BGBl. 2024 I Nr. 191, S. 19 – 20)
+
+  
+  
 
 1  
 Allgemeines
 
 1.1  
-Prüfungen der Fahrtschreiber und Kontrollgeräte sind unter gleichen Voraussetzungen und nach gleichen technischen Standards durchzuführen.
+Der Begriff Prüfung umfasst die Prüfung der Fahrtenschreiber sowie die Prüfung der Geschwindigkeitsbegrenzer. Der Begriff Prüfung der Fahrtenschreiber umfasst die Einbauprüfung und die Nachprüfung der Fahrtenschreiber.
 
 1.2  
-Prüfungen der Fahrtschreiber und Kontrollgeräte dürfen nur an Stellen durchgeführt werden, an denen die in dieser Anlage beschriebenen Einrichtungen, Ausstattungen und Unterlagen für die Durchführung der Prüfungen vorhanden sind (Prüfstellen).
+Prüfungen sind unter gleichen Voraussetzungen und nach gleichen technischen Standards durchzuführen.
 
 1.3  
-Die Einhaltung der für die eingesetzten Mess-/Prüfgeräte geltenden Vorschriften ist von dem Betreiber der Prüfungsstelle sicherzustellen. Werden die Vorschriften nicht eingehalten, ist die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte bis zur Wiederherstellung des ordnungsgemäßen Zustands unzulässig.
+Prüfungen dürfen nur an Stellen durchgeführt werden, an denen die in dieser Anlage beschriebenen Einrichtungen, Ausstattungen und Unterlagen für die Durchführung der Prüfungen vorhanden sind (Prüfstellen).
+
+1.4  
+Die Einhaltung der für die eingesetzten Mess- oder Prüfgeräte geltenden Vorschriften ist von dem Betreiber der Prüfstelle sicherzustellen. Werden die Vorschriften nicht eingehalten, ist die Durchführung von Prüfungen bis zur Wiederherstellung des ordnungsgemäßen Zustands unzulässig.
+
+1.5  
+Die gespeicherten Prüfungsdaten, die Plombiereinrichtungen, die Werkstattkarten sowie die Formulare zur Bestätigung über die Unmöglichkeit des Herunterladens der Daten sind durch geeignete Maßnahmen gegen unberechtigten Zugriff und Diebstahl zu schützen.
 
 2  
 Einrichtungen und Ausstattungen
 
-In Abhängigkeit von den durchzuführenden Prüfungen der Fahrtschreiber und Kontrollgeräte müssen ständig vorhanden sein:
-
 2.1  
-Grundausstattung:
+Für die Durchführung der Prüfungen muss folgende Grundausstattung ständig vorhanden sein:
 
-a) Grube, Hebebühne oder Rampe,
+a) eine ausreichend bemessene Halle oder ein überdachter Platz in Abhängigkeit von den zu prüfenden Fahrzeugen, mit Grube, Hebebühne oder Rampe,
 
-b) geeigneter Rollenprüfstand oder entsprechend genaue Messeinrichtung,
+b) ein geeigneter Rollenprüfstand oder eine ebene und befestigte 20 Meter lange Prüfstrecke mit homogenem Oberflächenbelag für Lichtschrankenmessung mit stationär fest montierten Reflexleisten oder Halterungen für die Reflexleisten,
 
-c) geeignete Prüfgeräte für Geschwindigkeits- und Wegstreckenmessungen sowie für den entsprechenden Aufschrieb,
+c) ein nach den Vorgaben des Prüfgeräteherstellers verifiziertes Prüfgerät zur Ermittlung der Fahrzeugwegimpulszahl,
 
-d) geeignetes Wegdrehzahlmessgerät,
+d) ein nach den Vorgaben des Prüfgeräteherstellers verifiziertes Prüf-Programmiergerät für Geschwindigkeits- und Wegstreckenmessungen sowie zur Einstellung oder Programmierung der jeweils erforderlichen Geräteparameter und zur Kopplung von externen Geräten,
 
-e) Auswertegerät mit Lupe für Schaublattprüfungen,
+e) ein 50 Meter langes Maßband der Genauigkeitsklasse II,
 
-f) Uhrenprüfgerät,
+f) ein nach den Vorgaben des Prüfgeräteherstellers verifiziertes Uhrenprüfgerät,
 
-g) Prüfschablonen,
+g) eine Plombiereinrichtung und ein Plombierungszeichen,
 
-h) Plombiereinrichtung und Plombierungszeichen,
+h) eine Reifenfüllanlage mit Reifenluftdruckmessgerät,
 
-i) Reifenfüllanlage mit geeichtem Reifenluftdruckmessgerät,
-
-j) Werkzeuge und weitere Messgeräte nach Weisung des Fahrtschreiber- oder Kontrollgeräteherstellers.
+i) Werkzeuge und weitere Messgeräte nach Weisung des anerkannten Fahrtenschreiberherstellers.
 
 2.2  
-Zusatzausstattung für Prüfungen an Kontrollgeräten nach Anhang I B der Verordnung (EWG) Nr. 3821/85:
+Für Prüfungen der analogen Fahrtenschreiber muss folgende Zusatzausstattung ständig vorhanden sein:
 
-a) eine Werkstattkarte nach Anhang I B der Verordnung (EWG) Nr. 3821/85,
+ein Auswertgerät mit Prüfschablone für Schaublattprüfungen.
 
-b) eine Einrichtung zum Herunterladen der Kontrollgerätedaten und beim Gerätetausch zur Weitergabe der Massenspeicherdaten an den Fahrzeughalter,
+2.3  
+Für Prüfungen der digitalen Fahrtenschreiber muss folgende Zusatzausstattung ständig vorhanden sein:
 
-c) ein geeignetes Prüfgerät zur Programmierung der Geräteparameter nach Anhang I B der Verordnung (EWG) Nr. 3821/85,
+a) eine Werkstattkarte pro verantwortlicher Fachkraft,
+
+b) eine Einrichtung zum Herunterladen der Fahrtenschreiberdaten und beim Gerätetausch zur Weitergabe der Massenspeicherdaten an den Fahrzeughalter,
+
+c) ein geeignetes DSRC-Prüflesegerät zur Überprüfung der Kommunikation mit Fernabfragegeräten bei den digitalen Fahrtenschreibern der zweiten Generation,
 
 d) eine Einrichtung für die elektronische Archivierung und Sicherung der Prüfungsdaten zu den durchgeführten Prüfungen.
 
-Die gespeicherten Prüfungsdaten, die Plombiereinrichtungen, die Werkstattkarten sowie die Formulare zur Bestätigung über die Unmöglichkeit des Herunterladens der Daten sind durch geeignete Maßnahmen gegen unberechtigten Zugriff und Diebstahl zu schützen.
+2.4  
+Zur laufenden Unterrichtung der für die Durchführung der Prüfungen eingesetzten verantwortlichen Fachkräfte sind die nachfolgend aufgeführten Unterlagen bereit und auf dem aktuellen Stand zu halten:
 
-2.3  
-Zur laufenden Unterrichtung der für die Durchführung der Prüfung eingesetzten verantwortlichen Fachkräfte sind die nachfolgend aufgeführten Unterlagen bereit und auf dem aktuellen Stand zu halten:
+a) die für die Durchführung der Prüfungen einschlägigen Vorschriften dieser Verordnung in der jeweils geltenden Fassung,
 
-a) die für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte einschlägigen Vorschriften der Straßenverkehrs-Zulassungs-Ordnung in der jeweils aktuellen Fassung,
+b) die im Verkehrsblatt – Amtsblatt des Bundesministeriums für Digitales und Verkehr der Bundesrepublik Deutschland – veröffentlichten Richtlinien, die für die Durchführung der Prüfungen zu beachten sind,
 
-b) die im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland – veröffentlichten Richtlinien, die für die Durchführung der Prüfung erforderlich sind,
-
-c) Technische Daten und Prüfanleitungen der in Frage kommenden Fahrtschreiber und Kontrollgeräte und
+c) Technische Daten und Prüfanleitungen der zu prüfenden Fahrtenschreiber oder Geschwindigkeitsbegrenzer und
 
 d) eine Übersicht über die erfolgte Schulung der zur Prüfung eingesetzten Fachkräfte unter Angabe der Art der Schulung und des Datums, bis zu dem die Schulung der jeweiligen Fachkraft spätestens erneut durchgeführt werden muss.
 
-# Anlage XVIIIc – (zu § 57b Absatz 3 und 4)Anerkennung von Fahrtschreiber- oder Kontrollgeräteherstellern und von Fahrzeugherstellern oder Fahrzeugimporteuren zur Durchführung von Prüfungen
+2.5  
+Soweit nach den vorstehenden Nummern eine Verifizierung vorgeschrieben ist, muss die Verifizierung der Prüfgeräte mindestens alle zwei Jahre erfolgen. Die Vorgaben der Prüfgerätehersteller zur Verifizierung sind Dritten auf Anfrage zugänglich zu machen.
 
-(Fundstelle: BGBl. I 2012, 815 - 816;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+# Anlage XVIIIc – (zu § 57b Absatz 3 und 4 und § 57d Absatz 1a)Anerkennung von Fahrtenschreiberherstellern für die Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer sowie von Fahrzeugherstellern oder Fahrzeugimporteuren für die Durchführung von Einbauprüfungen der Fahrtenschreiber
+
+  
+  
+
+(Fundstelle: BGBl. 2024 I Nr. 191, S. 21 – 22)
+
+  
+  
 
 1  
 Allgemeines
 
 1.1  
-Die Anerkennung von Fahrtschreiber- oder Kontrollgeräteherstellern für die Durchführung von Prüfungen allgemein sowie von Fahrzeugherstellern oder Fahrzeugimporteuren zur Durchführung von Einbauprüfungen der Fahrtschreiber und Kontrollgeräte obliegt der obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen.
+Der Begriff Prüfung umfasst die Prüfung der Fahrtenschreiber sowie die Prüfung der Geschwindigkeitsbegrenzer. Der Begriff Prüfung der Fahrtenschreiber umfasst die Einbauprüfung und die Nachprüfung der Fahrtenschreiber.
 
 1.2  
-Die Anerkennung kann erteilt werden
-
-a) zur Vornahme der Prüfungen durch den Antragsteller selbst,
-
-b) für Kontrollgerätehersteller auch zur Beauftragung von Kraftfahrzeugwerkstätten, die die Prüfungen vornehmen.
-
-Lässt der Antragsteller die Prüfungen durch von ihm beauftragte Kraftfahrzeugwerkstätten vornehmen, muss er nachweisen, dass er durch entsprechende Überwachungs- und Weisungsbefugnisse sichergestellt hat, dass bei den Werkstätten die Voraussetzungen der Anlage XVIIIb und der Anlage XVIIId Nummer 2 und 3 vorliegen und die Durchführung der Prüfungen ordnungsgemäß erfolgt. Eine Kraftfahrzeugwerkstatt, die bereits für die Prüfung von Kontrollgeräten und Fahrtschreibern nach Anhang I der Verordnung (EWG) Nr. 3821/85 ermächtigt ist, kann, sofern sie die notwendigen Bedingungen an Ausrüstung, Schulung und Sicherheit erfüllt, zur Durchführung der Prüfungen von Kontrollgeräten nach Anhang I B der Verordnung (EWG) Nr. 3821/85 vom bisherigen Fahrtschreiber- oder Kontrollgerätehersteller beauftragt werden. Sofern eine Kraftfahrzeugwerkstatt eine Erweiterung beantragt, ist diese nur zu erteilen, wenn die Voraussetzungen für eine Prüfberechtigung für Kontrollgeräte nach Anhang I und Anhang I B der Verordnung (EWG) Nr. 3821/85 erfüllt sind. Der Hersteller darf keine Werkstatt beauftragen, die bereits selbst von einer Anerkennungsstelle nach Anlage XVIIId anerkannt ist oder deren Anerkennung wegen Missachtung einschlägiger Vorschriften dauerhaft entzogen wurde.
+Die Anerkennung von Fahrtenschreiberherstellern für die Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer sowie von Fahrzeugherstellern oder Fahrzeugimporteuren für die Durchführung von Einbauprüfungen der Fahrtenschreiber obliegt dem Kraftfahrt-Bundesamt.
 
 1.3  
-Für die Anerkennung muss der Fahrtschreiber- oder Kontrollgerätehersteller nachweisen, dass er Inhaber einer allgemeinen Bauartgenehmigung für Fahrtschreiber nach § 22a dieser Verordnung oder einer EG-Bauartgenehmigung für Kontrollgeräte nach der Verordnung (EWG) Nr. 3821/85 ist.
+Die Anerkennung kann erteilt werden
+
+a) zur Vornahme der Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer durch den Fahrtenschreiberhersteller in von ihm unterhaltenen Werkstätten,
+
+b) zur Vornahme der Einbauprüfungen der Fahrtenschreiber nach § 57b Absatz 4 durch den Antragsteller.
+
+Mit der Anerkennung nach Satz 1 Buchstabe a ist die Befugnis zur Beauftragung von Kraftfahrzeugwerkstätten zur Vornahme der Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer verbunden.
+
+Die Beauftragung einer Kraftfahrzeugwerkstatt durch einen anerkannten Fahrtenschreiberhersteller erfolgt nach Maßgabe der Anlage XVIIId.
 
 1.4  
-Fahrzeugimporteure können wie Fahrzeughersteller im Sinne dieser Anlage für die Einbauprüfung anerkannt werden, wenn sie an Fahrzeugen, die außerhalb des Geltungsbereichs der Straßenverkehrs-Zulassungs-Ordnung hergestellt worden sind, für den jeweiligen Fahrzeughersteller die Einbauprüfung vornehmen.
+Für die Anerkennung muss der Fahrtenschreiberhersteller nachweisen, dass er Inhaber einer EU-Typgenehmigung für Fahrtenschreiber oder einer Fahrzeugeinheit gemäß der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung ist. Die Anerkennungsstelle kann Ausnahmen genehmigen.
+
+1.5  
+Fahrzeugimporteure können wie Fahrzeughersteller für die Durchführung der Einbauprüfung in ihren Werkstätten anerkannt werden, wenn sie an Fahrzeugen, die außerhalb des Geltungsbereichs dieser Verordnung hergestellt worden sind, für den jeweiligen Fahrzeughersteller die Einbauprüfung vornehmen.
 
 2  
 Allgemeine Voraussetzungen
 
 2.1  
-Voraussetzung für eine Anerkennung ist, dass der Antragsteller, bei juristischen Personen die nach Gesetz oder Satzung zur Vertretung befugten Personen sowie die für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte verantwortlichen Fachkräfte persönlich zuverlässig sind. Ein Führungszeugnis und ein Auszug aus dem Fahreignungsregister sind jeweils vorzulegen.
+Voraussetzung für eine Anerkennung ist, dass der Antragsteller, bei juristischen Personen die nach Gesetz oder Satzung zur Vertretung befugten Personen, sowie die für die Durchführung von den Prüfungen verantwortlichen Fachkräfte persönlich zuverlässig sind. Zu diesem Zweck soll sich die zuständige Behörde ein Führungszeugnis nach § 30 Absatz 5 des Bundeszentralregistergesetzes und einen Auszug aus dem Fahreignungsregister vorlegen lassen. Die Auskünfte dürfen zum Zeitpunkt der Antragstellung nicht älter als sechs Monate sein.
 
 2.2  
-Die Anerkennung zur Durchführung der Prüfungen durch den Antragsteller kann erteilt werden, wenn er nachweist, dass er die Anforderungen der Anlage XVIIId, ausgenommen Nummer 2.2, erfüllt und über mindestens eine Prüfstelle nach Anlage XVIIIb verfügt.
+Die Anerkennung zur Durchführung der Prüfungen durch den Antragsteller kann erteilt werden, wenn er nachweist, dass er die in der Anlage XVIIId Nummer 2.3, 2.4, 2.6 und 2.7 genannten persönlichen Voraussetzungen erfüllt. Die Anerkennungsstelle kann Ausnahmen von den in Satz 1 genannten persönlichen Voraussetzungen genehmigen.
 
 3  
 Nebenbestimmungen
 
-Die Anerkennung kann mit Auflagen verbunden werden, die erforderlich sind, um sicherzustellen, dass die Prüfungen ordnungsgemäß durchgeführt werden und dass die Sicherheit nach Maßgabe der Anlage 10 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 gewährleistet ist.
+  
+Die Anerkennung kann mit Auflagen verbunden werden, die erforderlich sind, um sicherzustellen, dass die Prüfungen ordnungsgemäß durchgeführt werden.
 
 4  
 Rücknahme der Anerkennung
 
+4.1  
 Die Anerkennung ist zurückzunehmen, wenn bei ihrer Erteilung eine der in Nummer 2 genannten Voraussetzungen nicht vorgelegen hat. Von der Rücknahme kann abgesehen werden, wenn der Mangel nicht mehr besteht.
+
+4.2  
+Wurde die Anerkennung eines anerkannten Fahrtenschreiberherstellers nach Nummer 1.3 Buchstabe a zurückgenommen, werden die von ihm nach Anlage XVIIId erteilten Beauftragungen der Kraftfahrzeugwerkstätten nach sechs Monaten ungültig. Innerhalb dieser Frist können sich die betroffenen Kraftfahrzeugwerkstätten von einem anderen, nach dieser Anlage anerkannten Fahrtenschreiberhersteller nach Maßgabe der Anlage XVIIId erneut beauftragen lassen. Die Anerkennungsstelle kann Ausnahmen von der Frist nach Satz 2 genehmigen.
 
 5  
 Widerruf der Anerkennung
 
-Die Anerkennung ist zu widerrufen, wenn nachträglich eine der in Nummer 2 genannten Voraussetzungen weggefallen ist. Sie ist auch dann zu widerrufen, wenn der Antragsteller vorsätzlich oder grob fahrlässig gegen die Vorschriften zur Durchführung der Prüfungen verstoßen hat, wenn die Prüfungen nicht ordnungsgemäß durchgeführt wurden, die Sicherheit nach Anlage 10 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 nicht gewährleistet ist oder wenn die mit der Anerkennung verbundenen Auflagen nicht eingehalten worden sind. Die Anerkennung kann widerrufen werden, wenn von ihr innerhalb von sechs Monaten kein Gebrauch gemacht worden ist.
+5.1  
+Die Anerkennung ist zu widerrufen, wenn nachträglich eine der in Nummer 2 genannten Voraussetzungen weggefallen ist. Sie ist auch dann zu widerrufen, wenn
+
+a) der Antragsteller vorsätzlich oder grob fahrlässig gegen die Vorschriften zur Durchführung der Prüfungen verstoßen hat,
+
+b) die Prüfungen nicht ordnungsgemäß durchgeführt wurden oder
+
+c) die mit der Anerkennung verbundenen Auflagen nicht eingehalten worden sind.
+
+Die Anerkennung kann widerrufen werden, wenn von ihr innerhalb von sechs Monaten kein Gebrauch gemacht worden ist.
+
+5.2  
+Wurde die Anerkennung eines anerkannten Fahrtenschreiberherstellers widerrufen, werden die von ihm nach Anlage XVIIId erteilten Beauftragungen der Kraftfahrzeugwerkstätten sechs Monate nach dem Wirksamwerden des Widerrufs ungültig. Innerhalb dieser Frist können sich die betroffenen Kraftfahrzeugwerkstätten von einem anderen, nach dieser Anlage anerkannten Fahrtenschreiberhersteller nach Maßgabe der Anlage XVIIId erneut beauftragen lassen. Die Anerkennungsstelle kann Ausnahmen von der Frist nach Satz 2 genehmigen.
 
 6  
 Aufsicht
 
-6.1. Die Anerkennungsstelle übt die Aufsicht über die anerkannten Unternehmen aus. Mindestens alle 2 Jahre prüft sie oder lässt prüfen,
+6.1  
+Die Anerkennungsstelle übt die Aufsicht über die anerkannten Stellen aus. Mindestens alle zwei Jahre hat sie zu prüfen oder prüfen zu lassen,
 
 a) ob die sich aus der Anerkennung ergebenden Pflichten, insbesondere hinsichtlich der getroffenen Sicherheitsmaßnahmen und des Umganges mit Werkstattkarten, erfüllt werden,
 
-b) ob die durchgeführten Prüfungen, Kalibrierungen und Einbauten der Fahrtschreiber und Kontrollgeräte durch den Antragsteller ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen worden sind und
+b) ob die durchgeführten Prüfungen, Kalibrierungen und Einbauten der Fahrtenschreiber durch den Antragsteller ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen worden sind,
 
-c) in welchem Umfang von der Anerkennung Gebrauch gemacht worden ist.
+c) in welchem Umfang von der Anerkennung Gebrauch gemacht worden ist und
 
-Bei mindestens 10 Prozent der anerkannten Unternehmen müssen die Prüfungen unangekündigt durchgeführt werden. Die Prüfungen sind zu dokumentieren.
+d) ob sich die aus der Anerkennung ergebenen Pflichten im Zusammenhang mit der Beauftragung und Schulung von Kraftfahrzeugwerkstätten nach Anlage XVIIId eingehalten werden.
+
+Die Prüfungen nach Satz 2 sind zu dokumentieren.
 
 6.2  
-Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschäftsräume des Inhabers der Anerkennung während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und die vorgeschriebenen Aufzeichnungen einzusehen. Der Inhaber der Anerkennung hat diese Maßnahmen zu dulden, soweit erforderlich die beauftragten Personen dabei zu unterstützen und auf Verlangen die vorgeschriebenen Aufzeichnungen vorzulegen. Er hat die Kosten der Prüfung zu tragen.
+Die mit der Prüfung nach Nummer 6.1 Satz 2 beauftragten Personen sind befugt, Grundstücke und Geschäftsräume des Inhabers der Anerkennung während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und die vorgeschriebenen Prüfnachweise einzusehen. Der Inhaber der Anerkennung hat diese Maßnahmen zu dulden, soweit erforderlich die beauftragten Personen dabei zu unterstützen und auf Verlangen die vorgeschriebenen Prüfnachweise vorzulegen.
+
+6.3  
+Das Kraftfahrt-Bundesamt kann einen Arbeitskreis zum Erfahrungsaustausch mit den anerkannten Fahrtenschreiberherstellern einberufen.
 
 7  
-Schlussbestimmungen
+Durch Landesbehörden erteilte Anerkennungen
 
-Die zur Durchführung der Prüfung anerkannten Fahrtschreiber- oder Kontrollgerätehersteller sowie die anerkannten Fahrzeughersteller und Importeure haben alle Veränderungen, die ihre Anerkennung beeinflussen können, der Anerkennungsstelle unverzüglich und unaufgefordert mitzuteilen.
+Die vor dem 20. Juni 2024 von den zuständigen Landesbehörden erteilten Anerkennungen behalten bis zum 19. Juni 2026 ihre Gültigkeit.
 
-# Anlage XVIIId – (zu § 57b Absatz 3 und 4)Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen sowie Schulung der mit der Prüfung beauftragten Fachkräfte
+8  
+Mitteilungspflichten
 
-(Fundstelle: BGBl. I 2012, 817 - 819;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+Die für die Durchführung der Prüfung anerkannten Fahrtenschreiberhersteller sowie die anerkannten Fahrzeughersteller und Fahrzeugimporteure haben alle Veränderungen, die ihre Anerkennung beeinflussen können, der Anerkennungsstelle unverzüglich und unaufgefordert mitzuteilen.
+
+# Anlage XVIIId – (zu § 57b Absatz 3 und § 57d Absatz 1a)Beauftragung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer
+
+  
+  
+
+(Fundstelle: BGBl. 2024 I Nr. 191, S. 23 – 26)
+
+  
+  
 
 1  
 Allgemeines
 
 1.1  
-Die Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte obliegt der zuständigen obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen (Anerkennungsstelle). Diese können die Befugnis auf die örtlich und fachlich zuständigen Kraftfahrzeuginnungen übertragen. Die Anerkennungsstelle darf keine Werkstatt anerkennen, die bereits von einem anerkannten Fahrtschreiber- oder Kontrollgerätehersteller nach Anlage XVIIIc beauftragt ist oder deren Anerkennung wegen Missachtung einschlägiger Vorschriften dauerhaft entzogen wurde.
+Die Beauftragung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer obliegt den nach Anlage XVIIIc Nummer 1.3 Buchstabe a anerkannten Fahrtenschreiberherstellern.
+
+Die Beauftragung erfolgt auf Antrag und für jede Betriebsstätte einzeln, wenn die Betriebsstätte die in Anlage XVIIIb genannten Anforderungen an die Prüfstellen erfüllt.
+
+Die nach Anlage XVIIIc anerkannten Fahrtenschreiberhersteller dürfen keine Kraftfahrzeugwerkstätten beauftragen, für die bereits eine Beauftragung nach dieser Anlage besteht oder deren Beauftragung wegen Missachtung einschlägiger Vorschriften entzogen oder versagt wurde.
 
 1.2  
-Für die nach Nummer 2.5 vorgeschriebenen Schulungen und Wiederholungsschulungen und für das Verfahren der Anerkennung von Kraftfahrzeugwerkstätten wird eine Richtlinie im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland – veröffentlicht.
+Das Bundesministerium für Digitales und Verkehr gibt die Richtlinien für die nach Nummer 2.6 vorgeschriebenen Schulungen und Fortbildungsschulungen und für das Verfahren der Beauftragung von Kraftfahrzeugwerkstätten im Verkehrsblatt – Amtsblatt des Bundesministeriums für Digitales und Verkehr der Bundesrepublik Deutschland – bekannt.
 
 1.3  
-Die Anerkennung nach Nummer 1.1 und die Erfüllung der in Nummer 2 bestimmten persönlichen Voraussetzungen sind Grundlage für die Zuteilung der Werkstattkarten. Die Werkstattkarte wird jeweils mit den Daten der Kraftfahrzeugwerkstatt sowie der für die Durchführung der Prüfung verantwortlichen Fachkraft personalisiert. Bei Wegfall der Prüfberechtigung der Kraftfahrzeugwerkstatt oder einer verantwortlichen Fachkraft oder beim Ausscheiden einer verantwortlichen Fachkraft aus dem Unternehmen sowie bei Nichteinhaltung der in Nummer 2.5 festgelegten Nachschulungsfrist sind die betroffenen Werkstattkarten durch die Kraftfahrzeugwerkstatt an die ausgebende Stelle zurückzugeben.
+Die Beauftragung nach Nummer 1.1 und die Erfüllung der in Nummer 2 bestimmten persönlichen Voraussetzungen sind Grundlage für die Zuteilung der Werkstattkarten. Die Werkstattkarte wird jeweils mit den Daten der Kraftfahrzeugwerkstatt sowie der für die Durchführung der Prüfung verantwortlichen Fachkraft personalisiert. Bei Wegfall der Prüfberechtigung der Kraftfahrzeugwerkstatt oder einer verantwortlichen Fachkraft oder beim Ausscheiden einer verantwortlichen Fachkraft aus dem Unternehmen sowie bei Nichteinhaltung der in Nummer 2.6 festgelegten Nachschulungsfrist sind die betroffenen Werkstattkarten durch die Kraftfahrzeugwerkstatt unverzüglich an die ausgebende Stelle zurückzugeben.
 
 2  
-Persönliche Voraussetzungen für die Anerkennung von Kraftfahrzeugwerkstätten
+Persönliche Voraussetzungen für die Beauftragung von Kraftfahrzeugwerkstätten
 
 2.1  
-Der Antragsteller, bei juristischen Personen, die nach Gesetz oder Satzungen zur Vertretung berufenen Personen, sowie die für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte verantwortlichen Fachkräfte müssen persönlich zuverlässig sein und ein Führungszeugnis und einen Auszug aus dem Fahreignungsregister vorlegen.
+Der Antragsteller, bei juristischen Personen die nach Gesetz oder Satzung zur Vertretung berufenen Personen, sowie die für die Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer verantwortlichen Fachkräfte müssen ihre persönliche Zuverlässigkeit nachweisen. Zu diesem Zweck soll sich die örtlich und fachlich zuständige Kraftfahrzeuginnung ein Führungszeugnis nach § 30 Absatz 5 des Bundeszentralregistergesetzes und einen Auszug aus dem Fahreignungsregister vorlegen lassen. Die Auskünfte dürfen zum Zeitpunkt der Antragsstellung nicht älter als sechs Monate sein.
 
 2.2  
-Der Antragsteller muss durch die Vorlage einer Bescheinigung der örtlich zuständigen Handwerkskammer die Eintragung in die Handwerksrolle nachweisen, dass er selbst oder der Betriebsleiter somit die Voraussetzungen nach der Handwerksordnung zur selbstständigen gewerblichen Verrichtung solcher Arbeiten erfüllt, die zur Behebung der bei der Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte festgestellten Mängel erforderlich sind.
+Der Antragsteller muss durch die Vorlage einer Bescheinigung der örtlich zuständigen Handwerkskammer über die Eintragung in die Handwerksrolle nachweisen, dass er selbst oder eine in der Betriebsstätte angestellte Person die Voraussetzungen nach der Handwerksordnung zur selbstständigen gewerblichen Verrichtung solcher Arbeiten erfüllt, die zur Behebung der bei der Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer festgestellten Mängel erforderlich sind.
 
 2.3  
-Der Antragsteller muss nachweisen, dass er für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte verantwortliche Fachkräfte beschäftigt. Diese müssen vom Antragsteller namentlich benannt werden.
+Der Antragsteller muss nachweisen, dass er für die Durchführung der Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer mindestens eine verantwortliche Fachkraft beschäftigt. Die Fachkräfte müssen vom Antragsteller namentlich benannt werden.
 
 2.4  
-Der Antragsteller muss nachweisen, dass die für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte verantwortlichen Fachkräfte über eine entsprechende Vorbildung und ausreichende Erfahrungen auf dem Gebiet der Kraftfahrzeugtechnik verfügen, wobei die verantwortlichen Fachkräfte
+Der Antragsteller muss nachweisen, dass die für die Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer verantwortlichen Fachkräfte über eine entsprechende Vorbildung und ausreichende Erfahrungen auf dem Gebiet der Kraftfahrzeugtechnik verfügen, wobei die verantwortlichen Fachkräfte
 
 a) eine erfolgreiche Abschlussprüfung in einem der folgenden Ausbildungsberufe nachweisen müssen:
 
@@ -7665,7 +7855,7 @@ Kraftfahrzeugelektriker,
 cc) Automobilmechaniker,
 
 dd)  
-Kfz-Mechatroniker,
+Kraftfahrzeugmechatroniker,
 
 ee)  
 Mechaniker für Karosserieinstandhaltungstechnik,
@@ -7685,7 +7875,10 @@ jj)
 Landmaschinenmechaniker,
 
 kk)  
-Land- und Baumaschinenmechaniker oder
+Land- und Baumaschinenmechaniker,
+
+ll)  
+Land- und Baumaschinenmechatroniker, oder
 
 b) eine erfolgreiche Meisterprüfung in einem der folgenden Berufe nachweisen müssen:
 
@@ -7707,9 +7900,12 @@ ff)
 Metallbauer-Handwerk (Schwerpunkt Nutzfahrzeugbau),
 
 gg)  
-Landmaschinenmechaniker-Handwerk oder
+Landmaschinenmechaniker-Handwerk,
 
-c) als Dipl.-Ing., Dipl.-Ing. (FH) oder Ing. (grad.) der Fachrichtung Maschinenbau, Fahrzeugtechnik, Elektrotechnik oder Luft- und Raumfahrttechnik/Luftfahrzeugtechnik nachweisen müssen:
+hh)  
+Land- und Baumaschinenmechatroniker, oder
+
+c) als Bachelor, Master, staatlich geprüfter Techniker, Dipl.-Ing., Dipl.-Ing. (FH) oder Ing. (grad.) der Fachrichtung Maschinenbau, Fahrzeugtechnik, Elektrotechnik oder Luft- und Raumfahrttechnik/Luftfahrzeugtechnik nachweisen müssen:
 
 aa)  
 eine mindestens dreijährige Tätigkeit im Kraftfahrzeugbereich (Untersuchung, Prüfung, Wartung und Reparatur) oder
@@ -7717,14 +7913,19 @@ eine mindestens dreijährige Tätigkeit im Kraftfahrzeugbereich (Untersuchung, P
 bb)  
 eine Abschlussprüfung in den vorgenannten Ausbildungsberufen.
 
+Über die Anerkennung der Gleichwertigkeit von ausländischen Zeugnissen entscheidet die nach § 8 des Berufsqualifikationsfeststellungsgesetzes zuständige Stelle. Die §§ 9 bis 17 des Berufsqualifizierungsfeststellungsgesetzes sind entsprechend anzuwenden. Personen, die als Angestellte eines nach der Anlage XVIIIc anerkannten Fahrtenschreiberherstellers praxisnahe Service- und Versuchstätigkeiten durchgeführt haben, eine erfolgreiche Abschlussprüfung in einem technischen Ausbildungsberuf, der nicht in Satz 1 Buchstabe a genannt ist, und eine mindestens dreijährige Tätigkeit in diesem Bereich nachweisen können, müssen nicht den Anforderungen nach Satz 1 genügen. Personen, die keinen Abschluss in einem der in Satz 1 Buchstabe a oder b genannten Ausbildungsberufe und keinen gleichgestellten Prüfungsabschluss nach Satz 1 Buchstabe c nachweisen können, jedoch in einer mindestens dreijährigen Tätigkeit im Kraftfahrzeugbereich einschlägige Fachkenntnisse in den Fachgebieten Antriebsstrang sowie Prüfen, Messen und Einstellen von Systemen erworben haben, müssen nicht den Anforderungen nach Satz 1 genügen. In den Fällen des Satzes 5 muss vor der Schulung nach Nummer 9 eine fahrzeugtechnische Prüfung bei dem Schulungsträger erfolgreich abgelegt werden. Diese fahrzeugtechnische Prüfung muss den Anforderungen der in Nummer 1.2 genannten Richtlinien entsprechen. Personen, die bereits vor dem 20. Juni 2024 als Fachkräfte für den Einbau und die Prüfung der Fahrtenschreiber oder Geschwindigkeitsbegrenzer eingesetzt wurden, müssen nicht erneut nachweisen, dass sie die persönlichen Voraussetzungen für die Beauftragung von Kraftfahrzeugwerkstätten nach Nummer 2 erfüllen.
+
 2.5  
-Die für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte verantwortlichen Fachkräfte müssen darüber hinaus eine dem jeweiligen Stand der Technik der zu prüfenden Fahrtschreiber und Kontrollgeräte entsprechende Schulung nach Maßgabe der Nummer 8 erfolgreich abgeschlossen haben, wobei die Frist für die Wiederholungsschulungen maximal 36 Monate beträgt, beginnend mit dem Monat und Jahr, in dem erfolgreich eine Abschlussprüfung nach einer erstmaligen Schulung oder einer Wiederholungsschulung abgelegt wurde. Wird die Frist um mehr als zwei Monate überschritten, ist statt einer Wiederholungsschulung eine erstmalige Schulung durchzuführen.
+Die in den Nummern 2.1 bis 2.4 genannten Nachweise sind von der örtlich und fachlich zuständigen Kraftfahrzeuginnung zu bewerten. Das Ergebnis der Bewertung ist anschließend dem anerkannten Fahrtenschreiberhersteller mitzuteilen.
 
 2.6  
-Der Antragsteller muss nachweisen, dass die von ihm benannte Prüfstelle den Anforderungen der Anlage XVIIIb entspricht.
+Die für die Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer verantwortlichen Fachkräfte müssen darüber hinaus eine dem jeweiligen Stand der Technik der zu prüfenden Geräte entsprechende Schulung nach Nummer 9 erfolgreich abgeschlossen haben. Spätestens nach 36 Monaten, beginnend mit dem Monat und Jahr, in dem erfolgreich eine Abschlussprüfung nach einer erstmaligen Schulung oder einer Fortbildungsschulung abgelegt wurde, ist eine Fortbildungsschulung erfolgreich abzulegen. Wird diese Frist um mehr als zwei Monate überschritten, ist statt einer Fortbildungsschulung eine erstmalige Schulung durchzuführen.
 
 2.7  
-Die Anerkennung ist nicht übertragbar.
+Der Antragsteller muss nachweisen, dass die von ihm benannte Prüfstelle den Anforderungen der Anlage XVIIIb entspricht.
+
+2.8  
+Die Beauftragung ist nicht übertragbar.
 
 3  
 Handhabung der Werkstattkarte
@@ -7733,117 +7934,125 @@ Handhabung der Werkstattkarte
 Die Kraftfahrzeugwerkstatt und die zur Führung der Geschäfte bestimmte Person sind für die ordnungsgemäße Nutzung der Werkstattkarte verantwortlich. Sie hat die verantwortlichen Fachkräfte hierüber jährlich zu belehren. Die Belehrung ist schriftlich festzuhalten.
 
 3.2  
-Die Kraftfahrzeugwerkstatt hat sicherzustellen, dass die Werkstattkarte nicht missbräuchlich oder durch unbefugte Personen verwendet wird. Sie darf nur von der verantwortlichen Fachkraft, auf die sie ausgestellt ist, verwendet werden. Sie ist innerhalb der Werkstatt sicher und gegen unbefugte Zugriffe geschützt aufzubewahren und darf außerhalb der Werkstatt nur zum ordnungsgemäßen Gebrauch mitgeführt werden, soweit dies in konkreten Einzelfällen notwendig ist. Verlust oder Diebstahl der Werkstattkarte sind der ausgebenden Behörde oder Stelle unverzüglich anzuzeigen. Gleiches gilt, wenn die verantwortliche Fachkraft unter Mitnahme der Werkstattkarte ihr Arbeitsverhältnis auflöst und die Kraftfahrzeugwerkstatt die Karte nicht beschaffen kann. Die Kraftfahrzeugwerkstatt hat nachzuweisen, dass es ihr nicht möglich ist, die Werkstattkarte zurückzuerlangen.
+Die Kraftfahrzeugwerkstatt und die zur Führung der Geschäfte bestimmte Person haben sicherzustellen, dass die Werkstattkarte nicht missbräuchlich oder durch unbefugte Personen verwendet wird. Sie darf nur von der verantwortlichen Fachkraft, auf die sie ausgestellt ist, verwendet werden. Sie ist innerhalb der Werkstatt sicher und gegen unbefugte Zugriffe geschützt aufzubewahren und darf außerhalb der Werkstatt nur unter den Bedingungen der Richtlinie nach Nummer 1.2 verwendet werden. Verlust oder Diebstahl der Werkstattkarte sind der ausgebenden Behörde oder Stelle unverzüglich anzuzeigen. Gleiches gilt, wenn die verantwortliche Fachkraft unter Mitnahme der Werkstattkarte ihr Arbeitsverhältnis auflöst und die Kraftfahrzeugwerkstatt die Karte nicht beschaffen kann. Die Kraftfahrzeugwerkstatt hat nachzuweisen, dass es ihr nicht möglich ist, die Werkstattkarte zurückzuerlangen.
 
 3.3  
-Die Kraftfahrzeugwerkstatt führt zu Kontrollzwecken einen kontinuierlichen Nachweis über die jeweilige Verwendung der ihren verantwortlichen Fachkräften erteilten Werkstattkarten. Zu diesem Zweck sind die im Speicherchip der Werkstattkarten vorhandenen Daten regelmäßig auf einen Datenträger zu kopieren. Die Daten sind mindestens drei Jahre zu speichern.
+Die Kraftfahrzeugwerkstatt und die zur Führung der Geschäfte bestimmte Person führen zu Kontrollzwecken einen kontinuierlichen Nachweis über die jeweilige Verwendung der ihren verantwortlichen Fachkräften erteilten Werkstattkarten. Zu diesem Zweck sind die im Speicherchip der Werkstattkarten vorhandenen Daten regelmäßig zu kopieren. Die Daten sind in geeigneter Form mindestens drei Jahre zu speichern.
 
 4  
-Nebenbestimmungen
+Beschränkung der Beauftragung
 
-Die Anerkennung kann mit Auflagen verbunden werden, die erforderlich sind, um sicherzustellen, dass die Prüfungen ordnungsgemäß durchgeführt werden und dass die Sicherheit nach Maßgabe der Anlage 10 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 gewährleistet ist.
+Die Beauftragung zur Prüfung von Fahrtenschreibern kann auf die Prüfung von digitalen Fahrtenschreibern eingeschränkt werden, sofern die Voraussetzungen nach Anlage XVIIIb, mit Ausnahme der in Nummer 2.2 genannten Ausstattung, nachgewiesen sind.
 
 5  
-Rücknahme der Anerkennung
+Nebenbestimmungen
 
-Die Anerkennung ist zurückzunehmen, wenn bei ihrer Erteilung eine der in Nummer 2 genannten Voraussetzungen nicht vorgelegen hat. Von der Rücknahme kann abgesehen werden, wenn der Mangel nicht mehr besteht.
+Die Beauftragung kann mit Auflagen verbunden werden, die erforderlich sind, um sicherzustellen, dass die Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer ordnungsgemäß durchgeführt werden.
 
 6  
-Widerruf der Anerkennung
+Rücknahme der Beauftragung
 
-Die Anerkennung ist zu widerrufen, wenn eine der in Nummer 2 genannten Voraussetzungen weggefallen ist. Sie ist auch dann zu widerrufen, wenn die Kraftfahrzeugwerkstatt vorsätzlich oder grob fahrlässig gegen die Vorschriften zur Durchführung der Prüfungen verstoßen hat, wenn die Prüfungen nicht ordnungsgemäß durchgeführt wurden, die Sicherheit nach Anlage 10 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 nicht gewährleistet ist oder wenn die mit der Anerkennung verbundenen Auflagen nicht eingehalten worden sind. Die Anerkennung kann widerrufen werden, wenn von ihr innerhalb von sechs Monaten kein Gebrauch gemacht worden ist.
+Die Beauftragung ist zurückzunehmen, wenn bei ihrer Erteilung eine der in Nummer 2 genannten Voraussetzungen nicht vorgelegen hat. Von der Rücknahme kann abgesehen werden, wenn der Mangel nicht mehr besteht.
 
 7  
-Aufsicht
+Widerruf der Beauftragung
 
-7.1. Die Anerkennungsstelle übt die Aufsicht über die anerkannten Kraftfahrzeugwerkstätten aus. Mindestens alle 2 Jahre prüft sie oder lässt prüfen,
-
-a) ob die sich aus der Anerkennung ergebenden Pflichten, insbesondere hinsichtlich der getroffenen Sicherheitsmaßnahmen und des Umganges mit Werkstattkarten, erfüllt werden,
-
-b) ob die durchgeführten Prüfungen, Kalibrierungen und Einbauten der Fahrtschreiber und Kontrollgeräte durch den Antragsteller ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen worden sind,
-
-c) in welchem Umfang von der Anerkennung Gebrauch gemacht worden ist und
-
-d) ob die in Nummer 8 vorgeschriebenen Schulungen durchgeführt werden.
-
-Bei mindestens 10 Prozent der anerkannten Kraftfahrzeugwerkstätten müssen die Prüfungen unangekündigt durchgeführt werden. Die Prüfungen sind zu dokumentieren.
+7.1  
+Die Beauftragung ist zu widerrufen, wenn eine der in Nummer 2 genannten Voraussetzungen nachträglich weggefallen ist.
 
 7.2  
-Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschäftsräume des Inhabers der Anerkennung während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und die vorgeschriebenen Aufzeichnungen einzusehen. Der Inhaber der Anerkennung hat diese Maßnahmen zu dulden, soweit erforderlich die beauftragten Personen dabei zu unterstützen und auf Verlangen die vorgeschriebenen Aufzeichnungen vorzulegen. Er hat die Kosten der Prüfung zu tragen.
+In Einzelfällen kann zunächst das Ruhen der Beauftragung für einen bestimmten Zeitraum angeordnet werden, wenn eine der in der Anlage XVIIIb oder Nummer 2 genannten Voraussetzungen absehbar nur in einem befristeten Zeitraum nicht besteht. Wird das Fehlen der Voraussetzung nicht innerhalb des Zeitraumes des Ruhens behoben, ist die Beauftragung zu widerrufen.
+
+7.3  
+Die Beauftragung ist teilweise oder ganz zu widerrufen, wenn
+
+a) der Inhaber der Beauftragung oder eine seiner verantwortlichen Fachkräfte vorsätzlich oder grob fahrlässig gegen die Vorschriften zur Durchführung der Prüfungen verstoßen haben,
+
+b) die Prüfungen nicht ordnungsgemäß durchgeführt wurden oder
+
+c) die mit der Beauftragung verbundenen Auflagen nicht eingehalten worden sind.
+
+7.4  
+Die Beauftragung kann widerrufen werden, wenn von ihr innerhalb von sechs Monaten kein Gebrauch gemacht worden ist oder der Antragssteller auf die Beauftragung verzichtet.
+
+7.5  
+Im Falle des Widerrufs oder der Rücknahme der Beauftragung sind die bereitgestellten Prägezangeneinsätze an die beauftragende Stelle zurückzugeben. Weiterhin ist die Möglichkeit der Durchführung weiterer Prüfungen und deren Dokumentation durch geeignete Maßnahmen durch die beauftragende Stelle zu unterbinden.
+
+7.6  
+Die zuständige Ausgabestelle für Werkstattkarten und das Kraftfahrt-Bundesamt sind von dem Widerruf der Beauftragung, wie auch von der zeitlichen Untersagung und festgestellten schwerwiegenden Abweichungen von Prüftätigkeiten einer verantwortlichen Fachkraft unverzüglich zu unterrichten.
 
 8  
-Schulung der verantwortlichen Fachkräfte
+Aufsicht
 
 8.1  
-Die Schulung nach Nummer 2.5 kann durchgeführt werden durch
+Der nach Anlage XVIIIc Nummer 1.3 Buchstabe a anerkannte Fahrtenschreiberhersteller übt die Aufsicht über die von ihm beauftragten Kraftfahrzeugwerkstätten aus. Mindestens alle 2 Jahre prüft er in den von ihm beauftragten Kraftfahrzeugwerkstätten,
 
-a) Hersteller für Fahrtschreiber oder Kontrollgeräte,
+a) ob die sich aus der Beauftragung ergebenden Pflichten, insbesondere hinsichtlich der getroffenen Sicherheitsmaßnahmen und des Umganges mit Werkstattkarten, erfüllt werden,
 
-b) von einem Hersteller für Fahrtschreiber oder Kontrollgeräte autorisierte und für solche Schulungen geeignete Stellen oder
+b) ob die durchgeführten Prüfungen, Kalibrierungen und Einbauten der Fahrtenschreiber und der Geschwindigkeitsbegrenzer durch den Antragsteller ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen worden sind,
 
-c) vom Bundesinnungsverband des Kraftfahrzeughandwerks autorisierte und für solche Schulungen geeignete Bildungsstätten des Handwerks.
+c) in welchem Umfang von der Beauftragung Gebrauch gemacht worden ist,
+
+d) ob die in Nummer 9 vorgeschriebenen Schulungen durchgeführt werden und
+
+e) ob die erforderliche Ausstattung nach Anlage XVIIIb vorhanden und funktionsfähig ist.
+
+Bei beauftragten Kraftfahrzeugwerkstätten, die eigene Fahrzeuge prüfen, die dem Anwendungsbereich der Verordnung (EG) Nr. 561/2006 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung unterliegen, hat diese Überprüfung jährlich zu erfolgen. Bei mindestens 10 Prozent der beauftragten Kraftfahrzeugwerkstätten müssen die Prüfungen unangekündigt durchgeführt werden. Die Prüfungen sind zu dokumentieren.
 
 8.2  
-Schulungsstätten sind den örtlich zuständigen obersten Landesbehörden oder den von ihnen bestimmten oder nach Landesrecht zuständigen Stellen unaufgefordert zu melden; dies gilt auch für die Einstellung der Schulungstätigkeit.
+Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschäftsräume des Inhabers der Beauftragung während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und die vorgeschriebenen Aufzeichnungen einzusehen. Der Inhaber der Beauftragung hat diese Maßnahmen zu dulden, soweit erforderlich die beauftragten Personen dabei zu unterstützen und auf Verlangen die vorgeschriebenen Aufzeichnungen vorzulegen.
 
 8.3  
-Die Schulungen, die vorgeschriebenen Wiederholungsschulungen, die Schulungsinhalte sowie die Schulung der Schulungsstätten müssen der nach Nummer 1.2 bekannt gemachten Richtlinie entsprechen. Die Schulungen müssen geräte- und herstellerübergreifend durchgeführt werden.
+Falls der anerkannte Fahrtenschreiberhersteller feststellt, dass Prüfungen nicht vorschriftsgemäß durchgeführt wurden, kann er
 
-8.4  
-Die in den Schulungen für Geräte nach Anhang I B der Verordnung (EWG) Nr. 3821/85 verwendeten Kontrollgeräte und Karten sind mit speziellen Test-Keys auszurüsten, um Sicherheitsrisiken wie beispielsweise einen Diebstahl und eine damit verbundene unbefugte Weiterverwendung von Schulungskarten auszuschließen.
+a) eine erneute Prüfung der betroffenen Fahrzeuge anordnen,
+
+b) die Nachschulung verantwortlicher Fachkräfte anordnen,
+
+c) die Ausübung der Prüftätigkeit der verantwortlichen Fachkräfte bis zu einem Zeitraum von sechs Monaten untersagen,
+
+d) den Inhaber der Beauftragung oder eine verantwortliche Fachkraft schriftlich abmahnen oder
+
+e) die Beauftragung mit weiteren Auflagen verbinden, beispielsweise einer jährlichen Überwachung.
+
+Satz 1 gilt nicht, wenn die Beauftragung gemäß Nummer 7 widerrufen werden muss.
 
 9  
-Aufsicht über das Anerkennungsverfahren und die Schulungen
+Schulung der verantwortlichen Fachkräfte
 
 9.1  
-Die Aufsicht über die Anerkennungsstellen und das Anerkennungsverfahren obliegt der zuständigen obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen. Nummer 7.2 ist entsprechend anzuwenden.
+Die Schulung nach Nummer 2.6 kann durchgeführt werden durch
+
+a) anerkannte Fahrtenschreiberhersteller,
+
+b) von einem anerkannten Fahrtenschreiberhersteller autorisierte und für solche Schulungen geeignete Stellen oder
+
+c) vom Bundesinnungsverband des Kraftfahrzeughandwerks autorisierte und für solche Schulungen geeignete Bildungsstätten des Kraftfahrzeughandwerks.
 
 9.2  
-Die Aufsicht über die Schulungen obliegt der zuständigen obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen.
+Schulungsstätten sind dem Kraftfahrt-Bundesamt unaufgefordert zu melden; dies gilt auch für die Einstellung der Schulungstätigkeit.
 
-Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschäftsräume der Schulungsstätten während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und die vorgeschriebenen Aufzeichnungen einzusehen. Der Inhaber oder Leiter der Schulungsstätte hat diese Maßnahmen zu dulden, soweit erforderlich die beauftragten Personen dabei zu unterstützen und auf Verlangen die vorgeschriebenen Aufzeichnungen vorzulegen. Die Schulungsstätte hat die Kosten der Prüfung zu tragen.
+9.3  
+Die Schulungen, die vorgeschriebenen Fortbildungsschulungen, die Schulungsinhalte sowie die Schulung der Schulungsstätten müssen der nach Nummer 1.2 bekannt gemachten Richtlinie entsprechen. Die Schulungen müssen geräte- und herstellerübergreifend durchgeführt werden.
+
+9.4  
+Die in den Schulungen für digitale Fahrtenschreiber verwendeten Fahrtenschreiber und Schulungskarten sind mit speziellen Test-Keys auszurüsten, um Sicherheitsrisiken wie beispielsweise einen Diebstahl und eine damit verbundene unbefugte Weiterverwendung von Schulungskarten auszuschließen.
 
 10  
+Aufsicht über das Beauftragungsverfahren und die Schulungen
+
+Die Aufsicht über die beauftragenden Stellen, das Beauftragungsverfahren und die Schulungen obliegt dem Kraftfahrt-Bundesamt. Nummer 8.2 ist entsprechend anzuwenden.
+
+11  
 Schlussbestimmungen
 
-10.1  
-Veränderungen bei anerkannten Kraftfahrzeugwerkstätten, die ihre Anerkennung beeinflussen können, sind von ihnen der Anerkennungsstelle unaufgefordert mitzuteilen.
+11.1  
+Veränderungen bei beauftragten Kraftfahrzeugwerkstätten, die ihre Beauftragung beeinflussen können, sind dem anerkannten Fahrtenschreiberhersteller unaufgefordert mitzuteilen.
 
-10.2  
-Veränderungen bei Schulungsstätten, die Einfluss auf die Durchführung der Schulungen haben können, sind den nach Nummer 8.2 zuständigen Stellen unaufgefordert zu melden.
+11.2  
+Veränderungen bei Schulungsstätten, die Einfluss auf die Durchführung der Schulungen haben können, sind dem Kraftfahrt-Bundesamt unaufgefordert zu melden.
 
-# Anlage XIX – (§ 19 Absatz 3 Nummer 4)Teilegutachten
-
-(Fundstelle: BGBl. I 2012, 820;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-1  
-Teilegutachten/Technischer Dienst oder Prüfstelle
-
-1.1  
-Ein Teilegutachten ist das Gutachten eines Technischen Dienstes oder einer Prüfstelle über die Vorschriftsmäßigkeit eines Fahrzeugs bei bestimmungsgemäßem Ein- oder Anbau der begutachteten Teile. Ein Teilegutachten muss den Verwendungsbereich der begutachteten Teile und notwendige Hinweise für die Abnahme des Anbaus durch den amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr oder durch einen Kraftfahrzeugsachverständigen oder Angestellten nach Nummer 4 der Anlage VIIIb sowie Auflagen und Einschränkungen enthalten.
-
-1.2  
-Technischer Dienst oder Prüfstelle ist ein entsprechend der Norm DIN EN 45 001 (Ausgabe Mai 1990) anerkanntes oder nach den Normen DIN EN 45 001 (Ausgabe Mai 1990) und DIN EN 45 002 (Ausgabe Mai 1990) akkreditiertes Prüflaboratorium. Sie können Teilegutachten nach Abschnitt 1.1 auf Grund von Prüfungen und Prüfungsarten erstellen, für die sie akkreditiert oder anerkannt sind.
-
-1.3  
-Die Technischen Dienste und Prüfstellen haben bei der Erstellung von Teilegutachten den im Verkehrsblatt mit Zustimmung der zuständigen obersten Landesbehörden bekannt gemachten „Beispielkatalog über Änderungen an Fahrzeugen und ihre Auswirkungen auf die Betriebserlaubnis von Fahrzeugen“ zugrunde zu legen.
-
-1.4  
-Die Technischen Dienste und Prüfstellen haben die von ihnen erstellten Teilegutachten dem Kraftfahrt-Bundesamt nach dessen Vorgaben für eine zentrale Erfassung zur Verfügung zu stellen.
-
-2  
-Qualitätssicherungssystem
-
-2.1  
-Die Gültigkeit und die Erstellung eines Teilegutachtens nach Nummer 1.1 setzen den Nachweis des Herstellers dieser Teile darüber voraus, dass er in Bezug auf die Produktion dieser Teile in seiner Fertigung ein Qualitätssicherungssystem unterhält, das der harmonisierten Norm DIN EN ISO 9002 (Ausgabe August 1994) oder einem gleichwertigen Standard entspricht. Das Teilegutachten muss auf das Vorliegen eines entsprechenden Nachweises hinweisen. Als Hersteller im Sinn des Satzes 1 gilt die Person oder Stelle, die gegenüber dem jeweiligen Technischen Dienst für alle Belange des Teilegutachtens gemäß § 19 in Verbindung mit Anlage XIX sowie für die Sicherstellung der Übereinstimmung der Produktion verantwortlich ist.
-
-2.2  
-Der unter Nummer 2.1 genannte Nachweis kann dadurch erbracht werden, dass dieses Qualitätssicherungssystem durch eine benannte Stelle gemäß dem Modul D (QS-Produktion) des Beschlusses des Rates vom 13. Dezember 1990 über die in den technischen Harmonisierungsrichtlinien zu verwendenden Module für die verschiedenen Phasen der Konformitätsbewertungsverfahren (90/683/EWG) (ABl. L 380 vom 31.12.1990, S. 13) zertifiziert ist und überwacht wird.
-
-Stellen, die die Einrichtung und die Anwendung von Qualitätssicherungssystemen nach 2.1 zertifizieren und überwachen, müssen gemäß den Normen EN 45 012 (Ausgabe September 1989) und EN 45 002 (Ausgabe Mai 1990) akkreditiert sein (Zertifizierungsstelle für Qualitätssicherungssysteme).
-
-Unberührt bleibt die Akkreditierung von Zertifizierungsstellen, die durch einen anderen Mitgliedstaat erteilt ist.
+# Anlage XIX – (weggefallen)
 
 # Anlage XX – (weggefallen)
 

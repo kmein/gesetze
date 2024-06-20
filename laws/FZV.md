@@ -153,7 +153,13 @@ b) dreirädriges Kleinkraftrad mit Fremdzündungsmotor, dessen Hubraum nicht meh
 
 25. Überführungsfahrt: die Fahrt zur Überführung des Fahrzeuges an einen anderen Ort, auch zur Durchführung von Um- oder Aufbauten.
 
-Die nationale Typgenehmigung nach Satz 1 Nummer 5 oder die Fahrzeug-Einzelgenehmigung nach Satz 1 Nummer 6 ist eine Betriebserlaubnis im Sinne des Straßenverkehrsgesetzes und eine Allgemeine Betriebserlaubnis im Sinne der Straßenverkehrs-Zulassungs-Ordnung. Unter den Begriff der selbstfahrenden Arbeitsmaschine nach Satz 1 Nummer 17 fällt auch ein selbstfahrender Futtermischwagen mit einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 25 Kilometern pro Stunde. Ein land- oder forstwirtschaftliches Arbeitsgerät nach Satz 1 Nummer 20 kann auch mit einer Ladeplattform ausgestattet sein, die für die Aufnahme der zur Ausführung der Arbeiten erforderlichen Geräte und Vorrichtungen oder die für die zeitweilige Lagerung der bei der Arbeit erzeugten und benötigten Materialien konstruiert und gebaut ist. Des Weiteren zählt zu einem land- oder forstwirtschaftlichen Arbeitsgerät nach Satz 1 Nummer 20 auch ein Fahrzeug, das dazu bestimmt ist, von einer Zugmaschine gezogen zu werden, und das dauerhaft mit einem Gerät ausgerüstet oder für die Bearbeitung von Materialien ausgelegt ist, sofern der Quotient zwischen der technisch zulässigen Gesamtmasse und der Leermasse dieses Fahrzeuges weniger als 3,0 beträgt.
+Die nationale Typgenehmigung nach Satz 1 Nummer 5 oder die Fahrzeug-Einzelgenehmigung nach Satz 1 Nummer 6 ist eine Betriebserlaubnis im Sinne des Straßenverkehrsgesetzes und eine Allgemeine Betriebserlaubnis im Sinne der Straßenverkehrs-Zulassungs-Ordnung. Unter den Begriff der selbstfahrenden Arbeitsmaschine nach Satz 1 Nummer 17 fällt auch
+
+1. ein selbstfahrender Futtermischwagen mit einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 25 Kilometern pro Stunde,
+
+2. ein Holzrückefahrzeug mit einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 25 Kilometern pro Stunde, das mit einer Vorrichtung für Lade- und Sortierprozesse ausgerüstet ist und dessen im öffentlichen Straßenverkehr zulässige Nutzlast 500 Kilogramm nicht überschreitet.
+
+Ein land- oder forstwirtschaftliches Arbeitsgerät nach Satz 1 Nummer 20 kann auch mit einer Ladeplattform ausgestattet sein, die für die Aufnahme der zur Ausführung der Arbeiten erforderlichen Geräte und Vorrichtungen oder die für die zeitweilige Lagerung der bei der Arbeit erzeugten und benötigten Materialien konstruiert und gebaut ist. Des Weiteren zählt zu einem land- oder forstwirtschaftlichen Arbeitsgerät nach Satz 1 Nummer 20 auch ein Fahrzeug, das dazu bestimmt ist, von einer Zugmaschine gezogen zu werden, und das dauerhaft mit einem Gerät ausgerüstet oder für die Bearbeitung von Materialien ausgelegt ist, sofern der Quotient zwischen der technisch zulässigen Gesamtmasse und der Leermasse dieses Fahrzeuges weniger als 3,0 beträgt.
 
 # § 3 – Notwendigkeit einer Zulassung
 
@@ -181,7 +187,7 @@ d) zwei- oder dreirädrige Kleinkrafträder,
 
 e) motorisierte Krankenfahrstühle,
 
-f) leichte vierrädrige Kraftfahrzeuge einschließlich vierrädriger Leichtkraftfahrzeuge der Klasse L6e die nach Artikel 1 Absatz 3 Buchstabe a der Richtlinie 2002/24/EG des Europäischen Parlaments und des Rates vom 18. März 2002 über die Typgenehmigung für zweirädrige oder dreirädrige Kraftfahrzeuge und zur Aufhebung der Richtlinie 92/61/EWG des Rates (ABl. L 124 vom 9.5.2002, S. 1) typgenehmigt wurden,
+f) leichte vierrädrige Kraftfahrzeuge einschließlich vierrädriger Leichtkraftfahrzeuge der Klasse L6e, die nach Artikel 1 Absatz 3 Buchstabe a der Richtlinie 2002/24/EG des Europäischen Parlaments und des Rates vom 18. März 2002 über die Typgenehmigung für zweirädrige oder dreirädrige Kraftfahrzeuge und zur Aufhebung der Richtlinie 92/61/EWG des Rates (ABl. L 124 vom 9.5.2002, S. 1) typgenehmigt wurden,
 
 g) Elektrokleinstfahrzeuge im Sinne des § 1 Absatz 1 der Elektrokleinstfahrzeuge-Verordnung,
 
@@ -267,7 +273,7 @@ Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung des Kennzeich
 
 Name oder Bezeichnung und Anschrift;
 
-3. bei Vereinigungen:
+3. bei Vereinigungen, soweit ihnen ein Recht zustehen kann:
 
 Vertreter mit den Angaben nach Nummer 1 oder 2 und Name der Vereinigung.
 
@@ -554,11 +560,11 @@ In die Plakette ist von der Ausgabestelle im dafür vorgesehenen Sichtfeld mit l
 
 (11) Am Fahrzeug darf außer dem Kennzeichen nur das Unterscheidungszeichen für den Zulassungsstaat nach Artikel 37 in Verbindung mit Anhang 3 des Übereinkommens vom 8. November 1968 über den Straßenverkehr (BGBl. 1977 II S. 809) angebracht werden. Für die Bundesrepublik Deutschland ist dies der Großbuchstabe „D“.
 
-(12) Zeichen und Einrichtungen aller Art, die zu Verwechslungen mit Kennzeichen oder dem Unterscheidungszeichen nach Absatz 10 Satz 1 führen oder deren Wirkung beeinträchtigen können, dürfen an Fahrzeugen nicht angebracht werden. Über die Anbringung der Zeichen „CD“ für Fahrzeuge von Angehörigen diplomatischer Vertretungen und „CC“ für Fahrzeuge von Angehörigen konsularischer Vertretungen entscheidet das Bundesministerium für Digitales und Verkehr. Die Zeichen CD und CC dürfen an einem Fahrzeug auf öffentlichen Straßen von der das Fahrzeug führenden Person nur geführt werden, wenn die Berechtigung in der Zulassungsbescheinigung Teil I eingetragen ist. Der Halter darf die Inbetriebsetzung eines Fahrzeuges auf öffentlichen Straßen nur anordnen oder zulassen, wenn die Voraussetzungen nach Satz 3 vorliegen.
+(12) Zeichen und Einrichtungen aller Art, die zu Verwechslungen mit Kennzeichen oder dem Unterscheidungszeichen nach Absatz 11 Satz 1 führen oder deren Wirkung beeinträchtigen können, dürfen an Fahrzeugen nicht angebracht werden. Über die Anbringung der Zeichen „CD“ für Fahrzeuge von Angehörigen diplomatischer Vertretungen und „CC“ für Fahrzeuge von Angehörigen konsularischer Vertretungen entscheidet das Bundesministerium für Digitales und Verkehr. Die Zeichen CD und CC dürfen an einem Fahrzeug auf öffentlichen Straßen von der das Fahrzeug führenden Person nur geführt werden, wenn die Berechtigung in der Zulassungsbescheinigung Teil I eingetragen ist. Der Halter darf die Inbetriebsetzung eines Fahrzeuges auf öffentlichen Straßen nur anordnen oder zulassen, wenn die Voraussetzungen nach Satz 3 vorliegen.
 
 (13) Unbeschadet des Absatzes 4 darf ein Fahrzeug auf öffentlichen Straßen von der das Fahrzeug führenden Person nur in Betrieb gesetzt werden, wenn
 
-1. das zugeteilte Kennzeichen auf einem Kennzeichenschild nach Absatz 1 Satz 1, Absatz 2 Satz 1 bis 3, Absatz 5 Satz 1 und 2, Absatz 6, Absatz 7, Absatz 8 Satz 1 und Satz 2 sowie Absatz 10 Satz 1 ausgestaltet, angebracht und beleuchtet ist,
+1. das zugeteilte Kennzeichen auf einem Kennzeichenschild nach Absatz 1 Satz 1, Absatz 2 Satz 1 bis 3, Absatz 5 Satz 1 und 2, Absatz 6, Absatz 7, Absatz 8 Satz 1 und Satz 2, Absatz 9 Satz 1 sowie Absatz 10 Satz 1 ausgestaltet, angebracht und beleuchtet ist,
 
 2. die Stempelplakette nach Absatz 3 vorhanden ist und
 
@@ -818,7 +824,7 @@ c) § 78 Absatz 5 des Aufenthaltsgesetzes, oder
 
 Die Zulassungsbehörde kann abweichend von Satz 1 zulassen, dass ein elektronischer Antrag auch dann übermittelt werden darf, sofern dieser mit einer qualifizierten elektronischen Signatur der antragstellenden Person versehen worden ist und die Angaben zum Vor- und Nachnamen der antragstellenden Person mit den entsprechenden Daten des Halters übereinstimmen. Für die Anbringung der qualifizierten elektronischen Signatur kann eine andere Identifizierungsmethode als die nach Satz 1 zugelassen werden, wenn diese Methode in § 11 Absatz 1 des Vertrauensdienstegesetzes festgelegt ist.
 
-(3) Bei einer juristischen Person, einer Behörde, einer Vereinigung, sofern ihnen ein Recht zustehen kann, oder einem beruflich Selbstständigen als Halter, hat die Identifizierung zu erfolgen anhand
+(3) Bei einer juristischen Person, einer Behörde, einer Vereinigung, sofern ihr ein Recht zustehen kann, oder einem beruflich Selbstständigen als Halter, hat die Identifizierung zu erfolgen anhand
 
 1. eines Organisationskontos nach § 3 Absatz 2 des Onlinezugangsgesetzes oder
 
@@ -1294,7 +1300,7 @@ Absatz 5 Satz 2 und Satz 3 gilt entsprechend.
 
 2. die Höhe der festgesetzten Gebühr und
 
-3. die Fahrzeugdaten und Halterdaten im Umfang der Eintragungen in den Zulassungsbescheinigungen Teil I und Teil II, sofern beantragt.
+3. im Umfang der Eintragungen in den Zulassungsbescheinigungen Teil I und Teil II die vollständigen Fahrzeugdaten und vollständigen Halterdaten sowie die Dokumentennummern der Zulassungsbescheinigungen Teil I und Teil II, sofern beantragt.
 
 Ist ein Dritter der Halter, bedarf es für die Übermittlung der Fahrzeug- und Halterdaten an den Großkunden der Einwilligung des Dritten nach Anlage 12.
 
@@ -1328,9 +1334,9 @@ Für die sofortige Inbetriebsetzung eines Fahrzeuges gelten die Vorschriften des
 
 Dies gilt auch für eine notwendige Fahrt zum Tanken und zur Außenreinigung anlässlich einer Fahrt nach Satz 1 sowie für eine notwendige Fahrt zum Zweck der Reparatur oder Wartung des betreffenden Fahrzeuges. Ein Fahrzeug, dem nach § 10 Absatz 3 ein Saisonkennzeichen zugeteilt ist, darf außerhalb des Betriebszeitraums nach Maßgabe der Sätze 1 und 2 in Betrieb gesetzt werden, wenn das Saisonkennzeichen nicht gleichzeitig geführt wird. Ein Fahrzeug, dem nach § 9 Absatz 2 ein Wechselkennzeichen zugeteilt ist, darf nach Maßgabe der Sätze 1 und 2 in Betrieb gesetzt werden, wenn das Wechselkennzeichen weder vollständig noch in Teilen gleichzeitig geführt wird. § 31 Absatz 2 der Straßenverkehrs-Zulassungs-Ordnung bleibt unberührt.
 
-(2) Ein rotes Kennzeichen und ein besonderes Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen nach Anlage 13 können durch die Zulassungsbehörde einem zuverlässigen Kraftfahrzeughersteller, einem zuverlässigen Kraftfahrzeugteilehersteller, einer zuverlässigen Kraftfahrzeugwerkstatt, einem zuverlässigen Kraftfahrzeughändler und durch die in der Anlage 2 genannten Zulassungsbehörden der Bundesanstalt Technisches Hilfswerk, der Bundespolizei, dem Bundeskriminalamt, der Polizeien der Länder, der Bundeswehr und der Zollverwaltung befristet oder widerruflich zur wiederkehrenden betrieblichen Verwendung, auch an unterschiedlichen Fahrzeugen, zugeteilt werden. Das rote Kennzeichen hat zu bestehen aus einem Unterscheidungszeichen nach § 9 Absatz 1 und einer nur aus Ziffern bestehenden und mit „06“ beginnenden Erkennungsnummer nach § 9 Absatz 1.
+(2) Ein rotes Kennzeichen und ein besonderes Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen nach Anlage 13 können durch die Zulassungsbehörde einem zuverlässigen Kraftfahrzeughersteller, einem zuverlässigen Kraftfahrzeugteilehersteller, einer zuverlässigen Kraftfahrzeugwerkstatt, einem zuverlässigen Kraftfahrzeughändler, einem zuverlässigen Hersteller von zulassungspflichtigen Anhängern, die hinter Kraftfahrzeugen geführt werden, und durch die in der Anlage 2 genannten Zulassungsbehörden der Bundesanstalt Technisches Hilfswerk, der Bundespolizei, dem Bundeskriminalamt, der Polizeien der Länder, der Bundeswehr und der Zollverwaltung befristet oder widerruflich zur wiederkehrenden betrieblichen Verwendung, auch an unterschiedlichen Fahrzeugen, zugeteilt werden. Das rote Kennzeichen hat zu bestehen aus einem Unterscheidungszeichen nach § 9 Absatz 1 und einer nur aus Ziffern bestehenden und mit „06“ beginnenden Erkennungsnummer nach § 9 Absatz 1.
 
-(3) Für jedes Fahrzeug, das ein rotes Kennzeichen führt, ist von der das Fahrzeug führenden Person eine gesonderte Seite des Fahrzeugscheinheftes zu dessen Beschreibung zu verwenden, wobei die Angaben zum Fahrzeug vor Antritt der ersten Fahrt vollständig und in dauerhafter Schrift einzutragen sind. Das Fahrzeugscheinheft ist von der das Fahrzeug führenden Person bei jeder Fahrt mitzuführen und zuständigen Personen auf Verlangen auszuhändigen. Über jede Prüfungsfahrt, Probefahrt oder Überführungsfahrt sind fortlaufende Aufzeichnungen nach Satz 1 zu führen, aus denen das verwendete rote Kennzeichen, das Datum der Fahrt, deren Beginn und Ende, der Fahrzeugführer mit dessen Anschrift, die Fahrzeugklasse und der Hersteller des Fahrzeuges, sowie die Fahrzeug-Identifizierungsnummer und die Fahrtstrecke ersichtlich sind. Die Aufzeichnungen nach Satz 3 sind von der das Fahrzeug führenden Person vor dem jeweiligen Fahrtantritt vorzunehmen, Angaben zum Ende der Fahrt und zu der Fahrtstrecke dürfen auch unverzüglich nach Fahrtende eingetragen werden. Die Aufzeichnungen sind vom Inhaber des roten Kennzeichenschilds ein Jahr lang nach Erstellung aufzubewahren und den zuständigen Personen jederzeit auf Verlangen zur Prüfung auszuhändigen. Das rote Kennzeichenschild hat der Inhaber mit dem dazugehörigen Fahrzeugscheinheft der zuständigen Zulassungsbehörde unverzüglich zur Entwertung vorzulegen, wenn
+(3) Für jedes Fahrzeug, das ein rotes Kennzeichen führt, ist vom Inhaber des roten Kennzeichenschilds eine gesonderte Seite des Fahrzeugscheinheftes zur Beschreibung des Fahrzeuges zu verwenden, wobei die Angaben zum Fahrzeug vor Antritt der ersten Fahrt vollständig und in dauerhafter Schrift einzutragen sind. Das Fahrzeugscheinheft ist von der das Fahrzeug führenden Person bei jeder Fahrt mitzuführen und zuständigen Personen auf Verlangen auszuhändigen. Über jede Prüfungsfahrt, Probefahrt oder Überführungsfahrt sind fortlaufende Aufzeichnungen nach Satz 1 zu führen, aus denen das verwendete rote Kennzeichen, das Datum der Fahrt, deren Beginn und Ende, der Fahrzeugführer mit dessen Anschrift, die Fahrzeugklasse und der Hersteller des Fahrzeuges, sowie die Fahrzeug-Identifizierungsnummer und die Fahrtstrecke ersichtlich sind. Die Aufzeichnungen nach Satz 3 sind vom Inhaber des roten Kennzeichenschilds vor dem jeweiligen Fahrtantritt vorzunehmen, Angaben zum Ende der Fahrt und zu der Fahrtstrecke dürfen auch unverzüglich nach Fahrtende eingetragen werden. Die Aufzeichnungen sind vom Inhaber des roten Kennzeichenschilds ein Jahr lang nach Erstellung aufzubewahren und den zuständigen Personen jederzeit auf Verlangen zur Prüfung auszuhändigen. Das rote Kennzeichenschild hat der Inhaber mit dem dazugehörigen Fahrzeugscheinheft der zuständigen Zulassungsbehörde unverzüglich zur Entwertung vorzulegen, wenn
 
 1. die Frist, für die das rote Kennzeichen zugeteilt worden ist, abgelaufen ist,
 
@@ -2753,7 +2759,9 @@ Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt,
 
 (3) Ein Kennzeichen, das vor dem 1. März 2007 nach Maßgabe der Straßenverkehrs-Zulassungs-Ordnung zugeteilt worden ist, bleibt gültig.
 
-(4) Ein Unterscheidungszeichen nach Maßgabe der Anlage 1 Nummer 1 in der bis zum 31. Oktober 2012 geltenden Fassung dieser Verordnung gilt als beantragt und festgelegt im Sinne des § 9 Absatz 3 Satz 1 und 6. Ein Unterscheidungszeichen nach Maßgabe der Anlage 1 Nummer 2 in der bis zum 31. Oktober 2012 geltenden Fassung dieser Verordnung gilt als aufgehoben im Sinne des § 9 Absatz 3 Satz 1 und 6. Abweichend von § 9 Absatz 3 Satz 4 darf ein neues Unterscheidungszeichen auf Antrag für einen am 1. November 2012 bestehenden Verwaltungsbezirk festgelegt werden, wenn für diesen Verwaltungsbezirk bis zum Ablauf des 25. Oktober 2012 noch kein den gesamten Verwaltungsbezirk umfassendes Unterscheidungszeichen vergeben worden ist.
+(3a) Ein Kennzeichen, das vor dem 1. September 2023 nach Maßgabe der vor diesem Zeitpunkt geltenden Fahrzeug-Zulassungsverordnung zugeteilt worden ist, bleibt gültig, sofern nichts Abweichendes bestimmt ist.
+
+(4) Ein Unterscheidungszeichen nach Anlage 1 Nummer 1 in der bis zum 31. Oktober 2012 geltenden Fassung dieser Verordnung gilt als beantragt und festgelegt im Sinne des § 9 Absatz 3 Satz 1 und 6. Ein Unterscheidungszeichen nach Anlage 1 Nummer 2 in der bis zum 31. Oktober 2012 geltenden Fassung dieser Verordnung gilt als aufgehoben im Sinne des § 9 Absatz 3 Satz 1 und 6. Abweichend von § 9 Absatz 3 Satz 4 darf ein Unterscheidungszeichen nach Anlage 1 in der bis zum 31. Oktober 2012 geltenden Fassung ohne Rücksicht auf den bevorstehenden Verbrauch verfügbarer Kennzeichenkombinationen festgelegt werden.
 
 (5) Folgende Fahrzeugdokumente gelten als Fahrzeugdokumente im Sinne dieser Verordnung fort:
 
@@ -2827,7 +2835,7 @@ cc) Buchstaben i bis l,
 
 Eine Nacherfassung der Daten nach Satz 1 für Fahrzeuge, die zu diesem Zeitpunkt bereits in Verkehr waren, erfolgt nicht.
 
-(8) Ein Fahrzeug, das nach der bis zum 2. Juli 2021 geltenden Fassung dieser Verordnung als zulassungspflichtig zugelassen worden ist und welches die Voraussetzungen nach § 2 Nummer 12 erfüllt, gilt ab dem 3. Juli 2021 als nach § 3 Absatz 4 zugelassen. Ein Fahrzeug, das nach § 2 Nummer 12 in Verbindung mit § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe f, jeweils in der bis zum 2. Juli 2021 geltenden Fassung, von den Vorschriften über das Zulassungsverfahren ausgenommen war, vor dem 2. Juli 2021 erstmals rechtmäßig in den Verkehr gekommen ist und nicht zugleich ein leichtes vierrädriges Kraftfahrzeug im Sinne von § 2 Nummer 12 ist, bleibt weiterhin von den Vorschriften über das Zulassungsverfahren ausgenommen.
+(8) Ein Fahrzeug, das nach der bis zum 2. Juli 2021 geltenden Fassung dieser Verordnung als zulassungspflichtig zugelassen worden ist und welches die Voraussetzungen nach § 2 Nummer 12 erfüllt, gilt ab dem 3. Juli 2021 als nach § 3 Absatz 4 zugelassen. Ein Fahrzeug, das nach § 2 Nummer 12 in Verbindung mit § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe f, jeweils in der bis zum 2. Juli 2021 geltenden Fassung, von den Vorschriften über das Zulassungsverfahren ausgenommen war, vor dem 2. Juli 2021 erstmals rechtmäßig in den Verkehr gekommen ist und nicht zugleich ein leichtes vierrädriges Kraftfahrzeug im Sinne von § 2 Satz 1 Nummer 12 ist, bleibt weiterhin von den Vorschriften über das Zulassungsverfahren ausgenommen.
 
 (9) § 11 und Anlage 3 sind mit Ablauf des 31. Dezember 2026 nicht mehr anzuwenden.
 
@@ -4352,13 +4360,14 @@ Abbildung Seite 1:
 
   
 Fahrzeugscheinheft  
-für Fahrzeuge mit rotem Kennzeichen nach  
+für Fahrzeuge mit rotem Kennzeichen nach § 41 FZV  
 
  
 
  
 
 Gültig vom     bis  
+  
 
  
 
@@ -4380,12 +4389,14 @@ Gültig vom     bis
 
   
 Das vorstehende Kennzeichen ist  
+  
 
  
 
  
 
 Vorname, Name, Firma  
+  
 
  
 
@@ -4404,7 +4415,9 @@ Vorname, Name, Firma
  
 
   
+  
 Postleitzahl, Wohnort/Firmensitz, Straße und Hausnummer  
+  
 
  
 
@@ -4422,7 +4435,8 @@ Postleitzahl, Wohnort/Firmensitz, Straße und Hausnummer
 
  
 
-für die nachfolgend beschriebenen Fahrzeuge zu Prüfungs-, Probe-, und Überführungsfahrten zugeteilt worden. 
+für die nachfolgend beschrieben Fahrzeuge zu Prüfungs-, Probe-, und Überführungsfahrten zugeteilt worden.   
+
  
 
  
@@ -4432,7 +4446,7 @@ Dieses Heft gilt nur, wenn die nachfolgende Beschreibung für das jeweilige Fahr
 
  
 
-Postleitzahl, Wohnort/Firmensitz
+ 
 
  
 
@@ -4444,6 +4458,7 @@ Postleitzahl, Wohnort/Firmensitz
 
   
 Ort, Datum  
+  
 
  
 
@@ -4464,6 +4479,7 @@ Ort, Datum
  
 
 Name der Zulassungsbehörde  
+  
 
  
 
@@ -4474,6 +4490,12 @@ Name der Zulassungsbehörde
  
 
 Unterschrift  
+
+ 
+
+ 
+
+ 
 
  
 
