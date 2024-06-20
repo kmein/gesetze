@@ -826,7 +826,7 @@
 - [BinSchLotsVergV 2012](laws/BinSchLotsVergV_2012.md) Verordnung über die Entgelte für die Leistungen der Binnenlotsen auf der Bundeswasserstraße Rhein zwischen den Schleusen Iffezheim und Mannheim/Ludwigshafen
 - [BinSchLV](laws/BinSchLV.md) Verordnung über die Lade- und Löschzeiten sowie das Liegegeld in der Binnenschifffahrt
 - [BinSchOWiZustV 1974](laws/BinSchOWiZustV_1974.md) Verordnung über die Zuständigkeit der Generaldirektion Wasserstraßen und Schifffahrt für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten
-- [BinSchPersBefähPrV](laws/BinSchPersBefähPrV.md) Verordnung über die Durchführung von Befähigungsprüfungen nach der Binnenschiffspersonalverordnung
+- [BinSchPersBefähPrV](laws/BinSchPersBefähPrV.md) Verordnung über die Durchführung von Befähigungsprüfungen nach der Binnenschiffspersonalverordnung *
 - [BinSchPersBetrEBefähPrV](laws/BinSchPersBetrEBefähPrV.md) Verordnung über die Durchführung von behördlichen Befähigungsprüfungen auf Betriebsebene nach der Binnenschiffspersonalverordnung
 - [BinSchPersV](laws/BinSchPersV.md) Verordnung über die Besatzung und über die Befähigungen der Besatzung von Fahrzeugen in der Binnenschifffahrt
 - [BinSchSiV](laws/BinSchSiV.md) Verordnung zur Sicherstellung des Binnenschiffsverkehrs
