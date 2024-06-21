@@ -5,6 +5,7 @@
 - [AAppO](laws/AAppO.md) Approbationsordnung für Apotheker
 - [AarhusÜbk](laws/AarhusÜbk.md) Übereinkommen über den Zugang zu Informationen, die Öffentlichkeitsbeteiligung an Entscheidungsverfahren und den Zugang zu Gerichten in Umweltangelegenheiten
 - [AARKZustAnO](laws/AARKZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Auswärtigen Amts in Reisekostenangelegenheiten
+- [AAÜbertrAnO](laws/AAÜbertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Bescheiden und Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Bediensteten des Auswärtigen Amts auf das Bundesverwaltungsamt
 - [AAÜG](laws/AAÜG.md) Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets
 - [AAÜG-ÄndG](laws/AAÜG-ÄndG.md) Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes
 - [AAÜGErstV](laws/AAÜGErstV.md) Verordnung über die Erstattung von Aufwendungen nach dem Gesetz zur Überführung von Ansprüchen und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets durch den Bund
@@ -729,6 +730,7 @@
 - [BEZNG](laws/BEZNG.md) Gesetz zur Zusammenführung und Neugliederung der Bundeseisenbahnen
 - [BfAAErnAnO](laws/BfAAErnAnO.md) Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten des Bundesamts für Auswärtige Angelegenheiten
 - [BfAAG](laws/BfAAG.md) Gesetz über die Errichtung eines Bundesamts für Auswärtige Angelegenheiten
+- [BfAAÜbertrAnO](laws/BfAAÜbertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Bescheiden und Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Bediensteten des Bundesamts für Auswärtige Angelegenheiten auf das Bundesverwaltungsamt
 - [BfAAWidVertrAnO](laws/BfAAWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesamts für Auswärtige Angelegenheiten in Beihilfe-, Reisekosten- und Umzugskostenangelegenheiten sowie für die Beihilfefestsetzung
 - [BfAG](laws/BfAG.md) Gesetz über die Errichtung der Bundesversicherungsanstalt für Angestellte
 - [BfAIPG](laws/BfAIPG.md) Gesetz über das Personal der Bundesagentur für Außenwirtschaft
