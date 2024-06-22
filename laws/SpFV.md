@@ -409,7 +409,7 @@ b) unter erheblicher Einwirkung berauschender Mittel oder
 
 # Anlage 1 – (zu § 3 Absatz 1 und § 4 Absatz 1)Muster für den amtlichen Sportbootführerschein
 
-(Fundstelle: BGBl. I 2022, 2213)
+(Fundstelle: BGBl. I 2022, 2213; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite
 
@@ -808,7 +808,7 @@ Umgang mit Seekarten, Standortbestimmung durch Peilen und Koppeln, Kursabweichun
 
 # Anlage 4 – (zu § 8 Absatz 1 Satz 4)Praktische Prüfung zum Erwerb des Sportbootführerscheins
 
-(Fundstelle: BGBl. I 2017, 1031 - 1033)
+(Fundstelle: BGBl. I 2017, 1031 - 1033; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1\. Allgemeines
 
@@ -1265,7 +1265,7 @@ Ansprüche auf Teilnahme an der Prüfung, Vorschlag zur Bestellung und Einsatz a
 
 # Anlage 7 – (zu § 10 Absatz 3 Satz 3)Belehrung gemäß § 10 Absatz 3 Satz 3
 
-(Fundstelle: BGBl. I 2017, 1036)
+(Fundstelle: BGBl. I 2017, 1036; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die für die beliehenen Verbände tätigen Prüfer erhalten Entscheidungsbefugnisse für die Ausübung ihrer Prüfungstätigkeit und treten dem Bewerber um eine Fahrerlaubnis als Hoheitsträger gegenüber.
 

@@ -658,6 +658,7 @@
 - [BeitrS. RV/BA ÄndG](laws/BeitrS._RV_BA_ÄndG.md) Gesetz zur Änderung der Beitragssätze in der gesetzlichen Rentenversicherung und bei der Bundesanstalt für Arbeit
 - [BelWertV](laws/BelWertV.md) Verordnung über die Ermittlung der Beleihungswerte von Grundstücken nach § 16 Abs. 1 und 2 des Pfandbriefgesetzes
 - [BEMFV](laws/BEMFV.md) Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder
+- [BEPSMLIAnwG](laws/BEPSMLIAnwG.md) Gesetz zur Anwendung des Mehrseitigen Übereinkommens vom 24. November 2016 zur Umsetzung steuerabkommensbezogener Maßnahmen zur Verhinderung der Gewinnverkürzung und Gewinnverlagerung
 - [BergArbWoFöG](laws/BergArbWoFöG.md) Gesetz zur Förderung des Bergarbeiterwohnungsbaues im Kohlenbergbau
 - [BergArbWoFöGDV](laws/BergArbWoFöGDV.md) Verordnung zur Durchführung des Gesetzes zur Förderung des Bergarbeiterwohnungsbaues im Kohlenbergbau
 - [Bergbau-VersuchsstreckenV](laws/Bergbau-VersuchsstreckenV.md) Verordnung über die Anwendung von Vorschriften des Bundesberggesetzes auf die Bergbau-Versuchsstrecke
