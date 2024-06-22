@@ -191,7 +191,7 @@ Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft. Gleichzeitig trit
 
 # Anlage 1 – (zu § 3 Absatz 1)Übersichtskarten Nordsee-Befahrensverordnung
 
-(Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 2 - 3)
+(Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 1 - 2)
 
 Übersichtskarte nach § 3 Absatz 1 der Nordsee-Befahrensverordnung, nördlicher Teil![Übersichtskarte nach § 3 Absatz 1 der Nordsee-Befahrensverordnung, nördlicher Teil](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j0113_0010.jpg)
 
@@ -199,7 +199,7 @@ Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft. Gleichzeitig trit
 
 # Anlage 2 – (zu § 3 Absatz 2 Satz 2, § 6 Absatz 3, § 9 Satz 1)Geltungsbereich, Allgemeine Schutzgebiete, Besondere Schutzgebiete
 
-(Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 4 - 219)
+(Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 3 - 218)
 
 Abschnitt 1 – Geltungsbereich
 
@@ -10235,6 +10235,8 @@ III\. Schleswig-Holstein
 | 53°54,356'N, 8°48,11'E  | 53°54,361'N, 8°48,109'E |                         |
 
 # Anlage 3 – (zu § 3 Absatz 3, § 6 Absatz 2 Satz 2, § 6 Absatz 3 Satz 2, § 7 Absatz 7, § 9 Satz 2)Erlaubniszonen und Routen für Sport- und Freizeitzwecke sowie für die gewerbliche Nutzung
+
+(Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 219 - 277; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Es gelten vorbehaltlich des § 6 Absatz 4 im Geltungsbereich gemäß § 3 Absatz 2 folgende Bereichsausweisungen:
 

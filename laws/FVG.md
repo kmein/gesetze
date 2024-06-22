@@ -77,7 +77,26 @@ die Finanzämter.
 
 4. die Besteuerung von Investmentfonds und Spezial-Investmentfonds sowie die Feststellung der Besteuerungsgrundlagen von Spezial-Investmentfonds, soweit es nach § 4 Absatz 2 Nummer 2 des Investmentsteuergesetzes zuständig ist. Daneben stellt das Bundeszentralamt für Steuern auf Anforderung den für die Besteuerung von Investmentfonds, Spezial-Investmentfonds oder deren Anlegern zuständigen Landesfinanzbehörden seine Erkenntnisse über ausländische Rechtsformen und ausländisches Recht zur Verfügung;
 
-5. die Ausübung der Funktion der zuständigen Behörde auf dem Gebiet der steuerlichen Rechts- und Amtshilfe und bei der Durchführung von Verständigungs- und Schiedsverfahren im Einvernehmen mit der zuständigen obersten Landesfinanzbehörde oder mit der von dieser beauftragten Behörde nach den Doppelbesteuerungsabkommen, dem Übereinkommen Nr. 90/436/EWG über die Beseitigung der Doppelbesteuerung im Falle von Gewinnberichtigungen zwischen verbundenen Unternehmen (ABl. L 225 vom 20.8.1990, S. 10) in der jeweils geltenden Fassung und dem EU-Doppelbesteuerungsabkommen-Streitbeilegungsgesetz vom 10. Dezember 2019 (BGBl. I S. 2103) in der jeweils geltenden Fassung und bei der Durchführung von Vorabverständigungsverfahren nach § 89a der Abgabenordnung, soweit das zuständige Bundesministerium seine Befugnisse in diesem Bereich delegiert;
+5. die Ausübung der Funktion der zuständigen Behörde
+
+a) auf dem Gebiet der steuerlichen Rechts- und Amtshilfe,
+
+b) bei der Durchführung von Verständigungs- und Schiedsverfahren im Einvernehmen mit der zuständigen obersten Landesfinanzbehörde oder mit der von dieser beauftragten Behörde nach
+
+aa)  
+den Doppelbesteuerungsabkommen,
+
+bb)  
+dem Übereinkommen Nr. 90/436/EWG über die Beseitigung der Doppelbesteuerung im Falle von Gewinnberichtigungen zwischen verbundenen Unternehmen (ABl. L 225 vom 20.8.1990, S. 10) in der jeweils geltenden Fassung,
+
+cc) dem EU-Doppelbesteuerungsabkommen-Streitbeilegungsgesetz vom 10. Dezember 2019 (BGBl. I S. 2103) in der jeweils geltenden Fassung,
+
+dd)  
+dem BEPS-MLI-Anwendungsgesetz vom 19. Juni 2024 (BGBl. 2024 I Nr. 205) in der jeweils geltenden Fassung und
+
+c) bei der Durchführung von Vorabverständigungsverfahren nach § 89a der Abgabenordnung,
+
+soweit das zuständige Bundesministerium seine Befugnisse in diesem Bereich delegiert;
 
 5a. die Entgegennahme und Weiterleitung von Meldungen nach auf der Grundlage von § 117c der Abgabenordnung ergangenen Rechtsverordnungen und die Durchführung von Bußgeldverfahren in den Fällen des § 379 Absatz 2 Nummer 1b der Abgabenordnung sowie die Auswertung dieser Meldungen im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
 
