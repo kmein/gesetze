@@ -255,7 +255,7 @@ Satz 1 gilt nicht in militärischen Bereichen der Bundeswehr.
 
 (5) Vom Verbot nach den Absätzen 1 und 2 Satz 1 ausgenommen ist der Umgang mit Cannabis durch Bundes- oder Landesbehörden für den Bereich ihrer dienstlichen Tätigkeit sowie durch die von ihnen mit der Untersuchung von Cannabis beauftragten Behörden.
 
-(6) Unbeschadet des Absatzes 4 können die Zollbehörden im Rahmen der Wahrnehmung ihrer Aufgaben nach § 1 Absatz 3 des Zollverwaltungsgesetzes Waren, bei denen Grund zu der Annahme besteht, dass es sich um Cannabis handelt, das entgegen Absatz 1 in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbracht worden ist oder verbracht werden soll, sicherstellen. Die §§ 48 bis 50 des Bundespolizeigesetzes gelten entsprechend. Kosten, die den Zollbehörden durch die Sicherstellung und Verwahrung entstehen, sind vom Verantwortlichen zu tragen; die §§ 17 und 18 des Bundespolizeigesetzes gelten entsprechend. Mehrere Verantwortliche haften als Gesamtschuldner. Die Kosten können im Verwaltungsvollstreckungsverfahren beigetrieben werden.
+(6) Die Zollbehörden können im Rahmen der Wahrnehmung ihrer Aufgaben nach § 1 Absatz 3 des Zollverwaltungsgesetzes Waren, bei denen Grund zu der Annahme besteht, dass es sich um Cannabis handelt, das entgegen Absatz 1 in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbracht worden ist oder verbracht werden soll, sicherstellen. Die §§ 48 bis 50 des Bundespolizeigesetzes gelten entsprechend. Kosten, die den Zollbehörden durch die Sicherstellung und Verwahrung entstehen, sind vom Verantwortlichen zu tragen; die §§ 17 und 18 des Bundespolizeigesetzes gelten entsprechend. Mehrere Verantwortliche haften als Gesamtschuldner. Die Kosten können im Verwaltungsvollstreckungsverfahren beigetrieben werden.
 
 (+++ § 2 Abs. 3 Satz 1 Nr. 4: Tritt gem. Art. 15 Abs. 2 G v. 27.3.2024 I Nr. 109 am 1.7.2024 in Kraft +++)  
 (+++ § 2 Abs. 6: Zur Geltung vgl. § 4 Abs. 4 +++)
@@ -338,7 +338,7 @@ c) diesem Gesetz,
 
 2. entwickelt insbesondere ihr bestehendes Angebot an cannabisspezifischen Präventionsmaßnahmen für Kinder und Jugendliche sowie für junge Erwachsene in Bezug auf den Konsum von Cannabis evidenzbasiert weiter und baut dieses aus,
 
-3. baut ein strukturiertes, digitales zielgruppenspezifisches Beratungsangebot für Konsumentinnen und Konsumenten von Cannabis auf und
+3. baut ein strukturiertes, digitales zielgruppenspezifisches Beratungsangebot für Konsumentinnen und Konsumenten von Cannabis auf,
 
 4. berät und informiert zielgruppenspezifisch Konsumentinnen und Konsumenten von Cannabis zu
 
@@ -346,7 +346,9 @@ a) Suchtpräventionsmaßnahmen,
 
 b) der Wirkung, den Risiken und dem risikoreduzierten Konsum von Cannabis sowie
 
-c) den Möglichkeiten einer weitergehenden wohnortnahen Beratung oder Hilfe.
+c) den Möglichkeiten einer weitergehenden wohnortnahen Beratung oder Hilfe und
+
+5. stellt ein Weiterbildungsangebot für Suchtpräventionsfachkräfte zu Cannabis zur Verfügung.
 
 (2) (zukünftig in Kraft)
 
@@ -558,7 +560,7 @@ b) Cannabispflanzen nicht zum Eigenkonsum anbaut,
 
 12. entgegen § 2 Absatz 1 Nummer 12
 
-a) mehr als 25 Gramm Cannabis pro Tag erwirbt oder entgegennimmt,
+a) mehr als 25 Gramm Cannabis pro Tag erwirbt oder entgegennimmt oder
 
 b) mehr als 50 Gramm Cannabis pro Kalendermonat erwirbt oder entgegennimmt,
 
@@ -632,11 +634,11 @@ c) Cannabis in militärischen Bereichen besitzt,
 
 3. entgegen § 4 Absatz 2 Cannabissamen einführt,
 
-4. entgegen § 5 Absatz 1, 2 oder Absatz 3 Cannabis konsumiert,
+4. entgegen § 5 Absatz 1, 2 Satz 1 oder Absatz 3 Cannabis konsumiert,
 
 5. entgegen § 6 für Cannabis oder für Anbauvereinigungen wirbt oder Sponsoring betreibt,
 
-6. entgegen § 10 Absatz 1 oder § 22 Absatz 1 Satz 1 Cannabis oder Vermehrungsmaterial nicht oder nicht richtig vor dort genanntem Zugriff schützt,
+6. entgegen § 10 oder § 22 Absatz 1 Satz 1 Cannabis oder Vermehrungsmaterial nicht oder nicht richtig vor dort genanntem Zugriff schützt,
 
 7. (zukünftig in Kraft)
 
@@ -651,6 +653,8 @@ c) Cannabis in militärischen Bereichen besitzt,
 12. (zukünftig in Kraft)
 
 13. (zukünftig in Kraft)
+
+13a. entgegen § 17 Absatz 1 Satz 4 ein Nichtmitglied beauftragt,
 
 14. (zukünftig in Kraft)
 
@@ -700,7 +704,7 @@ c) Cannabis in militärischen Bereichen besitzt,
 
 37. (zukünftig in Kraft).
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 6, 8 bis 10, 12, 13, 15, 16, 18, 20 bis 24, 28, 29 und 31 mit einer Geldbuße bis zu dreißigtausend Euro und in den übrigen Fällen des Absatzes 1 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 6, 8 bis 10, 12, 13, 13a, 15, 16, 18, 20 bis 24, 28, 29 und 31 mit einer Geldbuße bis zu dreißigtausend Euro und in den übrigen Fällen des Absatzes 1 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist im Fall von Absatz 1 Nummer 37 die Bundesanstalt für Landwirtschaft und Ernährung.
 
@@ -734,7 +738,7 @@ Die §§ 35 bis 38 des Betäubungsmittelgesetzes finden auch bei cannabisbezogen
 
 (1) Die gesellschaftlichen Auswirkungen dieses Gesetzes, insbesondere auf den Kinder- und Jugendschutz, auf den Gesundheitsschutz und auf die cannabisbezogene Kriminalität, sind zu evaluieren. Die Evaluation soll begleitend zum Vollzug des Gesetzes erfolgen.
 
-(2) Das Bundesministerium für Gesundheit beauftragt unabhängige Dritte mit der Durchführung der Evaluation. Spätestens bis 1. April 2028 soll dem Bundesministerium für Gesundheit ein umfassender Bericht über die Ergebnisse der Evaluation vorgelegt werden. Spätestens bis zum 1. April 2026 soll, unter Beteiligung des Bundeskriminalamtes, dem Bundesministerium für Gesundheit ein Zwischenbericht vorgelegt werden, der auch die Auswirkungen dieses Gesetzes auf die cannabisbezogene organisierte Kriminalität umfasst. Spätestens bis zum 1. Oktober 2025 soll eine erste Evaluation erfolgen, wie sich das Konsumverbot nach § 5 im ersten Jahr nach Inkrafttreten dieses Gesetzes auf den Kinder- und Jugendschutz auswirkt. Die Erhebung und Zulieferung von Daten wird durch die zuständigen Ressorts sichergestellt.
+(2) Das Bundesministerium für Gesundheit beauftragt unabhängige Dritte mit der Durchführung der Evaluation. Spätestens bis 1. April 2028 soll dem Bundesministerium für Gesundheit ein umfassender Bericht über die Ergebnisse der Evaluation vorgelegt werden. Spätestens bis zum 1. April 2026 soll, unter Beteiligung des Bundeskriminalamtes, dem Bundesministerium für Gesundheit ein Zwischenbericht vorgelegt werden, der auch die Auswirkungen dieses Gesetzes auf die cannabisbezogene organisierte Kriminalität umfasst. Spätestens bis zum 1. Oktober 2025 soll eine erste Evaluation erfolgen, wie sich das Konsumverbot nach § 5 im ersten Jahr nach Inkrafttreten dieses Gesetzes auf den Kinder- und Jugendschutz auswirkt. Darüber hinaus soll bis zum 1. Oktober 2025 eine Evaluation der Besitzmengen nach § 3 und der Weitergabemengen in Anbauvereinigungen nach § 19 Absatz 3 erfolgen. Die Erhebung und Zulieferung von Daten wird durch die zuständigen Ressorts sichergestellt.
 
 (3) Zur Unterstützung der Evaluation übermitteln die zuständigen Behörden jährlich bis zum 30. April elektronisch folgende Daten aus dem vorangegangenen Kalenderjahr in nicht personenbezogener Form an eine vom Bundesministerium für Gesundheit benannte Stelle:
 

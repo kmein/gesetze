@@ -415,11 +415,11 @@ g) erwirbt oder
 
 h) mit Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken Handel treibt,
 
-4. Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken besitzt, ohne zugleich im Besitz einer Erlaubnis nach § 4 für den Erwerb oder ohne nach § 5 oder § 22 von der Erlaubnispflicht ausgenommen zu sein,
+4. Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken besitzt, ohne zugleich im Besitz einer Erlaubnis nach § 4 für den Erwerb oder ohne nach § 5 oder § 22 von der Erlaubnispflicht ausgenommen zu sein, oder
 
 5. entgegen § 13 Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken durchführt.
 
-(2) Absatz 1 Nummer 3 Buchstabe a und h und Nummer 4 findet keine Anwendung in den Fällen, in denen der Täter
+(2) Absatz 1 Nummer 3 Buchstabe a und g und Nummer 4 findet keine Anwendung in den Fällen, in denen der Täter
 
 1. nicht mehr als die folgenden Mengen an Cannabis zu medizinischen Zwecken oder an Cannabis zu medizinisch-wissenschaftlichen Zwecken, jeweils bei Blüten, blütennahen Blättern oder sonstigem Pflanzenmaterial bezogen auf das Gewicht nach dem Trocknen, besitzt:
 
