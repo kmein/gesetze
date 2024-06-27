@@ -131,7 +131,7 @@ e) "PD" für Diplomatenpass und vorläufigen Diplomatenpass,
 
 (4) Eine Verlängerung der Gültigkeitsdauer des Passes ist nicht zulässig.
 
-(5) Die Gültigkeitsdauer eines Passes darf in den Fällen des § 29 des Staatsangehörigkeitsgesetzes den Zeitpunkt der Vollendung des 23. Lebensjahres des Inhabers so lange nicht überschreiten, bis die zuständige Behörde den Fortbestand der deutschen Staatsangehörigkeit festgestellt hat.
+(5) (weggefallen)
 
 (6) § 7 Absatz 2 bleibt unberührt.
 
@@ -287,11 +287,9 @@ Der Inhaber eines Passes ist verpflichtet, der Passbehörde unverzüglich
 
 2. auf Verlangen den alten Pass beim Empfang eines neuen Passes abzugeben;
 
-3. den Verlust des Passes und sein Wiederauffinden anzuzeigen;
+3. den Verlust des Passes und sein Wiederauffinden anzuzeigen und
 
-4. den Erwerb einer ausländischen Staatsangehörigkeit anzuzeigen und
-
-5. anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist.
+4. anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist.
 
 # § 16 – Datenschutzrechtliche Bestimmungen
 
@@ -433,9 +431,7 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 14a. die örtlich zuständige Passbehörde, wenn diese nicht mit der ausstellenden Passbehörde identisch ist,
 
-15. Vermerke über Anordnungen nach den §§ 7, 8 und 10,
-
-16. Angaben zur Erklärungspflicht des Ausweisinhabers nach § 29 des Staatsangehörigkeitsgesetzes.
+15. Vermerke über Anordnungen nach den §§ 7, 8 und 10.
 
 (3) Das Passregister dient
 
@@ -529,7 +525,7 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 3. sich der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs über eine Auslandsgrenze entzieht,
 
-4. entgegen § 15 Nummer 3, 4 oder 5 eine Anzeige nicht oder nicht rechtzeitig erstattet oder
+4. entgegen § 15 Nummer 3 oder 4 eine Anzeige nicht oder nicht rechtzeitig erstattet oder
 
 5. entgegen § 18 Absatz 3 Satz 2 eine Kopie weitergibt.
 

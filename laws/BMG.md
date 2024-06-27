@@ -178,9 +178,7 @@ die Identifikationsnummer nach § 139b der Abgabenordnung und bis zu deren Speic
 4. für die Ausstellung von Pässen und Ausweisen  
 die Tatsache, dass Passversagungsgründe vorliegen, ein Pass versagt oder entzogen oder eine Anordnung nach § 6 Absatz 7, § 6a Absatz 1 oder § 6a Absatz 2 des Personalausweisgesetzes getroffen worden ist,
 
-5. für staatsangehörigkeitsrechtliche Verfahren
-
-die Tatsache, dass die deutsche Staatsangehörigkeit nach § 4 Absatz 3 oder § 40b des Staatsangehörigkeitsgesetzes erworben wurde und nach § 29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen Staatsangehörigkeit eintreten kann,
+5. (weggefallen)
 
 6. (weggefallen)
 
@@ -322,7 +320,7 @@ Hat die Meldebehörde die Daten auf Antrag der betroffenen Person nach Artikel 1
 
 # § 13 – Aufbewahrung von Daten
 
-(1) Nach dem Wegzug oder dem Tod eines Einwohners hat die Meldebehörde für die Erfüllung ihrer Aufgaben weiterhin die in § 3 Absatz 1 Nummer 1 bis 10, 12 bis 16, 17a, 18 und 19 genannten Daten zu speichern. Sie darf in diesen Fällen auch die Daten nach § 3 Absatz 2 Nummer 1 und 2 im Melderegister speichern. Bei Wegzug eines Einwohners speichert die Meldebehörde außerdem die Daten nach § 3 Absatz 1 Nummer 17 und die Feststellung der Tatsachen nach § 3 Absatz 2 Nummer 4, 5, 7 und 8.
+(1) Nach dem Wegzug oder dem Tod eines Einwohners hat die Meldebehörde für die Erfüllung ihrer Aufgaben weiterhin die in § 3 Absatz 1 Nummer 1 bis 10, 12 bis 16, 17a, 18 und 19 genannten Daten zu speichern. Sie darf in diesen Fällen auch die Daten nach § 3 Absatz 2 Nummer 1 und 2 im Melderegister speichern. Bei Wegzug eines Einwohners speichert die Meldebehörde außerdem die Daten nach § 3 Absatz 1 Nummer 17 und die Feststellung der Tatsachen nach § 3 Absatz 2 Nummer 4, 7 und 8.
 
 (2) Nach Ablauf von fünf Jahren nach dem Ende des Kalenderjahres, in dem ein Einwohner weggezogen oder verstorben ist, sind die nach Absatz 1 weiterhin gespeicherten Daten für die Dauer von 50 Jahren aufzubewahren und durch technische und organisatorische Maßnahmen nach Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 zu sichern, es sei denn, § 14 sieht eine frühere Löschung vor. Während dieser Zeit dürfen die Daten nicht mehr verarbeitet werden. Davon ausgenommen sind Familienname und Vornamen sowie frühere Namen, Geburtsdatum, Geburtsort sowie bei Geburt im Ausland auch der Staat, derzeitige und frühere Anschriften, Auszugsdatum, Auskunftssperren nach § 51 Absatz 1 sowie Sterbedatum, Sterbeort sowie bei Versterben im Ausland auch der Staat. Satz 2 gilt nicht, wenn
 
@@ -338,7 +336,7 @@ c) zur Erfüllung der Aufgaben der in § 34 Absatz 4 Satz 1 genannten Behörden,
 
 d) für Wahlzwecke nach § 3 Absatz 2 Nummer 1,
 
-e) zur Durchführung des staatsangehörigkeitsrechtlichen Verfahrens nach § 3 Absatz 2 Nummer 5 dieses Gesetzes sowie nach § 29 Absatz 6 und § 30 des Staatsangehörigkeitsgesetzes oder
+e) zur Durchführung des staatsangehörigkeitsrechtlichen Verfahrens nach § 30 des Staatsangehörigkeitsgesetzes oder
 
 3. die Daten nach Absatz 1 mit Ausnahme der Daten nach § 3 Absatz 1 Nummer 18 als Auswahldaten nach Maßgabe des § 38 Absatz 1 bis 3 verarbeitet werden.
 
@@ -474,7 +472,7 @@ Wohnung im Sinne dieses Gesetzes ist jeder umschlossene Raum, der zum Wohnen ode
 
 # § 24 – Datenerhebung, Meldebestätigung
 
-(1) Bei der An- oder Abmeldung oder der Änderung der Hauptwohnung dürfen bei der meldepflichtigen Person die in § 3 Absatz 1 Nummer 1 bis 18 und in Absatz 2 Nummer 2 Buchstabe a bis c, Nummer 5 und 10 genannten Daten erhoben werden. Dies gilt auch für die Hinweise, die zum Nachweis der Richtigkeit dieser Daten erforderlich sind.
+(1) Bei der An- oder Abmeldung oder der Änderung der Hauptwohnung dürfen bei der meldepflichtigen Person die in § 3 Absatz 1 Nummer 1 bis 18 und in Absatz 2 Nummer 2 Buchstabe a bis c und Nummer 10 genannten Daten erhoben werden. Dies gilt auch für die Hinweise, die zum Nachweis der Richtigkeit dieser Daten erforderlich sind.
 
 (2) Die meldepflichtige Person erhält unentgeltlich eine schriftliche oder, sofern die An- oder Abmeldung elektronisch durchgeführt wird, eine elektronische Bestätigung über die An- oder Abmeldung (amtliche Meldebestätigung). Diese darf nur folgende Daten enthalten:
 
@@ -658,7 +656,7 @@ Die nach § 30 Absatz 2 erhobenen Daten dürfen von den nach Landesrecht bestimm
 
 (1) Hat sich eine Person bei einer Meldebehörde angemeldet, so hat diese die Wegzugsmeldebehörde und die für weitere Wohnungen zuständigen Meldebehörden darüber durch Übermittlung der in § 3 Absatz 1 Nummer 1 bis 18 genannten Daten der betroffenen Person zu unterrichten (Rückmeldung). Bei einem Zuzug aus dem Ausland ist die für den letzten Wohnort im Inland zuständige Meldebehörde als Wegzugsmeldebehörde zu unterrichten. Die Daten sind unverzüglich, spätestens jedoch drei Werktage nach der Anmeldung, durch Datenübertragung zu übermitteln; § 10 Absatz 2 gilt entsprechend.
 
-(2) Die übermittelten Daten sind unverzüglich von der Wegzugsmeldebehörde zu verarbeiten. Die Wegzugsmeldebehörde hat die Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach Eingang der Rückmeldung, über die in § 3 Absatz 2 Nummer 1, 2 Buchstabe d, Nummer 3, 4, 5, 7, 8 und 11 genannten Tatsachen sowie dann zu unterrichten, wenn die in Satz 1 bezeichneten Daten von den bisherigen Angaben abweichen (Auswertung der Rückmeldung). Soweit Meldebehörden desselben Landes beteiligt sind, können für die Datenübermittlung weitergehende Regelungen durch Landesrecht getroffen werden.
+(2) Die übermittelten Daten sind unverzüglich von der Wegzugsmeldebehörde zu verarbeiten. Die Wegzugsmeldebehörde hat die Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach Eingang der Rückmeldung, über die in § 3 Absatz 2 Nummer 1, 2 Buchstabe d, Nummer 3, 4, 7, 8 und 11 genannten Tatsachen sowie dann zu unterrichten, wenn die in Satz 1 bezeichneten Daten von den bisherigen Angaben abweichen (Auswertung der Rückmeldung). Soweit Meldebehörden desselben Landes beteiligt sind, können für die Datenübermittlung weitergehende Regelungen durch Landesrecht getroffen werden.
 
 (3) Werden die in § 3 Absatz 1 und 2 Nummer 4, 7 und 8 bezeichneten Daten fortgeschrieben, so sind unverzüglich die für weitere Wohnungen der betroffenen Person zuständigen Meldebehörden zu unterrichten, soweit die Daten zur Erfüllung ihrer Aufgaben erforderlich sind. Verstirbt oder verzieht eine meldepflichtige Person, zu der Daten der in § 3 Absatz 1 Nummer 9, 15 und 16 genannten Personen außerhalb der Zuständigkeit der Meldebehörde gespeichert sind, ist unverzüglich die für diese Personen zuständige Meldebehörde über die Fortschreibung zu unterrichten.
 
@@ -686,7 +684,7 @@ Die nach § 30 Absatz 2 erhobenen Daten dürfen von den nach Landesrecht bestimm
 
 7. Geschlecht,
 
-8. derzeitige Staatsangehörigkeiten einschließlich der nach § 3 Absatz 2 Nummer 5 gespeicherten Daten,
+8. derzeitige Staatsangehörigkeiten,
 
 9. derzeitige und frühere Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung; bei Zuzug aus dem Ausland den Staat, bei Wegzug in das Ausland die Zuzugsanschrift im Ausland und den Staat,
 
@@ -822,7 +820,7 @@ Die ersuchende Behörde hat den Namen und die Anschrift der betroffenen Person u
 
 (2) Zu einer namentlich bestimmten Person (Personensuche) dürfen alle Daten nach § 34 Absatz 1 Satz 1 abgerufen werden. Die in § 34 Absatz 4 Satz 1 genannten Behörden dürfen auch die Daten nach § 34 Absatz 1 Satz 2 abrufen.
 
-(3) Zu einer Vielzahl von Personen, die nicht namentlich bestimmt sind (freie Suche), dürfen nur die Daten nach § 34 Absatz 1 Satz 1 Nummer 1 bis 7, Nummer 8 mit Ausnahme der Daten nach § 3 Absatz 2 Nummer 5, 16 sowie die Anschrift der derzeitigen Haupt- oder alleinigen Wohnung abgerufen werden. Die in § 34 Absatz 4 Satz 1 genannten Behörden dürfen auch das Einzugsdatum nach § 34 Absatz 1 Satz 1 Nummer 10 sowie die Daten nach § 34 Absatz 1 Satz 2 Nummer 1, 3 und 4 abrufen.
+(3) Zu einer Vielzahl von Personen, die nicht namentlich bestimmt sind (freie Suche), dürfen nur die Daten nach § 34 Absatz 1 Satz 1 Nummer 1 bis 8 und 16 sowie die Anschrift der derzeitigen Haupt- oder alleinigen Wohnung abgerufen werden. Die in § 34 Absatz 4 Satz 1 genannten Behörden dürfen auch das Einzugsdatum nach § 34 Absatz 1 Satz 1 Nummer 10 sowie die Daten nach § 34 Absatz 1 Satz 2 Nummer 1, 3 und 4 abrufen.
 
 (4) Der Abruf weiterer Daten und Hinweise nach Absatz 2 ist zulässig, soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem auch Anlass und Zweck der Übermittlung, der Datenempfänger und die zu übermittelnden Daten festgelegt sind.
 

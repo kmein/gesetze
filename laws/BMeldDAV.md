@@ -275,7 +275,7 @@ Geschlecht
 
  8.
 
-derzeitige Staatsangehörigkeiten einschließlich der nach § 3 Absatz 2 Nummer 5 des Bundesmeldegesetzes gespeicherten Daten
+derzeitige Staatsangehörigkeiten
 
 1001 bis 1004,
 
@@ -583,7 +583,7 @@ Zusätzlich zu den Daten nach Satz 2 sind in der Trefferliste die folgenden Hinw
 |  5.  | Ordensname, Künstlername                                                                                                                                                                                                                     |                      0501, 0502, |
 |  6.  | Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat                                                                                                                                                                       |                   0601 bis 0603, |
 |  7.  | Geschlecht                                                                                                                                                                                                                                   |                            0701, |
-|  8.  | derzeitige Staatsangehörigkeiten einschließlich der nach § 3 Absatz 2 Nummer 5 des Bundesmeldegesetzes gespeicherten Daten                                                                                                                   |                      1001, 2401, |
+|  8.  | derzeitige Staatsangehörigkeiten                                                                                                                                                                                                             |                            1001, |
 |  9.  | derzeitige und frühere Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung, bei Zuzug aus dem Ausland den Staat, bei Wegzug in das Ausland die Zuzugsanschrift im Ausland und den Staat                                                 | 1200 bis 1213, 1223, 1232, 1233, |
 | 10\. | Einzugsdatum, Auszugsdatum                                                                                                                                                                                                                   |                      1301, 1306, |
 | 11\. | Familienstand, bei Verheirateten oder Lebenspartnern zusätzlich Datum, Ort und Staat der Eheschließung oder der Begründung der Lebenspartnerschaft sowie bei Eheschließung oder Begründung der Lebenspartnerschaft im Ausland auch den Staat |      1401 bis 1402a, 1408, 1409, |
