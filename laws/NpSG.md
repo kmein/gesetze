@@ -87,28 +87,24 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung, 
 
 # Anlage
 
-(Fundstelle: BGBl. I 2022, 1553 - 1565;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 210, S. 3 – 16)
 
-  
-  
+Vorbemerkungen
 
-Vorbemerkung
-
-Die Stoffgruppendefinitionen der Nummern 1 bis 7 schließen alle denkbaren geladenen Formen, Stereoisomere und Salze eines erfassten Stoffes ein. In den Stoffgruppendefinitionen festgelegte Molekülmassenbegrenzungen gelten bei geladenen Formen und Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
+Die Stoffgruppendefinitionen der Nummern 1 bis 7 schließen alle denkbaren geladenen Formen, Stereoisomere und Salze eines erfassten Stoffes ein. In den Stoffgruppendefinitionen festgelegte Molekülmassenbegrenzungen gelten bei geladenen Formen und Salzen nur für den Molekülteil ausschließlich des Gegen-Ions. Von den Stoffgruppendefinitionen erfasst sind auch sämtliche nach den folgenden Stoffgruppendefinitionen mögliche isotopensubstituierte Verbindungen.
 
 1. Von 2-Phenethylamin abgeleitete Verbindungen
 
-Eine von 2-Phenethylamin abgeleitete Verbindung ist jede chemische Verbindung, die von einer 2-Phenylethan-1-amin-Grundstruktur abgeleitet werden kann (ausgenommen 2-Phenethylamin selbst), eine maximale Molekülmasse von 500 u hat und dem nachfolgend beschriebenen modularen Aufbau aus Strukturelement A und Strukturelement B entspricht.
+Eine von 2-Phenethylamin abgeleitete Verbindung ist jede chemische Verbindung, die von einer 2-Phenylethan-1-amin-Grundstruktur abgeleitet werden kann (ausgenommen 2-Phenethylamin selbst), eine maximale Molekülmasse von 500 u hat und dem nachfolgend beschriebenen modularen Aufbau aus Strukturelement A und Strukturelement B entspricht.
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0010.jpg)
+![Strukturformel eines Moleküls: Ein Kreis (Ringsystem) mit Strich Rn auf der linken Seite ist verbunden mit einem Strichskelett mit zwei Eckpunkten zu einem N im Zentrum sowie R1 bis R6 an den äußeren Enden liegend auf der rechten Seite, jeweils von den Eckpunkten bzw. von N abzweigend.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0010.jpg)
 
 1.1  
 Strukturelement A
 
-Für das Strukturelement A sind die folgenden Ringsysteme eingeschlossen, wobei sich das Strukturelement B an jeder Position des Strukturelements A befinden kann: Phenyl-, Naphthyl-, Tetralinyl-, Methylendioxyphenyl-, Ethylendioxyphenyl-, Furyl-, Pyrrolyl-, Thienyl-, Pyridyl-, Benzofuranyl-, Dihydrobenzofuranyl-, Indanyl-, Indenyl-, Tetrahydrobenzodifuranyl-, Benzodifuranyl-, Tetrahydrobenzodipyranyl-, Cyclopentyl-, Cyclohexyl-.
+Für das Strukturelement A sind die folgenden Ringsysteme eingeschlossen, wobei sich das Strukturelement B an jeder Position des Strukturelements A befinden kann: Phenyl-, Naphthyl-, Tetralinyl-, Methylendioxyphenyl-, Ethylendioxyphenyl-, Furyl-, Pyrrolyl-, Thienyl-, Pyridyl-, Benzofuranyl-, Dihydrobenzofuranyl-, Indanyl-, Indenyl-, Tetrahydrobenzodifuranyl-, Benzodifuranyl-, Tetrahydrobenzodipyranyl-, Cyclopentyl- und Cyclohexylring.
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0030.jpg)
+![Strukturformel eines Moleküls: Ein Sechseck, an drei Seiten mit Doppelstrichen.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0030.jpg)
 
 1.2  
 Strukturelement B
@@ -117,7 +113,7 @@ Die 2-Aminoethyl-Seitenkette des Strukturelements B kann mit folgenden Atomen, A
 
 a) R<sub>1</sub> und R<sub>2</sub> am Stickstoffatom:
 
-Wasserstoff, Alkyl- (bis C<sub>6</sub>), Cycloalkyl- (bis C<sub>6</sub>), Benzyl-, Alkenyl- (bis C<sub>6</sub>), Alkinyl- (bis C<sub>6</sub>), Alkylcarbonyl- (bis C<sub>6</sub>), Hydroxy- und Aminogruppen. Ferner sind Stoffe eingeschlossen, bei denen das Stickstoffatom Bestandteil eines nicht aromatischen gesättigten oder ungesättigten cyclischen Systems ist (beispielsweise Pyrrolidinyl-, Piperidinyl-). Ein Ringschluss des Stickstoffatoms unter Einbeziehung von Teilen des Strukturelements B (Reste R<sub>3</sub> bis R<sub>6</sub>) ist möglich. Die dabei entstehende Molekülstruktur muss hinsichtlich der Substituenten auch ohne den erfolgten Ringschluss zum Strukturelement B konform zu Nummer 1.2 Buchstabe a sein. Die dabei entstehenden Ringsysteme können die Elemente Kohlenstoff, Sauerstoff, Schwefel, Stickstoff und Wasserstoff enthalten. Diese Ringsysteme dürfen fünf bis sieben Atome umfassen. Eine Doppelbindung als Brücke zum Strukturelement B ist möglich. Die Reste R<sub>1</sub>/R<sub>2</sub> können ausschließlich in dem bei einem Ringschluss mit Teilen des Strukturelements B entstehenden Ringsystem als doppelt gebundener Rest (Iminstruktur) vorliegen.
+Wasserstoff, Alkyl- (bis C<sub>6</sub>), Cycloalkyl- (Ringgröße bis C<sub>6</sub>), Benzyl-, Alkenyl- (bis C<sub>6</sub>), Alkinyl- (bis C<sub>6</sub>), Alkylcarbonyl- (bis C<sub>6</sub>), Alkyloxycarbonyl- (Alkylrest bis C<sub>6</sub>), Alkylthiocarbonyl- (Alkylrest bis C<sub>6</sub>), Alkylcarbamoyl- (Alkylrest bis C<sub>6</sub>), Arylcarbonyl- (Arylrest bis C<sub>10</sub>), Hydroxy- und Aminogruppen. Ferner sind Stoffe eingeschlossen, bei denen das Stickstoffatom Bestandteil eines nichtaromatischen gesättigten oder ungesättigten cyclischen Systems ist (beispielsweise Pyrrolidinyl-, Piperidinyl-Ringe). Ein Ringschluss des Stickstoffatoms unter Einbeziehung von Teilen des Strukturelements B (Reste R<sub>3</sub> bis R<sub>6</sub>) ist möglich. Die dabei entstehende Molekülstruktur muss hinsichtlich der Substituenten auch ohne den erfolgten Ringschluss zum Strukturelement B konform zu Nummer 1.2 Buchstabe a sein. Die dabei entstehenden Ringsysteme können die Elemente Kohlenstoff, Sauerstoff, Schwefel, Stickstoff und Wasserstoff enthalten. Diese Ringsysteme dürfen fünf bis sieben Atome umfassen. Eine Doppelbindung als Brücke zum Strukturelement B ist möglich. Die Reste R<sub>1</sub>/R<sub>2</sub> können ausschließlich in dem bei einem Ringschluss mit Teilen des Strukturelements B entstehenden Ringsystem als doppelt gebundener Rest (Iminstruktur) vorliegen.
 
 Ausgenommen von den erfassten Stoffen der Stoffgruppe der von 2-Phenethylamin abgeleiteten Verbindungen sind Verbindungen, bei denen das Stickstoffatom direkt in ein cyclisches System integriert ist, das an das Strukturelement A anelliert ist.
 
@@ -125,7 +121,7 @@ Die Substituenten R<sub>1</sub> und R<sub>2</sub> können (bei Ringschlüssen nu
 
 b) R<sub>3</sub> und R<sub>4</sub> am C<sub>1</sub>-Atom sowie R<sub>5</sub> und R<sub>6</sub> am C<sub>2</sub>-Atom:
 
-Wasserstoff, Fluor, Chlor, Brom, Iod, Alkyl- (bis C<sub>10</sub>), Cycloalkyl- (bis C<sub>10</sub>), Benzyl-, Phenyl-, Alkenyl- (bis C<sub>10</sub>), Alkinyl- (bis C<sub>10</sub>), Hydroxy-, Alkoxy- (bis C<sub>10</sub>), Alkylsulfanyl- (bis C<sub>10</sub>), Alkyloxycarbonylgruppen (bis C<sub>10</sub>), einschließlich der chemischen Verbindungen, bei denen Substitutionen zu einem Ringschluss mit dem Strukturelement A oder zu Ringsystemen, die die Reste R<sub>3</sub> bis R<sub>6</sub> enthalten, führen können. Diese Ringsysteme dürfen vier bis sechs Atome umfassen.
+Wasserstoff, Fluor, Chlor, Brom, Iod, Alkyl- (bis C<sub>10</sub>), Cycloalkyl- (Ringgröße bis C<sub>10</sub>), Benzyl-, Phenyl-, Alkenyl- (bis C<sub>10</sub>), Alkinyl- (bis C<sub>10</sub>), Hydroxy-, Alkoxy- (bis C<sub>10</sub>), Alkylsulfanyl- (bis C<sub>10</sub>) und Alkyloxycarbonylgruppen (Alkylrest bis C<sub>10</sub>), einschließlich der chemischen Verbindungen, bei denen Substitutionen zu einem Ringschluss mit dem Strukturelement A oder zu Ringsystemen, die die Reste R<sub>3</sub> bis R<sub>6</sub> enthalten, führen können. Diese Ringsysteme dürfen vier bis sechs Atome umfassen.
 
 Die aufgeführten Atomgruppen und Ringsysteme können zudem mit beliebigen, chemisch möglichen Kombinationen der Elemente Kohlenstoff, Wasserstoff, Stickstoff, Sauerstoff, Schwefel, Fluor, Chlor, Brom und Iod substituiert sein. Die auf diese Weise entstehenden Substituenten R<sub>3</sub> bis R<sub>6</sub> dürfen dabei eine durchgehende Kettenlänge von maximal zwölf Atomen aufweisen (ohne Mitzählung von Wasserstoffatomen). Atome von Ringstrukturen werden dabei nicht in die Zählung einbezogen.
 
@@ -138,13 +134,13 @@ c) Carbonylgruppe in beta-Stellung zum Stickstoffatom (sogenannte bk-Derivate, s
 2.1  
 Von Indol, Pyrazol und 4-Chinolon abgeleitete Verbindungen
 
-Ein Cannabimimetikum bzw. ein synthetisches Cannabinoid der von Indol, Pyrazol oder 4‑Chinolon abgeleiteten Verbindungen ist jede chemische Verbindung, die dem nachfolgend anhand eines Strukturbeispiels beschriebenen modularen Aufbau mit einer Kernstruktur entspricht. Die Verbindung ist an einer definierten Position über eine Brücke mit einem Brückenrest verknüpft und trägt an einer definierten Position der Kernstruktur eine Seitenkette.
+Ein Cannabimimetikum beziehungsweise ein synthetisches Cannabinoid der von Indol, Pyrazol oder 4‑Chinolon abgeleiteten Verbindungen ist jede chemische Verbindung, die dem nachfolgend anhand eines Strukturbeispiels beschriebenen modularen Aufbau mit einer Kernstruktur entspricht. Die Verbindung ist an einer definierten Position über eine Brücke mit einem Brückenrest verknüpft und trägt an einer definierten Position der Kernstruktur eine Seitenkette.
 
 Die Abbildung verdeutlicht den modularen Aufbau am Beispiel des 1-Fluor-JWH-018:
 
-|                                                    |
-|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0210.jpg) |
+|                                                                                                                                                                          |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines komplexen Moleküls mit rot umrandeten Gliedern: Kernstruktur, Brücke, Brückenrest und Seitenkette.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0210.jpg) |
 
 1-Fluor-JWH-018 besitzt eine Indol-1,3-diyl-Kernstruktur, eine Carbonyl-Brücke in Position 3, einen 1-Naphthyl-Brückenrest und eine 1-Fluorpentyl-Seitenkette in Position 1.
 
@@ -153,9 +149,9 @@ Kernstruktur, Brücke, Brückenrest und Seitenkette werden wie folgt definiert:
 2.1.1  
 Kernstruktur
 
-Die Kernstruktur schließt die nachfolgend in den Buchstaben a bis h beschriebenen Ringsysteme ein. Die Ringsysteme der Buchstaben a bis g können an den in den nachfolgenden Abbildungen gekennzeichneten Positionen mit einer beliebigen Kombination der Atome Wasserstoff, Fluor, Chlor, Brom, Iod und Phenyl-, Methyl-, Methoxy- und Nitrogruppen als Atomgruppen (Reste R<sub>1</sub> bis R<sub>3</sub>) substituiert sein.
+Die Kernstruktur schließt die nachfolgend in den Buchstaben a bis h beschriebenen Ringsysteme ein. Die Ringsysteme der Buchstaben a bis g können an den in den nachfolgenden Abbildungen gekennzeichneten Positionen mit einer beliebigen Kombination der Atome Wasserstoff, Fluor, Chlor, Brom, Iod und Phenyl‑, Methyl‑, Methoxy‑ und Nitrogruppen als Atomgruppen (Reste R<sub>1</sub> bis R<sub>3</sub>) substituiert sein.
 
-Der Rest R der vom 4-Chinolon abgeleiteten Verbindungen (Buchstabe g) kann aus den folgenden Atomen oder Atomgruppen bestehen: Wasserstoff, Fluor, Chlor, Brom, Iod und Phenylthiogruppe (Anbindung über den Schwefel an die Kernstruktur).
+Der Rest R der vom 4-Chinolon abgeleiteten Verbindungen (Buchstabe h) kann aus einem der folgenden Atome oder der folgenden Atomgruppe bestehen: Wasserstoff, Fluor, Chlor, Brom, Iod und Phenylthiogruppe (Anbindung über den Schwefel an die Kernstruktur).
 
 Die Wellenlinie gibt den Bindungsort für die Brücke an. Die durchbrochene Linie gibt den Bindungsort für die Seitenkette an:
 
@@ -166,11 +162,11 @@ Brücke an der Kernstruktur
 
 Die Brücke an der Kernstruktur schließt die folgenden Strukturelemente ein, die jeweils an der unter Nummer 2.1.1 bezeichneten Stelle an die Kernstruktur gebunden sind:
 
-a) Carbonyl-, Methylencarbonyl- (CH<sub>2</sub>-Gruppe an Kernstruktur geknüpft) und Azacarbonylgruppen,
+a) Carbonyl-, Methylencarbonyl- (CH<sub>2</sub>-Gruppe an Kernstruktur geknüpft) und Azacarbonylgruppe,
 
-b) Carboxamidogruppe (Carbonylgruppe an Kernstruktur geknüpft), unter Einschluss von kohlenstoff- und wasserstoffhaltigen Substituenten am Amidstickstoff, die mit Position 2 der Indolkernstruktur (Nummer 2.1.1 Buchstabe a: X = CH) einen Sechsring bilden,
+b) Carboxamidogruppe (Carbonylgruppe an Kernstruktur geknüpft) unter Einschluss von kohlenstoff- und wasserstoffhaltigen Substituenten am Amidstickstoff, die mit Position 2 der Indolkernstruktur (Nummer 2.1.1 Buchstabe a: X = CH) einen Sechsring bilden, und Methylencarboxamidogruppe (CH<sub>2</sub>-Gruppe an Kernstruktur geknüpft),
 
-c) Carboxylgruppe (Carbonylgruppe an Kernstruktur geknüpft),
+c) Carboxyl- (Carbonylgruppe an Kernstruktur geknüpft) und Methylencarboxylgruppe (CH<sub>2</sub>-Gruppe an Kernstruktur geknüpft),
 
 d) direkt an die Kernstruktur angebundene Stickstoffheterocyclen, die auch weitere Stickstoff-, Sauerstoff- oder Schwefelatome enthalten können, mit einer Ringgröße von bis zu fünf Atomen sowie einer Doppelbindung zum Stickstoffatom an der Anknüpfungsstelle,
 
@@ -185,16 +181,16 @@ aa)
 beliebig substituierte gesättigte, ungesättigte oder aromatische Ringstrukturen einschließlich Polyzyklen und Heterozyklen, wobei eine Anbindung an die Brücke auch über einen Substituenten möglich ist,
 
 bb)  
-beliebig substituierte Kettenstrukturen, die unter Einbeziehung der Heteroatome eine durchgehende Kettenlänge von maximal zwölf Atomen (ohne Mitzählung von Wasserstoffatomen) aufweisen.
+beliebig substituierte Kettenstrukturen mit mindestens einem Kohlenstoffatom, die unter Einbeziehung der Heteroatome eine durchgehende Kettenlänge von maximal zwölf Atomen (ohne Mitzählung von Wasserstoffatomen) aufweisen.
 
 b) Brücken mit der Möglichkeit der Anbindung von mehreren Brückenresten, beispielsweise Brücken zu Nummer 2.1.2 Buchstabe b, d oder Buchstabe e, können auch mehrere Brückenreste gemäß den Definitionen zu Nummer 2.1.3 Buchstabe a Doppelbuchstabe aa und zu Nummer 2.1.3 Buchstabe a Doppelbuchstabe bb tragen. Die Molekülmassenbeschränkung von insgesamt 400 u gilt dann für die Summe der Brückenreste.
 
 2.1.4  
 Seitenkette
 
-Die Seitenkette kann beliebige Kombinationen der Atome Kohlenstoff, Wasserstoff, Stickstoff, Sauerstoff, Schwefel, Fluor, Chlor, Brom und Iod aufweisen, soweit sie nicht gemäß den Buchstaben a und b eingeschränkt werden. Die Seitenkette darf eine maximale Molekülmasse von 300 u aufweisen und muss jeweils an der unter Nummer 2.1.1 bezeichneten Stelle der Kernstruktur angebunden sein. Die Seitenkette kann folgende Strukturelemente aufweisen:
+Die Seitenkette kann beliebige Kombinationen der Atome Kohlenstoff, Wasserstoff, Stickstoff, Sauerstoff, Schwefel, Silizium, Fluor, Chlor, Brom und Iod aufweisen, soweit sie nicht gemäß den Buchstaben a und b eingeschränkt werden. Die Seitenkette darf eine maximale Molekülmasse von 300 u aufweisen und muss jeweils an der unter Nummer 2.1.1 bezeichneten Stelle der Kernstruktur angebunden sein. Die Seitenkette kann folgende Strukturelemente aufweisen:
 
-a) beliebig substituierte Kettenstrukturen, die innerhalb der Kette neben Kohlenstoffatomen ausschließlich auch Sauerstoff- und Schwefelatome aufweisen können und unter Einbeziehung der Heteroatome eine durchgehende Kettenlänge von drei bis maximal sieben Atomen (ohne Mitzählung von Wasserstoffatomen) aufweisen,
+a) beliebig substituierte Kettenstrukturen mit mindestens einem Kohlenstoffatom, die innerhalb der Kette neben weiteren Kohlenstoffatomen ausschließlich auch Sauerstoff, Schwefel- und Siliziumatome aufweisen können und unter Einbeziehung der Heteroatome eine durchgehende Kettenlänge von drei bis maximal zehn Atomen (ohne Mitzählung von Wasserstoffatomen) aufweisen,
 
 b) direkt angebundene oder über eine Kohlenwasserstoffbrücke (gesättigt oder einfach ungesättigt, verzweigt oder nicht verzweigt, in Position 2 optional oxo-substituiert) mit insgesamt ein bis vier Kohlenstoffatomen gekoppelte, beliebig substituierte gesättigte, ungesättigte oder aromatische Ringstrukturen mit drei bis sieben Ringatomen einschließlich Polyzyklen und Heterozyklen. Bei den Polyzyklen darf jeder Ring drei bis sieben Ringatome aufweisen. Heterozyklen dürfen neben Kohlenstoff die Atome Sauerstoff, Stickstoff und Schwefel im Ring aufweisen. Eine mögliche freie Valenz eines Stickstoffatoms im Ring kann ein Wasserstoffatom oder einen Methyl- oder Ethylrest tragen.
 
@@ -213,11 +209,36 @@ a)
 2.2.2  
 Reste R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>und R<sub>4</sub>
 
-a) Der Rest R<sub>1</sub> kann aus den folgenden Atomen oder Atomgruppen bestehen: Wasserstoff, Fluor, Chlor, Brom, Iod, Methyl-, Ethyl- und Methoxygruppen.
+a) Der Rest R<sub>1</sub> kann aus einem der folgenden Atome oder einer der folgenden Atomgruppen bestehen: Wasserstoff, Fluor, Chlor, Brom, Iod, Methyl-, Ethyl- und Methoxygruppe.
 
-b) Der Rest R<sub>2</sub> kann aus den folgenden Ringsystemen bestehen: Phenyl-, Pyridyl-, Cumyl-, 8-Chinolinyl-,3-Isochinolinyl-, 1-Naphthyl- und Adamantylrest. Diese Ringsysteme können weiterhin mit beliebigen Kombinationen der folgenden Atome oder Atomgruppen substituiert sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Methoxy-, Amino-, Hydroxy-, Cyano-, Methyl- und Phenylethergruppen.
+b) Der Rest R<sub>2</sub> kann aus einem der folgenden Ringsysteme bestehen: Phenyl-, Pyridyl-, Cumyl-,8-Chinolinyl-, 3-Isochinolinyl-, 1-Naphthyl- und Adamantylrest. Diese Ringsysteme können weiterhin mit beliebigen Kombinationen der folgenden Atome oder Atomgruppen substituiert sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Methoxy-, Amino-, Hydroxy-, Cyano-, Methyl- und Phenoxygruppen.
 
-c) Die Reste R<sub>3</sub> und R<sub>4</sub> können aus einer beliebigen Kombination der Atome oder Atomgruppen Wasserstoff, Methyl-, Ethyl-, Propyl- und Isopropylgruppen bestehen. Die Reste R<sub>3</sub> und R<sub>4</sub> können auch ein gesättigtes Ringsystem bis zu einer Größe von sieben Atomen einschließlich des Stickstoffatoms bilden. Dieses Ringsystem kann die weiteren Elemente Stickstoff, Sauerstoff und Schwefel enthalten und eine beliebige Kombination der Elemente Wasserstoff, Fluor, Chlor, Brom und Iod tragen. Für die Substitution des Stickstoffatoms in einem solchen Ring gelten die für die Reste R<sub>3</sub> und R<sub>4</sub> in Satz 1 von Buchstaben c angegebenen Substitutionsmöglichkeiten.
+c) Die Reste R<sub>3</sub> und R<sub>4</sub> können aus Wasserstoffatomen, Methyl-, Ethyl-, Propyl- und Isopropylgruppen in beliebiger Kombination bestehen. Die Reste R<sub>3</sub> und R<sub>4</sub> können auch ein gesättigtes Ringsystem bis zu einer Größe von sieben Atomen einschließlich des Stickstoffatoms bilden. Dieses Ringsystem kann die weiteren Elemente Stickstoff, Sauerstoff und Schwefel enthalten und eine beliebige Kombination der Elemente Wasserstoff, Fluor, Chlor, Brom und Iod tragen. Für die Substitution des Stickstoffatoms in einem solchen Ring gelten die für die Reste R<sub>3</sub> und R<sub>4</sub> in Satz 1 von Buchstabe c angegebenen Substitutionsmöglichkeiten.
+
+2.3  
+Von 6H-Benzo(c)chromen-1-ol (6H-Dibenzo(b,d)pyran-1-ol) abgeleitete Verbindungen
+
+Zu dieser eigenständigen Gruppe der Cannabimimetika/synthetischen Cannabinoide, die nicht nach dem unter den Nummern 2.1 und 2.2 beschriebenen modularen Aufbau zusammengesetzt sind, gehören die Stoffe, die eine unter Nummer 2.3.1 beschriebene Kernstruktur besitzen, mit den unter Nummer 2.3.2 beschriebenen Substituenten besetzt sein können und eine maximale Molekülmasse von 600 u haben.
+
+2.3.1  
+Kernstruktur
+
+Die Kernstruktur schließt folgende von 6H-Benzo(c)chromen-1-ol (6H-Dibenzo(b,d)pyran-1-ol) abgeleiteten Verbindungen ein unabhängig vom Hydrierungsgrad des aromatischen Ringes A und der Position der dabei gegebenenfalls darin verbleibenden Doppelbindungen. Die Verbindungen können an den gekennzeichneten Positionen mit den unter Nummer 2.3.2 genannten Atomen und Atomgruppen (Reste R<sub>1</sub> bis R<sub>5</sub>) substituiert sein:
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines Moleküls: Drei Sechsecke, eins davon an drei Seiten mit Doppelstrichen (rechts). Dort offenes Ende R4 sowie Seitenkette über O zu R5. Links an Sechseck anliegend Sechseck mit Eckpunkt O sowie zwei Enden R2 und R3 von dem O benachbarten Eckpunkt ausgehend. Links oben davon weiteres Sechseck mit Ende R1; innerhalb Sechseck Kreis mit Buchstabe A.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0360.jpg) |
+
+2.3.2  
+Reste R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub> und R<sub>5</sub>
+
+a) Der Rest R<sub>1</sub> kann aus Wasserstoff oder einer der folgenden Atomgruppen bestehen: Hydroxymethylgruppe, Methylgruppe sowie Kohlenwasserstoffkette (gesättigt oder ungesättigt, verzweigt oder nicht verzweigt, bis C<sub>10</sub>). Die vorgenannten Atomgruppen können mit folgenden Atomen substituiert sein: Wasserstoff, Fluor, Chlor, Brom und Iod.
+
+b) Die Reste R<sub>2</sub> und R<sub>3</sub> können aus Wasserstoff oder den folgenden Atomgruppen bestehen: Methylgruppen und Alkylketten (verzweigt oder nicht verzweigt, bis C<sub>5</sub>). Die vorgenannten Atomgruppen können mit folgenden Atomen substituiert sein: Wasserstoff, Fluor, Chlor, Brom und Iod.
+
+c) Der Rest R<sub>4</sub> kann aus Wasserstoff oder einer der folgenden Atomgruppen bestehen: Methylgruppe sowie Kohlenwasserstoffkette (gesättigt oder ungesättigt, verzweigt oder nicht verzweigt, bis C<sub>12</sub>). Die vorgenannten Atomgruppen können mit folgenden Atomen substituiert sein: Wasserstoff, Fluor, Chlor, Brom und Iod.
+
+d) Der Rest R<sub>5</sub> kann aus Wasserstoff oder einer der folgenden Atomgruppen bestehen: Alkylcarbonyl (verzweigt oder nicht verzweigt, Alkylrest bis C<sub>7</sub>), Cycloalkylmethylcarbonyl mit drei bis sieben Ringatomen einschließlich Polyzyklen, Arylcarbonyl mit drei bis sechs Ringatomen einschließlich Polyzyklen und Heterozyklen, Arylmethylcarbonyl mit drei bis sechs Ringatomen einschließlich Polyzyklen und Heterozyklen. Bei den Polyzyklen darf jeder Ring jeweils drei bis sieben Ringatome aufweisen. Heterozyklen dürfen neben Kohlenstoff die Atome Sauerstoff, Stickstoff und Schwefel im Ring aufweisen. Eine mögliche freie Valenz eines Stickstoffatoms im Ring kann ein Wasserstoffatom oder einen Methyl- oder Ethylrest tragen.
 
 3. Benzodiazepine
 
@@ -230,96 +251,96 @@ Die Kernstruktur schließt die nachfolgend in den Buchstaben a bis f beschrieben
 
 a) 1,4-Benzodiazepine
 
-|                                                    |                                                    |                                                    |
-|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0360.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0370.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0380.jpg) |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines Moleküls: Ein Siebeneck, an einer Seite mit Doppelstrichen. Eckpunkte 1 und 4 mit N. Weitere drei Eckpunkte 2, 3, und 5. Oben bei Eckpunkt 1 von N mit einem Strich R5 abzweigend, X mit Doppelstrich von Eckpunkt 2, R4 und R3 von Eckpunkt 3, R2 mit einem Strich von Eckpunkt 5 (unten). An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0370.jpg) | ![Strukturformel eines Moleküls: Ein Siebeneck, an einer Seite mit Doppelstrichen. Eckpunkte 1 und 4 mit N. Weitere Eckpunkte 2, 3, und 5. Fünfeck oben anliegend mit zwei Doppelstrichen und drei N-Eckpunkten, davon einer Eckpunkt 1 mit N des Siebenecks. Abzweigend vom Fünfeck, benachbart zu Eckpunkt 1 mit N R5. R4 und R3 abzweigend von Eckpunkt 3, R2 unten abzweigend von Eckpunkt 5. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0380.jpg) | ![Strukturformel eines Moleküls: Ein Siebeneck, an einer Seite mit Doppelstrichen. Eckpunkte 1 und 4 mit N. Weitere Eckpunkte 2, 3, und 5. Fünfeck oben anliegend mit zwei Doppelstrichen und zwei N-Eckpunkten, davon Eckpunkt 1 mit N des Siebenecks. Abzweigend vom Fünfeck benachbart zu Eckpunkt 1 mit N R5. R4 und R3 von Eckpunkt 3 abzweigend, R2 unten von Eckpunkt 5 abzweigend. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0390.jpg) |
 
 b) 1,5-Benzodiazepine
 
-|                                                    |                                                    |                                                    |
-|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0390.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0400.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0410.jpg) |
+|                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines Moleküls: Ein Siebeneck. Eckpunkte 1 und 5 mit N. Weitere Eckpunkte 2, 3, und 4. Abzweigend vom Siebeneck: R5 von Eckpunkt 1 mit N, X von Eckpunkt 2 über Doppelstrich, R4 und R3 von Eckpunkt 3, R7 und R6 von Eckpunkt 4. R2 von Eckpunkt 5 mit N abzweigend. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0400.jpg) | ![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 und 5 mit N. Weitere Eckpunkte 2, 3 und 4. Abzweigend vom Siebeneck: R4 und R3 von Eckpunkt 3, R7 und R6 von Eckpunkt 4. R2 von Eckpunkt 5 mit N abzweigend. Fünfeck oben an Kernstruktur anliegend mit zwei Doppelstrichen und drei N-Eckpunkten. R5 abzweigend vom Fünfeck benachbart zu Eckpunkt 1 mit N vom Siebeneck. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0410.jpg) | ![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 und 5 mit N. Weitere Eckpunkte 2, 3 und 4. Abzweigend vom Siebeneck: R4 und R3 von Eckpunkt 3, R7 und R6 von Eckpunkt 4. R2 abzweigend von Eckpunkt 5 mit N. Fünfeck oben an Kernstruktur anliegend mit zwei Doppelstrichen und zwei N-Eckpunkten. R5 abzweigend vom Fünfeck benachbart zu Eckpunkt 1 mit N vom Siebeneck. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0420.jpg) |
 
 c) Loprazolam-Abkömmlinge
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0420.jpg)
+![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 und 4 mit N. Weitere Eckpunkte 2, 3 und 5. Abzweigend vom Siebeneck: R4 und R3 von Eckpunkt 3, R2 von Eckpunkt 5. Fünfeck oben an Kernstruktur anliegend mit einem Doppelstrich und zwei N-Eckpunkten von denen einer Eckpunkt 1 mit N des Siebenecks ist. Vom Fünfeck auch X abzweigend über Doppelstrich benachbart zu Eckpunkt 1 mit N vom Siebeneck. Seitenkette über Doppelstrich am Fünfeck (oben rechts) zu Sechseck als Kernstruktur mit N als Eckpunkt. Dieses Sechseck hat zwei gegenüberliegende Eckpunkte N von denen das andere über einen Strich zu CH3 führt. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0430.jpg)
 
 d) Ketazolam-Abkömmlinge
 
-|                                                    |                                                    |                                                    |
-|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0430.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0440.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0450.jpg) |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 und 4 mit N. Weitere Eckpunkte 2, 3, und 5. Abzweigend vom Siebeneck: R5 von Eckpunkt 1 mit N, X über Doppelstrich von Eckpunkt 2, R4 und R3 von Eckpunkt 3, R2 von Eckpunkt 5. Sechseck unten an Kernstruktur anliegend mit einem Doppelstrich, einem gemeinsamen N-Eckpunkt und einem O-Eckpunkt. Dort gegenüber über Doppelstrich abzweigend O sowie benachbart vom O-Eckpunkt R7 abzweigend. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0440.jpg) | ![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 und 4 mit N. Weitere Eckpunkte 2, 3 und 5. Abzweigend vom Siebeneck: R4 und R3 von Eckpunkt 3, R2 von Eckpunkt 5. Sechseck unten an Kernstruktur anliegend mit einem Doppelstrich, einem gemeinsamen N-Eckpunkt dem Eckpunkt 4 mit N und O-Eckpunkt. Dort abzweigend O über Doppelstrich gegenüber vom O-Eckpunkt sowie R7 benachbart zum O-Eckpunkt. Fünfeck oben an Kernstruktur anliegend mit zwei Doppelstrichen und drei N-Eckpunkten, einer davon gemeinsam mit Siebeneck dort Eckpunkt 1 mit N. In Fünfeck R5 abzweigend benachbart zu Eckpunkt 1 mit N. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0450.jpg) | ![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 und 4 mit N. Weitere Eckpunkte 2, 3 und 5. Abzweigend vom Siebeneck: R4 und R3 von Eckpunkt 3, R2 von Eckpunkt 5. Sechseck unten an Kernstruktur anliegend mit einem Doppelstrich, einem gemeinsamen N-Eckpunkt, dem Eckpunkt 4 mit N und O-Eckpunkt. Dort abzweigend O über Doppelstrich gegenüber vom O-Eckpunkt sowie R7 benachbart zum O-Eckpunkt. Fünfeck oben an Kernstruktur anliegend mit zwei Doppelstrichen und zwei N-Eckpunkten, einer davon gemeinsam mit Siebeneck dort Eckpunkt 1 mit N. In Fünfeck R5 abzweigend benachbart zu Eckpunkt 1 mit N. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0460.jpg) |
 
 e) Oxazolam-Abkömmlinge
 
-|                                                    |                                                    |                                                    |
-|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0460.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0470.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0480.jpg) |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 und 4 mit N. Weitere Eckpunkte 2, 3, und 5. Abzweigend vom Siebeneck: R5 oben von Eckpunkt 1 mit N, X von Eckpunkt 2 über Doppelstrich, R4 und R3 von Eckpunkt 3, R2 von Eckpunkt 5. Fünfeck unten an Kernstruktur anliegend mit gemeinsamem N-Eckpunkt, dem Eckpunkt 4 mit N und O-Eckpunkt. Im Fünfeck abzweigend R7 benachbart zum O-Eckpunkt. An Linksseite des Sechsecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0470.jpg) | ![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 und 4 mit N. Weitere Eckpunkte 2, 3 und 5. Abzweigend vom Siebeneck: R4 und R3 von Eckpunkt 3, R2 von Eckpunkt 5. Fünfeck unten an Kernstruktur anliegend mit gemeinsamem N-Eckpunkt, dem Eckpunkt 4 mit N und O-Eckpunkt. Im Fünfeck, benachbart zum O-Eckpunkt, abzweigend R7. Fünfeck oben an Kernstruktur anliegend mit zwei Doppelstrichen und drei N-Eckpunkten, einer davon gemeinsam mit Siebeneck, dort Eckpunkt 1 mit N. In Fünfeck R5 abzweigend benachbart zu Eckpunkt 1 mit N. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0480.jpg) | ![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 und 4 mit N. Weitere Eckpunkte 2, 3 und 5. Abzweigend vom Siebeneck: R4 und R3 von Eckpunkt 3, R2 von Eckpunkt 5. Fünfeck unten an Kernstruktur anliegend mit gemeinsamem N-Eckpunkt, dem Eckpunkt 4 mit N und O-Eckpunkt. Im Fünfeck, benachbart zum O-Eckpunkt, abzweigend R7. Fünfeck oben an Kernstruktur anliegend mit zwei Doppelstrichen und zwei N-Eckpunkten, einer davon gemeinsam mit Siebeneck, dort Eckpunkt 1 mit N. In Fünfeck R5 abzweigend benachbart zu Eckpunkt 1 mit N. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0490.jpg) |
 
 f) Chlordiazepoxid-Abkömmlinge
 
-|                                                    |                                                    |                                                    |
-|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0490.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0500.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0510.jpg) |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 mit N. Eckpunkt 4 mit N+. Weitere Eckpunkte 2, 3, und 5. Abzweigend vom Siebeneck: R5 oben von Eckpunkt 1 mit N, X über Doppelstrich von Eckpunkt 2, R4 und R3 von Eckpunkt 3, O- von Eckpunkt 4 mit N+, R2 von Eckpunkt 5. An Linksseite des Siebenecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0500.jpg) | ![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 mit N. Eckpunkt 4 mit N+. Weitere Eckpunkte 2, 3, und 5. Abzweigend vom Siebeneck: R4 und R3 von Eckpunkt 3, O- von Eckpunkt 4 mit N+, R2 von Eckpunkt 5. Fünfeck oben an Kernstruktur anliegend mit zwei Doppelstrichen und drei N-Eckpunkten, einer davon gemeinsam mit Siebeneck, dort Eckpunkt 1 mit N. In Fünfeck benachbart zum gemeinsamen N-Eckpunkt R5 abzweigend. An Linksseite des Sechsecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0510.jpg) | ![Strukturformel eines Moleküls: Kernstruktur: Ein Siebeneck. Eckpunkte 1 mit N. Eckpunkt 4 mit N+. Weitere Eckpunkte 2, 3, und 5. Abzweigend vom Siebeneck: R4 und R3 von Eckpunkt 3, O- von Eckpunkt 4 mit N+, R2 von Eckpunkt 5. Fünfeck oben an Kernstruktur anliegend mit zwei Doppelstrichen und zwei N-Eckpunkten, einer davon gemeinsam mit Siebeneck, dort Eckpunkt 1 mit N. In Fünfeck benachbart zum gemeinsamen N-Eckpunkt R5 abzweigend. An Linksseite des Sechsecks angrenzend ein Kreis/Oval mit R1 im Zentrum.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0520.jpg) |
 
 3.2  
 Reste R<sub>1</sub>bis R<sub>7</sub>und X
 
-a) Der Rest R<sub>1</sub> schließt die folgenden an die Siebenringe der Kernstrukturen anellierten Ringsysteme ein:
+a) Der Rest R<sub>1</sub> schließt eines der folgenden an die Siebenringe der Kernstrukturen anellierten Ringsysteme ein:
 
 Phenyl-, Thienyl-, 4,5,6,7-Tetrahydrobenzo\[b\]thienyl-, Furanyl- und Pyridylring; die Heteroatome im Thienyl-, Furanyl- und Pyridylring können an jeder beliebigen Position außerhalb des Siebenringes der Kernstruktur stehen.
 
-Der Rest R<sub>1</sub> kann weiterhin mit einem oder mehreren der folgenden Atome oder Atomgruppen in beliebiger Kombination und an beliebiger Position außerhalb des Siebenringes substituiert sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Methyl-, Ethyl-, Nitro- und Aminogruppen.
+Der Rest R<sub>1</sub> kann weiterhin mit einem oder mehreren der folgenden Atome oder Atomgruppen in beliebiger Kombination und an beliebigen Positionen außerhalb des Siebenringes substituiert sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Methyl-, Ethyl-, Nitro- und Aminogruppen.
 
-b) Der Rest R<sub>2</sub> schließt folgende Ringsysteme ein:
+b) Der Rest R<sub>2</sub> schließt eines der folgenden Ringsysteme ein:
 
 Phenyl-, Pyridyl- (mit Stickstoffatom an beliebiger Position im Pyridylring) und Cyclohexenylring (mit Doppelbindung an beliebiger Position im Cyclohexenylring).
 
 Phenyl- und Pyridylring können einen oder mehrere der folgenden Substituenten in beliebiger Kombination und an beliebiger Position tragen: Wasserstoff, Fluor, Chlor, Brom, Iod, Methyl-, Ethyl-, Nitro- und Aminogruppen.
 
-c) Der Rest R<sub>3</sub> kann aus den folgenden Atomen oder Atomgruppen bestehen:
+c) Der Rest R<sub>3</sub> kann aus Wasserstoff oder einer der folgenden Atomgruppen bestehen:
 
-Wasserstoff, Hydroxy-, Carboxyl-, Ethoxycarbonyl-, (N,N-Dimethyl)carbamoyl-, Succinyloxy- und Methylgruppen.
+Hydroxy-, Carboxyl-, Ethoxycarbonyl-, (N,N-Dimethyl)carbamoyl-, Succinyloxy- und Methylgruppe.
 
-d) Der Rest R<sub>4</sub> kann aus den folgenden Atomen oder Atomgruppen bestehen:
+d) Der Rest R<sub>4</sub> kann aus Wasserstoff oder einer der folgenden Atomgruppen bestehen:
 
-Wasserstoff, Methyl- und Ethylgruppen.
+Methyl- und Ethylgruppe.
 
 e) Die Reste R<sub>3</sub> und R<sub>4</sub> können auch gemeinsam eine Carbonylgruppe (C=O) bilden.
 
-f) Der Rest R<sub>5</sub> kann aus den folgenden Atomen oder Atomgruppen bestehen:
+f) Der Rest R<sub>5</sub> kann aus Wasserstoff oder einer der folgenden Atomgruppen bestehen:
 
-Wasserstoff, Methyl-, Ethyl-, (N,N-Dimethylamino)methyl-, (N,N-Diethylamino)methyl-, (N,N-Dimethylamino)ethyl-, (N,N-Diethylamino)ethyl-, (Cyclopropyl)methyl-, (Trifluormethyl)methyl- und Prop-2-in-1-ylgruppen.
+Methyl-, Ethyl-, (N,N-Dimethylamino)methyl-, (N,N-Diethylamino)methyl-, (N,N-Dimethylamino)ethyl-,(N,N-Diethylamino)ethyl-, (Cyclopropyl)methyl-, (Trifluormethyl)methyl-, Hydrazidomethyl- und Prop-2-in-1-ylgruppe.
 
-g) Der Rest R<sub>6</sub> kann aus den folgenden Atomen oder Atomgruppen bestehen:
+g) Der Rest R<sub>6</sub> kann aus Wasserstoff oder einer der folgenden Atomgruppen bestehen:
 
-Wasserstoff, Hydroxy- und Methylgruppen.
+Hydroxy- und Methylgruppe.
 
-h) Der Rest R<sub>7</sub> kann aus den folgenden Atomen oder Atomgruppen bestehen:
+h) Der Rest R<sub>7</sub> kann aus Wasserstoff oder einer der folgenden Atomgruppen bestehen:
 
-Wasserstoff, Methyl- und Ethylgruppen.
+Methyl- und Ethylgruppe.
 
 i) Die Reste R<sub>6</sub> und R<sub>7</sub> können bei den 1,5-Benzodiazepinen auch gemeinsam eine Carbonylgruppe (C=O) bilden.
 
 j) Bei den 1,5-Benzodiazepinen kann statt R<sub>2</sub> und R<sub>7</sub> auch eine mit R<sub>6</sub> substituierte Doppelbindung zum 5-Stickstoff-Atom vorliegen.
 
-k) Der Rest X schließt folgende Substituenten ein:
+k) Der Rest X schließt eines der folgenden Atome oder eine der folgenden Atomgruppen ein:
 
-Sauerstoff, Schwefel, Imino- und N-Methyliminogruppen. Wenn R<sub>3</sub>, R<sub>4</sub> oder R<sub>5</sub> aus Wasserstoff besteht, können als tautomere Formen auch die entsprechenden Enole, Thioenole oder Enamine vorliegen.
+Sauerstoff, Schwefel, Imino- und N-Methyliminogruppe. Wenn R<sub>3</sub>, R<sub>4</sub> oder R<sub>5</sub> aus Wasserstoff besteht, können als tautomere Formen auch die entsprechenden Enole, Thioenole oder Enamine vorliegen.
 
 4. Von N-(2-Aminocyclohexyl)amid abgeleitete Verbindungen
 
 Eine von N-(2-Aminocyclohexyl)amid abgeleitete Verbindung ist jede chemische Verbindung, die von der nachfolgend abgebildeten Grundstruktur abgeleitet werden kann, eine maximale Molekülmasse von 500 u hat und mit den nachfolgend beschriebenen Substituenten besetzt sein kann.
 
-|                                                    |
-|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0520.jpg) |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines Moleküls: Kernstruktur: Ein Sechseck mit drei Doppelstrichen. Vom Zentrum ausgehend zwei Enden R5 und R6. Rechts fortsetzend Seitenkette: über Brückenstruktur mit drei Eckpunkten: erster Eckpunkt (CH2)n verbunden mit einem Eckpunkt mit Doppelstrich zum O. Brücke fortsetzend mit N als dritten Eckpunkt und von dort abzweigend R4 und weiteres Sechseck. Abzweigend vom Sechseck: R3 gegenüber der Brücke und N benachbart zur Brücke. Von N aus jeweils ein Strich schräg links unten zu R1 und ein Strich schräg rechts unten zu R2.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0530.jpg) |
 
 Die Grundstruktur N-(2-Aminocyclohexyl)amid kann an den in der Abbildung gekennzeichneten Positionen mit einer beliebigen Kombination der folgenden Atome, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>6</sub>) substituiert sein:
 
 a) R<sub>1</sub> und R<sub>2</sub>:
 
-Wasserstoff, Alkylgruppe (bis C<sub>7</sub>).
+Wasserstoff und Alkylgruppe (bis C<sub>7</sub>).
 
 Ferner sind Stoffe eingeschlossen, bei denen das Stickstoffatom Bestandteil eines cyclischen Systems ist (z. B. Pyrrolidinyl-).
 
@@ -327,19 +348,19 @@ Der Rest R<sub>1</sub> oder R<sub>2</sub> kann auch an die Bindungsstelle der NR
 
 b) R<sub>3</sub>:
 
-Wasserstoff, Oxaspirogruppe (Ringgröße von drei bis acht Atomen einschließlich des Sauerstoffatoms).
+Wasserstoff und Oxaspirogruppe (Ringgröße von drei bis acht Atomen einschließlich des Sauerstoffatoms).
 
 c) R<sub>4</sub>:
 
-Wasserstoff, Alkylgruppe (bis C<sub>5</sub>).
+Wasserstoff und Alkylgruppe (bis C<sub>5</sub>).
 
 d) R<sub>5</sub> und R<sub>6</sub>:
 
-Der Phenylring kann an den Positionen 2, 3, 4, 5 und 6 beliebige Kombinationen folgender Substituenten enthalten: Wasserstoff, Brom, Chlor, Fluor, Iod und Trifluormethyl.
+Der Phenylring kann an den Positionen 2, 3, 4, 5 und 6 beliebige Kombinationen folgender Substituenten enthalten: Wasserstoff, Brom, Chlor, Fluor, Iod und Trifluormethylgruppe.
 
 Ferner sind Stoffe eingeschlossen, bei denen R<sub>5</sub> und R<sub>6</sub> gemeinsam an benachbarten C-Atomen ein Ringsystem (bis C<sub>6</sub>) unter Einbeziehung von Heteroatomen (Sauerstoff, Schwefel, Stickstoff) bilden. Im Fall eines Stickstoffs in diesem Ringsystem darf dieser die Substituenten Wasserstoff und Methylgruppe tragen.
 
-Die Anzahl (n) der Methylengruppen (CH<sub>2</sub>)n zwischen dem Phenylring und der Carbonylgruppe in der Kernstruktur kann null oder eins betragen.
+Die Anzahl (n) der Methylengruppen (CH<sub>2</sub>)<sub>n</sub> zwischen dem Phenylring und der Carbonylgruppe in der Kernstruktur kann null oder eins betragen.
 
 5. Von Tryptamin abgeleitete Verbindungen
 
@@ -348,9 +369,9 @@ Indol-3-alkylamine
 
 Eine von Indol-3-alkylamin abgeleitete Verbindung ist jede chemische Verbindung, die von der nachfolgend abgebildeten Grundstruktur abgeleitet werden kann, eine maximale Molekülmasse von 500 u hat und mit den nachfolgend beschriebenen Substituenten besetzt sein kann. Ausgenommen hiervon sind Tryptamin, die natürlich vorkommenden Neurotransmitter Serotonin und Melatonin sowie deren aktive Metaboliten (z. B.: 6-Hydroxymelatonin).
 
-|                                                    |
-|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0530.jpg) |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines Moleküls: Kernstruktur: Ein Sechseck mit drei Doppelstrichen; vom Zentrum ausgehend Rn. Rechts anliegend Fünfeck mit einem Doppelstrich und Eckpunkten 3 und N. Von Eckpunkt 3 fortführende Seitenkette mit zwei Eckpunkten zu N und zwei Abzweigungen vom N zu R1 und R2. Von Seitenkette vom N benachbarten Eckpunkten zweigt R3 ab. Abzweigend von Fünfeck: R4 und von Eckpunkt N R5.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0540.jpg) |
 
 Die Grundstruktur Indol-3-alkylamin kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>5</sub> und R<sub>n</sub>) substituiert sein:
 
@@ -362,15 +383,15 @@ Ferner sind Stoffe eingeschlossen, bei denen das Stickstoffatom Bestandteil eine
 
 b) R<sub>3</sub>:
 
-Wasserstoff, Alkylgruppe (bis C<sub>3</sub>).
+Wasserstoff und Alkylgruppe (bis C<sub>3</sub>).
 
 c) R<sub>4</sub>:
 
-Wasserstoff, Alkylgruppe (bis C<sub>2</sub>).
+Wasserstoff und Alkylgruppe (bis C<sub>2</sub>).
 
 d) R<sub>5</sub>:
 
-Wasserstoff, Alkyl- (bis C<sub>3</sub>), Alkylcarbonyl- (bis C<sub>10</sub>), Cycloalkylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylmethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylpropylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Benzylcarbonylgruppen.
+Wasserstoff, Alkyl- (bis C<sub>3</sub>), Alkylcarbonyl- (bis C<sub>10</sub>), Cycloalkylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylmethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylpropylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>) und Benzylcarbonylgruppe.
 
 e) R<sub>n</sub>:
 
@@ -381,20 +402,27 @@ Ferner sind Stoffe eingeschlossen, bei denen durch R<sub>n</sub> zwei benachbart
 5.2  
 Δ9,10</sup>-Ergolene
 
-Eine von Δ9,10</sup>-Ergolen abgeleitete Verbindung ist jede chemische Verbindung, die von der nachfolgend abgebildeten Grundstruktur abgeleitet werden kann, eine maximale Molekülmasse von 500 u hat und mit den nachfolgend beschriebenen Substituenten besetzt sein kann.
+Eine von Δ9,10</sup>-Ergolen abgeleitete Verbindung ist jede chemische Verbindung, die von der nachfolgend abgebildeten Grundstruktur abgeleitet werden kann, eine maximale Molekülmasse von 600 u hat und mit den nachfolgend beschriebenen Substituenten besetzt sein kann.
 
-|                                                    |
-|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0540.jpg) |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines Moleküls: Kernstruktur: Drei Sechsecke mit Fünfeck. Unten ein Sechseck mit drei Doppelstrichen. Angrenzend rechts: Fünfeck mit einem Doppelstrich, von dessen Eckpunkt N abzweigend R1. Oberhalb, zwischen Sechseck und Fünfeck, weiteres Sechseck. Linksseitig oberhalb davon weiteres Sechseck mit einem Doppelstrich und Eckpunkt N. Von diesem Eckpunkt N abzweigend R2. Abzweigend davon auch Seitenkette mit einem Eckpunkt zu N. Vom Eckpunkt der Seitenkette abzweigender Doppelstrich zu O. Von terminalem N aus abzweigend R3 und R4.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0550.jpg) |
 
 Die Grundstruktur Δ9,10</sup>-Ergolen kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>4</sub>) substituiert sein:
 
-a) R<sub>1</sub>:  
-Wasserstoff, Alkyl- (bis C<sub>8</sub>), Cycloalkylmethyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylethyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylpropyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Alkylcarbonyl- (bis C<sub>10</sub>), Cycloalkylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylmethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylethylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Cycloalkylpropylcarbonyl- (Ringgröße C<sub>3</sub> bis C<sub>6</sub>), Benzylcarbonylgruppen.
+a) R<sub>1</sub>:
+
+Der Rest R<sub>1</sub> kann aus beliebigen Kombinationen der Atome Kohlenstoff, Wasserstoff, Stickstoff, Sauerstoff, Schwefel, Fluor, Chlor, Brom und Iod bestehen, soweit sie nicht gemäß den Doppelbuchstaben aa und bb eingeschränkt werden. Der Rest R<sub>1</sub> darf eine maximale Molekülmasse von 300 u und folgende Strukturelemente aufweisen:
+
+aa)  
+Wasserstoff oder beliebig substituierte Kettenstrukturen mit mindestens einem Kohlenstoffatom, die innerhalb der Kette neben weiteren Kohlenstoffatomen ausschließlich auch Sauerstoff- und Schwefelatome aufweisen können,
+
+bb)  
+direkt angebundene oder über eine Kohlenwasserstoffbrücke (gesättigt oder einfach ungesättigt, verzweigt oder nicht verzweigt mit insgesamt ein bis fünf Kohlenstoffatomen) oder eine Carbonylgruppe oder eine Alkylcarbonylgruppe (Alkylrest bis C<sub>4</sub>, Bindung der Carbonylgruppe an den Stickstoff des Ergolens) oder eine Alkyloxycarbonylgruppe (Alkylrest bis C<sub>4</sub>, Bindung der Carbonylgruppe an den Stickstoff des Ergolens) oder eine Sulfonylgruppe gekoppelte, beliebig substituierte gesättigte, ungesättigte oder aromatische Ringstrukturen mit drei bis sieben Ringatomen einschließlich Polyzyklen und Heterozyklen. Bei den Polyzyklen darf jeder Ring drei bis sieben Ringatome aufweisen. Heterozyklen dürfen neben Kohlenstoff die Atome Sauerstoff, Stickstoff und Schwefel im Ring aufweisen. Eine mögliche freie Valenz eines Stickstoffatoms im Ring kann ein Wasserstoffatom oder einen Methyl- oder Ethylrest tragen.
 
 b) R<sub>2</sub>:
 
-Wasserstoff, Alkyl- (bis C<sub>4</sub>), Allyl- und Prop-2-in-1-ylgruppen.
+Wasserstoff, Alkyl- (bis C<sub>4</sub>), Allyl- und Prop-2-in-1-yl-Gruppe.
 
 c) R<sub>3</sub> und R<sub>4</sub>:
 
@@ -406,15 +434,15 @@ Ferner sind Stoffe eingeschlossen, bei denen das Amid-Stickstoffatom Bestandteil
 
 Eine von Arylcyclohexylamin abgeleitete Verbindung ist jede chemische Verbindung, die von der nachfolgend abgebildeten Grundstruktur abgeleitet werden kann, eine maximale Molekülmasse von 500 u hat und mit den nachfolgend beschriebenen Substituenten besetzt sein kann.
 
-|                                                    |
-|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0550.jpg) |
+|                                                                                                                                                                                                                         |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines Moleküls: Kernstruktur: Ein Sechseck mit Rn aus der Mitte abzweigend. Oben R3 und Seitenkette zu N abzweigend. Von N weiter abzweigend R1 und R2.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0560.jpg) |
 
 Die Grundstruktur Arylcyclohexylamin kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>3</sub> und R<sub>n</sub>) substituiert sein:
 
 a) R<sub>1</sub>/R<sub>2</sub>:
 
-Wasserstoff, Alkyl- (bis C<sub>6</sub>), Cycloalkyl- (bis C<sub>6</sub>), Alkenyl- (bis C<sub>6</sub>), Alkinylgruppen (bis C<sub>6</sub>).
+Wasserstoff, Alkyl- (bis C<sub>6</sub>), Cycloalkyl- (Ringgröße bis C<sub>6</sub>), Alkenyl- (bis C<sub>6</sub>) und Alkinylgruppen (bis C<sub>6</sub>).
 
 Die aufgeführten Atomgruppen können weiterhin mit beliebigen chemisch möglichen Kombinationen der Elemente Kohlenstoff, Wasserstoff, Stickstoff und Sauerstoff substituiert sein. Die auf diese Weise entstehenden Substituenten R<sub>1</sub>/R<sub>2</sub> dürfen dabei eine durchgehende Kettenlänge von maximal neun Atomen (ohne Mitzählung von Wasserstoffatomen) aufweisen. Atome von Ringstrukturen werden dabei nicht in die Zählung einbezogen.
 
@@ -422,21 +450,21 @@ Zudem gehören Stoffe dazu, bei denen das Stickstoffatom Bestandteil eines cycli
 
 b) R<sub>3</sub>:
 
-Alkyl- (bis C<sub>6</sub>), Alkinylgruppen (bis C<sub>6</sub>) oder folgende Ringsysteme: Phenyl-, Pyrrolyl-, Pyridyl-, Thienyl-, Furanyl-, Methylendioxyphenyl-, Ethylendioxyphenyl-, Dihydrobenzofuranyl-, Benzothiophenyl-Reste.
+Alkyl- (bis C<sub>6</sub>), Alkinylgruppe (bis C<sub>6</sub>) oder eines der folgenden Ringsysteme: Phenyl-,Pyrrolyl-, Pyridyl-, Thienyl-, Furanyl-, Methylendioxyphenyl-, Ethylendioxyphenyl-, Dihydrobenzofuranyl- und Benzothiophenyl-Reste.
 
-Die Ringsysteme können an jeder chemisch möglichen Position als R<sub>3</sub> an die Kernstruktur angebunden sein und an beliebiger Position mit folgenden Atomen oder Atomgruppen substituiert sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Hydroxy-, Thiol-, Alkyl-(bis C<sub>6</sub>), Alkoxy- (bis C<sub>6</sub>), Alkylsulfanyl- (bis C<sub>6</sub>), Aminogruppen, einschließlich der chemischen Verbindungen, bei denen Substitutionen oder eine direkte Anbindung zu einem Ringschluss mit dem Cyclohexylring führen. Diese Ringsysteme dürfen eine Ringgröße von vier bis sechs Atomen aufweisen.
+Die Ringsysteme können an jeder chemisch möglichen Position als R<sub>3</sub> an die Kernstruktur angebunden sein und an beliebiger Position mit folgenden Atomen oder Atomgruppen substituiert sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Hydroxy-, Thiol-, Alkyl- (bis C<sub>6</sub>), Alkoxy- (bis C<sub>6</sub>), Alkylsulfanyl- (bis C<sub>6</sub>) und Aminogruppen, einschließlich der chemischen Verbindungen, bei denen Substitutionen oder eine direkte Anbindung zu einem Ringschluss mit dem Cyclohexylring führen. Diese Ringsysteme dürfen eine Ringgröße von vier bis sechs Atomen aufweisen.
 
 c) R<sub>n</sub>:
 
-Das Cyclohexylringsystem kann an den Positionen zwei bis sechs mit folgenden Atomen oder Atomgruppen substituiert sein: Wasserstoff, Alkyl- (bis C<sub>6</sub>), Alkoxy- (bis C<sub>6</sub>), Hydroxy-, Phenylalkylgruppen (in der Alkylkette C<sub>1</sub> bis C<sub>4</sub>) und Oxo (=O, doppelt gebundenes Sauerstoffatom am Ring).
+Das Cyclohexylringsystem kann an den Positionen zwei bis sechs mit folgenden Atomen oder Atomgruppen substituiert sein: Wasserstoff, Alkyl- (bis C<sub>6</sub>), Alkoxy- (bis C<sub>6</sub>), Hydroxy-, Phenylalkylgruppen (in der Alkylkette C<sub>1</sub> bis C<sub>4</sub>) und Oxo-Gruppen (=O, doppelt gebundenes Sauerstoffatom am Ring).
 
 7. Von Benzimidazol abgeleitete Verbindungen
 
 Eine von Benzimidazol abgeleitete Verbindung ist jede chemische Verbindung, die von der nachfolgend abgebildeten Grundstruktur abgeleitet werden kann, eine maximale Molekülmasse von 500 u hat und mit den nachfolgend beschriebenen Substituenten besetzt sein kann:
 
-|                                                    |
-|:--------------------------------------------------:|
-| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1552-1_0560.jpg) |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Strukturformel eines Moleküls: Kernstruktur: Sechseck mit drei Doppelstrichen und zwei benachbarten Abzweigungen R3 und R4. Rechts, den Abzweigungen gegenüber anliegend Fünfeck mit einem Doppelstrich und zwei N-Eckpunkten. Oben Seitenkette von N-Eckpunkt aus über zwei Eckpunkte zu weiterem N mit Abzweigungen R1 und R2. Rechts unten zwischen N-Eckpunkten des Fünfecks über Brücke mit einem Eckpunkt angeknüpft ein weiteres Sechseck mit drei Doppelstrichen aus dessen Mitte Rn abzweigt.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02100_0570.jpg) |
 
 Die Grundstruktur kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>4</sub> und R<sub>n</sub>) substituiert sein:
 

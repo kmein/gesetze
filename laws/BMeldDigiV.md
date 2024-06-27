@@ -660,9 +660,9 @@ die Tatsache, dass Passversagungsgründe vorliegen, ein Pass versagt oder entzog
 
 23\.
 
-die Tatsache, dass die deutsche Staatsangehörigkeit nach § 4 Absatz 3 oder § 40b des Staatsangehörigkeitsgesetzes erworben wurde und nach § 29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen Staatsangehörigkeit eintreten kann
+(weggefallen)
 
-2401,
+ 
 
 24\.
 

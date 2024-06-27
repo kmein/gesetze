@@ -357,7 +357,7 @@ Die nach Nummer 1 erforderliche Eheurkunde ist auch vorzulegen, wenn die Ehe auf
 
 (1) Zur Prüfung, ob ein Kind ausländischer Eltern durch die Geburt die deutsche Staatsangehörigkeit nach § 4 Abs. 3 des Staatsangehörigkeitsgesetzes erworben hat, verlangt das Standesamt bei der Anzeige der Geburt Angaben darüber, ob ein Elternteil ein unbefristetes Aufenthaltsrecht oder als Staatsangehöriger der Schweiz oder dessen Familienangehöriger eine Aufenthaltserlaubnis auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit (BGBl. 2001 II S. 810) besitzt.
 
-(2) Sind nach den Angaben die Voraussetzungen hinsichtlich der Rechtsstellung oder des Aufenthaltstitels nach Absatz 1 erfüllt, holt das Standesamt mit einem Formular nach dem Muster der Anlage 12 eine schriftliche Auskunft der Ausländerbehörde darüber ein, ob die Angaben zutreffen und der Elternteil zum Zeitpunkt der Geburt des Kindes seit acht Jahren rechtmäßig seinen gewöhnlichen Aufenthalt im Inland hatte. Die Auskunft ist auch dann einzuholen, wenn die Eltern keine Angaben über ihre Rechtsstellung oder ihren Aufenthaltstitel machen oder das Standesamt Zweifel an der Richtigkeit der Angaben hat; in diesem Fall sind die Angaben für beide Elternteile abzufragen.
+(2) Sind nach den Angaben die Voraussetzungen hinsichtlich der Rechtsstellung oder des Aufenthaltstitels nach Absatz 1 erfüllt, holt das Standesamt mit einem Formular nach dem Muster der Anlage 12 eine schriftliche Auskunft der Ausländerbehörde darüber ein, ob die Angaben zutreffen und der Elternteil zum Zeitpunkt der Geburt des Kindes seit fünf Jahren rechtmäßig seinen gewöhnlichen Aufenthalt im Inland hatte. Die Auskunft ist auch dann einzuholen, wenn die Eltern keine Angaben über ihre Rechtsstellung oder ihren Aufenthaltstitel machen oder das Standesamt Zweifel an der Richtigkeit der Angaben hat; in diesem Fall sind die Angaben für beide Elternteile abzufragen.
 
 (3) Das Standesamt prüft, ob das Kind durch die Geburt die deutsche Staatsangehörigkeit erworben hat, und vermerkt das Ergebnis der Prüfung auf dem Formular nach dem Muster der Anlage 12 oder in einem gesonderten Vermerk. Das Formular oder der gesonderte Vermerk über das Ergebnis der Prüfung sind zu den Sammelakten des Geburtseintrags zu nehmen.
 
@@ -1276,9 +1276,10 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage 12 – (zu § 34)
 
-(Fundstelle: BGBl. I 2008, 2314)
+(Fundstelle: BGBl. I 2008, 2314;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
 
-<a href="../normengrafiken/bgbl1_2008/j2263_0110.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2024/j0104_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>

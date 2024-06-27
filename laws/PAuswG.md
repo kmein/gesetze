@@ -195,7 +195,7 @@ Bei einer Identitätsüberprüfung nach § 16 darf auch die aufgedruckte Zugangs
 
 (5) Eine Verlängerung der Gültigkeitsdauer ist nicht zulässig.
 
-(6) Die Gültigkeitsdauer eines Ausweises darf in den Fällen des § 29 des Staatsangehörigkeitsgesetzes den Zeitpunkt der Vollendung des 23. Lebensjahres des Inhabers so lange nicht überschreiten, bis die zuständige Behörde den Fortbestand der deutschen Staatsangehörigkeit festgestellt hat.
+(6) (weggefallen)
 
 (7) Unter den Voraussetzungen des § 7 Abs. 1 des Passgesetzes kann die zuständige Behörde im Einzelfall anordnen, dass der Ausweis nicht zum Verlassen Deutschlands berechtigt.
 
@@ -589,7 +589,7 @@ Der Personalausweis kann als qualifizierte elektronische Signaturerstellungseinh
 
 15. Vermerke über Anordnungen nach § 6 Absatz 7 und Maßnahmen nach § 6a Absatz 1 bis 3,
 
-16. Angaben zur Erklärungspflicht des Ausweisinhabers nach § 29 des Staatsangehörigkeitsgesetzes,
+16. (weggefallen)
 
 17. die Tatsache, dass die Funktion zum elektronischen Identitätsnachweis mit Personalausweis ausgeschaltet wurde oder in die Sperrliste eingetragen ist,
 
@@ -667,11 +667,9 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 2. auf Verlangen den alten Ausweis beim Empfang eines neuen Ausweises abzugeben,
 
-3. den Verlust des Ausweises und sein Wiederauffinden anzuzeigen und im Falle des Wiederauffindens diesen vorzulegen,
+3. den Verlust des Ausweises und sein Wiederauffinden anzuzeigen und im Falle des Wiederauffindens diesen vorzulege und
 
-4. den Erwerb einer ausländischen Staatsangehörigkeit anzuzeigen und
-
-5. anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist.
+4. anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist.
 
 (2) Der Personalausweisinhaber hat zumutbare Maßnahmen zu treffen, damit keine andere Person Kenntnis von der Geheimnummer erlangt. Die Geheimnummer darf insbesondere nicht auf dem Personalausweis vermerkt oder in anderer Weise zusammen mit diesem aufbewahrt sowie im Fall des elektronischen Identitätsnachweises mit einem mobilen Endgerät nicht auf diesem gespeichert werden. Ist dem Personalausweisinhaber bekannt, dass die Geheimnummer Dritten zur Kenntnis gelangt ist, soll er diese unverzüglich ändern oder die Funktion des elektronischen Identitätsnachweises sperren lassen. Satz 3 gilt entsprechend für den Fall, dass dem Personalausweisinhaber bekannt wird, dass die Geheimnummer eines elektronischen Identitätsnachweises mit einem mobilen Endgerät Dritten zur Kenntnis gelangt ist.
 
@@ -737,7 +735,7 @@ Widerspruch und Anfechtungsklage gegen die Anordnung, dass der Ausweis nicht zum
 
 6. entgegen § 20 Absatz 2 Satz 2 eine Kopie weitergibt oder
 
-7. entgegen § 27 Abs. 1 Nr. 3, 4 oder Nr. 5 eine Anzeige nicht oder nicht rechtzeitig erstattet.
+7. entgegen § 27 Absatz 1 Nummer 3 oder 4 eine Anzeige nicht oder nicht rechtzeitig erstattet.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
