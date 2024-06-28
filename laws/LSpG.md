@@ -7,13 +7,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # § 1 – Anwendungsbereich
 
-(1) Dieses Gesetz dient der Durchführung der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in der jeweils geltenden Fassung sowie der im Rahmen dieser Verordnung oder zu ihrer Durchführung erlassenen Rechtsakte der Europäischen Union, soweit dort Regelungen zu garantiert traditionellen Spezialitäten und fakultativen Qualitätsangaben getroffen sind.
+(1) Dieses Gesetz dient der Durchführung der Verordnung (EU) 2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024 über geografische Angaben für Wein, Spirituosen und landwirtschaftliche Erzeugnisse und über garantiert traditionelle Spezialitäten und fakultative Qualitätsangaben für landwirtschaftliche Erzeugnisse sowie zur Änderung der Verordnungen (EU) Nr. 1308/2013, (EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung der Verordnung (EU) Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024) in der jeweils geltenden Fassung sowie der im Rahmen dieser Verordnung oder zu ihrer Durchführung erlassenen Rechtsakte der Europäischen Union, soweit dort Regelungen zu garantiert traditionellen Spezialitäten und fakultativen Qualitätsangaben getroffen sind.
 
 (2) Unberührt von den Vorschriften dieses Gesetzes und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen bleiben die Vorschriften des Lebensmittelrechts und des Weinrechts.
 
 # § 2 – Antrags- und Einspruchsverfahren
 
-(1) Zuständig für die Durchführung des in der Verordnung (EU) Nr. 1151/2012 vorgesehenen Verfahrens über
+(1) Zuständig für die Durchführung des in der Verordnung (EU) 2024/1143 vorgesehenen Verfahrens über
 
 1. die Eintragung eines Agrarerzeugnisses oder eines Lebensmittels in das von der Europäischen Kommission geführte Register der garantiert traditionellen Spezialitäten,
 
@@ -25,13 +25,13 @@ ist die Bundesanstalt für Landwirtschaft und Ernährung, soweit die Durchführu
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung ohne Zustimmung des Bundesrates die in Absatz 1 bezeichneten Verfahren zu regeln, soweit dies zur Durchführung der in § 1 Absatz 1 genannten Rechtsakte erforderlich ist.
 
-(3) Ein mit Gründen versehener Einspruch nach Artikel 21 der Verordnung (EU) Nr. 1151/2012 gegen die beabsichtigte Eintragung eines Namens einer garantiert traditionellen Spezialität in das von der Europäischen Kommission geführte Register der garantiert traditionellen Spezialitäten ist bei der Bundesanstalt für Landwirtschaft und Ernährung innerhalb von zwei Monaten ab der Veröffentlichung einzulegen, die im Amtsblatt der Europäischen Gemeinschaft nach Artikel 50 Absatz 2 der Verordnung (EU) Nr. 1151/2012 erfolgt ist.
+(3) Ein mit Gründen versehener Einspruch nach Artikel 62 in Verbindung mit Artikel 61 der Verordnung (EU) 2024/1143 gegen die beabsichtigte Eintragung eines Namens einer garantiert traditionellen Spezialität in das von der Europäischen Kommission geführte Register der garantiert traditionellen Spezialitäten ist bei der Bundesanstalt für Landwirtschaft und Ernährung innerhalb von zwei Monaten ab der Veröffentlichung einzulegen, die im Amtsblatt der Europäischen Gemeinschaft nach Artikel 59 Absatz 4 der Verordnung (EU) 2024/1143 erfolgt ist.
 
 # § 3 – Unterlassungs- und Schadensersatzanspruch
 
-(1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen die Artikel 44 Absatz 1 Satz 1 in Verbindung mit Satz 2 Buchstabe b und c der Verordnung (EU) Nr. 1151/2012 verstoßen, kann von den nach § 8 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten auf Unterlassung in Anspruch genommen werden. Das Recht nach Satz 1 kann auch von einer Vereinigung im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) Nr. 1151/2012 geltend gemacht werden.
+(1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen die Artikel 70 Absatz 1 Satz 2 und 3, Artikel 82 Absatz 1 Satz 3 und Artikel 83 Absatz 1 der Verordnung (EU) 2024/1143 verstoßen, kann von den nach § 8 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten auf Unterlassung in Anspruch genommen werden. Das Recht nach Satz 1 kann auch von einer Vereinigung im Sinne des Artikels 55 der Verordnung (EU) 2024/1143 geltend gemacht werden.
 
-(2) Wer den Artikel 44 Absatz 1 Satz 1 in Verbindung mit Satz 2 Buchstabe b und c der Verordnung (EU) Nr. 1151/2012 vorsätzlich oder fahrlässig zuwiderhandelt, ist zum Ersatz des durch die Zuwiderhandlung entstandenen Schadens verpflichtet.
+(2) Wer den Artikel 70 Absatz 1 Satz 2 und 3, Artikel 82 Absatz 1 Satz 3 und Artikel 83 Absatz 1 der Verordnung (EU) 2024/1143 vorsätzlich oder fahrlässig zuwiderhandelt, ist zum Ersatz des durch die Zuwiderhandlung entstandenen Schadens verpflichtet.
 
 (3) Wird die Zuwiderhandlung in einem geschäftlichen Betrieb von einem Angestellten oder Beauftragten begangen, so ist der Unterlassungsanspruch und, soweit der Angestellte oder Beauftragte vorsätzlich oder fahrlässig gehandelt hat, der Schadensersatzanspruch auch gegen den Inhaber des Betriebes begründet.
 
@@ -43,7 +43,7 @@ Es ist verboten, ein Lebensmittel oder Agrarerzeugnis unter
 
 1. dem Namen einer garantiert traditionellen Spezialität,
 
-2. dem Unionszeichen nach Artikel 23 Absatz 2 der Verordnung (EU) Nr. 1151/2012 in Verbindung mit Artikel 2 der Delegierten Verordnung (EU) Nr. 664/2014 der Kommission vom 18. Dezember 2013 zur Ergänzung der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung der EU-Zeichen für geschützte Ursprungsbezeichnungen, geschützte geografische Angaben und garantiert traditionelle Spezialitäten sowie im Hinblick auf bestimmte herkunftsbezogene Vorschriften, Verfahrensvorschriften und zusätzliche Übergangsvorschriften (ABl. L 179 vom 19.6.2014, S. 17) oder
+2. dem Unionszeichen nach Artikel 70 Absatz 1 Satz 1 der Verordnung (EU) 2024/1143 in Verbindung mit Artikel 2 der Delegierten Verordnung (EU) Nr. 664/2014 der Kommission vom 18. Dezember 2013 zur Ergänzung der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung der EU-Zeichen für geschützte Ursprungsbezeichnungen, geschützte geografische Angaben und garantiert traditionelle Spezialitäten sowie im Hinblick auf bestimmte herkunftsbezogene Vorschriften, Verfahrensvorschriften und zusätzliche Übergangsvorschriften (ABl. L 179 vom 19.6.2014, S. 17) oder
 
 3. der Verwendung des Begriffs „garantiert traditionelle Spezialität“
 
@@ -75,7 +75,7 @@ Diese Befugnisse erstrecken sich auch auf Agrarerzeugnisse oder Lebensmittel, di
 
 # § 5 – Private Kontrollstellen
 
-Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Durchführung der nach Artikel 37 Absatz 1 der Verordnung (EU) Nr. 1151/2012 erforderlichen Kontrollen zugelassenen privaten Kontrollstellen zu übertragen oder zugelassene private Kontrollstellen bei der Durchführung der nach Artikel 37 Absatz 1 der Verordnung (EU) Nr. 1151/2012 erforderlichen Kontrollen zu beteiligen sowie die Voraussetzungen und das Verfahren der Zulassung privater Kontrollstellen zu regeln. Die Landesregierungen sind befugt, die Ermächtigung nach Satz 1 durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu übertragen.
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Durchführung der nach Artikel 72 Absatz 6 der Verordnung (EU) 2024/1143 erforderlichen Kontrollen zugelassenen privaten Kontrollstellen zu übertragen oder zugelassene private Kontrollstellen bei der Durchführung der nach Artikel 72 Absatz 6 der Verordnung (EU) 2024/1143 erforderlichen Kontrollen zu beteiligen sowie die Voraussetzungen und das Verfahren der Zulassung privater Kontrollstellen zu regeln. Die Landesregierungen sind befugt, die Ermächtigung nach Satz 1 durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu übertragen.
 
 # § 6 – (weggefallen)
 
@@ -109,7 +109,7 @@ f) eine Auskunft nicht, nicht richtig oder nicht vollständig erteilt,
 
 2. einer nach § 2 Abs. 2 oder § 4 Abs. 6 erlassenen Rechtsverordnung zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(2a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig ein Erzeugnis als „garantiert traditionelle Spezialität“ in Verkehr bringt, ohne dass vor der erstmaligen Vermarktung eine Kontrolle nach Artikel 37 Absatz 1 Satz 1 der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) durchgeführt wurde.
+(2a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig ein Erzeugnis als „garantiert traditionelle Spezialität“ in Verkehr bringt, ohne dass vor der erstmaligen Vermarktung eine Kontrolle nach Artikel 72 Absatz 6 der Verordnung (EU) 2024/1143 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) durchgeführt wurde.
 
 (3) Die Ordnungswidrigkeit kann in Fällen des Absatzes 1 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro und in den Fällen der Absätze 2 und 2a mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
@@ -126,6 +126,10 @@ Ist eine Straftat nach § 7 Abs. 1 oder 2 oder eine Ordnungswidrigkeit nach § 8
 1. der Europäischen Union ändern, soweit es zur Anpassung an eine Änderung dieser Vorschrift erforderlich ist,
 
 2. der Europäischen Union, die durch eine inhaltsgleiche Vorschrift der Europäischen Union ersetzt worden ist, durch den Verweis auf die ersetzende Vorschrift anpassen.
+
+# § 9b – Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143
+
+Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU) 2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in ihrer jeweils in Bezug genommenen Fassung weiterhin Anwendung finden, sind die § 1 Absatz 1, § 2 Absatz 1 und 3, § 3 Absatz 1 und 2, § 3a Nummer 2, § 5 sowie § 8 Absatz 2a in der bis zum 27. Juni 2024 geltenden Fassung weiter anzuwenden.
 
 # § 10 – Inkrafttreten
 

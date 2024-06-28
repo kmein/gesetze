@@ -1009,6 +1009,8 @@ darüber hinaus, soweit der Verdacht eines Verbrechens nach Nummer 2 oder nach �
 
 (3) Verursacht eine Person, die zu einer Verrichtung bestellt ist, die Gefahr in Ausführung der Verrichtung, so können Maßnahmen auch gegen die Person gerichtet werden, die andere zu der Verrichtung bestellt hat.
 
+(+++ § 17: Zur Anwendung vgl. § 2 Abs. 6 KCanG +++)
+
 # § 18 – Verantwortlichkeit für das Verhalten von Tieren oder den Zustand von Sachen
 
 (1) Geht von einem Tier oder einer Sache eine Gefahr aus, so sind die Maßnahmen gegen den Inhaber der tatsächlichen Gewalt zu richten. Die nachfolgenden für Sachen geltenden Vorschriften sind auf Tiere entsprechend anzuwenden.
@@ -1016,6 +1018,8 @@ darüber hinaus, soweit der Verdacht eines Verbrechens nach Nummer 2 oder nach �
 (2) Maßnahmen können auch gegen den Eigentümer oder einen anderen Berechtigten gerichtet werden. Dies gilt nicht, wenn der Inhaber der tatsächlichen Gewalt diese ohne den Willen des Eigentümers oder Berechtigten ausübt.
 
 (3) Geht die Gefahr von einer herrenlosen Sache aus, so können die Maßnahmen gegen denjenigen gerichtet werden, der das Eigentum an der Sache aufgegeben hat.
+
+(+++ § 18: Zur Anwendung vgl. § 2 Abs. 6 KCanG +++)
 
 # § 19 – Unmittelbare Ausführung einer Maßnahme
 
@@ -1815,6 +1819,8 @@ d) sich oder einem anderen die Flucht zu ermöglichen oder zu erleichtern.
 
 (4) Die verwahrten Sachen sind zu verzeichnen und so zu kennzeichnen, daß Verwechslungen vermieden werden.
 
+(+++ § 48: Zur Anwendung vgl. § 2 Abs. 6 KCanG +++)
+
 # § 49 – Verwertung, Vernichtung
 
 (1) Die Verwertung einer sichergestellten Sache ist zulässig, wenn
@@ -1841,6 +1847,8 @@ d) sich oder einem anderen die Flucht zu ermöglichen oder zu erleichtern.
 
 Absatz 2 gilt entsprechend.
 
+(+++ § 49: Zur Anwendung vgl. § 2 Abs. 6 KCanG +++)
+
 # § 50 – Herausgabe sichergestellter Sachen oder des Erlöses, Gebühren und Auslagen
 
 (1) Sobald die Voraussetzungen für die Sicherstellung weggefallen sind, sind die Sachen an denjenigen herauszugeben, bei dem sie sichergestellt worden sind. Ist die Herausgabe an ihn nicht möglich, können sie an einen anderen herausgegeben werden, der seine Berechtigung glaubhaft macht. Die Herausgabe ist ausgeschlossen, wenn dadurch erneut die Voraussetzungen für eine Sicherstellung eintreten würden.
@@ -1850,6 +1858,8 @@ Absatz 2 gilt entsprechend.
 (3) Die Herausgabe der Sache kann davon abhängig gemacht werden, ob die Gebühren und Auslagen gezahlt worden sind, die für die Sicherstellung und Verwahrung der Sache erhoben werden. Ist eine Sache verwertet worden, können die Gebühren und Auslagen aus dem Erlös gedeckt werden.
 
 (4) § 983 des Bürgerlichen Gesetzbuchs bleibt unberührt.
+
+(+++ § 50: Zur Anwendung vgl. § 2 Abs. 6 KCanG +++)
 
 # § 51 – Zum Ausgleich verpflichtende Tatbestände
 

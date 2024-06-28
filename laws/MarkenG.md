@@ -875,7 +875,7 @@ Abschnitt 2
 
  
 
-Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) Nr. 1151/2012
+Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) 2024/1143
 
 § 130
 
@@ -925,11 +925,11 @@ Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben
 
 § 138
 
-Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) Nr. 1151/2012
+Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2024/1143
 
 § 139
 
-Durchführungsbestimmungen zur Verordnung (EU) Nr. 1151/2012; Verordnungsermächtigung
+Durchführungsbestimmungen zur Verordnung (EU) 2024/1143
 
 Teil 8
 
@@ -2670,7 +2670,7 @@ Ansprüche nach § 128 verjähren gemäß § 20.
 
 # § 130 – Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren
 
-(1) Anträge auf Eintragung einer geographischen Angabe oder einer Ursprungsbezeichnung in das Register der geschützten Ursprungsbezeichnungen und der geschützten geographischen Angaben, das von der Europäischen Kommission nach Artikel 11 der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in ihrer jeweils geltenden Fassung geführt wird, sind beim Deutschen Patent- und Markenamt einzureichen.
+(1) Anträge auf Eintragung einer geographischen Angabe oder einer Ursprungsbezeichnung in das Register der geschützten Ursprungsbezeichnungen und der geschützten geographischen Angaben, das von der Europäischen Kommission nach Artikel 22 Absatz 1 in Verbindung mit Artikel 5 Absatz 1 Unterabsatz 1 Buchstabe c der Verordnung (EU) 2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024 über geografische Angaben für Wein, Spirituosen und landwirtschaftliche Erzeugnisse und über garantiert traditionelle Spezialitäten und fakultative Qualitätsangaben für landwirtschaftliche Erzeugnisse sowie zur Änderung der Verordnungen (EU) Nr. 1308/2013, (EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung der Verordnung (EU) Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024) in ihrer jeweils geltenden Fassung geführt wird, sind beim Deutschen Patent- und Markenamt einzureichen.
 
 (2) Für die in diesem Abschnitt geregelten Verfahren sind die im Deutschen Patent- und Markenamt errichteten Markenabteilungen zuständig.
 
@@ -2678,23 +2678,23 @@ Ansprüche nach § 128 verjähren gemäß § 20.
 
 (4) Das Deutsche Patent- und Markenamt veröffentlicht den Antrag. Gegen den Antrag kann innerhalb von zwei Monaten seit Veröffentlichung von jeder Person mit einem berechtigten Interesse, die im Gebiet der Bundesrepublik Deutschland niedergelassen oder ansässig ist, beim Deutschen Patent- und Markenamt Einspruch eingelegt werden.
 
-(5) Entspricht der Antrag den Anforderungen der Verordnung (EU) Nr. 1151/2012 und den zu ihrer Durchführung erlassenen Vorschriften, stellt das Deutsche Patent- und Markenamt dies durch Beschluss fest. Andernfalls wird der Antrag durch Beschluss zurückgewiesen. Das Deutsche Patent- und Markenamt veröffentlicht den stattgebenden Beschluss. Kommt es zu wesentlichen Änderungen der nach Absatz 4 veröffentlichten Angaben, so werden diese zusammen mit dem stattgebenden Beschluss veröffentlicht. Der Beschluss nach Satz 1 und nach Satz 2 ist dem Antragsteller und denjenigen zuzustellen, die fristgemäß Einspruch eingelegt haben.
+(5) Entspricht der Antrag den Anforderungen der Verordnung (EU) 2024/1143 und den zu ihrer Durchführung erlassenen Vorschriften, stellt das Deutsche Patent- und Markenamt dies durch Beschluss fest. Andernfalls wird der Antrag durch Beschluss zurückgewiesen. Das Deutsche Patent- und Markenamt veröffentlicht den stattgebenden Beschluss. Kommt es zu wesentlichen Änderungen der nach Absatz 4 veröffentlichten Angaben, so werden diese zusammen mit dem stattgebenden Beschluss veröffentlicht. Der Beschluss nach Satz 1 und nach Satz 2 ist dem Antragsteller und denjenigen zuzustellen, die fristgemäß Einspruch eingelegt haben.
 
-(6) Steht rechtskräftig fest, dass der Antrag den Anforderungen der Verordnung (EU) Nr. 1151/2012 und den zu ihrer Durchführung erlassenen Vorschriften entspricht, so unterrichtet das Deutsche Patent- und Markenamt den Antragsteller hierüber und übermittelt den Antrag mit den erforderlichen Unterlagen dem Bundesministerium der Justiz und für Verbraucherschutz. Ferner veröffentlicht das Deutsche Patent- und Markenamt die Fassung der Spezifikation, auf die sich die positive Entscheidung bezieht. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt den Antrag mit den erforderlichen Unterlagen an die Europäische Kommission.
+(6) Steht rechtskräftig fest, dass der Antrag den Anforderungen der Verordnung (EU) 2024/1143 und den zu ihrer Durchführung erlassenen Vorschriften entspricht, so unterrichtet das Deutsche Patent- und Markenamt den Antragsteller hierüber und übermittelt den Antrag mit den erforderlichen Unterlagen dem Bundesministerium der Justiz und für Verbraucherschutz. Ferner veröffentlicht das Deutsche Patent- und Markenamt die Fassung der Spezifikation, auf die sich die positive Entscheidung bezieht. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt den Antrag mit den erforderlichen Unterlagen an die Europäische Kommission.
 
 (7) Sofern die Spezifikation im Eintragungsverfahren bei der Europäischen Kommission geändert worden ist, veröffentlicht das Deutsche Patent- und Markenamt die der Eintragung zugrunde liegende Fassung der Spezifikation.
 
 # § 131 – Zwischenstaatliches Einspruchsverfahren
 
-(1) Einsprüche nach Artikel 51 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 1151/2012 gegen die beabsichtigte Eintragung von geographischen Angaben oder Ursprungsbezeichnungen in das von der Europäischen Kommission geführte Register der geschützten Ursprungsbezeichnungen und der geschützten geographischen Angaben sind beim Deutschen Patent- und Markenamt innerhalb von zwei Monaten ab der Veröffentlichung einzulegen, die im Amtsblatt der Europäischen Union nach Artikel 50 Absatz 2 der Verordnung (EU) Nr. 1151/2012 vorgenommen wird.
+(1) Einsprüche nach Artikel 17 Absatz 2 der Verordnung (EU) 2024/1143 gegen die beabsichtigte Eintragung von geographischen Angaben oder Ursprungsbezeichnungen in das von der Europäischen Kommission geführte Register der geschützten Ursprungsbezeichnungen und der geschützten geographischen Angaben sind beim Deutschen Patent- und Markenamt innerhalb von zwei Monaten ab der Veröffentlichung einzulegen, die im Amtsblatt der Europäischen Union nach Artikel 15 Absatz 4 der Verordnung (EU) 2024/1143 vorgenommen wird.
 
 (2) Die Zahlungsfrist für die Einspruchsgebühr richtet sich nach § 6 Abs. 1 Satz 1 des Patentkostengesetzes. Eine Wiedereinsetzung in die Einspruchsfrist und in die Frist zur Zahlung der Einspruchsgebühr ist nicht gegeben.
 
 # § 132 – Antrag auf Änderung der Spezifikation, Löschungsverfahren
 
-(1) Für Anträge auf Änderung der Spezifikation einer geschützten geographischen Angabe oder einer geschützten Ursprungsbezeichnung nach Artikel 53 Absatz 2 Satz 1 der Verordnung (EU) Nr. 1151/2012 gelten die §§ 130 und 131 entsprechend.
+(1) Für Anträge auf Änderung der Spezifikation einer geschützten geographischen Angabe oder einer geschützten Ursprungsbezeichnung nach Artikel 24 Absatz 2 der Verordnung (EU) 2024/1143 gelten die §§ 130 und 131 entsprechend.
 
-(2) Für Anträge auf Löschung einer geschützten geographischen Angabe oder einer geschützten Ursprungsbezeichnung nach Artikel 54 Absatz 1 der Verordnung (EU) Nr. 1151/2012 gelten die §§ 130 und 131 entsprechend.
+(2) Für Anträge auf Löschung einer geschützten geographischen Angabe oder einer geschützten Ursprungsbezeichnung nach Artikel 25 Absatz 1 und 2 der Verordnung (EU) 2024/1143 gelten die §§ 130 und 131 entsprechend.
 
 # § 133 – Rechtsmittel
 
@@ -2702,7 +2702,7 @@ Gegen Entscheidungen, die das Deutsche Patent- und Markenamt nach den Vorschrift
 
 # § 134 – Überwachung
 
-(1) Die nach der Verordnung (EU) Nr. 1151/2012 und den zu ihrer Durchführung erlassenen Vorschriften erforderliche Überwachung und Kontrolle obliegt den nach Landesrecht zuständigen Stellen.
+(1) Die nach der Verordnung (EU) 2024/1143 und den zu ihrer Durchführung erlassenen Vorschriften erforderliche Überwachung und Kontrolle obliegt den nach Landesrecht zuständigen Stellen.
 
 (2) Soweit es zur Überwachung und Kontrolle im Sinn des Absatzes 1 erforderlich ist, können die Beauftragten der zuständigen Stellen bei Betrieben, die Agrarerzeugnisse oder Lebensmittel in Verkehr bringen oder herstellen (§ 3 Absatz 1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuchs) oder innergemeinschaftlich verbringen, einführen oder ausführen, während der Geschäfts- oder Betriebszeit
 
@@ -2722,17 +2722,17 @@ Diese Befugnisse erstrecken sich auch auf Agrarerzeugnisse oder Lebensmittel, di
 
 (5) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-(6) Für Amtshandlungen, die nach Artikel 37 Absatz 1 der Verordnung (EU) Nr. 1151/2012 zu Kontrollzwecken vorzunehmen sind, werden kostendeckende Gebühren und Auslagen erhoben. Die kostenpflichtigen Tatbestände werden durch das Landesrecht bestimmt.
+(6) Für Amtshandlungen, die nach Artikel 39 Absatz 3 der Verordnung (EU) 2024/1143 zu Kontrollzwecken vorzunehmen sind, werden kostendeckende Gebühren und Auslagen erhoben. Die kostenpflichtigen Tatbestände werden durch das Landesrecht bestimmt.
 
 # § 135 – Ansprüche wegen Verletzung
 
-(1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen Artikel 13 der Verordnung (EU) Nr. 1151/2012 verstoßen, kann bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch besteht auch dann, wenn eine Zuwiderhandlung erstmalig droht. Die Ansprüche nach Satz 1 stehen zu
+(1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen Artikel 26 der Verordnung (EU) 2024/1143 verstoßen, kann bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch besteht auch dann, wenn eine Zuwiderhandlung erstmalig droht. Die Ansprüche nach Satz 1 stehen zu
 
 1. den nach § 8 Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten,
 
-2. Vereinigungen im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) Nr. 1151/2012,
+2. Vereinigungen im Sinne des Artikels 32 der Verordnung (EU) 2024/1143,
 
-3. anerkannten Erzeugerorganisationen, anerkannten Vereinigungen von Erzeugerorganisationen und anerkannten Branchenverbänden im Sinne der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2021/2117 (ABl. L 435 vom 6.12.2021, S. 262) geändert worden ist, in ihrer jeweils geltenden Fassung, wenn deren Zielsetzung auch den Schutz gegen Verstöße nach Artikel 13 der Verordnung (EU) Nr. 1151/2012 umfasst.
+3. anerkannten Erzeugerorganisationen, anerkannten Vereinigungen von Erzeugerorganisationen und anerkannten Branchenverbänden im Sinne der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2024/1143 geändert worden ist, in ihrer jeweils geltenden Fassung, wenn deren Zielsetzung auch den Schutz gegen Verstöße nach Artikel 26 der Verordnung (EU) 2024/1143 umfasst.
 
 Die §§ 18, 19, 19a und 19c gelten entsprechend.
 
@@ -2756,15 +2756,15 @@ Die Ansprüche nach § 135 verjähren nach § 20.
 
 geregelt werden. Bei der Regelung sind die bisherigen lauteren Praktiken, Gewohnheiten und Gebräuche bei der Verwendung der geographischen Herkunftsangabe zu berücksichtigen.
 
-# § 138 – Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) Nr. 1151/2012
+# § 138 – Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2024/1143
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen über das Antrags-, Einspruchs-, Änderungs- und Löschungsverfahren (§§ 130 bis 132) zu treffen.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz kann die Ermächtigung zum Erlass von Rechtsverordnungen nach Absatz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise auf das Deutsche Patent- und Markenamt übertragen.
 
-# § 139 – Durchführungsbestimmungen zur Verordnung (EU) Nr. 1151/2012; Verordnungsermächtigung
+# § 139 – Durchführungsbestimmungen zur Verordnung (EU) 2024/1143; Verordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Einzelheiten des Schutzes von Ursprungsbezeichnungen und geographischen Angaben nach der Verordnung (EU) Nr. 1151/2012 zu regeln, soweit sich das Erfordernis hierfür aus der Verordnung (EU) Nr. 1151/2012 oder den zu ihrer Durchführung erlassenen Vorschriften des Rates oder der Europäischen Kommission ergibt. In Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften über
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Einzelheiten des Schutzes von Ursprungsbezeichnungen und geographischen Angaben nach der Verordnung (EU) 2024/1143 zu regeln, soweit sich das Erfordernis hierfür aus der Verordnung (EU) 2024/1143 oder den zu ihrer Durchführung erlassenen Vorschriften des Rates oder der Europäischen Kommission ergibt. In Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften über
 
 1. die Kennzeichnung der Agrarerzeugnisse oder Lebensmittel,
 
@@ -2774,7 +2774,7 @@ geregelt werden. Bei der Regelung sind die bisherigen lauteren Praktiken, Gewohn
 
 erlassen werden. Rechtsverordnungen nach Satz 1 können auch erlassen werden, wenn die Mitgliedstaaten nach den dort genannten gemeinschaftsrechtlichen Vorschriften befugt sind, ergänzende Vorschriften zu erlassen.
 
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Durchführung der nach Artikel 37 Absatz 1 der Verordnung (EU) Nr. 1151/2012 erforderlichen Kontrollen zugelassenen privaten Kontrollstellen zu übertragen oder solche an der Durchführung dieser Kontrollen zu beteiligen. Die Landesregierungen können auch die Voraussetzungen und das Verfahren der Zulassung privater Kontrollstellen durch Rechtsverordnung regeln. Sie sind befugt, die Ermächtigung nach den Sätzen 1 und 2 durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu übertragen.
+(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Durchführung der nach Artikel 39 Absatz 3 der Verordnung (EU) 2024/1143 erforderlichen Kontrollen zugelassenen privaten Kontrollstellen zu übertragen oder solche an der Durchführung dieser Kontrollen zu beteiligen. Die Landesregierungen können auch die Voraussetzungen und das Verfahren der Zulassung privater Kontrollstellen durch Rechtsverordnung regeln. Sie sind befugt, die Ermächtigung nach den Sätzen 1 und 2 durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu übertragen.
 
 # § 140 – Kennzeichenstreitsachen
 
@@ -2856,7 +2856,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
-(2) Ebenso wird bestraft, wer entgegen Artikel 13 Absatz 1 Buchstabe a oder b der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) im geschäftlichen Verkehr
+(2) Ebenso wird bestraft, wer entgegen Artikel 26 Absatz 1 Buchstabe a oder b der Verordnung (EU) 2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024 über geografische Angaben für Wein, Spirituosen und landwirtschaftliche Erzeugnisse und über garantiert traditionelle Spezialitäten und fakultative Qualitätsangaben für landwirtschaftliche Erzeugnisse sowie zur Änderung der Verordnungen (EU) Nr. 1308/2013, (EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung der Verordnung (EU) Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024) im geschäftlichen Verkehr
 
 1. einen eingetragenen Namen für ein dort genanntes Erzeugnis verwendet oder
 
@@ -2999,6 +2999,8 @@ Ist vor dem 1. Januar 1995 ein Verfahren von Amts wegen zur Löschung der Eintra
 (9) Für Erinnerungen und Beschwerden, die vor dem 1. Oktober 2009 eingelegt worden sind, gelten die §§ 64 und 66 in der bis zum 1. Oktober 2009 geltenden Fassung. Für mehrseitige Verfahren, bei denen von einem Beteiligten Erinnerung und von einem anderen Beteiligten Beschwerde eingelegt worden ist, ist für die Anwendbarkeit der genannten Vorschriften der Tag der Einlegung der Beschwerde maßgebend.
 
 (10) § 102 Absatz 4 gilt nicht für Kollektivmarken, die vor dem 14. Januar 2019 eingetragen worden sind.
+
+(11) Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU) 2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in ihrer jeweils in Bezug genommenen Fassung weiterhin Anwendung finden, sind die § 130 Absatz 1, 5 und 6 Satz 1, § 131 Absatz 1, § 132, § 134 Absatz 1 und 6 Satz 1, § 135 Absatz 1 sowie die §§ 138, 139 und 144 Absatz 2 in der bis zum 27. Juni 2024 geltenden Fassung weiter anzuwenden.
 
 # § 159 – Schutzdauer und Verlängerung
 

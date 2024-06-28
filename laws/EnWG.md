@@ -4409,6 +4409,8 @@ e) Projekte, die vorhandene Wasserstoff-Leitungsinfrastrukturen mit Wasserstoffn
 
 (10) Die Absätze 1 bis 9 sind erst nach Ablauf des Tages, an dem das Bundesministerium für Wirtschaft und Klimaschutz eine von der Europäischen Kommission erteilte entsprechende beihilferechtliche Genehmigung mit Angabe des Datums im Bundesgesetzblatt bekannt gemacht hat, und nur nach Maßgabe dieser Genehmigung, anzuwenden.
 
+(+++ § 28r: Zur Anwendung vgl. Bek. v. 26.6.2024 I Nr. 216a +++)
+
 # § 28s – Ausgleich des Amortisationskontos durch die Bundesrepublik Deutschland und Selbstbehalt der Wasserstoff-Kernnetzbetreiber
 
 (1) Sofern das Amortisationskonto bei Beendigung der Hochlauffinanzierung bis zum Ablauf des 31. Dezember 2055 oder bei der Kündigung nach § 28r Absatz 7 Satz 1 einen Fehlbetrag aufweist, gleicht die Bundesrepublik Deutschland diesen gegenüber der kontoführenden Stelle aus. Dies ist auch für Beträge anzuwenden, die zwischen dem für die Ermittlung des Fehlbetrages nach Satz 1 maßgeblichen Zeitpunkt und dem tatsächlichen Ausgleich entstehen. Der Fehlbetrag ergibt sich aus der Summe der nach § 28r Absatz 3 auf das Amortisationskonto gebuchten und verzinsten Beträge, wobei vorherige Ausgleichszahlungen und Zuschüsse durch die Bundesrepublik Deutschland, die der Verringerung des Fehlbetrages des Amortisationskontos oder der Erfüllung der Ansprüche nach § 28r Absatz 3 Satz 7 sowie Absatz 2 Satz 1 und 3 dieses Paragrafen dienen, mindernd angerechnet werden.
@@ -4422,6 +4424,8 @@ e) Projekte, die vorhandene Wasserstoff-Leitungsinfrastrukturen mit Wasserstoffn
 (5) Sofern die Wasserstoff-Kernnetzbetreiber im Fall einer Kündigung des Amortisationskontos durch den Bund nach § 28r Absatz 7 Satz 1 nicht über die notwendigen finanziellen Mittel zur Begleichung des Selbstbehalts verfügen, sind die Wasserstoff-Kernnetzbetreiber, die an dem intertemporalen Kostenallokationsmechanismus einschließlich der Nutzung des Amortisationskontos zur Finanzierung des Wasserstoff-Kernnetzes teilnehmen, gemeinschaftlich verpflichtet, dem Bund ihr jeweiliges Eigentum am Wasserstoff-Kernnetz gegen Zahlung des kalkulatorischen Restwerts abzüglich des Selbstbehalts, der sich nach Absatz 3 bemisst, zu übertragen. Sofern der Betrieb des Wasserstoff-Kernnetzes fortgeführt wird, können die Wasserstoff-Kernnetzbetreiber eine außerplanmäßige Abschreibung zulasten des Amortisationskontos bis zur Höhe der regulierten kalkulatorischen Restwerte durchführen. Die außerplanmäßige Abschreibung ist auf den Selbstbehalt nach Absatz 3 erhöhend anzurechnen.
 
 (6) Die Absätze 1 bis 5 sind erst nach Ablauf des Tages, an dem das Bundesministerium für Wirtschaft und Klimaschutz eine von der Europäischen Kommission erteilte entsprechende beihilferechtliche Genehmigung mit Angabe des Datums im Bundesgesetzblatt bekannt gemacht hat, und nur nach Maßgabe dieser Genehmigung, anzuwenden.
+
+(+++ § 28s: Zur Anwendung vgl. Bek. v. 26.6.2024 I Nr. 216a +++)
 
 # § 29 – Verfahren zur Festlegung und Genehmigung
 

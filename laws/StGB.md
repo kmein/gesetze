@@ -6838,7 +6838,7 @@ auszusetzen, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bes
 
 2. Vergehen nach
 
-a) den §§ 86, 86a, 91, 130, 147 und 148 Absatz 1 Nummer 3, den §§ 149, 152a und 176a Absatz 2, § 176b Absatz 2, § 180 Absatz 2, § 184b Absatz 1 Satz 2, § 184c Absatz 1, § 184l Absatz 1 und 3, den §§ 202a, 202b, 202c, 202d, 232 und 232a Absatz 1, 2, 5 und 6, nach § 232b Absatz 1, 2 und 4 in Verbindung mit § 232a Absatz 5, nach den §§ 233, 233a, 236, 259 und 260, nach § 261 Absatz 1 und 2 unter den in § 261 Absatz 5 Satz 2 genannten Voraussetzungen sowie nach den §§ 263, 263a, 267, 269, 275, 276, 303a und 303b,
+a) den §§ 86, 86a, 91, 130, 147 und 148 Absatz 1 Nummer 3, den §§ 149, 152a und 176a Absatz 2, § 176b Absatz 2, § 180 Absatz 2, § 184b Absatz 1, § 184c Absatz 1, § 184l Absatz 1 und 3, den §§ 202a, 202b, 202c, 202d, 232 und 232a Absatz 1, 2, 5 und 6, nach § 232b Absatz 1, 2 und 4 in Verbindung mit § 232a Absatz 5, nach den §§ 233, 233a, 236, 259 und 260, nach § 261 Absatz 1 und 2 unter den in § 261 Absatz 5 Satz 2 genannten Voraussetzungen sowie nach den §§ 263, 263a, 267, 269, 275, 276, 303a und 303b,
 
 b) § 4 Absatz 1 bis 3 des Anti-Doping-Gesetzes,
 
@@ -7834,7 +7834,7 @@ In den Fällen des Satzes 1 Nummer 1 ist der Versuch strafbar.
 
 # § 184b – Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte
 
-(1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird bestraft, wer
+(1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird bestraft, wer
 
 1. einen kinderpornographischen Inhalt verbreitet oder der Öffentlichkeit zugänglich macht; kinderpornographisch ist ein pornographischer Inhalt (§ 11 Absatz 3), wenn er zum Gegenstand hat:
 
@@ -7854,9 +7854,9 @@ Gibt der kinderpornographische Inhalt in den Fällen von Absatz 1 Satz 1 Nummer 
 
 (2) Handelt der Täter in den Fällen des Absatzes 1 Satz 1 gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, und gibt der Inhalt in den Fällen des Absatzes 1 Satz 1 Nummer 1, 2 und 4 ein tatsächliches oder wirklichkeitsnahes Geschehen wieder, so ist auf Freiheitsstrafe nicht unter zwei Jahren zu erkennen.
 
-(3) Wer es unternimmt, einen kinderpornographischen Inhalt, der ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergibt, abzurufen oder sich den Besitz an einem solchen Inhalt zu verschaffen oder wer einen solchen Inhalt besitzt, wird mit Freiheitsstrafe von einem Jahr bis zu fünf Jahren bestraft.
+(3) Wer es unternimmt, einen kinderpornographischen Inhalt, der ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergibt, abzurufen oder sich den Besitz an einem solchen Inhalt zu verschaffen oder wer einen solchen Inhalt besitzt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 
-(4) Der Versuch ist in den Fällen des Absatzes 1 Satz 2 in Verbindung mit Satz 1 Nummer 1 strafbar.
+(4) Der Versuch ist in den Fällen des Absatzes 1 Satz 1 Nummer 1 und 3 sowie in den Fällen des Absatzes 1 Satz 2 in Verbindung mit Satz 1 Nummer 1 strafbar.
 
 (5) Absatz 1 Satz 1 Nummer 2 und Absatz 3 gelten nicht für Handlungen, die ausschließlich der rechtmäßigen Erfüllung von Folgendem dienen:
 
