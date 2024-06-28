@@ -589,7 +589,7 @@ Die Preise sind in Euro je Tonne Produktgewicht anzugeben.
 
 Die Preise sind in Euro je 100 Kilogramm Produktgewicht anzugeben.
 
-(6) Die Meldepflicht nach den Absätzen 4 und 5 gilt nur für Erzeugnisse aus konventioneller Erzeugung. Von der Meldepflicht nach Absatz 5 Satz 1 Nummer 6 und 7 ausgenommen sind Erzeugnisse mit einer Herkunfts- und Ursprungsangabe nach der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1), die zuletzt durch die Verordnung (EU) 2017/625 (ABl. L 95 vom 7.4.2017, S. 1) geändert worden ist, in der jeweils geltenden Fassung.
+(6) Die Meldepflicht nach den Absätzen 4 und 5 gilt nur für Erzeugnisse aus konventioneller Erzeugung. Von der Meldepflicht nach Absatz 5 Satz 1 Nummer 6 und 7 ausgenommen sind Erzeugnisse mit einer Herkunfts- und Ursprungsangabe nach der Verordnung (EU) 2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024 über geografische Angaben für Wein, Spirituosen und landwirtschaftliche Erzeugnisse und über garantiert traditionelle Spezialitäten und fakultative Qualitätsangaben für landwirtschaftliche Erzeugnisse sowie zur Änderung der Verordnungen (EU) Nr. 1308/2013, (EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung der Verordnung (EU) Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024) in der jeweils geltenden Fassung.
 
 (7) Soweit die in den Absätzen 4 und 5 genannten Erzeugnisse nicht von externen Lieferanten zugekauft werden, sondern von Betrieben, die zum gleichen Unternehmen gehören, bezogen werden und soweit hierfür keine Einkaufspreise explizit vereinbart werden, sind stattdessen die unternehmensinternen Bezugs- oder Verrechnungspreise zu melden. Diese Preise sind ebenfalls in Euro je Tonne oder je 100 Kilogramm Produktgewicht anzugeben.
 
@@ -643,7 +643,7 @@ Die Meldepflicht gilt nur, soweit der Jahresumsatz des Herstellers 250 000 000
 
 3. Hersteller von Schmelzkäse.
 
-Die Meldepflicht gilt nur, soweit der Jahresumsatz des Herstellers 250 000 000 Euro übersteigt. Von der Meldepflicht ausgenommen ist Käse mit einer Herkunfts- und Ursprungsangabe nach der Verordnung (EU) Nr. 1151/2012.
+Die Meldepflicht gilt nur, soweit der Jahresumsatz des Herstellers 250 000 000 Euro übersteigt. Von der Meldepflicht ausgenommen ist Käse mit einer Herkunfts- und Ursprungsangabe nach der Verordnung (EU) 2024/1143.
 
 (7) Hersteller von Fertiggerichten haben nach Maßgabe des § 7 Nummer 3 die in der Vorwoche gezahlten durchschnittlichen Einkaufspreise für Hackfleisch vom Rind, Hackfleisch vom Schwein, ganze Hähnchen der Klasse A und Hähnchenbrustfilets zu melden. Die Meldepflicht gilt nur, soweit der Jahresumsatz des Herstellers 250 000 000 Euro übersteigt.
 

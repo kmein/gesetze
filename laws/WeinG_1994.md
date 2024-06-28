@@ -500,13 +500,13 @@ c) Wein, der zur Herstellung von aromatisiertem Wein, aromatisierten weinhaltige
 
 30. Sekt b.A.: Qualitätsschaumwein, der aus Qualitätswein oder für die Gewinnung von Qualitätswein geeigneten Erzeugnissen hergestellt sowie einer amtlichen Qualitätsprüfung unterzogen worden ist und der durch Rechtsvorschrift festgelegte zusätzliche Anforderungen hinsichtlich der Herstellung erfüllt,
 
-31. Ursprungsbezeichnung: Ursprungsbezeichnung im Sinne des Artikels 93 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. 347 vom 20.12.2013, S. 671), die zuletzt durch die Verordnung (EU) 2017/2393 (ABl. L 350 vom 29.12.2017, S. 15) geändert worden ist,
+31. Ursprungsbezeichnung: Ursprungsbezeichnung im Sinne des Artikels 93 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. 347 vom 20.12.2013, S. 671) in der jeweils geltenden Fassung,
 
 32. Geografische Angabe: geografische Angabe im Sinne des Artikels 93 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013,
 
-33. Geschützte Ursprungsbezeichnung: Ursprungsbezeichnung, die nach den Bestimmungen des Teils II Titel II Kapitel I Abschnitt 2 Unterabschnitt 2 der Verordnung (EU) Nr. 1308/2013 in der Europäischen Union geschützt worden ist,
+33. Geschützte Ursprungsbezeichnung: Ursprungsbezeichnung, die nach den Bestimmungen des Teils II Titel II Kapitel I Abschnitt 2 Unterabschnitt 2 der Verordnung (EU) Nr. 1308/2013, auch in Verbindung mit der Verordnung (EU) 2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024 über geografische Angaben für Wein, Spirituosen und landwirtschaftliche Erzeugnisse und über garantiert traditionelle Spezialitäten und fakultative Qualitätsangaben für landwirtschaftliche Erzeugnisse sowie zur Änderung der Verordnungen (EU) Nr. 1308/2013, (EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung der Verordnung (EU) Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024), in der Europäischen Union geschützt worden ist,
 
-34. Geschützte geografische Angabe: geografische Angabe, die nach den Bestimmungen des Teils II Titel II Kapitel I Abschnitt 2 Unterabschnitt 2 der Verordnung (EU) Nr. 1308/2013 in der Europäischen Union geschützt worden ist,
+34. Geschützte geografische Angabe: geografische Angabe, die nach den Bestimmungen des Teils II Titel II Kapitel I Abschnitt 2 Unterabschnitt 2 der Verordnung (EU) Nr. 1308/2013 auch in Verbindung mit der Verordnung (EU) 2024/1143, in der Europäischen Union geschützt worden ist,
 
 35. Klassifizierbare Keltertraubensorte: eine Keltertraubensorte, die die Voraussetzungen des Artikels 81 Absatz 2 Unterabsatz 2 der Verordnung (EU) Nr. 1308/2013 erfüllt, jedoch noch nicht erfolgreich das Verfahren für die Klassifizierung durchlaufen hat,
 
@@ -738,7 +738,7 @@ festsetzen, sofern ein Wein erzeugt werden soll, der nicht mit einer für diese 
 
 (3) Wird der Hektarertrag für Qualitätsgruppen unterschiedlich festgesetzt, so darf dieser für anderen Wein als Prädikatswein und Qualitätswein 150 Hektoliter/Hektar und für Grundwein 200 Hektoliter/Hektar nicht übersteigen. Im Falle einer Rechtsverordnung nach Absatz 2 Satz 2 darf der Hektarertrag 200 Hektoliter/Hektar nicht übersteigen. Soweit in einem Land ein Hektarertrag für ein Gebiet im Sinne des Absatzes 2 Satz 2 Nummer 1 nicht durch Rechtsverordnung festgesetzt ist, gilt ein Hektarertrag für Wein für die dort genannten Gebiete auf 200 Hektoliter/Hektar als festgesetzt.
 
-(4) Bei der Berechnung des Gesamthektarertrages nach Absatz 1 sind die Erträge von den Rebflächen nicht zu berücksichtigen, die als geografisches Gebiet für eine geschützte Ursprungsbezeichnung oder geschützte geografische Angabe abgegrenzt sind, für deren Bezeichnung eine Ursprungsbezeichnung oder geografische Angabe nach dem Verfahren des Artikels 99 der Verordnung (EU) Nr. 1308/2013 geschützt worden ist, und die unter der geschützten Ursprungsbezeichnung oder geografischen Angabe vermarktet werden.
+(4) Bei der Berechnung des Gesamthektarertrages nach Absatz 1 sind die Erträge von den Rebflächen nicht zu berücksichtigen, die als geografisches Gebiet für eine geschützte Ursprungsbezeichnung oder geschützte geografische Angabe abgegrenzt sind, für deren Bezeichnung eine Ursprungsbezeichnung oder geografische Angabe nach dem Verfahren des Artikels 21 der Verordnung (EU) 2024/1143 geschützt worden ist, und die unter der geschützten Ursprungsbezeichnung oder geografischen Angabe vermarktet werden.
 
 (5) Ist der Hektarertrag nach Absatz 1 Satz 2 Nummer 1 in Verbindung mit einer Rechtsverordnung nach Absatz 2 Satz 1 für Flachlagen und Steillagen gesondert festgesetzt, können die Landesregierungen durch Rechtsverordnung zur Berücksichtigung regionaler Besonderheiten abweichend von Absatz 1 Satz 3 einen Ausgleich zwischen den gesondert berechneten Gesamthektarerträgen zulassen.
 
@@ -950,7 +950,7 @@ c) das Nähere über Art, Form und Inhalt der Nachweise nach den Buchstaben a un
 
 # § 16a – Produktspezifikationen
 
-Die in § 23 Absatz 1 und 2 sowie in diesem Abschnitt geregelten Bestimmungen über die Anforderungen und Eigenschaften von Qualitätsweinen, Prädikatsweinen, Qualitätslikörweinen b.A., Qualitätsperlweinen b.A., Sekten b.A. und Landweinen sind Teil der Produktspezifikationen im Sinne des Artikels 94 Absatz 2 der Verordnung (EU) Nr. 1308/2013 zur Beschreibung der Weine aus den bestimmten Anbaugebieten sowie aus den Landweingebieten. Sie sind Gegenstand der Kontrollen der Einhaltung der Produktspezifikationen.
+Die in § 23 Absatz 1 und 2 sowie in diesem Abschnitt geregelten Bestimmungen über die Anforderungen und Eigenschaften von Qualitätsweinen, Prädikatsweinen, Qualitätslikörweinen b.A., Qualitätsperlweinen b.A., Sekten b.A. und Landweinen sind Teil der Produktspezifikationen im Sinne des Artikels 94 der Verordnung (EU) Nr. 1308/2013 zur Beschreibung der Weine aus den bestimmten Anbaugebieten sowie aus den Landweingebieten. Sie sind Gegenstand der Kontrollen der Einhaltung der Produktspezifikationen.
 
 # § 17 – Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A. und Sekt b.A.
 
@@ -1106,9 +1106,9 @@ stammen, wenn bei der Benutzung solcher Bezeichnungen eine Gefahr der Irreführu
 
 (3) § 128 Absatz 1 und 2 des Markengesetzes gilt entsprechend.
 
-# § 22c – Antrag auf Schutz einer geografischen Bezeichnung nach der Verordnung (EU) Nr. 1308/2013
+# § 22c – Antrag auf Schutz einer geografischen Bezeichnung nach der Verordnung (EU) 2024/1143 in Verbindung mit der Verordnung (EU) Nr. 1308/2013
 
-(1) Anträge auf Eintragung einer geografischen Angabe oder Ursprungsbezeichnung in das Verzeichnis der geschützten Ursprungsbezeichnungen und geografischen Angaben, das von der Europäische Kommission nach Artikel 104 Satz 1 der Verordnung (EU) Nr. 1308/2013 unterhalten wird, sind bei der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) zu stellen. Sofern Anträge das Gebiet eines oder mehrerer Anbaugebiete nach § 3 Absatz 1 oder eines oder mehrere nach § 3 Absatz 2 in Verbindung mit § 3 Absatz 4 festgelegte Gebiete betreffen, ist ihnen, sofern für das Gebiet eine Organisation zur Verwaltung herkunftsgeschützter Weinnamen nach § 22g Absatz 1 anerkannt wurde, eine begründete Stellungnahme dieser Organisation beizufügen.
+(1) Anträge auf Eintragung einer geografischen Angabe oder Ursprungsbezeichnung in das Verzeichnis der geschützten Ursprungsbezeichnungen und geografischen Angaben, das von der Europäische Kommission nach Artikel 22 Absatz 1 der Verordnung (EU) 2024/1143 in Verbindung mit Artikel 92 Absatz 1 der Verordnung (EU) Nr. 1308/2013 unterhalten wird, sind bei der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) zu stellen. Sofern Anträge das Gebiet eines oder mehrerer Anbaugebiete nach § 3 Absatz 1 oder eines oder mehrere nach § 3 Absatz 2 in Verbindung mit § 3 Absatz 4 festgelegte Gebiete betreffen, ist ihnen, sofern für das Gebiet eine Organisation zur Verwaltung herkunftsgeschützter Weinnamen nach § 22g Absatz 1 anerkannt wurde, eine begründete Stellungnahme dieser Organisation beizufügen.
 
 (2) Die Bundesanstalt veröffentlicht den Antrag im Bundesanzeiger. Gegen den Antrag kann innerhalb von zwei Monaten ab seiner Veröffentlichung von jeder Person mit einem berechtigten Interesse, die im Gebiet der Bundesrepublik Deutschland niedergelassen oder ansässig ist, bei der Bundesanstalt Einspruch eingelegt werden.
 
@@ -1116,7 +1116,7 @@ stammen, wenn bei der Benutzung solcher Bezeichnungen eine Gefahr der Irreführu
 
 (4) Nach Ablauf der Einspruchsfrist trifft die Bundesanstalt eine Entscheidung über das Vorliegen der Eintragungsvoraussetzungen unter Berücksichtigung der eingeholten Stellungnahmen nach Absatz 3 und nach Anhörung eines Fachausschusses, der von der Bundesanstalt einberufen wird und sich zusammensetzt aus Vertretern des Bundesministeriums für Ernährung und Landwirtschaft, der für den Weinbau zuständigen obersten Landesbehörden und den Verbänden der Weinwirtschaft.
 
-(5) Entspricht der Antrag den Voraussetzungen eines Schutzes nach der Verordnung (EU) Nr. 1308/2013 und der zu seiner Durchführung erlassenen Vorschriften, stellt die Bundesanstalt dieses fest. Andernfalls wird der Antrag zurückgewiesen. Die Bundesanstalt veröffentlicht den stattgebenden Bescheid im Bundesanzeiger. Kommt es zu wesentlichen Änderungen der nach Absatz 2 veröffentlichten Angaben, so werden diese zusammen mit dem stattgebenden Bescheid im Bundesanzeiger veröffentlicht. Der Bescheid nach Satz 1 und nach Satz 2 ist dem Antragsteller und denjenigen zuzustellen, die fristgemäß Einspruch eingelegt haben.
+(5) Entspricht der Antrag den Voraussetzungen eines Schutzes nach der Verordnung (EU) 2024/1143 in Verbindung mit der Verordnung (EU) Nr. 1308/2013 und den zu ihrer Durchführung erlassenen Vorschriften, stellt die Bundesanstalt dieses fest. Andernfalls wird der Antrag zurückgewiesen. Die Bundesanstalt veröffentlicht den stattgebenden Bescheid im Bundesanzeiger. Kommt es zu wesentlichen Änderungen der nach Absatz 2 veröffentlichten Angaben, so werden diese zusammen mit dem stattgebenden Bescheid im Bundesanzeiger veröffentlicht. Der Bescheid nach Satz 1 und nach Satz 2 ist dem Antragsteller und denjenigen zuzustellen, die fristgemäß Einspruch eingelegt haben.
 
 (6) Sobald der Bescheid nach Absatz 5 Satz 1 bestandskräftig geworden ist, unterrichtet die Bundesanstalt den Antragsteller hierüber und übermittelt den Antrag an die Europäische Kommission.
 
@@ -1130,9 +1130,9 @@ stammen, wenn bei der Benutzung solcher Bezeichnungen eine Gefahr der Irreführu
 
 (9) Die Bundesanstalt ist zuständig für
 
-1. das in Artikel 98 der Verordnung (EU) Nr. 1308/2013 genannte Einspruchsverfahren,
+1. das in Artikel 17 der Verordnung (EU) 2024/1143 genannte Einspruchsverfahren,
 
-2. das in Artikel 105 der Verordnung (EU) Nr. 1308/2013 genannte Verfahren zur Änderung der Produktspezifikation und
+2. das in Artikel 24 der Verordnung (EU) 2024/1143 genannte Verfahren zur Änderung der Produktspezifikation und
 
 3. das in Artikel 18 der Delegierten Verordnung (EU) 2019/33 der Kommission vom 17. Oktober 2018 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf Anträge auf Schutz von Ursprungsbezeichnungen, geografischen Angaben und traditionellen Begriffen im Weinsektor, das Einspruchsverfahren, Einschränkungen der Verwendung, Änderungen der Produktspezifikationen, die Löschung des Schutzes sowie die Kennzeichnung und Aufmachung (ABl. L 9 vom 11.1.2019, S. 2) in der jeweils geltenden Fassung genannte Verfahren zur vorübergehenden Änderung einer Produktspezifikation.
 
@@ -1174,7 +1174,7 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, zur V
 
 (1) Die Landesregierungen können durch Rechtsverordnung vorsehen, dass für das Gebiet eines oder mehrerer Anbaugebiete nach § 3 Absatz 1 oder eines oder mehrerer nach § 3 Absatz 2 in Verbindung mit § 3 Absatz 4 festgelegter Gebiete Organisationen zur Verwaltung herkunftsgeschützter Weinnamen anerkannt werden. Sofern sich ein Gebiet nach Satz 1 über das Gebiet mehrerer Länder erstreckt, ist die Anerkennung durch die zuständige Behörde des Landes zu erteilen, in dem der überwiegende Teil des Gebietes belegen ist; die Anerkennung bedarf des Einvernehmens des jeweiligen betroffenen Landes.
 
-(2) Organisationen im Sinne des Absatzes 1 können Anträge für eine Änderung der Produktspezifikation einer geschützten Ursprungsbezeichnung oder einer geschützten geografischen Angabe nach Artikel 105 der Verordnung (EU) Nr. 1308/2013 vorbereiten und Anträge nach § 22c Absatz 1 stellen.
+(2) Organisationen im Sinne des Absatzes 1 können Anträge für eine Änderung der Produktspezifikation einer geschützten Ursprungsbezeichnung oder einer geschützten geografischen Angabe nach Artikel 24 der Verordnung (EU) 2024/1143 vorbereiten und Anträge nach § 22c Absatz 1 stellen.
 
 (3) In einer Rechtsverordnung nach Absatz 1 ist festzulegen, dass eine Organisation nur anerkannt werden kann, wenn sie eine Gruppe von Erzeugern vertritt, die für das bestimmte Anbaugebiet oder Landweingebiet hinreichend repräsentativ ist. Dies ist der Fall, wenn die Mitglieder der Organisation in dem Gebiet über mindestens zwei Drittel der Weinbergflächen verfügen und auf sie zusätzlich zwei Drittel der Weinerzeugung entfallen. Die Weinerzeugung bezieht sich insoweit bei Qualitätsweinen auf die geprüfte Qualitätsweinmenge und bei Landweinen auf die in Verkehr gebrachte Landweinmenge. Die Mitgliedschaft in der Organisation kann durch Vereinigungen repräsentativ für deren Mitglieder wahrgenommen werden. Nach ihrer Satzung soll eine Organisation Regelungen vorsehen, nach der Traubenerzeuger ebenso wie Weinerzeuger entsprechend der im jeweiligen Gebiet vorhandenen Struktur vertreten sind. In der Rechtsverordnung nach Absatz 1 können zudem weitere Anerkennungsvoraussetzungen festgelegt werden, insbesondere im Hinblick auf die zur Erfüllung der Aufgaben der Organisation notwendigen Mittel und Strukturen.
 
@@ -1915,6 +1915,8 @@ werden; § 11 ist insoweit nicht anzuwenden.
 (17) Auf Erzeugnisse von Rebflächen, die auf der Grundlage von § 4 Absatz 3 des Weingesetzes in der bis zum Inkrafttreten des Zehnten Gesetzes zur Änderung des Weingesetzes vom 15. Januar 2021 (BGBl. I S. 74) am 26. Januar 2021 erteilten Genehmigung bewirtschaftet werden, ist § 4 Absatz 3 des Weingesetzes in der bis dahin geltenden Fassung weiter anwendbar.
 
 (18) Soweit nach Artikel 5 Absatz 7 der Verordnung (EU) 2021/2117 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 zur Änderung der Verordnungen (EU) Nr. 1308/2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse, (EU) Nr. 1151/2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel, (EU) Nr. 251/2014 über die Begriffsbestimmung, Beschreibung, Aufmachung und Etikettierung von aromatisierten Weinerzeugnissen sowie den Schutz geografischer Angaben für aromatisierte Weinerzeugnisse und (EU) Nr. 228/2013 über Sondermaßnahmen im Bereich der Landwirtschaft zugunsten der Regionen in äußerster Randlage der Union (ABl. L 435 vom 6.12.2021, S. 262) dort genannte Stützungsprogramme fortgeführt werden, ist § 3b in der am 27. Oktober 2023 geltenden Fassung weiter anzuwenden.
+
+(19) Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU) 2024/1143 enthaltenen Übergangsbestimmungen durch die Verordnung (EU) 2024/1143 aufgehobene oder geänderte Vorschriften der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in ihrer jeweils in Bezug genommenen Fassung weiterhin Anwendung finden, sind die § 2 Nummer 31, 33 und 34, § 9 Absatz 4, § 16a, § 22c sowie § 22g Absatz 2 in der bis zum 27. Juni 2024 geltenden Fassung weiter anzuwenden.
 
 # § 57 – Fortbestehen anderer Vorschriften
 

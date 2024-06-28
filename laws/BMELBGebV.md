@@ -17,7 +17,7 @@ Im Zuständigkeitsbereich des Bundesministeriums für Ernährung und Landwirtsch
 
 a) dem Lebensmittelspezialitätengesetz, der Lebensmittelspezialitätenverordnung,
 
-b) der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1), die durch die Verordnung (EU) 2017/625 (ABl. L 95 vom 7.4.2017, S. 1; L 137 vom 24.5.2017, S. 40; L 322 vom 18.12.2018, S. 85) geändert worden ist, in der jeweils geltenden Fassung,
+b) der Verordnung (EU) 2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024 über geografische Angaben für Wein, Spirituosen und landwirtschaftliche Erzeugnisse und über garantiert traditionelle Spezialitäten und fakultative Qualitätsangaben für landwirtschaftliche Erzeugnisse sowie zur Änderung der Verordnungen (EU) Nr. 1308/2013, (EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung der Verordnung (EU) Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024) in der jeweils geltenden Fassung,
 
 c) der Delegierten Verordnung (EU) Nr. 664/2014 der Kommission vom 18. Dezember 2013 zur Ergänzung der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung der EU-Zeichen für geschützte Ursprungsbezeichnungen, geschützte geografische Angaben und garantiert traditionelle Spezialitäten sowie im Hinblick auf bestimmte herkunftsbezogene Vorschriften, Verfahrensvorschriften und zusätzliche Übergangsvorschriften (ABl. L 179 vom 19.6.2014, S. 17) in der jeweils geltenden Fassung,
 
@@ -132,6 +132,8 @@ Die Gebührenschuld entsteht mit Eingang des Antrags beim Bundessortenamt bei fo
 (1) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, sind die bis einschließlich zum 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden. Für die Erhebung von Gebühren und Auslagen in den Fällen der §§ 4 und 5 Absatz 1 Satz 2, bei denen die jeweilige Gebührenschuld vor dem 1. Oktober 2021 entstanden ist, sind die bis einschließlich zum 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden.
 
 (2) Für eine individuell zurechenbare öffentliche Leistung, die vor dem Inkrafttreten einer Änderung dieser Verordnung beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, können Gebühren und Auslagen nach Maßgabe der neuen gebührenrechtlichen Regelungen erhoben werden, soweit sich die gebührenerhebende Behörde unter Hinweis auf eine bevorstehende Änderung dieser Verordnung eine solche Gebührenfestsetzung ausdrücklich vorbehalten hat.
+
+(3) Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU) 2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in ihrer jeweils in Bezug genommenen Fassung weiterhin Anwendung finden, ist § 1 Nummer 3 Buchstabe b in der bis zum 27. Juni 2024 geltenden Fassung weiter anzuwenden.
 
 # § 8 – Inkrafttreten
 

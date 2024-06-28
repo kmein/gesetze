@@ -1781,6 +1781,7 @@
 - [EnVKV](laws/EnVKV.md) Verordnung zur Kennzeichnung von energieverbrauchsrelevanten Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
 - [EnWFachwBAProFV](laws/EnWFachwBAProFV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Energiewirtschaft oder Geprüfte Fachwirtin für Energiewirtschaft – Bachelor-Professional in Energiewirtschaft
 - [EnWG](laws/EnWG.md) Gesetz über die Elektrizitäts- und Gasversorgung
+- [EnWG2005§28r§28sAnwBek](laws/EnWG2005§28r§28sAnwBek.md) Bekanntmachung über die Erteilung einer beihilferechtlichen Genehmigung der Europäischen Kommission zur Anwendung von § 28r Absatz 1 bis 9 und § 28s Absatz 1 bis 5 des Energiewirtschaftsgesetzes
 - [EnWGKostV](laws/EnWGKostV.md) Verordnung über die Gebühren und Auslagen für Amtshandlungen der Bundesnetzagentur nach dem Energiewirtschaftsgesetz
 - [EÖlAnrAbk BEL](laws/EÖlAnrAbk_BEL.md) Abkommen zwischen dem Bundesminister für Wirtschaft und Finanzen der Bundesrepublik Deutschland und dem Vice-Premier Ministre des Affaires Economiques du Royaume de Belgique über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen
 - [EÖlBAbk NLD](laws/EÖlBAbk_NLD.md) Abkommen zwischen dem Bundesminister für Wirtschaft der Bundesrepublik Deutschland und dem Minister van Economische Zaken der Niederlande über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen
@@ -1808,6 +1809,7 @@
 - [ErholNutzG](laws/ErholNutzG.md) Gesetz zur Bereinigung der im Beitrittsgebiet zu Erholungszwecken verliehenen Nutzungsrechte
 - [ErKGNAnrG](laws/ErKGNAnrG.md) Gesetz zur Nichtanrechnung rückwirkender Erhöhungen des Kindergeldes
 - [ErMiV](laws/ErMiV.md) Verordnung über das Inverkehrbringen von Saatgut von Erhaltungsmischungen
+- [ERP-WiPlanErV](laws/ERP-WiPlanErV.md) Verordnung über die Erweiterung des Anwendungsbereichs des ERP-Wirtschaftsplangesetzes 2024
 - [ERPBürgschG](laws/ERPBürgschG.md) Drittes Gesetz über die Übernahme von Sicherheitsleistungen und Gewährleistungen zur Förderung der deutschen Wirtschaft
 - [ERPEntwHiG](laws/ERPEntwHiG.md) Gesetz über die Finanzierungshilfe für Entwicklungsländer aus Mitteln des ERP-Sondervermögens
 - [ERPSchG](laws/ERPSchG.md) Gesetz zur Mitübernahme der Schulden und Rechte des ERP-Sondervermögens in die Bundesschuld und in das Bundesvermögen, über die Zuführung von Mitteln aus dem ERP-Sondervermögen an den Bundeshaushalt sowie über die Einbringung von ERP-Vermögen in die Kreditanstalt für Wiederaufbau
