@@ -31,6 +31,14 @@ Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten Stoff bestehen ode
 
 nicht angewandt werden dürfen.
 
+# § 3a – (weggefallen)
+
+(+++ Änderung durch Art. 2 Nr. 1 V v. 2.9.2021 I 4111 gem. § 2 V v. 12.12.2023 I Nr. 360 (VorlPflSchMAnwV) nicht anzuwenden +++)
+
+# § 3b – (weggefallen)
+
+(+++ Änderung durch Art. 2 Nr. 1 V v. 2.9.2021 I 4111 gem. § 2 V v. 12.12.2023 I Nr. 360 (VorlPflSchMAnwV) nicht anzuwenden +++)
+
 # § 4 – Verbot der Anwendung in Gebieten mit Bedeutung für den Naturschutz
 
 (1) In Naturschutzgebieten, Nationalparken, Nationalen Naturmonumenten, Naturdenkmälern und gesetzlich geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes, ausgenommen Trockenmauern im Weinbau, dürfen Pflanzenschutzmittel nicht angewendet werden, die
@@ -795,3 +803,7 @@ Thiofanox
  
 
 (+++ Änderung durch Art. 2 Nr. 2 V v. 2.9.2021 I 4111 gem. § 2 V v. 12.12.2023 I Nr. 360 (VorlPflSchMAnwV) nicht anzuwenden +++)
+
+# Anlage 4 – (weggefallen)
+
+(+++ Änderung durch Art. 2 Nr. 3 V v. 2.9.2021 I 4111 gem. § 2 V v. 12.12.2023 I Nr. 360 (VorlPflSchMAnwV) nicht anzuwenden +++)
