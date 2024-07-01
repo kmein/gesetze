@@ -195,7 +195,7 @@ Schadensersatz bei rentenrechtlichen Zeiten
 
   Sechster Untertitel
 
-  (weggefallen)
+ (weggefallen)
 
  
 
@@ -725,7 +725,7 @@ Grundsatz
 
 § 83
 
-Besonderheiten für das Beitrittsgebiet
+(weggefallen)
 
  
 
@@ -927,6 +927,10 @@ Höhe von Bestandsrenten
 
 Ermittlung der nach dem am 31. Dezember 1994 geltenden Recht festzustellenden Renten
 
+§ 99a
+
+Zuschlag zur Steigerungszahl bei Renten wegen Erwerbsminderung und bei Renten wegen Todes
+
 § 100
 
 Begrenzung der Steigerungszahl
@@ -941,7 +945,7 @@ Allgemeiner Rentenwert (Ost)
 
 § 102a
 
-(weggefallen)
+Allgemeiner Rentenwert für die Zeit vom 1. Januar bis 30. Juni 2002
 
 § 102b
 
@@ -965,7 +969,7 @@ Zuschlag bei Witwenrenten und Witwerrenten
 
 § 105
 
-Verordnungsermächtigung
+(weggefallen)
 
 § 105a
 
@@ -1071,7 +1075,7 @@ Finanzierung
 
 § 114
 
-Beitragshöhe
+(weggefallen)
 
 § 115
 
@@ -1079,7 +1083,7 @@ Beitragstragung
 
 § 116
 
-Wiederauffüllung geminderter angleichungsdynamischer Anrechte
+(weggefallen)
 
 § 117
 
@@ -1103,7 +1107,7 @@ Aufrechnung mit Beitragsentlastungen
 
 § 120
 
-Berechnung des Zuschusses zum Beitrag für das Beitrittsgebiet
+(weggefallen)
 
  
 
@@ -1885,7 +1889,7 @@ Haushaltshilfe kann in entsprechender Anwendung des Satzes 1 erbracht werden, we
 
 (1) Zum Ausgleich der nach diesem Gesetz erworbenen Anrechte findet zwischen den geschiedenen Ehegatten die interne Teilung nach dem Versorgungsausgleichsgesetz und den ergänzenden Vorschriften dieses Gesetzes statt. Dies gilt entsprechend für den Versorgungsausgleich nach dem Lebenspartnerschaftsgesetz.
 
-(2) Die interne Teilung erfolgt, indem zu Lasten der von der ausgleichspflichtigen Person nach diesem Gesetz erworbenen Anrechte für die ausgleichsberechtigte Person Anrechte bei der landwirtschaftlichen Alterskasse übertragen werden. Anrechte aus Zeiten im Beitrittsgebiet (§ 102) und aus Zeiten im übrigen Bundesgebiet sind getrennt intern zu teilen.
+(2) Die interne Teilung erfolgt, indem zu Lasten der von der ausgleichspflichtigen Person nach diesem Gesetz erworbenen Anrechte für die ausgleichsberechtigte Person Anrechte bei der landwirtschaftlichen Alterskasse übertragen werden.
 
 (3) Durch externe Teilung im Versorgungsausgleich können Anrechte nach diesem Gesetz nur begründet werden, wenn die ausgleichsberechtigte Person vor dem Ende der Ehezeit bereits Anrechte nach diesem Gesetz erworben hat und am Ende der Ehezeit eine bindende Rente wegen Alters nicht bezieht. § 187 Absatz 5 Satz 2 und 3 des Sechsten Buches Sozialgesetzbuch gilt entsprechend.
 
@@ -2173,15 +2177,7 @@ Der Bund trägt den Unterschiedsbetrag zwischen den Einnahmen und den Ausgaben d
 
 Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der vorangegangenen Kapitel für Sachverhalte, die von dem Zeitpunkt des Inkrafttretens der Vorschriften der vorangegangenen Kapitel an nicht mehr oder nur noch übergangsweise eintreten können.
 
-# § 83 – Besonderheiten für das Beitrittsgebiet
-
-(1) Soweit Vorschriften dieses Gesetzes an die Bezugsgröße anknüpfen, ist die Bezugsgröße (Ost) maßgebend, wenn die Einnahmen aus einer Beschäftigung oder Tätigkeit im Beitrittsgebiet erzielt werden. Soweit Vorschriften dieses Gesetzes bei Hinzuverdienstgrenzen für Renten wegen Erwerbsminderung und vorzeitige Altersrenten an die Bezugsgröße anknüpfen, ist die monatliche Bezugsgröße mit dem allgemeinen Rentenwert (Ost) zu vervielfältigen und durch den allgemeinen Rentenwert zu teilen, wenn das Arbeitsentgelt oder Arbeitseinkommen aus der Beschäftigung oder Tätigkeit im Beitrittsgebiet erzielt wird; dies gilt nicht, soweit in einem Kalendermonat Arbeitsentgelt oder Arbeitseinkommen auch im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet erzielt wird.
-
-(2) Soweit Vorschriften dieses Gesetzes bei der Einkommensanrechnung auf Renten wegen Todes an den aktuellen Rentenwert anknüpfen, ist der aktuelle Rentenwert (Ost) der gesetzlichen Rentenversicherung maßgebend, wenn der Berechtigte seinen gewöhnlichen Aufenthalt im Beitrittsgebiet hat.
-
-(3) Soweit Vorschriften dieses Gesetzes an den Wirtschaftswert anknüpfen, treten im Beitrittsgebiet an die Stelle des Wirtschaftswerts der Ersatzwirtschaftswert nach § 125 des Bewertungsgesetzes und an die Stelle des Einheitswertbescheids der Grundsteuermeßbescheid, solange noch kein Einheitswert nach dem Bewertungsgesetz festgestellt worden ist; insoweit ist § 1 Abs. 6 Satz 2 und 3 nicht anzuwenden.
-
-(4) Bei der Bestimmung der Hektarwerte der gärtnerischen Nutzungsteile durch Rechtsverordnung nach § 6 kann bis zum 30. Juni 2024 den besonderen Verhältnissen im Beitrittsgebiet Rechnung getragen werden.
+# § 83 – (weggefallen)
 
 # § 84 – Versicherungspflicht
 
@@ -3233,6 +3229,34 @@ gilt hierfür § 97 Abs. 1, 6 und 8 mit der Maßgabe, daß der Abschmelzungsfakt
 
 (2) Bestand am 31. Juli 2003 Anspruch auf eine Witwen- oder Witwerrente und lagen die Voraussetzungen des § 98 Abs. 3a Satz 1 Nr. 3 nicht vor, ist diese Rente auf Antrag ab dem 1. August 2003 neu zu bestimmen.
 
+# § 99a – Zuschlag zur Steigerungszahl bei Renten wegen Erwerbsminderung und bei Renten wegen Todes
+
+(1) Ein Zuschlag zur Steigerungszahl als Steigerungszahlzuschlag wird ab dem 1. Juli 2024 berücksichtigt, wenn am 30. Juni 2024 ein Anspruch bestand auf
+
+1. eine Rente wegen Erwerbsminderung, die nach dem 31. Dezember 2000 und vor dem 1. Januar 2019 begonnen hat,
+
+2. eine Rente wegen Todes, die nach dem 31. Dezember 2000 und vor dem 1. Januar 2019 begonnen hat und der kein Rentenbezug der verstorbenen versicherten Person unmittelbar vorausging,
+
+3. eine Rente wegen Alters, die unmittelbar an eine Rente wegen Erwerbsminderung nach Nummer 1 anschließt oder
+
+4. eine Hinterbliebenenrente, die unmittelbar an eine Rente wegen Erwerbsminderung nach Nummer 1 oder an eine Rente wegen Alters nach Nummer 3 anschließt.
+
+(2) Der Steigerungszahlzuschlag wird ermittelt, indem der sich am 30. Juni 2024 ergebende Rentenbetrag unter Zugrundelegung eines Rentenartfaktors von 1,0 mit dem Faktor nach § 307i Absatz 3 des Sechsten Buches Sozialgesetzbuch vervielfältigt und der sich ergebende Betrag durch den am 30. Juni 2024 geltenden allgemeinen Rentenwert geteilt wird. Eine Steigerungszahl nach § 97 Absatz 11 bleibt bei der Ermittlung des sich am 30. Juni 2024 ergebenden Rentenbetrages nach Satz 1 unberücksichtigt. Der Steigerungszahlzuschlag ist mit dem allgemeinen Rentenwert ohne Berücksichtigung von Zu- und Abschlägen zu vervielfältigen. § 307i Absatz 3 Satz 2 und 3 des Sechsten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
+
+(3) Ein Steigerungszahlzuschlag wird nicht ermittelt
+
+1. bei einer Rente wegen Erwerbsminderung, wenn die Erwerbsminderung nach Vollendung des 65. Lebensjahres und acht Monaten eingetreten ist,
+
+2. bei einer Hinterbliebenenrente, wenn die versicherte Person nach Vollendung des 65. Lebensjahres und acht Monaten verstorben ist.
+
+(4) Der Steigerungszahlzuschlag nach Absatz 2 ist weiterhin zu berücksichtigen, wenn auf eine Rente mit einem solchen Zuschlag
+
+1. eine Rente wegen Alters folgt oder
+
+2. eine Hinterbliebenenrente folgt, bei der keine Zurechnungszeit nach § 19 Absatz 4 oder nach § 92a Absatz 5 eine Zurechnungszeit nur in begrenztem Umfang zu berücksichtigen ist.
+
+Dies gilt nicht, soweit der Steigerungszahlzuschlag auf Zeiten beruht, die nach § 92 Absatz 6 bei der weiteren Rente nach Satz 1 Nummer 1 oder 2 nicht zu berücksichtigen sind.
+
 # § 100 – Begrenzung der Steigerungszahl
 
 (1) Die Steigerungszahl wird, soweit sie auf Zeiten nach § 92 Abs. 1 und sich hieran anschließende Zurechnungszeiten vor dem 1. Januar 1995 beruht, auf den halben Wert des Umrechnungsfaktors (Anlage 2) begrenzt (Grenzsteigerungszahl), der für unverheiratete Landwirte und die Anzahl an vollen Beitragsjahren maßgebend ist, die der Ehegatte des Berechtigten, dessen Beitragsjahre dem Berechtigten nach § 92 Abs. 1 anzurechnen sind, bis zum erstmaligen Rentenbeginn des Berechtigten, längstens bis zum Zeitpunkt der Auflösung oder Nichtigkeitserklärung der Ehe zurückgelegt hat. Hat der Ehegatte des Berechtigten bis zu dem in Satz 1 genannten Zeitpunkt weniger als 15 Beitragsjahre zurückgelegt und vor Rentenbeginn des Berechtigten nicht einen Anspruch auf Rente wegen Erwerbsminderung, wird die Grenzsteigerungszahl ermittelt, indem der halbe Wert des für unverheiratete Landwirte bis 15 Beitragsjahre maßgebenden Umrechnungsfaktors mit dem Verhältnis vervielfältigt wird, in dem die vom Ehegatten des Berechtigten bis zum erstmaligen Rentenbeginn des Berechtigten, längstens bis zum Zeitpunkt der Auflösung oder Nichtigkeitserklärung der Ehe zurückgelegte Anzahl an vollen Beitragsjahren zu 15 Beitragsjahren stehen. Hat der Berechtigte eine Rente wegen Erwerbsminderung bezogen und beginnt nicht unmittelbar nach Ende des Bezugs dieser Rente erneut eine Rente, ist bei Anwendung der Sätze 1 und 2 auf den letztmaligen Rentenbeginn des Berechtigten abzustellen.
@@ -3295,9 +3319,7 @@ Der Rentenartfaktor beträgt bei Witwenrenten und Witwerrenten nach Ablauf des d
 
 Für Witwenrenten und Witwerrenten mit einem Rentenartfaktor vor mindestens 0,6 wird ein Zuschlag nach § 23 Abs. 5 Satz 3 nicht ermittelt; dies gilt auch für eine Rente an frühere Ehegatten.
 
-# § 105 – Verordnungsermächtigung
-
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den nach § 102 Abs. 4 ermittelten allgemeinen Rentenwert (Ost) und den Termin für seine Veränderung zu bestimmen.
+# § 105 – (weggefallen)
 
 # § 105a – (weggefallen)
 
@@ -3404,23 +3426,13 @@ Die landwirtschaftliche Alterskasse ist verpflichtet, Versicherungskonten zu fü
 
 # § 113 – (weggefallen)
 
-# § 114 – Beitragshöhe
-
-Für Landwirte, deren Unternehmen ihren Sitz im Beitrittsgebiet haben, wird der Beitrag bis zum 30. Juni 2024 ermittelt, indem der Beitrag durch den Umrechnungswert nach Anlage 10 des Sechsten Buches Sozialgesetzbuch geteilt wird. Der Beitrag wird auf volle Euro aufgerundet. Er wird vom Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt bekannt gemacht.
-
-(+++ § 114 Satz 3: Zum Beitrag vgl. die jeweilige "Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte"; ab dem Kalenderjahr 2022 vgl. die jeweilige "Bekanntmachung der Beiträge in der Alterssicherung der Landwirte" +++)
+# § 114 – (weggefallen)
 
 # § 115 – Beitragstragung
 
 Personen, die unabhängig von einer Tätigkeit als Landwirt oder mitarbeitender Familienangehöriger beitragspflichtig sind, tragen ihre Beiträge selbst.
 
-# § 116 – Wiederauffüllung geminderter angleichungsdynamischer Anrechte
-
-(1) Im Rahmen des Versorgungsausgleichs können Beiträge gezahlt werden, um Anrechte, die durch einen aufgrund des allgemeinen Rentenwerts (Ost) ermittelten Abschlag von der Steigerungszahl gemindert worden sind, ganz oder teilweise wieder aufzufüllen.
-
-(2) Die Beiträge werden auf der Grundlage des auf dem Versorgungsausgleich beruhenden und unter Berücksichtigung des allgemeinen Rentenwerts (Ost) ermittelten Abschlags von der Steigerungszahl (§ 24 Abs. 2, § 101) berechnet. Für jeden vollen Wert ist das zwölffache des Betrages zu zahlen, der nach § 68 und § 114 als Beitrag für das Jahr, in dem die Beiträge gezahlt werden, maßgebend ist. Für die Wirksamkeit der Beitragszahlung gilt § 187 Abs. 4 und 5 des Sechsten Buches Sozialgesetzbuch entsprechend.
-
-(3) Sind Beiträge nach Absatz 1 gezahlt worden und ergeht eine Entscheidung zur Abänderung des Wertausgleichs nach der Scheidung, sind im Umfang der Abänderung zu viel gezahlte Beiträge unter Anrechnung gewährter Leistungen zurückzuzahlen.
+# § 116 – (weggefallen)
 
 # § 117 – Beitragserstattung
 
@@ -3446,9 +3458,7 @@ Entlastungen nach dem Sozialversicherungs-Beitragsentlastungsgesetz, die für Be
 
 # § 119a – (weggefallen)
 
-# § 120 – Berechnung des Zuschusses zum Beitrag für das Beitrittsgebiet
-
-Der Zuschuss zum Beitrag für das Beitrittsgebiet errechnet sich nach Maßgabe von § 33 Abs. 1 in Verbindung mit § 114. Der Zuschuss zum Beitrag wird auf volle Euro gerundet.
+# § 120 – (weggefallen)
 
 # § 121 – Anspruchsvoraussetzungen
 

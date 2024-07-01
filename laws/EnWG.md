@@ -926,7 +926,7 @@ Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsres
 
 § 50j
 
-Evaluierung der Maßnahmen nach den §§ 50a bis 50h
+(weggefallen)
 
 § 51
 
@@ -5699,13 +5699,7 @@ Im Fall der Reserveanlagen nach § 13g Absatz 1 Satz 1 Nummer 4 richtet sich die
 
 # § 50i – (weggefallen)
 
-# § 50j – Evaluierung der Maßnahmen nach den §§ 50a bis 50h
-
-(1) Die Bundesregierung berichtet dem Bundestag zum 12. Juli 2023, ob es erforderlich und angemessen ist, die Maßnahmen nach den §§ 50a bis 50h insbesondere in Bezug auf ihre Auswirkungen auf die Energiewirtschaft und den Klimaschutz beizubehalten. Die Bundesregierung veröffentlicht den Bericht.
-
-(2) Die Bundesregierung berichtet dem Bundestag zum 12. Juli 2023 über die globalen Auswirkungen von Steinkohleimporten aus Abbauregionen außerhalb Deutschlands aufgrund der Maßnahmen nach den §§ 50a bis 50h auf die Abbauregionen in Bezug auf die lokale Umwelt, die Wasserversorgung, die Menschenrechte und den Stand von Strukturwandelprojekten in den Abbauregionen. Die Bundesregierung veröffentlicht den Bericht.
-
-(3) Nach Ablauf des 31. März 2024 prüft das Bundesministerium für Wirtschaft und Klimaschutz, ob und wie viele zusätzliche Treibhausgasemissionen im Rahmen der Gesetzesanwendung ausgestoßen wurden und macht bis spätestens zum Ablauf des 30. Juni 2024 Vorschläge, mit welchen Maßnahmen diese zusätzlichen Emissionen kompensiert werden können. Eine Kombination mehrerer ergänzender Maßnahmen zur Kompensation ist möglich, wenn die vollständige Kompensation der zusätzlichen Emissionen dadurch sichergestellt wird.
+# § 50j – (weggefallen)
 
 # § 51 – Monitoring der Versorgungssicherheit
 

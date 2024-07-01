@@ -248,7 +248,7 @@ d) auf Schiffen, die von den Anforderungen nach den Buchstaben b und c ausgenomm
 
 11. die Seetagebücher mitgeführt werden und im Schiffstagebuch unverzüglich über alle Vorkommnisse an Bord durch geeignete Eintragungen berichtet wird, die für die Sicherheit in der Seefahrt einschließlich des Umweltschutzes auf See und des Arbeitsschutzes von besonderer Bedeutung sind,
 
-12. das nach § 9 Abs. 3 vorgeschriebene Sicherheitszeugnis, die nach § 9 Absatz 4 Satz 6 ausgestellte Prüfbescheinigung oder die nach § 9 Absatz 5 ausgestellte Bescheinigung mitgeführt und auf Verlangen einer zuständigen Behörde vorgelegt wird und
+12. das nach § 9 Abs. 3 vorgeschriebene Sicherheitszeugnis, die nach Anlage 4 in Verbindung mit § 9 Absatz 3 ausgestellte besondere Bescheinigung für Ro-Ro-Fahrgastschiffe, die nach § 9 Absatz 4 Satz 6 ausgestellte Prüfbescheinigung oder die nach § 9 Absatz 5 ausgestellte Bescheinigung mitgeführt und auf Verlangen einer zuständigen Behörde vorgelegt wird und
 
 13. auf Fahrzeugen, für die Schiffssicherheitszeugnisse für verschiedene Verwendungszwecke ausgestellt worden sind, zu Beginn einer jeden Reise jede Änderung des Nutzungszwecks des Fahrzeugs im Schiffstagebuch eingetragen wird.
 
@@ -316,7 +316,7 @@ k) entgegen § 13 Absatz 2 Nummer 10 nicht dafür sorgt, dass eine dort genannte
 
 l) entgegen § 13 Abs. 2 Nr. 11 nicht dafür sorgt, dass Seetagebücher mitgeführt oder die Vorkommnisse an Bord, die für die Sicherheit in der Seefahrt von Bedeutung sind, eingetragen werden,
 
-m) entgegen § 13 Abs. 2 Nr. 12 nicht dafür sorgt, dass das Schiffssicherheitszeugnis, die Prüfbescheinigung oder die Bescheinigung nach § 9 Absatz 5 mitgeführt und vorgelegt wird oder
+m) entgegen § 13 Abs. 2 Nr. 12 nicht dafür sorgt, dass das Schiffssicherheitszeugnis, die nach Anlage 4 ausgestellte besondere Bescheinigung für Ro-Ro-Fahrgastschiffe die Prüfbescheinigung oder die Bescheinigung nach § 9 Absatz 5 mitgeführt und vorgelegt wird oder
 
 n) entgegen § 13 Abs. 2 Nr. 13 nicht dafür sorgt, dass zu Beginn der Reise im Schiffstagebuch jede Änderung des Nutzungszwecks des Fahrzeugs eingetragen wird.
 
@@ -445,15 +445,7 @@ Das Bundesamt für Seeschifffahrt und Hydrographie stellt die Seegebiete für In
 
 Die im Verkehr nach und von der Insel Helgoland eingesetzten Fahrgastschiffe müssen - vorbehaltlich des Verfahrens nach Artikel 9 der Richtlinie - einen Unterteilungsfaktor F &lt;- 0,5 aufweisen.
 
-A.III. Zur Richtlinie 2003/25/EG des Europäischen Parlaments und des Rates über besondere Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe
-
-Liste der Seegebiete
-
-Das Bundesamt für Seeschifffahrt und Hydrographie erstellt im Sinne des Artikels 5 der Richtlinie eine Liste der Seegebiete, die von Ro-Ro-Fahrgastschiffen im Linienverkehr von oder nach ihren Häfen durchfahren werden, und der entsprechenden Werte für die signifikanten Wellenhöhen in diesen Gebieten.
-
-Es veröffentlicht die Liste auf ihrer Internetseite und macht die Fundstelle in den Nachrichten für Seefahrer und im Verkehrsblatt bekannt.
-
-A.III.a. Zur Richtlinie 98/41/EG des Rates über die Registrierung der an Bord bestimmter Schiffe befindlichen Personen
+A.III. Zur Richtlinie 98/41/EG des Rates über die Registrierung der an Bord bestimmter Schiffe befindlichen Personen
 
 1. Zuständige Stellen
 
@@ -7131,6 +7123,179 @@ a) bei den in Abschnitt A Nr. 1.1 Buchstabe a genannten Funkzeugnissen das Bunde
 b) bei den in Abschnitt A Nr. 1.1 Buchstabe b genannten Funkzeugnissen die Zentrale Verwaltungsstelle im Sinne von Abschnitt B Nr. 1.
 
 3. Der Inhaber hat das Funkbetriebszeugnis bei der nach Nummer 2 zuständigen Stelle abzuliefern.
+
+# Anlage 4 – Umsetzung von Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union
+
+(Fundstelle: BGBl. 2024 I Nr. 217, S. 2 – 4)
+
+Diese Anlage dient der Umsetzung der Richtlinie 2003/25/EG des Europäischen Parlaments und des Rates vom 14. April 2003 über besondere Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe (ABl. L 123 vom 17.5.2003, S. 22) in der jeweils geltenden Fassung.
+
+1. Begriffsbestimmungen  
+  
+
+Im Sinne dieses Abschnitts bezeichnet der Ausdruck
+
+1.1  
+„Ro-Ro-Fahrgastschiff“ ein Schiff, das mehr als zwölf Fahrgäste befördert und das über Ro-Ro-Laderäume oder Sonderräume im Sinne der Regel II-2/3 des SOLAS-Übereinkommens in der jeweils geltenden Fassung verfügt;
+
+1.2  
+„vorhandenes Ro-Ro-Fahrgastschiff“ ein Ro-Ro-Fahrgastschiff, dessen Kiel vor dem 5. Dezember 2024 gelegt wird oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befindet; der Ausdruck „entsprechender Bauzustand“ bezeichnet den Zustand,
+
+1.2.1  
+der den Baubeginn eines bestimmten Schiffs erkennen lässt und
+
+1.2.2  
+in dem die Montage des Schiffs unter Verwendung von mindestens 50 Tonnen oder von 1 Prozent des geschätzten Gesamtbedarfs an Baumaterial begonnen hat, je nachdem, welcher Wert kleiner ist;
+
+1.3  
+„neues Ro-Ro-Fahrgastschiff“ ein Ro-Ro-Fahrgastschiff, das kein vorhandenes Ro-Ro-Fahrgastschiff ist;
+
+1.4  
+„Fahrgast“ jede Person mit Ausnahme des Kapitäns und der Mitglieder der Schiffsbesatzung oder anderer Personen, die in irgendeiner Eigenschaft an Bord eines Schiffes für dessen Belange angestellt oder beschäftigt sind, sowie mit Ausnahme von Kindern unter einem Jahr;
+
+1.5  
+„SOLAS-Übereinkommen“ das Internationale Übereinkommen zum Schutz des menschlichen Lebens auf See von 1974 gemäß Abschnitt A. I. der Anlage zum Schiffsicherheitsgesetz in der jeweils geltenden Fassung;
+
+1.5.1  
+„SOLAS-90-Norm“ das Internationale Übereinkommen zum Schutz des menschlichen Lebens auf See von 1974, zuletzt geändert durch die Entschließung MSC.117(74) (BGBl. 2002 II S. 2938, 2939);
+
+1.5.2  
+„SOLAS-2009-Norm“ das Internationale Übereinkommen zum Schutz des menschlichen Lebens auf See von 1974, zuletzt geändert durch die Entschließung MSC.216(82) (BGBl. 2009 II S. 1226, Anlageband);
+
+1.5.3  
+„SOLAS-2020-Norm“ das Internationale Übereinkommen zum Schutz des menschlichen Lebens auf See von 1974, zuletzt geändert durch die Entschließung MSC.421(98) (BGBl. 2019 II S. 910, 911, 920);
+
+1.6  
+„Linienverkehr“ eine Abfolge von Fahrten von Ro-Ro-Fahrgastschiffen, durch die dieselben zwei oder mehr Häfen miteinander verbunden werden, oder eine Abfolge von Fahrten von und nach ein und demselben Hafen ohne Zwischenstopp, und zwar
+
+1.6.1  
+nach einem veröffentlichten Fahrplan oder
+
+1.6.2  
+so regelmäßig oder häufig, dass eine systematische Abfolge erkennbar ist;
+
+1.7  
+„Übereinkommen von Stockholm“ das am 28. Februar 1996 in Stockholm aufgrund der von SOLAS-95-Konferenz am 29. November 1995 angenommenen Entschließung 14 unter dem Titel „Regionale Übereinkommen zu besonderen Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe“ geschlossene Übereinkommen;
+
+1.8  
+„Berufsgenossenschaft“ ist die Dienststelle Schiffssicherheit bei der Berufsgenossenschaft der Verkehrswirtschaft Post-Logistik Telekommunikation.
+
+1.9  
+„Hafenstaat“ ein Mitgliedstaat, nach oder von dessen Häfen ein Ro-Ro-Fahrgastschiff im Linienverkehr eingesetzt wird;
+
+1.10  
+„Auslandfahrt“ eine Fahrt über See von einem deutschen Hafen zu einem Hafen außerhalb Deutschlands oder umgekehrt;
+
+1.11  
+„besondere Stabilitätsanforderungen“ die in Regel 5 genannten Stabilitätsanforderungen, wenn sie als Sammelbegriff verwendet werden;
+
+1.12  
+„signifikante Wellenhöhe“ oder (H<sub>s</sub>) die durchschnittliche Höhe des obersten Drittels der während eines bestimmten Zeitraums beobachteten Wellenhöhen;
+
+1.13  
+„Restfreibord“ oder (F<sub>r</sub>) den Mindestabstand zwischen dem beschädigten Ro-Ro-Deck und der tatsächlichen Wasserlinie an der beschädigten Stelle ungeachtet der zusätzlichen Wirkung des sich auf dem beschädigten Ro-Ro-Deck stauenden Wassers;
+
+1.14  
+„Unternehmen“ den Eigner eines Ro-Ro-Fahrgastschiffes oder jede sonstige Organisation oder Person, wie z. B. den Geschäftsführer oder einen Bareboat-Charterer, der vom Eigner die Verantwortung für den Betrieb des Fahrgastschiffes übernommen hat.
+
+2. Anwendungsbereich
+
+2.1  
+Diese Anlage gilt für alle Ro-Ro-Fahrgastschiffe, die die Bundesflagge führen und in der Auslandfahrt im Linienverkehr eingesetzt werden.
+
+2.2. Ro-Ro-Fahrgastschiffe, die nicht die Bundesflagge führen, haben die Anforderungen dieser Anlage in vollem Umfang zu erfüllen, bevor sie im Linienverkehr von oder nach deutschen Häfen eingesetzt werden können, wobei die Richtlinie (EU) 2017/2110 einzuhalten ist.
+
+3. Signifikante Wellenhöhe  
+  
+
+Die signifikanten Wellenhöhen (H<sub>s</sub>) werden für die Bestimmung des Wasserstands auf dem Fahrzeugdeck bei Anwendung der besonderen Stabilitätsanforderungen in Anhang I Abschnitt A der Richtlinie 2003/25/EG zugrunde gelegt. Für die signifikanten Wellenhöhen gelten diejenigen Werte, die mit einer Wahrscheinlichkeit von mehr als 10 Prozent im Jahr nicht überschritten werden.
+
+4. Seegebiete
+
+4.1  
+Das Bundesamt für Seeschifffahrt und Hydrographie hat im Sinne der Regel 6.1 Satz 4 eine Liste, der Seegebiete, zu erstellen, die von Ro-Ro-Fahrgastschiffen im Linienverkehr von oder nach deutschen Häfen durchfahren werden, und der entsprechenden Werte für signifikanten Wellenhöhen in diesen Gebieten.
+
+4.2  
+Das Bundesamt für Seeschifffahrt und Hydrographie hat mit den für die Seeschifffahrt zuständigen Behörden der Mitgliedstaaten der Europäischen Union oder, soweit angezeigt und möglich, mit den für die Seeschifffahrt zuständigen Behörden von Drittländern die Seegebiete und die für sie geltenden Werte der signifikanten Wellenhöhe an den beiden Endpunkten der Route zu vereinbaren. Kreuzt die Route des Schiffes mehr als ein Seegebiet, so muss das Schiff die besonderen Stabilitätsanforderungen für den höchsten für diese Gebiete festgelegten Wert der signifikanten Wellenhöhe erfüllen.
+
+4.3  
+Das Bundesamt für Seeschifffahrt und Hydrographie hat die Liste nach Regel 4.1 auf seiner Internetseite zu veröffentlichen und die Fundstelle in den Nachrichten für Seefahrer und im Verkehrsblatt bekanntzumachen. Der Standort dieser Informationen sowie alle Aktualisierungen der Liste und die Gründe solcher Aktualisierungen werden der Kommission durch das Bundesministerium für Digitales und Verkehr mitgeteilt.
+
+5. Besondere Stabilitätsanforderungen
+
+5.1  
+Unbeschadet der Anwendung der Richtlinie 2009/45/EG müssen neue Ro-Ro-Fahrgastschiffe, die für die Beförderung von mehr als 1 350 Personen an Bord zugelassen sind, die besonderen Stabilitätsanforderungen nach Kapitel II-1 Teil B der SOLAS-2020-Norm erfüllen.
+
+5.2  
+Entsprechend der Wahl des Unternehmens müssen neue Ro-Ro-Fahrgastschiffe, die für die Beförderung von bis zu 1 350 Personen an Bord zugelassen sind, folgende Anforderungen erfüllen:
+
+5.2.1  
+die besonderen Stabilitätsanforderungen gemäß Anhang I Abschnitt A der Richtlinie 2003/25/EG oder
+
+5.2.2  
+die besonderen Stabilitätsanforderungen nach Anhang I Abschnitt B der Richtlinie 2003/25/EG.
+
+Für jedes dieser Schiffe hat die Berufsgenossenschaft der Kommission binnen zwei Monaten nach Ausstellung der in Regel 6.1 genannten Bescheinigung mitzuteilen, welche Option nach Regel 5.2.1 oder 5.2.2 gewählt wurde, und hat dieser Mitteilung die in Anhang III der Richtlinie 2003/25/EG genannten Angaben beizufügen.
+
+5.3  
+Bei der Anwendung der Anforderungen nach Anhang I Abschnitt A der Richtlinie 2003/25/EG hat sich die Berufsgenossenschaft der in Anhang II der Richtlinie 2003/25/EG aufgeführten Leitlinien zu bedienen, soweit dies durchführbar und mit der Konstruktion des fraglichen Schiffs vereinbar ist.
+
+5.4  
+Entsprechend der Wahl des Unternehmens müssen vorhandene Ro-Ro-Fahrgastschiffe, die für die Beförderung von mehr als 1 350 Personen an Bord zugelassen sind, die das Unternehmen nach dem 5. Dezember 2024 im Linienverkehr in der Auslandfahrt einsetzt und die nie nach der Richtlinie 2003/25/EG zugelassen wurden, folgende Anforderungen erfüllen:
+
+5.4.1  
+die besonderen Stabilitätsanforderungen nach Kapitel II-1 Teil B der SOLAS-2020-Norm oder
+
+5.4.2  
+die besonderen Stabilitätsanforderungen nach Anhang I Abschnitt A der Richtlinie 2003/25/EG zusätzlich zu den Anforderungen gemäß Kapitel II-1 Teil B der SOLAS-2009-Norm.
+
+Die angewendeten Stabilitätsanforderungen sind in der Schiffsbescheinigung nach Regel 6 anzugeben.
+
+5.5  
+Entsprechend der Wahl des Unternehmens müssen vorhandene Ro-Ro-Fahrgastschiffe, die für die Beförderung von weniger als 1 350 Personen an Bord zugelassen sind, die das Unternehmen nach dem 5. Dezember 2024 im Linienverkehr nach oder von einem Hafen eines Mitgliedstaats einsetzt und die nie gemäß der Richtlinie 2003/25/EG zugelassen wurden, folgende Anforderungen erfüllen:
+
+5.5.1  
+die besonderen Stabilitätsanforderungen nach Anhang I Abschnitt A der Richtlinie 2003/25/EG oder
+
+5.5.2  
+die besonderen Stabilitätsanforderungen nach Anhang I Abschnitt B der Richtlinie 2003/25/EG.
+
+Die angewendeten Stabilitätsanforderungen sind in der Schiffsbescheinigung nach Regel 6 anzugeben.
+
+5.6  
+Vorhandene Ro-Ro-Fahrgastschiffe, die ab dem 5. Dezember 2024 im Linienverkehr nach oder von einem Hafen eines Mitgliedstaats eingesetzt werden, müssen weiterhin die besonderen Stabilitätsanforderungen gemäß Anhang I in der bis zum 5. Dezember 2024 geltenden Fassung der Richtlinie 2003/25/EG erfüllen.
+
+6. Bescheinigungen
+
+6.1  
+Alle neuen und vorhandenen Ro-Ro-Fahrgastschiffe unter deutscher Flagge müssen eine Bescheinigung zum Nachweis der Erfüllung der besonderen Stabilitätsanforderungen nach der Regel 6 mitführen.
+
+Diese Bescheinigung ist von der Berufsgenossenschaft auszustellen und kann mit anderen diesbezüglichen Bescheinigungen kombiniert werden. Für Ro-Ro-Fahrgastschiffe, die die besonderen Stabilitätsanforderungen gemäß Anhang I Abschnitt A der Richtlinie 2003/25/EG erfüllen, ist in der Bescheinigung die signifikante Wellenhöhe anzugeben, bis zu der das Schiff die besonderen Stabilitätsanforderungen erfüllen kann.
+
+Diese Bescheinigung gilt, solange das Ro-Ro-Fahrgastschiff in einem Seegebiet gemäß der Liste aus Regel 4.1 mit dem gleichen oder einem niedrigeren Wert der signifikanten Wellenhöhe eingesetzt wird.
+
+6.2  
+Die zuständige Behörde hat eine von einem anderen Mitgliedstaat aufgrund der Richtlinie 2003/25/EG ausgestellte Bescheinigung anzuerkennen.
+
+6.3  
+Die zuständige Behörde hat die von einem Drittland ausgestellte Bescheinigung anzuerkennen, mit der bescheinigt wird, dass ein Ro-Ro-Fahrgastschiff die besonderen Stabilitätsanforderungen der Richtlinie 2003/25/EG erfüllt.
+
+7. Jahreszeitlicher und anderer kurzzeitiger Betrieb
+
+7.1  
+Wünscht ein Unternehmen, welches das ganze Jahr über einen Linienverkehr betreibt, für eine kürzere Zeit zusätzliche Ro-Ro-Fahrgastschiffe auf dieser Linie einzusetzen, so hat es dies der Berufsgenossenschaft oder den zuständigen Behörden der ausländischen Hafenstaaten, deren Häfen es anläuft, spätestens einen Monat, bevor die besagten Schiffe in diesem Linienverkehr eingesetzt werden, zu melden.
+
+7.2  
+In Fällen, in denen aufgrund unvorhergesehener Umstände rasch ein Ersatz-Ro-Ro-Fahrgastschiff eingesetzt werden muss, um die Kontinuität des Dienstes sicherzustellen, gelten jedoch anstelle der in Regel 7.1 genannten Meldepflicht Artikel 4 Absatz 4 der Richtlinie (EU) 2017/2110 und Anhang XVII Nummer 1.3 der Richtlinie 2009/16/EG.
+
+7.3  
+Wünscht ein Unternehmen einen Linienverkehr jahreszeitlich für eine kürzere Zeit zu betreiben, die sechs Monate pro Jahr nicht überschreitet, so hat es dies der Berufsgenossenschaft oder den zuständigen Behörden der ausländischen Hafenstaaten, deren Häfen es anläuft, spätestens drei Monate vor der Aufnahme des Betriebes zu melden.
+
+7.4  
+Erfolgt der Betrieb nach den Regeln 7.1, 7.2 und 7.3 unter Bedingungen geringerer signifikanter Wellenhöhe als der für den Ganzjahresbetrieb in demselben Seegebiet ermittelten Bedingungen, so kann für Ro-Ro-Fahrgastschiffe, die die besonderen Anforderungen nach Anhang I Abschnitt A der Richtlinie 2003/25/EG erfüllen, der für diese kürzere Zeit anzuwendende Wert der signifikanten Wellenhöhe von der Berufsgenossenschaft eingesetzt werden, um bei der Anwendung der besonderen Stabilitätsanforderungen nach Anhang I Abschnitt A der Richtlinie den Wasserstand auf dem Deck zu bestimmen. Die Berufsgenossenschaft vereinbart mit den zuständigen Behörden der anderen Mitgliedstaaten bzw. Drittländern, in denen die Endpunkte der Route liegen, soweit angezeigt und möglich, den für diese kürzere Zeit anzuwendenden Wert der signifikanten Wellenhöhe.
+
+7.5  
+Nach der Genehmigung des Betriebs im Sinne von 7.1, 7.2 und 7.3 durch die Berufsgenossenschaft oder die zuständigen Behörden der ausländischen Hafenstaaten muss das Ro-Ro-Fahrgastschiff unter der Bundesflagge, das diesem Betrieb nachgeht, eine Bescheinigung zum Nachweis der Erfüllung der Bestimmungen dieser Richtlinie gemäß Regel 6.1 mitführen.
 
 # Anhang – zu Anlage 1
 

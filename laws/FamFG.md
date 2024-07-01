@@ -985,7 +985,7 @@ die Vorschriften der Zivilprozessordnung über die Zwangsvollstreckung entsprech
 
 4. ein Ehegatte seinen gewöhnlichen Aufenthalt im Inland hat, es sei denn, dass die zu fällende Entscheidung offensichtlich nach dem Recht keines der Staaten anerkannt würde, denen einer der Ehegatten angehört.
 
-(2) Für Verfahren auf Aufhebung der Ehe nach Artikel 13 Absatz 3 Nummer 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche sind die deutschen Gerichte auch zuständig, wenn der Ehegatte, der im Zeitpunkt der Eheschließung das 16., aber nicht das 18. Lebensjahr vollendet hatte, seinen Aufenthalt im Inland hat.
+(2) Für Verfahren auf Feststellung der Unwirksamkeit der Ehe nach Artikel 13 Absatz 3 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche sind die deutschen Gerichte auch dann zuständig, wenn die bei Eheschließung noch nicht 16-jährige Person den Antrag stellt und eine der beiden beteiligten Personen ihren gewöhnlichen Aufenthalt im Inland hat. Für Verfahren auf Aufhebung der Ehe nach Artikel 13 Absatz 3 Nummer 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche sind die deutschen Gerichte auch zuständig, wenn der Ehegatte, der im Zeitpunkt der Eheschließung das 16., aber nicht das 18. Lebensjahr vollendet hatte, seinen Aufenthalt im Inland hat.
 
 (3) Die Zuständigkeit der deutschen Gerichte nach Absatz 1 erstreckt sich im Fall des Verbunds von Scheidungs- und Folgesachen auf die Folgesachen.
 
@@ -2359,9 +2359,13 @@ In Versorgungsausgleichssachen gilt § 61 nur für die Anfechtung einer Kostenen
 
 1. die durch Verwandtschaft begründete gesetzliche Unterhaltspflicht,
 
-2. die durch Ehe begründete gesetzliche Unterhaltspflicht,
+2. die durch Ehe begründete gesetzliche Unterhaltspflicht oder
 
-3. die Ansprüche nach § 1615l oder § 1615m des Bürgerlichen Gesetzbuchs
+3. die Ansprüche nach
+
+a) § 1305 Absatz 1 des Bürgerlichen Gesetzbuchs oder
+
+b) § 1615l oder § 1615m des Bürgerlichen Gesetzbuchs
 
 betreffen.
 
@@ -2387,7 +2391,7 @@ betreffen.
 
 # § 233 – Abgabe an das Gericht der Ehesache
 
-Wird eine Ehesache rechtshängig, während eine Unterhaltssache nach § 232 Abs. 1 Nr. 1 bei einem anderen Gericht im ersten Rechtszug anhängig ist, ist diese von Amts wegen an das Gericht der Ehesache abzugeben. § 281 Abs. 2 und 3 Satz 1 der Zivilprozessordnung gilt entsprechend.
+Wird eine Ehesache rechtshängig, während eine Unterhaltssache nach § 231 Absatz 1 Nummer 3 Buchstabe a oder § 232 Absatz 1 Nummer 1 bei einem anderen Gericht im ersten Rechtszug anhängig ist, ist diese von Amts wegen an das Gericht der Ehesache abzugeben. § 281 Abs. 2 und 3 Satz 1 der Zivilprozessordnung gilt entsprechend.
 
 # § 234 – Vertretung eines Kindes durch einen Beistand
 

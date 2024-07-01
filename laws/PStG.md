@@ -77,6 +77,10 @@ Zuständigkeit und Standesamtsvorbehalt
 
 Anmeldung der Eheschließung
 
+§ 12a
+
+Anmeldung der erneuten Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs
+
 § 13
 
 Prüfung der Ehevoraussetzungen
@@ -656,6 +660,10 @@ Dokumente, die einzelne Beurkundungen in den Personenstandsregistern betreffen, 
 4. wenn sie schon verheiratet waren oder eine Lebenspartnerschaft begründet hatten, die letzte Eheschließung oder Begründung der Lebenspartnerschaft sowie die Auflösung dieser Ehe oder Lebenspartnerschaft. Ist die letzte Ehe oder Lebenspartnerschaft nicht bei einem deutschen Standesamt geschlossen worden, so ist auch die Auflösung etwaiger weiterer Vorehen oder Lebenspartnerschaften nachzuweisen, wenn eine entsprechende Prüfung nicht bereits von einem deutschen Standesamt bei einer früheren Eheschließung oder Begründung einer Lebenspartnerschaft durchgeführt worden ist.
 
 (3) Das Standesamt hat einen Antrag auf Befreiung von der Beibringung des Ehefähigkeitszeugnisses aufzunehmen und die Entscheidung vorzubereiten; hierfür haben die Eheschließenden auch die Nachweise zu erbringen, die für die Prüfung der Zulässigkeit der Ehe nach anzuwendendem ausländischen Recht erforderlich sind. § 9 gilt entsprechend.
+
+# § 12a – Anmeldung der erneuten Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs
+
+§ 12 Absatz 1 und 2 gelten für die Anmeldung einer erneuten Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs mit der Maßgabe, dass die im Ausland erfolgte Eheschließung mit einer Person, die zu diesem Zeitpunkt das 16. Lebensjahr nicht vollendet hatte, durch öffentliche Urkunden nachzuweisen ist. § 12 Absatz 3 ist nicht anzuwenden.
 
 # § 13 – Prüfung der Ehevoraussetzungen
 

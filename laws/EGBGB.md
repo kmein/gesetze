@@ -661,6 +661,10 @@ Die Vorschriften über die Hemmung der Verjährung nach den §§ 204 und 204a Ab
 
 Auf ein Schuldverhältnis, das vor dem 15. Dezember 2023 entstanden ist, ist § 310 des Bürgerlichen Gesetzesbuchs in der bis einschließlich 14. Dezember 2023 geltenden Fassung weiter anzuwenden.
 
+# § 68 – Überleitungsvorschrift zum Gesetz zum Schutz Minderjähriger bei Auslandsehen
+
+Auf vor dem 1. Juli 2024 erfolgte Verfügungen eines nicht wirksam Verheirateten über sein Vermögen im Ganzen oder über Haushaltsgegenstände und auf Verpflichtungen zu solchen Verfügungen finden im Fall der Heilung der Ehe nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs die §§ 1365 und 1369 des Bürgerlichen Gesetzbuchs keine Anwendung.
+
 # § 1 – (weggefallen)
 
 \-

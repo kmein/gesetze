@@ -2445,7 +2445,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsver
 
 2. Entgeltpunkten der knappschaftlichen Rentenversicherung,
 
-die mit demselben aktuellen Rentenwert für die Berechnung einer Rente zu vervielfältigen sind. Der Ehegatte mit der jeweils niedrigeren Summe solcher Entgeltpunkte hat Anspruch auf Übertragung der Hälfte des Unterschieds zwischen den gleichartigen Entgeltpunkten der Ehegatten (Einzelsplitting).
+die mit dem aktuellen Rentenwert für die Berechnung einer Rente zu vervielfältigen sind. Der Ehegatte mit der jeweils niedrigeren Summe solcher Entgeltpunkte hat Anspruch auf Übertragung der Hälfte des Unterschieds zwischen den gleichartigen Entgeltpunkten der Ehegatten (Einzelsplitting).
 
 (8) Besteht zwischen den jeweiligen Summen aller Entgeltpunkte der Ehegatten in der Splittingzeit ein Unterschied, ergibt sich für den Ehegatten mit der niedrigeren Summe aller Entgeltpunkte ein Zuwachs an Entgeltpunkten in Höhe der Hälfte des Unterschieds zwischen der Summe aller Entgeltpunkte für den Ehegatten mit der höheren Summe an Entgeltpunkten und der Summe an Entgeltpunkten des anderen Ehegatten (Splittingzuwachs).
 
@@ -2505,13 +2505,7 @@ Lebenspartner können gemeinsam bestimmen, dass die von ihnen in der Lebenspartn
 
 (1) Als erworbene Anrechte gleicher Art im Sinne des § 10 Abs. 2 des Versorgungsausgleichsgesetzes gelten die in der gesetzlichen Rentenversicherung erworbenen Anrechte.
 
-(2) Als Anrechte gleicher Art im Sinne des § 10 Abs. 2 des Versorgungsausgleichsgesetzes gelten nicht
-
-1. die bis zum 30. Juni 2024 im Beitrittsgebiet und im übrigen Bundesgebiet erworbenen Anrechte,
-
-2. die in der allgemeinen Rentenversicherung und in der knappschaftlichen Rentenversicherung erworbenen Anrechte,
-
-3. die in der Rentenversicherung als Zuschläge für langjährige Versicherung gewährten Entgeltpunkte und die übrigen Entgeltpunkte.
+(2) Als Anrechte gleicher Art im Sinne des § 10 Absatz 2 des Versorgungsausgleichsgesetzes gelten nicht die in der allgemeinen Rentenversicherung und in der knappschaftlichen Rentenversicherung erworbenen Anrechte.
 
 # § 120g – Externe Teilung
 
@@ -3785,7 +3779,7 @@ Der Aufschub der Beitragszahlung erstreckt sich in den Fällen des Satzes 1 Nr. 
 
 2. eine Übertragung von Anrechten aus einer Beamtenversorgung auf Grund einer internen Teilung in der Beamtenversorgung
 
-mit der Zahlung der Beiträge an den Träger der Rentenversicherung oder in den Fällen des Absatzes 1 Satz 3 mit dem Eintritt der Voraussetzungen für die Nachversicherung als in der Rentenversicherung übertragen. In den Fällen des Satzes 2 Nr. 2 gelten für die Ermittlung des Abschlags an Entgeltpunkten § 76 Abs. 4 und § 264a Abs. 2 entsprechend; an die Stelle des Monatsbetrags der Rentenanwartschaft tritt der vom Familiengericht für die ausgleichsberechtigte Person durch interne Teilung festgesetzte monatliche Betrag.
+mit der Zahlung der Beiträge an den Träger der Rentenversicherung oder in den Fällen des Absatzes 1 Satz 3 mit dem Eintritt der Voraussetzungen für die Nachversicherung als in der Rentenversicherung übertragen. In den Fällen des Satzes 2 Nr. 2 gilt für die Ermittlung des Abschlags an Entgeltpunkten § 76 Abs. 4 entsprechend; an die Stelle des Monatsbetrags der Rentenanwartschaft tritt der vom Familiengericht für die ausgleichsberechtigte Person durch interne Teilung festgesetzte monatliche Betrag.
 
 (2a) Beiträge, die für frühere Soldaten auf Zeit während des Bezugs von Übergangsgebührnissen gezahlt worden sind, gelten bis zum Ablauf von 18 Monaten nach Wegfall der Übergangsgebührnisse als widerruflich gezahlt. Der Arbeitgeber ist bis dahin zum Widerruf der Zahlung berechtigt, wenn
 
@@ -4391,17 +4385,13 @@ Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der vorangehenden 
 
 # § 228a – Besonderheiten für das Beitrittsgebiet
 
-(1) Soweit Vorschriften dieses Buches bei Arbeitsentgelten, Arbeitseinkommen oder Beitragsbemessungsgrundlagen
+Soweit Vorschriften dieses Buches bei Arbeitsentgelten, Arbeitseinkommen oder Beitragsbemessungsgrundlagen
 
 1. an die Bezugsgröße anknüpfen, ist die Bezugsgröße für das Beitrittsgebiet (Bezugsgröße (Ost)),
 
 2. an die Beitragsbemessungsgrenze anknüpfen, ist die Beitragsbemessungsgrenze für das Beitrittsgebiet (Beitragsbemessungsgrenze (Ost), Anlage 2a)
 
 maßgebend, wenn die Einnahmen aus einer Beschäftigung oder Tätigkeit im Beitrittsgebiet erzielt werden. Satz 1 gilt für die Ermittlung der Beitragsbemessungsgrundlagen bei sonstigen Versicherten entsprechend.
-
-(2)(weggefallen)
-
-(3) Soweit Vorschriften dieses Buches bei Einkommensanrechnung auf Renten wegen Todes an den aktuellen Rentenwert anknüpfen, ist der aktuelle Rentenwert (Ost) maßgebend, wenn der Berechtigte seinen gewöhnlichen Aufenthalt im Beitrittsgebiet hat.
 
 # § 228b – Maßgebende Werte in der Anpassungsphase
 
@@ -7081,55 +7071,13 @@ Monate
 
 Im Beitrittsgebiet vor dem 1. Januar 1992 überwiegend unter Tage ausgeübte Tätigkeiten sind ständige Arbeiten unter Tage.
 
-# § 254b – Rentenformel für den Monatsbetrag der Rente
+# § 254b – (weggefallen)
 
-(1) Bis zum 30. Juni 2024 werden persönliche Entgeltpunkte (Ost) und ein aktueller Rentenwert (Ost) für die Ermittlung des Monatsbetrags der Rente aus Zeiten außerhalb der Bundesrepublik Deutschland ohne das Beitrittsgebiet gebildet, die an die Stelle der persönlichen Entgeltpunkte und des aktuellen Rentenwerts treten.
+# § 254c – (weggefallen)
 
-(2) Liegen der Rente auch persönliche Entgeltpunkte zugrunde, die mit dem aktuellen Rentenwert zu vervielfältigen sind, sind Monatsteilbeträge zu ermitteln, deren Summe den Monatsbetrag der Rente ergibt.
+# § 254d – Umbenennung in Entgeltpunkte
 
-# § 254c – Anpassung der Renten
-
-Renten, denen ein aktueller Rentenwert (Ost) zugrunde liegt, werden angepasst, indem der bisherige aktuelle Rentenwert (Ost) durch den neuen aktuellen Rentenwert (Ost) ersetzt wird. Rentenbezieher erhalten eine Anpassungsmitteilung, wenn sich die Höhe des aktuellen Rentenwerts (Ost) verändert.
-
-# § 254d – Entgeltpunkte (Ost)
-
-(1) An die Stelle der ermittelten Entgeltpunkte treten Entgeltpunkte (Ost) für
-
-1. Zeiten mit Beiträgen für eine Beschäftigung oder selbständige Tätigkeit,
-
-2. Pflichtbeitragszeiten aufgrund der gesetzlichen Pflicht zur Leistung von Wehrdienst oder Zivildienst oder aufgrund eines Wehrdienstverhältnisses besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes oder aufgrund des Bezugs von Sozialleistungen, mit Ausnahme des Bezugs von Arbeitslosengeld II,
-
-3. Zeiten der Erziehung eines Kindes,
-
-4. Zeiten mit freiwilligen Beiträgen vor dem 1. Januar 1992 oder danach bis zum 31. März 1999 zur Aufrechterhaltung des Anspruchs auf Rente wegen verminderter Erwerbsfähigkeit (§ 279b) bei gewöhnlichem Aufenthalt,
-
-4a. Zeiten der nicht erwerbsmäßigen Pflege,
-
-4b. zusätzliche Entgeltpunkte für Arbeitsentgelt aus nach § 23b Abs. 2 Satz 1 bis 4 des Vierten Buches aufgelösten Wertguthaben auf Grund einer Arbeitsleistung
-
-im Beitrittsgebiet und
-
-5. Zeiten mit Beiträgen für eine Beschäftigung oder selbständige Tätigkeit,
-
-6. Zeiten der Erziehung eines Kindes,
-
-7. Zeiten mit freiwilligen Beiträgen bei gewöhnlichem Aufenthalt
-
-im jeweiligen Geltungsbereich der Reichsversicherungsgesetze außerhalb der Bundesrepublik Deutschland (Reichsgebiets-Beitragszeiten).
-
-(2) Absatz 1 findet keine Anwendung auf Zeiten vor dem 19. Mai 1990
-
-1. von Versicherten, die ihren gewöhnlichen Aufenthalt am 18. Mai 1990 oder, falls sie verstorben sind, zuletzt vor dem 19. Mai 1990
-
-a) im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet hatten oder
-
-b) im Ausland hatten und unmittelbar vor Beginn des Auslandsaufenthalts ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet hatten,
-
-2. mit Beiträgen aufgrund einer Beschäftigung bei einem Unternehmen im Beitrittsgebiet, für das Arbeitsentgelte in Deutsche Mark gezahlt worden sind.
-
-Satz 1 gilt nicht für Zeiten, die von der Wirkung einer Beitragserstattung nach § 286d Abs. 2 nicht erfasst werden.
-
-(3) Für Zeiten mit Beiträgen für eine Beschäftigung oder selbständige Tätigkeit und für Zeiten der Erziehung eines Kindes vor dem 1. Februar 1949 in Berlin gelten ermittelte Entgeltpunkte nicht als Entgeltpunkte (Ost).
+Zum 1. Juli 2024 treten Entgeltpunkte an die Stelle von Entgeltpunkten (Ost).
 
 # § 255 – Rentenartfaktor
 
@@ -7137,32 +7085,9 @@ Satz 1 gilt nicht für Zeiten, die von der Wirkung einer Beitragserstattung nach
 
 (2) Witwenrenten und Witwerrenten aus der Rentenanwartschaft eines vor dem 1. Juli 1977 geschiedenen Ehegatten werden von Beginn an mit dem Rentenartfaktor ermittelt, der für Witwenrenten und Witwerrenten nach dem Ende des dritten Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben ist, maßgebend ist.
 
-# § 255a – Bestimmung des aktuellen Rentenwerts (Ost) für die Zeit vom 1. Juli 2018 bis zum 1. Juli 2023
+# § 255a – (weggefallen)
 
-(1) Der aktuelle Rentenwert (Ost) beträgt zum  
-  
-1. Juli 2018 95,8 Prozent des aktuellen Rentenwerts,  
-1. Juli 2019 96,5 Prozent des aktuellen Rentenwerts,  
-1. Juli 2020 97,2 Prozent des aktuellen Rentenwerts,  
-1. Juli 2021 97,9 Prozent des aktuellen Rentenwerts,  
-1. Juli 2022 98,6 Prozent des aktuellen Rentenwerts,  
-1. Juli 2023 99,3 Prozent des aktuellen Rentenwerts.
-
-(2) Für die Zeit vom 1. Juli 2018 bis zum 1. Juli 2023 ist ein Vergleichswert zu dem nach Absatz 1 berechneten aktuellen Rentenwert (Ost) zu ermitteln. Der Vergleichswert wird zum 1. Juli eines jeden Jahres ausgehend von seinem Vorjahreswert nach dem für die Veränderung des aktuellen Rentenwerts geltenden Verfahren nach den §§ 68 und 255d ermittelt. Für die Ermittlung des Vergleichswerts zum 1. Juli 2018 gilt der am 30. Juni 2018 geltende aktuelle Rentenwert (Ost) als Vorjahreswert. Abweichend von § 68 sind für die Ermittlung des Vergleichswerts jeweils die für das Beitrittsgebiet ermittelten Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2 Satz 1) maßgebend. Ferner ist § 68 Absatz 2 Satz 3 mit der Maßgabe anzuwenden, dass die für das Beitrittsgebiet ermittelten beitragspflichtigen Bruttolöhne und -gehälter je Arbeitnehmer ohne Beamte einschließlich der Bezieher von Arbeitslosengeld zugrunde zu legen sind. Übersteigt der Vergleichswert den nach Absatz 1 berechneten aktuellen Rentenwert (Ost), ist der Vergleichswert als aktueller Rentenwert (Ost) zum 1. Juli festzusetzen. Der festzusetzende aktuelle Rentenwert (Ost) ist mindestens um den Prozentsatz anzupassen, um den der aktuelle Rentenwert angepasst wird und darf den zum 1. Juli festzusetzenden aktuellen Rentenwert nicht übersteigen.
-
-(3) Für die Ermittlung des Vergleichswerts zum 1. Juli 2022 gilt der Wert 33,41 Euro als Vorjahreswert.
-
-# § 255b – Verordnungsermächtigung
-
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den zum 1. Juli eines Jahres maßgebenden aktuellen Rentenwert (Ost) bis zum 30. Juni des jeweiligen Jahres zu bestimmen.
-
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Ende eines jeden Kalenderjahres
-
-1. für das vergangene Kalenderjahr den Wert der Anlage 10
-
-2. für das folgende Kalenderjahr den vorläufigen Wert der Anlage 10
-
-als das Vielfache des Durchschnittsentgelts der Anlage 1 zum Durchschnittsentgelt im Beitrittsgebiet zu bestimmen. Die Werte nach Satz 1 sind letztmals für das Jahr 2018 zu bestimmen.
+# § 255b – (weggefallen)
 
 # § 255c – Anwendung des aktuellen Rentenwerts zum 1. Juli 2024
 
@@ -7385,7 +7310,7 @@ Entgeltpunkte werden nicht ermittelt für
 
 (1) Sind mindestens 35 Jahre mit rentenrechtlichen Zeiten vorhanden und ergibt sich aus den Kalendermonaten mit vollwertigen Pflichtbeiträgen ein Durchschnittswert von weniger als 0,0625 Entgeltpunkten, wird die Summe der Entgeltpunkte für Beitragszeiten erhöht. Die zusätzlichen Entgeltpunkte sind so zu bemessen, dass sich für die Kalendermonate mit vollwertigen Pflichtbeiträgen vor dem 1. Januar 1992 ein Durchschnittswert in Höhe des 1,5fachen des tatsächlichen Durchschnittswerts, höchstens aber in Höhe von 0,0625 Entgeltpunkten ergibt.
 
-(2) Die zusätzlichen Entgeltpunkte werden den Kalendermonaten mit vollwertigen Pflichtbeiträgen vor dem 1. Januar 1992 zu gleichen Teilen zugeordnet; dabei werden Kalendermonaten mit Entgeltpunkten (Ost) zusätzliche Entgeltpunkte (Ost) zugeordnet.
+(2) Die zusätzlichen Entgeltpunkte werden den Kalendermonaten mit vollwertigen Pflichtbeiträgen vor dem 1. Januar 1992 zu gleichen Teilen zugeordnet.
 
 (3) Bei Anwendung der Absätze 1 und 2 gelten Pflichtbeiträge für Zeiten, in denen eine Rente aus eigener Versicherung bezogen worden ist, nicht als vollwertige Pflichtbeiträge.
 
@@ -7817,21 +7742,13 @@ Januar
 
 (7) Für glaubhaft gemachte Zeiten beruflicher Ausbildung sind höchstens fünf Sechstel der im Rahmen der Gesamtleistungsbewertung ermittelten Entgeltpunkte zu berücksichtigen. Dies gilt auch für die in den Absätzen 5 und 6 genannten Zeiten.
 
-# § 263a – Gesamtleistungsbewertung für beitragsfreie und beitragsgeminderte Zeiten mit Entgeltpunkten (Ost)
-
-Nach der Gesamtleistungsbewertung ermittelte Entgeltpunkte für beitragsfreie Zeiten und der Zuschlag an Entgeltpunkten für beitragsgeminderte Zeiten werden in dem Verhältnis als Entgeltpunkte (Ost) berücksichtigt, in dem die für die Ermittlung des Gesamtleistungswerts zugrunde gelegten Entgeltpunkte (Ost) zu allen zugrunde gelegten Entgeltpunkten stehen. Dabei ist für Entgeltpunkte für Berücksichtigungszeiten § 254d entsprechend anzuwenden.
+# § 263a – (weggefallen)
 
 # § 264 – Zuschläge oder Abschläge beim Versorgungsausgleich
 
 Sind für Rentenanwartschaften Werteinheiten ermittelt worden, ergeben je 100 Werteinheiten einen Entgeltpunkt. Werteinheiten der knappschaftlichen Rentenversicherung sind zuvor mit der allgemeinen Bemessungsgrundlage der knappschaftlichen Rentenversicherung für das Jahr 1991 zu vervielfältigen und durch die allgemeine Bemessungsgrundlage der Rentenversicherung der Arbeiter und der Angestellten für dasselbe Jahr zu teilen.
 
-# § 264a – Zuschläge oder Abschläge beim Versorgungsausgleich im Beitrittsgebiet
-
-(1) Ein zugunsten oder zulasten von Versicherten durchgeführter Versorgungsausgleich wird durch einen Zuschlag oder Abschlag an Entgeltpunkten (Ost) berücksichtigt, soweit Entgeltpunkte (Ost) übertragen wurden oder das Familiengericht die Umrechnung des Monatsbetrags der begründeten Rentenanwartschaften in Entgeltpunkte (Ost) nach § 16 Abs. 3 des Versorgungsausgleichsgesetzes angeordnet hat.
-
-(2) Die Entgeltpunkte (Ost) werden in der Weise ermittelt, dass der Monatsbetrag der Rentenanwartschaften durch den aktuellen Rentenwert (Ost) mit seinem Wert bei Ende der Ehezeit oder Lebenspartnerschaftszeit geteilt wird.
-
-(3) Die Entgeltpunkte (Ost) treten bei der Anwendung der Vorschriften über den Versorgungsausgleich an die Stelle von Entgeltpunkten.
+# § 264a – (weggefallen)
 
 # § 264b – Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
 
@@ -7839,9 +7756,7 @@ Für Arbeitsentgelt aus geringfügiger Beschäftigung, in der Beschäftigte nach
 
 # § 264c – Zuschlag bei Hinterbliebenenrenten
 
-(1) Der Zuschlag bei Witwenrenten und Witwerrenten besteht aus persönlichen Entgeltpunkten (Ost), wenn den Zeiten der Kindererziehung ausschließlich Entgeltpunkte (Ost) zugrunde liegen. Der Zuschlag bei Waisenrenten besteht aus persönlichen Entgeltpunkten (Ost), wenn der Rente des verstorbenen Versicherten ausschließlich Entgeltpunkte (Ost) zugrunde liegen.
-
-(2) Die Witwenrente oder Witwerrente erhöht sich nicht um einen Zuschlag an persönlichen Entgeltpunkten, wenn der Ehegatte vor dem 1. Januar 2002 verstorben ist oder die Ehe vor diesem Zeitpunkt geschlossen wurde und mindestens ein Ehegatte vor dem 2. Januar 1962 geboren ist.
+Die Witwenrente oder Witwerrente erhöht sich nicht um einen Zuschlag an persönlichen Entgeltpunkten, wenn der Ehegatte vor dem 1. Januar 2002 verstorben ist oder die Ehe vor diesem Zeitpunkt geschlossen wurde und mindestens ein Ehegatte vor dem 2. Januar 1962 geboren ist.
 
 # § 264d – Zugangsfaktor
 
@@ -8257,9 +8172,7 @@ Juni – Dezember
   
 § 86a ist mit der Maßgabe anzuwenden, dass an die Stelle von 40 Jahren 35 Jahre treten.
 
-# § 265a – Knappschaftliche Besonderheiten bei rentenrechtlichen Zeiten im Beitrittsgebiet
-
-Entgeltpunkte aus dem Leistungszuschlag werden in dem Verhältnis als Entgeltpunkte (Ost) berücksichtigt, in dem die Kalendermonate mit ständigen Arbeiten unter Tage, die gleichzeitig Beitragszeiten mit Entgeltpunkten (Ost) sind, zu allen Kalendermonaten mit ständigen Arbeiten unter Tage stehen.
+# § 265a – (weggefallen)
 
 # § 265b
 
@@ -8344,9 +8257,17 @@ gezahlt worden sind. Kindererziehungszeiten sind Bundesgebiets-Beitragszeiten, w
 
 4. dem Zuschlag an persönlichen Entgeltpunkten bei Waisenrenten aus Beitragszeiten nach dem Fremdrentengesetz in dem sich nach Nummer 3 ergebenden Verhältnis.
 
-(2) Entgeltpunkte für Beitragszeiten nach dem Fremdrentengesetz, die nach Absatz 1 aufgrund von Entgeltpunkten (Ost) zusätzlich zu berücksichtigen sind, gelten als Entgeltpunkte (Ost).
+(2) (weggefallen)
 
-(3) Zu den Entgeltpunkten von Berechtigten im Sinne von Absatz 1, die auf die Höhe der Entgeltpunkte für Bundesgebiets-Beitragszeiten begrenzt zu berücksichtigen sind, gehören auch Reichsgebiets-Beitragszeiten. Bei der Ermittlung von Entgeltpunkten aus einem Leistungszuschlag, aus einem Abschlag aus einem durchgeführten Versorgungsausgleich oder Rentensplitting und für den Zuschlag bei einer Waisenrente sind Reichsgebiets-Beitragszeiten wie Beitragszeiten nach dem Fremdrentengesetz zu berücksichtigen.
+(3) Zu den Entgeltpunkten von Berechtigten im Sinne von Absatz 1, die auf die Höhe der Entgeltpunkte für Bundesgebiets-Beitragszeiten begrenzt zu berücksichtigen sind, gehören auch Entgeltpunkte für Reichsgebiets-Beitragszeiten. Reichsgebiets-Beitragszeiten sind
+
+1. Zeiten mit Beiträgen für eine Beschäftigung oder selbständige Tätigkeit,
+
+2. Zeiten der Erziehung eines Kindes,
+
+3. Zeiten mit freiwilligen Beiträgen bei gewöhnlichem Aufenthalt
+
+im jeweiligen Geltungsbereich der Reichsversicherungsgesetze außerhalb der Bundesrepublik Deutschland. Bei der Ermittlung von Entgeltpunkten aus einem Leistungszuschlag, aus einem Abschlag aus einem durchgeführten Versorgungsausgleich oder Rentensplitting und für den Zuschlag bei einer Waisenrente sind Reichsgebiets-Beitragszeiten wie Beitragszeiten nach dem Fremdrentengesetz zu berücksichtigen.
 
 # § 272a – Fälligkeit und Auszahlung laufender Geldleistungen bei Beginn vor dem 1. April 2004
 
@@ -8580,19 +8501,7 @@ Beiträge für Zeiten vor 1998 sind zur Höherversicherung gezahlt, wenn sie als
 
 (2) Soweit nach dem vor dem 1. Januar 1992 geltenden Recht Beiträge im Rahmen der Nachversicherung nachzuentrichten waren und noch nicht nachentrichtet sind, gelten sie erst mit der Zahlung im Sinne des § 181 Abs. 1 Satz 2 als rechtzeitig entrichtete Pflichtbeiträge.
 
-# § 281a – Zahlung von Beiträgen im Rahmen des Versorgungsausgleichs im Beitrittsgebiet
-
-(1) Im Rahmen des Versorgungsausgleichs können Beiträge gezahlt werden, um
-
-1. Rentenanwartschaften, die durch einen Abschlag an Entgeltpunkten (Ost) gemindert worden sind, ganz oder teilweise wieder aufzufüllen,
-
-2. die Erstattungspflicht für die Begründung von Rentenanwartschaften in Entgeltpunkten (Ost) zugunsten des Ausgleichsberechtigten abzulösen (§ 225 Abs. 2, § 264a).
-
-(2) Für die Zahlung von Beiträgen werden die Rentenanwartschaften in Entgeltpunkte (Ost) umgerechnet, soweit das Familiengericht dies angeordnet hat (§ 264a Abs. 1). Die Entgeltpunkte (Ost) werden in der Weise ermittelt, dass der Monatsbetrag der Rentenanwartschaften durch den aktuellen Rentenwert (Ost) mit seinem Wert bei Ende der Ehezeit oder Lebenspartnerschaftszeit geteilt wird.
-
-(3) Für je einen Entgeltpunkt (Ost) ist der Betrag zu zahlen, der sich ergibt, wenn der im Zeitpunkt der Beitragszahlung geltende Beitragssatz auf das für das Kalenderjahr der Beitragszahlung zugrunde zu legende Durchschnittsentgelt im Beitrittsgebiet angewendet wird. Als Durchschnittsentgelt im Beitrittsgebiet ist das durch den Wert der Anlage 10 geteilte vorläufige Durchschnittsentgelt im übrigen Bundesgebiet zugrunde zu legen. Der Zahlbetrag wird nach den Rechengrößen zur Durchführung des Versorgungsausgleichs ermittelt, die das Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt bekannt macht. Die Rechengrößen enthalten Faktoren zur Umrechnung von Entgeltpunkten (Ost) in Beiträge und umgekehrt; dabei können Rundungsvorschriften der Berechnungsgrundsätze unberücksichtigt bleiben, um genauere Ergebnisse zu erzielen.
-
-(4) § 187 Abs. 4, 5 und 7 gilt auch für die Zahlung von Beiträgen im Rahmen des Versorgungsausgleichs im Beitrittsgebiet.
+# § 281a – (weggefallen)
 
 # § 281b – Verordnungsermächtigung
 
@@ -8945,13 +8854,7 @@ Hatte eine Mutter am 18. Mai 1990 ihren gewöhnlichen Aufenthalt im Beitrittsgeb
 
 Monatliche Höhe der Leistung für Kindererziehung ist das 2,5-Fache des für die Berechnung von Renten jeweils maßgebenden aktuellen Rentenwerts.
 
-# § 295a – Höhe der Leistung im Beitrittsgebiet
-
-Monatliche Höhe der Leistung für Kindererziehung für Geburten im Beitrittsgebiet ist das 2,5-Fache des für die Berechnung von Renten jeweils maßgebenden aktuellen Rentenwerts (Ost). Dies gilt nicht für Mütter, die ihren gewöhnlichen Aufenthalt am 18. Mai 1990 entweder
-
-1. im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet oder
-
-2. im Ausland hatten und unmittelbar vor Beginn des Auslandsaufenthalts ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet hatten.
+# § 295a – (weggefallen)
 
 # § 296 – Beginn und Ende
 
@@ -9249,7 +9152,7 @@ Die Voraussetzungen des Satzes 3 Nummer 1 gelten als erfüllt, wenn
 
 Der Zuschlag beträgt für jedes Kind 0,5 persönliche Entgeltpunkte.
 
-(2) Sind für Kindererziehungszeiten ausschließlich Entgeltpunkte (Ost) zugeordnet worden, sind für den Zuschlag persönliche Entgeltpunkte (Ost) zu ermitteln. Ist die Kindererziehungszeit oder Berücksichtigungszeit wegen Kindererziehung nach Absatz 1 Satz 1 Nummer 1, Satz 3 Nummer 1 oder nach Absatz 1a Satz 1 Nummer 1 in der knappschaftlichen Rentenversicherung berücksichtigt worden, wird der Zuschlag an persönlichen Entgeltpunkten und persönlichen Entgeltpunkten (Ost) mit 0,75 vervielfältigt.
+(2) Ist die Kindererziehungszeit oder Berücksichtigungszeit wegen Kindererziehung nach Absatz 1 Satz 1 Nummer 1, Satz 3 Nummer 1 oder nach Absatz 1a Satz 1 Nummer 1 in der knappschaftlichen Rentenversicherung berücksichtigt worden, wird der Zuschlag an persönlichen Entgeltpunkten mit 0,75 vervielfältigt.
 
 (3) Folgt auf eine Rente mit einem Zuschlag nach Absatz 1 oder nach Absatz 1a eine Rente, die die Voraussetzungen nach § 88 Absatz 1 oder 2 erfüllt, ist der Zuschlag an persönlichen Entgeltpunkten nach den Absätzen 1 bis 2 weiter zu berücksichtigen.
 
@@ -9261,7 +9164,7 @@ Der Zuschlag beträgt für jedes Kind 0,5 persönliche Entgeltpunkte.
 
 2. für dasselbe Kind keine Kindererziehungszeiten oder Zuschläge nach Absatz 1 oder nach Absatz 1a für andere Versicherte oder Hinterbliebene für den maßgeblichen Zeitraum zu berücksichtigen sind.
 
-Sind die Kalendermonate der Erziehung der knappschaftlichen Rentenversicherung zuzuordnen, beträgt der Zuschlag für jeden Kalendermonat 0,0625 persönliche Entgeltpunkte oder persönliche Entgeltpunkte (Ost). Absatz 3 gilt entsprechend. Sind für das Kind keine Berücksichtigungszeiten wegen Kindererziehung anerkannt worden, wird der Zuschlag bei dem Elternteil berücksichtigt, der das Kind überwiegend erzogen hat. Liegt eine überwiegende Erziehung durch einen Elternteil nicht vor, erfolgt die Zuordnung zur Mutter.
+Sind die Kalendermonate der Erziehung der knappschaftlichen Rentenversicherung zuzuordnen, beträgt der Zuschlag für jeden Kalendermonat 0,0625 persönliche Entgeltpunkte. Absatz 3 gilt entsprechend. Sind für das Kind keine Berücksichtigungszeiten wegen Kindererziehung anerkannt worden, wird der Zuschlag bei dem Elternteil berücksichtigt, der das Kind überwiegend erzogen hat. Liegt eine überwiegende Erziehung durch einen Elternteil nicht vor, erfolgt die Zuordnung zur Mutter.
 
 # § 307e – Zuschlag an Entgeltpunkten für langjährige Versicherung bei Rentenbeginn in den Jahren 1992 bis 2020
 
@@ -9316,6 +9219,62 @@ Ein Anspruch auf Prüfung des Zuschlags an Entgeltpunkten für langjährige Vers
 # § 307h – Evaluierung
 
 Bis zum 31. Dezember 2025 wird durch die Bundesregierung evaluiert, ob die mit der Einführung der Grundrente formulierten Ziele erreicht wurden.
+
+# § 307i – Zuschlag an persönlichen Entgeltpunkten bei Renten wegen Erwerbsminderung und bei Renten wegen Todes
+
+(1) Ein Zuschlag an persönlichen Entgeltpunkten wird ab dem 1. Dezember 2025 berücksichtigt, wenn am 30. November 2025 ein Anspruch bestand auf
+
+1. eine Rente wegen Erwerbsminderung oder eine Erziehungsrente, die jeweils nach dem 31. Dezember 2000 und vor dem 1. Januar 2019 begonnen hat,
+
+2. eine Hinterbliebenenrente, die nach dem 31. Dezember 2000 und vor dem 1. Januar 2019 begonnen hat und der kein Rentenbezug der verstorbenen versicherten Person unmittelbar vorausging,
+
+3. eine Rente wegen Alters, die unmittelbar an eine Rente wegen Erwerbsminderung oder an eine Erziehungsrente nach Nummer 1 anschließt oder
+
+4. eine Hinterbliebenenrente, die unmittelbar an eine Rente wegen Erwerbsminderung nach Nummer 1 oder an eine Rente wegen Alters nach Nummer 3 anschließt.
+
+(2) Der Zuschlag wird ermittelt, indem die persönlichen Entgeltpunkte, die der Rente nach Absatz 1 am 30. November 2025 zugrunde liegen, mit dem Faktor nach Absatz 3 vervielfältigt werden.
+
+(3) Der Faktor zur Berechnung des Zuschlags beträgt
+
+1. 0,0750, wenn die Rente wegen Erwerbsminderung, die Erziehungsrente oder die Hinterbliebenenrente nach dem 31. Dezember 2000 und vor dem 1. Juli 2014 begonnen hat, oder
+
+2. 0,0450, wenn die Rente wegen Erwerbsminderung, die Erziehungsrente oder die Hinterbliebenenrente nach dem 30. Juni 2014 und vor dem 1. Januar 2019 begonnen hat.
+
+Der Faktor nach Satz 1 bestimmt sich in den Fällen des Absatzes 1 Nummer 3 nach dem Beginn der Rente wegen Erwerbsminderung oder nach dem Beginn der Erziehungsrente. In den Fällen des Absatzes 1 Nummer 4 bestimmt sich der Faktor nach dem Beginn der Hinterbliebenenrente, wenn diese vor dem 1. Januar 2019 begonnen hat, andernfalls nach dem Beginn der Rente wegen Erwerbsminderung.
+
+(4) Ein Zuschlag nach Absatz 1 Nummer 2 wird zu einer Hinterbliebenenrente nicht ermittelt, wenn die versicherte Person nach Vollendung des 65. Lebensjahres und acht Monaten verstorben ist.
+
+(5) Der Zuschlag ist weiterhin zu berücksichtigen, wenn auf eine Rente mit einem solchen Zuschlag
+
+1. eine Rente wegen Alters folgt oder
+
+2. eine Hinterbliebenenrente folgt, bei der keine Zurechnungszeit oder nach § 253a Absatz 5 nur eine Zurechnungszeit in begrenztem Umfang zu berücksichtigen ist.
+
+# § 307j – Rentenzuschlag bei Renten wegen Erwerbsminderung und Renten wegen Todes für die Zeit von Juli 2024 bis November 2025
+
+(1) Ein Rentenzuschlag wird als monatliche Rentenleistung vom 1. Juli 2024 bis zum 30. November 2025 gezahlt, wenn am 30. Juni 2024 ein Anspruch bestand auf
+
+1. eine Rente wegen Erwerbsminderung oder eine Erziehungsrente, die jeweils nach dem 31. Dezember 2000 und vor dem 1. Januar 2019 begonnen hat,
+
+2. eine Hinterbliebenenrente, die nach dem 31. Dezember 2000 und vor dem 1. Januar 2019 begonnen hat und der kein Rentenbezug der verstorbenen versicherten Person unmittelbar vorausging,
+
+3. eine Rente wegen Alters, die unmittelbar an eine Rente wegen Erwerbsminderung oder an eine Erziehungsrente nach Nummer 1 anschließt, oder
+
+4. eine Hinterbliebenenrente, die unmittelbar an eine Rente wegen Erwerbsminderung nach Nummer 1 oder an eine Rente wegen Alters nach Nummer 3 anschließt.
+
+Wird auf eine Rente nach Satz 1 eine Verletztenrente aus der Unfallversicherung nach § 93 angerechnet und besteht deshalb nur ein Anspruch auf teilweise Auszahlung der Rente, wird kein Rentenzuschlag gezahlt.
+
+(2) Die Höhe des Rentenzuschlags wird ermittelt, indem der Zahlbetrag der Rente zuzüglich eines geleisteten Zuschusses nach § 106 nach Anpassung der Rente am 1. Juli 2024 mit dem Faktor nach § 307i Absatz 3 vervielfältigt wird. Wird auf eine Rente wegen Todes Einkommen nach § 97 angerechnet und besteht ein Anspruch auf teilweise Auszahlung der Rente, tritt an die Stelle des Zahlbetrags der Rente die Rente vor Anwendung von § 97 zuzüglich eines geleisteten Zuschusses nach § 106. Besteht eine Versicherungspflicht in der gesetzlichen Krankenversicherung und in der sozialen Pflegeversicherung, ist der nach Satz 2 errechnete Betrag mit dem Faktor 0,8845 zu vervielfältigen. Der Rentenzuschlag verändert sich zum 1. Juli 2025 in dem Verhältnis, wie sich der aktuelle Rentenwert ändert. Änderungen des Zahlbetrags nach Satz 1 oder der Rente vor Anwendung von § 97 nach Satz 2 und 3 nach dem 1. Juli 2024 bleiben bei der Höhe des Rentenzuschlags unberücksichtigt.
+
+(3) § 307i Absatz 4 und 5 gelten entsprechend.
+
+(4) Bei dem Rentenzuschlag handelt es sich um eine monatliche Rentenleistung, die abweichend von §§ 118, 272a zwischen dem 10. und dem 20. eines Monats gezahlt wird. Die Vorschriften dieses Buches zum Zusammentreffen von Renten und Einkommen sind auf den Rentenzuschlag nicht anzuwenden.
+
+(5) Ist der monatliche Zahlbetrag der Rente zusammen mit dem Rentenzuschlag für den Monat November 2025 geringer als der Zahlbetrag der Rente unter Berücksichtigung des Zuschlags an persönlichen Entgeltpunkten nach § 307i für den Monat Dezember 2025, so hat der Rentenversicherungsträger den ermittelten Unterschiedsbetrag mit 17 zu multiplizieren und in einer Summe nachzuzahlen.
+
+(6) Der Rentenzuschlag wird kostenfrei an die Empfänger ausgezahlt.
+
+(7) Der Rentenzuschlag wird für die Rentenversicherungsträger durch die Deutsche Post AG berechnet und ausgezahlt; § 119 und die auf der Grundlage des § 120 erlassene Rechtsverordnung sind anzuwenden. Die Berechtigten erhalten von der Deutschen Post AG eine Mitteilung über den ihnen zustehenden Rentenzuschlag im Auftrag des für sie zuständigen Rentenversicherungsträgers.
 
 # § 308 – Umstellungsrenten
 

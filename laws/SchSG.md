@@ -4294,11 +4294,7 @@ Für eine Übergangszeit bis zum 19.12.2023 können Angaben nach Artikel 4 Absat
 
 18. Artikel 5 Absatz 1 und 2 sowie Artikel 7 in Verbindung mit Artikel 1 und 2 sowie dem Anhang der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten und zur Aufhebung der Richtlinie 2002/6/EG (ABl. L 283 vom 29.10.2010, S. 1), zuletzt geändert durch Artikel 21 der Richtlinie (EU) 2019/883 (ABl. L 151 vom 7.6.2019, S. 116)
 
-19. (weggefallen)
-
-20. Artikel 4 bis 10 der Richtlinie 2003/25/EG des Europäischen Parlaments und des Rates vom 14. April 2003 über besondere Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe (ABl. L 123 vom 17.5.2003, S. 22), zuletzt geändert durch Artikel 1 und 2 in Verbindung mit Nummer 9.10 des Anhangs der Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1)
-
-21. Artikel 5, 6 Absatz 1 bis 6 sowie 8 und 9 Buchstabe b, Artikel 7 Absatz 1 und 2, Artikel 8 Absatz 2 und 4 der Richtlinie (EU) 2016/802 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über eine Verringerung des Schwefelgehalts bestimmter flüssiger Kraft- oder Brennstoffe (ABl. L 132 vom 21.5.2016, S. 58)
+19. Artikel 5, 6 Absatz 1 bis 6 sowie 8 und 9 Buchstabe b, Artikel 7 Absatz 1 und 2, Artikel 8 Absatz 2 und 4 der Richtlinie (EU) 2016/802 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über eine Verringerung des Schwefelgehalts bestimmter flüssiger Kraft- oder Brennstoffe (ABl. L 132 vom 21.5.2016, S. 58)
 
 E. Internationale Schiffssicherheitsnormen, die in Deutschland als anwendbare anerkannte Regeln der Technik oder der seemännischen Praxis bekanntgemacht worden sind (§ 6 Abs. 4):
 

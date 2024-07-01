@@ -242,19 +242,19 @@ alle Parteien, die bei der letzten Wahl die 5 %-Hürde erreichen konnten.
 □  
 alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.
 
-14. Meinungsfreiheit in Deutschland heißt, dass ich …
+14. Meinungsfreiheit in Deutschland heißt zum Beispiel, dass ich
 
-□  
-auf Flugblättern falsche Tatsachen behaupten darf.
+☐  
+Passanten auf der Straße beschimpfen darf
 
-□  
-meine Meinung in Leserbriefen äußern kann.
+☐  
+meine Meinung im Internet äußern kann
 
-□  
-Nazi-Symbole tragen darf.
+☐  
+Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf
 
-□  
-Meine Meinung sagen darf, solange ich der Regierung nicht widerspreche.
+☐  
+meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche
 
 15. Was verbietet das deutsche Grundgesetz?
 
@@ -878,19 +878,19 @@ der Bundesratspräsident / die Bundesratspräsidentin
 □  
 der Bundestagspräsident / die Bundestagspräsidentin
 
-59. Welche Parteien wurden in Deutschland 2007 zur Partei „Die Linke“?
+59. Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?
 
-□  
-CDU und SSW
+☐  
+vor etwa 300 Jahren
 
-□  
-PDS und WASG
+☐  
+vor etwa 700 Jahren
 
-□  
-CSU und FDP
+☐  
+vor etwa 1150 Jahren
 
-□  
-Bündnis 90/Die Grünen und SPD
+☐  
+vor etwa 1700 Jahren
 
 60. In Deutschland gehören der Bundestag und der Bundesrat zur …
 
@@ -976,19 +976,19 @@ den Bundeskanzler / die Bundeskanzlerin zu wählen.
 □  
 das Bundeskabinett zu bilden.
 
-66. Wer schrieb den Text zur deutschen Nationalhymne?
+66. Welche Städte haben die größten jüdischen Gemeinden in Deutschland?
 
-□  
-Friedrich von Schiller
+☐  
+Berlin und München
 
-□  
-Clemens Brentano
+☐  
+Hamburg und Essen
 
-□  
-Johann Wolfgang von Goethe
+☐  
+Nürnberg und Stuttgart
 
-□  
-Heinrich Hoffmann von Fallersleben
+☐  
+Worms und Speyer
 
 67. Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?
 
@@ -1063,19 +1063,19 @@ auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten/der Bundespräsidentin
 □  
 in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.
 
-72. Wie heißt der jetzige Bundeskanzler / die jetzige Bundeskanzlerin von Deutschland?
+72. Wie heißt der jetzige Bundeskanzler/die jetzige Bundeskanzlerin von Deutschland?
 
-□  
+☐  
 Gerhard Schröder
 
-□  
-Jürgen Rüttgers
-
-□  
-Klaus Wowereit
-
-□  
+☐  
 Angela Merkel
+
+☐  
+Franziska Giffey
+
+☐  
+Olaf Scholz
 
 73. Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …
 
@@ -1107,17 +1107,17 @@ Bundesgerichtshof
 
 75. Wie heißt Deutschlands heutiges Staatsoberhaupt?
 
-□  
+☐  
+Frank-Walter Steinmeier
+
+☐  
+Bärbel Bas
+
+☐  
+Bodo Ramelow
+
+☐  
 Joachim Gauck
-
-□  
-Norbert Lammert
-
-□  
-Wolfgang Thierse
-
-□  
-Edmund Stoiber
 
 76. Was bedeutet die Abkürzung CDU in Deutschland?
 
@@ -1399,19 +1399,19 @@ Schweigepflicht
 □  
 Religionspflicht
 
-96. Was muss jeder deutsche Staatsbürger / jede deutsche Staatsbürgerin ab dem 16. Lebensjahr besitzen?
+96. Wie kann jemand, der den Holocaust leugnet, bestraft werden?
 
-□  
-einen Reisepass
+☐  
+Kürzung sozialer Leistungen
 
-□  
-einen Personalausweis
+☐  
+bis zu 100 Sozialstunden
 
-□  
-einen Sozialversicherungsausweis
+☐  
+gar nicht, Holocaustleugnung ist erlaubt
 
-□  
-einen Führerschein
+☐  
+mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe
 
 97. Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?
 
@@ -1609,19 +1609,19 @@ alle sechs Jahre
 □  
 5 Jahre
 
-111. In Deutschland darf man wählen. Was bedeutet das?
+111. Welche Handlung mit Bezug auf den Staat Israel ist in Deutschland verboten?
 
-□  
-Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das Mindestalter erreicht haben.
+☐  
+die Politik Israels öffentlich kritisieren
 
-□  
-Nur verheiratete Personen dürfen wählen.
+☐  
+das Aufhängen einer israelischen Flagge auf dem Privatgrundstück
 
-□  
-Nur Personen mit einem festen Arbeitsplatz dürfen wählen.
+☐  
+eine Diskussion über die Politik Israels
 
-□  
-Alle Einwohner und Einwohnerinnen in Deutschland müssen wählen.
+☐  
+der öffentliche Aufruf zur Vernichtung Israels
 
 112. Die Wahlen in Deutschland sind …
 
@@ -1707,19 +1707,19 @@ aktives Wahlrecht.
 □  
 6 %
 
-118. Was regelt das Wahlrecht in Deutschland?
+118. Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?
 
-□  
-Wer wählen darf, muss wählen.
+☐  
+nur Deutsche
 
-□  
-Alle die wollen, können wählen.
+☐  
+nur Israelis
 
-□  
-Wer nicht wählt, verliert das Recht zu wählen.
+☐  
+nur religiöse Menschen
 
-□  
-Wer wählen darf, kann wählen.
+☐  
+alle Menschen
 
 119. Wahlen in Deutschland sind frei. Was bedeutet das?
 
@@ -2144,19 +2144,19 @@ die Gesetze zu beschließen
 □  
 die Einhaltung von Gesetzen zu überwachen
 
-149. Wer kann Gerichtsschöffe / Gerichtsschöffin in Deutschland werden?
+149. Was ist ein Beispiel für antisemitisches Verhalten?
 
-□  
-alle in Deutschland geborenen Einwohner / Einwohnerinnen über 18 Jahre
+☐  
+ein jüdisches Fest besuchen
 
-□  
-alle deutschen Staatsangehörigen älter als 24 und jünger als 70 Jahre
+☐  
+die israelische Regierung kritisieren
 
-□  
-alle Personen, die seit mindestens 5 Jahren in Deutschland leben
+☐  
+den Holocaust leugnen
 
-□  
-nur Personen mit einem abgeschlossenen Jurastudium
+☐  
+gegen Juden Fußball spielen
 
 150. Ein Gerichtsschöffe / eine Gerichtsschöffin in Deutschland ist …
 
@@ -2612,19 +2612,19 @@ Er zeigte seine Demut vor dem Warschauer Pakt.
 □  
 Er sprach ein Gebet am Grab des Unbekannten Soldaten.
 
-182. Welche Parteien wurden 1946 zwangsweise zur SED vereint, der Einheitspartei der späteren DDR?
+182. Wie heißt das jüdische Gebetshaus?
 
-□  
-KPD und SPD
+☐  
+Basilika
 
-□  
-SPD und CDU
+☐  
+Moschee
 
-□  
-CDU und FDP
+☐  
+Synagoge
 
-□  
-KPD und CSU
+☐  
+Kirche
 
 183. Wann war in der Bundesrepublik Deutschland das „Wirtschaftswunder“?
 
@@ -2640,19 +2640,19 @@ KPD und CSU
 □  
 80er Jahre
 
-184. Was nannten die Menschen in Deutschland sehr lange „Die Stunde Null“?
+184. Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?
 
-□  
-Damit wird die Zeit nach der Wende im Jahr 1989 bezeichnet.
+☐  
+eine Resolution der Vereinten Nationen
 
-□  
-Damit wurde der Beginn des Zweiten Weltkrieges bezeichnet.
+☐  
+ein Beschluss des Zionistenkongresses
 
-□  
-Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus.
+☐  
+ein Vorschlag der Bundesregierung
 
-□  
-Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf die Winterzeit umgestellt wird.
+☐  
+ein Vorschlag der UdSSR
 
 185. Wofür stand der Ausdruck „Eiserner Vorhang“? Für die Abschottung …
 
@@ -2938,19 +2938,19 @@ zur OPEC.
 □  
 zur Europäischen Verteidigungsgemeinschaft.
 
-206. Was bedeutete im Jahr 1989 in Deutschland das Wort „Montagsdemonstration“?
+206. Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?
 
-□  
-In der Bundesrepublik waren Demonstrationen nur am Montag erlaubt.
+☐  
+an berühmte deutsche Politikerinnen und Politiker
 
-□  
-Montags waren Demonstrationen gegen das DDR-Regime.
+☐  
+an die Opfer des Nationalsozialismus
 
-□  
-Am ersten Montag im Monat trafen sich in der Bundesrepublik Deutschland Demonstranten.
+☐  
+an Verkehrstote
 
-□  
-Montags demonstrierte man in der DDR gegen den Westen.
+☐  
+an bekannte jüdische Musiker
 
 207. In welchem Militärbündnis war die DDR Mitglied?
 
@@ -3041,16 +3041,16 @@ Bundesbezirk Deutschland
 
 213. Wie viele Einwohner hat Deutschland?
 
-□  
+☐  
 70 Millionen
 
-□  
+☐  
 78 Millionen
 
-□  
-82 Millionen
+☐  
+84 Millionen
 
-□  
+☐  
 90 Millionen
 
 214. Welche Farben hat die deutsche Flagge?
@@ -3129,17 +3129,17 @@ Helmut Schmidt
 
 220. Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?
 
-□  
+☐  
 an das Ende des Zweiten Weltkrieges
 
-□  
+☐  
 an die Verabschiedung des Grundgesetzes
 
-□  
+☐  
 an die Wiedervereinigung Deutschlands
 
-□  
-an die Opfer des Nationalsozialismus
+☐  
+an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)
 
 221. Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?
 
@@ -3323,18 +3323,18 @@ Griechenland
 □  
 Portugal
 
-234. Wo ist der Sitz des Europäischen Parlaments?
+234. Wo ist ein Sitz des Europäischen Parlaments?
 
-□  
+☐  
 London
 
-□  
+☐  
 Paris
 
-□  
+☐  
 Berlin
 
-□  
+☐  
 Straßburg
 
 235. Der französische Staatspräsident François Mitterrand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?  
@@ -3608,17 +3608,17 @@ beim Gewerbeamt
 
 254. In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das „Trennungsjahr“ einhalten. Was bedeutet das?
 
-□  
-Der Scheidungsprozess dauert ein Jahr.
+☐  
+Der Scheidungsprozess dauert ein Jahr
 
-□  
-Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung möglich.
+☐  
+Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich
 
-□  
-Das Besuchsrecht für die Kinder gilt ein Jahr.
+☐  
+Das Besuchsrecht für die Kinder gilt ein Jahr
 
-□  
-Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.
+☐  
+Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich
 
 255. Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …
 
@@ -4082,19 +4082,19 @@ die Kündigungsfrist
 □  
 die Versicherungspflicht
 
-288. Bei welchem Amt muss man in Deutschland in der Regel seinen Hund anmelden?
+288. Woraus begründet sich Deutschlands besondere Verantwortung für Israel?
 
-□  
-beim Finanzamt
+☐  
+aus der Mitgliedschaft in der Europäischen Union (EU)
 
-□  
-beim Einwohnermeldeamt
+☐  
+aus den nationalsozialistischen Verbrechen gegen Juden
 
-□  
-bei der Kommune (Stadt oder Gemeinde)
+☐  
+aus dem Grundgesetz der Bundesrepublik Deutschland
 
-□  
-beim Gesundheitsamt
+☐  
+aus der christlichen Tradition
 
 289. Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …
 
@@ -4285,16 +4285,16 @@ Türkei
 
 2. Welches ist ein Landkreis in Baden-Württemberg?
 
-□  
-Demmin
+☐  
+Mecklenburgische Seenplatte
 
-□  
+☐  
 Neckar-Odenwald-Kreis
 
-□  
+☐  
 Nordfriesland
 
-□  
+☐  
 Altötting
 
 3. Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?
@@ -4579,17 +4579,17 @@ Innenminister / Innenministerin
 
 2. Welches ist ein Bezirk von Berlin?
 
-□  
+☐  
 Altona
 
-□  
+☐  
 Prignitz
 
-□  
+☐  
 Pankow
 
-□  
-Demmin
+☐  
+Mecklenburgische Seenplatte
 
 3. Für wie viele Jahre wird das Landesparlament in Berlin gewählt?
 
@@ -4737,7 +4737,7 @@ Vogtlandkreis
 □  
 Amberg-Sulzbach
 
-3. Für wie viele Jahre wird der Landtag in Brandenburg gewählt?
+2. Für wie viele Jahre wird der Landtag in Brandenburg gewählt?
 
 □  
 3
@@ -5018,17 +5018,17 @@ Innensenator / Innensenatorin
 
 2. Welches ist ein Bezirk von Hamburg?
 
-□  
+☐  
 Altona
 
-□  
+☐  
 Hemelingen
 
-□  
+☐  
 Pankow
 
-□  
-Demmin
+☐  
+Mecklenburgische Seenplatte
 
 3. Für wie viele Jahre wird das Landesparlament in Hamburg gewählt?
 
@@ -5315,16 +5315,16 @@ Innenminister / Innenministerin
 
 2. Welches ist ein Landkreis in Mecklenburg-Vorpommern?
 
-□  
+☐  
 Prignitz
 
-□  
-Demmin
+☐  
+Mecklenburgische Seenplatte
 
-□  
+☐  
 Vogtlandkreis
 
-□  
+☐  
 Rhein-Sieg-Kreis
 
 3. Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?
@@ -5520,16 +5520,16 @@ blau-weiß-rot
 
 6. Wo können Sie sich in Niedersachsen über politische Themen informieren?
 
-□  
-beim Koordinator für politische Bildung im Kultusministerium
+☐  
+bei der Landeszentrale für politische Bildung
 
-□  
+☐  
 beim Ordnungsamt der Gemeinde
 
-□  
+☐  
 bei der Verbraucherzentrale
 
-□  
+☐  
 bei den Kirchen
 
 7. Die Landeshauptstadt von Niedersachsen heißt …
@@ -5902,16 +5902,16 @@ Innenminister / Innenministerin
 
 2. Welches ist ein Landkreis im Saarland?
 
-□  
-Demmin
+☐  
+Mecklenburgische Seenplatte
 
-□  
+☐  
 Altötting
 
-□  
+☐  
 Neunkirchen
 
-□  
+☐  
 Rhein-Sieg-Kreis
 
 3. Für wie viele Jahre wird der Landtag des Saarlandes gewählt?
@@ -6340,16 +6340,16 @@ Innenminister / Innenministerin
 
 2. Welches ist ein Landkreis in Schleswig-Holstein?
 
-□  
+☐  
 Ammerland
 
-□  
-Demmin
+☐  
+Mecklenburgische Seenplatte
 
-□  
+☐  
 Nordfriesland
 
-□  
+☐  
 Rhein-Sieg-Kreis
 
 3. Für wie viele Jahre wird der Landtag in Schleswig-Holstein gewählt?
@@ -6396,16 +6396,16 @@ grün-weiß-rot
 
 6. Wo können Sie sich in Schleswig-Holstein über politische Themen informieren?
 
-□  
+☐  
 bei der Verbraucherzentrale
 
-□  
+☐  
 beim Ordnungsamt der Gemeinde
 
-□  
-bei der Landeszentrale für politische Bildung
+☐  
+beim Landesbeauftragten für politische Bildung
 
-□  
+☐  
 bei den Kirchen
 
 7. Die Landeshauptstadt von Schleswig-Holstein heißt …

@@ -1,211 +1,393 @@
-% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Raumausstatter-Handwerk  (Raumausstattermeisterverordnung - RaumausMstrV)
-% Ausfertigungsdatum: 18.06.2008
+% Verordnung über die Meisterprüfung in den Teilen I und II im Raumausstatter-Handwerk  (Raumausstattermeisterverordnung - RaumausMstrV)
+% Ausfertigungsdatum: 04.09.2023
  
 # Eingangsformel
 
-Auf Grund des § 51a Abs. 2 in Verbindung mit Abs. 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der zuletzt durch Artikel 2 des Gesetzes vom 9. November 2022 (BGBl. I S. 2009) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-# § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gegenstand
 
-Die Meisterprüfung im zulassungspflichtigen Raumausstatter-Handwerk umfasst folgende selbständige Prüfungsteile:
-
-1. die Prüfung der meisterhaften Verrichtung wesentlicher Tätigkeiten (Teil I),
-
-2. die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
-
-3. die Prüfung der erforderlichen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
-
-4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
+Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in den Teilen I und II der Meisterprüfung zu stellenden Anforderungen sowie die Bestimmungen zur Durchführung der Meisterprüfung im Raumausstatter-Handwerk.
 
 # § 2 – Meisterprüfungsberufsbild
 
-(1) Durch die Meisterprüfung wird festgestellt, ob der Prüfling befähigt ist,
+In den Teilen I und II der Meisterprüfung im Raumausstatter-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
-1. einen Betrieb selbständig zu führen,
+1. einen Betrieb im Raumausstatter-Handwerk führen und organisieren und dabei technische, kaufmännische und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung
 
-2. technische, kaufmännische und personalwirtschaftliche Leitungsaufgaben wahrzunehmen,
+a) der Kostenstrukturen,
 
-3. die Ausbildung durchzuführen und
+b) der Wettbewerbssituation,
 
-seine berufliche Handlungskompetenz eigenverantwortlich umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
+c) der für den Betrieb wesentlichen Aus-, Fort- und Weiterbildung des Personals,
 
-(2) Im Raumausstatter-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse als ganzheitliche Qualifikationen zu berücksichtigen:
+d) der Betriebsorganisation,
 
-1. Kundenwünsche ermitteln, Kunden beraten, Serviceleistungen anbieten, Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen kalkulieren und Angebote erstellen, Verträge schließen,
+e) des Qualitätsmanagements,
 
-2. Aufgaben der technischen, kaufmännischen und personalwirtschaftlichen Betriebsführung wahrnehmen, insbesondere unter Berücksichtigung der Betriebsorganisation, der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, des Arbeitsschutzrechtes, des Datenschutzes, des Umweltschutzes sowie von Informations- und Kommunikationstechniken,
+f) des Arbeitsschutzrechtes,
 
-3. Auftragsabwicklungsprozesse planen, organisieren, durchführen und überwachen,
+g) des Datenschutzes, der Datensicherheit und der Datenverarbeitung,
 
-4. Ausschreibungen bewerten, Kalkulationen aufgrund von Leistungsbeschreibungen unter Beachtung der Vertragsbedingungen durchführen,
+h) der ökologischen, ökonomischen und sozialen Nachhaltigkeit sowie
 
-5. Aufträge durchführen, insbesondere unter Berücksichtigung von Fertigungs- und Montagetechniken, gestalterischen Aspekten, berufsbezogenen rechtlichen Vorschriften, technischen Normen und der allgemein anerkannten Regeln der Technik, Personal, Material und Geräten sowie von Möglichkeiten zum Einsatz von Auszubildenden,
+i) sowohl technologischer als auch gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien,
 
-6. betriebsspezifische Marketingkonzepte entwickeln und umsetzen,
+2. Konzepte für Betriebs- und Lagerausstattung sowie für logistische Geschäfts- und Arbeitsprozesse entwickeln und umsetzen,
 
-7. Konzepte für Betriebsstätten einschließlich Betriebs- und Lagerausstattung sowie für logistische Prozesse entwickeln und umsetzen,
+3. Kundenwünsche und jeweilige Rahmenbedingungen ermitteln, Anforderungen ableiten, Kundinnen und Kunden beraten, Serviceleistungen anbieten, Lösungen entwickeln, Verhandlungen führen und Ziele festlegen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen,
 
-8. Werkzeuge, Geräte, Maschinen und technische Einrichtungen prüfen und instand halten,
+4. bauliche Gegebenheiten, insbesondere bauphysikalische und raumklimatische Bedingungen, Untergrundbeschaffenheiten, Lichtverhältnisse, Bau- und Einrichtungsstile auf Umsetzbarkeit prüfen, analysieren und bewerten,
 
-9. Raumsituationen beurteilen, Umsetzungsvorschläge entwickeln und gestalten, insbesondere unter Berücksichtigung stilistischer Merkmale, Funktion sowie Form- und Farbgebung,
+5. Raumkonzepte unter Berücksichtigung von Nachhaltigkeit sowie raumklimatischen und akustischen Gesichtspunkten erarbeiten und bewerten,
 
-10. Pläne, Skizzen und Entwürfe erstellen und dem Kunden präsentieren,
+6. Geschäfts- und Arbeitsprozesse zur Leistungserbringung planen, organisieren und überwachen,
 
-11. Untergründe prüfen, bewerten und bearbeiten,
+7. Leistungen im Raumausstatter-Handwerk erbringen, insbesondere
 
-12. Bodenflächen gestalten und Bodenbeläge verlegen,
+a) dafür benötigte Materialien beurteilen und auswählen,
 
-13. Wand- und Deckenflächen gestalten, bekleiden und behandeln,
+b) Zusammenarbeit mit anderen Handwerken koordinieren,
 
-14. Polstermöbel instand setzen, Polstermöbel entwerfen und in Kooperation mit anderen Gewerken herstellen, insbesondere unter Berücksichtigung stilistischer, ergonomischer und funktionaler Anforderungen,
+c) Zuschnittpläne, Zeichnungen, Verlegepläne, Arbeitsanweisungen und Ablaufpläne erstellen,
 
-15. Raumdekorationen entwerfen, herstellen und montieren,
+d) Störungen bei der Leistungserbringung erkennen und Lösungen zu deren Behebung erarbeiten,
 
-16. Licht-, Sicht- und Sonnenschutz entwerfen, herstellen und montieren,
+e) Untergründe von Wand-, Decken- oder Bodenflächen in Innenräumen prüfen, den jeweiligen Zustand erkennen und bewerten sowie daraus Konsequenzen für die Leistungserbringung ableiten,
 
-17. Leistungen abnehmen, dokumentieren und bewerten, dem Kunden übergeben sowie Nachkalkulation durchführen.
+f) Untergründe von Wand-, Decken- oder Bodenflächen in Innenräumen vorbereiten und bearbeiten,
 
-# § 3 – Gliederung des Teils I
+g) Wand-, Decken- oder Bodenflächen in Innenräumen unter Berücksichtigung der jeweiligen Materialeigenschaften für die Bearbeitung vorbereiten,
 
-Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
+h) sowohl Bodenflächen als auch Bodenbeläge in Innenräumen gestalten und verlegen,
+
+i) Wand- und Deckenflächen in Innenräumen gestalten, bekleiden und behandeln,
+
+j) Polstermöbel entwerfen, klassische und moderne Polsterungen herstellen oder instandsetzen,
+
+k) Raumdekorationen entwerfen, anfertigen, Räume hiermit ausstatten sowie
+
+l) Licht-, Sicht- und Sonnenschutz unter Berücksichtigung automatisierter Steuerungssysteme und klimaschutzrelevanter Gesichtspunkte planen, entwerfen, auswählen, anfertigen und montieren,
+
+8. technische, organisatorische und rechtliche Gesichtspunkte bei der Leistungserbringung berücksichtigen, insbesondere
+
+a) Eigenschaften und Beschaffenheit von Untergründen und Untergrundkonstruktionen,
+
+b) Raumklima und Energieeffizienz in Räumen,
+
+c) Bau- und Einrichtungsstile, Anforderungen und Vorgaben des Denkmalschutzes,
+
+d) Gestaltungs- und Raumkonzepte unter Berücksichtigung von Form- und Farbwirkung,
+
+e) ergonomische und funktionale Anforderungen an die Raumausstattung,
+
+f) die berufsbezogenen Rechtsvorschriften und technischen Normen, insbesondere Prüf- und Beratungspflichten,
+
+g) die allgemein anerkannten Regeln der Technik,
+
+h) das einzusetzende Personal sowie die Materialien, Arbeits- und Betriebsmittel und
+
+i) die Möglichkeiten zum Einsatz von Auszubildenden,
+
+9. Pläne, Skizzen, Zeichnungen und Schablonen für die Verlegung von Böden, für den Zuschnitt von Dekorationen und Polstern sowie für die Bekleidung von Wänden, auch unter Einsatz von Informations- und Kommunikationstechnologien, anfertigen, bewerten und korrigieren,
+
+10. Arten und Eigenschaften von zu bearbeitenden und zu verarbeitenden Materialien berücksichtigen,
+
+11. Unteraufträge kriterienorientiert, insbesondere unter Berücksichtigung von Qualität der Leistungen und Rechtsvorschriften, vergeben und deren Ausführung kontrollieren,
+
+12. fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus bewerten und dokumentieren,
+
+13. erbrachte Leistungen kontrollieren, Mängel beseitigen, Leistungen dokumentieren und übergeben sowie Nachkalkulationen durchführen, Auftragsabwicklung auswerten und Abnahmeprotokolle erstellen sowie
+
+14. Reklamationen bearbeiten.
+
+Die Tätigkeiten nach Satz 2 Nummer 7 Buchstabe f bis i und l erfolgen im Zusammenhang mit den Tätigkeiten im Raumausstatter-Handwerk.
+
+# § 3 – Ziel und Gliederung der Prüfung in Teil I
+
+(1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er wesentliche Tätigkeiten des Raumausstatter-Handwerks meisterhaft verrichtet.
+
+(2) Die Prüfung in Teil I gliedert sich in ein Meisterprüfungsprojekt nach § 4 und ein darauf bezogenes Fachgespräch nach § 5. Das Meisterprüfungsprojekt und das Fachgespräch bilden einen Prüfungsbereich.
 
 # § 4 – Meisterprüfungsprojekt
 
-(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Vorschläge des Prüflings für den Kundenauftrag sollen berücksichtigt werden. Die auftragsbezogenen Kundenanforderungen werden vom Meisterprüfungsausschuss festgelegt. Auf dieser Grundlage erarbeitet der Prüfling ein Umsetzungskonzept einschließlich einer Zeit- und Materialbedarfsplanung. Dieses hat er vor der Durchführung des Meisterprüfungsprojekts dem Meisterprüfungsausschuss zur Genehmigung vorzulegen. Der Meisterprüfungsausschuss prüft, ob das Umsetzungskonzept den auftragsbezogenen Kundenanforderungen entspricht.
+(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs-, Kontroll- und Dokumentationsarbeiten.
 
-(2) Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs- und Dokumentationsarbeiten.
+(2) Als Meisterprüfungsprojekt sind folgende Arbeiten durchzuführen:
 
-(3) Als Meisterprüfungsprojekt ist ein Konzept für die Gestaltung eines Raumes, unter Berücksichtigung der Raumsituation einschließlich der Entwurfs-, Planungs- und Kalkulationsunterlagen zu erstellen. Auf dieser Grundlage sind die nachstehenden Arbeiten durchzuführen, zu dokumentieren und nachzukalkulieren:
+1. im Rahmen der Planung ein Konzept für die Gestaltung eines Raumes unter Berücksichtigung der Raumsituation und energetischer Aspekte erstellen, dabei die baulichen Gegebenheiten prüfen, dokumentieren und analysieren, Entwurfszeichnungen anfertigen, Materialien und Gestaltungsaspekte begründen und den Auftrag kalkulieren,
 
-1. Verlegen von mindestens drei Quadratmetern Bodenbelag aus unterschiedlichen Materialien oder Farben,
+2. auf Grundlage der Tätigkeiten nach Nummer 1 die nachstehenden Arbeiten durchführen und dokumentieren:
 
-2. Herstellen eines Hochpolsters mit Sitz, Rücken- und Armteilen,
+a) Verlegen von mindestens drei Quadratmetern Bodenbelag aus mindestens zwei unterschiedlichen Materialien oder Farben,
 
-3. Anfertigen einer mehrteiligen Raumdekoration,
+b) Herstellen eines Hochpolsters mit Sitz, Rücken- und Armlehnteilen unter Anwendung einer klassischen Polsterung und Schnürung sowie moderner Polstermethoden,
 
-4. Behandeln oder Bekleiden von mindestens zehn Quadratmetern Wand- und Deckenfläche unter Anwendung von mindestens zwei Techniken sowie
+c) Anfertigen einer mehrteiligen Raumdekoration,
 
-5. Anfertigen und Montieren einer Licht-, Sicht- oder Sonnenschutzanlage.
+d) Behandeln oder Bekleiden von mindestens zehn Quadratmetern Wand- und Deckenfläche unter Anwendung von mindestens zwei Techniken sowie
 
-(4) Die Entwurfs-, Planungs- und Kalkulationsunterlagen werden mit 40 Prozent, die durchgeführten Arbeiten einschließlich Dokumentation mit 60 Prozent gewichtet.
+e) Anfertigen und Montieren einer Licht-, Sicht- oder Sonnenschutzanlage und
+
+3. eine Analyse der Umsetzung des Meisterprüfungsprojekts, eine Nachkalkulation und eine Dokumentation anfertigen.
+
+(3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt.
+
+(4) Für die Bearbeitung des Meisterprüfungsprojekts stehen dem Prüfling sieben Arbeitstage zur Verfügung.
+
+(5) Für die Bewertung des Meisterprüfungsprojekts werden die einzelnen Bestandteile wie folgt gewichtet:
+
+1. die Planungsarbeiten anhand der Planungsunterlagen, bestehend aus dem Konzept mit 30 Prozent,
+
+2. die Durchführungsarbeiten mit 60 Prozent und
+
+3. die Kontroll- und die Dokumentationsarbeiten anhand der Dokumentationsunterlagen, bestehend aus schriftlicher Analyse der Umsetzung des Meisterprüfungsprojekts und Nachkalkulation, mit 10 Prozent.
 
 # § 5 – Fachgespräch
 
-Nach Durchführung des Meisterprüfungsprojekts ist hierüber das Fachgespräch zu führen. Dabei soll der Prüfling nachweisen, dass er befähigt ist,
+(1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1. die fachlichen Zusammenhänge, die dem Meisterprüfungsprojekt zugrunde liegen, aufzuzeigen,
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
 
-2. den Ablauf des Meisterprüfungsprojekts zu begründen,
+2. Kundinnen und Kunden zu beraten und dabei den jeweiligen Kundenwunsch sowie wirtschaftliche, rechtliche und technische Gesichtspunkte in das Beratungsgespräch einzubeziehen,
 
-3. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei neue Entwicklungen zu berücksichtigen.
+3. sein Vorgehen bei der Planung und Durchführung des Meisterprüfungsprojekts zu begründen sowie
 
-# § 6 – Prüfungsdauer und Bestehen des Teils I
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Raumausstatter-Handwerk zu berücksichtigen.
 
-(1) Die Durchführung des Meisterprüfungsprojekts soll nicht länger als sieben Arbeitstage, das Fachgespräch nicht länger als 30 Minuten dauern.
+(2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
-(2) Das Meisterprüfungsprojekt und das Fachgespräch werden gesondert bewertet. Die Prüfungsleistungen im Meisterprüfungsprojekt und im Fachgespräch werden im Verhältnis 3 : 1 gewichtet. Hieraus wird eine Gesamtbewertung gebildet.
+# § 6 – Gewichtung, Bestehen der Prüfung in Teil I
 
-(3) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch mit weniger als 30 Punkten bewertet worden sein darf.
+(1) Das Meisterprüfungsprojekt und das Fachgespräch werden gesondert bewertet. Bei der Berechnung des Gesamtergebnisses der Prüfung in Teil I der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung ist die Bewertung des Meisterprüfungsprojekts und die Bewertung des Fachgesprächs im Verhältnis 3:1 zu gewichten.
 
-# § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+(2) Der Prüfling hat den Teil I der Meisterprüfung bestanden, wenn
 
-(1) Durch die Prüfung in Teil II soll der Prüfling in den in Absatz 2 Nr. 1 bis 3 genannten Handlungsfeldern seine Handlungskompetenz dadurch nachweisen, dass er berufsbezogene Probleme analysiert und bewertet sowie Lösungswege aufzeigt und dokumentiert und dabei aktuelle Entwicklungen berücksichtigt.
+1. das Meisterprüfungsprojekt und das Fachgespräch jeweils mit mindestens 30 Punkten bewertet worden ist und
 
-(2) In jedem der folgenden Handlungsfelder ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss:
+2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
-1. Gestaltung, Fertigungs- und Montagetechnik
+# § 7 – Ziel und Gliederung der Prüfung in Teil II
 
-  
-Der Prüfling soll nachweisen, dass er in der Lage ist, gestalterische, fertigungs- und montagetechnische Aufgaben unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte in einem Raumausstatterbetrieb zu bearbeiten. Dabei soll er berufsbezogene Sachverhalte analysieren und bewerten. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i aufgeführten Qualifikationen verknüpft werden:
+(1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Raumausstatter-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
-a) Konzepte für Raumdekorationen entwickeln und bewerten,
+1. nach Maßgabe des § 8 „Anforderungen von Kundinnen und Kunden eines Betriebs im Raumausstatter-Handwerk analysieren, Lösungen erarbeiten und anbieten“,
 
-b) Skizzen, Entwurfs- und Konstruktionszeichnungen unter Berücksichtigung von Material, Funktion und Gestaltungsprinzipien anfertigen, bewerten und korrigieren; Präsentationskonzepte entwickeln,
+2. nach Maßgabe des § 9 „Leistungen eines Betriebs im Raumausstatter-Handwerk erbringen, kontrollieren und übergeben“ und
 
-c) Materialien auswählen und beurteilen, Materialverbrauch berechnen sowie Materiallisten erstellen,
+3. nach Maßgabe des § 10 „Einen Betrieb im Raumausstatter-Handwerk führen und organisieren“.
 
-d) Arten und Konstruktionen von Licht-, Sicht- und Sonnenschutz beschreiben, bewerten und Verwendungszwecken zuordnen,
+(2) Der Prüfling hat in jedem der drei Handlungsfelder mindestens eine fallbezogene Aufgabe zu bearbeiten, die den Anforderungen des Absatzes 1 entspricht. Bei jeder Aufgabenstellung können die Qualifikationen der drei Handlungsfelder handlungsfeldübergreifend verknüpft werden.
 
-e) Arten von Bekleidungen und Beschichtungen für Wand- und Deckenflächen darstellen, bewerten und Verwendungszwecken zuordnen,
+(3) Die Aufgaben sind schriftlich zu bearbeiten.
 
-f) Konzepte für die Instandsetzung von Polstermöbeln, insbesondere unter Berücksichtigung der epochentypischen Einordnung, entwickeln,
+(4) Für die Bearbeitung der Aufgaben stehen dem Prüfling in jedem Handlungsfeld drei Stunden zur Verfügung. Eine Prüfungsdauer von 6 Stunden an einem Tag darf nicht überschritten werden.
 
-g) Arbeitsverfahren für Untergrundanalysen und für die Bearbeitung von Untergründen beschreiben und bewerten,
+# § 8 – Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Raumausstatter-Handwerk analysieren, Lösungen erarbeiten und anbieten“
 
-h) Arten und Eigenschaften von Bodenbelägen beschreiben und bewerten, Verlegepläne erstellen,
+(1) Im Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Raumausstatter-Handwerk analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Betrieb im Raumausstatter-Handwerk Anforderungen erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er bauliche, gestalterische, ergonomische, ökologische, ökonomische und soziale Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
 
-i) Fertigungs- und Montagetechniken auftragsbezogen bestimmen;
+(2) Das Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Raumausstatter-Handwerk analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
 
-2. Auftragsabwicklung
+1. Kundenwünsche und die Rahmenbedingungen zu deren Erfüllung analysieren, dokumentieren sowie bewerten und daraus Anforderungen ableiten, hierzu zählen insbesondere:
 
-  
-Der Prüfling soll nachweisen, dass er in der Lage ist, Auftragsabwicklungsprozesse, auch unter Anwendung branchenüblicher Software, erfolgs-, kunden- und qualitätsorientiert zu planen, deren Durchführung zu kontrollieren und sie abzuschließen. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i aufgeführten Qualifikationen verknüpft werden:
+a) Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten,
 
-a) Möglichkeiten der Auftragsbeschaffung darstellen, Verträge konzipieren,
+b) Ausschreibungen oder Angebotsanfragen öffentlicher oder privater Auftraggeber analysieren und bewerten,
 
-b) Angebotsunterlagen erstellen und Angebote auswerten, Angebotskalkulation durchführen,
+c) Verfahren zur Prüfung der baulichen Gegebenheiten, insbesondere des Raumklimas, der Feuchtigkeit, des Untergrundes, der Untergrundkonstruktion, der Ebenheit von Oberflächen, des Lichteinfalls sowie der akustischen Eigenschaften erläutern und bewerten, fehlerhafte Vorleistungen oder Leistungen erkennen,
 
-c) Methoden und Verfahren der Arbeitsplanung und -organisation, insbesondere unter Berücksichtigung gestalterischer Aspekte, der Fertigungs-, Verarbeitungs-, Befestigungs- und Instandsetzungstechnik, der Montage sowie des Einsatzes von Personal, Material und Geräten bewerten, dabei qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen Arbeitsbereichen berücksichtigen,
+d) Bau- und Einrichtungsstile beschreiben und im Hinblick auf Konsequenzen für die Raumgestaltung bewerten,
 
-d) berufsbezogene rechtliche Vorschriften und technische Normen sowie allgemein anerkannte Regeln der Technik anwenden, insbesondere Haftung bei der Herstellung, der Instandhaltung und bei Montageleistungen beurteilen,
+e) ergonomische Anforderungen an Polster und Polstermöbel analysieren und bewerten sowie
 
-e) Arbeitsablaufpläne erstellen, bewerten und korrigieren,
+f) Ergebnisse der vorstehenden Handlungsschritte dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten,
 
-f) auftragsbezogenen Einsatz von Materialien, Werkzeugen, Maschinen, Geräten und technischen Hilfsmitteln bestimmen und begründen,
+2. Lösungsmöglichkeiten entwickeln, erläutern und begründen, auch unter Berücksichtigung der berufsbezogenen Rechtsvorschriften und technischen Normen sowie der allgemein anerkannten Regeln der Technik, hierzu zählen insbesondere:
 
-g) Unteraufträge vergeben und kontrollieren,
+a) Möglichkeiten und Notwendigkeiten des Einsatzes von Materialien, Maschinen, Werkzeugen, Geräten, Personal, auch unter Berücksichtigung einzusetzender Verfahren, darstellen, erläutern und begründen,
 
-h) Schadensaufnahme darstellen, Instandsetzungsmethoden vorschlagen und die erforderliche Abwicklung festlegen,
+b) Sicherheits-, Gesundheits- und Haftungsrisiken bewerten und Konsequenzen ableiten,
 
-i) Vor- und Nachkalkulation durchführen;
+c) Skizzen und Raumkonzepte unter Berücksichtigung von Anforderungen erstellen, bewerten und korrigieren sowie insbesondere im Hinblick auf Materialauswahl, Farbauswahl, Anordnung, Konstruktionsart und Oberflächengestaltung begründen,
 
-3. Betriebsführung und Betriebsorganisation
+d) Kriterien für die Vergabe von Unteraufträgen festlegen, insbesondere unter Berücksichtigung von Qualität und Rechtsvorschriften, darauf aufbauend Ausschreibungen oder Angebotsanfragen erstellen sowie hierauf eingehende Angebote bewerten sowie
 
-  
-Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation unter Berücksichtigung der rechtlichen Vorschriften, auch unter Anwendung von Informations- und Kommunikationssystemen, wahrzunehmen. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i aufgeführten Qualifikationen verknüpft werden:
+e) Vor- und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf verwendungsbezogene Anforderungen, Kostengesichtspunkte sowie gestalterische, rechtliche, raumklimatische, energetische, ergonomische, akustische und sicherheitstechnische Gesichtspunkte erläutern und abwägen sowie daraus eine Lösung auswählen und diese Auswahl begründen sowie
+
+3. Angebote kalkulieren, erstellen und erläutern sowie Leistungen vereinbaren, hierzu zählen insbesondere:
+
+a) Personal-, Material- und Gerätekosten auf der Grundlage der Planungen kalkulieren,
+
+b) auf der Grundlage entwickelter Lösungsmöglichkeiten Angebotspositionen bestimmen und zu Angebotspaketen zusammenfassen, Preise kalkulieren,
+
+c) Vertragsbedingungen unter Berücksichtigung von Haftungsbestimmungen formulieren und beurteilen,
+
+d) Angebotsunterlagen vorbereiten, Angebote erstellen und
+
+e) Angebotspositionen und Vertragsbedingungen gegenüber Kundinnen und Kunden erläutern und begründen sowie Leistungen vereinbaren.
+
+# § 9 – Handlungsfeld „Leistungen eines Betriebs im Raumausstatter-Handwerk erbringen, kontrollieren und übergeben“
+
+(1) Im Handlungsfeld „Leistungen eines Betriebs im Raumausstatter-Handwerk erbringen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Leistungen eines Betriebs im Raumausstatter-Handwerk erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu erbringen, zu kontrollieren und zu übergeben. Dabei hat er bauliche, gestalterische, ergonomische, ökologische, ökonomische und soziale Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Leistungen eines Betriebs im Raumausstatter-Handwerk erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
+
+1. die Erbringung der Leistungen vorbereiten, hierzu zählen insbesondere:
+
+a) Methoden der Arbeitsplanung und -organisation erläutern, auswählen und die Auswahl begründen sowie unter Berücksichtigung einzusetzender Herstellungs- und Instandsetzungsverfahren den Einsatz von Personal, Material und Geräten, Maschinen und Werkzeugen planen,
+
+b) Gefährdungsbeurteilung durchführen und Maßnahmen daraus ableiten, insbesondere bei dem Entfernen und Entsorgen von Altbelägen, sowie dem Erkennen von gesundheitsschädlichen Materialien bei vorhandenen Altbelägen und dem Veranlassen von Maßnahmen zu deren Beseitigung,
+
+c) mögliche Störungen bei der Leistungserbringung, auch in der Zusammenarbeit mit anderen an der Leistungserbringung Beteiligten, vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder Behebung entwickeln,
+
+d) benötigte Bestellmenge bestimmen, Bestellwege auswählen und Verfügbarkeit sicherstellen,
+
+e) Handhabungshinweise und Produktinformationen für Materialien leistungsbezogen auswerten und erläutern,
+
+f) Konstruktionszeichnungen, Verlegepläne und Arbeitsanweisungen erarbeiten, bewerten und korrigieren,
+
+g) Maßnahmen zur Koordination von Gewerken erläutern und
+
+h) Vorgehensweise zur Planung der auftragsbezogenen Logistik erläutern und bewerten,
+
+2. die Leistungen erbringen, hierzu zählen insbesondere:
+
+a) berufsbezogene Rechtsvorschriften und technische Normen sowie die allgemein anerkannten Regeln der Technik anwenden,
+
+b) Maßnahmen zur Gefahrenvermeidung und -beseitigung erläutern sowie Folgen ableiten,
+
+c) Fehler und Mängel in der Erbringung der Leistungen erläutern sowie Maßnahmen zu deren Beseitigung ableiten sowie
+
+d) Vorgehensweise zur Erbringung von Leistungen unter Berücksichtigung von Materialeigenschaften erläutern und begründen, insbesondere zur
+
+aa)  
+Behandlung, Strukturierung und Farbgebung von Oberflächen,
+
+bb)  
+Gestaltung von Bodenflächen sowie zur Prüfung und zum Verlegen von Bodenbelägen aus unterschiedlichen Materialien und mit Winkelschnitten sowie Bauschlussreinigung und Erstpflege,
+
+cc) Gestaltung, Bekleidung und Behandlung von Wand- und Deckenflächen,
+
+dd)  
+Instandsetzung von Polstermöbeln,
+
+ee)  
+Planung und Anfertigung von Raumdekorationen sowie Ausstattung von Räumen hiermit und
+
+ff)  
+Montage von Licht-, Sicht- und Sonnenschutzsystemen sowie
+
+3. die Leistungen kontrollieren, dokumentieren, übergeben und abrechnen, hierzu zählen insbesondere:
+
+a) Kriterien zur Feststellung der Qualität der erbrachten Leistungen erläutern,
+
+b) Leistungen dokumentieren,
+
+c) Prüfergebnisse dokumentieren und bewerten,
+
+d) Vorgehensweise bei Übergabe der Leistungen und Information der Kundinnen und Kunden über Handhabung, Pflege und Wartung erläutern,
+
+e) Leistungen abrechnen,
+
+f) auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten,
+
+g) Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung erläutern und beurteilen,
+
+h) anlässlich der Übergabe spätere Serviceleistungen, insbesondere Reinigung und Pflege von Fensterdekorationen, Sicht- und Sonnenschutz, Polstern oder Böden, erläutern und bewerten sowie
+
+i) Vorgehensweise bei Reklamationen erläutern und begründen.
+
+# § 10 – Handlungsfeld „Einen Betrieb im Raumausstatter-Handwerk führen und organisieren“
+
+(1) Im Handlungsfeld „Einen Betrieb im Raumausstatter-Handwerk führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Betrieb im Raumausstatter-Handwerk unter Berücksichtigung der Rechtsvorschriften, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere den Nutzen gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Einen Betrieb im Raumausstatter-Handwerk führen und organisieren“ besteht aus folgenden Qualifikationen:
+
+1. betriebliche Kosten analysieren und für die Preisgestaltung und Effizienzsteigerung nutzen, hierzu zählen insbesondere:
 
 a) betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,
 
-b) betriebliche Kostenstrukturen überprüfen; betriebliche Kennzahlen ermitteln,
+b) betriebliche Kostenstrukturen überprüfen,
 
-c) Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsatzmöglichkeiten beurteilen,
+c) betriebliche Kennzahlen ermitteln und vergleichen,
 
-d) Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen erarbeiten,
+d) Maßnahmen zur Effizienzsteigerung ableiten und
 
-e) betriebliches Qualitätsmanagement planen und darstellen,
+e) Stundenverrechnungssätze anhand vorgegebener Kostenstrukturen berechnen,
 
-f) personalwirtschaftliche Aufgaben darstellen; den Zusammenhang zwischen Personalverwaltung sowie Personalführung und -entwicklung aufzeigen,
+2. Marketingmaßnahmen zur Kundengewinnung und -pflege erarbeiten, hierzu zählen insbesondere:
 
-g) betriebsspezifische Maßnahmen zur Einhaltung arbeitsschutzrechtlicher Bestimmungen und des Umweltschutzes entwickeln; Gefahrenpotenziale beurteilen und Maßnahmen zur Gefahrenvermeidung und -beseitigung festlegen,
+a) Auswirkungen technologischer, wirtschaftlicher, rechtlicher und gesellschaftlicher Entwicklungen sowie veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen,
 
-h) Betriebs- und Lagerausstattung einschließlich der Lagerhaltung sowie logistische Prozesse planen und darstellen,
+b) Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen zur Kundengewinnung und -pflege entwickeln,
 
-i) Chancen und Risiken betrieblicher Kooperation darstellen und beurteilen.
+c) Informationen über Produkte und über das Leistungsspektrum des Betriebs erstellen sowie
 
-(3) Die Prüfung in Teil II ist schriftlich durchzuführen. Sie soll in jedem Handlungsfeld nicht länger als drei Stunden dauern. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
+d) Vertriebswege, auch informations- und kommunikationsgestützte, ermitteln und bewerten,
 
-(4) Die Gesamtbewertung des Teils II wird aus dem arithmetischen Mittel der Einzelbewertungen der Handlungsfelder nach Absatz 2 gebildet.
+3. betriebliches Qualitätsmanagement entwickeln, hierzu zählen insbesondere:
 
-(5) Wurden in höchstens zwei der in Absatz 2 genannten Handlungsfelder jeweils mindestens 30 und weniger als 50 Punkte erreicht, kann in einem dieser Handlungsfelder eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese das Bestehen des Teils II der Meisterprüfung ermöglicht.
+a) Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen,
 
-(6) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Die Prüfung des Teils II ist nicht bestanden, wenn
+b) Qualitätsmanagementsysteme unterscheiden und beurteilen,
 
-1. ein Handlungsfeld mit weniger als 30 Punkten bewertet worden ist oder
+c) Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen,
 
-2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit weniger als 50 Punkten bewertet worden sind.
+d) Maßnahmen zur kontinuierlichen Verbesserung von Arbeits- und Geschäftsprozessen festlegen und bewerten sowie
 
-(+++ § 7 Abs. 5 u. 6: Zur Anwendung vgl. § 9 +++)
+e) Maßnahmen zur Rückverfolgbarkeit der eingesetzten Produkte erläutern,
 
-# § 8 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+4. Personal unter Berücksichtigung gewerbespezifischer Bedingungen planen und anleiten, Personalentwicklung planen, hierzu zählen insbesondere:
+
+a) Einsatz von Personal disponieren,
+
+b) Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren,
+
+c) Methoden zur Anleitung von Personal erläutern,
+
+d) Qualifikationsbedarfe ermitteln und
+
+e) Maßnahmen zur fortlaufenden Qualifizierung, insbesondere unter Berücksichtigung des Berufslaufbahnkonzepts im Raumausstatter-Handwerk, planen und umsetzen sowie
+
+5. Betriebs- und Lagerausstattung sowie Abläufe planen, hierzu zählen insbesondere:
+
+a) Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Folgen aus dem Ergebnis ableiten,
+
+b) Ausstattung des Betriebs, des Lagers, der Werkstatt und der Fahrzeuge, insbesondere unter Berücksichtigung der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, der Gefahrgutlagerung sowie ökologischen, ökonomischen, sozialen und logistischen Gesichtspunkten, planen und begründen,
+
+c) Maßnahmen zur Unfallverhütung, zum Arbeitsschutz, zur Gefahrgutlagerung, insbesondere unter Berücksichtigung ökologischer, ökonomischer und sozialer Gesichtspunkte, planen und begründen,
+
+d) Instandhaltung von Werkzeugen, Geräten, Maschinen und Fahrzeugen planen sowie
+
+e) Betriebsabläufe planen und verbessern, unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, Material sowie Werkzeugen, Geräten, Maschinen und Fahrzeugen.
+
+# § 11 – Gewichtung, Bestehen der Prüfung in Teil II
+
+(1) Bei der Berechnung des Gesamtergebnisses der Prüfung in Teil II der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden die Bewertungen der Handlungsfelder nach den §§ 8 bis 10 gleich gewichtet.
+
+(2) Wurden in höchstens zwei der drei Handlungsfelder jeweils mindestens 30 und weniger als 50 Punkte erreicht, so kann in einem dieser Handlungsfelder eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese für das Bestehen der Prüfung in Teil II der Meisterprüfung ausschlaggebend ist.
+
+(3) Der Prüfling hat den Teil II der Meisterprüfung bestanden, wenn
+
+1. jedes der drei Handlungsfelder mit mindestens 30 Punkten bewertet worden ist,
+
+2. nach durchgeführter Ergänzungsprüfung nach Absatz 2 höchstens ein Handlungsfeld mit weniger als 50 Punkten bewertet worden ist und
+
+3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
+
+# § 12 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
-(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
-# § 9 – Übergangsvorschrift
+# § 13 – Übergangsvorschrift
 
-Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen worden ist, ist nach den bis zum Ablauf dieses Tages geltenden Vorschriften durch den nach § 47 der Handwerksordnung errichteten Meisterprüfungsausschuss fortzuführen.
+(1) Die bis zum Ablauf des 30. Juni 2024 begonnenen Prüfungsverfahren werden nach den Vorschriften für die Raumausstattermeisterverordnung vom 18. Juni 2008 (BGBl. I S. 1087), die zuletzt durch Artikel 2 Absatz 66 der Verordnung vom 18. Januar 2022 (BGBl. I S. 39) geändert worden ist, zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 31. Dezember 2024, so sind auf Verlangen des Prüflings die bis zum Ablauf des 30. Juni 2024 geltenden Vorschriften weiter anzuwenden.
 
-# § 10 – Inkrafttreten, Außerkrafttreten
+(2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 30. Juni 2024 geltenden Vorschriften nicht bestanden haben und sich bis zum 30. Juni 2026 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum Ablauf des 30. Juni 2024 geltenden Vorschriften ablegen.
 
-Diese Verordnung tritt am 1. Oktober 2008 in Kraft.
+# § 14 – Inkrafttreten, Außerkrafttreten
+
+Diese Verordnung tritt am 1. Juli 2024 in Kraft. Gleichzeitig tritt die Raumausstattermeisterverordnung vom 18. Juni 2008 (BGBl. I S. 1087), die zuletzt durch Artikel 2 Absatz 66 der Verordnung vom 18. Januar 2022 (BGBl. I S. 39) geändert worden ist, außer Kraft.

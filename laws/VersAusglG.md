@@ -153,7 +153,7 @@ Der Versorgungsträger kann die bei der internen Teilung entstehenden Kosten jew
 
 (2) Anrechte aus einem Beamtenverhältnis auf Widerruf sowie aus einem Dienstverhältnis einer Soldatin oder eines Soldaten auf Zeit sind stets durch Begründung eines Anrechts in der gesetzlichen Rentenversicherung auszugleichen.
 
-(3) Das Familiengericht ordnet an, den Ausgleichswert in Entgeltpunkte umzurechnen. Wurde das Anrecht im Beitrittsgebiet erworben, ist die Umrechnung in Entgeltpunkte (Ost) anzuordnen.
+(3) Das Familiengericht ordnet an, den Ausgleichswert in Entgeltpunkte umzurechnen.
 
 # § 17 – Besondere Fälle der externen Teilung von Betriebsrenten
 
@@ -399,7 +399,7 @@ Führt weder die unmittelbare Bewertung noch die zeitratierliche Bewertung zu ei
 
 (1) Für Anrechte aus der gesetzlichen Rentenversicherung gelten die Grundsätze der unmittelbaren Bewertung.
 
-(2) Soweit das Anrecht auf eine abzuschmelzende Leistung nach § 19 Abs. 2 Nr. 2 gerichtet ist, ist der Ehezeitanteil für Ausgleichsansprüche nach der Scheidung nach dem Verhältnis der auf die Ehezeit entfallenden Entgeltpunkte (Ost) zu den gesamten Entgeltpunkten (Ost) zu bestimmen.
+(2) Soweit das Anrecht auf eine abzuschmelzende Leistung nach § 19 Abs. 2 Nr. 2 gerichtet ist, ist der Ehezeitanteil für Ausgleichsansprüche nach der Scheidung nach dem Verhältnis der auf die Ehezeit entfallenden Entgeltpunkte zu den gesamten Entgeltpunkten zu bestimmen.
 
 (3) Besondere Wartezeiten sind nur dann werterhöhend zu berücksichtigen, wenn die hierfür erforderlichen Zeiten bereits erfüllt sind.
 

@@ -31,11 +31,11 @@ soweit dies nicht auf Grund anderer Vorschriften besonders geregelt ist.
 
 (2) „STCW-Code“ bedeutet die mit Entschließung 2 zur Schlussakte der Konferenz der Mitgliedstaaten der Internationalen Seeschifffahrts-Organisation am 7. Juli 1995 angenommenen Änderungen der Anlage zum STCW-Übereinkommen (BGBl. 1997 II S. 1118) in der jeweils geltenden Fassung.
 
-(3) „IGF-Code“ bedeutet der Internationale Code für die Sicherheit von Schiffen, die Gase oder andere Brennstoffe mit niedrigem Flammpunkt verwenden (VkBl. 2016 S. 655, Sonderband C 8151), nach der Begriffsbestimmung in der Regel II-1.2.29 des Internationalen Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See mit Anlage und Anhang sowie Protokolle von 1978 und 1988 zu diesem Übereinkommen (SOLAS) (BGBl. 1979 II S. 141; 1980 II S. 525; 1983 II S. 784; 1994 II S. 2458 sowie Anlageband zum BGBl. II Nr. 44 vom 27. September 1994, S. 43) in der jeweils geltenden Fassung.
+(3) „IGF-Code“ bedeutet der Internationale Code für die Sicherheit von Schiffen, die Gase oder andere Brennstoffe mit niedrigem Flammpunkt verwenden (VkBl. 2016 S. 655, Sonderband C 8151), nach der Begriffsbestimmung in der Regel II-1.2.28 des Internationalen Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See mit Anlage und Anhang sowie Protokolle von 1978 und 1988 zu diesem Übereinkommen (SOLAS) (BGBl. 1979 II S. 141; 1980 II S. 525; 1983 II S. 784; 1994 II S. 2458 sowie Anlageband zum BGBl. II Nr. 44 vom 27. September 1994, S. 43) in der jeweils geltenden Fassung.
 
 (4) „Polar-Code“ bedeutet der Internationale Code für Schiffe, die in Polargewässern verkehren, nach den Begriffsbestimmungen in SOLAS-Regel XIV/1.1; „Polargewässer“ bedeutet arktische Gewässer und/oder das Antarktisgebiet nach den Begriffsbestimmungen in den SOLAS-Regeln XIV/1.2 bis XIV1.4 (VkBl. 2015 S. 843, Sonderband C 8146) in der jeweils geltenden Fassung.
 
-(5) „ISPS-Code“ bedeutet der am 12. Dezember 2020 durch die Entschließung 2 der Konferenz der Vertragsregierungen des Internationalen Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See (SOLAS) beschlossene Internationale Code für die Gefahrenabwehr auf Schiffen in Hafenanlagen (BGBl. 2003 II S. 2018) in der jeweils geltenden Fassung.
+(5) „ISPS-Code“ bedeutet der am 12. Dezember 2020 durch die Entschließung 2 der Konferenz der Vertragsregierungen des Internationalen Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See (SOLAS) beschlossene Internationale Code für die Gefahrenabwehr auf Schiffen und in Hafenanlagen (BGBl. 2003 II S. 2018) in der jeweils geltenden Fassung.
 
 (6) Im Sinne dieser Verordnung bedeutet der Ausdruck
 
@@ -103,9 +103,9 @@ Im Falle des Satzes 1 Nummer 20 verläuft bei Fahrzeugen, die mit Kielfall entwo
 
 4. für die Herausgabe von Ausbildungsberichtsheften, soweit dies nach dieser Verordnung erforderlich ist,
 
-5. vorbehaltlich des Absatzes 5 Satz 1 Nummer 1 für die Feststellung, ob Ausbildungen in der Metallbearbeitung und Elektrotechnik den Anforderungen genügen, und
+5. vorbehaltlich des Absatzes 5 Satz 1 Nummer 1 für die Feststellung, ob Ausbildungen in der Metallbearbeitung und Elektrotechnik den Anforderungen genügen,
 
-6. für die Erteilung des Nachweises über eine berufliche Tätigkeit in der Seeschifffahrt.
+6. für die Erteilung des Nachweises über eine berufliche Tätigkeit in der Seeschifffahrt,
 
 7. für die Überwachung der Durchführung der praktischen Ausbildung und Seefahrtzeit nach § 31 Absatz 2 Nummer 2, § 40 Absatz 2 Nummer 2 und § 42 Absatz 4 Nummer 2, und
 
@@ -323,7 +323,7 @@ nachweist.
 
 4. hinsichtlich der Befähigung, Beaufsichtigung und Überwachung der Ausbilder und der Verantwortlichen für die Ausbildung und Befähigungsbewertung die Einhaltung der Regel I/6,
 
-5. hinsichtlich der Überprüfung der fachlichen Kenntnisse und Fähigkeiten der Bewerber sowie hinsichtlich der Befähigungsbewertung die Einhaltung der Regel I/6,
+5. hinsichtlich der Überprüfung der fachlichen Kenntnisse und Fähigkeiten der Bewerber sowie hinsichtlich der Befähigungsbewertung die Einhaltung der Regel I/6.
 
 (2) Die jeweiligen Anforderungen zur Gewährleistung des Schutzes des menschlichen Lebens auf See und der Meeresumwelt hinsichtlich der Ausbildung und Befähigung für den nautischen Schiffsdienst auf Fischereifahrzeugen gelten für die Erteilung von Befähigungszeugnissen im Sinne des § 2 Absatz 2 des Seeaufgabengesetzes als erfüllt, wenn keine konkret begründeten Beanstandungen entgegenstehen und die Einhaltung der entsprechenden Vorschriften dieser Verordnung und die sinngemäße Anwendung des Absatzes 1 gewährleistet sind.
 
@@ -345,7 +345,7 @@ nachweist.
 
 # § 13 – (weggefallen)
 
-# § 14 – Aussetzen der Anerkennung als Berufseingangsprüfungen
+# § 14 – Aufhebung der Anerkennung als Berufseingangsprüfungen
 
 Liegen dem Bundesministerium für Verkehr und digitale Infrastruktur oder dem Bundesamt begründete Beanstandungen darüber vor oder wird die Bundesrepublik Deutschland davon unterrichtet, dass ein anderer Staat oder die Internationale Seeschifffahrts-Organisation die Anforderungen der §§ 10 bis 12 nicht für erfüllt halten, so kann die Anerkennung einer Abschlussprüfung als Berufseingangsprüfung aufgehoben werden. Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes gelten entsprechend.
 
@@ -1113,7 +1113,7 @@ Zuständigkeiten und Befugnisse nach Maßgabe des Seesicherheits-Untersuchungs-G
 
 1. der Inhaber einer gültigen Bescheinigung nach dieser Verordnung,
 
-2. jedes sonstige Besatzungsmitglied auf einem Kauffahrteischiff, das die Bundesflagge führt.
+2. jedes sonstige Besatzungsmitglied auf einem Kauffahrteischiff, das die Bundesflagge führt,
 
 3. Fachschüler oder Hochschulstudenten, die an nach Landesrecht eingerichteten Ausbildungsstätten ausgebildet werden und zu diesem Zweck eine praktische Ausbildung und Seefahrtzeit auf einem Schiff durchführen,
 
