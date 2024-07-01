@@ -3058,6 +3058,7 @@
 - [KAGG/GewOErgG](laws/KAGG_GewOErgG.md) Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften und der Gewerbeordnung
 - [KakaoV 2003](laws/KakaoV_2003.md) Verordnung über Kakao- und Schokoladenerzeugnisse
 - [KanalStTO 2010](laws/KanalStTO_2010.md) Verordnung über die Entgelte der Kanalsteurer auf dem Nord-Ostsee-Kanal
+- [KAnG](laws/KAnG.md) Bundes-Klimaanpassungsgesetz
 - [KapAusstV](laws/KapAusstV.md) Verordnung über die Kapitalausstattung von Versicherungsunternehmen
 - [KapErhStG](laws/KapErhStG.md) Gesetz über steuerrechtliche Maßnahmen bei Erhöhung des Nennkapitals aus Gesellschaftsmitteln
 - [KapErhStG§8Abs1DV](laws/KapErhStG§8Abs1DV.md) Verordnung zur Durchführung des § 8 Abs. 1 des Gesetzes über steuerrechtliche Maßnahmen bei Erhöhung des Nennkapitals aus Gesellschaftsmitteln und bei Überlassung von eigenen Aktien an Arbeitnehmer
@@ -3573,6 +3574,7 @@
 - [LuftVStG](laws/LuftVStG.md) Luftverkehrsteuergesetz
 - [LuftVStG§19Abs3u5Bek 2020](laws/LuftVStG§19Abs3u5Bek_2020.md) Bekanntmachung nach § 19 Absatz 3 Satz 2 und 3 sowie nach § 19 Absatz 5 Satz 2 und 3 des Luftverkehrsteuergesetzes
 - [LuftVZO](laws/LuftVZO.md) Luftverkehrs-Zulassungs-Ordnung
+- [LuKrFrühErkV](laws/LuKrFrühErkV.md) Verordnung über die Zulässigkeit der Anwendung der Niedrigdosis-Computertomographie zur Früherkennung von Lungenkrebs bei rauchenden Personen 1
 - [LVANDZustÄndG](laws/LVANDZustÄndG.md) Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicherungsanstalten in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes
 - [LwAltschG](laws/LwAltschG.md) Gesetz zur Änderung der Regelungen über Altschulden landwirtschaftlicher Unternehmen
 - [LwAltschV](laws/LwAltschV.md) Verordnung zur Durchführung des Landwirtschafts-Altschuldengesetzes
@@ -4560,6 +4562,7 @@
 - [PostUmwG](laws/PostUmwG.md) Gesetz zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft
 - [PostZahlÜbk](laws/PostZahlÜbk.md) Postzahlungsdienste-Übereinkommen
 - [PostZtgAbk 1984](laws/PostZtgAbk_1984.md) Postzeitungsabkommen
+- [PPBV](laws/PPBV.md) Verordnung über die Grundsätze der Personalbedarfsbemessung in der stationären Krankenpflege
 - [PPeKDAV](laws/PPeKDAV.md) Verordnung zur automatisierten Datenübermittlung und zu automatisierten Datenabrufen aus den Pass-, den Personalausweis- und den eID-Karte-Registern
 - [PpUGV](laws/PpUGV.md) Verordnung zur Festlegung von Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern für das Jahr 2021
 - [PräzwMechMstrV](laws/PräzwMechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Präzisionswerkzeugmechaniker-Handwerk
@@ -4646,7 +4649,7 @@
 - [RamsarKonv](laws/RamsarKonv.md) Übereinkommen über Feuchtgebiete, insbesondere als Lebensraum für Wasser- und Watvögel von internationaler Bedeutung
 - [RAÜG](laws/RAÜG.md) Gesetz zur Übertragung von Verwaltungsaufgaben auf dem Gebiet der Raumfahrt
 - [RaumAAusbV 2004](laws/RaumAAusbV_2004.md) Verordnung über die Berufsausbildung zum Raumausstatter/zur Raumausstatterin
-- [RaumausMstrV](laws/RaumausMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Raumausstatter-Handwerk
+- [RaumausMstrV](laws/RaumausMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Raumausstatter-Handwerk
 - [RAuskÜbk](laws/RAuskÜbk.md) Europäisches Übereinkommen betreffend Auskünfte über ausländisches Recht
 - [RAuskÜbkZProt](laws/RAuskÜbkZProt.md) Zusatzprotokoll zum Europäischen Übereinkommen betreffend Auskünfte über ausländisches Recht
 - [RAuskÜbkZProtG](laws/RAuskÜbkZProtG.md) Gesetz zum Zusatzprotokoll vom 15. März 1978 zum Europäischen Übereinkommen betreffend Auskünfte über ausländisches Recht
@@ -4704,7 +4707,6 @@
 - [RegMoG](laws/RegMoG.md) Gesetz zur Einführung und Verwendung einer Identifikationsnummer in der öffentlichen Verwaltung und zur Änderung weiterer Gesetze
 - [RegZensErpG](laws/RegZensErpG.md) Gesetz zur Erprobung von Verfahren eines Registerzensus
 - [RehaErstV](laws/RehaErstV.md) Verordnung über die pauschale Erstattung von Ausgaben der Träger der Rentenversicherung für Leistungen zur Rehabilitation
-- [ReHV](laws/ReHV.md) Verordnung zur Ausgestaltung des Hilfsfonds des Bundes für Rehabilitation und Teilhabe
 - [ReifKennzV](laws/ReifKennzV.md) Verordnung zur Durchführung der Verordnung (EU) 2020/740 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere Parameter
 - [ReiseKfmAusbV 2011](laws/ReiseKfmAusbV_2011.md) Verordnung über die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen)*)
 - [REITG](laws/REITG.md) Gesetz über deutsche Immobilien-Aktiengesellschaften mit börsennotierten Anteilen
@@ -4866,6 +4868,7 @@
 - [RWBestV 2020](laws/RWBestV_2020.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2020
 - [RWBestV 2021](laws/RWBestV_2021.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2021
 - [RWBestV 2023](laws/RWBestV_2023.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2023
+- [RWBestV 2024](laws/RWBestV_2024.md) Verordnung zur Bestimmung des Rentenwerts in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2024
 - [RZV](laws/RZV.md) Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums
 - [SAA MNE](laws/SAA_MNE.md) Stabilisierungs- und Assoziierungsabkommen zwischen den Europäischen Gemeinschaften und ihren Mitgliedstaaten einerseits und der Republik Montenegro andererseits
 - [SaarGlV](laws/SaarGlV.md) Verordnung über die Gleichstellung von aus dem Saargebiet verdrängten Deutschen
@@ -5178,7 +5181,6 @@
 - [SolvV](laws/SolvV.md) Verordnung zur angemessenen Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen 1
 - [SolZG](laws/SolZG.md) Solidaritätszuschlaggesetz
 - [SolzG 1995](laws/SolzG_1995.md) Solidaritätszuschlaggesetz 1995
-- [SommerGetrSaatV 2024](laws/SommerGetrSaatV_2024.md) Verordnung über besondere Anforderungen an Saatgut von Sommergetreide im Rahmen der Saatgutanerkennung 2024
 - [SonnenblV](laws/SonnenblV.md) Verordnung über besondere Anforderungen an Saatgut von Sonnenblumen im Rahmen der Saatgutanerkennung 2009
 - [SonntRPapIndAusnV](laws/SonntRPapIndAusnV.md) Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen in der Papierindustrie
 - [SonntRStIndAusnV](laws/SonntRStIndAusnV.md) Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen in der Eisen- und Stahlindustrie
@@ -5538,6 +5540,7 @@
 - [SVFAG](laws/SVFAG.md) Gesetz über Fremdrenten der Sozialversicherung an Berechtigte im Bundesgebiet und im Land Berlin, über Leistungen der Sozialversicherung an Berechtigte im Ausland sowie über freiwillige Sozialversicherung
 - [SVFAngAusbV 1997](laws/SVFAngAusbV_1997.md) Verordnung über die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten
 - [SVG](laws/SVG.md) Gesetz über die Versorgung für die früheren Soldaten der Bundeswehr und ihre Hinterbliebenen
+- [SVG-KOV-AnpV 2024](laws/SVG-KOV-AnpV_2024.md) Verordnung zur Anpassung des Bemessungsbetrages und von Geldleistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz
 - [SVG§63V](laws/SVG§63V.md) Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes*
 - [SVHV](laws/SVHV.md) Verordnung über das Haushaltswesen in der Sozialversicherung
 - [SVkAbk CHE](laws/SVkAbk_CHE.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem schweizerischen Bundesrat über die Abschaffung des Sichtvermerkszwangs für Flüchtlinge
@@ -6061,7 +6064,6 @@
 - [VollstrZustÜbk2007Prot2ÜG](laws/VollstrZustÜbk2007Prot2ÜG.md) Gesetz über die Übermittlung gerichtlicher Entscheidungen nach dem Protokoll 2 zum Übereinkommen vom 30. Oktober 2007 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen
 - [VollstrZustÜbkProt](laws/VollstrZustÜbkProt.md) Protokoll betreffend die Auslegung des Übereinkommens vom 27. September 1968 über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen durch den Gerichtshof
 - [VorgV](laws/VorgV.md) Verordnung über die Regelung des militärischen Vorgesetztenverhältnisses
-- [VorlPflSchMAnwV](laws/VorlPflSchMAnwV.md) Verordnung zur vorläufigen Regelung der Anwendung bestimmter Pflanzenschutzmittel
 - [Vorsorg/RehaSiVbgVerlV](laws/Vorsorg_RehaSiVbgVerlV.md) Verordnung zur Verlängerung des Zeitraums für Vereinbarungen zur wirtschaftlichen Sicherung der Vorsorge- und Rehabilitationseinrichtungen
 - [VReformG](laws/VReformG.md) Gesetz zur Umsetzung des Versorgungsberichts
 - [VRegV](laws/VRegV.md) Verordnung über das Zentrale Vorsorgeregister

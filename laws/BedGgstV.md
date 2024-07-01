@@ -89,6 +89,22 @@ Zubereitungen zum Einfärben von Lebensmittelbedarfsgegenständen sowie Dekorfar
 
 (+++ § 2 Satzt 1 Nr. 7 bis 13, Satz 2 u. 3: Zur Anwendung vgl. § 16 Abs. 16 +++)
 
+# § 2a – Anzeige
+
+(1) Unternehmer, die Lebensmittelbedarfsgegenstände als Fertigerzeugnis herstellen, behandeln oder in den Verkehr bringen, haben dies spätestens bei Aufnahme der Tätigkeit gemäß Absatz 2 der für den jeweiligen Betrieb zuständigen Behörde anzuzeigen. Satz 1 gilt nicht für Lebensmittelunternehmer, die Lebensmittelbedarfsgegenstände herstellen, behandeln oder in den Verkehr bringen, sofern der jeweilige Betrieb bereits nach Artikel 6 Absatz 2 der Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über Lebensmittelhygiene (ABl. L 139 vom 30.4.2004, S. 1; L 226 vom 25.6.2004, S. 3; L 46 vom 21.2.2008, S. 51; L 58 vom 3.3.2009, S. 3), die zuletzt durch die Verordnung (EU) 2021/382 geändert worden ist, von der zuständigen Behörde registriert worden ist. Die Ausnahme nach Satz 2 gilt entsprechend für die in Artikel 1 Absatz 2 Buchstabe c der Verordnung (EG) Nr. 852/2004 aufgeführten Erzeuger.
+
+(2) Die Anzeige nach Absatz 1 Satz 1 muss die folgenden Angaben umfassen:
+
+1. den Namen, die Anschrift und die Rechtsform des mit dem Herstellen, Behandeln oder Inverkehrbringen befassten Unternehmens sowie des verantwortlichen Unternehmers,
+
+2. die Bezeichnung und die Anschrift des jeweiligen Betriebes,
+
+3. die Art der Tätigkeit des anzeigenden Unternehmens einschließlich der im Wege der Fernkommunikation durchgeführten Tätigkeiten sowie
+
+4. die Gruppe der Materialien und Gegenstände nach Anhang I der Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments und des Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen und zur Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. L 338 vom 13.11.2004, S. 4), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, die den Hauptbestandteil der hergestellten, behandelten oder in den Verkehr gebrachten Lebensmittelbedarfsgegenstände darstellt.
+
+(3) Der Unternehmer hat Änderungen der Angaben nach Absatz 2 der zuständigen Behörde spätestens sechs Monate nach Eintritt der Änderung mitzuteilen, wenn die Änderung zu diesem Zeitpunkt noch besteht.
+
 # § 3 – Verbotene Stoffe
 
 Bei dem gewerbsmäßigen Herstellen oder Behandeln der in Anlage 1 aufgeführten Bedarfsgegenstände dürfen die dort genannten Stoffe nicht verwendet werden.
@@ -111,7 +127,7 @@ Bei dem gewerbsmäßigen Herstellen oder Behandeln der in Anlage 1 aufgeführten
 
 nur die in Anhang I Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar 2013 geltenden Fassung aufgeführten Stoffe unter Einhaltung der Beschränkungen und Spezifikationen nach Anhang I Nummer 1 Tabelle 1 Spalte 10 und Nummer 4 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar 2013 geltenden Fassung verwendet werden. Die Stoffe dürfen nur verwendet werden, wenn sie den allgemeinen Anforderungen nach Artikel 8 Satz 1 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung entsprechen. Artikel 6 Absatz 3 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung gilt entsprechend.
 
-(3) Abweichend von Absatz 2 dürfen bei dem gewerbsmäßigen Herstellen von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung als Additive auch die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments und des Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen und zur Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. L 338 vom 13.11.2004, S. 4), die zuletzt durch die Verordnung (EU) 2019/131 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, dem nicht entgegensteht.
+(3) Abweichend von Absatz 2 dürfen bei dem gewerbsmäßigen Herstellen von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung als Additive auch die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1935/2004 dem nicht entgegensteht.
 
 (4) Bei dem gewerbsmäßigen Herstellen von Materialien und Gegenständen aus Kunststoff im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) Nr. 10/2011 dürfen neben den nach Anhang I der Verordnung (EU) Nr. 10/2011 zugelassenen Zusatzstoffen als Additive auch die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1935/2004 dem nicht entgegensteht.
 
@@ -166,7 +182,9 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
 3. in Anlage 5 aufgeführte Bedarfsgegenstände, wenn sie die dort in Spalte 3 genannten Stoffe über die in Spalte 4 festgesetzten Höchstmengen hinaus enthalten,
 
-4. in Anlage 5a aufgeführte Bedarfsgegenstände, wenn sie die in Spalte 3 dieser Anlage aufgeführten Stoffe über die in Spalte 4 festgesetzten Höchstmengen nach den dort genannten Maßgaben freisetzen.
+4. in Anlage 5a aufgeführte Bedarfsgegenstände, wenn sie die in Spalte 3 dieser Anlage aufgeführten Stoffe über die in Spalte 4 festgesetzten Höchstmengen nach den dort genannten Maßgaben freisetzen,
+
+5. Lebensmittelbedarfsgegenstände, auf die Lacke oder Beschichtungen aufgebracht worden sind, die den in Artikel 2 Absatz 1 und 2 der Verordnung (EU) 2018/213 der Kommission vom 12. Februar 2018 über die Verwendung von Bisphenol A in Lacken und Beschichtungen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur Änderung der Verordnung (EU) Nr. 10/2011 hinsichtlich der Verwendung dieses Stoffes in Lebensmittelkontaktmaterialien aus Kunststoff (ABl. L 41 vom 14.2.2018, S. 6) festgesetzten Anforderungen an die Migration von 2,2-Bis-(4-hydroxyphenyl)-propan nicht entsprechen.
 
 Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im Sinne des § 2 Nr. 2 Buchstabe c besteht.
 
@@ -227,6 +245,8 @@ Darüber hinaus müssen der Hersteller oder der Einführer für Zwecke der Über
 (3) Die in Anlage 9 aufgeführten Bedarfsgegenstände dürfen gewerbsmäßig an Verbraucherinnen oder Verbraucher nur abgegeben werden, wenn die in Spalte 3 aufgeführten Angaben an den in Spalte 4 vorgesehenen Stellen unverwischbar, deutlich sichtbar, leicht lesbar und in deutscher Sprache angebracht sind.
 
 (4) Wer Bedarfsgegenstände in Verkehr bringt, hat die Angaben nach Artikel 15 Abs. 1 Buchstabe a und b der Verordnung (EG) Nr. 1935/2004 in deutscher Sprache anzubringen.
+
+(5) Die in Artikel 4 Absatz 1 Satz 1 der Verordnung (EU) 2018/213 bezeichneten Materialien und Gegenstände dürfen nur in den Verkehr gebracht werden, wenn ihnen die in Artikel 4 Absatz 1 Satz 1 der Verordnung (EU) 2018/213 genannte schriftliche Konformitätserklärung in deutscher Sprache beigefügt ist und diese den Anforderungen des Anhangs 1, auch in Verbindung mit Artikel 4 Absatz 2, der Verordnung (EU) 2018/213 entspricht.
 
 # § 10a – Kennzeichnung von Schuherzeugnissen
 
@@ -308,17 +328,19 @@ b) entgegen Artikel 4 bei der Herstellung der dort genannten Materialien oder Ge
 
 (6) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 10 Absatz 1a Satz 1, auch in Verbindung mit Absatz 2, oder Absatz 2a Satz 1 einen Lebensmittelbedarfsgegenstand gewerbsmäßig in den Verkehr bringt,
+1. entgegen § 2a Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-2. (weggefallen)
+2. entgegen § 2a Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-3. entgegen § 10 Absatz 2 Satz 3 und 4 Nachweise nicht, nicht richtig oder nicht vollständig vorhält,
+3. entgegen § 10 Absatz 1a Satz 1, auch in Verbindung mit Absatz 2, oder Absatz 2a Satz 1 oder Absatz 5 einen Lebensmittelbedarfsgegenstand oder dort genannte Materialien in den Verkehr bringt,
 
-4. entgegen § 10 Absatz 3 einen Bedarfsgegenstand abgibt,
+4. entgegen § 10 Absatz 2 Satz 3 und 4 Nachweise nicht, nicht richtig oder nicht vollständig vorhält,
 
-5. entgegen § 10 Absatz 4 eine Angabe nicht in deutscher Sprache anbringt oder
+5. entgegen § 10 Absatz 3 einen Bedarfsgegenstand abgibt,
 
-6. entgegen § 10a Absatz 1 Satz 1 oder 2 ein Schuherzeugnis nicht mit den vorgeschriebenen Angaben versieht oder entgegen § 10a Absatz 1 Satz 3 die Anbringung der vorgeschriebenen Kennzeichnung nicht sicherstellt.
+6. entgegen § 10 Absatz 4 eine Angabe nicht in deutscher Sprache anbringt oder
+
+7. entgegen § 10a Absatz 1 Satz 1 oder 2 ein Schuherzeugnis nicht mit den vorgeschriebenen Angaben versieht oder entgegen § 10a Absatz 1 Satz 3 die Anbringung der vorgeschriebenen Kennzeichnung nicht sicherstellt.
 
 (7) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
@@ -328,7 +350,7 @@ a) entgegen Artikel 15 Absatz 1 in Verbindung mit Absatz 3 Materialien oder Gege
 
 b) entgegen Artikel 17 Absatz 2 Satz 1 nicht über ein System oder Verfahren verfügt oder
 
-c) als Unternehmer entgegen Artikel 17 Absatz 2 Satz 2 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
+c) als Unternehmer entgegen Artikel 17 Absatz 2 Satz 2 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
 2. gegen die Verordnung (EG) Nr. 2023/2006 der Kommission vom 22. Dezember 2006 über gute Herstellungspraxis für Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 384 vom 29.12.2006, S. 75), die durch die Verordnung (EG) Nr. 282/2008 (ABl. L 86 vom 28.3.2008, S. 9) geändert worden ist, verstößt, indem er
 
@@ -336,13 +358,15 @@ a) entgegen Artikel 4 Buchstabe b in Verbindung mit Anhang Buchstabe A nicht sic
 
 b) entgegen Artikel 7 Absatz 1 oder Absatz 2 eine dort genannte Unterlage nicht, nicht richtig oder nicht vollständig führt oder
 
-c) entgegen Artikel 7 Absatz 3 die Dokumentation den zuständigen Behörden nicht oder nicht rechtzeitig zugänglich macht oder
+c) entgegen Artikel 7 Absatz 3 die Dokumentation den zuständigen Behörden nicht oder nicht rechtzeitig zugänglich macht,
 
 3. gegen die Verordnung (EG) Nr. 450/2009 verstößt, indem er
 
 a) entgegen Artikel 4 Buchstabe f in Verbindung mit Artikel 12 Absatz 1 und 2 Materialien und Gegenstände in Verkehr bringt oder
 
-b) entgegen Artikel 13 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
+b) entgegen Artikel 13 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt oder
+
+4. entgegen Artikel 4 Absatz 3 Satz 1 der Verordnung (EU) 2018/213 der Kommission vom 12. Februar 2018 über die Verwendung von Bisphenol A in Lacken und Beschichtungen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur Änderung der Verordnung (EU) Nr. 10/2011 hinsichtlich der Verwendung dieses Stoffes in Lebensmittelkontaktmaterialien aus Kunststoff (ABl. L 41 vom 14.2.2018, S. 6) eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
 (+++ § 12 Abs. 2 Nr. 3: Zur Anwendung vgl. § 16 Abs. 16 +++)
 
@@ -405,6 +429,8 @@ kann weiterhin in Verkehr gebracht werden, soweit das Abfülldatum auf dem Leben
 (17) In § 4 Absatz 7 Satz 4 bezeichnete, unter Verwendung von in Anlage 14 Tabelle 2 genannten Pigmenten bedruckte Lebensmittelbedarfsgegenstände, die nach den bis zum Ablauf des 31. Dezember 2026 geltenden Vorschriften in den Verkehr gebracht worden sind, dürfen auch nach diesem Datum noch bis zum Abbau der Bestände nach Maßgabe dieser Vorschriften in den Verkehr gebracht werden.
 
 (18) § 4 Absatz 9 in Verbindung mit Anlage 14 Tabelle 2 ist ab dem 1. Januar 2027 nicht mehr anzuwenden.
+
+(19) Abweichend von § 2a Absatz 1 Satz 1 haben Unternehmer, die ihre Tätigkeit bereits vor dem 1. Juli 2024 aufgenommen haben, die Anzeige bis zum 31. Oktober 2024 an die zuständige Behörde zu übermitteln.
 
 # § 17 – (Inkrafttreten)
 

@@ -494,7 +494,7 @@ verwendet werden.
 
 (3) Packungen mit Tabakwaren, die verschiedenen Steuersätzen unterliegen, sind unzulässig. Auf allen Packungen muss deutlich lesbar die Menge angegeben sein. Ausgenommen sind Packungen mit Zigaretten und Rauchtabak, an denen Steuerzeichen angebracht sind.
 
-(4) Für Rauchtabak sind nur Packungen zulässig, deren Inhalte nicht auf Bruchteile eines Gramms lauten. Bei Substituten für Tabakwaren sind bei Packungsinhalten bis zu 5 Milliliter nur Packungen zulässig, deren Inhalte auf nicht mehr als eine Dezimalstelle lauten. Andere Packungen sind nur zulässig, wenn deren Inhalte nicht auf Bruchteile eines Milliliters lauten. Für Wasserpfeifentabak nach § 1 Absatz 2b des Gesetzes sind nur Packungen mit einer Menge bis zu 25 Gramm zulässig.
+(4) Für Rauchtabak sind nur Packungen zulässig, deren Inhalte nicht auf Bruchteile eines Gramms lauten. Bei Substituten für Tabakwaren sind bei Packungsinhalten bis zu 5 Milliliter nur Packungen zulässig, deren Inhalte auf nicht mehr als eine Dezimalstelle lauten. Andere Packungen sind nur zulässig, wenn deren Inhalte nicht auf Bruchteile eines Milliliters lauten.
 
 (5) Die Packungen dürfen unterteilt sein. Allseitige Verpackungen von Teilmengen sind jedoch nur zulässig für
 

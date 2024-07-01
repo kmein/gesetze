@@ -1380,15 +1380,15 @@ Für die Erbringer von Leistungen bei Pflegebedürftigkeit gelten die §§ 104 b
 
 (1) Geschädigte erhalten eine monatliche Entschädigungszahlung von
 
-1. 400 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
+1. 418 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
 
-2. 800 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
+2. 837 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
 
-3. 1 200 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3. 1 255 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
-4. 1 600 Euro bei einem Grad der Schädigungsfolgen von 90,
+4. 1 673 Euro bei einem Grad der Schädigungsfolgen von 90,
 
-5. 2 000 Euro bei einem Grad der Schädigungsfolgen von 100.
+5. 2 091 Euro bei einem Grad der Schädigungsfolgen von 100.
 
 (2) Die monatliche Entschädigungszahlung nach Absatz 1 Nummer 5 erhöht sich für Geschädigte mit schwersten Schädigungsfolgen um 20 Prozent.
 
@@ -1406,8 +1406,6 @@ Für die Erbringer von Leistungen bei Pflegebedürftigkeit gelten die §§ 104 b
 
 eine weitere wesentliche Schädigungsfolge vorliegt, so dass der Leidenszustand vergleichbar außergewöhnlich ist wie bei den Geschädigten nach Satz 1. Schwerste Schädigungsfolgen können auch andere Geschädigte mit einem GdS von 100 haben, wenn deren außergewöhnlicher Leidenszustand vergleichbar ist mit den Geschädigten nach Satz 1.
 
-(+++ § 83: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
-
 # § 84 – Abfindung
 
 (1) Geschädigte, die einen Anspruch auf eine monatliche Entschädigungszahlung nach § 83 Absatz 1 Nummer 1 bis 5 haben, erhalten auf Antrag eine Abfindung. Der Antrag ist innerhalb eines Jahres nach Bewilligung der Entschädigungszahlung zu stellen.
@@ -1420,29 +1418,25 @@ eine weitere wesentliche Schädigungsfolge vorliegt, so dass der Leidenszustand 
 
 # § 85 – Monatliche Entschädigungszahlung an Witwen und Witwer sowie an Partner einer eheähnlichen Gemeinschaft
 
-(1) Eine monatliche Entschädigungszahlung in Höhe von 1 055 Euro erhält die Witwe oder der Witwer des oder der schädigungsbedingt verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 50 Euro monatlich für jedes im Haushalt lebende minderjährige Kind, das eine monatliche Entschädigungszahlung für Waisen bezieht oder einen monatlichen Betrag nach § 144 Absatz 1 erhält, in dem eine Geldleistung nach § 45 Absatz 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung enthalten ist.
+(1) Eine monatliche Entschädigungszahlung in Höhe von 1 103 Euro erhält die Witwe oder der Witwer des oder der schädigungsbedingt verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 52 Euro monatlich für jedes im Haushalt lebende minderjährige Kind, das eine monatliche Entschädigungszahlung für Waisen bezieht oder einen monatlichen Betrag nach § 144 Absatz 1 erhält, in dem eine Geldleistung nach § 45 Absatz 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung enthalten ist.
 
 (2) Die monatliche Entschädigungszahlung nach Absatz 1 erhalten auch Partner einer eheähnlichen Gemeinschaft, sofern ein Partner an den Schädigungsfolgen verstorben ist und der andere unter Verzicht auf eine Erwerbstätigkeit die Betreuung eines gemeinschaftlichen Kindes ausübt. Dieser Anspruch besteht für die ersten drei Lebensjahre des Kindes.
 
 (3) Der Anspruch auf die monatliche Entschädigungszahlung erlischt, wenn Witwen oder Witwer oder überlebende Partner einer eheähnlichen Gemeinschaft heiraten.
 
-(+++ § 85: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
-
 # § 86 – Abfindung für Witwen und Witwer
 
 (1) Witwen und Witwer erhalten auf Antrag eine Abfindung anstelle der monatlichen Entschädigungszahlung. Der Antrag ist innerhalb eines Jahres nach Bewilligung der Entschädigungszahlung zu stellen.
 
-(2) Die Abfindung beträgt 126 600 Euro. Auf die Abfindung sind bereits geleistete monatliche Entschädigungszahlungen anzurechnen.
+(2) Die Abfindung beträgt 132 386 Euro. Auf die Abfindung sind bereits geleistete monatliche Entschädigungszahlungen anzurechnen.
 
 (3) Mit der Zahlung der Abfindung sind alle Ansprüche auf die monatlichen Entschädigungszahlungen abgegolten.
 
-(+++ § 86: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
-
 # § 87 – Monatliche Entschädigungszahlung an Waisen
 
-(1) Waisen eines schädigungsbedingt verstorbenen Elternteils erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 390 Euro.
+(1) Waisen eines schädigungsbedingt verstorbenen Elternteils erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 408 Euro.
 
-(2) Waisen schädigungsbedingt verstorbener Eltern erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 610 Euro.
+(2) Waisen schädigungsbedingt verstorbener Eltern erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 638 Euro.
 
 (3) Die monatlichen Entschädigungszahlungen werden gezahlt, bis die Waise 18 Jahre alt wird.
 
@@ -1451,8 +1445,6 @@ eine weitere wesentliche Schädigungsfolge vorliegt, so dass der Leidenszustand 
 1. für die Dauer einer Ausbildung, längstens bis die Waise 27 Jahre alt wird, wenn diese die Arbeitskraft der Waise überwiegend in Anspruch nimmt und nicht mit der Zahlung von Dienstbezügen, Arbeitsentgelt oder sonstigen Zuwendungen in entsprechender Höhe verbunden ist, oder
 
 2. in den Fällen des § 2 Absatz 2 mit Ausnahme des § 2 Absatz 2 Satz 1 Nummer 2 Buchstabe a des Bundeskindergeldgesetzes sowie in den Fällen des § 2 Absatz 3 des Bundeskindergeldgesetzes mit der Maßgabe, dass an die Stelle der Vollendung des 25. Lebensjahres die Vollendung des 27. Lebensjahres tritt.
-
-(+++ § 87: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 88 – Monatliche Entschädigungszahlung an hinterbliebene Eltern
 
@@ -1468,17 +1460,15 @@ frühestens jedoch von dem Monat an, in dem der oder die Geschädigte das 18. Le
 
 (2) Die monatliche Entschädigungszahlung an Eltern beträgt für jedes Kind, das an den Folgen der Schädigung gestorben ist,
 
-1. für ein noch lebendes Elternteil 250 Euro,
+1. für ein noch lebendes Elternteil 261 Euro,
 
-2. für beide Elternteile je 150 Euro.
+2. für beide Elternteile je 157 Euro.
 
 (3) Den Eltern werden gleichgestellt
 
 1. Stiefeltern oder Pflegeeltern, wenn sie die Geschädigte oder den Geschädigten vor der Schädigung unentgeltlich unterhalten haben,
 
 2. Großeltern, wenn die oder der Verstorbene ihnen Unterhalt geleistet hat oder hätte.
-
-(+++ § 88: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 89 – Voraussetzung und Höhe
 
@@ -1713,25 +1703,23 @@ Art, Ausmaß und Dauer der Besonderen Leistungen im Einzelfall richten sich nach
 
 (4) Geschädigte erhalten Einmalzahlungen in Höhe von
 
-1. 2 600 Euro bei einem Grad der Schädigungsfolgen von mindestens 30, aber weniger als 50,
+1. 2 719 Euro bei einem Grad der Schädigungsfolgen von mindestens 30, aber weniger als 50,
 
-2. 7 800 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
+2. 8 156 Euro bei einem Grad der Schädigungsfolgen von 50 bis 60,
 
-3. 13 000 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3. 13 594 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
-4. 20 800 Euro bei einem Grad der Schädigungsfolgen von 90,
+4. 21 751 Euro bei einem Grad der Schädigungsfolgen von 90,
 
-5. 28 600 Euro bei einem Grad der Schädigungsfolgen von 100.
+5. 29 907 Euro bei einem Grad der Schädigungsfolgen von 100.
 
-(5) Ist eine Person, bei der die Voraussetzungen nach Absatz 1 vorliegen, an den Folgen der Schädigung gestorben, erhalten Hinterbliebene eine Einmalzahlung. Die Einmalzahlung beträgt bei Halbwaisen 2 600 Euro, bei Vollwaisen 3 500 Euro und bei weiteren Hinterbliebenen 7 800 Euro.
+(5) Ist eine Person, bei der die Voraussetzungen nach Absatz 1 vorliegen, an den Folgen der Schädigung gestorben, erhalten Hinterbliebene eine Einmalzahlung. Die Einmalzahlung beträgt bei Halbwaisen 2 719 Euro, bei Vollwaisen 3 660 Euro und bei weiteren Hinterbliebenen 8 156 Euro.
 
 (6) Angehörige und Hinterbliebene haben Anspruch auf Leistungen der Schnellen Hilfen. Diese werden im Inland erbracht. Überführungs- und Bestattungskosten werden nach § 99 erstattet.
 
 (7) Leistungen aus anderen öffentlichen oder privaten Sicherungs- oder Versorgungssystemen sind auf die Leistungen nach den Absätzen 3 bis 6 anzurechnen. Hierzu zählen auch Leistungen aus Sicherungs- oder Versorgungssystemen, insbesondere Systemen der Opferentschädigung des Staates, in dem sich die Gewalttat ereignet hat.
 
 (8) Leistungen nach den Absätzen 2 bis 6 sind zügig zu erbringen, auch wenn im Ausland noch Verfahren anhängig sind. Sieht der ausländische Staat Leistungen für Opfer von Gewalttaten vor und hat eine berechtigte Person einen Antrag auf solche Leistungen nicht gestellt, so können Leistungen nach den Absätzen 3 bis 5 in entsprechender Anwendung der §§ 66 und 67 des Ersten Buches ganz oder teilweise versagt werden.
-
-(+++ § 102: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 103 – Leistungen für Zivildienstgeschädigte und Hinterbliebene
 
@@ -2375,9 +2363,7 @@ Witwen und Witwer erhalten einen monatlichen Pflegeausgleich, wenn
 
 4. sie nicht einen monatlichen Betrag nach § 144 Absatz 1 erhalten, in dem eine Geldleistung nach § 144 Absatz 1 Satz 2 Nummer 12 enthalten ist.
 
-Der monatliche Pflegeausgleich beträgt für jedes Jahr der über zehn Jahre hinausgehenden Pflegezeit 20 Euro. Kalendermonate, in denen die Pflege nicht unentgeltlich geleistet wurde, werden dabei nicht mitgezählt. Die anzurechnende Gesamtpflegezeit wird auf volle Jahre aufgerundet.
-
-(+++ § 147: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
+Der monatliche Pflegeausgleich beträgt für jedes Jahr der über zehn Jahre hinausgehenden Pflegezeit 21 Euro. Kalendermonate, in denen die Pflege nicht unentgeltlich geleistet wurde, werden dabei nicht mitgezählt. Die anzurechnende Gesamtpflegezeit wird auf volle Jahre aufgerundet.
 
 # § 148 – Monatliche Entschädigungszahlung für Witwen und Witwer bei nicht schädigungsbedingtem Tod
 
@@ -2413,15 +2399,13 @@ hatte.
 
 (4) Der Anspruch auf die in Absatz 2 Nummer 1 und 2 und Absatz 3 Nummer 1 und 2 genannten Leistungen muss im Zeitpunkt des Todes des Geschädigten bestanden haben.
 
-(5) Die monatliche Entschädigungszahlung beträgt 500 Euro. Sie beträgt 750 Euro für Witwen und Witwer von Geschädigten mit einem Grad der Schädigungsfolgen von 100.
+(5) Die monatliche Entschädigungszahlung beträgt 523 Euro. Sie beträgt 784 Euro für Witwen und Witwer von Geschädigten mit einem Grad der Schädigungsfolgen von 100.
 
 (6) Berechtigte nach Absatz 1 erhalten auf Antrag eine Abfindung anstelle der monatlichen Entschädigungszahlung. Der Antrag ist innerhalb eines Jahres nach Bewilligung der Entschädigungszahlung zu stellen.
 
-(7) Die Abfindung beträgt 60 000 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 1, 90 000 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 2.
+(7) Die Abfindung beträgt 62 742 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 1, 94 113 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 2.
 
 (8) Auf die Abfindung sind bereits geleistete monatliche Entschädigungszahlungen anzurechnen. Mit der Zahlung der Abfindung sind alle Ansprüche auf die monatlichen Entschädigungszahlungen bei nicht schädigungsbedingtem Tod abgegolten.
-
-(+++ § 148: Inkraft gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 +++)
 
 # § 149 – Neufeststellungen
 

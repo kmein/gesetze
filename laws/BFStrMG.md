@@ -7,7 +7,7 @@
 
 1. die für den Güterkraftverkehr bestimmt sind oder verwendet werden und
 
-2. deren technisch zulässige Gesamtmasse mindestens 7,5 Tonnen beträgt.
+2. deren technisch zulässige Gesamtmasse mehr als 3,5 Tonnen beträgt.
 
 Im Fall von Fahrzeugkombinationen besteht eine Pflicht zur Entrichtung der Maut nur, wenn das Motorfahrzeug eine technisch zulässige Gesamtmasse von mehr als 3,5 Tonnen aufweist. Die technisch zulässige Gesamtmasse einer Fahrzeugkombination im Rahmen dieses Gesetzes wird aus der Summe der technisch zulässigen Gesamtmasse der Einzelfahrzeuge berechnet.
 
@@ -29,7 +29,9 @@ Im Fall von Fahrzeugkombinationen besteht eine Pflicht zur Entrichtung der Maut 
 
 8. überwiegend mit Erdgas betriebene Fahrzeuge, die werksseitig für den Betrieb mit CNG, LNG oder als Zweistoffmotor mit LNG/Diesel ausgeliefert wurden und über eine Systemgenehmigung gemäß Verordnung VO (EG) Nr. 595/2009 verfügen, im Zeitraum vom 1. Januar 2019 bis zum 31. Dezember 2023,
 
-9. emissionsfreie Fahrzeuge im Sinne der Nummer 7 mit einer technisch zulässigen Gesamtmasse von bis zu 4,25 Tonnen.
+9. emissionsfreie Fahrzeuge im Sinne der Nummer 7 mit einer technisch zulässigen Gesamtmasse von bis zu 4,25 Tonnen,
+
+10. Fahrzeuge nach § 1 Absatz 1 Satz 2 mit einer technisch zulässigen Gesamtmasse von weniger als 7,5 Tonnen, die zur Beförderung von Material, Ausrüstungen oder Maschinen, die der Fahrer zur Ausübung seines Handwerks oder seines mit dem Handwerk vergleichbaren Berufs benötigt, oder zur Auslieferung von handwerklich hergestellten Gütern, wenn die Beförderung nicht gewerblich erfolgt, benutzt werden.
 
 Voraussetzung für die Mautbefreiung nach Satz 1 Nummer 2 bis 4 ist, dass die Fahrzeuge als für die dort genannten Zwecke bestimmt erkennbar sind. Im Fall von Fahrzeugkombinationen ist das Motorfahrzeug für die Mautbefreiung der Kombination maßgebend. Als emissionsfreie Fahrzeuge gelten auch solche Fahrzeuge mit Verbrennungsmotor, deren Primärenergieträger für die Bereitstellung der Antriebsenergie in der reinen chemischen Verbrennungsreaktion kein Kohlenstoffdioxid erzeugt. Kohlenstoffdioxid-Anteile im Abgas, die aus der Verbrennung technischer Hilfsstoffe entstehen, werden in dieser Klassifizierung nicht berücksichtigt.
 
@@ -525,6 +527,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 (9) Für Sachverhalte, die ab dem 1. Januar 2023 und bis zum Ablauf des 30. November 2023 entstanden sind, bestimmt sich der Mautsatz abweichend von § 3 Absatz 3 nach der Anlage 10. Im Rahmen der Anlage 10 ist die Straßenverkehrs-Zulassungs-Ordnung in der am 30. November 2023 geltenden Fassung anzuwenden.
 
+(10) Für Sachverhalte, die ab dem 1. Dezember 2023 und bis zum Ablauf des 30. Juni 2024 entstanden sind, bestimmt sich der Mautsatz abweichend von § 3 Absatz 3 nach der Anlage 11.
+
 # § 15 – (weggefallen)
 
 # Anlage 1 – (zu § 3 Absatz 3) Berechnung der Höhe des Mautsatzes
@@ -532,28 +536,29 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
   
   
 
-(Fundstelle: BGBl. 2023 I Nr. 315, S. 5 – 6)
+(Fundstelle: BGBl. 2023 I Nr. 315, S. 8 – 9)
 
   
   
 
-1. Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1 für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
+1. Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1 beträgt für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
 
-a) mit einer technisch zulässigen Gesamtmasse von 7,5 Tonnen bis unter 12 Tonnen unabhängig von der Anzahl der Achsen 0,067 Euro,
+a) mit einer technisch zulässigen Gesamtmasse von mehr als 3,5 Tonnen bis weniger als 7,5 Tonnen unabhängig von der Anzahl der Achsen 0,052 Euro,
 
-b) mit einer technisch zulässigen Gesamtmasse von 12 Tonnen bis 18 Tonnen unabhängig von der Anzahl der Achsen 0,109 Euro,
+b) mit einer technisch zulässigen Gesamtmasse ab 7,5 Tonnen bis weniger als 12 Tonnen unabhängig von der Anzahl der Achsen 0,066 Euro,
 
-c) mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen sowie bis zu drei Achsen 0,143 Euro,
+c) mit einer technisch zulässigen Gesamtmasse ab 12 Tonnen bis einschließlich 18 Tonnen unabhängig von der Anzahl der Achsen 0,107 Euro,
 
-d) mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen sowie vier oder mehr Achsen 0,155 Euro.
+d) mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen und bis zu drei Achsen 0,141 Euro,
+
+e) mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen und mit vier oder mehr Achsen 0,155 Euro.
 
 2. Mautteilsatz für die verursachten Luftverschmutzungskosten je Kilometer nach § 3 Absatz 1 Nummer 2
 
 a) für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen je Kilometer differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl in Euro:
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Kategorie</th><th style="text-align: center;">7,5 bis &lt; 12 t</th><th style="text-align: center;">12 bis 18 t</th><th style="text-align: center;">&gt; 18 t mit<br />
-bis zu 3 Achsen</th><th style="text-align: center;">&gt; 18 t mit<br />
-4 oder mehr Achsen</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">A</td><td style="text-align: center;">0,015</td><td style="text-align: center;">0,015</td><td style="text-align: center;">0,022</td><td style="text-align: center;">0,023</td></tr><tr class="even"><td style="text-align: center;">B</td><td style="text-align: center;">0,043</td><td style="text-align: center;">0,052</td><td style="text-align: center;">0,062</td><td style="text-align: center;">0,062</td></tr><tr class="odd"><td style="text-align: center;">C</td><td style="text-align: center;">0,059</td><td style="text-align: center;">0,063</td><td style="text-align: center;">0,080</td><td style="text-align: center;">0,087</td></tr><tr class="even"><td style="text-align: center;">D</td><td style="text-align: center;">0,088</td><td style="text-align: center;">0,101</td><td style="text-align: center;">0,134</td><td style="text-align: center;">0,149</td></tr><tr class="odd"><td style="text-align: center;">E</td><td style="text-align: center;">0,113</td><td style="text-align: center;">0,121</td><td style="text-align: center;">0,164</td><td style="text-align: center;">0,182</td></tr><tr class="even"><td style="text-align: center;">F</td><td style="text-align: center;">0,114</td><td style="text-align: center;">0,123</td><td style="text-align: center;">0,169</td><td style="text-align: center;">0,187</td></tr><tr class="odd"><td style="text-align: center;">G</td><td style="text-align: center;">0,001</td><td style="text-align: center;">0,001</td><td style="text-align: center;">0,001</td><td style="text-align: center;">0,001</td></tr></tbody></table>
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 17%" /><col style="width: 17%" /><col style="width: 17%" /><col style="width: 17%" /><col style="width: 17%" /><col style="width: 17%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Kategorie</th><th style="text-align: center;">&gt; 3,5 bis &lt; 7,5 t</th><th style="text-align: center;">7,5 bis &lt; 12 t</th><th style="text-align: center;">12 bis 18 t</th><th style="text-align: center;">&gt; 18 t mit<br />
+bis zu 3 Achsen</th><th style="text-align: center;">&gt; 18 t mit 4 oder mehr Achsen</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">A</td><td style="text-align: center;">0,011</td><td style="text-align: center;">0,015</td><td style="text-align: center;">0,015</td><td style="text-align: center;">0,022</td><td style="text-align: center;">0,023</td></tr><tr class="even"><td style="text-align: center;">B</td><td style="text-align: center;">0,043</td><td style="text-align: center;">0,043</td><td style="text-align: center;">0,052</td><td style="text-align: center;">0,062</td><td style="text-align: center;">0,062</td></tr><tr class="odd"><td style="text-align: center;">C</td><td style="text-align: center;">0,055</td><td style="text-align: center;">0,059</td><td style="text-align: center;">0,063</td><td style="text-align: center;">0,080</td><td style="text-align: center;">0,087</td></tr><tr class="even"><td style="text-align: center;">D</td><td style="text-align: center;">0,079</td><td style="text-align: center;">0,088</td><td style="text-align: center;">0,101</td><td style="text-align: center;">0,134</td><td style="text-align: center;">0,149</td></tr><tr class="odd"><td style="text-align: center;">E</td><td style="text-align: center;">0,098</td><td style="text-align: center;">0,113</td><td style="text-align: center;">0,121</td><td style="text-align: center;">0,164</td><td style="text-align: center;">0,182</td></tr><tr class="even"><td style="text-align: center;">F</td><td style="text-align: center;">0,102</td><td style="text-align: center;">0,114</td><td style="text-align: center;">0,123</td><td style="text-align: center;">0,169</td><td style="text-align: center;">0,187</td></tr><tr class="odd"><td style="text-align: center;">G</td><td style="text-align: center;">0,001</td><td style="text-align: center;">0,001</td><td style="text-align: center;">0,001</td><td style="text-align: center;">0,001</td><td style="text-align: center;">0,001</td></tr></tbody></table>
 
 b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien A bis F auf Grund ihrer Schadstoffklasse sowie zur Kategorie G:
 
@@ -586,18 +591,18 @@ Umweltfreundlichere Fahrzeuge als Kategorie A (inklusive emissionsfreie Fahrzeug
 
 3. Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen nach § 3 Absatz 1 Nummer 3 in Euro:
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /></colgroup><thead><tr class="header"><th style="text-align: center;">7,5 bis &lt; 12 t</th><th style="text-align: center;">12 bis 18 t</th><th style="text-align: center;">&gt; 18 t mit<br />
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" /></colgroup><thead><tr class="header"><th style="text-align: center;">&gt; 3,5 bis &lt; 7,5 t</th><th style="text-align: center;">7,5 bis &lt; 12 t</th><th style="text-align: center;">12 bis 18 t</th><th style="text-align: center;">&gt; 18 t mit<br />
 bis zu 3 Achsen</th><th style="text-align: center;">&gt; 18 t mit<br />
-4 Achsen oder mehr</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">0,016</td><td style="text-align: center;">0,016</td><td style="text-align: center;">0,016</td><td style="text-align: center;">0,012</td></tr></tbody></table>
+4 Achsen oder mehr</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">0,014</td><td style="text-align: center;">0,016</td><td style="text-align: center;">0,016</td><td style="text-align: center;">0,016</td><td style="text-align: center;">0,012</td></tr></tbody></table>
 
 4. Mautteilsatz für Kosten für verkehrsbedingte Kohlenstoffdioxid-Emissionen je Kilometer nach § 3 Absatz 1 Nummer 4
 
-a) für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert nach Kohlenstoffdioxid-Emissionsklasse, Schadstoffklasse, technisch zulässiger Gesamtmasse und Achsanzahl in Euro:
+a) für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert nach Kohlenstoffdioxid-Emissionsklasse, Schadstoffklasse, technisch zulässiger Gesamtmasse und Achsanzahl je Kilometer nach § 3 Absatz 1 Nummer 4 in Euro:
 
 Kohlenstoffdioxid-  
 Emissionsklasse
 
-b) Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1 Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), zuletzt geändert durch die Richtlinie (EU) 2022/362 des Europäischen Parlaments und des Rates vom 24. Februar 2022. Im Sinne des Artikels 7ga Absatz 2 Satz 2 wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2 und 3 sechs Jahre nach seiner Erstzulassung auf Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird spätestens nach sechs Jahren und einem Tag nach dem Tag der Erstzulassung des betroffenen Fahrzeugs wirksam.
+b) Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1 Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), zuletzt geändert durch die Richtlinie (EU) 2022/362 des Europäischen Parlaments und des Rates vom 24. Februar 2022. Im Sinne des Artikels 7ga Absatz 2 Satz 2 Satz 1 wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2 und 3 sechs Jahre nach seiner Erstzulassung auf Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird spätestens nach sechs Jahren und einem Tag nach dem Tag der Erstzulassung des betroffenen Fahrzeugs wirksam.
 
 # Anlage 2 – (zu § 14 Absatz 1)
 
@@ -1026,3 +1031,75 @@ Fahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner Schadstoffklasse 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /></colgroup><thead><tr class="header"><th style="text-align: center;">7,5 bis &lt; 12 t</th><th style="text-align: center;">12 bis 18 t</th><th style="text-align: center;">&gt; 18 t mit<br />
 bis zu 3 Achsen</th><th style="text-align: center;">&gt; 18 t mit<br />
 4 Achsen oder mehr</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">0,016</td><td style="text-align: center;">0,016</td><td style="text-align: center;">0,016</td><td style="text-align: center;">0,012</td></tr></tbody></table>
+
+# Anlage 11 – (zu § 14 Absatz 10) Mautsätze im Zeitraum vom 1. Dezember 2023 bis zum 30. Juni 2024
+
+  
+  
+
+(Fundstelle: BGBl. 2023 I Nr. 315, S. 9 – 11)
+
+  
+  
+
+1. Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1 für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
+
+a) mit einer technisch zulässigen Gesamtmasse von 7,5 Tonnen bis unter 12 Tonnen unabhängig von der Anzahl der Achsen 0,067 Euro,
+
+b) mit einer technisch zulässigen Gesamtmasse von 12 Tonnen bis 18 Tonnen unabhängig von der Anzahl der Achsen 0,109 Euro,
+
+c) mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen sowie bis zu drei Achsen 0,143 Euro,
+
+d) mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen sowie vier oder mehr Achsen 0,155 Euro.
+
+2. Mautteilsatz für die verursachten Luftverschmutzungskosten je Kilometer nach § 3 Absatz 1 Nummer 2
+
+a) für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen je Kilometer differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl in Euro:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Kategorie</th><th style="text-align: center;">7,5 bis &lt; 12 t</th><th style="text-align: center;">12 bis 18 t</th><th style="text-align: center;">&gt; 18 t mit<br />
+bis zu 3 Achsen</th><th style="text-align: center;">&gt; 18 t mit<br />
+4 oder mehr Achsen</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">A</td><td style="text-align: center;">0,015</td><td style="text-align: center;">0,015</td><td style="text-align: center;">0,022</td><td style="text-align: center;">0,023</td></tr><tr class="even"><td style="text-align: center;">B</td><td style="text-align: center;">0,043</td><td style="text-align: center;">0,052</td><td style="text-align: center;">0,062</td><td style="text-align: center;">0,062</td></tr><tr class="odd"><td style="text-align: center;">C</td><td style="text-align: center;">0,059</td><td style="text-align: center;">0,063</td><td style="text-align: center;">0,080</td><td style="text-align: center;">0,087</td></tr><tr class="even"><td style="text-align: center;">D</td><td style="text-align: center;">0,088</td><td style="text-align: center;">0,101</td><td style="text-align: center;">0,134</td><td style="text-align: center;">0,149</td></tr><tr class="odd"><td style="text-align: center;">E</td><td style="text-align: center;">0,113</td><td style="text-align: center;">0,121</td><td style="text-align: center;">0,164</td><td style="text-align: center;">0,182</td></tr><tr class="even"><td style="text-align: center;">F</td><td style="text-align: center;">0,114</td><td style="text-align: center;">0,123</td><td style="text-align: center;">0,169</td><td style="text-align: center;">0,187</td></tr><tr class="odd"><td style="text-align: center;">G</td><td style="text-align: center;">0,001</td><td style="text-align: center;">0,001</td><td style="text-align: center;">0,001</td><td style="text-align: center;">0,001</td></tr></tbody></table>
+
+b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien A bis F auf Grund ihrer Schadstoffklasse sowie zur Kategorie G:
+
+aa)  
+Kategorie A  
+Fahrzeuge der Schadstoffklasse EURO VI,
+
+bb)  
+Kategorie B  
+Fahrzeuge der EEV Klasse 1 und der Schadstoffklasse EURO V,
+
+cc) Kategorie C  
+Fahrzeuge der Schadstoffklasse EURO IV,
+
+dd)  
+Kategorie D  
+Fahrzeuge der Schadstoffklasse EURO III,
+
+ee)  
+Kategorie E  
+Fahrzeuge der Schadstoffklasse EURO II,
+
+ff)  
+Kategorie F  
+Fahrzeuge der Schadstoffklasse EURO I sowie Fahrzeuge, die keiner EURO-Schadstoffklasse oder EEV Klasse angehören,
+
+gg)  
+Kategorie G  
+Umweltfreundlichere Fahrzeuge als Kategorie A (inklusive emissionsfreie Fahrzeuge ab dem 1. Januar 2026).
+
+3. Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen nach § 3 Absatz 1 Nummer 3 in Euro:
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /></colgroup><thead><tr class="header"><th style="text-align: center;">7,5 bis &lt; 12 t</th><th style="text-align: center;">12 bis 18 t</th><th style="text-align: center;">&gt; 18 t mit<br />
+bis zu 3 Achsen</th><th style="text-align: center;">&gt; 18 t mit<br />
+4 Achsen oder mehr</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">0,016</td><td style="text-align: center;">0,016</td><td style="text-align: center;">0,016</td><td style="text-align: center;">0,012</td></tr></tbody></table>
+
+4. Mautteilsatz für Kosten für verkehrsbedingte Kohlenstoffdioxid-Emissionen je Kilometer nach § 3 Absatz 1 Nummer 4
+
+a) für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert nach Kohlenstoffdioxid-Emissionsklasse, Schadstoffklasse, technisch zulässiger Gesamtmasse und Achsanzahl in Euro:
+
+Kohlenstoffdioxid-  
+Emissionsklasse
+
+b) Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1 Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), zuletzt geändert durch die Richtlinie (EU) 2022/362 des Europäischen Parlaments und des Rates vom 24. Februar 2022. Im Sinne des Artikels 7ga Absatz 2 Satz 2 wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2 und 3 sechs Jahre nach seiner Erstzulassung auf Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird spätestens nach sechs Jahren und einem Tag nach dem Tag der Erstzulassung des betroffenen Fahrzeugs wirksam.

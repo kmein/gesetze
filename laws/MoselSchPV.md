@@ -1068,7 +1068,7 @@ aa)
 die dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen beigefügte Verordnung (ADN) in der jeweils aktuellen Fassung.
 
 ab)  
-„Inland AIS Gerät“ ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne der Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS genutzt wird;
+„Inland AIS Gerät“ ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne der Bestimmungen von Teil II des ES-RIS genutzt wird;
 
 ac)  
 „LNG-System“ sämtliche Teile des Fahrzeugs, die Flüssigerdgas (LNG) oder Erdgas enthalten können, wie Motoren, Brennstofftanks und die Schlauch- und Rohrleitungen für das Bunkern;
@@ -1095,7 +1095,7 @@ aj)
 „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2021/1. Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Moseluferstaat zu verstehen;
 
 ak)  
-„ES-RIS“ der Europäische Standard für Binnenschifffahrtsinformationsdienste Ausgabe 2021/1. Bei der Anwendung des ES-RIS ist unter Mitgliedstaat ein Moseluferstaat zu verstehen.
+„ES-RIS“ der Europäische Standard für Binnenschifffahrtsinformationsdienste Ausgabe 2023/1. Bei der Anwendung des ES-RIS ist unter Mitgliedstaat ein Moseluferstaat zu verstehen.
 
 # § 1.02 – Schiffsführer
 
@@ -2433,15 +2433,15 @@ a) wenn die zuständige Behörde eine Ausnahme für Wasserflächen, die von der 
 
 b) für Fahrzeuge der Polizei, wenn die Übermittlung von AIS Daten die Erfüllung polizeilicher Aufgaben gefährden würde.
 
-3. Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen, ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und dieses zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte nutzen. Das Inland ECDIS Gerät im Informationsmodus muss den Bestimmungen von Teil I „Elektronisches Kartendarstellungs- und Informationssystem für die Binnenschifffahrt“ des ES-RIS entsprechen.
+3. Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen, ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und dieses zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte nutzen. Das Inland ECDIS Gerät im Informationsmodus muss den Bestimmungen von Teil I des ES-RIS entsprechen.
 
-4. Es müssen mindestens folgende Daten gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS übermittelt werden:
+4. Es müssen mindestens folgende Daten gemäß den Bestimmungen von Teil II des ES-RIS übermittelt werden:
 
 a) User Identifier (Maritime Mobile Service Identity, MMSI);
 
 b) Schiffsname;
 
-c) Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS;
+c) Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II des ES-RIS;
 
 d) einheitliche europäische Schiffsnummer (ENI), oder, für die Seeschiffe sofern keine ENI erteilt wurde, die IMO Nummer;
 
@@ -2469,7 +2469,7 @@ a) Länge über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
 b) Breite über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
-c) Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS;
+c) Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II des ES-RIS;
 
 d) Navigationsstatus gemäß Anlage 11;
 
@@ -3725,7 +3725,7 @@ p) Entladehafen.
 
 4. Sofern sich der Schiffsführer oder eine andere Stelle oder Person auf elektronischem Wege meldet,
 
-a) muss die Meldung gemäß den Bestimmungen von Teil IV „Standard für elektronisches Melden in der Binnenschifffahrt“ des ES-RIS erfolgen,
+a) muss die Meldung gemäß den Bestimmungen von Teil IV des ES-RIS erfolgen,
 
 b) ist abweichend von Nummer 2 Buchstabe c der Typ des Fahrzeugs oder Verbands gemäß der Anlage 6 „Fahrzeug- und Verbandstyp (Binnenschifffahrt)“ des ES-RIS anzugeben.
 

@@ -29,7 +29,7 @@ Die Regulierungsbehörde ist befugt, festgesetzte Gebühren gemäß § 59 der Bu
 
 (1) Unternehmen im Sinne des § 2 Absatz 1 des Allgemeinen Eisenbahngesetzes, die Eisenbahnverkehrsdienste hauptsächlich aus Gründen historischen Interesses oder zu touristischen Zwecken erbringen, sowie Unternehmen, die eine Eisenbahninfrastruktur hauptsächlich aus Gründen historischen Interesses oder zu touristischen Zwecken betreiben, sind von der Zahlung von Gebühren befreit.
 
-(2) Entscheidungen nach § 2 Absatz 4 bis 7 und 9, § 7 Absatz 6 sowie § 13 Absatz 5 des Eisenbahnregulierungsgesetzes ergehen gebührenfrei. Dies gilt auch für Entscheidungen über die Gewährung von Ausnahmen von den Verpflichtungen nach unmittelbar geltenden europäischen Rechtsakten.
+(2) Entscheidungen nach § 2 Absatz 4, 6 und 6a, § 2a Absatz 2 und 4, § 2b Absatz 2 und 3 sowie § 13 Absatz 3 des Eisenbahnregulierungsgesetzes ergehen gebührenfrei. Dies gilt auch für Entscheidungen über die Gewährung von Ausnahmen von den Verpflichtungen nach unmittelbar geltenden europäischen Rechtsakten.
 
 (3) Keine Gebühren werden erhoben für
 
@@ -49,6 +49,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 # Anlage – (zu § 2 Absatz 1)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 977 – 979)
+(Fundstelle: BGBl. I 2021, 977 – 979;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  

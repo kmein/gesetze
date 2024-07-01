@@ -561,7 +561,7 @@ Fünfzehntes Kapitel
 
 Weitere Übergangsvorschriften .......
 
-§§ 403 bis 425
+§§ 403 bis 426
 
   
   
@@ -6362,7 +6362,7 @@ Die Krankenkassen oder ihre Landesverbände schließen gemeinsam und einheitlich
 
 4. außerklinische Intensivpflege an den in § 37c Absatz 2 Satz 1 Nummer 4 genannten Orten erbringen.
 
-Die Bezahlung von Gehältern bis zur Höhe tarifvertraglich vereinbarter Vergütungen sowie entsprechender Vergütungen nach kirchlichen Arbeitsrechtsregelungen kann dabei nicht als unwirtschaftlich abgelehnt werden. Auf Verlangen der Landesverbände der Krankenkassen und der Ersatzkassen oder einer Krankenkasse ist die Zahlung dieser Vergütungen nachzuweisen. Die Leistungserbringer sind verpflichtet, ein einrichtungsinternes Qualitätsmanagement durchzuführen, das den Anforderungen des Absatzes 2 Nummer 4 entspricht, und an Qualitäts- und Abrechnungsprüfungen nach § 275b teilzunehmen; § 114 Absatz 2 des Elften Buches bleibt unberührt. Soweit bei einer Prüfung nach § 275b Absatz 1 Satz 1 bis 3 Qualitätsmängel festgestellt werden, entscheiden die Landesverbände der Krankenkassen oder die Krankenkassen nach Anhörung des Leistungserbringers, welche Maßnahmen zu treffen sind, erteilen dem Leistungserbringer hierüber einen Bescheid und setzen ihm darin zugleich eine angemessene Frist zur Beseitigung der festgestellten Mängel. Verträge nach § 132a Absatz 4 gelten so lange fort, bis sie durch Verträge nach Satz 1 abgelöst werden, längstens jedoch für zwölf Monate nach Vereinbarung der Rahmenempfehlungen nach Absatz 1.
+Die Bezahlung von Gehältern bis zur Höhe tarifvertraglich vereinbarter Vergütungen sowie entsprechender Vergütungen nach kirchlichen Arbeitsrechtsregelungen kann dabei nicht als unwirtschaftlich abgelehnt werden. Bei nicht tarifgebundenen oder nicht an kirchliche Arbeitsrechtsregelungen gebundenen Leistungserbringern gilt § 82c Absatz 2 Satz 1 des Elften Buches entsprechend. Eine Bezahlung von Gehältern, die ihrer Höhe nach über die Höhe hinausgehen, die nach Satz 2 oder Satz 3 in Verbindung mit § 82c Absatz 2 Satz 1 des Elften Buches nicht als unwirtschaftlich abgelehnt werden kann, kann nicht als unwirtschaftlich abgelehnt werden, wenn für sie ein sachlicher Grund besteht. Auf Verlangen der Landesverbände der Krankenkassen und der Ersatzkassen oder einer Krankenkasse ist die Zahlung der Vergütungen nach Satz 2 oder Satz 3 nachzuweisen. Die Leistungserbringer sind verpflichtet, ein einrichtungsinternes Qualitätsmanagement durchzuführen, das den Anforderungen des Absatzes 2 Nummer 4 entspricht, und an Qualitäts- und Abrechnungsprüfungen nach § 275b teilzunehmen; § 114 Absatz 2 des Elften Buches bleibt unberührt. Soweit bei einer Prüfung nach § 275b Absatz 1 Satz 1 bis 3 Qualitätsmängel festgestellt werden, entscheiden die Landesverbände der Krankenkassen oder die Krankenkassen nach Anhörung des Leistungserbringers, welche Maßnahmen zu treffen sind, erteilen dem Leistungserbringer hierüber einen Bescheid und setzen ihm darin zugleich eine angemessene Frist zur Beseitigung der festgestellten Mängel. Verträge nach § 132a Absatz 4 gelten so lange fort, bis sie durch Verträge nach Satz 1 abgelöst werden, längstens jedoch für zwölf Monate nach Vereinbarung der Rahmenempfehlungen nach Absatz 1.
 
 (6) Im Fall der Nichteinigung wird der Inhalt des Versorgungsvertrages nach Absatz 5 durch eine von den Vertragspartnern zu bestimmende unabhängige Schiedsperson innerhalb von drei Monaten festgelegt. Einigen sich die Vertragspartner nicht auf eine Schiedsperson, so wird diese vom Bundesamt für Soziale Sicherung innerhalb eines Monats nach Vorliegen der für die Bestimmung der Schiedsperson notwendigen Informationen bestimmt; Widerspruch und Klage gegen die Bestimmung der Schiedsperson durch das Bundesamt für Soziale Sicherung haben keine aufschiebende Wirkung. Klagen gegen die Festlegung des Vertragsinhalts sind gegen den Vertragspartner zu richten. Der von der Schiedsperson festgelegte Vertragsinhalt oder die von der Schiedsperson festgelegten einzelnen Bestimmungen des Vertrages gilt oder gelten bis zur gerichtlichen Ersetzung oder gerichtlichen Feststellung der Unbilligkeit weiter. Die Kosten des Schiedsverfahrens tragen die Vertragspartner zu gleichen Teilen.
 
@@ -13158,7 +13158,43 @@ Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der gesetzlich
 
 (6) Sofern eine Krankenkasse im Rahmen ihrer Aufgabenerfüllung IT-Dienstleistungen eines Dritten in Anspruch nimmt und eine Störung der Verfügbarkeit, Integrität und Vertraulichkeit der informationstechnischen Systeme, Komponenten oder Prozesse des Dritten zu einer Beeinträchtigung der Funktionsfähigkeit der jeweiligen Krankenkasse oder der Sicherheit der verarbeiteten Versicherteninformationen führen kann, muss die Krankenkasse durch geeignete vertragliche Vereinbarungen sicherstellen, dass die Einhaltung des branchenspezifischen Sicherheitsstandards im Sinne des Absatzes 3 durch den Dritten gewährleistet wird.
 
-# § 393 – (weggefallen)
+# § 393 – Cloud-Einsatz im Gesundheitswesen; Verordnungsermächtigung
+
+(1) Leistungserbringer im Sinne des Vierten Kapitels und Kranken- und Pflegekassen sowie ihre jeweiligen Auftragsdatenverarbeiter dürfen Sozialdaten und Gesundheitsdaten auch im Wege des Cloud-Computing-Dienstes verarbeiten, sofern die Voraussetzungen der Absätze 2 bis 4 erfüllt sind.
+
+(2) Die Verarbeitung von Sozial- und Gesundheitsdaten im Wege des Cloud-Computing-Dienstes darf nur
+
+1. im Inland,
+
+2. in einem Mitgliedstaat der Europäischen Union oder
+
+3. in einem diesem nach § 35 Absatz 7 des Ersten Buches gleichgestellten Staat oder, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 der Verordnung (EU) 2016/679 vorliegt, in einem Drittstaat
+
+erfolgen und sofern die datenverarbeitende Stelle über eine Niederlassung im Inland verfügt.
+
+(3) Eine Verarbeitung nach Absatz 1 ist nur zulässig, wenn zusätzlich zu den Anforderungen des Absatzes 2
+
+1. nach dem Stand der Technik angemessene technische und organisatorische Maßnahmen zur Gewährleistung der Informationssicherheit ergriffen worden sind,
+
+2. ein aktuelles C5-Testat der datenverarbeitenden Stelle im Hinblick auf die C5-Basiskriterien für die im Rahmen des Cloud-Computing-Dienstes eingesetzten Cloud-Systeme und die eingesetzte Technik vorliegt und
+
+3. die im Prüfbericht des Testats enthaltenen, korrespondierenden Kriterien für Kunden umgesetzt sind.
+
+(4) Bis zum 30. Juni 2025 gilt als aktuelles C5-Testat im Sinne des Absatzes 3 Nummer 2 ein C5-Typ1-Testat. Ab dem 1. Juli 2025 gilt als aktuelles C5-Testat im Sinne des Absatzes 3 Nummer 2 ein aktuelles C5-Typ2-Testat. Eine Verarbeitung nach Absatz 3 Nummer 2 ist ferner auch zulässig, soweit für die im Rahmen des Cloud-Computing-Dienstes eingesetzten Cloud-Systeme und die Cloud-Technik anstelle eines aktuellen C5-Testats ein Testat oder Zertifikat nach einem Standard vorliegt, dessen Befolgung ein im Vergleich zum C5-Standard vergleichbares oder höheres Sicherheitsniveau sicherstellt. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik festzulegen, welche Standards die Anforderungen nach Satz 3 erfüllen.
+
+(5) Technische und organisatorische Maßnahmen gelten als angemessen im Sinne von Absatz 3 Nummer 1, wenn folgende Anforderungen erfüllt werden:
+
+1. in der vertragsärztlichen und vertragszahnärztlichen Versorgung die Voraussetzungen des § 390,
+
+2. in zugelassenen Krankenhäusern die Voraussetzungen des § 391 und
+
+3. von Krankenkassen die Voraussetzungen des Branchenspezifischen Sicherheitsstandards für gesetzliche Kranken- und Pflegeversicherer (B3S-GKV/PV).
+
+(6) In allen anderen Fällen gelten technische und organisatorische Maßnahmen als angemessen im Sinne von Absatz 3 Nummer 1, wenn sie gleichwertig zu den Anforderungen nach § 391 sind. Der Angemessenheitsmaßstab nach Satz 1 gilt nicht, soweit Verarbeiter nach Absatz 1 ohnehin als Betreiber Kritischer Infrastrukturen gemäß § 8a des BSI-Gesetzes angemessene technische Vorkehrungen zu treffen haben.
+
+(7) Informationen über die nach Absatz 3 Nummer 2 testierten Cloud-Systeme und testierte Cloud-Technik werden von dem Kompetenzzentrum für Interoperabilität im Gesundheitswesen auf der Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 auf Antrag veröffentlicht. Dem Antrag nach Satz 1 ist eine Kontrollliste zu den korrespondierenden Kriterien für Kunden anzufügen.
+
+(8) Die Vorschriften des Zehnten Buches und des Bundesdatenschutzgesetzes bleiben unberührt.
 
 # § 394 – (weggefallen)
 
@@ -13519,6 +13555,26 @@ In Fällen, in denen die Krankenkasse für Zeiträume ab dem 1. Januar 2018 die 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat dem Bundesministerium für Gesundheit bis zum 31. Dezember 2025 einen Bericht darüber vorzulegen, wie sich die durch die Artikel 1 bis 4 des Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes eingeführten Änderungen des Arzneimittelgesetzes, dieses Gesetzes, des Apothekengesetzes und der Apothekenbetriebsordnung auf die Versorgungslage mit Arzneimitteln ausgewirkt haben. Soweit Arzneimittel im Zuständigkeitsbereich des Paul-Ehrlich-Instituts betroffen sind, ist der Bericht im Einvernehmen mit dem Paul-Ehrlich-Institut zu erstellen.
 
 (3) Abweichend von den Absätzen 1 und 2 sind die dort genannten Berichte hinsichtlich der Änderungen des § 130a Absatz 8 bis 8b jeweils bis zum 31. Dezember 2025 und bis zum 31. Dezember 2028 vorzulegen.
+
+# § 426 – Übergangsregelung zur Beitragspflicht, Tragung und Zahlung der Beiträge aus dem Zuschlag nach § 307j des Sechsten Buches
+
+(1) Für die nach § 307j Absatz 1 des Sechsten Buches im Zeitraum vom 1. Juli 2024 bis zum 30. November 2025 zu zahlenden Rentenzuschläge und für die nach § 307j Absatz 5 des Sechsten Buches nachzuzahlenden Unterschiedsbeträge wird für nach diesem Buch Versicherungspflichtige abweichend von § 226 Absatz 1 Satz 1 Nummer 2 und § 237 Satz 1 Nummer 1 statt des Zahlbetrags der Rente der sich nach Absatz 3 jeweils ergebende Betrag der Beitragsbemessung zugrunde gelegt. Abweichend von § 249a Satz 1 und 2 tragen die Träger der Rentenversicherung die Beiträge aus den nach Absatz 3 ermittelten beitragspflichtigen Einnahmen allein.
+
+(2) Die Deutsche Rentenversicherung Bund ermittelt zum 18. Dezember 2025 jeweils die Gesamtsumme der von der Deutschen Post AG für den Zeitraum vom 1. Juli 2024 bis zum 31. Dezember 2024 und für den Zeitraum vom 1. Januar 2025 bis zum 30. November 2025 an nach diesem Buch Versicherungspflichtige nach § 307j des Sechsten Buches auszuzahlenden Rentenzuschläge und die Gesamtsumme der an nach diesem Buch Versicherungspflichtige nach § 307j Absatz 5 des Sechsten Buches nachzuzahlenden Unterschiedsbeträge.
+
+(3) Die beitragspflichtigen Einnahmen werden jeweils getrennt für den Zeitraum vom 1. Juli 2024 bis zum 31. Dezember 2024 und für den Zeitraum vom 1. Januar 2025 bis zum 30. November 2025 sowie hinsichtlich der nach § 307j Absatz 5 des Sechsten Buches nachzuzahlenden Unterschiedsbeträge ermittelt, indem vom Wert 100 Prozent die Hälfte des allgemeinen Beitragssatzes nach § 241, die Hälfte des durchschnittlichen Zusatzbeitragssatzes nach § 242a Absatz 2 sowie der Beitragssatz nach § 55 Absatz 1 Satz 1 des Elften Buches abgezogen werden und die jeweilige nach Absatz 2 ermittelte Gesamtsumme durch den resultierenden Wert geteilt wird. Dabei ist der jeweils geltende allgemeine Beitragssatz nach § 241, der für den jeweiligen Zeitraum nach § 242a Absatz 2 bekanntgegebene durchschnittliche Zusatzbeitragssatz sowie der am 1. Januar des jeweiligen Jahres geltende Beitragssatz nach § 55 Absatz 1 Satz 1 des Elften Buches anzuwenden. Für die nach § 307j Absatz 5 des Sechsten Buches nachzuzahlenden Unterschiedsbeträge sind die am 1. Januar 2025 geltenden Beitragssätze bei der Ermittlung der beitragspflichtigen Einnahmen nach Satz 1 anzuwenden.
+
+(4) Für die Bemessung der Beiträge aus den nach Absatz 3 ermittelten beitragspflichtigen Einnahmen finden der allgemeine Beitragssatz nach § 241 und der für den jeweiligen Zeitraum nach § 242a Absatz 2 bekanntgegebene durchschnittliche Zusatzbeitragssatz Anwendung. Für die hinsichtlich der nach § 307j Absatz 5 des Sechsten Buches nachzuzahlenden Unterschiedsbeträge ermittelten beitragspflichtigen Einnahmen sind die am 1. Januar 2025 geltenden Beitragssätze anzuwenden.
+
+(5) Die Beiträge aus den nach Absatz 3 ermittelten beitragspflichtigen Einnahmen werden am 7. Januar 2026 fällig. Die Deutsche Rentenversicherung Bund leitet die Beiträge an den Gesundheitsfonds weiter und teilt dem Bundesamt für Soziale Sicherung bis zum 22. Dezember 2025 die voraussichtliche Höhe der fälligen Beiträge mit. In den in Absatz 2 genannten Zeiträumen leistet die Deutsche Rentenversicherung Bund am Achten jedes Monats eine Abschlagszahlung in Höhe von jeweils 32 Millionen Euro an den Gesundheitsfonds. Die nach Satz 1 am 7. Januar 2026 fälligen Beiträge verringern sich jeweils um die nach Satz 3 geleisteten Abschlagszahlungen. § 271 Absatz 1 Nummer 2 gilt entsprechend. Das Nähere zum Verfahren der Zahlung der ermittelten Beiträge vereinbaren das Bundesamt für Soziale Sicherung, die Deutsche Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-Bahn-See und die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau. In der Vereinbarung kann für die Beiträge aus den hinsichtlich der nach § 307j Absatz 5 des Sechsten Buches nachzuzahlenden Unterschiedsbeträge ermittelten beitragspflichtigen Einnahmen Folgendes festgelegt werden:
+
+1. eine von Satz 1 abweichende Fälligkeit,
+
+2. eine von Satz 2 abweichende Frist und
+
+3. ein von Absatz 2 abweichender Zeitpunkt.
+
+(6) Der Gesundheitsfonds überweist von den an ihn nach Absatz 5 gezahlten Beiträgen der landwirtschaftlichen Krankenkasse den auf sie entfallenden Anteil. Dafür ermittelt die Deutsche Rentenversicherung Bund den Anteil der Beiträge, die auf Rentenzahlungen für Versicherungspflichtige beruhen, für die von den Trägern der Rentenversicherung nach § 50 Absatz 1 des Zweiten Gesetzes über die Krankenversicherung der Landwirte Beiträge an die landwirtschaftliche Krankenkasse zu zahlen sind und teilt diesen Anteil dem Bundesamt für Soziale Sicherung mit.
 
 # Anlage 1 – (zu § 135d)Leistungsgruppen der Krankenhausbehandlung
 

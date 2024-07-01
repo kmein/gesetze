@@ -35,15 +35,17 @@ c) die zeitliche Planung der Lehrgangsinhalte,
 
 7. für jede der auf der Liste nach Nummer 6 genannten Person in Kopie das in Deutschland gültige Zeugnis für Sachkundige für die Fahrgastschifffahrt sowie den entsprechenden Nachweis nach § 13 Absatz 1 Satz 3 dieser Verordnung,
 
-8. genauen Angaben über den Ort, an dem die Lehrgänge durchgeführt werden sollen sowie
+8. genauen Angaben über den Ort, an dem die Lehrgänge durchgeführt werden sollen,
 
-9. eine Erklärung, dass der Antragsstellende die zuständige Behörde unverzüglich und aus eigener Initiative über jede Änderung der sich aus dem Antrag oder den beizufügenden Unterlagen ergebenden Umstände informiert.
+9. eine Erklärung, dass der Antragsstellende die zuständige Behörde unverzüglich und aus eigener Initiative über jede Änderung der sich aus dem Antrag oder den beizufügenden Unterlagen ergebenden Umstände informiert sowie
+
+10. die vier Fragebögen nach § 11, wobei die jeweils richtigen Antworten als solche markiert sein müssen.
 
 (3) Auf Verlangen der zuständigen Behörde sind die in Kopie einzureichenden Nachweise im Original vorzulegen.
 
 # § 3 – Zulassungsentscheidung
 
-Die Zulassungsentscheidung kann mit Nebenbestimmungen versehen werden, die sicherstellen, dass die Voraussetzungen des § 56 Binnenschiffspersonalverordnung oder dieser Verordnung erfüllt werden.
+Die Zulassungsentscheidung kann mit Nebenbestimmungen versehen werden, die sicherstellen, dass die Voraussetzungen des § 56 Binnenschiffspersonalverordnung oder dieser Verordnung erfüllt werden. Die Zulassungsentscheidung kann insbesondere davon abhängig gemacht werden, dass Fragebögen vorliegen, die den Vorgaben des § 11 entsprechen.
 
 # § 4 – Teilnahme an der Abschlussprüfung
 
@@ -53,7 +55,7 @@ Die Zulassungsentscheidung kann mit Nebenbestimmungen versehen werden, die siche
 
 # § 5 – Anzeigepflicht und Prüfungsort
 
-(1) Die Durchführung einer Abschlussprüfung ist der zuständigen Behörde mindestens sechs Wochen vorher unter Nennung des genauen Prüfungsortes elektronisch anzuzeigen.
+(1) Die Durchführung einer Abschlussprüfung ist der zuständigen Behörde mindestens vier Wochen vorher unter Nennung des genauen Prüfungsortes elektronisch anzuzeigen. Abweichend von Satz 1 sind der zuständigen Behörde Wiederholungsprüfungen nach § 7 Satz 2 unverzüglich anzuzeigen.
 
 (2) Die Abschlussprüfung ist als Präsenzprüfung durchzuführen und muss innerhalb Deutschlands abgenommen werden.
 
@@ -67,7 +69,9 @@ Im Falle des Nichtbestehens des theoretischen oder des praktischen Prüfungsteil
 
 # § 8 – Ausstellen einer Bescheinigung
 
-Jedem Teilnehmenden eines Basislehrgangs oder Auffrischungslehrgangs, der die Abschlussprüfung bestanden hat, ist hierüber vom Lehrgangsanbieter eine Bescheinigung nach dem Muster der Anlage auszustellen.
+(1) Jedem Teilnehmenden eines Basislehrgangs oder Auffrischungslehrgangs, der die Abschlussprüfung bestanden hat, ist hierüber vom Lehrgangsanbieter eine Bescheinigung nach dem Muster der Anlage auszustellen.
+
+(2) Die Bescheinigung nach Absatz 1 ist für einen Zeitraum von sechs Monaten ab ihrem Ausstellungsdatum als Nachweis im Sinne der § 85 Absatz 2 Nummer 2 und § 87 Absatz 2 Satz 2 der Binnenschiffspersonalverordnung gültig.
 
 # § 9 – Prüfungsablauf
 
@@ -87,25 +91,25 @@ Jedem Teilnehmenden eines Basislehrgangs oder Auffrischungslehrgangs, der die Ab
 
 (1) Jeder Lehrgangsanbieter hat mindestens vier verschiedene Fragebögen mit jeweils 30 Fragen zu erstellen und diese Fragebögen im Wechsel bei Prüfungen zu verwenden. Jede Fragestellung darf insgesamt nur ein Mal verwendet werden.
 
-(2) Jeder Fragebogen muss Fragen zu folgenden Themenbereichenenthalten:
+(2) Jeder Fragebogen muss Fragen zu folgenden Themenbereichen enthalten:
 
-1. Organisation des Einsatzes von Rettungsmitteln,
+1. Inhalte von Sicherheitsrolle und Sicherheitsplan,
 
-2. Ergreifung von erforderlichen Maßnahmen zum Schutz der Fahrgäste im Allgemeinen sowie in Notfällen,
+2. Rettungsmittel und ihre Funktionen,
 
-3. Hilfeleistung und Erteilung von Anweisungen zur sicheren Einschiffung, Ausschiffung und Bereisung mit dem Schiff von Menschen mit Behinderung und Personen mit eingeschränkter Mobilität,
+3. Ergreifung von erforderlichen Maßnahmen zum Schutz der Fahrgäste im Allgemeinen sowie in Notfällen,
 
-4. Kommunikation über sicherheitsrelevante Themen in einfachem Englisch und
+4. Hilfeleistung und Erteilung von Anweisungen zur sicheren Einschiffung, Ausschiffung und Bereisung mit dem Schiff von Menschen mit Behinderung und Personen mit eingeschränkter Mobilität,
 
-5. Hilfeleistung für Fahrgäste in Bezug auf Fahrgastrechte.
+5. Kommunikation über sicherheitsrelevante Themen in einfachem Englisch und
+
+6. Hilfeleistung für Fahrgäste in Bezug auf Fahrgastrechte.
 
 (3) Jede Frage muss vier Antwortmöglichkeiten enthalten, von denen ein bis vier Antwortmöglichkeiten richtig sein können. Die falschen Antwortmöglichkeiten müssen so formuliert sein, dass sie nicht offenkundig als falsch zu erkennen sind.
 
-(4) Jeder Fragebogen ist samt den entsprechenden Lösungen der zuständigen Behörde vorzulegen und darf für den theoretischen Prüfungsteil nur verwendet werden, wenn die zuständige Behörde vorher zugestimmt hat.
+(4) Die zuständige Behörde kann jederzeit verlangen, dass ihr die Fragebögen zur Überprüfung vorgelegt werden. Sie kann zudem Änderungen an den Fragen oder den Antwortmöglichkeiten verlangen, wenn die Fragen nicht den Inhalten nach Absatz 2 oder die Antwortmöglichkeiten nicht der Vorgabe des Absatzes 3 Satz 2 entsprechen.
 
 (5) Die Fragebögen dürfen weder veröffentlicht noch den Prüflingen oder Dritten vor oder nach der Prüfung überlassen werden.
-
-§ 11 Abs. 2 Eingangssatz Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde das Wort "Themenbereiche" durch das Wort "Themenbereichen" ersetzt
 
 # § 12 – Prüfungskommission
 

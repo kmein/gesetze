@@ -50,9 +50,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anhang – Anhang zum Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 3195 - 3204)
+(Fundstelle: BGBl. I 2021, 3195 - 3204;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-1. Die Gebührenbemessung für die Nummern 1.5, 2.1, 2.4 und 2.7 sowie 7.7, 7.8, 7.9, 7.13, 7.14 und 7.15 richtet sich nach den Baukosten und gegebenenfalls den nach Schwierigkeitsgraden in Gebührenzonen eingeteilten Bewertungsmerkmalen.
+1. Die Gebührenbemessung für die Nummern 1.5, 2.1, 2.4 und 2.7 sowie 7.7, 7.8, 7.9, 7.13, 7.14 und 7.15 richtet sich nach den Baukosten und gegebenenfalls den nach Schwierigkeitsgraden in Gebührenzonen eingeteilten Bewertungsmerkmalen. Satz 1 gilt entsprechend für die Nummern 2.2, 2.8 und 2.10. Wird der Plan in den Fällen der Nummern 2.7, 2.8 und 2.10 geändert, so sind die Baukosten heranzuziehen, die für den Gegenstand der Änderung anfallen.
 
 2. Nicht zu den Baukosten im Sinne der Gebührenbemessung gehören die Kosten für:
 

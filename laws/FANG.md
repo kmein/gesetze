@@ -137,15 +137,7 @@ Für Berechtigte nach Satz 1 Buchstabe b findet § 8a des Fremdrentengesetzes ke
 
 (5) § 22 Abs. 3 des Fremdrentengesetzes in der bis zum 31. Dezember 1991 geltenden Fassung und § 22 Abs. 4 des Fremdrentengesetzes in der ab 1. Januar 1992 sowie in der vom 7. Mai 1996 an geltenden Fassung finden keine Anwendung auf Berechtigte, die nach Maßgabe des Abkommens vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über Soziale Sicherheit Ansprüche und Anwartschaften auf der Grundlage des Abkommens vom 9. Oktober 1975 zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über Renten- und Unfallversicherung haben.
 
-(6) Bei Berechtigten nach dem Fremdrentengesetz, die
-
-a) ihren gewöhnlichen Aufenthalt im Beitrittsgebiet haben und dort nach dem 31. Dezember 1991 einen Anspruch auf Zahlung einer Rente nach dem Fremdrentengesetz erwerben,
-
-b) nach dem 31. Dezember 1990 ihren gewöhnlichen Aufenthalt aus dem Beitrittsgebiet in das Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet verlegen und dort nach dem 31. Dezember 1991 einen Anspruch auf Zahlung einer Rente nach dem Fremdrentengesetz erwerben oder
-
-c) nach dem 31. Dezember 1991 ihren gewöhnlichen Aufenthalt aus dem Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet in das Beitrittsgebiet verlegen und bereits vor Verlegung des gewöhnlichen Aufenthalts einen Anspruch auf Zahlung einer Rente nach dem Fremdrentengesetz haben,
-
-werden für nach dem Fremdrentengesetz anrechenbare Zeiten Entgeltpunkte (Ost) ermittelt; im Falle von Buchstabe c gilt dies nur, sofern am 31. Dezember 1991 Anspruch auf Zahlung einer Rente nach dem Fremdrentengesetz nicht bestand. Dies gilt auch für die Zeiten eines weiteren Rentenbezuges aufgrund neuer Rentenfeststellungen, wenn sich die Rentenbezugszeiten ununterbrochen aneinander anschließen. Bei Berechtigten nach Satz 1 Buchstabe a und c, die ihren gewöhnlichen Aufenthalt aus dem Beitrittsgebiet in das Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet verlegen, verbleibt es für Zeiten nach dem Fremdrentengesetz bei den ermittelten Entgeltpunkten (Ost).
+(6) (weggefallen)
 
 (7) (weggefallen)
 
