@@ -51,9 +51,9 @@ Satz 1 gilt entsprechend für Erzeugungsanlagen des Typs B, die eine kumulierte 
 
 (6) Der Hersteller von Einheiten oder Komponenten für Erzeugungsanlagen hat bei einer Aktualisierung der Betriebssoftware der Einheiten und Komponenten sicherzustellen, dass die vom Netzbetreiber vorgegebenen elektrotechnischen Eigenschaften der Anlage nicht überschrieben werden.
 
-(+++ § 2 Abs. 2: Zur Nichtanwendung vgl. § 5 Abs 1 +++)  
-(+++ § 2 Abs. 3: Zur Nichtanwendung vgl. § 5 Abs. 1 +++)  
-(+++ § 2 Abs. 2 u. 3: Zur Anwendung vgl. § 5 Abs. 3 +++)
+(+++ § 2 Abs. 2: Zur Nichtanwendung vgl. § 7 Abs 1 +++)  
+(+++ § 2 Abs. 3: Zur Nichtanwendung vgl. § 7 Abs. 1 +++)  
+(+++ § 2 Abs. 2 u. 3: Zur Anwendung vgl. § 7 Abs. 3 +++)
 
 # § 3 – Allgemein anerkannte Regeln der Technik
 
@@ -94,6 +94,8 @@ Satz 1 gilt entsprechend für Erzeugungsanlagen des Typs B, die eine kumulierte 
 (9) Im Rahmen des Betriebserlaubnisverfahrens muss der Betreiber einer Erzeugungsanlage die Registrierungsnummer des Einheiten- oder Komponentenzertifikates aus dem Register an den zuständigen Netzbetreiber übermitteln.
 
 (10) Im Rahmen des Betriebserlaubnisverfahrens muss der zuständige Netzbetreiber die vom Betreiber einer Erzeugungsanlage übermittelte Registrierungsnummer des Einheiten- oder Komponentenzertifikates aus dem Register verwenden. Er ist nicht dazu berechtigt, die in Einheiten- oder Komponentenzertifikaten enthaltenen Informationen auf anderem Wege als über das Register zu verlangen.
+
+(+++ § 4 Abs. 3, 9 u. 10: Zur Anwendung vgl. § 7 Abs. 4 ++++)
 
 # § 5 – Gültigkeit von Einheiten- oder Komponentenzertifikaten
 

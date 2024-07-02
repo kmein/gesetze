@@ -661,6 +661,8 @@ Dokumente, die einzelne Beurkundungen in den Personenstandsregistern betreffen, 
 
 (3) Das Standesamt hat einen Antrag auf Befreiung von der Beibringung des Ehefähigkeitszeugnisses aufzunehmen und die Entscheidung vorzubereiten; hierfür haben die Eheschließenden auch die Nachweise zu erbringen, die für die Prüfung der Zulässigkeit der Ehe nach anzuwendendem ausländischen Recht erforderlich sind. § 9 gilt entsprechend.
 
+(+++ § 12 Abs. 3: Zur Nichtanwendung ab 1.7.2024 vgl. § 12a +++)
+
 # § 12a – Anmeldung der erneuten Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs
 
 § 12 Absatz 1 und 2 gelten für die Anmeldung einer erneuten Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs mit der Maßgabe, dass die im Ausland erfolgte Eheschließung mit einer Person, die zu diesem Zeitpunkt das 16. Lebensjahr nicht vollendet hatte, durch öffentliche Urkunden nachzuweisen ist. § 12 Absatz 3 ist nicht anzuwenden.
