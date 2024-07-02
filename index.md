@@ -829,8 +829,8 @@
 - [BinSchLotsVergV 2012](laws/BinSchLotsVergV_2012.md) Verordnung über die Entgelte für die Leistungen der Binnenlotsen auf der Bundeswasserstraße Rhein zwischen den Schleusen Iffezheim und Mannheim/Ludwigshafen
 - [BinSchLV](laws/BinSchLV.md) Verordnung über die Lade- und Löschzeiten sowie das Liegegeld in der Binnenschifffahrt
 - [BinSchOWiZustV 1974](laws/BinSchOWiZustV_1974.md) Verordnung über die Zuständigkeit der Generaldirektion Wasserstraßen und Schifffahrt für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten
-- [BinSchPersBefähPrV](laws/BinSchPersBefähPrV.md) Verordnung über die Durchführung von Befähigungsprüfungen nach der Binnenschiffspersonalverordnung *
 - [BinSchPersBetrEBefähPrV](laws/BinSchPersBetrEBefähPrV.md) Verordnung über die Durchführung von behördlichen Befähigungsprüfungen auf Betriebsebene nach der Binnenschiffspersonalverordnung
+- [BinSchPersFührEBefähPrV](laws/BinSchPersFührEBefähPrV.md) Verordnung über die Durchführung von Befähigungsprüfungen auf Führungsebene nach der Binnenschiffspersonalverordnung
 - [BinSchPersV](laws/BinSchPersV.md) Verordnung über die Besatzung und über die Befähigungen der Besatzung von Fahrzeugen in der Binnenschifffahrt
 - [BinSchSiV](laws/BinSchSiV.md) Verordnung zur Sicherstellung des Binnenschiffsverkehrs
 - [BinSchSprFunkV](laws/BinSchSprFunkV.md) Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk
@@ -4947,6 +4947,7 @@
 - [SchKG§19Abs2/§24Bek 2020](laws/SchKG§19Abs2_§24Bek_2020.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2020 geltenden Beträge
 - [SchKG§19Abs2/§24Bek 2022](laws/SchKG§19Abs2_§24Bek_2022.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2022 geltenden Beträge
 - [SchKG§19Abs2/§24Bek 2023](laws/SchKG§19Abs2_§24Bek_2023.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2023 geltenden Beträge
+- [SchKG§19Abs2/§24Bek 2024](laws/SchKG§19Abs2_§24Bek_2024.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2024 geltenden Beträge
 - [SchKiSpV](laws/SchKiSpV.md) Verordnung über die Schüler- und Kinderspeisung
 - [SchKiSpVDBest 1](laws/SchKiSpVDBest_1.md) Erste Durchführungsbestimmung zur Verordnung über die Schüler- und Kinderspeisung
 - [SchlärmschG](laws/SchlärmschG.md) Gesetz zum Verbot des Betriebs lauter Güterwagen
