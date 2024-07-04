@@ -1,9 +1,9 @@
 % Anordnung zur Durchführung des Bundesdisziplinargesetzes im nachgeordneten Geschäftsbereich des Bundesministeriums der Finanzen  (BMFBDGAnO)
-% Ausfertigungsdatum: 14.09.2020
+% Ausfertigungsdatum: 26.06.2024
  
 # Eingangsformel
 
-Nach § 33 Absatz 5, § 34 Absatz 2 Satz 2, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510) und nach § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das Bundesministerium der Finanzen an:
+Auf Grund § 34 Absatz 5, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des Bundesdisziplinargesetzes, von denen § 34 Absatz 5 durch Artikel 1 Nummer 9 des Gesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 389) neugefasst worden ist, und nach § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das Bundesministerium der Finanzen an:
 
 # § 1 – Dienstvorgesetzte
 
@@ -21,15 +21,15 @@ Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind außer der Bundesm
 
 # § 2 – Kürzung der Dienstbezüge
 
-Die Befugnis zur Kürzung der Dienstbezüge bis zum Höchstmaß nach § 33 Absatz 3 Nummer 1 des Bundesdisziplinargesetzes wird auf die in § 1 Nummer 1 bis 5 genannten Dienstvorgesetzten übertragen.
+Die Befugnis zur Kürzung der Dienstbezüge bis zum Höchstmaß nach § 34 Absatz 2 Nummer 1 des Bundesdisziplinargesetzes wird auf die in § 1 Nummer 1 bis 5 genannten Dienstvorgesetzten übertragen.
 
-# § 3 – Erhebung der Disziplinarklage
+# § 3 – Zurückstufung oder Entfernung aus dem Dienst
 
-Die Befugnis zur Erhebung der Disziplinarklage nach § 34 Absatz 2 Satz 1 des Bundesdisziplinargesetzes gegen Beamtinnen oder Beamte der Besoldungsgruppen A 2 bis A 16 sowie W 2 und W 3 wird auf die in § 1 Nummer 1 bis 3 genannten Dienstvorgesetzten übertragen.
+Die Befugnis zur Zurückstufung oder Entfernung aus dem Beamtenverhältnis nach § 34 Absatz 4 des Bundesdisziplinargesetzes gegen Beamtinnen oder Beamte der Besoldungsgruppen A 2 bis A 16 sowie W 2 und W 3 wird auf die in § 1 Nummer 1 bis 3 genannten Dienstvorgesetzten übertragen.
 
 # § 4 – Widerspruchsbescheide
 
-Für die Zuständigkeit zum Erlass von Widerspruchsbescheiden im Sinne von § 42 Absatz 1 des Bundesdisziplinargesetzes gilt § 1 der Anordnung zur Übertragung von Zuständigkeiten im Widerspruchsverfahren und die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem Beamtenverhältnis von Beamten im Geschäftsbereich des Bundesministeriums der Finanzen vom 8. November 2019 (BGBl. I S. 1624) entsprechend.
+Die Zuständigkeit zum Erlass von Widerspruchsbescheiden im Sinne von § 42 Absatz 1 Satz 1 des Bundesdisziplinargesetzes wird auf die in § 1 Nummer 1 bis 3 genannten Dienstvorgesetzten übertragen, soweit diese den mit dem Widerspruch angefochtenen Verwaltungsakt erlassen haben. In allen anderen Fällen gilt § 1 der Anordnung zur Übertragung von Zuständigkeiten im Widerspruchsverfahren und die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem Beamtenverhältnis von Beamten im Geschäftsbereich des Bundesministeriums der Finanzen vom 8. November 2019 (BGBl. I S. 1624) entsprechend.
 
 # § 5 – Disziplinarbefugnisse bei Ruhestandsbeamten
 
@@ -41,4 +41,4 @@ Die gerichtliche Vertretung der Bundesrepublik Deutschland bei Klagen, die von B
 
 # § 7 – Inkrafttreten, Außerkrafttreten
 
-Diese Anordnung tritt am Tag nach der Veröffentlichung im Bundesgesetzblatt in Kraft. Gleichzeitig tritt die Anordnung zur Durchführung des Bundesdisziplinargesetzes im nachgeordneten Geschäftsbereich des Bundesministeriums der Finanzen vom 9. März 2016 (BGBl. I S. 493) außer Kraft.
+Diese Anordnung tritt am Tag nach der Veröffentlichung im Bundesgesetzblatt in Kraft. Gleichzeitig ist von diesem Zeitpunkt an die Anordnung zur Durchführung des Bundesdisziplinargesetzes im nachgeordneten Geschäftsbereich des Bundesministeriums der Finanzen vom 14. September 2020 (BGBl. I S. 2066) nur noch auf vor dem 1. April 2024 eingeleitete Disziplinarverfahren anzuwenden.

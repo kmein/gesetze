@@ -938,6 +938,7 @@
 - [BMeldDigiV](laws/BMeldDigiV.md) Verordnung zur Bestimmung von Inhalt, Form und Verfahren von Datenübermittlungen zwischen Meldebehörden und einem Verwaltungsportal zur Erbringung von digitalen Verwaltungsleistungen
 - [BMELWidVertrAnO](laws/BMELWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft
 - [BMFBDGAnO](laws/BMFBDGAnO.md) Anordnung zur Durchführung des Bundesdisziplinargesetzes im nachgeordneten Geschäftsbereich des Bundesministeriums der Finanzen
+- [BMFBDGAnO](laws/BMFBDGAnO.md) Anordnung zur Durchführung des Bundesdisziplinargesetzes im nachgeordneten Geschäftsbereich des Bundesministeriums der Finanzen
 - [BMFJubAnO](laws/BMFJubAnO.md) Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen an Beamte im Geschäftsbereich des Bundesministers der Finanzen
 - [BMFlüJubAnO](laws/BMFlüJubAnO.md) Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen an Beamte im Geschäftsbereich des Bundesministeriums für Vertriebene, Flüchtlinge und Kriegsgeschädigte
 - [BMFNVAnO](laws/BMFNVAnO.md) Anordnung über die Übertragung der Befugnis zur Genehmigung von Nebentätigkeiten im Geschäftsbereich des Bundesministers der Finanzen
@@ -5740,6 +5741,7 @@
 - [UBAG](laws/UBAG.md) Gesetz über die Errichtung eines Umweltbundesamtes
 - [UBGG](laws/UBGG.md) Gesetz über Unternehmensbeteiligungsgesellschaften
 - [UBRegG](laws/UBRegG.md) Gesetz zur Errichtung und Führung eines Registers über Unternehmensbasisdaten und zur Einführung einer bundeseinheitlichen Wirtschaftsnummer für Unternehmen
+- [UBRegV](laws/UBRegV.md) Verordnung über das Register über Unternehmensbasisdaten
 - [UDÜV](laws/UDÜV.md) Verordnung zur Übertragung von Befugnissen und Pflichten auf die Bundesnetzagentur gemäß § 157 Absatz 5 des Telekommunikationsgesetzes
 - [ÜAG](laws/ÜAG.md) Gesetz zur Ausführung des Übereinkommens vom 21. März 1983 über die Überstellung verurteilter Personen, des Zusatzprotokolls vom 18. Dezember 1997 und des Schengener Durchführungsübereinkommens
 - [ÜAnlG](laws/ÜAnlG.md) Gesetz über überwachungsbedürftige Anlagen
