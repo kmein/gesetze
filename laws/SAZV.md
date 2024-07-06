@@ -119,6 +119,34 @@ Die Verkürzung beginnt mit Beginn des Monats der Antragstellung, sofern die Vor
 
 (5) Die durchschnittliche wöchentliche Arbeitszeit darf in einem Zeitraum von zwölf Monaten einschließlich der geleisteten Mehrarbeit 48 Stunden nicht überschreiten.
 
+# § 5a – Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten als fliegende Besatzung
+
+(1) Für Soldatinnen und Soldaten, die als fliegende Besatzung Tätigkeiten zur Überwachung des nationalen Luftraums oder im maritimen Such- und Rettungsdienst der Streitkräfte ausüben, darf bis zum 31. Dezember 2026 abweichend von § 5 Absatz 5 die durchschnittliche wöchentliche Arbeitszeit in einem Zeitraum von zwölf Monaten 54 Stunden nicht überschreiten. Die betroffenen Soldatinnen und Soldaten sind über die für sie geltende höchstzulässige durchschnittliche wöchentliche Arbeitszeit zu unterrichten.
+
+(2) Für Soldatinnen und Soldaten
+
+1. dürfen die in Absatz 1 Satz 1 genannten Tätigkeiten
+
+a) zusammenhängend längstens für 168 Stunden angeordnet werden und
+
+b) an insgesamt höchstens 70 Tagen im Kalenderjahr angeordnet werden und
+
+2. darf Mehrarbeit ausschließlich für die in Absatz 1 Satz 1 genannten Tätigkeiten angeordnet werden, wenn die durchschnittliche wöchentliche Arbeitszeit der Soldatinnen und Soldaten zum Zeitpunkt der Mehrarbeit über 48 Stunden liegt.
+
+Wenn nicht voraussehbare und vom Dienstherrn nicht zu vertretende Umstände es erfordern, darf die Höchstgrenze von zusammenhängend 168 Stunden ausnahmsweise um bis zu zwölf Stunden überschritten werden.
+
+(3) Das Kommando Luftwaffe und das Marinekommando übermitteln dem Bundesministerium der Verteidigung im Januar und Juli eines jeden Jahres eine Liste der Soldatinnen und Soldaten, die im Berichtszeitraum die in Absatz 1 Satz 1 genannten Tätigkeiten ausgeübt haben. Berichtszeitraum ist jeweils das vorangegangene Halbjahr. Zu jeder Soldatin und zu jedem Soldaten sind anzugeben:
+
+1. die Zeiträume, in denen eine höchstzulässige durchschnittliche wöchentliche Arbeitszeit mehr als 48 Stunden betragen hat,
+
+2. die Zahl der Tage, an denen eine der in Absatz 1 Satz 1 genannten Tätigkeiten ausgeübt worden ist, und
+
+3. die durchschnittliche wöchentliche Arbeitszeit
+
+a) am letzten Tag jedes Kalendervierteljahres sowie
+
+b) am ersten und letzten Tag der ununterbrochenen Geltung der höchstzulässigen Arbeitszeit von 54 Stunden, wenn der Tag in den Berichtszeitraum fällt.
+
 # § 6 – Regelmäßige tägliche Arbeitszeit
 
 (1) Die regelmäßige tägliche Arbeitszeit sowie deren Beginn und Ende sind festzulegen. Die regelmäßige tägliche Arbeitszeit darf 13 Stunden einschließlich der Pausen nicht überschreiten. Von Satz 2 kann abgewichen werden, wenn dienstliche Gründe dies erfordern, insbesondere in folgenden Bereichen:
@@ -311,7 +339,7 @@ Vor einer Versetzung ist das Gleitzeitkonto grundsätzlich auszugleichen.
 
 # § 21 – Anordnung von Dienst
 
-(1) Bei den in § 30c Absatz 4 des Soldatengesetzes genannten Tätigkeiten ist der Dienst im Voraus und für ganze Kalendertage anzuordnen. Soweit es zwingend erforderlich ist, darf die Anordnung am selben Kalendertag erfolgen; in diesem Fall gilt der Dienst des gesamten Tages als für die Tätigkeit nach § 30c Absatz 4 des Soldatengesetzes geleistet. Die Anordnung erfolgt bei den in § 30c Absatz 4 Nummer 2 bis 5 des Soldatengesetzes genannten Tätigkeiten durch die zuständigen Leiterinnen oder Leiter der Organisationsbereiche oder durch den Kommandeur des Territorialen Führungskommandos der Bundeswehr. Diese können die Anordnungsbefugnis einer ihnen unterstellten Person übertragen.
+(1) Bei den in § 30c Absatz 4 des Soldatengesetzes genannten Tätigkeiten ist der Dienst im Voraus und für ganze Kalendertage anzuordnen. Soweit es zwingend erforderlich ist, darf die Anordnung am selben Kalendertag erfolgen; in diesem Fall gilt der Dienst des gesamten Tages als für die Tätigkeit nach § 30c Absatz 4 des Soldatengesetzes geleistet. Die Anordnung erfolgt bei den in § 30c Absatz 4 Nummer 2 bis 5 des Soldatengesetzes genannten Tätigkeiten durch die zuständigen Leiterinnen oder Leiter der Organisationsbereiche, durch die Befehlshaberin oder den Befehlshaber Territoriales Führungskommando der Bundeswehr oder durch die Befehlshaberin oder den Befehlshaber Einsatzführungskommando der Bundeswehr. Diese können die Anordnungsbefugnis einer ihnen unterstellten Person übertragen.
 
 (2) Geleisteter Dienst bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes ist einschließlich seiner Anordnung und seines Ausgleichs zu erfassen. Die hierbei erhobenen Daten sind nach Ablauf des Jahres, in dem der Dienst geleistet worden ist, fünf Jahre aufzubewahren und anschließend zu löschen.
 
