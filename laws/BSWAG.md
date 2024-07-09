@@ -29,6 +29,8 @@
 
 (2) Der Bedarfsplan für die Bundesschienenwege und die entsprechenden Pläne für andere Verkehrsträger sind im Rahmen der Bundesverkehrswegeplanung aufeinander abzustimmen. Hierbei sind auch Ausbaupläne für den europäischen Eisenbahnverkehr und kombinierten Verkehr, Belange des Umweltschutzes und Zielsetzungen der Raumplanung angemessen zu berücksichtigen.
 
+(3) Für Maßnahmen, die der Erhöhung der Netzresilienz bei einem Vorhaben des Bedarfsplans für die Bundesschienenwege dienen, hat das Bundesministerium für Digitales und Verkehr die Modalitäten für das anzuwendende Verfahren des Nachweises der Wirtschaftlichkeit festzulegen.
+
 # § 4 – Überprüfung des Bedarfs
 
 (1) Spätestens nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für Digitales und Verkehr ob der Bedarfsplan der zwischenzeitlich eingetretenen Wirtschafts- und Verkehrsentwicklung anzupassen ist. Die Anpassung und Aufstellung erfolgen durch Gesetz.
@@ -53,11 +55,13 @@ Das Bundesministerium für Digitales und Verkehr berichtet dem Deutschen Bundest
 
 (2) Von den Mitteln sind zwanzig vom Hundert für Investitionen in Schienenwege der Eisenbahnen des Bundes, die dem Schienenpersonennahverkehr dienen, zu verwenden. Die Deutsche Bahn Aktiengesellschaft stimmt diese Maßnahme mit dem jeweiligen Bundesland ab.
 
-(3) Die Finanzierung nach § 11 des Gemeindeverkehrsfinanzierungsgesetzes in der Fassung der Bekanntmachung vom 28. Januar 1988 (BGBl. I S. 100), das zuletzt durch Artikel 6 Abs. 107 des Gesetzes vom 27. Dezember 1993 (BGBl. I S. 2378) geändert worden ist, sowie eine Förderung von Investitionen in die Schienenwege von Eisenbahnen des Bundes durch andere Gebietskörperschaften oder Dritte bleiben unberührt.
+(3) Die Finanzierung nach § 11 des Gemeindeverkehrsfinanzierungsgesetzes in der Fassung der Bekanntmachung vom 28. Januar 1988 (BGBl. I S. 100), das zuletzt durch Artikel 323 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, sowie eine Förderung von Investitionen in die Schienenwege von Eisenbahnen des Bundes durch andere Gebietskörperschaften oder Dritte bleiben unberührt.
 
-(4) Die Eisenbahnen des Bundes tragen Kosten der Unterhaltung und Instandsetzung ihrer Schienenwege.
+(4) Die Eisenbahnen des Bundes tragen Kosten der Unterhaltung und Instandhaltung ihrer Schienenwege. Der Bund kann sich an den in Satz 1 bezeichneten Kosten nach Maßgabe der §§ 11a und 11b beteiligen.
 
-(5) Schienenwege im Sinne dieses Gesetzes sind die Schienenwege von Eisenbahnen einschließlich der für den Betrieb der Schienenwege notwendigen Anlagen, deren Bau oder Änderung grundsätzlich Gegenstand einer Planfeststellung nach § 18 des Allgemeinen Eisenbahngesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2396) sein können (Betriebsanlagen der Eisenbahn).
+(5) Schienenwege im Sinne dieses Gesetzes sind die Schienenwege von Eisenbahnen einschließlich der für den Betrieb der Schienenwege notwendigen Anlagen, deren Bau oder Änderung grundsätzlich Gegenstand einer Planfeststellung nach § 18 des Allgemeinen Eisenbahngesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2396) sein können (Betriebsanlagen der Eisenbahn). Zu den Schienenwegen im Sinne von Satz 1 zählen auch Anlagen für die Abstellung und die Bereitstellung von Schienenfahrzeugen, für die Zugbildung und für den Güterumschlag sowie dem Schienenpersonenverkehr dienende Empfangsgebäude der Personenbahnhöfe.
+
+(5a) Ausschließlich kommerziell genutzte Teile von Empfangsgebäuden können nicht finanziert werden.
 
 (6) Die Absätze 1 bis 4 gelten entsprechend für ortsfeste Betriebsleitsysteme, die die Kapazität der Schienenwege steigern und andere aufwendigere Investitionen in diese ersetzen oder vermeiden.
 
@@ -92,6 +96,152 @@ Unterschreitet der übernehmende Infrastrukturbetreiber diese Nutzungszeit, ist 
 (1) Ersatzinvestitionen werden nicht in den Bedarfsplan aufgenommen.
 
 (2) Für die Finanzierung und Baudurchführung der Ersatzinvestitionen gelten die §§ 9, 9a und 10 entsprechend.
+
+# § 11a – Optionale Finanzierung durch den Bund
+
+(1) Der Bund kann sich an den Kosten für einmalig anfallenden Aufwand beteiligen, der mit dem verfolgten Zweck einer Finanzierung im Zusammenhang steht; ein rein zeitlicher oder örtlicher Zusammenhang reicht hierfür nicht aus.
+
+(2) Der Bund kann sich an den Kosten der Unterhaltung und Instandhaltung der Schienenwege der Eisenbahnen des Bundes beteiligen.
+
+(3) Der Bund kann sich an den Kosten für bauliche Maßnahmen beteiligen, die aufgrund baurechtlicher oder eisenbahnrechtlicher Anforderungen an Schienenwegen der Eisenbahnen des Bundes notwendig sind.
+
+(4) Der Bund kann sich im Rahmen der Digitalisierung der Schienenwege der Eisenbahnen des Bundes an den folgenden infrastruktur- und fahrzeugseitigen Kosten beteiligen:
+
+1. Kosten für die infrastruktur- und fahrzeugseitige Ausrüstung auf dem übergeordneten Netz im Sinne von § 2b des Allgemeinen Eisenbahngesetzes mit Betriebsleitsystemen, Kommunikationssystemen, Kapazitätsmanagementsystemen und Verkehrsmanagementsystemen, die
+
+a) die Sicherheit des Eisenbahnbetriebs gewährleisten,
+
+b) die Kapazität der Schienenwege steuern oder steigern oder
+
+c) andere aufwendigere Investitionen in diese vermeiden;
+
+2. Kosten für infrastruktur- und fahrzeugseitige IT-Leistungen, inklusive Entwicklungs- und Zulassungsleistungen, soweit diese im unmittelbaren Zusammenhang mit den Schienenwegen der Eisenbahnen des Bundes stehen und nicht die Kosten für reine Forschungsleistungen und Entwicklungsleistungen ohne unmittelbaren Bezug zur jeweiligen IT-Leistung beinhalten.
+
+Satz 1 gilt nur für Fahrzeuge, die das übergeordnete Netz befahren. Die Förderung der Ausrüstung von Neufahrzeugen nach Satz 1 ist ausgeschlossen. Der Bund kann die Kosten der Ausrüstung von Vorserienfahrzeugen („First of Class“) bis zu 90 Prozent und der Ausrüstung von Serienfahrzeugen bis zu 60 Prozent finanzieren, sofern dafür die nach dem Beihilferecht der Europäischen Union zu beachtenden Voraussetzungen vorliegen. Die Einzelheiten sind vom Bundesministerium für Digitales und Verkehr in einer Förderrichtlinie zu regeln. In dieser sind Anreize für die zügige Ausrüstung von Vorserienfahrzeugen aufzunehmen. Diese Förderrichtlinie wird zum 31. Dezember 2028 vom Bundesministerium für Digitales und Verkehr im Hinblick auf ihre Zielerreichung und die Höhe der Förderung evaluiert. § 11b Absatz 1, 2, 4 und 5 findet auf diesen Absatz keine Anwendung.
+
+(5) Der Bund kann sich an den Kosten für die Instandhaltung von Anlagen zur Herstellung von Barrierefreiheit an Verkehrsstationen oder für freiwillige Lärmsanierungsmaßnahmen an bestehenden Schienenwegen der Eisenbahnen des Bundes beteiligen, soweit die Errichtung solcher Anlagen oder die Durchführung solcher Maßnahmen
+
+1. auf Initiative des Bundes und ohne Mitbestimmung der Länder erfolgt ist und
+
+2. vom Bund ganz oder teilweise finanziert worden sind.
+
+(6) Werden Ersatzinvestitionen bei Verkehrsstationen vorgenommen, kann der Bund diese auch dann finanzieren, wenn durch die Ersatzinvestitionen die Verkehrsstationen für den zukünftigen verkehrlichen Bedarf ertüchtigt werden. Dabei ist die Überprüfung nach § 4 Absatz 1 zu berücksichtigen.
+
+(7) Die Eisenbahnen des Bundes haben die für das Bestandsnetz zur Verfügung gestellten Haushaltsmittel für Generalsanierungen der insbesondere in § 11c Absatz 2 Satz 1 benannten Hochleistungskorridore und für die Erhaltung, Erneuerung und Digitalisierung der übrigen Schienenwege der Eisenbahnen des Bundes einzusetzen.
+
+(8) Die operative Steuerung des infrastruktur- und fahrzeugseitigen Rollouts der Digitalisierung der Schiene nach Absatz 4 erfolgt durch eine Koordinierungsstelle. Diese wird in Zusammenarbeit der betroffenen Eisenbahnverkehrsunternehmen, Eisenbahninfrastrukturunternehmen der Eisenbahnen des Bundes, Länder und Aufgabenträger errichtet und betrieben. Das Bundesministerium für Digitales und Verkehr unterstützt die Arbeit der Koordinierungsstelle.
+
+# § 11b – Finanzierungsvorbehalte; Ablösung einer Vorfinanzierung
+
+(1) Für die Finanzierung und Durchführung der in § 11a genannten Maßnahmen gilt § 9 entsprechend. In der Vereinbarung ist auch zu regeln, unter welchen Voraussetzungen und in welcher Höhe eine Rückzahlungspflicht besteht, wenn einer der in § 9a Absatz 1 geregelten Tatbestände eintritt.
+
+(2) Eine Finanzierung des Bundes nach § 11a bedarf einer besonderen Begründung. In der Vereinbarung nach § 9 ist darzulegen, dass diese Voraussetzung erfüllt ist.
+
+(3) Eine Finanzierung des Bundes nach § 11a darf jeweils nur dann erfolgen, sofern dafür die nach dem Beihilferecht der Europäischen Union zu beachtenden Voraussetzungen vorliegen.
+
+(4) Eine Finanzierung des Bundes nach § 11a setzt voraus, dass die zu finanzierenden Kosten nicht bereits durch anderweitige und zum Einsatz für die jeweiligen Maßnahmen bestimmte Einnahmen oder Mittelzuflüsse gedeckt sind. Soweit für Maßnahmen, für welche der Bund nach § 11a die Finanzierung übernehmen kann, anderweitige öffentliche Fördermöglichkeiten zur Verfügung stehen, sollen die Eisenbahnen des Bundes diese vorrangig vor einer Finanzierung des Bundes nach diesem Gesetz in Anspruch nehmen; die Eisenbahnen des Bundes haben dem Bund auf Anforderung das Ergebnis ihrer Prüfung, inwieweit solche Fördermöglichkeiten bestehen, darzulegen.
+
+(5) Eine Finanzierung des Bundes nach § 11a setzt ferner voraus, dass die nach Absatz 1 zu schließende Vereinbarung nach dem 9. Juli 2024 abgeschlossen worden ist. Soweit Ausgaben ab dem 1. Januar 2023 durch die Eisenbahnen des Bundes getätigt worden sind, die zu diesem Zeitpunkt auf Grundlage dieses Gesetzes noch nicht finanzierungsfähig waren, ist eine Ablösung der Vorfinanzierung zudem nur möglich, soweit der konkrete Finanzierungsbedarf bis zum 31. Dezember 2024 mitgeteilt wird und die sonstigen zuwendungsrechtlichen Voraussetzungen erfüllt sind. Die Entscheidung liegt im Ermessen des Bundes.
+
+(+++ § 11b: Zur Anwendung vgl. § 11a Abs. 4 +++)
+
+# § 11c – Generalsanierung Hochleistungskorridore
+
+(1) Das Konzept der Generalsanierung von Hochleistungskorridoren der Schienenwege der Eisenbahnen des Bundes hat das Vorziehen und die Bündelung von Instandhaltungsmaßnahmen, Ersatzinvestitionen und weiteren investiven Maßnahmen während einer einmaligen, mehrmonatigen Vollsperrung vorzusehen. Das zuständige Eisenbahninfrastrukturunternehmen der Eisenbahnen des Bundes kann in Abstimmung mit dem Bundesministerium für Digitales und Verkehr von der einmaligen, mehrmonatigen Vollsperrung gemäß Satz 1 abweichen.
+
+(2) Hochleistungskorridore im Sinne von Absatz 1 Satz 1 sind insbesondere:
+
+1. Frankfurt am Main — Mannheim;
+
+2. Emmerich — Oberhausen;
+
+3. Hamburg — Berlin/Spandau;
+
+4. Köln — Hagen;
+
+5. Nürnberg-Reichswald — Regensburg;
+
+6. Obertraubling — Passau;
+
+7. Troisdorf — Koblenz;
+
+8. Koblenz — Wiesbaden;
+
+9. Frankfurt am Main — Heidelberg;
+
+10. München-Ost — Rosenheim;
+
+11. Berlin — Lehrte;
+
+12. Bremen — Bremerhaven;
+
+13. Rosenheim — Salzburg;
+
+14. Köln – Dortmund — Hamm;
+
+15. Hamburg — Lübeck;
+
+16. Hamburg-Harburg — Bremen;
+
+17. Hürth-Kalscheuren — Koblenz;
+
+18. Koblenz — Mainz;
+
+19. Würzburg — Nürnberg;
+
+20. Hagen — Hamm;
+
+21. Uelzen — Stendal;
+
+22. Stendal — Magdeburg;
+
+23. Nordstemmen — Göttingen;
+
+24. Bebra — Fulda;
+
+25. Lehrte — Groß-Gleidingen;
+
+26. Hamburg — Hannover;
+
+27. Köln — Aachen/Aachen-Süd — Grenze;
+
+28. Bremen/Rotenburg — Wunstorf;
+
+29. Forbach — Ludwigshafen;
+
+30. Stuttgart — Ulm;
+
+31. Erfurt — Bebra;
+
+32. Weddel — Magdeburg;
+
+33. Bremen — Osnabrück;
+
+34. Osnabrück — Münster;
+
+35. Kassel — Gießen — Friedberg;
+
+36. Würzburg — Treuchtlingen;
+
+37. Münster — Recklinghausen-Süd;
+
+38. Wunstorf — Minden;
+
+39. Ulm — Augsburg;
+
+40. Mannheim — Karlsruhe;
+
+41. Flensburg — Hamburg (nach Fertigstellung der Hinterlandanbindung Fehmarnbeltquerung).
+
+(3) Die durch die Generalsanierung verursachten Kosten eines hochwertigen straßengebundenen Ersatzes von Schienenpersonennahverkehren sind bei erstmaliger vollständiger Durchführung einer Generalsanierung eines Hochleistungskorridors in Vollsperrung nach Maßgabe des Absatzes 5 zu finanzieren.
+
+(4) Das zuständige Eisenbahninfrastrukturunternehmen der Eisenbahnen des Bundes hat gegenüber dem Eisenbahn-Bundesamt begründet darzulegen, wie hoch die Kosten des in Absatz 3 bezeichneten Ersatzverkehrs in Folge einer Generalsanierung eines Hochleistungskorridors sind. Das Nachweis- und Berechnungsverfahren sind mit dem Eisenbahn-Bundesamt abzustimmen. Das Eisenbahn-Bundesamt stellt die Kosten dem Grunde und der Höhe nach fest.
+
+(5) Die Länder haben die nach Absatz 4 festgestellten Kosten des Ersatzes von Schienenpersonennahverkehren in der Höhe von 50 Prozent zu tragen. Den verbleibenden Anteil haben der Bund in Höhe von 40 Prozent und das zuständige Eisenbahninfrastrukturunternehmen der Eisenbahnen des Bundes in Höhe von 10 Prozent zu tragen. Der Bund hat den auf den Bund entfallenden Kostenanteil dem zuständigen Eisenbahninfrastrukturunternehmen der Eisenbahnen des Bundes zu erstatten.
+
+(6) Die Länder können bestimmen, zur Aufrechterhaltung des Schienenpersonennahverkehrs während der in Absatz 1 geregelten Vollsperrungen im Rahmen der Generalsanierung anstelle von straßengebundenen Ersatzverkehren schienengebundene Ersatzverkehre erbringen zu lassen. Sofern ein Land hiervon Gebrauch macht, kann eine Kostenteilung entsprechend Absatz 5 erfolgen, wenn das Land seine Entscheidung spätestens neun Monate vor Beginn der Generalsanierung dem Eisenbahn-Bundesamt gegenüber schriftlich angezeigt hat. Die für schienengebundene Ersatzverkehre anrechenbaren Kosten sind auf die gemäß Absatz 4 dargelegten Kosten begrenzt. Die Abrechnung dieser Kosten erfolgt einmalig anhand eines mit dem Eisenbahn-Bundesamt abzustimmenden Nachweis- und Berechnungsverfahrens. Eine Beteiligung des Bundes und des Eisenbahninfrastrukturunternehmens der Eisenbahnen des Bundes erfolgt vorbehaltlich einer einheitlichen Entscheidung für straßengebundenen oder schienengebundenen Ersatzverkehr je Generalsanierung.
+
+(7) Zum 31. Dezember 2028 erfolgt eine Evaluierung des in den Absätzen 3 bis 6 beschriebenen Verfahrens.
 
 # § 12 – Inkrafttreten
 
