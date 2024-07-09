@@ -159,6 +159,8 @@ Die Bundeszentrale für Kinder- und Jugendmedienschutz hat den als öffentlich g
 
 (3) Bei erfolgloser Zustellung soll die Bundeszentrale für Kinder- und Jugendmedienschutz die Entscheidungen den im Bereich der digitalen Dienste anerkannten Einrichtungen der Selbstkontrolle mitteilen.
 
+§ 15 Abs. 3: IdF d. Art. 1 Nr. 15 Buchst. b V v. 23.11.2022 I 2066 mWv 29.11.2022 u. d. Art. 13 Nr. 4 Buchst. b G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 (Kursivdruck: aufgrund offensichtlicher Unrichtigkeit wurde anstelle des Wortes "Telemedium" das Wort "Telemedien" durch das Wort "digitalen Dienste" ersetzt)
+
 # § 16 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

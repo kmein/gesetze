@@ -1484,7 +1484,7 @@ Die Berechnung nach Satz 1 erfolgt nach Anlage 2. Dabei werden Investitionskoste
 
 # § 45c – Repowering von Windenergieanlagen an Land
 
-(1) Die nachfolgenden Absätze gelten für Vorhaben zur Modernisierung von Windenergieanlagen an Land nach § 16b Absatz 1 und 2 des Bundes-Immissionsschutzgesetzes. Abweichend von § 16b Absatz 2 Satz 2 des Bundes-Immissionsschutzgesetzes werden auch neue Windenergieanlagen erfasst, die innerhalb von 48 Monaten nach dem Rückbau der Bestandsanlage errichtet werden und der Abstand zwischen der Bestandsanlage und der neuen Anlage höchstens das Fünffache der Gesamthöhe der neuen Anlage beträgt.
+(1) Die nachfolgenden Absätze gelten für Vorhaben zur Modernisierung von Windenergieanlagen an Land nach § 16b Absatz 1 und 2 des Bundes-Immissionsschutzgesetzes.
 
 (2) Der Umfang der artenschutzrechtlichen Prüfung wird durch das Änderungsgenehmigungsverfahren nach § 16b Absatz 1 des Bundes-Immissionsschutzgesetzes nicht berührt. Die Auswirkungen der zu ersetzenden Bestandsanlagen müssen bei der artenschutzrechtlichen Prüfung als Vorbelastung berücksichtigt werden. Dabei sind insbesondere folgende Umstände einzubeziehen:
 

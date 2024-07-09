@@ -129,7 +129,7 @@ ein.
 
 (1) Die Landesbehörden für Verfassungsschutz und das Bundesamt für Verfassungsschutz übermitteln sich unverzüglich die für ihre Aufgaben relevanten Informationen, einschließlich der Erkenntnisse ihrer Auswertungen. Wenn eine übermittelnde Behörde sich dies vorbehält, dürfen die übermittelten Daten nur mit ihrer Zustimmung an Stellen außerhalb der Behörden für Verfassungsschutz übermittelt werden.
 
-(2) Die Verfassungsschutzbehörden verarbeiten zur Erfüllung ihrer Unterrichtungspflichten nach Absatz 1 Informationen im gemeinsamen nachrichtendienstlichen Informationssystem. Der Militärische Abschirmdienst kann zur Erfüllung der Unterrichtungspflichten nach § 3 Absatz 3 Satz 1 des MAD-Gesetzes am nachrichtendienstlichen Informationssystem teilnehmen. Der Abruf von Daten aus dem nachrichtendienstlichen Informationssystem im automatisierten Verfahren ist im Übrigen nur entsprechend den §§ 22a und 22b zulässig. Für die Verarbeitung personenbezogener Daten im nachrichtendienstlichen Informationssystem gelten die §§ 10 und 11. Die Verantwortung einer speichernden Stelle im Sinne der allgemeinen Vorschriften des Datenschutzrechts trägt jede Verfassungsschutzbehörde nur für die von ihr eingegebenen Daten; nur sie darf diese Daten verändern, die Verarbeitung einschränken oder löschen. Die eingebende Stelle muss feststellbar sein. Eine Abfrage von Daten ist nur zulässig, soweit dies zur Erfüllung von Aufgaben, mit denen der Abfragende unmittelbar betraut ist, erforderlich ist. Die Zugriffsberechtigung auf Daten, die nicht zum Auffinden von Akten und der dazu notwendigen Identifizierung von Personen erforderlich sind, ist auf Personen zu beschränken, die mit der Erfassung von Daten oder Analysen betraut sind. Die Zugriffsberechtigung auf Unterlagen, die gespeicherte Angaben belegen, ist zudem auf Personen zu beschränken, die unmittelbar mit Arbeiten in diesem Anwendungsgebiet betraut sind.
+(2) Die Verfassungsschutzbehörden verarbeiten zur Erfüllung ihrer Unterrichtungspflichten nach Absatz 1 Informationen im gemeinsamen nachrichtendienstlichen Informationssystem. Der Militärische Abschirmdienst kann zur Erfüllung der Unterrichtungspflichten nach § 3 Absatz 3 Satz 1 des MAD-Gesetzes am nachrichtendienstlichen Informationssystem teilnehmen. Der Abruf von Daten aus dem nachrichtendienstlichen Informationssystem im automatisierten Verfahren ist im Übrigen nur entsprechend den §§ 22b und 22c zulässig. Für die Verarbeitung personenbezogener Daten im nachrichtendienstlichen Informationssystem gelten die §§ 10 und 11. Die Verantwortung einer speichernden Stelle im Sinne der allgemeinen Vorschriften des Datenschutzrechts trägt jede Verfassungsschutzbehörde nur für die von ihr eingegebenen Daten; nur sie darf diese Daten verändern, die Verarbeitung einschränken oder löschen. Die eingebende Stelle muss feststellbar sein. Eine Abfrage von Daten ist nur zulässig, soweit dies zur Erfüllung von Aufgaben, mit denen der Abfragende unmittelbar betraut ist, erforderlich ist. Die Zugriffsberechtigung auf Daten, die nicht zum Auffinden von Akten und der dazu notwendigen Identifizierung von Personen erforderlich sind, ist auf Personen zu beschränken, die mit der Erfassung von Daten oder Analysen betraut sind. Die Zugriffsberechtigung auf Unterlagen, die gespeicherte Angaben belegen, ist zudem auf Personen zu beschränken, die unmittelbar mit Arbeiten in diesem Anwendungsgebiet betraut sind.
 
 (3) Das Bundesamt für Verfassungsschutz trifft für die gemeinsamen Dateien die technischen und organisatorischen Maßnahmen entsprechend § 64 des Bundesdatenschutzgesetzes. Es hat bei jedem Zugriff für Zwecke der Datenschutzkontrolle den Zeitpunkt, die Angaben, die die Feststellung der abgefragten Datensätze ermöglichen, sowie die abfragende Stelle zu protokollieren. Die Auswertung der Protokolldaten ist nach dem Stand der Technik zu gewährleisten. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind nach Ablauf von fünf Jahren zu löschen.
 
@@ -528,7 +528,35 @@ In den Fällen des Satzes 1 Nummer 1 und 9 oder auf ein Ersuchen einer zuständi
 
 Liegen die Voraussetzungen nach den §§ 19 und 20 nicht vor, darf der Empfänger die übermittelten Daten nicht für Maßnahmen nutzen, die die betroffene Person mit unmittelbarer Außenwirkung belasten.
 
-# § 22a – Projektbezogene gemeinsame Dateien
+# § 22a – Übermittlung an inländische nichtöffentliche Stellen
+
+Eine Übermittlung personenbezogener Daten an nichtöffentliche inländische Stellen ist unzulässig, es sei denn, es bestehen im Einzelfall tatsächliche Anhaltspunkte, dass dies zum Schutz der Rechtsgüter nach § 19 Absatz 3 erforderlich ist
+
+1. zur eigenen Aufklärung einer beobachtungsbedürftigen Bestrebung oder Tätigkeit nach § 3 Absatz 1, insbesondere zur Vorbereitung oder Konkretisierung eines Auskunftsersuchens,
+
+2. zur Abwendung einer zumindest konkretisierten Gefahr für ein Rechtsgut nach § 19 Absatz 3,
+
+3. zur Erreichung eines der folgenden Zwecke:
+
+a) Schutz lebenswichtiger und verteidigungsrelevanter Einrichtungen und kritischer Infrastrukturen,
+
+b) Schutz der Sicherheit in der Informationstechnik gegen erhebliche Gefährdungen,
+
+c) Schutz rechtlich gewährleisteter Geheimnisse,
+
+d) wissenschaftliche Erforschung und Bewertung von Bestrebungen und Tätigkeiten nach § 3 Absatz 1,
+
+e) Schutz konkreter Präventions-, Ausstiegs- oder Deradikalisierungsprojekte, die finanziell oder organisatorisch mit öffentlichen Stellen kooperieren,
+
+f) Schutz des Kindeswohls bei der Erbringung von Leistungen und Erfüllung der Aufgaben der Kinder- und Jugendhilfe,
+
+g) Schutz der gesetzlichen Erziehungs- und Bildungsziele der Schulen und der Einrichtungen der Kindertagesbetreuung,
+
+h) Schutz der zweckgemäßen Verwendung öffentlicher Fördermittel oder sonstiger öffentlicher Vorteilszuwendungen.
+
+Eine nichtöffentliche Stelle, die personenbezogene Daten nach Satz 1 Nummer 3 erhalten hat, darf die Daten für Handlungen, die für die betroffene Person eine nachteilige rechtliche Wirkung entfalten oder diese Person in anderer Weise erheblich beeinträchtigen, nur verwenden, wenn dies zur Abwendung einer zumindest konkretisierten Gefahr für ein Rechtsgut nach § 19 Absatz 3 erforderlich ist und das Bundesamt für Verfassungsschutz zustimmt. Bei einer unmittelbar bevorstehenden Gefahr ist die vorherige Zustimmung des Bundesamts für Verfassungsschutz entbehrlich. Die nichtöffentliche Stelle hat das Bundesamt für Verfassungsschutz unverzüglich über ihre Handlungen und deren Anlass zu unterrichten.
+
+# § 22b – Projektbezogene gemeinsame Dateien
 
 (1) Das Bundesamt für Verfassungsschutz kann für die Dauer einer befristeten projektbezogenen Zusammenarbeit mit den Landesbehörden für Verfassungsschutz, dem Militärischen Abschirmdienst, dem Bundesnachrichtendienst, den Polizeibehörden des Bundes und der Länder und dem Zollkriminalamt eine gemeinsame Datei errichten. Die projektbezogene Zusammenarbeit bezweckt nach Maßgabe der Aufgaben und Befugnisse der in Satz 1 genannten Behörden den Austausch und die gemeinsame Auswertung von Erkenntnissen zu Bestrebungen, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen gegen die in § 3 Abs. 1 Nr. 1 bis 4 genannten Schutzgüter gerichtet sind. Personenbezogene Daten zu Bestrebungen nach Satz 2 dürfen unter Einsatz der gemeinsamen Datei durch die an der projektbezogenen Zusammenarbeit beteiligten Behörden im Rahmen ihrer Befugnisse verwendet werden, soweit dies in diesem Zusammenhang zur Erfüllung ihrer Aufgaben erforderlich ist. Bei der weiteren Verwendung der personenbezogenen Daten finden für die beteiligten Behörden die jeweils für sie geltenden Vorschriften über die Verwendung von Daten Anwendung.
 
@@ -562,37 +590,7 @@ Liegen die Voraussetzungen nach den §§ 19 und 20 nicht vor, darf der Empfänge
 
 Die Dateianordnung bedarf der Zustimmung des Bundesministeriums des Innern, für Bau und Heimat sowie der für die Fachaufsicht über die beteiligten Behörden zuständigen obersten Bundes- oder Landesbehörden. Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlass einer Dateianordnung anzuhören. § 6 Absatz 2 Satz 7 gilt entsprechend.
 
-# § 22a – Übermittlung an inländische nichtöffentliche Stellen
-
-Eine Übermittlung personenbezogener Daten an nichtöffentliche inländische Stellen ist unzulässig, es sei denn, es bestehen im Einzelfall tatsächliche Anhaltspunkte, dass dies zum Schutz der Rechtsgüter nach § 19 Absatz 3 erforderlich ist
-
-1. zur eigenen Aufklärung einer beobachtungsbedürftigen Bestrebung oder Tätigkeit nach § 3 Absatz 1, insbesondere zur Vorbereitung oder Konkretisierung eines Auskunftsersuchens,
-
-2. zur Abwendung einer zumindest konkretisierten Gefahr für ein Rechtsgut nach § 19 Absatz 3,
-
-3. zur Erreichung eines der folgenden Zwecke:
-
-a) Schutz lebenswichtiger und verteidigungsrelevanter Einrichtungen und kritischer Infrastrukturen,
-
-b) Schutz der Sicherheit in der Informationstechnik gegen erhebliche Gefährdungen,
-
-c) Schutz rechtlich gewährleisteter Geheimnisse,
-
-d) wissenschaftliche Erforschung und Bewertung von Bestrebungen und Tätigkeiten nach § 3 Absatz 1,
-
-e) Schutz konkreter Präventions-, Ausstiegs- oder Deradikalisierungsprojekte, die finanziell oder organisatorisch mit öffentlichen Stellen kooperieren,
-
-f) Schutz des Kindeswohls bei der Erbringung von Leistungen und Erfüllung der Aufgaben der Kinder- und Jugendhilfe,
-
-g) Schutz der gesetzlichen Erziehungs- und Bildungsziele der Schulen und der Einrichtungen der Kindertagesbetreuung,
-
-h) Schutz der zweckgemäßen Verwendung öffentlicher Fördermittel oder sonstiger öffentlicher Vorteilszuwendungen.
-
-Eine nichtöffentliche Stelle, die personenbezogene Daten nach Satz 1 Nummer 3 erhalten hat, darf die Daten für Handlungen, die für die betroffene Person eine nachteilige rechtliche Wirkung entfalten oder diese Person in anderer Weise erheblich beeinträchtigen, nur verwenden, wenn dies zur Abwendung einer zumindest konkretisierten Gefahr für ein Rechtsgut nach § 19 Absatz 3 erforderlich ist und das Bundesamt für Verfassungsschutz zustimmt. Bei einer unmittelbar bevorstehenden Gefahr ist die vorherige Zustimmung des Bundesamts für Verfassungsschutz entbehrlich. Die nichtöffentliche Stelle hat das Bundesamt für Verfassungsschutz unverzüglich über ihre Handlungen und deren Anlass zu unterrichten.
-
-(+++ § 22a (doppelt): Eingef. durch Art. 1 Nr. 3 G v.22.12.2023 I 413 mWv 30.12.2023 +++)
-
-# § 22b – Errichtung gemeinsamer Dateien mit ausländischen Nachrichtendiensten
+# § 22c – Errichtung gemeinsamer Dateien mit ausländischen Nachrichtendiensten
 
 (1) Das Bundesamt für Verfassungsschutz kann für die Zusammenarbeit mit ausländischen öffentlichen Stellen, die mit nachrichtendienstlichen Aufgaben betraut sind (ausländische Nachrichtendienste), zur Erforschung von Bestrebungen oder Tätigkeiten, die sich auf bestimmte Ereignisse oder Personenkreise beziehen, gemeinsame Dateien einrichten, wenn
 
@@ -630,9 +628,9 @@ b) Auskunft über die Verwendung der Daten zu geben, die vom Auskunft erbittende
 
 (7) Das Bundesamt für Verfassungsschutz trifft für die Dateien die technischen und organisatorischen Maßnahmen entsprechend § 64 des Bundesdatenschutzgesetzes. § 6 Absatz 3 Satz 2 bis 5 und § 28 gelten nur für die vom Bundesamt für Verfassungsschutz eingegebenen Daten sowie dessen Abrufe. Das Bundesamt für Verfassungsschutz erteilt dem Betroffenen entsprechend § 15 Auskunft nur zu den vom Bundesamt für Verfassungsschutz eingegebenen Daten.
 
-# § 22c – Teilnahme an gemeinsamen Dateien mit ausländischen Nachrichtendiensten
+# § 22d – Teilnahme an gemeinsamen Dateien mit ausländischen Nachrichtendiensten
 
-Das Bundesamt für Verfassungsschutz darf an gemeinsamen Dateien, die von ausländischen Nachrichtendiensten errichtet sind, teilnehmen. § 22b Absatz 1 bis 4 und 6 gilt entsprechend. Dabei gilt § 22b Absatz 1 Nummer 3 mit der Maßgabe, dass verlässlich zuzusagen ist, dass
+Das Bundesamt für Verfassungsschutz darf an gemeinsamen Dateien, die von ausländischen Nachrichtendiensten errichtet sind, teilnehmen. § 22c Absatz 1 bis 4 und 6 gilt entsprechend. Dabei gilt § 22c Absatz 1 Nummer 3 mit der Maßgabe, dass verlässlich zuzusagen ist, dass
 
 1. die vom Bundesamt für Verfassungsschutz eingegebenen Daten ohne dessen Zustimmung nicht an Dritte übermittelt werden dürfen und nur zu dem Zweck verwendet werden dürfen, zu dem sie in die Datei eingegeben wurden, und
 
