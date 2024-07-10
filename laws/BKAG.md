@@ -1795,7 +1795,7 @@ Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und 2 anhan
 
 (5) § 10 Absatz 5 bis 7 gilt entsprechend.
 
-§ 63a Abs. 2: IdF d. Art. 9 Nr. 5 Buchst. a G v. 23.6.2021 I 1962 mWv 1.12.2021 u. d. Art. 14 Nr. 5 Buchst. a G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 (Kursivdruck: aufgrund offensichtlicher Unrichtigkeit wurde anstelle der Wörter "digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetze" die Wörter "digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes" eingefügt)
+§ 63a Abs. 2: IdF d. Art. 9 Nr. 5 Buchst. a G v. 23.6.2021 I 1962 mWv 1.12.2021 u. d. Art. 14 Nr. 5 Buchst. a G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 (Kursivdruck: aufgrund offensichtlicher Unrichtigkeit wurde das Wort „Telemedien“ anstatt durch die Wörter „digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetze" durch die Wörter „digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes" ersetzt)
 
 # § 64 – Besondere Mittel der Datenerhebung
 
