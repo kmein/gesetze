@@ -1557,6 +1557,7 @@
 - [DruckLV](laws/DruckLV.md) Verordnung über Arbeiten in Druckluft
 - [DruckMstrV](laws/DruckMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Drucker-(Buchdrucker-)Handwerk
 - [DruckverarbAusbV](laws/DruckverarbAusbV.md) Verordnung über die Berufsausbildung zum Medientechnologen Druckverarbeitung und zur Medientechnologin Druckverarbeitung*)
+- [DSCZustV](laws/DSCZustV.md) Verordnung zur Bestimmung der öffentlichen Stelle für die Errichtung und den Betrieb des Datenschutzcockpits
 - [DSiegelErl](laws/DSiegelErl.md) Erlaß über die Dienstsiegel
 - [DSLBSa](laws/DSLBSa.md) Satzung der DSL Bank AG (Anhang des Gesetzes über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in eine Aktiengesellschaft)
 - [DSLBUmwG](laws/DSLBUmwG.md) Gesetz über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in eine Aktiengesellschaft
@@ -2404,6 +2405,7 @@
 - [GenBkBEAnO](laws/GenBkBEAnO.md) Anordnung über das Statut der Genossenschaftsbank Berlin
 - [GenBkBES](laws/GenBkBES.md) Statut der Genossenschaftsbank Berlin (Anlage zur Anordnung über das Statut der Genossenschaftsbank Berlin)
 - [GenDG](laws/GenDG.md) Gesetz über genetische Untersuchungen bei Menschen
+- [GenDV](laws/GenDV.md) Verordnung zum Modellvorhaben zur umfassenden Diagnostik und Therapiefindung mittels Genomsequenzierung bei seltenen und bei onkologischen Erkrankungen
 - [GenfRKAbkZProt I](laws/GenfRKAbkZProt_I.md) Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer internationaler bewaffneter Konflikte (Protokoll I)
 - [GenfRKAbkZProt II](laws/GenfRKAbkZProt_II.md) Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer nicht internationaler bewaffneter Konflikte (Protokoll II)
 - [GenfRKAbkZProt III](laws/GenfRKAbkZProt_III.md) Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über die Annahme eines zusätzlichen Schutzzeichens (Protokoll III)
@@ -2984,6 +2986,7 @@
 - [InvZulG 2007](laws/InvZulG_2007.md) Investitionszulagengesetz 2007
 - [InvZulG 2010](laws/InvZulG_2010.md) Investitionszulagengesetz 2010
 - [InvZulG2005DV](laws/InvZulG2005DV.md) Verordnung zur Durchführung von § 5 Abs. 2 Satz 4 des Investitionszulagengesetzes 2005
+- [IPBESSekrVbgV](laws/IPBESSekrVbgV.md) Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen über die Errichtung eines durch das Umweltprogramm der Vereinten Nationen gestellten Sekretariats für die Zwischenstaatliche Plattform Wissenschaft-Politik für Biodiversität und Ökosystemdienstleistungen (IPBES) in Bonn (IPBES-Sekretariat)
 - [IRegBV](laws/IRegBV.md) Verordnung zum Betrieb des Implantateregisters Deutschland
 - [IRegG](laws/IRegG.md) Gesetz zum Implantateregister Deutschland
 - [IRegGebV](laws/IRegGebV.md) Verordnung über die Erhebung von Gebühren für individuell zurechenbare öffentliche Leistungen nach dem Implantateregistergesetz und der Implantateregister-Betriebsverordnung
