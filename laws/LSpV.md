@@ -35,8 +35,6 @@ Auf Grund des § 2 Abs. 2 des Lebensmittelspezialitätengesetzes vom 29. Oktober
 
 Ein Antrag auf Änderung oder Löschung einer Eintragung in dem von der Europäischen Kommission geführten Register der garantiert traditionellen Spezialitäten ist unter Verwendung der jeweiligen in den Anhängen VI, VII, VIII oder IX der Durchführungsverordnung (EU) Nr. 668/2014 vorgeschriebenen Muster bei der Bundesanstalt einzureichen. § 1 Absatz 2 bis 4 und die §§ 2 und 3 sind entsprechend anzuwenden.
 
-# § 5 – (weggefallen)
-
 # § 5 – Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143
 
 Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU) 2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in ihrer jeweils in Bezug genommenen Fassung weiterhin Anwendung finden, ist § 5 Absatz 1 und 2 in der bis zum 27. Juni 2024 geltenden Fassung weiter anzuwenden.
