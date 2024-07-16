@@ -1379,7 +1379,6 @@
 - [DBA AUT 2002](laws/DBA_AUT_2002.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 - [DBA CH 1980](laws/DBA_CH_1980.md) Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Nachlaß- und Erbschaftsteuern
 - [DBA EST](laws/DBA_EST.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Estland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
-- [DBA FRA](laws/DBA_FRA.md) Abkommen zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Vermeidung der Doppelbesteuerungen und über gegenseitige Amts- und Rechtshilfe auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie der Gewerbesteuern und der Grundsteuern
 - [DBA ISR 1980](laws/DBA_ISR_1980.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Staat Israel zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Nachlaß- und Erbschaftsteuern
 - [DBA KAZ](laws/DBA_KAZ.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Kasachstan zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 - [DBA LET](laws/DBA_LET.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Lettland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
@@ -4447,7 +4446,7 @@
 - [PfandMeldeV](laws/PfandMeldeV.md) Verordnung über pfandbriefrechtliche Meldungen
 - [PFAV](laws/PFAV.md) Verordnung betreffend die Aufsicht über Pensionsfonds und über die Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung
 - [PferdewMeistPrV](laws/PferdewMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Pferdewirtschaftsmeister und Pferdewirtschaftsmeisterin
-- [PflAFinV](laws/PflAFinV.md) Verordnung über die Finanzierung der beruflichen Ausbildung nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen
+- [PflAFinV](laws/PflAFinV.md) Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen
 - [PflanzentechMeistPrV](laws/PflanzentechMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Pflanzentechnologiemeister und Pflanzentechnologiemeisterin
 - [PflanzTechnAusbStEignV](laws/PflanzTechnAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Pflanzentechnologen und zur Pflanzentechnologin
 - [PflanzTechnAusbV](laws/PflanzTechnAusbV.md) Verordnung über die Berufsausbildung zum Pflanzentechnologen und zur Pflanzentechnologin*

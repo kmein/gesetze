@@ -1,4 +1,4 @@
-% Verordnung über die Finanzierung der beruflichen Ausbildung nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen  (Pflegeberufe-Ausbildungsfinanzierungsverordnung - PflAFinV)
+% Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen  (Pflegeberufe-Ausbildungsfinanzierungsverordnung - PflAFinV)
 % Ausfertigungsdatum: 02.10.2018
  
 # Eingangsformel
@@ -241,6 +241,8 @@ g) die Art der Pflegeausbildung differenziert nach beruflicher und hochschulisch
 
 2. für Personen, die die Ausbildung während des Berichtsjahres beendet haben, zusätzlich Angaben zu Datum und Grund der Beendigung der Ausbildung einschließlich Art des Abschlusses (kein Abschluss, Abschluss nach § 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 2 des Pflegeberufegesetzes oder Abschluss nach § 39 Absatz 1 des Pflegeberufegesetzes, jeweils einschließlich der Angabe, inwieweit der Abschluss eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie Abschluss mit einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes).
 
+g) Art der Ausbildung nach den Teilen 2, 3 oder 5,
+
 (3) Bei den Erhebungen nach § 21 Absatz 2 Nummer 3 werden für jede sich in der Ausbildung befindliche Person Angaben über die vertraglich vorgesehene Ausbildungsvergütung pro Ausbildungsjahr erfasst.
 
 # § 23 – Hilfsmerkmale
@@ -291,7 +293,8 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage 1 – (zu § 3 Absatz 1, § 4 Absatz 1)Kosten der Träger der praktischen Ausbildung und der Pflegeschulen ohne die Mehrkosten der Ausbildungsvergütung nach § 27 Absatz 1 Satz 1 des Pflegeberufegesetzes und ohne die Kosten der Ausbildungsvergütung nach § 39a Absatz 1 des Pflegeberufegesetzes
 
-(Fundstelle: BGBl. I 2018, 1628 - 1630)
+(Fundstelle: BGBl. I 2018, 1628 - 1630;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -615,7 +618,8 @@ Sonstige Gemeinkosten
 
 # Anlage 2 – (zu § 5 Absatz 1 Nummer 1)Erforderliche Angaben zur Festsetzung der Ausbildungsbudgets
 
-(Fundstelle: BGBl. I 2018, 1631)
+(Fundstelle: BGBl. I 2018, 1631;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
