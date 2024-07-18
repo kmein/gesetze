@@ -749,6 +749,10 @@ Formulare; Verordnungsermächtigung
 
 Nutzungspflicht für Rechtsanwälte und Behörden
 
+§ 130e
+
+Formfiktion
+
 § 131
 
 Beifügung von Urkunden
@@ -6085,11 +6089,11 @@ Die vorbereitenden Schriftsätze sollen enthalten:
 
 # § 130a – Elektronisches Dokument; Verordnungsermächtigung
 
-(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Parteien sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können nach Maßgabe der folgenden Absätze als elektronische Dokumente bei Gericht eingereicht werden.
+(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Parteien sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen, Anträge und Erklärungen Dritter können nach Maßgabe der folgenden Absätze als elektronische Dokumente bei Gericht eingereicht werden.
 
-(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch das Gericht.
+(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch das Gericht sowie das Nähere zur Verarbeitung von Daten der Postfachinhaber nach Absatz 4 Satz 1 Nummer 4 und 5 in einem sicheren elektronischen Verzeichnis.
 
-(3) Das elektronische Dokument muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind.
+(3) Das elektronische Dokument muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind. Soll ein schriftlich einzureichender Antrag oder eine schriftlich einzureichende Erklärung einer Partei oder eines Dritten als elektronisches Dokument eingereicht werden, so kann der unterschriebene Antrag oder die unterschriebene Erklärung in ein elektronisches Dokument übertragen und durch den Bevollmächtigten, den Vertreter oder den Beistand nach Satz 1 übermittelt werden.
 
 (4) Sichere Übermittlungswege sind
 
@@ -6124,6 +6128,10 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 # § 130d – Nutzungspflicht für Rechtsanwälte und Behörden
 
 Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt, durch eine Behörde oder durch eine juristische Person des öffentlichen Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als elektronisches Dokument zu übermitteln. Ist dies aus technischen Gründen vorübergehend nicht möglich, bleibt die Übermittlung nach den allgemeinen Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
+
+# § 130e – Formfiktion
+
+Ist eine empfangsbedürftige Willenserklärung, die der schriftlichen oder elektronischen Form bedarf, klar erkennbar in einem vorbereitenden Schriftsatz enthalten, der als elektronisches Dokument nach § 130a bei Gericht eingereicht und dem Empfänger zugestellt oder mitgeteilt wurde, so gilt die Willenserklärung als in schriftlicher oder elektronischer Form zugegangen. Dies gilt auch dann, wenn die Ersetzung der schriftlichen Form durch die elektronische Form ausgeschlossen ist.
 
 # § 131 – Beifügung von Urkunden
 
@@ -7314,6 +7322,12 @@ Nach Schluss der mündlichen Verhandlung, auf die das Urteil ergeht, können Ang
 (1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch geführt. Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen und dem Stand der Technik entsprechenden technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit. Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die in Papierform angelegt wurden, in Papierform weitergeführt werden. Die Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3 durch Rechtsverordnung auf die für die Zivilgerichtsbarkeit zuständigen obersten Landesbehörden übertragen. Die Rechtsverordnungen der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates.
 
 (2) Werden die Prozessakten elektronisch geführt, sind in Papierform vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu übertragen. Es ist sicherzustellen, dass das elektronische Dokument mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem Übertragungsnachweis zu versehen, der das bei der Übertragung angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung dokumentiert. Wird ein von den verantwortenden Personen handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen, ist der Übertragungsnachweis mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht rückgabepflichtig sind.
+
+(3) Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten Stichtag oder Ereignis in elektronischer Form weitergeführt werden. Die Zulassung der Weiterführung in elektronischer Form kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in elektronischer Form weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die zuständigen obersten Landesbehörden übertragen.
+
+(4) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Übermittlung elektronischer Akten zwischen Behörden und Gerichten geltenden Standards bestimmen.
+
+ 
 
 # § 299 – Akteneinsicht; Abschriften
 

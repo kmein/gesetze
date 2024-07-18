@@ -223,6 +223,8 @@ Das für die Erledigung eines Ablehnungsgesuchs zuständige Gericht hat auch dan
 
 (1) Die Akten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an die Akten elektronisch geführt werden. Sie können die Einführung der elektronischen Aktenführung dabei auf einzelne Gerichte oder Strafverfolgungsbehörden oder auf allgemein bestimmte Verfahren beschränken und bestimmen, dass Akten, die in Papierform angelegt wurden, auch nach Einführung der elektronischen Aktenführung in Papierform weitergeführt werden; wird von der Beschränkungsmöglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Akten elektronisch zu führen sind. Die Ermächtigung kann durch Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien übertragen werden.
 
+(1a) Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten Stichtag oder Ereignis in elektronischer Form weitergeführt werden. Die Zulassung der Weiterführung in elektronischer Form kann auf einzelne Gerichte oder Strafverfolgungsbehörden oder auf allgemein bestimmte Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in elektronischer Form weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Ermächtigung kann durch Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien übertragen werden.
+
 (2) Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung die für die elektronische Aktenführung geltenden organisatorischen und dem Stand der Technik entsprechenden technischen Rahmenbedingungen einschließlich der einzuhaltenden Anforderungen des Datenschutzes, der Datensicherheit und der Barrierefreiheit. Sie können die Ermächtigung durch Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien übertragen.
 
 (3) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Übermittlung elektronischer Akten zwischen Strafverfolgungsbehörden und Gerichten geltenden Standards. Sie kann die Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die zuständigen Bundesministerien übertragen.
@@ -231,9 +233,9 @@ Das für die Erledigung eines Ablehnungsgesuchs zuständige Gericht hat auch dan
 
 (1) Elektronische Dokumente können bei Strafverfolgungsbehörden und Gerichten nach Maßgabe der folgenden Absätze eingereicht werden.
 
-(2) Das elektronische Dokument muss für die Bearbeitung durch die Strafverfolgungsbehörde oder das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch die Strafverfolgungsbehörde oder das Gericht.
+(2) Das elektronische Dokument muss für die Bearbeitung durch die Strafverfolgungsbehörde oder das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch die Strafverfolgungsbehörde oder das Gericht sowie das Nähere zur Verarbeitung von Daten der Postfachinhaber nach Absatz 4 Satz 1 Nummer 4 und 5 in einem sicheren elektronischen Verzeichnis.
 
-(3) Ein Dokument, das schriftlich abzufassen, zu unterschreiben oder zu unterzeichnen ist, muss als elektronisches Dokument mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden.
+(3) Ein Dokument, das schriftlich abzufassen, zu unterschreiben oder zu unterzeichnen ist, muss als elektronisches Dokument mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Soll ein Dokument, das von einem Beschuldigten, einem anderen Verfahrensbeteiligten oder einem Dritten schriftlich abzufassen, zu unterschreiben oder zu unterzeichnen ist, elektronisch eingereicht werden, so kann es in ein elektronisches Dokument übertragen und durch einen Verteidiger oder Rechtsanwalt nach Satz 1 übermittelt werden.
 
 (4) Sichere Übermittlungswege sind
 
@@ -263,7 +265,7 @@ Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5 regelt die 
 
 (3) Werden die Akten elektronisch geführt, sollen Strafverfolgungsbehörden und Gerichte einander Dokumente als elektronisches Dokument übermitteln. Die Anklageschrift, der Antrag auf Erlass eines Strafbefehls außerhalb einer Hauptverhandlung, die Berufung und ihre Begründung, die Revision, ihre Begründung und die Gegenerklärung sowie als elektronisches Dokument erstellte gerichtliche Entscheidungen sind als elektronisches Dokument zu übermitteln. Ist dies aus technischen Gründen vorübergehend nicht möglich, ist die Übermittlung in Papierform zulässig; auf Anforderung ist ein elektronisches Dokument nachzureichen.
 
-(4) Abschriften und beglaubigte Abschriften können in Papierform oder als elektronisches Dokument erteilt werden. Elektronische beglaubigte Abschriften müssen mit einer qualifizierten elektronischen Signatur der beglaubigenden Person versehen sein. Wird eine beglaubigte Abschrift in Papierform durch Übertragung eines elektronischen Dokuments erstellt, das mit einer qualifizierten elektronischen Signatur versehen ist oder auf einem sicheren Übermittlungsweg eingereicht wurde, muss der Beglaubigungsvermerk das Ergebnis der Prüfung der Authentizität und Integrität des elektronischen Dokuments enthalten.
+(4) Abschriften und beglaubigte Abschriften können in Papierform oder als elektronisches Dokument erteilt werden. Elektronische beglaubigte Abschriften müssen mit einer qualifizierten elektronischen Signatur der beglaubigenden Person versehen sein. Wird eine beglaubigte Abschrift in Papierform durch Übertragung eines elektronischen Dokuments erstellt, das mit einer qualifizierten elektronischen Signatur versehen ist oder auf einem sicheren Übermittlungsweg eingereicht wurde, muss der Beglaubigungsvermerk das Ergebnis der Prüfung der Authentizität und Integrität des elektronischen Dokuments enthalten. Eines erweiterten Beglaubigungsvermerks nach Satz 3 bedarf es nicht, wenn das elektronische Dokument von der beglaubigenden Stelle selbst erstellt wurde. Anstelle eines erweiterten Beglaubigungsvermerks nach Satz 3 kann das Ergebnis der Prüfung der Authentizität und Integrität auch auf andere Weise untrennbar mit der in Papierform erteilten Abschrift verbunden werden.
 
 (5) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Erstellung elektronischer Dokumente und deren Übermittlung zwischen Strafverfolgungsbehörden und Gerichten geltenden Standards. Sie kann die Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die zuständigen Bundesministerien übertragen.
 
@@ -836,7 +838,7 @@ Satz 3 gilt entsprechend in den Fällen des Absatzes 2 Satz 2, wenn der Beschuld
 
 # § 81f – Verfahren bei der molekulargenetischen Untersuchung
 
-(1) Untersuchungen nach § 81e Abs. 1 dürfen ohne schriftliche Einwilligung der betroffenen Person nur durch das Gericht, bei Gefahr im Verzug auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) angeordnet werden. Die einwilligende Person ist darüber zu belehren, für welchen Zweck die zu erhebenden Daten verwendet werden.
+(1) Untersuchungen nach § 81e Abs. 1 dürfen ohne Einwilligung der betroffenen Person nur durch das Gericht, bei Gefahr im Verzug auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) angeordnet werden. Die einwilligende Person ist darüber zu belehren, für welchen Zweck die zu erhebenden Daten verwendet werden. Die Einwilligung ist schriftlich zu erklären oder von der Staatsanwaltschaft oder ihren Ermittlungspersonen in Gegenwart der einwilligenden Person zu protokollieren oder auf sonstige Weise zu dokumentieren.
 
 (2) Mit der Untersuchung nach § 81e sind in der schriftlichen Anordnung Sachverständige zu beauftragen, die öffentlich bestellt oder nach dem Verpflichtungsgesetz verpflichtet oder Amtsträger sind, die der ermittlungsführenden Behörde nicht angehören oder einer Organisationseinheit dieser Behörde angehören, die von der ermittlungsführenden Dienststelle organisatorisch und sachlich getrennt ist. Diese haben durch technische und organisatorische Maßnahmen zu gewährleisten, daß unzulässige molekulargenetische Untersuchungen und unbefugte Kenntnisnahme Dritter ausgeschlossen sind. Dem Sachverständigen ist das Untersuchungsmaterial ohne Mitteilung des Namens, der Anschrift und des Geburtstages und -monats der betroffenen Person zu übergeben. Ist der Sachverständige eine nichtöffentliche Stelle, finden die Vorschriften der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) und des Bundesdatenschutzgesetzes auch dann Anwendung, wenn die personenbezogenen Daten nicht automatisiert verarbeitet und die Daten nicht in einem Dateisystem gespeichert sind oder gespeichert werden sollen.
 
@@ -846,7 +848,7 @@ Satz 3 gilt entsprechend in den Fällen des Absatzes 2 Satz 2, wenn der Beschuld
 
 (2) Die entnommenen Körperzellen dürfen nur für die in Absatz 1 genannte molekulargenetische Untersuchung verwendet werden; sie sind unverzüglich zu vernichten, sobald sie hierfür nicht mehr erforderlich sind. Bei der Untersuchung dürfen andere Feststellungen als diejenigen, die zur Ermittlung des DNA-Identifizierungsmusters sowie des Geschlechts erforderlich sind, nicht getroffen werden; hierauf gerichtete Untersuchungen sind unzulässig.
 
-(3) Die Entnahme der Körperzellen darf ohne schriftliche Einwilligung des Beschuldigten nur durch das Gericht, bei Gefahr im Verzug auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) angeordnet werden. Die molekulargenetische Untersuchung der Körperzellen darf ohne schriftliche Einwilligung des Beschuldigten nur durch das Gericht angeordnet werden. Die einwilligende Person ist darüber zu belehren, für welchen Zweck die zu erhebenden Daten verwendet werden. § 81f Abs. 2 gilt entsprechend. In der schriftlichen Begründung des Gerichts sind einzelfallbezogen darzulegen
+(3) Die Entnahme der Körperzellen darf ohne Einwilligung des Beschuldigten nur durch das Gericht, bei Gefahr im Verzug auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) angeordnet werden. Die molekulargenetische Untersuchung der Körperzellen darf ohne Einwilligung des Beschuldigten nur durch das Gericht angeordnet werden. Die einwilligende Person ist darüber zu belehren, für welchen Zweck die zu erhebenden Daten verwendet werden. § 81f Absatz 1 Satz 3 und Absatz 2 gilt entsprechend. In der schriftlichen Begründung des Gerichts sind einzelfallbezogen darzulegen
 
 1. die für die Beurteilung der Erheblichkeit der Straftat bestimmenden Tatsachen,
 
@@ -874,7 +876,7 @@ Die Daten dürfen nur für Zwecke eines Strafverfahrens, der Gefahrenabwehr und 
 
 # § 81h – DNA-Reihenuntersuchung
 
-(1) Begründen bestimmte Tatsachen den Verdacht, dass ein Verbrechen gegen das Leben, die körperliche Unversehrtheit, die persönliche Freiheit oder die sexuelle Selbstbestimmung begangen worden ist, dürfen Personen, die bestimmte, auf den Täter vermutlich zutreffende Prüfungsmerkmale erfüllen, mit ihrer schriftlichen Einwilligung
+(1) Begründen bestimmte Tatsachen den Verdacht, dass ein Verbrechen gegen das Leben, die körperliche Unversehrtheit, die persönliche Freiheit oder die sexuelle Selbstbestimmung begangen worden ist, dürfen Personen, die bestimmte, auf den Täter vermutlich zutreffende Prüfungsmerkmale erfüllen, mit ihrer Einwilligung
 
 1. Körperzellen entnommen,
 
@@ -882,7 +884,7 @@ Die Daten dürfen nur für Zwecke eines Strafverfahrens, der Gefahrenabwehr und 
 
 3. die festgestellten DNA-Identifizierungsmuster mit den DNA-Identifizierungsmustern von Spurenmaterial automatisiert abgeglichen werden,
 
-soweit dies zur Feststellung erforderlich ist, ob das Spurenmaterial von diesen Personen oder von ihren Verwandten in gerader Linie oder in der Seitenlinie bis zum dritten Grad stammt, und die Maßnahme insbesondere im Hinblick auf die Anzahl der von ihr betroffenen Personen nicht außer Verhältnis zur Schwere der Tat steht.
+soweit dies zur Feststellung erforderlich ist, ob das Spurenmaterial von diesen Personen oder von ihren Verwandten in gerader Linie oder in der Seitenlinie bis zum dritten Grad stammt, und die Maßnahme insbesondere im Hinblick auf die Anzahl der von ihr betroffenen Personen nicht außer Verhältnis zur Schwere der Tat steht. Die Einwilligung ist schriftlich zu erklären oder von der Staatsanwaltschaft oder ihren Ermittlungspersonen in Gegenwart der einwilligenden Person zu protokollieren oder auf sonstige Weise zu dokumentieren.
 
 (2) Eine Maßnahme nach Absatz 1 bedarf der gerichtlichen Anordnung. Diese ergeht schriftlich. Sie muss die betroffenen Personen anhand bestimmter Prüfungsmerkmale bezeichnen und ist zu begründen. Einer vorherigen Anhörung der betroffenen Personen bedarf es nicht. Die Entscheidung, mit der die Maßnahme angeordnet wird, ist nicht anfechtbar.
 
@@ -2173,7 +2175,7 @@ Dem Beschuldigten ist bei der Verhaftung eine Abschrift des Haftbefehls auszuhä
 
 # § 114b – Belehrung des verhafteten Beschuldigten
 
-(1) Der verhaftete Beschuldigte ist unverzüglich und schriftlich in einer für ihn verständlichen Sprache über seine Rechte zu belehren. Ist eine schriftliche Belehrung erkennbar nicht ausreichend, hat zudem eine mündliche Belehrung zu erfolgen. Entsprechend ist zu verfahren, wenn eine schriftliche Belehrung nicht möglich ist; sie soll jedoch nachgeholt werden, sofern dies in zumutbarer Weise möglich ist. Der Beschuldigte soll schriftlich bestätigen, dass er belehrt wurde; falls er sich weigert, ist dies zu dokumentieren.
+(1) Der verhaftete Beschuldigte ist unverzüglich und schriftlich in einer für ihn verständlichen Sprache über seine Rechte zu belehren. Ist eine schriftliche Belehrung erkennbar nicht ausreichend, hat zudem eine mündliche Belehrung zu erfolgen. Entsprechend ist zu verfahren, wenn eine schriftliche Belehrung nicht möglich ist; sie soll jedoch nachgeholt werden, sofern dies in zumutbarer Weise möglich ist. Der Erhalt der Belehrung ist durch den Beschuldigten schriftlich zu bestätigen oder von der Staatsanwaltschaft oder ihren Ermittlungspersonen in Gegenwart des Beschuldigten zu protokollieren oder auf sonstige Weise zu dokumentieren.
 
 (2) In der Belehrung nach Absatz 1 ist der Beschuldigte darauf hinzuweisen, dass er
 
@@ -3109,9 +3111,9 @@ Angeklagter der Beschuldigte oder Angeschuldigte, gegen den die Eröffnung des H
 
 # § 158 – Strafanzeige; Strafantrag
 
-(1) Die Anzeige einer Straftat und der Strafantrag können bei der Staatsanwaltschaft, den Behörden und Beamten des Polizeidienstes und den Amtsgerichten mündlich oder schriftlich angebracht werden. Die mündliche Anzeige ist zu beurkunden. Dem Verletzten ist auf Antrag der Eingang seiner Anzeige schriftlich zu bestätigen. Die Bestätigung soll eine kurze Zusammenfassung der Angaben des Verletzten zu Tatzeit, Tatort und angezeigter Tat enthalten. Die Bestätigung kann versagt werden, soweit der Untersuchungszweck, auch in einem anderen Strafverfahren, gefährdet erscheint.
+(1) Die Anzeige einer Straftat und der Strafantrag können bei der Staatsanwaltschaft, den Behörden und Beamten des Polizeidienstes und den Amtsgerichten angebracht werden. Die Anzeige und der Strafantrag sind durch die aufnehmende Stelle zu protokollieren oder auf sonstige Weise zu dokumentieren. Dem Verletzten ist auf Antrag der Eingang seiner Anzeige schriftlich zu bestätigen. Die Bestätigung soll eine kurze Zusammenfassung der Angaben des Verletzten zu Tatzeit, Tatort und angezeigter Tat enthalten. Die Bestätigung kann versagt werden, soweit der Untersuchungszweck, auch in einem anderen Strafverfahren, gefährdet erscheint.
 
-(2) Bei Straftaten, deren Verfolgung nur auf Antrag eintritt, muß der Antrag bei einem Gericht oder der Staatsanwaltschaft schriftlich oder zu Protokoll, bei einer anderen Behörde schriftlich angebracht werden.
+(2) Bei Straftaten, deren Verfolgung nur auf Antrag eintritt, müssen die Identität und der Verfolgungswille der antragstellenden Person sichergestellt sein.
 
 (3) Zeigt ein im Inland wohnhafter Verletzter eine in einem anderen Mitgliedstaat der Europäischen Union begangene Straftat an, so übermittelt die Staatsanwaltschaft die Anzeige auf Antrag des Verletzten an die zuständige Strafverfolgungsbehörde des anderen Mitgliedstaats, wenn für die Tat das deutsche Strafrecht nicht gilt oder von der Verfolgung der Tat nach § 153c Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit § 153f, abgesehen wird. Von der Übermittlung kann abgesehen werden, wenn
 
@@ -5493,7 +5495,7 @@ Würde die Herbeiführung einer Entscheidung über die Einziehung nach den §§ 
 
 (1) Richtet sich die Einziehung gegen eine Person, die nicht Beschuldigter ist, so wird sie auf Anordnung des Gerichts am Strafverfahren beteiligt, soweit dieses die Einziehung betrifft (Einziehungsbeteiligter).
 
-(2) Die Anordnung der Verfahrensbeteiligung unterbleibt, wenn derjenige, der von ihr betroffen wäre, bei Gericht oder bei der Staatsanwaltschaft schriftlich oder zu Protokoll oder bei einer anderen Behörde schriftlich erklärt, dass er gegen die Einziehung des Gegenstandes keine Einwendungen vorbringen wolle. War die Anordnung zum Zeitpunkt der Erklärung bereits ergangen, wird sie aufgehoben.
+(2) Die Anordnung der Verfahrensbeteiligung unterbleibt, wenn derjenige, der von ihr betroffen wäre, erklärt, dass er gegen die Einziehung des Gegenstandes keine Einwendungen vorbringen wolle. Die Erklärung ist schriftlich abzugeben oder von dem Gericht, der Staatsanwaltschaft oder ihren Ermittlungspersonen in Gegenwart des Betroffenen zu protokollieren oder auf sonstige Weise zu dokumentieren. War die Anordnung zum Zeitpunkt der Erklärung bereits ergangen, wird sie aufgehoben.
 
 (3) Die Verfahrensbeteiligung kann bis zum Ausspruch der Einziehung und, wenn eine zulässige Berufung eingelegt ist, bis zur Beendigung der Schlussvorträge im Berufungsverfahren angeordnet werden.
 
@@ -5707,7 +5709,7 @@ Strafurteile sind nicht vollstreckbar, bevor sie rechtskräftig geworden sind.
 
 # § 451 – Vollstreckungsbehörde
 
-(1) Die Strafvollstreckung erfolgt durch die Staatsanwaltschaft als Vollstreckungsbehörde auf Grund einer von dem Urkundsbeamten der Geschäftsstelle zu erteilenden, mit der Bescheinigung der Vollstreckbarkeit versehenen, beglaubigten Abschrift der Urteilsformel.
+(1) Die Strafvollstreckung erfolgt durch die Staatsanwaltschaft als Vollstreckungsbehörde auf Grund einer von dem Urkundsbeamten der Geschäftsstelle zu erteilenden, mit der Bescheinigung der Vollstreckbarkeit versehenen Abschrift der Urteilsformel.
 
 (2) Den Amtsanwälten steht die Strafvollstreckung nur insoweit zu, als die Landesjustizverwaltung sie ihnen übertragen hat.
 

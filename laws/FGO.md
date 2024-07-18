@@ -399,11 +399,11 @@ b) wenn Personen nach Buchstabe a nicht vorhanden sind, jeder Gesellschafter, Ge
 
 # § 52a
 
-(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Beteiligten sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können nach Maßgabe der Absätze 2 bis 6 als elektronische Dokumente bei Gericht eingereicht werden.
+(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Beteiligten sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen, Anträge und Erklärungen Dritter können nach Maßgabe der Absätze 2 bis 6 als elektronische Dokumente bei Gericht eingereicht werden.
 
-(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch das Gericht.
+(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch das Gericht sowie das Nähere zur Verarbeitung von Daten der Postfachinhaber nach Absatz 4 Satz 1 Nummer 4 und 5 in einem sicheren elektronischen Verzeichnis.
 
-(3) Das elektronische Dokument muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind.
+(3) Das elektronische Dokument muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind. Soll ein schriftlich einzureichender Antrag oder eine schriftlich einzureichende Erklärung eines Beteiligten oder eines Dritten als elektronisches Dokument eingereicht werden, so kann der unterschriebene Antrag oder die unterschriebene Erklärung in ein elektronisches Dokument übertragen und durch den Bevollmächtigten, den Vertreter oder den Beistand nach Satz 1 übermittelt werden.
 
 (4) Sichere Übermittlungswege sind
 
@@ -433,6 +433,8 @@ Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5 regelt die 
 
 (1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch geführt. Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen und dem Stand der Technik entsprechenden technischen Rahmenbedingungen für die Bildung, Führung und Verwahrung der elektronischen Akten einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit. Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die in Papierform angelegt wurden, in Papierform weitergeführt werden. Die Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3 auf die für die Finanzgerichtsbarkeit zuständigen obersten Landesbehörden übertragen. Die Rechtsverordnungen der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates.
 
+(1b) Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten Stichtag oder Ereignis in elektronischer Form weitergeführt werden. Die Zulassung der Weiterführung in elektronischer Form kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in elektronischer Form weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Ermächtigung kann durch Rechtsverordnung auf die zuständige oberste Bundesbehörde oder auf die für die Finanzgerichtsbarkeit zuständigen obersten Landesbehörden übertragen werden.
+
 (2) Werden die Akten in Papierform geführt, ist von einem elektronischen Dokument ein Ausdruck für die Akten zu fertigen. Kann dies bei Anlagen zu vorbereitenden Schriftsätzen nicht oder nur mit unverhältnismäßigem Aufwand erfolgen, so kann ein Ausdruck unterbleiben. Die Daten sind in diesem Fall dauerhaft zu speichern; der Speicherort ist aktenkundig zu machen.
 
 (3) Ist das elektronische Dokument auf einem sicheren Übermittlungsweg eingereicht, so ist dies aktenkundig zu machen.
@@ -448,6 +450,8 @@ Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5 regelt die 
 (5) Ein eingereichtes elektronisches Dokument kann im Falle von Absatz 2 nach Ablauf von sechs Monaten gelöscht werden.
 
 (6) Werden die Prozessakten elektronisch geführt, sind in Papierform vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu übertragen. Es ist sicherzustellen, dass das elektronische Dokument mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem Übertragungsnachweis zu versehen, der das bei der Übertragung angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung dokumentiert. Wird ein von den verantwortenden Personen handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen, ist der Übertragungsnachweis mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht rückgabepflichtig sind.
+
+(7) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Übermittlung elektronischer Akten zwischen Behörden und Gerichten geltenden Standards bestimmen.
 
 # § 52c – Formulare; Verordnungsermächtigung
 
@@ -1373,7 +1377,13 @@ Soweit der Finanzrechtsweg auf Grund des § 33 Abs. 1 Nr. 4 eröffnet wird, kön
 
 (Aufhebung von Vorschriften)
 
-# §§ 162 bis 183 – (weggefallen)
+# § 162
+
+(1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 52a bis 52d in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 52a bis 52d in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+
+(2) Die Bundesregierung und die Landesregierungen können abweichend von § 52b jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die elektronisch angelegt wurden, ab einem bestimmten Ereignis bis zum 31. Dezember 2025 in Papierform weitergeführt werden. Die Zulassung der Weiterführung in Papierform kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in elektronischer Form weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Ermächtigung kann durch Rechtsverordnung auf die zuständige oberste Bundesbehörde oder auf die für die Finanzgerichtsbarkeit zuständigen obersten Landesbehörden übertragen werden.
+
+# §§ 163 bis 183 – (weggefallen)
 
 # § 184
 

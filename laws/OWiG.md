@@ -2809,7 +2809,7 @@ In einem Strafverfahren entnommene Blutproben und sonstige Körperzellen, deren 
 
 3. sonstige Entscheidungen oder Maßnahmen nach § 477 Absatz 2 der Strafprozessordnung;
 
-Gleiches gilt für die Behörden des Polizeidienstes, soweit dies die entsprechende Anwendung von § 480 Absatz 1 der Strafprozessordnung gestattet. Die §§ 478, 479 Absatz 1, 2, 5 Satz 1 und Absatz 6 sowie § 480 Absatz 1 und 2 der Strafprozessordnung gelten sinngemäß.
+Gleiches gilt für die Behörden des Polizeidienstes, soweit dies die entsprechende Anwendung von § 480 Absatz 1 der Strafprozessordnung gestattet. Die §§ 478, 479 Absatz 1, 2 und 4 Satz 1 sowie Absatz 5 und § 480 Absatz 1 und 2 der Strafprozessordnung gelten sinngemäß.
 
 (2) Die Übermittlung ist auch zulässig, wenn besondere Umstände des Einzelfalls die Übermittlung für die in § 14 Abs. 1 Nr. 4 bis 9 des Einführungsgesetzes zum Gerichtsverfassungsgesetz genannten Zwecke in Verbindung mit Absatz 2 Satz 2 und 4 jener Vorschrift in sinngemäßer Anwendung erfordern.
 
@@ -2835,7 +2835,7 @@ Für die Erteilung von Auskünften und Gewährung von Akteneinsicht auf Ersuchen
 
 3. in § 479 Absatz 1 der Strafprozessordnung an die Stelle der Zwecke des Strafverfahrens die Zwecke des Bußgeldverfahrens treten,
 
-4. in § 479 Absatz 4 Nummer 2 der Strafprozessordnung an die Stelle der Frist von zwei Jahren eine Frist von einem Jahr tritt und
+4. in § 479 Absatz 3 Nummer 2 der Strafprozessordnung an die Stelle der Frist von zwei Jahren eine Frist von einem Jahr tritt und
 
 5. § 480 Absatz 3 Satz 1 der Strafprozessordnung mit der Maßgabe anzuwenden ist, dass für die Übermittlung durch Verwaltungsbehörden über den Antrag auf gerichtliche Entscheidung das in § 68 bezeichnete Gericht im Verfahren nach § 62 Abs. 1 Satz 1, Abs. 2 entscheidet.
 
@@ -3526,6 +3526,12 @@ im Verfahren nach § 62 aufgehoben, so gilt auch für die Kosten und Auslagen di
 # § 110a – Elektronische Aktenführung; Verordnungsermächtigungen
 
 (1) Die Akten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an die Akten elektronisch geführt werden. Sie können die Einführung der elektronischen Aktenführung dabei auf einzelne Gerichte oder Behörden oder auf allgemein bestimmte Verfahren beschränken und bestimmen, dass Akten, die in Papierform angelegt wurden, auch nach Einführung der elektronischen Aktenführung in Papierform weitergeführt werden; wird von der Beschränkungsmöglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Akten elektronisch zu führen sind. Die Ermächtigung kann durch Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien übertragen werden.
+
+(1a) Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten Stichtag oder Ereignis in elektronischer Form weitergeführt werden. Die Zulassung der Weiterführung in elektronischer Form kann auf einzelne Gerichte oder Behörden oder auf allgemein bestimmte Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in elektronischer Form weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Ermächtigung kann durch Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien übertragen werden.
+
+(1b) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+
+(1c) Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die elektronisch angelegt wurden, ab einem bestimmten Ereignis bis zum 31. Dezember 2025 in Papierform weitergeführt werden. Die Zulassung der Weiterführung in Papierform kann auf einzelne Gerichte oder Behörden oder auf allgemein bestimmte Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in elektronischer Form weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Ermächtigung kann durch Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien übertragen werden.
 
 (2) Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung die für die elektronische Aktenführung geltenden organisatorischen und dem Stand der Technik entsprechenden technischen Rahmenbedingungen einschließlich der einzuhaltenden Anforderungen des Datenschutzes, der Datensicherheit und der Barrierefreiheit. Sie können die Ermächtigung durch Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien übertragen.
 

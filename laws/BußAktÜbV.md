@@ -57,7 +57,9 @@ Diese Verordnung ist anzuwenden auf die Übermittlung elektronisch geführter Bu
 
 # § 5 – Ersatzmaßnahmen
 
-Ist aus technischen Gründen eine Übermittlung nach § 4 vorübergehend nicht möglich, so ist die Übermittlung der Akte auch auf andere Weise, etwa in Papierform oder auf einem physischen Datenträger nach § 6 Absatz 1 Nummer 2, zulässig. Auf Anforderung ist die elektronische Akte nachzureichen.
+(1) Ist aus technischen Gründen eine Übermittlung nach § 4 vorübergehend nicht möglich, so ist die Übermittlung der Akte auch auf andere Weise, etwa in Papierform oder auf einem physischen Datenträger nach § 6 Absatz 1 Nummer 2, zulässig. Auf Anforderung ist die elektronische Akte nachzureichen.
+
+(2) Können die nach § 5 Absatz 1 Nummer 3 der Elektronischer-Rechtsverkehr-Verordnung bekanntgemachten Höchstgrenzen für die Anzahl oder das Volumen elektronischer Dokumente nicht eingehalten werden, so ist die Übermittlung der Akte auch auf einem physischen Datenträger nach § 6 Absatz 1 Nummer 2 zulässig.
 
 # § 6 – Bekanntmachung technischer Anforderungen
 
@@ -65,7 +67,7 @@ Ist aus technischen Gründen eine Übermittlung nach § 4 vorübergehend nicht m
 
 1. die Definitions- oder Schemadateien, die bei der Übermittlung eines strukturierten maschinenlesbaren Datensatzes im Format XML genutzt werden sollen;
 
-2. die nach § 5 Satz 1 zulässigen physischen Datenträger.
+2. die nach § 5 zulässigen physischen Datenträger.
 
 (2) Die technischen Anforderungen können mit einer Mindestgültigkeitsdauer und einem Ablaufdatum versehen werden.
 

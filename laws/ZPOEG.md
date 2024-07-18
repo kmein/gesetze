@@ -339,7 +339,11 @@ Wurde der Sachverständige vor dem 15. Oktober 2016 ernannt, ist § 411 Absatz 1
 
 Die Länder übermitteln dem Bundesministerium der Justiz und für Verbraucherschutz auf Anfrage die Informationen nach Artikel 53 Absatz 2 der Verordnung (EU) Nr. 655/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Einführung eines Verfahrens für einen Europäischen Beschluss zur vorläufigen Kontenpfändung im Hinblick auf die Erleichterung der grenzüberschreitenden Eintreibung von Forderungen in Zivil- und Handelssachen (ABl. L 189 vom 27.6.2014, S. 59).
 
-# § 43 – (weggefallen)
+# § 43 – Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigung
+
+(1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 130a bis 130d und 298a der Zivilprozessordnung in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 130a bis 130d und 298a der Zivilprozessordnung in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+
+(2) Die Bundesregierung und die Landesregierungen können abweichend von § 298a der Zivilprozessordnung jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die elektronisch angelegt wurden, ab einem bestimmten Ereignis bis zum 31. Dezember 2025 in Papierform weitergeführt werden. Die Zulassung der Weiterführung in Papierform kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in elektronischer Form weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die zuständigen obersten Landesbehörden übertragen.
 
 # § 44 – Vorrang- und Beschleunigungsgebot
 

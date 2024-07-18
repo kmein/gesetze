@@ -93,7 +93,7 @@ Der Rechtsanwalt kann von seinem Auftraggeber für die entstandenen und die vora
 
 # § 10 – Berechnung
 
-(1) Der Rechtsanwalt kann die Vergütung nur aufgrund einer von ihm unterzeichneten und dem Auftraggeber mitgeteilten Berechnung einfordern. Der Lauf der Verjährungsfrist ist von der Mitteilung der Berechnung nicht abhängig.
+(1) Der Rechtsanwalt kann die Vergütung nur aufgrund einer von ihm oder auf seine Veranlassung dem Auftraggeber mitgeteilten Berechnung fordern; die Berechnung bedarf der Textform. Der Lauf der Verjährungsfrist ist von der Mitteilung der Berechnung nicht abhängig.
 
 (2) In der Berechnung sind die Beträge der einzelnen Gebühren und Auslagen, Vorschüsse, eine kurze Bezeichnung des jeweiligen Gebührentatbestands, die Bezeichnung der Auslagen sowie die angewandten Nummern des Vergütungsverzeichnisses und bei Gebühren, die nach dem Gegenstandswert berechnet sind, auch dieser anzugeben. Bei Entgelten für Post- und Telekommunikationsdienstleistungen genügt die Angabe des Gesamtbetrags.
 
