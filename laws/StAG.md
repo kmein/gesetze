@@ -157,6 +157,7 @@ Die Voraussetzungen nach Satz 1 Nummer 1 und 7 muss ein Ausländer nicht erfüll
 
 (7) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, die Prüfungs- und Nachweismodalitäten des Einbürgerungstests sowie die Grundstruktur und die Lerninhalte des Einbürgerungskurses nach Absatz 5 auf der Basis der Themen des Orientierungskurses nach § 43 Abs. 3 Satz 1 des Aufenthaltsgesetzes durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu regeln.
 
+(+++ § 10 Abs. 1 Satz 1 Nr. 2: Unstimmiger Änderungsbefehl gem. Art. 1 Nr. 6 Buchst. a DBuchst. aa ccc G v. 22.3.2024 I Nr. 104 wurde sinngemäß konsolidiert +++)  
 (+++ § 10 Abs. 1: Zur Anwendung vgl. § 40a +++)
 
 # § 11

@@ -497,11 +497,11 @@ Die ehrenamtlichen Richter sollen zu den Sitzungen nach der Reihenfolge einer Li
 
 # § 46c – Elektronisches Dokument; Verordnungsermächtigung
 
-(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Parteien sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können nach Maßgabe der folgenden Absätze als elektronische Dokumente bei Gericht eingereicht werden.
+(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Parteien sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen, Anträge und Erklärungen Dritter können nach Maßgabe der folgenden Absätze als elektronische Dokumente bei Gericht eingereicht werden.
 
-(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch das Gericht.
+(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch das Gericht sowie das Nähere zur Verarbeitung von Daten der Postfachinhaber nach Absatz 4 Satz 1 Nummer 4 und 5 in einem sicheren elektronischen Verzeichnis.
 
-(3) Das elektronische Dokument muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind.
+(3) Das elektronische Dokument muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind. Soll ein schriftlich einzureichender Antrag oder eine schriftlich einzureichende Erklärung einer Partei oder eines Dritten als elektronisches Dokument eingereicht werden, so kann der unterschriebene Antrag oder die unterschriebene Erklärung in ein elektronisches Dokument übertragen und durch den Bevollmächtigten, den Vertreter oder den Beistand nach Satz 1 übermittelt werden.
 
 (4) Sichere Übermittlungswege sind
 
@@ -535,6 +535,10 @@ Soweit dieses Gesetz dem Richter, dem Rechtspfleger, dem Urkundsbeamten der Gesc
 
 (2) Werden die Prozessakten elektronisch geführt, sind in Papierform vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu übertragen. Es ist sicherzustellen, dass das elektronische Dokument mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem Übertragungsnachweis zu versehen, der das bei der Übertragung angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung dokumentiert. Wird ein von den verantwortenden Personen handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen, ist der Übertragungsnachweis mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht rückgabepflichtig sind.
 
+(3) Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten Stichtag oder Ereignis in elektronischer Form weitergeführt werden. Die Zulassung der Weiterführung in elektronischer Form kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in elektronischer Form weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die für die Arbeitsgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
+
+(4) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Übermittlung elektronischer Akten zwischen Behörden und Gerichten geltenden Standards bestimmen.
+
 # § 46f – Formulare; Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 46c Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
@@ -544,6 +548,10 @@ Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Z
 # § 46g – Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
 
 Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt, durch eine Behörde oder durch eine juristische Person des öffentlichen Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als elektronisches Dokument zu übermitteln. Gleiches gilt für die nach diesem Gesetz vertretungsberechtigten Personen, für die ein sicherer Übermittlungsweg nach § 46c Absatz 4 Satz 1 Nummer 2 zur Verfügung steht. Ist eine Übermittlung aus technischen Gründen vorübergehend nicht möglich, bleibt die Übermittlung nach den allgemeinen Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
+
+# § 46h – Formfiktion
+
+Ist eine empfangsbedürftige Willenserklärung, die der schriftlichen oder elektronischen Form bedarf, klar erkennbar in einem vorbereitenden Schriftsatz enthalten, der als elektronisches Dokument nach § 46c bei Gericht eingereicht und dem Empfänger zugestellt oder mitgeteilt wurde, so gilt die Willenserklärung als in schriftlicher oder elektronischer Form zugegangen. Dies gilt auch dann, wenn die Ersetzung der schriftlichen Form durch die elektronische Form ausgeschlossen ist.
 
 # § 47 – Sondervorschriften über Ladung und Einlassung *)
 
@@ -1259,11 +1267,15 @@ Ein vor dem Schiedsgericht geschlossener Vergleich ist unter Angabe des Tages se
 
 (2) Zur Beilegung von Streitigkeiten zwischen Ausbildenden und Auszubildenden aus einem bestehenden Berufsausbildungsverhältnis können im Bereich des Handwerks die Handwerksinnungen, im übrigen die zuständigen Stellen im Sinne des Berufsbildungsgesetzes Ausschüsse bilden, denen Arbeitgeber und Arbeitnehmer in gleicher Zahl angehören müssen. Der Ausschuß hat die Parteien mündlich zu hören. Wird der von ihm gefällte Spruch nicht innerhalb einer Woche von beiden Parteien anerkannt, so kann binnen zwei Wochen nach ergangenem Spruch Klage beim zuständigen Arbeitsgericht erhoben werden. § 9 Abs. 5 gilt entsprechend. Der Klage muß in allen Fällen die Verhandlung vor dem Ausschuß vorangegangen sein. Aus Vergleichen, die vor dem Ausschuß geschlossen sind, und aus Sprüchen des Ausschusses, die von beiden Seiten anerkannt sind, findet die Zwangsvollstreckung statt. Die §§ 107 und 109 gelten entsprechend.
 
-# § 112 – Übergangsregelungen
+# § 112 – Übergangsregelungen; Verordnungsermächtigung
 
 (1) Für Beschlussverfahren nach § 2a Absatz 1 Nummer 4, die bis zum Ablauf des 15. August 2014 anhängig gemacht worden sind, gilt § 97 in der an diesem Tag geltenden Fassung bis zum Abschluss des Verfahrens durch einen rechtskräftigen Beschluss fort.
 
 (2) § 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt entsprechend.
+
+(3) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen abweichend von den §§ 46c bis 46f bis zum 31. Dezember 2035 in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 46c bis 46f in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+
+(4) Die Bundesregierung und die Landesregierungen können abweichend von § 46e jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die elektronisch angelegt wurden, ab einem bestimmten Ereignis bis zum 31. Dezember 2025 in Papierform weitergeführt werden. Die Zulassung der Weiterführung in Papierform kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in elektronischer Form weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die für die Arbeitsgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
 
 # § 113 – Berichterstattung
 
