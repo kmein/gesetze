@@ -114,7 +114,7 @@ Verkehrsleistungen im Sinne dieses Gesetzes dürfen nur auf bestimmte Zeit, län
 
 3. Bundespolizeipräsidium,
 
-4. Bundesamt für das Personalmanagement der Bundeswehr, für die Streitkräfte einschließlich der verbündeten Streitkräfte,
+4. Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr, für die Streitkräfte einschließlich der verbündeten Streitkräfte,
 
 5. Bundesanstalt für Landwirtschaft und Ernährung,
 

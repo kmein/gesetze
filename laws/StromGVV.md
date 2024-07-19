@@ -363,6 +363,8 @@ Unabhängig vom gesetzlichen Widerrufsrecht des Kunden darf nicht ausgeschlossen
 
 (7) Der Grundversorger hat die Grundversorgung unverzüglich wiederherstellen zu lassen, sobald die Gründe für ihre Unterbrechung entfallen sind und der Kunde die Kosten der Unterbrechung und Wiederherstellung der Belieferung ersetzt hat. Die Kosten können für strukturell vergleichbare Fälle pauschal berechnet werden; die pauschale Berechnung muss einfach nachvollziehbar sein. Die Pauschale darf die nach dem gewöhnlichen Lauf der Dinge zu erwartenden Kosten nicht übersteigen. Auf Verlangen des Kunden ist die Berechnungsgrundlage nachzuweisen. Der Nachweis geringerer Kosten ist dem Kunden zu gestatten. Die in Rechnung gestellten Kosten dürfen, auch im Fall einer Pauschalisierung, die tatsächlich entstehenden Kosten nicht überschreiten.
 
+(+++ § 19 Abs. 5: Zur Anwendung ab dem 20.6.2024 bis zum Ablauf d. 30.4.2025 vgl. § 23 +++)
+
 # § 20 – Kündigung
 
 (1) Der Grundversorgungsvertrag kann mit einer Frist von zwei Wochen gekündigt werden. Eine Kündigung durch den Grundversorger ist nur möglich, soweit eine Pflicht zur Grundversorgung nach § 36 Absatz 1 Satz 4 des Energiewirtschaftsgesetzes nicht besteht.

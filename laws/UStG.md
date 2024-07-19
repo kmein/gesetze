@@ -1111,7 +1111,7 @@ c) die Ausstrahlung und Übertragung von Rundfunksignalen einschließlich der Ü
 
 a) auf Grund individuell ausgehandelter Vereinbarungen oder
 
-b) auf Grund allgemeiner Geschäftsbedingungen zu abweichenden Qualitätsbedingungen oder zu günstigeren Preisen als den nach den allgemein für jedermann zugänglichen Tarifen oder als den nach § 19 des Postgesetzes vom 22. Dezember 1997 (BGBl. I S. 3294), das zuletzt durch Artikel 272 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in der jeweils geltenden Fassung, genehmigten Entgelten;
+b) auf Grund allgemeiner Geschäftsbedingungen zu abweichenden Qualitätsbedingungen oder zu günstigeren Preisen als den nach den allgemein für jedermann zugänglichen Tarifen oder als den nach § 40 Absatz 1 des Postgesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236), in der jeweils geltenden Fassung, genehmigten Entgelten;
 
 12. a) die Vermietung und die Verpachtung von Grundstücken, von Berechtigungen, für die die Vorschriften des bürgerlichen Rechts über Grundstücke gelten, und von staatlichen Hoheitsrechten, die Nutzungen von Grund und Boden betreffen,
 

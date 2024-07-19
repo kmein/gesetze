@@ -4405,7 +4405,6 @@
 - [PDLV](laws/PDLV.md) Postdienstleistungsverordnung
 - [PEhrlInstZustV](laws/PEhrlInstZustV.md) Verordnung zur Änderung der Zuständigkeit des Paul-Ehrlich-Instituts
 - [PelzVAusbV](laws/PelzVAusbV.md) Verordnung über die Berufsausbildung zum Pelzveredler/zur Pelzveredlerin
-- [PEntgV](laws/PEntgV.md) Post-Entgeltregulierungsverordnung
 - [PEPPV 2013](laws/PEPPV_2013.md) Verordnung zum pauschalierenden Entgeltsystem für psychiatrische und psychosomatische Einrichtungen für das Jahr 2013
 - [PersAnpassG](laws/PersAnpassG.md) Gesetz zur Anpassung der Personalstärke der Streitkräfte
 - [PersBG](laws/PersBG.md) Personalrechtliches Begleitgesetz zum Telekommunikationsgesetz
@@ -4611,7 +4610,6 @@
 - [PrZBrGleichstV](laws/PrZBrGleichstV.md) Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschulen für Bürokaufleute, Bürogehilfinnen und Teilezurichter in Bremen mit den Zeugnissen über das Bestehen der Abschlußprüfung in Ausbildungsberufen
 - [PSA-BV](laws/PSA-BV.md) Verordnung über Sicherheit und Gesundheitsschutz bei der Benutzung persönlicher Schutzausrüstungen bei der Arbeit
 - [PSA-DG](laws/PSA-DG.md) Gesetz zur Durchführung der Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom 9. März 2016 über persönliche Schutzausrüstungen (PSA) und zur Aufhebung der Richtlinie 89/686/EWG des Rates
-- [PSG](laws/PSG.md) Gesetz zur Sicherstellung von Postdienstleistungen in besonderen Fällen
 - [PStG](laws/PStG.md) Personenstandsgesetz
 - [PStTG](laws/PStTG.md) Gesetz über die Meldepflicht und den automatischen Austausch von Informationen meldender Plattformbetreiber in Steuersachen
 - [PStV](laws/PStV.md) Verordnung zur Ausführung des Personenstandsgesetzes
@@ -4630,7 +4628,6 @@
 - [PTStiftG](laws/PTStiftG.md) Gesetz zur Errichtung einer Museumsstiftung Post und Telekommunikation
 - [PUAG](laws/PUAG.md) Gesetz zur Regelung des Rechts der Untersuchungsausschüsse des Deutschen Bundestages
 - [PublG](laws/PublG.md) Gesetz über die Rechnungslegung von bestimmten Unternehmen und Konzernen
-- [PUDLV](laws/PUDLV.md) Post-Universaldienstleistungsverordnung
 - [PVAufhAnO](laws/PVAufhAnO.md) Anordnung über die Aufhebung von Rechtsvorschriften auf dem Gebiet der freiwilligen Personenversicherungen der Bürger
 - [PVÜG](laws/PVÜG.md) Gesetz zu den am 24. Juli 1971 in Paris unterzeichneten Übereinkünften auf dem Gebiet des Urheberrechts
 - [PWMAusbV](laws/PWMAusbV.md) Verordnung über die Berufsausbildung zum Präzisionswerkzeugmechaniker und zur Präzisionswerkzeugmechanikerin *
