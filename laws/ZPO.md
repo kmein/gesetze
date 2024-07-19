@@ -6429,7 +6429,7 @@ Soll durch die Zustellung eine Frist gewahrt werden oder die Verjährung neu beg
 
 # § 168 – Aufgaben der Geschäftsstelle
 
-(1) Die Geschäftsstelle führt die Zustellung nach §§ 173 bis 176 Absatz 1 aus. Sie kann einen nach § 33 Abs. 1 des Postgesetzes beliehenen Unternehmer (Post) oder einen Justizbediensteten mit der Ausführung der Zustellung beauftragen. Den Auftrag an die Post erteilt die Geschäftsstelle auf dem dafür vorgesehenen Vordruck.
+(1) Die Geschäftsstelle führt die Zustellung nach §§ 173 bis 176 Absatz 1 aus. Sie kann einen nach § 61 des Postgesetzes beliehenen Unternehmer (Post) oder einen Justizbediensteten mit der Ausführung der Zustellung beauftragen. Den Auftrag an die Post erteilt die Geschäftsstelle auf dem dafür vorgesehenen Vordruck.
 
 (2) Der Vorsitzende des Prozessgerichts oder ein von ihm bestimmtes Mitglied können einen Gerichtsvollzieher oder eine andere Behörde mit der Ausführung der Zustellung beauftragen, wenn eine Zustellung nach Absatz 1 keinen Erfolg verspricht.
 

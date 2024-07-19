@@ -299,7 +299,7 @@ c) mit land- und forstwirtschaftlichen Fahrzeugen mit einer bauartbedingten Höc
 
 8. die im Rahmen der Gewerbeausübung erfolgende Beförderung von Betriebseinrichtungen für eigene Zwecke sowie
 
-9. die Beförderung von Postsendungen im Rahmen von Universaldienstleistungen durch Postdienstleister gemäß § 1 Absatz 1 der Post-Universaldienstleistungsverordnung.
+9. die Beförderung von Postsendungen im Rahmen von Universaldienstleistungen durch Postdienstleister gemäß § 16 Absatz 1 des Postgesetzes.
 
 (1a) Werden bei Beförderungen nach Absatz 1 Nr. 7 nicht von der Kraftfahrzeugsteuer befreite Fahrzeuge eingesetzt, hat der Beförderer dafür zu sorgen, dass während der Beförderung ein Begleitpapier oder ein sonstiger Nachweis mitgeführt wird, in dem das beförderte Gut, Be- und Entladeort sowie der land- und forstwirtschaftliche Betrieb, für den die Beförderung erfolgt, angegeben werden. Das Fahrpersonal muss das Begleitpapier oder den sonstigen Nachweis nach Satz 1 während der Beförderung mitführen und Kontrollberechtigten auf Verlangen zur Prüfung aushändigen oder in anderer Weise zugänglich machen.
 

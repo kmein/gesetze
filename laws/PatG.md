@@ -655,7 +655,7 @@ so benachrichtigt die Prüfungsstelle den Anmelder hiervon unter Angabe der Grü
 
 # § 46
 
-(1) Die Prüfungsstelle kann jederzeit die Beteiligten laden und anhören, Zeugen, Sachverständige und Beteiligte eidlich oder uneidlich vernehmen sowie andere zur Aufklärung der Sache erforderliche Ermittlungen anstellen. § 128a der Zivilprozessordnung ist entsprechend anzuwenden. Bis zum Beschluß über die Erteilung ist der Anmelder auf Antrag zu hören. Der Antrag ist schriftlich einzureichen. Wird der Antrag nicht in der vorgeschriebenen Form eingereicht, so weist sie den Antrag zurück. Der Beschluß, durch den der Antrag zurückgewiesen wird, ist selbständig nicht anfechtbar.
+(1) Die Prüfungsstelle kann jederzeit die Beteiligten laden und anhören, Zeugen, Sachverständige und Beteiligte eidlich oder uneidlich vernehmen sowie andere zur Aufklärung der Sache erforderliche Ermittlungen anstellen. Die §§ 128a und 284 Absatz 2 und 3 der Zivilprozessordnung sind entsprechend anzuwenden. Bis zum Beschluß über die Erteilung ist der Anmelder auf Antrag zu hören. Der Antrag ist schriftlich einzureichen. Wird der Antrag nicht in der vorgeschriebenen Form eingereicht, so weist sie den Antrag zurück. Der Beschluß, durch den der Antrag zurückgewiesen wird, ist selbständig nicht anfechtbar.
 
 (2) Über die Anhörungen und Vernehmungen ist eine Niederschrift zu fertigen, die den wesentlichen Gang der Verhandlung wiedergeben und die rechtserheblichen Erklärungen der Beteiligten enthalten soll. Die §§ 160a, 162 und 163 der Zivilprozeßordnung sind entsprechend anzuwenden. Die Beteiligten erhalten eine Abschrift der Niederschrift.
 
@@ -1529,7 +1529,7 @@ Wird das Gesuch um Bewilligung der Verfahrenskostenhilfe nach den §§ 130 bis 1
 
 # § 136
 
-Die Vorschriften des § 117 Abs. 2 bis 4, des § 118 Abs. 2 und 3, der §§ 119 und 120 Absatz 1 und 3, des § 120a Absatz 1, 2 und 4 sowie der §§ 124 und 127 Abs. 1 und 2 der Zivilprozeßordnung sind entsprechend anzuwenden, § 127 Abs. 2 der Zivilprozessordnung mit der Maßgabe, dass die Beschwerde unabhängig von dem Verfahrenswert stattfindet. Im Einspruchsverfahren sowie in den Verfahren wegen Erklärung der Nichtigkeit des Patents oder in Zwangslizenzverfahren (§§ 81, 85 und 85a) gilt dies auch für § 117 Abs. 1 Satz 2, § 118 Abs. 1, § 122 Abs. 2 sowie die §§ 123, 125 und 126 der Zivilprozeßordnung.
+Die Vorschriften des § 117 Absatz 2 bis 4 Satz 1, des § 118 Abs. 2 und 3, der §§ 119 und 120 Absatz 1 und 3, des § 120a Absatz 1, 2 und 4 sowie der §§ 124 und 127 Abs. 1 und 2 der Zivilprozeßordnung sind entsprechend anzuwenden, § 127 Abs. 2 der Zivilprozessordnung mit der Maßgabe, dass die Beschwerde unabhängig von dem Verfahrenswert stattfindet. Im Einspruchsverfahren sowie in den Verfahren wegen Erklärung der Nichtigkeit des Patents oder in Zwangslizenzverfahren (§§ 81, 85 und 85a) gilt dies auch für § 117 Abs. 1 Satz 2, § 118 Abs. 1, § 122 Abs. 2 sowie die §§ 123, 125 und 126 der Zivilprozeßordnung.
 
 # § 137
 

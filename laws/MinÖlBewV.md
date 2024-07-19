@@ -153,7 +153,7 @@ das Bundesministerium der Verteidigung für die Bundeswehr und die verbündeten 
 
 das Bundesministerium des Innern, für Bau und Heimat für die Bundespolizei,
 
-das Bundesministerium für Wirtschaft und Energie für die Unternehmen, die gemäß § 1 des Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, sowie für die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen,
+das Bundesministerium für Wirtschaft und Energie für die Unternehmen, die gemäß Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, sowie für die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen,
 
 das Bundesministerium für Verkehr und digitale Infrastruktur für die Eisenbahnen des Bundes und das Bundesamt für Logistik und Mobilität
 

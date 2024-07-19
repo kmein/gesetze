@@ -15,7 +15,7 @@ Der Verkehr geschlossener militärischer Verbände und geschlossener nichtmilit�
 
 (2) Von den Beschränkungen und Verboten sind befreit
 
-1. die Bundeswehr, die Bundespolizei, die Polizei, die Organisationen des Zivilschutzes, der Zolldienst, soweit das zur Erfüllung hoheitlicher Aufgaben dringend geboten ist, sowie die Unternehmen, die nach § 1 des Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, und es zur Erfüllung ihrer Aufgaben erforderlich ist,
+1. die Bundeswehr, die Bundespolizei, die Polizei, die Organisationen des Zivilschutzes, der Zolldienst, soweit das zur Erfüllung hoheitlicher Aufgaben dringend geboten ist, sowie die Unternehmen, die nach Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, und es zur Erfüllung ihrer Aufgaben erforderlich ist,
 
 2. die Truppen der nichtdeutschen Vertragsstaaten des Nordatlantikpaktes zur Erfüllung dringender militärischer Erfordernisse,
 

@@ -3238,7 +3238,9 @@ erteilt. Auskunftsberechtigt sind die Behörden und öffentlichen Auftraggeber i
 
 6. den Verfassungsschutzbehörden des Bundes und der Länder, dem Bundesnachrichtendienst und dem Militärischen Abschirmdienst für die diesen Behörden übertragenen Sicherheitsaufgaben nach dem Sicherheitsüberprüfungsgesetz des Bundes,
 
-7. der Zentralstelle für Sanktionsdurchsetzung
+7. der Zentralstelle für Sanktionsdurchsetzung,
+
+8. der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen zur Wahrnehmung ihrer Aufgaben nach Kapitel 2 des Postgesetzes über die in § 149 Absatz 2 Satz 1 Nummer 3 bezeichneten Eintragungen
 
 erteilt.
 

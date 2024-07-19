@@ -3,13 +3,13 @@
  
 # Eingangsformel
 
-Auf Grund des § 18a Absatz 8 Satz 1 und 2 des Postgesetzes vom 22. Dezember 1997 (BGBl. I S. 3294), der durch Artikel 1 des Gesetzes vom 9. März 2021 (BGBl. I S. 324) eingefügt worden ist, in Verbindung mit § 1 der PostG-Übertragungsverordnung vom 16. April 2021 (BGBl. I S. 816), verordnet die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen:
+Auf Grund des § 34 Absatz 8 Satz 1 und 2 des Postgesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) in Verbindung mit § 1 der PostG-Übertragungsverordnung vom 16. April 2021 (BGBl. I S. 816), verordnet die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen:
 
 # § 1 – Anwendungsbereich
 
-(1) Gegenstand der außergerichtlichen Streitbeilegung (Schlichtung) sind Streitigkeiten eines Kunden mit einem Anbieter von Postdienstleistungen (Postdienstleister) über Rechte und Pflichten bei Verlust, Entwendung oder Beschädigung von Postsendungen oder über die Verletzung eigener Rechte, die ihm aufgrund der Postdienstleistungsverordnung zustehen.
+(1) Gegenstand der außergerichtlichen Streitbeilegung (Schlichtung) sind Streitigkeiten eines Kunden mit einem Anbieter von Postdienstleistungen (Postdienstleister) über Rechte und Pflichten bei Verlust, Entwendung oder Beschädigung von Postsendungen.
 
-(2) Kunden im Sinne dieser Verordnung sind Absender und Empfänger von Postsendungen im Sinne des § 18a Absatz 1 Satz 2 des Postgesetzes.
+(2) Kunden im Sinne dieser Verordnung sind Absender und Empfänger von Postsendungen im Sinne des § 34 Absatz 1 Satz 2 des Postgesetzes.
 
 # § 2 – Schlichtungsstelle und Zuständigkeit
 
@@ -59,7 +59,7 @@ Parteien des Schlichtungsverfahrens sind der Kunde im Sinne des § 1 Absatz 2 al
 
 1. die Benennung des Antragstellers, des Antragsgegners und des Antragsziels,
 
-2. den Vortrag des Antragstellers, aus dem sich Rechte und Pflichten bei Verlust, Entwendung oder Beschädigung von Postsendungen oder die Verletzung eigener Rechte, die ihm nach der Postdienstleistungsverordnung zustehen, ergeben können,
+2. den Vortrag des Antragstellers, aus dem sich Rechte und Pflichten bei Verlust, Entwendung oder Beschädigung von Postsendungen ergeben können,
 
 3. die Erklärung, dass dem Antrag auf Schlichtung der erfolglose Versuch einer Einigung mit dem Antragsgegner vorausgegangen ist,
 
@@ -91,7 +91,7 @@ Parteien des Schlichtungsverfahrens sind der Kunde im Sinne des § 1 Absatz 2 al
 
 2. der streitige Anspruch nicht zuvor gegenüber dem Antragsgegner geltend gemacht worden ist,
 
-3. im Falle einer Antragstellung durch einen Verbraucher der streitige Anspruch oder das Rechtsverhältnis des Verbrauchers, das den Gegenstand des Schlichtungsverfahrens bildet, zum Klageregister nach § 608 Absatz 1 der Zivilprozessordnung angemeldet ist und die Musterfeststellungsklage noch rechtshängig ist,
+3. Ansprüche oder Rechtsverhältnisse, die Gegenstand des Streitbeilegungsverfahrens sind, zu einer Musterfeststellungsklage oder einer Abhilfeklage im Verbandsklageregister angemeldet wurden und die Klage noch rechtshängig ist,
 
 4. der Antrag offensichtlich ohne Aussicht auf Erfolg ist oder mutwillig erscheint, insbesondere weil
 
@@ -193,7 +193,7 @@ Für die Durchführung des Schlichtungsverfahrens werden Gebühren und Auslagen 
 
 # § 17 – Zugangsvermutung
 
-Schriftstücke, die auf Veranlassung der Schlichtungsstelle durch einen Postdienstleister im Inland an eine Partei übermittelt werden, gelten mit dem dritten Tage nach der Aufgabe zur Post als zugegangen.
+Schriftstücke, die auf Veranlassung der Schlichtungsstelle durch einen Postdienstleister im Inland an eine Partei übermittelt werden, gelten mit dem vierten Tage nach der Aufgabe zur Post als zugegangen.
 
 # § 18 – Anwendbare Vorschriften der Zivilprozessordnung
 

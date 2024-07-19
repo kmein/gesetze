@@ -3114,7 +3114,7 @@ bekannt geworden sind, oder
 
 1. die für den öffentlichen Dienst besonders Verpflichteten (§ 11 Abs. 1 Nr. 4 des Strafgesetzbuchs),
 
-1a. die in § 193 Abs. 2 des Gerichtsverfassungsgesetzes genannten Personen,
+1a. die in § 193 Absatz 3 des Gerichtsverfassungsgesetzes genannten Personen,
 
 2. amtlich zugezogene Sachverständige,
 

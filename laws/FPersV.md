@@ -351,7 +351,7 @@ Die Einrichtung und der Betrieb der automatisierten Abrufverfahren richten sich 
 
 3. Land- und forstwirtschaftliche Zugmaschinen, die für land- oder forstwirtschaftliche Tätigkeiten in einem Umkreis von bis zu 100 Kilometern vom Standort des Unternehmens verwendet werden, das das Fahrzeug besitzt, anmietet oder least,
 
-4. Fahrzeuge oder Fahrzeugkombinationen mit einer zulässigen Höchstmasse von nicht mehr als 7,5 Tonnen, die von Postdienstleistern, die Universaldienstleistungen im Sinne des § 1 Absatz 1 der Post-Universaldienstleistungsverordnung vom 15. Dezember 1999 (BGBl. I S. 2418), die zuletzt durch Artikel 3 Absatz 26 des Gesetzes vom 7. Juli 2005 (BGBl. I S. 1970) geändert worden ist, in der jeweils geltenden Fassung erbringen, in einem Umkreis von 100 Kilometern vom Standort des Unternehmens zum Zwecke der Zustellung von Sendungen im Rahmen des Universaldienstes verwendet werden, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,
+4. Fahrzeuge oder Fahrzeugkombinationen mit einer zulässigen Höchstmasse von nicht mehr als 7,5 Tonnen, die von Postdienstleistern, die Universaldienstleistungen im Sinne des § 16 Absatz 1 des Postgesetzes in der jeweils geltenden Fassung erbringen, in einem Umkreis von 100 Kilometern vom Standort des Unternehmens zum Zwecke der Zustellung von Sendungen im Rahmen des Universaldienstes verwendet werden, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,
 
 5. Fahrzeuge, die ausschließlich auf Inseln mit einer Fläche von nicht mehr als 2 300 Quadratkilometern verkehren, die mit den übrigen Teilen des Hoheitsgebiets weder durch eine befahrbare Brücke, Furt oder einen befahrbaren Tunnel verbunden sind,
 

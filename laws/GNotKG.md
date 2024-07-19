@@ -5463,13 +5463,6 @@ in voller Höhe
 
 31016
 
-Pauschale für die Inanspruchnahme von Videokonferenzverbindungen:  
-je Verfahren für jede angefangene halbe Stunde ..........
-
-15,00 €
-
-31017
-
 Umsatzsteuer auf die Kosten  
 Dies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben bleibt.
 
