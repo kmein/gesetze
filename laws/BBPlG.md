@@ -927,13 +927,169 @@ B
 
 Höchstspannungsleitung Hemmingstedt/Lieth/Lohe-Rickelshof/Wöhrden – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin; Gleichstrom
 
-A1, B, E, H
+A1, B, E
+
+81a
+
+Höchstspannungsleitung Pöschendorf/Hadenfeld/Kaisborstel/Agethorst/Mehlbek – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin; Gleichstrom
+
+A1, B, E
+
+81b
+
+Höchstspannungsleitung Grenzkorridor N-V – Pöschendorf/Hadenfeld/Kaisborstel/Agethorst/Mehlbek; Gleichstrom mit den Bestandteilen
+
+B, E
+
+ 
+
+– Grenzkorridor N-V – Hemmingstedt/Epenwöhrden
+
+ 
+
+ 
+
+– Hemmingstedt/Epenwöhrden – Pöschendorf/Hadenfeld/Kaisborstel/Agethorst/Mehlbek
+
+A2, G
+
+81c
+
+Höchstspannungsleitung Grenzkorridor N-V – Pöschendorf/Hadenfeld/Kaisborstel/Agethorst/Mehlbek; Gleichstrom mit den Bestandteilen
+
+B, E
+
+ 
+
+– Grenzkorridor N-V – Hemmingstedt/Epenwöhrden
+
+ 
+
+ 
+
+– Hemmingstedt/Epenwöhrden – Pöschendorf/Hadenfeld/Kaisborstel/Agethorst/Mehlbek
+
+A2, G
+
+81d
+
+Höchstspannungsleitung Grenzkorridor N-V – Ämter Büchen/Breitenfelde/Schwarzenbek-Land; Gleichstrom mit den Bestandteilen
+
+B, E
+
+ 
+
+– Grenzkorridor N-V – Hemmingstedt/Epenwöhrden
+
+ 
+
+ 
+
+– Hemmingstedt/Epenwöhrden – Seth/Leezen/Groß Niendorf/Travenbrück
+
+A2, G
+
+ 
+
+– Seth/Leezen/Groß Niendorf/Travenbrück – Ämter Büchen/Breitenfelde/Schwarzenbek-Land
+
+A2, G
+
+81e
+
+Höchstspannungsleitung Grenzkorridor N-V – Ämter Büchen/Breitenfelde/Schwarzenbek-Land; Gleichstrom mit den Bestandteilen
+
+B, E
+
+ 
+
+– Grenzkorridor N-V – Hemmingstedt/Epenwöhrden
+
+ 
+
+ 
+
+– Hemmingstedt/Epenwöhrden – Seth/Leezen/Groß Niendorf/Travenbrück
+
+A2, G
+
+ 
+
+– Seth/Leezen/Groß Niendorf/Travenbrück – Ämter Büchen/Breitenfelde/Schwarzenbek-Land
+
+A2, G
+
+81f
+
+Höchstspannungsleitung Grenzkorridor N-V – Wiemersdorf/Hardebek; Gleichstrom mit den Bestandteilen
+
+B, E
+
+ 
+
+– Grenzkorridor N-V – Hemmingstedt/Epenwöhrden
+
+ 
+
+ 
+
+– Hemmingstedt/Epenwöhrden – Hagen/Fuhlendorf/Bad Bramstedt/Bimöhlen
+
+A2, G
+
+ 
+
+– Hagen/Fuhlendorf/Bad Bramstedt/Bimöhlen – Wiemersdorf/Hardebek
+
+A2, G
 
 82
 
 Höchstspannungsleitung Ovelgönne/Rastede/Wiefelstede/Westerstede – Bürstadt; Gleichstrom
 
 A1, B, E
+
+82a
+
+Höchstspannungsleitung Ovelgönne/Rastede/Wiefelstede/Westerstede – Hofheim am Taunus; Gleichstrom
+
+A1, B, E
+
+82b
+
+Höchstspannungsleitung Grenzkorridor N-III – Kriftel; Gleichstrom mit den Bestandteilen
+
+B, E
+
+ 
+
+– Grenzkorridor N-III – Ovelgönne/Rastede/Wiefelstede/Westerstede
+
+ 
+
+ 
+
+– Ovelgönne/Rastede/Wiefelstede/Westerstede – Kriftel
+
+A1
+
+82c
+
+Höchstspannungsleitung Grenzkorridor N-III – Bürstadt/Biblis/Groß-Rohrheim/Gernsheim/Biebesheim am Rhein; Gleichstrom mit den Bestandteilen
+
+B, E
+
+ 
+
+– Grenzkorridor N-III – Ovelgönne/Rastede/Wiefelstede/Westerstede
+
+ 
+
+ 
+
+– Ovelgönne/Rastede/Wiefelstede/Westerstede – Bürstadt/Biblis/Groß-Rohrheim/Gernsheim/Biebesheim am Rhein
+
+A1
 
 83
 

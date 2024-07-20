@@ -651,7 +651,7 @@ Partei kraft Amtes; juristische Person; parteifähige Vereinigung
 
 § 117
 
-Antrag
+Antrag; Verordnungsermächtigung
 
 § 118
 
@@ -719,7 +719,7 @@ Grundsatz der Mündlichkeit; schriftliches Verfahren
 
 § 128a
 
-Verhandlung im Wege der Bild- und Tonübertragung
+Videoverhandlung
 
 § 129
 
@@ -3495,7 +3495,7 @@ Zuständigkeit
 
 § 802f
 
-Verfahren zur Abnahme der Vermögensauskunft
+Abnahme der Vermögensauskunft
 
 § 802g
 
@@ -5919,19 +5919,19 @@ Prozesskostenhilfe erhalten auf Antrag
 
 § 114 Absatz 1 Satz 1 letzter Halbsatz und Absatz 2 ist anzuwenden. Können die Kosten nur zum Teil oder nur in Teilbeträgen aufgebracht werden, so sind die entsprechenden Beträge zu zahlen.
 
-# § 117 – Antrag
+# § 117 – Antrag; Verordnungsermächtigung
 
 (1) Der Antrag auf Bewilligung der Prozesskostenhilfe ist bei dem Prozessgericht zu stellen; er kann vor der Geschäftsstelle zu Protokoll erklärt werden. In dem Antrag ist das Streitverhältnis unter Angabe der Beweismittel darzustellen. Der Antrag auf Bewilligung von Prozesskostenhilfe für die Zwangsvollstreckung ist bei dem für die Zwangsvollstreckung zuständigen Gericht zu stellen.
 
 (2) Dem Antrag sind eine Erklärung der Partei über ihre persönlichen und wirtschaftlichen Verhältnisse (Familienverhältnisse, Beruf, Vermögen, Einkommen und Lasten) sowie entsprechende Belege beizufügen. Die Erklärung und die Belege dürfen dem Gegner nur mit Zustimmung der Partei zugänglich gemacht werden; es sei denn, der Gegner hat gegen den Antragsteller nach den Vorschriften des bürgerlichen Rechts einen Anspruch auf Auskunft über Einkünfte und Vermögen des Antragstellers. Dem Antragsteller ist vor der Übermittlung seiner Erklärung an den Gegner Gelegenheit zur Stellungnahme zu geben. Er ist über die Übermittlung seiner Erklärung zu unterrichten.
 
-(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, zur Vereinfachung und Vereinheitlichung des Verfahrens durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für die Erklärung einzuführen. Die Formulare enthalten die nach § 120a Absatz 2 Satz 4 erforderliche Belehrung.
+(3) Das Bundesministerium der Justiz wird ermächtigt, zur Vereinfachung und Vereinheitlichung des Verfahrens durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für die Erklärung einzuführen. Die Formulare enthalten die nach § 120a Absatz 2 Satz 4 erforderliche Belehrung.
 
-(4) Soweit Formulare für die Erklärung eingeführt sind, muss sich die Partei ihrer bedienen.
+(4) Soweit Formulare für die Erklärung nach Absatz 2 eingeführt sind, muss sich die Partei ihrer bedienen. In geeigneten Fällen kann die Geschäftsstelle die Erklärung auch zu Protokoll aufnehmen.
 
 # § 118 – Bewilligungsverfahren
 
-(1) Dem Gegner ist Gelegenheit zur Stellungnahme zu geben, ob er die Voraussetzungen für die Bewilligung von Prozesskostenhilfe für gegeben hält, soweit dies aus besonderen Gründen nicht unzweckmäßig erscheint. Die Stellungnahme kann vor der Geschäftsstelle zu Protokoll erklärt werden. Das Gericht kann die Parteien zur mündlichen Erörterung laden, wenn eine Einigung zu erwarten ist; ein Vergleich ist zu gerichtlichem Protokoll zu nehmen. Dem Gegner entstandene Kosten werden nicht erstattet. Die durch die Vernehmung von Zeugen und Sachverständigen nach Absatz 2 Satz 3 entstandenen Auslagen sind als Gerichtskosten von der Partei zu tragen, der die Kosten des Rechtsstreits auferlegt sind.
+(1) Dem Gegner ist Gelegenheit zur Stellungnahme zu geben, ob er die Voraussetzungen für die Bewilligung von Prozesskostenhilfe für gegeben hält, soweit dies aus besonderen Gründen nicht unzweckmäßig erscheint. Die Stellungnahme kann vor der Geschäftsstelle zu Protokoll erklärt werden. Das Gericht kann die Parteien zur mündlichen Erörterung laden, wenn eine Einigung zu erwarten ist; ein Vergleich ist zu gerichtlichem Protokoll zu nehmen. Dem Gegner entstandene Kosten werden nicht erstattet. Die durch die Vernehmung von Zeugen und Sachverständigen nach Absatz 2 Satz 3 entstandenen Auslagen sind als Gerichtskosten von der Partei zu tragen, der die Kosten des Rechtsstreits auferlegt sind. § 128a gilt für den Erörterungstermin nach Satz 3 entsprechend.
 
 (2) Das Gericht kann verlangen, dass der Antragsteller seine tatsächlichen Angaben glaubhaft macht, es kann insbesondere auch die Abgabe einer Versicherung an Eides statt fordern. Es kann Erhebungen anstellen, insbesondere die Vorlegung von Urkunden anordnen und Auskünfte einholen. Zeugen und Sachverständige werden nicht vernommen, es sei denn, dass auf andere Weise nicht geklärt werden kann, ob die Rechtsverfolgung oder Rechtsverteidigung hinreichende Aussicht auf Erfolg bietet und nicht mutwillig erscheint; eine Beeidigung findet nicht statt. Hat der Antragsteller innerhalb einer von dem Gericht gesetzten Frist Angaben über seine persönlichen und wirtschaftlichen Verhältnisse nicht glaubhaft gemacht oder bestimmte Fragen nicht oder ungenügend beantwortet, so lehnt das Gericht die Bewilligung von Prozesskostenhilfe insoweit ab.
 
@@ -5961,7 +5961,7 @@ Prozesskostenhilfe erhalten auf Antrag
 
 (1) Das Gericht soll die Entscheidung über die zu leistenden Zahlungen ändern, wenn sich die für die Prozesskostenhilfe maßgebenden persönlichen oder wirtschaftlichen Verhältnisse wesentlich verändert haben. Eine Änderung der nach § 115 Absatz 1 Satz 3 Nummer 1 Buchstabe b und Nummer 2 maßgebenden Beträge ist nur auf Antrag und nur dann zu berücksichtigen, wenn sie dazu führt, dass keine Monatsrate zu zahlen ist. Auf Verlangen des Gerichts muss die Partei jederzeit erklären, ob eine Veränderung der Verhältnisse eingetreten ist. Eine Änderung zum Nachteil der Partei ist ausgeschlossen, wenn seit der rechtskräftigen Entscheidung oder der sonstigen Beendigung des Verfahrens vier Jahre vergangen sind.
 
-(2) Verbessern sich vor dem in Absatz 1 Satz 4 genannten Zeitpunkt die wirtschaftlichen Verhältnisse der Partei wesentlich oder ändert sich ihre Anschrift, hat sie dies dem Gericht unverzüglich mitzuteilen. Bezieht die Partei ein laufendes monatliches Einkommen, ist eine Einkommensverbesserung nur wesentlich, wenn die Differenz zu dem bisher zu Grunde gelegten Bruttoeinkommen nicht nur einmalig 100 Euro übersteigt. Satz 2 gilt entsprechend, soweit abzugsfähige Belastungen entfallen. Hierüber und über die Folgen eines Verstoßes ist die Partei bei der Antragstellung in dem gemäß § 117 Absatz 3 eingeführten Formular zu belehren.
+(2) Verbessern sich vor dem in Absatz 1 Satz 4 genannten Zeitpunkt die wirtschaftlichen Verhältnisse der Partei wesentlich oder ändert sich ihre Anschrift, hat sie dies dem Gericht unverzüglich mitzuteilen. Bezieht die Partei ein laufendes monatliches Einkommen, ist eine Einkommensverbesserung nur wesentlich, wenn die Differenz zu dem bisher zu Grunde gelegten Bruttoeinkommen nicht nur einmalig 100 Euro übersteigt. Satz 2 gilt entsprechend, soweit abzugsfähige Belastungen entfallen. Hierüber und über die Folgen eines Verstoßes ist die Partei bei der Antragstellung zu belehren.
 
 (3) Eine wesentliche Verbesserung der wirtschaftlichen Verhältnisse kann insbesondere dadurch eintreten, dass die Partei durch die Rechtsverfolgung oder Rechtsverteidigung etwas erlangt. Das Gericht soll nach der rechtskräftigen Entscheidung oder der sonstigen Beendigung des Verfahrens prüfen, ob eine Änderung der Entscheidung über die zu leistenden Zahlungen mit Rücksicht auf das durch die Rechtsverfolgung oder Rechtsverteidigung Erlangte geboten ist. Eine Änderung der Entscheidung ist ausgeschlossen, soweit die Partei bei rechtzeitiger Leistung des durch die Rechtsverfolgung oder Rechtsverteidigung Erlangten ratenfreie Prozesskostenhilfe erhalten hätte.
 
@@ -6049,13 +6049,21 @@ Die Bewilligung der Prozesskostenhilfe hat auf die Verpflichtung, die dem Gegner
 
 (4) Entscheidungen des Gerichts, die nicht Urteile sind, können ohne mündliche Verhandlung ergehen, soweit nichts anderes bestimmt ist.
 
-# § 128a – Verhandlung im Wege der Bild- und Tonübertragung
+# § 128a – Videoverhandlung
 
-(1) Das Gericht kann den Parteien, ihren Bevollmächtigten und Beiständen auf Antrag oder von Amts wegen gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
+(1) Die mündliche Verhandlung kann in geeigneten Fällen und soweit ausreichende Kapazitäten zur Verfügung stehen als Videoverhandlung stattfinden. Eine mündliche Verhandlung findet als Videoverhandlung statt, wenn an ihr mindestens ein Verfahrensbeteiligter oder mindestens ein Mitglied des Gerichts per Bild- und Tonübertragung teilnimmt. Verfahrensbeteiligte nach dieser Vorschrift sind die Parteien und Nebenintervenienten, ihre Bevollmächtigten sowie Vertreter und Beistände.
 
-(2) Das Gericht kann auf Antrag gestatten, dass sich ein Zeuge, ein Sachverständiger oder eine Partei während einer Vernehmung an einem anderen Ort aufhält. Die Vernehmung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen. Ist Parteien, Bevollmächtigten und Beiständen nach Absatz 1 Satz 1 gestattet worden, sich an einem anderen Ort aufzuhalten, so wird die Vernehmung auch an diesen Ort übertragen.
+(2) Der Vorsitzende kann unter den Voraussetzungen des Absatzes 1 Satz 1 die Teilnahme an der mündlichen Verhandlung per Bild- und Tonübertragung für einen Verfahrensbeteiligten, mehrere oder alle Verfahrensbeteiligte gestatten oder anordnen. Gegen eine Anordnung kann der Adressat innerhalb einer Frist von zwei Wochen Einspruch einlegen. Hierauf weist der Vorsitzende mit der Anordnung hin.
 
-(3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
+(3) Beantragt ein Verfahrensbeteiligter seine Teilnahme per Bild- und Tonübertragung, soll der Vorsitzende ihm diese unter den Voraussetzungen des Absatzes 1 Satz 1 gestatten. Die Ablehnung eines Antrags auf Teilnahme per Bild- und Tonübertragung ist kurz zu begründen.
+
+(4) Wird der Einspruch nach Absatz 2 Satz 2 fristgerecht eingelegt, so hebt der Vorsitzende die Anordnung für alle Verfahrensbeteiligten auf, gegenüber denen eine Anordnung erfolgt ist. In diesem Fall soll der Vorsitzende den Verfahrensbeteiligten, die keinen Einspruch eingelegt haben, die Teilnahme per Bild- und Tonübertragung gestatten. Das Antragsrecht nach Absatz 3 Satz 1 bleibt hiervon unberührt.
+
+(5) Der Vorsitzende leitet die Videoverhandlung von der Gerichtsstelle aus. Er kann anderen Mitgliedern des Gerichts bei Vorliegen erheblicher Gründe gestatten, an der mündlichen Verhandlung per Bild- und Tonübertragung teilzunehmen.
+
+(6) Den Verfahrensbeteiligten und Dritten ist es untersagt, die Videoverhandlung aufzuzeichnen. Hierauf sind sie zu Beginn der Verhandlung hinzuweisen. Die Videoverhandlung kann für die Zwecke des § 160a ganz oder teilweise aufgezeichnet werden. Über Beginn und Ende der Aufzeichnung sind die Verfahrensbeteiligten zu informieren.
+
+(7) Entscheidungen nach dieser Vorschrift sind unanfechtbar. Absatz 2 Satz 2 bleibt unberührt.
 
 # § 129 – Vorbereitende Schriftsätze
 
@@ -6067,7 +6075,9 @@ Die Bewilligung der Prozesskostenhilfe hat auf die Verpflichtung, die dem Gegner
 
 (1) Anträge und Erklärungen, deren Abgabe vor dem Urkundsbeamten der Geschäftsstelle zulässig ist, können vor der Geschäftsstelle eines jeden Amtsgerichts zu Protokoll abgegeben werden.
 
-(2) Die Geschäftsstelle hat das Protokoll unverzüglich an das Gericht zu übermitteln, an das der Antrag oder die Erklärung gerichtet ist. Die Wirkung einer Prozesshandlung tritt frühestens ein, wenn das Protokoll dort eingeht. Die Übermittlung des Protokolls kann demjenigen, der den Antrag oder die Erklärung zu Protokoll abgegeben hat, mit seiner Zustimmung überlassen werden.
+(2) Der Urkundsbeamte der Geschäftsstelle kann Anträge und Erklärungen nach Absatz 1 auch per Bild- und Tonübertragung aufnehmen. In diesem Fall kann sich der Urkundsbeamte der Geschäftsstelle bei der Aufnahme der Anträge und Erklärungen an einem anderen Ort als der Geschäftsstelle aufhalten. Die Bild- und Tonübertragung wird nicht aufgezeichnet. § 162 Absatz 1 Satz 1 und 3 gilt entsprechend.
+
+(3) Die Geschäftsstelle hat das Protokoll unverzüglich an das Gericht zu übermitteln, an das der Antrag oder die Erklärung gerichtet ist. Die Wirkung einer Prozesshandlung tritt frühestens ein, wenn das Protokoll dort eingeht. Die Übermittlung des Protokolls kann demjenigen, der den Antrag oder die Erklärung zu Protokoll abgegeben hat, mit seiner Zustimmung überlassen werden.
 
 # § 130 – Inhalt der Schriftsätze
 
@@ -6215,7 +6225,7 @@ Wird eine auf die Sachleitung bezügliche Anordnung des Vorsitzenden oder eine v
 
 # § 141 – Anordnung des persönlichen Erscheinens
 
-(1) Das Gericht soll das persönliche Erscheinen beider Parteien anordnen, wenn dies zur Aufklärung des Sachverhalts geboten erscheint. Ist einer Partei wegen großer Entfernung oder aus sonstigem wichtigen Grund die persönliche Wahrnehmung des Termins nicht zuzumuten, so sieht das Gericht von der Anordnung ihres Erscheinens ab.
+(1) Das Gericht soll das persönliche Erscheinen beider Parteien anordnen, wenn dies zur Aufklärung des Sachverhalts geboten erscheint. Das Gericht kann das persönliche Erscheinen auch als Teilnahme an einer Videoverhandlung nach § 128a gestatten oder anordnen. Ist einer Partei aus wichtigem Grund das persönliche Erscheinen in dem Termin nicht zuzumuten, so sieht das Gericht von der Anordnung ihres persönlichen Erscheinens ab.
 
 (2) Wird das Erscheinen angeordnet, so ist die Partei von Amts wegen zu laden. Die Ladung ist der Partei selbst mitzuteilen, auch wenn sie einen Prozessbevollmächtigten bestellt hat; der Zustellung bedarf die Ladung nicht.
 
@@ -6329,11 +6339,11 @@ Ist eine bei der Verhandlung beteiligte Person zur Aufrechterhaltung der Ordnung
 
 1. den Ort und den Tag der Verhandlung;
 
-2. die Namen der Richter, des Urkundsbeamten der Geschäftsstelle und des etwa zugezogenen Dolmetschers;
+2. die Namen der Richter, des Urkundsbeamten der Geschäftsstelle und des etwa zugezogenen Dolmetschers sowie im Fall des § 128a Absatz 5 Satz 2 dieses Gesetzes und des § 185 Absatz 1a des Gerichtsverfassungsgesetzes die Angabe, wer an der Verhandlung oder der Beweisaufnahme per Bild- und Tonübertragung teilnimmt;
 
 3. die Bezeichnung des Rechtsstreits;
 
-4. die Namen der erschienenen Parteien, Nebenintervenienten, Vertreter, Bevollmächtigten, Beistände, Zeugen und Sachverständigen und im Falle des § 128a den Ort, von dem aus sie an der Verhandlung teilnehmen;
+4. die Namen der erschienenen Parteien, Nebenintervenienten, Vertreter, Bevollmächtigten, Beistände, Zeugen und Sachverständigen sowie im Fall der §§ 128a und 284 Absatz 2 die Angabe, wer an der Verhandlung oder der Beweisaufnahme per Bild- und Tonübertragung teilnimmt, und im Fall des § 284 Absatz 3 die Gerichtsstelle, von der aus die Parteien, Zeugen und Sachverständigen an der Beweisaufnahme teilnehmen;
 
 5. die Angabe, dass öffentlich verhandelt oder die Öffentlichkeit ausgeschlossen worden ist.
 
@@ -6367,19 +6377,27 @@ Ist eine bei der Verhandlung beteiligte Person zur Aufrechterhaltung der Ordnung
 
 # § 160a – Vorläufige Protokollaufzeichnung
 
-(1) Der Inhalt des Protokolls kann in einer gebräuchlichen Kurzschrift, durch verständliche Abkürzungen oder auf einem Ton- oder Datenträger vorläufig aufgezeichnet werden.
+(1) Der Inhalt des Protokolls kann vorläufig aufgezeichnet werden.
 
-(2) Das Protokoll ist in diesem Fall unverzüglich nach der Sitzung herzustellen. Soweit Feststellungen nach § 160 Abs. 3 Nr. 4 und 5 mit einem Tonaufnahmegerät vorläufig aufgezeichnet worden sind, braucht lediglich dies in dem Protokoll vermerkt zu werden. Das Protokoll ist um die Feststellungen zu ergänzen, wenn eine Partei dies bis zum rechtskräftigen Abschluss des Verfahrens beantragt oder das Rechtsmittelgericht die Ergänzung anfordert. Sind Feststellungen nach § 160 Abs. 3 Nr. 4 unmittelbar aufgenommen und ist zugleich das wesentliche Ergebnis der Aussagen vorläufig aufgezeichnet worden, so kann eine Ergänzung des Protokolls nur um das wesentliche Ergebnis der Aussagen verlangt werden.
+(2) Das Protokoll ist im Fall des Absatzes 1 unverzüglich nach der Sitzung herzustellen. Wenn Aussagen nach § 160 Absatz 3 Nummer 4 oder das Ergebnis eines Augenscheins nach § 160 Absatz 3 Nummer 5 in Ton oder in Bild und Ton vorläufig aufgezeichnet worden sind, muss lediglich dies in dem Protokoll vermerkt werden. Das Protokoll ist um den Inhalt der vorläufigen Aufzeichnungen nach Satz 2 zu ergänzen, wenn eine Partei dies bis zum rechtskräftigen Abschluss des Verfahrens beantragt oder das Rechtsmittelgericht die Ergänzung anfordert. Sind Aussagen nach § 160 Absatz 3 Nummer 4 in Ton oder in Bild und Ton unmittelbar aufgenommen und ist zugleich das wesentliche Ergebnis der Aussagen vorläufig aufgezeichnet worden, so kann eine Ergänzung des Protokolls nur um das wesentliche Ergebnis der Aussagen verlangt werden.
 
-(3) Die vorläufigen Aufzeichnungen sind zu den Prozessakten zu nehmen oder, wenn sie sich nicht dazu eignen, bei der Geschäftsstelle mit den Prozessakten aufzubewahren. Aufzeichnungen auf Ton- oder Datenträgern können gelöscht werden,
+(3) Die vorläufigen Aufzeichnungen sind
 
-1. soweit das Protokoll nach der Sitzung hergestellt oder um die vorläufig aufgezeichneten Feststellungen ergänzt ist, wenn die Parteien innerhalb eines Monats nach Mitteilung der Abschrift keine Einwendungen erhoben haben;
+1. zu den Prozessakten zu nehmen,
 
-2. nach rechtskräftigem Abschluss des Verfahrens.
+2. bei der Geschäftsstelle mit den Prozessakten aufzubewahren oder
 
-Soweit das Gericht über eine zentrale Datenspeichereinrichtung verfügt, können die vorläufigen Aufzeichnungen an Stelle der Aufbewahrung nach Satz 1 auf der zentralen Datenspeichereinrichtung gespeichert werden.
+3. auf einer zentralen Datenspeicherungseinrichtung der Justiz zu speichern.
 
-(4) Die endgültige Herstellung durch Aufzeichnung auf Datenträger in der Form des § 130b ist möglich.
+(4) Die vorläufigen Aufzeichnungen sind zu löschen,
+
+1. sobald das Protokoll nach der Sitzung hergestellt oder um den Inhalt der vorläufigen Aufzeichnungen ergänzt ist, wenn die Parteien innerhalb eines Monats nach Mitteilung der Abschrift keine Einwendungen erhoben haben;
+
+2. in nicht in Nummer 1 genannten Fällen nach rechtskräftigem Abschluss des Verfahrens.
+
+(5) Die endgültige Herstellung durch Aufzeichnung auf Datenträger in der Form des § 130b ist möglich.
+
+(6) Einsicht in die vorläufigen Aufzeichnungen in Ton oder in Bild und Ton wird durch den Vorsitzenden in entsprechender Anwendung des § 299 Absatz 3 und 4 gewährt, ohne dass es eines besonderen Antrags nach § 299 Absatz 3 Satz 2 bedarf.
 
 # § 161 – Entbehrliche Feststellungen
 
@@ -6393,13 +6411,13 @@ Soweit das Gericht über eine zentrale Datenspeichereinrichtung verfügt, könne
 
 # § 162 – Genehmigung des Protokolls
 
-(1) Das Protokoll ist insoweit, als es Feststellungen nach § 160 Abs. 3 Nr. 1, 3, 4, 5, 8, 9 oder zu Protokoll erklärte Anträge enthält, den Beteiligten vorzulesen oder zur Durchsicht vorzulegen. Ist der Inhalt des Protokolls nur vorläufig aufgezeichnet worden, so genügt es, wenn die Aufzeichnungen vorgelesen oder abgespielt werden. In dem Protokoll ist zu vermerken, dass dies geschehen und die Genehmigung erteilt ist oder welche Einwendungen erhoben worden sind.
+(1) Das Protokoll ist insoweit, als es Feststellungen nach § 160 Abs. 3 Nr. 1, 3, 4, 5, 8, 9 oder zu Protokoll erklärte Anträge enthält, den Beteiligten vorzulesen, zur Durchsicht vorzulegen oder zur Durchsicht auf einem Bildschirm anzuzeigen. Ist der Inhalt des Protokolls nur vorläufig aufgezeichnet worden, so genügt es, wenn die Aufzeichnungen vorgelesen oder abgespielt werden. In dem Protokoll ist zu vermerken, dass dies geschehen und die Genehmigung erteilt ist oder welche Einwendungen erhoben worden sind.
 
-(2) Feststellungen nach § 160 Abs. 3 Nr. 4 brauchen nicht abgespielt zu werden, wenn sie in Gegenwart der Beteiligten unmittelbar aufgezeichnet worden sind; der Beteiligte, dessen Aussage aufgezeichnet ist, kann das Abspielen verlangen. Soweit Feststellungen nach § 160 Abs. 3 Nr. 4 und 5 in Gegenwart der Beteiligten diktiert worden sind, kann das Abspielen, das Vorlesen oder die Vorlage zur Durchsicht unterbleiben, wenn die Beteiligten nach der Aufzeichnung darauf verzichten; in dem Protokoll ist zu vermerken, dass der Verzicht ausgesprochen worden ist.
+(2) Aussagen nach § 160 Absatz 3 Nummer 4 brauchen nicht abgespielt zu werden, wenn sie in Gegenwart der Beteiligten unmittelbar aufgezeichnet worden sind; der Beteiligte, dessen Aussage aufgezeichnet ist, kann das Abspielen verlangen. Soweit Aussagen nach § 160 Absatz 3 Nummer 4 oder das Ergebnis eines Augenscheins nach § 160 Absatz 3 Nummer 5 in Gegenwart der Beteiligten und in Form einer Zusammenfassung der wesentlichen Ergebnisse aufgezeichnet worden sind, kann das Abspielen, das Vorlesen, die Vorlage zur Durchsicht oder die Anzeige auf einem Bildschirm unterbleiben, wenn die Beteiligten nach der Aufzeichnung darauf verzichten; in dem Protokoll ist zu vermerken, dass der Verzicht ausgesprochen worden ist.
 
 # § 163 – Unterschreiben des Protokolls
 
-(1) Das Protokoll ist von dem Vorsitzenden und von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben. Ist der Inhalt des Protokolls ganz oder teilweise mit einem Tonaufnahmegerät vorläufig aufgezeichnet worden, so hat der Urkundsbeamte der Geschäftsstelle die Richtigkeit der Übertragung zu prüfen und durch seine Unterschrift zu bestätigen; dies gilt auch dann, wenn der Urkundsbeamte der Geschäftsstelle zur Sitzung nicht zugezogen war.
+(1) Das Protokoll ist von dem Vorsitzenden und von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben. Ist der Inhalt des Protokolls ganz oder teilweise in Ton oder in Bild und Ton vorläufig aufgezeichnet worden, so hat der Urkundsbeamte der Geschäftsstelle die Richtigkeit der Übertragung zu prüfen und durch seine Unterschrift zu bestätigen; dies gilt auch dann, wenn der Urkundsbeamte der Geschäftsstelle zur Sitzung nicht zugezogen war.
 
 (2) Ist der Vorsitzende verhindert, so unterschreibt für ihn der älteste beisitzende Richter; war nur ein Richter tätig und ist dieser verhindert, so genügt die Unterschrift des zur Protokollführung zugezogenen Urkundsbeamten der Geschäftsstelle. Ist dieser verhindert, so genügt die Unterschrift des Richters. Der Grund der Verhinderung soll im Protokoll vermerkt werden.
 
@@ -6779,6 +6797,8 @@ Zu Terminen, die in verkündeten Entscheidungen bestimmt sind, ist eine Ladung d
 
 3. das Einvernehmen der Parteien allein.
 
+Von einer Terminsänderung soll abgesehen werden, wenn sich der Termin für eine Durchführung als Videoverhandlung nach § 128a oder als Beweisaufnahme nach § 284 Absatz 2 eignet und die erheblichen Gründe nach Satz 1 dadurch entfallen.
+
 (2) Die erheblichen Gründe sind auf Verlangen des Vorsitzenden, für eine Vertagung auf Verlangen des Gerichts glaubhaft zu machen.
 
 (3) Ein für die Zeit vom 1. Juli bis 31. August bestimmter Termin, mit Ausnahme eines Termins zur Verkündung einer Entscheidung, ist auf Antrag innerhalb einer Woche nach Zugang der Ladung oder Terminsbestimmung zu verlegen. Dies gilt nicht für
@@ -6801,7 +6821,9 @@ Zu Terminen, die in verkündeten Entscheidungen bestimmt sind, ist eine Ladung d
 
 dabei genügt es, wenn nur einer von mehreren Ansprüchen die Voraussetzungen erfüllt. Wenn das Verfahren besonderer Beschleunigung bedarf, ist dem Verlegungsantrag nicht zu entsprechen.
 
-(4) Über die Aufhebung sowie Verlegung eines Termins entscheidet der Vorsitzende ohne mündliche Verhandlung; über die Vertagung einer Verhandlung entscheidet das Gericht. Die Entscheidung ist kurz zu begründen. Sie ist unanfechtbar.
+(4) Ein Antrag auf Terminsverlegung soll eine Äußerung dazu enthalten, ob gegen die Durchführung einer Videoverhandlung (§ 128a) Bedenken bestehen.
+
+(5) Über die Aufhebung sowie Verlegung eines Termins entscheidet der Vorsitzende ohne mündliche Verhandlung; über die Vertagung einer Verhandlung entscheidet das Gericht. Die Entscheidung ist kurz zu begründen. Sie ist unanfechtbar.
 
 # § 228
 
@@ -6963,7 +6985,9 @@ Gegen die Entscheidung, durch die auf Grund der Vorschriften dieses Titels oder 
 
 2. die Angabe des Wertes des Streitgegenstandes, wenn hiervon die Zuständigkeit des Gerichts abhängt und der Streitgegenstand nicht in einer bestimmten Geldsumme besteht;
 
-3. eine Äußerung dazu, ob einer Entscheidung der Sache durch den Einzelrichter Gründe entgegenstehen.
+3. eine Äußerung dazu, ob einer Entscheidung der Sache durch den Einzelrichter Gründe entgegenstehen;
+
+4. eine Äußerung dazu, ob gegen die Durchführung einer Videoverhandlung (§ 128a) Bedenken bestehen.
 
 (4) Außerdem sind die allgemeinen Vorschriften über die vorbereitenden Schriftsätze auch auf die Klageschrift anzuwenden.
 
@@ -7135,7 +7159,11 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 # § 277 – Klageerwiderung; Replik
 
-(1) In der Klageerwiderung hat der Beklagte seine Verteidigungsmittel vorzubringen, soweit es nach der Prozesslage einer sorgfältigen und auf Förderung des Verfahrens bedachten Prozessführung entspricht. Die Klageerwiderung soll ferner eine Äußerung dazu enthalten, ob einer Entscheidung der Sache durch den Einzelrichter Gründe entgegenstehen.
+(1) In der Klageerwiderung hat der Beklagte seine Verteidigungsmittel vorzubringen, soweit es nach der Prozesslage einer sorgfältigen und auf Förderung des Verfahrens bedachten Prozessführung entspricht. Die Klageerwiderung soll ferner eine Äußerung dazu enthalten,
+
+1. ob einer Entscheidung der Sache durch den Einzelrichter Gründe entgegenstehen;
+
+2. ob gegen eine Videoverhandlung (§ 128a) Bedenken bestehen.
 
 (2) Der Beklagte ist darüber, dass die Klageerwiderung durch den zu bestellenden Rechtsanwalt bei Gericht einzureichen ist, und über die Folgen einer Fristversäumung zu belehren.
 
@@ -7147,9 +7175,9 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (1) Das Gericht soll in jeder Lage des Verfahrens auf eine gütliche Beilegung des Rechtsstreits oder einzelner Streitpunkte bedacht sein.
 
-(2) Der mündlichen Verhandlung geht zum Zwecke der gütlichen Beilegung des Rechtsstreits eine Güteverhandlung voraus, es sei denn, es hat bereits ein Einigungsversuch vor einer außergerichtlichen Gütestelle stattgefunden oder die Güteverhandlung erscheint erkennbar aussichtslos. Das Gericht hat in der Güteverhandlung den Sach- und Streitstand mit den Parteien unter freier Würdigung aller Umstände zu erörtern und, soweit erforderlich, Fragen zu stellen. Die erschienenen Parteien sollen hierzu persönlich gehört werden. § 128a Absatz 1 und 3 gilt entsprechend.
+(2) Der mündlichen Verhandlung geht zum Zwecke der gütlichen Beilegung des Rechtsstreits eine Güteverhandlung voraus, es sei denn, es hat bereits ein Einigungsversuch vor einer außergerichtlichen Gütestelle stattgefunden oder die Güteverhandlung erscheint erkennbar aussichtslos. Das Gericht hat in der Güteverhandlung den Sach- und Streitstand mit den Parteien unter freier Würdigung aller Umstände zu erörtern und, soweit erforderlich, Fragen zu stellen. Die erschienenen Parteien sollen hierzu persönlich gehört werden. § 128a gilt entsprechend.
 
-(3) Für die Güteverhandlung sowie für weitere Güteversuche soll das persönliche Erscheinen der Parteien angeordnet werden. § 141 Abs. 1 Satz 2, Abs. 2 und 3 gilt entsprechend.
+(3) Für die Güteverhandlung sowie für weitere Güteversuche soll das persönliche Erscheinen der Parteien angeordnet werden. § 141 Absatz 1 Satz 2 und 3 sowie Absatz 2 und 3 gilt entsprechend.
 
 (4) Erscheinen beide Parteien in der Güteverhandlung nicht, ist das Ruhen des Verfahrens anzuordnen.
 
@@ -7215,7 +7243,11 @@ Streiten die Parteien um das Recht des Klägers, die Geldforderung zu erhöhen, 
 
 # § 284 – Beweisaufnahme
 
-Die Beweisaufnahme und die Anordnung eines besonderen Beweisaufnahmeverfahrens durch Beweisbeschluss wird durch die Vorschriften des fünften bis elften Titels bestimmt. Mit Einverständnis der Parteien kann das Gericht die Beweise in der ihm geeignet erscheinenden Art aufnehmen. Das Einverständnis kann auf einzelne Beweiserhebungen beschränkt werden. Es kann nur bei einer wesentlichen Änderung der Prozesslage vor Beginn der Beweiserhebung, auf die es sich bezieht, widerrufen werden.
+(1) Die Beweisaufnahme und die Anordnung eines besonderen Beweisaufnahmeverfahrens durch Beweisbeschluss werden durch die Vorschriften des fünften bis elften Titels bestimmt. Mit Einverständnis der Parteien kann das Gericht die Beweise in der ihm geeignet erscheinenden Art aufnehmen. Das Einverständnis kann auf einzelne Beweiserhebungen beschränkt werden. Es kann nur bei einer wesentlichen Änderung der Prozesslage vor Beginn der Beweiserhebung, auf die es sich bezieht, widerrufen werden.
+
+(2) Das Gericht kann auf Antrag oder von Amts wegen die Beweisaufnahme per Bild- und Tonübertragung gestatten oder anordnen. Das Antragsrecht steht den Verfahrensbeteiligten, Zeugen und Sachverständigen zu. § 128a Absatz 1, 2, 4 Satz 1 und 2 sowie Absatz 5 bis 7 gilt entsprechend. Der Einspruch nach § 128a Absatz 2 Satz 2 steht auch den Verfahrensbeteiligten zu. Satz 1 gilt nicht für den Beweis durch Urkunden.
+
+(3) Gegenüber zu vernehmenden Parteien, Zeugen und Sachverständigen kann im Fall einer Beweisaufnahme nach Absatz 2 zusätzlich angeordnet werden, dass sich diese während der Vernehmung an einer vom Gericht näher zu bestimmenden Gerichtsstelle aufhalten.
 
 # § 285 – Verhandlung nach Beweisaufnahme
 
@@ -7333,11 +7365,13 @@ Nach Schluss der mündlichen Verhandlung, auf die das Urteil ergeht, können Ang
 
 (1) Die Parteien können die Prozessakten einsehen und sich aus ihnen durch die Geschäftsstelle Ausfertigungen, Auszüge und Abschriften erteilen lassen.
 
-(2) Dritten Personen kann der Vorstand des Gerichts ohne Einwilligung der Parteien die Einsicht der Akten nur gestatten, wenn ein rechtliches Interesse glaubhaft gemacht wird.
+(2) Dritten kann der Vorstand des Gerichts ohne Einwilligung der Parteien die Einsicht der Akten nur gestatten, wenn ein rechtliches Interesse glaubhaft gemacht wird.
 
 (3) Werden die Prozessakten elektronisch geführt, gewährt die Geschäftsstelle Akteneinsicht durch Bereitstellung des Inhalts der Akten zum Abruf oder durch Übermittlung des Inhalts der Akten auf einem sicheren Übermittlungsweg. Auf besonderen Antrag wird Akteneinsicht durch Einsichtnahme in die Akten in Diensträumen gewährt. Ein Aktenausdruck oder ein Datenträger mit dem Inhalt der Akte wird auf besonders zu begründenden Antrag nur übermittelt, wenn der Antragsteller hieran ein berechtigtes Interesse darlegt. Stehen der Akteneinsicht in der nach Satz 1 vorgesehenen Form wichtige Gründe entgegen, kann die Akteneinsicht in der nach den Sätzen 2 und 3 vorgesehenen Form auch ohne Antrag gewährt werden. Eine Entscheidung über einen Antrag nach Satz 3 ist nicht anfechtbar.
 
-(4) Die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die zu ihrer Vorbereitung gelieferten Arbeiten sowie die Dokumente, die Abstimmungen betreffen, werden weder vorgelegt noch abschriftlich mitgeteilt.
+(4) Durch technische und organisatorische Maßnahmen ist zu gewährleisten, dass im Rahmen der Akteneinsicht Dritte keine Kenntnis vom Akteninhalt nehmen können. Personen, denen Akteneinsicht gewährt wird, dürfen die ihnen überlassenen Akten oder Akteninhalte weder ganz noch teilweise öffentlich verbreiten oder sie Dritten zu verfahrensfremden Zwecken übermitteln oder zugänglich machen.
+
+(5) Die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die zu ihrer Vorbereitung gelieferten Arbeiten sowie die Dokumente, die Abstimmungen betreffen, werden weder vorgelegt noch abschriftlich mitgeteilt.
 
 # § 299a – Datenträgerarchiv
 
@@ -7427,7 +7461,7 @@ Das Urteil kann nur von denjenigen Richtern gefällt werden, welche der dem Urte
 
 # § 310 – Termin der Urteilsverkündung
 
-(1) Das Urteil wird in dem Termin, in dem die mündliche Verhandlung geschlossen wird, oder in einem sofort anzuberaumenden Termin verkündet. Dieser wird nur dann über drei Wochen hinaus angesetzt, wenn wichtige Gründe, insbesondere der Umfang oder die Schwierigkeit der Sache, dies erfordern.
+(1) Das Urteil wird in dem Termin, in dem die mündliche Verhandlung geschlossen wird, oder in einem sofort anzuberaumenden Termin verkündet. Dieser wird nur dann über drei Wochen hinaus angesetzt, wenn wichtige Gründe, insbesondere der Umfang oder die Schwierigkeit der Sache, dies erfordern. Der Vorsitzende kann den Verfahrensbeteiligten gestatten, an der Urteilsverkündung per Bild- und Tonübertragung teilzunehmen.
 
 (2) Wird das Urteil nicht in dem Termin, in dem die mündliche Verhandlung geschlossen wird, verkündet, so muss es bei der Verkündung in vollständiger Form abgefasst sein.
 
@@ -8031,9 +8065,9 @@ Der Zeugenbeweis wird durch die Benennung der Zeugen und die Bezeichnung der Tat
 
 1. wenn zur Ausmittlung der Wahrheit die Vernehmung des Zeugen an Ort und Stelle dienlich erscheint oder nach gesetzlicher Vorschrift der Zeuge nicht an der Gerichtsstelle, sondern an einem anderen Ort zu vernehmen ist;
 
-2. wenn der Zeuge verhindert ist, vor dem Prozessgericht zu erscheinen und eine Zeugenvernehmung nach § 128a Abs. 2 nicht stattfindet;
+2. wenn der Zeuge verhindert ist, vor dem Prozessgericht zu erscheinen und eine Zeugenvernehmung nach § 284 Absatz 2 und 3 nicht stattfindet;
 
-3. wenn dem Zeugen das Erscheinen vor dem Prozessgericht wegen großer Entfernung unter Berücksichtigung der Bedeutung seiner Aussage nicht zugemutet werden kann und eine Zeugenvernehmung nach § 128a Abs. 2 nicht stattfindet.
+3. wenn dem Zeugen das Erscheinen vor dem Prozessgericht wegen großer Entfernung unter Berücksichtigung der Bedeutung seiner Aussage nicht zugemutet werden kann und eine Zeugenvernehmung nach § 284 Absatz 2 und 3 nicht stattfindet.
 
 (1a) Einem Mitglied des Prozessgerichts darf die Aufnahme des Zeugenbeweises auch dann übertragen werden, wenn dies zur Vereinfachung der Verhandlung vor dem Prozessgericht zweckmäßig erscheint und wenn von vornherein anzunehmen ist, dass das Prozessgericht das Beweisergebnis auch ohne unmittelbaren Eindruck von dem Verlauf der Beweisaufnahme sachgemäß zu würdigen vermag.
 
@@ -8061,7 +8095,11 @@ Der Zeugenbeweis wird durch die Benennung der Zeugen und die Bezeichnung der Tat
 
 2. den Gegenstand der Vernehmung;
 
-3. die Anweisung, zur Ablegung des Zeugnisses bei Vermeidung der durch das Gesetz angedrohten Ordnungsmittel in dem nach Zeit und Ort zu bezeichnenden Termin zu erscheinen.
+3. die Anweisung, zur Ablegung des Zeugnisses bei Vermeidung der durch das Gesetz angedrohten Ordnungsmittel in dem nach Zeit und Ort zu bezeichnenden Termin zu erscheinen;
+
+4. im Fall des § 284 Absatz 2 die Anweisung, zur Ablegung des Zeugnisses die Bild- und Tonübertragung sicherzustellen;
+
+5. im Fall des § 284 Absatz 3 die Anweisung, zur Ablegung des Zeugnisses an der zu bezeichnenden Gerichtsstelle zu erscheinen.
 
 (3) Das Gericht kann eine schriftliche Beantwortung der Beweisfrage anordnen, wenn es dies im Hinblick auf den Inhalt der Beweisfrage und die Person des Zeugen für ausreichend erachtet. Der Zeuge ist darauf hinzuweisen, dass er zur Vernehmung geladen werden kann. Das Gericht ordnet die Ladung des Zeugen an, wenn es dies zur weiteren Klärung der Beweisfrage für notwendig erachtet.
 
@@ -8342,7 +8380,7 @@ Das Prozessgericht kann den mit der Beweisaufnahme betrauten Richter zur Ernennu
 
 (2) Versäumt ein zur Erstattung des Gutachtens verpflichteter Sachverständiger die Frist, so soll gegen ihn ein Ordnungsgeld festgesetzt werden. Das Ordnungsgeld muss vorher unter Setzung einer Nachfrist angedroht werden. Im Falle wiederholter Fristversäumnis kann das Ordnungsgeld in der gleichen Weise noch einmal festgesetzt werden. Das einzelne Ordnungsgeld darf 3 000 Euro nicht übersteigen. § 409 Abs. 2 gilt entsprechend.
 
-(3) Das Gericht kann das Erscheinen des Sachverständigen anordnen, damit er das schriftliche Gutachten erläutere. Das Gericht kann auch eine schriftliche Erläuterung oder Ergänzung des Gutachtens anordnen.
+(3) Das Gericht kann das Erscheinen des Sachverständigen zur Erläuterung des schriftlichen Gutachtens, eine schriftliche Erläuterung oder eine Ergänzung des Gutachtens anordnen. Das Erscheinen kann auch als Teilnahme per Bild- und Tonübertragung nach § 128a gestattet oder angeordnet werden.
 
 (4) Die Parteien haben dem Gericht innerhalb eines angemessenen Zeitraums ihre Einwendungen gegen das Gutachten, die Begutachtung betreffende Anträge und Ergänzungsfragen zu dem schriftlichen Gutachten mitzuteilen. Das Gericht kann ihnen hierfür eine Frist setzen; § 296 Abs. 1, 4 gilt entsprechend.
 
@@ -8594,7 +8632,7 @@ Der Eid muss von dem Schwurpflichtigen in Person geleistet werden.
 
 # § 479 – Eidesleistung vor beauftragtem oder ersuchtem Richter
 
-(1) Das Prozessgericht kann anordnen, dass der Eid vor einem seiner Mitglieder oder vor einem anderen Gericht geleistet werde, wenn der Schwurpflichtige am Erscheinen vor dem Prozessgericht verhindert ist oder sich in großer Entfernung von dessen Sitz aufhält und die Leistung des Eides nach § 128a Abs. 2 nicht stattfindet.
+(1) Das Prozessgericht kann anordnen, dass der Eid vor einem seiner Mitglieder oder vor einem anderen Gericht geleistet werde, wenn der Schwurpflichtige am Erscheinen vor dem Prozessgericht verhindert ist oder sich in großer Entfernung von dessen Sitz aufhält und die Leistung des Eides nach § 284 Absatz 2 und 3 nicht stattfindet.
 
 (2) Der Bundespräsident leistet den Eid in seiner Wohnung vor einem Mitglied des Prozessgerichts oder vor einem anderen Gericht.
 
@@ -8699,7 +8737,7 @@ Der Antrag muss enthalten:
 
 (2) Das Protokoll über die Beweisaufnahme ist bei dem Gericht, das sie angeordnet hat, aufzubewahren.
 
-(3) Das Gericht kann die Parteien zur mündlichen Erörterung laden, wenn eine Einigung zu erwarten ist; ein Vergleich ist zu gerichtlichem Protokoll zu nehmen.
+(3) Das Gericht kann die Parteien zur mündlichen Erörterung laden, wenn eine Einigung zu erwarten ist; ein Vergleich ist zu gerichtlichem Protokoll zu nehmen. Für den Erörterungstermin gilt § 128a entsprechend.
 
 # § 493 – Benutzung im Prozess
 
@@ -10339,11 +10377,11 @@ Jeder Person, die bei dem Vollstreckungsverfahren beteiligt ist, muss auf Begehr
 
 3. die Namen der Personen, mit denen verhandelt ist;
 
-4. die Unterschrift dieser Personen und den Vermerk, dass die Unterzeichnung nach Vorlesung oder Vorlegung zur Durchsicht und nach Genehmigung erfolgt sei;
+4. den Vermerk, dass diese Personen das Protokoll nach Vorlesung oder nach Vorlegung zur Durchsicht genehmigt haben;
 
 5. die Unterschrift des Gerichtsvollziehers.
 
-(3) Hat einem der unter Nummer 4 bezeichneten Erfordernisse nicht genügt werden können, so ist der Grund anzugeben.
+(3) Hat einem der unter Absatz 2 Nummer 4 bezeichneten Erfordernisse nicht genügt werden können, so ist der Grund anzugeben.
 
 # § 763 – Aufforderungen und Mitteilungen
 
@@ -10769,9 +10807,9 @@ Die Maßnahmen sind in dem Vollstreckungsauftrag zu bezeichnen, die Maßnahme na
 
 (2) Zur Auskunftserteilung hat der Schuldner alle ihm gehörenden Vermögensgegenstände anzugeben. Bei Forderungen sind Grund und Beweismittel zu bezeichnen. Ferner sind anzugeben:
 
-1. die entgeltlichen Veräußerungen des Schuldners an eine nahestehende Person (§ 138 der Insolvenzordnung), die dieser in den letzten zwei Jahren vor dem Termin nach § 802f Abs. 1 und bis zur Abgabe der Vermögensauskunft vorgenommen hat;
+1. die entgeltlichen Veräußerungen des Schuldners an eine nahestehende Person (§ 138 der Insolvenzordnung), die dieser in den letzten zwei Jahren vor dem Termin nach § 802f Absatz 2 und bis zur Abgabe der Vermögensauskunft vorgenommen hat;
 
-2. die unentgeltlichen Leistungen des Schuldners, die dieser in den letzten vier Jahren vor dem Termin nach § 802f Abs. 1 und bis zur Abgabe der Vermögensauskunft vorgenommen hat, sofern sie sich nicht auf gebräuchliche Gelegenheitsgeschenke geringen Wertes richteten.
+2. die unentgeltlichen Leistungen des Schuldners, die dieser in den letzten vier Jahren vor dem Termin nach § 802f Absatz 2 und bis zur Abgabe der Vermögensauskunft vorgenommen hat, sofern sie sich nicht auf gebräuchliche Gelegenheitsgeschenke geringen Wertes richteten.
 
 Sachen, die nach § 811 Absatz 1 Nummer 1 Buchstabe a und Nummer 2 der Pfändung offensichtlich nicht unterworfen sind, brauchen nicht angegeben zu werden, es sei denn, dass eine Austauschpfändung in Betracht kommt.
 
@@ -10789,19 +10827,59 @@ Sachen, die nach § 811 Absatz 1 Nummer 1 Buchstabe a und Nummer 2 der Pfändung
 
 (2) Ist der angegangene Gerichtsvollzieher nicht zuständig, so leitet er die Sache auf Antrag des Gläubigers an den zuständigen Gerichtsvollzieher weiter.
 
-# § 802f – Verfahren zur Abnahme der Vermögensauskunft
+# § 802f – Abnahme der Vermögensauskunft
 
-(1) Zur Abnahme der Vermögensauskunft setzt der Gerichtsvollzieher dem Schuldner für die Begleichung der Forderung eine Frist von zwei Wochen. Zugleich bestimmt er für den Fall, dass die Forderung nach Fristablauf nicht vollständig beglichen ist, einen Termin zur Abgabe der Vermögensauskunft alsbald nach Fristablauf und lädt den Schuldner zu diesem Termin in seine Geschäftsräume. Der Schuldner hat die zur Abgabe der Vermögensauskunft erforderlichen Unterlagen im Termin beizubringen. Der Fristsetzung nach Satz 1 bedarf es nicht, wenn der Gerichtsvollzieher den Schuldner bereits zuvor zur Zahlung aufgefordert hat und seit dieser Aufforderung zwei Wochen verstrichen sind, ohne dass die Aufforderung Erfolg hatte.
+(1) Die Abnahme der Vermögensauskunft ist nur zulässig, wenn
 
-(2) Abweichend von Absatz 1 kann der Gerichtsvollzieher bestimmen, dass die Abgabe der Vermögensauskunft in der Wohnung des Schuldners stattfindet. Der Schuldner kann dieser Bestimmung binnen einer Woche gegenüber dem Gerichtsvollzieher widersprechen. Andernfalls gilt der Termin als pflichtwidrig versäumt, wenn der Schuldner in diesem Termin aus Gründen, die er zu vertreten hat, die Vermögensauskunft nicht abgibt.
+1. der Gerichtsvollzieher zuvor den Schuldner zur Zahlung aufgefordert hat,
 
-(3) Mit der Terminsladung ist der Schuldner über die nach § 802c Abs. 2 erforderlichen Angaben zu belehren. Der Schuldner ist über seine Rechte und Pflichten nach den Absätzen 1 und 2, über die Folgen einer unentschuldigten Terminssäumnis oder einer Verletzung seiner Auskunftspflichten sowie über die Möglichkeit der Einholung von Auskünften Dritter nach § 802l und der Eintragung in das Schuldnerverzeichnis bei Abgabe der Vermögensauskunft nach § 882c zu belehren.
+2. seit der Zahlungsaufforderung nach Nummer 1 mindestens zwei Wochen vergangen sind und
 
-(4) Zahlungsaufforderungen, Ladungen, Bestimmungen und Belehrungen nach den Absätzen 1 bis 3 sind dem Schuldner zuzustellen, auch wenn dieser einen Prozessbevollmächtigten bestellt hat; einer Mitteilung an den Prozessbevollmächtigten bedarf es nicht. Dem Gläubiger ist die Terminsbestimmung nach Maßgabe des § 357 Abs. 2 mitzuteilen.
+3. die Forderung nicht vollständig beglichen worden ist.
 
-(5) Der Gerichtsvollzieher errichtet in einem elektronischen Dokument eine Aufstellung mit den nach § 802c Absatz 1 und 2 erforderlichen Angaben (Vermögensverzeichnis). Diese Angaben sind dem Schuldner vor Abgabe der Versicherung nach § 802c Abs. 3 vorzulesen oder zur Durchsicht auf einem Bildschirm wiederzugeben. Dem Schuldner ist auf Verlangen ein Ausdruck zu erteilen.
+(2) Der Gerichtsvollzieher bestimmt einen Termin zur Abnahme der Vermögensauskunft und lädt den Schuldner zu diesem Termin. Der Termin findet alsbald nach Ablauf der Frist nach Absatz 1 Nummer 2 statt. Die Ladung des Schuldners zu dem Termin darf frühestens mit der Zahlungsaufforderung nach Absatz 1 Nummer 1 erfolgen. Der Gerichtsvollzieher bestimmt, ob der Termin
 
-(6) Der Gerichtsvollzieher hinterlegt das Vermögensverzeichnis bei dem zentralen Vollstreckungsgericht nach § 802k Abs. 1 und leitet dem Gläubiger unverzüglich einen Ausdruck zu. Der Ausdruck muss den Vermerk enthalten, dass er mit dem Inhalt des Vermögensverzeichnisses übereinstimmt; § 802d Abs. 1 Satz 3 und Abs. 2 gilt entsprechend.
+1. in seinen Geschäftsräumen,
+
+2. in der Wohnung des Schuldners,
+
+3. an einem nicht in den Nummern 1 und 2 genannten geeigneten Ort oder
+
+4. per Bild- und Tonübertragung
+
+stattfindet.
+
+(3) Bei einem Termin per Bild- und Tonübertragung nach Absatz 2 Satz 4 Nummer 4 wird die Übertragung nicht aufgezeichnet. Der Gerichtsvollzieher weist zu Beginn des Termins alle Teilnehmer auf das Aufzeichnungsverbot hin.
+
+(4) Bestimmt der Gerichtsvollzieher, dass der Termin nach Absatz 2 Satz 4 Nummer 2, 3 oder 4 stattfindet, kann der Schuldner dieser Bestimmung innerhalb einer Woche gegenüber dem Gerichtsvollzieher widersprechen. Der Schuldner hat die zur Abnahme der Vermögensauskunft erforderlichen Unterlagen in dem Termin beizubringen. Wird die Vermögensauskunft in dem Termin nicht abgegeben, so ist dies nur dann nicht pflichtwidrig, wenn
+
+1. der Schuldner nachweist, dass er die Nichtabgabe der Vermögensauskunft in diesem Termin nicht zu vertreten hat,
+
+2. der Schuldner einer Bestimmung des Termins nach Absatz 2 Satz 4 Nummer 2 bis 4 innerhalb der Frist des Satzes 1 widersprochen hat oder
+
+3. der Schuldner im Fall einer Bestimmung des Termins nach Absatz 2 Satz 4 Nummer 4 darlegt, dass die Nichtabgabe der Vermögensauskunft auf technischen Problemen beruht hat.
+
+(5) Mit der Terminsladung ist der Schuldner über Folgendes zu belehren:
+
+1. die nach § 802c Absatz 1 und 2 erforderlichen Angaben,
+
+2. im Fall der Terminsbestimmung nach Absatz 2 Satz 4 Nummer 2 bis 4 sein Recht, der Terminsbestimmung nach Absatz 4 Satz 1 zu widersprechen,
+
+3. im Fall der Terminsbestimmung nach Absatz 2 Satz 4 Nummer 4 das Aufzeichnungsverbot des Absatzes 3 Satz 1,
+
+4. die Pflicht nach Absatz 4 Satz 2, die erforderlichen Unterlagen beizubringen,
+
+5. die Folgen einer pflichtwidrigen Nichtabgabe der Vermögensauskunft,
+
+6. die Möglichkeit der Einholung von Auskünften Dritter nach § 802l und
+
+7. die Eintragung in das Schuldnerverzeichnis nach § 882c bei Abgabe der Vermögensauskunft.
+
+(6) Zahlungsaufforderungen, Ladungen, Bestimmungen und Belehrungen nach den Absätzen 1 bis 5 sind dem Schuldner zuzustellen, auch wenn dieser einen Prozessbevollmächtigten bestellt hat; einer Mitteilung an den Prozessbevollmächtigten bedarf es nicht. Dem Gläubiger ist die Terminsbestimmung nach Maßgabe des § 357 Absatz 2 mitzuteilen sowie im Fall der Terminsbestimmung nach Absatz 2 Satz 4 Nummer 4 ein Hinweis auf das Aufzeichnungsverbot zu geben.
+
+(7) Der Gerichtsvollzieher errichtet in einem elektronischen Dokument eine Aufstellung mit den nach § 802c Absatz 1 und 2 erforderlichen Angaben (Vermögensverzeichnis). Diese Angaben sind dem Schuldner vor Abgabe der Versicherung nach § 802c Absatz 3 vorzulesen oder zur Durchsicht auf einem Bildschirm anzuzeigen. Dem Schuldner ist auf Verlangen ein Ausdruck zu erteilen; § 802d Absatz 2 gilt entsprechend.
+
+(8) Der Gerichtsvollzieher hinterlegt das Vermögensverzeichnis bei dem zentralen Vollstreckungsgericht nach § 802k Absatz 1. Er leitet dem Gläubiger unverzüglich einen Ausdruck zu; § 802d Absatz 2 gilt entsprechend. Der Ausdruck und das elektronische Dokument müssen den Vermerk enthalten, dass sie mit dem Inhalt des Vermögensverzeichnisses übereinstimmen. § 802d Absatz 1 Satz 3 gilt entsprechend.
 
 # § 802g – Erzwingungshaft
 
@@ -10817,9 +10895,9 @@ Sachen, die nach § 811 Absatz 1 Nummer 1 Buchstabe a und Nummer 2 der Pfändung
 
 # § 802i – Vermögensauskunft des verhafteten Schuldners
 
-(1) Der verhaftete Schuldner kann zu jeder Zeit bei dem Gerichtsvollzieher des Amtsgerichts des Haftortes verlangen, ihm die Vermögensauskunft abzunehmen. Dem Verlangen ist unverzüglich stattzugeben; § 802f Abs. 5 gilt entsprechend. Dem Gläubiger wird die Teilnahme ermöglicht, wenn er dies beantragt hat und seine Teilnahme nicht zu einer Verzögerung der Abnahme führt.
+(1) Der verhaftete Schuldner kann zu jeder Zeit bei dem Gerichtsvollzieher des Amtsgerichts des Haftortes verlangen, ihm die Vermögensauskunft abzunehmen. Dem Verlangen ist unverzüglich stattzugeben; § 802f Absatz 7 gilt entsprechend. Dem Gläubiger wird die Teilnahme ermöglicht, wenn er dies beantragt hat und seine Teilnahme nicht zu einer Verzögerung der Abnahme führt.
 
-(2) Nach Abgabe der Vermögensauskunft wird der Schuldner aus der Haft entlassen. § 802f Abs. 5 und 6 gilt entsprechend.
+(2) Nach Abgabe der Vermögensauskunft wird der Schuldner aus der Haft entlassen. § 802f Absatz 7 und 8 gilt entsprechend.
 
 (3) Kann der Schuldner vollständige Angaben nicht machen, weil er die erforderlichen Unterlagen nicht bei sich hat, so kann der Gerichtsvollzieher einen neuen Termin bestimmen und die Vollziehung des Haftbefehls bis zu diesem Termin aussetzen. § 802f gilt entsprechend; der Setzung einer Zahlungsfrist bedarf es nicht.
 
@@ -10833,7 +10911,7 @@ Sachen, die nach § 811 Absatz 1 Nummer 1 Buchstabe a und Nummer 2 der Pfändung
 
 # § 802k – Zentrale Verwaltung der Vermögensverzeichnisse
 
-(1) Nach § 802f Abs. 6 dieses Gesetzes oder nach § 284 Abs. 7 Satz 4 der Abgabenordnung zu hinterlegende Vermögensverzeichnisse werden landesweit von einem zentralen Vollstreckungsgericht in elektronischer Form verwaltet. Die Vermögensverzeichnisse können über eine zentrale und länderübergreifende Abfrage im Internet eingesehen und abgerufen werden. Gleiches gilt für Vermögensverzeichnisse, die auf Grund einer § 284 Abs. 1 bis 7 der Abgabenordnung gleichwertigen bundesgesetzlichen oder landesgesetzlichen Regelung errichtet wurden, soweit diese Regelung die Hinterlegung anordnet. Ein Vermögensverzeichnis nach Satz 1 oder Satz 2 ist nach Ablauf von zwei Jahren seit Abgabe der Auskunft oder bei Eingang eines neuen Vermögensverzeichnisses zu löschen.
+(1) Nach § 802f Absatz 8 dieses Gesetzes oder nach § 284 Abs. 7 Satz 4 der Abgabenordnung zu hinterlegende Vermögensverzeichnisse werden landesweit von einem zentralen Vollstreckungsgericht in elektronischer Form verwaltet. Die Vermögensverzeichnisse können über eine zentrale und länderübergreifende Abfrage im Internet eingesehen und abgerufen werden. Gleiches gilt für Vermögensverzeichnisse, die auf Grund einer § 284 Abs. 1 bis 7 der Abgabenordnung gleichwertigen bundesgesetzlichen oder landesgesetzlichen Regelung errichtet wurden, soweit diese Regelung die Hinterlegung anordnet. Ein Vermögensverzeichnis nach Satz 1 oder Satz 2 ist nach Ablauf von zwei Jahren seit Abgabe der Auskunft oder bei Eingang eines neuen Vermögensverzeichnisses zu löschen.
 
 (2) Die Gerichtsvollzieher können die von den zentralen Vollstreckungsgerichten nach Absatz 1 verwalteten Vermögensverzeichnisse zu Vollstreckungszwecken abrufen. Den Gerichtsvollziehern stehen Vollstreckungsbehörden gleich, die
 
@@ -10847,7 +10925,7 @@ Zur Einsicht befugt sind ferner Vollstreckungsgerichte, Insolvenzgerichte und Re
 
 (3) Die Landesregierungen bestimmen durch Rechtsverordnung, welches Gericht die Aufgaben des zentralen Vollstreckungsgerichts nach Absatz 1 wahrzunehmen hat. Sie können diese Befugnis auf die Landesjustizverwaltungen übertragen. Das zentrale Vollstreckungsgericht nach Absatz 1 kann andere Stellen mit der Datenverarbeitung beauftragen; die datenschutzrechtlichen Vorschriften über die Verarbeitung personenbezogener Daten im Auftrag sind zu beachten.
 
-(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Inhalts, der Form, Aufnahme, Übermittlung, Verwaltung und Löschung der Vermögensverzeichnisse nach § 802f Abs. 5 dieses Gesetzes und nach § 284 Abs. 7 der Abgabenordnung oder gleichwertigen Regelungen im Sinne von Absatz 1 Satz 2 sowie der Einsichtnahme, insbesondere durch ein automatisiertes Abrufverfahren, zu regeln. Die Rechtsverordnung hat geeignete Regelungen zur Sicherung des Datenschutzes und der Datensicherheit vorzusehen. Insbesondere ist sicherzustellen, dass die Vermögensverzeichnisse
+(4) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Inhalts, der Form, Aufnahme, Übermittlung, Verwaltung und Löschung der Vermögensverzeichnisse nach § 802f Absatz 7 dieses Gesetzes und nach § 284 Abs. 7 der Abgabenordnung oder gleichwertigen Regelungen im Sinne von Absatz 1 Satz 2 sowie der Einsichtnahme, insbesondere durch ein automatisiertes Abrufverfahren, zu regeln. Die Rechtsverordnung hat geeignete Regelungen zur Sicherung des Datenschutzes und der Datensicherheit vorzusehen. Insbesondere ist sicherzustellen, dass die Vermögensverzeichnisse
 
 1. bei der Übermittlung an das zentrale Vollstreckungsgericht nach Absatz 1 sowie bei der Weitergabe an die anderen Stellen nach Absatz 3 Satz 3 gegen unbefugte Kenntnisnahme geschützt sind,
 
@@ -10937,7 +11015,7 @@ Wird ein Gegenstand auf Grund der Pfändung veräußert, so steht dem Erwerber w
 
 2. ergibt der Pfändungsversuch, dass eine Pfändung voraussichtlich nicht zu einer vollständigen Befriedigung des Gläubigers führen wird,
 
-so kann der Gerichtsvollzieher dem Schuldner die Vermögensauskunft auf Antrag des Gläubigers abweichend von § 802f sofort abnehmen. § 802f Abs. 5 und 6 findet Anwendung.
+so kann der Gerichtsvollzieher dem Schuldner die Vermögensauskunft auf Antrag des Gläubigers abweichend von § 802f sofort abnehmen. § 802f Absatz 7 und 8 findet Anwendung.
 
 (2) Der Schuldner kann einer sofortigen Abnahme widersprechen. In diesem Fall verfährt der Gerichtsvollzieher nach § 802f; der Setzung einer Zahlungsfrist bedarf es nicht.
 
@@ -11267,7 +11345,7 @@ Vor der Pfändung ist der Schuldner über das Pfändungsgesuch nicht zu hören.
 
 (2) Der Überweisungsbeschluss gilt, auch wenn er mit Unrecht erlassen ist, zugunsten des Drittschuldners dem Schuldner gegenüber so lange als rechtsbeständig, bis er aufgehoben wird und die Aufhebung zur Kenntnis des Drittschuldners gelangt.
 
-(3) Der Schuldner ist verpflichtet, dem Gläubiger die zur Geltendmachung der Forderung nötige Auskunft zu erteilen und ihm die über die Forderung vorhandenen Urkunden herauszugeben. Erteilt der Schuldner die Auskunft nicht, so ist er auf Antrag des Gläubigers verpflichtet, sie zu Protokoll zu geben und seine Angaben an Eides statt zu versichern. Der gemäß § 802e zuständige Gerichtsvollzieher lädt den Schuldner zur Abgabe der Auskunft und eidesstattlichen Versicherung. Die Vorschriften des § 802f Abs. 4 und der §§ 802g bis 802i, 802j Abs. 1 und 2 gelten entsprechend. Die Herausgabe der Urkunden kann von dem Gläubiger im Wege der Zwangsvollstreckung erwirkt werden.
+(3) Der Schuldner ist verpflichtet, dem Gläubiger die zur Geltendmachung der Forderung nötige Auskunft zu erteilen und ihm die über die Forderung vorhandenen Urkunden herauszugeben. Erteilt der Schuldner die Auskunft nicht, so ist er auf Antrag des Gläubigers verpflichtet, sie zu Protokoll zu geben und seine Angaben an Eides statt zu versichern. Der gemäß § 802e zuständige Gerichtsvollzieher lädt den Schuldner zur Abgabe der Auskunft und eidesstattlichen Versicherung. Die Vorschriften des § 802f Absatz 6 und der §§ 802g bis 802i, 802j Abs. 1 und 2 gelten entsprechend. Die Herausgabe der Urkunden kann von dem Gläubiger im Wege der Zwangsvollstreckung erwirkt werden.
 
 # § 837 – Überweisung einer Hypothekenforderung
 
@@ -11990,7 +12068,7 @@ Die Daten der Nutzer dürfen nur für die in Satz 3 Nr. 4 genannten Zwecke verar
 
 (1) Hat der Schuldner eine bewegliche Sache oder eine Menge bestimmter beweglicher Sachen herauszugeben, so sind sie von dem Gerichtsvollzieher ihm wegzunehmen und dem Gläubiger zu übergeben.
 
-(2) Wird die herauszugebende Sache nicht vorgefunden, so ist der Schuldner verpflichtet, auf Antrag des Gläubigers zu Protokoll an Eides statt zu versichern, dass er die Sache nicht besitze, auch nicht wisse, wo die Sache sich befinde. Der gemäß § 802e zuständige Gerichtsvollzieher lädt den Schuldner zur Abgabe der eidesstattlichen Versicherung. Die Vorschriften der §§ 478 bis 480, 483, 802f Abs. 4, §§ 802g bis 802i und 802j Abs. 1 und 2 gelten entsprechend.
+(2) Wird die herauszugebende Sache nicht vorgefunden, so ist der Schuldner verpflichtet, auf Antrag des Gläubigers zu Protokoll an Eides statt zu versichern, dass er die Sache nicht besitze, auch nicht wisse, wo die Sache sich befinde. Der gemäß § 802e zuständige Gerichtsvollzieher lädt den Schuldner zur Abgabe der eidesstattlichen Versicherung. Die Vorschriften der §§ 478 bis 480, 483, § 802f Absatz 6, §§ 802g bis 802i und 802j Abs. 1 und 2 gelten entsprechend.
 
 (3) Das Gericht kann eine der Sachlage entsprechende Änderung der eidesstattlichen Versicherung beschließen.
 
@@ -13162,7 +13240,7 @@ Die Frist zur Erklärung der Annahmeverweigerung nach Artikel 6 Abs. 3 der Veror
 
 # § 1100 – Mündliche Verhandlung
 
-(1) Das Gericht kann den Parteien sowie ihren Bevollmächtigten und Beiständen gestatten, sich während einer Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. § 128a Abs. 1 Satz 2 und Abs. 3 Satz 1 bleibt unberührt.
+(1) Im Fall einer Videoverhandlung nach Artikel 8 der Verordnung (EG) Nr. 861/2007 ist nur § 128a Absatz 6 anwendbar.
 
 (2) Die Bestimmung eines frühen ersten Termins zur mündlichen Verhandlung (§ 275) ist ausgeschlossen.
 
@@ -13170,7 +13248,7 @@ Die Frist zur Erklärung der Annahmeverweigerung nach Artikel 6 Abs. 3 der Veror
 
 (1) Das Gericht kann die Beweise in der ihm geeignet erscheinenden Art aufnehmen, soweit Artikel 9 Abs. 2 bis 4 der Verordnung (EG) Nr. 861/2007 nichts anderes bestimmt.
 
-(2) Das Gericht kann einem Zeugen, Sachverständigen oder einer Partei gestatten, sich während einer Vernehmung an einem anderen Ort aufzuhalten. § 128a Abs. 2 Satz 2, 3 und Abs. 3 Satz 1 bleibt unberührt.
+(2) Im Fall einer Beweisaufnahme per Bild- und Tonübertragung nach Artikel 9 Absatz 1 Satz 2 der Verordnung (EG) Nr. 861/2007 ist nur § 284 Absatz 2 Satz 3 in Verbindung mit § 128a Absatz 6 und § 284 Absatz 3 anwendbar.
 
 # § 1102 – Urteil
 

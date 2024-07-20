@@ -137,7 +137,7 @@ Im Termin können die Beteiligten mit Beiständen erscheinen. Beistand kann sein
 
 (4) Einem Rechtsanwalt, einem Notar oder einer beteiligten Behörde kann das Gericht die Akten in die Amts- oder Geschäftsräume überlassen. Ein Recht auf Überlassung von Beweisstücken in die Amts- oder Geschäftsräume besteht nicht. Die Entscheidung nach Satz 1 ist nicht anfechtbar.
 
-(5) Werden die Gerichtsakten elektronisch geführt, gilt § 299 Abs. 3 der Zivilprozessordnung entsprechend.
+(5) Werden die Gerichtsakten elektronisch geführt, gilt § 299 Absatz 3 und 4 der Zivilprozessordnung entsprechend.
 
 (6) Die Entwürfe zu Beschlüssen und Verfügungen, die zu ihrer Vorbereitung gelieferten Arbeiten sowie die Dokumente, die Abstimmungen betreffen, werden weder vorgelegt noch abschriftlich mitgeteilt.
 
@@ -259,7 +259,9 @@ Das Gericht kann Verfahren verbinden oder trennen, soweit es dies für sachdienl
 
 (2) Anträge und Erklärungen, deren Abgabe vor dem Urkundsbeamten der Geschäftsstelle zulässig ist, können vor der Geschäftsstelle eines jeden Amtsgerichts zur Niederschrift abgegeben werden.
 
-(3) Die Geschäftsstelle hat die Niederschrift unverzüglich an das Gericht zu übermitteln, an das der Antrag oder die Erklärung gerichtet ist. Die Wirkung einer Verfahrenshandlung tritt nicht ein, bevor die Niederschrift dort eingeht.
+(3) Der Urkundsbeamte der Geschäftsstelle kann Anträge und Erklärungen nach Absatz 2 auch per Bild- und Tonübertragung aufnehmen. In diesem Fall kann sich der Urkundsbeamte der Geschäftsstelle bei der Aufnahme der Anträge und Erklärungen an einem anderen Ort als der Geschäftsstelle aufhalten. Die Bild- und Tonübertragung wird nicht aufgezeichnet.
+
+(4) Die Geschäftsstelle hat die Niederschrift unverzüglich an das Gericht zu übermitteln, an das der Antrag oder die Erklärung gerichtet ist. Die Wirkung einer Verfahrenshandlung tritt nicht ein, bevor die Niederschrift dort eingeht.
 
 # § 26 – Ermittlung von Amts wegen
 
@@ -299,6 +301,8 @@ Das Gericht hat von Amts wegen die zur Feststellung der entscheidungserheblichen
 
 (4) Den Beteiligten ist Gelegenheit zu geben, zum Ergebnis einer förmlichen Beweisaufnahme Stellung zu nehmen, soweit dies zur Aufklärung des Sachverhalts oder zur Gewährung rechtlichen Gehörs erforderlich ist.
 
+(5) In geeigneten Fällen und soweit ausreichende Kapazitäten zur Verfügung stehen, kann das Gericht auf Antrag oder von Amts wegen die Vernehmung eines Zeugen oder Sachverständigen per Bild- und Tonübertragung gestatten. Das Antragsrecht steht den Beteiligten, Zeugen und Sachverständigen zu. § 128a Absatz 1, 5 und 6 der Zivilprozessordnung gilt entsprechend. Entscheidungen über die Gestattung oder Ablehnung der Vernehmung per Bild- und Tonübertragung sind unanfechtbar.
+
 # § 31 – Glaubhaftmachung
 
 (1) Wer eine tatsächliche Behauptung glaubhaft zu machen hat, kann sich aller Beweismittel bedienen, auch zur Versicherung an Eides statt zugelassen werden.
@@ -311,11 +315,11 @@ Das Gericht hat von Amts wegen die zur Feststellung der entscheidungserheblichen
 
 (2) Zwischen der Ladung und dem Termin soll eine angemessene Frist liegen.
 
-(3) In geeigneten Fällen soll das Gericht die Sache mit den Beteiligten im Wege der Bild- und Tonübertragung in entsprechender Anwendung des § 128a der Zivilprozessordnung erörtern.
+(3) In geeigneten Fällen und soweit ausreichende Kapazitäten zur Verfügung stehen, soll das Gericht zur Erörterung der Sache auf Antrag eines Beteiligten oder von Amts wegen die Teilnahme per Bild- und Tonübertragung für einen Beteiligten, mehrere oder alle Beteiligte gestatten. § 128a Absatz 1, 5 und 6 der Zivilprozessordnung gilt entsprechend. Die Ablehnung eines Antrags auf Teilnahme per Bild- und Tonübertragung ist kurz zu begründen. Entscheidungen über die Gestattung oder Ablehnung der Erörterung per Bild- und Tonübertragung sind unanfechtbar.
 
 # § 33 – Persönliches Erscheinen der Beteiligten
 
-(1) Das Gericht kann das persönliche Erscheinen eines Beteiligten zu einem Termin anordnen und ihn anhören, wenn dies zur Aufklärung des Sachverhalts sachdienlich erscheint. Sind in einem Verfahren mehrere Beteiligte persönlich anzuhören, hat die Anhörung eines Beteiligten in Abwesenheit der anderen Beteiligten stattzufinden, falls dies zum Schutz des anzuhörenden Beteiligten oder aus anderen Gründen erforderlich ist.
+(1) Das Gericht kann das persönliche Erscheinen eines Beteiligten zu einem Termin anordnen und ihn anhören, wenn dies zur Aufklärung des Sachverhalts sachdienlich erscheint. Sind in einem Verfahren mehrere Beteiligte persönlich anzuhören, hat die Anhörung eines Beteiligten in Abwesenheit der anderen Beteiligten stattzufinden, falls dies zum Schutz des anzuhörenden Beteiligten oder aus anderen Gründen erforderlich ist. Als persönliches Erscheinen gilt auch die Teilnahme an einem Termin per Bild- und Tonübertragung nach § 32 Absatz 3.
 
 (2) Der verfahrensfähige Beteiligte ist selbst zu laden, auch wenn er einen Bevollmächtigten hat; dieser ist von der Ladung zu benachrichtigen. Das Gericht soll die Zustellung der Ladung anordnen, wenn das Erscheinen eines Beteiligten ungewiss ist.
 
@@ -334,6 +338,8 @@ Das Gericht hat von Amts wegen die zur Feststellung der entscheidungserheblichen
 (2) Die persönliche Anhörung eines Beteiligten kann unterbleiben, wenn hiervon erhebliche Nachteile für seine Gesundheit zu besorgen sind oder der Beteiligte offensichtlich nicht in der Lage ist, seinen Willen kundzutun.
 
 (3) Bleibt der Beteiligte im anberaumten Anhörungstermin unentschuldigt aus, kann das Verfahren ohne seine persönliche Anhörung beendet werden. Der Beteiligte ist auf die Folgen seines Ausbleibens hinzuweisen.
+
+(4) Im Anwendungsbereich des Absatzes 1 Nummer 1 kann das Gericht die persönliche Anhörung eines Beteiligten per Bild- und Tonübertragung gestatten. § 32 Absatz 3 gilt entsprechend.
 
 # § 35 – Zwangsmittel
 
@@ -623,7 +629,7 @@ Das Beschwerdegericht ist an die Zulassung gebunden.
 
 (1) Die Beschwerde ist bei dem Gericht einzulegen, dessen Beschluss angefochten wird. Anträge auf Bewilligung von Verfahrenskostenhilfe für eine beabsichtigte Beschwerde sind bei dem Gericht einzulegen, dessen Beschluss angefochten werden soll.
 
-(2) Die Beschwerde wird durch Einreichung einer Beschwerdeschrift oder zur Niederschrift der Geschäftsstelle eingelegt. Die Einlegung der Beschwerde zur Niederschrift der Geschäftsstelle ist in Ehesachen und in Familienstreitsachen ausgeschlossen. Die Beschwerde muss die Bezeichnung des angefochtenen Beschlusses sowie die Erklärung enthalten, dass Beschwerde gegen diesen Beschluss eingelegt wird. Sie ist von dem Beschwerdeführer oder seinem Bevollmächtigten zu unterzeichnen.
+(2) Die Beschwerde wird durch Einreichung einer von dem Beschwerdeführer oder seinem Bevollmächtigten unterzeichneten Beschwerdeschrift oder zur Niederschrift der Geschäftsstelle eingelegt. Die Einlegung der Beschwerde zur Niederschrift der Geschäftsstelle ist in Ehesachen und in Familienstreitsachen ausgeschlossen. Die Beschwerde muss die Bezeichnung des angefochtenen Beschlusses sowie die Erklärung enthalten, dass Beschwerde gegen diesen Beschluss eingelegt wird. § 25 Absatz 2 bis 4 gilt entsprechend.
 
 (3) Das Beschwerdegericht kann vor der Entscheidung eine einstweilige Anordnung erlassen; es kann insbesondere anordnen, dass die Vollziehung des angefochtenen Beschlusses auszusetzen ist.
 

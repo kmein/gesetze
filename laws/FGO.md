@@ -603,13 +603,13 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 # § 64
 
-(1) Die Klage ist bei dem Gericht schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle zu erheben.
+(1) Die Klage ist bei dem Gericht schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle zu erheben. § 129a Absatz 2 der Zivilprozessordnung gilt entsprechend.
 
 (2) Der Klage sollen Abschriften für die übrigen Beteiligten beigefügt werden; § 77 Abs. 2 gilt sinngemäß.
 
 # § 65
 
-(1) Die Klage muss den Kläger, den Beklagten, den Gegenstand des Klagebegehrens, bei Anfechtungsklagen auch den Verwaltungsakt und die Entscheidung über den außergerichtlichen Rechtsbehelf bezeichnen. Sie soll einen bestimmten Antrag enthalten. Die zur Begründung dienenden Tatsachen und Beweismittel sollen angegeben werden. Der Klage soll eine Abschrift des angefochtenen Verwaltungsakts und der Einspruchsentscheidung beigefügt werden.
+(1) Die Klage muss den Kläger, den Beklagten, den Gegenstand des Klagebegehrens, bei Anfechtungsklagen auch den Verwaltungsakt und die Entscheidung über den außergerichtlichen Rechtsbehelf bezeichnen. Sie soll einen bestimmten Antrag enthalten. Die zur Begründung dienenden Tatsachen und Beweismittel sollen angegeben werden. Der Klage soll eine Abschrift des angefochtenen Verwaltungsakts und der Einspruchsentscheidung beigefügt werden. § 253 Absatz 3 Nummer 4 der Zivilprozessordnung gilt entsprechend.
 
 (2) Entspricht die Klage diesen Anforderungen nicht, hat der Vorsitzende oder der nach § 21g des Gerichtsverfassungsgesetzes zuständige Berufsrichter (Berichterstatter) den Kläger zu der erforderlichen Ergänzung innerhalb einer bestimmten Frist aufzufordern. Er kann dem Kläger für die Ergänzung eine Frist mit ausschließender Wirkung setzen, wenn es an einem der in Absatz 1 Satz 1 genannten Erfordernisse fehlt. Für die Wiedereinsetzung in den vorigen Stand wegen Versäumung der Frist gilt § 56 entsprechend.
 
@@ -659,7 +659,7 @@ Für die sachliche und örtliche Zuständigkeit gelten die §§ 17 bis 17b des G
 
 # § 71
 
-(1) Die Klageschrift ist dem Beklagten von Amts wegen zuzustellen. Zugleich mit der Zustellung der Klage ist der Beklagte aufzufordern, sich schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle zu äußern. Hierfür kann eine Frist gesetzt werden.
+(1) Die Klageschrift ist dem Beklagten von Amts wegen zuzustellen. Zugleich mit der Zustellung der Klage ist der Beklagte aufzufordern, sich schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle zu äußern. Hierfür kann eine Frist gesetzt werden. § 277 Absatz 1 Satz 2 Nummer 2 der Zivilprozessordnung gilt entsprechend.
 
 (2) Die beteiligte Finanzbehörde hat die den Streitfall betreffenden Akten nach Empfang der Klageschrift an das Gericht zu übermitteln.
 
@@ -719,7 +719,7 @@ Den Beteiligten sind, soweit es noch nicht geschehen ist, die Unterlagen der Bes
 
 (1) Der Vorsitzende oder der Berichterstatter hat schon vor der mündlichen Verhandlung alle Anordnungen zu treffen, die notwendig sind, um den Rechtsstreit möglichst in einer mündlichen Verhandlung zu erledigen. Er kann insbesondere
 
-1. die Beteiligten zur Erörterung des Sach- und Streitstandes und zur gütlichen Beilegung des Rechtsstreits laden;
+1. die Beteiligten zur Erörterung des Sach- und Streitstandes und zur gütlichen Beilegung des Rechtsstreits laden; § 128a der Zivilprozessordnung gilt entsprechend;
 
 2. den Beteiligten die Ergänzung oder Erläuterung ihrer vorbereitenden Schriftsätze, die Vorlegung von Urkunden, die Übermittlung von elektronischen Dokumenten und die Vorlegung von anderen zur Niederlegung bei Gericht geeigneten Gegenständen aufgeben, insbesondere eine Frist zur Erklärung über bestimmte klärungsbedürftige Punkte setzen;
 
@@ -779,7 +779,7 @@ Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Sat
 
 # § 80
 
-(1) Das Gericht kann das persönliche Erscheinen eines Beteiligten anordnen. Für den Fall des Ausbleibens kann es Ordnungsgeld wie gegen einen im Vernehmungstermin nicht erschienenen Zeugen androhen. Bei schuldhaftem Ausbleiben setzt das Gericht durch Beschluss das angedrohte Ordnungsgeld fest. Androhung und Festsetzung des Ordnungsgelds können wiederholt werden.
+(1) Das Gericht kann das persönliche Erscheinen eines Beteiligten anordnen. § 141 Absatz 1 Satz 2 der Zivilprozessordnung gilt entsprechend. Für den Fall des Ausbleibens kann es Ordnungsgeld wie gegen einen im Vernehmungstermin nicht erschienenen Zeugen androhen. Bei schuldhaftem Ausbleiben setzt das Gericht durch Beschluss das angedrohte Ordnungsgeld fest. Androhung und Festsetzung des Ordnungsgelds können wiederholt werden.
 
 (2) Ist Beteiligter eine juristische Person oder eine Vereinigung, so ist das Ordnungsgeld dem nach Gesetz oder Satzung Vertretungsberechtigten anzudrohen und gegen ihn festzusetzen.
 
@@ -793,7 +793,7 @@ Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Sat
 
 # § 82
 
-Soweit §§ 83 bis 89 nicht abweichende Vorschriften enthalten, sind auf die Beweisaufnahme §§ 358 bis 371, 372 bis 377, 380 bis 382, 386 bis 414 und 450 bis 494 der Zivilprozessordnung sinngemäß anzuwenden.
+Soweit §§ 83 bis 89 nicht abweichende Vorschriften enthalten, sind auf die Beweisaufnahme § 284 Absatz 2 und 3 sowie die §§ 358 bis 371, 372 bis 377, 380 bis 382, 386 bis 414 und 450 bis 494 der Zivilprozessordnung sinngemäß anzuwenden.
 
 # § 83
 
@@ -854,16 +854,6 @@ Für die Erzwingung einer gesetzlich vorgeschriebenen Vorlage von Urkunden und e
 (3) Das Gericht kann Sitzungen auch außerhalb des Gerichtssitzes abhalten, wenn dies zur sachdienlichen Erledigung notwendig ist.
 
 (4) § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden.
-
-# § 91a
-
-(1) Das Gericht kann den Beteiligten, ihren Bevollmächtigten und Beiständen auf Antrag oder von Amts wegen gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
-
-(2) Das Gericht kann auf Antrag gestatten, dass sich ein Zeuge, ein Sachverständiger oder ein Beteiligter während einer Vernehmung an einem anderen Ort aufhält. Die Vernehmung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen. Ist Beteiligten, Bevollmächtigten und Beiständen nach Absatz 1 Satz 1 gestattet worden, sich an einem anderen Ort aufzuhalten, so wird die Vernehmung auch an diesen Ort übertragen.
-
-(3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
-
-(4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§ 79 Absatz 1 Satz 2 Nummer 1).
 
 # § 92
 
@@ -941,7 +931,7 @@ Das Urteil kann nur von den Richtern und ehrenamtlichen Richtern gefällt werden
 
 # § 104
 
-(1) Das Urteil wird, wenn eine mündliche Verhandlung stattgefunden hat, in der Regel in dem Termin, in dem die mündliche Verhandlung geschlossen wird, verkündet, in besonderen Fällen in einem sofort anzuberaumenden Termin, der nicht über zwei Wochen hinaus angesetzt werden soll. Das Urteil wird durch Verlesung der Formel verkündet; es ist den Beteiligten zuzustellen.
+(1) Das Urteil wird, wenn eine mündliche Verhandlung stattgefunden hat, in der Regel in dem Termin, in dem die mündliche Verhandlung geschlossen wird, verkündet, in besonderen Fällen in einem sofort anzuberaumenden Termin, der nicht über zwei Wochen hinaus angesetzt werden soll. Das Urteil wird durch Verlesung der Formel verkündet; es ist den Beteiligten zuzustellen. Der Vorsitzende kann den Beteiligten, ihren Bevollmächtigten und Beiständen gestatten, an der Urteilsverkündung per Bild- und Tonübertragung teilzunehmen.
 
 (2) Statt der Verkündung ist die Zustellung des Urteils zulässig; dann ist das Urteil binnen zwei Wochen nach der mündlichen Verhandlung der Geschäftsstelle zu übermitteln.
 
@@ -1163,7 +1153,7 @@ Ist während des Revisionsverfahrens ein neuer oder geänderter Verwaltungsakt G
 
 (1) Gegen die Entscheidungen des Finanzgerichts, des Vorsitzenden oder des Berichterstatters, die nicht Urteile oder Gerichtsbescheide sind, steht den Beteiligten und den sonst von der Entscheidung Betroffenen die Beschwerde an den Bundesfinanzhof zu, soweit nicht in diesem Gesetz etwas anderes bestimmt ist.
 
-(2) Prozessleitende Verfügungen, Aufklärungsanordnungen, Beschlüsse über die Vertagung oder die Bestimmung einer Frist, Beweisbeschlüsse, Beschlüsse nach §§ 91a und 93a, Beschlüsse über die Ablehnung von Beweisanträgen, über Verbindung und Trennung von Verfahren und Ansprüchen und über die Ablehnung von Gerichtspersonen, Sachverständigen und Dolmetschern, Einstellungsbeschlüsse nach Klagerücknahme sowie Beschlüsse im Verfahren der Prozesskostenhilfe können nicht mit der Beschwerde angefochten werden.
+(2) Prozessleitende Verfügungen, Aufklärungsanordnungen, Beschlüsse über die Vertagung oder die Bestimmung einer Frist, Beweisbeschlüsse, Beschlüsse über die Ablehnung von Beweisanträgen, über Verbindung und Trennung von Verfahren und Ansprüchen und über die Ablehnung von Gerichtspersonen, Sachverständigen und Dolmetschern, Einstellungsbeschlüsse nach Klagerücknahme sowie Beschlüsse im Verfahren der Prozesskostenhilfe können nicht mit der Beschwerde angefochten werden.
 
 (3) Gegen die Entscheidung über die Aussetzung der Vollziehung nach § 69 Abs. 3 und 5 und über einstweilige Anordnungen nach § 114 Abs. 1 steht den Beteiligten die Beschwerde nur zu, wenn sie in der Entscheidung zugelassen worden ist. Für die Zulassung gilt § 115 Abs. 2 entsprechend.
 

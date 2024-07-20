@@ -7,7 +7,7 @@ Auf Grund des § 802k Absatz 4 der Zivilprozessordnung, der durch Artikel 3 Numm
 
 # § 1 – Anwendungsbereich
 
-Diese Verordnung gilt für Vermögensverzeichnisse, die nach § 802f Absatz 6 der Zivilprozessordnung oder nach § 284 Absatz 7 Satz 4 der Abgabenordnung zu hinterlegen sind. Sie gilt ferner für Vermögensverzeichnisse, die aufgrund einer bundes- oder landesgesetzlichen Regelung errichtet worden sind, die § 284 Absatz 1 bis 7 der Abgabenordnung gleichwertig ist, soweit diese die Hinterlegung anordnet.
+Diese Verordnung gilt für Vermögensverzeichnisse, die nach § 802f Absatz 8 der Zivilprozessordnung oder nach § 284 Absatz 7 Satz 4 der Abgabenordnung zu hinterlegen sind. Sie gilt ferner für Vermögensverzeichnisse, die aufgrund einer bundes- oder landesgesetzlichen Regelung errichtet worden sind, die § 284 Absatz 1 bis 7 der Abgabenordnung gleichwertig ist, soweit diese die Hinterlegung anordnet.
 
 # § 2 – Vermögensverzeichnisregister
 
@@ -19,7 +19,7 @@ Die Vermögensverzeichnisse werden in jedem Land von einem zentralen Vollstrecku
 
 (2) Im Vermögensverzeichnis wird auch dokumentiert,
 
-1. dass die Anforderungen des § 802f Absatz 5 Satz 2 und 3 der Zivilprozessordnung oder des § 284 Absatz 7 Satz 2 und 3 der Abgabenordnung oder der bundes- oder landesgesetzlichen Regelung, die § 284 Absatz 7 Satz 2 und 3 der Abgabenordnung gleichwertig ist, erfüllt sind,
+1. dass die Anforderungen des § 802f Absatz 7 Satz 2 und 3 der Zivilprozessordnung oder des § 284 Absatz 7 Satz 2 und 3 der Abgabenordnung oder der bundes- oder landesgesetzlichen Regelung, die § 284 Absatz 7 Satz 2 und 3 der Abgabenordnung gleichwertig ist, erfüllt sind,
 
 2. wann die Versicherung an Eides statt nach § 802c Absatz 3 der Zivilprozessordnung oder nach § 284 Absatz 3 der Abgabenordnung oder nach der bundes- oder landesgesetzlichen Regelung, die § 284 Absatz 3 der Abgabenordnung gleichwertig ist, erfolgt ist sowie
 
@@ -49,7 +49,7 @@ Werden zur Übermittlung der Daten öffentliche Telekommunikationsnetze genutzt,
 
 (1) Das zentrale Vollstreckungsgericht prüft, ob die elektronische Übermittlung der Vermögensverzeichnisse die Anforderungen des § 4 erfüllt.
 
-(2) Erfüllt die elektronische Übermittlung die Anforderungen des § 4, ist das Vermögensverzeichnis in das Vermögensverzeichnisregister einzutragen. Mit der Eintragung in das Vermögensverzeichnisregister ist das Vermögensverzeichnis hinterlegt im Sinne des § 802f Absatz 6 der Zivilprozessordnung oder des § 284 Absatz 7 Satz 4 der Abgabenordnung oder der bundes- oder landesgesetzlichen Regelung, die § 284 Absatz 7 Satz 4 der Abgabenordnung gleichwertig ist. Das zentrale Vollstreckungsgericht informiert den Einsender nach § 4 Absatz 1 Satz 1 unverzüglich über die Eintragung. Das vom Einsender errichtete elektronische Dokument nach § 3 ist drei Monate nach dem Eingang der Eintragungsinformation zu löschen.
+(2) Erfüllt die elektronische Übermittlung die Anforderungen des § 4, ist das Vermögensverzeichnis in das Vermögensverzeichnisregister einzutragen. Mit der Eintragung in das Vermögensverzeichnisregister ist das Vermögensverzeichnis hinterlegt im Sinne des § 802f Absatz 8 der Zivilprozessordnung oder des § 284 Absatz 7 Satz 4 der Abgabenordnung oder der bundes- oder landesgesetzlichen Regelung, die § 284 Absatz 7 Satz 4 der Abgabenordnung gleichwertig ist. Das zentrale Vollstreckungsgericht informiert den Einsender nach § 4 Absatz 1 Satz 1 unverzüglich über die Eintragung. Das vom Einsender errichtete elektronische Dokument nach § 3 ist drei Monate nach dem Eingang der Eintragungsinformation zu löschen.
 
 (3) Erfüllt die elektronische Übermittlung die Anforderungen des § 4 nicht, teilt das zentrale Vollstreckungsgericht dem Einsender dies unter Angabe der Gründe mit. Der Einsender veranlasst eine erneute elektronische Übermittlung des Vermögensverzeichnisses, die eine Eintragung der Daten nach Absatz 2 erlaubt. Mit Eingang der Information über die Eintragung des erneut elektronisch übermittelten Vermögensverzeichnisses ist das zuerst übermittelte elektronische Dokument beim Einsender zu löschen.
 

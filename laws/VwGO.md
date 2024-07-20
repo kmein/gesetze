@@ -1024,7 +1024,7 @@ Das Gericht soll eine Frist zur Behebung des Mangels setzen. Verstreicht die Fri
 
 # § 81
 
-(1) Die Klage ist bei dem Gericht schriftlich zu erheben. Bei dem Verwaltungsgericht kann sie auch zu Protokoll des Urkundsbeamten der Geschäftsstelle erhoben werden.
+(1) Die Klage ist bei dem Gericht schriftlich zu erheben. Bei dem Verwaltungsgericht kann sie auch zu Protokoll des Urkundsbeamten der Geschäftsstelle erhoben werden. § 129a Absatz 2 der Zivilprozessordnung gilt entsprechend.
 
 (2) Der Klage und allen Schriftsätzen sollen vorbehaltlich des § 55a Absatz 5 Satz 3 Abschriften für die übrigen Beteiligten beigefügt werden.
 
@@ -1206,7 +1206,7 @@ Das Gericht kann, wenn die Entscheidung des Rechtsstreits ganz oder zum Teil von
 
 # § 95
 
-(1) Das Gericht kann das persönliche Erscheinen eines Beteiligten anordnen. Für den Fall des Ausbleibens kann es Ordnungsgeld wie gegen einen im Vernehmungstermin nicht erschienenen Zeugen androhen. Bei schuldhaftem Ausbleiben setzt das Gericht durch Beschluß das angedrohte Ordnungsgeld fest. Androhung und Festsetzung des Ordnungsgelds können wiederholt werden.
+(1) Das Gericht kann das persönliche Erscheinen eines Beteiligten anordnen. Als persönliches Erscheinen gilt auch die nach § 102a Absatz 2 Satz 1 gestattete Teilnahme per Bild- und Tonübertragung. Für den Fall des Ausbleibens kann es Ordnungsgeld wie gegen einen im Vernehmungstermin nicht erschienenen Zeugen androhen. Bei schuldhaftem Ausbleiben setzt das Gericht durch Beschluß das angedrohte Ordnungsgeld fest. Androhung und Festsetzung des Ordnungsgelds können wiederholt werden.
 
 (2) Ist Beteiligter eine juristische Person oder eine Vereinigung, so ist das Ordnungsgeld dem nach Gesetz oder Satzung Vertretungsberechtigten anzudrohen und gegen ihn festzusetzen.
 
@@ -1262,13 +1262,17 @@ Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Bewei
 
 # § 102a
 
-(1) Das Gericht kann den Beteiligten, ihren Bevollmächtigten und Beiständen auf Antrag oder von Amts wegen gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
+(1) Die mündliche Verhandlung kann in geeigneten Fällen und soweit ausreichende Kapazitäten zur Verfügung stehen als Videoverhandlung stattfinden. Eine mündliche Verhandlung findet als Videoverhandlung statt, wenn an ihr mindestens ein Verfahrensbeteiligter per Bild- und Tonübertragung teilnimmt. Verfahrensbeteiligte nach dieser Vorschrift sind die Beteiligten, ihre Bevollmächtigten und Beistände.
 
-(2) Das Gericht kann auf Antrag gestatten, dass sich ein Zeuge, ein Sachverständiger oder ein Beteiligter während einer Vernehmung an einem anderen Ort aufhält. Die Vernehmung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen. Ist Beteiligten, Bevollmächtigten und Beiständen nach Absatz 1 Satz 1 gestattet worden, sich an einem anderen Ort aufzuhalten, so wird die Vernehmung auch an diesen Ort übertragen.
+(2) Das Gericht kann unter den Voraussetzungen des Absatzes 1 Satz 1 auf Antrag eines Verfahrensbeteiligten oder von Amts wegen die Teilnahme per Bild- und Tonübertragung für einen Verfahrensbeteiligten, mehrere oder alle Verfahrensbeteiligte gestatten. Die Ablehnung eines Antrags auf Teilnahme per Bild- und Tonübertragung ist kurz zu begründen.
 
-(3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
+(3) Das Gericht kann auf Antrag oder von Amts wegen die Vernehmung eines Zeugen, Sachverständigen oder Beteiligten per Bild- und Tonübertragung gestatten. Das Antragsrecht steht den Verfahrensbeteiligten, Zeugen und Sachverständigen zu. Absatz 1 gilt entsprechend.
 
-(4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§ 87 Absatz 1 Satz 2 Nummer 1 und § 87c Absatz 2 Satz 1).
+(4) Den Verfahrensbeteiligten und Dritten ist es untersagt, die Übertragung aufzuzeichnen. Hierauf sind sie zu Beginn der Verhandlung hinzuweisen. Das Gericht kann die Videoverhandlung oder die Bild- und Tonübertragung nach Absatz 3 für die Zwecke des § 160a der Zivilprozessordnung ganz oder teilweise aufzeichnen. Über Beginn und Ende der Aufzeichnung hat das Gericht die Verfahrensbeteiligten und im Falle von Absatz 3 auch die Zeugen und Sachverständigen zu informieren.
+
+(5) Entscheidungen nach dieser Vorschrift sind unanfechtbar.
+
+(6) Die Absätze 1 bis 5 gelten entsprechend für Erörterungstermine (§ 87 Absatz 1 Satz 2 Nummer 1 und § 87c Absatz 2 Satz 1).
 
 # § 103
 
@@ -1342,7 +1346,7 @@ Soweit die Verwaltungsbehörde ermächtigt ist, nach ihrem Ermessen zu handeln, 
 
 # § 116
 
-(1) Das Urteil wird, wenn eine mündliche Verhandlung stattgefunden hat, in der Regel in dem Termin, in dem die mündliche Verhandlung geschlossen wird, verkündet, in besonderen Fällen in einem sofort anzuberaumenden Termin, der nicht über zwei Wochen hinaus angesetzt werden soll. Das Urteil ist den Beteiligten zuzustellen.
+(1) Das Urteil wird, wenn eine mündliche Verhandlung stattgefunden hat, in der Regel in dem Termin, in dem die mündliche Verhandlung geschlossen wird, verkündet, in besonderen Fällen in einem sofort anzuberaumenden Termin, der nicht über zwei Wochen hinaus angesetzt werden soll. Das Urteil ist den Beteiligten zuzustellen. Der Vorsitzende kann den Beteiligten, ihren Bevollmächtigten und Beiständen gestatten, an der Urteilsverkündung per Bild- und Tonübertragung teilzunehmen.
 
 (2) Statt der Verkündung ist die Zustellung des Urteils zulässig; dann ist das Urteil binnen zwei Wochen nach der mündlichen Verhandlung der Geschäftsstelle zu übermitteln.
 

@@ -719,9 +719,9 @@ Vereinbarungen der Beteiligten über die Zuständigkeit haben keine rechtliche W
 
 # § 61
 
-(1) Für die Öffentlichkeit, Sitzungspolizei und Gerichtssprache gelten die §§ 169, 171b bis 191a des Gerichtsverfassungsgesetzes entsprechend.
+(1) Für die Öffentlichkeit, Sitzungspolizei und Gerichtssprache gelten die §§ 169, 171b bis 191a des Gerichtsverfassungsgesetzes entsprechend. Abweichend von Satz 1 ist § 185 Absatz 1a des Gerichtsverfassungsgesetzes mit der Maßgabe anzuwenden, dass das Gericht dem Dolmetscher die Teilnahme an der Verhandlung, Anhörung oder Vernehmung per Bild- und Tonübertragung gestatten kann.
 
-(2) Für die Beratung und Abstimmung gelten die §§ 192 bis 197 des Gerichtsverfassungsgesetzes entsprechend.
+(2) Für die Beratung und Abstimmung gelten die §§ 192 bis 197 des Gerichtsverfassungsgesetzes entsprechend. Abweichend von Satz 1 findet § 193 Absatz 1 des Gerichtsverfassungsgesetzes keine Anwendung für die erstmalige gemeinsame Beratung und Abstimmung mit den ehrenamtlichen Richterinnen und Richtern bei einer Entscheidung aufgrund mündlicher Verhandlung.
 
 # § 62
 
@@ -912,7 +912,7 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 # § 73a
 
-(1) Die Vorschriften der Zivilprozeßordnung über die Prozeßkostenhilfe mit Ausnahme des § 127 Absatz 2 Satz 2 der Zivilprozeßordnung gelten entsprechend. Macht der Beteiligte, dem Prozeßkostenhilfe bewilligt ist, von seinem Recht, einen Rechtsanwalt zu wählen, nicht Gebrauch, wird auf Antrag des Beteiligten der beizuordnende Rechtsanwalt vom Gericht ausgewählt. Einem Beteiligten, dem Prozesskostenhilfe bewilligt worden ist, kann auch ein Steuerberater, Steuerbevollmächtigter, Wirtschaftsprüfer, vereidigter Buchprüfer oder Rentenberater beigeordnet werden. Die Vergütung richtet sich nach den für den beigeordneten Rechtsanwalt geltenden Vorschriften des Rechtsanwaltsvergütungsgesetzes.
+(1) Die Vorschriften der Zivilprozeßordnung über die Prozeßkostenhilfe mit Ausnahme des § 118 Absatz 1 Satz 6 und des § 127 Absatz 2 Satz 2 der Zivilprozessordnung gelten entsprechend. Macht der Beteiligte, dem Prozeßkostenhilfe bewilligt ist, von seinem Recht, einen Rechtsanwalt zu wählen, nicht Gebrauch, wird auf Antrag des Beteiligten der beizuordnende Rechtsanwalt vom Gericht ausgewählt. Einem Beteiligten, dem Prozesskostenhilfe bewilligt worden ist, kann auch ein Steuerberater, Steuerbevollmächtigter, Wirtschaftsprüfer, vereidigter Buchprüfer oder Rentenberater beigeordnet werden. Die Vergütung richtet sich nach den für den beigeordneten Rechtsanwalt geltenden Vorschriften des Rechtsanwaltsvergütungsgesetzes.
 
 (2) Prozeßkostenhilfe wird nicht bewilligt, wenn der Beteiligte durch einen Bevollmächtigten im Sinne des § 73 Abs. 2 Satz 2 Nr. 5 bis 9 vertreten ist.
 
@@ -1228,25 +1228,29 @@ Die Beteiligten können zur Vorbereitung der mündlichen Verhandlung Schriftsät
 
 (2) Das Gericht kann Sitzungen auch außerhalb des Gerichtssitzes abhalten, wenn dies zur sachdienlichen Erledigung notwendig ist.
 
-(3) § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden.
+(3) § 227 Absatz 1 Satz 3 und Absatz 3 Satz 1 der Zivilprozessordnung ist nicht anzuwenden.
 
 # § 110a
 
-(1) Das Gericht kann den Beteiligten, ihren Bevollmächtigten und Beiständen auf Antrag oder von Amts wegen gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
+(1) Die mündliche Verhandlung kann in geeigneten Fällen und soweit ausreichende Kapazitäten zur Verfügung stehen als Videoverhandlung stattfinden. Eine mündliche Verhandlung findet als Videoverhandlung statt, wenn an ihr mindestens ein Verfahrensbeteiligter per Bild- und Tonübertragung teilnimmt. Verfahrensbeteiligte nach dieser Vorschrift sind die Beteiligten, ihre Bevollmächtigten und Beistände.
 
-(2) Das Gericht kann auf Antrag gestatten, dass sich ein Zeuge oder ein Sachverständiger während einer Vernehmung an einem anderen Ort aufhält. Die Vernehmung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen. Ist Beteiligten, Bevollmächtigten und Beiständen nach Absatz 1 Satz 1 gestattet worden, sich an einem anderen Ort aufzuhalten, so wird die Vernehmung auch an diesen Ort übertragen.
+(2) Das Gericht kann unter den Voraussetzungen des Absatzes 1 Satz 1 auf Antrag eines Verfahrensbeteiligten oder von Amts wegen die Teilnahme per Bild- und Tonübertragung für einen Verfahrensbeteiligten, mehrere oder alle Verfahrensbeteiligte gestatten. Die Ablehnung eines Antrags auf Teilnahme per Bild- und Tonübertragung ist kurz zu begründen.
 
-(3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
+(3) Das Gericht kann auf Antrag oder von Amts wegen die Teilnahme per Bild- und Tonübertragung für einen Zeugen oder einen Sachverständigen gestatten. Das Antragsrecht steht den Verfahrensbeteiligten, Zeugen und Sachverständigen zu. Absatz 1 gilt entsprechend.
 
-(4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§ 106 Absatz 3 Nummer 7).
+(4) Den Verfahrensbeteiligten und Dritten ist es untersagt, die Übertragung aufzuzeichnen. Hierauf sind sie zu Beginn der Verhandlung hinzuweisen. Das Gericht kann die Videoverhandlung oder die Bild- und Tonübertragung nach Absatz 3 für die Zwecke des § 160a der Zivilprozessordnung ganz oder teilweise aufzeichnen. Über Beginn und Ende der Aufzeichnung hat das Gericht die Verfahrensbeteiligten und im Falle von Absatz 3 auch die Zeugen und Sachverständigen zu informieren.
+
+(5) Entscheidungen nach dieser Vorschrift sind unanfechtbar.
+
+(6) Die Absätze 1 bis 5 gelten entsprechend für § 106 Absatz 3 Nummer 7 und § 73a Absatz 1 Satz 1 dieses Gesetzes in Verbindung mit § 118 Absatz 1 Satz 3 der Zivilprozessordnung.
 
 # § 111
 
-(1) Der Vorsitzende kann das persönliche Erscheinen eines Beteiligten zur mündlichen Verhandlung anordnen sowie Zeugen und Sachverständige laden. Auf die Folgen des Ausbleibens ist dabei hinzuweisen.
+(1) Der Vorsitzende kann das persönliche Erscheinen eines Beteiligten zur mündlichen Verhandlung anordnen sowie Zeugen und Sachverständige laden. Als persönliches Erscheinen gilt auch die nach § 110a Absatz 2 Satz 1 gestattete Teilnahme per Bild- und Tonübertragung. Auf die Folgen des Ausbleibens ist dabei hinzuweisen.
 
 (2) Die Ladung von Zeugen und Sachverständigen ist den Beteiligten bei der Mitteilung des Termins zur mündlichen Verhandlung bekanntzugeben.
 
-(3) Das Gericht kann einem Beteiligten, der keine natürliche Person ist, aufgeben, zur mündlichen Verhandlung oder zu einem Termin nach § 106 Absatz 3 Nummer 7 einen Beamten oder Angestellten zu entsenden, der mit einem schriftlichen Nachweis über die Vertretungsbefugnis versehen und über die Sach- und Rechtslage ausreichend unterrichtet ist.
+(3) Der Vorsitzende kann einem Beteiligten, der keine natürliche Person ist, aufgeben, zur mündlichen Verhandlung oder zu einem Termin nach § 106 Absatz 3 Nummer 7 einen Beamten oder Angestellten zu entsenden, der mit einem schriftlichen Nachweis über die Vertretungsbefugnis versehen und über die Sach- und Rechtslage ausreichend unterrichtet ist.
 
 # § 112
 
@@ -1324,7 +1328,7 @@ Nach genügender Erörterung der Streitsache erklärt der Vorsitzende die mündl
 
 # § 122
 
-Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozeßordnung entsprechend.
+Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozessordnung entsprechend, soweit dieses Gesetz nichts anderes bestimmt.
 
 # § 123
 
@@ -1380,7 +1384,7 @@ Das Urteil kann nur von den Richtern gefällt werden, die an der dem Urteil zugr
 
 # § 132
 
-(1) Das Urteil ergeht im Namen des Volkes. Es wird grundsätzlich in dem Termin verkündet, in dem die mündliche Verhandlung geschlossen wird. Ausnahmsweise kann das Urteil in einem sofort anzuberaumenden Termin, der nicht über zwei Wochen hinaus angesetzt werden soll, verkündet werden. Eine Ladung der Beteiligten ist nicht erforderlich.
+(1) Das Urteil ergeht im Namen des Volkes. Es wird grundsätzlich in dem Termin verkündet, in dem die mündliche Verhandlung geschlossen wird. Ausnahmsweise kann das Urteil in einem sofort anzuberaumenden Termin, der nicht über zwei Wochen hinaus angesetzt werden soll, verkündet werden. Eine Ladung der Beteiligten ist nicht erforderlich. Der Vorsitzende kann den Beteiligten, ihren Bevollmächtigten und Beiständen gestatten, an der Urteilsverkündung per Bild- und Tonübertragung teilzunehmen.
 
 (2) Das Urteil wird durch Verlesen der Urteilsformel verkündet. Bei der Verkündung soll der wesentliche Inhalt der Entscheidungsgründe mitgeteilt werden, wenn Beteiligte anwesend sind.
 
@@ -1947,7 +1951,7 @@ Für Ansprüche, die beim Bundessozialgericht entstehen, gelten das Justizverwal
 
 # § 202
 
-Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht ausschließen. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt. In Streitigkeiten über Entscheidungen des Bundeskartellamts, die die freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften Buches Sozialgesetzbuch betreffen, sind die §§ 63 bis 80 des Gesetzes gegen Wettbewerbsbeschränkungen mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt.
+Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung einschließlich der §§ 129a, 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht ausschließen. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt. In Streitigkeiten über Entscheidungen des Bundeskartellamts, die die freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften Buches Sozialgesetzbuch betreffen, sind die §§ 63 bis 80 des Gesetzes gegen Wettbewerbsbeschränkungen mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt.
 
 # § 203
 

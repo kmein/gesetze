@@ -3170,7 +3170,6 @@
 - [KlaCbMstrV](laws/KlaCbMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Klavier- und Cembalobauer-Handwerk
 - [KlaCembAusbV](laws/KlaCembAusbV.md) Verordnung über die Berufsausbildung zum Klavier- und Cembalobauer und zur Klavier- und Cembalobauerin*
 - [KlärEV](laws/KlärEV.md) Verordnung über den Klärschlamm-Entschädigungsfonds
-- [KlagRegV](laws/KlagRegV.md) Verordnung über das Klageregister nach dem Kapitalanleger-Musterverfahrensgesetz
 - [KlauenPflPrV](laws/KlauenPflPrV.md) Verordnung über die Prüfungen zu den anerkannten Fortbildungsabschlüssen Geprüfter Klauenpfleger und Geprüfte Klauenpflegerin sowie Fachagrarwirt Klauenpflege und Fachagrarwirtin Klauenpflege
 - [KlempnerAusbV](laws/KlempnerAusbV.md) Verordnung über die Berufsausbildung zum Klempner und zur Klempnerin*
 - [KlempnerMstrV](laws/KlempnerMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Klempner-Handwerk
@@ -4113,6 +4112,7 @@
 - [MuKFrRGDBest 1](laws/MuKFrRGDBest_1.md) Erste Durchführungsbestimmung zum Gesetz über den Mutter- und Kinderschutz und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen
 - [MuKStiftG](laws/MuKStiftG.md) Gesetz zur Errichtung einer Stiftung "Mutter und Kind - Schutz des ungeborenen Lebens"
 - [MulMstrV](laws/MulMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Maler- und Lackierer-Handwerk
+- [MuRegV](laws/MuRegV.md) Verordnung über das Musterverfahrensregister nach dem Kapitalanleger-Musterverfahrensgesetz
 - [MuSchEltZV](laws/MuSchEltZV.md) Verordnung über den Mutterschutz für Beamtinnen des Bundes und die Elternzeit für Beamtinnen und Beamte des Bundes
 - [MuSchG](laws/MuSchG.md) Gesetz zum Schutz von Müttern bei der Arbeit, in der Ausbildung und im Studium
 - [MuSchSoldV](laws/MuSchSoldV.md) Verordnung über den Mutterschutz für Soldatinnen
