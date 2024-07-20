@@ -1359,7 +1359,7 @@ die Verjährung wird schon durch den Eingang des Antrags bei der Streitbeilegung
 
 6. die Zustellung der Streitverkündung,
 
-6a. die Zustellung der Anmeldung zu einem Musterverfahren für darin bezeichnete Ansprüche, soweit diesen der gleiche Lebenssachverhalt zugrunde liegt wie den Feststellungszielen des Musterverfahrens und wenn innerhalb von drei Monaten nach dem rechtskräftigen Ende des Musterverfahrens die Klage auf Leistung oder Feststellung der in der Anmeldung bezeichneten Ansprüche erhoben wird,
+6a. die öffentliche Bekanntmachung des Vorlagebeschlusses in einem Musterverfahren für Ansprüche, denen derselbe Lebenssachverhalt zugrunde liegt wie den Feststellungszielen des Musterverfahrens, wenn die Ansprüche zum Musterverfahren angemeldet werden,
 
 7. die Zustellung des Antrags auf Durchführung eines selbständigen Beweisverfahrens,
 

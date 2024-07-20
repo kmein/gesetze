@@ -1764,7 +1764,7 @@ Die Gerichtssprache ist deutsch. Das Recht der Sorben, in den Heimatkreisen der 
 
 (1) Wird unter Beteiligung von Personen verhandelt, die der deutschen Sprache nicht mächtig sind, so ist ein Dolmetscher zuzuziehen. Ein Nebenprotokoll in der fremden Sprache wird nicht geführt; jedoch sollen Aussagen und Erklärungen in fremder Sprache, wenn und soweit der Richter dies mit Rücksicht auf die Wichtigkeit der Sache für erforderlich erachtet, auch in der fremden Sprache in das Protokoll oder in eine Anlage niedergeschrieben werden. In den dazu geeigneten Fällen soll dem Protokoll eine durch den Dolmetscher zu beglaubigende Übersetzung beigefügt werden.
 
-(1a) Das Gericht kann gestatten, dass sich der Dolmetscher während der Verhandlung, Anhörung oder Vernehmung an einem anderen Ort aufhält. Die Verhandlung, Anhörung oder Vernehmung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
+(1a) Der Vorsitzende kann gestatten oder anordnen, dass der Dolmetscher per Bild- und Tonübertragung an der Verhandlung, Anhörung oder Vernehmung teilnimmt. Der Vorsitzende kann zusätzlich anordnen, dass sich der Dolmetscher an demselben Ort aufhält wie die Person, die der deutschen Sprache nicht mächtig ist.
 
 (2) Die Zuziehung eines Dolmetschers kann unterbleiben, wenn die beteiligten Personen sämtlich der fremden Sprache mächtig sind.
 
@@ -1826,6 +1826,8 @@ Auf den Dolmetscher sind die Vorschriften über Ausschließung und Ablehnung der
 
 (3) Elektronische Dokumente sind für blinde oder sehbehinderte Personen barrierefrei zu gestalten, soweit sie in Schriftzeichen wiedergegeben werden. Erfolgt die Übermittlung eines elektronischen Dokuments auf einem sicheren Übermittlungsweg, ist dieser barrierefrei auszugestalten. Sind elektronische Formulare eingeführt (§ 130c der Zivilprozessordnung, § 32c der Strafprozessordnung, § 14a des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, § 46f des Arbeitsgerichtsgesetzes, § 65c des Sozialgerichtsgesetzes, § 55c der Verwaltungsgerichtsordnung, § 52c der Finanzgerichtsordnung, § 110b des Gesetzes über Ordnungswidrigkeiten), sind diese blinden oder sehbehinderten Personen barrierefrei zugänglich zu machen. Dabei sind die Standards von § 3 der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung maßgebend.
 
+(4) In gerichtlichen Verfahren eingesetzte Videokonferenztechnik ist für die Verständigung mit einer blinden oder sehbehinderten Person auf deren Verlangen barrierefrei zugänglich zu machen. Absatz 3 Satz 4 gilt entsprechend.
+
 # § 192
 
 (1) Bei Entscheidungen dürfen Richter nur in der gesetzlich bestimmten Anzahl mitwirken.
@@ -1836,13 +1838,15 @@ Auf den Dolmetscher sind die Vorschriften über Ausschließung und Ablehnung der
 
 # § 193
 
-(1) Bei der Beratung und Abstimmung dürfen außer den zur Entscheidung berufenen Richtern nur die bei demselben Gericht zu ihrer juristischen Ausbildung beschäftigten Personen und die dort beschäftigten wissenschaftlichen Hilfskräfte zugegen sein, soweit der Vorsitzende deren Anwesenheit gestattet.
+(1) Die Beratung und die Abstimmung können mit Einverständnis aller zur Entscheidung berufenen Richter ganz oder teilweise per Bild- und Tonübertragung durchgeführt werden. In diesem Fall ist durch organisatorische und technische Maßnahmen die Wahrung des Beratungsgeheimnisses sicherzustellen.
 
-(2) Ausländische Berufsrichter, Staatsanwälte und Anwälte, die einem Gericht zur Ableistung eines Studienaufenthaltes zugewiesen worden sind, können bei demselben Gericht bei der Beratung und Abstimmung zugegen sein, soweit der Vorsitzende deren Anwesenheit gestattet und sie gemäß den Absätzen 3 und 4 verpflichtet sind. Satz 1 gilt entsprechend für ausländische Juristen, die im Entsendestaat in einem Ausbildungsverhältnis stehen.
+(2) Bei der Beratung und Abstimmung dürfen außer den zur Entscheidung berufenen Richtern nur die bei demselben Gericht zu ihrer juristischen Ausbildung beschäftigten Personen und die dort beschäftigten wissenschaftlichen Hilfskräfte zugegen sein, soweit der Vorsitzende deren Anwesenheit gestattet.
 
-(3) Die in Absatz 2 genannten Personen sind auf ihren Antrag zur Geheimhaltung besonders zu verpflichten. § 1 Abs. 2 und 3 des Verpflichtungsgesetzes vom 2. März 1974 (BGBl. I S. 469, 547 - Artikel 42) gilt entsprechend. Personen, die nach Satz 1 besonders verpflichtet worden sind, stehen für die Anwendung der Vorschriften des Strafgesetzbuches über die Verletzung von Privatgeheimnissen (§ 203 Absatz 2 Satz 1 Nummer 2, Satz 2, Absatz 5 und 6, § 205), Verwertung fremder Geheimnisse (§§ 204, 205), Verletzung des Dienstgeheimnisses (§ 353b Abs. 1 Satz 1 Nr. 2, Satz 2, Abs. 3 und 4) sowie Verletzung des Steuergeheimnisses (§ 355) den für den öffentlichen Dienst besonders Verpflichteten gleich.
+(3) Ausländische Berufsrichter, Staatsanwälte und Anwälte, die einem Gericht zur Ableistung eines Studienaufenthaltes zugewiesen worden sind, können bei demselben Gericht bei der Beratung und Abstimmung zugegen sein, soweit der Vorsitzende deren Anwesenheit gestattet und sie gemäß den Absätzen 4 und 5 verpflichtet sind. Satz 1 gilt entsprechend für ausländische Juristen, die im Entsendestaat in einem Ausbildungsverhältnis stehen.
 
-(4) Die Verpflichtung wird vom Präsidenten oder vom aufsichtsführenden Richter des Gerichts vorgenommen. Er kann diese Befugnis auf den Vorsitzenden des Spruchkörpers oder auf den Richter übertragen, dem die in Absatz 2 genannten Personen zugewiesen sind. Einer erneuten Verpflichtung bedarf es während der Dauer des Studienaufenthaltes nicht. In den Fällen des § 355 des Strafgesetzbuches ist der Richter, der die Verpflichtung vorgenommen hat, neben dem Verletzten antragsberechtigt.
+(4) Die in Absatz 3 genannten Personen sind auf ihren Antrag zur Geheimhaltung besonders zu verpflichten. § 1 Absatz 2 und 3 des Verpflichtungsgesetzes vom 2. März 1974 (BGBl. I S. 469, 547), das durch § 1 Nummer 4 des Gesetzes vom 15. August 1974 (BGBl. I S. 1942) geändert worden ist, gilt entsprechend. Personen, die nach Satz 1 besonders verpflichtet worden sind, stehen für die Anwendung der Vorschriften des Strafgesetzbuches über die Verletzung von Privatgeheimnissen (§ 203 Absatz 2 Satz 1 Nummer 2, Satz 2, Absatz 5 und 6, § 205), Verwertung fremder Geheimnisse (§§ 204, 205), Verletzung des Dienstgeheimnisses (§ 353b Abs. 1 Satz 1 Nr. 2, Satz 2, Abs. 3 und 4) sowie Verletzung des Steuergeheimnisses (§ 355) den für den öffentlichen Dienst besonders Verpflichteten gleich.
+
+(5) Die Verpflichtung wird vom Präsidenten oder vom aufsichtsführenden Richter des Gerichts vorgenommen. Er kann diese Befugnis auf den Vorsitzenden des Spruchkörpers oder auf den Richter übertragen, dem die in Absatz 3 genannten Personen zugewiesen sind. Einer erneuten Verpflichtung bedarf es während der Dauer des Studienaufenthaltes nicht. In den Fällen des § 355 des Strafgesetzbuches ist der Richter, der die Verpflichtung vorgenommen hat, neben dem Verletzten antragsberechtigt.
 
 # § 194
 

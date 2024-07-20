@@ -101,11 +101,49 @@ Das Gleiche gilt, wenn die Parteien nicht in demselben Land wohnen oder ihren Si
 
 (6) Gütestellen im Sinne dieser Bestimmung können auch durch Landesrecht anerkannt werden. Die vor diesen Gütestellen geschlossenen Vergleiche gelten als Vergleiche im Sinne des § 794 Abs. 1 Nr. 1 der Zivilprozessordnung.
 
-# § 16 – (weggefallen)
+# § 16
 
-# § 17 – (weggefallen)
+(1) Die Bundesregierung und die Landesregierungen werden ermächtigt, durch Rechtsverordnung für ihre jeweiligen Zuständigkeitsbereiche vollvirtuelle Videoverhandlungen zum Zwecke ihrer Erprobung zuzulassen. Eine Videoverhandlung (§ 128a der Zivilprozessordnung) findet als vollvirtuelle Videoverhandlung statt, wenn alle Verfahrensbeteiligten und alle Mitglieder des Gerichts an der mündlichen Verhandlung per Bild- und Tonübertragung teilnehmen und der Vorsitzende die Videoverhandlung von einem anderen Ort als der Gerichtsstelle aus leitet. Die Landesregierungen können die in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-)
+(2) Die Zulassung vollvirtueller Videoverhandlungen kann auf einzelne Gerichte oder Verfahren beschränkt werden. In der Rechtsverordnung ist Folgendes zu bestimmen:
+
+1. die technischen und organisatorischen Rahmenbedingungen für die Herstellung der Öffentlichkeit nach Absatz 4 sowie
+
+2. Art und Umfang der nach § 17 zu erhebenden Daten.
+
+Die Geltungsdauer der Rechtsverordnung ist längstens bis zum Ablauf des 31. Dezember 2033 zu befristen. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
+
+(3) Ist durch Rechtsverordnung nach den Absätzen 1 und 2 eine vollvirtuelle Videoverhandlung zugelassen, so ist deren Durchführung nur zulässig, wenn
+
+1. alle Mitglieder des Gerichts gegenüber dem Vorsitzenden erklärt haben, an der mündlichen Verhandlung per Bild- und Tonübertragung teilzunehmen,
+
+2. gegenüber allen Verfahrensbeteiligten eine Videoverhandlung nach § 128a Absatz 2 Satz 1 der Zivilprozessordnung angeordnet wurde und
+
+3. kein Verfahrensbeteiligter fristgerecht Einspruch nach § 128a Absatz 2 Satz 2 der Zivilprozessordnung eingelegt hat.
+
+Über die Durchführung einer vollvirtuellen Videoverhandlung entscheidet der Vorsitzende.
+
+(4) In öffentlichen Verhandlungen ist die Öffentlichkeit herzustellen, indem die vollvirtuelle Videoverhandlung in Bild und Ton an einen öffentlich zugänglichen Raum im zuständigen Gericht übertragen wird.
+
+(5) Absatz 4 gilt entsprechend für die Urteilsverkündung nach § 310 Absatz 1 Satz 3 der Zivilprozessordnung.
+
+# § 17
+
+(1) Das Bundesministerium der Justiz evaluiert unter Beteiligung der an der Erprobung teilnehmenden Länder vier Jahre und acht Jahre nach dem 19. Juli 2024 die mit der vollvirtuellen Videoverhandlung gemachten Erfahrungen und die daraus gewonnenen Erkenntnisse.
+
+(2) Die an der Erprobung teilnehmenden Länder berichten dem Bundesministerium der Justiz zum Zwecke der Evaluierung nach Absatz 1 am Ende eines jeden Kalenderjahres über die an den Gerichten in ihrem Zuständigkeitsbereich durchgeführten vollvirtuellen Videoverhandlungen. Der Bericht soll bezogen auf den Berichtszeitraum folgende Angaben enthalten:
+
+1. Anzahl der durchgeführten vollvirtuellen Videoverhandlungen,
+
+2. Angaben zu Art und Sachgebiet der Verfahren, in denen eine vollvirtuelle Videoverhandlung stattgefunden hat,
+
+3. Angaben zur anwaltlichen Vertretung in diesen Verfahren,
+
+4. Angaben über die technische Ausstattung des öffentlichen Übertragungsraums nach § 16 Absatz 4 sowie die hierfür entstandenen Kosten und Aufwendungen,
+
+5. Angaben zum Umfang, in welchem die Öffentlichkeit von den Möglichkeiten des § 16 Absatz 4 Gebrauch gemacht hat und
+
+6. Angaben über die Erfahrungen der Gerichte und Verfahrensbeteiligten mit der Durchführung vollvirtueller Videoverhandlungen und der Herstellung der Öffentlichkeit nach § 16 Absatz 4.
 
 # § 18 – (weggefallen)
 

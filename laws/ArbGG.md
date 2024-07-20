@@ -151,7 +151,13 @@ Für die Gerichte für Arbeitssachen gelten die Vorschriften des Zweiten Titels 
 
 (1) Das Verfahren ist in allen Rechtszügen zu beschleunigen.
 
-(2) Die Vorschriften des Gerichtsverfassungsgesetzes über Zustellungs- und Vollstreckungsbeamte, über die Aufrechterhaltung der Ordnung in der Sitzung, über die Gerichtssprache, über die Wahrnehmung richterlicher Geschäfte durch Referendare und über Beratung und Abstimmung gelten in allen Rechtszügen entsprechend. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landesarbeitsgericht, an die Stelle des Bundesgerichtshofs das Bundesarbeitsgericht und an die Stelle der Zivilprozessordnung das Arbeitsgerichtsgesetz tritt.
+(2) Die Vorschriften des Gerichtsverfassungsgesetzes über Zustellungs- und Vollstreckungsbeamte, über die Aufrechterhaltung der Ordnung in der Sitzung, über die Gerichtssprache, über die Wahrnehmung richterlicher Geschäfte durch Referendare und über Beratung und Abstimmung gelten in allen Rechtszügen entsprechend. Abweichend von Satz 1 findet
+
+1. § 185 Absatz 1a des Gerichtsverfassungsgesetzes mit der Maßgabe Anwendung, dass das Gericht dem Dolmetscher die Teilnahme an der Verhandlung, Anhörung oder Vernehmung per Bild- und Tonübertragung gestatten kann;
+
+2. § 193 Absatz 1 des Gerichtsverfassungsgesetzes keine Anwendung für die erstmalige gemeinsame Beratung und Abstimmung mit den ehrenamtlichen Richterinnen und Richtern bei einer Entscheidung aufgrund mündlicher Verhandlung.
+
+Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landesarbeitsgericht, an die Stelle des Bundesgerichtshofs das Bundesarbeitsgericht und an die Stelle der Zivilprozessordnung das Arbeitsgerichtsgesetz tritt.
 
 (3) Die Vorschriften über die Wahrnehmung der Geschäfte bei den ordentlichen Gerichten durch Rechtspfleger gelten in allen Rechtszügen entsprechend. Als Rechtspfleger können nur Beamte bestellt werden, die die Rechtspflegerprüfung oder die Prüfung für den gehobenen Dienst bei der Arbeitsgerichtsbarkeit bestanden haben.
 
@@ -191,7 +197,7 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 # § 11a – Beiordnung eines Rechtsanwalts, Prozeßkostenhilfe
 
-(1) Die Vorschriften der Zivilprozessordnung über die Prozesskostenhilfe und über die grenzüberschreitende Prozesskostenhilfe innerhalb der Europäischen Union nach der Richtlinie 2003/8/EG gelten in Verfahren vor den Gerichten für Arbeitssachen entsprechend.
+(1) Die Vorschriften der Zivilprozessordnung über die Prozesskostenhilfe und über die grenzüberschreitende Prozesskostenhilfe innerhalb der Europäischen Union nach der Richtlinie 2003/8/EG mit Ausnahme des § 118 Absatz 1 Satz 6 der Zivilprozessordnung gelten in Verfahren vor den Gerichten für Arbeitssachen entsprechend. Im Bewilligungsverfahren gilt für den Erörterungstermin nach § 118 Absatz 1 Satz 3 der Zivilprozessordnung § 50a dieses Gesetzes entsprechend.
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, zur Vereinfachung und Vereinheitlichung des Verfahrens durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für die Erklärung der Partei über ihre persönlichen und wirtschaftlichen Verhältnisse (§ 117 Abs. 2 der Zivilprozeßordnung) einzuführen.
 
@@ -213,7 +219,7 @@ Das Justizverwaltungskostengesetz und das Justizbeitreibungsgesetz gelten entspr
 
 # § 13a – Internationale Verfahren
 
-Die Vorschriften des Buches 11 der Zivilprozessordnung über die justizielle Zusammenarbeit in der Europäischen Union finden in Verfahren vor den Gerichten für Arbeitssachen Anwendung, soweit dieses Gesetz nichts anderes bestimmt.
+Die Vorschriften des Buches 11 der Zivilprozessordnung über die justizielle Zusammenarbeit in der Europäischen Union finden in Verfahren vor den Gerichten für Arbeitssachen Anwendung, soweit dieses Gesetz nichts anderes bestimmt. § 1100 Absatz 1 der Zivilprozessordnung ist mit der Maßgabe anzuwenden, dass anstelle von § 128a Absatz 6 der Zivilprozessordnung § 50a Absatz 3 dieses Gesetzes anwendbar ist. § 1101 Absatz 2 findet mit der Maßgabe Anwendung, dass anstelle von § 284 Absatz 2 Satz 3 der Zivilprozessordnung in Verbindung mit § 128a Absatz 6 und § 284 Absatz 3 der Zivilprozessordnung § 58 Absatz 4 Satz 3 in Verbindung mit § 50a Absatz 3 dieses Gesetzes anwendbar ist.
 
 # § 14 – Errichtung und Organisation
 
@@ -467,7 +473,7 @@ Die ehrenamtlichen Richter sollen zu den Sitzungen nach der Reihenfolge einer Li
 
 (1) Das Urteilsverfahren findet in den in § 2 Abs. 1 bis 4 bezeichneten bürgerlichen Rechtsstreitigkeiten Anwendung.
 
-(2) Für das Urteilsverfahren des ersten Rechtszugs gelten die Vorschriften der Zivilprozeßordnung über das Verfahren vor den Amtsgerichten entsprechend, soweit dieses Gesetz nichts anderes bestimmt. Die Vorschriften über den frühen ersten Termin zur mündlichen Verhandlung und das schriftliche Vorverfahren (§§ 275 bis 277 der Zivilprozeßordnung), über das vereinfachte Verfahren (§ 495a der Zivilprozeßordnung), über den Urkunden- und Wechselprozeß (§§ 592 bis 605a der Zivilprozeßordnung), über die Entscheidung ohne mündliche Verhandlung (§ 128 Abs. 2 der Zivilprozeßordnung) und über die Verlegung von Terminen in der Zeit vom 1. Juli bis 31. August (§ 227 Abs. 3 Satz 1 der Zivilprozeßordnung) finden keine Anwendung. § 127 Abs. 2 der Zivilprozessordnung findet mit der Maßgabe Anwendung, dass die sofortige Beschwerde bei Bestandsschutzstreitigkeiten unabhängig von dem Streitwert zulässig ist.
+(2) Für das Urteilsverfahren des ersten Rechtszugs gelten die Vorschriften der Zivilprozeßordnung über das Verfahren vor den Amtsgerichten entsprechend, soweit dieses Gesetz nichts anderes bestimmt. Die Vorschriften über den frühen ersten Termin zur mündlichen Verhandlung und das schriftliche Vorverfahren (§§ 275 bis 277 der Zivilprozessordnung), über das vereinfachte Verfahren (§ 495a der Zivilprozessordnung), über den Urkunden- und Wechselprozess (§§ 592 bis 605a der Zivilprozessordnung), über die Entscheidung ohne mündliche Verhandlung (§ 128 Absatz 2 der Zivilprozessordnung), über die Förderung von Videoverhandlungen bei Terminsänderungsanträgen (§ 227 Absatz 1 Satz 3 und Absatz 4 der Zivilprozessordnung), über die Verlegung von Terminen in der Zeit vom 1. Juli bis 31. August (§ 227 Absatz 3 Satz 1 der Zivilprozessordnung) und die Äußerung über Bedenken gegen eine Videoverhandlung in der Klageschrift und der Klageerwiderung (§ 253 Absatz 3 Nummer 4 und § 277 Absatz 1 Satz 2 Nummer 2 der Zivilprozessordnung) finden keine Anwendung. § 127 Abs. 2 der Zivilprozessordnung findet mit der Maßgabe Anwendung, dass die sofortige Beschwerde bei Bestandsschutzstreitigkeiten unabhängig von dem Streitwert zulässig ist. Abweichend von § 160 Absatz 1 Nummer 4 der Zivilprozessordnung enthält das Protokoll die Namen der erschienenen Parteien, Nebenintervenienten, Vertreter, Bevollmächtigten, Beistände, Zeugen und Sachverständigen sowie im Fall der §§ 50a und 58 Absatz 4 die Angabe, wer an der Verhandlung oder der Beweisaufnahme per Bild- und Tonübertragung teilnimmt.
 
 # § 46a – Mahnverfahren
 
@@ -597,9 +603,19 @@ Im Geltungsbereich eines Tarifvertrags nach Satz 1 Nr. 1 gelten die tarifvertrag
 
 (3) (weggefallen)
 
+# § 50a – Videoverhandlung
+
+(1) Die mündliche Verhandlung kann in geeigneten Fällen und soweit ausreichende Kapazitäten zur Verfügung stehen als Videoverhandlung stattfinden. Eine mündliche Verhandlung findet als Videoverhandlung statt, wenn an ihr mindestens ein Verfahrensbeteiligter per Bild- und Tonübertragung teilnimmt. Verfahrensbeteiligte nach dieser Vorschrift sind die Parteien und Nebenintervenienten sowie ihre Bevollmächtigten, Vertreter und Beistände.
+
+(2) Der Vorsitzende kann unter den Voraussetzungen des Absatzes 1 Satz 1 auf Antrag eines Verfahrensbeteiligten oder von Amts wegen die Teilnahme per Bild- und Tonübertragung für einen Verfahrensbeteiligten, mehrere oder alle Verfahrensbeteiligte gestatten. Die Ablehnung eines Antrags auf Teilnahme per Bild- und Tonübertragung ist kurz zu begründen.
+
+(3) Den Verfahrensbeteiligten und Dritten ist es untersagt, die Videoverhandlung aufzuzeichnen. Hierauf sind sie zu Beginn der Verhandlung hinzuweisen. Die Videoverhandlung kann für die Zwecke des § 160a der Zivilprozessordnung ganz oder teilweise aufgezeichnet werden. Über Beginn und Ende der Aufzeichnung sind die Verfahrensbeteiligten zu informieren.
+
+(4) Entscheidungen nach dieser Vorschrift sind unanfechtbar.
+
 # § 51 – Persönliches Erscheinen der Parteien
 
-(1) Der Vorsitzende kann das persönliche Erscheinen der Parteien in jeder Lage des Rechtsstreits anordnen. Im übrigen finden die Vorschriften des § 141 Abs. 2 und 3 der Zivilprozeßordnung entsprechende Anwendung.
+(1) Der Vorsitzende kann das persönliche Erscheinen der Parteien in jeder Lage des Rechtsstreits anordnen. Als persönliches Erscheinen gilt auch die nach § 50a Absatz 2 Satz 1 gestattete Teilnahme per Bild- und Tonübertragung. Im übrigen finden die Vorschriften des § 141 Abs. 2 und 3 der Zivilprozeßordnung entsprechende Anwendung.
 
 (2) Der Vorsitzende kann die Zulassung eines Prozeßbevollmächtigten ablehnen, wenn die Partei trotz Anordnung ihres persönlichen Erscheinens unbegründet ausgeblieben ist und hierdurch der Zweck der Anordnung vereitelt wird. § 141 Abs. 3 Satz 2 und 3 der Zivilprozeßordnung findet entsprechende Anwendung.
 
@@ -615,7 +631,7 @@ Die Verhandlungen vor dem erkennenden Gericht einschließlich der Beweisaufnahme
 
 # § 54 – Güteverfahren
 
-(1) Die mündliche Verhandlung beginnt mit einer Verhandlung vor dem Vorsitzenden zum Zwecke der gütlichen Einigung der Parteien (Güteverhandlung). Der Vorsitzende hat zu diesem Zweck das gesamte Streitverhältnis mit den Parteien unter freier Würdigung aller Umstände zu erörtern. Zur Aufklärung des Sachverhalts kann er alle Handlungen vornehmen, die sofort erfolgen können. Eidliche Vernehmungen sind jedoch ausgeschlossen. Der Vorsitzende kann die Güteverhandlung mit Zustimmung der Parteien in einem weiteren Termin, der alsbald stattzufinden hat, fortsetzen.
+(1) Die mündliche Verhandlung beginnt mit einer Verhandlung vor dem Vorsitzenden zum Zwecke der gütlichen Einigung der Parteien (Güteverhandlung). Der Vorsitzende hat zu diesem Zweck das gesamte Streitverhältnis mit den Parteien unter freier Würdigung aller Umstände zu erörtern. Zur Aufklärung des Sachverhalts kann er alle Handlungen vornehmen, die sofort erfolgen können. Eidliche Vernehmungen sind jedoch ausgeschlossen. Der Vorsitzende kann die Güteverhandlung mit Zustimmung der Parteien in einem weiteren Termin, der alsbald stattzufinden hat, fortsetzen. § 50a ist anzuwenden.
 
 (2) Die Klage kann bis zum Stellen der Anträge ohne Einwilligung des Beklagten zurückgenommen werden. In der Güteverhandlung erklärte gerichtliche Geständnisse nach § 288 der Zivilprozeßordnung haben nur dann bindende Wirkung, wenn sie zu Protokoll erklärt worden sind. § 39 Satz 1 und § 282 Abs. 3 Satz 1 der Zivilprozeßordnung sind nicht anzuwenden.
 
@@ -709,6 +725,10 @@ Von diesen Maßnahmen sind die Parteien zu benachrichtigen.
 
 (3) Insbesondere über die Zahl der in einem Arbeitsverhältnis stehenden Mitglieder oder das Vertretensein einer Gewerkschaft in einem Betrieb kann Beweis auch durch die Vorlegung öffentlicher Urkunden angetreten werden.
 
+(4) Der Vorsitzende kann auf Antrag oder von Amts wegen die Beweisaufnahmeper Bild- und Tonübertragung gestatten. Das Antragsrechtsteht den Verfahrensbeteiligten, Zeugen und Sachverständigen zu. § 50a Absatz 1, 3 und 4 gilt entsprechend. Satz 1 gilt nichtfür den Beweis durch Urkunden.
+
+(5) § 375 Absatz 1 Nummer 2 und 3 der Zivilprozessordnung ist entsprechend anzuwenden für den Fall, dass eine Zeugenvernehmung nach § 58 Absatz 4 nicht stattfindet. § 479 Absatz 1 der Zivilprozessordnung ist entsprechend anzuwenden für den Fall, dass die Leistung des Eides nach § 58 Absatz 4 nicht stattfindet. § 411 Absatz 3 der Zivilprozessordnung ist mit der Maßgabe anzuwenden, dass das Erscheinen des Sachverständigen auch als Teilnahme per Bild- und Tonübertragung nach § 50a gestattet werden kann. § 492 Absatz 3 der Zivilprozessordnung ist mit der Maßgabe anzuwenden, dass für den Erörterungstermin § 50a entsprechend gilt.
+
 § 58 Abs. 3: Eingef. durch Art. 2 Nr. 2 G v. 3.7.2015 I 1130 mWv 10.7.2015; nach Maßgabe der Gründe mit GG (100-1) vereinbar gem. BVerfGE v. 11.7.2017 I 2663 - 1 BvR 1571/15 u. a.
 
 # § 59 – Versäumnisverfahren
@@ -717,7 +737,7 @@ Gegen ein Versäumnisurteil kann eine Partei, gegen die das Urteil ergangen ist,
 
 # § 60 – Verkündung des Urteils
 
-(1) Zur Verkündung des Urteils kann ein besonderer Termin nur bestimmt werden, wenn die sofortige Verkündung in dem Termin, auf Grund dessen es erlassen wird, aus besonderen Gründen nicht möglich ist, insbesondere weil die Beratung nicht mehr am Tag der Verhandlung stattfinden kann. Der Verkündungstermin wird nur dann über drei Wochen hinaus angesetzt, wenn wichtige Gründe, insbesondere der Umfang oder die Schwierigkeit der Sache, dies erfordern. Dies gilt auch dann, wenn ein Urteil nach Lage der Akten erlassen wird.
+(1) Zur Verkündung des Urteils kann ein besonderer Termin nur bestimmt werden, wenn die sofortige Verkündung in dem Termin, auf Grund dessen es erlassen wird, aus besonderen Gründen nicht möglich ist, insbesondere weil die Beratung nicht mehr am Tag der Verhandlung stattfinden kann. Der Verkündungstermin wird nur dann über drei Wochen hinaus angesetzt, wenn wichtige Gründe, insbesondere der Umfang oder die Schwierigkeit der Sache, dies erfordern. Dies gilt auch dann, wenn ein Urteil nach Lage der Akten erlassen wird. Der Vorsitzende kann den Verfahrensbeteiligten gestatten, an der Urteilsverkündung per Bild- und Tonübertragung teilzunehmen.
 
 (2) Bei Verkündung des Urteils ist der wesentliche Inhalt der Entscheidungsgründe mitzuteilen. Dies gilt nicht, wenn beide Parteien abwesend sind; in diesem Fall genügt die Bezugnahme auf die unterschriebene Urteilsformel.
 
@@ -801,7 +821,7 @@ c) zwischen tariffähigen Parteien oder zwischen diesen und Dritten aus unerlaub
 
 (6) Für das Verfahren vor den Landesarbeitsgerichten gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften der Zivilprozeßordnung über die Berufung entsprechend. Die Vorschriften über das Verfahren vor dem Einzelrichter finden keine Anwendung.
 
-(7) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1 und 3, des § 50, des § 51 Abs. 1, der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4, des § 54 Absatz 6, des § 54a, der §§ 56 bis 59, 61 Abs. 2 und 3 und der §§ 62 und 63 über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen, Zustellungen, persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, Güterichter, Mediation und außergerichtliche Konfliktbeilegung, Vorbereitung der streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme, Versäumnisverfahren, Inhalt des Urteils, Zwangsvollstreckung und Übersendung von Urteilen in Tarifvertragssachen gelten entsprechend.
+(7) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1 und 3, der §§ 50 bis 51 Absatz 1, der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4, des § 54 Absatz 6, des § 54a, der §§ 56 bis 59, 61 Abs. 2 und 3 und der §§ 62 und 63 über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen, Zustellungen, Videoverhandlung, persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, Güterichter, Mediation und außergerichtliche Konfliktbeilegung, Vorbereitung der streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme, Versäumnisverfahren, Inhalt des Urteils, Zwangsvollstreckung und Übersendung von Urteilen in Tarifvertragssachen gelten entsprechend.
 
 (8) Berufungen in Rechtsstreitigkeiten über das Bestehen, das Nichtbestehen oder die Kündigung eines Arbeitsverhältnisses sind vorrangig zu erledigen.
 
@@ -861,7 +881,7 @@ Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die Zurückverweisung u
 
 (5) Für das Verfahren vor dem Bundesarbeitsgericht gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften der Zivilprozeßordnung über die Revision mit Ausnahme des § 566 entsprechend.
 
-(6) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1, der §§ 50, 52 und 53, des § 57 Abs. 2, des § 61 Abs. 2 und des § 63 dieses Gesetzes über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen, Zustellung, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, gütliche Erledigung des Rechtsstreits sowie Inhalt des Urteils und Übersendung von Urteilen in Tarifvertragssachen und des § 169 Absatz 3 und 4 des Gerichtsverfassungsgesetzes über die Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen bei der Entscheidungsverkündung gelten entsprechend.
+(6) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1, der §§ 50, 50a, 52 und 53, des § 57 Abs. 2, des § 61 Abs. 2 und des § 63 dieses Gesetzes über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen, Zustellung, Videoverhandlung, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, gütliche Erledigung des Rechtsstreits sowie Inhalt des Urteils und Übersendung von Urteilen in Tarifvertragssachen und des § 169 Absatz 3 und 4 des Gerichtsverfassungsgesetzes über die Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen bei der Entscheidungsverkündung gelten entsprechend.
 
 # § 72a – Nichtzulassungsbeschwerde
 
