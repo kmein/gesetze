@@ -611,7 +611,7 @@ In Verfahren vor den Gerichten für Arbeitssachen sind die Vorschriften dieses A
 
 # § 12 – Bürgerliche Rechtsstreitigkeiten, Verfahren nach der Zivilprozessordnung
 
-(1) In bürgerlichen Rechtsstreitigkeiten soll die Klage erst nach Zahlung der Gebühr für das Verfahren im Allgemeinen zugestellt werden. Wird der Klageantrag erweitert, soll vor Zahlung der Gebühr für das Verfahren im Allgemeinen keine gerichtliche Handlung vorgenommen werden; dies gilt auch in der Rechtsmittelinstanz. Die Anmeldung zum Musterverfahren (§ 10 Absatz 2 des Kapitalanleger-Musterverfahrensgesetzes) soll erst nach Zahlung der Gebühr nach Nummer 1902 des Kostenverzeichnisses zugestellt werden.
+(1) In bürgerlichen Rechtsstreitigkeiten soll die Klage erst nach Zahlung der Gebühr für das Verfahren im Allgemeinen zugestellt werden. Wird der Klageantrag erweitert, soll vor Zahlung der Gebühr für das Verfahren im Allgemeinen keine gerichtliche Handlung vorgenommen werden; dies gilt auch in der Rechtsmittelinstanz. Die Anmeldung zum Musterverfahren (§ 13 des Kapitalanleger-Musterverfahrensgesetzes) soll erst nach Zahlung der Gebühr nach Nummer 1902 des Kostenverzeichnisses zugestellt werden.
 
 (2) Absatz 1 gilt nicht
 
@@ -725,7 +725,7 @@ Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind
 
 (3) In Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 der Zivilprozessordnung, einer Bescheinigung nach § 1110 der Zivilprozessordnung oder nach § 57, § 58 oder § 59 des Anerkennungs- und Vollstreckungsausführungsgesetzes schuldet die Kosten der Antragsteller.
 
-(4) Im erstinstanzlichen Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz ist Absatz 1 nicht anzuwenden. Die Kosten für die Anmeldung eines Anspruchs zum Musterverfahren schuldet der Anmelder. Im Verfahren über die Rechtsbeschwerde nach § 20 des Kapitalanleger-Musterverfahrensgesetzes schuldet neben dem Rechtsbeschwerdeführer auch der Beteiligte, der dem Rechtsbeschwerdeverfahren auf Seiten des Rechtsbeschwerdeführers beigetreten ist, die Kosten.
+(4) Im erstinstanzlichen Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz ist Absatz 1 nicht anzuwenden. Die Kosten für die Anmeldung eines Anspruchs zum Musterverfahren schuldet der Anmelder. Im Verfahren über die Rechtsbeschwerde nach § 23 des Kapitalanleger-Musterverfahrensgesetzes schuldet neben dem Rechtsbeschwerdeführer auch der Beteiligte, der dem Rechtsbeschwerdeverfahren auf Seiten des Rechtsbeschwerdeführers beigetreten ist, die Kosten.
 
 # § 23 – Insolvenzverfahren
 
@@ -982,9 +982,9 @@ In Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz bestimmt sich 
 
 # § 51a – Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz
 
-(1) Für die Anmeldung eines Anspruchs zum Musterverfahren (§ 10 Absatz 2 des Kapitalanleger-Musterverfahrensgesetzes) bestimmt sich der Wert nach der Höhe des Anspruchs.
+(1) Für die Anmeldung eines Anspruchs zum Musterverfahren (§ 13 des Kapitalanleger-Musterverfahrensgesetzes) bestimmt sich der Wert nach der Höhe des Anspruchs.
 
-(2) Im Rechtsbeschwerdeverfahren ist bei der Bestimmung des Streitwerts von der Summe der in sämtlichen nach § 8 des Kapitalanleger-Musterverfahrensgesetzes ausgesetzten Verfahren geltend gemachten Ansprüche auszugehen, soweit diese von den Feststellungszielen des Musterverfahrens betroffen sind.
+(2) Im Rechtsbeschwerdeverfahren ist bei der Bestimmung des Streitwerts von der Summe der in sämtlichen nach § 10 des Kapitalanleger-Musterverfahrensgesetzes ausgesetzten Verfahren geltend gemachten Ansprüche auszugehen, soweit diese von den Feststellungszielen des Musterverfahrens betroffen sind.
 
 (3) Der Musterkläger und die Beigeladenen schulden im Rechtsbeschwerdeverfahren Gerichtsgebühren jeweils nur nach dem Wert, der sich aus den von ihnen im Ausgangsverfahren geltend gemachten Ansprüchen, die von den Feststellungszielen des Musterverfahrens betroffen sind, ergibt.
 

@@ -63,6 +63,8 @@
 
 (2) Kleine Unternehmen gelten als Verbraucher im Sinne dieses Gesetzes. Kleine Unternehmen sind solche, die weniger als 10 Personen beschäftigen und deren Jahresumsatz oder Jahresbilanz 2 Millionen Euro nicht übersteigt.
 
+(3) Der Zulässigkeit einer Verbandsklage nach diesem Gesetz steht nicht entgegen, dass wegen desselben Lebenssachverhalts ein Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz eröffnet worden ist.
+
 # § 2 – Klageberechtigte Stellen
 
 (1) Klageberechtigte Stellen für Verbandsklagen sind

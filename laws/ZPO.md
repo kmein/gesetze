@@ -191,7 +191,7 @@ Ausschließlicher Gerichtsstand der Umwelteinwirkung
 
 § 32b
 
-Ausschließlicher Gerichtsstand bei falschen, irreführenden oder unterlassenen öffentlichen Kapitalmarktinformationen
+Ausschließlicher Gerichtsstand bei musterverfahrensfähigen Ansprüchen
 
 § 33
 
@@ -5279,17 +5279,15 @@ Für Klagen aus unerlaubten Handlungen ist das Gericht zuständig, in dessen Bez
 
 Für Klagen gegen den Inhaber einer im Anhang 1 des Umwelthaftungsgesetzes genannten Anlage, mit denen der Ersatz eines durch eine Umwelteinwirkung verursachten Schadens geltend gemacht wird, ist das Gericht ausschließlich zuständig, in dessen Bezirk die Umwelteinwirkung von der Anlage ausgegangen ist. Dies gilt nicht, wenn die Anlage im Ausland belegen ist.
 
-# § 32b – Ausschließlicher Gerichtsstand bei falschen, irreführenden oder unterlassenen öffentlichen Kapitalmarktinformationen
+# § 32b – Ausschließlicher Gerichtsstand bei musterverfahrensfähigen Ansprüchen
 
-(1) Für Klagen, in denen
+(1) Für Klagen, in denen ein in § 1 Absatz 1 des Kapitalanleger-Musterverfahrensgesetzes genannter Anspruch geltend gemacht wird, ist das folgende Gericht ausschließlich zuständig:
 
-1. ein Schadensersatzanspruch wegen falscher, irreführender oder unterlassener öffentlicher Kapitalmarktinformation,
+1. in den Fällen des § 1 Absatz 1 Nummer 1 und 2 des Kapitalanleger-Musterverfahrensgesetzes das Gericht am inländischen Sitz des betroffenen Emittenten oder des betroffenen Anbieters von sonstigen Vermögensanlagen,
 
-2. ein Schadensersatzanspruch wegen Verwendung einer falschen oder irreführenden öffentlichen Kapitalmarktinformation oder wegen Unterlassung der gebotenen Aufklärung darüber, dass eine öffentliche Kapitalmarktinformation falsch oder irreführend ist, oder
+2. in den Fällen des § 1 Absatz 1 Nummer 3 des Kapitalanleger-Musterverfahrensgesetzes das Gericht am inländischen Sitz der Zielgesellschaft und
 
-3. ein Erfüllungsanspruch aus Vertrag, der auf einem Angebot nach dem Wertpapiererwerbs- und Übernahmegesetz beruht,
-
-geltend gemacht wird, ist das Gericht ausschließlich am Sitz des betroffenen Emittenten, des betroffenen Anbieters von sonstigen Vermögensanlagen oder der Zielgesellschaft zuständig, wenn sich dieser Sitz im Inland befindet und die Klage zumindest auch gegen den Emittenten, den Anbieter oder die Zielgesellschaft gerichtet wird.
+3. in den Fällen des § 1 Absatz 1 Nummer 4 des Kapitalanleger-Musterverfahrensgesetzes das Gericht am inländischen Sitz des betroffenen Anbieters von Kryptowerte-Dienstleistungen.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die in Absatz 1 genannten Klagen einem Landgericht für die Bezirke mehrerer Landgerichte zuzuweisen, sofern dies der sachlichen Förderung oder schnelleren Erledigung der Verfahren dienlich ist. Die Landesregierungen können diese Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
