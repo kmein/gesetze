@@ -81,7 +81,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 2. bei den Prüfungen im Studium das Prüfungsamt der Hochschule und
 
-3. bei den Prüfungen in den Praxismodulen die Ausbildungsstelle im Einvernehmen mit dem Prüfungsamt der Hochschule.
+3. bei den Prüfungen in den Praxismodulen das Prüfungsamt der Hochschule im Benehmen mit der Ausbildungsstelle.
 
 # § 6 – Erholungsurlaub
 
@@ -273,7 +273,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (2) Die Module sind thematisch in sich abgeschlossen. Sie können interdisziplinär ausgestaltet werden. Sie enthalten ein Studienfach oder mehrere Studienfächer.
 
-(3) Die Module unterteilen sich in 20 Fachmodule und vier Praxismodule. Die Fachmodule sind unterteilt in Pflichtmodule und Wahlpflichtmodule. In den Wahlpflichtmodulen können die Studierenden zwischen verschiedenen Studienfächern oder Studienfachkombinationen wählen.
+(3) Die Module unterteilen sich in 20 Fachmodule und vier Praxismodule. Die Fachmodule und die Praxismodule sind jeweils unterteilt in Pflichtmodule und Wahlpflichtmodule. In den Wahlpflichtmodulen können die Studierenden zwischen verschiedenen Studienfächern oder Studienfachkombinationen wählen.
 
 # § 22 – Verteilung und Inhalt der Module
 
@@ -413,7 +413,8 @@ Wissenschaftliches Arbeiten
 
 Praxismodul I
 
-Praxismodul
+Praxismodul  
+Pflichtmodul
 
 Infrastruktur, Umweltschutz und Dienstleistung
 
@@ -421,7 +422,8 @@ Infrastruktur, Umweltschutz und Dienstleistung
 
 Praxismodul II
 
-Praxismodul
+Praxismodul  
+Pflichtmodul
 
 Personal
 
@@ -478,7 +480,8 @@ Recht I: Berufsförderung oder Soziales Entschädigungsrecht
 
 Praxismodul III
 
-Praxismodul
+Praxismodul  
+Wahlpflichtmodul
 
 Bundesoberbehörden
 
@@ -486,7 +489,8 @@ Bundesoberbehörden
 
 Praxismodul IV
 
-Praxismodul
+Praxismodul  
+Wahlpflichtmodul
 
 Englisch in der Bundeswehr
 
@@ -518,7 +522,7 @@ Modul 17
 Fachmodul:  
 Wahlpflichtmodul
 
-Recht III: Straf- und Staatsrecht oder Umweltschutz- und Verwaltungsrecht
+Recht III: Straf- und Staatsrecht oder Umweltschutz- und Verwaltungsrecht oder Steuerrecht und Steuerlehre
 
 24
 
@@ -537,6 +541,16 @@ Fachmodul:
 Wahlpflichtmodul
 
 Die Bundeswehr als internationaler Partner
+
+26
+
+Modul 20  
+(zweiter Teil)
+
+Fachmodul:  
+Pflichtmodul
+
+Abschlussarbeit
 
 (2) Die Hochschule legt die Studieninhalte der Module und den Studienablauf in einem Modulhandbuch fest. Die Module 1 bis 8 enthalten die Studieninhalte des gemeinsamen Grundstudiums an der Hochschule.
 
@@ -735,7 +749,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Wenn eine Prüfungsleistung von zwei Prüfenden bewertet wird oder wenn die Bewertungen mehrerer Prüfungsleistungen zu einer Bewertung zusammengefasst werden, wird als Bewertung eine Rangpunktzahl berechnet.
 
-(4) Bei zwei Prüfenden ist die Rangpunktzahl das arithmetische Mittel aus den beiden Bewertungen.
+(4) Bei zwei Prüfenden ist die Rangpunktzahl das arithmetische Mittel aus den beiden Bewertungen. Die berechnete Rangpunktzahl wird kaufmännisch auf eine ganze Zahl gerundet.
 
 # § 30 – Module mit Modulprüfungen
 
@@ -972,7 +986,7 @@ Mindestens eine Prüfende oder ein Prüfender soll hauptamtlich Lehrende oder ha
 
 # § 43 – Freistellung und Betreuung bei der Bachelorthesis
 
-(1) Zur Anfertigung der Bachelorthesis werden die Studierenden für die letzten vier Wochen des fünften Semesters von der Anwesenheitspflicht und vom Dienst freigestellt. Die weitere Anfertigung der Bachelorthesis erfolgt studienbegleitend in den ersten acht Wochen des sechsten Semesters.
+(1) Zur Anfertigung der Bachelorthesis werden die Studierenden für die letzten vier Wochen des fünften Semesters von der Anwesenheitspflicht und vom Dienst freigestellt. Die weitere Anfertigung der Bachelorthesis erfolgt studienbegleitend zu Beginn des sechsten Semesters.
 
 (2) Während der Anfertigung der Bachelorthesis wird die oder der Studierende von der oder dem Erstprüfenden betreut.
 
@@ -1118,9 +1132,9 @@ Die Rangpunktzahl der Abschlussarbeit wird kaufmännisch auf eine ganze Zahl ger
 
 Die berechnete Rangpunktzahl der Bachelorprüfung wird kaufmännisch auf eine ganze Zahl gerundet.
 
-(3) Die Rangpunktzahl der Fachmodule wird aus den einzelnen Gesamtbewertungen der Module 2 bis 19 berechnet. In diese Rangpunktzahl geht die Gesamtbewertung eines Moduls mit der Gewichtung ein, die den in diesem Modul vergebenen ECTS-Leistungspunkten entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf eine ganze Zahl gerundet.
+(3) Die Rangpunktzahl der Fachmodule wird aus den einzelnen Gesamtbewertungen der Module 2 bis 19 berechnet. In diese Rangpunktzahl geht die Gesamtbewertung eines Moduls mit der Gewichtung ein, die den in diesem Modul vergebenen ECTS-Leistungspunkten entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf die zweite Stelle nach dem Komma gerundet.
 
-(4) Die Rangpunktzahl der Praxismodule wird aus den einzelnen Gesamtbewertungen der Praxismodule berechnet. In diese Rangpunktzahl geht die Gesamtbewertung eines Praxismoduls mit der Gewichtung ein, die den in diesem Praxismodul vergebenen ECTS-Leistungspunkten entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf eine ganze Zahl gerundet.
+(4) Die Rangpunktzahl der Praxismodule wird aus den einzelnen Gesamtbewertungen der Praxismodule berechnet. In diese Rangpunktzahl geht die Gesamtbewertung eines Praxismoduls mit der Gewichtung ein, die den in diesem Praxismodul vergebenen ECTS-Leistungspunkten entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf die zweite Stelle nach dem Komma gerundet.
 
 (5) Der gerundeten Rangpunktzahl der Bachelorprüfung wird die entsprechende Note als Abschlussnote zugeordnet.
 
@@ -1184,7 +1198,7 @@ Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
 
 (3) Wird die Verhinderung genehmigt, so gilt die Prüfungsleistung vorbehaltlich des Absatzes 4 als nicht begonnen. Das Prüfungsamt bestimmt, zu welchem Zeitpunkt die Prüfungsleistung nachgeholt wird.
 
-(4) Wird die Verhinderung bei der Anfertigung der Bearbeitung der Bachelorthesis oder einer anderen Prüfungsleistung, für die eine Bearbeitungszeit von mindestens zwei Tagen vorgesehen ist, genehmigt, so verlängert das Prüfungsamt die Bearbeitungszeit um die Dauer der Verhinderung. Die Verlängerung darf jedoch die Hälfte der vorgesehenen Bearbeitungszeit nicht überschreiten. Überschreitet die Verhinderung die Hälfte der Bearbeitungszeit, so gilt die Prüfungsleistung als nicht begonnen. Es wird ein anderes Thema für die jeweilige Prüfungsleistung festgelegt.
+(4) Wird die Verhinderung bei der Anfertigung der Bachelorthesis oder einer anderen Prüfungsleistung, für die eine Bearbeitungszeit von mindestens zwei Tagen vorgesehen ist, genehmigt, so verlängert das Prüfungsamt die Bearbeitungszeit um die Dauer der Verhinderung. Die Verlängerung darf jedoch die Hälfte der vorgesehenen Bearbeitungszeit nicht überschreiten. Überschreitet die Verhinderung die Hälfte der Bearbeitungszeit, so gilt die Prüfungsleistung als nicht begonnen. Es wird ein anderes Thema für die jeweilige Prüfungsleistung festgelegt.
 
 (5) Wird die Verhinderung nicht genehmigt, so gilt die Zeit der Verhinderung als Bearbeitungszeit. Wird in diesem Fall gar keine Prüfungsleistung erbracht, so gilt die Prüfungsleistung als mit null Rangpunkten bewertet.
 
@@ -1224,21 +1238,11 @@ Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
 
 (2) Die Prüfungsakten sind nach Beendigung des Studiums mindestens fünf und höchstens zehn Jahre aufzubewahren.
 
-(3) Nach Abschluss jeder Modulprüfung können die Betroffenen nach Antrag Einsicht in ihre Prüfungsakte nehmen. Die Gutachten zur Bachelorthesis dürfen erst nach der Verteidigung der Bachelorthesis eingesehen werden. Die Einsichtnahme ist in der Akte zu vermerken.
+(3) Nach Abschluss jeder Modulprüfung können die Betroffenen nach Antrag Einsicht in ihre Prüfungsakte nehmen. Die Gutachten zur Bachelorthesis dürfen vor der Verteidigung der Bachelorthesis eingesehen werden. Die Einsichtnahme ist in der Akte zu vermerken.
 
 # § 60 – Anerkennung von Studien- und Prüfungsleistungen
 
-(1) Auf Antrag werden folgende Leistungen anerkannt:
-
-1. Studien- und Prüfungsleistungen aus anderen Studiengängen sowie
-
-2. Prüfungsleistungen, die erfolgreich abgelegt worden sind
-
-a) vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder
-
-b) vor einem staatlichen Prüfungsausschuss.
-
-Voraussetzung für die Anerkennung ist, dass die Leistungen gleichwertig sind mit den Leistungen, die im Studiengang „Bachelor of Public Administration“ zu erbringen sind.
+(1) Auf Antrag werden Studien- und Prüfungsleistungen, die an anderen staatlichen oder staatlich anerkannten Hochschulen oder Berufsakademien erbracht worden sind, anerkannt, wenn hinsichtlich der erworbenen Kompetenzen kein wesentlicher Unterschied zu den Studien- und Prüfungsleistungen besteht, die im Studiengang „Bachelor of Public Administration“ ersetzt werden.
 
 (2) Über die Anerkennung entscheidet das Prüfungsamt der Hochschule.
 

@@ -189,7 +189,7 @@ Eine Gebührentabelle für Gegenstandswerte bis 500 000 Euro ist diesem Gesetz 
 
 (4) Auf bereits entstandene Gebühren ist es, soweit dieses Gesetz nichts anderes bestimmt, ohne Einfluss, wenn sich die Angelegenheit vorzeitig erledigt oder der Auftrag endigt, bevor die Angelegenheit erledigt ist.
 
-(5) Wird der Rechtsanwalt, nachdem er in einer Angelegenheit tätig geworden ist, beauftragt, in derselben Angelegenheit weiter tätig zu werden, erhält er nicht mehr an Gebühren, als er erhalten würde, wenn er von vornherein hiermit beauftragt worden wäre. Ist der frühere Auftrag seit mehr als zwei Kalenderjahren erledigt, gilt die weitere Tätigkeit als neue Angelegenheit und in diesem Gesetz bestimmte Anrechnungen von Gebühren entfallen. Satz 2 gilt entsprechend, wenn ein Vergleich mehr als zwei Kalenderjahre nach seinem Abschluss angefochten wird oder wenn mehr als zwei Kalenderjahre nach Zustellung eines Beschlusses nach § 23 Absatz 3 Satz 1 des Kapitalanleger-Musterverfahrensgesetzes der Kläger einen Antrag nach § 23 Absatz 4 des Kapitalanleger-Musterverfahrensgesetzes auf Wiedereröffnung des Verfahrens stellt.
+(5) Wird der Rechtsanwalt, nachdem er in einer Angelegenheit tätig geworden ist, beauftragt, in derselben Angelegenheit weiter tätig zu werden, erhält er nicht mehr an Gebühren, als er erhalten würde, wenn er von vornherein hiermit beauftragt worden wäre. Ist der frühere Auftrag seit mehr als zwei Kalenderjahren erledigt, gilt die weitere Tätigkeit als neue Angelegenheit und in diesem Gesetz bestimmte Anrechnungen von Gebühren entfallen. Satz 2 gilt entsprechend, wenn ein Vergleich mehr als zwei Kalenderjahre nach seinem Abschluss angefochten wird oder wenn mehr als zwei Kalenderjahre nach Zustellung eines Beschlusses nach § 26 Absatz 3 Satz 1 des Kapitalanleger-Musterverfahrensgesetzes der Kläger einen Antrag nach § 26 Absatz 4 des Kapitalanleger-Musterverfahrensgesetzes auf Wiedereröffnung des Verfahrens stellt.
 
 (6) Ist der Rechtsanwalt nur mit einzelnen Handlungen oder mit Tätigkeiten, die nach § 19 zum Rechtszug oder zum Verfahren gehören, beauftragt, erhält er nicht mehr an Gebühren als der mit der gesamten Angelegenheit beauftragte Rechtsanwalt für die gleiche Tätigkeit erhalten würde.
 
@@ -631,11 +631,11 @@ Der Rechtsanwalt, der nach § 57 oder § 58 der Zivilprozessordnung, § 118e der
 
 # § 41a – Vertreter des Musterklägers
 
-(1) Für das erstinstanzliche Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz kann das Oberlandesgericht dem Rechtsanwalt, der den Musterkläger vertritt, auf Antrag eine besondere Gebühr bewilligen, wenn sein Aufwand im Vergleich zu dem Aufwand der Vertreter der beigeladenen Kläger höher ist. Bei der Bemessung der Gebühr sind der Mehraufwand sowie der Vorteil und die Bedeutung für die beigeladenen Kläger zu berücksichtigen. Die Gebühr darf eine Gebühr mit einem Gebührensatz von 0,3 nach § 13 Absatz 1 nicht überschreiten. Hierbei ist als Wert die Summe der in sämtlichen nach § 8 des Kapitalanleger-Musterverfahrensgesetzes ausgesetzten Verfahren geltend gemachten Ansprüche zugrunde zu legen, soweit diese Ansprüche von den Feststellungszielen des Musterverfahrens betroffen sind, höchstens jedoch 30 Millionen Euro. Der Vergütungsanspruch gegen den Auftraggeber bleibt unberührt.
+(1) Für das erstinstanzliche Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz kann das Oberlandesgericht dem Rechtsanwalt, der den Musterkläger vertritt, auf Antrag eine besondere Gebühr bewilligen, wenn sein Aufwand im Vergleich zu dem Aufwand der Vertreter der beigeladenen Kläger höher ist. Bei der Bemessung der Gebühr sind der Mehraufwand sowie der Vorteil und die Bedeutung für die beigeladenen Kläger zu berücksichtigen. Die Gebühr darf eine Gebühr mit einem Gebührensatz von 0,3 nach § 13 Absatz 1 nicht überschreiten. Hierbei ist als Wert die Summe der in sämtlichen nach § 10 des Kapitalanleger-Musterverfahrensgesetzes ausgesetzten Verfahren geltend gemachten Ansprüche zugrunde zu legen, soweit diese Ansprüche von den Feststellungszielen des Musterverfahrens betroffen sind, höchstens jedoch 30 Millionen Euro. Der Vergütungsanspruch gegen den Auftraggeber bleibt unberührt.
 
-(2) Der Antrag ist spätestens vor dem Schluss der mündlichen Verhandlung zu stellen. Der Antrag und ergänzende Schriftsätze werden entsprechend § 12 Absatz 2 des Kapitalanleger-Musterverfahrensgesetzes bekannt gegeben. Mit der Bekanntmachung ist eine Frist zur Erklärung zu setzen. Die Landeskasse ist nicht zu hören.
+(2) Der Antrag ist spätestens vor dem Schluss der mündlichen Verhandlung zu stellen. Der Antrag und ergänzende Schriftsätze werden entsprechend § 16 Absatz 2 des Kapitalanleger-Musterverfahrensgesetzes bekannt gegeben. Mit der Bekanntmachung ist eine Frist zur Erklärung zu setzen. Die Landeskasse ist nicht zu hören.
 
-(3) Die Entscheidung kann mit dem Musterentscheid getroffen werden. Die Entscheidung ist dem Musterkläger, den Musterbeklagten, den Beigeladenen sowie dem Rechtsanwalt mitzuteilen. § 16 Absatz 1 Satz 2 des Kapitalanleger-Musterverfahrensgesetzes ist entsprechend anzuwenden. Die Mitteilung kann durch öffentliche Bekanntmachung ersetzt werden, § 11 Absatz 2 Satz 2 des Kapitalanleger-Musterverfahrensgesetzes ist entsprechend anzuwenden. Die Entscheidung ist unanfechtbar.
+(3) Die Entscheidung kann mit dem Musterentscheid getroffen werden. Die Entscheidung ist dem Musterkläger, den Musterbeklagten, den Beigeladenen sowie dem Rechtsanwalt mitzuteilen. Die Mitteilung kann durch öffentliche Bekanntmachung im Musterverfahrensregister ersetzt werden. Die Entscheidung ist unanfechtbar.
 
 (4) Die Gebühr ist einschließlich der anfallenden Umsatzsteuer aus der Landeskasse zu zahlen. Ein Vorschuss kann nicht gefordert werden.
 
@@ -2133,7 +2133,7 @@ Dieser Unterabschnitt ist auch anzuwenden in Verfahren
 
 a) in den in der Vorbemerkung 3.2.1 Nr. 2 genannten Fällen,
 
-b) nach § 20 KapMuG und
+b) nach § 23 KapMuG und
 
 c) nach § 1065 ZPO,
 
@@ -2647,7 +2647,7 @@ Eine vorzeitige Beendigung liegt vor,
 
 3338
 
-Verfahrensgebühr für die Tätigkeit als Vertreter des Anmelders eines Anspruchs zum Musterverfahren (§ 10 Abs. 2 KapMuG) ..........
+Verfahrensgebühr für die Tätigkeit als Vertreter des Anmelders eines Anspruchs zum Musterverfahren (§ 13 KapMuG) ..........
 
 0,8
 
