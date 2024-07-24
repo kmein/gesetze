@@ -5820,7 +5820,7 @@ Hat ein Nutzer eine grenzüberschreitende Steuergestaltung im Sinne des § 138d 
 
 6. Doktorgrad,
 
-7. (weggefallen),
+7. amtlicher Gemeindeschlüssel,
 
 8. Tag und Ort der Geburt,
 
@@ -5856,7 +5856,7 @@ Hat ein Nutzer eine grenzüberschreitende Steuergestaltung im Sinne des § 138d 
 
 Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur Ermittlung des Einkommens nach § 97a des Sechsten Buches Sozialgesetzbuch gespeichert und können von den Trägern der gesetzlichen Rentenversicherung zu diesem Zweck verarbeitet werden. Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zum Nachweis der Elterneigenschaft sowie zur Ermittlung der Anzahl der berücksichtigungsfähigen Kinder des beitragspflichtigen Mitglieds für die Beitragssatzermittlung nach § 55 Absatz 3 und 3a des Elften Buches Sozialgesetzbuch gespeichert und können von den beitragsabführenden Stellen und den Pflegekassen zu diesem Zweck verarbeitet werden. Die Regelungen des Identifikationsnummerngesetzes bleiben unberührt.
 
-(4a) Die in Absatz 3 Nummer 3 bis 6, 8 und 10 aufgeführten Daten werden bei einer natürlichen Person, die ein Nutzerkonto im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes nutzt, auch zum Nachweis der Identität als Nutzer dieses Nutzerkontos gespeichert; diese Daten dürfen elektronisch an das Nutzerkonto übermittelt werden, wenn der Nutzer zuvor in die Übermittlung eingewilligt hat.
+(4a) Die in Absatz 3 Nummer 3 bis 8 und 10 aufgeführten Daten werden bei einer natürlichen Person, die ein Nutzerkonto im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes nutzt, auch zum Nachweis der Identität als Nutzer dieses Nutzerkontos gespeichert; diese Daten dürfen auf Veranlassung des Nutzers eines Nutzerkontos elektronisch an das Nutzerkonto übermittelt werden.
 
 (4b) Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden bei einer natürlichen Person auch für Zwecke der Digitalen Rentenübersicht gespeichert.
 
@@ -5874,7 +5874,7 @@ Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur Ermittlung de
 
 4. Doktorgrad,
 
-5. (weggefallen),
+5. amtlicher Gemeindeschlüssel,
 
 6. Tag und Ort der Geburt,
 
@@ -5940,7 +5940,7 @@ Für natürliche Personen, die das 18. Lebensjahr noch nicht vollendet haben und
 
 8. Anschrift des Unternehmens, Firmensitz,
 
-9. Handelsregistereintrag (Registergericht, Datum und Nummer der Eintragung),
+9. Handelsregistereintrag (Registergericht einschließlich Altgericht, Datum und Nummer der Eintragung),
 
 10. Datum der Betriebseröffnung oder Zeitpunkt der Aufnahme der Tätigkeit,
 
@@ -5972,7 +5972,7 @@ Für natürliche Personen, die das 18. Lebensjahr noch nicht vollendet haben und
 
 9. Datum des Gründungsaktes,
 
-10. Handels-, Genossenschafts- oder Vereinsregistereintrag (Registergericht, Datum und Nummer der Eintragung),
+10. Handels-, Genossenschafts- oder Vereinsregistereintrag (Registergericht einschließlich Altgericht, Datum und Nummer der Eintragung),
 
 11. Datum der Betriebseröffnung oder Zeitpunkt der Aufnahme der Tätigkeit,
 
@@ -6010,7 +6010,7 @@ Für natürliche Personen, die das 18. Lebensjahr noch nicht vollendet haben und
 
 10. Datum des Gesellschaftsvertrags,
 
-11. Eintrag im Handels-, Partnerschafts- oder Gesellschaftsregister (Registergericht, Datum und Nummer der Eintragung),
+11. Eintrag im Handels-, Partnerschafts- oder Gesellschaftsregister (Registergericht einschließlich Altgericht, Datum und Nummer der Eintragung),
 
 12. Datum der Betriebseröffnung oder Zeitpunkt der Aufnahme der Tätigkeit,
 
@@ -6068,7 +6068,7 @@ Für natürliche Personen, die das 18. Lebensjahr noch nicht vollendet haben und
 
 5. den Finanzbehörden die Erfüllung der ihnen durch Rechtsvorschrift zugewiesenen Aufgaben zu ermöglichen.
 
-(6a) Die in Absatz 4 Nummer 3, 5, 8 und 10 aufgeführten Daten und die in Absatz 5 Nummer 4, 6, 9 und 11 aufgeführten Daten werden bei einer juristischen Person oder bei einer rechtsfähigen Personengesellschaft, die ein Nutzerkonto im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes nutzt, auch zum Nachweis der Identität als Nutzer dieses Nutzerkontos gespeichert; diese Daten dürfen elektronisch an das Nutzerkonto übermittelt werden, wenn der Nutzer zuvor in die Übermittlung eingewilligt hat.
+(6a) Die in Absatz 3 Nummer 1, 3, 5, 7, 8 und 9, in Absatz 4 Nummer 1, 3, 5, 7, 8 und 10 sowie in Absatz 5 Nummer 1, 4, 6, 8, 9 und 11 aufgeführten Daten werden bei einem Unternehmen im Sinne des Unternehmensbasisdatenregistergesetzes, das ein Nutzerkonto im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes nutzt, auch zum Nachweis der Identität als Nutzer dieses Nutzerkontos gespeichert; diese Daten dürfen auf Veranlassung des Nutzers eines Nutzerkontos elektronisch an das Nutzerkonto übermittelt werden.
 
 (7) Die in Absatz 3 aufgeführten Daten dürfen nur für die in Absatz 6 genannten Zwecke verarbeitet werden, es sei denn, eine Rechtsvorschrift sieht eine andere Verarbeitung ausdrücklich vor.
 

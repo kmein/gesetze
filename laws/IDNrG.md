@@ -109,7 +109,9 @@ Die Verarbeitung der Identifikationsnummer nach diesem Gesetz durch öffentliche
 
 1. Enthält das Datenabrufersuchen mindestens den Familiennamen, den Wohnort, die Postleitzahl sowie das Geburtsdatum der betroffenen Person, übermittelt die Registermodernisierungsbehörde der ersuchenden Stelle die Identifikationsnummer sowie die weiteren zur betroffenen Person gespeicherten Daten nach § 4 Absatz 2 und 3, soweit sie zur Erfüllung der Aufgaben der ersuchenden Stelle erforderlich sind.
 
-2. Enthält das Datenabrufersuchen mindestens die Identifikationsnummer und das Geburtsdatum der betroffenen Person, übermittelt die Registermodernisierungsbehörde der ersuchenden Stelle die übrigen zur Person gespeicherten Daten nach § 4 Absatz 2 und 3, soweit sie zur Erfüllung der Aufgaben der ersuchenden Stelle erforderlich sind.
+2. Sofern ein Datenabrufersuchen nach Nummer 1 nicht veranlasst werden kann, weil Wohnort und Postleitzahl nicht vorliegen, kann ein Datenabrufersuchen durchgeführt werden, wenn das Datenabrufersuchen mindestens den Familiennamen, den Vornamen und das Geburtsdatum enthält.
+
+3. Enthält das Datenabrufersuchen mindestens die Identifikationsnummer und das Geburtsdatum der betroffenen Person, übermittelt die Registermodernisierungsbehörde der ersuchenden Stelle die übrigen zur Person gespeicherten Daten nach § 4 Absatz 2 und 3, soweit sie zur Erfüllung der Aufgaben der ersuchenden Stelle erforderlich sind.
 
 (4) Daten dürfen von der Registermodernisierungsbehörde den ersuchenden Stellen nur übermittelt werden, wenn sichergestellt ist, dass die Voraussetzung zum Datenabruf vorliegt. Das Datenabrufersuchen darf keine Daten enthalten, die nicht in § 4 Absatz 2 bezeichnet sind. Ist eine eindeutige Identifizierung der betroffenen Person nicht möglich, teilt die Registermodernisierungsbehörde dies der ersuchenden Stelle mit und übermittelt keine Daten nach § 4 Absatz 2 und 3.
 

@@ -551,6 +551,10 @@ Zweckbindung sowie Speicherung, Veränderung und Nutzung von Sozialdaten zu ande
 
 Erhebung und Übermittlung zur Bekämpfung von Leistungsmissbrauch und illegaler Ausländerbeschäftigung
 
+§ 67f
+
+Erhebung und Übermittlung von Sozialdaten zur Nachweiserbringung
+
 § 68
 
 Übermittlung für Aufgaben der Polizeibehörden, der Staatsanwaltschaften, Gerichte und der Behörden der Gefahrenabwehr
@@ -594,6 +598,10 @@ Einschränkung der Übermittlungsbefugnis bei besonders schutzwürdigen Sozialda
 § 77
 
 Übermittlung ins Ausland und an internationale Organisationen
+
+§ 77a
+
+Grenzüberschreitende Nachweisabrufe
 
 § 78
 
@@ -1786,7 +1794,7 @@ als Vollstreckungsbeamte und sonstige hierfür fachlich geeignete Bedienstete de
 
 (1) Die Erhebung von Sozialdaten durch die in § 35 des Ersten Buches genannten Stellen ist zulässig, wenn ihre Kenntnis zur Erfüllung einer Aufgabe der erhebenden Stelle nach diesem Gesetzbuch erforderlich ist. Dies gilt auch für die Erhebung der besonderen Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
 
-(2) Sozialdaten sind bei der betroffenen Person zu erheben. Ohne ihre Mitwirkung dürfen sie nur erhoben werden
+(2) Sozialdaten sind bei der betroffenen Person zu erheben. Als Erhebung nach Satz 1 gilt auch die Entscheidung der betroffenen Person nach § 67f Absatz 1 Satz 1 Nummer 1 in Verbindung mit Absatz 4 Satz 2 oder ein ausdrückliches Ersuchen im Anwendungsbereich des § 77a. Ohne ihre Mitwirkung dürfen sie nur erhoben werden
 
 1. bei den in § 35 des Ersten Buches oder in § 69 Absatz 2 genannten Stellen, wenn
 
@@ -1853,6 +1861,30 @@ Bei der Prüfung nach § 2 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 2
 4. ob und welche ausländischen Arbeitnehmerinnen und Arbeitnehmer sie mit einer für ihre Tätigkeit erforderlichen Genehmigung und nicht zu ungünstigeren Arbeitsbedingungen als vergleichbare deutsche Arbeitnehmerinnen und Arbeitnehmer beschäftigt.
 
 Zu Prüfzwecken dürfen die Antworten auf Fragen nach Satz 1 Nummer 1 an den jeweils zuständigen Leistungsträger und nach Satz 1 Nummer 2 bis 4 an die jeweils zuständige Einzugsstelle und die Bundesagentur für Arbeit übermittelt werden. Der Empfänger hat die Prüfung unverzüglich durchzuführen.
+
+# § 67f – Erhebung und Übermittlung von Sozialdaten zur Nachweiserbringung
+
+(1) Wird ein Verwaltungsverfahren elektronisch durchgeführt, ist die Erhebung von Sozialdaten zulässig, wenn nach Wahl der betroffenen Person
+
+1. die nachweisanfordernde Stelle den jeweiligen Nachweis automatisiert bei der nachweisliefernden Stelle abruft, sofern der jeweils erforderliche Nachweis elektronisch vorliegt und ohne zeitlichen Verzug automatisiert abgerufen werden kann, oder
+
+2. die betroffene Person den jeweiligen Nachweis elektronisch einreicht.
+
+Nachweise sind Unterlagen und Daten jeder Art unabhängig vom verwendeten Medium, die zur Ermittlung des Sachverhalts geeignet sind. Nachweisanfordernde Stelle kann die für die Entscheidung zuständige Behörde oder eine andere öffentliche Stelle sein, die dafür zuständig ist, Nachweise einzuholen und an die für die Entscheidung zuständige Behörde weiterzuleiten. Nachweisliefernde Stelle ist diejenige öffentliche Stelle, die dafür zuständig ist, den Nachweis auszustellen.
+
+(2) Hat sich die betroffene Person für den automatisierten Nachweisabruf entschieden, darf die nachweisanfordernde Stelle den Nachweis der betroffenen Person bei der nachweisliefernden Stelle abrufen und die nachweisliefernde Stelle den Nachweis an die nachweisanfordernde Stelle übermitteln, wenn
+
+1. dies zur Erfüllung der Aufgabe der nachweisanfordernden Stelle erforderlich ist und
+
+2. die nachweisanfordernde Stelle den Nachweis auch auf Grund anderer Rechtsvorschriften bei der betroffenen Person erheben dürfte.
+
+Die in Absatz 1 Satz 3 zweite Alternative genannte andere öffentliche Stelle darf den Nachweis an die für die Entscheidung zuständige Stelle übermitteln. Die Datenübermittlungen zwischen öffentlichen Stellen nach diesem Absatz sind durch die jeweiligen Stellen in einer Weise zu protokollieren, die eine Kontrolle der Zulässigkeit von Datenabrufen technisch unterstützt. Die Pflicht nach Satz 3 gilt ab dem Tag, der dem Tag folgt, an dem das Bundesministerium des Innern und für Heimat im Bundesanzeiger bekannt gibt, dass die technischen und rechtlichen Voraussetzungen für eine Anzeige der Datenübermittlungen nach diesem Absatz im Datenschutzcockpit nach § 10 des Onlinezugangsgesetzes vorliegen. § 9 Absatz 2 und 3 des Identifikationsnummerngesetzes gilt ab diesem Zeitpunkt entsprechend.
+
+(3) Soll der Nachweis aus einem Register, welches in der Anlage zum Identifikationsnummerngesetz aufgeführt ist, abgerufen werden, darf die nachweisanfordernde Stelle die Identifikationsnummer nach § 1 des Identifikationsnummerngesetzes zur Zuordnung der Datensätze der betroffenen Person und zum Abruf des Nachweises an die nachweisliefernde Stelle übermitteln. Das Nachweisabrufersuchen darf zusätzlich weitere Daten im Sinne von § 4 Absatz 2 und 3 des Identifikationsnummerngesetzes, in der Regel das Geburtsdatum, zur Validierung der Zuordnung enthalten. Zu diesem Zweck darf die nachweisliefernde Stelle diese Daten verarbeiten.
+
+(4) Bevor die für die Entscheidung zuständige Behörde den abgerufenen Nachweis verwenden darf, hat die betroffene Person im Fall des Absatzes 1 Satz 1 Nummer 1 die Möglichkeit, den Nachweis vorab einzusehen. Die betroffene Person kann entscheiden, ob der Nachweis für das Verwaltungsverfahren verwendet werden soll.
+
+(5) Die Verantwortung für die Zulässigkeit der Nachweiserhebung und des Nachweisabrufs nach Absatz 1 Satz 1 Nummer 1 trägt die nachweisanfordernde Stelle.
 
 # § 68 – Übermittlung für Aufgaben der Polizeibehörden, der Staatsanwaltschaften, Gerichte und der Behörden der Gefahrenabwehr
 
@@ -2115,6 +2147,14 @@ und soweit die betroffene Person kein schutzwürdiges Interesse an dem Ausschlus
 (4) Die Stelle, an die die Sozialdaten übermittelt werden, ist auf den Zweck hinzuweisen, zu dessen Erfüllung die Sozialdaten übermittelt werden.
 
 (+++ § 77: Änderungsanweisungen durch Art. 38 Nr. 4 G v. 12.12.2019 I 2652 mWv 1.1.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++)
+
+# § 77a – Grenzüberschreitende Nachweisabrufe
+
+(1) Die zuständige Behörde darf bei einer Behörde eines anderen Mitgliedstaats der Europäischen Union einen Nachweis nach Artikel 14 Absatz 2 der Verordnung (EU) 2018/1724 des Europäischen Parlaments und des Rates vom 2. Oktober 2018 über die Einrichtung eines einheitlichen digitalen Zugangstors zu Informationen, Verfahren, Hilfs- und Problemlösungsdiensten und zur Änderung der Verordnung (EU) Nr. 1024/2012 (ABl. L 295 vom 21.11.2018, S. 1) automatisiert abrufen, wenn dies zur Erfüllung ihrer Aufgaben für eines der Verfahren nach Artikel 14 Absatz 1 der Verordnung (EU) 2018/1724 erforderlich ist.
+
+(2) Die automatisierte Übermittlung eines Nachweises nach Artikel 14 Absatz 2 der Verordnung (EU) 2018/1724 an eine Behörde eines anderen Mitgliedstaats der Europäischen Union ist zulässig, wenn diese Behörde zuständig ist und die Übermittlung zur Erfüllung ihrer Aufgaben für eines der Verfahren nach Artikel 14 Absatz 1 der Verordnung (EU) 2018/1724 erforderlich ist.
+
+(3) Bei der Verarbeitung nach den Absätzen 1 und 2 können intermediäre Plattformen zum Einsatz kommen.
 
 # § 78 – Zweckbindung und Geheimhaltungspflicht eines Dritten, an den Daten übermittelt werden
 

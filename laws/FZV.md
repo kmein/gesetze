@@ -810,7 +810,7 @@ Verfahren, die mit der beantragten Amtshandlung in Zusammenhang stehen, ohne hie
 
 (2) Bei einer natürlichen Person als Halter hat die Identifizierung zu erfolgen anhand
 
-1. eines Nutzerkontos nach § 3 Absatz 2 des Onlinezugangsgesetzes,
+1. eines Bürgerkontos im Sinne des § 3 Absatz 1 Satz 1 des Onlinezugangsgesetzes,
 
 2. eines elektronischen Identitätsnachweises nach
 
@@ -826,7 +826,7 @@ Die Zulassungsbehörde kann abweichend von Satz 1 zulassen, dass ein elektronisc
 
 (3) Bei einer juristischen Person, einer Behörde, einer Vereinigung, sofern ihr ein Recht zustehen kann, oder einem beruflich Selbstständigen als Halter, hat die Identifizierung zu erfolgen anhand
 
-1. eines Organisationskontos nach § 3 Absatz 2 des Onlinezugangsgesetzes oder
+1. eines Organisationskontos im Sinne des § 3 Absatz 2 in Verbindung mit Absatz 3 des Onlinezugangsgesetzes oder
 
 2. eines anderen elektronischen Identifizierungsmittels, welches nach Artikel 6 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) auf dem Vertrauensniveau „substantiell“ im Sinne des Artikels 8 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 910/2014 oder auf dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 notifiziert worden ist.
 
@@ -1152,7 +1152,7 @@ Liegt eine der Angaben nach Satz 3 nicht vor, darf ein vorläufiger Zulassungsna
 
 (1) Eine juristische Person des Privatrechts, die jährlich regelmäßig mehr als 500 Anträge im Sinne des § 33 Absatz 1 stellt und beim Kraftfahrt-Bundesamt einen elektronischen Antrag auf Registrierung als Großkunde stellt, ist vom Kraftfahrt-Bundesamt als Großkunde zu registrieren. Im Auftrag einer Zulassungsbehörde beteiligte Verfahrensanbieter dürfen sich nicht als Großkunden registrieren lassen.
 
-(2) Die juristische Person hat sich bei der elektronischen Antragstellung im Registrierungsverfahren anhand eines Organisationskontos nach § 3 Absatz 2 des Onlinezugangsgesetzes zu identifizieren. Dabei hat die Identifizierung des Inhabers des Nutzerkontos nach § 87a Absatz 6 der Abgabenordnung zu erfolgen. Abweichend von Satz 1 kann eine juristische Person des Privatrechts mit Sitz außerhalb der Bundesrepublik Deutschland, die keinen Zugang zu einem nach Satz 1 bezeichneten Nutzerkonto hat, die Registrierung beim Kraftfahrt-Bundesamt durch ein gesondertes Verfahren beantragen.
+(2) Die juristische Person hat sich bei der elektronischen Antragstellung im Registrierungsverfahren anhand eines Organisationskontos nach § 3 Absatz 2 in Verbindung mit Absatz 3 des Onlinezugangsgesetzes zu identifizieren. Dabei hat die Identifizierung des Inhabers des Organisationskontos nach § 87a Absatz 6 der Abgabenordnung zu erfolgen. Abweichend von Satz 1 kann eine juristische Person des Privatrechts mit Sitz außerhalb der Bundesrepublik Deutschland, die keinen Zugang zu einem nach Satz 1 bezeichneten Organisationskonto hat, die Registrierung beim Kraftfahrt-Bundesamt durch ein gesondertes Verfahren beantragen.
 
 (3) In dem Antrag auf Registrierung als Großkunde sind folgende Daten anzugeben:
 
@@ -1234,11 +1234,11 @@ Der Bescheid ist mit einem Widerrufsvorbehalt nach § 36 Absatz 2 Nummer 3 Verwa
 
 2. für einen Dritten als Halter.
 
-(3) Mit dem Antrag hat der Großkunde sein Einverständnis zu erklären, dass ihm die Entscheidung der Zulassungsbehörde dadurch bekanntgegeben werden kann, dass sie in einem Postfach eingeht, dass
+(3) Mit dem Antrag hat der Großkunde sein Einverständnis zu erklären, dass ihm die Entscheidung der Zulassungsbehörde dadurch bekanntgegeben werden kann, dass sie in einem Postfach eingeht, das
 
 1. beim Kraftfahrt-Bundesamt für ihn eingerichtet worden ist oder
 
-2. nach § 3 Absatz 2 des Onlinezugangsgesetzes besteht.
+2. nach § 3 Absatz 2 in Verbindung mit Absatz 3 des Onlinezugangsgesetzes besteht.
 
 (4) Bei einem Antrag nach Absatz 2 Satz 2 Nummer 2 ist, außer im Fall der Außerbetriebsetzung, eine Vollmacht nach den Vorgaben der Anlage 12 an die Großkundenschnittstelle zu übermitteln.
 

@@ -4337,7 +4337,7 @@
 - [OWiG](laws/OWiG.md) Gesetz über Ordnungswidrigkeiten
 - [OWiG§124V](laws/OWiG§124V.md) Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 124 des Gesetzes über Ordnungswidrigkeiten
 - [OZG](laws/OZG.md) Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen
-- [OZG§3Abs2S2V](laws/OZG§3Abs2S2V.md) Verordnung nach § 3 Absatz 2 Satz 2 des Onlinezugangsgesetzes
+- [OZG§3Abs2S2V](laws/OZG§3Abs2S2V.md) Verordnung nach § 3 Absatz 2 des Onlinezugangsgesetzes
 - [OzonSÜbk](laws/OzonSÜbk.md) Wiener Übereinkommen zum Schutz der Ozonschicht
 - [OzonSÜbkG](laws/OzonSÜbkG.md) Gesetz zu dem Übereinkommen vom 22. März 1985 zum Schutz der Ozonschicht
 - [PachtkredG](laws/PachtkredG.md) Pachtkreditgesetz
