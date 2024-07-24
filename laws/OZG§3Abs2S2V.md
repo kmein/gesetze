@@ -1,4 +1,4 @@
-% Verordnung nach § 3 Absatz 2 Satz 2 des Onlinezugangsgesetzes
+% Verordnung nach § 3 Absatz 2 des Onlinezugangsgesetzes
 % Ausfertigungsdatum: 22.09.2021
  
 # Eingangsformel
@@ -7,7 +7,7 @@ Auf Grund des § 3 Absatz 2 Satz 2 des Onlinezugangsgesetzes, der durch Artikel 
 
 # § 1 – Bereitstellung eines einheitlichen Organisationskontos im Portalverbund
 
-Dem Freistaat Bayern sowie der Freien Hansestadt Bremen wird gemeinsam die Aufgabe übertragen, für die Identifizierung und Authentifizierung von juristischen Personen, Vereinigungen, denen ein Recht zustehen kann, natürlichen Personen, die gewerblich oder beruflich tätig sind, und Behörden im Portalverbund nach dem Onlinezugangsgesetz ein Nutzerkonto in Form eines einheitlichen Organisationskontos bereit zu stellen.
+Dem Freistaat Bayern sowie der Freien Hansestadt Bremen wird gemeinsam die Aufgabe übertragen, für die Identifizierung und Authentifizierung von Unternehmen im Sinne des § 3 Absatz 2 des Unternehmensbasisdatenregistergesetzes und Behörden im Portalverbund nach dem Onlinezugangsgesetz ein Nutzerkonto in Form eines einheitlichen Organisationskontos bereitzustellen.
 
 # § 2 – Inkrafttreten
 

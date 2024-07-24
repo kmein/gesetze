@@ -996,6 +996,8 @@ b) durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Geset
 
 (4) Die Träger der Sozialversicherung einschließlich der Bundesagentur für Arbeit, ihre Verbände und Arbeitsgemeinschaften verwenden unter Beachtung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit im jeweiligen Sozialleistungsbereich Vertrauensdienste, die eine gemeinsame und bundeseinheitliche Kommunikation und Übermittlung der Daten und die Überprüfbarkeit der qualifizierten elektronischen Signatur auf Dauer sicherstellen. Diese Träger sollen über ihren jeweiligen Bereich hinaus Vertrauensdienste im Sinne des Satzes 1 verwenden. Die Sätze 1 und 2 gelten entsprechend für die Leistungserbringer nach dem Fünften und dem Elften Buch und die von ihnen gebildeten Organisationen.
 
+(5) Die Identifizierung und Authentifizierung der Nutzer im Sinne des § 2 Absatz 4 Nummer 1 des Onlinezugangsgesetzes für die Inanspruchnahme elektronischer Verwaltungsleistungen nach dem Sozialgesetzbuch kann in Ergänzung zum zentralen Bürgerkonto nach § 3 Absatz 1 Satz 1 des Onlinezugangsgesetzes auch über die Nutzerkonten der Leistungsträger erfolgen.
+
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
 # § 37 – Vorbehalt abweichender Regelungen

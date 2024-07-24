@@ -295,6 +295,8 @@ d) Büchern, Katalogen, Zeitungen oder Zeitschriften, soweit diese durch Anbiete
 
 (6) Beendet ein Anbieter seine Tätigkeit als Anbieter von Postdienstleistungen, so teilt er dies der Bundesnetzagentur unverzüglich mit. Die Bundesnetzagentur löscht den Anbieter aus dem Anbieterverzeichnis. Satz 2 gilt auch, wenn die Eintragung nach Absatz 5 zurückgenommen oder widerrufen wurde oder die Beendigung der Tätigkeit eines Anbieters feststeht, ohne dass der Anbieter eine Mitteilung nach Satz 1 gemacht hat.
 
+(++++ § 4 Abs. 6: Zur Geltung vgl. § 66 Abs. 2 +++)
+
 # § 5 – Zuverlässigkeit, Leistungsfähigkeit, Fachkunde
 
 (1) Die nach § 4 Absatz 4 Nummer 1 erforderliche Zuverlässigkeit liegt in der Regel nicht vor, wenn
@@ -443,6 +445,8 @@ Dabei ist sicherzustellen, dass die in der Rechtsverordnung festgelegten Vorgabe
 
 (7) Die Norm DIN EN ISO/IEC 17065, Ausgabe Januar 2013, ist bei der Beuth-Verlag GmbH, Berlin und Köln, erschienen und dort zu beziehen. Sie ist beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
+(+++ § 9: Zur Anwendung vgl. $ 112 Abs. 3 +++)
+
 # § 10 – Filialen und automatisierte Stationen
 
 (1) Betreiben Anbieter Filialen oder automatisierte Stationen, so haben sie der Bundesnetzagentur jeweils zum 1. Januar und zum 1. Juli eines Jahres die folgenden Informationen zu diesen Einrichtungen elektronisch zu übermitteln:
@@ -585,6 +589,8 @@ f) deren äußere Gestaltung rassistisch ist oder Diskriminierungen aufgrund von
 
 (4) Der Universaldienst umfasst sowohl Inlandsdienstleistungen als auch grenzüberschreitende Dienstleistungen. Die Vorgaben der Benannte Betreiber-Zulassungsverordnung bleiben unberührt.
 
+(+++ § 16 Abs. 1: Zur Anwendung vgl. § 112 Abs. 4 +++)
+
 # § 17 – Infrastrukturvorgaben
 
 (1) Bundesweit müssen mindestens 12 000 Universaldienstfilialen vorhanden sein. Sie müssen werktäglich nachfragegerecht geöffnet sein. In allen Gemeinden und in allen zusammenhängend bebauten Wohngebieten mit mehr als 2 000 Einwohnern muss ein Universaldienstanbieter mindestens eine Universaldienstfiliale betreiben. Satz 3 gilt in der Regel auch für Gemeinden, die nach landesplanerischen Regelungen eine zentralörtliche Funktion haben. In zusammenhängend bebauten Wohngebieten mit mehr als 4 000 Einwohnern ist grundsätzlich zu gewährleisten, dass eine Universaldienstfiliale in höchstens 2 000 Metern erreichbar ist. In allen Landkreisen muss ein Universaldienstanbieter mindestens je Fläche von 80 Quadratkilometern eine Universaldienstfiliale betreiben. Alle übrigen Orte müssen durch einen mobilen Postdienst versorgt werden. Bei Veränderungen im Bestand von Universaldienstfilialen hat der Universaldienstanbieter mindestens zehn Wochen vor der Maßnahme das Benehmen mit der zuständigen kommunalen Gebietskörperschaft herzustellen.
@@ -649,11 +655,15 @@ Die Zustellung hat werktäglich zu erfolgen.
 
 (3) Soweit dies aus Gründen des öffentlichen Interesses, insbesondere zur Gewährleistung einer gleichwertigen Versorgung, insbesondere im ländlichen Raum, erforderlich ist, kann die Bundesnetzagentur im Rahmen von Entgeltentscheidungen nach Kapitel 5 Abschnitt 2 für Universaldienstleistungen anordnen, dass ein Einheitstarif zur Anwendung kommt.
 
+(+++ § 21 Abs. 1: Zur Anwendung vgl. 112 Abs. 5 +++)
+
 # § 22 – Gewährleistung des Universaldienstes
 
 (1) Stellt die Bundesnetzagentur fest, dass ein Universaldienstanbieter seine Verpflichtungen nach diesem Abschnitt andauernd, wiederholt oder schwerwiegend nicht erfüllt, kann die Bundesnetzagentur nach Anhörung die erforderlichen Maßnahmen anordnen, um die Einhaltung der Vorgaben dieses Kapitels sicherzustellen. Sie kann insbesondere in den Fällen des § 17 Absatz 1 Satz 3 bis 6 den Betrieb einer Universaldienstfiliale oder einer automatisierten Station anordnen, soweit der Universaldienstanbieter nicht nachweist, dass im Einvernehmen mit der kommunalen Gebietskörperschaft von den Vorgaben des § 17 Absatz 1 Satz 3 bis 5 abgewichen wurde. Dem betroffenen Anbieter ist eine angemessene Frist zur Umsetzung der Anordnung zu setzen. Die Bundesnetzagentur hat beim Erlass von Maßnahmen nach Satz 1 die jeweilige Versorgungssituation sowie die Nachfrage nach Universaldienstleistungen zu berücksichtigen.
 
-(2) Zur Durchsetzung von Anordnungen nach Absatz 1 Satz 1 kann nach Maßgabe des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld von bis zu 10 Millionen Euro festgesetzt werden. Das Zwangsgeld kann mehrfach festgesetzt werden.
+(2) Zur Durchsetzung von Anordnungen nach Absatz 1 Satz 1 kann nach Maßgabe des Verwaltungs-Vollstreckungsgesetzes ein Zwangsgeld von bis zu 10 Millionen Euro festgesetzt werden. Das Zwangsgeld kann mehrfach festgesetzt werden.
+
+§ 22 Abs. 2 Satz 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe "Verwaltungsvollstreckungsgesetzes" durch die amtliche Bezeichnung "Verwaltungs-Vollstreckungsgesetzes" ersetzt
 
 # § 23 – Erprobung neuer Modelle der Postversorgung
 
@@ -919,6 +929,8 @@ Die Bundesnetzagentur kann einen Entgeltantrag ablehnen, wenn das Unternehmen di
 
 (7) Beinhalten Entgeltgenehmigungen die vollständige oder teilweise Genehmigung eines vertraglich bereits vereinbarten Entgelts, so wirken sie zurück auf den Zeitpunkt der erstmaligen Leistungsbereitstellung durch das marktbeherrschende Unternehmen.
 
+(+++ § 43 Abs. 6 und 7: Zur geltung vgl. § 46 Abs. 5 +++)
+
 # § 44 – Kosten der effizienten Leistungsbereitstellung
 
 (1) Die Kosten der effizienten Leistungsbereitstellung ergeben sich aus den langfristigen zusätzlichen Kosten der Leistungsbereitstellung und einem angemessenen Zuschlag für leistungsmengenneutrale Gemeinkosten, jeweils einschließlich eines angemessenen Gewinnzuschlags, soweit diese Kosten für die Leistungsbereitstellung notwendig sind. Im Hinblick auf solche Kosten, die nur dadurch entstehen, dass eine ökologisch nachhaltige Erbringung von Postdienstleistungen im Sinne des § 2 Absatz 2 Nummer 4 ermöglicht wird, wird vermutet, dass es sich um Kosten der effizienten Leistungsbereitstellung im Sinne des Satzes 1 handelt.
@@ -993,6 +1005,8 @@ angemessen zu berücksichtigen.
 
 (5) Auf Antrag des regulierten Unternehmens kann ein nach Absatz 4 Satz 2 festgestellter negativer Saldo einmalig auf die nachfolgende Regulierungsperiode übertragen werden. In diesem Fall bleibt der negative Saldo in der unmittelbar bevorstehenden Regulierungsperiode bei der etwaigen Reduzierung des Gewinnsatzes nach Absatz 4 Satz 2 und 3 unberücksichtigt. In der darauffolgenden Regulierungsperiode ist ein nach Satz 1 übertragener Saldo zwingend in die Betrachtung nach Absatz 4 Satz 1 einzubeziehen. Verbleibt nach Absatz 4 Satz 2 ein negativer Saldo, so ist dieser nur insoweit nach Satz 1 übertragbar, als er nicht bereits aus der vorherigen Regulierungsperiode übertragen wurde.
 
+(+++ § 47: Zur Anwendung vgl. § 112 Abs. 9 +++)
+
 # § 48 – Abweichung von genehmigten Entgelten
 
 (1) Marktbeherrschende Unternehmen dürfen nur die von der Bundesnetzagentur genehmigten Entgelte verlangen.
@@ -1000,6 +1014,8 @@ angemessen zu berücksichtigen.
 (2) Verträge über Dienstleistungen, die andere als die genehmigten Entgelte enthalten, werden mit der Maßgabe wirksam, dass das genehmigte Entgelt an die Stelle des vereinbarten Entgelts tritt.
 
 (3) Fehlt es an einem genehmigten Entgelt, obwohl das Entgelt nach § 40 Absatz 1 genehmigungsbedürftig ist, so bleibt eine vertragliche oder gesetzliche Beförderungspflicht bestehen; die Entgeltabrede ist bis zur Genehmigung des Entgelts schwebend unwirksam.
+
+(+++ § 48: Zur Geltung vgl. § 49 Abs. 4 +++)
 
 # § 49 – Nachträgliche Entgeltregulierung
 
@@ -1014,6 +1030,8 @@ angemessen zu berücksichtigen.
 (5) Die Absätze 1 bis 4 gelten entsprechend, wenn Allgemeine Geschäftsbedingungen oder sonstige Leistungsbeschreibungen geändert werden und dadurch, ohne dass die als Entgelte festgelegten Beträge geändert werden, für eine bestimmte Leistung ein anderes als das bisher geltende Entgelt zur Anwendung kommt.
 
 (6) Auf begründeten Antrag eines Anbieters, der sich durch nicht genehmigungsbedürftige Entgelte eines marktbeherrschenden Unternehmens im Wettbewerb beeinträchtigt sieht, entscheidet die Bundesnetzagentur innerhalb von zwei Monaten, ob sie ein Verfahren der nachträglichen Entgeltregulierung nach Absatz 1 einleitet. Dem antragstellenden Anbieter ist das Ergebnis der Prüfung nach Satz 1 mitzuteilen.
+
+(+++ § 49: Zur Anwendung vgl. § 21 Abs. 2 +++)
 
 # § 50 – Entgeltanzeige, Vorlagepflicht
 
@@ -1064,6 +1082,9 @@ Mit der Anzeige sind entgeltbegründende Unterlagen und Informationen vorzulegen
 (2) Macht die Bundesnetzagentur von der Befugnis des Absatzes 1 Gebrauch, so hat sie das von dem betroffenen Unternehmen angewandte Kostenrechnungssystem zu berücksichtigen. Das Unternehmen hat der Bundesnetzagentur binnen eines Monats ab Bekanntgabe der Entscheidung nach Absatz 1 Satz 1 sämtliche relevanten Unterlagen zu seinem Kostenrechnungssystem vorzulegen. Dabei ist eine für einen sachkundigen Dritten nachvollziehbare Beschreibung des Kostenrechnungssystems beizufügen, die insbesondere die Kostenarten- und Kostenstellenrechnung einschließlich der Verteilung der Kosten auf die Kostenträger erläutert sowie Übersichten zu Kostenstellen und Geschäftsprozessen enthält.
 
 (3) Die nach den Vorgaben des Absatzes 1 Satz 2 aufbereiteten Kostenrechnungsunterlagen, einschließlich sämtlicher damit zusammenhängender Informationen und Dokumente, sind der Bundesnetzagentur regelmäßig bis zum 30. Juni des auf das abgeschlossene Geschäftsjahr folgenden Jahres vorzulegen. Die Bundesnetzagentur prüft die Konformität der übermittelten Daten mit den Anforderungen des Absatzes 1 sowie des Kostenrechnungssystems mit allgemein anerkannten betriebswirtschaftlichen Grundsätzen und veröffentlicht das Prüfergebnis.
+
+(+++ § 52 Abs. 1 und 3: Zur Geltung vgl. § 24 Abs. 1 +++)  
+(+++ § 52 Abs. 2: Zur Geltung vgl. § 51 Abs. 2 +++)
 
 # § 53 – Veröffentlichungen
 
@@ -1128,6 +1149,8 @@ Kommt eine Vereinbarung nach § 55 Absatz 1 nicht innerhalb von drei Monaten nac
 (3) Die Bundesnetzagentur kann innerhalb von zehn Wochen nach Anrufung die Bedingungen einer Zugangsvereinbarung festlegen und deren Geltung anordnen, wenn die Voraussetzungen für den geltend gemachten Zugang vorliegen.
 
 (4) Zur Durchsetzung der Anordnung nach Absatz 3 kann die Bundesnetzagentur nach Maßgabe des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld von bis zu 1 Million Euro festsetzen.
+
+(+++ § 57: Zur Geltung vgl. § 26 Abs. 4 +++)
 
 # § 58 – Missbrauchsaufsicht
 
@@ -1305,6 +1328,9 @@ gekennzeichnet sind, bevor diese den Bereich der Zustellung erreichen.
 
 (3) Anbieter haben Personen, die sie im Bereich der Zustellung von Paketen tätig werden lassen, hinsichtlich der Kennzeichnungen nach Absatz 1 und deren Bedeutung sowie der Zustellvorgabe nach Absatz 2 zu unterweisen und die Unterweisung zu dokumentieren.
 
+(+++ § 73 Abs. 1: Zur Anwendung vgl. § § 112 Abs. 10 +++)  
+(+++ § 73 Abs. 2: Zur Anwendung vgl. § 112 Abs. 10 +++)
+
 # § 74 – Beschwerdestelle
 
 (1) Die Bundesnetzagentur richtet eine Beschwerdestelle ein, bei der natürliche Personen im Zusammenhang mit ihrer beruflichen Tätigkeit oder im Vorfeld einer beruflichen Tätigkeit (Hinweisgebende) erlangte Informationen über Verstöße gegen Vorschriften dieses Kapitels oder gegen allgemeine sozial- oder arbeitsrechtliche Vorschriften im Postsektor in mündlicher Form oder in Textform melden können. Die Beschwerdestelle kann Hinweisgebenden Informationen über geeignete Beratungsstellen zur Verfügung stellen.
@@ -1346,6 +1372,8 @@ Beim Erlass der Rechtsverordnung berücksichtigt das Bundesministerium für Wirt
 (4) Anbieter von Paketdienstleistungen können im Geschäftsverkehr ein Umweltzeichen verwenden, das die Anbieter auf Grundlage der nach Absatz 2 ermittelten Daten für die Beförderung von Paketen nach der Intensität ihrer Treibhausgasemissionen bezogen auf die insgesamt erbrachte Leistung für die Beförderung von Paketen klassifiziert. Durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, legt das Bundesministerium für Wirtschaft und Klimaschutz die Grundsätze, das Verfahren und nähere Einzelheiten zur Verwendung des Umweltzeichens nach Satz 1 einschließlich wirksamer Bußgeldvorschriften für Missbrauch des Umweltzeichens fest.
 
 (5) Anbieter, die nicht unter Absatz 1 Satz 1 fallen, können freiwillig an der Datenerhebung nach Absatz 2 teilnehmen.
+
+(+++ § 76 Abs. 4: Zur Anwendung vgl. § § 112 Abs. 11 +++)
 
 # § 77 – Klimadialog
 
@@ -1404,6 +1432,8 @@ Die Bundesnetzagentur kann zur Vorbereitung ihrer Entscheidungen oder zur Beguta
 (2) Die Monopolkommission erstellt alle zwei Jahre ein Sektorgutachten, in dem sie den Stand und die absehbare Entwicklung des Wettbewerbs und die Frage, ob nachhaltig wettbewerbsorientierte Postmärkte in der Bundesrepublik Deutschland bestehen, beurteilt, die Anwendung der Vorschriften dieses Gesetzes über die Regulierung und die Wettbewerbsaufsicht würdigt und zu sonstigen aktuellen wettbewerbspolitischen Fragen Stellung nimmt. Das Sektorgutachten soll in dem Jahr abgeschlossen sein, in dem kein Gutachten nach § 44 des Gesetzes gegen Wettbewerbsbeschränkungen vorgelegt wird. Die Monopolkommission leitet das Gutachten der Bundesregierung zu. Die Bundesregierung legt das Gutachten unverzüglich den gesetzgebenden Körperschaften vor und nimmt innerhalb einer angemessenen Frist gegenüber den gesetzgebenden Körperschaften Stellung zum Gutachten. Das Gutachten wird von der Monopolkommission zu dem Zeitpunkt veröffentlicht, zu dem es von der Bundesregierung den gesetzgebenden Körperschaften vorgelegt wird.
 
 (3) Die Monopolkommission kann Einsicht nehmen in die bei der Bundesnetzagentur geführten Akten einschließlich der Betriebs- und Geschäftsgeheimnisse, soweit dies zur ordnungsgemäßen Erfüllung ihrer Aufgaben erforderlich ist. Im Rahmen der Akteneinsicht kann die Monopolkommission bei der Bundesnetzagentur in elektronischer Form vorliegende Daten, einschließlich Betriebs- und Geschäftsgeheimnisse und personenbezogene Daten, selbstständig auswerten, soweit dies zur ordnungsgemäßen Erfüllung ihrer Aufgaben erforderlich ist. Für den vertraulichen Umgang mit den Akten gilt § 46 Absatz 3 des Gesetzes gegen Wettbewerbsbeschränkungen entsprechend.
+
+(+++ § 84 Abs. 3: Zur Anwendung vgl. § § 112 Abs. 12 +++)
 
 # § 85 – Zusammenarbeit mit anderen Behörden
 
@@ -1560,6 +1590,8 @@ b) die Rechtsbehelfsbelehrung und
 c) ein Hinweis auf die Veröffentlichung der vollständigen Entscheidung auf der Internetseite der Bundesnetzagentur.
 
 Die Allgemeinverfügung gilt zwei Wochen nach der Bekanntmachung im Amtsblatt der Bundesnetzagentur als bekannt gegeben; hierauf ist in der Bekanntmachung hinzuweisen. § 41 Absatz 4 Satz 4 des Verwaltungsverfahrensgesetzes gilt entsprechend.
+
+(+++ § 97: Zur Geltung vgl. § 102 Abs. 2 +++)
 
 # § 98 – Beschlusskammerentscheidungen
 
