@@ -297,9 +297,11 @@ Die Einstellung in ein höheres Amt als das Eingangsamt der Laufbahn ist zuläss
 
 (1) Eignung, Befähigung und fachliche Leistung der Beamtinnen und Beamten sind regelmäßig, mindestens jedoch alle drei Jahre, zu beurteilen. Sie sind zusätzlich zu beurteilen, wenn es die dienstlichen oder persönlichen Verhältnisse erfordern.
 
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung Grundsätze für dienstliche Beurteilungen sowie für das Beurteilungsverfahren zu regeln, insbesondere über
+(2) In der dienstlichen Beurteilung sind die fachliche Leistung der Beamtin oder des Beamten nachvollziehbar darzustellen sowie Eignung und Befähigung einzuschätzen. Am Schluss der dienstlichen Beurteilung ist ein zusammenfassendes Gesamturteil abzugeben.
 
-1. den Inhalt der Beurteilung, beispielsweise die Festlegung von zu beurteilenden Merkmalen von Eignung, Befähigung und fachlicher Leistung,
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung Grundsätze für dienstliche Beurteilungen sowie für das Beurteilungsverfahren zu regeln, insbesondere über
+
+1. den weiteren Inhalt der Beurteilung, beispielsweise die Festlegung von zu beurteilenden Merkmalen von Eignung, Befähigung und fachlicher Leistung,
 
 2. ein Bewertungssystem für die Beurteilung,
 
@@ -387,7 +389,7 @@ Schwangerschaft, Mutterschutz und Elternzeit dürfen sich bei der Einstellung un
 
 2. den Erwerb und die Anerkennung der Laufbahnbefähigung, einschließlich der Festlegung gleichwertiger Abschlüsse,
 
-3. die Rahmenregelungen für Auswahlverfahren für die Einstellung in einen Vorbereitungsdienst,
+3. die Rahmenregelungen für Auswahlverfahren für die Einstellung in einen Vorbereitungsdienst, insbesondere den Einsatz von Informationstechnologie und von Videokonferenztechnik,
 
 4. die Anrechnung von Zeiten auf den Vorbereitungsdienst und die Voraussetzungen für eine Verkürzung des Vorbereitungsdienstes,
 
@@ -1834,7 +1836,7 @@ Die zur Ausführung der §§ 97 bis 103 notwendigen weiteren Vorschriften zu Neb
 
 (4) Die Anzeige nach den Absätzen 1 und 2 soll mindestens einen Monat vor Aufnahme der Tätigkeit oder Beschäftigung erfolgen. Wird die Frist nicht eingehalten, so kann die zuständige Behörde die Aufnahme der Tätigkeit oder Beschäftigung bis zur Dauer von höchstens einem Monat vorläufig untersagen.
 
-(5) Ruhestandsbeamtinnen oder Ruhestandsbeamte, bei denen in den letzten fünf Jahren vor Beendigung des Beamtenverhältnisses eine erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen nach § 10 des Sicherheitsüberprüfungsgesetzes durchgeführt wurde, bedürfen für die Aufnahme einer Erwerbstätigkeit oder sonstigen Beschäftigung für eine fremde Macht oder einen ihrer Mittelsmänner der vorherigen Genehmigung, sofern die beabsichtigte Erwerbstätigkeit oder sonstige Beschäftigung einen Bezug zu sicherheitsempfindlichen Belangen aufweist. Die Pflicht zur Einholung einer Genehmigung endet
+(5) Ruhestandsbeamtinnen oder Ruhestandsbeamte, die in den letzten fünf Jahren vor Beendigung des Beamtenverhältnisses betraut gewesen sind mit mindestens einer sicherheitsempfindlichen Tätigkeit, die eine erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen nach § 10 des Sicherheitsüberprüfungsgesetzes erfordert, bedürfen für die Aufnahme einer Erwerbstätigkeit oder sonstigen Beschäftigung für eine fremde Macht oder einen ihrer Mittelsmänner der vorherigen Genehmigung, sofern die beabsichtigte Erwerbstätigkeit oder sonstige Beschäftigung einen Bezug zu sicherheitsempfindlichen Belangen aufweist. Die Pflicht zur Einholung einer Genehmigung endet
 
 1. fünf Jahre nach Beendigung des Beamtenverhältnisses, wenn die Beamtin oder der Beamte mit Erreichen der Regelaltersgrenze in den Ruhestand tritt, und
 
@@ -2191,6 +2193,42 @@ Handelt es sich in den Fällen des Satzes 3 Nummer 2 um ein Beamtenverhältnis a
 (9) Die Vorschriften über die Laufbahnen und über den einstweiligen Ruhestand sowie die §§ 87 und 88 sind auf Hochschullehrerinnen und Hochschullehrer nicht anzuwenden. Erfordert der Aufgabenbereich einer Hochschuleinrichtung eine regelmäßige oder planmäßige Anwesenheit, kann die oberste Dienstbehörde die §§ 87 und 88 für bestimmte Gruppen von Beamtinnen und Beamten für anwendbar erklären.
 
 (10) Hochschullehrerinnen und Hochschullehrer können nur mit ihrer Zustimmung abgeordnet oder versetzt werden. Bei der Auflösung, der Verschmelzung oder einer wesentlichen Änderung des Aufbaues oder der Aufgaben von staatlich anerkannten Hochschulen des Bundes, deren Ausbildungsgänge ausschließlich auf den öffentlichen Dienst ausgerichtet sind, gilt § 28 Abs. 3 für beamtete Professorinnen, Professoren, Juniorprofessorinnen, Juniorprofessoren sowie Hochschuldozentinnen und Hochschuldozenten entsprechend.
+
+# § 132a – Ermächtigungen zum Erlass von Verordnungen zur Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals der Hochschulen
+
+(1) Das Bundesministerium der Verteidigung wird ermächtigt, zur Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals der Universitäten der Bundeswehr eine Rechtsverordnung zu erlassen, die der Zustimmung des Bundesrates nicht bedarf, und in der es insbesondere Regelungen trifft
+
+1. zum Umfang der Lehrverpflichtung,
+
+2. zu den Anrechnungs- und Ermäßigungstatbeständen und
+
+3. zu den Nebenpflichten, die mit der Lehrverpflichtung verbunden sind.
+
+(2) Das Bundesministerium des Innern und für Heimat erlässt durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, allgemeine Vorschriften zur Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals der Hochschule des Bundes für öffentliche Verwaltung (allgemeine Lehrverpflichtungsverordnung), insbesondere
+
+1. zum Umfang der Lehrverpflichtung,
+
+2. zu den Anrechnungs- und Ermäßigungstatbeständen und
+
+3. zu den Nebenpflichten, die mit der Lehrverpflichtung verbunden sind.
+
+Soweit das Bundeskanzleramt und die Bundesministerien für einen Fachbereich oder den Zentralen Lehrbereich zuständig sind, sind sie ins Benehmen zu setzen.
+
+(3) Für jeden Fachbereich und für den Zentralen Lehrbereich der Hochschule des Bundes für öffentliche Verwaltung sind durch Rechtsverordnung, die der Zustimmung des Bundesrats nicht bedarf, besondere Vorschriften zur Lehrverpflichtung des jeweiligen hauptberuflichen wissenschaftlichen Personals zu erlassen (besondere Lehrverpflichtungsverordnungen), insbesondere
+
+1. zu den konkreten Dienstaufgaben,
+
+2. zur Anrechnung laufbahnrechtlicher Prüfungsleistungen,
+
+3. zur Gewährung von Ermäßigungen auf die Lehrverpflichtung sowie
+
+4. zum Verfahren bei Über- und Unterschreitung der Lehrverpflichtung.
+
+Eine Abweichung von den Regelungen der allgemeinen Lehrverpflichtungsverordnung oder eine nähere Ausgestaltung dieser Regelungen in besonderen Lehrverpflichtungsverordnungen ist nur zulässig, soweit die allgemeine Lehrverpflichtungsverordnung dies ausdrücklich vorsieht.
+
+(4) Zuständig für den Erlass einer besonderen Lehrverpflichtungsverordnung sind die Bundesministerien und das Bundeskanzleramt jeweils einzeln oder zu mehreren gemeinsam, soweit sie für den jeweiligen Fachbereich oder Zentralen Lehrbereich zuständig sind, im Benehmen mit dem Bundesministerium des Innern und für Heimat.
+
+(5) Das Bundesministerium für Arbeit und Soziales kann seine Befugnisse zum Erlass einer besonderen Lehrverpflichtungsverordnung durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, jeweils auf den Vorstand der Deutschen Rentenversicherung Bund, den Vorstand der Deutschen Rentenversicherung Knappschaft-Bahn-See oder den Vorstand der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau übertragen. Die Rechtsverordnungen der Vorstände bedürfen des Einvernehmens mit dem Bundesministerium für Arbeit und Soziales und des Benehmens mit dem Bundesministerium des Innern und für Heimat.
 
 # § 133 – Ehrenbeamtinnen und Ehrenbeamte
 

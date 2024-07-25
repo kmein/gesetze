@@ -161,9 +161,7 @@ Bei besonderen Anforderungen einer Laufbahn kann der schriftliche Teil durch wei
 
 7. Fachkolloquium.
 
-Bei besonderen Anforderungen einer Laufbahn kann der mündliche Teil durch weitere Auswahlinstrumente ergänzt werden. Der mündliche Teil kann in einer Fremdsprache durchgeführt werden.
-
-(6a) Bis zum 31. Dezember 2024 kann der mündliche Teil des Auswahlverfahrens unter Nutzung von Videokonferenztechnik durchgeführt werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen geboten ist und wenn geeignete technische Einrichtungen zur Verfügung stehen.
+Bei besonderen Anforderungen einer Laufbahn kann der mündliche Teil durch weitere Auswahlinstrumente ergänzt werden. Der mündliche Teil kann in einer Fremdsprache durchgeführt werden. Wenn geeignete technische Einrichtungen zur Verfügung stehen, kann der mündliche Teil unter Nutzung von Videokonferenztechnik durchgeführt werden.
 
 (7) Die im Auswahlverfahren erbrachten Leistungen sind mit Punkten oder Noten zu bewerten. Es ist eine Rangfolge der geeigneten Bewerberinnen und Bewerber festzulegen. Die Rangfolge ist für die Einstellung in den Vorbereitungsdienst maßgeblich.
 
@@ -827,11 +825,9 @@ Ausnahmen von der regelmäßigen Beurteilung können zugelassen werden, wenn ein
 
 # § 49 – Inhalt der dienstlichen Beurteilung
 
-(1) In der dienstlichen Beurteilung sind die fachliche Leistung der Beamtin oder des Beamten nachvollziehbar darzustellen sowie Eignung und Befähigung einzuschätzen.
+(1) Die fachliche Leistung ist insbesondere nach den Arbeitsergebnissen, der praktischen Arbeitsweise, dem Arbeitsverhalten und für Beamtinnen oder Beamte, die bereits Vorgesetzte sind, nach dem Führungsverhalten zu beurteilen. Soweit Zielvereinbarungen getroffen werden, soll der Grad der Zielerreichung in die Gesamtwertung der dienstlichen Beurteilung einfließen.
 
-(2) Die fachliche Leistung ist insbesondere nach den Arbeitsergebnissen, der praktischen Arbeitsweise, dem Arbeitsverhalten und für Beamtinnen oder Beamte, die bereits Vorgesetzte sind, nach dem Führungsverhalten zu beurteilen. Soweit Zielvereinbarungen getroffen werden, soll der Grad der Zielerreichung in die Gesamtwertung der dienstlichen Beurteilung einfließen.
-
-(3) Die Beurteilung schließt mit einem Gesamturteil und einem Vorschlag für die weitere dienstliche Verwendung. Sie bewertet die Eignung für Leitungs- und Führungsaufgaben, wenn entsprechende Aufgaben wahrgenommen werden, und kann eine Aussage über die Eignung für Aufgaben der nächsthöheren Laufbahn enthalten.
+(2) Die Beurteilung schließt neben dem zusammenfassenden Gesamturteil mit einem Vorschlag für die weitere dienstliche Verwendung. Sie bewertet die Eignung für Leitungs- und Führungsaufgaben, wenn entsprechende Aufgaben wahrgenommen werden, und kann eine Aussage über die Eignung für Aufgaben der nächsthöheren Laufbahn enthalten.
 
 # § 50 – Beurteilungsverfahren und Beurteilungsmaßstab
 

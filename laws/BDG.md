@@ -1275,7 +1275,7 @@ Bei Ruhestandsbeamten werden die Disziplinarbefugnisse durch die zum Zeitpunkt d
 
 # § 85 – Übergangsbestimmungen
 
-Auf vor dem 1. April 2024 eingeleitete Disziplinarverfahren ist weiterhin das Bundesdisziplinargesetz in der bis zum 31. März 2024 geltenden Fassung anzuwenden. Maßnahmen, die nach bisherigem Recht getroffen worden sind, bleiben rechtswirksam.
+Auf vor dem 1. April 2024 eingeleitete Disziplinarverfahren sind weiterhin das Bundesdisziplinargesetz in der bis zum 31. März 2024 geltenden Fassung sowie das Bundespersonalvertretungsgesetz in der bis zum 31. März 2024 geltenden Fassung anzuwenden. Maßnahmen, die nach bisherigem Recht getroffen worden sind, bleiben rechtswirksam.
 
 # § 86 – Verwaltungsvorschriften
 

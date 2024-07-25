@@ -200,7 +200,7 @@ Der Reingewinn ist in nachstehender Reihenfolge zu verwenden:
 
 Der Präsident der Deutschen Bundesbank kann für die Zwecke des § 11 Abs. 3 Urkundsbeamte bestellen. Sie müssen die Befähigung zum Richteramt besitzen.
 
-# § 31 – Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank
+# § 31 – Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank; Verordnungsermächtigungen
 
 (1) Die Deutsche Bundesbank beschäftigt Beamte, Angestellte und Arbeiter.
 
@@ -233,6 +233,16 @@ Die Bundesregierung kann die Befugnis nach Satz 1 durch Rechtsverordnung ohne Zu
 (5) Die in Absatz 4 Satz 2 Nr. 1 Buchstabe b bezeichneten Zuwendungen für besondere Leistungen dürfen insgesamt ein Zwanzigstel der Ausgaben für die Besoldung und Vergütung und Löhne der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank nicht übersteigen. Die Bankzulage nimmt ab dem 1. August 2006 nicht an allgemeinen Erhöhungen der Besoldung teil.
 
 (6) Die Bundesregierung wird ermächtigt, zum Zweck eines geordneten und leistungsfähigen Bankbetriebs durch Rechtsverordnung die Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank sowie die besonderen Vorschriften für die einzelnen Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) der Beamten der Deutschen Bundesbank zu erlassen. In der Rechtsverordnung nach Satz 1 kann von den Vorschriften des Bundesbeamtenrechts über die Dauer des Vorbereitungsdienstes und der Probezeit sowie über die Dauer der Bewährungszeit für Beförderungen im gehobenen Dienst und für die Zulassung zum Aufstieg in den höheren Dienst abgewichen werden. Die Bundesregierung kann die Befugnis nach Satz 1 durch Rechtsverordnung auf den Vorstand der Deutschen Bundesbank übertragen. Rechtsverordnungen des Vorstands der Deutschen Bundesbank über die Vorbildung und die Laufbahnen bedürfen des Einvernehmens des Bundesministeriums des Innern, für Bau und Heimat und des Bundesministeriums der Finanzen; Rechtsverordnungen über die einzelnen Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) bedürfen des Einvernehmens des Bundesministeriums des Innern, für Bau und Heimat.
+
+(7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, Vorschriften zur Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals der Hochschule der Deutschen Bundesbank zu erlassen, insbesondere
+
+1. zum Umfang,
+
+2. zu Anrechnungs- und Ermäßigungstatbeständen und
+
+3. zu den Nebenpflichten, die mit der Lehrverpflichtung verbunden sind.
+
+Die Bundesregierung kann die Ermächtigung nach Satz 1 durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, auf den Vorstand der Deutschen Bundesbank übertragen.
 
 # § 32 – Schweigepflicht
 
