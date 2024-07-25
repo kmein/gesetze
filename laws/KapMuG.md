@@ -85,6 +85,8 @@
 
 4. der Musterverfahrensantrag zum Zweck der Prozessverschleppung gestellt ist.
 
+(+++ § 3: Zur Anwendung vgl. § 8 HalbS 2 +++)
+
 # § 4 – Bekanntmachung des Musterverfahrensantrags
 
 (1) Einen zulässigen Musterverfahrensantrag macht das Prozessgericht im Musterverfahrensregister (§ 5) öffentlich bekannt. Die Bekanntmachung soll binnen drei Monaten ab Eingang des Antrags erfolgen.

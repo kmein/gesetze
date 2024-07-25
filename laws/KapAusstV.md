@@ -13,15 +13,15 @@ Auf Grund des § 122 Absatz 2 Satz 1 in Verbindung mit Satz 3, des § 217 Satz 1
 
 (2) In keinem Fall darf die Mindestkapitalanforderung die folgenden absoluten Untergrenzen unterschreiten:
 
-1. 2,5 Millionen Euro bei Kranken-, Schaden- und Unfallversicherungsunternehmen, einschließlich firmeneigener Versicherungsunternehmen, die keine Risiken der Versicherungssparten nach den Nummern 10 bis 15 der Anlage 1 des Versicherungsaufsichtsgesetzes decken,
+1. 2,7 Millionen Euro bei Kranken-, Schaden- und Unfallversicherungsunternehmen, einschließlich firmeneigener Versicherungsunternehmen, die keine Risiken der Versicherungssparten nach den Nummern 10 bis 15 der Anlage 1 des Versicherungsaufsichtsgesetzes decken,
 
-2. 3,7 Millionen Euro bei Schaden- und Unfallversicherungsunternehmen, einschließlich firmeneigener Versicherungsunternehmen, die Risiken mindestens einer der Versicherungssparten nach den Nummern 10 bis 15 der Anlage 1 des Versicherungsaufsichtsgesetzes decken,
+2. 4 Millionen Euro bei Schaden- und Unfallversicherungsunternehmen, einschließlich firmeneigener Versicherungsunternehmen, die Risiken mindestens einer der Versicherungssparten nach den Nummern 10 bis 15 der Anlage 1 des Versicherungsaufsichtsgesetzes decken,
 
-3. 3,7 Millionen Euro bei Lebensversicherungsunternehmen, einschließlich firmeneigener Versicherungsunternehmen,
+3. 4 Millionen Euro bei Lebensversicherungsunternehmen, einschließlich firmeneigener Versicherungsunternehmen,
 
-4. 3,6 Millionen Euro bei Rückversicherungsunternehmen und
+4. 3,9 Millionen Euro bei Rückversicherungsunternehmen und
 
-5. 1,2 Millionen Euro bei firmeneigenen Rückversicherungsunternehmen.
+5. 1,3 Millionen Euro bei firmeneigenen Rückversicherungsunternehmen.
 
 # § 2 – Solvabilitätskapitalanforderung
 

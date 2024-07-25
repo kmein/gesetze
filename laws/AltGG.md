@@ -189,7 +189,7 @@ Die §§ 50a, 50b, 50c Absatz 1 Satz 1 und Absatz 2 bis 4 sowie § 50d des Beamt
 
 2. (weggefallen)
 
-3. für Altersgeldberechtigte nach § 3 Absatz 3 Satz 2 71,75 Prozent der altersgeldfähigen Dienstbezüge zuzüglich eines Betrages von monatlich 525 Euro.
+3. für Altersgeldberechtigte nach § 3 Absatz 3 Satz 2 71,75 Prozent der altersgeldfähigen Dienstbezüge zuzüglich eines Betrages in Höhe von vierzehn Zwölfteln der Geringfügigkeitsgrenze im Sinne des § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch.
 
 # § 12 – Zusammentreffen von Altersgeld mit Mindestruhegehalt
 

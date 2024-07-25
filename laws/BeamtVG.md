@@ -1589,7 +1589,7 @@ Die Verminderung darf den Betrag, der sich aus dem hälftigen Prozentsatz nach �
 
 2. (weggefallen)
 
-3. für Ruhestandsbeamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht, oder nach § 52 Abs. 1 und 2 des Bundesbeamtengesetzes in den Ruhestand getreten sind, bis zum Ablauf des Monats, in dem die Regelaltersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes erreicht wird, 71,75 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe von 71,75 Prozent des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 50 Abs. 1 sowie eines Betrages von monatlich 606,67 Euro.
+3. für Ruhestandsbeamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht, oder nach § 52 Abs. 1 und 2 des Bundesbeamtengesetzes in den Ruhestand getreten sind, bis zum Ablauf des Monats, in dem die Regelaltersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes erreicht wird, 71,75 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe von 71,75 Prozent des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 50 Abs. 1 sowie eines Betrages in Höhe von vierzehn Zwölfteln der Geringfügigkeitsgrenze im Sinne des § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch.
 
 (3) (weggefallen)
 

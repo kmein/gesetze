@@ -341,9 +341,7 @@ Verringert sich während eines Dienstverhältnisses nach § 1 Absatz 1 das Grund
 
 # § 20 – Bundesbesoldungsordnungen A und B
 
-(1) Die Ämter der Beamten und Soldaten und ihre Besoldungsgruppen werden in Bundesbesoldungsordnungen geregelt. Dabei sind die Ämter nach ihrer Wertigkeit unter Berücksichtigung der gemeinsamen Belange aller Dienstherren den Besoldungsgruppen zuzuordnen.
-
-(2) Die Bundesbesoldungsordnung A – aufsteigende Gehälter – und die Bundesbesoldungsordnung B – feste Gehälter – sind Anlage I. Die Grundgehaltssätze der Besoldungsgruppen sind in Anlage IV ausgewiesen.
+Die Ämter der Beamten und Soldaten und die Zuordnung der Ämter entsprechend ihrer Wertigkeit zu den Besoldungsgruppen sind in Anlage I Bundesbesoldungsordnungen A und B geregelt. Die Grundgehälter der Besoldungsgruppen sind in Anlage IV ausgewiesen.
 
 # § 21 – (weggefallen)
 
@@ -1321,7 +1319,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 1. Amtsbezeichnungen
 
-(1) Weibliche Beamte führen die Amtsbezeichnung soweit möglich in der weiblichen Form.
+(1) Weibliche Beamte führen die Amtsbezeichnung soweit möglich in der weiblichen Form. Personen, für die im Personenstandsregister weder die Geschlechtsangabe „weiblich“ noch „männlich“ eingetragen ist, können wählen, ob sie eine Amtsbezeichnung soweit möglich in männlicher oder weiblicher Form oder als Doppelbezeichnung führen. Jeder Amtsbezeichnung kann auf Wunsch der Klammerzusatz „(divers)“ oder „(ohne Geschlechtsangabe)“ hinzugefügt werden.
 
 (2) Die in den Bundesbesoldungsordnungen A und B gesperrt gedruckten Amtsbezeichnungen sind Grundamtsbezeichnungen. Den Grundamtsbezeichnungen können Zusätze beigefügt werden, die hinweisen auf
 
@@ -2089,7 +2087,7 @@ Abteilungspräsident
 
 Botschafter<span id="FnR.FnA14-f809527_04"></span><a href="#FnA14-f809527_04" class="FnR">1</a></sup>
 
-Botschaftsrat Erster Klasse
+Botschaftsrat Erster Klasse<span id="FnR.FnA14-f809527_10"></span><a href="#FnA14-f809527_10" class="FnR">7</a></sup>
 
 Bundesbankdirektor<span id="FnR.FnA14-f809527_05"></span><a href="#FnA14-f809527_05" class="FnR">2</a></sup>
 
@@ -2111,7 +2109,7 @@ Leitender Militärrabbiner
 
 Ministerialrat
 
- – bei einer obersten Bundesbehörde oder beim Bundeseisenbahnvermögen –<span id="FnR.FnA14-f809527_10"></span><a href="#FnA14-f809527_10" class="FnR">7</a></sup>
+ – bei einer obersten Bundesbehörde oder beim Bundeseisenbahnvermögen –<a href="#FnA14-f809527_10" class="FnR">7</a></sup>
 
 Museumsdirektor und Professor
 
@@ -2139,10 +2137,15 @@ Flottenarzt<a href="#FnA14-f809527_12" class="FnR">9</a></sup>
 
 Oberstveterinär<a href="#FnA14-f809527_12" class="FnR">9</a></sup>
 
+Direktor<span id="FnR.FnA15-f809527_13a"></span><a href="#FnA15-f809527_13a" class="FnR">2</a></sup>
+
 Direktor und Professor<span id="FnR.FnA15-f809527_13"></span><a href="#FnA15-f809527_13" class="FnR">1</a></sup>
 
 <span id="FnA15-f809527_13"></span><a href="#FnR.FnA15-f809527_13" class="Footnote">1</a>  
-Soweit nicht in den Besoldungsgruppen B 2, B 3, B 5, B 6.
+Wenn nicht in den Besoldungsgruppen B 2, B 3, B 4, B 5, B 6.
+
+<span id="FnA15-f809527_13a"></span><a href="#FnR.FnA15-f809527_13a" class="Footnote">2</a>  
+Wenn nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 5, B 6, B 7, B 8.
 
 Abteilungsdirektor, Abteilungspräsident
 
@@ -2213,6 +2216,8 @@ als Leiter einer besonders großen und besonders bedeutenden Abteilung –
 
 Botschafter<span id="FnR.FnA17-f809527_18"></span><a href="#FnA17-f809527_18" class="FnR">1</a></sup>
 
+Botschaftsrat Erster Klasse<span id="FnR.FnA17-f809527_23"></span><a href="#FnA17-f809527_23" class="FnR">6</a></sup>
+
 Bundesbankdirektor<span id="FnR.FnA17-f809527_19"></span><a href="#FnA17-f809527_19" class="FnR">2</a></sup>
 
 Direktor<span id="FnR.FnA17-f809527_20"></span><a href="#FnA17-f809527_20" class="FnR">3</a></sup>
@@ -2242,10 +2247,10 @@ bei der Deutschen Telekom AG –
 Ministerialrat
 
 –  
-bei einer obersten Bundesbehörde oder beim Bundeseisenbahnvermögen –<span id="FnR.FnA17-f809527_23"></span><a href="#FnA17-f809527_23" class="FnR">6</a></sup> ,</sup><span id="FnR.FnA17-f809527_24"></span><a href="#FnA17-f809527_24" class="FnR">7</a></sup>
+bei einer obersten Bundesbehörde oder beim Bundeseisenbahnvermögen –<a href="#FnA17-f809527_23" class="FnR">6</a></sup> ,</sup><span id="FnR.FnA17-f809527_24"></span><a href="#FnA17-f809527_24" class="FnR">7</a></sup>
 
 –  
-als Mitglied des Bundesrechnungshofes –
+Ministerialrat als Mitglied des Bundesrechnungshofes –
 
 Vizepräsident
 
@@ -2275,10 +2280,10 @@ Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6, B 9.
 Soweit nicht in den Besoldungsgruppen A 15, A 16, B 5, B 6, B 9.
 
 <span id="FnA17-f809527_20"></span><a href="#FnR.FnA17-f809527_20" class="Footnote">3</a>  
-Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 4, B 5, B 6, B 7, B 8, B 9.
+Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 4, B 5, B 6, B 7, B 8.
 
 <span id="FnA17-f809527_21"></span><a href="#FnR.FnA17-f809527_21" class="Footnote">4</a>  
-Soweit nicht in den Besoldungsgruppen B 1, B 2, B 5, B 6.
+Wenn nicht in den Besoldungsgruppen B 1, B 2, B 4, B 5, B 6.
 
 <span id="FnA17-f809527_22"></span><a href="#FnR.FnA17-f809527_22" class="Footnote">5</a>  
 Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6.
@@ -2297,11 +2302,15 @@ Soweit nicht in den Besoldungsgruppen A 16, B 2.
 
 Direktor<span id="FnR.FnA18-f809527_27"></span><a href="#FnA18-f809527_27" class="FnR">1</a></sup>
 
+Direktor und Professor<span id="FnR.FnA18-f809527_30a"></span><a href="#FnA18-f809527_30a" class="FnR">5</a></sup>
+
 Erster Direktor<span id="FnR.FnA18-f809527_28"></span><a href="#FnA18-f809527_28" class="FnR">2</a></sup>
 
 Leitender Direktor des Marinearsenals
 
 Präsident<span id="FnR.FnA18-f809527_29"></span><a href="#FnA18-f809527_29" class="FnR">3</a></sup>
+
+Präsident und Professor<span id="FnR.FnA18-f809527_30aa"></span><a href="#FnA18-f809527_30aa" class="FnR">6</a></sup>
 
 Vizepräsident
 
@@ -2309,7 +2318,7 @@ Vizepräsident
 bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 7 eingestuft ist –<span id="FnR.FnA18-f809527_30"></span><a href="#FnA18-f809527_30" class="FnR">4</a></sup>
 
 <span id="FnA18-f809527_27"></span><a href="#FnR.FnA18-f809527_27" class="Footnote">1</a>  
-Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 6, B 7, B 8, B 9.
+Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 5, B 6, B 7, B 8.
 
 <span id="FnA18-f809527_28"></span><a href="#FnR.FnA18-f809527_28" class="Footnote">2</a>  
 Soweit nicht in den Besoldungsgruppen B 5, B 6.
@@ -2319,6 +2328,12 @@ Soweit nicht in den Besoldungsgruppen B 5, B 6, B 7, B 8, B 9.
 
 <span id="FnA18-f809527_30"></span><a href="#FnR.FnA18-f809527_30" class="Footnote">4</a>  
 Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
+
+<span id="FnA18-f809527_30a"></span><a href="#FnR.FnA18-f809527_30a" class="Footnote">5</a>  
+Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 5, B 6.
+
+<span id="FnA18-f809527_30aa"></span><a href="#FnR.FnA18-f809527_30aa" class="Footnote">6</a>  
+Wenn nicht in den Besoldungsgruppen B 5, B 6, B 7, B 8.
 
 Bundesbankdirektor<span id="FnR.FnA19-f809527_31"></span><a href="#FnA19-f809527_31" class="FnR">1</a></sup>
 
@@ -2349,10 +2364,10 @@ bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besold
 Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6, B 9.
 
 <span id="FnA19-f809527_32"></span><a href="#FnR.FnA19-f809527_32" class="Footnote">2</a>  
-Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 6, B 7, B 8, B 9.
+Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 6, B 7, B 8.
 
 <span id="FnA19-f809527_33"></span><a href="#FnR.FnA19-f809527_33" class="Footnote">3</a>  
-Soweit nicht in den Besoldungsgruppen B 1, B 2, B 3, B 6.
+Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 4, B 6.
 
 <span id="FnA19-f809527_34"></span><a href="#FnR.FnA19-f809527_34" class="Footnote">4</a>  
 Soweit nicht in den Besoldungsgruppen B 4, B 6, B 8.
@@ -2364,7 +2379,7 @@ Soweit nicht in den Besoldungsgruppen B 6, B 7.
 Soweit nicht in den Besoldungsgruppen B 4, B 6, B 7, B 8, B 9.
 
 <span id="FnA19-f809527_37"></span><a href="#FnR.FnA19-f809527_37" class="Footnote">7</a>  
-Soweit nicht in den Besoldungsgruppen B 6, B 7, B 8.
+Wenn nicht in den Besoldungsgruppen B 4, B 6, B 7, B 8.
 
 <span id="FnA19-f809527_38"></span><a href="#FnR.FnA19-f809527_38" class="Footnote">8</a>  
 Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
@@ -2440,10 +2455,10 @@ Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 9.
 Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 9.
 
 <span id="FnA20-f809527_41"></span><a href="#FnR.FnA20-f809527_41" class="Footnote">3</a>  
-Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 5, B 7, B 8, B 9.
+Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 7, B 8.
 
 <span id="FnA20-f809527_42"></span><a href="#FnR.FnA20-f809527_42" class="Footnote">4</a>  
-Soweit nicht in den Besoldungsgruppen B 1, B 2, B 3, B 5.
+Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 4, B 5.
 
 <span id="FnA20-f809527_43"></span><a href="#FnR.FnA20-f809527_43" class="Footnote">5</a>  
 Soweit nicht in den Besoldungsgruppen B 4, B 5, B 8.
@@ -2464,7 +2479,7 @@ Soweit nicht in den Besoldungsgruppen B 5, B 7.
 Soweit nicht in den Besoldungsgruppen B 4, B 5, B 7, B 8, B 9.
 
 <span id="FnA20-f809527_49"></span><a href="#FnR.FnA20-f809527_49" class="Footnote">11</a>  
-Soweit nicht in den Besoldungsgruppen B 5, B 7, B 8.
+Wenn nicht in den Besoldungsgruppen B 4, B 5, B 7, B 8.
 
 <span id="FnA20-f809527_50"></span><a href="#FnR.FnA20-f809527_50" class="Footnote">12</a>  
 Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört.
@@ -2499,7 +2514,7 @@ Generalstabsarzt
 Admiralstabsarzt
 
 <span id="FnA21-f809527_51"></span><a href="#FnR.FnA21-f809527_51" class="Footnote">1</a>  
-Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 6, B 8, B 9; nur bei Trägern der Sozialversicherung.
+Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 6, B 8.
 
 <span id="FnA21-f809527_52"></span><a href="#FnR.FnA21-f809527_52" class="Footnote">2</a>  
 Für höchstens einen Geschäftsführer, dessen Funktion sich von denen der Geschäftsführer in den Besoldungsgruppen B 5, B 6 abhebt.
@@ -2508,7 +2523,7 @@ Für höchstens einen Geschäftsführer, dessen Funktion sich von denen der Gesc
 Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 8, B 9.
 
 <span id="FnA21-f809527_54"></span><a href="#FnR.FnA21-f809527_54" class="Footnote">4</a>  
-Soweit nicht in den Besoldungsgruppen B 5, B 6, B 8.
+Wenn nicht in den Besoldungsgruppen B 4, B 5, B 6, B 8.
 
 Direktor<span id="FnR.FnA22-f809527_55"></span><a href="#FnA22-f809527_55" class="FnR">1</a></sup>
 
@@ -2519,7 +2534,7 @@ Präsident<span id="FnR.FnA22-f809527_57"></span><a href="#FnA22-f809527_57" cla
 Präsident und Professor<span id="FnR.FnA22-f809527_58"></span><a href="#FnA22-f809527_58" class="FnR">4</a></sup>
 
 <span id="FnA22-f809527_55"></span><a href="#FnR.FnA22-f809527_55" class="Footnote">1</a>  
-Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 6, B 7, B 9; nur bei Trägern der Sozialversicherung.
+Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 6, B 7.
 
 <span id="FnA22-f809527_56"></span><a href="#FnR.FnA22-f809527_56" class="Footnote">2</a>  
 Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6.
@@ -2528,7 +2543,7 @@ Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6.
 Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7, B 9.
 
 <span id="FnA22-f809527_58"></span><a href="#FnR.FnA22-f809527_58" class="Footnote">4</a>  
-Soweit nicht in den Besoldungsgruppen B 5, B 6, B 7.
+Wenn nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7.
 
 Botschafter<span id="FnR.FnA23-f809527_59"></span><a href="#FnA23-f809527_59" class="FnR">1</a></sup>
 
@@ -2602,7 +2617,7 @@ Vorbemerkungen
 
 Professoren an einer Hochschule, die zugleich das Amt eines Richters der Besoldungsgruppen R 1 oder R 2 ausüben, erhalten, solange sie beide Ämter bekleiden, die Dienstbezüge aus ihrem Amt als Professor und eine nicht ruhegehaltfähige Zulage. Die Zulage beträgt, wenn der Professor ein Amt der Besoldungsgruppe R 1 ausübt, monatlich 205,54 Euro, wenn er ein Amt der Besoldungsgruppe R 2 ausübt, monatlich 230,08 Euro.
 
-Weibliche Beamte führen die Amtsbezeichnung in der weiblichen Form.
+Weibliche Beamte führen die Amtsbezeichnung in der weiblichen Form. Personen, für die im Personenstandsregister weder die Geschlechtsangabe „weiblich“ noch „männlich“ eingetragen ist, können wählen, ob sie eine Amtsbezeichnung in männlicher oder weiblicher Form oder als Doppelbezeichnung führen. Jeder Amtsbezeichnung kann auf Wunsch der Klammerzusatz „(divers)“ oder „(ohne Geschlechtsangabe)“ hinzugefügt werden.
 
 Professor als Juniorprofessor
 
@@ -2634,7 +2649,7 @@ Vorbemerkungen
 
 1. Amtsbezeichnungen
 
-Weibliche Richter und Staatsanwälte führen die Amtsbezeichnungen in der weiblichen Form.
+Weibliche Richter und Staatsanwälte führen die Amtsbezeichnungen in der weiblichen Form. Personen, für die im Personenstandsregister weder die Geschlechtsangabe „weiblich“ noch „männlich“ eingetragen ist, können wählen, ob sie eine Amtsbezeichnung in männlicher oder weiblicher Form oder als Doppelbezeichnung führen. Jeder Amtsbezeichnung kann auf Wunsch der Klammerzusatz „(divers)“ oder „(ohne Geschlechtsangabe)“ hinzugefügt werden.
 
 2. Zulage für Richter und Staatsanwälte bei obersten Gerichtshöfen des Bundes sowie bei obersten Behörden
 
