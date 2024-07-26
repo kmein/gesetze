@@ -1734,13 +1734,21 @@ Registrierung eines Betreibers eines unbemannten Fluggerätes für den Betrieb i
 
 a)
 
-natürliche und juristische Personen nach Absatz 3
+natürliche Personen nach Absatz 3
 
-20 bis 50 EUR
+20 EUR
 
  
 
 b)
+
+juristische Personen nach Absatz 3
+
+50 EUR
+
+ 
+
+c)
 
 Luftsportverbände nach Absatz 4, je durch den jeweiligen Verband registriertem Mitglied
 
