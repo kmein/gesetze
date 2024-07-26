@@ -4402,7 +4402,6 @@
 - [PCBAbfallV](laws/PCBAbfallV.md) Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle und halogenierter Monomethyldiphenylmethane (Artikel 1 der Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle sowie halogenierter Monomethyldiphenylmethane und zur Änderung chemikalienrechtlicher Vorschriften)
 - [PCT](laws/PCT.md) Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
 - [PCTAO](laws/PCTAO.md) Ausführungsordnung zum Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
-- [PDLV](laws/PDLV.md) Postdienstleistungsverordnung
 - [PEhrlInstZustV](laws/PEhrlInstZustV.md) Verordnung zur Änderung der Zuständigkeit des Paul-Ehrlich-Instituts
 - [PelzVAusbV](laws/PelzVAusbV.md) Verordnung über die Berufsausbildung zum Pelzveredler/zur Pelzveredlerin
 - [PEPPV 2013](laws/PEPPV_2013.md) Verordnung zum pauschalierenden Entgeltsystem für psychiatrische und psychosomatische Einrichtungen für das Jahr 2013

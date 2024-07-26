@@ -379,13 +379,21 @@ b) leicht, sofern der Aufstiegsort innerhalb von Flugplatzkontrollzonen liegt un
 
 (3) Landesrechtliche Regelungen, die Aufstiege von ballonartigen Leuchtkörpern verbieten, bleiben unberührt.
 
-# § 21a – Zuständige Behörden in der Betriebskategorie „offen“ nach der Durchführungsverordnung (EU) 2019/947
+# § 21a – Verfahren und zuständige Behörden in der Betriebskategorie „offen“ nach der Durchführungsverordnung (EU) 2019/947
 
 (1) Zuständige Behörde in der Betriebskategorie „offen“ für die Durchführung von Prüfungen und die Ausstellung von Bescheinigungen und Zeugnissen zum Nachweis ausreichender Kompetenzen von Fernpiloten nach Artikel 4 Absatz 2 und Artikel 8 Absatz 1 in Verbindung mit Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 ist das Luftfahrt-Bundesamt.
 
 (2) Das Luftfahrt-Bundesamt legt die Voraussetzungen und Verfahren nach Absatz 1 fest. Dabei stellt es insbesondere sicher, dass nur solche Personen zu einer Prüfung für den Erwerb der in Artikel 4 Absatz 2 in Verbindung mit Punkt UAS.OPEN.030 Nummer 2 Buchstabe c in Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 genannten Bescheinigung zugelassen werden, die der zuständigen Stelle vor der Prüfung ein gültiges Identitätsdokument und bei Minderjährigkeit zusätzlich die Zustimmung des gesetzlichen Vertreters zur Teilnahme an der Prüfung vorgelegt haben.
 
 (3) Für die Aufsicht über den Betrieb unbemannter Fluggeräte in der Betriebskategorie „offen“ nach Artikel 4 in Verbindung mit Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 ist die örtlich zuständige Luftfahrtbehörde des Landes zuständig.
+
+(4) Das Luftfahrt-Bundesamt kann folgende Verwaltungsakte vollständig durch automatische Einrichtungen erlassen:
+
+1. Ausstellung und Verlängerung oder Änderung einer Bescheinigung zum Nachweis ausreichender Kompetenzen von Fernpiloten für den Betrieb eines unbemannten Fluggerätes nach Artikel 4 Absatz 2 in Verbindung mit Punkt UAS.OPEN.020 Nummer 4 Buchstabe b in Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947,
+
+2. Gebührenbescheide für die in Nummer 1 genannte Ausstellung und Verlängerung oder Änderung einer Bescheinigung.
+
+Fernpiloten haben das Recht auf Darlegung des eigenen Standpunktes und das Recht auf Entscheidung durch einen Amtsträger. Satz 1 gilt nicht, wenn ein Fernpilot Rechte nach Satz 2 geltend macht oder wenn aus anderen Gründen Anlass besteht, den Einzelfall durch Amtsträger zu bearbeiten. Setzt das Luftfahrt-Bundesamt automatische Einrichtungen zum Erlass von Verwaltungsakten ein, so muss es Angaben des Fernpiloten berücksichtigen, die für den Einzelfall bedeutsam sind und im automatischen Verfahren nicht ermittelt würden.
 
 # § 21b – Zuständige Behörden für den Betrieb von unbemannten Fluggeräten in der Betriebskategorie „speziell“ nach der Durchführungsverordnung (EU) 2019/947
 
