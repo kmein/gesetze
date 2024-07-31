@@ -5914,7 +5914,7 @@ Für natürliche Personen, die das 18. Lebensjahr noch nicht vollendet haben und
 
 (13) Eine Datenübermittlung an das Bundeszentralamt für Steuern nach Absatz 10 Satz 1 ist erstmals zu einem vom Bundesministerium der Finanzen zu bestimmenden und im Bundesgesetzblatt bekanntzumachenden Zeitpunkt zulässig. Die nach Absatz 10 Satz 2 mitteilungspflichtigen Stellen haben die von ihnen mitzuteilenden Daten erstmals zu einem vom Bundesministerium der Finanzen zu bestimmenden und im Bundesgesetzblatt bekanntzumachenden Zeitpunkt an das Bundeszentralamt für Steuern zu übermitteln. Wird Kindergeld erstmals nach dem vom Bundesministerium der Finanzen nach Satz 2 bestimmten Zeitpunkt ausgezahlt, gilt Satz 2 entsprechend.
 
-(+++ § 139b Abs. 8: Zur Anwendung vgl. Art. 97 § 5a AOEG 1977 +++)
+(+++ § 139b: Zur Anwendung vgl. Art. 97 § 5a AOEG 1977 +++)
 
 # § 139c – Wirtschafts-Identifikationsnummer
 
@@ -6071,6 +6071,8 @@ Für natürliche Personen, die das 18. Lebensjahr noch nicht vollendet haben und
 (6a) Die in Absatz 3 Nummer 1, 3, 5, 7, 8 und 9, in Absatz 4 Nummer 1, 3, 5, 7, 8 und 10 sowie in Absatz 5 Nummer 1, 4, 6, 8, 9 und 11 aufgeführten Daten werden bei einem Unternehmen im Sinne des Unternehmensbasisdatenregistergesetzes, das ein Nutzerkonto im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes nutzt, auch zum Nachweis der Identität als Nutzer dieses Nutzerkontos gespeichert; diese Daten dürfen auf Veranlassung des Nutzers eines Nutzerkontos elektronisch an das Nutzerkonto übermittelt werden.
 
 (7) Die in Absatz 3 aufgeführten Daten dürfen nur für die in Absatz 6 genannten Zwecke verarbeitet werden, es sei denn, eine Rechtsvorschrift sieht eine andere Verarbeitung ausdrücklich vor.
+
+(+++ § 139c: Zur Anwendung vgl. Art. 97 § 5a AOEG 1977 +++)
 
 # § 139d – Verordnungsermächtigung
 

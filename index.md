@@ -4631,6 +4631,7 @@
 - [PVÜG](laws/PVÜG.md) Gesetz zu den am 24. Juli 1971 in Paris unterzeichneten Übereinkünften auf dem Gebiet des Urheberrechts
 - [PWMAusbV](laws/PWMAusbV.md) Verordnung über die Berufsausbildung zum Präzisionswerkzeugmechaniker und zur Präzisionswerkzeugmechanikerin *
 - [QEWV](laws/QEWV.md) Verordnung zu qualifizierten Einrichtungen und qualifizierten Wirtschaftsverbänden
+- [QFUV](laws/QFUV.md) Verordnung über die berufliche Umschulung zum Geprüften Qualitätsfachmann Fertigungsprüftechnik und zur Geprüften Qualitätsfachfrau Fertigungsprüftechnik
 - [QNormBanV](laws/QNormBanV.md) Verordnung über Qualitätsnormen für Bananen
 - [QVWSG](laws/QVWSG.md) Gesetz zur Prüfung von Daten multinationaler Unternehmensgruppen zur Sicherung der Qualität der Volkswirtschaftlichen Gesamtrechnungen und der Wirtschaftsstatistiken
 - [RAAG](laws/RAAG.md) Gesetz über die Aussetzung der Anpassung der Renten zum 1. Juli 2004

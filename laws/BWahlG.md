@@ -307,6 +307,8 @@ Anlage 2
 
 (4) Die Wahl in den Wahlkreisen steht Bewerbern, die nicht von einer Partei vorgeschlagen werden, nach den sich aus diesem Gesetz ergebenden Anforderungen offen.
 
+§ 1 Abs. 3: Mit dem GG vereinbar gem. BVerfGE v. 30.7.2024 - 2 BvF 1/23 u.a. -
+
 # § 2 – Gliederung des Wahlgebietes
 
 (1) Wahlgebiet ist das Gebiet der Bundesrepublik Deutschland.
@@ -355,6 +357,8 @@ Satz 2 Nummer 2 findet keine Anwendung auf Listen, die von Parteien nationaler M
 
 (4) Erhält bei der Verteilung der Sitze eine Partei, auf die mehr als die Hälfte der Gesamtzahl der Zweitstimmen aller zu berücksichtigenden Parteien entfallen ist, nicht mehr als die Hälfte der Sitze, werden ihr weitere Sitze zugeteilt, bis auf sie ein Sitz mehr als die Hälfte der Sitze entfällt. In einem solchen Fall erhöht sich die Gesamtzahl der Sitze (§ 1 Absatz 1) um die Unterschiedszahl.
 
+§ 4 Abs. 2 Satz 2 Nr. 2: Nach Maßgabe der Entscheidungsgründe mit Art. 21 Abs. 1 u. Art. 38 Abs. 1 Satz 1 GG unvereinbar gem. BVerfGE v. 30.7.2024 - 2 BvF 1/23 u.a. -. Bis zu einer Neuregelung gilt § 4 Abs. 2 Satz 2 Nr. 2 des Bundeswahlgesetzes mit der Maßgabe fort, dass bei der Sitzverteilung Parteien, die weniger als 5 Prozent der im Wahlgebiet abgegebenen gültigen Zweitstimmen erhalten haben, nur dann nicht berücksichtigt werden, wenn ihre Bewerber in weniger als drei Wahlkreisen die meisten Erststimmen auf sich vereinigt haben.
+
 # § 5 – Berechnung der Sitzverteilung
 
 (1) Zur Ermittlung der Oberverteilung wird die Zahl der zu berücksichtigenden Zweitstimmen im Wahlgebiet durch den nach Absatz 2 zu bestimmenden Zuteilungsdivisor geteilt und das Teilungsergebnis gemäß Absatz 3 gerundet. Zur Ermittlung der Unterverteilung wird für jede Partei die Zahl der auf ihre Landeslisten jeweils entfallenden Zweitstimmen durch den nach Absatz 2 zu bestimmenden Zuteilungsdivisor geteilt und das Teilungsergebnis gemäß Absatz 3 gerundet.
@@ -372,6 +376,9 @@ Satz 2 Nummer 2 findet keine Anwendung auf Listen, die von Parteien nationaler M
 (3) Bei Stimmengleichheit und bei gleichen Erststimmenanteilen entscheidet das Los. Es ist zwischen Bewerbern in einem Wahlkreis (Absatz 1 Satz 1, Absatz 2) vom Kreiswahlleiter, zwischen Bewerbern im Verfahren der Zweitstimmendeckung (Absatz 1 Satz 4) vom Bundeswahlleiter zu ziehen.
 
 (4) Ein Listenbewerber ist dann als Abgeordneter gewählt, wenn er bei der Vergabe der Sitze der Landesliste (§ 4 Absatz 3), die nach dem Verfahren der Zweitstimmendeckung verbleiben, einen Sitz erhält; die Vergabe erfolgt in der Reihenfolge der Landesliste. Bewerber, die nach Absatz 1 Satz 1 gewählt sind, bleiben auf der Landesliste unberücksichtigt. Entfallen auf eine Landesliste mehr Sitze als Bewerber benannt sind, so bleiben diese Sitze unbesetzt.
+
+§ 6 Abs. 1: Mit dem GG vereinbar gem. BVerfGE v. 30.7.2024 - 2 BvF 1/23 u.a. -  
+§ 6 Abs. 4 Satz 1 u. 2: Mit dem GG vereinbar gem. BVerfGE v. 30.7.2024 - 2 BvF 1/23 u.a. -
 
 # § 7 – (weggefallen)
 
