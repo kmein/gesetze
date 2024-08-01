@@ -2385,6 +2385,10 @@ Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änd
 
 Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
 
+§ 455a
+
+Neunundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
+
 § 456
 
 Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes
@@ -3269,7 +3273,7 @@ Bei einer berufsvorbereitenden Bildungsmaßnahme werden dem Träger als Maßnahm
 
 # § 54a – Einstiegsqualifizierung
 
-(1) Arbeitgeber, die eine betriebliche Einstiegsqualifizierung durchführen, können durch Zuschüsse in Höhe der von ihnen mit der oder dem Auszubildenden vereinbarten Vergütung zuzüglich des pauschalierten Anteils am durchschnittlichen Gesamtsozialversicherungsbeitrag gefördert werden. Der Zuschuss zur Vergütung ist auf 262 Euro monatlich begrenzt. Die betriebliche Einstiegsqualifizierung dient der Vermittlung und Vertiefung von Grundlagen für den Erwerb beruflicher Handlungsfähigkeit. Soweit die betriebliche Einstiegsqualifizierung als Berufsausbildungsvorbereitung nach dem Berufsbildungsgesetz durchgeführt wird, gelten die §§ 68 bis 70 des Berufsbildungsgesetzes.
+(1) Arbeitgeber, die eine betriebliche Einstiegsqualifizierung durchführen, können durch Zuschüsse in Höhe der von ihnen mit der oder dem Auszubildenden vereinbarten Vergütung zuzüglich des pauschalierten Anteils am durchschnittlichen Gesamtsozialversicherungsbeitrag gefördert werden. Der Zuschuss zur Vergütung ist auf 276 Euro monatlich begrenzt. Die betriebliche Einstiegsqualifizierung dient der Vermittlung und Vertiefung von Grundlagen für den Erwerb beruflicher Handlungsfähigkeit. Soweit die betriebliche Einstiegsqualifizierung als Berufsausbildungsvorbereitung nach dem Berufsbildungsgesetz durchgeführt wird, gelten die §§ 68 bis 70 des Berufsbildungsgesetzes.
 
 (2) Eine Einstiegsqualifizierung kann für die Dauer von vier bis längstens zwölf Monaten gefördert werden, wenn sie
 
@@ -3363,7 +3367,7 @@ Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere zu bestimmen
 
 (1) Ist die oder der Auszubildende während der Berufsausbildung außerhalb des Haushalts der Eltern oder eines Elternteils untergebracht, wird der jeweils geltende Bedarf nach § 13 Absatz 1 Nummer 1 und Absatz 2 Nummer 2 des Bundesausbildungsförderungsgesetzes zugrunde gelegt.
 
-(2) Ist die oder der Auszubildende mit voller Verpflegung in einem Wohnheim, einem Internat oder in einer anderen sozialpädagogisch begleiteten Wohnform im Sinne des Achten Buches untergebracht, werden abweichend von Absatz 1 als Bedarf für den Lebensunterhalt die im Rahmen der §§ 78a bis 78g des Achten Buches vereinbarten Entgelte für Verpflegung und Unterbringung ohne sozialpädagogische Begleitung zuzüglich 109 Euro monatlich für sonstige Bedürfnisse zugrunde gelegt. Als Bedarf für den Lebensunterhalt von Auszubildenden unter 27 Jahren werden zusätzlich die Entgelte für die sozialpädagogische Begleitung zugrunde gelegt, soweit diese nicht von Dritten erstattet werden. Ist die oder der Auszubildende bereits in einer anderen sozialpädagogisch begleiteten Wohnform untergebracht, werden Leistungen für junge Menschen, die die Voraussetzungen des § 13 Absatz 1 des Achten Buchs erfüllen, vorrangig nach § 13 Absatz 3 des Achten Buches erbracht.
+(2) Ist die oder der Auszubildende mit voller Verpflegung in einem Wohnheim, einem Internat oder in einer anderen sozialpädagogisch begleiteten Wohnform im Sinne des Achten Buches untergebracht, werden abweichend von Absatz 1 als Bedarf für den Lebensunterhalt die im Rahmen der §§ 78a bis 78g des Achten Buches vereinbarten Entgelte für Verpflegung und Unterbringung ohne sozialpädagogische Begleitung zuzüglich 115 Euro monatlich für sonstige Bedürfnisse zugrunde gelegt. Als Bedarf für den Lebensunterhalt von Auszubildenden unter 27 Jahren werden zusätzlich die Entgelte für die sozialpädagogische Begleitung zugrunde gelegt, soweit diese nicht von Dritten erstattet werden. Ist die oder der Auszubildende bereits in einer anderen sozialpädagogisch begleiteten Wohnform untergebracht, werden Leistungen für junge Menschen, die die Voraussetzungen des § 13 Absatz 1 des Achten Buchs erfüllen, vorrangig nach § 13 Absatz 3 des Achten Buches erbracht.
 
 (+++ § 61: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
 
@@ -3373,7 +3377,7 @@ Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere zu bestimmen
 
 (2) Ist die oder der Auszubildende außerhalb des Haushalts der Eltern oder eines Elternteils untergebracht, wird als Bedarf für den Lebensunterhalt der jeweils geltende Bedarf nach § 12 Absatz 2 Nummer 1 des Bundesausbildungsförderungsgesetzes zugrunde gelegt.
 
-(3) Ist die oder der Auszubildende mit voller Verpflegung in einem Wohnheim oder einem Internat untergebracht, werden abweichend von Absatz 2 als Bedarf für den Lebensunterhalt die im Rahmen der §§ 78a bis 78g des Achten Buches vereinbarten Entgelte für Verpflegung und Unterbringung ohne sozialpädagogische Begleitung zuzüglich 109 Euro monatlich für sonstige Bedürfnisse zugrunde gelegt. Als Bedarf für den Lebensunterhalt von Auszubildenden unter 18 Jahren werden zusätzlich die Entgelte für die sozialpädagogische Begleitung zugrunde gelegt, soweit diese nicht von Dritten erstattet werden.
+(3) Ist die oder der Auszubildende mit voller Verpflegung in einem Wohnheim oder einem Internat untergebracht, werden abweichend von Absatz 2 als Bedarf für den Lebensunterhalt die im Rahmen der §§ 78a bis 78g des Achten Buches vereinbarten Entgelte für Verpflegung und Unterbringung ohne sozialpädagogische Begleitung zuzüglich 115 Euro monatlich für sonstige Bedürfnisse zugrunde gelegt. Als Bedarf für den Lebensunterhalt von Auszubildenden unter 18 Jahren werden zusätzlich die Entgelte für die sozialpädagogische Begleitung zugrunde gelegt, soweit diese nicht von Dritten erstattet werden.
 
 (+++ § 62: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
 
@@ -3399,7 +3403,7 @@ In besonderen Härtefällen können die notwendigen Aufwendungen für eine weite
 
 # § 64 – Sonstige Aufwendungen
 
-(1) Bei einer Berufsausbildung wird als Bedarf für sonstige Aufwendungen eine Pauschale für Kosten der Arbeitskleidung in Höhe von 15 Euro monatlich zugrunde gelegt.
+(1) Bei einer Berufsausbildung wird als Bedarf für sonstige Aufwendungen eine Pauschale für Kosten der Arbeitskleidung in Höhe von 16 Euro monatlich zugrunde gelegt.
 
 (2) Bei einer berufsvorbereitenden Bildungsmaßnahme werden als Bedarf für sonstige Aufwendungen bei Auszubildenden, deren Schutz im Krankheits- oder Pflegefall nicht anderweitig sichergestellt ist, die Beiträge für eine freiwillige Krankenversicherung ohne Anspruch auf Krankengeld und die Beiträge zur Pflegepflichtversicherung bei einem Träger der gesetzlichen Kranken- und Pflegeversicherung oder, wenn dort im Einzelfall ein Schutz nicht gewährleistet ist, bei einem privaten Krankenversicherungsunternehmen zugrunde gelegt.
 
@@ -3439,7 +3443,7 @@ Für die Anpassung der Bedarfssätze gilt § 35 Satz 1 und 2 des Bundesausbildun
 
 2. § 22 Absatz 1 des Bundesausbildungsförderungsgesetzes ist das Einkommen der oder des Auszubildenden maßgebend, das zum Zeitpunkt der Antragstellung absehbar ist; Änderungen bis zum Zeitpunkt der Entscheidung sind zu berücksichtigen;
 
-3. § 23 Absatz 3 des Bundesausbildungsförderungsgesetzes bleiben 80 Euro der Ausbildungsvergütung und abweichend von § 25 Absatz 1 des Bundesausbildungsförderungsgesetzes zusätzlich 856 Euro anrechnungsfrei, wenn die Ausbildungsstätte von der Wohnung der Eltern oder eines Elternteils aus nicht in angemessener Zeit erreicht werden kann;
+3. § 23 Absatz 3 des Bundesausbildungsförderungsgesetzes bleiben 85 Euro der Ausbildungsvergütung und abweichend von § 25 Absatz 1 des Bundesausbildungsförderungsgesetzes zusätzlich 901 Euro anrechnungsfrei, wenn die Ausbildungsstätte von der Wohnung der Eltern oder eines Elternteils aus nicht in angemessener Zeit erreicht werden kann;
 
 4. § 23 Absatz 4 Nummer 2 des Bundesausbildungsförderungsgesetzes werden Leistungen Dritter, die zur Aufstockung der Berufsausbildungsbeihilfe erbracht werden, nicht angerechnet.
 
@@ -3453,7 +3457,7 @@ Für die Anpassung der Bedarfssätze gilt § 35 Satz 1 und 2 des Bundesausbildun
 
 # § 68 – Vorausleistung von Berufsausbildungsbeihilfe
 
-(1) Macht die oder der Auszubildende glaubhaft, dass ihre oder seine Eltern den nach den Vorschriften dieses Buches angerechneten Unterhaltsbetrag nicht leisten, oder kann das Einkommen der Eltern nicht berechnet werden, weil diese die erforderlichen Auskünfte nicht erteilen oder Urkunden nicht vorlegen, und ist die Berufsausbildung, auch unter Berücksichtigung des Einkommens der Ehefrau oder des Ehemanns oder der Lebenspartnerin oder des Lebenspartners im Bewilligungszeitraum, gefährdet, so wird nach Anhörung der Eltern ohne Anrechnung dieses Betrags Berufsausbildungsbeihilfe geleistet. Von der Anhörung der Eltern kann aus wichtigem Grund abgesehen werden.
+(1) Macht die oder der Auszubildende glaubhaft, dass ihre oder seine Eltern den nach den Vorschriften dieses Buches angerechneten Unterhaltsbetrag nicht leisten, oder kann das Einkommen der Eltern nicht berechnet werden, weil diese die erforderlichen Auskünfte nicht erteilen oder Urkunden nicht vorlegen, und ist die Berufsausbildung, auch unter Berücksichtigung des Einkommens der Ehefrau oder des Ehemanns oder der Lebenspartnerin oder des Lebenspartners im Bewilligungszeitraum, gefährdet, so wird nach Anhörung der Eltern ohne Anrechnung dieses Betrags Berufsausbildungsbeihilfe geleistet. Von der Anhörung der Eltern kann aus wichtigem Grund abgesehen werden. Eine Anrechnung des weitergeleiteten oder direkt ausgezahlten Kindergeldes auf den vorausgeleisteten Betrag sowie eine Anrechnung überobligatorischer Leistungen eines Elternteils auf den angerechneten Unterhaltsbetrag des anderen Elternteils findet nicht statt.
 
 (2) Ein Anspruch der oder des Auszubildenden auf Unterhaltsleistungen gegen ihre oder seine Eltern geht bis zur Höhe des anzurechnenden Unterhaltsanspruchs zusammen mit dem unterhaltsrechtlichen Auskunftsanspruch mit der Zahlung der Berufsausbildungsbeihilfe auf die Agentur für Arbeit über. Die Agentur für Arbeit hat den Eltern die Förderung anzuzeigen. Der Übergang wird nicht dadurch ausgeschlossen, dass der Anspruch nicht übertragen, nicht verpfändet oder nicht gepfändet werden kann. Ist die Unterhaltsleistung trotz des Rechtsübergangs mit befreiender Wirkung an die Auszubildende oder den Auszubildenden gezahlt worden, hat die oder der Auszubildende diese insoweit zu erstatten.
 
@@ -3603,9 +3607,9 @@ Gestattete oder geduldete Ausländerinnen oder Ausländer, die vor dem 1. August
 
 # § 76 – Außerbetriebliche Berufsausbildung
 
-(1) Die Agentur für Arbeit kann förderungsberechtigte junge Menschen durch eine nach § 57 Absatz 1 förderungsfähige Berufsausbildung in einer außerbetrieblichen Einrichtung (außerbetriebliche Berufsausbildung) fördern. Der Anteil betrieblicher Ausbildungsphasen je Ausbildungsjahr muss angemessen sein.
+(1) Die Agentur für Arbeit fördert förderungsberechtigte junge Menschen durch eine nach § 57 Absatz 1 förderungsfähige Berufsausbildung in einer außerbetrieblichen Einrichtung (außerbetriebliche Berufsausbildung). Der Anteil betrieblicher Ausbildungsphasen je Ausbildungsjahr muss angemessen sein.
 
-(2) Während der Durchführung einer außerbetrieblichen Berufsausbildung sind alle Möglichkeiten wahrzunehmen, um den Übergang der oder des Auszubildenden in ein betriebliches Berufsausbildungsverhältnis zu unterstützen. Die Agentur für Arbeit zahlt dem Träger, der die außerbetriebliche Berufsausbildung durchführt, für jede vorzeitige und nachhaltige Vermittlung aus einer außerbetrieblichen Berufsausbildung in eine betriebliche Berufsausbildung eine Pauschale in Höhe von 2 000 Euro. Die Vermittlung gilt als vorzeitig, wenn die oder der Auszubildende spätestens zwölf Monate vor dem vertraglichen Ende der außerbetrieblichen Berufsausbildung vermittelt worden ist. Die Vermittlung gilt als nachhaltig, wenn das Berufsausbildungsverhältnis länger als vier Monate fortbesteht. Die Pauschale wird für jede Auszubildende und jeden Auszubildenden nur einmal gezahlt.
+(2) Während der Durchführung einer außerbetrieblichen Berufsausbildung sind alle Möglichkeiten wahrzunehmen, um den Übergang der oder des Auszubildenden in ein betriebliches Berufsausbildungsverhältnis zu unterstützen. Die Agentur für Arbeit zahlt dem Träger, der die außerbetriebliche Berufsausbildung durchführt, für jede vorzeitige und nachhaltige Vermittlung aus einer außerbetrieblichen Berufsausbildung in eine betriebliche Berufsausbildung eine Pauschale in Höhe von 3 000 Euro. Die Vermittlung gilt als vorzeitig, wenn die oder der Auszubildende spätestens zwölf Monate vor dem vertraglichen Ende der außerbetrieblichen Berufsausbildung vermittelt worden ist. Die Vermittlung gilt als nachhaltig, wenn das Berufsausbildungsverhältnis länger als vier Monate fortbesteht. Die Pauschale wird für jede Auszubildende und jeden Auszubildenden nur einmal gezahlt. Zur Sicherstellung des erfolgreichen Abschlusses der betrieblichen Berufsausbildung kann eine Förderung des jungen Menschen auch nach Übergang in ein betriebliches Berufsausbildungsverhältnis erfolgen. Die Agentur für Arbeit legt die erforderlichen Unterstützungselemente in Abstimmung mit dem Träger der Maßnahme im Einzelfall fest. Diese Förderung endet spätestens mit dem Abschluss der betrieblichen Berufsausbildung.
 
 (2a) Die Gestaltung des Lehrplans, die Unterrichtsmethode und die Güte der zum Einsatz vorgesehenen Lehr- und Lernmittel müssen eine erfolgreiche Berufsausbildung erwarten lassen.
 
@@ -3618,6 +3622,8 @@ Gestattete oder geduldete Ausländerinnen oder Ausländer, die vor dem 1. August
 1. die lernbeeinträchtigt oder sozial benachteiligt sind und wegen in ihrer Person liegender Gründe auch mit ausbildungsfördernden Leistungen nach diesem Buch eine Berufsausbildung in einem Betrieb nicht aufnehmen können oder
 
 2. deren betriebliches oder außerbetriebliches Berufsausbildungsverhältnis vorzeitig gelöst worden ist und deren Eingliederung in betriebliche Berufsausbildung auch mit ausbildungsfördernden Leistungen nach diesem Buch aussichtslos ist, sofern zu erwarten ist, dass sie die Berufsausbildung erfolgreich abschließen können.
+
+Förderungsberechtigt sind auch junge Menschen, die hinreichende Bewerbungsbemühungen nachgewiesen sowie Angebote der Berufsberatung wahrgenommen haben und bei denen ungeachtet der Vermittlungsbemühungen der Agentur für Arbeit die Aufnahme einer betrieblichen Berufsausbildung auch mit ausbildungsfördernden Leistungen nach diesem Buch nicht zu erwarten ist, wenn sie in einer Region wohnen, in der die Agenturen für Arbeit unter Einbindung der Sozialpartner eine erhebliche Unterversorgung an Ausbildungsplätzen festgestellt haben.
 
 (6) Nicht förderungsberechtigt sind
 
@@ -4499,7 +4505,7 @@ Bei einer Berufsausbildung und bei einer individuellen betrieblichen Qualifizier
 
 1. bei Unterbringung im Haushalt der Eltern oder eines Elternteils der jeweils geltende Bedarf nach § 13 Absatz 1 Nummer 1 des Bundesausbildungsförderungsgesetzes zuzüglich des jeweils geltenden Bedarfs für die Unterkunft nach § 13 Absatz 2 Nummer 1 des Bundesausbildungsförderungsgesetzes,
 
-2. bei Unterbringung in einem Wohnheim, einem Internat oder einer besonderen Einrichtung für Menschen mit Behinderungen 126 Euro monatlich, wenn die Kosten für Unterbringung und Verpflegung von der Agentur für Arbeit oder einem anderen Leistungsträger übernommen werden,
+2. bei Unterbringung in einem Wohnheim, einem Internat oder einer besonderen Einrichtung für Menschen mit Behinderungen 133 Euro monatlich, wenn die Kosten für Unterbringung und Verpflegung von der Agentur für Arbeit oder einem anderen Leistungsträger übernommen werden,
 
 3. bei anderweitiger Unterbringung der jeweils geltende Bedarf nach § 13 Absatz 1 Nummer 1 des Bundesausbildungsförderungsgesetzes zuzüglich des jeweils geltenden Bedarfs für die Unterkunft nach § 13 Absatz 2 Nummer 2 des Bundesausbildungsförderungsgesetzes; § 128 ist mit Ausnahme der Erstattung behinderungsbedingter Mehraufwendungen nicht anzuwenden.
 
@@ -4513,7 +4519,7 @@ Bei berufsvorbereitenden Bildungsmaßnahmen und bei Grundausbildung wird folgend
 
 1. bei Unterbringung im Haushalt der Eltern oder eines Elternteils der jeweils geltende Bedarf nach § 12 Absatz 1 Nummer 1 des Bundesausbildungsförderungsgesetzes,
 
-2. bei Unterbringung in einem Wohnheim, einem Internat oder einer besonderen Einrichtung für Menschen mit Behinderungen 126 Euro monatlich, wenn die Kosten für Unterbringung und Verpflegung von der Agentur für Arbeit oder einem anderen Leistungsträger übernommen werden,
+2. bei Unterbringung in einem Wohnheim, einem Internat oder einer besonderen Einrichtung für Menschen mit Behinderungen 133 Euro monatlich, wenn die Kosten für Unterbringung und Verpflegung von der Agentur für Arbeit oder einem anderen Leistungsträger übernommen werden,
 
 3. bei anderweitiger Unterbringung der jeweils geltende Bedarf nach § 12 Absatz 2 Nummer 1 des Bundesausbildungsförderungsgesetzes; § 128 ist mit Ausnahme der Erstattung behinderungsbedingter Mehraufwendungen nicht anzuwenden.
 
@@ -4521,7 +4527,7 @@ Bei berufsvorbereitenden Bildungsmaßnahmen und bei Grundausbildung wird folgend
 
 # § 125 – Ausbildungsgeld bei Maßnahmen in anerkannten Werkstätten für behinderte Menschen und bei Maßnahmen anderer Leistungsanbieter nach § 60 des Neunten Buches
 
-Bei Maßnahmen im Eingangsverfahren und Berufsbildungsbereich anerkannter Werkstätten für behinderte Menschen und bei vergleichbaren Maßnahmen anderer Leistungsanbieter nach § 60 des Neunten Buches wird ein Ausbildungsgeld in Höhe von 126 Euro monatlich gezahlt.
+Bei Maßnahmen im Eingangsverfahren und Berufsbildungsbereich anerkannter Werkstätten für behinderte Menschen und bei vergleichbaren Maßnahmen anderer Leistungsanbieter nach § 60 des Neunten Buches wird ein Ausbildungsgeld in Höhe von 133 Euro monatlich gezahlt.
 
 (+++ § 125: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
 
@@ -4531,11 +4537,11 @@ Bei Maßnahmen im Eingangsverfahren und Berufsbildungsbereich anerkannter Werkst
 
 (2) Anrechnungsfrei bei der Einkommensanrechnung bleibt im Übrigen das Einkommen
 
-1. des Menschen mit Behinderungen aus Waisenrenten, Waisengeld oder aus Unterhaltsleistungen bis zu 334 Euro monatlich,
+1. des Menschen mit Behinderungen aus Waisenrenten, Waisengeld oder aus Unterhaltsleistungen bis zu 352 Euro monatlich,
 
-2. der Eltern bis zu 4 392 Euro monatlich, des verwitweten Elternteils oder, bei getrennt lebenden Eltern, das Einkommen des Elternteils, bei dem der Mensch mit Behinderungen lebt, ohne Anrechnung des Einkommens des anderen Elternteils, bis zu 2 736 Euro monatlich und
+2. der Eltern bis zu 4 623 Euro monatlich, des verwitweten Elternteils oder, bei getrennt lebenden Eltern, das Einkommen des Elternteils, bei dem der Mensch mit Behinderungen lebt, ohne Anrechnung des Einkommens des anderen Elternteils, bis zu 2 880 Euro monatlich und
 
-3. der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners bis zu 2 736 Euro monatlich.
+3. der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners bis zu 2 880 Euro monatlich.
 
 (+++ § 126: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
 
@@ -7325,6 +7331,10 @@ Für Fälle des § 132 Absatz 1 Satz 1 Nummer 2 in der bis zum 31. Juli 2019 gel
 # § 455 – Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
 
 Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67 und 123 bis 126 ab dem 1. August 2022 anzuwenden.
+
+# § 455a – Neunundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
+
+Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67, 68 und die §§ 123 bis 126 ab dem 1. August 2024 anzuwenden.
 
 # § 456 – Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes
 

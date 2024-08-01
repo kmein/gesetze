@@ -89,13 +89,13 @@ c) Triebwerkstechnik,
 
 (7) Integrative Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1. Berufsbildung, Arbeits- und Tarifrecht,
+1. Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2. Aufbau und Organisation des Ausbildungsbetriebes,
+2. Sicherheit und Gesundheit bei der Arbeit,
 
-3. Sicherheit und Gesundheitsschutz bei der Arbeit,
+3. Umweltschutz und Nachhaltigkeit,
 
-4. Umweltschutz.
+4. digitalisierte Arbeitswelt.
 
 (8) Die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 2 sind in mindestens einem Einsatzgebiet anzuwenden und zu vertiefen. Als Einsatzgebiete kommen insbesondere in Betracht:
 
@@ -307,7 +307,7 @@ Der Prüfling soll in 14 Stunden ein Prüfungsprodukt, das einem betrieblichen A
 
 1. Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-a) Fluggerätstrukturen unter Verwendung von flugspezifischen Werkstoffen zu fertigen, zu montieren und instand zu setzen,
+a) Fluggerätstrukturen unter Verwendung von luftfahrtspezifischen Werkstoffen zu fertigen, zu montieren und instand zu setzen,
 
 b) mechanische, hydraulische, pneumatische und elektrische Systemkomponenten zu montieren und instand zu setzen,
 
@@ -517,7 +517,8 @@ Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt die Verord
 
 # Anlage 1 – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin – Sachliche Gliederung –
 
-(Fundstelle: BGBl. I 2013, 1896 - 1900)
+(Fundstelle: BGBl. I 2013, 1896 - 1900  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
@@ -567,7 +568,7 @@ g) Dokumentationen, auch in englischer Sprache, erstellen
 
 h) Kommunikation, auch in englischer Sprache, durchführen
 
-i) IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung anwenden
+i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 
 j) Rolle der nationalen und internationalen Luftfahrtbehörden beachten
 
@@ -580,21 +581,23 @@ a) Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unte
 
 b) Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
 
-c) elektrische und mechanische Verbindungen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
+c) elektrische und mechanische Verbindungen unter Berücksichtigung mathematischer und physikalischer Grundlagen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
 
-d) Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unterscheiden
+d) Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unter Berücksichtigung mathematischer und physikalischer Grundlagen unterscheiden
 
-e) Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
+e) Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter Berücksichtigung mathematischer und physikalischer Grundlagen formen
 
-f) Montage- und Demontagetechniken anwenden und Bauteile anpassen
+f) gängige Fertigungsverfahren und ihren Einfluss auf die mechanischen und physikalischen Eigenschaften des fertigen Teils unter Berücksichtigung mathematischer und physikalischer Grundlagen unterscheiden sowie häufige Produktionsfehler prüfen
 
-g) Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
+g) Montage- und Demontagetechniken anwenden und Bauteile anpassen
 
-h) Funktion von Potenzialausgleichsleitern prüfen und beurteilen
+h) Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
 
-i) Übergangswiderstände messen und beurteilen; Isolationswiderstände beachten
+i) Funktion von Potenzialausgleichsleitern unter Berücksichtigung mathematischer und physikalischer Grundlagen prüfen und beurteilen
 
-j) Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
+j) Übergangswiderstände unter Berücksichtigung mathematischer und physikalischer Grundlagen messen und beurteilen; Isolationswiderstände beachten
+
+k) Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten.
 
 4
 
@@ -616,7 +619,7 @@ a) Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Inst
 
 b) Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
 
-c) Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+c) Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen unter Berücksichtigung mathematischer und physikalischer Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen.
 
 6
 
@@ -634,28 +637,30 @@ Durchführen von qualitätssichernden Maßnahmen
 
 a) Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
 
-b) Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
+b) Fehler unter Beachtung des Fehlermeldewesens melden und die Schutzwürdigkeit sicherheitsrelevanter Meldungen anerkennen
 
-c) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
+c) Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen sowie durch Auswertung eigener und fremder Fehler feststellen, Maßnahmen zur Behebung ergreifen und dokumentieren
 
-d) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
+d) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen und fördern
 
-e) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+e) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
-f) Fremdkörperkontrollen durchführen
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+g) Fremdkörperkontrollen durchführen
 
 8
 
 Berücksichtigen menschlicher Faktoren  
 (§ 4 Absatz 3 Nummer 8)
 
-a) Verantwortung des Einzelnen und eines Teams bei der Arbeit berücksichtigen
+a) Verantwortung und Verhalten des Einzelnen und eines Teams sowie die Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von Risiken berücksichtigen
 
 b) kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im Team beachten
 
-c) psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen berücksichtigen
+c) psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch bei der Arbeit am Fluggerät, auf den Menschen und deren Bedeutung für die Vergrößerung von Risiken berücksichtigen
 
-d) physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
+d) physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen.
 
 Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung:  
 Instandhaltungstechnik
@@ -668,51 +673,1590 @@ Triebwerkstechnik
 
 Abschnitt E: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
-# Anlage 2 – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin – Zeitliche Gliederung –
+# Anlage 2 – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin - Zeitliche Gliederung –
 
-(Fundstelle: BGBl. I 2013, 1901 - 1915)
+(Fundstelle: BGBl. 2024 I Nr. 186, S. 6 – 22)
 
-Abschnitt 1: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
+Abschnitt 1: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
-Abschnitt 2: 1. bis 18. Ausbildungsmonat
+Lfd. Nr.
 
-Zeitrahmen 1: Herstellen von Komponenten
+Teil des Ausbildungsberufsbildes
 
-Zeitrahmen 2: Herstellen von Baugruppen
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
-Zeitrahmen 3: Montage und Demontage
+Zeitliche  
+Zuordnung
 
-Abschnitt 3: Fachrichtung Instandhaltungstechnik  
-19. bis 42. Ausbildungsmonat
+1
 
-Zeitrahmen 4: Wartung, Inspektion und Modifikation
+2
 
-Zeitrahmen 5: Analyse und Behebung von Störungen und Schäden
+3
 
-Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
+4
 
-Zeitrahmen 7: Flugbetrieb
+1
 
-Abschnitt 4: Fachrichtung Fertigungstechnik  
-19. bis 42. Ausbildungsmonat
+Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht  
+(§ 4 Absatz 7 Nummer 1)
 
-Zeitrahmen 4: Herstellen von komplexen Baugruppen
+a) den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des Ausbildungsbetriebes erläutern
 
-Zeitrahmen 5: Be- und Verarbeiten von Kunst- und Verbundwerkstoffen
+b) Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im System der dualen Berufsausbildung Beteiligten beschreiben
 
-Zeitrahmen 6: Ausrüstung von Baugruppen
+c) die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung beitragen
 
-Zeitrahmen 7: Wartung und Inspektion
+d) die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und mitbestimmungsrechtlichen Vorschriften erläutern
 
-Abschnitt 5: Fachrichtung Triebwerkstechnik  
-19. bis 42. Ausbildungsmonat
+e) Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes erläutern
 
-Zeitrahmen 4: Wartung, Inspektion und Modifikation
+f) Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen und Gewerkschaften erläutern
 
-Zeitrahmen 5: Analyse und Behebung von Störungen und Schäden
+g) Positionen der eigenen Entgeltabrechnung erläutern
 
-Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
+h) wesentliche Inhalte von Arbeitsverträgen erläutern
 
-# Anlage 3 – (zu § 4 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Verordnung (EU) Nr. 1149/2011 Anhang III (Teil 66)
+i) Möglichkeiten des beruflichen Aufstiegs und der beruflichen Weiterentwicklung erläutern
 
-(Fundstelle: BGBl. I 2013, 1916 - 1924)
+ 
+
+2
+
+Sicherheit und Gesundheit bei der Arbeit  
+(§ 4 Absatz 7 Nummer 2)
+
+a) Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
+
+b) Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem Arbeitsweg prüfen und beurteilen
+
+c) sicheres und gesundheitsgerechtes Arbeiten erläutern
+
+d) technische und organisatorische Maßnahmen zur Vermeidung von Gefährdungen sowie von psychischen und physischen Belastungen für sich und andere, auch präventiv, ergreifen
+
+e) ergonomische Arbeitsweisen beachten und anwenden
+
+f) Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei Unfällen einleiten
+
+g) betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur Brandbekämpfung ergreifen
+
+  
+während  
+der gesamten  
+Ausbildung  
+
+3
+
+Umweltschutz und Nachhaltigkeit  
+(§ 4 Absatz 7 Nummer 3)
+
+a) Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren Weiterentwicklung beitragen
+
+b) bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder Dienstleistungen, Materialien und Energie unter wirtschaftlichen, umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit nutzen
+
+c) für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes einhalten
+
+d) Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Wiederverwertung oder Entsorgung zuführen
+
+e) Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich entwickeln
+
+f) unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen, ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und adressatengerecht kommunizieren
+
+ 
+
+4
+
+Digitalisierte Arbeitswelt  
+(§ 4 Absatz 7 Nummer 4)
+
+a) mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter umgehen und dabei die Vorschriften zum Datenschutz und zur Datensicherheit einhalten
+
+b) Risiken bei der Nutzung von digitalen Medien und informationstechnischen Systemen einschätzen und bei deren Nutzung betriebliche Regelungen einhalten
+
+c) ressourcenschonend, adressatengerecht und effizient kommunizieren sowie Kommunikationsergebnisse dokumentieren
+
+d) Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung beitragen
+
+e) Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten und auswählen
+
+ 
+
+Abschnitt 2: 1. bis 18. Ausbildungsmonat
+
+Zeitrahmen 1: Herstellen von Komponenten
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+a) Arbeitsplatz einrichten
+
+c) Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+a) Informationen beschaffen und bewerten, Datenbankabfragen durchführen
+
+b) technische Zeichnungen und Pläne auswerten, anwenden und Skizzen anfertigen
+
+ 
+
+3
+
+Montieren und Demontieren von Geräten, Baugruppen und Systemen  
+(§ 4 Absatz 3 Nummer 3)
+
+a) Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unter Beachtung der Richtlinien des Werkzeug- und Betriebsmittelmanagements handhaben
+
+e) Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter Berücksichtigung mathematischer und physikalischer Grundlagen formen
+
+ 
+
+ 
+
+ 
+
+f) gängige Fertigungsverfahren und ihren Einfluss auf die mechanischen und physikalischen Eigenschaften des fertigen Teils unter Berücksichtigung mathematischer und physikalischer Grundlagen unterscheiden sowie häufige Produktionsfehler prüfen
+
+h) Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
+
+3 bis 5
+
+4
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+a) Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
+
+c) Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen sowie durch Auswertung eigener und fremder Fehler feststellen, Maßnahmen zur Behebung ergreifen und dokumentieren
+
+ 
+
+5
+
+Berücksichtigen menschlicher Faktoren  
+(§ 4 Absatz 3 Nummer 8)
+
+a) Verantwortung und Verhalten des Einzelnen und eines Teams sowie die Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von Risiken berücksichtigen
+
+d) physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
+
+ 
+
+Zeitrahmen 2: Herstellen von Baugruppen
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+a) Arbeitsplatz einrichten
+
+c) Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+a) Informationen beschaffen und bewerten, Datenbankabfragen durchführen
+
+b) technische Zeichnungen und Pläne auswerten und anwenden sowie Skizzen anfertigen
+
+ 
+
+3
+
+Montieren und Demontieren von Geräten, Baugruppen und Systemen  
+(§ 4 Absatz 3 Nummer 3)
+
+a) Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unter Beachtung der Richtlinien des Werkzeug- und Betriebsmittelmanagements handhaben
+
+b) Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
+
+e) Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter Berücksichtigung mathematischer und physikalischer Grundlagen formen
+
+g) Montage- und Demontagetechniken anwenden und Bauteile anpassen
+
+k) Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
+
+3 bis 5
+
+4
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+a) Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
+
+c) Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
+
+g) Fremdkörperkontrollen durchführen
+
+ 
+
+5
+
+Berücksichtigen menschlicher Faktoren  
+(§ 4 Absatz 3 Nummer 8)
+
+a) Verantwortung und Verhalten des Einzelnen und eines Teams sowie die Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von Risiken berücksichtigen
+
+c) psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch bei der Arbeit am Fluggerät, auf den Menschen und deren Bedeutung für die Vergrößerung von Risiken berücksichtigen
+
+d) physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
+
+ 
+
+Zeitrahmen 3: Montage und Demontage
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+a) Arbeitsplatz einrichten
+
+c) Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+a) Informationen beschaffen und bewerten, Datenbankabfragen durchführen
+
+b) technische Zeichnungen und Pläne auswerten und anwenden sowie Skizzen anfertigen
+
+ 
+
+3
+
+Montieren und Demontieren von Geräten, Baugruppen und Systemen  
+(§ 4 Absatz 3 Nummer 3)
+
+a) Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unter Beachtung der Richtlinien des Werkzeug- und Betriebsmittelmanagements handhaben
+
+b) Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
+
+c) elektrische und mechanische Verbindungen unter Berücksichtigung mathematischer und physikalischer Grundlagen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
+
+d) Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unter Berücksichtigung mathematischer und physikalischer Grundlagen unterscheiden
+
+e) Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter Berücksichtigung mathematischer und physikalischer Grundlagen formen
+
+f) gängige Fertigungsverfahren und ihren Einfluss auf die mechanischen und physikalischen Eigenschaften des fertigen Teils unter Berücksichtigung mathematischer und physikalischer Grundlagen unterscheiden sowie häufige Produktionsfehler prüfen
+
+g) Montage- und Demontagetechniken anwenden und Bauteile anpassen
+
+h) Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
+
+i) Funktion von Potenzialausgleichsleitern unter Berücksichtigung mathematischer und physikalischer Grundlagen prüfen und beurteilen
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+9 bis 11
+
+ 
+
+ 
+
+j) Übergangswiderstände unter Berücksichtigung mathematischer und physikalischer Grundlagen messen und beurteilen; Isolationswiderstände beachten
+
+k) Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
+
+ 
+
+4
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+a) Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
+
+b) Fehler unter Beachtung des Fehlermeldewesens melden und die Schutzwürdigkeit sicherheitsrelevanter Meldungen anerkennen
+
+c) Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen sowie durch Auswertung eigener und fremder Fehler feststellen, Maßnahmen zur Behebung ergreifen und dokumentieren
+
+g) Fremdkörperkontrollen durchführen
+
+ 
+
+5
+
+Berücksichtigen  
+menschlicher Faktoren  
+(§ 4 Absatz 3 Nummer 8)
+
+a) Verantwortung und Verhalten des Einzelnen und eines Teams sowie die Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von Risiken berücksichtigen
+
+b) kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im Team beachten
+
+c) psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch bei der Arbeit am Fluggerät, auf den Menschen und deren Bedeutung für die Vergrößerung von Risiken berücksichtigen
+
+d) physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
+
+ 
+
+Abschnitt 3: Fachrichtung Instandhaltungstechnik
+
+19\. bis 42. Ausbildungsmonat
+
+Zeitrahmen 4: Wartung, Inspektion und Modifikation
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
+
+d) Daten erfassen, bearbeiten und sichern
+
+e) Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+g) Dokumentationen, auch in englischer Sprache, erstellen
+
+h) Kommunikation, auch in englischer Sprache, durchführen
+
+ 
+
+ 
+
+ 
+
+i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
+
+j) Rolle der nationalen und internationalen Luftfahrtbehörden beachten
+
+ 
+
+3
+
+Instandhaltung  
+(§ 4 Absatz 3 Nummer 5)
+
+a) Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
+
+b) Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
+
+c) Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen unter Berücksichtigung mathematischer und physikalischer Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+
+13 bis 15
+
+4
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+d) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen und fördern
+
+e) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
+
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+ 
+
+5
+
+Instandhalten von Bauteilen für Fluggeräte und Bodengeräte  
+(§ 4 Absatz 4 Nummer 1)
+
+a) hydraulische, pneumatische, mechanische und elektrische Bauteile und Baugruppen aus- und einbauen, instand setzen und modifizieren
+
+b) Schäden am Rumpf, Trag-, Leit-, Fahr- und Triebwerk durch Kontrollen feststellen, Fehlerbehebung einleiten
+
+c) mechanische Bauteile, Baugruppen und Systeme einstellen und justieren
+
+d) Fehler an Systemen klassifizieren, Fehler beheben oder deren Behebung veranlassen
+
+e) Wartungsarbeiten und Sonderkontrollen durchführen
+
+f) Bodengeräte und Werkzeuge sowie Prüf- und Messzeuge warten und pflegen
+
+g) Bodengeräte bedienen
+
+h) materialspezifische Besonderheiten beachten
+
+i) elektronische und elektropneumatische Geräte und Instrumente von Fluggeräten überprüfen, aus- und einbauen
+
+j) Bauteile und Systeme zur Rettung und Sicherheit, insbesondere Sauerstoffmasken, kontrollieren und instand setzen
+
+ 
+
+Zeitrahmen 5: Analyse und Behebung von Störungen und Schäden
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
+
+d) Daten erfassen, bearbeiten und sichern
+
+e) Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+f) Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
+
+g) Dokumentationen, auch in englischer Sprache, erstellen
+
+h) Kommunikation, auch in englischer Sprache, durchführen
+
+i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
+
+j) Rolle der nationalen und internationalen Luftfahrtbehörden beachten
+
+ 
+
+3
+
+Analysieren von Störungen an Antriebssystemen  
+(§ 4 Absatz 3 Nummer 6)
+
+a) Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+
+b) Schäden feststellen und deren Behebung veranlassen
+
+3 bis 5
+
+4
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+d) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen und fördern
+
+e) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
+
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+ 
+
+5
+
+Instandhalten von Bauteilen für Fluggeräte und Bodengeräte  
+(§ 4 Absatz 4 Nummer 1)
+
+c) mechanische Bauteile, Baugruppen und Systeme einstellen und justieren
+
+d) Fehler an Systemen klassifizieren, Fehler beheben oder deren Behebung veranlassen
+
+h) materialspezifische Besonderheiten beachten
+
+ 
+
+6
+
+Analysieren und Beheben von Störungen an Systemkomponenten  
+(§ 4 Absatz 4 Nummer 2)
+
+a) Störungen, insbesondere am Steuer- und Fahrwerk, feststellen und Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und orten
+
+b) Störungen am Antriebssystem und dessen Anbaugeräten feststellen und Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und orten
+
+c) Störungen an hydraulischen, pneumatischen, mechanischen und elektrischen Bauteilen, Baugruppen und Systemen feststellen und Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und orten
+
+d) Sicherheitskontrollen und Endabnahme durchführen
+
+e) Bordinstandhaltungssysteme bedienen
+
+ 
+
+Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
+
+d) Daten erfassen, bearbeiten und sichern
+
+e) Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+f) Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
+
+g) Dokumentationen, auch in englischer Sprache, erstellen
+
+h) Kommunikation, auch in englischer Sprache, durchführen
+
+i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
+
+j) Rolle der nationalen und internationalen Luftfahrtbehörden beachten
+
+  
+3 bis 5
+
+3
+
+Durchführen von Funktionsprüfungen und Einstellarbeiten  
+(§ 4 Absatz 3 Nummer 4)
+
+a) Test- und Prüfgeräte anwenden
+
+b) Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
+
+c) Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
+
+ 
+
+4
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+d) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen und fördern
+
+e) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
+
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+ 
+
+Zeitrahmen 7: Flugbetrieb
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
+
+d) Daten erfassen, bearbeiten und sichern
+
+e) Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+f) Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
+
+g) Dokumentationen, auch in englischer Sprache, erstellen
+
+h) Kommunikation, auch in englischer Sprache, durchführen
+
+j) Rolle der nationalen und internationalen Luftfahrtbehörden beachten
+
+  
+1 bis 3
+
+3
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+e) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
+
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+ 
+
+4
+
+Instandhalten von Bauteilen für Fluggeräte und Bodengeräte  
+(§ 4 Absatz 4 Nummer 1)
+
+b) Schäden am Rumpf, Trag-, Leit- und Triebwerk durch Kontrollen feststellen, Fehlerbehebung einleiten
+
+g) Bodengeräte bedienen
+
+ 
+
+5
+
+Abfertigen von Fluggeräten  
+(§ 4 Absatz 4 Nummer 3)
+
+a) Flugbetriebs- und Rundgangskontrollen durchführen
+
+b) Fluggeräte be- und enttanken
+
+c) Bordsysteme in Betrieb nehmen und bedienen
+
+ 
+
+Abschnitt 4: Fachrichtung Fertigungstechnik
+
+19\. bis 42. Ausbildungsmonat
+
+Zeitrahmen 4: Herstellen von komplexen Baugruppen
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
+
+d) Daten erfassen, bearbeiten und sichern
+
+ 
+
+ 
+
+ 
+
+e) Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+f) Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
+
+g) Dokumentationen, auch in englischer Sprache, erstellen
+
+h) Kommunikation, auch in englischer Sprache, durchführen
+
+i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
+
+j) Rolle der nationalen und internationalen Luftfahrtbehörden beachten
+
+ 
+
+3
+
+Durchführen von Funktionsprüfungen und Einstellarbeiten  
+(§ 4 Absatz 3 Nummer 4)
+
+b) Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
+
+ 
+
+4
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+d) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen und fördern
+
+e) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
+
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+9 bis 11
+
+5
+
+Herstellen und Instandhalten von metallischen Bauteilen für Fluggeräte  
+(§ 4 Absatz 5 Nummer 1)
+
+a) Bauteile, insbesondere Strukturbauteile, fertigen oder instand setzen
+
+b) Bauteile prüfen und nach Einbau auf Funktion kontrollieren
+
+c) Bauvorschriften sowie Wartungs- und Reparaturanweisungen anwenden
+
+d) Schäden an der Fluggerätstruktur bewerten und beheben
+
+e) Prüf- und Messverfahren an Bauteilen oder Fluggeräten anwenden
+
+f) Bauteile nach Bezugspunkten, -linien und -ebenen messen oder ausrichten
+
+g) automatisierte Fertigungsverfahren unterscheiden
+
+ 
+
+6
+
+Fügen und Lösen von Strukturbauteilen  
+(§ 4 Absatz 5 Nummer 3)
+
+a) Einzelteile zur Montage vorbereiten
+
+b) Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben verbinden und sichern
+
+c) luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden und verarbeiten
+
+d) Oberflächen behandeln und schützen
+
+ 
+
+Zeitrahmen 5: Be- und Verarbeiten von Kunst- und Verbundwerkstoffen
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
+
+d) Daten erfassen, bearbeiten und sichern
+
+e) Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+f) Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
+
+g) Dokumentationen, auch in englischer Sprache, erstellen
+
+h) Kommunikation, auch in englischer Sprache, durchführen
+
+ 
+
+3
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+1 bis 3
+
+4
+
+Herstellen und Instandhalten von Bauteilen aus Kunststoffen oder Verbundwerkstoffen für Fluggeräte  
+(§ 4 Absatz 5 Nummer 2)
+
+a) beim Be- und Verarbeiten von Kunststoffbauteilen die dort geltenden besonderen Maßnahmen zur Arbeitssicherheit sowie zum Gesundheits- und Umweltschutz anwenden
+
+b) Bauteile fertigen oder instand setzen
+
+c) Bauteile prüfen und nach Einbau auf Funktion kontrollieren
+
+d) Bauvorschriften sowie Wartungs- und Reparaturanweisungen anwenden
+
+e) Prüf- und Messverfahren an Bauteilen oder Fluggeräten anwenden
+
+f) Bauteile nach Bezugspunkten, -linien und -ebenen messen oder ausrichten
+
+g) Herstellungs- und Bearbeitungsverfahren unterscheiden
+
+ 
+
+5
+
+Fügen und Lösen von Strukturbauteilen  
+(§ 4 Absatz 5 Nummer 3)
+
+a) Einzelteile zur Montage vorbereiten
+
+b) Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben verbinden und sichern
+
+c) luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden und verarbeiten
+
+d) Oberflächen behandeln und schützen
+
+ 
+
+Zeitrahmen 6: Ausrüstung von Baugruppen
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
+
+d) Daten erfassen, bearbeiten und sichern
+
+e) Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+f) Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
+
+g) Dokumentationen, auch in englischer Sprache, erstellen
+
+h) Kommunikation, auch in englischer Sprache, durchführen
+
+i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
+
+j) Rolle der nationalen und internationalen Luftfahrtbehörden beachten
+
+9 bis 11
+
+3
+
+Durchführen von Funktionsprüfungen und Einstellarbeiten  
+(§ 4 Absatz 3 Nummer 4)
+
+a) Test- und Prüfgeräte anwenden
+
+b) Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
+
+c) Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
+
+ 
+
+4
+
+Instandhaltung  
+(§ 4 Absatz 3 Nummer 5)
+
+b) Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
+
+ 
+
+5
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+d) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen und fördern
+
+e) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
+
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+ 
+
+6
+
+Montieren von Fluggerätsystemkomponenten  
+(§ 4 Absatz 5 Nummer 4)
+
+a) Systemkomponenten, insbesondere Hydraulik und Pneumatik, nach Fertigungsvorschriften montieren
+
+b) Baugruppen und mechanische Systeme am Fluggerät montieren
+
+ 
+
+Zeitrahmen 7: Wartung und Inspektion
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
+
+d) Daten erfassen, bearbeiten und sichern
+
+e) Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+f) Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
+
+g) Dokumentationen, auch in englischer Sprache, erstellen
+
+h) Kommunikation, auch in englischer Sprache, durchführen
+
+i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
+
+j) Rolle der nationalen und internationalen Luftfahrtbehörden beachten
+
+ 
+
+3
+
+Durchführen von Funktionsprüfungen und Einstellarbeiten  
+(§ 4 Absatz 3 Nummer 4)
+
+a) Test- und Prüfgeräte anwenden
+
+b) Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
+
+c) Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
+
+  
+  
+  
+1 bis 3
+
+4
+
+Instandhaltung  
+(§ 4 Absatz 3 Nummer 5)
+
+a) Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
+
+b) Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
+
+c) Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen unter Berücksichtigung mathematischer und physikalischer Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+
+ 
+
+5
+
+Analysieren von Störungen an Antriebssystemen  
+(§ 4 Absatz 3 Nummer 6)
+
+a) Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+
+b) Schäden feststellen und deren Behebung veranlassen
+
+ 
+
+6
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+d) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen und fördern
+
+e) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
+
+ 
+
+ 
+
+ 
+
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+ 
+
+Abschnitt 5: Fachrichtung Triebwerkstechnik
+
+19\. bis 42. Ausbildungsmonat
+
+Zeitrahmen 4: Wartung, Inspektion und Modifikation
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
+
+d) Daten erfassen, bearbeiten und sichern
+
+e) Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+f) Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
+
+g) Dokumentationen, auch in englischer Sprache, erstellen
+
+h) Kommunikation, auch in englischer Sprache, durchführen
+
+i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
+
+j) Rolle der nationalen und internationalen Luftfahrtbehörden beachten
+
+ 
+
+3
+
+Durchführen von Funktionsprüfungen und Einstellarbeiten  
+(§ 4 Absatz 3 Nummer 4)
+
+a) Test- und Prüfgeräte anwenden
+
+ 
+
+4
+
+Instandhaltung  
+(§ 4 Absatz 3 Nummer 5)
+
+a) Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
+
+b) Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
+
+c) Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen unter Berücksichtigung mathematischer und physikalischer Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+
+  
+12 bis 14
+
+5
+
+Analysieren von Störungen an Antriebssystemen  
+(§ 4 Absatz 3 Nummer 6)
+
+a) Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+
+b) Schäden feststellen und deren Behebung veranlassen
+
+ 
+
+6
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+ 
+
+7
+
+Herstellen und Instandhalten von Triebwerksbauteilen  
+(§ 4 Absatz 6 Nummer 1)
+
+a) Triebwerkteile manuell und maschinell bearbeiten
+
+b) Rohr- und Schlauchleitungen anfertigen und instand setzen
+
+c) Triebwerkteile warmbehandeln
+
+d) technische Vorschriften, Handbücher und Bauteilverzeichnisse anwenden
+
+ 
+
+8
+
+Montieren und Demontieren von Flugtriebwerken  
+(§ 4 Absatz 6 Nummer 2)
+
+a) Einzelteile und Baugruppen sowie Anbauteile demontieren und montieren
+
+b) Justier- und Einstellarbeiten durchführen
+
+c) Verschraubungen sichern
+
+d) Lager und Dichtungen einbauen
+
+e) Triebwerkverbindungselemente unterscheiden und einsetzen
+
+f) Triebwerksysteme auf- und abrüsten
+
+ 
+
+9
+
+Analysieren und Beheben von Störungen an Systemkomponenten  
+(§ 4 Absatz 6 Nummer 4)
+
+d) visuelle und zerstörungsfreie Materialprüfung an Triebwerkteilen durchführen
+
+ 
+
+Zeitrahmen 5: Analyse und Behebung von Störungen und Schäden
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
+
+d) Daten erfassen, bearbeiten und sichern
+
+e) Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+f) Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
+
+g) Dokumentationen, auch in englischer Sprache, erstellen
+
+h) Kommunikation, auch in englischer Sprache, durchführen
+
+ 
+
+3
+
+Instandhaltung  
+(§ 4 Absatz 3 Nummer 5)
+
+a) Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
+
+ 
+
+ 
+
+ 
+
+c) Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen unter Berücksichtigung mathematischer und physikalischer Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+
+3 bis 5
+
+4
+
+Analysieren von Störungen an Antriebssystemen  
+(§ 4 Absatz 3 Nummer 6)
+
+a) Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+
+b) Schäden feststellen und deren Behebung veranlassen
+
+ 
+
+5
+
+Durchführen von qualitätssichernden Maßnahmen  
+(§ 4 Absatz 3 Nummer 7)
+
+d) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen und fördern
+
+e) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
+
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+ 
+
+6
+
+Analysieren und Beheben von Störungen an Systemkomponenten  
+(§ 4 Absatz 6 Nummer 4)
+
+a) schriftliche Berichte über den Grad der Beschädigung erstellen
+
+b) Testdaten ermitteln und auswerten
+
+c) Testläufe von Triebwerksystemen durchführen und überwachen
+
+e) Protokolle im Rahmen der Qualitätssicherung anfertigen
+
+f) im Testlauf aufgetretene Mängel beheben
+
+ 
+
+Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitrahmen  
+in Monaten
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
+(§ 4 Absatz 3 Nummer 1)
+
+d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
+
+ 
+
+2
+
+Betriebliche und technische Kommunikation  
+(§ 4 Absatz 3 Nummer 2)
+
+c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
+
+ 
+
+3
+
+Durchführen von Funktionsprüfungen und Einstellarbeiten  
+(§ 4 Absatz 3 Nummer 4)
+
+a) Test- und Prüfgeräte anwenden
+
+b) Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
+
+c) Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
+
+ 
+
+4
+
+Instandhaltung  
+(§ 4 Absatz 3 Nummer 5)
+
+c) Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen unter Berücksichtigung mathematischer und physikalischer Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+
+ 
+
+5
+
+Analysieren von Störungen an Antriebssystemen  
+(§ 4 Absatz 3 Nummer 6)
+
+b) Schäden feststellen und deren Behebung veranlassen
+
+ 
+
+6
+
+Herstellen und Instandhalten von Triebwerksbauteilen  
+(§ 4 Absatz 6 Nummer 1)
+
+d) technische Vorschriften, Handbücher und Bauteilverzeichnisse anwenden
+
+ 
+
+7
+
+Montieren und Demontieren von Flugtriebwerken  
+(§ 4 Absatz 6 Nummer 2)
+
+b) Justier- und Einstellarbeiten durchführen
+
+6 bis 8.
+
+8
+
+Durchführen von Funktionsprüfungen und Einstellarbeiten am Triebwerk  
+(§ 4 Absatz 6 Nummer 3)
+
+a) Bauteil- und Funktionskontrollen durchführen
+
+b) statisches und dynamisches Auswuchten unterscheiden
+
+c) Auswuchten von Rotoren vorbereiten
+
+d) Rotoren durch Gewichtsverteilung auswuchten
+
+e) besondere Arbeitssicherheitsbestimmungen beim Auswuchten anwenden
+
+f) Justier- und Einstellarbeiten durchführen
+
+g) Prüfstandanlagen, typenabhängige Prüfprogramme, Schallschutzmaßnahmen und Sicherheitsvorkehrungen anwenden
+
+h) Triebwerksysteme für den Einsatz vorbereiten
+
+ 
+
+9
+
+Analysieren und Beheben von Schäden an Systemkomponenten  
+(§ 4 Absatz 6 Nummer 4)
+
+b) Testdaten ermitteln und auswerten
+
+c) Testläufe von Triebwerksystemen durchführen und überwachen
+
+e) Protokolle im Rahmen der Qualitätssicherung anfertigen
+
+f) im Testlauf aufgetretene Mängel beheben
+
+ 
+
+# Anlage 3 – (zu § 4 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach der Verordnung (EU) Nr. 1321/2014 in Verbindung mit der Verordnung (EU) 2023/989 Anhang III (Teil 66)
+
+(Fundstelle: BGBl. 2024 I Nr. 186, S. 23 – 37)

@@ -195,7 +195,7 @@ Schadensersatz bei rentenrechtlichen Zeiten
 
   Sechster Untertitel
 
- (weggefallen)
+  (weggefallen)
 
  
 
@@ -725,7 +725,7 @@ Grundsatz
 
 § 83
 
-(weggefallen)
+Besonderheiten für das Beitrittsgebiet
 
  
 
@@ -941,7 +941,7 @@ Auswirkungen eines Versorgungsausgleichs
 
 § 102
 
-Allgemeiner Rentenwert (Ost)
+(weggefallen)
 
 § 102a
 
@@ -969,7 +969,7 @@ Zuschlag bei Witwenrenten und Witwerrenten
 
 § 105
 
-(weggefallen)
+Verordnungsermächtigung
 
 § 105a
 
@@ -1075,7 +1075,7 @@ Finanzierung
 
 § 114
 
-(weggefallen)
+Beitragshöhe
 
 § 115
 
@@ -1083,7 +1083,7 @@ Beitragstragung
 
 § 116
 
-(weggefallen)
+Wiederauffüllung geminderter angleichungsdynamischer Anrechte
 
 § 117
 
@@ -1107,7 +1107,7 @@ Aufrechnung mit Beitragsentlastungen
 
 § 120
 
-(weggefallen)
+Berechnung des Zuschusses zum Beitrag für das Beitrittsgebiet
 
  
 
@@ -3267,25 +3267,7 @@ Dies gilt nicht, soweit der Steigerungszahlzuschlag auf Zeiten beruht, die nach 
 
 Ist ein Versorgungsausgleich durchgeführt worden und wurde bei der Berechnung des in den Versorgungsausgleich einzubeziehenden Anrechts aus der Alterssicherung der Landwirte eine familienstandsbedingte Erhöhung berücksichtigt, so ist bei dem Leistungsberechtigten, der keinen Anspruch auf eine unter Berücksichtigung dieser Erhöhung berechnete Rente hat, der Abschlag von der Steigerungszahl (§ 24 Abs. 2) um den Wert zu mindern, der dem auf die Ehezeit entfallenden Teil der Minderung der Steigerungszahl als Folge der Anwendung des § 97 Abs. 3 Satz 3 oder des § 98 Abs. 3 entspricht.
 
-# § 102 – Allgemeiner Rentenwert (Ost)
-
-(1) Bis zum 30. Juni 2024 wird ein allgemeiner Rentenwert (Ost) für die Ermittlung des Monatsbetrags der Renten gebildet. Er tritt an die Stelle des allgemeinen Rentenwerts, soweit
-
-1. Zeiten im Beitrittsgebiet zurückgelegt worden sind, es sei denn, während dieser Zeiten bestand vor dem 1. Januar 1995 Beitragspflicht in der Altershilfe für Landwirte,
-
-2. (weggefallen)
-
-3. Versicherte Beiträge zur Wiederauffüllung eines Anrechts gezahlt haben, das um einen Abschlag von der Steigerungszahl gemindert ist, dessen Ermittlung der allgemeine Rentenwert (Ost) zugrunde lag.
-
-Der Zuschlag zur Steigerungszahl bei Witwenrenten und Witwerrenten ist für die Ermittlung des Monatsbetrages der Renten mit dem allgemeinen Rentenwert (Ost) zu vervielfältigen, soweit in der gesetzlichen Rentenversicherung den Zeiten der Kindererziehung Entgeltpunkte (Ost) zugrunde liegen.
-
-(2) Sind sowohl Zeiten mit dem allgemeinen Rentenwert als auch Zeiten mit dem allgemeinen Rentenwert (Ost) zu vervielfältigen, sind Monatsteilbeträge zu ermitteln, deren Summe den Monatsbetrag der Rente ergibt.
-
-(3) Der allgemeine Rentenwert (Ost) ist der Betrag, der sich im Dezember 1994 ergibt, wenn der allgemeine Rentenwert mit dem Verhältnis des aktuellen Rentenwerts (Ost) zu dem aktuellen Rentenwert in der gesetzlichen Rentenversicherung vervielfältigt wird.
-
-(4) Der allgemeine Rentenwert (Ost) verändert sich zu dem Zeitpunkt der Veränderung des aktuellen Rentenwerts (Ost) in der gesetzlichen Rentenversicherung und um den Vomhundertsatz, um den der aktuelle Rentenwert (Ost) in der gesetzlichen Rentenversicherung jeweils verändert wird. Rentenbezieher erhalten eine Anpassungsmitteilung, wenn sich die Höhe des allgemeinen Rentenwerts (Ost) verändert.
-
-(5) Besteht am 30. Juni 2024 Anspruch auf eine Rente, die ganz oder teilweise nach Absatz 1 berechnet wurde, wird diese zum 1. Juli 2024 angepasst, indem an die Stelle des allgemeinen Rentenwerts (Ost) der allgemeine Rentenwert tritt; Absatz 4 Satz 2 ist entsprechend anzuwenden.
+# § 102 – (weggefallen)
 
 # § 102a – (weggefallen)
 

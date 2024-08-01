@@ -245,7 +245,15 @@ Auf zulassungsfreie Handwerke und handwerksähnliche Gewerbe finden § 10 Abs. 1
 
 (1) Lehrlinge (Auszubildende) darf nur einstellen, wer persönlich geeignet ist. Lehrlinge (Auszubildende) darf nur ausbilden, wer persönlich und fachlich geeignet ist.
 
-(2) Wer fachlich nicht geeignet ist oder wer nicht selbst ausbildet, darf Lehrlinge (Auszubildende) nur dann einstellen, wenn er persönlich und fachlich geeignete Ausbilder bestellt, die die Ausbildungsinhalte unmittelbar, verantwortlich und in wesentlichem Umfang vermitteln.
+(2) Wer fachlich nicht geeignet ist oder wer nicht selbst ausbildet, darf Lehrlinge (Auszubildende) nur dann einstellen, wenn er persönlich und fachlich geeignete Ausbilder bestellt, die die Ausbildungsinhalte unmittelbar, verantwortlich und in wesentlichem Umfang vermitteln. Eine unmittelbare Vermittlung der Ausbildungsinhalte ist in angemessenem Umfang auch als digitales mobiles Ausbilden ohne gleichzeitige Anwesenheit der Lehrlinge (Auszubildenden) und ihrer Ausbilder am gleichen Ort möglich, wenn
+
+1. für die Vermittlung Informationstechnik eingesetzt wird,
+
+2. die Ausbildungsinhalte und die Orte, an denen sich die Lehrlinge (Auszubildenden) und ihre Ausbilder jeweils aufhalten, für die Vermittlung von Ausbildungsinhalten auf Distanz geeignet sind und
+
+3. die Qualität der Vermittlung derjenigen bei gleichzeitiger Anwesenheit der Lehrlinge (Auszubildenden) und ihrer Ausbilder am gleichen Ort gleichwertig ist; dies ist insbesondere der Fall, wenn der Ausbilder jederzeit zu den betriebsüblichen Zeiten für den Lehrling (Auszubildenden) erreichbar ist, den Lernprozess steuert und begleitet sowie die Lernfortschritte kontrolliert.
+
+Für die Ausgestaltung digitalen mobilen Ausbildens kann der Hauptausschuss des Bundesinstituts für Berufsbildung Empfehlungen beschließen.
 
 (3) Unter der Verantwortung des Ausbilders kann bei der Berufsausbildung mitwirken, wer selbst nicht Ausbilder ist, aber abweichend von den besonderen Voraussetzungen des § 22b die für die Vermittlung von Ausbildungsinhalten erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt und persönlich geeignet ist.
 
@@ -281,13 +289,15 @@ und den Teil IV der Meisterprüfung oder eine gleichwertige andere Prüfung, ins
 
 2. die Gesellen- oder Abschlussprüfung in einer dem Ausbildungsberuf entsprechenden Fachrichtung bestanden hat,
 
-3. eine anerkannte Prüfung an einer Ausbildungsstätte oder vor einer Prüfungsbehörde oder eine Abschlussprüfung an einer staatlichen oder staatlich anerkannten Schule in einer dem Ausbildungsberuf entsprechenden Fachrichtung bestanden hat,
+3. das Feststellungsverfahren nach § 1 Absatz 6 des Berufsbildungsgesetzes mit dem Ergebnis der vollständigen Vergleichbarkeit der individuellen beruflichen Handlungsfähigkeit mit der für die Ausübung des Ausbildungsberufs der entsprechenden Fachrichtung erforderlichen beruflichen Handlungsfähigkeit abgeschlossen hat,
 
-4. eine Abschlussprüfung an einer deutschen Hochschule in einer dem Ausbildungsberuf entsprechenden Fachrichtung bestanden hat oder
+4. eine anerkannte Prüfung an einer Ausbildungsstätte oder vor einer Prüfungsbehörde oder eine Abschlussprüfung an einer staatlichen oder staatlich anerkannten Schule in einer dem Ausbildungsberuf entsprechenden Fachrichtung bestanden hat,
 
-5. eine Gleichwertigkeitsfeststellung nach § 51g oder einen Bildungsabschluss besitzt, dessen Gleichwertigkeit nach anderen rechtlichen Regelungen festgestellt worden ist
+5. eine Abschlussprüfung an einer deutschen Hochschule in einer dem Ausbildungsberuf entsprechenden Fachrichtung bestanden hat oder
 
-und im Falle der Nummern 2 bis 5 eine angemessene Zeit in seinem Beruf praktisch tätig gewesen ist. Der Abschlussprüfung an einer deutschen Hochschule gemäß Satz 1 Nr. 4 gleichgestellt sind Diplome nach § 7 Abs. 2 Satz 4. Für den Nachweis der berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten finden die auf der Grundlage des § 30 Abs. 5 des Berufsbildungsgesetzes erlassenen Rechtsverordnungen Anwendung.
+6. eine Gleichwertigkeitsfeststellung nach § 51g oder einen Bildungsabschluss besitzt, dessen Gleichwertigkeit nach anderen rechtlichen Regelungen festgestellt worden ist
+
+und eine angemessene Zeit in seinem Beruf praktisch tätig gewesen ist. Der Abschlussprüfung an einer deutschen Hochschule gemäß Satz 1 Nummer 5 gleichgestellt sind Diplome nach § 7 Abs. 2 Satz 4. Für den Nachweis der berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten finden die auf der Grundlage des § 30 Abs. 5 des Berufsbildungsgesetzes erlassenen Rechtsverordnungen Anwendung.
 
 (4) Das Bundesministerium für Wirtschaft und Klimaschutz kann nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, bestimmen, dass der Erwerb berufs- und arbeitspädagogischer Fertigkeiten, Kenntnisse und Fähigkeiten gesondert nachzuweisen ist. Dabei können Inhalt, Umfang und Abschluss der Maßnahmen für den Nachweis geregelt werden. Das Bestehen des Teils IV der Meisterprüfung gilt als Nachweis.
 
@@ -345,23 +355,21 @@ Bei der Festlegung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Satz 1 Num
 
 (2) Die Ausbildungsordnung kann vorsehen,
 
-1. dass die Berufsausbildung in sachlich und zeitlich besonders gegliederten, aufeinander aufbauenden Stufen erfolgt; nach den einzelnen Stufen soll ein Ausbildungsabschluss vorgesehen werden, der sowohl zu einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt, als auch die Fortsetzung der Berufsausbildung in weiteren Stufen ermöglicht (Stufenausbildung),
+1. dass die Gesellenprüfung in zwei zeitlich auseinander fallenden Teilen durchgeführt wird,
 
-2. dass die Gesellenprüfung in zwei zeitlich auseinander fallenden Teilen durchgeführt wird,
+2. dass im Fall einer Regelung nach Nummer 1 bei nicht bestandener Gesellenprüfung in einem drei- oder dreieinhalbjährigen Ausbildungsberuf, der auf einem zweijährigen Ausbildungsberuf aufbaut, der Abschluss des zweijährigen Ausbildungsberufs erworben wird, sofern im ersten Teil der Gesellenprüfung mindestens ausreichende Prüfungsleistungen erbracht worden sind,
 
-2a. dass im Fall einer Regelung nach Nummer 2 bei nicht bestandener Gesellenprüfung in einem drei- oder dreieinhalbjährigen Ausbildungsberuf, der auf einem zweijährigen Ausbildungsberuf aufbaut, der Abschluss des zweijährigen Ausbildungsberufs erworben wird, sofern im ersten Teil der Gesellenprüfung mindestens ausreichende Prüfungsleistungen erbracht worden sind,
+3. dass Auszubildende bei erfolgreichem Abschluss eines zweijährigen Ausbildungsberufs vom ersten Teil der Gesellenprüfung oder einer Zwischenprüfung eines darauf aufbauenden drei- oder dreieinhalbjährigen Ausbildungsberufs befreit sind,
 
-2b. dass Auszubildende bei erfolgreichem Abschluss eines zweijährigen Ausbildungsberufs vom ersten Teil der Gesellenprüfung oder einer Zwischenprüfung eines darauf aufbauenden drei- oder dreieinhalbjährigen Ausbildungsberufs befreit sind,
+4. dass abweichend von § 25 Absatz 4 die Berufsausbildung in diesem Ausbildungsberuf unter Anrechnung der bereits zurückgelegten Ausbildungszeit fortgesetzt werden kann, wenn die Vertragsparteien dies vereinbaren,
 
-3. dass abweichend von § 25 Abs. 4 die Berufsausbildung in diesem Ausbildungsberuf unter Anrechnung der bereits zurückgelegten Ausbildungszeit fortgesetzt werden kann, wenn die Vertragsparteien dies vereinbaren,
+5. dass auf die Dauer der durch die Ausbildungsordnung geregelten Berufsausbildung die Dauer einer anderen abgeschlossenen Berufsausbildung ganz oder teilweise anzurechnen ist,
 
-4. dass auf die Dauer der durch die Ausbildungsordnung geregelten Berufsausbildung die Dauer einer anderen abgeschlossenen Berufsausbildung ganz oder teilweise anzurechnen ist,
+6. dass über das in Absatz 1 Satz 1 Nummer 3 beschriebene Ausbildungsberufsbild hinaus zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden können, die die berufliche Handlungsfähigkeit ergänzen oder erweitern,
 
-5. dass über das in Absatz 1 Nr. 3 beschriebene Ausbildungsberufsbild hinaus zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden können, die die berufliche Handlungsfähigkeit ergänzen oder erweitern,
+7. dass Teile der Berufsausbildung in geeigneten Einrichtungen außerhalb der Ausbildungsstätte durchgeführt werden, wenn und soweit es die Berufsausbildung erfordert (überbetriebliche Berufsausbildung).
 
-6. dass Teile der Berufsausbildung in geeigneten Einrichtungen außerhalb der Ausbildungsstätte durchgeführt werden, wenn und soweit es die Berufsausbildung erfordert (überbetriebliche Berufsausbildung).
-
-Im Fall des Satzes 1 Nummer 2a bedarf es eines Antrags der Lehrlinge (Auszubildenden). Im Fall des Satzes 1 Nummer 4 bedarf es der Vereinbarung der Vertragsparteien. Im Rahmen der Ordnungsverfahren soll stets geprüft werden, ob Regelungen nach Nummer 1, 2, 2a, 2b und 4 sinnvoll und möglich sind.
+Im Fall des Satzes 1 Nummer 2 bedarf es eines Antrags der Lehrlinge (Auszubildenden). Im Fall des Satzes 1 Nummer 5 bedarf es der Vereinbarung der Vertragsparteien. Im Rahmen der Ordnungsverfahren soll stets geprüft werden, ob Regelungen nach Satz 1 Nummer 1 bis 3 und 5 sinnvoll und möglich sind.
 
 (+++ § 26 Abs. 2: Zur Anwendung vgl. § 125 F bis 5.4.2017 +++)
 
@@ -383,7 +391,7 @@ Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen kann das Bu
 
 (1) Die Berufsausbildung kann in Teilzeit durchgeführt werden. Im Berufsausbildungsvertrag ist dazu für die gesamte Ausbildungszeit oder für einen bestimmten Zeitraum der Berufsausbildung die Verkürzung der täglichen oder der wöchentlichen Ausbildungszeit zu vereinbaren. Die Kürzung der täglichen oder der wöchentlichen Ausbildungszeit darf nicht mehr als 50 Prozent betragen.
 
-(2) Die Dauer der Teilzeitberufsausbildung verlängert sich entsprechend, höchstens jedoch bis zum Eineinhalbfachen der Dauer, die in der Ausbildungsordnung für die betreffende Berufsausbildung in Vollzeit festgelegt ist. Die Dauer der Teilzeitberufsausbildung ist auf ganze Monate abzurunden. § 27c Absatz 2 bleibt unberührt.
+(2) Die Dauer der Teilzeitberufsausbildung verlängert sich entsprechend, höchstens jedoch bis zum Eineinhalbfachen der Dauer, die in der Ausbildungsordnung für die betreffende Berufsausbildung in Vollzeit festgelegt ist. Die Dauer der Teilzeitberufsausbildung ist auf ganze Monate abzurunden. § 27c Absatz 1 und 2 bleibt unberührt.
 
 (3) Auf Verlangen des Lehrlings (Auszubildenden) verlängert sich die Ausbildungsdauer auch über die Höchstdauer nach Absatz 2 Satz 1 hinaus bis zur nächsten möglichen Gesellenprüfung.
 
@@ -391,7 +399,7 @@ Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen kann das Bu
 
 # § 27c
 
-(1) Auf gemeinsamen Antrag des Lehrlings (Auszubildenden) und des Ausbildenden hat die Handwerkskammer die Ausbildungsdauer zu kürzen, wenn zu erwarten ist, dass das Ausbildungsziel in der gekürzten Dauer erreicht wird.
+(1) Auf gemeinsamen Antrag des Lehrlings (Auszubildenden) und des Ausbildenden hat die Handwerkskammer die Ausbildungsdauer zu kürzen, wenn zu erwarten ist, dass das Ausbildungsziel in der gekürzten Dauer erreicht wird. Satz 1 gilt bei einer Teilzeitberufsausbildung mit der Maßgabe, dass, wenn eine Verkürzung der Ausbildungsdauer entsprechend den Empfehlungen des Hauptausschusses nach Absatz 3 zu einer Ausbildungsdauer führt, die das Ende der für die betreffende Berufsausbildung in Vollzeit festgelegten Ausbildungsdauer höchstens um sechs Monate überschreitet, die Ausbildungsdauer auf das Ende der für die betreffende Berufsausbildung in Vollzeit festgelegten Ausbildungsdauer verkürzt wird.
 
 (2) In Ausnahmefällen kann die Handwerkskammer auf Antrag des Lehrlings (Auszubildenden) die Ausbildungsdauer verlängern, wenn die Verlängerung erforderlich ist, um das Ausbildungsziel zu erreichen. Vor der Entscheidung nach Satz 1 ist der Ausbildende zu hören.
 
@@ -415,17 +423,27 @@ Werden in einem Betrieb zwei verwandte Handwerke ausgeübt, so kann in beiden Ha
 
 (6) Die nach Absatz 5 gelöschten Daten sind in einem gesonderten Dateisystem zu speichern, solange und soweit dies für den Nachweis der Berufsausbildung erforderlich ist, höchstens jedoch 60 Jahre. Die Übermittlung von Daten ist nur unter den Voraussetzungen des Absatzes 2 zulässig.
 
-(7) Zur Verbesserung der Ausbildungsvermittlung, zur Verbesserung der Zuverlässigkeit und Aktualität der Ausbildungsvermittlungsstatistik sowie zur Verbesserung der Feststellung von Angebot und Nachfrage auf dem Ausbildungsmarkt übermittelt die Handwerkskammer folgende Daten aus der Lehrlingsrolle an die Bundesagentur für Arbeit:
+(7) Zur Verbesserung der Feststellung von Angebot und Nachfrage auf dem Ausbildungsmarkt übermittelt die Handwerkskammer folgende Daten aus der Lehrlingsrolle an das Bundesinstitut für Berufsbildung:
 
-1. Name, Geburtsname, Vorname, Geburtsdatum und Anschrift des Lehrlings (Auszubildenden),
+1. Ausbildungsberuf einschließlich Fachrichtung,
 
-2. Name und Anschrift der Ausbildenden, Name, Anschrift und Amtlicher Gemeindeschlüssel der Ausbildungsstätte, Wirtschaftszweig, Betriebsnummer der Ausbildungsstätte nach § 18i Absatz 1 oder § 18k Absatz 1 des Vierten Buches Sozialgesetzbuch, Zugehörigkeit zum öffentlichen Dienst,
+2. Geschlecht der Lehrlinge (Auszubildenden), Anschlussvertrag bei Anrechnung einer zuvor absolvierten dualen Berufsausbildung nach diesem Gesetz oder nach dem Berufsbildungsgesetz,
 
-3. Ausbildungsberuf einschließlich Fachrichtung sowie
+3. Verkürzung der Ausbildungsdauer,
 
-4. Tag, Monat und Jahr des vertraglich vereinbarten Beginns und Endes der Berufsausbildung sowie Tag, Monat und Jahr einer vorzeitigen Auflösung des Ausbildungsverhältnisses.
+4. Art der Förderung bei überwiegend öffentlich, insbesondere auf Grund des Dritten Buches Sozialgesetzbuch geförderten Berufsausbildungsverhältnissen.
 
-Bei der Datenübermittlung sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 zu treffen, die insbesondere die Vertraulichkeit, Unversehrtheit und Zurechenbarkeit der Daten gewährleisten.
+An die Bundesagentur für Arbeit werden zur Verbesserung der Ausbildungsvermittlung, zur Verbesserung der Zuverlässigkeit und Aktualität der Ausbildungsvermittlungsstatistik sowie zur Verbesserung der Feststellung von Angebot und Nachfrage auf dem Ausbildungsmarkt folgende Daten übermittelt:
+
+1. Name, Vorname, Geburtsdatum, Geschlecht und Anschrift der Lehrlinge (Auszubildenden),
+
+2. Ausbildungsberuf einschließlich Fachrichtung,
+
+3. Tag, Monat und Jahr des vertraglich vereinbarten Beginns und Endes der Berufsausbildung sowie Tag, Monat und Jahr einer vorzeitigen Auflösung des Ausbildungsverhältnisses,
+
+4. Name und Anschrift der Ausbildenden, Anschrift und amtlicher Gemeindeschlüssel der Ausbildungsstätte, Wirtschaftszweig, Betriebsnummer der Ausbildungsstätte nach § 18i Absatz 1 oder § 18k Absatz 1 des Vierten Buches Sozialgesetzbuch, Zugehörigkeit zum öffentlichen Dienst.
+
+Übermittelt werden die nach diesem Gesetz eingetragenen Daten zu den Ausbildungsverhältnissen, die ab dem 1. Oktober des vorangegangenen Kalenderjahres abgeschlossen wurden und am 30. September des laufendenden Kalenderjahres noch bestanden. Bei der Datenübermittlung sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit, insbesondere nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 zu treffen, die insbesondere die Vertraulichkeit, Unversehrtheit und Zurechenbarkeit der Daten gewährleisten.
 
 (8) Im Übrigen darf die Handwerkskammer Daten aus dem Berufsausbildungsvertrag, die nicht nach Absatz 1 oder Absatz 6 gespeichert sind, nur für die in Absatz 1 genannten Zwecke sowie in den Fällen des § 88 Abs. 2 des Berufsbildungsgesetzes übermitteln.
 
@@ -443,7 +461,7 @@ Bei der Datenübermittlung sind dem jeweiligen Stand der Technik entsprechende M
 
 # § 30
 
-(1) Der Ausbildende hat unverzüglich nach Abschluß des Berufsausbildungsvertrags die Eintragung in die Lehrlingsrolle zu beantragen. Der Antrag kann schriftlich oder elektronisch gestellt werden; eine Kopie der Vertragsniederschrift ist jeweils beizufügen. Auf einen betrieblichen Ausbildungsplan im Sinne des § 11 Absatz 1 Satz 2 Nummer 2 des Berufsbildungsgesetzes, der der zuständigen Stelle bereits vorliegt, kann dabei Bezug genommen werden. Entsprechendes gilt bei Änderungen des wesentlichen Vertragsinhalts.
+(1) Der Ausbildende hat unverzüglich nach Abschluß des Berufsausbildungsvertrags die Eintragung in die Lehrlingsrolle nach Maßgabe des Satzes 2 zu beantragen. Der Antrag kann schriftlich oder elektronisch gestellt werden; eine Kopie der Vertragsabfassung und des Empfangsnachweises ist jeweils beizufügen. Auf einen betrieblichen Ausbildungsplan im Sinne des § 11 Absatz 1 Satz 2 Nummer 2 des Berufsbildungsgesetzes, der der zuständigen Stelle bereits vorliegt, kann dabei Bezug genommen werden. Entsprechendes gilt bei Änderungen des wesentlichen Vertragsinhalts.
 
 (2) Der Ausbildende hat anzuzeigen
 
@@ -455,9 +473,9 @@ Bei der Datenübermittlung sind dem jeweiligen Stand der Technik entsprechende M
 
 (1) In den anerkannten Ausbildungsberufen (Gewerbe der Anlage A oder der Anlage B) sind Gesellenprüfungen durchzuführen. Die Prüfung kann im Falle des Nichtbestehens zweimal wiederholt werden. Sofern die Gesellenprüfung in zwei zeitlich auseinander fallenden Teilen durchgeführt wird, ist der erste Teil der Gesellenprüfung nicht eigenständig wiederholbar.
 
-(2) Dem Prüfling ist ein Zeugnis auszustellen. Dem Ausbildenden werden auf dessen Verlangen die Ergebnisse der Gesellenprüfung des Lehrlings (Auszubildenden) übermittelt. Sofern die Gesellenprüfung in zwei zeitlich auseinander fallenden Teilen durchgeführt wird, ist das Ergebnis der Prüfungsleistung im ersten Teil der Gesellenprüfung dem Prüfling schriftlich mitzuteilen.
+(2) Dem Prüfling ist ein Zeugnis auszustellen. Dem Ausbildenden werden auf dessen Verlangen die Ergebnisse der Gesellenprüfung des Lehrlings (Auszubildenden) übermittelt. Sofern die Gesellenprüfung in zwei zeitlich auseinander fallenden Teilen durchgeführt wird, ist das Ergebnis der Prüfungsleistung im ersten Teil der Gesellenprüfung dem Prüfling schriftlich oder elektronisch mitzuteilen.
 
-(3) Dem Zeugnis ist auf Antrag des Lehrlings (Auszubildenden) eine englischsprachige und eine französischsprachige Übersetzung beizufügen. Auf Antrag des Lehrlings (Auszubildenden) ist das Ergebnis berufsschulischer Leistungsfeststellungen auf dem Zeugnis auszuweisen. Der Lehrling (Auszubildende) hat den Nachweis der berufsschulischen Leistungsfeststellungen dem Antrag beizufügen.
+(3) Dem Zeugnis ist auf Antrag des Lehrlings (Auszubildenden) eine englischsprachige und eine französischsprachige Übersetzung beizufügen. Auf Antrag des Lehrlings (Auszubildenden) ist das Ergebnis berufsschulischer Leistungsfeststellungen auf dem Zeugnis auszuweisen. Der Lehrling (Auszubildende) hat den Nachweis der berufsschulischen Leistungsfeststellungen dem Antrag beizufügen. Sofern die Schule nach Landesrecht verpflichtet ist, die berufsschulische Leistungsfeststellung an die Handwerkskammer oder die nach § 33 Absatz 1 Satz 3 von der Handwerkskammer zur Errichtung von Prüfungsausschüssen ermächtigte Handwerksinnung zu übermitteln, hat die Handwerkskammer oder die Handwerksinnung die berufsschulische Leistungsfeststellung nach der Übermittlung auf dem Zeugnis auszuweisen.
 
 (4) Die Prüfung ist für den Lehrling (Auszubildenden) gebührenfrei.
 
@@ -520,7 +538,7 @@ Der Prüfungsausschuß wählt aus seiner Mitte einen Vorsitzenden und dessen Ste
 
 3. das Bestehen oder Nichtbestehen der Gesellenprüfung.
 
-(2) Die Handwerkskammer oder im Fall des § 33 Absatz 1 Satz 3 die Handwerksinnung kann im Einvernehmen mit den Mitgliedern des Prüfungsausschusses die Abnahme und abschließende Bewertung von Prüfungsleistungen auf Prüferdelegationen übertragen. Für die Zusammensetzung von Prüferdelegationen und für die Abstimmungen in der Prüferdelegation sind § 34 Absatz 1 bis 3 und § 35 Satz 3 und 4 entsprechend anzuwenden. Mitglieder von Prüferdelegationen können die Mitglieder des Prüfungsausschusses, deren Stellvertreter und Stellvertreterinnen sowie weitere Prüfende sein, die durch die Handwerkskammer oder durch die nach § 33 Absatz 1 Satz 3 zur Errichtung von Prüfungsausschüssen ermächtigte Handwerksinnung nach § 34 Absatz 7 berufen worden sind.
+(2) Die Handwerkskammer oder im Fall des § 33 Absatz 1 Satz 3 die Handwerksinnung kann im Einvernehmen mit den Mitgliedern des Prüfungsausschusses die Abnahme und abschließende Bewertung von Prüfungsleistungen auf Prüferdelegationen übertragen. Für die Zusammensetzung von Prüferdelegationen und für die Abstimmungen in der Prüferdelegation sind § 34 Absatz 1 bis 3 und § 35 entsprechend anzuwenden. Mitglieder von Prüferdelegationen können die Mitglieder des Prüfungsausschusses, deren Stellvertreter und Stellvertreterinnen sowie weitere Prüfende sein, die durch die Handwerkskammer oder durch die nach § 33 Absatz 1 Satz 3 zur Errichtung von Prüfungsausschüssen ermächtigte Handwerksinnung nach § 34 Absatz 7 berufen worden sind.
 
 (3) Die Handwerkskammer oder im Fall des § 33 Absatz 1 Satz 3 die Handwerksinnung hat vor Beginn der Prüfung über die Bildung von Prüferdelegationen, über deren Mitglieder sowie über deren Stellvertreter und Stellvertreterinnen zu entscheiden. Prüfende können Mitglieder mehrerer Prüferdelegationen sein. Sind verschiedene Prüfungsleistungen derart aufeinander bezogen, dass deren Beurteilung nur einheitlich erfolgen kann, so müssen diese Prüfungsleistungen von denselben Prüfenden abgenommen werden.
 
@@ -530,13 +548,39 @@ Der Prüfungsausschuß wählt aus seiner Mitte einen Vorsitzenden und dessen Ste
 
 (6) Sieht die Ausbildungsordnung vor, dass Auszubildende bei erfolgreichem Abschluss eines zweijährigen Ausbildungsberufs vom ersten Teil der Gesellenprüfung eines darauf aufbauenden drei- oder dreieinhalbjährigen Ausbildungsberufs befreit sind, so ist das Ergebnis der Gesellenprüfung des zweijährigen Ausbildungsberufs vom Prüfungsausschuss als das Ergebnis des ersten Teils der Gesellenprüfung des auf dem zweijährigen Ausbildungsberuf aufbauenden drei- oder dreieinhalbjährigen Ausbildungsberufs zu übernehmen.
 
+# § 35b
+
+(1) Die Handwerkskammer oder die nach § 33 Absatz 1 Satz 3 von der Handwerkskammer zur Errichtung von Prüfungsausschüssen ermächtigte Handwerksinnung kann bestimmen, dass bei der Abnahme und Bewertung von Prüfungsleistungen, deren Bewertung die Anwesenheit der Prüfenden bei der Abnahme erfordert, Prüfende unter Einsatz der Übertragung von Bild und Ton (Videokonferenz) teilnehmen, wenn
+
+1. die abzunehmenden Prüfungsleistungen für diese Form der Durchführung geeignet sind,
+
+2. die Prüflinge mit der Ladung zur Prüfung über diese Form der Durchführung informiert worden sind,
+
+3. die Prüflinge sich unter Aufsicht an einem Ort befinden, der von der Handwerkskammer oder im Falle des § 33 Absatz 1 Satz 3 von der Handwerksinnung festgelegt worden ist,
+
+4. mindestens ein Prüfender sich am gleichen Ort wie die Prüflinge befindet,
+
+5. die Handwerkskammer oder im Falle des § 33 Absatz 1 Satz 3 die Handwerksinnung die zu nutzende Videokonferenztechnik festgelegt hat und deren Funktionsfähigkeit sowie deren Barrierefreiheit sicherstellt,
+
+6. den Prüflingen und den Prüfenden vor der Prüfung ausreichend Gelegenheit gegeben worden ist, sich mit der Videokonferenztechnik vertraut zu machen,
+
+7. während der Abnahme der Prüfungsleistung eine für die Videokonferenztechnik sachkundige Person zur Verfügung steht,
+
+8. bei vorübergehenden technischen Störungen, die nicht durch den Prüfling zu vertreten sind, der damit verbundene Zeitverlust durch entsprechende Zeitverlängerung ausgeglichen wird und
+
+9. keine Aufzeichnung der Videokonferenz erfolgt.
+
+Auf Antrag einzelner Prüfender bei der Handwerkskammer oder bei der nach § 33 Absatz 1 Satz 3 von der Handwerkammer zur Errichtung von Prüfungsausschüssen ermächtigten Handwerksinnung gilt Satz 1 nur für einzelne Prüfungsleistungen und diese Prüfenden mit der Maßgabe, dass die übrigen Prüfenden des jeweiligen Prüfungsausschusses oder der jeweiligen Prüferdelegation dem Antrag zustimmen.
+
+(2) Die Handwerkskammer oder die nach § 33 Absatz 1 Satz 3 von der Handwerkskammer zur Errichtung von Prüfungsausschüssen ermächtigte Handwerksinnung kann bestimmen, dass die Prüfenden an Sitzungen von Prüfungsausschüssen oder Prüferdelegationen auch ohne Anwesenheit an einem Ort teilnehmen und sämtliche oder einzelne ihrer Rechte ganz oder teilweise im Wege elektronischer Kommunikation ausüben können.
+
 # § 36
 
 (1) Zur Gesellenprüfung ist zuzulassen,
 
 1. wer die Ausbildungsdauer zurückgelegt hat oder wessen Ausbildungsdauer nicht später als zwei Monate nach dem Prüfungstermin endet,
 
-2. wer an vorgeschriebenen Zwischenprüfungen teilgenommen sowie einen vom Ausbilder und Auszubildenden unterzeichneten Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes vorgelegt hat und
+2. wer an vorgeschriebenen Zwischenprüfungen teilgenommen sowie einen Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes über den Ausbildenden schriftlich oder elektronisch vorgelegt hat und
 
 3. wessen Berufsausbildungsverhältnis in die Lehrlingsrolle eingetragen oder aus einem Grund nicht eingetragen ist, den weder der Lehrling (Auszubildende) noch dessen gesetzlicher Vertreter zu vertreten hat.
 
@@ -560,7 +604,7 @@ Der Prüfungsausschuß wählt aus seiner Mitte einen Vorsitzenden und dessen Ste
 
 1. über die Voraussetzungen des § 36 Absatz 1 hinaus am ersten Teil der Gesellenprüfung teilgenommen hat,
 
-2. auf Grund einer Rechtsverordnung nach § 26 Absatz 2 Satz 1 Nummer 2b von der Ablegung des ersten Teils der Gesellenprüfung befreit ist oder
+2. auf Grund einer Rechtsverordnung nach § 26 Absatz 2 Satz 1 Nummer 3 von der Ablegung des ersten Teils der Gesellenprüfung befreit ist oder
 
 3. aus Gründen, die er nicht zu vertreten hat, am ersten Teil der Gesellenprüfung nicht teilgenommen hat.
 
@@ -572,7 +616,9 @@ Im Fall des Satzes 1 Nummer 3 ist der erste Teil der Gesellenprüfung zusammen m
 
 (2) Zur Gesellenprüfung ist auch zuzulassen, wer nachweist, dass er mindestens das Eineinhalbfache der Zeit, die als Ausbildungsdauer vorgeschrieben ist, in dem Beruf tätig gewesen ist, in dem er die Prüfung ablegen will. Als Zeiten der Berufstätigkeit gelten auch Ausbildungszeiten in einem anderen, einschlägigen Ausbildungsberuf. Vom Nachweis der Mindestzeit nach Satz 1 kann ganz oder teilweise abgesehen werden, wenn durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft gemacht wird, dass der Bewerber die berufliche Handlungsfähigkeit erworben hat, die die Zulassung zur Prüfung rechtfertigt. Ausländische Bildungsabschlüsse und Zeiten der Berufstätigkeit im Ausland sind dabei zu berücksichtigen.
 
-(3) Soldaten auf Zeit und ehemalige Soldaten sind nach Absatz 2 Satz 3 zur Gesellenprüfung zuzulassen, wenn das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle bescheinigt, dass der Bewerber berufliche Fertigkeiten, Kenntnisse und Fähigkeiten erworben hat, welche die Zulassung zur Prüfung rechtfertigen.
+(3) Zur Gesellenprüfung ist auch zuzulassen, wer im Rahmen eines Verfahrens nach § 1 Absatz 6 des Berufsbildungsgesetzes das Zeugnis der vollständigen Vergleichbarkeit seiner individuellen beruflichen Handlungsfähigkeit mit der für die Ausübung des im Antrag bestimmten anerkannten Ausbildungsberufs erforderlichen beruflichen Handlungsfähigkeit erhalten hat.
+
+(4) Soldaten auf Zeit und ehemalige Soldaten sind nach Absatz 2 Satz 3 zur Gesellenprüfung zuzulassen, wenn das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle bescheinigt, dass der Bewerber berufliche Fertigkeiten, Kenntnisse und Fähigkeiten erworben hat, welche die Zulassung zur Prüfung rechtfertigen.
 
 # § 37a
 
@@ -602,9 +648,9 @@ Im Fall des Satzes 1 Nummer 3 ist der erste Teil der Gesellenprüfung zusammen m
 
 # § 39a
 
-(1) Zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten nach § 26 Abs. 2 Nr. 5 werden gesondert geprüft und bescheinigt. Das Ergebnis der Prüfung nach § 31 bleibt unberührt.
+(1) Zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten nach § 26 Absatz 2 Satz 1 Nummer 6 werden gesondert geprüft und bescheinigt. Das Ergebnis der Prüfung nach § 31 bleibt unberührt.
 
-(2) § 31 Abs. 3 und 4 sowie die §§ 33 bis 35a und 38 gelten entsprechend.
+(2) § 31 Absatz 3 und 4 sowie die §§ 33 bis 35b und 38 gelten entsprechend.
 
 # § 40
 
@@ -630,13 +676,107 @@ Soweit Vorschriften nicht bestehen, regelt die Handwerkskammer die Durchführung
 
 3. der beruflichen Umschulung
 
-und fördert diese durch Beratung der an der Berufsbildung beteiligten Personen. Sie hat zu diesem Zweck Berater zu bestellen. § 111 ist anzuwenden.
+und fördert diese durch Beratung der an der Berufsbildung beteiligten Personen. Sie hat zu diesem Zweck Berater zu bestellen. § 111 ist anzuwenden. Die Bestellung von Beratern und Beraterinnen ist hauptberuflich, nebenberuflich oder ehrenamtlich möglich. Erfolgt die Bestellung ehrenamtlich, gilt § 34 Absatz 9 entsprechend.
 
 (2) Ausbildende, Umschulende und Anbieter von Maßnahmen der Berufsausbildungsvorbereitung sind auf Verlangen verpflichtet, die für die Überwachung notwendigen Auskünfte zu erteilen und Unterlagen vorzulegen sowie die Besichtigung der Ausbildungsstätten zu gestatten.
 
 (3) Die Durchführung von Auslandsaufenthalten nach § 2 Abs. 3 des Berufsbildungsgesetzes überwacht und fördert die Handwerkskammer in geeigneter Weise. Beträgt die Dauer eines Ausbildungsabschnitts im Ausland mehr als acht Wochen, ist hierfür ein mit der Handwerkskammer abgestimmter Plan erforderlich.
 
 (4) Die Handwerkskammer teilt der Aufsichtsbehörde nach dem Jugendarbeitsschutzgesetz Wahrnehmungen mit, die für die Durchführung des Jugendarbeitsschutzgesetzes von Bedeutung sein können.
+
+# § 41b
+
+(1) Die Handwerkskammer stellt auf Antrag die individuelle berufliche Handlungsfähigkeit des Antragstellers oder der Antragstellerin am Maßstab eines vom Antragsteller oder von der Antragstellerin zu bezeichnenden anerkannten Ausbildungsberufs (Referenzberuf) in einem Feststellungs- oder Ergänzungsverfahren fest und bescheinigt die individuelle berufliche Handlungsfähigkeit, wenn diese überwiegend oder vollständig mit der für die Ausübung des Referenzberufs erforderlichen beruflichen Handlungsfähigkeit vergleichbar ist.
+
+(2) Antragsberechtigt ist, wer
+
+1. seinen Wohnsitz in Deutschland hat oder die notwendige Berufstätigkeit nach Absatz 3 Satz 1 Nummer 1 mindestens zur Hälfte im Inland absolviert hat und
+
+2. in dem Referenzberuf keinen Berufsabschluss hat und für wessen Berufsabschluss keine Gleichwertigkeit nach dem Berufsqualifikationsfeststellungsgesetz festgestellt worden ist,
+
+3. nicht in einem Berufsausbildungsverhältnis im Referenzberuf steht sowie
+
+4. das 25. Lebensjahr vollendet hat.
+
+(3) Zum Feststellungsverfahren ist per Bescheid zuzulassen, wer
+
+1. nachweist, mindestens das Eineinhalbfache der Zeit, die als Ausbildungsdauer für den Referenzberuf vorgeschrieben ist, in dem Referenzberuf tätig gewesen zu sein, und
+
+2. glaubhaft macht, bei seiner Tätigkeit nach Nummer 1 oder in sonstiger Weise eine berufliche Handlungsfähigkeit erworben zu haben, die derjenigen, die für die Ausübung des Referenzberufs erforderlich ist, überwiegend oder vollständig vergleichbar ist.
+
+§ 37 Absatz 2 Satz 2 bis 4 ist entsprechend mit der Maßgabe anzuwenden, dass, falls ein Berufsausbildungsverhältnis im Referenzberuf bestand und die Gesellenprüfung nicht bestanden wurde, die Dauer der Berufsausbildung bis höchstens zur Hälfte der festgelegten Ausbildungsdauer berücksichtigt werden kann. Gelingt dem Antragsteller oder der Antragstellerin der Nachweis nach Satz 1 Nummer 1 oder die Glaubhaftmachung nach Satz 1 Nummer 2 aus von ihm oder ihr selbst nicht zu vertretenden Gründen nicht oder nur teilweise, kann insoweit die Abgabe einer eidesstattlichen Versicherung gefordert werden.
+
+(4) Richtet sich der Antrag auf die Feststellung der überwiegenden Vergleichbarkeit, ist Absatz 3 Satz 1 Nummer 1 mit der Maßgabe entsprechend anzuwenden, dass eine Tätigkeit im Tätigkeitsbereich des Referenzberufs genügt, die die im Antrag bezeichneten für die Ausübung des Referenzberufs erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten umfasst.
+
+(5) Wer bereits ein Feststellungsverfahren nach diesem Abschnitt durchlaufen hat, in dem die überwiegende, aber nicht vollständige Vergleichbarkeit mit der für die Ausübung des Referenzberufs erforderlichen beruflichen Handlungsfähigkeit festgestellt und bescheinigt worden ist, hat Anspruch auf Durchführung eines Ergänzungsverfahrens, wenn er glaubhaft macht, dass er den Teil der beruflichen Handlungsfähigkeit, der für eine vollständige Vergleichbarkeit gefehlt hat, nach der Zulassung zum Feststellungsverfahren erworben hat. Absatz 3 Satz 3 ist mit der Maßgabe anzuwenden, dass es eines erneuten Nachweises nach Absatz 3 Satz 1 Nummer 1 nicht bedarf. Das Ergänzungsverfahren beschränkt sich auf diesen Teil der beruflichen Handlungsfähigkeit. Wird die vollständige Vergleichbarkeit im Ergänzungsverfahren festgestellt, so bescheinigt die Handwerkskammer die vollständige Vergleichbarkeit.
+
+# § 41c
+
+(1) Für die Durchführung des Feststellungsverfahrens oder des Ergänzungsverfahrens bestimmt die Handwerkskammer aus dem Kreis der Personen, die sie oder eine von ihr nach § 33 Absatz 1 Satz 3 zur Errichtung von Prüfungsausschüssen ermächtigte Handwerksinnung für die Durchführung von Prüfungen im Referenzberuf nach § 34 Absatz 2, 5 und 7 berufen hat, Feststellungstandems nach Satz 2 für mindestens ein Jahr und höchstens für die Dauer der Berufungsperiode. Ein Feststellungstandem besteht aus je einem oder einer Beauftragten der Arbeitgeber- und der Arbeitnehmerseite. Von der Besetzung mit jeweils einem oder einer Beauftragten der Arbeitgeber- und der Arbeitnehmerseite darf nur abgewichen werden, wenn andernfalls nicht die erforderliche Zahl an Personen bestimmt werden kann. Abwechselnd führt eine Person des Feststellungstandems die Feststellung der individuellen beruflichen Handlungsfähigkeit durch (Feststeller oder Feststellerin) und die andere Person sitzt der Durchführung der Feststellung bei (Beisitzer oder Beisitzerin). Die Handwerkskammer bestimmt durch Los, wer je Feststellungstandem die erste Feststellung durchführt. § 34 Absatz 2 Satz 3, Absatz 6 Satz 1, Absatz 7, 9 und 9a ist entsprechend anzuwenden. Mit Zustimmung der Mitglieder eines Feststellungstandems kann die Handwerkskammer abweichend von Satz 4 zweiter Halbsatz vorsehen, dass den Feststellungen anstelle des jeweils zweiten Mitglieds des Feststellungstandems hauptamtliche Mitarbeitende der Handwerkskammer oder Arbeitnehmer und Arbeitnehmerinnen der von der Handwerkskammer beherrschten Tochterunternehmen beisitzen, die die Voraussetzungen des § 34 Absatz 1 Satz 2 erfüllen. Satz 6 gilt für diese Personen nicht.
+
+(2) Der Feststeller oder die Feststellerin hat für die Feststellung geeignete Instrumente auszuwählen. Zu diesen Instrumenten gehören insbesondere mündliche und praktische Aufgaben sowie die Einbeziehung von Arbeitsergebnissen aus dem Tätigkeitsbereich des Referenzberufs in den beiden letzten Jahren vor Antragstellung. Auf schriftliche Aufgaben ist zu verzichten, wenn die Feststellung mittels anderer Instrumente mit vertretbarem Aufwand möglich ist.
+
+(3) Bei einer überwiegenden Vergleichbarkeit weist der Bescheid zusätzlich die festgestellten und die nicht festgestellten Fertigkeiten, Kenntnisse und Fähigkeiten der für die Ausübung des Referenzberufs erforderlichen beruflichen Handlungsfähigkeit aus. Bei einer vollständigen Vergleichbarkeit stellt der Bescheid in der Form eines schriftlichen Zeugnisses die vollständige Vergleichbarkeit der beruflichen Handlungsfähigkeit des Antragstellers oder der Antragstellerin mit der für die Ausübung des Referenzberufs erforderlichen beruflichen Handlungsfähigkeit fest. § 31 Absatz 3 Satz 1 gilt entsprechend. Kann der Antragsteller oder die Antragstellerin weder die vollständige noch die überwiegende Vergleichbarkeit seiner oder ihrer individuellen beruflichen Handlungsfähigkeit mit der für den Referenzberuf erforderlichen beruflichen Handlungsfähigkeit im Rahmen des Feststellungsverfahrens nach diesem Abschnitt nachweisen, wird der Antrag auf Feststellung abgelehnt.
+
+(4) Die Handwerkskammer hat Regelungen für das Verfahren zur Feststellung und Bescheinigung der individuell erworbenen beruflichen Handlungsfähigkeit zu erlassen. Diese Regelungen bedürfen der Genehmigung der zuständigen obersten Landesbehörde. Die Regelungen müssen umfassen:
+
+1. den Ausschluss von der Mitwirkung,
+
+2. die Verschwiegenheit,
+
+3. die Nichtöffentlichkeit,
+
+4. die Frist für die Ladung zum Feststellungstermin,
+
+5. die Niederschrift, soweit diese über die Dokumentation nach § 41e Nummer 2 hinausgeht,
+
+6. die Fristen für die Bescheide beziehungsweise für die Zeugniserteilung,
+
+7. die Ausweispflicht und Belehrungen, insbesondere über den Ablauf des Verfahrens, die zur Verfügung stehende Zeit und die erlaubten Arbeits- und Hilfsmittel,
+
+8. die Folgen von Täuschungshandlungen und Ordnungsverstößen sowie
+
+9. den Rücktritt vom Feststellungsverfahren und die Nichtteilnahme am Feststellungsverfahren.
+
+§ 38 Absatz 3 gilt entsprechend.
+
+# § 41d
+
+(1) Für Menschen mit Behinderungen nach § 2 Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch, für die auf Grund von Art und Schwere der Behinderung die Feststellung der überwiegenden oder vollständigen, für die Ausübung des Referenzberufs erforderlichen beruflichen Handlungsfähigkeit nicht möglich ist, sind die §§ 41b und 41c mit der Maßgabe anzuwenden, dass
+
+1. eine individuelle berufliche Handlungsfähigkeit am Maßstab eines Referenzberufs auch dann festgestellt und bescheinigt wird, wenn diese nicht überwiegend oder vollständig, sondern nur teilweise vergleichbar ist mit der für die Ausübung des Referenzberufs erforderlichen beruflichen Handlungsfähigkeit; in diesen Fällen weist der Bescheid eine teilweise Vergleichbarkeit aus; § 41c Absatz 3 Satz 1 gilt entsprechend,
+
+2. bei einem Antrag, der sich auf die Feststellung der teilweisen Vergleichbarkeit richtet,
+
+a) für § 41b Absatz 3 Satz 1 Nummer 1 eine Tätigkeit im Tätigkeitsbereich des Referenzberufs genügt, die die im Antrag bezeichneten, für die Ausübung des Referenzberufs erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten umfasst,
+
+b) für § 41b Absatz 3 Satz 1 Nummer 2 sich die Glaubhaftmachung auf die im Antrag bezeichneten, für die Ausübung des Referenzberufs erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten beschränkt,
+
+c) der Bescheid nach § 41c Absatz 3 auf Antrag zusätzlich zur Vergleichbarkeit mit dem Referenzberuf auch eine überwiegende oder vollständige Vergleichbarkeit mit einer Referenzausbildungsregelung nach § 42r ausweist, sofern sich die Ausbildungsregelung am gewählten Referenzberuf orientiert und entsprechend einer berufsspezifischen Musterregelung des Hauptausschusses des Bundesinstituts für Berufsbildung getroffen wurde,
+
+3. abweichend von § 41b Absatz 2 Nummer 4 antragsberechtigt auch ist, wer das 25. Lebensjahr noch nicht vollendet hat.
+
+(2) Im Fall der teilweisen Vergleichbarkeit müssen die festgestellten, für die Ausübung des Referenzberufs erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten zusammen dem Referenzberuf eindeutig zugeordnet werden können und eine berufliche Tätigkeit im Tätigkeitsbereich des Referenzberufs ermöglichen.
+
+(3) Menschen mit Behinderungen können in ihrem Antrag eine Person als Verfahrensbegleitung benennen, die besonders mit den Belangen von Menschen mit Behinderungen im Rahmen der beruflichen Qualifizierung vertraut ist. Dies sind insbesondere solche Ausbilder, die die Rehabilitationspädagogische Zusatzqualifikation erworben haben. Auf Antrag des Antragstellers oder der Antragstellerin ist der Verfahrensbegleitung Gelegenheit zu geben,
+
+1. zur Auswahl der Feststellungsinstrumente Stellung zu nehmen und
+
+2. an der Durchführung der Feststellung teilzunehmen.
+
+# § 41e
+
+Als Grundlage für ein geordnetes und einheitliches Verfahren wird das Bundesministerium für Bildung und Forschung ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, insbesondere
+
+1. die Voraussetzung und Maßstäbe, anhand derer die Durchführung des Feststellungs- und Ergänzungsverfahrens, insbesondere das Verfahren zur Festlegung der Feststellungsinstrumente einschließlich der Verpflichtung zur gemeinsamen Festlegung von Feststellungsinstrumenten durch zuständige Stellen erfolgt,
+
+2. das Verfahren zur Würdigung, Feststellung und Dokumentation der Leistungen des Antragstellers oder der Antragstellerin,
+
+3. die Möglichkeit von Wiederholungsversuchen sowie
+
+4. Maßgaben zur Ausgestaltung des Bescheids bei Feststellung der überwiegenden oder im Fall des § 41d Absatz 1 Nummer 1 teilweisen Vergleichbarkeit und des Zeugnisses bei Feststellung der vollständigen Vergleichbarkeit
+
+zu regeln.
 
 # § 42
 
@@ -678,7 +818,11 @@ und fördert diese durch Beratung der an der Berufsbildung beteiligten Personen.
 
 Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten soll mindestens 400 Stunden betragen.
 
-(3) Als Zulassungsvoraussetzung für eine Prüfung der ersten beruflichen Fortbildungsstufe ist als Regelzugang der Abschluss in einem anerkannten Ausbildungsberuf vorzusehen.
+(3) Als Voraussetzung zur Zulassung für eine Prüfung der ersten beruflichen Fortbildungsstufe ist als Regelzugang vorzusehen:
+
+1. der Abschluss in einem anerkannten Ausbildungsberuf oder
+
+2. das Zeugnis der vollständigen Vergleichbarkeit der individuellen beruflichen Handlungsfähigkeit mit der für die Ausübung eines Ausbildungsberufs erforderlichen beruflichen Handlungsfähigkeit nach § 1 Absatz 6 des Berufsbildungsgesetzes.
 
 (4) Die Bezeichnung eines Fortbildungsabschlusses der ersten beruflichen Fortbildungsstufe beginnt mit den Wörtern „Geprüfter Berufsspezialist für“ oder „Geprüfte Berufsspezialistin für“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der ersten beruflichen Fortbildungsstufe darf nur führen, wer
 
@@ -694,9 +838,11 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 
 (3) Als Voraussetzung zur Zulassung für eine Prüfung der zweiten beruflichen Fortbildungsstufe ist als Regelzugang vorzusehen:
 
-1. der Abschluss in einem anerkannten Ausbildungsberuf oder
+1. der Abschluss in einem anerkannten Ausbildungsberuf,
 
-2. ein Abschluss der ersten beruflichen Fortbildungsstufe.
+2. das Zeugnis der vollständigen Vergleichbarkeit der individuellen beruflichen Handlungsfähigkeit mit der für die Ausübung eines Ausbildungsberufs erforderlichen beruflichen Handlungsfähigkeit nach § 1 Absatz 6 des Berufsbildungsgesetzes oder
+
+3. ein Abschluss der ersten beruflichen Fortbildungsstufe.
 
 (4) Die Bezeichnung eines Fortbildungsabschlusses der zweiten beruflichen Fortbildungsstufe beginnt mit den Wörtern „Bachelor Professional in“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der zweiten beruflichen Fortbildungsstufe darf nur führen, wer
 
@@ -762,7 +908,7 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 
 3. dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 42d Absatz 2 und 3 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern „Master Professional in“.
 
-Der Abschlussbezeichnung nach Satz 1 ist in Klammern ein Zusatz beizufügen, aus dem sich zweifelsfrei die Handwerkskammer ergibt, die die Fortbildungsprüfungsregelungen erlassen hat. Die Fortbildungsprüfungsregelungen können vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird.
+Der Abschlussbezeichnung nach Satz 1 ist in Klammern ein Zusatz beizufügen, aus dem sich zweifelsfrei die Handwerkskammer ergibt, die die Fortbildungsprüfungsregelungen erlassen hat. Die Fortbildungsprüfungsregelungen können vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Ist für die Bestätigung nach Satz 1 ein Gutachten erforderlich, wird dieses auf Antrag und auf Kosten der Handwerkskammer vom Bundesinstitut für Berufsbildung nach § 90 Absatz 4 Satz 2 des Berufsbildungsgesetzes erstellt.
 
 (4) Eine Abschlussbezeichnung, die in einer von der zuständigen obersten Landesbehörde bestätigten Fortbildungsprüfungsregelung enthalten ist, darf nur führen, wer die Prüfung bestanden hat. § 42c Absatz 4 Satz 2 und 3 sowie § 42d Absatz 4 Satz 2 und 3 bleiben unberührt.
 
@@ -772,7 +918,7 @@ Sofern Fortbildungsordnungen, Anpassungsfortbildungsordnungen oder Fortbildungsp
 
 # § 42h
 
-(1) Für die Durchführung von Prüfungen im Bereich der beruflichen Fortbildung errichtet die Handwerkskammer Prüfungsausschüsse. § 31 Absatz 2 Satz 1 und 2 und Absatz 3 Satz 1 sowie § 33 Absatz 1 Satz 2, Absatz 3 und 4 und die §§ 34 bis 35a, 37a und 38 sind entsprechend anzuwenden.
+(1) Für die Durchführung von Prüfungen im Bereich der beruflichen Fortbildung errichtet die Handwerkskammer Prüfungsausschüsse. § 31 Absatz 2 Satz 1 und Absatz 3 Satz 1 sowie § 33 Absatz 1 Satz 2, Absatz 3 und 4 und die §§ 34 bis 35a Absatz 1 bis 5 sowie die §§ 35b, 37a und 38 sind entsprechend anzuwenden.
 
 (2) Der Prüfling ist auf Antrag von der Ablegung einzelner Prüfungsbestandteile durch die Handwerkskammer zu befreien, wenn
 
@@ -804,7 +950,7 @@ Soweit Rechtsverordnungen nach § 42j nicht erlassen sind, kann die Handwerkskam
 
 # § 42l
 
-Sofern sich die Umschulungsordnung (§ 42j) oder eine Regelung der Handwerkskammer (§ 42k) auf die Umschulung für einen anerkannten Ausbildungsberuf (Gewerbe der Anlage A oder der Anlage B) richtet, sind das Ausbildungsberufsbild (§ 26 Abs. 1 Nr. 3), der Ausbildungsrahmenplan (§ 26 Abs. 1 Nr. 4) und die Prüfungsanforderungen (§ 26 Abs. 1 Nr. 5) zugrunde zu legen. Die §§ 21 bis 24 gelten entsprechend.
+Sofern sich die Umschulungsordnung (§ 42j) oder eine Regelung der Handwerkskammer (§ 42k) auf die Umschulung für einen anerkannten Ausbildungsberuf (Gewerbe der Anlage A oder der Anlage B) richtet, sind das Ausbildungsberufsbild (§ 26 Absatz 1 Satz 1 Nummer 3), der Ausbildungsrahmenplan (§ 26 Absatz 1 Satz 1 Nummer 4) und die Prüfungsanforderungen (§ 26 Absatz 1 Satz 1 Nummer 5) zugrunde zu legen. Die §§ 21 bis 24 gelten entsprechend.
 
 # § 42m
 
@@ -814,9 +960,9 @@ Sofern die Umschulungsordnung (§ 42j) oder eine Regelung der Handwerkskammer (�
 
 (1) Maßnahmen der beruflichen Umschulung müssen nach Inhalt, Art, Ziel und Dauer den besonderen Erfordernissen der beruflichen Erwachsenenbildung entsprechen.
 
-(2) Der Umschulende hat die Durchführung der beruflichen Umschulung unverzüglich vor Beginn der Maßnahme der Handwerkskammer schriftlich anzuzeigen. Die Anzeigepflicht erstreckt sich auf den wesentlichen Inhalt des Umschulungsverhältnisses. Bei Abschluss eines Umschulungsvertrages ist eine Ausfertigung der Vertragsniederschrift beizufügen.
+(2) Der Umschulende hat die Durchführung der beruflichen Umschulung unverzüglich vor Beginn der Maßnahme der Handwerkskammer schriftlich oder elektronisch anzuzeigen. Die Anzeigepflicht erstreckt sich auf den wesentlichen Inhalt des Umschulungsverhältnisses. Bei Abschluss eines Umschulungsvertrages ist eine Kopie des Umschulungsvertrages beizufügen.
 
-(3) Für die Durchführung von Prüfungen im Bereich der beruflichen Umschulung errichtet die Handwerkskammer Prüfungsausschüsse. § 31 Abs. 2 und 3 sowie § 33 Absatz 3 und die §§ 34 bis 35a, 37a und 38 gelten entsprechend.
+(3) Für die Durchführung von Prüfungen im Bereich der beruflichen Umschulung errichtet die Handwerkskammer Prüfungsausschüsse. § 31 Abs. 2 und 3 sowie § 33 Absatz 3 und die §§ 34 bis 35b, 37a und 38 gelten entsprechend.
 
 (4) Der Prüfling ist auf Antrag von der Ablegung einzelner Prüfungsbestandteile durch die Handwerkskammer zu befreien, wenn er eine andere vergleichbare Prüfung vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss erfolgreich abgelegt hat und die Anmeldung zur Umschulungsprüfung innerhalb von zehn Jahren nach der Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
 
@@ -860,7 +1006,7 @@ Für die berufliche Fortbildung und die berufliche Umschulung behinderter Mensch
 
 (1) Die nach Landesrecht zuständige Behörde hat die Berufsausbildungsvorbereitung zu untersagen, wenn die Voraussetzungen des § 42t Absatz 1 nicht vorliegen.
 
-(2) Der Anbieter hat die Durchführung von Maßnahmen der Berufsausbildungsvorbereitung vor Beginn der Maßnahme der Handwerkskammer schriftlich anzuzeigen. Die Anzeigepflicht erstreckt sich auf den wesentlichen Inhalt des Qualifizierungsvertrages.
+(2) Der Anbieter hat die Durchführung von Maßnahmen der Berufsausbildungsvorbereitung vor Beginn der Maßnahme der Handwerkskammer schriftlich oder elektronisch anzuzeigen. Die Anzeigepflicht erstreckt sich auf den wesentlichen Inhalt des Qualifizierungsvertrages.
 
 (3) Die Absätze 1 und 2 sowie § 41a finden keine Anwendung, soweit die Berufsausbildungsvorbereitung im Rahmen des Dritten Buches Sozialgesetzbuch oder anderer vergleichbarer, öffentlich geförderter Maßnahmen durchgeführt wird.
 
@@ -1030,7 +1176,21 @@ b) das Recht zum Ausbilden von Lehrlingen besitzen oder
 
 (1) Zur Meisterprüfung ist zuzulassen, wer eine Gesellenprüfung in dem zulassungspflichtigen Handwerk, in dem er die Meisterprüfung ablegen will, oder in einem damit verwandten zulassungspflichtigen Handwerk oder eine entsprechende Abschlussprüfung in einem anerkannten Ausbildungsberuf oder eine Prüfung auf Grund einer nach § 45 oder § 51a Abs. 1 in Verbindung mit Abs. 2 erlassenen Rechtsverordnung bestanden hat oder eine Gleichwertigkeitsfeststellung nach § 40a für das entsprechende zulassungspflichtige Handwerk oder für ein verwandtes zulassungspflichtiges Handwerk besitzt. Wer die Gesellenprüfung oder die Abschlussprüfung nach Satz 1 in einem Ausbildungsberuf bestanden hat, für den in der Ausbildungsordnung eine Ausbildungsdauer von weniger als drei Jahren festgelegt ist, muss in dem zulassungspflichtigen Handwerk, in dem er die Meisterprüfung ablegen will, eine mindestens einjährige Berufstätigkeit nachweisen.
 
-(2) Zur Meisterprüfung ist auch zuzulassen, wer eine andere Gesellenprüfung oder eine andere Abschlussprüfung in einem anerkannten Ausbildungsberuf bestanden hat und in dem zulassungspflichtigen Handwerk, in dem er die Meisterprüfung ablegen will, eine mehrjährige Berufstätigkeit ausgeübt hat. Für die Zeit der Berufstätigkeit dürfen nicht mehr als drei Jahre gefordert werden. Ferner ist der erfolgreiche Abschluss einer Fachschule bei einjährigen Fachschulen mit einem Jahr, bei mehrjährigen Fachschulen mit zwei Jahren auf die Berufstätigkeit anzurechnen.
+(2) Zur Meisterprüfung ist auch zuzulassen,
+
+1. wer
+
+a) eine andere Gesellenprüfung oder eine andere Abschlussprüfung in einem anerkannten Ausbildungsberuf bestanden hat und
+
+b) in dem zulassungspflichtigen Handwerk, in dem er die Meisterprüfung ablegen will, eine mehrjährige Berufstätigkeit ausgeübt hat;
+
+2. wer
+
+a) ein Zeugnis der vollständigen Vergleichbarkeit der individuellen beruflichen Handlungsfähigkeit mit der für die Ausübung eines Ausbildungsberufs erforderlichen beruflichen Handlungsfähigkeit nach § 1 Absatz 6 des Berufsbildungsgesetzes erhalten hat und
+
+b) in dem zulassungspflichtigen Handwerk, in dem er die Meisterprüfung ablegen will, eine mehrjährige Berufstätigkeit ausgeübt hat, davon mindestens ein Jahr nach Erhalt des Zeugnisses im Sinne des Buchstabens a.
+
+Für die Zeit der Berufstätigkeit dürfen jeweils nicht mehr als drei Jahre gefordert werden. Ferner ist der erfolgreiche Abschluss einer Fachschule bei einjährigen Fachschulen mit einem Jahr, bei mehrjährigen Fachschulen mit zwei Jahren auf die Berufstätigkeit anzurechnen.
 
 (3) Ist der Prüfling in dem zulassungspflichtigen Handwerk, in dem er die Meisterprüfung ablegen will, selbständig, als Werkmeister oder in ähnlicher Stellung tätig gewesen, oder weist er eine der Gesellentätigkeit gleichwertige praktische Tätigkeit nach, so ist die Zeit dieser Tätigkeit anzurechnen.
 
@@ -1162,7 +1322,15 @@ Ausbildungsnachweise sind Prüfungszeugnisse und sonstige Befähigungsnachweise,
 
 (4) Zum Nachweis der Fertigkeiten und Kenntnisse führt die Handwerkskammer Prüfungen nach Maßgabe der folgenden Vorschriften durch. Die durch die Durchführung der Meisterprüfung entstehenden Kosten trägt die Handwerkskammer.
 
-(5) Zur Prüfung ist zuzulassen, wer eine Gesellenprüfung oder eine Abschlussprüfung in einem anerkannten Ausbildungsberuf bestanden hat oder eine Gleichwertigkeitsfeststellung nach § 40a besitzt. Die Handwerkskammer kann auf Antrag in Ausnahmefällen von der Zulassungsvoraussetzung befreien. Für die Ablegung des Teils III der Meisterprüfung entfällt die Zulassungsvoraussetzung.
+(5) Zur Prüfung ist zuzulassen, wer
+
+1. eine Gesellenprüfung oder eine Abschlussprüfung in einem anerkannten Ausbildungsberuf bestanden hat,
+
+2. das Zeugnis der vollständigen Vergleichbarkeit der individuellen beruflichen Handlungsfähigkeit mit der für die Ausübung eines Ausbildungsberufs erforderlichen beruflichen Handlungsfähigkeit nach § 1 Absatz 6 des Berufsbildungsgesetzes erhalten hat oder
+
+3. eine Gleichwertigkeitsfeststellung nach § 40a besitzt.
+
+Die Handwerkskammer kann auf Antrag in Ausnahmefällen von der Zulassungsvoraussetzung befreien. Für das Ablegen des Teils III der Meisterprüfung entfällt die Zulassungsvoraussetzung.
 
 (6) Für Befreiungen gilt § 46 mit der Maßgabe entsprechend, dass im Fall des § 46 Absatz 5 an die Stelle des § 50a Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 7 der § 51d Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 7 tritt.
 
@@ -2042,7 +2210,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die zuständige
 
 5. Lehrlinge (Auszubildende) einstellt oder ausbildet, obwohl ihm das Einstellen oder Ausbilden nach § 24 untersagt worden ist,
 
-6. entgegen § 30 die Eintragung in die Lehrlingsrolle nicht oder nicht rechtzeitig beantragt oder eine Ausfertigung der Vertragsniederschrift nicht beifügt,
+6. entgegen § 30 Absatz 1 Satz 1, auch in Verbindung mit Satz 4, eine dort genannte Eintragung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig beantragt oder
 
 7. einer Rechtsverordnung nach § 9 Abs. 1 Satz 1 Nr. 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
@@ -2107,6 +2275,10 @@ Der Meisterprüfung im Sinne des § 45 bleiben die in § 133 Abs. 10 der Gewerbe
 (2) Absatz 1 gilt entsprechend für ein Gewerbe, das in die Anlage A aufgenommen wird.
 
 (3) § 49 Absatz 1 Satz 2 ist nicht anzuwenden auf Personen, die bis zum Ablauf des 30. Juni 2021 eine Gesellen- oder Abschlussprüfung bestanden und vor dem 14. Juni 2023 einen Antrag auf Zulassung zur Meisterprüfung gestellt haben.
+
+# § 123a
+
+§ 22b Absatz 3, § 37 Absatz 3, die §§ 41b, 41c Absatz 1 bis 3, die §§ 41d, 42b Absatz 3, § 42c Absatz 3, § 49 Absatz 2 sowie § 51a Absatz 5 sind erstmals ab dem 1. Januar 2025 anzuwenden. § 22b Absatz 3, § 37 Absatz 3, § 42b Absatz 3, § 42c Absatz 3, § 49 Absatz 2 sowie § 51a Absatz 5 sind in ihrer am 31. Juli 2024 geltenden Fassung bis zum Ablauf des 31. Dezember 2024 weiter anzuwenden.
 
 # § 124
 
@@ -2271,17 +2443,17 @@ die der Eintragung nach Abschnitt I Nummer 1 Buchstabe a entsprechenden Daten mi
 
 2. bei den Ausbildern:
 
-Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Anschrift, elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz- oder Mobilfunktelefonnummer, Art der fachlichen Eignung;
+Name, Vorname, Geschlecht, Geburtsdatum, Anschrift, elektronische Kontaktdaten und Art der fachlichen Eignung;
 
 3. bei den Auszubildenden
 
 a) beim Lehrling:
 
-Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, allgemeinbildender Schulabschluss, vorausgegangene Teilnahme an berufsvorbereitender Qualifizierung oder beruflicher Grundbildung, vorherige Berufsausbildung sowie vorheriges Studium, Anschlussvertrag bei Anrechnung einer zuvor absolvierten dualen Berufsausbildung nach dem Berufsbildungsgesetz oder der Handwerksordnung einschließlich Ausbildungsberuf, Anschrift des Lehrlings und dessen elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz- oder Mobilfunktelefonnummer;
+Name, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, allgemeinbildender Schulabschluss, vorausgegangene Teilnahme an berufsvorbereitender Qualifizierung oder beruflicher Grundbildung, vorherige Berufsausbildung sowie vorheriges Studium, Anschlussvertrag bei Anrechnung einer zuvor absolvierten dualen Berufsausbildung nach dem Berufsbildungsgesetz oder der Handwerksordnung einschließlich Ausbildungsberuf, Anschrift des Lehrlings und dessen elektronische Kontaktdaten;
 
 b) bei gesetzlichen Vertretern:
 
-Name, Vorname und Anschrift der gesetzlichen Vertreter;
+Name, Vorname, Anschrift und elektronische Kontaktdaten der gesetzlichen Vertreter;
 
 4. beim Ausbildungsverhältnis:
 

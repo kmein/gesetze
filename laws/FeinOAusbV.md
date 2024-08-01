@@ -1,831 +1,344 @@
-% Verordnung über die Berufsausbildung zum Feinoptiker/zur Feinoptikerin
-% Ausfertigungsdatum: 22.07.2002
+% Verordnung über die Berufsausbildung zum Feinoptiker und zur Feinoptikerin*  (Feinoptikerausbildungsverordnung - FeinOAusbV)
+% Ausfertigungsdatum: 12.03.2024
  
 # Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, und auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund
+
+–  
+des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 2 Nummer 1 des Gesetzes vom 9. November 2022 (BGBl. I S. 2009) geändert worden ist, sowie
+
+–  
+des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176)
+
+verordnet das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+
+# Inhaltsübersicht
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
 # § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Feinoptiker/Feinoptikerin wird
+Der Ausbildungsberuf mit der Berufsbezeichnung des Feinoptikers und der Feinoptikerin wird staatlich anerkannt nach
 
-1. gemäß § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 74, Feinoptiker der Anlage A der Handwerksordnung sowie
+1. § 25 Absatz 1 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 35 Feinoptiker der Handwerksordnung und
 
-2. gemäß § 25 des Berufsbildungsgesetzes
+2. § 4 Absatz 1 des Berufsbildungsgesetzes.
 
-staatlich anerkannt.
+# § 2 – Dauer der Berufsausbildung
 
-# § 2 – Ausbildungsdauer
+Die Berufsausbildung dauert dreieinhalb Jahre.
 
-Die Ausbildung dauert dreieinhalb Jahre.
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-# § 3 – Ausbildungsberufsbild
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
+(2) Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf von den Ausbildenden abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-1. Berufsbildung, Arbeits- und Tarifrecht,
+(3) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen von den Ausbildenden so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
-2. Aufbau und Organisation des Ausbildungsbetriebes,
+# § 4 – Struktur der Berufsausbildung und Ausbildungsberufsbild
 
-3. Sicherheit und Gesundheitsschutz bei der Arbeit,
+(1) Die Berufsausbildung gliedert sich in:
 
-4. Umweltschutz,
+1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten und
 
-5. Planen und Steuern von Arbeitsabläufen; Kontrollieren und Beurteilen von Ergebnissen,
+2. integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-6. Betriebliche und technische Kommunikation,
+Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen gebündelt.
 
-7. Qualitätsmanagement,
+(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-8. Bereitstellen von Werkzeugen sowie von Werk-, Betriebs- und Hilfsstoffen,
+1. manuelles und maschinelles Herstellen von plan- und rundoptischen Bauteilen,
 
-9. Warten und Pflegen von Betriebsmitteln,
+2. Auswählen und Anwenden von Fügetechniken,
 
-10. Messen und Prüfen, Endkontrolle,
+3. Reinigen von optischen Bauteilen, Baugruppen und Systemen,
 
-11. Grundlagen der Metallbearbeitung,
+4. Anwenden von Verfahren zur Oberflächenbeschichtung,
 
-12. Fügen,
+5. Montieren und Justieren von Bauteilen und Baugruppen zu optischen Systemen,
 
-13. Reinigen von optischen Bauelementen und Baugruppen,
+6. Messen und Prüfen von optischen Bauteilen, Baugruppen und Systemen,
 
-14. Herstellen von plan- und rundoptischen Bauelementen,
+7. manuelles und maschinelles Bearbeiten von Metallen und Kunststoffen,
 
-15. Oberflächenveredelung,
+8. Anwenden des Qualitätsmanagements,
 
-16. Montieren und Justieren von optischen und feinmechanischen Bauteilen zu Baugruppen,
+9. Planen, Steuern und Optimieren von Arbeitsprozessen,
 
-17. Bedienen der Produktionsanlagen, Überwachen des Produktionsablaufes,
+10. Bereitstellen von Werkstoffen und Betriebsstoffen,
 
-18. Aufbauen und Prüfen von pneumatischen Steuerungen,
+11. Bedienen und Steuern von Produktionsanlagen,
 
-19. Herstellen von Einzel- und Serienteilen,
+12. Instandhalten von Betriebsmitteln und
 
-20. Kundenorientiertes Handeln.
+13. Anwenden von betrieblicher und technischer Kommunikation.
 
-# § 4 – Ausbildungsrahmenplan
+(3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-(1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
+1. Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
+2. Sicherheit und Gesundheit bei der Arbeit,
+
+3. Umweltschutz und Nachhaltigkeit sowie
+
+4. digitalisierte Arbeitswelt.
 
 # § 5 – Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegen des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-# § 6 – Berichtsheft
+# § 6 – Aufteilung in zwei Teile und Zeitpunkt
 
-Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
+(1) Die Gesellen- oder Abschlussprüfung besteht aus den Teilen 1 und 2.
 
-# § 7 – Zwischenprüfung
+(2) Teil 1 soll im vierten Ausbildungshalbjahr stattfinden.
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
+(3) Teil 2 findet am Ende der Berufsausbildung statt.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(4) Wird die Ausbildungsdauer verkürzt, so soll Teil 1 der Gesellen- oder Abschlussprüfung spätestens vier Monate vor dem Zeitpunkt von Teil 2 der Gesellen- oder Abschlussprüfung stattfinden.
 
-(3) Der Prüfling soll in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe durchführen sowie in höchstens 15 Minuten hierüber ein Fachgespräch führen. Hierfür kommen insbesondere in Betracht:
+(5) Den jeweiligen Zeitpunkt legt die zuständige Stelle fest.
 
-1. Anfertigen und Fügen optischer Bauelemente unter Anwendung manueller und maschineller Bearbeitungs- und Fügetechniken unter Berücksichtigung des Gesundheitsschutzes bei der Arbeit sowie
+# § 7 – Inhalt des Teiles 1
 
-2. Messen, Prüfen und Kontrollieren einschließlich Anfertigen eines Arbeitsplanes und eines Prüfprotokolls.
+Teil 1 der Gesellen- oder Abschlussprüfung erstreckt sich auf
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel festlegen, Messmaßnahmen durchführen, technische Unterlagen nutzen sowie Fertigungsabläufe, insbesondere den Zusammenhang von Technik, Arbeitsorganisation, Umweltschutz und Wirtschaftlichkeit, berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe wesentlichen fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung begründen kann.
+1. die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-# § 8 – Abschlussprüfung, Gesellenprüfung
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-(1) Die Abschlussprüfung, Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+# § 8 – Prüfungsbereiche des Teiles 1
 
-(2) Der Prüfling soll im Teil A der Prüfung in insgesamt höchstens 35 Stunden eine einem betrieblichen Auftrag entsprechende Aufgabe, die aus einem vorbereitenden Teil und einem darauf aufbauenden Fertigstellungsprozess besteht, durchführen und dokumentieren sowie in insgesamt höchstens 30 Minuten hierüber ein Fachgespräch führen. Hierfür kommen insbesondere in Betracht:
+Teil 1 der Gesellen- oder Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1. Anfertigen optischer Bauelemente unter Anwendung verschiedener Fertigungsverfahren sowie
+1. „Herstellen von planoptischen Bauteilen“ und
 
-2. Fügen, Montieren und Justieren zu optisch-feinmechanischen Baugruppen einschließlich Messen, Prüfen und Kontrollieren auf geometrische Anforderungen und optische Eigenschaften, Ändern und Optimieren von Einstellwerten an Geräten, Maschinen oder Anlagen.
+2. „Bauteilqualität und Arbeitsorganisation“.
 
-Die Durchführung der Aufgabe wird mit praxisbezogenen Unterlagen dokumentiert. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe und Teilaufgaben zielorientiert unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbständig planen und umsetzen, Bauelemente zu Baugruppen montieren, justieren, auf Funktion prüfen und Fertigungsabläufe überwachen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Aufgabe wesentlichen fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung begründen kann. Die Bearbeitung der Aufgabe einschließlich der Dokumentation ist mit 70 Prozent und das Fachgespräch mit 30 Prozent zu gewichten.
+# § 9 – Prüfungsbereich „Herstellen von planoptischen Bauteilen“
 
-(3) Teil B der Prüfung besteht aus den drei Prüfungsbereichen:
+(1) Im Prüfungsbereich „Herstellen von planoptischen Bauteilen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1. Fertigungstechnik,
+1. Arbeitsaufträge unter Berücksichtigung technischer Zeichnungen zu prüfen und Arbeitsplätze einzurichten,
 
-2. Mess- und Prüftechnik sowie
+2. persönliche Schutzausrüstung auszuwählen und einzusetzen,
 
-3. Wirtschafts- und Sozialkunde.
+3. Werkzeuge, Maschinen und Anlagen sowie Mess- und Prüfmittel unter Berücksichtigung von Werkstoffen und Bearbeitungsverfahren auftragsbezogen auszuwählen und vorzubereiten,
 
-In den Prüfungsbereichen Fertigungstechnik sowie Mess- und Prüftechnik sind fachliche Probleme insbesondere mit verknüpften informationstechnischen, technologischen und mathematischen Sachverhalten zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Hierbei kommen insbesondere in Betracht:
+4. planoptische Bauteile aus Halbzeugen durch Schleifen, Läppen und Polieren herzustellen,
 
-1. Für den Prüfungsbereich Fertigungstechnik:
+5. planoptische Bauteile zu reinigen,
 
-Beschreiben der Vorgehensweise bei der Herstellung plan- und rundoptischer Bauelemente unter Anwendung verschiedener Fertigungsverfahren, bei der Oberflächenveredelung sowie Montage zu Baugruppen für feinoptische Geräte, bei der Anwendung numerisch gesteuerter Maschinen und deren Programmierung, bei der Erstellung von Planungsunterlagen und Verfahrensanleitungen für Fertigungsprozesse, beim Planen und Steuern von Arbeitsabläufen unter Berücksichtigung des Qualitätsmanagements.
+6. planoptische Bauteile durch Messen auf Eigenschaften und Abweichungen auftragsbezogen zu prüfen,
 
-Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Werk- und Hilfsstoffen planen sowie Werkzeuge, Maschinen und Verfahren zuordnen kann. Weiter soll der Prüfling zeigen, dass er Problemanalysen durchführen, die für die Fertigung und Montage erforderlichen Komponenten, Werkzeuge und Hilfsmittel unter Beachtung von technischen Vorgaben auswählen, anpassen und Arbeitsschritte planen kann.
+7. bei Abweichungen Korrekturmaßnahmen zu ergreifen,
 
-2. Für den Prüfungsbereich Mess- und Prüftechnik:
+8. Mess- und Prüfprotokolle anzufertigen und Arbeitsergebnisse zu dokumentieren,
 
-Beschreiben der Vorgehensweise beim Messen, Prüfen und Kontrollieren sowie bei der systematischen Eingrenzung von Fehlern im technischen System nach vorgegebenen Anforderungen im Rahmen des Qualitätsmanagements.
+9. Maßnahmen zur Qualitätssicherung, Wirtschaftlichkeit und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit umzusetzen sowie
 
-Dabei soll der Prüfling zeigen, dass er Arbeitssicherheits- und Umweltschutzbestimmungen berücksichtigen, Verfahrensanleitungen erstellen, Mess- und Prüfverfahren auswählen, anwenden und Vorgaben des Qualitätsmanagements beachten, die jeweiligen Mess- und Prüfmittel einsetzen sowie die Mess- und Prüfergebnisse dokumentieren sowie interpretieren kann.
+10. wesentliche fachliche Zusammenhänge aufzuzeigen und seine Vorgehensweise zu begründen.
 
-3. Für den Prüfungsbereich Wirtschafts- und Sozialkunde:
+(2) Der Prüfling hat ein Prüfungsprodukt herzustellen. Die Planung, der Verlauf und das Ergebnis der Herstellung des Prüfungsproduktes sind mit praxisüblichen Unterlagen zu dokumentieren. Nach der Herstellung des Prüfungsproduktes wird mit dem Prüfling auf der Grundlage der praxisüblichen Unterlagen ein auftragsbezogenes Fachgespräch über das Prüfungsprodukt geführt.
 
-Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten:
+(3) Die Prüfungszeit beträgt insgesamt 7 Stunden und 20 Minuten. Die Zeit für die Herstellung des Prüfungsproduktes sowie für die Dokumentation mit praxisüblichen Unterlagen beträgt sieben Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 20 Minuten.
 
-Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
+# § 10 – Prüfungsbereich „Bauteilqualität und Arbeitsorganisation“
 
-(4) Für den Teil B der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:  
+(1) Im Prüfungsbereich „Bauteilqualität und Arbeitsorganisation“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-|     |                                                 |              |
-|:----|:------------------------------------------------|-------------:|
-| 1\. | im Prüfungsbereich Fertigungstechnik            | 150 Minuten, |
-| 2\. | im Prüfungsbereich Mess- und Prüftechnik        | 150 Minuten, |
-| 3\. | im Prüfungsbereich Wirtschafts- und Sozialkunde |  60 Minuten. |
+1. Arbeitsaufträge zu prüfen und Arbeitsschritte zu planen,
 
-(5) Innerhalb des Teils B sind die Prüfungsbereiche wie folgt zu gewichten:  
+2. Werkstoffe und darauf bezogene Betriebsstoffe auftragsbezogen auszuwählen,
 
-|     |                                              |             |
-|:----|:---------------------------------------------|------------:|
-| 1\. | Prüfungsbereich Fertigungstechnik            | 40 Prozent, |
-| 2\. | Prüfungsbereich Mess- und Prüftechnik        | 40 Prozent, |
-| 3\. | Prüfungsbereich Wirtschafts- und Sozialkunde | 20 Prozent. |
+3. die Bereitstellung von Werkstoffen sowie von Betriebsstoffen darzustellen,
 
-(6) Der Prüfungsteil B ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+4. Anforderungen an Rohteile, Halbzeuge und Werkstücke zu erläutern,
 
-(7) Die Prüfung ist bestanden, wenn jeweils in den Teilen A und B der Prüfung mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in der Aufgabe einschließlich Dokumentation, im Fachgespräch oder in einem der drei Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
+5. Qualitätsmerkmale von Rohteilen, Halbzeugen und Werkstücken zu erläutern,
 
-# § 9 – Nichtanwendung von Vorschriften
+6. Mess- und Prüfmittel zur Beurteilung von planoptischen Bauteilen auszuwählen und ihren Einsatz unter Berücksichtigung von Aufbau und Funktion darzustellen,
 
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für den Ausbildungsberuf "Feinoptiker/Feinoptikerin" im Handwerk, Fachliche Vorschriften zur Regelung des Lehrlingswesens (Anerkennung) sowie für den Ausbildungsberuf "Feinoptiker/Feinoptikerin" in der Industrie sind vorbehaltlich des § 10 nicht mehr anzuwenden.
+7. die Umsetzung von Maßnahmen zur Qualitätssicherung, Wirtschaftlichkeit und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit darzustellen und
 
-# § 10 – Übergangsregelung
+8. wesentliche fachliche Zusammenhänge aufzuzeigen und seine Vorgehensweise zu begründen.
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
-# § 11 – Inkrafttreten
+(3) Die Prüfungszeit beträgt 90 Minuten.
 
-Diese Verordnung tritt am 1. August 2002 in Kraft.
+# § 11 – Inhalt des Teiles 2
 
-# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Feinoptiker/zur Feinoptikerin
+(1) Teil 2 der Gesellen- oder Abschlussprüfung erstreckt sich auf
 
-(Fundstelle: BGBl. I 2002, 2751 - 2756)
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-  
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-Lfd. Nr.
+(2) In Teil 2 der Gesellen- oder Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Gesellen- oder Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-Teil des Ausbildungsberufsbildes
+# § 12 – Prüfungsbereiche des Teiles 2
 
-Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
+Teil 2 der Gesellen- oder Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-Zeitliche Richtwerte in Wochen im Ausbildungsjahr
+1. „Herstellen von optischen Baugruppen und Systemen“,
 
-1
+2. „Fertigungstechnik“ und
 
-2
+3. „Wirtschafts- und Sozialkunde“.
 
-3/4
+# § 13 – Prüfungsbereich „Herstellen von optischen Baugruppen und Systemen“
 
-1
+(1) Im Prüfungsbereich „Herstellen von optischen Baugruppen und Systemen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-2
+1. Arbeitsaufträge zu prüfen, Arbeitsprozesse zu planen und Arbeitsplätze einzurichten,
 
-3
+2. persönliche Schutzausrüstung auszuwählen und einzusetzen,
 
-4
+3. Werkzeuge, Maschinen und Anlagen sowie Mess- und Prüfmittel unter Berücksichtigung von Werkstoffen und Bearbeitungsverfahren auftragsbezogen auszuwählen und vorzubereiten,
 
-1
+4. rundoptische Bauteile aus Halbzeugen durch Schleifen, Läppen und Polieren herzustellen,
 
-Berufsbildung, Arbeits- und Tarifrecht  
-(§ 3 Nr. 1)
+5. optische Baugruppen durch Fügen von Bauteilen herzustellen,
 
-a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
+6. aus Bauteilen und Baugruppen durch Fügen, Justieren und Montieren optische Systeme herzustellen,
 
-b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
+7. optische Baugruppen sowie optische Systeme zu reinigen,
 
-c) Möglichkeiten der beruflichen Fortbildung nennen
+8. optische Baugruppen sowie optische Systeme durch Messen auf Eigenschaften und Abweichungen auftragsbezogen zu prüfen,
 
-d) wesentliche Teile des Arbeitsvertrages nennen
+9. bei Abweichungen Korrekturmaßnahmen zu ergreifen,
 
-e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
+10. Mess- und Prüfprotokolle anzufertigen und Arbeitsergebnisse zu dokumentieren,
 
-während der gesamten Ausbildung zu vermitteln
+11. Maßnahmen zur Qualitätssicherung, Wirtschaftlichkeit und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit umzusetzen und
 
-2
+12. wesentliche fachliche Zusammenhänge aufzuzeigen und seine Vorgehensweise zu begründen.
 
-Aufbau und Organisation des Ausbildungsbetriebes  
-(§ 3 Nr. 2)
+(2) Der Prüfling hat eine Arbeitsaufgabe durchzuführen und mit praxisüblichen Unterlagen zu dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-a) Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+(3) Die Prüfungszeit für die Durchführung der Arbeitsaufgabe beträgt 14 Stunden. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
-b) Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
+# § 14 – Prüfungsbereich „Fertigungstechnik“
 
-c) Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
+(1) Im Prüfungsbereich „Fertigungstechnik“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-d) Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
+1. technische Zeichnungen und Unterlagen zu erstellen und zu lesen,
 
-3
+2. Materiallisten und Stücklisten zu erstellen,
 
-Sicherheit und Gesundheitsschutz bei der Arbeit  
-(§ 3 Nr. 3)
+3. Werkzeuge, Maschinen und Anlagen unter Berücksichtigung deren Aufbaus und Funktion sowie Fertigungsverfahren auszuwählen und die Antwort zu begründen,
 
-a) Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
+4. das Durchführen von Reinigungsverfahren zu beschreiben,
 
-b) berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
+5. Mess- und Prüfmittel zur Beurteilung von optischen Baugruppen sowie optischen Systemen aufgabenbezogen auszuwählen und den Einsatz von Mess- und Prüfmitteln unter Berücksichtigung von Aufbau und Funktion darzustellen,
 
-c) Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
+6. Verfahren zur Beschichtung von Oberflächen darzustellen,
 
-d) Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+7. die Überwachung, Steuerung und Optimierung von Fertigungsprozessen auf der Grundlage von prozess- und produktbezogenen Daten zu beschreiben,
 
-4
+8. Verfahren zur Bearbeitung von Metallen und Kunststoffen zu beschreiben,
 
-Umweltschutz  
-(§ 3 Nr. 4)
+9. die Umsetzung von Maßnahmen zur Qualitätssicherung, Wirtschaftlichkeit und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit darzustellen sowie
 
-Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
+10. wesentliche fachliche Zusammenhänge aufzuzeigen und seine Vorgehensweise zu begründen.
 
-a) mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
-b) für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
+(3) Die Prüfungszeit beträgt 180 Minuten.
 
-c) Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
+# § 15 – Prüfungsbereich „Wirtschafts- und Sozialkunde“
 
-d) Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
+(1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-5
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
-Planen und Steuern von Arbeitsabläufen; Kontrollieren und Beurteilen von Ergebnissen  
-(§ 3 Nr. 5)
+(3) Die Prüfungszeit beträgt 60 Minuten.
 
-a) Arbeitsplatz unter Berücksichtigung der betrieblichen Vorgaben mitgestalten, insbesondere Verbesserungen der Arbeitsumgebung unter Berücksichtigung gesundheitlicher Aspekte anregen
+# § 16 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellen- oder Abschlussprüfung
 
-b) Arbeitsabläufe unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und abstimmen
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-c) Material, Werkzeuge, Prüf- und Messmittel bereitstellen und betriebsbereit machen
+1. |                                          |                 |
+|:-----------------------------------------|----------------:|
+| „Herstellen von planoptischen Bauteilen“ | mit 20 Prozent, |
 
-d) Arbeitsplatz unter Berücksichtigung des Arbeitsauftrages vorbereiten
+2. |                                           |                 |
+|:------------------------------------------|----------------:|
+| „Bauteilqualität und Arbeitsorganisation“ | mit 10 Prozent, |
 
-3\*)
+3. |                                                    |                 |
+|:---------------------------------------------------|----------------:|
+| „Herstellen von optischen Baugruppen und Systemen“ | mit 40 Prozent, |
 
- 
-
- 
-
- 
-
- 
-
- 
-
-e) Bearbeitungsmaschinen und technische Einrichtungen betriebsbereit machen und überprüfen sowie Maßnahmen zur Fehlerbeseitigung ergreifen
-
-f) Arbeitsschritte unter Berücksichtigung funktionaler, konstruktiver, fertigungstechnischer und wirtschaftlicher Gesichtspunkte festlegen
-
-g) Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand von Vorgaben bewerten sowie dokumentieren
-
- 
-
- 
-
- 
-
-3\*)
-
-6
-
-Betriebliche und technische Kommunikation  
-(§ 3 Nr. 6)
-
-a) technische Zeichnungen sowie Skizzen und Stücklisten anfertigen und anwenden
-
-b) Normen, insbesondere Toleranznormen, anwenden
-
-c) Mess- und Prüfdaten lesen und dokumentieren
-
-4\*)
-
- 
-
- 
-
- 
-
-d) Informationen beschaffen und auswerten, Informations- und Kommunikationstechniken nutzen; Daten sichern und schützen
-
-e) deutsche und fremdsprachliche Fachausdrücke anwenden
-
-f) technische Unterlagen, insbesondere Reparatur- und Betriebsanleitungen, Kataloge, Tabellen und Diagramme, anwenden
-
- 
-
-2\*)
-
- 
-
- 
-
-g) Versuche und Arbeitsabläufe protokollieren sowie Arbeitspläne erstellen und anwenden
-
- 
-
- 
-
-2\*)
-
- 
-
-h) mit anderen Funktionsbereichen des Betriebes zusammenarbeiten, betriebliche Kommunikation nutzen und bei Entscheidungsprozessen mitwirken
-
-i) Aufgaben im Team planen und umsetzen, Ergebnisse abstimmen und auswerten
-
-k) branchenübliche Standardsoftware anwenden
-
- 
-
- 
-
- 
-
-4\*)
-
-7
-
-Qualitätsmanagement  
-(§ 3 Nr. 7)
-
-a) Normen und Richtlinien zur Sicherung der Produktqualität beachten
-
-2\*)
-
- 
-
- 
-
- 
-
-b) tätigkeitsbezogene Elemente des Qualitätsmanagementsystems des Betriebes anwenden
-
- 
-
- 
-
-2\*)
-
- 
-
-c) Prüfergebnisse auswerten und qualitätssichernde statistische Verfahren anwenden
-
-d) Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
-
-e) Methoden und Instrumente des Qualitätsmanagements zur kontinuierlichen Verbesserung im eigenen Arbeitsbereich anwenden
-
- 
-
- 
-
- 
-
-4\*)
-
-8
-
-Bereitstellen von Werkzeugen sowie von Werk-, Betriebs- und Hilfsstoffen  
-(§ 3 Nr. 8)
-
-a) Werkstoffe und Halbzeuge nach Form, Art und Beschaffenheit sowie nach Bearbeitbarkeit unterscheiden
-
-b) Werkstoffe zum Schleifen, Läppen und Polieren bereitstellen
-
-c) Werk- und Hilfsstoffe nach ihren Eigenschaften unterscheiden und auf ihre Verwendbarkeit prüfen; Fehlmengen, Mängel, Falschlieferungen und Schäden feststellen und melden
-
-d) Transport und Lagerung von Betriebs- und Hilfsstoffen sowie von Produkten sicherstellen
-
-4
-
- 
-
- 
-
- 
-
-e) Waren annehmen und anhand von Begleitpapieren auf Richtigkeit, Art, Menge, Beschaffenheit und Absender prüfen sowie Wareneingangsdaten erfassen
-
- 
-
-2
-
- 
-
- 
-
-9
-
-Warten und Pflegen von Betriebsmitteln  
-(§ 3 Nr. 9)
-
-a) Werkzeuge, Messgeräte und Prüfzeuge überprüfen und pflegen
-
-b) Betriebsstoffe, insbesondere Kühl- und Schmierstoffe, kennzeichnen, auffüllen, wechseln und der Entsorgung zuführen; rechtliche Bestimmungen und betriebliche Vorschriften beachten
-
-3\*)
-
- 
-
- 
-
- 
-
-c) Betriebsbereitschaft der Produktionsanlagen sicherstellen, Verschleißteile austauschen und den Austausch veranlassen
-
-d) Maschinen und technische Einrichtungen nach Wartungs- und Inspektionsplänen, insbesondere unter Berücksichtigung von Prüfwerten, von Betriebs- und Hilfsstoffen sowie der Wartungshäufigkeit, warten
-
- 
-
- 
-
- 
-
-3\*)
-
-10
-
-Messen und Prüfen, Endkontrolle  
-(§ 3 Nr. 10)
-
-a) Mess- und Prüfmittel sowie Prüfverfahren auswählen und anwenden
-
-b) mit optischen, mechanischen und elektronischen Prüfmitteln, insbesondere Formabweichungen, Längen, Winkel und Zentrierungen, prüfen
-
-6\*)
-
- 
-
- 
-
- 
-
-c) optische Bauelemente auf Eigenschaften und Abweichungen, insbesondere auf Oberflächenfehler und Werkstofffehler, prüfen
-
- 
-
-4\*)
-
- 
-
- 
-
-d) Funktion von Baugruppen prüfen, Messprotokolle erstellen und auswerten
-
- 
-
- 
-
-2\*)
-
- 
-
-e) Korrekturen durchführen und veranlassen
-
-f) Endkontrolle durchführen und Messprotokolle auswerten und dokumentieren
-
-g) Produkte zusammenstellen und verpacken
-
- 
-
- 
-
- 
-
-5\*)
-
-11
-
-Grundlagen der Metallbearbeitung  
-(§ 3 Nr. 11)
-
-a) Flächen und Formen an Werkstücken aus unterschiedlichen Werkstoffen eben, winklig und parallel auf Maß feilen
-
-4
-
- 
-
- 
-
- 
-
-b) Außen- und Innengewinde unter Beachtung der Werkstoffeigenschaften schneiden
-
-c) Werkstücke nach Anriss mit Handsäge trennen
-
-d) Werkstücke und Bauteile aus unterschiedlichen Werkstoffen mit ortsfesten Bohrmaschinen bohren und senken
-
-e) Bleche und Profile umformen
-
-f) Werkstücke durch Drehen sowie Stirn-, Umfangs- und Planfräsen bearbeiten
+4. |                     |                 |
+|:--------------------|----------------:|
+| „Fertigungstechnik“ | mit 20 Prozent  |
 
-g) Werkstücke unter Beachtung der Verarbeitungsrichtlinien kleben und verstiften, Schraubverbindungen herstellen
+sowie
 
- 
-
-4
-
- 
-
- 
-
-12
-
-Fügen  
-(§ 3 Nr. 12)
-
-a) Kittverfahren in Abhängigkeit von Toleranzen und Stückzahlen auswählen und anwenden, insbesondere provisorische, reguläre, Block- und Punktkittung
-
-b) Kittarten nach Eigenschaften unterscheiden
-
-c) Werkzeuge und Vorrichtungen zum Fixieren, Zentrieren und Justieren anwenden
-
-d) Verbindungen verfahrensabhängig lösen
-
-4
-
- 
-
- 
-
- 
-
-e) optische Bauelemente schutzlackieren
-
- 
-
-2
-
- 
-
- 
-
-f) Bauteile und Vorrichtungen vorbereiten und verkleben
-
-g) Klebeverbindungen lösen
-
- 
-
- 
-
-4
-
- 
-
-h) Arbeitsplatz, Bauteile und Vorrichtungen vorbereiten und Bauteile feinkitten
-
-i) Bauteile und Ansprengkörper vorbereiten und durch Adhäsion verbinden, Verbindungen lösen
-
- 
-
- 
-
- 
-
-5
-
-13
-
-Reinigen von optischen Bauelementen und Baugruppen  
-(§ 3 Nr. 13)
-
-a) Reinigungsmethoden Werkstoffen zuordnen
-
-b) optische Bauelemente und Baugruppen von Hand reinigen
-
-c) optische Bauelemente und Baugruppen zur maschinellen Reinigung vorbereiten
-
-3\*)
-
- 
-
- 
-
- 
-
- 
-
-d) Reinigungsbäder nach betrieblichen Vorschriften ansetzen und prüfen, Reinigungsmittel einer umweltgerechten Entsorgung zuführen
-
-e) Hilfsmittel vor Bestückung der Reinigungsanlage auswählen, Reinigungsanlage bestücken und bedienen
-
- 
-
- 
-
- 
-
-3\*)
-
-14
-
-Herstellen von plan- und rundoptischen Bauelementen  
-(§ 3 Nr. 14)
-
-manuelles Bearbeiten
-
-a) Glasplatten durch Anritzen und Brechen mit Werkzeugen und Vorrichtungen unter Beachtung der Unfallverhütungsvorschriften trennen
-
-b) Rohglas, insbesondere Glasblöcke, Stangen und Platten, unter Berücksichtigung der Werkstoff- und Werkzeugeigenschaften trennschleifen
-
-c) Läppmittel und Läppwerkzeuge auswählen, Aufmaße sowie Bewegungsabläufe zum Erreichen der geforderten Lage- und Formtoleranzen anwenden
-
-d) Polierwerkzeuge unter Berücksichtigung der geometrischen Anforderungen auswählen, Poliermittelträger herstellen und abrichten Poliermittelträger und Poliermittel den Werkstoffen zuordnen und anwenden; Bewegungsabläufe zum Erreichen der geforderten Formtoleranzen ausführen
-
-17
-
- 
-
- 
-
- 
-
-maschinelles Bearbeiten
-
-e) Rohglas und Halbzeuge, insbesondere durch Kitten und Spannen, zum Trennschleifen vorbereiten, befestigen sowie Bearbeitungsdaten unter Berücksichtigung von Auf- und Endmaßen, Werkzeug- und Werkstückeigenschaften einstellen
-
-f) Maschinenwerte zum Schleifen ermitteln und einstellen sowie Befestigungsverfahren festlegen
-
-g) Läppmittel und Werkzeuge auswählen, Bearbeitungszeiten festlegen sowie Maschinenwerte dem jeweiligen Verwendungszweck zuordnen und einstellen
-
-h) Polierwerkzeuge unter Berücksichtigung der geometrischen und fertigungstechnischen Anforderungen auswählen, Poliermittelträger und Poliermittel dem Fertigungsprozess zuordnen und anwenden; Poliermittelträger herstellen und abrichten sowie Bewegungsabläufe an den Poliermaschinen einstellen und optimieren
-
- 
-
-6
+5. |                                |                 |
+|:-------------------------------|----------------:|
+| „Wirtschafts- und Sozialkunde“ | mit 10 Prozent. |
 
- 
-
- 
-
-i) Programme für numerisch gesteuerte Fertigungsmaschinen erstellen, aufrufen und anwenden sowie Korrekturwerte eingeben, Bauelemente herstellen
-
- 
-
- 
-
-16
-
- 
-
-k) Zentrierglocken herrichten, Spann- und Ausrichtverfahren auswählen und optische Bauelemente ausrichten sowie Linsen zentrierschleifen
-
- 
-
- 
-
- 
-
-3
-
-15
-
-Oberflächenveredelung  
-(§ 3 Nr. 15)
-
-a) Beschichtungsmaterialien unterscheiden und den Verfahren zuordnen
-
-b) Bauelemente zum Beschichten vorbereiten
-
-c) Beschichtungsanlagen prozessbezogen vorbereiten, bestücken und bedienen
-
-d) Oberflächen nach der Beschichtung auf Festigkeit, Reflexion und Transmission prüfen
-
- 
-
- 
-
-6
-
- 
-
-16
-
-Montieren und Justieren von optischen und feinmechanischen Bauteilen zu Baugruppen  
-(§ 3 Nr. 16)
-
-a) Bauteile montagegerecht lagern, nach technischen Unterlagen zur Montage vorbereiten und für den funktionsgerechten Einbau prüfen
-
-b) Betriebsmittel, Werkzeuge und Vorrichtungen auswählen und bereitstellen
-
-c) Bauteile nach technischen Unterlagen, insbesondere durch Kleben, Verschrauben und Klemmen, zu Baugruppen montieren
-
-d) Bauteile unter Beachtung der Maß- und Lagetoleranzen während des Montagevorganges justieren und sichern
-
-e) voneinander abhängige Einzelfunktionen während des Montagevorganges prüfen
-
-f) Baugruppen in eingebautem Zustand auf Funktion prüfen und Ergebnisse dokumentieren
-
- 
-
- 
-
- 
-
-6
-
-17
-
-Bedienen der Produktionsanlagen, Überwachen des Produktionsablaufes  
-(§ 3 Nr. 17)
-
-a) Betriebsbereitschaft von Produktionseinrichtungen sicherstellen und diese in Betrieb nehmen
-
-b) Betriebsdaten an Produktionsanlagen in Abhängigkeit von Werkzeug, Werkstück sowie Verfahrenstechnik bestimmen und einhalten
-
-2
-
- 
-
- 
-
- 
-
-c) Produktionsprozesse und Funktionsmerkmale unter Berücksichtigung der Qualitätsanforderungen überwachen, ändern und dokumentieren
-
-d) Programmabläufe von Anlagen überwachen
-
- 
-
-6
-
- 
-
- 
-
-e) mechanische und elektrische Sicherheitsvorrichtungen und Meldesysteme auf ihre Wirksamkeit prüfen
+(2) Die Gesellen- oder Abschlussprüfung ist bestanden – wenn die Prüfungsleistungen, auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 17 – wie folgt bewertet worden sind:
 
-f) Produktionsprozesse und Funktionsmerkmale nach Vorgabe überwachen und ändern
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-g) Störungen an Produktionsanlagen feststellen, eingrenzen und beheben sowie deren Behebung veranlassen
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
- 
-
- 
-
- 
-
-8
-
-18
-
-Aufbauen und Prüfen von pneumatischen Steuerungen  
-(§ 3 Nr. 18)
-
-a) Schalt- und Funktionspläne pneumatischer Systeme skizzieren
-
-b) pneumatische Schaltungen nach Schaltplänen aufbauen und prüfen
-
-c) Druck in pneumatischen Systemen messen, einstellen und kontrollieren
+3. in mindestens zwei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
- 
-
- 
-
- 
-
-3
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-19
+Über das Bestehen ist ein Beschluss nach § 35a Absatz 1 Nummer 3 der Handwerksordnung oder nach § 42 Absatz 1 Nummer 3 des Berufsbildungsgesetzes zu fassen.
 
-Herstellen von Einzel- und Serienteilen  
-(§ 3 Nr. 19)
+# § 17 – Mündliche Ergänzungsprüfung
 
-a) Werk- und Hilfsstoffe unter Beachtung unterschiedlicher Präzisionsanforderungen auswählen und einsetzen
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
-b) Prozessparameter ermitteln, einstellen und optimieren
+(2) Dem Antrag ist stattzugeben,
 
-c) Einzel- und Serienteile durch konventionelle und numerische Bearbeitungsverfahren herstellen
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
 
- 
+a) „Fertigungstechnik“ oder
 
- 
+b) „Wirtschafts- und Sozialkunde“,
 
- 
+2. wenn der Prüfungsbereich nach Nummer 1 Buchstabe a oder Buchstabe b schlechter als mit „ausreichend“ bewertet worden ist und
 
-21
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellen- oder Abschlussprüfung den Ausschlag geben kann.
 
-20
+Die mündliche Ergänzungsprüfung darf nur in dem Prüfungsbereich nach Satz 1 Nummer 1 Buchstabe a oder Buchstabe b durchgeführt werden.
 
-Kundenorientiertes Handeln  
-(§ 3 Nr. 20)
+(3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
-a) Kundengespräche situationsgerecht führen
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-b) technische Bestellannahmen, Muster, Rücksendungen und Aufträge für Sonderanfertigungen bearbeiten
+# § 18 – Inkrafttreten, Außerkrafttreten
 
-c) Wartungs- und Pflegehinweise erläutern
+Diese Verordnung tritt am 1. August 2024 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Feinoptiker/zur Feinoptikerin vom 22. Juli 2002 (BGBl. I S. 2748) außer Kraft.
 
-d) Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis darstellen
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Feinoptiker und zur Feinoptikerin
 
- 
+(Fundstelle: BGBl. 2024 I Nr. 95, S. 8 - 16)
 
  
 
  
-
-4\*)
-
-\*)  
-Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.

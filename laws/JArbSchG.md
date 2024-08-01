@@ -1087,11 +1087,9 @@ beschäftigt werden. Auf die Beschäftigung finden die §§ 8 bis 46 entsprechen
 
 2. Berufsschulwochen nach Absatz 1 Satz 2 Nummer 3 mit der durchschnittlichen wöchentlichen Arbeitszeit,
 
-3. im Übrigen die Unterrichtszeit einschließlich der Pausen.
+3. im Übrigen die Unterrichtszeit einschließlich der Pausen und der notwendigen Wegezeiten zwischen Berufsschule und Ausbildungsstätte.
 
 (3) Ein Entgeltausfall darf durch den Besuch der Berufsschule nicht eintreten.
-
-(4) (weggefallen)
 
 # § 10 – Prüfungen und außerbetriebliche Ausbildungsmaßnahmen
 
@@ -1105,7 +1103,7 @@ freizustellen.
 
 (2) Auf die Arbeitszeit des Jugendlichen werden angerechnet
 
-1. die Freistellung nach Absatz 1 Nr. 1 mit der Zeit der Teilnahme einschließlich der Pausen,
+1. die Freistellung nach Absatz 1 Nr. 1 mit der Zeit der Teilnahme einschließlich der Pausen und der notwendigen Wegezeiten zwischen Teilnahmeort und Ausbildungsstätte,
 
 2. die Freistellung nach Absatz 1 Nr. 2 mit der durchschnittlichen täglichen Arbeitszeit.
 
