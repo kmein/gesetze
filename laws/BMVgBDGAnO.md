@@ -7,7 +7,7 @@ Nach § 33 Absatz 5, § 34 Absatz 2 Satz 2, § 42 Absatz 1 Satz 2 und § 84 Satz
 
 # § 1
 
-Die Befugnis zur Kürzung der Dienstbezüge bis zum Höchstmaß nach § 33 Absatz 3 Nummer 1 des Bundesdisziplinargesetzes wird für den jeweiligen Kommando- oder Geschäftsbereich übertragen:
+Die Befugnis zur Kürzung der Dienstbezüge bis zum Höchstmaß nach § 33 Absatz 3 Nummer 1 des Bundesdisziplinargesetzes in der bis zum 31. März 2024 geltenden Fassung und nach § 34 Absatz 2 Nummer 1 des Bundesdisziplinargesetzes in der ab dem 1. April 2024 geltenden Fassung wird für den jeweiligen Kommando- oder Geschäftsbereich übertragen:
 
 1. den Inspekteurinnen oder Inspekteuren
 
@@ -69,7 +69,9 @@ h) der Universitäten der Bundeswehr,
 
 # § 2
 
-Die Befugnis zur Erhebung der Disziplinarklage nach § 34 Absatz 2 Satz 1 des Bundesdisziplinargesetzes wird den in § 1 genannten Dienstvorgesetzten übertragen.
+(1) Die Befugnis zur Erhebung der Disziplinarklage nach § 34 Absatz 2 Satz 1 des Bundesdisziplinargesetzes in der bis zum 31. März 2024 geltenden Fassung wird den in § 1 genannten Dienstvorgesetzten für bis zu diesem Zeitpunkt eingeleitete Disziplinarverfahren übertragen.
+
+(2) Die Befugnis zum Aussprechen der Zurückstufung und der Entfernung aus dem Beamtenverhältnis nach § 34 Absatz 4 Halbsatz 1 des Bundesdisziplinargesetzes wird für ab dem 1. April 2024 eingeleitete Disziplinarverfahren den in § 1 genannten Dienstvorgesetzten übertragen.
 
 # § 3
 
@@ -77,7 +79,7 @@ Die Zuständigkeit zum Erlass des Widerspruchsbescheids nach § 42 Absatz 1 des 
 
 # § 4
 
-Die Disziplinarbefugnisse gegenüber Ruhestandsbeamtinnen und Ruhestandsbeamten nach § 84 Satz 1 des Bundesdisziplinargesetzes werden der Präsidentin oder dem Präsidenten des Bundesamtes für das Personalmanagement der Bundeswehr übertragen.
+Die Disziplinarbefugnisse gegenüber Ruhestandsbeamtinnen und Ruhestandsbeamten nach § 84 Satz 1 des Bundesdisziplinargesetzes werden der Präsidentin oder dem Präsidenten des Bundesamtes für das Personalmanagement der Bundeswehr übertragen. Für vor dem Ruhestand eingeleitete Disziplinarverfahren werden diese Disziplinarbefugnisse der bzw. dem in § 1 genannten Dienstvorgesetzten übertragen, die bzw. der vor Eintritt der Beamtin oder des Beamten in den Ruhestand disziplinarrechtlich zuständig gewesen ist.
 
 # § 5
 

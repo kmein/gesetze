@@ -1978,6 +1978,7 @@ Nifedipin
 Nifenalol  
 Nifluminsäure  
 Nifuratel  
+Nifuroxazid  
 Nifurpirinol  
 Nifurprazin  
 Nilotinib  

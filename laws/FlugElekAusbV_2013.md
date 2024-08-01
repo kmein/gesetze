@@ -57,13 +57,13 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 (4) Integrative Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1. Berufsbildung, Arbeits- und Tarifrecht,
+1. Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2. Aufbau und Organisation des Ausbildungsbetriebes,
+2. Sicherheit und Gesundheit bei der Arbeit,
 
-3. Sicherheit und Gesundheitsschutz bei der Arbeit,
+3. Umweltschutz und Nachhaltigkeit,
 
-4. Umweltschutz.
+4. digitalisierte Arbeitswelt.
 
 (5) Die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 3 sind in mindestens einem Einsatzgebiet anzuwenden und zu vertiefen. Als Einsatzgebiete kommen insbesondere in Betracht:
 
@@ -244,7 +244,8 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 # Anlage 1 – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin – Sachliche Gliederung –
 
-(Fundstelle: BGBl I 2013, 2204 - 2209)
+(Fundstelle: BGBl I 2013, 2204 - 2209  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
@@ -307,21 +308,23 @@ a) Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unte
 
 b) Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
 
-c) elektrische und mechanische Verbindungen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
+c) elektrische und mechanische Verbindungen unter Berücksichtigung mathematischer und physikalischer Grundlagen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
 
-d) Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unterscheiden
+d) Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unter Berücksichtigung mathematischer und physikalischer Grundlagen unterscheiden
 
-e) Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
+e) Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter Berücksichtigung mathematischer und physikalischer Grundlagen formen
 
-f) Montage- und Demontagetechniken anwenden und Bauteile anpassen
+f) gängige Fertigungsverfahren und ihren Einfluss auf die mechanischen und physikalischen Eigenschaften des fertigen Teils unter Berücksichtigung mathematischer und physikalischer Grundlagen unterscheiden sowie häufige Produktionsfehler prüfen
 
-g) Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
+g) Montage- und Demontagetechniken anwenden und Bauteile anpassen
 
-h) Funktion von Potenzialausgleichsleitern prüfen und beurteilen
+h) Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
 
-i) Übergangswiderstände messen und beurteilen; Isolationswiderstände beachten
+i) Funktion von Potenzialausgleichsleitern unter Berücksichtigung mathematischer und physikalischer Grundlagen prüfen und beurteilen
 
-j) Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
+j) Übergangswiderstände unter Berücksichtigung mathematischer und physikalischer Grundlagen messen und beurteilen; Isolationswiderstände beachten
+
+k) Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten.
 
 4
 
@@ -344,7 +347,7 @@ a) Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Inst
 
 b) Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
 
-c) Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+c) Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen unter Berücksichtigung mathematischer und physikalischer Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen.
 
 6
 
@@ -362,28 +365,30 @@ Durchführen von qualitätssichernden Maßnahmen
 
 a) Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
 
-b) Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
+b) Fehler unter Beachtung des Fehlermeldewesens melden und die Schutzwürdigkeit sicherheitsrelevanter Meldungen anerkennen
 
-c) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
+c) Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen sowie durch Auswertung eigener und fremder Fehler feststellen, Maßnahmen zur Behebung ergreifen und dokumentieren
 
-d) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
+d) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen und fördern
 
-e) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen auch in englischer Sprache beachten und anwenden
+e) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
-f) Fremdkörperkontrollen durchführen
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+g) Fremdkörperkontrollen durchführen
 
 8
 
 Berücksichtigen von menschlichen Faktoren  
 (§ 3 Absatz 3 Nummer 8)
 
-a) Verantwortung des Einzelnen und eines Teams bei der Arbeit berücksichtigen
+a) Verantwortung und Verhalten des Einzelnen und eines Teams sowie die Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von Risiken berücksichtigen
 
 b) kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im Team beachten
 
-c) psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen berücksichtigen
+c) psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch bei der Arbeit am Fluggerät, auf den Menschen und deren Bedeutung für die Vergrößerung von Risiken berücksichtigen
 
-d) physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
+d) physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen.
 
 9
 
@@ -586,13 +591,13 @@ h) Abnahmeprotokolle ausfüllen, Fachauskünfte auch in englischer Sprache ertei
 
 i) Geräte- und Systemdokumentation, auch in Englisch, zusammenstellen
 
-Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
+Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 1
 
@@ -602,83 +607,208 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 1
 
-Berufsbildung, Arbeits- und Tarifrecht  
+Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht  
 (§ 3 Absatz 4 Nummer 1)
 
-a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
+a) den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des Ausbildungsbetriebes erläutern
 
-b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
+b) Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im System der dualen Berufsausbildung Beteiligten beschreiben
 
-c) Möglichkeiten der beruflichen Fortbildung nennen
+c) die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung beitragen
 
-d) wesentliche Teile des Arbeitsvertrages nennen
+d) die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und mitbestimmungsrechtlichen Vorschriften erläutern
 
-e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
+e) Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes erläutern
+
+f) Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen und Gewerkschaften erläutern
+
+g) Positionen der eigenen Entgeltabrechnung erläutern
+
+h) wesentliche Inhalte von Arbeitsverträgen erläutern
+
+i) Möglichkeiten des beruflichen Aufstiegs und der beruflichen Weiterentwicklung erläutern
 
 2
 
-Aufbau und Organisation des Ausbildungsbetriebes  
+Sicherheit und Gesundheit bei der Arbeit  
 (§ 3 Absatz 4 Nummer 2)
 
-a) Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+a) Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
 
-b) Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
+b) Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem Arbeitsweg prüfen und beurteilen
 
-c) Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
+c) sicheres und gesundheitsgerechtes Arbeiten erläutern
 
- 
+d) technische und organisatorische Maßnahmen zur Vermeidung von Gefährdungen sowie von psychischen und physischen Belastungen für sich und andere, auch präventiv, ergreifen
 
- 
+e) ergonomische Arbeitsweisen beachten und anwenden
 
-d) Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
+f) Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei Unfällen einleiten
+
+g) betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur Brandbekämpfung ergreifen
 
 3
 
-Sicherheit und Gesundheitsschutz bei der Arbeit  
+Umweltschutz und Nachhaltigkeit  
 (§ 3 Absatz 4 Nummer 3)
 
-a) Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
+a) Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren Weiterentwicklung beitragen
 
-b) berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
+b) bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder Dienstleistungen, Materialien und Energie unter wirtschaftlichen, umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit nutzen
 
-c) Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
+c) für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes einhalten
 
-d) Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachten
+d) Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Wiederverwertung oder Entsorgung zuführen
 
-e) Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+e) Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich entwickeln
+
+f) unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen, ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und adressatengerecht kommunizieren
 
 4
 
-Umweltschutz  
+Digitalisierte Arbeitswelt  
 (§ 3 Absatz 4 Nummer 4)
 
-Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
+a) mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter umgehen und dabei die Vorschriften zum Datenschutz und zur Datensicherheit einhalten
 
-a) mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
+b) Risiken bei der Nutzung von digitalen Medien und informationstechnischen Systemen einschätzen und bei deren Nutzung betriebliche Regelungen einhalten
 
-b) für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
+c) ressourcenschonend, adressatengerecht und effizient kommunizieren sowie Kommunikationsergebnisse dokumentieren
 
-c) Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
+d) Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung beitragen
 
-d) Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
+e) Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten und auswählen
 
-# Anlage 2 – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin – Zeitliche Gliederung –
+f) Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des lebensbegleitenden Lernens erkennen und ableiten
 
-(Fundstelle: BGBl I 2013, 2210 – 2220)
+g) Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler Medien, planen, bearbeiten und gestalten
+
+h) Wertschätzung anderer unter Berücksichtigung gesellschaftlicher Vielfalt praktizieren.
+
+# Anlage 2 – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin - Zeitliche Gliederung –
+
+(Fundstelle: BGBl. 2024 I Nr. 186, S. 42 – 53)
 
 Abschnitt 1
-
-Abschnitt 2
-
-1\. bis 3. Ausbildungshalbjahr
-
-Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitliche  
+Zuordnung
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht  
+(§ 3 Absatz 4 Nummer 1)
+
+a) den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des Ausbildungsbetriebes erläutern
+
+b) Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im System der dualen Berufsausbildung Beteiligten beschreiben
+
+c) die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung beitragen
+
+d) die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und mitbestimmungsrechtlichen Vorschriften erläutern
+
+e) Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes erläutern
+
+f) Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen und Gewerkschaften erläutern
+
+g) Positionen der eigenen Entgeltabrechnung erläutern
+
+h) wesentliche Inhalte von Arbeitsverträgen erläutern
+
+i) Möglichkeiten des beruflichen Aufstiegs und der beruflichen Weiterentwicklung erläutern
+
+  
+
+2
+
+Sicherheit und Gesundheit bei der Arbeit  
+(§ 3 Absatz 4 Nummer 2)
+
+a) Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
+
+b) Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem Arbeitsweg prüfen und beurteilen
+
+c) sicheres und gesundheitsgerechtes Arbeiten erläutern
+
+d) technische und organisatorische Maßnahmen zur Vermeidung von Gefährdungen sowie von psychischen und physischen Belastungen für sich und andere, auch präventiv, ergreifen
+
+e) ergonomische Arbeitsweisen beachten und anwenden
+
+f) Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei Unfällen einleiten
+
+g) betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur Brandbekämpfung ergreifen
+
+während  
+der gesamten  
+Ausbildung  
+
+3
+
+Umweltschutz und Nachhaltigkeit  
+(§ 3 Absatz 4 Nummer 3)
+
+a) Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren Weiterentwicklung beitragen
+
+b) bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder Dienstleistungen, Materialien und Energie unter wirtschaftlichen, umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit nutzen
+
+c) für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes einhalten
+
+d) Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Wiederverwertung oder Entsorgung zuführen
+
+e) Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich entwickeln
+
+f) unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen, ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und adressatengerecht kommunizieren
+
+ 
+
+4
+
+Digitalisierte Arbeitswelt  
+(§ 3 Absatz 4 Nummer 4)
+
+a) mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter umgehen und dabei die Vorschriften zum Datenschutz und zur Datensicherheit einhalten
+
+b) Risiken bei der Nutzung von digitalen Medien und informationstechnischen Systemen einschätzen und bei deren Nutzung betriebliche Regelungen einhalten
+
+c) ressourcenschonend, adressatengerecht und effizient kommunizieren sowie Kommunikationsergebnisse dokumentieren
+
+d) Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung beitragen
+
+e) Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten und auswählen
+
+f) Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des lebensbegleitenden Lernens erkennen und ableiten
+
+g) Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler Medien, planen, bearbeiten und gestalten
+
+h) Wertschätzung anderer unter Berücksichtigung gesellschaftlicher Vielfalt praktizieren
+
+ 
+
+Abschnitt 2
+
+1 bis 3. Ausbildungshalbjahr
+
+Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitrahmen  
 in Monaten
@@ -693,16 +823,14 @@ in Monaten
 
 1
 
-Planen und Organisieren  
-der Arbeit, Bewerten der  
-Arbeitsergebnisse  
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
 (§ 3 Absatz 3 Nummer 1)
 
 a) Arbeitsplatz einrichten
 
 c) Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
-3 bis 5
+ 
 
 2
 
@@ -713,6 +841,8 @@ a) Informationen beschaffen und bewerten, Datenbankabfragen durchführen
 
 b) technische Zeichnungen und Pläne auswerten, anwenden und Skizzen anfertigen
 
+ 
+
 3
 
 Montieren und Demontieren von Geräten, Baugruppen und Systemen  
@@ -722,20 +852,26 @@ a) Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unte
 
 b) Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
 
-c) elektrische und mechanische Verbindungen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
+c) elektrische und mechanische Verbindungen unter Berücksichtigung mathematischer und physikalischer Grundlagen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
 
-e) Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
+e) Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter Berücksichtigung mathematischer und physikalischer Grundlagen formen
 
-f) Montage- und Demontagetechniken anwenden und Bauteile anpassen
+f) gängige Fertigungsverfahren und ihren Einfluss auf die mechanischen und physikalischen Eigenschaften des fertigen Teils unter Berücksichtigung mathematischer und physikalischer Grundlagen unterscheiden sowie häufige Produktionsfehler prüfen
+
+g) Montage- und Demontagetechniken anwenden und Bauteile anpassen
+
+3 bis 5
 
 4
 
 Berücksichtigen von menschlichen Faktoren  
 (§ 3 Absatz 3 Nummer 8)
 
-a) Verantwortung des Einzelnen und eines Teams bei der Arbeit berücksichtigen
+a) Verantwortung und Verhalten des Einzelnen und eines Teams sowie die Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von Risiken berücksichtigen
 
 b) kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im Team beachten
+
+ 
 
 5
 
@@ -752,13 +888,15 @@ e) Leitungen konfektionieren
 
 f) Kabelbäume anfertigen, prüfen und einbauen
 
-Zeitrahmen 2: Geräte und Anlagen installieren und deren elektrische Sicherheit prüfen
+ 
+
+Zeitrahmen 2: Geräte und Anlagen installieren und deren elektrische Sicherheit prüfen
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitrahmen  
 in Monaten
@@ -773,9 +911,7 @@ in Monaten
 
 1
 
-Planen und Organisieren  
-der Arbeit, Bewerten der  
-Arbeitsergebnisse  
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
 (§ 3 Absatz 3 Nummer 1)
 
 a) Arbeitsplatz einrichten
@@ -802,9 +938,9 @@ d) Daten erfassen, bearbeiten und sichern
 Montieren und Demontieren von Geräten, Baugruppen und Systemen  
 (§ 3 Absatz 3 Nummer 3)
 
-h) Funktion von Potenzialausgleichsleitern prüfen und beurteilen
+i) Funktion von Potenzialausgleichsleitern unter Berücksichtigung mathematischer und physikalischer Grundlagen prüfen und beurteilen
 
-i) Übergangswiderstände messen und beurteilen; Isolationswiderstände beachten
+j) Übergangswiderstände unter Berücksichtigung mathematischer und physikalischer Grundlagen messen und beurteilen; Isolationswiderstände beachten
 
  
 
@@ -822,15 +958,11 @@ d) elektrische Geräte herstellen und elektrische Anlagen errichten, Geräte ode
 e) beim Errichten, Ändern, Instandhalten und Betreiben elektrischer Anlagen und Betriebsmittel die elektrotechnischen Regeln beachten
 
   
-  
-  
-  
 2 bis 4
 
 5
 
-Beurteilen der Sicherheit  
-von elektrischen Anlagen und Betriebsmitteln  
+Beurteilen der Sicherheit von elektrischen Anlagen und Betriebsmitteln  
 (§ 3 Absatz 3 Nummer 11)
 
 a) Funktionen von Schutzleitern prüfen und beurteilen
@@ -847,13 +979,13 @@ j) Brandschutzbestimmungen beim Betrieb elektrischer Geräte und Anlagen beurtei
 
  
 
-Zeitrahmen 3: Baugruppen und Geräte herstellen und prüfen
+Zeitrahmen 3: Baugruppen und Geräte herstellen und prüfen
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitrahmen  
 in Monaten
@@ -868,9 +1000,7 @@ in Monaten
 
 1
 
-Planen und Organisieren  
-der Arbeit, Bewerten der  
-Arbeitsergebnisse  
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
 (§ 3 Absatz 3 Nummer 1)
 
 a) Arbeitsplatz einrichten
@@ -893,7 +1023,7 @@ b) technische Zeichnungen und Pläne auswerten, anwenden und Skizzen anfertigen
 Montieren und Demontieren von Geräten, Baugruppen und Systemen  
 (§ 3 Absatz 3 Nummer 3)
 
-j) Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
+k) Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
 
  
 
@@ -902,7 +1032,7 @@ j) Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
 Berücksichtigen von menschlichen Faktoren  
 (§ 3 Absatz 3 Nummer 8)
 
-c) psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen berücksichtigen
+c) psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch bei der Arbeit am Fluggerät, auf den Menschen und deren Bedeutung für die Vergrößerung von Risiken berücksichtigen
 
 d) physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
 
@@ -917,7 +1047,6 @@ a) Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit unterschi
 
 c) elektrische Betriebsmittel und Leitungsverlegesysteme auswählen und montieren
 
-  
 3 bis 5
 
 6
@@ -963,13 +1092,13 @@ k) Prüf- und Messergebnisse dokumentieren und auswerten
 
  
 
-Zeitrahmen 4: Versorgungs- und Steuerungssysteme in Betrieb nehmen und prüfen
+Zeitrahmen 4: Versorgungs- und Steuerungssysteme in Betrieb nehmen und prüfen
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitrahmen  
 in Monaten
@@ -996,11 +1125,11 @@ a) Informationen beschaffen und bewerten, Datenbankabfragen durchführen
 Montieren und Demontieren von Geräten, Baugruppen und Systemen  
 (§ 3 Absatz 3 Nummer 3)
 
-c) elektrische und mechanische Verbindungen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
+c) elektrische und mechanische Verbindungen unter Berücksichtigung mathematischer und physikalischer Grundlagen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
 
-d) Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unterscheiden
+d) Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unter Berücksichtigung mathematischer und physikalischer Grundlagen unterscheiden
 
-g) Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
+h) Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
 
  
 
@@ -1011,9 +1140,11 @@ Durchführen von qualitätssichernden Maßnahmen
 
 a) Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
 
-b) Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
+b) Fehler unter Beachtung des Fehlermeldewesens melden und die Schutzwürdigkeit sicherheitsrelevanter Meldungen anerkennen
 
-f) Fremdkörperkontrollen durchführen
+c) Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen sowie durch Auswertung eigener und fremder Fehler feststellen, Maßnahmen zur Behebung ergreifen und dokumentieren
+
+g) Fremdkörperkontrollen durchführen
 
  
 
@@ -1032,8 +1163,7 @@ e) beim Errichten, Ändern, Instandhalten und Betreiben elektrischer Anlagen und
 
 5
 
-Messen und Analysieren  
-von elektrischen Funktionen und Systemen  
+Messen und Analysieren von elektrischen Funktionen und Systemen  
 (§ 3 Absatz 3 Nummer 10)
 
 a) Messverfahren und Messgeräte auswählen
@@ -1046,13 +1176,11 @@ d) Signale verfolgen und an Schnittstellen prüfen
 
 e) systematische Fehlersuche durchführen
 
-  
 3 bis 5
 
 6
 
-Beurteilen der Sicherheit  
-von elektrischen Anlagen und Betriebsmitteln  
+Beurteilen der Sicherheit von elektrischen Anlagen und Betriebsmitteln  
 (§ 3 Absatz 3 Nummer 11)
 
 e) Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der Umgebungsbedingungen beurteilen
@@ -1082,13 +1210,13 @@ f) elektromechanische Baugruppen prüfen und einstellen
 
  
 
-Zeitrahmen 5: Baugruppen und Geräte installieren
+Zeitrahmen 5: Baugruppen und Geräte installieren
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitrahmen  
 in Monaten
@@ -1103,30 +1231,27 @@ in Monaten
 
 1
 
-Planen und Organisieren  
-der Arbeit, Bewerten der  
-Arbeitsergebnisse  
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
 (§ 3 Absatz 3 Nummer 1)
 
 a) Arbeitsplatz einrichten
 
 c) Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
-2 bis 4
+ 
 
 2
 
-Betriebliche und  
-technische Kommunikation  
+Betriebliche und technische Kommunikation  
 (§ 3 Absatz 3 Nummer 2)
 
 d) Daten erfassen, bearbeiten und sichern
 
+ 
+
 3
 
-Installieren von  
-Komponenten und  
-Teilsystemen der Avionik  
+Installieren von Komponenten und Teilsystemen der Avionik  
 (§ 3 Absatz 3 Nummer 13)
 
 a) Prüf- und Messmittel anwenden
@@ -1137,19 +1262,27 @@ c) Bauteile zur Identifizierung kennzeichnen
 
 f) Kabelbäume anfertigen, prüfen und einbauen
 
+2 bis 4
+
+ 
+
+ 
+
 g) Energie-, Signal- und Datenleitungen verlegen, verbinden und anschließen
 
 k) Baugruppen, Geräte und Teilsysteme nach Unterlagen einbauen
 
+ 
+
 4\. bis 7. Ausbildungshalbjahr
 
-Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
+Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitrahmen  
 in Monaten
@@ -1164,14 +1297,12 @@ in Monaten
 
 1
 
-Planen und Organisieren  
-der Arbeit, Bewerten der  
-Arbeitsergebnisse  
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
 (§ 3 Absatz 3 Nummer 1)
 
 b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
-2 bis 4
+ 
 
 2
 
@@ -1182,9 +1313,11 @@ c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, a
 
 f) Sachverhalte darstellen, Protokolle anfertigen, auch englische Fachbegriffe anwenden
 
-g) Dokumentationen auch in englischer Sprache erstellen
+g) Dokumentationen, auch in englischer Sprache, erstellen
 
-h) Kommunikation auch in englischer Sprache durchführen
+h) Kommunikation, auch in englischer Sprache, durchführen
+
+ 
 
 3
 
@@ -1195,12 +1328,19 @@ a) Test- und Prüfgeräte anwenden
 
 b) Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
 
+ 
+
+ 
+
+ 
+
 c) Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
+
+ 
 
 4
 
-Messen und Analysieren  
-von elektrischen Funktionen und Systemen  
+Messen und Analysieren von elektrischen Funktionen und Systemen  
 (§ 3 Absatz 3 Nummer 10)
 
 f) Sensoren und Aktoren prüfen und einstellen
@@ -1208,6 +1348,8 @@ f) Sensoren und Aktoren prüfen und einstellen
 g) Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und bewerten
 
 h) Funktionsfähigkeit von Systemen und Komponenten prüfen, Datenprotokolle interpretieren
+
+2 bis 4
 
 5
 
@@ -1224,10 +1366,11 @@ i) Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen und ein
 
 j) Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und einstellen
 
+ 
+
 6
 
-In Betrieb nehmen von  
-Systemen der Avionik  
+In Betrieb nehmen von Systemen der Avionik  
 (§ 3 Absatz 3 Nummer 15)
 
 a) Einfluss von elektromagnetischen Störgrößen auf die Sicherheit des Flugbetriebes beurteilen
@@ -1235,6 +1378,8 @@ a) Einfluss von elektromagnetischen Störgrößen auf die Sicherheit des Flugbet
 b) Zusammenhang zwischen den technischen Leistungsdaten des Fluggerätes, dem konstruktiven Aufbau und dem Antrieb berücksichtigen
 
 c) Rumpf, Trag-, Leit-, Steuer- und Fahrwerk unter Berücksichtigung der Flug-, Start- und Landefähigkeit des Fluggerätes und seiner Steuerung prüfen
+
+ 
 
 7
 
@@ -1245,13 +1390,15 @@ b) Fehler in Geräten und Anlagenteilen, insbesondere durch Austausch der fehler
 
 c) geänderte und aktualisierte Schaltpläne und Schaltungsunterlagen von Baugruppen, Geräten und Anlagen einarbeiten
 
-Zeitrahmen 7: Teilsysteme der Avionik installieren
+ 
+
+Zeitrahmen 7: Teilsysteme der Avionik installieren
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitrahmen  
 in Monaten
@@ -1266,16 +1413,14 @@ in Monaten
 
 1
 
-Planen und Organisieren  
-der Arbeit, Bewerten der  
-Arbeitsergebnisse  
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
 (§ 3 Absatz 3 Nummer 1)
 
 b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 d) Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
-2 bis 4
+ 
 
 2
 
@@ -1286,6 +1431,8 @@ i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwende
 
 j) Rolle der nationalen und internationalen Luftfahrtbehörden beachten
 
+ 
+
 3
 
 Montieren und Demontieren von Geräten, Baugruppen und Systemen  
@@ -1293,18 +1440,22 @@ Montieren und Demontieren von Geräten, Baugruppen und Systemen
 
 b) Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
 
-g) Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
+h) Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
+
+ 
 
 4
 
 Durchführen von qualitätssichernden Maßnahmen  
 (§ 3 Absatz 3 Nummer 7)
 
-c) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
+d) zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen und fördern
 
-d) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
+e) Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
-e) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen auch in englischer Sprache beachten und anwenden
+f) Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
+
+2 bis 4
 
 5
 
@@ -1315,6 +1466,8 @@ d) elektrische Antriebe sowie pneumatische und hydraulische Verbindungen montier
 
 j) Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und Regeltechnik installieren und justieren
 
+ 
+
 6
 
 Testen von Systemen  
@@ -1324,13 +1477,15 @@ i) Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen und ein
 
 j) Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und einstellen
 
-Zeitrahmen 8: Informations- und Kommunikationssysteme in Betrieb nehmen
+ 
+
+Zeitrahmen 8: Informations- und Kommunikationssysteme in Betrieb nehmen
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitrahmen  
 in Monaten
@@ -1345,9 +1500,7 @@ in Monaten
 
 1
 
-Planen und Organisieren  
-der Arbeit, Bewerten der  
-Arbeitsergebnisse  
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
 (§ 3 Absatz 3 Nummer 1)
 
 b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
@@ -1363,15 +1516,9 @@ Betriebliche und technische Kommunikation
 
 c) Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
-g) Dokumentationen auch in englischer Sprache erstellen
+g) Dokumentationen, auch in englischer Sprache, erstellen
 
-h) Kommunikation auch in englischer Sprache durchführen
-
- 
-
- 
-
- 
+h) Kommunikation, auch in englischer Sprache, durchführen
 
 i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 
@@ -1401,8 +1548,7 @@ b) Leitungswege und Gerätemontageorte unter Beachtung der elektromagnetischen V
 
 5
 
-Messen und Analysieren  
-von elektrischen Funktionen und Systemen  
+Messen und Analysieren von elektrischen Funktionen und Systemen  
 (§ 3 Absatz 3 Nummer 10)
 
 g) Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und bewerten
@@ -1418,7 +1564,7 @@ Installieren von Komponenten und Teilsystemen der Avionik
 
 i) Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik zusammenbauen, verdrahten und installieren
 
-m) Softwarte-Updates durchführen
+m) Software-Updates durchführen
 
  
 
@@ -1435,8 +1581,7 @@ g) elektrische Größen in Antennenanlagen prüfen und messen
 
 8
 
-In Betrieb nehmen von  
-Systemen der Avionik  
+In Betrieb nehmen von Systemen der Avionik  
 (§ 3 Absatz 3 Nummer 15)
 
 g) funktionelle Zusammenhänge und technische Lösungen von Informations- und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für Navigation, Flugführung, Instrumentierung, Datenübertragung sowie Radarsystem, den technischen Unterlagen entnehmen und prüfen
@@ -1445,13 +1590,13 @@ h) Baugruppen und Geräte der Informations- und Funktechnik, einschließlich Per
 
  
 
-Zeitrahmen 9: Flugüberwachungssysteme in Betrieb nehmen
+Zeitrahmen 9: Flugüberwachungssysteme in Betrieb nehmen
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitrahmen  
 in Monaten
@@ -1466,9 +1611,7 @@ in Monaten
 
 1
 
-Planen und Organisieren  
-der Arbeit, Bewerten der  
-Arbeitsergebnisse  
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
 (§ 3 Absatz 3 Nummer 1)
 
 b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
@@ -1482,7 +1625,7 @@ Betriebliche und technische Kommunikation
 
 e) Gespräche organisieren und situationsgerecht und zielorientiert führen
 
-h) Kommunikation auch in englischer Sprache durchführen
+h) Kommunikation, auch in englischer Sprache, durchführen
 
 i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 
@@ -1492,9 +1635,7 @@ j) Rolle der nationalen und internationalen Luftfahrtbehörden beachten
 
 3
 
-Beraten und Betreuen  
-von Kunden, Erbringen  
-von Serviceleistungen  
+Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen  
 (§ 3 Absatz 3 Nummer 12)
 
 c) Störungsmeldungen aufnehmen
@@ -1516,10 +1657,8 @@ j) Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und Regeltechnik 
 
 l) Montage und Installation anhand technischer Unterlagen prüfen, Fehler korrigieren und Änderungen dokumentieren
 
-m) Softwarte-Updates durchführen
+m) Software-Updates durchführen
 
-  
-  
   
 2 bis 4
 
@@ -1551,13 +1690,13 @@ g) funktionelle Zusammenhänge und technische Lösungen von Informations- und Ko
 
  
 
-Zeitrahmen 10: Antriebs- und Avioniksysteme instand halten
+Zeitrahmen 10: Antriebs- und Avioniksysteme instand halten
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitrahmen  
 in Monaten
@@ -1572,9 +1711,7 @@ in Monaten
 
 1
 
-Planen und Organisieren  
-der Arbeit, Bewerten der  
-Arbeitsergebnisse  
+Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse  
 (§ 3 Absatz 3 Nummer 1)
 
 b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
@@ -1583,15 +1720,14 @@ b) Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen un
 
 2
 
-Betriebliche und  
-technische Kommunikation  
+Betriebliche und technische Kommunikation  
 (§ 3 Absatz 3 Nummer 2)
 
 e) Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 f) Sachverhalte darstellen, Protokolle anfertigen, auch englische Fachbegriffe anwenden
 
-g) Dokumentationen auch in englischer Sprache erstellen
+g) Dokumentationen, auch in englischer Sprache, erstellen
 
 i) IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 
@@ -1604,17 +1740,11 @@ Instandhaltung
 
 a) Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
 
- 
-
- 
-
- 
-
 b) Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
 
-c) Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+c) Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen unter Berücksichtigung mathematischer und physikalischer Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
- 
+3 bis 5
 
 4
 
@@ -1625,14 +1755,11 @@ a) Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie vorbereitende Ar
 
 b) Schäden feststellen und deren Behebung veranlassen
 
-  
-3 bis 5
+ 
 
 5
 
-Beraten und Betreuen  
-von Kunden, Erbringen  
-von Serviceleistungen  
+Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen  
 (§ 3 Absatz 3 Nummer 12)
 
 a) Vorstellungen und Bedarfe von Kunden ermitteln, Lösungsansätze entwickeln und Realisierungsvarianten anbieten
@@ -1640,6 +1767,12 @@ a) Vorstellungen und Bedarfe von Kunden ermitteln, Lösungsansätze entwickeln u
 b) auf Wartungsarbeiten und -intervalle hinweisen
 
 c) Störungsmeldungen aufnehmen
+
+ 
+
+ 
+
+ 
 
 d) Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der Auftragsabwicklung Lösungsvarianten aufzeigen
 
@@ -1662,13 +1795,13 @@ d) Geräte und Anlagen nach Unterlagen und Anweisung ändern
 
  
 
-Zeitrahmen 11: Arbeitsprozess unter Beachtung des Qualitätsmanagements gestalten
+Zeitrahmen 11: Arbeitsprozess unter Beachtung des Qualitätsmanagements gestalten
 
 Lfd. Nr.
 
 Teil des Ausbildungsberufsbildes
 
-Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitrahmen  
 in Monaten
@@ -1683,8 +1816,7 @@ in Monaten
 
 1
 
-Arbeitsprozesse und  
-Qualitätsmanagement im Einsatzgebiet anwenden  
+Arbeitsprozesse und Qualitätsmanagement im Einsatzgebiet anwenden  
 (§ 3 Absatz 3 Nummer 17)
 
 a) Auftrag annehmen
@@ -1701,23 +1833,25 @@ f) Normen und Spezifikationen zur Qualität und Sicherheit der Produkte und Proz
 
 g) Auftrag dokumentieren, übergeben und Abrechnungsdaten erstellen
 
-7 bis 9  
-  
-  
-  
-  
-  
-
- 
-
- 
-
-h) Abnahmeprotokolle ausfüllen, Fachauskünfte auch in englischer Sprache erteilen, Geräte und Systemdokumentation, auch in Englisch, zusammenstellen
+h) Abnahmeprotokolle ausfüllen, Fachauskünfte, auch in englischer Sprache, erteilen, Geräte und Systemdokumentation, auch in Englisch, zusammenstellen
 
 i) Geräte- und Systemdokumentation, auch in Englisch, zusammenstellen
 
- 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+7 bis 9.
 
-# Anlage 3 – (zu § 3 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Verordnung (EU) Nr. 1149/2011 Anhang III (Teil 66)
+# Anlage 3 – (zu § 3 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach der Verordnung (EU) Nr. 1321/2014 in Verbindung mit der Verordnung (EU) 2023/989 Anhang III (Teil 66)
 
-(Fundstelle: BGBl I 2013, 2221 – 2227)
+(Fundstelle: BGBl. 2024 I Nr. 186, S. 54 – 63)

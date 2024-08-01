@@ -765,7 +765,7 @@ Für Eingliederungsleistungen an erwerbsfähige Leistungsberechtigte mit Behinde
 
 3. die §§ 127 und 128 des Dritten Buches für die besonderen Leistungen zur Förderung der beruflichen Weiterbildung.
 
-§ 1 Absatz 2 Nummer 4 sowie § 36 und § 81 Absatz 2 und 3 des Dritten Buches sind entsprechend anzuwenden.
+§ 1 Absatz 2 Nummer 4 sowie die §§ 36, 76 und 81 Absatz 2 und 3 des Dritten Buches sind entsprechend anzuwenden.
 
 (2) Soweit dieses Buch nichts Abweichendes regelt, gelten für die Leistungen nach Absatz 1 die Regelungen des Dritten Buches mit Ausnahme der Verordnungsermächtigung nach § 47 des Dritten Buches sowie der Anordnungsermächtigungen für die Bundesagentur und mit der Maßgabe, dass an die Stelle des Arbeitslosengeldes das Bürgergeld nach § 19 Absatz 1 Satz 1 tritt. § 44 Absatz 3 Satz 3 des Dritten Buches gilt mit der Maßgabe, dass die Förderung aus dem Vermittlungsbudget auch die anderen Leistungen nach dem Zweiten Buch nicht aufstocken, ersetzen oder umgehen darf. Für die Teilnahme erwerbsfähiger Leistungsberechtigter an einer Maßnahme zur beruflichen Weiterbildung im Rahmen eines bestehenden Arbeitsverhältnisses werden Leistungen nach Absatz 1 Satz 2 Nummer 4 in Verbindung mit § 82 des Dritten Buches nicht gewährt, wenn die betreffende Maßnahme auf ein nach § 2 Absatz 1 des Aufstiegsfortbildungsförderungsgesetzes förderfähiges Fortbildungsziel vorbereitet.
 

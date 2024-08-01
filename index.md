@@ -30,6 +30,7 @@
 - [ABV](laws/ABV.md) Verordnung über Anforderungsbehörden und Bedarfsträger nach dem Bundesleistungsgesetz
 - [AbwAG](laws/AbwAG.md) Gesetz über Abgaben für das Einleiten von Abwasser in Gewässer
 - [AbwasserMeistPrV](laws/AbwasserMeistPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Abwassermeister/Geprüfte Abwassermeisterin
+- [AbwUTechAusbV](laws/AbwUTechAusbV.md) Verordnung über die Berufsausbildung zum Umwelttechnologen für Abwasserbewirtschaftung und zur Umwelttechnologin für Abwasserbewirtschaftung *
 - [AbwV](laws/AbwV.md) Verordnung über Anforderungen an das Einleiten von Abwasser in Gewässer
 - [ABZusForstAbk POL](laws/ABZusForstAbk_POL.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß sowie über den Bau und den Umbau einer Grenzbrücke im Raum Forst und Erlenholz (Olszyna)
 - [ABZusForstAbkPOLG](laws/ABZusForstAbkPOLG.md) Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß sowie über den Bau und den Umbau einer Grenzbrücke im Raum Forst und Erlenholz (Olszyna)
@@ -1736,7 +1737,6 @@
 - [EltSV](laws/EltSV.md) Verordnung zur Sicherung der Elektrizitätsversorgung in einer Versorgungskrise
 - [EltZSoldV](laws/EltZSoldV.md) Verordnung über die Elternzeit für Soldatinnen und Soldaten
 - [ELV](laws/ELV.md) Verordnung über die Laufbahnen der Beamtinnen und Beamten beim Bundeseisenbahnvermögen
-- [EM2024LärmSchV](laws/EM2024LärmSchV.md) Verordnung über den Lärmschutz bei öffentlichen Fernsehdarbietungen im Freien über die Fußball-Europameisterschaft der Männer 2024
 - [EMASPrivilegV](laws/EMASPrivilegV.md) Verordnung über immissionsschutz- und abfallrechtliche Überwachungserleichterungen für nach der Verordnung (EG) Nr. 761/2001 registrierte Standorte und Organisationen
 - [EMFV](laws/EMFV.md) Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch elektromagnetische Felder
 - [EmoG](laws/EmoG.md) Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge 1
@@ -2069,7 +2069,7 @@
 - [FeiertEVDBest 1](laws/FeiertEVDBest_1.md) Erste Durchführungsbestimmung zur Verordnung über die Einführung gesetzlicher Feiertage
 - [FeinGehG](laws/FeinGehG.md) Gesetz über den Feingehalt der Gold- und Silberwaren
 - [FeinGehStempG](laws/FeinGehStempG.md) Bekanntmachung betreffend die Bestimmung der Form des Stempelzeichens zur Angabe des Feingehalts auf goldenen und silbernen Geräten
-- [FeinOAusbV](laws/FeinOAusbV.md) Verordnung über die Berufsausbildung zum Feinoptiker/zur Feinoptikerin
+- [FeinOAusbV](laws/FeinOAusbV.md) Verordnung über die Berufsausbildung zum Feinoptiker und zur Feinoptikerin*
 - [FeinwAusbV](laws/FeinwAusbV.md) Verordnung über die Berufsausbildung zum Feinwerkmechaniker und zur Feinwerkmechanikerin*)
 - [FeinwerkMechMstrV](laws/FeinwerkMechMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Feinwerkmechaniker-Handwerk
 - [FELEG](laws/FELEG.md) Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit
@@ -2875,7 +2875,7 @@
 - [IndElekAusbV](laws/IndElekAusbV.md) Verordnung über die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin *)
 - [IndElErprobV](laws/IndElErprobV.md) Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung in den industriellen Elektroberufen
 - [IndFachwirtPrV 2010](laws/IndFachwirtPrV_2010.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriefachwirt und Geprüfte Industriefachwirtin
-- [IndKfmAusbV 2002](laws/IndKfmAusbV_2002.md) Verordnung über die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau
+- [IndKflAusbV](laws/IndKflAusbV.md) Verordnung über die Berufsausbildung zum Industriekaufmann und zur Industriekauffrau*
 - [IndKredBkG](laws/IndKredBkG.md) Gesetz betreffend die Industriekreditbank Aktiengesellschaft
 - [IndMechaAusbV](laws/IndMechaAusbV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Mechatronik
 - [IndMetAusbV 2007](laws/IndMetAusbV_2007.md) Verordnung über die Berufsausbildung in den industriellen Metallberufen
@@ -3230,6 +3230,7 @@
 - [KOVZusVtrAUTG](laws/KOVZusVtrAUTG.md) Gesetz zu dem Zusatzvertrag vom 7. Februar 1969 zur Durchführung und Ergänzung des Vertrags vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
 - [KPBV](laws/KPBV.md) Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln*)
 - [KPrüfTechnAusbV](laws/KPrüfTechnAusbV.md) Verordnung über die Berufsausbildung zum Prüftechnologen Keramik und zur Prüftechnologin Keramik*
+- [KrAbfWUTechAusbV](laws/KrAbfWUTechAusbV.md) Verordnung über die Berufsausbildung zum Umwelttechnologen für Kreislauf- und Abfallwirtschaft und zur Umwelttechnologin für Kreislauf- und Abfallwirtschaft *
 - [KrAbwFBek](laws/KrAbwFBek.md) Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen des Fonds "Kreditabwicklungsfonds" in das Schuldbuch des Fonds "Kreditabwicklungsfonds"
 - [KraftNAV](laws/KraftNAV.md) Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung von elektrischer Energie
 - [KraftStCHEV](laws/KraftStCHEV.md) Verordnung über die kraftfahrzeugsteuerliche Behandlung von schweizerischen Straßenfahrzeugen im grenzüberschreitenden Verkehr
@@ -3355,7 +3356,6 @@
 - [LAP-htVerwDV](laws/LAP-htVerwDV.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen Verwaltungsdienst des Bundes
 - [LAP-mDAAV 2004](laws/LAP-mDAAV_2004.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Auswärtigen Dienst
 - [LAP-mftDBwV](laws/LAP-mftDBwV.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren feuerwehrtechnischen Dienst in der Bundeswehr
-- [LAP-mtDBWVV](laws/LAP-mtDBWVV.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren technischen Dienst in der Bundeswehrverwaltung - Fachrichtung Wehrtechnik -
 - [LArbWoV](laws/LArbWoV.md) Verordnung über Steuervergünstigungen zur Förderung des Baues von Landarbeiterwohnungen
 - [LastG](laws/LastG.md) Gesetz zur Lastentragung im Bund-Länder-Verhältnis bei Verletzung von supranationalen oder völkerrechtlichen Verpflichtungen
 - [LasthandhabV](laws/LasthandhabV.md) Verordnung über Sicherheit und Gesundheitsschutz bei der manuellen Handhabung von Lasten bei der Arbeit
@@ -3786,6 +3786,7 @@
 - [MsV](laws/MsV.md) Verordnung über den Inhalt und das Verfahren zur Erstellung und zur Anpassung von Mietspiegeln sowie zur Konkretisierung der Grundsätze für qualifizierte Mietspiegel
 - [MTAPrV](laws/MTAPrV.md) Ausbildungs- und Prüfungsverordnung für Medizinische Technologinnen und Medizinische Technologen 1
 - [MTBG](laws/MTBG.md) Gesetz über die Berufe in der medizinischen Technologie
+- [MtDBwVVDV](laws/MtDBwVVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
 - [MtDFmEloAufklVDV](laws/MtDFmEloAufklVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes
 - [MTSKraftV](laws/MTSKraftV.md) Verordnung zur Markttransparenzstelle für Kraftstoffe
 - [MüG](laws/MüG.md) Gesetz zur Marktüberwachung und zur Sicherstellung der Konformität von Produkten
@@ -4788,6 +4789,7 @@
 - [ROG](laws/ROG.md) Raumordnungsgesetz *)
 - [RohmilchGütV](laws/RohmilchGütV.md) Verordnung zur Förderung der Güte von Rohmilch
 - [RohrFLtgV](laws/RohrFLtgV.md) Verordnung über Rohrfernleitungsanlagen
+- [RohrIndUTechAusbV](laws/RohrIndUTechAusbV.md) Verordnung über die Berufsausbildung zum Umwelttechnologen für Rohrleitungsnetze und Industrieanlagen und zur Umwelttechnologin für Rohrleitungsnetze und Industrieanlagen *
 - [RohrMeistPrV](laws/RohrMeistPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meister/Geprüfte Meisterin für Rohr-, Kanal- und Industrieservice
 - [RohTabBeih2006V](laws/RohTabBeih2006V.md) Verordnung zur Festsetzung des endgültigen Beihilfebetrags für Rohtabak für das Erntejahr 2006
 - [RollSonnTMstrV](laws/RollSonnTMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Rollladen- und Sonnenschutztechniker-Handwerk
@@ -4905,6 +4907,7 @@
 - [SAZV](laws/SAZV.md) Verordnung über die Arbeitszeit der Soldatinnen und Soldaten
 - [SBBFestV 2014](laws/SBBFestV_2014.md) Verordnung zur Festlegung der Höhe der Sonderentlastung von Kommunen mit besonderen Herausforderungen aus dem Zuzug aus anderen EU-Mitgliedstaaten über die Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2014
 - [SBG](laws/SBG.md) Soldatinnen- und Soldatenbeteiligungsgesetz
+- [SBGG](laws/SBGG.md) Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag
 - [SBGWV](laws/SBGWV.md) Wahlverordnung zum Soldatinnen- und Soldatenbeteiligungsgesetz
 - [SBkBG](laws/SBkBG.md) Gesetz über die Staatsbank Berlin
 - [SBkBÜblG](laws/SBkBÜblG.md) Gesetz über die Überleitung der Staatsbank Berlin
@@ -5791,7 +5794,6 @@
 - [UmstRückstG](laws/UmstRückstG.md) Gesetz über die Bildung von Rückstellungen in der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen und Bausparkassen und in der Altbankenrechnung der Berliner Altbanken
 - [UmstRückstGDV](laws/UmstRückstGDV.md) Verordnung zur Durchführung des Gesetzes über die Bildung von Rückstellungen in der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen und Bausparkassen und in der Altbankenrechnung der Berliner Altbanken
 - [UmvertPrämG 2014](laws/UmvertPrämG_2014.md) Gesetz zur Gewährung einer Umverteilungsprämie 2014
-- [UmwAusbV](laws/UmwAusbV.md) Verordnung über die Berufsausbildung in den umwelttechnischen Berufen
 - [UmweltHG](laws/UmweltHG.md) Umwelthaftungsgesetz
 - [UmwG](laws/UmwG.md) Umwandlungsgesetz
 - [UmwRG](laws/UmwRG.md) Gesetz über ergänzende Vorschriften zu Rechtsbehelfen in Umweltangelegenheiten nach der EG-Richtlinie 2003/35/EG
@@ -6162,6 +6164,7 @@
 - [WaStrÜbgVtrGNtrag](laws/WaStrÜbgVtrGNtrag.md) Nachtrag zu dem Gesetz über den Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich (Anhang zum Gesetz über die vermögensrechtlichen Verhältnisse der Bundeswasserstraßen)
 - [WaStrÜbgVtrGNtrag 2](laws/WaStrÜbgVtrGNtrag_2.md) Zweiter Nachtrag zu dem Gesetz über den Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich (Anhang zum Gesetz über die vermögensrechtlichen Verhältnisse der Bundeswasserstraßen)
 - [WaStrVermRG](laws/WaStrVermRG.md) Gesetz über die vermögensrechtlichen Verhältnisse der Bundeswasserstraßen
+- [WasUTechAusbV](laws/WasUTechAusbV.md) Verordnung über die Berufsausbildung zum Umwelttechnologen für Wasserversorgung und zur Umwelttechnologin für Wasserversorgung *
 - [WasVersStatV](laws/WasVersStatV.md) Verordnung über die Statistik in der öffentlichen Wasserversorgung und im öffentlichen Abwasserwesen
 - [WBeauftrG](laws/WBeauftrG.md) Gesetz über den Wehrbeauftragten des Deutschen Bundestages
 - [WBGArt13InkrBek](laws/WBGArt13InkrBek.md) Bekanntmachung über das Inkrafttreten des Artikels 13 des Gesetzes zur Beschleunigung des Wirtschaftswachstums
