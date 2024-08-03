@@ -85,7 +85,7 @@ Die Mitglieder der im Geltungsbereich dieses Gesetzes errichteten diplomatischen
 
 (1) Die deutsche Gerichtsbarkeit erstreckt sich auch nicht auf Repräsentanten anderer Staaten und deren Begleitung, die sich auf amtliche Einladung der Bundesrepublik Deutschland im Geltungsbereich dieses Gesetzes aufhalten.
 
-(2) Im übrigen erstreckt sich die deutsche Gerichtsbarkeit auch nicht auf andere als die in Absatz 1 und in den §§ 18 und 19 genannten Personen, soweit sie nach den allgemeinen Regeln des Völkerrechts, auf Grund völkerrechtlicher Vereinbarungen oder sonstiger Rechtsvorschriften von ihr befreit sind.
+(2) Im übrigen erstreckt sich die deutsche Gerichtsbarkeit auch nicht auf andere als die in Absatz 1 und in den §§ 18 und 19 genannten Personen, soweit sie nach den allgemeinen Regeln des Völkerrechts, auf Grund völkerrechtlicher Vereinbarungen oder sonstiger Rechtsvorschriften von ihr befreit sind. Funktionelle Immunität hindert nicht die Erstreckung deutscher Gerichtsbarkeit auf die Verfolgung von Verbrechen nach dem Völkerstrafgesetzbuch.
 
 # § 21
 
@@ -827,9 +827,11 @@ ist eine Strafkammer als Schwurgericht zuständig. § 120 bleibt unberührt.
 
 4. der Zuwiderhandlung gegen ein Vereinigungsverbot in den Fällen des § 129, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches und des § 20 Abs. 1 Satz 1 Nr. 1 bis 4 des Vereinsgesetzes; dies gilt nicht, wenn dieselbe Handlung eine Straftat nach dem Betäubungsmittelgesetz, Konsumcannabisgesetz oder Medizinal-Cannabisgesetz darstellt,
 
-5. der Verschleppung (§ 234a des Strafgesetzbuches) und
+5. der Verschleppung (§ 234a des Strafgesetzbuches),
 
-6. der politischen Verdächtigung (§ 241a des Strafgesetzbuches).
+6. des Verschwindenlassens von Personen (§ 234b des Strafgesetzbuches) und
+
+7. der politischen Verdächtigung (§ 241a des Strafgesetzbuches).
 
 (2) Die Zuständigkeit des Landgerichts entfällt, wenn der Generalbundesanwalt wegen der besonderen Bedeutung des Falles vor der Eröffnung des Hauptverfahrens die Verfolgung übernimmt, es sei denn, daß durch Abgabe nach § 142a Abs. 4 oder durch Verweisung nach § 120 Absatz 2 Satz 3 die Zuständigkeit des Landgerichts begründet wird.
 
@@ -1648,7 +1650,7 @@ Die in einem deutschen Land bestehenden Vorschriften über die Mitteilung von Ak
 
 (1) Die Verhandlung vor dem erkennenden Gericht einschließlich der Verkündung der Urteile und Beschlüsse ist öffentlich. Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen zum Zwecke der öffentlichen Vorführung oder Veröffentlichung ihres Inhalts sind unzulässig. Die Tonübertragung in einen Arbeitsraum für Personen, die für Presse, Hörfunk, Fernsehen oder für andere Medien berichten, kann von dem Gericht zugelassen werden. Die Tonübertragung kann zur Wahrung schutzwürdiger Interessen der Beteiligten oder Dritter oder zur Wahrung eines ordnungsgemäßen Ablaufs des Verfahrens teilweise untersagt werden. Im Übrigen gilt für den in den Arbeitsraum übertragenen Ton Satz 2 entsprechend.
 
-(2) Tonaufnahmen der Verhandlung einschließlich der Verkündung der Urteile und Beschlüsse können zu wissenschaftlichen und historischen Zwecken von dem Gericht zugelassen werden, wenn es sich um ein Verfahren von herausragender zeitgeschichtlicher Bedeutung für die Bundesrepublik Deutschland handelt. Zur Wahrung schutzwürdiger Interessen der Beteiligten oder Dritter oder zur Wahrung eines ordnungsgemäßen Ablaufs des Verfahrens können die Aufnahmen teilweise untersagt werden. Die Aufnahmen sind nicht zu den Akten zu nehmen und dürfen weder herausgegeben noch für Zwecke des aufgenommenen oder eines anderen Verfahrens genutzt oder verwertet werden. Sie sind vom Gericht nach Abschluss des Verfahrens demjenigen zuständigen Bundes- oder Landesarchiv zur Übernahme anzubieten, das nach dem Bundesarchivgesetz oder einem Landesarchivgesetz festzustellen hat, ob den Aufnahmen ein bleibender Wert zukommt. Nimmt das Bundesarchiv oder das jeweilige Landesarchiv die Aufnahmen nicht an, sind die Aufnahmen durch das Gericht zu löschen.
+(2) Tonaufnahmen oder Ton- und Filmaufnahmen der Verhandlung einschließlich der Verkündung der Urteile und Beschlüsse können zu wissenschaftlichen und historischen Zwecken von dem Gericht zugelassen werden, wenn es sich um ein Verfahren von herausragender zeitgeschichtlicher Bedeutung handelt. Zur Wahrung schutzwürdiger Interessen der Beteiligten oder Dritter oder zur Wahrung eines ordnungsgemäßen Ablaufs des Verfahrens können die Aufnahmen teilweise untersagt werden. Die Aufnahmen sind nicht zu den Akten zu nehmen und dürfen weder herausgegeben noch für Zwecke des aufgenommenen oder eines anderen Verfahrens genutzt oder verwertet werden. Sie sind vom Gericht nach Abschluss des Verfahrens demjenigen zuständigen Bundes- oder Landesarchiv zur Übernahme anzubieten, das nach dem Bundesarchivgesetz oder einem Landesarchivgesetz festzustellen hat, ob den Aufnahmen ein bleibender Wert zukommt. Nimmt das Bundesarchiv oder das jeweilige Landesarchiv die Aufnahmen nicht an, sind die Aufnahmen durch das Gericht zu löschen.
 
 (3) Abweichend von Absatz 1 Satz 2 kann das Gericht für die Verkündung von Entscheidungen des Bundesgerichtshofs in besonderen Fällen Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen zum Zwecke der öffentlichen Vorführung oder der Veröffentlichung ihres Inhalts zulassen. Zur Wahrung schutzwürdiger Interessen der Beteiligten oder Dritter sowie eines ordnungsgemäßen Ablaufs des Verfahrens können die Aufnahmen oder deren Übertragung teilweise untersagt oder von der Einhaltung von Auflagen abhängig gemacht werden.
 
@@ -1769,6 +1771,8 @@ Die Gerichtssprache ist deutsch. Das Recht der Sorben, in den Heimatkreisen der 
 (2) Die Zuziehung eines Dolmetschers kann unterbleiben, wenn die beteiligten Personen sämtlich der fremden Sprache mächtig sind.
 
 (3) In Familiensachen und in Angelegenheiten der freiwilligen Gerichtsbarkeit bedarf es der Zuziehung eines Dolmetschers nicht, wenn der Richter der Sprache, in der sich die beteiligten Personen erklären, mächtig ist.
+
+(4) Personen, die für Presse, Hörfunk, Fernsehen oder für andere Medien berichten und der deutschen Sprache nicht mächtig sind, dürfen sich in Gerichtsverhandlungen Verdolmetschungen bedienen. Das Gericht kann die Nutzung gerichtlich bereitgestellter Verdolmetschungen zulassen. § 176 Absatz 1 bleibt unberührt.
 
 # § 186
 

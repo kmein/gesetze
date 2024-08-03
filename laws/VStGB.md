@@ -55,11 +55,11 @@ wird mit lebenslanger Freiheitsstrafe bestraft.
 
 5. einen Menschen, der sich in seinem Gewahrsam oder in sonstiger Weise unter seiner Kontrolle befindet, foltert, indem er ihm erhebliche körperliche oder seelische Schäden oder Leiden zufügt, die nicht lediglich Folge völkerrechtlich zulässiger Sanktionen sind,
 
-6. einen anderen Menschen sexuell nötigt oder vergewaltigt, ihn zur Prostitution nötigt, der Fortpflanzungsfähigkeit beraubt oder in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen, eine unter Anwendung von Zwang geschwängerte Frau gefangen hält,
+6. einen sexuellen Übergriff auf einen anderen Menschen begeht, ihn sexuell nötigt oder vergewaltigt, ihn zur Prostitution nötigt, ihn sexuell versklavt, ihn der Fortpflanzungsfähigkeit beraubt, einen unter Anwendung von Zwang geschwängerten Menschen in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen oder Taten nach den §§ 6 bis 13 zu begehen, gefangen hält oder eine Schwangerschaft gegen oder ohne den Willen des schwangeren Menschen abbricht,
 
-7. einen Menschen dadurch zwangsweise verschwinden lässt, dass er in der Absicht, ihn für längere Zeit dem Schutz des Gesetzes zu entziehen,
+7. einen Menschen dadurch zwangsweise verschwinden lässt, dass er in der Absicht, ihn nicht nur kurzzeitig dem Schutz des Gesetzes zu entziehen,
 
-a) ihn im Auftrag oder mit Billigung eines Staates oder einer politischen Organisation entführt oder sonst in schwerwiegender Weise der körperlichen Freiheit beraubt, ohne dass im Weiteren auf Nachfrage unverzüglich wahrheitsgemäß Auskunft über sein Schicksal und seinen Verbleib erteilt wird, oder
+a) ihn im Auftrag oder mit Billigung eines Staates oder einer politischen Organisation entführt oder sonst in schwerwiegender Weise der körperlichen Freiheit beraubt, ohne dass im Weiteren unverzüglich wahrheitsgemäß Auskunft über sein Schicksal und seinen Verbleib erteilt wird, oder
 
 b) sich im Auftrag des Staates oder der politischen Organisation oder entgegen einer Rechtspflicht weigert, unverzüglich Auskunft über das Schicksal und den Verbleib des Menschen zu erteilen, der unter den Voraussetzungen des Buchstaben a seiner körperlichen Freiheit beraubt wurde, oder eine falsche Auskunft dazu erteilt,
 
@@ -67,7 +67,7 @@ b) sich im Auftrag des Staates oder der politischen Organisation oder entgegen e
 
 9. einen Menschen unter Verstoß gegen eine allgemeine Regel des Völkerrechts in schwerwiegender Weise der körperlichen Freiheit beraubt oder
 
-10. eine identifizierbare Gruppe oder Gemeinschaft verfolgt, indem er ihr aus politischen, rassischen, nationalen, ethnischen, kulturellen oder religiösen Gründen, aus Gründen des Geschlechts oder aus anderen nach den allgemeinen Regeln des Völkerrechts als unzulässig anerkannten Gründen grundlegende Menschenrechte entzieht oder diese wesentlich einschränkt,
+10. eine identifizierbare Gruppe oder Gemeinschaft verfolgt, indem er ihr aus politischen, rassischen, nationalen, ethnischen, kulturellen oder religiösen Gründen, aus Gründen des Geschlechts, der sexuellen Orientierung oder aus anderen nach den allgemeinen Regeln des Völkerrechts als unzulässig anerkannten Gründen grundlegende Menschenrechte entzieht oder diese wesentlich einschränkt,
 
 wird in den Fällen der Nummern 1 und 2 mit lebenslanger Freiheitsstrafe, in den Fällen der Nummern 3 bis 7 mit Freiheitsstrafe nicht unter fünf Jahren und in den Fällen der Nummern 8 bis 10 mit Freiheitsstrafe nicht unter drei Jahren bestraft.
 
@@ -89,7 +89,7 @@ wird in den Fällen der Nummern 1 und 2 mit lebenslanger Freiheitsstrafe, in den
 
 3. eine nach dem humanitären Völkerrecht zu schützende Person grausam oder unmenschlich behandelt, indem er ihr erhebliche körperliche oder seelische Schäden oder Leiden zufügt, insbesondere sie foltert oder verstümmelt,
 
-4. eine nach dem humanitären Völkerrecht zu schützende Person sexuell nötigt oder vergewaltigt, sie zur Prostitution nötigt, der Fortpflanzungsfähigkeit beraubt oder in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen, eine unter Anwendung von Zwang geschwängerte Frau gefangen hält,
+4. einen sexuellen Übergriff auf eine nach dem humanitären Völkerrecht zu schützende Person begeht, sie sexuell nötigt oder vergewaltigt, sie zur Prostitution nötigt, sie sexuell versklavt, sie der Fortpflanzungsfähigkeit beraubt, eine nach dem humanitären Völkerrecht zu schützende und unter Anwendung von Zwang geschwängerte Person in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen oder Taten nach den §§ 6 bis 13 zu begehen, gefangen hält oder eine Schwangerschaft gegen oder ohne den Willen der schwangeren, nach dem humanitären Völkerrecht zu schützenden Person abbricht,
 
 5. Kinder unter 15 Jahren für Streitkräfte zwangsverpflichtet oder in Streitkräfte oder bewaffnete Gruppen eingliedert oder sie zur aktiven Teilnahme an Feindseligkeiten verwendet,
 
@@ -167,15 +167,15 @@ wird mit Freiheitsstrafe nicht unter drei Jahren bestraft. In minder schweren F�
 
 5. das Aushungern von Zivilpersonen als Methode der Kriegsführung einsetzt, indem er ihnen die für sie lebensnotwendigen Gegenstände vorenthält oder Hilfslieferungen unter Verstoß gegen das humanitäre Völkerrecht behindert,
 
-6. als Befehlshaber anordnet oder androht, dass kein Pardon gegeben wird, oder
+6. als Befehlshaber anordnet oder androht, dass kein Pardon gegeben wird,
 
-7. einen Angehörigen der gegnerischen Streitkräfte oder einen Kämpfer der gegnerischen Partei meuchlerisch tötet oder verwundet,
+7. einen Angehörigen der gegnerischen Streitkräfte oder einen Kämpfer der gegnerischen Partei meuchlerisch tötet oder verwundet, oder
+
+8. mit militärischen Mitteln einen Angriff durchführt und dabei als sicher erwartet, dass der Angriff weitreichende, langfristige und schwere Schäden an der natürlichen Umwelt verursachen wird, die außer Verhältnis zu dem insgesamt erwarteten konkreten und unmittelbaren militärischen Vorteil stehen,
 
 wird mit Freiheitsstrafe nicht unter drei Jahren bestraft. In minder schweren Fällen der Nummer 2 ist die Strafe Freiheitsstrafe nicht unter einem Jahr.
 
 (2) Verursacht der Täter durch eine Tat nach Absatz 1 Nr. 1 bis 6 den Tod oder die schwere Verletzung einer Zivilperson (§ 226 des Strafgesetzbuches) oder einer nach dem humanitären Völkerrecht zu schützenden Person, wird er mit Freiheitsstrafe nicht unter fünf Jahren bestraft. Führt der Täter den Tod vorsätzlich herbei, ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
-
-(3) Wer im Zusammenhang mit einem internationalen bewaffneten Konflikt mit militärischen Mitteln einen Angriff durchführt und dabei als sicher erwartet, dass der Angriff weit reichende, langfristige und schwere Schäden an der natürlichen Umwelt verursachen wird, die außer Verhältnis zu dem insgesamt erwarteten konkreten und unmittelbaren militärischen Vorteil stehen, wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.
 
 # § 12 – Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsführung
 
@@ -183,9 +183,13 @@ wird mit Freiheitsstrafe nicht unter drei Jahren bestraft. In minder schweren F�
 
 1. Gift oder vergiftete Waffen verwendet,
 
-2. biologische oder chemische Waffen verwendet oder
+2. biologische oder chemische Waffen verwendet,
 
 3. Geschosse verwendet, die sich leicht im Körper des Menschen ausdehnen oder flachdrücken, insbesondere Geschosse mit einem harten Mantel, der den Kern nicht ganz umschließt oder mit Einschnitten versehen ist,
+
+4. Waffen verwendet, deren Hauptwirkung darin besteht, durch Splitter zu verletzen, die im menschlichen Körper durch Röntgenstrahlen nicht entdeckt werden können, oder
+
+5. Laserwaffen verwendet, die eigens dazu entworfen sind, die dauerhafte Erblindung des unbewehrten Auges zu verursachen,
 
 wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.
 

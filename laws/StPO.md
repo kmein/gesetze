@@ -1138,7 +1138,7 @@ g) Verbreitung, Erwerb und Besitz kinder- und jugendpornographischer Inhalte nac
 
 h) Mord und Totschlag nach den §§ 211 und 212,
 
-i) Straftaten gegen die persönliche Freiheit nach den §§ 232, 232a Absatz 1 bis 5, den §§ 232b, 233 Absatz 2, den §§ 233a, 234, 234a, 239a und 239b,
+i) Straftaten gegen die persönliche Freiheit nach den §§ 232, 232a Absatz 1 bis 5, den §§ 232b, 233 Absatz 2, den §§ 233a, 234 bis 234b, 239a und 239b,
 
 j) Bandendiebstahl nach § 244 Abs. 1 Nr. 2, Wohnungseinbruchdiebstahl nach § 244 Absatz 4 und schwerer Bandendiebstahl nach § 244a,
 
@@ -5035,9 +5035,13 @@ Die Zurücknahme der Privatklage und der Tod des Privatklägers sowie die Fortse
 
 2. den §§ 211 und 212 des Strafgesetzbuches, die versucht wurde,
 
+2a. den §§ 6 bis 8, 11 und 12 des Völkerstrafgesetzbuches gegen das Leben, die versucht wurde, sofern auch hier ein unmittelbarer Zusammenhang zwischen der verfahrensgegenständlichen Tat und der Rechtsgutverletzung besteht,
+
 3. den §§ 221, 223 bis 226a und 340 des Strafgesetzbuches,
 
 4. den §§ 232 bis 238, 239 Absatz 3, §§ 239a, 239b und 240 Absatz 4 des Strafgesetzbuches,
+
+4a. den §§ 6 bis 8 und 10 bis 12 des Völkerstrafgesetzbuches in seinen Rechten auf körperliche Unversehrtheit, Freiheit oder auf religiöse, sexuelle oder reproduktive Selbstbestimmung oder als Kind in seinem Recht auf ungestörte körperliche und seelische Entwicklung, sofern auch hier ein unmittelbarer Zusammenhang zwischen der verfahrensgegenständlichen Tat und der Rechtsgutverletzung besteht,
 
 5. § 4 des Gewaltschutzgesetzes,
 
@@ -5079,13 +5083,15 @@ Die Zurücknahme der Privatklage und der Tod des Privatklägers sowie die Fortse
 
 1a. durch eine Straftat nach § 184j des Strafgesetzbuches verletzt ist und der Begehung dieser Straftat ein Verbrechen nach § 177 des Strafgesetzbuches oder ein besonders schwerer Fall eines Vergehens nach § 177 Absatz 6 des Strafgesetzbuches zugrunde liegt,
 
-2. durch eine versuchte rechtswidrige Tat nach den §§ 211 und 212 des Strafgesetzbuches verletzt oder Angehöriger eines durch eine rechtswidrige Tat Getöteten im Sinne des § 395 Absatz 2 Nummer 1 ist,
+2. durch eine versuchte rechtswidrige Tat nach den §§ 211 und 212 des Strafgesetzbuches oder, sofern auch hier ein unmittelbarer Zusammenhang zwischen der verfahrensgegenständlichen Tat und der Rechtsgutverletzung besteht, nach den §§ 6 bis 8, 11 sowie 12 des Völkerstrafgesetzbuches, die sich gegen das Leben richtet, verletzt ist oder wenn er Angehöriger eines durch eine rechtswidrige Tat Getöteten (§ 395 Absatz 2 Nummer 1) ist,
 
 3. durch ein Verbrechen nach den §§ 226, 226a, 234 bis 235, 238 bis 239b, 249, 250, 252, 255 und 316a des Strafgesetzbuches verletzt ist, das bei ihm zu schweren körperlichen oder seelischen Schäden geführt hat oder voraussichtlich führen wird,
 
-4. durch eine rechtswidrige Tat nach den §§ 174 bis 182, 184i bis 184k und 225 des Strafgesetzbuchs verletzt ist und er zur Zeit der Tat das 18. Lebensjahr noch nicht vollendet hatte oder seine Interessen selbst nicht ausreichend wahrnehmen kann oder
+4. durch eine rechtswidrige Tat nach den §§ 174 bis 182, 184i bis 184k und 225 des Strafgesetzbuchs verletzt ist und er zur Zeit der Tat das 18. Lebensjahr noch nicht vollendet hatte oder seine Interessen selbst nicht ausreichend wahrnehmen kann,
 
-5. durch eine rechtswidrige Tat nach den §§ 221, 226, 226a, 232 bis 235, 237, 238 Absatz 2 und 3, §§ 239a, 239b, 240 Absatz 4, §§ 249, 250, 252, 255 und 316a des Strafgesetzbuches verletzt ist und er bei Antragstellung das 18. Lebensjahr noch nicht vollendet hat oder seine Interessen selbst nicht ausreichend wahrnehmen kann.
+5. durch eine rechtswidrige Tat nach den §§ 221, 226, 226a, 232 bis 235, 237, 238 Absatz 2 und 3, §§ 239a, 239b, 240 Absatz 4, §§ 249, 250, 252, 255 und 316a des Strafgesetzbuches verletzt ist und er bei Antragstellung das 18. Lebensjahr noch nicht vollendet hat oder seine Interessen selbst nicht ausreichend wahrnehmen kann oder
+
+6. durch ein Verbrechen nach dem Völkerstrafgesetzbuch verletzt ist, das ihn nach § 395 Absatz 1 Nummer 4a zur Nebenklage berechtigt.
 
 (2) Liegen die Voraussetzungen für eine Bestellung nach Absatz 1 nicht vor, so ist dem Nebenkläger für die Hinzuziehung eines Rechtsanwalts auf Antrag Prozesskostenhilfe nach denselben Vorschriften wie in bürgerlichen Rechtsstreitigkeiten zu bewilligen, wenn er seine Interessen selbst nicht ausreichend wahrnehmen kann oder ihm dies nicht zuzumuten ist. § 114 Absatz 1 Satz 1 zweiter Halbsatz sowie Absatz 2 und § 121 Absatz 1 bis 3 der Zivilprozessordnung sind nicht anzuwenden.
 
@@ -5093,11 +5099,17 @@ Die Zurücknahme der Privatklage und der Tod des Privatklägers sowie die Fortse
 
 # § 397b – Gemeinschaftliche Nebenklagevertretung
 
-(1) Verfolgen mehrere Nebenkläger gleichgelagerte Interessen, so kann ihnen das Gericht einen gemeinschaftlichen Rechtsanwalt als Beistand bestellen oder beiordnen. Gleichgelagerte Interessen liegen in der Regel bei mehreren Angehörigen eines durch eine rechtswidrige Tat Getöteten im Sinne des § 395 Absatz 2 Nummer 1 vor.
+(1) Verfolgen mehrere Nebenkläger gleichgelagerte Interessen, so kann ihnen das Gericht einen gemeinschaftlichen Rechtsanwalt als Beistand bestellen oder beiordnen. Gleichgelagerte Interessen liegen in der Regel vor, wenn es sich
+
+1. bei den Nebenklägern um mehrere Angehörige desselben durch eine rechtswidrige Tat Getöteten (§ 395 Absatz 2 Nummer 1) handelt oder
+
+2. um mehrere Nebenkläger handelt, die Verletzte solcher Taten im Sinne des § 395 Absatz 1 Nummer 2a und 4a sind, denen der gleiche Lebenssachverhalt zugrunde liegt, wobei es dem Gericht unbenommen bleibt, zusätzliche sachnahe Kriterien im Einzelfall zu berücksichtigen.
 
 (2) Vor der Bestellung oder Beiordnung eines gemeinschaftlichen Rechtsanwalts soll den betroffenen Nebenklägern Gelegenheit gegeben werden, sich dazu zu äußern. Wird ein gemeinschaftlicher Rechtsanwalt nach Absatz 1 bestellt oder hinzugezogen, sind bereits erfolgte Bestellungen oder Beiordnungen aufzuheben.
 
 (3) Wird ein Rechtsanwalt nicht als Beistand bestellt oder nicht beigeordnet, weil nach Absatz 1 ein anderer Rechtsanwalt bestellt oder beigeordnet worden ist, so stellt das Gericht fest, ob die Voraussetzungen nach § 397a Absatz 3 Satz 2 in Bezug auf den nicht als Beistand bestellten oder nicht beigeordneten Rechtsanwalt vorgelegen hätten.
+
+(4) Die in § 397 Absatz 1 Satz 3 und 4 genannten Verfahrensrechte der Nebenkläger werden in den Fällen des Absatzes 1 Satz 2 Nummer 2 nur durch den bestellten oder beigeordneten Beistand ausgeübt, sofern es sich um Nebenkläger handelt, deren Befugnis zum Anschluss an die öffentliche Klage nur aufgrund des § 395 Absatz 1 Nummer 2a oder 4a begründet ist. Das Gericht kann dem Nebenkläger gestatten, sein Recht auf Abgabe von Erklärungen nach § 258 Absatz 1 in Verbindung mit § 397 Absatz 1 Satz 3 selbst auszuüben.
 
 # § 398 – Fortgang des Verfahrens bei Anschluss
 
@@ -5235,7 +5247,7 @@ Die Mitteilung erfolgt durch die Stelle, welche die Entscheidung gegenüber dem 
 
 (2) Die Grundsätze der psychosozialen Prozessbegleitung sowie die Anforderungen an die Qualifikation und die Vergütung des psychosozialen Prozessbegleiters richten sich nach dem Gesetz über die psychosoziale Prozessbegleitung im Strafverfahren vom 21. Dezember 2015 (BGBl. I S. 2525, 2529) in der jeweils geltenden Fassung.
 
-(3) Unter den in § 397a Absatz 1 Nummer 4 und 5 bezeichneten Voraussetzungen ist dem Verletzten auf seinen Antrag ein psychosozialer Prozessbegleiter beizuordnen. Unter den in § 397a Absatz 1 Nummer 1 bis 3 bezeichneten Voraussetzungen kann dem Verletzten auf seinen Antrag ein psychosozialer Prozessbegleiter beigeordnet werden, wenn die besondere Schutzbedürftigkeit des Verletzten dies erfordert. Die Beiordnung ist für den Verletzten kostenfrei. Für die Beiordnung gilt § 142 Absatz 5 Satz 1 und 3 entsprechend. Im Vorverfahren entscheidet das nach § 162 zuständige Gericht.
+(3) Unter den in § 397a Absatz 1 Nummer 4 bis 6 bezeichneten Voraussetzungen ist dem Verletzten auf seinen Antrag ein psychosozialer Prozessbegleiter beizuordnen. Unter den in § 397a Absatz 1 Nummer 1 bis 3 bezeichneten Voraussetzungen kann dem Verletzten auf seinen Antrag ein psychosozialer Prozessbegleiter beigeordnet werden, wenn die besondere Schutzbedürftigkeit des Verletzten dies erfordert. Die Beiordnung ist für den Verletzten kostenfrei. Für die Beiordnung gilt § 142 Absatz 5 Satz 1 und 3 entsprechend. Im Vorverfahren entscheidet das nach § 162 zuständige Gericht.
 
 (4) Einem nicht beigeordneten psychosozialen Prozessbegleiter kann die Anwesenheit bei einer Vernehmung des Verletzten untersagt werden, wenn dies den Untersuchungszweck gefährden könnte. Die Entscheidung trifft die die Vernehmung leitende Person; die Entscheidung ist nicht anfechtbar. Die Gründe einer Ablehnung sind aktenkundig zu machen.
 
@@ -5245,7 +5257,7 @@ Die Mitteilung erfolgt durch die Stelle, welche die Entscheidung gegenüber dem 
 
 (2) Der Rechtsanwalt des Nebenklagebefugten ist zur Anwesenheit in der Hauptverhandlung berechtigt; Absatz 1 Satz 3 gilt entsprechend. Er ist vom Termin der Hauptverhandlung zu benachrichtigen, wenn seine Wahl dem Gericht angezeigt oder er als Beistand bestellt wurde. Die Sätze 1 und 2 gelten bei richterlichen Vernehmungen und der Einnahme richterlichen Augenscheins entsprechend, es sei denn, dass die Anwesenheit oder die Benachrichtigung des Rechtsanwalts den Untersuchungszweck gefährden könnte. Nach richterlichen Vernehmungen ist dem Rechtsanwalt Gelegenheit zu geben, sich dazu zu erklären oder Fragen an die vernommene Person zu stellen. Ungeeignete oder nicht zur Sache gehörende Fragen oder Erklärungen können zurückgewiesen werden. § 241a gilt entsprechend.
 
-(3) § 397a gilt entsprechend für
+(3) Die §§ 397a und 397b gelten entsprechend für
 
 1. die Bestellung eines Rechtsanwalts und
 
