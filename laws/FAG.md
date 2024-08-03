@@ -14,16 +14,19 @@
 (2) Die im Folgenden genannten Beträge verändern die Anteile des Bundes, der Länder und Gemeinden nach Absatz 1:  
   
 
-| Kalenderjahr |           Bund            |       Länder        |           Gemeinden |
-|:-------------|:-------------------------:|:-------------------:|--------------------:|
-| 2020         | minus 20 533 717 472 Euro | 15 858 934 915 Euro |  4 674 782 557 Euro |
-| 2021         | minus 17 142 407 683 Euro | 12 988 407 683 Euro |  4 154 000 000 Euro |
-| 2022         | minus 15 008 682 590 Euro | 12 608 682 590 Euro |  2 400 000 000 Euro |
-| 2023         | minus 13 792 407 683 Euro | 11 392 407 683 Euro |  2 400 000 000 Euro |
-| 2024         | minus 10 980 407 683 Euro |  8 580 407 683 Euro |  2 400 000 000 Euro |
-| 2025         | minus 10 605 407 683 Euro |  8 205 407 683 Euro |  2 400 000 000 Euro |
-| 2026         | minus 10 605 407 683 Euro |  8 205 407 683 Euro |  2 400 000 000 Euro |
-| ab 2027      | minus 10 417 407 683 Euro |  8 017 407 683 Euro | 2 400 000 000 Euro. |
+| Kalenderjahr |           Bund            |       Länder        |      Gemeinden      |
+|:-------------|:-------------------------:|:-------------------:|:-------------------:|
+| 2020         | minus 20 533 717 472 Euro | 15 858 934 915 Euro | 4 674 782 557 Euro  |
+| 2021         | minus 17 142 407 683 Euro | 12 988 407 683 Euro | 4 154 000 000 Euro  |
+| 2022         | minus 15 008 682 590 Euro | 12 608 682 590 Euro | 2 400 000 000 Euro  |
+| 2023         | minus 13 792 407 683 Euro | 11 392 407 683 Euro | 2 400 000 000 Euro  |
+| 2024         | minus 12 480 407 683 Euro | 10 080 407 683 Euro | 2 400 000 000 Euro  |
+| 2025         | minus 11 305 407 683 Euro |  8 905 407 683 Euro | 2 400 000 000 Euro  |
+| 2026         | minus 11 305 407 683 Euro |  8 905 407 683 Euro | 2 400 000 000 Euro  |
+| 2027         | minus 11 117 407 683 Euro |  8 717 407 683 Euro | 2 400 000 000 Euro  |
+| 2028         | minus 11 117 407 683 Euro |  8 717 407 683 Euro | 2 400 000 000 Euro  |
+| 2029         | minus 11 017 407 683 Euro |  8 617 407 683 Euro | 2 400 000 000 Euro  |
+| ab 2030      | minus 10 417 407 683 Euro |  8 017 407 683 Euro | 2 400 000 000 Euro. |
 
 (2a) Zur finanziellen Beteiligung der Länder an der Bekämpfung der durch die Starkregenfälle und das Hochwasser im Juli 2021 verursachten Schäden und dem Wiederaufbau erhöhen sich die in Absatz 2 genannten Beträge für den Bund um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050; die in Absatz 2 genannten Beträge für die Länder verringern sich entsprechend um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050.
 
@@ -63,7 +66,7 @@ Der Verteilung der Umsatzsteuer unter den Ländern ist ein angemessener Ausgleic
 
 (1) Als Steuereinnahmen eines Landes gelten die ihm im Ausgleichsjahr zugeflossenen Einnahmen
 
-1. aus seinem Anteil an der Einkommensteuer und der Körperschaftsteuer;
+1. aus seinem Anteil an der Einkommensteuer, der Körperschaftsteuer und der Mindeststeuer;
 
 2. aus seinem Anteil an der Gewerbesteuerumlage nach § 6 des Gemeindefinanzreformgesetzes;
 
@@ -175,7 +178,7 @@ Die Verteilung der Umsatzsteuer und der Finanzkraftausgleich werden während des
 
 (1) Der Zahlungsverkehr wird während des Ausgleichsjahres in der Weise abgewickelt, dass die Ablieferung des Bundesanteils an der durch Landesfinanzbehörden verwalteten Umsatzsteuer um die Beträge erhöht oder ermäßigt wird, die nach der vorläufigen Bemessung der nach dem Verhältnis der Einwohnerzahlen der Länder verteilten Länderanteile an der Umsatzsteuer nach § 2 Satz 1 sowie der vorläufig erhobenen Abschläge und der vorläufig gewährten Zuschläge nach § 10 zu verrechnen sind. Soweit der Anspruch eines Landes aus diesen Verrechnungen durch den Bundesanteil an der Umsatzsteuer nicht voll gedeckt wird, überweist das Bundesministerium der Finanzen diesem Land den nicht gedeckten Teil des vorläufigen Ausgleichsanspruchs in monatlichen Teilbeträgen. Soweit die Verpflichtung eines Landes aus diesen Verrechnungen über dem Aufkommen der von Landesfinanzbehörden verwalteten Umsatzsteuer liegt, ist der darüber liegende Teil von dem Land dem Bundesministerium der Finanzen in monatlichen Teilbeträgen zu überweisen. Die für die Aufteilung des Umsatzsteueraufkommens auf Bund, Länder und Gemeinden in § 1 Absatz 2 genannten Beträge werden gesondert im Rahmen des Zahlungsverkehrs der Einfuhrumsatzsteuer nach Absatz 2 berücksichtigt; Entsprechendes gilt für unterjährige Gesetzesänderungen mit Auswirkungen auf die Umsatzsteueranteile nach § 1 Absatz 1 im laufenden Ausgleichsjahr.
 
-(2) Der Länderanteil an der durch Bundesfinanzbehörden verwalteten Einfuhrumsatzsteuer wird auf die Länder nach der Einwohnerzahl verteilt und in monatlichen Teilbeträgen überwiesen.
+(2) Der Länderanteil an der durch Bundesfinanzbehörden verwalteten Einfuhrumsatzsteuer wird auf die Länder nach der Einwohnerzahl verteilt und in monatlichen Teilbeträgen überwiesen. Im Ausgleichsjahr 2024 gilt ein Betrag von 1 750 000 000 Euro aus der in den Monaten Januar bis Juni überwiesenen Teilbetragssumme als Abschlagszahlung auf eine flüchtlingskostenbezogene Pro-Kopf-Pauschale.
 
 (3) Die Differenzen der vorläufigen Umsatzsteueranteile, Zuschläge und Abschläge nach § 13 zu den auf der Grundlage der tatsächlichen Entwicklung der Bemessungsgrundlagen bestimmten Umsatzsteueranteilen, Zuschlägen und Abschlägen des Ausgleichsjahres werden vierteljährlich vorläufig abgerechnet.
 

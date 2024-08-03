@@ -2997,6 +2997,12 @@ Verschleppung
 
  
 
+§ 234b
+
+Verschwindenlassen von Personen
+
+ 
+
 § 235
 
 Entziehung Minderjähriger
@@ -6804,7 +6810,7 @@ In besonders schweren Fällen des § 125 Abs. 1 ist die Strafe Freiheitsstrafe v
 
 4. eine gefährliche Körperverletzung (§ 224) oder eine schwere Körperverletzung (§ 226),
 
-5. eine Straftat gegen die persönliche Freiheit in den Fällen des § 232 Absatz 3 Satz 2, des § 232a Absatz 3, 4 oder 5, des § 232b Absatz 3 oder 4, des § 233a Absatz 3 oder 4, jeweils soweit es sich um Verbrechen handelt, der §§ 234, 234a, 239a oder 239b,
+5. eine Straftat gegen die persönliche Freiheit in den Fällen des § 232 Absatz 3 Satz 2, des § 232a Absatz 3, 4 oder 5, des § 232b Absatz 3 oder 4, des § 233a Absatz 3 oder 4, jeweils soweit es sich um Verbrechen handelt, der §§ 234 bis 234b, 239a oder 239b,
 
 6. einen Raub oder eine räuberische Erpressung (§§ 249 bis 251 oder 255),
 
@@ -7080,7 +7086,7 @@ Wer wissentlich ein dienstliches Schriftstück, das zur Bekanntmachung öffentli
 
 5. eines Mordes (§ 211) oder Totschlags (§ 212) oder eines Völkermordes (§ 6 des Völkerstrafgesetzbuches) oder eines Verbrechens gegen die Menschlichkeit (§ 7 des Völkerstrafgesetzbuches) oder eines Kriegsverbrechens (§§ 8, 9, 10, 11 oder 12 des Völkerstrafgesetzbuches) oder eines Verbrechens der Aggression (§ 13 des Völkerstrafgesetzbuches),
 
-6. einer Straftat gegen die persönliche Freiheit in den Fällen des § 232 Absatz 3 Satz 2, des § 232a Absatz 3, 4 oder 5, des § 232b Absatz 3 oder 4, des § 233a Absatz 3 oder 4, jeweils soweit es sich um Verbrechen handelt, der §§ 234, 234a, 239a oder 239b,
+6. einer Straftat gegen die persönliche Freiheit in den Fällen des § 232 Absatz 3 Satz 2, des § 232a Absatz 3, 4 oder 5, des § 232b Absatz 3 oder 4, des § 233a Absatz 3 oder 4, jeweils soweit es sich um Verbrechen handelt, der §§ 234 bis 234b, 239a oder 239b,
 
 7. eines Raubes oder einer räuberischen Erpressung (§§ 249 bis 251 oder 255) oder
 
@@ -8645,6 +8651,18 @@ In den Fällen der §§ 232, 232a Absatz 1 bis 5, der §§ 232b, 233 Absatz 1 bi
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 (3) Wer eine solche Tat vorbereitet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+
+# § 234b – Verschwindenlassen von Personen
+
+(1) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer als Amtsträger oder im Auftrag oder mit Billigung eines Staates
+
+1. eine Person entführt oder sonst ihrer körperlichen Freiheit beraubt, wobei im Weiteren die Auskunft über ihr Schicksal oder ihren Verbleib verweigert wird, oder
+
+2. das Schicksal oder den Verbleib einer Person verschleiert, die von einem Amtsträger oder im Auftrag oder mit Billigung eines Staates entführt oder sonst ihrer körperlichen Freiheit beraubt worden ist, oder die Auskunft darüber verweigert,
+
+und sie dadurch dem Schutz des Gesetzes entzieht.
+
+(2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 # § 235 – Entziehung Minderjähriger
 

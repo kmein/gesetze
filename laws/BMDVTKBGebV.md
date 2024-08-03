@@ -19,7 +19,7 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 5. Vertrauensdienstegesetz vom 18. Juli 2017 (BGBl. I S. 2745), das durch Artikel 2 des Gesetzes vom 18. Juli 2017 (BGBl. I S. 2745) geändert worden ist, in der jeweils geltenden Fassung,
 
-6. Telekommunikation-Telemedien-Datenschutz-Gesetz vom 23. Juni 2021 (BGBl. I S. 1982; 2022 I S. 1045), das durch Artikel 4 des Gesetzes vom 12. August 2021 (BGBl. I S. 3544) geändert worden ist, in der jeweils geltenden Fassung,
+6. Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz vom 23. Juni 2021 (BGBl. I S. 1982; 2022 I S. 1045), das zuletzt durch Artikel 8 des Gesetzes vom 6. Mai 2024 (BGBl. 2024 I Nr. 149) geändert worden ist,
 
 7. Amateurfunkgesetz vom 23. Juni 1997 (BGBl. I S. 1494), das zuletzt durch Artikel 53 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) geändert worden ist, in der jeweils geltenden Fassung,
 
@@ -53,7 +53,11 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 Für den Zeitaufwand von Verwaltungsbeschäftigten der Bundesnetzagentur und des Bundesamtes für Sicherheit in der Informationstechnik des mittleren, gehobenen und höheren Dienstes gelten die Stundensätze nach Anlage 1 Teil A Abschnitt 1 Nummer 1 der Allgemeinen Gebührenverordnung vom 11. Februar 2015 (BGBl. I S. 130), die zuletzt durch Artikel 1 der Verordnung vom 11. Februar 2021 (BGBl. I S. 204) geändert worden ist, in der jeweils geltenden Fassung.
 
-# § 6 – Inkrafttreten
+# § 6 – Übergangsvorschrift
+
+Abschnitt 1 Unterabschnitt 5 Nummer 5.8 bis 5.10 der Anlage ist auf alle dort genannten gebührenfähigen Leistungen anzuwenden, die ab dem 1. Dezember 2021 begonnen wurden.
+
+# § 7 – Inkrafttreten
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Dezember 2021 in Kraft. Die Gebührentatbestände der Anlage zu § 2 Absatz 1 Abschnitt 1 Unterabschnitt 1 Nummern 1.1.6, 1.1.7, 1.1.8 und 1.1.9, Unterabschnitt 5 Nummern 5.2, 5.3, 5.4, 5.6 und 5.15, Unterabschnitt 9 Nummer 9.1, Unterabschnitt 10 Nummer 10.1 sowie Abschnitt 2 Nummern 1, 2, 3 und 4 sind ab dem 5. Januar 2024 anwendbar.
 
@@ -99,7 +103,7 @@ Unterabschnitt 10
 Roaming
 
 Abschnitt 2  
-Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG)
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG)
 
 Abschnitt 3  
 Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (eIDAS-Verordnung) und Vertrauensdienstegesetz (VDG)
