@@ -1165,6 +1165,8 @@ An die Jugendämter werden zur Erfüllung ihrer Aufgaben nach dem Achten Buch So
 
 An die zuständige Meldebehörde werden zur Erfüllung ihrer Aufgaben in den Fällen des § 2 Absatz 1a und 2 Nummer 1 und 2 zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, unverzüglich nach der Unterbringung in einer Aufnahmeeinrichtung neben den Grundpersonalien die AZR-Nummer nur zum Zweck der eindeutigen Zuordnung, die gegenwärtige Anschrift im Bundesgebiet sowie Übermittlungssperren in einem automatisierten Verfahren übermittelt. Ebenso werden Änderungen dieser Daten übermittelt. Bei Änderung der gegenwärtigen Anschrift im Bundesgebiet ist auch die Anschrift vor Änderung zu übermitteln.
 
+(2) (weggefallen)
+
 # § 18f – Datenübermittlung an die Familienkasse Direktion der Bundesagentur für Arbeit
 
 (1) An die Familienkasse Direktion der Bundesagentur für Arbeit werden zur Erfüllung der Aufgaben nach Abschnitt X des Einkommensteuergesetzes und nach § 1 des Bundeskindergeldgesetzes in den Fällen, in denen bei einem Unionsbürger die Feststellung des Nichtbestehens oder des Verlustes des Rechts auf Einreise und Aufenthalt nach § 2 Absatz 4, § 5 Absatz 4 oder § 6 Absatz 1 des Freizügigkeitsgesetzes/EU gespeichert wird, die Grundpersonalien des Unionsbürgers, die Feststellung des Nichtbestehens oder des Verlustes des Rechts auf Einreise und Aufenthalt sowie die Daten nach § 3 Absatz 4 Nummer 1 in einem automatisierten Verfahren übermittelt.
