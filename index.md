@@ -3119,6 +3119,7 @@
 - [KfSachvG](laws/KfSachvG.md) Gesetz über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer für den Kraftfahrzeugverkehr
 - [KfSachvV](laws/KfSachvV.md) Verordnung zur Durchführung des Kraftfahrsachverständigengesetzes
 - [KfWV](laws/KfWV.md) Verordnung zur Anwendung von bankaufsichtsrechtlichen Vorschriften auf die Kreditanstalt für Wiederaufbau sowie zur Zuweisung der Aufsicht über die Einhaltung dieser Vorschriften an die Bundesanstalt für Finanzdienstleistungsaufsicht
+- [Kfz-EEV](laws/Kfz-EEV.md) Verordnung über die Erfassung von Kfz-Energieverbrauchsdaten und ihre Übermittlung an die Europäische Kommission 1
 - [KfzAbk GBR](laws/KfzAbk_GBR.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Vereinigten Königreichs Großbritannien und Nordirland über die steuerliche Behandlung von Straßenfahrzeugen im internationalen Verkehr
 - [KfzAbkGBRG](laws/KfzAbkGBRG.md) Gesetz zu dem Abkommen vom 5. November 1971 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Vereinigten Königreichs Großbritannien und Nordirland über die steuerliche Behandlung von Straßenfahrzeugen im internationalen Verkehr
 - [KfzAnmVerlG](laws/KfzAnmVerlG.md) Gesetz zur Verlängerung der Regelung über die Anmietung von Kraftfahrzeugen im Werkverkehr nach dem Einigungsvertrag
@@ -3495,7 +3496,7 @@
 - [LuftVODV 166](laws/LuftVODV_166.md) Hundertsechsundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Hamburg)
 - [LuftVODV 173](laws/LuftVODV_173.md) Hundertdreiundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Paderborn-Lippstadt)
 - [LuftVODV 174 2022](laws/LuftVODV_174_2022.md) Hundertvierundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Sylt)
-- [LuftVODV 176](laws/LuftVODV_176.md) Hundertsechsundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Kiel-Holtenau)
+- [LuftVODV 176 2024](laws/LuftVODV_176_2024.md) Hundertsechsundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flugplatz Kiel-Holtenau)
 - [LuftVODV 178](laws/LuftVODV_178.md) Hundertachtundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Sonderflughafen Oberpfaffenhofen)
 - [LuftVODV 179](laws/LuftVODV_179.md) Hundertneunundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Hannover)
 - [LuftVODV 180](laws/LuftVODV_180.md) Hundertachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Karlsruhe/Baden-Baden)
