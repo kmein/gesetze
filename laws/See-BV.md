@@ -3620,7 +3620,8 @@ Aufzählen der Arten von Schraubensicherungsmitteln (Kleber, Lack)
 
 # Anlage 6a – (zu § 42) Anforderungen an die Ausbildung in der Elektrofertigung und Metallbearbeitung
 
-(Fundstelle: BGBl. I 2021, 3268 - 3270)
+(Fundstelle: BGBl. I 2021, 3268 - 3270;  
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 Eine Ausbildung in der Elektrofertigung und Metallbearbeitung muss mindestens folgende Kenntnisse, Verständnisse und Fachkunde vermitteln:
 
