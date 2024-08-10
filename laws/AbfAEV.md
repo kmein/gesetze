@@ -121,7 +121,7 @@ Die Sachkunde des sonstigen Personals nach § 53 Absatz 2 Satz 2 und § 54 Absat
 
 (1) Zur elektronischen Erstattung der Anzeige stellen die Länder ein bundesweit einheitliches informationstechnisches System bereit, in dem
 
-1. der Vordruck nach Anlage 2 in elektronischer Form vorgehalten wird; das Feld "Unterschrift" im Vordruck nach Anlage 2 entfällt; und
+1. der Vordruck nach Anlage 2 in elektronischer Form vorgehalten wird; das Feld „Unterschrift” im Vordruck nach Anlage 2 entfällt; und
 
 2. die Möglichkeit geschaffen wird
 

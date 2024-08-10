@@ -31,41 +31,41 @@ Auf Grund des § 145 Absatz 4 in Verbindung mit Absatz 5 Satz 2, auch in Verbind
 
 1. nach § 141 Absatz 5 Satz 1 Nummer 2 des Versicherungsaufsichtsgesetzes folgenden Wortlaut:
 
-"Es wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 88 Absatz 3 VAG erlassenen Rechtsverordnung berechnet worden ist; für den Altbestand im Sinne des § 336 VAG und des Artikels 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden." und
+„Es wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 88 Absatz 3 VAG erlassenen Rechtsverordnung berechnet worden ist; für den Altbestand im Sinne des § 336 VAG und des Artikels 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden.” und
 
 2. nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 212 Absatz 3 Nummer 11 des Versicherungsaufsichtsgesetzes folgenden Wortlaut:
 
-"Es wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 217 Satz 1 Nummer 7 bis 10 VAG erlassenen Rechtsverordnung berechnet worden ist; für den Altbestand im Sinne des § 336 VAG und des Artikels 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden."
+„Es wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 217 Satz 1 Nummer 7 bis 10 VAG erlassenen Rechtsverordnung berechnet worden ist; für den Altbestand im Sinne des § 336 VAG und des Artikels 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden.”
 
 Ist kein Altbestand vorhanden, so lautet der zweite Halbsatz der versicherungsmathematischen Bestätigung stattdessen:  
-"Altbestand im Sinne des § 336 VAG und des Artikels 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG ist nicht vorhanden."
+„Altbestand im Sinne des § 336 VAG und des Artikels 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG ist nicht vorhanden.”
 
 (2) Bei Pensionskassen gemäß § 1 Absatz 1 Nummer 2 hat die versicherungsmathematische Bestätigung nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 234 Absatz 3 Satz 2 des Versicherungsaufsichtsgesetzes folgenden Wortlaut:  
-"Es wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 235 Absatz 1 Satz 1 Nummer 4 bis 7 VAG erlassenen Rechtsverordnung berechnet worden ist; für den Altbestand im Sinne des § 336 in Verbindung mit § 234 Absatz 6 Satz 1, auch in Verbindung mit § 233 Absatz 5 Satz 2, VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden."  
+„Es wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 235 Absatz 1 Satz 1 Nummer 4 bis 7 VAG erlassenen Rechtsverordnung berechnet worden ist; für den Altbestand im Sinne des § 336 in Verbindung mit § 234 Absatz 6 Satz 1, auch in Verbindung mit § 233 Absatz 5 Satz 2, VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden.”  
 Ist kein Altbestand vorhanden, so lautet der zweite Halbsatz der versicherungsmathematischen Bestätigung stattdessen:  
-"Altbestand im Sinne des § 336 in Verbindung mit § 234 Absatz 6 Satz 1, auch in Verbindung mit § 233 Absatz 5 Satz 2, VAG ist nicht vorhanden."
+„Altbestand im Sinne des § 336 in Verbindung mit § 234 Absatz 6 Satz 1, auch in Verbindung mit § 233 Absatz 5 Satz 2, VAG ist nicht vorhanden.”
 
 (3) Bei Pensionskassen gemäß § 1 Absatz 1 Nummer 3 hat die versicherungsmathematische Bestätigung nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 234 Absatz 3 Satz 2 des Versicherungsaufsichtsgesetzes folgenden Wortlaut:  
-"Es wird bestätigt, dass die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden ist; für den Bestand, bei dem die Verträge nach nicht genehmigten Tarifen abgeschlossen worden sind, wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 235 Absatz 1 Nummer 4 bis 7 VAG erlassenen Rechtsverordnung berechnet worden ist."  
+„Es wird bestätigt, dass die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden ist; für den Bestand, bei dem die Verträge nach nicht genehmigten Tarifen abgeschlossen worden sind, wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 235 Absatz 1 Nummer 4 bis 7 VAG erlassenen Rechtsverordnung berechnet worden ist.”  
 Ist kein Bestand vorhanden, bei dem die Verträge nach nicht genehmigten Tarifen abgeschlossen worden sind, entfällt der zweite Halbsatz der versicherungsmathematischen Bestätigung.
 
 (4) Bei Sterbekassen gemäß § 1 Absatz 1 Nummer 4 hat die versicherungsmathematische Bestätigung nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 219 Absatz 3 Nummer 3 des Versicherungsaufsichtsgesetzes folgenden Wortlaut:  
-"Es wird bestätigt, dass die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden ist."
+„Es wird bestätigt, dass die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden ist.”
 
 (5) Bei Versicherungsunternehmen gemäß § 1 Absatz 1 Nummer 5 und 6 hat die versicherungsmathematische Bestätigung
 
 1. nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 161 Absatz 1 und § 162 des Versicherungsaufsichtsgesetzes folgenden Wortlaut:
 
-"Es wird bestätigt, dass die in der Bilanz unter Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung von § 341f und § 341g HGB sowie unter Beachtung der auf Grund des § 88 Absatz 3 VAG erlassenen Rechtsverordnung berechnet worden ist." und
+„Es wird bestätigt, dass die in der Bilanz unter Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung von § 341f und § 341g HGB sowie unter Beachtung der auf Grund des § 88 Absatz 3 VAG erlassenen Rechtsverordnung berechnet worden ist.” und
 
 2. nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 161 Absatz 1, § 162 und § 212 Absatz 3 Nummer 11 des Versicherungsaufsichtsgesetzes folgenden Wortlaut:
 
-"Es wird bestätigt, dass die in der Bilanz unter Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung von § 341f und § 341g HGB sowie unter Beachtung der auf Grund des § 217 Satz 1 Nummer 7 bis 10 VAG erlassenen Rechtsverordnung berechnet worden ist."
+„Es wird bestätigt, dass die in der Bilanz unter Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung von § 341f und § 341g HGB sowie unter Beachtung der auf Grund des § 217 Satz 1 Nummer 7 bis 10 VAG erlassenen Rechtsverordnung berechnet worden ist.”
 
 Bei Versicherungsunternehmen gemäß § 1 Absatz 1 Nummer 5 ist folgender Halbsatz in der versicherungsmathematischen Bestätigung zu ergänzen:  
-"für den Altbestand im Sinne des § 336 VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden."  
+„für den Altbestand im Sinne des § 336 VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden.”  
 Ist kein Altbestand vorhanden, so lautet dieser Halbsatz stattdessen:  
-"Altbestand im Sinne des § 336 VAG ist nicht vorhanden."
+„Altbestand im Sinne des § 336 VAG ist nicht vorhanden.”
 
 (+++ § 2: Zur Nichtanwendung vgl. § 1 Abs. 2 +++)  
 (+++ § 2: Zur Anwendung vgl. § 1 Abs. 3 +++)  
