@@ -13,7 +13,7 @@ Die Münze wird ab dem 1. Februar 2008 in den Verkehr gebracht. Materialeinsatz 
 
 Die nationale Seite der Gedenkmünze zeigt die Hamburger Michaeliskirche. Die Länderbezeichnung „Hamburg“ verknüpft das abgebildete Bauwerk „Michel“ mit dem Bundesland. Auf der Randzone sind unverändert die europäischen Sterne, das Ausgabejahr 2008 und das Ausgabeland „BUNDESREPUBLIK DEUTSCHLAND“ zu sehen.
 
-Das Münzzeichen der jeweiligen Prägestätte („A“, „D“, „F“, „G“, „J“) und die Initialen des Graveurs "OE"befinden sich im rechten oberen Kernbereich.
+Das Münzzeichen der jeweiligen Prägestätte („A“, „D“, „F“, „G“, „J“) und die Initialen des Graveurs „OE” befinden sich im rechten oberen Kernbereich.
 
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von Herrn Erich Ott aus München.
 

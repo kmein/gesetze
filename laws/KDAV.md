@@ -63,15 +63,15 @@ Abweichend von Satz 1 kann auf eine der folgenden Angaben verzichtet werden:
 
 Liegt das Geburtsdatum vor, so kann neben der Angabe nach Absatz 1 Satz 2 zusätzlich auf die Angabe des Vornamens oder des Nachnamens oder der Straße und der Hausnummer oder des Postfachs verzichtet werden. Liegt die Angabe des Geburtszeitraums von höchstens 20 Jahren vor, so kann neben der Angabe nach Absatz 1 Satz 2 zusätzlich auf die Angabe des Vornamens, des Nachnamens oder der Hausnummer verzichtet werden.
 
-(3) Unbekannte Zeichen in den Angaben zum Personen-, Straßen- oder Ortsnamen nach Absatz 1 können durch die Platzhalter "?", "\[ \]" oder "\*" ersetzt werden. Dabei steht
+(3) Unbekannte Zeichen in den Angaben zum Personen-, Straßen- oder Ortsnamen nach Absatz 1 können durch die Platzhalter „?” , „\[ \]” oder „\*” ersetzt werden. Dabei steht
 
-1. "?" für genau ein beliebiges Zeichen,
+1. „?” für genau ein beliebiges Zeichen,
 
-2. "\[ \]" für genau eines der in der Klammer vorgegebenen Zeichen und
+2. „\[ \]” für genau eines der in der Klammer vorgegebenen Zeichen und
 
-3. "\*" für beliebig viele Zeichen.
+3. „\*” für beliebig viele Zeichen.
 
-Die Platzhalter dürfen in einer Angabe nicht als einziges Zeichen gesetzt werden. In einem Ersuchen dürfen die Platzhalter "?" oder „\*“ jeweils einmal in unterschiedlichen Angaben verwendet werden. Der Platzhalter "\[ \]" darf in einer Angabe mehrfach verwendet werden. Der Platzhalter "\*" darf nicht am Anfang einer der in Satz 1 genannten Angaben eingesetzt werden.
+Die Platzhalter dürfen in einer Angabe nicht als einziges Zeichen gesetzt werden. In einem Ersuchen dürfen die Platzhalter „?” oder „\*“ jeweils einmal in unterschiedlichen Angaben verwendet werden. Der Platzhalter „\[ \]” darf in einer Angabe mehrfach verwendet werden. Der Platzhalter „\*” darf nicht am Anfang einer der in Satz 1 genannten Angaben eingesetzt werden.
 
 (4) Eine phonetische Suche kann bei unterschiedlichen Schreibweisen der Angaben zum Personen-, Straßen- oder Ortsnamen nach Absatz 1 verwendet werden. Dabei werden mittels eines sprachwissenschaftlich anerkannten Verfahrens diese Angaben in die Suche und das Suchergebnis mit einbezogen, soweit sie eine phonetische Ähnlichkeit zum gesuchten Begriff aufweisen. Die Bundesnetzagentur legt in der Technischen Richtlinie das sprachwissenschaftliche Verfahren fest, das für die deutsche Sprache am besten geeignet ist. Es ist von allen Verpflichteten gleichermaßen anzuwenden.
 

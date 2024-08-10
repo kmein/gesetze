@@ -4767,7 +4767,7 @@ Die Aufenthaltserlaubnis nach Satz 1 soll versagt werden, wenn der Ausländer wi
 
 # § 105 – Übergangsregelung zur Duldung für Personen mit ungeklärter Identität
 
-(1) Die Ausländerbehörde entscheidet bei geduldeten Ausländern über die Ausstellung einer Bescheinigung über die Duldung nach § 60a Absatz 4 mit dem Zusatz für Personen mit ungeklärter Identität frühestens aus Anlass der Prüfung einer Verlängerung der Duldung oder der Erteilung der Duldung aus einem anderen Grund.
+(1) Die Ausländerbehörde entscheidet bei geduldeten Ausländern über die Ausstellung einer Bescheinigung über die Duldung nach § 60a Absatz 4 mit dem Zusatz „für Personen mit ungeklärter Identität” frühestens aus Anlass der Prüfung einer Verlängerung der Duldung oder der Erteilung der Duldung aus einem anderen Grund.
 
 (2) Auf geduldete Ausländer findet § 60b bis zum 1. Juli 2020 keine Anwendung, wenn sie sich in einem Ausbildungs- oder Beschäftigungsverhältnis befinden.
 

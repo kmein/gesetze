@@ -15033,7 +15033,7 @@ Die Einstufung eines L3e-Fahrzeugs als Unterklasse je nachdem, ob seine bauartbe
 
 Klasse T:
 
-alle Zugmaschinen auf Rädern; jeder Klasse von Zugmaschinen auf Rädern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt:
+alle Zugmaschinen auf Rädern; jeder Klasse von Zugmaschinen auf Rädern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index „a” oder „b” hinzugefügt:
 
  
 
@@ -15041,7 +15041,7 @@ alle Zugmaschinen auf Rädern; jeder Klasse von Zugmaschinen auf Rädern wird je
 
 a)
 
-a für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h,
+„a” für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h,
 
  
 
@@ -15049,7 +15049,7 @@ a für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit
 
 b)
 
-b für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
+„b” für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
 
  
 
@@ -15106,7 +15106,7 @@ Zugmaschinen auf Gleisketten, die über die Gleisketten oder über eine Kombinat
 
 Klasse R:
 
-Anhänger; jeder Klasse von Anhängern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt:
+Anhänger; jeder Klasse von Anhängern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index „a” oder „b” hinzugefügt:
 
  
 
@@ -15114,7 +15114,7 @@ Anhänger; jeder Klasse von Anhängern wird je nach ihrer Auslegungsgeschwindigk
 
 a)
 
-a für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h,
+„a” für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h,
 
  
 
@@ -15122,7 +15122,7 @@ a für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit von höchstens
 
 b)
 
-b für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
+„b” für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
 
  
 
@@ -15158,7 +15158,7 @@ gezogene auswechselbare Geräte.
 
  
 
-Jeder Klasse von gezogenen auswechselbaren Geräten wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt:
+Jeder Klasse von gezogenen auswechselbaren Geräten wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index „a” oder „b” hinzugefügt:
 
  
 
@@ -15166,7 +15166,7 @@ Jeder Klasse von gezogenen auswechselbaren Geräten wird je nach ihrer Auslegung
 
 a)
 
-a für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h,
+„a” für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h,
 
  
 
@@ -15174,7 +15174,7 @@ a für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwin
 
 b)
 
-b für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
+„b” für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
 
  
 
