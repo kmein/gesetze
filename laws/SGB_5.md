@@ -12583,9 +12583,9 @@ Wird die Telematikinfrastruktur zur Erteilung von Auskunft aus dem Zentralen Vor
 
 1. an das Forschungsdatenzentrum die pseudonymisierten und verschlüsselten Daten samt Arbeitsnummer,
 
-2. an die Vertrauensstellen nach § 303c das Lieferpseudonym zu den nach Absatz 2 übermittelten Daten und die entsprechende Arbeitsnummer.
+2. an die Vertrauensstellen nach § 303c das Lieferpseudonym zu den zu übermittelnden Daten und die entsprechende Arbeitsnummer.
 
-Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende Pseudonyme und übermittelt dem Forschungsdatenzentrum die periodenübergreifenden Pseudonyme mit den dazugehörigen Arbeitsnummern. Mit dem periodenübergreifenden Pseudonym und der bereits übersandten Arbeitsnummer verknüpft das Forschungsdatenzentrum die freigegebenen Daten mit den im Forschungsdatenzentrum vorliegenden Daten vorheriger Übermittlungen.
+Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende Pseudonyme und übermittelt dem Forschungsdatenzentrum die periodenübergreifenden Pseudonyme mit den dazugehörigen Arbeitsnummern. Mit dem periodenübergreifenden Pseudonym und der bereits übersandten Arbeitsnummer verknüpft das Forschungsdatenzentrum die nach Absatz 2 übermittelten Daten mit den im Forschungsdatenzentrum vorliegenden Daten vorheriger Übermittlungen.
 
 (4) Die an das Forschungsdatenzentrum übermittelten Daten dürfen von diesem für die Erfüllung seiner Aufgaben verarbeitet und auf Antrag den Nutzungsberechtigten nach § 303e Absatz 1 bereitgestellt werden. § 303a Absatz 3, § 303c Absatz 1 und 2, die §§ 303d, 303e Absatz 3 bis 6 sowie § 303f gelten entsprechend.
 
