@@ -6141,7 +6141,6 @@
 - [WasSiG§13V](laws/WasSiG§13V.md) Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen nach § 13 des Wassersicherstellungsgesetzes
 - [WasSkiV 1990](laws/WasSkiV_1990.md) Verordnung über das Wasserskilaufen auf den Binnenschiffahrtsstraßen
 - [WassLÜbk](laws/WassLÜbk.md) Übereinkommen zum Schutz und zur Nutzung grenzüberschreitender Wasserläufe und internationaler Seen
-- [WassLÜbkÄndG](laws/WassLÜbkÄndG.md) Gesetz zur Änderung des Übereinkommen vom 17. März 1992 zum Schutz und zur Nutzung grenzüberschreitender Wasserläufe und internationaler Seen
 - [WAStAÜStVtr](laws/WAStAÜStVtr.md) Staatsvertrag über den Übergang der Aufgaben der Deutschen Dienststelle für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen Deutschen Wehrmacht
 - [WAStAÜStVtrG](laws/WAStAÜStVtrG.md) Gesetz zum Staatsvertrag über den Übergang der Aufgaben der Deutschen Dienststelle für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht (WASt)
 - [WaStrAbG](laws/WaStrAbG.md) Bundeswasserstraßenausbaugesetz
