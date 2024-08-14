@@ -61,7 +61,7 @@ Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum „1. 1.
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Jahr</th><th style="text-align: center;">Umrechnungswert</th><th style="text-align: center;">vorläufiger<br />
-Umrechnungswert</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">„2015</td><td style="text-align: center;">1,1502</td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;">2017</td><td style="text-align: center;"> </td><td style="text-align: center;">1,1193”.</td></tr></tbody></table>
+Umrechnungswert</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">„2015</td><td style="text-align: center;">1,1502</td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;">2017</td><td style="text-align: center;"> </td><td style="text-align: center;">1,1193”</td></tr></tbody></table>
 
 # § 6 – Inkrafttreten
 

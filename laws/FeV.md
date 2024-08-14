@@ -6472,8 +6472,6 @@ ADR i. V. m. § 37 Absatz 1 Nummer 21 Buchstabe a<br />
 GGVSEB</td></tr><tr class="odd"><td style="text-align: left;">3.6.3</td><td>Als Beförderer und in der Funktion als Halter des Fahrzeugs entgegen § 19 Absatz 2 Nummer 15 GGVSEB dem Fahrzeugführer die erforderliche Ausrüstung zur Durchführung der Ladungssicherung nicht übergeben</td><td style="text-align: left;">Unterabschnitt 7.5.7.1<br />
 ADR i. V. m. § 37 Absatz 1 Nummer 6 Buchstabe o GGVSEB</td></tr></tbody></table>
 
-.
-
 # Anlage 14 – (zu § 66 Absatz 2)Voraussetzungen für die amtliche Anerkennung als Träger von Begutachtungsstellen für Fahreignung
 
 (Fundstelle: BGBl. I 2014, 368 – 369; bzgl. einzelner Änderungen vgl. Fußnote)

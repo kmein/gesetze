@@ -60,9 +60,9 @@ Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum „1. 1.
 
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:
 
-| Jahr | Umrechnungswert |
-|:----:|:---------------:|
-| 2018 |     1,1339.     |
+| Jahr  | Umrechnungswert |
+|:-----:|:---------------:|
+| „2018 |     1,1339“     |
 
 # § 6 – Inkrafttreten
 
