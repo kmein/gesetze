@@ -1949,7 +1949,7 @@ Quecksilberfulminat, trocken oder mit weniger als 20 Masse-% Wasser oder mit ein
 0257,<br />
 0367</td></tr><tr class="even"><td style="text-align: left;">Zünder, sprengkräftig, mit Sicherungsvorrichtungen</td><td style="text-align: left;">0408,<br />
 0409,<br />
-0410</td></tr><tr class="odd"><td style="text-align: left;">sonstige sprengkräftige Kriegswaffen nach der Anlage (Kriegswaffenliste) zum Gesetz über die Kontrolle von Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990 (BGBl. I S. 2506), das zuletzt durch Artikel 30 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung<span id="FnR.FnA1-F797933_04"></span><a href="#FnA1-F797933_04" class="FnR">2</a></sup> .</td><td style="text-align: left;"> </td></tr></tbody></table>
+0410</td></tr><tr class="odd"><td style="text-align: left;">sonstige sprengkräftige Kriegswaffen nach der Anlage (Kriegswaffenliste) zum Gesetz über die Kontrolle von Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990 (BGBl. I S. 2506), das zuletzt durch Artikel 30 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung<span id="FnR.FnA1-F797933_04"></span><a href="#FnA1-F797933_04" class="FnR">2</a></sup></td><td style="text-align: left;"> </td></tr></tbody></table>
 
 <span id="FnA1-F797933_04"></span><a href="#FnR.FnA1-F797933_04" class="Footnote">2</a>  
 Zur Zeit Kriegswaffenliste Nummern 37 und 40 bis 60.
