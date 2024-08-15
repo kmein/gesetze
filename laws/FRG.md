@@ -285,7 +285,7 @@ Vom 1. Januar 1992 an sind Anrechnungszeiten auch Zeiten, in denen Versicherungs
 
 (4) Die nach den Absätzen 1 und 3 maßgeblichen Entgeltpunkte werden mit dem Faktor 0,6 vervielfältigt.
 
-§ 22 Abs. 4: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 13.6.2006 I 1704 - 1 BvL 9/00, 1 BvL 11/00, 1 BvL 12/00, 1 BvL 5/01 und 1 BvL 10/04 -
+§ 22 Abs. 4: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 13.6.2006 I 1704 - 1 BvL 9/00, 1 BvL 11/00, 1 BvL 12/00, 1 BvL 5/01 und 1 BvL 10/04 -. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 20.4.2007 I 554 mWv 1.10.1996
 
 # § 22a
 

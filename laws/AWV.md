@@ -4836,8 +4836,6 @@ Siehe auch „Luftfahrzeug“.
 
 Waren pflanzlichen Ursprungs
 
-Anlage 1 TEIL I Buchst. A Ziff. 0001 Anm. Buchst. d Techn. Anm. Satz 1 unterstrichen und Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "unbruachbar" durch das Wort "unbrauchbar" ersetzt
-
 # Anlage 2 – (weggefallen)
 
 # Anlage 3 – Vermögen von Inländern im Ausland
