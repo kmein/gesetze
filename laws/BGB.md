@@ -17,7 +17,7 @@ Die Volljährigkeit tritt mit der Vollendung des 18. Lebensjahres ein.
 
 # § 7 – Wohnsitz; Begründung und Aufhebung
 
-(1) Wer sich an einem Orte ständig niederlässt, begründet an diesem Ort seinen Wohnsitz.
+(1) Wer sich an einem Orte ständig niederlässt, begründet an diesem Orte seinen Wohnsitz.
 
 (2) Der Wohnsitz kann gleichzeitig an mehreren Orten bestehen.
 
@@ -693,7 +693,7 @@ Bestandteile einer Sache, die voneinander nicht getrennt werden können, ohne da
 
 (1) Zu den Bestandteilen eines Grundstücks gehören solche Sachen nicht, die nur zu einem vorübergehenden Zweck mit dem Grund und Boden verbunden sind. Das Gleiche gilt von einem Gebäude oder anderen Werk, das in Ausübung eines Rechts an einem fremden Grundstück von dem Berechtigten mit dem Grundstück verbunden worden ist.
 
-(2) Sachen, die nur zu einem vorübergehenden Zweck in ein Gebäude eingefügt sind, gehören nicht zu den Bestandteilen des Gebäudes.
+(2) Sachen, die nur zu einem vorübergehenden Zwecke in ein Gebäude eingefügt sind, gehören nicht zu den Bestandteilen des Gebäudes.
 
 # § 96 – Rechte als Bestandteile eines Grundstücks
 
@@ -1590,7 +1590,7 @@ Wer durch Hinterlegung von Geld oder von Wertpapieren Sicherheit geleistet hat, 
 
 # § 236 – Buchforderungen
 
-Mit einer Schuldbuchforderung gegen den Bund oder ein Land kann Sicherheit nur in Höhe von drei Vierteln des Kurswerts der Wertpapiere geleistet werden, deren Aushändigung der Gläubiger gegen Löschung seiner Forderung verlangen kann.
+Mit einer Schuldbuchforderung gegen den Bund oder gegen ein Land kann Sicherheit nur in Höhe von drei Vierteln des Kurswerts der Wertpapiere geleistet werden, deren Aushändigung der Gläubiger gegen Löschung seiner Forderung verlangen kann.
 
 # § 237 – Bewegliche Sachen
 
@@ -1786,9 +1786,9 @@ Der Schuldner ist zu Teilleistungen nicht berechtigt.
 
 # § 269 – Leistungsort
 
-(1) Ist ein Ort für die Leistung weder bestimmt noch aus den Umständen, insbesondere aus der Natur des Schuldverhältnisses, zu entnehmen, so hat die Leistung an dem Ort zu erfolgen, an welchem der Schuldner zur Zeit der Entstehung des Schuldverhältnisses seinen Wohnsitz hatte.
+(1) Ist ein Ort für die Leistung weder bestimmt noch aus den Umständen, insbesondere aus der Natur des Schuldverhältnisses, zu entnehmen, so hat die Leistung an dem Orte zu erfolgen, an welchem der Schuldner zur Zeit der Entstehung des Schuldverhältnisses seinen Wohnsitz hatte.
 
-(2) Ist die Verbindlichkeit im Gewerbebetrieb des Schuldners entstanden, so tritt, wenn der Schuldner seine gewerbliche Niederlassung an einem anderen Ort hatte, der Ort der Niederlassung an die Stelle des Wohnsitzes.
+(2) Ist die Verbindlichkeit im Gewerbebetrieb des Schuldners entstanden, so tritt, wenn der Schuldner seine gewerbliche Niederlassung an einem anderen Orte hatte, der Ort der Niederlassung an die Stelle des Wohnsitzes.
 
 (3) Aus dem Umstand allein, dass der Schuldner die Kosten der Versendung übernommen hat, ist nicht zu entnehmen, dass der Ort, nach welchem die Versendung zu erfolgen hat, der Leistungsort sein soll.
 
@@ -1796,7 +1796,7 @@ Der Schuldner ist zu Teilleistungen nicht berechtigt.
 
 (1) Geld hat der Schuldner im Zweifel auf seine Gefahr und seine Kosten dem Gläubiger an dessen Wohnsitz zu übermitteln.
 
-(2) Ist die Forderung im Gewerbebetrieb des Gläubigers entstanden, so tritt, wenn der Gläubiger seine gewerbliche Niederlassung an einem anderen Ort hat, der Ort der Niederlassung an die Stelle des Wohnsitzes.
+(2) Ist die Forderung im Gewerbebetrieb des Gläubigers entstanden, so tritt, wenn der Gläubiger seine gewerbliche Niederlassung an einem anderen Orte hat, der Ort der Niederlassung an die Stelle des Wohnsitzes.
 
 (3) Erhöhen sich infolge einer nach der Entstehung des Schuldverhältnisses eintretenden Änderung des Wohnsitzes oder der gewerblichen Niederlassung des Gläubigers die Kosten oder die Gefahr der Übermittlung, so hat der Gläubiger im ersteren Falle die Mehrkosten, im letzteren Falle die Gefahr zu tragen.
 
@@ -2046,7 +2046,7 @@ Der Schuldner kann im Falle des Verzugs des Gläubigers Ersatz der Mehraufwendun
 
 (2) Allgemeine Geschäftsbedingungen werden nur dann Bestandteil eines Vertrags, wenn der Verwender bei Vertragsschluss
 
-1. die andere Vertragspartei ausdrücklich oder, wenn ein ausdrücklicher Hinweis wegen der Art des Vertragsschlusses nur unter unverhältnismäßigen Schwierigkeiten möglich ist, durch deutlich sichtbaren Aushang am Ort des Vertragsschlusses auf sie hinweist und
+1. die andere Vertragspartei ausdrücklich oder, wenn ein ausdrücklicher Hinweis wegen der Art des Vertragsschlusses nur unter unverhältnismäßigen Schwierigkeiten möglich ist, durch deutlich sichtbaren Aushang am Orte des Vertragsschlusses auf sie hinweist und
 
 2. der anderen Vertragspartei die Möglichkeit verschafft, in zumutbarer Weise, die auch eine für den Verwender erkennbare körperliche Behinderung der anderen Vertragspartei angemessen berücksichtigt, von ihrem Inhalt Kenntnis zu nehmen,
 
@@ -3263,7 +3263,7 @@ Der Rücktritt wegen Nichterfüllung einer Verbindlichkeit wird unwirksam, wenn 
 
 # § 353 – Rücktritt gegen Reugeld
 
-Ist der Rücktritt gegen Zahlung eines Reugeldes vorbehalten, so ist der Rücktritt unwirksam, wenn das Reugeld nicht vor oder bei der Erklärung entrichtet wird und der andere Teil aus diesem Grunde die Erklärung unverzüglich zurückweist. Die Erklärung ist jedoch wirksam, wenn das Reugeld unverzüglich nach der Zurückweisung entrichtet wird.
+Ist der Rücktritt gegen Zahlung eines Reugelds vorbehalten, so ist der Rücktritt unwirksam, wenn das Reugeld nicht vor oder bei der Erklärung entrichtet wird und der andere Teil aus diesem Grunde die Erklärung unverzüglich zurückweist. Die Erklärung ist jedoch wirksam, wenn das Reugeld unverzüglich nach der Zurückweisung entrichtet wird.
 
 # § 354 – Verwirkungsklausel
 
@@ -3469,7 +3469,7 @@ Ist die Rückgewähr der bis zum Widerruf erbrachten Leistung ihrer Natur nach a
 
 (1) Das Schuldverhältnis erlischt, wenn die geschuldete Leistung an den Gläubiger bewirkt wird.
 
-(2) Wird an einen Dritten zum Zwecke der Erfüllung geleistet, so finden die Vorschriften des § 185 Anwendung.
+(2) Wird an einen Dritten zum Zwecke der Erfüllung geleistet, so findet die Vorschrift des § 185 Anwendung.
 
 # § 363 – Beweislast bei Annahme als Erfüllung
 
@@ -3697,7 +3697,7 @@ Der Schuldner kann eine ihm gegen den bisherigen Gläubiger zustehende Forderung
 
 # § 408 – Mehrfache Abtretung
 
-(1) Wird eine abgetretene Forderung von dem bisherigen Gläubiger nochmals an einen Dritten abgetreten, so finden, wenn der Schuldner an den Dritten leistet oder wenn zwischen dem Schuldner und dem Dritten ein Rechtsgeschäft vorgenommen oder ein Rechtsstreit anhängig wird, zugunsten des Schuldners die Vorschriften des § 407 dem früheren Erwerber gegenüber entsprechende Anwendung.
+(1) Wird eine abgetretene Forderung von dem bisherigen Gläubiger nochmals an einen Dritten abgetreten, so findet, wenn der Schuldner an den Dritten leistet oder wenn zwischen dem Schuldner und dem Dritten ein Rechtsgeschäft vorgenommen oder ein Rechtsstreit anhängig wird, zugunsten des Schuldners die Vorschrift des § 407 dem früheren Erwerber gegenüber entsprechende Anwendung.
 
 (2) Das Gleiche gilt, wenn die bereits abgetretene Forderung durch gerichtlichen Beschluss einem Dritten überwiesen wird oder wenn der bisherige Gläubiger dem Dritten gegenüber anerkennt, dass die bereits abgetretene Forderung kraft Gesetzes auf den Dritten übergegangen sei.
 
@@ -6152,7 +6152,7 @@ Ist der Pächter berufsunfähig im Sinne der Vorschriften der gesetzlichen Rente
 
 (1) Die außerordentliche fristlose Kündigung des Pachtverhältnisses ist in entsprechender Anwendung der §§ 543, 569 Abs. 1 und 2 zulässig.
 
-(2) Abweichend von § 543 Abs. 2 Nr. 3 Buchstabe a und b liegt ein wichtiger Grund insbesondere vor, wenn der Pächter mit der Entrichtung der Pacht oder eines nicht unerheblichen Teils der Pacht länger als drei Monate in Verzug ist. Ist die Pacht nach Zeitabschnitten von weniger als einem Jahr bemessen, so ist die Kündigung erst zulässig, wenn der Pächter für zwei aufeinander folgende Termine mit der Entrichtung der Pacht oder eines nicht unerheblichen Teils der Pacht in Verzug ist.
+(2) Abweichend von § 543 Abs. 2 Nr. 3 Buchstaben a und b liegt ein wichtiger Grund insbesondere vor, wenn der Pächter mit der Entrichtung der Pacht oder eines nicht unerheblichen Teils der Pacht länger als drei Monate in Verzug ist. Ist die Pacht nach Zeitabschnitten von weniger als einem Jahr bemessen, so ist die Kündigung erst zulässig, wenn der Pächter für zwei aufeinander folgende Termine mit der Entrichtung der Pacht oder eines nicht unerheblichen Teils der Pacht in Verzug ist.
 
 # § 594f – Schriftform der Kündigung
 
@@ -6614,7 +6614,7 @@ Ist das Werk mangelhaft, kann der Besteller, wenn die Voraussetzungen der folgen
 
 (2) Die Verjährung beginnt in den Fällen des Absatzes 1 Nr. 1 und 2 mit der Abnahme.
 
-(3) Abweichend von Absatz 1 Nr. 1 und 2 und Absatz 2 verjähren die Ansprüche in der regelmäßigen Verjährungsfrist, wenn der Unternehmer den Mangel arglistig verschwiegen hat. Im Fall des Absatzes 1 Nr. 2 tritt die Verjährung jedoch nicht vor Ablauf der dort bestimmten Frist ein.
+(3) Abweichend von Absatz 1 Nr. 1 und 2 und Absatz 2 verjähren die Ansprüche in der regelmäßigen Verjährungsfrist, wenn der Unternehmer den Mangel arglistig verschwiegen hat. Im Falle des Absatzes 1 Nr. 2 tritt die Verjährung jedoch nicht vor Ablauf der dort bestimmten Frist ein.
 
 (4) Für das in § 634 bezeichnete Rücktrittsrecht gilt § 218. Der Besteller kann trotz einer Unwirksamkeit des Rücktritts nach § 218 Abs. 1 die Zahlung der Vergütung insoweit verweigern, als er auf Grund des Rücktritts dazu berechtigt sein würde. Macht er von diesem Recht Gebrauch, kann der Unternehmer vom Vertrag zurücktreten.
 
@@ -6632,7 +6632,7 @@ Ist das Werk mangelhaft, kann der Besteller, wenn die Voraussetzungen der folgen
 
 # § 636 – Besondere Bestimmungen für Rücktritt und Schadensersatz
 
-Außer in den Fällen der § 281 Abs. 2 und 323 Abs. 2 bedarf es der Fristsetzung auch dann nicht, wenn der Unternehmer die Nacherfüllung gemäß § 635 Abs. 3 verweigert oder wenn die Nacherfüllung fehlgeschlagen oder dem Besteller unzumutbar ist.
+Außer in den Fällen der §§ 281 Abs. 2 und 323 Abs. 2 bedarf es der Fristsetzung auch dann nicht, wenn der Unternehmer die Nacherfüllung gemäß § 635 Abs. 3 verweigert oder wenn die Nacherfüllung fehlgeschlagen oder dem Besteller unzumutbar ist.
 
 # § 637 – Selbstvornahme
 
@@ -6700,7 +6700,7 @@ Der Unternehmer ist im Falle des § 642 berechtigt, dem Besteller zur Nachholung
 
 (1) Der Unternehmer trägt die Gefahr bis zur Abnahme des Werkes. Kommt der Besteller in Verzug der Annahme, so geht die Gefahr auf ihn über. Für den zufälligen Untergang und eine zufällige Verschlechterung des von dem Besteller gelieferten Stoffes ist der Unternehmer nicht verantwortlich.
 
-(2) Versendet der Unternehmer das Werk auf Verlangen des Bestellers nach einem anderen Ort als dem Erfüllungsort, so finden die für den Kauf geltenden Vorschriften des § 447 entsprechende Anwendung.
+(2) Versendet der Unternehmer das Werk auf Verlangen des Bestellers nach einem anderen Ort als dem Erfüllungsort, so findet die für den Kauf geltende Vorschrift des § 447 entsprechende Anwendung.
 
 # § 645 – Verantwortlichkeit des Bestellers
 
@@ -7506,7 +7506,7 @@ Erlischt der Auftrag in anderer Weise als durch Widerruf, so gilt er zugunsten d
 
 # § 675 – Entgeltliche Geschäftsbesorgung
 
-(1) Auf einen Dienstvertrag oder einen Werkvertrag, der eine Geschäftsbesorgung zum Gegenstand hat, finden, soweit in diesem Untertitel nichts Abweichendes bestimmt wird, die Vorschriften der §§ 663, 665 bis 670, 672 bis 674 und, wenn dem Verpflichteten das Recht zusteht, ohne Einhaltung einer Kündigungsfrist zu kündigen, auch die Vorschriften des § 671 Abs. 2 entsprechende Anwendung.
+(1) Auf einen Dienstvertrag oder einen Werkvertrag, der eine Geschäftsbesorgung zum Gegenstand hat, finden, soweit in diesem Untertitel nichts Abweichendes bestimmt wird, die Vorschriften der §§ 663, 665 bis 670, 672 bis 674 und, wenn dem Verpflichteten das Recht zusteht, ohne Einhaltung einer Kündigungsfrist zu kündigen, auch die Vorschrift des § 671 Abs. 2 entsprechende Anwendung.
 
 (2) Wer einem anderen einen Rat oder eine Empfehlung erteilt, ist, unbeschadet der sich aus einem Vertragsverhältnis, einer unerlaubten Handlung oder einer sonstigen gesetzlichen Bestimmung ergebenden Verantwortlichkeit, zum Ersatz des aus der Befolgung des Rates oder der Empfehlung entstehenden Schadens nicht verpflichtet.
 
@@ -7946,7 +7946,7 @@ Liegen die Voraussetzungen des § 683 nicht vor, so ist der Geschäftsherr verpf
 
 (2) Gewähren Eltern oder Voreltern ihren Abkömmlingen oder diese jenen Unterhalt, so ist im Zweifel anzunehmen, dass die Absicht fehlt, von dem Empfänger Ersatz zu verlangen.
 
-# § 686 – Irrtum über Person des Geschäftsherrn
+# § 686 – Irrtum über die Person des Geschäftsherrn
 
 Ist der Geschäftsführer über die Person des Geschäftsherrn im Irrtum, so wird der wirkliche Geschäftsherr aus der Geschäftsführung berechtigt und verpflichtet.
 
@@ -8647,7 +8647,7 @@ Der Verkauf einer gemeinschaftlichen Forderung ist nur zulässig, wenn sie noch 
 
 # § 756 – Berichtigung einer Teilhaberschuld
 
-Hat ein Teilhaber gegen einen anderen Teilhaber eine Forderung, die sich auf die Gemeinschaft gründet, so kann er bei der Aufhebung der Gemeinschaft die Berichtigung seiner Forderung aus dem auf den Schuldner entfallenden Teil des gemeinschaftlichen Gegenstands verlangen. Die Vorschriften des § 755 Abs. 2, 3 finden Anwendung.
+Hat ein Teilhaber gegen einen anderen Teilhaber eine Forderung, die sich auf die Gemeinschaft gründet, so kann er bei der Aufhebung der Gemeinschaft die Berichtigung seiner Forderung aus dem auf den Schuldner entfallenden Teil des gemeinschaftlichen Gegenstands verlangen. Die Vorschrift des § 755 Abs. 2, 3 findet Anwendung.
 
 # § 757 – Gewährleistung bei Zuteilung an einen Teilhaber
 
@@ -8683,7 +8683,7 @@ Zur Gültigkeit eines Vertrags, durch den eine Leibrente versprochen wird, ist, 
 
 # § 763 – Lotterie- und Ausspielvertrag
 
-Ein Lotterievertrag oder ein Ausspielvertrag ist verbindlich, wenn die Lotterie oder die Ausspielung staatlich genehmigt ist. Anderenfalls finden die Vorschriften des § 762 Anwendung.
+Ein Lotterievertrag oder ein Ausspielvertrag ist verbindlich, wenn die Lotterie oder die Ausspielung staatlich genehmigt ist. Anderenfalls findet die Vorschrift des § 762 Anwendung.
 
 # § 764
 
