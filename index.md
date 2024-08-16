@@ -3273,6 +3273,7 @@
 - [KrWaffKontrGDV 3](laws/KrWaffKontrGDV_3.md) Dritte Verordnung zur Durchführung des Gesetzes über die Kontrolle von Kriegswaffen
 - [KrWaffUnbrUmgV](laws/KrWaffUnbrUmgV.md) Verordnung über die Unbrauchbarmachung von Kriegswaffen und über den Umgang mit unbrauchbar gemachten Kriegswaffen
 - [KrWG](laws/KrWG.md) Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen
+- [KrWoFGV](laws/KrWoFGV.md) Verordnung zur Festlegung der Voraussetzungen, unter denen der Wohnsitz im Sinne des § 4 Absatz 1 des Bundesvertriebenengesetzes bei kriegsbedingtem Aufenthalt außerhalb der Aussiedlungsgebiete als fortbestehend gilt
 - [KryptoFAV](laws/KryptoFAV.md) Verordnung über Kryptofondsanteile *
 - [KryptoWTransferV](laws/KryptoWTransferV.md) Verordnung über verstärkte Sorgfaltspflichten bei dem Transfer von Kryptowerten
 - [KrZwMG](laws/KrZwMG.md) Gesetz über den Zweitmarkt für notleidende Kredite und über Kreditdienstleistungsinstitute
