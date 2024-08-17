@@ -9115,7 +9115,7 @@ Die Verpflichtung zum Schadensersatz wegen einer gegen die Person gerichteten un
 
 (1) Wird infolge einer Verletzung des Körpers oder der Gesundheit die Erwerbsfähigkeit des Verletzten aufgehoben oder gemindert oder tritt eine Vermehrung seiner Bedürfnisse ein, so ist dem Verletzten durch Entrichtung einer Geldrente Schadensersatz zu leisten.
 
-(2) Auf die Rente finden die Vorschriften des § 760 Anwendung. Ob, in welcher Art und für welchen Betrag der Ersatzpflichtige Sicherheit zu leisten hat, bestimmt sich nach den Umständen.
+(2) Auf die Rente findet die Vorschrift des § 760 Anwendung. Ob, in welcher Art und für welchen Betrag der Ersatzpflichtige Sicherheit zu leisten hat, bestimmt sich nach den Umständen.
 
 (3) Statt der Rente kann der Verletzte eine Abfindung in Kapital verlangen, wenn ein wichtiger Grund vorliegt.
 
@@ -9125,7 +9125,7 @@ Die Verpflichtung zum Schadensersatz wegen einer gegen die Person gerichteten un
 
 (1) Im Falle der Tötung hat der Ersatzpflichtige die Kosten der Beerdigung demjenigen zu ersetzen, welchem die Verpflichtung obliegt, diese Kosten zu tragen.
 
-(2) Stand der Getötete zur Zeit der Verletzung zu einem Dritten in einem Verhältnis, vermöge dessen er diesem gegenüber kraft Gesetzes unterhaltspflichtig war oder unterhaltspflichtig werden konnte, und ist dem Dritten infolge der Tötung das Recht auf den Unterhalt entzogen, so hat der Ersatzpflichtige dem Dritten durch Entrichtung einer Geldrente insoweit Schadensersatz zu leisten, als der Getötete während der mutmaßlichen Dauer seines Lebens zur Gewährung des Unterhalts verpflichtet gewesen sein würde; die Vorschriften des § 843 Abs. 2 bis 4 finden entsprechende Anwendung. Die Ersatzpflicht tritt auch dann ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber noch nicht geboren war.
+(2) Stand der Getötete zur Zeit der Verletzung zu einem Dritten in einem Verhältnis, vermöge dessen er diesem gegenüber kraft Gesetzes unterhaltspflichtig war oder unterhaltspflichtig werden konnte, und ist dem Dritten infolge der Tötung das Recht auf den Unterhalt entzogen, so hat der Ersatzpflichtige dem Dritten durch Entrichtung einer Geldrente insoweit Schadensersatz zu leisten, als der Getötete während der mutmaßlichen Dauer seines Lebens zur Gewährung des Unterhalts verpflichtet gewesen sein würde; die Vorschrift des § 843 Abs. 2 bis 4 findet entsprechende Anwendung. Die Ersatzpflicht tritt auch dann ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber noch nicht geboren war.
 
 (3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit der Verletzung zu dem Getöteten in einem besonderen persönlichen Näheverhältnis stand, für das dem Hinterbliebenen zugefügte seelische Leid eine angemessene Entschädigung in Geld zu leisten. Ein besonderes persönliches Näheverhältnis wird vermutet, wenn der Hinterbliebene der Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des Getöteten war.
 
@@ -9135,7 +9135,7 @@ Im Falle der Tötung, der Verletzung des Körpers oder der Gesundheit sowie im F
 
 # § 846 – Mitverschulden des Verletzten
 
-Hat in den Fällen der §§ 844, 845 bei der Entstehung des Schadens, den der Dritte erleidet, ein Verschulden des Verletzten mitgewirkt, so finden auf den Anspruch des Dritten die Vorschriften des § 254 Anwendung.
+Hat in den Fällen der §§ 844, 845 bei der Entstehung des Schadens, den der Dritte erleidet, ein Verschulden des Verletzten mitgewirkt, so findet auf den Anspruch des Dritten die Vorschrift des § 254 Anwendung.
 
 # § 847
 
@@ -9765,7 +9765,7 @@ Ist ein Bienenschwarm in eine fremde besetzte Bienenwohnung eingezogen, so erstr
 
 (1) Wer eine verlorene Sache findet und an sich nimmt, hat dem Verlierer oder dem Eigentümer oder einem sonstigen Empfangsberechtigten unverzüglich Anzeige zu machen.
 
-(2) Kennt der Finder die Empfangsberechtigten nicht oder ist ihm ihr Aufenthalt unbekannt, so hat er den Fund und die Umstände, welche für die Ermittelung der Empfangsberechtigten erheblich sein können, unverzüglich der zuständigen Behörde anzuzeigen. Ist die Sache nicht mehr als zehn Euro wert, so bedarf es der Anzeige nicht.
+(2) Kennt der Finder die Empfangsberechtigten nicht oder ist ihm ihr Aufenthalt unbekannt, so hat er den Fund und die Umstände, welche für die Ermittlung der Empfangsberechtigten erheblich sein können, unverzüglich der zuständigen Behörde anzuzeigen. Ist die Sache nicht mehr als zehn Euro wert, so bedarf es der Anzeige nicht.
 
 # § 966 – Verwahrungspflicht
 
@@ -10073,7 +10073,7 @@ Wird der Besitzer eines Grundstücks in der Ausübung einer für den Eigentümer
 
 # § 1031 – Erstreckung auf Zubehör
 
-Mit dem Nießbrauch an einem Grundstück erlangt der Nießbraucher den Nießbrauch an dem Zubehör nach den für den Erwerb des Eigentums geltenden Vorschriften des § 926.
+Mit dem Nießbrauch an einem Grundstück erlangt der Nießbraucher den Nießbrauch an dem Zubehör nach der für den Erwerb des Eigentums geltenden Vorschrift des § 926.
 
 # § 1032 – Bestellung an beweglichen Sachen
 
@@ -10155,7 +10155,7 @@ Der Nießbraucher ist dem Eigentümer gegenüber verpflichtet, für die Dauer de
 
 (1) Ist ein Grundstück samt Inventar Gegenstand des Nießbrauchs, so kann der Nießbraucher über die einzelnen Stücke des Inventars innerhalb der Grenzen einer ordnungsmäßigen Wirtschaft verfügen. Er hat für den gewöhnlichen Abgang sowie für die nach den Regeln einer ordnungsmäßigen Wirtschaft ausscheidenden Stücke Ersatz zu beschaffen; die von ihm angeschafften Stücke werden mit der Einverleibung in das Inventar Eigentum desjenigen, welchem das Inventar gehört.
 
-(2) Übernimmt der Nießbraucher das Inventar zum Schätzwert mit der Verpflichtung, es bei der Beendigung des Nießbrauchs zum Schätzwert zurückzugewähren, so finden die Vorschriften des § 582a entsprechende Anwendung.
+(2) Übernimmt der Nießbraucher das Inventar zum Schätzwert mit der Verpflichtung, es bei der Beendigung des Nießbrauchs zum Schätzwert zurückzugewähren, so findet die Vorschrift des § 582a entsprechende Anwendung.
 
 # § 1049 – Ersatz von Verwendungen
 
@@ -10359,11 +10359,11 @@ Das Papier ist nebst dem Erneuerungsschein auf Verlangen des Nießbrauchers oder
 
 (1) Der Nießbraucher und der Eigentümer des Papiers sind einander verpflichtet, zur Einziehung des fälligen Kapitals, zur Beschaffung neuer Zins-, Renten- oder Gewinnanteilscheine sowie zu sonstigen Maßnahmen mitzuwirken, die zur ordnungsmäßigen Vermögensverwaltung erforderlich sind.
 
-(2) Im Falle der Einlösung des Papiers finden die Vorschriften des § 1079 Anwendung. Eine bei der Einlösung gezahlte Prämie gilt als Teil des Kapitals.
+(2) Im Falle der Einlösung des Papiers findet die Vorschrift des § 1079 Anwendung. Eine bei der Einlösung gezahlte Prämie gilt als Teil des Kapitals.
 
 # § 1084 – Verbrauchbare Sachen
 
-Gehört ein Inhaberpapier oder ein Orderpapier, das mit Blankoindossament versehen ist, nach § 92 zu den verbrauchbaren Sachen, so bewendet es bei den Vorschriften des § 1067.
+Gehört ein Inhaberpapier oder ein Orderpapier, das mit Blankoindossament versehen ist, nach § 92 zu den verbrauchbaren Sachen, so bewendet es bei der Vorschrift des § 1067.
 
 # § 1085 – Bestellung des Nießbrauchs an einem Vermögen
 
@@ -10495,7 +10495,7 @@ Auf die einzelnen Leistungen finden die für die Zinsen einer Hypothekenforderun
 
 # § 1109 – Teilung des herrschenden Grundstücks
 
-(1) Wird das Grundstück des Berechtigten geteilt, so besteht die Reallast für die einzelnen Teile fort. Ist die Leistung teilbar, so bestimmen sich die Anteile der Eigentümer nach dem Verhältnis der Größe der Teile; ist sie nicht teilbar, so finden die Vorschriften des § 432 Anwendung. Die Ausübung des Rechts ist im Zweifel nur in der Weise zulässig, dass sie für den Eigentümer des belasteten Grundstücks nicht beschwerlicher wird.
+(1) Wird das Grundstück des Berechtigten geteilt, so besteht die Reallast für die einzelnen Teile fort. Ist die Leistung teilbar, so bestimmen sich die Anteile der Eigentümer nach dem Verhältnis der Größe der Teile; ist sie nicht teilbar, so findet die Vorschrift des § 432 Anwendung. Die Ausübung des Rechts ist im Zweifel nur in der Weise zulässig, dass sie für den Eigentümer des belasteten Grundstücks nicht beschwerlicher wird.
 
 (2) Der Berechtigte kann bestimmen, dass das Recht nur mit einem der Teile verbunden sein soll. Die Bestimmung hat dem Grundbuchamt gegenüber zu erfolgen und bedarf der Eintragung in das Grundbuch; die Vorschriften der §§ 876, 878 finden entsprechende Anwendung. Veräußert der Berechtigte einen Teil des Grundstücks, ohne eine solche Bestimmung zu treffen, so bleibt das Recht mit dem Teil verbunden, den er behält.
 
@@ -10513,7 +10513,7 @@ Eine zugunsten des jeweiligen Eigentümers eines Grundstücks bestehende Reallas
 
 # § 1112 – Ausschluss unbekannter Berechtigter
 
-Ist der Berechtigte unbekannt, so finden auf die Ausschließung seines Rechts die Vorschriften des § 1104 entsprechende Anwendung.
+Ist der Berechtigte unbekannt, so findet auf die Ausschließung seines Rechts die Vorschrift des § 1104 entsprechende Anwendung.
 
 # § 1113 – Gesetzlicher Inhalt der Hypothek
 
@@ -10677,9 +10677,9 @@ Soweit die Unrichtigkeit des Grundbuchs aus dem Hypothekenbrief oder einem Verme
 
 # § 1143 – Übergang der Forderung
 
-(1) Ist der Eigentümer nicht der persönliche Schuldner, so geht, soweit er den Gläubiger befriedigt, die Forderung auf ihn über. Die für einen Bürgen geltenden Vorschriften des § 774 Abs. 1 finden entsprechende Anwendung.
+(1) Ist der Eigentümer nicht der persönliche Schuldner, so geht, soweit er den Gläubiger befriedigt, die Forderung auf ihn über. Die für einen Bürgen geltende Vorschrift des § 774 Abs. 1 findet entsprechende Anwendung.
 
-(2) Besteht für die Forderung eine Gesamthypothek, so gelten für diese die Vorschriften des § 1173.
+(2) Besteht für die Forderung eine Gesamthypothek, so gilt für diese die Vorschrift des § 1173.
 
 # § 1144 – Aushändigung der Urkunden
 
@@ -11577,11 +11577,11 @@ a) der minderjährige Ehegatte, nachdem er volljährig geworden ist, zu erkennen
 
 b) auf Grund außergewöhnlicher Umstände die Aufhebung der Ehe eine so schwere Härte für den minderjährigen Ehegatten darstellen würde, dass die Aufrechterhaltung der Ehe ausnahmsweise geboten erscheint;
 
-2. bei Verstoß gegen § 1304, wenn der Ehegatte nach Wegfall der Geschäftsunfähigkeit zu erkennen gegeben hat, dass er die Ehe fortsetzen will (Bestätigung);
+2. bei Verstoß gegen § 1304, wenn der Ehegatte nach Wegfall der Geschäftsunfähigkeit zu erkennen gegeben hat, dass er die Ehe fortsetzen will (Bestätigung),
 
-3. im Falle des § 1314 Abs. 2 Nr. 1, wenn der Ehegatte nach Wegfall der Bewusstlosigkeit oder der Störung der Geistestätigkeit zu erkennen gegeben hat, dass er die Ehe fortsetzen will (Bestätigung);
+3. im Falle des § 1314 Abs. 2 Nr. 1, wenn der Ehegatte nach Wegfall der Bewusstlosigkeit oder der Störung der Geistestätigkeit zu erkennen gegeben hat, dass er die Ehe fortsetzen will (Bestätigung),
 
-4. in den Fällen des § 1314 Abs. 2 Nr. 2 bis 4, wenn der Ehegatte nach Entdeckung des Irrtums oder der Täuschung oder nach Aufhören der Zwangslage zu erkennen gegeben hat, dass er die Ehe fortsetzen will (Bestätigung);
+4. in den Fällen des § 1314 Abs. 2 Nr. 2 bis 4, wenn der Ehegatte nach Entdeckung des Irrtums oder der Täuschung oder nach Aufhören der Zwangslage zu erkennen gegeben hat, dass er die Ehe fortsetzen will (Bestätigung),
 
 5. in den Fällen des § 1314 Abs. 2 Nr. 5, wenn die Ehegatten nach der Eheschließung als Ehegatten miteinander gelebt haben.
 
@@ -12335,7 +12335,7 @@ Im Verhältnis der Ehegatten zueinander fallen folgende Gesamtgutsverbindlichkei
 
 # § 1464 – Verbindlichkeiten des Sonderguts und eines Erwerbsgeschäfts
 
-Die Vorschriften des § 1463 Nr. 2, 3 gelten nicht, wenn die Verbindlichkeiten zu den Lasten des Sonderguts gehören, die aus den Einkünften beglichen zu werden pflegen. Die Vorschriften gelten auch dann nicht, wenn die Verbindlichkeiten durch den Betrieb eines für Rechnung des Gesamtguts geführten Erwerbsgeschäfts oder infolge eines zu einem solchen Erwerbsgeschäft gehörenden Rechts oder des Besitzes einer dazu gehörenden Sache entstehen.
+Die Vorschrift des § 1463 Nr. 2, 3 gilt nicht, wenn die Verbindlichkeiten zu den Lasten des Sonderguts gehören, die aus den Einkünften beglichen zu werden pflegen. Die Vorschrift gilt auch dann nicht, wenn die Verbindlichkeiten durch den Betrieb eines für Rechnung des Gesamtguts geführten Erwerbsgeschäfts oder infolge eines zu einem solchen Erwerbsgeschäft gehörenden Rechts oder des Besitzes einer dazu gehörenden Sache entstehen.
 
 # § 1465 – Prozesskosten
 
@@ -12381,7 +12381,7 @@ Jeder Ehegatte kann die Aufhebung der Gütergemeinschaft beantragen,
 
 (1) Nach der Beendigung der Gütergemeinschaft setzen sich die Ehegatten über das Gesamtgut auseinander.
 
-(2) Bis zur Auseinandersetzung gelten für das Gesamtgut die Vorschriften des § 1419.
+(2) Bis zur Auseinandersetzung gilt für das Gesamtgut die Vorschrift des § 1419.
 
 # § 1472 – Gemeinschaftliche Verwaltung des Gesamtguts
 
@@ -12395,7 +12395,7 @@ Jeder Ehegatte kann die Aufhebung der Gütergemeinschaft beantragen,
 
 # § 1473 – Unmittelbare Ersetzung
 
-(1) Was auf Grund eines zum Gesamtgut gehörenden Rechtes oder als Ersatz für die Zerstörung, Beschädigung oder Entziehung eines zum Gesamtgut gehörenden Gegenstands oder durch ein Rechtsgeschäft erworben wird, das sich auf das Gesamtgut bezieht, wird Gesamtgut.
+(1) Was auf Grund eines zum Gesamtgut gehörenden Rechts oder als Ersatz für die Zerstörung, Beschädigung oder Entziehung eines zum Gesamtgut gehörenden Gegenstands oder durch ein Rechtsgeschäft erworben wird, das sich auf das Gesamtgut bezieht, wird Gesamtgut.
 
 (2) Gehört eine Forderung, die durch Rechtsgeschäft erworben ist, zum Gesamtgut, so braucht der Schuldner dies erst dann gegen sich gelten zu lassen, wenn er erfährt, dass die Forderung zum Gesamtgut gehört; die Vorschriften der §§ 406 bis 408 sind entsprechend anzuwenden.
 
@@ -12477,7 +12477,7 @@ Wird die Ehe durch den Tod eines Ehegatten aufgelöst, so gehört der Anteil des
 
 (2) Das Vermögen, das ein gemeinschaftlicher Abkömmling zur Zeit des Eintritts der fortgesetzten Gütergemeinschaft hat oder später erwirbt, gehört nicht zu dem Gesamtgut.
 
-(3) Auf das Gesamtgut finden die für die eheliche Gütergemeinschaft geltende Vorschrift des § 1416 Abs. 2 und 3 entsprechende Anwendung.
+(3) Auf das Gesamtgut findet die für die eheliche Gütergemeinschaft geltende Vorschrift des § 1416 Abs. 2 und 3 entsprechende Anwendung.
 
 # § 1486 – Vorbehaltsgut; Sondergut
 
@@ -12643,7 +12643,7 @@ Jeder Ehegatte kann für den Fall, dass mit seinem Tode die fortgesetzte Güterg
 
 # § 1513 – Entziehung des Anteils
 
-(1) Jeder Ehegatte kann für den Fall, dass mit seinem Tod die fortgesetzte Gütergemeinschaft eintritt, einem anteilsberechtigten Abkömmling den diesem nach der Beendigung der fortgesetzten Gütergemeinschaft gebührenden Anteil an dem Gesamtgut durch letztwillige Verfügung entziehen, wenn er berechtigt ist, dem Abkömmling den Pflichtteil zu entziehen. Die Vorschrift des § 2336 Abs. 2 und 3 findet entsprechende Anwendung.
+(1) Jeder Ehegatte kann für den Fall, dass mit seinem Tode die fortgesetzte Gütergemeinschaft eintritt, einem anteilsberechtigten Abkömmling den diesem nach der Beendigung der fortgesetzten Gütergemeinschaft gebührenden Anteil an dem Gesamtgut durch letztwillige Verfügung entziehen, wenn er berechtigt ist, dem Abkömmling den Pflichtteil zu entziehen. Die Vorschrift des § 2336 Abs. 2 und 3 findet entsprechende Anwendung.
 
 (2) Der Ehegatte kann, wenn er nach § 2338 berechtigt ist, das Pflichtteilsrecht des Abkömmlings zu beschränken, den Anteil des Abkömmlings am Gesamtgut einer entsprechenden Beschränkung unterwerfen.
 
@@ -13135,7 +13135,7 @@ Verwandte in gerader Linie sind verpflichtet, einander Unterhalt zu gewähren.
 
 (1) Unterhaltspflichtig ist nicht, wer bei Berücksichtigung seiner sonstigen Verpflichtungen außerstande ist, ohne Gefährdung seines angemessenen Unterhalts den Unterhalt zu gewähren.
 
-(2) Befinden sich Eltern in dieser Lage, so sind sie ihren minderjährigen Kindern gegenüber verpflichtet, alle verfügbaren Mittel zu ihrem und der Kinder Unterhalt gleichmäßig zu verwenden. Den minderjährigen Kindern stehen volljährige unverheiratete Kinder bis zur Vollendung des 21. Lebensjahres gleich, solange sie im Haushalt der Eltern oder eines Elternteils leben und sich in der allgemeinen Schulausbildung befinden. Diese Verpflichtung tritt nicht ein, wenn ein anderer unterhaltspflichtiger Verwandter vorhanden ist; sie tritt auch nicht ein gegenüber einem Kind, dessen Unterhalt aus dem Stamme seines Vermögens bestritten werden kann.
+(2) Befinden sich Eltern in dieser Lage, so sind sie ihren minderjährigen Kindern gegenüber verpflichtet, alle verfügbaren Mittel zu ihrem und der Kinder Unterhalt gleichmäßig zu verwenden. Den minderjährigen Kindern stehen volljährige unverheiratete Kinder bis zur Vollendung des 21. Lebensjahrs gleich, solange sie im Haushalt der Eltern oder eines Elternteils leben und sich in der allgemeinen Schulausbildung befinden. Diese Verpflichtung tritt nicht ein, wenn ein anderer unterhaltspflichtiger Verwandter vorhanden ist; sie tritt auch nicht ein gegenüber einem Kind, dessen Unterhalt aus dem Stamme seines Vermögens bestritten werden kann.
 
 # § 1604 – Einfluss des Güterstands
 
@@ -13857,7 +13857,7 @@ Sind die Eltern verhindert, die elterliche Sorge auszuüben, so hat das Familien
 
 (1) Endet oder ruht die elterliche Sorge der Eltern oder hört aus einem anderen Grunde ihre Vermögenssorge auf, so haben sie dem Kind das Vermögen herauszugeben und auf Verlangen über die Verwaltung Rechenschaft abzulegen.
 
-(2) Über die Nutzungen des Kindesvermögens brauchen die Eltern nur insoweit Rechenschaft abzulegen, als Grund zu der Annahme besteht, dass sie die Nutzungen entgegen den Vorschriften des § 1649 verwendet haben.
+(2) Über die Nutzungen des Kindesvermögens brauchen die Eltern nur insoweit Rechenschaft abzulegen, als Grund zu der Annahme besteht, dass sie die Nutzungen entgegen der Vorschrift des § 1649 verwendet haben.
 
 # § 1698a – Fortführung der Geschäfte in Unkenntnis der Beendigung der elterlichen Sorge
 
@@ -14087,7 +14087,7 @@ e) die Einwilligung vor Ablauf der in § 1747 Abs. 2 Satz 1 bestimmten Frist ert
 
 a) in den Fällen des § 1760 Abs. 2 Buchstabe a mit dem Zeitpunkt, in dem der Erklärende zumindest die beschränkte Geschäftsfähigkeit erlangt hat oder in dem dem gesetzlichen Vertreter des geschäftsunfähigen Annehmenden oder des noch nicht 14 Jahre alten oder geschäftsunfähigen Kindes die Erklärung bekannt wird;
 
-b) in den Fällen des § 1760 Abs. 2 Buchstaben b, c mit dem Zeitpunkt, in dem der Erklärende den Irrtum oder die Täuschung entdeckt;
+b) in den Fällen des § 1760 Abs. 2 Buchstabe b, c mit dem Zeitpunkt, in dem der Erklärende den Irrtum oder die Täuschung entdeckt;
 
 c) in dem Falle des § 1760 Abs. 2 Buchstabe d mit dem Zeitpunkt, in dem die Zwangslage aufhört;
 
@@ -14175,7 +14175,7 @@ Die Annahme eines Volljährigen darf nicht ausgesprochen werden, wenn ihr überw
 
 # § 1771 – Aufhebung des Annahmeverhältnisses
 
-Das Familiengericht kann das Annahmeverhältnis, das zu einem Volljährigen begründet worden ist, auf Antrag des Annehmenden und des Angenommenen aufheben, wenn ein wichtiger Grund vorliegt. Im Übrigen kann das Annahmeverhältnis nur in sinngemäßer Anwendung der Vorschriften des § 1760 Abs. 1 bis 5 aufgehoben werden. An die Stelle der Einwilligung des Kindes tritt der Antrag des Anzunehmenden.
+Das Familiengericht kann das Annahmeverhältnis, das zu einem Volljährigen begründet worden ist, auf Antrag des Annehmenden und des Angenommenen aufheben, wenn ein wichtiger Grund vorliegt. Im Übrigen kann das Annahmeverhältnis nur in sinngemäßer Anwendung der Vorschrift des § 1760 Abs. 1 bis 5 aufgehoben werden. An die Stelle der Einwilligung des Kindes tritt der Antrag des Anzunehmenden.
 
 # § 1772 – Annahme mit den Wirkungen der Minderjährigenannahme
 
@@ -14191,7 +14191,7 @@ d) der Anzunehmende in dem Zeitpunkt, in dem der Antrag auf Annahme bei dem Fami
 
 Eine solche Bestimmung darf nicht getroffen werden, wenn ihr überwiegende Interessen der Eltern des Anzunehmenden entgegenstehen.
 
-(2) Das Annahmeverhältnis kann in den Fällen des Absatzes 1 nur in sinngemäßer Anwendung der Vorschriften des § 1760 Abs. 1 bis 5 aufgehoben werden. An die Stelle der Einwilligung des Kindes tritt der Antrag des Anzunehmenden.
+(2) Das Annahmeverhältnis kann in den Fällen des Absatzes 1 nur in sinngemäßer Anwendung der Vorschrift des § 1760 Abs. 1 bis 5 aufgehoben werden. An die Stelle der Einwilligung des Kindes tritt der Antrag des Anzunehmenden.
 
 # § 1773 – Voraussetzungen der Vormundschaft; Bestellung des Vormunds
 
@@ -15587,7 +15587,7 @@ Der Erbe kann die Erbschaft nicht mehr ausschlagen, wenn er sie angenommen hat o
 
 (1) Die Ausschlagung kann nur binnen sechs Wochen erfolgen.
 
-(2) Die Frist beginnt mit dem Zeitpunkt, in welchem der Erbe von dem Anfall und dem Grund der Berufung Kenntnis erlangt. Ist der Erbe durch Verfügung von Todes wegen berufen, beginnt die Frist nicht vor Bekanntgabe der Verfügung von Todes wegen durch das Nachlassgericht. Auf den Lauf der Frist finden die für die Verjährung geltenden Vorschriften der §§ 206, 210 entsprechende Anwendung.
+(2) Die Frist beginnt mit dem Zeitpunkt, in welchem der Erbe von dem Anfall und dem Grunde der Berufung Kenntnis erlangt. Ist der Erbe durch Verfügung von Todes wegen berufen, beginnt die Frist nicht vor Bekanntgabe der Verfügung von Todes wegen durch das Nachlassgericht. Auf den Lauf der Frist finden die für die Verjährung geltenden Vorschriften der §§ 206, 210 entsprechende Anwendung.
 
 (3) Die Frist beträgt sechs Monate, wenn der Erblasser seinen letzten Wohnsitz nur im Ausland gehabt hat oder wenn sich der Erbe bei dem Beginn der Frist im Ausland aufhält.
 
@@ -15843,7 +15843,7 @@ Ist das Nachlassinsolvenzverfahren durch Verteilung der Masse oder durch einen I
 
 # § 1990 – Dürftigkeitseinrede des Erben
 
-(1) Ist die Anordnung der Nachlassverwaltung oder die Eröffnung des Nachlassinsolvenzverfahrens wegen Mangels einer den Kosten entsprechenden Masse nicht tunlich oder wird aus diesem Grunde die Nachlassverwaltung aufgehoben oder das Insolvenzverfahren eingestellt, so kann der Erbe die Befriedigung eines Nachlassgläubigers insoweit verweigern, als der Nachlass nicht ausreicht. Der Erbe ist in diesem Fall verpflichtet, den Nachlass zum Zwecke der Befriedigung des Gläubigers im Wege der Zwangsvollstreckung herauszugeben.
+(1) Ist die Anordnung der Nachlassverwaltung oder die Eröffnung des Nachlassinsolvenzverfahrens wegen Mangels einer den Kosten entsprechenden Masse nicht tunlich oder wird aus diesem Grunde die Nachlassverwaltung aufgehoben oder das Insolvenzverfahren eingestellt, so kann der Erbe die Befriedigung eines Nachlassgläubigers insoweit verweigern, als der Nachlass nicht ausreicht. Der Erbe ist in diesem Falle verpflichtet, den Nachlass zum Zwecke der Befriedigung des Gläubigers im Wege der Zwangsvollstreckung herauszugeben.
 
 (2) Das Recht des Erben wird nicht dadurch ausgeschlossen, dass der Gläubiger nach dem Eintritt des Erbfalls im Wege der Zwangsvollstreckung oder der Arrestvollziehung ein Pfandrecht oder eine Hypothek oder im Wege der einstweiligen Verfügung eine Vormerkung erlangt hat.
 
@@ -16222,7 +16222,7 @@ Jeder Miterbe ist verpflichtet, den übrigen Erben auf Verlangen Auskunft über 
 
 (3) Die Ausgleichung ist so zu bemessen, wie es mit Rücksicht auf die Dauer und den Umfang der Leistungen und auf den Wert des Nachlasses der Billigkeit entspricht.
 
-(4) Bei der Auseinandersetzung wird der Ausgleichungsbetrag dem Erbteil des ausgleichungsberechtigten Miterben hinzugerechnet. Sämtliche Ausgleichungsbeträge werden vom Wert des Nachlasses abgezogen, soweit dieser den Miterben zukommt, unter denen die Ausgleichung stattfindet.
+(4) Bei der Auseinandersetzung wird der Ausgleichungsbetrag dem Erbteil des ausgleichungsberechtigten Miterben hinzugerechnet. Sämtliche Ausgleichungsbeträge werden vom Werte des Nachlasses abgezogen, soweit dieser den Miterben zukommt, unter denen die Ausgleichung stattfindet.
 
 # § 2058 – Gesamtschuldnerische Haftung
 
@@ -16520,7 +16520,7 @@ Der Vorerbe kann über die zur Erbschaft gehörenden Gegenstände verfügen, sow
 
 # § 2114 – Verfügungen über Hypothekenforderungen, Grund- und Rentenschulden
 
-Gehört zur Erbschaft eine Hypothekenforderung, eine Grundschuld, eine Rentenschuld oder eine Schiffshypothekenforderung, so steht die Kündigung und die Einziehung dem Vorerben zu. Der Vorerbe kann jedoch nur verlangen, dass das Kapital an ihn nach Beibringung der Einwilligung des Nacherben gezahlt oder dass es für ihn und den Nacherben hinterlegt wird. Auf andere Verfügungen über die Hypothekenforderung, die Grundschuld, die Rentenschuld oder die Schiffshypothekenforderung finden die Vorschriften des § 2113 Anwendung.
+Gehört zur Erbschaft eine Hypothekenforderung, eine Grundschuld, eine Rentenschuld oder eine Schiffshypothekenforderung, so steht die Kündigung und die Einziehung dem Vorerben zu. Der Vorerbe kann jedoch nur verlangen, dass das Kapital an ihn nach Beibringung der Einwilligung des Nacherben gezahlt oder dass es für ihn und den Nacherben hinterlegt wird. Auf andere Verfügungen über die Hypothekenforderung, die Grundschuld, die Rentenschuld oder die Schiffshypothekenforderung findet die Vorschrift des § 2113 Anwendung.
 
 # § 2115 – Zwangsvollstreckungsverfügungen gegen Vorerben
 
@@ -16592,7 +16592,7 @@ Der Nacherbe ist berechtigt, von dem Vorerben Auskunft über den Bestand der Erb
 
 (1) Wird durch das Verhalten des Vorerben oder durch seine ungünstige Vermögenslage die Besorgnis einer erheblichen Verletzung der Rechte des Nacherben begründet, so kann der Nacherbe Sicherheitsleistung verlangen.
 
-(2) Die für die Verpflichtung des Nießbrauchers zur Sicherheitsleistung geltenden Vorschriften des § 1052 finden entsprechende Anwendung.
+(2) Die für die Verpflichtung des Nießbrauchers zur Sicherheitsleistung geltende Vorschrift des § 1052 findet entsprechende Anwendung.
 
 # § 2129 – Wirkung einer Entziehung der Verwaltung
 
@@ -17164,7 +17164,7 @@ Zur Niederschrift eines Notars wird ein Testament errichtet, indem der Erblasser
 
 (1) Der Erblasser kann ein Testament durch eine eigenhändig geschriebene und unterschriebene Erklärung errichten.
 
-(2) Der Erblasser soll in der Erklärung angeben, zu welcher Zeit (Tag, Monat und Jahr) und an welchem Ort er sie niedergeschrieben hat.
+(2) Der Erblasser soll in der Erklärung angeben, zu welcher Zeit (Tag, Monat und Jahr) und an welchem Orte er sie niedergeschrieben hat.
 
 (3) Die Unterschrift soll den Vornamen und den Familiennamen des Erblassers enthalten. Unterschreibt der Erblasser in anderer Weise und reicht diese Unterzeichnung zur Feststellung der Urheberschaft des Erblassers und der Ernstlichkeit seiner Erklärung aus, so steht eine solche Unterzeichnung der Gültigkeit des Testaments nicht entgegen.
 
@@ -17192,7 +17192,7 @@ Ein nach § 2247 errichtetes Testament ist auf Verlangen des Erblassers in beson
 
 # § 2250 – Nottestament vor drei Zeugen
 
-(1) Wer sich an einem Ort aufhält, der infolge außerordentlicher Umstände dergestalt abgesperrt ist, dass die Errichtung eines Testaments vor einem Notar nicht möglich oder erheblich erschwert ist, kann das Testament in der durch § 2249 bestimmten Form oder durch mündliche Erklärung vor drei Zeugen errichten.
+(1) Wer sich an einem Orte aufhält, der infolge außerordentlicher Umstände dergestalt abgesperrt ist, dass die Errichtung eines Testaments vor einem Notar nicht möglich oder erheblich erschwert ist, kann das Testament in der durch § 2249 bestimmten Form oder durch mündliche Erklärung vor drei Zeugen errichten.
 
 (2) Wer sich in so naher Todesgefahr befindet, dass voraussichtlich auch die Errichtung eines Testaments nach § 2249 nicht mehr möglich ist, kann das Testament durch mündliche Erklärung vor drei Zeugen errichten.
 
@@ -17264,7 +17264,7 @@ Wird der durch Testament erfolgte Widerruf einer letztwilligen Verfügung widerr
 
 # § 2263 – Nichtigkeit eines Eröffnungsverbots
 
-Eine Anordnung des Erblassers, durch die er verbietet, das Testament alsbald nach seinem Tod zu eröffnen, ist nichtig.
+Eine Anordnung des Erblassers, durch die er verbietet, das Testament alsbald nach seinem Tode zu eröffnen, ist nichtig.
 
 # § 2264 – (weggefallen)
 
@@ -17280,7 +17280,7 @@ Ein gemeinschaftliches Testament kann nach den §§ 2249, 2250 auch dann erricht
 
 # § 2267 – Gemeinschaftliches eigenhändiges Testament
 
-Zur Errichtung eines gemeinschaftlichen Testaments nach § 2247 genügt es, wenn einer der Ehegatten das Testament in der dort vorgeschriebenen Form errichtet und der andere Ehegatte die gemeinschaftliche Erklärung eigenhändig mitunterzeichnet. Der mitunterzeichnende Ehegatte soll hierbei angeben, zu welcher Zeit (Tag, Monat und Jahr) und an welchem Ort er seine Unterschrift beigefügt hat.
+Zur Errichtung eines gemeinschaftlichen Testaments nach § 2247 genügt es, wenn einer der Ehegatten das Testament in der dort vorgeschriebenen Form errichtet und der andere Ehegatte die gemeinschaftliche Erklärung eigenhändig mitunterzeichnet. Der mitunterzeichnende Ehegatte soll hierbei angeben, zu welcher Zeit (Tag, Monat und Jahr) und an welchem Orte er seine Unterschrift beigefügt hat.
 
 # § 2268 – Wirkung der Ehenichtigkeit oder -auflösung
 
@@ -17304,7 +17304,7 @@ Zur Errichtung eines gemeinschaftlichen Testaments nach § 2247 genügt es, wenn
 
 # § 2271 – Widerruf wechselbezüglicher Verfügungen
 
-(1) Der Widerruf einer Verfügung, die mit einer Verfügung des anderen Ehegatten in dem in § 2270 bezeichneten Verhältnis steht, erfolgt bei Lebzeiten der Ehegatten nach den für den Rücktritt von einem Erbvertrag geltenden Vorschrift des § 2296. Durch eine neue Verfügung von Todes wegen kann ein Ehegatte bei Lebzeiten des anderen seine Verfügung nicht einseitig aufheben.
+(1) Der Widerruf einer Verfügung, die mit einer Verfügung des anderen Ehegatten in dem in § 2270 bezeichneten Verhältnis steht, erfolgt bei Lebzeiten der Ehegatten nach der für den Rücktritt von einem Erbvertrag geltenden Vorschrift des § 2296. Durch eine neue Verfügung von Todes wegen kann ein Ehegatte bei Lebzeiten des anderen seine Verfügung nicht einseitig aufheben.
 
 (2) Das Recht zum Widerruf erlischt mit dem Tode des anderen Ehegatten; der Überlebende kann jedoch seine Verfügung aufheben, wenn er das ihm Zugewendete ausschlägt. Auch nach der Annahme der Zuwendung ist der Überlebende zur Aufhebung nach Maßgabe des § 2294 und des § 2336 berechtigt.
 
@@ -17328,7 +17328,7 @@ Einen Erbvertrag kann als Erblasser nur schließen, wer unbeschränkt geschäfts
 
 # § 2276 – Form
 
-(1) Ein Erbvertrag kann nur zur Niederschrift eines Notars bei gleichzeitiger Anwesenheit beider Teile geschlossen werden. Die Vorschriften der § 2231 Nr. 1 und der §§ 2232, 2233 sind anzuwenden; was nach diesen Vorschriften für den Erblasser gilt, gilt für jeden der Vertragschließenden.
+(1) Ein Erbvertrag kann nur zur Niederschrift eines Notars bei gleichzeitiger Anwesenheit beider Teile geschlossen werden. Die Vorschriften des § 2231 Nr. 1 und der §§ 2232, 2233 sind anzuwenden; was nach diesen Vorschriften für den Erblasser gilt, gilt für jeden der Vertragschließenden.
 
 (2) Für einen Erbvertrag zwischen Ehegatten oder zwischen Verlobten, der mit einem Ehevertrag in derselben Urkunde verbunden wird, genügt die für den Ehevertrag vorgeschriebene Form.
 
@@ -17692,7 +17692,7 @@ Das Recht zur Entziehung des Pflichtteils erlischt durch Verzeihung. Eine Verfü
 
 (1) Hat sich ein Abkömmling in solchem Maße der Verschwendung ergeben oder ist er in solchem Maße überschuldet, dass sein späterer Erwerb erheblich gefährdet wird, so kann der Erblasser das Pflichtteilsrecht des Abkömmlings durch die Anordnung beschränken, dass nach dem Tode des Abkömmlings dessen gesetzliche Erben das ihm Hinterlassene oder den ihm gebührenden Pflichtteil als Nacherben oder als Nachvermächtnisnehmer nach dem Verhältnis ihrer gesetzlichen Erbteile erhalten sollen. Der Erblasser kann auch für die Lebenszeit des Abkömmlings die Verwaltung einem Testamentsvollstrecker übertragen; der Abkömmling hat in einem solchen Falle Anspruch auf den jährlichen Reinertrag.
 
-(2) Auf Anordnungen dieser Art finden die Vorschriften des § 2336 Abs. 1 bis 3 entsprechende Anwendung. Die Anordnungen sind unwirksam, wenn zur Zeit des Erbfalls der Abkömmling sich dauernd von dem verschwenderischen Leben abgewendet hat oder die den Grund der Anordnung bildende Überschuldung nicht mehr besteht.
+(2) Auf Anordnungen dieser Art findet die Vorschrift des § 2336 Abs. 1 bis 3 entsprechende Anwendung. Die Anordnungen sind unwirksam, wenn zur Zeit des Erbfalls der Abkömmling sich dauernd von dem verschwenderischen Leben abgewendet hat oder die den Grund der Anordnung bildende Überschuldung nicht mehr besteht.
 
 # § 2339 – Gründe für Erbunwürdigkeit
 
@@ -17824,7 +17824,7 @@ Einem Testamentsvollstrecker hat das Nachlassgericht auf Antrag ein Zeugnis übe
 
 (1) Hat eine Person, die für tot erklärt oder deren Todeszeit nach den Vorschriften des Verschollenheitsgesetzes festgestellt ist, den Zeitpunkt überlebt, der als Zeitpunkt ihres Todes gilt, oder ist sie vor diesem Zeitpunkt gestorben, so gilt derjenige, welcher auf Grund der Todeserklärung oder der Feststellung der Todeszeit Erbe sein würde, in Ansehung der in den §§ 2366, 2367 bezeichneten Rechtsgeschäfte zugunsten des Dritten auch ohne Erteilung eines Erbscheins als Erbe, es sei denn, dass der Dritte die Unrichtigkeit der Todeserklärung oder der Feststellung der Todeszeit kennt oder weiß, dass sie aufgehoben worden sind.
 
-(2) Ist ein Erbschein erteilt worden, so stehen demjenigen, der für tot erklärt oder dessen Todeszeit nach den Vorschriften des Verschollenheitsgesetzes festgestellt ist, wenn er noch lebt, die im § 2362 bestimmten Rechte zu. Die gleichen Rechte hat eine Person, deren Tod ohne Todeserklärung oder Feststellung der Todeszeit mit Unrecht angenommen worden ist.
+(2) Ist ein Erbschein erteilt worden, so stehen demjenigen, der für tot erklärt oder dessen Todeszeit nach den Vorschriften des Verschollenheitsgesetzes festgestellt ist, wenn er noch lebt, die in § 2362 bestimmten Rechte zu. Die gleichen Rechte hat eine Person, deren Tod ohne Todeserklärung oder Feststellung der Todeszeit mit Unrecht angenommen worden ist.
 
 # § 2371 – Form
 
