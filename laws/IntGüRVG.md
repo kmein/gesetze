@@ -132,34 +132,24 @@ Hängt die Zwangsvollstreckung nach dem Inhalt des Titels von einer dem Gläubig
 
 # § 9 – Vollstreckungsklausel
 
-(1) Auf Grund des Beschlusses nach § 8 Absatz 1 erteilt der Urkundsbeamte der Geschäftsstelle die Vollstreckungsklausel in folgender Form:
-
-"Vollstreckungsklausel nach § 5 des Internationalen Güterrechtsverfahrensgesetzes vom 17. Dezember 2018 (BGBl. I S. 2573). Gemäß dem Beschluss des … (Bezeichnung des Gerichts und des Beschlusses) ist die Zwangsvollstreckung aus … (Bezeichnung des Titels) zugunsten … (Bezeichnung des Gläubigers) gegen … (Bezeichnung des Schuldners) zulässig.
-
-Die zu vollstreckende Verpflichtung lautet:
-
-… (Angabe der dem Schuldner aus dem ausländischen Titel obliegenden Verpflichtung in deutscher Sprache; aus dem Beschluss nach § 8 Absatz 1 Satz 2 zu übernehmen).
-
-Die Zwangsvollstreckung darf über Maßregeln zur Sicherung nicht hinausgehen, bis der Gläubiger eine gerichtliche Anordnung oder ein Zeugnis darüber vorlegt, dass die Zwangsvollstreckung unbeschränkt stattfinden darf."
+(1) Auf Grund des Beschlusses nach § 8 Absatz 1 erteilt der Urkundsbeamte der Geschäftsstelle die Vollstreckungsklausel in folgender Form:  
+  
+„Vollstreckungsklausel nach § 5 des Internationalen Güterrechtsverfahrensgesetzes vom 17. Dezember 2018 (BGBl. I S. 2573). Gemäß dem Beschluss des … (Bezeichnung des Gerichts und des Beschlusses) ist die Zwangsvollstreckung aus … (Bezeichnung des Titels) zugunsten … (Bezeichnung des Gläubigers) gegen … (Bezeichnung des Schuldners) zulässig.   
+Die zu vollstreckende Verpflichtung lautet:  
+  
+… (Angabe der dem Schuldner aus dem ausländischen Titel obliegenden Verpflichtung in deutscher Sprache; aus dem Beschluss nach § 8 Absatz 1 Satz 2 zu übernehmen).   
+Die Zwangsvollstreckung darf über Maßregeln zur Sicherung nicht hinausgehen, bis der Gläubiger eine gerichtliche Anordnung oder ein Zeugnis darüber vorlegt, dass die Zwangsvollstreckung unbeschränkt stattfinden darf.“  
+  
+Lautet der Titel auf Leistung von Geld, so ist der Vollstreckungsklausel folgender Zusatz anzufügen:  
+  
+„Solange die Zwangsvollstreckung über Maßregeln zur Sicherung nicht hinausgehen darf, kann der Schuldner die Zwangsvollstreckung durch Leistung einer Sicherheit in Höhe von … (Angabe des Betrages, wegen dessen der Gläubiger vollstrecken darf) abwenden.“
 
   
-Lautet der Titel auf Leistung von Geld, so ist der Vollstreckungsklausel folgender Zusatz anzufügen:
-
-"Solange die Zwangsvollstreckung über Maßregeln zur Sicherung nicht hinausgehen darf, kann der Schuldner die Zwangsvollstreckung durch Leistung einer Sicherheit in Höhe von … (Angabe des Betrages, wegen dessen der Gläubiger vollstrecken darf) abwenden."
+  
 
 (2) Wird die Zwangsvollstreckung nicht für alle der in dem ausländischen Titel niedergelegten Ansprüche oder nur für einen Teil des Gegenstands der Verpflichtung zugelassen, so ist die Vollstreckungsklausel als „Teil-Vollstreckungsklausel nach § 5 des Internationalen Güterrechtsverfahrensgesetzes vom 17. Dezember 2018 (BGBl. I S. 2573)“ zu bezeichnen.
 
 (3) Die Vollstreckungsklausel ist von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben und mit dem Gerichtssiegel zu versehen. Sie ist entweder auf die Ausfertigung des Titels oder auf ein damit zu verbindendes Blatt zu setzen. Falls eine Übersetzung des Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
-
-"Vollstreckungsklausel nach § 5 des Internationalen Güterrechtsverfahrensgesetzes vom 17. Dezember 2018 (BGBl. I S. 2573). Gemäß dem Beschluss des … (Bezeichnung des Gerichts und des Beschlusses) ist die Zwangsvollstreckung aus … (Bezeichnung des Titels) zugunsten … (Bezeichnung des Gläubigers) gegen … (Bezeichnung des Schuldners) zulässig.
-
-Die zu vollstreckende Verpflichtung lautet:
-
-… (Angabe der dem Schuldner aus dem ausländischen Titel obliegenden Verpflichtung in deutscher Sprache; aus dem Beschluss nach § 8 Absatz 1 Satz 2 zu übernehmen).
-
-Die Zwangsvollstreckung darf über Maßregeln zur Sicherung nicht hinausgehen, bis der Gläubiger eine gerichtliche Anordnung oder ein Zeugnis darüber vorlegt, dass die Zwangsvollstreckung unbeschränkt stattfinden darf."
-
-"Solange die Zwangsvollstreckung über Maßregeln zur Sicherung nicht hinausgehen darf, kann der Schuldner die Zwangsvollstreckung durch Leistung einer Sicherheit in Höhe von … (Angabe des Betrages, wegen dessen der Gläubiger vollstrecken darf) abwenden."
 
 (+++ § 9: Zur Anwendung vgl. § 12 Abs. 4 Satz 2 u. § 14 Satz 2 +++)
 

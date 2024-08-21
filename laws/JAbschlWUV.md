@@ -35,7 +35,7 @@ b) sich nach dem in ihrer Satzung oder ihrem Gesellschaftsvertrag festgesetzten 
 
 (1) Wohnungsunternehmen haben abweichend von § 275 Absatz 2 und 3 des Handelsgesetzbuchs bei der Aufstellung der Gewinn- und Verlustrechnung nach dem Gesamtkostenverfahren oder dem Umsatzkostenverfahren den Posten 1 wie folgt auszuweisen:
 
-"1. Umsatzerlöse
+„1. Umsatzerlöse
 
 a) aus Bewirtschaftungstätigkeit
 
@@ -43,18 +43,16 @@ b) aus Verkauf von Grundstücken
 
 c) aus Betreuungstätigkeit
 
-d) aus anderen Lieferungen und Leistungen".
+d) aus anderen Lieferungen und Leistungen“.
 
   
 Die Umsatzerlöse dürfen zusammengefasst in Posten 1 ausgewiesen werden, wenn die Unterposten Nummer 1 Buchstabe a bis d im Anhang gesondert angegeben werden.
 
 (2) Wohnungsunternehmen haben abweichend von § 275 Absatz 2 des Handelsgesetzbuchs bei der Aufstellung der Gewinn- und Verlustrechnung nach dem Gesamtkostenverfahren die Posten 2 und 5 wie folgt auszuweisen:
 
-"2. Erhöhung oder Verminderung des Bestands an zum Verkauf bestimmten Grundstücken mit fertigen oder unfertigen Bauten sowie unfertigen Leistungen",
+„2. Erhöhung oder Verminderung des Bestands an zum Verkauf bestimmten Grundstücken mit fertigen oder unfertigen Bauten sowie unfertigen Leistungen“,
 
-<!-- -->
-
-"5. Aufwendungen für bezogene Lieferungen und Leistungen
+„5. Aufwendungen für bezogene Lieferungen und Leistungen
 
 a) Aufwendungen für Bewirtschaftungstätigkeit
 
@@ -62,7 +60,7 @@ b) Aufwendungen für Verkaufsgrundstücke
 
 c) Aufwendungen für Betreuungstätigkeit
 
-d) Aufwendungen für andere Lieferungen und Leistungen".
+d) Aufwendungen für andere Lieferungen und Leistungen“.
 
 (3) Kleine Wohnungsunternehmen brauchen Absatz 1 nicht anzuwenden. Die größenabhängigen Erleichterungen in § 275 Absatz 5 und § 276 des Handelsgesetzbuchs bleiben unberührt.
 

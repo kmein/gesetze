@@ -647,7 +647,8 @@ bleibt § 9 in der vor dem 11. Dezember 1999 geltenden Fassung anwendbar.
 
 (5) Für Personenkraftwagen, auf die § 8 Nummer 1 Buchstabe b Anwendung findet, ist § 9 Absatz 1 Nummer 2 Buchstabe b bei erstmaliger Zulassung vor dem 1. September 2018 in folgender Fassung anzuwenden:
 
-b) bei erstmaliger Zulassung ab dem 1. Juli 2009 für je 100 Kubikzentimeter Hubraum oder einem Teil davon 2 Euro für Fremdzündungsmotoren und 9,50 Euro für Selbstzündungsmotoren zuzüglich jeweils 2 Euro für jedes Gramm Kohlendioxidemission je Kilometer entsprechend der Richtlinie 93/116/EG der Kommission vom 17. Dezember 1993 zur Anpassung der Richtlinie 80/1268/EWG des Rates über den Kraftstoffverbrauch von Kraftfahrzeugen an den technischen Fortschritt (ABl. L 329 vom 30.12.1993, S. 39) oder der Verordnung (EG) Nr. 715/2007 in der Fassung der Änderung durch die Verordnung (EU) Nr. 459/2012 (ABl. L 142 vom 1.6.2012, S. 16), das bei erstmaliger Zulassung
+„b)  
+bei erstmaliger Zulassung ab dem 1. Juli 2009 für je 100 Kubikzentimeter Hubraum oder einem Teil davon 2 Euro für Fremdzündungsmotoren und 9,50 Euro für Selbstzündungsmotoren zuzüglich jeweils 2 Euro für jedes Gramm Kohlendioxidemission je Kilometer entsprechend der Richtlinie 93/116/EG der Kommission vom 17. Dezember 1993 zur Anpassung der Richtlinie 80/1268/EWG des Rates über den Kraftstoffverbrauch von Kraftfahrzeugen an den technischen Fortschritt (ABl. L 329 vom 30.12.1993, S. 39) oder der Verordnung (EG) Nr. 715/2007 in der Fassung der Änderung durch die Verordnung (EU) Nr. 459/2012 (ABl. L 142 vom 1.6.2012, S. 16), das bei erstmaliger Zulassung
 
 aa)  
 |                           |           |
@@ -663,7 +664,7 @@ cc) |                       |          |
 |:----------------------|---------:|
 | ab dem 1. Januar 2014 | 95 g/km  |
 
-überschreitet;
+überschreitet;“
 
 (6) In § 9a tritt ab dem Tag des Inkrafttretens der Nachfolgerichtlinie zu der Richtlinie 70/220/EWG des Rates vom 20. März 1970 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Verunreinigung der Luft durch Emissionen von Kraftfahrzeugmotoren (ABl. EG Nr. L 76 S. 1), zuletzt geändert durch die Richtlinie 2003/76/EG der Kommission vom 11. August 2003 (ABl. EU Nr. L 206 S. 29), an die Stelle der Partikelminderungsstufe PM 5 der Grenzwert für Partikelmasse der nächsten Schadstoffstufe (Euro 5) für Personenkraftwagen mit Selbstzündungsmotor.
 
