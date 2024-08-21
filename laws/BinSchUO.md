@@ -484,7 +484,9 @@ b) hinsichtlich Bau, Einrichtung und Ausrüstung den Anforderungen dieser Übere
 (6) Seeschiffe und schwimmende Geräte, die für den Einsatz im Küsten- oder Seebereich zugelassen sind und in der Zone 3 außer der Elbe im Hamburger Hafen und in der Zone 4 verkehren, müssen das jeweils gültige Attest für Seeschiffe auf dem Rhein nach dem Muster in Anlage 3 Abschnitt IV ES-TRIN mitführen, wenn sie nicht das jeweils gültige Unionszeugnis oder Schiffsattest mitführen. Sofern Seeschiffe und schwimmende Geräte ausschließlich außerhalb des Rheins fahren, ist die Überschrift wie folgt anzupassen:  
   
 
-"Attest für Seeschiffe außerhalb des Rheins".
+|                                              |
+|:--------------------------------------------:|
+| „Attest für Seeschiffe außerhalb des Rheins“ |
 
 # § 8 – Andere Fahrtauglichkeitsbescheinigungen und Bescheinigungen für die Besatzung
 
