@@ -1286,31 +1286,43 @@ geahndet werden.
 
 (5) Fahrzeuge, Fahrzeugteile und Ausrüstungen, auf die sich eine Ordnungswidrigkeit nach Absatz 1 in Verbindung mit § 6 Absatz 1 Satz 1 Nummer 5 oder 10 oder eine Ordnungswidrigkeit nach Absatz 2 Satz 1 bezieht, können eingezogen werden.
 
-# § 24a – 0,5 Promille-Grenze
+# § 24a – 0,5 Promille-Grenze, Tetrahydrocannabinol-Grenzwert
 
-(1) Ordnungswidrig handelt, wer im Straßenverkehr ein Kraftfahrzeug führt, obwohl er 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig im Straßenverkehr ein Kraftfahrzeug führt, obwohl er 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt.
 
-(2) Ordnungswidrig handelt, wer unter der Wirkung eines in der Anlage zu dieser Vorschrift genannten berauschenden Mittels im Straßenverkehr ein Kraftfahrzeug führt. Eine solche Wirkung liegt vor, wenn eine in dieser Anlage genannte Substanz im Blut nachgewiesen wird. Satz 1 gilt nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt.
+(1a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig imStraßenverkehr ein Kraftfahrzeug führt, obwohl er 3,5 ng/ml oder mehrTetrahydrocannabinol im Blutserum hat.
 
-(3) Ordnungswidrig handelt auch, wer die Tat fahrlässig begeht.
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig unter der Wirkung eines in der Anlage zu dieser Vorschrift genannten berauschenden Mittels im Straßenverkehr ein Kraftfahrzeug führt. Eine solche Wirkung liegt vor, wenn eine in dieser Anlage genannte Substanz im Blutserum nachgewiesen wird.
 
-(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
+(2a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig eine in Absatz 1a genannte Handlung begeht und
+
+1. ein alkoholisches Getränk zu sich nimmt oder
+
+2. die Fahrt antritt, obwohl er unter der Wirkung eines alkoholischen Getränks steht.
+
+(3) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 1a und 2 Satz 1 mit einer Geldbuße bis zu dreitausend Euro und in den Fällen des Absatzes 2a mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+
+(4) Die Absätze 1a, 2 Satz 1 und Absatz 2a sind nicht anzuwenden, wenn eine dort oder in der Anlage zu dieser Vorschrift genannte Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt.
 
 (5) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium der Justiz mit Zustimmung des Bundesrates die Liste der berauschenden Mittel und Substanzen in der Anlage zu dieser Vorschrift zu ändern oder zu ergänzen, wenn dies nach wissenschaftlicher Erkenntnis im Hinblick auf die Sicherheit des Straßenverkehrs erforderlich ist.
 
 # § 24b – (weggefallen)
 
-# § 24c – Alkoholverbot für Fahranfänger und Fahranfängerinnen
+# § 24c – Alkohol- und Cannabisverbot für Fahranfänger und Fahranfängerinnen
 
-(1) Ordnungswidrig handelt, wer in der Probezeit nach § 2a oder vor Vollendung des 21. Lebensjahres als Führer eines Kraftfahrzeugs im Straßenverkehr alkoholische Getränke zu sich nimmt oder die Fahrt antritt, obwohl er unter der Wirkung eines solchen Getränks steht.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig in der Probezeit nach § 2a oder vor Vollendung des 21. Lebensjahres als Führer eines Kraftfahrzeugs im Straßenverkehr
 
-(2) Ordnungswidrig handelt auch, wer die Tat fahrlässig begeht.
+1. ein alkoholisches Getränk oder die Substanz Tetrahydrocannabinol zu sich nimmt oder
 
-(3) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
+2. die Fahrt antritt, obwohl er unter der Wirkung eines alkoholischen Getränks oder der Substanz Tetrahydrocannabinol steht.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
+
+(3) Absatz 1 ist nicht anzuwenden, wenn die Substanz Tetrahydrocannabinol aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt.
 
 # § 25 – Fahrverbot
 
-(1) Wird gegen die betroffene Person wegen einer Ordnungswidrigkeit nach § 24 Absatz 1, die sie unter grober oder beharrlicher Verletzung der Pflichten eines Kraftfahrzeugführers begangen hat, eine Geldbuße festgesetzt, so kann ihr die Verwaltungsbehörde oder das Gericht in der Bußgeldentscheidung für die Dauer von einem Monat bis zu drei Monaten verbieten, im Straßenverkehr Kraftfahrzeuge jeder oder einer bestimmten Art zu führen. Wird gegen die betroffene Person wegen einer Ordnungswidrigkeit nach § 24a eine Geldbuße festgesetzt, so ist in der Regel auch ein Fahrverbot anzuordnen.
+(1) Wird gegen die betroffene Person wegen einer Ordnungswidrigkeit nach § 24 Absatz 1, die sie unter grober oder beharrlicher Verletzung der Pflichten eines Kraftfahrzeugführers begangen hat, eine Geldbuße festgesetzt, so kann ihr die Verwaltungsbehörde oder das Gericht in der Bußgeldentscheidung für die Dauer von einem Monat bis zu drei Monaten verbieten, im Straßenverkehr Kraftfahrzeuge jeder oder einer bestimmten Art zu führen. Wird gegen die betroffene Person wegen einer Ordnungswidrigkeit nach § 24a Absatz 1 bis 2a eine Geldbuße festgesetzt, so ist in der Regel auch ein Fahrverbot anzuordnen.
 
 (2) Das Fahrverbot wird mit der Rechtskraft der Bußgeldentscheidung wirksam. Für seine Dauer werden von einer deutschen Behörde ausgestellte nationale und internationale Führerscheine amtlich verwahrt. Dies gilt auch, wenn der Führerschein von einer Behörde eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum ausgestellt worden ist, sofern der Inhaber seinen ordentlichen Wohnsitz im Inland hat. Wird er nicht freiwillig herausgegeben, so ist er zu beschlagnahmen.
 
@@ -1344,7 +1356,7 @@ geahndet werden.
 
 # § 26 – Zuständige Verwaltungsbehörde; Verjährung
 
-(1) Bei Ordnungswidrigkeiten nach den § 24 Absatz 1, § 24a Absatz 1 bis 3 und § 24c Absatz 1 und 2 ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten die Behörde oder Dienststelle der Polizei, die von der Landesregierung durch Rechtsverordnung näher bestimmt wird. Die Landesregierung kann die Ermächtigung auf die zuständige oberste Landesbehörde übertragen.
+(1) Bei Ordnungswidrigkeiten nach den § 24 Absatz 1, § 24a Absatz 1 bis 2a und § 24c Absatz 1 ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten die Behörde oder Dienststelle der Polizei, die von der Landesregierung durch Rechtsverordnung näher bestimmt wird. Die Landesregierung kann die Ermächtigung auf die zuständige oberste Landesbehörde übertragen.
 
 (2) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Kraftfahrt-Bundesamt
 
@@ -1362,7 +1374,7 @@ geahndet werden.
 
 1. die Erteilung einer Verwarnung (§ 56 des Gesetzes über Ordnungswidrigkeiten) wegen einer Ordnungswidrigkeit nach § 24 Absatz 1,
 
-2. Regelsätze für Geldbußen wegen einer Ordnungswidrigkeit nach den § 24 Absatz 1, § 24a Absatz 1 bis 3 und § 24c Absatz 1 und 2,
+2. Regelsätze für Geldbußen wegen einer Ordnungswidrigkeit nach den § 24 Absatz 1, § 24a Absatz 1 bis 2a und § 24c Absatz 1,
 
 3. die Anordnung des Fahrverbots nach § 25.
 
@@ -2772,7 +2784,6 @@ e) Die nach Landesrecht zuständige Behörde hat dem Kraftfahrt-Bundesamt unverz
 
 | Berauschende Mittel | Substanzen                        |
 |:--------------------|:----------------------------------|
-| Cannabis            | Tetrahydrocannabinol (THC)        |
 | Heroin              | Morphin                           |
 | Morphin             | Morphin                           |
 | Cocain              | Cocain                            |

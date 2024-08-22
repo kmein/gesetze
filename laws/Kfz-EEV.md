@@ -23,14 +23,6 @@ des § 39 des Bundes-Immissionsschutzgesetzes, der zuletzt durch Artikel 103 der
 
 (2) Diese Verordnung gilt nicht für Fahrzeuge, die keiner Pflicht zur Durchführung der Hauptuntersuchung nach § 29 Absatz 1 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung vom 26. April 2012 (BGBl. I S. 679), die zuletzt durch Artikel 22 des Gesetzes vom 2. März 2023 (BGBl. 2023 I Nr. 56) geändert worden ist, unterliegen.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
-Der Bundeskanzler  
-Die Bundesministerin für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz  
-Der Bundesminister für Digitales und Verkehr
-
 # § 2 – Datenerhebung bei Gelegenheit der Hauptuntersuchung
 
 (1) Die die Hauptuntersuchung durchführende Stelle ist verpflichtet, die Daten nach der Tabelle 1 des Anhangs der Durchführungsverordnung (EU) 2021/392 bei Gelegenheit der Hauptuntersuchung im Sinne des § 29 Absatz 1 der Straßenverkehrs-Zulassungs-Ordnung zu erheben, zu speichern und für die Übermittlung an das Kraftfahrt-Bundesamt nach § 3 zu verwenden.
@@ -94,3 +86,7 @@ jährlich zum 1. April dem von der Europäischen Umweltagentur verwalteten zentr
 # § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.

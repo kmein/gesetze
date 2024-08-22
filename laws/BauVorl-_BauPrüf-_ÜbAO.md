@@ -1,4 +1,4 @@
-% Anordnung über Bauvorlagen, bautechnische Prüfungen und Überwachung  (BauVorl-/BauPrüf-/ÜbAO)
+% Anordnung über Bauvorlagen, Bautechnische Prüfungen und Überwachung  (BauVorl-/BauPrüf-/ÜbAO)
 % Ausfertigungsdatum: 13.08.1990
  
 # Eingangsformel
