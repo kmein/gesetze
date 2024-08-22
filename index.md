@@ -496,7 +496,7 @@
 - [BaustellV](laws/BaustellV.md) Verordnung über Sicherheit und Gesundheitsschutz auf Baustellen
 - [BauStiftG](laws/BauStiftG.md) Gesetz zur Errichtung einer "Bundesstiftung Baukultur"
 - [BauStoffPrAusbV 2005](laws/BauStoffPrAusbV_2005.md) Verordnung über die Berufsausbildung zum Baustoffprüfer/zur Baustoffprüferin
-- [BauVorl-/BauPrüf-/ÜbAO](laws/BauVorl-_BauPrüf-_ÜbAO.md) Anordnung über Bauvorlagen, bautechnische Prüfungen und Überwachung
+- [BauVorl-/BauPrüf-/ÜbAO](laws/BauVorl-_BauPrüf-_ÜbAO.md) Anordnung über Bauvorlagen, Bautechnische Prüfungen und Überwachung
 - [BauwAbdAusbV](laws/BauwAbdAusbV.md) Verordnung über die Berufsausbildung zum Bauwerksabdichter/zur Bauwerksabdichterin
 - [BauWiAusbV 1999](laws/BauWiAusbV_1999.md) Verordnung über die Berufsausbildung in der Bauwirtschaft
 - [BauZAusbV 2002](laws/BauZAusbV_2002.md) Verordnung über die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
@@ -1229,7 +1229,6 @@
 - [BTGO1980Anl6Bek 2022](laws/BTGO1980Anl6Bek_2022.md) Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten
 - [BTGO1980Bes](laws/BTGO1980Bes.md) Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages (Anlage 6 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
 - [BTGO1980ÜbernBek](laws/BTGO1980ÜbernBek.md) Bekanntmachung zur Übernahme der Geschäftsordnung des Deutschen Bundestages
-- [BTHausO 2020](laws/BTHausO_2020.md) Hausordnung des Deutschen Bundestages
 - [BTHausO 2023](laws/BTHausO_2023.md) Hausordnung des Deutschen Bundestages
 - [BTHG](laws/BTHG.md) Gesetz zur Stärkung der Teilhabe und Selbstbestimmung von Menschen mit Behinderungen
 - [BtMAHV](laws/BtMAHV.md) Betäubungsmittel-Außenhandelsverordnung
