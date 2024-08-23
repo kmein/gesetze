@@ -1290,7 +1290,7 @@ geahndet werden.
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig im Straßenverkehr ein Kraftfahrzeug führt, obwohl er 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt.
 
-(1a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig imStraßenverkehr ein Kraftfahrzeug führt, obwohl er 3,5 ng/ml oder mehrTetrahydrocannabinol im Blutserum hat.
+(1a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig im Straßenverkehr ein Kraftfahrzeug führt, obwohl er 3,5 ng/ml oder mehr Tetrahydrocannabinol im Blutserum hat.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig unter der Wirkung eines in der Anlage zu dieser Vorschrift genannten berauschenden Mittels im Straßenverkehr ein Kraftfahrzeug führt. Eine solche Wirkung liegt vor, wenn eine in dieser Anlage genannte Substanz im Blutserum nachgewiesen wird.
 

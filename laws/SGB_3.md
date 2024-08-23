@@ -3299,7 +3299,7 @@ Eine Einstiegsqualifizierung kann für Menschen mit Behinderungen im Sinne des �
 
 (6) Teilnehmende an einer Einstiegsqualifizierung können durch Übernahme der Fahrkosten gefördert werden. Für die Übernahme und die Höhe der Fahrkosten gilt § 63 Absatz 1 Satz 1 Nummer 1 und Absatz 3 entsprechend.
 
-(+++ § 54a: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
+(+++ § 54a: Zur Anwendung vgl. §§ 445, 445a, 455 u. 455a +++)
 
 # § 55 – Anordnungsermächtigung
 
@@ -3369,7 +3369,7 @@ Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere zu bestimmen
 
 (2) Ist die oder der Auszubildende mit voller Verpflegung in einem Wohnheim, einem Internat oder in einer anderen sozialpädagogisch begleiteten Wohnform im Sinne des Achten Buches untergebracht, werden abweichend von Absatz 1 als Bedarf für den Lebensunterhalt die im Rahmen der §§ 78a bis 78g des Achten Buches vereinbarten Entgelte für Verpflegung und Unterbringung ohne sozialpädagogische Begleitung zuzüglich 115 Euro monatlich für sonstige Bedürfnisse zugrunde gelegt. Als Bedarf für den Lebensunterhalt von Auszubildenden unter 27 Jahren werden zusätzlich die Entgelte für die sozialpädagogische Begleitung zugrunde gelegt, soweit diese nicht von Dritten erstattet werden. Ist die oder der Auszubildende bereits in einer anderen sozialpädagogisch begleiteten Wohnform untergebracht, werden Leistungen für junge Menschen, die die Voraussetzungen des § 13 Absatz 1 des Achten Buchs erfüllen, vorrangig nach § 13 Absatz 3 des Achten Buches erbracht.
 
-(+++ § 61: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
+(+++ § 61: Zur Anwendung vgl. §§ 445, 445a, 455 u. 455a +++)
 
 # § 62 – Bedarf für den Lebensunterhalt bei berufsvorbereitenden Bildungsmaßnahmen
 
@@ -3379,7 +3379,7 @@ Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere zu bestimmen
 
 (3) Ist die oder der Auszubildende mit voller Verpflegung in einem Wohnheim oder einem Internat untergebracht, werden abweichend von Absatz 2 als Bedarf für den Lebensunterhalt die im Rahmen der §§ 78a bis 78g des Achten Buches vereinbarten Entgelte für Verpflegung und Unterbringung ohne sozialpädagogische Begleitung zuzüglich 115 Euro monatlich für sonstige Bedürfnisse zugrunde gelegt. Als Bedarf für den Lebensunterhalt von Auszubildenden unter 18 Jahren werden zusätzlich die Entgelte für die sozialpädagogische Begleitung zugrunde gelegt, soweit diese nicht von Dritten erstattet werden.
 
-(+++ § 62: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
+(+++ § 62: Zur Anwendung vgl. §§ 445, 445a, 455 u. 455a +++)
 
 # § 63 – Fahrkosten
 
@@ -3415,7 +3415,7 @@ In besonderen Härtefällen können die notwendigen Aufwendungen für eine weite
 
 3. wenn die Aufwendungen von der oder dem Auszubildenden oder ihren oder seinen Erziehungsberechtigten zu tragen sind.
 
-(+++ § 64: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
+(+++ § 64: Zur Anwendung vgl. §§ 445, 445a, 455 u. 455a +++)
 
 # § 65 – Besonderheiten beim Besuch des Berufsschulunterrichts in Blockform
 
@@ -3453,7 +3453,7 @@ Für die Anpassung der Bedarfssätze gilt § 35 Satz 1 und 2 des Bundesausbildun
 
 (5) Das Einkommen der Eltern bleibt außer Betracht, wenn ihr Aufenthaltsort nicht bekannt ist oder sie rechtlich oder tatsächlich gehindert sind, im Inland Unterhalt zu leisten. Das Einkommen ist ferner nicht anzurechnen, soweit ein Unterhaltsanspruch nicht besteht oder dieser verwirkt ist.
 
-(+++ § 67: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
+(+++ § 67: Zur Anwendung vgl. §§ 445, 445a, 455 u. 455a +++)
 
 # § 68 – Vorausleistung von Berufsausbildungsbeihilfe
 
@@ -3470,6 +3470,8 @@ Für die Anpassung der Bedarfssätze gilt § 35 Satz 1 und 2 des Bundesausbildun
 (4) Berufsausbildungsbeihilfe wird nicht vorausgeleistet, soweit die Eltern bereit sind, Unterhalt entsprechend einer nach § 1612 Absatz 2 des Bürgerlichen Gesetzbuchs getroffenen Bestimmung zu leisten.
 
 (5) Die Agentur für Arbeit kann den auf sie übergegangenen Unterhaltsanspruch im Einvernehmen mit der oder dem Unterhaltsberechtigten auf diese oder diesen zur gerichtlichen Geltendmachung rückübertragen und sich den geltend gemachten Unterhaltsanspruch abtreten lassen. Kosten, mit denen die oder der Unterhaltsberechtigte dadurch selbst belastet wird, sind zu übernehmen.
+
+(+++ § 68: Zur Anwendung vgl. § 455a +++)
 
 # § 69 – Dauer der Förderung
 
@@ -4511,7 +4513,7 @@ Bei einer Berufsausbildung und bei einer individuellen betrieblichen Qualifizier
 
 Bei einer Berufsausbildung ist in den Fällen der Nummern 1 und 3 mindestens ein Betrag zugrunde zu legen, der der Ausbildungsvergütung nach § 17 Absatz 2 des Berufsbildungsgesetzes nach Abzug der Steuern und einer Sozialversicherungspauschale nach § 153 Absatz 1 entspricht. Übersteigt in den Fällen der Nummer 2 die Ausbildungsvergütung nach § 17 Absatz 2 des Berufsbildungsgesetzes nach Abzug der Steuern und einer Sozialversicherungspauschale nach § 153 Absatz 1 den Bedarf zuzüglich der Beträge nach § 2 Absatz 1 und 3 Nummer 2 der Sozialversicherungsentgeltverordnung, so wird die Differenz als Ausgleichsbetrag gezahlt.
 
-(+++ § 123: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
+(+++ § 123: Zur Anwendung vgl. §§ 445, 445a, 455 u. 455a +++)
 
 # § 124 – Ausbildungsgeld bei berufsvorbereitenden Bildungsmaßnahmen und bei Grundausbildung
 
@@ -4523,13 +4525,13 @@ Bei berufsvorbereitenden Bildungsmaßnahmen und bei Grundausbildung wird folgend
 
 3. bei anderweitiger Unterbringung der jeweils geltende Bedarf nach § 12 Absatz 2 Nummer 1 des Bundesausbildungsförderungsgesetzes; § 128 ist mit Ausnahme der Erstattung behinderungsbedingter Mehraufwendungen nicht anzuwenden.
 
-(+++ § 124: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
+(+++ § 124: Zur Anwendung vgl. §§ 445, 445a, 455 u. 455a +++)
 
 # § 125 – Ausbildungsgeld bei Maßnahmen in anerkannten Werkstätten für behinderte Menschen und bei Maßnahmen anderer Leistungsanbieter nach § 60 des Neunten Buches
 
 Bei Maßnahmen im Eingangsverfahren und Berufsbildungsbereich anerkannter Werkstätten für behinderte Menschen und bei vergleichbaren Maßnahmen anderer Leistungsanbieter nach § 60 des Neunten Buches wird ein Ausbildungsgeld in Höhe von 133 Euro monatlich gezahlt.
 
-(+++ § 125: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
+(+++ § 125: Zur Anwendung vgl. §§ 445, 445a, 455 u. 455a +++)
 
 # § 126 – Einkommensanrechnung
 
@@ -4543,7 +4545,7 @@ Bei Maßnahmen im Eingangsverfahren und Berufsbildungsbereich anerkannter Werkst
 
 3. der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners bis zu 2 880 Euro monatlich.
 
-(+++ § 126: Zur Anwendung vgl. §§ 445, 445a u. 455 +++)
+(+++ § 126: Zur Anwendung vgl. §§ 445, 445a, 455 u. 455a +++)
 
 # § 127 – Teilnahmekosten für Maßnahmen
 
