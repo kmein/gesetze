@@ -1815,7 +1815,7 @@ Bei einer auf Grund dieses Gesetzes angeordneten oder einer von der obersten Lan
 
 3. Name der Krankheit, gegen die geimpft wurde,
 
-4. Name und Anschrift der für die Durchführung der Schutzimpfung verantwortlichen Person sowie
+4. Name der geimpften Person, deren Geburtsdatum und Name und Anschrift der für die Durchführung der Schutzimpfung verantwortlichen Person sowie
 
 5. Bestätigung in Schriftform oder in elektronischer Form mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel durch die für die Durchführung der Schutzimpfung verantwortliche Person.
 
