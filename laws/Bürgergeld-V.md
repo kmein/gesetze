@@ -27,23 +27,17 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 9. bei Beziehenden von Bürgergeld nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, die das 15. Lebensjahr noch nicht vollendet haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen Betrag von 100 Euro monatlich nicht übersteigen,
 
-10. nach § 3 Nummer 11a oder 11b des Einkommensteuergesetzes steuerfrei gewährte Leistungen aufgrund der COVID-19-Pandemie sowie den Leistungen nach § 3 Nummer 11a des Einkommensteuergesetzes entsprechende Zahlungen aus den Haushalten des Bundes und der Länder,
+10. eine Witwen- oder Witwerrente nach § 67 Nummer 5 und 6 des Sechsten Buches Sozialgesetzbuch, soweit diese Rente bis zum Ende des dritten Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben ist, die anschließende Witwen- oder Witwerrente überschreitet,
 
 11. Verpflegung, die außerhalb der in den §§ 2, 3 und 4 Nummer 4 genannten Einkommensarten bereitgestellt wird,
 
 12. Geldgeschenke an Minderjährige anlässlich der Firmung, Kommunion, Konfirmation oder vergleichbarer religiöser Feste sowie anlässlich der Jugendweihe, soweit sie den Betrag von 3 100 Euro nicht überschreiten,
 
-13. die auf Grund eines Bundesprogramms gezahlten Außerordentlichen Wirtschaftshilfen zur Abfederung von Einnahmeausfällen, die ab dem 2. November 2020 infolge der vorübergehenden Schließung von Betrieben und Einrichtungen entstanden sind (Novemberhilfe und Dezemberhilfe),
-
-14. die pauschalierten Betriebskostenzuschüsse, die auf Grund des Förderelements „Neustarthilfe“ des Bundesprogramms Überbrückungshilfe III gezahlt werden,
-
-15. Hilfen zur Beschaffung von Hygiene- oder Gesundheitsartikeln, die auf Grund einer epidemischen Lage von nationaler Tragweite, die vom Deutschen Bundestag gemäß § 5 Absatz 1 Satz 1 des Infektionsschutzgesetzes festgestellt worden ist, aus Mitteln des Bundes oder der Länder gezahlt werden,
-
-16. in der Zeit vom 1. Januar 2023 bis zum Ablauf des 30. Juni 2023 erzielte Einnahmen von Schülerinnen und Schülern allgemein- oder berufsbildender Schulen, die das 25. Lebensjahr noch nicht vollendet haben, aus Erwerbstätigkeiten, die in den Schulferien ausgeübt werden, soweit diese einen Betrag in Höhe von 2 400 Euro kalenderjährlich nicht überschreiten; dies gilt nicht für Schülerinnen und Schüler, die einen Anspruch auf Ausbildungsvergütung haben.
+13. Hilfen zur Beschaffung von Hygiene- oder Gesundheitsartikeln, die auf Grund einer epidemischen Lage von nationaler Tragweite, die vom Deutschen Bundestag gemäß § 5 Absatz 1 Satz 1 des Infektionsschutzgesetzes festgestellt worden ist, aus Mitteln des Bundes oder der Länder gezahlt werden.
 
 (2) Bei der § 9 Abs. 5 des Zweiten Buches Sozialgesetzbuch zugrunde liegenden Vermutung, dass Verwandte und Verschwägerte an mit ihnen in Haushaltsgemeinschaft lebende Hilfebedürftige Leistungen erbringen, sind die um die Absetzbeträge nach § 11b des Zweiten Buches Sozialgesetzbuch bereinigten Einnahmen in der Regel nicht als Einkommen zu berücksichtigen, soweit sie einen Freibetrag in Höhe des doppelten Betrags des nach § 20 Absatz 2 Satz 1 maßgebenden Regelbedarfs zuzüglich der anteiligen Aufwendungen für Unterkunft und Heizung sowie darüber hinausgehend 50 Prozent der diesen Freibetrag übersteigenden bereinigten Einnahmen nicht überschreiten. § 11a des Zweiten Buches Sozialgesetzbuch gilt entsprechend.
 
-(3) Die Verletztenrente nach dem Siebten Buch Sozialgesetzbuch ist teilweise nicht als Einkommen zu berücksichtigen, wenn sie auf Grund eines in Ausübung der Wehrpflicht bei der Nationalen Volksarmee der ehemaligen Deutschen Demokratischen Republik erlittenen Gesundheitsschadens erbracht wird. Dabei bestimmt sich die Höhe des nicht zu berücksichtigenden Betrages nach der Höhe der Grundrente nach § 31 des Bundesversorgungsgesetzes, die für den Grad der Schädigungsfolgen zu zahlen ist, der der jeweiligen Minderung der Erwerbsfähigkeit entspricht. Bei einer Minderung der Erwerbsfähigkeit um 20 Prozent beträgt der nicht zu berücksichtigende Betrag zwei Drittel, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente nach dem Bundesversorgungsgesetz.
+(3) Die Verletztenrente nach dem Siebten Buch Sozialgesetzbuch ist teilweise nicht als Einkommen zu berücksichtigen, wenn sie auf Grund eines in Ausübung der Wehrpflicht bei der Nationalen Volksarmee der ehemaligen Deutschen Demokratischen Republik erlittenen Gesundheitsschadens erbracht wird. Dabei bestimmt sich die Höhe des nicht zu berücksichtigenden Betrages nach der Höhe der vergleichbaren monatlichen Entschädigungszahlung nach § 83 Absatz 1 des Vierzehnten Buches Sozialgesetzbuch, die für den Grad der Schädigungsfolgen zu zahlen ist, der der jeweiligen Minderung der Erwerbsfähigkeit entspricht. Bei einer Minderung der Erwerbsfähigkeit um 20 Prozent beträgt der nicht zu berücksichtigende Betrag zwei Drittel, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente nach dem Vierzehnten Buch Sozialgesetzbuch.
 
 # § 2 – Berechnung des Einkommens aus nichtselbständiger Arbeit
 
@@ -69,7 +63,7 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 (1) Bei der Berechnung des Einkommens aus selbständiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft ist von den Betriebseinnahmen auszugehen. Betriebseinnahmen sind alle aus selbständiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft erzielten Einnahmen, die im Bewilligungszeitraum nach § 41 Absatz 3 des Zweiten Buches Sozialgesetzbuch tatsächlich zufließen. Wird eine Erwerbstätigkeit nach Satz 1 nur während eines Teils des Bewilligungszeitraums ausgeübt, ist das Einkommen nur für diesen Zeitraum zu berechnen.
 
-(1a) Nicht zu den Betriebseinnahmen zählen abweichend von Absatz 1 Satz 2 die pauschalierten Betriebskostenzuschüsse, die auf Grund des Förderelements „Neustarthilfe“ des Bundesprogramms Überbrückungshilfe III gezahlt werden.
+(1a) (weggefallen)
 
 (2) Zur Berechnung des Einkommens sind von den Betriebseinnahmen die im Bewilligungszeitraum tatsächlich geleisteten notwendigen Ausgaben mit Ausnahme der nach § 11b des Zweiten Buches Sozialgesetzbuch abzusetzenden Beträge ohne Rücksicht auf steuerrechtliche Vorschriften abzusetzen.
 
