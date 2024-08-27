@@ -335,11 +335,11 @@ Der Genehmigungsinhaber hat in der ersten monatlichen Mitteilung über die erzeu
 
 (6) § 14 des Bundes-Immissionsschutzgesetzes gilt sinngemäß für Einwirkungen, die von einer genehmigten Anlage auf ein anderes Grundstück ausgehen.
 
-§ 7 Abs. 1a Satz 1 u. 2: IdF d. Art. 1 Nr. 1 Buchst. a G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)  
-§ 7 Abs. 1b Satz 1: IdF d. Art. 1 Nr. 1 Buchst. b G v. 8.12.2010 I 1814 mWv 14.12.2010 u. d. Art. 1 Nr. 1 Buchst. b DBuchst. aa G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)  
-§ 7 Abs. 1b Satz 4: Eingef. durch Art. 1 Nr. 1 Buchst. b DBuchst. bb G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.); idF d. Art. 1 Nr. 1 Buchst. a G v. 10.8.2021 I 3530 mWv 31.10.2021  
-§ 7 Abs. 1c Satz 1 Nr. 1: IdF d. Art. 1 Nr. 1 Buchst. c DBuchst. aa G v. 8.12.2010 I 1814 mWv 14.12.2010 u. d. Art. 1 Nr. 1 Buchst. c DBuchst. aa G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)  
-§ 7 Abs. 1c Satz 4: IdF d. Art. 1 Nr. 1 Buchst. c DBuchst. bb G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)
+§ 7 Abs. 1a Satz 1 u. 2: IdF d. Art. 1 Nr. 1 Buchst. a G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.); Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 10.8.2021 I 3530 mWv 31.10.2021  
+§ 7 Abs. 1b Satz 1: IdF d. Art. 1 Nr. 1 Buchst. b G v. 8.12.2010 I 1814 mWv 14.12.2010 u. d. Art. 1 Nr. 1 Buchst. b DBuchst. aa G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.); Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 10.8.2021 I 3530 mWv 31.10.2021  
+§ 7 Abs. 1b Satz 4: Eingef. durch Art. 1 Nr. 1 Buchst. b DBuchst. bb G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.); idF d. Art. 1 Nr. 1 Buchst. a G v. 10.8.2021 I 3530 mWv 31.10.2021; Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 10.8.2021 I 3530 mWv 31.10.2021  
+§ 7 Abs. 1c Satz 1 Nr. 1: IdF d. Art. 1 Nr. 1 Buchst. c DBuchst. aa G v. 8.12.2010 I 1814 mWv 14.12.2010 u. d. Art. 1 Nr. 1 Buchst. c DBuchst. aa G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.); Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 10.8.2021 I 3530 mWv 31.10.2021  
+§ 7 Abs. 1c Satz 4: IdF d. Art. 1 Nr. 1 Buchst. c DBuchst. bb G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.); Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 10.8.2021 I 3530 mWv 31.10.2021
 
 # § 7a – Vorbescheid
 
@@ -1345,7 +1345,7 @@ Der Störfallplanungswert für die Planung von Rückholungs- und Stilllegungsma�
 
 # Anlage 3 – (zu § 7 Absatz 1a)Elektrizitätsmengen nach § 7 Absatz 1a
 
-Anlage 3 Fußn.: IdF d. Art. 1 Nr. 3 Buchst. b G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)
+Anlage 3 Fußn.: IdF d. Art. 1 Nr. 3 Buchst. b G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.); Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 10.8.2021 I 3530 mWv 31.10.2021
 
 # Anlage 4 – Sicherheitsüberprüfung nach § 19a Abs. 1
 
