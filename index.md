@@ -978,6 +978,7 @@
 - [BMinUZustAnO](laws/BMinUZustAnO.md) Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
 - [BMinWiTBDGAnO 2009](laws/BMinWiTBDGAnO_2009.md) Anordnung zur Durchführung des Bundesdisziplinargesetzes im Geschäftsbereich des Bundesministeriums für Wirtschaft und Technologie
 - [BMinWiTBesZustAnO](laws/BMinWiTBesZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundesministeriums für Wirtschaft und Technologie in Angelegenheiten von Besoldung und Amtsbezügen
+- [BMinWKBDGAnO](laws/BMinWKBDGAnO.md) Anordnung zur Durchführung des Bundesdisziplinargesetzes im Geschäftsbereich des Bundesministeriums für Wirtschaft und Klimaschutz
 - [BMIWidVertrAnO](laws/BMIWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums des Innern
 - [BMJErnAnO](laws/BMJErnAnO.md) Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich des Bundesministers der Justiz
 - [BMJErnAnO 2024](laws/BMJErnAnO_2024.md) Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums der Justiz
@@ -2529,6 +2530,7 @@
 - [GNotKG](laws/GNotKG.md) Gesetz über Kosten der freiwilligen Gerichtsbarkeit für Gerichte und Notare
 - [GntDAIVVDV](laws/GntDAIVVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes
 - [GntDBwVVDV](laws/GntDBwVVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst in der Bundeswehrverwaltung
+- [GntDLSVVDV](laws/GntDLSVVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Dienst des Bundes in der Landwirtschaftlichen Sozialversicherung
 - [GntDSVVDV](laws/GntDSVVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung
 - [GntVDDVCSVDV](laws/GntVDDVCSVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes – Fachrichtung digitale Verwaltung und Cyber-Sicherheit –
 - [GntZollDVDV](laws/GntZollDVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Zolldienst des Bundes
