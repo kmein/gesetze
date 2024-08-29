@@ -1241,6 +1241,7 @@
 - [BtRegV](laws/BtRegV.md) Verordnung über die Registrierung von beruflichen Betreuern
 - [BTV-3-ImpfgestattungsV](laws/BTV-3-ImpfgestattungsV.md) Zweite Verordnung über bestimmte Impfstoffe zum Schutz vor der Blauzungenkrankheit
 - [BTVBhHFZustAnO](laws/BTVBhHFZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten der Verwaltung des Deutschen Bundestages im Widerspruchsverfahren und über die Vertretung des Bundes bei Klagen aus dem Beamtenverhältnis in Angelegenheiten der Beihilfe und der Heilfürsorge
+- [BTWahl2025AnO](laws/BTWahl2025AnO.md) Anordnung über die Bundestagswahl 2025
 - [BuchbAusbV](laws/BuchbAusbV.md) Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin*)
 - [BuchBMstrV](laws/BuchBMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Buchbinder-Handwerk
 - [BuchhdlAusbV 2011](laws/BuchhdlAusbV_2011.md) Verordnung über die Berufsausbildung zum Buchhändler und zur Buchhändlerin*)
