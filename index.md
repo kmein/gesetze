@@ -1529,8 +1529,6 @@
 - [DokErstÜbV](laws/DokErstÜbV.md) Verordnung über die Standards für die Erstellung elektronischer Dokumente und für deren Übermittlung zwischen Strafverfolgungsbehörden und Gerichten
 - [DollBBerAbk 2](laws/DollBBerAbk_2.md) Zweites Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gewisse Angelegenheiten, die sich aus der Bereinigung deutscher Dollarbonds ergeben
 - [DollBBerAbk2G](laws/DollBBerAbk2G.md) Gesetz zum Zweiten Abkommen vom 16. August 1960 zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gewisse Angelegenheiten, die sich aus der Bereinigung deutscher Dollarbonds ergeben
-- [DonauSchPV](laws/DonauSchPV.md) Donauschiffahrtspolizeiverordnung
-- [DonauSchPVAnl 1993](laws/DonauSchPVAnl_1993.md) Anlage A zur Donauschiffahrtspolizeiverordnung
 - [DonauSchÜbk](laws/DonauSchÜbk.md) Übereinkommen über die Zusammenarbeit zum Schutz und zur verträglichen Nutzung der Donau
 - [DopingÜbkG](laws/DopingÜbkG.md) Gesetz zu dem Übereinkommen vom 16. November 1989 gegen Doping
 - [DopingÜbkZProt](laws/DopingÜbkZProt.md) Zusatzprotokoll zum Übereinkommen gegen Doping
@@ -2689,7 +2687,6 @@
 - [HaldeRlAnO](laws/HaldeRlAnO.md) Anordnung über Halden und Restlöcher
 - [HandzMstrV](laws/HandzMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Handzuginstrumentenmacher-Handwerk
 - [HanfEinfV](laws/HanfEinfV.md) Verordnung über die Einfuhr von Hanf aus Drittländern
-- [HanfSaatV 2024](laws/HanfSaatV_2024.md) Verordnung über besondere Anforderungen an Saatgut von Hanf im Rahmen der Saatgutanerkennung 2024
 - [HArchDVDV](laws/HArchDVDV.md) Verordnung über den Vorbereitungsdienst für den höheren Archivdienst des Bundes
 - [HAuslG](laws/HAuslG.md) Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet
 - [HAV](laws/HAV.md) Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung
@@ -6725,7 +6722,6 @@
 - [25. BImSchV](laws/25._BImSchV.md) Fünfundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [26. BImSchV](laws/26._BImSchV.md) Sechsundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [27. BImSchV](laws/27._BImSchV.md) Siebenundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Artikel 1 der Verordnung über Anlagen zur Feuerbestattung und zur Änderung der Verordnung über genehmigungsbedürftige Anlagen)
-- [27. DonauSchPVAbweichV](laws/27._DonauSchPVAbweichV.md) Siebenundzwanzigste Verordnung zur vorübergehenden Abweichung von der Donauschifffahrtspolizeiverordnung
 - [28. BImSchV](laws/28._BImSchV.md) Achtundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes 1
 - [29. BImSchV](laws/29._BImSchV.md) Neunundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [3. ÄndV - 6. DV-BEG](laws/3._ÄndV_-_6._DV-BEG.md) Dritte Verordnung zur Änderung der Sechsten Verordnung zur Durchführung des Bundesentschädigungsgesetzes
@@ -6750,7 +6746,6 @@
 - [39. BImSchV](laws/39._BImSchV.md) Neununddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes*)
 - [4. ÄndG LAG](laws/4._ÄndG_LAG.md) Viertes Gesetz zur Änderung des Lastenausgleichsgesetzes
 - [4. BImSchV](laws/4._BImSchV.md) Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
-- [4. BinSchStrOAbweichV](laws/4._BinSchStrOAbweichV.md) Vierte Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
 - [4. BWI-VO](laws/4._BWI-VO.md) Verordnung über die Durchführung einer vierten Bundeswaldinventur
 - [4. DV LuftBO](laws/4._DV_LuftBO.md) Vierte Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Ausrüstung und Betrieb von Heißluftballonen und Heißluft-Luftschiffen)
 - [4. DV-BEG](laws/4._DV-BEG.md) Vierte Verordnung zur Durchführung des Bundesentschädigungsgesetzes

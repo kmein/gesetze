@@ -99,118 +99,64 @@ In Papierform eingereichte Formulare können zur elektronischen Weiterverarbeitu
 
 # § 6 – Übergangsregelung
 
-(1) Für Vollstreckungsaufträge an Gerichtsvollzieher zur Zwangsvollstreckung wegen privatrechtlicher Geldforderungen, die bis einschließlich 31. August 2024 gestellt werden, dürfen diejenigen Formulare weiter genutzt werden, die durch die Gerichtsvollzieherformular-Verordnung vom 28. September 2015 (BGBl. I S. 1586), die durch Artikel 8 des Gesetzes vom 21. November 2016 (BGBl. I S. 2591) geändert worden ist, für solche Aufträge bestimmt sind. Ist für Vollstreckungsaufträge an Gerichtsvollzieher zur Zwangsvollstreckung wegen öffentlich-rechtlicher Geldforderungen die Nutzung der Formulare der Anlagen 1 und 6 verbindlich, so müssen diese Formulare erst für solche Vollstreckungsaufträge genutzt werden, die ab dem 1. Mai 2025 gestellt werden.
+(1) Für bis einschließlich 30. September 2025 gestellte
 
-(2) Für Anträge auf Erlass einer richterlichen Durchsuchungsanordnung nach § 758a Absatz 1 der Zivilprozessordnung, auf Erlass eines Pfändungsbeschlusses nach § 829 der Zivilprozessordnung sowie auf Erlass eines Pfändungs- und Überweisungsbeschlusses nach den §§ 829 und 835 der Zivilprozessordnung, die bis einschließlich 31. August 2024 gestellt werden, dürfen diejenigen Formulare weiter genutzt werden, die durch die Zwangsvollstreckungsformular-Verordnung vom 23. August 2012 (BGBl. I S. 1822), die durch Artikel 1 der Verordnung vom 16. Juni 2014 (BGBl. I S. 754) geändert worden ist, für solche Anträge bestimmt sind.
+1. Vollstreckungsaufträge an Gerichtsvollzieher zur Zwangsvollstreckung wegen privatrechtlicher Geldforderungen,
+
+2. Anträge auf Erlass einer richterlichen Durchsuchungsanordnung nach § 758a Absatz 1 der Zivilprozessordnung,
+
+3. Anträge auf Erlass eines Pfändungsbeschlusses nach § 829 der Zivilprozessordnung und
+
+4. Anträge auf Erlass eines Pfändungs- und Überweisungsbeschlusses nach den §§ 829 und 835 der Zivilprozessordnung
+
+dürfen diejenigen Formulare weiter genutzt werden, die durch diese Verordnung in der Fassung vom 24. November 2023 für solche Aufträge und Anträge bestimmt sind.
+
+(2) Ist für Vollstreckungsaufträge an Gerichtsvollzieher zur Zwangsvollstreckung wegen öffentlich-rechtlicher Geldforderungen die Nutzung der Formulare der Anlagen 1 und 6 verbindlich, so müssen diese Formulare erst für solche Vollstreckungsaufträge genutzt werden, die ab dem 1. Oktober 2025 gestellt werden.
 
 # Anlage 1 – (zu § 1 Absatz 1)Vollstreckungsauftrag an Gerichtsvollzieher
 
-(Fundstelle: BGBl. I 2022, 2370 - 2377)
+(Fundstelle: BGBl. 2024 I Nr. 203, S. 3 – 10)
 
- 
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0010.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0020.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0030.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0040.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0050.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0060.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0070.jpg)
+<a href="../normengrafiken/bgbl1_2024/j10203a_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 2 – (zu § 1 Absatz 2)Antrag auf Erlass einer richterlichen Durchsuchungsanordnung und einer richterlichen Anordnung der Vollstreckung zur Nachtzeit und an Sonn- und Feiertagen
 
-(Fundstelle: BGBl. I 2022, 2378 - 2380)
+(Fundstelle: BGBl. 2024 I Nr. 203, S. 11 – 13)
 
- 
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0080.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0090.jpg)
+<a href="../normengrafiken/bgbl1_2024/j10203b_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 3 – (zu § 1 Absatz 2)Entwurf einer richterlichen Durchsuchungsanordnung und einer richterlichen Anordnung der Vollstreckung zur Nachtzeit und an Sonn- und Feiertagen
 
-(Fundstelle: BGBl. I 2022, 2381 - 2386)
+(Fundstelle: BGBl. 2024 I Nr. 203, S. 14 – 19)
 
- 
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0100.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0110.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0120.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0130.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0140.jpg)
+<a href="../normengrafiken/bgbl1_2024/j10203c_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 4 – (zu § 1 Absatz 3)Antrag auf Erlass eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses
 
-(Fundstelle: BGBl. I 2022, 2387 - 2389)
+(Fundstelle: BGBl. 2024 I Nr. 203, S. 20 – 22)
 
- 
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0150.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0160.jpg)
+<a href="../normengrafiken/bgbl1_2024/j10203d_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 5 – (zu § 1 Absatz 3)Entwurf eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses
 
-(Fundstelle: BGBl. I 2022, 2390 - 2399)
+(Fundstelle: BGBl. 2024 I Nr. 203, S. 23 – 32)
 
- 
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0170.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0180.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0190.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0200.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0210.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0220.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0230.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0240.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0250.jpg)
+<a href="../normengrafiken/bgbl1_2024/j10203e_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 6 – (zu § 1 Absatz 4 Nummer 1)Aufstellung von Forderungen für Vollstreckungsaufträge an Gerichtsvollzieher
 
-(Fundstelle: BGBl. I 2022, 2400 - 2402)
+(Fundstelle: BGBl. 2024 I Nr. 203, S. 33 – 35)
 
- 
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0260.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0270.jpg)
+<a href="../normengrafiken/bgbl1_2024/j10203f_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 7 – (zu § 1 Absatz 4 Nummer 2 Buchstabe a)Aufstellung von Forderungen, die keine gesetzlichen Unterhaltsansprüche sind, für den Antrag auf Erlass eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses
 
-(Fundstelle: BGBl. I 2022, 2403 - 2405)
+(Fundstelle: BGBl. 2024 I Nr. 203, S. 36 – 38)
 
- 
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0280.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0290.jpg)
+<a href="../normengrafiken/bgbl1_2024/j10203g_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 8 – (zu § 1 Absatz 4 Nummer 2 Buchstabe b)Aufstellung von Forderungen bei der Vollstreckung von gesetzlichen Unterhaltsansprüchen für den Antrag auf Erlass eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses
 
-(Fundstelle: BGBl. I 2022, 2406 - 2409)
+(Fundstelle: BGBl. 2024 I Nr. 203, S. 39 – 42)
 
- 
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0300.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0310.jpg)
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j2368-1_0320.jpg)
+<a href="../normengrafiken/bgbl1_2024/j10203h_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
