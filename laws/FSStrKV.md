@@ -7,19 +7,15 @@ Auf Grund des § 32 Abs. 1 Satz 1 Nr. 14 und Satz 4 des Luftverkehrsgesetzes in 
 
 # § 1
 
-Für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung bei der Benutzung des Luftraums der Fluginformationsgebiete der Bundesrepublik Deutschland werden Kosten (Gebühren und Auslagen) erhoben. Dies gilt nicht für
+(1) Für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung bei der Benutzung des Luftraums der Fluginformationsgebiete der Bundesrepublik Deutschland werden Kosten (Gebühren und Auslagen) erhoben. Dies gilt nicht für
 
 1. Flüge militärischer Luftfahrzeuge der NATO-Mitgliedstaaten;
 
-2. Flüge militärischer Luftfahrzeuge anderer als NATO-Mitgliedstaaten, wenn auch von dem betreffenden Staat für militärische Luftfahrzeuge der Bundesrepublik Deutschland eine entsprechende Kostenbefreiung gewährt wird.
+2. Flüge militärischer Luftfahrzeuge anderer als NATO-Mitgliedstaaten, wenn auch von dem betreffenden Staat für militärische Luftfahrzeuge der Bundesrepublik Deutschland eine entsprechende Kostenbefreiung gewährt wird;
 
-(2) Für die Inanspruchnahme der Flugsicherung bei Übungsflügen, die ausschließlich zum Zwecke des Erwerbs eines Pilotenscheins oder einer Berechtigung für Luftfahrzeugführer durchgeführt werden, wird befristet bis zum 31. Dezember 2000 eine Kostenermäßigung von 40 vom Hundert gewährt, wenn
+3. Flüge, soweit sie nach Sichtflugregeln durchgeführt werden.
 
-1. diese Flüge nicht zur Beförderung von Fluggästen oder Fracht oder zur Abstellung oder Überführung von Luftfahrzeugen dienen,
-
-2. diese Flüge nur im Luftraum der Bundesrepublik Deutschland durchgeführt werden und
-
-3. im Flugplan Angaben zum Zweck des Übungsfluges eingetragen werden.
+(2) Kostenerstattungen nach Artikel 31 Absatz 6 in Verbindung mit den Absätzen 3 und 4 der Durchführungsverordnung (EU) Nr. 2019/317 der Kommission vom 11. Februar 2019 zur Festlegung eines Leistungssystems und einer Gebührenregelung für den einheitlichen europäischen Luftraum und zur Aufhebung der Durchführungsverordnungen (EU) Nr. 390/2013 und (EU) Nr. 391/2013 (ABl. L 56 vom 25.2.2019, S. 1; L 8 vom 13.1.2022, S. 192; L 112 vom 27.4.2023, S. 50), die zuletzt durch die Durchführungsverordnung (EU) Nr. 2021/1880 der Kommission vom 26. Oktober 2021 (L 380 vom 27.10.2021, S. 1) geändert worden ist, kann das Bundesministerium für Digitales und Verkehr auch rückwirkend gewähren, soweit eine Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung erfolgt ist und keine Kosten nach Absatz 1 Satz 1 erhoben wurden.
 
 # § 2
 

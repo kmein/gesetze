@@ -49,38 +49,36 @@ Im Zuständigkeitsbereich des Bundesministeriums für Digitales und Verkehr für
 
 18. Wasserskiverordnung (WaSkiV),
 
-19. Donauschifffahrtspolizeiverordnung (DonauSchPV),
+19. Talsperrenverordnung (TspV),
 
-20. Talsperrenverordnung (TspV),
+20. Binnenschiffseichordnung (BinSchEO),
 
-21. Binnenschiffseichordnung (BinSchEO),
+21. Schiffsregistergesetz (SchRG),
 
-22. Schiffsregistergesetz (SchRG),
+22. Schiffsregisterordnung (SchRegO),
 
-23. Schiffsregisterordnung (SchRegO),
+23. Binnenschiffsgüter-Berufszugangsverordnung (BinSchZV),
 
-24. Binnenschiffsgüter-Berufszugangsverordnung (BinSchZV),
+24. Seeschifffahrtsstraßenordnung (SeeSchStrO),
 
-25. Seeschifffahrtsstraßenordnung (SeeSchStrO),
+25. Verordnung zur Einführung der Schifffahrtsordnung Emsmündung (EmsSchEV),
 
-26. Verordnung zur Einführung der Schifffahrtsordnung Emsmündung (EmsSchEV),
+25a. Schifffahrtordnung Emsmündung (EmsSchO),
 
-26a. Schifffahrtordnung Emsmündung (EmsSchO),
+25b. Sperr- und Warngebietverordnung (SperrWarnGebV),
 
-26b. Sperr- und Warngebietverordnung (SperrWarnGebV),
+26. Seeaufgabengesetz (SeeAufgG),
 
-27. Seeaufgabengesetz (SeeAufgG),
+27. Verordnung zu den internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See,
 
-28. Verordnung zu den internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See,
+28. See-Sportboot-Verordnung (SeeSpbootV),
 
-29. See-Sportboot-Verordnung (SeeSpbootV),
+29. Seelotsgesetz (SeeLG),
 
-30. Seelotsgesetz (SeeLG),
-
-31. Seelotsenaus- und -fortbildungsverordnung  
+30. Seelotsenaus- und -fortbildungsverordnung  
 (SeeLAuFV),
 
-31a. Seelotseignungsverordnung (SeeLotsEigV),
+31. Seelotseignungsverordnung (SeeLotsEigV),
 
 32. Verordnung über das Seelotswesen außerhalb der Reviere (SeelotRevierV),
 

@@ -906,9 +906,9 @@ Die Anzahl der in den Prüfphasen einzusetzenden Bordgeräte ist abhängig von d
 
 Falls der EETS-Anbieter gleichzeitig Bordgeräte verschiedener Hersteller oder unterschiedliche Varianten oder Versionen eines Bordgerätes einsetzt, gelten die nachfolgenden Vorgaben sinngemäß für jeden Bordgeräte-Typ sowie jede Version oder Variante.
 
-Spätestens zu Beginn der Phase 1 hat der EETS-Anbieter die in Kapitel 3.3.1.2 vorgegebene Anzahl an Bordgeräten an den Mauterheber zu übergeben, wobei alle von ihm eingesetzten Bordgerätetypen in der aktuellen Konfiguration oder Version berücksichtigt sein müssen. Mindestens 25 dieser Bordgeräte verbleiben auch nach der Durchführung der Gebrauchstauglichkeitsprüfung beim Mauterheber, um bei eventuell notwendigen erneuten Prüfungen (siehe Kapitel 3.5.1.2 und 3.5.1.3) eingesetzt zu werden. Bei neu hinzukommenden Bordgerätetypen ist der EETS-Anbieter verpflichtet, dem Mauterheber entsprechende Exemplare zur Verfügung zu stellen. Die übergebenen Exemplare verbleiben dauerhaft und zeitlich unbegrenzt beim Mauterheber und müssen vom EETS-Anbieter ständig auf aktuellem Stand gehalten werden (Software- und Betriebsdaten).
+Spätestens zu Beginn der Phase 1 hat der EETS-Anbieter die in Kapitel 3.3.1.2 vorgegebene Anzahl an Bordgeräten an den Mauterheber zu übergeben, wobei alle von ihm eingesetzten Bordgerätetypen in der aktuellen Konfiguration oder Version berücksichtigt sein müssen. Mindestens 25 dieser Bordgeräte verbleiben auch nach der Durchführung der Gebrauchstauglichkeitsprüfung beim Mauterheber, um bei eventuell notwendigen erneuten Prüfungen (siehe Kapitel 3.5.1.2 und 3.5.1.3) eingesetzt zu werden. Bei neu hinzukommenden Bordgerätetypen ist der EETS-Anbieter verpflichtet, dem Mauterheber entsprechende Exemplare zur Verfügung zu stellen. Die übergebenen Exemplare verbleiben dauerhaft und zeitlich unbegrenzt beim Mauterheber und müssen vom EETS-Anbieter ständig auf aktuellem Stand gehalten werden (Software- und Betriebsdaten). Die Bordgeräte verbleiben in den LKW der Feldtestflotte des nationalen Mautbetreibers verbaut und werden bei Fahrten der LKW mitgeführt. Der EETS-Anbieter soll daher nach Möglichkeit die Anbindung der Schnittstellen an die Testumgebung des Mauterhebungsdienstes und die Fahrspurübermittlung an den Mauterhebungsdienst (Schnittstelle 005) für diese Bordgeräte aufrechterhalten. Die vom Mauterhebungsdienst erzeugten Mautbuchungsnachweise (Schnittstelle 007R) sowie identifizierte Bordgeräte-Auffälligkeiten (Schnittstelle 009) sollten ebenfalls vom EETS-Anbieter entgegengenommen werden. Durch das Aufrechterhalten der Anbindung und des Datenflusses kann sichergestellt werden, dass erneute Prüfungen (siehe Kapitel 3.5.1.2 und 3.5.1.3) zügig aufgenommen und durchgeführt werden können. Für den Betrieb der Anbindung und der Datenflüsse außerhalb von Prüfungsphasen gelten keine gesonderten Service Level Agreements. Im Vorfeld einer länger andauernden Nichtverfügbarkeit von Schnittstellen oder sonstiger Einschränkungen ist der jeweilige Schnittstellenpartner zu informieren. Wenn für die Durchführung erneuter Prüfungen gemäß Kapitel 3.5.1.2 und 3.5.1.3 eine bestimmte Art und Qualität (z. B. speziell konfigurierte Bordgeräte) oder Verfügbarkeit von Testdaten benötigt wird, wird der Mauterheber dies dem EETS-Anbieter spätestens vier Wochen vor der Durchführung der Prüfungen ankündigen sowie zeitlich und inhaltlich mit dem EETS-Anbieter abstimmen.
 
-Der EETS-Anbieter hat spätestens zu Beginn des ersten Prüfblocks eine detaillierte Dokumentation der von ihm eingesetzten Bordgeräte zur Verfügung zu stellen.Diese Dokumentation ist bei jeglichen Änderungen der Bordgeräte während und nach Abschluss der Gebrauchstauglichkeitsprüfung zu aktualisieren. Alle Änderungen sind detailliert zu dokumentieren, insbesondere ist jede Änderung hinsichtlich der möglichen Auswirkungen auf die Gebrauchstauglichkeit und Interoperabilität mit dem EETS-Teilsystem des Mauterhebers zu bewerten.
+Der EETS-Anbieter hat spätestens zu Beginn des ersten Prüfblocks eine detaillierte Dokumentation der von ihm eingesetzten Bordgeräte zur Verfügung zu stellen. Diese Dokumentation ist bei jeglichen Änderungen der Bordgeräte während und nach Abschluss der Gebrauchstauglichkeitsprüfung zu aktualisieren. Alle Änderungen sind detailliert zu dokumentieren, insbesondere ist jede Änderung hinsichtlich der möglichen Auswirkungen auf die Gebrauchstauglichkeit und Interoperabilität mit dem EETS-Teilsystem des Mauterhebers zu bewerten.
 
 4.4 Vorgaben für Teilnahme an Prüfungen
 
@@ -1150,25 +1150,11 @@ Liste der Prüfszenarien für Phase 2 – Probebetrieb
 Tabelle 7:  
 Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
 
-|         |            |            |                                                                                                                          |
-|:--------|:-----------|:-----------|:-------------------------------------------------------------------------------------------------------------------------|
-| Version | Datum      | Bearbeiter | Bearbeitung / Änderung                                                                                                   |
-| 0.01    | 02.11.2010 | BAG, TÜV   | Erstellung Gliederungsentwurf                                                                                            |
-| 0.91    | 17.07.2012 | RTDE       | Fertigstellung                                                                                                           |
-| 0.93    | 13.05.2013 | RTDE       | Komplettüberarbeitung zur Anpassung an veränderte Rahmenbedingungen                                                      |
-| 0.94    | 13.11.2014 | BAG        | Anpassung an aktuelle Version der Gebietsvorgaben                                                                        |
-| 1.00    | 04.10.2017 | BAG, RT    | Grundlegende Überarbeitung: Anpassung an aktuelle Schnittstellenversionen und Umstellung der Prüfumgebung beim BAG.      |
-| 1.1     | 05.10.2018 | BAG, RT    | Ergänzung um Kompatibilitätstests                                                                                        |
-| 1.2     | 26.02.2019 | BAG, RT    | Anpassung in 6.4                                                                                                         |
-|         | 09.03.2020 | BAG        | Grundlegende Überarbeitung: Redaktionelle Änderungen, Mauterhebungsdienst                                                |
-|         | 24.03.2020 | BAG        | Einarbeitung Zuarbeit TC zu SST005                                                                                       |
-| 1.9     | 17.09.2020 | BAG, RT    | Grundlegende Überarbeitung: Redaktionelle Änderungen, Anpassungen an Mauterhebungsdienst                                 |
-| 1.91    | 30.10.2020 | RT         | Einarbeitung Reviewkommentare TC                                                                                         |
-| 1.95    | 04.12.2020 | RT         | Überarbeitung und QS nach Review Referat 42                                                                              |
-| 1.95    | 04.12.2020 | RT         | Überarbeitung und QS nach Review Referat 42                                                                              |
-| 1.96    | 07.05.2021 | RT         | Überarbeitung: Aufrechterhaltung Gebrauchstauglichkeit, Vertriebsmodell, Vorgaben an produktive Bordgeräte in Pilotphase |
-| 1.97    | 15.06.2021 | RT         | Ergänzung Bordgerätestatus Reporting während MED Kompatibilitätstests                                                    |
-| 2.0     | 07.09.2021 | RT         | Redaktionelle Überarbeitung und Erstellung Version zur Veröffentlichung                                                  |
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 10%" /><col style="width: 13%" /><col style="width: 13%" /><col style="width: 65%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Version</th><th style="text-align: left;">Datum</th><th style="text-align: left;">Bearbeiter</th><th style="text-align: left;">Bearbeitung/Änderung</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">0.01</td><td style="text-align: left;">02.11.2010</td><td style="text-align: left;">BAG, TÜV</td><td style="text-align: left;">Erstellung Gliederungsentwurf</td></tr><tr class="even"><td style="text-align: left;">0.91</td><td style="text-align: left;">17.07.2012</td><td style="text-align: left;">RTDE, BAG</td><td style="text-align: left;">Fertigstellung</td></tr><tr class="odd"><td style="text-align: left;">0.93</td><td style="text-align: left;">13.05.2013</td><td style="text-align: left;">RTDE, BAG</td><td style="text-align: left;">Komplettüberarbeitung zur Anpassung an veränderte Rahmenbedingungen</td></tr><tr class="even"><td style="text-align: left;">0.94</td><td style="text-align: left;">13.11.2014</td><td style="text-align: left;">BAG</td><td style="text-align: left;">Anpassung an aktuelle Version der Gebietsvorgaben</td></tr><tr class="odd"><td style="text-align: left;">1.00</td><td style="text-align: left;">04.10.2017</td><td style="text-align: left;">BAG, RT</td><td style="text-align: left;">Grundlegende Überarbeitung:<br />
+Anpassung an aktuelle Schnittstellenversionen und Umstellung der Prüfumgebung beim BAG.</td></tr><tr class="even"><td style="text-align: left;">1.1</td><td style="text-align: left;">05.10.2018</td><td style="text-align: left;">BAG, RT</td><td style="text-align: left;">Ergänzung um Kompatibilitätstests</td></tr><tr class="odd"><td style="text-align: left;">1.2</td><td style="text-align: left;">26.02.2019</td><td style="text-align: left;">BAG, RT</td><td style="text-align: left;">Anpassung in 6.4</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;">09.03.2020</td><td style="text-align: left;">BAG</td><td style="text-align: left;">Grundlegende Überarbeitung:<br />
+Redaktionelle Änderungen, Mauterhebungsdienst</td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;">24.03.2020</td><td style="text-align: left;">BAG</td><td style="text-align: left;">Einarbeitung Zuarbeit TC zu SST005</td></tr><tr class="even"><td style="text-align: left;">1.9</td><td style="text-align: left;">17.09.2020</td><td style="text-align: left;">BAG, RT</td><td style="text-align: left;">Grundlegende Überarbeitung:<br />
+Redaktionelle Änderungen, Anpassungen an Mauterhebungsdienst</td></tr><tr class="odd"><td style="text-align: left;">1.91</td><td style="text-align: left;">30.10.2020</td><td style="text-align: left;">RT, BAG</td><td style="text-align: left;">Einarbeitung Reviewkommentare TC</td></tr><tr class="even"><td style="text-align: left;">1.95</td><td style="text-align: left;">04.12.2020</td><td style="text-align: left;">RT, BAG</td><td style="text-align: left;">Überarbeitung und QS nach Review Referat 42</td></tr><tr class="odd"><td style="text-align: left;">1.95</td><td style="text-align: left;">04.12.2020</td><td style="text-align: left;">RT, BAG</td><td style="text-align: left;">Überarbeitung und QS nach Review Referat 42</td></tr><tr class="even"><td style="text-align: left;">1.96</td><td style="text-align: left;">07.05.2021</td><td style="text-align: left;">RT, BAG</td><td style="text-align: left;">Überarbeitung:<br />
+Aufrechterhaltung Gebrauchstauglichkeit, Vertriebsmodell, Vorgaben an produktive Bordgeräte in Pilotphase</td></tr><tr class="odd"><td style="text-align: left;">1.97</td><td style="text-align: left;">15.06.2021</td><td style="text-align: left;">RT, BAG</td><td style="text-align: left;">Ergänzung Bordgerätestatus Reporting während MED-Kompatibilitätstests</td></tr><tr class="even"><td style="text-align: left;">2.0</td><td style="text-align: left;">07.09.2021</td><td style="text-align: left;">RT, BAG</td><td style="text-align: left;">Redaktionelle Überarbeitung und Erstellung Version zur Veröffentlichung</td></tr><tr class="odd"><td style="text-align: left;">2.1</td><td style="text-align: left;">12.01.2022</td><td style="text-align: left;">RT, BAG</td><td style="text-align: left;">Konkretisierung in Kapitel 5.2 (Zwischenversion)</td></tr><tr class="even"><td style="text-align: left;">2.2</td><td style="text-align: left;">01.03.2024</td><td style="text-align: left;">RT, BALM</td><td style="text-align: left;">Überarbeitung entsprechend den Änderungen im BFStrMG; Ergänzung Vorgaben Pilotbetrieb für Bordgeräte mit Smartphone-Bedienung in Kapitel 6.2</td></tr></tbody></table>
 
 1 Einleitung
 
@@ -1692,7 +1678,7 @@ Beschreibung der Möglichkeiten zur Nutzerinteraktion (HMI) der OBU (Benutzerhan
 
 Nicht-mautpflichtige Befahrungen
 
-Beschreibung der Geschäftsprozesse der Fahrspurerhebung und Mautbefreiung. Prüfung des Verfahrens zur Unterscheidung von mautpflichtigen und nichtmautpflichtigen Fahrzeugen, auch unter Berücksichtigung der Behandlung von Ausnahmen von der regulären Gebührenpflicht und der sich daraus ergebenden Folge, keine Fahrspurdaten über die Schnittstelle 005 an den Mauterheber zu übermitteln (z.B. Sattelzugmaschinen, deren zulässiges Gesamtgewicht ohne Auflieger weniger als 7,5 t beträgt)
+Beschreibung der Geschäftsprozesse der Fahrspurerhebung und Mautbefreiung. Prüfung des Verfahrens zur Unterscheidung von mautpflichtigen und nichtmautpflichtigen Fahrzeugen, auch unter Berücksichtigung der Behandlung von Ausnahmen von der regulären Gebührenpflicht und der sich daraus ergebenden Folge, keine Fahrspurdaten über die Schnittstelle 005 an den Mauterheber zu übermitteln
 
 32
 
@@ -2094,6 +2080,8 @@ Die Probebetriebsumgebung unterstützt alle für diese Prüfphase relevanten Ver
 
 Der EETS-Anbieter stellt dazu sein wirkbetriebsnahes Erprobungssystem oder alternativ sein Wirkbetriebssystem zur Verfügung, welches über die technischen Schnittstellen an das wirkbetriebsnahe Erprobungssystem des Mauterhebers angebunden wird. Zu diesem Zweck werden zwischen EETS-Anbieter und Mauterheber sowie dem nationalen Mautbetreiber die notwendigen Systemzugangsschlüssel und weitere notwendige und sicherheitsrelevante Informationen ausgetauscht. Nach erfolgter Anbindung der Systeme wird die Funktionsfähigkeit der Probebetriebsumgebung verifiziert, erst dann können die Prüfungen beginnen.
 
+Bordgeräte des EETS-Anbieters, die in den Kompatibilitätstests der Phase 1 eingesetzt wurden, sind im Vorfeld der Prüfaktivitäten des Probebetriebs zu deaktivieren.
+
 Die Durchführung der Prüffälle des Probebetriebs auf Grundlage der vom Mauterheber bereitgestellten Prüfspezifikation erfolgt durch den EETS-Anbieter. Die Prüfungen werden unter anderem durch Fahrten auf ausgewählten Referenzstrecken durchgeführt, die sowohl Teile des mautpflichtigen und des nicht-mautpflichtigen Streckennetzes enthalten.
 
 Die Referenzstrecken sind in den entsprechenden Prüffällen des Prüfszenarios P2-001 festgelegt und in der Prüfspezifikation dokumentiert, welche den Prüfkatalog „Probebetrieb“ Anlage \[4\] konkretisiert.
@@ -2199,6 +2187,8 @@ Definition „Gerätetyp“: Eindeutige Kombination aus Hardware und Software ei
 
 3. Die Zeitdauer des Pilotbetriebs beträgt mindestens drei Monate.
 
+4. Für den Fall, dass Bordgeräte eingesetzt werden, die auch über eine Smartphone-Applikation gesteuert werden können, müssen mindestens 500 Bordgeräte oder die Hälfte der auf der Nutzerliste aufgeführten Bordgeräte zumindest einmal im Pilotzeitraum über die Smartphone-Applikation bedient worden sein.
+
 Sollten sich Änderungen an den mautbezogenen Rahmenbedingungen (mautpflichtiges Streckennetz, mautpflichtige Fahrzeuge) ergeben, behält sich der Mauterheber eine Anpassung des Mengengerüsts vor.
 
 Der Pilotbetrieb ist ein laufender Betrieb mit Quotenermittlung. Er darf als Gesamtphase vom EETS-Anbieter nicht unterbrochen werden.
@@ -2219,7 +2209,7 @@ In den folgenden Abschnitten werden die einzelnen Prüfszenarien beschrieben.
 
 6.3.1 P3-001 – korrekte Mauterhebung
 
-P3-002 – korrekte Abrechnung und Auskehr
+6.3.2 P3-002 – korrekte Abrechnung und Auskehr
 
 6.3.3 P3-003 – Überwachung des EETS-Anbieters
 
@@ -2437,8 +2427,6 @@ Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die Prüfspezif
 
 Hinweis: Bei diesem Szenario handelt es sich um ein optionales Prüfszenario. Es muss nur dann absolviert werden, wenn der EETS-Anbieter die SST003 implementiert.
 
-Dokumentenhistorie
-
 1 Einleitung
 
 Der vorliegende Prüfkatalog enthält die Prüffalle, deren Erfüllung im Rahmen der Feststellung der Gebrauchstauglichkeit in Prüfblock 2, Phase 1 Kompatibilitätstests nachzuweisen ist. Er beschränkt sich auf die Prüffälle zum Nachweis der Kompatibilität zwischen dem Bordgerät des EETS-Anbieters zu den Kontrollstellen des nationalen Mautbetreibers.
@@ -2447,17 +2435,9 @@ Die DSRC-Kompatibilitätstests umfassen dabei sowohl funktionale als auch betrie
 
 Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die Prüfspezifikation „DSRC-Kompatibilitätstests“ detailliert und konkretisiert.
 
-Die Prüffälle werden unterschieden in Bezug auf die Version der Schnittstellenspezifikation SST 301 auf die sie sich beziehen.
+2 P1-KTD-001: Betriebliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
 
-2 Prüffälle für SST301 Version 2.2
-
-2.1 P1-KTD-001: Betriebliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
-
-2.2 P1-KTD-002: Fachliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
-
-3.1 P1-KTD-001: Betriebliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
-
-3.2 P1-KTD-002: Fachliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
+3 P1-KTD-002: Fachliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
 
 Der vorliegende Prüfkatalog enthält die Prüffalle, deren Erfüllung im Rahmen der Feststellung der Gebrauchstauglichkeit in Prüfblock 2, Phase 1 Kompatiblitätests nachzuweisen ist.
 
