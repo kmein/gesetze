@@ -1724,7 +1724,7 @@ Fahrzeugbezogene Maßnahmen können insbesondere auf die Verbesserung von Fahrze
 
 a) bei natürlichen Personen:
 
-Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung oder die Ausgabe des Kennzeichens angegebener Ordens- oder Künstlername, Tag und Ort der Geburt, Geschlecht, Anschrift; bei Fahrzeugen mit Versicherungskennzeichen entfällt die Speicherung von Geburtsnamen, Ort der Geburt und Geschlecht des Halters,
+Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung oder die Ausgabe des Kennzeichens angegebener Ordens- oder Künstlername, Tag sowie Staat und Ort der Geburt, Geschlecht, Anschrift; bei Fahrzeugen mit Versicherungskennzeichen entfällt die Speicherung von Geburtsnamen, Ort der Geburt und Geschlecht des Halters,
 
 b) bei juristischen Personen und Behörden:
 
