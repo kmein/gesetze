@@ -1,0 +1,94 @@
+{
+  "nodes": {
+    "blessings": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1549397368,
+        "narHash": "sha256-YVIGRG+/ey4nFEZl1ZPHj7Hx/Of3rsUGnkLK4V4zZd0=",
+        "ref": "refs/heads/master",
+        "rev": "d94712a015636efe7ec79bc0a2eec6739d0be779",
+        "revCount": 18,
+        "type": "git",
+        "url": "https://cgit.krebsco.de/blessings"
+      },
+      "original": {
+        "type": "git",
+        "url": "https://cgit.krebsco.de/blessings"
+      }
+    },
+    "flake-utils": {
+      "locked": {
+        "lastModified": 1676283394,
+        "narHash": "sha256-XX2f9c3iySLCw54rJ/CZs+ZK6IQy7GXNY4nSOyu2QG4=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "3db36a8b464d0c4532ba1c7dda728f4576d6d073",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1736798957,
+        "narHash": "sha256-qwpCtZhSsSNQtK4xYGzMiyEDhkNzOCz/Vfu4oL2ETsQ=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "9abb87b552b7f55ac8916b6fc9e5cb486656a2f3",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs_2": {
+      "locked": {
+        "lastModified": 1677158633,
+        "narHash": "sha256-t7za78oRkDIjdFQF0PCilfCziFyhfowCgs9Ry+sEvE4=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "129b6f78121802d18d215c9f9e04d7971c58ea0c",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "recht": {
+      "inputs": {
+        "blessings": "blessings",
+        "flake-utils": "flake-utils",
+        "nixpkgs": "nixpkgs_2"
+      },
+      "locked": {
+        "lastModified": 1736882697,
+        "narHash": "sha256-G++JyQ6GJlQ8T/R18xb02HhSE1NWfpAboUEBleaadd8=",
+        "owner": "kmein",
+        "repo": "recht",
+        "rev": "dd49a91b1e611920889680aa2c9101166b0ce83e",
+        "type": "github"
+      },
+      "original": {
+        "owner": "kmein",
+        "repo": "recht",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs",
+        "recht": "recht"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
