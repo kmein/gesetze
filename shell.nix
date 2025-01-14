@@ -1,8 +1,8 @@
 { pkgs ? import <nixpkgs> {} }:
 let
   recht-src = builtins.fetchTarball {
-    url = "https://github.com/kmein/recht/archive/0.6.3.tar.gz";
-    sha256 = "sha256:0h9qn68gk4r7nwiv5c20d23dbirjw186ny5hd8681jm44dli8lxk";
+    url = "https://github.com/kmein/recht/archive/0.6.4.tar.gz";
+    sha256 = "1pvmkbk9a0a1l4dr0zjnac9m4y6qyhbg6xgl9wy589l61v4qkvqv";
   };
   recht = pkgs.callPackage recht-src {};
 in
