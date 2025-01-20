@@ -1,0 +1,180 @@
+% Gesetz über die Bundesanstalt für Immobilienaufgaben  (BImAG)
+% Ausfertigungsdatum: 09.12.2004
+ 
+# § 1 – Errichtung, Zweck, Sitz
+
+(1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts zum 1. Januar 2005 errichtet. Sie trägt die Bezeichnung "Bundesanstalt für Immobilienaufgaben" (BImA). Die Bundesanstalt nimmt die ihr vom Bund übertragenen liegenschaftsbezogenen sowie sonstigen Aufgaben eigenverantwortlich wahr. Hierzu gehören insbesondere die Verwaltung von Liegenschaften, die von Dienststellen der Bundesverwaltung zur Erfüllung ihrer Aufgaben genutzt werden (Dienstliegenschaften), sowie die zivilen Bauangelegenheiten des Bundes insbesondere auf den Dienstliegenschaften; die gesetzlich festgelegte Zuständigkeit des Bundesamtes für Bauwesen und Raumordnung für die Durchführung von Bauaufgaben bleibt unberührt. Die Bundesanstalt hat das Ziel, eine einheitliche Verwaltung des Liegenschaftsvermögens des Bundes nach kaufmännischen Grundsätzen und unter Berücksichtigung des in § 15 des Bundes-Klimaschutzgesetzes festgelegten Ziels der klimaneutralen Bundesverwaltung bis 2030 sowie der Vorbildfunktion öffentlicher Gebäude bei der energetischen Sanierung vorzunehmen und nicht betriebsnotwendiges Vermögen wirtschaftlich zu veräußern.
+
+(1a) Die Bundesanstalt hat bei der Erfüllung ihrer Aufgaben nach diesem Gesetz auch bau-, wohnungs-, stadtentwicklungspolitische und ökologische Ziele des Bundes zu unterstützen.
+
+(2) Die Bundesanstalt hat ihren Sitz in Bonn. Sie hat das Recht, Außenstellen als Haupt- oder Nebenstellen einzurichten.
+
+# § 2 – Aufgaben, Vermögen, Zielsetzung
+
+(1) Auf die Bundesanstalt gehen die Aufgaben über, die am 31. Dezember 2004 den Bundesvermögensämtern, den Bundesforstämtern und den Bundesvermögensabteilungen der Oberfinanzdirektionen übertragen sind. Dazu gehören neben den sonst übertragenen Aufgaben insbesondere die Deckung des Grundstücks- und Raumbedarfs für Bundeszwecke und die Wohnungsfürsorge des Bundes sowie die Verwaltung und Verwertung von Grundstücken, die nicht für Verwaltungszwecke des Bundes oder im Rahmen des Gemeingebrauchs im Aufgabenbereich des Bundes benötigt werden (Allgemeines Grundvermögen) und die forstlichen Dienstleistungen einschließlich forstlicher Bewirtschaftung und naturschutzfachlicher Betreuung des Liegenschaftsvermögens des Bundes. Soweit derartige Aufgaben anderen Bundesbehörden oder Gesellschaften des Bundes übertragen sind, verbleibt es bei deren Zuständigkeit.
+
+(2) Der Bundesanstalt ist mit Wirkung vom 1. Januar 2005 das Eigentum an sämtlichen Grundstücken, grundstücksgleichen Rechten und beschränkten dinglichen Rechten der Bundesrepublik Deutschland, welche zum Geschäftsbereich des Bundesministeriums der Finanzen gehören, übertragen. Die Bundesanstalt ist antragsberechtigt im Sinne der Grundbuchordnung. Soweit die in Satz 1 genannten Vermögenswerte in dem in Artikel 3 des Einigungsvertrages genannten Gebiet belegen sind und die Bundesrepublik Deutschland noch nicht als Eigentümerin festgestellt ist, findet das Verfahren nach dem Vermögenszuordnungsgesetz Anwendung.
+
+(3) Der Bundesanstalt wird schrittweise ab dem Jahr 2006 bis zum Ende des Jahres 2010 das Eigentum an allen inländischen Dienstliegenschaften des Bundes übertragen. Die Bundesanstalt und die abgebenden Dienststellen bezeichnen in schriftlichen Vereinbarungen mit den betroffenen obersten Bundesbehörden die Liegenschaften, an denen das Eigentum übergehen soll. Mit Abschluss der jeweiligen Vereinbarung nach Satz 2 geht das Eigentum an den bezeichneten Liegenschaften über. Soweit bis zum 31. Dezember 2011 eine Vereinbarung nach Satz 2 nicht zustande gekommen ist, geht das Eigentum an den Dienstliegenschaften am 1. Januar 2012 auf die Bundesanstalt über. Die Bundesanstalt ist antragsberechtigt im Sinne der Grundbuchordnung. Die für die Übernahme des Eigentums und die Verwaltung der Dienstliegenschaften in den jeweils maßgeblichen Einzelplänen des Bundeshaushaltsplanes angesetzten Mittel werden auf die Bundesanstalt übertragen und in den Wirtschaftsplan der Bundesanstalt eingestellt.
+
+(4) Im Einvernehmen zwischen den bewirtschaftenden obersten Bundesbehörden und dem Bundesministerium der Finanzen können Ausnahmen von der Eigentumsübertragung getroffen werden. Dies gilt insbesondere für die von den Verfassungsorganen, den obersten Bundesbehörden und den obersten Bundesgerichten unmittelbar genutzten Dienstliegenschaften.
+
+(5) Das Bundesministerium der Finanzen kann mit der Bundesanstalt eine Vereinbarung über die unentgeltliche Übertragung von beweglichen Sachen schließen.
+
+(6) Die Bundesanstalt ist bevollmächtigt, die Bundesrepublik Deutschland im Rechtsverkehr zu vertreten. Sie übt diese Vollmacht nur im Rahmen der ihr übertragenen Aufgaben aus. Diese Einschränkung ist von den Grundbuchämtern nicht zu prüfen.
+
+(7) Das Bundesministerium der Finanzen kann der Bundesanstalt weitere Aufgaben übertragen und diese wieder entziehen. Andere Bundesministerien können der Bundesanstalt durch öffentlich-rechtlichen Vertrag weitere Aufgaben übertragen.
+
+# § 3 – Aufsicht
+
+(1) Die Bundesanstalt untersteht der Rechtsaufsicht des Bundesministeriums der Finanzen.
+
+(2) Soweit die Bundesanstalt Aufgaben aus dem Geschäftsbereich eines anderen Bundesministeriums erledigt, übt dieses die Rechtsaufsicht aus. Anordnungen mit wesentlichen finanziellen oder organisatorischen Auswirkungen auf die Bundesanstalt ergehen im Einvernehmen mit dem Bundesministerium der Finanzen.
+
+# § 4 – Organe, Satzung
+
+(1) Die Bundesanstalt wird von einem Vorstand geleitet und vertreten. Er besteht aus der Sprecherin oder dem Sprecher und bis zu zwei weiteren Mitgliedern. Aufgaben und Befugnisse des Vorstandes bestimmen dieses Gesetz und die Satzung. Die Sprecherin oder der Sprecher führt die Amtsbezeichnung "Sprecherin des Vorstandes der Bundesanstalt für Immobilienaufgaben" oder "Sprecher des Vorstandes der Bundesanstalt für Immobilienaufgaben"; die übrigen Mitglieder führen die Amtsbezeichnung "Mitglied des Vorstandes der Bundesanstalt für Immobilienaufgaben".
+
+(2) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Der Verwaltungsrat überwacht den Vorstand der Bundesanstalt und unterstützt diesen bei der Erfüllung seiner Aufgaben. Der Vorstand hat den Verwaltungsrat regelmäßig über die Geschäftsführung der Bundesanstalt zu unterrichten. Der Verwaltungsrat gibt sich im Einvernehmen mit dem Bundesministerium der Finanzen eine Geschäftsordnung. Der Verwaltungsrat trifft auf Vorlage des Vorstands Beschlüsse über
+
+1. die Feststellung und wesentliche Änderungen des Wirtschaftsplans einschließlich der Finanzierung und Durchführung von Bauprojekten des zivilen Bundesbaus in Zuständigkeit der Bundesanstalt,
+
+2. die Feststellung des Jahresabschlusses,
+
+3. die Empfehlung zur Höhe der Abführung,
+
+4. die Entlastung des Vorstands und
+
+5. die Verwendung des Bilanzgewinns.
+
+Die Beschlüsse des Verwaltungsrats ergehen mit einfacher Mehrheit. Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden. Die oder der Vorsitzende ist berechtigt, einem nach Satz 5 gefassten Beschluss zu widersprechen (Vetorecht), wenn sie oder er der Auffassung ist, dass der Beschluss wichtigen Interessen des Bundes nicht gerecht wird, insbesondere im Widerspruch zu den der Bundesanstalt übertragenen Aufgaben steht. Die Ausübung des Vetorechts soll auf Beschlüsse mit erheblichen finanziellen Auswirkungen für die Bundesanstalt beschränkt werden. Beschließt der Verwaltungsrat mit der Mehrheit seiner Mitglieder, das Vetorecht der oder des Vorsitzenden zurückzuweisen, entscheidet das Bundesministerium der Finanzen auf Vorlage der oder des Vorsitzenden. Sofern das Vetorecht nicht zurückgewiesen wird, gilt die Vorlage der oder des Vorsitzenden als beschlossen.
+
+(3) Der Verwaltungsrat besteht aus
+
+1. der oder dem Vorsitzenden, die oder der vom Bundesministerium der Finanzen entsandt wird,
+
+2. jeweils einer Vertreterin oder einem Vertreter, die oder der vom Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen, vom Bundesministerium der Verteidigung und vom Bundesministerium für Wirtschaft und Klimaschutz entsandt werden,
+
+3. bis zu fünf Mitgliedern des Deutschen Bundestages, darunter die oder der Vorsitzende der Kommission des Ältestenrates für Bau- und Raumangelegenheiten des Deutschen Bundestages, und
+
+4. bis zu vier weiteren sachverständigen Personen.
+
+Die Mitglieder des Verwaltungsrats werden durch das Bundesministerium der Finanzen für eine Amtszeit von vier Jahren berufen. Die in Satz 1 Nummer 3 genannten Mitglieder des Deutschen Bundestages werden vom Deutschen Bundestag vorgeschlagen; sie werden für die Dauer der Wahlperiode des Deutschen Bundestages in den Verwaltungsrat berufen und bleiben nach Ende der Wahlperiode des Deutschen Bundestages noch so lange im Amt, bis die neuen Mitglieder berufen worden sind. Eine erneute Berufung ist möglich. Die in Satz 1 Nummer 4 genannten sachverständigen Personen werden im Einvernehmen mit dem Haushaltsausschuss und dem Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen des Deutschen Bundestages berufen. Näheres regelt die Geschäftsordnung.
+
+(4) Das Bundesministerium der Finanzen erlässt die Satzung der Bundesanstalt. In die Satzung sind insbesondere Bestimmungen aufzunehmen über
+
+1. den Aufbau und die Organisation,
+
+2. die Aufgaben und Befugnisse des Vorstandes,
+
+3. die Aufgaben und Befugnisse eines Verwaltungsrates,
+
+4. die rechtsgeschäftliche Vertretung,
+
+5. die Wirtschaftsführung einschließlich Buchführung und Rechnungslegung.
+
+Die Satzung wird im Bundesanzeiger veröffentlicht.
+
+# § 5 – Rechtsstellung der Vorstandsmitglieder
+
+(1) Die Mitglieder des Vorstandes werden für die Dauer von bis zu fünf Jahren berufen. Verlängerungen sind zulässig. Die Mitglieder des Vorstandes sollen in einem öffentlich-rechtlichen Amtsverhältnis gemäß den Bestimmungen der Absätze 2 bis 7 stehen.
+
+(2) Die Mitglieder des Vorstandes werden von der Bundespräsidentin oder vom Bundespräsidenten auf Vorschlag der Bundesministerin oder des Bundesministers der Finanzen ernannt. Das Amtsverhältnis der Mitglieder des Vorstandes beginnt mit der Aushändigung der Ernennungsurkunde, wenn nicht in der Urkunde ein späterer Tag bestimmt ist. Es endet mit Ablauf der Amtszeit, Erreichen der Altersgrenze des § 51 Abs. 1 und 2 des Bundesbeamtengesetzes oder mit der Entlassung. Die Bundespräsidentin oder der Bundespräsident entlässt ein Mitglied des Vorstandes auf dessen Verlangen oder auf Beschluss der Bundesregierung bei gestörtem Vertrauensverhältnis oder aus wichtigem Grund. Vor dem Beschluss ist dem Mitglied des Vorstandes Gelegenheit zur Stellungnahme zu geben. Im Falle der Beendigung des Amtsverhältnisses erhält das Mitglied des Vorstandes eine von der Bundespräsidentin oder dem Bundespräsidenten vollzogene Urkunde. Die Entlassung auf Verlangen wird mit der Aushändigung der Urkunde wirksam, wenn in ihr nicht ausdrücklich ein späterer Tag bestimmt ist. Die Entlassung aus wichtigem Grund oder bei gestörtem Vertrauensverhältnis wird mit dem Vollzug des Beschlusses der Bundesregierung wirksam, wenn sie sie nicht ausdrücklich für einen späteren Tag beschließt.
+
+(3) Die Mitglieder des Vorstandes leisten nach Aushändigung der Ernennungsurkunde vor der Bundesministerin oder dem Bundesminister der Finanzen folgenden Eid:
+
+  
+"Ich schwöre, das Grundgesetz für die Bundesrepublik Deutschland und alle in der Bundesrepublik Deutschland geltenden Gesetze zu wahren und meine Amtspflichten gewissenhaft zu erfüllen, so wahr mir Gott helfe."
+
+Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
+
+(4) Im Übrigen werden die Rechtsverhältnisse der Mitglieder des Vorstandes durch Verträge geregelt, die das Bundesministerium der Finanzen mit den Mitgliedern des Vorstandes schließt.
+
+(5) Wird eine Bundesbeamtin oder ein Bundesbeamter zum Mitglied des Vorstandes ernannt, scheidet sie oder er mit Beginn des Amtsverhältnisses aus dem bisherigen Amt aus. Für die Dauer des Amtsverhältnisses ruhen die in dem Beamtenverhältnis begründeten Rechte und Pflichten mit Ausnahme der Pflicht zur Amtsverschwiegenheit und des Verbots der Annahme von Belohnungen oder Geschenken. Satz 2 gilt längstens bis zum Eintritt oder bis zur Versetzung in den Ruhestand.
+
+(6) Endet das Amtsverhältnis nach Absatz 1 und wird die oder der Betroffene nicht anschließend in ein anderes öffentlich-rechtliches Amtsverhältnis zum Bund berufen, treten Beamtinnen und Beamte, wenn ihnen nicht innerhalb von drei Monaten unter den Voraussetzungen des § 28 Abs. 2 des Bundesbeamtengesetzes oder vergleichbarer landesgesetzlicher Regelungen ein anderes Amt übertragen wird, mit Ablauf dieser Frist aus ihrem Dienstverhältnis als Beamte in den einstweiligen Ruhestand, sofern sie zu diesem Zeitpunkt noch nicht die gesetzliche Altersgrenze erreicht haben. Sie erhalten ein Ruhegehalt, das sie in ihrem früheren Amt unter Hinzurechnung der Zeit des öffentlich-rechtlichen Amtsverhältnisses erdient hätten. Die Zeit des Amtsverhältnisses ist auch ruhegehaltfähig, wenn der Beamtin oder dem Beamten nach Satz 1 ein anderes Amt im Beamtenverhältnis übertragen wird. Für die beamteten Mitglieder des Vorstandes gilt § 107b des Beamtenversorgungsgesetzes entsprechend. Für Mitglieder des Vorstandes, die in keinem Beamtenverhältnis standen oder stehen, bleibt eine vertragliche Versorgungsregelung nach Absatz 4 unberührt. Die Ruhens- und Anrechnungsvorschriften des Beamtenversorgungsgesetzes sind sinngemäß anzuwenden.
+
+(7) Die Absätze 5 und 6 gelten für Richterinnen und Richter und für Berufssoldatinnen und Berufssoldaten entsprechend.
+
+# § 6 – Finanzierung
+
+(1) Die Bundesanstalt deckt ihren Aufwand für die ihr nach den §§ 1 und 2 übertragenen Aufgaben aus den Erträgen der Verwaltung und Verwertung des ihr übertragenen Bundesvermögens und aus vereinbarten Erstattungen. Die Bundesanstalt kann in ihrer Eröffnungsbilanz und in den folgenden Jahresabschlüssen Rücklagen bilden. Mit Feststellung des Jahresabschlusses durch den Verwaltungsrat ist über die Verwendung des Bilanzgewinnes zu beschließen. Einzelheiten regelt die Satzung.
+
+(2) Die Bundesanstalt hat kein Recht zur Kreditaufnahme am Markt; notwendige Kredite gewährt der Bund nach Maßgabe des Haushaltsgesetzes.
+
+(3) Ein Insolvenzverfahren über das Vermögen der Bundesanstalt findet nicht statt. § 12 Abs. 2 der Insolvenzordnung ist entsprechend in der Weise anzuwenden, dass sich die Ansprüche der Arbeitnehmer gegen den Bund richten.
+
+# § 7 – Wirtschaftsplan
+
+(1) Der Vorstand stellt vor Beginn des Geschäftsjahres einen Wirtschaftsplan auf, der
+
+\-  
+eine Vorschau-Gewinn- und Verlustrechnung,
+
+\-  
+eine Überleitungsrechnung auf Einnahmen und Ausgaben einschließlich der Investitionsplanung,
+
+\-  
+eine Personalplanung
+
+umfasst. In den Wirtschaftsplan können Mittel zur Bildung von Rücklagen eingestellt werden. Geschäftsjahr ist das Kalenderjahr. Einzelheiten regelt die Satzung.
+
+(2) Der Wirtschaftsplan bedarf der Genehmigung des Verwaltungsrats. Die Abführung an den Bundeshaushalt erfolgt auf der Grundlage des Wirtschaftsplanes. Die Höhe der Abführung soll sich am Jahresüberschuss der Bundesanstalt orientieren.
+
+# § 8 – Buchung, Jahresabschluss
+
+(1) Die Bundesanstalt bucht nach den Regeln der kaufmännischen Buchführung.
+
+(2) Das der Bundesanstalt übertragene Vermögen ist nach handelsrechtlichen Grundsätzen zu bewerten.
+
+(3) Die Bundesanstalt stellt für jedes Geschäftsjahr einen Jahresabschluss, einen Lagebericht nach handelsrechtlichen Grundsätzen sowie eine Liquiditätsrechnung auf und legt sie dem Bundesministerium der Finanzen vor. Näheres regeln die Satzung und die vom Bundesministerium der Finanzen zu erlassenden Wirtschaftsführungsbestimmungen. § 109 Abs. 2 Satz 2 bis 4 der Bundeshaushaltsordnung ist anzuwenden. § 69 der Bundeshaushaltsordnung gilt entsprechend.
+
+# § 9 – Prüfungsrecht des Bundesrechnungshofes
+
+Für das Prüfungsrecht des Bundesrechnungshofes gilt § 111 der Bundeshaushaltsordnung.
+
+# § 10 – Anwendung des Haushaltsrechts
+
+(1) Die Bundesanstalt handelt nach den Grundsätzen der Wirtschaftlichkeit und Sparsamkeit entsprechend § 7 der Bundeshaushaltsordnung. Hinsichtlich der nach § 2 Abs. 2 und 3 übertragenen Grundstücke bleiben die §§ 63 und 64 der Bundeshaushaltsordnung unberührt.
+
+(2) Das Bundesministerium der Finanzen sowie andere Bundesministerien, die der Bundesanstalt Aufgaben übertragen, können die Bundesanstalt ermächtigen, Teile des Bundeshaushaltes zu bewirtschaften. Insoweit gelten die Vorschriften der Bundeshaushaltsordnung einschließlich der dazu ergangenen Verwaltungsvorschriften in der jeweils geltenden Fassung.
+
+# § 11 – Beamtinnen und Beamte
+
+(1) Der Bundesanstalt wird das Recht verliehen, Beamtinnen und Beamte zu haben. Die Übernahme von Beamtinnen und Beamten anderer Dienstherren ist nur mit Zustimmung des Bundesministeriums der Finanzen zulässig. Neue Beamtenverhältnisse darf die Bundesanstalt nicht begründen.
+
+(2) Für die Beamtinnen und Beamten ist oberste Dienstbehörde die Sprecherin oder der Sprecher des Vorstandes.
+
+(3) Die Bundespräsidentin oder der Bundespräsident ernennt die Beamtinnen und Beamten der Bundesbesoldungsordnung B; die Sprecherin oder der Sprecher des Vorstandes ernennt die übrigen Beamtinnen und Beamten.
+
+(4) Die Bundesanstalt kann mit Zustimmung des Bundesministeriums der Finanzen ihre Befugnisse und Zuständigkeiten einschließlich der Entscheidung über Rechtsbehelfe auf den Gebieten der Besoldung, Beihilfe, Reise- und Umzugskosten sowie Trennungsgeld und die automatisierte Verarbeitung personenbezogener Daten ganz oder teilweise gegen Erstattung der Verwaltungskosten auf Behörden der Bundesverwaltung übertragen. Die Übertragung ist im Bundesgesetzblatt zu veröffentlichen.
+
+# § 12 – Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
+
+(1) Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der Bundesanstalt sind die für Arbeitnehmerinnen, Arbeitnehmer und Auszubildende des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
+
+(2) Angestellte können auch oberhalb der höchsten tarifvertraglichen Vergütungsgruppe in einem außertariflichen Angestelltenverhältnis beschäftigt werden, soweit dies für die Durchführung der Aufgaben erforderlich ist. Satz 1 gilt für die sonstige Gewährung von übertariflichen und außertariflichen Leistungen entsprechend.
+
+# § 13 – Auflösung von Organisationseinheiten der Bundesvermögensverwaltung
+
+Die Bundesvermögensämter, die Bundesforstämter und die Bundesvermögensabteilungen der Oberfinanzdirektionen als Organisationseinheiten der Bundesvermögensverwaltung sind mit Ablauf des 31. Dezember 2004 aufgelöst.
+
+# § 14 – Überleitung von Verfahren
+
+Bei den in § 13 genannten Organisationseinheiten am 31. Dezember 2004 anhängige Verwaltungsverfahren werden von der Bundesanstalt fortgeführt. Die Bundesanstalt handelt als zuständige Stelle des Bundes und vertritt ihn auch vor Gericht.
+
+# §§ 15 bis 17 – (weggefallen)
+
+# § 18 – Überleitung von Beschäftigten
+
+(1) Die Beamtinnen und Beamten der in § 13 genannten Organisationseinheiten sind mit Wirkung vom 1. Januar 2005 Beamtinnen und Beamte der Bundesanstalt. § 136 Abs. 1 Satz 1 des Bundesbeamtengesetzes findet entsprechend Anwendung. Die ersten Amtsinhaber nach Artikel 2 Nr. 1 Buchstabe b erhalten ihre Bezüge aus der Besoldungsgruppe B 3, die ersten Amtsinhaber nach Artikel 2 Nr. 3 dieses Gesetzes erhalten ihre Bezüge aus der Besoldungsgruppe B 6. Satz 3 gilt nur, soweit die Amtsinhaber bisher ein entsprechendes Amt innehatten.
+
+(2) Die bei den in § 13 genannten Organisationseinheiten beschäftigten Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden sind mit Wirkung vom 1. Januar 2005 in den Dienst der Bundesanstalt übernommen. Die Bundesanstalt tritt unbeschadet des § 12 Abs. 1 in die Rechte und Pflichten der im Zeitpunkt der Übernahme bestehenden Arbeits- und Ausbildungsverhältnisse ein.
+
+# § 19 – Verteilung der Versorgungslasten
+
+(1) Der Bund erbringt die Versorgungs- und Beihilfeleistungen für die ehemaligen Beamtinnen und Beamten der Bundesvermögensverwaltung.
+
+(2) Der Bund zahlt die Versorgungsbezüge für die Beamtinnen und Beamten der Bundesanstalt sowie die Beihilfeleistungen für deren Versorgungsempfänger.
+
+(3) Die Bundesanstalt führt jährlich Beiträge an den Bund in Höhe von 33 vom Hundert der ruhegehaltfähigen Bruttobezüge ihrer aktiven Beamtinnen und Beamten sowie der fiktiven Bruttobezüge ihrer ruhegehaltfähig beurlaubten Beamtinnen und Beamten ab.
