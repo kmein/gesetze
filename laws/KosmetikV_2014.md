@@ -3,7 +3,7 @@
  
 # § 1 – Ziel
 
-Diese Verordnung dient der Überwachung des Verkehrs mit kosmetischen Mitteln sowie der Durchführung der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59), die zuletzt durch die Verordnung (EU) 2015/1298 vom 28. Juli 2015 (ABl. L 199 vom 29.7.2015, S. 22) geändert worden ist.
+Diese Verordnung dient der Überwachung des Verkehrs mit kosmetischen Mitteln sowie der Durchführung der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16), die zuletzt durch die Verordnung (EU) 2024/996 (ABI. L, 2024/996, 4.4.2024) geändert worden ist.
 
 # § 2 – Begriffsbestimmungen
 
@@ -37,7 +37,7 @@ Für die Einfuhr von kosmetischen Mitteln gilt § 18 Absatz 1 der Lebensmittelei
 
 # § 8 – Straftaten
 
-(1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 1223/2009 verstößt, indem er vorsätzlich oder fahrlässig
+(1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 1223/2009 des Europäischen Parlamentes und des Rates vom 30. November 2009 über kosmetische Mittel (ABI. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16), die zuletzt durch die Verordnung (EU) 2024/996 (ABI. L, 2024/996, 4.4.2024) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe a nicht dafür sorgt, dass ein kosmetisches Mittel einen in Anhang II aufgeführten Stoff nicht enthält,
 
@@ -81,7 +81,7 @@ b) ein Sicherheitsbericht für das kosmetische Mittel gemäß Anhang I erstellt 
 
 2. entgegen § 4 oder § 5 Absatz 1 ein kosmetisches Mittel auf dem Markt bereitstellt.
 
-(2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59), die zuletzt durch die Verordnung (EU) 2015/1298 vom 28. Juli 2015 (ABl. L 199 vom 29.7.2015, S. 22) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16), die zuletzt durch die Verordnung (EU) 2024/996 (ABI. L, 2024/996, 4.4.2024) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 11 Absatz 2 nicht dafür sorgt, dass die dort genannten Daten und Angaben aktualisiert werden,
 

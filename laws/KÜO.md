@@ -81,7 +81,7 @@ Stellt die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zust�
 
 # § 3 – Pflichten der bevollmächtigten Bezirksschornsteinfegerin oder des bevollmächtigten Bezirksschornsteinfegers
 
-(1) Die bevollmächtigte Bezirksschornsteinfegerin oder der bevollmächtigte Bezirksschornsteinfeger hat den Termin der Feuerstättenschau spätestens fünf Werktage vor der Durchführung anzukündigen, soweit nicht die Eigentümerin oder der Eigentümer des Grundstücks oder der Räume oder deren Beauftragter auf die Ankündigung verzichtet.
+(1) Die bevollmächtigte Bezirksschornsteinfegerin oder der bevollmächtigte Bezirksschornsteinfeger hat den Termin der Feuerstättenschau spätestens fünf Werktage vor der Durchführung anzukündigen, soweit nicht die Eigentümerin oder der Eigentümer des Grundstücks oder der Räume oder deren Beauftragter auf die Ankündigung verzichtet. Bei der Ankündigung ist die durchführende Person oder der Kreis möglicher durchführender Personen namentlich anzugeben.
 
 (2) Die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zuständige bevollmächtigte Bezirksschornsteinfeger setzt die Zeiträume für die Schornsteinfegerarbeiten nach den Rechtsverordnungen nach § 1 Absatz 1 Satz 2 und 3 des Schornsteinfeger-Handwerksgesetzes und nach der Verordnung über kleine und mittlere Feuerungsanlagen in den Feuerstättenbescheiden in möglichst gleichen Zeitabständen fest. Soweit nicht die Eigentümerin oder der Eigentümer des Grundstücks oder der Räume oder deren Beauftragter eine getrennte Durchführung wünscht, setzt die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zuständige bevollmächtigte Bezirksschornsteinfeger die Zeiträume in dem Feuerstättenbescheid so fest, dass Schornsteinfegerarbeiten innerhalb eines Kalenderjahres in einem gemeinsamen Arbeitsgang durchgeführt werden können.
 
@@ -109,15 +109,17 @@ Für die Formblätter nach § 4 Absatz 1 des Schornsteinfeger-Handwerksgesetzes 
 
 3. anlassbezogene Überprüfung nach § 15 Satz 1 des Schornsteinfeger-Handwerksgesetzes, wenn bei der Überprüfung tatsächlich Mängel festgestellt wurden,
 
-4. Mahnung rückständiger Gebühren nach § 20 Absatz 1 Satz 2 des Schornsteinfeger-Handwerksgesetzes sowie
+4. Mahnung rückständiger Gebühren nach § 20 Absatz 1 Satz 2 des Schornsteinfeger-Handwerksgesetzes,
 
-5. Ersatzvornahme nach § 26 des Schornsteinfeger-Handwerksgesetzes.
+5. Ersatzvornahme nach § 26 des Schornsteinfeger-Handwerksgesetzes,
 
-6. anlassbezogene Überprüfung nach § 1 Absatz 8,
+6. Ablehnung eines Antrags auf Herabsetzung der Kehrhäufigkeit nach § 1 Absatz 5a, sowie
+
+7. anlassbezogene Überprüfung nach § 1 Absatz 8.
 
 (2) Eine Mahnung kann ausgesprochen werden, wenn eine rückständige Gebühr nach Anlage 3 innerhalb von 30 Tagen nach Zugang der Gebührenrechnung nicht bezahlt wurde. Die Mahngebühr nach Absatz 1 Nummer 4 darf nur einmal je fällige Gebührenrechnung erhoben werden.
 
-(3) Die Gebührensätze richten sich nach den in Anlage 3 festgesetzten Arbeitswerten. Der Arbeitswert beträgt 1,20 Euro zuzüglich der gesetzlichen Umsatzsteuer.
+(3) Die Gebührensätze richten sich nach den in Anlage 3 festgesetzten Arbeitswerten. Der Arbeitswert beträgt 1,40 Euro zuzüglich der gesetzlichen Umsatzsteuer.
 
 § 6 Satz 2 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/bezschfgebg_ha_1.html" target="_blank" title="Anzeige in neuem Fenster">§ 1 Abs. 1 d. Gesetzes zur Regelung von Gebühren für bevollmächtigte Bezirksschornsteinfegerinnen und Bezirksschornsteinfeger (BezSchfGebG HA)</a> v. 13.11.2012 HmbGVBl. S. 474 mWv 1.1.2013 (vgl. BGBl. I 2013, 820). Es besteht Unstimmigkeit bzgl. der Untergliederung. § 6 Abs. 2 Satz 2 idF d. V v. 16.6.2009 I 1292: Hamburg - Geänderte Abweichung durch § 1 Abs. 2 d. Gesetzes zur Regelung von Gebühren für bevollmächtigte Bezirksschornsteinfegerinnen und Bezirksschornsteinfeger v. 13.11.2012 HmbGVBl. S. 474, geändert durch das G v. 17.9.2013 HmbGVBl. S. 399, mWv 25.9.2013 (vgl. BGBl. I 2013, 4068). Es besteht Unstimmigkeit bzgl. der Untergliederung.
 
