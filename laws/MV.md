@@ -7,7 +7,7 @@ Auf Grund des § 93a der Abgabenordnung vom 16. März 1976 (BGBl. I S. 613, 1977
 
 # § 1 – Grundsätze
 
-(1) Behörden und andere öffentliche Stellen einschließlich öffentlich-rechtlicher Rundfunkanstalten (§ 6 Absatz 1 bis 1c der Abgabenordnung) sind verpflichtet, Mitteilungen an die Finanzbehörden nach Maßgabe der folgenden Vorschriften ohne Ersuchen zu übersenden. Dies gilt nicht, wenn die Finanzbehörden bereits auf Grund anderer Vorschriften über diese Tatbestände Mitteilungen erhalten. Eine Verpflichtung zur Mitteilung besteht auch dann nicht, wenn die Gefahr besteht, daß das Bekanntwerden des Inhalts der Mitteilung dem Wohl des Bundes oder eines deutschen Landes Nachteile bereiten würde. Ist eine mitteilungspflichtige Behörde einer obersten Dienstbehörde nachgeordnet, muß die oberste Behörde dem Unterlassen der Mitteilung zustimmen; die Zustimmung kann für bestimmte Fallgruppen allgemein erteilt werden.
+(1) Behörden und andere öffentliche Stellen einschließlich öffentlich-rechtlicher Rundfunkanstalten (§ 6 Absatz 1 bis 1c der Abgabenordnung) sind verpflichtet, Mitteilungen an die Finanzbehörden nach Maßgabe der folgenden Vorschriften ohne Ersuchen zu übersenden. Dies gilt nicht, wenn die Finanzbehörden bereits auf Grund anderer Vorschriften über diese Tatbestände Mitteilungen erhalten. Eine Verpflichtung zur Mitteilung besteht auch dann nicht, wenn die Gefahr besteht, dass das Bekanntwerden des Inhalts der Mitteilung dem Wohl des Bundes oder eines deutschen Landes Nachteile bereiten würde. Ist eine mitteilungspflichtige Behörde einer obersten Dienstbehörde nachgeordnet, muss die oberste Behörde dem Unterlassen der Mitteilung zustimmen; die Zustimmung kann für bestimmte Fallgruppen allgemein erteilt werden.
 
 (2) Auf Grund dieser Verordnung sind personenbezogene Daten, die dem Sozialgeheimnis unterliegen (§ 35 des Ersten Buches Sozialgesetzbuch), und nach Landesrecht zu erbringende Sozialleistungen nicht mitzuteilen.
 
@@ -41,7 +41,7 @@ Behörden und andere öffentliche Stellen mit Ausnahme öffentlich-rechtlicher R
 
 (1) Das Bundesamt für Justiz hat als mitteilungspflichtige Stelle im Sinne des § 93c Absatz 1 der Abgabenordnung den Finanzbehörden die Höhe von nach dem 31. Dezember 2021 in Verfahren nach § 335 des Handelsgesetzbuchs festgesetzten Ordnungsgeldern sowie die Daten zur Identifizierung des betroffenen publizitätsverpflichteten Unternehmens mitzuteilen, sofern das festgesetzte Ordnungsgeld mindestens 5 000 Euro beträgt. Abweichend von § 93c Absatz 1 Nummer 2 Buchstabe d der Abgabenordnung sind die Wirtschafts-Identifikationsnummer oder die Steuernummer in den Fällen nach Satz 1 dabei nur mitzuteilen, wenn sie dem Bundesamt für Justiz bekannt sind.
 
-(2) Die den Finanzbehörden übermittelten Daten sind abweichend von § 93c Absatz 1 Nummer 4 der Abgabenordnung fünf Jahre aufzubewahren; die Frist beginnt mit dem Tag der Festsetzung des Ordnungsgelds. Weitergehende Aufbewahrungsbestimmungen aufgrund anderer Rechtsvorschriften bleiben unberührt. Wird die Festsetzung eines Ordnungsgelds in einem späteren Kalenderjahr ganz oder teilweise widerrufen, zurückgenommen oder aufgehoben, ist § 93c Absatz 3 der Abgabenordnung nicht anzuwenden.
+(2) Die den Finanzbehörden übermittelten Daten sind abweichend von § 93c Absatz 1 Nummer 4 der Abgabenordnung fünf Jahre aufzubewahren; die Frist beginnt mit dem Tag der Festsetzung des Ordnungsgelds. Weitergehende Aufbewahrungsbestimmungen aufgrund anderer Rechtsvorschriften bleiben unberührt. Wird die Festsetzung eines Ordnungsgelds in einem späteren Kalenderjahr ganz oder teilweise widerrufen, zurückgenommen oder aufgehoben, ist § 93c Absatz 3 der Abgabenordnung nicht anzuwenden.
 
 (+++ § 4a: Zur erstmaligen Anwendung vgl. § 13 +++)
 
@@ -69,7 +69,7 @@ Die Flurbereinigungsbehörden haben Ausgleichs- und Abfindungszahlungen nach dem
 
 8. die gemäß der Verordnung (EWG) Nr. 2408/92 des Rates vom 23. Juli 1992 über den Zugang von Luftfahrtunternehmen der Gemeinschaft zu Strecken des innergemeinschaftlichen Flugverkehrs (ABl. EG Nr. L 240 S. 8) erteilten Genehmigungen, Verkehrsrechte auszuüben.
 
-(2) Abweichend von § 1 Abs. 2 teilt die Bundesagentur für Arbeit nach Erteilung der erforderlichen Zusicherung folgende Daten der ausländischen Unternehmen mit, die auf Grund bilateraler Regierungsvereinbarungen über die Beschäftigung von Arbeitnehmern zur Ausführung von Werkverträgen tätig werden:
+(2) Abweichend von § 1 Absatz 2 teilt die Bundesagentur für Arbeit nach Erteilung der erforderlichen Zusicherung folgende Daten der ausländischen Unternehmen mit, die auf Grund bilateraler Regierungsvereinbarungen über die Beschäftigung von Arbeitnehmern zur Ausführung von Werkverträgen tätig werden:
 
 1. die Namen und Anschriften der ausländischen Vertragspartner des Werkvertrages,
 
@@ -143,7 +143,7 @@ Werden nach Satz 1 mitzuteilende Zahlungen in einem späteren Kalenderjahr ganz 
 
 (4) Von den Absätzen 1 bis 3 abweichende Bestimmungen dieser Verordnung sind nicht anzuwenden. § 1 Absatz 2 und § 2 Absatz 2 bleiben unberührt. Mitteilungspflichten über Leistungen im Sinne des Absatzes 1 Satz 1, die sich nach anderen Bestimmungen dieser Verordnung ergeben, sind nicht anzuwenden.
 
-# § 14 – Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen und Hochwasserkatastrophe im Juli 2021
+# § 14 – Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen- und Hochwasserkatastrophe im Juli 2021
 
 (1) Behörden und andere öffentliche Stellen haben als mitteilungspflichtige Stellen (§ 93c Absatz 1 der Abgabenordnung) den Finanzbehörden aus Anlass der Starkregen- und Hochwasserkatastrophe im Juli 2021 als Aufbauhilfen des Bundes und der Länder aus den Mitteln des Fonds „Aufbauhilfe 2021“ bewilligte Leistungen nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung mitzuteilen; mitzuteilen sind Leistungen an
 
