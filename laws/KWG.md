@@ -1717,7 +1717,7 @@ sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9f die Vorgaben der Verordnung 
 
 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) und die Vorgaben der auf Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen, als wenn diese Einrichtungen CRR-Kreditinstitute wären.
 
-(2a) Für Institute, die nicht nach Artikel 2 der Verordnung (EU) 2022/2554 im Geltungsbereich der Verordnung (EU) 2022/2554 liegen, gelten die Vorgaben der Verordnung (EU) 2022/2554 und die Vorgaben der auf Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen so, als wären diese Institute. Abweichend von Satz 1 finden
+(2a) Für Institute, die nicht nach Artikel 2 der Verordnung (EU) 2022/2554 im Geltungsbereich der Verordnung (EU) 2022/2554 liegen, gelten die Vorgaben der Verordnung (EU) 2022/2554 und die Vorgaben der auf Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen so, als wären diese Institute CRR-Kreditinstitute. Abweichend von Satz 1 finden
 
 1. anstelle der Vorgaben der Artikel 5 bis 15 der Verordnung (EU) 2022/2554 die Vorgaben des vereinfachten Informations- und Kommunikationstechnologien-Risikomanagementrahmens nach Artikel 16 der Verordnung (EU) 2022/2554 Anwendung,
 

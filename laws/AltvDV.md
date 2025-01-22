@@ -5,7 +5,7 @@
 
 (1) Eine Übermittlung von Daten nach
 
-1. § § 10 Absatz 2a, 2b, 2c und 4b, den § 10a, 22a oder Abschnitt XI des Einkommensteuergesetzes,
+1. § § 10 Absatz 2a, 2b, 2c und 4b, den §§ 10a, 22a oder Abschnitt XI des Einkommensteuergesetzes,
 
 2. § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des Einkommensteuergesetzes verwiesen wird, § 52 Absatz 30b des Einkommensteuergesetzes oder
 
