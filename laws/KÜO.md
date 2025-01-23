@@ -121,7 +121,7 @@ Für die Formblätter nach § 4 Absatz 1 des Schornsteinfeger-Handwerksgesetzes 
 
 (3) Die Gebührensätze richten sich nach den in Anlage 3 festgesetzten Arbeitswerten. Der Arbeitswert beträgt 1,40 Euro zuzüglich der gesetzlichen Umsatzsteuer.
 
-§ 6 Abs. 3 (früher Abs. 2) Satz 2 idF d. V v. 16.6.2009 I 1292: Hamburg - Geänderte Abweichung durch § 1 Abs. 2 d. Gesetzes zur Regelung von Gebühren für bevollmächtigte Bezirksschornsteinfegerinnen und Bezirksschornsteinfeger v. 13.11.2012 HmbGVBl. S. 474, geändert durch das G v. 17.9.2013 HmbGVBl. S. 399, mWv 25.9.2013 (vgl. BGBl. I 2013, 4068). Es besteht Unstimmigkeit bzgl. der Untergliederung; durch die Neueinfügung durch Art. 1 Nr. 5 V v. 8.4.2013 I 760 mWv 13.4.2013, idF d. Art. 1 Nr. 4 V v. 2.7.2020 I 1544 mWv 9.7.2020 angepasst
+§ 6 Abs. 3 (früher Abs. 2) Satz 2 idF d. V v. 16.6.2009 I 1292: Hamburg - Geänderte Abweichung durch § 1 Abs. 2 d. Gesetzes zur Regelung von Gebühren für bevollmächtigte Bezirksschornsteinfegerinnen und Bezirksschornsteinfeger v. 13.11.2012 HmbGVBl. S. 474, geändert durch das G v. 17.9.2013 HmbGVBl. S. 399, mWv 25.9.2013 (vgl. BGBl. I 2013, 4068). Es besteht Unstimmigkeit bzgl. der Untergliederung; durch die Neueinfügung durch Art. 1 Nr. 5 V v. 8.4.2013 I 760 mWv 13.4.2013, idF d. Art. 1 Nr. 4 V v. 2.7.2020 I 1544 mWv 9.7.2020 u. d. Art. 1 Nr. 2 Buchst. b V v. 15.1.2025 I Nr. 12 mWv 21.1.2025 angepasst
 
 # § 7 – Begriffsbestimmungen
 
