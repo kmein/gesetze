@@ -1771,6 +1771,8 @@ muss die entstandenen Kosten des Studiums oder der Fachausbildung erstatten. Unt
 
 Wird ein Urteil mit den Folgen des § 48 im Wiederaufnahmeverfahren durch ein Urteil ersetzt, das diese Folgen nicht hat, so gilt § 42 Abs. 1, 2 und 4 des Bundesbeamtengesetzes entsprechend.
 
+(+++ § 52: Zur Anwendung vgl. § 19 Abs. 2 u. § 138 Abs. 1 WDO 2025 +++)
+
 # § 53 – Verurteilung nach Beendigung des Dienstverhältnisses
 
 (1) Ein Berufssoldat im Ruhestand oder ein früherer Berufssoldat,
@@ -2362,6 +2364,8 @@ Die Anfechtungsklage gegen den Untersuchungsbescheid (§ 71 Satz 5 und § 73 Sat
 # § 88 – Entlassung von anderen Bewerbern
 
 Ein Bewerber nach § 87 Abs. 1, der in das Dienstverhältnis eines Berufssoldaten oder eines Soldaten auf Zeit berufen ist, kann auf Grund eines Verhaltens vor der Ernennung, das ihn der Berufung in sein Dienstverhältnis unwürdig erscheinen lässt, entlassen werden, nachdem ein Disziplinargericht den Sachverhalt festgestellt hat. Die Entlassung hat dieselben Folgen wie eine Entlassung nach § 46 Abs. 2 Satz 1 Nr. 3.
+
+(+++ § 88: Zur Anwendung vgl. § 98 Abs. 3 WDO 2025 +++)
 
 # § 89 – Mitteilungen in Strafsachen
 

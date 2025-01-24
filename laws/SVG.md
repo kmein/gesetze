@@ -1228,6 +1228,8 @@ Satz 1 Nummer 3 gilt auch bei Weiterzahlung an die Hinterbliebenen (§ 16 Absatz
 
 (2) Ansprüche auf Übergangsbeihilfe, Sterbegeld, einmalige Unfallentschädigung, einmalige Entschädigung und auf Schadensausgleich in besonderen Fällen können weder gepfändet noch abgetreten noch verpfändet werden. Ansprüche auf einen Ausbildungszuschuss, auf Übergangsgebührnisse und auf Grund einer Bewilligung einer Unterstützung nach § 57 können weder abgetreten noch verpfändet werden. Forderungen des Dienstherrn gegen die Verstorbene oder den Verstorbenen aus Vorschuss- oder Darlehensgewährungen sowie aus Überzahlungen von Dienst- oder Versorgungsbezügen können auf das Sterbegeld angerechnet werden.
 
+(+++ § 65: Zur Anwendung vgl. § 145 Abs. 1 WDO 2025 +++)
+
 # § 66 – Rückforderung
 
 (1) Wird eine Versorgungsberechtigte oder ein Versorgungsberechtigter durch eine gesetzliche Änderung ihrer oder seiner Versorgungsbezüge mit rückwirkender Kraft schlechter gestellt, so sind die Unterschiedsbeträge nicht zu erstatten.

@@ -194,6 +194,8 @@ Die Fortführung des Verfahrens wird nicht dadurch berührt, dass nach Einlegung
 
 (4) Das Truppendienstgericht kann Rechtsfragen von grundsätzlicher Bedeutung dem Bundesverwaltungsgericht zur Entscheidung vorlegen, wenn nach seiner Auffassung die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung es erfordert. Die Wehrdienstsenate entscheiden in der Besetzung von drei Richtern und zwei ehrenamtlichen Richtern durch Beschluss. Dem Bundeswehrdisziplinaranwalt ist vor der Entscheidung Gelegenheit zur Stellungnahme zu geben. Die Entscheidung ist in der vorliegenden Sache für das Truppendienstgericht bindend.
 
+(+++ § 18 Abs. 4: Zur Anwendung vgl. § 40 Abs. 7 WDO 2025 +++)
+
 # § 19 – Inhalt der Entscheidung
 
 (1) Hält das Truppendienstgericht einen Befehl oder eine Maßnahme, gegen die sich der Antrag richtet, für rechtswidrig, hebt es den Befehl oder die Maßnahme auf. Ist ein Befehl bereits ausgeführt oder anders erledigt, ist auszusprechen, dass er rechtswidrig war. Dies gilt entsprechend auch für sonstige Maßnahmen oder Unterlassungen, wenn der Beschwerdeführer ein berechtigtes Interesse an dieser Feststellung hat. Hält das Truppendienstgericht die Ablehnung eines Antrags oder die Unterlassung einer Maßnahme für rechtswidrig, spricht es die Verpflichtung aus, dem Antrag zu entsprechen oder unter Beachtung der Rechtsauffassung des Gerichts anderweitig tätig zu werden.

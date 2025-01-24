@@ -424,6 +424,8 @@ Satz 1 gilt nicht, wenn eine gesetzliche Regelung besteht oder ein Gremium der V
 
 (3) Vor der Rücknahme einer förmlichen Anerkennung gemäß § 14 der Wehrdisziplinarordnung ist die Vertrauensperson anzuhören.
 
+(+++ § 29: Zur Anwendung vgl. § 4 WDO 2025 +++)
+
 # § 30 – Auszeichnungen und Vergabe leistungsbezogener Elemente der Besoldung
 
 (1) Die Vertrauensperson soll angehört werden, wenn Soldatinnen oder Soldaten ihrer Wählergruppe für die Verleihung des Ehrenzeichens der Bundeswehr oder für einen Orden vorgeschlagen werden sollen. Die Anhörung erfolgt in der Regel durch die nächste Disziplinarvorgesetzte oder den nächsten Disziplinarvorgesetzten der Soldatinnen und Soldaten, denen eine Auszeichnung verliehen werden soll.
