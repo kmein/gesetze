@@ -430,8 +430,6 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 (1) Die Laufbahnprüfung ist bestanden, wenn in der mündlichen Abschlussprüfung eine Durchschnittsrangpunktzahl von mindestens 5 und im Gesamtergebnis eine Rangpunktzahl der Laufbahnprüfung von mindestens 5 erreicht worden ist.
 
-(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so wird bei der Berechnung der Rangpunktzahl der Laufbahnprüfung die Bewertung der mündlichen Abschlussprüfung ersetzt durch das arithmetische Mittel aus den Bewertungen aller in der Ausbildung erbrachten Leistungen.
-
 (2) Die Rangpunktzahl der Laufbahnprüfung wird von der oder dem Vorsitzenden der Prüfungskommission im Anschluss an die mündliche Abschlussprüfung ermittelt. Sie wird aus den Durchschnittsrangpunktzahlen der Zwischenprüfung, der fachtheoretischen Ausbildung und der berufspraktischen Ausbildung sowie aus den Bewertungen der Klausuren der schriftlichen Abschlussprüfung und aus der Bewertung der mündlichen Abschlussprüfung errechnet; diese sind wie folgt zu gewichten:
 
 1. |                                     |             |
@@ -461,6 +459,8 @@ Abschlussprüfung mit</td>
 | die mündliche Abschlussprüfung mit | 25 Prozent. |
 
 Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung für die Ermittlung der Abschlussnote bei Nachkommawerten ab 50 aufgerundet und bei kleineren Nachkommawerten abgerundet.
+
+(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so wird bei der Berechnung der Rangpunktzahl der Laufbahnprüfung die Bewertung der mündlichen Abschlussprüfung ersetzt durch das arithmetische Mittel aus den Bewertungen aller in der Ausbildung erbrachten Leistungen.
 
 (3) Die oder der Vorsitzende der Prüfungskommission teilt den Anwärterinnen und Anwärtern die erreichten Rangpunkte mit und erläutert die Bewertungen auf Wunsch kurz mündlich.
 
