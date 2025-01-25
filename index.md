@@ -1927,6 +1927,7 @@
 - [EuKrSchwAusbÜbkG](laws/EuKrSchwAusbÜbkG.md) Gesetz zu dem Europäischen Übereinkommen vom 25. Oktober 1967 über die theoretische und praktische Ausbildung von Krankenschwestern und Krankenpflegern
 - [EuLabMolBioÜbk](laws/EuLabMolBioÜbk.md) Übereinkommen zur Errichtung eines Europäischen Laboratoriums für Molekularbiologie
 - [EuLabMolBioVorRV](laws/EuLabMolBioVorRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an das Europäische Laboratorium für Molekularbiologie
+- [EULAKStiftAbkV](laws/EULAKStiftAbkV.md) Verordnung zu dem Abkommen vom 11. Mai 2023 zwischen der Regierung der Bundesrepublik Deutschland und der Internationalen EU-LAK-Stiftung über den Sitz der Internationalen EU-LAK-Stiftung in der Freien und Hansestadt Hamburg
 - [EuLRaumÜbk](laws/EuLRaumÜbk.md) Übereinkommen über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume
 - [EuLRaumÜbkG](laws/EuLRaumÜbkG.md) Gesetz zu dem Übereinkommen vom 19. September 1979 über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume
 - [EUMETSATProt](laws/EUMETSATProt.md) Protokoll über die Vorrechte und Immunitäten der Europäischen Organisation für die Nutzung von meteorologischen Satelliten (EUMETSAT)
@@ -2703,6 +2704,7 @@
 - [HaldeRlAnO](laws/HaldeRlAnO.md) Anordnung über Halden und Restlöcher
 - [HandzMstrV](laws/HandzMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Handzuginstrumentenmacher-Handwerk
 - [HanfEinfV](laws/HanfEinfV.md) Verordnung über die Einfuhr von Hanf aus Drittländern
+- [HanfSaatV 2025](laws/HanfSaatV_2025.md) Verordnung über besondere Anforderungen an Saatgut von Hanf im Rahmen der Saatgutanerkennung 2025
 - [HArchDVDV](laws/HArchDVDV.md) Verordnung über den Vorbereitungsdienst für den höheren Archivdienst des Bundes
 - [HAuslG](laws/HAuslG.md) Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet
 - [HAV](laws/HAV.md) Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung
