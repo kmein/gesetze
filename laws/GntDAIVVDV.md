@@ -13,10 +13,6 @@ Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5. Februar 2
 
 (2) Der Diplom-Studiengang wird als Präsenzstudiengang und als Fernstudiengang angeboten.
 
-# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
-
-Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
-
 # § 2 – Ziele des Studiums
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen nichttechnischen Verwaltungsdienst des Bundes erforderlich sind. Es soll die Studierenden zu verantwortlichem Handeln in einem freiheitlichen demokratischen und sozialen Rechtsstaat befähigen. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im föderalen und europäischen Raum. Die Studierenden sollen ihre Kompetenzen weiterentwickeln, um den sich ständig wandelnden Herausforderungen der Bundesverwaltung gerecht zu werden.
@@ -37,21 +33,13 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 (4) Die Auswahlkommission besteht aus:
 
-1. einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder einer hauptamtlichen Lehrkraft der Hochschule als Vorsitzender oder Vorsitzendem,
+1. einer Beamtin oder einem Beamten des höheren oder gehobenen nichttechnischen Verwaltungsdienstes des Bundes oder einer hauptamtlichen Lehrkraft der Hochschule als Vorsitzender oder Vorsitzendem und
 
-2. einer Beamtin oder eines Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes und
-
-3. zwei weiteren Beamtinnen und Beamten des gehobenen nichttechnischen Verwaltungsdienstes des Bundes.
+2. einer weiteren Beamtin oder einem weiteren Beamten des höheren oder gehobenen nichttechnischen Verwaltungsdienstes des Bundes.
 
 In begründeten Fällen kann auch eine Tarifbeschäftigte oder ein Tarifbeschäftigter je Kommission zum Mitglied der Auswahlkommission bestellt werden, sofern sie oder er über vergleichbare einschlägige Kenntnisse verfügt. Die Mitglieder der Auswahlkommission sind unabhängig und nicht weisungsgebunden. Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Die Mitglieder und Ersatzmitglieder der Auswahlkommission werden von der Hochschule für die Dauer von drei Jahren bestellt. Wiederbestellung ist zulässig.
 
-(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 die Auswahlkommission – abweichend von Absatz 4 Satz 1 – nur aus folgenden Mitgliedern besteht:
-
-1. einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder einer Beamtin oder einem Beamten des gehobenen nichttechnischen Verwaltungsdienstes des Bundes oder einer hauptamtlichen Lehrkraft als Vorsitzender oder Vorsitzendem und
-
-2. einer weiteren Beamtin oder einem weiteren Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder einer weiteren Beamtin oder einem weiteren Beamten des gehobenen nichttechnischen Verwaltungsdienstes des Bundes.
-
-Ist festgelegt worden, dass die Auswahlkommission nur aus zwei Personen besteht, so können die beiden Mitglieder und ihre Ersatzmitglieder – abweichend von Absatz 4 Satz 7 – für weniger als drei Jahre bestellt werden.
+(4a) (weggefallen)
 
 (5) Bei Bedarf können mehrere Kommissionen eingerichtet werden. In diesen Fällen ist sicherzustellen, dass gleiche Auswahlmaßstäbe angelegt werden.
 
@@ -85,11 +73,7 @@ Für den Präsenzstudiengang bestimmt die Hochschule die Zeiten des Erholungsurl
 
 2. drei Fachstudienabschnitte und zwei hierzu parallel stattfindende Praktikumsabschnitte im Hauptstudium.
 
-(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
-
-1. Semester des Präsenzstudiengangs anders gegliedert werden als nach Absatz 3 und
-
-2. Studienabschnitte des Fernstudiengangs anders gegliedert werden als nach Absatz 4.
+(4a) (weggefallen)
 
 (5) Je Semester im Präsenzstudiengang oder je Studienabschnitt im Fernstudiengang können die Studierenden bis zu 30 Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen erwerben. Die Anzahl der Leistungspunkte, die für jedes erfolgreich absolvierte Modul erreicht werden können, ergibt sich aus dem Modulhandbuch in der jeweils bei Aufnahme des Studiums geltenden Fassung entsprechend § 7 Absatz 1 Satz 2.
 
@@ -125,17 +109,11 @@ Für den Präsenzstudiengang bestimmt die Hochschule die Zeiten des Erholungsurl
 
 7. Interkulturelles Handeln in der Bundesverwaltung.
 
-(3a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 – abweichend von den Absätzen 2 und 3 – Lehrveranstaltungen zu den Kompetenzbereichen oder Teile der Lehrveranstaltungen in ein anderes Semester verschoben werden, und zwar auch in ein Semester einer berufspraktischen Studienzeit.
+(3a) (weggefallen)
 
 (4) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
 
-# § 7a – Nutzung digitaler Lehrformate
-
-Bis zum 31. Dezember 2024 können nach Entscheidung der Hochschule digitale Lehrformate genutzt werden
-
-1. für einzelne oder für alle Lehrveranstaltungen des Präsenzstudiengangs und
-
-2. auch für alle Lehrveranstaltungen des Fernstudiengangs.
+(5) Die Hochschule kann festlegen, dass digitale Lehrformate für einzelne Lehrveranstaltungen des Präsenz- und des Fernstudiengangs genutzt werden.
 
 # § 8 – Berufspraktische Studienzeiten
 
@@ -199,17 +177,15 @@ Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit ausgegeben wor
 
 Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entsprechende Qualifikation verfügen. Zwei Mitglieder der Prüfungskommission sollen Lehrkräfte der Hochschule sein.
 
-(6a) Abweichend von Absatz 6 Satz 2 bis 4 können bis zum 31. Dezember 2024 von den fünf Mitgliedern der Prüfungskommission für die mündliche Abschlussprüfung höchstens vier Prüfende auch Lehrbeauftragte sein, die weder Beamtinnen oder Beamte noch Arbeitnehmerinnen oder Arbeitnehmer des Bundes sind, wenn sie
+(7) Abweichend von Absatz 6 Satz 2 bis 4 können von den fünf Mitgliedern der Prüfungskommission für die mündliche Abschlussprüfung höchstens drei Prüfende auch Lehrbeauftragte sein, die weder Beamtinnen oder Beamte noch Arbeitnehmerinnen oder Arbeitnehmer des Bundes sind, wenn sie
 
 1. über langjährige Erfahrungen als Lehrbeauftragte an der Hochschule verfügen und
 
 2. mindestens einen Bachelorabschluss oder eine gleichwertige Qualifikation besitzen.
 
-(7) Die Prüfungskommission ist beschlussfähig, wenn mindestens vier Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
+(8) Die Prüfungskommission ist beschlussfähig, wenn mindestens vier Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-(7a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 eine Prüfungskommission bereits beschlussfähig ist, wenn mindestens drei Mitglieder anwesend sind.
-
-(8) Es können mehrere Prüfungskommissionen eingesetzt werden, wenn die Zahl der Studierenden dies erfordert. Das Prüfungsamt gewährleistet die gleichmäßige Anwendung der Bewertungsmaßstäbe.
+(9) Es können mehrere Prüfungskommissionen eingesetzt werden, wenn die Zahl der Studierenden dies erfordert. Das Prüfungsamt gewährleistet die gleichmäßige Anwendung der Bewertungsmaßstäbe.
 
 # § 12 – Modulprüfungen im Hauptstudium
 
@@ -235,11 +211,9 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 7. ein Kurzvortrag.
 
-(4a) Bis zum 31. Dezember 2024 können
+Soweit sich ein Leistungstest hierfür eignet, können Prüfungsaufgaben elektronisch gestellt, bearbeitet und bewertet werden. Die Hochschule gewährleistet die Integrität und Authentizität der Daten und die automatische Protokollierung und stellt sicher, dass die Daten eindeutig identifiziert und unverwechselbar und dauerhaft den Studierenden zugeordnet werden können.
 
-1. die Leistungstests Klausur, Sprachtest und Lehrveranstaltungsprotokoll mit Unterstützung durch Informationstechnik durchgeführt werden, und
-
-2. die Präsentation, die mündliche Prüfung und der Kurzvortrag unter Nutzung von Videokonferenztechnik durchgeführt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+(4a) (weggefallen)
 
 (5) Die Klausuren sind anstelle des Namens mit einer Kennziffer zu versehen.
 
@@ -247,17 +221,17 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (7) Modulprüfungen in den Praktika bestehen aus einem Praktikumsbericht und einem Rundgespräch. Daneben fließt in die Bewertung des Moduls auch die Praktikumsbeurteilung nach § 8 Absatz 4 ein. Einzelheiten regelt die Praktikumsordnung des Fachbereichs Allgemeine Innere Verwaltung.
 
-(8) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 die Modulprüfung in einem Praktikum nur aus einem Praktikumsbericht besteht.
+(8) (weggefallen)
 
 # § 13 – Prüfungen im Grundstudium
 
-(1) Das Grundstudium wird mit der Zwischenprüfung und der Prüfung im Modul „Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ abgeschlossen.
+(1) Das Grundstudium wird mit der Zwischenprüfung und der Prüfung im Modul „Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ abgeschlossen. Die Zwischenprüfung im Fernstudiengang kann studiengangbegleitend durchgeführt werden.
 
-(1a) Bis zum 31. Dezember 2024 kann die Zwischenprüfung studiengangbegleitend durchgeführt werden.
+(1a) (weggefallen)
 
 (2) Die Zwischenprüfung besteht aus den Modulprüfungen zu den übrigen Modulen des Grundstudiums. Die Modulprüfungen werden als Klausuren mit einer Bearbeitungszeit von jeweils 180 Minuten durchgeführt. Die Dekanin oder der Dekan des Zentralbereichs wählt aus den Vorschlägen der Lehrkräfte die Klausuraufgaben aus. Die Klausuren sind anstelle des Namens mit einer Kennziffer zu versehen.
 
-(2a) Bis zum 31. Dezember 2024 können höchstens zwei der vier Modulprüfungen der Zwischenprüfung – abweichend von Absatz 2 Satz 2 – als Hausarbeit durchgeführt werden. Das jeweilige Thema für die Hausarbeit wählt die Dekanin oder der Dekan des Zentralbereichs aus den Vorschlägen der Lehrkräfte aus.
+(2a) (weggefallen)
 
 (3) Die Zwischenprüfung ist bestanden, wenn
 
@@ -287,29 +261,9 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (2) Gegenstand der mündlichen Abschlussprüfung sollen zu gleichen Teilen die Kompetenzbereiche 1 bis 6 nach § 7 Absatz 3 sein. Die mündliche Abschlussprüfung soll nicht länger als 40 Minuten dauern.
 
-(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
+(2a) (weggefallen)
 
-1. für die mündliche Abschlussprüfung die folgenden Kompetenzbereiche zu dem Kompetenzbereich „rechtliches Handeln in der Bundesverwaltung“ zusammengefasst werden:
-
-a) verfassungsrechtliche und europarechtliche Rahmenbedingungen der Bundesverwaltung (§ 7 Absatz 3 Nummer 1),
-
-b) öffentlich-rechtliches Handeln in der Bundesverwaltung (§ 7 Absatz 3 Nummer 2),
-
-c) privatrechtliches Handeln in der Bundesverwaltung (§ 7 Absatz 3 Nummer 3) und
-
-d) Personal in der Bundesverwaltung (§ 7 Absatz 3 Nummer 6) und
-
-2. der Gegenstand der mündlichen Abschlussprüfung zu gleichen Teilen den folgenden Kompetenzbereichen zu entnehmen ist:
-
-a) rechtliches Handeln in der Bundesverwaltung,
-
-b) Betriebswirtschaft in der Bundesverwaltung (§ 7 Absatz 3 Nummer 4) und
-
-c) Finanzen in der Bundesverwaltung (§ 7 Absatz 3 Nummer 5).
-
-Ist festgelegt worden, dass die in Satz 1 Nummer 1 genannten Kompetenzbereiche zusammengefasst werden, so soll die mündliche Abschlussprüfung nicht länger als 30 Minuten dauern.
-
-(2b) Mit Zustimmung des Bundesministeriums des Innern und für Heimat kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn nicht gewährleistet werden kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt, selbst wenn von der Ausnahmemöglichkeit nach Absatz 2a Gebrauch gemacht würde.
+(2b) (weggefallen)
 
 (3) In der interdisziplinären Prüfung sollen die Studierenden nachweisen, dass sie die Inhalte der absolvierten Module zueinander in Beziehung setzen können und dass ihre Kenntnisse und Fähigkeiten den Anforderungen an Beamtinnen und Beamte des gehobenen nichttechnischen Verwaltungsdienstes genügen. Die Prüfung soll als Gruppenprüfung durchgeführt werden. Eine Prüfungsgruppe soll aus höchstens fünf Studierenden bestehen.
 
@@ -582,7 +536,7 @@ Abschlussprüfung mit</td>
   
 Ist die abschließende Rangpunktzahl höher als 5, wird sie kaufmännisch auf eine ganze Zahl gerundet. Die Zuordnung der Gesamtnote erfolgt nach § 16 Absatz 2.
 
-(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so wird bei der Berechnung der abschließenden Rangpunktzahl die Bewertung der mündlichen Abschlussprüfung ersetzt durch das arithmetische Mittel aus den Bewertungen aller im Studiengang erbrachten Leistungen.
+(2a) (weggefallen)
 
 (3) Im Anschluss an die Beratung der Prüfungskommission zur mündlichen Abschlussprüfung teilt die oder der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
