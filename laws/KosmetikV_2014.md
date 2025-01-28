@@ -5,6 +5,8 @@
 
 Diese Verordnung dient der Überwachung des Verkehrs mit kosmetischen Mitteln sowie der Durchführung der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16), die zuletzt durch die Verordnung (EU) 2024/996 (ABI. L, 2024/996, 4.4.2024) geändert worden ist.
 
+(+++ § 1: IdF d. Art. 2 V v. 26.1.2016 I 108 mWv 30.1.2016 u. d. Art. 2 Nr. 1 V v. 15.1.2025 I Nr. 11 mWv 18.1.2025 (aufgrund offensichtlicher Unrichtigkeit wurde die Änderungsanweisung sinngemäß konsolidiert) +++)
+
 # § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
@@ -116,3 +118,5 @@ ein kosmetisches Mittel auf dem Markt bereitstellt,
 13. entgegen Artikel 21 Satz 1 nicht gewährleistet, dass eine dort bezeichnete Angabe der Öffentlichkeit leicht zugänglich gemacht wird, oder
 
 14. entgegen Artikel 23 Absatz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+
+(+++ § 9 Abs. 2 Eingangssatz: IdF d. Art. 2 V v. 26.1.2016 I 108 mWv 30.1.2016 u. d. Art. 2 Nr. 3 V v. 15.1.2025 I Nr. 11 mWv 18.1.2025 (aufgrund offensichtlicher Unrichtigkeit wurde die Änderungsanweisung sinngemäß konsolidiert) +++)

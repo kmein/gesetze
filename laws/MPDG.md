@@ -745,6 +745,8 @@ Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht der nach §
 
 (5) Die zuständige Ethik-Kommission übermittelt ihre Stellungnahme über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 an die für den Sponsor oder für seinen rechtlichen Vertreter zuständigen Behörden und an die für die Prüfstellen zuständigen Behörden.
 
+(+++ § 41 Abs. 3: Zur Geltung vgl. § 36b Abs. 2 Nr. 2 StrlSchG +++)
+
 # § 42 – Entscheidung der Bundesoberbehörde
 
 Lehnt die zuständige Bundesoberbehörde aus einem der in Artikel 75 Absatz 3 Buchstabe a der Verordnung (EU) 2017/745 oder Artikel 71 Absatz 3 Buchstabe a der Verordnung (EU) 2017/746 genannten Gründe eine wesentliche Änderung der klinischen Prüfung oder der Leistungsstudie ab, unterrichtet sie den Sponsor innerhalb von 37 Tagen nach Erhalt der Mitteilung über eine wesentliche Änderung. Die Frist verlängert sich um sieben Tage, wenn sich die zuständige Bundesoberbehörde durch Sachverständige beraten lässt. In diesem Fall teilt sie dem Sponsor spätestens 20 Tage nach Erhalt der Mitteilung über die wesentliche Änderung mit, dass sich die Frist auf Grund der Beratung durch Sachverständige verlängert, und weist zugleich darauf hin, dass sich damit auch die Frist nach Artikel 75 Absatz 3 der Verordnung (EU) 2017/745 oder Artikel 71 Absatz 3 der Verordnung (EU) 2017/746 entsprechend verlängert.
