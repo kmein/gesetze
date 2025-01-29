@@ -13,12 +13,12 @@ Diese Verordnung findet Anwendung auf alle Arbeitgeber, die als Verleiher Dritte
 
 (1) Verleiher sind verpflichtet, ihren Leiharbeitnehmerinnen und Leiharbeitnehmern mindestens das in Absatz 2 genannte Bruttoentgelt als Mindeststundenentgelt im Sinne von § 3a des Arbeitnehmerüberlassungsgesetzes zu zahlen (Mindeststundenentgelt).
 
+(2) Das Mindeststundenentgelt beträgt:
+
 <table width="100%" style="border: none;">
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Das Mindeststundenentgelt beträgt:<br />
-<br />
-vom 1. November 2024 bis zum 28. Februar 2025:</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">vom 1. November 2024 bis zum 28. Februar 2025:</td>
 <td style="text-align: right;" data-valign="bottom" data-charoff="50">14,00 Euro<br />
 </td>
 </tr>
