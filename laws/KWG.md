@@ -1336,10 +1336,14 @@ Zentralverwahrer
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 64y</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 65</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift zum Gesetz zur Einführung von elektronischen Wertpapieren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 65a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz</td>
 </tr>
