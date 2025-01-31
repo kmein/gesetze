@@ -14211,7 +14211,7 @@ eheähnlich zusammenleben. Sie liegt in der Regel nicht vor, wenn ein Partner mi
 
 (2) Für die Annahme Volljähriger gelten die Vorschriften über die Annahme Minderjähriger sinngemäß, soweit sich aus den folgenden Vorschriften nichts anderes ergibt. Zur Annahme eines Verheirateten oder einer Person, die eine Lebenspartnerschaft führt, ist die Einwilligung seines Ehegatten oder ihres Lebenspartners erforderlich. Die Änderung des Geburtsnamens erstreckt sich auf den Ehe- oder Lebenspartnerschaftsnamen des Angenommenen nur dann, wenn sich auch der Ehegatte oder Lebenspartner der Namensänderung vor dem Ausspruch der Annahme durch Erklärung gegenüber dem Familiengericht anschließt; die Erklärung muss öffentlich beglaubigt werden.
 
-§ 1767 Abs. 2 Satz 1 idF d. G v. 17.7.2017 I 2429: IVm § 1757 Abs. 1 Satz 1 idF d. G v. 17.7.2017 I 2429 mit GG (100-1) vereinbar gem. BVerfGE v. 24.10.2024 (1 BvL 10/20)
+§ 1767 Abs. 2 Satz 1 idF d. G v. 17.7.2017 I 2429: IVm § 1757 Abs. 1 Satz 1 idF d. G v. 17.7.2017 I 2429 mit GG (100-1) vereinbar gem. BVerfGE v. 24.10.2024; 2025 I Nr. 26 - 1 BvL 10/20 -
 
 # § 1768 – Antrag
 
