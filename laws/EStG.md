@@ -1088,7 +1088,7 @@ c) ein Wirtschaftsgut im Sinne des § 20 Absatz 2 oder im Sinne des § 2 Absatz 
 (+++ § 6: Zur Anwendung vgl. § 52 +++)  
 (+++ § 6: Zur Anwendung vgl. § 13a Abs. 3 (F. 2014-12-22) u. § 9 +++)  
 (+++ § 6 Abs. 1: Zur Anwendung vgl. § 53 Abs. 3 InvStG 2018 +++)  
-§ 6 Abs. 5 Satz 3: Nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 28.11.2023 I Nr. 45 - 2 BvL 8/13 –
+§ 6 Abs. 5 Satz 3: Nach Maßgabe der Entscheidungsformel mit dem GG unvereinbar gem. BVerfGE v. 28.11.2023 I Nr. 45 - 2 BvL 8/13 –; zur Umsetzung der Anforderungen d. BVerfG vgl. G v. 2.12.2024 I 387 mWv 6.12.2024
 
 # § 6a – Pensionsrückstellung
 
