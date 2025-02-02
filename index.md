@@ -5763,6 +5763,7 @@
 - [TVMindestlohn Maler 11](laws/TVMindestlohn_Maler_11.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 16. Dezember 2022
 - [TVMindestlohn VFlughSiK 3](laws/TVMindestlohn_VFlughSiK_3.md) Rechtsnormen des Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 9. April 2024
 - [TVMindestlohnDachd 12](laws/TVMindestlohnDachd_12.md) Rechtsnormen des Tarifvertrages zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. September 2023
+- [TVMindestlohnGebäude 2024](laws/TVMindestlohnGebäude_2024.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer1) in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. November 2024
 - [TVMindestlohnPäda 6](laws/TVMindestlohnPäda_6.md) Rechtsnormen des Tarifvertrags Nr. 7 zur Regelung des Mindestlohns für pädagogisches Personal vom 27. Juli 2022
 - [TWirtAusbStEignV 2005](laws/TWirtAusbStEignV_2005.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Tierwirt/zur Tierwirtin
 - [TWirtAusbV 2005](laws/TWirtAusbV_2005.md) Verordnung über die Berufsausbildung zum Tierwirt/zur Tierwirtin
@@ -6687,6 +6688,7 @@
 - [10. ÄndVGüKG](laws/10._ÄndVGüKG.md) Zehnte Verordnung zur Änderung von Rechtsvorschriften zum Güterkraftverkehrsgesetz
 - [10. AnpG-KOV](laws/10._AnpG-KOV.md) Zehntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes
 - [10. BImSchV](laws/10._BImSchV.md) Zehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes*)**)
+- [10. GebäudeArbbV](laws/10._GebäudeArbbV.md) Zehnte Verordnung über zwingende Arbeitsbedingungen in der Gebäudereinigung
 - [10. ProdSV](laws/10._ProdSV.md) Zehnte Verordnung zum Produktsicherheitsgesetz
 - [10. RAG](laws/10._RAG.md) Zehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [11. ÄndG LAG](laws/11._ÄndG_LAG.md) Elftes Gesetz zur Änderung des Lastenausgleichsgesetzes
