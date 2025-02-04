@@ -2436,6 +2436,12 @@ Bei Vorliegen des Pflegegrades 1 gewährt die Pflegeversicherung folgende Leistu
 
 (2) Die neuen Beträge für die Leistungen der Pflegeversicherung werden vom Bundesministerium für Gesundheit jeweils im Bundesanzeiger bekannt gemacht.
 
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 30 Abs. 1 u. 2 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+
 # § 31 – Vorrang der Rehabilitation vor Pflege
 
 (1) Die Pflegekassen prüfen im Einzelfall, welche Leistungen zur medizinischen Rehabilitation und ergänzenden Leistungen geeignet und zumutbar sind, Pflegebedürftigkeit zu überwinden, zu mindern oder ihre Verschlimmerung zu verhüten. Werden Leistungen nach diesem Buch gewährt, ist bei Nachuntersuchungen die Frage geeigneter und zumutbarer Leistungen zur medizinischen Rehabilitation mit zu prüfen.
@@ -2510,6 +2516,12 @@ Pflegebedürftigen werden auf Antrag die Leistungen nach den §§ 36, 37 Abs. 1,
 
 (4) Häusliche Pflegehilfe ist auch zulässig, wenn Pflegebedürftige nicht in ihrem eigenen Haushalt gepflegt werden; sie ist nicht zulässig, wenn Pflegebedürftige in einer stationären Pflegeeinrichtung oder in einer Einrichtung oder in Räumlichkeiten im Sinne des § 71 Absatz 4 gepflegt werden. Häusliche Pflegehilfe wird durch geeignete Pflegekräfte erbracht, die entweder von der Pflegekasse oder bei ambulanten Pflegeeinrichtungen, mit denen die Pflegekasse einen Versorgungsvertrag abgeschlossen hat, angestellt sind. Auch durch Einzelpersonen, mit denen die Pflegekasse einen Vertrag nach § 77 Absatz 1 abgeschlossen hat, kann häusliche Pflegehilfe als Sachleistung erbracht werden. Mehrere Pflegebedürftige können häusliche Pflegehilfe gemeinsam in Anspruch nehmen.
 
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 36 iVm § 30 Abs. 1 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+
 # § 37 – Pflegegeld für selbst beschaffte Pflegehilfen
 
 (1) Pflegebedürftige der Pflegegrade 2 bis 5 können anstelle der häuslichen Pflegehilfe ein Pflegegeld beantragen. Der Anspruch setzt voraus, dass der Pflegebedürftige mit dem Pflegegeld dessen Umfang entsprechend die erforderlichen körperbezogenen Pflegemaßnahmen und pflegerischen Betreuungsmaßnahmen sowie Hilfen bei der Haushaltsführung in geeigneter Weise selbst sicherstellt. Das Pflegegeld beträgt je Kalendermonat
@@ -2566,6 +2578,12 @@ Fordert das Bundesministerium für Gesundheit oder eine Vertragspartei nach § 1
 
 (9) Beratungsbesuche nach Absatz 3 dürfen von Betreuungsdiensten im Sinne des § 71 Absatz 1a nicht durchgeführt werden.
 
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 37 iVm § 30 Abs. 1 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+
 # § 38 – Kombination von Geldleistung und Sachleistung (Kombinationsleistung)
 
 Nimmt der Pflegebedürftige die ihm nach § 36 Absatz 3 zustehende Sachleistung nur teilweise in Anspruch, erhält er daneben ein anteiliges Pflegegeld im Sinne des § 37. Das Pflegegeld wird um den Vomhundertsatz vermindert, in dem der Pflegebedürftige Sachleistungen in Anspruch genommen hat. An die Entscheidung, in welchem Verhältnis er Geld- und Sachleistung in Anspruch nehmen will, ist der Pflegebedürftige für die Dauer von sechs Monaten gebunden. Anteiliges Pflegegeld wird während einer Kurzzeitpflege nach § 42 für bis zu acht Wochen und während einer Verhinderungspflege nach § 39 für bis zu sechs Wochen je Kalenderjahr in Höhe der Hälfte der vor Beginn der Kurzzeit- oder Verhinderungspflege geleisteten Höhe fortgewährt. Pflegebedürftige in vollstationären Einrichtungen der Hilfe für behinderte Menschen (§ 43a) haben Anspruch auf ungekürztes Pflegegeld anteilig für die Tage, an denen sie sich in häuslicher Pflege befinden.
@@ -2596,6 +2614,12 @@ Leistungen der Tages- und Nachtpflege gemäß § 41 können neben den Leistungen
 
 5. die vereinbarten Aufgaben der Person nach Absatz 1 Nummer 3.
 
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 38a iVm § 30 Abs. 1 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+
 # § 39 – Häusliche Pflege bei Verhinderung der Pflegeperson
 
 (1) Ist eine Pflegeperson wegen Erholungsurlaubs, Krankheit oder aus anderen Gründen an der Pflege gehindert, übernimmt die Pflegekasse die nachgewiesenen Kosten einer notwendigen Ersatzpflege für längstens sechs Wochen je Kalenderjahr; § 34 Absatz 2 Satz 1 gilt nicht. Voraussetzung ist, dass die Pflegeperson den Pflegebedürftigen vor der erstmaligen Verhinderung mindestens sechs Monate in seiner häuslichen Umgebung gepflegt hat und der Pflegebedürftige zum Zeitpunkt der Verhinderung mindestens in Pflegegrad 2 eingestuft ist. Die Aufwendungen der Pflegekasse können sich im Kalenderjahr auf bis zu 1 612 Euro belaufen, wenn die Ersatzpflege durch andere Pflegepersonen sichergestellt wird als solche, die mit dem Pflegebedürftigen bis zum zweiten Grade verwandt oder verschwägert sind oder die mit ihm in häuslicher Gemeinschaft leben.
@@ -2607,6 +2631,12 @@ Leistungen der Tages- und Nachtpflege gemäß § 41 können neben den Leistungen
 (4) Ist eine Pflegeperson wegen Erholungsurlaubs, Krankheit oder aus anderen Gründen an der Pflege gehindert, die einen Pflegebedürftigen der Pflegegrade 4 oder 5 pflegt, der das 25. Lebensjahr noch nicht vollendet hat, übernimmt die Pflegekasse abweichend von Absatz 1 Satz 1 die nachgewiesenen Kosten einer notwendigen Ersatzpflege für längstens acht Wochen je Kalenderjahr. Abweichend von Absatz 1 Satz 2 ist es dabei nicht erforderlich, dass die Pflegeperson den Pflegebedürftigen vor der erstmaligen Verhinderung mindestens sechs Monate in seiner häuslichen Umgebung gepflegt hat. In dem in Satz 1 genannten Fall der Verhinderung gilt Absatz 3 Satz 1 mit der Maßgabe, dass die Aufwendungen der Pflegekasse regelmäßig den Betrag des Pflegegeldes nach § 37 Absatz 1 Satz 3 für bis zu zwei Monate nicht überschreiten dürfen. In dem in Satz 1 genannten Fall der Verhinderung kann der Leistungsbetrag nach Absatz 1 Satz 3 abweichend von Absatz 2 sowie Absatz 3 Satz 2 und 4 in Verbindung mit Absatz 2 im Kalenderjahr um bis zu 100 Prozent der Mittel für eine Kurzzeitpflege nach § 42 Absatz 2 Satz 2 erhöht werden, soweit die Mittel der Kurzzeitpflege in dem Kalenderjahr noch nicht in Anspruch genommen worden sind. Der für die Verhinderungspflege in Anspruch genommene Erhöhungsbetrag wird auf den Leistungsbetrag für eine Kurzzeitpflege nach § 42 Absatz 2 Satz 2 angerechnet.
 
 (5) In dem in Absatz 4 Satz 1 genannten Fall der Verhinderung wird abweichend von § 37 Absatz 2 Satz 2 die Hälfte eines bisher bezogenen Pflegegeldes für bis zu acht Wochen im Kalenderjahr fortgewährt sowie abweichend von § 38 Satz 4 die Hälfte eines vor Beginn der Verhinderungspflege bezogenen anteiligen Pflegegeldes für bis zu acht Wochen im Kalenderjahr fortgewährt.
+
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 39 iVm § 30 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
 
 # § 39a – Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen
 
@@ -2628,6 +2658,12 @@ Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des
 
 (7) Die Pflegekasse hat über einen Antrag auf Pflegehilfsmittel oder Zuschüsse zu wohnumfeldverbessernden Maßnahmen zügig, spätestens bis zum Ablauf von drei Wochen nach Antragseingang oder in Fällen, in denen eine Pflegefachkraft oder der Medizinische Dienst nach Absatz 1 Satz 2 beteiligt wird, innerhalb von fünf Wochen nach Antragseingang zu entscheiden. Über einen Antrag auf ein Pflegehilfsmittel, das von einer Pflegefachkraft bei der Antragstellung nach Absatz 6 Satz 2 empfohlen wurde, hat die Pflegekasse zügig, spätestens bis zum Ablauf von drei Wochen nach Antragseingang, zu entscheiden. Kann die Pflegekasse die Fristen nach Satz 1 oder Satz 2 nicht einhalten, teilt sie dies den Antragstellern unter Darlegung der Gründe rechtzeitig schriftlich mit. Erfolgt keine Mitteilung eines hinreichenden Grundes, gilt die Leistung nach Ablauf der Frist als genehmigt.
 
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 40 iVm § 30 Abs. 1 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+
 # § 40a – Digitale Pflegeanwendungen
 
 (1) Pflegebedürftige haben Anspruch auf Versorgung mit Anwendungen, die wesentlich auf digitalen Technologien beruhen und von den Pflegebedürftigen oder in der Interaktion von Pflegebedürftigen mit Angehörigen, sonstigen ehrenamtlich Pflegenden oder zugelassenen ambulanten Pflegeeinrichtungen genutzt werden, um Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten des Pflegebedürftigen zu mindern oder einer Verschlimmerung der Pflegebedürftigkeit entgegenzuwirken, soweit die Anwendung nicht wegen Krankheit oder Behinderung von der Krankenversicherung oder anderen zuständigen Leistungsträgern zu leisten ist (digitale Pflegeanwendungen).
@@ -2648,6 +2684,12 @@ Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des
 
 (2) Die Pflegekasse informiert den Pflegebedürftigen barrierefrei in schriftlicher oder elektronischer Form über die Kosten, die von ihm für die digitale Pflegeanwendung, einschließlich der Mehrkosten nach § 40a Absatz 2 Satz 8, selbst zu tragen sind, und über die Kosten, die von ihm für ergänzende Unterstützungsleistungen selbst zu tragen sind.
 
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 40b iVm § 30 Abs. 1 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+
 # § 41 – Tagespflege und Nachtpflege
 
 (1) Pflegebedürftige der Pflegegrade 2 bis 5 haben Anspruch auf teilstationäre Pflege in Einrichtungen der Tages- oder Nachtpflege, wenn häusliche Pflege nicht in ausreichendem Umfang sichergestellt werden kann oder wenn dies zur Ergänzung oder Stärkung der häuslichen Pflege erforderlich ist. Die teilstationäre Pflege umfaßt auch die notwendige Beförderung des Pflegebedürftigen von der Wohnung zur Einrichtung der Tagespflege oder der Nachtpflege und zurück.
@@ -2666,6 +2708,12 @@ Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des
 
 (4) bis (7) (weggefallen)
 
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 41 iVm § 30 Abs. 1 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+
 # § 42 – Kurzzeitpflege
 
 (1) Kann die häusliche Pflege zeitweise nicht, noch nicht oder nicht im erforderlichen Umfang erbracht werden und reicht auch teilstationäre Pflege nicht aus, besteht für Pflegebedürftige der Pflegegrade 2 bis 5 Anspruch auf Pflege in einer vollstationären Einrichtung. Dies gilt:
@@ -2677,6 +2725,12 @@ Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des
 (2) Der Anspruch auf Kurzzeitpflege ist auf acht Wochen pro Kalenderjahr beschränkt. Die Pflegekasse übernimmt die pflegebedingten Aufwendungen einschließlich der Aufwendungen für Betreuung sowie die Aufwendungen für Leistungen der medizinischen Behandlungspflege bis zu dem Gesamtbetrag von 1 774 Euro im Kalenderjahr. Der Leistungsbetrag nach Satz 2 kann um bis zu 1 612 Euro aus noch nicht in Anspruch genommenen Mitteln der Verhinderungspflege nach § 39 Absatz 1 Satz 3 auf insgesamt bis zu 3 386 Euro im Kalenderjahr erhöht werden. Der für die Kurzzeitpflege in Anspruch genommene Erhöhungsbetrag wird auf den Leistungsbetrag für eine Verhinderungspflege nach § 39 Absatz 1 Satz 3 angerechnet. Auf den in Satz 3 genannten Erhöhungsbetrag von bis zu 1 612 Euro findet § 30 Absatz 1 und 2 entsprechende Anwendung.
 
 (3) Abweichend von den Absätzen 1 und 2 besteht der Anspruch auf Kurzzeitpflege in begründeten Einzelfällen bei zu Hause gepflegten Pflegebedürftigen auch in geeigneten Einrichtungen der Hilfe für behinderte Menschen und anderen geeigneten Einrichtungen, wenn die Pflege in einer von den Pflegekassen zur Kurzzeitpflege zugelassenen Pflegeeinrichtung nicht möglich ist oder nicht zumutbar erscheint. § 34 Abs. 2 Satz 1 findet keine Anwendung. Sind in dem Entgelt für die Einrichtung Kosten für Unterkunft und Verpflegung sowie Aufwendungen für Investitionen enthalten, ohne gesondert ausgewiesen zu sein, so sind 60 vom Hundert des Entgelts zuschussfähig. In begründeten Einzelfällen kann die Pflegekasse in Ansehung der Kosten für Unterkunft und Verpflegung sowie der Aufwendungen für Investitionen davon abweichende pauschale Abschläge vornehmen.
+
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 42 iVm § 30 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
 
 # § 42a – Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson
 
@@ -2718,11 +2772,23 @@ Abweichend von Satz 1 übernimmt die Pflegekasse auch Aufwendungen für Unterkun
 
 (4) Bei vorübergehender Abwesenheit von Pflegebedürftigen aus dem Pflegeheim werden die Leistungen für vollstationäre Pflege erbracht, solange die Voraussetzungen des § 87a Abs. 1 Satz 5 und 6 vorliegen.
 
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 43 iVm § 30 Abs. 1 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+
 # § 43a – Inhalt der Leistung
 
 Für Pflegebedürftige der Pflegegrade 2 bis 5 in einer vollstationären Einrichtung im Sinne des § 71 Absatz 4 Nummer 1, in der die Teilhabe am Arbeitsleben, an Bildung oder die soziale Teilhabe, die schulische Ausbildung oder die Erziehung von Menschen mit Behinderungen im Vordergrund des Einrichtungszwecks stehen, übernimmt die Pflegekasse zur Abgeltung der in § 43 Absatz 2 genannten Aufwendungen 15 Prozent der nach Teil 2 Kapitel 8 des Neunten Buches vereinbarten Vergütung. Die Aufwendungen der Pflegekasse dürfen im Einzelfall je Kalendermonat 266 Euro nicht überschreiten. Die Sätze 1 und 2 gelten auch für Pflegebedürftige der Pflegegrade 2 bis 5 in Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3, die Leistungen der Eingliederungshilfe für Menschen mit Behinderungen nach Teil 2 des Neunten Buches erhalten. Wird für die Tage, an denen die Pflegebedürftigen im Sinne der Sätze 1 und 3 zu Hause gepflegt und betreut werden, anteiliges Pflegegeld beansprucht, gelten die Tage der An- und Abreise als volle Tage der häuslichen Pflege.
 
-(+++ § 43a: Zur Nichtanwendung vgl. § 145 +++)
+  
+
+    (+++ § 43a: Zur Nichtanwendung vgl. § 145 +++)
+     
+    (+++ Hinweis: Leistungsbeträge gem. § 43a iVm § 30 Abs. 1 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
 
 # § 43b – Inhalt der Leistung
 
@@ -2846,6 +2912,12 @@ Die Erstattung der Aufwendungen aus dem Entlastungsbetrag erfolgt auch in dem Fa
 
 (4) Die für die Erbringung von Leistungen nach Absatz 1 Satz 3 Nummer 1 bis 4 verlangte Vergütung darf die Preise für vergleichbare Sachleistungen von zugelassenen Pflegeeinrichtungen nicht übersteigen. Näheres zur Ausgestaltung einer entsprechenden Begrenzung der Vergütung, die für die Erbringung von Leistungen nach Absatz 1 Satz 3 Nummer 4 durch nach Landesrecht anerkannte Angebote zur Unterstützung im Alltag verlangt werden darf, können die Landesregierungen in der Rechtsverordnung nach § 45a Absatz 3 bestimmen.
 
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 45b iVm § 30 Abs. 1 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+
 # § 45c – Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts, Verordnungsermächtigung
 
 (1) Zur Weiterentwicklung der Versorgungsstrukturen und Versorgungskonzepte und zur Förderung ehrenamtlicher Strukturen fördert der Spitzenverband Bund der Pflegekassen im Wege der Anteilsfinanzierung aus Mitteln des Ausgleichsfonds mit 25 Millionen Euro je Kalenderjahr
@@ -2883,6 +2955,12 @@ Je Kalenderjahr werden 0,15 Euro je Versicherten verwendet zur Förderung und zu
 (1) Zur Förderung der Gründung von ambulant betreuten Wohngruppen wird Pflegebedürftigen, die Anspruch auf Leistungen nach § 38a haben und die an der gemeinsamen Gründung beteiligt sind, für die altersgerechte oder barrierearme Umgestaltung der gemeinsamen Wohnung zusätzlich zu dem Betrag nach § 40 Absatz 4 einmalig ein Betrag von bis zu 2 500 Euro gewährt. Der Gesamtbetrag ist je Wohngruppe auf 10 000 Euro begrenzt und wird bei mehr als vier Anspruchsberechtigten anteilig auf die Versicherungsträger der Anspruchsberechtigten aufgeteilt. Der Antrag ist innerhalb eines Jahres nach Vorliegen der Anspruchsvoraussetzungen zu stellen. Dabei kann die Umgestaltungsmaßnahme auch vor der Gründung und dem Einzug erfolgen. Die Sätze 1 bis 4 gelten für die Versicherten der privaten Pflege-Pflichtversicherung entsprechend.
 
 (2) Die Pflegekassen zahlen den Förderbetrag aus, wenn die Gründung einer ambulant betreuten Wohngruppe nachgewiesen wird. Der Anspruch endet mit Ablauf des Monats, in dem das Bundesamt für Soziale Sicherung den Pflegekassen und dem Verband der privaten Krankenversicherung e. V. mitteilt, dass mit der Förderung eine Gesamthöhe von 30 Millionen Euro erreicht worden ist. Einzelheiten zu den Voraussetzungen und dem Verfahren der Förderung regelt der Spitzenverband Bund der Pflegekassen im Einvernehmen mit dem Verband der privaten Krankenversicherung e. V.
+
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 45e iVm § 30 Abs. 1 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
 
 # § 45f – Weiterentwicklung neuer Wohnformen
 
@@ -3991,6 +4069,12 @@ Die als Pflegesatzparteien betroffenen Leistungsträger (§ 85 Abs. 2) vereinbar
 (3) Die dem pflegebedürftigen Heimbewohner nach den §§ 41 bis 43 zustehenden Leistungsbeträge einschließlich des Leistungszuschlags nach § 43c sind von seiner Pflegekasse mit befreiender Wirkung unmittelbar an das Pflegeheim zu zahlen. Maßgebend für die Höhe des zu zahlenden Leistungsbetrags ist der Leistungsbescheid der Pflegekasse, unabhängig davon, ob der Bescheid bestandskräftig ist oder nicht. Die von den Pflegekassen zu zahlenden Leistungsbeträge werden bei vollstationärer Pflege (§ 43) zum 15. eines jeden Monats fällig.
 
 (4) Pflegeeinrichtungen, die Leistungen im Sinne des § 43 erbringen, erhalten von der Pflegekasse zusätzlich den Betrag von 2 952 Euro, wenn der Pflegebedürftige nach der Durchführung aktivierender oder rehabilitativer Maßnahmen in einen niedrigeren Pflegegrad zurückgestuft wurde oder festgestellt wurde, dass er nicht mehr pflegebedürftig im Sinne der §§ 14 und 15 ist. Der Betrag wird entsprechend § 30 angepasst. Der von der Pflegekasse gezahlte Betrag ist von der Pflegeeinrichtung zurückzuzahlen, wenn der Pflegebedürftige innerhalb von sechs Monaten in einen höheren Pflegegrad oder wieder als pflegebedürftig im Sinne der §§ 14 und 15 eingestuft wird.
+
+  
+
+    (+++ Hinweis: Leistungsbeträge gem. § 87a iVm § 30 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
 
 # § 87b – (weggefallen)
 
