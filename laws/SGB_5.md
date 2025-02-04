@@ -10818,6 +10818,8 @@ Die Nutzungsberechtigten haben bei der Verarbeitung der nach Absatz 3 oder Absat
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen sowie Regelungen über die Gebührenentstehung, die Gebührenerhebung, die Erstattung von Auslagen, den Gebührenschuldner, Gebührenbefreiungen, die Fälligkeit, die Stundung, die Niederschlagung, den Erlass, Säumniszuschläge, die Verjährung und die Erstattung zu treffen. Das Bundesministerium für Gesundheit kann die Ermächtigung durch Rechtsverordnung auf die öffentliche Stelle, die vom Bundesministerium für Gesundheit nach § 303a Absatz 1 als Forschungsdatenzentrum nach § 303d bestimmt ist, übertragen.
 
+(+++ Hinweis: Zur Übertragung der Ermächtigung gem. § 303f Abs. 2 Satz 2 iVm § 303f Abs. 2 Satz 1 vgl. Art. 3 V v. 29.1.2025 I Nr. 27 +++) §§ 303a bis 303f: Früher §§ 303a bis 303e gem. u. idF d. Art. 1 Nr. 39 G v. 9.12.2019 I 2562 mWv 19.12.2019
+
 # § 304 – Aufbewahrung von Daten bei Krankenkassen, Kassenärztlichen Vereinigungen und Geschäftsstellen der Prüfungsausschüsse
 
 (1) Die für Aufgaben der gesetzlichen Krankenversicherung bei Krankenkassen, Kassenärztlichen Vereinigungen und Geschäftsstellen der Prüfungsausschüsse gespeicherten Sozialdaten sind nach folgender Maßgabe zu löschen:
