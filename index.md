@@ -1390,7 +1390,6 @@
 - [DaHeSchnMstrV](laws/DaHeSchnMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Damen- und Herrenschneider-Handwerk
 - [DarlehensV](laws/DarlehensV.md) Verordnung über die Einziehung der nach dem Bundesausbildungsförderungsgesetz geleisteten Darlehen
 - [DaTraGebV](laws/DaTraGebV.md) Verordnung zur Erhebung von Gebühren und Auslagen für die Bereitstellung von Daten nach den Regelungen der Datentransparenzverordnung
-- [DaTraV](laws/DaTraV.md) Verordnung zur Umsetzung der Vorschriften über die Datentransparenz
 - [DBA ARE](laws/DBA_ARE.md) Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen
 - [DBA AUT 2002](laws/DBA_AUT_2002.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 - [DBA CH 1980](laws/DBA_CH_1980.md) Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Nachlaß- und Erbschaftsteuern
@@ -2077,6 +2076,7 @@
 - [FAVO](laws/FAVO.md) Verordnung zur Anpassung von Arzneimittel-Festbeträgen
 - [FBeitrV](laws/FBeitrV.md) Frequenznutzungsbeitragsverordnung
 - [FDNormV](laws/FDNormV.md) Verordnung zur Anwendung von Normen für voll digitale Fernsehdienste
+- [FDZGesV](laws/FDZGesV.md) Verordnung zur Regelung der Verfahren beim Forschungsdatenzentrum Gesundheit
 - [FehmarnbeltqVtr](laws/FehmarnbeltqVtr.md) Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über eine Feste Fehmarnbeltquerung
 - [FehmarnbeltqVtrG](laws/FehmarnbeltqVtrG.md) Gesetz zu dem Vertrag vom 3. September 2008 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über eine Feste Fehmarnbeltquerung
 - [FEhrPensAnO](laws/FEhrPensAnO.md) Anordnung über Ehrenpensionen für Kämpfer gegen den Faschismus und für Verfolgte des Faschismus sowie für deren Hinterbliebene
@@ -5146,6 +5146,7 @@
 - [SGB IX](laws/SGB_IX.md) Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234)
 - [SGB V-ÜbV](laws/SGB_V-ÜbV.md) Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach dem Fünften Buch Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung
 - [SGB XIV](laws/SGB_XIV.md) Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung -
+- [SGB11§30Bek 2025](laws/SGB11§30Bek_2025.md) Bekanntmachung der ab dem 1. Januar 2025 geltenden benannten Leistungsbeträge der Pflegeversicherung sowie weiterer Beträge nach dem Elften Buch Sozialgesetzbuch
 - [SGB2§20Abs2Bek](laws/SGB2§20Abs2Bek.md) Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2005
 - [SGB2§20Abs2Bek 2006](laws/SGB2§20Abs2Bek_2006.md) Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2006
 - [SGB2§20Abs2Bek 2007](laws/SGB2§20Abs2Bek_2007.md) Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 Satz 1 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2007
