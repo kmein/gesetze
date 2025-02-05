@@ -2440,7 +2440,8 @@ Bei Vorliegen des Pflegegrades 1 gewährt die Pflegeversicherung folgende Leistu
 
     (+++ Hinweis: Leistungsbeträge gem. § 30 Abs. 1 u. 2 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 31 – Vorrang der Rehabilitation vor Pflege
 
@@ -2520,7 +2521,8 @@ Pflegebedürftigen werden auf Antrag die Leistungen nach den §§ 36, 37 Abs. 1,
 
     (+++ Hinweis: Leistungsbeträge gem. § 36 iVm § 30 Abs. 1 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 37 – Pflegegeld für selbst beschaffte Pflegehilfen
 
@@ -2582,7 +2584,8 @@ Fordert das Bundesministerium für Gesundheit oder eine Vertragspartei nach § 1
 
     (+++ Hinweis: Leistungsbeträge gem. § 37 iVm § 30 Abs. 1 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 38 – Kombination von Geldleistung und Sachleistung (Kombinationsleistung)
 
@@ -2618,7 +2621,8 @@ Leistungen der Tages- und Nachtpflege gemäß § 41 können neben den Leistungen
 
     (+++ Hinweis: Leistungsbeträge gem. § 38a iVm § 30 Abs. 1 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 39 – Häusliche Pflege bei Verhinderung der Pflegeperson
 
@@ -2636,7 +2640,8 @@ Leistungen der Tages- und Nachtpflege gemäß § 41 können neben den Leistungen
 
     (+++ Hinweis: Leistungsbeträge gem. § 39 iVm § 30 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 39a – Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen
 
@@ -2662,7 +2667,8 @@ Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des
 
     (+++ Hinweis: Leistungsbeträge gem. § 40 iVm § 30 Abs. 1 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 40a – Digitale Pflegeanwendungen
 
@@ -2688,7 +2694,8 @@ Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des
 
     (+++ Hinweis: Leistungsbeträge gem. § 40b iVm § 30 Abs. 1 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 41 – Tagespflege und Nachtpflege
 
@@ -2712,7 +2719,8 @@ Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des
 
     (+++ Hinweis: Leistungsbeträge gem. § 41 iVm § 30 Abs. 1 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 42 – Kurzzeitpflege
 
@@ -2730,7 +2738,8 @@ Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des
 
     (+++ Hinweis: Leistungsbeträge gem. § 42 iVm § 30 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 42a – Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson
 
@@ -2776,7 +2785,8 @@ Abweichend von Satz 1 übernimmt die Pflegekasse auch Aufwendungen für Unterkun
 
     (+++ Hinweis: Leistungsbeträge gem. § 43 iVm § 30 Abs. 1 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 43a – Inhalt der Leistung
 
@@ -2784,11 +2794,7 @@ Für Pflegebedürftige der Pflegegrade 2 bis 5 in einer vollstationären Einrich
 
   
 
-    (+++ § 43a: Zur Nichtanwendung vgl. § 145 +++)
-     
-    (+++ Hinweis: Leistungsbeträge gem. § 43a iVm § 30 Abs. 1 SGB 11:
-     
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    (+++ § 43a: Zur Nichtanwendung vgl. § 145 +++) 
 
 # § 43b – Inhalt der Leistung
 
@@ -2916,7 +2922,8 @@ Die Erstattung der Aufwendungen aus dem Entlastungsbetrag erfolgt auch in dem Fa
 
     (+++ Hinweis: Leistungsbeträge gem. § 45b iVm § 30 Abs. 1 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 45c – Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts, Verordnungsermächtigung
 
@@ -2960,7 +2967,8 @@ Je Kalenderjahr werden 0,15 Euro je Versicherten verwendet zur Förderung und zu
 
     (+++ Hinweis: Leistungsbeträge gem. § 45e iVm § 30 Abs. 1 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 45f – Weiterentwicklung neuer Wohnformen
 
@@ -4074,7 +4082,8 @@ Die als Pflegesatzparteien betroffenen Leistungsträger (§ 85 Abs. 2) vereinbar
 
     (+++ Hinweis: Leistungsbeträge gem. § 87a iVm § 30 SGB 11:
      
-    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 +++) 
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 87b – (weggefallen)
 
