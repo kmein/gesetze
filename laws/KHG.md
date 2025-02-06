@@ -255,12 +255,6 @@ Bei der Entscheidung über die Erklärung des in Satz 1 genannten Benehmens hand
 
 (1) Die Krankenhäuser haben nach Maßgabe dieses Gesetzes Anspruch auf Förderung, soweit und solange sie in den Krankenhausplan eines Landes und bei Investitionen nach § 9 Abs. 1 Nr. 1 in das Investitionsprogramm aufgenommen sind. Die zuständige Landesbehörde und der Krankenhausträger können für ein Investitionsvorhaben nach § 9 Abs. 1 eine nur teilweise Förderung mit Restfinanzierung durch den Krankenhausträger vereinbaren; Einvernehmen mit den Landesverbänden der Krankenkassen, den Ersatzkassen und den Vertragsparteien nach § 18 Abs. 2 ist anzustreben. Die Aufnahme oder Nichtaufnahme in den Krankenhausplan wird durch Bescheid festgestellt. Gegen den Bescheid ist der Verwaltungsrechtsweg gegeben.
 
-(1a) (weggefallen)
-
-(1b) (weggefallen)
-
-(1c) (weggefallen)
-
 (2) Ein Anspruch auf Feststellung der Aufnahme in den Krankenhausplan und in das Investitionsprogramm besteht nicht. Bei notwendiger Auswahl zwischen mehreren Krankenhäusern entscheidet die zuständige Landesbehörde unter Berücksichtigung der öffentlichen Interessen und der Vielfalt der Krankenhausträger nach pflichtgemäßem Ermessen, welches Krankenhaus den Zielen der Krankenhausplanung des Landes am besten gerecht wird; die Vielfalt der Krankenhausträger ist nur dann zu berücksichtigen, wenn die Qualität der erbrachten Leistungen der Einrichtungen gleichwertig ist.
 
 (3) Für die in § 2 Nr. 1a genannten Ausbildungsstätten gelten die Vorschriften dieses Abschnitts entsprechend.

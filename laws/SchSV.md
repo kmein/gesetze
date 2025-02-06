@@ -4411,31 +4411,13 @@ e) Einzelheiten zu Personen, die im Notfall besondere Betreuung oder Hilfe benö
 
 5. Sämtliche erhobenen und gespeicherten Daten sind zu löschen, sobald die jeweilige Fahrt beendet ist.
 
-1\.
+3. Sicherheitsausbildung
 
-Eignung als Segelschulungsschiff
+3.1  
+Mindestens eine Person an Bord, die mit der Ausbildung der Trainees im Bereich Sicherheit befasst ist, muss über entsprechende Nachweise einer Ausbildung nach STCW 95 Regel A-VI/1, A-VI/2 und A-VI/3 verfügen. Die Ausbildung kann ganz oder teilweise durch den Nachweis einer von der Berufsgenossenschaft für den Bereich der Traditionsschifffahrt zugelassenen Ausbildung im Sinne der Regel 3.2 ersetzt werden. Es ist zulässig, dass mehrere Personen über einzelne Nachweise verfügen, sofern die eben genannten Ausbildungen nachgewiesen werden.
 
-Die Betreiber eines Segelschulungsschiffes müssen zusätzlich zu den Anforderungen dieser Verordnung in schriftlicher Form nachweisen, dass sich die Art ihres Schiffes, sein Betrieb und seine Besatzung in besonderer Weise dazu eignet, eine fundierte Ausbildung in traditioneller Seemannschaft durchzuführen und nautisch-technische Grundkenntnisse zu vermitteln.
-
-2\.
-
-Trainingshandbuch
-
-Mit Antragstellung ist ein Trainingshandbuch bei der Berufsgenossenschaft zur Genehmigung einzureichen. Das Handbuch muss mindestens zu folgenden Bereichen Angaben enthalten:
-
-a) Anzahl und Funktion der Personen, die die Ausbildung an Bord sicherstellen,
-
-b) die Anforderungen an die Qualifikation dieser Personen,
-
-c) Sicherheitseinweisung der Auszubildenden oder Trainees vor der Abfahrt,
-
-d) Trainingsinhalt in den Bereichen Navigation, Seemannschaft, Technik und Sicherheit.
-
-3\.
-
-Sicherheitsausbildung
-
-Mindestens eine Person an Bord, die mit der Ausbildung der Trainees im Bereich Sicherheit befasst ist, muss über entsprechende Nachweise einer Ausbildung nach STCW 95 Regel A-VI/1, A-VI/2, A-VI/3 und A-VI/4-1 verfügen. Es ist zulässig, dass mehrere Personen über einzelne Nachweise verfügen, sofern alle hier aufgeführten Ausbildungen nachgewiesen werden.
+3.2  
+Die Berufsgenossenschaft darf Ausbildungen im Sinne der Regel 3.1 Satz 2 zulassen, wenn sie inhaltlich und dem Umfang nach den Ausbildungen des STCW gemäß Regel 3.1 entsprechen. Inhalt und Umfang der Lehrgänge dürfen reduziert werden, soweit diese sich auf den Betrieb, die Ausrüstung oder Technik erstrecken, die für Traditionsschiffe nicht vorgesehen ist. Der Ausbildungsnachweis wird befristet auf fünf Jahre erteilt. Die Zulassung der Lehrgangsanbieter ist höchstens für zwei Jahre zu erteilen.
 
 Die Muster eines Sicherheitszeugnisses für Traditionsschiffe, eines vorläufigen Sicherheitszeugnisses für Traditionsschiffe und eines Schiffsbesatzungszeugnisses für Traditionsschiffe werden nach dieser Verordnung im Verkehrsblatt bekannt gemacht.
 

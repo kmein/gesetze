@@ -693,5 +693,3 @@ Die Bonitätsnote nach § 8 Absatz 2 wird wie folgt ermittelt:
 2. Der errechnete Risikoindikatorwert bestimmt die Höhe des individuellen Risikowerts (IRS) eines Risikoindikators. Die IRS werden mit Hilfe einer von der Entschädigungseinrichtung zu erstellenden Transformationstabelle aus den errechneten Risikoindikatorwerten ermittelt. Die IRS bewegen sich zwischen der Risikoausprägung 0 für „sehr geringes Risiko“ und 100 für „sehr hohes Risiko“. Die Tabelle nach Satz 2 ist den CRR-Kreditinstituten von der Entschädigungseinrichtung zur Verfügung zu stellen.
 
 3. Der IRS jedes Risikoindikators wird mit der jeweiligen Indikatorgewichtung gemäß Spalte 2 der Tabelle unter Ziffer I multipliziert. Die gewichteten IRS werden entsprechend ihrem Summenwert, nach einer von der Entschädigungseinrichtung den CRR-Kreditinstituten zu diesem Zweck zur Verfügung gestellten Tabelle, einer Bonitätsnote zwischen 0 für „höchste Bonität“ und 9 für „schwächste Bonität“ zugeordnet.
-
-# Anlage 2 – (weggefallen)
