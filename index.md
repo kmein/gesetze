@@ -5055,7 +5055,6 @@
 - [SeeArbÜV](laws/SeeArbÜV.md) Verordnung über die Überprüfung der Einhaltung der Arbeits- und Lebensbedingungen auf Schiffen 1
 - [SeeAtHaftÜbk](laws/SeeAtHaftÜbk.md) Übereinkommen über die zivilrechtliche Haftung bei der Beförderung von Kernmaterial auf See
 - [SeeAufgG](laws/SeeAufgG.md) Gesetz über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt
-- [SeeAusbNÜbk](laws/SeeAusbNÜbk.md) Internationales Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten
 - [SeeAZV](laws/SeeAZV.md) Verordnung über die Arbeitszeit der Arbeitnehmerinnen und Arbeitnehmer als Besatzungen von Schiffen und Booten im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [SeeBewachDV](laws/SeeBewachDV.md) Verordnung zur Durchführung der Seeschiffbewachungsverordnung
 - [SeeBewachV](laws/SeeBewachV.md) Verordnung über die Zulassung von Bewachungsunternehmen auf Seeschiffen
@@ -5161,6 +5160,7 @@
 - [SGB5§252PrüfV](laws/SGB5§252PrüfV.md) Verordnung gemäß § 252 Absatz 5 des Fünften Buches Sozialgesetzbuch zur Prüfung der Beiträge nach § 252 Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch (Prüfverordnung sonstige Beiträge)
 - [SGB5§291Abs2bSatz14VerlV](laws/SGB5§291Abs2bSatz14VerlV.md) Verordnung zur Verlängerung der Frist nach § 291 Absatz 2b Satz 14 des Fünften Buches Sozialgesetzbuch
 - [SGB5§291VerlV](laws/SGB5§291VerlV.md) Verordnung zur Verlängerung der Frist nach § 291 Absatz 2b Satz 6 des Fünften Buches Sozialgesetzbuch
+- [SGB5§303fEÜV](laws/SGB5§303fEÜV.md) Verordnung zur Übertragung der Ermächtigung zum Erlass einer Rechtsverordnung nach § 303f des Fünften Buch Sozialgesetzbuch
 - [SGB7§172cAbs3S1ÜbertrV](laws/SGB7§172cAbs3S1ÜbertrV.md) Verordnung zur Übertragung der Befugnis zum Erlass einer Rechtsverordnung nach § 172c Absatz 3 Satz 1 des Siebten Buches Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung
 - [SGB7§178Abs1S1ÜV](laws/SGB7§178Abs1S1ÜV.md) Verordnung zur Übertragung der Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 Satz 1 des Siebten Buches Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung
 - [SGB7§178Abs1V](laws/SGB7§178Abs1V.md) Verordnung zur Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 des Siebten Buches Sozialgesetzbuch
@@ -5407,7 +5407,6 @@
 - [StBerGÄndG 3](laws/StBerGÄndG_3.md) Drittes Gesetz zur Änderung des Steuerberatungsgesetzes
 - [StBPPV](laws/StBPPV.md) Verordnung über die Steuerberaterplattform und die besonderen elektronischen Steuerberaterpostfächer
 - [StBVV](laws/StBVV.md) Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
-- [STCW-Code](laws/STCW-Code.md) Entschließung 2 zu den Änderungen der Anlage des Internationalen Übereinkommens vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten
 - [StDAV](laws/StDAV.md) Verordnung über den automatisierten Abruf von Steuerdaten
 - [SteinKAGSaarG](laws/SteinKAGSaarG.md) Gesetz über die Einbringung der Steinkohlenbergwerke im Saarland in eine Aktiengesellschaft
 - [SteinkohleFinG](laws/SteinkohleFinG.md) Gesetz zur Finanzierung der Beendigung des subventionierten Steinkohlenbergbaus zum Jahr 2018
