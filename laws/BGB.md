@@ -11943,7 +11943,7 @@ Ist das Endvermögen eines Ehegatten geringer als das Vermögen, das er in der A
 
 (4) Ein land- oder forstwirtschaftlicher Betrieb, der bei der Berechnung des Anfangsvermögens und des Endvermögens zu berücksichtigen ist, ist mit dem Ertragswert anzusetzen, wenn der Eigentümer nach § 1378 Abs. 1 in Anspruch genommen wird und eine Weiterführung oder Wiederaufnahme des Betriebs durch den Eigentümer oder einen Abkömmling erwartet werden kann; die Vorschrift des § 2049 Abs. 2 ist anzuwenden.
 
-§ 1376 Abs. 4: Wegen der Vereinbarkeit mit dem GG vgl. BVerfGE v. 16.10.1984; 1985 I 99 (1 BvL 17/80)
+§ 1376 Abs. 4: Wegen der Verein- und Unvereinbarkeit mit dem GG vgl. BVerfGE v. 16.10.1984; 1985 I 99 (1 BvL 17/80)
 
 # § 1377 – Verzeichnis des Anfangsvermögens
 
