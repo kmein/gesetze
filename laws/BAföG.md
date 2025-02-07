@@ -1321,14 +1321,6 @@ werden durch dieses Gesetz nicht berührt.
 
 (8) Für Auszubildende an Höheren Fachschulen, Akademien und Hochschulen, die bis zum für ihre jeweilige Ausbildung geltenden Beginn des Semesters, der vor dem 25. Juli 2024 liegt, im Sinne von § 7 Absatz 3 Satz 3 die Fachrichtung gewechselt oder im Sinne von § 7 Absatz 3 Satz 2 die Ausbildung abgebrochen haben, ist § 7 Absatz 3 in der am 24. Juli 2024 geltenden Fassung für diesen Fachrichtungswechsel oder Abbruch der Ausbildung weiter anzuwenden. Satz 1 gilt auch, wenn der Fachrichtungswechsel oder der Abbruch der Ausbildung zum Beginn des Semesters, der vor dem 25. Juli 2024 liegt, als vollzogen gilt.
 
-(8a) (weggefallen)
-
-(8b) (weggefallen)
-
-(9) (weggefallen)
-
-(10) (weggefallen)
-
 (+++ Hinweis: Zur Verlängerung der in Abs. 8a geregelten Anwendung des § 21 Abs. 4 Nr. 5 bis zum Ablauf des 31. Dezember 2022 vgl. V v. 10.3.2022 I 426 +++)
 
 # § 66b – Übergangsvorschrift aus Anlass des Endes des Übergangszeitraums nach dem Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft

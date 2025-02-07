@@ -118,7 +118,7 @@ cc) sich verpflichtet, auch künftig zu jedem Bilanzstichtag einen derartigen Ja
 b) Anteilen und Aktien an inländischen geschlossenen Alternativen Investmentfonds (AIF) im Sinne des § 1 Absatz 3 des Kapitalanlagegesetzbuchs,
 
 aa)  
-die direkt oder indirekt in Vermögensgegenstände nach § 261 Absatz 1 Nummer 4 des Kapitalanlagegesetzbuchs, eigenkapitalähnliche Instrumente sowie andere Instrumente der Unternehmensfinanzierung investieren und
+die direkt oder indirekt in Vermögensgegenstände nach § 261 Absatz 1 Nummer 2 und 4 des Kapitalanlagegesetzbuchs, eigenkapitalähnliche Instrumente sowie andere Instrumente der Unternehmensfinanzierung investieren und
 
 bb)  
 die von einer Kapitalverwaltungsgesellschaft verwaltet werden, die über eine Erlaubnis nach § 20 Absatz 1 des Kapitalanlagegesetzbuchs verfügt oder nach § 44 des Kapitalanlagegesetzbuchs registriert ist, oder von einer Verwaltungsgesellschaft mit Sitz in einem Staat des EWR oder in einem Vollmitgliedstaat der OECD, die zum Schutz der Anleger einer öffentlichen Aufsicht unterliegt und über eine Erlaubnis oder eine Registrierung verfügt, die mit der Erlaubnis nach § 20 Absatz 1 des Kapitalanlagegesetzbuchs oder mit der Registrierung nach § 44 des Kapitalanlagegesetzbuchs vergleichbar ist,
@@ -175,7 +175,7 @@ d) multilateralen Entwicklungsbanken, die nach Artikel 117 Absatz 2 der Verordnu
 
 Als Anlagen gelten auch laufende Guthaben.
 
-(2) Nach Maßgabe des § 3 Absatz 2 Nummer 4 kann das Sicherungsvermögen darüber hinaus in Anlagen angelegt werden, die in Absatz 1 nicht genannt sind, die Voraussetzungen nach Absatz 1 nicht erfüllen oder die Begrenzungen des § 3 Absatz 2 Nummer 1 bis 3, Absatz 3 bis 5 übersteigen (Öffnungsklausel).
+(2) Das Sicherungsvermögen kann darüber hinaus in Anlagen angelegt werden, die in Absatz 1 nicht genannt sind, die Voraussetzungen nach Absatz 1 nicht erfüllen oder die Begrenzungen des § 3 Absatz 2 Nummer 1 bis 3, Absatz 3 bis 5 und § 4 Absatz 1 bis 4 übersteigen (Öffnungsklausel). Im Rahmen der Öffnungsklausel nach Satz 1 angelegte Anlagen sind insgesamt auf 5 Prozent des Sicherungsvermögens beschränkt; unter Wahrung der Belange der Versicherten kann diese Anlagegrenze mit Genehmigung der Aufsichtsbehörde bis auf 10 Prozent des Sicherungsvermögens erhöht werden.
 
 (3) Die Aufsichtsbehörde kann dem Versicherungsunternehmen auch Anlagen in Vermögenswerten, die in den vorangehenden Absätzen nicht genannt sind oder die Voraussetzungen der vorangehenden Absätze nicht erfüllen, sowie die Überschreitung der in § 3 Absatz 2 Nummer 1 bis 3, Absatz 3 bis 5 und § 4 Absatz 1 bis 4 genannten Begrenzungen gestatten, wenn die Belange der Versicherten dadurch nicht beeinträchtigt werden.
 
@@ -197,17 +197,17 @@ Als Anlagen gelten auch laufende Guthaben.
 
 2. direkte und indirekte Anlagen nach § 2 Absatz 1 Nummer 17, Vermögensgegenstände, die über § 2 Absatz 1 Nummer 16 gehalten werden und nicht den Nummern des Anlagekatalogs des § 2 Absatz 1 zugeordnet werden können, sowie andere direkte und indirekte Anlagen nach § 2 Absatz 1, deren Ertrag oder Rückzahlung an Hedgefonds- oder Rohstoffrisiken gebunden ist, dürfen 7,5 Prozent des Sicherungsvermögens nicht übersteigen;
 
-3. direkte und indirekte Anlagen nach § 2 Absatz 1 Nummer 4 Buchstabe c dürfen 5 Prozent des Sicherungsvermögens nicht übersteigen;
+3. direkte und indirekte Anlagen nach § 2 Absatz 1 Nummer 4 Buchstabe c dürfen 5 Prozent des Sicherungsvermögens nicht übersteigen.
 
-4. im Rahmen der Öffnungsklausel nach § 2 Absatz 2 angelegte Anlagen sind auf 5 Prozent des Sicherungsvermögens beschränkt; unter Wahrung der Belange der Versicherten kann diese Anlagegrenze mit Genehmigung der Aufsichtsbehörde bis auf 10 Prozent des Sicherungsvermögens erhöht werden; die Begrenzung auf 1 Prozent des Sicherungsvermögens in § 4 Absatz 4 bleibt unberührt.
-
-(3) Direkte und indirekte Anlagen nach § 2 Absatz 1 Nummer 9, 12 und 13 dürfen zusammen mit Anlagen, die den Quoten des Absatzes 2 Nummer 2 und 3 unterliegen, insgesamt 35 Prozent des Sicherungsvermögens nicht übersteigen. Auf diese Quote sind auch Anlagen nach § 2 Absatz 1 Nummer 2 Buchstabe a anzurechnen, soweit Anlagen nach § 2 Absatz 1 Nummer 12 Gegenstand der Wertpapierdarlehen sind. Innerhalb der Quote nach Satz 1 darf der Anteil der nicht zum Handel zugelassenen und nicht an einem anderen organisierten Markt zugelassenen oder in diesen einbezogenen und nicht an einer Börse in einem Staat außerhalb des EWR zum Handel zugelassenen oder dort an einem anderen organisierten Markt zugelassenen oder in diesen einbezogenen Vermögensgegenstände nach § 2 Absatz 1 Nummer 9 Buchstabe a und Nummer 13 nicht höher als 15 Prozent des Sicherungsvermögens sein.
+(3) Direkte und indirekte Anlagen nach § 2 Absatz 1 Nummer 9, 12 und 13 dürfen zusammen mit Anlagen, die den Quoten des Absatzes 2 Nummer 2 und 3 unterliegen, insgesamt 40 Prozent des Sicherungsvermögens nicht übersteigen. Auf diese Quote sind auch Anlagen nach § 2 Absatz 1 Nummer 2 Buchstabe a anzurechnen, soweit Anlagen nach § 2 Absatz 1 Nummer 12 Gegenstand der Wertpapierdarlehen sind. Innerhalb der Quote nach Satz 1 darf der Anteil der nicht zum Handel zugelassenen und nicht an einem anderen organisierten Markt zugelassenen oder in diesen einbezogenen und nicht an einer Börse in einem Staat außerhalb des EWR zum Handel zugelassenen oder dort an einem anderen organisierten Markt zugelassenen oder in diesen einbezogenen Vermögensgegenstände nach § 2 Absatz 1 Nummer 9 Buchstabe a und Nummer 13 nicht höher als 15 Prozent des Sicherungsvermögens sein.
 
 (4) Bei Anlagen in Anteilen und Aktien an Investmentvermögen nach § 2 Absatz 1 Nummer 15 und 16, die durch den Einsatz von Derivaten nach § 197 Absatz 2 des Kapitalanlagegesetzbuchs oder den entsprechenden Vorschriften eines anderen Staates des EWR mehr als das Einfache des Marktrisikopotentials aufweisen, ist das erhöhte Marktrisikopotential auf die Quote nach Absatz 3 Satz 1 anzurechnen. Soweit das erhöhte Marktrisikopotential nicht zeitnah ermittelt werden kann, ist der höchstzulässige Betrag anzusetzen.
 
 (5) Direkte und indirekte Anlagen in Darlehen nach § 2 Absatz 1 Nummer 4 Buchstabe b, in Immobilien nach § 2 Absatz 1 Nummer 14 Buchstabe a, b und c und in Immobilien, die über Investmentvermögen nach § 2 Absatz 1 Nummer 16 gehalten werden und die Anforderungen des § 2 Absatz 1 Nummer 14 Buchstabe c erfüllen, dürfen 25 Prozent des Sicherungsvermögens nicht übersteigen.
 
 (6) Die Aufsichtsbehörde kann die direkten und indirekten Anlagen nach § 2 Absatz 1 Nummer 2 Buchstabe a, Nummer 9, 12, 13 und die Anlagen, die den Quoten des Absatzes 2 Nummer 2 und 3 unterliegen, bis auf 10 Prozent des Sicherungsvermögens herabsetzen, wenn es zur Wahrung der Belange der Versicherten erforderlich ist. Die gleiche Befugnis steht der Aufsichtsbehörde im Falle des § 135 Absatz 1 erste Alternative des Versicherungsaufsichtsgesetzes zu.
+
+(7) Direkte und indirekte Anlagen zur Finanzierung von Infrastrukturanlagen und Infrastrukturunternehmen werden im Umfang von bis zu 5 Prozent des Sicherungsvermögens nicht auf die Quoten nach den Absätzen 1 bis 6 angerechnet. Anlagen nach Satz 1 müssen nach § 2 zulässig sein und der Errichtung, dem Ausbau, der Sanierung, der Erhaltung, dem Bereitstellen, dem Halten, dem Betreiben oder dem Bewirtschaften von Infrastruktur dienen.
 
 # § 4 – Streuung
 
