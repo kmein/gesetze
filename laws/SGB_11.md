@@ -2794,7 +2794,12 @@ Für Pflegebedürftige der Pflegegrade 2 bis 5 in einer vollstationären Einrich
 
   
 
-    (+++ § 43a: Zur Nichtanwendung vgl. § 145 +++) 
+    (+++ § 43a: Zur Nichtanwendung vgl. § 145 +++)
+     
+    (+++ Hinweis: Leistungsbeträge gem. § 43a iVm § 30 SGB 11:
+     
+    ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
+     (siehe: SGB11§30Bek 2025) +++) 
 
 # § 43b – Inhalt der Leistung
 
