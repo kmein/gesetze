@@ -1370,7 +1370,6 @@
 - [CMRG](laws/CMRG.md) Gesetz zu dem Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR)
 - [CMRProt](laws/CMRProt.md) Protokoll zum Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr
 - [CO2KostAufG](laws/CO2KostAufG.md) Gesetz zur Aufteilung der Kohlendioxidkosten
-- [ComKrimÜbkG](laws/ComKrimÜbkG.md) Gesetz zu dem Übereinkommen des Europarats vom 23. November 2001 über Computerkriminalität
 - [ContrPrV](laws/ContrPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Controller/Geprüfte Controllerin
 - [ContStifG](laws/ContStifG.md) Gesetz über die Conterganstiftung
 - [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2 und auf weitere Schutzimpfungen
@@ -2502,10 +2501,7 @@
 - [GII050743](laws/GII050743.md) Gesetz zu dem Vertrag vom 19. Januar 2004 zwischen der Bundesrepublik Deutschland und der Demokratischen Bundesrepublik Äthiopien über die Förderung und den gegenseitigen Schutz von Kapitalanlagen
 - [GII050778](laws/GII050778.md) Gesetz zu dem OCCAR-Geheimschutzübereinkommen vom 24. September 2004
 - [GII061362](laws/GII061362.md) Gesetz zu dem Abkommen vom 26. Oktober 2004 zwischen der Europäischen Union, der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands
-- [GII081222](laws/GII081222.md) Gesetz zu dem Fakultativprotokoll vom 25. Mai 2000 zum Übereinkommen über die Rechte des Kindes betreffend den Verkauf von Kindern, die Kinderprostitution und die Kinderpornographie
-- [GII090932](laws/GII090932.md) Gesetz zu dem Internationalen Übereinkommen vom 20. Dezember 2006 zum Schutz aller Personen vor dem Verschwindenlassen
 - [GII101381](laws/GII101381.md) Gesetz zu dem Abkommen vom 19. März 2010 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung von Anguilla über den steuerlichen Informationsaustausch
-- [GII121378](laws/GII121378.md) Gesetz zum Vorschlag für einen Beschluss des Rates zur Festlegung eines Mehrjahresrahmens (2013 - 2017) für die Agentur der Europäischen Union für Grundrechte
 - [GII170002](laws/GII170002.md) Gesetz zu dem Abkommen vom 31. Mai 2013 zwischen der Regierung der Bundesrepublik Deutschland und dem Ministerrat der Republik Albanien über die Zusammenarbeit im Sicherheitsbereich
 - [GII170016](laws/GII170016.md) Gesetz zu dem Abkommen vom 22. März 2016 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Serbien über die Zusammenarbeit im Sicherheitsbereich
 - [GiMedAusbV](laws/GiMedAusbV.md) Verordnung über die Berufsausbildung zum Gestalter für immersive Medien und zur Gestalterin für immersive Medien *
