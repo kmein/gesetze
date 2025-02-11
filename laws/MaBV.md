@@ -9,7 +9,9 @@
 
 1. als Versicherungs- oder Bausparkassenvertreter im Rahmen ihrer Tätigkeit für ein der Aufsicht der Bundesanstalt für Finanzdienstleistungsaufsicht unterliegendes Versicherungs- oder Bausparunternehmen den Abschluss von Verträgen über Darlehen vermitteln oder die Gelegenheit zum Abschluss solcher Verträge nachweisen oder
 
-2. als Wohnimmobilienverwalter nach § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung tätig sind, mit Ausnahme der §§ 11, 15 bis 15b, 18 Absatz 1 Nummer 7, 9, 10 Absatz 2 und 3 und § 19.
+2. als Wohnimmobilienverwalter nach § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung tätig sind, mit Ausnahme der §§ 11, 15 bis 15b, 18 Absatz 1 Nummer 7, 9, 10 Absatz 2 und 3 und
+
+§ 19.
 
 § 1 Abs. 2 Satz 2 Nr. 2 Kursivdruck: Nach dem Wort "§ 19" wurde das Komma abweichend vom Bundesgesetzblatt durch einen Punkt ersetzt
 

@@ -105,6 +105,8 @@ h) als Geprüfter Fachwirt für Versicherungen und Finanzen oder als Geprüfte F
 
 (2) Der erfolgreiche Abschluss eines mathematischen, wirtschafts- oder rechtswissenschaftlichen Studiums an einer Hochschule oder Berufsakademie wird als Nachweis anerkannt, wenn die erforderliche Sachkunde bei der antragstellenden Person vorliegt. Dies setzt in der Regel voraus, dass zusätzlich zu dem Abschluss nach Satz 1 eine mindestens dreijährige Berufserfahrung im Bereich der Immobiliardarlehensvermittlung nachgewiesen wird.
 
+(+++ § 4 Abs. 2: Zur Geltung vgl. § 5 Satz 2 +++)
+
 # § 5 – Anerkennung von ausländischen Befähigungsnachweisen im Rahmen der Niederlassungsfreiheit
 
 Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich von den Anforderungen der §§ 1 und 3 und gleichen die Kenntnisse, Fähigkeiten und Kompetenzen, die die antragstellende Person im Rahmen ihrer Berufspraxis oder durch sonstige einschlägige nachgewiesene Qualifikationen erworben hat, diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig. § 4 Absatz 2 gilt entsprechend für einen in einem anderen Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworbenen Abschluss.
