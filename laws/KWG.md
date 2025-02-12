@@ -2470,6 +2470,7 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 (5) Die Bundesanstalt und die Deutsche Bundesbank können gemeinsame Dateisysteme einrichten. Jede der beiden Stellen darf nur die von ihr eingegebenen Daten verändern oder löschen oder ihre Verarbeitung einschränken und ist nur hinsichtlich der von ihr eingegebenen Daten Verantwortlicher. Hat eine der beiden Stellen Anhaltspunkte dafür, dass von der anderen Stelle eingegebene Daten unrichtig sind, teilt sie dies der anderen Stelle unverzüglich mit. Bei der Errichtung eines gemeinsamen Dateisystems ist festzulegen, welche Stelle die technischen und organisatorischen Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung zu treffen hat. Die nach Satz 4 bestimmte Stelle hat sicherzustellen, dass die Beschäftigten Zugang zu personenbezogenen Daten nur in dem Umfang erhalten, der zur Erfüllung ihrer Aufgaben erforderlich ist.
 
+(+++ § 7 Abs. 3 u. 4: Zur Geltung vgl. § 6 Abs. 1g Satz 4 +++)  
 (+++ §§ 6, 6a u. 7: Zur Anwendung vgl. § 2 Nr. 5 KfWV +++)  
 (+++ § 7 Abs. 1 Satz 2 bis 4 u. Abs. 1a bis 5: Zur Geltung vgl. § 3 Abs. 2 Satz 2 KrZwMG +++)
 
@@ -5618,6 +5619,7 @@ Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen zur Führun
 (+++ § 44 Abs. 1 u. 6: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 8 +++)  
 (+++ § 44 Abs. 1: Zur Geltung vgl. § 53b Abs. 3 Satz 2 +++)  
 (+++ § 44 Abs. 6: Zur Anwendung vgl. § 44c Abs. 5 Satz 2 +++)  
+(+++ § 44 Abs. 6: Zur Geltung vgl. § 47a Abs. 2 Satz 3 +++)  
 (+++ §§ 44 u. 44a: Zur Anwendung vgl. § 4 Nr. 3 KfWV +++)
 
 # § 44a – Grenzüberschreitende Auskünfte und Prüfungen
