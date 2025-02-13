@@ -83,7 +83,7 @@ IT-Planungsrat durch Rechtsverordnung ohne Zustimmung des Bundesrates die Verwen
 
 (3) Bei der Bereitstellung der IT-Komponenten im Sinne des Absatzes 1 sollen offene Standards und offene Schnittstellen verwendet werden und soll Open-Source-Software vorrangig vor solcher Software eingesetzt werden, deren Quellcode nicht öffentlich zugänglich ist oder deren Lizenz die Verwendung, Weitergabe und Veränderung einschränkt.
 
-(+++ § 4 Abs. 2: zur Anwendung vgl. § 5 und § 6 Abs. 4 +++)
+(+++ § 4 Abs. 2: zur Anwendung vgl. § 5 und § 6 +++)
 
 # § 5 – IT-Sicherheit; Verordnungsermächtigung
 

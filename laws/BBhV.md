@@ -1531,7 +1531,7 @@ Daneben beteiligt sich der Bund an den Kosten der Pflegeberatung nach § 37 Absa
 
 (1) Beihilfefähig sind entsprechend § 132g des Fünften Buches Sozialgesetzbuch Aufwendungen für eine gesundheitliche Versorgungsplanung für die letzte Lebensphase in zugelassenen Pflegeeinrichtungen im Sinne des § 43 des Elften Buches Sozialgesetzbuch und in Einrichtungen der Eingliederungshilfe für behinderte Menschen.
 
-(2) Die Höhe der beihilfefähigen Aufwendungen richtet sich nach § 15 insbesondere Absatz 5 der Vereinbarung zwischen dem GKV-Spitzenverband und den Trägern vollstationärer Pflegeeinrichtungen und Einrichtungen der Eingliederungshilfe für Menschen mit Behinderung vom 13. Dezember 2017<span id="FnR.FnA1-F814092_01"></span><a href="#FnA1-F814092_01" class="FnR">1</a></sup> in Verbindung mit den Vergütungsvereinbarungen der jeweiligen Träger der Einrichtungen mit den Landesverbänden der Krankenkassen und den Verbänden der Ersatzkassen.
+(2) Die Höhe der beihilfefähigen Aufwendungen richtet sich nach § 15 insbesondere Absatz 5 der Vereinbarung zwischen dem GKV-Spitzenverband und den Trägern vollstationärer Pflegeeinrichtungen und Einrichtungen der Eingliederungshilfe für Menschen mit Behinderung vom 13. Dezember 2017<span id="FnR.F814092_01"></span><a href="#F814092_01" class="FnR">1</a></sup> in Verbindung mit den Vergütungsvereinbarungen der jeweiligen Träger der Einrichtungen mit den Landesverbänden der Krankenkassen und den Verbänden der Ersatzkassen.
 
 # § 41 – Früherkennungsuntersuchungen und Vorsorgemaßnahmen
 
