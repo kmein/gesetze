@@ -21,6 +21,8 @@
 
 3. die Verwaltungstätigkeit nach dem Zweiten Buch Sozialgesetzbuch.
 
+(+++ § 1 Abs. 4: Zur Nichtanwendung vgl. § 4a Abs. 4 +++)
+
 # § 2 – Elektronischer Zugang zur Verwaltung
 
 (1) Jede Behörde ist verpflichtet, auch einen Zugang für die Übermittlung elektronischer Dokumente, auch soweit sie mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel versehen sind, zu eröffnen.
@@ -192,8 +194,6 @@ c) elektronische Dokumente, Informationen und Nachrichten aus dem Nutzerkonto de
 (1) Für die Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes nach § 9a Absatz 3 Nummer 3 bis 6 und nach § 9b Absatz 2 und 3 ist die jeweils zuständige Behörde des Bundes datenschutzrechtlich verantwortlich; die für das Verwaltungsportal des Bundes zuständige öffentliche Stelle wird insofern tätig als Auftragsverarbeiter nach Artikel 4 Nummer 8 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2).
 
 (2) Im Übrigen führt die für das Verwaltungsportal des Bundes zuständige öffentliche Stelle die Verarbeitung personenbezogener Daten in ausschließlich eigener datenschutzrechtlicher Verantwortlichkeit aus.
-
-(3) (weggefallen)
 
 # § 10 – Umsetzung von Standardisierungsbeschlüssen des IT-Planungsrates
 
