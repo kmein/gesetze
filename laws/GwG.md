@@ -367,12 +367,15 @@ Mittelbare Kontrolle liegt insbesondere vor, wenn entsprechende Anteile von eine
 
 a) Mitglied des Vorstands der Stiftung ist oder die als Begünstigte der Stiftung bestimmt worden ist, oder
 
-b) als Treugeber (Settlor), Verwalter von Trusts (Trustee) oder Protektor handelt oder die als Begünstige der Rechtsgestaltung bestimmt worden ist.
+b) als Treugeber (Settlor), Verwalter von Trusts (Trustee) oder Protektor handelt oder die als
+
+Begünstigte der Rechtsgestaltung bestimmt worden ist.
 
 (4) Bei Handeln auf Veranlassung zählt zu den wirtschaftlich Berechtigten derjenige, auf dessen Veranlassung die Transaktion durchgeführt wird. Soweit der Vertragspartner als Treuhänder handelt, handelt er ebenfalls auf Veranlassung.
 
 (+++ § 3 Abs. 1 u. 2: Zur Anwendung vgl. § 19 Abs. 2 +++)  
-(+++ § 3 Abs 1 u. 3: Zur Anwendung vgl. § 19 Abs. 2 +++)
+(+++ § 3 Abs 1 u. 3: Zur Anwendung vgl. § 19 Abs. 2 +++)  
+§ 3 Abs. 3 Nr. 6 Buchst. b Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Begünstige" durch das Wort "Begünstigte" ersetzt
 
 # § 3a – Risikobasierter Ansatz, nationale Risikoanalyse
 

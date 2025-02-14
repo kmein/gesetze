@@ -10,7 +10,7 @@ Auf Grund des § 40 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmach
 (1) Die vom 1. Oktober 2016 bis zum Ablauf des 30. September 2023 von der Berufsfachschule für das Holz und Elfenbein verarbeitende Handwerk in Michelstadt erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen über das Bestehen der Gesellenprüfung in handwerklichen Ausbildungsberufen nach Maßgabe der nachstehenden Auflistung gleichgestellt:  
   
 
-<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 48%" />
 <col style="width: 52%" />
@@ -35,7 +35,7 @@ in Michelstadt:</th>
 (2) Die vom 1. Oktober 2016 bis zum Ablauf des 30. September 2026 von der Berufsfachschule für das Holz und Elfenbein verarbeitende Handwerk in Michelstadt erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen über das Bestehen der Gesellenprüfung in handwerklichen Ausbildungsberufen nach Maßgabe der nachstehenden Auflistung gleichgestellt:  
   
 
-<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 47%" />
 <col style="width: 53%" />

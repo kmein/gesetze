@@ -42,6 +42,38 @@ Bei Musikvereinigungen mit Sitz im Ausland erfolgt die Aushändigung von Urkunde
 
 9. Bundesweit tätiger Dachverband des instrumentalen Laienmusizierens im Sinne dieser Richtlinie ist eine Musikorganisation, der mehrere, nicht nur einer bestimmten Region zugehörige Musikverbände aus verschiedenen instrumentalen Sparten als Mitglieder angehören. Musikverband im Sinne dieser Richtlinie ist ein Zusammenschluss von einzelnen Musikvereinigungen.
 
+  
+  
+
+<table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">Vorderseite</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Rückseite</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2016/j1978-1_0010.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2016/j1978-1_0020.jpg" /></td>
+</tr>
+<tr class="odd">
+<td colspan="2" style="text-align: center;" data-valign="middle" data-charoff="50"><dl>
+<dt>Plakette:</dt>
+<dd>
+rund, Bronze
+</dd>
+<dt>Originalgröße:</dt>
+<dd>
+16 cm
+</dd>
+</dl></td>
+</tr>
+</tbody>
+</table>
+
 # Schlußformel
 
 Der Bundespräsident  

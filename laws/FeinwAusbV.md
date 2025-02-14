@@ -208,6 +208,7 @@ Beschreiben der Vorgehensweise zur Fertigung, Montage, Inbetriebnahme und Instan
 # § 9 – Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
+  
 
 <table width="100%" style="border: none;">
 <colgroup>

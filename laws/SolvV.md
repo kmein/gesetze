@@ -631,9 +631,12 @@ d) gegenüber natürlichen Personen mit Ausnahme der in Buchstabe a genannten Ri
 
 6. Teilgruppen einer der in Nummer 2 genannten Kategorien von Risikopositionen.
 
-(2) Die Institute berechnen den Kapitalpuffer für systemische Risiken nach § 10e Absatz 1 des Kreditwesengesetzes wie folgt:
+(2) Die Institute berechnen den Kapitalpuffer für systemische Risiken nach § 10e Absatz 1 des Kreditwesengesetzes wie folgt:  
+  
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4306-1_0010.jpg)
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4306-1_0010.jpg) |
 
 Dabei steht
 

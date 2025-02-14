@@ -713,7 +713,41 @@ Der nach den Sätzen 2 und 3 maßgebliche Reingewinn ergibt sich aus der Spalte 
 
 # § 169 – Tierbestände
 
-(1) Tierbestände gehören in vollem Umfang zur landwirtschaftlichen Nutzung, wenn im Wirtschaftsjahr
+(1) Tierbestände gehören in vollem Umfang zur landwirtschaftlichen Nutzung, wenn im Wirtschaftsjahr  
+  
+
+<table style="border: none;">
+<colgroup>
+<col style="width: 40%" />
+<col style="width: 60%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">für die ersten 20 Hektar</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">nicht mehr als 10 Vieheinheiten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">für die nächsten 10 Hektar</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">nicht mehr als 7 Vieheinheiten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">für die nächsten 20 Hektar</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">nicht mehr als 6 Vieheinheiten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">für die nächsten 50 Hektar</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">nicht mehr als 3 Vieheinheiten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">und für die weitere Fläche</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">nicht mehr als 1,5 Vieheinheiten</td>
+</tr>
+<tr class="even">
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><br />
+je Hektar der vom Inhaber des Betriebs regelmäßig landwirtschaftlich genutzten Flächen erzeugt oder gehalten werden. Die Tierbestände sind nach dem Futterbedarf in Vieheinheiten umzurechnen.</td>
+</tr>
+</tbody>
+</table>
 
 (2) Übersteigt die Anzahl der Vieheinheiten nachhaltig die in Absatz 1 bezeichnete Grenze, so gehören nur die Zweige des Tierbestands zur landwirtschaftlichen Nutzung, deren Vieheinheiten zusammen diese Grenze nicht überschreiten. Zunächst sind mehr flächenabhängige Zweige des Tierbestands und danach weniger flächenabhängige Zweige des Tierbestands zur landwirtschaftlichen Nutzung zu rechnen. Innerhalb jeder dieser Gruppen sind zuerst Zweige des Tierbestands mit der geringeren Anzahl von Vieheinheiten und dann Zweige mit der größeren Anzahl von Vieheinheiten zur landwirtschaftlichen Nutzung zu rechnen. Der Tierbestand des einzelnen Zweiges wird nicht aufgeteilt.
 

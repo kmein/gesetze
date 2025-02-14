@@ -178,7 +178,29 @@ notwendige Fahrkosten anderer Beförderungsmittel.
 
 (1) Ein Mitglied erhält nach seinem Ausscheiden eine Altersentschädigung, wenn es das 67. Lebensjahr vollendet und dem Bundestag mindestens ein Jahr angehört hat.
 
-(2) Mitglieder des Bundestages, die vor dem 1. Januar 1947 geboren sind, erreichen die Altersgrenze mit Vollendung des 65. Lebensjahres. Für Mitglieder des Bundestages, die nach dem 31. Dezember 1946 geboren sind, wird die Altersgrenze wie folgt angehoben:
+(2) Mitglieder des Bundestages, die vor dem 1. Januar 1947 geboren sind, erreichen die Altersgrenze mit Vollendung des 65. Lebensjahres. Für Mitglieder des Bundestages, die nach dem 31. Dezember 1946 geboren sind, wird die Altersgrenze wie folgt angehoben:  
+  
+
+| Geburtsjahr | Anhebung um Monate | auf Alter |       |
+|:------------|:-------------------|:----------|:------|
+|             |                    | Jahr      | Monat |
+| 1947        | 1                  | 65        | 1     |
+| 1948        | 2                  | 65        | 2     |
+| 1949        | 3                  | 65        | 3     |
+| 1950        | 4                  | 65        | 4     |
+| 1951        | 5                  | 65        | 5     |
+| 1952        | 6                  | 65        | 6     |
+| 1953        | 7                  | 65        | 7     |
+| 1954        | 8                  | 65        | 8     |
+| 1955        | 9                  | 65        | 9     |
+| 1956        | 10                 | 65        | 10    |
+| 1957        | 11                 | 65        | 11    |
+| 1958        | 12                 | 66        | 0     |
+| 1959        | 14                 | 66        | 2     |
+| 1960        | 16                 | 66        | 4     |
+| 1961        | 18                 | 66        | 6     |
+| 1962        | 20                 | 66        | 8     |
+| 1963        | 22                 | 66        | 10\.  |
 
 (3) Gehörte ein ausgeschiedenes Mitglied dem Bundestag mehrmals mit Unterbrechung an, so sind die Zeitabschnitte zusammenzurechnen. § 18 Abs. 1 Satz 4 gilt entsprechend.
 

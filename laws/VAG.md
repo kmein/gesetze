@@ -5455,7 +5455,8 @@ Der Widerruf der Erlaubnis steht den im Rahmen des Insolvenzverfahrens erforderl
 
 (+++ § 305 Abs. 1 Nr. 1: Zur Anwendung vgl. § 169 Abs. 4 Satz 2, § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 292 Satz 2 +++)  
 (+++ § 305 Abs. 1, 2 Nr. 1 u. 2, Abs. 3 bis 5: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)  
-(+++ § 305 Abs. 5: Zur Anwendung vgl. § 327 Abs. 1 Satz 1, Abs. 3 Satz 3 +++)
+(+++ § 305 Abs. 5: Zur Anwendung vgl. § 327 Abs. 1 Satz 1, Abs. 3 Satz 3 +++)  
+(+++ § 305 Abs. 5: Zur Geltung vgl. § 308d Abs. 2 Satz 3 +++)
 
 # § 305a – Befugnisse und Maßnahmen gegen beaufsichtigte Kontributoren und Verwender von Indizes im Sinne der Verordnung (EU) 2016/1011
 

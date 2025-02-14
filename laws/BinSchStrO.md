@@ -2254,7 +2254,38 @@ c) das Fahrzeug am Ufer stillliegt und von diesem aus hinreichend beleuchtet ist
 
 # § 3.21 – Zusätzliche Bezeichnung stillliegender Fahrzeuge bei Beförderung bestimmter gefährlicher Güter(Anlage 3: Bild 42, 43, 44)
 
-Die nach § 3.14 jeweils vorgeschriebene Bezeichnung ist von den dort genannten Fahrzeugen, Schubverbänden und gekuppelten Fahrzeugen auch beim Stillliegen zu führen.
+Die nach § 3.14 jeweils vorgeschriebene Bezeichnung ist von den dort genannten Fahrzeugen, Schubverbänden und gekuppelten Fahrzeugen auch beim Stillliegen zu führen.   
+
+<table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 36%" />
+<col style="width: 36%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0057_ab1.jpg" /><br />
+<br />
+</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0058_ab1.jpg" /></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0059_ab1.jpg" /><br />
+<br />
+</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0060_ab1.jpg" /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0061_ab1.jpg" /><br />
+<br />
+</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0062_ab1.jpg" /></td>
+</tr>
+</tbody>
+</table>
 
 # § 3.22 – Bezeichnung der Fähren, die an ihrer Anlegestelle stillliegen(Anlage 3: Bild 45, 46)
 
