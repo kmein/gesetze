@@ -790,10 +790,10 @@ Arzneimittelhersteller haben außerdem ihre arzneimittelrechtliche Herstellungsb
 
 # § 39d – Abgabe von Bier, zweckwidrige Verwendung
 
-(1) Das Hauptzollamt kann dem Verwender auf Antrag gestatten, in Ausnahmefällen Bier im Rahmen seiner Erlaubnis zur steuerfreien Verwendung an Steuerlager oder an andere Verwender abzugeben. Der Verwender hat dem Bier bei der Abgabe Handelspapiere beizugeben, die mit der Aufschrift
-
-„Unversteuertes Bier“
-
+(1) Das Hauptzollamt kann dem Verwender auf Antrag gestatten, in Ausnahmefällen Bier im Rahmen seiner Erlaubnis zur steuerfreien Verwendung an Steuerlager oder an andere Verwender abzugeben. Der Verwender hat dem Bier bei der Abgabe Handelspapiere beizugeben, die mit der Aufschrift  
+  
+„Unversteuertes Bier“  
+  
 versehen sind.
 
 (2) Die Steueranmeldung nach § 23a Absatz 3 Satz 5 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.

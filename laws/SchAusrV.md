@@ -145,7 +145,7 @@ Der Nachweis nach Satz 1 Nummer 3 kann durch ein Audit des Antragstellers nach �
 
 (3a) Die zuständige Behörde erkennt auf Antrag mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur mit Wirkung ab 18. September 2016 eine juristische Person als benannte Stelle an, soweit diese die Anforderungen
 
-1. der DIN EN ISO/IEC 17065,<span id="FnR.FnA1-f791207_05"></span><a href="#FnA1-f791207_05" class="FnR">1</a></sup>
+1. der DIN EN ISO/IEC 17065,<a href="#F771469_02" class="FnR">1)</a></sup>
 
 2. der Entschließungen der Internationalen Seeschifffahrts-Organisation, insbesondere Entschließung A.739(18) vom 4. November 1993 (VkBl. 2008 S. 508) und für die jeweilige Beurteilung der zutreffenden Sachverhalte nach den Modulen in der Entschließung A.789(19) vom 23. November 1995 (VkBl. 2008 S. 508, 511) sowie
 
