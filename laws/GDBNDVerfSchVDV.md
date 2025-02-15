@@ -77,10 +77,6 @@ Der Diplomstudiengang „Gehobener nichttechnischer Dienst in den Nachrichtendie
 
 2. in der Fachrichtung „Verfassungsschutz“ der Vorbereitungsdienst für den gehobenen Dienst im Verfassungsschutz des Bundes.
 
-# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
-
-Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
-
 # § 2 – Ziele des Studiums
 
 (1) Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen Dienst im Bundesnachrichtendienst und im gehobenen Dienst im Verfassungsschutz des Bundes erforderlich sind.
@@ -323,19 +319,19 @@ Rangpunktzahl</th>
 
 In begründeten Fällen kann höchstens ein Mitglied der Auswahlkommission eine Tarifbeschäftigte oder ein Tarifbeschäftigter oder eine Soldatin oder ein Soldat sein, wenn sie oder er über die erforderliche Qualifikation verfügt.
 
-(2a) Die Dienstbehörde kann festlegen, dass bis zum 31. Dezember 2024 eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
+(3) Die Dienstbehörde kann festlegen, dass eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
 
 1. einer Beamtin oder einem Beamten des gehobenen oder höheren nichttechnischen Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem und
 
 2. einer Beamtin oder einem Beamten des gehobenen oder höheren nichttechnischen Verwaltungsdienstes des Bundes.
 
-(3) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission und eine ausreichende Anzahl von Ersatzmitgliedern für die Dauer von fünf Jahren. Wiederbestellung ist zulässig.
+(4) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission und eine ausreichende Anzahl von Ersatzmitgliedern für die Dauer von fünf Jahren. Wiederbestellung ist zulässig.
 
-(4) Die Mitglieder der Auswahlkommission bewerten die im Auswahlverfahren gezeigten Leistungen unabhängig voneinander.
+(5) Die Mitglieder der Auswahlkommission bewerten die im Auswahlverfahren gezeigten Leistungen unabhängig voneinander.
 
-(5) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
+(6) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
 
-(6) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
+(7) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
 (+++ § 12 Abs. 5 und 6: zur Anwendung vgl. § 68 Abs. 6 +++)
 
@@ -369,7 +365,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 2. einem Aufsatz.
 
-(2a) Die Dienstbehörde kann festlegen, dass bis zum 31. Dezember 2024 im schriftlichen Teil des Auswahlverfahrens auf den Aufsatz verzichtet wird.
+(2a) (weggefallen)
 
 (3) Von der Teilnahme am Aufsatz kann ausgeschlossen werden, wer in den Leistungstests nicht die erforderliche Mindestpunktzahl erreicht hat. Dies gilt nicht für schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber.
 
@@ -377,7 +373,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn in den Leistungstests und im Aufsatz jeweils die erforderliche Mindestpunktzahl erreicht worden ist.
 
-(1a) Ist festgelegt worden, dass im schriftlichen Teil des Auswahlverfahrens auf den Aufsatz verzichtet wird, so ist der schriftliche Teil des Auswahlverfahrens bestanden, wenn in den Leistungstests die erforderliche Mindestpunktzahl erreicht worden ist.
+(1a) (weggefallen)
 
 (2) Anhand der erzielten Ergebnisse wird eine Rangfolge der Bewerberinnen und Bewerber, die bestanden haben, festgelegt.
 
@@ -439,7 +435,7 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturier
 
 (2) Das Studium umfasst Fachstudien an der Hochschule und berufspraktische Studienzeiten.
 
-(2a) Bis zum 31. Dezember 2024 können für einzelne oder alle Lehrveranstaltungen, die keine als Verschlusssachen eingestuften Inhalte enthalten, digitale Lehrformate genutzt werden.
+(2a) (weggefallen)
 
 (3) Das Studium gliedert sich in fünf Studienabschnitte. Die Studienabschnitte verteilen sich wie folgt auf die Semester:  
   
@@ -454,19 +450,13 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturier
 |  5  | 5\. Semester | berufspraktische Studienzeit II |
 |  6  | 6\. Semester | Fachstudienzeit Hauptstudium II |
 
-(3a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024
-
-1. die Studienabschnitte anders gegliedert werden und
-
-2. Lehrveranstaltungen eines Studienabschnitts oder Teile dieser Lehrveranstaltungen in ein anderes Semester verschoben werden.
-
-Möglich ist auch die Verschiebung von Lehrveranstaltungen der Fachstudien oder von Teilen dieser Lehrveranstaltungen in ein Semester einer berufspraktischen Studienzeit.
+(3a) (weggefallen)
 
 (4) Die Dauer der Fachstudien beträgt insgesamt mindestens 2 000 Lehrstunden.
 
-(4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 die Zahl der Lehrstunden um bis zu 10 Prozent verringert wird.
+(5) Für die Lehrveranstaltungen können digitale Lehrformate genutzt werden, sofern die Vorgaben zum Umgang mit Verschlusssachen berücksichtigt werden.
 
-(5) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
+(6) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
 
 # § 23 – Studienplan
 
@@ -568,7 +558,7 @@ Die Studiengebiete des Grundstudiums sind:
 
 # § 28 – Studiengebiete des Hauptstudiums
 
-(1) Die Studiengebiete des Hauptstudiums sind:
+Die Studiengebiete des Hauptstudiums sind:
 
 1. operative Beschaffung und Observation,
 
@@ -586,27 +576,19 @@ Die Studiengebiete des Grundstudiums sind:
 
 8. nachrichtendienstlich relevante Themen aus Wirtschaft und Technologie.
 
-(2) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 eine Reduzierung der Studiengebiete vorgenommen wird.
-
 # § 29 – Leistungstests im Hauptstudium
 
 (1) Im Hauptstudium sind mindestens zwölf Leistungstests zu absolvieren. Sechs Leistungstests sind Klausuren.
 
-(1a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 im Hauptstudium
+(2) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass mehr als sechs Leistungstests in einer anderen Form als der Klausur absolviert werden können.
 
-1. die Zahl der zu absolvierenden Leistungstests auf weniger als zwölf reduziert wird,
-
-2. mehr als sechs Leistungstests in einer anderen Form als der Klausur absolviert werden können und
-
-3. vollständig auf die Leistungstests verzichtet wird.
-
-(2) Studierende der Fachrichtung Bundesnachrichtendienst schreiben
+(3) Studierende der Fachrichtung Bundesnachrichtendienst schreiben
 
 1. zwei Klausuren in dem Studiengebiet nach § 28 Nummer 3 und
 
 2. je eine Klausur in den Studiengebieten nach § 28 Nummer 1, 2, 4 und 6.
 
-(3) Studierende der Fachrichtung Verfassungsschutz schreiben
+(4) Studierende der Fachrichtung Verfassungsschutz schreiben
 
 1. zwei Klausuren in dem Studiengebiet nach § 28 Nummer 3,
 
@@ -614,13 +596,7 @@ Die Studiengebiete des Grundstudiums sind:
 
 3. je eine Klausur in drei der Studiengebiete nach § 28 Nummer 1 bis 5.
 
-(3a) Ist festgelegt worden, dass die Zahl der Leistungstests reduziert wird, so bestimmt die Hochschule im Einvernehmen mit den Dienstbehörden,
-
-1. in welchen Studiengebieten die verbleibenden Leistungstests absolviert werden und
-
-2. in welcher Form die verbleibenden Leistungstests absolviert werden.
-
-(4) Die Leistungstests des Hauptstudiums II sollen einen Monat vor Beginn der schriftlichen Abschlussprüfung abgeschlossen sein.
+(5) Die Leistungstests des Hauptstudiums II sollen einen Monat vor Beginn der schriftlichen Abschlussprüfung abgeschlossen sein.
 
 # § 30 – Zeugnis über die Leistungstests im Hauptstudium, Rangpunktzahl der Leistungstests im Hauptstudium
 
@@ -680,9 +656,7 @@ Die Studiengebiete des Grundstudiums sind:
 
 # § 35 – Leistungstests in den praxisbezogenen Lehrveranstaltungen
 
-(1) In den praxisbezogenen Lehrveranstaltungen sind mindestens drei Leistungstests zu absolvieren.
-
-(2) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 in den praxisbezogenen Lehrveranstaltungen die Zahl der zu absolvierenden Leistungstests auf zwei oder einen reduziert wird.
+In den praxisbezogenen Lehrveranstaltungen sind mindestens drei Leistungstests zu absolvieren.
 
 # § 36 – Zeugnis über die Leistungstests in den praxisbezogenen Lehrveranstaltungen, Rangpunktzahl der Leistungstests in den praxisbezogenen Lehrveranstaltungen
 
@@ -698,7 +672,7 @@ Die Studiengebiete des Grundstudiums sind:
 
 (3) Der Ausbildungsplan wird der oder dem Studierenden bekannt gegeben.
 
-(4) Ein bereits bekannt gegebener Ausbildungsplan kann bis zum 31. Dezember 2024 von der jeweiligen Ausbildungsbehörde geändert werden. Die Änderung ist der Hochschule und der oder dem Studierenden mitzuteilen.
+(4) Ein bereits bekannt gegebener Ausbildungsplan kann von der jeweiligen Ausbildungsbehörde geändert werden. Die Änderung ist der Hochschule und der oder dem Studierenden mitzuteilen.
 
 # § 38 – Bewertung der Praktika
 
@@ -716,7 +690,7 @@ Die Studiengebiete des Grundstudiums sind:
 
 (1) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
-(1a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 die Zwischenprüfung studiengangbegleitend durchgeführt wird.
+(1a) (weggefallen)
 
 (2) In der Zwischenprüfung sollen die Studierenden nachweisen, dass sie den Wissens- und Kenntnisstand erreicht haben, der ein erfolgreiches weiteres Studium erwarten lässt.
 
@@ -730,13 +704,13 @@ Die Zwischenprüfung wird vom Prüfungsamt für das Grundstudium am Zentralen Le
 
 (2) Je eine Klausur wird in den Studiengebieten des Grundstudiums nach § 27 Nummer 1 bis 4 geschrieben.
 
-(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 eine oder zwei Klausuren jeweils durch eine Hausarbeit ersetzt werden.
+(2a) (weggefallen)
 
 (3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
 
 (4) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei Prüfungstagen ist ein freier Tag vorzusehen.
 
-(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 die Klausuren – abweichend von Absatz 4 Satz 1 – nicht an aufeinanderfolgenden Arbeitstagen geschrieben werden.
+(4a) (weggefallen)
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -804,7 +778,7 @@ Die Laufbahnprüfung besteht aus
 
 (2) Die Diplomarbeit wird während der berufspraktischen Studienzeit II angefertigt.
 
-(2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 die Diplomarbeit ganz oder teilweise während eines anderen Studienabschnitts als der berufspraktischen Studienzeit II angefertigt wird. Die Diplomarbeit ist jedoch so zu planen, dass die Bearbeitungszeit nicht den letzten Tag des dritten Monats des Hauptstudiums II überschreitet.
+(2a) (weggefallen)
 
 # § 53 – Thema und Bearbeitungszeit der Diplomarbeit
 
@@ -812,7 +786,7 @@ Die Laufbahnprüfung besteht aus
 
 (2) Die Bearbeitungszeit für die Diplomarbeit beträgt vier Monate. Sie beginnt mit Ausgabe des Themas.
 
-(2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 für die Diplomarbeit eine längere Bearbeitungszeit als vier Monate vorgesehen wird. Die Regelungen zur Verhinderung in § 57 bleiben unberührt.
+(2a) (weggefallen)
 
 (3) Nach der Ausgabe kann das Thema nur im Ausnahmefall und nur mit Zustimmung des Prüfungsamtes zurückgegeben oder geändert werden.
 
@@ -902,7 +876,7 @@ In der Aussprache werden fachliche Fragen mit Bezug auf die Diplomarbeit und die
 
 (4) Die Bearbeitungszeit beträgt vier Monate. Soweit erforderlich, verlängert die Dienstbehörde den Vorbereitungsdienst um die Dauer der Wiederholung.
 
-(4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 für die Wiederholung der Diplomarbeit eine längere Bearbeitungszeit als vier Monate vorgesehen wird.
+(4a) (weggefallen)
 
 (5) Für die Dauer der Wiederholung der Diplomarbeit und der Bewertung der Diplomarbeit werden die Studierenden der Dienstbehörde zugewiesen.
 
@@ -920,11 +894,7 @@ In der Aussprache werden fachliche Fragen mit Bezug auf die Diplomarbeit und die
 
 2. je eine Klausur in den Studiengebieten nach § 28 Nummer 1, 2, 4 und 6.
 
-(2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass in der Fachrichtung „Bundesnachrichtendienst“ bis zum 31. Dezember 2024
-
-1. der Gegenstand der Klausuren den Studiengebieten nach § 28 Absatz 1 Nummer 1 bis 4 und 6 auch anders zugeordnet wird und
-
-2. der Gegenstand der jeweiligen Klausur aus mehr als einem der genannten Studiengebiete entnommen wird.
+(2a) (weggefallen)
 
 (3) Studierende der Fachrichtung „Verfassungsschutz“ schreiben
 
@@ -934,21 +904,13 @@ In der Aussprache werden fachliche Fragen mit Bezug auf die Diplomarbeit und die
 
 3. je eine Klausur aus drei der Studiengebiete nach § 28 Nummer 1 bis 5.
 
-(3a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass in der Fachrichtung „Verfassungsschutz“ bis zum 31. Dezember 2024
-
-1. der Gegenstand der Klausuren den Studiengebieten nach § 28 Absatz 1 Nummer 1 bis 6 auch anders zugeordnet wird und
-
-2. der Gegenstand der jeweiligen Klausur aus mehr als einem der genannten Studiengebiete entnommen wird.
+(3a) (weggefallen)
 
 (4) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
 
 (5) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei Prüfungstagen ist ein freier Tag vorzusehen.
 
-(5a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024
-
-1. die Klausuren – abweichend von Absatz 5 Satz 1 – nicht an aufeinanderfolgenden Arbeitstagen geschrieben werden oder
-
-2. nach zwei aufeinanderfolgenden Prüfungstagen – abweichend von Absatz 5 Satz 3 – mehr als ein freier Tag vorzusehen ist.
+(5a) (weggefallen)
 
 (6) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -990,8 +952,6 @@ Gleichzeitig mit der Zulassung oder Nichtzulassung zur mündlichen Abschlussprü
 
 2. die Rangpunktzahl der Diplomarbeit und die Rangpunkte des Diplomkolloquiums.
 
-Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 die Rangpunktzahl der Diplomarbeit und die Rangpunkte des Diplomkolloquiums zu einem späteren Zeitpunkt mitgeteilt wird als dem Zeitpunkt der Mitteilung über die Zulassung oder Nichtzulassung zur mündlichen Abschlussprüfung.
-
 # § 68 – Prüfungskommissionen der mündlichen Abschlussprüfung
 
 (1) Für die Durchführung und Bewertung der mündlichen Abschlussprüfung richtet das Prüfungsamt für jede Fachrichtung eine Prüfungskommission oder bei Bedarf mehrere Prüfungskommissionen ein. Das Prüfungsamt bestellt deren Mitglieder und Ersatzmitglieder in der Regel für die Dauer von fünf Jahren. Wiederbestellung ist zulässig. § 9 Absatz 1 gilt entsprechend.
@@ -1008,29 +968,17 @@ Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis 
 
 2. einer Beamtin oder einem Beamten des höheren Dienstes als Beisitzende oder Beisitzer und als Vertretung der oder des Vorsitzenden sowie
 
-3. drei Beamtinnen und Beamten des gehobenen oder höheren Dienstes als Beisitzenden, von denen mindestens eine Beamtin oder ein Beamter dem gehobenen oder höheren nichttechnischen Verwaltungsdienst des Bundes angehören muss.
+3. drei Beamtinnen und Beamten des gehobenen oder höheren Dienstes als Beisitzenden.
 
 Die Beisitzenden können auch Tarifbeschäftigte oder Soldatinnen oder Soldaten sein. Einer Prüfungskommission müssen jedoch mindestens drei Beamtinnen und Beamte angehören. Mindestens zwei Mitglieder einer Prüfungskommission sollen haupt- oder  nebenamtliche Lehrkräfte der Hochschule sein.
 
-(5a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2024
-
-1. die Prüfungskommission für die Bewertung der mündlichen Abschlussprüfung nur aus den folgenden Mitgliedern besteht:
-
-a) einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem,
-
-b) einer Beamtin oder einem Beamten des höheren Dienstes als Beisitzender oder Beisitzendem und als Vertretung der oder des Vorsitzenden und
-
-c) einer Beamtin oder einem Beamten des gehobenen Dienstes als weiterer Beisitzender oder weiterem Beisitzendem und
-
-2. eine oder einer der Besitzenden auch eine Arbeitnehmerin oder ein Arbeitnehmer oder eine Soldatin oder ein Soldat sein kann.
-
-Mindestens eines der anwesenden Mitglieder der Prüfungskommission für die Fachrichtung „Bundesnachrichtendienst“ soll der Fachrichtung „Bundesnachrichtendienst“ angehören. Mindestens eines der anwesenden Mitglieder der Prüfungskommission für die Fachrichtung „Verfassungsschutz“ soll der Fachrichtung „Verfassungsschutz“ angehören. Mindestens eins der anwesenden Mitglieder soll haupt- oder nebenamtliche Lehrkraft der Hochschule sein.
+(5a) (weggefallen)
 
 (6) Eine Prüfungskommission ist beschlussfähig, wenn mindestens vier Mitglieder anwesend sind.
 
-(6a) Ist festgelegt worden, dass die Zahl der Mitglieder der Prüfungskommission auf drei reduziert wird, so ist eine Prüfungskommission beschlussfähig, wenn mindestens zwei Mitglieder anwesend sind.
+(6a) (weggefallen)
 
-(7) § 12 Absatz 5 und 6 gilt entsprechend.
+(7) § 12 Absatz 6 und 7 gilt entsprechend.
 
 # § 69 – Gegenstand und Durchführung der mündlichen Abschlussprüfung
 
@@ -1042,7 +990,7 @@ Mindestens eines der anwesenden Mitglieder der Prüfungskommission für die Fach
 
 (4) In einer Gruppe dürfen höchstens fünf Studierende geprüft werden.
 
-(4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 die mündliche Abschlussprüfung als Einzelprüfung durchgeführt wird.
+(4a) (weggefallen)
 
 (5) Die Dauer der mündlichen Abschlussprüfung darf je Studierende oder Studierenden 40 Minuten nicht unterschreiten und soll 50 Minuten je Studierende oder Studierenden nicht überschreiten.
 
@@ -1110,7 +1058,7 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 
 8. die Rangpunktzahl der mündlichen Abschlussprüfung mit 15 Prozent.
 
-(2a) Ist festgelegt worden, dass im Hauptstudium vollständig auf Leistungstests verzichtet wird, so legt die Hochschule im Einvernehmen mit den Dienstbehörden fest, durch welche anderen Bewertungen die Rangpunktzahl der Leistungstests im Hauptstudium ersetzt wird bei der Berechnung der Rangpunktzahl der Laufbahnprüfung.
+(2a) (weggefallen)
 
 (3) Die Laufbahnprüfung hat bestanden,
 

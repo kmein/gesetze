@@ -63,6 +63,8 @@ Ausnahmen im Sinne des Satzes 1 Nummer 3 bis 7 dürfen nicht gewährt werden, so
 
 (5) Sofern Begünstigte aufgrund von Witterungsbedingungen Verpflichtungen nach § 3 Absatz 1 Nummer 2 im Antragsjahr nicht erfüllen können, können die zuständigen Behörden Ausnahmen zulassen. Die Ausnahmen sind auf Begünstigte oder Gebiete zu beschränken, die von den Witterungsbedingungen betroffen sind, und nicht länger zuzulassen als unbedingt erforderlich. Durch eine Rechtsverordnung nach § 26 Absatz 1 Nummer 2 können Vorschriften über das zugehörige Verfahren erlassen werden.
 
+(+++ § 3: Zur Anwendung vgl. § 27 +++)
+
 # § 4 – Dauergrünlandanteil auf regionaler Ebene
 
 (1) Die Erhaltung des Anteils des Dauergrünlands an der gesamten landwirtschaftlichen Fläche (Dauergrünlandanteil) nach dem in der Unionsregelung bezeichneten Standard zur Erhaltung von Dauergrünland wird nach Maßgabe dieses Abschnitts und nach Maßgabe einer Rechtsverordnung auf Grund des § 9 auf regionaler Ebene sichergestellt.
@@ -77,7 +79,7 @@ Ausnahmen im Sinne des Satzes 1 Nummer 3 bis 7 dürfen nicht gewährt werden, so
 
 2. im Fall von anderem Dauergrünland als dem in Nummer 1 genannten, das ab dem 1. Januar 2015 neu entstanden ist,
 
-3. im Fall von anderem Dauergrünland als dem in den Nummern 1 und 2 genannten, wenn in derselben Region nach § 4 Absatz 2 eine Fläche mit der entsprechenden Hektarzahl als Dauergrünland neu angelegt wird. Das Überführen in eine nichtlandwirtschaftliche Fläche ist genehmigungsfrei.
+3. im Fall von anderem Dauergrünland als dem in den Nummern 1 und 2 genannten, wenn in derselben Region nach § 4 Absatz 2 eine Fläche mit der entsprechenden Hektarzahl als Dauergrünland neu angelegt wird.
 
 Das Überführen in eine nichtlandwirtschaftliche Fläche ist genehmigungsfrei.
 
@@ -96,6 +98,8 @@ Das Überführen in eine nichtlandwirtschaftliche Fläche ist genehmigungsfrei.
 3. der Begünstigte Verpflichtungen gegenüber öffentlichen Stellen hat, die einer Umwandlung entgegenstehen.
 
 (4) Eine Genehmigung nach Absatz 1 wird ferner nicht erteilt, wenn das Dauergrünland ein Grünlandlebensraumtyp des Anhangs I der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, außerhalb der Gebiete ist, die in die Liste nach Artikel 4 Absatz 2 Unterabsatz 3 der Richtlinie 92/43/EWG eingetragen sind. § 12 Absatz 3 findet auf Dauergrünland nach Satz 1 entsprechende Anwendung.
+
+(+++ § 5: Zur Anwendung vgl. § 27 +++)
 
 # § 6 – Umwandlung von Dauergrünland ohne Genehmigungsvorbehalt
 
@@ -185,11 +189,15 @@ Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften umfassen über
 
 (3) Durch eine Rechtsverordnung nach § 26 Absatz 1 Nummer 2 können weitere Ausnahmen von dem Verbot in Absatz 1 Satz 1 und Ausnahmen von den Verboten in Absatz 1 Satz 3 und Absatz 2 zugelassen werden, insbesondere um den Anbau in Paludikultur zu ermöglichen oder, sofern in Übereinstimmung mit den Grundsätzen der guten fachlichen Praxis Neuansaat, Neuanpflanzungen oder Rodungen notwendig werden, weitergehende Bodenbearbeitungen zu ermöglichen.
 
+(+++ § 10: Zur Anwendung vgl. § 27 +++)
+
 # § 11 – Mindestanteil von Ackerland an nichtproduktiven Flächen
 
 (1) Der Begünstigte ist verpflichtet, mindestens 3 Prozent des Ackerlands des Betriebes als nichtproduktive Fläche oder als Landschaftselemente vorzuhalten.
 
 (2) Soweit die Unionsregelung einen höheren als den in Absatz 1 genannten Mindestprozentsatz vorsieht, ist der in Absatz 1 genannte Prozentsatz in der Verordnung gemäß § 23 Absatz 1 Nummer 2 an den im Unionsrecht vorgesehenen Mindestprozentsatz anzupassen.
+
+(+++ § 11: Zur Anwendung vgl. § 27 idF Geltung am 21.11.2024 +++)
 
 # § 12 – Umweltsensibles Dauergrünland; Verordnungsermächtigung
 
@@ -242,6 +250,8 @@ Bestimmungen gemäß Satz 1 Nummer 2 bis 6 dürfen nicht erfolgen, soweit Belang
 2. die weiteren Voraussetzungen für die Verpflichtung zur Rückumwandlung und
 
 3. das zugehörige Verfahren.
+
+(+++ § 12: Zur Anwendung vgl. § 27 +++)
 
 # § 13 – Mitteilung von Verstößen gegen Vorschriften der sozialen Konditionalität
 
@@ -313,6 +323,8 @@ Die Kontrollen im Sinne des § 16 werden in dem Kalenderjahr durchgeführt, in d
 
 (2) Der Begünstigte hat einen Verstoß gegen die Verpflichtungen nach § 3 Absatz 1 Nummer 1 und 2 durch seine Arbeitnehmer im Betrieb und der Personen, derer er sich zur Erfüllung dieser Verpflichtungen bedient, in gleichem Umfang zu vertreten wie einen eigenen Verstoß.
 
+(+++ § 21: Zur Anwendung vgl. § 27 +++)
+
 # § 22 – Sanktionierung bei Übertragung
 
 (1) Wird im Laufe des Kalenderjahres eine landwirtschaftliche Fläche übertragen, ergeht die Verwaltungssanktion gegen denjenigen an der Übertragung Beteiligten, der einen Sammelantrag nach der Unionsregelung für die landwirtschaftliche Fläche gestellt hat. Wenn derjenige Beteiligte, dem der Verstoß unmittelbar zuzurechnen ist, selbst einen Sammelantrag nach der Unionsregelung stellt, ist die Verwaltungssanktion gegen diesen Beteiligten zu richten.
@@ -336,6 +348,8 @@ Die Gesamthöhe der Verwaltungssanktionen ohne Berücksichtigung einer mögliche
 (2) In den Fällen des § 13 Absatz 4 darf keine Verwaltungssanktion verhängt werden, wenn der Verstoß dem Begünstigten nicht zurechenbar ist oder der Verstoß weder dessen landwirtschaftliche Tätigkeit noch dessen Betrieb oder andere von ihm verwaltete Flächen betrifft.
 
 (3) Von der Verhängung einer Verwaltungssanktion ist abzusehen, sofern der Verstoß gegen eine Vorschrift der sozialen Konditionalität auf höherer Gewalt oder einer behördlichen Anordnung beruht.
+
+(+++ § 25: Zur Anwendung vgl. § 27 +++)
 
 # § 26 – Verordnungsermächtigungen
 
