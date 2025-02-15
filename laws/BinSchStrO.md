@@ -1507,21 +1507,24 @@ a) als Topplichter
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>aa)</dt>
 <dd>
 drei Topplichter auf dem Vorschiff des Fahrzeugs oder, bei mehreren Fahrzeugen, auf dem Vorschiff des linken der Fahrzeuge an der Spitze des Verbandes; diese Topplichter müssen in der Form eines gleichseitigen Dreiecks mit waagerechter Grundlinie in einer Ebene senkrecht zur Längsebene des Verbandes angeordnet sein; die beiden unteren Topplichter müssen in einem Abstand von 1,25 m voneinander und 1,10 m unter dem obersten Topplicht gesetzt werden; sie müssen darüber hinaus auf einem Fluss mindestens 2,00 m über der Ebene der Einsenkungsmarken und mindestens 1,00 m über den Seitenlichtern, auf einem Schifffahrtskanal oder in einem Schleusenkanal so hoch wie möglich, jedoch mindestens in Höhe der Seitenlichter gesetzt werden;
 </dd>
+<dt>bb)</dt>
+<dd>
+ein Topplicht auf dem Vorschiff jedes anderen Fahrzeugs, dessen ganze Breite von vorn sichtbar ist; dieses Topplicht ist nach Möglichkeit 3,00 m tiefer als das oberste Topplicht nach Doppelbuchstabe aa hiervor zu setzen.
+</dd>
 </dl></td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0015_ab1.jpg" /></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
 </tbody>
 </table>
 
-bb)  
-ein Topplicht auf dem Vorschiff jedes anderen Fahrzeugs, dessen ganze Breite von vorn sichtbar ist; dieses Topplicht ist nach Möglichkeit 3,00 m tiefer als das oberste Topplicht nach Doppelbuchstabe aa hiervor zu setzen.
-
-  
 Die Masten dieser Topplichter müssen in der Längsebene des Fahrzeugs stehen, auf dem sie geführt werden;
 
 b) als Seitenlichter  
@@ -1529,7 +1532,6 @@ auf dem breitesten Teil des Verbandes, höchstens 1,00 m von dessen Außenseiten
 
 c) als Hecklichter
 
-  
 <table width="100%" style="border: none;">
 <colgroup>
 <col style="width: 64%" />
@@ -1542,14 +1544,35 @@ c) als Hecklichter
 <dd>
 drei Hecklichter auf dem Achterschiff des schiebenden Fahrzeugs in einer waagerechten Linie senkrecht zur Längsebene mit einem seitlichen Abstand von etwa 1,25 m und in ausreichender Höhe, sodass sie nicht durch eines der anderen Fahrzeuge des Verbandes verdeckt werden können;
 </dd>
-</dl>
-<dl>
 <dt>bb)</dt>
 <dd>
 ein Hecklicht auf dem Achterschiff eines jeden anderen Fahrzeugs, dessen ganze Breite von hinten sichtbar ist; befinden sich in dem Verband außer dem schiebenden Fahrzeug mehr als zwei von hinten sichtbare Fahrzeuge, ist dieses Hecklicht nur von den beiden äußeren Fahrzeugen zu führen.
 </dd>
 </dl></td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0016_ab1.jpg" /></td>
+</tr>
+</tbody>
+</table>
+
+2. |                                                                                                                                                                                                                                                                                                                             |                                                      |
+|:-----------------------------------------------|:-----------------------|
+| Ein Schubverband, der durch zwei schiebende Fahrzeuge nebeneinander fortbewegt wird, muss bei Nacht Hecklichter nach Nummer 1 Buchstabe c Doppelbuchstabe aa auf dem steuerbordseitigen schiebenden Fahrzeug führen, das andere schiebende Fahrzeug muss das Hecklicht nach Nummer 1 Buchstabe c Doppelbuchstabe bb führen. | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0001_0017_ab1.jpg) |
+
+3. |                                                                                                                                                                          |                                                      |
+|:-----------------------------------------------|:-----------------------|
+| Nummer 1 gilt auch für einen Schubverband, wenn er bei Nacht geschleppt wird; jedoch müssen die drei Hecklichter nach Nummer 1 Buchstabe c Doppelbuchstabe aa gelb sein. | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0001_0018_ab1.jpg) |
+
+4. <table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 67%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">Wird ein Schubverband bei Tag geschleppt, muss das schiebende Fahrzeug führen:<br />
+<br />
+einen gelben Ball an einer geeigneten Stelle und so hoch, dass er von allen Seiten sichtbar ist.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0019_ab1.jpg" /></td>
 </tr>
 </tbody>
 </table>
@@ -3612,6 +3635,35 @@ b) durch „einen langen Ton, zwei kurze Töne“, wenn es über Backbord wenden
 
 3. Das andere Fahrzeug muss daraufhin, sofern dies nötig und möglich ist, seine Geschwindigkeit und seinen Kurs ändern, damit das Wenden ohne Gefahr geschehen kann.
 
+4. <table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 64%" />
+<col style="width: 36%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">Auf einer durch das Tafelzeichen A.8 (Anlage 7) gekennzeichneten<br />
+Strecke ist das Wenden verboten.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0112_ab1.jpg" /></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">Ist eine Strecke durch das Tafelzeichen E.8 (Anlage 7) gekennzeichnet,<br />
+wird dem Schiffsführer empfohlen, dort zu wenden, wobei die in den<br />
+Nummern 1 bis 3 geregelten Anforderungen zu beachten sind.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0113_ab1.jpg" /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">Ist eine Strecke durch das Tafelzeichen E.8 (Anlage 7) mit einer unterhalb<br />
+angebrachten zusätzlichen rechteckigen weißen Tafel gekennzeichnet,<br />
+wird dem Schiffsführer empfohlen, mit einem Fahrzeug bis zu<br />
+der auf der zusätzlichen Tafel angegebenen Länge und der auf der<br />
+Wasserstraße zulässigen Abladetiefe, dort zu wenden, wobei die in<br />
+den Nummern 1 bis 3 geregelten Anforderungen zu beachten sind.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0114_ab1.jpg" /></td>
+</tr>
+</tbody>
+</table>
+
 # § 6.14 – Verhalten vor der Abfahrt
 
 1. § 6.13 Nummer 1 bis 3 gilt nach Maßgabe der nachstehenden Nummer 2 entsprechend für ein Fahrzeug, das seinen Liege- oder Ankerplatz verlässt, ohne zu wenden.
@@ -3636,7 +3688,6 @@ b) die Hauptwasserstraße überqueren oder
 
 c) in einen Hafen oder eine Nebenwasserstraße nur einfahren,
 
-  
 nachdem es sich vergewissert hat, dass das Manöver ausgeführt werden kann, ohne dass eine Gefahr entsteht und ohne dass ein anderes Fahrzeug unvermittelt seinen Kurs oder seine Geschwindigkeit ändern muss. Ein Talfahrer, der zur Einfahrt in einen Hafen oder in eine Nebenwasserstraße aufdrehen muss, hat einem Bergfahrer, der ebenfalls einfahren will, die Vorfahrt zu lassen.   
 Eine Wasserstraße, die als Nebenwasserstraße zu betrachten ist, kann durch ein Tafelzeichen E.9 oder E.10 (Anlage 7) gekennzeichnet sein.   
 
@@ -3694,7 +3745,6 @@ aa)
 bb)  
 „einen langen Ton, zwei kurze Töne“, wenn es seinen Kurs nach Backbord richten will.
 
-  
 Das andere Fahrzeug muss daraufhin, soweit notwendig, seinen Kurs und seine Geschwindigkeit ändern.
 
 3. Ist an der Ausfahrt eines Hafens oder an der Mündung einer Nebenwasserstraße ein Tafelzeichen B.9a oder B.9b (Anlage 7) angebracht, darf ein aus dem Hafen oder aus der Nebenwasserstraße kommendes Fahrzeug in die Hauptwasserstraße nur einbiegen oder sie überqueren, wenn dadurch ein Fahrzeug auf der Hauptwasserstraße nicht gezwungen wird, seinen Kurs oder seine Geschwindigkeit zu ändern.   
@@ -3703,7 +3753,30 @@ Das andere Fahrzeug muss daraufhin, soweit notwendig, seinen Kurs und seine Gesc
 |:--------------------|--------------------------:|------------------------:|
 |     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0001_0120_ab1.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0001_0121_ab1.jpg) |
 
-  
+4. <table style="border: none;">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 21%" />
+<col style="width: 28%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td data-valign="top" data-charoff="50">Ein rotes Licht, Zeichen A.1 (Anlage 7), mit einem weißen Pfeil (Abschnitt II Nummer 2 Buchstabe c der Anlage 7) zeigt an, dass die Einfahrt in den in Pfeilrichtung gelegenen Hafen oder in die in Pfeilrichtung gelegene Nebenwasserstraße verboten ist.</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">A.1<br />
+<br />
+Abschnitt II<br />
+Nr. 2<br />
+Buchstabe c</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2022/j1499-1_0010.jpg" /></td>
+</tr>
+</tbody>
+</table>
+
+5. |                                                                                                                                                                                                                                                                                                                                            |       |                                                    |
+|------------------------------------|---------------:|--------------------:|
+| Ein gelbes Funkellicht (Zeichen E.12a der Anlage 7) an einer Hafenmündung oder der Mündung einer Nebenwasserstraße zeigt an, dass ein Fahrzeug ausfährt und die Einfahrt infolgedessen mit Vorsicht zu erfolgen hat. Ein Fahrzeug in der Hauptwasserstraße muss daraufhin, soweit notwendig, seinen Kurs und seine Geschwindigkeit ändern. | E.12a | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1499-1_0020.jpg) |
+
+6. Werden die Zeichen nach den Nummern 4 und 5 nicht gegeben, darf in eine Nebenwasserstraße oder einen Hafen, deren oder dessen Mündung für eine gleichzeitige Einfahrt und Ausfahrt nicht ausreichend Platz bietet, erst eingefahren werden, wenn kein Fahrzeug ausfährt.
 
 # § 6.17 – Fahrt auf gleicher Höhe; Verbot der Annäherung an Fahrzeuge
 
@@ -3718,6 +3791,24 @@ Das andere Fahrzeug muss daraufhin, soweit notwendig, seinen Kurs und seine Gesc
 # § 6.18 – Verbot des Schleifenlassens von Ankern, Trossen oder Ketten
 
 1. Es ist verboten, einen Anker, eine Trosse oder eine Kette schleifen zu lassen.
+
+2. <table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 66%" />
+<col style="width: 34%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">Das Verbot nach Nummer 1 gilt weder beim Treibenlassen, sofern<br />
+dies gestattet ist, noch für kleine Bewegungen auf einer Liegestelle<br />
+und Umschlagstelle sowie auf einer Reede. Es gilt jedoch für derartige<br />
+Bewegungen auf einer Strecke, für die ein allgemeines Ankerverbot<br />
+besteht und auf einer Strecke, die nach § 7.03 Nummer 1<br />
+Buchstabe b durch das Tafelzeichen A.6 (Anlage 7) gekennzeichnet ist.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0124_ab1.jpg" /></td>
+</tr>
+</tbody>
+</table>
 
 # § 6.19 – Schifffahrt durch Treibenlassen
 
@@ -3904,6 +3995,27 @@ Buchstabe b Doppelbuchstabe bb
 </table>
 
 oder
+
+<table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 34%" />
+<col style="width: 34%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>3.</dt>
+<dd>
+die rote Flagge nach § 3.25 Nummer 1 Satz 2 Buchstabe b<br />
+Doppelbuchstabe bb, Nummer 2 Satz 1
+</dd>
+</dl></td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2012/j0001_0132_ab1.jpg" /></td>
+</tr>
+</tbody>
+</table>
 
 zeigt.
 

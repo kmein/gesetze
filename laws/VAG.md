@@ -1047,7 +1047,8 @@ Satz 1 ist entsprechend anzuwenden für Tatsachen und Entscheidungen, von denen 
 (5) Bei Versicherungsunternehmen im Sinne des § 52 hat der Prüfer auch zu prüfen, ob diese ihre Pflichten nach den §§ 53 bis 56 sowie nach dem Geldwäschegesetz erfüllt haben. Über die Prüfung ist gesondert zu berichten.
 
 (+++ § 35 Abs. 1 Satz 1 Nr. 5, 6 u. 7: Zur Anwendung vgl. § 356 Satz 1 +++)  
-(+++ § 35 Abs. 1 Satz 1 Nr. 8: Zur Anwendung vgl. § 356 Satz 2 +++)
+(+++ § 35 Abs. 1 Satz 1 Nr. 8: Zur Anwendung vgl. § 356 Satz 2 +++)  
+(+++ § 35 Abs. 1 Satz 1 Nr. 10: Zur erstmaligen Anwendung vgl. § 360 +++)
 
 # § 35a – Bestimmung von Prüfungsinhalten
 

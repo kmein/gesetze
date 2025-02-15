@@ -749,6 +749,8 @@ Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank hat der Prüfer ih
 
 (4) § 29 des Kreditwesengesetzes bleibt unberührt. Unbeschadet der Absätze 1 bis 3 kann die Bundesanstalt gegenüber dem Institut auch Bestimmungen über den Inhalt der Prüfung treffen, die vom Prüfer im Rahmen der Jahresabschlussprüfung zu berücksichtigen sind. Sie kann insbesondere Schwerpunkte für die Prüfungen festlegen.
 
+(+++ § 24 Abs. 1 Satz 3 Nr. 5: Zur erstmaligen Anwendung vgl. § 69 +++)
+
 # § 25 – Inanspruchnahme von Agenten; Verordnungsermächtigung
 
 (1) Beabsichtigt ein Institut, Zahlungsdienste über einen Agenten zu erbringen, hat es der Bundesanstalt und der Deutschen Bundesbank folgende Angaben zu übermitteln:

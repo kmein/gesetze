@@ -1733,7 +1733,8 @@ sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9f die Vorgaben der Verordnung 
 
 (4) Für Kreditinstitute, die zwar über eine Erlaubnis verfügen, Bankgeschäfte im Sinne von § 1 Absatz 1 Satz 2 Nummer 1 und 2 zu betreiben, die aber weder CRR-Kreditinstitute noch Zweigstellen im Sinne des § 53 Absatz 1 Satz 1 sind, gelten die Meldeanforderungen der Verordnung (EU) 2015/534 der Europäischen Zentralbank vom 17. März 2015 über die Meldung aufsichtlicher Finanzinformationen (EZB/2015/13) (ABl. L 86 vom 31.3.2015, S. 13; L 65 vom 8.3.2018, S. 48), die zuletzt durch die Verordnung (EU) 2020/605 (ABl. L 145 vom 7.5.2020, S. 1) geändert worden ist, so, als seien diese Kreditinstitute CRR-Kreditinstitute. Die für die Bestimmung des Meldeumfangs erforderliche Einstufung als bedeutendes oder weniger bedeutendes Kreditinstitut erfolgt auf der Grundlage des Größenkriteriums „Gesamtwert der Aktiva“ nach Artikel 50 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1; L 113 vom 29.4.2017, S. 64; L 65 vom 8.3.2018, S. 49). Die Meldungen sind der Deutschen Bundesbank elektronisch einzureichen.
 
-(+++ § 1a: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)
+(+++ § 1a: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)  
+(+++ § 1a Abs. 2a: Zur Anwendung vgl. § 65a Abs. 3 Satz 1 +++)
 
 # § 1b – Unzuverlässigkeit von sanktionierten Personen
 
@@ -5108,6 +5109,7 @@ zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderl
 
 (+++ §§ 26 bis 38: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 +++)  
 (+++ § 29 Abs. 1 Satz 2 in der ab 16.2.2013 geltenden Fassung: Zur Anwendung vgl. § 64o Abs. 2 +++)  
+(+++ § 29 Abs. 1 Satz 2 Nr. 2 Buchst. m: Zur erstmaligen Anwendung vgl. § 65a As. 2 +++)  
 (+++ § 29 Abs. 1a in der ab 16.2.2013 geltenden Fassung: Zur Anwendung vgl. § 64o Abs. 3 +++)  
 (+++ § 29 Abs. 1b: Zur Nichtanwendung vgl. § 64v Abs. 1 Satz 2 u. Abs. 2 Satz 2 +++)  
 (+++ §§ 28 bis 30: Zur Anwendung vgl. § 3 Nr. 13 KfWV +++)
