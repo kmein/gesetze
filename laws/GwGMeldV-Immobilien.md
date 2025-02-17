@@ -65,7 +65,7 @@ und das Treuhandverhältnis keinen offensichtlichen wirtschaftlichen oder sonsti
 
 1. gegen einen an dem Erwerbsvorgang Beteiligten oder einen wirtschaftlich Berechtigten wegen einer rechtswidrigen Tat nach § 261 des Strafgesetzbuches ermittelt wird oder ein Strafverfahren anhängig oder rechtshängig ist oder eine solche Person wegen einer solchen Tat innerhalb der letzten fünf Jahre verurteilt wurde und ein Zusammenhang zwischen der Tat und dem Erwerbsvorgang nicht ausgeschlossen werden kann oder
 
-2. gegen einen an dem Erwerbsvorgang Beteiligten oder einen wirtschaftlich Berechtigten wegen einer rechtswidrigen Tat im Sinne des § 261 Absatz 1 Satz 2 des Strafgesetzbuches ermittelt wird oder ein Strafverfahren anhängig oder rechtshängig ist oder eine solche Person wegen einer solchen Tat innerhalb der letzten fünf Jahre verurteilt wurde und ein Zusammenhang zwischen dem Tatertrag oder dem Tatprodukt der Tat und dem Erwerbsvorgang nicht ausgeschlossen werden kann.
+2. gegen einen an dem Erwerbsvorgang Beteiligten oder einen wirtschaftlich Berechtigten wegen einer rechtswidrigen Tat, bei der es sich um die Vortat einer Geldwäschestraftat nach § 261 des Strafgesetzbuchs handeln könnte, ermittelt wird oder ein Strafverfahren anhängig oder rechtshängig ist oder eine solche Person wegen einer solchen Tat innerhalb der letzten fünf Jahre verurteilt wurde und ein Zusammenhang zwischen dem Tatertrag oder dem Tatprodukt der Tat und dem Erwerbsvorgang nicht ausgeschlossen werden kann.
 
 Die Meldepflicht besteht nicht, wenn sich der an dem Erwerbsvorgang Beteiligte oder der wirtschaftlich Berechtigte im Rahmen des Ermittlungs- oder Strafverfahrens des Verpflichteten als Verteidiger bedient oder bedient hat oder der Verpflichtete an der Verteidigung im Ermittlungs- oder Strafverfahren mitwirkende Person im Sinne von § 203 Absatz 3 des Strafgesetzbuches ist.
 
@@ -85,49 +85,69 @@ Der Verpflichtete hat zu melden, wenn ein an dem Erwerbsvorgang Beteiligter
 
 3. aufgrund einer Vollmacht handelt, deren Grundverhältnis für den Verpflichteten nicht erkennbar ist, oder
 
-4. aufgrund einer Vollmacht handelt, die durch Mitarbeiter der konsularischen Vertretung der Bundesrepublik Deutschland in einem Drittstaat nach § 3 Absatz 1 beglaubigt wurde.
+4. aufgrund einer Vollmacht handelt, die durch Mitarbeiter der konsularischen Vertretung der Bundesrepublik Deutschland in einem Staat nach § 3 Absatz 1 beglaubigt wurde.
 
 # § 6 – Meldepflichten wegen Auffälligkeiten im Zusammenhang mit dem Preis oder einer Kauf- oder Zahlungsmodalität
 
 (1) Der Verpflichtete hat zu melden, wenn die Gegenleistung
 
-1. vollständig oder teilweise wie folgt bezahlt wird oder bezahlt werden soll:
+1. vollständig oder teilweise wie folgt erbracht wurde oder erbracht werden soll:
 
-a) Mittels Barmitteln im Sinne des Artikels 2 Absatz 1 Buchstabe a der Verordnung (EU) 2018/1672 des Europäischen Parlaments und des Rates vom 23. Oktober 2018 über die Überwachung von Barmitteln, die in die Union oder aus der Union verbracht werden, und zur Aufhebung der Verordnung (EG) Nr. 1889/2005 (ABl. L 284 vom 12.11.2018, S. 6) oder gleichgestellten Zahlungsmitteln im Sinne des § 1 Absatz 4 Satz 4 des Zollverwaltungsgesetzes, sofern der Betrag mehr als 10 000 Euro beträgt,
+a) abweichend von § 16a Absatz 1 des Geldwäschegesetzes mittels Bargeld, Gold, Platin oder Edelsteinen, sofern der durch Bargeld, Gold, Platin oder Edelsteine erbrachte oder zu erbringende Betrag einen Gegenwert von 10 000 Euro überschreitet,
 
-b) mittels Kryptowerten im Sinne des § 1 Absatz 11 Satz 4 und 5 des Kreditwesengesetzes, oder
+b) mittels anderer Barmittel im Sinne des Artikels 2 Absatz 1 Buchstabe a der Verordnung (EU) 2018/1672 des Europäischen Parlaments und des Rates vom 23. Oktober 2018 über die Überwachung von Barmitteln, die in die Union oder aus der Union verbracht werden, und zur Aufhebung der Verordnung (EG) Nr. 1889/2005 (ABl. L 284 vom 12.11.2018, S. 6) oder mittels gleichgestellter Zahlungsmittel im Sinne des § 1 Absatz 4 Satz 4 des Zollverwaltungsgesetzes, sofern der durch diese Barmittel oder gleichgestellte Zahlungsmittel erbrachte oder zu erbringende Betrag einen Gegenwert von 10 000 Euro überschreitet,
 
-c) über ein Bankkonto in einem Drittstaat, es sei denn, ein Sitz, ein Wohnsitz oder der gewöhnliche Aufenthalt der Vertragspartei, die das Bankkonto verwendet, befindet sich in diesem Drittstaat,
+c) abweichend von § 16a Absatz 1 des Geldwäschegesetzes mittels Kryptowerten im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien
 
-2. erheblich von dem tatsächlichen Verkehrswert des Geschäftsgegenstandes abweicht, soweit die Differenz nicht auf einer dem Verpflichteten offengelegten unentgeltlichen Zuwendung beruht,
+2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40), sofern der durch die Kryptowerte erbrachte oder zu erbringende Betrag einen Gegenwert von 10 000 Euro überschreitet, oder
 
-3. vollständig oder teilweise bereits vor Abschluss des Rechtsgeschäftes gezahlt wurde oder gezahlt werden soll, sofern der bezahlte oder noch zu bezahlende Betrag mehr als 10 000 Euro beträgt und die veräußernde Person keine juristische Person des öffentlichen Rechts ist, oder
+d) über ein Bankkonto in einem Staat im Sinne des § 3 Absatz 1, es sei denn, die Vertragspartei, die das Bankkonto verwendet, ist in diesem Staat ansässig,
 
-4. vollständig oder teilweise von einer oder an eine Person gezahlt wird oder werden soll, die weder am Erwerbsvorgang Beteiligter noch wirtschaftlich Berechtigter ist, es sei denn, diese Person
+2. um mehr als 25 Prozent von dem tatsächlichen Verkehrswert des Geschäftsgegenstandes abweicht, soweit die Differenz nicht auf einer dem Verpflichteten offengelegten unentgeltlichen Zuwendung beruht, es sei denn, die veräußernde Person
 
 a) ist Partei kraft Amtes,
 
-b) ist der derzeitige oder frühere Ehepartner oder eingetragene Lebenspartner einer Vertragspartei des Erwerbsvorgangs,
+b) ist ein verbundenes Unternehmen im Sinne des § 15 des Aktiengesetzes,
 
-c) ist ein Verwandter ersten Grades, dessen Ehepartner oder eingetragener Lebenspartner einer Vertragspartei des Erwerbsvorgangs,
+c) ist ein im Grundbuch eingetragener und abzulösender Gläubiger oder ein abzulösender Gläubiger, dem nach § 10 Absatz 1 Nummer 1, 1a oder 2 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung bei einer Zwangsvollstreckung ein Recht auf Befriedigung aus dem Geschäftsgegenstand gewährt werden würde,
 
-d) ist ein Verwandter zweiten Grades, dessen Ehepartner oder eingetragener Lebenspartner einer Vertragspartei des Erwerbsvorgangs,
+d) ist eine juristische Person des öffentlichen Rechts oder
 
-e) ist ein verbundenes Unternehmen im Sinne des § 15 des Aktiengesetzes,
+e) unterliegt der Aufsicht der zuständigen Aufsichtsbehörde nach § 50 Nummer 1 oder 2 des Geldwäschegesetzes,
 
-f) ist ein im Grundbuch eingetragener und abzulösender Gläubiger oder ein abzulösender Gläubiger, dem nach § 10 Absatz 1 Nummer 1, 1a oder 2 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung bei einer Zwangsvollstreckung ein Recht auf Befriedigung aus dem Geschäftsgegenstand gewährt werden würde,
+3. vollständig oder teilweise bereits vor Abschluss des Rechtsgeschäftes erbracht wurde oder erbracht werden soll, es sei denn,
 
-g) ist eine juristische Person des öffentlichen Rechts oder
+a) der erbrachte oder zu erbringende Betrag beträgt nicht mehr als 20 000 Euro oder
 
-h) unterliegt der Aufsicht der zuständigen Aufsichtsbehörde nach § 50 Nummer 1 und 2 des Geldwäschegesetzes.
+b) die veräußernde Person ist eine Person im Sinne der Nummer 2 Buchstabe a bis e,
 
-Bei Nutzung von Anderkonten gilt die Regelung des Absatzes 3.
+4. vollständig oder teilweise von einer oder an eine Person erbracht wird oder werden soll, die weder am Erwerbsvorgang Beteiligter noch wirtschaftlich Berechtigter ist, und der erbrachte oder zu erbringende Betrag mehr als 20 000 Euro beträgt, es sei denn, diese Person
+
+a) ist Partei kraft Amtes,
+
+b) ist Verpflichteter nach § 2 Absatz 1 Nummer 10 oder 12 des Geldwäschegesetzes und die Zahlung erfolgt über ein Anderkonto,
+
+c) ist der derzeitige oder frühere Ehepartner oder eingetragene Lebenspartner einer Vertragspartei des Erwerbsvorgangs,
+
+d) ist ein Verwandter ersten Grades, dessen Ehepartner oder eingetragener Lebenspartner einer Vertragspartei des Erwerbsvorgangs,
+
+e) ist ein Verwandter zweiten Grades, dessen Ehepartner oder eingetragener Lebenspartner einer Vertragspartei des Erwerbsvorgangs,
+
+f) ist ein verbundenes Unternehmen im Sinne des § 15 des Aktiengesetzes,
+
+g) ist ein im Grundbuch eingetragener und abzulösender Gläubiger oder ein abzulösender Gläubiger, dem nach § 10 Absatz 1 Nummer 1, 1a oder 2 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung bei einer Zwangsvollstreckung ein Recht auf Befriedigung aus dem Geschäftsgegenstand gewährt werden würde,
+
+h) ist eine juristische Person des öffentlichen Rechts oder
+
+i) unterliegt der Aufsicht der zuständigen Aufsichtsbehörde nach § 50 Nummer 1 und 2 des Geldwäschegesetzes, oder
+
+5. vollständig oder teilweise später als ein Jahr nach Stellung des Antrages auf Eintragung beim Grundbuchamt erbracht werden soll, ohne dass dafür ein nachvollziehbarer Grund besteht.
 
 (2) Der Verpflichtete hat zu melden, wenn der Geschäftsgegenstand
 
-1. innerhalb von drei Jahren nach vorangegangenem Erwerb zu einem Preis weiterveräußert wird oder werden soll, der erheblich von dem vorherigen Preis abweicht, ohne dass dafür ein nachvollziehbarer Grund besteht, oder
+1. innerhalb von zwei Jahren nach vorangegangenem Erwerb zu einem Preis weiterveräußert wurde oder werden soll, der erheblich von dem vorherigen Preis abweicht, ohne dass dafür ein nachvollziehbarer Grund besteht, oder
 
-2. innerhalb von drei Jahren nach vorangegangenem Erwerb wieder an den vorherigen Eigentümer oder einen vorherigen Anteilsinhaber veräußert wird oder werden soll, ohne dass dafür ein nachvollziehbarer Grund besteht.
+2. innerhalb von drei Jahren nach vorangegangenem Erwerb wieder an den vorherigen Eigentümer oder einen vorherigen Anteilsinhaber veräußert wurde oder werden soll, ohne dass dafür ein nachvollziehbarer Grund besteht.
 
 Für die Fristbestimmung nach Satz 1 ist maßgeblich
 
@@ -135,11 +155,15 @@ Für die Fristbestimmung nach Satz 1 ist maßgeblich
 
 2. für die Veräußerung der Zeitpunkt des Abschlusses des zugrundeliegenden Rechtsgeschäfts.
 
-(3) Der Verpflichtete hat zu melden, wenn die Zahlung über ein Anderkonto erfolgen soll, ohne dass ein berechtigtes Sicherungsinteresse besteht. Satz 1 gilt nicht für Anderkonten des Notars.
+Erfolgt die Veräußerung vor dem dinglichen Rechtserwerb, so ist für den Erwerb der Zeitpunkt des Abschlusses des vorhergehenden Rechtsgeschäfts maßgeblich.
+
+(3) Der Verpflichtete hat zu melden, wenn die Gegenleistung über ein Anderkonto erbracht werden soll, ohne dass ein berechtigtes Sicherungsinteresse besteht. Satz 1 gilt nicht für Anderkonten des Notars.
+
+(4) Der Verpflichtete hat zu melden, wenn ein am Erwerbsvorgang Beteiligter seine Nachweispflicht nach § 16a Absatz 2 Satz 1 des Geldwäschegesetzes trotz Aufforderung nach § 16a Absatz 3 Satz 2 Nummer 1 Buchstabe b des Geldwäschegesetzes gegenüber dem Notar nicht erfüllt hat.
 
 # § 7 – Ausnahme von der Meldepflicht
 
-Liegen Tatsachen vor, die die bei den in den §§ 3 bis 6 bestimmten Sachverhalten vorhandenen Anzeichen entkräften, dass ein Vermögensgegenstand aus einer strafbaren Handlung stammt, die eine Vortat der Geldwäsche darstellen könnte, oder dass der Erwerbsvorgang im Zusammenhang mit Terrorismusfinanzierung steht, so besteht keine Pflicht zur Meldung. Die Tatsachen, aufgrund derer nach Satz 1 von einer Meldung abgesehen wird, sind nach § 8 Absatz 1 Satz 1 Nummer 4 des Geldwäschegesetzes aufzuzeichnen. Die Dokumentation ist für Zwecke der aufsichtlichen Prüfung aufzubewahren.
+Liegen Tatsachen vor, die die bei den in den §§ 3 bis 6 bestimmten Sachverhalten vorhandenen Anzeichen entkräften, dass ein Vermögensgegenstand aus einer strafbaren Handlung stammt, die eine Vortat der Geldwäsche darstellen könnte, oder dass der Erwerbsvorgang im Zusammenhang mit Terrorismusfinanzierung steht, so besteht keine Pflicht zur Meldung. Die Tatsachen, aufgrund derer nach Satz 1 von einer Meldung abgesehen wird, sind nach § 8 Absatz 1 Satz 1 Nummer 5 des Geldwäschegesetzes aufzuzeichnen. Die Dokumentation ist für Zwecke der aufsichtlichen Prüfung aufzubewahren.
 
 # § 8 – Inkrafttreten
 
