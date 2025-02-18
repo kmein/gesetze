@@ -167,6 +167,15 @@ Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des Seeaufgabengesetzes hand
 
 (2) Bis zum Ablauf des 30. Juni 2027 ist § 5 in folgender Fassung anzuwenden:
 
+<table width="100%" style="border: none;">
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">§ 5<br />
+Schiffsoffiziere</td>
+</tr>
+</tbody>
+</table>
+
 Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss von den Offizieren des nautischen oder technischen Bereichs mindestens einer Unionsbürger sein.
 
 (3) § 8 Absatz 1 in der am 25. Juni 2021 geltenden Fassung ist bis zu dem Tag weiter anzuwenden, an dem eine Verordnung zur Änderung der Seeleute-Befähigungsverordnung in Kraft tritt, mit der ein Befähigungszeugnis zum Kapitän nationale Fahrt BRZ 100 (Kapitän NK 100) vorgesehen wird. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt den Tag nach Satz 1 im Bundesgesetzblatt bekannt.

@@ -1079,6 +1079,15 @@ d) nach denen Versicherungsvereine auf Gegenseitigkeit von geringerer wirtschaft
 
 (11) § 36 ist in allen Fällen, in denen die Endbestände im Sinne des § 36 Absatz 7 noch nicht bestandskräftig festgestellt sind, in der folgenden Fassung anzuwenden:
 
+<table width="100%" style="border: none;">
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">„§ 36<br />
+Endbestände</td>
+</tr>
+</tbody>
+</table>
+
 (1) Auf den Schluss des letzten Wirtschaftsjahrs, das in dem Veranlagungszeitraum endet, für den das Körperschaftsteuergesetz in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist, letztmals anzuwenden ist, werden die Endbestände der Teilbeträge des verwendbaren Eigenkapitals ausgehend von den gemäß § 47 Absatz 1 Satz 1 Nummer 1 des Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist, festgestellten Teilbeträgen gemäß den nachfolgenden Absätzen ermittelt.
 
 (2) ¹Die Teilbeträge sind um die Gewinnausschüttungen, die auf einem den gesellschaftsrechtlichen Vorschriften entsprechenden Gewinnverteilungsbeschluss für ein abgelaufenes Wirtschaftsjahr beruhen und die in dem in Absatz 1 genannten Wirtschaftsjahr folgenden Wirtschaftsjahr erfolgen, sowie um andere Ausschüttungen und sonstige Leistungen, die in dem in Absatz 1 genannten Wirtschaftsjahr erfolgen, zu verringern. ²Die Regelungen des Vierten Teils des Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist, sind anzuwenden. ³Der Teilbetrag im Sinne des § 54 Absatz 11 Satz 1 des Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist (Teilbetrag, der einer Körperschaftsteuer in Höhe von 45 Prozent unterlegen hat), erhöht sich um die Einkommensteile, die nach § 34 Absatz 12 Satz 2 bis 5 in der am 14. Dezember 2010 geltenden Fassung einer Körperschaftsteuer von 45 Prozent unterlegen haben, und der Teilbetrag, der nach dem 31. Dezember 1998 einer Körperschaftsteuer in Höhe von 40 Prozent ungemildert unterlegen hat, erhöht sich um die Beträge, die nach § 34 Absatz 12 Satz 6 bis 8 in der am 14. Dezember 2010 geltenden Fassung einer Körperschaftsteuer von 40 Prozent unterlegen haben, jeweils nach Abzug der Körperschaftsteuer, der sie unterlegen haben.

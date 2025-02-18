@@ -9,13 +9,23 @@ Auf Grund des § 127a Abs. 5 des Aktiengesetzes, der durch Artikel 1 Nr. 7 des G
 
 (1) Das Aktionärsforum ist Teil des Bundesanzeigers und ist jedenfalls über die Internetseiten
 
-www.bundesanzeiger.de,  
-www.unternehmensregister.de und  
-www.aktionaersforum.de
+<table width="100%" style="border: none;">
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">www.bundesanzeiger.de,<br />
+www.unternehmensregister.de und<br />
+www.aktionaersforum.de</td>
+</tr>
+</tbody>
+</table>
 
 erreichbar.
 
 (2) Das Aktionärsforum ist so zu gestalten, dass Aktionäre, Aktionärsvereinigungen und Gesellschaften (Eintragende) die Aufforderungen und Hinweise auf Stellungnahmen nach § 127a des Aktiengesetzes (Eintragungen) nur über eine im Aktionärsforum zur Verfügung gestellte Formularmaske elektronisch eintragen können. Eintragungen sind in Deutsch oder Englisch abzufassen.
+
+www.bundesanzeiger.de,  
+www.unternehmensregister.de und  
+www.aktionaersforum.de
 
 # § 2 – Inhalt und Aufbau des Aktionärsforums
 
