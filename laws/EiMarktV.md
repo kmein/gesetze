@@ -59,10 +59,6 @@ Wer Eier liefert, verkauft oder sonst in den Verkehr bringt, die nach Güte- ode
 
 (2) Eine Änderung der Räumlichkeiten der Packstelle oder der technischen Anlagen sind der zuständigen Behörde unverzüglich anzuzeigen.
 
-# § 3a
-
-(weggefallen)
-
 # § 4 – Marktnotierungen
 
 Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen, die amtliche oder für gesetzlich vorgesehene Zwecke bestimmte Preisnotierungen oder Preisfeststellungen für Eier vornehmen, sind verpflichtet, ihren Notierungen oder Feststellungen die Güte- und Gewichtsklassen zugrunde zu legen.
@@ -123,8 +119,6 @@ Die Zollbehörde darf Anmeldungen zur Überführung in den zollrechtlich freien 
 
 (3) Die Bundesanstalt leitet eine Durchschrift der Anzeige unverzüglich an die zuständigen Behörden der Länder weiter.
 
-(4) (weggefallen)
-
 # § 6a – Anordnungen der zuständigen Behörden
 
 (1) Die zuständige Behörde kann im Fall von Verstößen gegen Vermarktungsnormen die notwendigen Anordnungen zu deren Beseitigung und zur Verhütung künftiger Verstöße treffen. Sie kann dabei anordnen, dass die betreffende Partie bis zum Nachweis der Verkehrsfähigkeit nicht vermarktet werden darf.
@@ -166,8 +160,6 @@ Diese Befugnisse erstrecken sich auch auf Erzeugnisse, die an öffentlichen Orte
 (2) Inhaber oder Leiter der Betriebe sind verpflichtet, das Betreten der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und Transportmittel sowie die dort vorzunehmenden Besichtigungen zu gestatten, die zu besichtigenden Erzeugnisse selbst oder durch andere so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen werden kann, selbst oder durch andere die erforderliche Hilfe bei der Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen, prüfen zu lassen und Auskünfte zu erteilen.
 
 # § 8 – (weggefallen)
-
-...
 
 # § 9
 
