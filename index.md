@@ -2740,7 +2740,6 @@
 - [HeuerVtrÜbkG](laws/HeuerVtrÜbkG.md) Gesetz betreffend das Internationale Übereinkommen über den Heuervertrag der Schiffsleute
 - [HfreqBetrGen](laws/HfreqBetrGen.md) Allgemeine Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten
 - [HfzHvzVStG](laws/HfzHvzVStG.md) Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer
-- [HG 2024](laws/HG_2024.md) Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024
 - [HGB](laws/HGB.md) Handelsgesetzbuch
 - [HGBEG](laws/HGBEG.md) Einführungsgesetz zum Handelsgesetzbuch
 - [HgFSNatSchV](laws/HgFSNatSchV.md) Verordnung über das Befahren des Naturschutzgebietes "Helgoländer Felssockel"
