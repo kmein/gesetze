@@ -10392,6 +10392,284 @@ Küstenkanal in der Bergfahrt beim Verlassen der Schleuse Oldenburg erfolgen. Au
 
 # § 15.16 – Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
+<table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 7%" />
+<col style="width: 6%" />
+<col style="width: 44%" />
+<col style="width: 44%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">1.</td>
+<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">Die Durchfahrtshöhe unter einer festen Brücke oder einem sonstigen festen Überbau beträgt bei normalem Kanalwasserstand</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf der
+Ruhr (bei Normalstau)</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>aa)</dt>
+<dd>
+unterhalb km 11,65
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">6,50 m,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>bb)</dt>
+<dd>
+oberhalb km 11,65
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4,75 m,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">b)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Rhein-Herne-Kanal,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4,50 m,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">c)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Wesel-Datteln-Kanal</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4,50 m,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">d)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Dortmund-Ems-Kanal</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>aa)</dt>
+<dd>
+vom Hafen Dortmund (km 1,44) bis Datteln (km 21,50)
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4,50 m,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>bb)</dt>
+<dd>
+von km 21,50 bis Papenburg (km 225,82), jedoch unter der Hase-Hubbrücke in Meppen nur, wenn die Durchfahrtshöhe am Brückenpegel von 4,25 m nicht unterschritten wird,
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4,25 m,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">e)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Küstenkanal</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4,50 m,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">f)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Mittellandkanal</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>aa)</dt>
+<dd>
+mit Ausnahme der Nordkammer der Schleuse Sülfeld
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">5,25 m,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>bb)</dt>
+<dd>
+bei Benutzung der Nordkammer der Schleuse Sülfeld
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4,20 m,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">g)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf den
+Stichkanälen Ibbenbüren, Osnabrück, Hannover-Linden und
+Hildesheim</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">4,00 m,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">h)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Verbindungskanal Nord zur Weser</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>aa)</dt>
+<dd>
+bei Benutzung der Schachtschleuse Minden<br />
+(beim Höchsten Schifffahrtswasserstand (HSW) am Pegel Porta)
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4,00 m,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>bb)</dt>
+<dd>
+bei Benutzung der Weserschleuse Minden (bei HSW am Pegel Porta)
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">5,25 m,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">i)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Verbindungskanal Süd zur Weser</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>aa)</dt>
+<dd>
+bei Benutzung der Oberschleuse Minden
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4,00 m,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>bb)</dt>
+<dd>
+bei Benutzung der Unterschleuse Minden (bei HSW am Pegel Porta)
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">3,85 m,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">j)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Stichkanal Misburg</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">5,25 m,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">k)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Stichkanal Salzgitter</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>aa)</dt>
+<dd>
+bei Benutzung der am Ostufer gelegenen Schleusen
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">5,25 m,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>bb)</dt>
+<dd>
+bei Benutzung der Westschleuse der Schleusengruppe Wedtlenstedt
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4,10 m,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>cc)</dt>
+<dd>
+bei Benutzung der Westschleuse der Schleusengruppe Üfingen
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">3,80 m,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">l)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Elbe-Seitenkanal</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">5,25 m,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">m)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Rothenseer Verbindungskanal (bei HSW der Elbe)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">5,00 m,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">n)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem
+Elbe-Havel-Kanal</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">4,80 m,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">o)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf den anderen
+Norddeutschen Kanälen</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">4,00 m.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Die Durchfahrtshöhe unter einer Freileitung beträgt bei normalem Wasserstand</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">8,00 m.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">3.</td>
+<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">Die in Nummer 1 und 2 genannten Höhen können sich durch Wasserstandschwankungen infolge wechselnder Wassereinspeisung, Schleusungswellen, Windstau und Hochwasser verringern.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">4.</td>
+<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">Die Durchfahrtshöhe der Eisenbahnbrücke über dem Verbindungskanal zwischen dem Kleinen Wendsee und dem Wusterwitzer See ist bei einem Wasserstand von 286 cm am Unterpegel Wusterwitz auf 3,75 m beschränkt.</td>
+</tr>
+</tbody>
+</table>
+
 # § 15.17 – Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
@@ -18184,6 +18462,132 @@ wenn der Wasserstand am Unterpegel Lehnitz unter die Marke 225 sinkt, verringern
 
 # § 23.04 – Fahrgeschwindigkeit
 
+<table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 5%" />
+<col style="width: 4%" />
+<col style="width: 6%" />
+<col style="width: 7%" />
+<col style="width: 60%" />
+<col style="width: 14%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">1.</td>
+<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge ohne Maschinenantrieb, auf</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
+<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">der
+Havel-Oder-Wasserstraße</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">aa)</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">von der Spreemündung (km 0,00) bis zur Abzweigung des Havelkanals (km 10,20)</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">10 km/h,</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">bb)</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">von der Abzweigung des Havelkanals (km 10,20) bis zur Einmündung in die Westoder (km 134,96)</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">9 km/h,</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">b)</td>
+<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">der
+Oranienburger Havel, der
+Wriezener Alten Oder</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">6 km/h,</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">c)</td>
+<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">den übrigen Kanälen</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">6 km/h,</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">d)</td>
+<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">einem Stichkanal, einem Nebenarm oder einem Altarm</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">5 km/h,</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">e)</td>
+<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">einem See oder einer seeartigen Erweiterung mit jeweils einer Gewässerbreite von mehr als 250,00 m</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">12 km/h.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2.</td>
+<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">Abweichend von Nummer 1 Buchstabe e beträgt die zulässige Höchstgeschwindigkeit gegenüber dem Ufer für ein Sportfahrzeug mit Maschinenantrieb auf einem See oder einer seeartigen Erweiterung mit jeweils einer Gewässerbreite von mehr als 250,00 m außerhalb des ufernahen Schutzstreifens</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">25 km/h.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">Satz 1 gilt nicht auf der
+Havel-Oder-Wasserstraße von der Schleuse Spandau bis zur Abzweigung des Havelkanals einschließlich
+Nordteil des Nieder Neuendorfer Sees und auf dem
+Tegeler See. Als ufernaher Schutzstreifen gilt eine 100,00 m breite parallel zur Uferlinie (Land-Wasser-Übergang) verlaufende Wasserfläche.</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">3.</td>
+<td colspan="6" style="text-align: left;" data-valign="top" data-charoff="50">Die zuständige Behörde kann abweichend von Nummer 1 und 2 im Einzelfall für ein Fahrgastschiff, das nach einem festen Fahrplan nach § 9.01 verkehrt, für einzelne Strecken oder aus einem besonderen Anlass für ein Fahrgastschiff oder ein Aufsichtsboot eines Sportvereins oder -verbandes höhere Geschwindigkeiten zulassen, wenn dadurch der Zustand der Wasserstraße sowie der übrige Schiffsverkehr nicht über Gebühr beeinträchtigt werden.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">4.</td>
+<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">Die Mindestgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge,</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">4 km/h.</td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>
+
 # § 23.05 – Bergfahrt
 
 |                                                  |                       |
@@ -19847,6 +20251,106 @@ Ein Fahrzeug oder ein Verband mit jeweils einer Länge von mehr als 67,00 m darf
 (keine besondere Vorschriften)
 
 # § 25.11 – Schifffahrt bei Hochwasser
+
+<table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 49%" />
+<col style="width: 23%" />
+<col style="width: 16%" />
+<col style="width: 7%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">1.</td>
+<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">Erreicht oder überschreitet der Wasserstand den Höchsten Schifffahrtswasse rstand (HSW) – Hochwassermarke – an dem Richtpegel für den unter Nummer 2 jeweils aufgeführten Streckenabschnitt, ist mit der Einstellung der Schifffahrt zu rechnen, und die zuständige Behörde kann die Schifffahrt innerhalb des Streckenabschnitts einschließlich der Wehrsaalen ganz oder teilweise verbieten.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2.</td>
+<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">Die in Nummer 1 genannte Hochwassermarke wird durch folgende Wasserstände bestimmt, und die Richtpegel gelten für den nachstehend aufgeführten Streckenabschnitt:</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Strecke</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Richtpegel</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hochwassermarke</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Saalemündung (Sl-km 0,00) -<br />
+Schleuse Calbe (Sl-km 20,00)</td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50">Calbe, unterer Pegel</td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50">690 cm</td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Schleuse Calbe (Sl-km 20,00) -<br />
+Schleuse Gimritz (Sl-km 92,60)</td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50">Halle-Trotha, unterer Pegel</td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50">440 cm</td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Schleuse Gimritz (Sl-km 92,60) -<br />
+Schleuse Planena (Sl-km 104,44)</td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50">Halle-Trotha, unterer Pegel</td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50">400 cm</td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Schleuse Planena (Sl-km 104,44) -<br />
+Bad Dürrenberg (Sl-km 124,16)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">Naumburg/Grochlitz</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">400 cm.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>
 
 # § 25.12 – Schifffahrt bei Eis
 
