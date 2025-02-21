@@ -3787,7 +3787,7 @@
 - [MPAHSBundV](laws/MPAHSBundV.md) Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst des Bundes über das Studium „Master of Public Administration“ an der Hochschule des Bundes für öffentliche Verwaltung
 - [MPAMIV](laws/MPAMIV.md) Verordnung über die Meldung von mutmaßlichen schwerwiegenden Vorkommnissen bei Medizinprodukten sowie zum Informationsaustausch der zuständigen Behörden
 - [MPAV](laws/MPAV.md) Verordnung zur Regelung der Abgabe von Medizinprodukten
-- [MPBetreibV](laws/MPBetreibV.md) Verordnung über das Errichten, Betreiben und Anwenden von Medizinprodukten
+- [MPBetreibV](laws/MPBetreibV.md) Verordnung über das Betreiben und Benutzen von Medizinprodukten
 - [MPDG](laws/MPDG.md) Gesetz zur Durchführung unionsrechtlicher Vorschriften betreffend Medizinprodukte
 - [MPG](laws/MPG.md) Gesetz über Medizinprodukte
 - [MPhG](laws/MPhG.md) Gesetz über die Berufe in der Physiotherapie

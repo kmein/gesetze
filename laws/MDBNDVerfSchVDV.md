@@ -414,8 +414,6 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche 
 
 (2) Die Ausbildung umfasst eine fachtheoretische Ausbildung am Zentrum für Nachrichtendienstliche Aus- und Fortbildung und eine berufspraktische Ausbildung.
 
-(2a) (weggefallen)
-
 (3) Die fachtheoretische Ausbildung unterteilt sich in drei Abschnitte. Die berufspraktische Ausbildung unterteilt sich in zwei Abschnitte.
 
 (4) Die Abfolge und die Dauer der einzelnen Abschnitte sind wie folgt festgesetzt:  
@@ -472,8 +470,6 @@ Abschlusslehrgang</td>
 </tr>
 </tbody>
 </table>
-
-(4a) (weggefallen)
 
 (5) Die Dauer der fachtheoretischen Ausbildung beträgt insgesamt mindestens 900 Lehrstunden.
 
@@ -713,13 +709,9 @@ Das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung org
 
 (2) Je eine Klausur wird einem der Lehrgebiete nach § 27 entnommen. Es können jedoch auch zwei Klausuren demselben Lehrgebiet entnommen werden.
 
-(2a) (weggefallen)
-
 (3) Die Bearbeitungszeit für jede Klausur beträgt 180 Minuten.
 
 (4) Die Klausuren werden an drei aufeinanderfolgenden Arbeitstagen geschrieben.
-
-(4a) (weggefallen)
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -787,13 +779,9 @@ Die Laufbahnprüfung besteht aus einer schriftlichen und einer mündlichen Absch
 
 3. aus zwei der Lehrgebiete nach § 27 Nummer 1, 2, 4 und 5 jeweils eine Klausur.
 
-(2a) (weggefallen)
-
 (3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
 
 (4) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei Prüfungstagen ist ein freier Tag vorzusehen.
-
-(4a) (weggefallen)
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -869,8 +857,6 @@ Eine oder einer der beiden Beisitzenden kann auch Tarifbeschäftigte oder Tarifb
 
 (4) In einer Gruppe dürfen höchstens fünf Anwärterinnen und Anwärter geprüft werden.
 
-(4a) (weggefallen)
-
 (5) Die Dauer der mündlichen Abschlussprüfung darf je Anwärterin oder Anwärter 30 Minuten nicht unterschreiten und soll 40 Minuten je Anwärterin oder Anwärter nicht überschreiten.
 
 # § 58 – Zuhörerinnen und Zuhörer bei der mündlichen Abschlussprüfung
@@ -930,8 +916,6 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 5. die Rangpunktzahl der schriftlichen Abschlussprüfung mit 30 Prozent und
 
 6. die Rangpunktzahl der mündlichen Abschlussprüfung mit 15 Prozent.
-
-(2a) (weggefallen)
 
 (3) Die Laufbahnprüfung hat bestanden,
 
