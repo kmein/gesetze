@@ -237,6 +237,30 @@ Bei einer Identitätsüberprüfung nach § 16 darf auch die aufgedruckte Zugangs
 
 (5) Für Diensteanbieter in Deutschland sind die für die Einhaltung der Vorgaben des Datenschutzes zuständigen Stellen zuständig. Haben Diensteanbieter ihren Wohn-, Geschäfts- oder Dienstsitz nicht in Deutschland, so ist der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit zuständige Datenschutzaufsichtsbehörde im Sinne des § 21 Absatz 4 Satz 3.
 
+# § 7a – Beleihung
+
+(1) Das Bundesministerium des Innern und für Heimat kann teilrechtsfähigen Vereinigungen sowie juristischen Personen des Privatrechts zur Wahrnehmung der Aufgabe des elektronisch beantragten Neusetzens der Geheimnummer nach § 20 Absatz 2 der Personalausweisverordnung Hoheitsbefugnisse übertragen (Beleihung). Der Beliehene tritt insoweit an die Stelle des Ausweisherstellers; er ist Träger der öffentlichen Verwaltung.
+
+(2) Die Beleihung ist nur zulässig, wenn
+
+1. der zu Beleihende den Stand der Technik für die zu übertragende Aufgabe einhält,
+
+2. die ordnungsgemäße Erfüllung der zu übertragenden Aufgabe durch den zu Beleihenden sichergestellt wird,
+
+3. die Erfüllung der zu übertragenden Aufgabe durch den zu Beleihenden voraussichtlich Wirtschaftlichkeitsvorteile gegenüber einer staatlichen Aufgabenwahrnehmung aufweisen wird und
+
+4. keine überwiegenden öffentlichen Interessen entgegenstehen.
+
+Die Beleihung ist im Bundesanzeiger bekannt zu machen. Das Vorliegen der Voraussetzungen nach Satz 1 ist in regelmäßigen Abständen zu prüfen.
+
+(3) Die Beleihung kann jederzeit ganz oder teilweise zurückgenommen, widerrufen oder mit Nebenbestimmungen verbunden werden; der Zeitpunkt der Maßnahme hat die Interessen des Beliehenen angemessen zu berücksichtigen. Liegen die Voraussetzungen nach Absatz 2 Satz 1 nicht mehr vor, so ist die Beleihung zu widerrufen. Soweit die Beleihung zurückgenommen oder widerrufen wurde, ist dies im Bundesanzeiger bekannt zu machen.
+
+(4) Der Beliehene untersteht im Umfang der ihm übertragenen Aufgabe der Rechts- und Fachaufsicht des Bundesministeriums des Innern und für Heimat.
+
+(5) Im Umfang der übertragenen Aufgabe findet § 31 Absatz 1 auf den Beliehenen entsprechend Anwendung.
+
+(6) Wird der Bund von einem Dritten wegen eines Schadens in Anspruch genommen, den der Beliehene in Ausübung des ihm anvertrauten Amtes dem Dritten durch eine Amtspflichtverletzung zugefügt hat, so kann der Bund bei Vorsatz oder grober Fahrlässigkeit beim Beliehenen Rückgriff nehmen.
+
 # § 8 – Örtliche Zuständigkeit; Tätigwerden bei örtlicher Unzuständigkeit
 
 (1) In Deutschland ist die Personalausweisbehörde zuständig, in deren Bezirk die antragstellende Person oder der Ausweisinhaber für seine Wohnung, bei mehreren Wohnungen für seine Hauptwohnung, meldepflichtig ist. Hat die antragstellende Person keine Wohnung, so ist die Personalausweisbehörde zuständig, in deren Bezirk sie sich vorübergehend aufhält.

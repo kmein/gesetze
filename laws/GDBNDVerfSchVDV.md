@@ -333,7 +333,7 @@ In begründeten Fällen kann höchstens ein Mitglied der Auswahlkommission eine 
 
 (7) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-(+++ § 12 Abs. 5 und 6: zur Anwendung vgl. § 68 Abs. 6 +++)
+(+++ § 12 Abs. 6 und 7: zur Anwendung vgl. § 68 Abs. 6 +++)
 
 # § 13 – Teile des Auswahlverfahrens
 
@@ -365,15 +365,11 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 2. einem Aufsatz.
 
-(2a) (weggefallen)
-
 (3) Von der Teilnahme am Aufsatz kann ausgeschlossen werden, wer in den Leistungstests nicht die erforderliche Mindestpunktzahl erreicht hat. Dies gilt nicht für schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber.
 
 # § 16 – Bestehen des schriftlichen Teils und Rangfolge
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn in den Leistungstests und im Aufsatz jeweils die erforderliche Mindestpunktzahl erreicht worden ist.
-
-(1a) (weggefallen)
 
 (2) Anhand der erzielten Ergebnisse wird eine Rangfolge der Bewerberinnen und Bewerber, die bestanden haben, festgelegt.
 
@@ -435,8 +431,6 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturier
 
 (2) Das Studium umfasst Fachstudien an der Hochschule und berufspraktische Studienzeiten.
 
-(2a) (weggefallen)
-
 (3) Das Studium gliedert sich in fünf Studienabschnitte. Die Studienabschnitte verteilen sich wie folgt auf die Semester:  
   
 
@@ -449,8 +443,6 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturier
 |  4  | 4\. Semester | berufspraktische Studienzeit II |
 |  5  | 5\. Semester | berufspraktische Studienzeit II |
 |  6  | 6\. Semester | Fachstudienzeit Hauptstudium II |
-
-(3a) (weggefallen)
 
 (4) Die Dauer der Fachstudien beträgt insgesamt mindestens 2 000 Lehrstunden.
 
@@ -690,8 +682,6 @@ In den praxisbezogenen Lehrveranstaltungen sind mindestens drei Leistungstests z
 
 (1) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
-(1a) (weggefallen)
-
 (2) In der Zwischenprüfung sollen die Studierenden nachweisen, dass sie den Wissens- und Kenntnisstand erreicht haben, der ein erfolgreiches weiteres Studium erwarten lässt.
 
 # § 41 – Prüfungsamt für die Zwischenprüfung
@@ -704,13 +694,9 @@ Die Zwischenprüfung wird vom Prüfungsamt für das Grundstudium am Zentralen Le
 
 (2) Je eine Klausur wird in den Studiengebieten des Grundstudiums nach § 27 Nummer 1 bis 4 geschrieben.
 
-(2a) (weggefallen)
-
 (3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
 
 (4) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei Prüfungstagen ist ein freier Tag vorzusehen.
-
-(4a) (weggefallen)
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -778,15 +764,11 @@ Die Laufbahnprüfung besteht aus
 
 (2) Die Diplomarbeit wird während der berufspraktischen Studienzeit II angefertigt.
 
-(2a) (weggefallen)
-
 # § 53 – Thema und Bearbeitungszeit der Diplomarbeit
 
 (1) Das Thema der Diplomarbeit wird vom Prüfungsamt bestimmt. Eine Lehrkraft der Hochschule schlägt dem Prüfungsamt ein Thema vor. Die Studierenden können der oder dem Vorschlagsberechtigten eigene Themenvorschläge unterbreiten.
 
 (2) Die Bearbeitungszeit für die Diplomarbeit beträgt vier Monate. Sie beginnt mit Ausgabe des Themas.
-
-(2a) (weggefallen)
 
 (3) Nach der Ausgabe kann das Thema nur im Ausnahmefall und nur mit Zustimmung des Prüfungsamtes zurückgegeben oder geändert werden.
 
@@ -876,8 +858,6 @@ In der Aussprache werden fachliche Fragen mit Bezug auf die Diplomarbeit und die
 
 (4) Die Bearbeitungszeit beträgt vier Monate. Soweit erforderlich, verlängert die Dienstbehörde den Vorbereitungsdienst um die Dauer der Wiederholung.
 
-(4a) (weggefallen)
-
 (5) Für die Dauer der Wiederholung der Diplomarbeit und der Bewertung der Diplomarbeit werden die Studierenden der Dienstbehörde zugewiesen.
 
 (6) Vier Wochen vor dem Ende der Bearbeitungszeit werden die Studierenden von ihren übrigen dienstlichen Tätigkeiten freigestellt.
@@ -894,8 +874,6 @@ In der Aussprache werden fachliche Fragen mit Bezug auf die Diplomarbeit und die
 
 2. je eine Klausur in den Studiengebieten nach § 28 Nummer 1, 2, 4 und 6.
 
-(2a) (weggefallen)
-
 (3) Studierende der Fachrichtung „Verfassungsschutz“ schreiben
 
 1. zwei Klausuren aus dem Studiengebiet nach § 28 Nummer 3,
@@ -904,13 +882,9 @@ In der Aussprache werden fachliche Fragen mit Bezug auf die Diplomarbeit und die
 
 3. je eine Klausur aus drei der Studiengebiete nach § 28 Nummer 1 bis 5.
 
-(3a) (weggefallen)
-
 (4) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
 
 (5) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei Prüfungstagen ist ein freier Tag vorzusehen.
-
-(5a) (weggefallen)
 
 (6) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -972,11 +946,7 @@ Gleichzeitig mit der Zulassung oder Nichtzulassung zur mündlichen Abschlussprü
 
 Die Beisitzenden können auch Tarifbeschäftigte oder Soldatinnen oder Soldaten sein. Einer Prüfungskommission müssen jedoch mindestens drei Beamtinnen und Beamte angehören. Mindestens zwei Mitglieder einer Prüfungskommission sollen haupt- oder  nebenamtliche Lehrkräfte der Hochschule sein.
 
-(5a) (weggefallen)
-
 (6) Eine Prüfungskommission ist beschlussfähig, wenn mindestens vier Mitglieder anwesend sind.
-
-(6a) (weggefallen)
 
 (7) § 12 Absatz 6 und 7 gilt entsprechend.
 
@@ -989,8 +959,6 @@ Die Beisitzenden können auch Tarifbeschäftigte oder Soldatinnen oder Soldaten 
 (3) Die mündliche Abschlussprüfung wird als Gruppenprüfung durchgeführt. In einer Gruppe dürfen nur Studierende derselben Fachrichtung geprüft werden.
 
 (4) In einer Gruppe dürfen höchstens fünf Studierende geprüft werden.
-
-(4a) (weggefallen)
 
 (5) Die Dauer der mündlichen Abschlussprüfung darf je Studierende oder Studierenden 40 Minuten nicht unterschreiten und soll 50 Minuten je Studierende oder Studierenden nicht überschreiten.
 
@@ -1057,8 +1025,6 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 7. die Rangpunktzahl der schriftlichen Abschlussprüfung mit 30 Prozent und
 
 8. die Rangpunktzahl der mündlichen Abschlussprüfung mit 15 Prozent.
-
-(2a) (weggefallen)
 
 (3) Die Laufbahnprüfung hat bestanden,
 

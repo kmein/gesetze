@@ -404,3 +404,5 @@ Die Gesamthöhe der Verwaltungssanktionen ohne Berücksichtigung einer mögliche
 (3) § 3 Absatz 1 Nummer 3, Kapitel 3 und § 25 sind ab dem 1. Januar 2025 anzuwenden.
 
 (4) § 5 Absatz 1 Satz 3, § 10 Absatz 1 Satz 2 und 3 und § 12 Absatz 3 Satz 2 sind ab dem Zeitpunkt anzuwenden, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung der Änderung des am 21. November 2022 genehmigten, durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland der Bundesrepublik Deutschland bekanntgegeben hat, der dem Änderungsantrag zugrunde liegt, der diese Regelungen umfasst, frühestens am 1. Januar 2025. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag, an dem die Europäische Kommission die Genehmigung bekanntgegeben hat, im Bundesgesetzblatt bekannt.
+
+(+++ § 27 Abs. 4 Satz 2: Vgl. Bek. v. 20.11.2024 I 356 +++)
