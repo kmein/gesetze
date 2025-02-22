@@ -145,7 +145,7 @@ der erreichbaren Punkte erzielt. Der praktische Teil der Prüfung ist bestanden,
 
 # § 5 – Gleichstellung anderer Berufsqualifikationen
 
-(1) Folgende Berufsqualifikationen und deren Vorläufer sind der Sachkundeprüfung gleichgestellt:
+(1) Folgende Berufsqualifikationen und deren Vorläufer oder Nachfolger sind der Sachkundeprüfung gleichgestellt:
 
 1. eine mit Erfolg abgelegte Abschlussprüfung
 
@@ -153,9 +153,11 @@ a) als Versicherungskaufmann oder Versicherungskauffrau,
 
 b) als Kaufmann für Versicherungen und Finanzen oder als Kauffrau für Versicherungen und Finanzen,
 
-c) als Geprüfter Fachwirt für Versicherungen und Finanzen oder als Geprüfte Fachwirtin für Versicherungen und Finanzen oder
+c) als Geprüfter Fachwirt für Versicherungen und Finanzen oder als Geprüfte Fachwirtin für Versicherungen und Finanzen,
 
-d) als Geprüfter Fachwirt für Finanzberatung oder als Geprüfte Fachwirtin für Finanzberatung;
+d) als Geprüfter Fachwirt für Finanzberatung oder als Geprüfte Fachwirtin für Finanzberatung oder
+
+e) als Kaufmann für Versicherungen und Finanzanlagen oder als Kauffrau für Versicherungen und Finanzanlagen
 
 2. ein Abschlusszeugnis
 

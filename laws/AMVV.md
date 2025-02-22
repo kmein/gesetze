@@ -97,15 +97,15 @@ Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfe
 
 # § 3a
 
-(1) Eine Verschreibung von Arzneimitteln, die die Wirkstoffe Lenalidomid, Pomalidomid oder Thalidomid enthalten, darf nur auf einem amtlichen Formblatt, das vom Bundesinstitut für Arzneimittel und Medizinprodukte entweder ausgegeben oder in elektronischer Form zur Verfügung gestellt wird, erfolgen. Das Formblatt nach Satz 1 ist ausschließlich zur Verschreibung der in Satz 1 genannten Arzneimittel bestimmt.
+(1) Eine Verschreibung von Arzneimitteln, die die Wirkstoffe Lenalidomid, Pomalidomid oder Thalidomid enthalten, darf nur auf einem amtlichen Formblatt, das vom Bundesinstitut für Arzneimittel und Medizinprodukte ausgegeben wird, oder als Verschreibung in elektronischer Form über die Telematikinfrastruktur, die als Sonderverschreibung mit dem Zusatz „T-Rezept“ gekennzeichnet ist, erfolgen. Das in Satz 1 genannte Formblatt und die in Satz 1 genannte Verschreibung in elektronischer Form dürfen ausschließlich zur Verschreibung der in Satz 1 genannten Arzneimittel verwendet werden.
 
-(2) Verschreibungen nach Absatz 1 Satz 1 müssen die Bestätigung der ärztlichen Person enthalten, dass die Sicherheitsmaßnahmen gemäß der aktuellen Fachinformation eines entsprechenden Fertigarzneimittels eingehalten werden, insbesondere, dass erforderlichenfalls ein Schwangerschafts-Präventionsprogramm durchgeführt wird und dass der Patientin oder dem Patienten vor Beginn der medikamentösen Behandlung geeignete medizinische Informationsmaterialien ausgehändigt wurden. Ferner muss auf der Verschreibung vermerkt sein, ob eine Behandlung innerhalb oder außerhalb der jeweils zugelassenen Anwendungsgebiete erfolgt.
+(2) Verschreibungen nach Absatz 1 Satz 1 müssen die Bestätigung der ärztlichen Person enthalten, dass die Sicherheitsmaßnahmen gemäß der aktuellen Fachinformation eines entsprechenden Fertigarzneimittels eingehalten werden, insbesondere, dass erforderlichenfalls ein Schwangerschafts-Präventionsprogramm durchgeführt wird und dass der Patientin oder dem Patienten vor Beginn der medikamentösen Behandlung geeignete medizinische Informationsmaterialien ausgehändigt wurden. Ferner muss auf einer Verschreibung auf dem in Absatz 1 Satz 1 genannten Formblatt ersetzt vermerkt sein, ob eine Behandlung innerhalb oder außerhalb der jeweils zugelassenen Anwendungsgebiete erfolgt. Bei einer Verschreibung in elektronischer Form muss vermerkt sein, ob eine Behandlung außerhalb der jeweils zugelassenen Anwendungsgebiete erfolgt.
 
-(3) Die Höchstmenge der auf Verschreibungen nach Absatz 1 Satz 1 verordneten Arzneimittel darf je Verschreibung für Frauen im gebärfähigen Alter den Bedarf für vier Wochen, ansonsten den für zwölf Wochen nicht übersteigen.
+(3) Die Höchstmenge der auf Verschreibungen nach Absatz 1 Satz 1 verordneten Arzneimittel darf je Verschreibung für gebärfähige Frauen den Bedarf für vier Wochen, ansonsten den für zwölf Wochen nicht übersteigen. Bei einer Verschreibung in elektronischer Form müssen die Reichdauer und die Angabe, ob es sich um eine Verschreibung für eine gebärfähige Frau handelt, vermerkt sein.
 
-(4) Verschreibungen von in Absatz 1 Satz 1 genannten Arzneimitteln sind bis zu sechs Tage nach dem Datum ihrer Ausfertigung gültig. Verschreibungen von in Absatz 1 Satz 1 genannten Arzneimitteln in elektronischer Form sind bis zu sechs Tage nach dem Datum ihrer qualifizierten elektronischen Signatur gültig.
+(4) Verschreibungen von in Absatz 1 Satz 1 genannten Arzneimitteln sind bis zu sechs Tage nach dem Datum ihrer Ausfertigung oder ihrer qualifizierten elektronischen Signatur gültig.
 
-(5) Das Formblatt nach Absatz 1 Satz 1 wird vom Bundesinstitut für Arzneimittel und Medizinprodukte auf Anforderung einer ärztlichen Person entweder elektronisch zur Verfügung gestellt oder gegen Nachweis der ärztlichen Approbation ausgegeben. Der Anforderung muss eine Erklärung der ärztlichen Person beigefügt sein, dass
+(5) Das Formblatt nach Absatz 1 Satz 1 wird vom Bundesinstitut für Arzneimittel und Medizinprodukte auf Anforderung einer ärztlichen Person gegen Nachweis der ärztlichen Approbation ausgegeben. Der Anforderung muss eine Erklärung der ärztlichen Person beigefügt sein, dass
 
 1. ihr die medizinischen Informationsmaterialien zu Lenalidomid, Pomalidomid oder Thalidomid gemäß der aktuellen Fachinformationen entsprechender Fertigarzneimittel vorliegen,
 
@@ -113,11 +113,11 @@ Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfe
 
 3. sie über ausreichende Sachkenntnisse zur Verschreibung von Arzneimitteln nach Absatz 1 Satz 1 verfügt.
 
-Auf der Verschreibung in elektronischer Form sind die Erklärungen nach Satz 2 Nummer 1 bis 3 abzugeben.
+Bei einer Verschreibung in elektronischer Form ist die in Satz 2 Nummer 3 genannte Erklärung abzugeben.
 
-(6) Das Bundesinstitut für Arzneimittel und Medizinprodukte macht ein Muster des Formblatts nach Absatz 1 Satz 1 einschließlich des Formblatts in elektronischer Form barrierefrei öffentlich bekannt.
+(6) Das Bundesinstitut für Arzneimittel und Medizinprodukte macht ein Muster des in Absatz 1 Satz 1 genannten Formblatts barrierefrei öffentlich bekannt.
 
-(7) Apotheken übermitteln dem Bundesinstitut für Arzneimittel und Medizinprodukte wöchentlich die Durchschriften der Verschreibungen nach Absatz 1 Satz 1. Bei Verschreibungen von Arzneimitteln nach Absatz 1 Satz 1 in elektronischer Form stellen die Dienste der Telematikinfrastruktur nach Abgabe der Arzneimittel in der Apotheke die unmittelbare elektronische Übermittlung einer elektronischen Kopie der Verschreibung, bereinigt um Patientendaten, an das Bundesinstitut für Arzneimittel und Medizinprodukte sicher.
+(7) Apotheken übermitteln dem Bundesinstitut für Arzneimittel und Medizinprodukte wöchentlich die Durchschriften der Verschreibungen nach Absatz 1 Satz 1. Bei Verschreibungen von Arzneimitteln nach Absatz 1 Satz 1 in elektronischer Form stellen die Dienste der Telematikinfrastruktur nach Abgabe der Arzneimittel in der Apotheke die unmittelbare elektronische Übermittlung der Informationen, die sich bei einer Verschreibung auf dem in Absatz 1 Satz 1 genannten Formblatt aus der in Satz 1 genannten Durchschrift ergeben, einschließlich der in Absatz 2 Satz 1 und 3 genannten Informationen, sowie die in Absatz 3 Satz 2 genannten Informationen, jeweils bereinigt um Patientendaten, und die in Absatz 5 Satz 3 genannte Erklärung sowie Informationen zur Kontaktaufnahme mit der abgebenden Apotheke an das Bundesinstitut für Arzneimittel und Medizinprodukte sicher.
 
 # § 3b
 
@@ -154,6 +154,8 @@ Von der Verschreibungspflicht sind Arzneimittel ausgenommen, die aus den in der 
 Die Anlage enthält unter grundsätzlicher Verwendung der INN-Nomenklatur eine alphabetisch geordnete Auflistung der Stoffe und Zubereitungen. Verschreibungspflichtig sind, sofern im Einzelfall nicht anders geregelt, auch Arzneimittel, die die jeweiligen Salze oder Hydrate der nachfolgend aufgeführten Stoffe enthalten oder denen diese zugesetzt sind. Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, Haaren oder Nägeln zu verstehen.
 
 Abacavir  
+
+Abaloparatid  
 
 Abamectin  
 
@@ -453,6 +455,8 @@ Apremilast
 Aprepitant  
 
 Aprindin  
+
+Aprocitentan  
 
 Apronalid  
 
@@ -896,6 +900,8 @@ Cantharidin
 
 Capecitabin  
 
+Capivasertib und seine Ester  
+
 Capmatinib  
 
 Capreomycin  
@@ -1176,6 +1182,8 @@ Cinnarizin
 
 Cinoxacin  
 
+Cipaglucosidase alfa  
+
 Ciprofloxacin  
 
 Cisaprid  
@@ -1369,7 +1377,7 @@ Cyproteron und seine Ester
 
 Cytarabin  
 
-Cytisin
+Cytisiniclin
 
 Dabigatran und seine Ester  
 
@@ -1393,6 +1401,8 @@ Dalteparin
 Danaparoid  
 
 Danazol  
+
+Danicopan  
 
 Danofloxacin  
 
@@ -1419,6 +1429,8 @@ Darunavir
 Dasabuvir  
 
 Dasatinib  
+
+Dasiglucagon  
 
 Datura-Arten und ihre Zubereitungen  
 – ausgenommen in homöopathischen Zubereitungen zur oralen Anwendung aus oberirdischen Teilen von
@@ -1791,6 +1803,8 @@ Edoxudin
 
 Efavirenz  
 
+Efbemalenograstim alfa  
+
 Efgartigimod alfa  
 
 Eflornithin  
@@ -1805,6 +1819,8 @@ Eisen(III)-Maltol
 
 Eisen-Verbindungen  
 - zur parenteralen Anwendung, ausgenommen zur Prophylaxe der Eisenmangelanämie bei Saugferkeln, sofern dies als alleiniger Anwendungsbereich auf Behältnissen und äußeren Umhüllungen angegeben ist -  
+
+Elacestrant und seine Ester  
 
 Elbasvir  
 
@@ -1845,6 +1861,8 @@ Endomid
 Enfluran  
 
 Enfuvirtid  
+
+Enmetazobactam  
 
 Enoxacin  
 
@@ -2035,6 +2053,8 @@ Etoricoxib
 
 Etozolin  
 
+Etrasimod und seine Ester  
+
 Etravirin  
 
 Etretinat  
@@ -2111,6 +2131,8 @@ Ferumoxytol
 Fesoterodin  
 
 Fexofenadin  
+
+Fezolinetant  
 
 Fibrinolysin (human)  
 
@@ -2279,6 +2301,8 @@ Framycetin
 
 Frovatriptan  
 
+Fruquintinib  
+
 Fulvestrant  
 
 Furaltadon  
@@ -2434,17 +2458,13 @@ Halothan
 
 Haloxon  
 
-(
+(¹³
 
-13
+C)Harnstoff  
 
-C) Harnstoff  
+(¹⁴
 
-(
-
-14
-
-C) Harnstoff  
+C)Harnstoff  
 
 Hemoglobinglutamer  
 - zur Anwendung bei Tieren -  
@@ -2653,6 +2673,8 @@ Insulin glargin
 
 Insulin glulisin  
 
+Insulin icodec  
+
 Insulin lispro  
 
 Insulin (vom Schwein)-Zink-Injektionssuspension, kristallin  
@@ -2686,6 +2708,8 @@ Iprazochrom
 Iproclozid  
 
 Ipronidazol  
+
+Iptacopan und seine Ester  
 - zur Anwendung bei Tieren -  
 
 Irbesartan  
@@ -2978,6 +3002,10 @@ Luprostiol
 Lurasidon  
 
 Luspatercept  
+
+(¹⁷⁷
+
+Lu)Lutetiumvipivotidtetraxetan und seine Ester  
 
 Lutropin  
 
@@ -3299,6 +3327,8 @@ Molgramostim
 
 Molsidomin  
 
+Momelotinib  
+
 Mometason und seine Ester  
 – ausgenommen Mometasonfuroat zur intranasalen Anwendung bei Erwachsenen zur symptomatischen Behandlung der saisonalen allergischen Rhinitis, nach der Erstdiagnose einer saisonalen allergischen Rhinitis durch einen Arzt, in einer Tagesdosis bis zu 200 Mikrogramm Mometasonfuroat, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene beschränkt ist –  
 
@@ -3578,6 +3608,8 @@ Olopatadin
 
 Olsalazin  
 
+Omaveloxolon  
+
 Ombitasvir  
 
 Omega-3-Säurenethylester  
@@ -3795,6 +3827,8 @@ Pegvaliase
 
 Pegvisomant  
 
+Pegzilarginase  
+
 Pemetrexed  
 
 Pemigatinib  
@@ -3943,8 +3977,8 @@ Piperacillin
 
 Piperaquin  
 
-Piperazin, auch als Hydrat  
-- als Wurmmittel -  
+Piperazin  
+– als Wurmmittel –  
 
 Piperidolat  
 
@@ -4276,6 +4310,8 @@ Quintiofos
 
 Quinupristin  
 
+Quizartinib  
+
 Rabeprazol  
 
 Racecadotril  
@@ -4357,6 +4393,8 @@ Retinol und seine Ester
 Reviparin  
 – zur parenteralen Anwendung –  
 
+Rezafungin und seine Ester  
+
 Ribavirin  
 
 Ribociclib  
@@ -4392,6 +4430,8 @@ Risdiplam
 Risedronsäure  
 
 Risperidon  
+
+Ritlecitinib  
 
 Ritodrin  
 
@@ -4584,6 +4624,8 @@ Solifenacin
 
 Solriamfetol  
 
+Somapacitan  
+
 Somatorelin  
 
 Somatostatin  
@@ -4606,6 +4648,8 @@ Spagluminsäure
 - zur Behandlung der saisonalen Rhinitis -  
 
 Sparfloxacin  
+
+Sparsentan  
 
 Spartein  
 - ausgenommen zum äußeren Gebrauch -  
@@ -4941,7 +4985,7 @@ Tiopronin
 
 Tiotixen  
 
-Tiotropiumbromid und sein Hydrat  
+Tiotropiumbromid  
 
 Tipiracil  
 
@@ -4956,6 +5000,8 @@ Tirbanibulin
 Tirofiban  
 
 Tiropramid  
+
+Tirzepatid  
 
 Tivozanib  
 
@@ -4974,6 +5020,8 @@ Tocofersolan und seine Ester
 – bei Vitamin-E-Mangel auf Grund digestiver Malabsorption bei pädiatrischen Patienten –  
 
 Tofacitinib  
+
+Tofersen  
 
 Tolazamid  
 
@@ -5177,6 +5225,8 @@ Valproinsäure
 
 Valsartan  
 
+Vamorolon und seine Ester  
+
 Vancomycin  
 
 Vandetanib  
@@ -5218,6 +5268,8 @@ Vernakalant
 Verteporfin  
 
 Vestronidase alfa  
+
+Vibegron und seine Ester  
 
 Vidarabin  
 
@@ -5299,6 +5351,8 @@ Ziconotid
 
 Zidovudin  
 
+Zilucoplan  
+
 Zinkoxid zur oralen Anwendung  
 – ausgenommen in Tagesdosen bis zu 25 mg Zink –  
 
@@ -5352,6 +5406,7 @@ Azelastin
 und  
 
 Fluticasonpropionat  
+– ausgenommen Zubereitungen aus Azelastin und Fluticasonpropionat zur intranasalen Anwendung bei Erwachsenen zur symptomatischen Behandlung der mittelschweren bis schweren saisonalen allergischen Rhinitis, nach deren Erstdiagnose durch einen Arzt und wenn eine Monotherapie entweder mit einem intranasalen Antihistaminikum oder einem Glukokortikoid nicht als ausreichend erachtet wird, in einer Tagesdosis bis zu 200 Mikrogramm Fluticasonpropionat, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene beschränkt ist –  
   
 Zubereitung aus  
 

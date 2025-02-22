@@ -12314,6 +12314,30 @@ Im Fall des Satzes 1 Nummer 2 bedarf es keiner eindeutigen bestätigenden Handlu
 
 (4) Der Zugriff auf die nach § 341 Absatz 2 Nummer 1 Buchstabe c in der elektronischen Patientenakte gespeicherten Daten der elektronischen Patientenkurzakte zum grenzüberschreitenden Austausch von Gesundheitsdaten zum Zweck der Unterstützung einer konkreten Behandlung des Versicherten durch einen in einem anderen Mitgliedstaat der Europäischen Union nach dem Recht des jeweiligen Mitgliedstaats zum Zugriff auf die Daten berechtigten Leistungserbringer über die jeweiligen nationalen eHealth-Kontaktstellen bedarf der Einwilligung durch den Versicherten in die Nutzung des Zugriffsverfahrens nach § 351 Absatz 2 Nummer 2. Zusätzlich ist erforderlich, dass der Versicherte zum Zeitpunkt der Behandlung den Zugriff der nationalen eHealth-Kontaktstelle des Mitgliedstaats, in dem die Behandlung stattfindet, durch eine eindeutige bestätigende Handlung technisch freigibt. Abweichend von den Absätzen 1 und 3 sowie von § 339 finden für die Verarbeitung der Daten durch einen Leistungserbringer in einem anderen Mitgliedstaat der Europäischen Union die Bestimmungen des Mitgliedstaats Anwendung, in dem der Leistungserbringer seinen Sitz hat. Hierbei finden die gemeinsamen europäischen Vereinbarungen zum grenzüberschreitenden Austausch von Gesundheitsdaten Berücksichtigung.
 
+# § 359a – Elektronische Rechnung
+
+(1) Sobald die für die Anwendung nach § 334 Absatz 1 Satz 2 Nummer 8 erforderlichen Dienste und Komponenten in der Telematikinfrastruktur zur Verfügung stehen, können die Leistungserbringer und Stellen nach Absatz 2 medizinische oder sonstige Leistungen, die nicht dem Sachleistungsprinzip unterliegen, in elektronischer Form (elektronische Rechnung) abrechnen und diese Rechnungsdaten mit Einwilligung des Versicherten unter Nutzung der Dienste und Komponenten der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 8 für Abrechnungszwecke verarbeiten. § 360 Absatz 13 bleibt unberührt.
+
+(2) Auf Daten der Versicherten in der elektronischen Rechnung nach Absatz 1 Satz 1 dürfen mit Einwilligung des Versicherten zu Abrechnungszwecken ausschließlich die folgenden Personen zugreifen:
+
+1. Ärzte sowie Personen, die als deren berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf tätig sind,
+
+2. Zahnärzte sowie Personen, die als berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf tätig sind,
+
+3. Apotheker sowie Personen, die als berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf tätig sind,
+
+4. Verrechnungsstellen, soweit sie im Auftrag der Leistungserbringer gemäß den Nummern 1 bis 3 bei der Abrechnung oder soweit sie aufgrund von diesen Leistungserbringern abgeleiteter Forderungsinhaberschaft tätig werden sowie
+
+5. zuständige Kostenträger.
+
+(3) Die Versicherten können die Daten elektronischer Rechnungen zum Zweck der Korrektur fehlerhafter Daten mit den zugriffsberechtigten Personen nach Absatz 2 teilen.
+
+(4) Die Erteilung der Einwilligung in den Zugriff auf die Daten des Versicherten in der elektronischen Rechnung nach Absatz 1 Satz 2 erfolgt über die Benutzeroberfläche eines geeigneten Endgerätes und bedarf einer eindeutigen bestätigenden Handlung.
+
+(5) Mit Einwilligung des Versicherten dürfen die Daten elektronischer Rechnungen nach Absatz 1 Satz 1 für die Dauer von maximal zehn Jahren in den Diensten der Anwendung gespeichert werden.
+
+(6) Die Gesellschaft für Telematik ist verpflichtet, im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit bis spätestens zum 1. Januar 2025 die Maßnahmen durchzuführen, die erforderlich sind, damit die elektronische Rechnung unter Nutzung der Telematikinfrastruktur zur Verfügung steht.
+
 # § 360 – Elektronische Übermittlung und Verarbeitung vertragsärztlicher elektronischer Verordnungen
 
 (1) Sobald die hierfür erforderlichen Dienste und Komponenten flächendeckend zur Verfügung stehen, ist für die elektronische Übermittlung und Verarbeitung vertragsärztlicher elektronischer Verordnungen von apothekenpflichtigen Arzneimitteln, einschließlich Betäubungsmitteln, sowie von sonstigen in der vertragsärztlichen Versorgung verordnungsfähigen Leistungen die Telematikinfrastruktur zu nutzen.
