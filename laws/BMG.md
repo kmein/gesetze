@@ -71,7 +71,7 @@ Meldebehörden sind die durch Landesrecht dazu bestimmten Behörden.
 
 7. Geschlecht,
 
-8. keine Eintragung,
+8. die Identifikationsnummer nach § 139b der Abgabenordnung,
 
 9. zum gesetzlichen Vertreter
 
@@ -87,9 +87,11 @@ e) Geburtsdatum,
 
 f) Geschlecht,
 
-g) Sterbedatum sowie
+g) Sterbedatum,
 
-h) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
+h) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
+
+i) die Identifikationsnummer nach § 139b der Abgabenordnung,
 
 10. derzeitige Staatsangehörigkeiten,
 
@@ -117,9 +119,11 @@ f) Geschlecht,
 
 g) derzeitige Anschriften im Zuständigkeitsbereich der Meldebehörde sowie Anschrift der letzten alleinigen Wohnung oder Hauptwohnung außerhalb des Zuständigkeitsbereichs der Meldebehörde,
 
-h) Sterbedatum sowie
+h) Sterbedatum,
 
-i) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
+i) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
+
+j) die Identifikationsnummer nach § 139b der Abgabenordnung,
 
 16. zu minderjährigen Kindern
 
@@ -135,7 +139,9 @@ e) Anschrift im Inland,
 
 f) Sterbedatum,
 
-g) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
+g) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
+
+h) die Identifikationsnummer nach § 139b der Abgabenordnung,
 
 17. Ausstellungsbehörde, Ausstellungsdatum, letzter Tag der Gültigkeitsdauer und Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatz-Personalausweises, des anerkannten Passes oder Passersatzpapiers, Ausstellungsbehörde, letzter Tag der Gültigkeitsdauer und Seriennummer der eID-Karte sowie Sperrkennwort und Sperrsumme des Personalausweises und der eID-Karte,
 
@@ -159,21 +165,11 @@ c) (weggefallen)
 
 a) die Zugehörigkeit zu einer steuererhebenden Religionsgesellschaft sowie das Datum des Eintritts und Austritts,
 
-b) den Familienstand,
+b) den Familienstand sowie
 
-c) das Datum der Begründung oder Auflösung der Ehe oder Lebenspartnerschaft sowie
+c) das Datum der Begründung oder Auflösung der Ehe oder Lebenspartnerschaft,
 
-d) die Identifikationsnummern oder die Vorläufigen Bearbeitungsmerkmale
-
-aa)  
-des Ehegatten oder Lebenspartners,
-
-bb)  
-der minderjährigen Kinder, die ihre alleinige Wohnung oder ihre Hauptwohnung im Zuständigkeitsbereich derselben Meldebehörde haben,
-
-3. für Zwecke nach § 139b Absatz 2 der Abgabenordnung
-
-die Identifikationsnummer nach § 139b der Abgabenordnung und bis zu deren Speicherung im Melderegister das Vorläufige Bearbeitungsmerkmal nach § 139b Absatz 6 Satz 2 der Abgabenordnung,
+3. für Zwecke der Vergabe der Identifikationsnummer nach § 139b der Abgabenordnung bis zu deren Speicherung im Melderegister das Vorläufige Bearbeitungsmerkmal nach § 139b Absatz 6 Satz 2 der Abgabenordnung,
 
 4. für die Ausstellung von Pässen und Ausweisen  
 die Tatsache, dass Passversagungsgründe vorliegen, ein Pass versagt oder entzogen oder eine Anordnung nach § 6 Absatz 7, § 6a Absatz 1 oder § 6a Absatz 2 des Personalausweisgesetzes getroffen worden ist,
@@ -322,7 +318,7 @@ Hat die Meldebehörde die Daten auf Antrag der betroffenen Person nach Artikel 1
 
 (1) Nach dem Wegzug oder dem Tod eines Einwohners hat die Meldebehörde für die Erfüllung ihrer Aufgaben weiterhin die in § 3 Absatz 1 Nummer 1 bis 10, 12 bis 16, 17a, 18 und 19 genannten Daten zu speichern. Sie darf in diesen Fällen auch die Daten nach § 3 Absatz 2 Nummer 1 und 2 im Melderegister speichern. Bei Wegzug eines Einwohners speichert die Meldebehörde außerdem die Daten nach § 3 Absatz 1 Nummer 17 und die Feststellung der Tatsachen nach § 3 Absatz 2 Nummer 4, 7 und 8.
 
-(2) Nach Ablauf von fünf Jahren nach dem Ende des Kalenderjahres, in dem ein Einwohner weggezogen oder verstorben ist, sind die nach Absatz 1 weiterhin gespeicherten Daten für die Dauer von 50 Jahren aufzubewahren und durch technische und organisatorische Maßnahmen nach Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 zu sichern, es sei denn, § 14 sieht eine frühere Löschung vor. Während dieser Zeit dürfen die Daten nicht mehr verarbeitet werden. Davon ausgenommen sind Familienname und Vornamen sowie frühere Namen, Geburtsdatum, Geburtsort sowie bei Geburt im Ausland auch der Staat, derzeitige und frühere Anschriften, Auszugsdatum, Auskunftssperren nach § 51 Absatz 1 sowie Sterbedatum, Sterbeort sowie bei Versterben im Ausland auch der Staat. Satz 2 gilt nicht, wenn
+(2) Nach Ablauf von fünf Jahren nach dem Ende des Kalenderjahres, in dem ein Einwohner weggezogen oder verstorben ist, sind die nach Absatz 1 weiterhin gespeicherten Daten für die Dauer von 50 Jahren aufzubewahren und durch technische und organisatorische Maßnahmen nach Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 zu sichern, es sei denn, § 14 sieht eine frühere Löschung vor. Während dieser Zeit dürfen die Daten nicht mehr verarbeitet werden. Davon ausgenommen sind Familienname und Vornamen sowie frühere Namen, Geburtsdatum, Geburtsort sowie bei Geburt im Ausland auch der Staat, die Identifikationsnummer nach § 139b der Abgabenordnung, derzeitige und frühere Anschriften, Auszugsdatum, Auskunftssperren nach § 51 Absatz 1 sowie Sterbedatum, Sterbeort sowie bei Versterben im Ausland auch der Staat. Satz 2 gilt nicht, wenn
 
 1. die betroffene Person in die Verarbeitung der Daten eingewilligt hat,
 

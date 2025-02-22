@@ -9,9 +9,9 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 (1) Die Bundesnetzagentur und das Bundesamt für Sicherheit in der Informationstechnik erheben in ihrem Zuständigkeitsbereich nach Maßgabe dieser Verordnung Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die aufgrund der folgenden Rechtsvorschriften erbracht werden:
 
-1. Telekommunikationsgesetz in der am 1. Oktober 2021 geltenden Fassung mit Ausnahme der in § 142 Absatz 1 Satz 1 Nummer 1 des Telekommunikationsgesetzes genannten Gebühren,
+1. (weggefallen)
 
-2. Verordnung (EU) 2015/2120 des Europäischen Parlaments und des Rates vom 25. November 2015 über Maßnahmen zum Zugang zum offenen Internet und zur Änderung der Richtlinie 2002/22/EG über den Universaldienst und Nutzerrechte bei elektronischen Kommunikationsnetzen und -diensten sowie der Verordnung (EU) Nr. 531/2012 über das Roaming in öffentlichen Mobilfunknetzen in der Union (ABl. L 310 vom 26.11.2015, S. 1), die zuletzt durch die Verordnung (EU) 2018/1971 (ABl. L 321 vom 17.12.2018, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
+2. (weggefallen)
 
 3. Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 155 vom 14.6.2016, S. 44), in der jeweils geltenden Fassung,
 
@@ -73,9 +73,9 @@ Nr. 765/2008 und (EU) Nr. 305/2011 (ABl. L 169 vom 25.6.2019, S. 1), in der jewe
 
 # § 4 – Gebührenbefreiung und -ermäßigung
 
-(1) Behörden und Organisationen mit Sicherheitsaufgaben sowie vergleichbare Organisationen sind, soweit nicht bereits nach § 8 Absatz 1 und 2 des Bundesgebührengesetzes Gebührenfreiheit besteht, für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur von der Zahlung von Gebühren befreit, wenn diese die individuell zurechenbare öffentliche Leistung zur Erfüllung ihrer Aufgaben benötigen, die ihnen aufgrund eines Gesetzes oder durch öffentlich-rechtliche Vereinbarung übertragen worden sind. Zuständig für die Feststellung der Vergleichbarkeit nach Satz 1 ist das Bundesministerium des Innern, für Bau und Heimat.
+(1) Behörden und Organisationen mit Sicherheitsaufgaben sowie vergleichbare Organisationen sind, soweit nicht bereits nach § 8 Absatz 1 und 2 des Bundesgebührengesetzes Gebührenfreiheit besteht, für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur von der Zahlung von Gebühren befreit, wenn diese die individuell zurechenbare öffentliche Leistung zur Erfüllung ihrer Aufgaben benötigen, die ihnen aufgrund eines Gesetzes oder durch öffentlich-rechtliche Vereinbarung übertragen worden sind. Zuständig für die Feststellung der Vergleichbarkeit nach Satz 1 ist das Bundesministerium des Innern, für Bau und Heimat. Satz 1 ist auch anzuwenden für die in § 4 der Funkrichtlinie Digitalfunk BOS – Anerkennungsrichtlinie – vom 7. Juli 2021 (GMBl 2021, S. 999) und in § 3 der Allgemeinen Verwaltungsvorschrift für die Bestimmungen zur Nutzung und den Betrieb allgemeiner sowie spezialisierter Funkanwendungen der Behörden und Organisationen mit Sicherheitsaufgaben (Funkrichtlinie Funkanwendungen BOS) vom 8. Juli 2024 (BAnz AT 17.07.2024 B2) in der jeweils geltenden Fassung genannten Berechtigten.
 
-(2) Individuell zurechenbare öffentliche Leistungen nach der Anlage Abschnitt 1 Unterabschnitt 4 Nummer 4.1 bis 4.11 ergehen im Einzelfall gebührenfrei, soweit das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur feststellt, dass für die Erbringung dieser Leistungen ein besonderes öffentliches Interesse vorliegt.
+(2) Die Gebührenfreiheit tritt nicht ein, sofern die in Absatz 1 Genannten berechtigt sind, die Gebühren ihrerseits Dritten aufzuerlegen oder sonst auf Dritte umzulegen. Die in Absatz 1 Genannten haben entsprechende Angaben von Amts wegen zu machen.
 
 (3) Gebühren für Maßnahmen nach der Anlage Abschnitt 4 Nummer 5 und Abschnitt 8 werden nicht erhoben, wenn ein Betriebsmittel unverschuldet entgegen den Vorschriften des Elektromagnetische-Verträglichkeit-Gesetzes oder entgegen den Vorschriften der Sicherheitsfunk-Schutzverordnung betrieben wird.
 
@@ -129,7 +129,9 @@ Nr. 765/2008 und (EU) Nr. 305/2011 (ABl. L 169 vom 25.6.2019, S. 1), in der jewe
 
 # § 6 – Übergangsregelung
 
-Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, sind die bis einschließlich zum 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden.
+(1) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, sind die bis einschließlich zum 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden.
+
+(2) Auf Gebührenbescheide, die vor dem 1. April 2025 unanfechtbar geworden sind, ist § 4 Absatz 2 nicht anzuwenden.
 
 # § 7 – Inkrafttreten; Außerkrafttreten
 
@@ -146,22 +148,6 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft. Gleichzeitig treten außer K
 # Anlage – Gebühren- und Auslagenverzeichnis
 
 (Fundstelle: BGBl. I 2021, 3718 - 3729)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 

@@ -693,11 +693,11 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 2. auf Verlangen den alten Ausweis beim Empfang eines neuen Ausweises abzugeben,
 
-3. den Verlust des Ausweises und sein Wiederauffinden anzuzeigen und im Falle des Wiederauffindens diesen vorzulegen und
+3. den Verlust des Ausweises und sein Wiederauffinden anzuzeigen und im Falle des Wiederauffindens diesen vorzulegen,
 
-4. anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist.
+4. anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist und
 
-6. im Falle der Ausgabe des Personalausweiseses im Wege des Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder den Personalausweis nicht enthält oder wenn der Personalausweis beschädigt ist oder eine Angabe auf dem Personalausweis unrichtig ist.
+5. im Falle der Ausgabe des Personalausweiseses im Wege des Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder den Personalausweis nicht enthält oder wenn der Personalausweis beschädigt ist oder eine Angabe auf dem Personalausweis unrichtig ist.
 
 (2) Der Personalausweisinhaber hat zumutbare Maßnahmen zu treffen, damit keine andere Person Kenntnis von der Geheimnummer erlangt. Die Geheimnummer darf insbesondere nicht auf dem Personalausweis vermerkt oder in anderer Weise zusammen mit diesem aufbewahrt sowie im Fall des elektronischen Identitätsnachweises mit einem mobilen Endgerät nicht auf diesem gespeichert werden. Ist dem Personalausweisinhaber bekannt, dass die Geheimnummer Dritten zur Kenntnis gelangt ist, soll er diese unverzüglich ändern oder die Funktion des elektronischen Identitätsnachweises sperren lassen. Satz 3 gilt entsprechend für den Fall, dass dem Personalausweisinhaber bekannt wird, dass die Geheimnummer eines elektronischen Identitätsnachweises mit einem mobilen Endgerät Dritten zur Kenntnis gelangt ist.
 

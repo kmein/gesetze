@@ -412,7 +412,8 @@ externe aktive Komponenten aktiver Implantate.
 
 # Anlage 2 – (zu § 13 Absatz 1 und § 15 Absatz 1)
 
-(Fundstelle: BGBl. 2025 I Nr. 38, S. 13)
+(Fundstelle: BGBl. 2025 I Nr. 38, S. 13  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 <table width="100%" style="border: none;">
 <colgroup>
