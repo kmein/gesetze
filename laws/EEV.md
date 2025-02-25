@@ -21,11 +21,11 @@ Diese Verordnung trifft Regelungen
 
 (1) Die Übertragungsnetzbetreiber dürfen den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Strom nur am Spotmarkt einer Strombörse vermarkten. Sie müssen zur bestmöglichen Vermarktung des Stroms die Sorgfalt eines ordentlichen und gewissenhaften Kaufmanns anwenden. Eine gemeinsame Vermarktung nach Satz 1 schließt die Möglichkeit ein, Vermarktungstätigkeiten auf einen anderen Übertragungsnetzbetreiber im Rahmen eines Dienstleistungsverhältnisses zu übertragen.
 
-(2) Die Übertragungsnetzbetreiber müssen am vortägigen Spotmarkt einer Strombörse über eine marktgekoppelte Auktion mit stündlichen Handelsprodukten für jede Stunde des Folgetages die gemäß aktueller Prognose vorhergesagte stündliche Einspeisung des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell auszugleichenden Stroms vollständig veräußern.
+(2) Die Übertragungsnetzbetreiber müssen am Day-Ahead-Markt einer Strombörse über eine marktgekoppelte Auktion für jede Viertelstunde des Folgetages die gemäß aktueller Prognose vorhergesagte viertelstündliche Einspeisung des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell auszugleichenden Stroms vorbehaltlich abweichender Vorgaben in § 5 vollständig veräußern.
 
-(3) Differenzen zwischen der gemäß jeweils aktueller Prognose vorhergesagten viertelstündlichen Einspeisung und der nach Absatz 2 zu vermarktenden stündlichen Einspeisung können am Spotmarkt einer Strombörse für jede Viertelstunde des Folgetages über Auktionen mit viertelstündlichen Handelsprodukten erworben oder veräußert werden. Gebote nach Satz 1 können preislimitiert eingestellt werden.
+(3) Differenzen zwischen der gemäß jeweils aktueller Prognose vorhergesagten viertelstündlichen Einspeisung und der nach Absatz 2 zu vermarktenden viertelstündlichen Einspeisung können am Intraday-Markt einer Strombörse für jede Viertelstunde des laufenden Tages oder des Folgetages über Auktionen mit viertelstündlichen Handelsprodukten erworben oder veräußert werden. Gebote nach Satz 1 können preislimitiert eingestellt werden.
 
-(4) Differenzen zwischen der nach aktualisierten Prognosen vorhergesagten viertelstündlichen Einspeisung und den bereits veräußerten und erworbenen Strommengen sind über den untertägigen kontinuierlichen Handel am Spotmarkt einer Strombörse zu erwerben oder zu veräußern. Mit Abschluss der letzten Handelsmöglichkeiten nach Satz 1 müssen die Differenzen nach Satz 1 vollständig ausgeglichen sein.
+(4) Differenzen zwischen der nach aktualisierten Prognosen vorhergesagten viertelstündlichen Einspeisung und den bereits veräußerten und erworbenen Strommengen sind über den untertägigen kontinuierlichen Handel am Intraday-Markt einer Strombörse zu erwerben oder zu veräußern. Gebote nach Satz 1 können preislimitiert eingestellt werden. Mit Abschluss der letzten Handelsmöglichkeiten nach Satz 1 müssen die Differenzen nach Satz 1 vollständig ausgeglichen sein.
 
 (5) Die Prognosen über den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell auszugleichenden Strom sind nach dem Stand von Wissenschaft und Technik zu erstellen.
 
@@ -33,19 +33,19 @@ Diese Verordnung trifft Regelungen
 
 Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten ergänzend zu den Daten nach der Anlage 1 Nummer 3 des Erneuerbare-Energien-Gesetzes auf einer gemeinsamen Internetseite in einheitlichem Format in nicht personenbezogener Form zu veröffentlichen:
 
-1. die nach § 2 Absatz 2 veräußerte Einspeisung aufgeschlüsselt nach den Technologiegruppen Windenergie, solare Strahlungsenergie und Sonstige in mindestens stündlicher Auflösung; sie ist spätestens bis 18 Uhr desselben Tages zu veröffentlichen,
+1. die nach § 2 Absatz 2 veräußerte Einspeisung aufgeschlüsselt nach den Technologiegruppen Windenergie, solare Strahlungsenergie und Sonstige in mindestens viertelstündlicher Auflösung; sie ist spätestens am Tag vor dem Liefertag bis 18 Uhr zu veröffentlichen,
 
 2. die nach § 2 Absatz 2 veräußerte monatliche Einspeisung aufgeschlüsselt nach den Technologiegruppen Windenergie an Land, Windenergie auf See, solare Strahlungsenergie, Biomasse und Sonstige; sie ist für jeden Kalendermonat bis zum Ablauf des zehnten Werktags des Folgemonats zu veröffentlichen,
 
-3. die nach § 2 Absatz 3 veräußerten und erworbenen Strommengen aufgeschlüsselt nach Handelsplätzen in viertelstündlicher Auflösung; sie sind spätestens bis 18 Uhr desselben Tages zu veröffentlichen,
+3. die nach § 2 Absatz 3 veräußerten und erworbenen Strommengen aufgeschlüsselt nach Handelsplätzen in viertelstündlicher Auflösung; sie sind spätestens am Liefertag bis 18 Uhr zu veröffentlichen,
 
-4. die nach § 2 Absatz 4 veräußerten und erworbenen Strommengen in viertelstündlicher Auflösung; sie sind spätestens am Folgetag bis 18 Uhr zu veröffentlichen,
+4. die nach § 2 Absatz 4 veräußerten und erworbenen Strommengen in viertelstündlicher Auflösung; sie sind spätestens am Tag nach dem Liefertag bis 18 Uhr zu veröffentlichen,
 
-5. die Differenz zwischen den gemäß der jeweils aktuellsten vor Handelsschluss verfügbaren Prognose insgesamt zu veräußernden Strommengen und den hierfür insgesamt nach § 2 Absatz 2 bis 4 veräußerten und erworbenen Strommengen; sie ist in viertelstündlicher Auflösung spätestens am Folgetag bis 18 Uhr zu veröffentlichen,
+5. die Differenz zwischen den gemäß der jeweils aktuellsten vor Handelsschluss verfügbaren Prognose insgesamt zu veräußernden Strommengen und den hierfür insgesamt nach § 2 Absatz 2 bis 4 veräußerten und erworbenen Strommengen; sie ist in viertelstündlicher Auflösung spätestens am Tag nach dem Liefertag bis 18 Uhr zu veröffentlichen,
 
 6. die in Anspruch genommene Ausgleichsenergie zum Ausgleich des EEG-Bilanzkreises in viertelstündlicher Auflösung; sie ist unverzüglich nach Vorlage der Bilanzkreisabrechnung zu veröffentlichen, und
 
-7. die Angaben nach § 72 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes; sie sind für jeden Kalendermonat bis zum Ablauf des zehnten Werktags des Folgemonats zu veröffentlichen.
+7. die Angaben nach § 50 Nummer 2 Buchstabe a des Energiefinanzierungsgesetzes; sie sind für jeden Kalendermonat bis zum Ablauf des zehnten Werktags des Folgemonats zu veröffentlichen.
 
 # § 4 – Anreize zur bestmöglichen Vermarktung
 
@@ -105,27 +105,39 @@ AE).</td>
 
 (7) Die Vereinnahmung des Bonus erfolgt in zwölf gleichmäßig verteilten Monatsraten. Sie beginnt zum Anfang des übernächsten Jahres bezogen auf das Anreizjahr.
 
-# § 5 – Preislimitierung in Ausnahmefällen
+# § 4a – Ermittlung der voraussichtlichen Strommengen aus fernsteuerbaren Anlagen
 
-(1) Der Übertragungsnetzbetreiber kann nach Maßgabe der folgenden Absätze für diejenigen Stunden des folgenden Tages, für die im Fall von negativen Preisen an einer der Strombörsen ein Aufruf zur zweiten Auktion ergeht, von der Verpflichtung abweichen, die vollständige gemäß aktueller Prognose vorhergesagte stündliche Einspeisung zu preisunabhängigen Geboten an den Spotmärkten dieser Strombörsen nach § 2 Absatz 2 zu veräußern. Der Übertragungsnetzbetreiber hat der Bundesnetzagentur die konkreten Stunden, in denen er von der Befugnis nach Satz 1 Gebrauch macht, unverzüglich anzuzeigen. Die Sätze 1 und 2 sind entsprechend anzuwenden auf diejenigen Stunden des Folgetages, für die aufgrund einer partiellen Entkopplung grenzüberschreitend gekoppelter Marktgebiete von der Strombörse zu einer Anpassung der Gebote aufgerufen wird.
+(1) Die Übertragungsnetzbetreiber ermitteln in ihrer Prognose, die der Veräußerung nach § 2 Absatz 2 zugrunde liegt, diejenigen Strommengen, die voraussichtlich in jeder Viertelstunde des Folgetages von fernsteuerbaren Anlagen eingespeist werden.
 
-(2) In den Fällen des Absatzes 1 ist der Übertragungsnetzbetreiber berechtigt, preislimitierte Gebote im Rahmen der Vermarktung nach § 2 Absatz 2 abzugeben. Die zu veräußernde Strommenge ist in 20 gleich große Tranchen aufzuteilen und jeweils mit einem eigenen Preislimit anzubieten. Die Preislimits müssen bei mindestens –350 Euro pro Megawattstunde und höchstens –150 Euro pro Megawattstunde liegen. Jeder Betrag in Schritten von einem Euro innerhalb dieses Rahmens wird zufallsgesteuert mit gleicher Wahrscheinlichkeit als Preislimit gesetzt. Die Preislimits müssen für jeden Fall des Absatzes 1 neu bestimmt werden. Die Preislimits sind bis zur Veröffentlichung nach Satz 7 vertraulich zu behandeln. Der Übertragungsnetzbetreiber ist verpflichtet, zwei Werktage nach Ende der Auktion auf seiner Internetseite Folgendes bekannt zu geben:
+(2) Fernsteuerbare Anlagen im Sinne des Absatzes 1 sind Anlagen, die
 
-1. Stunden, für die er ein preislimitiertes Gebot abgegeben hat,
+1. nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden Strom erzeugen und
 
-2. Höhe der Preislimits jeder Tranche und
+2. mit technischen Einrichtungen ausgestattet sind, über die der Netzbetreiber
 
-3. am Spotmarkt nach § 2 Absatz 2 unverkaufte Energiemenge.
+a) in viertelstündlicher Auflösung die Ist-Einspeisung abrufen kann und
 
-(3) Kann im Fall von preislimitierten Angeboten die nach § 2 Absatz 2 zu vermarktende Strommenge nicht oder nicht vollständig veräußert werden, weil der börslich gebildete negative Preis unterhalb des negativen Preislimits liegt, hat eine notwendige anderweitige Veräußerung dieser Strommenge soweit möglich nach § 2 Absatz 3 und 4 zu erfolgen. Der Übertragungsnetzbetreiber ist verpflichtet, gleichzeitig mit der Bekanntgabe nach Absatz 2 Satz 7 auf seiner Internetseite Folgendes bekannt zu geben:
+b) die Einspeiseleistung vollständig oder, sobald jeweils die technische Möglichkeit besteht, stufenweise oder stufenlos ferngesteuert regeln kann.
 
-1. Stunden, für die Energie nach § 2 Absatz 3 und 4 unverkauft geblieben ist,
+Die Anforderung nach Satz 1 Nummer 2 muss durch vorherige Abrufe, die auch testweise erfolgen können, sichergestellt werden.
 
-2. die Menge der in der jeweiligen Stunde unverkauften Energie.
+(3) Als fernsteuerbare Anlagen nach Absatz 2 gelten auch sonstige Anlagen nach Absatz 2 Satz 1 Nummer 1, die die Anforderung nach Absatz 2 Satz 1 Nummer 2 nicht vollständig erfüllen, wenn der Übertragungsnetzbetreiber gegenüber der Bundesnetzagentur schriftlich oder in elektronischer Form erklärt, dass solche Anlagen als fernsteuerbare Anlagen gelten sollen. Der Übertragungsnetzbetreiber kann Vereinbarungen mit Betreibern von Anlagen oder mit Dritten schließen, wenn dies erforderlich ist, um Anlagen in einer Erklärung nach Satz 1 berücksichtigen zu können. Vereinbarungen nach Satz 2 sind der Bundesnetzagentur auf Verlangen jederzeit vorzulegen. Macht der Übertragungsnetzbetreiber von der Erklärung nach Satz 1 keinen Gebrauch, legt er der Bundesnetzagentur erstmals zum 1. Januar 2026 und danach jährlich zum 1. Januar einen Bericht vor, in dem die Hemmnisse dargestellt werden, die einer Erklärung nach Satz 1 entgegenstehen. In dem Bericht sind konkrete Handlungsoptionen zur Überwindung der identifizierten Hemmnisse sowie Maßnahmen und Zeitpläne zur Umsetzung darzustellen.
 
-(4) Ist aufgrund nachprüfbarer Tatsachen zu erwarten, dass eine Veräußerung nach Absatz 3 nicht oder nur zu Preisen möglich sein wird, die deutlich unterhalb der nach Absatz 2 gesetzten negativen Preislimits liegen würden, kann der Übertragungsnetzbetreiber zur Stützung der börslichen Preise Vereinbarungen nutzen, in denen sich Stromerzeuger freiwillig verpflichten, auf Aufforderung des Übertragungsnetzbetreibers die Einspeisung von Strom ganz oder teilweise zu unterlassen oder in denen sich Stromverbraucher freiwillig verpflichten, auf Aufforderung des Übertragungsnetzbetreibers ihren Stromverbrauch in bestimmtem Ausmaß zu erhöhen. Die für freiwillige Maßnahmen nach Satz 1 gezahlten Preise dürfen nicht höher sein als die Preise, die sich am vortägigen Spotmarkt für die betreffende Stunde eingestellt hätten, wenn die im Rahmen freiwilliger Vereinbarungen von allen Übertragungsnetzbetreibern abgerufenen Mengen bereits als Nachfrage in die Preisbildung des vortägigen Spotmarkts eingegangen wären. Freiwillige Abregelungsvereinbarungen mit Stromerzeugern, die im Fall der Einspeisung eine Vergütung nach dem Erneuerbare-Energien-Gesetz erhielten, dürfen erst genutzt werden, wenn Vereinbarungen mit anderen Stromerzeugern oder Stromverbrauchern vollständig ausgenutzt wurden. Der Übertragungsnetzbetreiber hat eine Verfahrensanweisung zu entwickeln, in welchen Fällen und in welcher Weise er von den Bestimmungen dieses Absatzes Gebrauch machen wird. Die Verfahrensanweisung und etwaige Änderungen derselben sind der Bundesnetzagentur vor der erstmaligen Anwendung anzuzeigen. Die in diesem Absatz genannten Vereinbarungen sind der Bundesnetzagentur auf Verlangen jederzeit vorzulegen. Der Übertragungsnetzbetreiber ist verpflichtet, gleichzeitig mit der Bekanntgabe nach Absatz 2 Satz 7 auf seiner Internetseite bekannt zu geben, für welche Stunden und für welche Energiemenge in der jeweiligen Stunde er von Vereinbarungen im Sinn des Satzes 1 Gebrauch gemacht hat.
+(4) Die durch Absatz 3 entstehenden angemessenen Kosten gelten als Ausgaben im Sinn der Anlage 1 Nummer 5.2 zum Energiefinanzierungsgesetz. Sie können nur dann in den EEG-Finanzierungsbedarf einkalkuliert werden, wenn die in Absatz 3 enthaltenen Vorschriften und Bestimmungen und die in Aufsichtsmaßnahmen der Bundesnetzagentur enthaltenen Maßgaben eingehalten wurden.
 
-(5) Die durch die in Absatz 4 genannten Maßnahmen entstehenden Kosten gelten als Kosten für den untertägigen Ausgleich im Sinn der Anlage 1 Nummer 5.3 des Energiefinanzierungsgesetzes. Sie können nur dann in den EEG-Finanzierungsbedarf einkalkuliert werden, wenn die in den vorstehenden Absätzen enthaltenen Vorschriften und Bestimmungen und die in Aufsichtsmaßnahmen der Bundesnetzagentur enthaltenen Maßgaben eingehalten wurden.
+# § 5 – Preislimitierung
+
+(1) Der Übertragungsnetzbetreiber hat abweichend von § 2 Absatz 2 die nach aktueller Prognose vorhergesagte viertelstündliche Einspeisung von Strommengen aus fernsteuerbaren Anlagen über eine marktgekoppelte Auktion vollständig zu preislimitierten Geboten am Day-Ahead-Markt einer Strombörse nach Maßgabe des Absatzes 2 anzubieten.
+
+(2) Die nach Absatz 1 zu veräußernde Strommenge ist in 20 gleich große Tranchen aufzuteilen und jeweils mit einem eigenen Preislimit anzubieten. Die Preislimits müssen bei mindestens -200 Euro pro Megawattstunde und höchstens -100 Euro pro Megawattstunde liegen. Jeder Betrag in Schritten von einem Euro innerhalb dieses Rahmens wird zufallsgesteuert mit gleicher Wahrscheinlichkeit als Preislimit gesetzt. Die Preislimits müssen für jeden Fall des Absatzes 1 neu bestimmt werden. Die Preislimits sind bis zur Veröffentlichung nach Satz 6 vertraulich zu behandeln. Der Übertragungsnetzbetreiber ist verpflichtet, zwei Werktage nach Ende der Auktion auf seiner Internetseite Folgendes bekannt zu geben:
+
+1. Höhe der Preislimits jeder Tranche, für die er nach Absatz 1 preislimitierte Gebote am Day-Ahead-Markt abgegeben hat, und
+
+2. am Day-Ahead-Markt unverkauft gebliebene Strommengen, je Tranche, für die er nach Absatz 1 preislimitierte Gebote am Day-Ahead-Markt abgegeben hat.
+
+(3) Wird im Fall von preislimitierten Angeboten nach Absatz 1 die nach § 2 Absatz 2 zu vermarktende Strommenge aus fernsteuerbaren Anlagen nicht oder nicht vollständig veräußert, veranlasst der Übertragungsnetzbetreiber die Reduzierung der Wirkleistungseinspeisung von fernsteuerbaren Anlagen in Höhe der nicht veräußerten Strommenge. Für die Reduzierung der Wirkleistungseinspeisung nach Satz 1 sind die §§ 13a und 14 Absatz 1c des Energiewirtschaftsgesetzes entsprechend anzuwenden mit der Maßgabe, dass weder ein bilanzieller Ausgleich noch ein bilanzieller Ersatz erfolgt und für Anlagen, die unter die Regelung des § 51 Absatz 2 Satz 1 Nummer 1 des Erneuerbare-Energien-Gesetzes fallen, auch kein finanzieller Ausgleich erfolgt. Der Übertragungsnetzbetreiber ist verpflichtet, gleichzeitig mit der Bekanntgabe nach Absatz 2 Satz 6 auf seiner Internetseite bekannt zu geben, für welche Viertelstunden und für welche Strommengen in der jeweiligen Viertelstunde er die Reduzierung der Einspeiseleistung veranlasst hat.
+
+(4) Die durch die in Absatz 3 genannten Maßnahmen entstehenden Kosten gelten als Ausgaben im Sinn der Anlage 1 Nummer 5.2 zum Energiefinanzierungsgesetz. Sie können nur dann in den EEG-Finanzierungsbedarf einkalkuliert werden, wenn die in den vorstehenden Absätzen enthaltenen Vorschriften und Bestimmungen und die in Aufsichtsmaßnahmen der Bundesnetzagentur enthaltenen Maßgaben eingehalten wurden.
 
 # § 6 – (weggefallen)
 

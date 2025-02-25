@@ -377,7 +377,7 @@ Einwände gegen Forderungen nach diesem Teil berechtigen zum Zahlungsaufschub od
 
 # § 21 – Umlageerhebung bei Stromspeichern und Verlustenergie
 
-(1) Für die Netzentnahme von Strom, der in einem Kalenderjahr zum Zweck der Zwischenspeicherung in einem elektrischen, chemischen, mechanischen oder physikalischen Stromspeicher verbraucht wird, verringert sich der Anspruch auf Zahlung der Umlagen in dem Umfang auf null, in dem Strom, der mit dem Stromspeicher in diesem Kalenderjahr erzeugt wird, in ein Netz eingespeist wird. Werden in dem Stromspeicher Strommengen, für die unterschiedlich hohe Ansprüche auf Zahlung von Umlagen bestehen, verbraucht, entfällt die Pflicht zur Zahlung der Umlagen in dem Verhältnis des Verbrauchs der unterschiedlichen Strommengen zueinander.
+(1) Für die Netzentnahme von Strom, der in einem Kalenderjahr zum Zweck der Zwischenspeicherung in einem elektrischen, chemischen, mechanischen oder physikalischen Stromspeicher verbraucht wird, verringert sich der Anspruch auf Zahlung der Umlagen in dem Umfang auf null, in dem Strom, der in dem Stromspeicher in diesem Kalenderjahr erzeugt wird, in ein Netz eingespeist wird. Werden in dem Stromspeicher Strommengen, für die unterschiedlich hohe Ansprüche auf Zahlung von Umlagen bestehen, verbraucht, entfällt die Pflicht zur Zahlung der Umlagen in dem Verhältnis des Verbrauchs der unterschiedlichen Strommengen zueinander.
 
 (2) Für die Netzentnahme von Strom, der zum Zweck der Zwischenspeicherung in einem elektrischen, chemischen, mechanischen oder physikalischen Stromspeicher verbraucht wird, verringert sich der Anspruch auf Zahlung der Umlagen auf null, soweit die in dem Stromspeicher gespeicherte Energie nicht wieder entnommen wird (Stromspeicherverlust). Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
@@ -387,9 +387,27 @@ Einwände gegen Forderungen nach diesem Teil berechtigen zum Zahlungsaufschub od
 
 2. der Verbrauch von über einen Ladepunkt bezogenem Strom in einem Elektromobil als in dem Ladepunkt verbraucht gilt und
 
-3. der mit dem Elektromobil erzeugte und über den Ladepunkt in ein Netz eingespeiste Strom als mit dem Ladepunkt erzeugt gilt.
+3. der in dem Elektromobil erzeugte und über den Ladepunkt in ein Netz eingespeiste Strom als in dem Ladepunkt erzeugt gilt.
 
-(4) Der Anspruch auf Zahlung der Umlagen verringert sich nach den Absätzen 1 bis 3 nur, wenn der Netznutzer seine Mitteilungspflichten nach Teil 5 erfüllt hat. § 46 Absatz 1 ist mit der Maßgabe entsprechend anzuwenden, dass sämtliche Strommengen, die bei der Anwendung von Absatz 1 in Ansatz gebracht werden, mess- und eichrechtskonform erfasst oder abgegrenzt werden müssen. § 46 Absatz 5 Satz 1 und 2 ist mit der Maßgabe entsprechend anzuwenden, dass sowohl für die Netzentnahme für den zeitgleichen Verbrauch in dem Stromspeicher als auch für die Stromerzeugung mit dem Stromspeicher für die zeitgleiche Einspeisung in ein Elektrizitätsversorgungsnetz Strom höchstens bis zu der Höhe der tatsächlichen Netzentnahme als Verbrauch in dem Stromspeicher (Zeitgleichheit von Netzentnahme und Verbrauch) und bis zur Höhe der tatsächlichen Netzeinspeisung als Stromerzeugung mit dem Stromspeicher (Zeitgleichheit von Stromerzeugung und Netzeinspeisung bezogen auf jedes 15-Minuten-Intervall im Sinn des Absatzes 1) in Ansatz gebracht werden darf. § 46 Absatz 2 bis 4 und 5 Satz 3 ist nicht anzuwenden.
+(4) Der Anspruch auf Zahlung der Umlagen verringert sich nach den Absätzen 1 bis 3 nur, wenn der Netznutzer seine Mitteilungspflichten nach Teil 5 erfüllt hat. § 46 Absatz 1 ist mit der Maßgabe entsprechend anzuwenden, dass sämtliche Strommengen, die bei der Anwendung von Absatz 1 in Ansatz gebracht werden, mess- und eichrechtskonform erfasst oder abgegrenzt werden müssen. Die Strommenge, die im Sinn des Absatzes 1 Satz 1 zum Zweck der Zwischenspeicherung dem Netz entnommen wird, ist nach den folgenden Maßgaben zu bestimmen:
+
+1. sie ist für jedes 15-Minuten-Intervall anhand der tatsächlichen Netzentnahme und des zeitgleichen tatsächlichen Speicherverbrauchs zu ermitteln,
+
+2. sie entspricht dem niedrigeren Wert aus der tatsächlichen Netzentnahmemenge und dem zeitgleichen tatsächlichen Speicherverbrauch in dem 15-Minuten-Intervall und
+
+3. eine mess- und eichrechtskonforme Messung der Netzentnahme und des Speicherverbrauchs bezogen auf jedes 15-Minuten-Intervall ist nur erforderlich, wenn nicht schon anderweitig sichergestellt ist, dass Strom in der Höhe des niedrigeren Wertes nach Nummer 2 bezogen auf jedes 15-Minuten-Intervall in Ansatz gebracht wird.
+
+Die Strommenge, die im Sinn des Absatzes 1 Satz 1 in dem Stromspeicher erzeugt in ein Netz eingespeist wird, ist nach den folgenden Maßgaben zu bestimmen:
+
+1. sie ist für jedes 15-Minuten-Intervall anhand der tatsächlichen Netzeinspeisung und der zeitgleichen tatsächlichen Speichererzeugung zu ermitteln,
+
+2. sie entspricht dem niedrigeren Wert aus der tatsächlichen Netzeinspeisemenge und der zeitgleichen tatsächlichen Speichererzeugung in dem 15-Minuten-Intervall und
+
+3. eine mess- und eichrechtskonforme Messung der Netzeinspeisung und der Speichererzeugung bezogen auf jedes 15-Minuten-Intervall ist nur erforderlich, wenn nicht schon anderweitig sichergestellt ist, dass Strom in der Höhe des niedrigeren Wertes nach Nummer 2 bezogen auf jedes 15-Minuten-Intervall in Ansatz gebracht wird.
+
+§ 46 Absatz 2 bis 5 ist nicht anzuwenden.
+
+(4a) In Kalenderjahren, in denen für den ins Netz eingespeisten Strom ein Zahlungsanspruch nach der Pauschaloption nach § 19 Absatz 3 Satz 1 Nummer 3 und Absatz 3c in Verbindung mit § 19 Absatz 1 Nummer 1 des Erneuerbare-Energien-Gesetzes geltend gemacht wird, verringert sich der Anspruch auf Zahlung der Umlagen für die Netzentnahme auf Strom abweichend von den Absätzen 1 bis 4 in dem Umfang auf null, in dem für die an dieser Einspeisestelle eingespeiste Strommenge kein Anspruch nach § 19 Absatz 3 Satz 1 Nummer 3 und Absatz 3c in Verbindung mit § 19 Absatz 1 Nummer 1 des Erneuerbare-Energien-Gesetzes besteht, höchstens jedoch für die in dem Kalenderjahr aus dem Netz entnommene Strommenge.
 
 (5) Der Anspruch auf Zahlung der Umlagen verringert sich auch für die Netzentnahme von Strom, der zur Erzeugung von Speichergas verbraucht wird, das in das Erdgasnetz eingespeist wird, in dem Umfang auf null, in dem das Speichergas unter Berücksichtigung der Anforderungen nach § 44b Absatz 4 Nummer 1 und 2 des Erneuerbare-Energien-Gesetzes zur Stromerzeugung eingesetzt und der erzeugte Strom in das Netz eingespeist wird.
 
@@ -1195,13 +1213,15 @@ e) die Konten nach § 48 führen und
 
 (2) Die Bundesnetzagentur kann unter Berücksichtigung des Ziels nach § 1 des Erneuerbare-Energien-Gesetzes und § 1 Absatz 1 des Kraft-Wärme-Kopplungsgesetzes Festlegungen nach § 29 Absatz 1 des Energiewirtschaftsgesetzes treffen
 
-1. zu den Voraussetzungen der Befreiung von Stromspeichern von einer Doppelbelastung mit Umlagen nach § 21 Absatz 1, 2 und 4 und zu den insoweit nach § 21 Absatz 1 zu erfüllenden Anforderungen, insbesondere
+1. zu den Voraussetzungen der Verringerung der Umlagen nach § 21 und zu den insoweit zu erfüllenden Anforderungen, insbesondere
 
 a) zu dem Nachweis der Netzentnahme,
 
-b) zu dem Nachweis der Netzeinspeisung und
+b) zu dem Nachweis der Netzeinspeisung,
 
-c) zu den Mindestanforderungen, die erfüllt sein müssen, um eine mess- und eichrechtskonforme Erfassung oder Abgrenzung der relevanten Strommengen sicherzustellen,
+c) zu den Mindestanforderungen, die erfüllt sein müssen, um eine mess- und eichrechtskonforme Erfassung oder Abgrenzung der relevanten Strommengen sicherzustellen, und
+
+d) zu den Bedingungen für eine Anwendung von § 21 Absatz 4a für den Fall, dass die Inbetriebnahme des Stromspeichers oder ein Wechsel in die Pauschaloption nach § 19 Absatz 3c des Erneuerbare-Energien-Gesetzes während des laufenden Kalenderjahres erfolgt,
 
 2. im Anwendungsbereich des § 25 dazu, welche Verbrauchsgeräte als Einrichtungen zur Herstellung von Grünem Wasserstoff anzusehen sind.
 
