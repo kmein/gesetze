@@ -584,7 +584,7 @@ In einer Besonderen Gebührenverordnung des Bundesministeriums für Wirtschaft u
 
 (Inkrafttreten)
 
-# Anlage – (zu § 1 Abs. 1)  Kriegswaffenliste
+# Anlage – (zu § 1 Abs. 1)Kriegswaffenliste
 
 Fundstelle des Originaltextes: BGBl. I 1990, 2515 - 2519;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1025,7 +1025,11 @@ VII\. Torpedos, Minen, Bomben, eigenständige Munition
 
 46. Handgranaten
 
-47. Pioniersprengkörper, Hohl- und Haftladungen sowie sprengtechnische Minenräummittel
+47. Pioniersprengkörper, sprengtechnische Minenräummittel sowie Hohl- und Haftladungen, ausgenommen solche Hohl- und Haftladungen,
+
+a) für die nach § 5 Absatz 1 Nummer 1 des Sprengstoffgesetzes ein Konformitätsnachweis vorliegt und die mit der CE-Kennzeichnung nach § 5 Absatz 1 Nummer 2 des Sprengstoffgesetzes versehen sind oder
+
+b) die eine Nettoexplosivstoffmasse von nicht mehr als 40 Gramm aufweisen
 
 48. Sprengladungen für die Waffen der Nummer 43
 
@@ -1057,7 +1061,7 @@ IX\. Sonstige wesentliche Bestandteile
 
 56. Gefechtsköpfe für die Waffen der Nummern 7 bis 9 und 40
 
-57. Zünder für die Waffen der Nummern 7 bis 9, 40, 43, 44, 46, 47, 49, 51 bis 53 und 59, ausgenommen Treibladungsanzünder
+57. Zünder für die Waffen der Nummern 7 bis 9, 40, 43, 44, 46, 47, ausgenommen solche, für die nach § 5 Absatz 1 Nummer 1 des Sprengstoffgesetzes ein Konformitätsnachweis vorliegt und die mit der CE-Kennzeichnung nach § 5 Absatz 1 Nummer 2 des Sprengstoffgesetzes versehen sind, 49, 51 bis 53 und 59
 
 58. Zielsuchköpfe für die Waffen der Nummern 7, 9, 40, 44, 49, 59 und 60
 
