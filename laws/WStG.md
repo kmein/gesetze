@@ -65,7 +65,7 @@
 |                         |                                                               | Wachverfehlung                                        | § 44  |
 |                         |                                                               | Pflichtverletzung bei Sonderaufträgen                 | § 45  |
 |                         |                                                               | Rechtswidriger Waffengebrauch                         | § 46  |
-|                         |                                                               | weggefallen                                           | § 47  |
+|                         |                                                               | Tätigkeit für eine fremde Macht                       | § 47  |
 |                         |                                                               | Verletzung anderer Dienstpflichten                    | § 48  |
 
 # § 1 – Geltungsbereich
@@ -74,15 +74,17 @@
 
 (2) Es gilt auch für Straftaten, durch die militärische Vorgesetzte, die nicht Soldaten sind, ihre Pflichten verletzen (§§ 30 bis 41).
 
-(3) Wegen Verletzung von Privatgeheimnissen (§ 203 Absatz 2, 5 und 6, §§ 204, 205 des Strafgesetzbuches), wegen Verletzung des Post- oder Fernmeldegeheimnisses (§ 206 Abs. 4 des Strafgesetzbuches) und wegen Verletzung des Dienstgeheimnisses (§ 353b Abs. 1 des Strafgesetzbuches) sind nach Maßgabe des § 48 auch frühere Soldaten strafbar, soweit ihnen diese Geheimnisse während des Wehrdienstes anvertraut worden oder sonst bekanntgeworden sind.
+(3) Wegen einer Tätigkeit für eine fremde Macht (§ 47) sind auch frühere Soldaten strafbar.
 
-(4) Wegen Anstiftung und Beihilfe zu militärischen Straftaten sowie wegen Versuchs der Beteiligung an solchen Straftaten ist nach diesem Gesetz auch strafbar, wer nicht Soldat ist.
+(4) Wegen Verletzung von Privatgeheimnissen (§ 203 Absatz 2, 5 und 6, §§ 204, 205 des Strafgesetzbuches), wegen Verletzung des Post- oder Fernmeldegeheimnisses (§ 206 Abs. 4 des Strafgesetzbuches) und wegen Verletzung des Dienstgeheimnisses (§ 353b Abs. 1 des Strafgesetzbuches) sind nach Maßgabe des § 48 auch frühere Soldaten strafbar, soweit ihnen diese Geheimnisse während des Wehrdienstes anvertraut worden oder sonst bekanntgeworden sind.
+
+(5) Wegen Anstiftung und Beihilfe zu militärischen Straftaten sowie wegen Versuchs der Beteiligung an solchen Straftaten ist nach diesem Gesetz auch strafbar, wer nicht Soldat ist.
 
 # § 1a – Auslandstaten
 
 (1) Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für Taten, die nach diesem Gesetz mit Strafe bedroht sind und im Ausland begangen werden, wenn der Täter
 
-1. Soldat ist oder zu den in § 1 Abs. 2 bezeichneten Personen gehört oder
+1. Soldat oder früherer Soldat ist oder zu den in § 1 Abs. 2 bezeichneten Personen gehört oder
 
 2. Deutscher ist und seine Lebensgrundlage im räumlichen Geltungsbereich dieses Gesetzes hat.
 
@@ -448,9 +450,17 @@ und dadurch wenigstens fahrlässig eine schwerwiegende Folge (§ 2 Nr. 3) verurs
 
 Wer von der Waffe einen rechtswidrigen Gebrauch macht, wird mit Freiheitsstrafe bis zu einem Jahr bestraft, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht ist.
 
-# § 47
+# § 47 – Tätigkeit für eine fremde Macht
 
-(weggefallen)
+(1) Wer als Soldat oder früherer Soldat ohne die nach § 20 oder § 20a des Soldatengesetzes erforderliche Genehmigung eine Tätigkeit für eine fremde Macht oder einen ihrer Mittelsmänner ausübt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+(2) Wer in den Fällen des Absatzes 1 leichtfertig handelt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
+
+(3) Die Tat ist nicht strafbar, wenn eine Gefahr für die Sicherheitsinteressen der Bundesrepublik Deutschland auf Grund der ausgeübten Tätigkeit offensichtlich ausgeschlossen werden kann.
+
+(4) Die Tat wird nur mit Ermächtigung des Bundesministeriums der Verteidigung verfolgt.
+
+(5) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49 Absatz 2 des Strafgesetzbuches) oder von einer Bestrafung nach diesen Vorschriften absehen, wenn der Täter freiwillig sein Verhalten aufgibt und sein Wissen einer Dienststelle offenbart. Ist der Täter von der fremden Macht oder einem ihrer Mittelsmänner zu seinem Verhalten gedrängt worden, so wird er nach diesen Vorschriften nicht bestraft, wenn er freiwillig sein Verhalten aufgibt und sein Wissen unverzüglich einer Dienststelle offenbart.
 
 # § 48 – Verletzung anderer Dienstpflichten
 
