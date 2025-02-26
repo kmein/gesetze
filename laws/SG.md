@@ -967,11 +967,13 @@ Tätigkeiten nach Satz 1 Nr. 2 und 3 sowie eine Tätigkeit in Selbsthilfeeinrich
 
 # § 20a – Tätigkeit nach dem Ausscheiden aus dem Wehrdienst
 
-(1) Ein Berufssoldat im Ruhestand oder ein früherer Soldat mit Anspruch auf Dienstzeitversorgung hat eine Erwerbstätigkeit oder sonstige Beschäftigung außerhalb des öffentlichen Dienstes, die mit seiner dienstlichen Tätigkeit in den letzten fünf Jahren vor seinem Ausscheiden aus dem Wehrdienst im Zusammenhang steht und durch die dienstliche Interessen beeinträchtigt werden können, vor ihrer Aufnahme schriftlich anzuzeigen. Die Anzeigepflicht endet fünf Jahre nach dem Ausscheiden aus dem Wehrdienst. Die Sätze 1 und 2 gelten auch für frühere Soldaten mit Anspruch auf Altersgeld nach dem Altersgeldgesetz.
+(1) Ein Berufssoldat im Ruhestand oder ein früherer Soldat mit Anspruch auf Dienstzeitversorgung hat eine Erwerbstätigkeit oder sonstige Beschäftigung außerhalb des öffentlichen Dienstes, die mit seiner dienstlichen Tätigkeit in den letzten fünf Jahren vor seinem Ausscheiden aus dem Wehrdienst im Zusammenhang steht und durch die dienstliche Interessen beeinträchtigt werden können, vor ihrer Aufnahme schriftlich oder elektronisch anzuzeigen. Die Anzeigepflicht endet fünf Jahre nach dem Ausscheiden aus dem Wehrdienst. Die Sätze 1 und 2 gelten auch für frühere Soldaten mit Anspruch auf Altersgeld nach dem Altersgeldgesetz.
 
-(2) Die Erwerbstätigkeit oder sonstige Beschäftigung ist zu untersagen, soweit zu besorgen ist, dass durch sie dienstliche Interessen beeinträchtigt werden. Die Untersagung ist für den Zeitraum bis zum Ende der Anzeigepflicht auszusprechen, es sei denn, die Voraussetzungen für eine Untersagung liegen nur für einen kürzeren Zeitraum vor.
+(1a) Frühere Berufssoldaten oder frühere Soldaten auf Zeit bedürfen für die Aufnahme einer Erwerbstätigkeit oder sonstigen Beschäftigung für eine fremde Macht oder einen ihrer Mittelsmänner der vorherigen Genehmigung, sofern die beabsichtigte Erwerbstätigkeit oder sonstige Beschäftigung im Zusammenhang mit der früheren dienstlichen Tätigkeit steht. Die Pflicht zur Einholung der Genehmigung endet zehn Jahre nach dem Ausscheiden aus dem Wehrdienst.
 
-(3) Die Anzeige nach Absatz 1 ist an das Bundesministerium der Verteidigung zu richten, das auch für die Untersagung nach Absatz 2 zuständig ist. Es kann seine Zuständigkeit auf andere Stellen übertragen.
+(2) Die Erwerbstätigkeit oder sonstige Beschäftigung im Sinne des Absatzes 1 ist zu untersagen, soweit zu besorgen ist, dass durch sie dienstliche Interessen beeinträchtigt werden. Die Untersagung ist für den Zeitraum bis zum Ende der Anzeigepflicht auszusprechen, es sei denn, die Voraussetzungen für eine Untersagung liegen nur für einen kürzeren Zeitraum vor. Satz 1 gilt für die Versagung der Genehmigung der Tätigkeit oder sonstigen Beschäftigung im Sinne des Absatzes 1a entsprechend.
+
+(3) Die Anzeige der Tätigkeit oder sonstigen Beschäftigung im Sinne des Absatzes 1 ist an das Bundesministerium der Verteidigung zu richten, das auch für deren Untersagung zuständig ist. Die Genehmigung der Tätigkeit oder sonstigen Beschäftigung im Sinne des Absatzes 1a erteilt das Bundesministerium der Verteidigung. Es kann seine Zuständigkeiten auf andere Stellen übertragen.
 
 # § 21 – Vormundschaft und Ehrenämter
 
@@ -987,7 +989,7 @@ Der Bundesminister der Verteidigung oder die von ihm bestimmte Stelle kann einem
 
 (2) Es gilt als Dienstvergehen,
 
-1. wenn ein Soldat nach seinem Ausscheiden aus dem Wehrdienst seine Pflicht zur Verschwiegenheit verletzt oder gegen das Verbot verstößt, Belohnungen oder Geschenke anzunehmen oder eine Tätigkeit nach § 20a nicht anzeigt oder entgegen einem Verbot ausübt,
+1. wenn ein Soldat nach seinem Ausscheiden aus dem Wehrdienst seine Pflicht zur Verschwiegenheit verletzt oder gegen das Verbot verstößt, Belohnungen oder Geschenke anzunehmen, oder eine Tätigkeit im Sinne des § 20a Absatz 1 nicht anzeigt oder entgegen einer Untersagung ausübt oder eine Tätigkeit im Sinne des § 20a Absatz 1a ohne die erforderliche Genehmigung ausübt,
 
 2. wenn sich ein Offizier oder Unteroffizier nach seinem Ausscheiden aus dem Wehrdienst gegen die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes betätigt oder durch unwürdiges Verhalten nicht der Achtung und dem Vertrauen gerecht wird, die für seine Wiederverwendung als Vorgesetzter erforderlich sind,
 
@@ -1017,7 +1019,7 @@ Der Bundesminister der Verteidigung oder die von ihm bestimmte Stelle kann einem
 
 # § 26 – Verlust des Dienstgrades
 
-Der Soldat verliert seinen Dienstgrad nur kraft Gesetzes oder durch Richterspruch. Das Nähere über den Verlust des Dienstgrades durch Richterspruch regelt die Wehrdisziplinarordnung.
+Der Soldat verliert seinen Dienstgrad nur kraft Gesetzes oder durch Richterspruch. Das Nähere über den Verlust des Dienstgrades durch Richterspruch regelt die Wehrdisziplinarordnung. Ein Verzicht auf den Dienstgrad ist nicht zulässig.
 
 # § 27 – Laufbahnvorschriften
 
@@ -1081,6 +1083,8 @@ Ständige ordentliche Mitglieder sind der Präsident des Bundesrechnungshofes al
 5. die Bekanntgabe des Ergebnisses eines Beurteilungsdurchgangs und
 
 6. Ausnahmen von der Beurteilungs- und Personalentwicklungsbewertungspflicht.
+
+(5) Für Rechtsbehelfe gegen dienstliche Beurteilungen und Personalentwicklungsbewertungen ist der Rechtsweg zu den Wehrdienstgerichten eröffnet. Die Wehrbeschwerdeordnung gilt entsprechend mit der Maßgabe, dass über Beschwerden entscheidet, wer den Gegenstand der jeweiligen Beschwerde zu beurteilen hat.
 
 # § 27b – Referenzgruppen; Verordnungsermächtigung
 
@@ -1567,7 +1571,7 @@ An Stelle der Worte "unter Berufung" können die Worte "ich berufe" verwendet we
 
 # § 44 – Eintritt oder Versetzung in den Ruhestand
 
-(1) Ein Berufssoldat tritt in den Ruhestand mit Ablauf des Monats, in dem er die nach § 45 Abs. 1 festgesetzte allgemeine Altersgrenze erreicht hat. Der Eintritt in den Ruhestand kann aus dienstlichen Gründen bis zum Ablauf des 31. März oder 30. September, der dem Erreichen der allgemeinen Altersgrenze folgt, hinausgeschoben werden. Wenn dringende dienstliche Gründe im Einzelfall die Fortführung des Dienstes erfordern, kann das Bundesministerium der Verteidigung den Eintritt in den Ruhestand hinausschieben, jedoch für nicht mehr als drei Jahre. Der Eintritt in den Ruhestand kann auf Antrag des Berufssoldaten um bis zu einem Jahr hinausgeschoben werden, wenn dies im dienstlichen Interesse liegt. Der Antrag soll spätestens drei Jahre vor dem Erreichen der allgemeinen Altersgrenze gestellt werden. Ist ein Berufssoldat während einer besonderen Auslandsverwendung zum Zeitpunkt des vorgesehenen Eintritts in den Ruhestand wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die er nicht zu vertreten hat, dem Einflussbereich des Dienstherrn entzogen, ist der Eintritt in den Ruhestand bis zum Ablauf des auf die Beendigung dieses Zustands folgenden Monats hinauszuschieben; dies gilt auch bei anderen Verwendungen im Ausland mit vergleichbarer Gefährdungslage.
+(1) Ein Berufssoldat tritt in den Ruhestand mit Ablauf des Monats, in dem er die nach § 45 Abs. 1 festgesetzte allgemeine Altersgrenze erreicht hat. Der Eintritt in den Ruhestand kann aus dienstlichen Gründen bis zum Ablauf des 31. März oder 30. September, der dem Erreichen der allgemeinen Altersgrenze folgt, hinausgeschoben werden. Wenn dringende dienstliche Gründe im Einzelfall die Fortführung des Dienstes erfordern, kann das Bundesministerium der Verteidigung oder eine von ihm beauftragte Stelle den Eintritt in den Ruhestand hinausschieben, jedoch für nicht mehr als drei Jahre. Der Eintritt in den Ruhestand kann auf Antrag des Berufssoldaten um bis zu einem Jahr hinausgeschoben werden, wenn dies im dienstlichen Interesse liegt. Der Antrag soll spätestens drei Jahre vor dem Erreichen der allgemeinen Altersgrenze gestellt werden. Ist ein Berufssoldat während einer besonderen Auslandsverwendung zum Zeitpunkt des vorgesehenen Eintritts in den Ruhestand wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die er nicht zu vertreten hat, dem Einflussbereich des Dienstherrn entzogen, ist der Eintritt in den Ruhestand bis zum Ablauf des auf die Beendigung dieses Zustands folgenden Monats hinauszuschieben; dies gilt auch bei anderen Verwendungen im Ausland mit vergleichbarer Gefährdungslage.
 
 (2) Ein Berufssoldat, der die für ihn geltende besondere Altersgrenze nach § 45 Absatz 2 erreicht hat, kann zum Ende eines Kalendermonats in den Ruhestand versetzt werden. Dem Berufssoldaten ist auf Antrag die Fortsetzung des Dienstverhältnisses um bis zu zwei Jahre über die besondere Altersgrenze hinaus zuzusichern, wenn dies im dienstlichen Interesse liegt. Der Antrag soll spätestens drei Jahre vor Erreichen der besonderen Altersgrenze gestellt werden.
 
@@ -1947,6 +1951,8 @@ Regelungen in anderen Gesetzen oder Rechtsverordnungen, die an die Ableistung de
 
 (2) Während der Probezeit kann der Soldat zum 15. oder zum Letzten eines Monats entlassen werden. Die Entlassungsverfügung ist spätestens zwei Wochen vor dem Entlassungstermin bekannt zu geben. Auf schriftlichen Antrag des Soldaten ist dieser während der Probezeit zum 15. oder Letzten eines Monats zu entlassen. Die Entlassung ist in den ersten fünf Monaten einen Monat vor dem Entlassungstag zu beantragen.
 
+(3) Wird einem Antrag nach § 58e Absatz 3 stattgegeben, so kann der Soldat entlassen werden, wenn eine anderweitige Verwendung nicht möglich ist.
+
 # § 59 – Personenkreis
 
 (1) Ein früherer Berufssoldat, der wegen Erreichens einer allgemeinen Altersgrenze in den Ruhestand getreten ist oder wegen Erreichens einer besonderen Altersgrenze in den Ruhestand versetzt worden ist, kann bis zum Ablauf des Monats, in dem er das 65. Lebensjahr vollendet hat, zu den in § 60 genannten Dienstleistungen herangezogen werden. Zu den in § 60 Nummer 2 bis 5 genannten Dienstleistungen kann er nur mit seiner freiwilligen schriftlichen Verpflichtung herangezogen werden.
@@ -2133,7 +2139,7 @@ Ungediente Personen, die sich gemäß § 59 Abs. 3 Satz 1 freiwillig zu Dienstle
 
 (1) Ungediente Dienstleistungspflichtige (§ 59 Abs. 3 Satz 1), die nach § 71 verfügbar sind, werden durch die Karrierecenter der Bundeswehr zu Dienstleistungen herangezogen. Die Art der Dienstleistung sowie Ort und Zeit des Diensteintritts werden durch Heranziehungsbescheid bekannt gegeben. Im Heranziehungsbescheid ist die Dauer der zu leistenden Dienstleistung anzugeben; dies gilt nicht für die Heranziehung zum Wehrdienst im Spannungs- oder Verteidigungsfall nach § 60 Nr. 6 und zu Übungen als Bereitschaftsdienst nach § 61 Abs. 3.
 
-(2) Die Dienstleistungspflichtigen haben sich entsprechend dem Heranziehungsbescheid zu Dienstleistungen in der Bundeswehr zu stellen.
+(2) Die Dienstleistungspflichtigen haben sich entsprechend dem Heranziehungsbescheid zu Dienstleistungen im Geschäftsbereich des Bundesministeriums der Verteidigung zu stellen.
 
 (3) Der Heranziehungsbescheid soll vier Wochen vor dem Beginn der Dienstleistung zugestellt sein. Dienstleistungspflichtige können ohne Einhaltung einer Frist einberufen werden, wenn
 
@@ -2149,7 +2155,7 @@ Ungediente Personen, die sich gemäß § 59 Abs. 3 Satz 1 freiwillig zu Dienstle
 
 # § 73 – Heranziehung von gedienten Dienstleistungspflichtigen
 
-Dienstleistungspflichtige, die bereits in der Bundeswehr gedient haben, werden nach Feststellung ihrer Verfügbarkeit durch die Wehrersatzbehörden zu Dienstleistungen herangezogen. Sie sind zu hören, wenn seit dem Ausscheiden aus dem Wehrdienst mehr als drei Jahre verstrichen sind, und auf Antrag oder, wenn Anhaltspunkte für eine Veränderung des Gesundheitszustandes vorliegen oder dies für eine vorgesehene Verwendung im Wehrdienst erforderlich ist, erneut ärztlich zu untersuchen. Auf die Untersuchung finden § 17a Absatz 2 bis 4 sowie § 71 Satz 5 und 6 entsprechende Anwendung. Die Dienstleistungspflichtigen haben sich nach Aufforderung durch die Karrierecenter der Bundeswehr vorzustellen und ärztlich untersuchen zu lassen. Sie haben sich entsprechend dem Heranziehungsbescheid zu Dienstleistungen in der Bundeswehr zu stellen. § 72 Abs. 1 und 3 gilt entsprechend.
+Dienstleistungspflichtige, die bereits in der Bundeswehr gedient haben, werden nach Feststellung ihrer Verfügbarkeit durch die Wehrersatzbehörden zu Dienstleistungen herangezogen. Sie sind zu hören, wenn seit dem Ausscheiden aus dem Wehrdienst mehr als drei Jahre verstrichen sind, und auf Antrag oder, wenn Anhaltspunkte für eine Veränderung des Gesundheitszustandes vorliegen oder dies für eine vorgesehene Verwendung im Wehrdienst erforderlich ist, erneut ärztlich zu untersuchen. Auf die Untersuchung finden § 17a Absatz 2 bis 4 sowie § 71 Satz 5 und 6 entsprechende Anwendung. Die Dienstleistungspflichtigen haben sich nach Aufforderung durch die Karrierecenter der Bundeswehr vorzustellen und ärztlich untersuchen zu lassen. Sie haben sich entsprechend dem Heranziehungsbescheid zu Dienstleistungen im Geschäftsbereich des Bundesministeriums der Verteidigung zu stellen. § 72 Abs. 1 und 3 gilt entsprechend.
 
 # § 74 – Beendigung der Dienstleistungen
 
@@ -2377,9 +2383,9 @@ Ein Bewerber nach § 87 Abs. 1, der in das Dienstverhältnis eines Berufssoldate
 
 1. bei Erlass und Vollzug eines Haftbefehls oder Unterbringungsbefehls an den nächsten Disziplinarvorgesetzten des Soldaten oder dessen Vertreter im Amt,
 
-2. in den übrigen Fällen zum Zweck der Weiterleitung an die zuständige Stelle an das Kommando Territoriale Aufgaben der Bundeswehr.
+2. in den übrigen Fällen zum Zweck der Weiterleitung an die zuständige Stelle an das Bundesamt für das Personalmanagement der Bundeswehr.
 
-Die Mitteilungen sind als "Vertrauliche Personalsache" zu kennzeichnen. Im Fall des Satzes 1 Nr. 2 dürfen nur die Personendaten des Beschuldigten, die für die Ermittlung der zuständigen Stelle erforderlich sind, dem Kommando Territoriale Aufgaben der Bundeswehr zugänglich gemacht werden; die übrigen Daten sind ihm zur Weiterleitung in einem verschlossenen Umschlag zu übermitteln.
+Die Mitteilungen sind als "Vertrauliche Personalsache" zu kennzeichnen. Im Fall des Satzes 1 Nr. 2 dürfen nur die Personendaten des Beschuldigten, die für die Ermittlung der zuständigen Stelle erforderlich sind, dem Bundesamt für das Personalmanagement der Bundeswehr zugänglich gemacht werden; die übrigen Daten sind ihm zur Weiterleitung in einem verschlossenen Umschlag zu übermitteln.
 
 # § 90 – Organisationsgesetz
 
