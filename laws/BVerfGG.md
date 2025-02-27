@@ -13,7 +13,7 @@
 
 (1) Das Bundesverfassungsgericht besteht aus zwei Senaten.
 
-(2) In jedem Senat werden acht Richter gewählt.
+(2) In jeden Senat werden acht Richter gewählt.
 
 (3) Drei Richter jedes Senats werden aus der Zahl der Richter an den obersten Gerichtshöfen des Bundes gewählt. Gewählt werden sollen nur Richter, die wenigstens drei Jahre an einem obersten Gerichtshof des Bundes tätig gewesen sind.
 
