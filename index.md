@@ -1835,7 +1835,7 @@
 - [ERPWiPlanG 1967](laws/ERPWiPlanG_1967.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Rechnungsjahr 1967
 - [ERPWiPlanG 1968](laws/ERPWiPlanG_1968.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Rechnungsjahr 1968
 - [ERPWiPlanG 1969](laws/ERPWiPlanG_1969.md) Gesetz über die Feststellung der Wirtschaftspläne des ERP-Sondervermögens für das Rechnungsjahr 1969
-- [ERPWiPlanG 2024](laws/ERPWiPlanG_2024.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2024
+- [ERPWiPlanG 2025](laws/ERPWiPlanG_2025.md) Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2025
 - [ErrV](laws/ErrV.md) Verordnung zur Regelung weiterer Voraussetzungen der Erreichbarkeit erwerbsfähiger Leistungsberechtigter nach dem Zweiten Buch Sozialgesetzbuch
 - [ErsatzbaustoffV](laws/ErsatzbaustoffV.md) Verordnung über Anforderungen an den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke
 - [ErsatzbaustoffVEV/BBodSchVNeuf/DepV2009uaÄndV](laws/ErsatzbaustoffVEV_BBodSchVNeuf_DepV2009uaÄndV.md) Verordnung zur Einführung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der Gewerbeabfallverordnung 1
@@ -3347,7 +3347,7 @@
 - [KWG](laws/KWG.md) Gesetz über das Kreditwesen
 - [KWGWpIGVermV](laws/KWGWpIGVermV.md) Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes und nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes
 - [KWKAusV](laws/KWKAusV.md) Verordnung zur Einführung von Ausschreibungen zur Ermittlung der Höhe der Zuschlagszahlungen für KWK-Anlagen und für innovative KWK-Systeme
-- [KWKG 2023](laws/KWKG_2023.md) Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung
+- [KWKG 2025](laws/KWKG_2025.md) Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung
 - [KWMV](laws/KWMV.md) Verordnung über Meldepflichten für bestimmte Kriegswaffen
 - [KyotoProt](laws/KyotoProt.md) Protokoll von Kyoto zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen
 - [KyotoProtAnpfondsG](laws/KyotoProtAnpfondsG.md) Gesetz zur Verleihung der Rechtsfähigkeit an den Rat des Anpassungsfonds

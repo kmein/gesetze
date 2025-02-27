@@ -299,1251 +299,1255 @@
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nutzen statt Abregeln</td>
 </tr>
 <tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 13l</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Umrüstung einer Erzeugungsanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung sowie von Trägheit der lokalen Netzstabilität; Betrieb des Betriebsmittels</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben der Betreiber von Elektrizitätsverteilernetzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Netzorientierte Steuerung von steuerbaren Verbrauchseinrichtungen und steuerbaren Netzanschlüssen; Festlegungskompetenzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Planung und besondere Bedeutung des Verteilernetzausbaus; Festlegungskompetenz; Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gemeinsame Internetplattform; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben der Betreiber von Fernleitungsnetzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Netzentwicklungsplan Gas und Wasserstoff; Koordinierungsstelle; Verordnungsermächtigung; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Szenariorahmen des Netzentwicklungsplans Gas und Wasserstoff; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erstellung des Netzentwicklungsplans Gas und Wasserstoff</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Prüfung und Bestätigung des Netzentwicklungsplans Gas und Wasserstoff durch die Regulierungsbehörde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Herausgabe von Daten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 16</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Systemverantwortung der Betreiber von Fernleitungsnetzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 16a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben der Betreiber von Gasverteilernetzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Abschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Netzanschluss</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Netzanschluss, Verordnungsermächtigung; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umsetzung der Netzentwicklungspläne und des Flächenentwicklungsplans</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entschädigung bei Störungen oder Verzögerung der Anbindung von Offshore-Anlagen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Belastungsausgleich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Haftung für Sachschäden an Windenergieanlagen auf See</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Abschluss von Versicherungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17j</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 18</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Allgemeine Anschlusspflicht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 19</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Technische Vorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 19a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umstellung der Gasqualität; Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Abschnitt 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Netzzugang, Messstellenbetrieb</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 20</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zugang zu den Energieversorgungsnetzen; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 20a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Lieferantenwechsel</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bedingungen und Entgelte für den Netzzugang; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sondervorschriften für regulatorische Ansprüche und Verpflichtungen der Transportnetzbetreiber; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 22</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschaffung der Energie zur Erbringung von Ausgleichsleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erbringung von Ausgleichsleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Genehmigung der Entgelte für den Netzzugang</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veröffentlichungen der Regulierungsbehörde; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veröffentlichungspflichten der Netzbetreiber</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung zur Transparenz der Kosten und Entgelte für den Zugang zu den Energieversorgungsnetzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 24</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bundeseinheitliche Übertragungsnetzentgelte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 24a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bundeszuschüsse; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 24b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 25</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 26</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zugang zu LNG-Anlagen, vorgelagerten Rohrleitungsnetzen und Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 27</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zugang zu den vorgelagerten Rohrleitungsnetzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zugang zu Gasspeicheranlagen; Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Neue Infrastrukturen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bestandsleitungen zwischen Deutschland und einem Drittstaat</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Technische Vereinbarungen über den Betrieb von Gasverbindungsleitungen mit Drittstaaten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sondervorschriften für<br />
 selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendungsbereich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grundsätze der Netzkostenermittlung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Feststellung der Netzkosten durch die Bundesnetzagentur</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zahlungsanspruch zur Deckung der Netzkosten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anspruch auf Herausgabe von Engpasserlösen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Regulierung von Wasserstoffnetzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28j</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendungsbereich der Regulierung von Wasserstoffnetzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28k</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechnungslegung und Buchführung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28l</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ordnungsgeldvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28m</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entflechtung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28n</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anschluss und Zugang zu den Wasserstoffnetzen; Verordnungsermächtigung; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28o</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bedingungen und Entgelte für den Netzzugang; Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28p</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ad-hoc Prüfung der Bedarfsgerechtigkeit von Wasserstoffnetzinfrastrukturen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3c</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Regelungen zum Wasserstoff-Kernnetz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28q</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wasserstoff-Kernnetz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28r</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grundsätze der Finanzierung des Wasserstoff-Kernnetzes und der Entgeltbildung; Abweichungsbefugnis der Bundesnetzagentur und Kündigungsrecht; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28s</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausgleich des Amortisationskontos durch die Bundesrepublik Deutschland und Selbstbehalt der Wasserstoff-Kernnetzbetreiber</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Befugnisse der Regulierungsbehörde, Sanktionen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 29</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren zur Festlegung und Genehmigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 30</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Missbräuchliches Verhalten eines Netzbetreibers</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 31</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Missbrauchsverfahren der Regulierungsbehörde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 32</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unterlassungsanspruch, Schadensersatzpflicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 33</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorteilsabschöpfung durch die Regulierungsbehörde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 34</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(aufgehoben)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Monitoring und ergänzende Informationen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 3a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Füllstandsvorgaben<br />
 
 für Gasspeicheranlagen und<br />
 
 Gewährleistung der Versorgungssicherheit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Allgemeines</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kontrahierung von Befüllungsinstrumenten; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Freigabeentscheidung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Evaluierung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendungsbestimmungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Außerbetriebnahme und Stilllegung von Gasspeichern</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Energielieferung an Letztverbraucher</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 36</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grundversorgungspflicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 37</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausnahmen von der Grundversorgungspflicht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ersatzversorgung mit Energie</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 39</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Allgemeine Preise und Versorgungsbedingungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 40</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Inhalt von Strom- und Gasrechnungen; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 40a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verbrauchsermittlung für Strom- und Gasrechnungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 40b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechnungs- und Informationszeiträume</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 40c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zeitpunkt und Fälligkeit von Strom- und Gasrechnungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 41</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Energielieferverträge mit Letztverbrauchern</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 41a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Lastvariable, tageszeitabhängige oder dynamische und sonstige Stromtarife</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 41b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung; Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 41c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergleichsinstrumente bei Energielieferungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 41d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erbringung von Dienstleistungen außerhalb bestehender Liefer- oder Bezugsverträge; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 41e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verträge zwischen Aggregatoren und Betreibern einer Erzeugungsanlage oder Letztverbrauchern</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 42</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Stromkennzeichnung, Transparenz der Stromrechnungen, Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 42a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mieterstromverträge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 42b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gemeinschaftliche Gebäudeversorgung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Planfeststellung, Wegenutzung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erfordernis der Planfeststellung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anhörungsverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Planfeststellungsbeschluss, Plangenehmigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtswirkungen der Planfeststellung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Planänderung vor Fertigstellung des Vorhabens</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsbehelfe</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Änderungen im Anzeigeverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Projektmanager</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausbau des Hochspannungsnetzes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Überwachung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43j</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Leerrohre für Hochspannungsleitungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43k</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zurverfügungstellung von Geodaten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43l</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Regelungen zum Auf- und Ausbau von Wasserstoffnetzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43m</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorarbeiten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veränderungssperre, Vorkaufsrecht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorzeitige Besitzeinweisung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zulassung des vorzeitigen Baubeginns</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Enteignung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entschädigungsverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Parallelführung von Planfeststellungs- und Enteignungsverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 46</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wegenutzungsverträge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 46a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auskunftsanspruch der Gemeinde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 47</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rügeobliegenheit, Präklusion</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 48</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Konzessionsabgaben</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 48a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Duldungspflicht bei Transporten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 6</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sicherheit und Zuverlässigkeit der Energieversorgung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 49</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anforderungen an Energieanlagen, Verordnungsermächtigung; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 49a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Elektromagnetische Beeinflussung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 49b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Temporäre Höherauslastung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 49c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschleunigte Umsetzung von Schutz- und Sicherungsmaßnahmen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 49d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Register zur Erfassung und Überwachung von Energieanlagen sowie von Energieanlagenteilen; Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorratshaltung zur Sicherung der Energieversorgung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50j</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 51</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Monitoring der Versorgungssicherheit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 51a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Monitoring des Lastmanagements</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 52</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Meldepflichten bei Versorgungsstörungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschreibung neuer Erzeugungskapazitäten im Elektrizitätsbereich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sicherstellung der Versorgung von Haushaltskunden mit Erdgas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Transport von Großtransformatoren auf Schienenwegen, Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 7</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Behörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Allgemeine Vorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 54</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Allgemeine Zuständigkeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 54a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeiten gemäß der Verordnung (EU) 2017/1938, Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 54b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeiten gemäß der Verordnung (EU) 2019/941, Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 55</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bundesnetzagentur, Landesregulierungsbehörde und nach Landesrecht zuständige Behörde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 56</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Tätigwerden der Bundesnetzagentur beim Vollzug des europäischen Rechts</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit mit Regulierungsbehörden anderer Mitgliedstaaten, der Agentur für die Zusammenarbeit der Energieregulierungsbehörden und der Europäischen Kommission</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Überprüfungsverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit für regionale Koordinierungszentren; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit mit den Kartellbehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit zur Durchführung der Verordnung (EU) Nr. 1227/2011</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligung der Bundesnetzagentur und Mitteilungen in Strafsachen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Bundesbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Organisation</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 60</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben des Beirates</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 60a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben des Länderausschusses</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veröffentlichung allgemeiner Weisungen des Bundesministeriums für Wirtschaft und Energie</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 62</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gutachten der Monopolkommission</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 63</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berichterstattung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 64</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wissenschaftliche Beratung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 64a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit zwischen den Regulierungsbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 8</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Behördliches Verfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 65</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufsichtsmaßnahmen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 66</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einleitung des Verfahrens, Beteiligte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 66a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorabentscheidung über Zuständigkeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 67</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anhörung, Akteneinsicht, mündliche Verhandlung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 68</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ermittlungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 68a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit mit der Staatsanwaltschaft</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 69</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auskunftsverlangen, Betretungsrecht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 70</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschlagnahme</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 71</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Betriebs- oder Geschäftsgeheimnisse</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 71a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Netzentgelte vorgelagerter Netzebenen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 72</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorläufige Anordnungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 73</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahrensabschluss, Begründung der Entscheidung, Zustellung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 74</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veröffentlichung von Verfahrenseinleitungen und Entscheidungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Beschwerde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 75</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zulässigkeit, Zuständigkeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufschiebende Wirkung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 77</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anordnung der sofortigen Vollziehung und der aufschiebenden Wirkung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 78</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Frist und Form</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 78a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Musterverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 79</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligte am Beschwerdeverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 80</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwaltszwang</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 81</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mündliche Verhandlung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Untersuchungsgrundsatz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 83</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschwerdeentscheidung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 83a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 84</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Akteneinsicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 85</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 85a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entsprechende Anwendung auf fachlich qualifizierte Stellen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Rechtsbeschwerde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 86</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsbeschwerdegründe</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 87</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nichtzulassungsbeschwerde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 88</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschwerdeberechtigte, Form und Frist</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Gemeinsame Bestimmungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 89</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligtenfähigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 90</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kostentragung und -festsetzung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 90a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 91</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebührenpflichtige Handlungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 92</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitrag</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 93</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilung der Bundesnetzagentur</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 5</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sanktionen, Bußgeldverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 94</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zwangsgeld</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 95</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bußgeldvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 95a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Strafvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 95b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Strafvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 96</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit für Verfahren wegen der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 97</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeiten im gerichtlichen Bußgeldverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 98</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 99</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsbeschwerde zum Bundesgerichtshof</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 100</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wiederaufnahmeverfahren gegen Bußgeldbescheid</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 101</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gerichtliche Entscheidungen bei der Vollstreckung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 6</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Bürgerliche Rechtsstreitigkeiten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 102</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschließliche Zuständigkeit der Landgerichte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 103</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 104</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Benachrichtigung und Beteiligung der Regulierungsbehörde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 105</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Streitwertanpassung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Abschnitt 7</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Gemeinsame Bestimmungen für das gerichtliche Verfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 106</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständiger Senat beim Oberlandesgericht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 107</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständiger Senat beim Bundesgerichtshof</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 108</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschließliche Zuständigkeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 9</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sonstige Vorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 109</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unternehmen der öffentlichen Hand, Geltungsbereich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 110</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geschlossene Verteilernetze</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verhältnis zum Gesetz gegen Wettbewerbsbeschränkungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verbraucherbeschwerden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schlichtungsstelle, Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammentreffen von Schlichtungsverfahren und Missbrauchs- oder Aufsichtsverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 9a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Transparenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111d</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Einrichtung einer nationalen Informationsplattform</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111e</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Marktstammdatenregister</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111f</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Verordnungsermächtigung zum Marktstammdatenregister</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111g</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Festlegungskompetenz, Datenerhebung und -verarbeitung; Einrichtung und Betrieb einer nationalen Transparenzplattform</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Evaluierung, Schlussvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 112</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 112a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 112b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berichte des Bundesministeriums für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Laufende Wegenutzungsverträge</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas und Wasserstoff</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelungen zu Sicherheitsanforderungen; Anzeigepflicht und Verfahren zur Prüfung von Umstellungsvorhaben</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 114</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wirksamwerden der Entflechtungsbestimmungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 115</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bestehende Verträge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 116</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bisherige Tarifkundenverträge</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Konzessionsabgaben für die Wasserversorgung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Regelung bei Stromeinspeisung in geringem Umfang</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verwaltungsvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umgang mit geheimhaltungsbedürftigen Informationen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und Subdelegation</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befristete Sonderregelungen für Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung bei Versorgungsunterbrechungen wegen Nichtzahlung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befristete Notversorgung von Letztverbrauchern im Januar und Februar des Jahres 2023</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 119</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 120</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 121</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Außerkrafttreten der §§ 50a bis 50c und 50e bis 50j</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anlage (zu § 13g)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berechnung der Vergütung</td>
 </tr>
@@ -2544,6 +2548,54 @@ Die Errichtung und der Betrieb von Anlagen zur Speicherung elektrischer Energie 
 
 (2) Betreiber von Übertragungsnetzen haben Betreibern eines anderen Netzes, mit dem die eigenen Übertragungsnetze technisch verbunden sind, die notwendigen Informationen bereitzustellen, um den sicheren und effizienten Betrieb, den koordinierten Ausbau und den Verbund sicherzustellen.
 
+(2a) Jeder Betreiber eines Elektrizitätsversorgungsnetzes muss sicherstellen, dass er jederzeit in der Lage ist, für die folgenden, an sein Netz angeschlossenen Anlagen Anpassungen nach § 13a Absatz 1, auch in Verbindung mit § 14 Absatz 1, vorzunehmen und die jeweilige Ist-Einspeisung abzurufen:
+
+1. Anlagen zur Erzeugung oder Speicherung von elektrischer Energie mit einer Nennleistung ab 100 Kilowatt sowie
+
+2. Anlagen zur Erzeugung oder Speicherung von elektrischer Energie, die durch einen Betreiber eines Elektrizitätsversorgungsnetzes jederzeit fernsteuerbar sind.
+
+(2b) Zum Zwecke des Nachweises der Erfüllung der Pflichten nach Absatz 2a hat jeder Betreiber eines Elektrizitätsversorgungsnetzes jährlich Anpassungen nach § 13a Absatz 1, auch in Verbindung mit § 14 Absatz 1, sowie Abrufe der Ist-Einspeisung testweise vorzunehmen, wobei Anlagen mit einer Nennleistung von unter 100 Kilowatt erst ab dem 1. Januar 2026 einzubeziehen sind. Jeder grundzuständige Messstellenbetreiber im Sinne des § 2 Satz 1 Nummer 4 des Messstellenbetriebsgesetzes hat jährlich den Stand der Erfüllung der Pflichten zur Ausstattung von Messstellen mit intelligenten Messsystemen und Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 in Verbindung mit § 45 Absatz 1 des Messstellenbetriebsgesetzes in dem Netzgebiet, auf das sich seine Grundzuständigkeit erstreckt, zu überprüfen und das Ergebnis des aktuellen Stands dem Betreiber von Energieversorgungsnetzen des jeweiligen Netzgebiets zu übermitteln. Jeder Betreiber eines Elektrizitätsverteilernetzes hat die Ergebnisse der von ihm nach Satz 1 durchzuführenden Tests und die nach Satz 2 von dem grundzuständigen Messstellenbetreiber an ihn übermittelten Ergebnisse dem ihm jeweils vorgelagerten Betreiber eines Elektrizitätsversorgungsnetzes schriftlich oder elektronisch zu übermitteln. Der jeweils vorgelagerte Betreiber eines Elektrizitätsversorgungsnetzes muss die Ergebnisse nach den Sätzen 1 und 2 einer Plausibilitätsprüfung unterziehen und deren jeweiliges Ergebnis dem ihm nachgelagerten Betreiber eines Elektrizitätsversorgungsnetzes und dem grundzuständigen Messstellenbetreiber schriftlich oder elektronisch übermitteln. Der Betreiber eines Elektrizitätsverteilernetzes, der einem Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung unmittelbar nachgelagert ist, hat diesem Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung zusätzlich zu den nach Satz 3 zu übermittelnden Ergebnissen, die in seinem Netzgebiet ermittelt wurden, auch die Ergebnisse nach den Sätzen 1 und 2 der ihm jeweils nachgelagerten Betreiber von Elektrizitätsverteilernetzen sowie die Ergebnisse der von diesen durchgeführten Plausibilitätsprüfungen schriftlich oder elektronisch zu übermitteln.
+
+(2c) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung sind verpflichtet, auf der Grundlage der Ergebnisse nach Absatz 2b Satz 1 und 2 gemeinsam einen Gesamtbericht zu erstellen und bis zum Ablauf des 30. Novembers eines jeden Kalenderjahres, erstmals zum Ablauf des 30. November 2025, der Bundesnetzagentur und dem Bundesministerium für Wirtschaft und Klimaschutz vorzulegen. Dieser Gesamtbericht umfasst
+
+1. die Ergebnisse der nach Absatz 2b Satz 1 durchgeführten Tests und der nach Absatz 2b Satz 2 durchgeführten Überprüfungen, einschließlich der jeweils durchgeführten Plausibilitätsprüfungen,
+
+2. eine Bewertung des Umfangs der Erfüllung der Verpflichtungen nach Absatz 2a und der Verpflichtungen nach § 29 Absatz 1 Nummer 2 in Verbindung mit § 45 Absatz 1 des Messstellenbetriebsgesetzes sowie
+
+3. Handlungsempfehlungen zur Verbesserung der eigenen Steuerungsfähigkeit der Betreiber von Übertragungsnetzen und derjenigen der ihnen unmittelbar oder mittelbar nachgelagerten Betreiber von Elektrizitätsverteilernetzen.
+
+Jeder Betreiber eines Elektrizitätsverteilernetzes und jeder grundzuständige Messstellenbetreiber ist verpflichtet, an der Erstellung des Gesamtberichts mitzuwirken. Die Bundesnetzagentur veröffentlicht spätestens drei Monate nach Eingang des Gesamtberichts diejenigen Abschnitte des Gesamtberichts, die die nach Satz 2 Nummer 2 und 3 genannten Inhalte enthalten.
+
+(2d) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung haben auf ihrer jeweiligen Internetseite spätestens zum 25. April 2025 einheitliche Leitlinien für die Betreiber von Elektrizitätsversorgungsnetzen und grundzuständigen Messstellenbetreiber zu veröffentlichen
+
+1. zum Ablauf der Tests nach Absatz 2b Satz 1 in Abhängigkeit von der Anlagengröße, der Spannungsebene und den unterschiedlichen technischen Einrichtungen, die sowohl zum Abruf der Ist-Einspeisung als auch zur Steuerung der Wirkleistungs- und Blindleistungserzeugung oder des Wirkleistungsbezugs genutzt werden,
+
+2. zum Ablauf der Überprüfungen nach Absatz 2b Satz 2 sowie
+
+3. zur Erfassung, Aufbereitung und Weiterleitung der Daten, insbesondere im Hinblick auf den zeitlichen Ablauf und zum Datenformat.
+
+Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung können die einheitlichen Leitlinien innerhalb von zwei Monaten nach Vorlage des jeweiligen Gesamtberichts nach Absatz 2c Satz 1 anpassen und auf ihrer jeweiligen Internetseite veröffentlichen.
+
+(2e) Wenn der Betreiber eines Elektrizitätsverteilernetzes, der einem anderen Betreiber eines Elektrizitätsverteilernetzes nachgelagert ist, dauerhaft oder wiederholt gegen seine Pflichten nach Absatz 2a verstößt, kann ihm die Bundesnetzagentur in Anwendung des § 65 Absatz 2 insbesondere die Pflicht nach § 13a Absatz 1 in Verbindung mit § 14 Absatz 1 zur ferngesteuerten Regelung von Anlagen zur Erzeugung oder Speicherung von elektrischer Energie, die an ein nachgelagertes Elektrizitätsverteilernetz angeschlossen sind, sowie die Pflicht zur Ausübung der Betriebsführung, soweit diese im unmittelbaren Zusammenhang mit der ferngesteuerten Regelung von Anlagen zur Erzeugung oder Speicherung elektrischer Energie steht, entziehen und auf den ihm vorgelagerten Betreiber eines Elektrizitätsverteilernetzes übertragen. Die Verpflichtung von Anlagenbetreibern, die Ansteuerbarkeit und Sichtbarkeit einer von ihnen betriebenen Anlage gegenüber dem Betreiber eines Elektrizitätsversorgungsnetzes, an dessen Netz sie angeschlossen ist, sicherzustellen, besteht im Falle einer Übertragung nach Satz 1 auch im Verhältnis zu dem vorgelagerten Betreiber eines Elektrizitätsverteilernetzes. Weist der nachgelagerte Betreiber eines Elektrizitätsverteilernetzes die nach Absatz 2a geforderte Fähigkeit, Anpassungen vorzunehmen und die Ist-Einspeisung abzurufen, gegenüber der Bundesnetzagentur nach, so kann die Bundesnetzagentur die Aufgaben nach Satz 1 an diesen zurückübertragen.
+
+(2f) Das Bundesministerium für Wirtschaft und Klimaschutz überprüft bis zum Ablauf des 31. Dezember 2033 die praktische Anwendung und die Notwendigkeit einer Weitergeltung der Regelungen in den Absätzen 2b bis 2e.
+
+(2g) Die Bundesnetzagentur kann dem grundzuständigen Messstellenbetreiber die Grundzuständigkeit nach § 2 Satz 1 Nummer 5 des Messstellenbetriebsgesetzes entziehen und die Einsetzung eines Auffangmessstellenbetreibers im Sinne des § 11 Absatz 3 Satz 1 des Messstellenbetriebsgesetzes anordnen, wenn
+
+1. sich aus den Ergebnissen des Gesamtberichts nach Absatz 2c ergibt, oder die Bundesnetzagentur auf anderem Wege hiervon Kenntnis erlangt, dass die Ausstattungsverpflichtungen nach § 29 Absatz 1 Nummer 2 in Verbindung mit § 45 Absatz 1 des Messstellenbetriebsgesetzes in dem Netzgebiet eines grundzuständigen Messstellenbetreibers um mindestens 25 Prozent unterschritten sind und dies zu einer nicht unerheblichen Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems in mindestens einer Regelzone wesentlich beitragen könnte oder
+
+2. der grundzuständige Messstellenbetreiber seine Pflichten nach Absatz 2b oder seine Mitwirkungspflicht nach Absatz 2c Satz 3 nicht oder nicht ausreichend erfüllt und deshalb nicht festgestellt werden kann, ob die Ausstattungsverpflichtungen nach § 29 Absatz 1 Nummer 2 in Verbindung mit § 45 Absatz 1 des Messstellenbetriebsgesetzes in dem Netzgebiet eines grundzuständigen Messstellenbetreibers um mindestens 25 Prozent unterschritten wurden und dies zu einer nicht unerheblichen Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems in mindestens einer Regelzone wesentlich beitragen könnte.
+
+Dem grundzuständigen Messstellenbetreiber ist vorab Gelegenheit zur Stellungnahme innerhalb einer angemessenen Frist zu gewähren.
+
+(2h) Der Betreiber eines Elektrizitätsversorgungsnetzes, an dessen Netz eine Anlage nach Absatz 2a angeschlossen ist, muss die Anlage vom Netz trennen oder deren Einspeisung durch andere Maßnahmen unterbinden, wenn
+
+1. der Messstellenbetreiber seinen Pflichten zum ordnungsgemäßen Messstellenbetrieb nach § 3 Absatz 2 des Messstellenbetriebsgesetzes nicht nachkommt und dadurch die Möglichkeit des Netzbetreibers, die Einspeiseleistung der Anlage ferngesteuert zu regeln, nicht unerheblich beeinträchtigt wird und
+
+2. der Anlagenbetreiber die Anlage nicht bereits nachweislich außer Betrieb genommen hat.
+
+§ 52a Absatz 2 bis 7 des Erneuerbare-Energien-Gesetzes ist entsprechend anzuwenden. Im Falle einer nach Satz 1 erfolgten Netztrennung oder Unterbindung der Einspeisung kann der Anlagenbetreiber vom Messstellenbetreiber Ersatz des aufgrund dessen entstandenen Schadens verlangen. Die Ersatzpflicht tritt nicht ein, wenn der Messstellenbetreiber die Pflichtverletzung nach Satz 1 Nummer 1 nicht zu vertreten hat. Weitergehende Ersatzansprüche bleiben unberührt.
+
 (3) Betreiber von Übertragungsnetzen haben dauerhaft die Fähigkeit des Netzes sicherzustellen, die Nachfrage nach Übertragung von Elektrizität zu befriedigen und insbesondere durch entsprechende Übertragungskapazität und Zuverlässigkeit des Netzes zur Versorgungssicherheit beizutragen. Dafür können sie im Rahmen des technisch Möglichen auch geeignete technische Anlagen etwa zur Bereitstellung von nicht frequenzgebundenen Systemdienstleistungen nutzen, die keine Anlagen zur Erzeugung elektrischer Energie sind. Hierbei hat eine Abwägung mit einer marktgestützten Beschaffung nach § 12h zu erfolgen.
 
 (3a) Um die technische Sicherheit und die Systemstabilität zu gewährleisten, wird das Bundesministerium für Wirtschaft und Klimaschutz ermächtigt, durch Rechtsverordnung technische Anforderungen an Energieanlagen und Energieanlagenteile, insbesondere an Anlagen nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz, vorzugeben sowie Netzbetreiber und Anlagenbetreiber zu verpflichten, Anlagen, die bereits vor dem 1. Januar 2012 in Betrieb genommen worden sind, entsprechend nachzurüsten sowie anlagenbezogene Daten, die zur Durchführung und Kontrolle des Nachrüstungsprozesses erforderlich sind, bereitzustellen und auszuwerten und Regelungen zur Kostentragung zu treffen.
@@ -3281,6 +3333,48 @@ Im Übrigen sind die Absätze 2 bis 7 entsprechend anzuwenden. Die Pflichten der
 
 (9) Erstmals zum 1. Juli 2028 und anschließend alle zwei Jahre evaluieren die Betreiber der Übertragungsnetze mit Regelzonenverantwortung die Anwendung der Maßnahme nach den Absätzen 1 bis 7 und legen einen Bericht vor. Satz 1 ist für Betreiber von Elektrizitätsverteilernetzen, die von der Möglichkeit nach Absatz 8 seit mindestens zwölf Monaten Gebrauch machen, mit der Maßgabe anzuwenden, dass sie die Anwendung der Maßnahme nach Absatz 8 evaluieren. Die Regulierungsbehörde legt auf dieser Basis ebenfalls einen Bericht gegebenenfalls mit Empfehlungen für Anpassungen der Anwendungen der Maßnahme vor.
 
+# § 13l – Umrüstung einer Erzeugungsanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung sowie von Trägheit der lokalen Netzstabilität; Betrieb des Betriebsmittels
+
+(1) Der Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung kann vom Betreiber einer in seiner Regelzone angeschlossenen Erzeugungsanlage mit einer Nennleistung ab 50 Megawatt die Umrüstung dieser Erzeugungsanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung verlangen (Umrüstungsverlangen), wenn
+
+1. die Erzeugungsanlage
+
+a) eine Steinkohleanlage nach § 3 Nummer 25 des Kohleverstromungsbeendigungsgesetzes, eine Steinkohle-Kleinanlage nach § 3 Nummer 26 des Kohleverstromungsbeendigungsgesetzes oder eine Braunkohle-Kleinanlage nach § 3 Nummer 10 des Kohleverstromungsbeendigungsgesetzes ist und für diese Erzeugungsanlage nach § 51 Absatz 1 Satz 1 des Kohleverstromungsbeendigungsgesetzes ein Verbot der Kohleverfeuerung wirksam wird und die Erzeugungsanlage nach § 26 Absatz 2 des Kohleverstromungsbeendigungsgesetzes oder § 37 Absatz 2 des Kohleverstromungsbeendigungsgesetzes, jeweils in Verbindung mit § 13b Absatz 1 Satz 1 und Absatz 3 Satz 2 dieses Gesetzes, endgültig stillgelegt werden soll oder
+
+b) durch ihren Betreiber zur endgültigen Stilllegung nach § 13b Absatz 1 Satz 1 in Verbindung mit § 13b Absatz 3 Satz 2 angezeigt wurde,
+
+2. die Stilllegung dieser Erzeugungsanlage wegen des im Elektrizitätsversorgungssystem bestehenden Bedarfs zur Bereitstellung von Blind- und Kurzschlussleistung mit hinreichender Wahrscheinlichkeit zu einer nicht unerheblichen Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems führen würde,
+
+3. die Gefährdung oder Störung nach Nummer 2 nicht durch andere angemessene Maßnahmen beseitigt werden kann,
+
+4. die Umrüstung der Erzeugungsanlage und der Betrieb nach Absatz 4 des durch die Umrüstung entstandenen Betriebsmittels den Zwecken des § 1 Absatz 1 und 2 entsprechen und
+
+5. die Bundesnetzagentur das Umrüstungsverlangen zuvor nach Absatz 3 genehmigt hat.
+
+(2) Der Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung kann vom Betreiber einer in seiner Regelzone angeschlossenen Erzeugungsanlage mit einer Nennleistung ab 50 Megawatt bei Gelegenheit der Umrüstung nach Absatz 1 auch verlangen, dass diese Erzeugungsanlage so umgerüstet wird, dass sie neben den in Absatz 1 genannten Systemsicherheitsmaßnahmen zusätzlich auch in der Lage ist, Trägheit der lokalen Netzstabilität bereitzustellen (erweitertes Umrüstungsverlangen), wenn
+
+1. die in Absatz 1 Nummer 1 bis 4 aufgeführten Voraussetzungen vorliegen,
+
+2. zusätzlich an dem Standort der Erzeugungsanlage ein entsprechender Bedarf für die Bereitstellung von Trägheit der lokalen Netzstabilität besteht, die Stilllegung dieser Erzeugungsanlage wegen dieses Bedarfs mit hinreichender Wahrscheinlichkeit zu einer nicht unerheblichen Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems führen würde und die Gefährdung oder Störung nicht durch andere angemessene Maßnahmen beseitigt werden kann und
+
+3. die Bundesnetzagentur das erweiterte Umrüstungsverlangen zuvor nach Absatz 3 genehmigt hat.
+
+Die Umrüstung nach diesem Absatz umfasst auch die Installation der für die Bereitstellung von Trägheit der lokalen Netzstabilität erforderlichen Komponenten, wie insbesondere Schwungmassen, in angemessenem Umfang.
+
+(3) Der Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung stellt bei der Bundesnetzagentur spätestens sechs Monate vor dem angezeigten Stilllegungszeitpunkt einer in Absatz 1 genannten Erzeugungsanlage schriftlich oder elektronisch einen mit einer Begründung versehenen Antrag auf die nach Absatz 1 Nummer 5 oder Absatz 2 Satz 1 Nummer 3 erforderliche Genehmigung des Umrüstungsverlangens oder des erweiterten Umrüstungsverlangens und übermittelt dem Betreiber der Erzeugungsanlage unverzüglich schriftlich oder elektronisch eine Kopie des Antrags. In dem Antrag ist nachzuwiesen, dass die Voraussetzungen für das Umrüstungsverlangen nach Absatz 1 Nummer 1 bis 4 beziehungsweise nach Absatz 2 Satz 1 Nummer 1 und 2 erfüllt sind. Zur Begründung der Notwendigkeit des Umrüstungsverlangens oder des erweiterten Umrüstungsverlangens soll der Antragsteller insbesondere die Systemanalyse oder die Langfristanalyse der Betreiber von Übertragungsnetzen mit Regelzonenverantwortung nach § 3 Absatz 2 der Netzreserveverordnung, den Bericht der Bundesnetzagentur nach § 3 Absatz 1 der Netzreserveverordnung oder den Systemstabilitätsbericht der Betreiber von Übertragungsnetzen mit Regelzonenverantwortung nach § 12i dieses Gesetzes heranziehen. Die Bundesnetzagentur hat den Antrag zu genehmigen, wenn die in Absatz 1 beziehungsweise bei einem erweiterten Umrüstungsverlangen zusätzlich auch die in Absatz 2 genannten Voraussetzungen vorliegen. Die Genehmigung kann unter Bedingungen erteilt und mit Auflagen verbunden werden. Der Betreiber des Übertragungsnetzes mit Regelzonenverantwortung übermittelt dem Betreiber der Erzeugungsanlage unverzüglich nach Zugang der Genehmigung schriftlich oder elektronisch eine Kopie der Genehmigung.
+
+(4) Die Umrüstung der Erzeugungsanlage nach den Absätzen 1 und 2 sowie der Betrieb des durch die Umrüstung entstandenen Betriebsmittels erfolgen in dem Umfang und für den Zeitraum, die erforderlich sind, um die Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems abzuwenden. Die Dauer des angeforderten Betriebs darf einen Zeitraum von insgesamt acht Jahren ab der Inbetriebnahme des Betriebsmittels nicht überschreiten. Das durch die Umrüstung nach den Absätzen 1 oder 2 entstandene Betriebsmittel darf ausschließlich nach Maßgabe der von den Betreibern von Übertragungsnetzen mit Regelzonenverantwortung angeforderten Systemsicherheitsmaßnahmen betrieben und in dem für diese Zwecke erforderlichen Umfang nicht stillgelegt werden. Ab dem Zeitpunkt der Genehmigung nach Absatz 1 Nummer 5 oder Absatz 2 Satz 1 Nummer 3 ist § 13b für den Zeitraum der Verpflichtung nach diesem Absatz nicht anzuwenden.
+
+(5) Der Betreiber der nach den Absätzen 1 oder 2 umgerüsteten Erzeugungsanlage hat gegen den Betreiber des Übertragungsnetzes mit Regelzonenverantwortung, in dessen Regelzone die Anlage angeschlossen ist, Anspruch auf
+
+1. Erstattung der nachgewiesenen Kosten für die Umrüstung seiner Erzeugungsanlage und
+
+2. eine angemessene Vergütung entsprechend § 13c Absatz 3.
+
+Zu den Kosten der Umrüstung nach Satz 1 Nummer 1 zählen auch die Kosten für Komponenten wie insbesondere Schwungmassen nach Absatz 2 Satz 2. Nach der Beendigung der Verpflichtung nach Absatz 4 ist § 13c Absatz 4 Satz 2 und 3 entsprechend anzuwenden. Unbeschadet der gesetzlichen Verpflichtungen erfolgen auf Grundlage der anlagenspezifischen Kostenstruktur die Kostenerstattung sowie die Vergütung für die Verpflichtungen nach den Absätzen 1 bis 4 auf Grundlage des Abschlusses von Verträgen zwischen den Betreibern von Übertragungsnetzen und Anlagenbetreibern in Abstimmung mit der Bundesnetzagentur. § 13c Absatz 5 ist entsprechend anzuwenden.
+
+(6) Die Absätze 1 bis 5 sind nicht anzuwenden auf die in Anlage 2 zum Kohleverstromungsbeendigungsgesetz genannten Braunkohleanlagen.
+
 # § 14 – Aufgaben der Betreiber von Elektrizitätsverteilernetzen
 
 (1) Die §§ 12, 13 bis 13c und die auf Grundlage des § 13i Absatz 3 erlassenen Rechtsverordnungen gelten für Betreiber von Elektrizitätsverteilernetzen im Rahmen ihrer Verteilungsaufgaben entsprechend, soweit sie für die Sicherheit und Zuverlässigkeit der Elektrizitätsversorgung in ihrem Netz verantwortlich sind. § 13 Absatz 9 ist mit der Maßgabe anzuwenden, dass die Betreiber von Elektrizitätsverteilernetzen nur auf Anforderung der Regulierungsbehörde die Schwachstellenanalyse zu erstellen und über das Ergebnis zu berichten haben.
@@ -3539,7 +3633,19 @@ Die §§ 15 und 16 Absatz 1 bis 4a gelten für Betreiber von Gasverteilernetzen 
 
 (2a) Der Netzanschlussvorrang gemäß § 8 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes und § 3 Absatz 1 Satz 1 des Kraft-Wärme-Kopplungsgesetzes ist nicht gegenüber Energiespeicheranlagen anzuwenden.
 
-(2b) (weggefallen)
+(2b) Betreiber von Elektrizitätsversorgungsnetzen können Anschlussnehmern den Abschluss einer flexiblen Netzanschlussvereinbarung anbieten. Eine flexible Netzanschlussvereinbarung nach Satz 1 gibt dem Betreiber von Elektrizitätsversorgungsnetzen das Recht, vom Anschlussnehmer eine statische oder dynamische Begrenzung der maximalen Entnahme- oder Einspeiseleistung zu verlangen. Eine flexible Netzanschlussvereinbarung muss insbesondere folgende Regelungen enthalten:
+
+1. Höhe der Begrenzung der Entnahme- oder Einspeiseleistung,
+
+2. Zeitraum oder Zeiträume der Begrenzung der Entnahme- oder Einspeiseleistung,
+
+3. Dauer der flexiblen Netzanschlussvereinbarung,
+
+4. technische Anforderungen an die Begrenzung der Entnahme- oder Einspeiseleistung und
+
+5. Haftung des Anschlussnehmers bei Überschreitung der vereinbarten maximalen Entnahme- oder Einspeiseleistung.
+
+§ 8a des Erneuerbare-Energien-Gesetzes sowie Inhalte einer Festlegung der Bundesnetzagentur nach § 14a bleiben unberührt.
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die technischen und wirtschaftlichen Bedingungen für einen Netzanschluss nach Absatz 1 Satz 1 zu erlassen. Insbesondere können durch Rechtsverordnungen nach Satz 1 unter angemessener Berücksichtigung der Interessen der Betreiber von Energieversorgungsnetzen und der Anschlussnehmer
 
@@ -3549,7 +3655,7 @@ Die §§ 15 und 16 Absatz 1 bis 4a gelten für Betreiber von Gasverteilernetzen 
 
 3. festgelegt sowie näher bestimmt werden, in welchem Umfang und zu welchen Bedingungen ein Netzanschluss nach Absatz 2 zumutbar ist; dabei kann auch das Interesse der Allgemeinheit an einer möglichst kostengünstigen Struktur der Energieversorgungsnetze berücksichtigt werden.
 
-(4) Die Bundesnetzagentur kann durch Festlegung nach § 29 Absatz 1 Vorgaben zu den technischen und wirtschaftlichen Bedingungen für einen Netzanschluss nach Absatz 1 Satz 1 oder zu den Methoden für die Bestimmung dieser Bedingungen machen; dabei kann sie von Verordnungen nach Absatz 3 abweichen oder ergänzende Regelungen treffen. Dies umfasst insbesondere Vorgaben zu Anschlusskosten und Baukostenzuschüssen.
+(4) Die Bundesnetzagentur kann durch Festlegung nach § 29 Absatz 1 Vorgaben zu den technischen und wirtschaftlichen Bedingungen für einen Netzanschluss nach Absatz 1 Satz 1 oder Absatz 2b oder zu den Methoden für die Bestimmung dieser Bedingungen machen; dabei kann sie von Verordnungen nach Absatz 3 abweichen oder ergänzende Regelungen treffen. Dies umfasst insbesondere Vorgaben zu Anschlusskosten und Baukostenzuschüssen.
 
 # § 17a – (weggefallen)
 
@@ -6164,7 +6270,7 @@ In Verfahren wegen leichtfertig begangener Straftaten wird die Bundesnetzagentur
 
 7. Festlegungen nach § 13j Absatz 2 Nummer 3, 5 bis 7 und 9, Absatz 3 Satz 1 in Verbindung mit § 13i Absatz 3 Nummer 1 Buchstabe a, b, c und f, § 13j Absatz 3 Satz 2 hinsichtlich des § 13b sowie nach § 13j Absatz 4, 5, 7 Nummer 1 und 2 und Absatz 6,
 
-7a. Entscheidungen und Aufgaben nach § 13k,
+7a. Entscheidungen und Aufgaben nach den §§ 13k und 13l Absatz 3,
 
 8. Aufgaben nach § 14 Absatz 2 und den §§ 14c bis 14e,
 
@@ -7536,7 +7642,7 @@ Der Betreiber der Anlage kann auf die Einstufung als Bestandsanlage verzichten. 
 
 (33) Für besondere netztechnische Betriebsmittel, für die bis zum 30. November 2020 ein Vergabeverfahren begonnen wurde, ist § 11 Absatz 3 in der bis zum 27. Juli 2021 geltenden Fassung anzuwenden. Satz 1 ist auch anzuwenden, wenn ein bereits vor dem 30. November 2020 begonnenes Vergabeverfahren aufgrund rechtskräftiger Entscheidung nach dem 30. November 2020 neu durchgeführt werden muss.
 
-(34) Ladepunkte, die von Betreibern von Elektrizitätsverteilernetzen bereits vor dem 27. Juli 2021 entwickelt, verwaltet oder betrieben worden sind, gelten bis zum 31. Dezember 2023 als aufgrund eines regionalen Marktversagens im Sinne von § 7c Absatz 2 Satz 1 genehmigt. Betreiber von Elektrizitätsverteilernetzen haben ihre Tätigkeiten in Bezug auf diese Ladepunkte der Bundesnetzagentur in Textform bis zum 31. Dezember 2023 anzuzeigen und bis zum 31. Dezember 2023 einzustellen, wenn nicht die Bundesnetzagentur zuvor eine Genehmigung nach § 7c Absatz 2 erteilt hat. Soweit Betreiber von Elektrizitätsverteilernetzen, die von § 7 Absatz 2 Satz 1 erfasst sind, betroffen sind, gelten Ladepunkte bis zum Ablauf des 31. Dezember 2024 als im Sinne des Satzes 1 genehmigt. Im Falle des Satzes 3 haben die Anzeige und die Einstellung der Tätigkeit nach Satz 2 bis zum Ablauf des 31. Dezember 2024 zu erfolgen. Der Zugang zu Ladepunkten nach Satz 1 ist Dritten zu angemessenen und diskriminierungsfreien Bedingungen zu gewähren.
+(34) Ladepunkte, die von Betreibern von Elektrizitätsverteilernetzen bereits vor dem 27. Juli 2021 entwickelt, verwaltet oder betrieben worden sind, gelten bis zum 31. Dezember 2023 als aufgrund eines regionalen Marktversagens im Sinne von § 7c Absatz 2 Satz 1 genehmigt. Betreiber von Elektrizitätsverteilernetzen haben ihre Tätigkeiten in Bezug auf diese Ladepunkte der Bundesnetzagentur in Textform bis zum 31. Dezember 2023 anzuzeigen und bis zum 31. Dezember 2023 einzustellen, wenn nicht die Bundesnetzagentur zuvor eine Genehmigung nach § 7c Absatz 2 erteilt hat. Soweit Betreiber von Elektrizitätsverteilernetzen, die von § 7 Absatz 2 Satz 1 erfasst sind, betroffen sind, gelten Ladepunkte bis zum Ablauf des 31. Dezember 2026 als im Sinne des Satzes 1 genehmigt. Im Falle des Satzes 3 haben die Anzeige und die Einstellung der Tätigkeit nach Satz 2 bis zum Ablauf des 31. Dezember 2026 zu erfolgen. Der Zugang zu Ladepunkten nach Satz 1 ist Dritten zu angemessenen und diskriminierungsfreien Bedingungen zu gewähren.
 
 (35) § 6b Absatz 4 und § 6c Absatz 1 und 2 in der ab dem 1. August 2022 geltenden Fassung sind erstmals auf Rechnungslegungsunterlagen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis einschließlich 31. Juli 2022 geltenden Fassung sind letztmals anzuwenden auf Rechnungslegungsunterlagen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 
