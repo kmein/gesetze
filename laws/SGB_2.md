@@ -1568,7 +1568,9 @@ Bestimmt sich das Recht des Trägers nach diesem Buch, Ersatz seiner Aufwendunge
 
 # § 36a – Kostenerstattung bei Aufenthalt im Frauenhaus
 
-Sucht eine Person in einem Frauenhaus Zuflucht, ist der kommunale Träger am bisherigen gewöhnlichen Aufenthaltsort verpflichtet, dem durch die Aufnahme im Frauenhaus zuständigen kommunalen Träger am Ort des Frauenhauses die Kosten für die Zeit des Aufenthaltes im Frauenhaus zu erstatten.
+(1) Sucht eine Person in einem Frauenhaus Zuflucht, ist der kommunale Träger am bisherigen gewöhnlichen Aufenthaltsort verpflichtet, dem durch die Aufnahme im Frauenhaus zuständigen kommunalen Träger am Ort des Frauenhauses die Kosten für die Zeit des Aufenthaltes im Frauenhaus zu erstatten.
+
+(2) Bei Zeiträumen ab 1. Januar 2032 sind Kosten für die Zeit des Aufenthaltes im Frauenhaus nach Absatz 1 nicht mehr unter den kommunalen Trägern erstattungsfähig.
 
 # § 37 – Antragserfordernis
 
