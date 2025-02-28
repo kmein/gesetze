@@ -516,6 +516,8 @@ In den Ländern wird sichergestellt, dass sich junge Menschen und ihre Familien 
 
 (5) Soweit Leistungen zum Lebensunterhalt nach § 39 erbracht werden, gehen sie den Leistungen zum Lebensunterhalt nach § 93 des Vierzehnten Buches vor.
 
+(7) Die Leistungen nach diesem Buch gehen den Leistungen aus dem Gewalthilfegesetz vom 24. Februar 2025 (BGBl. 2025 I Nr. 57) vor.
+
 # § 10a – Beratung
 
 (1) Zur Wahrnehmung ihrer Rechte nach diesem Buch werden junge Menschen, Mütter, Väter, Personensorge- und Erziehungsberechtigte, die leistungsberechtigt sind oder Leistungen nach § 2 Absatz 2 erhalten sollen, in einer für sie verständlichen, nachvollziehbaren und wahrnehmbaren Form, auf ihren Wunsch auch im Beisein einer Person ihres Vertrauens, beraten.
