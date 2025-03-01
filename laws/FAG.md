@@ -13,19 +13,91 @@
 
 (2) Die im Folgenden genannten Beträge verändern die Anteile des Bundes, der Länder und Gemeinden nach Absatz 1:
 
-| Kalenderjahr |           Bund            |       Länder        |          Gemeinden |
-|:----------|:-------------------:|:------------------------:|--------------:|
-| 2020         | minus 20 533 717 472 Euro | 15 858 934 915 Euro | 4 674 782 557 Euro |
-| 2021         | minus 17 142 407 683 Euro | 12 988 407 683 Euro | 4 154 000 000 Euro |
-| 2022         | minus 15 008 682 590 Euro | 12 608 682 590 Euro | 2 400 000 000 Euro |
-| 2023         | minus 13 792 407 683 Euro | 11 392 407 683 Euro | 2 400 000 000 Euro |
-| 2024         | minus 12 480 407 683 Euro | 10 080 407 683 Euro | 2 400 000 000 Euro |
-| 2025         | minus 11 305 407 683 Euro |  8 905 407 683 Euro | 2 400 000 000 Euro |
-| 2026         | minus 11 440 407 683 Euro |  9 040 407 683 Euro | 2 400 000 000 Euro |
-| 2027         | minus 11 577 407 683 Euro |  9 177 407 683 Euro | 2 400 000 000 Euro |
-| 2028         | minus 11 902 407 683 Euro |  9 502 407 683 Euro | 2 400 000 000 Euro |
-| 2029         | minus 12 127 407 683 Euro |  9 727 407 683 Euro | 2 400 000 000 Euro |
-| ab 2030      | minus 11 717 407 683 Euro |  9 317 407 683 Euro | 2 400 000 000 Euro |
+<table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 28%" />
+<col style="width: 37%" />
+<col style="width: 20%" />
+</colgroup>
+<thead data-valign="bottom">
+<tr class="header" data-valign="middle">
+<th style="text-align: left; font-weight: normal;" data-valign="middle" data-charoff="50">Kalenderjahr</th>
+<th style="text-align: center; font-weight: normal;" data-valign="middle" data-charoff="50">Bund</th>
+<th style="text-align: center; font-weight: normal;" data-valign="middle" data-charoff="50">Länder</th>
+<th style="text-align: center; font-weight: normal;" data-valign="middle" data-charoff="50">Gemeinden</th>
+</tr>
+</thead>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2020</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">minus 20 533 717 472 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">15 858 934 915 Euro</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4 674 782 557 Euro</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2021</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">minus 17 142 407 683 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">12 988 407 683 Euro</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">4 154 000 000 Euro</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2022</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">minus 15 008 682 590 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">12 608 682 590 Euro</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2023</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">minus 13 792 407 683 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">11 392 407 683 Euro</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2024</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">minus 12 480 407 683 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">10 080 407 683 Euro</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2025</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">minus 11 305 407 683 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 8 905 407 683 Euro</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2026</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">minus 11 440 407 683 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 9 040 407 683 Euro</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2027</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">minus 11 689 407 683 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 9 289 407 683 Euro</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2028</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">minus 12 043 907 683 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">9 643 907 683 Euro</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2029</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">minus 12 322 407 683
+Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">9 922 407 683 Euro</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">ab 2030</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">minus 11 717 407 683 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 9 317 407 683 Euro</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
+</tr>
+</tbody>
+</table>
 
 (2a) Zur finanziellen Beteiligung der Länder an der Bekämpfung der durch die Starkregenfälle und das Hochwasser im Juli 2021 verursachten Schäden und dem Wiederaufbau erhöhen sich die in Absatz 2 genannten Beträge für den Bund um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050; die in Absatz 2 genannten Beträge für die Länder verringern sich entsprechend um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050.
 
@@ -36,6 +108,8 @@
 (5) Zum Ausgleich für Belastungen der Länder aus dem KiTa-Qualitäts- und -Teilhabeverbesserungsgesetz vom 19. Dezember 2018 (BGBl. I S. 2696) und aus der Änderung des Achten Buches Sozialgesetzbuch durch die Artikel 1 und 2 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2696) verringern sich die in Absatz 2 genannten Beträge für den Bund im Jahr 2020 um 993 Millionen Euro, in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro, im Jahr 2023 um 1 884 Millionen Euro und im Jahr 2024 um 1 993 Millionen Euro; die in Absatz 2 genannten Beträge für die Länder erhöhen sich entsprechend im Jahr 2020 um 993 Millionen Euro, in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro, im Jahr 2023 um 1 884 Millionen Euro und im Jahr 2024 um 1 993 Millionen Euro.
 
 (6) Um den finanziellen Lasten der Länder, die ihnen aus der Umsetzung des Aktionsprogramms „Aufholen nach Corona für Kinder und Jugendliche für die Jahre 2021 und 2022“ im eigenen Zuständigkeitsbereich entstehen, Rechnung zu tragen, verringern sich die in Absatz 2 genannten Beträge für den Bund im Jahr 2021 um weitere 430 Millionen Euro und im Jahr 2022 um weitere 860 Millionen Euro; die in Absatz 2 genannten Beträge für die Länder erhöhen sich entsprechend im Jahr 2021 um weitere 430 Millionen Euro und im Jahr 2022 um weitere 860 Millionen Euro.
+
+§ 1 Abs. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde nach der Angabe "minus 12 322 407 683" das Wort "Euro" eingefügt
 
 # § 2 – Verteilung der Umsatzsteuer unter den Ländern
 

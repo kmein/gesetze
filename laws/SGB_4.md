@@ -3030,7 +3030,21 @@ Arbeitgeber müssen ab dem 1. Juli 2025 für die in der sozialen Pflegeversicher
 
 Auf Antrag des Arbeitgebers bei dem für die Prüfung nach § 28p Absatz 1 Satz 1 zuständigen Rentenversicherungsträger kann für Zeiträume bis zum 31. Dezember 2026 auf eine elektronische Übermittlung der gespeicherten Daten nach § 28p Absatz 6a verzichtet werden.
 
-# § 127 – (weggefallen)
+# § 127 – Übergangsregelung für Lehrtätigkeiten
+
+(1) Stellt ein Versicherungsträger in einem Verfahren zur Feststellung des Erwerbsstatus nach § 7a oder im Rahmen der Feststellung der Versicherungspflicht und Beitragshöhe in der Kranken-, Pflege- und Rentenversicherung sowie nach dem Recht der Arbeitsförderung nach § 28h Absatz 2 oder § 28p Absatz 1 Satz 5 fest, dass bei einer Lehrtätigkeit eine Beschäftigung vorliegt, so tritt Versicherungspflicht aufgrund dieser Beschäftigung erst ab dem 1. Januar 2027 ein, wenn
+
+1. die Vertragsparteien bei Vertragsschluss übereinstimmend von einer selbständigen Tätigkeit ausgegangen sind und
+
+2. die Person, die die Lehrtätigkeit ausübt, zustimmt.
+
+Sofern keine solche Feststellung vorliegt und die Vertragsparteien bei Vertragsschluss übereinstimmend von einer selbständigen Tätigkeit ausgegangen sind und die Person, die die Lehrtätigkeit ausübt, gegenüber dem Vertragspartner zustimmt, tritt bis zum 31. Dezember 2026 keine Versicherungs- und Beitragspflicht aufgrund einer Beschäftigung ein.
+
+(2) Sofern die Voraussetzungen des Absatzes 1 erfüllt sind, gelten ab dem 1. März 2025 bis zum 31. Dezember 2026 die betroffenen Personen als Selbständige im Sinne der Regelungen zur Versicherungs- und Beitragspflicht für selbständig tätige Lehrer nach dem Sechsten Buch. Abweichend von Satz 1 gelten für Personen, bei denen die Voraussetzungen nach Absatz 1 erfüllt sind und die mit der Lehrtätigkeit nach Absatz 1 die Voraussetzungen des § 1 des Künstlersozialversicherungsgesetzes erfüllen würden, wenn diese als selbständige Tätigkeit ausgeübt würde, die Regelungen zur Versicherungs-und Beitragspflicht nach dem Künstlersozialversicherungsgesetz bis zum 31. Dezember 2026 entsprechend.
+
+(3) Sofern die Voraussetzungen des Absatzes 1 erfüllt sind, gelten Pflichtbeiträge, die aufgrund der Lehrtätigkeit nach den Vorschriften für selbständig tätige Lehrer nach dem Sechsten Buch vor dem 1. März 2025 entrichtet wurden, als zu Recht entrichtet.
+
+(4) Sofern die Voraussetzungen nach Absatz 1 erfüllt sind, gilt für die betroffenen Personen, die zum Zeitpunkt der Feststellung nach Absatz 1 Satz 1 oder der Zustimmung nach Absatz 1 Satz 2 nach § 28a des Dritten Buches versichert waren, § 28a des Dritten Buches ab Beginn der Beschäftigung bis zum 31. Dezember 2026 entsprechend.
 
 # § 128 – Außerordentliche Hemmung der Verjährung
 

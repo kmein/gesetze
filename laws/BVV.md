@@ -177,7 +177,9 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 
 18a. bei einem Antrag auf Abschluss einer Ausnahmevereinbarung eine Erklärung, in welcher der Beschäftigte bestätigt, dass der Abschluss einer Ausnahmevereinbarung zur Geltung der deutschen Rechtsvorschriften nach Artikel 16 der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 in seinem Interesse liegt,
 
-19. die Erklärung des Verzichts auf die Versicherungsfreiheit nach § 5 Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten Buches Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber dokumentiert ist.
+19. die Erklärung des Verzichts auf die Versicherungsfreiheit nach § 5 Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten Buches Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber dokumentiert ist,
+
+20. die Zustimmung des Beschäftigten zum Zeitpunkt des Eintritts der Versicherungspflicht aufgrund Beschäftigung nach § 127 Absatz 1 Satz 1 Nummer 2 und Satz 2 des Vierten Buches Sozialgesetzbuch.
 
 In den Fällen des § 126 des Vierten Buches Sozialgesetzbuch kann weiterhin eine Prüfung von schriftlichen Unterlagen erfolgen.
 

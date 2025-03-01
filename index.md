@@ -2457,6 +2457,7 @@
 - [GewAnzV](laws/GewAnzV.md) Verordnung zur Ausgestaltung des Gewerbeanzeigeverfahrens
 - [GewBezG](laws/GewBezG.md) Gesetz über die Gewichtsbezeichnung an schweren, auf Schiffen beförderten Frachtstücken
 - [GewebeG](laws/GewebeG.md) Gesetz über Qualität und Sicherheit von menschlichen Geweben und Zellen
+- [GewHG](laws/GewHG.md) Gesetz zur Sicherung des Zugangs zu Schutz und Beratung bei geschlechtsspezifischer und häuslicher Gewalt
 - [GewinnungsAbfV](laws/GewinnungsAbfV.md) Verordnung zur Umsetzung der Richtlinie 2006/21/EG des Europäischen Parlaments und des Rates vom 15. März 2006 über die Bewirtschaftung von Abfällen aus der mineralgewinnenden Industrie und zur Änderung der Richtlinie 2004/35/EG
 - [GewO](laws/GewO.md) Gewerbeordnung
 - [GewO§34cDVÄndV 3](laws/GewO§34cDVÄndV_3.md) Dritte Verordnung zur Änderung der Makler- und Bauträgerverordnung
