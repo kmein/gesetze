@@ -722,6 +722,7 @@
 - [BetrWHwOPrV](laws/BetrWHwOPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung und Geprüfte Betriebswirtin nach der Handwerksordnung
 - [BeurkG](laws/BeurkG.md) Beurkundungsgesetz
 - [BEVBDGZustAnO](laws/BEVBDGZustAnO.md) Anordnung des Präsidenten des Bundeseisenbahnvermögens über die Übertragung von Zuständigkeiten nach dem Bundesdisziplinargesetz im Geschäftsbereich des Bundeseisenbahnvermögens
+- [BEVBeihAnO](laws/BEVBeihAnO.md) Anordnung des Präsidenten des Bundeseisenbahnvermögens zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe
 - [BevStatG](laws/BevStatG.md) Gesetz über die Statistik der Bevölkerungsbewegung und die Fortschreibung des Bevölkerungsstandes
 - [BEVVG](laws/BEVVG.md) Gesetz über die Eisenbahnverkehrsverwaltung des Bundes
 - [BewachRV](laws/BewachRV.md) Verordnung über das Bewacherregister
@@ -1050,6 +1051,7 @@
 - [BörsG](laws/BörsG.md) Börsengesetz
 - [BörsZulV](laws/BörsZulV.md) Verordnung über die Zulassung von Wertpapieren zum regulierten Markt einer Wertpapierbörse
 - [BöttchAusbV](laws/BöttchAusbV.md) Verordnung über die Berufsausbildung zum Böttcher und zur Böttcherin*)
+- [BöttchMstrV](laws/BöttchMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Böttcher-Handwerk
 - [BogMstrV](laws/BogMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Bogenmacher-Handwerk
 - [BOKraft](laws/BOKraft.md) Verordnung über den Betrieb von Kraftfahrunternehmen im Personenverkehr
 - [BootsbAusbV 2011](laws/BootsbAusbV_2011.md) Verordnung über die Berufsausbildung zum Bootsbauer und zur Bootsbauerin*)
@@ -1265,7 +1267,7 @@
 - [Bürgergeld-V](laws/Bürgergeld-V.md) Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld
 - [BürgPoRPakt](laws/BürgPoRPakt.md) Internationaler Pakt über bürgerliche und politische Rechte
 - [BürgPoRPaktGG](laws/BürgPoRPaktGG.md) Gesetz zu dem Internationalen Pakt vom 19. Dezember 1966 über bürgerliche und politische Rechte
-- [BüroMKfAusbV](laws/BüroMKfAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement*
+- [BüroMKfAusbV](laws/BüroMKfAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement *
 - [BüroMKfAusbVErprV](laws/BüroMKfAusbVErprV.md) Verordnung über die Erprobung abweichender Ausbildungs- und Prüfungsbestimmungen in der Büromanagementkaufleute-Ausbildungsverordnung
 - [BürstPiMstrV](laws/BürstPiMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Bürsten- und Pinselmacher-Gewerbe
 - [BüsingenVtr CHE](laws/BüsingenVtr_CHE.md) Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet
