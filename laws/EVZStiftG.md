@@ -89,6 +89,16 @@ Organe der Stiftung sind
 
 Die entsendende Stelle kann für jedes Kuratoriumsmitglied einen Vertreter bestimmen. Durch einstimmigen Beschluss des Kuratoriums kann eine andere Zusammensetzung des Kuratoriums zugelassen werden.
 
+(1a) Das Kuratorium kann aus wichtigem Grund mit einer Mehrheit von zwei Dritteln seiner Mitglieder die Mitgliedschaft eines Kuratoriumsmitglieds oder eines Vertreters für einen festgelegten Zeitraum aussetzen. Sofern der wichtige Grund in dem Verhalten der entsendenden Stelle selbst liegt, kann das Kuratorium für den festgelegten Zeitraum zudem das Benennungsrecht der entsendenden Stelle aussetzen. Abweichend von Absatz 4 Satz 4 gilt das Mehrheitserfordernis der Sätze 1 und 2 auch für eine Beschlussfassung im schriftlichen Verfahren. Ein wichtiger Grund liegt insbesondere dann vor, wenn die Mitgliedschaft im Kuratorium geeignet ist,
+
+1. die Verwirklichung des Stiftungszwecks gemäß § 2 zu gefährden,
+
+2. den Interessen oder dem Ansehen der Stiftung zu schaden oder
+
+3. an der Durchführung von Projekten der Stiftung beteiligte Personen zu gefährden.
+
+Das Kuratorium kann mit einer Mehrheit von zwei Dritteln seiner Mitglieder eine Aussetzung nach Satz 1 oder 2 jederzeit aufheben.
+
 (2) Die Amtszeit der Kuratoriumsmitglieder beträgt vier Jahre. Scheidet ein Mitglied vorzeitig aus, kann für den Rest seiner Amtszeit ein Nachfolger benannt werden. Die Mitglieder des Kuratoriums können von der entsendenden Stelle jederzeit abberufen werden.
 
 (3) Das Kuratorium gibt sich eine Geschäftsordnung.

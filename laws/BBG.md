@@ -77,7 +77,7 @@ In das Beamtenverhältnis darf nicht berufen werden, wer unveränderliche Merkma
 
 (2) Wenn die Aufgaben es erfordern, darf nur eine Deutsche oder ein Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes in ein Beamtenverhältnis berufen werden.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat kann Ausnahmen von Absatz 1 Nr. 1 und Absatz 2 zulassen, wenn für die Berufung der Beamtin oder des Beamten ein dringendes dienstliches Bedürfnis besteht.
+(3) Das Bundesministerium des Innern und für Heimat kann Ausnahmen von Absatz 1 Nr. 1 und Absatz 2 zulassen, wenn für die Berufung der Beamtin oder des Beamten ein dringendes dienstliches Bedürfnis besteht.
 
 # § 8 – Stellenausschreibung
 
@@ -281,7 +281,7 @@ anerkannt werden.
 
 (2) Die deutsche Sprache muss in dem für die Wahrnehmung der Aufgaben der Laufbahn erforderlichen Maß beherrscht werden.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung die Voraussetzungen und das Verfahren der Anerkennung zu bestimmen.
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt, durch Rechtsverordnung die Voraussetzungen und das Verfahren der Anerkennung zu bestimmen.
 
 (4) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des § 12 Absatz 5 Satz 2 und des § 17 keine Anwendung.
 
@@ -1220,7 +1220,7 @@ Die Versetzung in den Ruhestand wird von der für die Ernennung zuständigen Ste
 
 (1) Beamtinnen und Beamte haben sich mit vollem persönlichem Einsatz ihrem Beruf zu widmen. Sie haben das ihnen übertragene Amt uneigennützig nach bestem Gewissen wahrzunehmen. Ihr Verhalten innerhalb und außerhalb des Dienstes muss der Achtung und dem Vertrauen gerecht werden, die ihr Beruf erfordert.
 
-(2) Beamtinnen und Beamte haben bei Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem Dienstbezug auch hinsichtlich ihres Erscheinungsbilds Rücksicht auf das ihrem Amt entgegengebrachte Vertrauen zu nehmen. Insbesondere das Tragen von bestimmten Kleidungsstücken, Schmuck, Symbolen und Tätowierungen im sichtbaren Bereich sowie die Art der Haar- und Barttracht können von der obersten Dienstbehörde eingeschränkt oder untersagt werden, soweit die Funktionsfähigkeit der Verwaltung oder die Pflicht zum achtungs- und vertrauenswürdigen Verhalten dies erfordert. Das ist insbesondere dann der Fall, wenn Merkmale des Erscheinungsbilds nach Satz 2 durch ihre über das übliche Maß hinausgehende besonders individualisierende Art geeignet sind, die amtliche Funktion der Beamtin oder des Beamten in den Hintergrund zu drängen. Religiös oder weltanschaulich konnotierte Merkmale des Erscheinungsbilds nach Satz 2 können nur dann eingeschränkt oder untersagt werden, wenn sie objektiv geeignet sind, das Vertrauen in die neutrale Amtsführung der Beamtin oder des Beamten zu beeinträchtigen. Das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium der Finanzen sowie das Bundesministerium der Justiz und für Verbraucherschutz werden ermächtigt, jeweils für ihren Geschäftsbereich die Einzelheiten zu den Sätzen 2 bis 4 durch Rechtsverordnung zu regeln. Die Verhüllung des Gesichts bei der Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem Dienstbezug ist stets unzulässig, es sei denn, dienstliche oder gesundheitliche Gründe erfordern dies.
+(2) Beamtinnen und Beamte haben bei Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem Dienstbezug auch hinsichtlich ihres Erscheinungsbilds Rücksicht auf das ihrem Amt entgegengebrachte Vertrauen zu nehmen. Insbesondere das Tragen von bestimmten Kleidungsstücken, Schmuck, Symbolen und Tätowierungen im sichtbaren Bereich sowie die Art der Haar- und Barttracht können von der obersten Dienstbehörde eingeschränkt oder untersagt werden, soweit die Funktionsfähigkeit der Verwaltung oder die Pflicht zum achtungs- und vertrauenswürdigen Verhalten dies erfordert. Das ist insbesondere dann der Fall, wenn Merkmale des Erscheinungsbilds nach Satz 2 durch ihre über das übliche Maß hinausgehende besonders individualisierende Art geeignet sind, die amtliche Funktion der Beamtin oder des Beamten in den Hintergrund zu drängen. Religiös oder weltanschaulich konnotierte Merkmale des Erscheinungsbilds nach Satz 2 können nur dann eingeschränkt oder untersagt werden, wenn sie objektiv geeignet sind, das Vertrauen in die neutrale Amtsführung der Beamtin oder des Beamten zu beeinträchtigen. Das Bundesministerium des Innern und für Heimat, das Bundesministerium der Finanzen sowie das Bundesministerium der Justiz und für Verbraucherschutz werden ermächtigt, jeweils für ihren Geschäftsbereich die Einzelheiten zu den Sätzen 2 bis 4 durch Rechtsverordnung zu regeln. Die Verhüllung des Gesichts bei der Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem Dienstbezug ist stets unzulässig, es sei denn, dienstliche oder gesundheitliche Gründe erfordern dies.
 
 (3) Beamtinnen und Beamte sind verpflichtet, an Maßnahmen der dienstlichen Qualifizierung zur Erhaltung oder Fortentwicklung ihrer Kenntnisse und Fähigkeiten teilzunehmen.
 
@@ -1364,7 +1364,7 @@ Der Dienstherr hat im Rahmen des Dienst- und Treueverhältnisses für das Wohl d
 
 (1) Die Bundesregierung regelt durch Rechtsverordnung die der Eigenart des öffentlichen Dienstes entsprechende Anwendung der Vorschriften des Mutterschutzgesetzes auf Beamtinnen. Diese Rechtsverordnung stellt für Beamtinnen hinsichtlich Inhalt, Art und Umfang den Schutz sicher, der Frauen nach dem Mutterschutzgesetz gewährleistet wird. Für die Kontrolle und Überwachung der Einhaltung der dem Gesundheitsschutz dienenden mutterschutzrechtlichen Vorschriften gilt § 29 des Mutterschutzgesetzes entsprechend.
 
-(2) Die Bundesregierung regelt durch Rechtsverordnung die der Eigenart des öffentlichen Dienstes entsprechende Anwendung der Vorschriften des Bundeselterngeld- und Elternzeitgesetzes über die Elternzeit auf Beamtinnen und Beamte. Das Bundesministerium des Innern, für Bau und Heimat kann in den Fällen des Artikels 91 Absatz 2 Satz 1 und des Artikels 115f Absatz 1 Nummer 1 des Grundgesetzes den Anspruch auf Elternzeit für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei aus zwingenden Gründen der inneren Sicherheit ausschließen oder einschränken.
+(2) Die Bundesregierung regelt durch Rechtsverordnung die der Eigenart des öffentlichen Dienstes entsprechende Anwendung der Vorschriften des Bundeselterngeld- und Elternzeitgesetzes über die Elternzeit auf Beamtinnen und Beamte. Das Bundesministerium des Innern und für Heimat kann in den Fällen des Artikels 91 Absatz 2 Satz 1 und des Artikels 115f Absatz 1 Nummer 1 des Grundgesetzes den Anspruch auf Elternzeit für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei aus zwingenden Gründen der inneren Sicherheit ausschließen oder einschränken.
 
 (3) Das Jugendarbeitsschutzgesetz gilt für jugendliche Beamtinnen und jugendliche Beamte entsprechend. Die Bundesregierung kann durch Rechtsverordnung Ausnahmen von den Vorschriften des Jugendarbeitsschutzgesetzes für jugendliche Polizeivollzugsbeamtinnen und jugendliche Polizeivollzugsbeamte bestimmen, soweit diese aufgrund der Eigenart des Polizeivollzugsdienstes oder aus Gründen der inneren Sicherheit erforderlich sind.
 
@@ -1414,7 +1414,7 @@ Beihilfe darf nur gewährt werden, soweit sie zusammen mit anderen aus demselben
 
 (5) Steht einer beihilfeberechtigten oder berücksichtigungsfähigen Person gegen eine Leistungserbringerin oder einen Leistungserbringer wegen einer unrichtigen Abrechnung ein Anspruch auf Erstattung oder Schadensersatz zu, kann der Dienstherr durch schriftliche oder elektronische Anzeige gegenüber der Leistungserbringerin oder dem Leistungserbringer bewirken, dass der Anspruch insoweit auf ihn übergeht, als er aufgrund der unrichtigen Abrechnung zu hohe Beihilfeleistungen erbracht hat. Satz 1 gilt für den Anspruch gegen eine Abrechnungsstelle der Leistungserbringerin oder des Leistungserbringers entsprechend.
 
-(6) Das Bundesministerium des Innern, für Bau und Heimat regelt im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium der Finanzen, dem Bundesministerium der Verteidigung und dem Bundesministerium für Gesundheit durch Rechtsverordnung ohne Zustimmung des Bundesrates die näheren Einzelheiten, insbesondere zu den beihilfeberechtigten und berücksichtigungsfähigen Personen sowie zu Inhalt und Umfang der Beihilfen. In der Rechtsverordnung können unter anderem vorgesehen werden:
+(6) Das Bundesministerium des Innern und für Heimat regelt im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium der Finanzen, dem Bundesministerium der Verteidigung und dem Bundesministerium für Gesundheit durch Rechtsverordnung ohne Zustimmung des Bundesrates die näheren Einzelheiten, insbesondere zu den beihilfeberechtigten und berücksichtigungsfähigen Personen sowie zu Inhalt und Umfang der Beihilfen. In der Rechtsverordnung können unter anderem vorgesehen werden:
 
 1. Höchstbeträge,
 
@@ -1438,7 +1438,7 @@ c) die Beschränkung der Beihilfefähigkeit von Aufwendungen für Untersuchungen
 
 (2) Die Einzelheiten zu Art und Umfang der Reisekostenvergütung sowie die Grundsätze des Abrechnungsverfahrens regelt die Bundesregierung durch Rechtsverordnung. Bei der Bemessung der Reisekostenvergütung können Höchstgrenzen oder Pauschalen für eine Erstattung festgesetzt und abweichende Regelungen für besondere Fälle getroffen werden.
 
-(3) Für Reisen nach Absatz 1 im oder in das Ausland sowie vom Ausland in das Inland (Auslandsdienstreisen) kann das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen durch Rechtsverordnung abweichende Vorschriften erlassen. Dazu gehören die Anordnung und Genehmigung von Dienstreisen sowie der Umfang der Reisekostenvergütung einschließlich zusätzlich zu erstattender notwendiger Kosten, die der Erreichung des Zwecks von Auslandsdienstreisen dienen und die die besonderen Verhältnisse im Ausland berücksichtigen.
+(3) Für Reisen nach Absatz 1 im oder in das Ausland sowie vom Ausland in das Inland (Auslandsdienstreisen) kann das Bundesministerium des Innern und für Heimat im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen durch Rechtsverordnung abweichende Vorschriften erlassen. Dazu gehören die Anordnung und Genehmigung von Dienstreisen sowie der Umfang der Reisekostenvergütung einschließlich zusätzlich zu erstattender notwendiger Kosten, die der Erreichung des Zwecks von Auslandsdienstreisen dienen und die die besonderen Verhältnisse im Ausland berücksichtigen.
 
 # § 82 – Umzugskosten
 
@@ -1456,7 +1456,7 @@ c) die Beschränkung der Beihilfefähigkeit von Aufwendungen für Untersuchungen
 
 (2) Die Einzelheiten zu Art und Umfang der Umzugskostenvergütung sowie die Grundsätze des Abrechnungsverfahrens regelt die Bundesregierung durch Rechtsverordnung. Bei der Bemessung der Umzugskostenvergütung können Höchstgrenzen oder Pauschalen für eine Erstattung festgesetzt und abweichende Regelungen für besondere Fälle getroffen werden.
 
-(3) Für Umzüge nach Absatz 1 im oder in das Ausland sowie aus dem Ausland in das Inland (Auslandsumzüge) kann das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen durch Rechtsverordnung abweichende Vorschriften zur Umzugskostenvergütung erlassen, soweit die besonderen Bedürfnisse des Auslandsdienstes und die besonderen Verhältnisse im Ausland es erfordern.
+(3) Für Umzüge nach Absatz 1 im oder in das Ausland sowie aus dem Ausland in das Inland (Auslandsumzüge) kann das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des Innern und für Heimat, dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen durch Rechtsverordnung abweichende Vorschriften zur Umzugskostenvergütung erlassen, soweit die besonderen Bedürfnisse des Auslandsdienstes und die besonderen Verhältnisse im Ausland es erfordern.
 
 # § 83 – Trennungsgeld
 
@@ -1466,7 +1466,7 @@ c) die Beschränkung der Beihilfefähigkeit von Aufwendungen für Untersuchungen
 
 (3) Die Einzelheiten zu Art und Umfang des Trennungsgeldes und der Gewährung von Reisebeihilfen für Familienheimfahrten sowie die Grundsätze des Abrechnungsverfahrens regelt die Bundesregierung durch Rechtsverordnung. Bei der Bemessung des Trennungsgeldes und der Reisebeihilfen für Familienheimfahrten können Höchstgrenzen und Pauschalen für eine Erstattung festgesetzt und abweichende Regelungen für besondere Fälle getroffen werden.
 
-(4) Für Maßnahmen nach Absatz 1 im oder in das Ausland sowie vom Ausland in das Inland kann das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen durch Rechtsverordnung abweichende Vorschriften zu Trennungsgeld und Reisebeihilfen für Familienheimfahrten erlassen, soweit die besonderen Bedürfnisse des Auslandsdienstes und die besonderen Verhältnisse im Ausland es erfordern.
+(4) Für Maßnahmen nach Absatz 1 im oder in das Ausland sowie vom Ausland in das Inland kann das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des Innern und für Heimat, dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen durch Rechtsverordnung abweichende Vorschriften zu Trennungsgeld und Reisebeihilfen für Familienheimfahrten erlassen, soweit die besonderen Bedürfnisse des Auslandsdienstes und die besonderen Verhältnisse im Ausland es erfordern.
 
 # § 84 – Jubiläumszuwendung
 
@@ -1498,7 +1498,7 @@ Beamtinnen und Beamten wird auf Antrag ein Dienstzeugnis über Art und Dauer der
 
 # § 88 – Mehrarbeit
 
-Beamtinnen und Beamte sind verpflichtet, ohne Vergütung über die regelmäßige wöchentliche Arbeitszeit hinaus Dienst zu tun, wenn zwingende dienstliche Verhältnisse dies erfordern und sich die Mehrarbeit auf Ausnahmefälle beschränkt. Werden sie durch eine dienstlich angeordnete oder genehmigte Mehrarbeit mehr als fünf Stunden im Monat über die regelmäßige Arbeitszeit hinaus beansprucht, ist ihnen innerhalb eines Jahres für die Mehrarbeit, die sie über die regelmäßige Arbeitszeit hinaus leisten, entsprechende Dienstbefreiung zu gewähren. Bei Teilzeitbeschäftigung sind die fünf Stunden anteilig zu kürzen. Ist die Dienstbefreiung aus zwingenden dienstlichen Gründen nicht möglich, können Beamtinnen und Beamte in Besoldungsgruppen mit aufsteigenden Gehältern eine Vergütung erhalten.
+Beamtinnen und Beamte sind verpflichtet, ohne Vergütung über die regelmäßige wöchentliche Arbeitszeit hinaus Dienst zu tun, wenn zwingende dienstliche Verhältnisse dies erfordern und sich die Mehrarbeit auf Ausnahmefälle beschränkt. Werden sie durch eine dienstlich angeordnete oder genehmigte Mehrarbeit mehr als fünf Stunden im Monat über die regelmäßige Arbeitszeit hinaus beansprucht, ist ihnen innerhalb einer Ausschlussfrist von einem Jahr für die Mehrarbeit, die sie über die regelmäßige Arbeitszeit hinaus leisten, entsprechende Dienstbefreiung zu gewähren. Bei Teilzeitbeschäftigung sind die fünf Stunden anteilig zu kürzen. Der Dienstherr kann die Dienstbefreiung einseitig anordnen. Ist die Dienstbefreiung aus zwingenden dienstlichen Gründen nicht möglich, können Beamtinnen und Beamte in Besoldungsgruppen mit aufsteigenden Gehältern eine Vergütung erhalten.
 
 # § 89 – Erholungsurlaub
 
@@ -1620,7 +1620,7 @@ Der Antrag muss sich auf die gesamte Zeit bis zum Eintritt in den Ruhestand erst
 
 (4) Beamtinnen und Beamten ist unter den Voraussetzungen des Absatzes 3 Satz 1 mit Ausnahme des Satzes 1 Nummer 4 und 5 Altersteilzeit im Rahmen einer Quote von 2,5 Prozent der Beamtinnen und Beamten der obersten Dienstbehörden einschließlich ihrer Geschäftsbereiche zu bewilligen. Die Bewilligung von Altersteilzeit ist ausgeschlossen, wenn diese Quote durch die Altersteilzeitverhältnisse nach Satz 1 und den Absätzen 1 bis 3 ausgeschöpft ist oder der Bewilligung dienstliche Belange entgegenstehen.
 
-(5) Das Bundesministerium des Innern, für Bau und Heimat regelt im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Einzelheiten der Altersteilzeitbewilligung, insbesondere die Festlegung der Restrukturierungs- und Stellenabbaubereiche nach Absatz 3 Satz 1 Nummer 4 und die Verteilung der Quote nach Absatz 4.
+(5) Das Bundesministerium des Innern und für Heimat regelt im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Einzelheiten der Altersteilzeitbewilligung, insbesondere die Festlegung der Restrukturierungs- und Stellenabbaubereiche nach Absatz 3 Satz 1 Nummer 4 und die Verteilung der Quote nach Absatz 4.
 
 (6) Änderungen der regelmäßigen wöchentlichen Arbeitszeit nach den Arbeitszeitregelungen gelten für die zu leistende Arbeitszeit entsprechend.
 
@@ -1962,15 +1962,15 @@ Die Spitzenorganisationen der zuständigen Gewerkschaften sind bei der Vorbereit
 
 (1) Der Bundespersonalausschuss besteht aus acht ordentlichen und acht stellvertretenden Mitgliedern.
 
-(2) Ständige ordentliche Mitglieder sind die Präsidentin des Bundesrechnungshofes oder der Präsident des Bundesrechnungshofes als Vorsitzende oder Vorsitzender und die Leiterin der Dienstrechtsabteilung oder der Leiter der Dienstrechtsabteilung des Bundesministeriums des Innern, für Bau und Heimat. Nichtständige ordentliche Mitglieder sind die Leiterinnen der Zentralabteilungen und Leiter der Zentralabteilungen von zwei anderen obersten Bundesbehörden und vier weitere Beamtinnen und Beamte des Bundes. Stellvertretende Mitglieder sind je eine Beamtin oder ein Beamter des Bundes der in Satz 1 genannten Behörden, die Leiterinnen der Zentralabteilungen und Leiter der Zentralabteilungen von zwei weiteren obersten Bundesbehörden sowie vier weitere Beamtinnen oder Beamte des Bundes.
+(2) Ständige ordentliche Mitglieder sind die Präsidentin des Bundesrechnungshofes oder der Präsident des Bundesrechnungshofes als Vorsitzende oder Vorsitzender und die Leiterin der Dienstrechtsabteilung oder der Leiter der Dienstrechtsabteilung des Bundesministeriums des Innern und für Heimat. Nichtständige ordentliche Mitglieder sind die Leiterinnen der Zentralabteilungen und Leiter der Zentralabteilungen von zwei anderen obersten Bundesbehörden und vier weitere Beamtinnen und Beamte des Bundes. Stellvertretende Mitglieder sind je eine Beamtin oder ein Beamter des Bundes der in Satz 1 genannten Behörden, die Leiterinnen der Zentralabteilungen und Leiter der Zentralabteilungen von zwei weiteren obersten Bundesbehörden sowie vier weitere Beamtinnen oder Beamte des Bundes.
 
-(3) Die nichtständigen ordentlichen Mitglieder sowie die stellvertretenden Mitglieder werden von der Bundespräsidentin oder vom Bundespräsidenten auf Vorschlag der Bundesministerin des Innern, für Bau und Heimat oder des Bundesministers des Innern, für Bau und Heimat für die Dauer von vier Jahren bestellt, davon vier ordentliche und vier stellvertretende Mitglieder aufgrund einer Benennung durch die Spitzenorganisationen der zuständigen Gewerkschaften.
+(3) Die nichtständigen ordentlichen Mitglieder sowie die stellvertretenden Mitglieder werden von der Bundespräsidentin oder vom Bundespräsidenten auf Vorschlag der Bundesministerin des Innern und für Heimat oder des Bundesministers des Innern und für Heimat für die Dauer von vier Jahren bestellt, davon vier ordentliche und vier stellvertretende Mitglieder aufgrund einer Benennung durch die Spitzenorganisationen der zuständigen Gewerkschaften.
 
-(4) Der Bundespersonalausschuss wird zur Durchführung seiner Aufgaben durch eine Geschäftsstelle im Bundesministerium des Innern, für Bau und Heimat unterstützt.
+(4) Der Bundespersonalausschuss wird zur Durchführung seiner Aufgaben durch eine Geschäftsstelle im Bundesministerium des Innern und für Heimat unterstützt.
 
 # § 121 – Rechtsstellung der Mitglieder
 
-Die Dienstaufsicht über die Mitglieder des Bundespersonalausschusses führt im Auftrag der Bundesregierung die Bundesministerin des Innern, für Bau und Heimat oder der Bundesminister des Innern, für Bau und Heimat mit folgenden Maßgaben:
+Die Dienstaufsicht über die Mitglieder des Bundespersonalausschusses führt im Auftrag der Bundesregierung die Bundesministerin des Innern und für Heimat oder der Bundesminister des Innern und für Heimat mit folgenden Maßgaben:
 
 1. Die Mitglieder des Bundespersonalausschusses sind unabhängig und nur dem Gesetz unterworfen. Sie dürfen wegen ihrer Tätigkeit weder dienstlich gemaßregelt noch benachteiligt werden.
 
@@ -2030,7 +2030,7 @@ Der Bundespersonalausschuss gibt sich eine Geschäftsordnung.
 
 (1) Bei Klagen aus dem Beamtenverhältnis wird der Dienstherr durch die oberste Dienstbehörde vertreten, der die Beamtin oder der Beamte untersteht oder bei der Beendigung des Beamtenverhältnisses unterstanden hat. Bei Ansprüchen nach den §§ 53 bis 61 des Beamtenversorgungsgesetzes wird der Dienstherr durch die oberste Dienstbehörde vertreten, deren sachlicher Weisung die Regelungsbehörde untersteht.
 
-(2) Besteht die oberste Dienstbehörde nicht mehr und ist eine andere Dienstbehörde nicht bestimmt, tritt an ihre Stelle das Bundesministerium des Innern, für Bau und Heimat.
+(2) Besteht die oberste Dienstbehörde nicht mehr und ist eine andere Dienstbehörde nicht bestimmt, tritt an ihre Stelle das Bundesministerium des Innern und für Heimat.
 
 (3) Die oberste Dienstbehörde kann die Vertretung durch eine allgemeine Anordnung anderen Behörden übertragen. Die Anordnung ist im Bundesgesetzblatt zu veröffentlichen.
 
@@ -2260,7 +2260,7 @@ In den Fällen des Satzes 1 Nr. 4 wird für die Mehrbeanspruchung ein Freizeitau
 
 (1) Rechtsverordnungen nach diesem Gesetz bedürfen nicht der Zustimmung des Bundesrates.
 
-(2) Die zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlichen allgemeinen Verwaltungsvorschriften erlässt das Bundesministerium des Innern, für Bau und Heimat, soweit dieses Gesetz nichts anderes bestimmt.
+(2) Die zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlichen allgemeinen Verwaltungsvorschriften erlässt das Bundesministerium des Innern und für Heimat, soweit dieses Gesetz nichts anderes bestimmt.
 
 # § 146 – Öffentlich-rechtliche Religionsgesellschaften
 

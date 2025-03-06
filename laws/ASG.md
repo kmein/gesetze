@@ -98,6 +98,14 @@ Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall zulässi
 
 1. bei der Bundeswehr und bei den verbündeten Streitkräften,
 
+1a. bei mehrheitlich im Eigentum des Bundes befindlichen Gesellschaften, soweit sie zur Versorgung der Bundeswehr und der verbündeten Streitkräfte dienen,
+
+1b. bei sonstigen Unternehmen, soweit deren Leistungserbringung im Rahmen von Vertragsverhältnissen zur Versorgung der Bundeswehr und der verbündeten Streitkräfte erforderlich ist,
+
+1c. bei Betrieben, soweit sie Militärausrüstung, einschließlich dazugehöriger Teile, Bauteile oder Bausätze liefern, erzeugen oder Dienstleistungen in unmittelbarem Zusammenhang dazu erbringen, sowie
+
+1d. bei Forschungseinrichtungen, soweit sie militärisch forschen,
+
 2. bei Dienststellen des Bundes, der Länder, der Gemeindeverbände, der Gemeinden und der sonstigen juristischen Personen des öffentlichen Rechts,
 
 3. bei Verbänden und Einrichtungen des Zivilschutzes,
@@ -110,15 +118,25 @@ Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall zulässi
 
 5. in Krankenanstalten und anderen Einrichtungen, in denen pflegebedürftige Personen betreut werden,
 
-6. in Betrieben der Mineralölversorgung,
+6. in Betrieben der Mineralöl‑, Gas-, Kohle- und Wasserstoffversorgung,
 
 7. in Verkehrsunternehmen einschließlich Unternehmen des Personen- und Güterbeförderungsgewerbes in der See- und Binnenschifffahrt,
 
-8. bei der Deutschen Post AG, der Deutschen Postbank AG und der Deutschen Telekom AG sowie bei Unternehmen, die nach Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind,
+8. bei der Deutschen Post AG und der Deutschen Telekom AG sowie bei Unternehmen, die nach Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind,
 
-9. bei der nach § 31b Abs. 1 des Luftverkehrsgesetzes beauftragten Flugsicherungsorganisation.
+9. bei der nach § 31b Abs. 1 des Luftverkehrsgesetzes beauftragten Flugsicherungsorganisation und, soweit die Flugsicherungsorganisationen hoheitliche Aufgaben betreffend den Luftraum über dem Hoheitsgebiet der Bundesrepublik Deutschland wahrnehmen, bei den nach § 31f Absatz 1, auch in Verbindung mit Absatz 2 Satz 2, des Luftverkehrsgesetzes oder durch internationale Vereinbarung beauftragten Flugsicherungsorganisationen,
+
+10. bei Betrieben, soweit sie Leistungen zur Sicherstellung der Funktionsfähigkeit oder der Sicherheit der Informationstechnik gegenüber Betrieben oder Dienststellen im Sinne der Nummern 1a bis 9 erbringen.
+
+Militärausrüstung im Sinne des Satzes 1 Nummer 1c ist jede Ausrüstung, die eigens zu militärischen Zwecken konzipiert oder für militärische Zwecke angepasst wird und zum Einsatz als Waffe, Munition oder Kriegsmaterial bestimmt ist.
 
 (2) Über Absatz 1 hinaus kann die Bundesregierung nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) durch Rechtsverordnung bestimmen, daß Verpflichtungen und Beschränkungen auch in anderen Bereichen innerhalb des Anwendungsbereichs nach Artikel 12a Abs. 3, 4 und 6 des Grundgesetzes zulässig sind. Die Rechtsverordnung kann den Anwendungsbereich auch einschränken oder abgrenzen. Die Bundesregierung hat die Rechtsverordnung aufzuheben, wenn der Bundestag es verlangt.
+
+(3) Verpflichtungen und Beschränkungen nach § 2 sind gegenüber deutschen Staatsangehörigen bei einem Beschäftigungsort außerhalb des Hoheitsgebietes der Bundesrepublik Deutschland auch zulässig zur Sicherstellung von Arbeitsleistungen
+
+1. nach Absatz 1 Satz 1 Nummer 1, 1a und 1b, wenn der versorgende Betrieb der Gesellschaft oder des Unternehmens seinen Sitz im Gebiet der Bundesrepublik Deutschland hat, und
+
+2. nach Absatz 1 Satz 1 Nummer 9.
 
 # § 5 – Befreiungen
 

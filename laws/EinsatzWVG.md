@@ -73,7 +73,7 @@ benötigen, um die Aufnahme der bisherigen beruflichen Tätigkeit, eine Weiterve
 
 2. voraussichtlich nicht mehr erreicht werden können.
 
-Die Schutzzeit endet spätestens fünf Jahre nach Beginn des Bezugs von Leistungen nach § 3. Sie kann um bis zu drei Jahre verlängert werden, wenn festgestellt wird, dass in dieser Zeit das Erreichen der Ziele nach Absatz 1 zu erwarten ist. Sie endet in jedem Fall spätestens mit Ablauf des Monats, in dem die oder der Einsatzgeschädigte das 65. Lebensjahr vollendet.
+Außer in den Fällen des § 3 Absatz 3 Satz 3 endet die Schutzzeit spätestens fünf Jahre nach Beginn des Bezugs von Leistungen nach § 3. Sie kann um bis zu drei Jahre verlängert werden, wenn festgestellt wird, dass in dieser Zeit das Erreichen der Ziele nach Absatz 1 zu erwarten ist. Sie endet in jedem Fall spätestens mit Ablauf des Monats, in dem die oder der Einsatzgeschädigte das 65. Lebensjahr vollendet.
 
 (4) Die Feststellungen nach Absatz 3 Satz 1 und 3 trifft die Stelle, die für die Kündigung, Entlassung oder Versetzung in den Ruhestand zuständig ist. Für Einsatzgeschädigte nach § 1 Nummer 5 trifft die Feststellung die Bundesanstalt Technisches Hilfswerk.
 
@@ -107,7 +107,13 @@ Die Schutzzeit endet spätestens fünf Jahre nach Beginn des Bezugs von Leistung
 
 3. durch Entlassung auf entsprechenden schriftlichen Antrag der Soldatin oder des Soldaten.
 
-(5) Einsatzgeschädigte nach § 1 Nummer 1, deren nicht auf Lebenszeit begründetes Wehrdienstverhältnis durch Zeitablauf geendet hat oder aus diesem Grund beendet worden ist und deren gesundheitliche Schädigung erst danach erkannt worden ist, sind auf schriftlichen oder elektronischen Antrag in ein Wehrdienstverhältnis besonderer Art einzustellen. Die §§ 37 und 38 des Soldatengesetzes gelten ungeachtet der Voraussetzungen der körperlichen Eignung nach § 37 Absatz 1 Nummer 3 des Soldatengesetzes entsprechend. Satz 1 gilt nicht, wenn
+(5) Einsatzgeschädigte nach § 1 Nummer 1,
+
+1. deren Wehrdienstverhältnis durch Zeitablauf geendet hat oder aus diesem Grund beendet worden ist oder
+
+2. die sich auf eigenen Antrag haben entlassen lassen oder deren Entlassung als Entlassung auf eigenen Antrag gilt
+
+und deren gesundheitliche Schädigung jeweils erst danach erkannt worden ist, sind auf schriftlichen oder elektronischen Antrag in ein Wehrdienstverhältnis besonderer Art einzustellen. Die §§ 37 und 38 des Soldatengesetzes gelten ungeachtet der Voraussetzungen der körperlichen Eignung nach § 37 Absatz 1 Nummer 3 des Soldatengesetzes entsprechend. Satz 1 gilt nicht, wenn
 
 1. die gesundheitliche Schädigung nicht ausschlaggebend für die Nichteingliederung in das Arbeitsleben ist,
 
@@ -171,7 +177,7 @@ Die Einstellung erfolgt mit dem Dienstgrad, der endgültig verliehen worden ist.
 
 (1) Ein Beamtenverhältnis auf Zeit, das während der Schutzzeit durch Zeitablauf endet, verlängert sich um die Dauer der restlichen Schutzzeit.
 
-(2) Einsatzgeschädigte nach § 1 Nummer 2 in einem Beamtenverhältnis auf Zeit, deren gesundheitliche Schädigung erst nach Ende ihres Dienstverhältnisses erkannt worden ist, sind auf schriftlichen oder elektronischen Antrag in ihrem ehemaligen Geschäftsbereich unter den Voraussetzungen des § 7 des Bundesbeamtengesetzes unter erneuter Verleihung ihres zuletzt wahrgenommenen Amtes in ein Beamtenverhältnis auf Widerruf zu berufen. § 6 Absatz 6 gilt entsprechend. Satz 1 gilt nicht, wenn
+(2) Einsatzgeschädigte nach § 1 Nummer 2, deren Beamtenverhältnis durch Zeitablauf oder auf ihr Verlangen hin geendet hat und deren gesundheitliche Schädigung erst nach Ende dieses Dienstverhältnisses erkannt worden ist, sind auf schriftlichen oder elektronischen Antrag in ihrem ehemaligen Geschäftsbereich unter den Voraussetzungen des § 7 des Bundesbeamtengesetzes unter erneuter Verleihung ihres zuletzt wahrgenommenen Amtes in ein Beamtenverhältnis auf Widerruf zu berufen. § 6 Absatz 6 gilt entsprechend. Satz 1 gilt nicht, wenn
 
 1. die gesundheitliche Schädigung nicht ausschlaggebend für die Nichteingliederung in das Arbeitsleben ist,
 
@@ -213,7 +219,7 @@ Die Einstellung erfolgt mit dem Dienstgrad, der endgültig verliehen worden ist.
 
 (1) Befristete Arbeitsverhältnisse Einsatzgeschädigter nach § 1 Nummer 4 werden bis zum Ende der Schutzzeit verlängert. Leistungen nach § 4 Absatz 1 Satz 1 sind sachliche Gründe einer weiteren Befristung von Arbeitsverträgen.
 
-(2) Einsatzgeschädigte nach § 1 Nummer 4, die während eines befristeten Arbeitsverhältnisses einen Einsatzunfall erlitten haben und deren gesundheitliche Schädigung erst nach Ablauf der Befristung erkannt worden ist, sind auf schriftlichen oder elektronischen Antrag in ihrem ehemaligen Geschäftsbereich in ein befristetes Arbeitsverhältnis im Sinne von Absatz 1 aufgrund des seinerzeitigen Vertragsinhaltes einzustellen. § 6 Absatz 6 gilt entsprechend. Satz 1 gilt nicht, wenn
+(2) Einsatzgeschädigte nach § 1 Nummer 4, deren Arbeitsverhältnis durch Ablauf der Befristung oder ihre eigene Kündigung geendet hat und deren gesundheitliche Schädigung erst nach Ende dieses Arbeitsverhältnisses erkannt worden ist, sind auf schriftlichen oder elektronischen Antrag in ihrem ehemaligen Geschäftsbereich in ein befristetes Arbeitsverhältnis im Sinne von Absatz 1 aufgrund des seinerzeitigen Vertragsinhaltes einzustellen. § 6 Absatz 6 gilt entsprechend. Satz 1 gilt nicht, wenn
 
 1. die gesundheitliche Schädigung nicht ausschlaggebend für die Nichteingliederung in das Arbeitsleben ist,
 

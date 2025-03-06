@@ -3396,6 +3396,8 @@ d) ein Talfahrer muss, wenn ein Fahrzeug oder ein Verband bereits zu Berg in ein
 
 2. Ist das Begegnen in einer Fahrwasserenge unvermeidlich, müssen die Fahrzeuge alle möglichen Maßnahmen treffen, damit das Begegnen an einer Stelle und unter Bedingungen stattfindet, die eine möglichst geringe Gefahr in sich schließen.
 
+(+++ § 6.07: Zur Anwendung vgl. § 28.06 F. 23.7.2024 +++)
+
 # § 6.08 – Durch Schifffahrtszeichen verbotenes Begegnen
 
 <table width="100%" style="border: none;">

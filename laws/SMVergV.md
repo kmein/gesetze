@@ -19,7 +19,7 @@ Auf Grund des § 50 des Bundesbesoldungsgesetzes, der durch Artikel 2 Nummer 3 d
 
 1. schriftlich angeordnet oder genehmigt wurde,
 
-2. aus zwingenden dienstlichen Gründen nicht durch Dienstbefreiung innerhalb eines Jahres ausgeglichen werden kann und
+2. aus zwingenden dienstlichen Gründen nicht durch Dienstbefreiung innerhalb eines Jahres ausgeglichen werden kann, wobei die Frist für Soldaten in den Streitkräften auf sechs Monate verkürzt werden kann, und
 
 3. die sich aus der regelmäßigen wöchentlichen Arbeitszeit ergebende Arbeitszeit um mehr als fünf Stunden im Kalendermonat (Mindeststundenzahl) übersteigt.
 
@@ -57,13 +57,21 @@ Die Vergütung beträgt je Stunde für Vollzeitbeschäftigte
 
 # § 5 – Ausschluss des Anspruchs
 
-Die Vergütung wird nicht gewährt neben
+(1) Die Vergütung wird nicht gewährt neben
 
 1. einer Vergütung nach § 50a des Bundesbesoldungsgesetzes,
 
 2. Auslandsbesoldung nach Abschnitt 5 des Bundesbesoldungsgesetzes,
 
 3. einer Vergütung nach der Sanitätsdienstvergütungsverordnung.
+
+(2) Abweichend von Absatz 1 Nummer 2 kann eine Mehrarbeitsvergütung neben Auslandsdienstbezügen nach § 52 des Bundesbesoldungsgesetzes für soldatische Tätigkeiten in den Streitkräften gewährt werden, wenn eine Dienstbefreiung aus den folgenden Gründen nicht möglich ist:
+
+1. Sicherstellung der militärischen Einsatzbereitschaft im Rahmen der Landes- und Bündnisverteidigung,
+
+2. Teilnahme an angeordnetem Dienst außerhalb des Grundbetriebs nach § 30c Absatz 4 des Soldatengesetzes oder
+
+3. dienstlich notwendige Teilnahme an militärfachlichen und laufbahnspezifischen Ausbildungen.
 
 # § 6 – Inkrafttreten
 
