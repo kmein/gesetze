@@ -721,9 +721,9 @@ Der Entscheidung kann eine prognostizierte Bewerberlage zugrunde gelegt werden.
 
 (2) Eine Prämie in Höhe von einmalig 5 000 Euro erhält, wer ab dem 1. April 2008 ein Auswahlverfahren bei den Spezialkräften der Bundeswehr für eine Verwendung im Sinne des Absatzes 1 bestanden hat und ausgebildet wird. Der Anspruch entsteht mit Beginn dieser Ausbildung. Er erlischt rückwirkend, wenn die Ausbildung aus Gründen, die der Soldat zu vertreten hat, endet, bevor der Anspruch auf eine Prämie nach Absatz 3 entstanden ist.
 
-(3) Eine Prämie in Höhe von einmalig 11 000 Euro erhält, wer die Ausbildung für Einsatzaufgaben der Spezialkräfte der Bundeswehr erfolgreich abgeschlossen hat und entsprechend verwendet wird. Der Anspruch entsteht mit Beginn der Verwendung. Er erlischt rückwirkend, wenn die Verwendung aus Gründen, die der Soldat zu vertreten hat, vor Ablauf von sechs Jahren seit Beginn der Ausbildung für eine Verwendung nach Absatz 1 endet. Satz 3 gilt entsprechend, wenn diese Verwendung aus Gründen, die der Soldat zu vertreten hat, für einen Zeitraum von mehr als drei Monaten unterbrochen und dadurch die Verwendungsdauer von insgesamt sechs Jahren nicht erreicht wird.
+(3) Eine Prämie in Höhe von einmalig 16 000 Euro erhält, wer die Ausbildung für Einsatzaufgaben der Spezialkräfte der Bundeswehr erfolgreich abgeschlossen hat und entsprechend verwendet wird. Der Anspruch entsteht mit Beginn der Verwendung. Er erlischt rückwirkend, wenn die Verwendung aus Gründen, die der Soldat zu vertreten hat, vor Ablauf von sechs Jahren seit Beginn der Ausbildung für eine Verwendung nach Absatz 1 endet. Satz 3 gilt entsprechend, wenn diese Verwendung aus Gründen, die der Soldat zu vertreten hat, für einen Zeitraum von mehr als drei Monaten unterbrochen und dadurch die Verwendungsdauer von insgesamt sechs Jahren nicht erreicht wird.
 
-(4) Eine Prämie in Höhe von 7 000 Euro pro Jahr erhält, wer über sechs Jahre hinaus für Einsatzaufgaben der Spezialkräfte der Bundeswehr zur Verfügung steht. Der Zeitraum von sechs Jahren rechnet ab dem Beginn der Ausbildung für eine Verwendung nach Absatz 1. Der Anspruch entsteht zu Beginn des siebten oder eines jeden weiteren Jahres der Verwendung. Besteht die Verwendung aus Gründen, die der Soldat zu vertreten hat, nicht während des gesamten Jahres, steht nur der Teil der Prämie zu, der der Verwendungsdauer entspricht.
+(4) Eine Prämie in Höhe von 9 000 Euro pro Jahr erhält, wer über sechs Jahre hinaus für Einsatzaufgaben der Spezialkräfte der Bundeswehr zur Verfügung steht. Der Zeitraum von sechs Jahren rechnet ab dem Beginn der Ausbildung für eine Verwendung nach Absatz 1. Der Anspruch entsteht zu Beginn des siebten oder eines jeden weiteren Jahres der Verwendung. Besteht die Verwendung aus Gründen, die der Soldat zu vertreten hat, nicht während des gesamten Jahres, steht nur der Teil der Prämie zu, der der Verwendungsdauer entspricht.
 
 (5) (weggefallen)
 
@@ -737,31 +737,31 @@ Der Entscheidung kann eine prognostizierte Bewerberlage zugrunde gelegt werden.
 
 # § 44 – Verpflichtungsprämie für Soldaten auf Zeit
 
-(1) Einem Soldaten auf Zeit, der in vom Bundesministerium der Verteidigung bestimmten Verwendungsbereichen mit Personalmangel verwendet wird, kann zur Sicherstellung der Funktionsfähigkeit des Verwendungsbereichs eine Verpflichtungsprämie gewährt werden
+(1) Einem Soldaten auf Zeit kann zur Sicherstellung der personellen Einsatzbereitschaft der Bundeswehr, unter Berücksichtigung militärischer Personalplanung oder militärfachlicher Erfordernisse, eine Verpflichtungsprämie gewährt werden
 
 1. bei der Begründung eines Dienstverhältnisses,
 
-2. bei der Weiterverpflichtung eines Soldaten auf Zeit oder
+2. bei der Weiterverpflichtung oder
 
 3. bei einem bestehenden Dienstverhältnis, um einen Dienstposten anforderungsgerecht besetzen zu können.
 
-(2) Ein Personalmangel in einem Verwendungsbereich liegt vor, wenn die personellen Zielvorgaben, die sich aus der militärischen Personalbedarfsplanung ergeben, seit mindestens sechs Monaten zu nicht mehr als 90 Prozent erfüllt werden können und keine Anhaltspunkte dafür vorliegen, dass dieser Schwellenwert innerhalb der nächsten 24 Monate überschritten wird.
+(2) Die Prämie kann für jedes Jahr der Gewährung bis zum Zweifachen des Anfangsgrundgehalts der jeweiligen Besoldungsgruppe betragen. Für die personelle Einsatzbereitschaft der Bundeswehr besonders relevantes Schlüsselpersonal kann die Prämie bis zum Dreieinhalbfachen des Anfangsgrundgehalts der jeweiligen Besoldungsgruppe betragen. Die Höhe der Prämie sowie Beginn und Ende des Gewährungszeitraums sind festzusetzen.
 
-(3) Die Prämie kann für jedes Jahr der Gewährung bis zum Zweifachen des Anfangsgrundgehalts der jeweiligen Besoldungsgruppe betragen. Für die personelle Einsatzbereitschaft der Bundeswehr besonders relevantes Schlüsselpersonal kann die Prämie bis zum Dreieinhalbfachen des Anfangsgrundgehalts der jeweiligen Besoldungsgruppe betragen. Die Höhe der Prämie sowie Beginn und Ende des Gewährungszeitraums sind festzusetzen.
+(3) Die Prämie wird frühestens nach Ablauf einer Dienstzeit von sechs Monaten gezahlt. Die für die Prämienbemessung maßgebliche Dienstzeit bemisst sich unter Ausschluss der nach § 40 Absatz 6 des Soldatengesetzes in der Dienstzeitfestsetzung eingerechneten Zeiten. Wird die Dienstzeit stufenweise festgesetzt, wird die Prämie anteilig entsprechend der jeweils festgesetzten Dienstzeit gewährt.
 
-(4) Die Prämie wird frühestens nach Ablauf einer Dienstzeit von sechs Monaten gezahlt. Die für die Prämienbemessung maßgebliche Dienstzeit bemisst sich unter Ausschluss der nach § 40 Absatz 6 des Soldatengesetzes in der Dienstzeitfestsetzung eingerechneten Zeiten. Wird die Dienstzeit stufenweise festgesetzt, wird die Prämie anteilig entsprechend der jeweils festgesetzten Dienstzeit gewährt.
+(4) Mit Gewährung der Prämie besteht für den Soldaten auf Zeit die Verpflichtung, mindestens für den Gewährungszeitraum im Dienst zu verbleiben. Unterbrechungen, die zusammengerechnet länger als ein Zwölftel des Gewährungszeitraums andauern, verlängern den Gewährungszeitraum entsprechend. Erfüllt der Soldat auf Zeit die Verpflichtung nicht, so hat er die Prämie in voller Höhe zurückzuzahlen. Von der Rückforderung kann aus Billigkeitsgründen abgesehen werden, wenn die Verpflichtung nach Satz 1 aus Gründen, die vom Soldaten auf Zeit nicht zu vertreten sind, nicht erfüllt werden kann. Von der Rückforderung ist abzusehen, wenn der Soldat auf Zeit stirbt oder wegen Dienstunfähigkeit entlassen wird.
 
-(5) Mit Gewährung der Prämie besteht für den Soldaten auf Zeit die Verpflichtung, mindestens für den Gewährungszeitraum im Dienst zu verbleiben. Unterbrechungen, die zusammengerechnet länger als ein Zwölftel des Gewährungszeitraums andauern, verlängern den Gewährungszeitraum entsprechend. Erfüllt der Soldat auf Zeit die Verpflichtung nicht, so hat er die Prämie in voller Höhe zurückzuzahlen. Von der Rückforderung kann aus Billigkeitsgründen abgesehen werden, wenn die Verpflichtung nach Satz 1 aus Gründen, die vom Soldaten auf Zeit nicht zu vertreten sind, nicht erfüllt werden kann. Von der Rückforderung ist abzusehen, wenn der Soldat auf Zeit stirbt oder wegen Dienstunfähigkeit entlassen wird.
-
-(6) Die Prämie wird nicht gewährt neben
+(5) Die Prämie wird nicht gewährt neben
 
 1. einer Prämie für Angehörige der Spezialkräfte der Bundeswehr nach § 43a sowie
 
 2. einem Zuschlag nach § 53 Absatz 1 Satz 5 zur Sicherung einer anforderungsgerechten Besetzung von Dienstposten im Ausland.
 
-Prämien nach Absatz 1 Nummer 1 bis 3 können nebeneinander gewährt werden, soweit sie insgesamt den Höchstbetrag nach Absatz 3 Satz 2 nicht übersteigen.
+Prämien nach Absatz 1 Nummer 1 bis 3 können nebeneinander gewährt werden, soweit sie insgesamt den Höchstbetrag nach Absatz 2 Satz 2 nicht übersteigen.
 
-(7) Entscheidungen nach den Absätzen 1 und 3 bis 6, insbesondere über eine Staffelung der Prämienbeträge in den Fällen des Absatzes 1, trifft das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle. Dabei sind insbesondere die für den Verwendungsbereich geforderten Qualifikationen, der Personalmangel sowie der Gewährungszeitraum zu berücksichtigen.
+(6) Entscheidungen nach den Absätzen 1 bis 5, insbesondere über eine Staffelung der Prämienbeträge in den Fällen des Absatzes 1, trifft das Bundesministerium der Verteidigung oder eine von ihm bestimmte Stelle.
+
+(7) Die Ausgaben für Prämien des Dienstherrn dürfen 2 Prozent der im Einzelplan des Bundesministeriums der Verteidigung veranschlagten jährlichen Besoldungsausgaben für Soldaten nicht überschreiten.
 
 # § 45 – Zulage für die Wahrnehmung befristeter Funktionen
 
@@ -815,7 +815,7 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 
 (1) Soldaten mit Dienstbezügen nach der Bundesbesoldungsordnung A erhalten für tatsächlich geleistete Dienste in den in § 30c Absatz 4 des Soldatengesetzes genannten Fällen eine Vergütung, soweit ein über einen dienstfreien Tag im Kalendermonat hinausgehender zeitlicher Ausgleich nicht gewährt werden kann.
 
-(2) Die Vergütung beträgt 91 Euro für jeden Tag, für den keine Freistellung vom Dienst gewährt werden kann.
+(2) Die Vergütung beträgt 101 Euro für jeden Tag, für den keine Freistellung vom Dienst gewährt werden kann.
 
 (3) Die Vergütung wird nicht gewährt
 
@@ -861,6 +861,22 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 
 (2) Bei einer geringeren durchschnittlichen wöchentlichen Arbeitszeit werden die Beträge nach Absatz 1 Satz 2 anteilig gewährt, und zwar entsprechend dem Teil der durchschnittlichen wöchentlichen Arbeitszeit, der über 48 Stunden hinausgeht. Dabei ist die durchschnittliche wöchentliche Arbeitszeit in einem Kalendermonat auf volle Stunden zu runden. Bei einem Bruchteil von mindestens 30 Minuten wird aufgerundet; ansonsten wird abgerundet.
 
+# § 50d – Vergütung für Soldaten mit besonderen Alarmierungsverpflichtungen
+
+(1) Soldaten, für die besondere Alarmierungsverpflichtungen im Rahmen nationaler oder multinationaler Verpflichtungen gelten und für die eine ständige Erreichbarkeit außerhalb der regelmäßigen Arbeitszeit mit einer Rückkehrverpflichtung zur Dienststelle angeordnet wurde, erhalten eine Vergütung nach Maßgabe des Absatzes 2. Mit der Vergütung sind alle zeitlichen und sonstigen Belastungen abgegolten, die durch die angeordnete ständige Erreichbarkeit und Rückkehrverpflichtung entstehen.
+
+(2) Die Vergütung beträgt bei einer für einen vollen Monat angeordneten ständigen Erreichbarkeit mit Rückkehrzeiten zur Dienststelle
+
+1. unterhalb von zwei Stunden, 500 Euro,
+
+2. oberhalb von zwei Stunden bis zwölf Stunden, 300 Euro,
+
+3. oberhalb von zwölf Stunden bis 24 Stunden, 150 Euro,
+
+4. oberhalb von 24 Stunden bis 48 Stunden, 75 Euro.
+
+Soweit die Anordnung nicht für volle Kalendermonate erfolgt, wird die Vergütung anteilig gewährt.
+
 # § 51 – Andere Zulagen und Vergütungen
 
 Andere als die in diesem Abschnitt geregelten Zulagen und Vergütungen dürfen nur gewährt werden, soweit dies gesetzlich bestimmt ist. Vergütungen für Nebentätigkeiten im öffentlichen Dienst bleiben unberührt.
@@ -885,7 +901,7 @@ Die oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des In
 
 # § 53 – Auslandszuschlag
 
-(1) Der Auslandszuschlag gilt materiellen Mehraufwand sowie allgemeine und dienstortbezogene immaterielle Belastungen der allgemeinen Verwendung im Ausland ab. Er bemisst sich nach der Höhe des Mehraufwands und der Belastungen, zusammengefasst in Dienstortstufen, sowie des zustehenden Grundgehalts, darüber hinaus nach der Anzahl der berücksichtigungsfähigen Personen sowie der Bereitstellung von Gemeinschaftsunterkunft oder -verpflegung oder entsprechenden Geldleistungen. Der Ermittlung des materiellen Mehraufwands und der dienstortbezogenen immateriellen Belastungen werden standardisierte Dienstortbewertungen im Verhältnis zum Sitz der Bundesregierung zugrunde gelegt. Die allgemeinen immateriellen Belastungen des Auslandsdienstes werden dienstortunabhängig abgegolten. Bei außergewöhnlichen materiellen Mehraufwendungen oder immateriellen Belastungen kann die oberste Dienstbehörde zur Abgeltung dieser Mehraufwendungen oder Belastungen oder zur Sicherung einer anforderungsgerechten Besetzung von Dienstposten im Ausland im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen befristet einen Zuschlag in Höhe von bis zu 700 Euro monatlich im Verwaltungswege festsetzen.
+(1) Der Auslandszuschlag gilt materiellen Mehraufwand sowie allgemeine und dienstortbezogene immaterielle Belastungen der allgemeinen Verwendung im Ausland ab. Er bemisst sich nach der Höhe des Mehraufwands und der Belastungen, zusammengefasst in Dienstortstufen, sowie des zustehenden Grundgehalts, darüber hinaus nach der Anzahl der berücksichtigungsfähigen Personen sowie der Bereitstellung von Gemeinschaftsunterkunft oder -verpflegung oder entsprechenden Geldleistungen. Der Ermittlung des materiellen Mehraufwands und der dienstortbezogenen immateriellen Belastungen werden standardisierte Dienstortbewertungen im Verhältnis zum Sitz der Bundesregierung zugrunde gelegt. Die allgemeinen immateriellen Belastungen des Auslandsdienstes werden dienstortunabhängig abgegolten. Bei außergewöhnlichen materiellen Mehraufwendungen oder immateriellen Belastungen kann die oberste Dienstbehörde zur Abgeltung dieser Mehraufwendungen oder Belastungen oder zur Sicherung einer anforderungsgerechten Besetzung von Dienstposten im Ausland im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen befristet einen Zuschlag in Höhe von bis zu 1 000 monatlich im Verwaltungswege festsetzen.
 
 (2) Der Auslandszuschlag für den Beamten, Richter oder Soldaten wird nach der Tabelle in Anlage VI.1 gezahlt. Bei der ersten neben dem Beamten, Richter oder Soldaten berücksichtigungsfähigen Person nach Absatz 4 Nr. 1 oder 3 erhöht sich der Betrag um 40 Prozent. Für alle anderen berücksichtigungsfähigen Personen wird jeweils ein Zuschlag nach der Tabelle in Anlage VI.2 gezahlt. Wird dem Beamten, Richter oder Soldaten Gemeinschaftsunterkunft oder Gemeinschaftsverpflegung bereitgestellt, so verringert sich der Betrag nach den Sätzen 1 und 2 auf 85 Prozent. Werden sowohl Gemeinschaftsunterkunft als auch Gemeinschaftsverpflegung bereitgestellt, so verringert sich der Betrag nach den Sätzen 1 und 2 auf 70 Prozent. Die Sätze 4 und 5 gelten auch, wenn entsprechende Geldleistungen gezahlt werden.
 
@@ -911,7 +927,7 @@ diese Kinder sind auch beim Familienzuschlag zu berücksichtigen,
 
 (5) Begründet eine berücksichtigungsfähige Person im Sinne des Absatzes 4 Nummer 1 oder 3 erst später einen Wohnsitz am ausländischen Dienstort oder gibt sie ihn vorzeitig auf, werden ab dem Eintreffen rückwirkend bis zum Beginn der Verwendung des Beamten, Richters oder Soldaten oder ab dem Auszug aus der gemeinsamen Wohnung bis zum Ende der Verwendung 70 Prozent des für diese Person geltenden Satzes gewährt, längstens jedoch für sechs Monate. Stirbt eine im ausländischen Haushalt lebende berücksichtigungsfähige Person, wird sie beim Auslandszuschlag bis zum Ende der Verwendung weiter berücksichtigt, längstens jedoch für zwölf Monate.
 
-(6) Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, wird unter Berücksichtigung des § 29 jenes Gesetzes ein um 4 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt. Dies gilt bei nur befristeter Verwendung im Auswärtigen Dienst nach Ablauf des sechsten Jahres der Verwendung im Ausland; Unterbrechungen von weniger als fünf Jahren sind unschädlich. Verheirateten Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, kann unter Berücksichtigung des § 29 des genannten Gesetzes ein um bis zu 18,6 Prozent ihres Grundgehalts zuzüglich Amtszulagen, höchstens jedoch um 18,6 Prozent des Grundgehalts aus der Endstufe der Besoldungsgruppe A 14 erhöhter Auslandszuschlag gezahlt werden, der zum Aufbau einer eigenständigen Altersvorsorge des Ehegatten zu verwenden ist; Erwerbseinkommen des Ehegatten wird berücksichtigt. Voraussetzung der Gewährung ist, dass der Nachweis der Verwendung im Sinne des Satzes 3 nach Maßgabe der Auslandszuschlagsverordnung erbracht wird. Abweichend von den Sätzen 3 und 4 kann Empfängern von Auslandsdienstbezügen mit Ehegatten mit ausschließlich ausländischer Staatsangehörigkeit, die keinen Verwendungsnachweis erbringen, ein um bis zu 6 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden. Für Personen im Sinne des Absatzes 4 Nummer 3 kann dem Besoldungsempfänger unter entsprechender Berücksichtigung des § 29 des Gesetzes über den Auswärtigen Dienst ein um bis zu 6 Prozent seiner Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden, soweit der Besoldungsempfänger nicht bereits einen Zuschlag nach Satz 3 erhält; Erwerbseinkommen dieser Personen wird berücksichtigt.
+(6) Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, wird unter Berücksichtigung des § 29 jenes Gesetzes ein um 4 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt. Dies gilt bei nur befristeter Verwendung im Auswärtigen Dienst nach Ablauf des sechsten Jahres der Verwendung im Ausland; Unterbrechungen von weniger als fünf Jahren sind unschädlich. Verheirateten Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, kann unter Berücksichtigung des § 29 des genannten Gesetzes ein um bis zu 18,6 Prozent ihres Grundgehalts zuzüglich Amtszulagen, höchstens jedoch um 18,6 Prozent des Grundgehalts aus der Endstufe der Besoldungsgruppe A 14 erhöhter Auslandszuschlag gezahlt werden, der zum Aufbau einer eigenständigen Altersvorsorge des Ehegatten zu verwenden ist; Erwerbseinkommen des Ehegatten wird berücksichtigt. Voraussetzung der Gewährung ist, dass der Nachweis der Verwendung im Sinne des Satzes 3 nach Maßgabe der Auslandszuschlagsverordnung erbracht wird. Abweichend von den Sätzen 3 und 4 kann Empfängern von Auslandsdienstbezügen mit Ehegatten mit ausschließlich ausländischer Staatsangehörigkeit, die keinen Verwendungsnachweis erbringen, ein um bis zu 6 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden. Für Personen im Sinne des Absatzes 4 Nummer 3 kann dem Besoldungsempfänger unter entsprechender Berücksichtigung des § 29 des Gesetzes über den Auswärtigen Dienst ein um bis zu 6 Prozent seiner Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden, soweit der Besoldungsempfänger nicht bereits einen Zuschlag nach Satz 3 erhält; Erwerbseinkommen dieser Personen wird berücksichtigt. Die Sätze 3 bis 5 gelten entsprechend für Angehörige des Geschäftsbereichs des Bundesministeriums der Verteidigung, für die das Gesetz über den Auswärtigen Dienst nicht gilt, wenn sie zur Sicherstellung der Einsatzbereitschaft im Rahmen der Landes- und Bündnisverteidigung im Ausland soldatische Tätigkeiten wahrnehmen oder unmittelbar unterstützen.
 
 (7) Das Auswärtige Amt regelt die Einzelheiten des Auslandszuschlags einschließlich dessen Erhöhung nach Absatz 6 Satz 3 sowie die Zuteilung der Dienstorte zu den Stufen des Auslandszuschlags durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium der Finanzen und dem Bundesministerium der Verteidigung.
 
@@ -969,7 +985,7 @@ Satz 1 gilt entsprechend für eine Verwendung im Ausland oder außerhalb des deu
 
 2. Angehörige der GSG 9 der Bundespolizei sowie Beamte, die zur unmittelbaren Unterstützung der GSG 9 der Bundespolizei in dieser besonderen Verwendung im Ausland unter entsprechenden Belastungen eingesetzt werden, wenn das Bundesministerium des Innern, für Bau und Heimat eine Maßnahme als entsprechende Verwendung festgelegt hat.
 
-(3) Der Auslandsverwendungszuschlag gilt alle materiellen Mehraufwendungen und immateriellen Belastungen der besonderen Verwendung im Ausland mit Ausnahme der nach deutschem Reisekostenrecht zustehenden Reisekostenvergütung ab. Dazu gehören insbesondere Mehraufwendungen auf Grund besonders schwieriger Bedingungen im Rahmen der Verwendung oder Belastungen durch Unterbringung in provisorischen Unterkünften sowie Belastungen durch eine spezifische Bedrohung der Mission oder deren Durchführung in einem Konfliktgebiet. Er wird für jeden Tag der Verwendung gewährt und bei einer Verwendung nach Absatz 1 als einheitlicher Tagessatz abgestuft nach dem Umfang der Mehraufwendungen und Belastungen für jede Verwendung festgesetzt. Der Tagessatz der höchsten Stufe beträgt 145 Euro. Dauert die Verwendung im Einzelfall weniger als 15 Tage, kann der Satz der nächstniedrigeren Stufe ausgezahlt werden. In den Fällen des Absatzes 2 wird der Tagessatz der höchsten Stufe gewährt. Die endgültige Abrechnung erfolgt nach Abschluss der Verwendung. Abschlagszahlungen können monatlich im Voraus geleistet werden. Ein Anspruch auf Auslandsdienstbezüge an einem anderen ausländischen Dienstort bleibt unberührt; auf den Auslandsverwendungszuschlag wird jedoch auf Grund der geringeren Aufwendungen und Belastungen am bisherigen ausländischen Dienstort pauschaliert ein Anteil des Auslandszuschlags nach § 53 angerechnet.
+(3) Der Auslandsverwendungszuschlag gilt alle materiellen Mehraufwendungen und immateriellen Belastungen der besonderen Verwendung im Ausland mit Ausnahme der nach deutschem Reisekostenrecht zustehenden Reisekostenvergütung ab. Dazu gehören insbesondere Mehraufwendungen auf Grund besonders schwieriger Bedingungen im Rahmen der Verwendung oder Belastungen durch Unterbringung in provisorischen Unterkünften sowie Belastungen durch eine spezifische Bedrohung der Mission oder deren Durchführung in einem Konfliktgebiet. Er wird für jeden Tag der Verwendung gewährt und bei einer Verwendung nach Absatz 1 als einheitlicher Tagessatz abgestuft nach dem Umfang der Mehraufwendungen und Belastungen für jede Verwendung festgesetzt. Der Tagessatz der höchsten Stufe beträgt 153 Euro. Dauert die Verwendung im Einzelfall weniger als 15 Tage, kann der Satz der nächstniedrigeren Stufe ausgezahlt werden. In den Fällen des Absatzes 2 wird der Tagessatz der höchsten Stufe gewährt. Die endgültige Abrechnung erfolgt nach Abschluss der Verwendung. Abschlagszahlungen können monatlich im Voraus geleistet werden. Ein Anspruch auf Auslandsdienstbezüge an einem anderen ausländischen Dienstort bleibt unberührt; auf den Auslandsverwendungszuschlag wird jedoch auf Grund der geringeren Aufwendungen und Belastungen am bisherigen ausländischen Dienstort pauschaliert ein Anteil des Auslandszuschlags nach § 53 angerechnet.
 
 (4) Steht Beamten, Richtern oder Soldaten ein Auslandsverwendungszuschlag aus einer Verwendung nach Absatz 1 an einem ausländischen Dienstort zu und befindet sich ein anderer Beamter, Richter oder Soldat an diesem Ort auf Dienstreise, gelten für Letzteren ab dem 15. Tag der Dienstreise rückwirkend ab dem Tag der Ankunft am ausländischen Dienstort die Vorschriften über den Auslandsverwendungszuschlag entsprechend. Das gilt nur, wenn die Dienstreise hinsichtlich der Mehraufwendungen und Belastungen einer Verwendung nach Absatz 1 entspricht. Ist der Beamte, Richter oder Soldat wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die er nicht zu vertreten hat, dem Einflussbereich des Dienstherrn entzogen, werden für diesen Zeitraum Aufwandsentschädigungen und Zulagen, die zum Zeitpunkt des Eintritts des Ereignisses zustanden, weiter gewährt; daneben steht ihm Auslandsverwendungszuschlag nach dem Tagessatz der höchsten Stufe zu.
 
@@ -1353,8 +1369,10 @@ Bundesamt für Strahlenschutz
 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit  
 Bundesanstalt für Arbeitsschutz und Arbeitsmedizin  
 Bundesanstalt für Geowissenschaften und Rohstoffe  
+Bundesanstalt für Gewässerkunde  
 Bundesanstalt für Materialforschung und-prüfung  
 Bundesanstalt für Straßenwesen  
+Bundesanstalt für Wasserbau  
 Bundesinstitut für Arzneimittel und Medizinprodukte  
 Bundesinstitut für Risikobewertung  
 Bundesinstitut für Sportwissenschaft  
@@ -1475,6 +1493,22 @@ in einer Lehrtätigkeit im Einsatzführungsdienst,
 
 (3) Die allgemeinen Verwaltungsvorschriften erlässt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
 
+5b. Zulage für Soldaten als Combat Controller bei den Luftlande-
+
+und Fernspähkräften der Bundeswehr
+
+(1) Eine Stellenzulage nach Anlage IX erhalten Soldaten bei Verwendung als Combat Controller in einem Großverband, einem Verband oder einer Einheit der Luftlande- und Fernspähkräfte der Bundeswehr
+
+1. bis zur Erlangung der Basisqualifikation der Stufe B,
+
+2. nach Erlangung der Basisqualifikation der Stufe B,
+
+3. nach Erlangung der Basisqualifikation der Stufe C.
+
+(2) Die Stellenzulage wird nicht neben einer Stellenzulage nach Nummer 5a und einer Erschwerniszulage nach den §§ 23h und 23i der Erschwerniszulagenverordnung gewährt.
+
+(3) Der Erwerb der Berechtigung nach Absatz 1 wird durch allgemeine Verwaltungsvorschrift des Bundesministeriums der Verteidigung geregelt.
+
 6. Zulage für Beamte und Soldaten in fliegerischer Verwendung
 
 (1) Eine Stellenzulage nach Anlage IX erhalten Beamte und Soldaten in Besoldungsgruppen der Bundesbesoldungsordnung A, wenn sie verwendet werden
@@ -1483,9 +1517,9 @@ in einer Lehrtätigkeit im Einsatzführungsdienst,
 
 2. als Luftfahrzeugführer mit der Erlaubnis zum Führen sonstiger strahlgetriebener Flugzeuge oder sonstiger Luftfahrzeuge oder als Luftfahrzeugoperationsoffizier,
 
-3. als Steuerer mit der Erlaubnis und Berechtigung zum Führen und Bedienen unbemannter Luftfahrtgeräte, die nach Instrumentenflugregeln geführt und bedient werden müssen,
+3. als Steuerer mit der Erlaubnis und Berechtigung zum Führen und Bedienen oder als Waffensystemoperateur mit der Erlaubnis und Berechtigung zum Bedienen unbemannter Luftfahrtgeräte, die nach Instrumentenflugregeln geführt und bedient werden müssen,
 
-4. als Flugtechniker in der Bundespolizei oder als sonstige ständige Luftfahrzeugbesatzungsangehörige in der Bundeswehr.
+4. als Flugtechniker in der Bundespolizei oder als sonstiger ständiger Luftfahrzeugbesatzungsangehöriger in der Bundeswehr und in anderen Einrichtungen des Bundes.
 
 Die Stellenzulage erhöht sich um den Betrag nach Anlage IX für verantwortliche Luftfahrzeugführer, die mit der Berechtigung eines Kommandanten auf Flugzeugen verwendet werden, für die eine Mindestbesatzung von zwei Luftfahrzeugführern vorgeschrieben ist. Die Erhöhung gilt bis zum 31. Dezember 2027.
 
@@ -1511,7 +1545,7 @@ b) durch Dienstunfähigkeit infolge eines durch die Verwendung erlittenen Dienst
 
 (5) Die Stellenzulage wird neben einer Stellenzulage nach Nummer 8 nur gewährt, soweit sie diese übersteigt. Abweichend von Satz 1 wird die Stellenzulage nach Absatz 1 neben einer Stellenzulage nach Nummer 8 gewährt, soweit sie deren Hälfte übersteigt.
 
-(6) Der Erwerb der Berechtigung nach Absatz 1 Satz 2 wird durch allgemeine Verwaltungsvorschrift des Bundesministeriums der Verteidigung geregelt. Im Übrigen erlässt die oberste Dienstbehörde die allgemeinen Verwaltungsvorschriften im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
+(6) Der Erwerb der Erlaubnis und Berechtigung nach Absatz 1 Satz 1 Nummer 3 und der Berechtigung nach Absatz 1 Satz 2 wird durch allgemeine Verwaltungsvorschrift des Bundesministeriums der Verteidigung geregelt. Im Übrigen erlässt die oberste Dienstbehörde die allgemeinen Verwaltungsvorschriften im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
 
 6a. Zulage für Beamte und Soldaten als Luftfahrttechnisches Prüfpersonal und freigabeberechtigtes Personal
 
@@ -1543,15 +1577,19 @@ b) durch Dienstunfähigkeit infolge eines durch die Verwendung erlittenen Dienst
 
 (2) Nachrichtendienste sind der Bundesnachrichtendienst, das Bundesamt für den Militärischen Abschirmdienst, das Bundesamt für Verfassungsschutz sowie die Einrichtungen für Verfassungsschutz der Länder.
 
-8a. Zulage für Beamte der Bundeswehr und Soldaten in der Fernmelde- und elektronischen Aufklärung, der satellitengestützten abbildenden Aufklärung oder der Luftbildauswertung
+8a. Zulage für Beamte der Bundeswehr und Soldaten in der Fernmelde-
+
+und elektronischen Aufklärung, der satellitengestützten abbildenden Aufklärung, der Luftbildauswertung oder der hydroakustischen Aufklärung
 
 (1) Beamte der Bundeswehr und Soldaten erhalten eine Stellenzulage nach Anlage IX, wenn sie verwendet werden in
 
 1. der Fernmelde- und elektronischen Aufklärung,
 
-2. der satellitengestützten abbildenden Aufklärung oder
+2. der satellitengestützten abbildenden Aufklärung,
 
-3. der Luftbildauswertung.
+3. der Luftbildauswertung oder
+
+4. der hydroakustischen Aufklärung.
 
 Die Zulage erhalten unter den gleichen Voraussetzungen auch Beamte auf Widerruf, die einen Vorbereitungsdienst ableisten.
 
@@ -2251,6 +2289,8 @@ Generalkonsul<span id="FnR.FnA17-f809527_22"></span><a href="#FnA17-f809527_22" 
 Gesandter<a href="#FnA17-f809527_22" class="FnR">5</a></sup>
 
 Kurator der Museumsstiftung Post und Telekommunikation
+
+Leitender Polizeidirektor beim Deutschen Bundestag<a href="#FnA17-f809527_23" class="FnR">6</a></sup>
 
 Leitender Postdirektor
 

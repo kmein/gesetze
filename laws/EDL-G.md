@@ -7,7 +7,7 @@ Dieses Gesetz findet Anwendung auf
 
 1. Anbieter von Energiedienstleistungen, Energieeffizienzmaßnahmen und Energieunternehmen,
 
-2. Endkunden mit Ausnahme von Anlagenbetreibern nach § 3 Nummer 2 des Treibhausgas-Emissionshandelsgesetzes vom 21. Juli 2011 (BGBl. I S. 1475), das zuletzt durch Artikel 4 Absatz 28 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, hinsichtlich ihrer Tätigkeiten nach Anhang 1 Teil 2 zum Treibhausgas-Emissionshandelsgesetz,
+2. Endkunden mit Ausnahme von Anlagenbetreibern nach § 3 Nummer 2 des Treibhausgas-Emissionshandelsgesetzes vom 21. Juli 2011 (BGBl. I S. 1475), das zuletzt durch Artikel 1 des Gesetzes vom 27. Februar 2025 (BGBl. 2025 I Nr. 70) geändert worden ist, in der jeweils geltenden Fassung, hinsichtlich ihrer Tätigkeiten nach Teil A Abschnitt 2 Nummer 1 bis 32 des Anhangs zum Treibhausgas-Emissionshandelsgesetz,
 
 3. die öffentliche Hand einschließlich der Bundeswehr, soweit die Anwendung dieses Gesetzes nicht der Art und dem Hauptzweck der Tätigkeit der Streitkräfte entgegensteht, und mit Ausnahme von Material, das ausschließlich für militärische Zwecke verwendet wird,
 

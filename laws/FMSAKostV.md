@@ -1,4 +1,4 @@
-% Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung  (FMSA-Kostenverordnung - FMSAKostV)
+% Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung *)  (FMSA-Kostenverordnung - FMSAKostV)
 % Ausfertigungsdatum: 06.11.2015
  
 # § 1 – Kostenschuldner

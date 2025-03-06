@@ -113,7 +113,7 @@ m) Abschnitt S, Abteilung 96 – Erbringung von sonstigen überwiegend persönli
 
 1. Umsatz der Erhebungseinheit im Berichtsmonat insgesamt sowie im Handels- und Dienstleistungsbereich gegliedert nach Bundesländern,
 
-2. Zahl der tätigen Personen der Erhebungseinheit am Ende des Berichtsmonats nach Art der Tätigkeit sowie im Berichtsmonat Januar zusätzlich gegliedert nach Bundesländern,
+2. Zahl der tätigen Personen der Erhebungseinheit am Ende des Berichtsmonats nach Art der Tätigkeit gegliedert nach Bundesländern,
 
 3. Bezeichnung und Wirtschaftszweignummer der wirtschaftlichen Tätigkeit der Erhebungseinheit gemäß der Klassifikation der Wirtschaftszweige. Erzielt eine Erhebungseinheit mit Handel und Dienstleistungen weniger als 50 Prozent ihres Umsatzes, werden die Angaben zu Satz 1 Nummer 3 zu der Tätigkeit erhoben, in der diese Einheit ihren wirtschaftlichen Schwerpunkt hat.
 

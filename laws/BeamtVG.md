@@ -701,7 +701,17 @@ Ein Unfall, den der Verletzte bei Durchführung des Heilverfahrens (§ 33) oder 
 
 2. die im Rahmen von Maßnahmen nach § 56 Absatz 1 Satz 2 Nummer 4 des Bundesbesoldungsgesetzes stattfindet.
 
-Dem steht eine sonstige Verwendung im Ausland oder außerhalb des deutschen Hoheitsgebietes auf Schiffen oder in Luftfahrzeugen mit vergleichbar gesteigerter Gefährdungslage gleich. Die Verwendung im Sinne der Sätze 2 und 3 beginnt mit dem Eintreffen im Einsatzgebiet und endet mit dem Verlassen des Einsatzgebietes.
+Dem steht eine sonstige Verwendung im Ausland oder außerhalb des deutschen Hoheitsgebietes auf Schiffen oder in Luftfahrzeugen gleich,
+
+1. für die ein Zuschlag gezahlt wird
+
+a) auf Grundlage einer Rechtsverordnung nach § 53 Absatz 7 des Bundesbesoldungsgesetzes zur Abgeltung immaterieller Belastungen wegen der Auswirkungen eines bewaffneten Konflikts oder
+
+b) auf Grundlage einer Rechtsverordnung nach § 56 Absatz 6 des Bundesbesoldungsgesetzes zur Abgeltung hoher immaterieller Belastungen, insbesondere durch bürgerkriegsähnliche Auseinandersetzungen, terroristische Handlungen, außerordentliche Gewaltkriminalität, Piraterie, Minen oder vergleichbare gesundheitliche Gefährdungen, oder
+
+2. bei der eine gesteigerte Gefährdungslage, die der Gefährdungslage bei einer Verwendung nach Satz 2 vergleichbar ist, durch die oberste Dienstbehörde, die für die sonstige Verwendung im Ausland zuständig ist, im Benehmen mit dem Bundesministerium des Innern und für Heimat, dem Auswärtigen Amt und dem Bundesministerium der Verteidigung festgestellt wird.
+
+Die Verwendung im Sinne der Sätze 2 und 3 beginnt mit dem Eintreffen im Einsatzgebiet und endet mit dem Verlassen des Einsatzgebietes.
 
 (2) Gleiches gilt, wenn bei einem Beamten eine Erkrankung oder ihre Folgen oder ein Unfall auf gesundheitsschädigende oder sonst vom Inland wesentlich abweichende Verhältnisse bei einer Verwendung im Sinne des Absatzes 1 zurückzuführen sind oder wenn eine gesundheitliche Schädigung bei dienstlicher Verwendung im Ausland auf einen Unfall oder eine Erkrankung im Zusammenhang mit einer Verschleppung oder einer Gefangenschaft zurückzuführen ist oder darauf beruht, dass der Beamte aus sonstigen mit dem Dienst zusammenhängenden Gründen dem Einflussbereich des Dienstherrn entzogen ist.
 
@@ -1324,6 +1334,8 @@ Dies gilt nicht, soweit der Arbeitgeber mindestens die Hälfte der Beiträge ode
 (7) § 53 Abs. 6 gilt entsprechend.
 
 (8) Den in Absatz 1 bezeichneten Renten stehen entsprechende wiederkehrende Geldleistungen gleich, die auf Grund der Zugehörigkeit zu Zusatz- oder Sonderversorgungssystemen der ehemaligen Deutschen Demokratischen Republik geleistet werden oder die von einem ausländischen Versicherungsträger nach einem für die Bundesrepublik Deutschland wirksamen zwischen- oder überstaatlichen Abkommen gewährt werden. Für die Umrechnung von Renten ausländischer Versorgungsträger gilt § 17a Absatz 1 des Vierten Buches Sozialgesetzbuch entsprechend.
+
+(9) Auf Verlangen der Regelungsbehörde ist der Träger einer Leistung im Sinne des Absatzes 1 Satz 2 verpflichtet, Auskunft über die Höhe und den Anspruchszeitraum der zustehenden Leistung zu erteilen, wenn diese Daten der Regelungsbehörde nicht durch den Versorgungsberechtigten übermittelt werden. Satz 1 gilt in den Fällen des Absatzes 1 Satz 3 entsprechend.
 
 # § 55a – Zusammentreffen von Versorgungsbezügen mit Versorgungsabfindungen
 

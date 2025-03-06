@@ -41,7 +41,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 # § 1 – Zweck des Gesetzes
 
-Zweck dieses Gesetzes ist es, die Grundlagen für den Handel mit Zertifikaten für Emissionen aus Brennstoffen zu schaffen und für eine Bepreisung dieser Emissionen zu sorgen, soweit diese Emissionen nicht vom EU-Emissionshandel erfasst sind, um damit zur Erreichung der nationalen Klimaschutzziele, einschließlich des langfristigen Ziels der Netto-Treibhausgasneutralität bis zum Jahr 2045, und zur Erreichung der Minderungsziele nach der EU-Klimaschutzverordnung sowie zur Verbesserung der Energieeffizienz beizutragen. Zweck des nationalen Emissionshandelssystems ist die Bepreisung fossiler Treibhausgasemissionen.
+Zweck dieses Gesetzes ist es, die Grundlagen für den Handel mit Emissionszertifikaten zu schaffen und für eine Bepreisung von Brennstoffemissionen zu sorgen, soweit diese Emissionen nicht einer Bepreisung im Rahmen des EU-Emissionshandels unterliegen, um damit zur Erreichung der nationalen Klimaschutzziele, einschließlich des langfristigen Ziels der Netto-Treibhausgasneutralität bis zum Jahr 2045, und zur Erreichung der Minderungsziele nach der EU-Klimaschutzverordnung sowie zur Verbesserung der Energieeffizienz beizutragen. Zweck des Gesetzes ist es auch, den Übergang des nationalen Emissionshandelssystems in das EU-Emissionshandelssystem für Brennstoffe sicherzustellen. Zweck des nationalen Emissionshandelssystems ist die Bepreisung fossiler Treibhausgasemissionen.
 
 # § 2 – Anwendungsbereich
 
@@ -55,7 +55,7 @@ Zweck dieses Gesetzes ist es, die Grundlagen für den Handel mit Zertifikaten f�
 
 2. Nummer 8.1.2 mit dem Hauptbrennstoff Altöl
 
-des Anhangs 1 zu der Verordnung über genehmigungsbedürftige Anlagen einer Genehmigung bedürfen, und diese Anlagen nicht dem EU-Emissionshandel unterliegen.
+des Anhangs 1 zu der Verordnung über genehmigungsbedürftige Anlagen einer Genehmigung bedürfen, und der Betreiber einer solchen Anlage nicht der Pflicht zur Abgabe von Berechtigungen nach § 7 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes unterliegt.
 
 (3) Dieses Gesetz gilt auch für Aufgaben im Zusammenhang mit Maßnahmen nach diesem Gesetz zur Kompensation der Doppelerfassung von Emissionen im EU-Emissionshandel und mit Maßnahmen zum Erhalt der internationalen Wettbewerbsfähigkeit sowie zum Ausgleich unzumutbarer Härten.
 
@@ -87,11 +87,11 @@ d) § 7 Absatz 4 Satz 1 des Energiesteuergesetzes der an die Stelle des Steuerla
 
 4. EU-Emissionshandel:
 
-das unionsweite System zur Erfassung und Begrenzung von Treibhausgasemissionen, geregelt durch die Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates (ABl. L 275 vom 25.10.2003, S. 32; L 140 vom 14.5.2014, S. 177), die zuletzt durch die Richtlinie (EU) 2018/410 (ABl. L 76 vom 19.3.2018, S. 3) geändert worden ist, in der jeweils geltenden Fassung;
+das unionsweite System zur Erfassung und Begrenzung von Treibhausgasemissionen, geregelt durch die Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates (ABl. L 275 vom 25.10.2003, S. 32; L 140 vom 14.5.2014, S. 177), die zuletzt durch die Verordnung (EU) 2024/795 vom 29. Februar 2024 (ABl. L, 2024/795, 29.2.2024) geändert worden ist, in der jeweils geltenden Fassung;
 
 5. EU-Klimaschutzverordnung:
 
-die Verordnung (EU) 2018/842 des Europäischen Parlaments und des Rates vom 30. Mai 2018 zur Festlegung verbindlicher nationaler Jahresziele für die Reduzierung der Treibhausgasemissionen im Zeitraum 2021 bis 2030 als Beitrag zu Klimaschutzmaßnahmen zwecks Erfüllung der Verpflichtungen aus dem Übereinkommen von Paris sowie zur Änderung der Verordnung (EU) Nr. 525/2013 (ABl. L 156 vom 19.6.2018, S. 26) in der jeweils geltenden Fassung;
+die Verordnung (EU) 2018/842 des Europäischen Parlaments und des Rates vom 30. Mai 2018 zur Festlegung verbindlicher nationaler Jahresziele für die Reduzierung der Treibhausgasemissionen im Zeitraum 2021 bis 2030 als Beitrag zu Klimaschutzmaßnahmen zwecks Erfüllung der Verpflichtungen aus dem Übereinkommen von Paris sowie zur Änderung der Verordnung (EU) Nr. 525/2013 (ABl. L 156 vom 19.6.2018, S. 26), die zuletzt durch die Verordnung (EU) 2023/857 vom 19. April 2023 (ABl. L 111 vom 26.4.2023, S. 1) geändert worden ist, in der jeweils geltenden Fassung;
 
 6. Handelsperiode:
 
@@ -107,15 +107,15 @@ eine Darstellung der Methode, die ein Verantwortlicher anwendet, um seine Brenns
 
 9. Treibhausgase:
 
-die in § 3 Nummer 16 des Treibhausgas-Emissionshandelsgesetzes aufgeführten Treibhausgase;
+die in § 3 Nummer 27 des Treibhausgas-Emissionshandelsgesetzes aufgeführten Treibhausgase;
 
 10. Energiesteuergesetz:
 
-das Energiesteuergesetz vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007), das zuletzt durch Artikel 1 des Gesetzes vom 24. Mai 2022 (BGBl. I S. 810) geändert worden ist, in der jeweils geltenden Fassung;
+das Energiesteuergesetz vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007), das zuletzt durch Artikel 3 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 107) geändert worden ist, in der jeweils geltenden Fassung;
 
 11. Verordnung über genehmigungsbedürftige Anlagen:
 
-die Verordnung über genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung vom 31. Mai 2017 (BGBl. I S. 1440), die durch Artikel 1 der Verordnung vom 12. Januar 2021 (BGBl. I S. 69) geändert worden ist.
+die Verordnung über genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung vom 31. Mai 2017 (BGBl. I S. 1440), die zuletzt durch Artikel 1 der Verordnung vom 12. Oktober 2022 (BGBl. I S. 1799) geändert worden ist.
 
 # § 4 – Jährliche Emissionsmengen
 
@@ -227,27 +227,27 @@ Der Verantwortliche hat jährlich bis zum 30. September an die zuständige Behö
 
 Verantwortliche können bis zu 10 Prozent der in einem der Jahre 2021 bis 2025 erworbenen Emissionszertifikate bis zum 30. September des jeweiligen Folgejahres zur Erfüllung der Abgabepflicht nach § 8 für das Vorjahr zu dem für dieses Jahr festgelegten Festpreis erwerben. Für das Jahr 2026 wird ein Preiskorridor mit einem Mindestpreis von 55 Euro pro Emissionszertifikat und einem Höchstpreis von 65 Euro pro Emissionszertifikat festgelegt.
 
-(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Versteigerungsverfahren sowie Einzelheiten zum Verkauf zum Festpreis zu regeln. In der Rechtsverordnung sind insbesondere
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Versteigerungsverfahren sowie Einzelheiten zum Verkauf zum Festpreis zu regeln. In der Rechtsverordnung können insbesondere festgelegt werden:
 
-1. die zuständige Stelle festzulegen und
+1. die zuständige Stelle sowie die Möglichkeit zur Beauftragung von Dritten durch die zuständige Stelle mit der Durchführung des Veräußerungsverfahrens, einschließlich der Vereinnahmung und Abführung der Veräußerungserlöse, und die Aufsicht über diese beauftragten Dritten;
 
-2. die Regeln für die Durchführung des Versteigerungsverfahrens festzulegen; diese müssen objektiv, nachvollziehbar und diskriminierungsfrei sein und Vorkehrungen gegen die Beeinflussung der Preisbildung durch das Verhalten einzelner Bieter treffen.
+2. die Regeln für die Ausgestaltung und Durchführung des Versteigerungsverfahrens; diese müssen objektiv, nachvollziehbar und diskriminierungsfrei sein und Vorkehrungen gegen die Beeinflussung der Preisbildung durch das Verhalten einzelner Bieter treffen;
 
-Im Falle des Verkaufs zum Festpreis kann in der Rechtsverordnung die Beauftragung einer anderen Stelle durch die zuständige Behörde vorgesehen werden.
+3. von Absatz 2 Satz 4 abweichende Preisregelungen für den zusätzlichen Bedarf nach § 5 Absatz 1 sowie Regelungen für den Erwerb von Emissionszertifikaten im Folgejahr;
+
+4. für den Fall, dass gemäß einer Rechtsverordnung nach § 24 Absatz 2 Nummer 2 für die Jahre ab 2027 eine jährliche Emissionsmenge nach § 4 Absatz 1 Satz 1 verbleibt, abweichend von Absatz 1 Satz 1 und 2 die Fortführung des Verkaufs zu einem marktbasierten Preis, der folgendem Bezugspreis entspricht:
+
+a) in den ersten beiden Quartalen des Jahres 2027 dem mengengewichteten Durchschnittspreis der Versteigerungen von Berechtigungen nach § 10 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal und
+
+b) ab dem dritten Quartal 2027 dem mengengewichteten Durchschnittspreis der Versteigerungen von Emissionszertifikaten nach § 10 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal;
+
+5. im Fall von Artikel 30k Absatz 2 der Richtlinie 2003/87/EG für das Jahr 2027 abweichend von Absatz 1 Satz 1 und 2 die Fortführung des Verkaufs zum Festpreis, der in jedem Quartal des Jahres 2027 dem mengengewichteten Durchschnittspreis der Versteigerungen von Berechtigungen nach § 10 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal entspricht.
 
 (4) Die Erlöse aus der Veräußerung stehen dem Bund zu. Die Kosten, die dem Bund durch die Wahrnehmung der ihm im Rahmen dieses Gesetzes zugewiesenen Aufgaben, einschließlich der gemäß § 11 entstehenden Ausgaben, entstehen und nicht durch Gebühren nach § 16 gedeckt sind, werden aus den Erlösen nach Satz 1 gedeckt, mit Ausnahme der Kosten nach § 5.
 
 # § 11 – Ausgleich indirekter Belastungen
 
-(1) Entsteht durch die Einführung des Brennstoffemissionshandels nach diesem Gesetz eine unzumutbare Härte für ein betroffenes Unternehmen und ein mit diesem verbundenes Unternehmen, das mit seinem Kapital aus handels- oder gesellschaftsrechtlichem Rechtsgrund für die Risiken des Geschäftsbetriebes des betroffenen Unternehmens einstehen muss, gewährt die zuständige Behörde auf Antrag eine finanzielle Kompensation in der zur Vermeidung der unzumutbaren Härte erforderlichen Höhe. Dies gilt nicht für Verantwortliche im Sinne des § 3 Nummer 3. Von einer unzumutbaren Härte ist in der Regel nicht auszugehen, sofern die Brennstoffkosten eines Unternehmens, auch unter Berücksichtigung der durch die Einführung des Brennstoffemissionshandels verursachten direkten und indirekten zusätzlichen Kosten, nicht mehr als 20 Prozent der betriebswirtschaftlichen Gesamtkosten ausmachen oder wenn der Anteil der Zusatzkosten durch die Einführung des Brennstoffemissionshandels an der Bruttowertschöpfung nicht mehr als 20 Prozent beträgt. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-
-1\.
-
-Einzelheiten zur Antragstellung und zu erbringenden Nachweisen zu regeln und
-
-2\.
-
-die in Satz 3 genannten Schwellenwerte anzupassen.
+(1) Entsteht durch die Einführung des Brennstoffemissionshandels nach diesem Gesetz eine unzumutbare Härte für ein betroffenes Unternehmen und ein mit diesem verbundenes Unternehmen, das mit seinem Kapital aus handels- oder gesellschaftsrechtlichem Rechtsgrund für die Risiken des Geschäftsbetriebes des betroffenen Unternehmens einstehen muss, kann die zuständige Behörde auf Antrag eine finanzielle Kompensation in der zur Vermeidung der unzumutbaren Härte erforderlichen Höhe im Wege einer Billigkeitsleistung gewähren. Dies gilt nicht für Verantwortliche im Sinne des § 3 Nummer 3. Von einer unzumutbaren Härte ist in der Regel nicht auszugehen, sofern die Brennstoffkosten eines Unternehmens, auch unter Berücksichtigung der durch die Einführung des Brennstoffemissionshandels verursachten direkten und indirekten zusätzlichen Kosten, nicht mehr als 20 Prozent der betriebswirtschaftlichen Gesamtkosten ausmachen oder wenn der Anteil der Zusatzkosten durch die Einführung des Brennstoffemissionshandels an der Bruttowertschöpfung nicht mehr als 20 Prozent beträgt. Billigkeitsleistungen im Sinne von Satz 1 stehen unter dem Vorbehalt der beihilferechtlichen Genehmigung im Einzelfall durch die Europäische Kommission.
 
 (2) Die Bundesregierung wird durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Einzelheiten regeln über die vollständige finanzielle Kompensation für Anlagenbetreiber im Sinne des § 3 Nummer 2 des Treibhausgas-Emissionshandelsgesetzes, die Brennstoffe nach Anlage 1 einsetzen, für die nach diesem Gesetz Emissionszertifikate abgegeben wurden und aufgrund deren Einsatz in der emissionshandelspflichtigen Anlage auch nach dem Treibhausgas-Emissionshandelsgesetz Berechtigungen abgegeben werden müssen. Die Rechtsverordnung bedarf der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
@@ -299,7 +299,9 @@ Im Rahmen der Pflichten nach Satz 1 haben die Verantwortlichen Arbeitskräfte so
 
 erhoben oder bekannt wurden. Die übermittelten Daten umfassen die der jeweiligen anderen Behörde bekannt gewordenen Daten der Verantwortlichen, soweit diese Daten für die Prüfung der Emissionsberichterstattung oder der Erfüllung der sonstigen emissionshandelsrechtlichen Verpflichtungen dieser Verantwortlichen nach diesem Gesetz erforderlich sind und soweit nicht überwiegende schutzwürdige Interessen der betroffenen Person entgegenstehen. Die Übermittlung von Daten nach den Sätzen 1 und 2 ist auf Ersuchen der zuständigen Behörde anhand angemessener Stichproben außerhalb des automatisierten Abrufverfahrens durchzuführen, bis die für ein automatisiertes Abrufverfahren oder automatisiertes Anfrage- und Auskunftsverfahren erforderlichen technischen und organisatorischen Voraussetzungen in der jeweiligen anderen Behörde für eine Umsetzung der Regelungen einer Rechtsverordnung nach Absatz 5 vorliegen. § 30 Absatz 1 der Abgabenordnung steht Übermittlungen nach den Sätzen 1 bis 3 nicht entgegen.
 
-(5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, andere Bundesbehörden zur Übermittlung von Daten nach Absatz 4 Satz 1 an die zuständige Behörde in einem automatisierten Abrufverfahren oder automatisierten Anfrage- und Auskunftsverfahren zu verpflichten. In der Rechtsverordnung können Einzelheiten zur Datenübermittlung geregelt werden, insbesondere das Nähere über
+(5) Die zuständige Behörde ist berechtigt, die im Rahmen der Erfüllung der Aufgaben nach diesem Gesetz von Verantwortlichen übermittelten Daten und Angaben dem Bundesministerium für Wirtschaft und Klimaschutz zu Zwecken der Rechts- und Fachaufsicht in nicht personenbezogener Form zu übermitteln. Sowohl die zuständige Behörde als auch das Bundesministerium für Wirtschaft und Klimaschutz dürfen die Daten und Angaben nach Satz 1 in nicht personenbezogener Form an beauftragte Dritte zu Zwecken der Fortentwicklung dieses Gesetzes übermitteln. Daten und Angaben, die Betriebs- und Geschäftsgeheimnisse darstellen, dürfen an beauftragte Dritte ohne Geheimhaltungsvereinbarung nur übermittelt werden, wenn ein Bezug zu dem Unternehmen nicht mehr hergestellt werden kann.
+
+(6) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, andere Bundesbehörden zur Übermittlung von Daten nach Absatz 4 Satz 1 an die zuständige Behörde in einem automatisierten Abrufverfahren oder automatisierten Anfrage- und Auskunftsverfahren zu verpflichten. In der Rechtsverordnung können Einzelheiten zur Datenübermittlung geregelt werden, insbesondere das Nähere über
 
 1. den Umfang und die Form der erforderlichen Daten,
 
@@ -319,19 +321,19 @@ Im Falle eines automatisierten Abrufverfahrens oder eines automatisierten Anfrag
 
 3. weitere Prüfstellen nach Maßgabe einer Rechtsverordnung nach Absatz 2.
 
-Die Prüfstelle nimmt die ihr zugewiesenen Aufgaben nur im öffentlichen Interesse wahr.
+Für die Prüfung der Emissionsberichte und der Anträge aufgrund von § 11 gelten die Anforderungen nach der Durchführungsverordnung (EU) 2018/2067 der Kommission vom 19. Dezember 2018 über die Prüfung von Daten und die Akkreditierung von Prüfstellen gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates (ABl. L 334 vom 31.12.2018, S. 94), die zuletzt durch Artikel 1 der Durchführungsverordnung (EU) 2024/1321 vom 8. Mai 2024 (ABl. L, 2024/1321, 13.5.2024) geändert worden ist, in der jeweils geltenden Fassung entsprechend. Die Prüfstelle nimmt die ihr zugewiesenen Aufgaben nur im öffentlichen Interesse wahr.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, weiteren sachverständigen Stellen oder Berufsgruppen die Berechtigung zur Prüfung von Emissionsberichten nach Absatz 1 zu erteilen. In der Rechtsverordnung kann diese Berechtigung von einer vorherigen Bekanntgabe durch die zuständige Behörde abhängig gemacht werden; in diesem Falle regelt die Verordnung auch Voraussetzungen und das Verfahren der Zulassungsprüfung sowie die Voraussetzungen und das Verfahren der Bekanntgabe von Prüfstellen.
 
 # § 16 – Gebühren für individuell zurechenbare öffentliche Leistungen
 
-(1) Für die Eröffnung eines Personen- oder Händlerkontos im nationalen Emissionshandelsregister erhebt die zuständige Behörde von dem Kontoinhaber eine Gebühr von 170 Euro, für die Verwaltung eines Personen- oder Händlerkontos eine Gebühr von 600 Euro pro Handelsperiode sowie für die Umfirmierung eines Kontos oder für die Änderung eines Kontobevollmächtigten eine Gebühr von jeweils 60 Euro.
+(1) Für die Eröffnung eines Personen- oder Händlerkontos im nationalen Emissionshandelsregister erhebt die zuständige Behörde von dem Kontoinhaber eine Gebühr von 393 Euro, für die Verwaltung eines Personen- oder Händlerkontos eine Gebühr von 649 Euro pro Handelsperiode, für die Umfirmierung eines Kontos eine Gebühr von 280 Euro sowie für die Änderung eines Kontobevollmächtigten eine Gebühr von jeweils 140 Euro.
 
-(2) Wird ein Widerspruch gegen Entscheidungen nach diesem Gesetz vollständig oder teilweise zurückgewiesen, beträgt die Gebühr entsprechend dem entstandenen Verwaltungsaufwand 50 bis 4 000 Euro. Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist. Wird der Widerspruch nach Beginn der sachlichen Bearbeitung jedoch vor deren Beendigung zurückgenommen, ermäßigt sich die Gebühr um mindestens 25 Prozent.
+(2) Wird ein Widerspruch gegen Entscheidungen nach diesem Gesetz vollständig oder teilweise zurückgewiesen, beträgt die Gebühr entsprechend dem entstandenen Verwaltungsaufwand 480 bis 5 600 Euro. Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist. Wird der Widerspruch nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen, ermäßigt sich die Gebühr um mindestens 25 Prozent.
 
 # § 17 – Elektronische Kommunikation
 
-(1) Die zuständige Behörde kann für Überwachungspläne, Berichte und Anträge, für die Bekanntgabe von Entscheidungen und für die sonstige Kommunikation die Verwendung der Schriftform oder der elektronischen Form vorschreiben. Wird die elektronische Form vorgeschrieben, kann die zuständige Behörde eine bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für die Übermittlung elektronischer Dokumente vorschreiben. Die zuständige Behörde kann auch vorschreiben, dass Verantwortliche oder Prüfstellen zur Erstellung von Überwachungsplänen oder Berichten oder zur Stellung von Anträgen nur die auf ihrer Internetseite zur Verfügung gestellten elektronischen Formularvorlagen zu benutzen und die ausgefüllten Formularvorlagen in elektronischer Form sowie unter Verwendung einer qualifizierten Signatur zu übermitteln haben. Wenn die Benutzung elektronischer Formatvorlagen vorgeschrieben ist, ist die Übermittlung zusätzlicher Dokumente als Ergänzung der Formatvorlagen unter Beachtung der Formvorschriften des Satzes 3 möglich. Anordnungen nach den Sätzen 1 bis 3 werden im Bundesanzeiger bekannt gemacht.
+(1) Erklärungen gegenüber der zuständigen Behörde sind auf elektronischem Wege und in elektronischer Form abzugeben. Die zuständige Behörde kann für die Kommunikation eine bestimmte Verschlüsselung für die Übermittlung elektronischer Dokumente vorschreiben. Die zuständige Behörde kann auch vorschreiben, dass Verantwortliche oder Prüfstellen zur Erstellung von Überwachungsplänen oder Berichten oder zur Stellung von Anträgen nur die auf ihrer Internetseite zur Verfügung gestellten elektronischen Formularvorlagen zu benutzen und die ausgefüllten Formularvorlagen in elektronischer Form zu übermitteln haben. Wenn die Benutzung elektronischer Formularvorlagen vorgeschrieben ist, ist die Übermittlung zusätzlicher Dokumente unter Beachtung der Formvorschriften des Satzes 3 möglich. Anordnungen nach den Sätzen 1 bis 3 werden im Bundesanzeiger bekannt gemacht.
 
 (2) Für Verfahren für Maßnahmen im Sinne von § 2 Absatz 3 gilt Absatz 1 entsprechend.
 
@@ -355,7 +357,7 @@ Kommt ein Verantwortlicher nach Ende der Einführungsphase nach § 10 Absatz 2 S
 
 1. in der Einführungsphase nach § 10 Absatz 2 Satz 1 und 2 für die Jahre mit einem Verkauf zum Festpreis für jedes nicht abgegebene Emissionszertifikat dem Doppelten des jeweiligen Festpreises,
 
-2. ansonsten der Höhe der für das entsprechende Jahr festzusetzenden Zahlungspflicht nach § 30 Absatz 1 Satz 1 und 2 des Treibhausgas-Emissionshandelsgesetzes.
+2. ansonsten der Höhe der für das entsprechende Jahr festzusetzenden Zahlungspflicht nach § 46 Absatz 1 Satz 1 und 2 des Treibhausgas-Emissionshandelsgesetzes.
 
 Von einem Leistungsbescheid nach Satz 1 kann abgesehen werden, wenn der Verantwortliche seiner Abgabepflicht nach § 8 aufgrund höherer Gewalt nicht nachkommen konnte. Hat der Verantwortliche über die Brennstoffemissionen nach § 7 berichtet, ist die Festsetzung der Zahlungspflicht nur zulässig, soweit die Menge der abgegebenen Emissionszertifikate geringer ist als die Höhe der verifizierten Brennstoffemissionen im Emissionsbericht.
 
@@ -373,31 +375,33 @@ Von einem Leistungsbescheid nach Satz 1 kann abgesehen werden, wenn der Verantwo
 
 1. entgegen § 6 Absatz 1 Satz 1 oder Absatz 4 Satz 1 einen Überwachungsplan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einreicht,
 
-2. entgegen § 14 Absatz 2 eine dort genannte Handlung nicht gestattet, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt, eine Unterlage nicht, nicht richtig oder nicht rechtzeitig vorlegt oder eine Arbeitskraft oder ein Hilfsmittel nicht oder nicht rechtzeitig bereitstellt,
+2. entgegen § 14 Absatz 2 eine dort genannte Handlung nicht gestattet, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt, eine Unterlage nicht, nicht richtig oder nicht rechtzeitig vorlegt oder eine Arbeitskraft oder ein Hilfsmittel nicht oder nicht rechtzeitig bereitstellt oder
 
-3. einer Rechtsverordnung nach § 11 Absatz 1 Satz 4 oder einer vollziehbaren Anordnung aufgrund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
-
-4. entgegen § 18 Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
+3. entgegen § 18 Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer Geldbuße bis zu fünfhunderttausend Euro und in den Fällen der Absätze 2 und 3 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 # § 23 – Erfahrungsbericht
 
-(1) Die Bundesregierung evaluiert dieses Gesetz und legt dem Bundestag bis zum 30. November 2022 sowie bis zum 30. November 2024 und dann alle vier Jahre einen Erfahrungsbericht vor. In dem Bericht berichtet sie insbesondere über den Stand der Implementierung und die Wirksamkeit des nationalen Emissionshandelssystems, über Auswirkungen der Festpreise und Preiskorridore nach § 10 Absatz 2 und macht auf dieser Basis erforderlichenfalls Vorschläge für gesetzliche Änderungen zur Anpassung und Fortentwicklung des Emissionshandelssystems. Dabei berücksichtigt sie die jährlichen Klimaschutzberichte nach § 10 des Bundes-Klimaschutzgesetzes. Die Möglichkeit zur gesetzlichen Anpassung der Festpreise und Preiskorridore bleibt unberührt. Sofern die Bundesregierung auf Grundlage des bis zum 30. November 2024 vorzulegenden Berichts eine Fortführung des Preiskorridors bei der Versteigerung für sinnvoll und erforderlich erachtet, macht sie im Jahr 2025 einen Vorschlag für die rechtliche Umsetzung.
+(1) Die Bundesregierung evaluiert dieses Gesetz und legt dem Bundestag bis zum 30. November 2022 sowie bis zum 30. November 2024 und dann alle vier Jahre einen Erfahrungsbericht vor. In dem Bericht berichtet sie insbesondere über den Stand der Implementierung und die Wirksamkeit des nationalen Emissionshandelssystems, über Auswirkungen der Festpreise und Preiskorridore nach § 10 Absatz 2 und macht auf dieser Basis erforderlichenfalls Vorschläge für gesetzliche Änderungen zur Anpassung und Fortentwicklung des Emissionshandelssystems. Dabei berücksichtigt sie die jährlichen Klimaschutzberichte nach § 10 des Bundes-Klimaschutzgesetzes. Die Möglichkeit zur gesetzlichen Anpassung der Festpreise und Preiskorridore bleibt unberührt.
 
-(2) Das Umweltbundesamt unterstützt das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bei der Erstellung des Erfahrungsberichts. Die betroffenen Bundesministerien werden durch das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit frühzeitig beteiligt und unterstützen das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bei der Erarbeitung des Erfahrungsberichts.
+(2) Das Umweltbundesamt unterstützt das Bundesministerium für Wirtschaft und Klimaschutz bei der Erstellung des Erfahrungsberichts. Die betroffenen Bundesministerien werden durch das Bundesministerium für Wirtschaft und Klimaschutz frühzeitig beteiligt und unterstützen das Bundesministerium für Wirtschaft und Klimaschutz bei der Erarbeitung des Erfahrungsberichts.
 
-# § 24 – Inkrafttreten
+# § 24 – Übergangsbestimmungen
 
-(1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft.
+(1) Die Verpflichtungen nach § 7 Absatz 1 und § 8 entfallen in Bezug auf Brennstoffemissionen aus Brennstoffen, die nach dem 31. Dezember 2026
 
-(2) § 11 Absatz 1 und 2 tritt
+1. nach § 2 Absatz 2 in Verkehr gebracht werden und ab dem 1. Januar 2027 einer Abgabeverpflichtung nach § 7 Absatz 2 des Treibhausgas-Emissionshandelsgesetzes unterliegen,
 
-1. am ersten Tag des Monats in Kraft, der auf den Tag folgt, an dem die Europäische Kommission die zu § 11 Absatz 1 und 2 erforderliche beihilferechtliche Genehmigung erteilt hat,
+2. nach § 2 Absatz 2a als in Verkehr gebracht gelten und einer Abgabeverpflichtung nach § 7 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes unterliegen.
 
-2. frühestens jedoch am Tag nach der Verkündung dieses Gesetzes.
+In dem in § 10 Absatz 3 Satz 2 Nummer 5 genannten Fall gilt anstelle des in Satz 1 Nummer 1 angegebenen Kalenderjahres das Kalenderjahr 2028.
 
-Der Tag des Inkrafttretens ist vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Bundesgesetzblatt gesondert bekannt zu geben.
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+
+1. für den Fall, dass die Voraussetzungen nach Absatz 1 Satz 1 Nummer 2 vorliegen, zu regeln, dass die Verpflichtungen nach § 7 Absatz 1 und § 8 auch für Brennstoffemissionen aus Brennstoffen, die nach § 2 Absatz 2a als in Verkehr gebracht gelten und in Anlagen mit einer Gesamtfeuerungswärmeleistung von nicht mehr als 20 Megawatt eingesetzt werden, entfallen,
+
+2. die jährliche Emissionsmenge nach § 4 Absatz 1 Satz 1 für die Jahre ab 2027 anteilig um die Menge der Brennstoffemissionen zu verringern, für die nach Maßgabe von Absatz 1 und Nummer 1 die Abgabepflicht nach § 8 entfällt.
 
 # Anlage 1 – (zu § 2 Absatz 1)Brennstoffe
 

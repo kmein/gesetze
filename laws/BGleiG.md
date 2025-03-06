@@ -185,9 +185,43 @@ Im Gleichstellungsplan sind konkrete Zielvorgaben insbesondere zum Frauen- und M
 
 Die Dienststelle hat den Gleichstellungsplan innerhalb eines Monats nach Beginn seiner Geltungsdauer im Intranet zu veröffentlichen und jeder einzelnen und jedem einzelnen Beschäftigten in Textform zur Kenntnis zu geben.
 
-# § 15 – Arbeitszeiten und sonstige Rahmenbedingungen
+# § 15 – Arbeitszeiten, sonstige Rahmenbedingungen und Erstattung von Betreuungskosten in besonderen Fällen
 
-Die Dienststellen haben Arbeitszeiten und sonstige Rahmenbedingungen anzubieten, die allen Beschäftigten die Vereinbarkeit von Familie oder Pflege mit der Berufstätigkeit erleichtern, soweit zwingende dienstliche Belange oder zwingende betriebliche Belange dem nicht entgegenstehen. Zu den sonstigen Rahmenbedingungen können Möglichkeiten zur Betreuung von Kindern oder pflegebedürftigen Personen einschließlich entsprechender Beratungs- und Vermittlungsleistungen gehören.
+(1) Die Dienststellen haben Arbeitszeiten und sonstige Rahmenbedingungen anzubieten, die allen Beschäftigten die Vereinbarkeit von Familie oder Pflege mit der Berufstätigkeit erleichtern, soweit zwingende dienstliche Belange oder zwingende betriebliche Belange dem nicht entgegenstehen. Zu den sonstigen Rahmenbedingungen können Möglichkeiten zur Betreuung von Kindern oder pflegebedürftigen Personen einschließlich entsprechender Beratungs- und Vermittlungsleistungen gehören.
+
+(2) Kosten für die Betreuung von Kindern oder von pflegebedürftigen Personen können auf Antrag im Einzelfall nach den Absätzen 3 und 4 erstattet werden, wenn
+
+1. sie zusätzlich anfallen,
+
+2. sie unabwendbar sind und
+
+3. eine Erstattung nach anderen Rechtsgrundlagen nicht möglich ist.
+
+(3) Die Kostenerstattung nach Absatz 2 ist für die Dauer folgender Maßnahmen möglich:
+
+1. bei dienstlich bedingter Abwesenheit vom regelmäßigen Dienstort sowie,
+
+2. soweit der Dienst oder die Arbeitsleistung am regelmäßigen Dienstort zur Unterstützung der Streitkräfte bei der Bewältigung von Krisenlagen anfällt und nicht innerhalb der vereinbarten regelmäßigen Arbeitszeit liegt, bei
+
+a) Ableistung von angeordneter oder genehmigter Mehrarbeit gemäß § 88 des Bundesbeamtengesetzes,
+
+b) über die regelmäßige wöchentliche Arbeitszeit hinausgehender angeordneter oder genehmigter Arbeitsleistung sowie
+
+c) Ableistung von Schichtdienst.
+
+(4) Krisenlagen nach Absatz 3 Nummer 2 sind in der Regel
+
+1. Amtshilfemaßnahmen einschließlich der Unterstützungsleistungen in Katastrophenfällen,
+
+2. Maßnahmen zur Erhöhung der Einsatzbereitschaft der Bundeswehr,
+
+3. Maßnahmen zur Gefahrenabwehr,
+
+4. Maßnahmen zum Schutz von Einrichtungen und von Infrastruktur,
+
+5. vorbereitende Maßnahmen der Bundeswehr für verbündete Streitkräfte im Rahmen der Landes- und Bündnisverteidigung sowie
+
+6. Unterstützungsleistungen für verbündete Streitkräfte im Rahmen der Landes- und Bündnisverteidigung.
 
 # § 16 – Teilzeitbeschäftigung, Telearbeit, mobiles Arbeiten und Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben
 
