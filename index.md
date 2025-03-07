@@ -2225,7 +2225,7 @@
 - [FluthilfeMedErl 2022](laws/FluthilfeMedErl_2022.md) Gemeinsamer Erlass der Bundesministerin des Innern und für Heimat, der Bundesministerin der Verteidigung und des Bundesministers für Digitales und Verkehr über die Stiftung der Einsatzmedaille „Fluthilfe 2021“
 - [FlUUG](laws/FlUUG.md) Gesetz über die Untersuchung von Unfällen und Störungen bei dem Betrieb ziviler Luftfahrzeuge
 - [FMontAusbV](laws/FMontAusbV.md) Verordnung über die Berufsausbildung zum Fassadenmonteur/zur Fassadenmonteurin
-- [FMSAKostV](laws/FMSAKostV.md) Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung
+- [FMSAKostV](laws/FMSAKostV.md) Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung *)
 - [FMSASatz 2011](laws/FMSASatz_2011.md) Satzung der Bundesanstalt für Finanzmarktstabilisierung
 - [FMSASatzV](laws/FMSASatzV.md) Verordnung über die Satzung der Bundesanstalt für Finanzmarktstabilisierung
 - [FMStFV](laws/FMStFV.md) Verordnung zur Durchführung des Stabilisierungsfondsgesetzes
@@ -5622,7 +5622,7 @@
 - [TdDtEinhBPräsProk](laws/TdDtEinhBPräsProk.md) Proklamation des Bundespräsidenten
 - [TechFachwPrV](laws/TechFachwPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin
 - [TechKontrollV](laws/TechKontrollV.md) Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße
-- [TEHG](laws/TEHG.md) Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen*)
+- [TEHG](laws/TEHG.md) Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen
 - [TeleFinV 2025](laws/TeleFinV_2025.md) Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2025
 - [TeleGebV](laws/TeleGebV.md) Verordnung über die Erhebung von Gebühren und Auslagen für die Erteilung von Zulassungen und Bestätigungen durch die Gesellschaft für Telematik
 - [TelekAGSa](laws/TelekAGSa.md) Satzung der Deutsche Telekom AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
@@ -6633,8 +6633,6 @@
 - [ZuckProdAbgV 1983](laws/ZuckProdAbgV_1983.md) Verordnung über die im Rahmen der Produktionsregelung für Zucker zu erhebenden Abgaben
 - [ZuckProdAbgV1983AbwV 2009/2010](laws/ZuckProdAbgV1983AbwV_2009_2010.md) Verordnung zur Abweichung von der Zucker-Produktionsabgaben-Verordnung für das Wirtschaftsjahr 2009/2010
 - [ZuckQuotV 1981](laws/ZuckQuotV_1981.md) Verordnung über die Zuteilung und Änderung von Quoten für Zucker
-- [ZuG 2007](laws/ZuG_2007.md) Gesetz über den nationalen Zuteilungsplan für Treibhausgas-Emissionsberechtigungen in der Zuteilungsperiode 2005 bis 2007
-- [ZuG 2012](laws/ZuG_2012.md) Gesetz über den nationalen Zuteilungsplan für Treibhausgas-Emissionsberechtigungen in der Zuteilungsperiode 2008 bis 2012
 - [ZupfinstrumentAusbV](laws/ZupfinstrumentAusbV.md) Verordnung über die Berufsausbildung zum Zupfinstrumentenmacher und zur Zupfinstrumentenmacherin*
 - [ZupfMstrV](laws/ZupfMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Zupfinstrumentenmacher-Handwerk
 - [Zuständigkeits-DB](laws/Zuständigkeits-DB.md) Durchführungsbestimmungen zu den Vorschriften über die Zuständigkeit der Ausgleichsämter
