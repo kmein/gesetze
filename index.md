@@ -3198,6 +3198,7 @@
 - [KlWalAbkG](laws/KlWalAbkG.md) Gesetz zu dem Abkommen vom 31. März 1992 zur Erhaltung der Kleinwale in der Nord- und Ostsee
 - [KMAG](laws/KMAG.md) Gesetz zur Aufsicht über Märkte für Kryptowerte
 - [KmV](laws/KmV.md) Verordnung zur Begrenzung von Kontaminanten in Lebensmitteln
+- [KMZÜV](laws/KMZÜV.md) Verordnung zur Durchführung des vereinfachten Verfahrens nach Artikel 143 Absatz 6 der Verordnung (EU) 2023/1114 1
 - [KNV-V](laws/KNV-V.md) Verordnung über den Vergleich von Kosten und Nutzen der Kraft-Wärme-Kopplung und der Rückführung industrieller Abwärme bei der Wärme- und Kälteversorgung
 - [KnVAusbauV](laws/KnVAusbauV.md) Verordnung über den weiteren Ausbau der knappschaftlichen Versicherung
 - [KochAusbV](laws/KochAusbV.md) Verordnung über die Berufsausbildung zum Koch und zur Köchin*

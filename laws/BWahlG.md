@@ -846,9 +846,5 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen Bundes
 
 # Anlage 2 – (zu § 2 Absatz 2)
 
-(Fundstelle: BGBl. 2024 I Nr. 91, S. 3 – 62)
-
-# Anlage 2 – (zu § 2 Absatz 2)
-
 (Fundstelle: BGBl. 2024 I Nr. 91, S. 3 – 62;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

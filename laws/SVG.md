@@ -463,7 +463,7 @@ Die Bezugszeiträume verkürzen sich ferner um den Umfang einer Minderung nach M
 
 (5) Übergangsgebührnisse können den Soldatinnen auf Zeit und Soldaten auf Zeit, die nach einer Wehrdienstzeit von mindestens vier Jahren auf eigenen Antrag nach § 55 Absatz 3 des Soldatengesetzes entlassen worden sind, in den Grenzen der Absätze 2 und 3 in dem zeitlichen und finanziellen Umfang bewilligt werden, wie es übergangsweise zur Sicherung des Lebensunterhalts notwendig ist.
 
-(6) Die Übergangsgebührnisse werden in Monatsbeträgen wie die Dienstbezüge gezahlt. Die Zahlung kann auf Antrag höchstens zweimal für insgesamt längstens 24 Monate aufgeschoben oder unterbrochen werden; dies gilt nicht für Monate, in denen Verwendungseinkommen im Sinne des § 68 Absatz 4 Satz 1 bezogen wird. Soweit es der Eingliederung in das zivile Erwerbsleben dient, kann die für die Zahlung von Übergangsgebührnissen zuständige Stelle in begründeten Einzelfällen, insbesondere zur Schaffung oder Verbesserung einer Existenzgrundlage, die Zahlung für den gesamten Anspruchszeitraum oder für mehrere Monate in einer Summe zulassen; für diesen Zeitraum gilt der Anspruch auf Übergangsgebührnisse mit der Zahlung als abgegolten. Beim Tod der oder des Berechtigten ist der noch nicht ausgezahlte Betrag der überlebenden Ehegattin oder dem überlebenden Ehegatten oder ihren oder seinen Abkömmlingen weiterzuzahlen. Sind Anspruchsberechtigte nach Satz 4 nicht vorhanden, sind die Übergangsgebührnisse den Eltern weiterzuzahlen. Sind Personen vorhanden, die Anspruch auf Witwen- oder Waisengeld oder Unterhaltsbeitrag nach § 58 haben, sind die Sätze 4 und 5 nicht anzuwenden.
+(6) Die Übergangsgebührnisse werden in Monatsbeträgen wie die Dienstbezüge gezahlt. Die Zahlung kann auf Antrag höchstens zweimal für insgesamt längstens 24 Monate aufgeschoben oder unterbrochen werden; dies gilt nicht für Monate, in denen Verwendungseinkommen im Sinne des § 68 Absatz 4 Satz 1 bezogen wird. Soweit es der Eingliederung in das zivile Erwerbsleben dient, kann die für die Zahlung von Übergangsgebührnissen zuständige Stelle in begründeten Einzelfällen, insbesondere zur Schaffung oder Verbesserung einer Existenzgrundlage, die Zahlung für den gesamten Anspruchszeitraum oder für mehrere Monate in einer Summe zulassen; für diesen Zeitraum gilt der Anspruch auf Übergangsgebührnisse mit der Zahlung als abgegolten. Beim Tod der oder des Berechtigten ist der noch nicht ausgezahlte Betrag der überlebenden Ehegattin oder dem überlebenden Ehegatten und ihren oder seinen Abkömmlingen weiterzuzahlen. Sind Anspruchsberechtigte nach Satz 4 nicht vorhanden, sind die Übergangsgebührnisse den Eltern weiterzuzahlen. Sind Personen vorhanden, die Anspruch auf Witwen- oder Waisengeld oder Unterhaltsbeitrag nach § 58 haben, sind die Sätze 4 und 5 nicht anzuwenden.
 
 (7) Übergangsgebührnisse stehen für einen Zeitraum nicht zu, für den Krankengeld der Soldatenentschädigung nach § 19 des Soldatenentschädigungsgesetzes, Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch, Übergangsgeld nach § 30 des Soldatenentschädigungsgesetzes oder Übergangsgeld nach § 64 des Vierzehnten Buches Sozialgesetzbuch gewährt wird. Dieser Zeitraum wird in die Zeiträume nach den Absätzen 2 und 4 nicht eingerechnet.
 
@@ -606,12 +606,37 @@ Beitragszuschussempfängerinnen und Beitragszuschussempfänger nach Satz 1, dene
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19 und weniger als 20 Jahren</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">das 11,5fache und</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">das 11,5fache,</td>
 </tr>
 <tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">20.</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">20 und mehr Jahren</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">das 12fache</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20 und weniger als 21 Jahren</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">das 12fache,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">21.</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">21 und weniger als 22 Jahren</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">das 12,5fache,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22 und weniger als 23 Jahren</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">das 13fache,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">23.</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">23 und weniger als 24 Jahren</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">das 13,5fache,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">24.</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">24 und weniger als 25 Jahren</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">das 14fache,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">25.</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">25 und mehr Jahren</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">das 15fache</td>
 </tr>
 </tbody>
 </table>
@@ -1098,7 +1123,7 @@ entlassen worden ist, erhält ein Übergangsgeld. Das Übergangsgeld wird auch d
 
 (3) Der Ausgleich wird im Falle der Bewilligung von Urlaub bis zum Eintritt in den Ruhestand nach § 28a des Soldatengesetzes nicht gewährt.
 
-(4) Der Ausgleich nach Absatz 1 erhöht sich um 528 Euro für jedes Jahr, um das die Zurruhesetzung vor dem Ende des Monats liegt, in dem die Regelaltersgrenze für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte nach § 5 des Bundespolizeibeamtengesetzes vollendet wird; für restliche Kalendermonate wird jeweils ein Zwölftel dieses Betrages gewährt. Für Offizierinnen und Offiziere im Sinne des § 40 Absatz 4 gilt Satz 1 mit der Maßgabe, dass sie für die Berechnung des Erhöhungsbetrages so zu behandeln sind, als wären sie zum frühestmöglichen Zeitpunkt wegen Überschreitens der für ihren Dienstgrad jeweils geltenden Altersgrenze in den Ruhestand versetzt worden. Der Anspruch auf die Erhöhung nach Satz 1 entfällt für die Monate, in denen Einkünfte im Sinne des § 68 Absatz 4 in Höhe von mehr als vierzehn Zwölfteln der Geringfügigkeitsgrenze im Sinne des § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch erzielt werden; die Zahlungen stehen insoweit unter dem Vorbehalt der Rückforderung. Die Absätze 2 und 3 gelten entsprechend.
+(4) Der Ausgleich nach Absatz 1 erhöht sich um 528 Euro für jedes Jahr, um das die Zurruhesetzung vor dem Ende des Monats liegt, in dem die Regelaltersgrenze für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte nach § 5 des Bundespolizeibeamtengesetzes vollendet wird; für restliche Kalendermonate wird jeweils ein Zwölftel dieses Betrages gewährt. Für Offizierinnen und Offiziere im Sinne des § 40 Absatz 4 gilt Satz 1 mit der Maßgabe, dass sie für die Berechnung des Erhöhungsbetrages so zu behandeln sind, als wären sie zum frühestmöglichen Zeitpunkt wegen Überschreitens der für ihren Dienstgrad jeweils geltenden Altersgrenze in den Ruhestand versetzt worden. Die Absätze 2 und 3 gelten entsprechend.
 
 (+++ § 53: Zur Anwendung vgl. § 7 Abs. 2 SKPersStruktAnpG +++)
 
@@ -1244,17 +1269,13 @@ Satz 1 Nummer 3 gilt auch bei Weiterzahlung an die Hinterbliebenen (§ 16 Absatz
 
 Ein Aufrechnungs- oder Zurückbehaltungsrecht gegenüber Ansprüchen auf Versorgungsbezüge kann nur insoweit geltend gemacht werden, als sie pfändbar sind. Ein Aufrechnungs- oder Zurückbehaltungsrecht gegenüber einem Anspruch auf Übergangsbeihilfe kann gegen die Empfängerin oder den Empfänger nur wegen eines Anspruchs aus dem Dienstverhältnis geltend gemacht werden. Diese Einschränkungen gelten nicht, soweit gegen die Empfängerin oder den Empfänger ein Anspruch auf Schadenersatz wegen vorsätzlicher unerlaubter Handlung besteht.
 
-# § 68 – Zusammentreffen von Versorgungsbezügen mit Erwerbs- und Erwerbsersatzeinkommen
+# § 68 – Zusammentreffen von Versorgungsbezügen mit Erwerbs- oder Erwerbsersatzeinkommen
 
-(1) Bezieht eine Versorgungsberechtigte oder ein Versorgungsberechtigter Erwerbs- oder Erwerbsersatzeinkommen (Absatz 3), erhält sie oder er daneben seine Versorgungsbezüge nur bis zum Erreichen der in Absatz 2 bezeichneten Höchstgrenze. Mindestens ist ein Betrag in Höhe von 20 Prozent der Versorgungsbezüge zu belassen. Satz 2 gilt nicht beim Bezug von Verwendungseinkommen, das mindestens aus derselben Besoldungsgruppe oder vergleichbaren Entgeltgruppen berechnet wird, aus der sich auch die ruhegehaltfähigen Dienstbezüge bestimmen. Für sonstiges in der Höhe vergleichbares Verwendungseinkommen gelten Satz 3 und Absatz 3 Satz 4 entsprechend. Satz 1 ist nicht auf Empfängerinnen und Empfänger von Waisengeld anzuwenden.
+(1) Bezieht eine Soldatin im Ruhestand oder ein Soldat im Ruhestand, die oder der wegen Dienstunfähigkeit, die nicht auf einer Wehrdienstbeschädigung beruht, in den Ruhestand versetzt worden ist, Erwerbs- oder Erwerbsersatzeinkommen nach Absatz 3 oder Absatz 4, erhält sie oder er daneben ihre oder seine Versorgungsbezüge nach Maßgabe der Sätze 2 bis 6. Die Versorgungsbezüge werden bis zum Ablauf des Monats, in dem die für Bundesbeamtinnen und Bundesbeamte geltende Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreicht wird, bis zum Erreichen der maßgeblichen Höchstgrenze gezahlt. Die Höchstgrenze beträgt 71,75 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet. Die Mindesthöchstgrenze beträgt 71,75 Prozent des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4. Zu dem Betrag nach Satz 3 oder 4 kommen der jeweils zustehende Unterschiedsbetrag nach § 64 Absatz 1 sowie ein Betrag in Höhe von monatlich 14 Zwölfteln der Geringfügigkeitsgrenze im Sinne des § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch hinzu. Mindestens ist ein Betrag in Höhe von 20 Prozent der Versorgungsbezüge zu belassen.
 
-(2) Als Höchstgrenze gelten
+(2) Bezieht eine Berufssoldatin im einstweiligen Ruhestand oder ein Berufssoldat im einstweiligen Ruhestand Erwerbs- und Erwerbsersatzeinkommen nach Absatz 3 oder Absatz 4, ruhen die Versorgungsbezüge in Höhe von 50 Prozent des Betrages, um den die Versorgungsbezüge und das Einkommen zusammengerechnet die Höchstgrenze übersteigen. Als Höchstgrenze gelten die ruhegehaltfähigen Dienstbezüge der Besoldungsgruppe, die die Berufssoldatin oder der Berufssoldat zum Zeitpunkt der Versetzung in den einstweiligen Ruhestand innehatte, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 64 Absatz 1.
 
-1. für Soldatinnen im Ruhestand, Soldaten im Ruhestand, Witwen und Witwer die ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 64 Absatz 1,
-
-2. für Soldatinnen im Ruhestand und Soldaten im Ruhestand, die wegen Dienstunfähigkeit, die nicht auf einer Wehrdienstbeschädigung beruht, in den Ruhestand versetzt worden sind, bis zum Ablauf des Monats, in dem die für Bundesbeamtinnen und Bundesbeamte geltende Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreicht wird, 71,75 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe von 71,75 Prozent des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 64 Absatz 1 sowie eines Betrages in Höhe von vierzehn Zwölfteln der Geringfügigkeitsgrenze im Sinne des § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch.
-
-(3) Erwerbseinkommen sind Einkünfte aus nichtselbstständiger Arbeit einschließlich Abfindungen, aus selbstständiger Arbeit sowie aus Gewerbebetrieb und aus Land- und Forstwirtschaft. Nicht als Erwerbseinkommen gelten
+(3) Erwerbseinkommen sind Einkünfte aus nichtselbständiger Arbeit einschließlich Abfindungen, aus selbständiger Arbeit sowie aus Gewerbebetrieb und aus Land- und Forstwirtschaft. Nicht als Erwerbseinkommen gelten
 
 1. Aufwandsentschädigungen,
 
@@ -1268,31 +1289,13 @@ Ein Aufrechnungs- oder Zurückbehaltungsrecht gegenüber Ansprüchen auf Versorg
 
 6. Einkünfte aus Tätigkeiten, die nach Art und Umfang Nebentätigkeiten im Sinne des § 20 Absatz 6 Satz 1 Nummer 2 des Soldatengesetzes entsprechen,
 
-7. als Einmalzahlung gewährte Leistungsbezüge im Sinne der Bundesleistungsbesoldungsverordnung und des § 18 (Bund) des Tarifvertrags für den öffentlichen Dienst und vergleichbare Leistungen aus einer Beschäftigung im öffentlichen Dienst sowie
+7. als Einmalzahlung gewährte Leistungsbezüge im Sinne der Bundesleistungsbesoldungsverordnung und des § 18 (Bund) des Tarifvertrags für den öffentlichen Dienst und vergleichbare Leistungen aus einer Beschäftigung im öffentlichen Dienst sowie
 
-8. Bezüge nach den §§ 52 bis 56 des Bundesbesoldungsgesetzes, wenn eine Versorgungsberechtigte oder ein Versorgungsberechtigter auf Grund ihrer oder seiner Verwendung außerhalb des Geltungsbereiches des Grundgesetzes ein Einkommen nach Absatz 4 bezieht.
+8. Bezüge nach den §§ 52 bis 56 des Bundesbesoldungsgesetzes, wenn eine Versorgungsberechtigte oder ein Versorgungsberechtigter auf Grund ihrer oder seiner Verwendung außerhalb des Geltungsbereiches des Grundgesetzes ein Einkommen nach Absatz 1 bezieht.
 
 Erwerbsersatzeinkommen sind Leistungen, die auf Grund oder in entsprechender Anwendung öffentlich-rechtlicher Vorschriften kurzfristig erbracht werden, um Erwerbseinkommen zu ersetzen. Erwerbs- und Erwerbsersatzeinkommen werden in den Monaten des Zusammentreffens mit Versorgungsbezügen mit einem Zwölftel des im Kalenderjahr erzielten Einkommens angerechnet.
 
-(4) Nach Ablauf des Monats, in dem die oder der Versorgungsberechtigte die für Bundesbeamtinnen und Bundesbeamte geltende Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreicht, gelten die Absätze 1 bis 3 nur für Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst (Verwendungseinkommen). Dies ist jede Beschäftigung im Dienst von Körperschaften, Anstalten und Stiftungen des deutschen öffentlichen Rechts oder ihrer Verbände; ausgenommen ist die Beschäftigung bei öffentlich-rechtlichen Religionsgesellschaften oder ihren Verbänden. Der Verwendung im öffentlichen Dienst steht gleich die Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung, an der eine Körperschaft oder ein Verband im Sinne des Satzes 2 durch Zahlung von Beiträgen oder Zuschüssen oder in anderer Weise beteiligt ist. Ob die Voraussetzungen zutreffen, entscheidet auf Antrag der zuständigen Stelle oder der oder des Versorgungsberechtigten das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
-
-(5) Bei Soldatinnen im Ruhestand und Soldaten im Ruhestand, die wegen Erreichens der für sie festgesetzten besonderen Altersgrenze in den Ruhestand versetzt worden sind, ist die Ruhensberechnung mit der Maßgabe durchzuführen, dass in der Zeit vom Beginn des Ruhestandes bis zum Ende des Monats, in dem sie die für Polizeivollzugsbeamtinnen auf Lebenszeit und Polizeivollzugsbeamte auf Lebenszeit nach § 5 des Bundespolizeibeamtengesetzes vorgesehene Altersgrenze erreichen, nur Erwerbseinkommen aus einer Verwendung im Sinne des Absatzes 4 zu berücksichtigen sind. Für Offizierinnen und Offiziere, die in strahlgetriebenen Kampfflugzeugen als Flugzeugführerin, Flugzeugführer, Waffensystemoffizierin oder Waffensystemoffizier verwendet und als solche in den Ruhestand versetzt worden sind, gilt Satz 1 mit folgenden Maßgaben:
-
-1. mit Beginn des Monats, der auf den Monat folgt, in dem sie die für Polizeivollzugsbeamtinnen auf Lebenszeit und Polizeivollzugsbeamte auf Lebenszeit vorgesehene Altersgrenze nach § 5 des Bundespolizeibeamtengesetzes erreicht haben, bis zum Erreichen der für Bundesbeamtinnen und Bundesbeamte geltenden Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes werden die der Höchstgrenze nach Absatz 2 Nummer 1 zugrundeliegenden Dienstbezüge bei einer Beschäftigung oder Tätigkeit, die nicht als Verwendung im öffentlichen Dienst im Sinne des Absatzes 4 anzusehen ist, um 20 Prozent erhöht;
-
-2. die um 20 Prozent zu erhöhenden ruhegehaltfähigen Dienstbezüge sind mindestens nach der Besoldungsgruppe A 14 zu berechnen;
-
-3. die Anrechnung beschränkt sich auf die Erhöhung nach § 40 Absatz 4, jedoch höchstens auf 7,29461 Prozent der ruhegehaltfähigen Dienstbezüge;
-
-4. § 94b Absatz 4 in der bis zum 31. Dezember 1998 geltenden Fassung gilt sinngemäß.
-
-(6) Bezieht eine Berufssoldatin oder ein Berufssoldat im einstweiligen Ruhestand Erwerbs- und Erwerbsersatzeinkommen nach Absatz 3, das nicht Verwendungseinkommen nach Absatz 4 ist, ruhen die Versorgungsbezüge um 50 Prozent des Betrages, um den sie und das Einkommen die Höchstgrenze übersteigen.
-
-(7) Für Empfängerinnen und Empfänger von Übergangsgebührnissen sind die Absätze 1 bis 3 mit folgenden Maßgaben anzuwenden:
-
-1. Zu berücksichtigen ist nur Erwerbseinkommen aus einer Verwendung im Sinne des Absatzes 4.
-
-2. An die Stelle der Höchstgrenzen des Absatzes 2 treten die Dienstbezüge, aus denen die Übergangsgebührnisse berechnet sind, jedoch unter Zugrundelegung des Grundgehaltes aus der Endstufe der Besoldungsgruppe, mindestens ein Betrag in Höhe des Eineinhalbfachen der Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 64 Absatz 1.
+(4) Verwendungseinkommen ist Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst. Dies ist jede Beschäftigung im Dienst von Körperschaften, Anstalten und Stiftungen des deutschen öffentlichen Rechts oder ihrer Verbände. Ausgenommen ist die Beschäftigung bei öffentlich-rechtlichen Religionsgesellschaften oder ihren Verbänden. Der Verwendung im öffentlichen Dienst steht die Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung gleich, an der eine Körperschaft oder ein Verband im Sinne des Satzes 2 durch Zahlung von Beiträgen oder Zuschüssen oder in anderer Weise beteiligt ist. Ob die Voraussetzungen vorliegen, entscheidet auf Antrag der zuständigen Stelle oder der oder des Versorgungsberechtigten das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern und für Heimat.
 
 (+++ § 68: Zur Anwendung vgl. § 6 Abs. 2 u. § 7 Abs. 2 SKPersStruktAnpG +++)
 
@@ -1390,7 +1393,9 @@ Dies gilt nicht, soweit die Arbeitgeberin oder der Arbeitgeber mindestens die H�
 
 (7) Den in Absatz 1 bezeichneten Renten stehen entsprechende wiederkehrende Geldleistungen gleich, die auf Grund der Zugehörigkeit zu Zusatz- und Sonderversorgungssystemen der ehemaligen Deutschen Demokratischen Republik geleistet werden oder die von einem ausländischen Versicherungsträger nach einem für die Bundesrepublik Deutschland wirksamen zwischenstaatlichen oder überstaatlichen Abkommen gewährt werden. Für die Umrechnung von Renten ausländischer Versorgungsträger gilt § 17a Absatz 1 des Vierten Buches Sozialgesetzbuch entsprechend.
 
-(8) Auf Empfängerinnen und Empfänger von Übergangsgebührnissen und ihre Hinterbliebenen sind die Absätze 1 bis 7 mit der Maßgabe anzuwenden, dass an die Stelle der Höchstgrenzen des Absatzes 2 die Dienstbezüge treten, aus denen die Übergangsgebührnisse berechnet sind, zuzüglich des Unterschiedsbetrages nach § 64 Absatz 1.
+(8) Auf Empfängerinnen und Empfänger von Übergangsgebührnissen und ihre Hinterbliebenen sind die Absätze 1 bis 7 und 9 mit der Maßgabe anzuwenden, dass an die Stelle der Höchstgrenzen des Absatzes 2 die Dienstbezüge treten, aus denen die Übergangsgebührnisse berechnet sind, zuzüglich des Unterschiedsbetrages nach § 64 Absatz 1.
+
+(9) Auf Verlangen der Regelungsbehörde ist der Träger einer Leistung im Sinne des Absatzes 1 Satz 2 verpflichtet, Auskunft über die Höhe und den Anspruchszeitraum der zustehenden Leistung zu erteilen, wenn diese Daten der Regelungsbehörde nicht durch die oder den Versorgungsberechtigten übermittelt werden. Satz 1 gilt in den Fällen des Absatzes 1 Satz 3 entsprechend.
 
 # § 72 – Zusammentreffen von Versorgungsbezügen mit einer laufenden Alterssicherungsleistung aus zwischenstaatlicher oder überstaatlicher Verwendung
 
@@ -1594,9 +1599,11 @@ durchgeführt und Umzugskostenvergütung nach § 3 Absatz 1 Nummer 3, § 4 Absat
 
 11. als Helmtaucherin, Helmtaucher, Schwimmtaucherin oder Schwimmtaucher während des besonders gefährlichen Tauchdienstes,
 
-12. im Einsatz beim Ein- oder Aushängen von Außenlasten bei einem Drehflügelflugzeug oder
+12. im Einsatz beim Ein- oder Aushängen von Außenlasten bei einem Drehflügelflugzeug,
 
-13. als Angehörige oder Angehöriger des Kommandos Spezialkräfte bei einer besonders gefährlichen Diensthandlung im Einsatz oder in der Ausbildung dazu
+13. als Angehörige oder als Angehöriger der Spezialkräfte der Bundeswehr im Einsatz oder in der Ausbildung für den Einsatz oder
+
+14. bei mehrtägigen Ausbildungs- oder Übungsvorhaben
 
 einen Unfall erleidet, erhält eine einmalige Unfallentschädigung, wenn sie oder er nach Feststellung des Bundesministeriums der Verteidigung oder der von diesem bestimmten Stelle infolge des Unfalles in ihrer oder seiner Erwerbsfähigkeit dauerhaft um wenigstens 50 Prozent beeinträchtigt ist.
 
@@ -1652,6 +1659,32 @@ Sie wird nicht gewährt, wenn die oder der Verletzte den Unfall vorsätzlich her
 
 (5) § 63 gilt entsprechend.
 
+# § 85a – Kompensationszahlung für bestimmte Statusgruppen
+
+(1) Eine Soldatin oder ein Soldat, die oder der keine Berufssoldatin oder kein Berufssoldat ist, erhält neben der sonstigen Versorgung nach diesem Gesetz eine Kompensationszahlung, wenn sie oder er
+
+1. einen Unfall erlitten hat, während sie oder er bei einer Diensthandlung einer besonderen Lebensgefahr ausgesetzt war,
+
+2. infolge des Unfalls nach Nummer 1 dienstunfähig geworden ist und
+
+3. im Zeitpunkt des Dienstverhältnisses auf Grund des Unfalls nach Nummer 1 in ihrer oder seiner Erwerbsfähigkeit um mindestens 50 Prozent beeinträchtigt ist.
+
+(2) Die Kompensationszahlung beträgt 30 000 Euro. Sie erhöht sich für Soldatinnen auf Zeit und Soldaten auf Zeit um 6 000 Euro für jedes vor dem Unfall vollendete Dienstjahr und um 500 Euro für jeden weiteren vor dem Unfall vollendeten Dienstmonat. Für nach § 58b und dem Vierten Abschnitt des Soldatengesetzes Wehrdienstleistende erhöht sich die Kompensationszahlung für jeden vor dem Unfall vollendeten Dienstmonat um 500 Euro. Für Zeiten der Beurlaubung ohne Dienstbezüge oder Wehrsold werden von der Erhöhung für jeweils 30 Tage Urlaub 500 Euro abgezogen. Der Abzug entfällt für die Zeit
+
+1. einer Beurlaubung, die öffentlichen Belangen oder dienstlichen Interessen dient,
+
+2. einer Elternzeit,
+
+3. einer Freistellung wegen Kindererziehung bis zu einer Dauer von drei Jahren für jedes Kind und
+
+4. der tatsächlichen Betreuung und Pflege eines nach einem ärztlichen Gutachten pflegebedürftigen Angehörigen.
+
+Bei der Berechnung der Erhöhung der Kompensationszahlung bleiben früher abgeleistete Dienstverhältnisse unberücksichtigt.
+
+(3) Ist die Soldatin oder der Soldat an den Folgen des Dienstunfalls gestorben und hat sie oder er eine Kompensationszahlung nach Absatz 1 nicht erhalten, steht die Kompensationszahlung dem hinterbliebenen Ehegatten und den nach diesem Gesetz versorgungsberechtigten Kindern zu.
+
+(4) Die Kompensationszahlung wird nicht in den Fällen gewährt, in denen Anspruch auf erhöhtes Unfallruhegehalt nach § 42 in Verbindung mit § 37 des Beamtenversorgungsgesetzes oder auf erhöhte Unfall-Hinterbliebenenversorgung nach § 59 in Verbindung mit § 39 des Beamtenversorgungsgesetzes besteht, die sich unter Zugrundelegung des erhöhten Unfallruhegehalts nach § 37 des Beamtenversorgungsgesetzes berechnet.
+
 # § 86 – Schadensausgleich in besonderen Fällen
 
 (1) Schäden, die einer Soldatin oder einem Soldaten während einer besonderen Auslandsverwendung im Sinne des § 87 Absatz 1 infolge von besonderen, vom Inland wesentlich abweichenden Verhältnissen, insbesondere infolge von Kriegshandlungen, kriegerischen Ereignissen, Aufruhr, Unruhen oder Naturkatastrophen oder als Folge eines Einsatzunfalls im Sinne des § 87 Absatz 2 entstehen, werden ihr oder ihm in angemessenem Umfang ersetzt. Gleiches gilt für Schäden der Soldatin oder des Soldaten durch einen Gewaltakt gegen staatliche Amtsträgerinnen und Amtsträger, Einrichtungen oder Maßnahmen, wenn die Soldatin oder der Soldat von dem Gewaltakt in Ausübung des Dienstes oder wegen ihrer oder seiner Eigenschaft als Soldatin oder Soldat betroffen ist.
@@ -1680,9 +1713,23 @@ Der Ausgleich für ausgefallene Versicherungen wird der natürlichen Person gew�
 
 2. die im Rahmen von Maßnahmen nach § 56 Absatz 1 Satz 2 Nummer 4 des Bundesbesoldungsgesetzes stattfindet.
 
-Dem steht eine sonstige Verwendung im Ausland oder außerhalb des deutschen Hoheitsgebietes auf Schiffen oder in Luftfahrzeugen mit vergleichbar gesteigerter Gefährdungslage gleich. Die Verwendung im Sinne der Sätze 1 und 2 beginnt mit dem Eintreffen im Einsatzgebiet und endet mit dem Verlassen des Einsatzgebietes.
+Dem steht eine sonstige Verwendung im Ausland oder außerhalb des deutschen Hoheitsgebietes auf Schiffen oder in Luftfahrzeugen gleich,
 
-(2) Erleidet eine Soldatin oder ein Soldat während einer Verwendung im Sinne von Absatz 1 in Ausübung oder infolge eines militärischen Dienstes eine gesundheitliche Schädigung auf Grund eines Unfalls oder einer Erkrankung im Sinne von § 42, liegt ein Einsatzunfall vor. Satz 1 gilt auch, wenn eine Erkrankung oder ihre Folgen oder ein Unfall auf gesundheitsschädigende oder sonst vom Inland wesentlich abweichende Verhältnisse bei einer Verwendung im Sinne des Absatzes 1 zurückzuführen sind oder wenn eine gesundheitliche Schädigung bei dienstlicher Verwendung im Ausland auf einen Unfall oder eine Erkrankung im Zusammenhang mit einer Verschleppung oder einer Gefangenschaft zurückzuführen ist oder darauf beruht, dass die Soldatin oder der Soldat aus sonstigen mit dem Dienst zusammenhängenden Gründen dem Einflussbereich des Dienstherrn entzogen ist.
+1. für die ein Zuschlag gezahlt wird
+
+a) auf Grundlage einer Rechtsverordnung nach § 53 Absatz 7 des Bundesbesoldungsgesetzes zur Abgeltung immaterieller Belastungen wegen der Auswirkungen eines bewaffneten Konflikts oder
+
+b) auf Grundlage einer Rechtsverordnung nach § 56 Absatz 6 des Bundesbesoldungsgesetzes zur Abgeltung hoher immaterieller Belastungen, insbesondere durch bürgerkriegsähnliche Auseinandersetzungen, terroristische Handlungen, außerordentliche Gewaltkriminalität, Piraterie, Minen oder vergleichbare gesundheitliche Gefährdungen, oder
+
+2. bei der eine gesteigerte Gefährdungslage, die der Gefährdungslage bei einer Verwendung nach Satz 1 vergleichbar ist, festgestellt wird
+
+a) durch die oberste Dienstbehörde, die für die sonstige Verwendung im Ausland zuständig ist, im Benehmen mit dem Bundesministerium des Innern und für Heimat, dem Auswärtigen Amt und dem Bundesministerium der Verteidigung oder
+
+b) durch das Bundesministerium der Verteidigung bei einer militärischen Verwendung oder Maßnahme, die kurzzeitig ist oder von der auf Grund von besonderen militärischen oder operativen Rahmenbedingungen nur das Bundesministerium der Verteidigung Kenntnis haben darf.
+
+Die Verwendung im Sinne der Sätze 1 und 2 beginnt mit dem Eintreffen im Einsatzgebiet und endet mit dem Verlassen des Einsatzgebietes.
+
+(2) Erleidet eine Soldatin oder ein Soldat während einer Verwendung im Sinne von Absatz 1 in Ausübung oder infolge eines militärischen Dienstes eine gesundheitliche Schädigung auf Grund eines Unfalls oder einer Erkrankung im Sinne von § 42, liegt ein Einsatzunfall vor. Satz 1 gilt auch, wenn eine Erkrankung oder ihre Folgen oder ein Unfall auf gesundheitsschädigende oder sonst vom Inland wesentlich abweichende Verhältnisse bei einer Verwendung im Sinne des Absatzes 1 zurückzuführen sind oder wenn eine gesundheitliche Schädigung bei dienstlicher Verwendung im Ausland auf einen Unfall oder eine Erkrankung im Zusammenhang mit einer Verschleppung oder einer Gefangenschaft zurückzuführen ist oder darauf beruht, dass die Soldatin oder der Soldat aus sonstigen mit dem Dienst zusammenhängenden Gründen dem Einflussbereich des Dienstherrn entzogen ist. Einem Einsatzunfall gleichgestellt ist ein Unfall, der durch die Erhebung oder Auswertung von Video-, Bild- und Tondokumenten aus einem Einsatzgebiet erlitten wurde.
 
 (3) Das Bundesministerium der Verteidigung bestimmt im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Arbeit und Soziales unter Beachtung des Stands der Erkenntnisse der medizinischen Wissenschaft durch Rechtsverordnung, unter welchen Voraussetzungen vermutet wird, dass eine Posttraumatische Belastungsstörung oder eine andere in der Rechtsverordnung zu bezeichnende psychische Störung durch einen Einsatzunfall verursacht worden ist. Es kann bestimmen, dass die Verursachung durch einen Einsatzunfall nur dann vermutet wird, wenn die Soldatin oder der Soldat an einem Einsatz bewaffneter Streitkräfte im Ausland teilgenommen hat und dabei von einem bewaffneten Konflikt betroffen war oder an einem solchen Konflikt teilgenommen hat.
 
@@ -1990,7 +2037,7 @@ Die Zahlung von Leistungen nach diesem Gesetz kann davon abhängig gemacht werde
 
 1. Die Witwen- und Witwerabfindung richtet sich nach diesem Gesetz in seiner jeweiligen Fassung.
 
-2. Die §§ 2, 29 Absatz 2 Satz 2, die §§ 62 bis 66, 71 Absatz 1 Satz 7, Absatz 2 bis 7, die §§ 73 bis 77, 79 Absatz 2, die §§ 80 bis 82, 105, 120 Absatz 3, 4 und 9 sowie § 59 dieses Gesetzes in Verbindung mit § 22 Absatz 1 Satz 2 und 3 und § 42 Satz 2 des Beamtenversorgungsgesetzes sind anzuwenden. § 20 Absatz 1 Satz 4, § 22 Absatz 2, § 26a Absatz 1, 3 und 4, § 55a Absatz 1 Satz 1 und 2 und § 55b sind in der bis zum 31. Dezember 1991 geltenden Fassung anzuwenden. § 26a Absatz 2 Satz 1 und 2, § 53 Absatz 1 und 2 Nummer 1 bis 3 erste Höchstgrenzenalternative sowie die Absätze 3 bis 8 und § 55 sind in der am 1. Januar 2002 geltenden Fassung anzuwenden; § 68 Absatz 2 Nummer 2 zweite Höchstgrenzenalternative ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „71,75“ die Zahl „75“ tritt. In den Fällen des § 42 Absatz 1 dieses Gesetzes in Verbindung mit den §§ 140 und 141a des Bundesbeamtengesetzes in der Fassung vom 28. Juli 1972 (BGBl. I S. 1288) richten sich die ruhegehaltfähigen Dienstbezüge und der maßgebende Ruhegehaltssatz nach den §§ 36 und 37 des Beamtenversorgungsgesetzes in der bis zum 31. Dezember 1991 geltenden Fassung; § 120 Absatz 3 und 4 ist in diesen Fällen nicht anzuwenden. Satz 4 Halbsatz 2 gilt entsprechend für die von den §§ 77a und 77b in der bis zum 31. Dezember 1991 geltenden Fassung erfassten Versorgungsempfängerinnen und Versorgungsempfänger. Ist in den Fällen des § 70 die Ruhensregelung nach dem bis zum 31. Dezember 1976 geltenden Recht für die Versorgungsempfängerin oder den Versorgungsempfänger günstiger, verbleibt es dabei, solange eine weitere Versorgung besteht. Solange ein über den 1. Januar 1999 hinaus bestehendes Beschäftigungsverhältnis andauert, sind, wenn dies für die Versorgungsempfängerin oder den Versorgungsempfänger günstiger ist, die §§ 53 und 54 in der bis zum 31. Dezember 1998 geltenden Fassung, längstens für weitere sieben Jahre ab dem 1. Januar 1999, mit folgenden Maßgaben anzuwenden:
+2. Die §§ 2, 29 Absatz 2 Satz 2, die §§ 62 bis 66, 71 Absatz 1 Satz 7, Absatz 2 bis 7, die §§ 73 bis 77, 79 Absatz 2, die §§ 80 bis 82, 105, 120 Absatz 3, 4 und 9 sowie § 59 dieses Gesetzes in Verbindung mit § 22 Absatz 1 Satz 2 und 3 und § 42 Satz 2 des Beamtenversorgungsgesetzes sind anzuwenden. § 20 Absatz 1 Satz 4, § 22 Absatz 2, § 26a Absatz 1, 3 und 4, § 55a Absatz 1 Satz 1 und 2 und § 55b sind in der bis zum 31. Dezember 1991 geltenden Fassung anzuwenden. § 26a Absatz 2 Satz 1 und 2, § 53 Absatz 1 und 2 Nummer 1 bis 3 erste Höchstgrenzenalternative sowie die Absätze 3 bis 8 und § 55 sind in der am 1. Januar 2002 geltenden Fassung anzuwenden; § 68 Absatz 1 Satz 3 zweite Höchstgrenzenalternative ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „71,75“ die Zahl „75“ tritt. In den Fällen des § 42 Absatz 1 dieses Gesetzes in Verbindung mit den §§ 140 und 141a des Bundesbeamtengesetzes in der Fassung vom 28. Juli 1972 (BGBl. I S. 1288) richten sich die ruhegehaltfähigen Dienstbezüge und der maßgebende Ruhegehaltssatz nach den §§ 36 und 37 des Beamtenversorgungsgesetzes in der bis zum 31. Dezember 1991 geltenden Fassung; § 120 Absatz 3 und 4 ist in diesen Fällen nicht anzuwenden. Satz 4 Halbsatz 2 gilt entsprechend für die von den §§ 77a und 77b in der bis zum 31. Dezember 1991 geltenden Fassung erfassten Versorgungsempfängerinnen und Versorgungsempfänger. Ist in den Fällen des § 70 die Ruhensregelung nach dem bis zum 31. Dezember 1976 geltenden Recht für die Versorgungsempfängerin oder den Versorgungsempfänger günstiger, verbleibt es dabei, solange eine weitere Versorgung besteht. Solange ein über den 1. Januar 1999 hinaus bestehendes Beschäftigungsverhältnis andauert, sind, wenn dies für die Versorgungsempfängerin oder den Versorgungsempfänger günstiger ist, die §§ 53 und 54 in der bis zum 31. Dezember 1998 geltenden Fassung, längstens für weitere sieben Jahre ab dem 1. Januar 1999, mit folgenden Maßgaben anzuwenden:
 
 a) Ist in den Fällen des § 53 die Ruhensregelung nach dem bis zum 31. Dezember 1976 geltenden Recht für die Versorgungsempfängerin oder den Versorgungsempfänger günstiger, verbleibt es dabei, solange ein über den 31. Dezember 1976 hinaus bestehendes Beschäftigungsverhältnis andauert.
 
@@ -2010,13 +2057,13 @@ d) § 54 gilt nicht, solange eine am 31. Dezember 1991 über diesen Zeitpunkt hi
 
 (3) Für am 1. Januar 1977 vorhandene Berufssoldatinnen und Berufssoldaten können zum Ausgleich von Härten Zeiten, die nach dem bis zum 31. Dezember 1976 geltenden Recht ruhegehaltfähig waren, als ruhegehaltfähig galten oder als ruhegehaltfähig berücksichtigt werden konnten und bis zum 31. Dezember 1976 zurückgelegt worden sind, als ruhegehaltfähig berücksichtigt werden. Die Entscheidung trifft das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
 
-(4) Absatz 1 Nummer 2 Satz 3 ist ab dem Inkrafttreten der achten auf den 31. Dezember 2002 folgenden Anpassung nach § 105 dieses Gesetzes in Verbindung mit § 70 des Beamtenversorgungsgesetzes nicht mehr anzuwenden. Ab dem genannten Zeitpunkt sind § 41 Absatz 1 Nummer 3 und Absatz 2 Satz 1 und 2 sowie § 68 Absatz 1 bis 6 und § 70 anzuwenden; bei der Anwendung von § 55b Absatz 1 Satz 1 in der bis zum 31. Dezember 1991 geltenden Fassung gilt § 120 Absatz 4 für die Verminderung der Prozentsätze entsprechend.
+(4) Absatz 1 Nummer 2 Satz 3 ist ab dem Inkrafttreten der achten auf den 31. Dezember 2002 folgenden Anpassung nach § 105 dieses Gesetzes in Verbindung mit § 70 des Beamtenversorgungsgesetzes nicht mehr anzuwenden. Ab dem genannten Zeitpunkt sind § 41 Absatz 1 Nummer 3 und Absatz 2 Satz 1 und 2 sowie die §§ 68 und 70 anzuwenden; bei der Anwendung von § 55b Absatz 1 Satz 1 in der bis zum 31. Dezember 1991 geltenden Fassung gilt § 120 Absatz 4 für die Verminderung der Prozentsätze entsprechend.
 
 # § 114 – Anwendung bisherigen und neuen Rechts für am 1. Januar 1992 vorhandene Versorgungsempfängerinnen und Versorgungsempfänger
 
 Die Rechtsverhältnisse der am 1. Januar 1992 vorhandenen Empfängerinnen und Empfänger von Versorgungsbezügen regeln sich, sofern der Versorgungsfall nach dem 31. Dezember 1976 eingetreten ist, nach dem bis zum 31. Dezember 1991 geltenden Recht mit folgenden Maßgaben:
 
-1. Die §§ 63, 64, 66, 71 Absatz 1 Satz 7, Absatz 2 bis 7, die §§ 73 bis 75, 80, 81, 96, 120 Absatz 3, 4, 6 und 9 sowie § 59 dieses Gesetzes in Verbindung mit § 22 Absatz 1 Satz 2 und 3 und § 42 Satz 2 des Beamtenversorgungsgesetzes sind anzuwenden. § 26a Absatz 2 Satz 1 und 2, § 53 Absatz 1 und 2 Nummer 1 bis 3 erste Höchstgrenzenalternative sowie die Absätze 3 bis 8 und § 55 sind in der am 1. Januar 2002 geltenden Fassung anzuwenden; § 68 Absatz 2 Nummer 2 zweite Höchstgrenzenalternative ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „71,75“ die Zahl „75“ tritt. Auf die von den §§ 77a und 77b in der bis zum 31. Dezember 1991 geltenden Fassung erfassten Versorgungsfälle ist § 120 Absatz 3 und 4 nicht anzuwenden.
+1. Die §§ 63, 64, 66, 71 Absatz 1 Satz 7, Absatz 2 bis 7, die §§ 73 bis 75, 80, 81, 96, 120 Absatz 3, 4, 6 und 9 sowie § 59 dieses Gesetzes in Verbindung mit § 22 Absatz 1 Satz 2 und 3 und § 42 Satz 2 des Beamtenversorgungsgesetzes sind anzuwenden. § 26a Absatz 2 Satz 1 und 2, § 53 Absatz 1 und 2 Nummer 1 bis 3 erste Höchstgrenzenalternative sowie die Absätze 3 bis 8 und § 55 sind in der am 1. Januar 2002 geltenden Fassung anzuwenden; § 68 Absatz 1 Satz 3 zweite Höchstgrenzenalternative ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „71,75“ die Zahl „75“ tritt. Auf die von den §§ 77a und 77b in der bis zum 31. Dezember 1991 geltenden Fassung erfassten Versorgungsfälle ist § 120 Absatz 3 und 4 nicht anzuwenden.
 
 2. Solange ein über den 1. Januar 1999 hinaus bestehendes Beschäftigungsverhältnis andauert, sind, wenn dies für die Versorgungsempfängerin oder den Versorgungsempfänger günstiger ist, die §§ 53 und 54 in der bis zum 31. Dezember 1998 geltenden Fassung, längstens für weitere sieben Jahre ab dem 1. Januar 1999, mit folgenden Maßgaben anzuwenden:
 
@@ -2030,7 +2077,7 @@ c) § 54 gilt nicht, solange eine am 31. Dezember 1991 über diesen Zeitpunkt hi
 
 4. § 113 Absatz 1 Nummer 3 gilt entsprechend.
 
-5. Nummer 1 Satz 2 ist ab dem Inkrafttreten der achten auf den 31. Dezember 2002 folgenden Anpassung nach § 105 dieses Gesetzes in Verbindung mit § 70 des Beamtenversorgungsgesetzes nicht mehr anzuwenden. Ab dem genannten Zeitpunkt sind § 41 Absatz 1 Satz 1 Nummer 3 und Absatz 2 Satz 1 und 2 sowie § 68 Absatz 1 bis 6 und § 70 anzuwenden; bei der Anwendung von § 55b Absatz 1 Satz 1 in der bis zum 31. Dezember 1991 geltenden Fassung gilt § 120 Absatz 4 für die Verminderung der Prozentsätze entsprechend.
+5. Nummer 1 Satz 2 ist ab dem Inkrafttreten der achten auf den 31. Dezember 2002 folgenden Anpassung nach § 105 dieses Gesetzes in Verbindung mit § 70 des Beamtenversorgungsgesetzes nicht mehr anzuwenden. Ab dem genannten Zeitpunkt sind § 41 Absatz 1 Satz 1 Nummer 3 und Absatz 2 Satz 1 und 2 sowie die §§ 68 und 70 anzuwenden; bei der Anwendung von § 55b Absatz 1 Satz 1 in der bis zum 31. Dezember 1991 geltenden Fassung gilt § 120 Absatz 4 für die Verminderung der Prozentsätze entsprechend.
 
 # § 115 – Ruhegehaltssatz für am 31. Dezember 1991 vorhandene Berufssoldatinnen und Berufssoldaten
 
@@ -2157,11 +2204,11 @@ Zurechnungszeit in Zwölfteln</th>
 
 1. Die Absätze 3, 4, 6 und 9, die §§ 21, 22, 63, 64, 66, 71 Absatz 1 Satz 3 bis 7, die §§ 73 bis 76, 80, 81, 96, 97, 99, 100 und 115 Absatz 9 sowie § 59 dieses Gesetzes in Verbindung mit § 22 Absatz 1 Satz 3 und § 42 Satz 2 des Beamtenversorgungsgesetzes sind anzuwenden. Artikel 11 des Gesetzes zur Änderung des Beamtenversorgungsgesetzes, des Soldatenversorgungsgesetzes sowie sonstiger versorgungsrechtlicher Vorschriften vom 20. September 1994 (BGBl. I S. 2442) bleibt unberührt.
 
-2. § 26a Absatz 1 Satz 1 Nummer 3 und Absatz 2 Satz 1 und 2 sowie § 53 Absatz 1 Satz 2, Absatz 2 Nummer 1 bis 3 erste Höchstgrenzenalternative sowie die Absätze 3 bis 8 sind in der am 1. Januar 2002 geltenden Fassung anzuwenden; § 68 Absatz 2 Nummer 2 zweite Höchstgrenzenalternative ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „71,75“ die Zahl „75“ tritt. § 100 Absatz 1 ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „66,97“ jeweils die Zahl „70“ tritt; § 55 ist in der am 1. Januar 2003 geltenden Fassung mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „71,75“ jeweils die Zahl „75“ tritt. Die Sätze 1 und 2 sind mit dem Inkrafttreten der achten auf den 31. Dezember 2002 folgenden Anpassung nach § 105 dieses Gesetzes in Verbindung mit § 70 des Beamtenversorgungsgesetzes nicht mehr anzuwenden. Ab dem genannten Zeitpunkt sind § 41 Absatz 1 Satz 1 Nummer 3 und Absatz 2 Satz 1 und 2, § 68 Absatz 1 Satz 2, Absatz 2 bis 6 und § 70 dieses Gesetzes anzuwenden.
+2. § 26a Absatz 1 Satz 1 Nummer 3 und Absatz 2 Satz 1 und 2 sowie § 53 Absatz 1 Satz 2, Absatz 2 Nummer 1 bis 3 erste Höchstgrenzenalternative sowie die Absätze 3 bis 8 sind in der am 1. Januar 2002 geltenden Fassung anzuwenden; § 68 Absatz 1 Satz 3 zweite Höchstgrenzenalternative ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „71,75“ die Zahl „75“ tritt. § 100 Absatz 1 ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „66,97“ jeweils die Zahl „70“ tritt; § 55 ist in der am 1. Januar 2003 geltenden Fassung mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „71,75“ jeweils die Zahl „75“ tritt. Die Sätze 1 und 2 sind mit dem Inkrafttreten der achten auf den 31. Dezember 2002 folgenden Anpassung nach § 105 dieses Gesetzes in Verbindung mit § 70 des Beamtenversorgungsgesetzes nicht mehr anzuwenden. Ab dem genannten Zeitpunkt sind § 41 Absatz 1 Satz 1 Nummer 3 und Absatz 2 Satz 1 und 2, § 68 Absatz 1 Satz 6, Absatz 2 bis 4 und § 70 dieses Gesetzes anzuwenden.
 
 3. Ab dem Inkrafttreten der achten auf den 31. Dezember 2002 folgenden Anpassung nach § 105 dieses Gesetzes in Verbindung mit § 70 des Beamtenversorgungsgesetzes ist § 55b Absatz 1 und 7 in der bis zum 31. Dezember 2001 geltenden Fassung mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „1,875“ die Zahl „1,79375“ sowie an die Stelle der Zahl „2,5“ die Zahl „2,39167“ tritt.
 
-(2) Auf Versorgungsfälle, die nach dem 31. Dezember 2001 eintreten, sind § 26 Absatz 1 bis 4 und 9, § 26a Absatz 1 Satz 1 Nummer 3 und Absatz 2 Satz 1 und 2, § 53 Absatz 2 Nummer 3 erste Höchstgrenzenalternative und Absatz 7 Satz 2 Nummer 3 sowie § 74 in der bis zum 31. Dezember 2002 geltenden Fassung anzuwenden; § 26a Absatz 2 Satz 3 ist in der am 1. Januar 2003 geltenden Fassung anzuwenden, § 68 Absatz 2 Nummer 2 zweite Höchstgrenzenalternative sowie § 70 Absatz 2 sind mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „71,75“ jeweils die Zahl „75“ tritt. § 72 Absatz 1 und 6 ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „1,79375“ die Zahl „1,875“ sowie an die Stelle der Zahl „2,39167“ die Zahl „2,5“ tritt. § 100 Absatz 1 ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „66,97“ jeweils die Zahl „70“ tritt. Die Sätze 1 bis 3 sind ab dem Inkrafttreten der achten auf den 31. Dezember 2002 folgenden Anpassung nach § 105 dieses Gesetzes in Verbindung mit § 70 des Beamtenversorgungsgesetzes nicht mehr anzuwenden.
+(2) Auf Versorgungsfälle, die nach dem 31. Dezember 2001 eintreten, sind § 26 Absatz 1 bis 4 und 9, § 26a Absatz 1 Satz 1 Nummer 3 und Absatz 2 Satz 1 und 2, § 53 Absatz 2 Nummer 3 erste Höchstgrenzenalternative und Absatz 7 Satz 2 Nummer 3 sowie § 74 in der bis zum 31. Dezember 2002 geltenden Fassung anzuwenden; § 26a Absatz 2 Satz 3 ist in der am 1. Januar 2003 geltenden Fassung anzuwenden, § 68 Absatz 1 Satz 3 zweite Höchstgrenzenalternative sowie § 70 Absatz 2 sind mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „71,75“ jeweils die Zahl „75“ tritt. § 72 Absatz 1 und 6 ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „1,79375“ die Zahl „1,875“ sowie an die Stelle der Zahl „2,39167“ die Zahl „2,5“ tritt. § 100 Absatz 1 ist mit der Maßgabe anzuwenden, dass an die Stelle der Zahl „66,97“ jeweils die Zahl „70“ tritt. Die Sätze 1 bis 3 sind ab dem Inkrafttreten der achten auf den 31. Dezember 2002 folgenden Anpassung nach § 105 dieses Gesetzes in Verbindung mit § 70 des Beamtenversorgungsgesetzes nicht mehr anzuwenden.
 
 (3) Ab dem Inkrafttreten der ersten auf den 31. Dezember 2002 folgenden Anpassung nach § 105 dieses Gesetzes in Verbindung mit § 70 des Beamtenversorgungsgesetzes werden die der Berechnung der Versorgungsbezüge zugrundeliegenden ruhegehaltfähigen Dienstbezüge bis zur siebten Anpassung nach § 105 dieses Gesetzes in Verbindung mit § 70 des Beamtenversorgungsgesetzes durch einen Anpassungsfaktor nach Maßgabe der folgenden Tabelle vermindert:
 
