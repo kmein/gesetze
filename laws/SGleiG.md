@@ -379,13 +379,13 @@ Es sollen Angebote zur Betreuung von Kindern und pflegebedürftigen Angehörigen
 
 1. sie zusätzlich anfallen,
 
-2. sie unabdingbar sind und
+2. sie unabwendbar sind und
 
 3. eine Erstattung nach anderen Rechtsgrundlagen nicht möglich ist.
 
 (2) Die Erstattung ist für die Dauer folgender Maßnahmen möglich:
 
-1. Teilnahme an dienstlich veranlassten Aus-, Fort- oder Weiterbildungen außerhalb des regelmäßigen Dienstorts,
+1. Teilnahme an dienstlich veranlassten Aus-, Fort- oder Weiterbildungen,
 
 2. sonstige dienstlich bedingte Abwesenheiten vom regelmäßigen Dienstort,
 

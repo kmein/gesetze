@@ -683,7 +683,7 @@ Diese Stellen dürfen die Daten zu dem Zweck, zu dem sie ihnen übermittelt word
 
 # § 25 – Personalakten ungedienter Wehrpflichtiger
 
-Für die Führung der Personalakten ungedienter Wehrpflichtiger gelten die §§ 29 bis 29e des Soldatengesetzes entsprechend.
+Für die Führung der Personalakten ungedienter Wehrpflichtiger gelten die §§ 29 bis 29f des Soldatengesetzes entsprechend.
 
 # §§ 26 und 27 – (weggefallen)
 
