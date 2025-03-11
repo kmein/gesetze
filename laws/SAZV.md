@@ -119,9 +119,9 @@ Die Verkürzung beginnt mit Beginn des Monats der Antragstellung, sofern die Vor
 
 (5) Die durchschnittliche wöchentliche Arbeitszeit darf in einem Zeitraum von zwölf Monaten einschließlich der geleisteten Mehrarbeit 48 Stunden nicht überschreiten.
 
-# § 5a – Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten als fliegende Besatzung
+# § 5a – Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten
 
-(1) Für Soldatinnen und Soldaten, die als fliegende Besatzung Tätigkeiten zur Überwachung des nationalen Luftraums oder im maritimen Such- und Rettungsdienst der Streitkräfte ausüben, darf bis zum 31. Dezember 2026 abweichend von § 5 Absatz 5 die durchschnittliche wöchentliche Arbeitszeit in einem Zeitraum von zwölf Monaten 54 Stunden nicht überschreiten. Die betroffenen Soldatinnen und Soldaten sind über die für sie geltende höchstzulässige durchschnittliche wöchentliche Arbeitszeit zu unterrichten.
+(1) Für Soldatinnen und Soldaten, die Tätigkeiten als fliegende Besatzung zur Überwachung des nationalen Luftraums oder im maritimen Such- und Rettungsdienst der Streitkräfte oder als Schiffsbesatzung zur betriebstechnischen Überwachung seegehender Einheiten während Aufenthalten im Heimathafen, im Marinearsenal oder in einer Werft ausüben, darf bis zum 31. Dezember 2030 abweichend von § 5 Absatz 5 die durchschnittliche wöchentliche Arbeitszeit in einem Zeitraum von zwölf Monaten 54 Stunden nicht überschreiten. Die betroffenen Soldatinnen und Soldaten sind über die für sie geltende höchstzulässige durchschnittliche wöchentliche Arbeitszeit zu unterrichten.
 
 (2) Für Soldatinnen und Soldaten
 

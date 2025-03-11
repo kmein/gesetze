@@ -173,509 +173,513 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 29b</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Gesundheitsakte</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Datenverarbeitung durch und Datenübermittlung an Feldjäger</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 29c</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Personalaktenführende Stelle</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Gesundheitsakte</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 29d</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Aufbewahrung von Personalakten</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Personalaktenführende Stelle</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 29e</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Befugtes Offenbaren von Privatgeheimnissen</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Aufbewahrung von Personalakten</td>
 </tr>
 <tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 29f</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Befugtes Offenbaren von Privatgeheimnissen</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 30</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geld- und Sachbezüge, Versorgung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 30a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Teilzeitbeschäftigung, Familienpflegezeit und Pflegezeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 30b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammentreffen von Urlaub und Teilzeitbeschäftigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 30c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Arbeitszeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 30d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 31</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Fürsorge</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 31a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zahlung durch den Dienstherrn bei Schmerzensgeldansprüchen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 32</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Dienstzeitbescheinigung und Dienstzeugnis</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 33</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Staatsbürgerlicher und völkerrechtlicher Unterricht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 34</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschwerde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligungsrechte der Soldaten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligung an der Gestaltung des Dienstrechts</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 36</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Seelsorge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 
 Zweiter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Rechtsstellung der Berufssoldaten und der Soldaten auf Zeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> <br />
 <br />
 1. Begründung des Dienstverhältnisses</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 37</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Voraussetzung der Berufung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Hindernisse der Berufung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 39</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Begründung des Dienstverhältnisses eines Berufssoldaten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 40</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Begründung des Dienstverhältnisses eines Soldaten auf Zeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 41</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Form der Begründung und der Umwandlung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><br />
 <br />
 2. Beförderung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 42</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Form der Beförderung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><br />
 <br />
 3. Beendigung des Dienstverhältnisses</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">a) Beendigung des Dienstverhältnisses eines Berufssoldaten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beendigungsgründe</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Eintritt und Versetzung in den Ruhestand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Altersgrenzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umwandlung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 46</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entlassung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 47</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit, Anhörungspflicht und Fristen bei der Entlassung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 47a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Verfahrensvorschriften für die Entlassung nach § 46 Absatz 2a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 48</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verlust der Rechtsstellung eines Berufssoldaten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 49</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Folgen der Entlassung und des Verlustes der Rechtsstellung eines Berufssoldaten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Versetzung in den einstweiligen Ruhestand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 51</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wiederverwendung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 51a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 52</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wiederaufnahme des Verfahrens</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verurteilung nach Beendigung des Dienstverhältnisses</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">b) Beendigung des Dienstverhältnisses eines Soldaten auf Zeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 54</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beendigungsgründe</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 55</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entlassung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 56</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Folgen der Entlassung und des Verlustes der Rechtsstellung eines Soldaten auf Zeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wiederaufnahme des Verfahrens, Verurteilungen nach Beendigung des Dienstverhältnisses</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 
 Dritter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Wehrdienst nach<br />
 
 dem Wehrpflichtgesetz; Reservewehrdienstverhältnis; freiwilliger Wehrdienst<br />
 
 als besonderes staatsbürgerliches Engagement</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><br />
 <br />
 1. Wehrdienst nach dem Wehrpflichtgesetz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wehrdienst nach dem Wehrpflichtgesetz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">2.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Reservewehrdienstverhältnis</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Reservewehrdienstverhältnis</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">3.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übermittlung personenbezogener Daten durch die Meldebehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beratung und Untersuchung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verpflichtung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Status</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Dienstantritt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beendigung des freiwilligen Wehrdienstes nach § 58b</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 
 Vierter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dienstleistungspflicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> <br />
 <br />
 1. Umfang und Arten der Dienstleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Personenkreis</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 60</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Arten der Dienstleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 62</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Auslandsverwendungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 63</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Hilfeleistungen im Innern</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 63a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Hilfeleistungen im Ausland</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 63b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wehrdienst zur temporären Verbesserung der personellen Einsatzbereitschaft</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> <br />
 <br />
 2. Dienstleistungsausnahmen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 64</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Dienstunfähigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 65</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschluss von Dienstleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 66</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung von Dienstleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 67</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zurückstellung von Dienstleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 68</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unabkömmlichstellung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> <br />
 <br />
 3. Heranziehungsverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 69</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 70</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 71</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ärztliche Untersuchung, Anhörung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 72</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Heranziehung von ungedienten Dienstleistungspflichtigen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 73</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Heranziehung von gedienten Dienstleistungspflichtigen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> <br />
 <br />
 4. Beendigung der Dienstleistungen und Verlust des Dienstgrades</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 74</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beendigung der Dienstleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 75</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entlassung aus den Dienstleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschluss von Dienstleistungen und Verlust des Dienstgrades</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> <br />
 <br />
 5. Überwachung und Durchsetzung der Dienstleistungspflicht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 77</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Dienstleistungsüberwachung; Haftung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 78</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufenthaltsfeststellungsverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 79</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorführung und Zuführung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> <br />
 <br />
 6. Verhältnis zur Wehrpflicht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 80</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Konkurrenzregelung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 
 Fünfter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dienstliche Veranstaltungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> § 81</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuziehung zu dienstlichen Veranstaltungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 
 Sechster Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Rechtsschutz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><br />
 <br />
 1. Rechtsweg</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeiten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><br />
 <br />
 2. Rechtsbehelfe und Rechtsmittel gegen Verwaltungsakte nach dem Vierten Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 83</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Vorschriften für das Vorverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 84</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 85</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Vorschriften für die Anfechtungsklage</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 
 Siebter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Bußgeldvorschriften; Übergangs- und Schlussvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 86</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bußgeldvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 87</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einstellung von anderen Bewerbern</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 88</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entlassung von anderen Bewerbern</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 89</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen in Strafsachen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 90</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Organisationsgesetz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 91</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 92</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift für die Laufbahnen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 93</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 94</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 24. Februar 1983 (BGBl. I S. 179)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 95</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 6. Dezember 1990 (BGBl. I S. 2588)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 96</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Dienstrechtsneuordnungsgesetzes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 97</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 19. Dezember 2000 (BGBl. I S. 1815)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 98</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2011</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 99</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 100</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Gesetzes zur Beitragsentlastung der Versicherten in der gesetzlichen Krankenversicherung</td>
 </tr>
@@ -913,7 +917,7 @@ Das Grundrecht auf körperliche Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Gr
 
 # § 18 – Gemeinschaftsunterkunft und Gemeinschaftsverpflegung
 
-Der Soldat ist auf dienstliche Anordnung verpflichtet, in einer Gemeinschaftsunterkunft zu wohnen und an einer Gemeinschaftsverpflegung teilzunehmen. Die zur Durchführung erforderlichen Verwaltungsvorschriften erlässt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
+Der Soldat ist auf dienstliche Anordnung verpflichtet, in einer Gemeinschaftsunterkunft zu wohnen und an einer Gemeinschaftsverpflegung teilzunehmen. Die zur Durchführung erforderlichen Verwaltungsvorschriften erlässt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern und für Heimat.
 
 # § 19 – Verbot der Annahme von Belohnungen oder Geschenken, Herausgabe- und Auskunftspflicht
 
@@ -1056,7 +1060,7 @@ c) die Ablegung einer Offizierprüfung,
 (7) Die besonderen Vorschriften für die Unteroffizierprüfungen und die Offizierprüfungen werden nach den Grundsätzen der Absätze 2 bis 6 in einer Rechtsverordnung bestimmt.
 
 (8) Auf den Bundespersonalausschuss in der Zusammensetzung für die Angelegenheiten der Soldaten sind die Vorschriften des Abschnittes 8 des Bundesbeamtengesetzes entsprechend anzuwenden, § 120 Abs. 2 und 3 mit folgender Maßgabe:  
-Ständige ordentliche Mitglieder sind der Präsident des Bundesrechnungshofes als Vorsitzender, der Leiter der Dienstrechtsabteilung des Bundesministeriums des Innern, für Bau und Heimat und der Leiter der Personalabteilung des Bundesministeriums der Verteidigung. Nichtständige ordentliche Mitglieder sind der Leiter der Personalabteilung einer anderen obersten Bundesbehörde und drei Berufssoldaten. Stellvertretende Mitglieder sind je ein Beamter des Bundesrechnungshofes und des Bundesministeriums des Innern, für Bau und Heimat, der Leiter der Personalabteilung einer anderen obersten Bundesbehörde, ein Beamter oder Berufssoldat des Bundesministeriums der Verteidigung und drei weitere Berufssoldaten. Der Beamte oder Berufssoldat des Bundesministeriums der Verteidigung und die übrigen Berufssoldaten werden vom Bundespräsidenten auf Vorschlag des Bundesministers der Verteidigung bestellt.
+Ständige ordentliche Mitglieder sind der Präsident des Bundesrechnungshofes als Vorsitzender, der Leiter der Dienstrechtsabteilung des Bundesministeriums des Innern und für Heimat und der Leiter der Personalabteilung des Bundesministeriums der Verteidigung. Nichtständige ordentliche Mitglieder sind der Leiter der Personalabteilung einer anderen obersten Bundesbehörde und drei Berufssoldaten. Stellvertretende Mitglieder sind je ein Beamter des Bundesrechnungshofes und des Bundesministeriums des Innern und für Heimat, der Leiter der Personalabteilung einer anderen obersten Bundesbehörde, ein Beamter oder Berufssoldat des Bundesministeriums der Verteidigung und drei weitere Berufssoldaten. Der Beamte oder Berufssoldat des Bundesministeriums der Verteidigung und die übrigen Berufssoldaten werden vom Bundespräsidenten auf Vorschlag des Bundesministers der Verteidigung bestellt.
 
 # § 27a – Dienstliche Beurteilung; Verordnungsermächtigung
 
@@ -1150,7 +1154,7 @@ tatsächlich betreut oder pflegt. Bei einem Soldaten auf Zeit ist die Gewährung
 
 # § 29 – Personalakte
 
-Für jeden Soldaten ist eine Personalakte zu führen. Sofern in den §§ 29a bis 29d nichts anderes bestimmt ist, gelten die §§ 106 bis 112, 113 Absatz 2 bis 4 und § 114 des Bundesbeamtengesetzes entsprechend. § 112 Absatz 1 Satz 1 des Bundesbeamtengesetzes gilt mit der Maßgabe, dass § 8 der Wehrdisziplinarordnung an die Stelle des § 16 Absatz 3 und 4 Satz 1 des Bundesdisziplinargesetzes tritt, und § 112 Absatz 2 des Bundesbeamtengesetzes gilt mit der Maßgabe, dass § 8 der Wehrdisziplinarordnung vorrangig anzuwenden ist.
+Für jeden Soldaten ist eine Personalakte zu führen. Sofern in den §§ 29a bis 29e nichts anderes bestimmt ist, gelten die §§ 106 bis 112, 113 Absatz 2 bis 4 und § 114 des Bundesbeamtengesetzes entsprechend. § 112 Absatz 1 Satz 1 des Bundesbeamtengesetzes gilt mit der Maßgabe, dass § 8 der Wehrdisziplinarordnung an die Stelle des § 16 Absatz 3 und 4 Satz 1 des Bundesdisziplinargesetzes tritt, und § 112 Absatz 2 des Bundesbeamtengesetzes gilt mit der Maßgabe, dass § 8 der Wehrdisziplinarordnung vorrangig anzuwenden ist.
 
 (+++ Hinweis: § 29 wird gem. Art. 64 Nr. 1 G v. 20.11.2019 I 1626 mWv 26.11.2019 wie folgt geändert:  
 Absatz 1 Satz 1 wird durch die folgenden Sätze ersetzt: „Über jeden Soldaten ist eine Personalakte zu führen. Sie ist vertraulich zu behandeln und durch technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung vor unbefugter Einsichtnahme zu schützen.“  
@@ -1161,7 +1165,7 @@ Absatz 9 wird Absatz 8. Die Änderungsanweisungen sind wegen textlicher Unstimmi
 
 # § 29a – Verarbeitung von besonderen Kategorien personenbezogener Daten
 
-(1) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) dürfen folgende Stellen nach Maßgabe der folgenden Absätze sowie der §§ 29b bis 29d verarbeiten:
+(1) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) dürfen folgende Stellen nach Maßgabe der folgenden Absätze sowie der §§ 29c bis 29e verarbeiten:
 
 1. der Sanitätsdienst der Bundeswehr:
 
@@ -1189,13 +1193,63 @@ Mit der Verarbeitung der Daten dürfen nur Personen betraut werden, die in § 20
 
 2. aus zwingenden Gründen der Verteidigung nach Maßgabe des § 22 Absatz 1 Nummer 1 Buchstabe d und Absatz 2 des Bundesdatenschutzgesetzes.
 
-# § 29b – Gesundheitsakte
+# § 29b – Datenverarbeitung durch und Datenübermittlung an Feldjäger
+
+(1) Die Feldjäger dürfen Daten verarbeiten, soweit dies zur Erfüllung ihrer Aufgaben im Rahmen der Wahrnehmung des militärischen Ordnungsdienstes, des militärischen Verkehrsdienstes, von Sicherheitsaufgaben, von Erhebungen und Ermittlungen im Rahmen des Verteidigungsauftrages, von Aufgaben des Heimat-, Raum- und Objektschutzes oder von Gewahrsamsaufgaben erforderlich ist. Die personenbezogenen Daten sind grundsätzlich offen und bei der betroffenen Person zu erheben. Sie können bei anderen öffentlichen oder bei nichtöffentlichen Stellen erhoben werden, wenn die Erhebung bei der betroffenen Person nicht möglich ist oder durch sie die Erfüllung der Aufgaben nach Satz 1 gefährdet oder erheblich erschwert würde.
+
+(2) Soweit die Feldjäger für ihre Aufgaben personenbezogene Daten bei der betroffenen Person oder bei nichtöffentlichen Stellen erheben, sind jene auf den Umfang einer Auskunftspflicht und auf die Rechtsgrundlage der Datenerhebung hinzuweisen. Sofern eine Auskunftspflicht nicht besteht, ist auf die Freiwilligkeit der Auskunft hinzuweisen.
+
+(3) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) dürfen durch die Feldjäger verarbeitet werden:
+
+1. Gesundheitsdaten von Soldaten und zivilen Angehörigen der Bundeswehr zum Zweck
+
+a) der Aufnahme von Verkehrsunfällen, soweit dies für Erhebungen hinsichtlich der Unfallursachen, der Personalien der Unfallbeteiligten und zur Sicherung von Ansprüchen des Dienstherrn gegen Unfallbeteiligte erforderlich ist,
+
+b) von Fahrtüchtigkeitskontrollen von Kraftfahrern der Bundeswehr, soweit dies zur Erfüllung der Aufgabe des militärischen Verkehrsdienstes, die Verkehrssicherheit zu gewährleisten, erforderlich ist,
+
+c) der Tatort-, Ereignisort- und Spurensicherung, soweit dies für die Durchführung von Erhebungen und Ermittlungen im Rahmen des Verteidigungsauftrags erforderlich ist,
+
+d) der Ingewahrsamnahme, soweit dies für die Betreuung der in Gewahrsam genommenen Person, zum Eigenschutz der mit der Ingewahrsamnahme betrauten Feldjäger oder für eine gerichtsfeste Dokumentation der Ingewahrsamnahme erforderlich ist,
+
+e) des Personen- und Begleitschutzes durch das durch eine entsprechende Spezialausbildung befähigte Personenschutzpersonal, soweit dies für die Betreuung der Schutzperson, zum Eigenschutz der mit dem Personen- und Begleitschutz betrauten Feldjäger oder für eine gerichtsfeste Dokumentation der Maßnahme erforderlich ist, sowie
+
+f) der Nachforschung nach unerlaubt Abwesenden, soweit dies für die Betreuung der gesuchten Person und zum Eigenschutz der mit der Nachforschung betrauten Feldjäger erforderlich ist,
+
+2. biometrische Daten von Soldaten und Zivilpersonen zum Zweck
+
+a) der Ingewahrsamnahme, soweit es erforderlich ist, um Personen eindeutig voneinander unterscheiden und identifizieren zu können,
+
+b) der Tatort-, Ereignisort- und Spurensicherung sowie der Sicherstellung erkennungsdienstlicher Kriterien in Aktenform, soweit dies zur gerichtsfesten Dokumentation des festgestellten Sachverhalts erforderlich ist, und
+
+c) der Nachforschung nach unerlaubt Abwesenden, soweit dies für die Identifizierung der gesuchten Person und eine gerichtsfeste Dokumentation der Maßnahme erforderlich ist, und
+
+3. genetische Daten von Soldaten und Zivilpersonen zum Zweck der Tatort-, Ereignisort- und Spurensicherung sowie der Sicherstellung erkennungsdienstlicher Kriterien in Aktenform, soweit dies im Rahmen der Sachverhaltsaufklärung und gerichtsfesten Dokumentation erforderlich ist.
+
+(4) Die Feldjäger dürfen folgende Kategorien von personenbezogenen Daten verarbeiten, soweit dies zum Zweck der Durchführung militärischer Evakuierungsoperationen, die von der Bundeswehr im Ausland durchgeführt oder unterstützt werden, erforderlich ist:
+
+1. von Soldaten, zivilen Angehörigen der Bundeswehr und Zivilpersonen außerhalb der Bundeswehr:
+
+a) Gesundheitsdaten,
+
+b) biometrische Daten sowie
+
+c) genetische Daten und
+
+2. von Zivilpersonen außerhalb der Bundeswehr:
+
+a) Angaben zu religiösen oder weltanschaulichen Überzeugungen sowie
+
+b) Angaben zu politischen Meinungen.
+
+Daten nach Satz 1 Nummer 1 Buchstabe a dürfen nur verarbeitet werden, soweit dies für die Betreuung der betroffenen Personen oder zum Eigenschutz der Feldjäger, die die Evakuierungsoperation durchführen, erforderlich ist. Daten nach Satz 1 Nummer 1 Buchstabe b und c dürfen nur verarbeitet werden, soweit dies erforderlich ist, um die betroffenen Personen eindeutig voneinander unterscheiden und identifizieren zu können. Angaben nach Satz 1 Nummer 2 dürfen nur verarbeitet werden, soweit dies für die Sicherheit der betroffenen Personen und der Feldjäger, die die Evakuierungsoperation durchführen, zwingend erforderlich ist.
+
+(5) Die Daten sind durch technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 vor unbefugter Einsichtnahme zu schützen. Für die Verarbeitung von Daten nach den Absätzen 3 und 4 gilt § 22 Absatz 2 des Bundesdatenschutzgesetzes entsprechend.
+
+# § 29c – Gesundheitsakte
 
 (1) Für jeden Soldaten ist eine Gesundheitsakte zu führen. Die Gesundheitsakte besteht aus der Gesundheitsgrundakte und aus fall- sowie fachrichtungsbezogenen Gesundheitsteilakten. Das Bundesministerium der Verteidigung legt fest, welche Teile der Gesundheitsakte elektronisch zu führen sind. § 114 Absatz 2 des Bundesbeamtengesetzes gilt entsprechend. § 114 Absatz 3 des Bundesbeamtengesetzes ist auf die Gesundheitsakte nicht anzuwenden.
 
-(2) Die Gesundheitsakte ist eine Teilakte der Personalakte. Sie ist getrennt von der übrigen Personalakte zu bearbeiten und aufzubewahren. Der Zugang ist auf das fachlich und fachaufsichtlich zuständige Sanitätspersonal zu beschränken. § 107 des Bundesbeamtengesetzes ist nicht anzuwenden.
-
-§ 110 Absatz 3 des Bundesbeamtengesetzes ist auf die Gesundheitsakte mit der Maßgabe anzuwenden, dass der ausdrückliche oder mutmaßliche Wille des Verstorbenen der Erteilung einer Auskunft an die Bevollmächtigten des Soldaten, an seine Hinterbliebenen oder an deren Bevollmächtigte nicht entgegenstehen darf.
+(2) Die Gesundheitsakte ist eine Teilakte der Personalakte. Sie ist getrennt von der übrigen Personalakte zu bearbeiten und aufzubewahren. Der Zugang ist auf das fachlich und fachaufsichtlich zuständige Sanitätspersonal zu beschränken. § 107 des Bundesbeamtengesetzes ist nicht anzuwenden. § 110 Absatz 3 des Bundesbeamtengesetzes ist auf die Gesundheitsakte mit der Maßgabe anzuwenden, dass der ausdrückliche oder mutmaßliche Wille des Verstorbenen der Erteilung einer Auskunft an die Bevollmächtigten des Soldaten, an seine Hinterbliebenen oder an deren Bevollmächtigte nicht entgegenstehen darf.
 
 (3) Soweit für laufende oder künftige Untersuchungen, Behandlungen oder Begutachtungen erforderlich, sind in der Gesundheitsakte zu dokumentieren:
 
@@ -1215,7 +1269,7 @@ Alle Aufklärungen und Einwilligungen sind in der Gesundheitsakte zu dokumentier
 
 § 29b Abs. 2 Satz 5 (als Satz 2 bezeichnet) Kursivdruck: IdF d. Art. 5 Nr. 3 G v. 20.8.2021 I 3932 mWv 1.1.2025
 
-# § 29c – Personalaktenführende Stelle
+# § 29d – Personalaktenführende Stelle
 
 (1) Die Personalakte wird geführt
 
@@ -1247,7 +1301,7 @@ je nachdem, welche Voraussetzung zuerst erfüllt ist.
 
 (5) Die Personalakte unanfechtbar anerkannter Kriegsdienstverweigerer ist bei Umwandlung des Wehrdienstverhältnisses in ein Zivildienstverhältnis an das Bundesamt für Familie und zivilgesellschaftliche Aufgaben abzugeben. Aus der Gesundheitsakte sind jedoch nur diejenigen Teile abzugeben, die die körperliche Eignung betreffen.
 
-# § 29d – Aufbewahrung von Personalakten
+# § 29e – Aufbewahrung von Personalakten
 
 (1) Die Personalakte ist, sofern nicht besondere Aufbewahrungsfristen gesetzlich festgelegt sind, aufzubewahren
 
@@ -1271,13 +1325,19 @@ bis zum Ablauf von fünf Jahren nach Eintritt des Ereignisses oder Zustands.
 
 (2) Gesundheitsakten früherer Soldaten sind bis zur Vollendung des 90. Lebensjahres aufzubewahren und danach zu vernichten.
 
-# § 29e – Befugtes Offenbaren von Privatgeheimnissen
+# § 29f – Befugtes Offenbaren von Privatgeheimnissen
 
-Werden Privatgeheimnisse, die zugleich Daten im Sinne des § 29b Absatz 3 oder 6 sind, auf der Grundlage von § 29a Absatz 1 bis 4 oder der §§ 29b bis 29d weitergegeben, so handelt derjenige, der sie weitergibt, auch nicht unbefugt im Sinne des § 203 des Strafgesetzbuchs.
+Werden Privatgeheimnisse, die zugleich Daten im Sinne des § 29c Absatz 3 oder Absatz 6 sind, auf der Grundlage von § 29a Absatz 1 bis 4 oder der §§ 29b bis 29e weitergegeben, so handelt derjenige, der sie weitergibt, auch nicht unbefugt im Sinne des § 203 des Strafgesetzbuchs.
 
 # § 30 – Geld- und Sachbezüge, Versorgung
 
 (1) Der Soldat hat Anspruch auf Geld- und Sachbezüge, Versorgung, Reise- und Umzugskostenvergütung nach Maßgabe besonderer Gesetze. Zu den Sachbezügen gehört auch die unentgeltliche truppenärztliche Versorgung. Die Weiterführung der sozialen Krankenversicherung für seine Angehörigen, die Arbeitslosenversicherung und Versicherung in den gesetzlichen Rentenversicherungen werden gesetzlich geregelt.
+
+(1a) Im Falle eines dienstlichen Bedürfnisses kann die oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der Finanzen festlegen, dass über die Maßgaben der besonderen Gesetze zu Reise- und Umzugskostenvergütung hinaus
+
+1. aus personalwirtschaftlichen Gründen bei Rückversetzung vom Ausland in das Inland mit Zusage der Umzugskostenvergütung die Gewährung von Trennungsgeld in entsprechender Anwendung der Trennungsgeldverordnung für die Dauer von acht Jahren zulässig ist, wenn der Umzug des Soldaten nicht an den Dienstort oder dessen Einzugsgebiet erfolgt, sowie
+
+2. Trennungsgeld über den Zeitraum des § 12 Absatz 4 Satz 1 des Bundesumzugskostengesetzes hinaus gewährt werden kann.
 
 (2) Anwärter für die Laufbahn der Offiziere des Sanitätsdienstes (Sanitätsoffizieranwärter), die unter Wegfall der Geld- und Sachbezüge zum Studium beurlaubt sind, erhalten unentgeltliche truppenärztliche Versorgung, ein Ausbildungsgeld (Grundbetrag, Familienzuschlag) sowie Einmalzahlungen im Rahmen von Besoldungsanpassungen nach dem Bundesbesoldungsgesetz und haben Anspruch auf Erstattung der auf Grundlage der jeweiligen Landesgesetzgebung erhobenen Studienbeiträge oder Studiengebühren. Die Höhe des Ausbildungsgeldes wird durch Rechtsverordnung unter Berücksichtigung der Dienstbezüge derjenigen Dienstgrade festgesetzt, die die Sanitätsoffizieranwärter während ihrer Ausbildung durchlaufen. Die Rechtsverordnung regelt ferner das Nähere über die Gewährung des Ausbildungsgeldes sowie über die Anrechnung von Einkünften aus einer mit der Ausbildung zusammenhängenden Tätigkeit.
 
@@ -1325,7 +1385,7 @@ Urlaube nach § 28 Absatz 5 und den §§ 28a und 30a Absatz 7 sowie Zeiten einer
 
 (1) Die regelmäßige wöchentliche Arbeitszeit von Soldaten, die im Geschäftsbereich des Bundesministeriums der Verteidigung verwendet werden, beträgt grundsätzlich 41 Stunden. Ausnahmen sind zulässig für Führungskräfte vom Dienstgrad Brigadegeneral oder von vergleichbaren Dienstgraden an aufwärts. Für Soldaten, die außerhalb des Geschäftsbereichs des Bundesministeriums der Verteidigung verwendet werden, gilt das für die aufnehmende Stelle geltende Arbeitszeitrecht. Ist der Rechtsträger der aufnehmenden Stelle dienstherrenfähig, gilt das für dessen Beamte geltende Arbeitszeitrecht entsprechend.
 
-(2) Der Soldat ist verpflichtet, über die regelmäßige wöchentliche Arbeitszeit hinaus militärischen Dienst zu leisten, soweit die Besonderheiten dieses Dienstes es erfordern und sich die Mehrarbeit auf Ausnahmen beschränkt. Wird er durch eine dienstlich angeordnete oder genehmigte Mehrarbeit mehr als 5 Stunden im Monat über die regelmäßige Arbeitszeit hinaus beansprucht, so ist ihm für diese Mehrarbeit innerhalb eines Jahres entsprechende Dienstbefreiung zu gewähren. Das gilt nicht, soweit eine Dienstbefreiung aus zwingenden dienstlichen Gründen nicht möglich ist.
+(2) Der Soldat ist verpflichtet, über die regelmäßige wöchentliche Arbeitszeit hinaus militärischen Dienst zu leisten, soweit die Besonderheiten dieses Dienstes es erfordern und sich die Mehrarbeit auf Ausnahmen beschränkt. Wird er durch eine dienstlich angeordnete oder genehmigte Mehrarbeit mehr als fünf Stunden im Monat über die regelmäßige Arbeitszeit hinaus beansprucht, so ist ihm für diese Mehrarbeit innerhalb einer Ausschlussfrist von einem Jahr entsprechende Dienstbefreiung zu gewähren. Für Soldaten in den Streitkräften kann die Ausschlussfrist auf sechs Monate verkürzt werden. Der Dienstherr kann die Dienstbefreiung einseitig anordnen. Eine Dienstbefreiung wird nicht gewährt, soweit sie aus zwingenden dienstlichen Gründen nicht möglich ist.
 
 (3) Bei Bereitschaftsdienst kann die regelmäßige Arbeitszeit entsprechend den dienstlichen Bedürfnissen angemessen verlängert werden. In kurativen Sanitätseinrichtungen der Bundeswehr kann die Arbeitszeit auf bis zu 54 Stunden im Siebentageszeitraum verlängert werden, wenn
 
@@ -1337,7 +1397,7 @@ Urlaube nach § 28 Absatz 5 und den §§ 28a und 30a Absatz 7 sowie Zeiten einer
 
 (4) Die Absätze 1 bis 3 sind nicht anzuwenden bei Tätigkeiten im Rahmen von
 
-1. Einsätzen und einsatzgleichen Verpflichtungen, insbesondere
+1. Einsätzen, einschließlich der unmittelbaren Vorbereitung, sowie anderen Tätigkeiten der Streitkräfte, bei denen militärspezifische Besonderheiten der Anwendung der Absätze 1 bis 3 zwingend entgegenstehen, insbesondere
 
 a) im Rahmen mandatierter Auslandseinsätze,
 
@@ -1345,17 +1405,25 @@ b) zur Landesverteidigung, im Spannungsfall oder im Rahmen des inneren Notstande
 
 c) im Rahmen nationaler Krisenvorsorge,
 
-d) zur Bündnisverteidigung im Rahmen der Organisation des Nordatlantikvertrages und
+d) zur Bündnisverteidigung im Rahmen der Organisation des Nordatlantikvertrages,
 
-e) zur Beteiligung an militärischen Aufgaben im Rahmen der Vereinten Nationen oder der Gemeinsamen Sicherheits- und Verteidigungspolitik der Europäischen Union,
+e) zur Beteiligung an militärischen Aufgaben im Rahmen der Vereinten Nationen, der Organisation des Nordatlantikvertrages oder der Gemeinsamen Sicherheits- und Verteidigungspolitik der Europäischen Union,
+
+f) im Rahmen der nuklearen Teilhabe und
+
+g) zur Sicherung des deutschen Luftraums und des Luftraums des Gebietes der Organisation des Nordatlantikvertrages,
 
 2. Amtshilfe bei Naturkatastrophen oder besonders schweren Unglücksfällen und im Rahmen der dringenden Eilhilfe, humanitärer Hilfsdienste und Hilfeleistungen nach § 2 Absatz 2 Satz 3 des Parlamentsbeteiligungsgesetzes,
 
 3. mehrtägigen Seefahrten,
 
-4. Alarmierungen und Zusammenziehungen sowie einsatzbezogenen Operationsplanungen und militärischen Ausbildungen zur Vorbereitung von Einsätzen und Verwendungen in den Fällen der Nummern 1 und 2 sowie
+4. Alarmierungen und Zusammenziehungen sowie einsatzbezogenen Operationsplanungen und militärischen Ausbildungen zur Vorbereitung von Einsätzen und Verwendungen in den Fällen der Nummern 1 und 2,
 
-5. Übungs- und Ausbildungsvorhaben, bei denen Einsatzbedingungen nach den Nummern 1 und 2 simuliert werden.
+5. mehrtägigen Übungs- und Ausbildungsvorhaben zur Herstellung und Aufrechterhaltung der Einsatzbereitschaft der Streitkräfte, insbesondere für Maßnahmen nach den Nummern 1 und 2,
+
+6. Übungs- und Ausbildungsvorhaben der Spezialkräfte der Bundeswehr sowie
+
+7. außergewöhnlichen Situationen, die spezifische Tätigkeiten der Streitkräfte zum Schutz des Lebens, der Gesundheit, der Sicherheit der Bevölkerung oder des Allgemeinwohls sowie zur Abwehr schwerwiegender kollektiver Gefahren erfordern.
 
 (5) Eine Rechtsverordnung bestimmt für im Geschäftsbereich des Bundesministeriums der Verteidigung verwendete Soldaten das Nähere
 
@@ -1377,17 +1445,17 @@ Eine Kontrolle der Einhaltung der Arbeitszeit mittels automatisierter Datenverar
 
 # § 30d – Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten
 
-(1) Die höchstzulässige durchschnittliche wöchentliche Arbeitszeit in einem Zeitraum von zwölf Monaten kann durch Rechtsverordnung längstens bis zum 31. Dezember 2026 von 48 auf 54 Stunden angehoben werden, soweit
+(1) Die höchstzulässige wöchentliche Arbeitszeit in einem Zeitraum von zwölf Monaten kann durch Rechtsverordnung längstens bis zum 31. Dezember 2030 von 48 auf 54 Stunden angehoben werden,
 
-1. Soldaten
+1. soweit Soldaten eine der folgenden Tätigkeiten ausüben:
 
-a) Tätigkeiten als fliegende Besatzung zur Überwachung des nationalen Luftraums oder
+a) als fliegende Besatzung zur Überwachung des nationalen Luftraums,
 
-b) Tätigkeiten als fliegende Besatzung im maritimen Such- und Rettungsdienst
+b) als fliegende Besatzung im maritimen Such- oder Rettungsdienst oder
 
-ausüben und
+c) als Schiffsbesatzung zur betriebstechnischen Überwachung seegehender Einheiten während Aufenthalten im Heimathafen, im Marinearsenal oder in Werften, und
 
-2. die Tätigkeiten andernfalls nicht im erforderlichen Umfang ausgeübt werden können.
+2. soweit die Tätigkeiten nach Nummer 1 andernfalls nicht im erforderlichen Umfang ausgeübt werden können.
 
 Sobald die Voraussetzungen für eine Anhebung nach Satz 1 nicht mehr erfüllt sind, ist die Rechtsverordnung aufzuheben. § 30c Absatz 1 bis 3 bleibt unberührt.
 
@@ -1417,19 +1485,9 @@ Sobald die Voraussetzungen für eine Anhebung nach Satz 1 nicht mehr erfüllt si
 
 (7) Abweichend von Absatz 5 Nr. 1 sind von Berufssoldaten und Soldaten auf Zeit, die nach der Eignungsübung in das Dienstverhältnis eines Berufssoldaten oder Soldaten auf Zeit berufen worden sind, auch die während der Eignungsübung entstandenen Aufwendungen beihilfefähig.
 
-(8) In einer Rechtsverordnung kann vorgesehen werden, Soldaten mit Familien- oder Pflegeaufgaben im Sinne des § 3 Absatz 6 und 7 des Soldatinnen- und Soldatengleichstellungsgesetzes diejenigen Kosten für eine Familien- und Haushaltshilfe zu erstatten, die durch besondere Verwendungen im Ausland gemäß § 56 Absatz 1 des Bundesbesoldungsgesetzes, durch die einsatzvorbereitende Ausbildung dazu, durch einsatzgleiche Verpflichtungen oder durch Dauereinsatzaufgaben entstehen. Als Voraussetzung für die Erstattung ist festzulegen, dass
+(8) In einer Rechtsverordnung kann vorgesehen werden, Soldaten mit Familien- oder Pflegeaufgaben im Sinne des § 3 Absatz 6 und 7 des Soldatinnen- und Soldatengleichstellungsgesetzes die Kosten für eine Familien- und Haushaltshilfe zu erstatten, die durch Verwendungen im Ausland zusätzlich entstehen, unabdingbar sind und eine Erstattung nach anderen Rechtsgrundlagen nicht möglich ist.
 
-1. der Soldat dem nächsthöheren Disziplinarvorgesetzten eine Betreuungs- oder Pflegesituation unverzüglich anzeigt,
-
-2. die Situation bei Durchführung der Verwendung nur über eine nicht zu den nahen Bezugspersonen zählende externe Betreuungs- oder Pflegekraft beherrschbar ist,
-
-3. der Soldat aus schwerwiegenden dienstlichen Gründen nicht aus der geplanten oder laufenden Verwendung herausgelöst werden kann,
-
-4. die Kosten nicht nach anderen Vorschriften auch nur teilweise erstattet werden können und
-
-5. die Kosten nachgewiesen werden.
-
-Die Erstattung ist auf höchstens 50 Euro pro Tag zu begrenzen. Die Rechtsverordnung regelt das Nähere zur Anspruchsausgestaltung und zum Verfahren.
+(9) In einer Rechtsverordnung kann vorgesehen werden, dass die Kosten für die Bestattung eines Soldaten in einem Ehrengrab der Bundeswehr erstattet werden.
 
 # § 31a – Zahlung durch den Dienstherrn bei Schmerzensgeldansprüchen
 
@@ -1513,7 +1571,7 @@ In das Dienstverhältnis eines Berufssoldaten können berufen werden
 
 # § 40 – Begründung des Dienstverhältnisses eines Soldaten auf Zeit
 
-(1) Die Berufung in ein Dienstverhältnis als Soldat auf Zeit ist längstens bis zu einer Dienstzeit von 25 Jahren zulässig, jedoch nicht über das 62. Lebensjahr hinaus. Für Offiziere in den Laufbahnen des Sanitätsdienstes, des Militärmusikdienstes und des Geoinformationsdienstes der Bundeswehr bildet die Vollendung des 65. Lebensjahres die Altersgrenze für ein Dienstverhältnis als Soldat auf Zeit. Wenn dringende dienstliche Gründe dies im Einzelfall erfordern, ist eine Berufung auch im Übrigen über die Altersgrenze des Satzes 1 hinaus zulässig, längstens bis zur Vollendung des 65. Lebensjahres.
+(1) Die Berufung in ein Dienstverhältnis als Soldat auf Zeit ist längstens bis zu einer Dienstzeit von 25 Jahren zulässig, jedoch nicht über das 62. Lebensjahr hinaus. Für Offiziere in den Laufbahnen des Sanitätsdienstes, des Militärmusikdienstes und des Geoinformationsdienstes der Bundeswehr bildet die Vollendung des 65. Lebensjahres die Altersgrenze für ein Dienstverhältnis als Soldat auf Zeit. Wenn dringende dienstliche Gründe dies im Einzelfall erfordern, ist eine Berufung auch im Übrigen über die Altersgrenze des Satzes 1 hinaus zulässig, längstens bis zur Vollendung des 65. Lebensjahres. In den Laufbahnen der Mannschaften des Sanitätsdienstes, der Fachunteroffiziere des Sanitätsdienstes, der Feldwebel des Sanitätsdienstes, der Offiziere des Sanitätsdienstes sowie in den sanitätsdienstlichen Werdegängen in der Laufbahn der Offiziere des militärfachlichen Dienstes ist die Berufung in ein Dienstverhältnis als Soldat auf Zeit längstens bis zu einer Dienstzeit von 30 Jahren zulässig.
 
 (2) Die Dauer der Berufung kann auf Grund freiwilliger Weiterverpflichtung innerhalb der Grenzen des Absatzes 1 verlängert werden.
 
@@ -2127,7 +2185,7 @@ Zuständig für die Heranziehung von Dienstleistungspflichtigen zu Dienstleistun
 
 (1) Das Verfahren nach diesem Abschnitt ist kostenfrei. Notwendige Auslagen sind zu erstatten. Zu den notwendigen Auslagen gehören auch die Kosten für die Beschaffung von Unterlagen, deren Beibringung dem Dienstleistungspflichtigen aufgegeben wird. Einem Arbeitnehmer, der nicht unter das Arbeitsplatzschutzgesetz fällt, wird auch der durch eine angeordnete ärztliche Untersuchung oder eine angeordnete sonstige Vorstellung bei der Wehrersatzbehörde entstehende Verdienstausfall erstattet. Einem Dienstleistungspflichtigen, der nicht Arbeitnehmer ist, werden notwendige Aufwendungen, die ihm durch die Bestellung eines Vertreters entstehen, erstattet. Das Nähere über die Erstattung von notwendigen Auslagen, Verdienstausfall und Vertretungskosten regelt eine Rechtsverordnung.
 
-(2) Anträge nach diesem Abschnitt sind schriftlich oder elektronisch zu stellen und durch die Wehrersatzbehörde schriftlich zu bescheiden.
+(2) Anträge nach diesem Abschnitt sind schriftlich oder elektronisch zu stellen. Bescheide nach diesem Abschnitt ergehen schriftlich oder in elektronischer Form.
 
 (3) Ein Bescheid, der in Ausführung dieses Abschnittes ergeht, ist zuzustellen. Dies gilt nicht für begünstigende Verwaltungsakte. Ein Heranziehungsbescheid zu Hilfeleistungen im Innern (§ 63), zu Hilfeleistungen im Ausland (§ 63a), zu einer Übung, die von der Bundesregierung als Bereitschaftsdienst angeordnet ist (§ 61 Abs. 3) oder die als Alarmübung nicht länger als drei Tage dauert, kann auch mit gewöhnlichem Standardbrief mit dem Vermerk "Vorrangpost" oder in entsprechender Anwendung des § 5 des Verwaltungszustellungsgesetzes unmittelbar durch die Truppe zugestellt werden.
 
@@ -2237,7 +2295,13 @@ Die Dienstleistungen enden
 
 4. als Kriegsdienstverweigerer anerkannt sind.
 
-(3) (weggefallen)
+(3) Soweit es für die Kontaktpflege im Rahmen der Dienstleistungsüberwachung erforderlich ist, dürfen die Wehrersatzbehörden der Dienststelle, bei der ein Dienstleistungspflichtiger beordert ist, folgende Daten zur Person des Dienstleistungspflichtigen übermitteln:
+
+1. Familienname,
+
+2. Vornamen und
+
+3. letzte bekannte Anschrift.
 
 (4) Während der Dienstleistungsüberwachung haben die Dienstleistungspflichtigen
 
@@ -2441,13 +2505,15 @@ In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des Spannungs- ode
 
 9. die verwendungsbezogenen Mindestdienstzeiten nach § 46 Absatz 3.
 
-(3) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen die Rechtsverordnungen über
+(3) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit dem Bundesministerium des Innern und für Heimat und dem Bundesministerium der Finanzen die Rechtsverordnungen über
 
 1. das Ausbildungsgeld nach § 30 Absatz 2,
 
-2. die Kostenerstattung für Familien- und Haushaltshilfen nach § 31 Absatz 8.
+2. die Kostenerstattung für Familien- und Haushaltshilfen nach § 31 Absatz 8,
 
-(4) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat die Rechtsverordnung über die Festlegung der Verwendungen mit besonders hohen Sicherheitsanforderungen nach § 3a Absatz 2.
+3. Erstattung der Kosten für die Bestattung eines Soldaten in einem Ehrengrab der Bundeswehr nach § 31 Absatz 9.
+
+(4) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit dem Bundesministerium des Innern und für Heimat die Rechtsverordnung über die Festlegung der Verwendungen mit besonders hohen Sicherheitsanforderungen nach § 3a Absatz 2.
 
 (5) Die Rechtsverordnung nach Absatz 1 Nr. 9 bedarf der Zustimmung des Bundesrates.
 

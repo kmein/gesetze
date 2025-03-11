@@ -157,7 +157,7 @@ Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, ein
 
 # § 17 – Zuschlag für besondere zeitliche Belastungen
 
-(1) Reservistendienst Leistende erhalten einen Zuschlag für jede Dienstleistung, für die Besoldungsempfängerinnen und Besoldungsempfängern unter gleichen Voraussetzungen und im gleichen Umfang nach den §§ 50 bis 50b des Bundesbesoldungsgesetzes und den dazu erlassenen Rechtsverordnungen eine Vergütung gewährt wird.
+(1) Reservistendienst Leistende erhalten einen Zuschlag für jede Dienstleistung, für die Besoldungsempfängerinnen und Besoldungsempfängern unter gleichen Voraussetzungen und im gleichen Umfang nach den §§ 50 bis 50b sowie 50d des Bundesbesoldungsgesetzes und den dazu erlassenen Rechtsverordnungen eine Vergütung gewährt wird.
 
 (2) Der Zuschlag beträgt 70 Prozent der Leistungen, die dienstgradgleichen Besoldungsempfängerinnen und Besoldungsempfängern gewährt werden.
 
