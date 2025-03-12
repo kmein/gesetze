@@ -46,8 +46,8 @@ d) bürgerkriegsähnliche und kriegerische Auseinandersetzungen, Bürgerkrieg;
 <colgroup>
 <col style="width: 4%" />
 <col style="width: 7%" />
-<col style="width: 74%" />
-<col style="width: 15%" />
+<col style="width: 72%" />
+<col style="width: 16%" />
 </colgroup>
 <thead data-valign="bottom">
 <tr class="header">
@@ -68,7 +68,7 @@ d) bürgerkriegsähnliche und kriegerische Auseinandersetzungen, Bürgerkrieg;
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Allgemeine, mit der besonderen Verwendung nach § 56 Absatz 1 des Bundesbesoldungsgesetzes typischerweise verbundene Mehraufwendungen und Belastungen</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 48 Euro</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 54 Euro</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
@@ -98,7 +98,7 @@ der Kommunikation mit dem Heimatland, sofern nur eine unzureichende militärisch
 </dl>
 </dd>
 </dl></td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 69 Euro</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 77 Euro</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
@@ -114,19 +114,19 @@ besondere gesundheitliche Risiken, die im Heimatland üblicherweise nicht besteh
 hohes Potential an Waffen in der Zivilbevölkerung und davon ausgehende Gefährdung, insbesondere bei eingeschränkter Gebietsgewalt des Staates
 </dd>
 </dl></td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 85 Euro</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 93 Euro</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Hohe Belastungen, insbesondere durch bürgerkriegsähnliche Auseinandersetzungen, terroristische Handlungen, außerordentliche Gewaltkriminalität, Piraterie, Minen oder vergleichbare gesundheitliche Gefährdungen</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">103 Euro</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">111 Euro</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Sehr hohe Belastungen, insbesondere durch Verwendung unter Bürgerkriegsbedingungen, durch organisierte bewaffnete Aktionen, Terrorakte oder bei vergleichbaren gesundheitlichen Gefährdungen</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">123 Euro</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">131 Euro</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
@@ -142,7 +142,7 @@ Verwendung zwischen den Konfliktparteien unter kriegsähnlichen Bedingungen, kon
 vergleichbare gesundheitliche konkrete Gefährdungen; diese liegen nur vor, wenn der Zweck des Einsatzes auf den direkten Kontakt mit infizierten Personen gerichtet ist und dadurch ein hohes Risiko der Infektion mit einer potentiell tödlich verlaufenden Krankheit besteht und weder eine Prophylaxe noch eine kausale Behandlungsmethode zur Verfügung steht
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">145 Euro</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">153 Euro</td>
 </tr>
 </tbody>
 </table>

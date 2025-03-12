@@ -614,10 +614,6 @@ b) 40 Euro brutto jährlich dem Anschlussnutzer.
 
 (6) Solange und soweit die Bundesnetzagentur eine Festlegung nach § 33 getroffen hat, sind ab dem in der Festlegung vorgesehenen Datum die dort festgesetzten Preisobergrenzen anstelle der in den Absätzen 1 bis 3 geregelten Preisobergrenzen anzuwenden.
 
-(+++ § 30: Zur Anwendung vgl. § 7 Abs. 1 u. § 31 Abs. 2 +++)  
-(+++ § 30 Abs. 1 bis 3: Zur Anwendung vgl. § 35 Abs. 1 +++)  
-(+++ § 30 Abs. 5: Zur Anwendung vgl. § 40 Abs. 1 +++)
-
 # § 31 – Agiler Rollout, Anwendungsupdate
 
 (1) Messstellenbetreiber können den Rollout nach § 30 Absatz 1 bis 3 im Bereich der Niederspannung bei Messstellen an Zählpunkten mit einem Jahresstromverbrauch bis einschließlich 100 000 Kilowattstunden und bei Messstellen an Zählpunkten von Anlagen mit einer installierten Leistung bis einschließlich 25 Kilowatt auch mit intelligenten Messsystemen beginnen, bei denen eine oder mehrere der folgenden Anwendungen jeweils nicht schon zum Zeitpunkt des Einbaus, sondern spätestens bis zum Ablauf des 31. Dezember 2025 durch ein Anwendungsupdate zur Verfügung gestellt werden können:
@@ -652,7 +648,7 @@ Satz 1 findet auch auf die Ausstattung mit intelligenten Messsystemen durch nach
 
 (3) Eine Erhöhung von Preisobergrenzen für Anschlussnutzer nach Absatz 1 Nummer 1 ist höchstens alle vier Jahre zulässig. Dabei darf höchstens die Hälfte der für Anschlussnetzbetreiber und Anschlussnutzer in Summe geltenden Preisobergrenzen auf Anschlussnutzer entfallen. Regelungen über die Entgelte für den Netzzugang von Betreibern von Energieversorgungsnetzen sowie über deren Genehmigung nach Teil 3 Abschnitt 3 des Energiewirtschaftsgesetzes sowie hierauf beruhende Rechtsverordnungen und hierauf beruhende Festlegungen der Bundesnetzagentur bleiben davon unberührt.
 
-(+++ § 33: Zur Anwendung vgl. § 36 Abs. 1 +++) §§ 30 bis 35: IdF d. Art. 2 Nr. 21 G v. 22.5.2023 I Nr. 133 mWv 27.5.2023
+(+++ § 33: Zur Anwendung vgl. § 36 Abs. 1 +++) §§ 31 bis 34: IdF d. Art. 2 Nr. 21 G v. 22.5.2023 I Nr. 133 mWv 27.5.2023
 
 # § 34 – Standard- und Zusatzleistungen des Messstellenbetreibers; Verordnungsermächtigung
 

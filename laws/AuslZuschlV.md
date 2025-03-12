@@ -19,25 +19,27 @@ Die Vorschriften dieser Verordnung, die sich auf die Ehegattin oder den Ehegatte
 
 (1) Als monatlicher Zuschlag zur Abgeltung außergewöhnlicher materieller Mehraufwendungen oder immaterieller Belastungen können zusätzlich zum Auslandszuschlag gezahlt werden:
 
-1. bis zu 300 Euro, wenn es sich um einen Dienstort mit einer außerordentlich hohen Rate an Gewaltdelikten handelt,
+1. bis zu 300 Euro bei Verwendungen zur Sicherstellung der Landes- und Bündnisverteidigung, wenn sich der Dienstort im unmittelbaren geografischen Einflussbereich einer kriegerischen Auseinandersetzung befindet und sich am Dienstort eine hohe Bedrohungslage durch militärische Gewalt kurzfristig entwickeln kann,
 
-2. bis zu 400 Euro, wenn der Dienstort von den Auswirkungen eines örtlichen bewaffneten Konflikts oder unmittelbar von einer Naturkatastrophe, einer von Menschen verursachten Katastrophe oder einer Epidemie betroffen ist,
+2. bis zu 430 Euro, wenn es sich um einen Dienstort mit einer außerordentlich hohen Rate an Gewaltdelikten handelt,
 
-3. bis zu 600 Euro, wenn der Dienstort von den Auswirkungen eines bewaffneten Konflikts betroffen ist und die staatliche Ordnung stark beeinträchtigt ist oder wenn die Empfängerinnen oder Empfänger von Auslandsdienstbezügen am Dienstort auf Grund von organisiertem gewaltsamem Widerstand oder Terror besonders gefährdet sind,
+3. bis zu 570 Euro, wenn der Dienstort von den Auswirkungen eines örtlichen bewaffneten Konflikts oder unmittelbar von einer Naturkatastrophe, einer von Menschen verursachten Katastrophe oder einer Epidemie betroffen ist,
 
-4. bis zu 700 Euro, wenn der Dienstort unmittelbar und gegenwärtig von einem bewaffneten Konflikt betroffen ist und die Empfängerinnen oder Empfänger von Auslandsdienstbezügen beispielsweise durch Kampfhandlungen, Luftangriffe oder Raketenbeschuss konkret gefährdet sind,
+4. bis zu 860 Euro, wenn der Dienstort von den Auswirkungen eines bewaffneten Konflikts betroffen ist und die staatliche Ordnung stark beeinträchtigt ist oder wenn die Empfängerinnen oder Empfänger von Auslandsdienstbezügen am Dienstort auf Grund von organisiertem gewaltsamem Widerstand oder Terror besonders gefährdet sind,
 
-5. bis zu 500 Euro, wenn die Empfängerinnen oder Empfänger von Auslandsdienstbezügen am Dienstort von kurzfristig auftretenden zusätzlichen materiellen Belastungen betroffen sind.
+5. bis zu 1 000 Euro, wenn der Dienstort unmittelbar und gegenwärtig von einem bewaffneten Konflikt betroffen ist und die Empfängerinnen oder Empfänger von Auslandsdienstbezügen beispielsweise durch Kampfhandlungen, Luftangriffe oder Raketenbeschuss konkret gefährdet sind,
+
+6. bis zu 715 Euro, wenn die Empfängerinnen oder Empfänger von Auslandsdienstbezügen am Dienstort von kurzfristig auftretenden zusätzlichen materiellen Belastungen betroffen sind.
 
 Den Zuschlag erhalten Beamtinnen und Beamte, Richterinnen und Richter sowie Soldatinnen und Soldaten nur, wenn sie für diesen Dienstort Anspruch auf Auslandsdienstbezüge haben. Er wird während eines Heimaturlaubs, eines Erholungsurlaubs und sonstiger Abwesenheit vom Dienstort nicht gezahlt, außer in Fällen besonderer fürsorgerischer Maßnahmen zur Gesundheitsvorsorge von bis zu vier aufeinanderfolgenden Kalendertagen. Der Zuschlag erhöht sich für jede nach § 53 Absatz 4 des Bundesbesoldungsgesetzes berücksichtigungsfähige Person um 10 Prozent,
 
 1. sofern sich die Person an dem Dienstort, für den der Zuschlag festgesetzt worden ist, nicht nur vorübergehend aufhält und
 
-2. soweit der Zuschlag und der Erhöhungsbetrag zusammen 700 Euro monatlich nicht überschreiten.
+2. soweit der Zuschlag und der Erhöhungsbetrag zusammen 1 000 Euro monatlich nicht überschreiten.
 
-(2) Um eine den Anforderungen entsprechende Besetzung eines Dienstpostens im Ausland sicherzustellen, kann ein Zuschlag von bis zu 500 Euro monatlich festgesetzt werden, wenn der Dienstposten wegen außergewöhnlicher materieller Mehraufwendungen oder immaterieller Belastungen nicht mit einer geeigneten Bewerberin oder einem geeigneten Bewerber besetzt werden kann. Die Gründe für die Gewährung des Zuschlags sind zu dokumentieren. Der Zuschlag wird nur der Person gewährt, mit der der Dienstposten besetzt wird. Er wird vorbehaltlich vorhandener Haushaltsmittel so lange gezahlt, wie die Person den Dienstposten innehat, längstens aber vier Jahre. Er wird auch bei vorübergehender Abwesenheit vom Dienstort gezahlt.
+(2) Um eine den Anforderungen entsprechende Besetzung eines Dienstpostens im Ausland sicherzustellen, kann ein Zuschlag von bis zu 715 Euro monatlich festgesetzt werden, wenn der Dienstposten wegen außergewöhnlicher materieller Mehraufwendungen oder immaterieller Belastungen nicht mit einer geeigneten Bewerberin oder einem geeigneten Bewerber besetzt werden kann. Die Gründe für die Gewährung des Zuschlags sind zu dokumentieren. Der Zuschlag wird nur der Person gewährt, mit der der Dienstposten besetzt wird. Er wird vorbehaltlich vorhandener Haushaltsmittel so lange gezahlt, wie die Person den Dienstposten innehat, längstens aber vier Jahre. Er wird auch bei vorübergehender Abwesenheit vom Dienstort gezahlt.
 
-(3) Die Zuschläge nach den Absätzen 1 und 2 können nebeneinander gewährt werden. Übersteigt die Summe der Zuschläge nach den Absätzen 1 und 2 den Betrag von 700 Euro je beschäftigte Person und Monat, ist der Zuschlag nach Absatz 2 zu kürzen. Die Zuschläge unterliegen dem Kaufkraftausgleich.
+(3) Die Zuschläge nach den Absätzen 1 und 2 können nebeneinander gewährt werden. Übersteigt die Summe der Zuschläge nach den Absätzen 1 und 2 den Betrag von 1 000 Euro je beschäftigte Person und Monat, ist der Zuschlag nach Absatz 2 zu kürzen. Die Zuschläge unterliegen dem Kaufkraftausgleich.
 
 (4) Die oberste Dienstbehörde setzt die Zuschläge nach den Absätzen 1 und 2 und die Zeiträume, für die die Zuschläge gewährt werden, im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium des Innern und für Heimat und dem Bundesministerium der Finanzen fest. Wird ein Zuschlag nach Absatz 1 im Ressorteinvernehmen durch das Auswärtige Amt festgesetzt, können andere oberste Dienstbehörden den festgesetzten Zuschlag ohne erneute Einholung des Ressorteinvernehmens für ihren Geschäftsbereich übernehmen.
 
@@ -116,6 +118,10 @@ c) in eine berufsständische Versorgungseinrichtung, die Leistungen erbringt, di
 4. nichtselbständiger Arbeit (§ 2 Absatz 1 Satz 1 Nummer 4 in Verbindung mit § 19 Absatz 1 Satz 1 Nummer 1 und 3 des Einkommensteuergesetzes).
 
 (3) Bei Einkünften nach Absatz 2 Nummer 1 bis 3 wird der erhöhte Auslandszuschlag zunächst vorläufig auf der Grundlage der Einkünfte im vorangegangenen Besteuerungszeitraum festgesetzt. Die Empfängerin oder der Empfänger des erhöhten Auslandszuschlags hat die Einkünfte der Ehegattin oder des Ehegatten durch Vorlage des Steuerbescheids für den vorangegangenen Besteuerungszeitraum nachzuweisen. Für die endgültige Festsetzung des erhöhten Auslandszuschlags bei Einkünften nach Absatz 2 Nummer 1 bis 3 ist der Steuerbescheid vorzulegen, der den Bezugszeitraum des erhöhten Auslandszuschlags umfasst. War das tatsächlich erzielte Nettoerwerbseinkommen im Bezugszeitraum des erhöhten Auslandszuschlags geringer als zum Zeitpunkt der vorläufigen Festsetzung nach Satz 1, so besteht bei Nachweis der zweckgerechten Verwendung des erhöhten Auslandszuschlags ein Nachzahlungsanspruch auf den nicht anrechnungsfreien Teil des erhöhten Auslandszuschlags. War das tatsächlich erzielte Nettoerwerbseinkommen im Bezugszeitraum des erhöhten Auslandszuschlags höher als zum Zeitpunkt der vorläufigen Festsetzung nach Satz 1, so ist der nicht anrechnungsfreie Teil des erhöhten Auslandszuschlags ganz oder teilweise zurückzufordern. Weist die Empfängerin oder der Empfänger des erhöhten Auslandszuschlags nach, dass die Steuerfestsetzung, die den Bezugszeitraum des erhöhten Auslandszuschlags umfasst, Einkünfte der Ehegattin oder des Ehegatten nach Absatz 2 Nummer 1 bis 3 einbezieht, die ausschließlich mit Tätigkeiten erzielt wurden, die vor dem Beginn oder nach dem Ende des Gewährungszeitraums des erhöhten Auslandszuschlags erbracht wurden, so kann von der Berücksichtigung der betreffenden Einkünfte abgesehen werden.
+
+# § 5b – Geltung der §§ 5 und 5a in den Fällen des § 53 Absatz 6 Satz 7 des Bundesbesoldungsgesetzes
+
+In den Fällen des § 53 Absatz 6 Satz 7 des Bundesbesoldungsgesetzes gelten § 5 mit Ausnahme des Absatzes 6 Nummer 5 und § 5a entsprechend.
 
 # § 6 – Erhöhter Auslandszuschlag für weitere Berechtigte
 
