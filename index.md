@@ -1244,7 +1244,7 @@
 - [BTGO1980Anl6Bek 2022](laws/BTGO1980Anl6Bek_2022.md) Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten
 - [BTGO1980Bes](laws/BTGO1980Bes.md) Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages (Anlage 6 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
 - [BTGO1980ÜbernBek](laws/BTGO1980ÜbernBek.md) Bekanntmachung zur Übernahme der Geschäftsordnung des Deutschen Bundestages
-- [BTHausO 2023](laws/BTHausO_2023.md) Hausordnung des Deutschen Bundestages
+- [BTHausO 2025](laws/BTHausO_2025.md) Hausordnung des Deutschen Bundestages
 - [BTHG](laws/BTHG.md) Gesetz zur Stärkung der Teilhabe und Selbstbestimmung von Menschen mit Behinderungen
 - [BtMAHV](laws/BtMAHV.md) Betäubungsmittel-Außenhandelsverordnung
 - [BtMBinHV](laws/BtMBinHV.md) Betäubungsmittel-Binnenhandelsverordnung
