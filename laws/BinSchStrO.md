@@ -342,13 +342,17 @@ Erdgas, das durch Abkühlung auf eine Temperatur von –161 °C verflüssigt wur
 
 stilliegendes Fahrzeug oder einen stillliegenden Schwimmkörper eine Person als Wache oder als Aufsicht nach § 7.08 bestellt, tritt diese Person an die Stelle des Schiffsführers.
 
-7. Der Schiffsführer darf nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Es ist dem Schiffsführer verboten, das Fahrzeug zu führen, wenn er
+7. Der Schiffsführer oder die Schiffsführerin darf nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Es ist dem Schiffsführer oder der Schiffsführerin verboten, das Fahrzeug zu führen, wenn er oder sie
 
-a) 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder
+a) 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt,
 
-b) unter der Wirkung eines in Anlage 10 aufgeführten berauschenden Mittels nach Satz 3 steht.
+b) 3,5 ng/ml oder mehr Tetrahydrocannabinol (THC) im Blutserum hat,
 
-Eine Wirkung nach Satz 2 Buchstabe b liegt vor, wenn eine in Anlage 10 genannte Substanz im Blut nachgewiesen wird. Satz 2 Buchstabe b gilt nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt.
+c) unter der Wirkung eines in der Anlage 10 aufgeführten berauschenden Mittels nach Satz 3 steht oder
+
+d) im Falle des Buchstaben b ein alkoholisches Getränk zu sich nimmt oder die Schiffsführung aufnimmt, obwohl er oder sie unter der Wirkung eines alkoholischen Getränks steht.
+
+Eine Wirkung nach Satz 2 Buchstabe c liegt vor, wenn eine in der Anlage 10 genannte Substanz im Blutserum nachgewiesen wird. Satz 2 Buchstabe b bis d gilt nicht, wenn eine dort oder in der Anlage 10 genannte Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt. Hat die Wasserschutzpolizei oder die zuständige Behörde im Falle des Satzes 4 Anhaltspunkte dafür, dass der Schiffsführer oder die Schiffsführerin seinen oder ihren Aufgaben nicht ordnungsgemäß nachkommen kann, kann die Wasserschutzpolizei oder die zuständige Behörde den weiteren Einsatz des Schiffsführers oder der Schiffsführerin an Bord untersagen.
 
 8. Der Schiffsführer hat vor Fahrtantritt die erforderlichen Reisevorbereitungen zu treffen. Insbesondere hat er sich über die Bedingungen und Verhältnisse der Wasserstraße, wie Wasserstände, Durchfahrtshöhen, die er befahren will, zu informieren und dafür zu sorgen, dass das Fahrzeug mit Fahrtbeginn fahrtüchtig und betriebssicher ist.
 
@@ -364,21 +368,29 @@ Eine Wirkung nach Satz 2 Buchstabe b liegt vor, wenn eine in Anlage 10 genannte 
 
 3. Mitglieder der Besatzung und sonstige Personen an Bord, die vorübergehend selbstständig den Kurs und die Geschwindigkeit eines Fahrzeugs bestimmen, sind insoweit auch für die Befolgung der Bestimmungen dieser Verordnung und der im Rahmen des § 1.22 erlassenen Verordnungen und Anordnungen vorübergehender Art verantwortlich.
 
-4. Die Mitglieder der diensttuenden Mindestbesatzung und sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, sowie die Mitglieder der Besatzung, die nach Maßgabe des Satzes 2 eine Tätigkeit ausüben, die für die sichere Teilnahme des Fahrzeugs am Verkehr notwendig ist, dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Zu den Tätigkeiten nach Satz 1 zählen insbesondere das Festmachen, Ankern, Schleusen, Laden oder Löschen des Fahrzeugs oder das Bewachen oder Beaufsichtigen des Fahrzeugs beim Stillliegen. Den in Satz 1 genannten Personen ist es verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu bestimmen oder eine Tätigkeit nach Satz 2 auszuüben, wenn sie
+4. Die Mitglieder der diensttuenden Mindestbesatzung und sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, sowie die Mitglieder der Besatzung, die nach Maßgabe des Satzes 2 eine Tätigkeit ausüben, die für die sichere Teilnahme des Fahrzeugs am Verkehr notwendig ist, dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Zu den Tätigkeiten nach Satz 1 zählen insbesondere das Festmachen, das Ankern, das Schleusen, das Laden oder das Löschen des Fahrzeugs oder das Bewachen oder das Beaufsichtigen des Fahrzeugs beim Stillliegen. Den in Satz 1 genannten Personen ist es verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu bestimmen oder eine Tätigkeit nach Satz 2 auszuüben, wenn sie
 
-a) 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper haben, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder
+a) 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper haben, die zu einer solchen Atem- oder Blutalkoholkonzentration führt,
 
-b) unter der Wirkung eines in Anlage 10 aufgeführten berauschenden Mittels nach Satz 4 stehen.
+b) 3,5 ng/ml oder mehr Tetrahydrocannabinol (THC) im Blutserum haben,
 
-Eine Wirkung nach Satz 3 Buchstabe b liegt vor, wenn eine in Anlage 10 genannte Substanz im Blut nachgewiesen wird. Satz 3 Buchstabe b gilt nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt.
+c) unter der Wirkung eines in der Anlage 10 aufgeführten berauschenden Mittels nach Satz 4 stehen oder
 
-5. Der Schiffsführer hat sicherzustellen, dass keine andere Person selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmt oder nach Maßgabe des Satzes 2 eine Tätigkeit ausübt, die für die sichere Teilnahme des Fahrzeugs am Verkehr notwendig ist, die
+d) im Falle des Buchstaben b ein alkoholisches Getränk zu sich nehmen oder die Bestimmung des Kurses und der Geschwindigkeit des Fahrzeugs oder eine andere, für die Sicherheit des Fahrzeugs am Verkehr notwendige Tätigkeit aufnehmen, obwohl sie unter der Wirkung eines alkoholischen Getränks stehen.
 
-a) 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder
+Eine Wirkung nach Satz 3 Buchstabe c liegt vor, wenn eine in der Anlage 10 genannte Substanz im Blutserum nachgewiesen wird. Satz 3 Buchstabe b bis d gilt nicht, wenn eine dort oder in der Anlage 10 genannte Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt. Hat die Wasserschutzpolizei oder die zuständige Behörde im Falle des Satzes 5 Anhaltspunkte dafür, dass ein Besatzungsmitglied oder eine sonstige Person ihren Aufgaben nicht ordnungsgemäß nachkommen kann, kann die Wasserschutzpolizei oder die zuständige Behörde den weiteren Einsatz des Besatzungsmitglieds oder der Person an Bord untersagen.
 
-b) unter der Wirkung eines in Anlage 10 aufgeführten berauschenden Mittels nach Satz 3 steht.
+5. Der Schiffsführer oder die Schiffsführerin hat sicherzustellen, dass keine andere Person selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmt oder nach Maßgabe des Satzes 2 eine Tätigkeit ausübt, die für die sichere Teilnahme des Fahrzeugs am Verkehr notwendig ist, die
 
-Zu den Tätigkeiten nach Satz 1 zählen insbesondere das Festmachen, Ankern, Schleusen, Laden oder Löschen des Fahrzeugs oder das Bewachen oder Beaufsichtigen des Fahrzeugs beim Stillliegen. Eine Wirkung nach Satz 1 Buchstabe b liegt vor, wenn eine in Anlage 10 genannte Substanz im Blut nachgewiesen wird. Satz 1 Buchstabe b gilt nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt.
+a) 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt,
+
+b) 3,5 ng/ml oder mehr Tetrahydrocannabinol (THC) im Blutserum hat,
+
+c) unter der Wirkung eines in der Anlage 10 aufgeführten berauschenden Mittels nach Satz 3 steht oder
+
+d) im Falle des Buchstaben b die Bestimmung des Kurses und der Geschwindigkeit des Fahrzeugs oder eine andere, für die Sicherheit des Fahrzeugs am Verkehr notwendige Tätigkeit aufnimmt, obwohl sie unter der Wirkung eines alkoholischen Getränks steht.
+
+Zu den Tätigkeiten nach Satz 1 zählen insbesondere das Festmachen, das Ankern, das Schleusen, das Laden oder das Löschen des Fahrzeugs oder das Bewachen oder das Beaufsichtigen des Fahrzeugs beim Stillliegen. Eine Wirkung nach Satz 1 Buchstabe c liegt vor, wenn eine in der Anlage 10 genannte Substanz im Blutserum nachgewiesen wird. Satz 1 Buchstabe b bis d gilt nicht, wenn eine dort oder in der Anlage 10 genannte Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt.
 
 # § 1.04 – Allgemeine Sorgfaltspflicht
 
@@ -28477,18 +28489,18 @@ Erläuterungen zu den EA, EB, EC und ED Werten für einen Verband
 
 # Anlage 10 – Liste der berauschenden Mittel und Substanzen
 
-(Fundstelle: BGBl. I 2021, S. 4384)
+(Fundstelle: BGBl. 2024 I Nr. 286, S. 29 – 30)
 
 | Mittel              | Substanz                          |
 |:--------------------|:----------------------------------|
-| Cannabis            | Tetrahydrocannabinol (THC)        |
 | Heroin              | Morphin                           |
 | Morphin             | Morphin                           |
 | Kokain              | Benzoylecgonin                    |
 | Amfetamine          | Amfetamin                         |
 | Designer Amfetamine | Methylendioxyamfetamin (MDA)      |
-|                     | Methylendioxyethylamfetamin (MDE) |
-|                     | Methylendioxymetamfetamin (MDAE)  |
+|                     | Methylendioxyethylamfetamin (MDE) |
+|                     | Methylendioxymetamfetamin (MDAE)  |
 | Metamfetamin        | Metamfetamin                      |
 
+  
 Zum gesicherten Nachweis auf das Vorhandensein der in der Tabelle genannten Substanzen im Blut gelten die jeweils aktuellen Empfehlungen der Grenzwertkommission beim Bundesministerium für Digitales und Verkehr für den Bereich des Straßenverkehrs.

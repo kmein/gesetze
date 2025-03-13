@@ -207,12 +207,6 @@ Soldatinnen oder Soldaten kann gestattet werden, den Dienst an einem anderen Ort
 
 # § 12 – Rufbereitschaft
 
-(1) Zeiten der Rufbereitschaft sind keine Arbeitszeit. Hat die Soldatin oder der Soldat jedoch über die Arbeitszeit hinaus mehr als 10 Stunden Rufbereitschaft im Kalendermonat, ist innerhalb von zwölf Monaten ein Achtel der über 10 Stunden hinausgehenden Zeit auszugleichen. Bei fester Arbeitszeit ist eine entsprechende Dienstbefreiung zu gewähren. Bei Gleitzeit wird diese Zeit dem Gleitzeitkonto gutgeschrieben.
-
-(2) Wird eine Soldatin oder ein Soldat in Zeiten der Rufbereitschaft tatsächlich beansprucht, ist dies Arbeitszeit und nicht als Zeit der Rufbereitschaft anzurechnen. Als Zeit der tatsächlichen Inanspruchnahme gilt die Zeit vom Eintreffen der Soldatin oder des Soldaten am Ort der Dienstleistung bis zur Beendigung des jeweiligen Auftrages.
-
-# § 12 – Rufbereitschaft
-
 (1) Zeiten der Rufbereitschaft sind keine Arbeitszeit. Hat die Soldatin oder der Soldat jedoch über die Arbeitszeit hinaus mehr als 10 Stunden Rufbereitschaft im Kalendermonat, ist innerhalb von zwölf Monaten ein Achtel der über 10 Stunden hinausgehenden Zeit auszugleichen, soweit nicht zwingende dienstliche Gründe entgegenstehen. Bei fester Arbeitszeit ist eine entsprechende Dienstbefreiung zu gewähren. Bei Gleitzeit wird diese Zeit dem Gleitzeitkonto gutgeschrieben.
 
 (2) Wird eine Soldatin oder ein Soldat in Zeiten der Rufbereitschaft tatsächlich beansprucht, ist dies Arbeitszeit und nicht als Zeit der Rufbereitschaft anzurechnen. Als Zeit der tatsächlichen Inanspruchnahme gilt die Zeit vom Eintreffen der Soldatin oder des Soldaten am Ort der Dienstleistung bis zur Beendigung des jeweiligen Auftrages.
@@ -342,12 +336,6 @@ Vor einer Versetzung ist das Gleitzeitkonto grundsätzlich auszugleichen.
 (1) Bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes sind die Bestimmungen des Abschnitts 2 nicht anzuwenden.
 
 (2) Zeiten, während derer Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes verrichtet werden, werden bei der Berechnung der durchschnittlichen wöchentlichen Arbeitszeit nicht berücksichtigt. Das gilt auch für Freistellungszeiten, die aus Diensten nach § 30c Absatz 4 des Soldatengesetzes resultieren.
-
-# § 21 – Anordnung von Dienst
-
-(1) Bei den in § 30c Absatz 4 des Soldatengesetzes genannten Tätigkeiten ist der Dienst im Voraus und für ganze Kalendertage anzuordnen. Soweit es zwingend erforderlich ist, darf die Anordnung am selben Kalendertag erfolgen; in diesem Fall gilt der Dienst des gesamten Tages als für die Tätigkeit nach § 30c Absatz 4 des Soldatengesetzes geleistet. Die Anordnung erfolgt bei den in § 30c Absatz 4 Nummer 2 bis 5 des Soldatengesetzes genannten Tätigkeiten durch die zuständigen Leiterinnen oder Leiter der Organisationsbereiche, durch die Befehlshaberin oder den Befehlshaber Territoriales Führungskommando der Bundeswehr oder durch die Befehlshaberin oder den Befehlshaber Einsatzführungskommando der Bundeswehr. Diese können die Anordnungsbefugnis einer ihnen unterstellten Person übertragen.
-
-(2) Geleisteter Dienst bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes ist einschließlich seiner Anordnung und seines Ausgleichs zu erfassen. Die hierbei erhobenen Daten sind nach Ablauf des Jahres, in dem der Dienst geleistet worden ist, fünf Jahre aufzubewahren und anschließend zu löschen.
 
 # § 21 – Anordnung von Dienst
 
