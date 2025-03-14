@@ -1267,8 +1267,6 @@ Alle Aufklärungen und Einwilligungen sind in der Gesundheitsakte zu dokumentier
 
 (6) Nimmt der Soldat auf Veranlassung des Dienstherrn oder im Notfall Erbringer medizinischer Leistungen außerhalb der Bundeswehr in Anspruch, so dürfen die Leistungserbringer die von ihnen erhobenen personenbezogenen Daten an die für die Weiterbehandlung zuständige Stelle im Sanitätsdienst der Bundeswehr und die für die Abrechnung zuständige Stelle übermitteln. Die übermittelten Daten dürfen von der für die Weiterbehandlung zuständigen Stelle in der Gesundheitsakte gespeichert und von der für die Abrechnung zuständigen Stelle zur Abrechnung mit den Leistungserbringern verarbeitet werden.
 
-§ 29b Abs. 2 Satz 5 (als Satz 2 bezeichnet) Kursivdruck: IdF d. Art. 5 Nr. 3 G v. 20.8.2021 I 3932 mWv 1.1.2025
-
 # § 29d – Personalaktenführende Stelle
 
 (1) Die Personalakte wird geführt
