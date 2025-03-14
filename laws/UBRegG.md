@@ -45,7 +45,7 @@ c) Personenvereinigungen sowie
 
 7. weitere Unternehmen im Sinne des Siebten Buches Sozialgesetzbuch.
 
-Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz 1 Nummer 5 Buchstabe a wird als Unternehmen geführt. Daten zu natürlichen Personen, die nicht im Zusammenhang mit einer wirtschaftlichen Tätigkeit stehen, werden nicht gespeichert.
+Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz 1 Nummer 6 Buchstabe a wird als Unternehmen geführt. Daten zu natürlichen Personen, die nicht im Zusammenhang mit einer wirtschaftlichen Tätigkeit stehen, werden nicht gespeichert.
 
 (2) Im Basisregister werden zu einem Unternehmen nach Absatz 1, soweit vorhanden, folgende Stammdaten gespeichert:
 
@@ -109,7 +109,7 @@ Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz 1 Numme
 
 (2) Zur Pflege des Basisregisters übermitteln die öffentlichen Stellen nach Absatz 1 der Registerbehörde in den Fällen der Neugründung, Änderung oder Löschung eines Unternehmens nach § 3 Absatz 1 die Datensätze, die geänderte Daten nach § 3 Absatz 2, 3 und 4 Nummer 1 bis 3 enthalten.
 
-(3) Zum Aufbau und zur Pflege des Basisregisters darf die Registerbehörde von der Global Legal Entity Identifier Foundation Daten zu den Merkmalen nach § 3 Absatz 2, 3 und 4 Nummer 1 bis 3 sowie die Rechtsträgerkennung (LEI) nach § 3 Absatz 3 Nummer 9 verwenden, soweit diese bei der Global Legal Entity Identifier Foundation gespeichert sind.
+(3) Zum Aufbau und zur Pflege des Basisregisters darf die Registerbehörde von der Global Legal Entity Identifier Foundation Daten zu den Merkmalen nach § 3 Absatz 2, 3 und 4 Nummer 1 bis 3 sowie die Rechtsträgerkennung (LEI) nach § 3 Absatz 3 Nummer 10 verwenden, soweit diese bei der Global Legal Entity Identifier Foundation gespeichert sind.
 
 # § 5 – Datenübermittlung durch die Registerbehörde
 
