@@ -1,4 +1,4 @@
-% Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei  (Bundespolizei-Heilfürsorgeverordnung - BPolHfV)
+% Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei*)  (Bundespolizei-Heilfürsorgeverordnung - BPolHfV)
 % Ausfertigungsdatum: 22.05.2014
  
 # Eingangsformel
