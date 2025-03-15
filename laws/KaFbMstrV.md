@@ -39,7 +39,7 @@ k) technologischer sowie gesellschaftlicher Entwicklungen, insbesondere digitale
 
 2. Konzepte für Betriebsstätten einschließlich Betriebs- und Lagerausstattung sowie für logistische Geschäfts- und Arbeitsprozesse entwickeln und umsetzen,
 
-3. Kundenwünsche und jeweilige auftragsbezogene Rahmenbedingungen ermitteln, Anforderungen ableiten, Kunden beraten, Serviceleistungen in der Karosserieinstandhaltung und im Karosserie- und Fahrzeugbau anbieten, Lösungen entwickeln, Verhandlungen führen und Ziele festlegen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen,
+3. Kundenwünsche und jeweilige auftragsbezogene Rahmenbedingungen ermitteln, Anforderungen ableiten, Kunden beraten, Serviceleistungen in den Bereichen Karosserieinstandhaltungstechnik, Karosserie- und Fahrzeugbautechnik sowie Caravan- und Reisemobiltechnik anbieten, Lösungen entwickeln, Verhandlungen führen und Ziele festlegen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen,
 
 4. Geschäfts- und Arbeitsprozesse zur Leistungserbringung planen, organisieren und überwachen,
 
@@ -101,11 +101,11 @@ f) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs-, Kontroll- und Dokumentationsarbeiten.
 
-(2) Als Meisterprüfungsprojekt ist nach Wahl des Prüflings eine der folgenden Arbeiten durchzuführen:
+(2) Als Meisterprüfungsprojekt ist nach Wahl des Prüflings eine der folgenden Aufgaben zu erledigen:
 
-1. Instandsetzungsarbeiten, bestehend aus
+1. eine Aufgabe im Bereich der Karosserieinstandhaltungstechnik, bestehend aus folgenden Arbeiten:
 
-a) Planung:
+a) Planungsarbeiten:
 
 aa)  
 Schäden an Karosserie und Fahrwerk analysieren,
@@ -115,7 +115,7 @@ eine rechnergestützte Schadenskalkulation erstellen, Instandsetzungsalternative
 
 cc) einen Arbeitsplan erstellen,
 
-b) Durchführung:
+b) im Rahmen der Durchführungsarbeiten auf der Grundlage der Planungsarbeiten nach Buchstabe a
 
 aa)  
 eine Karosserie und ein Fahrwerk vermessen,
@@ -128,21 +128,67 @@ cc) das vermessene Fahrwerk instand setzen sowie
 dd)  
 einen Teilersatz anfertigen und
 
-c) Kontrolle und Dokumentation:
+c) im Rahmen der Kontroll- und Dokumentationsarbeiten auf der Grundlage der Durchführungsarbeiten nach Buchstabe b
 
 aa)  
 Prüfergebnisse protokollieren und auswerten sowie
 
 bb)  
-abschließende Kontrollen durchführen und Ergebnisse bewerten oder
+abschließende Kontrollen durchführen und Ergebnisse bewerten,
 
-2. Neubauarbeiten:
+2. eine Aufgabe im Bereich der Karosserie- und Fahrzeugbautechnik, bestehend aus folgenden Arbeiten:
 
-a) ein Bauteil einer Fahrwerks-, Karosserie- oder Fahrzeugbaugruppe rechnergestützt entwerfen, planen, konstruieren und gestalten sowie daraus ein Fahrwerk-, Karosserie- oder Fahrzeugbauteil herstellen und prüfen,
+a) Planungsarbeiten:
 
-b) eine rechnergestützte Angebotskalkulation und einen Arbeitsplan erarbeiten sowie
+aa)  
+ein Bauteil einer Fahrwerksbaugruppe, einer Karosseriebaugruppe oder einer Fahrzeugbaugruppe rechnergestützt entwerfen, planen, konstruieren und gestalten,
 
-c) Kontrollen durchführen, Prüfprotokolle erstellen und Ergebnisse bewerten.
+bb)  
+eine rechnergestützte Angebotskalkulation erarbeiten sowie
+
+cc) einen Arbeitsplan erarbeiten,
+
+b) im Rahmen der Durchführungsarbeiten auf der Grundlage der Planungsarbeiten nach Buchstabe a ein Fahrwerkbauteil, ein Karosseriebauteil oder ein Fahrzeugbauteil herstellen und
+
+c) im Rahmen der Kontroll- und Dokumentationsarbeiten auf der Grundlage der Durchführungsarbeiten nach Buchstabe b
+
+aa)  
+Kontrollen am hergestellten Fahrwerkbauteil, Karosseriebauteil oder Fahrzeugbauteil durchführen,
+
+bb)  
+Prüfprotokolle erstellen sowie
+
+cc) Ergebnisse bewerten oder
+
+3. eine Aufgabe im Bereich der Caravan- und Reisemobiltechnik, bestehend aus folgenden Arbeiten:
+
+a) Planungsarbeiten:
+
+aa)  
+Schäden an einem Caravan oder an einem Reisemobil, jeweils mit Sandwichplattenaufbau, analysieren,
+
+bb)  
+eine rechnergestützte Schadenskalkulation erstellen, Instandsetzungsalternativen beurteilen und den Instandsetzungsweg unter Beachtung des Schadensumfangs bestimmen und begründen sowie
+
+cc) einen Arbeitsplan erstellen,
+
+b) im Rahmen der Durchführungsarbeiten auf der Grundlage der Planungsarbeiten nach Buchstabe a
+
+aa)  
+ein Caravan oder ein Reisemobil, jeweils mit Sandwichplattenaufbau, oder Teile davon instand setzen sowie
+
+bb)  
+eine Flüssiggasanlage oder Teile davon außerbetrieb nehmen, instand setzen, prüfen und wieder in Betrieb nehmen und
+
+c) im Rahmen der Kontroll- und Dokumentationsarbeiten auf der Grundlage der Durchführungsarbeiten nach Buchstabe b
+
+aa)  
+Kontrollen durchführen,
+
+bb)  
+Prüfprotokolle erstellen und
+
+cc) Ergebnisse bewerten.
 
 (3) Die auftragsbezogenen Anforderungen an das Meisterprüfungsprojekt im Einzelnen werden vom Meisterprüfungsausschuss festgelegt.
 
@@ -150,7 +196,7 @@ c) Kontrollen durchführen, Prüfprotokolle erstellen und Ergebnisse bewerten.
 
 (5) Für die Bearbeitung des Meisterprüfungsprojekts stehen dem Prüfling vier Arbeitstage zur Verfügung.
 
-(6) Für die Bewertung des Meisterprüfungsprojekts nach § 4 Absatz 2 Nummer 1 werden die einzelnen Bestandteile wie folgt gewichtet:
+(6) Für die Bewertung des Meisterprüfungsprojekts nach Absatz 2 Nummer 1 werden die einzelnen Bestandteile wie folgt gewichtet:
 
 1. die Planungsarbeiten anhand der Planungsunterlagen, bestehend aus einer rechnergestützten Schadenskalkulation, der Beurteilung der Instandsetzungsalternativen, der Begründung des Instandsetzungsweges und einem Arbeitsplan, mit 30 Prozent,
 
@@ -158,13 +204,21 @@ c) Kontrollen durchführen, Prüfprotokolle erstellen und Ergebnisse bewerten.
 
 3. die Kontroll- und die Dokumentationsarbeiten anhand der Dokumentationsunterlagen, bestehend aus den Prüfprotokollen und der Bewertung der Ergebnisse, mit 10 Prozent.
 
-(7) Für die Bewertung des Meisterprüfungsprojekts nach § 4 Absatz 2 Nummer 2 werden die einzelnen Bestandteile wie folgt gewichtet:
+(7) Für die Bewertung des Meisterprüfungsprojekts nach Absatz 2 Nummer 2 werden die einzelnen Bestandteile wie folgt gewichtet:
 
 1. die Planungsarbeiten anhand der Planungsunterlagen, bestehend aus Entwurf, Planung, Konstruktion und Angebotskalkulation sowie des Arbeitsplans, mit 30 Prozent,
 
 2. die Durchführungsarbeiten des Meisterprüfungsprojekts anhand des angefertigten Fahrwerks-, Karosserie- oder Fahrzeugbauteils mit 60 Prozent,
 
 3. die Kontroll- und Dokumentationsarbeiten anhand der Dokumentationsunterlagen, bestehend aus den Prüfprotokollen sowie der Bewertung der Ergebnisse, mit 10 Prozent.
+
+(8) Für die Bewertung des Meisterprüfungsprojekts nach Absatz 2 Nummer 3 werden die einzelnen Bestandteile wie folgt gewichtet:
+
+1. die Planungsarbeiten anhand der Planungsunterlagen, bestehend aus einer rechnergestützten Schadenskalkulation, der Beurteilung der Instandsetzungsalternativen, der Begründung des Instandsetzungsweges und einem Arbeitsplan, mit 30 Prozent,
+
+2. die Durchführungsarbeiten, bestehend aus Instandsetzung des Caravans oder des Reisemobils und der Flüssiggasanlage, mit 60 Prozent,
+
+3. die Kontroll- und die Dokumentationsarbeiten anhand der Dokumentationsunterlagen, bestehend aus den Prüfprotokollen und der Bewertung der Ergebnisse, mit 10 Prozent.
 
 # § 5 – Fachgespräch
 
@@ -184,7 +238,7 @@ c) Kontrollen durchführen, Prüfprotokolle erstellen und Ergebnisse bewerten.
 
 (1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und vervollständigt den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung im Karosserie- und Fahrzeugbauer-Handwerk.
 
-(2) Die Situationsaufgabe wird vom Meisterprüfungsausschuss festgelegt. Der Meisterprüfungsausschuss wählt für die Situationsaufgabe vier der folgenden Arbeiten aus, die nicht Bestandteil des Meisterprüfungsprojekts waren. Dabei hat er mindestens drei der Arbeiten nach Nummer 1 Buchstabe a bis i sowie höchstens eine der Arbeiten nach Nummer 2 Buchstabe a oder Buchstabe b auszuwählen:
+(2) Die Situationsaufgabe wird vom Meisterprüfungsausschuss festgelegt. Der Meisterprüfungsausschuss wählt für die Situationsaufgabe vier der folgenden Arbeiten aus, die nicht Bestandteil des Meisterprüfungsprojekts waren. Dabei hat er mindestens drei der Arbeiten nach Nummer 1 Buchstabe a bis k sowie höchstens eine der Arbeiten nach Nummer 2 Buchstabe a oder Buchstabe b auszuwählen:
 
 1. Fehler und Störungen an folgenden Systemen feststellen und beheben:
 
@@ -202,9 +256,13 @@ f) Lenkungssystemen,
 
 g) Komfortsystemen,
 
-h) Hochvoltsystemen oder
+h) Hochvoltsystemen,
 
 i) Assistenzsystemen,
+
+j) Niedervoltsystemen in Fahrzeugen oder
+
+k) Photovoltaiksystemen in Fahrzeugen,
 
 2. im Rahmen von Lackarbeiten:
 
@@ -244,9 +302,7 @@ b) ein Bauteil mit einer Beschichtung versehen.
 
 # § 9 – Handlungsfeld „Anforderungen von Kunden eines Karosserie- und Fahrzeugbauerbetriebs analysieren, Lösungen erarbeiten und anbieten“
 
-(1) Im Handlungsfeld „Anforderungen von Kunden eines Karosserie- und Fahrzeugbauerbetriebs analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Karosserie- und
-
-Fahrzeugbauerbetrieb Anforderungen erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er wirtschaftliche, ökologische, ressourceneffiziente, karosserie- und fahrzeugbauphysikalische, materialspezifische, gestalterische Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Bei der jeweiligen Aufgabenstellung sollen mehrere der in Absatz 2 genannten Qualifikationen verknüpft werden.
+(1) Im Handlungsfeld „Anforderungen von Kunden eines Karosserie- und Fahrzeugbauerbetriebs analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Karosserie- und Fahrzeugbauerbetrieb Anforderungen erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er wirtschaftliche, ökologische, ressourceneffiziente, karosserie- und fahrzeugbauphysikalische, materialspezifische, gestalterische Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Bei der jeweiligen Aufgabenstellung sollen mehrere der in Absatz 2 genannten Qualifikationen verknüpft werden.
 
 (2) Das Handlungsfeld „Anforderungen von Kunden eines Karosserie- und Fahrzeugbauerbetriebs analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
 
@@ -278,7 +334,7 @@ f) Technische Lösungen von Karosserien und Fahrzeugen sowie für Umbauten und N
 
 g) Verfahren zur Oberflächenbehandlung und Stoffeigenschaftsänderung dem jeweiligen Verwendungszweck zuordnen,
 
-h) Vor- und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen und Kostengesichtspunkte erläutern und abwägen; Lösung auswählen sowie Auswahl begründen; dabei Funktion und Eigenschaften von Bauteilen und Baugruppen, aus den Bereichen Exterieur, Interieur, Antriebssysteme, Fahrwerk, Sicherheitseinrichtungen, Elektrik, Elektronik, Komfort- und Klimatechnik sowie Oberflächenbeschichtung erläutern und
+h) Vorteile und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen und Kostengesichtspunkte erläutern und abwägen, eine Lösung auswählen, die Auswahl begründen und dabei Funktionen und Eigenschaften von Bauteilen und Baugruppen aus den Bereichen Exterieur, Interieur, Antriebssysteme, Fahrwerk, Sicherheitseinrichtungen, Elektrik, Elektronik, Komforttechnik, Klimatechnik und Flüssiggastechnik sowie Oberflächenbeschichtung erläutern und
 
 i) Instandsetzungsalternativen vorschlagen und die erforderliche Schadensabwicklung festlegen sowie
 
