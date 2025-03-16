@@ -1069,7 +1069,7 @@
 - [BPolBG§1Abs1V 2003](laws/BPolBG§1Abs1V_2003.md) Verordnung zu § 1 Abs. 1 des Bundespolizeibeamtengesetzes
 - [BPolDKlZustAnO](laws/BPolDKlZustAnO.md) Anordnung des Bundespräsidenten über den Erlass der Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der Bundespolizei
 - [BPolG](laws/BPolG.md) Gesetz über die Bundespolizei
-- [BPolHfV](laws/BPolHfV.md) Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei
+- [BPolHfV](laws/BPolHfV.md) Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei*)
 - [BPolLV](laws/BPolLV.md) Verordnung über die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei
 - [BPolRZustAnO](laws/BPolRZustAnO.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der Rechtsverhältnisse der Polizeivollzugsbeamten des Bundes
 - [BPolZollV](laws/BPolZollV.md) Verordnung über die Übertragung von Bundespolizeiaufgaben auf die Zollverwaltung
