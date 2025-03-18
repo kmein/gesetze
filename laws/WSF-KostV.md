@@ -41,6 +41,14 @@ Auf Grund des § 19 Absatz 2 und 3 des Stabilisierungsfondsgesetzes, von denen A
 
 (6) Bei der Festlegung der Höhe der Kostenpauschalen ist zwischen einzelnen Maßnahmen oder Tätigkeiten zu unterscheiden. Außerdem kann die Höhe der Kostenpauschale von dem Wert der jeweiligen Leistungen abhängig gemacht werden.
 
+# § 4a – Kostenermäßigung
+
+(1) Aus Gründen des öffentlichen Interesses, insbesondere bei drohender Beeinträchtigung des Zwecks der Stabilisierungsmaßnahme oder aus Gründen der Billigkeit, können die zu erstattenden Kosten in Abhängigkeit von der wirtschaftlichen Leistungsfähigkeit des Kostenschuldners bis auf ein Drittel ermäßigt werden.
+
+(2) Absatz 1 findet auch Anwendung auf Leistungen, die vor dem 1. Januar 2024 begonnen, aber noch nicht vollständig erbracht wurden.
+
+(3) Die Ermäßigung der zu erstattenden Kosten nach Absatz 1 wird nur gewährt, wenn die Voraussetzungen der Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 2023/2831, 15.12.2023) in der jeweils geltenden Fassung erfüllt sind.
+
 # § 5 – Fälligkeit
 
 (1) Die Pflicht zur Kostenerstattung wird zehn Tage nach Bekanntgabe der Festsetzung an den Kostenschuldner fällig, es sei denn, das Bundesministerium der Finanzen, das Bundesministerium für Wirtschaft und Klimaschutz, die Kreditanstalt oder die Finanzagentur legen einen anderen Zeitpunkt fest. Die Fälligkeit von Vorschuss-, Abschlagszahlungen und Sicherheitsleistungen richtet sich nach § 6 Absatz 2.
