@@ -741,8 +741,6 @@ Die Börse ist verpflichtet, eine angemessene Größe der kleinstmöglichen Prei
 
 (2) Die Handelsteilnehmer sind verpflichtet, ihre Algorithmen in einer von der Börse zur Verfügung gestellten Umgebung zu testen. Die Geschäftsführung überwacht die Einhaltung der Pflicht nach Satz 1 und teilt der Börsenaufsichtsbehörde Anhaltspunkte für Verstöße mit.
 
-(3) Wegen der geeigneten Vorkehrungen nach Absatz 1 und der Anforderungen an die Ausgestaltung der Tests nach Absatz 2 wird auf die Delegierte Verordnung (EU) 2017/584 der Kommission vom 14. Juli 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards zur Festlegung der organisatorischen Anforderungen an Handelsplätze (ABl. L 87 vom 31.3.2017, S. 350), in der jeweils geltenden Fassung, verwiesen.
-
 (3) Wegen der geeigneten Vorkehrungen nach Absatz 1 und der Anforderungen an die Ausgestaltung der Tests nach Absatz 2 wird auf die Kapitel II und IV der Verordnung (EU) 2022/2554 und die Delegierte Verordnung (EU) 2017/584 der Kommission vom 14. Juli 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards zur Festlegung der organisatorischen Anforderungen an Handelsplätze (ABl. L 87 vom 31.3.2017, S. 350) in der jeweils geltenden Fassung verwiesen.
 
 # § 26e – Informationen über die Ausführungsqualität
