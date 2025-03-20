@@ -578,6 +578,9 @@
 - [BBodSchG](laws/BBodSchG.md) Gesetz zum Schutz vor schädlichen Bodenveränderungen und zur Sanierung von Altlasten
 - [BBodSchV](laws/BBodSchV.md) Bundes-Bodenschutz- und Altlastenverordnung
 - [BBPlG](laws/BBPlG.md) Gesetz über den Bundesbedarfsplan
+- [BBRErnAnO](laws/BBRErnAnO.md) Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten des Bundesamtes für Bauwesen und Raumordnung
+- [BBRÜbertrAnO](laws/BBRÜbertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten in Angelegenheiten der Besoldung, der Reise-, Umzugs- und Betreuungskosten, des Trennungsgeldes, der Beihilfe und der Schadensersatzansprüche wegen Verletzung von Bediensteten des Bundesamtes für Bauwesen und Raumordnung durch Verschulden Dritter auf das Bundesverwaltungsamt
+- [BBRWidVertrAnO](laws/BBRWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis von Beamtinnen und Beamten des Bundesamtes für Bauwesen und Raumordnung auf das Bundesamt für Bauwesen und Raumordnung
 - [BBußAktFV](laws/BBußAktFV.md) Verordnung über die technischen und organisatorischen Rahmenbedingungen für die elektronische Aktenführung im Bußgeldverfahren
 - [BBVAnpG 91](laws/BBVAnpG_91.md) Gesetz über die Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern 1991
 - [BBVAnpG 98](laws/BBVAnpG_98.md) Gesetz über die Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern 1998
@@ -1032,6 +1035,7 @@
 - [BMWiTWidAnO 2010](laws/BMWiTWidAnO_2010.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundeskartellamtes in Angelegenheiten nach dem Bundesumzugskostengesetz und der Trennungsgeldverordnung
 - [BMWKBGebKAIV](laws/BMWKBGebKAIV.md) Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Klimaschutz für individuell zurechenbare öffentliche Leistungen in seinem sowie dem Zuständigkeitsbereich des Bundesamts für Wirtschaft und Ausfuhrkontrolle für die Kriegswaffenkontrolle, Ausfuhrkontrolle und Investitionsprüfung
 - [BMWSBBDGAnO](laws/BMWSBBDGAnO.md) Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen
+- [BMWSBBesBeihUnffAnO](laws/BMWSBBesBeihUnffAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung der Bundesrepublik Deutschland bei Klagen der Beamtinnen und Beamten des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen in Angelegenheiten der Besoldung, der Beihilfe und der Unfallfürsorge auf das Bundesverwaltungsamt
 - [BMZWidAnO](laws/BMZWidAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen in Angelegenheiten nach dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung von Beschäftigten des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung
 - [BNatSchG](laws/BNatSchG.md) Gesetz über Naturschutz und Landschaftspflege
 - [BNDDisRZustAnO](laws/BNDDisRZustAnO.md) Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Bereich des Bundesnachrichtendienstes
