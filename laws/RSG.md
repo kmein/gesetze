@@ -107,7 +107,7 @@ Für die Bemessung der Sicherheitsleistung nach Satz 1 Nummer 1 gilt § 5 Absat
 
 (4) Die Art der Bemessung der Entgelthöhe muss für alle Reiseanbieter einheitlich erfolgen.
 
-# § 7a – Entgelte
+# § 7a – Steuern
 
 (1) Die Entgelte im Sinne des § 7 Absatz 1 und die Gegenleistungen im Sinne des § 16 Absatz 1 Satz 2 Nummer 2 unterliegen beim Reisesicherungsfonds nicht der Körperschaftsteuer oder der Gewerbesteuer.
 

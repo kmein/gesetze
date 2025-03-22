@@ -1822,8 +1822,6 @@ Die Rechtsverordnungen sind dem Bundestag zuzuleiten. Die Zuleitung erfolgt vor 
 
 4. der Ausstattung von Bahnstrecken mit einer Oberleitung (Elektrifizierung), einschließlich deren Erneuerung, bei deren Beachtung in Bezug auf Stromschlag und Leitungsanflug von Vögeln in der Regel kein Verstoß gegen die Zugriffsverbote nach § 44 Absatz 1 vorliegt und den Vorgaben des § 41 Satz 1 entsprochen wird.
 
-Überschrift Kursivdruck: Müsste entsprechend der Inhaltsübersicht idF d. Art. 3 Nr. 1 G v. 28.7.2011 I 1690 mWv 5.2.2012 "Ermächtigung zum Erlass von Rechtsverordnungen und Verwaltungsvorschriften" lauten
-
 # § 55 – Durchführung gemeinschaftsrechtlicher oder internationaler Vorschriften; Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Rechtsverordnungen nach § 54 können auch zur Durchführung von Rechtsakten des Rates oder der Kommission der Europäischen Gemeinschaften auf dem Gebiet des Artenschutzes oder zur Erfüllung von internationalen Artenschutzübereinkommen erlassen werden.
