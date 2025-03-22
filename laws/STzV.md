@@ -79,7 +79,7 @@ einer Teilzeitbeschäftigung.
 
 # § 5 – Ausgestaltung der Teilzeitbeschäftigung
 
-(1) Die Teilzeitbeschäftigung kann auf bis zu vier Zeitabschnitte verteilt werden.
+(1) Die Teilzeitbeschäftigung kann auf bis zu vier, zur Vermeidung unbilliger Härten auch auf mehr Zeitabschnitte verteilt werden.
 
 (2) Die Ausgestaltung der Teilzeitbeschäftigung kann nach flexiblen Arbeitszeitmodellen, insbesondere Blockzeitbildung, bewilligt werden, soweit wichtige dienstliche Gründe nicht entgegenstehen.
 
