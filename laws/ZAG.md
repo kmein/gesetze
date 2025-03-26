@@ -441,7 +441,8 @@ Mit den Unterlagen nach Satz 1 Nummer 4 bis 6 und 12 hat der Antragsteller eine 
 
 (9) Die Absätze 1 bis 7 finden auch dann Anwendung, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine juristische Person, die nach Absatz 1 erlaubnispflichtige Geschäfte betreibt, ihren juristischen Sitz vom Ausland ins Inland verlegt.
 
-(+++ § 10: Zur Nichtanwendung vgl. § 2 Abs. 6 +++)
+(+++ § 10: Zur Nichtanwendung vgl. § 2 Abs. 6 +++)  
+(+++ § 10 Abs. 5: Zur Geltung vgl. § 57a Abs. 1 Satz 2 +++)
 
 # § 11 – Erlaubnis für das Betreiben von E-Geld-Geschäften; Verordnungsermächtigung
 

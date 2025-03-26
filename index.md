@@ -43,6 +43,7 @@
 - [AdG](laws/AdG.md) Gesetz über die Annahme als Kind und zur Änderung anderer Vorschriften
 - [AdKG](laws/AdKG.md) Gesetz zur Errichtung der Akademie der Künste
 - [AdLDAV](laws/AdLDAV.md) Verordnung zur Durchführung des § 61a des Gesetzes über die Alterssicherung der Landwirte
+- [ADLV](laws/ADLV.md) Verordnung über die Laufbahnen des Auswärtigen Dienstes
 - [ADR](laws/ADR.md) Europäisches Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Straße
 - [ADRÄndProtG](laws/ADRÄndProtG.md) Gesetz zu dem Protokoll vom 28. Oktober 1993 zur Änderung des Europäischen Übereinkommens vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR)
 - [ADRG](laws/ADRG.md) Gesetz zu dem Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR)
@@ -1350,6 +1351,7 @@
 - [BZollVÜV](laws/BZollVÜV.md) Verordnung über die Übertragung von Hoheitsaufgaben der Bundeszollverwaltung auf die Eisenbahnen des Bundes
 - [BZRG](laws/BZRG.md) Gesetz über das Zentralregister und das Erziehungsregister
 - [BZuschV 2022](laws/BZuschV_2022.md) Verordnung zur Festsetzung des ergänzenden Bundeszuschusses nach § 221a Absatz 3 Satz 3 des Fünften Buches Sozialgesetzbuch für das Jahr 2022
+- [C5GleichwV](laws/C5GleichwV.md) Verordnung über gleichwertige Sicherheitsnachweise zum C5-Standard für Cloud-Computing-Dienste im Gesundheitswesen
 - [CCDAfrikaÜbk](laws/CCDAfrikaÜbk.md) Übereinkommen der Vereinten Nationen zur Bekämpfung der Wüstenbildung in den von Dürre und/oder Wüstenbildung schwer betroffenen Ländern, insbesondere in Afrika
 - [CCDSekrSitzAbkG](laws/CCDSekrSitzAbkG.md) Gesetz zu dem Abkommen vom 18. August 1998 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Übereinkommens der Vereinten Nationen zur Bekämpfung der Wüstenbildung über den Sitz des Ständigen Sekretariats des Übereinkommens
 - [ChemBioLackAusbV 2009](laws/ChemBioLackAusbV_2009.md) Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie und Lack *)
@@ -2334,6 +2336,7 @@
 - [G Artikel 29 Abs. 7](laws/G_Artikel_29_Abs._7.md) Gesetz über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes
 - [G21 BY](laws/G21_BY.md) Gesetz Nr. 21 zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege
 - [GAD](laws/GAD.md) Gesetz über den Auswärtigen Dienst
+- [GADVDV](laws/GADVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen Auswärtigen Dienst
 - [GärtnAusbV](laws/GärtnAusbV.md) Verordnung über die Berufsausbildung zum Gärtner/zur Gärtnerin
 - [GaFG](laws/GaFG.md) Gesetz zur Errichtung des Sondervermögens „Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter“
 - [GaFinHG](laws/GaFinHG.md) Gesetz über Finanzhilfen des Bundes zum Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter
@@ -2697,6 +2700,7 @@
 - [GWStatG](laws/GWStatG.md) Gesetz über die Statistik zu globalen Wertschöpfungsketten
 - [GZKtgRindFlV 1989](laws/GZKtgRindFlV_1989.md) Verordnung über die Grundsätze für die Verteilung der deutschen Quote des Gemeinschaftszollkontingents 1989 für gefrorenes Rindfleisch
 - [HaagÜbkAG](laws/HaagÜbkAG.md) Gesetz zur Ausführung des Haager Übereinkommens vom 15. November 1965 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke im Ausland in Zivil- oder Handelssachen und des Haager Übereinkommens vom 18. März 1970 über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
+- [HADVDV](laws/HADVDV.md) Verordnung über den Vorbereitungsdienst für den höheren Auswärtigen Dienst
 - [HärteV](laws/HärteV.md) Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz
 - [HafenlogAusbV](laws/HafenlogAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Hafenlogistik
 - [HafenSchAusbV](laws/HafenSchAusbV.md) Verordnung über die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
@@ -3373,13 +3377,10 @@
 - [LandBauMTAusbV 2008](laws/LandBauMTAusbV_2008.md) Verordnung über die Berufsausbildung zum Land- und Baumaschinenmechatroniker und zur Land- und Baumaschinenmechatronikerin
 - [LAnzV](laws/LAnzV.md) Verordnung zur Konkretisierung von Art, Umfang und Form der Mitteilungen und Benachrichtigungen gemäß Artikel 17 Absatz 5, 6, 9 und 10 der Verordnung (EU) Nr. 236/2012
 - [LAP-gbautDV](laws/LAP-gbautDV.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen bautechnischen Verwaltungsdienst des Bundes
-- [LAP-gehDAAV 2004](laws/LAP-gehDAAV_2004.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Auswärtigen Dienst
 - [LAP-gehDEUKV](laws/LAP-gehDEUKV.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen technischen Dienst bei der Eisenbahn-Unfallkasse
-- [LAP-hADV 2004](laws/LAP-hADV_2004.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Auswärtigen Dienst
 - [LAP-hDBiblV](laws/LAP-hDBiblV.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Dienst an wissenschaftlichen Bibliotheken des Bundes
 - [LAP-hDEUKV](laws/LAP-hDEUKV.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen Dienst bei der Eisenbahn-Unfallkasse
 - [LAP-htVerwDV](laws/LAP-htVerwDV.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen Verwaltungsdienst des Bundes
-- [LAP-mDAAV 2004](laws/LAP-mDAAV_2004.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Auswärtigen Dienst
 - [LAP-mftDBwV](laws/LAP-mftDBwV.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren feuerwehrtechnischen Dienst in der Bundeswehr
 - [LArbWoV](laws/LArbWoV.md) Verordnung über Steuervergünstigungen zur Förderung des Baues von Landarbeiterwohnungen
 - [LastG](laws/LastG.md) Gesetz zur Lastentragung im Bund-Länder-Verhältnis bei Verletzung von supranationalen oder völkerrechtlichen Verpflichtungen
@@ -3623,6 +3624,7 @@
 - [MAbkMadridProtÄnd](laws/MAbkMadridProtÄnd.md) Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken, angenommen in Madrid am 27. Juni 1989
 - [MaBV](laws/MaBV.md) Verordnung über die Pflichten der Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer und Wohnimmobilienverwalter
 - [MADG](laws/MADG.md) Gesetz über den militärischen Abschirmdienst
+- [MADVDV](laws/MADVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren Auswärtigen Dienst
 - [MahnVordrV](laws/MahnVordrV.md) Verordnung zur Einführung von Vordrucken für das Mahnverfahren
 - [MainDonWasStrG 2](laws/MainDonWasStrG_2.md) Zweites Gesetz über den rechtlichen Status der Main-Donau-Wasserstraße
 - [MaisPflSchMV](laws/MaisPflSchMV.md) Verordnung über das Inverkehrbringen und die Aussaat von mit bestimmten Pflanzenschutzmitteln behandeltem Maissaatgut*)
