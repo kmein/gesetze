@@ -163,7 +163,7 @@
 
 # § 3 – Wehrdienstzeit
 
-(1) Wehrdienstzeit ist die Zeit vom Tag des tatsächlichen Diensteintritts bis zum Ablauf des Tages, an dem das Dienstverhältnis endet. Der Grundwehrdienst wird jedoch mit seiner gesetzlich festgesetzten Dauer, die Probezeit des freiwilligen Wehrdienstes nach § 58b des Soldatengesetzes mit sechs Monaten angerechnet. Nicht angerechnet wird die Zeit, um deren Dauer sich der Tag der Beendigung des Wehrdienstverhältnisses nach § 56 Absatz 2 Satz 3 der Wehrdisziplinarordnung verschiebt. Die für die Versorgung der Soldatinnen auf Zeit und Soldaten auf Zeit maßgebliche Wehrdienstzeit beginnt für diejenigen, die am 3. Oktober 1990 als Berufssoldatin oder Berufssoldat der Nationalen Volksarmee oder Soldatin auf Zeit oder Soldat auf Zeit der Nationalen Volksarmee Soldatinnen oder Soldaten der Bundeswehr geworden sind, abweichend von Satz 1 am Tage ihrer Ernennung zur Soldatin auf Zeit oder zum Soldaten auf Zeit der Bundeswehr.
+(1) Wehrdienstzeit ist die Zeit vom Tag des tatsächlichen Diensteintritts bis zum Ablauf des Tages, an dem das Dienstverhältnis endet. Der Grundwehrdienst wird jedoch mit seiner gesetzlich festgesetzten Dauer, die Probezeit des freiwilligen Wehrdienstes nach § 58b des Soldatengesetzes mit sechs Monaten angerechnet. Nicht angerechnet wird die Zeit, um deren Dauer sich der Tag der Beendigung des Wehrdienstverhältnisses nach § 58 Absatz 2 Satz 3 der Wehrdisziplinarordnung verschiebt. Die für die Versorgung der Soldatinnen auf Zeit und Soldaten auf Zeit maßgebliche Wehrdienstzeit beginnt für diejenigen, die am 3. Oktober 1990 als Berufssoldatin oder Berufssoldat der Nationalen Volksarmee oder Soldatin auf Zeit oder Soldat auf Zeit der Nationalen Volksarmee Soldatinnen oder Soldaten der Bundeswehr geworden sind, abweichend von Satz 1 am Tage ihrer Ernennung zur Soldatin auf Zeit oder zum Soldaten auf Zeit der Bundeswehr.
 
 (2) Bei Anwendung des § 11 ist für Soldatinnen auf Zeit und Soldaten auf Zeit mit Vordienstzeiten in der Nationalen Volksarmee als anrechenbare Wehrdienstzeit auch die Zeit des in der Nationalen Volksarmee geleisteten Wehrdienstes bis zur Dauer des Grundwehrdienstes zu berücksichtigen. Maßgeblich für den Umfang der Anrechnung ist die jeweilige Dauer des Grundwehrdienstes im früheren Bundesgebiet im Zeitpunkt der Begründung des Wehrdienstverhältnisses in der Nationalen Volksarmee.
 
@@ -505,7 +505,7 @@ Beitragszuschussempfängerinnen und Beitragszuschussempfänger nach Satz 1, dene
 
 (2) Die Übergangsbeihilfe beträgt für Soldatinnen auf Zeit und Soldaten auf Zeit, die nicht Inhaberinnen oder Inhaber eines Eingliederungsscheins oder Zulassungsscheins (§ 13) sind, nach einer Wehrdienstzeit von
 
-<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 9%" />
 <col style="width: 56%" />
@@ -993,7 +993,7 @@ Die Erhöhung ist kaufmännisch auf zwei Dezimalstellen zu runden; der erhöhte 
 
 # § 42 – Unfallruhegehalt
 
-(1) Auf eine Berufssoldatin oder einen Berufssoldaten, die oder der wegen Dienstunfähigkeit infolge eines Dienstunfalles in den Ruhestand versetzt worden ist, sind die §§ 36, 37, 44 Absatz 1 und 2 sowie die §§ 45 und 87 des Beamtenversorgungsgesetzes entsprechend anzuwenden. In den Fällen des § 37 des Beamtenversorgungsgesetzes bemisst sich das Unfallruhegehalt für Berufssoldatinnen und Berufssoldaten in der Laufbahngruppe der Unteroffizierinnen und Unteroffiziere und für Berufssoldatinnen und Berufssoldaten mit dem Dienstgrad Fähnrich oder Oberfähnrich mindestens nach der Besoldungsgruppe A 9, für Berufsoffizierinnen und Berufsoffiziere mindestens nach der Besoldungsgruppe A 12, jedoch für Stabsoffizierinnen, Stabsoffiziere, Offizierinnen des Sanitätsdienstes und Offiziere des Sanitätsdienstes mindestens nach der Besoldungsgruppe A 16. Im Übrigen gelten die Vorschriften über das Ruhegehalt.
+(1) Auf eine Berufssoldatin oder einen Berufssoldaten, die oder der wegen Dienstunfähigkeit infolge eines als Berufssoldatin oder Berufssoldat oder als Soldatin auf Zeit oder als Soldat auf Zeit erlittenen Dienstunfalles in den Ruhestand versetzt worden ist, sind die §§ 36, 37, 44 Absatz 1 und 2 sowie die §§ 45 und 87 des Beamtenversorgungsgesetzes entsprechend anzuwenden. In den Fällen des § 37 des Beamtenversorgungsgesetzes bemisst sich das Unfallruhegehalt für Berufssoldatinnen und Berufssoldaten in der Laufbahngruppe der Unteroffizierinnen und Unteroffiziere und für Berufssoldatinnen und Berufssoldaten mit dem Dienstgrad Fähnrich oder Oberfähnrich mindestens nach der Besoldungsgruppe A 9, für Berufsoffizierinnen und Berufsoffiziere mindestens nach der Besoldungsgruppe A 12, jedoch für Stabsoffizierinnen, Stabsoffiziere, Offizierinnen des Sanitätsdienstes und Offiziere des Sanitätsdienstes mindestens nach der Besoldungsgruppe A 16. Im Übrigen gelten die Vorschriften über das Ruhegehalt.
 
 (2) Dienstunfall ist ein auf äußerer Einwirkung beruhendes, plötzliches, örtlich und zeitlich bestimmbares, einen Körperschaden verursachendes Ereignis, das in Ausübung des Dienstes eingetreten ist. Zum Dienst gehören auch
 
@@ -1001,9 +1001,9 @@ Die Erhöhung ist kaufmännisch auf zwei Dezimalstellen zu runden; der erhöhte 
 
 2. die Teilnahme an dienstlichen Veranstaltungen,
 
-3. Nebentätigkeiten im öffentlichen Dienst oder in dem ihm gleichstehenden Dienst, zu deren Übernahme die Berufssoldatin oder der Berufssoldat gemäß § 20 Absatz 7 des Soldatengesetzes in Verbindung mit § 98 des Bundesbeamtengesetzes verpflichtet ist oder Nebentätigkeiten, deren Wahrnehmung von ihr oder ihm im Zusammenhang mit den Dienstgeschäften erwartet wird, sofern die Berufssoldatin oder der Berufssoldat hierbei nicht in der gesetzlichen Unfallversicherung versichert ist (§ 2 des Siebten Buches Sozialgesetzbuch).
+3. Nebentätigkeiten im öffentlichen Dienst oder in dem ihm gleichstehenden Dienst, zu deren Übernahme die Soldatin oder der Soldat gemäß § 20 Absatz 7 des Soldatengesetzes in Verbindung mit § 98 des Bundesbeamtengesetzes verpflichtet ist oder Nebentätigkeiten, deren Wahrnehmung von ihr oder ihm im Zusammenhang mit den Dienstgeschäften erwartet wird, sofern die Soldatin oder der Soldat hierbei nicht in der gesetzlichen Unfallversicherung versichert ist (§ 2 des Siebten Buches Sozialgesetzbuch).
 
-(3) Als Dienst gilt auch das Zurücklegen des mit dem Dienst zusammenhängenden Weges zu und von der Dienststelle. Hat die Berufssoldatin oder der Berufssoldat wegen der Entfernung ihrer oder seiner ständigen Familienwohnung vom Dienstort an diesem oder in dessen Nähe eine Unterkunft, so gilt Satz 1 auch für den Weg zwischen der Familienwohnung und der Dienststelle. Der Zusammenhang mit dem Dienst gilt als nicht unterbrochen, wenn die Berufssoldatin oder der Berufssoldat
+(3) Als Dienst gilt auch das Zurücklegen des mit dem Dienst zusammenhängenden Weges zu und von der Dienststelle. Hat die Soldatin oder der Soldat wegen der Entfernung ihrer oder seiner ständigen Familienwohnung vom Dienstort an diesem oder in dessen Nähe eine Unterkunft, so gilt Satz 1 auch für den Weg zwischen der Familienwohnung und der Dienststelle. Der Zusammenhang mit dem Dienst gilt als nicht unterbrochen, wenn die Soldatin oder der Soldat
 
 1. von dem unmittelbaren Weg zwischen der Wohnung und der Dienststelle in vertretbarem Umfang abweicht,
 
@@ -1015,11 +1015,11 @@ b) weil sie oder er mit anderen berufstätigen oder in der gesetzlichen Unfallve
 
 Ein Unfall, den die Verletzte oder der Verletzte bei der Gewährung der unentgeltlichen truppenärztlichen Versorgung oder auf einem hierzu notwendigen Wege erleidet, gilt als Folge eines Dienstunfalles. Satz 4 gilt entsprechend, wenn die Verletzte oder der Verletzte dem Verlangen einer zuständigen Behörde oder eines Gerichts, wegen der Dienstunfallversorgung persönlich zu erscheinen, folgt und dabei einen Unfall erleidet.
 
-(4) Erkrankt eine Berufssoldatin oder ein Berufssoldat, die oder der wegen der Art ihrer oder seiner dienstlichen Verrichtungen der Gefahr der Erkrankung an einer bestimmten Krankheit besonders ausgesetzt ist, an dieser Krankheit, so gilt die Erkrankung als Dienstunfall, es sei denn, dass die Berufssoldatin oder der Berufssoldat sich die Krankheit außerhalb des Dienstes zugezogen hat. Die Erkrankung gilt jedoch stets als Dienstunfall, wenn sie durch gesundheitsschädigende Verhältnisse verursacht worden ist, denen die Berufssoldatin oder der Berufssoldat am Ort ihres oder seines dienstlich angeordneten Aufenthalts im Ausland besonders ausgesetzt war. Als Krankheiten im Sinne des Satzes 1 kommen die in Anlage 1 zur Berufskrankheiten-Verordnung vom 31. Oktober 1997 (BGBl. I S. 2623) in der jeweils geltenden Fassung genannten Krankheiten mit den dort bezeichneten Maßgaben in Betracht. Für die Feststellung einer Krankheit als Dienstunfall sind auch den Versicherungsschutz nach § 2, § 3 oder § 6 des Siebten Buches Sozialgesetzbuch begründende Tätigkeiten zu berücksichtigen, wenn sie ihrer Art nach geeignet waren, die Krankheit zu verursachen, und die schädigende Einwirkung überwiegend durch dienstliche Verrichtungen nach Satz 1 verursacht worden ist.
+(4) Erkrankt eine Soldatin oder ein Soldat, die oder der wegen der Art ihrer oder seiner dienstlichen Verrichtungen der Gefahr der Erkrankung an einer bestimmten Krankheit besonders ausgesetzt ist, an dieser Krankheit, so gilt die Erkrankung als Dienstunfall, es sei denn, dass die Soldatin oder der Soldat sich die Krankheit außerhalb des Dienstes zugezogen hat. Die Erkrankung gilt jedoch stets als Dienstunfall, wenn sie durch gesundheitsschädigende Verhältnisse verursacht worden ist, denen die Soldatin oder der Soldat am Ort ihres oder seines dienstlich angeordneten Aufenthalts im Ausland besonders ausgesetzt war. Als Krankheiten im Sinne des Satzes 1 kommen die in Anlage 1 zur Berufskrankheiten-Verordnung vom 31. Oktober 1997 (BGBl. I S. 2623) in der jeweils geltenden Fassung genannten Krankheiten mit den dort bezeichneten Maßgaben in Betracht. Für die Feststellung einer Krankheit als Dienstunfall sind auch den Versicherungsschutz nach § 2, § 3 oder § 6 des Siebten Buches Sozialgesetzbuch begründende Tätigkeiten zu berücksichtigen, wenn sie ihrer Art nach geeignet waren, die Krankheit zu verursachen, und die schädigende Einwirkung überwiegend durch dienstliche Verrichtungen nach Satz 1 verursacht worden ist.
 
-(5) Dem durch Dienstunfall verursachten Körperschaden gleichzuachten ist ein Körperschaden, den eine Berufssoldatin oder ein Berufssoldat außerhalb ihres oder seines Dienstes erleidet, wenn sie oder er im Hinblick auf ihr oder sein pflichtgemäßes dienstliches Verhalten oder wegen ihrer oder seiner Eigenschaft als Berufssoldatin oder Berufssoldat angegriffen wird. Gleichzuachten ist ferner ein Körperschaden, den eine Berufssoldatin oder ein Berufssoldat im Ausland erleidet, wenn sie oder er bei Kriegshandlungen, Aufruhr oder Unruhen, denen sie oder er am Ort ihres oder seines dienstlich angeordneten Aufenthalts im Ausland besonders ausgesetzt war, angegriffen wird.
+(5) Dem durch Dienstunfall verursachten Körperschaden gleichzuachten ist ein Körperschaden, den eine Soldatin oder ein Soldat außerhalb ihres oder seines Dienstes erleidet, wenn sie oder er im Hinblick auf ihr oder sein pflichtgemäßes dienstliches Verhalten oder wegen ihrer oder seiner Eigenschaft als Soldatin oder Soldat angegriffen wird. Gleichzuachten ist ferner ein Körperschaden, den eine Soldatin oder ein Soldat im Ausland erleidet, wenn sie oder er bei Kriegshandlungen, Aufruhr oder Unruhen, denen sie oder er am Ort ihres oder seines dienstlich angeordneten Aufenthalts im Ausland besonders ausgesetzt war, angegriffen wird.
 
-(6) Einer Berufssoldatin oder einem Berufssoldaten, die oder der zur Wahrnehmung einer Tätigkeit, die öffentlichen Belangen oder dienstlichen Interessen dient, beurlaubt worden ist und in Ausübung dieser Tätigkeit einen Körperschaden erleidet, kann Versorgung nach dieser Vorschrift gewährt werden.
+(6) Einer Soldatin oder einem Soldaten, die oder der zur Wahrnehmung einer Tätigkeit, die öffentlichen Belangen oder dienstlichen Interessen dient, beurlaubt worden ist und in Ausübung dieser Tätigkeit einen Körperschaden erleidet, kann Versorgung nach dieser Vorschrift gewährt werden.
 
 # § 43 – Allgemeines
 
@@ -1755,7 +1755,7 @@ Entschädigungsleistungen nach dem Soldatenentschädigungsgesetz bleiben unberü
 
 # § 88 – Unfallruhegehalt
 
-Einer Berufssoldatin oder einem Berufssoldaten, die oder der einen Einsatzunfall im Sinne von § 87 Absatz 2 erleidet, wird Unfallruhegehalt nach § 42 dieses Gesetzes in Verbindung mit § 37 Absatz 1 des Beamtenversorgungsgesetzes gewährt, wenn sie oder er auf Grund dieses Einsatzunfalls dienstunfähig geworden und in den Ruhestand versetzt worden und im Zeitpunkt der Versetzung in den Ruhestand infolge des Einsatzunfalls in ihrer oder seiner Erwerbsfähigkeit um mindestens 50 Prozent beschränkt ist.
+Einer Berufssoldatin oder einem Berufssoldaten, die oder der als Berufssoldatin oder als Berufssoldat oder als Soldatin auf Zeit oder als Soldat auf Zeit einen Einsatzunfall im Sinne von § 87 Absatz 2 erlitten hat, wird Unfallruhegehalt nach § 42 dieses Gesetzes in Verbindung mit § 37 Absatz 1 des Beamtenversorgungsgesetzes gewährt, wenn sie oder er auf Grund dieses Einsatzunfalls dienstunfähig geworden und in den Ruhestand versetzt worden und im Zeitpunkt der Versetzung in den Ruhestand infolge des Einsatzunfalls in ihrer oder seiner Erwerbsfähigkeit um mindestens 50 Prozent beschränkt ist.
 
 # § 89 – Einmalige Entschädigung
 
@@ -1769,13 +1769,15 @@ Erleidet eine Soldatin oder ein Soldat einen Einsatzunfall im Sinne von § 87 Ab
 
 2. im Falle einer Weiterverwendung deren Beendigung.
 
-(2) Die Ausgleichszahlung beträgt 30 000 Euro. Sie erhöht sich für Soldatinnen auf Zeit und Soldaten auf Zeit um 6 000 Euro für jedes vor dem Einsatzunfall zurückgelegte Dienstjahr als Soldatin oder Soldat, für jeden weiteren vor dem Einsatzunfall vollendeten Dienstmonat um 500 Euro. Für nach § 58b und dem Vierten Abschnitt des Soldatengesetzes Wehrdienstleistende erhöht sie sich für jeden vor dem Einsatzunfall vollendeten Dienstmonat um 500 Euro. Für Zeiten der Beurlaubung ohne Dienstbezüge oder Wehrsold werden von der Erhöhung für jeweils 30 Tage Urlaub 500 Euro abgezogen. Der Abzug entfällt für die Zeit
+(2) Die Ausgleichszahlung beträgt 50 000 Euro. Sie erhöht sich für Soldatinnen auf Zeit und Soldaten auf Zeit um 7 500 Euro für jedes vor dem Einsatzunfall zurückgelegte Dienstjahr als Soldatin oder Soldat, für jeden weiteren vor dem Einsatzunfall vollendeten Dienstmonat um 625 Euro. Für nach § 58b und dem Vierten Abschnitt des Soldatengesetzes Wehrdienstleistende erhöht sie sich für jeden vor dem Einsatzunfall vollendeten Dienstmonat um 625 Euro. Für Zeiten der Beurlaubung ohne Dienstbezüge oder Wehrsold werden von der Erhöhung für jeweils 30 Tage Urlaub 625 Euro abgezogen. Der Abzug entfällt für die Zeit
 
-1. einer Beurlaubung, die öffentlichen Belangen oder dienstlichen Interessen dient,
+1. einer Beurlaubung, die öffentlichen Belangen oder Interessen dient,
 
-2. einer Freistellung wegen Kindererziehung bis zu einer Dauer von drei Jahren für jedes Kind.
+2. einer Elternzeit,
 
-Bei der Berechnung der Erhöhung der Ausgleichszahlung bleiben früher abgeleistete Dienstverhältnisse unberücksichtigt.
+3. einer Freistellung wegen Kindererziehungszeiten bis zu einer Dauer von drei Jahren für jedes Kind und
+
+4. der tatsächlichen Betreuung und Pflege eines nach einem ärztlichen Gutachten pflegebedürftigen Angehörigen.
 
 (3) Für andere Angehörige des Geschäftsbereichs des Bundesministeriums der Verteidigung gelten die Absätze 1 und 2 entsprechend mit der Maßgabe, dass als Ausgleichszahlung nur der Grundbetrag nach Absatz 2 Satz 1 gewährt wird. Ist die oder der andere Angehörige des Geschäftsbereichs des Bundesministeriums der Verteidigung an den Folgen des Einsatzunfalls gestorben und hat sie oder er eine Ausgleichszahlung nach Absatz 1 nicht erhalten, steht die Ausgleichszahlung der hinterbliebenen Ehegattin oder dem hinterbliebenen Ehegatten und den nach diesem Gesetz versorgungsberechtigten Kindern zu.
 
@@ -2435,6 +2437,14 @@ In den Fällen des § 81 Satz 2 des Bundesbesoldungsgesetzes ist Nummer 1 nicht 
 # § 134 – Übergangsregelung zur Anerkennung einer besonderen Auslandsverwendung als ruhegehaltfähige Dienstzeit
 
 Für Versorgungsfälle, die vor dem 13. Dezember 2011 eingetreten sind, gilt § 109 des Soldatenversorgungsgesetzes in der bis zum 31. Dezember 2024 geltenden Fassung.
+
+# § 135 – Übergangsregelung aus Anlass des Gesetzes zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr
+
+(1) Für am 1. April 2025 vorhandene Soldatinnen im Ruhestand und Soldaten im Ruhestand, die nicht bereits ein Unfallruhegehalt oder ein erhöhtes Unfallruhegehalt erhalten, gelten die §§ 42 und 88. Hat die Soldatin im Ruhestand oder der Soldat im Ruhestand eine Ausgleichszahlung nach § 63f des Soldatenversorgungsgesetzes in der bis zum 31. Dezember 2024 geltenden Fassung oder nach § 90 oder eine Kompensationszahlung nach § 85a erhalten, so wird das erhöhte Unfallruhegehalt monatlich um 250 Euro gekürzt, bis der Betrag der gewährten Ausgleichs- oder Kompensationszahlung erreicht ist. Beträgt der Unterschiedsbetrag zwischen dem erhöhten Unfallruhegehalt und dem zuletzt bezogenen Ruhegehalt weniger als 250 Euro im Monat, wird das erhöhte Unfallruhegehalt nur bis zur Höhe des Unterschiedsbetrags gekürzt. Der Betrag der gewährten Ausgleichs- oder Kompensationszahlung ist zuvor um 250 Euro für jeden Monat, der zwischen der Auszahlung der Ausgleichs- oder Kompensationszahlung und dem Beginn der Gewährung des erhöhten Unfallruhegehaltes liegt, zu mindern.
+
+(2) Die Leistungen werden ab dem Ersten des Monats gewährt, in dem ein schriftlicher oder elektronischer Antrag von der Soldatin im Ruhestand oder dem Soldaten im Ruhestand bei der für die Festsetzung der Versorgungsbezüge zuständigen Stelle gestellt wurde. Eine Nachzahlung für davorliegende Zeiträume erfolgt nicht.
+
+(3) Auf am 1. April 2025 vorhandene Hinterbliebene, die bisher keine Unfall-Hinterbliebenenversorgung erhalten, ist § 59 anzuwenden, wenn die Berufssoldatin oder der Berufssoldat die Voraussetzungen des § 42 oder § 88 erfüllt hätte. Absatz 2 gilt entsprechend.
 
 # Anlage – Anlage I Kapitel XIX Sachgebiet B Abschnitt III des Einigungsvertrags
 

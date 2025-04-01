@@ -7,7 +7,7 @@
 
 (1) Soldatinnen und Soldaten, die sich in der Grundausbildung befinden, wählen Vertrauenspersonen nach § 4 Absatz 3 Nummer 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes.
 
-(2) Sobald bei einer Wählergruppe nach § 4 Absatz 1 Satz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes die Voraussetzungen für eine Zuteilung nach § 4 Absatz 6 des Soldatinnen- und Soldatenbeteiligungsgesetzes vorliegen, meldet die oder der Disziplinarvorgesetzte dies unverzüglich der zuständigen Kommandobehörde. Gleichzeitig legt sie oder er einen Vorschlag vor, welcher Dienststelle oder Einheit die Wahlberechtigten zugeteilt werden sollen. Die Zuteilung durch die zuständige Kommandobehörde wird mit Bekanntgabe der Entscheidung an die Disziplinarvorgesetzte oder den Disziplinarvorgesetzten wirksam. Die Kommandos der militärischen Organisationsbereiche sollen für wiederkehrende Fälle allgemeine Regelungen treffen.
+(2) Sobald bei einer Wählergruppe nach § 4 Absatz 1 Satz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes die Voraussetzungen für eine Zuteilung nach § 4 Absatz 6 des Soldatinnen- und Soldatenbeteiligungsgesetzes vorliegen, meldet die oder der Disziplinarvorgesetzte dies unverzüglich der zuständigen Kommandobehörde. Gleichzeitig legt sie oder er einen Vorschlag vor, welcher Dienststelle oder Einheit die Wahlberechtigten zugeteilt werden sollen. Die Zuteilung durch die zuständige Kommandobehörde wird mit Bekanntgabe der Entscheidung an die Disziplinarvorgesetzte oder den Disziplinarvorgesetzten wirksam. Die Kommandos im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes sollen für wiederkehrende Fälle allgemeine Regelungen treffen.
 
 # § 2 – Zuständige Disziplinarvorgesetzte
 
@@ -323,9 +323,9 @@ Gehen auch danach keine Wahlvorschläge ein, ist das Wahlverfahren abzubrechen. 
 
 # § 20 – Wahlvorstände
 
-(1) Der zentrale Wahlvorstand bildet im Einvernehmen mit den Organisationsbereichen dezentrale Wahlvorstände
+(1) Der zentrale Wahlvorstand bildet im Einvernehmen mit den militärischen Kommandobereichen und Organisationsbereichen dezentrale Wahlvorstände
 
-1. bei den Kommandos der militärischen Organisationsbereiche,
+1. bei den Kommandos im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes,
 
 2. bei den Bundesämtern der zivilen Organisationsbereiche,
 
@@ -343,13 +343,13 @@ Gehen auch danach keine Wahlvorschläge ein, ist das Wahlverfahren abzubrechen. 
 
 (4) Die dezentralen Wahlvorstände sollen aus je einer Soldatin oder einem Soldaten jeder Laufbahngruppe bestehen. Die Mitglieder und Ersatzmitglieder werden in ihr Amt berufen von
 
-1. den Inspekteurinnen und Inspekteuren der militärischen Organisationsbereiche,
+1. den jeweiligen Inspekteurinnen oder Inspekteuren der Kommandos im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes oder den jeweiligen Inhaberinnen oder Inhabern einer entsprechenden Dienststellung,
 
-2. den Leiterinnen und Leitern der Bundesämter der zivilen Organisationsbereiche,
+2. von den jeweiligen Leiterinnen oder Leitern der Bundesämter der zivilen Organisationsbereiche,
 
-3. den Kommandeurinnen und Kommandeuren der Großverbände oder
+3. den jeweiligen Kommandeurinnen oder Kommandeuren der Großverbände oder
 
-4. den Leiterinnen und Leitern vergleichbarer Dienststellen, bei denen dezentrale Wahlvorstände gebildet werden.
+4. den jeweiligen Leiterinnen oder Leitern vergleichbarer Dienststellen, bei denen dezentrale Wahlvorstände gebildet werden.
 
 (5) Soweit erforderlich, sind die Mitglieder der Wahlvorstände für die Durchführung der Wahl von ihrer dienstlichen Tätigkeit freizustellen.
 
@@ -373,21 +373,27 @@ Gehen auch danach keine Wahlvorschläge ein, ist das Wahlverfahren abzubrechen. 
 
 # § 23 – Sitzverteilung
 
-(1) Der zentrale Wahlvorstand stellt für jede Laufbahngruppe die Sitze im Gesamtvertrauenspersonenausschuss fest, die entfallen
+(1) Der zentrale Wahlvorstand stellt für jede Laufbahngruppe die Sitze im Gesamtvertrauenspersonenausschuss fest, die
 
-1. auf die militärischen Organisationsbereiche und
+1. auf die jeweiligen Kommandobereiche im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes entfallen und
 
-2. auf die Dienststellen, die keinem militärischen Organisationsbereich angehören.
+2. auf die Dienststellen gemeinsam entfallen, die keinem Kommandobereich im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes angehören.
 
-(2) Für die Verteilung ist das Höchstzahlverfahren nach d‘Hondt mit der Maßgabe anzuwenden, dass jeder militärische Organisationsbereich durch mindestens ein Mitglied vertreten ist. Die Dienststellen, die keinem militärischen Organisationsbereich angehören, sollen gemeinsam durch mindestens ein Mitglied vertreten sein. Für die Berechnung der Anzahl der auf den jeweiligen militärischen Organisationsbereich entfallenden Mitglieder ist die Zahl der in der Regel beschäftigten Soldatinnen und Soldaten zu Grunde zu legen, soweit sie in den militärischen Organisationsbereichen und in Dienststellen, die keinem militärischen Organisationsbereich angehören, zur Wahl von Vertrauenspersonen berechtigt sind. Stichtag für die Berechnung ist der Tag der Bestellung des zentralen Wahlvorstands.
+(2) Für die Verteilung ist das Höchstzahlverfahren nach d´Hondt mit der Maßgabe anzuwenden, dass
 
-(3) Entfallen nach Absatz 2 auf einen militärischen Organisationsbereich mehrere Sitze, werden diese im Höchstzahlverfahren nach d'Hondt weiter auf die Laufbahngruppen des militärischen Organisationsbereichs verteilt. Erhält hierbei eine Laufbahngruppe, der mindestens 5 Prozent der nach Absatz 2 zu berücksichtigenden Soldatinnen und Soldaten angehören, keinen Sitz, so ist ihr ein Mindestsitz zuzuteilen; die Sitze der übrigen Laufbahngruppen vermindern sich entsprechend. Bei gleichen Höchstzahlen entscheidet das von der oder dem Vorsitzenden des zentralen Wahlvorstands zu ziehende Los, welche Laufbahngruppe den Sitz abzugeben hat. Satz 2 gilt nicht, soweit
+1. jeder Kommandobereich im Sinne des Absatzes 1 Nummer 1 durch mindestens ein Mitglied vertreten ist und
+
+2. die Dienststellen im Sinne des Absatzes 1 Nummer 2 gemeinsam durch mindestens ein Mitglied vertreten sein sollen.
+
+Für die Berechnung der Anzahl der auf den jeweiligen Kommandobereich im Sinne des Absatzes 1 Nummer 1 und auf die Dienststellen im Sinne des Absatzes 1 Nummer 2 gemeinsam entfallenden Mitglieder ist die Zahl der in der Regel beschäftigten Soldatinnen und Soldaten zu Grunde zu legen, soweit sie in den Kommandobereichen und Organisationsbereichen zur Wahl von Vertrauenspersonen berechtigt sind. Stichtag für die Berechnung ist der Tag der Bestellung des zentralen Wahlvorstands.
+
+(3) Entfallen nach Absatz 2 auf einen Kommandobereich mehrere Sitze, werden diese im Höchstzahlverfahren nach d´Hondt weiter auf die Laufbahngruppen des Kommandobereichs verteilt. Erhält hierbei eine Laufbahngruppe, der mindestens 5 Prozent der nach Absatz 2 zu berücksichtigenden Soldatinnen und Soldaten angehören, keinen Sitz, so ist ihr ein Mindestsitz zuzuteilen; die Sitze der übrigen Laufbahngruppen vermindern sich entsprechend. Bei gleichen Höchstzahlen entscheidet das von der oder dem Vorsitzenden des zentralen Wahlvorstands zu ziehende Los, welche Laufbahngruppe den Sitz abzugeben hat. Satz 2 gilt nicht, soweit
 
 1. die Anzahl der Sitze vermindert werden müsste, die ihrerseits Mindestsitze sind, oder
 
-2. die Zuteilung eines Mindestsitzes dazu führen würde, dass eine Laufbahngruppe, der mehr als die Hälfte der zu berücksichtigenden Soldatinnen und Soldaten des militärischen Organisationsbereichs angehören, weniger als die Hälfte der Sitze des militärischen Organisationsbereichs erhält.
+2. die Zuteilung eines Mindestsitzes dazu führen würde, dass eine Laufbahngruppe, der mehr als die Hälfte der zu berücksichtigenden Soldatinnen und Soldaten des Kommandobereichs angehören, weniger als die Hälfte der Sitze des Kommandobereichs erhält.
 
-Erhält eine Laufbahngruppe keinen Sitz, weist der zentrale Wahlvorstand sie einer anderen Laufbahngruppe des militärischen Organisationsbereichs zur gemeinsamen Wahl ihrer Vertreterinnen und Vertreter zu.
+Erhält eine Laufbahngruppe keinen Sitz, weist der zentrale Wahlvorstand sie einer anderen Laufbahngruppe des Kommandobereichs zur gemeinsamen Wahl ihrer Vertreterinnen und Vertreter zu.
 
 (+++ § 23: Zur Anwendung vgl. § 29 Abs. 4 +++)
 
@@ -411,7 +417,7 @@ c) den Dienstgrad und
 
 d) die Dienststelle,
 
-2. die Organisationsbereiche sowie die Großverbände und vergleichbaren Dienststellen, bei denen dezentrale Wahlvorstände gebildet werden,
+2. die Kommandobereiche und Organisationsbereiche sowie die Großverbände und vergleichbaren Dienststellen, bei denen dezentrale Wahlvorstande gebildet werden,
 
 3. den Tag, bis zu dem die Bewerbungen einzureichen sind,
 
@@ -487,13 +493,13 @@ Die Bewerberin oder der Bewerber muss die Bewerbung unterschreiben.
 
 (4) Verspätet eingegangene Bewerbungen gibt der dezentrale Wahlvorstand mit einem entsprechenden Vermerk zurück.
 
-(5) Ist nach Ablauf der Frist nach Absatz 1 Satz 2 nicht für alle Organisationsbereiche und Laufbahngruppen, denen jeweils mindestens ein Sitz nach § 23 zusteht, wenigstens eine Bewerbung für jeden Sitz dieses Wahlgangs eingegangen, fordert der zentrale Wahlvorstand die Wahlberechtigten, die sich für diese Sitze bewerben können, auf, sich innerhalb von zwei Wochen zu bewerben. Die Aufforderung erfolgt über die dezentralen Wahlvorstände.
+(5) Ist nach Ablauf der Frist nach Absatz 1 Satz 2 nicht für alle Organisationsbereiche, Kommandobereiche und Laufbahngruppen, denen jeweils mindestens ein Sitz nach § 23 zusteht, wenigstens eine Bewerbung für jeden Sitz dieses Wahlgangs eingegangen, fordert der zentrale Wahlvorstand die Wahlberechtigten, die sich für diese Sitze bewerben können, auf, sich innerhalb von zwei Wochen zu bewerben. Die Aufforderung erfolgt über die dezentralen Wahlvorstände.
 
 # § 29 – Aufstellung und Bekanntgabe der Bewerberliste
 
 (1) Nach Ablauf der Bewerbungsfrist stellt jeder dezentrale Wahlvorstand eine Liste der gültig vorgeschlagenen Bewerberinnen und Bewerber in alphabetischer Reihenfolge auf (Bewerberliste). Die Aufstellung der Bewerberinnen und Bewerber erfolgt getrennt nach Wahlgängen und mit den Angaben nach § 28 Absatz 2 Satz 1. Der dezentrale Wahlvorstand übersendet die Bewerberliste dem zentralen Wahlvorstand.
 
-(2) Nachdem der zentrale Wahlvorstand alle Bewerberlisten erhalten hat, stellt er die Gesamtbewerberliste zusammen. Die Zusammenstellung erfolgt getrennt nach Wahlgängen; § 26 Absatz 5 gilt entsprechend. Jedes Mitglied des Gesamtvertrauenspersonenausschusses, das nicht mehr Vertrauensperson ist, wird der Laufbahngruppe, der es am Tag des Ablaufs der Bewerbungsfrist angehört, und dem Organisationsbereich zugeteilt, für den es in den Gesamtvertrauenspersonenausschuss gewählt worden ist. Der zentrale Wahlvorstand leitet den dezentralen Wahlvorständen die Gesamtbewerberliste zur Bekanntgabe zu.
+(2) Nachdem der zentrale Wahlvorstand alle Bewerberlisten erhalten hat, stellt er die Gesamtbewerberliste zusammen. Die Zusammenstellung erfolgt getrennt nach Wahlgängen; § 26 Absatz 5 gilt entsprechend. Jedes Mitglied des Gesamtvertrauenspersonenausschusses, das nicht mehr Vertrauensperson ist, wird der Laufbahngruppe, der es am Tag des Ablaufs der Bewerbungsfrist angehört, und dem Kommandobereich oder dem Organisationsbereich zugeteilt, für den es in den Gesamtvertrauenspersonenausschuss gewählt worden ist. Der zentrale Wahlvorstand leitet den dezentralen Wahlvorständen die Gesamtbewerberliste zur Bekanntgabe zu.
 
 (3) Die Gesamtbewerberliste ist bekannt zu geben. Die Bekanntgabe erfolgt durch Aushang in den Einheiten und vergleichbaren Dienststellen. Der Aushang muss bis zum Abschluss der Wahl zugänglich sein.
 
@@ -577,7 +583,7 @@ Ungültige Stimmzettel sind von den übrigen Stimmzetteln zu trennen, in einer L
 
 (3) Die Wahlniederschriften werden unverzüglich dem zentralen Wahlvorstand übermittelt. Jeweils eine Kopie der Wahlniederschrift verbleibt bei den dezentralen Wahlvorständen.
 
-(4) Über das Gesamtergebnis erstellt der zentrale Wahlvorstand eine Gesamtwahlniederschrift. Die Feststellung des Gesamtergebnisses ist getrennt nach Organisationsbereichen und Wahlgängen vorzunehmen.
+(4) Über das Gesamtergebnis erstellt der zentrale Wahlvorstand eine Gesamtwahlniederschrift. Die Feststellung des Gesamtergebnisses ist getrennt nach Kommandobereichen, Organisationsbereichen und Wahlgängen vorzunehmen.
 
 (5) Besondere Ereignisse bei der Wahl sind in der Wahlniederschrift und in der Gesamtwahlniederschrift zu vermerken.
 
@@ -589,7 +595,7 @@ Ungültige Stimmzettel sind von den übrigen Stimmzetteln zu trennen, in einer L
 
 # § 35 – Bekanntgabe des Wahlergebnisses
 
-(1) Der zentrale Wahlvorstand gibt dem Bundesministerium der Verteidigung sowie den Organisationsbereichen das Wahlergebnis durch Übermittlung der Gesamtwahlniederschrift nach § 33 Absatz 4 bekannt. Hierbei ist das Ergebnis der Benachrichtigung der gewählten Bewerberinnen und Bewerber nach § 34 zu berücksichtigen.
+(1) Der zentrale Wahlvorstand gibt dem Bundesministerium der Verteidigung sowie den Kommandobereichen und Organisationsbereichen das Wahlergebnis durch Übermittlung der Gesamtwahlniederschrift nach § 33 Absatz 4 bekannt. Hierbei ist das Ergebnis der Benachrichtigung der gewählten Bewerberinnen und Bewerber nach § 34 zu berücksichtigen.
 
 (2) Die Angaben nach Absatz 1 werden in einem internen elektronischen Informationssystem der Bundeswehr veröffentlicht. Das Wahlergebnis gilt als an dem Tag bekannt gegeben, der auf die Veröffentlichung folgt. Das Datum der Veröffentlichung ist durch den zentralen Wahlvorstand zu vermerken.
 
@@ -629,9 +635,9 @@ Ungültige Stimmzettel sind von den übrigen Stimmzetteln zu trennen, in einer L
 
 # § 37 – Wahlvorstand
 
-(1) Neben dem Wahlvorstand nach § 41 Absatz 3 Satz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes können im Einvernehmen zwischen dem Wahlvorstand und den Organisationsbereichen dezentrale Wahlvorstände gebildet werden
+(1) Neben dem Wahlvorstand nach § 41 Absatz 3 Satz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes können im Einvernehmen zwischen dem Wahlvorstand und den Kommandos im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes dezentrale Wahlvorstände gebildet werden
 
-1. bei Dienststellen, die den Kommandos der militärischen Organisationsbereiche nachgeordnet sind, sowie
+1. bei Dienststellen, die den Kommandos im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes nachgeordnet sind, sowie
 
 2. für sicherheitsempfindliche Bereiche.
 
@@ -643,13 +649,13 @@ Der Wahlvorstand nach § 41 Absatz 3 Satz 1 des Soldatinnen- und Soldatenbeteili
 
 # § 38 – Leitung der Wahl
 
-(1) Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der zentrale Wahlvorstand, leitet die Wahl der Vertrauenspersonenausschüsse der militärischen Organisationsbereiche.
+(1) Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der zentrale Wahlvorstand, leitet die Wahl der Vertrauenspersonenausschüsse der Kommandos im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes.
 
 (2) Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der zentrale Wahlvorstand, gibt die Namen seiner Mitglieder und Ersatzmitglieder unverzüglich nach seiner Bestellung bekannt. Die Bekanntgabe erfolgt durch Aushang in den Einheiten und vergleichbaren Dienststellen. Der Aushang muss bis zum Abschluss der Wahl zugänglich sein.
 
 # § 39 – Unterstützung
 
-(1) Das jeweilige Kommando des militärischen Organisationsbereichs, die Stellen, bei denen weitere Wahlvorstände gebildet sind, und alle Vorgesetzten unterstützen den Wahlvorstand bei der Erfüllung seiner Aufgaben. Insbesondere erteilen sie Auskünfte und stellen dem Wahlvorstand die notwendigen Unterlagen und Räume sowie den notwendigen Geschäftsbedarf zur Verfügung.
+(1) Das jeweilige Kommando im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes, die Stellen, bei denen weitere Wahlvorstände gebildet sind, und alle Vorgesetzten unterstützen den Wahlvorstand bei der Erfüllung seiner Aufgaben. Insbesondere erteilen sie Auskünfte und stellen dem Wahlvorstand die notwendigen Unterlagen und Räume sowie den notwendigen Geschäftsbedarf zur Verfügung.
 
 (2) Die Mitglieder und Ersatzmitglieder des Wahlvorstands sind durch Schulungsmaßnahmen auf ihre Aufgaben vorzubereiten.
 
@@ -657,7 +663,7 @@ Der Wahlvorstand nach § 41 Absatz 3 Satz 1 des Soldatinnen- und Soldatenbeteili
 
 (1) Der Wahlvorstand stellt auf der Grundlage von § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes die auf die Laufbahngruppen entfallenden Sitze fest.
 
-(2) Für die Verteilung ist das Höchstzahlverfahren nach d'Hondt mit der Maßgabe anzuwenden, dass jede Laufbahngruppe durch mindestens ein Mitglied vertreten ist. Bei gleichen Höchstzahlen entscheidet das von der oder dem Vorsitzenden des Wahlvorstands zu ziehende Los. Für die Berechnung der Anzahl der auf den jeweiligen Militärischen Organisationsbereich entfallenden Mitglieder ist die Zahl der in der Regel beschäftigten Soldatinnen und Soldaten zu Grunde zu legen, soweit sie in dem jeweiligen militärischen Organisationsbereich zur Wahl von Vertrauenspersonen berechtigt sind. Stichtag für die Berechnung ist der Tag der Bestellung des Wahlvorstands.
+(2) Für die Verteilung ist das Höchstzahlverfahren nach d'Hondt mit der Maßgabe anzuwenden, dass jede Laufbahngruppe durch mindestens ein Mitglied vertreten ist. Bei gleichen Höchstzahlen entscheidet das von der oder dem Vorsitzenden des Wahlvorstands zu ziehende Los. Für die Berechnung der Anzahl der auf den jeweiligen Kommandobereich entfallenden Mitglieder ist die Zahl der in der Regel beschäftigten Soldatinnen und Soldaten zu Grunde zu legen, soweit sie in dem jeweiligen Kommandobereich im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes zur Wahl von Vertrauenspersonen berechtigt sind. Stichtag für die Berechnung ist der Tag der Bestellung des Wahlvorstands.
 
 (+++ § 40: Zur Anwendung vgl. § 46 Abs. 3 +++)
 
@@ -731,7 +737,7 @@ d) die Dienststelle,
 
 # § 45 – Bewerbungen
 
-(1) Jede wahlberechtigte Vertrauensperson eines Wahlbereichs, der für mindestens drei Monate im jeweiligen militärischen Organisationsbereich gebildet wurde, kann sich beim Wahlvorstand bewerben. Die Bewerbung muss bis zur festgesetzten Frist eingehen. Gleiches gilt für die Mitglieder des jeweiligen Vertrauenspersonenausschusses, die keine Vertrauensperson mehr sind.
+(1) Jede wahlberechtigte Vertrauensperson eines Wahlbereichs, der für mindestens drei Monate im jeweiligen Kommandobereich im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes gebildet wurde, kann sich beim Wahlvorstand bewerben. Die Bewerbung muss bis zur festgesetzten Frist eingehen. Gleiches gilt für die Mitglieder des jeweiligen Vertrauenspersonenausschusses, die keine Vertrauensperson mehr sind.
 
 (2) Die Bewerbung muss schriftlich erfolgen und folgende Angaben der Bewerberin oder des Bewerbers enthalten:
 
@@ -847,7 +853,7 @@ Ungültige Stimmzettel sind von den übrigen Stimmzetteln zu trennen, in einer L
 
 # § 52 – Bekanntgabe des Wahlergebnisses
 
-(1) Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der zentrale Wahlvorstand, übermittelt dem Kommando des militärischen Organisationsbereichs die Wahlniederschrift nach § 50 Absatz 2 oder 3. Hierbei ist das Ergebnis der Benachrichtigung der gewählten Bewerberinnen und Bewerber nach § 51 zu berücksichtigen.
+(1) Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der zentrale Wahlvorstand, übermittelt dem Kommando im Sinne des § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes die Wahlniederschrift nach § 50 Absatz 2 oder 3. Hierbei ist das Ergebnis der Benachrichtigung der gewählten Bewerberinnen und Bewerber nach § 51 zu berücksichtigen.
 
 (2) Die Angaben nach Absatz 1 werden in einem internen elektronischen Informationssystem der Bundeswehr veröffentlicht. Das Wahlergebnis gilt als an dem Tag bekannt gegeben, der auf die Veröffentlichung folgt. Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der zentrale Wahlvorstand, hat das Datum der Veröffentlichung in den Wahlunterlagen zu vermerken.
 

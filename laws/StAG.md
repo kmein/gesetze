@@ -115,9 +115,7 @@ oder glaubhaft macht, dass er sich von der früheren Verfolgung oder Unterstütz
 
 1a. sich zur besonderen historischen Verantwortung Deutschlands für die nationalsozialistische Unrechtsherrschaft und ihre Folgen, insbesondere für den Schutz jüdischen Lebens, sowie zum friedlichen Zusammenleben der Völker und dem Verbot der Führung eines Angriffskrieges bekennt,
 
-2. ein unbefristetes Aufenthaltsrecht oder als Staatsangehöriger der Schweiz oder dessen Familienangehöriger eine Aufenthaltserlaubnis auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit, eine Blaue Karte EU oder
-
-eine Aufenthaltserlaubnis für andere als die in den §§ 16a, 16b, 16d, 16e, 16f, 17, 18d, 18f, 19, 19b, 19e, 20, 20a, 22, 23 Absatz 1, den §§ 23a, 24, 25 Absatz 3 bis 5 und § 104c des Aufenthaltsgesetzes aufgeführten Aufenthaltszwecke besitzt,
+2. ein unbefristetes Aufenthaltsrecht oder als Staatsangehöriger der Schweiz oder dessen Familienangehöriger eine Aufenthaltserlaubnis auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit, eine Blaue Karte EU oder einen Aufenthaltstitel für andere als die in den §§ 16a, 16b, 16d, 16e, 16f, 17, 18f, 19, 19b, 19e, 20, 20a, 22, 23a, 24, 25 Absatz 3 bis 5 und § 104c des Aufenthaltsgesetzes aufgeführten Aufenthaltszwecke besitzt,
 
 3. den Lebensunterhalt für sich und seine unterhaltsberechtigten Familienangehörigen ohne Inanspruchnahme von Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch bestreiten kann; von dieser Voraussetzung wird abgesehen, wenn der Ausländer
 
@@ -159,8 +157,7 @@ Die Voraussetzungen nach Satz 1 Nummer 1 und 7 muss ein Ausländer nicht erfüll
 
 (7) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, die Prüfungs- und Nachweismodalitäten des Einbürgerungstests sowie die Grundstruktur und die Lerninhalte des Einbürgerungskurses nach Absatz 5 auf der Basis der Themen des Orientierungskurses nach § 43 Abs. 3 Satz 1 des Aufenthaltsgesetzes durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu regeln.
 
-(+++ § 10 Abs. 1: Zur Anwendung vgl. § 40a +++)  
-§ 10 Abs. 1 Satz 1 Nr. 2 Kursivdruck: Gem. Art. 1 Nr. 6 Buchst. a DBuchst. aa ccc G v. 22.3.2024 I Nr. 104 werden die Wörter "eine Aufenthaltserlaubnis für andere als die in den §§ 16a, 16b, 16d, 16e, 16f, 17, 18d, 18f, 19, 19b, 19e, 20, 22, 23 Absatz 1, den §§ 23a, 24, 25 Absatz 3 bis 5 und § 104c" durch die Wörter "einen Aufenthaltstitel für andere als die in den §§ 16a, 16b, 16d, 16e, 16f, 17, 18f, 19, 19b, 19e, 20, 22, 23a, 24, 25 Absatz 3 bis 5 und § 104c" mWv 27.6.2024 ersetzt. Die Änderungsanweisung ist aufgrund textlicher Unstimmigkeit nicht ausführbar; sie soll unter Mitnahme des § 20a berichtigt werden!
+(+++ § 10 Abs. 1: Zur Anwendung vgl. § 40a +++)
 
 # § 11
 

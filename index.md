@@ -874,6 +874,7 @@
 - [BioStoffV](laws/BioStoffV.md) Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit Biologischen Arbeitsstoffen
 - [BismStiftG](laws/BismStiftG.md) Gesetz über die Errichtung einer Otto-von-Bismarck-Stiftung
 - [BITV 2.0](laws/BITV_2.0.md) Verordnung zur Schaffung barrierefreier Informationstechnik nach dem Behindertengleichstellungsgesetz
+- [BIV](laws/BIV.md) Verordnung zur Stärkung einer integren Allfinanzaufsicht
 - [BIZIHECAbkV](laws/BIZIHECAbkV.md) Verordnung zu dem Abkommen vom 9. Dezember 2022 zwischen der Regierung der Bundesrepublik Deutschland und der Bank für Internationalen Zahlungsausgleich über das BIZ Innovation Hub Eurosystem Centre in Frankfurt am Main
 - [BJagdG](laws/BJagdG.md) Bundesjagdgesetz
 - [BJagdGÄndG](laws/BJagdGÄndG.md) Gesetz zur Änderung des Bundesjagdgesetzes
@@ -948,6 +949,7 @@
 - [BMASZustAnO](laws/BMASZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundesministeriums für Arbeit und Soziales in Angelegenheiten von Besoldung, von Amtsbezügen und nach dem Bundesreisekostengesetz, dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Verordnungen und nach den Beihilfevorschriften des Bundes
 - [BmAusV](laws/BmAusV.md) Verordnung über die Berufsausbildung zum Bogenmacher und zur Bogenmacherin*
 - [BMDV-WS-BesGebV](laws/BMDV-WS-BesGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung
+- [BMDVBeihÜbertrAnO](laws/BMDVBeihÜbertrAnO.md) Anordnung des Bundesministeriums für Digitales und Verkehr zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse
 - [BMDVDelegatAnO](laws/BMDVDelegatAnO.md) Anordnung über die Übertragung beamtenrechtlicher Zuständigkeiten im Geschäftsbereich des Bundesministeriums für Digitales und Verkehr
 - [BMDVTKBGebV](laws/BMDVTKBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für telekommunikationsrechtliche Tätigkeiten
 - [BMELBGebV](laws/BMELBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
@@ -1732,6 +1734,7 @@
 - [EinsatzWVG](laws/EinsatzWVG.md) Gesetz zur Regelung der Weiterverwendung nach Einsatzunfällen
 - [EinSiG](laws/EinSiG.md) Einlagensicherungsgesetz
 - [EinwirkungsBergV](laws/EinwirkungsBergV.md) Bergverordnung über Einwirkungsbereiche
+- [EinwV](laws/EinwV.md) Verordnung über Dienste zur Einwilligungsverwaltung nach dem Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz *
 - [EJG](laws/EJG.md) Gesetz über Eurojust und das Europäische Justizielle Netz in Strafsachen
 - [EJKoV](laws/EJKoV.md) Verordnung über die Koordinierung der Zusammenarbeit mit Eurojust
 - [EJTAnV](laws/EJTAnV.md) Verordnung über die Benennung und Einrichtung der nationalen Eurojust-Anlaufstelle für Terrorismusfragen
@@ -2367,8 +2370,6 @@
 - [GasLastV](laws/GasLastV.md) Verordnung über die Sicherstellung der Gasversorgung
 - [GasNEV](laws/GasNEV.md) Verordnung über die Entgelte für den Zugang zu Gasversorgungsnetzen
 - [GasNZV](laws/GasNZV.md) Verordnung über den Zugang zu Gasversorgungsnetzen
-- [GasSpBefüllV](laws/GasSpBefüllV.md) Verordnung zur Zurverfügungstellung unterbrechbarer Speicherkapazitäten zur Gewährleistung der Versorgungssicherheit
-- [GasSpFüllstV](laws/GasSpFüllstV.md) Verordnung zur Anpassung von Füllstandsvorgaben für Gasspeicheranlagen
 - [GasSV](laws/GasSV.md) Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise
 - [GaStatAusV](laws/GaStatAusV.md) Verordnung zur Aussetzung der Erhebung über Kinder in den Klassenstufen eins bis vier nach dem Achten Buch Sozialgesetzbuch
 - [GastG](laws/GastG.md) Gaststättengesetz
@@ -5764,8 +5765,6 @@
 - [TVG](laws/TVG.md) Tarifvertragsgesetz
 - [TVGDV](laws/TVGDV.md) Verordnung zur Durchführung des Tarifvertragsgesetzes
 - [TVMindestlohn Gerüstb 8](laws/TVMindestlohn_Gerüstb_8.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. August 2023
-- [TVMindestlohn Maler 11](laws/TVMindestlohn_Maler_11.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 16. Dezember 2022
-- [TVMindestlohn VFlughSiK 3](laws/TVMindestlohn_VFlughSiK_3.md) Rechtsnormen des Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 9. April 2024
 - [TVMindestlohnDachd 12](laws/TVMindestlohnDachd_12.md) Rechtsnormen des Tarifvertrages zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. September 2023
 - [TVMindestlohnGebäude 2024](laws/TVMindestlohnGebäude_2024.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer1) in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. November 2024
 - [TVMindestlohnPäda 6](laws/TVMindestlohnPäda_6.md) Rechtsnormen des Tarifvertrags Nr. 7 zur Regelung des Mindestlohns für pädagogisches Personal vom 27. Juli 2022
@@ -6695,7 +6694,6 @@
 - [10. RAG](laws/10._RAG.md) Zehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [11. ÄndG LAG](laws/11._ÄndG_LAG.md) Elftes Gesetz zur Änderung des Lastenausgleichsgesetzes
 - [11. BImSchV](laws/11._BImSchV.md) Elfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über Emissionserklärungen)
-- [11. MalerArbbV](laws/11._MalerArbbV.md) Elfte Verordnung über zwingende Arbeitsbedingungen im Maler- und Lackiererhandwerk
 - [11. ProdSV](laws/11._ProdSV.md) Elfte Verordnung zum Produktsicherheitsgesetz 1
 - [11. RAG](laws/11._RAG.md) Elftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [11. RAV](laws/11._RAV.md) Verordnung zur elften Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1996
@@ -6772,7 +6770,6 @@
 - [3. RAG](laws/3._RAG.md) Drittes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1960
 - [3. RAV](laws/3._RAV.md) Dritte Verordnung zur Anpassung der Renten und zu den maßgeblichen Rechengrößen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 - [3. SprengV](laws/3._SprengV.md) Dritte Verordnung zum Sprengstoffgesetz
-- [3. VFlughSiKArbbV](laws/3._VFlughSiKArbbV.md) Dritte Verordnung über zwingende Arbeitsbedingungen für Sicherheitskräfte an Verkehrsflughäfen
 - [3. WindSeeV](laws/3._WindSeeV.md) Dritte Verordnung zur Durchführung des Windenergie-auf-See-Gesetzes
 - [3. WOMitbestG](laws/3._WOMitbestG.md) Dritte Wahlordnung zum Mitbestimmungsgesetz
 - [30. BImSchV](laws/30._BImSchV.md) Dreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes

@@ -193,7 +193,7 @@ Schlussvorschriften</td>
 
 (1) Dieses Gesetz regelt
 
-1. die Vergütung der Sachverständigen, Dolmetscherinnen, Dolmetscher, Übersetzerinnen und Übersetzer, die von dem Gericht, der Staatsanwaltschaft, der Finanzbehörde in den Fällen, in denen diese das Ermittlungsverfahren selbstständig durchführt, der Verwaltungsbehörde im Verfahren nach dem Gesetz über Ordnungswidrigkeiten oder dem Gerichtsvollzieher herangezogen werden;
+1. die Vergütung der Sachverständigen, Dolmetscherinnen, Dolmetscher, Übersetzerinnen, Übersetzer und der Protokollpersonen nach § 613 Absatz 2 der Zivilprozessordnung, die von dem Gericht, der Staatsanwaltschaft, der Finanzbehörde in den Fällen, in denen diese das Ermittlungsverfahren selbstständig durchführt, der Verwaltungsbehörde im Verfahren nach dem Gesetz über Ordnungswidrigkeiten oder dem Gerichtsvollzieher herangezogen werden;
 
 2. die Entschädigung der ehrenamtlichen Richterinnen und Richter bei den ordentlichen Gerichten und den Gerichten für Arbeitssachen sowie bei den Gerichten der Verwaltungs-, der Finanz- und der Sozialgerichtsbarkeit mit Ausnahme der ehrenamtlichen Richterinnen und Richter in Handelssachen, in berufsgerichtlichen Verfahren oder bei Dienstgerichten sowie
 
@@ -390,6 +390,8 @@ Soweit das Gericht die Leistung berücksichtigt, gilt sie als verwertbar. Für d
 Die Ausfallentschädigung wird bis zu einem Betrag gewährt, der dem Honorar für zwei Stunden entspricht.
 
 (6) Erbringt der Sachverständige oder der Dolmetscher seine Leistung zwischen 23 und 6 Uhr oder an Sonn- oder Feiertagen, so erhöht sich das Honorar um 20 Prozent, wenn die heranziehende Stelle feststellt, dass es notwendig ist, die Leistung zu dieser Zeit zu erbringen. § 8 Absatz 2 Satz 2 gilt sinngemäß.
+
+(7) Die nach § 613 Absatz 2 der Zivilprozessordnung hinzugezogene Protokollperson erhält eine Vergütung wie ein Dolmetscher.
 
 # § 10 – Honorar für besondere Leistungen
 

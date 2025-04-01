@@ -195,7 +195,7 @@ Erhält eine berücksichtigungsfähige Person selbst einen Auslandszuschlag oder
 
 # § 13 – Reisebeihilfen für Heimfahrten
 
-(1) Eine nach § 4 Absatz 1 berechtigte Person erhält für jeweils drei Monate der getrennten Haushaltsführung eine Reisebeihilfe für eine Heimfahrt. Eine nach § 4 Absatz 2 berechtigte Person erhält für jeweils sechs Monate der getrennten Haushaltsführung eine Reisebeihilfe für eine Heimfahrt. Die oberste Dienstbehörde kann insbesondere unter Berücksichtigung der Besonderheiten des Dienstortes und der persönlichen Situation des Betroffenen Ausnahmen zulassen; dies gilt auch für Fälle des § 12 Absatz 7.
+(1) Eine nach § 4 Absatz 1 berechtigte Person erhält für jeweils drei Monate der getrennten Haushaltsführung eine Reisebeihilfe für eine Heimfahrt. Eine nach § 4 Absatz 2 berechtigte Person erhält für jeweils sechs Monate der getrennten Haushaltsführung eine Reisebeihilfe für eine Heimfahrt. Die oberste Dienstbehörde kann insbesondere unter Berücksichtigung der Besonderheiten des Dienstortes und der persönlichen Situation des Betroffenen Ausnahmen zulassen; dies gilt auch für Fälle des § 12 Absatz 7. Das Bundesministerium der Verteidigung kann insbesondere unter Berücksichtigung der Besonderheiten des Dienstortes und der persönlichen Situation des Betroffenen in seinem Geschäftsbereich auch Ledigen ohne eigene Wohnung Reisebeihilfen für Heimfahrten im gleichen Umfang wie den nach § 4 Absatz 2 berechtigten Personen gewähren.
 
 (2) Der Anspruchszeitraum beginnt mit dem ersten Tag, für den Auslandstrennungsgeld zusteht.
 

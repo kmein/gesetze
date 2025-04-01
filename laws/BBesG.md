@@ -827,6 +827,14 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 
 4. für Dienst im Bereitschaftsfall.
 
+Abweichend von Satz 1 Nummer 1 kann die Vergütung neben Auslandsdienstbezügen nach § 52 bei soldatischen Tätigkeiten in den Streitkräften gewährt werden, wenn eine Freistellung vom Dienst aus den folgenden zwingenden dienstlichen Gründen nicht möglich ist:
+
+1. Sicherstellung der militärischen Einsatzbereitschaft im Rahmen der Landes- und Bündnisverteidigung,
+
+2. weitere Teilnahme an angeordnetem Dienst außerhalb des Grundbetriebs nach § 30c Absatz 4 des Soldatengesetzes oder
+
+3. dienstlich notwendige Teilnahme an militärfachlichen und laufbahnspezifischen Ausbildungen.
+
 (4) Neben der Vergütung nach Absatz 1 wird keine Vergütung nach den §§ 50 und 50b gewährt.
 
 # § 50b – Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern

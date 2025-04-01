@@ -41,6 +41,12 @@ Vergütungen für Mehrarbeit an Beamtinnen und Beamte des Bundes dürfen nur nac
 
 3. einer Vergütung nach der Sanitätsdienstvergütungsverordnung.
 
+Abweichend von Satz 1 Nummer 2 kann im Geschäftsbereich des Bundesministeriums der Verteidigung neben Auslandsdienstbezügen nach § 52 des Bundesbesoldungsgesetzes eine Vergütung für Mehrarbeit gewährt werden, wenn eine Dienstbefreiung nicht möglich ist wegen
+
+1. einer unmittelbaren Unterstützung soldatischer Tätigkeiten in den Streitkräften zum Zwecke der Sicherstellung der militärischen Einsatzbereitschaft im Rahmen der Landes- und Bündnisverteidigung oder
+
+2. einer unmittelbaren Unterstützung in den Fällen des § 30c Absatz 4 des Soldatengesetzes.
+
 (4) Ist die Gewährung einer Mehrarbeitsvergütung neben einer Zulage ganz oder teilweise ausgeschlossen, gilt dies auch für eine nach Wegfall der Zulage gewährte Ausgleichszulage, solange diese noch nicht bis zur Hälfte aufgezehrt ist.
 
 # § 3
@@ -51,7 +57,7 @@ Vergütungen für Mehrarbeit an Beamtinnen und Beamte des Bundes dürfen nur nac
 
 2. schriftlich oder elektronisch angeordnet oder genehmigt wurde,
 
-3. aus zwingenden dienstlichen Gründen nicht durch Dienstbefreiung innerhalb eines Jahres ausgeglichen werden kann und
+3. aus zwingenden dienstlichen Gründen nicht durch Dienstbefreiung innerhalb einer Ausschlussfrist von einem Jahr ausgeglichen werden kann und
 
 4. die sich aus der regelmäßigen wöchentlichen Arbeitszeit ergebende Arbeitszeit um mehr als fünf Stunden im Kalendermonat (Mindeststundenzahl) übersteigt.
 

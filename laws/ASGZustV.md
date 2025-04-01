@@ -11,7 +11,7 @@ Für Arbeitnehmer bei der Bundeswehr gelten § 7 Abs. 1, § 9 Abs. 1 und 2 und �
 
 # § 2
 
-§ 32 Abs. 4 des Arbeitssicherstellungsgesetzes ist für Arbeitnehmer der Bundeswehr mit der Maßgabe anzuwenden, daß an die Stelle der Agentur für Arbeit die Standortverwaltung tritt.
+§ 32 Abs. 4 des Arbeitssicherstellungsgesetzes ist für Arbeitnehmer der Bundeswehr mit der Maßgabe anzuwenden, daß an die Stelle der Agentur für Arbeit das Bundesamt für das Personalmanagement der Bundeswehr tritt.
 
 # § 3
 
