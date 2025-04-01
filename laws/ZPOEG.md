@@ -339,6 +339,10 @@ jeweils bis zu dem Zeitpunkt, in dem der Mindestunterhalt nach Maßgabe des § 1
 
 Führt die Änderung der nach § 115 Absatz 1 Satz 3 der Zivilprozessordnung maßgebenden Beträge durch Artikel 6 des Gesetzes zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und Zwölften Buches Sozialgesetzbuch vom 24. März 2011 (BGBl. I S. 453) dazu, dass keine Monatsrate zu zahlen ist, so ist dies auf Antrag bereits ab dem 1. Januar 2011 zu berücksichtigen.
 
+# § 37b – Übergangsvorschrift zum Gesetz zur Stärkung des Justizstandortes Deutschland durch Einführung von Commercial Courts und der Gerichtssprache Englisch in der Zivilgerichtsbarkeit (Justizstandort-Stärkungsgesetz)
+
+§ 273a der Zivilprozessordnung ist auch in Verfahren anwendbar, die am 1. April 2025 bereits anhängig sind. Im Übrigen sind auf Verfahren, die am 1. April 2025 anhängig sind, die bis zu diesem Zeitpunkt geltenden Vorschriften anzuwenden.
+
 # § 38 – Informationspflicht aus Anlass des Gesetzes zur Reform des Kontopfändungsschutzes
 
 Die Kreditinstitute haben die Inhaber der bei ihnen geführten Konten darüber zu unterrichten, dass Pfändungsschutz für Kontoguthaben und Verrechnungsschutz für Sozialleistungen und Kindergeld ab dem 1. Januar 2012 nur für Pfändungsschutzkonten nach § 850k der Zivilprozessordnung in der Fassung des Gesetzes zur Reform des Kontopfändungsschutzes vom 7. Juli 2009 (BGBl. I S. 1707) gewährt wird. Die Unterrichtung hat in Textform spätestens bis zum 30. November 2011 zu erfolgen.

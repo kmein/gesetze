@@ -7,7 +7,7 @@ Auf Grund des § 146 der Wehrdisziplinarordnung, der durch Artikel 15 Nummer 5 d
 
 # § 1 – Dienstbezüge und Wehrsold
 
-(1) Dienstbezüge im Sinne der §§ 24, 59 und 126 der Wehrdisziplinarordnung sind
+(1) Dienstbezüge im Sinne der §§ 24, 61 und 130 der Wehrdisziplinarordnung sind
 
 1. das Grundgehalt der jeweiligen Stufe nach den §§ 20 und 27 des Bundesbesoldungsgesetzes,
 
@@ -47,7 +47,7 @@ b) der Auslandsverwendungszuschlag nach § 18 des Unterhaltssicherungsgesetzes u
 
 c) der Auslandszuschlag nach § 19 des Unterhaltssicherungsgesetzes.
 
-(3) Dienstbezüge im Sinne der §§ 61 bis 63 der Wehrdisziplinarordnung sind alle auf Grund des Soldatenverhältnisses zu gewährenden Bezüge.
+(3) Dienstbezüge im Sinne der §§ 63 bis 65 der Wehrdisziplinarordnung sind alle auf Grund des Soldatenverhältnisses zu gewährenden Bezüge.
 
 (4) Wehrsold im Sinne des § 24 der Wehrdisziplinarordnung sind für freiwilligen Wehrdienst Leistende
 

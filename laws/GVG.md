@@ -1242,6 +1242,30 @@ b) in den Angelegenheiten der freiwilligen Gerichtsbarkeit mit Ausnahme der Frei
 
 (3) Den Zivilsenaten nach den Absätzen 1 und 2 können auch Streitigkeiten nach § 119 Absatz 1 zugewiesen werden.
 
+# § 119b
+
+(1) Die Landesregierungen werden ermächtigt, jeweils durch Rechtsverordnung einen oder mehrere Senate bei einem Oberlandesgericht oder einem Obersten Landesgericht als Commercial Court einzurichten, der im ersten Rechtszug zuständig ist für folgende Streitigkeiten mit einem Streitwert ab 500 000 Euro:
+
+1. Bürgerliche Rechtsstreitigkeiten zwischen Unternehmern (§ 14 des Bürgerlichen Gesetzbuchs) mit Ausnahme von solchen auf dem Gebiet des gewerblichen Rechtsschutzes, des Urheberrechts sowie über Ansprüche nach dem Gesetz gegen den unlauteren Wettbewerb,
+
+2. Streitigkeiten aus oder im Zusammenhang mit dem Erwerb eines Unternehmens oder von Anteilen an einem Unternehmen,
+
+3. Streitigkeiten zwischen Gesellschaft und Mitgliedern des Leitungsorgans oder Aufsichtsrats.
+
+Die Zuständigkeit des Commercial Courts nach Satz 1 kann auf bestimmte Sachgebiete beschränkt werden. Die Zuständigkeit nach Satz 1 kann auch auf Sachgebiete erstreckt werden, in denen die ausschließliche Zuständigkeit des Landgerichts oder ein sonstiger ausschließlicher Gerichtsstand vorgesehen ist. Die Zuständigkeit des Commercial Courts nach Satz 1 kann nicht vorgesehen werden für Streitigkeiten über die Wirksamkeit oder Rechtmäßigkeit von Beschlüssen von Gesellschaftern oder Gesellschaftsorganen, Verfahren nach § 71 Absatz 2 Nummer 4 des Gerichtsverfassungsgesetzes oder nach § 375 des Gesetzes über Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
+
+(2) Der Commercial Court wird durch ausdrückliche oder stillschweigende Vereinbarung der Parteien zuständig, sofern die Voraussetzungen des Absatzes 1 vorliegen. Die vereinbarte Zuständigkeit ist ausschließlich, sofern die Parteien nichts anderes ausdrücklich vereinbart haben. Unter den Voraussetzungen des Absatzes 1 wird der Commercial Court auch zuständig, wenn der Kläger dies in der Klageschrift beantragt hat und der Beklagte sich in der Klageerwiderung rügelos darauf einlässt.
+
+(3) Sind in einem Land mehrere Oberlandesgerichte errichtet, so kann die Landesregierung die Zuständigkeit des Commercial Courts durch Rechtsverordnung über das Gebiet des Oberlandesgerichts hinaus bestimmen.
+
+(4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung abweichend von § 119 Absatz 1 Nummer 2 dem Commercial Court die Verhandlung und Entscheidung über die Rechtsmittel der Berufung und der Beschwerde gegen solche Entscheidungen der Landgerichte zuzuweisen, denen eine Streitigkeit zugrunde liegt, die die Sachgebiete des Commercial Courts betrifft.
+
+(5) Die Landesregierungen können die in den Absätzen 1, 3 und 4 genannten Ermächtigungen durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+
+(6) Mehrere Länder können vereinbaren, einen gemeinsamen Commercial Court an einem Oberlandesgericht oder an einem Obersten Landesgericht einzurichten. Die Zuständigkeit eines gemeinsamen Commercial Courts nach Satz 1 kann über Ländergrenzen hinaus vereinbart werden.
+
+(7) Regelungen in völkerrechtlichen Vereinbarungen gehen, soweit sie unmittelbar anwendbares innerstaatliches Recht geworden sind, dieser Vorschrift vor. Regelungen in Rechtsakten der Europäischen Union bleiben unberührt. Die zur Aus- und Durchführung von Vereinbarungen und Rechtsakten im Sinne der Sätze 1 und 2 erlassenen Bestimmungen bleiben unberührt. Soweit eine Gerichtsstandsvereinbarung zur internationalen und gegebenenfalls örtlichen Zuständigkeit nach vorrangig anzuwendendem internationalen Recht unter geringeren Voraussetzungen wirksam wäre, gilt dies im Rahmen des Anwendungsbereiches dieses Rechts in gleicher Weise für die Vereinbarung nach Absatz 2 Satz 1.
+
 # § 120
 
 (1) In Strafsachen sind die Oberlandesgerichte, in deren Bezirk die Landesregierungen ihren Sitz haben, für das Gebiet des Landes zuständig für die Verhandlung und Entscheidung im ersten Rechtszug
@@ -1775,6 +1799,46 @@ Wird eine Straftat in der Sitzung begangen, so hat das Gericht den Tatbestand fe
 # § 184
 
 Die Gerichtssprache ist deutsch. Das Recht der Sorben, in den Heimatkreisen der sorbischen Bevölkerung vor Gericht sorbisch zu sprechen, ist gewährleistet.
+
+# § 184a
+
+(1) Die Landesregierungen werden ermächtigt, jeweils durch Rechtsverordnung zu bestimmen, dass Verfahren, die ausgewählte Sachgebiete der in § 119b Absatz 1 Satz 1 genannten Streitigkeiten betreffen, vollständig in englischer Sprache geführt werden
+
+1. bei ausgewählten Landgerichten auch für den Bezirk mehrerer Landgerichte durch hierfür bestimmte Zivilkammern und Kammern für Handelssachen (Commercial Chambers) sowie bei den für Berufungen und Beschwerden zuständigen Senaten der Oberlandesgerichte über Entscheidungen der Commercial Chambers und
+
+2. bei dem Commercial Court.
+
+In der Rechtsverordnung nach Satz 1 können die Landesregierungen den Commercial Chambers auch für den Bezirk mehrerer Landgerichte im Rahmen ihrer Zuständigkeit auch in deutscher Sprache zu führende Streitigkeiten übertragen, die ausgewählte Sachgebiete der in § 119b Absatz 1 Satz 1 genannten Streitigkeiten betreffen. In der Rechtsverordnung nach Satz 1 kann die Bestimmung zu den Commercial Chambers auf Zivilkammern oder auf Kammern für Handelssachen beschränkt werden. Werden Zivilkammern als Commercial Chambers bestimmt, findet § 98 keine Anwendung.
+
+(2) Die Landesregierungen können die in Absatz 1 genannte Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Mehrere Länder können die Einrichtung einer oder mehrerer gemeinsamer Commercial Chambers über Ländergrenzen hinaus vereinbaren.
+
+(3) Ist aufgrund einer Rechtsverordnung nach Absatz 1 als Gerichtssprache die englische Sprache bestimmt und haben die Parteien diese ausdrücklich oder stillschweigend vereinbart oder lässt sich der Beklagte in seiner Klageerwiderung rügelos in dieser Sprache darauf ein, so ist das gesamte Verfahren abweichend von § 184 mit folgenden Maßgaben in englischer Sprache zu führen:
+
+1. ein Dolmetscher oder Übersetzer kann in jedem Stadium des Verfahrens hinzugezogen werden, sofern dies im Einzelfall erforderlich ist;
+
+2. § 142 Absatz 3 der Zivilprozessordnung ist auf englischsprachige Urkunden nicht anzuwenden;
+
+3. für deutschsprachige Urkunden gilt § 142 Absatz 3 der Zivilprozessordnung mit der Maßgabe, dass das Gericht auf Antrag die Beibringung einer Übersetzung in die englische Sprache von der die Urkunde einführenden Partei anordnen kann.
+
+Ist die Gerichtssprache Deutsch oder nach Satz 1 Englisch, so bleibt es den Parteien unbenommen, vor den in Absatz 1 Satz 1 genannten Spruchkörpern auch in der jeweils anderen Sprache vorzutragen, sofern sie dies ausdrücklich oder stillschweigend vereinbart haben oder keine der Parteien unverzüglich widerspricht.
+
+(4) Wird ein Dritter in ein Verfahren, das nach Absatz 3 vollständig in englischer Sprache zu führen ist, als Nebenintervenient oder im Wege der Streitverkündung einbezogen oder soll das Urteil Rechtskraft für und gegen einen Dritten entfalten, so ist auf Antrag des Dritten ein Dolmetscher hinzuzuziehen. § 185 dieses Gesetzes und § 142 Absatz 3 der Zivilprozessordnung sind anzuwenden.
+
+(5) Wird ein zunächst in englischer Sprache geführtes Verfahren in deutscher Sprache fortgeführt, so wird das Verfahren auch in dem sich anschließenden Instanzenzug in deutscher Sprache geführt.
+
+# § 184b
+
+(1) Die Zivilsenate des Bundesgerichtshofs führen das Verfahren in englischer Sprache, wenn
+
+1. zuvor ein Berufungs- oder Beschwerdeverfahren nach Maßgabe des § 184a Absatz 1 Satz 1 Nummer 1 oder ein Verfahren nach Maßgabe des § 184a Absatz 1 Satz 1 Nummer 2 geführt worden ist,
+
+2. dies in der Rechtsmittelschrift beantragt wird und
+
+3. der Zivilsenat dem Antrag stattgibt.
+
+Stimmt der Zivilsenat der Verfahrensführung in englischer Sprache zu, so gilt § 184a Absatz 3 und 4 mit der Maßgabe, dass § 142 Absatz 3 der Zivilprozessordnung anwendbar bleibt.
+
+(2) Der Zivilsenat kann zu jedem Zeitpunkt des Verfahrens anordnen, dass das Verfahren in deutscher Sprache fortgeführt wird. Der Zivilsenat kann zudem jederzeit anordnen, dass Teile der Verfahrensakte in die deutsche Sprache übersetzt werden.
 
 # § 185
 

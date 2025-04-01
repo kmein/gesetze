@@ -76,7 +76,7 @@ Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">der Besoldungsgruppen A 5<br />
 bis A 8</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">14,00 Euro,</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">17,64 Euro,</td>
 </tr>
 </tbody>
 </table>
@@ -86,25 +86,25 @@ bis A 8</td>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">der Besoldungsgruppen A 9<br />
 bis A 12</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">18,00 Euro,</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">22,68 Euro,</td>
 </tr>
 </tbody>
 </table>
 
 3. |                           |             |
 |:--------------------------|------------:|
-| der Besoldungsgruppe A 13 | 24,00 Euro, |
+| der Besoldungsgruppe A 13 | 30,24 Euro, |
 
 4. |                           |             |
 |:--------------------------|------------:|
-| der Besoldungsgruppe A 14 | 26,00 Euro, |
+| der Besoldungsgruppe A 14 | 32,76 Euro, |
 
 5. <table width="100%" style="border: none;">
 <tbody data-valign="top">
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">der Besoldungsgruppen A 15<br />
 und A 16</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">28,00 Euro.</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">35,28 Euro.</td>
 </tr>
 </tbody>
 </table>

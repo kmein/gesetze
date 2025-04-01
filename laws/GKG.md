@@ -1347,6 +1347,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (6) Auslagen für Sachverständige, die durch die Untersuchung eines Beschuldigten nach § 43 Abs. 2 JGG entstanden sind, werden nicht erhoben.
 
+(7) Auslagen für Übersetzer, die durch die Übersetzung von Verfahrensakten in die deutsche Sprache (§ 184b Absatz 2 Satz 2 des Gerichtsverfassungsgesetzes) oder für die Übersetzung von Entscheidungen zum Zweck der Veröffentlichung (§ 608 Absatz 3 der Zivilprozessordnung) entstanden sind, werden nicht erhoben.
+
 # Anlage 2 – (zu § 34 Absatz 1 Satz 3)
 
 (Fundstelle: BGBl. I 2020, 3233)

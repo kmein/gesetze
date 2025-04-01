@@ -120,7 +120,7 @@ Geldbuße,
 
 Herabsetzung der Dienstbezeichnung.
 
-2. Der Grenzschutzsold gilt als Dienstbezug im Sinne der §§ 7 und 117 der Bundesdisziplinarordnung; für die Vollstreckung der Geldbuße gelten außerdem § 47 Abs. 1, §§ 49 und 56 Abs. 1 der Wehrdisziplinarordnung entsprechend.
+2. Der Grenzschutzsold gilt als Dienstbezug im Sinne der §§ 7 und 117 der Bundesdisziplinarordnung; für die Vollstreckung der Geldbuße gelten außerdem § 49 Absatz 1, §§ 51 und 58 Absatz 1 der Wehrdisziplinarordnung entsprechend.
 
 3. Die Herabsetzung der Dienstbezeichnung darf nur im förmlichen Disziplinarverfahren verhängt werden. Auf sie sind die für die Versetzung in ein Amt derselben Laufbahn mit geringerem Endgrundgehalt geltenden Vorschriften der Bundesdisziplinarordnung entsprechend anzuwenden.
 

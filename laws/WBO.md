@@ -168,7 +168,7 @@ Die Fortführung des Verfahrens wird nicht dadurch berührt, dass nach Einlegung
 
 (5) Die Entscheidung über die Erstattung der notwendigen Aufwendungen sowie die Notwendigkeit der Hinzuziehung eines Bevollmächtigten kann durch Anrufung des Truppendienstgerichts angefochten werden. § 17 Absatz 4 gilt entsprechend. Der Vorsitzende der Truppendienstkammer entscheidet hierüber endgültig durch Beschluss. Erlässt der Bundesminister der Verteidigung oder der Generalinspekteur der Bundeswehr den Beschwerdebescheid, gelten die Sätze 1 bis 3 entsprechend mit der Maßgabe, dass das Bundesverwaltungsgericht an die Stelle des Truppendienstgerichts tritt.
 
-(6) § 140 Absatz 8 und § 142 der Wehrdisziplinarordnung gelten entsprechend.
+(6) § 144 Absatz 8 und § 146 der Wehrdisziplinarordnung gelten entsprechend.
 
 # § 17 – Antrag auf Entscheidung des Truppendienstgerichts
 
@@ -210,13 +210,15 @@ Die Fortführung des Verfahrens wird nicht dadurch berührt, dass nach Einlegung
 
 (3) Ist der Antrag auf gerichtliche Entscheidung gegenstandslos geworden, sind die Absätze 1 und 2 unter Berücksichtigung des bisherigen Sachstands sinngemäß anzuwenden.
 
-(4) § 137 Absatz 1 und 2 Nummer 1 bis 3, § 140 Absatz 8, § 141 Absatz 1 und 2 sowie § 142 der Wehrdisziplinarordnung gelten entsprechend.
+(4) § 141 Absatz 1 und 2 Nummer 1 bis 3, § 144 Absatz 8, § 145 Absatz 1 und 2 sowie § 146 der Wehrdisziplinarordnung gelten entsprechend.
+
+(+++ § 20: Zur Anwendung vgl. § 47 Abs. 2 WDO 2025 +++)
 
 # § 21 – Entscheidungen des Bundesministers der Verteidigung
 
 (1) Gegen Entscheidungen oder Maßnahmen des Bundesministers der Verteidigung einschließlich der Entscheidungen über Beschwerden oder weitere Beschwerden kann der Beschwerdeführer unmittelbar die Entscheidung des Bundesverwaltungsgerichts beantragen. Der Antrag ist beim Bundesministerium der Verteidigung zu stellen.
 
-(2) Für den Antrag auf Entscheidung des Bundesverwaltungsgerichts und für das Verfahren gelten die §§ 17 bis 20 entsprechend. § 20 Absatz 4 in Verbindung mit § 142 der Wehrdisziplinarordnung ist mit der Maßgabe anzuwenden, dass an die Stelle des Truppendienstgerichts das Bundesverwaltungsgericht tritt.
+(2) Für den Antrag auf Entscheidung des Bundesverwaltungsgerichts und für das Verfahren gelten die §§ 17 bis 20 entsprechend. § 20 Absatz 4 in Verbindung mit § 146 der Wehrdisziplinarordnung ist mit der Maßgabe anzuwenden, dass an die Stelle des Truppendienstgerichts das Bundesverwaltungsgericht tritt.
 
 (3) Abweichend von § 17 Absatz 4 Satz 4 legt das Bundesministerium der Verteidigung den Antrag mit einer Stellungnahme vor. Im Übrigen wird der Bundesminister der Verteidigung im Verfahren vor dem Bundesverwaltungsgericht durch den Bundeswehrdisziplinaranwalt vertreten.
 
@@ -252,7 +254,7 @@ Für die Entscheidungen des Generalinspekteurs der Bundeswehr über weitere Besc
 
 (3) Die Einlegung der Nichtzulassungsbeschwerde hemmt die Rechtskraft des angefochtenen Beschlusses.
 
-(4) Hilft das Truppendienstgericht der Nichtzulassungsbeschwerde nicht ab, entscheidet das Bundesverwaltungsgericht in der Besetzung ohne ehrenamtliche Richter durch Beschluss. Der Beschluss ist zu begründen. Mit der Ablehnung der Nichtzulassungsbeschwerde durch das Bundesverwaltungsgericht wird der Beschluss des Truppendienstgerichts rechtskräftig.
+(4) Hilft der Vorsitzende der Truppendienstkammer der Nichtzulassungsbeschwerde nicht ab, entscheidet das Bundesverwaltungsgericht in der Besetzung ohne ehrenamtliche Richter durch Beschluss. Der Beschluss ist zu begründen. Mit der Ablehnung der Nichtzulassungsbeschwerde durch das Bundesverwaltungsgericht wird der Beschluss des Truppendienstgerichts rechtskräftig.
 
 (5) Wird der Nichtzulassungsbeschwerde abgeholfen oder lässt das Bundesverwaltungsgericht die Rechtsbeschwerde zu, wird das Nichtzulassungsbeschwerdeverfahren als Rechtsbeschwerdeverfahren fortgesetzt. In diesem Fall ist die Rechtsbeschwerde innerhalb eines Monats nach Zustellung der Entscheidung über die Zulassung zu begründen. Darauf ist in dem Beschluss hinzuweisen.
 

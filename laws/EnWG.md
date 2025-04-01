@@ -2130,16 +2130,6 @@ Die Transportnetzbetreiber haben die Regulierungsbehörde unverzüglich über al
 
 Die Regulierungsbehörde kann eine Zertifizierung nach § 4a oder § 4b widerrufen oder erweitern oder eine Zertifizierung nachträglich mit Auflagen versehen sowie Auflagen ändern oder ergänzen, soweit auf Grund geänderter tatsächlicher Umstände eine Neubewertung der Zertifizierungsvoraussetzungen erforderlich wird. Die Regulierungsbehörde kann eine Zertifizierung auch nachträglich mit Auflagen versehen sowie Auflagen ändern oder ergänzen. Insbesondere kann sie dem Transportnetzbetreiber Maßnahmen aufgeben, die erforderlich sind, um zu gewährleisten, dass der Transportnetzbetreiber die Anforderungen der §§ 8 bis 10e erfüllt. § 65 bleibt unberührt.
 
-# § 4e – Zertifizierung des Betreibers einer Gasspeicheranlage
-
-(1) Das Verfahren zur Zertifizierung des Betreibers einer Gasspeicheranlage nach Artikel 3a der Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Bedingungen für den Zugang zu den Erdgasfernleitungsnetzen und zur Aufhebung der Verordnung (EG) Nr. 1775/2005 (ABl. L 211 vom 14.8.2009, S. 36; L 229 vom 1.9.2009, S. 29; L 309 vom 24.11.2009, S. 87) in der jeweils geltenden Fassung beginnt auf schriftlichen Antrag des Betreibers einer Gasspeicheranlage bei der Bundesnetzagentur oder wird von der Bundesnetzagentur von Amts wegen eingeleitet. Mit dem Antrag auf Zertifizierung hat der Betreiber der Gasspeicheranlage die für die Durchführung des Zertifizierungsverfahrens erforderlichen Unterlagen der Bundesnetzagentur elektronisch zur Verfügung zu stellen. Im Falle der Verfahrenseinleitung von Amts wegen hat der Betreiber der Gasspeicheranlage die Unterlagen nach Satz 2 auf Verlangen der Bundesnetzagentur elektronisch zur Verfügung zu stellen. Die nach Satz 2 oder 3 zur Verfügung zu stellenden Unterlagen hat die Bundesnetzagentur dem Bundesministerium für Wirtschaft und Klimaschutz elektronisch zur Verfügung zu stellen, soweit diese für die Prüfung nach Artikel 3a Absatz 3 der Verordnung (EG) Nr. 715/2009 erforderlich sind. Auf Verlangen der Bundesnetzagentur oder des Bundesministeriums für Wirtschaft und Klimaschutz sind die nach Satz 2, 3 oder 4 elektronisch zur Verfügung zu stellenden Unterlagen zusätzlich auch schriftlich zu übermitteln.
-
-(2) Die Bundesnetzagentur nimmt im Rahmen des Zertifizierungsverfahrens die Aufgaben nach Artikel 3a Absatz 2 bis 7 und 10 der Verordnung (EG) Nr. 715/2009 wahr. Die Bundesnetzagentur kann hierbei zu Fragen der Beeinträchtigung der wesentlichen Sicherheitsinteressen insbesondere auch das Bundesministerium des Innern und für Heimat beteiligen. Dem Bundesministerium des Innern und für Heimat können die zur entsprechenden Prüfung erforderlichen Unterlagen durch die Bundesnetzagentur zur Verfügung gestellt werden.
-
-(3) Das Bundesministerium für Wirtschaft und Klimaschutz erstellt die für die Prüfung nach Artikel 3a Absatz 3 der Verordnung (EG) Nr. 715/2009 zu Grunde zu legende Bewertung und übermittelt diese an die Bundesnetzagentur.
-
-(4) Die Zertifizierungsentscheidung der Bundesnetzagentur wird im Amtsblatt der Bundesnetzagentur gemeinsam mit der Stellungnahme der Europäischen Kommission unter Verwendung nicht personenbezogener Daten veröffentlicht.
-
 # § 5 – Anzeige der Energiebelieferung
 
 (1) Energielieferanten, die Haushaltskunden mit Energie beliefern, müssen nach Maßgabe des Absatzes 2 Satz 1 und 2 die Aufnahme und Beendigung der Tätigkeit sowie Änderungen ihrer Firma bei der Bundesnetzagentur anzeigen; ausgenommen ist die Belieferung von Haushaltskunden ausschließlich innerhalb einer Kundenanlage oder eines geschlossenen Verteilernetzes sowie über nicht auf Dauer angelegte Leitungen. Die Bundesnetzagentur veröffentlicht laufend auf ihrer Internetseite eine Liste der angezeigten Energielieferanten; dabei werden die Firma und die Adresse des Sitzes der angezeigten Energielieferanten veröffentlicht. Von der Bundesnetzagentur werden monatlich die Energielieferanten veröffentlicht, die in den jeweils letzten zwölf Monaten die Beendigung ihrer Tätigkeit angezeigt haben.
@@ -4766,6 +4756,8 @@ Sofern ein Antrag nicht die Voraussetzungen des Satzes 1 erfüllt, weist die Reg
 
 (2) Die Vorschriften dieses Teils sind nur für Gasspeicheranlagen anzuwenden, die mindestens einen Einspeisepunkt an das deutsche Fernleitungsnetz haben. Die zu Speicherzwecken genutzten Teile von LNG Anlagen sind von den Vorschriften dieses Teils ausgenommen.
 
+(+++ § 35a: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 +++)
+
 # § 35b – Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung
 
 (1) Der Betreiber einer Gasspeicheranlage hat vertragliche Regelungen aufzunehmen, welche die jeweiligen Rahmenbedingungen zur Erreichung der nachfolgend dargestellten Füllstandsvorgaben definieren, wonach jeweils im Zeitraum vom 1. Oktober eines Kalenderjahres bis zum 1. Februar des Folgejahres die von ihm betriebenen Gasspeicheranlagen einen Füllstand nach Satz 2 aufweisen sollen. Hierbei sind in jeder Gasspeicheranlage die nachfolgend angegebenen Füllstände als prozentualer Anteil am Arbeitsgasvolumen der Gasspeicheranlage zu den genannten Stichtagen vorzuhalten (Füllstandsvorgaben):
@@ -4834,6 +4826,8 @@ Die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen Aufgaben zur Sic
 # § 35f – Evaluierung
 
 Das Bundesministerium für Wirtschaft und Klimaschutz bewertet bis zum 15. Dezember 2022 die Umsetzung der Vorschriften dieses Teils und evaluiert bis zum 1. April 2023 die Vorschriften dieses Teils und deren Auswirkungen. Die Berichte sind unverzüglich dem Deutschen Bundestag vorzulegen.
+
+(+++ § 35f: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 +++)
 
 # § 35g – Anwendungsbestimmungen
 

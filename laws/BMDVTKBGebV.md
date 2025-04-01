@@ -7,7 +7,7 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 # § 1 – Erhebung von Gebühren und Auslagen
 
-(1) Die Bundesnetzagentur und das Bundesamt für Sicherheit in der Informationstechnik erheben in ihrem Zuständigkeitsbereich nach Maßgabe dieser Verordnung Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die aufgrund der folgenden Rechtsvorschriften erbracht werden:
+(1) Die Bundesnetzagentur, das Bundesamt für Sicherheit in der Informationstechnik und die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit erheben in ihrem Zuständigkeitsbereich nach Maßgabe dieser Verordnung Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die aufgrund der folgenden Rechtsvorschriften erbracht werden:
 
 1. Telekommunikationsgesetz vom 23. Juni 2021 (BGBl. I S. 1858), das zuletzt durch Artikel 5 des Gesetzes vom 14. März 2023 (BGBl. 2023 I Nr. 71) geändert worden ist, mit Ausnahme der in § 223 Absatz 1 des Telekommunikationsgesetzes genannten Gebühren, in der jeweils geltenden Fassung,
 
@@ -21,11 +21,15 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 6. Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz vom 23. Juni 2021 (BGBl. I S. 1982; 2022 I S. 1045), das zuletzt durch Artikel 8 des Gesetzes vom 6. Mai 2024 (BGBl. 2024 I Nr. 149) geändert worden ist,
 
-7. Amateurfunkgesetz vom 23. Juni 1997 (BGBl. I S. 1494), das zuletzt durch Artikel 53 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) geändert worden ist, in der jeweils geltenden Fassung,
+7. Einwilligungsverwaltungsverordnung vom 6. Februar 2025 (BGBl. 2025 I Nr. 32),
 
-8. Amateurfunkverordnung vom 15. Februar 2005 (BGBl. I S. 242), die zuletzt durch Artikel 1 der Verordnung vom 21. Juni 2023 (BGBl. 2023 I Nr. 160) geändert worden ist, in der jeweils geltenden Fassung.
+8. Amateurfunkgesetz vom 23. Juni 1997 (BGBl. I S. 1494), das zuletzt durch Artikel 53 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) geändert worden ist, in der jeweils geltenden Fassung,
 
-(2) Die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die von der Bundesnetzagentur und dem Bundesamt für Sicherheit in der Informationstechnik aufgrund anderer als der in Absatz 1 genannten Rechtsvorschriften erbracht werden, wird durch diese Verordnung nicht ausgeschlossen.
+9. Amateurfunkverordnung vom 15. Februar 2005 (BGBl. I S. 242), die zuletzt durch Artikel 1 der Verordnung vom 21. Juni 2023 (BGBl. 2023 I Nr. 160) geändert worden ist, in der jeweils geltenden Fassung.
+
+(2) Die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die von der Bundesnetzagentur, dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit aufgrund anderer als der in Absatz 1 genannten Rechtsvorschriften erbracht werden, wird durch diese Verordnung nicht ausgeschlossen.
+
+(+++ § 1 Abs. 1 Nr. 7: Eingef. durch Art. 2 Nr. 1 Buchst. a DBuchst. bb V v. 6.2.2025 I Nr. 32 mWv 1.4.2025 (aufgrund offensichtlicher Unrichtigkeit wurde am Ende der Aufzählung ein Komma ergänzt)+++)
 
 # § 2 – Höhe der Gebühren und Auslagen
 
@@ -51,7 +55,7 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 # § 5 – Zeitgebühr
 
-Für den Zeitaufwand von Verwaltungsbeschäftigten der Bundesnetzagentur und des Bundesamtes für Sicherheit in der Informationstechnik des mittleren, gehobenen und höheren Dienstes gelten die Stundensätze nach Anlage 1 Teil A Abschnitt 1 Nummer 1 der Allgemeinen Gebührenverordnung vom 11. Februar 2015 (BGBl. I S. 130), die zuletzt durch Artikel 1 der Verordnung vom 11. Februar 2021 (BGBl. I S. 204) geändert worden ist, in der jeweils geltenden Fassung.
+Für den Zeitaufwand von Verwaltungsbeschäftigten der Bundesnetzagentur, des Bundesamtes für Sicherheit in der Informationstechnik und der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit des mittleren, gehobenen und höheren Dienstes gelten die Stundensätze nach Anlage 1 Teil A Abschnitt 1 Nummer 1 der Allgemeinen Gebührenverordnung vom 11. Februar 2015 (BGBl. I S. 130), die zuletzt durch Artikel 1 der Verordnung vom 11. Februar 2021 (BGBl. I S. 204) geändert worden ist, in der jeweils geltenden Fassung.
 
 # § 6 – Übergangsvorschrift
 
@@ -65,9 +69,7 @@ Abschnitt 1 Unterabschnitt 5 Nummer 5.8 bis 5.10 der Anlage ist auf alle dort ge
 
 # Anlage – (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis
 
-(Fundstelle: BGBl. 2024 I Nr. 1, S. 4 - 12)
-
- 
+(Fundstelle: BGBl. 2024 I Nr. 1, S. 4 - 12; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt 1  
 Telekommunikationsgesetz (TKG) und Verordnung (EU) 2015/2120 des Europäischen Parlaments und des Rates vom 25. November 2015 über Maßnahmen zum Zugang zum offenen Internet und zu Endkundenentgelten für regulierte intra-EU-Kommunikation sowie zur Änderung der Richtlinie 2002/22/EG über den Universaldienst und der Verordnung (EU) Nr. 2022/612 vom 6. April 2022 über das Roaming in öffentlichen Mobilfunknetzen in der Union
