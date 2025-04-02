@@ -153,9 +153,11 @@ Im Zuständigkeitsbereich des Bundesministeriums für Digitales und Verkehr für
 
 72. Maritime-Medizin-Verordnung (MariMedV),
 
-73. EU-Fahrgastrechte-Schifffahrt-Gesetz (EU-FahrgRSchG),
+73. See-Unterkunftsverordnung (SeeUnterkunftsV)
 
-74. Sportseeschifferscheinverordnung (SportSeeSchV).
+74. EU-Fahrgastrechte-Schifffahrt-Gesetz (EU-FahrgRSchG),
+
+75. Sportseeschifferscheinverordnung (SportSeeSchV).
 
 # § 2 – Höhe der Gebühren und Auslagen
 
@@ -263,13 +265,13 @@ Die Gebühr 7 wird für Veranstaltungen, an denen ausschließlich Jugendliche bi
 
 1. Bei den Gebühren für die Genehmigung zur Führung einer anderen Nationalflagge wird die Gebühr einer zuvor erteilten Genehmigung, deren Bewilligungszeitraum noch nicht abgelaufen ist, anteilig berücksichtigt.
 
-2. Bei den Gebührennummern 20-22, 24-30 sowie 32-33 werden die Reisekosten gesondert als Auslagen erhoben.
+2. Bei den Gebührennummern 20-22, 24 - 30, 32 - 33 und 145 werden die Reisekosten gesondert als Auslagen erhoben.
 
 3. Bei den Gebührennummern 34-43 werden die Kosten für Auslandsdienstreisen gesondert als Auslagen erhoben.
 
-4. Bei der Gebührennummer 147 werden die Kosten für externe Labore, Sachverständige oder Gutachter als Auslagen erhoben.
+4. Bei der Gebührennummer 150 werden die Kosten für externe Labore, Sachverständige oder Gutachter als Auslagen erhoben.
 
-5. Bei den Gebührennummern 145-148 werden Gebühren nur erhoben, wenn Nichtkonformitäten festgestellt wurden.
+5. Bei den Gebührennummern 148 - 151 werden Gebühren nur erhoben, wenn Nichtkonformitäten festgestellt wurden.
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
@@ -570,13 +572,13 @@ Zeitaufwand</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">38</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zulassung eines Ballastwasser-<br />
 Behandlungssystems mit veränderter Durchflussrate aufgrund von Erprobungen an Bord und an Land</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">68 552</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">39</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zulassung eines Ballastwasser-Behandlungssystems mit veränderter Durchflussrate aufgrund der Überprüfung von Dokumenten</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach<br />
 Zeitaufwand</td>
 </tr>
@@ -584,7 +586,7 @@ Zeitaufwand</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">40</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zulassung technischer Änderungen an zugelassenen Ballastwasser-<br />
 Behandlungssystemen</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach<br />
 Zeitaufwand</td>
 </tr>
@@ -1375,7 +1377,7 @@ die Verordnung (EG) Nr. 219/2009 (ABl. L 87 vom 31.3.2009, S. 109) geändert wor
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">142</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Befreiungen nach Regel 4 Teil A, Kapitel I i. V. m. Kapitel XI SOLAS</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 4 Anlage A.I.11.1, 11.2 SchSG<br />
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 4, Anlage A.I.11.1, 11.2 SchSG<br />
 i. V. m. Regel 4 Teil A, Kapitel I<br />
 i. V. m. Kapitel XI SOLAS</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">132</td>
@@ -1383,7 +1385,7 @@ i. V. m. Kapitel XI SOLAS</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">143</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Anlassbezogene Sonderbescheinigungen</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 4 Anlage A.I.11.1, 11.2 SchSG<br />
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 4, Anlage A.I.11.1, 11.2 SchSG<br />
 i. V. m. SOLAS Kapitel XI-1, XI-2</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">149 – 329</td>
 </tr>
@@ -1545,9 +1547,9 @@ a) Für Prüfungen an der Mittelmeer- und Atlantikküste außerhalb Deutschlands
 
 b) Sind aus Gründen des Gesundheitsschutzes behördliche Hygiene- und Schutzmaßnahmen zu beachten, können die diesbezüglichen Mehraufwendungen in der tatsächlich entstandenen Höhe, jedoch lediglich bis maximal 9 Euro für die theoretische und bis maximal 10 Euro für die praktische Prüfung als Auslagen erhoben werden.
 
-c) Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein erneuter Zustellungsversuch notwendig werden, wird für die erneute Zustellung ein Zuschlag in Höhe von 15 Euro als Auslage erhoben.
+c) Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein erneuter Zustellungsversuch notwendig werden, wird für die erneute Zustellung ein Zuschlag in Höhe von 15,30 Euro als Auslage erhoben.
 
-d) Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in Höhe von 7 Euro als Auslage erhoben. Für Auslandszustellungen nach dem Tabellenabschnitt 2 und Tabellenabschnitt 1 Nummer 14 wird ein Zuschlag von 1,60 Euro als Auslage erhoben.
+d) Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in Höhe von 7,35 Euro erhoben. Für Auslandszustellungen nach dem Tabellenabschnitt 2 und Tabellenabschnitt 1 Nummer 14 wird ein Zuschlag in Höhe von 1,95 Euro als Auslage erhoben.
 
 3. Die Gebühr zur Zulassung zur Prüfung wird erneut erhoben, wenn der Bewerber den Prüfungsausschuss wechselt.
 
