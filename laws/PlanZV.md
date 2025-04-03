@@ -48,4 +48,5 @@ Der Bundesrat hat zugestimmt.
   
   
 
-Anlage Nr. 1 Überschrift Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Baunutzungsverordung" durch "Baunutzungsverordnung" ersetzt
+Anlage Nr. 1 Überschrift Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Baunutzungsverordung" durch "Baunutzungsverordnung" ersetzt  
+Anlage Nr. 1.5. Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "städebaulichen" durch das Wort "städtebaulichen" ersetzt
