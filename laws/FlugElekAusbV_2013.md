@@ -2828,7 +2828,7 @@ Geräte- und Systemdokumentation, auch in Englisch, zusammenstellen
 <br />
 <br />
 <br />
-7 bis 9.</td>
+7 bis 9</td>
 </tr>
 </tbody>
 </table>

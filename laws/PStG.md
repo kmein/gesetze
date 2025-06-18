@@ -94,7 +94,7 @@
 |                                                      |                                        Abschnitt 2                                        |
 |                                                      |                             Familienrechtliche Beurkundungen                              |
 |                         § 41                         |                        Erklärungen zur Namensführung von Ehegatten                        |
-|                         § 42                         |                     Erklärungen zur Namensführung von Lebenspartnern                      |
+|                         § 42                         |                                       (weggefallen)                                       |
 |                         § 43                         |                             Erklärungen zur Namensangleichung                             |
 |                         § 44                         |             Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft              |
 |                         § 45                         |                         Erklärungen zur Namensführung des Kindes                          |
@@ -609,37 +609,29 @@ Ausfertigungen der Beschlüsse über Todeserklärungen und gerichtliche Feststel
 
 # § 41 – Erklärungen zur Namensführung von Ehegatten
 
-(1) Die Erklärung, durch die
+(1) Jede der folgenden Erklärungen kann auch von den Standesbeamten beglaubigt oder beurkundet werden:
 
-1. Ehegatten nach der Eheschließung einen Ehenamen bestimmen,
+1. Erklärung, durch die Ehegatten nach der Eheschließung einen Ehenamen bestimmen,
 
-2. ein Ehegatte seinen Geburtsnamen oder den zur Zeit der Erklärung über die Bestimmung des Ehenamens geführten Namen dem Ehenamen voranstellt oder anfügt oder durch die er diese Erklärung widerruft,
+2. Erklärung, durch die ein Ehegatte seinen Geburtsnamen oder den zur Zeit der Erklärung über die Bestimmung des Ehenamens geführten Familiennamen dem Ehenamen voranstellt oder anfügt oder durch die er diese Erklärung widerruft,
 
-3. ein Ehegatte seinen Geburtsnamen oder den bis zur Bestimmung des Ehenamens geführten Namen wieder annimmt,
+3. Erklärung, durch die ein verwitweter oder geschiedener Ehegatte
 
-4. Ehegatten nach der Eheschließung ihren künftig zu führenden Namen gemäß Artikel 10 Abs. 2 Satz 1 und 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche wählen,
+a) seinen Geburtsnamen wieder annimmt,
 
-kann auch von den Standesbeamten beglaubigt oder beurkundet werden. Gleiches gilt für die Erklärung, durch die ein Kind und sein Ehegatte die Namensänderung des Kindes oder der Eltern des Kindes auf ihren Ehenamen erstrecken.
+b) den bis zur Bestimmung des Ehenamens geführten Namen wieder annimmt oder
+
+c) dem Ehenamen seinen Geburtsnamen oder den bis zur Erklärung über die Bestimmung des Ehenamens geführten Namen voranstellt oder anfügt oder diese Erklärung widerruft,
+
+4. Erklärung, durch die Ehegatten nach der Eheschließung ihren künftig zu führenden Namen gemäß Artikel 10 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche wählen,
+
+5. Erklärung, durch die ein Ehegatte den Ehenamen seinem Geschlecht anpasst oder durch die er eine solche Erklärung widerruft,
+
+6. Erklärung, durch die ein Ehegatte sich der Erstreckung der Änderung des Geburtsnamens des Kindes auf den Ehenamen anschließt.
 
 (2) Zur Entgegennahme der Erklärungen ist das Standesamt zuständig, das die Eheschließung zu beurkunden hat oder das Eheregister führt, in dem die Eheschließung beurkundet ist. Ist die Eheschließung nicht in einem deutschen Eheregister beurkundet, so ist das Standesamt zuständig, in dessen Zuständigkeitsbereich einer der Erklärenden seinen Wohnsitz hat oder zuletzt hatte oder seinen gewöhnlichen Aufenthalt hat. Ergibt sich danach keine Zuständigkeit, so ist das Standesamt I in Berlin zuständig. Das Standesamt I in Berlin führt ein Verzeichnis der nach den Sätzen 2 und 3 entgegengenommenen Erklärungen.
 
-# § 42 – Erklärungen zur Namensführung von Lebenspartnern
-
-(1) Die Erklärung, durch die
-
-1. Lebenspartner nach der Begründung der Lebenspartnerschaft einen Lebenspartnerschaftsnamen bestimmen,
-
-2. ein Lebenspartner seinen Geburtsnamen oder den zur Zeit der Erklärung über die Bestimmung des Lebenspartnerschaftsnamens geführten Namen dem Lebenspartnerschaftsnamen voranstellt oder anfügt oder durch die er diese Erklärung widerruft,
-
-3. ein Lebenspartner seinen Geburtsnamen oder den bis zur Bestimmung des Lebenspartnerschaftsnamens geführten Namen wieder annimmt,
-
-4. Lebenspartner nach der Begründung der Lebenspartnerschaft ihren künftig zu führenden Namen gemäß Artikel 17b Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche wählen,
-
-kann auch von den Standesbeamten beglaubigt oder beurkundet werden.
-
-(2) Zur Entgegennahme der Erklärungen ist das Standesamt zuständig, das die Begründung der Lebenspartnerschaft zu beurkunden hat oder das Lebenspartnerschaftsregister führt, in dem die Lebenspartnerschaft beurkundet ist. Ist die Lebenspartnerschaft nicht in einem deutschen Lebenspartnerschaftsregister beurkundet, so ist das Standesamt zuständig, in dessen Zuständigkeitsbereich einer der Erklärenden seinen Wohnsitz hat oder zuletzt hatte oder seinen gewöhnlichen Aufenthalt hat. Ergibt sich danach keine Zuständigkeit, so ist das Standesamt I in Berlin zuständig. Das Standesamt I in Berlin führt ein Verzeichnis der nach den Sätzen 2 und 3 entgegengenommenen Erklärungen.
-
-(3) § 23 des Lebenspartnerschaftsgesetzes bleibt unberührt.
+# § 42 – (weggefallen)
 
 # § 43 – Erklärungen zur Namensangleichung
 
@@ -657,23 +649,31 @@ kann auch von den Standesbeamten beglaubigt oder beurkundet werden.
 
 # § 45 – Erklärungen zur Namensführung des Kindes
 
-(1) Die Erklärung, durch die
+(1) Jede der folgenden Erklärungen kann auch von den Standesbeamten beglaubigt oder beurkundet werden:
 
-1. Eltern nach der Beurkundung der Geburt den Geburtsnamen eines Kindes bestimmen,
+1. Erklärung, durch die Eltern nach der Beurkundung der Geburt den Geburtsnamen des Kindes bestimmen oder, wenn sie keinen Geburtsnamen bestimmen, die Erklärung eines Elternteils, der den gesetzlich vorgegebenen Namen ablehnt,
 
-2. ein Kind sich der Bestimmung seines Geburtsnamens durch die Eltern anschließt,
+2. Erklärung, durch die der Elternteil, dem die elterliche Sorge allein zusteht, dem Kind nur einen oder einige der Namen, aus denen der Familienname dieses Elternteils besteht, den Familiennamen des anderen Elternteils, einen aus den Namen beider Elternteile gebildeten Doppelnamen oder einen Geburtsnamen nach friesischer oder dänischer Tradition erteilt,
 
-3. ein Kind beantragt, den von seiner Mutter zur Zeit seiner Geburt geführten Namen als Geburtsnamen zu erhalten, wenn es den Namen eines Mannes führt, von dem rechtskräftig festgestellt wurde, dass er nicht der Vater des Kindes ist,
+3. Erklärung, durch die ein Kind sich der Bestimmung seines Geburtsnamens durch die Eltern anschließt,
 
-4. ein Mann den Antrag nach Nummer 3 stellt, wenn das Kind das fünfte Lebensjahr noch nicht vollendet hat,
+4. Erklärung, durch die ein Kind beantragt, den von seiner Mutter zur Zeit seiner Geburt geführten Familiennamen als Geburtsnamen zu erhalten, wenn es den Namen eines Mannes führt, von dem rechtskräftig festgestellt wurde, dass er nicht der Vater des Kindes ist,
 
-5. ein Kind sich der Änderung des Familiennamens der Eltern oder eines Elternteils anschließt,
+5. Erklärung, durch die ein Mann den Antrag nach Nummer 4 stellt, wenn das Kind das fünfte Lebensjahr noch nicht vollendet hat,
 
-6. der Elternteil, dem die elterliche Sorge allein oder gemeinsam mit dem anderen Elternteil zusteht, und sein Ehegatte, der nicht Elternteil des Kindes ist, oder sein Lebenspartner dem Kind ihren Ehenamen oder ihren Lebenspartnerschaftsnamen erteilen oder diesen Namen dem von dem Kind zur Zeit der Erklärung geführten Namen voranstellen oder anfügen,
+6. Erklärung, durch die ein Kind sich der Änderung des Namens der Eltern oder eines Elternteils anschließt,
 
-7. der Elternteil, dem die elterliche Sorge allein zusteht, dem Kind den Namen des anderen Elternteils erteilt,
+7. Erklärung, durch die der Elternteil, dem die elterliche Sorge allein oder gemeinsam mit dem anderen Elternteil zusteht, dem Kind seinen nach Scheidung vom anderen Elternteil oder Tod des anderen Elternteils wieder angenommenen Namen oder einen aus seinem wieder angenommenen Namen und dem von dem Kind zur Zeit der Erklärung geführten Geburtsnamen gebildeten Doppelnamen erteilt,
 
-sowie die zu den Nummern 6 und 7 erforderlichen Einwilligungen eines Elternteils oder des Kindes können auch von den Standesbeamten beglaubigt oder beurkundet werden. Gleiches gilt für die etwa erforderliche Zustimmung des gesetzlichen Vertreters zu einer in Satz 1 genannten Erklärung.
+8. Erklärung, durch die der Elternteil, dem die elterliche Sorge für das Kind allein oder gemeinsam mit dem anderen Elternteil zusteht, und sein Ehegatte, der nicht Elternteil des Kindes ist, das Kind einbenennen,
+
+9. Erklärung, durch die ein Elternteil, dem die elterliche Sorge für das Kind allein oder gemeinsam mit dem anderen Elternteil zusteht, das Kind rückbenennt oder durch die das volljährige Kind sich rückbenennt,
+
+10. Erklärung, durch die ein Elternteil nach der Beurkundung der Geburt den Geburtsnamen des Kindes dem Geschlecht des Kindes anpasst, durch die das volljährige Kind seinen Geburtsnamen seinem Geschlecht anpasst oder durch die eine solche Erklärung widerrufen wird,
+
+11. Erklärung, durch die eine volljährige Person ihren Geburtsnamen neu bestimmt.
+
+Satz 1 gilt auch für die etwa erforderliche Einwilligung eines Elternteils oder des Kindes oder Zustimmung des gesetzlichen Vertreters zu einer der in Satz 1 genannten Erklärungen.
 
 (2) Zur Entgegennahme der Erklärungen ist das Standesamt zuständig, das das Geburtenregister, in dem die Geburt des Kindes beurkundet ist, führt. Ist die Geburt des Kindes nicht in einem deutschen Geburtenregister beurkundet, so ist das Standesamt zuständig, in dessen Zuständigkeitsbereich das Kind oder ein Elternteil seinen Wohnsitz hat oder zuletzt hatte oder seinen gewöhnlichen Aufenthalt hat. Ergibt sich danach keine Zuständigkeit, so ist das Standesamt I in Berlin zuständig. Das Standesamt I in Berlin führt ein Verzeichnis der nach den Sätzen 2 und 3 entgegengenommenen Erklärungen.
 
@@ -1147,4 +1147,4 @@ Die Vorschriften für Änderungen des Geschlechtseintrags und der Vornamen nach 
 
 # § 79 – Altfallregelung
 
-Für die Bearbeitung von Anträgen auf Beurkundung von Auslandspersonenstandsfällen und von namensrechtlichen Erklärungen, die vor dem 1. November 2017 beim Standesamt I in Berlin gestellt oder dort eingegangen sind, bleibt abweichend von der in § 34 Absatz 4 Satz 1, § 35 Absatz 3 Satz 1, § 36 Absatz 2, § 41 Absatz 2 Satz 2, § 42 Absatz 2 Satz 2, § 43 Absatz 2 Satz 3 und § 45 Absatz 2 Satz 2 getroffenen Zuständigkeitsreglung bei lediglich früherem Wohnsitz im Inland das Standesamt I in Berlin zuständig.
+Für die Bearbeitung von Anträgen auf Beurkundung von Auslandspersonenstandsfällen und von namensrechtlichen Erklärungen, die vor dem 1. November 2017 beim Standesamt I in Berlin gestellt oder dort eingegangen sind, bleibt abweichend von der in § 34 Absatz 4 Satz 1, § 35 Absatz 3 Satz 1, § 36 Absatz 2, § 41 Absatz 2 Satz 2, § 43 Absatz 2 Satz 3 und § 45 Absatz 2 Satz 2 getroffenen Zuständigkeitsreglung bei lediglich früherem Wohnsitz im Inland das Standesamt I in Berlin zuständig.

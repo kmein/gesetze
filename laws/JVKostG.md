@@ -61,11 +61,9 @@ Im Fall des Satzes 1 Nummer 7 steht eine andere Behörde, die nach § 2 Absatz 1
 
 (1) Der Bund und die Länder sowie die nach den Haushaltsplänen des Bundes oder eines Landes verwalteten öffentlichen Anstalten und Kassen sind von der Zahlung der Gebühren befreit.
 
-(2) Von der Zahlung der Gebühren sind auch ausländische Behörden im Geltungsbereich der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36) befreit, wenn sie auf der Grundlage des Kapitels VI der Richtlinie Auskunft aus den in Teil 1 Hauptabschnitt 1 Abschnitt 4 oder Abschnitt 5 des Kostenverzeichnisses bezeichneten Registern oder Grundbüchern erhalten und wenn vergleichbaren deutschen Behörden für diese Auskunft Gebührenfreiheit zustünde.
+(2) Von der Zahlung der Gebühren sind auch ausländische Behörden im Geltungsbereich der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36) befreit, wenn sie auf der Grundlage des Kapitels VI der Richtlinie Auskunft aus den in Teil 1 Hauptabschnitt 1 Abschnitt 5 des Kostenverzeichnisses bezeichneten Registern oder Grundbüchern erhalten und wenn vergleichbaren deutschen Behörden für diese Auskunft Gebührenfreiheit zustünde.
 
-(3) Von den in § 380 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit genannten Stellen werden Gebühren nach Teil 1 Hauptabschnitt 1 Abschnitt 4 des Kostenverzeichnisses nicht erhoben, wenn die Abrufe erforderlich sind, um ein vom Gericht gefordertes Gutachten zu erstatten.
-
-(4) Sonstige bundesrechtliche oder landesrechtliche Vorschriften, durch die eine sachliche oder persönliche Befreiung von Kosten gewährt ist, bleiben unberührt.
+(3) Sonstige bundesrechtliche oder landesrechtliche Vorschriften, durch die eine sachliche oder persönliche Befreiung von Kosten gewährt ist, bleiben unberührt.
 
 # § 3 – Kostenfreie Amtshandlungen
 
@@ -227,7 +225,7 @@ Erfordert die Erteilung einer Auskunft für wissenschaftliche Forschungsvorhaben
 
 # § 23 – Bekanntmachung von Neufassungen
 
-Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
+Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
 
 1. den Stichtag, zu dem der Wortlaut festgestellt wird,
 

@@ -9,7 +9,7 @@ Für den Mutterschutz von Personen in einem Beamtenverhältnis beim Bund sowie b
 
 (1) Die folgenden Vorschriften des Mutterschutzgesetzes sind entsprechend anzuwenden:
 
-1. zu Begriffsbestimmungen (§ 2 Absatz 1 Satz 1, Absatz 3 Satz 1 und Absatz 4 des Mutterschutzgesetzes),
+1. zu Begriffsbestimmungen (§ 2 Absatz 1 Satz 1, Absatz 3 Satz 1, Absatz 4 und 6 des Mutterschutzgesetzes),
 
 2. zur Gestaltung der Arbeitsbedingungen (§§ 9, 10 Absatz 1 und 2, §§ 11, 12, 13 Absatz 1 Nummer 1 des Mutterschutzgesetzes),
 

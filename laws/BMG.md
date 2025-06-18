@@ -87,11 +87,9 @@ e) Geburtsdatum,
 
 f) Geschlecht,
 
-g) Sterbedatum,
+g) Sterbedatum sowie
 
-h) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
-
-i) die Identifikationsnummer nach § 139b der Abgabenordnung,
+h) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
 
 10. derzeitige Staatsangehörigkeiten,
 
@@ -119,11 +117,9 @@ f) Geschlecht,
 
 g) derzeitige Anschriften im Zuständigkeitsbereich der Meldebehörde sowie Anschrift der letzten alleinigen Wohnung oder Hauptwohnung außerhalb des Zuständigkeitsbereichs der Meldebehörde,
 
-h) Sterbedatum,
+h) Sterbedatum sowie
 
-i) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
-
-j) die Identifikationsnummer nach § 139b der Abgabenordnung,
+i) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
 
 16. zu minderjährigen Kindern
 
@@ -139,9 +135,7 @@ e) Anschrift im Inland,
 
 f) Sterbedatum,
 
-g) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
-
-h) die Identifikationsnummer nach § 139b der Abgabenordnung,
+g) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
 
 17. Ausstellungsbehörde, Ausstellungsdatum, letzter Tag der Gültigkeitsdauer und Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatz-Personalausweises, des anerkannten Passes oder Passersatzpapiers, Ausstellungsbehörde, letzter Tag der Gültigkeitsdauer und Seriennummer der eID-Karte sowie Sperrkennwort und Sperrsumme des Personalausweises und der eID-Karte,
 
@@ -165,9 +159,17 @@ c) (weggefallen)
 
 a) die Zugehörigkeit zu einer steuererhebenden Religionsgesellschaft sowie das Datum des Eintritts und Austritts,
 
-b) den Familienstand sowie
+b) den Familienstand,
 
-c) das Datum der Begründung oder Auflösung der Ehe oder Lebenspartnerschaft,
+c) das Datum der Begründung oder Auflösung der Ehe oder Lebenspartnerschaft sowie
+
+d) die Identifikationsnummern oder die Vorläufigen Bearbeitungsmerkmale
+
+aa)  
+des Ehegatten oder Lebenspartners,
+
+bb)  
+der minderjährigen Kinder, die ihre alleinige Wohnung oder ihre Hauptwohnung im Zuständigkeitsbereich derselben Meldebehörde haben,
 
 3. für Zwecke der Vergabe der Identifikationsnummer nach § 139b der Abgabenordnung bis zu deren Speicherung im Melderegister das Vorläufige Bearbeitungsmerkmal nach § 139b Absatz 6 Satz 2 der Abgabenordnung,
 

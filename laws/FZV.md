@@ -2439,7 +2439,7 @@ c) bei Fahrzeugen mit Versicherungskennzeichen oder zusätzlich zu den Angaben n
 
 Satz 1 Nummer 1 Buchstabe a gilt nicht für die Sicherheitscodes der Zulassungsbescheinigung Teil I und Teil II sowie der Stempelplaketten.
 
-(3) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem Zentralen Fahrzeugregister nach § 36 Absatz 2 Satz 1 Nummer 1a des Straßenverkehrsgesetzes dürfen für eine Anfrage unter Verwendung des Kennzeichens oder der Fahrzeug-Identifizierungsnummer folgende Daten bereitgehalten werden:
+(3) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem Zentralen Fahrzeugregister nach § 36 Absatz 2 Satz 1 Nummer 1a und Absatz 2m des Straßenverkehrsgesetzes dürfen für eine Anfrage unter Verwendung des Kennzeichens oder der Fahrzeug-Identifizierungsnummer folgende Daten bereitgehalten werden:
 
 1. das Kennzeichen, das Datum der Zuteilung des Kennzeichens, bei Saisonkennzeichen zusätzlich der Betriebszeitraum und das Datum der Außerbetriebsetzung des Fahrzeuges sowie die nach § 57 Absatz 1 Nummer 1 und 25 und Absatz 4 Nummer 1 zu erhebenden und zu speichernden Fahrzeugdaten und
 

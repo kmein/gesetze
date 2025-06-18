@@ -105,7 +105,7 @@ des § 3 Absatz 3 und des § 8 Absatz 5 Satz 1 und 3 des Agrarorganisationen-und
 
 (3) Abweichend von Absatz 1 können im Erzeugnisbereich Wein keine Branchenverbände anerkannt werden. Abweichend von Satz 1 können die Landesregierungen durch Rechtsverordnung vorsehen, dass zur Berücksichtigung besonderer regionaler Bedürfnisse Branchenverbände anerkannt werden.
 
-(4) Für Erzeugnisbereiche außerhalb des Absatzes 1, für die eine Anerkennung von Agrarorganisationen nach anderen Vorschriften vorgesehen ist, gelten Teil 1, § 33 Absatz 1, 2 und 3 Nummer 1, § 34 und, soweit die Durchführung des Agrarorganisationenrechts betroffen ist, die §§ 32 und 33 Absatz 3 Nummer 2 und 3 dieser Verordnung nicht, soweit nicht in anderen Rechtsvorschriften etwas Abweichendes bestimmt ist.
+(4) Für Erzeugnisbereiche außerhalb des Absatzes 1, für die eine Anerkennung von Agrarorganisationen nach anderen Vorschriften vorgesehen ist, gelten Teil 1, § 33 Absatz 1, 2 und 3 Nummer 1 und 2, § 34 und, soweit die Durchführung des Agrarorganisationenrechts betroffen ist, die §§ 32 und 33 Absatz 3 Nummer 3 und 4 dieser Verordnung nicht, soweit nicht in anderen Rechtsvorschriften etwas Abweichendes bestimmt ist.
 
 # § 2 – Grundsatz der Anerkennung
 
@@ -465,8 +465,6 @@ Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen erfasst, gelten d
 
 (3) Die Durchsetzungsbehörde unterrichtet die Beschwerdeführerin oder den Beschwerdeführer innerhalb einer angemessenen Frist, in der Regel spätestens nach sieben, bei grenzüberschreitenden Vereinbarungen nach elf Monaten, über das Ergebnis der Beschwerde. Ist im Einzelfall eine abschließende Bewertung innerhalb des nach Satz 1 vorgegebenen Zeitraums nicht möglich, erteilt sie ihr oder ihm eine Zwischennachricht.
 
-(4) Über die Erteilung des Einvernehmens nach § 28 Absatz 2 Satz 1 des Agrarorganisationen-und-Lieferketten-Gesetzes entscheidet das Bundeskartellamt innerhalb von einem Monat, nachdem ihm die Durchsetzungsbehörde den Entwurf der Entscheidung und die entscheidungserheblichen Informationen im Sinne des § 28 Absatz 2 Satz 4 des Agrarorganisationen-und-Lieferketten-Gesetzes übermittelt hat.
-
 # § 31 – Jahresbericht
 
 (1) Die Durchsetzungsbehörde teilt dem Bundesministerium bis zum 20. Februar eines jeden Jahres nach Maßgabe des Artikels 10 Absatz 2 und 3 der Richtlinie (EU) 2019/633 des Europäischen Parlaments und des Rates vom 17. April 2019 über unlautere Handelspraktiken in den Geschäftsbeziehungen zwischen Unternehmen in der Agrar- und Lebensmittelversorgungskette (ABl. L 111 vom 25.4.2019, S. 59) in Verbindung mit den einschlägigen Durchführungsrechtsakten der Kommission mit, wie die Vorschriften des Teils 3 Kapitel 1 des Agrarorganisationen-und-Lieferketten-Gesetzes und der vorliegenden Verordnung im vorausgegangenen Kalenderjahr angewandt und durchgesetzt wurden.
@@ -487,13 +485,27 @@ Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen erfasst, gelten d
 
 5. erforderliche Auskünfte verlangen.
 
+Die Durchsetzungsbehörde kann Zeugen verpflichten, zur Sache auszusagen, und Sachverständige verpflichten, ein Gutachten zu erstatten, sofern dies zur Überwachung der Vorgaben über Geschäftsbeziehungen in der Agrar-, Fischerei- und Lebensmittellieferkette erforderlich ist.
+
 (2) Die Agrarorganisation, der Käufer und der Lieferant sind verpflichtet,
 
-1. die in Absatz 1 Nummer 1 bis 4 genannten Handlungen zu dulden und
+1. die in Absatz 1 Satz 1 Nummer 1 bis 4 genannten Handlungen zu dulden und
 
 2. bei Maßnahmen nach Absatz 1 mitzuwirken, insbesondere auf Verlangen die Räume zu bezeichnen und ihr Betreten sowie Besichtigungen zu ermöglichen, die Entnahme von Proben zu ermöglichen, schriftlich oder elektronisch vorliegende Geschäftsunterlagen vorzulegen, Abschriften, Auszüge, Ausdrucke oder Kopien der Geschäftsunterlagen auf eigene Kosten anzufertigen und die erforderlichen Auskünfte zu erteilen.
 
 (3) Eine Person, die zur Erteilung einer Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen ihrer in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+
+# § 32a – Zeugen- und Sachverständigenvernehmung
+
+(1) Für den Beweis durch Zeugen und Sachverständige gemäß § 32 Absatz 1 Satz 2 sind die §§ 376 bis 378, 380 bis 387, 390, 395 bis 397, 398 Absatz 1 und die §§ 401, 402, 404, 404a, 406 bis 409 und 411 bis 414 der Zivilprozessordnung sinngemäß anzuwenden; Haft darf nicht verhängt werden. Für die Entscheidung über die Beschwerde ist das gemäß § 32 Absatz 1 des Agrarorganisationen-und-Lieferketten-Gesetzes zuständige Gericht zuständig. § 32 Absatz 3 bleibt durch Satz 1 unberührt.
+
+(2) Die Zeugenaussage soll schriftlich protokolliert werden. Das Protokoll soll Ort und Tag der Vernehmung, die Namen der bei der Zeugenvernehmung anwesenden Personen sowie die Unterschrift der mit der Vernehmung beauftragten Person und, wenn ein Urkundsbeamter zugezogen ist, auch die Unterschrift von diesem enthalten.
+
+(3) Das Protokoll ist dem Zeugen zur Genehmigung vorzulesen oder zur eigenen Durchsicht vorzulegen. Die Genehmigung soll schriftlich erfolgen. Eine mündlich erteilte Genehmigung ist zu vermerken.
+
+(4) Bei der Vernehmung von Sachverständigen sind die Absätze 2 und 3 entsprechend anzuwenden.
+
+(5) Die Durchsetzungsbehörde kann das Amtsgericht um die Beeidigung von Zeugen ersuchen, wenn sie die Beeidigung zur Herbeiführung einer wahrheitsgemäßen Aussage für notwendig erachtet. Über die Beeidigung entscheidet das Gericht.
 
 # § 33 – Ordnungswidrigkeiten
 
@@ -513,11 +525,11 @@ Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen erfasst, gelten d
 
 1. entgegen § 26 eine Unterlage nicht oder nicht mindestens vier Jahre aufbewahrt,
 
-2. entgegen § 32 Absatz 2 Nummer 1 eine dort genannte Handlung nicht duldet,
+2. entgegen § 28 Absatz 2 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-3. entgegen § 32 Absatz 2 Nummer 2 bei einer dort genannten Maßnahme nicht mitwirkt oder
+3. entgegen § 32 Absatz 2 Nummer 1 eine dort genannte Handlung nicht duldet oder
 
-4. entgegen § 28 Absatz 2 Satz 1 die dort genannten Informationen nicht, nicht vollständig oder nicht rechtzeitig mitteilt.
+4. entgegen § 32 Absatz 2 Nummer 2 bei einer dort genannten Maßnahme nicht mitwirkt.
 
 (4) Ordnungswidrig im Sinne des § 55 Absatz 1 Nummer 3 des Agrarorganisationen-und-Lieferketten-Gesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 2 der Durchführungsverordnung (EU) Nr. 511/2012 der Kommission vom 15. Juni 2012 über Mitteilungen in Bezug auf Erzeugerorganisationen und Branchenverbände sowie Vertragsverhandlungen und -beziehungen gemäß der Verordnung (EG) Nr. 1234/2007 des Rates im Sektor Milch und Milcherzeugnisse (ABl. L 156 vom 16.6.2012, S. 39), die zuletzt durch die Durchführungsverordnung (EU) 2022/2091 (ABl. L 281 vom 31.10.2022, S. 16) geändert worden ist, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
@@ -537,7 +549,7 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage – (zu § 1 Absatz 1)Ergänzungen von Erzeugnisbereichen und weitere Erzeugnisbereiche
 
-(Fundstelle: BGBl. I 2021, 4665 - 4666)
+(Fundstelle: BGBl. I 2021, 4665 - 4666; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 

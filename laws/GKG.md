@@ -152,178 +152,170 @@ Abschnitt 5</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Insolvenzverfahren</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">§ 23a</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz</td>
-</tr>
-<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 24</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Öffentliche Bekanntmachung in ausländischen Insolvenzverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 25</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 25a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 26</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zwangsversteigerungs- und Zwangsverwaltungsverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 26a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 27</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bußgeldsachen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auslagen in weiteren Fällen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 29</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Weitere Fälle der Kostenhaftung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 30</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erlöschen der Zahlungspflicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 31</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mehrere Kostenschuldner</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 32</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Haftung von Streitgenossen und Beigeladenen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 33</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verpflichtung zur Zahlung von Kosten in besonderen Fällen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 6</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Gebührenvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 34</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wertgebühren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einmalige Erhebung der Gebühren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 36</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Teile des Streitgegenstands</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 37</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zurückverweisung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verzögerung des Rechtsstreits</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 7</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Wertvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> <br />
 Unterabschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">  Allgemeine Wertvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 39</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grundsatz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 40</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zeitpunkt der Wertberechnung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 41</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Miet-, Pacht- und ähnliche Nutzungsverhältnisse</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 42</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wiederkehrende Leistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nebenforderungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Stufenklage</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Klage und Widerklage, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 46</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 47</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsmittelverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Besondere Wertvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 48</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bürgerliche Rechtsstreitigkeiten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 49</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschlussklagen nach dem Wohnungseigentumsgesetz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bestimmte Beschwerdeverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 51</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gewerblicher Rechtsschutz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 51a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 52</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren vor Gerichten der Verwaltungs-, Finanz- und Sozialgerichtsbarkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einstweiliger Rechtsschutz und Verfahren nach § 148 Absatz 1 und 2 des Aktiengesetzes</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">§ 53a</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 54</td>
@@ -588,11 +580,9 @@ Jede Kostenrechnung und jede anfechtbare Entscheidung hat eine Belehrung über d
 
 1. in bürgerlichen Rechtsstreitigkeiten,
 
-2. in Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz,
+2. in Insolvenzverfahren und in schifffahrtsrechtlichen Verteilungsverfahren,
 
-3. in Insolvenzverfahren und in schifffahrtsrechtlichen Verteilungsverfahren,
-
-3a. in Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz,
+3. in Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz,
 
 4. in Rechtsmittelverfahren des gewerblichen Rechtsschutzes und
 
@@ -662,7 +652,9 @@ In Verfahren vor den Gerichten für Arbeitssachen sind die Vorschriften dieses A
 
 (5) Über den Antrag auf Abnahme der eidesstattlichen Versicherung soll erst nach Zahlung der dafür vorgesehenen Gebühr entschieden werden.
 
-(6) Über Anträge auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 733 der Zivilprozessordnung) und über Anträge auf gerichtliche Handlungen der Zwangsvollstreckung gemäß § 829 Absatz 1, §§ 835, 839, 846 bis 848, 857, 858, 886 bis 888 oder § 890 der Zivilprozessordnung soll erst nach Zahlung der Gebühr für das Verfahren und der Auslagen für die Zustellung entschieden werden. Dies gilt nicht bei elektronischen Anträgen auf gerichtliche Handlungen der Zwangsvollstreckung gemäß § 829a der Zivilprozessordnung.
+(6) Über Anträge auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 733 der Zivilprozessordnung), Anträge auf Erteilung einer vollstreckbaren Ausfertigung für oder gegen einen Rechtsnachfolger (§ 727, auch in Verbindung mit den §§ 728, 729, 738, 742, 744, 744a, 745 Absatz 2 oder § 749 der Zivilprozessordnung), und über Anträge auf gerichtliche Handlungen der Zwangsvollstreckung gemäß § 829 Absatz 1, §§ 835, 839, 846 bis 848, 857, 858, 886 bis 888 oder § 890 der Zivilprozessordnung soll erst nach Zahlung der Gebühr für das Verfahren und der Auslagen für die Zustellung entschieden werden. Dies gilt nicht bei elektronischen Anträgen auf gerichtliche Handlungen der Zwangsvollstreckung gemäß § 829a der Zivilprozessordnung.
+
+(7) In schiedsrichterlichen Verfahren der in den Nummern 1620 bis 1625 des Kostenverzeichnisses bezeichneten Art soll vor Zahlung der Gebühr für das Verfahren keine gerichtliche Handlung vorgenommen werden.
 
 # § 12a – Verfahren wegen überlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren
 
@@ -752,11 +744,11 @@ Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind
 
 # § 22 – Streitverfahren, Bestätigungen und Bescheinigungen zu inländischen Titeln
 
-(1) In bürgerlichen Rechtsstreitigkeiten mit Ausnahme der Restitutionsklage nach § 580 Nummer 8 der Zivilprozessordnung sowie in Verfahren nach § 1 Absatz 1 Satz 1 Nummer 14, Absatz 2 Nummer 1 bis 3 sowie Absatz 4 schuldet die Kosten, wer das Verfahren des Rechtszugs beantragt hat. Im Verfahren, das gemäß § 700 Absatz 3 der Zivilprozessordnung dem Mahnverfahren folgt, schuldet die Kosten, wer den Vollstreckungsbescheid beantragt hat. Im Verfahren, das nach Einspruch dem Europäischen Mahnverfahren folgt, schuldet die Kosten, wer den Zahlungsbefehl beantragt hat. Die Gebühr für den Abschluss eines gerichtlichen Vergleichs schuldet jeder, der an dem Abschluss beteiligt ist.
+(1) In bürgerlichen Rechtsstreitigkeiten mit Ausnahme der Restitutionsklage nach § 580 Nummer 8 der Zivilprozessordnung sowie in Verfahren nach § 1 Absatz 1 Satz 1 Nummer 14, Absatz 2 Nummer 1 bis 3 sowie Absatz 4 schuldet die Kosten, wer das Verfahren des Rechtszugs beantragt hat. Im Verfahren, das gemäß § 696 Absatz 1 der Zivilprozessordnung dem Mahnverfahren folgt, schuldet die Kosten, wer den Mahnbescheid beantragt hat. Im Verfahren, das gemäß § 700 Absatz 3 der Zivilprozessordnung dem Mahnverfahren folgt, schuldet die Kosten, wer den Vollstreckungsbescheid beantragt hat. Im Verfahren, das nach Einspruch dem Europäischen Mahnverfahren folgt, schuldet die Kosten, wer den Zahlungsbefehl beantragt hat. Die Gebühr für den Abschluss eines gerichtlichen Vergleichs schuldet jeder, der an dem Abschluss beteiligt ist.
 
 (2) In Verfahren vor den Gerichten für Arbeitssachen ist Absatz 1 nicht anzuwenden, soweit eine Kostenhaftung nach § 29 Nummer 1 oder 2 besteht. Absatz 1 ist ferner nicht anzuwenden, solange bei einer Zurückverweisung des Rechtsstreits an die Vorinstanz nicht feststeht, wer für die Kosten nach § 29 Nummer 1 oder 2 haftet, und der Rechtsstreit noch anhängig ist; er ist jedoch anzuwenden, wenn das Verfahren nach Zurückverweisung sechs Monate geruht hat oder sechs Monate von den Parteien nicht betrieben worden ist.
 
-(3) In Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 der Zivilprozessordnung, einer Bescheinigung nach § 1110 der Zivilprozessordnung oder nach § 57, § 58 oder § 59 des Anerkennungs- und Vollstreckungsausführungsgesetzes schuldet die Kosten der Antragsteller.
+(3) In Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 der Zivilprozessordnung, einer Bescheinigung nach § 1110 der Zivilprozessordnung, § 27 des Internationalen Erbrechtsverfahrensgesetzes oder nach § 57, § 58 oder § 59 des Anerkennungs- und Vollstreckungsausführungsgesetzes schuldet die Kosten der Antragsteller.
 
 (4) Im erstinstanzlichen Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz ist Absatz 1 nicht anzuwenden. Die Kosten für die Anmeldung eines Anspruchs zum Musterverfahren schuldet der Anmelder. Im Verfahren über die Rechtsbeschwerde nach § 23 des Kapitalanleger-Musterverfahrensgesetzes schuldet neben dem Rechtsbeschwerdeführer auch der Beteiligte, der dem Rechtsbeschwerdeverfahren auf Seiten des Rechtsbeschwerdeführers beigetreten ist, die Kosten.
 
@@ -775,10 +767,6 @@ Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind
 (6) Die Kosten des Koordinationsverfahrens trägt der Schuldner, der die Einleitung des Verfahrens beantragt hat. Dieser Schuldner trägt die Kosten auch, wenn der Antrag von dem Insolvenzverwalter, dem vorläufigen Insolvenzverwalter, dem Gläubigerausschuss oder dem vorläufigen Gläubigerausschuss gestellt wird.
 
 (7) Im Übrigen schuldet die Kosten der Schuldner des Insolvenzverfahrens.
-
-# § 23a – Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz
-
-Die Kosten des Sanierungs- und Reorganisationsverfahrens schuldet nur das Kreditinstitut.
 
 # § 24 – Öffentliche Bekanntmachung in ausländischen Insolvenzverfahren
 
@@ -866,7 +854,7 @@ Die nach den §§ 53 bis 55, 177, 209 und 269 der Insolvenzordnung sowie den §�
 
 # § 34 – Wertgebühren
 
-(1) Wenn sich die Gebühren nach dem Streitwert richten, beträgt bei einem Streitwert bis 500 Euro die Gebühr 38 Euro. Die Gebühr erhöht sich bei einem  
+(1) Wenn sich die Gebühren nach dem Streitwert richten, beträgt bei einem Streitwert bis 500 Euro die Gebühr 40 Euro. Die Gebühr erhöht sich bei einem  
   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
@@ -878,53 +866,54 @@ Die nach den §§ 53 bis 55, 177, 209 und 269 der Insolvenzordnung sowie den §�
 <thead data-valign="bottom">
 <tr class="header" data-valign="middle">
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Streitwert<br />
-bis … Euro</th>
+bis ... Euro</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">für jeden<br />
 angefangenen<br />
 Betrag von<br />
 weiteren<br />
-… Euro</th>
+... Euro</th>
 <th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">um<br />
-… Euro</th>
+... Euro</th>
 </tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  2 000</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   500</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">   20</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 21,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 10 000</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 1 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">   21</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 22,50</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 25 000</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 3 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">   29</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 30,50</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 50 000</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 5 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">   38</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 40,50</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">200 000</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">15 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  132</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">140,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">500 000</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">30 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  198</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">210,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  über<br />
 500 000</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
 50 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  198</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+ 210,00</td>
 </tr>
 </tbody>
 </table>
@@ -933,7 +922,7 @@ weiteren<br />
   
 Eine Gebührentabelle für Streitwerte bis 500 000 Euro ist diesem Gesetz als Anlage 2 beigefügt.
 
-(2) Der Mindestbetrag einer Gebühr ist 15 Euro.
+(2) Der Mindestbetrag einer Gebühr ist 15 Euro. Gebühren werden auf den nächstliegenden Cent auf- oder abgerundet; 0,5 Cent werden aufgerundet.
 
 # § 35 – Einmalige Erhebung der Gebühren
 
@@ -975,7 +964,7 @@ Für die Wertberechnung ist der Zeitpunkt der den jeweiligen Streitgegenstand be
 
 (4) Bei Ansprüchen nach den §§ 574 bis 574b des Bürgerlichen Gesetzbuchs ist auch für die Rechtsmittelinstanz der für den ersten Rechtszug maßgebende Wert zugrunde zu legen, sofern nicht die Beschwer geringer ist.
 
-(5) Bei Ansprüchen auf Erhöhung der Miete für Wohnraum ist der Jahresbetrag der zusätzlich geforderten Miete, bei Feststellung einer Minderung der Miete für Wohnraum der Jahresbetrag der Mietminderung, bei Ansprüchen des Mieters auf Durchführung von Instandsetzungsmaßnahmen der Jahresbetrag einer angemessenen Mietminderung und bei Ansprüchen des Vermieters auf Duldung einer Durchführung von Modernisierungs- oder Erhaltungsmaßnahmen der Jahresbetrag einer möglichen Mieterhöhung, in Ermangelung dessen einer sonst möglichen Mietminderung durch den Mieter maßgebend. Endet das Mietverhältnis vor Ablauf eines Jahres, ist ein entsprechend niedrigerer Betrag maßgebend.
+(5) Bei Ansprüchen auf Erhöhung der Miete für Wohnraum ist der Jahresbetrag der zusätzlich geforderten Miete, bei Feststellung einer Minderung der Miete für Wohnraum der Jahresbetrag der Mietminderung, bei Feststellung einer Überschreitung der nach § 556d Absatz 1 oder § 556e des Bürgerlichen Gesetzbuchs zulässigen Miete der Jahresbetrag der Überschreitung, bei Ansprüchen des Mieters auf Durchführung von Instandsetzungsmaßnahmen der Jahresbetrag einer angemessenen Mietminderung und bei Ansprüchen des Vermieters auf Duldung einer Durchführung von Modernisierungs- oder Erhaltungsmaßnahmen der Jahresbetrag einer möglichen Mieterhöhung, in Ermangelung dessen einer sonst möglichen Mietminderung durch den Mieter maßgebend. Endet das Mietverhältnis vor Ablauf eines Jahres, ist ein entsprechend niedrigerer Betrag maßgebend.
 
 # § 42 – Wiederkehrende Leistungen
 
@@ -1045,7 +1034,7 @@ Der Streitwert in Verfahren nach § 44 Absatz 1 des Wohnungseigentumsgesetzes is
 
 Im Verfahren über Beschwerden eines Beigeladenen (§ 54 Absatz 2 Nummer 3 des Gesetzes gegen Wettbewerbsbeschränkungen, § 79 Absatz 1 Nummer 3 des Energiewirtschaftsgesetzes und § 16 Nummer 3 des EU-Verbraucherschutzdurchführungsgesetzes) ist der Streitwert unter Berücksichtigung der sich für den Beigeladenen ergebenden Bedeutung der Sache nach Ermessen zu bestimmen.
 
-(2) Im Verfahren über die Beschwerde gegen die Entscheidung der Vergabekammer (§ 171 des Gesetzes gegen Wettbewerbsbeschränkungen) einschließlich des Verfahrens über den Antrag nach § 169 Absatz 2 Satz 5 und 6, Absatz 4 Satz 2, § 173 Absatz 1 Satz 3 und nach § 176 des Gesetzes gegen Wettbewerbsbeschränkungen beträgt der Streitwert 5 Prozent der Bruttoauftragssumme.
+(2) Im Verfahren über die Beschwerde gegen die Entscheidung der Vergabekammer (§ 171 des Gesetzes gegen Wettbewerbsbeschränkungen) einschließlich des Verfahrens über den Antrag nach § 169 Absatz 2 Satz 6 und 7, Absatz 4 Satz 2, § 173 Absatz 1 Satz 3 und nach § 176 des Gesetzes gegen Wettbewerbsbeschränkungen beträgt der Streitwert 5 Prozent der Bruttoauftragssumme.
 
 # § 50a – Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz
 
@@ -1133,13 +1122,9 @@ Maßgebend für die Berechnung ist das laufende Kalenderjahr. Bezügebestandteil
 
 5. nach § 50 Absatz 3 bis 5 des Wertpapiererwerbs- und Übernahmegesetzes.
 
-# § 53a – Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz
-
-Die Gebühren im Sanierungs- und Reorganisationsverfahren werden nach der Bilanzsumme des letzten Jahresabschlusses vor der Stellung des Antrags auf Durchführung des Sanierungs- oder Reorganisationsverfahrens erhoben.
-
 # § 54 – Zwangsversteigerung
 
-(1) Bei der Zwangsversteigerung von Grundstücken sind die Gebühren für das Verfahren im Allgemeinen und für die Abhaltung des Versteigerungstermins nach dem gemäß § 74a Absatz 5 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung festgesetzten Wert zu berechnen. Ist ein solcher Wert nicht festgesetzt, ist der Einheitswert maßgebend. Weicht der Gegenstand des Verfahrens vom Gegenstand der Einheitsbewertung wesentlich ab oder hat sich der Wert infolge bestimmter Umstände, die nach dem Feststellungszeitpunkt des Einheitswerts eingetreten sind, wesentlich verändert oder ist ein Einheitswert noch nicht festgestellt, ist der nach den Grundsätzen der Einheitsbewertung geschätzte Wert maßgebend. Wird der Einheitswert nicht nachgewiesen, ist das Finanzamt um Auskunft über die Höhe des Einheitswerts zu ersuchen; § 30 der Abgabenordnung steht der Auskunft nicht entgegen.
+(1) Bei der Zwangsversteigerung von Grundstücken sind die Gebühren für das Verfahren im Allgemeinen und für die Abhaltung des Versteigerungstermins nach dem gemäß § 74a Absatz 5 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung festgesetzten Wert zu berechnen. Ist ein solcher Wert nicht festgesetzt, ist der Grundsteuerwert maßgebend. Weicht der Gegenstand des Verfahrens vom Gegenstand der Grundsteuerwertfeststellung wesentlich ab oder hat sich der Wert infolge bestimmter Umstände, die nach dem Feststellungszeitpunkt des Grundsteuerwerts eingetreten sind, wesentlich verändert oder ist ein Grundsteuerwert noch nicht festgestellt, ist der nach den Grundsätzen der Grundsteuerwertfeststellung geschätzte Wert maßgebend. Wird der Grundsteuerwert nicht nachgewiesen, ist das Finanzamt um Auskunft über die Höhe des Grundsteuerwerts zu ersuchen; § 30 der Abgabenordnung steht der Auskunft nicht entgegen.
 
 (2) Die Gebühr für die Erteilung des Zuschlags bestimmt sich nach dem Gebot ohne Zinsen, für das der Zuschlag erteilt ist, einschließlich des Werts der nach den Versteigerungsbedingungen bestehen bleibenden Rechte zuzüglich des Betrags, in dessen Höhe der Ersteher nach § 114a des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung als aus dem Grundstück befriedigt gilt. Im Fall der Zwangsversteigerung zur Aufhebung einer Gemeinschaft vermindert sich der Wert nach Satz 1 um den Anteil des Erstehers an dem Gegenstand des Verfahrens; bei Gesamthandeigentum ist jeder Mitberechtigte wie ein Eigentümer nach dem Verhältnis seines Anteils anzusehen.
 
@@ -1285,7 +1270,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, d
 
 # § 70a – Bekanntmachung von Neufassungen
 
-Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
+Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
 
 1. den Stichtag, zu dem der Wortlaut festgestellt wird,
 
@@ -1351,15 +1336,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 2 – (zu § 34 Absatz 1 Satz 3)
 
-(Fundstelle: BGBl. I 2020, 3233)
+(Fundstelle: BGBl. 2025 I Nr. 109, S. 11)
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 1%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
+<col style="width: 2%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
 </colgroup>
 <thead data-valign="bottom">
 <tr class="header" data-valign="middle">
@@ -1376,151 +1361,151 @@ bis … €</th>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    500</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">     38,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   500</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 40,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 50 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">    601,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  638,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  1 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">     58,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 1 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 61,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 65 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">    733,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  778,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  1 500</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">     78,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 1 500</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 82,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 80 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">    865,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  918,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  2 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">     98,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 2 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">103,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 95 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">    997,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 058,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  3 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    119,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 3 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">125,50</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">110 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  1 129,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 198,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  4 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    140,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 4 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">148,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">125 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  1 261,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 338,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  5 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    161,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 5 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">170,50</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">140 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  1 393,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 478,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  6 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    182,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 6 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">193,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">155 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  1 525,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 618,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  7 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    203,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 7 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">215,50</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">170 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  1 657,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 758,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  8 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    224,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 8 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">238,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">185 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  1 789,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 898,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  9 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    245,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 9 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">260,50</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">200 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  1 921,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 038,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 10 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    266,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">10 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">283,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">230 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  2 119,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 248,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 13 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    295,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">13 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">313,50</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">260 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  2 317,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 458,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 16 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    324,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">16 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">344,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">290 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  2 515,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 668,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 19 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    353,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">374,50</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">320 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  2 713,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 878,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 22 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    382,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">22 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">405,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">350 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  2 911,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 088,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 25 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    411,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">25 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">435,50</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">380 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  3 109,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 298,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 30 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    449,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">30 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">476,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">410 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  3 307,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 508,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 35 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    487,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">35 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">516,50</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">440 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  3 505,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 718,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 40 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    525,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">40 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">557,00</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">470 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  3 703,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 928,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 45 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    563,00</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">45 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">597,50</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">500 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  3 901,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">4 138,00</td>
 </tr>
 </tbody>
 </table>

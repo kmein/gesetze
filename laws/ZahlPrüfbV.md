@@ -249,25 +249,31 @@ sowie
 
 (10) Die Vorschrift zum Prüfintervall nach § 15 Absatz 4 bleibt durch die vorstehenden Absätze unberührt.
 
-# § 16a – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EG) Nr. 924/2009
+# § 16a – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2021/1230
 
-(1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 11), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert worden ist, entsprechen. Die Beurteilung umfasst die Einhaltung der Bestimmungen zu
+(1) Der Abschlussprüfer hat darzustellen, ob die von dem Institut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) 2021/1230 des Europäischen Parlaments und des Rates vom 14. Juli 2021 über grenzüberschreitende Zahlungen in der Union (ABl. L 274 vom 30.7.2021, S. 20), die durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, entsprechen. Die Beurteilung umfasst die Einhaltung der Bestimmungen zu
 
 1. Entgelten für grenzüberschreitende Zahlungen nach Artikel 3 Absatz 1 der Verordnung sowie
 
 2. Entgelten nach Artikel 4 Absatz 3 Satz 1 der Verordnung, die über das Entgelt gemäß Artikel 3 Absatz 1 der Verordnung hinausgehen.
 
-(2) Des Weiteren hat der Abschlussprüfer darzustellen, welche Maßnahmen das Institut ergriffen hat, um die in Absatz 1 genannten Anforderungen der Verordnung (EU) Nr. 924/2009 zu erfüllen.
+(2) Des Weiteren hat der Abschlussprüfer darzustellen, welche Maßnahmen das Institut ergriffen hat, um die in Absatz 1 genannten Anforderungen der Verordnung (EU) 2021/1230 zu erfüllen.
 
 (3) Sofern die Durchführung interner Vorkehrungen durch das Institut vertraglich auf eine dritte Person oder ein anderes Unternehmen ausgelagert worden ist, hat der Abschlussprüfer hierüber zu berichten.
 
 # § 16b – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260/2012
 
-(1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) entsprechen. Die Beurteilung umfasst
+(1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, entsprechen. Die Beurteilung umfasst
 
 1. die Erreichbarkeit für Überweisungen und Lastschriften innerhalb der Europäischen Union nach Artikel 3 der Verordnung,
 
-2. die Einhaltung der technischen Anforderungen für Überweisungen und Lastschriften nach Artikel 5 Absatz 1 bis 3 sowie 7 und 8 der Verordnung sowie
+2. die Einhaltung der technischen Anforderungen für Überweisungen und Lastschriften nach Artikel 5 Absatz 1 bis 3 sowie 7 und 8 der Verordnung,
+
+2a. die Versendung und den Empfang für Echtzeitüberweisungen innerhalb der Europäischen Union nach Artikel 5a der Verordnung,
+
+2b. die Einhaltung der Bestimmungen zu Entgelten nach Artikel 5b der Verordnung,
+
+2c. die Einhaltung der Bestimmungen zur Überprüfung des Zahlungsempfängers im Fall von Überweisungen nach Artikel 5c der Verordnung sowie
 
 3. die Einhaltung der Bestimmungen zu Interbankenentgelten für Lastschriften nach Artikel 8 der Verordnung.
 

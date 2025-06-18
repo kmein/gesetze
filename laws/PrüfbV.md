@@ -522,9 +522,9 @@ c) deren Anzahl in Drittstaaten und von diesen Zweigstellen, Zweigniederlassunge
 
 (10) Die Vorschrift zum Prüfintervall nach § 26 Absatz 4 bleibt durch die vorstehenden Absätze unberührt.
 
-# § 28 – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EG) Nr. 924/2009
+# § 28 – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2021/1230
 
-(1) Bei Kreditinstituten hat der Abschlussprüfer zu beurteilen, ob die von dem Kreditinstitut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 11), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert worden ist, entsprechen. Dabei ist zu beurteilen, ob die folgenden Bestimmungen eingehalten werden:
+(1) Bei Kreditinstituten hat der Abschlussprüfer zu beurteilen, ob die von dem Kreditinstitut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) 2021/1230 des Europäischen Parlaments und des Rates vom 14. Juli 2021 über grenzüberschreitende Zahlungen in der Union (ABl. L 274 vom 30.7.2021, S. 20), die durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, entsprechen. Dabei ist zu beurteilen, ob die folgenden Bestimmungen eingehalten werden:
 
 1. die Bestimmungen zu Entgelten für grenzüberschreitende Zahlungen nach Artikel 3 Absatz 1 der Verordnung,
 
@@ -532,7 +532,7 @@ c) deren Anzahl in Drittstaaten und von diesen Zweigstellen, Zweigniederlassunge
 
 3. die Bestimmungen zu Interbankenentgelten für Inlandslastschriften nach Artikel 7 Absatz 1 der Verordnung.
 
-(2) Der Abschlussprüfer hat darzustellen, welche Maßnahmen das Kreditinstitut ergriffen hat, um die in Absatz 1 genannten Anforderungen der Verordnung (EU) Nr. 924/2009 zu erfüllen.
+(2) Der Abschlussprüfer hat darzustellen, welche Maßnahmen das Kreditinstitut ergriffen hat, um die in Absatz 1 genannten Anforderungen der Verordnung (EU) 2021/1230 zu erfüllen.
 
 (3) Sofern das Kreditinstitut das Treffen interner Vorkehrungen vertraglich auf eine dritte Person oder ein anderes Unternehmen ausgelagert hat, hat der Abschlussprüfer hierüber zu berichten.
 
@@ -542,7 +542,13 @@ c) deren Anzahl in Drittstaaten und von diesen Zweigstellen, Zweigniederlassunge
 
 1. die Erreichbarkeit für Überweisungen und Lastschriften innerhalb der Europäischen Union nach Artikel 3 der Verordnung gewährleistet oder sichergestellt ist,
 
-2. die technischen Anforderungen für Überweisungen und Lastschriften nach Artikel 5 Absatz 1 bis 3 sowie 7 und 8 der Verordnung erfüllt werden sowie
+2. die technischen Anforderungen für Überweisungen und Lastschriften nach Artikel 5 Absatz 1 bis 3 sowie 7 und 8 der Verordnung erfüllt werden,
+
+2a. die Versendung und der Empfang für Echtzeitüberweisungen innerhalb der Europäischen Union nach Artikel 5a der Verordnung gewährleistet oder sichergestellt ist,
+
+2b. die Bestimmungen zu Entgelten nach Artikel 5b der Verordnung eingehalten werden,
+
+2c. die Bestimmungen zur Überprüfung des Zahlungsempfängers im Fall von Überweisungen nach Artikel 5c der Verordnung eingehalten werden sowie
 
 3. die Bestimmungen zu Interbankenentgelten für Lastschriften nach Artikel 8 der Verordnung eingehalten werden.
 

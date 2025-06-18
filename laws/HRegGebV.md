@@ -115,7 +115,7 @@ Ersteintragung</td>
 eines Einzelkaufmanns 
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">70,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">105,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1101</td>
@@ -126,7 +126,7 @@ einer Gesellschaft mit bis zu 3 einzutragenden Gesellschaftern oder einer Partne
 </dd>
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-100,00 €</td>
+150,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1102</td>
@@ -139,7 +139,7 @@ Die Gebühr 1101 erhöht sich für jeden weiteren einzutragenden Gesellschafter 
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
 <br />
-40,00 €</td>
+60,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -154,7 +154,7 @@ Die Gebühr 1101 erhöht sich für jeden weiteren einzutragenden Gesellschafter 
 eines Einzelkaufmanns 
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">150,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">225,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1104</td>
@@ -165,7 +165,7 @@ einer Gesellschaft mit bis zu 3 einzutragenden Gesellschaftern oder einer Partne
 </dd>
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-180,00 €</td>
+270,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1105</td>
@@ -179,7 +179,7 @@ Die Gebühr 1104 erhöht sich für jeden weiteren einzutragenden Gesellschafter 
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
-70,00 €</td>
+105,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
@@ -194,7 +194,7 @@ Errichtung einer Zweigniederlassung</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1200</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung einer Zweigniederlassung </td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">40,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">60,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
@@ -228,7 +228,7 @@ Verlegung der Hauptniederlassung oder des Sitzes</td>
 einem Einzelkaufmann 
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">60,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">90,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1301</td>
@@ -239,7 +239,7 @@ einer Gesellschaft mit bis zu 3 eingetragenen Gesellschaftern oder einer Partner
 </dd>
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-80,00 €</td>
+120,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -261,7 +261,7 @@ einer Gesellschaft mit mehr als 3 eingetragenen Gesellschaftern oder einer Partn
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
 <br />
-40,00 €</td>
+60,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1303</td>
@@ -273,7 +273,7 @@ einer Gesellschaft mit mehr als 3 eingetragenen Gesellschaftern oder einer Partn
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
 <br />
-10,00 €</td>
+15,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
@@ -303,7 +303,7 @@ Umwandlung nach dem Umwandlungsgesetz</td>
 in das Register des übertragenden oder formwechselnden Rechtsträgers
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">180,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">270,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1401</td>
@@ -313,7 +313,7 @@ in das Register des übertragenden oder formwechselnden Rechtsträgers
 in das Register des übernehmenden Rechtsträgers
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">180,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">270,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -352,7 +352,7 @@ Sonstige spätere Eintragung</td>
 einem Einzelkaufmann
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">40,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">60,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1501</td>
@@ -363,7 +363,7 @@ einer Gesellschaft mit bis zu 50 eingetragenen Gesellschaftern oder einer Partne
 </dd>
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-60,00 €</td>
+90,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1502</td>
@@ -374,14 +374,14 @@ einer Gesellschaft mit mehr als 50 eingetragenen Gesellschaftern oder einer Part
 </dd>
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-70,00 €</td>
+105,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1503</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung der zweiten und jeder weiteren Tatsache aufgrund derselben Anmeldung:<br />
 Die Gebühren 1500 bis 1502 betragen jeweils</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-30,00 €</td>
+45,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -393,7 +393,7 @@ Die Gebühren 1500 bis 1502 betragen jeweils</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Eintragung betrifft eine Tatsache ohne wirtschaftliche Bedeutung:<br />
 Die Gebühren 1500 bis 1502 betragen</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-30,00 €</td>
+45,00 €</td>
 </tr>
 </tbody>
 </table>
@@ -438,28 +438,28 @@ Ersteintragung</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2100</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung einer Gesellschaft mit beschränkter Haftung einschließlich einer Unternehmergesellschaft – außer aufgrund einer Umwandlung nach dem UmwG –</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-150,00 €</td>
+225,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2101</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Es wird mindestens eine Sacheinlage geleistet:<br />
 Die Gebühr 2100 beträgt</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-240,00 €</td>
+360,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2102</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung einer Aktiengesellschaft, einer Kommanditgesellschaft auf Aktien oder eines Versicherungsvereins auf Gegenseitigkeit – außer aufgrund einer Umwandlung nach dem UmwG – </td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
 <br />
-300,00 €</td>
+450,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2103</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Es wird mindestens eine Sacheinlage geleistet:<br />
 Die Gebühr 2102 beträgt</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-360,00 €</td>
+540,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -474,7 +474,7 @@ Die Gebühr 2102 beträgt</td>
 einer Gesellschaft mit beschränkter Haftung
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">260,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">390,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2105</td>
@@ -484,7 +484,7 @@ einer Gesellschaft mit beschränkter Haftung
 einer Aktiengesellschaft oder einer Kommanditgesellschaft auf Aktien
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">660,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">990,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2106</td>
@@ -494,7 +494,7 @@ einer Aktiengesellschaft oder einer Kommanditgesellschaft auf Aktien
 eines Versicherungsvereins auf Gegenseitigkeit
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">460,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">690,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
@@ -514,7 +514,7 @@ Errichtung einer Zweigniederlassung</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2200</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung einer Zweigniederlassung</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">120,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">180,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
@@ -534,7 +534,7 @@ Verlegung des Sitzes</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2300</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung bei dem Gericht, in dessen Bezirk der Sitz verlegt worden ist </td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">140,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">210,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -572,7 +572,7 @@ der Nachgründung einer Aktiengesellschaft oder des Beschlusses der Hauptversamm
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
-270,00 €</td>
+405,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2401</td>
@@ -583,7 +583,7 @@ der Erhöhung des Stammkapitals durch Sacheinlage oder der Erhöhung des Stammka
 </dd>
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-210,00 €</td>
+315,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -598,7 +598,7 @@ der Erhöhung des Stammkapitals durch Sacheinlage oder der Erhöhung des Stammka
 in das Register des übertragenden oder formwechselnden Rechtsträgers
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">240,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">360,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2403</td>
@@ -608,7 +608,7 @@ in das Register des übertragenden oder formwechselnden Rechtsträgers
 in das Register des übernehmenden Rechtsträgers
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">240,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">360,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -618,13 +618,13 @@ in das Register des übernehmenden Rechtsträgers
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2404</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung der Eingliederung oder des Endes der Eingliederung einer Aktiengesellschaft</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">210,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">315,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2405</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung des Übertragungsbeschlusses im Fall des Ausschlusses von Minderheitsaktionären (§ 327e AktG)</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-210,00 €</td>
+315,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
@@ -648,14 +648,14 @@ Sonstige spätere Eintragung</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2500</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung einer Tatsache</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">70,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">105,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2501</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung der zweiten und jeder weiteren Tatsache aufgrund derselben Anmeldung:<br />
 Die Gebühr 2500 beträgt jeweils </td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-40,00 €</td>
+60,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -667,7 +667,7 @@ Die Gebühr 2500 beträgt jeweils </td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Eintragung betrifft eine Tatsache ohne wirtschaftliche Bedeutung:<br />
 Die Gebühren 2500 und 2501 betragen</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-30,00 €</td>
+45,00 €</td>
 </tr>
 </tbody>
 </table>
@@ -721,7 +721,7 @@ Ersteintragung</td>
 außer aufgrund einer Umwandlung nach dem UmwG
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">210,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">315,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3101</td>
@@ -731,7 +731,7 @@ außer aufgrund einer Umwandlung nach dem UmwG
 aufgrund einer Umwandlung nach dem UmwG
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">360,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">540,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
@@ -751,7 +751,7 @@ Errichtung einer Zweigniederlassung</td>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3200</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung einer Zweigniederlassung</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">60,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">90,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
@@ -771,7 +771,7 @@ Verlegung des Sitzes</td>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3300</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung bei dem Gericht, in dessen Bezirk der Sitz verlegt worden ist</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">210,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">315,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -806,7 +806,7 @@ Umwandlung nach dem Umwandlungsgesetz</td>
 in das Register des übertragenden oder formwechselnden Rechtsträgers
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">300,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">450,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3401</td>
@@ -816,7 +816,7 @@ in das Register des übertragenden oder formwechselnden Rechtsträgers
 in das Register des übernehmenden Rechtsträgers
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">300,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">450,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -845,14 +845,14 @@ Sonstige spätere Eintragung</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3500</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung einer Tatsache</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">110,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">165,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3501</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung der zweiten und jeder weiteren Tatsache aufgrund derselben Anmeldung:<br />
 Die Gebühr 3500 beträgt jeweils</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-60,00 €</td>
+90,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -864,7 +864,7 @@ Die Gebühr 3500 beträgt jeweils</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Eintragung betrifft eine Tatsache ohne wirtschaftliche Bedeutung:<br />
 Die Gebühren 3500 und 3501 betragen</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-30,00 €</td>
+45,00 €</td>
 </tr>
 </tbody>
 </table>
@@ -886,14 +886,14 @@ Die Gebühren 3500 und 3501 betragen</td>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4000</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintragung einer Prokura, Eintragung von Änderungen oder der Löschung einer Prokura</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">40,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">60,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4001</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Eintragungen aufgrund derselben Anmeldung betreffen mehrere Prokuren:<br />
 Die Gebühr 4000 beträgt für die zweite und jede weitere Prokura jeweils</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-30,00 €</td>
+45,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -905,7 +905,7 @@ Die Gebühr 4000 beträgt für die zweite und jede weitere Prokura jeweils</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Eintragung betrifft ausschließlich eine Tatsache ohne wirtschaftliche Bedeutung:<br />
 Die Gebühr 4000 beträgt</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-30,00 €</td>
+45,00 €</td>
 </tr>
 </tbody>
 </table>
@@ -926,7 +926,7 @@ Die Gebühr 4000 beträgt</td>
 <tbody data-valign="top">
 <tr class="odd">
 <td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">Vorbemerkung 5:<br />
- Mit den Gebühren 5001 bis 5006 wird auch der Aufwand für die Prüfung und Aufbewahrung der genannten Unterlagen abgegolten.</td>
+ Die Gebühren 5002 bis 5006 entstehen mit der Entgegennahme der genannten Unterlagen, ohne dass es auf deren Aufnahme in das Register ankommt. Mit den Gebühren wird auch der Aufwand für die Prüfung und Aufbewahrung der Unterlagen abgegolten. Werden bereits eingereichte Unterlagen in ergänzter oder geänderter Fassung erneut eingereicht, entstehen für die Entgegennahme keine gesonderten Gebühren.</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -951,7 +951,7 @@ Die Gebühr 4000 beträgt</td>
 der Liste der Gesellschafter (§ 40 GmbHG)
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">30,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">45,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5003</td>
@@ -962,7 +962,7 @@ der Liste der Mitglieder des Aufsichtsrats einschließlich der Bekanntmachung ü
 </dd>
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-40,00 €</td>
+60,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5004</td>
@@ -972,7 +972,7 @@ der Liste der Mitglieder des Aufsichtsrats einschließlich der Bekanntmachung ü
 der Mitteilung über den alleinigen Aktionär (§ 42 AktG)
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">40,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">60,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5005</td>
@@ -982,7 +982,7 @@ der Mitteilung über den alleinigen Aktionär (§ 42 AktG)
 des Protokolls der Hauptversammlung (§ 130 Abs. 5 AktG)
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">50,00 €</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">75,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5006</td>
@@ -993,7 +993,7 @@ von Verträgen, Plänen oder entsprechenden Entwürfen nach dem UmwG
 </dd>
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"><br />
-50,00 €</td>
+75,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5007</td>

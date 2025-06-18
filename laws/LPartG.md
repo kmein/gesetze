@@ -13,17 +13,7 @@ Nach dem 30. September 2017 können Lebenspartnerschaften zwischen zwei Personen
 
 Die Lebenspartner sind einander zu Fürsorge und Unterstützung sowie zur gemeinsamen Lebensgestaltung verpflichtet. Sie tragen füreinander Verantwortung.
 
-# § 3 – Lebenspartnerschaftsname
-
-(1) Die Lebenspartner können einen gemeinsamen Namen (Lebenspartnerschaftsnamen) bestimmen. Zu ihrem Lebenspartnerschaftsnamen können die Lebenspartner durch Erklärung gegenüber dem Standesamt den Geburtsnamen oder den zur Zeit der Erklärung über die Bestimmung des Lebenspartnerschaftsnamens geführten Namen eines der Lebenspartner bestimmen. Die Erklärung über die Bestimmung des Lebenspartnerschaftsnamens soll bei der Begründung der Lebenspartnerschaft erfolgen. Wird die Erklärung später abgegeben, muss sie öffentlich beglaubigt werden.
-
-(2) Ein Lebenspartner, dessen Name nicht Lebenspartnerschaftsname wird, kann durch Erklärung gegenüber dem Standesamt dem Lebenspartnerschaftsnamen seinen Geburtsnamen oder den zur Zeit der Erklärung über die Bestimmung des Lebenspartnerschaftsnamens geführten Namen voranstellen oder anfügen. Dies gilt nicht, wenn der Lebenspartnerschaftsname aus mehreren Namen besteht. Besteht der Name eines Lebenspartners aus mehreren Namen, so kann nur einer dieser Namen hinzugefügt werden. Die Erklärung kann gegenüber dem Standesamt widerrufen werden; in diesem Fall ist eine erneute Erklärung nach Satz 1 nicht zulässig. Die Erklärung, wenn sie nicht bei der Begründung der Lebenspartnerschaft gegenüber einem deutschen Standesamt abgegeben wird, und der Widerruf müssen öffentlich beglaubigt werden.
-
-(3) Ein Lebenspartner behält den Lebenspartnerschaftsnamen auch nach der Beendigung der Lebenspartnerschaft. Er kann durch Erklärung gegenüber dem Standesamt seinen Geburtsnamen oder den Namen wieder annehmen, den er bis zur Bestimmung des Lebenspartnerschaftsnamens geführt hat, oder dem Lebenspartnerschaftsnamen seinen Geburtsnamen oder den bis zur Bestimmung des Lebenspartnerschaftsnamens geführten Namen voranstellen oder anfügen. Absatz 2 gilt entsprechend.
-
-(4) Geburtsname ist der Name, der in die Geburtsurkunde eines Lebenspartners zum Zeitpunkt der Erklärung gegenüber dem Standesamt einzutragen ist.
-
-(5) (weggefallen)
+# § 3 – (weggefallen)
 
 # § 4 – Umfang der Sorgfaltspflicht
 
@@ -57,11 +47,9 @@ Die Lebenspartner können ihre güterrechtlichen Verhältnisse durch Vertrag (Le
 
 (4) Die Befugnisse nach Absatz 1 bestehen nicht, wenn die Lebenspartner nicht nur vorübergehend getrennt leben.
 
-(5) Der Elternteil, dem die elterliche Sorge für ein unverheiratetes Kind allein oder gemeinsam mit dem anderen Elternteil zusteht, und sein Lebenspartner können dem Kind, das sie in ihren gemeinsamen Haushalt aufgenommen haben, durch Erklärung gegenüber dem Standesamt ihren Lebenspartnerschaftsnamen erteilen. § 1618 Satz 2 bis 6 des Bürgerlichen Gesetzbuchs gilt entsprechend.
+(5) Nimmt ein Lebenspartner ein Kind allein an, ist hierfür die Einwilligung des anderen Lebenspartners erforderlich. § 1749 Absatz 1 Satz 2 und 3 sowie Absatz 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
-(6) Nimmt ein Lebenspartner ein Kind allein an, ist hierfür die Einwilligung des anderen Lebenspartners erforderlich. § 1749 Absatz 1 Satz 2 und 3 sowie Absatz 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.
-
-(7) Ein Lebenspartner kann ein Kind seines Lebenspartners allein annehmen. Für diesen Fall gelten die §§ 1742, 1743 Satz 1, § 1751 Abs. 2 und 4 Satz 2, § 1754 Abs. 1 und 3, § 1755 Abs. 2, § 1756 Abs. 2, § 1757 Abs. 2 Satz 1 und § 1772 Abs. 1 Satz 1 Buchstabe c des Bürgerlichen Gesetzbuchs entsprechend.
+(6) Ein Lebenspartner kann ein Kind seines Lebenspartners allein annehmen. Für diesen Fall gelten die §§ 1742, 1743 Satz 1, § 1751 Abs. 2 und 4 Satz 2, § 1754 Abs. 1 und 3, § 1755 Abs. 2, § 1756 Abs. 2, § 1757 Abs. 2 Satz 1 und § 1772 Abs. 1 Satz 1 Buchstabe c des Bürgerlichen Gesetzbuchs entsprechend.
 
 # § 10 – Erbrecht
 

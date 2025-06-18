@@ -909,6 +909,8 @@ Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein Insolvenzverf
 
 (3) Mit der Zulassung wird die Berufsausübungsgesellschaft Mitglied der zulassenden Patentanwaltskammer.
 
+(4) Die Patentanwaltskammer teilt dem Berufshaftpflichtversicherer, der in der Berufshaftpflichtversicherung oder der vorläufigen Deckungszusage angegeben ist, die Zulassung mit.
+
 # § 52g – Zulassungsverfahren; Anzeigepflicht
 
 (1) Der Antrag auf Zulassung muss folgende Angaben enthalten:
@@ -1013,7 +1015,7 @@ b) ein bisheriger Zustellungsbevollmächtigter weggefallen ist, oder
 
 (1) Berufsausübungsgesellschaften sind verpflichtet, eine Berufshaftpflichtversicherung abzuschließen und während der Dauer ihrer Betätigung aufrechtzuerhalten.
 
-(2) Die Berufshaftpflichtversicherung muss die Haftpflichtgefahren für Vermögensschäden decken, die sich aus der Beratung und Vertretung nach § 3 ergeben. § 45 Absatz 1 Satz 2, Absatz 2 und 3 Nummer 2 bis 5 und Absatz 5 bis 7 ist entsprechend anzuwenden. Ist die Haftung der Gesellschaft nicht rechtsformbedingt beschränkt und liegt keine Beschränkung der Haftung der natürlichen Personen vor, so ist auch § 45 Absatz 3 Nummer 1 entsprechend anzuwenden.
+(2) Die Berufshaftpflichtversicherung muss die Haftpflichtgefahren für Vermögensschäden decken, die sich aus der Beratung und Vertretung nach § 3 ergeben. § 45 Absatz 1 Satz 2, Absatz 2 und 3 Nummer 2 bis 5 und Absatz 5 ist entsprechend anzuwenden; § 45 Absatz 6 und 7 ist mit der Maßgabe entsprechend anzuwenden, dass er nur für zugelassene Berufsausübungsgesellschaften gilt. Ist die Haftung der Gesellschaft nicht rechtsformbedingt beschränkt und liegt keine Beschränkung der Haftung der natürlichen Personen vor, so ist auch § 45 Absatz 3 Nummer 1 entsprechend anzuwenden.
 
 (3) Wird die Berufshaftpflichtversicherung nicht oder nicht in dem vorgeschriebenen Umfang unterhalten, so haften neben der Berufsausübungsgesellschaft die Gesellschafter und die Mitglieder des Geschäftsführungsorgans persönlich in Höhe des fehlenden Versicherungsschutzes.
 

@@ -11,13 +11,15 @@
 
 3. einen früher in der Sprache der nationalen Minderheit oder Volksgruppe geführten Namen annehmen, wenn dieser Name in eine deutsche Form übertragen oder in einen anderen Namen geändert worden ist; dabei reicht es aus, daß der oder die Erklärende die frühere Namensführung glaubhaft macht.
 
-Das Standesamt, in dessen Bezirk der oder die Erklärende den Wohnsitz oder gewöhnlichen Aufenthalt hat, ist für die Entgegennahme der Erklärung zuständig. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Zuständigkeit einem anderen Standesamt zu übertragen. Ergibt sich danach keine Zuständigkeit, ist das Standesamt I in Berlin zuständig.
+Das Standesamt, in dessen Bezirk der oder die Erklärende den Wohnsitz oder gewöhnlichen Aufenthalt hat, ist für die Entgegennahme der Erklärung zuständig. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Zuständigkeit einem anderen Standesamt zu übertragen. Ergibt sich danach keine Zuständigkeit, ist das Standesamt I in Berlin zuständig. Der Vorname eines Kindes kann sogleich in der Sprache der nationalen Minderheit oder Volksgruppe bestimmt werden.
 
 (2) Name im Sinne dieses Gesetzes ist der Geburts- oder Vorname, den eine Person nach den Vorschriften des Bürgerlichen Gesetzbuchs sowie des Personenstandsrechts zu führen hat.
 
 (3) Die personenstandsrechtlichen Vorschriften über die Schreibweise bleiben für den nach Absatz 1 angenommenen Namen maßgebend.
 
 (4) Die Erklärungen nach Absatz 1 müssen öffentlich beglaubigt oder beurkundet werden, wenn sie nicht bei der Eheschließung gegenüber einem deutschen Standesamt abgegeben werden. Sie können auch von den Standesbeamten beglaubigt oder beurkundet werden.
+
+(5) Die Erklärungen nach Absatz 1 können gegenüber dem Standesamt widerrufen werden. Absatz 4 gilt entsprechend. Im Fall des Widerrufs ist eine erneute Erklärung nach Absatz 1 nicht zulässig.
 
 # § 2
 
@@ -26,7 +28,3 @@ Eine Änderung des Geburtsnamens erstreckt sich auf den Ehenamen oder Lebenspart
 # § 3
 
 Für die Entgegennahme der Erklärungen und ihre Beglaubigung oder Beurkundung werden Gebühren nicht erhoben.
-
-# § 4
-
-Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und mit Zustimmung des Bundesrates zur Durchführung dieses Gesetzes Verwaltungsvorschriften zu erlassen.

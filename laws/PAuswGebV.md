@@ -27,7 +27,9 @@ Auf Grund des § 34 Nummer 8 des Personalausweisgesetzes vom 18. Juni 2009 (BGBl
 
 2. um 41 Euro, wenn die Amtshandlung von einer konsularischen oder diplomatischen Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen wird,
 
-3. um 15 Euro, wenn eine Übergabe nach § 18 Absatz 2 der Personalausweisverordnung erfolgt.
+3. um 15 Euro, wenn eine Übergabe nach § 18 Absatz 2 der Personalausweisverordnung erfolgt,
+
+4. um 6 Euro, wenn das Lichtbild durch die Personalausweisbehörde gefertigt wurde.
 
 (5) Gebührenfrei ist die Änderung der Anschrift auf dem Personalausweis nach § 19 Absatz 1 der Personalausweisverordnung.
 

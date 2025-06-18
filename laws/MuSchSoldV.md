@@ -7,7 +7,7 @@ Sobald einer Soldatin bekannt wird, dass sie schwanger ist, soll sie dies und de
 
 # § 2
 
-(1) Soweit sich aus den §§ 3 und 4 nichts anderes ergibt, nimmt eine Soldatin während der Schwangerschaft bis zum Beginn der Schutzfrist (§ 5 Abs. 1) am regelmäßigen Dienst teil. Sie darf jedoch nicht zu zusätzlichem Dienst und nicht in der Nacht zwischen zwanzig und sechs Uhr zum Dienst herangezogen werden. Im Übrigen entscheidet über Art und Dauer der täglichen Dienstleistung die oder der nächste Disziplinarvorgesetzte auf Grund eines ärztlichen Zeugnisses.
+(1) Soweit sich aus den §§ 3 und 4 nichts anderes ergibt, nimmt eine Soldatin während der Schwangerschaft bis zum Beginn der Schutzfrist (§ 5 Absatz 1 bis 4) am regelmäßigen Dienst teil. Sie darf jedoch nicht zu zusätzlichem Dienst und nicht in der Nacht zwischen zwanzig und sechs Uhr zum Dienst herangezogen werden. Im Übrigen entscheidet über Art und Dauer der täglichen Dienstleistung die oder der nächste Disziplinarvorgesetzte auf Grund eines ärztlichen Zeugnisses.
 
 (2) Zusätzlicher Dienst im Sinne des Absatzes 1 ist jede Dienstleistung, die über die Dauer der täglichen Rahmendienstzeit hinaus geleistet wird.
 
@@ -37,19 +37,47 @@ Eine Soldatin darf während der Schwangerschaft nicht zu Dienstleistungen herang
 
 # § 5
 
-(1) In den letzten sechs Wochen vor der Entbindung und in den ersten acht Wochen nach der Entbindung ist eine Soldatin nicht zu Dienstleistungen heranzuziehen; die Frist nach der Geburt verlängert sich bei Früh- oder Mehrlingsgeburten auf zwölf Wochen, bei Frühgeburten und sonstigen vorzeitigen Entbindungen zusätzlich um den Zeitraum, der vor der Entbindung nicht in Anspruch genommen werden konnte. Beim Tode ihres Kindes kann die Mutter auf ihr ausdrückliches Verlangen schon vor Ablauf dieser Fristen, aber noch nicht in den ersten zwei Wochen nach der Entbindung, wieder beschäftigt werden, wenn nach ärztlichem Zeugnis nichts dagegen spricht. Sie kann ihre Erklärung jederzeit widerrufen.
+(1) Eine Soldatin ist in den letzten sechs Wochen vor der Entbindung nicht zur Dienstleistung heranzuziehen, soweit sie sich nicht zur Dienstleistung ausdrücklich bereit erklärt. Sie kann die Erklärung nach Satz 1 jederzeit mit Wirkung für die Zukunft widerrufen. Für die Berechnung der Schutzfrist nach Satz 1 ist der voraussichtliche Tag der Entbindung maßgeblich, wie er sich aus dem ärztlichen Zeugnis oder dem Zeugnis einer Hebamme oder eines Entbindungspflegers ergibt. Entbindet eine Frau nicht am voraussichtlichen Tag, verkürzt oder verlängert sich die Schutzfrist nach Satz 1 entsprechend.
 
-(2) Eine Soldatin, die in den ersten Monaten nach der Entbindung nach ärztlichem Zeugnis nicht voll dienstfähig ist, darf nicht zu einem ihre Leistungsfähigkeit übersteigenden Dienst herangezogen werden.
+(2) Die Soldatin darf bis zum Ablauf von acht Wochen nach der Entbindung nicht zur Dienstleistung herangezogen werden. Die Schutzfrist nach Satz 1 verlängert sich auf zwölf Wochen
 
-(3) Solange eine Soldatin stillt, darf sie nicht zu den in § 3 genannten Dienstleistungen herangezogen werden. Für die zum Stillen erforderliche Zeit gilt § 7 Abs. 1 des Mutterschutzgesetzes entsprechend.
+1. bei Frühgeburten,
+
+2. bei Mehrlingsgeburten und
+
+3. wenn vor Ablauf von acht Wochen nach der Entbindung bei dem Kind eine Behinderung im Sinne von § 2 Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch ärztlich festgestellt wird.
+
+Bei vorzeitiger Entbindung verlängert sich die Schutzfrist nach der Entbindung nach Satz 1 oder nach Satz 2 um den Zeitraum der Verkürzung der Schutzfrist vor der Entbindung nach Absatz 1 Satz 4. Nach Satz 2 Nummer 3 verlängert sich die Schutzfrist nach der Entbindung nur, wenn die Frau dies beantragt. Satz 2 gilt nicht bei einer Totgeburt.
+
+(3) Die Soldatin darf nach dem Tod ihres Kindes bereits nach Ablauf der ersten zwei Wochen nach der Entbindung zur Dienstleistung herangezogen werden, wenn
+
+1. die Frau dies ausdrücklich verlangt und
+
+2. nach ärztlichem Zeugnis nichts dagegen spricht.
+
+Sie kann ihre Erklärung nach Satz 1 Nummer 1 jederzeit mit Wirkung für die Zukunft widerrufen.
+
+(4) Bei einer Fehlgeburt darf die Frau nicht zur Dienstleistung herangezogen werden, soweit sie sich nicht ausdrücklich dazu bereit erklärt,
+
+1. bis zum Ablauf von zwei Wochen bei einer Fehlgeburt ab der 13. Schwangerschaftswoche oder
+
+2. bis zum Ablauf von sechs Wochen bei einer Fehlgeburt ab der 17. Schwangerschaftswoche oder
+
+3. bis zum Ablauf von acht Wochen bei einer Fehlgeburt ab der 20. Schwangerschaftswoche.
+
+Sie kann ihre Erklärung nach Satz 1 jederzeit mit Wirkung für die Zukunft widerrufen. Die Absätze 1 bis 3 gelten nicht.
+
+(5) Eine Soldatin, die in den ersten Monaten nach der Entbindung nach ärztlichem Zeugnis nicht voll dienstfähig ist, darf nicht zu einem ihre Leistungsfähigkeit übersteigenden Dienst herangezogen werden.
+
+(6) Solange eine Soldatin stillt, darf sie nicht zu den in § 3 genannten Dienstleistungen herangezogen werden. Für die zum Stillen erforderliche Zeit gilt § 7 Abs. 1 des Mutterschutzgesetzes entsprechend.
 
 # § 6
 
-Durch die Verbote der §§ 3 bis 5 sowie des § 2 Abs. 1 Satz 2 hinsichtlich des Dienstes zu ungünstigen Zeiten und des Dienstes zu wechselnden Zeiten wird die Zahlung der Dienstbezüge und des Ausbildungsgeldes für Sanitätsoffizier-Anwärter nicht berührt. Das gleiche gilt für die Dienstbefreiung während der Stillzeit (§ 5 Abs. 3 Satz 2). Bemessungsgrundlage für die Zahlung der Erschwerniszulagen für Dienst zu ungünstigen Zeiten und für Dienst zu wechselnden Zeiten ist der Durchschnitt der Zulagen der letzten drei Monate vor Beginn des Monats, in dem die Schwangerschaft eingetreten ist.
+Durch die Verbote der §§ 3 bis 5 sowie des § 2 Abs. 1 Satz 2 hinsichtlich des Dienstes zu ungünstigen Zeiten und des Dienstes zu wechselnden Zeiten wird die Zahlung der Dienstbezüge und des Ausbildungsgeldes für Sanitätsoffizier-Anwärter nicht berührt. Das gleiche gilt für die Dienstbefreiung während der Stillzeit (§ 5 Absatz 6 Satz 2). Bemessungsgrundlage für die Zahlung der Erschwerniszulagen für Dienst zu ungünstigen Zeiten und für Dienst zu wechselnden Zeiten ist der Durchschnitt der Zulagen der letzten drei Monate vor Beginn des Monats, in dem die Schwangerschaft eingetreten ist.
 
 # § 6a
 
-Soweit die in § 5 Abs. 1 genannten Zeiten sowie der Entbindungstag in eine Elternzeit fallen, erhält die Soldatin einen Zuschuss von 13 Euro je Kalendertag, wenn sie während der Elternzeit nicht eine Teilzeitbeschäftigung als Arbeitnehmerin aufgenommen hat. Bei einer Soldatin, deren Dienstbezüge oder Ausbildungsgeld für Sanitätsoffizier-Anwärter (ohne die mit Rücksicht auf den Familienstand gewährten Zuschläge und ohne Aufwandsentschädigung sowie ohne Auslandsdienstbezüge nach § 52 des Bundesbesoldungsgesetzes) vor Beginn der Elternzeit die Versicherungspflichtgrenze in der gesetzlichen Krankenversicherung überschreiten oder überschreiten würden, ist der Zuschuss auf 210 Euro begrenzt.
+Soweit die in § 5 Absatz 1 bis 4 genannten Zeiten sowie der Entbindungstag in eine Elternzeit fallen, erhält die Soldatin einen Zuschuss von 13 Euro je Kalendertag, wenn sie während der Elternzeit nicht eine Teilzeitbeschäftigung als Arbeitnehmerin aufgenommen hat. Bei einer Soldatin, deren Dienstbezüge oder Ausbildungsgeld für Sanitätsoffizier-Anwärter (ohne die mit Rücksicht auf den Familienstand gewährten Zuschläge und ohne Aufwandsentschädigung sowie ohne Auslandsdienstbezüge nach § 52 des Bundesbesoldungsgesetzes) vor Beginn der Elternzeit die Versicherungspflichtgrenze in der gesetzlichen Krankenversicherung überschreiten oder überschreiten würden, ist der Zuschuss auf 210 Euro begrenzt.
 
 # § 6b
 

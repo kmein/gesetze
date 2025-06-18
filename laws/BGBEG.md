@@ -661,9 +661,33 @@ Die Vorschriften über die Hemmung der Verjährung nach den §§ 204 und 204a Ab
 
 Auf ein Schuldverhältnis, das vor dem 15. Dezember 2023 entstanden ist, ist § 310 des Bürgerlichen Gesetzesbuchs in der bis einschließlich 14. Dezember 2023 geltenden Fassung weiter anzuwenden.
 
-# § 67 – (zukünftig in Kraft)
+# § 67 – Überleitungsvorschrift zum Gesetz zur Änderung des Ehenamens- und Geburtsnamensrechts und des Internationalen Namensrechts
 
-(+++ Art. 229 § 67: Tritt zukünftig in Kraft gem. Art. 2 Nr. 4 G v. 11.6.2024 I Nr. 185 mWv 1.5.2025 u. gem. Art. 3 G v. 24.6.2024 I Nr. 212 mWv 1.5.2025 +++)
+(1) Ehegatten, die am 1. Mai 2025 bereits einen Ehenamen führen, können
+
+1. ihren Ehenamen durch Wahl eines aus den Namen beider Ehegatten gebildeten Doppelnamens nach § 1355 Absatz 2 Satz 1 Nummer 3 in Verbindung mit Satz 2, Absatz 3 Nummer 2, Absatz 4 Satz 2 des Bürgerlichen Gesetzbuchs neu bestimmen oder
+
+2. die Bestimmung des Ehenamens durch Erklärung gegenüber dem Standesamt, die öffentlich zu beglaubigen ist, widerrufen.
+
+In den Fällen des Satzes 1 Nummer 2 können Ehegatten den Geburtsnamen ihrer minderjährigen Kinder nach Absatz 2 neu bestimmen. Ein volljähriges Kind kann seinen Geburtsnamen entsprechend § 1617d Absatz 3 Satz 1 Nummer 2, Satz 2 des Bürgerlichen Gesetzbuchs neu bestimmen; § 1617c Absatz 3 gilt entsprechend.
+
+(2) Der Geburtsname vor dem 1. Mai 2025 geborener minderjähriger Kinder von Eltern ohne Ehenamen kann durch Wahl eines aus den Namen beider Elternteile gebildeten Doppelnamens nach § 1617 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Satz 2, Absatz 2 Nummer 2, Absatz 3 und 5 des Bürgerlichen Gesetzbuchs, auch in Verbindung mit den §§ 1617a und 1617b des Bürgerlichen Gesetzbuchs, neu bestimmt werden. Hat das Kind das fünfte Lebensjahr vollendet, so bedarf die Neubestimmung seines Geburtsnamens seiner Einwilligung. Für die Einwilligung gilt § 1617c Absatz 1 Satz 2 und 3 des Bürgerlichen Gesetzbuchs entsprechend.
+
+(3) § 1617e Absatz 4 des Bürgerlichen Gesetzbuchs ist auf Kinder anzuwenden, die
+
+1. vor dem 1. Mai 2025 nach § 1618 des Bürgerlichen Gesetzbuchs oder vor dem 1. Juli 1970 nach § 1706 des Bürgerlichen Gesetzbuchs in den jeweils geltenden Fassungen einbenannt wurden oder
+
+2. vor dem 2. Oktober 1990 nach § 65 des Familiengesetzbuchs der Deutschen Demokratischen Republik vom 20. Dezember 1965 (GBl. 1966 I Nr. 1 S. 1) in der jeweils geltenden Fassung einbenannt wurden.
+
+(4) Der Geburtsname vor dem 1. Mai 2025 geborener minderjähriger Kinder, die der friesischen Volksgruppe oder der dänischen Minderheit angehören, kann nach den §§ 1617g und 1617h des Bürgerlichen Gesetzbuchs neu bestimmt werden. Absatz 2 Satz 2 und 3 gilt entsprechend.
+
+(5) § 1617 Absatz 5 des Bürgerlichen Gesetzbuchs gilt für nach dem 30. April 2025 geborene Kinder mit der Maßgabe, dass für sie auch ein Doppelname bestimmt werden kann, der aus dem Namen des vorgeborenen Kindes der Eltern und dem Namen desjenigen Elternteils gebildet wird, dessen Name nicht zum Geburtsnamen des vorgeborenen Kindes bestimmt wurde.
+
+(6) Eine vor dem 1. Mai 2025 gemäß § 1767 des Bürgerlichen Gesetzbuchs angenommene Person kann den vor dem Ausspruch der Annahme geführten Namen zum Geburtsnamen bestimmen oder aus dem vor dem Ausspruch der Annahme geführten Namen und dem Familiennamen der annehmenden Person einen Doppelnamen zum Geburtsnamen bestimmen; § 1617 Absatz 1 Satz 2 und Absatz 2 Nummer 2 des Bürgerlichen Gesetzbuchs gilt entsprechend. Die Erklärung ist gegenüber dem Standesamt abzugeben; sie muss öffentlich beglaubigt werden.
+
+(7) Hat eine Person vor dem 1. Mai 2025 nach Artikel 47 Absatz 1 ihren Familiennamen bestimmt, so kann sie diesen nach Artikel 47 durch Bildung eines Doppelnamens aus ihren ursprünglichen Namen neu bestimmen.
+
+(8) Auf vor dem 1. Mai 2025 abgeschlossene Vorgänge bleibt das bisherige Internationale Privatrecht anwendbar.
 
 # § 68 – Überleitungsvorschrift zum Gesetz zum Schutz Minderjähriger bei Auslandsehen
 

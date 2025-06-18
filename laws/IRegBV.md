@@ -75,6 +75,8 @@ Auf Grund des § 37 Nummer 1 und 2 Buchstabe a bis h, j und k des Implantateregi
 
 (2) Für Endoprothesen an Hüfte und Knie sowie für Aortenklappen-Implantate haben die Produktverantwortlichen ihre Pflichten nach § 15 des Implantateregistergesetzes ab dem 1. Oktober 2024 zu erfüllen.
 
+(3) Ab dem 23. April 2025 können die Vertrauensstelle und die Registerstelle Daten, die ihnen von den Vertrauensstellen bestehender Implantateregister und von den Registerstellen bestehender Implantateregister übermittelt werden, nach den §§ 21 und 22 des Implantateregistergesetzes verarbeiten.
+
 # § 2 – Verpflichtungen der Kostenträger
 
 (1) Die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger haben ihre Pflichten nach § 17 Absatz 4 des Implantateregistergesetzes ab dem 1. Januar 2023 zu erfüllen.

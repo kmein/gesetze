@@ -33,8 +33,6 @@ werden. Soweit solche Absprachen oder Modelle die zur Verbesserung der Schiffssi
 
 3. Macht eine zuständige Behörde Auslegungen, allgemeine Ausnahmen und Befreiungen im Sinne des § 7, international beschlossene Empfehlungen im Sinne des § 12 des Schiffssicherheitsgesetzes oder international angenommene Standards im Sinne des § 9d des Seeaufgabengesetzes bekannt, so bezeichnet sie die zugehörigen Rechtsvorschriften.
 
-4. Das Bundesministerium für Digitales und Verkehr veröffentlicht im Januar jeden Jahres im Verkehrsblatt eine Liste der Fundstellen der neuen Bekanntmachungen der Muster von Zeugnissen und sonstigen Bescheinigungen nach Teil 1 Nummer 12, Teil 2 Nummer 2.9, Teil 3 Kapitel 12, Teil 5 Nummer 11, Teil 6 Kapitel 7 und Teil 7 Nummer 9 der Anlage 1a und Abschnitt A Nummer 1 bis 3 der Anlage 2.
-
 # § 4 – Regeln der Technik und der seemännischen Praxis
 
 (1) Als Regeln der Technik und der seemännischen Praxis sind insbesondere die in Abschnitt E der Anlage zum Schiffssicherheitsgesetz aufgeführten, in Deutschland als anwendbare anerkannte Regeln der Technik oder der seemännischen Praxis bekanntgemachten internationalen Schiffssicherheitsnormen zu beachten.

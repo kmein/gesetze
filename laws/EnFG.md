@@ -888,7 +888,7 @@ Sind die nach Satz 1 Nummer 3 und 4 zu tätigenden Angaben nach den Umständen d
 4. eine Schätzung nach § 104 Absatz 10 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung nicht unter der Bedingung der Einhaltung von § 62b des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung ab dem 1. Januar 2022 steht und auch für Strommengen erfolgen kann, die nach dem 31. Dezember 2016 oder in dem Fall, dass das Geschäftsjahr vom Kalenderjahr abweicht, in dem letzten abgeschlossenen Geschäftsjahr vor der Antragstellung, in jedem Fall aber vor dem 1. Januar 2023 verbraucht wurden.
 
 (+++ § 46 Abs. 1: Zur Anwendung vgl. § 21 Abs. 4 Satz 2 +++)  
-(+++ § 46 Abs. 5 Satz 1 und 2: Zur Anwendung vgl. § 21 Abs. 4 Satz 3 +++)
+(+++ § 46 Abs. 2 bis 5: Zur Nichtanwendung vgl. § 21 Abs. 4 Satz 5 +++)
 
 # § 47 – Kontoführung und gesonderte Buchführung der Übertragungsnetzbetreiber
 

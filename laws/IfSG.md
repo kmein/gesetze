@@ -2746,7 +2746,7 @@ Entschädigungsberechtigte im Sinne des § 56 Absatz 1 und 1a, die der Pflichtve
 
 (2) Kranke und Ausscheider, die länger als sechs Monate Anspruch auf eine Entschädigung nach § 56 Absatz 1 Satz 1 oder Satz 2 haben oder mit hoher Wahrscheinlichkeit haben werden, gelten als Menschen mit Behinderungen im Sinne des Dritten Buches Sozialgesetzbuch.
 
-# XXXX (§§ 60 bis 64) – (weggefallen)
+# §§ 60 bis 64 – (weggefallen)
 
 # § 65 – Entschädigung bei behördlichen Maßnahmen
 

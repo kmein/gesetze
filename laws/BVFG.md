@@ -295,7 +295,7 @@ Soweit Anhaltspunkte für Ausschlussgründe nach § 5 Nummer 1 Buchstabe d oder 
 
 3. eine deutschsprachige Form ihres Vor- oder Familiennamens annehmen; gibt es eine solche Form des Vornamens nicht, so können sie neue Vornamen annehmen,
 
-4. im Falle der Führung eines gemeinsamen Familiennamens durch Ehegatten einen Ehenamen nach § 1355 Abs. 1 des Bürgerlichen Gesetzbuchs bestimmen und eine Erklärung nach § 1355 Abs. 4 des Bürgerlichen Gesetzbuchs abgeben,
+4. im Falle der Führung eines gemeinsamen Familiennamens durch Ehegatten einen Ehenamen nach § 1355 Absatz 1 bis 3 des Bürgerlichen Gesetzbuchs bestimmen und eine Erklärung nach § 1355a Absatz 1 des Bürgerlichen Gesetzbuchs abgeben,
 
 5. den Familiennamen in einer deutschen Übersetzung annehmen, sofern die Übersetzung einen im deutschen Sprachraum in Betracht kommenden Familiennamen ergibt.
 

@@ -668,7 +668,7 @@ b) die öffentliche Sicherheit oder Ordnung gefährden oder sonst dem Wohl des B
 
 oder
 
-2. wenn die Daten, ihre Herkunft, ihre Empfänger oder die Tatsache ihrer Verarbeitung nach § 30 oder einer anderen Rechtsvorschrift oder ihrem Wesen nach, insbesondere wegen überwiegender berechtigter Interessen eines Dritten im Sinne des Artikel 23 Absatz 1 Buchstabe i der Verordnung (EU) 2016/679, geheim gehalten werden müssen
+2. wenn die Daten, ihre Herkunft, ihre Empfänger oder die Tatsache ihrer Verarbeitung nach § 30 oder einer anderen Rechtsvorschrift oder ihrem Wesen nach, insbesondere wegen überwiegender berechtigter Interessen eines Dritten im Sinne des Artikel 23 Absatz 1 Buchstabe i der Verordnung (EU) 2016/679<span id="FnR.F832391_2"></span><a href="#F832391_2" class="FnR">*</a></sup> , geheim gehalten werden müssen
 
 und deswegen das Interesse der betroffenen Person an der Informationserteilung zurücktreten muss. § 32a Absatz 2 gilt entsprechend.
 
@@ -2538,7 +2538,7 @@ so reicht es für die Bekanntgabe an alle Beteiligten aus, wenn ihnen eine Ausfe
 
 (+++ § 122: Zur Anwendung vgl. Art. 97 §§ 1 u. 80 AOEG 1977 +++)
 
-# § 122a – Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf
+# § 122a – Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf *
 
 (1) Verwaltungsakte können mit Einwilligung des Beteiligten oder der von ihm bevollmächtigten Person bekannt gegeben werden, indem sie zum Datenabruf durch Datenfernübertragung bereitgestellt werden.
 
@@ -2549,6 +2549,22 @@ so reicht es für die Bekanntgabe an alle Beteiligten aus, wenn ihnen eine Ausfe
 (4) Ein zum Abruf bereitgestellter Verwaltungsakt gilt am vierten Tag nach Absendung der elektronischen Benachrichtigung über die Bereitstellung der Daten an die abrufberechtigte Person als bekannt gegeben. Im Zweifel hat die Behörde den Zugang der Benachrichtigung nachzuweisen. Kann die Finanzbehörde den von der abrufberechtigten Person bestrittenen Zugang der Benachrichtigung nicht nachweisen, gilt der Verwaltungsakt an dem Tag als bekannt gegeben, an dem die abrufberechtigte Person den Datenabruf durchgeführt hat. Das Gleiche gilt, wenn die abrufberechtigte Person unwiderlegbar vorträgt, die Benachrichtigung nicht innerhalb von vier Tagen nach der Absendung erhalten zu haben.
 
 (5) Entscheidet sich die Finanzbehörde, den Verwaltungsakt im Postfach des Nutzerkontos nach dem Onlinezugangsgesetz zum Datenabruf bereitzustellen, gelten abweichend von § 9 Absatz 1 Satz 3 bis 6 des Onlinezugangsgesetzes die Regelungen des Absatzes 4.
+
+(1) Verwaltungsakte können dem Beteiligten oder der von ihm bevollmächtigten Person bekannt gegeben werden, indem sie nach § 87a Absatz 8 zum Datenabruf bereitgestellt werden. Mittels Bereitstellung soll insbesondere bekannt gegeben werden, wenn ein Steuerbescheid, Steuermessbescheid oder Feststellungsbescheid auf einer nach § 87a Absatz 6 elektronisch übermittelten Steuererklärung oder Feststellungserklärung beruht und sie
+
+1. vom Beteiligten selbst über ein von der Finanzverwaltung bereitgestelltes Nutzerkonto übermittelt wurde oder
+
+2. durch eine Person im Sinne des § 80 Absatz 2 übermittelt wurde, der gegenüber der Bescheid nach § 122 Absatz 1 Satz 4 bekanntzugeben ist.
+
+Die abrufberechtigte Person ist am Tag der Bereitstellung elektronisch über die Abrufmöglichkeit und ihre Rechtswirkungen zu benachrichtigen.
+
+(2) Absatz 1 ist nicht anzuwenden, wenn der Beteiligte eine einmalige oder dauerhafte postalische Bekanntgabe nach § 122 Absatz 2 beantragt hat. Der Antrag wirkt, ebenso wie dessen Widerruf, nur für die Zukunft; sie werden der Finanzbehörde gegenüber erst wirksam, wenn sie ihr zugehen.
+
+(3) Für den Datenabruf hat sich die abrufberechtigte Person nach Maßgabe des § 87a Absatz 8 zu authentisieren.
+
+(4) Ein zum Abruf bereitgestellter Verwaltungsakt gilt am vierten Tag nach der Bereitstellung zum Abruf als bekannt gegeben. Im Zweifel hat die Behörde den Zeitpunkt der Bereitstellung zum Abruf nachzuweisen.
+
+(5) Die Absätze 1 bis 4 sind auch dann anzuwenden, wenn die Finanzbehörde den Verwaltungsakt im Postfach des Nutzerkontos nach dem Onlinezugangsgesetz zum Abruf bereitstellen will.“
 
 (+++ § 122a: Zur Anwendung vgl. Art. 97 §§ 1 u. 28 AOEG 1977 +++)  
 (+++ § 122a Abs. 3 u. 4: Zur Anwendung vgl. § 50c Abs. 5 EStG +++)
@@ -3696,7 +3712,7 @@ Die Kosten trägt der Steuerpflichtige. In Fällen des Satzes 3 hat der mit der 
 
 # § 147a – Vorschriften für die Aufbewahrung von Aufzeichnungen und Unterlagen bestimmter Steuerpflichtiger
 
-(1) Steuerpflichtige, bei denen die Summe der positiven Einkünfte nach § 2 Absatz 1 Nummer 4 bis 7 des Einkommensteuergesetzes (Überschusseinkünfte) mehr als 500 000 Euro im Kalenderjahr beträgt, haben die Aufzeichnungen und Unterlagen über die den Überschusseinkünften zu Grunde liegenden Einnahmen und Werbungskosten sechs Jahre aufzubewahren. Im Falle der Zusammenveranlagung sind für die Feststellung des Überschreitens des Betrags von 500 000 Euro die Summe der positiven Einkünfte nach Satz 1 eines jeden Ehegatten oder Lebenspartners maßgebend. Die Verpflichtung nach Satz 1 ist vom Beginn des Kalenderjahrs an zu erfüllen, das auf das Kalenderjahr folgt, in dem die Summe der positiven Einkünfte im Sinne des Satzes 1 mehr als 500 000 Euro beträgt. Die Verpflichtung nach Satz 1 endet mit Ablauf des fünften aufeinanderfolgenden Kalenderjahrs, in dem die Voraussetzungen des Satzes 1 nicht erfüllt sind. § 147 Absatz 2, Absatz 3 Satz 5 und Absatz 4 bis 7 gilt entsprechend. Die Sätze 1 bis 3 und 5 gelten entsprechend in den Fällen, in denen die zuständige Finanzbehörde den Steuerpflichtigen für die Zukunft zur Aufbewahrung der in Satz 1 genannten Aufzeichnungen und Unterlagen verpflichtet, weil er seinen Mitwirkungspflichten nach § 12 Absatz 3 des Gesetzes zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb nicht nachgekommen ist.
+(1) Steuerpflichtige, bei denen die Summe der positiven Einkünfte nach § 2 Absatz 1 Nummer 4 bis 7 des Einkommensteuergesetzes (Überschusseinkünfte) mehr als 500 000<span id="FnR.F832391_4"></span><a href="#F832391_4" class="FnR">*</a></sup> Euro im Kalenderjahr beträgt, haben die Aufzeichnungen und Unterlagen über die den Überschusseinkünften zu Grunde liegenden Einnahmen und Werbungskosten sechs Jahre aufzubewahren. Im Falle der Zusammenveranlagung sind für die Feststellung des Überschreitens des Betrags von 500 000<a href="#F832391_4" class="FnR">*</a></sup> Euro die Summe der positiven Einkünfte nach Satz 1 eines jeden Ehegatten oder Lebenspartners maßgebend. Die Verpflichtung nach Satz 1 ist vom Beginn des Kalenderjahrs an zu erfüllen, das auf das Kalenderjahr folgt, in dem die Summe der positiven Einkünfte im Sinne des Satzes 1 mehr als 500 000<a href="#F832391_4" class="FnR">*</a></sup> Euro beträgt. Die Verpflichtung nach Satz 1 endet mit Ablauf des fünften aufeinanderfolgenden Kalenderjahrs, in dem die Voraussetzungen des Satzes 1 nicht erfüllt sind. § 147 Absatz 2, Absatz 3 Satz 5 und Absatz 4 bis 7 gilt entsprechend. Die Sätze 1 bis 3 und 5 gelten entsprechend in den Fällen, in denen die zuständige Finanzbehörde den Steuerpflichtigen für die Zukunft zur Aufbewahrung der in Satz 1 genannten Aufzeichnungen und Unterlagen verpflichtet, weil er seinen Mitwirkungspflichten nach § 12 Absatz 3 des Gesetzes zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb nicht nachgekommen ist.
 
 (2) Steuerpflichtige, die allein oder zusammen mit nahestehenden Personen im Sinne des § 1 Absatz 2 des Außensteuergesetzes unmittelbar oder mittelbar einen beherrschenden oder bestimmenden Einfluss auf die gesellschaftsrechtlichen, finanziellen oder geschäftlichen Angelegenheiten einer Drittstaat-Gesellschaft im Sinne des § 138 Absatz 3 ausüben können, haben die Aufzeichnungen und Unterlagen über diese Beziehung und alle damit verbundenen Einnahmen und Ausgaben sechs Jahre aufzubewahren. Diese Aufbewahrungspflicht ist von dem Zeitpunkt an zu erfüllen, in dem der Sachverhalt erstmals verwirklicht worden ist, der den Tatbestand des Satzes 1 erfüllt. Absatz 1 Satz 4 sowie § 147 Absatz 2, 3 Satz 5 und Absatz 5 bis 7 gelten entsprechend.
 
@@ -4077,7 +4093,7 @@ Eine Steueranmeldung steht einer Steuerfestsetzung unter Vorbehalt der Nachprüf
 
 (1) Eine Steuerfestsetzung sowie ihre Aufhebung oder Änderung sind nicht mehr zulässig, wenn die Festsetzungsfrist abgelaufen ist. Dies gilt auch für die Berichtigung wegen offenbarer Unrichtigkeit nach § 129. Die Frist ist gewahrt, wenn vor Ablauf der Festsetzungsfrist
 
-1. der Steuerbescheid oder im Fall des § 122a die elektronische Benachrichtigung den Bereich der für die Steuerfestsetzung zuständigen Finanzbehörde verlassen hat oder
+1. der Steuerbescheid oder im Fall des § 122a die elektronische Benachrichtigung den Bereich der für die Steuerfestsetzung zuständigen Finanzbehörde verlassen hat oder<span id="FnR.F832391_5"></span><a href="#F832391_5" class="FnR">*</a></sup>
 
 2. bei öffentlicher Zustellung nach § 10 des Verwaltungszustellungsgesetzes die Benachrichtigung bekannt gemacht oder veröffentlicht wird.
 
@@ -6484,7 +6500,7 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 
 1a. entgegen § 144 Absatz 1 oder Absatz 2 Satz 1, jeweils auch in Verbindung mit Absatz 5, eine Aufzeichnung nicht, nicht richtig oder nicht vollständig erstellt,
 
-1b. einer Rechtsverordnung nach § 117c Absatz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+1b. einer Rechtsverordnung nach § 117c Absatz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,<span id="FnR.F832391_6"></span><a href="#F832391_6" class="FnR">*</a></sup>
 
 1c. entgegen § 138a Absatz 1, 3 oder 4 eine Übermittlung des länderbezogenen Berichts oder entgegen § 138a Absatz 4 Satz 3 eine Mitteilung nicht, nicht vollständig oder nicht rechtzeitig (§ 138a Absatz 6) macht,
 
@@ -6512,7 +6528,7 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 
 (7) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1, 1d, 1e und 1g kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
-(8) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1b kann mit einer Geldbuße bis zu 30 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
+(8) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1b kann mit einer Geldbuße bis zu 30 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.<span id="FnR.F832391_7"></span><a href="#F832391_7" class="FnR">**</a></sup>
 
 (+++ § 379: Zur Anwendung vgl. Art. 97 §§ 30, 32, 33 u. 37 AOEG 1977 +++)
 

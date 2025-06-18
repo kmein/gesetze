@@ -14,7 +14,7 @@
 |                 § 4                  |     |                              Vorschuss                               |
 |                 § 5                  |     |           Kostenansatz, Erinnerung, Beschwerde, Gehörsrüge           |
 |                 § 6                  |     |                            Nachforderung                             |
-|                 § 7                  |     |      Nichterhebung von Kosten wegen unrichtiger Sachbehandlung       |
+|                 § 7                  |     |                       Nichterhebung von Kosten                       |
 |                 § 8                  |     |                        Verjährung, Verzinsung                        |
 |                 § 9                  |     |                           Höhe der Kosten                            |
 |             Abschnitt 2              |     |                                                                      |
@@ -103,9 +103,9 @@ Jede Kostenrechnung und jede anfechtbare Entscheidung hat eine Belehrung über d
 
 Wegen unrichtigen Ansatzes dürfen Kosten nur nachgefordert werden, wenn der berichtigte Ansatz vor Ablauf des nächsten Kalenderjahres nach Durchführung des Auftrags dem Zahlungspflichtigen mitgeteilt worden ist.
 
-# § 7 – Nichterhebung von Kosten wegen unrichtiger Sachbehandlung
+# § 7 – Nichterhebung von Kosten
 
-(1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären, werden nicht erhoben. Das Gleiche gilt für Auslagen, die durch eine von Amts wegen veranlasste Verlegung eines Termins oder einer Maßnahme entstanden sind.
+(1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären, werden nicht erhoben. Das Gleiche gilt für Zustellungsgebühren und Auslagen, die durch eine von Amts wegen veranlasste Verlegung eines Termins oder einer Maßnahme entstanden sind.
 
 (2) Die Entscheidung trifft der Gerichtsvollzieher. § 5 Abs. 2 ist entsprechend anzuwenden. Solange nicht das Gericht entschieden hat, kann eine Anordnung nach Absatz 1 im Verwaltungsweg erlassen werden. Eine im Verwaltungsweg getroffene Anordnung kann nur im Verwaltungsweg geändert werden.
 
@@ -257,397 +257,402 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 <td colspan="6" style="text-align: left;" data-valign="top" data-charoff="50"> (1) Die Zustellung an den Zustellungsbevollmächtigten mehrerer Beteiligter gilt als eine Zustellung.</td>
 </tr>
 <tr class="odd">
-<td colspan="6" style="text-align: left;" data-valign="top" data-charoff="50">(2) Die Gebühr nach Nummer 100 oder 101 wird auch erhoben, wenn der Gerichtsvollzieher die Ladung zum Termin zur Abnahme der Vermögensauskunft (§ 802f ZPO) oder den Pfändungs- und Überweisungsbeschluss an den Schuldner (§ 829 Abs. 2 Satz 2, auch i.V.m. § 835 Abs. 3 Satz 1 ZPO) zustellt.</td>
+<td colspan="6" style="text-align: left;" data-valign="top" data-charoff="50">(2) Die Gebühr nach Nummer 100, 101 oder 102 wird auch erhoben, wenn der Gerichtsvollzieher die Ladung zum Termin zur Abnahme der Vermögensauskunft (§ 802f ZPO) oder den Pfändungs- und Überweisungsbeschluss an den Schuldner (§ 829 Abs. 2 Satz 2, auch i.V.m. § 835 Abs. 3 Satz 1 ZPO) zustellt.</td>
 </tr>
 <tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">100</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Persönliche Zustellung durch den Gerichtsvollzieher ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">11,00 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">12,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">101</td>
-<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Sonstige Zustellung ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">3,30 €</td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Zustellung als elektronisches Dokument (§ 193a ZPO)</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">8,00 €</td>
 </tr>
 <tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">102</td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Sonstige Zustellung ..........</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">3,60 €</td>
+</tr>
+<tr class="odd">
+<td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">103</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Beglaubigung eines Schriftstückes, das dem Gerichtsvollzieher zum Zwecke der Zustellung übermittelt wurde (§ 193 Abs. 1 ZPO)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">je Seite ..........</td>
 <td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Gebühr in Höhe der Dokumentenpauschale</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eine angefangene Seite wird voll berechnet.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="6" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="6" style="text-align: center;" data-valign="top" data-charoff="50">Vollstreckung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">200</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Amtshandlung nach § 845 Abs. 1 Satz 2 ZPO (Vorpfändung) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">17,60 €</td>
-</tr>
-<tr class="even">
-<td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">205</td>
-<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bewirkung einer Pfändung (§ 808 Abs. 1, 2 Satz 2, §§ 809, 826 oder § 831 ZPO) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">28,60 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">19,20 €</td>
 </tr>
 <tr class="odd">
+<td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">205</td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bewirkung einer Pfändung (§ 808 Abs. 1, 2 Satz 2, §§ 809, 826 oder § 831 ZPO) ..........</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">31,20 €</td>
+</tr>
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">206</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Übernahme beweglicher Sachen zum Zwecke der Verwertung in den Fällen der §§ 847 und 854 ZPO ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">17,60 €</td>
-</tr>
-<tr class="odd">
-<td colspan="2" rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">207</td>
-<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Versuch einer gütlichen Erledigung der Sache (§ 802b ZPO) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">17,60 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">19,20 €</td>
 </tr>
 <tr class="even">
+<td colspan="2" rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">207</td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Versuch einer gütlichen Erledigung der Sache (§ 802b ZPO) ..........</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">19,20 €</td>
+</tr>
+<tr class="odd">
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Gebühr entsteht auch im Fall der gütlichen Erledigung.</td>
 <td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">208</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Der Gerichtsvollzieher ist gleichzeitig mit einer auf eine Maßnahme nach § 802a Abs. 2 Satz 1 Nr. 2 oder Nr. 4 ZPO gerichteten Amtshandlung beauftragt:</td>
 <td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Gebühr 207 ermäßigt sich auf ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">8,80 €</td>
-</tr>
-<tr class="odd">
-<td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">210</td>
-<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Übernahme des Vollstreckungsauftrags von einem anderen Gerichtsvollzieher, wenn der Schuldner unter Mitnahme der Pfandstücke in einen anderen Amtsgerichtsbezirk verzogen ist ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">17,60 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">9,60 €</td>
 </tr>
 <tr class="even">
-<td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">220</td>
-<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Entfernung von Pfandstücken, die im Gewahrsam des Schuldners, des Gläubigers oder eines Dritten belassen waren ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">17,60 €</td>
+<td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">210</td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Übernahme des Vollstreckungsauftrags von einem anderen Gerichtsvollzieher, wenn der Schuldner unter Mitnahme der Pfandstücke in einen anderen Amtsgerichtsbezirk verzogen ist ..........</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">19,20 €</td>
 </tr>
 <tr class="odd">
+<td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">220</td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Entfernung von Pfandstücken, die im Gewahrsam des Schuldners, des Gläubigers oder eines Dritten belassen waren ..........</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">19,20 €</td>
+</tr>
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Gebühr wird auch dann nur einmal erhoben, wenn die Pfandstücke aufgrund mehrerer Aufträge entfernt werden. Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">221</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Wegnahme oder Entgegennahme beweglicher Sachen durch den zur Vollstreckung erschienenen Gerichtsvollzieher ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">28,60 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">31,20 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">230</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Wegnahme oder Entgegennahme einer Person durch den zur Vollstreckung erschienenen Gerichtsvollzieher ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">57,20 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">62,40 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben. Sind mehrere Personen wegzunehmen, werden die Gebühren für jede Person gesondert erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">240</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Entsetzung aus dem Besitz unbeweglicher Sachen oder eingetragener Schiffe oder Schiffsbauwerke und die Einweisung in den Besitz ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">150,00 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">163,50 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">241</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Der Gerichtsvollzieher ist nicht mit der Wegschaffung beweglicher Sachen beauftragt:<br />
 Die Gebühr 240 ermäßigt sich auf ..........<br />
 Mit der Gebühr sind auch die Dokumentation der frei beweglichen Sachen im Protokoll und die Nutzung elektronischer Bildaufzeichnungsmittel abgegolten.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-100,00 €</td>
+109,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">242</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Wegnahme ausländischer Schiffe, die in das Schiffsregister eingetragen werden müssten, wenn sie deutsche Schiffe wären, und ihre Übergabe an den Gläubiger ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">143,00 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">155,90 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">243</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Übergabe unbeweglicher Sachen an den Verwalter im Falle der Zwangsversteigerung oder Zwangsverwaltung ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">107,80 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">117,50 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">250</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Zuziehung zur Beseitigung des Widerstandes (§ 892 ZPO) oder zur Beseitigung einer andauernden Zuwiderhandlung gegen eine Anordnung nach § 1 GewSchG (§ 96 Abs. 1 FamFG) sowie Anwendung von unmittelbarem Zwang auf Anordnung des Gerichts im Fall des § 90 FamFG ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">57,20 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">62,40 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">260</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Abnahme der Vermögensauskunft nach den §§ 802c, 802d Abs. 1 oder nach § 807 ZPO ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">36,30 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">39,50 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">261</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Übermittlung eines mit eidesstattlicher Versicherung abgegebenen Vermögensverzeichnisses an einen Drittgläubiger (§ 802d Abs. 1 Satz 2, Abs. 2 ZPO) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">36,30 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">39,50 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">262</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Abnahme der eidesstattlichen Versicherung nach § 836 Abs. 3 oder § 883 Abs. 2 ZPO ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">41,80 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">45,60 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">270</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verhaftung, Nachverhaftung, zwangsweise Vorführung ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">42,90 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">46,80 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="6" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="6" style="text-align: center;" data-valign="top" data-charoff="50">Verwertung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="6" style="text-align: left;" data-valign="top" data-charoff="50">Vorbemerkung 3:</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="6" style="text-align: left;" data-valign="top" data-charoff="50">Die Gebühren werden bei jeder Verwertung nur einmal erhoben. Dieselbe Verwertung liegt auch vor, wenn der Gesamterlös aus der Versteigerung oder dem Verkauf mehrerer Gegenstände einheitlich zu verteilen ist oder zu verteilen wäre und wenn im Falle der Versteigerung oder des Verkaufs die Verwertung in einem Termin, bei einer Versteigerung im Internet in einem Ausgebot, erfolgt.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">300</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Versteigerung, Verkauf oder Verwertung in anderer Weise nach § 825 Abs. 1 ZPO von</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">beweglichen Sachen,</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Früchten, die noch nicht vom Boden getrennt sind,</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Forderungen oder anderen Vermögensrechten ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">57,20 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">62,40 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben. Dies gilt nicht bei einer Versteigerung im Internet.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">301</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Öffentliche Verpachtung an den Meistbietenden ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">57,20 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">62,40 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">302</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Anberaumung eines neuen Versteigerungs- oder Verpachtungstermins oder das nochmalige Ausgebot bei einer Versteigerung im Internet ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">11,00 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">12,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">(1) Die Gebühr wird für die Anberaumung eines neuen Versteigerungs- oder Verpachtungstermins nur erhoben, wenn der vorherige Termin auf Antrag des Gläubigers oder des Antragstellers oder nach den Vorschriften der §§ 765a, 775, 802b ZPO nicht stattgefunden hat oder wenn der Termin infolge des Ausbleibens von Bietern oder wegen ungenügender Gebote erfolglos geblieben ist.<br />
 (2) Die Gebühr wird für das nochmalige Ausgebot bei einer Versteigerung im Internet nur erhoben, wenn das vorherige Ausgebot auf Antrag des Gläubigers oder des Antragstellers oder nach den Vorschriften der §§ 765a, 775, 802b ZPO abgebrochen worden ist oder wenn das Ausgebot infolge des Ausbleibens von Geboten oder wegen ungenügender Gebote erfolglos geblieben ist.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">310</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Mitwirkung bei der Versteigerung durch einen Dritten (§ 825 Abs. 2 ZPO) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">17,60 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">19,20 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="6" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="6" style="text-align: center;" data-valign="top" data-charoff="50">Besondere Geschäfte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">400</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bewachung und Verwahrung eines Schiffes, eines Schiffsbauwerks oder eines Luftfahrzeugs (§§ 165, 170, 170a, 171, 171c, 171g, 171h ZVG, § 99 Abs. 2, § 106 Abs. 1 Nr. 1 des Gesetzes über Rechte an Luftfahrzeugen) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">107,80 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">117,50 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">401</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Feststellung der Mieter oder Pächter von Grundstücken im Auftrag des Gerichts je festgestellte Person ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">7,70 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">8,40 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Gebühr wird auch erhoben, wenn die Ermittlungen nicht zur Feststellung eines Mieters oder Pächters führen.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">410</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Tatsächliches Angebot einer Leistung (§§ 293, 294 BGB) außerhalb der Zwangsvollstreckung ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">17,60 €</td>
-</tr>
-<tr class="odd">
-<td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">411</td>
-<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Beurkundung eines Leistungsangebots ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">7,70 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">19,20 €</td>
 </tr>
 <tr class="even">
+<td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">411</td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Beurkundung eines Leistungsangebots ..........</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">8,40 €</td>
+</tr>
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Gebühr entfällt, wenn die Gebühr nach Nummer 410 zu erheben ist.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">420</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Entfernung von Gegenständen aus dem Gewahrsam des Inhabers zum Zwecke der Versteigerung oder Verwahrung außerhalb der Zwangsvollstreckung ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">17,60 €</td>
-</tr>
-<tr class="even">
-<td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">430</td>
-<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Entgegennahme einer Zahlung, wenn diese nicht ausschließlich auf Kosten nach diesem Gesetz entfällt, die bei der Durchführung des Auftrags entstanden sind ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">4,40 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">19,20 €</td>
 </tr>
 <tr class="odd">
+<td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">430</td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Entgegennahme einer Zahlung, wenn diese nicht ausschließlich auf Kosten nach diesem Gesetz entfällt, die bei der Durchführung des Auftrags entstanden sind ..........</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">4,80 €</td>
+</tr>
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Gebühr wird auch erhoben, wenn der Gerichtsvollzieher einen entgegengenommenen Scheck selbst einzieht oder einen Scheck aufgrund eines entsprechenden Auftrags des Auftraggebers an diesen weiterleitet. Die Gebühr wird nicht bei Wechsel- oder Scheckprotesten für die Entgegennahme der Wechsel- oder Schecksumme (Artikel 84 des Wechselgesetzes, Artikel 55 Abs. 3 des Scheckgesetzes) erhoben.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">440</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Erhebung von Daten bei einer der in § 755 Abs. 2, § 802l Abs. 1 ZPO genannten Stellen ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">14,30 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">15,60 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Gebühr entsteht nicht, wenn die Auskunft nach § 882c Abs. 3 Satz 2 ZPO eingeholt wird.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">441</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Erhebung von Daten bei einer der in § 755 Abs. 1 ZPO genannten Stellen ..........</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Gebühr entsteht nicht, wenn die Auskunft nach § 882c Abs. 3 Satz 2 ZPO eingeholt wird.</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">5,50 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">6,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">442</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Übermittlung von Daten nach § 802l Abs. 4 ZPO ..........</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">5,50 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">6,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="6" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="6" style="text-align: center;" data-valign="top" data-charoff="50">Zeitzuschlag</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">500</td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Zeitzuschlag, sofern dieser bei der Gebühr vorgesehen ist, wenn die Erledigung der Amtshandlung nach dem Inhalt des Protokolls mehr als 3 Stunden in Anspruch nimmt, für jede weitere angefangene Stunde ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">22,00 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">24,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Maßgebend ist die Dauer der Amtshandlung vor Ort.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="6" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 6</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="6" style="text-align: center;" data-valign="top" data-charoff="50">Nicht erledigte Amtshandlung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50">Vorbemerkung 6:</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="6" style="text-align: left;" data-valign="top" data-charoff="50">Gebühren nach diesem Abschnitt werden erhoben, wenn eine Amtshandlung, mit deren Erledigung der Gerichtsvollzieher beauftragt worden ist, aus Rechtsgründen oder infolge von Umständen, die weder in der Person des Gerichtsvollziehers liegen noch von seiner Entschließung abhängig sind, nicht erledigt wird. Dies gilt insbesondere auch, wenn nach dem Inhalt des Protokolls pfändbare Gegenstände nicht vorhanden sind oder die Pfändung nach § 803 Abs. 2, § 811 Absatz 4 und § 851b Absatz 4 Satz 3 ZPO zu unterbleiben hat. Eine Gebühr wird nicht erhoben, wenn der Auftrag an einen anderen Gerichtsvollzieher abgegeben wird oder hätte abgegeben werden können.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="6" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td colspan="3" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Nicht erledigte</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">600</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Zustellung (Nummern 100 und 101) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">3,30 €</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Zustellung (Nummern 100 bis 102) ..........</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">3,60 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">601</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Wegnahme einer Person (Nummer 230) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">28,60 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">31,20 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">602</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Entsetzung aus dem Besitz (Nummer 240), Wegnahme ausländischer Schiffe (Nummer 242) oder Übergabe an den Verwalter (Nummer 243) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">35,20 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">38,40 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">603</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Beurkundung eines Leistungsangebots (Nummer 411) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">6,60 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">7,20 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">604</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Amtshandlung der in den Nummern 205 bis 207, 210 bis 221, 250 bis 301, 310, 400, 410 und 420 genannten Art ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">16,50 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">18,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Gebühr für die nicht abgenommene Vermögensauskunft wird nicht erhoben, wenn diese deshalb nicht abgenommen wird, weil der Schuldner sie innerhalb der letzten zwei Jahre bereits abgegeben hat (§ 802d Abs. 1 Satz 1 ZPO). Für einen nicht erledigten Versuch einer gütlichen Erledigung der Sache wird in dem in Nummer 208 genannten Fall eine Gebühr nicht erhoben.</td>
@@ -867,7 +872,7 @@ Auslagen werden nicht erhoben für die Bekanntmachung oder Einstellung in einem 
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">die sonstige Zustellung (Nummer 101),</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">die Zustellung als elektronisches Dokument (Nummer 101) sowie die sonstige Zustellung (Nummer 102),</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">

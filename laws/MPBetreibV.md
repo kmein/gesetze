@@ -417,9 +417,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 <table width="100%" style="border: none;">
 <colgroup>
-<col />
-<col style="width: 79%" />
-<col style="width: 21%" />
+<col style="width: 10%" />
+<col style="width: 71%" />
+<col style="width: 19%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">

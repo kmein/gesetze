@@ -83,9 +83,9 @@ Weitere Daten dürfen nicht eingetragen werden. Die Eintragung in das Register i
 
 (1) Jeder Eigentümer eines Grundstücks oder eines Raums hat die Durchführung der im Feuerstättenbescheid festgesetzten Arbeiten nachzuweisen, sofern er nicht den zuständigen bevollmächtigten Bezirksschornsteinfeger mit der Durchführung beauftragt. Der Nachweis ist erbracht, wenn dem zuständigen bevollmächtigten Bezirksschornsteinfeger innerhalb der Frist des Absatzes 2 ein nach Maßgabe einer Rechtsverordnung nach Absatz 4 vorgesehenes Formblatt und nach Maßgabe der genannten Rechtsverordnung vorgesehene Bescheinigungen vollständig ausgefüllt zugehen.
 
-(2) Das Formblatt und die Bescheinigungen müssen binnen 14 Tagen nach dem Tag, bis zu dem die Schornsteinfegerarbeiten spätestens durchzuführen waren, zugehen.
+(2) Der Eigentümer hat das Formblatt und die Bescheinigungen spätestens 14 Tage nach der Durchführung der Schornsteinfegerarbeiten abzusenden. Die Unterlagen müssen dem bevollmächtigten Bezirksschornsteinfeger jedoch spätestens 14 Tage nach Ablauf der im Feuerstättenbescheid genannten Frist zugehen. Soweit der bevollmächtigte Bezirksschornsteinfeger für die Übersendung der Unterlagen einen geeigneten digitalen Zugang eröffnet hat, kann der Eigentümer diesen verwenden.
 
-(3) Der die Schornsteinfegerarbeiten ausführende Schornsteinfeger hat das Formblatt und die Bescheinigungen wahrheitsgemäß und vollständig auszufüllen. Er muss das ausgefüllte Formblatt und die Bescheinigungen dem Eigentümer übergeben oder im Auftrag des Eigentümers an den zuständigen bevollmächtigten Bezirksschornsteinfeger übermitteln. Die Pflicht des Eigentümers zum Erbringen des Nachweises nach Absatz 1 bleibt unberührt.
+(3) Der die Schornsteinfegerarbeiten ausführende Schornsteinfeger hat das Formblatt und die Bescheinigungen wahrheitsgemäß und vollständig auszufüllen. Er muss das ausgefüllte Formblatt und die Bescheinigungen dem Eigentümer übergeben oder im Auftrag des Eigentümers an den zuständigen bevollmächtigten Bezirksschornsteinfeger übermitteln. Dabei hat der ausführende Schornsteinfeger das ausgefüllte Formblatt und die Bescheinigungen elektronisch in maschinell auslesbarer und auswertbarer Form unter Angabe der Objektnummer laut Feuerstättenbescheid zu übermitteln, soweit der bevollmächtigte Bezirksschornsteinfeger für die Übersendung der Unterlagen einen geeigneten digitalen Zugang eröffnet hat. Die Pflicht des Eigentümers zum Erbringen des Nachweises nach Absatz 1 bleibt unberührt.
 
 (4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Ausgestaltung und den Inhalt des Formblatts und der Bescheinigungen zu regeln. Das Formblatt und die Bescheinigungen sind so zu fassen, dass der bevollmächtigte Bezirksschornsteinfeger ihnen alle für die Führung des Kehrbuchs nach § 19 vorgesehenen Daten entnehmen kann.
 
@@ -125,7 +125,7 @@ Im Falle der Ausschreibung des Statusamtes nach Satz 2 Nummer 2 weist die zustä
 
 (2) Die zuständige Behörde kann von den Bewerbern und Bewerberinnen insbesondere die Vorlage folgender Unterlagen verlangen:
 
-1. die schriftliche Bewerbung, die den Familiennamen, die Vornamen, die Anschrift, die Telefonnummer und, soweit vorhanden, die elektronischen Kontaktdaten des Bewerbers enthält,
+1. die schriftliche oder elektronische Bewerbung, die den Familiennamen, die Vornamen, die Anschrift, die Telefonnummer und die elektronischen Kontaktdaten des Bewerbers enthält,
 
 2. den tabellarischen Lebenslauf, der genaue Angaben über die berufliche Vorbildung und den beruflichen Werdegang enthält,
 
@@ -135,7 +135,7 @@ Im Falle der Ausschreibung des Statusamtes nach Satz 2 Nummer 2 weist die zustä
 
 5. die Nachweise über die bisherigen Schornsteinfegertätigkeiten und über berufsbezogene Fort- und Weiterbildungsmaßnahmen,
 
-6. die Zustimmungserklärung zur Einholung einer Auskunft aus dem Gewerbezentralregister,
+6. die Zustimmungserklärung zur Einholung einer Auskunft aus dem Gewerbezentralregister oder deren Vorlage, sowie die Vorlage eines einfachen polizeilichen Führungszeugnisses,
 
 7. die Erklärung darüber, ob innerhalb der letzten zwölf Monate vor Veröffentlichung der Ausschreibung gegen den Bewerber oder die Bewerberin
 
@@ -143,11 +143,13 @@ a) strafgerichtliche Verurteilungen ergangen sind,
 
 b) ein gerichtliches Strafverfahren anhängig geworden ist oder
 
-c) ein anhängiges Ermittlungsverfahren bekannt geworden ist,
+c) ein anhängiges Ermittlungs- oder Gewerbeuntersagungsverfahren bekannt geworden ist,
 
-8. die Angabe des Bewerbers oder der Bewerberin zur Rangfolge bevorzugter Bezirke und
+8. die Angabe des Bewerbers oder der Bewerberin zur Rangfolge bevorzugter Bezirke,
 
-9. den Nachweis über die derzeitige Tätigkeit als bevollmächtigter Bezirksschornsteinfeger oder die Erklärung, dass ein solches Amt nicht ausgeübt wird.
+9. den Nachweis über die derzeitige Tätigkeit als bevollmächtigter Bezirksschornsteinfeger oder als Vertreter nach § 11b oder die Erklärung, dass kein solches Amt ausgeübt wird, und
+
+10. die Angabe, ob eine frühere Tätigkeit als bevollmächtigter Bezirksschornsteinfeger oder als Vertreter nach § 11b innerhalb der letzten sieben Jahre nach § 12 Absatz 1 aufgehoben wurde oder ob ein derartiges Aufhebungsverfahren anhängig war oder ist.
 
 In der Ausschreibung hat die zuständige Behörde anzugeben, welche in Satz 1 bezeichneten Unterlagen vorzulegen sind.
 
@@ -155,31 +157,35 @@ In der Ausschreibung hat die zuständige Behörde anzugeben, welche in Satz 1 be
 
 (4) Ein bevollmächtigter Bezirksschornsteinfeger darf sich frühestens zwei Jahre nach Wirksamkeit der Bestellung erneut bewerben. Satz 1 ist nicht anzuwenden, wenn der Ausschluss von der Bewerbung eine persönliche Härte bedeuten würde und eine frühere Bewerbung im Hinblick auf die Erhaltung der Betriebs- und Brandsicherheit nicht zu beanstanden ist.
 
+(+++ § 9a Abs. 2 Satz 1 Nr. 7: Zur Anwendung vgl. § 11b Abs. 2 Satz 3 +++)
+
 # § 9b – Verordnungsermächtigung
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Nähere über das Ausschreibungsverfahren und die Auswahl der Bewerber und Bewerberinnen zu erlassen. Die Landesregierungen können diese Ermächtigung auf die zuständigen obersten Landesbehörden übertragen.
 
 # § 10 – Bestellung und kommissarische Verwaltung
 
-(1) Die Bestellung des bevollmächtigten Bezirksschornsteinfegers ist auf sieben Jahre befristet, endet jedoch spätestens mit Ablauf des Monats, in dem die bestellte Person das 67. Lebensjahr vollendet.
+(1) Die Bestellung des bevollmächtigten Bezirksschornsteinfegers ist auf sieben Jahre befristet, endet jedoch spätestens mit Ablauf des Monats, in dem die bestellte Person das 67. Lebensjahr vollendet. Die bestellte Person kann bei der zuständigen Behörde bis spätestens sechs Monate vor Erreichen der Altersgrenze nach Satz 1 einen Antrag auf Verlängerung der Bestellung über diese Altersgrenze hinaus bis zum Ende der siebenjährigen Bestellungszeit stellen. In den Fällen des Satzes 2 endet die Bestellung jedoch spätestens mit Ablauf des Monats, in dem die bestellte Person das 70. Lebensjahr vollendet. Die Bestellungsbehörde kann die Vorlage eines amtsärztlichen Gutachtens über die gesundheitliche Eignung für eine Verlängerung über die Altersgrenze hinaus auf Kosten der bestellten Person verlangen.
 
-(2) Die Bestellung ist durch die zuständige Behörde öffentlich bekannt zu machen und dem Bundesamt für Wirtschaft und Ausfuhrkontrolle zur Eintragung in das Schornsteinfegerregister mitzuteilen.
+(2) Die Bestellung und Verlängerung ist durch die zuständige Behörde öffentlich bekannt zu machen und dem Bundesamt für Wirtschaft und Ausfuhrkontrolle zur Eintragung in das Schornsteinfegerregister mitzuteilen.
 
-(3) Hat sich keine geeignete Person für den ausgeschriebenen Bezirk beworben, hat die zuständige Behörde für die Dauer von längstens drei Jahren einen bevollmächtigten Bezirksschornsteinfeger eines benachbarten Bezirks mit einer kommissarischen Verwaltung des unbesetzten Bezirks zu beauftragen. § 11 Absatz 4 ist entsprechend anzuwenden. Unverzüglich und spätestens drei Jahre nach der letzten Ausschreibung ist der Bezirk erneut auszuschreiben.
+(3) Hat sich keine geeignete Person für den ausgeschriebenen Bezirk beworben, hat die zuständige Behörde für die Dauer von längstens drei Jahren einen bevollmächtigten Bezirksschornsteinfeger aus ihrem Zuständigkeitsbereich mit einer kommissarischen Verwaltung des unbesetzten Bezirks zu beauftragen. § 11 Absatz 4 und 5 ist entsprechend anzuwenden. Der Bezirk ist innerhalb von drei Jahren nach der letzten Ausschreibung erneut auszuschreiben, soweit er nicht dauerhaft aufgelöst wird.
 
 (4) Widerspruch und Anfechtungsklage gegen die Bestellung haben keine aufschiebende Wirkung.
 
+(+++ § 10 Abs. 1: Zur Anwendung vgl. § 11b Abs. 4 Satz 4 +++)
+
 # § 11 – Vertretung
 
-(1) Der bevollmächtigte Bezirksschornsteinfeger hat der zuständigen Behörde unverzüglich nach seiner Bestellung mindestens einen bevollmächtigten Bezirksschornsteinfeger eines benachbarten Bezirks im Zuständigkeitsbereich der Behörde als Vertreter zu benennen.
+(1) Der bevollmächtigte Bezirksschornsteinfeger hat der zuständigen Behörde unverzüglich nach seiner Bestellung mindestens einen bevollmächtigten Bezirksschornsteinfeger eines Bezirks im Zuständigkeitsbereich der Behörde als Vertreter zu benennen.
 
-(2) Ist der bevollmächtigte Bezirksschornsteinfeger voraussichtlich weniger als einen Monat verhindert, hat er eine Vertretung durch eine der nach Absatz 1 benannten Personen eigenständig zu veranlassen.
+(2) Ist der bevollmächtigte Bezirksschornsteinfeger voraussichtlich weniger als einen Monat verhindert, hat er eine Vertretung durch eine der nach Absatz 1 benannten Personen eigenständig zu veranlassen. Im Rahmen ihrer Vereinbarungen über die Vertretung können die bevollmächtigten Bezirksschornsteinfeger auch Vereinbarungen über den Einsatz von betriebsangehörigen Vertretern nach § 11b für die Durchführung der Feuerstättenschau und der dabei anfallenden Tätigkeiten nach § 14 Absatz 1 und 2 Satz 1 und 2 treffen.
 
-(3) Ist der bevollmächtigte Bezirksschornsteinfeger voraussichtlich länger als einen Monat verhindert, hat er seine Verhinderung der zuständigen Behörde unverzüglich anzuzeigen. Wenn die Vertretung durch eine nach Absatz 1 benannte Person möglich ist, hat die zuständige Behörde die Vertretung durch diese anzuordnen. Anderenfalls hat die Behörde einen Vertreter zu bestimmen. Dabei soll es sich um einen bevollmächtigten Bezirksschornsteinfeger eines benachbarten Bezirks im Zuständigkeitsbereich der Behörde handeln. Die Wahrnehmung der Vertretung kann nur aus wichtigem Grund abgelehnt werden.
+(3) Ist der bevollmächtigte Bezirksschornsteinfeger voraussichtlich länger als einen Monat verhindert, hat er seine Verhinderung der zuständigen Behörde unverzüglich anzuzeigen. Wenn die Vertretung durch eine nach Absatz 1 benannte Person möglich ist, hat die zuständige Behörde die Vertretung durch diese anzuordnen; anderenfalls soll die Behörde einen oder mehrere bevollmächtigte Bezirksschornsteinfeger aus ihrem Zuständigkeitsbereich als Vertreter bestimmen und die Vertretung anordnen. Die Wahrnehmung der Vertretung kann nur aus wichtigem Grund abgelehnt werden.
 
-(4) Der von der Behörde nach Absatz 3 Satz 2 bestimmte Vertreter hat seine Aufgaben in eigenem Namen und auf eigene Rechnung wahrzunehmen. Die Kapitel 3 und 4 dieses Teils sind auf die Vertretung entsprechend anzuwenden. Die zuständige Behörde kann den Bezirk, in dem eine Vertretung erforderlich ist, für die Dauer der Vertretung aufteilen.
+(4) Die von der Behörde nach Absatz 3 Satz 2 angeordnete Vertretung hat seine Aufgaben in eigenem Namen und auf eigene Rechnung wahrzunehmen. Die Kapitel 3 und 4 dieses Teils sind auf diese angeordnete Vertretung entsprechend anzuwenden. Die zuständige Behörde kann den Bezirk, in dem eine Vertretung erforderlich ist, für die Dauer der Vertretung aufteilen. Wenn für den Vertreter nach Absatz 3 ein Betriebsangehöriger als Vertreter nach § 11b bestellt ist, darf dieser auch in dem Bezirk, für den die Vertretung nach Absatz 3 angeordnet ist, für die Durchführung der Feuerstättenschau und der dabei anfallenden Tätigkeiten nach § 14 Absatz 1 und 2 Satz 1 und 2 eingesetzt werden.
 
-(5) Der zuständige bevollmächtigte Bezirksschornsteinfeger hat dem von der Behörde nach Absatz 3 Satz 2 bestimmten Vertreter die Daten und Unterlagen zur Verfügung zu stellen, die für die Vertretung erforderlich sind. Nach Beendigung der Vertretung hat der Vertreter
+(5) Der zuständige bevollmächtigte Bezirksschornsteinfeger hat der von der Behörde nach Absatz 3 Satz 2 angeordneten Vertretung die Daten und Unterlagen zur Verfügung zu stellen, die für die Vertretung erforderlich sind. Nach Beendigung der Vertretung hat der Vertreter
 
 1. dem vertretenen bevollmächtigten Bezirksschornsteinfeger die Daten und Unterlagen zurückzugeben und neu gewonnene Daten und neue Unterlagen zu übergeben,
 
@@ -187,11 +193,31 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Nähere üb
 
 3. den vertretenen bevollmächtigten Bezirksschornsteinfeger über die durchgeführten Arbeiten zu unterrichten.
 
+(+++ § 11: Zur Anwendung vgl. § 11b Abs. 4 Satz 1 +++)
+
 # § 11a – Verwaltung eines unbesetzten Bezirks
 
 (1) Wenn ein Bezirk unbesetzt ist, ist § 11 Absatz 3 bis 5 entsprechend anzuwenden.
 
 (2) Stirbt ein bevollmächtigter Bezirksschornsteinfeger, so sind der Erbe oder die Erben verpflichtet, der zuständigen Behörde den Todesfall unter Angabe des Sterbedatums unverzüglich anzuzeigen.
+
+# § 11b – Vertretung durch Betriebsangehörigen für die Feuerstättenschau
+
+(1) Der bevollmächtigte Bezirksschornsteinfeger kann bei der zuständigen Behörde schriftlich oder elektronisch beantragen, einen Angehörigen seines Betriebs als Vertreter für die Feuerstättenschau nach § 14 Absatz 1 und die dabei anfallenden Tätigkeiten nach § 14 Absatz 2 Satz 1 und 2 zu bestellen. Der Vertreter muss die handwerksrechtlichen Voraussetzungen zur selbstständigen Ausübung des Schornsteinfegerhandwerks erfüllen.
+
+(2) Dem Antrag sind die folgenden Unterlagen beizufügen:
+
+1. eine eigenhändig unterschriebene Einverständniserklärung des Betriebsangehörigen zur Übernahme der Vertretung,
+
+2. Nachweise zur Qualifikation des Betriebsangehörigen und
+
+3. der Arbeitsvertrag des Betriebsangehörigen.
+
+Die zuständige Behörde kann die Vorlage weiterer Unterlagen der vorgeschlagenen Person entsprechend § 9a Absatz 2 verlangen. § 9a Absatz 2 Satz 1 Nummer 7 ist dabei mit der Maßgabe entsprechend anzuwenden, dass für die Bestimmung des Erklärungszeitraums auf den Zeitpunkt der Antragstellung abzustellen ist.
+
+(3) Der betriebsangehörige Vertreter ist zu bestellen, wenn dieser persönlich und fachlich geeignet ist. Bei einem befristeten Arbeitsvertrag ist die Bestellung zum Ablauf des Arbeitsverhältnisses zu befristen. Soweit keine kürzere Frist bestimmt ist, endet die Bestellung spätestens mit dem Ende oder der Aufhebung der Bestellung des bevollmächtigten Bezirksschornsteinfegers. Bei Beendigung des Arbeitsvertrages vor Ablauf der Bestellungsfrist ist die Vertreterbestellung aufzuheben. Der bevollmächtigte Bezirksschornsteinfeger hat ein Ende des Arbeitsvertrages der Behörde unverzüglich anzuzeigen. Sofern der Betriebsangehörige über Arbeitsverträge mit mehreren bevollmächtigten Bezirksschornsteinfegern verfügt, kann entsprechend § 8 Absatz 1 die Bestellung als betriebsangehöriger Vertreter nur für einen erfolgen; maßgeblich ist der zuerst gestellte Antrag. Die Bestellung und eine etwaige Befristung sind öffentlich bekannt zu machen.
+
+(4) Bei einer Verhinderung des bevollmächtigten Bezirksschornsteinfegers ist § 11 anzuwenden. Der betriebsangehörige Vertreter wird im Namen und in Verantwortung des bevollmächtigten Bezirksschornsteinfegers tätig. Ein Fehlverhalten ist dem bevollmächtigten Bezirksschornsteinfeger im Sinne des § 21 Absatz 3 zuzurechnen. § 10 Absatz 1, § 12 Absatz 1 Satz 1 und 2, Absatz 2 und 3 und § 18 Absatz 1 sind entsprechend anzuwenden, wobei im Falle des § 12 Absatz 1 Satz 1 Nummer 1 sowohl der bevollmächtigte Bezirksschornsteinfeger als auch der Betriebsangehörige jeweils einzeln und unabhängig voneinander antragsberechtigt sind.
 
 # § 12 – Aufhebung der Bestellung
 
@@ -203,25 +229,31 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Nähere üb
 
 3. wenn Tatsachen nachweislich belegen, dass der bevollmächtigte Bezirksschornsteinfeger wegen eines körperlichen Gebrechens oder einer Schwäche seiner körperlichen oder geistigen Kräfte dauernd unfähig ist, seinen Beruf auszuüben.
 
-(2) Die zuständige Behörde kann zur Klärung des Vorliegens der Voraussetzungen des Absatzes 1 Nummer 3 den bevollmächtigten Bezirksschornsteinfeger auffordern, auf seine Kosten ein amtsärztliches Gutachten über seinen Gesundheitszustand vorzulegen, wenn nachweislich Anzeichen für ein körperliches Gebrechen oder eine Schwäche seiner körperlichen oder geistigen Kräfte vorliegen.
+In einem Antrag nach Nummer 1 ist anzugeben, zu welchem Zeitpunkt die Bestellung aufgehoben werden soll. Dieser Zeitpunkt soll frühestens drei Monate nach der Antragstellung liegen. Wird kein Zeitpunkt angegeben, soll die Aufhebung der Bestellung zum Zeitpunkt drei Monate nach Antragstellung erfolgen. Die Behörde kann auf die Einhaltung der Frist verzichten.
 
-(3) Widerspruch und Anfechtungsklage haben im Fall des Absatzes 1 Nummer 2 und 3 keine aufschiebende Wirkung.
+(2) Die zuständige Behörde kann zur Klärung des Vorliegens der Voraussetzungen des Absatzes 1 Satz 1 Nummer 3 den bevollmächtigten Bezirksschornsteinfeger auffordern, auf seine Kosten ein amtsärztliches Gutachten über seinen Gesundheitszustand vorzulegen, wenn nachweislich Anzeichen für ein körperliches Gebrechen oder eine Schwäche seiner körperlichen oder geistigen Kräfte vorliegen.
+
+(3) Widerspruch und Anfechtungsklage haben im Fall des Absatzes 1 Satz 1 Nummer 2 und 3 keine aufschiebende Wirkung.
 
 (4) Die Aufhebung der Bestellung ist dem Bundesamt für Wirtschaft und Ausfuhrkontrolle durch die zuständige Behörde unverzüglich für die Führung des Schornsteinfegerregisters mitzuteilen.
 
+(+++ § 12 Abs. 1 Satz 1 u. 2, Abs. 2 u. 3: Zur Anwendung vgl. § 11b Abs. 4 Satz 4 +++)
+
 # § 12a – Haftungsausschluss
 
-Eine Haftung des Staates an Stelle des bevollmächtigten Bezirksschornsteinfegers besteht nicht.
+Eine Haftung des Staates an Stelle des bevollmächtigten Bezirksschornsteinfegers oder von dessen Vertreter besteht nicht.
 
 (+++ § 12a: Zur Anwendung ab 1.1.2018 vgl. § 45 +++)
 
 # § 13 – Allgemeine Aufgaben
 
-Die bevollmächtigten Bezirksschornsteinfeger kontrollieren die Einhaltung der Pflichten der Eigentümer nach § 1 Abs. 1 und 2 und führen die Kehrbücher.
+Die bevollmächtigten Bezirksschornsteinfeger kontrollieren die Einhaltung der Pflichten der Eigentümer nach § 1 Abs. 1 und 2 und führen die Kehrbücher nach Maßgabe des § 19 Absatz 2.
+
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
 
 # § 14 – Feuerstättenschau
 
-(1) Jeder bevollmächtigte Bezirksschornsteinfeger hat persönlich zweimal während des Zeitraums seiner Bestellung sämtliche Anlagen in den Gebäuden seines Bezirks zu besichtigen, in denen folgende Arbeiten durchzuführen sind:
+(1) Jeder bevollmächtigte Bezirksschornsteinfeger hat zweimal während des Zeitraums seiner Bestellung sämtliche Anlagen in den Gebäuden seines Bezirks zu besichtigen, in denen folgende Arbeiten durchzuführen sind:
 
 1. Arbeiten nach den Rechtsverordnungen nach § 1 Absatz 1 Satz 2 und 3,
 
@@ -234,6 +266,8 @@ Der bevollmächtigte Bezirksschornsteinfeger prüft die Betriebs- und Brandsiche
 (2) Stellt der bevollmächtigte Bezirksschornsteinfeger bei der Feuerstättenschau fest, dass eine Anlage nicht betriebs- oder brandsicher ist, und ist Gefahr im Verzug, so trifft er die erforderlichen vorläufigen Sicherungsmaßnahmen. Als vorläufige Sicherungsmaßnahme ist auch die vorläufige Stilllegung einer Anlage zulässig. Der bevollmächtigte Bezirksschornsteinfeger unterrichtet die zuständige Behörde unverzüglich über die getroffenen Sicherungsmaßnahmen. Diese hat die vorläufigen Sicherungsmaßnahmen als Sicherungsmaßnahmen zu verfügen oder diese aufzuheben.
 
 (3) Der bevollmächtigte Bezirksschornsteinfeger hat dem Eigentümer die bei der Feuerstättenschau festgestellten Mängel schriftlich oder in elektronischer Form mitzuteilen. § 5 Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
+
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
 
 # § 14a – Feuerstättenbescheid
 
@@ -255,13 +289,17 @@ Der bevollmächtigte Bezirksschornsteinfeger bestimmt die Fristen nach pflichtge
 
 2. für kehr- und überprüfungspflichtige Anlagen, für die bislang kein Feuerstättenbescheid ausgestellt wurde, zu erstellen.
 
-(4) Findet für ein Grundstück oder einen Raum eine Bauabnahme statt, ist der Feuerstättenbescheid abweichend von Absatz 1 unverzüglich nach der Bauabnahme zu erlassen.
+(4) Findet für ein Grundstück oder einen Raum eine Ausstellung einer Bescheinigung über die Tauglichkeit und sichere Benutzbarkeit von Feuerungsanlagen statt, ist der Feuerstättenbescheid abweichend von Absatz 1 unverzüglich nach der Ausstellung der Bescheinigung zu erlassen.
 
 (5) Widerspruch und Anfechtungsklage gegen den Feuerstättenbescheid haben keine aufschiebende Wirkung. Der Feuerstättenbescheid gilt auch für und gegen den Rechtsnachfolger.
+
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
 
 # § 14b – Gegenstands- und Streitwert
 
 In Widerspruchsverfahren oder in verwaltungsgerichtlichen Verfahren, die einen Feuerstättenbescheid zum Gegenstand haben, betragen der Gegenstandswert und der Streitwert jeweils 500 Euro.
+
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
 
 # § 15 – Anlassbezogene Überprüfungen
 
@@ -273,11 +311,15 @@ Die bevollmächtigten Bezirksschornsteinfeger haben die Befugnis zur Durchführu
 
 Die Überprüfung ist der zuständigen Behörde unter Angabe der Gründe und des Ergebnisses unverzüglich anzuzeigen. § 14 Absatz 2 gilt entsprechend.
 
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
+
 # § 16 – Weitere Aufgaben
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger stellt in seinem Bezirk Bescheinigungen über die Tauglichkeit und sichere Benutzbarkeit von Feuerungsanlagen aus, soweit solche Bescheinigungen durch Landesrecht vorgesehen sind.
 
 (2) Jeder bevollmächtigte Bezirksschornsteinfeger leistet auf Anforderung der für den örtlichen Brandschutz zuständigen Behörde Hilfe bei der Brandbekämpfung in seinem Bezirk.
+
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
 
 # § 17 – (weggefallen)
 
@@ -294,6 +336,11 @@ Die Überprüfung ist der zuständigen Behörde unter Angabe der Gründe und des
 Angehörige des bevollmächtigten Bezirksschornsteinfegers im Sinne des Satzes 1 sind die in § 20 Absatz 5 des Verwaltungsverfahrensgesetzes bezeichneten Angehörigen.
 
 (3) In den Fällen des Absatzes 2 hat sich der bevollmächtigte Bezirksschornsteinfeger nach den Vorschriften über die Vertretung des bevollmächtigten Bezirksschornsteinfegers vertreten zu lassen. § 11 ist entsprechend anzuwenden.
+
+(4) Der bevollmächtigte Bezirksschornsteinfeger hat seine Vertretung durch einen Betriebsangehörigen für die Feuerstättenschau nach § 11b, sofern bestellt, regelmäßig zu überwachen.
+
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)  
+(+++ § 18 Abs. 1: Zur Anwendung vgl. § 11b Abs. 4 Satz 4 +++)
 
 # § 19 – Führung des Kehrbuchs
 
@@ -323,17 +370,17 @@ c) der Wohnungseigentümer, wenn kein Verwalter bestellt ist, und, wenn abweiche
 
 Soweit die in Satz 1 genannten Daten den bevollmächtigten Bezirksschornsteinfegern nicht ohnehin auf Grund ihrer Tätigkeit bekannt sind, entnehmen sie die Daten den ausgefüllten Formblättern nach § 4.
 
-(2) Die bevollmächtigten Bezirksschornsteinfeger sind dafür verantwortlich, dass die Eintragungen im jeweiligen Kehrbuch vollständig und richtig geordnet vorgenommen sowie auf dem neuesten Stand gehalten werden. Eine Eintragung darf nicht in einer Weise verändert werden, dass die ursprüngliche Eintragung nicht mehr feststellbar ist. Das Kehrbuch ist elektronisch zu führen. Es muss jährlich abgeschlossen werden.
+(2) Der bevollmächtigte Bezirksschornsteinfeger hat die Eintragungen im elektronisch zu führenden Kehrbuch vollständig und chronologisch geordnet vorzunehmen sowie vorhandene Eintragungen regelmäßig, mindestens aber vierteljährlich, auf ihre Vollständigkeit und Richtigkeit zu überprüfen. Als unvollständig oder unrichtig erkannte Eintragungen sind unverzüglich zu ergänzen oder zu aktualisieren. In den Fällen des Satzes 2 darf eine Eintragung nicht in einer Art und Weise verändert werden, dass die ursprüngliche Eintragung nicht mehr feststellbar ist. Das Kehrbuch muss jährlich abgeschlossen werden.
 
 (3) Bei der Übergabe des Bezirks ist der bevollmächtigte Bezirksschornsteinfeger verpflichtet, dem Nachfolger kostenfrei
 
 1. die Kehrbücher der letzten sieben Jahre und die jeweils letzten zwei Feuerstättenbescheide zu übergeben,
 
-2. die Unterlagen, die für die Führung des Kehrbuchs erforderlich sind, insbesondere Bauabnahmebescheinigungen, Formblätter, Mängelmeldungen und Bescheinigungen, zu übergeben und
+2. die Unterlagen, die für die Führung des Kehrbuchs erforderlich sind, insbesondere Bescheinigungen über die Tauglichkeit und sichere Benutzbarkeit von Feuerungsanlagen, Formblätter, Mängelmeldungen und Bescheinigungen, zu übergeben und
 
 3. elektronisch gespeicherte Kehrbücher und andere auf seine Tätigkeit als bevollmächtigter Bezirksschornsteinfeger bezogene Daten maschinell verwertbar und lesbar zu übermitteln.
 
-Unverzüglich nach der Übergabe hat der bevollmächtigte Bezirksschornsteinfeger alle durch die hoheitliche Tätigkeit erlangten Daten zu löschen, es sei denn, dass andere Rechtsvorschriften eine längere Aufbewahrung vorschreiben. Wenn der bevollmächtigte Bezirksschornsteinfeger seinen Pflichten nach den Sätzen 1 und 2 nicht nachkommt und der Nachfolger die Daten des Kehrbuchs erheben muss, hat der bisherige bevollmächtigte Bezirksschornsteinfeger die Kosten für die Erhebung zu tragen.
+Der Nachfolger hat die übergebenen Kehrbücher und Unterlagen stichprobenartig auf Vollständigkeit des Datensatzes sowie elektronisch Gespeichertes auf maschinelle Auslesbarkeit zu prüfen. Er hat dem übergebenden bevollmächtigten Bezirksschornsteinfeger binnen sechs Wochen schriftlich oder elektronisch die ordnungsgemäße Übergabe zu bestätigen oder die Übergabe zu beanstanden. Im Fall einer Beanstandung hat der übergebende bevollmächtigte Bezirksschornsteinfeger binnen drei Wochen die Übergabe nachzubessern. Satz 2 ist sodann mit einer Frist von drei Wochen entsprechend anzuwenden. Ist auch die Nachbesserung ungenügend oder erfolgt innerhalb der Prüffrist keine Rückmeldung durch den Nachfolger, ist die Aufsichtsbehörde zu benachrichtigen und der jeweils Säumige hierüber zu unterrichten. Unverzüglich nach dem Erhalt der Bestätigung über die ordnungsgemäße Übergabe durch den Nachfolger oder die Aufsichtsbehörde hat der übergebende bevollmächtigte Bezirksschornsteinfeger alle durch die hoheitliche Tätigkeit erlangten Daten zu löschen, es sei denn, dass andere Rechtsvorschriften eine längere Aufbewahrung vorschreiben. Wenn der übergebende bevollmächtigte Bezirksschornsteinfeger seinen Pflichten nach den Sätzen 1 und 4 nicht nachkommt und der Nachfolger die Daten des Kehrbuchs erheben muss, hat der bisherige bevollmächtigte Bezirksschornsteinfeger die Kosten für die Erhebung zu tragen.
 
 (4) Der bevollmächtigte Bezirksschornsteinfeger hat ein Kehrbuch sowie die für die Führung des Kehrbuchs erforderlichen Unterlagen einschließlich der eingereichten Formblätter bis zum Ablauf von sieben Jahren ab der letzten Eintragung aufzubewahren, sofern nicht andere Rechtsvorschriften eine längere Aufbewahrung vorschreiben. Nach Ablauf der Aufbewahrungsfrist sind die Daten zu löschen und die Unterlagen zu vernichten. Die Frist nach Satz 1 beginnt mit dem Ende des Kalenderjahres, in dem die letzte Eintragung vorgenommen wurde.
 
@@ -345,11 +392,15 @@ Unverzüglich nach der Übergabe hat der bevollmächtigte Bezirksschornsteinfege
 
 Die Verordnung (EU) 2016/679 bleibt unberührt.
 
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
+
 # § 19a – Mitteilungspflichten von Verwaltern und Wohnungseigentümern
 
 Ein Verwalter im Sinne des Wohnungseigentumsgesetzes hat dem bevollmächtigten Bezirksschornsteinfeger auf Anforderung unverzüglich Namen und Anschrift des Besitzers im Sinne des § 19 Absatz 1 Nummer 1 Buchstabe b mitzuteilen. Der Wohnungseigentümer hat dem bevollmächtigten Bezirksschornsteinfeger Namen und Anschrift des Besitzers im Sinne des § 19 Absatz 1 Nummer 1 Buchstabe c auf Anforderung unverzüglich mitzuteilen.
 
-# § 20 – Kosten
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
+
+# § 20 – Kosten; Verordnungsermächtigung
 
 (1) Der Eigentümer hat für Tätigkeiten des bevollmächtigten Bezirksschornsteinfegers nach § 14 Absatz 1 bis 3, § 14a, § 15 Satz 1, § 16 und § 26 Gebühren zu entrichten. Satz 1 ist für die Mahnung rückständiger Gebühren entsprechend anzuwenden.
 
@@ -359,6 +410,8 @@ Ein Verwalter im Sinne des Wohnungseigentumsgesetzes hat dem bevollmächtigten B
 
 (4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze, auch in Form von Gebühren nach Zeitaufwand, oder Rahmensätze vorzusehen. Die Gebühren sollen die mit der individuell zurechenbaren öffentlichen Leistung verbundenen Kosten decken. In die Gebühren sind die mit der Leistung regelmäßig verbundenen Auslagen einzubeziehen. Zur Ermittlung der Gebühr sind die Kosten zu Grunde zu legen, die nach betriebswirtschaftlichen Grundsätzen als Einzel- und Gemeinkosten zurechenbar und ansatzfähig sind, insbesondere Personal- und Sachkosten sowie kalkulatorische Kosten. Zu den Gemeinkosten zählen auch die Kosten der Rechts- und Fachaufsicht. Grundlage der Gebührenermittlung nach den Sätzen 1 bis 4 sind die in der Gesamtheit der Länder mit der jeweiligen Leistung verbundenen Kosten. § 9 Absatz 3 des Bundesgebührengesetzes ist entsprechend anzuwenden.
 
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
+
 # § 21 – Aufsicht
 
 (1) Die bevollmächtigten Bezirksschornsteinfeger unterstehen der Aufsicht der zuständigen Behörde. Die zuständige Behörde kann die bevollmächtigten Bezirksschornsteinfeger hinsichtlich der Wahrnehmung der ihnen übertragenen Aufgaben und Befugnisse und der Einhaltung ihrer Pflichten jederzeit überprüfen. Wenn bei der Überprüfung wesentliche Pflichtverletzungen festgestellt werden, tragen die jeweiligen bevollmächtigten Bezirksschornsteinfeger die Kosten der Überprüfung.
@@ -367,13 +420,19 @@ Ein Verwalter im Sinne des Wohnungseigentumsgesetzes hat dem bevollmächtigten B
 
 (3) Wenn bevollmächtigte Bezirksschornsteinfeger die ihnen nach diesem Gesetz obliegenden Aufgaben und Pflichten nicht oder nicht ordnungsgemäß erfüllen, kann die zuständige Behörde als Aufsichtsmaßnahme insbesondere einen Verweis aussprechen oder ein Warnungsgeld von bis zu zwanzigtausend Euro verhängen.
 
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
+
 # § 22 – Verhältnis zu Bestimmungen des Immissionsschutzrechts
 
 Die Befugnisse der jeweils zuständigen Behörde, auf Grund des Bundes-Immissionsschutzgesetzes oder der nach diesem Gesetz erlassenen Rechtsverordnungen andere oder weitergehende Anordnungen zu treffen, bleiben von den Bestimmungen dieses Gesetzes unberührt.
 
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
+
 # § 23 – Zuständige Behörden
 
 Die für die Aufgaben nach diesem Gesetz zuständigen Behörden werden durch Landesrecht bestimmt.
+
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
 
 # § 24 – Bußgeldvorschriften
 
@@ -387,21 +446,27 @@ Die für die Aufgaben nach diesem Gesetz zuständigen Behörden werden durch Lan
 
 3a. entgegen § 2 Absatz 2 Nummer 2 ein Gerät verwendet,
 
-4. entgegen § 4 Absatz 3 Satz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 4 Satz 1 das Formblatt nicht richtig oder nicht vollständig ausfüllt,
+4. entgegen § 4 Absatz 2 Satz 1 das Formblatt oder eine Bescheinigung nicht oder nicht rechtzeitig absendet,
 
-5. entgegen § 5 Abs. 2 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+5. entgegen § 4 Absatz 3 Satz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 4 Satz 1 das Formblatt oder eine Bescheinigung nicht richtig oder nicht vollständig ausfüllt,
 
-6. entgegen § 19 Absatz 3 Satz 1 ein Kehrbuch, einen Feuerstättenbescheid oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übergibt oder ein elektronisches Kehrbuch oder dort genannte Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder
+6. entgegen § 5 Abs. 2 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-7. entgegen § 19 Absatz 3 Satz 2 dort genannte Daten nicht, nicht vollständig oder nicht rechtzeitig löscht.
+7. entgegen § 13 das Kehrbuch nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise führt,
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 6 und 7 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+8. entgegen § 19 Absatz 3 Satz 1 ein Kehrbuch, einen Feuerstättenbescheid oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übergibt oder ein elektronisches Kehrbuch oder dort genannte Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder
+
+9. entgegen § 19 Absatz 3 Satz 7 dort genannte Daten nicht, nicht vollständig oder nicht rechtzeitig löscht.
+
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 8 und 9 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
 
 # § 25 – Nichterfüllung, Zweitbescheid
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger hat der zuständigen Behörde unverzüglich zu melden, wenn
 
-1. das Formblatt und die Bescheinigungen nicht innerhalb der in § 4 Absatz 2 genannten Frist zugegangen sind und
+1. das Formblatt und die Bescheinigungen nicht binnen 14 Tagen nach Ablauf der im Feuerstättenbescheid genannten Frist zugegangen sind und
 
 2. die Durchführung der Arbeiten auch nicht auf andere Weise innerhalb dieser Frist nachgewiesen wurde.
 
@@ -411,11 +476,15 @@ Die für die Aufgaben nach diesem Gesetz zuständigen Behörden werden durch Lan
 
 (4) Widerspruch und Anfechtungsklage gegen den Bescheid haben keine aufschiebende Wirkung.
 
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
+
 # § 26 – Ersatzvornahme
 
-(1) Wird die Verpflichtung, die in dem Zweitbescheid nach § 25 Absatz 2 Satz 1 festgesetzten Schornsteinfegerarbeiten durchführen zu lassen, nicht oder nicht fristgemäß erfüllt, hat die zuständige Behörde den bevollmächtigten Bezirksschornsteinfeger unverzüglich mit der Vornahme der Handlungen im Wege der Ersatzvornahme zu beauftragen.
+(1) Wird die Verpflichtung, die in dem Zweitbescheid nach § 25 Absatz 2 Satz 1 festgesetzten Schornsteinfegerarbeiten durchführen zu lassen, nicht oder nicht fristgemäß erfüllt, hat die zuständige Behörde unverzüglich die Vornahme der Handlungen im Wege der Ersatzvornahme zu beauftragen. Sie soll hiermit den zuständigen bevollmächtigten Bezirksschornsteinfeger beauftragen, ansonsten einen anderen bevollmächtigten Bezirksschornsteinfeger aus ihrem Zuständigkeitsbereich.
 
 (2) Die zuständige Behörde kann für die Ausführung der Ersatzvornahme von dem betroffenen Eigentümer Gebühren und Auslagen erheben. Sie kann bestimmen, dass der Eigentümer die voraussichtlichen Kosten der Ersatzvornahme im Voraus zu zahlen hat. Werden die voraussichtlich entstehenden Kosten der Ersatzvornahme nicht fristgerecht gezahlt, so können sie im Verwaltungszwangsverfahren beigetrieben werden.
+
+(+++ Teil 1 Kap. 3 u. 4 (§§ 13 bis 26): Zur Anwendung vgl. § 11 Abs. 4 Satz 2 +++)
 
 # § 27 – Schließung der Zusatzversorgung
 
@@ -577,9 +646,7 @@ Im Übrigen ist § 37 Absatz 6 entsprechend anzuwenden.
 
 (6) Der Anspruch der ausgleichsberechtigten Person endet mit Ablauf des Monats, in dem sie verstorben ist. Für Hinterbliebene gelten die §§ 39 und 40 entsprechend.
 
-# § 42 – Übergangsregelungen für Bezirksschornsteinfegermeister
-
-Bestellungen zum Bezirksschornsteinfegermeister wandeln sich unbeschadet der §§ 8 bis 11 des Schornsteinfegergesetzes mit Ablauf des 31. Dezember 2012 in Bestellungen zum bevollmächtigten Bezirksschornsteinfeger für ihren bisherigen Bezirk um. Ist die Bestellung vor dem Inkrafttreten dieses Gesetzes erfolgt, ist sie bis zum 31. Dezember 2014 befristet. Erfolgt die Bestellung im Zeitraum vom Inkrafttreten dieses Gesetzes bis zum 31. Dezember 2009, ist sie auf sieben Jahre befristet.
+# § 42 – (weggefallen)
 
 # § 43 – Ruhegeld wegen Versetzung in den Ruhestand
 

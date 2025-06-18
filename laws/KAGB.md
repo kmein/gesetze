@@ -1631,6 +1631,8 @@ erfüllt hat. § 29 Absatz 3 des Kreditwesengesetzes ist mit der Maßgabe entspr
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über den Zeitpunkt der Prüfung, den Gegenstand der Prüfung nach den Absätzen 3 und 4, weitere Inhalte, Umfang und Darstellungen des Prüfungsberichts sowie zur Art und Weise seiner Einreichung bei der Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit der externen Kapitalverwaltungsgesellschaft zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
+(+++ § 38 Abs. 3 Satz 2 Nr. 9: Zur erstmaligen Anwendung vgl. § 365 +++)
+
 # § 39 – Erlöschen und Aufhebung der Erlaubnis
 
 (1) Die Erlaubnis erlischt, wenn die Kapitalverwaltungsgesellschaft
@@ -3494,7 +3496,8 @@ beachtet worden sind. Bei der Prüfung hat er insbesondere festzustellen, ob die
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über den Gegenstand der Prüfung nach Absatz 3 und über weitere Inhalte, Umfang und Darstellungen des Prüfungsberichts des Abschlussprüfers sowie zur Art und Weise der Einreichung des Prüfungsberichts des Abschlussprüfers bei der Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere, um einheitliche Unterlagen zur Beurteilung der Tätigkeit der Investmentaktiengesellschaften mit veränderlichem Kapital zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-(+++ § 121: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 122 Abs. 2 u. § 148 Abs. 1 +++)
+(+++ § 121: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 122 Abs. 2 u. § 148 Abs. 1 +++)  
+(+++ § 121 Abs. 3 Satz 1 Nr. 2 Buchst. h: Zur erstmaligen Anwendung vgl. § 365 +++)
 
 # § 122 – Halbjahres- und Liquidationsbericht
 
@@ -3705,7 +3708,7 @@ Eine intern verwaltete offene Investmentkommanditgesellschaft hat der Bundesanst
 
 7. den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 sowie
 
-8. den Artikeln 5 bis 14, 17 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit einer Delegierten Verordnung nach den Artikeln 15, 20, 28 oder Artikel 30 der Verordnung (EU) 2022/2554.
+8. den Artikeln 5 bis 14, 17 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit einer Delegierten Verordnung nach den Artikeln 15, 20, 28 oder Artikel 30 der Verordnung (EU) 2022/2554
 
 erfüllt hat und ihren Verpflichtungen nach dem Geldwäschegesetz nachgekommen ist. Das Ergebnis dieser Prüfung hat der Abschlussprüfer im Prüfungsbericht gesondert wiederzugeben. Der Bericht über die Prüfung der offenen Investmentkommanditgesellschaft ist der Bundesanstalt auf Verlangen vom Abschlussprüfer einzureichen. § 29 Absatz 3 des Kreditwesengesetzes ist mit der Maßgabe entsprechend anzuwenden, dass die dort geregelten Pflichten gegenüber der Deutschen Bundesbank nicht gelten. Die Bundesanstalt kann die Prüfung nach Satz 1 und 2 ohne besonderen Anlass anstelle des Prüfers selbst oder durch Beauftragte durchführen. Die offene Investmentkommanditgesellschaft ist hierüber rechtzeitig zu informieren.
 
@@ -3713,7 +3716,8 @@ erfüllt hat und ihren Verpflichtungen nach dem Geldwäschegesetz nachgekommen i
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über den Gegenstand der Prüfung nach den Absätzen 2 und 3 und über weitere Inhalte, Umfang und Darstellungen des Prüfungsberichts des Abschlussprüfers sowie zur Art und Weise der Einreichung des Prüfungsberichts bei der Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere, um einheitliche Unterlagen zur Beurteilung der Tätigkeit der offenen Investmentkommanditgesellschaft zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-(+++ § 136: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 159 +++)
+(+++ § 136: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 159 +++)  
+(+++ § 136 Abs. 3 Satz 2 Nr. 8: Zur erstmaligen Anwendung vgl. § 365 +++)
 
 # § 137 – Vorlage von Berichten
 

@@ -33,7 +33,7 @@
 
 # § 4 – Nicht volle Erwerbstätigkeit
 
-Während der Elternzeit darf die Soldatin oder der Soldat mit Zustimmung des Bundesministeriums der Verteidigung oder der von ihm beauftragten Stelle eine Teilzeitbeschäftigung außerhalb des Soldatenverhältnisses ausüben, wenn die Teilzeitbeschäftigung den Umfang von 30 Stunden in der Woche nicht überschreitet.
+Während der Elternzeit darf die Soldatin oder der Soldat mit Zustimmung des Bundesministeriums der Verteidigung oder der von ihm beauftragten Stelle eine Teilzeitbeschäftigung außerhalb des Soldatenverhältnisses ausüben, wenn die Teilzeitbeschäftigung den Umfang von 32 Stunden in der Woche nicht überschreitet.
 
 # § 5 – (weggefallen)
 

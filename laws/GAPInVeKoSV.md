@@ -103,7 +103,7 @@ Anstrich 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe
 
 Diese Verordnung dient der Durchführung
 
-1. der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013 (ABl. L 435 vom 6.12.2021, S. 187; L 29 vom 10.2.2021, S. 45) in der jeweils geltenden Fassung sowie der zu ihrer Durchführung erlassenen Rechtsakte hinsichtlich des Integrierten Verwaltungs- und Kontrollsystems, soweit es nicht anzuwenden ist auf die Interventionskategorien nach Titel III Kapitel IV der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1; L 181 vom 7.7.2022, S. 35; L 227 vom 1.9.2022, S. 137), in der jeweils geltenden Fassung,
+1. der Verordnung (EU) 2021/2116 sowie der zu ihrer Durchführung erlassenen Rechtsakte hinsichtlich des Integrierten Verwaltungs- und Kontrollsystems, soweit es nicht anzuwenden ist auf die Interventionskategorien nach Titel III Kapitel IV der Verordnung (EU) 2021/2115
 
 2. der Verordnung (EU) 2021/2115 und der im Rahmen dieses Rechtsakts und zu seiner Durchführung erlassenen Rechtsakte hinsichtlich der Beihilfezahlungen an anerkannte Erzeugerorganisationen im Hopfensektor,
 
@@ -123,6 +123,8 @@ e) alle gekoppelten Einkommensstützungen,
 
 5. des GAP-Konditionalitäten-Gesetzes und der zu seiner Durchführung erlassenen Rechtsverordnung.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
+
 # § 2 – Zuständigkeit
 
 (1) Soweit in dieser Verordnung oder den in § 1 Nummer 4 und 5 genannten Vorschriften nichts anderes bestimmt ist, sind für die Durchführung dieser Verordnung und der in § 1 genannten Vorschriften die nach Landesrecht zuständigen Behörden des Landes (zuständige Behörde) örtlich zuständig, in dem der Betriebsinhaber seinen Betriebssitz hat.
@@ -137,11 +139,13 @@ e) alle gekoppelten Einkommensstützungen,
 
 1. die Kontrolle des Gehalts an Tetrahydrocannabinol des Hanfs im Rahmen der in § 1 Nummer 4 bezeichneten Direktzahlungen,
 
-2. die in Artikel 3 Absatz 4 der Delegierten Verordnung (EU) 2022/126 der Kommission vom 7. Dezember 2021 zur Ergänzung der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates um zusätzliche Anforderungen für bestimmte, von den Mitgliedstaaten in ihren GAP-Strategieplänen für den Zeitraum 2023 bis 2027 gemäß der genannten Verordnung festgelegte Interventionskategorien sowie um Vorschriften über den Anteil für den Standard für den guten landwirtschaftlichen und ökologischen Zustand (GLÖZ-Standard) Nr. 1 (ABl. L 20 vom 31.1.2022, S. 52), in der jeweils geltenden Fassung, vorgesehene Mitteilung an die Europäische Kommission,
+2. die in Artikel 3 Absatz 4 der Delegierten Verordnung (EU) 2022/126 vorgesehene Mitteilung an die Europäische Kommission,
 
 3. die Bekanntmachung der Hanfsorten, deren Anbau dazu führt, dass für eine Fläche, auf der sie angebaut werden, Direktzahlungen gewährt werden dürfen oder nicht gewährt werden dürfen,
 
 4. die in § 1 Nummer 2 genannten Beihilfezahlungen an anerkannte Erzeugerorganisationen im Hopfensektor.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 3 – Landwirtschaftliche Parzelle
 
@@ -149,7 +153,7 @@ e) alle gekoppelten Einkommensstützungen,
 
 (2) Abweichend von Absatz 1 bilden Flächen, die aus begrünten Randstreifen nach § 5 Absatz 3 oder nach § 6 Absatz 4 der GAP-Direktzahlungen-Verordnung, aus Pufferstreifen an Gewässerrändern, aus Brachflächen und Brachstreifen, aus Blühflächen und Blühstreifen, aus Gehölzstreifen nach § 4 Absatz 2 Nummer 1 der GAP-Direktzahlungen-Verordnung, aus Altgrasstreifen oder -flächen nach § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes, aus Landschaftselementen nach § 11 Absatz 1 Nummer 2 der GAP-Direktzahlungen-Verordnung oder aus Bejagungsschneisen bestehen, auch bei Angabe unterschiedlicher Nutzungscodes, zusammen mit dem angrenzenden Schlag desselben Betriebsinhabers jeweils eine landwirtschaftliche Parzelle.
 
-(3) Die Mindestgröße einer landwirtschaftlichen Parzelle, für die ein Antrag auf Direktzahlungen gestellt werden kann, beträgt 0,3 Hektar. Abweichend von Satz 1 und unbeschadet des Absatzes 2 gilt für nichtproduktive Flächen zur Erfüllung der Verpflichtung nach § 11 des GAP-Konditionalitäten-Gesetzes in Verbindung mit § 19 der GAP-Konditionalitäten-Verordnung und bei Anwendung der Öko-Regelung nach § 20 Absatz 1 Nummer 1 Buchstabe a, b und d des GAP-Direktzahlungen-Gesetzes eine Mindestgröße von 0,1 Hektar. Abweichend von Satz 1 können die Landesregierungen durch Rechtsverordnung nach § 17 Absatz 1 Satz 2 Nummer 1 in Verbindung mit Absatz 3 Satz 1 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes und nach § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 5 Satz 1 des Marktorganisationsgesetzes in Verbindung mit den §§ 2 und 20 Absatz 2 des GAP-Direktzahlungen-Gesetzes eine geringere Mindestgröße festlegen.
+(3) Die Mindestgröße einer landwirtschaftlichen Parzelle, für die ein Antrag auf Direktzahlungen gestellt werden kann, beträgt 0,1 Hektar. Abweichend von Satz 1 können die Landesregierungen durch Rechtsverordnung nach § 17 Absatz 1 Satz 2 Nummer 1 in Verbindung mit Absatz 3 Satz 1 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes und nach § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 5 Satz 1 des Marktorganisationsgesetzes in Verbindung mit den §§ 2 und 20 Absatz 2 des GAP-Direktzahlungen-Gesetzes eine geringere Mindestgröße festlegen.
 
 (4) Abweichend von Absatz 1 können die Landesregierungen durch Rechtsverordnung nach § 17 Absatz 1 Satz 2 Nummer 1 in Verbindung mit Absatz 3 Satz 1 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes und nach § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 5 Satz 1 des Marktorganisationsgesetzes durch Rechtsverordnung bestimmen, dass landwirtschaftliche Flächen oder Flächen nach § 11 Absatz 1 Nummer 3 der GAP-Direktzahlungen-Verordnung, deren Nutzungen nicht getrennt angegeben werden müssen, als eine landwirtschaftliche Parzelle gelten.
 
@@ -169,7 +173,7 @@ Sofern ein Betrieb nach dem Einreichen des Sammelantrags und vor Erfüllung alle
 
 4. ein Flurstück als eine im Kataster abgegrenzte Fläche.
 
-5. Ackerland, Dauergrünland und Dauerkulturflächen sind als Hauptbodennutzungen geografisch getrennt zu erfassen durch Bildung gesonderter Polygone innerhalb der bestehenden Referenzparzellen oder durch Bildung gesonderter Referenzparzellen. Gesonderte Referenzparzellen sind auch zu bilden für förderfähige Flächen im Sinne des § 11 Absatz 1 Nummer 3 der GAP-Direktzahlungen-Verordnung.
+Ackerland, Dauergrünland und Dauerkulturflächen sind als Hauptbodennutzungen geografisch getrennt zu erfassen durch Bildung gesonderter Polygone innerhalb der bestehenden Referenzparzellen oder durch Bildung gesonderter Referenzparzellen. Gesonderte Referenzparzellen sind auch zu bilden für förderfähige Flächen im Sinne des § 11 Absatz 1 Nummer 3 der GAP-Direktzahlungen-Verordnung.
 
 (2) Zur Kennzeichnung der Referenzparzellen durch die zuständige Behörde ist der in der Anlage bezeichnete Flächenidentifikator zu verwenden.
 
@@ -177,7 +181,7 @@ Sofern ein Betrieb nach dem Einreichen des Sammelantrags und vor Erfüllung alle
 
 (4) Unter Berücksichtigung von Umriss und Zustand einer Referenzparzelle kann von einer Aktualisierung der förderfähigen Höchstfläche abgesehen werden, sofern die Differenz zwischen der verzeichneten förderfähigen Höchstfläche und der neu ermittelten förderfähigen Höchstfläche weniger als zwei Prozent der förderfähigen Höchstfläche beträgt.
 
-(5) Sofern eine landwirtschaftliche Parzelle erstmalig in das System zur Identifizierung landwirtschaftlicher Parzellen aufgenommen werden soll und erstmalig beantragt wird oder nach drei Jahren Unterbrechung erneut beantragt wird, hat der betreffende Betriebsinhaber mit dem Sammelantrag seine Verfügungsberechtigung nachzuweisen, insbesondere durch Nachweise über Eigentum, Tausch oder Pacht. Ausgenommen hiervon sind landwirtschaftliche Parzellen, die lediglich im Rahmen von Maßnahmen nach dem Flurbereinigungsgesetz neu zugeteilt wurden.
+(5) Sofern eine landwirtschaftliche Parzelle erstmalig in das System zur Identifizierung landwirtschaftlicher Parzellen aufgenommen werden soll und erstmalig beantragt wird oder nach drei Jahren Unterbrechung erneut beantragt wird, hat der betreffende Betriebsinhaber seine Verfügungsberechtigung nachzuweisen, insbesondere durch Nachweise über Eigentum, Tausch oder Pacht. Ausgenommen hiervon sind landwirtschaftliche Parzellen, die lediglich im Rahmen von Maßnahmen nach dem Flurbereinigungsgesetz neu zugeteilt wurden.
 
 (6) Für die Berechnung des in § 11 Absatz 1 Nummer 2 Buchstabe b der GAP-Direktzahlungen-Verordnung genannten Wertes von 25 Prozent ist für einen Baum eine Fläche von 10 Quadratmetern zugrunde zu legen.
 
@@ -189,7 +193,9 @@ Das Flächenüberwachungssystem ist bei allen Direktzahlungen nach § 1 Nummer 4
 
 (1) Der Betriebsinhaber hat im Sammelantrag anzugeben, welche Direktzahlungen er beantragt. Der Betriebsinhaber hat hierzu die in den nachfolgenden Vorschriften festgelegten Angaben zu machen.
 
-(2) Die zuständige Behörde kann weitere Angaben fordern, soweit dies zur Überprüfung der Antragsangaben erforderlich ist.
+(2) Der Sammelantrag soll die für die Prüfung der Förderfähigkeit oder der Konditionalität gegebenenfalls erforderlichen Nachweise oder Belege enthalten. Abweichend von Satz 1 kann die zuständige Behörde in geeigneten Fällen für die Vorlage eines oder mehrerer Nachweise oder Belege einen späteren Termin bestimmen.
+
+(3) Die zuständige Behörde kann weitere Angaben fordern, soweit dies zur Überprüfung der Antragsangaben erforderlich ist.
 
 # § 8 – Geodatenbasiertes und tierbezogenes Antragssystem
 
@@ -249,11 +255,13 @@ Der Betriebsinhaber hat im Sammelantrag anzugeben:
 
 1. bei Angabe eines Falls nach § 8 Nummer 1 bis 3 der GAP-Direktzahlungen-Verordnung den jeweiligen Träger der Unfallversicherung und seine Unternehmernummer,
 
-2. bei Angabe eines Falls nach § 8 Nummer 4 der GAP-Direktzahlungen-Verordnung denjenigen Staat, dessen in Artikel 3 Absatz 1 der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit (ABl. L 166 vom 30.4.2004, S. 1; L 200 vom 7.6.2004, S. 1), in der jeweils geltenden Fassung, genannten Rechtsvorschriften er unterliegt,
+2. bei Angabe eines Falls nach § 8 Nummer 4 der GAP-Direktzahlungen-Verordnung denjenigen Staat, dessen in Artikel 3 Absatz 1 der Verordnung (EG) Nr. 883/2004 genannten Rechtsvorschriften er unterliegt,
 
 3. bei Angabe eines Falls nach § 8 Nummer 5 der GAP-Direktzahlungen-Verordnung eine Erklärung, dass er aufgrund seines Antrags für das Jahr vor dem Jahr der Antragstellung vor Anwendung von Sanktionen keinen Anspruch auf Direktzahlungen von über 5 000 Euro hatte.
 
-In den Fällen nach § 8 Nummer 1 bis 5 und Nummer 7 der GAP-Direktzahlungen-Verordnung ist dem Antrag ein geeigneter Nachweis über das Vorliegen des jeweiligen Falls beizufügen, sofern dieser Nachweis der zuständigen Behörde nicht bereits vorliegt. Soweit dem Sammelantrag der Nachweis nach Satz 2 nicht beigefügt worden ist und dieser der zuständigen Behörde nicht bereits vorliegt, kann der Antragsteller diesen bis spätestens zu dem in § 22 Absatz 1 genannten Termin nachreichen. Ein geeigneter Nachweis ist in den Fällen nach § 8 Nummer 1 bis 3 der GAP-Direktzahlungen-Verordnung der Beleg über die Beitragszahlung oder, soweit dieser noch nicht vorliegt, ein Beleg über den Beginn der Zuständigkeit der jeweiligen Unfallversicherung.
+In den Fällen nach § 8 Nummer 1 bis 5 und Nummer 7 der GAP-Direktzahlungen-Verordnung ist ein geeigneter Nachweis über das Vorliegen des jeweiligen Falls zum Zeitpunkt der Antragstellung vorzulegen, sofern dieser Nachweis der zuständigen Behörde nicht bereits vorliegt. Ein geeigneter Nachweis ist in den Fällen nach § 8 Nummer 1 bis 3 der GAP-Direktzahlungen-Verordnung der Beleg über die Beitragszahlung oder, soweit dieser noch nicht vorliegt, ein Beleg über den Beginn der Zuständigkeit der jeweiligen Unfallversicherung.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 11 – Flächenbezogene Angaben
 
@@ -277,9 +285,9 @@ Er hat dabei besonders zu bezeichnen:
 
 6. Flächen, für die ein Antrag auf Einkommensgrundstützung gestellt wird,
 
-7. landwirtschaftliche Flächen mit ökologischem Landbau nach der Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S. 1; L 270 vom 29.10.2018, S. 37; L 305 vom 26.11.2019, S. 59; L 37 vom 10.2.2020, S. 26; L 324 vom 6.10.2020, S. 65; L 7 vom 11.1.2021, S. 53; L 204 vom 10.6.2021, S. 47; L 318 vom 9.9.2021, S. 5), in der jeweils geltenden Fassung,
+7. landwirtschaftliche Flächen mit ökologischem Landbau nach der Verordnung (EU) 2018/848
 
-8. landwirtschaftliche Flächen mit Agri-Photovoltaik-Anlagen im Sinne des § 12 Absatz 5 Satz 1 der GAP-Direktzahlungen-Verordnung,
+8. landwirtschaftliche Flächen mit Agri-Photovoltaik-Anlagen im Sinne des § 12 Absatz 5 der GAP-Direktzahlungen-Verordnung,
 
 9. mit anderen Betriebsinhabern gemeinsam genutzte Flächen unter Angabe seines Anteils an der Nutzung,
 
@@ -303,29 +311,29 @@ Ausgenommen von der Pflicht zur Angabe nach Absatz 2 ist ferner
 
 1. die Nutzung landwirtschaftlicher Flächen zur Lagerung von Erzeugnissen aus der landwirtschaftlichen Tätigkeit des Betriebsinhabers oder von Betriebsmitteln für die landwirtschaftliche Tätigkeit des Betriebsinhabers, sofern die Erzeugnisse oder Betriebsmittel nicht länger als 90 aufeinanderfolgende Tage im Kalenderjahr gelagert werden,
 
-2. die Nutzung landwirtschaftlicher Flächen im Rahmen von Pflegearbeiten an angrenzenden Gehölzen oder Gewässern einschließlich der Lagerung des dabei anfallenden Schnittgutes oder des Aushubs für nicht länger als 90 Tage.
+2. die Nutzung landwirtschaftlicher Flächen im Rahmen von Pflegearbeiten an angrenzenden Gehölzen oder Gewässern einschließlich der Lagerung des dabei anfallenden Schnittgutes oder des Aushubs für nicht länger als 90 aufeinanderfolgende Tage.
 
-(4) Im Falle der Nutzung einer landwirtschaftlichen Fläche, für die ein Antrag auf Direktzahlungen gestellt wird, mit einer Anlage zur Nutzung solarer Strahlungsenergie, ist dem Antrag ein geeigneter Nachweis beizufügen, sofern geltend gemacht wird, dass es sich bei dieser Anlage um eine Agri-Photovoltaik-Anlage nach § 12 Absatz 5 Satz 1 der GAP-Direktzahlungen-Verordnung handelt. Von dem Nachweis nach Satz 3 ist abzusehen, sofern ein weiterhin zutreffender Nachweis bereits einem Antrag in einem früheren Jahr beigefügt worden ist.
+(4) Im Falle der Nutzung einer landwirtschaftlichen Fläche, für die ein Antrag auf Direktzahlungen gestellt wird, mit einer Anlage zur Nutzung solarer Strahlungsenergie, ist ein geeigneter Nachweis vorzulegen, sofern geltend gemacht wird, dass es sich bei dieser Anlage um eine Agri-Photovoltaik-Anlage nach § 12 Absatz 5 der GAP-Direktzahlungen-Verordnung handelt. Von dem Nachweis nach Satz 1 ist abzusehen, sofern ein weiterhin zutreffender Nachweis bereits früher vorgelegt wurde.
 
 (5) Sofern Landschaftselemente, die nach § 11 Absatz 1 Nummer 2 der GAP-Direktzahlungen-Verordnung zur förderfähigen Fläche gehören und über die ein Betriebsinhaber verfügt, oder Teile dieser Landschaftselemente sowohl an eine Dauergrünlandfläche oder Dauerkulturfläche, als auch an eine Ackerfläche desselben Betriebsinhabers angrenzen, hat der Betriebsinhaber bei der Angabe im Sammelantrag diese Landschaftselemente oder Teile der Landschaftselemente der Dauergrünlandfläche, der Dauerkulturfläche oder der Ackerfläche zuzuordnen. Satz 1 gilt entsprechend für Landschaftselemente, die zwischen Dauerkulturflächen und Dauergrünland liegen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
+
 # § 12 – Besondere Angaben zu Agroforstsystemen
 
-(1) Sofern der Betriebsinhaber im Sammelantrag eine landwirtschaftliche Fläche mit einem Agroforstsystem im Sinne des § 4 Absatz 2 und 3 der GAP-Direktzahlungen-Verordnung angibt, hat er zusätzlich schlagbezogen
+Sofern der Betriebsinhaber im Sammelantrag eine landwirtschaftliche Fläche mit einem Agroforstsystem im Sinne des § 4 Absatz 2 und 3 der GAP-Direktzahlungen-Verordnung angibt, hat er zusätzlich schlagbezogen
 
-1. anzugeben, ob er Arten von in Anlage 1 der GAP-Direktzahlungen-Verordnung genannten Gehölzpflanzen angepflanzt hat und, wenn dies der Fall ist, das Jahr der Anlage des Agroforstsystems anzugeben und
+1. anzugeben, ob er Arten von in Anlage 1 der GAP-Direktzahlungen-Verordnung genannten Gehölzpflanzen angepflanzt hat und, sofern dies der Fall ist, das Jahr der Anlage des Agroforstsystems zu benennen und
 
-2. beizufügen:
+2. anzugeben, ob der Anbau der Gehölzpflanzen verstreut über die jeweilige Fläche erfolgt und, sofern dies der Fall ist, zu bestätigen, dass die Anzahl der Gehölzpflanzen je Hektar der landwirtschaftlichen Fläche mindestens 50 und höchstens 200 beträgt,
 
-a) beim Anbau der Gehölzpflanzen verstreut über die jeweilige Fläche eine Erklärung, dass die Anzahl der Gehölzpflanzen je Hektar der landwirtschaftlichen Fläche mindestens 50 und höchstens 200 beträgt,
+3. anzugeben, ob der Anbau der Gehölzpflanzen in Streifen erfolgt und, sofern dies der Fall ist, die Anzahl und Lage der Streifen, sowie zu bestätigen, dass der Anteil der Fläche der Streifen an der landwirtschaftlichen Fläche nicht über 40 Prozent liegt, und
 
-b) beim Anbau der Gehölzpflanzen in Streifen die Anzahl und Lage der Streifen sowie eine Erklärung, dass der Anteil der Fläche der Streifen an der landwirtschaftlichen Fläche nicht über 40 Prozent liegt,
+4. Erläuterungen dazu zu machen, dass die Gehölzpflanzen mit dem vorrangigen Ziel der Rohstoffgewinnung oder Nahrungsmittelproduktion angebaut werden,
 
-c) eine Erklärung, dass diese Angaben keine Gehölzflächen betreffen, die am 31. Dezember 2022 einem Beseitigungsverbot nach den in § 4 Absatz 3 der GAP-Direktzahlungen-Verordnung genannten Verordnungen unterlagen.
+5. zu erklären, dass die Angaben nach den Nummern 2 und 3 keine Gehölzflächen betreffen, die am 31. Dezember 2022 einem Beseitigungsverbot nach den in § 4 Absatz 3 der GAP-Direktzahlungen-Verordnung genannten Verordnungen unterlagen.
 
-(2) Der Betriebsinhaber hat im ersten Jahr, in dem er eine landwirtschaftliche Fläche mit einem Agroforstsystem angibt, dem Sammelantrag ein positiv geprüftes Nutzungskonzept nach § 4 Absatz 2 der GAP-Direktzahlungen-Verordnung beizufügen, sofern das Nutzungskonzept der zuständigen Behörde nicht bereits vorliegt.
-
-(3) Zusätzlich hat der Betriebsinhaber der zuständigen Behörde im Sammelantrag erfolgte Änderungen gegenüber dem positiv geprüften Nutzungskonzept im Hinblick auf die Arten der angebauten Gehölze, beim streifenförmigen Anbau im Hinblick auf die Anzahl von Streifen sowie den Anteil der Fläche der Streifen an der landwirtschaftlichen Fläche und beim Anbau verstreut über die Fläche hinsichtlich der Anzahl der Gehölzpflanzen je Hektar der landwirtschaftlichen Fläche mitzuteilen.
+Im Jahr 2025 können die Angaben nach Satz 1 Nummer 2 bis 5 auch beigefügt werden.
 
 # § 13 – Besondere Angaben bei einem Antrag auf Zahlungen für Öko-Regelungen
 
@@ -365,7 +373,7 @@ j) § 20 Absatz 1 Nummer 7 des GAP-Direktzahlungen-Gesetzes: Flächen nach Lage 
 
 1. die Anzahl der Mutterschafe und -ziegen, für die diese Zahlung beantragt wird,
 
-2. die Identifikation der Mutterschafe und -ziegen, für die diese Zahlung beantragt wird, und eine Erklärung, dass diese Tiere am 1. Januar des Antragsjahres mindestens 10 Monate alt waren,
+2. die Identifikation der Mutterschafe und -ziegen, für die diese Zahlung beantragt wird,
 
 3. den Aufenthaltsort der Tiere, für die diese Zahlung beantragt wird, insbesondere sofern sich diese in einem anderen Land als dem der Stellung des Sammelantrags befinden,
 
@@ -385,8 +393,6 @@ j) § 20 Absatz 1 Nummer 7 des GAP-Direktzahlungen-Gesetzes: Flächen nach Lage 
 
 2. das Etikett nach § 9 der Erhaltungssortenverordnung, sofern es sich um eine Erhaltungssorte handelt.
 
-Im Antragsjahr 2024 können die in Satz 1 geforderten Etiketten auch in physischer Form eingereicht werden.
-
 (2) Bei einer Aussaat des Hanfs nach dem 30. Juni des Antragsjahres ist das Etikett des Saatguts nach Absatz 1 bis spätestens zum 1. September des Antragsjahres einzureichen.
 
 (3) Bezieht sich das nach Absatz 1 oder 2 einzureichende Etikett auf Saatgut, das von mehreren Betriebsinhabern verwendet wurde, so
@@ -405,7 +411,7 @@ Sofern der Betriebsinhaber Hopfenerzeuger ist, hat er im Sammelantrag zusätzlic
 
 # § 17 – Besondere Angaben bei Niederwald mit Kurzumtrieb
 
-Sofern der Betriebsinhaber Flächen mit Niederwald mit Kurzumtrieb im Sinne des § 6 Absatz 3 der GAP-Direktzahlungen-Verordnung im Sammelantrag angibt, hat er zusätzlich anzugeben:
+Sofern der Betriebsinhaber Flächen mit Niederwald mit Kurzumtrieb im Sinne des § 6 Absatz 3 der GAP-Direktzahlungen-Verordnung im Sammelantrag angibt, hat er zusätzlich anzugeben
 
 1. das Jahr der Anlage des Niederwalds mit Kurzumtrieb,
 
@@ -413,51 +419,67 @@ Sofern der Betriebsinhaber Flächen mit Niederwald mit Kurzumtrieb im Sinne des 
 
 3. die Arten der angebauten Gehölzpflanzen.
 
+Satz 1 findet keine Anwendung, soweit der Antragsteller diese Angaben in einem nach dem 1. Januar 2023 eingereichten Sammelantrag bereits gemacht hat und diese weiterhin zutreffen.
+
 # § 18 – Erklärung bei Beantragung der Umverteilungseinkommensstützung
 
 Sofern der Betriebsinhaber die Umverteilungseinkommensstützung beantragt, hat er im Sammelantrag für den Fall, dass er seinen Betrieb nach dem 1. Juni 2018 aufgespalten hat oder sein Betrieb aus einer solchen Aufspaltung hervorgegangen ist, zusätzlich zu erklären, dass diese Aufspaltung nicht einzig den Zweck verfolgt, die Umverteilungseinkommensstützung zu erhalten.
 
 # § 19 – Angaben bei einem Antrag auf Junglandwirte-Einkommensstützung außer im Fall des § 16 Absatz 4 Satz 1 des GAP-Direktzahlungen-Gesetzes
 
-(1) Sofern der Betriebsinhaber eine natürliche Person ist und kein Fall des § 16 Absatz 4 Satz 1 des GAP-Direktzahlungen-Gesetzes vorliegt, hat er bei erstmaliger Beantragung der Junglandwirte-Einkommensstützung im Sammelantrag
+(1) Sofern der Betriebsinhaber eine natürliche Person ist und kein Fall des § 16 Absatz 4 Satz 1 des GAP-Direktzahlungen-Gesetzes vorliegt, hat er bei erstmaliger Beantragung der Junglandwirte-Einkommensstützung
 
-1. zu erklären, dass er
+1. im Sammelantrag zu erklären, dass er
 
-a) keine Unterstützung nach Artikel 50 der Verordnung (EU) Nr.1307/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit Vorschriften über Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EG) 637/2008 des Rates und der Verordnung (EG) 73/2009 des Rates (ABl. L 347 vom 20.12.2013, S. 608; L 130 vom 19.5.2016, S. 14), in der jeweils geltenden Fassung, erhalten hat,
+a) für keines der Jahre, für die die Verordnung (EU) Nr. 1307/2013 angewendet worden ist, Unterstützung nach deren Artikel 50 erhalten hat,
 
 b) nicht als natürliche Person für einen anderen Betriebsinhaber für die Gewährung der Junglandwirte-Einkommensstützung berücksichtigt wird oder in früheren Jahren worden ist,
 
-2. den Zeitpunkt anzugeben, zu dem er sich erstmals in einem landwirtschaftlichen Betrieb als Betriebsleiter niedergelassen hat,
+2. im Sammelantrag den Zeitpunkt anzugeben, zu dem er sich erstmals in einem landwirtschaftlichen Betrieb als Betriebsleiter niedergelassen hat,
 
-3. die nach § 9 der GAP-Direktzahlungen-Verordnung erforderliche Ausbildung oder Qualifikation nachzuweisen, insbesondere durch Vorlage von Abschlusszeugnissen, Teilnahmebescheinigungen, Arbeitsverträgen, Gesellschaftsverträgen oder Belegen über die krankenversicherungspflichtige Tätigkeit als mithelfender Familienangehöriger.
+3. im Sammelantrag anzugeben, welche nach § 9 der GAP-Direktzahlungen-Verordnung erforderliche Ausbildung oder Qualifikation vorliegt,
 
-(2) Sofern der Betriebsinhaber keine natürliche Person ist, hat er bei Beantragung der Junglandwirte-Einkommensstützung im Sammelantrag
+4. das Vorliegen der nach § 9 der GAP-Direktzahlungen-Verordnung erforderlichen Ausbildung oder Qualifikation zum Zeitpunkt der Antragstellung nachzuweisen, insbesondere durch Vorlage von Abschlusszeugnissen, Teilnahmebescheinigungen, Arbeitsverträgen, Gesellschaftsverträgen oder Belegen über die krankenversicherungspflichtige Tätigkeit als mithelfender Familienangehöriger.
 
-1. zu erklären, dass er keine Unterstützung nach Artikel 50 der Verordnung (EU) Nr.1307/2013 erhalten hat,
+(2) Sofern der Betriebsinhaber keine natürliche Person ist, hat er bei der Beantragung der Junglandwirte-Einkommensstützung
 
-2. zu erklären, dass er seit der Gründung seines Betriebes erstmalig von einer oder mehreren natürlichen Personen kontrolliert wird, die die Voraussetzungen des § 12 Absatz 2 des GAP-Direktzahlungen-Gesetzes und des § 9 der GAP-Direktzahlungen-Verordnung erfüllen, und dafür geeignete Nachweise vorzulegen,
+1. im Sammelantrag zu erklären, dass er für keines der Jahre, für die die Verordnung (EU) Nr. 1307/2013 angewendet worden ist, Unterstützung nach deren Artikel 50 erhalten hat,
 
-3. für jede natürliche Person, für die die Voraussetzungen des § 12 Absatz 2 des GAP-Direktzahlungen-Gesetzes und des § 9 der GAP-Direktzahlungen-Verordnung vorliegen,
+2. im Sammelantrag zu erklären, dass er seit der Gründung seines Betriebes erstmalig von einer oder mehreren natürlichen Personen kontrolliert wird, die zum Zeitpunkt der Antragstellung die Voraussetzungen des § 12 Absatz 2 des GAP-Direktzahlungen-Gesetzes und des § 9 der GAP-Direktzahlungen-Verordnung erfüllen,
+
+3. im Sammelantrag für jede natürliche Person, für die die Voraussetzungen des § 12 Absatz 2 des GAP-Direktzahlungen-Gesetzes und des § 9 der GAP-Direktzahlungen-Verordnung vorliegen,
 
 a) den Namen, das Geburtsdatum und den Zeitpunkt anzugeben, zu dem die Person die Kontrolle im Sinne des § 12 Absatz 2 Satz 1 des GAP-Direktzahlungen-Gesetzes übernommen hat,
 
 b) zu erklären, dass die natürliche Person sich nicht zuvor in einem landwirtschaftlichen Betrieb als Betriebsleiter niedergelassen hat und nicht zuvor einen Betriebsinhaber in einer anderen Rechtsform als der einer natürlichen Person kontrolliert hat,
 
-c) die nach § 9 der GAP-Direktzahlungen-Verordnung erforderliche Ausbildung oder Qualifikation nachzuweisen, insbesondere durch Vorlage von Abschlusszeugnissen, Teilnahmebescheinigungen, Arbeitsverträgen, Gesellschaftsverträgen oder Belegen über die krankenversicherungspflichtige Tätigkeit als mithelfender Familienangehöriger,
+c) anzugeben, welche nach § 9 der GAP-Direktzahlungen-Verordnung erforderliche Ausbildung oder Qualifikation vorliegt,
 
-d) zu erklären, dass diese nicht als natürliche Person für einen anderen Betriebsinhaber für die Gewährung der Junglandwirte-Einkommensstützung berücksichtigt wird oder in früheren Jahren berücksichtigt worden ist, und
+d) zu erklären, dass diese nicht als natürliche Person für einen anderen Betriebsinhaber für die Gewährung der Junglandwirte-Einkommensstützung berücksichtigt wird oder in früheren Jahren berücksichtigt worden ist,
 
-4. die rechtlichen und tatsächlichen Verhältnisse darzulegen, aus denen sich ergibt, dass die Voraussetzungen für die Gewährung der Junglandwirte-Einkommensstützung vorliegen, und diese nachzuweisen, insbesondere durch eine Kopie des Gesellschaftsvertrags, der Satzung oder einer mit dieser vergleichbaren Urkunde, die dem Betriebsinhaber zugrunde liegt, sowie sonstiger Beschlüsse oder Auszüge aus amtlichen Registern.
+4. im Sammelantrag die rechtlichen und tatsächlichen Verhältnisse darzulegen, aus denen sich ergibt, dass die Voraussetzungen für die Gewährung der Junglandwirte-Einkommensstützung zum Zeitpunkt der Antragstellung vorliegen,
+
+5. das Vorliegen der nach § 9 der GAP-Direktzahlungen-Verordnung erforderlichen Ausbildung oder Qualifikation zum Zeitpunkt der Antragstellung nachzuweisen, insbesondere durch Vorlage von Abschlusszeugnissen, Teilnahmebescheinigungen, Arbeitsverträgen, Gesellschaftsverträgen oder Belegen über die krankenversicherungspflichtige Tätigkeit als mithelfender Familienangehöriger, und
+
+6. die Erklärungen und Darlegungen nach Nummer 2 und 4 durch geeignete Nachweise zu belegen, im Fall der Nummer 4 insbesondere durch eine Kopie des Gesellschaftsvertrags, der Satzung oder einer mit dieser vergleichbaren Urkunde, die dem Betriebsinhaber zugrunde liegt, sowie sonstiger Beschlüsse oder Auszüge aus amtlichen Registern.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 20 – Angaben bei einem Antrag auf Junglandwirte-Einkommensstützung im Fall des § 16 Absatz 4 Satz 1 des GAP-Direktzahlungen-Gesetzes
 
-(1) Sofern der Betriebsinhaber die Junglandwirte-Einkommensstützung nach Artikel 50 der Verordnung (EU) Nr. 1307/2013 erhalten hat, hat er dies bei Beantragung der Junglandwirte-Einkommensstützung für den verbleibenden Teil des Zeitraums nach Artikel 50 Absatz 5 der Verordnung (EU) Nr. 1307/2013 anzugeben. Er hat zusätzlich zu bestätigen, dass er nicht als natürliche Person für einen anderen Betriebsinhaber für die Gewährung der Junglandwirte-Einkommensstützung berücksichtigt wird oder in früheren Jahren berücksichtigt worden ist.
+(1) Sofern der Betriebsinhaber die Junglandwirte-Einkommensstützung nach Artikel 50 der Verordnung (EU) Nr.1307/2013 in der Fassung vom 31. Dezember 2022 erhalten hat, hat er dies bei Beantragung der Junglandwirte-Einkommensstützung für den verbleibenden Teil des Zeitraums nach Artikel 50 Absatz 5 der Verordnung (EU) Nr.1307/2013 in der Fassung vom 31. Dezember 2022 anzugeben. Er hat zusätzlich zu bestätigen, dass er nicht als natürliche Person für einen anderen Betriebsinhaber für die Gewährung der Junglandwirte-Einkommensstützung berücksichtigt wird oder in früheren Jahren berücksichtigt worden ist.
 
-(2) Sofern der Betriebsinhaber keine natürliche Person ist und er die Zahlung für Junglandwirte nach Artikel 50 der Verordnung (EU) Nr. 1307/2013 erhalten hat, hat er bei Beantragung der Junglandwirte-Einkommensstützung im Sammelantrag zusätzlich
+(2) Sofern der Betriebsinhaber keine natürliche Person ist und er die Zahlung für Junglandwirte nach Artikel 50 der Verordnung (EU) 2013/1307 erhalten hat, hat er bei Beantragung der Junglandwirte-Einkommensstützung zusätzlich
 
-1. anzugeben, welche natürliche Person oder natürliche Personen, für die die Voraussetzungen des Artikels 49 Absatz 1 Buchstabe b, auch in Verbindung mit Unterabsatz 2 oder Artikel 50 der Delegierten Verordnung (EU) Nr. 639/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1307/2013 des Europäischen Parlaments und des Rates mit Vorschriften über Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Änderung des Anhangs X der genannten Verordnung (ABl. L 181 vom 20.6.2014, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2018/1784 (ABl. L 293 vom 20.11.2018, S. 1) geändert worden ist, bei der erstmaligen Beantragung der Junglandwirte-Einkommensstützung nach Artikel 50 der Verordnung (EU) Nr. 1307/2013 vorlagen, weiterhin den Betriebsinhaber kontrolliert oder kontrollieren und dafür geeignete Nachweise beizufügen,
+1. im Sammelantrag
 
-2. zu bestätigen, dass keine Personen nach Nummer 1 als natürliche Person für einen anderen Betriebsinhaber für die Gewährung der Junglandwirte-Einkommensstützung berücksichtigt wird oder in früheren Jahren berücksichtigt worden ist.
+a) anzugeben, welche natürliche Person oder natürliche Personen, für die die Voraussetzungen des Artikels 49 Absatz 1 Buchstabe b, auch in Verbindung mit Unterabsatz 2, oder Artikel 50 der Delegierten Verordnung (EU) Nr. 639/2014 in der Fassung vom 31. Dezember 2022 bei der erstmaligen Beantragung der Junglandwirte-Einkommensstützung nach Artikel 50 der Verordnung (EU) Nr. 1307/2013 vorlagen, weiterhin den Betriebsinhaber kontrolliert oder kontrollieren,
+
+b) zu bestätigen, dass keine Personen nach Buchstabe a als natürliche Person für einen anderen Betriebsinhaber für die Gewährung der Junglandwirte-Einkommensstützung berücksichtigt wird oder in früheren Jahren berücksichtigt worden ist, und
+
+2. für die in Nummer 1 Buchstabe a bezeichneten Angaben geeignete Nachweise vorzulegen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 21 – Besondere Angaben hinsichtlich der Einhaltung der Konditionalität
 
@@ -467,29 +489,29 @@ d) zu erklären, dass diese nicht als natürliche Person für einen anderen Betr
 
 2. die Kulturarten nach Nutzungscode, die im Zeitraum vom 1. Juni bis zum 15. Juli des Antragsjahres am längsten auf der Fläche stehen, als Hauptkultur im Sinne des § 18 der GAP-Konditionalitäten-Verordnung,
 
-3. für jede landwirtschaftliche Parzelle des Ackerlands, soweit durchgeführt, die Zwischenfrucht oder Untersaat nach § 18 Absatz 2 der GAP-Konditionalitäten-Verordnung sowie im Antragsjahr 2023 die gleichen Angaben auch für das Vorjahr, sofern diese nicht bereits der zuständigen Behörde vorliegen,
+3. für jede landwirtschaftliche Parzelle des Ackerlands, soweit durchgeführt, die Zwischenfrucht oder Untersaat nach § 16 Absatz 3 Satz 6 oder § 18 Absatz 2 Satz 1 der GAP-Konditionalitäten-Verordnung,
 
-4. die nichtproduktiven Flächen und Landschaftselemente nach § 20 der GAP-Konditionalitäten-Verordnung nach Lage und Größe und unter Angabe des Nutzungscodes oder der entsprechenden Kennzeichnung,
+4. für jede landwirtschaftliche Parzelle, ob Landschaftselemente nach § 19 Absatz 1 der GAP-Konditionalitäten-Verordnung Bestandteil dieser Parzelle sind sowie deren Lage und Größe, sofern die Landschaftselemente nicht bereits in den dem Betriebsinhaber von der zuständigen Behörde vorgelegten Antragsunterlagen erfasst worden sind,
 
-5. für jede landwirtschaftliche Parzelle, ob Landschaftselemente nach § 23 Absatz 1 der GAP-Konditionalitäten-Verordnung Bestandteil dieser Parzelle sind sowie deren Lage und Größe, sofern die Landschaftselemente nicht bereits in den dem Betriebsinhaber von der zuständigen Behörde vorgelegten Antragsunterlagen erfasst worden sind,
+5. die Arten der gehaltenen landwirtschaftlichen Nutztiere und die voraussichtliche durchschnittliche Anzahl der jeweiligen Nutztiere jeder Art im Antragsjahr,
 
-6. die Arten der gehaltenen landwirtschaftlichen Nutztiere und die voraussichtliche durchschnittliche Anzahl der jeweiligen Nutztiere jeder Art im Antragsjahr,
+6. ob Wirtschaftsdünger oder sonstige organische oder organisch-mineralische Düngemittel im Verlauf des Kalenderjahres bezogen oder verwendet worden sind oder voraussichtlich bezogen oder verwendet werden,
 
-7. ob Wirtschaftsdünger oder sonstige organische oder organisch-mineralische Düngemittel im Verlauf des Kalenderjahres bezogen oder verwendet worden sind oder voraussichtlich bezogen oder verwendet werden,
+7. ob eine Beregnung oder sonstige Bewässerung landwirtschaftlicher Flächen im Verlauf des Kalenderjahres stattgefunden hat oder voraussichtlich stattfinden wird,
 
-8. ob eine Beregnung oder sonstige Bewässerung landwirtschaftlicher Flächen im Verlauf des Kalenderjahres stattgefunden hat oder voraussichtlich stattfinden wird,
-
-9. ob Lagerstätten für Pflanzenschutzmittel auf dem Betrieb vorhanden sind.
+8. ob Lagerstätten für Pflanzenschutzmittel auf dem Betrieb vorhanden sind.
 
 (2) Die Landesregierungen können durch Rechtsverordnung nach § 17 Absatz 1 Satz 2 Nummer 2 Buchstabe a in Verbindung mit Absatz 3 Satz 1 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes und § 9a in Verbindung mit § 6 Absatz 5 des Marktorganisationsgesetzes festlegen, dass der Betriebsinhaber zusätzlich zu den Angaben nach Absatz 1 im Sammelantrag weitere Angaben zu machen hat, soweit dies auf Grund der besonderen Gegebenheiten des jeweiligen Landes bei den Anforderungen hinsichtlich der Konditionalität erforderlich ist, um die Kontrolle ihrer Einhaltung durchzuführen.
 
 # § 22 – Änderung des Sammelantrags
 
-(1) Der einheitliche letzte Termin nach Artikel 7 der Durchführungsverordnung (EU) 2022/1173 der Kommission vom 31. Mai 2022 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik (ABl. L 183 vom 8.7.2022, S. 23) in der jeweils geltenden Fassung zur Änderung oder vollständigen oder teilweisen Rücknahme des Sammelantrags ist unbeschadet der dort geregelten Einschränkungen der 30. September des Antragsjahres.
+(1) Der einheitliche letzte Termin nach Artikel 7 der Durchführungsverordnung (EU) 2022/1173 zur Änderung oder vollständigen oder teilweisen Rücknahme des Sammelantrags ist unbeschadet der dort geregelten Einschränkungen der 30. September des Antragsjahres.
 
 (2) Bis zum 31. Mai eines Antragsjahres können landwirtschaftliche Parzellen und Flächen nach § 11 Absatz 1 nachgemeldet werden.
 
 (3) Die Änderung eines Sammelantrags durch die Nachmeldung von Tieren, für die die Zahlung für Mutterschafe und -ziegen oder die Zahlung für Mutterkühe beantragt wird, ist nur bis einschließlich 15. Mai zulässig.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 23 – Berichtigung offensichtlicher Irrtümer
 
@@ -525,13 +547,11 @@ Die Bundesanstalt hat die Hanfsorten, im Falle deren Anbaus eine Fläche nach §
 
 3. für jede der in Nummer 2 genannten Flächen die Hanfsorten, die auf der Fläche ausgesät wurden oder noch ausgesät werden sollen.
 
-Für jede der in Satz 1 Nummer 2 genannten Flächen sind die in § 15 genannten Etiketten für das ausgesäte Hanfsaatgut elektronisch vorzulegen, im Falle der Aussaat von Hanf nach dem 30. Juni des Antragsjahres spätestens zum 15. September desselben Jahres. Im Antragsjahr 2024 können die in § 15 genannten Etiketten auch in physischer Form vorgelegt werden.
-
 (3) Soweit die zuständigen Behörden der Länder bei Kontrollen Abweichungen von den Angaben nach Absatz 2 Nummer 1 bis 3 feststellen, haben sie diese Abweichungen der Bundesanstalt mitzuteilen.
 
 (4) Die Bundesanstalt hat dem Bundessortenamt jährlich die Ergebnisse der Untersuchungen des Gehalts an Tetrahydrocannabinol mitzuteilen.
 
-(5) Die zuständigen Behörden der Länder haben der Bundesanstalt zur Durchführung und Kontrolle der Zahlungen an die anerkannten Erzeugerorganisationen im Hopfensektor die im Sammelantrag nach § 11 Absatz 1 Satz 2 Nummer 1 und § 16 erhobenen Angaben ihrer jeweiligen mit Namen und Betriebsnummer nach § 9 Nummer 1, 5, 6 bis 8 identifizierten Hopfenerzeuger mitzuteilen. Die Bundesanstalt und die zuständigen Behörden der Länder haben sich gegenseitig über das Verfahren und die Ergebnisse der im Bereich des Anbaus von Hopfen durchgeführten Kontrollen zu unterrichten.
+(5) Die zuständigen Behörden der Länder haben der Bundesanstalt zur Durchführung und Kontrolle der Zahlungen an die anerkannten Erzeugerorganisationen im Hopfensektor die im Sammelantrag nach § 16 erhobenen Angaben ihrer jeweiligen mit Namen und Betriebsnummer nach § 9 Nummern 1, 5, 6 bis 8 identifizierten Hopfenerzeuger mitzuteilen. Die Bundesanstalt und die zuständigen Behörden der Länder haben sich gegenseitig über das Verfahren und die Ergebnisse der im Bereich des Anbaus von Hopfen durchgeführten Kontrollen zu unterrichten.
 
 # § 28 – Verwaltungskontrollen
 
@@ -539,11 +559,9 @@ Für jede der in Satz 1 Nummer 2 genannten Flächen sind die in § 15 genannten 
 
 1. der Sammelantrag fristgerecht eingereicht wurde,
 
-2. die Fördervoraussetzungen für die Direktzahlungen erfüllt sind,
+2. die Fördervoraussetzungen für die Direktzahlungen erfüllt sind und
 
-3. keine Doppelfinanzierung aus anderen Unionsregelungen erfolgt und
-
-4. die nach Abschnitt 3 beizufügenden Unterlagen eingereicht wurden.
+3. die nach Abschnitt 3 beizufügenden Unterlagen eingereicht wurden.
 
 (2) Die Verwaltungskontrollen haben auch zu umfassen, die Überprüfung
 
@@ -565,7 +583,7 @@ Die Überprüfungen für die Zwecke von Satz 1 Nummer 2 sind durch grafische Ver
 
 3. nach Unterabschnitt 4 für alle Direktzahlungen nach § 1 Nummer 4 Buchstaben a bis d (flächenbezogene Direktzahlungen), die nicht durch das Flächenüberwachungssystem kontrolliert werden.
 
-# § 29 – Flächenvermessung und -rundung
+# § 29 – Ermittlung der Flächengröße
 
 (1) Die Flächengrößen sind im Rahmen der Verwaltungskontrollen zu ermitteln. Ergänzend soll eine Flächenvermessung vor Ort nur erfolgen, sofern
 
@@ -609,9 +627,11 @@ Dem Betriebsinhaber ist eine Kopie des Kontrollberichts bereitzustellen.
 
 Erfolgt eine betriebsbezogene Auswahl, kann die Kontrolle auf eine nach dem Zufallsprinzip ausgewählte Stichprobe von mindestens 50 Prozent der relevanten landwirtschaftlichen Parzellen begrenzt werden.
 
-(3) Informationen aus den Qualitätsbewertungen nach den Artikeln 4 und 5 der Delegierten Verordnung (EU) 2022/1172 der Kommission vom 4. Mai 2022 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik und der Verhängung und Berechnung von Verwaltungssanktionen im Bereich der Konditionalität (ABl. L 183 vom 8.7.2022, S. 12), die durch die Delegierte Verordnung (EU) 2023/744 (ABl. L 99 vom 12.4.2023, S. 1) geändert worden ist, dürfen für die Kontrolle bei flächenbezogenen Direktzahlungen herangezogen werden.
+(3) Informationen aus den Qualitätsbewertungen nach den Artikeln 4 und 5 der Delegierten Verordnung (EU) 2022/1172 dürfen für die Kontrolle bei flächenbezogenen Direktzahlungen herangezogen werden.
 
 (4) Abweichend von Absatz 1 können die Landesregierungen durch Rechtsverordnung nach § 17 Absatz 1 Satz 2 Nummer 6 in Verbindung mit Absatz 3 Satz 1 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes für das Antragsjahr 2023 bestimmen, dass Kontrollen durch das Flächenüberwachungssystem nur bei einzelnen flächenbezogenen Direktzahlungen erfolgen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 33 – Vor-Ort-Kontrollen bei dem Flächenüberwachungssystem
 
@@ -623,7 +643,13 @@ Erfolgt eine betriebsbezogene Auswahl, kann die Kontrolle auf eine nach dem Zufa
 
 (1) Die Fördervoraussetzungen der gekoppelten Einkommensstützungen sind für jede der gekoppelten Einkommensstützungen durch eine Stichprobe jährlicher Vor-Ort-Kontrollen zu überprüfen. Die jährliche Stichprobe hat bei der Zahlung für Mutterschafe und -ziegen und bei der Zahlung für Mutterkühe jeweils mindestens drei Prozent der Betriebsinhaber zu umfassen, die die jeweilige Zahlung beantragt haben.
 
-(2) Die Auswahl der Betriebsinhaber nach Absatz 1 hat zu einem von der zuständigen Behörde festgelegten Anteil nach dem Zufallsprinzip zu erfolgen. Dieser soll grundsätzlich 20 bis 30 Prozent betragen. Der verbleibende Anteil ist auf Basis einer Risikoanalyse auszuwählen. Werden bei mehr als zehn Prozent der zufällig ausgewählten Betriebsinhaber und mehr als fünf Prozent der vor Ort kontrollierten Tiere Verstöße festgestellt, ist die jeweilige Kontrollrate nach Absatz 1 im Folgejahr auf fünf Prozent zu erhöhen. Sofern die Kontrollrate bereits im aktuellen Jahr erhöht wurde, ist sie bei fünf Prozent zu belassen.
+(2) Die Auswahl der Betriebsinhaber nach Absatz 1 hat zu einem von der zuständigen Behörde festgelegten Anteil nach dem Zufallsprinzip zu erfolgen. Dieser soll grundsätzlich 20 bis 30 Prozent betragen. Der verbleibende Anteil ist auf Basis einer Risikoanalyse auszuwählen. Die jeweilige Kontrollrate nach Absatz 1 ist im Folgejahr auf fünf Prozent zu erhöhen, sofern Verstöße festgestellt werden bei mehr als
+
+1. zehn Prozent der zufällig ausgewählten Betriebsinhaber und
+
+2. fünf Prozent der im Rahmen der Zufallsauswahl vor Ort kontrollierten Tiere.
+
+Tiere, bei denen im Rahmen einer Verwaltungskontrolle ein Verstoß festgestellt wurde, bleiben bei der Berechnung nach Satz 4 Nummer 2 unberücksichtigt.
 
 # § 35 – Gegenstand der Vor-Ort-Kontrollen bei gekoppelten Einkommensstützungen
 
@@ -689,7 +715,7 @@ Die Auswahl der Betriebsinhaber und Flächen nach § 38 für eine Kontrollstichp
 
 (1) Der Betriebsinhaber ist verpflichtet, für die Kontrollen der Öko-Regelungen folgende Nachweise vorzuhalten:
 
-1. im Falle der Öko-Regelung nach § 20 Absatz 1 Nummer 1 des GAP-Direktzahlungen-Gesetzes für die Maßnahmen nach dessen Buchstaben b und c die amtlichen Saatgutetiketten der auf den jeweiligen Flächen ausgesäten Saatgutmischungen oder, wenn amtliche Saatgutetiketten fehlen, insbesondere bei der Aussaat selbst erzeugter Saatgutmischungen, geeignete Nachweise, insbesondere Rückstellproben,
+1. im Falle der Öko-Regelung nach § 20 Absatz 1 Nummer 1 des GAP-Direktzahlungen-Gesetzes für die Maßnahmen nach dessen Buchstaben b und c sowie im Fall der Begrünung durch Aussaat für die Maßnahmen nach dessen Buchstabe a die amtlichen Saatgutetiketten der auf den jeweiligen Flächen ausgesäten Saatgutmischungen oder, wenn amtliche Saatgutetiketten fehlen, insbesondere bei der Aussaat selbst erzeugter Saatgutmischungen, geeignete Nachweise, insbesondere Rückstellproben,
 
 2. im Falle der Öko-Regelung nach § 20 Absatz 1 Nummer 4 des GAP-Direktzahlungen-Gesetzes geeignete Aufzeichnungen zum Nachweis des Viehbesatzes je Hektar förderfähigem Dauergrünland von raufutterfressenden Großvieheinheiten im Antragsjahr und für das Dauergrünland geeignete schlagbezogene Aufzeichnungen und Nachweise über die Verwendung von Düngemitteln einschließlich Wirtschaftsdüngern sowie gegebenenfalls Ausnahmegenehmigungen zum Einsatz von Pflanzenschutzmitteln,
 
@@ -699,15 +725,13 @@ Die Auswahl der Betriebsinhaber und Flächen nach § 38 für eine Kontrollstichp
 
 (2) Der Betriebsinhaber ist verpflichtet, zur Ermöglichung der Kontrollen der gekoppelten Einkommensstützung Nachweise vorzuhalten für:
 
-1. den Geburtsmonat der ab dem 1. März 2022 geborenen Mutterschafe und -ziegen,
+1. die Förderfähigkeit von Ersatztieren für aufgrund natürlicher Lebensumstände ausgeschiedene Tiere, für die die Zahlung für Mutterschafe und -ziegen oder die Zahlung für Mutterkühe beantragt worden ist,
 
-2. die Förderfähigkeit von Ersatztieren für aufgrund natürlicher Lebensumstände ausgeschiedene Tiere, für die die Zahlung für Mutterschafe und -ziegen oder die Zahlung für Mutterkühe beantragt worden ist,
-
-3. den Zeitpunkt des Ausscheidens und des Ersatzes von Tieren, für die die Zahlung für Mutterschafe und -ziegen oder die Zahlung für Mutterkühe beantragt worden ist.
+2. den Zeitpunkt des Ausscheidens und des Ersatzes von Tieren, für die die Zahlung für Mutterschafe und -ziegen oder die Zahlung für Mutterkühe beantragt worden ist.
 
 # § 41 – Informations-, Mitwirkungs- und Aufbewahrungspflichten
 
-(1) Der Betriebsinhaber ist verpflichtet, jede Veränderung, die dazu führt, dass die tatsächlichen oder rechtlichen Verhältnisse nicht mehr mit seinen Angaben oder Erklärungen im Antrag übereinstimmen, der zuständigen Behörde unverzüglich zu melden. Dies gilt insbesondere für den Abgang von Antragstieren Mutterkühe sowie Mutterschafe und -ziegen aufgrund natürlicher Lebensumstände und gegebenenfalls eines Ersatztiers, das zum Zeitpunkt der Antragstellung die Förderfähigkeitsbedingungen erfüllt hat. Eine Abgangsmeldung bei beantragten Mutterkühen in der elektronischen Datenbank “Herkunftssicherungs- und Informationssystem für Tiere (HI-Tier)“ gilt gemäß Artikel 7 Absatz 3 der Durchführungsverordnung (EU) 2022/1173 der Kommission vom 31. Mai 2022 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik (Abl. L 183 vom 8.7.2022, S. 23) als Abgangsmeldung für den Mutterkuhantrag.
+(1) Der Betriebsinhaber ist verpflichtet, jede Veränderung, die dazu führt, dass die tatsächlichen oder rechtlichen Verhältnisse nicht mehr mit seinen Angaben oder Erklärungen im Antrag übereinstimmen, der zuständigen Behörde unverzüglich zu melden. Dies gilt insbesondere für den Abgang von Antragstieren Mutterkühe sowie Mutterschafe und -ziegen aufgrund natürlicher Lebensumstände und gegebenenfalls eines Ersatztiers, das zum Zeitpunkt der Antragstellung die Förderfähigkeitsbedingungen erfüllt hat. Eine Abgangsmeldung bei beantragten Mutterkühen in der elektronischen Datenbank “Herkunftssicherungs- und Informationssystem für Tiere (HI-Tier)“ gilt gemäß Artikel 7 Absatz 3 der Durchführungsverordnung (EU) 2022/1173 in der Fassung vom 1. Januar 2023 als Abgangsmeldung für den Mutterkuhantrag.
 
 (2) Der Betriebsinhaber ist verpflichtet, im Rahmen der Kontrollen mitzuwirken und angeforderte Belege vorzulegen. Insbesondere hat er den zuständigen Behörden
 
@@ -743,12 +767,14 @@ Ausgenommen von der Pflicht zur Angabe nach Satz 1 ist die Nutzung außerhalb de
 
 1. die Nutzung von landwirtschaftlichen Flächen zur Lagerung von Erzeugnissen aus der landwirtschaftlichen Tätigkeit des Betriebsinhabers oder von Betriebsmitteln für die landwirtschaftliche Tätigkeit des Betriebsinhabers, wenn die Erzeugnisse oder Betriebsmittel nicht länger als 90 aufeinanderfolgende Tage im Kalenderjahr gelagert werden,
 
-2. die Nutzung landwirtschaftlicher Flächen im Rahmen von Pflegearbeiten an angrenzenden Gehölzen oder Gewässern einschließlich der Lagerung des dabei anfallenden Schnittgutes oder des Aushubs für nicht länger als 90 Tage.
+2. die Nutzung landwirtschaftlicher Flächen im Rahmen von Pflegearbeiten an angrenzenden Gehölzen oder Gewässern einschließlich der Lagerung des dabei anfallenden Schnittgutes oder des Aushubs für nicht länger als 90 aufeinanderfolgende Tage.
 
 (7) Für die Mitteilung und den Nachweis eines Falles höherer Gewalt oder außergewöhnlicher Umstände gilt § 14 Absatz 4 des GAP-InVeKoS-Gesetzes entsprechend, soweit er nicht unmittelbar gilt.
 
-(8) Der Betriebsinhaber ist verpflichtet, das Umpflügen einer Fläche, die mit Gras oder anderen Grünfutterpflanzen bewachsen ist, aber weder Dauergrünland ist noch als solches gilt, mit dem Ziel, die Fläche wieder mit Gras  
-oder anderen Grünfutterpflanzen anzulegen, unter Angabe der Lage und Größe der Fläche und des Datums des Umpflügens spätestens einen Monat nach dem Umpflügen bei der zuständigen Behörde nach dem von dieser vorgegebenen Verfahren anzuzeigen. Unterbleibt eine Anzeige nach Satz 1 oder erfolgt sie nach Ablauf der in Satz 1 genannten Frist, darf die zuständige Behörde außer in Fällen höherer Gewalt oder außergewöhnlicher Umstände das Umpflügen nicht für die Bewertung einer Fläche im Hinblick auf die mögliche Entstehung oder Nichtentstehung von Dauergrünland berücksichtigen.
+(8) Der Betriebsinhaber ist verpflichtet, das Pflügen einer Fläche, die mit Gras oder anderen Grünfutterpflanzen bewachsen ist, aber weder Dauergrünland ist noch als solches gilt, mit dem Ziel, die Fläche wieder mit Gras  
+oder anderen Grünfutterpflanzen anzulegen, unter Angabe der Lage und Größe der Fläche und des Datums des Umpflügens spätestens einen Monat nach dem Pflügen bei der zuständigen Behörde nach dem von dieser vorgegebenen Verfahren anzuzeigen. Unterbleibt eine Anzeige nach Satz 1 oder erfolgt sie nach Ablauf der in Satz 1 genannten Frist, darf die zuständige Behörde außer in Fällen höherer Gewalt oder außergewöhnlicher Umstände das Pflügen nicht für die Bewertung einer Fläche im Hinblick auf die mögliche Entstehung oder Nichtentstehung von Dauergrünland berücksichtigen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 42 – Allgemeine Vorschriften
 
@@ -770,19 +796,27 @@ Kann das Vorliegen einer Fördervoraussetzung mangels Mitwirkung des Betriebsinh
 
 # § 42a – Verstöße gegen die Vorschriften des Systems zur Kennzeichnung und Registrierung von Rindern, Mutterschafen und Mutterziegen
 
-(1) Ein im Betrieb vorhandenes Rind, das eines der beiden Kennzeichnungsmittel verloren hat, gilt auch als ermittelt, sofern es durch die übrigen Elemente des Systems zur Kennzeichnung und Registrierung von Rindern nach Teil IV Titel 1 der Verordnung (EU) 2016/429 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit (ABl. L 84 vom 31.3.2016, S. 1; L 57 vom 3.3.2017, S. 65; L 84 vom 20.3.2020, S. 24; L 48 vom 11.2.2021, S. 3; L 224 vom 24.6.2021, S. 42; L 310 vom 1.12.2022, S. 18) in der jeweils geltenden Fassung eindeutig identifiziert werden kann.
+(1) Ein im Betrieb vorhandenes Rind, das eines der beiden Kennzeichnungsmittel verloren hat, gilt insoweit auch als ermittelt, sofern es durch die übrigen Elemente des Systems zur Kennzeichnung und Registrierung von Rindern nach Teil IV Titel 1 der Verordnung (EU) 2016/429 eindeutig identifiziert werden kann und das verlorene Kennzeichnungsmittel vor Ablauf des 15. August des Antragsjahres ersetzt wurde.
 
-(2) Ein im Betrieb vorhandenes Mutterschaf oder eine im Betrieb vorhandene Mutterziege, das oder die eines der beiden Kennzeichnungsmittel verloren hat, gilt auch als ermittelt, sofern
+(2) Ein im Betrieb vorhandenes Mutterschaf oder eine im Betrieb vorhandene Mutterziege, das oder die eines der beiden Kennzeichnungsmittel verloren hat, gilt insoweit auch als ermittelt, sofern
 
-1. das Tier durch ein Kennzeichen nach Artikel 108 Absatz 3 der Verordnung (EU) 2016/429 weiterhin identifiziert werden kann und
+1. das Tier durch ein Kennzeichen nach Artikel 108 Absatz 3 der Verordnung (EU) 2016/429 weiterhin identifiziert werden kann,
 
-2. alle sonstigen Anforderungen des Systems zur Kennzeichnung und Registrierung von Schafen und Ziegen erfüllt sind.
+2. alle sonstigen Anforderungen des Systems zur Kennzeichnung und Registrierung von Schafen und Ziegen erfüllt sind oder als erfüllt gelten und
 
-(3) Ein einzelnes Rind, ein einzelnes Mutterschaf oder eine einzelne Mutterziege im Betrieb, das oder die beide Kennzeichnungsmittel verloren hat, gilt auch als ermittelt, sofern
+3. das verlorene Kennzeichnungsmittel vor Ablauf des 15. August des Antragsjahres ersetzt wurde.
 
-1. dieses Tier durch das Register, einen Tierpass, die Datenbank oder ein sonstiges Mittel nach der Verordnung (EU) 2016/429 weiterhin eindeutig identifiziert werden kann und
+(3) Ein einzelnes Rind, ein einzelnes Mutterschaf oder eine einzelne Mutterziege im Betrieb, das oder die beide Kennzeichnungsmittel verloren hat, gilt insoweit auch als ermittelt, sofern
 
-2. der Tierhalter nachweist, dass er bereits vor Ankündigung der Vor-Ort-Kontrolle Abhilfemaßnahmen getroffen hat.
+1. dieses Tier durch das Register, einen Tierpass, die Datenbank oder ein sonstiges Mittel nach der Verordnung (EU) 2016/429 weiterhin eindeutig identifiziert werden kann,
+
+2. der Tierhalter nachweist, dass er bereits vor Ankündigung der Vor-Ort-Kontrolle Abhilfemaßnahmen getroffen hat und
+
+3. die verlorenen Kennzeichnungsmittel vor Ablauf des 15. August des Antragsjahres ersetzt wurden.
+
+(4) Im Fall eines Rindes, eines Mutterschafes oder einer Mutterziege, das oder die im Betrieb vorhanden ist, gilt die Verpflichtung zur Registrierung von Rindern, Schafen und Ziegen als erfüllt und das Tier insoweit als ermittelt, sofern der Betriebsinhaber die Vollständigkeit und Richtigkeit der Registrierung vor Ablauf des 15. August des Antragsjahres nachweist.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 43 – Sanktion bei der Nichtanmeldung aller Flächen
 
@@ -852,9 +886,11 @@ so wird die ermittelte Anzahl im Umfang der Differenz zwischen den angemeldeten 
 
 4. die Nichtanmeldungssanktion nach § 43.
 
-(2) Die sich nach Absatz 1 ergebenden Beträge sind um den sich bei Anwendung des Artikels 17 der Verordnung (EU) 2021/2116 ergebenden Betrag zu kürzen.
+(2) Die sich nach Absatz 1 ergebenden Beträge sind um den sich bei Anwendung des Artikels 17 der Verordnung (EU) 2021/2116 in der Fassung vom 7. Dezember 2022 ergebenden Betrag zu kürzen.
 
-(3) Sanktionen wegen Verstößen gegen Regelungen der Konditionalität nach Kapitel 3 Abschnitt 2 des GAP-Konditionalitäten-Gesetzes werden auf den sich nach Absatz 2 ergebenden Betrag angewandt.
+(3) Sanktionen wegen Verstößen gegen Regelungen der Konditionalität oder der sozialen Konditionalität nach Kapitel 4 Abschnitt 2 des GAP-Konditionalitäten-Gesetzes werden auf den sich nach Absatz 2 ergebenden Betrag angewandt.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 48 – Grenzwerte und Ausnahmen
 

@@ -775,6 +775,8 @@ d) den Betrag, den die Kasse einem Leistungsanwärter im Sinne des Buchstabens b
 
 (3) ¹Abweichend von Absatz 1 Satz 1 Nummer 1 Satz 1 Buchstabe d und Absatz 2 können auf Antrag die insgesamt erforderlichen Zuwendungen an die Unterstützungskasse für den Betrag, den die Kasse an einen Pensionsfonds zahlt, der eine ihr obliegende Versorgungsverpflichtung ganz oder teilweise übernommen hat, nicht im Wirtschaftsjahr der Zuwendung, sondern erst in den dem Wirtschaftsjahr der Zuwendung folgenden zehn Wirtschaftsjahren gleichmäßig verteilt als Betriebsausgaben abgezogen werden. ²Der Antrag ist unwiderruflich; der jeweilige Rechtsnachfolger ist an den Antrag gebunden.
 
+(+++ § 4d: Zur Anwendung vgl. § 52 +++)
+
 # § 4e – Beiträge an Pensionsfonds
 
 (1) Beiträge an einen Pensionsfonds im Sinne des § 236 des Versicherungsaufsichtsgesetzes dürfen von dem Unternehmen, das die Beiträge leistet (Trägerunternehmen), als Betriebsausgaben abgezogen werden, soweit sie auf einer festgelegten Verpflichtung beruhen oder der Abdeckung von Fehlbeträgen bei dem Fonds dienen.
@@ -4945,6 +4947,8 @@ und keine Erstattung beantragt oder durchgeführt worden ist. ²Die durch Steuer
 
 (4) Die pauschale Einkommensteuer gilt als Lohnsteuer und ist von dem Unternehmen in der Lohnsteuer-Anmeldung der Betriebsstätte im Sinne des Absatzes 3 anzumelden und spätestens am zehnten Tag nach Ablauf des für die Betriebsstätte maßgebenden Lohnsteuer-Anmeldungszeitraums an das Betriebsstättenfinanzamt abzuführen.
 
+(+++ § 37a: Zur Anwendung vgl. § 52 +++)
+
 # § 37b – Pauschalierung der Einkommensteuer bei Sachzuwendungen
 
 (1) ¹Steuerpflichtige können die Einkommensteuer einheitlich für alle innerhalb eines Wirtschaftsjahres gewährten
@@ -4966,6 +4970,8 @@ den Betrag von 10 000 Euro übersteigen.
 (3) ¹Die pauschal besteuerten Sachzuwendungen bleiben bei der Ermittlung der Einkünfte des Empfängers außer Ansatz. ²Auf die pauschale Einkommensteuer ist § 40 Absatz 3 und 4 sinngemäß anzuwenden. ³Der Steuerpflichtige hat den Empfänger von der Steuerübernahme zu unterrichten.
 
 (4) ¹Die pauschale Einkommensteuer gilt als Lohnsteuer und ist von dem die Sachzuwendung gewährenden Steuerpflichtigen in der Lohnsteuer-Anmeldung der Betriebsstätte nach § 41 Absatz 2 anzumelden und spätestens am zehnten Tag nach Ablauf des für die Betriebsstätte maßgebenden Lohnsteuer-Anmeldungszeitraums an das Betriebsstättenfinanzamt abzuführen. ²Hat der Steuerpflichtige mehrere Betriebsstätten im Sinne des Satzes 1, so ist das Finanzamt der Betriebsstätte zuständig, in der die für die pauschale Besteuerung maßgebenden Sachbezüge ermittelt werden.
+
+(+++ § 37b: Zur Anwendung vgl. § 52 +++)
 
 # § 38 – Erhebung der Lohnsteuer
 
@@ -5358,7 +5364,7 @@ soweit die Bezüge den Betrag nicht übersteigen, den der Arbeitnehmer nach § 9
 
 (4) ¹Das Pauschalierungswahlrecht des Arbeitgebers ist durch Übermittlung oder Abgabe einer Lohnsteuer-Anmeldung, in der die pauschale Lohnsteuer angegeben wird, auszuüben. ²Abweichend von Satz 1 kann der Arbeitgeber für den Prüfungszeitraum einer Lohnsteuer-Außenprüfung das Pauschalierungswahlrecht durch schriftliche oder elektronische Erklärung gegenüber dem Betriebsstättenfinanzamt ausüben. ³Die Erklärung nach Satz 2 ist spätestens bis zur Bestandskraft der auf Grund der Lohnsteuer-Außenprüfung erlassenen Bescheide abzugeben. ⁴Im Fall des Satzes 2 wird die pauschale Lohnsteuer vom Betriebsstättenfinanzamt durch Steuerbescheid festgesetzt.
 
-(+++ § 40: Zur Anwendung vgl. § 52 +++)
+(+++ § 40: Zur Anwendung vgl. §§ 40a u. 52 +++)
 
 # § 40a – Pauschalierung der Lohnsteuer für Teilzeitbeschäftigte und geringfügig Beschäftigte
 
@@ -5385,6 +5391,8 @@ soweit die Bezüge den Betrag nicht übersteigen, den der Arbeitnehmer nach § 9
 (6) ¹Für die Erhebung der einheitlichen Pauschsteuer nach Absatz 2 ist die Deutsche Rentenversicherung Knappschaft-Bahn-See zuständig. ²Die Regelungen zum Steuerabzug vom Arbeitslohn sind entsprechend anzuwenden. ³Für die Anmeldung, Abführung und Vollstreckung der einheitlichen Pauschsteuer sowie die Erhebung eines Säumniszuschlags und das Mahnverfahren für die einheitliche Pauschsteuer gelten dabei die Regelungen für die Beiträge nach § 168 Absatz 1 Nummer 1b oder 1c oder nach § 172 Absatz 3 oder 3a oder nach § 276a Absatz 1 des Sechsten Buches Sozialgesetzbuch. ⁴Die Deutsche Rentenversicherung Knappschaft-Bahn-See hat die einheitliche Pauschsteuer auf die erhebungsberechtigten Körperschaften aufzuteilen; dabei entfallen aus Vereinfachungsgründen 90 Prozent der einheitlichen Pauschsteuer auf die Lohnsteuer, 5 Prozent auf den Solidaritätszuschlag und 5 Prozent auf die Kirchensteuern. ⁵Die erhebungsberechtigten Kirchen haben sich auf eine Aufteilung des Kirchensteueranteils zu verständigen und diesen der Deutschen Rentenversicherung Knappschaft-Bahn-See mitzuteilen. ⁶Die Deutsche Rentenversicherung Knappschaft-Bahn-See ist berechtigt, die einheitliche Pauschsteuer nach Absatz 2 zusammen mit den Sozialversicherungsbeiträgen beim Arbeitgeber einzuziehen.
 
 (7) ¹ Der Arbeitgeber kann unter Verzicht auf den Abruf von elektronischen Lohnsteuerabzugsmerkmalen (§ 39e Absatz 4 Satz 2) die Lohnsteuer für Bezüge von kurzfristigen, im Inland ausgeübten Tätigkeiten beschränkt steuerpflichtiger Arbeitnehmer, die einer ausländischen Betriebsstätte dieses Arbeitgebers zugeordnet sind, mit einem Pauschsteuersatz von 30 Prozent des Arbeitslohns erheben. ² Eine kurzfristige Tätigkeit im Sinne des Satzes 1 liegt nur vor, wenn die im Inland ausgeübte Tätigkeit 18 zusammenhängende Arbeitstage nicht übersteigt.
+
+(+++ § 40a: Zur Anwendung vgl. § 52 +++)
 
 # § 40b – Pauschalierung der Lohnsteuer bei bestimmten Zukunftssicherungsleistungen
 

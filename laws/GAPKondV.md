@@ -107,21 +107,11 @@ Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-Gesetzes und
 
 (1) Die Genehmigung nach § 5 des GAP-Konditionalitäten-Gesetzes ist für eine förderfähige Fläche nicht erforderlich, die infolge der Anwendung einer der folgenden Richtlinien nicht mehr landwirtschaftliche Fläche nach § 4 Absatz 1 der GAP-Direktzahlungen-Verordnung ist:
 
-1. der Richtlinie
+1. der Richtlinie 92/43/EWG,
 
-92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie
+2. der Richtlinie 2000/60/EG oder
 
-2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, in der jeweils geltenden Fassung,
-
-2. der Richtlinie
-
-2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der Gemeinschaft im Bereich der Wasserpolitik (ABl. L 327 vom 22.12.2000, S. 1), die zuletzt durch die Richtlinie
-
-2014/101/EU (ABl. L 311 vom 31.10.2014, S. 32) geändert worden ist, in der jeweils geltenden Fassung oder
-
-3. der Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7), die zuletzt durch die Verordnung
-
-(EU) 2019/101 (ABl. L 170 vom 25.6.2019, S. 115) geändert worden ist, in der jeweils geltenden Fassung.
+3. der Richtlinie 2009/147/EG.
 
 (2) Die Genehmigung nach § 5 des GAP-Konditionalitäten-Gesetzes ist für eine Fläche nicht erforderlich, die nicht mehr Dauergrünland ist, weil die Fläche mit einer Vegetation bewachsen ist, die sich von einer Fläche natürlich ausgebreitet hat, die
 
@@ -130,6 +120,8 @@ Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-Gesetzes und
 2. überwiegend mit Gehölzen, die nicht der landwirtschaftlichen Erzeugung dienen, bewachsen ist, und
 
 3. für die Direktzahlungen nicht förderfähig ist.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 3 – Antrag auf Genehmigung der Umwandlung von Dauergrünland
 
@@ -163,7 +155,7 @@ Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-Gesetzes und
 
 # § 4 – Anlage von Ersatzflächen bei genehmigter Umwandlung
 
-(1) Eine Ersatzfläche ist fünf aufeinander folgende Jahre als Dauergrünland zu nutzen. Satz 1 gilt auch für Flächen, die vor dem 1. Januar 2023 auf Grund von Vorschriften über die Erhaltung des Dauergrünlands bei der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3 der Verordnung (EU) Nr. 1307/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit Vorschriften über Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EG) Nr. 637/2008 des Rates und der Verordnung (EG) Nr. 73/2009 des Rates (ABl. L 347 vom 20.12.2013, S. 608; L 130 vom 19.5.2016, S. 14), die zuletzt durch die Delegierte Verordnung (EU) 2021/1017 (ABl. L 224 vom 24.6.2021, S. 1) geändert wurde,
+(1) Eine Ersatzfläche ist fünf aufeinander folgende Jahre als Dauergrünland zu nutzen. Satz 1 gilt auch für Flächen, die vor dem 1. Januar 2023 auf Grund von Vorschriften über die Erhaltung des Dauergrünlands bei der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3 der Verordnung (EU) Nr. 1307/2013 in der Fassung vom 31. Dezember 2022
 
 1. als Dauergrünland angelegt oder rückumgewandelt wurden und
 
@@ -181,6 +173,8 @@ Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-Gesetzes und
 
 (7) Soweit die zuständige Behörde für die Zustimmung und Erklärungen nach den Absätzen 3, 4 und 6 Muster bekannt gibt oder Vordrucke oder Formulare bereithält, sind diese zu verwenden.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
+
 # § 5 – Frist für die Anlage von Ersatzflächen
 
 Die Ersatzfläche ist bis zu dem auf die Genehmigung folgenden Schlusstermin für den Sammelantrag nach § 6 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes anzulegen.
@@ -197,7 +191,7 @@ Die Ersatzfläche ist bis zu dem auf die Genehmigung folgenden Schlusstermin fü
 
 # § 7 – Rückumwandlung bei einer Umwandlung entgegen § 5 des GAP-Konditionalitäten-Gesetzes
 
-(1) Hat ein Begünstigter Dauergrünland ohne Genehmigung nach § 5 Absatz 1 Satz 2 des GAP-Konditionalitäten-Gesetzes umgewandelt und liegt kein Fall der §§ 6 und 7 des GAP-Konditionalitäten-Gesetzes vor, hat die zuständige Behörde die Rückumwandlung der Fläche in Dauergrünland anzuordnen. Die zuständige Behörde hat dem Begünstigten eine angemessene Frist für die Rückumwandlung zu setzen. § 4 Absatz 1 Satz 1 und Absatz 2 gilt entsprechend.
+(1) Sofern Dauergrünland ohne Genehmigung nach § 5 Absatz 1 Satz 2 des GAP-Konditionalitäten-Gesetzes umgewandelt wurde und kein Fall der §§ 6 und 7 des GAP-Konditionalitäten-Gesetzes vorliegt, hat die zuständige Behörde die Rückumwandlung der Fläche in Dauergrünland anzuordnen. Die Anordnung ist an den Begünstigten zu richten, der zum Zeitpunkt der Anordnung Bewirtschafter der Fläche ist. Sie ist flächenbezogen und gilt auch für nachfolgende Bewirtschafter, sofern diese Begünstigte sind. Die zuständige Behörde hat eine angemessene Frist für die Rückumwandlung zu setzen. § 4 Absatz 1 Satz 1 und Absatz 2 gilt entsprechend.
 
 (2) Sofern im Falle des Absatzes 1 zum Zeitpunkt der Umwandlung die Voraussetzungen einer Genehmigung vorlagen, soll die zuständige Behörde auf Antrag des Begünstigten die Umwandlung nachträglich genehmigen.
 
@@ -213,11 +207,11 @@ Konditionalitäten-Gesetzes als Ersatzfläche angelegt wurde,
 
 2. nach § 7 rückumgewandelt wurde,
 
-3. auf Grund der Vorschriften über die Erhaltung des Dauergrünlands bei der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3 der Verordnung (EU)
-
-Nr. 1307/2013 als Dauergrünland angelegt oder in Dauergrünland rückumgewandelt wurde und nach diesen Vorschriften als Dauergrünland gilt oder
+3. auf Grund der Vorschriften über die Erhaltung des Dauergrünlands bei der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3 der Verordnung (EU) Nr. 1307/2013 in der Fassung vom 31. Dezember 2022 als Dauergrünland angelegt oder in Dauergrünland rückumgewandelt wurde und nach diesen Vorschriften als Dauergrünland gilt oder
 
 4. auf Grund einer Förderung gemäß § 1 Absatz 1 Satz 1 Nummer 3 des GAP-Konditionalitäten-Gesetzes aus Ackerland zu Dauergrünland umgewandelt wurde.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 9 – Anzeige der Umwandlung von Dauergrünland nach § 6 des GAP-Konditionalitäten-Gesetzes
 
@@ -233,13 +227,15 @@ Konditionalitäten-Gesetzes als Ersatzfläche angelegt wurde,
 
 2. nach § 7 rückumgewandelt wurde,
 
-3. auf Grund der Vorschriften über die Erhaltung des Dauergrünlands bei der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3 der Verordnung (EU) Nr. 1307/2013 als Dauergrünland angelegt oder in Dauergrünland rückumgewandelt wurde,
+3. auf Grund der Vorschriften über die Erhaltung des Dauergrünlands bei der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3 der Verordnung (EU) Nr. 1307/2013 in der Fassung vom 31. Dezember 2022 als Dauergrünland angelegt oder in Dauergrünland rückumgewandelt wurde,
 
 4. auf Grund einer Förderung gemäß § 1 Absatz 1 Satz 1 Nummer 3 des GAP-Konditionalitäten-Gesetzes aus Ackerland zu Dauergrünland umgewandelt wurde oder
 
 5. ohne Genehmigung umgewandelt wurde und dessen Fläche größer als 500 Quadratmeter ist.
 
 (2) Absatz 1 gilt nur in dem Zeitraum, in dem die Flächen als Dauergrünland genutzt werden müssen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 11 – Gebietskulisse
 
@@ -267,9 +263,9 @@ b) die Zuordnung der Gebietskulisse zu den landwirtschaftlichen Parzellen und
 
 3. Ausnahmen von § 10 Absatz 1 des GAP-Konditionalitäten-Gesetzes für ältere Treposole, die nachweislich vor dem 1. Januar 2020 angelegt wurden.
 
-# § 12 – Anbau von Paludikulturen
+# § 12 – Anbau in Paludikulturverfahren
 
-(1) Innerhalb der Gebietskulisse nach § 11 sind das Umwandeln oder das Pflügen von Dauergrünland zulässig, sofern eine standortangepasste nasse Nutzung im Sinne einer Paludikultur etabliert wird und sofern die Fläche für Direktzahlungen förderfähig ist.
+(1) Innerhalb der Gebietskulisse nach § 11 sind das Umwandeln oder das Pflügen von Dauergrünland zulässig, sofern eine standortangepasste nasse Nutzung im Sinne einer Paludikultur etabliert wird.
 
 (2) Absatz 1 gilt nicht, sofern Dauergrünland betroffen ist, das
 
@@ -280,6 +276,8 @@ b) die Zuordnung der Gebietskulisse zu den landwirtschaftlichen Parzellen und
 3. ein gesetzlich geschütztes Biotop nach § 30 Absatz 2 des Bundesnaturschutzgesetzes oder nach weiteren landesrechtlichen Vorschriften ist oder
 
 4. in einem von einer Landesregierung aus Naturschutzgründen durch Rechtsverordnung ausgewiesenen Gebiet liegt.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 12a – Neuansaat, Neuanpflanzung und Rodung von Dauerkulturen
 
@@ -299,7 +297,7 @@ Stoppelfelder dürfen nicht abgebrannt werden.
 
 # § 15 – Schaffung von Pufferstreifen entlang von Gewässern
 
-(1) Pflanzenschutzmittel, Biozid-Produkte und Düngemittel dürfen auf landwirtschaftlichen Flächen, die an Gewässer angrenzen, innerhalb eines Abstands von 3 Metern, gemessen ab der Böschungsoberkante, nicht angewendet werden. Bei Gewässern ohne ausgeprägte Böschungsoberkante wird der Abstand ab der Linie des Mittelwasserstandes gemessen. Landesrechtliche Regelungen bezüglich der Festlegung der Böschungsoberkante oder Uferlinie gelten fort.
+(1) Pflanzenschutzmittel, Biozid-Produkte und Düngemittel dürfen auf landwirtschaftlichen Flächen, die an Gewässer angrenzen, innerhalb eines Abstands von 3 Metern, gemessen ab der Böschungsoberkante, nicht angewendet werden. Bei Gewässern ohne Böschungsoberkante wird der Abstand ab der Linie des Mittelwasserstandes gemessen. Landesrechtliche Regelungen bezüglich der Festlegung der Böschungsoberkante oder Uferlinie gelten fort.
 
 (2) Absatz 1 gilt nicht für Gewässer, soweit diese nach § 5 Absatz 4 der Düngeverordnung in Verbindung mit § 2 Absatz 2 des Wasserhaushaltsgesetzes oder nach § 4a Absatz 1 Satz 1 der Pflanzenschutz-Anwendungsverordnung von der Anwendung des Wasserhaushaltsgesetzes oder der Pflanzenschutz-Anwendungsverordnung ausgenommen sind. Die Landesregierungen können in Gebieten, in denen die landwirtschaftlichen Flächen in einem erheblichen Umfang von Ent- und Bewässerungsgräben durchzogen sind, durch Rechtsverordnung den Abstand nach Absatz 1 Satz 1 verringern, sofern dies für diese Gebiete entsprechend begründet ist.
 
@@ -375,7 +373,7 @@ Ein Wechsel der Art der Mindestbodenbedeckung nach Satz 2 ist zulässig, sofern 
 
 (1) Der Begünstigte ist verpflichtet, auf jeder zum Ackerland seines Betriebes gehörenden Fläche innerhalb eines Zeitraumes von drei aufeinanderfolgenden Jahren mindestens zwei unterschiedliche Hauptkulturen einer landwirtschaftlichen Kulturpflanze anzubauen. Anlage 5 Nummer 2.4 bis 2.8 der GAP-Direktzahlungen-Verordnung ist entsprechend anzuwenden. Abweichend von Satz 2 zählen Mischkulturen mit Mais erst ab dem Antragsjahr 2026 zur Hauptkultur Mais.
 
-(2) Der Begünstigte ist verpflichtet, auf mindestens 33 Prozent des Ackerlandes seines Betriebes einen jährlichen Wechsel der Hauptkultur vorzunehmen oder vor dem erneuten Anbau derselben Hauptkultur eine Zwischenfrucht, die mindestens bis zum Ablauf des 31. Dezember auf der Fläche vorhanden ist, in Übereinstimmung mit den Grundsätzen der guten fachlichen Praxis anzubauen. Anlage 5 Nummer 2.4 bis 2.8 der GAP-Direktzahlungen-Verordnung ist entsprechend anzuwenden. Abweichend von Satz 3 zählen Mischkulturen mit Mais erst ab dem Antragsjahr 2026 zur Hauptkultur Mais.
+(2) Der Begünstigte ist verpflichtet, auf mindestens 33 Prozent des Ackerlandes seines Betriebes einen jährlichen Wechsel der Hauptkultur vorzunehmen oder vor dem erneuten Anbau derselben Hauptkultur eine Zwischenfrucht, die mindestens bis zum Ablauf des 31. Dezember auf der Fläche vorhanden ist, in Übereinstimmung mit den Grundsätzen der guten fachlichen Praxis anzubauen. Anlage 5 Nummer 2.4 bis 2.8 der GAP-Direktzahlungen-Verordnung ist entsprechend anzuwenden. Abweichend von Satz 2 zählen Mischkulturen mit Mais erst ab dem Antragsjahr 2026 zur Hauptkultur Mais.
 
 (3) Bei der Anwendung der Absätze 1 und 2 werden folgende Flächen nicht berücksichtigt:
 
@@ -419,13 +417,15 @@ c) einer Kombination der Nutzungen nach den Buchstaben a und b unterfallen.
 
 Abweichend von Satz 1 sind die in Satz 1 Nummer 1 bis 3 genannten Flächen im ersten Jahr berücksichtigungsfähig.
 
-(4) In Betrieben, die nach der Verordnung (EU) 2018/848 in der jeweils geltenden Fassung zertifiziert sind, gelten die Verpflichtungen nach den Absätzen 1 und 2 auf allen Flächen als erfüllt.
+(4) In Betrieben, die nach der Verordnung (EU) 2018/848 zertifiziert sind, gelten die Verpflichtungen nach den Absätzen 1 und 2 auf allen Flächen als erfüllt.
 
-(5) Die Verpflichtung nach Absatz 2 gilt in dem Umfang als erfüllt, soweit
+(5) Die Verpflichtungen nach den Absätzen 1 und 2 gelten in dem Umfang als erfüllt, soweit
 
 1. beetweise verschiedene Gemüsekulturen, Küchenkräuter, Heil-, Gewürz- oder Zierpflanzen angebaut werden oder
 
 2. im Rahmen einer wissenschaftlichen Versuchsfläche eine oder mehrere Kulturen angebaut werden.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 19 – Keine Beseitigung von Landschaftselementen
 
@@ -489,9 +489,7 @@ b) mehr als 5 Metern lang und kein Bestandteil einer Terrasse nach Nummer 9 sind
 
 # § 21 – Rückumwandlung von umweltsensiblen Dauergrünlandflächen
 
-(1) Die zuständige Behörde hat die Rückumwandlung der Fläche in Dauergrünland anzuordnen, wenn der Begünstigte entgegen § 12 Absatz 3 des GAP-Konditionalitäten-Gesetzes umweltsensibles Dauergrünland umgewandelt oder gepflügt hat. Die zuständige Behörde setzt dem Begünstigten eine angemessene Frist zur Rückumwandlung. § 4 Absatz 1 Satz 1 und Absatz 2 gilt entsprechend.
-
-(2) Sofern die Voraussetzungen für die Aufhebung der Bestimmung einer Fläche als umweltsensibel nach § 12 Absatz 6 des GAP-Konditionalitäten-Gesetzes vorliegen, soll die zuständige Behörde auf Antrag des Begünstigten die Bestimmung nachträglich aufheben.
+Sofern umweltsensibles Dauergrünland entgegen § 12 Absatz 3 des GAP-Konditionalitäten-Gesetzes umgewandelt oder gepflügt wurde, hat die zuständige Behörde die Rückumwandlung der Fläche in umweltsensibles Dauergrünland anzuordnen. Die Anordnung ist an den Begünstigten zu richten, der zum Zeitpunkt der Anordnung Bewirtschafter der Fläche ist. Sie ist flächenbezogen und gilt auch für nachfolgende Bewirtschafter, sofern diese Begünstigte sind. Die zuständige Behörde hat eine angemessene Frist für die Rückumwandlung zu setzen. § 4 Absatz 1 Satz 1 gilt entsprechend.
 
 # § 22 – Vorschriften der sozialen Konditionalität
 
@@ -593,7 +591,7 @@ Die Behörde kann nach pflichtgemäßem Ermessen weitere sachdienliche Angaben m
 
 (2) Angaben des Begünstigten oder eines Dritten, die mit den nach Absatz 1 mitzuteilenden Angaben in Verbindung stehen, dürfen nur dann übermittelt werden, wenn eine Trennung nicht oder nur mit unvertretbarem Aufwand möglich ist und soweit nicht berechtigte Interessen der betroffenen Person oder eines Dritten an der Geheimhaltung dieser Angaben offensichtlich überwiegen.
 
-(3) Die Mitteilungen erfolgen mindestens einmal jährlich spätestens zum 31. Oktober an die Zahlstelle.
+(3) Die Mitteilungen erfolgen mindestens einmal jährlich spätestens zum 31. Oktober an die Zahlstelle. Sofern der zuständigen Behörde oder Körperschaft keine Verstöße bekanntgeworden sind, die eine Mitteilung nach § 13 Absatz 1 des GAP-Konditionalitäten-Gesetzes erfordern, teilt sie dies einmal jährlich spätestens zum 31. Oktober der Zahlstelle mit.
 
 # § 31 – Sanktionierung bei Übertragung
 
@@ -622,6 +620,18 @@ Hat ein Verstoß gegen die GAB oder GLÖZ-Standards keine oder nur unerhebliche 
 (4) Wurde ein nicht vorsätzlicher Verstoß gegen Verpflichtungen, die sich aus Vorschriften der sozialen Konditionalität ergeben, festgestellt, so kann die Zahlstelle auf der Grundlage der Bewertung des Verstoßes durch die nach § 13 Absatz 3 des GAP-Konditionalitäten-Gesetzes zuständige Behörde oder Körperschaft unter Berücksichtigung der Kriterien der Unionsregelung entscheiden, den dort festgelegten Regelsatz von 3 Prozent auf bis zu 1 Prozent zu senken.
 
 (5) Die Absätze 2 und 3 gelten entsprechend bei Verstößen gegen die Vorschriften der sozialen Konditionalität.
+
+# § 34a – Kumulation von Verstößen
+
+(1) Sind in demselben Kalenderjahr mehrere festgestellte nicht wiederkehrende, nicht vorsätzliche Verstöße gegen Vorschriften der sozialen Konditionalität aufgetreten, findet das Verfahren entsprechende Anwendung, das geregelt ist in Artikel 11 Absatz 2 der Delegierten Verordnung (EU) 2022/1172.
+
+(2) Sind in demselben Kalenderjahr mehrere festgestellte wiederkehrende, nicht vorsätzliche Verstöße gegen Vorschriften der sozialen Konditionalität aufgetreten, findet das Verfahren entsprechende Anwendung, das geregelt ist in Artikel 11 Absatz 3 der Delegierten Verordnung (EU) 2022/1172.
+
+(3) Sind in demselben Kalenderjahr mehrere festgestellte vorsätzliche Verstöße gegen Vorschriften der sozialen Konditionalität aufgetreten, findet das Verfahren entsprechende Anwendung, das geregelt ist in Artikel 11 Absatz 4 der Delegierten Verordnung (EU) 2022/1172.
+
+(4) Sind in demselben Kalenderjahr mehrere nicht vorsätzliche, wiederholte und vorsätzliche Verstöße gegen Vorschriften der sozialen Konditionalität aufgetreten, findet das Verfahren entsprechende Anwendung, das geregelt ist in Artikel 11 Absatz 5 der Delegierten Verordnung (EU) 2022/1172.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 35 – Inkrafttreten
 
@@ -677,7 +687,7 @@ Frühe Sommerkulturen, soweit deren Aussaat oder Pflanzung in Übereinstimmung m
 
 2. Leguminosen ohne Sojabohnen,
 
-3. Sonnenblumen, Sommerraps, Sommerrüben, Körnersenf, Körnerhanf, Leindotter, Lein, Mohn, Heil-, Duft- und Gewürzpflanzen, Küchenkräuter, Faserhanf, Buchweizen, Amaranth, Quinoa, Kleegras, Klee- bzw. Luzernegras-Gemisch, Ackergras, Grünlandeinsaat, Kartoffeln, Rüben, Gemüsekulturen.
+3. Sonnenblumen, Sommerraps, Sommerrübsen, Körnersenf, Körnerhanf, Leindotter, Lein, Mohn, Heil-, Duft- und Gewürzpflanzen, Küchenkräuter, Faserhanf, Buchweizen, Amaranth, Quinoa, Kleegras, Klee- bzw. Luzernegras-Gemisch, Ackergras, Grünlandeinsaat, Kartoffeln, Rüben, Gemüsekulturen.
 
 # Anlage 6 – (zu § 17)Klassenzeichen für Bodenarten für schwere Böden
 
@@ -685,4 +695,5 @@ Frühe Sommerkulturen, soweit deren Aussaat oder Pflanzung in Übereinstimmung m
 
 # Anlage 7 – (zu § 22)Vorschriften der sozialen Konditionalität
 
-(Fundstelle: BGBl. 2024 I Nr. 417, S. 8)
+(Fundstelle: BGBl. 2024 I Nr. 417, S. 8;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)

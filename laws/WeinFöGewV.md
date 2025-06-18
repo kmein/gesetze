@@ -129,7 +129,7 @@
 
 Die Landesregierungen können bei knappen Haushaltsmitteln durch Rechtsverordnung Prioritätskriterien und Gewichtungspunkte für die Auswahl der zu fördernden Projekte festlegen, anhand derer die Anträge durch die zuständigen Stellen zu bewerten sind. Solche Prioritätskriterien haben die mit der jeweiligen Maßnahme verfolgten Ziele zu Grunde zu legen, müssen objektiv und dürfen nicht diskriminierend sein. Es sind insbesondere solche Maßnahmen zu berücksichtigen, die einen Beitrag zum Klimaschutz und zur Anpassung an den Klimawandel leisten.
 
-# § 5 – Antragsinhalt
+# § 5 – (doppelt)Antragsinhalt
 
 (1) Ein Antrag auf Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 1 hat die Beschreibung der beantragten Maßnahme, die betreffende Fläche und die geplante Frist für ihre Durchführung zu enthalten. Die zuständige Stelle kann weitere Angaben fordern, soweit dies zur Überprüfung der spezifischen Fördervoraussetzungen erforderlich ist.
 

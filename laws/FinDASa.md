@@ -157,7 +157,8 @@ Darüber hinaus soll sich der Fachbeirat aus drei Mitgliedern der Wissenschaft, 
 
 (7) Über das Ergebnis der Sitzung und über den Verlauf der Beratungen ist ein Protokoll anzufertigen, das von dem oder der Vorsitzenden oder vom Stellvertreter zu unterzeichnen ist. Das Nähere regelt die Geschäftsordnung.
 
-(+++ § 8 Abs. 1 bis 3 u. 7: Zur Anwendung vgl. § 8a Abs. 4 +++)
+(+++ § 8 Abs. 1 bis 3 u. 7: Zur Anwendung vgl. § 8a Abs. 4 +++)  
+(+++ § 8 Abs. 1 Satz 1 u. 3 bis 11, Abs. 2, 3 u. 7: Zur Anwendung vgl. § 8a Abs. 5 +++)
 
 # § 8a – Verbraucherbeirat
 

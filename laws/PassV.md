@@ -33,7 +33,11 @@
 
 # § 4 – Lichtbild
 
-Bei der Beantragung eines Passes ist vom Passbewerber ein aktuelles Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat und ohne Rand vorzulegen. Das Lichtbild muss die Person in einer Frontalaufnahme, ohne Kopfbedeckung und ohne Bedeckung der Augen zeigen. Im Übrigen muss das Lichtbild den Anforderungen der Anlage 8 entsprechen. Die Passbehörde kann vom Gebot der fehlenden Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Weitere zulässige Abweichungen bei Lichtbildern von Kindern regelt Anlage 8.
+(1) Ein Lichtbild, das gemäß § 6 Absatz 2 Satz 3 des Passgesetzes gefertigt wird, muss aktuell sein und den Vorgaben der Technischen Richtlinie TR-03121 des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils geltenden Fassung entsprechen.
+
+(2) Das Lichtbild muss die Person in einer Frontalaufnahme, ohne Kopfbedeckung und ohne Bedeckung der Augen zeigen. Im Übrigen muss das Lichtbild den Anforderungen der Anlage 8 entsprechen. Die Passbehörde kann vom Gebot der fehlenden Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Weitere zulässige Abweichungen bei Lichtbildern von Kindern regelt Anlage 8.
+
+(3) Abweichend von Absatz 1 kann für einen Pass, der im Ausland bei der Passbehörde nach § 19 Absatz 2 des Passgesetzes beantragt wird, auch ein aktuelles Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat und ohne Rand vorgelegt werden, sofern die elektronische Fertigung durch Geräte der Behörde zur Lichtbildaufnahme nicht möglich ist.
 
 # § 5 – Ausgabe und Versand des Passes
 
@@ -95,7 +99,7 @@ Von der Passpflicht sind befreit:
 
 # § 9 – Lichtbilder für den Passersatz
 
-Sofern auf einem Passersatz die Anbringung eines Lichtbildes vorgesehen ist, gilt § 4 entsprechend.
+Sofern auf einem Passersatz die Anbringung eines Lichtbilds vorgesehen ist, ist der Passbehörde ein aktuelles Lichtbild ohne Rand vorzulegen, dass 45 Millimeter hoch und 35 Millimeter breit ist. Wenn in der Passbehörde die technischen Voraussetzungen gegeben sind, ist das Lichtbild durch die Passbehörde zu fertigen.
 
 # § 10 – Gültigkeitsdauer des Passersatzes
 
@@ -143,19 +147,85 @@ Die in anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen fes
 
 (1) An Gebühren sind zu erheben
 
-|     |                                                                                                                                                         |                                                                                                                                                                                        |             |
-|:---|:-----|:---------------------------------------------|----------------:|
-| 1\. | für die Ausstellung                                                                                                                                     |                                                                                                                                                                                        |             |
-|     | a)                                                                                                                                                     | eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr vollendet haben,                                                                                                   |    70 Euro, |
-|     | b)                                                                                                                                                     | eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr noch nicht vollendet haben,                                                                                        | 37,50 Euro, |
-|     | c)                                                                                                                                                     | eines Reisepasses mit 48 Seiten nach Anlage 1a zusätzlich zu der in Nummer 1a und 1b bestimmten Gebühr                                                                                 |    22 Euro, |
-|     | d)                                                                                                                                                     | eines Reisepasses nach Nummer 1a bis 1c im Expressverfahren zusätzlich zu den dort bestimmten Gebühren                                                                                 |    32 Euro, |
-|     | e)                                                                                                                                                     | eines vorläufigen Reisepasses                                                                                                                                                          |    26 Euro, |
-|     | f)                                                                                                                                                     | eines Ausweises für Binnenschiffer und deren Familienangehörige für die Flussschifffahrt auf der Donau (§ 7 Absatz 1 Nummer 2)                                                         |    16 Euro, |
-|     | g)                                                                                                                                                     | eines Ausweises, der von den Behörden und Dienststellen ausgestellt wird, die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständig sind (§ 7 Absatz 1 Nummer 7) |     8 Euro, |
-|     | h)                                                                                                                                                     | eines Ausweises, der ausschließlich zur Einreise in die Bundesrepublik Deutschland berechtigt (§ 7 Absatz 1 Nummer 8)                                                                  |     8 Euro, |
-| 2\. | für die Änderung eines Reisepasses oder vorläufigen Reisepasses und für die Verlängerung oder Änderung eines anderen unter Nummer 1 genannten Ausweises |                                                                                                                                                                                        |     6 Euro, |
-| 3\. | für die Zustellung nach § 5 Absatz 2                                                                                                                    |                                                                                                                                                                                        |    15 Euro. |
+<table style="border: none;">
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 6%" />
+<col style="width: 67%" />
+<col style="width: 23%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.</td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">für die Ausstellung</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">a)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr vollendet haben,</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">70 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">b)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr noch nicht vollendet haben,</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">37,50 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">c)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">eines Reisepasses mit 48 Seiten nach Anlage 1a zusätzlich zu der in Nummer 1a und 1b bestimmten Gebühr</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">22 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">d)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">eines Reisepasses nach Nummer 1a bis 1c im Expressverfahren zusätzlich zu den dort bestimmten Gebühren</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">32 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">e)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">eines vorläufigen Reisepasses</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">26 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">f)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">eines Ausweises für Binnenschiffer und deren Familienangehörige für die Flussschifffahrt auf der Donau (§ 7 Absatz 1 Nummer 2)</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">16 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">g)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">eines Ausweises, der von den Behörden und Dienststellen ausgestellt wird, die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständig sind (§ 7 Absatz 1 Nummer 7)</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">8 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">h)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">eines Ausweises, der ausschließlich zur Einreise in die Bundesrepublik Deutschland berechtigt (§ 7 Absatz 1 Nummer 8)</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">8 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.</td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">für die Änderung eines Reisepasses oder vorläufigen Reisepasses und für die Verlängerung oder Änderung eines anderen unter Nummer 1 genannten Ausweises</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">6 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3.</td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">für die Zustellung nach § 5 Absatz 2</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">15 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">4.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für ein Lichtbild, das durch die Passbehörde gefertigt wurde, zusätzlich zu den jeweils<br />
+in Nummer 1 Buchstabe a bis f und h genannten Gebühren</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">6 Euro.</td>
+</tr>
+</tbody>
+</table>
 
 (2) Die Gebühr ist zu verdoppeln
 

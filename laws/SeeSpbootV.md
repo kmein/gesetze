@@ -39,7 +39,7 @@
 | Anlage 1    |                                                                   |                                                                          | Bootszeugnis (§ 5)                                            |
 | Anlage 2    |                                                                   |                                                                          | Untersuchungsumfang (§ 6 Abs. 1)                              |
 | Anlage 3    |                                                                   |                                                                          | Abnahmeprotokoll für Sportboote/Wassermotorräder (§ 6 Abs. 2) |
-| Anlage 4    |                                                                   |                                                                          | Besetzung bei gewerbsmäßiger Folgenutzung (§ 15 Abs. 2)       |
+| Anlage 4    |                                                                   |                                                                          | Besetzung bei gewerbsmäßiger Folgenutzung (§ 15 Absatz 3)     |
 
 # § 1 – Geltungsbereich
 
@@ -263,7 +263,7 @@ Wenn die örtlichen Verhältnisse der Gewässer oder die Sicherheit und Leichtig
 
 (1) Wer ein Wasserfahrzeug im Sinne des § 14 Absatz 2 führt, bedarf einer Fahrerlaubnis sowie eines für die Funkstelle ausreichenden gültigen Funkzeugnisses. Wird das Wasserfahrzeug in den Küstengewässern und Binnenwasserstraßen, die zugleich Seeschifffahrtsstraßen sind, eingesetzt, ist die Fahrerlaubnis durch Vorlage des Sportküstenschifferscheins im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 der Sportseeschifferscheinverordnung nachzuweisen. Wird das Wasserfahrzeug in den küstennahen Seegewässern eingesetzt, ist die Fahrerlaubnis durch den Sportseeschifferschein im Sinne des § 1 Absatz 1 Satz 1 Nummer 2 der Sportseeschifferscheinverordnung nachzuweisen, bei Einsatz des Wasserfahrzeugs in der weltweiten Fahrt durch den Sporthochseeschifferschein im Sinne des § 1 Absatz 1 Satz 1 Nummer 3 der Sportseeschifferscheinverordnung. Der Nachweis des für die Funkstelle ausreichenden gültigen Funkzeugnisses bestimmt sich nach § 1 Absatz 7 der Sportseeschifferscheinverordnung.
 
-(2) Im Einzelfall kann die Generaldirektion Wasserstraßen und Schifffahrt abweichend von Absatz 1 Satz 2 auf Antrag des Bootsführers einen Sportbootführerschein für den Geltungsbereich Seeschifffahrtsstraßen im Sinne der Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016), in der jeweils geltenden Fassung als ausreichenden Nachweis der Fahrerlaubnis bei Einsatz des Sportbootes bis zu 300 Meter Abstand vom Ufer anerkennen, wenn die örtlichen Verhältnisse der Gewässer, das zu führende Wasserfahrzeug und die Sicherheit und Leichtigkeit der Schifffahrt dies gestatten. Hierüber ist eine entsprechende Bescheinigung auszustellen. Die Bescheinigung ist beim Führen des Wasserfahrzeugs mitzuführen und den zur Kontrolle befugten Personen auf Verlangen zur Prüfung auszuhändigen.
+(2) Im Einzelfall kann die Generaldirektion Wasserstraßen und Schifffahrt abweichend von Absatz 1 Satz 2 auf Antrag des Bootsführers einen Sportbootführerschein für den Geltungsbereich Seeschifffahrtsstraßen im Sinne der Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016), in der jeweils geltenden Fassung als ausreichenden Nachweis der Fahrerlaubnis bei Einsatz des Sportbootes bis zu 300 Meter Abstand vom Ufer anerkennen, wenn die örtlichen Verhältnisse der Gewässer, das zu führende Wasserfahrzeug und die Sicherheit und Leichtigkeit der Schifffahrt dies gestatten. Hierüber ist eine entsprechende Bescheinigung auszustellen. Der Bootsführer hat die Bescheinigung beim Führen des Wasserfahrzeugs mitzuführen und den zur Kontrolle befugten Personen auf Verlangen zur Prüfung auszuhändigen.
 
 (3) Der Bootsführer eines Wasserfahrzeugs im Sinne des § 14 Absatz 2 muss dafür sorgen, dass dieses entsprechend seiner Antriebsart mindestens die sich aus der Anlage 4 ergebende Besetzung mit Inhabern von Fahrerlaubnissen nach Absatz 1 hat.
 
@@ -317,15 +317,15 @@ c) entgegen § 12 Abs. 2 Nr. 4 nicht dafür sorgt, dass ein Kind unter zwölf Ja
 
 d) entgegen § 12 Abs. 3 nicht dafür sorgt, dass das Sportboot sofort zur Betriebsstätte zurückkehrt oder an einer geschützten Stelle des Ufers anlegt,
 
-e) entgegen § 14 Satz 1 ein Wasserfahrzeug ohne Sicherheitszeugnis gewerbsmäßig nutzt,
+e) entgegen § 14 Satz 1 ein Wasserfahrzeug ohne Sicherheitszeugnis gewerbsmäßig nutzt oder
 
 f) ohne Fahrerlaubnis nach § 15 Abs. 1 Satz 1 ein Wasserfahrzeug führt,
 
-g) entgegen § 15 Absatz 1a Satz 3 die dort genannte Bescheinigung nicht mitführt oder nicht oder nicht rechtzeitig aushändigt oder
+5. einer vollziehbaren Anordnung nach § 13 zuwiderhandelt,
 
-h) entgegen § 15 Abs. 2 nicht dafür sorgt, dass ein gewerbsmäßig genutztes Wasserfahrzeug die vorgeschriebene Besetzung hat oder
+6. entgegen § 15 Absatz 2 Satz 3 eine Bescheinigung nicht mitführt oder nicht oder nicht rechtzeitig aushändigt oder
 
-5. einer vollziehbaren Anordnung nach § 13 zuwiderhandelt.
+7. entgegen § 15 Absatz 3 nicht dafür sorgt, dass ein Wasserfahrzeug die vorgeschriebene Besetzung hat.
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
@@ -1293,6 +1293,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3468 - 3476
      ++) Prüfungsnachweis
     +++) baumustergeprüft 
 
-# Anlage 4 – (zu § 15 Abs. 2)Besetzung von gewerbsmäßig genutzten Sportbooten
+# Anlage 4 – (zu § 15 Absatz 3)Besetzung von gewerbsmäßig genutzten Sportbooten
 
-(Fundstelle: BGBl. I 2010, 574)
+(Fundstelle: BGBl. I 2010, 574;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)

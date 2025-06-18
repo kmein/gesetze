@@ -93,6 +93,8 @@
 
 (5) Arbeitsentgelt im Sinne dieses Gesetzes ist das Arbeitsentgelt, das nach § 14 des Vierten Buches Sozialgesetzbuch in Verbindung mit einer aufgrund des § 17 des Vierten Buches Sozialgesetzbuch erlassenen Verordnung bestimmt wird. Für Frauen im Sinne von § 1 Absatz 2 Satz 2 gilt als Arbeitsentgelt ihre jeweilige Vergütung.
 
+(6) Eine Entbindung ist eine Lebend- oder eine Totgeburt. Die Regelungen zur Entbindung finden im Falle einer Fehlgeburt ab der 13. Schwangerschaftswoche entsprechende Anwendung, soweit nicht in diesem oder einem anderen Gesetz Abweichendes geregelt ist.
+
 # § 3 – Schutzfristen vor und nach der Entbindung
 
 (1) Der Arbeitgeber darf eine schwangere Frau in den letzten sechs Wochen vor der Entbindung nicht beschäftigen (Schutzfrist vor der Entbindung), soweit sie sich nicht zur Arbeitsleistung ausdrücklich bereit erklärt. Sie kann die Erklärung nach Satz 1 jederzeit mit Wirkung für die Zukunft widerrufen. Für die Berechnung der Schutzfrist vor der Entbindung ist der voraussichtliche Tag der Entbindung maßgeblich, wie er sich aus dem ärztlichen Zeugnis oder dem Zeugnis einer Hebamme oder eines Entbindungspflegers ergibt. Entbindet eine Frau nicht am voraussichtlichen Tag, verkürzt oder verlängert sich die Schutzfrist vor der Entbindung entsprechend.
@@ -105,7 +107,7 @@
 
 3. wenn vor Ablauf von acht Wochen nach der Entbindung bei dem Kind eine Behinderung im Sinne von § 2 Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch ärztlich festgestellt wird.
 
-Bei vorzeitiger Entbindung verlängert sich die Schutzfrist nach der Entbindung nach Satz 1 oder nach Satz 2 um den Zeitraum der Verkürzung der Schutzfrist vor der Entbindung nach Absatz 1 Satz 4. Nach Satz 2 Nummer 3 verlängert sich die Schutzfrist nach der Entbindung nur, wenn die Frau dies beantragt.
+Bei vorzeitiger Entbindung verlängert sich die Schutzfrist nach der Entbindung nach Satz 1 oder nach Satz 2 um den Zeitraum der Verkürzung der Schutzfrist vor der Entbindung nach Absatz 1 Satz 4. Nach Satz 2 Nummer 3 verlängert sich die Schutzfrist nach der Entbindung nur, wenn die Frau dies beantragt. Satz 2 gilt nicht bei einer Totgeburt.
 
 (3) Die Ausbildungsstelle darf eine Frau im Sinne von § 1 Absatz 2 Satz 2 Nummer 8 bereits in der Schutzfrist nach der Entbindung im Rahmen der schulischen oder hochschulischen Ausbildung tätig werden lassen, wenn die Frau dies ausdrücklich gegenüber ihrer Ausbildungsstelle verlangt. Die Frau kann ihre Erklärung jederzeit mit Wirkung für die Zukunft widerrufen.
 
@@ -116,6 +118,16 @@ Bei vorzeitiger Entbindung verlängert sich die Schutzfrist nach der Entbindung 
 2. nach ärztlichem Zeugnis nichts dagegen spricht.
 
 Sie kann ihre Erklärung nach Satz 1 Nummer 1 jederzeit mit Wirkung für die Zukunft widerrufen.
+
+(5) Bei einer Fehlgeburt darf der Arbeitgeber eine Frau nicht beschäftigen, soweit sie sich nicht zur Arbeitsleistung ausdrücklich bereit erklärt,
+
+1. bis zum Ablauf von zwei Wochen bei einer Fehlgeburt ab der 13. Schwangerschaftswoche oder
+
+2. bis zum Ablauf von sechs Wochen bei einer Fehlgeburt ab der 17. Schwangerschaftswoche oder
+
+3. bis zum Ablauf von acht Wochen bei einer Fehlgeburt ab der 20. Schwangerschaftswoche.
+
+Sie kann ihre Erklärung nach Satz 1 jederzeit mit Wirkung für die Zukunft widerrufen. Die Absätze 1 bis 3 gelten nicht.
 
 # § 4 – Verbot der Mehrarbeit; Ruhezeit
 
@@ -187,7 +199,7 @@ Die schwangere oder stillende Frau kann ihre Erklärung nach Satz 2 Nummer 1 jed
 
 (5) Der Arbeitgeber kann zuverlässige und fachkundige Personen schriftlich damit beauftragen, ihm obliegende Aufgaben nach diesem Unterabschnitt in eigener Verantwortung wahrzunehmen.
 
-(6) Kosten für Maßnahmen nach diesem Gesetz darf der Arbeitgeber nicht den Personen auferlegen, die bei ihm beschäftigt sind. Die Kosten für Zeugnisse und Bescheinigungen, die die schwangere oder stillende Frau auf Verlangen des Arbeitgebers vorzulegen hat, trägt der Arbeitgeber.
+(6) Kosten für Maßnahmen nach diesem Gesetz darf der Arbeitgeber nicht den Personen auferlegen, die bei ihm beschäftigt sind. Die Kosten für Zeugnisse und Bescheinigungen, die die schwangere Frau, die Frau nach der Entbindung oder die stillende Frau auf Verlangen des Arbeitgebers vorzulegen hat, trägt der Arbeitgeber.
 
 (+++ § 9 Abs. 1 bis 5: Zur Anwendung vgl. § 1 Abs. 2 Satz 2 Nr. 6 +++)
 
@@ -602,7 +614,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Satz 4, entgegen § 3 Absatz 2 Satz 1, auch in Verbindung mit Satz 2 oder 3, entgegen § 3 Absatz 3 Satz 1, § 4 Absatz 1 Satz 1, 2 oder 4 oder § 5 Absatz 1 Satz 1, § 6 Absatz 1 Satz 1, § 13 Absatz 1 Nummer 3 oder § 16 eine Frau beschäftigt,
+1. entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Satz 4, entgegen § 3 Absatz 2 Satz 1, auch in Verbindung mit Satz 2 oder 3, entgegen § 3 Absatz 3 Satz 1, § 3 Absatz 5 Satz 1, § 4 Absatz 1 Satz 1, 2 oder 4 oder § 5 Absatz 1 Satz 1, § 6 Absatz 1 Satz 1, § 13 Absatz 1 Nummer 3 oder § 16 eine Frau beschäftigt,
 
 2. entgegen § 4 Absatz 2 eine Ruhezeit nicht, nicht richtig oder nicht rechtzeitig gewährt,
 

@@ -330,7 +330,7 @@ d)
 
 Erbrachte Leistungen für Berechtigte nach § 1 Abs. 1 in dem Gebiet, in dem das Häftlingshilfegesetz schon vor dem Beitritt gegolten hat, sind anzurechnen.
 
-# Anhang EV – Auszug aus EinigVtr Anlage I Kap. II Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 920)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kap. II Sachgebiet D Abschnitt III(BGBl. II 1990, 889, 920)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
 ...

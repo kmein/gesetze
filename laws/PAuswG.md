@@ -279,9 +279,15 @@ Die Beleihung ist im Bundesanzeiger bekannt zu machen. Das Vorliegen der Vorauss
 
 (2) Für Minderjährige, die noch nicht 16 Jahre alt sind, und für Personen, die geschäftsunfähig sind und sich nicht nach Absatz 1 Satz 5 durch einen Bevollmächtigten vertreten lassen, kann nur diejenige Person den Antrag stellen, die sorgeberechtigt ist oder als Betreuer ihren Aufenthalt bestimmen darf. Sie ist verpflichtet, für Jugendliche, die 16, aber noch nicht 18 Jahre alt sind, innerhalb von sechs Wochen, nachdem der Jugendliche 16 Jahre alt geworden ist, den Antrag auf Ausstellung eines Ausweises zu stellen, falls dies der Jugendliche unterlässt. Jugendliche, die mindestens 16 Jahre alt sind, dürfen Verfahrenshandlungen nach diesem Gesetz vornehmen.
 
-(3) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der Person des Antragstellers und seiner Eigenschaft als Deutscher notwendig sind. Die Angaben zum Doktorgrad und zu den Ordens- und Künstlernamen sind freiwillig. Die antragstellende Person hat die erforderlichen Nachweise zu erbringen. Fingerabdrücke von Kindern sind nicht abzunehmen, solange die Kinder noch nicht sechs Jahre alt sind.
+(3) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der Person des Antragstellers und seiner Eigenschaft als Deutscher notwendig sind. Die Angaben zum Doktorgrad und zu den Ordens- und Künstlernamen sind freiwillig. Das Lichtbild ist nach Wahl der antragstellenden Person
 
-(4) Bestehen Zweifel über die Person des Antragstellers, sind die zur Feststellung seiner Identität erforderlichen Maßnahmen zu treffen. Die Personalausweisbehörde kann die Durchführung erkennungsdienstlicher Maßnahmen veranlassen, wenn die Identität der antragstellenden Person auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten festgestellt werden kann. Ist die Identität festgestellt, so sind die im Zusammenhang mit der Feststellung angefallenen Unterlagen zu vernichten. Die Vernichtung ist zu protokollieren.
+1. durch einen Dienstleister elektronisch zu fertigen und im Anschluss von diesem durch ein sicheres Verfahren an die Personalausweisbehörde zu übermitteln oder
+
+2. durch die Personalausweisbehörde elektronisch zu fertigen, sofern die Behörde über Geräte zur Lichtbildaufnahme verfügt.
+
+Eine Veränderung des Lichtbilds ist nur nach Maßgabe dieses Gesetzes oder nach Maßgabe von Vorschriften, die auf Grund dieses Gesetzes erlassen wurden, zulässig. Die antragstellende Person hat die erforderlichen Nachweise zu erbringen. Fingerabdrücke von Kindern sind nicht abzunehmen, solange die Kinder noch nicht sechs Jahre alt sind.
+
+(4) Bestehen Zweifel über die Identität der im Lichtbild abgebildeten Person oder besteht ein Verdacht auf eine unzulässige Bearbeitung des Lichtbilds, kann die Personalausweisbehörde anordnen, dass das Lichtbild in Gegenwart eines Mitarbeiters in einer Personalausweisbehörde zu fertigen ist. Bestehen Zweifel über die Person des Antragstellers, sind die zur Feststellung seiner Identität erforderlichen Maßnahmen zu treffen. Die Personalausweisbehörde kann die Durchführung erkennungsdienstlicher Maßnahmen veranlassen, wenn die Identität der antragstellenden Person auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten festgestellt werden kann. Ist die Identität festgestellt, so sind die im Zusammenhang mit der Feststellung angefallenen Unterlagen zu vernichten. Die Vernichtung ist zu protokollieren.
 
 (5) Die Unterschrift durch ein Kind ist zu leisten, wenn es zum Zeitpunkt der Beantragung des Ausweises zehn Jahre oder älter ist.
 
@@ -347,7 +353,7 @@ Die Beleihung ist im Bundesanzeiger bekannt zu machen. Das Vorliegen der Vorauss
 
 (1) Die Datenübermittlung von den Personalausweisbehörden an den Ausweishersteller zum Zweck der Ausweisherstellung, insbesondere die Übermittlung sämtlicher Ausweisantragsdaten, erfolgt durch Datenübertragung. Die Datenübertragung kann auch über Vermittlungsstellen erfolgen. Die beteiligten Stellen haben dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Feststellbarkeit der übermittelnden Stelle gewährleisten; im Falle der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden, die dem jeweiligen Stand der Technik entsprechen.
 
-(2) Zur elektronischen Erfassung, Echtheitsbewertung und Qualitätssicherung des Lichtbildes und der Fingerabdrücke sowie zur Übermittlung der Ausweisdaten von der Personalausweisbehörde an den Ausweishersteller dürfen ausschließlich solche technischen Systeme und Bestandteile eingesetzt werden, die den Anforderungen der Rechtsverordnung nach § 34 Satz 1 Nummer 3 entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt für Sicherheit in der Informationstechnik gemäß der Rechtsverordnung nach § 34 Satz 1 Nummer 4 festzustellen.
+(2) Zur Aufnahme und elektronischen Erfassung des Lichtbilds nach § 9 Absatz 3 Satz 3 Nummer 2 und der Fingerabdrücke, deren Qualitätssicherung sowie zur Übermittlung der Ausweisantragsdaten von der Personalausweisbehörde an den Ausweishersteller dürfen ausschließlich solche technischen Systeme und Bestandteile eingesetzt werden, die den Anforderungen der Rechtsverordnung nach § 34 Satz 1 Nummer 3 entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt für Sicherheit in der Informationstechnik gemäß der Rechtsverordnung nach § 34 Satz 1 Nummer 4 festzustellen.
 
 # § 13 – (weggefallen)
 
@@ -619,9 +625,11 @@ Der Personalausweis kann als qualifizierte elektronische Signaturerstellungseinh
 
 17. E-Mail-Adresse, sofern der Personalausweisinhaber in die Speicherung einwilligt,
 
-18. Ordensname, Künstlername und
+18. Ordensname, Künstlername,
 
-19. den Nachweis über eine erteilte Ermächtigung nach § 8 Abs. 4 Satz 2.
+19. den Nachweis über eine erteilte Ermächtigung nach § 8 Absatz 4 Satz 2 und
+
+20. lichtbildaufnehmende Stelle.
 
 (4) Personenbezogene Daten im Personalausweisregister sind mindestens bis zur Ausstellung eines neuen Ausweises, höchstens jedoch bis zu fünf Jahre nach dem Ablauf der Gültigkeit des Ausweises, auf den sie sich beziehen, zu speichern und dann zu löschen. Für die Personalausweisbehörde nach § 7 Abs. 2 bei der Wahrnehmung konsularischer Aufgaben beträgt die Frist 30 Jahre.
 

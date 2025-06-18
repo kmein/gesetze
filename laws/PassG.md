@@ -145,13 +145,19 @@ e) "PD" für Diplomatenpass und vorläufigen Diplomatenpass,
 
 (1) Der Pass wird auf Antrag ausgestellt. § 3a des Verwaltungsverfahrensgesetzes findet keine Anwendung. Im Antragsverfahren nachzureichende Erklärungen können im Wege der Datenübertragung abgegeben werden. Der Passbewerber und sein gesetzlicher Vertreter können sich bei der Stellung des Antrags nicht durch einen Bevollmächtigten vertreten lassen. Dies gilt nicht für einen handlungs- oder einwilligungsunfähigen Passbewerber, wenn eine für diesen Fall erteilte, öffentlich beglaubigte oder beurkundete Vollmacht vorliegt. Für Minderjährige und für Personen, die geschäftsunfähig sind und sich nicht nach Satz 5 durch einen Bevollmächtigten vertreten lassen, kann nur derjenige den Antrag stellen, der als Sorgeberechtigter ihren Aufenthalt zu bestimmen hat. Der Passbewerber und sein gesetzlicher oder bevollmächtigter Vertreter sollen persönlich erscheinen. Ist der Passbewerber am persönlichen Erscheinen gehindert, kann nur ein vorläufiger Reisepass beantragt werden.
 
-(2) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der Person des Passbewerbers und seiner Eigenschaft als Deutscher oder, in den Fällen des § 1 Absatz 4 Satz 2, seiner Eigenschaft als Angehöriger eines anderen Staates notwendig sind. Der Passbewerber hat die entsprechenden Nachweise zu erbringen. Soweit in den Pass Fingerabdrücke aufzunehmen sind, sind diese dem Passbewerber abzunehmen und nach Maßgabe des § 4 Absatz 4 elektronisch zu erfassen; der Passbewerber hat bei der Abnahme der Fingerabdrücke mitzuwirken.
+(2) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der Person des Passbewerbers und seiner Eigenschaft als Deutscher oder, in den Fällen des § 1 Absatz 4 Satz 2, seiner Eigenschaft als Angehöriger eines anderen Staates notwendig sind. Der Passbewerber hat die entsprechenden Nachweise zu erbringen. Das Lichtbild ist nach Wahl der antragstellenden Person
+
+1. durch einen Dienstleister elektronisch zu fertigen und im Anschluss von diesem durch ein sicheres Verfahren an die Passbehörde zu übermitteln oder
+
+2. durch die Passbehörde elektronisch zu fertigen, sofern die Behörde über Geräte zur Lichtbildaufnahme verfügt.
+
+Eine Veränderung des Lichtbilds ist nur nach Maßgabe dieses Gesetzes oder nach Maßgabe von Vorschriften, die auf Grund dieses Gesetzes erlassen wurden, zulässig. Soweit in den Pass Fingerabdrücke aufzunehmen sind, sind diese dem Passbewerber abzunehmen und nach Maßgabe des § 4 Absatz 4 elektronisch zu erfassen; der Passbewerber hat bei der Abnahme der Fingerabdrücke mitzuwirken.
 
 (2a) (weggefallen)
 
 (2b) In den Fällen des § 1 Absatz 4 Satz 2 darf die zuständige Passbehörde vor Ausstellung eines amtlichen Passes zur Feststellung von Passversagungsgründen nach § 7 Absatz 1 Nummer 1 bis 5 oder zur Prüfung von sonstigen Sicherheitsbedenken um Auskunft aus dem Ausländerzentralregister ersuchen. Soweit dies zur Feststellung von Passversagungsgründen nach § 7 Absatz 1 Nummer 1 bis 5 oder zur Prüfung sonstiger Sicherheitsbedenken erforderlich ist, darf die zuständige Passbehörde in den Fällen des § 1 Absatz 4 Satz 2 die erhobenen Daten nach § 4 Absatz 1 an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt und das Zollkriminalamt übermitteln; zusätzlich darf die Passbehörde die nach Absatz 2 Satz 3 erhobenen Daten an das Bundeskriminalamt übermitteln, das Amtshilfe bei der Auswertung der Daten leistet. Satz 2 gilt nicht für Staatsangehörige anderer Mitgliedstaaten der Europäischen Union. Die nach Satz 2 ersuchten Behörden teilen der anfragenden Passbehörde unverzüglich mit, ob Passversagungsgründe nach § 7 Absatz 1 Nummer 1 bis 5 oder sonstige Sicherheitsbedenken vorliegen.
 
-(3) Bestehen Zweifel über die Person des Passbewerbers, sind die zur Feststellung seiner Identität erforderlichen Maßnahmen zu treffen. Die Passbehörde kann die Durchführung erkennungsdienstlicher Maßnahmen veranlassen, wenn die Identität des Passbewerbers auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten festgestellt werden kann. Ist die Identität festgestellt, so sind die im Zusammenhang mit der Feststellung angefallenen Unterlagen zu vernichten. Über die Vernichtung ist eine Niederschrift anzufertigen.
+(3) Bestehen Zweifel über die Identität der im Lichtbild abgebildeten Person oder besteht ein Verdacht auf eine unzulässige Bearbeitung des Lichtbilds, kann die Passbehörde anordnen, dass das Lichtbild in Gegenwart eines Mitarbeiters in einer Passbehörde zu fertigen ist. Bestehen Zweifel über die Person des Passbewerbers, sind die zur Feststellung seiner Identität erforderlichen Maßnahmen zu treffen. Die Passbehörde kann die Durchführung erkennungsdienstlicher Maßnahmen veranlassen, wenn die Identität des Passbewerbers auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten festgestellt werden kann. Ist die Identität festgestellt, so sind die im Zusammenhang mit der Feststellung angefallenen Unterlagen zu vernichten. Über die Vernichtung ist eine Niederschrift anzufertigen.
 
 (4) Die Passbehörde kann einen Pass von Amts wegen ausstellen, wenn dies im überwiegenden öffentlichen Interesse oder zur Abwendung wesentlicher Nachteile für den Betroffenen geboten ist.
 
@@ -161,7 +167,7 @@ e) "PD" für Diplomatenpass und vorläufigen Diplomatenpass,
 
 (1) Die Datenübermittlung von den Passbehörden an den Passhersteller zum Zweck der Passherstellung, insbesondere die Übermittlung sämtlicher Passantragsdaten, erfolgt durch Datenübertragung. Die Datenübertragung kann auch über Vermittlungsstellen erfolgen. Die beteiligten Stellen haben dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Feststellbarkeit der übermittelnden Stelle gewährleisten; im Fall der Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren anzuwenden.
 
-(2) Zur elektronischen Erfassung des Lichtbildes und der Fingerabdrücke, deren Qualitätssicherung sowie zur Übermittlung der Passantragsdaten von der Passbehörde an den Passhersteller dürfen ausschließlich solche technischen Systeme und Bestandteile eingesetzt werden, die den Anforderungen der Rechtsverordnung nach Absatz 3 entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt für Sicherheit in der Informationstechnik festzustellen.
+(2) Zur Aufnahme und elektronischen Erfassung des Lichtbilds nach § 6 Absatz 2 Satz 3 Nummer 2 und der Fingerabdrücke, deren Qualitätssicherung sowie zur Übermittlung der Passantragsdaten von der Passbehörde an den Passhersteller dürfen ausschließlich solche technischen Systeme und Bestandteile eingesetzt werden, die den Anforderungen der Rechtsverordnung nach Absatz 3 entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt für Sicherheit in der Informationstechnik festzustellen.
 
 (3) Das Bundesministerium des Innern und für Heimat wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Regelungen zu treffen
 
@@ -441,7 +447,9 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 14a. die örtlich zuständige Passbehörde, wenn diese nicht mit der ausstellenden Passbehörde identisch ist,
 
-15. Vermerke über Anordnungen nach den §§ 7, 8 und 10.
+15. Vermerke über Anordnungen nach den §§ 7, 8 und 10,
+
+16. lichtbildaufnehmende Stelle.
 
 (3) Das Passregister dient
 

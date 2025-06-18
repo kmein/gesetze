@@ -371,10 +371,6 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtm�
 
  
 
-\* Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn eine Namensänderung gemeldet wird.
-
- 
-
  
 
  

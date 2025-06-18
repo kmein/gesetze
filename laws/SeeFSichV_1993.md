@@ -143,7 +143,7 @@ Der nach § 7 Absatz 2 und 2a zur Meldung eines Ereignisses verpflichtete Schiff
 
 3. soweit der Geltungsbereich des Übereinkommens auf dieses erstreckt wurde, im Küstenmeer
 
-eines anderen Vertragsstaates, so ist die Meldung nach Maßgabe des Satzes 2 und des Absatzes 3 an die zuständige Behörde dieses Staates zu richten. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die Meldestellen nach Satz 1 im Verkehrsblatt bekannt.
+eines anderen Vertragsstaates, so ist die Meldung nach Maßgabe des Satzes 2 und des Absatzes 3 an die zuständige Behörde dieses Staates zu richten.
 
 (3) Die Meldungen nach den Absätzen 1 und 2 müssen folgende Angaben enthalten:
 

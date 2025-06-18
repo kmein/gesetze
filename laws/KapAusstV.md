@@ -7,6 +7,32 @@ Auf Grund des § 122 Absatz 2 Satz 1 in Verbindung mit Satz 3, des § 217 Satz 1
 
 # Inhaltsübersicht
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 # § 1 – Mindestkapitalanforderung
 
 (1) Die gemäß den Artikeln 248 bis 251 der Delegierten Verordnung (EU) 2015/35 der Kommission vom 10. Oktober 2014 zur Ergänzung der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 12 vom 17.1.2015, S. 1) zu berechnende Mindestkapitalanforderung bedarf der Anpassung, wenn sie weniger als 25 Prozent oder mehr als 45 Prozent der nach den §§ 96 bis 109 oder den §§ 111 bis 121 des Versicherungsaufsichtsgesetzes berechneten Solvabilitätskapitalanforderung beträgt. Dabei ist ein etwaiger, nach § 301 des Versicherungsaufsichtsgesetzes festgesetzter Kapitalaufschlag als Teil der Solvabilitätskapitalanforderung mit zu berücksichtigen. Die Anpassung erfolgt durch Anhebung der errechneten Mindestkapitalanforderung auf 25 Prozent oder Reduzierung der errechneten Mindestkapitalanforderung auf 45 Prozent des Betrags der Solvabilitätskapitalanforderung.

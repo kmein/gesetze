@@ -123,7 +123,7 @@ Werden mitzuteilende Zahlungen in einem späteren Kalenderjahr ganz oder teilwei
 
 (2) § 4a in der am 1. Januar 2025 geltenden Fassung ist erstmals ab 1. Januar 2027 anzuwenden; bis 31. Dezember 2026 ist § 4a in der am 31. Dezember 2024 geltenden Fassung weiterhin anzuwenden. Wenn die technischen und organisatorischen Voraussetzungen für die Anwendung von § 4a in der am 1. Januar 2025 geltenden Fassung bereits zu einem früheren Zeitpunkt vorliegen, kann das Bundesministerium der Finanzen im Benehmen mit dem Bundesministerium der Justiz einen früheren erstmaligen Anwendungszeitpunkt bestimmen. Ein nach Satz 2 bestimmter Anwendungszeitpunkt ist im Bundessteuerblatt Teil I bekanntzugeben.
 
-# § 13a – Mitteilungen über Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm
+# § 13a – Mitteilungen über Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm *
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle hat als mitteilungspflichtige Stelle (§ 93c Absatz 1 der Abgabenordnung) den Finanzbehörden aus Anlass des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm bewilligte Leistungen nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung mitzuteilen.
 
@@ -143,7 +143,7 @@ Werden nach Satz 1 mitzuteilende Zahlungen in einem späteren Kalenderjahr ganz 
 
 (4) Von den Absätzen 1 bis 3 abweichende Bestimmungen dieser Verordnung sind nicht anzuwenden. § 1 Absatz 2 und § 2 Absatz 2 bleiben unberührt. Mitteilungspflichten über Leistungen im Sinne des Absatzes 1 Satz 1, die sich nach anderen Bestimmungen dieser Verordnung ergeben, sind nicht anzuwenden.
 
-# § 14 – Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen- und Hochwasserkatastrophe im Juli 2021
+# § 14 – Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen- und Hochwasserkatastrophe im Juli 2021 *
 
 (1) Behörden und andere öffentliche Stellen haben als mitteilungspflichtige Stellen (§ 93c Absatz 1 der Abgabenordnung) den Finanzbehörden aus Anlass der Starkregen- und Hochwasserkatastrophe im Juli 2021 als Aufbauhilfen des Bundes und der Länder aus den Mitteln des Fonds „Aufbauhilfe 2021“ bewilligte Leistungen nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung mitzuteilen; mitzuteilen sind Leistungen an
 

@@ -58,6 +58,8 @@ Die untersuchte Person hat das Seediensttauglichkeitszeugnis zu unterschreiben.
 
 (2) Das Seediensttauglichkeitszeugnis ist von seinem Inhaber nach Maßgabe der Sätze 2 und 3 im Original an Bord mitzuführen. Der Inhaber des Seediensttauglichkeitszeugnisses hat dieses dem Kapitän bei Dienstantritt an Bord zur Verwahrung auszuhändigen. Der Kapitän hat das Seediensttauglichkeitszeugnis während der Dauer der Tätigkeit des Inhabers des Seediensttauglichkeitszeugnisses auf dem Schiff zu verwahren und diesem bei Beendigung dessen Tätigkeit wieder auszuhändigen.
 
+(3) Jedes Besatzungsmitglied darf nur ein gültiges Seediensttauglichkeitszeugnis haben. Ist ein Seediensttauglichkeitszeugnis unbrauchbar geworden, verloren gegangen oder sonst abhandengekommen, hat der bisherige Inhaber den Verlust dem seeärztlichen Dienst unverzüglich anzuzeigen und glaubhaft zu machen. Auf Antrag stellt der seeärztliche Dienst eine Ersatzausfertigung aus. Ein unbrauchbar gewordenes oder wieder aufgefundenes Zeugnis ist dem seeärztlichen Dienst auszuhändigen.
+
 # § 6 – Einschränkungen der Seediensttauglichkeit
 
 Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes hat Einschränkungen der Seediensttauglichkeit, insbesondere hinsichtlich bestimmter Tätigkeiten oder bestimmter Fahrtgebiete oder der Dauer der Tätigkeit an Bord, in das Seediensttauglichkeitszeugnis einzutragen, soweit dies aufgrund des Ergebnisses der Untersuchung erforderlich ist. Ferner können bei Vorliegen der Voraussetzungen des Satzes 1 Auflagen für die Tätigkeit an Bord in dem Seediensttauglichkeitszeugnis vermerkt werden, insbesondere hinsichtlich
@@ -90,11 +92,9 @@ Der Vorsitzende zieht den Beisitzer aus der Berufsgruppe des Widerspruchsführer
 
 (3) Der Vorsitzende leitet das Verfahren des Widerspruchsausschusses. Er bestimmt den Termin zu einer mündlichen Verhandlung.
 
-(4) Der ärztliche Beisitzer darf die Untersuchung, auf deren Ergebnis die angefochtene Entscheidung beruht, nicht selbst vorgenommen haben.
+(4) Die Beisitzer aus der Berufsgruppe des Widerspruchsführers werden in entsprechender Anwendung des Justizvergütungs- und -entschädigungsgesetzes entschädigt.
 
-(5) Die Beisitzer aus der Berufsgruppe des Widerspruchsführers werden in entsprechender Anwendung des Justizvergütungs- und -entschädigungsgesetzes entschädigt.
-
-(6) Die Mitglieder des Widerspruchsausschusses sind zur Verschwiegenheit über die in Ausübung des Amtes zur Kenntnis gelangten persönlichen Verhältnisse des Widerspruchsführers verpflichtet.
+(5) Die Mitglieder des Widerspruchsausschusses sind zur Verschwiegenheit über die in Ausübung des Amtes zur Kenntnis gelangten persönlichen Verhältnisse des Widerspruchsführers verpflichtet.
 
 # § 9 – Zulassung von Ärzten
 
@@ -104,7 +104,7 @@ Der Vorsitzende zieht den Beisitzer aus der Berufsgruppe des Widerspruchsführer
 
 2. in der Lage ist, das Farbsehvermögen einer zu untersuchenden Person zu beurteilen,
 
-3. eine mindestens vierwöchige praktische Erfahrung auf einem Seeschiff und umfassende Kenntnisse der gesundheitlichen Anforderungen im Schiffsdienst nachweist,
+3. eine mindestens vierwöchige praktische Erfahrung auf einem Seeschiff und umfassende Kenntnisse der gesundheitlichen Anforderungen im Schiffsdienst oder das Zertifikat der Bundesärztekammer über das erfolgreiche Absolvieren des Curriculums „Maritime Medizin“ nachweist,
 
 4. eine stationäre oder ambulante Tätigkeit über mindestens vier Jahre mit Schwerpunkt der Erkennung und Behandlung von Erkrankungen, die einen Bezug zur Tätigkeit an Bord haben, nachweist,
 
@@ -174,7 +174,11 @@ Unrichtige Angaben im Seediensttauglichkeitsverzeichnis sind durch die Berufsgen
 
 erfüllt.
 
-(2) Im Hinblick auf den Ausschluss einer Nachtblindheit muss die mesopische Sehschärfe mindestens die Kontrasteinstellung 1:2, für den Fall der Blendung die Kontrasteinstellung 1:2,7 erfüllen. Das Einhalten dieser Anforderung ist dem die Seediensttauglichkeitsuntersuchung vornehmenden Arzt durch die Vorlage einer Bescheinigung eines Augenarztes nachzuweisen.
+(2) Im Hinblick auf den Ausschluss einer Nachtblindheit muss die mesopische Sehschärfe mindestens die Kontrasteinstellung 1:5 ohne und mit Blendung erfüllen. Das Einhalten dieser Anforderung ist nachzuweisen durch Vorlage einer Bescheinigung
+
+1. eines Augenarztes oder
+
+2. eines nach § 9 zugelassenen Arztes, der eine Untersuchung der Dämmerungssehschärfe zur Überprüfung des Ausschlusses einer Nachtblindheit durchführen kann.
 
 (3) Abweichend von § 6 und der Anlage 1 Nummer 6.2 darf bei einem Kanalsteurer die Seediensttauglichkeit nur hinsichtlich der Dauer und des Fahrtgebietes eingeschränkt sein.
 
@@ -266,11 +270,9 @@ erwirkt hat. Die Zulassung ist zu widerrufen, wenn der Anbieter nicht mehr über
 
 2. einen Nachweis der Anerkennung als Arzt für Allgemeinmedizin, Anästhesiologie, Chirurgie oder Innere Medizin,
 
-3. einen Nachweis der Zusatzbezeichnung „Notfallmedizin“ oder Fachkundenachweis „Rettungsmedizin“,
+3. einen Nachweis der Zusatzbezeichnung „Notfallmedizin“, Klinische Akut- und Notfallmedizin oder Fachkundenachweis „Rettungsmedizin“,
 
-4. einen Nachweis über mindestens vierwöchige praktische Erfahrungen auf einem Seeschiff und über umfassende Kenntnisse der gesundheitlichen Anforderungen im Schiffsdienst,
-
-5. einen Nachweis, dass er auf einem Kauffahrteischiff unter deutscher Flagge als Schiffsarzt tätig werden wird oder tätig ist, insbesondere einen Heuervertrag nach § 28 des Seearbeitsgesetzes.
+4. einen Nachweis über mindestens vierwöchige praktische Erfahrungen auf einem Seeschiff und über umfassende Kenntnisse der gesundheitlichen Anforderungen im Schiffsdienst oder das Zertifikat der Bundesärztekammer über das erfolgreiche Absolvieren des Curriculums „Maritime Medizin“.
 
 (3) Die Berufsgenossenschaft erteilt eine Bescheinigung über die Registrierung als Schiffsarzt.
 
@@ -300,7 +302,8 @@ Lehrgänge, die am 21. August 2014 nach bisherigen Rechtsvorschriften anerkannt 
 
 # Anlage 1 – (zu § 3 und § 13 Absatz 1 Nummer 1 und Absatz 3)Anforderungen an die Seediensttauglichkeit
 
-(Fundstelle: BGBl. I 2014, 1389 - 1416)
+(Fundstelle: BGBl. I 2014, 1389 - 1416;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1\.
 
@@ -905,10 +908,10 @@ Gültigkeitsdauer des Seediensttauglichkeitszeugnisses wird begrenzt.
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 10%" />
-<col style="width: 18%" />
+<col style="width: 17%" />
+<col style="width: 25%" />
 <col style="width: 26%" />
-<col style="width: 27%" />
-<col style="width: 19%" />
+<col style="width: 22%" />
 </colgroup>
 <thead data-valign="bottom">
 <tr class="header">
@@ -916,18 +919,9 @@ Gültigkeitsdauer des Seediensttauglichkeitszeugnisses wird begrenzt.
 Diagnose-Code</th>
 <th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">Leiden<br />
 (Begründung für das Kriterium)</th>
-<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">Unvereinbar mit der zuverlässigen, sicheren und effektiven Durchführung von Routine- und Notfallaufgaben:
-<dl>
-<dt>–</dt>
-<dd>
-voraussichtlich vorüber-<br />
-gehend (T)
-</dd>
-<dt>–</dt>
-<dd>
-voraussichtlich dauerhaft (P)
-</dd>
-</dl></th>
+<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">Unvereinbar mit der zuverlässigen, sicheren und effektiven Durchführung von Routine- und Notfallaufgaben:<br />
+— voraussichtlich vorübergehend (T)<br />
+– voraussichtlich dauerhaft (P)</th>
 <th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">Kann einige, aber nicht alle Aufgaben oder Arbeiten in einigen, aber nicht in allen Gewässern wahrnehmen (R)<br />
 Kürzeres Untersuchungsintervall erforderlich (L)</th>
 <th style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">Kann alle Aufgaben weltweit innerhalb des bezeichneten Dienstzweiges ausführen</th>
@@ -1173,7 +1167,7 @@ P – Wenn fortbestehend oder wenn Begleiterkrankungen bestehen, die sich mit ho
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">F11–19</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Drogenabhängigkeit/anhaltender Substanzmissbrauch schließt sowohl illegalen Drogenkonsum als auch Abhängigkeit von verschriebenen Medikamenten ein<br />
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Drogenabhängigkeit/anhaltender Substanzmissbrauch schließt sowohl Drogenkonsum als auch Abhängigkeit von verschriebenen Medikamenten ein<br />
 Verhaltensauffälligkeiten, fehlerhaftes Durchführen der Sicherheitsmaßnahmen, Sicherheitsverhalten</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">T – Bis zur Aufklärung und Stabilisierung, wenn die Tauglichkeitskriterien erfüllt werden. Ein Jahr nach der Erstdiagnose oder ein Jahr nach jedem Rückfall<br />
 P – Wenn fortbestehend oder wenn Begleiterkrankungen bestehen, die sich mit hoher Wahrscheinlichkeit auf See verschlechtern oder wieder auftreten werden</td>
@@ -1951,10 +1945,9 @@ Eingeschränkte Regulierung des Flüssigkeitshaushalts unter Extrembedingungen, 
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">O00–99<span id="FnR.F785641_02"></span><a href="#F785641_02" class="FnR">1</a></sup></td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Schwangerschaft<br />
 Komplikationen, in der Endphase Einschränkungen der Mobilität. Möglichkeit der Gefährdung von Mutter und Kind im Fall einer vorzeitigen Entbindung auf See</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">T – Endphase der Schwangerschaft und erste Zeit nach der Entbindung<br />
-Atypischer Verlauf einer Schwangerschaft, die eine hohe Kontrolldichte erfordert</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">R, L – Beurteilung des Einzelfalls bei leichten Einschränkungen. Es kann geprüft werden, ob in der Spätschwangerschaft ein Einsatz in küstennahen Gewässern möglich ist</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Komplikationslose Schwangerschaft ohne weitere beeinträchtigende Effekte – normalerweise bis zur 24. Woche</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">L00–99</td>
@@ -2172,10 +2165,10 @@ Akutes Koronarsyndrom (z. B. Myokardinfarkt), aortokoronare Bypass-OP, Herzklapp
 
 Nach diesen Erkrankungen/Operationen besteht für mindestens ein Jahr Seedienstuntauglichkeit.
 
-Anlage 1 Buchst. E10 Spalte 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Therapieadherenz" durch "Therapieadhärenz" ersetzt  
-Anlage 1 Buchst. G40-41 Zeile 2 Spalte 4 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Therapieadherenz" durch "Therapieadhärenz" ersetzt  
-Anlage 1 Buchst. H00-59 Spalte 2 Kursivdruck:Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Makulophatien" durch "Makulopathie" ersetzt  
-Anlage 1 Buchst. I20-25 Spalte 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Herzkranheiten" durch "Herzkrankheiten" ersetzt
+Anlage 1 Nr. 6.2 Tabelle Zeile E10 Spalte 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Therapieadherenz" durch "Therapieadhärenz" ersetzt  
+Anlage 1 Nr. 6.2 Tabelle Zeile G40-41 Zeile 2 Spalte 4 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Therapieadherenz" durch "Therapieadhärenz" ersetzt  
+Anlage 1 Nr. 6.2 Tabelle Zeile H00-59 Spalte 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Makulophatien" durch "Makulopathie" ersetzt  
+Anlage 1 Nr. 6.2 Tabelle Zeile I20-25 Spalte 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Herzkranheiten" durch "Herzkrankheiten" ersetzt
 
 # Anlage 2 – (zu § 4 Absatz 1)Durchführung der Seediensttauglichkeitsuntersuchungen
 
@@ -2503,4 +2496,5 @@ Anlage 4 Tabelle (Sofortmaßnahmen bei Unfällen und Krankheiten) Zeile 32 Kursi
 
 # Anlage 5 – (zu § 16 Absatz 1 Nummer 4)Anforderungen an Schulungsräume und medizinische Ausstattung zur Durchführung medizinischer Wiederholungslehrgänge
 
-(Fundstelle: BGBl. I 2014, 1430 - 1431)
+(Fundstelle: BGBl. I 2014, 1430 - 1431;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)

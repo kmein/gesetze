@@ -83,7 +83,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 |                                         |                                                                                                                   |                                                                                                                                                                                                                                                                                                   |
 | Kapitel 4                               |                                                                                                                   |                                                                                                                                                                                                                                                                                                   |
 |                                         | Rechte der betroffenen Person                                                                                     |                                                                                                                                                                                                                                                                                                   |
-|                                         | § 34                                                                                                              | Auskunft an die betroffene Person                                                                                                                                                                                                                                                                 |
+|                                         | § 34                                                                                                              | Auskunft an die betroffene Person; Datenschutzcockpit                                                                                                                                                                                                                                             |
 |                                         |                                                                                                                   |                                                                                                                                                                                                                                                                                                   |
 | Kapitel 5                               |                                                                                                                   |                                                                                                                                                                                                                                                                                                   |
 |                                         | Berichtigung von Daten, Löschung von Daten und Einschränkung der Verarbeitung                                     |                                                                                                                                                                                                                                                                                                   |
@@ -194,9 +194,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 3. die Anlässe nach § 2 Absatz 1 bis 2c,
 
-4. Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach deutschem Recht, Geburtsdatum, Geburtsort, -land und -bezirk, Geschlecht, Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
+4. Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach deutschem Recht, Geburtsdatum, Geburtsort, -land und -bezirk, Geschlechtseintrag, Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
 
-5. abweichende Namensschreibweisen, andere Namen, frühere Namen, Aliaspersonalien, Familienstand, Angaben zum Ausweispapier, letzter Wohnort im Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit und Staatsangehörigkeiten des Ehegatten oder des Lebenspartners (weitere Personalien),
+5. abweichende Namensschreibweisen, andere Namen, frühere Namen und frühere Geschlechtseinträge (frühere Personalien), Aliaspersonalien, Familienstand, Angaben zum Ausweispapier, letzter Wohnort im Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit und Staatsangehörigkeiten des Ehegatten oder des Lebenspartners (weitere Personalien),
 
 5a. das Lichtbild,
 
@@ -286,7 +286,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 4. Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach deutschem Recht, Geburtsdatum, Geburtsort und -bezirk, Geschlecht, Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
 
-5. abweichende Namensschreibweisen, andere Namen, frühere Namen, Aliaspersonalien, Familienstand, Angaben zum Ausweispapier, letzter Wohnort im Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit und zu Staatsangehörigkeiten des Ehegatten oder des Lebenspartners (weitere Personalien),
+5. abweichende Namensschreibweisen, andere Namen, frühere Namen und frühere Geschlechtseinträge (frühere Personalien), Aliaspersonalien, Familienstand, Angaben zum Ausweispapier, letzter Wohnort im Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit und zu Staatsangehörigkeiten des Ehegatten oder des Lebenspartners (weitere Personalien),
 
 6. Angaben zum Zuzug oder Fortzug, zum aufenthaltsrechtlichen Status und das Sterbedatum,
 
@@ -442,7 +442,7 @@ Die nach § 22 Abs. 1 zum Abruf von Daten im automatisierten Verfahren zugelasse
 
 (2) Das Ersuchen muß, soweit vorhanden, die AZR-Nummer, anderenfalls alle verfügbaren Grundpersonalien der betroffenen Person enthalten. Bei Zweifeln an der Identität des Ausländers kann, außer bei Unionsbürgern, das Ersuchen auch nur mit Lichtbild, mit den Fingerabdruckdaten oder den zu den Fingerabdruckdaten gehörigen Referenznummern gestellt werden. Bei Zweifeln an der Echtheit von Ausweispapieren oder Aufenthaltstiteln oder wenn solche Papiere abhanden gekommen sind, kann das Ersuchen auch nur mit Angaben zum Ausweispapier oder zum Aufenthaltstitel gestellt werden. Ein Ersuchen zum Zweck der Erfüllung von Verpflichtungen zum Austausch von Zusatzinformationen nach Artikel 7 oder 8 der Verordnung (EU) 2018/1860 oder nach Artikel 8 der Verordnung (EU) 2018/1861 oder zum Zweck der Datenpflege der Zusatzinformationen kann auch nur mit der Schengen-ID-Nummer gestellt werden. Stimmen die in dem Übermittlungsersuchen bezeichneten Daten mit den gespeicherten Daten nicht überein, ist die Datenübermittlung unzulässig, es sei denn, Zweifel an der Identität bestehen nicht.
 
-(3) Kann die Registerbehörde die Identität nicht eindeutig feststellen, übermittelt sie zur Identitätsprüfung und -feststellung an die ersuchende Stelle neben Hinweisen auf aktenführende Ausländerbehörden die AZR-Nummer, die Grundpersonalien, die weiteren Personalien ähnlicher Personen mit Ausnahme der früheren Namen, die nur auf besonderes Ersuchen übermittelt werden, und die Lichtbilder. Die Ausnahmen in Satz 1 gelten nicht für die Ausländerbehörden und die Aufnahmeeinrichtungen. Kann die Identität nicht allein an Hand dieser Daten festgestellt werden, dürfen den Strafverfolgungsbehörden darüber hinaus weitere Daten übermittelt werden, wenn zu erwarten ist, daß deren Kenntnis die Identitätsfeststellung ermöglicht. Die ersuchende Stelle hat alle Daten, die nicht zur betroffenen Person gehören, unverzüglich zu löschen und entsprechende Aufzeichnungen zu vernichten.
+(3) Kann die Registerbehörde die Identität nicht eindeutig feststellen, übermittelt sie zur Identitätsprüfung und -feststellung an die ersuchende Stelle neben Hinweisen auf aktenführende Ausländerbehörden die AZR-Nummer, die Grundpersonalien, die weiteren Personalien ähnlicher Personen mit Ausnahme der früheren Personalien, die nur auf besonderes Ersuchen übermittelt werden, und die Lichtbilder. Die Ausnahmen in Satz 1 gelten nicht für die Ausländerbehörden und die Aufnahmeeinrichtungen. Kann die Identität nicht allein an Hand dieser Daten festgestellt werden, dürfen den Strafverfolgungsbehörden darüber hinaus weitere Daten übermittelt werden, wenn zu erwarten ist, daß deren Kenntnis die Identitätsfeststellung ermöglicht. Die ersuchende Stelle hat alle Daten, die nicht zur betroffenen Person gehören, unverzüglich zu löschen und entsprechende Aufzeichnungen zu vernichten.
 
 (4) Die AZR-Nummer darf nur im Verkehr mit dem Register genutzt werden. Darüber hinaus darf die AZR-Nummer nur zum Zweck der eindeutigen Zuordnung und nur zusätzlich zu den Grundpersonalien genutzt werden für
 
@@ -518,7 +518,7 @@ und die Daten auf andere Weise nicht, nur mit unverhältnismäßigem Aufwand ode
 
 7. bei Ausländern nach § 2 Absatz 1a und 2 nur zum Zweck, ob die AZR-Nummer nach § 10 Absatz 4 Satz 2 Nummer 4 an andere öffentliche Stellen übermittelt werden darf, zusätzlich die Erteilung einer Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt-EU.
 
-(2) Frühere Namen werden nur auf besonderes Ersuchen übermittelt. Dasselbe gilt für nicht gesperrte Suchvermerke, es sei denn, die öffentliche Stelle, auf deren Ersuchen der Suchvermerk gespeichert worden ist, hat ausdrücklich beantragt, daß auf jedes Ersuchen eine Übermittlung erfolgen soll. Die Sätze 1 und 2 gelten nicht für die Ausländerbehörden und Aufnahmeeinrichtungen.
+(2) Angaben zu früheren Personalien werden nur auf besonderes Ersuchen übermittelt. Dasselbe gilt für nicht gesperrte Suchvermerke, es sei denn, die öffentliche Stelle, auf deren Ersuchen der Suchvermerk gespeichert worden ist, hat ausdrücklich beantragt, daß auf jedes Ersuchen eine Übermittlung erfolgen soll. Die Sätze 1 und 2 gelten nicht für die Ausländerbehörden und Aufnahmeeinrichtungen.
 
 # § 15 – Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Vollzugseinrichtungen, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz
 
@@ -952,7 +952,7 @@ Soweit der Datenabruf noch nicht im automatisierten Verfahren erfolgt, haben die
 
 2. Ort, Land und Bezirk der Geburt,
 
-3. Geschlecht,
+3. Geschlechtseintrag,
 
 4. Staatsangehörigkeiten,
 
@@ -1000,7 +1000,7 @@ Die Registerbehörde übermittelt der Bundesagentur für Arbeit zur Erfüllung d
 
 2. das Geschäftszeichen der Registerbehörde (AZR-Nummer),
 
-3. Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach deutschem Recht, Geburtsdatum, Geburtsort, -land und -bezirk, Geschlecht, Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
+3. Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach deutschem Recht, Geburtsdatum, Geburtsort, -land und -bezirk, Geschlechtseintrag, Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
 
 4. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien,
 
@@ -1196,7 +1196,7 @@ Die Speicherung von Daten eines Ausländers ist zulässig, wenn er ein Visum bea
 
 Die in § 32 bezeichneten Stellen können zum Abruf von Daten im automatisierten Verfahren zugelassen werden. § 22 Absatz 1 Satz 2 bis 4 und Absatz 2 bis 4 gilt entsprechend.
 
-# § 34 – Auskunft an die betroffene Person
+# § 34 – Auskunft an die betroffene Person; Datenschutzcockpit
 
 (1) In dem Antrag auf Auskunft nach Artikel 15 der Verordnung (EU) 2016/679 muss die betroffene Person ihre Grundpersonalien angeben.
 
@@ -1215,6 +1215,8 @@ und deswegen das Interesse der betroffenen Person an der Auskunftserteilung zur�
 (4) Gegenüber der betroffenen Person bedarf die Ablehnung der Auskunftserteilung keiner Begründung, wenn dadurch der mit der Ablehnung verfolgte Zweck gefährdet würde. Die Begründung ist in diesem Fall zum Zweck einer datenschutzrechtlichen Kontrolle schriftlich oder elektronisch niederzulegen und fünf Jahre aufzubewahren. Sie ist durch geeignete Maßnahmen gegen unberechtigten Zugriff zu sichern. Die betroffene Person ist darauf hinzuweisen, dass sie sich an die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit wenden kann.
 
 (5) Wird der betroffenen Person keine Auskunft erteilt, ist sie auf sein oder ihr Verlangen die oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit zu erteilen, soweit nicht die Daten der betroffenen Person von einer der in § 20 Abs. 1 bezeichneten öffentlichen Stelle übermittelt worden sind und die jeweils zuständige oberste Bundesbehörde im Einzelfall feststellt, daß dadurch die Sicherheit des Bundes oder eines Landes gefährdet würde. Die Mitteilung der oder des Bundesbeauftragten an die betroffene Person darf keine Rückschlüsse auf den Erkenntnisstand der speichernden Stelle zulassen, sofern diese nicht einer weitergehenden Auskunft zustimmt.
+
+(6) Die Registerbehörde ist verpflichtet, sämtliche Datenübermittlungen nach diesem Gesetz an das Register und aus dem Register gemäß den §§ 9, 13 zu protokollieren und der betroffenen Person digital über eine zentrale Stelle transparent zu machen (AZR-Datenschutzcockpit). Dazu stellt die Registerbehörde eine IT-Komponente zur Verfügung, mit der sich natürliche Personen Auskünfte zu den sie betreffenden Datenübermittlungen nach diesem Gesetz von öffentlichen Stellen an das Register und vom Register an öffentliche Stellen anzeigen lassen können. Diese Daten werden im AZR-Datenschutzcockpit nur für die Dauer des jeweiligen Nutzungsvorgangs gespeichert; nach Beendigung des Nutzungsvorgangs sind sie unverzüglich zu löschen. Die Absätze 2 bis 5 gelten entsprechend. § 10 des Onlinezugangsgesetzes bleibt unberührt für Datenübermittlungen nach dem Identifikationsnummerngesetz. Sobald das Bundesministerium des Innern und für Heimat im Bundesanzeiger bekannt gibt, dass die technischen und rechtlichen Voraussetzungen für eine Anzeige der Datenübermittlungen nach diesem Gesetz im Datenschutzcockpit nach § 10 des Onlinezugangsgesetzes vorliegen, sollen das Datenschutzcockpit nach dem Onlinezugangsgesetz und das Datenschutzcockpit nach diesem Gesetz in der Weise zusammengeführt werden, dass das AZR-Datenschutzcockpit im Datenschutzcockpit nach dem Onlinezugangsgesetz aufgeht. § 9 Absatz 2 und 3 des Identifikationsnummerngesetzes gilt ab diesem Zeitpunkt entsprechend. Das Nähere zum Zugang, zu den technischen Verfahren, den technischen Formaten der Datensätze und den Übertragungswegen legt das Bundesministerium des Innern und für Heimat durch Rechtsverordnung fest.
 
 # § 34a – Datenschutzrechtliche Kontrolle
 

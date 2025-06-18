@@ -529,6 +529,8 @@ Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die einzureichenden Un
 
 (7) Die Bundesanstalt kann zu den Hauptversammlungen, Generalversammlungen oder Gesellschafterversammlungen sowie zu den Sitzungen der Verwaltungs- oder Aufsichtsorgane von Wertpapierinstituten, Finanzholdinggesellschaften oder gemischten Investmentholdinggesellschaften in der Rechtsform einer juristischen Person Vertreter entsenden. Diese können in der Versammlung oder Sitzung das Wort ergreifen. Die Betroffenen haben Handlungen nach den Sätzen 1 und 2 zu dulden.
 
+(+++ § 5 Abs. 6: Zur Geltung vgl. § 5a Abs. 2 Satz 3 +++)
+
 # § 5a – Besondere Befugnisse nach der Verordnung (EU) 2022/2554
 
 (1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU) 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 sicherzustellen. Insbesondere kann sie gegenüber einem Institut anordnen,

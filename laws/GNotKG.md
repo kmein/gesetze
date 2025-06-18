@@ -279,7 +279,7 @@ werden auch dann von dem nach § 343 des Gesetzes über das Verfahren in Familie
 
 # § 19 – Einforderung der Notarkosten
 
-(1) Die Notarkosten dürfen nur aufgrund einer dem Kostenschuldner mitgeteilten, von dem Notar unterschriebenen oder mit seiner qualifizierten elektronischen Signatur versehenen Berechnung eingefordert werden. Der Lauf der Verjährungsfrist ist nicht von der Mitteilung der Berechnung abhängig.
+(1) Der Notar kann seine Kosten nur aufgrund einer von ihm oder auf seine Veranlassung dem Kostenschuldner mitgeteilten Berechnung fordern; die Berechnung bedarf der Textform. Der Lauf der Verjährungsfrist ist nicht von der Mitteilung der Berechnung abhängig.
 
 (2) Die Berechnung muss enthalten
 
@@ -487,103 +487,104 @@ Die Notarkosten schuldet, wer
 
 (1) Wenn sich die Gebühren nach dem Geschäftswert richten, bestimmt sich die Höhe der Gebühr nach Tabelle A oder Tabelle B.
 
-(2) Die Gebühr beträgt bei einem Geschäftswert bis 500 Euro nach Tabelle A 38 Euro, nach Tabelle B 15 Euro. Die Gebühr erhöht sich bei einem  
+(2) Die Gebühr beträgt bei einem Geschäftswert bis 500 Euro nach Tabelle A 40 Euro, nach Tabelle B 15 Euro. Sie erhöht sich bei einem  
   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 28%" />
-<col style="width: 27%" />
-<col style="width: 23%" />
-<col style="width: 23%" />
+<col style="width: 28%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
 </colgroup>
 <thead data-valign="bottom">
 <tr class="header" data-valign="middle">
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Geschäfts wert<br />
-bis … Euro</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Geschäfts-<br />
+wert<br />
+bis ... Euro</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">für jeden<br />
 angefangenen<br />
 Betrag von<br />
-weiteren … Euro</th>
+weiteren ... Euro</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">in<br />
 
 Tabelle A<br />
-um … Euro</th>
+um ... Euro</th>
 <th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">in<br />
 
 Tabelle B<br />
-um … Euro</th>
+um ... Euro</th>
 </tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">      2 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">      500</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 20</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   4</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">     2 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">      500</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 21,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  4,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">    10 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">    1 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 21</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   6</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    10 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    1 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 22,50</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  6,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">    25 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">    3 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 29</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   8</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    25 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    3 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 30,50</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  8,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">    50 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">    5 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 38</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">  10</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    50 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">    5 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 40,50</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 10,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   200 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   15 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">132</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">  27</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   200 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   15 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">140,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 27,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   500 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   30 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">198</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">  50</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   500 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   30 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">210,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 50,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   über<br />
-   500 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-   50 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-198</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   über<br />
+   500 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
+   50 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
+210,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 5 000 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   50 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">  80</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 5 000 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   50 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 80,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10 000 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">  200 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 130</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">10 000 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  200 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">130,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20 000 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">  250 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 150</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">20 000 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  250 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">150,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">30 000 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">  500 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 280</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">30 000 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  500 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">280,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   über<br />
@@ -592,7 +593,7 @@ um … Euro</th>
 1 000 000</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-120</td>
+120,00</td>
 </tr>
 </tbody>
 </table>
@@ -729,21 +730,23 @@ Im Zusammenhang mit dem Kauf wird der Wert der Sache durch den Kaufpreis bestimm
 
 # § 48 – Land- und forstwirtschaftliches Vermögen
 
-(1) Im Zusammenhang mit der Übergabe oder Zuwendung eines land- oder forstwirtschaftlichen Betriebs mit Hofstelle an eine oder mehrere natürliche Personen einschließlich der Abfindung weichender Erben beträgt der Wert des land- und forstwirtschaftlichen Vermögens im Sinne des Bewertungsgesetzes höchstens das Vierfache des letzten Einheitswerts, der zur Zeit der Fälligkeit der Gebühr bereits festgestellt ist, wenn
+(1) Im Zusammenhang mit der Übergabe oder Zuwendung eines land- oder forstwirtschaftlichen Betriebs mit Hofstelle und dazugehörigem Wohnteil an eine oder mehrere natürliche Personen einschließlich der Abfindung weichender Erben beträgt der Wert des land- und forstwirtschaftlichen Vermögens im Sinne des Bewertungsgesetzes, einschließlich des Grund und Bodens sowie der Gebäude und Gebäudeteile, soweit sie dem Inhaber des Betriebs, den zu seinem Haushalt gehörenden Familienangehörigen oder den Altenteilern zu Wohnzwecken dienen, höchstens 50 Prozent des Grundsteuerwerts des Betriebs der Land- und Forstwirtschaft, der zur Zeit der Fälligkeit der Gebühr bereits festgestellt ist, wenn
 
 1. die unmittelbare Fortführung des Betriebs durch den Erwerber selbst beabsichtigt ist und
 
 2. der Betrieb unmittelbar nach Vollzug der Übergabe oder Zuwendung einen nicht nur unwesentlichen Teil der Existenzgrundlage des zukünftigen Inhabers bildet.
 
-§ 46 Absatz 3 Satz 2 gilt entsprechend. Ist der Einheitswert noch nicht festgestellt, so ist dieser vorläufig zu schätzen; die Schätzung ist nach der ersten Feststellung des Einheitswerts zu berichtigen; die Frist des § 20 Absatz 1 beginnt erst mit der Feststellung des Einheitswerts. In dem in Artikel 3 des Einigungsvertrages genannten Gebiet gelten für die Bewertung des land- und forstwirtschaftlichen Vermögens die Vorschriften des Dritten Abschnitts im Zweiten Teil des Bewertungsgesetzes mit Ausnahme von § 125 Absatz 3; § 126 Absatz 2 des Bewertungsgesetzes ist sinngemäß anzuwenden.
+§ 46 Absatz 3 Satz 2 gilt entsprechend.
 
-(2) Weicht der Gegenstand des gebührenpflichtigen Geschäfts vom Gegenstand der Einheitsbewertung oder vom Gegenstand der Bildung des Ersatzwirtschaftswerts wesentlich ab oder hat sich der Wert infolge bestimmter Umstände, die nach dem Feststellungszeitpunkt des Einheitswerts oder des Ersatzwirtschaftswerts eingetreten sind, wesentlich verändert, so ist der nach den Grundsätzen der Einheitsbewertung oder der Bildung des Ersatzwirtschaftswerts geschätzte Wert maßgebend.
+(2) Ist der Grundsteuerwert noch nicht festgestellt, so beträgt der Wert nach Absatz 1 Satz 1 höchstens das Vierfache des zuletzt festgestellten Einheitswerts; § 266 Absatz 4 Satz 1 und 2 des Bewertungsgesetzes gilt insoweit nicht. Die Bewertung nach dem Einheitswert ist nach der ersten Feststellung des Grundsteuerwerts zu berichtigen. Die Frist des § 20 Absatz 1 beginnt erst mit der Feststellung des Grundsteuerwerts.
 
-(3) Die Absätze 1 und 2 sind entsprechend anzuwenden für die Bewertung
+(3) Weicht der Gegenstand des gebührenpflichtigen Geschäfts vom Gegenstand der Grundsteuerbewertung wesentlich ab oder hat sich der Wert infolge bestimmter Umstände, die nach dem Feststellungszeitpunkt des Grundsteuerwerts eingetreten sind, wesentlich verändert, so ist der nach den Grundsätzen der Grundsteuerbewertung geschätzte Wert maßgebend.
 
-1. eines Hofs im Sinne der Höfeordnung und
+(4) Die Absätze 1 bis 3 sind entsprechend anzuwenden für die Bewertung
 
-2. eines landwirtschaftlichen Betriebs in einem Verfahren aufgrund der Vorschriften über die gerichtliche Zuweisung eines Betriebs (§ 1 Nummer 2 des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen), sofern das Verfahren mit der Zuweisung endet.
+1. eines Hofes im Sinne der Höfeordnung und
+
+2. eines landwirtschaftlichen Betriebs in einem Verfahren aufgrund der Vorschriften über die gerichtliche Zuweisung eines Betriebs (§ 1 Nummer 2 des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen), sofern das Verfahren mit der Zuweisung endet.
 
 # § 49 – Grundstücksgleiche Rechte
 
@@ -864,7 +867,7 @@ Wenn keine genügenden Anhaltspunkte für einen höheren Wert von Anteilen an Ka
 
 (2) Das Verfahren über eine Abänderung oder Aufhebung einer Entscheidung gilt als besonderes Verfahren, soweit im Kostenverzeichnis nichts anderes bestimmt ist.
 
-# § 58 – Eintragungen in das Handels-,  Genossenschafts-,  Gesellschafts-  oder Partnerschaftsregister; Verordnungsermächtigung
+# § 58 – Eintragungen in das Handels-, Genossenschafts-, Gesellschafts- oder Partnerschaftsregister; Verordnungsermächtigung
 
 (1) Gebühren werden nur aufgrund einer Rechtsverordnung (Handelsregistergebührenverordnung) erhoben für
 
@@ -880,7 +883,7 @@ Wenn keine genügenden Anhaltspunkte für einen höheren Wert von Anteilen an Ka
 
 Keine Gebühren werden erhoben für die aus Anlass eines Insolvenzverfahrens von Amts wegen vorzunehmenden Eintragungen und für Löschungen nach § 395 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
-(2) Die Rechtsverordnung nach Absatz 1 erlässt das Bundesministerium der Justiz und für Verbraucherschutz. Sie bedarf der Zustimmung des Bundesrates. Die Höhe der Gebühren richtet sich nach den auf die Amtshandlungen entfallenden durchschnittlichen Personal- und Sachkosten; Gebühren für Fälle der Zurücknahme oder Zurückweisung von Anmeldungen können jedoch bestimmt werden, indem die für die entsprechenden Eintragungen zu erhebenden Gebühren pauschal mit Ab- oder Zuschlägen versehen werden. Die auf gebührenfreie Eintragungen entfallenden Personal- und Sachkosten können bei der Höhe der für andere Eintragungen festgesetzten Gebühren berücksichtigt werden.
+(2) Die Rechtsverordnung nach Absatz 1 erlässt das Bundesministerium der Justiz. Sie bedarf der Zustimmung des Bundesrates. Die Höhe der Gebühren richtet sich nach den auf die Amtshandlungen entfallenden durchschnittlichen Personal- und Sachkosten; Gebühren für Fälle der Zurücknahme oder Zurückweisung von Anmeldungen können jedoch bestimmt werden, indem die für die entsprechenden Eintragungen zu erhebenden Gebühren pauschal mit Ab- oder Zuschlägen versehen werden. Die auf gebührenfreie Eintragungen entfallenden Personal- und Sachkosten können bei der Höhe der für andere Eintragungen festgesetzten Gebühren berücksichtigt werden.
 
 # § 59 – Zeitpunkt der Wertberechnung
 
@@ -1552,7 +1555,7 @@ Artikel 1 Absatz 2 und Artikel 2 des Einführungsgesetzes zum Bürgerlichen Gese
 
 # § 133 – Bekanntmachung von Neufassungen
 
-Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
+Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
 
 1. den Stichtag, zu dem der Wortlaut festgestellt wird,
 
@@ -1906,7 +1909,7 @@ Betreuungssachen und betreuungsgerichtliche Zuweisungssachen</td>
 </tr>
 <tr class="odd">
 <td colspan="3" data-valign="top" data-charoff="50">Vorbemerkung 1.1:<br />
- (1) In Betreuungssachen werden von dem Betroffenen Gebühren nach diesem Hauptabschnitt nur erhoben, wenn zum Zeitpunkt der Fälligkeit der jeweiligen Gebühr sein Vermögen nach Abzug der Verbindlichkeiten mehr als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet.<br />
+ (1) In Betreuungssachen werden von dem Betroffenen Gebühren nach diesem Hauptabschnitt nur nach Maßgabe des § 1880 Abs. 2 BGB erhoben. Maßgeblich ist der Zeitpunkt der Fälligkeit.<br />
  (2) Im Verfahren vor dem Registergericht über die Bestellung eines Vertreters des Schiffseigentümers nach § 42 Abs. 2 des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken werden die gleichen Gebühren wie für eine betreuungsgerichtliche Zuweisungssache nach § 340 Nr. 2 FamFG erhoben.</td>
 </tr>
 <tr class="even">
@@ -1930,7 +1933,7 @@ Dieser Abschnitt ist auch anzuwenden, wenn ein vorläufiger Betreuer bestellt wo
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">11101</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Jahresgebühr für jedes angefangene Kalenderjahr bei einer Dauerbetreuung, wenn nicht Nummer 11102 anzuwenden ist  .......... <br />
- (1) Für die Gebühr wird das Vermögen des von der Maßnahme Betroffenen nur berücksichtigt, soweit es nach Abzug der Verbindlichkeiten mehr als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet. Ist Gegenstand der Betreuung ein Teil des Vermögens, ist höchstens dieser Teil des Vermögens zu berücksichtigen.<br />
+ (1) Für die Gebühr wird das Vermögen des von der Maßnahme Betroffenen nur berücksichtigt, soweit es nach Abzug der Verbindlichkeiten mehr als 10 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet. Ist Gegenstand der Betreuung ein Teil des Vermögens, ist höchstens dieser Teil des Vermögens zu berücksichtigen.<br />
  (2) Für das bei der ersten Bestellung eines Betreuers laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben. Geht eine vorläufige Betreuung in eine endgültige über, handelt es sich um ein einheitliches Verfahren.<br />
  (3) Dauert die Betreuung nicht länger als drei Monate, beträgt die Gebühr abweichend von dem in der Gebührenspalte bestimmten Mindestbetrag 100,00 €.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
@@ -2087,13 +2090,13 @@ Verwahrung und Eröffnung von Verfügungen von Todes wegen</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12100</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Annahme einer Verfügung von Todes wegen in besondere amtliche Verwahrung  .......... <br />
  Mit der Gebühr wird auch die Verwahrung, die Mitteilung nach § 347 FamFG und die Herausgabe abgegolten.</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 75,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 82,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12101</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eröffnung einer Verfügung von Todes wegen  .......... <br />
  Werden mehrere Verfügungen von Todes wegen desselben Erblassers bei demselben Gericht gleichzeitig eröffnet, so ist nur eine Gebühr zu erheben.</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">100,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">109,00 €</td>
 </tr>
 <tr class="even">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2<br />
@@ -2141,7 +2144,7 @@ Die Gebühr 12210 ermäßigt sich auf  .......... </td>
 <br />
 <br />
 0,3<br />
-– höchstens 200,00 €</td>
+– höchstens 218,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12212</td>
@@ -2150,7 +2153,7 @@ Die Gebühr 12210 ermäßigt sich auf  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 0,5<br />
-– höchstens 400,00 €</td>
+– höchstens 436,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12213</td>
@@ -2163,7 +2166,7 @@ Die Gebühr 12210 ermäßigt sich auf  .......... </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Beendigung des Verfahrens ohne Erteilung des Zeugnisses:<br />
 Die Gebühr 12213 beträgt  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-höchstens 200,00 €</td>
+höchstens 218,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12215</td>
@@ -2178,13 +2181,13 @@ höchstens 200,00 €</td>
 <br />
 <br />
 0,5<br />
-– höchstens 400,00 €</td>
+– höchstens 436,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12216</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über den Widerruf eines Europäischen Nachlasszeugnisses  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">0,5<br />
-– höchstens 400,00 €</td>
+– höchstens 436,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12217</td>
@@ -2197,7 +2200,7 @@ höchstens 200,00 €</td>
  Neben der Gebühr wird keine Dokumentenpauschale erhoben.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-20,00 €</td>
+22,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 2<br />
@@ -2208,7 +2211,7 @@ Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12220</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren im Allgemeinen  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">1,0<br />
-– höchstens 800,00 €</td>
+– höchstens 872,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12221</td>
@@ -2218,7 +2221,7 @@ Die Gebühr 12220 ermäßigt sich auf  .......... </td>
 <br />
 <br />
 0,3<br />
-– höchstens 200,00 €</td>
+– höchstens 218,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12222</td>
@@ -2229,7 +2232,7 @@ Die Gebühr 12220 ermäßigt sich auf  .......... <br />
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 0,5<br />
-– höchstens 400,00 €</td>
+– höchstens 436,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 3<br />
@@ -2240,7 +2243,7 @@ Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12230</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren im Allgemeinen  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">1,5<br />
-– höchstens 1 200,00 €</td>
+– höchstens 1 308,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12231</td>
@@ -2250,7 +2253,7 @@ Die Gebühr 12230 ermäßigt sich auf  .......... </td>
 <br />
 <br />
 0,5<br />
-– höchstens 400,00 €</td>
+– höchstens 436,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12232</td>
@@ -2260,7 +2263,7 @@ Die Gebühr 12230 ermäßigt sich auf  .......... </td>
 <br />
 <br />
 1,0<br />
-– höchstens 800,00 €</td>
+– höchstens 872,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 4<br />
@@ -2273,7 +2276,7 @@ Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptge
 Soweit der Antrag abgelehnt wird:  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 0,5<br />
-– höchstens 400,00 €</td>
+– höchstens 436,00 €</td>
 </tr>
 </tbody>
 </table>
@@ -2429,7 +2432,7 @@ Entgegennahme von Erklärungen, Fristbestimmungen und Nachlassinventar</td>
 6. eines Nachlassinventars oder einer Erklärung nach § 2004 BGB oder<br />
 7. der Erklärung eines Hoferben über die Wahl des Hofes gemäß § 9 Abs. 2 Satz 1 HöfeO.<br />
  (2) Für die gleichzeitige Entgegennahme mehrerer Forderungsanmeldungen, Erklärungen oder Anzeigen nach derselben Nummer entsteht die Gebühr nur einmal.</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">15,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">16,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12411</td>
@@ -2444,17 +2447,17 @@ Entgegennahme von Erklärungen, Fristbestimmungen und Nachlassinventar</td>
 <br />
 <br />
 <br />
-25,00 €</td>
+27,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12412</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über den Antrag des Erben, einen Notar mit der amtlichen Aufnahme des Nachlassinventars zu beauftragen  .......... </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">40,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">44,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12413</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die Erteilung einer Bescheinigung, die die Annahme des Amtes als Testamentsvollstrecker bestätigt  ..........</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">50,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">55,00 €</td>
 </tr>
 <tr class="even">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 2<br />
@@ -2654,7 +2657,7 @@ Vereinsregistersachen</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">13101</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über eine spätere Eintragung in das Vereinsregister  .......... <br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über eine Eintragung in das Vereinsregister, soweit es sich nicht um eine Ersteintragung handelt  .......... <br />
  (1) Bei einer Sitzverlegung in den Bezirk eines anderen Registergerichts wird die Gebühr für eine spätere Eintragung nur durch das Gericht erhoben, in dessen Bezirk der Sitz verlegt worden ist.<br />
  (2) Die Gebühr wird für mehrere Eintragungen nur einmal erhoben, wenn die Anmeldungen am selben Tag beim Registergericht eingegangen sind und denselben Verein betreffen.<br />
  (3) Für die Eintragung<br />
@@ -4271,7 +4274,7 @@ Soweit ein Vergleich über nicht gerichtlich anhängige Gegenstände geschlossen
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Anordnung von Zwangsmaßnahmen durch Beschluss nach § 35 FamFG:<br />
 je Anordnung  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-22,00 €</td>
+24,00 €</td>
 </tr>
 </tbody>
 </table>
@@ -4307,70 +4310,75 @@ Vollstreckung</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">18000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die Erteilung einer vollstreckbaren Ausfertigung einer notariellen Urkunde, wenn der Eintritt einer Tatsache oder einer Rechtsnachfolge zu prüfen ist (§§ 726 bis 729 ZPO)  .......... </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die Erteilung einer vollstreckbaren Ausfertigung einer notariellen Urkunde, wenn der Eintritt einer Tatsache oder einer Rechtsnachfolge zu prüfen ist (§ 726 Abs. 1, § 727, auch i. V. m. den §§ 728, 729, 738, 742, 744, 744a, 745 Abs. 2 oder § 749 ZPO)  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
 <br />
 0,5</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">18001</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 733 ZPO)  .......... <br />
- Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert erhoben.</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-22,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 733 ZPO) oder auf Erteilung einer vollstreckbaren Ausfertigung für oder gegen einen Rechtsnachfolger (§ 727, auch i. V. m. den §§ 728, 729, 738, 742, 744, 744a, 745 Abs. 2 oder § 749 ZPO), soweit nicht Nummer 18000 anzuwenden ist .......... </td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50">24,00 €</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">18002</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Anordnung der Vornahme einer vertretbaren Handlung durch einen Dritten  .......... </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 22,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> (1) Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert erhoben.<br />
+ (2) In Verfahren über den Antrag auf Erteilung einer vollstreckbaren Ausfertigung für oder gegen einen Rechtsnachfolger wird die Gebühr im Fall der erstmaligen Erteilung einer vollstreckbaren Ausfertigung nicht erhoben.</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">18002</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Anordnung der Vornahme einer vertretbaren Handlung durch einen Dritten  .......... </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 24,00 €</td>
+</tr>
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">18003</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Anordnung von Zwangs- oder Ordnungsmitteln:<br />
 je Anordnung  .......... <br />
  Mehrere Anordnungen gelten als eine Anordnung, wenn sie dieselbe Verpflichtung betreffen. Dies gilt nicht, wenn Gegenstand der Verpflichtung die wiederholte Vornahme einer Handlung oder eine Unterlassung ist.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
- 22,00 €</td>
+ 24,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">18004</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren zur Abnahme einer eidesstattlichen Versicherung (§ 94 FamFG)  .......... <br />
  Die Gebühr entsteht mit der Anordnung des Gerichts, dass der Verpflichtete eine eidesstattliche Versicherung abzugeben hat, oder mit dem Eingang des Antrags des Berechtigten.</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 35,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 38,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Hauptabschnitt 9<br />
 
 Rechtsmittel im Übrigen und<br />
 
 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 1<br />
 
 Rechtsmittel im Übrigen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 1<br />
 
 Sonstige Beschwerden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19110</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die Beschwerde in den Fällen des § 129 GNotKG und des § 372 Abs. 1 FamFG  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
- 99,00 €</td>
+108,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19111</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Beendigung des gesamten Verfahrens ohne Endentscheidung:<br />
 Die Gebühr 19110 ermäßigt sich auf  .......... <br />
  (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.<br />
  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
- 66,00 €</td>
+ 72,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19112</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die Beschwerde gegen Entscheidungen, die sich auf Tätigkeiten des Registergerichts beziehen, für die Gebühren nach der HRegGebV zu erheben sind:<br />
 Die Beschwerde wird verworfen oder zurückgewiesen  .......... <br />
@@ -4381,7 +4389,7 @@ Die Beschwerde wird verworfen oder zurückgewiesen  .......... <br />
 der Gebühr für die<br />
 Eintragung nach der HRegGebV</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19113</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die in Nummer 19112 genannte Beschwerde:<br />
 Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  .......... </td>
@@ -4392,7 +4400,7 @@ Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des An
 der Gebühr für die<br />
 Eintragung nach der HRegGebV</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19114</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die in Nummer 19112 genannte Beschwerde:<br />
 Beendigung des gesamten Verfahrens ohne Endentscheidung, wenn nicht Nummer 19113 erfüllt ist  .......... <br />
@@ -4403,7 +4411,7 @@ Beendigung des gesamten Verfahrens ohne Endentscheidung, wenn nicht Nummer 19113
 der Gebühr für die<br />
 Eintragung nach der HRegGebV</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19115</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die Beschwerde nach § 335a Abs. 1 HGB:<br />
 Die Beschwerde wird verworfen oder zurückgewiesen  .......... <br />
@@ -4411,44 +4419,44 @@ Die Beschwerde wird verworfen oder zurückgewiesen  .......... <br />
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 150,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19116</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über eine nicht besonders aufgeführte Beschwerde, die nicht nach anderen Vorschriften gebührenfrei ist:<br />
 Die Beschwerde wird verworfen oder zurückgewiesen  .......... <br />
  Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
- 66,00 €</td>
+ 72,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 2<br />
 
 Sonstige Rechtsbeschwerden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19120</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die Rechtsbeschwerde in den Fällen des § 129 GNotKG und des § 372 Abs. 1 FamFG  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-198,00 €</td>
+216,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19121</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist:<br />
 Die Gebühr 19120 ermäßigt sich auf  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
- 66,00 €</td>
+ 72,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19122</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 19121 erfüllt ist:<br />
 Die Gebühr 19120 ermäßigt sich auf  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
- 99,00 €</td>
+ 108,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19123</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die Rechtsbeschwerde gegen Entscheidungen, die sich auf Tätigkeiten des Registergerichts beziehen, für die Gebühren nach der HRegGebV zu erheben sind:<br />
 Die Rechtsbeschwerde wird verworfen oder zurückgewiesen  .......... <br />
@@ -4460,7 +4468,7 @@ Die Rechtsbeschwerde wird verworfen oder zurückgewiesen  .......... <br />
 der Gebühr für die<br />
 Eintragung nach der HRegGebV</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19124</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die in Nummer 19123 genannte Rechtsbeschwerde:<br />
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  .......... </td>
@@ -4471,7 +4479,7 @@ Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder 
 der Gebühr für die<br />
 Eintragung nach der HRegGebV</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19125</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die in Nummer 19123 genannte Rechtsbeschwerde:<br />
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 19124 erfüllt ist  .......... </td>
@@ -4482,7 +4490,7 @@ Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder 
 der Gebühr für die<br />
 Eintragung nach der HRegGebV</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19126</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die Rechtsbeschwerde in den Fällen des § 335a Abs. 3 HGB:<br />
 Die Rechtsbeschwerde wird verworfen oder zurückgewiesen ..........<br />
@@ -4492,7 +4500,7 @@ Die Rechtsbeschwerde wird verworfen oder zurückgewiesen ..........<br />
 <br />
 300,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19127</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die in Nummer 19126 genannte Rechtsbeschwerde:<br />
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird ..........</td>
@@ -4500,48 +4508,48 @@ Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder 
 <br />
 150,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19128</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über eine nicht besonders aufgeführte Rechtsbeschwerde, die nicht nach anderen Vorschriften gebührenfrei ist:<br />
 Die Rechtsbeschwerde wird verworfen oder zurückgewiesen  .......... <br />
  Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-132,00 €</td>
+144,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19129</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die in Nummer 19128 genannte Rechtsbeschwerde:<br />
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
- 66,00 €</td>
+ 72,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 3<br />
 
 Zulassung der Sprungrechtsbeschwerde in sonstigen Fällen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19130</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die Zulassung der Sprungrechtsbeschwerde in den nicht besonders aufgeführten Fällen:<br />
 Der Antrag wird abgelehnt  ..........  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
- 66,00 €</td>
+ 72,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2<br />
 
 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19200</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör:<br />
 Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
- 66,00 €</td>
+ 72,00 €</td>
 </tr>
 </tbody>
 </table>
@@ -5109,7 +5117,7 @@ Vorbereitung der Zwangsvollstreckung</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">23800</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahren über die Vollstreckbarerklärung eines Anwaltsvergleichs nach § 796a ZPO  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
- 66,00 €</td>
+ 72,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">23801</td>
@@ -5126,7 +5134,7 @@ Die Gebühr 23801 ermäßigt sich auf  .......... </td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">23803</td>
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahren über die Erteilung einer vollstreckbaren Ausfertigung, wenn der Eintritt einer Tatsache oder einer Rechtsnachfolge zu prüfen ist (§§ 726 bis 729 ZPO)  .......... </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahren über die Erteilung einer vollstreckbaren Ausfertigung, wenn der Eintritt einer Tatsache oder einer Rechtsnachfolge zu prüfen ist (§ 726 Abs. 1, § 727, auch i. V. m. den §§ 728, 729, 738, 742, 744, 744a, 745 Abs. 2 oder § 749 ZPO)  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 0,5</td>
 </tr>
@@ -5135,31 +5143,31 @@ Die Gebühr 23801 ermäßigt sich auf  .......... </td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 797 Abs. 2, § 733 ZPO)  ..........<br />
 Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert erhoben.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-22,00 €</td>
+24,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">23805</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahren über die Ausstellung einer Bestätigung nach § 1079 ZPO oder über die Ausstellung einer Bescheinigung nach § 1110 ZPO  .......... </td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> 22,00 €</td>
+<td style="text-align: center;" data-valign="bottom" data-charoff="50"> 24,00 €</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">23806</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahren über einen Antrag auf Vollstreckbarerklärung einer notariellen Urkunde nach § 55 Abs. 3 AVAG, nach § 35 Abs. 3 AUG, nach § 3 Abs. 4 IntErbRVG oder nach § 4 Abs. 4 IntGüRVG .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-264,00 €</td>
+288,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">23807</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Beendigung des gesamten Verfahrens durch Zurücknahme des Antrags:<br />
 Die Gebühr 23806 ermäßigt sich auf  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
- 99,00 €</td>
+108,00 €</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">23808</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahren über die Ausstellung einer Bescheinigung nach § 57 AVAG, § 27 IntErbRVG oder § 27 IntGüRVG oder für die Ausstellung des Formblatts oder der Bescheinigung nach § 71 Abs. 1 AUG  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
- 17,00 €</td>
+ 19,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 9<br />
@@ -5332,7 +5340,7 @@ Die Gebühr 25100 beträgt  .......... </td>
  (2) Die Gebühr wird nicht erhoben für die Erteilung<br />
 1. beglaubigter Kopien oder Ausdrucke der vom Notar aufgenommenen oder entworfenen oder in Urschrift in seiner dauernden Verwahrung befindlichen Urkunden und<br />
 2. beglaubigter Kopien vorgelegter Vollmachten und Ausweise über die Berechtigung eines gesetzlichen Vertreters, die der vom Notar gefertigten Niederschrift beizulegen sind (§ 12 BeurkG).<br />
- (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein elektronisches Dokument übertragenes Schriftstück gleich, insbesondere wenn dieses einer vom Notar gefertigten elektronischen Niederschrift beigefügt ist (§ 16d des Beurkundungsgesetzes).</td>
+ (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein elektronisches Dokument übertragenes Schriftstück gleich, insbesondere wenn dieses einer vom Notar gefertigten elektronischen Niederschrift beigefügt ist (§ 16d BeurkG).</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">1,00 €<br />
 für jede<br />
 angefangene<br />
@@ -5609,7 +5617,7 @@ Auslagen der Gerichte</td>
 <tr class="odd">
 <td colspan="3" data-valign="top" data-charoff="50">Vorbemerkung 3.1:<br />
  (1) Auslagen, die durch eine für begründet befundene Beschwerde entstanden sind, werden nicht erhoben, soweit das Beschwerdeverfahren gebührenfrei ist; dies gilt jedoch nicht, soweit das Beschwerdegericht die Kosten dem Gegner des Beschwerdeführers auferlegt hat.<br />
- (2) In Betreuungssachen werden von dem Betroffenen Auslagen nur unter den in Vorbemerkung 1.1 Abs. 1 genannten Voraussetzungen erhoben. Satz 1 gilt nicht für die Auslagen 31015.</td>
+ (2) In Betreuungssachen werden von dem Betroffenen Auslagen nur unter den in Vorbemerkung 1.1 Abs. 1 genannten Voraussetzungen erhoben.</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">31000</td>
@@ -5707,13 +5715,20 @@ in voller Höhe</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">31008</td>
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auslagen für<br />
-1. die Beförderung von Personen  .......... <br />
-2. Zahlungen an mittellose Personen für die Reise zum Ort einer Verhandlung oder Anhörung sowie für die Rückreise  .......... </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auslagen</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50"> </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">1. der Beförderung von Personen ..........</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">in voller Höhe</td>
+</tr>
+<tr class="even">
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50"> </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">2. der Gewährung von Reiseentschädigungen für mittellose Personen, soweit diese Kosten nicht Auslagen nach Nummer 31005 sind ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-in voller Höhe<br />
-<br />
-bis zur Höhe der nach dem JVEG an Zeugen zu zahlenden Beträge</td>
+bis zur Höhe der nach dem JVEG<br />
+an Zeugen zu zahlenden Beträge</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">31009</td>
@@ -5769,8 +5784,7 @@ in voller Höhe</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">31015</td>
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">An den Verfahrenspfleger zu zahlende Beträge  .......... <br />
- Die Beträge werden von dem Betroffenen nur nach Maßgabe des § 1880 Abs. 2 BGB erhoben.</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">An den Verfahrenspfleger zu zahlende Beträge  .......... </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">in voller Höhe</td>
 </tr>
 <tr class="even">
@@ -5950,6 +5964,4 @@ in voller Höhe</td>
 
 # Anlage 2 – (zu § 34 Absatz 3)
 
-(Fundstelle: BGBl. I 2020, 3238)
-
- 
+(Fundstelle: BGBl. 2025 I Nr. 109, S. 18)

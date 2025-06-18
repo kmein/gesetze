@@ -235,7 +235,7 @@ Die Zulassung zur Rechtsanwaltschaft erlischt, wenn durch ein rechtskräftiges U
 
 4. von dem Rechtsanwalt mitgeteilte Telekommunikationsdaten und Internetadressen der Kanzlei und bestehender weiterer Kanzleien und Zweigstellen;
 
-5. die Berufsbezeichnung und Fachanwaltsbezeichnungen;
+5. die Berufsbezeichnung und Fachanwaltsbezeichnungen; bei ausländischen Rechtsanwälten zudem den Herkunftsstaat der Berufsbezeichnung sowie die Rechtsgrundlage der Aufnahme in die Rechtsanwaltskammer;
 
 6. den Zeitpunkt der Zulassung;
 
@@ -959,6 +959,8 @@ Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein Insolvenzverf
 
 (3) Mit der Zulassung wird die Berufsausübungsgesellschaft Mitglied der zulassenden Rechtsanwaltskammer.
 
+(4) Die Rechtsanwaltskammer teilt dem Berufshaftpflichtversicherer, der in der Berufshaftpflichtversicherung oder der vorläufigen Deckungszusage angegeben ist, die Zulassung mit.
+
 # § 59g – Zulassungsverfahren; Anzeigepflicht
 
 (1) Der Antrag auf Zulassung muss folgende Angaben enthalten:
@@ -967,7 +969,7 @@ Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein Insolvenzverf
 
 2. die Geschäftsanschriften der Niederlassungen der Berufsausübungsgesellschaft sowie
 
-3. Name und Beruf der Gesellschafter, der Mitglieder der Geschäftsführungs- und Aufsichtsorgane sowie aller mittelbar beteiligten Personen.
+3. Name und Beruf der Gesellschafter, der Mitglieder der Geschäftsführungs- und Aufsichtsorgane sowie aller mittelbar beteiligten Personen; sofern Gesellschafter eine zugelassene Berufsausübungsgesellschaft ist, müssen Name und Beruf der an ihr mittelbar beteiligten Personen nicht angegeben werden.
 
 Die zuständige Rechtsanwaltskammer kann zur Prüfung der Voraussetzungen des § 59f Absatz 2 die Vorlage geeigneter Nachweise einschließlich des Gesellschaftsvertrags oder der Satzung verlangen. § 57 gilt entsprechend.
 
@@ -1071,7 +1073,7 @@ Berufsausübungsgesellschaften sind befugt, Rechtsdienstleistungen im Sinne des 
 
 (1) Berufsausübungsgesellschaften sind verpflichtet, eine Berufshaftpflichtversicherung abzuschließen und während der Dauer ihrer Betätigung aufrechtzuerhalten.
 
-(2) Die Berufshaftpflichtversicherung muss die Haftpflichtgefahren für Vermögensschäden decken, die sich aus der Beratung und Vertretung in Rechtsangelegenheiten ergeben. § 51 Absatz 1 Satz 2, Absatz 2, 3 Nummer 2 bis 5 und Absatz 5 bis 7 ist entsprechend anzuwenden. Ist die Haftung der Gesellschaft nicht rechtsformbedingt beschränkt und liegt keine Beschränkung der Haftung der natürlichen Personen vor, so ist auch § 51 Absatz 3 Nummer 1 entsprechend anzuwenden.
+(2) Die Berufshaftpflichtversicherung muss die Haftpflichtgefahren für Vermögensschäden decken, die sich aus der Beratung und Vertretung in Rechtsangelegenheiten ergeben. § 51 Absatz 1 Satz 2, Absatz 2, 3 Nummer 2 bis 5 und Absatz 5 ist entsprechend anzuwenden; § 51 Absatz 6 und 7 ist mit der Maßgabe entsprechend anzuwenden, dass er nur für zugelassene Berufsausübungsgesellschaften gilt. Ist die Haftung der Gesellschaft nicht rechtsformbedingt beschränkt und liegt keine Beschränkung der Haftung der natürlichen Personen vor, so ist auch § 51 Absatz 3 Nummer 1 entsprechend anzuwenden.
 
 (3) Wird die Berufshaftpflichtversicherung nicht oder nicht in dem vorgeschriebenen Umfang unterhalten, so haften neben der Berufsausübungsgesellschaft die Gesellschafter und die Mitglieder des Geschäftsführungsorgans persönlich in Höhe des fehlenden Versicherungsschutzes.
 

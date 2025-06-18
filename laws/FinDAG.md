@@ -383,7 +383,9 @@ oder die sich auf Finanzinstrumente nach den Nummern 1 bis 3 beziehen. Satz 1 gi
 
 (5) Die Bundesanstalt muss angemessene interne Vorkehrungen treffen, die geeignet sind, Interessenkonflikten der Beschäftigten bei ihren dienstlichen Tätigkeiten mit ihren privaten Interessen im Hinblick auf ihre privaten Finanzgeschäfte entgegenzuwirken. Die Beschäftigten der Bundesanstalt sind zur Erteilung von Auskünften und zur Vorlage von Unterlagen über Finanzinstrumente nach Absatz 1 und Kryptowerte nach Absatz 1a und weitere Anlageprodukte nach Absatz 6 Satz 3 Nummer 1 verpflichtet, soweit diese Pflichten nicht bereits in Absatz 4 enthalten sind und es für die Prüfung der Bundesanstalt oder der von ihr beauftragten Person auf Interessenkonflikte notwendig ist. Der Bundesanstalt oder der von ihr beauftragten Person wird die Befugnis eingeräumt, durch Richtlinien Konkretisierungen zu den in der Rechtsverordnung vorgenommenen Bestimmungen vorzunehmen. § 6 Absatz 15 des Wertpapierhandelsgesetzes ist anzuwenden.
 
-(6) Das Bundesministerium kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Rechtsverhältnisse der Beschäftigten der Bundesanstalt regeln, soweit die Bedürfnisse einer integren Allfinanzaufsicht es erfordern, insbesondere, um Marktmanipulation, Insidergeschäften, der Besorgnis der Befangenheit bei der Ausübung dienstlicher Tätigkeiten sowie der Ausnutzung dienstlicher Wissensvorsprünge zu privaten Zwecken entgegenzuwirken. Hierbei sind die Vorgaben der Leitlinie (EU) 2021/2556 der Europäischen Zentralbank vom 2. November 2021 zur Festlegung der Grundsätze des Ethikrahmens für den Einheitlichen Aufsichtsmechanismus (ABl. L 454 vom 17.12.2021, S. 21) entsprechend umzusetzen. Es können Regelungen getroffen werden zu
+(6) Das Bundesministerium kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Rechtsverhältnisse der Beschäftigten der Bundesanstalt regeln, soweit die Bedürfnisse einer integren Allfinanzaufsicht es erfordern, insbesondere, um Marktmanipulation, Insidergeschäften, der Besorgnis der Befangenheit bei der Ausübung dienstlicher Tätigkeiten sowie der Ausnutzung dienstlicher Wissensvorsprünge zu privaten Zwecken entgegenzuwirken. Hierbei sind die Vorgaben der
+
+Leitlinie (EU) 2021/2556 der Europäischen Zentralbank vom 2. November 2021 zur Festlegung der Grundsätze des Ethikrahmens für den Einheitlichen Aufsichtsmechanismus (ABl. L 454 vom 17.12.2021, S. 21) entsprechend umzusetzen. Es können Regelungen getroffen werden zu
 
 1. der Ausweitung, Beschränkung und Ausgestaltung der Verbote nach Absatz 1 in Bezug auf betroffene Finanzinstrumente sowie weitere Finanzanlageprodukte und
 
@@ -392,6 +394,8 @@ oder die sich auf Finanzinstrumente nach den Nummern 1 bis 3 beziehen. Satz 1 gi
 In der Rechtsverordnung kann vorgesehen werden, dass der Bundesanstalt oder der von ihr beauftragten Person die Befugnis eingeräumt wird, durch Richtlinien nähere Konkretisierungen zu den in der Rechtsverordnung vorgenommenen Bestimmungen zu erlassen. Das Bundesministerium kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 (7) In der Rechtsverordnung nach Absatz 6 kann für die Beamtinnen und Beamten der Bundesanstalt festgesetzt werden, dass die Beamtinnen und Beamten der Bundesanstalt zur Ausübung einer in § 100 Absatz 1 Nummer 2 des Bundesbeamtengesetzes bezeichneten Nebentätigkeit der vorherigen Genehmigung bedürfen, soweit für sie ein Entgelt oder ein geldwerter Vorteil geleistet wird.
+
+§ 11a Abs. 6 Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde die Angabe "Leitlinie (EU) 2021/2556" durch die Angabe "Leitlinie (EU) 2021/2256" ersetzt
 
 # § 12 – Haushaltsplan, Rechnungslegung
 
@@ -590,7 +594,7 @@ Die Kosten des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen, die 
 (+++ § 16e Abs. 1 Satz 1 Nr. 1 in der ab 10.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 12 +++)  
 (+++ § 16e in der ab dem 26.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 13 +++)  
 (+++ § 16e Abs. 1 in der ab dem 10.11.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 14 +++)  
-(+++ § 16e Abs. 1 u. 4: Zur erstmaligen Anwendung vgl. § 23 Abs. 15 +++)
+(+++ § 16e Abs. 1 u. 4: Zur erstmaligen Anwendung vgl. § 23 Abs. 15 u. 16 +++)
 
 # § 16f – Bemessungsgrundlagen der Umlage im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
 
@@ -630,9 +634,10 @@ Satz 1 Nummer 1 Buchstabe c gilt für die von der Bundesanstalt beaufsichtigten 
 
 (+++ § 16f in der ab dem 26.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 13 +++)  
 (+++ § 16f Abs. 1 in der ab dem 10.11.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 14 +++)  
-(+++ § 16f Abs. 2 Satz 1 Nr. 1 u. Abs. 4 Satz 2: Zur erstmaligen Anwendung vgl. § 23 Abs. 15 +++)  
 (+++ § 16f Abs. 1 Nr. 1 Satz 2, Abs. 2, 4 u. 5: Zur Anwendung vgl. § 16k Abs. 2 Satz 6 +++)  
-(+++ § 16f Abs. 1 Nr. 3: Zur Anwendung vgl. § 16j Abs. 5a +++)
+(+++ § 16f Abs. 1 Nr. 3: Zur Anwendung vgl. § 16j Abs. 5a +++)  
+(+++ § 16f Abs. 2 Satz 1 Nr. 1 u. Abs. 4 Satz 2: Zur erstmaligen Anwendung vgl. § 23 Abs. 15 +++)  
+(+++ § 16f Abs. 2 Satz 1 Nr. 1 Buchst. c: Zur erstmaligen Anwendung vgl. § 23 Abs. 16 +++)
 
 # § 16g – Mindestumlagebeträge im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
 
@@ -722,7 +727,8 @@ e) die Hälfte des Mindestbetrages der Buchstaben b bis d für die dort genannte
 
 (+++ § 16g Abs. 1 Nr. 1 Buchst. b DBuchst. aa u. Buchst. c DBuchst. aa in der ab dem 10.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 12 +++)  
 (+++ § 16g in der ab dem 26.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 13 +++)  
-(+++ § 16g Abs. 1 Nr. 1 Buchst. d: Zur erstmaligen Anwendung vgl. § 23 Abs. 15 +++)
+(+++ § 16g Abs. 1 Nr. 1 Buchst. d: Zur erstmaligen Anwendung vgl. § 23 Abs. 15 +++)  
+(+++ § 16g in der ab 1.7.2024 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 16 +++)
 
 # § 16h – Aufgabenbereich Versicherungen
 
@@ -734,7 +740,8 @@ e) die Hälfte des Mindestbetrages der Buchstaben b bis d für die dort genannte
 
 (4) Der von jedem Umlagepflichtigen des Aufgabenbereichs Versicherungen zu entrichtende Umlagebetrag beträgt mindestens 1 225 Euro.
 
-(+++ § 16h in der ab dem 26.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 13 +++)
+(+++ § 16h in der ab dem 26.6.2021 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 13 +++)  
+(+++ § 16h in der ab 1.7.2024 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 16 +++)
 
 # § 16i – Kostenermittlung und Umlagepflicht im Aufgabenbereich Wertpapierhandel
 
@@ -827,7 +834,8 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates näher zu bestimmen, auf welchem Wege und in welcher Form der Antrag und die Nachweise nach Absatz 2 sowie die Umsätze nach Absatz 5 der Bundesanstalt zu übermitteln sind und wie sich die Umsätze nach Absatz 5 bestimmen. Das Bundesministerium kann die Ermächtigung zum Erlass der Rechtsverordnung nach Satz 1 auf die Bundesanstalt übertragen.
 
 (+++ § 16j: Zur Anwendung vgl. § 23 +++)  
-(+++ § 16j Abs. 5 bis 7: Zur Anwendung vgl. § 23 Abs. 10 +++)
+(+++ § 16j Abs. 5 bis 7: Zur Anwendung vgl. § 23 Abs. 10 +++)  
+(+++ § 16j in der ab 1.7.2024 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 16 +++)
 
 # § 16k – Aufgabenbereich Abwicklung
 
@@ -835,7 +843,8 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (2) Umlagepflichtige Institute, bei denen die Berechnung der Jahresbeiträge gemäß § 12 Absatz 2 des Restrukturierungsfondsgesetzes für das Umlagejahr unter Berücksichtigung des Artikels 10 der Delegierten Verordnung (EU) 2015/63 erfolgte sowie die in § 1 Absatz 1 und 2 der Restrukturierungsfondsverordnung genannten Institute zahlen einen Pauschalbetrag in Höhe von 325 Euro. Für die übrigen umlagepflichtigen Institute wird der Umlagebetrag nach einem jährlich zu ermittelnden Verteilungsschlüssel bemessen. Der Verteilungsschlüssel in einem Umlagejahr bestimmt sich für diese Institute nach dem Verhältnis der Höhe der Bilanzsumme, die in entsprechender Anwendung der Bestimmungen des Artikels 5 der Delegierten Verordnung (EU) 2015/63 angepasst wurde, zur Gesamtsumme der Bilanzsummen, die in entsprechender Anwendung der Bestimmungen des Artikels 5 der Delegierten Verordnung (EU) 2015/63 angepasst wurden, aller übrigen umlagepflichtigen Institute. Maßgebend für die Berechnung des Verteilungsschlüssels ist jeweils die in entsprechender Anwendung des Artikels 5 der Delegierten Verordnung (EU) 2015/63 angepasste Bilanzsumme, die im Umlagejahr der Berechnung der Jahresbeiträge nach § 12 Absatz 2 des Restrukturierungsfondsgesetzes zugrunde lag. Soweit für ein umlagepflichtiges Institut im Umlagejahr keine Jahresbeiträge nach § 12 Absatz 2 des Restrukturierungsfondsgesetzes zu berechnen waren und die Daten zur Berechnung der Bilanzsumme, die in entsprechender Anwendung der Bestimmung des Artikels 5 der Delegierten Verordnung (EU) 2015/63 angepasst wurde, nicht vorliegen, wird für das jeweilige Institut ein Pauschalbetrag in Höhe von 325 Euro erhoben. § 16f Absatz 1 Nummer 1 Satz 2, Absatz 2, 4 und 5 ist entsprechend anzuwenden. Der Umlagebetrag für jedes umlagepflichtige Institut beträgt mindestens 325 Euro.
 
-(+++ § 16k: Zur Anwendung vgl. § 23 +++)
+(+++ § 16k: Zur Anwendung vgl. § 23 +++)  
+(+++ § 16k in der ab 1.7.2024 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 16 +++)
 
 # § 16l – Aufgabenbereich Bilanzkontrolle
 
@@ -847,7 +856,8 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (4) Die inländischen Börsen haben der Bundesanstalt zur Festsetzung der Umlage und der Umlagevorauszahlung über die Börsenumsätze Auskünfte zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann von den Unternehmen Auskünfte und die Vorlage von Unterlagen verlangen, soweit dies zur Festsetzung der Umlage und der Umlagevorauszahlung erforderlich ist. Die nach Satz 1 vorzulegenden Unterlagen umfassen Bestätigungen der gemeldeten Umsätze je Wertpapier durch einen Wirtschaftsprüfer, eine Wirtschaftsprüfungsgesellschaft, einen vereidigten Buchprüfer oder eine Buchprüfungsgesellschaft. Die entsprechenden Unterlagen sind nach Aufforderung durch die Bundesanstalt binnen drei Monaten vorzulegen.
 
-(+++ § 16l: Zur Anwendung vgl. § 24 +++)
+(+++ § 16l: Zur Anwendung vgl. § 24 +++)  
+(+++ § 16l in der ab 1.7.2024 geltenden Fassung: Zur erstmaligen Anwendung vgl. § 23 Abs. 16 +++)
 
 # § 16m – Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit; Verpflichtung zur elektronischen Kommunikation; Verordnungsermächtigung
 
@@ -867,7 +877,9 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (8) Die Bundesanstalt kann anordnen, dass eine Ermächtigung zum Einzug des Umlagebetrages von einem Konto des Umlagepflichtigen oder eines Dritten bei einem Geldinstitut erteilt wird. Besteht eine Verpflichtung nach Satz 1, hat der betroffene Umlagepflichtige unter Nutzung eines durch die Bundesanstalt bereitgestellten elektronischen Kommunikationsverfahrens die Daten zur Erteilung des SEPA-Lastschrift-Mandats für den Einzug des Umlagebetrages in der von der Bundesanstalt vorgegebenen Form zu übermitteln und bei Änderungen zu aktualisieren.
 
-(+++ § 16m: Zur Anwendung vgl. § 24 +++) (+++ § 16m Abs. 3 bis 5 u. 7: Zur Geltung vgl. § 16n Abs. 1 Satz 3 +++) (+++ § 16m Abs. 6: Zur Anwendung vgl. § 16n Abs. 6 +++)
+(+++ § 16m: Zur Anwendung vgl. § 24 Abs. 7 +++)  
+(+++ § 16m Abs. 3 bis 5 u. 7: Zur Geltung vgl. § 16n Abs. 1 Satz 3 +++)  
+(+++ § 16m Abs. 6: Zur Anwendung vgl. § 16n Abs. 6 +++)
 
 # § 16n – Festsetzung und Fälligkeit von Umlagevorauszahlungen
 
@@ -883,7 +895,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (6) § 16m Absatz 6 ist entsprechend anzuwenden.
 
-(+++ § 16n: Zur Anwendung vgl. § 24 +++)
+(+++ § 16n: Zur erstmaligen Anwendung vgl. § 24 Abs. 8 +++)
 
 # § 16o – Differenz zwischen Umlagebetrag und Vorauszahlung
 

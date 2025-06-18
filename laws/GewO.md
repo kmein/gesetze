@@ -842,6 +842,8 @@ Die Datenempfänger sowie die Verarbeitungszwecke, für die Abrufe zugelassen we
 
 (4) Die Absätze 1 bis 3 finden auch Anwendung, wenn Tatsachen die Annahme rechtfertigen, daß ein erlaubnispflichtiges, überwachungsbedürftiges oder untersagtes Gewerbe ausgeübt wird.
 
+(+++ § 29: Zur Anwendung vgl. § 34d Abs. 13 Satz 2 +++)
+
 # § 30 – Privatkrankenanstalten
 
 (1) Unternehmer von Privatkranken- und Privatentbindungsanstalten sowie von Privatnervenkliniken bedürfen einer Konzession der zuständigen Behörde. Die Konzession ist nur dann zu versagen, wenn
@@ -2736,13 +2738,9 @@ c) von Verwaltungsentscheidungen auf Grund des Straßenverkehrsgesetzes, des Fah
 
 3. die Vorbereitung von Rechtsvorschriften und allgemeinen Verwaltungsvorschriften, insoweit nur in anonymisierter Form,
 
-4. die Vorbereitung von vergaberechtlichen Entscheidungen über strafgerichtliche Verurteilungen und Bußgeldentscheidungen nach § 21 Abs. 1 des Schwarzarbeitsbekämpfungsgesetzes, § 21 Absatz 1 und 2 des
+4. (weggefallen)
 
-Mindestlohngesetzes, § 5 Absatz 1 oder 2 des Arbeitnehmer-Entsendegesetzes in der bis zum 23. April 2009 geltenden Fassung, § 23 Abs. 1 und 2 des
-
-Arbeitnehmer-Entsendegesetzes und § 81 Absatz 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen,
-
-erteilt. Auskunftsberechtigt sind die Behörden und öffentlichen Auftraggeber im Sinne des § 99 des Gesetzes gegen Wettbewerbsbeschränkungen, denen die in Satz 1 bezeichneten Aufgaben obliegen.
+erteilt. Auskunftsberechtigt sind die Behörden, denen die in Satz 1 bezeichneten Aufgaben obliegen.
 
 (2) Auskünfte aus dem Register werden ferner
 
@@ -2771,8 +2769,6 @@ erteilt.
 (5) Die Auskünfte aus dem Register dürfen nur den mit der Entgegennahme oder Bearbeitung betrauten Bediensteten zur Kenntnis gebracht werden.
 
 (6) Soweit eine Auskunft nach den Absätzen 1 und 2 nur für eingeschränkte Zwecke erteilt wird, darf die auskunftsberechtigte Stelle nicht die Vorlage einer Auskunft nach § 150 Absatz 1 verlangen.
-
-§ 150a Abs. 1 Satz 1 Nr. 4 Kursivdruck: In Bezug auf die Änderungsanweisung gem. Art. 11 Nr. 2 G v. 11.8.2014 I 1348 wurde nach dem Wort "Mindestlohngesetzes" ein Komma eingefügt und nach dem Wort "Arbeitnehmer-Entsendegesetzes" zwei Kommata entfernt
 
 # § 150b – Auskunft für die wissenschaftliche Forschung
 

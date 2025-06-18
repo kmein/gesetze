@@ -91,6 +91,38 @@ a) bei gärtnerischen Dienstleistungen auf fremden Flächen angefallenen pflanzl
 
 b) anteilig zurückgenommenen unbehandelten pflanzlichen Bioabfällen durch Mitglieder von Erzeugerzusammenschlüssen des Wein-, Obst- und Gemüseanbaus auf selbst bewirtschaftete Betriebsflächen, soweit die pflanzlichen Ausgangserzeugnisse auf Betriebsflächen von Mitgliedern des jeweiligen Erzeugerzusammenschlusses erzeugt wurden.
 
+# § 2a – Anforderungen an die Fremdstoffentfrachtung
+
+(1) Entsorgungsträger, Erzeuger und Besitzer dürfen zur Aufbereitung, Bioabfallbehandlung und Gemischherstellung Bioabfälle und in Anhang 1 Nummer 2 genannte Materialien abgeben, von denen angenommen werden kann, dass sie den nach Art der Bioabfälle und Materialien in Absatz 3 festgelegten Kontrollwert nicht überschreiten. Von der Anforderung des Satzes 1 kann durch Vereinbarung abgewichen werden, wenn vom Aufbereiter, Bioabfallbehandler oder Gemischhersteller durch eine Fremdstoffentfrachtung im Sinne des Absatzes 4 Satz 2 Nummer 2, Satz 3 und 4 sichergestellt werden kann, dass der Kontrollwert nicht überschritten wird.
+
+(2) Aufbereiter, Bioabfallbehandler und Gemischhersteller dürfen nur in Absatz 1 genannte Bioabfälle und Materialien verwenden, von denen angenommen werden kann, dass sie den nach Art der Bioabfälle und Materialien in Absatz 3 festgelegten Kontrollwert nicht überschreiten; soweit erforderlich, ist hierzu eine Fremdstoffentfrachtung im Sinne des Absatzes 4 Satz 2 Nummer 2, Satz 3 und 4 durchzuführen.
+
+(3) Der Anteil der Gesamtkunststoffe mit einem Siebdurchgang von mehr als 2 Millimetern darf einen Kontrollwert von 0,5 vom Hundert, bezogen auf die Trockenmasse des Materials, bei den in Absatz 1 genannten Bioabfällen und Materialien in flüssiger, schlammiger und pastöser Form nicht überschreiten, die
+
+1. vom Aufbereiter zur Abgabe bestimmt sind,
+
+2. vom Bioabfallbehandler für die Zuführung zur jeweils ersten Behandlung bestimmt sind und
+
+3. vom Gemischhersteller für die Herstellung von Gemischen bestimmt sind.
+
+Die Anforderungen des Satzes 1 gelten für verpackte Bioabfälle und Materialien, insbesondere für verpackte Lebensmittelabfälle, in flüssiger, schlammiger, pastöser und fester Form. Satz 1 gilt bei den in Absatz 1 genannten Bioabfällen und Materialien in fester Form mit der Maßgabe, dass der Anteil der Gesamtkunststoffe mit einem Siebdurchgang von mehr als 20 Millimetern einen Kontrollwert von 0,5 vom Hundert, bezogen auf die Frischmasse des Materials, nicht überschreiten darf. Satz 3 gilt bei Bioabfällen und Materialien in fester Form aus der getrennten Sammlung von privaten Haushaltungen und des angeschlossenen Kleingewerbes mit der Maßgabe, dass der Anteil der Gesamtkunststoffe einen Kontrollwert von 1,0 vom Hundert nicht überschreiten darf.
+
+(4) Zur Feststellung der Fremdstoffbelastung haben Aufbereiter, Bioabfallbehandler und Gemischhersteller bei jeder Anlieferung von in Absatz 1 Satz 1 genannten Bioabfällen und Materialien eine Sichtkontrolle durchzuführen. Ergeben sich bei der Sichtkontrolle Anhaltspunkte dafür, dass
+
+1. bei Bioabfällen und Materialien nach Absatz 3 Satz 4 der Fremdstoffanteil von 3 vom Hundert, bezogen auf die Frischmasse des Materials, überschritten wird, können der Aufbereiter, der Bioabfallbehandler und der Gemischhersteller unbeschadet einer Vereinbarung nach Absatz 1 Satz 2 vom Anlieferer die Rücknahme der Bioabfälle und Materialien verlangen,
+
+2. bei übernommenen Bioabfällen und Materialien der nach Art der Bioabfälle und Materialien in Absatz 3 festgelegte Kontrollwert überschritten wird, haben der Aufbereiter, der Bioabfallbehandler und der Gemischhersteller bei der Aufbereitung, vor der weiteren Behandlung und Gemischherstellung eine Fremdstoffentfrachtung durchzuführen.
+
+Der Aufbereiter, der Bioabfallbehandler und der Gemischhersteller haben übernommene verpackte Bioabfälle und Materialien, insbesondere verpackte Lebensmittelabfälle, von anderen Bioabfällen und Materialien getrennt zu halten und vor einer Vermischung, der weiteren Aufbereitung, Behandlung und Gemischherstellung eine gesonderte Verpackungsentfrachtung durchzuführen. Bei der Entfrachtung sollen die Fremdstoffe in möglichst großstückigem Zustand aussortiert werden. Ergeben sich bei der Sichtkontrolle nach der Fremdstoffentfrachtung weiterhin Anhaltspunkte dafür, dass der nach Art der Bioabfälle und Materialien in Absatz 3 festgelegte Kontrollwert überschritten wird, haben Aufbereiter, Bioabfallbehandler und Gemischhersteller unverzüglich Untersuchungen der Bioabfälle und Materialien auf den Anteil an Gesamtkunststoffen durchführen zu lassen.
+
+(4a) Aufbereiter, Bioabfallbehandler und Gemischhersteller, die verpackte Bioabfälle und Materialien, insbesondere verpackte Lebensmittelabfälle, aufbereiten, haben nach Abschluss der Fremdstoffentfrachtung im Sinne des Absatzes 4 Satz 3, den Anteil der Gesamtkunststoffe nach Absatz 3 Satz 1 im Abstand von drei Monaten untersuchen zu lassen. Die zuständige Behörde kann auf Antrag abweichende Untersuchungsintervalle festlegen.
+
+(5) Ergibt eine Untersuchung, dass der nach Art der Bioabfälle und Materialien in Absatz 3 festgelegte Kontrollwert nach durchgeführter Fremdstoffentfrachtung überschritten wird, hat der Aufbereiter, Bioabfallbehandler oder Gemischhersteller die für die Anlage zuständige Behörde über das Untersuchungsergebnis und über die eingeleiteten Maßnahmen unverzüglich zu informieren. Wird der nach Art der Bioabfälle und Materialien in Absatz 3 festgelegte Kontrollwert nach durchgeführter Fremdstoffentfrachtung wiederholt bei Untersuchungen überschritten, soll die zuständige Behörde Maßnahmen zur Behebung der Mängel anordnen. Wird aufgrund eines hohen Fremdstoffanteils in übernommenen Bioabfällen und Materialien der nach Art der Bioabfälle und Materialien in Absatz 3 festgelegte Kontrollwert nach durchgeführter Fremdstoffentfrachtung wiederholt bei Untersuchungen überschritten, kann die zuständige Behörde die Annahme dieser Bioabfälle und Materialien untersagen.
+
+(6) Die zuständige Behörde kann im Einzelfall gegenüber dem Aufbereiter, Bioabfallbehandler oder Gemischhersteller anordnen, Untersuchungen der Bioabfälle und Materialien auf den Anteil an Gesamtkunststoffen durchführen zu lassen und die Untersuchungsergebnisse vorzulegen. Absatz 5 Satz 2 und 3 gilt entsprechend.
+
+(7) Die Probenahmen, Probevorbereitungen und Untersuchungen nach Absatz 4 Satz 5, Absatz 4a Satz 1 und Absatz 6 Satz 1 sind gemäß den Vorgaben des Anhangs 3 und durch unabhängige, von der zuständigen Behörde bestimmte Untersuchungsstellen durchführen zu lassen. Für die Bestimmung einer Untersuchungsstelle nach Satz 1 gilt § 3 Absatz 8a und 8b entsprechend.
+
 # § 3 – Anforderungen an die hygienisierende Behandlung
 
 (1) Entsorgungsträger, Erzeuger und Besitzer haben, soweit nicht von einer Freistellung nach § 10 Absatz 1 oder Absatz 2 erfasst, Bioabfälle vor einer Aufbringung oder vor der Herstellung von Gemischen einer hygienisierenden Behandlung zuzuführen, welche die seuchen- und phytohygienische Unbedenklichkeit gewährleistet.

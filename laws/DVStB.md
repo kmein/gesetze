@@ -531,7 +531,7 @@ Die Teilnahme an einem fachbezogenen Seminar bzw. Lehrgang ohne Abschlussprüfun
 
 3. die Leistungen des Versicherers für das mitversicherte Auslandsrisiko im Inland in Euro zu erbringen sind.
 
-(2) Im Versicherungsvertrag ist der Versicherer zu verpflichten, der zuständigen Steuerberaterkammer den Beginn und die Beendigung oder Kündigung des Versicherungsvertrages sowie jede Änderung des Versicherungsvertrages, die den vorgeschriebenen Versicherungsschutz beeinträchtigt, unverzüglich mitzuteilen.
+(2) Im Versicherungsvertrag ist der Versicherer zu verpflichten, der zuständigen Steuerberaterkammer den Beginn und die Beendigung oder Kündigung des Versicherungsvertrages sowie jede Änderung des Versicherungsvertrages, die den vorgeschriebenen Versicherungsschutz beeinträchtigt, unverzüglich mitzuteilen. Satz 1 gilt nicht für Berufsausübungsgesellschaften, die nach § 53 Absatz 1 Satz 2 des Steuerberatungsgesetzes nicht anerkennungspflichtig sind und für die auch keine freiwillige Anerkennung nach § 53 Absatz 1 Satz 3 des Steuerberatungsgesetzes beantragt oder erfolgt ist.
 
 (3) Der Versicherungsvertrag kann vorsehen, daß die Versicherungssumme den Höchstbetrag der dem Versicherer in jedem einzelnen Schadenfall obliegenden Leistung darstellt, und zwar mit der Maßgabe, daß nur eine einmalige Leistung der Versicherungssumme in Frage kommt,
 
@@ -571,7 +571,7 @@ c) bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches, auf gl
 
 (2) Absatz 1 gilt sinngemäß für die Anerkennung als Berufsausübungsgesellschaft.
 
-(3) Absatz 1 gilt sinngemäß für Berufsausübungsgesellschaften, die nach § 53 Absatz 1 Satz 2 des Steuerberatungsgesetzes nicht anerkennungspflichtig sind, mit der Maßgabe, dass eine entsprechende Versicherungsbescheinigung mit der Übermittlung der Daten für das Verzeichnis nach § 86b des Steuerberatungsgesetzes der Steuerberaterkammer, in deren Bezirk die Berufsausübungsgesellschaft ihren Sitz hat, vorzulegen ist.
+(3) (weggefallen)
 
 # § 56 – Anzeige von Veränderungen
 

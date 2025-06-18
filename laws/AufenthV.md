@@ -1697,8 +1697,10 @@ noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils die Höhe, die für di
 | 12\. | für die Verlängerung eines Ausweisersatzes (§ 48 Absatz 2 in Verbindung mit § 78a Absatz 4 des Aufenthaltsgesetzes)                                                                                                                                                                                                                                                                                                     |                    |                                                          16 Euro, |
 | 13\. | für die Änderung eines der in den Nummern 1 bis 12 bezeichneten Dokumente                                                                                                                                                                                                                                                                                                                                               |                    |                                                          15 Euro, |
 | 14\. | für die Umschreibung eines der in den Nummern 1 bis 12 bezeichneten Dokumente                                                                                                                                                                                                                                                                                                                                           |                    |                                                          34 Euro, |
-| 15\. | für die Neuausstellung eines Dokuments nach § 78 Absatz 1 Satz 1 des Aufenthaltsgesetzes mit dem Zusatz Ausweisersatz (§ 78 Absatz 1 Satz 4 des Aufenthaltsgesetzes)                                                                                                                                                                                                                                                    |                    |                                                          72 Euro. |
+| 15\. | für die Neuausstellung eines Dokuments nach § 78 Absatz 1 Satz 1 des Aufenthaltsgesetzes mit dem Zusatz Ausweisersatz (§ 78 Absatz 1 Satz 4 des Aufenthaltsgesetzes)                                                                                                                                                                                                                                                    |                    |                                                          72 Euro, |
+| 16\. | für die Anfertigung eines Lichtbilds (§ 60 Absatz 2 Satz 2 in Verbindung mit § 6 Absatz 2 Satz 3 Nummer 2 Passgesetz)                                                                                                                                                                                                                                                                                                   |                    |                                                           6 Euro. |
 
+  
   
 Wird der Notreiseausweis zusammen mit dem Passierschein (§ 23 Abs. 2 Satz 3, § 24 Abs. 2 Satz 3) ausgestellt, so wird die Gebühr nach § 47 Abs. 1 Nr. 13 auf die für den Notreiseausweis zu erhebende Gebühr angerechnet.
 
@@ -2021,7 +2023,23 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 (1) Lichtbilder müssen den in § 4 der Passverordnung vom 19. Oktober 2007 in der jeweils geltenden Fassung festgelegten Anforderungen entsprechen und den Ausländer zweifelsfrei erkennen lassen. Sie müssen die Person ohne Gesichts- und Kopfbedeckung zeigen. Die zuständige Behörde kann hinsichtlich der Kopfbedeckung Ausnahmen zulassen oder anordnen, sofern gewährleistet ist, dass die Person hinreichend identifiziert werden kann.
 
-(2) Der Ausländer, für den ein Dokument nach § 58 oder § 59 ausgestellt werden soll, hat der zuständigen Behörde auf Verlangen ein aktuelles Lichtbild nach Absatz 1 vorzulegen oder bei der Anfertigung eines Lichtbildes mitzuwirken.
+(2) Der Ausländer, für den ein Dokument nach § 58 oder § 59 ausgestellt werden soll, hat der zuständigen Behörde auf Verlangen ein aktuelles Lichtbild nach Absatz 1 vorzulegen oder bei der Anfertigung eines Lichtbildes mitzuwirken. § 6 Absatz 2 Satz 3 des Passgesetzes findet entsprechende Anwendung
+
+1. für Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 des Aufenthaltsgesetzes mit elektronischem Speicher- und Verarbeitungsmedium gemäß § 78 Absatz 1 Satz 1 des Aufenthaltsgesetzes,
+
+2. für Aufenthaltstitel nach einheitlichem Vordruckmuster gemäß § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes sowie
+
+3. für Reiseausweise für Ausländer, Flüchtlinge und Staatenlose gemäß § 4 Absatz 1 Satz 1 Nummer 1, 3 und 4.
+
+Eine Veränderung des Lichtbilds ist nur nach Maßgabe des Aufenthaltsgesetzes oder dieser Verordnung zulässig.
+
+(2a) Die zuständige Ausländerbehörde trägt in den Fällen des Absatzes 2 Satz 2 in der Ausländerdatei A (§ 63) als lichtbildaufnehmende Stelle gemäß § 65 Nummer 7 ein
+
+1. das übermittelte Pseudonym, wenn ein Lichtbild entsprechend den Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 1a Absatz 2 Nummer 1 der Passdatenerfassungs- und Übermittlungsverordnung gefertigt wurde,
+
+2. den Namen des Dienstleisters, der das Lichtbildaufnahmegerät zur Verfügung gestellt hat, sowie die Kennung des verwendeten Lichtbildaufnahmegeräts, wenn ein Lichtbild entsprechend den Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 1a Absatz 2 Nummer 2 der Passdatenerfassungs- und Übermittlungsverordnung gefertigt wurde, oder
+
+3. die jeweilige Ausländerbehörde, wenn ein Lichtbild entsprechend den Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 2 des Passgesetzes gefertigt wurde.
 
 (3) Das Lichtbild darf von den zuständigen Behörden zum Zweck des Einbringens in ein Dokument nach § 58 oder § 59 und zum späteren Abgleich mit dem tatsächlichen Aussehen des Dokumenteninhabers verarbeitet werden.
 
@@ -2115,15 +2133,17 @@ im polizeilichen Fahndungsbestand geführt werden. Über Abrufe, die zu keiner F
 
 2. §§ 3, 4 und 5 Absatz 1 Satz 2, Absatz 2, 3, 4 Satz 1 bis 5 und Absatz 7 der Personalausweisverordnung,
 
-3. §§ 10, 13 bis 16, § 17 Absatz 1, 2 Satz 2 und 3 sowie Absatz 3, § 18 Absatz 5 der Personalausweisverordnung,
+3. §§ 5a, 5b und 5c Absatz 1, 2, 3, 4 und 5 Satz 1 und 2, §§ 5d und 5e Absatz 1 der Personalausweisverordnung,
 
-4. § 20 Absatz 1, 3 und 4 Satz 1 der Personalausweisverordnung,
+4. §§ 10, 13 bis 16, § 17 Absatz 1, 2 Satz 2 und 3 sowie Absatz 3, § 18 Absatz 5 der Personalausweisverordnung,
 
-5. §§ 21 bis 25 Absatz 1, 2 Satz 1 und Absatz 3 der Personalausweisverordnung,
+5. § 20 Absatz 1, 3 und 4 Satz 1 der Personalausweisverordnung,
 
-6. §§ 25a und 26 Absatz 1 und 3 der Personalausweisverordnung sowie
+6. §§ 21 bis 25 Absatz 1, 2 Satz 1 und Absatz 3 der Personalausweisverordnung,
 
-7. §§ 26a bis 36a der Personalausweisverordnung.
+7. §§ 25a und 26 Absatz 1 und 3 der Personalausweisverordnung sowie
+
+8. §§ 26a bis 36a der Personalausweisverordnung.
 
 (2) Die Nutzung des elektronischen Identitätsnachweises ist ausgeschlossen, wenn die Identität des Ausländers durch die Ausländerbehörde nicht zweifelsfrei festgestellt ist.
 
@@ -2203,7 +2223,7 @@ d) Gültigkeitsdauer,
 
 6. freiwillig gemachte Angaben zur Religionszugehörigkeit,
 
-7. Lichtbild,
+7. Lichtbild und die lichtbildaufnehmende Stelle,
 
 8. Visadatei-Nummer,
 

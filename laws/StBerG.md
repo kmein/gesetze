@@ -1041,6 +1041,8 @@ Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein Insolvenzverf
 
 (3) Mit der Anerkennung wird die Berufsausübungsgesellschaft Mitglied der anerkennenden Steuerberaterkammer.
 
+(4) Die Steuerberaterkammer teilt dem Berufshaftpflichtversicherer, der in der Berufshaftpflichtversicherung oder der vorläufigen Deckungszusage angegeben ist, die Anerkennung mit.
+
 # § 54 – Anerkennungsverfahren; Gebühr; Anzeigepflicht
 
 (1) Der Antrag auf Anerkennung muss folgende Angaben enthalten:
@@ -1151,7 +1153,7 @@ Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter oder der 
 
 (1) Berufsausübungsgesellschaften sind verpflichtet, eine Berufshaftpflichtversicherung abzuschließen und während der Dauer ihrer Betätigung aufrechtzuerhalten.
 
-(2) Die Berufshaftpflichtversicherung muss die Haftpflichtgefahren für Vermögensschäden decken, die sich aus der Berufstätigkeit nach den §§ 33 und 57 Absatz 3 Nummer 2 und 3 ergeben. § 67 Absatz 2 und 3 sowie § 67a Absatz 1 sind entsprechend anzuwenden.
+(2) Die Berufshaftpflichtversicherung muss die Haftpflichtgefahren für Vermögensschäden decken, die sich aus der Berufstätigkeit nach den §§ 33 und 57 Absatz 3 Nummer 2 und 3 ergeben. § 67 Absatz 2 und 3 ist mit der Maßgabe entsprechend anzuwenden, dass er nur für anerkannte Berufsausübungsgesellschaften gilt.
 
 (3) Für Berufsausübungsgesellschaften, bei denen rechtsformbedingt für Verbindlichkeiten der Berufsausübungsgesellschaft aus Schäden wegen fehlerhafter Berufsausübung keine natürliche Person haftet oder bei denen die Haftung der natürlichen Personen beschränkt wird, beträgt die Mindestversicherungssumme der Berufshaftpflichtversicherung eine Million Euro für jeden Versicherungsfall.
 

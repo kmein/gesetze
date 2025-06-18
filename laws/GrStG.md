@@ -19,8 +19,8 @@ Steuergegenstand ist der inländische Grundbesitz im Sinne des Bewertungsgesetze
 
 2. die Grundstücke (§§ 243, 244 des Bewertungsgesetzes); diesen stehen die in § 218 Satz 3 des Bewertungsgesetzes bezeichneten Betriebsgrundstücke gleich.
 
-§ 2 Nr. 2 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
-§ 2 Nr. 2 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075)
+§ 2 (früher Nr. 2) idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)  
+§ 2 Nr. 2 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)
 
 # § 3 – Steuerbefreiung für Grundbesitz bestimmter Rechtsträger
 
@@ -137,7 +137,7 @@ Die Grundsteuer ruht auf dem Steuergegenstand als öffentliche Last.
 Bei der Berechnung der Grundsteuer ist von einem Steuermessbetrag auszugehen. Dieser ist durch Anwendung eines Promillesatzes (Steuermesszahl) auf den Grundsteuerwert oder seinen steuerpflichtigen Teil zu ermitteln, der nach dem Bewertungsgesetz im Veranlagungszeitpunkt (§ 16 Absatz 1, § 17 Absatz 3, § 18 Absatz 3) für den Steuergegenstand maßgebend ist.
 
 § 13 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
-§ 13 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075)
+§ 13 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 # § 14 – Steuermeßzahl für Betriebe der Land- und Forstwirtschaft
 
@@ -178,7 +178,7 @@ Liegen die Voraussetzungen des Satzes 1 für einen Teil der Gebäude oder für T
 (6) Der Abschlag auf die Steuermesszahl nach den Absätzen 2 bis 5 wird auf Antrag zunächst für jeden Erhebungszeitraum innerhalb des Hauptveranlagungszeitraums gewährt, wenn nachgewiesen wird, dass die jeweiligen Voraussetzungen zum Hauptveranlagungszeitpunkt vorliegen. Treten die Voraussetzungen der Absätze 2 bis 5 erst im Laufe des Hauptveranlagungszeitraums ein und liegen sie zu Beginn des Erhebungszeitraums vor, wird der Steuermessbetrag auf Antrag nach § 17 Absatz 2 Nummer 1 neu veranlagt. Entfallen die Voraussetzungen der Absätze 2 bis 5, ist dies nach § 19 Absatz 2 anzuzeigen und ist der Steuermessbetrag nach § 17 Absatz 2 Nummer 1 neu zu veranlagen oder nach § 21 zu ändern. Der Antrag auf eine Ermäßigung der Steuermesszahl nach den Absätzen 2 bis 5 kann durch eine entsprechende Angabe in einer Erklärung nach § 228 Absatz 1 des Bewertungsgesetzes erfolgen.
 
 §§ 15 u. 16 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
-§§ 15 u. 16 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 12.9.2024 HmbGVBl. 2024 S. 554 mWv 1.1.2025 (vgl. BGBl. 2024 I Nr. 358)  
+§§ 15 u. 16 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075), durch G v. 12.9.2024 HmbGVBl. 2024 S. 554 mWv 1.1.2025 (vgl. BGBl. 2024 I Nr. 358) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)  
 § 15 idF d. G v. 7.8.1973 I 965: Saarland - Abweichung durch § 1 Saarländisches Grundsteuergesetz v. 15.9.2021 Amtsbl. SL I 2021 S. 2372 mWv 29.10.2021 (vgl. BGBl. I 2021, 4903)  
 § 15 Abs. 1 Nr. 1 u. 2 idF d. Bek v. 7.8.1973 I 965: Sachsen - Abweichung durch das Sächsisches Gesetz über die Festsetzung der Steuermesszahlen bei der Grundsteuer (Sächsisches Grundsteuermesszahlengesetz – SächsGrStMG) v. 21.12.2021 SächsGVBl. 2022, S. 9 mWv 6.1.2022 (vgl. BGBl. I 2022, 29)
 
@@ -191,7 +191,7 @@ Liegen die Voraussetzungen des Satzes 1 für einen Teil der Gebäude oder für T
 (3) Ist die Festsetzungsfrist (§ 169 der Abgabenordnung) bereits abgelaufen, so kann die Hauptveranlagung unter Zugrundelegung der Verhältnisse vom Hauptveranlagungszeitpunkt mit Wirkung für einen späteren Veranlagungszeitpunkt vorgenommen werden, für den diese Frist noch nicht abgelaufen ist.
 
 §§ 15 u. 16 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
-§§ 15 u. 16 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075)
+§§ 15 u. 16 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 # § 17 – Neuveranlagung
 
@@ -213,7 +213,7 @@ Liegen die Voraussetzungen des Satzes 1 für einen Teil der Gebäude oder für T
 
 (4) Treten die Voraussetzungen für eine Neuveranlagung während des Zeitraums zwischen dem Hauptveranlagungszeitpunkt und dem Zeitpunkt des Wirksamwerdens der Steuermeßbeträge (§ 16 Abs. 2) ein, so wird die Neuveranlagung auf den Zeitpunkt des Wirksamwerdens der Steuermeßbeträge vorgenommen.
 
-§§ 17 u. 18 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600; dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075)
+§§ 17 u. 18 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600; dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 # § 18 – Nachveranlagung
 
@@ -229,7 +229,7 @@ Liegen die Voraussetzungen des Satzes 1 für einen Teil der Gebäude oder für T
 
 (4) Treten die Voraussetzungen für eine Nachveranlagung während des Zeitraums zwischen dem Hauptveranlagungszeitpunkt und dem Zeitpunkt des Wirksamwerdens der Steuermeßbeträge (§ 16 Abs. 2) ein, so wird die Nachveranlagung auf den Zeitpunkt des Wirksamwerdens der Steuermeßbeträge vorgenommen.
 
-§§ 17 u. 18 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600; dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075)
+§§ 17 u. 18 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600; dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 # § 19 – Anzeigepflicht
 
@@ -240,7 +240,7 @@ Liegen die Voraussetzungen des Satzes 1 für einen Teil der Gebäude oder für T
 (3) Die Anzeigen nach den Absätzen 1 und 2 sind Steuererklärungen im Sinne der Abgabenordnung, die den Finanzbehörden nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch zu übermitteln sind. Die Anzeigen sind bei dem für die Festsetzung des Steuermessbetrags zuständigen Finanzamt bis zum 31. März des Jahres zu erstatten, das auf das Kalenderjahr der Änderung nach Absatz 1 oder das Kalenderjahr des Wegfalls der Voraussetzungen nach Absatz 2 folgt. Auf Antrag kann die zuständige Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Anzeige nach amtlich vorgeschriebenem Vordruck abzugeben und eigenhändig zu unterschreiben. Für die Entscheidung über den Antrag gilt § 150 Absatz 8 der Abgabenordnung.
 
 § 19 Abs. 1 Satz 2 u. Abs. 2 Satz 2 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797)  
-§ 19 (früher Abs. 1 Satz 2 u. Abs 2 Satz 2) idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 12.9.2024 HmbGVBl. 2024 S. 554 mWv 1.1.2025 (vgl. BGBl. 2024 I Nr. 358)
+§ 19 (früher Abs. 1 Satz 2 u. Abs 2 Satz 2) idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075), durch G v. 12.9.2024 HmbGVBl. 2024 S. 554 mWv 1.1.2025 (vgl. BGBl. 2024 I Nr. 358) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 # § 20 – Aufhebung des Steuermeßbetrags
 
@@ -263,6 +263,8 @@ b) der Steuermeßbetrag fehlerhaft festgesetzt worden ist.
 3. in den Fällen des Absatzes 1 Nr. 2 Buchstabe b mit Wirkung vom Beginn des Kalenderjahres an, in dem der Fehler dem Finanzamt bekannt wird.
 
 (3) Treten die Voraussetzungen für eine Aufhebung während des Zeitraums zwischen dem Hauptveranlagungszeitpunkt und dem Zeitpunkt des Wirksamwerdens der Steuermeßbeträge (§ 16 Abs. 2) ein, so wird die Aufhebung auf den Zeitpunkt des Wirksamwerdens der Steuermeßbeträge vorgenommen.
+
+§ 20 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 # § 21 – Änderung von Steuermeßbescheiden
 
@@ -307,7 +309,7 @@ Werden Gemeindegebiete geändert, so kann die Landesregierung oder die von ihr b
 (5) Die Gemeinde kann aus städtebaulichen Gründen baureife Grundstücke als besondere Grundstücksgruppe innerhalb der unbebauten Grundstücke im Sinne des § 246 des Bewertungsgesetzes bestimmen und abweichend von Absatz 4 Satz 1 Nummer 2 für die Grundstücksgruppe der baureifen Grundstücke einen gesonderten Hebesatz festsetzen. Baureife Grundstücke sind unbebaute Grundstücke im Sinne des § 246 des Bewertungsgesetzes, die nach Lage, Form und Größe und ihrem sonstigen tatsächlichen Zustand sowie nach öffentlich-rechtlichen Vorschriften sofort bebaut werden könnten. Eine erforderliche, aber noch nicht erteilte Baugenehmigung sowie zivilrechtliche Gründe, die einer sofortigen Bebauung entgegenstehen, sind unbeachtlich.Als städtebauliche Gründe kommen insbesondere die Deckung eines erhöhten Bedarfs an Wohn- und Arbeitsstätten sowie Gemeinbedarfsund Folgeeinrichtungen, die Nachverdichtung bestehender Siedlungsstrukturen oder die Stärkung der Innenentwicklung in Betracht. Die Gemeinde hat den gesonderten Hebesatz auf einen bestimmten Gemeindeteil zu beschränken, wenn nur für diesen Gemeindeteil die städtebaulichen Gründe vorliegen.Der Gemeindeteil muss mindestens 10 Prozent des gesamten Gemeindegebiets umfassen und in dem Gemeindeteil müssen mehrere baureife Grundstücke belegen sein. Die genaue Bezeichnung der baureifen Grundstücke, deren Lage sowie das Gemeindegebiet, auf das sich der gesonderte Hebesatz bezieht, sind jeweils nach den Verhältnissen zu Beginn eines Kalenderjahres von der Gemeinde zu bestimmen, in einer Karte nachzuweisen und im Wege einer Allgemeinverfügung öffentlich bekannt zu geben. In der Allgemeinverfügung sind die städtebaulichen Erwägungen nachvollziehbar darzulegen und die Wahl des Gemeindegebiets, auf das sich der gesonderte Hebesatz beziehen soll, zu begründen. Hat eine Gemeinde die Grundstücksgruppe baureifer Grundstücke bestimmt und für die Grundstücksgruppe der baureifen Grundstücke einen gesonderten Hebesatz festgesetzt, muss dieser Hebesatz für alle in der Gemeinde oder dem Gemeindeteil liegenden baureifen Grundstücke einheitlich und höher als der einheitliche Hebesatz für die übrigen in der Gemeinde liegenden Grundstücke sein.
 
 (+++ § 25 Abs. 4 u. 5: Zur Anwendung vgl. § 37 Abs. 3 +++)  
-§ 25 (früher Abs. 5 Satz 5 u. 6) idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075) u. durch G v. 12.9.2024 HmbGVBl. 2024 S. 554 mWv 1.1.2025 (vgl. BGBl. 2024 I Nr. 358)  
+§ 25 (früher Abs. 5 Satz 5 u. 6) idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl. I 2022, 1075), durch G v. 12.9.2024 HmbGVBl. 2024 S. 554 mWv 1.1.2025 (vgl. BGBl. 2024 I Nr. 358) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)  
 § 25 Abs. 4 idF d. Bek v. 7.8.1973 I 965: Schleswig-Holstein - Abweichung durch Gesetz über die Einführung einer optionalen Festlegung differenzierender Hebesätze im Rahmen des Grundvermögens bei der Grundsteuer Schleswig-Holstein (Schleswig-Holsteinisches Grundsteuerhebesatzgesetz – SHGrStHsG) v. 15.10.2024 GS Schl.-H. II, Gl.Nr. B 610-11 mWv 2.11.2024 (vgl. BGBl. 2024 I Nr. 412)
 
 # § 26 – Koppelungsvorschriften und Höchsthebesätze
@@ -322,6 +324,8 @@ In welchem Verhältnis die Hebesätze für die Grundsteuer der Betriebe der Land
 
 (3) Für diejenigen Steuerschuldner, die für das Kalenderjahr die gleiche Grundsteuer wie im Vorjahr zu entrichten haben, kann die Grundsteuer durch öffentliche Bekanntmachung festgesetzt werden. Für die Steuerschuldner treten mit dem Tage der öffentlichen Bekanntmachung die gleichen Rechtswirkungen ein, wie wenn ihnen an diesem Tage ein schriftlicher Steuerbescheid zugegangen wäre.
 
+§ 27 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
+
 # § 28 – Fälligkeit
 
 (1) Die Grundsteuer wird zu je einem Viertel ihres Jahresbetrags am 15. Februar, 15. Mai, 15. August und 15. November fällig.
@@ -334,11 +338,13 @@ In welchem Verhältnis die Hebesätze für die Grundsteuer der Betriebe der Land
 
 (3) Auf Antrag des Steuerschuldners kann die Grundsteuer abweichend vom Absatz 1 oder Absatz 2 Nr. 2 am 1. Juli in einem Jahresbetrag entrichtet werden. Der Antrag muß spätestens bis zum 30. September des vorangehenden Kalenderjahres gestellt werden. Die beantragte Zahlungsweise bleibt so lange maßgebend, bis ihre Änderung beantragt wird; die Änderung muß spätestens bis zum 30. September des vorangehenden Jahres beantragt werden.
 
-§ 28 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 12.9.2024 HmbGVBl. 2024 S. 554 mWv 1.1.2025 (vgl. BGBl. 2024 I Nr. 358)
+§ 28 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 12.9.2024 HmbGVBl. 2024 S. 554 mWv 1.1.2025 (vgl. BGBl. 2024 I Nr. 358) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 # § 29 – Vorauszahlungen
 
 Der Steuerschuldner hat bis zur Bekanntgabe eines neuen Steuerbescheids zu den bisherigen Fälligkeitstagen Vorauszahlungen unter Zugrundelegung der zuletzt festgesetzten Jahressteuer zu entrichten.
+
+§ 29 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/grstg_ha__.html" target="_blank" title="Anzeige in neuem Fenster">Hamburgisches Grundsteuergesetz (HmbGrStG)</a> v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 # § 30 – Abrechnung über die Vorauszahlungen
 

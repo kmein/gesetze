@@ -167,7 +167,7 @@ Das Ergebnis des Kosten-Nutzen-Vergleichs der Wirtschaftlichkeitsanalyse gemäß
 
 # § 9 – Verhältnis zu anderen Vorschriften
 
-§ 7 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen bleiben unberührt.
+§ 7 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie § 13 der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044, 3754) bleiben unberührt.
 
 # § 10 – Erstmalige Anwendung
 

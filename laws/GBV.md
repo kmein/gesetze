@@ -259,7 +259,7 @@ Die nähere Einrichtung und die Ausfüllung des Grundbuchblatts ergibt sich aus 
 
 # § 24a
 
-Urkunden oder Abschriften, die nach § 10 der Grundbuchordnung bei den Grundakten aufzubewahren sind, sollen tunlichst doppelseitig beschrieben sein, nur die Eintragungsunterlagen enthalten und nur einmal zu der betreffenden Grundakte eingereicht werden. § 18 der Grundbuchordnung findet insoweit keine Anwendung. Das Bundesministerium der Justiz und für Verbraucherschutz gibt hierzu im Einvernehmen mit den Landesjustizverwaltungen und der Bundesnotarkammer Empfehlungen heraus.
+Urkunden oder Abschriften, die nach § 10 der Grundbuchordnung bei den Grundakten aufzubewahren sind, sollen tunlichst doppelseitig beschrieben sein, nur die Eintragungsunterlagen enthalten und nur einmal zu der betreffenden Grundakte eingereicht werden. § 18 der Grundbuchordnung findet insoweit keine Anwendung. Das Bundesministerium der Justiz gibt hierzu im Einvernehmen mit den Landesjustizverwaltungen und der Bundesnotarkammer Empfehlungen heraus.
 
 # § 25
 
@@ -447,6 +447,18 @@ Erforderliche maschinell erstellte Zwischenverfügungen und die nach den §§ 55
 (2) Dasselbe gilt für Notare sowie für Rechtsanwälte, die im nachgewiesenen Auftrag eines Notars das Grundbuch einsehen wollen, für öffentlich bestellte Vermessungsingenieure und dinglich Berechtigte, soweit Gegenstand der Einsicht das betreffende Grundstück ist. Unbeschadet dessen ist die Einsicht in das Grundbuch und die Erteilung von Abschriften hieraus zulässig, wenn die für den Einzelfall erklärte Zustimmung des eingetragenen Eigentümers dargelegt wird.
 
 § 43 Abs. 1: Mit dem GG nach Maßgabe der Entscheidungsformel vereinbar, BVerfGE v. 15.6.1983 I 1097 - 1 BvR 1025/79 -
+
+# § 43a – Grundbucheinsicht für Windenergieanlagen und Solaranlagen
+
+(1) Bei Unternehmen, die Windenergieanlagen an Land oder Solaranlagen im Sinne des § 3 Nummer 41a des Erneuerbare-Energien-Gesetzes mit einer installierten Leistung von mindestens 750 Kilowatt betreiben oder projektieren, liegt ein berechtigtes Interesse an der Einsicht in das Grundbuch in der Regel vor, wenn sie unter Nutzung des Grundstücks Windenergieanlagen an Land oder Solaranlagen im Sinne des § 3 Nummer 41a des Erneuerbare-Energien-Gesetzes oder dazugehörige Nebenanlagen im Sinne des § 3 Nummer 15a des Erneuerbare-Energien-Gesetzes betreiben oder projektieren wollen.
+
+(2) Für die Darlegung, dass der Antragsteller unter Nutzung des Grundstücks Windenergieanlagen an Land oder Solaranlagen im Sinne des § 3 Nummer 41a des Erneuerbare-Energien-Gesetzes oder dazugehörige Nebenanlagen nach Absatz 1 betreiben oder projektieren will, genügt die Vorlage einer Eigenerklärung. Ferner ist darzulegen, dass das Grundstück belegen ist
+
+1. in einem Windenergiegebiet im Sinne des § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes,
+
+2. im Bereich eines beschlossenen Bebauungsplans nach § 30 des Baugesetzbuchs, der mit dem Zweck aufgestellt wurde, eine Solaranlage zu errichten, oder
+
+3. im Außenbereich im Sinne des § 35 des Baugesetzbuchs.
 
 # § 44
 
@@ -902,11 +914,11 @@ Der von dem Notar erteilte Grundbuchabdruck (§ 133a Absatz 1 Satz 2 der Grundbu
 
 # § 86a – Zusammenarbeit mit Versorgungsunternehmen
 
-(1) Unternehmen, die Anlagen zur Fortleitung von Elektrizität, Gas, Fernwärme, Wasser oder Abwasser oder Telekommunikationsanlagen betreiben (Versorgungsunternehmen), kann die Einsicht in das Grundbuch in allgemeiner Form auch für sämtliche Grundstücke eines Grundbuchamtsbezirks durch das Grundbuchamt gestattet werden, wenn sie ein berechtigtes Interesse an der Einsicht darlegen. Ein berechtigtes Interesse nach Satz 1 liegt in der Regel vor, wenn
+(1) Unternehmen, die Anlagen zur Fortleitung von Elektrizität, Gas, Fernwärme, Wasser oder Abwasser, Telekommunikationsnetze oder zugehörige Einrichtungen betreiben (Versorgungsunternehmen), kann die Einsicht in das Grundbuch in allgemeiner Form auch für sämtliche Grundstücke eines Grundbuchamtsbezirks durch das Grundbuchamt gestattet werden, wenn sie ein berechtigtes Interesse an der Einsicht darlegen. Ein berechtigtes Interesse nach Satz 1 liegt in der Regel vor, wenn
 
-1. Anlagen nach Satz 1 im Grundbuchbezirk belegen sind oder
+1. Anlagen nach Satz 1 im Grundbuchamtsbezirk belegen sind oder
 
-2. konkrete Planungen für Änderung, Erweiterung oder Neubau von Anlagen nach Satz 1 betrieben werden, insbesondere dann, wenn die Erweiterung oder der Neubau im nach § 12c Absatz 4 des Energiewirtschaftsgesetzes bestätigten Netzentwicklungsplan enthalten ist.
+2. konkrete Planungen für Änderung, Erweiterung oder Neubau von Anlagen nach Satz 1 betrieben werden, insbesondere dann, wenn die Erweiterung oder der Neubau im nach § 12c Absatz 4 des Energiewirtschaftsgesetzes bestätigten Netzentwicklungsplan oder in einem nach § 14d Absatz 1 des Energiewirtschaftsgesetzes erstellten Netzausbauplan enthalten ist oder der Grundbuchamtsbezirk in einem Suchkreis für den Netzausbau im Bereich Mobilfunk liegt.
 
 Wird die Gestattung befristet erteilt, sollte die Befristung nicht unter einem Zeitraum von drei Jahren liegen.
 
@@ -1027,7 +1039,7 @@ Kann der Inhalt der elektronischen Grundakte ganz oder teilweise auf Dauer nicht
 
 (1) Für die Abgabe elektronischer Akten an ein anderes Grundbuchamt gilt § 92a sinngemäß.
 
-(2) Geht die Zuständigkeit für die Führung des Grundbuchs über eines von mehreren Grundstücken, die auf einem gemeinschaftlichen Blatt eingetragenen sind, oder über einen Grundstücksteil auf ein anderes Grundbuchamt über, sind dem anderen Grundbuchamt die das abgeschriebene Grundstück betreffenden Akteninhalte in elektronischer Form zu übermitteln.
+(2) Geht die Zuständigkeit für die Führung des Grundbuchs über eines von mehreren Grundstücken, die auf einem gemeinschaftlichen Blatt eingetragen sind, oder über einen Grundstücksteil auf ein anderes Grundbuchamt über, sind dem anderen Grundbuchamt die das abgeschriebene Grundstück betreffenden Akteninhalte in elektronischer Form zu übermitteln.
 
 # § 101 – Ausführungsvorschriften
 
@@ -1125,7 +1137,7 @@ b) von Verfügungsbeschränkungen zugunsten juristischer Personen des öffentlic
 
 c) von Schürf- und Abbauberechtigungen
 
-gilt Satz 1 entsprechend; Bewilligungsstelle ist in den Fällen des Buchstabens a die Staatsbank Berlin, im übrigen jede Dienststelle des Bundes. Die Bewilligungsstellen können durch dem Grundbuchamt nachzuweisende Erklärung sich wechselseitig oder andere öffentliche Stellen zur Abgabe von Erklärungen nach Satz 1 ermächtigen. In den vorgenannten Fällen findet § 39 der Grundbuchordnung keine Anwendung. Der Vorlage eines Hypotheken-, Grundschuld- oder Rentenschuldbriefes bedarf es nicht; dies gilt auch bei Eintragung eines Zustimmungsvorbehalts nach § 11c des Vermögensgesetzes. In den Fällen des Satzes 1 Buchstabe c und d soll der Bund oder die von ihm ermächtigte Stelle die Bewilligung im Benehmen mit der obersten Finanzbehörde des Landes erteilen, in dem das Grundstück, Gebäude oder sonstige grundstücksgleiche Recht belegen ist; dies ist vom Grundbuchamt nicht zu prüfen.
+gilt Satz 1 entsprechend; Bewilligungsstelle ist in den Fällen des Buchstabens a die Staatsbank Berlin, im Übrigen jede Dienststelle des Bundes. Die Bewilligungsstellen können durch dem Grundbuchamt nachzuweisende Erklärung sich wechselseitig oder andere öffentliche Stellen zur Abgabe von Erklärungen nach Satz 1 ermächtigen. In den vorgenannten Fällen findet § 39 der Grundbuchordnung keine Anwendung. Der Vorlage eines Hypotheken-, Grundschuld- oder Rentenschuldbriefes bedarf es nicht; dies gilt auch bei Eintragung eines Zustimmungsvorbehalts nach § 11c des Vermögensgesetzes. In den Fällen des Satzes 1 Buchstabe c und d soll der Bund oder die von ihm ermächtigte Stelle die Bewilligung im Benehmen mit der obersten Finanzbehörde des Landes erteilen, in dem das Grundstück, Gebäude oder sonstige grundstücksgleiche Recht belegen ist; dies ist vom Grundbuchamt nicht zu prüfen.
 
 (2) Als Grundbuch im Sinne der Grundbuchordnung gilt ein Grundbuchblatt, das unter den in Absatz 1 Nr. 5 genannten Voraussetzungen vor Inkrafttreten dieser Verordnung ohne ein Verfahren nach dem Sechsten Abschnitt der Grundbuchordnung oder den §§ 7 bis 17 der Verordnung zur Ausführung der Grundbuchordnung in ihrer im Bundesgesetzblatt Teil III, Gliederungsnummer 315-11-2, veröffentlichen bereinigten Fassung vom 8. August 1935 (RGBl. I S. 1089), die durch Artikel 4 Abs. 1 Nr. 1 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2182) aufgehoben worden ist, angelegt worden ist.
 
@@ -1135,7 +1147,7 @@ gilt Satz 1 entsprechend; Bewilligungsstelle ist in den Fällen des Buchstabens 
 
 Die §§ 6, 9, 13, 15 und 17 in der seit dem 9. Oktober 2013 geltenden Fassung sind auch auf Eintragungen anzuwenden, die vor diesem Zeitpunkt beantragt, aber zu diesem Zeitpunkt noch nicht vorgenommen worden sind.
 
-# Anlage 1 – (zu § 22)  (Grundbuchblatt)
+# Anlage 1 – (zu § 22)(Grundbuchblatt)
 
 (Inhalt: nicht darstellbares Muster eines Grundbuchblatts,  
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 5 - 15)
@@ -1145,52 +1157,52 @@ Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 5 - 15)
 (Inhalt: nicht darstellbares Muster eines unübersichtlichen Grundbuchblatts,  
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 16 - 26; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-# Anlage 2b – (zu § 31)  (Neues Grundbuchblatt)
+# Anlage 2b – (zu § 31)(Neues Grundbuchblatt)
 
 (Inhalt: nicht darstellbares Muster eines neuen Grundbuchblatts,  
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 28 - 36)
 
-# Anlage 3 – (zu § 52 Abs. 1)  (Hypothekenbrief)
+# Anlage 3 – (zu § 52 Abs. 1)(Hypothekenbrief)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,  
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 37)
 
-# Anlage 4 – (zu § 52 Abs. 1)  (Teilhypothekenbrief)
+# Anlage 4 – (zu § 52 Abs. 1)(Teilhypothekenbrief)
 
 (Inhalt: nicht darstellbares Muster eines Teilhypothekenbriefes,  
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 38)
 
-# Anlage 5 – (zu § 52 Abs. 1)  (Hypothekenbrief über eine Gesamthypothek)
+# Anlage 5 – (zu § 52 Abs. 1)(Hypothekenbrief über eine Gesamthypothek)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes über eine Gesamthypothek,  
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 39)
 
-# Anlage 6 – (zu § 52 Abs. 1)  (Gemeinschaftlicher Hypothekenbrief)
+# Anlage 6 – (zu § 52 Abs. 1)(Gemeinschaftlicher Hypothekenbrief)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,  
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 40)
 
-# Anlage 7 – (zu § 52 Abs. 1)  (Grundschuldbrief)
+# Anlage 7 – (zu § 52 Abs. 1)(Grundschuldbrief)
 
 (Inhalt: nicht darstellbares Muster eines Grundschuldbriefes,  
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 41)
 
-# Anlage 8 – (zu § 52 Abs. 1)  (Rentenschuldbrief)
+# Anlage 8 – (zu § 52 Abs. 1)(Rentenschuldbrief)
 
 (Inhalt: nicht darstellbares Muster eines Rentenschuldbriefes,  
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 42)
 
-# Anlage 9 – (zu § 58)  (Erbbaugrundbuch)
+# Anlage 9 – (zu § 58)(Erbbaugrundbuch)
 
 (Inhalt: nicht darstellbares Muster eines Erbbaugrundbuchs,  
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 44)
 
-# Anlage 10a – (zu § 69 Abs. 4)  (In Papierform geführtes Grundbuch)
+# Anlage 10a – (zu § 69 Abs. 4)(In Papierform geführtes Grundbuch)
 
 (Inhalt: nicht darstellbares Muster eines in Papierform geführtes Grundbuchblatts  
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 54 - 62)
 
-# Anlage 10b – (zu § 69 Abs. 4)  (Maschinell geführtes Grundbuchblatt)
+# Anlage 10b – (zu § 69 Abs. 4)(Maschinell geführtes Grundbuchblatt)
 
 (Inhalt: nicht darstellbares Muster eines maschinell geführtes Grundbuchblatts  
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 63 - 68)

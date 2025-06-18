@@ -2204,11 +2204,7 @@ Oberflächen behandeln und schützen
 </tbody>
 </table>
 
-Zeitrahmen 5: Be-
-
-und Verarbeiten von Kunst-
-
-und Verbundwerkstoffen
+Zeitrahmen 5: Be- und Verarbeiten von Kunst- und Verbundwerkstoffen
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
@@ -3173,7 +3169,7 @@ technische Vorschriften, Handbücher und Bauteilverzeichnisse anwenden
 Justier- und Einstellarbeiten durchführen
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">6 bis 8.</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">6 bis 8</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>

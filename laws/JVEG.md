@@ -203,7 +203,7 @@ Eine Vergütung oder Entschädigung wird nur nach diesem Gesetz gewährt. Der An
 
 (2) Dieses Gesetz gilt auch, wenn Behörden oder sonstige öffentliche Stellen von den in Absatz 1 Satz 1 Nr. 1 genannten Stellen zu Sachverständigenleistungen herangezogen werden. Für Angehörige einer Behörde oder einer sonstigen öffentlichen Stelle, die weder Ehrenbeamte noch ehrenamtlich tätig sind, gilt dieses Gesetz nicht, wenn sie ein Gutachten in Erfüllung ihrer Dienstaufgaben erstatten, vertreten oder erläutern.
 
-(3) Einer Heranziehung durch die Staatsanwaltschaft oder durch die Finanzbehörde in den Fällen des Absatzes 1 Satz 1 Nr. 1 steht eine Heranziehung durch die Polizei oder eine andere Strafverfolgungsbehörde im Auftrag oder mit vorheriger Billigung der Staatsanwaltschaft oder der Finanzbehörde gleich. Satz 1 gilt im Verfahren der Verwaltungsbehörde nach dem Gesetz über Ordnungswidrigkeiten entsprechend.
+(3) Einer Heranziehung durch die Staatsanwaltschaft oder durch die Finanzbehörde in den Fällen des Absatzes 1 Satz 1 Nummer 1 und 3 steht eine Heranziehung durch die Polizei oder eine andere Strafverfolgungsbehörde im Auftrag oder mit vorheriger Billigung der Staatsanwaltschaft oder der Finanzbehörde gleich. Satz 1 gilt im Verfahren der Verwaltungsbehörde nach dem Gesetz über Ordnungswidrigkeiten entsprechend.
 
 (4) Die Vertrauenspersonen in den Ausschüssen zur Wahl der Schöffen und die Vertrauensleute in den Ausschüssen zur Wahl der ehrenamtlichen Richter bei den Gerichten der Verwaltungs- und der Finanzgerichtsbarkeit werden wie ehrenamtliche Richter entschädigt.
 
@@ -230,6 +230,8 @@ Wird der Berechtigte in den Fällen des Satzes 2 Nummer 1 und 2 in demselben Ver
 (3) Der Anspruch auf Vergütung oder Entschädigung verjährt in drei Jahren nach Ablauf des Kalenderjahrs, in dem der nach Absatz 1 Satz 2 maßgebliche Zeitpunkt eingetreten ist. Auf die Verjährung sind die Vorschriften des Bürgerlichen Gesetzbuchs anzuwenden. Durch den Antrag auf gerichtliche Festsetzung (§ 4) wird die Verjährung wie durch Klageerhebung gehemmt. Die Verjährung wird nicht von Amts wegen berücksichtigt.
 
 (4) Der Anspruch auf Erstattung zu viel gezahlter Vergütung oder Entschädigung verjährt in drei Jahren nach Ablauf des Kalenderjahrs, in dem die Zahlung erfolgt ist. § 5 Abs. 3 des Gerichtskostengesetzes gilt entsprechend.
+
+(5) Im Fall des § 1 Absatz 3 ist der Anspruch bei der heranziehenden Polizei oder der anderen heranziehenden Strafverfolgungsbehörde geltend zu machen. Erfolgt die Heranziehung des Berechtigten durch eine zentrale Kontaktstelle (Absatz 2 der Allgemeinen Vorbemerkung der Anlage 3), ist der Anspruch auf Entschädigung bei dieser geltend zu machen.
 
 # § 3 – Vorschuss
 
@@ -353,7 +355,7 @@ Der erhöhte Aufwendungsersatz wird jeweils für die ersten 50 Seiten nach Satz 
 
 (2) Der Berechtigte erhält eine Vergütung nur insoweit, als seine Leistung bestimmungsgemäß verwertbar ist, wenn er
 
-1. gegen die Verpflichtung aus § 407a Absatz 1 bis 4 Satz 1 der Zivilprozessordnung verstoßen hat, es sei denn, er hat den Verstoß nicht zu vertreten;
+1. gegen die Verpflichtung aus § 407a Absatz 1, 3 und 4 Satz 1 der Zivilprozessordnung verstoßen hat, es sei denn, er hat den Verstoß nicht zu vertreten;
 
 2. eine mangelhafte Leistung erbracht hat und er die Mängel nicht in einer von der heranziehenden Stelle gesetzten angemessenen Frist beseitigt; die Einräumung einer Frist zur Mängelbeseitigung ist entbehrlich, wenn die Leistung grundlegende Mängel aufweist oder wenn offensichtlich ist, dass eine Mängelbeseitigung nicht erfolgen kann;
 
@@ -377,9 +379,9 @@ Soweit das Gericht die Leistung berücksichtigt, gilt sie als verwertbar. Für d
 
 (3) Für die Festsetzung des Stundensatzes nach Absatz 2 gilt § 4 entsprechend mit der Maßgabe, dass die Beschwerde gegen die Festsetzung auch dann zulässig ist, wenn der Wert des Beschwerdegegenstands 200 Euro nicht übersteigt. Die Beschwerde ist nur zulässig, solange der Anspruch auf Vergütung noch nicht geltend gemacht worden ist.
 
-(4) Das Honorar des Sachverständigen für die Prüfung, ob ein Grund für die Eröffnung eines Insolvenzverfahrens vorliegt und welche Aussichten für eine Fortführung des Unternehmens des Schuldners bestehen, beträgt 120 Euro je Stunde. Ist der Sachverständige zugleich der vorläufige Insolvenzverwalter oder der vorläufige Sachwalter, so beträgt sein Honorar 95 Euro je Stunde.
+(4) Das Honorar des Sachverständigen für die Prüfung, ob ein Grund für die Eröffnung eines Insolvenzverfahrens vorliegt und welche Aussichten für eine Fortführung des Unternehmens des Schuldners bestehen, beträgt 120 Euro je Stunde. Ist der Sachverständige zugleich der vorläufige Insolvenzverwalter oder der vorläufige Sachwalter, so beträgt sein Honorar 110 Euro je Stunde.
 
-(5) Das Honorar des Dolmetschers beträgt für jede Stunde 85 Euro. Der Dolmetscher erhält im Fall der Aufhebung eines Termins, zu dem er geladen war, eine Ausfallentschädigung, wenn
+(5) Das Honorar des Dolmetschers beträgt für jede Stunde 93 Euro. Der Dolmetscher erhält im Fall der Aufhebung eines Termins, zu dem er geladen war, eine Ausfallentschädigung, wenn
 
 1. die Aufhebung nicht durch einen in seiner Person liegenden Grund veranlasst war,
 
@@ -399,11 +401,11 @@ Die Ausfallentschädigung wird bis zu einem Betrag gewährt, der dem Honorar fü
 
 (2) Für Leistungen der in Abschnitt O des Gebührenverzeichnisses für ärztliche Leistungen (Anlage zur Gebührenordnung für Ärzte) bezeichneten Art bemisst sich das Honorar in entsprechender Anwendung dieses Gebührenverzeichnisses nach dem 1,3fachen Gebührensatz. § 4 Absatz 2 Satz 1, Absatz 2a Satz 1, Absatz 3 und 4 Satz 1 und § 10 der Gebührenordnung für Ärzte gelten entsprechend; im Übrigen bleiben die §§ 7 und 12 unberührt.
 
-(3) Soweit für die Erbringung einer Leistung nach Absatz 1 oder Absatz 2 zusätzliche Zeit erforderlich ist, beträgt das Honorar für jede Stunde der zusätzlichen Zeit 80 Euro.
+(3) Soweit für die Erbringung einer Leistung nach Absatz 1 oder Absatz 2 zusätzliche Zeit erforderlich ist, beträgt das Honorar für jede Stunde der zusätzlichen Zeit 87 Euro.
 
 # § 11 – Honorar für Übersetzer
 
-(1) Das Honorar für eine Übersetzung beträgt 1,80 Euro für jeweils angefangene 55 Anschläge des schriftlichen Textes, wenn der Text dem Übersetzer in editierbarer elektronischer Form zur Verfügung gestellt wird (Grundhonorar). Andernfalls beträgt das Honorar 1,95 Euro für jeweils angefangene 55 Anschläge (erhöhtes Honorar). Ist die Übersetzung wegen der besonderen Umstände des Einzelfalls besonders erschwert, insbesondere wegen der häufigen Verwendung von Fachausdrücken, der schweren Lesbarkeit des Textes, einer besonderen Eilbedürftigkeit oder weil es sich um eine in der Bundesrepublik Deutschland selten vorkommende Fremdsprache handelt, so beträgt das Grundhonorar 1,95 Euro und das erhöhte Honorar 2,10 Euro.
+(1) Das Honorar für eine Übersetzung beträgt 1,95 Euro für jeweils angefangene 55 Anschläge des schriftlichen Textes, wenn der Text dem Übersetzer in editierbarer elektronischer Form zur Verfügung gestellt wird (Grundhonorar). Andernfalls beträgt das Honorar 2,15 Euro für jeweils angefangene 55 Anschläge (erhöhtes Honorar). Ist die Übersetzung wegen der besonderen Umstände des Einzelfalls besonders erschwert, insbesondere wegen der häufigen Verwendung von Fachausdrücken, der schweren Lesbarkeit des Textes, einer besonderen Eilbedürftigkeit oder weil es sich um eine in der Bundesrepublik Deutschland selten vorkommende Fremdsprache handelt, so beträgt das Grundhonorar 2,15 Euro und das erhöhte Honorar 2,30 Euro.
 
 (2) Maßgebend für die Anzahl der Anschläge ist der Text in der Zielsprache. Werden jedoch nur in der Ausgangssprache lateinische Schriftzeichen verwendet, ist die Anzahl der Anschläge des Textes in der Ausgangssprache maßgebend. Wäre eine Zählung der Anschläge mit unverhältnismäßigem Aufwand verbunden, so wird deren Anzahl unter Berücksichtigung der durchschnittlichen Anzahl der Anschläge je Zeile nach der Anzahl der Zeilen bestimmt.
 
@@ -559,7 +561,7 @@ Das Gesetz über die Entschädigung der ehrenamtlichen Richter in der Fassung de
 
 # Anlage 1 – (zu § 9 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2020, 3241 - 3244)
+(Fundstelle: BGBl. I 2020, 3241 - 3244; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 2 – (zu § 10 Absatz 1 Satz 1)
 
@@ -966,422 +968,283 @@ je Person ..........</td>
 </tbody>
 </table>
 
-# Anlage 3 – (zu § 23 Abs. 1)
+# Anlage 3 – (zu § 23 Absatz 1)
 
-(Fundstelle: BGBl. I 2009, 995 - 997;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 109, S. 22 – 24)
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 7%" />
-<col style="width: 2%" />
-<col style="width: 73%" />
-<col style="width: 18%" />
+<col style="width: 76%" />
+<col style="width: 16%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header">
+<tr class="header" data-valign="middle">
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Nr.</th>
-<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50"> </th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Tätigkeit</th>
 <th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Höhe</th>
 </tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">Allgemeine Vorbemerkung:<br />
- (1) Die Entschädigung nach dieser Anlage schließt alle mit der Erledigung des Ersuchens der Strafverfolgungsbehörde verbundenen Tätigkeiten des Telekommunikationsunternehmens sowie etwa anfallende sonstige Aufwendungen (§ 7 JVEG) ein.<br />
- (2) Für Leistungen, die die Strafverfolgungsbehörden über eine zentrale Kontaktstelle des Generalbundesanwalts, des Bundeskriminalamtes, der Bundespolizei oder des Zollkriminalamtes oder über entsprechende für ein Bundesland oder für mehrere Bundesländer zuständige Kontaktstellen anfordern und abrechnen, ermäßigen sich die Entschädigungsbeträge nach den Nummern 100, 101, 300 bis 321 und 400 bis 402 um 20 Prozent, wenn bei der Anforderung darauf hingewiesen worden ist, dass es sich bei der anfordernden Stelle um eine zentrale Kontaktstelle handelt.</td>
+<td colspan="3" data-valign="top" data-charoff="50">Allgemeine Vorbemerkung:<br />
+ (1) Die Entschädigung nach dieser Anlage schließt alle mit der Erledigung des Ersuchens der Strafverfolgungsbehörde verbundenen Tätigkeiten des Telekommunikationsunternehmens sowie etwa anfallende sonstige Aufwendungen (§ 7 JVEG) ein.<br />
+ (2) Für Leistungen, die die Strafverfolgungsbehörden über eine zentrale Kontaktstelle des Generalbundesanwalts, des Bundeskriminalamtes, der Bundespolizei oder des Zollkriminalamtes oder über entsprechende für ein Land oder für mehrere Länder zuständige Kontaktstellen anfordern und abrechnen, ermäßigen sich die Entschädigungsbeträge nach den Nummern 100, 101, 200 bis 202, 300 bis 308 und 400 bis 402 um 20 Prozent.<br />
+ (3) Eine Entschädigung nach dieser Anlage wird auch dann gewährt, wenn das verpflichtete Telekommunikationsunternehmen zugleich Verletzter der verfahrensgegenständlichen Straftat ist.</td>
 </tr>
 <tr class="even">
-<td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<td colspan="3" style="text-align: center;" data-valign="middle" data-charoff="50">Abschnitt 1<br />
 
-Abschnitt 1<br />
-
-Überwachung der Telekommunikation<br />
-</td>
+Überwachung der Telekommunikation</td>
 </tr>
 <tr class="odd">
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">Vorbemerkung 1:<br />
-  (1) Die Vorschriften dieses Abschnitts gelten für die Heranziehung im Zusammenhang mit Funktionsprüfungen der Aufzeichnungs- und Auswertungseinrichtungen der berechtigten Stellen entsprechend.<br />
-  (2) Leitungskosten werden nur entschädigt, wenn die betreffende Leitung innerhalb des Überwachungszeitraums mindestens einmal zur Übermittlung überwachter Telekommunikation an die Strafverfolgungsbehörde genutzt worden ist.<br />
-  (3) Für die Überwachung eines Voice-over-IP-Anschlusses oder eines Zugangs zu einem elektronischen Postfach richtet sich die Entschädigung für die Leitungskosten nach den Nummern 102 bis 104. Dies gilt auch für die Überwachung eines Mobilfunkanschlusses, es sei denn, dass auch die Überwachung des über diesen Anschluss abgewickelten Datenverkehrs angeordnet worden ist und für die Übermittlung von Daten Leitungen mit Übertragungsgeschwindigkeiten von mehr als 144 kbit/s genutzt werden müssen und auch genutzt worden sind. In diesem Fall richtet sich die Entschädigung einheitlich nach den Nummern 111 bis 113.<br />
-</td>
+<td colspan="3" data-valign="top" data-charoff="50">Vorbemerkung 1:<br />
+ (1) Die Vorschriften dieses Abschnitts gelten für die Heranziehung im Zusammenhang mit Funktionsprüfungen der Aufzeichnungs- und Auswertungseinrichtungen der berechtigten Stellen entsprechend.<br />
+ (2) Leitungskosten werden nur entschädigt, wenn die betreffende Leitung innerhalb des Überwachungszeitraums mindestens einmal zur Übermittlung überwachter Telekommunikation an die Strafverfolgungsbehörde genutzt worden ist. Die Entschädigung erfolgt für den gesamten Überwachungszeitraum.<br />
+ (3) Für die Überwachung eines Zugangs zu einem elektronischen Postfach oder eines Anschlusses ohne Internetzugang richtet sich die Entschädigung für die Leitungskosten nach den Nummern 102 bis 104. Für die Überwachung eines Internetzugangsanschlusses richtet sich die Entschädigung nach den Nummern 105 bis 107. Unter die Nummern 105 bis 107 fallen sowohl festnetzbezogene Internetzugangsanschlüsse als auch die zur Erbringung des Internetzugangsdienstes genutzten Mobilfunkanschlüsse sowie hierfür genutzte drahtlose Anschlüsse in lokalen Netzwerken.<br />
+ (4) Auslandskopfüberwachungen werden gesondert entschädigt.</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">100</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Umsetzung einer Anordnung zur Überwachung der Telekommunikation, unabhängig von der Zahl der dem Anschluss zugeordneten Kennungen:<br />
-je Anschluss..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  100,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Umsetzung einer Anordnung zur Überwachung der Telekommunikation, unabhängig von der Zahl der dem Anschluss zugeordneten Kennungen:<br />
+je Anschluss<br />
+ Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Maßnahme entgolten.</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+ 95,00 €</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Maßnahme entgolten.</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">101</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verlängerung einer Maßnahme zur Überwachung der Telekommunikation oder Umschaltung einer solchen Maßnahme auf Veranlassung der Strafverfolgungsbehörde auf einen anderen Anschluss dieser Stelle</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+ 45,00 €</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">101</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verlängerung einer Maßnahme zur Überwachung der Telekommunikation oder Umschaltung einer solchen Maßnahme auf Veranlassung der Strafverfolgungsbehörde auf einen anderen Anschluss dieser Stelle ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   35,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Leitungskosten für die Übermittlung der zu überwachenden Telekommunikation:<br />
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Leitungskosten für die Übermittlung der zu überwachenden Telekommunikation:<br />
 für jeden überwachten Anschluss,</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">102</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">wenn die Überwachungsmaßnahme nicht länger als eine Woche dauert ..........</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">   24,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">103</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">wenn die Überwachungsmaßnahme länger als eine Woche, jedoch nicht länger als zwei Wochen dauert ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   42,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">– wenn die Überwachungsmaßnahme nicht länger als eine Woche dauert</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 25,00 €</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">104</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">wenn die Überwachungsmaßnahme länger als zwei Wochen dauert:<br />
-je angefangenen Monat ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   75,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">103</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">– wenn die Überwachungsmaßnahme länger als eine Woche, jedoch nicht länger als zwei Wochen dauert</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+ 43,00 €</td>
 </tr>
 <tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">104</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">– wenn die Überwachungsmaßnahme länger als zwei Wochen dauert:<br />
+je angefangenem Monat</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+ 77,00 €</td>
+</tr>
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Der überwachte Anschluss ist ein ISDN-Basisanschluss:</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Der überwachte Anschluss dient der Erbringung eines Internetzugangsdienstes:</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">105</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entschädigung nach Nummer 102 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   40,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">– Die Entschädigung nach Nummer 102 beträgt</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 78,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">106</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entschädigung nach Nummer 103 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   70,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">– Die Entschädigung nach Nummer 103 beträgt</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">133,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">107</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entschädigung nach Nummer 104 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  125,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Der überwachte Anschluss ist ein ISDN-Primärmultiplexanschluss:</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">– Die Entschädigung nach Nummer 104 beträgt</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">241,00 €</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">108</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entschädigung nach Nummer 102 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  490,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">109</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entschädigung nach Nummer 103 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  855,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">110</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entschädigung nach Nummer 104 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">1 525,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Der überwachte Anschluss ist ein digitaler Teilnehmeranschluss mit einer Übertragungsgeschwindigkeit von mehr als 144 kbit/s, aber kein ISDN-Primärmultiplexanschluss:</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">111</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entschädigung nach Nummer 102 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   65,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">112</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entschädigung nach Nummer 103 beträgt ..........</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  110,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">113</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entschädigung nach Nummer 104 beträgt ..........</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">  200,00 €</td>
-</tr>
-<tr class="odd">
-<td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2<br />
 
-Abschnitt 2<br />
+Auskünfte über Bestandsdaten und Daten für Ersuchen der Sicherheitsbehörden</td>
+</tr>
+<tr class="odd">
+<td colspan="3" data-valign="top" data-charoff="50">Vorbemerkung 2:<br />
 
-Auskünfte über Bestandsdaten<br />
-</td>
+ Beinhalten die beauskunfteten Daten mehrere Rufnummern, Kennungen oder sonstige Bestandsdaten, die demselben Vertrag des Betroffenen mit dem angefragten Telekommunikationsunternehmen zugeordnet sind, handelt es sich nur um einen einzigen Kundendatensatz.</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">200</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Auskunft über Bestandsdaten nach § 3 Nr. 6 TKG, sofern<br />
-1. die Auskunft nicht über das automatisierte Auskunftsverfahren nach § 173 TKG erteilt werden kann und die Unmöglichkeit der Auskunftserteilung auf diesem Wege nicht vom Unternehmen zu vertreten ist und<br />
-2. für die Erteilung der Auskunft nicht auf Verkehrsdaten zurückgegriffen werden muss:<br />
-je angefragten Kundendatensatz ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   18,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auskunft über Bestandsdaten nach § 3 Nr. 6 TKG, sofern</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">201</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Auskunft über Bestandsdaten, zu deren Erteilung auf Verkehrsdaten zurückgegriffen werden muss:<br />
-für bis zu 10 in demselben Verfahren gleichzeitig angefragte Kennungen, die der Auskunftserteilung zugrunde liegen ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   35,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">1. die Auskunft nicht über das automatisierte Auskunftsverfahren nach § 173 TKG erteilt werden kann und die Unmöglichkeit der Auskunftserteilung auf diesem Wege nicht vom Unternehmen zu vertreten ist und</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  Bei mehr als 10 angefragten Kennungen wird die Pauschale für jeweils bis zu 10 weitere Kennungen erneut gewährt. Kennung ist auch eine IP-Adresse.</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">2. für die Erteilung der Auskunft nicht auf Verkehrsdaten zurückgegriffen werden muss:<br />
+je angefragtem Kundendatensatz</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+ 25,00 €</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">201</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auskunft über Bestandsdaten, zu deren Erteilung auf Verkehrsdaten zurückgegriffen werden muss:<br />
+für bis zu 10 in demselben Verfahren gleichzeitig angefragte Kennungen, die der Auskunftserteilung zugrunde liegen</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+<br />
+ 45,00 €</td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50"> Bei mehr als 10 angefragten Kennungen wird die Pauschale für jeweils bis zu 10 weitere Kennungen erneut gewährt. Kennung ist auch eine IP-Adresse.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">202</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Es muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:<br />
-Die Pauschale 201 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   40,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auskunft über Daten für Ersuchen der Sicherheitsbehörden nach § 172 TKG, sofern die Auskunft nicht über das automatisierte Auskunftsverfahren nach § 173 TKG erteilt werden kann und die Unmöglichkeit der Auskunftserteilung auf diesem Wege nicht vom Unternehmen zu vertreten ist:<br />
+je angefragtem Kundendatensatz</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+<br />
+<br />
+ 15,00 €</td>
 </tr>
 <tr class="even">
-<td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<td colspan="3" style="text-align: center;" data-valign="bottom" data-charoff="50">Abschnitt 3<br />
 
-Abschnitt 3<br />
-
-Auskünfte über Verkehrsdaten<br />
-</td>
+Auskünfte über Verkehrsdaten</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">300</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Auskunft über gespeicherte Verkehrsdaten:<br />
-für jede Kennung, die der Auskunftserteilung zugrunde liegt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   30,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auskunft über gespeicherte Verkehrsdaten:<br />
+für jede Kennung, die der Auskunftserteilung zugrunde liegt</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+ 25,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> Die Mitteilung der die Kennung betreffenden Standortdaten ist mit abgegolten.</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50"> Die Mitteilung der die Kennung betreffenden Standortdaten ist mit abgegolten.</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">301</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:<br />
-Die Pauschale 300 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   35,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Auskunft wird im Fall der Nummer 300 aufgrund eines einheitlichen Ersuchens auch oder ausschließlich für künftig anfallende Verkehrsdaten zu bestimmten Zeitpunkten erteilt:<br />
+für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+<br />
+ 10,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">302</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Auskunft wird im Fall der Nummer 300 aufgrund eines einheitlichen Ersuchens auch oder ausschließlich für künftig anfallende Verkehrsdaten zu bestimmten Zeitpunkten erteilt:<br />
-für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   10,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auskunft über gespeicherte Verkehrsdaten für eine von der Strafverfolgungsbehörde benannte Funkzelle (Funkzellenabfrage)</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+ 40,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">303</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Auskunft über gespeicherte Verkehrsdaten zu Verbindungen, die zu einer bestimmten Zieladresse hergestellt wurden, durch Suche in allen Datensätzen der abgehenden Verbindungen eines Betreibers (Zielwahlsuche):<br />
-je Zieladresse ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   90,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle:<br />
+Die Pauschale 302 erhöht sich für jede weitere Funkzelle um</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+  5,00 €</td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">304</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auskunft über gespeicherte Verkehrsdaten in Fällen, in denen lediglich Ort und Zeitraum bekannt sind:<br />
+Die Abfrage erfolgt für einen durch eine Adresse bezeichneten Standort</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+ 75,00 €</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">305</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Auskunft erfolgt für eine Fläche:<br />
+Die Pauschale 304 beträgt</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+190,00 €</td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">306</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Auskunft erfolgt für eine bestimmte Wegstrecke:<br />
+Die Pauschale 304 beträgt für jeweils angefangene 10 Kilometer Länge</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+ 65,00 €</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">307</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Umsetzung einer Anordnung zur Übermittlung künftig anfallender Verkehrsdaten in Echtzeit:<br />
+je Anschluss</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+ 95,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> Die Mitteilung der Standortdaten der Zieladresse ist mit abgegolten.</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">304</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:<br />
-Die Pauschale 303 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  110,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">305</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Auskunft wird im Fall der Nummer 303 aufgrund eines einheitlichen Ersuchens auch oder ausschließlich für künftig anfallende Verkehrsdaten zu bestimmten Zeitpunkten erteilt:<br />
-für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   70,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">306</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Auskunft über gespeicherte Verkehrsdaten für eine von der Strafverfolgungsbehörde benannte Funkzelle (Funkzellenabfrage) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   30,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">307</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:<br />
-Die Pauschale 306 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   35,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50"> Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Übermittlung und die Mitteilung der den Anschluss betreffenden Standortdaten entgolten.</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">308</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle:<br />
-Die Pauschale 306 erhöht sich für jede weitere Funkzelle um ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">    4,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verlängerung der Maßnahme im Fall der Nummer 307</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 45,00 €</td>
 </tr>
 <tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Leitungskosten für die Übermittlung der Verkehrsdaten in den Fällen der Nummern 307 und 308:</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">309</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle und für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:<br />
-Die Pauschale 306 erhöht sich für jede weitere Funkzelle um ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">    5,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">– wenn die angeordnete Übermittlung nicht länger als eine Woche dauert</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  9,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">310</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Auskunft über gespeicherte Verkehrsdaten in Fällen, in denen lediglich Ort und Zeitraum bekannt sind:<br />
-Die Abfrage erfolgt für einen bestimmten, durch eine Adresse bezeichneten Standort ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   60,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">– wenn die angeordnete Übermittlung länger als eine Woche, aber nicht länger als zwei Wochen dauert</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+ 18,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">311</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:<br />
-Die Pauschale 310 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   70,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Auskunft erfolgt für eine Fläche:</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">– wenn die angeordnete Übermittlung länger als zwei Wochen dauert:<br />
+je angefangenem Monat</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+ 36,00 €</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">312</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entfernung der am weitesten voneinander entfernten Punkte beträgt nicht mehr als 10 Kilometer:<br />
-Die Pauschale 310 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  190,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">313</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 10, aber nicht mehr als 25 Kilometer:<br />
-Die Pauschale 310 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  490,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">314</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 25, aber nicht mehr als 45 Kilometer:<br />
-Die Pauschale 310 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  930,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> Liegen die am weitesten voneinander entfernten Punkte mehr als 45 Kilometer auseinander, ist für den darüber hinausgehenden Abstand die Entschädigung nach den Nummern 312 bis 314 gesondert zu berechnen.</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Auskunft erfolgt für eine Fläche und es muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">315</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entfernung der am weitesten voneinander entfernten Punkte beträgt nicht mehr als 10 Kilometer:<br />
-Die Pauschale 310 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  230,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">316</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 10, aber nicht mehr als 25 Kilometer:<br />
-Die Pauschale 310 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  590,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">317</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 25, aber nicht mehr als 45 Kilometer:<br />
-Die Pauschale 310 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">1 120,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> Liegen die am weitesten voneinander entfernten Punkte mehr als 45 Kilometer auseinander, ist für den darüber hinausgehenden Abstand die Entschädigung nach den Nummern 315 bis 317 gesondert zu berechnen.</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">318</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Auskunft erfolgt für eine bestimmte Wegstrecke:<br />
-Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  110,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">319</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Die Auskunft erfolgt für eine bestimmte Wegstrecke und es muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:<br />
-Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  130,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">320</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Umsetzung einer Anordnung zur Übermittlung künftig anfallender Verkehrsdaten in Echtzeit:<br />
-je Anschluss ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">  100,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Übermittlung und die Mitteilung der den Anschluss betreffenden Standortdaten entgolten.</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">321</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Verlängerung der Maßnahme im Fall der Nummer 320 ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   35,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Leitungskosten für die Übermittlung der Verkehrsdaten in den Fällen der Nummern 320 und 321:</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">322</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">wenn die angeordnete Übermittlung nicht länger als eine Woche dauert ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">    8,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">323</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">wenn die angeordnete Übermittlung länger als eine Woche, aber nicht länger als zwei Wochen dauert ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   14,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">324</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">– </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">wenn die angeordnete Übermittlung länger als zwei Wochen dauert:<br />
-je angefangenen Monat ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   25,00 €</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">325</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Übermittlung der Verkehrsdaten auf einem Datenträger ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">    10,00 €</td>
-</tr>
-<tr class="odd">
-<td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 4<br />
 
-Abschnitt 4<br />
-
-Sonstige Auskünfte<br />
-</td>
+Sonstige Auskünfte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">400</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Auskunft über den letzten dem Netz bekannten Standort eines Mobiltelefons (Standortabfrage) ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   90,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">401</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Im Fall der Nummer 400 muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:<br />
-Die Pauschale 400 beträgt ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   110,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auskunft über den letzten dem Netz bekannten Standort eines mobilen Endgeräts oder über die postalische Adresse eines festnetzbasierten Anschlusses, auch anhand der IP-Adresse (Standortabfrage)</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+ 85,00 €</td>
 </tr>
 <tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">401</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auskunft über die Struktur von Funkzellen:<br />
+je Funkzelle</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+185,00 €</td>
+</tr>
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">402</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Auskunft über die Struktur von Funkzellen:<br />
-je Funkzelle ..........</td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50">   35,00 €</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Auskunft über Daten, mittels derer der Zugriff auf Endgeräte oder Speichereinrichtungen geschützt wird, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden (§ 174 Abs. 1 Satz 2 TKG):<br />
+je Datum</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+<br />
+   15,00 €</td>
 </tr>
 </tbody>
 </table>

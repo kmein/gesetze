@@ -107,6 +107,8 @@ Die finanzielle Förderung kann in der Gewährung von Zuschüssen, Darlehen und 
 
 (4) Die an den Bund nach den vorstehenden Absätzen abzuführenden Beträge sind vom Land in Höhe von 3,5 Prozentpunkten über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen, im Falle des Absatzes 2 vom Zeitpunkt der Auszahlung der Bundesmittel an, im Falle der Absätze 1 und 3 ab dem 31. Tag nach Eingang des Betrages beim Land.
 
+# §§ 9 bis 11 – (jetzt §§ 6 bis 8)
+
 # §§ 12 und 13 – (weggefallen)
 
 # § 14 – Inkrafttreten

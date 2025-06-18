@@ -49,19 +49,33 @@ e) das Zurücksetzen und Neusetzen der Geheimnummer durch den Ausweishersteller 
 
 f) das Ändern der Anschrift auf dem Personalausweis unter Verwendung eines Aufklebers nach Anhang 1 sowie auf dem Chip des Personalausweises nach einer elektronischen Anmeldung nach § 23a des Bundesmeldegesetzes,
 
-g) die Übermittlung der Daten nach § 10a Absatz 1 Satz 1 des Personalausweisgesetzes und
+g) die Übermittlung der Daten nach § 10a Absatz 1 Satz 1 des Personalausweisgesetzes,
 
-h) den elektronischen Identitätsnachweis mit einem mobilen Endgerät.
+h) den elektronischen Identitätsnachweis mit einem mobilen Endgerät und
+
+i) das sichere Verfahren der Übermittlung von Lichtbildern von einem Dienstleister an eine Personalausweisbehörde.
 
 Der Stand der Technik ist als niedergelegt zu vermuten in den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik. Die Übersicht über die Technischen Richtlinien wird im Bundesanzeiger veröffentlicht; die jeweils geltende Fassung der Technischen Richtlinien wird im Bundesanzeiger durch Verweis auf die Internetseite des Bundesamtes für Sicherheit in der Informationstechnik bekannt gemacht.
 
 # § 3 – Zertifizierung von Systemkomponenten
 
-(1) Die Systemkomponenten der Personalausweisbehörden, des Ausweisherstellers, der Diensteanbieter und ihrer Auftragnehmer nach § 11 des Bundesdatenschutzgesetzes, deren Zertifizierung verpflichtend oder optional ist, ergeben sich aus dem Anhang 5. Die Art und die Einzelheiten der Zertifizierung sind den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik zu entnehmen.
+(1) Aus Anhang 4 ergeben sich die Systemkomponenten
+
+1. der Personalausweisbehörden,
+
+2. des Ausweisherstellers,
+
+3. der Cloudanbieter,
+
+4. der Dienstleister, die Lichtbildaufnahmegeräte im Sinne des § 5a Absatz 2 Nummer 2 verwenden,
+
+5. der Diensteanbieter und ihrer Auftragsverarbeiter nach Artikel 4 Nummer 8 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35), deren jeweilige Zertifizierung verpflichtend oder optional ist.
+
+Die Art und die Einzelheiten der Zertifizierung sind den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik zu entnehmen.
 
 (2) Für die Zertifizierung gelten § 9 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821), das zuletzt durch Artikel 1 des Gesetzes vom 23. Juni 2017 (BGBl. I S. 1885) geändert worden ist, sowie die BSI-Zertifizierungs- und Anerkennungsverordnung vom 17. Dezember 2014 (BGBl. I S. 2231), die durch Artikel 40 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, in der jeweils geltenden Fassung.
 
-(3) Die Kosten der Zertifizierung trägt der Antragsteller. Die BSI-Kostenverordnung vom 3. März 2005 (BGBl. I S. 519) in der jeweils geltenden Fassung findet Anwendung.
+(3) Die Kosten der Zertifizierung trägt der Antragsteller.
 
 # § 4 – Dokumentationspflichten
 
@@ -113,9 +127,15 @@ c) die Bereitstellung der Sperrliste zum Abruf sowie das Datum und die Uhrzeit d
 
 d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen Abrufs.
 
+(4) Der Cloudanbieter dokumentiert zum Zwecke der Nachverfolgbarkeit des Übermittlungsvorgangs eines erstellten und übermittelten Lichtbilds
+
+1. die Übermittlung eines verschlüsselten Lichtbilds durch einen Dienstleister, das Datum und die Uhrzeit der Übermittlung sowie
+
+2. den Abruf eines verschlüsselten Lichtbilds durch die Personalausweisbehörde sowie das Datum und die Uhrzeit des Abrufs.
+
 # § 5 – Speicherung und Löschung
 
-(1) Für die Speicherung personenbezogener Daten nach dieser Verordnung bei den Personalausweisbehörden gilt § 23 Absatz 4 des Personalausweisgesetzes entsprechend.
+(1) Für die Speicherung personenbezogener Daten nach dieser Verordnung bei den Personalausweisbehörden gilt § 23 Absatz 4 des Personalausweisgesetzes entsprechend. Lichtbilder, die nach § 6a durch Lichtbildaufnahmegeräte der Personalausweisbehörde gefertigt wurden, sind unverzüglich nach Abruf durch die Personalausweisbehörde von dem Lichtbildaufnahmegerät zu löschen.
 
 (2) Personenbezogene Daten beim Sperrnotruf sind ein Jahr nach ihrer Erhebung zu löschen.
 
@@ -137,19 +157,85 @@ d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen A
 
 (6) Abgesehen von der im Personalausweisregister zu speichernden Anschrift löscht die Personalausweisbehörde alle personenbezogenen Daten, die zur Änderung der Anschrift nach einer elektronischen Anmeldung nach § 23a des Bundesmeldegesetzes erhoben werden, nach Vollzug der Änderung der Anschrift auf dem Chip sowie Erstellung und Versand des Aufklebers, spätestens aber 30 Tage nach Erhalt der personenbezogenen Daten durch die Personalausweisbehörde.
 
+(7) Der Cloudanbieter ist verpflichtet, das Lichtbild unverzüglich nach Abruf durch die Personalausweisbehörde, spätestens aber sechs Monate nach Empfang des Lichtbilds von einem Dienstleister, zu löschen, es sei denn, die Personalausweisbehörde hat auf Veranlassung der antragstellenden Person vermerkt, dass das Lichtbild für einen Zeitraum von höchstens sechs Monaten ab Antragstellung nicht gelöscht werden soll. Im Übrigen ist der Cloudanbieter verpflichtet, die bei ihm gespeicherten Daten für folgende Fristen zu speichern; nach Fristablauf sind die Daten zu löschen:
+
+1. die Protokolldaten nach § 4 Absatz 4 für zehn Jahre und sechs Monate nach ihrer Erstellung;
+
+2. die personenbezogenen Daten der Dienstleister sowie die diesen Personen zuzuordnenden Pseudonyme für sechs Monate, ab dem Zeitpunkt, ab dem der Kontoinhaber von dem Cloudanbieter die Auflösung seines Nutzerkontos verlangt hat;
+
+3. abweichend von Nummer 2 die dort genannten Daten für zehn Jahre und sechs Monate seit der Übermittlung des Lichtbilds an die zuständige Personalausweisbehörde, wenn dieses für die Personalausweisbeantragung durch eine dem Nutzerkonto zuzuordnende Person übermittelt wurde.
+
+# § 5a – Fertigung und Übermittlung des Lichtbilds durch ein sicheres Verfahren
+
+(1) In Fällen, in denen ein Personalausweis bei einer Personalausweisbehörde nach § 8 Absatz 1 des Personalausweisgesetzes beantragt wird, kann die antragstellende Person einen Dienstleister mit der Fertigung des Lichtbilds beauftragen. Der Dienstleister hat das Lichtbild elektronisch zu fertigen und im Anschluss durch ein sicheres Verfahren an die Personalausweisbehörde zu übermitteln. Dienstleister ist jede natürliche oder juristische Person, die gewerbsmäßig Lichtbilder von anderen Personen anfertigt, die zur Vorlage bei einer Personalausweisbehörde bestimmt sind.
+
+(2) Ein sicheres Verfahren im Sinne des Absatzes 1 Satz 2 ist:
+
+1. die Übermittlung des Lichtbilds an die Personalausweisbehörde von einem Dienstleister unter Einbindung eines Cloudanbieters oder
+
+2. die Übermittlung des Lichtbilds an die Personalausweisbehörde von einem zertifizierten Lichtbildaufnahmegerät eines Dienstleisters, das unmittelbar an das Behördennetz einer Personalausweisbehörde angeschlossen ist.
+
+# § 5b – Übermittlung des Lichtbilds unter Einbindung eines Cloudanbieters
+
+(1) Bei einer Übermittlung nach § 5a Absatz 2 Nummer 1 übermittelt der Dienstleister das Lichtbild an einen Cloudanbieter und übergibt der antragstellenden Person anschließend einen Code, den diese im Rahmen der Antragstellung der Personalausweisbehörde übergibt.
+
+(2) Mit diesem Code ruft die Personalausweisbehörde das Lichtbild bei dem Cloudanbieter ab. Durch den Abruf wird das Lichtbild gemeinsam mit dem Pseudonym des Dienstleisters an die Personalausweisbehörde übermittelt.
+
+(3) Die Übermittlung des Lichtbilds vom Dienstleister an die Personalausweisbehörde erfolgt verschlüsselt als Ende-zu-Ende-Verschlüsselung; eine Entschlüsselung durch den Cloudanbieter ist auszuschließen. Eine Übermittlung des Lichtbilds vom Dienstleister zum Cloudanbieter ist nur unter Verwendung von zertifizierten Komponenten nach Maßgabe von § 3 Absatz 1 Satz 1 zulässig.
+
+(4) Die Verarbeitung der personenbezogenen Daten darf ausschließlich durch einen im Gebiet der Europäischen Union ansässigen Cloudanbieter und ausschließlich im Gebiet der Europäischen Union erfolgen.
+
+# § 5c – Registrierung und Identifizierung eines Dienstleisters bei einem Cloudanbieter
+
+(1) Dienstleister haben sich bei einem Cloudanbieter mit einem Nutzerkonto zu registrieren. Bei der Registrierung ist ein Nachweis über die Dienstleistereigenschaft sowie ein Nachweis über die Identität des Dienstleisters zu erbringen.
+
+(2) Der Nachweis über die Dienstleistereigenschaft ist zu erbringen durch Übermittlung:
+
+1. eines Nachweises über die Gewerbeanmeldung;
+
+2. durch einen Auszug aus dem Unternehmensregister;
+
+3. durch eine Bescheinigung der Mitgliedschaft in der Handwerkskammer oder
+
+4. einer Bestätigung eines Finanzamtes über die Anmeldung einer freiberuflichen Tätigkeit als Fotografin oder Fotograf.
+
+(3) Bei der Registrierung erfolgt der Nachweis der Identität des Dienstleisters durch
+
+1. einen elektronischen Identitätsnachweis gemäß § 18 des Personalausweisgesetzes, gemäß § 12 des eID-Karte-Gesetzes oder gemäß § 78 Absatz 5 des Aufenthaltsgesetzes oder
+
+2. ein anderes elektronisches Identifizierungsmittel, das nach Artikel 6 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) auf dem Sicherheitsniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 notifiziert worden ist.
+
+Einem Nutzerkonto können mehrere Personen zugeordnet werden, wenn diese vom Dienstleister auf Dauer angelegt beschäftigt werden. Personen nach Satz 2 müssen sich bei der Registrierung in einem Nutzerkonto ebenfalls mittels eines der in Satz 1 genannten Identifizierungsmittel in dem Nutzerkonto registrieren.
+
+(4) Für jede Person, die sich in einem Nutzerkonto nach Absatz 3 registriert hat, wird durch den Cloudanbieter ein Pseudonym erzeugt.
+
+(5) Vor jeder Übermittlung eines Lichtbilds an den Cloudanbieter hat sich die übermittelnde Person des Dienstleisters erneut mit einem der in Absatz 3 Satz 1 genannten Identifizierungsmittel zu identifizieren. Bei jeder Übermittlung wird das Lichtbild durch den Cloudanbieter mit dem Pseudonym der übermittelnden Person dauerhaft verbunden. Die Personalausweisbehörde trägt im Personalausweisregister als lichtbildaufnehmende Stelle gemäß § 23 Absatz 3 Nummer 20 des Personalausweisgesetzes das übermittelte Pseudonym ein.
+
+# § 5d – Pflichten des Cloudanbieters
+
+Wenn bestimmte Tatsachen die Annahme begründen, dass ein beim Cloudanbieter abgerufenes Lichtbild auf unzulässige Weise erstellt worden ist, kann die Personalausweisbehörde vom Cloudanbieter verlangen, Auskunft darüber zu geben, welcher Person das mit dem Lichtbild verbundene Pseudonym zuzuordnen ist. Dies gilt auch für den Fall, dass ein Cloudanbieter seinen Betrieb einstellt und solange, bis die Daten durch den Cloudanbieter gelöscht werden.
+
+# § 5e – Übermittlung des Lichtbilds von einem Lichtbildaufnahmegerät eines Dienstleisters
+
+(1) Bei einer Übermittlung nach § 5a Absatz 2 Nummer 2 fertigt der Dienstleister das Lichtbild durch sein Lichtbildaufnahmegerät an, das mit Zustimmung der jeweiligen Personalausweisbehörde unmittelbar an ihr Behördennetzwerk angeschlossen ist.
+
+(2) Mit dem Lichtbild wird der Name des Dienstleisters, der das Lichtbildaufnahmegerät zur Verfügung gestellt hat, sowie die Kennung des verwendeten Lichtbildaufnahmegeräts der Personalausweisbehörde übermittelt. Die Personalausweisbehörde trägt im Personalausweisregister als lichtbildaufnehmende Stelle gemäß § 23 Absatz 3 Nummer 20 des Personalausweisgesetzes den Namen des Dienstleisters und die Kennung des verwendeten Lichtbildaufnahmegeräts ein.
+
 # § 6 – Erfassung der Anschrift
 
 Der Wohnort in der Anschrift nach § 5 Absatz 2 Nummer 9 Alternative 1 des Personalausweisgesetzes ist mit der amtlichen Bezeichnung und mit dem im amtlichen Gemeindeverzeichnis verwendeten eindeutigen Gemeindeschlüssel zu erfassen. Zusätze zum Namen des Wohnortes sind einheitlich aufzunehmen, wenn dies für die Eindeutigkeit des Wohnortes oder des Straßennamens erforderlich ist. Darüber hinaus wird auch die Postleitzahl erfasst. Wird als Wohnort eine ausländische Anschrift glaubhaft gemacht, wird diese aufgenommen. Hierbei können die Besonderheiten der ausländischen Anschrift berücksichtigt werden, soweit diese technisch darstellbar sind und eine eindeutige Zuordnung der Anschrift ermöglichen.
 
+# § 6a – Fertigung des Lichtbilds durch die Personalausweisbehörde
+
+(1) Wird das Lichtbild von der Personalausweisbehörde mit einem eigenen Lichtbildaufnahmegerät gefertigt, trägt die Personalausweisbehörde im Personalausweisregister als lichtbildaufnehmende Stelle gemäß § 23 Absatz 3 Nummer 20 des Personalausweisgesetzes die Personalausweisbehörde ein. Die Anfertigung des Lichtbilds mit einem eigenen Lichtbildaufnahmegerät ist nur zulässig, wenn das Lichtbildaufnahmegerät als Systemkomponente im Sinne des § 3 Absatz 1 Satz 1 zertifiziert worden ist.
+
+(2) Das nach Absatz 1 gefertigte Lichtbild ist unverzüglich durch die Personalausweisbehörde vom Lichtbildaufnahmegerät zu löschen, wenn es durch die Personalausweisbehörde abgerufen wurde. Wird das gefertigte Lichtbild nicht sofort durch die Personalausweisbehörde abgerufen, so ist dieses bis zum Abruf zu speichern, längstens jedoch für 96 Stunden nach dessen Anfertigung.
+
 # § 7 – Qualitätssicherung des Lichtbildes und der Fingerabdrücke
 
-(1) Von der Person, für die ein Ausweis im Sinne des § 2 Absatz 1 des Personalausweisgesetzes auszustellen ist, ist der Personalausweisbehörde ein aktuelles Lichtbild ohne Rand vorzulegen, das 45 Millimeter hoch und 35 Millimeter breit ist. Wenn die Personalausweisbehörde die technischen Voraussetzungen geschaffen hat, kann das Lichtbild auch
+(1) Ein Lichtbild, das nach § 9 Absatz 3 Satz 3 des Personalausweisgesetzes gefertigt wird, muss aktuell sein und den Vorgaben der Technischen Richtlinie TR-03121 des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils geltenden Fassung entsprechen.
 
-1. von Dritten elektronisch verschlüsselt und signiert an die Personalausweisbehörde übermittelt werden, soweit diese Form der Übermittlung durch eine Technische Richtlinie des Bundesamtes für Sicherheit in der Informationstechnik vorgesehen ist, oder
-
-2. durch die Personalausweisbehörde gefertigt werden.
-
-(2) Die Personalausweisbehörde stellt durch geeignete technische und organisatorische Maßnahmen die erforderliche Qualität der Erfassung des Lichtbildes und der Fingerabdruckbilder sicher. Dazu hat sie die Fingerabdruckbilder und das Lichtbild mit einer zertifizierten Qualitätssicherungssoftware zu prüfen und in dem für den Ausweis verwendeten Format zu speichern. Darüber hinaus hat auch die Erfassung der Fingerabdruckbilder mit zertifizierter Hardware zu erfolgen.
+(2) Abweichend von Absatz 1 kann für einen Personalausweis, der im Ausland bei der Personalausweisbehörde nach § 8 Absatz 2 Personalausweisgesetz beantragt wird, auch ein aktuelles Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat und ohne Rand vorgelegt werden, sofern die elektronische Fertigung mittels Geräten der Behörde zur Lichtbildaufnahme nicht möglich ist.
 
 (3) Das Lichtbild muss die Person in einer Frontalaufnahme, ohne Kopfbedeckung und ohne Bedeckung der Augen zeigen. Im Übrigen muss das Lichtbild den Vorgaben des Anhangs 3 Abschnitt 2 entsprechen. Die Personalausweisbehörde kann von diesen Vorgaben aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Vom Verbot der Kopfbedeckung kann sie auch aus religiösen Gründen Ausnahmen zulassen.
 
@@ -455,7 +541,7 @@ Der Bund stellt Berechtigungszertifikate für öffentliche Stellen anderer Mitgl
 
 # § 36b – Entsprechende Anwendung der Vorschriften über den Personalausweis
 
-(1) Soweit dieses Kapitel keine besonderen Regelungen enthält, gelten für die die eID-Karte betreffenden Angelegenheiten die Vorschriften der Kapitel 1 bis 9 entsprechend.
+(1) Soweit dieses Kapitel keine besonderen Regelungen enthält, gelten für die die eID-Karte betreffenden Angelegenheiten die Vorschriften des Kapitels 1 sowie der Kapitel 3 bis 10 entsprechend.
 
 (2) An die Stelle von Ausweis und Ausweisinhaber treten die eID-Karte und ihr Inhaber, an die Stelle der Personalausweisbehörden treten die eID-Karte-Behörden, an die Stelle des Personalausweisregisters tritt das eID-Kartenregister.
 

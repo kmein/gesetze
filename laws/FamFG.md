@@ -1681,19 +1681,25 @@ Sieht das Gericht in den genannten Fällen von der Bestellung eines Verfahrensbe
 
 # § 158b – Aufgaben und Rechtsstellung des Verfahrensbeistands
 
-(1) Der Verfahrensbeistand hat das Interesse des Kindes festzustellen und im gerichtlichen Verfahren zur Geltung zu bringen. Er soll zu diesem Zweck auch eine schriftliche Stellungnahme erstatten. Der Verfahrensbeistand hat das Kind über Gegenstand, Ablauf und möglichen Ausgang des Verfahrens in geeigneter Weise zu informieren. Endet das Verfahren durch Endentscheidung, soll der Verfahrensbeistand den gerichtlichen Beschluss mit dem Kind erörtern.
+(1) Der Verfahrensbeistand hat das Interesse des Kindes festzustellen und im gerichtlichen Verfahren zur Geltung zu bringen. Er soll zu diesem Zweck auch eine schriftliche Stellungnahme erstatten. Der Verfahrensbeistand hat das Kind über Gegenstand, Ablauf und möglichen Ausgang des Verfahrens in geeigneter Weise zu informieren. Ferner soll er insbesondere
 
-(2) Soweit erforderlich kann das Gericht dem Verfahrensbeistand die Aufgabe übertragen, Gespräche mit den Eltern und weiteren Bezugspersonen des Kindes zu führen sowie am Zustandekommen einer einvernehmlichen Regelung über den Verfahrensgegenstand mitzuwirken. Das Gericht hat Art und Umfang der Beauftragung konkret festzulegen und die Beauftragung zu begründen.
+1. Gespräche mit den Eltern und weiteren Bezugspersonen des Kindes führen, soweit dies erforderlich ist, und
+
+2. in geeigneten Fällen am Zustandekommen einer einvernehmlichen Regelung über den Verfahrensgegenstand mitwirken.
+
+Endet das Verfahren durch Endentscheidung, soll der Verfahrensbeistand den gerichtlichen Beschluss mit dem Kind erörtern.
+
+(2) Ist es zur Verständigung mit dem Kind, seinen Eltern oder weiteren Bezugspersonen erforderlich, so gestattet das Gericht dem Verfahrensbeistand die Hinzuziehung eines Dolmetschers oder Übersetzers oder eines anderen geeigneten Sprachmittlers, insbesondere eines Gebärdensprachendolmetschers. Die Gestattung soll zum frühestmöglichen Zeitpunkt erfolgen. Sie ergeht durch nicht selbständig anfechtbaren Beschluss.
 
 (3) Der Verfahrensbeistand wird durch seine Bestellung als Beteiligter zum Verfahren hinzugezogen. Er kann im Interesse des Kindes Rechtsmittel einlegen. Der Verfahrensbeistand ist nicht gesetzlicher Vertreter des Kindes.
 
 # § 158c – Vergütung; Kosten
 
-(1) Führt der Verfahrensbeistand die Verfahrensbeistandschaft berufsmäßig, erhält er für die Wahrnehmung seiner Aufgaben in jedem Rechtszug jeweils eine einmalige Vergütung von 350 Euro. Im Fall der Übertragung von Aufgaben nach § 158b Absatz 2 erhöht sich die Vergütung auf 550 Euro. Die Vergütung deckt auch Ansprüche auf Ersatz anlässlich der Verfahrensbeistandschaft entstandener Aufwendungen ab.
+(1) Der Verfahrensbeistand erhält für die Wahrnehmung seiner Aufgaben in jedem Rechtszug jeweils eine einmalige Vergütung von 690 Euro. Bestellt das Gericht denselben Verfahrensbeistand für mehrere in demselben Haushalt lebende Kinder, erhält er ab dem zweiten Kind jeweils eine Pauschale in Höhe von 555 Euro.
 
-(2) Für den Ersatz von Aufwendungen des nicht berufsmäßigen Verfahrensbeistands ist § 277 Absatz 1 entsprechend anzuwenden.
+(2) Dem Verfahrensbeistand sind die Kosten für die Beauftragung eines Dolmetschers oder Übersetzers oder eines anderen geeigneten Sprachmittlers zu ersetzen, wenn das Gericht die Zuziehung nach § 158b Absatz 2 gestattet hat. Die Höhe der zu ersetzenden Kosten ist auf die nach dem Justizvergütungs- und -entschädigungsgesetz zu zahlenden Beträge beschränkt. Im Übrigen deckt die Vergütung alle weiteren Ansprüche auf Ersatz der anlässlich der Verfahrensbeistandschaft entstandenen Aufwendungen ab.
 
-(3) Der Aufwendungsersatz und die Vergütung sind stets aus der Staatskasse zu zahlen. § 292 Absatz 1 und 5 ist entsprechend anzuwenden.
+(3) Vergütung und Aufwendungsersatz sind stets aus der Staatskasse zu zahlen. Der Vergütungsanspruch und der Anspruch auf Aufwendungsersatz erlöschen, wenn sie nicht binnen 15 Monaten nach ihrer Entstehung beim Gericht geltend gemacht werden. § 292 Absatz 1 und 5 ist entsprechend anzuwenden.
 
 (4) Dem Verfahrensbeistand sind keine Kosten aufzuerlegen.
 
@@ -1869,9 +1875,9 @@ Auf die Pflegschaft für Minderjährige sind die für die Vormundschaft geltende
 
 # § 168g – Mitteilungspflichten des Standesamts
 
-(1) Wird dem Standesamt der Tod einer Person, die ein minderjähriges Kind hinterlassen hat, oder die Geburt eines Kindes nach dem Tod des Vaters oder das Auffinden eines Minderjährigen, dessen Familienstand nicht zu ermitteln ist, oder die Geburt eines Kindes im Wege der vertraulichen Geburt nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes angezeigt, oder fehlt in den Fällen des § 3 Absatz 1 Satz 2 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag die Zustimmung des gesetzlichen Vertreters hat das Standesamt dies dem Familiengericht mitzuteilen.
+(1) Wird dem Standesamt der Tod einer Person, die ein minderjähriges Kind hinterlassen hat, oder die Geburt eines Kindes nach dem Tod des Vaters oder das Auffinden eines Minderjährigen, dessen Familienstand nicht zu ermitteln ist, oder die Geburt eines Kindes im Wege der vertraulichen Geburt nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes angezeigt, oder fehlt in den Fällen des § 3 Absatz 1 Satz 2 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag die Zustimmung des gesetzlichen Vertreters, hat das Standesamt dies dem Familiengericht mitzuteilen.
 
-(2) Führen Eltern, die gemeinsam für ein Kind sorgeberechtigt sind, keinen Ehenamen und ist von ihnen binnen eines Monats nach der Geburt des Kindes der Geburtsname des Kindes nicht bestimmt worden, teilt das Standesamt dies dem Familiengericht mit.
+(2) Führen Eltern, die gemeinsam für ein Kind sorgeberechtigt sind, keinen Ehenamen und ist von ihnen binnen eines Monats nach der Geburt des Kindes der Geburtsname des Kindes nicht bestimmt worden und lehnt zumindest ein Elternteil den sich nach § 1617 Absatz 4 Satz 1 bis 3 des Bürgerlichen Gesetzbuchs ergebenden Geburtsnamen des Kindes durch Erklärung gegenüber dem Standesamt ab, teilt das Standesamt dies dem Familiengericht mit.
 
 # § 169 – Abstammungssachen
 
@@ -4707,7 +4713,7 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, durch die für das Aufge
 
 (3) Für Anmeldungen, die bis einschließlich 8. Juni 2017 beurkundet oder beglaubigt wurden, findet § 378 Absatz 3 keine Anwendung.
 
-(4) § 158a findet keine Anwendung in Verfahren, in denen ein Verfahrensbeistand vor dem 1. Januar 2022 bestellt worden ist.
+(4) § 158a findet keine Anwendung in Verfahren, in denen ein Verfahrensbeistand vor dem 1. Januar 2022 bestellt worden ist. Auf Verfahrensbeistandschaften, die bis einschließlich 10. April 2025 angeordnet wurden, ist § 158c Absatz 1 nicht anzuwenden; insoweit ist § 158c Absatz 1 in der bis dahin geltenden Fassung weiter anzuwenden.
 
 (5) Wenn Betreuung oder Einwilligungsvorbehalt vor dem 1. Januar 2023 angeordnet wurde, müssen erstmalige Entscheidungen über die Aufhebung oder Verlängerung der Maßnahme abweichend von den in § 294 Absatz 3 Satz 2 und § 295 Absatz 2 Satz 2 genannten Fristen zu folgenden Zeitpunkten erfolgen:
 

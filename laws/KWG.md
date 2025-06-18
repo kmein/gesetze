@@ -1594,7 +1594,7 @@ und sofern sie keine Kassageschäfte im Sinne des Artikels 7 der Delegierten Ver
 
 (15) (weggefallen)
 
-(16) Ein System im Sinne von § 24b ist eine schriftliche Vereinbarung nach Artikel 2 Buchstabe a der Richtlinie 98/26/EG des Europäischen Parlaments und des Rates vom 19. Mai 1998 über die Wirksamkeit von Abrechnungen in Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen (ABl. L 166 vom 11.6.1998, S. 45), die durch die Richtlinie 2009/44/EG (ABl. L 146 vom 10.6.2009, S. 37) geändert worden ist, einschließlich der Vereinbarung zwischen einem Teilnehmer und einem indirekt teilnehmenden Kreditinstitut, die von der Deutschen Bundesbank oder der zuständigen Stelle eines anderen Mitgliedstaats oder Vertragsstaats des Europäischen Wirtschaftsraums der Europäischen Wertpapier- und Marktaufsichtsbehörde gemeldet wurde. Systeme aus Drittstaaten stehen den in Satz 1 genannten Systemen gleich, sofern sie im Wesentlichen den in Artikel 2 Buchstabe a der Richtlinie 98/26/EG angeführten Voraussetzungen entsprechen. System im Sinne des Satzes 1 ist auch ein System, dessen Betreiber eine Vereinbarung mit dem Betreiber eines anderen Systems oder den Betreibern anderer Systeme geschlossen hat, die eine Ausführung von Zahlungs- oder Übertragungsaufträgen zwischen den betroffenen Systemen zum Gegenstand hat (interoperables System); auch die anderen an der Vereinbarung beteiligten Systeme sind interoperable Systeme.
+(16) Ein System im Sinne von § 24b ist eine schriftliche Vereinbarung nach Artikel 2 Buchstabe a der Richtlinie 98/26/EG des Europäischen Parlaments und des Rates vom 19. Mai 1998 über die Wirksamkeit von Abrechnungen in Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen (ABl. L 166 vom 11.6.1998, S. 45), die zuletzt durch die Verordnung 2009/44/EG (ABl. L 146 vom 10.6.2009, S. 37) geändert worden ist, einschließlich der Vereinbarung zwischen einem Teilnehmer und einem indirekt teilnehmenden Kreditinstitut, die von der Deutschen Bundesbank oder der zuständigen Stelle eines anderen Mitgliedstaats oder Vertragsstaats des Europäischen Wirtschaftsraums der Europäischen Wertpapier- und Marktaufsichtsbehörde gemeldet wurde. Systeme aus Drittstaaten stehen den in Satz 1 genannten Systemen gleich, sofern sie im Wesentlichen den in Artikel 2 Buchstabe a der Richtlinie 98/26/EG angeführten Voraussetzungen entsprechen. System im Sinne des Satzes 1 ist auch ein System, dessen Betreiber eine Vereinbarung mit dem Betreiber eines anderen Systems oder den Betreibern anderer Systeme geschlossen hat, die eine Ausführung von Zahlungs- oder Übertragungsaufträgen zwischen den betroffenen Systemen zum Gegenstand hat (interoperables System); auch die anderen an der Vereinbarung beteiligten Systeme sind interoperable Systeme.
 
 (16a) Systembetreiber im Sinne dieses Gesetzes ist derjenige, der für den Betrieb des Systems rechtlich verantwortlich ist.
 
@@ -4881,9 +4881,9 @@ Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im 
 
 1. der Verordnung (EU) 2023/1113 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über die Übermittlung von Angaben bei Geldtransfers und Transfers bestimmter Kryptowerte und zur Änderung der Richtlinie (EU) 2015/849 (ABl. L 150 vom 9.6.2023, S. 1),
 
-2. der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 1), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert worden ist,
+2. der Verordnung (EU) 2021/1230 des Europäischen Parlaments und des Rates vom 14. Juli 2021 über grenzüberschreitende Zahlungen in der Union (ABl. L 274 vom 30.7.2021, S. 20), die durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, mit Ausnahme der Pflichten nach den Artikeln 4 und 5 der Verordnung,
 
-3. der Verordnung (EU) Nr. 260/2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) und
+3. der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, mit Ausnahme der Pflichten nach Artikel 5d der Verordnung, und
 
 4. der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1).
 
@@ -5101,7 +5101,7 @@ Ist ein Institut nach § 2a Absatz 1 freigestellt, hat der Prüfer den Fortbesta
 
 (1b) Bei der Prüfung des Jahresabschlusses eines Zentralverwahrers ist auch zu prüfen, ob die Anforderungen nach den Artikeln 6, 7, 26 bis 53, 54 Absatz 3 und nach Artikel 59 der Verordnung (EU) Nr. 909/2014 sowie nach den gemäß diesen Artikeln von der Europäischen Kommission erlassenen technischen Regulierungs- und Durchführungsstandards eingehalten sind. Bei der Prüfung des Jahresabschlusses eines Kreditinstituts, das von einem Zentralverwahrer nach Artikel 54 Absatz 4 der Verordnung (EU) Nr. 909/2014 dazu benannt wurde, bankartige Nebendienstleistungen zu erbringen, ist zudem zu prüfen, ob die Anforderungen nach Artikel 54 Absatz 4 und Artikel 59 der Verordnung (EU) Nr. 909/2014 sowie nach den gemäß diesen Artikeln von der Europäischen Kommission erlassenen technischen Regulierungs- und Durchführungsstandards eingehalten sind. Die Sätze 1 und 2 gelten entsprechend für den verkürzten Abschluss eines Zentralverwahrers, wenn ein solcher nach den gesetzlichen Vorgaben zu erstellen ist.
 
-(2) Der Prüfer hat auch zu prüfen, ob das Institut seinen Verpflichtungen nach den §§ 24c und 25g Absatz 1 und 2, den §§ 25h bis 25m und dem Geldwäschegesetz nachgekommen ist; bei Kreditinstituten hat der Prüfer auch zu prüfen, ob das Kreditinstitut seinen Verpflichtungen nach der Verordnung (EG) Nr. 924/2009, der Verordnung (EU) Nr. 260/2012, der Verordnung (EU) 2023/1113, der Verordnung (EU) 2015/751, dem Zahlungskontengesetz und den §§ 45, 46 und 48 bis 55 des Zahlungsdiensteaufsichtsgesetzes nachgekommen ist. Zudem hat er die Einhaltung der Mitteilungs- und Veröffentlichungspflichten und sonstigen Anforderungen der Artikel 5 bis 10 und 12 bis 14 der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) zu prüfen. Bei Instituten, Zweigniederlassungen im Sinne des § 53b und Zweigstellen im Sinne des § 53, die das Depotgeschäft betreiben, hat er dieses Geschäft besonders zu prüfen, soweit es nicht nach § 89 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes zu prüfen ist; diese Prüfung hat sich auch auf die Einhaltung des § 67a Absatz 3 und des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Bei Zentralverwahrern ist auch besonders zu prüfen, ob die Bestimmungen des Depotgesetzes, der §§ 7 bis 10 und 12 und 13 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 des Gesetzes über elektronische Wertpapiere, sowie des § 67a Absatz 3, des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 und des § 135 des Aktiengesetzes eingehalten werden. Bei Pfandbriefbanken im Sinne des § 1 Absatz 1 Satz 1 des Pfandbriefgesetzes ist die Einhaltung der organisatorischen Anforderungen an die Verfahren und Systeme aus § 4 Absatz 4, den §§ 5, 16, 24, 26d, 27, 27a sowie 28 des Pfandbriefgesetzes zu prüfen. Über die Prüfungen nach den Sätzen 1 bis 5 ist jeweils gesondert zu berichten; § 26 Abs. 1 Satz 3 gilt entsprechend.
+(2) Der Prüfer hat auch zu prüfen, ob das Institut seinen Verpflichtungen nach den §§ 24c und 25g Absatz 1 und 2, den §§ 25h bis 25m und dem Geldwäschegesetz nachgekommen ist; bei Kreditinstituten hat der Prüfer auch zu prüfen, ob das Kreditinstitut seinen Verpflichtungen nach der Verordnung (EU) 2021/1230, der Verordnung (EU) Nr. 260/2012, der Verordnung (EU) 2023/1113, der Verordnung (EU) 2015/751, dem Zahlungskontengesetz und den §§ 45, 46 und 48 bis 55 des Zahlungsdiensteaufsichtsgesetzes nachgekommen ist. Zudem hat er die Einhaltung der Mitteilungs- und Veröffentlichungspflichten und sonstigen Anforderungen der Artikel 5 bis 10 und 12 bis 14 der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) zu prüfen. Bei Instituten, Zweigniederlassungen im Sinne des § 53b und Zweigstellen im Sinne des § 53, die das Depotgeschäft betreiben, hat er dieses Geschäft besonders zu prüfen, soweit es nicht nach § 89 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes zu prüfen ist; diese Prüfung hat sich auch auf die Einhaltung des § 67a Absatz 3 und des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Bei Zentralverwahrern ist auch besonders zu prüfen, ob die Bestimmungen des Depotgesetzes, der §§ 7 bis 10 und 12 und 13 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 des Gesetzes über elektronische Wertpapiere, sowie des § 67a Absatz 3, des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 und des § 135 des Aktiengesetzes eingehalten werden. Bei Pfandbriefbanken im Sinne des § 1 Absatz 1 Satz 1 des Pfandbriefgesetzes ist die Einhaltung der organisatorischen Anforderungen an die Verfahren und Systeme aus § 4 Absatz 4, den §§ 5, 16, 24, 26d, 27, 27a sowie 28 des Pfandbriefgesetzes zu prüfen. Über die Prüfungen nach den Sätzen 1 bis 5 ist jeweils gesondert zu berichten; § 26 Abs. 1 Satz 3 gilt entsprechend.
 
 (3) Der Prüfer hat unverzüglich der Bundesanstalt und der Deutschen Bundesbank anzuzeigen, wenn ihm bei der Prüfung Tatsachen bekannt werden, welche die Einschränkung oder Versagung des Bestätigungsvermerkes rechtfertigen, die den Bestand des Instituts gefährden oder seine Entwicklung wesentlich beeinträchtigen können, die einen erheblichen Verstoß gegen die Vorschriften über die Zulassungsvoraussetzungen des Instituts oder die Ausübung einer Tätigkeit nach diesem Gesetz darstellen oder die schwerwiegende Verstöße der Geschäftsleiter gegen Gesetz, Satzung oder Gesellschaftsvertrag erkennen lassen. Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank hat der Prüfer ihnen die Art und den Umfang seines Vorgehens darzustellen, den Prüfungsbericht zu erläutern und sonstige bei der Prüfung bekannt gewordene Tatsachen mitzuteilen, die gegen eine ordnungsgemäße Durchführung der Geschäfte des Instituts sprechen. Die Anzeige-, Erläuterungs- und Mitteilungspflichten nach den Sätzen 1 und 2 bestehen auch in Bezug auf ein Unternehmen, das mit dem Institut in enger Verbindung steht, sofern dem Prüfer die Tatsachen im Rahmen der Prüfung des Instituts bekannt werden. Der Prüfer haftet nicht für die Richtigkeit von Tatsachen, die er nach diesem Absatz in gutem Glauben anzeigt.
 
@@ -6981,7 +6981,7 @@ eine Maßnahme nicht duldet,
 
 19. entgegen Artikel 16 Absatz 1 Satz 2 Angaben zum Auftraggeber und zum Begünstigten nicht mindestens fünf Jahre aufbewahrt.
 
-(4a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 1 der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 11), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert worden ist, ein anderes als das dort genannte Entgelt erhebt.
+(4a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 1 der Verordnung (EU) 2021/1230 des Europäischen Parlaments und des Rates vom 14. Juli 2021 über grenzüberschreitende Zahlungen in der Union (ABl. L 274 vom 30.7.2021, S. 20), die durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, ein anderes als das dort genannte Entgelt erhebt.
 
 (4b) Ordnungswidrig handelt, wer als Person, die für ein CRR-Kreditinstitut handelt, gegen die Verordnung (EG) Nr. 1060/2009 verstößt, indem er vorsätzlich oder leichtfertig
 
@@ -6997,7 +6997,7 @@ eine Maßnahme nicht duldet,
 
 (4c) Das Bundesministerium der Finanzen wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1a geahndet werden können.
 
-(4d) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) verstößt, indem er vorsätzlich oder fahrlässig
+(4d) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 4 Absatz 2 Satz 1 nicht sicherstellt, dass die technische Interoperabilität des Zahlungssystems gewährleistet wird,
 
@@ -7007,9 +7007,35 @@ eine Maßnahme nicht duldet,
 
 4. entgegen Artikel 5 Absatz 1 Satz 1 oder Absatz 2 eine Überweisung ausführt,
 
-5. entgegen Artikel 5 Absatz 1 Satz 1 oder Absatz 3 Satz 1 eine Lastschrift ausführt oder
+5. entgegen Artikel 5 Absatz 1 Satz 1 oder Absatz 3 Satz 1 eine Lastschrift ausführt,
 
-6. entgegen Artikel 5 Absatz 8 ein Entgelt für einen dort genannten Auslesevorgang erhebt.
+6. entgegen Artikel 5 Absatz 8 ein Entgelt für einen dort genannten Auslesevorgang erhebt,
+
+7. entgegen Artikel 5a Absatz 1 Unterabsatz 1 die Versendung oder den Empfang einer Echtzeitüberweisung nicht anbietet,
+
+8. entgegen Artikel 5a Absatz 1 Unterabsatz 2 nicht sicherstellt, dass alle Zahlungskonten für eine Echtzeitüberweisung erreichbar sind,
+
+9. entgegen Artikel 5a Absatz 4 eine dort genannte Anforderung nicht, nicht richtig oder nicht vollständig einhält,
+
+10. entgegen Artikel 5a Absatz 5 ein Zahlungskonto nicht oder nicht rechtzeitig auf den dort genannten Stand bringt,
+
+11. entgegen Artikel 5a Absatz 6 Satz 1 eine dort genannte Möglichkeit nicht oder nicht rechtzeitig anbietet,
+
+12. entgegen Artikel 5a Absatz 6 Satz 4 einen Zahlungsauftrag ausführt,
+
+13. entgegen Artikel 5a Absatz 7 Unterabsatz 1 die eine dort genannte Möglichkeit nicht anbietet,
+
+14. entgegen Artikel 5a Absatz 7 Unterabsatz 2 eine Obergrenze vorschreibt,
+
+15. entgegen Artikel 5b Absatz 2 eine Dienstleistung nicht unentgeltlich erbringt,
+
+16. entgegen Artikel 5c Absatz 1 Satz 2 oder Absatz 4 eine Empfängerüberprüfung nicht oder nicht rechtzeitig durchführt,
+
+17. entgegen Artikel 5c Absatz 7 Satz 1 den Zahler nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet,
+
+18. entgegen Artikel 5d Absatz 1 eine dort genannte Überprüfung nicht oder nicht rechtzeitig durchführt oder
+
+19. entgegen Artikel 15 Absatz 3 eine dort genannte Meldung oder einen dort genannten Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
 (4e) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -7335,7 +7361,7 @@ nicht, nicht richtig oder nicht vollständig unterrichtet oder
 
 (6) Die Ordnungswidrigkeit kann
 
-1. in den Fällen des Absatzes 2 Nummer 1 Buchstabe a, b und h, Nummer 3 Buchstabe a und f, Nummer 4 und 12, der Absätze 4f, 4h, 5 Satz 1 Nummer 1 bis 7, 15, 18, 19 und 22 bis 29 und der Absätze 5b bis 5e Nummer 2 und 3 mit einer Geldbuße bis zu fünf Millionen Euro,
+1. in den Fällen des Absatzes 2 Nummer 1 Buchstabe a, b und h, Nummer 3 Buchstabe a und f, Nummer 4 und 12, des Absatzes 4d Nummer 18, der Absätze 4f, 4h, 5 Satz 1 Nummer 1 bis 7, 15, 18, 19 und 22 bis 29 und der Absätze 5b bis 5e Nummer 2 und 3 mit einer Geldbuße bis zu fünf Millionen Euro,
 
 1a. in den Fällen des Absatzes 4g mit einer Geldbuße bis zu siebenhunderttausend Euro,
 
@@ -7359,9 +7385,11 @@ nicht, nicht richtig oder nicht vollständig unterrichtet oder
 
 2. 10 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat.
 
-(6c) Über die in den Absätzen 6, 6a und 6b genannten Beträge hinaus kann die Ordnungswidrigkeit in den Fällen des Absatzes 2 Nummer 11b bis 13, in den Fällen des Absatzes 4 Nummer 1 bis 3, 8, 9 und 11 bis 15, in den Fällen der Absätze 4f bis 4h und in den Fällen der Absätze 5b bis 5d mit einer Geldbuße bis zum Zweifachen des aus dem Verstoß gezogenen wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
+(6c) Bei einer juristischen Person oder Personenvereinigung mit einem Gesamtumsatz von mehr als 50 Millionen Euro kann abweichend von Absatz 6 Nummer 1 eine Ordnungswidrigkeit in den Fällen des Absatzes 4d Nummer 18 mit einer Geldbuße bis zu 10 Prozent des Gesamtumsatzes geahndet werden.
 
-(6d) Gesamtumsatz im Sinne des Absatzes 6a und 6b Nummer 2 ist
+(6d) Über die in den Absätzen 6, 6a und 6b genannten Beträge hinaus kann die Ordnungswidrigkeit in den Fällen des Absatzes 2 Nummer 11b bis 13, in den Fällen des Absatzes 4 Nummer 1 bis 3, 8, 9 und 11 bis 15, in den Fällen der Absätze 4f bis 4h und in den Fällen der Absätze 5b bis 5d mit einer Geldbuße bis zum Zweifachen des aus dem Verstoß gezogenen wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
+
+(6e) Gesamtumsatz im Sinne des Absatzes 6a und 6b Nummer 2 sowie des Absatzes 6c ist
 
 1. im Falle von Kreditinstituten, Zahlungsinstituten und Finanzdienstleistungsinstituten im Sinne des § 340 des Handelsgesetzbuchs der sich aus dem auf das Institut anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28 Nummer B1, B2, B3, B4 und B7 der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und den konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1, L 316 vom 23.11.1988, S. 51), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist, ergebende Gesamtbetrag, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
 
@@ -7371,17 +7399,11 @@ nicht, nicht richtig oder nicht vollständig unterrichtet oder
 
 Handelt es sich bei der juristischen Person oder der Personenvereinigung um das Mutterunternehmen oder um eine Tochtergesellschaft, so ist anstelle des Gesamtumsatzes der juristischen Person oder der Personenvereinigung der jeweilige Gesamtbetrag in dem Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach den in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Maßgabe der den in Satz 1 Nummer 1 bis 3 vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein Jahresabschluss oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar vorangegangene Geschäftsjahr maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
-(6e) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht anzuwenden bei Verstößen gegen Gebote und Verbote, die in den Absätzen 6a und 6b in Bezug genommen werden. § 30 des Gesetzes über Ordnungswidrigkeiten gilt auch für juristische Personen oder für Personenvereinigungen, die über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland tätig sind. Die Verfolgung der Ordnungswidrigkeiten nach den Absätzen 4f bis 4h verjährt in drei Jahren.
+(6f) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht anzuwenden bei Verstößen gegen Gebote und Verbote, die in den Absätzen 6a und 6b in Bezug genommen werden. § 30 des Gesetzes über Ordnungswidrigkeiten gilt auch für juristische Personen oder für Personenvereinigungen, die über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland tätig sind. Die Verfolgung der Ordnungswidrigkeiten nach den Absätzen 4f bis 4h verjährt in drei Jahren.
 
-(7) Die Geldbuße soll den wirtschaftlichen Vorteil, den der Täter aus der Ordnungswidrigkeit gezogen hat, übersteigen. Reicht in den Fällen des Absatzes 6 das Höchstmaß, mit Ausnahme der Fälle nach Absatz 2 Nummer 11b bis 13, und in den Fällen des Absatzes 4 Nummer 1 bis 3, 8, 9 und 11 bis 15 hierzu nicht aus, so kann es für juristische Personen oder Personenvereinigungen bis zu einem Betrag in folgender Höhe überschritten werden:
+(7) (weggefallen)
 
-1. 10 Prozent des Jahresnettoumsatzes des Unternehmens im Geschäftsjahr, das der Ordnungswidrigkeit vorausgeht, oder
-
-2. das Zweifache des durch die Zuwiderhandlung erlangten Mehrerlöses.
-
-§ 17 Absatz 4 des Gesetzes über Ordnungswidrigkeiten bleibt unberührt.
-
-(8) Der Jahresnettoumsatz im Sinne des Absatzes 7 Satz 2 Nummer 1 ist der Gesamtbetrag der in § 34 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis e der Kreditinstituts-Rechnungslegungsverordnung in der jeweils geltenden Fassung genannten Erträge einschließlich der Bruttoerträge bestehend aus Zinserträgen und ähnlichen Erträgen, Erträgen aus Aktien, anderen Anteilsrechten und nicht festverzinslichen/festverzinslichen Wertpapieren sowie Erträgen aus Provisionen und Gebühren wie in Artikel 316 der Verordnung (EU) Nr. 575/2013 ausgeführt, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern. Handelt es sich bei dem Unternehmen um ein Tochterunternehmen, ist auf den Jahresnettoumsatz abzustellen, der im vorangegangenen Geschäftsjahr im konsolidierten Abschluss des Mutterunternehmens an der Spitze der Gruppe ausgewiesen ist.
+(8) (weggefallen)
 
 # § 57 – Bußgeldvorschriften
 

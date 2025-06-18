@@ -149,75 +149,72 @@ Jede anfechtbare Entscheidung hat eine Belehrung über den statthaften Rechtsbeh
 
 # § 13 – Wertgebühren
 
-(1) Wenn sich die Gebühren nach dem Gegenstandswert richten, beträgt bei einem Gegenstandswert bis 500 Euro die Gebühr 49 Euro. Die Gebühr erhöht sich bei einem  
-  
+(1) Wenn sich die Gebühren nach dem Gegenstandswert richten, beträgt bei einem Gegenstandswert bis 500 Euro die Gebühr 51,50 Euro. Die Gebühr erhöht sich bei einem
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 37%" />
-<col style="width: 37%" />
+<col style="width: 36%" />
+<col style="width: 36%" />
 <col style="width: 27%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header">
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Gegen-<br />
-standswert<br />
-bis ... Euro</th>
+<tr class="header" data-valign="middle">
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Gegenstands-<br />
+wert<br />
+bis … Euro</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">für jeden<br />
 angefangenen<br />
 Betrag von<br />
-weiteren ... Euro</th>
+weiteren … Euro</th>
 <th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">um<br />
-... Euro</th>
+… Euro</th>
 </tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">  2 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   500</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 39</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  2 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 41,50</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 10 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 1 000</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 56</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 10 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 1 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 59,50</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 25 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 3 000</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 52</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 25 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 3 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 55,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 50 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 5 000</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 81</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 50 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 5 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 86,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">200 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15 000</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 94</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">200 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">15 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 99,50</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">500 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">30 000</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">132</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">500 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">30 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">140,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   über<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  über<br />
 500 000</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
 50 000</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-165</td>
+175,00</td>
 </tr>
 </tbody>
 </table>
 
-  
-  
 Eine Gebührentabelle für Gegenstandswerte bis 500 000 Euro ist diesem Gesetz als Anlage 2 beigefügt.
 
-(2) Bei der Geschäftsgebühr für eine außergerichtliche Inkassodienstleistung, die eine unbestrittene Forderung betrifft (Absatz 2 der Anmerkung zu Nummer 2300 des Vergütungsverzeichnisses), beträgt bei einem Gegenstandswert bis 50 Euro die Gebühr abweichend von Absatz 1 Satz 1 30 Euro.
+(2) Bei der Geschäftsgebühr für eine außergerichtliche Inkassodienstleistung, die eine unbestrittene Forderung betrifft (Absatz 2 der Anmerkung zu Nummer 2300 des Vergütungsverzeichnisses), beträgt bei einem Gegenstandswert bis 50 Euro die Gebühr abweichend von Absatz 1 Satz 1 31,50 Euro.
 
 (3) Der Mindestbetrag einer Gebühr ist 15 Euro.
 
@@ -247,7 +244,7 @@ Eine Gebührentabelle für Gegenstandswerte bis 500 000 Euro ist diesem Gesetz 
 
 (1) Sieht dieses Gesetz die Anrechnung einer Gebühr auf eine andere Gebühr vor, kann der Rechtsanwalt beide Gebühren fordern, jedoch nicht mehr als den um den Anrechnungsbetrag verminderten Gesamtbetrag der beiden Gebühren.
 
-(2) Sind mehrere Gebühren teilweise auf dieselbe Gebühr anzurechnen, so ist der anzurechnende Betrag für jede anzurechnende Gebühr gesondert zu ermitteln. Bei Wertgebühren darf der Gesamtbetrag der Anrechnung jedoch denjenigen Anrechnungsbetrag nicht übersteigen, der sich ergeben würde, wenn eine Gebühr anzurechnen wäre, die sich aus dem Gesamtbetrag der betroffenen Wertteile nach dem höchsten für die Anrechnungen einschlägigen Gebührensatz berechnet. Bei Betragsrahmengebühren darf der Gesamtbetrag der Anrechnung den für die Anrechnung bestimmten Höchstbetrag nicht übersteigen.
+(2) Sind mehrere Gebühren ganz oder teilweise auf dieselbe Gebühr anzurechnen, so ist der anzurechnende Betrag für jede anzurechnende Gebühr gesondert zu ermitteln. Bei Wertgebühren darf der Gesamtbetrag der Anrechnung jedoch denjenigen Anrechnungsbetrag nicht übersteigen, der sich ergeben würde, wenn eine Gebühr anzurechnen wäre, die sich aus dem Gesamtbetrag der betroffenen Wertteile nach dem höchsten für die Anrechnungen einschlägigen Gebührensatz berechnet. Bei Betragsrahmengebühren darf der Gesamtbetrag der Anrechnung den für die Anrechnung bestimmten Höchstbetrag nicht übersteigen.
 
 (3) Ein Dritter kann sich auf die Anrechnung nur berufen, soweit er den Anspruch auf eine der beiden Gebühren erfüllt hat, wegen eines dieser Ansprüche gegen ihn ein Vollstreckungstitel besteht oder beide Gebühren in demselben Verfahren gegen ihn geltend gemacht werden.
 
@@ -323,11 +320,9 @@ d) über die Abänderung, die Aufhebung oder den Widerruf einer in einem Verfahr
 
 a) Güteverfahren vor einer durch die Landesjustizverwaltung eingerichteten oder anerkannten Gütestelle (§ 794 Absatz 1 Nummer 1 der Zivilprozessordnung) oder, wenn die Parteien den Einigungsversuch einvernehmlich unternehmen, vor einer Gütestelle, die Streitbeilegung betreibt (§ 15a Absatz 3 des Einführungsgesetzes zur Zivilprozessordnung),
 
-b) Verfahren vor einem Ausschuss der in § 111 Absatz 2 des Arbeitsgerichtsgesetzes bezeichneten Art,
+b) Verfahren vor einem Ausschuss der in § 111 Absatz 2 des Arbeitsgerichtsgesetzes bezeichneten Art und
 
-c) Verfahren vor dem Seemannsamt zur vorläufigen Entscheidung von Arbeitssachen und
-
-d) Verfahren vor sonstigen gesetzlich eingerichteten Einigungsstellen, Gütestellen oder Schiedsstellen,
+c) Verfahren vor sonstigen gesetzlich eingerichteten Einigungsstellen, Gütestellen oder Schiedsstellen,
 
 8. das Vermittlungsverfahren nach § 165 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit und ein sich anschließendes gerichtliches Verfahren,
 
@@ -471,9 +466,7 @@ g) § 27 des Internationalen Güterrechtsverfahrensgesetzes;
 
 (2) Zu den in § 18 Absatz 1 Nummer 1 und 2 genannten Verfahren gehören ferner insbesondere
 
-1. gerichtliche Anordnungen nach § 758a der Zivilprozessordnung sowie Beschlüsse
-
-nach §§ 90 und 91 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
+1. gerichtliche Anordnungen nach § 758a der Zivilprozessordnung sowie Beschlüsse nach den §§ 90 und 91 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
 
 2. die Erinnerung nach § 766 der Zivilprozessordnung,
 
@@ -484,8 +477,6 @@ nach §§ 90 und 91 Absatz 1 des Gesetzes über das Verfahren in Familiensachen
 5. die einer Verurteilung vorausgehende Androhung von Ordnungsgeld und
 
 6. die Aufhebung einer Vollstreckungsmaßnahme.
-
-§ 19 Abs. 2 Nr. 1 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
 
 # § 20 – Verweisung, Abgabe
 
@@ -523,13 +514,9 @@ Soweit eine Sache an ein anderes Gericht verwiesen oder abgegeben wird, sind die
 
 Im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz bestimmt sich der Gegenstandswert nach der Höhe des von dem Auftraggeber oder gegen diesen im Ausgangsverfahren geltend gemachten Anspruchs, soweit dieser Gegenstand des Musterverfahrens ist.
 
-# § 23c – Gegenstandswert im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+# § 24 – Gegenstandswert im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
 
 Der Gegenstandswert im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz ist unter Berücksichtigung des wirtschaftlichen Interesses, das der Auftraggeber im Verfahren verfolgt, nach § 23 Absatz 3 Satz 2 zu bestimmen.
-
-# § 24 – Gegenstandswert im Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz
-
-Ist der Auftrag im Sanierungs- und Reorganisationsverfahren von einem Gläubiger erteilt, bestimmt sich der Wert nach dem Nennwert der Forderung.
 
 # § 25 – Gegenstandswert in der Vollstreckung und bei der Vollziehung
 
@@ -779,95 +766,101 @@ betrifft. Satz 1 gilt im Fall der Beiordnung in Lebenspartnerschaftssachen nach 
 
 # § 49 – Wertgebühren aus der Staatskasse
 
-Bestimmen sich die Gebühren nach dem Gegenstandswert, werden bei einem Gegenstandswert von mehr als 4 000 Euro anstelle der Gebühr nach § 13 Absatz 1 folgende Gebühren vergütet:  
-  
+Bestimmen sich die Gebühren nach dem Gegenstandswert, werden bei einem Gegenstandswert von mehr als 4 000 Euro anstelle der Gebühr nach § 13 Absatz 1 die folgenden Gebühren vergütet:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 28%" />
-<col style="width: 21%" />
-<col />
-<col style="width: 28%" />
-<col style="width: 21%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
+<col style="width: 2%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header">
+<tr class="header" data-valign="middle">
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Gegenstands-<br />
 wert<br />
-bis ... Euro</th>
+bis … Euro</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Gebühr<br />
-... Euro</th>
-<th style="text-align: center; border-right: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50"> </th>
+… Euro</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50"> </th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Gegenstands-<br />
 wert<br />
-bis ... Euro</th>
+bis … Euro</th>
 <th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Gebühr<br />
-... Euro</th>
+… Euro</th>
 </tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 5 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">284</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">22 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 399</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">319,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">25 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">449,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 6 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">295</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">25 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 414</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">330,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">30 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">488,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 7 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">306</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">30 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 453</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">341,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">35 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">527,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 8 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">317</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">35 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 492</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">352,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">40 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">566,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 9 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">328</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">40 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 531</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">363,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">45 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">605,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">10 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">339</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">45 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 570</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">374,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">50 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">644,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">13 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">354</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">50 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 609</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">389,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">65 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">692,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">16 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">369</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  über<br />
-50 000</td>
-<td rowspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
-659</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">404,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">80 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">739,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">384</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">419,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> über<br />
+80 000</td>
+<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">22 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">434,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">786,00</td>
 </tr>
 </tbody>
 </table>
@@ -1361,7 +1354,7 @@ Die Gebühr 2100 beträgt ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
-36,00 bis 384,00 €</td>
+39,00 bis 419,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr ist auf eine Gebühr für das Rechtsmittelverfahren anzurechnen.</td>
@@ -1373,7 +1366,7 @@ Die Gebühr 2100 beträgt ..........</td>
 Die Gebühr 2102 beträgt ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-60,00 bis 660,00 €</td>
+65,00 bis 719,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2<br />
@@ -1414,7 +1407,7 @@ Vertretung</td>
 (1) Im Verwaltungszwangsverfahren ist Teil 3 Abschnitt 3 Unterabschnitt 3 entsprechend anzuwenden.<br />
 (2) Dieser Abschnitt gilt nicht für die in den Teilen 4 bis 6 geregelten Angelegenheiten.<br />
 (3) Die Geschäftsgebühr entsteht für das Betreiben des Geschäfts einschließlich der Information und für die Mitwirkung bei der Gestaltung eines Vertrags.<br />
-(4) Soweit wegen desselben Gegenstands eine Geschäftsgebühr für eine Tätigkeit im Verwaltungsverfahren entstanden ist, wird diese Gebühr zur Hälfte, bei Wertgebühren jedoch höchstens mit einem Gebührensatz von 0,75, auf eine Geschäftsgebühr für eine Tätigkeit im weiteren Verwaltungsverfahren, das der Nachprüfung des Verwaltungsakts dient, angerechnet. Bei einer Betragsrahmengebühr beträgt der Anrechnungsbetrag höchstens 207,00 €. Bei einer Wertgebühr erfolgt die Anrechnung nach dem Wert des Gegenstands, der auch Gegenstand des weiteren Verfahrens ist.<br />
+(4) Soweit wegen desselben Gegenstands eine Geschäftsgebühr für eine Tätigkeit im Verwaltungsverfahren entstanden ist, wird diese Gebühr zur Hälfte, bei Wertgebühren jedoch höchstens mit einem Gebührensatz von 0,75, auf eine Geschäftsgebühr für eine Tätigkeit im weiteren Verwaltungsverfahren, das der Nachprüfung des Verwaltungsakts dient, angerechnet. Bei einer Betragsrahmengebühr beträgt der Anrechnungsbetrag höchstens 225,00 €. Bei einer Wertgebühr erfolgt die Anrechnung nach dem Wert des Gegenstands, der auch Gegenstand des weiteren Verfahrens ist.<br />
 (5) Absatz 4 gilt entsprechend bei einer Tätigkeit im Verfahren nach der Wehrbeschwerdeordnung, wenn darauf eine Tätigkeit im Beschwerdeverfahren oder wenn der Tätigkeit im Beschwerdeverfahren eine Tätigkeit im Verfahren der weiteren Beschwerde vor den Disziplinarvorgesetzten folgt.<br />
 (6) Soweit wegen desselben Gegenstands eine Geschäftsgebühr nach Nummer 2300 entstanden ist, wird diese Gebühr zur Hälfte, jedoch höchstens mit einem Gebührensatz von 0,75, auf eine Geschäftsgebühr nach Nummer 2303 angerechnet. Absatz 4 Satz 3 gilt entsprechend.</td>
 </tr>
@@ -1427,7 +1420,7 @@ Vertretung</td>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">(1) Eine Gebühr von mehr als 1,3 kann nur gefordert werden, wenn die Tätigkeit umfangreich oder schwierig war.<br />
-(2) Ist Gegenstand der Tätigkeit eine Inkassodienstleistung, die eine unbestrittene Forderung betrifft, kann eine Gebühr von mehr als 0,9 nur gefordert werden, wenn die Inkassodienstleistung besonders umfangreich oder besonders schwierig war. In einfachen Fällen kann nur eine Gebühr von 0,5 gefordert werden; ein einfacher Fall liegt in der Regel vor, wenn die Forderung auf die erste Zahlungsaufforderung hin beglichen wird. Der Gebührensatz beträgt höchstens 1,3.</td>
+(2) Ist Gegenstand der Tätigkeit eine Inkassodienstleistung, die eine unbestrittene Forderung betrifft, kann eine Gebühr von mehr als 0,9 nur gefordert werden, wenn die Inkassodienstleistung besonders umfangreich oder besonders schwierig war. In einfachen Fällen darf nur eine Gebühr von 0,5 gefordert werden; ein einfacher Fall liegt in der Regel vor, wenn die Forderung innerhalb von zwei Wochen nach der ersten Zahlungsaufforderung beglichen wird. Der Gebührensatz beträgt höchstens 1,3.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
@@ -1454,10 +1447,10 @@ Die Gebühr 2300 beträgt ..........</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">2. Verfahren nach der Wehrbeschwerdeordnung, wenn im gerichtlichen Verfahren das Verfahren vor dem Truppendienstgericht oder vor dem Bundesverwaltungsgericht an die Stelle des Verwaltungsrechtswegs gemäß § 82 SG tritt ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-60,00 bis 768,00 €</td>
+65,00 bis 837,00 €</td>
 </tr>
 <tr class="odd">
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Eine Gebühr von mehr als 359,00 € kann nur gefordert werden, wenn die Tätigkeit umfangreich oder schwierig war.</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Eine Gebühr von mehr als 391,00 € kann nur gefordert werden, wenn die Tätigkeit umfangreich oder schwierig war.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
@@ -1470,106 +1463,102 @@ Die Gebühr 2300 beträgt ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">2. Verfahren vor einem Ausschuss der in § 111 Abs. 2 des Arbeitsgerichtsgesetzes bezeichneten Art,</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">2. Verfahren vor einem Ausschuss der in § 111 Abs. 2 des Arbeitsgerichtsgesetzes bezeichneten Art und</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
-<td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">3. Verfahren vor dem Seemannsamt zur vorläufigen Entscheidung von Arbeitssachen und</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">4. Verfahren vor sonstigen gesetzlich eingerichteten Einigungsstellen, Gütestellen oder Schiedsstellen ..........</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">3. Verfahren vor sonstigen gesetzlich eingerichteten Einigungsstellen, Gütestellen oder Schiedsstellen ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 1,5</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 4<br />
 
 (weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 5<br />
 
 Beratungshilfe</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="3" data-valign="top" data-charoff="50">Vorbemerkung 2.5:<br />
 Im Rahmen der Beratungshilfe entstehen Gebühren ausschließlich nach diesem Abschnitt.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2500</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Beratungshilfegebühr ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">15,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Neben der Gebühr werden keine Auslagen erhoben. Die Gebühr kann erlassen werden.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2501</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Beratungsgebühr ..........</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">38,50 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">42,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">(1) Die Gebühr entsteht für eine Beratung, wenn die Beratung nicht mit einer anderen gebührenpflichtigen Tätigkeit zusammenhängt.<br />
 (2) Die Gebühr ist auf eine Gebühr für eine sonstige Tätigkeit anzurechnen, die mit der Beratung zusammenhängt.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2502</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Beratungstätigkeit mit dem Ziel einer außergerichtlichen Einigung mit den Gläubigern über die Schuldenbereinigung auf der Grundlage eines Plans (§ 305 Abs. 1 Nr. 1 InsO):<br />
 Die Gebühr 2501 beträgt ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
-77,00 €</td>
-</tr>
-<tr class="odd">
-<td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2503</td>
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Geschäftsgebühr ..........</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">93,50 €</td>
+84,00 €</td>
 </tr>
 <tr class="even">
+<td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2503</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Geschäftsgebühr ..........</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">102,00 €</td>
+</tr>
+<tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">(1) Die Gebühr entsteht für das Betreiben des Geschäfts einschließlich der Information oder die Mitwirkung bei der Gestaltung eines Vertrags.<br />
 (2) Auf die Gebühren für ein anschließendes gerichtliches oder behördliches Verfahren ist diese Gebühr zur Hälfte anzurechnen. Auf die Gebühren für ein Verfahren auf Vollstreckbarerklärung eines Vergleichs nach den §§ 796a, 796b und 796c Abs. 2 Satz 2 ZPO ist die Gebühr zu einem Viertel anzurechnen.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2504</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Tätigkeit mit dem Ziel einer außergerichtlichen Einigung mit den Gläubigern über die Schuldenbereinigung auf der Grundlage eines Plans (§ 305 Abs. 1 Nr. 1 InsO):<br />
 Die Gebühr 2503 beträgt bei bis zu 5 Gläubigern ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-297,00 €</td>
+324,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2505</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Es sind 6 bis 10 Gläubiger vorhanden:<br />
 Die Gebühr 2503 beträgt ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-446,00 €</td>
+486,00 €</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2506</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Es sind 11 bis 15 Gläubiger vorhanden:<br />
 Die Gebühr 2503 beträgt ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-594,00 €</td>
+647,00 €</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2507</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Es sind mehr als 15 Gläubiger vorhanden:<br />
 Die Gebühr 2503 beträgt ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-743,00 €</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2508</td>
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Einigungs- und Erledigungsgebühr ..........</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">165,00 €</td>
+810,00 €</td>
 </tr>
 <tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2508</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Einigungs- und Erledigungsgebühr ..........</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">180,00 €</td>
+</tr>
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">(1) Die Anmerkungen zu Nummern 1000 und 1002 sind anzuwenden.<br />
 (2) Die Gebühr entsteht auch für die Mitwirkung bei einer außergerichtlichen Einigung mit den Gläubigern über die Schuldenbereinigung auf der Grundlage eines Plans (§ 305 Abs. 1 Nr. 1 InsO).</td>
@@ -1620,7 +1609,7 @@ die Wahrnehmung eines von einem gerichtlich bestellten Sachverständigen anberau
 die Mitwirkung an Besprechungen, die auf die Vermeidung oder Erledigung des Verfahrens gerichtet sind; dies gilt nicht für Besprechungen mit dem Auftraggeber.
 </dd>
 </dl>
-(4) Soweit wegen desselben Gegenstands eine Geschäftsgebühr nach Teil 2 entsteht, wird diese Gebühr zur Hälfte, bei Wertgebühren jedoch höchstens mit einem Gebührensatz von 0,75, auf die Verfahrensgebühr des gerichtlichen Verfahrens angerechnet. Bei Betragsrahmengebühren beträgt der Anrechnungsbetrag höchstens 207,00 €. Sind mehrere Gebühren entstanden, ist für die Anrechnung die zuletzt entstandene Gebühr maßgebend. Bei einer wertabhängigen Gebühr erfolgt die Anrechnung nach dem Wert des Gegenstands, der auch Gegenstand des gerichtlichen Verfahrens ist.<br />
+(4) Soweit wegen desselben Gegenstands eine Geschäftsgebühr nach Teil 2 entsteht, wird diese Gebühr zur Hälfte, bei Wertgebühren jedoch höchstens mit einem Gebührensatz von 0,75, auf die Verfahrensgebühr des gerichtlichen Verfahrens angerechnet. Bei Betragsrahmengebühren beträgt der Anrechnungsbetrag höchstens 225,00 €. Sind mehrere Gebühren entstanden, ist für die Anrechnung die zuletzt entstandene Gebühr maßgebend. Bei einer wertabhängigen Gebühr erfolgt die Anrechnung nach dem Wert des Gegenstands, der auch Gegenstand des gerichtlichen Verfahrens ist.<br />
 (5) Soweit der Gegenstand eines selbstständigen Beweisverfahrens auch Gegenstand eines Rechtsstreits ist oder wird, wird die Verfahrensgebühr des selbstständigen Beweisverfahrens auf die Verfahrensgebühr des Rechtszugs angerechnet.<br />
 (6) Soweit eine Sache an ein untergeordnetes Gericht zurückverwiesen wird, das mit der Sache bereits befasst war, ist die vor diesem Gericht bereits entstandene Verfahrensgebühr auf die Verfahrensgebühr für das erneute Verfahren anzurechnen.<br />
 (7) Die Verfahrensgebühr für einen Urkunden- oder Wechselprozess wird auf die Verfahrensgebühr für das ordentliche Verfahren angerechnet, wenn dieses nach Abstandnahme vom Urkunden- oder Wechselprozess oder nach einem Vorbehaltsurteil anhängig bleibt (§§ 596 und 600 ZPO).<br />
@@ -1672,7 +1661,7 @@ Die Gebühren dieses Abschnitts entstehen in allen Verfahren, für die in den fo
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3102</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für Verfahren vor den Sozialgerichten, in denen Betragsrahmengebühren entstehen (§ 3 RVG) ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-60,00 bis 660,00 €</td>
+65,00 bis 719,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3103</td>
@@ -1689,7 +1678,7 @@ Die Gebühren dieses Abschnitts entstehen in allen Verfahren, für die in den fo
 <dl>
 <dt>1.</dt>
 <dd>
-in einem Verfahren, für das mündliche Verhandlung vorgeschrieben ist, im Einverständnis mit den Parteien oder Beteiligten oder gemäß § 307 oder § 495a ZPO oder § 77 Abs. 2 AsylG ohne mündliche Verhandlung entschieden oder in einem solchen Verfahren mit oder ohne Mitwirkung des Gerichts ein Vertrag im Sinne der Nummer 1000 geschlossen wird oder eine Erledigung der Rechtssache im Sinne der Nummer 1002 eingetreten ist,
+in einem Verfahren, für das mündliche Verhandlung oder ein Erörterungstermin vorgeschrieben ist, im Einverständnis mit den Parteien oder Beteiligten oder gemäß § 307 oder § 495a ZPO oder § 77 Abs. 2 AsylG ohne mündliche Verhandlung oder Erörterung entschieden oder in einem solchen Verfahren mit oder ohne Mitwirkung des Gerichts ein Vertrag im Sinne der Nummer 1000 geschlossen wird oder eine Erledigung der Rechtssache im Sinne der Nummer 1002 eingetreten ist,
 </dd>
 <dt>2.</dt>
 <dd>
@@ -1734,7 +1723,7 @@ eine Entscheidung gemäß § 331 Abs. 3 ZPO ergeht.
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3106</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr in Verfahren vor den Sozialgerichten, in denen Betragsrahmengebühren entstehen (§ 3 RVG) ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-60,00 bis 610,00 €</td>
+65,00 bis 665,00 €</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht auch, wenn
@@ -1763,7 +1752,7 @@ Berufung, Revision, bestimmte Beschwerden und Verfahren vor dem Finanzgericht</t
 <tr class="even">
 <td colspan="3" data-valign="top" data-charoff="50">Vorbemerkung 3.2:<br />
 (1) Dieser Abschnitt ist auch in Verfahren vor dem Rechtsmittelgericht über die Zulassung des Rechtsmittels anzuwenden.<br />
-(2) Wenn im Verfahren auf Anordnung eines Arrests, zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung oder auf Erlass einer einstweiligen Verfügung sowie im Verfahren über die Aufhebung, den Widerruf oder die Abänderung der genannten Entscheidungen das Rechtsmittelgericht als Gericht der Hauptsache anzusehen ist (§ 943, auch i. V. m. § 946 Abs. 1 Satz 2 ZPO), bestimmen sich die Gebühren nach den für die erste Instanz geltenden Vorschriften. Dies gilt entsprechend im Verfahren der einstweiligen Anordnung und im Verfahren auf Anordnung oder Wiederherstellung der aufschiebenden Wirkung, auf Aussetzung oder Aufhebung der Vollziehung oder Anordnung der sofortigen Vollziehung eines Verwaltungsakts. Satz 1 gilt ferner entsprechend in Verfahren über einen Antrag nach § 169 Abs. 2 Satz 5 und 6, § 173 Abs. 1 Satz 3 oder nach § 176 GWB.</td>
+(2) Wenn im Verfahren auf Anordnung eines Arrests, zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung oder auf Erlass einer einstweiligen Verfügung sowie im Verfahren über die Aufhebung, den Widerruf oder die Abänderung der genannten Entscheidungen das Rechtsmittelgericht als Gericht der Hauptsache anzusehen ist (§ 943, auch i. V. m. § 946 Abs. 1 Satz 2 ZPO), bestimmen sich die Gebühren nach den für die erste Instanz geltenden Vorschriften. Dies gilt entsprechend im Verfahren der einstweiligen Anordnung und im Verfahren auf Anordnung oder Wiederherstellung der aufschiebenden Wirkung, auf Aussetzung oder Aufhebung der Vollziehung oder Anordnung der sofortigen Vollziehung eines Verwaltungsakts. Satz 1 gilt ferner entsprechend in Verfahren über einen Antrag nach § 169 Abs. 2 Satz 6 und 7, § 173 Abs. 1 Satz 3 oder nach § 176 GWB.</td>
 </tr>
 <tr class="odd">
 <td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 1<br />
@@ -1924,13 +1913,13 @@ Die Gebühr 3202 beträgt ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3204</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für Verfahren vor den Landessozialgerichten, in denen Betragsrahmengebühren entstehen (§ 3 RVG) ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-72,00 bis 816,00 €</td>
+78,00 bis 889,00 €</td>
 </tr>
 <tr class="even">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3205</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr in Verfahren vor den Landessozialgerichten, in denen Betragsrahmengebühren entstehen (§ 3 RVG) ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-60,00 bis 610,00 €</td>
+65,00 bis 665,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Satz 1 Nr. 1 und 3 der Anmerkung zu Nummer 3106 gilt entsprechend. In den Fällen des Satzes 1 beträgt die Gebühr 75 % der in derselben Angelegenheit dem Rechtsanwalt zustehenden Verfahrensgebühr ohne Berücksichtigung einer Erhöhung nach Nummer 1008.</td>
@@ -2037,13 +2026,13 @@ Die Gebühr 3210 beträgt ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3212</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für Verfahren vor dem Bundessozialgericht, in denen Betragsrahmengebühren entstehen (§ 3 RVG) ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-96,00 bis 1 056,00 €</td>
+105,00 bis 1 151,00 €</td>
 </tr>
 <tr class="odd">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3213</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr in Verfahren vor dem Bundessozialgericht, in denen Betragsrahmengebühren entstehen (§ 3 RVG) ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-96,00 bis 990,00 €</td>
+105,00 bis 1 079,00 €</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Satz 1 Nr. 1 und 3 sowie Satz 2 der Anmerkung zu Nummer 3106 gelten entsprechend.</td>
@@ -2405,7 +2394,7 @@ höchstens 0,5,<br />
 bei Betragsrahmen-<br />
 gebühren<br />
 höchstens<br />
-260,00 €</td>
+280,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3331</td>
@@ -2420,7 +2409,7 @@ höchstens 0,5,<br />
 bei Betragsrahmen-<br />
 gebühren<br />
 höchstens<br />
-260,00 €</td>
+280,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3332</td>
@@ -2458,7 +2447,7 @@ höchstens 1,0,<br />
 bei Betragsrahmen-<br />
 gebühren<br />
 höchstens<br />
-500,00 €</td>
+550,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3336</td>
@@ -2522,7 +2511,7 @@ höchstens 1,0,<br />
 bei Betragsrahmen-<br />
 gebühren<br />
 höchstens<br />
-500,00 €</td>
+550,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die gleiche Gebühr entsteht auch, wenn im Einverständnis mit dem Auftraggeber mit der Übersendung der Akten an den Rechtsanwalt des höheren Rechtszugs gutachterliche Äußerungen verbunden sind.</td>
@@ -2587,7 +2576,7 @@ höchstens 0,5,<br />
 bei Betragsrahmen-<br />
 gebühren<br />
 höchstens<br />
-250,00 €</td>
+275,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Im Fall der Nummer 3403 gilt die Vorschrift entsprechend.</td>
@@ -2596,7 +2585,7 @@ höchstens<br />
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3406</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für sonstige Einzeltätigkeiten in Verfahren vor Gerichten der Sozialgerichtsbarkeit, wenn Betragsrahmengebühren entstehen (§ 3 RVG) ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-36,00 bis 408,00 €</td>
+39,00 bis 445,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Anmerkung zu Nummer 3403 gilt entsprechend.</td>
@@ -2623,7 +2612,7 @@ Die Gebühren nach diesem Abschnitt entstehen nicht in den in den Vorbemerkungen
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
-24,00 bis 250,00 €</td>
+26,00 bis 275,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3502</td>
@@ -2805,7 +2794,7 @@ durch den über den Antrag auf Feststellung oder Erklärung der Nichtigkeit gem�
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für das Verfahren über die Beschwerde gegen die Nichtzulassung der Berufung vor dem Landessozialgericht, wenn Betragsrahmengebühren entstehen (§ 3 RVG) ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-72,00 bis 816,00 €</td>
+78,00 bis 889,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes Berufungsverfahren angerechnet.</td>
@@ -2816,7 +2805,7 @@ durch den über den Antrag auf Feststellung oder Erklärung der Nichtigkeit gem�
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für das Verfahren über die Beschwerde gegen die Nichtzulassung der Revision vor dem Bundessozialgericht, wenn Betragsrahmengebühren entstehen (§ 3 RVG) ..........</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-96,00 bis 1 056,00 €</td>
+105,00 bis 1 151,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes Revisionsverfahren angerechnet.</td>
@@ -2840,7 +2829,7 @@ Die Gebühr 3513 beträgt ..........</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3515</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr in den in Nummer 3501 genannten Verfahren ..........</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">24,00 bis 250,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">26,00 bis 275,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3516</td>
@@ -2851,12 +2840,12 @@ Die Gebühr 3513 beträgt ..........</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3517</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr in den in Nummer 3511 genannten Verfahren ..........</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">60,00 bis 610,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">65,00 bis 665,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3518</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr in den in Nummer 3512 genannten Verfahren ..........</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">72,00 bis 792,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">78,00 bis 863,00 €</td>
 </tr>
 </tbody>
 </table>
@@ -2931,8 +2920,8 @@ Allgemeine Gebühren</td>
 <tr class="odd">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4100</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Grundgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44,00 bis 396,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">176,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48,00 bis 432,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">192,00 €</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">(1) Die Gebühr entsteht neben der Verfahrensgebühr für die erstmalige Einarbeitung in den Rechtsfall nur einmal, unabhängig davon, in welchem Verfahrensabschnitt sie erfolgt.<br />
@@ -2943,8 +2932,8 @@ Allgemeine Gebühren</td>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4101</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4100 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44,00 bis 495,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">216,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48,00 bis 540,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">235,00 €</td>
 </tr>
 <tr class="even">
 <td rowspan="5" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4102</td>
@@ -2975,8 +2964,8 @@ Allgemeine Gebühren</td>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">5. Sühneterminen nach § 380 StPO</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44,00 bis 330,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">150,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48,00 bis 360,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">163,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -2987,8 +2976,8 @@ Allgemeine Gebühren</td>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4103</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4102 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44,00 bis 413,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">183,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48,00 bis 450,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">199,00 €</td>
 </tr>
 <tr class="even">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 2<br />
@@ -3002,8 +2991,8 @@ Die Vorbereitung der Privatklage steht der Tätigkeit im vorbereitenden Verfahre
 <tr class="even">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4104</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44,00 bis 319,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">145,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48,00 bis 348,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">158,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht für eine Tätigkeit in dem Verfahren bis zum Eingang der Anklageschrift, des Antrags auf Erlass eines Strafbefehls bei Gericht oder im beschleunigten Verfahren bis zum Vortrag der Anklage, wenn diese nur mündlich erhoben wird.</td>
@@ -3013,8 +3002,8 @@ Die Vorbereitung der Privatklage steht der Tätigkeit im vorbereitenden Verfahre
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4105</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4104 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44,00 bis 399,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">177,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48,00 bis 435,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">193,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 3<br />
@@ -3028,29 +3017,29 @@ Gerichtliches Verfahren</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4106</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für den ersten Rechtszug vor dem Amtsgericht ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-44,00 bis 319,00 €</td>
+48,00 bis 348,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-145,00 €</td>
+158,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4107</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4106 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44,00 bis 399,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">177,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48,00 bis 435,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">193,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4108</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Hauptverhandlungstag in den in Nummer 4106 genannten Verfahren ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-77,00 bis 528,00 €</td>
+84,00 bis 576,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-242,00 €</td>
+264,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4109</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4108 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">77,00 bis 660,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">295,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">84,00 bis 719,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">321,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4110</td>
@@ -3060,7 +3049,7 @@ Zusätzliche Gebühr neben der Gebühr 4108 oder 4109</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
-121,00 €</td>
+132,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4111</td>
@@ -3069,15 +3058,15 @@ Zusätzliche Gebühr neben der Gebühr 4108 oder 4109</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-242,00 €</td>
+264,00 €</td>
 </tr>
 <tr class="odd">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4112</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für den ersten Rechtszug vor der Strafkammer ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-55,00 bis 352,00 €</td>
+60,00 bis 384,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-163,00 €</td>
+178,00 €</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht auch für Verfahren
@@ -3097,22 +3086,22 @@ im Rehabilitierungsverfahren nach Abschnitt 2 StrRehaG.
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4113</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4112 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">55,00 bis 440,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">198,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">60,00 bis 480,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">216,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4114</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Hauptverhandlungstag in den in Nummer 4112 genannten Verfahren ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-88,00 bis 616,00 €</td>
+96,00 bis 671,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-282,00 €</td>
+307,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4115</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4114 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">88,00 bis 770,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">343,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">96,00 bis 839,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">374,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4116</td>
@@ -3122,7 +3111,7 @@ Zusätzliche Gebühr neben der Gebühr 4114 oder 4115</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
-141,00 €</td>
+154,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4117</td>
@@ -3131,17 +3120,17 @@ Zusätzliche Gebühr neben der Gebühr 4114 oder 4115</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-282,00 €</td>
+307,00 €</td>
 </tr>
 <tr class="even">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4118</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für den ersten Rechtszug vor dem Oberlandesgericht, dem Schwurgericht oder der Strafkammer nach den §§ 74a und 74c GVG ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
 <br />
-110,00 bis 759,00 €</td>
+120,00 bis 827,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-348,00 €</td>
+379,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht auch für Verfahren vor der Jugendkammer, soweit diese in Sachen entscheidet, die nach den allgemeinen Vorschriften zur Zuständigkeit des Schwurgerichts gehören.</td>
@@ -3151,22 +3140,22 @@ Zusätzliche Gebühr neben der Gebühr 4114 oder 4115</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4119</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4118 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">110,00 bis 949,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">424,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">120,00 bis 1 034,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">462,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4120</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Hauptverhandlungstag in den in Nummer 4118 genannten Verfahren ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-143,00 bis 1 023,00 €</td>
+156,00 bis 1 115,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-466,00 €</td>
+508,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4121</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4120 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">143,00 bis 1 279,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">569,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">156,00 bis 1 394,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">620,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4122</td>
@@ -3176,7 +3165,7 @@ Zusätzliche Gebühr neben der Gebühr 4120 oder 4121</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
-233,00 €</td>
+254,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4123</td>
@@ -3185,7 +3174,7 @@ Zusätzliche Gebühr neben der Gebühr 4120 oder 4121</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-466,00 €</td>
+508,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Berufung</td>
@@ -3193,8 +3182,8 @@ Zusätzliche Gebühr neben der Gebühr 4120 oder 4121</td>
 <tr class="even">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4124</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für das Berufungsverfahren ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">88,00 bis 616,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">282,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">96,00 bis 671,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">307,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht auch für Beschwerdeverfahren nach § 13 StrRehaG.</td>
@@ -3204,16 +3193,16 @@ Zusätzliche Gebühr neben der Gebühr 4120 oder 4121</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4125</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4124 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">88,00 bis 770,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">343,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">96,00 bis 839,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">374,00 €</td>
 </tr>
 <tr class="odd">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4126</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Hauptverhandlungstag im Berufungsverfahren ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-88,00 bis 616,00 €</td>
+96,00 bis 671,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-282,00 €</td>
+307,00 €</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht auch für Beschwerdeverfahren nach § 13 StrRehaG.</td>
@@ -3223,8 +3212,8 @@ Zusätzliche Gebühr neben der Gebühr 4120 oder 4121</td>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4127</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4126 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">88,00 bis 770,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">343,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">96,00 bis 839,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">374,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4128</td>
@@ -3234,7 +3223,7 @@ Zusätzliche Gebühr neben der Gebühr 4126 oder 4127</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
-141,00 €</td>
+154,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4129</td>
@@ -3243,7 +3232,7 @@ Zusätzliche Gebühr neben der Gebühr 4126 oder 4127</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-282,00 €</td>
+307,00 €</td>
 </tr>
 <tr class="even">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Revision</td>
@@ -3251,28 +3240,28 @@ Zusätzliche Gebühr neben der Gebühr 4126 oder 4127</td>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4130</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für das Revisionsverfahren ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">132,00 bis 1 221,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">541,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">144,00 bis 1 331,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">590,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4131</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4130 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">132,00 bis 1 526,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">663,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">144,00 bis 1 664,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">723,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4132</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Hauptverhandlungstag im Revisionsverfahren ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-132,00 bis 616,00 €</td>
+144,00 bis 671,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-300,00 €</td>
+326,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4133</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4132 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">132,00 bis 770,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">361,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">144,00 bis 839,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">393,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4134</td>
@@ -3282,7 +3271,7 @@ Zusätzliche Gebühr neben der Gebühr 4132 oder 4133</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 <br />
-150,00 €</td>
+163,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4135</td>
@@ -3291,7 +3280,7 @@ Zusätzliche Gebühr neben der Gebühr 4132 oder 4133</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-300,00 €</td>
+326,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 4<br />
@@ -3490,56 +3479,56 @@ in einer Entziehungsanstalt,
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">3. den Widerruf einer Strafaussetzung zur Bewährung oder den Widerruf der Aussetzung einer Maßregel der Besserung und Sicherung zur Bewährung ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
 <br />
-66,00 bis 737,00 €</td>
+72,00 bis 803,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-321,00 €</td>
+350,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4201</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4200 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">66,00 bis 921,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">395,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">72,00 bis 1 004,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">430,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4202</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr in den in Nummer 4200 genannten Verfahren ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-66,00 bis 330,00 €</td>
+72,00 bis 360,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-158,00 €</td>
+173,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4203</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4202 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">66,00 bis 413,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">192,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">72,00 bis 450,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">209,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4204</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für sonstige Verfahren in der Strafvollstreckung ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-33,00 bis 330,00 €</td>
+36,00 bis 360,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-145,00 €</td>
+158,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4205</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4204 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">33,00 bis 413,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">178,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">36,00 bis 450,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">194,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4206</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr für sonstige Verfahren ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">33,00 bis 330,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">145,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">36,00 bis 360,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">158,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4207</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr 4206 mit Zuschlag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">33,00 bis 413,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">178,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">36,00 bis 450,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">194,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3<br />
@@ -3571,8 +3560,8 @@ Einzeltätigkeiten</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">3. in Verfahren nach den §§ 57a und 67e StGB ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">66,00 bis 737,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">321,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">72,00 bis 803,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">350,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Neben der Gebühr für die Begründung der Revision entsteht für die Einlegung der Revision keine besondere Gebühr.</td>
@@ -3612,8 +3601,8 @@ Einzeltätigkeiten</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">6. sonstige Tätigkeiten in der Strafvollstreckung ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44,00 bis 506,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">220,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48,00 bis 552,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">240,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Neben der Gebühr für die Rechtfertigung der Berufung entsteht für die Einlegung der Berufung keine besondere Gebühr.</td>
@@ -3639,15 +3628,15 @@ Einzeltätigkeiten</td>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">3. eine andere nicht in Nummer 4300 oder 4301 erwähnte Beistandsleistung ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-33,00 bis 319,00 €</td>
+36,00 bis 348,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-141,00 €</td>
+154,00 €</td>
 </tr>
 <tr class="even">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4303</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für die Vertretung in einer Gnadensache ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-33,00 bis 330,00 €</td>
+36,00 bis 360,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
@@ -3660,7 +3649,7 @@ Einzeltätigkeiten</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Gebühr für den als Kontaktperson beigeordneten Rechtsanwalt (§ 34a EGGVG) ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-3 850,00 €</td>
+4 197,00 €</td>
 </tr>
 </tbody>
 </table>
@@ -3733,8 +3722,8 @@ Allgemeine Gebühr</td>
 <tr class="odd">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5100</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Grundgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">33,00 bis 187,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">88,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">36,00 bis 204,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">96,00 €</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">(1) Die Gebühr entsteht neben der Verfahrensgebühr für die erstmalige Einarbeitung in den Rechtsfall nur einmal, unabhängig davon, in welchem Verfahrensabschnitt sie erfolgt.<br />
@@ -3754,51 +3743,51 @@ Verfahren vor der Verwaltungsbehörde</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5101</td>
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr bei einer Geldbuße von weniger als 60,00 € ..........</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr bei einer Geldbuße von weniger als 80,00 € ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-22,00 bis 121,00 €</td>
+24,00 bis 132,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-57,00 €</td>
+62,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5102</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr für jeden Tag, an dem ein Termin in den in Nummer 5101 genannten Verfahren stattfindet ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-22,00 bis 121,00 €</td>
+24,00 bis 132,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-57,00 €</td>
+62,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5103</td>
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr bei einer Geldbuße von 60,00 bis 5 000,00 € ..........</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr bei einer Geldbuße von 80,00 bis 5 000,00 € ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-33,00 bis 319,00 €</td>
+36,00 bis 348,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-141,00 €</td>
+154,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5104</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr für jeden Tag, an dem ein Termin in den in Nummer 5103 genannten Verfahren stattfindet ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-33,00 bis 319,00 €</td>
+36,00 bis 348,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-141,00 €</td>
+154,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5105</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr bei einer Geldbuße von mehr als 5 000,00 € ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-44,00 bis 330,00 €</td>
+48,00 bis 360,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-150,00 €</td>
+163,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5106</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr für jeden Tag, an dem ein Termin in den in Nummer 5105 genannten Verfahren stattfindet ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-44,00 bis 330,00 €</td>
+48,00 bis 360,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-150,00 €</td>
+163,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 3<br />
@@ -3812,51 +3801,51 @@ Gerichtliches Verfahren im ersten Rechtszug</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5107</td>
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr bei einer Geldbuße von weniger als 60,00 € ..........</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr bei einer Geldbuße von weniger als 80,00 € ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-22,00 bis 121,00 €</td>
+24,00 bis 132,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-57,00 €</td>
+62,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5108</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Hauptverhandlungstag in den in Nummer 5107 genannten Verfahren ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-22,00 bis 264,00 €</td>
+24,00 bis 288,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-114,00 €</td>
+125,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5109</td>
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr bei einer Geldbuße von 60,00 bis 5 000,00 € ..........</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr bei einer Geldbuße von 80,00 bis 5 000,00 € ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-33,00 bis 319,00 €</td>
+36,00 bis 348,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-141,00 €</td>
+154,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5110</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Hauptverhandlungstag in den in Nummer 5109 genannten Verfahren ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-44,00 bis 517,00 €</td>
+48,00 bis 564,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-224,00 €</td>
+245,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5111</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr bei einer Geldbuße von mehr als 5 000,00 € ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-55,00 bis 385,00 €</td>
+60,00 bis 420,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-176,00 €</td>
+192,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5112</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Hauptverhandlungstag in den in Nummer 5111 genannten Verfahren ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-88,00 bis 616,00 €</td>
+96,00 bis 671,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-282,00 €</td>
+307,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 4<br />
@@ -3866,14 +3855,14 @@ Verfahren über die Rechtsbeschwerde</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5113</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">88,00 bis 616,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">282,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">96,00 bis 671,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">307,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5114</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Hauptverhandlungstag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">88,00 bis 616,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">282,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">96,00 bis 671,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">307,00 €</td>
 </tr>
 <tr class="even">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 5<br />
@@ -3947,8 +3936,8 @@ Einzeltätigkeiten</td>
 <tr class="odd">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5200</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">22,00 bis 121,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">57,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">24,00 bis 132,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">62,00 €</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">(1) Die Gebühr entsteht für einzelne Tätigkeiten, ohne dass dem Rechtsanwalt sonst die Verteidigung übertragen ist.<br />
@@ -4021,8 +4010,8 @@ Die Gebühr nach diesem Unterabschnitt entsteht für die Tätigkeit gegenüber d
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6100</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">55,00 bis 374,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">172,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">60,00 bis 408,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">187,00 €</td>
 </tr>
 <tr class="even">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 2<br />
@@ -4032,14 +4021,14 @@ Gerichtliches Verfahren</td>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6101</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">110,00 bis 759,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">348,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">120,00 bis 827,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">379,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6102</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Verhandlungstag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">143,00 bis 1 023,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">466,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">156,00 bis 1 115,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">508,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2<br />
@@ -4070,8 +4059,8 @@ Allgemeine Gebühren</td>
 <tr class="even">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6200</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Grundgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44,00 bis 385,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">172,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48,00 bis 420,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">187,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht neben der Verfahrensgebühr für die erstmalige Einarbeitung in den Rechtsfall nur einmal, unabhängig davon, in welchem Verfahrensabschnitt sie erfolgt.</td>
@@ -4082,9 +4071,9 @@ Allgemeine Gebühren</td>
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6201</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr für jeden Tag, an dem ein Termin stattfindet ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-44,00 bis 407,00 €</td>
+48,00 bis 444,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-180,00 €</td>
+197,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht für die Teilnahme an außergerichtlichen Anhörungsterminen und außergerichtlichen Terminen zur Beweiserhebung.</td>
@@ -4099,8 +4088,8 @@ Außergerichtliches Verfahren</td>
 <tr class="odd">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6202</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44,00 bis 319,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">145,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48,00 bis 348,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">158,00 €</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">(1) Die Gebühr entsteht gesondert für eine Tätigkeit in einem dem gerichtlichen Verfahren vorausgehenden und der Überprüfung der Verwaltungsentscheidung dienenden weiteren außergerichtlichen Verfahren.<br />
@@ -4124,14 +4113,14 @@ Gerichtliches Verfahren</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6203</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">55,00 bis 352,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">163,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">60,00 bis 384,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">178,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6204</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Verhandlungstag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">88,00 bis 616,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">282,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">96,00 bis 671,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">307,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6205</td>
@@ -4140,7 +4129,7 @@ Zusätzliche Gebühr neben der Gebühr 6204 ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-141,00 €</td>
+154,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6206</td>
@@ -4149,7 +4138,7 @@ Zusätzliche Gebühr neben der Gebühr 6204 ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-282,00 €</td>
+307,00 €</td>
 </tr>
 <tr class="even">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Rechtszug</td>
@@ -4157,14 +4146,14 @@ Zusätzliche Gebühr neben der Gebühr 6204 ..........</td>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6207</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">88,00 bis 616,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">282,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">96,00 bis 671,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">307,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6208</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Verhandlungstag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">88,00 bis 616,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">282,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">96,00 bis 671,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">307,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6209</td>
@@ -4173,7 +4162,7 @@ Zusätzliche Gebühr neben der Gebühr 6208 ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-141,00 €</td>
+154,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6210</td>
@@ -4182,7 +4171,7 @@ Zusätzliche Gebühr neben der Gebühr 6208 ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-282,00 €</td>
+307,00 €</td>
 </tr>
 <tr class="odd">
 <td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Rechtszug</td>
@@ -4190,14 +4179,14 @@ Zusätzliche Gebühr neben der Gebühr 6208 ..........</td>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6211</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">132,00 bis 1 221,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">541,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">144,00 bis 1 331,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">590,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6212</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Verhandlungstag ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">132,00 bis 605,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">294,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">144,00 bis 659,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">321,00 €</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6213</td>
@@ -4206,7 +4195,7 @@ Zusätzliche Gebühr neben der Gebühr 6212 ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-147,00 €</td>
+160,00 €</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6214</td>
@@ -4215,15 +4204,15 @@ Zusätzliche Gebühr neben der Gebühr 6212 ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-294,00 €</td>
+320,00 €</td>
 </tr>
 <tr class="even">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6215</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für das Verfahren über die Beschwerde gegen die Nichtzulassung der Revision ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-77,00 bis 1 221,00 €</td>
+84,00 bis 1 331,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-519,00 €</td>
+566,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes Revisionsverfahren angerechnet.</td>
@@ -4259,10 +4248,10 @@ Gerichtliche Verfahren bei Freiheitsentziehung, bei Unterbringung und bei sonsti
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr in Freiheitsentziehungssachen nach § 415 FamFG, in Unterbringungssachen nach § 312 FamFG und in Verfahren nach § 151 Nr. 6 und 7 FamFG</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
 <br />
-44,00 bis 517,00 €</td>
+48,00 bis 564,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
-224,00 €</td>
+245,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht für jeden Rechtszug.</td>
@@ -4272,8 +4261,8 @@ Gerichtliche Verfahren bei Freiheitsentziehung, bei Unterbringung und bei sonsti
 <tr class="even">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6301</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr in den Fällen der Nummer 6300 ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44,00 bis 517,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">224,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48,00 bis 564,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">245,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht für die Teilnahme an gerichtlichen Terminen.</td>
@@ -4283,8 +4272,8 @@ Gerichtliche Verfahren bei Freiheitsentziehung, bei Unterbringung und bei sonsti
 <tr class="even">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6302</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr in sonstigen Fällen ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">22,00 bis 330,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">141,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">24,00 bis 360,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">154,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht für jeden Rechtszug des Verfahrens über die Verlängerung oder Aufhebung einer Freiheitsentziehung nach den §§ 425 und 426 FamFG oder einer Unterbringungsmaßnahme nach den §§ 329 und 330 FamFG.</td>
@@ -4294,8 +4283,8 @@ Gerichtliche Verfahren bei Freiheitsentziehung, bei Unterbringung und bei sonsti
 <tr class="even">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6303</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr in den Fällen der Nummer 6302 ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">22,00 bis 330,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">141,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">24,00 bis 360,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">154,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Die Gebühr entsteht für die Teilnahme an gerichtlichen Terminen.</td>
@@ -4310,20 +4299,20 @@ Gerichtliche Verfahren nach der Wehrbeschwerdeordnung</td>
 <tr class="odd">
 <td colspan="4" data-valign="top" data-charoff="50">Vorbemerkung 6.4:<br />
 (1) Die Gebühren nach diesem Abschnitt entstehen in Verfahren auf gerichtliche Entscheidung nach der WBO, auch i. V. m. § 42 WDO, wenn das Verfahren vor dem Truppendienstgericht oder vor dem Bundesverwaltungsgericht an die Stelle des Verwaltungsrechtswegs gemäß § 82 SG tritt.<br />
-(2) Soweit wegen desselben Gegenstands eine Geschäftsgebühr nach Nummer 2302 für eine Tätigkeit im Verfahren über die Beschwerde oder über die weitere Beschwerde vor einem Disziplinarvorgesetzten entstanden ist, wird diese Gebühr zur Hälfte, höchstens jedoch mit einem Betrag von 207,00 €, auf die Verfahrensgebühr des gerichtlichen Verfahrens vor dem Truppendienstgericht oder dem Bundesverwaltungsgericht angerechnet. Sind mehrere Gebühren entstanden, ist für die Anrechnung die zuletzt entstandene Gebühr maßgebend.</td>
+(2) Soweit wegen desselben Gegenstands eine Geschäftsgebühr nach Nummer 2302 für eine Tätigkeit im Verfahren über die Beschwerde oder über die weitere Beschwerde vor einem Disziplinarvorgesetzten entstanden ist, wird diese Gebühr zur Hälfte, höchstens jedoch mit einem Betrag von 225,00 €, auf die Verfahrensgebühr des gerichtlichen Verfahrens vor dem Truppendienstgericht oder dem Bundesverwaltungsgericht angerechnet. Sind mehrere Gebühren entstanden, ist für die Anrechnung die zuletzt entstandene Gebühr maßgebend.</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6400</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr für das Verfahren auf gerichtliche Entscheidung vor dem Truppendienstgericht ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-88,00 bis 748,00 €</td>
+96,00 bis 815,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6401</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Verhandlungstag in den in Nummer 6400 genannten Verfahren ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-88,00 bis 748,00 €</td>
+96,00 bis 815,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
@@ -4333,7 +4322,7 @@ Gerichtliche Verfahren nach der Wehrbeschwerdeordnung</td>
 <br />
 <br />
 <br />
-110,00 bis 869,00 €</td>
+120,00 bis 947,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
@@ -4345,7 +4334,7 @@ Gerichtliche Verfahren nach der Wehrbeschwerdeordnung</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6403</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Terminsgebühr je Verhandlungstag in den in Nummer 6402 genannten Verfahren ..........</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
-110,00 bis 869,00 €</td>
+120,00 bis 947,00 €</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
@@ -4356,8 +4345,8 @@ Einzeltätigkeiten und Verfahren auf Aufhebung oder Änderung einer Disziplinarm
 <tr class="even">
 <td rowspan="2" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6500</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verfahrensgebühr ..........</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">22,00 bis 330,00 €</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">141,00 €</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">24,00 bis 360,00 €</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">154,00 €</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">(1) Für eine Einzeltätigkeit entsteht die Gebühr, wenn dem Rechtsanwalt nicht die Verteidigung oder Vertretung übertragen ist.<br />
@@ -4550,24 +4539,24 @@ Auslagen
 
 # Anlage 2 – (zu § 13 Absatz 1 Satz 3)
 
-(Fundstelle: BGBl. I 2022, 665)
+(Fundstelle: BGBl. 2025 I Nr. 109, S. 30)
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
+<col style="width: 2%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header">
+<tr class="header" data-valign="middle">
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Gegenstands-<br />
 wert<br />
 bis … €</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Gebühr<br />
 … €</th>
-<th style="text-align: center; border-right: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50"> </th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50"> </th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Gegenstands-<br />
 wert<br />
 bis … €</th>
@@ -4578,150 +4567,150 @@ bis … €</th>
 <tbody data-valign="top">
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   500</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   49,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   51,50</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 50 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1 279,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 357,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 1 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   88,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   93,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 65 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1 373,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 456,50</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 1 500</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  127,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  134,50</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 80 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1 467,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 556,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 2 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  166,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  176,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 95 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1 561,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 655,50</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 3 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  222,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  235,50</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">110 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1 655,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 755,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 4 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  278,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  295,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">125 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1 749,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 854,50</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 5 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  334,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  354,50</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">140 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1 843,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 954,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 6 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  390,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  414,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">155 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1 937,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 053,50</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 7 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  446,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  473,50</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">170 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2 031,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 153,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 8 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  502,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  533,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">185 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2 125,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 252,50</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 9 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  558,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  592,50</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">200 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2 219,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 352,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">10 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  614,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  652,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">230 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2 351,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 492,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">13 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  666,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  707,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">260 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2 483,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 632,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">16 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  718,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  762,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">290 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2 615,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 772,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  770,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  817,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">320 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2 747,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 912,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">22 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  822,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  872,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">350 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2 879,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 052,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">25 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  874,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  927,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">380 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3 011,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 192,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">30 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  955,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1 013,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">410 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3 143,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 332,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">35 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1 036,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1 099,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">440 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3 275,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 472,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">40 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1 117,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1 185,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">470 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3 407,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 612,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">45 000</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1 198,00</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1 271,00</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">500 000</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3 539,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 752,00</td>
 </tr>
 </tbody>
 </table>

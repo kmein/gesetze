@@ -35,7 +35,8 @@ Für die Meldungen für das Kalenderjahr 2013 ist die Versuchstiermeldeverordnun
 
 # Anlage – (zu § 1 Absatz 2) Meldung von in Tierversuchen verwendeten Wirbeltieren oder Kopffüßern oder nach § 4 Absatz 3 des Tierschutzgesetzes verwendeten Wirbeltieren für das Jahr: ______
 
-(Fundstelle: BGBl. I 2013, 4147 - 4152)
+(Fundstelle: BGBl. I 2013, 4147 - 4152;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -567,4 +568,4 @@ Spalte V:
 
 In diese Spalte können Anmerkungen eingetragen werden.
 
-(+++ Anlage Nr. 2 Spalte E Ziff. A22: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Cholorocebus" durch "Chlorocebus" ersetzt +++)
+(+++ Anlage Nr. 2 Spalte E Zeile A22: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Cholorocebus" durch "Chlorocebus" ersetzt +++)

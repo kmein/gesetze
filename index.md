@@ -657,6 +657,7 @@
 - [BEG§172DV 64](laws/BEG§172DV_64.md) Vierundsechzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
 - [BEG§172DV 65](laws/BEG§172DV_65.md) Fünfundsechzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
 - [BEG§172DV 66](laws/BEG§172DV_66.md) Sechsundsechzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
+- [BehAktÜbV](laws/BehAktÜbV.md) Verordnung über die Standards für die Übermittlung elektronischer Akten von Behörden und juristischen Personen des öffentlichen Rechts an die Gerichte im gerichtlichen Verfahren
 - [BehAppbAusbV](laws/BehAppbAusbV.md) Verordnung über die Berufsausbildung zum Behälter- und Apparatebauer und zur Behälter- und Apparatebauerin*
 - [BehAppMstrV](laws/BehAppMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Behälter- und Apparatebauer-Handwerk
 - [BeherbMeldV](laws/BeherbMeldV.md) Verordnung über die elektronische Speicherung von Daten zur Einhaltung der besonderen Meldepflicht in Beherbergungsstätten
@@ -770,7 +771,6 @@
 - [BFSG](laws/BFSG.md) Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen 1
 - [BFStrMG](laws/BFStrMG.md) Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von Bundesautobahnen und Bundesstraßen
 - [BFStrSonGebV](laws/BFStrSonGebV.md) Verordnung über die Erhebung von Gebühren für Sondernutzungen der Bundesfernstraßen in Verwaltung des Bundes
-- [BG-V](laws/BG-V.md) Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen anlässlich eines Brennstoffwechsels wegen einer ernsten oder erheblichen Gasmangellage 1
 - [BGA-NachfG](laws/BGA-NachfG.md) Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes
 - [BGAktFV](laws/BGAktFV.md) Verordnung über die elektronische Aktenführung bei den obersten Gerichten des Bundes in der Zivilgerichtsbarkeit und in den Fachgerichtsbarkeiten
 - [BGB](laws/BGB.md) Bürgerliches Gesetzbuch
@@ -915,6 +915,7 @@
 - [BKOrgErl 2013](laws/BKOrgErl_2013.md) Organisationserlass der Bundeskanzlerin
 - [BKOrgErl 2018](laws/BKOrgErl_2018.md) Organisationserlass der Bundeskanzlerin
 - [BKOrgErl 2021](laws/BKOrgErl_2021.md) Organisationserlass des Bundeskanzlers
+- [BKOrgErl 2025](laws/BKOrgErl_2025.md) Organisationserlass des Bundeskanzlers
 - [BKOrgErl1994Bek](laws/BKOrgErl1994Bek.md) Bekanntmachung des Organisationserlasses des Bundeskanzlers
 - [BKOrgErl1995-05Bek](laws/BKOrgErl1995-05Bek.md) Bekanntmachung des Organisationserlasses des Bundeskanzlers
 - [BKOrgErl1995-07Bek](laws/BKOrgErl1995-07Bek.md) Bekanntmachung des Organisationserlasses des Bundeskanzlers
@@ -1167,7 +1168,7 @@
 - [BrennAusbV](laws/BrennAusbV.md) Verordnung über die Berufsausbildung zum Brenner/zur Brennerin
 - [BrennMstrPrV](laws/BrennMstrPrV.md) Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Brenner/Brennerin im landwirtschaftlichen Bereich
 - [BrexitÜG](laws/BrexitÜG.md) Gesetz für den Übergangszeitraum nach dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
-- [BRGO 1966](laws/BRGO_1966.md) Geschäftsordnung des Bundesrates
+- [BRGO 2025](laws/BRGO_2025.md) Geschäftsordnung des Bundesrates
 - [BRHG](laws/BRHG.md) Gesetz über den Bundesrechnungshof
 - [BRHSitzBek](laws/BRHSitzBek.md) Bekanntmachung des Organisationserlasses zur Sitzverlagerung des Bundesrechnungshofes
 - [BRHWidVertAnO](laws/BRHWidVertAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesrechnungshofs in Angelegenheiten der Festsetzung, Berechnung und Zahlbarmachung von Bezügen
@@ -1372,6 +1373,7 @@
 - [ChemSanktionsV](laws/ChemSanktionsV.md) Verordnung zur Sanktionsbewehrung gemeinschafts- oder unionsrechtlicher Verordnungen auf dem Gebiet der Chemikaliensicherheit
 - [ChemVerbotsV](laws/ChemVerbotsV.md) Verordnung über Verbote und Beschränkungen des Inverkehrbringens und über die Abgabe bestimmter Stoffe, Gemische und Erzeugnisse nach dem Chemikaliengesetz
 - [ChemVOCFarbV](laws/ChemVOCFarbV.md) Chemikalienrechtliche Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen (VOC) durch Beschränkung des Inverkehrbringens lösemittelhaltiger Farben und Lacke
+- [CHGeldERAV](laws/CHGeldERAV.md) Verordnung zur Einführung des elektronischen Rechtsverkehrs und der elektronischen Aktenführung beim Bundesamt für Justiz in Verfahren zur Vollstreckung von Geldforderungen nach dem Deutsch-Schweizerischen Polizeivertrag 1
 - [ChirMechMstrV](laws/ChirMechMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Chirurgiemechaniker-Handwerk
 - [ChirurgMAusbV](laws/ChirurgMAusbV.md) Verordnung über die Berufsausbildung zum Chirurgiemechaniker/zur Chirurgiemechanikerin
 - [CIV 1980](laws/CIV_1980.md) Einheitliche Rechtsvorschriften für den Vertrag über die internationale Eisenbahnbeförderung von Personen und Gepäck (CIV) (Anhang A zum Übereinkommen über den internationalen Eisenbahnverkehr (COTIF))
@@ -2370,6 +2372,7 @@
 - [GasLastV](laws/GasLastV.md) Verordnung über die Sicherstellung der Gasversorgung
 - [GasNEV](laws/GasNEV.md) Verordnung über die Entgelte für den Zugang zu Gasversorgungsnetzen
 - [GasNZV](laws/GasNZV.md) Verordnung über den Zugang zu Gasversorgungsnetzen
+- [GasSpFüllstV](laws/GasSpFüllstV.md) Verordnung zur Anpassung der Füllstandsvorgaben für Gasspeicheranlagen
 - [GasSV](laws/GasSV.md) Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise
 - [GaStatAusV](laws/GaStatAusV.md) Verordnung zur Aussetzung der Erhebung über Kinder in den Klassenstufen eins bis vier nach dem Achten Buch Sozialgesetzbuch
 - [GastG](laws/GastG.md) Gaststättengesetz
@@ -2761,6 +2764,7 @@
 - [HiKassGAufhG](laws/HiKassGAufhG.md) Gesetz betreffend die Aufhebung des Hilfskassengesetzes
 - [HilfetelefonG](laws/HilfetelefonG.md) Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons „Gewalt gegen Frauen“
 - [HinSchG](laws/HinSchG.md) Gesetz für einen besseren Schutz hinweisgebender Personen
+- [HinSchGOWiZustV](laws/HinSchGOWiZustV.md) Verordnung über die Zuständigkeit des Bundesamtes für Justiz für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 40 des Hinweisgeberschutzgesetzes
 - [HIVHG](laws/HIVHG.md) Gesetz über die humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen
 - [HiWerkBehKGÄndG](laws/HiWerkBehKGÄndG.md) Gesetz zur Änderung des Gesetzes über die Errichtung einer Stiftung "Hilfswerk für behinderte Kinder"
 - [HKEntschG](laws/HKEntschG.md) Gesetz über eine einmalige Entschädigung an die Heimkehrer aus dem Beitrittsgebiet
@@ -2951,6 +2955,7 @@
 - [INTELSATVorRProt](laws/INTELSATVorRProt.md) Protokoll über Vorrechte, Befreiungen und Immunitäten der Internationalen Fernmeldesatellitenorganisationen INTELSAT
 - [INTELSATVorRProtV](laws/INTELSATVorRProtV.md) Verordnung zu dem Protokoll vom 19. Mai 1978 über Vorrechte, Befreiungen und Immunitäten der Internationalen Fernmeldesatellitenorganisation INTELSAT
 - [IntErbRVG](laws/IntErbRVG.md) Internationales Erbrechtsverfahrensgesetz
+- [IntermErsAufwV](laws/IntermErsAufwV.md) Verordnung über den Ersatz von Aufwendungen der Intermediäre
 - [INTERSPUTNIKAbk](laws/INTERSPUTNIKAbk.md) Abkommen über die Schaffung des internationalen Systems und der Organisation für kosmische Fernmeldeverbindungen "INTERSPUTNIK"
 - [INTERSPUTNIKG](laws/INTERSPUTNIKG.md) Gesetz zu dem Abkommen vom 15. November 1971 über die Schaffung des internationalen Systems und der Organisation für kosmische Fernmeldeverbindungen "INTERSPUTNIK" und zu dem Protokoll vom 30. November 1996 über die Einbringung von Korrekturen in dieses Abkommen
 - [INTERSPUTNIKProt](laws/INTERSPUTNIKProt.md) Protokoll über die Einbringung von Korrekturen in das Abkommen über die Schaffung des internationalen Systems und der Organisation für kosmische Fernmeldeverbindungen "INTERSPUTNIK"
@@ -3174,6 +3179,7 @@
 - [KHNG](laws/KHNG.md) Gesetz zur Neuordnung der Krankenhausfinanzierung
 - [KHSFV](laws/KHSFV.md) Verordnung zur Verwaltung des Strukturfonds im Krankenhausbereich
 - [KHStatV](laws/KHStatV.md) Verordnung über die Bundesstatistik für Krankenhäuser
+- [KHTFV](laws/KHTFV.md) Verordnung zur Verwaltung des Transformationsfonds im Krankenhausbereich
 - [KHV](laws/KHV.md) Verordnung zur Verwendung von Gebärdensprache und anderen Kommunikationshilfen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz
 - [KhWbAusbV](laws/KhWbAusbV.md) Verordnung über die Berufsausbildung zum Kerzenhersteller und Wachsbildner und zur Kerzenherstellerin und Wachsbildnerin *
 - [KHWiSichV](laws/KHWiSichV.md) Verordnung zur Regelung weiterer Maßnahmen zur wirtschaftlichen Sicherung der Krankenhäuser
@@ -3304,7 +3310,6 @@
 - [KrWG](laws/KrWG.md) Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen
 - [KrWoFGV](laws/KrWoFGV.md) Verordnung zur Festlegung der Voraussetzungen, unter denen der Wohnsitz im Sinne des § 4 Absatz 1 des Bundesvertriebenengesetzes bei kriegsbedingtem Aufenthalt außerhalb der Aussiedlungsgebiete als fortbestehend gilt
 - [KryptoFAV](laws/KryptoFAV.md) Verordnung über Kryptofondsanteile *
-- [KryptoWTransferV](laws/KryptoWTransferV.md) Verordnung über verstärkte Sorgfaltspflichten bei dem Transfer von Kryptowerten
 - [KrZwMG](laws/KrZwMG.md) Gesetz über den Zweitmarkt für notleidende Kredite und über Kreditdienstleistungsinstitute
 - [KSAbg2024V](laws/KSAbg2024V.md) Künstlersozialabgabe-Verordnung 2024
 - [KSAbg2025V](laws/KSAbg2025V.md) Künstlersozialabgabe-Verordnung 2025
@@ -3633,7 +3638,7 @@
 - [ManövAbk CANIGBR](laws/ManövAbk_CANIGBR.md) Abkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinigten Königreich Großbritannien und Nordirland über die Durchführung von Manövern und anderen Übungen im Raum Soltau-Lüneburg
 - [ManövAbkCANIGBRÜbk](laws/ManövAbkCANIGBRÜbk.md) Übereinkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinigten Königreich Großbritannien und Nordirland zur Außerkraftsetzung des Abkommens vom 3. August 1959 über die Durchführung von Manövern und anderen Übungen im Raume Soltau-Lüneburg in der durch das Abkommen vom 12. Mai 1970 geänderten Fassung
 - [MargMFV](laws/MargMFV.md) Verordnung über Margarine- und Mischfetterzeugnisse
-- [MariMedV](laws/MariMedV.md) Verordnung über maritime medizinische Anforderungen auf Kauffahrteischiffen*
+- [MariMedV](laws/MariMedV.md) Verordnung über maritime medizinische Anforderungen auf Kauffahrteischiffen *
 - [MarkenG](laws/MarkenG.md) Gesetz über den Schutz von Marken und sonstigen Kennzeichen
 - [MarkenG§34Abs2Bek97](laws/MarkenG§34Abs2Bek97.md) Bekanntmachung zu § 34 Abs. 2 des Markengesetzes
 - [MarkenG§8Bek 00-03-27](laws/MarkenG§8Bek_00-03-27.md) Bekanntmachung zu § 8 des Markengesetzes
@@ -4022,6 +4027,7 @@
 - [Münz20EuroBek 2024-02-20/1](laws/Münz20EuroBek_2024-02-20_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „300. Geburtstag Immanuel Kant“)
 - [Münz20EuroBek 2024-02-20/2](laws/Münz20EuroBek_2024-02-20_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „125. Geburtstag Erich Kästner“)
 - [Münz20EuroBek 2024-02-20/3](laws/Münz20EuroBek_2024-02-20_3.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „75 Jahre Grundgesetz“)
+- [Münz20EuroBek 2025-04-22](laws/Münz20EuroBek_2025-04-22.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „75. Berlinale“)
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
 - [Münz25EuroBek 2021-09-15](laws/Münz25EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
 - [Münz25EuroBek 2022-11-17](laws/Münz25EuroBek_2022-11-17.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Herrnhuter Stern“)
@@ -4064,6 +4070,7 @@
 - [Münz2EuroBek 2023-08-11](laws/Münz2EuroBek_2023-08-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „1275. Geburtstag Karl der Große“)
 - [Münz2EuroBek 2024-02-20/1](laws/Münz2EuroBek_2024-02-20_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze "Mecklenburg-Vorpommern")
 - [Münz2EuroBek 2024-02-20/2](laws/Münz2EuroBek_2024-02-20_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze "175. Jubiläum Paulskirchenverfassung")
+- [Münz2EuroBek 2025-04-22](laws/Münz2EuroBek_2025-04-22.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Saarland“)
 - [Münz2PfBek 1950](laws/Münz2PfBek_1950.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz2PfBek 1968](laws/Münz2PfBek_1968.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz5/10PfBek](laws/Münz5_10PfBek.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 5 und 10 Pfennig
@@ -4467,6 +4474,7 @@
 - [PfändfreiGrBek 2022](laws/PfändfreiGrBek_2022.md) Bekanntmachung zu den Pfändungsfreigrenzen 2022 nach § 850c der Zivilprozessordnung
 - [Pfändungsfreigrenzenbekanntmachung 2023](laws/Pfändungsfreigrenzenbekanntmachung_2023.md) Bekanntmachung zu den Pfändungsfreigrenzen 2023 nach § 850c der Zivilprozessordnung
 - [Pfändungsfreigrenzenbekanntmachung 2024](laws/Pfändungsfreigrenzenbekanntmachung_2024.md) Bekanntmachung zu den Pfändungsfreigrenzen 2024 nach § 850c der Zivilprozessordnung
+- [Pfändungsfreigrenzenbekanntmachung 2025](laws/Pfändungsfreigrenzenbekanntmachung_2025.md) Bekanntmachung zu den Pfändungsfreigrenzen 2025 nach § 850c der Zivilprozessordnung
 - [PfandBarwertV](laws/PfandBarwertV.md) Verordnung über die Sicherstellung der jederzeitigen Deckung von Hypothekenpfandbriefen, Öffentlichen Pfandbriefen, Schiffspfandbriefen und Flugzeugpfandbriefen nach dem Barwert und dessen Berechnung bei Pfandbriefbanken
 - [PfandBG](laws/PfandBG.md) Pfandbriefgesetz
 - [PfandBrAUmwG](laws/PfandBrAUmwG.md) Gesetz über die Umwandlung der Deutschen Pfandbriefanstalt in eine Aktiengesellschaft
@@ -5492,6 +5500,7 @@
 - [StromStG§10Abs3uaBek 2022](laws/StromStG§10Abs3uaBek_2022.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
 - [StromStG§10Abs8Bek](laws/StromStG§10Abs8Bek.md) Bekanntmachung nach § 10 Absatz 8 des Stromsteuergesetzes
 - [StromStG§9Abs9Bek](laws/StromStG§9Abs9Bek.md) Bekanntmachung nach § 9 Absatz 9 des Stromsteuergesetzes
+- [StromStG§9Abs9Bek 2025](laws/StromStG§9Abs9Bek_2025.md) Bekanntmachung nach § 9 Absatz 9 des Stromsteuergesetzes
 - [StromStV](laws/StromStV.md) Verordnung zur Durchführung des Stromsteuergesetzes
 - [StrRehaG](laws/StrRehaG.md) Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet
 - [StrRehaHomG](laws/StrRehaHomG.md) Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen

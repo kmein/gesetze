@@ -318,6 +318,12 @@ Nummer 6 Buchstabe c.
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
+# § 7 – Aufteilung in zwei Teile und Zeitpunkt
+
+(1) Die Gesellenprüfung besteht aus den Teilen 1 und 2.
+
+(2) Teil 1 findet am Ende des vierten Ausbildungshalbjahres statt. Teil 2 am Ende der Berufsausbildung. Den jeweiligen Zeitpunkt legt die zuständige Stelle fest.
+
 # § 8 – Inhalt des Teiles 1
 
 Teil 1 der Gesellenprüfung erstreckt sich auf

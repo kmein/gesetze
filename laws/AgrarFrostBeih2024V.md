@@ -131,4 +131,4 @@ Betreibt ein Unternehmen sowohl Obst- als auch Weinbau, ist für die Zuordnung n
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(2) Sie tritt mit Ablauf des 14. Mai 2025 außer Kraft, sofern nicht mit der Zustimmung des Bundesrates etwas anderes verordnet wird.
+(2) Sie tritt mit Ablauf des 31. Dezember 2026 außer Kraft. Sie ist auf Sachverhalte, die vor diesem Tag eingetreten sind, weiter anzuwenden.

@@ -235,7 +235,7 @@ Streitgenossen haften als Gesamtschuldner, wenn die Kosten nicht durch gerichtli
 
 # § 28 – Wertgebühren
 
-(1) Wenn sich die Gebühren nach dem Verfahrenswert richten, beträgt bei einem Verfahrenswert bis 500 Euro die Gebühr 38 Euro. Die Gebühr erhöht sich bei einem  
+(1) Wenn sich die Gebühren nach dem Verfahrenswert richten, beträgt bei einem Verfahrenswert bis 500 Euro die Gebühr 40 Euro. Die Gebühr erhöht sich bei einem  
   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
@@ -246,53 +246,55 @@ Streitgenossen haften als Gesamtschuldner, wenn die Kosten nicht durch gerichtli
 </colgroup>
 <thead data-valign="bottom">
 <tr class="header" data-valign="middle">
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Verfahrenswert<br />
-bis … Euro</th>
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">für jeden angefangenen<br />
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Verfahrens-<br />
+wert<br />
+bis ... Euro</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">für jeden<br />
+angefangenen<br />
 Betrag von<br />
-weiteren … Euro</th>
+weiteren ... Euro</th>
 <th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">um<br />
-… Euro</th>
+... Euro</th>
 </tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   2 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   500</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   20</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  2 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 21,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 10 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 1 000</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   21</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 10 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 1 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 22,50</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 25 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 3 000</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   29</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 25 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 3 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 30,50</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 50 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 5 000</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">   38</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 50 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> 5 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 40,50</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">200 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15 000</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">  132</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">200 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">15 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">140,00</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">500 000</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">30 000</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">  198</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">500 000</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">30 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">210,00</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">  über<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">   über<br />
 500 000</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><br />
 50 000</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"><br />
-198</td>
+ 210,00</td>
 </tr>
 </tbody>
 </table>
@@ -301,7 +303,7 @@ weiteren … Euro</th>
   
 Eine Gebührentabelle für Verfahrenswerte bis 500 000 Euro ist diesem Gesetz als Anlage 2 beigefügt.
 
-(2) Der Mindestbetrag einer Gebühr ist 15 Euro.
+(2) Der Mindestbetrag einer Gebühr ist 15 Euro. Gebühren werden auf den nächstliegenden Cent auf- oder abgerundet; 0,5 Cent werden aufgerundet.
 
 # § 29 – Einmalige Erhebung der Gebühren
 
@@ -399,7 +401,7 @@ Im Verfahren der einstweiligen Anordnung ist der Wert in der Regel unter Berück
 
 (1) Die Scheidungssache und die Folgesachen gelten als ein Verfahren.
 
-(2) Sind in § 137 Abs. 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit genannte Kindschaftssachen Folgesachen, erhöht sich der Verfahrenswert nach § 43 für jede Kindschaftssache um 20 Prozent, höchstens um jeweils 4 000 Euro; eine Kindschaftssache ist auch dann als ein Gegenstand zu bewerten, wenn sie mehrere Kinder betrifft. Die Werte der übrigen Folgesachen werden hinzugerechnet. § 33 Abs. 1 Satz 2 ist nicht anzuwenden.
+(2) Sind in § 137 Abs. 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit genannte Kindschaftssachen Folgesachen, erhöht sich der Verfahrenswert nach § 43 für jede Kindschaftssache um 20 Prozent, höchstens um jeweils 5 000 Euro; eine Kindschaftssache ist auch dann als ein Gegenstand zu bewerten, wenn sie mehrere Kinder betrifft. Die Werte der übrigen Folgesachen werden hinzugerechnet. § 33 Abs. 1 Satz 2 ist nicht anzuwenden.
 
 (3) Ist der Betrag, um den sich der Verfahrenswert der Ehesache erhöht (Absatz 2), nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Betrag berücksichtigen.
 
@@ -417,7 +419,7 @@ Im Verfahren der einstweiligen Anordnung ist der Wert in der Regel unter Berück
 
 5. die Genehmigung einer Einwilligung in einen operativen Eingriff bei einem Kind mit einer Variante der Geschlechtsentwicklung (§ 1631e Absatz 3 des Bürgerlichen Gesetzbuchs)
 
-betrifft, beträgt der Verfahrenswert 4 000 Euro.
+betrifft, beträgt der Verfahrenswert 5 000 Euro.
 
 (2) Eine Kindschaftssache nach Absatz 1 ist auch dann als ein Gegenstand zu bewerten, wenn sie mehrere Kinder betrifft.
 
@@ -433,13 +435,13 @@ betrifft, beträgt der Verfahrenswert 4 000 Euro.
 
 # § 47 – Abstammungssachen
 
-(1) In Abstammungssachen nach § 169 Nr. 1 und 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 2 000 Euro, in den übrigen Abstammungssachen 1 000 Euro.
+(1) In Abstammungssachen nach § 169 Nr. 1 und 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 3 000 Euro, in den übrigen Abstammungssachen 1 000 Euro.
 
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Wert festsetzen.
 
 # § 48 – Ehewohnungs- und Haushaltssachen
 
-(1) In Ehewohnungssachen nach § 200 Absatz 1 Nummer 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 3 000 Euro, in Ehewohnungssachen nach § 200 Absatz 1 Nummer 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit 4 000 Euro.
+(1) In Ehewohnungssachen nach § 200 Absatz 1 Nummer 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 4 000 Euro, in Ehewohnungssachen nach § 200 Absatz 1 Nummer 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit 5 000 Euro.
 
 (2) In Haushaltssachen nach § 200 Absatz 2 Nummer 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beträgt der Wert 2 000 Euro, in Haushaltssachen nach § 200 Absatz 2 Nummer 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit 3 000 Euro.
 
@@ -447,7 +449,7 @@ betrifft, beträgt der Verfahrenswert 4 000 Euro.
 
 # § 49 – Gewaltschutzsachen
 
-(1) In Gewaltschutzsachen nach § 1 des Gewaltschutzgesetzes und in Verfahren nach dem EU-Gewaltschutzverfahrensgesetz beträgt der Verfahrenswert 2 000 Euro, in Gewaltschutzsachen nach § 2 des Gewaltschutzgesetzes 3 000 Euro.
+(1) In Gewaltschutzsachen nach § 1 des Gewaltschutzgesetzes und in Verfahren nach dem EU-Gewaltschutzverfahrensgesetz beträgt der Verfahrenswert 3 000 Euro, in Gewaltschutzsachen nach § 2 des Gewaltschutzgesetzes 4 000 Euro.
 
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Wert festsetzen.
 
@@ -559,7 +561,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, d
 
 # § 62a – Bekanntmachung von Neufassungen
 
-Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
+Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
 
 1. den Stichtag, zu dem der Wortlaut festgestellt wird,
 
@@ -682,6 +684,9 @@ Unterabschnitt 1 Erster Rechtszug
   
 Unterabschnitt 2 Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
+  
+Unterabschnitt 3 Beschwerden gegen die Zurückweisung eines Antrags auf Anordnung eines Arrests sowie in Verfahren nach der Verordnung (EU) Nr. 655/2014
+
 Hauptabschnitt 5 Besondere Gebühren
 
 Hauptabschnitt 6 Vollstreckung
@@ -715,4 +720,4 @@ Teil 2 Auslagen
 
 # Anlage 2 – (zu § 28 Absatz 1 Satz 3)
 
-(Fundstelle: BGBl. I 2020, 3235)
+(Fundstelle: BGBl. 2025 I Nr. 109, S. 14)

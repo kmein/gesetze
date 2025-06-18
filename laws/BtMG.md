@@ -4372,7 +4372,7 @@ die Zubereitungen der in dieser Anlage aufgeführten Stoffe, wenn sie nicht
 <dl>
 <dt>a)</dt>
 <dd>
-ohne am oder im menschlichen oder tierischen Körper angewendet zu werden, ausschließlich diagnostischen der analytischen Zwecken dienen und ihr Gehalt an einem oder mehreren Betäubungsmitteln, bei Lyophilisaten und entsprechend zu verwendenden Stoffgemischen in der gebrauchsfertigen Lösung, jeweils 0,01 vom Hundert nicht übersteigt oder die Stoffe in den Zubereitungen isotopenmodifiziert oder
+ohne am oder im menschlichen oder tierischen Körper angewendet zu werden, ausschließlich diagnostischen oder analytischen Zwecken dienen und ihr Gehalt an einem oder mehreren Betäubungsmitteln, bei Lyophilisaten und entsprechend zu verwendenden Stoffgemischen in der gebrauchsfertigen Lösung, jeweils 0,01 vom Hundert nicht übersteigt oder die Stoffe in den Zubereitungen isotopenmodifiziert oder
 </dd>
 <dt>b)</dt>
 <dd>

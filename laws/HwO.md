@@ -19,6 +19,8 @@ Die Ausübung mehrerer Tätigkeiten im Sinne des Satzes 2 Nr. 1 und 2 ist zuläs
 
 (3) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage A zu diesem Gesetz dadurch zu ändern, daß es darin aufgeführte Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt oder Bezeichnungen für sie festsetzt, soweit es die technische und wirtschaftliche Entwicklung erfordert.
 
+(+++ § 1 Abs. 2: Zur Nichtanwendung vgl. § 18 Abs. 2 Satz 3 +++)
+
 # § 2
 
 Die Vorschriften dieses Gesetzes für den selbständigen Betrieb eines zulassungspflichtigen Handwerks gelten auch
@@ -219,7 +221,7 @@ Ist einem Gewerbetreibenden die Eintragung in die Handwerksrolle abgelehnt worde
 
 (1) Wer den selbständigen Betrieb eines zulassungsfreien Handwerks oder eines handwerksähnlichen Gewerbes als stehendes Gewerbe beginnt oder beendet, hat dies unverzüglich der Handwerkskammer, in deren Bezirk seine gewerbliche Niederlassung liegt, anzuzeigen. Bei juristischen Personen sind auch die Namen der gesetzlichen Vertreter, bei Personengesellschaften die Namen der vertretungsberechtigten Gesellschafter anzuzeigen.
 
-(2) Ein Gewerbe ist ein zulassungsfreies Handwerk im Sinne dieses Gesetzes, wenn es handwerksmäßig betrieben wird und in Anlage B Abschnitt 1 zu diesem Gesetz aufgeführt ist. Ein Gewerbe ist ein handwerksähnliches Gewerbe im Sinne dieses Gesetzes, wenn es handwerksähnlich betrieben wird und in Anlage B Abschnitt 2 zu diesem Gesetz aufgeführt ist.
+(2) Ein Gewerbe ist ein zulassungsfreies Handwerk im Sinne dieses Gesetzes, wenn es handwerksmäßig betrieben wird und in Anlage B Abschnitt 1 zu diesem Gesetz aufgeführt ist. Ein Gewerbe ist ein handwerksähnliches Gewerbe im Sinne dieses Gesetzes, wenn es handwerksähnlich betrieben wird und in Anlage B Abschnitt 2 zu diesem Gesetz aufgeführt ist. Auf zulassungsfreie Handwerke und handwerksähnliche Gewerbe findet § 1 Absatz 2 keine Anwendung.
 
 (3) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage B zu diesem Gesetz dadurch zu ändern, daß es darin aufgeführte Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt, Bezeichnungen für sie festsetzt oder die Gewerbegruppen aufteilt, soweit es die technische und wirtschaftliche Entwicklung erfordert.
 
@@ -1919,7 +1921,7 @@ Satz 1 gilt entsprechend auch für Personen, die ausbildungsvorbereitende Maßna
 
 13. die Maßnahmen zur Unterstützung notleidender Handwerker sowie Gesellen und anderer Arbeitnehmer mit einer abgeschlossenen Berufsausbildung zu treffen oder zu unterstützen,
 
-14. die Zuständigkeit als Stelle nach § 340 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch für die Betriebe der Handwerke nach den Nummern 33 bis 37 der Anlage A.
+14. die Zuständigkeit als Stelle nach § 340 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch für die Betriebe der Handwerke nach den Nummern 33 bis 38 der Anlage A.
 
 (1a) Die Länder können durch Gesetz der Handwerkskammer die Aufgaben einer einheitlichen Stelle im Sinne des Verwaltungsverfahrensgesetzes übertragen. Das Gesetz regelt, welche Aufgabenbereiche von der Zuweisung erfasst sind. Dabei kann das Gesetz vorsehen, dass die Handwerkskammer auch für nicht Kammerzugehörige tätig wird. Das Gesetz regelt auch die Aufsicht.
 

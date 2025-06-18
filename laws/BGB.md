@@ -11713,17 +11713,65 @@ Die Vorschriften über den Unterhalt wegen der Pflege oder Erziehung eines gemei
 
 # § 1355 – Ehename
 
-(1) Die Ehegatten sollen einen gemeinsamen Familiennamen (Ehenamen) bestimmen. Die Ehegatten führen den von ihnen bestimmten Ehenamen. Bestimmen die Ehegatten keinen Ehenamen, so führen sie ihren zur Zeit der Eheschließung geführten Namen auch nach der Eheschließung.
+(1) Die Ehegatten können einen gemeinsamen Familiennamen (Ehenamen) bestimmen. Die Ehegatten führen den von ihnen bestimmten Ehenamen. Bestimmen die Ehegatten keinen Ehenamen, so führen sie ihre zur Zeit der Eheschließung geführten Namen auch nach der Eheschließung.
 
-(2) Zum Ehenamen können die Ehegatten durch Erklärung gegenüber dem Standesamt den Geburtsnamen oder den zur Zeit der Erklärung über die Bestimmung des Ehenamens geführten Namen eines Ehegatten bestimmen.
+(2) Zum Ehenamen können die Ehegatten durch Erklärung gegenüber dem Standesamt bestimmen:
 
-(3) Die Erklärung über die Bestimmung des Ehenamens soll bei der Eheschließung erfolgen. Wird die Erklärung später abgegeben, so muss sie öffentlich beglaubigt werden.
+1. den Geburtsnamen (Absatz 6) eines Ehegatten,
 
-(4) Ein Ehegatte, dessen Name nicht Ehename wird, kann durch Erklärung gegenüber dem Standesamt dem Ehenamen seinen Geburtsnamen oder den zur Zeit der Erklärung über die Bestimmung des Ehenamens geführten Namen voranstellen oder anfügen. Dies gilt nicht, wenn der Ehename aus mehreren Namen besteht. Besteht der Name eines Ehegatten aus mehreren Namen, so kann nur einer dieser Namen hinzugefügt werden. Die Erklärung kann gegenüber dem Standesamt widerrufen werden; in diesem Falle ist eine erneute Erklärung nach Satz 1 nicht zulässig. Die Erklärung, wenn sie nicht bei der Eheschließung gegenüber einem deutschen Standesamt abgegeben wird, und der Widerruf müssen öffentlich beglaubigt werden.
+2. den zur Zeit der Erklärung geführten Familiennamen eines Ehegatten oder
 
-(5) Der verwitwete oder geschiedene Ehegatte behält den Ehenamen. Er kann durch Erklärung gegenüber dem Standesamt seinen Geburtsnamen oder den Namen wieder annehmen, den er bis zur Bestimmung des Ehenamens geführt hat, oder dem Ehenamen seinen Geburtsnamen oder den zur Zeit der Bestimmung des Ehenamens geführten Namen voranstellen oder anfügen. Absatz 4 gilt entsprechend.
+3. einen aus den Namen (Nummer 1 oder 2) beider Ehegatten gebildeten Doppelnamen.
 
-(6) Geburtsname ist der Name, der in die Geburtsurkunde eines Ehegatten zum Zeitpunkt der Erklärung gegenüber dem Standesamt einzutragen ist.
+Im Fall des Satzes 1 Nummer 3 werden die für den Doppelnamen herangezogenen Namen durch einen Bindestrich verbunden, es sei denn, die Ehegatten bestimmen mit der Erklärung nach Satz 1, dass die Namen nicht durch einen Bindestrich verbunden werden.
+
+(3) Besteht der Name, der nach Absatz 2 allein oder als einer der Namen eines Doppelnamens zum Ehenamen bestimmt werden soll, aus mehreren Namen, so gilt zusätzlich:
+
+1. im Fall des Absatzes 2 Satz 1 Nummer 1 oder 2 können anstelle des gesamten Namens auch nur einer oder einige der Namen, aus denen der Name besteht, zum Ehenamen bestimmt werden,
+
+2. im Fall des Absatzes 2 Satz 1 Nummer 3 darf nur einer der Namen, aus denen der Name besteht, für die Bildung des Doppelnamens herangezogen werden.
+
+(4) Die Bestimmung des Ehenamens soll bei der Eheschließung erfolgen. Wird die Erklärung später abgegeben, so muss sie öffentlich beglaubigt werden.
+
+(5) Der verwitwete oder geschiedene Ehegatte behält den Ehenamen. Er kann durch Erklärung gegenüber dem Standesamt, die öffentlich beglaubigt werden muss,
+
+1. seinen Geburtsnamen (Absatz 6) wieder annehmen,
+
+2. den Namen wieder annehmen, den er bis zur Bestimmung des Ehenamens geführt hat, oder
+
+3. dem Ehenamen einen Begleitnamen (§ 1355a) voranstellen oder anfügen; § 1355a gilt entsprechend.
+
+(6) Geburtsname ist der Familienname, der in die Geburtsurkunde eines Ehegatten zum Zeitpunkt der Erklärung nach Absatz 2 Satz 1 einzutragen ist.
+
+# § 1355a – Begleitname
+
+(1) Der Ehegatte, dessen Name nicht Ehename wird, kann durch Erklärung gegenüber dem Standesamt dem Ehenamen einen Begleitnamen voranstellen oder anfügen. Begleitname kann sein:
+
+1. der Geburtsname dieses Ehegatten oder
+
+2. der zur Zeit der Erklärung über die Bestimmung des Ehenamens geführte Familienname dieses Ehegatten.
+
+Besteht der Name, der Begleitname werden soll, aus mehreren Namen, kann nur einer dieser Namen Begleitname sein. Mit der Erklärung nach Satz 1 kann der Ehegatte auch bestimmen, dass der Ehename und der Begleitname durch einen Bindestrich verbunden werden.
+
+(2) Absatz 1 gilt nicht, wenn der Ehename aus mehreren Namen besteht.
+
+(3) Wird die Erklärung nach Absatz 1 Satz 1 nicht bei der Eheschließung abgegeben, so muss sie öffentlich beglaubigt werden.
+
+(4) Die Erklärung nach Absatz 1 Satz 1 kann gegenüber dem Standesamt widerrufen werden. Der Widerruf muss öffentlich beglaubigt werden. Im Fall des Widerrufs ist eine erneute Erklärung nach Absatz 1 Satz 1 nicht zulässig.
+
+# § 1355b – Geschlechtsangepasste Form des Ehenamens nach sorbischer Tradition und ausländischen Rechtsordnungen
+
+(1) Jeder Ehegatte kann durch Erklärung gegenüber dem Standesamt bestimmen, dass er den Ehenamen in einer seinem Geschlecht angepassten Form führt, wenn
+
+1. die Form der sorbischen Tradition entspricht und der Ehegatte dem sorbischen Volk angehört,
+
+2. die Anpassung in der Rechtsordnung eines anderen Staates vorgesehen ist und der Herkunft des Ehegatten entspricht oder
+
+3. die Anpassung in der Rechtsordnung eines anderen Staates vorgesehen ist und der Name traditionell aus dem dortigen Sprachraum stammt.
+
+(2) Wird eine Erklärung nach Absatz 1 nicht bei der Eheschließung abgegeben, so muss sie öffentlich beglaubigt werden.
+
+(3) Die Erklärung nach Absatz 1 kann gegenüber dem Standesamt widerrufen werden. Der Widerruf muss öffentlich beglaubigt werden. Im Fall des Widerrufs ist eine erneute Erklärung nach Absatz 1 nicht zulässig.
 
 # § 1356 – Haushaltsführung, Erwerbstätigkeit
 
@@ -13129,7 +13177,7 @@ verlangen, dass diese in eine genetische Abstammungsuntersuchung einwilligen und
 
 (4) Ist das Kind mit Einwilligung des Mannes und der Mutter durch künstliche Befruchtung mittels Samenspende eines Dritten gezeugt worden, so ist die Anfechtung der Vaterschaft durch den Mann oder die Mutter ausgeschlossen.
 
-§ 1600 Abs. 2 u. Abs. 3 Satz 1 idF d. G v. 20.7.2017 I 2780: Nach Maßgabe der Entscheidungsformel mit Art. 6 Abs. 2 Satz 1 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 9.4.2024 I Nr. 164 - 1 BvR 2017/21-. Gem. Nr. 2 dieser BVerfGE gilt § 1600 Abs. 2 u. Abs. 3 Satz 1 bis zum Inkrafttreten einer Neuregelung, längstens bis zum 30. Juni 2025, fort. Bis zu einer Neuregelung sind durch Anträge von Anfechtungsberechtigten nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen Gesetzbuchs eingeleitete Verfahren auf deren Antrag hin auszusetzen.
+§ 1600 Abs. 2 u. Abs. 3 Satz 1 idF d. G v. 20.7.2017 I 2780: Nach Maßgabe der Entscheidungsformel mit Art. 6 Abs. 2 Satz 1 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 9.4.2024 I Nr. 164 - 1 BvR 2017/21-. Gem. Nr. 2 dieser BVerfGE gilt § 1600 Abs. 2 u. Abs. 3 Satz 1 bis zum Inkrafttreten einer Neuregelung, längstens bis zum 30. Juni 2025, fort. Bis zu einer Neuregelung sind durch Anträge von Anfechtungsberechtigten nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen Gesetzbuchs eingeleitete Verfahren auf deren Antrag hin auszusetzen. Gem. Beschluss BVerfG v. 3.6.2025 – 1 BvR 2017/21 – gilt § 1600 Abs. 2 u. Abs. 3 Satz 1 über den 30. Juni 2025 hinaus bis zum Inkrafttreten einer Neuregelung, längstens bis zum 31. März 2026, fort. Bis zu einer Neuregelung sind durch Anträge von Anfechtungsberechtigten nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen Gesetzbuchs eingeleitete Verfahren auf deren Antrag hin auszusetzen.
 
 # § 1600a – Persönliche Anfechtung; Anfechtung bei fehlender oder beschränkter Geschäftsfähigkeit
 
@@ -13367,43 +13415,179 @@ Das Kind erhält den Ehenamen seiner Eltern als Geburtsnamen.
 
 # § 1617 – Geburtsname bei Eltern ohne Ehenamen und gemeinsamer Sorge
 
-(1) Führen die Eltern keinen Ehenamen und steht ihnen die Sorge gemeinsam zu, so bestimmen sie durch Erklärung gegenüber dem Standesamt den Namen, den der Vater oder die Mutter zur Zeit der Erklärung führt, zum Geburtsnamen des Kindes. Eine nach der Beurkundung der Geburt abgegebene Erklärung muss öffentlich beglaubigt werden. Die Bestimmung der Eltern gilt auch für ihre weiteren Kinder.
+(1) Führen die Eltern keinen Ehenamen und steht ihnen die elterliche Sorge gemeinsam zu, so bestimmen sie durch Erklärung gegenüber dem Standesamt einen der folgenden Namen zum Geburtsnamen des Kindes:
 
-(2) Treffen die Eltern binnen eines Monats nach der Geburt des Kindes keine Bestimmung, überträgt das Familiengericht das Bestimmungsrecht einem Elternteil. Absatz 1 gilt entsprechend. Das Gericht kann dem Elternteil für die Ausübung des Bestimmungsrechts eine Frist setzen. Ist nach Ablauf der Frist das Bestimmungsrecht nicht ausgeübt worden, so erhält das Kind den Namen des Elternteils, dem das Bestimmungsrecht übertragen ist.
+1. den Familiennamen, den ein Elternteil zur Zeit der Erklärung führt, oder
 
-(3) Ist ein Kind nicht im Inland geboren, so überträgt das Gericht einem Elternteil das Bestimmungsrecht nach Absatz 2 nur dann, wenn ein Elternteil oder das Kind dies beantragt oder die Eintragung des Namens des Kindes in ein deutsches Personenstandsregister oder in ein amtliches deutsches Identitätspapier erforderlich wird.
+2. einen aus den Namen (Nummer 1) beider Elternteile gebildeten Doppelnamen.
 
-§ 1617 Abs. 1 Satz 1: Nach Maßgabe der Entscheidungsformel mit GG (100-1) vereinbar gem. BVerfGE v. 30.1.2002 I 950 (1 BvL 23/96)
+Im Fall des Satzes 1 Nummer 2 werden die für den Doppelnamen herangezogenen Namen durch einen Bindestrich verbunden, es sei denn, die Eltern bestimmen mit der Erklärung nach Satz 1, dass die Namen nicht durch einen Bindestrich verbunden werden.
+
+(2) Besteht der Name eines Elternteils, der nach Absatz 1 allein oder als einer der Namen eines Doppelnamens zum Geburtsnamen des Kindes bestimmt werden soll, aus mehreren Namen, so gilt zusätzlich:
+
+1. im Fall des Absatzes 1 Satz 1 Nummer 1 können anstelle des gesamten Namens auch nur einer oder einige der Namen, aus denen der Name besteht, zum Geburtsnamen des Kindes bestimmt werden,
+
+2. im Fall des Absatzes 1 Satz 1 Nummer 2 darf nur einer der Namen, aus denen der Name besteht, für die Bildung des Doppelnamens herangezogen werden.
+
+(3) Eine nach der Beurkundung der Geburt abgegebene Erklärung muss öffentlich beglaubigt werden.
+
+(4) Treffen die Eltern binnen eines Monats nach der Geburt des Kindes keine Bestimmung, so erhält das Kind einen in alphabetischer Reihenfolge aus den Namen (Absatz 1 Satz 1 Nummer 1) beider Elternteile gebildeten Doppelnamen. Besteht der Name eines Elternteils aus mehreren Namen, so wird der alphabetisch voranstehende Name für die Bildung des Doppelnamens herangezogen. Die herangezogenen Namen werden durch einen Bindestrich verbunden. Ergibt sich nach den Sätzen 1 bis 3 ein Geburtsname des Kindes, den zumindest ein Elternteil durch Erklärung gegenüber dem Standesamt ablehnt, so überträgt das Familiengericht das Recht zur Bestimmung des Geburtsnamens des Kindes einem Elternteil. Die Absätze 1 bis 3 und § 1617c Absatz 1 gelten entsprechend. Das Gericht kann dem Elternteil für die Ausübung des Bestimmungsrechts eine Frist setzen. Ist nach Ablauf der Frist das Bestimmungsrecht nicht ausgeübt worden, so erhält das Kind den sich nach den Sätzen 1 bis 3 ergebenden Geburtsnamen.
+
+(5) Der von den Eltern oder einem Elternteil bestimmte Geburtsname gilt auch für ihre weiteren gemeinsamen Kinder.
 
 # § 1617a – Geburtsname bei Eltern ohne Ehenamen und Alleinsorge
 
-(1) Führen die Eltern keinen Ehenamen und steht die elterliche Sorge nur einem Elternteil zu, so erhält das Kind den Namen, den dieser Elternteil im Zeitpunkt der Geburt des Kindes führt.
+(1) Führen die Eltern keinen Ehenamen und steht die elterliche Sorge nur einem Elternteil zu, so erhält das Kind den Familiennamen, den dieser Elternteil im Zeitpunkt der Geburt des Kindes führt, als Geburtsnamen.
 
-(2) Der Elternteil, dem die elterliche Sorge für ein Kind allein zusteht, kann dem Kind durch Erklärung gegenüber dem Standesamt den Namen des anderen Elternteils erteilen. Die Erteilung des Namens bedarf der Einwilligung des anderen Elternteils und, wenn das Kind das fünfte Lebensjahr vollendet hat, auch der Einwilligung des Kindes. Die Erklärungen müssen öffentlich beglaubigt werden. Für die Einwilligung des Kindes gilt § 1617c Abs. 1 entsprechend.
+(2) Besteht der Name des Elternteils, dessen Name nach Absatz 1 der Geburtsname des Kindes geworden ist und dem die elterliche Sorge für das Kind allein zusteht, aus mehreren Namen, so kann dieser Elternteil dem Kind durch Erklärung gegenüber dem Standesamt nur einen oder einige der Namen, aus denen der Name besteht, erteilen.
+
+(3) Der Elternteil, dessen Name nach Absatz 1 oder 2 der Geburtsname des Kindes geworden ist und dem die elterliche Sorge für das Kind allein zusteht, kann dem Kind durch Erklärung gegenüber dem Standesamt den Familiennamen des anderen Elternteils oder einen aus den Familiennamen beider Elternteile gebildeten Doppelnamen erteilen. § 1617 Absatz 1 Satz 2 und Absatz 2 gilt entsprechend.
+
+(4) Die Erteilung des Namens nach den Absätzen 2 und 3 bedarf, wenn das Kind das fünfte Lebensjahr vollendet hat, der Einwilligung des Kindes und in den Fällen des Absatzes 3 auch der Einwilligung des anderen Elternteils, es sei denn, dieser ist bereits verstorben. Die Erklärungen müssen öffentlich beglaubigt werden, die Erklärung nach Absatz 2 jedoch nur, wenn sie nach der Beurkundung der Geburt abgegeben wird. Für die Einwilligung des Kindes gilt § 1617c Absatz 1 Satz 2 entsprechend.
 
 # § 1617b – Name bei nachträglicher gemeinsamer Sorge oder Scheinvaterschaft
 
-(1) Wird eine gemeinsame Sorge der Eltern erst begründet, wenn das Kind bereits einen Namen führt, so kann der Name des Kindes binnen drei Monaten nach der Begründung der gemeinsamen Sorge neu bestimmt werden. Die Frist endet, wenn ein Elternteil bei Begründung der gemeinsamen Sorge seinen gewöhnlichen Aufenthalt nicht im Inland hat, nicht vor Ablauf eines Monats nach Rückkehr in das Inland. Hat das Kind das fünfte Lebensjahr vollendet, so ist die Bestimmung nur wirksam, wenn es sich der Bestimmung anschließt. § 1617 Abs. 1 und § 1617c Abs. 1 Satz 2 und 3 und Abs. 3 gelten entsprechend.
+(1) Wird eine gemeinsame Sorge der Eltern erst begründet, wenn das Kind bereits einen Geburtsnamen führt, so kann dieser neu bestimmt werden. Hat das Kind das fünfte Lebensjahr vollendet, so ist die Bestimmung nur wirksam, wenn es sich der Bestimmung anschließt. § 1617 Absatz 1 bis 3 und 5 sowie § 1617c Absatz 1 Satz 2 gelten entsprechend.
 
-(2) Wird rechtskräftig festgestellt, dass ein Mann, dessen Familienname Geburtsname des Kindes geworden ist, nicht der Vater des Kindes ist, so erhält das Kind auf seinen Antrag oder, wenn das Kind das fünfte Lebensjahr noch nicht vollendet hat, auch auf Antrag des Mannes den Namen, den die Mutter im Zeitpunkt der Geburt des Kindes führt, als Geburtsnamen. Der Antrag erfolgt durch Erklärung gegenüber dem Standesamt, die öffentlich beglaubigt werden muss. Für den Antrag des Kindes gilt § 1617c Abs. 1 Satz 2 und 3 entsprechend.
+(2) Wird rechtskräftig festgestellt, dass ein Mann, dessen Familienname Geburtsname des Kindes geworden ist, nicht der Vater des Kindes ist, so erhält das Kind auf seinen Antrag oder, wenn das Kind das fünfte Lebensjahr noch nicht vollendet hat, auch auf Antrag des Mannes den Familiennamen, den die Mutter im Zeitpunkt der Geburt des Kindes führt, als Geburtsnamen. Der Antrag erfolgt durch Erklärung gegenüber dem Standesamt, die öffentlich beglaubigt werden muss. Für den Antrag des Kindes gilt § 1617c Absatz 1 Satz 2 und Absatz 3 entsprechend.
+
+(3) Erhält das Kind nach Absatz 2 den Familiennamen der Mutter als Geburtsnamen, so gilt § 1617a Absatz 2 und 4 entsprechend, wenn ihr Name aus mehreren Namen besteht.
 
 # § 1617c – Name bei Namensänderung der Eltern
 
-(1) Bestimmen die Eltern einen Ehenamen oder Lebenspartnerschaftsnamen, nachdem das Kind das fünfte Lebensjahr vollendet hat, so erstreckt sich der Ehename oder Lebenspartnerschaftsname auf den Geburtsnamen des Kindes nur dann, wenn es sich der Namensgebung anschließt. Ein in der Geschäftsfähigkeit beschränktes Kind, welches das 14. Lebensjahr vollendet hat, kann die Erklärung nur selbst abgeben; es bedarf hierzu der Zustimmung seines gesetzlichen Vertreters. Die Erklärung ist gegenüber dem Standesamt abzugeben; sie muss öffentlich beglaubigt werden.
+(1) Bestimmen die Eltern einen Ehenamen, nachdem das Kind das fünfte Lebensjahr vollendet hat, so erstreckt sich der Ehename auf den Geburtsnamen des Kindes nur dann, wenn es sich der Namensgebung anschließt. Ein in der Geschäftsfähigkeit beschränktes Kind, welches das 14. Lebensjahr vollendet hat, kann die Erklärung nur selbst abgeben; es bedarf hierzu der Zustimmung seines gesetzlichen Vertreters. Die Erklärung ist gegenüber dem Standesamt abzugeben; sie muss öffentlich beglaubigt werden.
 
 (2) Absatz 1 gilt entsprechend,
 
-1. wenn sich der Ehename oder Lebenspartnerschaftsname, der Geburtsname eines Kindes geworden ist, ändert oder
+1. wenn sich der Ehename, der Geburtsname eines Kindes geworden ist, ändert oder
 
-2. wenn sich in den Fällen der §§ 1617, 1617a und 1617b der Familienname eines Elternteils, der Geburtsname eines Kindes geworden ist, auf andere Weise als durch Eheschließung oder Begründung einer Lebenspartnerschaft ändert.
+2. wenn sich in den Fällen der §§ 1617, 1617a und 1617b der Familienname eines Elternteils, der Geburtsname eines Kindes geworden ist, auf andere Weise als durch Eheschließung ändert.
 
-(3) Eine Änderung des Geburtsnamens erstreckt sich auf den Ehenamen oder den Lebenspartnerschaftsnamen des Kindes nur dann, wenn sich auch der Ehegatte oder der Lebenspartner der Namensänderung anschließt; Absatz 1 Satz 3 gilt entsprechend.
+(3) Eine Änderung des Geburtsnamens erstreckt sich auf den Ehenamen des Kindes nur dann, wenn sich auch der Ehegatte der Namensänderung anschließt; Absatz 1 Satz 3 gilt entsprechend.
 
-# § 1618 – Einbenennung
+# § 1617d – Name nach Scheidung der Eltern oder Tod eines Elternteils
 
-Der Elternteil, dem die elterliche Sorge für ein Kind allein oder gemeinsam mit dem anderen Elternteil zusteht, und sein Ehegatte, der nicht Elternteil des Kindes ist, können dem Kind, das sie in ihren gemeinsamen Haushalt aufgenommen haben, durch Erklärung gegenüber dem Standesamt ihren Ehenamen erteilen. Sie können diesen Namen auch dem von dem Kind zur Zeit der Erklärung geführten Namen voranstellen oder anfügen; ein bereits zuvor nach Halbsatz 1 vorangestellter oder angefügter Ehename entfällt. Die Erteilung, Voranstellung oder Anfügung des Namens bedarf der Einwilligung des anderen Elternteils, wenn ihm die elterliche Sorge gemeinsam mit dem den Namen erteilenden Elternteil zusteht oder das Kind seinen Namen führt, und, wenn das Kind das fünfte Lebensjahr vollendet hat, auch der Einwilligung des Kindes. Das Familiengericht kann die Einwilligung des anderen Elternteils ersetzen, wenn die Erteilung, Voranstellung oder Anfügung des Namens zum Wohl des Kindes erforderlich ist. Die Erklärungen müssen öffentlich beglaubigt werden. § 1617c gilt entsprechend.
+(1) Derjenige Elternteil, dessen Name nicht Ehename geworden ist, dem die elterliche Sorge für ein Kind nach der Scheidung der Eltern allein oder gemeinsam mit dem anderen Elternteil oder nach dem Tod des anderen Elternteils allein zusteht und der das Kind in seinen Haushalt aufgenommen hat, kann durch Erklärung gegenüber dem Standesamt dem Kind einen der folgenden Namen als Geburtsnamen erteilen:
 
-# § 1618a – Pflicht zu Beistand und Rücksicht
+1. seinen gemäß § 1355 Absatz 5 Satz 2 Nummer 1 und 2 wieder angenommenen Namen oder
+
+2. einen aus seinem wieder angenommenen Namen (Nummer 1) und dem von dem Kind zur Zeit der Erklärung geführten Geburtsnamen gebildeten Doppelnamen.
+
+§ 1617 Absatz 1 Satz 2 und Absatz 2 gilt entsprechend.
+
+(2) Wenn das Kind das fünfte Lebensjahr vollendet hat, bedarf die Erteilung des Geburtsnamens nach Absatz 1 seiner Einwilligung; § 1617c Absatz 1 Satz 2 gilt entsprechend. Im Fall der Scheidung der Eltern bedarf die Erteilung des Geburtsnamens nach Absatz 1 auch der Einwilligung des anderen Elternteils, wenn das Kind dessen Namen führt oder diesem Elternteil die elterliche Sorge gemeinsam mit dem den Namen erteilenden Elternteil zusteht. Das Familiengericht kann die Einwilligung des anderen Elternteils ersetzen, wenn die Erteilung dem Wohl des Kindes dient.
+
+(3) Ein volljähriges Kind, dessen einer Elternteil nach Scheidung der Eltern oder Tod des anderen Elternteils einen früheren Namen wieder angenommen hat (§ 1355 Absatz 5 Satz 2), kann durch Erklärung gegenüber dem Standesamt seinen Geburtsnamen neu bestimmen, indem es
+
+1. sich der Namensänderung dieses Elternteils anschließt oder
+
+2. aus seinem bisherigen Geburtsnamen und dem von diesem Elternteil wieder angenommenen Familiennamen einen Doppelnamen bildet.
+
+Die Neubestimmung des Geburtsnamens bedarf der Einwilligung dieses Elternteils. § 1617c Absatz 3 gilt entsprechend.
+
+(4) Die Erklärungen müssen öffentlich beglaubigt werden.
+
+# § 1617e – Einbenennung, Rückbenennung
+
+(1) Der Elternteil, dem die elterliche Sorge für ein Kind allein oder gemeinsam mit dem anderen Elternteil zusteht, und sein Ehegatte, der nicht Elternteil des Kindes ist, können dem Kind, das sie in ihren gemeinsamen Haushalt aufgenommen haben, durch Erklärung gegenüber dem Standesamt einen der folgenden Namen als Geburtsnamen erteilen (Einbenennung):
+
+1. ihren Ehenamen oder
+
+2. einen aus ihrem Ehenamen und dem von dem Kind zur Zeit der Erklärung geführten Geburtsnamen gebildeten Doppelnamen.
+
+Im Fall des Satzes 1 Nummer 2 gilt § 1617 Absatz 1 Satz 2 und Absatz 2 Nummer 2 entsprechend.
+
+(2) Die Einbenennung bedarf der Einwilligung des anderen Elternteils, wenn das Kind dessen Namen führt oder diesem Elternteil die elterliche Sorge gemeinsam mit dem einbenennenden Elternteil zusteht. Das Familiengericht kann die Einwilligung des anderen Elternteils ersetzen, wenn die Einbenennung dem Wohl des Kindes dient. Wenn das Kind das fünfte Lebensjahr vollendet hat, bedarf die Einbenennung auch seiner Einwilligung.
+
+(3) Ein volljähriges Kind kann sich entsprechend Absatz 1, auch wenn es nicht im gemeinsamen Haushalt eines Elternteils und des Ehegatten dieses Elternteils lebt, mit deren Einwilligung durch Erklärung gegenüber dem Standesamt selbst einbenennen.
+
+(4) Wird die Ehe zwischen dem Elternteil und seinem Ehegatten, der nicht Elternteil des Kindes ist, aufgelöst oder scheidet das Kind aus dem gemeinsamen Haushalt aus, so können die Einbenennung durch Erklärung gegenüber dem Standesamt rückgängig machen (Rückbenennung):
+
+1. jeder Elternteil, dem die elterliche Sorge für das Kind allein oder gemeinsam mit dem anderen Elternteil zusteht, sowie
+
+2. das Kind selbst, sobald es volljährig ist.
+
+In den Fällen des Satzes 1 Nummer 1 gilt Absatz 2 entsprechend.
+
+(5) Die Erklärungen müssen öffentlich beglaubigt werden. § 1617c Absatz 1 Satz 2 und Absatz 3 gilt entsprechend.
+
+# § 1617f – Geschlechtsangepasste Form des Geburtsnamens nach sorbischer Tradition und ausländischen Rechtsordnungen
+
+(1) Der Geburtsname eines Kindes kann durch Erklärung gegenüber dem Standesamt seinem Geschlecht angepasst werden, wenn
+
+1. die Form der sorbischen Tradition entspricht und das Kind dem sorbischen Volk angehört,
+
+2. die Anpassung in der Rechtsordnung eines anderen Staates vorgesehen ist und der Herkunft des Kindes entspricht oder
+
+3. die Anpassung in der Rechtsordnung eines anderen Staates vorgesehen ist und der Name traditionell aus dem dortigen Sprachraum stammt.
+
+(2) Die Erklärung nach Absatz 1 kann jeder Elternteil abgeben, dem die elterliche Sorge allein oder gemeinsam mit dem anderen Elternteil zusteht. Die Anpassung des Geburtsnamens bedarf der Einwilligung des anderen Elternteils, wenn das Kind dessen Namen führt oder diesem Elternteil die elterliche Sorge gemeinsam mit dem erklärenden Elternteil zusteht. Das Familiengericht kann die Einwilligung des anderen Elternteils ersetzen, wenn die Anpassung dem Wohl des Kindes dient. Wenn das Kind das fünfte Lebensjahr vollendet hat, bedarf die Anpassung auch seiner Einwilligung; § 1617c Absatz 1 Satz 2 gilt entsprechend.
+
+(3) Ist das Kind volljährig, so kann es die Erklärung nach Absatz 1 selbst abgeben. Eine unverheiratete volljährige Frau, die dem sorbischen Volk angehört, kann eine Form des Geburtsnamens wählen oder zu einer solchen wechseln, die nach der sorbischen Tradition verheirateten Frauen vorbehalten ist. In den Fällen des Absatzes 1 Nummer 2 und 3 kann das volljährige Kind zu einer anderen Form des Geburtsnamens wechseln, wenn dies in der Rechtsordnung des anderen Staates vorgesehen ist.
+
+(4) Die Erklärung nach Absatz 1 kann gegenüber dem Standesamt widerrufen werden. Für minderjährige Kinder gilt Absatz 2 entsprechend. Ist das minderjährige Kind volljährig geworden, so tritt sein Widerruf an die Stelle des Widerrufs des Sorgeberechtigten. Im Fall des Widerrufs ist eine erneute Erklärung nach Absatz 1 nicht zulässig.
+
+(5) Nach der Beurkundung der Geburt abgegebene Erklärungen müssen öffentlich beglaubigt werden.
+
+# § 1617g – Geburtsname nach friesischer Tradition
+
+(1) Abweichend von § 1616 und ergänzend zu den in den §§ 1617 bis 1617b genannten Möglichkeiten kann zum Geburtsnamen eines minderjährigen Kindes, das der friesischen Volksgruppe angehört, bestimmt werden:
+
+1. ein gemäß der friesischen Tradition von einem Vornamen eines Elternteils abgeleiteter Name oder
+
+2. ein nicht durch Bindestrich verbundener Doppelname, der sich aus einem Namen nach Nummer 1 und dem Familiennamen eines Elternteils zusammensetzt; § 1617 Absatz 2 Nummer 2 gilt entsprechend.
+
+(2) Im Fall des § 1616 können die gemeinsam sorgeberechtigten Eltern oder der alleinsorgeberechtigte Elternteil den Geburtsnamen des Kindes durch Erklärung gegenüber dem Standesamt, die öffentlich zu beglaubigen ist, nach Absatz 1 neu bestimmen. Die Bestimmung des Geburtsnamens durch einen Elternteil bedarf der Einwilligung des anderen Elternteils. Wenn das Kind das fünfte Lebensjahr vollendet hat, bedarf die Bestimmung auch seiner Einwilligung. Für die Einwilligung des Kindes gilt § 1617c Absatz 1 Satz 2 und 3 entsprechend.
+
+(3) Der nach § 1617a Absatz 4 erforderlichen Einwilligung des anderen Elternteils bedarf es auch dann, wenn das Kind einen Namen erhalten soll, der sich von einem Vornamen dieses Elternteils ableitet. § 1617b Absatz 2 gilt auch, wenn ein von einem Vornamen dieses Mannes abgeleiteter Name Geburtsname des Kindes geworden ist.
+
+(4) Ändert sich der Vorname des Elternteils, von dem der Geburtsname des Kindes abgeleitet wurde, gilt § 1617c Absatz 1 entsprechend.
+
+(5) Für die Änderung einer geschlechtsspezifischen Endung des Geburtsnamens des Kindes gilt § 1617f entsprechend.
+
+# § 1617h – Geburtsname nach dänischer Tradition
+
+(1) Abweichend von § 1616 und ergänzend zu den in den §§ 1617 bis 1617b genannten Möglichkeiten kann zum Geburtsnamen eines minderjährigen Kindes, das der dänischen Minderheit angehört, ein nicht durch Bindestrich verbundener Doppelname bestimmt werden, der sich zusammensetzt aus
+
+1. dem Familiennamen eines nahen Angehörigen an erster Stelle des Doppelnamens und
+
+2. dem Familiennamen eines Elternteils an zweiter Stelle des Doppelnamens.
+
+§ 1617 Absatz 2 Nummer 2 gilt entsprechend.
+
+(2) Im Fall des § 1616 können die gemeinsam sorgeberechtigten Eltern oder der alleinsorgeberechtigte Elternteil dem Geburtsnamen des Kindes durch Erklärung gegenüber dem Standesamt, die öffentlich zu beglaubigen ist, den Familiennamen eines nahen Angehörigen nach Absatz 1 voranstellen. § 1617g Absatz 2 Satz 2 bis 4 gilt entsprechend.
+
+(3) Die Bestimmung nach Absatz 1 und die Voranstellung nach Absatz 2 bedürfen der Einwilligung des nahen Angehörigen, es sei denn, dieser ist bereits verstorben. Die Einwilligung ist gegenüber dem Standesamt zu erklären; sie muss öffentlich beglaubigt werden.
+
+# § 1617i – Neubestimmung des Familiennamens durch volljährige Personen
+
+(1) Jede volljährige Person kann den Geburtsnamen, den sie als Minderjährige erworben hat, einmalig wie folgt neu bestimmen:
+
+1. wenn ihr Geburtsname aus mehreren Namen besteht: indem sie nur einen oder einige der Namen, aus denen der Name besteht, zu ihrem Geburtsnamen bestimmt,
+
+2. wenn sie den Familiennamen nur eines Elternteils als Geburtsnamen erhalten hat: indem sie
+
+a) diesen durch den Familiennamen des anderen Elternteils ersetzt oder
+
+b) diesem den Familiennamen des anderen Elternteils voranstellt oder anfügt.
+
+In den Fällen des Satzes 1 Nummer 2 Buchstabe a gilt § 1617 Absatz 2 Nummer 1 entsprechend, in den Fällen des Satzes 1 Nummer 2 Buchstabe b gilt § 1617 Absatz 1 Satz 2 und Absatz 2 Nummer 2 entsprechend. Die Neubestimmung bedarf der Einwilligung desjenigen Elternteils, dessen Name zum neuen Geburtsnamen bestimmt oder dem bisherigen Geburtsnamen vorangestellt oder angefügt wird, es sei denn, der Elternteil ist bereits verstorben.
+
+(2) Gehört eine volljährige Person der friesischen Volksgruppe oder der dänischen Minderheit an und hat sie einen Geburtsnamen nach § 1617g oder § 1617h erhalten, so gilt für die Neubestimmung des Geburtsnamens Absatz 1 sinngemäß. Hat eine volljährige Person, die der friesischen Volksgruppe oder der dänischen Minderheit angehört, keinen Geburtsnamen nach § 1617g oder § 1617h erhalten, so kann sie ihren Geburtsnamen entsprechend diesen Vorschriften einmalig neu bestimmen.
+
+(3) Hinsichtlich der nach den Absätzen 1 und 2 wählbaren Namen ist auf den Zeitpunkt der Geburt oder der Annahme als Kind abzustellen; § 1617c Absatz 2 Nummer 2 und Absatz 3 gilt entsprechend.
+
+(4) Führt eine volljährige Person einen Doppelnamen, so kann sie außer in den Fällen des Absatzes 2 bestimmen, dass
+
+1. ein vorhandener Bindestrich wegfällt oder
+
+2. ein Bindestrich hinzugefügt wird, wenn der Doppelname ohne einen Bindestrich gebildet wurde.
+
+Ehegatten, die einen Ehenamen führen, können diese Erklärung nur gemeinsam abgeben.
+
+(5) Die Erklärungen nach den Absätzen 1, 2 und 4 sind gegenüber dem Standesamt abzugeben und öffentlich zu beglaubigen.
+
+# § 1618 – Pflicht zu Beistand und Rücksicht
 
 Eltern und Kinder sind einander Beistand und Rücksicht schuldig.
 
@@ -14085,9 +14269,9 @@ Die Annahme darf nicht ausgesprochen werden, wenn ihr überwiegende Interessen d
 
 # § 1757 – Name des Kindes
 
-(1) Das Kind erhält als Geburtsnamen den Familiennamen des Annehmenden. Als Familienname gilt nicht der dem Ehenamen oder dem Lebenspartnerschaftsnamen hinzugefügte Name (§ 1355 Abs. 4; § 3 Abs. 2 des Lebenspartnerschaftsgesetzes).
+(1) Das Kind erhält als Geburtsnamen den Familiennamen des Annehmenden. § 1617a Absatz 2 und 4 gilt entsprechend, wobei die Erklärungen vor dem Ausspruch der Annahme gegenüber dem Familiengericht zu erfolgen haben.
 
-(2) Nimmt ein Ehepaar ein Kind an oder nimmt ein Ehegatte ein Kind des anderen Ehegatten an und führen die Ehegatten keinen Ehenamen, so bestimmen sie den Geburtsnamen des Kindes vor dem Ausspruch der Annahme durch Erklärung gegenüber dem Familiengericht; § 1617 Abs. 1 gilt entsprechend. Hat das Kind das fünfte Lebensjahr vollendet, so ist die Bestimmung nur wirksam, wenn es sich der Bestimmung vor dem Ausspruch der Annahme durch Erklärung gegenüber dem Familiengericht anschließt; § 1617c Abs. 1 Satz 2 gilt entsprechend.
+(2) Nimmt ein Ehepaar ein Kind an oder nimmt ein Ehegatte ein Kind des anderen Ehegatten an und führen die Ehegatten keinen Ehenamen, so bestimmen sie den Geburtsnamen des Kindes vor dem Ausspruch der Annahme durch Erklärung gegenüber dem Familiengericht; § 1617 Absatz 1 bis 3 und 5 gilt entsprechend. Hat das Kind das fünfte Lebensjahr vollendet, so ist die Bestimmung nur wirksam, wenn es sich der Bestimmung vor dem Ausspruch der Annahme durch Erklärung gegenüber dem Familiengericht anschließt; § 1617c Abs. 1 Satz 2 gilt entsprechend.
 
 (3) Das Familiengericht kann auf Antrag des Annehmenden mit Einwilligung des Kindes mit dem Ausspruch der Annahme
 
@@ -14096,6 +14280,8 @@ Die Annahme darf nicht ausgesprochen werden, wenn ihr überwiegende Interessen d
 2. dem neuen Familiennamen des Kindes den bisherigen Familiennamen voranstellen oder anfügen, wenn dies aus schwerwiegenden Gründen zum Wohl des Kindes erforderlich ist.
 
 § 1746 Abs. 1 Satz 2, 3, Abs. 3 erster Halbsatz ist entsprechend anzuwenden.
+
+(4) Die §§ 1617f bis 1617h gelten entsprechend.
 
 # § 1758 – Offenbarungs- und Ausforschungsverbot
 
@@ -14181,11 +14367,11 @@ b) wenn die Aufhebung eine erneute Annahme des Kindes ermöglichen soll.
 
 # § 1765 – Name des Kindes nach der Aufhebung
 
-(1) Mit der Aufhebung der Annahme als Kind verliert das Kind das Recht, den Familiennamen des Annehmenden als Geburtsnamen zu führen. Satz 1 ist in den Fällen des § 1754 Abs. 1 nicht anzuwenden, wenn das Kind einen Geburtsnamen nach § 1757 Abs. 1 führt und das Annahmeverhältnis zu einem Ehegatten allein aufgehoben wird. Ist der Geburtsname zum Ehenamen oder Lebenspartnerschaftsnamen des Kindes geworden, so bleibt dieser unberührt.
+(1) Mit der Aufhebung der Annahme als Kind verliert das Kind das Recht, den Familiennamen des Annehmenden als Geburtsnamen zu führen. Satz 1 ist in den Fällen des § 1754 Abs. 1 nicht anzuwenden, wenn das Kind einen Geburtsnamen nach § 1757 Abs. 1 führt und das Annahmeverhältnis zu einem Ehegatten allein aufgehoben wird. Ist der Geburtsname zum Ehenamen des Kindes geworden, so bleibt dieser unberührt.
 
 (2) Auf Antrag des Kindes kann das Familiengericht mit der Aufhebung anordnen, dass das Kind den Familiennamen behält, den es durch die Annahme erworben hat, wenn das Kind ein berechtigtes Interesse an der Führung dieses Namens hat. § 1746 Abs. 1 Satz 2, 3 ist entsprechend anzuwenden.
 
-(3) Ist der durch die Annahme erworbene Name zum Ehenamen oder Lebenspartnerschaftsnamen geworden, so hat das Familiengericht auf gemeinsamen Antrag der Ehegatten oder Lebenspartner mit der Aufhebung anzuordnen, dass die Ehegatten oder Lebenspartner als Ehenamen oder Lebenspartnerschaftsnamen den Geburtsnamen führen, den das Kind vor der Annahme geführt hat.
+(3) Ist der durch die Annahme erworbene Name zum Ehenamen geworden, so hat das Familiengericht auf gemeinsamen Antrag der Ehegatten mit der Aufhebung anzuordnen, dass die Ehegatten als Ehenamen den Geburtsnamen führen, den das Kind vor der Annahme geführt hat.
 
 # § 1766 – Ehe zwischen Annehmendem und Kind
 
@@ -14209,9 +14395,21 @@ eheähnlich zusammenleben. Sie liegt in der Regel nicht vor, wenn ein Partner mi
 
 (1) Ein Volljähriger kann als Kind angenommen werden, wenn die Annahme sittlich gerechtfertigt ist; dies ist insbesondere anzunehmen, wenn zwischen dem Annehmenden und dem Anzunehmenden ein Eltern-Kind-Verhältnis bereits entstanden ist.
 
-(2) Für die Annahme Volljähriger gelten die Vorschriften über die Annahme Minderjähriger sinngemäß, soweit sich aus den folgenden Vorschriften nichts anderes ergibt. Zur Annahme eines Verheirateten oder einer Person, die eine Lebenspartnerschaft führt, ist die Einwilligung seines Ehegatten oder ihres Lebenspartners erforderlich. Die Änderung des Geburtsnamens erstreckt sich auf den Ehe- oder Lebenspartnerschaftsnamen des Angenommenen nur dann, wenn sich auch der Ehegatte oder Lebenspartner der Namensänderung vor dem Ausspruch der Annahme durch Erklärung gegenüber dem Familiengericht anschließt; die Erklärung muss öffentlich beglaubigt werden.
+(2) Für die Annahme Volljähriger gelten die Vorschriften über die Annahme Minderjähriger sinngemäß, soweit sich aus den folgenden Vorschriften nichts anderes ergibt.
 
-§ 1767 Abs. 2 Satz 1 idF d. G v. 17.7.2017 I 2429: IVm § 1757 Abs. 1 Satz 1 idF d. G v. 17.7.2017 I 2429 mit GG (100-1) vereinbar gem. BVerfGE v. 24.10.2024; 2025 I Nr. 26 - 1 BvL 10/20 -
+(3) § 1757 ist mit der Maßgabe anzuwenden, dass
+
+1. der Angenommene den Familiennamen des Annehmenden nach Absatz 1 nicht erhält, wenn er der Namensänderung widerspricht,
+
+2. zusätzlich die Möglichkeit besteht, einen aus dem bisherigen Familiennamen des Angenommenen und dem Familiennamen des Annehmenden gebildeten Doppelnamen zum Geburtsnamen zu bestimmen; § 1617 Absatz 1 Satz 2 und Absatz 2 Nummer 2 gilt entsprechend.
+
+§ 1757 Absatz 3 Satz 1 Nummer 2 ist nicht anzuwenden.
+
+(4) Zur Annahme eines Verheirateten als Kind ist die Einwilligung seines Ehegatten erforderlich. Die Änderung des Geburtsnamens erstreckt sich auf den Ehenamen des Angenommenen nur dann, wenn sich auch der Ehegatte der Namensänderung anschließt.
+
+(5) Die Erklärungen nach den Absätzen 3 und 4 müssen öffentlich beglaubigt und vor dem Ausspruch der Annahme gegenüber dem Familiengericht abgegeben werden.
+
+§ 1767 Abs. 2: Früherer Satz 2 u. 3 aufgeh., jetzt Abs. 2 einziger Text gem. Art. 1 Nr. 11 Buchst. a G v. 11.6.2024 I Nr. 185 mWv 1.5.2025; früherer Abs. 2 Satz 1 (jetzt Abs. 2 einziger Text) idF d. G v. 17.7.2017 I 2429 iVm § 1757 Abs. 1 Satz 1 idF d. G v. 17.7.2017 I 2429 mit GG (100-1) vereinbar gem. BVerfGE v. 24.10.2024; 2025 I Nr. 26 - 1 BvL 10/20 -
 
 # § 1768 – Antrag
 

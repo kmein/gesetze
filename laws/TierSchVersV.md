@@ -773,6 +773,8 @@ Der Inhaber einer Genehmigung oder, im Falle von Versuchsvorhaben nach § 8a Abs
 
 mindestens drei Jahre über das Ende der Geltungsdauer der Genehmigung oder, bei Versuchsvorhaben nach § 8a Absatz 3 des Tierschutzgesetzes, über den Ablauf der in § 39 Absatz 2b genannten Frist hinaus aufzubewahren. Abweichend von Satz 1 darf im Fall der elektronischen Übermittlung der dort genannten Dokumente die Aufbewahrung dieser Dokumente durch Speicherung auf einem dauerhaften Datenträger erfolgen. Im Falle von Versuchsvorhaben, die einer Bewertung nach § 35 unterzogen werden sollen, sind die in Satz 1 genannten Dokumente bis zum Abschluss der Bewertung aufzubewahren, soweit der Abschluss der Bewertung erst nach Ablauf der in Satz 1 genannten Frist erfolgt.
 
+(+++ § 40: Zur Anwendung vgl. § 48 Abs. 6 +++)
+
 # § 41 – Veröffentlichung von Zusammenfassungen
 
 (1) Die zuständige Behörde übermittelt dem Bundesinstitut für Risikobewertung (Bundesinstitut) innerhalb von drei Monaten nach Erteilung einer Genehmigung nach § 8 Absatz 1 Satz 1 des Tierschutzgesetzes eine Zusammenfassung zu dem genehmigten Versuchsvorhaben zum Zwecke der Veröffentlichung durch das Bundesinstitut. In der Zusammenfassung ist auf der Grundlage der Angaben im Genehmigungsantrag Folgendes darzustellen:
@@ -843,8 +845,6 @@ Die nach Landesrecht zuständigen Behörden unterrichten das Bundesministerium �
 
 10. entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 29 Absatz 1 nicht sicherstellt,
 
-10a. (weggefallen)
-
 11. entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 29 Absatz 2 nicht sicherstellt,
 
 12. entgegen § 37 Absatz 1 Satz 2, auch in Verbindung mit § 39 Absatz 1 Satz 3, eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
@@ -907,7 +907,8 @@ sind abweichend von den §§ 31 bis 38 bis zum 1. Dezember 2023 die Vorschriften
 
 # Anlage 1 – Kenntnisse und Fähigkeiten, die für die Pflege oder das Töten von Tieren oder die Planung oder die Durchführung von Tierversuchen erforderlich sind
 
-(Fundstelle: BGBl. I 2013, 3140 - 3141)
+(Fundstelle: BGBl. I 2013, 3140 - 3141;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 

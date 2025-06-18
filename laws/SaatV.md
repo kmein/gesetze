@@ -1825,9 +1825,6 @@ bei der Erzeugung von Zertifiziertem Saatgut der Sterilitätsgrad der männlich 
 
 der Sterilitätsgrad der männlich sterilen Erbkomponente in jedem Fall in der Nachprüfung festgestellt wird.
 
-  
-  
-
 2
 
 Mais und Sorghum
@@ -1916,8 +1913,6 @@ Anzahl Pflanzen je 150 m² Fläche</td>
 </tr>
 </tbody>
 </table>
-
-  
 
 2.1.2  
 Bei der Prüfung der Kolben von Hybridsorten von Mais darf der Anteil der Kolben, die den bei Zulassung der Sorte festgelegten Merkmalen nicht hinreichend entsprechen, hinsichtlich der Kornmerkmale 0,2 v. H. und hinsichtlich der Kolbenmerkmale 0,1 v. H. nicht übersteigen.   
@@ -2111,7 +2106,7 @@ Der Feldbestand darf im Durchschnitt der Auszählungen je 150 qm Fläche höchst
 </table>
 
 3.1.2  
-Der Feldbestand darf keinen Besatz mit Seide, Kleewürger und Kreuzkraut aufweisen.   
+Der Feldbestand darf keinen Besatz mit Seide und Kleewürger aufweisen.
 
 3.2  
 Gesundheitszustand
@@ -3169,7 +3164,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 3a – (zu § 6a Absatz 1 und 2)Besondere Anforderungen an den Gesundheitszustand bei landwirtschaftlichen Arten hinsichtlich des Befalls mit RNQPs
 
-(Fundstelle: BGBl. I 2020, 2545 - 2546)
+(Fundstelle: BGBl. I 2020, 2545 - 2546;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Medicago sativa L. – Befall mit
 
@@ -3281,6 +3277,7 @@ Linum usitatissimum L. und
 
 Sinapis alba L. (entsprechend Anhang V Teil G Nummer 3 Ziffer 2 bis 8 der Durchführungsverordnung (EU) 2019/2072)
 
+4.1  
 Das Saatgut von
 
 Brassica napus L. (partim),
@@ -3343,9 +3340,16 @@ Fusarium circinatum Nirenberg &amp; O´Donnell</td>
 </tbody>
 </table>
 
+4.2  
+Das Saatgut von Glycine max (L.) Merr. stammt aus Gebieten, die bekanntermaßen frei von Tobacco ringspot virus sind, oder
+
+4.3  
+die Vermehrungsfläche wurde zu geeigneten Zeitpunkten während der Vegetationsperiode mindestens zweimal durch Feldbesichtigung geprüft und alle Pflanzen, die Anzeichen eines Befalls mit Tobacco ringspot virus aufwiesen, wurden unmittelbar nach der Feldbesichtigung entfernt und vernichtet und bei der abschließenden Feldbesichtigung wurden keine Pflanzen gefunden, die Anzeichen eines Befalls mit Tobacco ringspot virus aufwiesen.
+
 # Anlage 3b – (zu § 20a)Besondere Anforderungen bei Gemüsearten hinsichtlich des Befalls mit RNQPs
 
-(Fundstelle: BGBl. I 2020, 2546 - 2547)
+(Fundstelle: BGBl. I 2020, 2546 - 2547;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Befall mit Bakterien und Viruskrankheiten (entsprechend Anhang V Teil E der Durchführungsverordnung (EU) 2019/2072)
 
@@ -3445,9 +3449,22 @@ et al.</td>
 </table>
 
 1.4  
-Das Saatgut von
+Anstelle der in den Nummern 1.1 bis 1.3 genannten Anforderungen gelten für den Befall von Saatgut von Capsicum annuum L. und Solanum lycopersicum L. mit Tomato brown rugose fruit virus (ToBRFV) die folgenden Anforderungen:
 
-Solanum lycopersicum L. wurde mittels geeigneter Methoden (zum Beispiel Extraktion durch Säure) gewonnen.
+1.4.1  
+Das Saatgut stammt aus einem Land, das von seiner nationalen Pflanzenschutzorganisation nach den internationalen Standards für pflanzengesundheitliche Maßnahmen als frei von ToBRFV befunden wurde, oder
+
+1.4.2  
+bei Untersuchung einer durch den Probenehmer oder unter seiner Aufsicht gezogenen Saatgutprobe mit geeigneten molekularen Methoden wurde kein Befall mit ToBRFV festgestellt oder
+
+1.4.3  
+im Fall einer Saatgutpartie, die von bis zu 30 Mutterpflanzen stammt, wurden die Samen oder die Mutterpflanze dieser Samen durch die zuständige Behörde anhand einer repräsentativen Probe mit geeigneten molekularen Methoden getestet und dabei als frei von ToBRFV befunden.
+
+1.4.4  
+Die Anforderungen nach den Nummern 1.4.1 bis 1.4.3 gelten nicht für Saatgut von Capsicum annuum L., das zu einer Sorte gehört, die bekanntermaßen gegen ToBRFV resistent ist.
+
+1.5  
+Das Saatgut von Solanum lycopersicum L. wurde mittels geeigneter Methoden (zum Beispiel Extraktion durch Säure) gewonnen.
 
 2. Befall mit Insekten (entsprechend Anhang V Teil E der Durchführungsverordnung (EU) 2019/2072)
 
@@ -4430,8 +4447,6 @@ Bei Mischungen mit mehr als 50 v. H. des Gewichtes an Saatgut von Getreide, Lupi
 
 Bezeichnung
 
-  
-  
 3.2  
 Kennzeichnung
 
@@ -4460,7 +4475,7 @@ die Angaben nach § 29 Abs. 7 Satz 1, 2 und 4, bei Kleinpackung EG A jedoch nur 
 bei chemisch, besonders physikalisch oder gleichartig behandeltem Saatgut die Angaben nach § 32
 
 3.2.9  
-bei Zertifiziertem Saatgut von Gräsersorten die Angaben nach § 33 Abs. 1 Nr. 1
+bei Zertifiziertem Saatgut von Gräsersorten die Angaben nach § 33 Absatz 3
 
 3.2.10  
 bei pilliertem, granuliertem oder inkrustiertem Saatgut oder Saatgut mit festen Zusätzen die Angaben nach § 33 Abs. 4.

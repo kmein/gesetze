@@ -711,7 +711,9 @@ a) Besitz des Zeugnisses über die Abschlussprüfung im Ausbildungsberuf Schiffs
 
 b) Besitz des Zeugnisses über die Abschlussprüfung in einem nach § 3 Absatz 5 Satz 1 Nummer 1 anerkannten Ausbildungsberuf der Metall- oder Elektrotechnik, der eine Ausbildung in der Metallbearbeitung nach Anlage 6 von mindestens sieben Wochen beinhaltet, und eine Seefahrtzeit im Maschinendienst von mindestens sechs Monaten oder
 
-c) Besitz eines nautischen Befähigungszeugnisses nach Teil 2 ausgenommen des Befähigungszeugnisses nach § 29 Absatz 3 sowie eine Ausbildung in der Metallbearbeitung nach Anlage 6 von mindestens sieben Wochen und
+c) Besitz eines nautischen Befähigungszeugnisses nach Teil 2 ausgenommen des Befähigungszeugnisses nach § 29 Absatz 3 sowie eine Ausbildung in der Metallbearbeitung nach Anlage 6 von mindestens sieben Wochen oder
+
+d) Besitz des Zeugnisses über die Abschlussprüfung zum berufsqualifizierenden Bildungsgang Schiffsbetriebstechnischer Assistent SBTA Technik und
 
 2. den Abschluss einer Ausbildung nach den Anforderungen der Anlage 7 von in der Regel einem halben Schulhalbjahr an einer nach Landesrecht eingerichteten Ausbildungsstätte.
 

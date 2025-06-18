@@ -387,3 +387,5 @@ Relevanter Gebietsstand ist der 31. März 2021, der für die 10 000-Einwohner-S
 | Gemeinsame Mietenstufe:       | Mietenstufe |
 |:------------------------------|:-----------:|
 | Inseln ohne Festlandanschluss |      V      |
+
+Anlage Land Hessen Gemeinde Wiesbaden, Landeshaupstadt (Kursivdruck): IdF d. Art. 5 G v. 5.12.2022 I 2160 mWv 1.1.2023 (amtlicher Wortlaut)
