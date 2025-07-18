@@ -329,8 +329,7 @@ Typische Fahrkompetenzdefizite und Fahrverhaltensbesonderheiten von älteren Fah
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.1.1.7</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz BE-7 – Umweltschonendes Fahr-
-und Verkehrsverhalten<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz BE-7 – Umweltschonendes Fahr- und Verkehrsverhalten<br />
 Fahrlehrer der Klasse BE
 kennen die verschiedenen Arten der Verkehrsteilnahme in Deutschland. Sie können die Möglichkeiten zur umweltschonenden Gestaltung des Fahr- und Verkehrsverhaltens
 erläutern.<br />
@@ -884,8 +883,7 @@ Beeinflussung von Einstellungen zur Verantwortungsübernahme und Sicherheit im S
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.2.3.1</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz BE-1 – Förderorientierte Lernstands-
-und Lernverlaufsbeurteilung:<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz BE-1 – Förderorientierte Lernstands- und Lernverlaufsbeurteilung:<br />
 Fahrlehrer der Klasse BE können Lernprozesse und Lernergebnisse von Fahrschülern
 beurteilen. Sie können die Ergebnisse der Beurteilung
 nutzen, um ihre Fahrschüler bezüglich des weiteren Lernwegs zu beraten und zu fördern.<br />
@@ -1162,8 +1160,7 @@ Kommentierendes Fahren beim Annähern und Vorbeifahren an Haltestellen sowie bei
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.3.1.7</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz BE-7 – Ein-
-und Ausfädelungsstreifen, Fahrstreifenwechsel<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz BE-7 – Ein- und Ausfädelungsstreifen, Fahrstreifenwechsel<br />
 Fahrlehrer der Klasse BE können sich unter verschiedenen Verkehrsbedingungen mit Fahrzeugen und Fahrzeugkombinationen der Klassen B/BE sicher, routiniert und regelkonform einfädeln und ausfädeln sowie Fahrstreifen wechseln und
 handeln dabei vorausschauend und rücksichtsvoll. Sie können das kommentierende Fahren beim Ein- und Ausfädeln sowie Fahrstreifenwechsel
 anwenden und ihr Fahrverhalten
@@ -1317,8 +1314,7 @@ Kommentierendes Fahren beim Rückwärtsfahren in eine Parklücke
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.3.2.3</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz BE-3 – Einfahren in eine Parklücke (Quer-
-oder Schrägaufstellung)<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz BE-3 – Einfahren in eine Parklücke (Quer- oder Schrägaufstellung)<br />
 Fahrlehrer der Klasse BE können unter verschiedenen Verkehrsbedingungen mit Fahrzeugen der Klasse B sicher, routiniert und regelkonform in eine Parklücke einfahren und
 handeln dabei vorausschauend und rücksichtsvoll. Sie können das kommentierende Fahren beim Einfahren in eine Parklücke
 anwenden und ihr Fahrverhalten
@@ -1992,8 +1988,7 @@ Gruppenbildung und gruppendynamische Effekte (v. a. Gruppen von Kraftradfahrern
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.2.3.1</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz A-1 – Förderorientierte Lernstands-
-und Lernverlaufsbeurteilung:<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz A-1 – Förderorientierte Lernstands- und Lernverlaufsbeurteilung:<br />
 Fahrlehrer der Klasse A können Lernprozesse und Lernergebnisse von Kraftrad-Fahrschülern
 beurteilen. Sie können die Ergebnisse der Beurteilung
 nutzen, um ihre Fahrschüler bezüglich des weiteren Lernwegs zu beraten und zu fördern.<br />
@@ -2248,8 +2243,7 @@ Kommentierendes Fahren beim Annähern und Vorbeifahren an Haltestellen sowie bei
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.3.1.7</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz A-7 – Ein-
-und Ausfädelungsstreifen, Fahrstreifenwechsel<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz A-7 – Ein- und Ausfädelungsstreifen, Fahrstreifenwechsel<br />
 Fahrlehrer der Klasse A können sich unter verschiedenen Verkehrsbedingungen mit Krafträdern der Klasse A sicher, routiniert und regelkonform einfädeln und ausfädeln sowie Fahrstreifen wechseln und
 handeln dabei vorausschauend und rücksichtsvoll. Sie können das kommentierende Fahren beim Ein- und Ausfädeln sowie Fahrstreifenwechsel
 anwenden und ihr Fahrverhalten
@@ -2743,8 +2737,7 @@ Klassenspezifische Trainingsmöglichkeiten zur Verbesserung der Verkehrswahrnehm
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.1.1.3</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE+DE-3 – Umweltschonendes Fahr-
-und Verkehrsverhalten<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE+DE-3 – Umweltschonendes Fahr- und Verkehrsverhalten<br />
 Fahrlehrer der Klasse CE und/oder DE können die klassenspezifischen Möglichkeiten zur umweltschonenden Gestaltung des Fahr- und Verkehrsverhaltens mit Lkw, Last- und Sattelzügen, land- und forstwirtschaftlichen Fahrzeugen sowie KOM
 erläutern.<br />
 Unverzichtbare curriculare Ausbildungsinhalte:
@@ -2796,8 +2789,7 @@ Klassenspezifische Besonderheiten im Ordnungswidrigkeiten- und Strafrecht des St
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.1.2.2</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">24</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE+DE-2 – Beförderungs-
-und Berufskraftfahrerrecht<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE+DE-2 – Beförderungs- und Berufskraftfahrerrecht<br />
 Fahrlehrer der Klasse CE und/oder DE können die für die Tätigkeit als Berufskraftfahrer relevanten rechtlichen Vorschriften
 erläutern und diese
 anwenden, um beispielhafte Fallkonstellationen zu bearbeiten.<br />
@@ -3116,8 +3108,7 @@ Klassenspezifische Besonderheiten im Fahrschulwesen gemäß DV-FahrlG, FahrlAusb
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.1.2.2</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-2 – Beförderungs-
-und Berufskraftfahrerrecht<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-2 – Beförderungs- und Berufskraftfahrerrecht<br />
 Fahrlehrer der Klasse CE können die klassenspezifischen für den gewerblichen Gütertransport relevanten rechtlichen Vorschriften
 erläutern und diese
 anwenden, um beispielhafte Fallkonstellationen zu bearbeiten.<br />
@@ -3302,8 +3293,7 @@ Fahrmotive von Führern von Lkw, Last- und Sattelzügen sowie land- und forstwir
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.2.3.1</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-1 – Förderorientierte Lernstands-
-und Lernverlaufsbeurteilung:<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-1 – Förderorientierte Lernstands- und Lernverlaufsbeurteilung:<br />
 Fahrlehrer der Klasse CE können Lernprozesse und Lernergebnisse von Fahrschülern
 beurteilen, die eine Fahrerlaubnis im Bereich Lkw, Last- und Sattelzüge sowie land- und forstwirtschaftliche Fahrzeuge erwerben möchten. Sie können die Ergebnisse der Beurteilung
 nutzen, um ihre Fahrschüler bezüglich des weiteren Lernwegs zu beraten und zu fördern.<br />
@@ -3558,8 +3548,7 @@ Kommentierendes Fahren beim Befahren von Haltestellen und Fußgängerüberwegen
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.3.1.7</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-7 – Ein-
-und Ausfädelungsstreifen, Fahrstreifenwechsel<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-7 – Ein- und Ausfädelungsstreifen, Fahrstreifenwechsel<br />
 Fahrlehrer der Klasse CE können sich unter verschiedenen Verkehrsbedingungen mit Fahrzeugen und Fahrzeugkombinationen der Klassen C/CE sicher, routiniert und regelkonform einfädeln und ausfädeln sowie Fahrstreifen wechseln und
 handeln dabei vorausschauend und rücksichtsvoll. Sie können das kommentierende Fahren beim Ein- und Ausfädeln sowie Fahrstreifenwechsel
 anwenden und ihr Fahrverhalten
@@ -3757,8 +3746,7 @@ Kommentierendes Fahren beim rückwärts quer/schräg einparken
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.3.2.4</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-4 – Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be-
-oder Entladen<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-4 – Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder Entladen<br />
 Fahrlehrer der Klasse CE können unter verschiedenen Verkehrsbedingungen mit Fahrzeugen der Klasse C sicher, routiniert und regelkonform rückwärtsfahren und versetzen nach rechts an eine Rampe zum Be- oder Entladen und
 handeln dabei vorausschauend und rücksichtsvoll. Sie können das kommentierende Fahren beim Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder Entladen
 anwenden und ihr Fahrverhalten
@@ -3839,8 +3827,7 @@ Kommentierendes Fahren beim Umkehren durch Rückwärtsfahren nach links
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.3.2.6</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-6 – Rückwärtsfahren geradeaus an eine Rampe zum Be-
-oder Entladen (Gliederzüge, keine Kombination mit Starrdeichselanhänger)<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-6 – Rückwärtsfahren geradeaus an eine Rampe zum Be- oder Entladen (Gliederzüge, keine Kombination mit Starrdeichselanhänger)<br />
 Fahrlehrer der Klasse CE können unter verschiedenen Verkehrsbedingungen mit Fahrzeugkombinationen der Klasse CE sicher, routiniert und regelkonform rückwärtsfahren geradeaus an eine Rampe zum Be- oder Entladen und
 handeln dabei vorausschauend und rücksichtsvoll. Sie können das kommentierende Fahren beim Rückwärtsfahren geradeaus an eine Rampe zum Be- oder Entladen
 anwenden und ihr Fahrverhalten
@@ -3921,8 +3908,7 @@ Kommentierendes Fahren beim Rückwärtsfahren um eine Ecke nach links
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1.3.2.8</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-8 – Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be-
-oder Entladen (Sattelkraftfahrzeuge und Gliederzüge mit Starrdeichselanhänger)<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz CE-8 – Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder Entladen (Sattelkraftfahrzeuge und Gliederzüge mit Starrdeichselanhänger)<br />
 Fahrlehrer der Klasse CE können unter verschiedenen Verkehrsbedingungen mit Fahrzeugkombinationen der Klasse CE sicher, routiniert und regelkonform rückwärtsfahren und versetzen nach rechts an eine Rampe zum Be- oder Entladen und
 handeln dabei vorausschauend und rücksichtsvoll. Sie können das kommentierende Fahren beim Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder Entladen
 anwenden und ihr Fahrverhalten
@@ -4092,8 +4078,7 @@ Klassenspezifische Besonderheiten im Fahrschulwesen gemäß DV-FahrlG, FahrlAusb
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.1.2.2</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz DE-2 – Beförderungs-
-und Berufskraftfahrerrecht<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz DE-2 – Beförderungs- und Berufskraftfahrerrecht<br />
 Fahrlehrer der Klasse DE können die klassenspezifischen für die gewerbliche Personenbeförderung und die Tätigkeit als Berufskraftfahrer relevanten rechtlichen Vorschriften
 erläutern und diese
 anwenden, um beispielhafte Fallkonstellationen zu bearbeiten.<br />
@@ -4303,8 +4288,7 @@ Einstellungen (v. a. Einstellungen zum Fahrzeug und Fahren; besondere Verantwor
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.2.3.1</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz DE-1 – Förderorientierte Lernstands-
-und Lernverlaufsbeurteilung:<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz DE-1 – Förderorientierte Lernstands- und Lernverlaufsbeurteilung:<br />
 Fahrlehrer der Klasse DE können Lernprozesse und Lernergebnisse von Fahrschülern
 beurteilen, die eine Fahrerlaubnis im KOM-Bereich erwerben möchten. Sie können die Ergebnisse der Beurteilung
 nutzen, um ihre Fahrschüler bezüglich desweiteren Lernwegs zu beraten und zu fördern.<br />
@@ -4572,8 +4556,7 @@ Kommentierendes Fahren beim Befahren von Haltestellen und Fußgängerüberwegen
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.3.1.7</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz DE-7 – Ein-
-und Ausfädelungsstreifen, Fahrstreifenwechsel<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz DE-7 – Ein- und Ausfädelungsstreifen, Fahrstreifenwechsel<br />
 Fahrlehrer der Klasse DE können sich unter verschiedenen Verkehrsbedingungen mit Fahrzeugen und Fahrzeugkombinationen der Klassen D/DE sicher, routiniert und regelkonform einfädeln und ausfädeln sowie Fahrstreifen wechseln und
 handeln dabei vorausschauend und rücksichtsvoll. Sie können das kommentierende Fahren beim Ein- und Ausfädeln sowie Fahrstreifenwechsel
 anwenden und ihr Fahrverhalten
@@ -4777,8 +4760,7 @@ Kommentierendes Fahren beim rückwärts quer/schräg einparken
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.3.2.4</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz DE-4 – Halten zum Ein-
-oder Aussteigen<br />
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kompetenz DE-4 – Halten zum Ein- oder Aussteigen<br />
 Fahrlehrer der Klasse DE können unter verschiedenen Verkehrsbedingungen mit Fahrzeugen der Klasse D sicher, routiniert und regelkonform zum Ein- oder Aussteigen halten und
 handeln dabei vorausschauend und rücksichtsvoll. Sie können das kommentierende Fahren beim Halten zum Ein- oder Aussteigen
 anwenden und ihr Fahrverhalten

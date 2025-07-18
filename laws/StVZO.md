@@ -17997,9 +17997,7 @@ Hat der Prüfmotor keine Abgasrückführung (AGR), darf der Verwendungsbereich a
 
 7.3
 
-Prüf-
-
-und Messablauf auf dem Motorenprüfstand
+Prüf- und Messablauf auf dem Motorenprüfstand
 
 Im Anhang I ist der Prüfablauf für ungeregelte und geregelte Partikelminderungssysteme dargestellt.
 

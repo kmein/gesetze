@@ -464,30 +464,29 @@ der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt):</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">312.1</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Für die
 <dl>
-<dt>–</dt>
+<dt>a)</dt>
 <dd>
 erstmalige Zulassung eines Baumusters,
 </dd>
-<dt>–</dt>
+<dt>b)</dt>
 <dd>
 Nachträge zu Zulassungen für Änderungen oder Ergänzungen,
 </dd>
-<dt>–</dt>
+<dt>c)</dt>
 <dd>
-Bescheinigung über die Zulassung einer Änderung (Absatz 6.8.2.3.4 RID) sowie
+Bescheinigung über die Zulassung einer Änderung (Absatz 6.8.2.3.4 RID),
 </dd>
-<dt>–</dt>
+<dt>d)</dt>
 <dd>
-Zustimmung nach Absatz 1.6.3.3.1 RID zur Weiterverwendung von Kesselwagen für die Beförderung von Gasen der Klasse 2
+Zulassung zur Weiterverwendung alter Tiegel nach Unterabschnitt 1.6.1.54 RID sowie
 </dd>
-<dt>–</dt>
+<dt>e)</dt>
 <dd>
 Anordnung von Inbetriebnahmeüberprüfungen von Kesselwagen und abnehmbaren Tanks nach Absatz 6.8.1.5.5 und Unterabschnitt 1.8.7.5 RID
 </dd>
 </dl>
-werden Gebühren nach dem Zeitaufwand nach der Gebührennummer 617<br />
-berechnet.</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+werden Gebühren nach dem Zeitaufwand nach der Gebührennummer 617 berechnet.</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 </tbody>
 </table>
@@ -770,8 +769,8 @@ nummer</th>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">702.1</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Anerkennung der ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.1 ADN).</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">80 bis 320</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Anerkennung sowie Verlängerung einer Anerkennung der ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.1 ADN).</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">80 bis 560</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">702.2</td>
@@ -895,8 +894,8 @@ für die Feststellung und Bescheinigung des Ergebnisses des Entgasens von Ladeta
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">719</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nicht vergeben</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Prüfen und Anerkennen einer Gleichwertigkeit (Unterabschnitt 1.5.3.1 ADN).</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">560 bis 2 000</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">720</td>
@@ -1530,17 +1529,17 @@ Anlage 1 Teil V Abschn. 2 GebNr. 1002 Kursivdruck: Der Wortlaut der Neufassung g
 
 (Fundstelle: BGBl. I 2019, 322)
 
-# Anlage 3 – (zu § 1 Absatz 3)Gebührenverzeichnis Gebühren der Bundesanstalt für Materialforschung und  -prüfung
+# Anlage 3 – (zu § 1 Absatz 3)Gebührenverzeichnis Gebühren der Bundesanstalt für Materialforschung und -prüfung
 
-(Fundstelle: BGBl. I 2019, 323)
+(Fundstelle: BGBl. 2025 I Nr. 147, S. 9)
 
-Amtshandlungen, einschließlich Prüfungen, der Bundesanstalt für Materialforschung und -prüfung (BAM) ergeben sich aus § 8 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und aus § 12 Absatz 1 der Gefahrgutverordnung See. Für die Gebührenfestsetzung werden die Stundensätze der jeweils tätigen Organisationseinheiten der BAM zugrunde gelegt.   
+Amtshandlungen, einschließlich Prüfungen, der Bundesanstalt für Materialforschung und -prüfung (BAM) ergeben sich aus § 8 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und aus § 12 Absatz 1 der Gefahrgutverordnung See. Für die Gebührenfestsetzung werden die Stundensätze der jeweils tätigen Organisationseinheiten der BAM zugrunde gelegt.
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 18%" />
-<col style="width: 64%" />
-<col style="width: 18%" />
+<col style="width: 20%" />
+<col style="width: 60%" />
+<col style="width: 20%" />
 </colgroup>
 <thead data-valign="bottom">
 <tr class="header" data-valign="middle">
@@ -1555,52 +1554,52 @@ Abteilung</th>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Analytische Chemie; Referenzmaterialien</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">126</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">173</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Chemische Sicherheitstechnik</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">154</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Prozess- und Anlagensicherheit</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">194</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gefahrgutumschließungen</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">133</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gefahrgutumschließungen; Energiespeicher</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">156</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Material und Umwelt</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">137</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">164</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Werkstofftechnik</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">149</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">163</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Materialschutz und Oberflächentechnik</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">131</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Materialchemie</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">154</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bauwerkssicherheit</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">115</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">144</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zerstörungsfreie Prüfung</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">132</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">142</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Komponentensicherheit</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">132</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">149</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">S</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Qualitätsinfrastruktur</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">138</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">123</td>
 </tr>
 </tbody>
 </table>

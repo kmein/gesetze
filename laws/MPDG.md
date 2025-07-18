@@ -585,7 +585,7 @@ b) sicherzustellen, dass schutzwürdige Interessen der Prüfungsteilnehmer nicht
 
 # § 32 – Anforderungen an die Ethik-Kommissionen
 
-(1) Stellungnahmen nach Artikel 62 Absatz 4 Buchstabe b der Verordnung (EU) 2017/745 oder Artikel 58 Absatz 5 Buchstabe b der Verordnung (EU) 2017/746 dürfen nur öffentlich-rechtliche, nach Landesrecht gebildete Ethik-Kommissionen abgeben, die den Anforderungen nach den Absätzen 2 bis 4 entsprechen.
+(1) Stellungnahmen nach Artikel 62 Absatz 4 Buchstabe b der Verordnung (EU) 2017/745 oder Artikel 58 Absatz 5 Buchstabe b der Verordnung (EU) 2017/746 dürfen nur öffentlich-rechtliche, nach Landesrecht gebildete Ethik-Kommissionen und die Spezialisierte Ethik-Kommission für besondere Verfahren nach § 41c des Arzneimittelgesetzes abgeben, die den Anforderungen nach den Absätzen 2 bis 4 entsprechen.
 
 (2) Ethik-Kommissionen sind besetzt mit mindestens
 
@@ -631,9 +631,13 @@ b) sicherzustellen, dass schutzwürdige Interessen der Prüfungsteilnehmer nicht
 
 1. der nach Landesrecht für den Prüfer zuständigen Ethik-Kommission,
 
-2. der nach Landesrecht für den Hauptprüfer zuständigen Ethik-Kommission, wenn ein Hauptprüfer bestimmt ist, oder
+2. der nach Landesrecht für den Hauptprüfer zuständigen Ethik-Kommission, wenn ein Hauptprüfer bestimmt ist,
 
-3. der nach Landesrecht für den Leiter der klinischen Prüfung oder der Leistungsstudie zuständigen Ethik-Kommission, wenn ein Leiter der klinischen Prüfung oder der Leistungsstudie bestimmt ist.
+3. der nach Landesrecht für den Leiter der klinischen Prüfung oder der Leistungsstudie zuständigen Ethik-Kommission, wenn ein Leiter der klinischen Prüfung oder der Leistungsstudie bestimmt ist,
+
+4. der Spezialisierten Ethik-Kommission für besondere Verfahren nach § 41c des Arzneimittelgesetzes, wenn es sich um eine Leistungsstudie mit einem therapiebegleitenden Diagnostikum nach Artikel 2 Nummer 7 der Verordnung (EU) 2017/746 handelt, das für die sichere und wirksame Verwendung eines dazugehörigen Arzneimittels bestimmt ist, und wenn für das Verfahren zur Bewertung des Antrags auf Genehmigung einer klinischen Prüfung dieses Arzneimittels die Spezialisierte Ethik-Kommission für besondere Verfahren nach § 41c des Arzneimittelgesetzes zuständig ist, oder
+
+5. der nach § 41a des Arzneimittelgesetzes registrierten Ethik-Kommission, die für das Verfahren zur Bewertung des Antrags auf Genehmigung einer klinischen Prüfung eines dazugehörigen Arzneimittels zuständig ist, wenn es sich um eine Leistungsstudie mit einem therapiebegleitenden Diagnostikum nach Artikel 2 Nummer 7 der Verordnung (EU) 2017/746 handelt, das für die sichere und wirksame Verwendung dieses dazugehörigen Arzneimittels bestimmt ist.
 
 (2) Der Antrag muss enthalten:
 
@@ -685,7 +689,10 @@ b) nach Artikel 58 Absatz 5 Buchstabe c bis k, Absatz 7 und 8 der Verordnung (EU
 
 (3) Die Frist zur Stellungnahme verlängert sich um 15 Tage, wenn sich die Ethik-Kommission durch Sachverständige beraten lässt. In diesem Fall teilt die Ethik-Kommission dem Sponsor spätestens 20 Tage nach Eingang des ordnungsgemäßen Antrags mit, dass sich die Frist auf Grund der Beratung durch Sachverständige verlängert.
 
-(+++ § 36: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+(4) Verlängert sich nach § 36b Absatz 2 Nummer 1 des Strahlenschutzgesetzes die Frist zur Erstellung der strahlenschutzrechtlichen Stellungnahme der Ethik-Kommission oder ist deren Ablauf gehemmt, verlängert sich auch die der Ethik-Kommission zur Erstellung der Stellungnahme nach § 35 zustehende Frist entsprechend oder ist deren Ablauf entsprechend gehemmt.
+
+(+++ § 36: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)  
+(+++ § 36 Abs. 1 bis 3: Zur Geltung vgl. § 36b Abs. 2 Nr. 1 StrlSchG +++)
 
 # § 37 – Stellungnahme der Ethik-Kommission
 
@@ -877,7 +884,10 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 
 (3) Die Frist zur Stellungnahme verlängert sich um 15 Tage, wenn sich die Ethik-Kommission durch Sachverständige beraten lässt. In diesem Fall teilt die Ethik-Kommission dem Sponsor spätestens 20 Tage nach Eingang des ordnungsgemäßen Antrags mit, dass sich die Frist auf Grund der Beratung durch Sachverständige verlängert.
 
-(+++ § 51: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+(4) Verlängert sich nach § 36b Absatz 2 Nummer 3 des Strahlenschutzgesetzes die Frist zur Erstellung der strahlenschutzrechtlichen Stellungnahme der Ethik-Kommission oder ist deren Ablauf gehemmt, verlängert sich auch die der Ethik-Kommission zur Erstellung der Stellungnahme nach § 50 zustehende Frist entsprechend oder ist deren Ablauf entsprechend gehemmt.
+
+(+++ § 51: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)  
+(+++ § 51 Abs. 1 bis 3: Zur Geltung vgl. § 36b As. 2 Nr. 3 StrlSchG +++)
 
 # § 52 – Stellungnahme der Ethik-Kommission
 
@@ -948,7 +958,10 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 
 (3) Die zuständige Ethik-Kommission übermittelt ihre Stellungnahme über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 an die für den Sponsor oder für seinen rechtlichen Vertreter zuständigen Behörden und an die für die Prüfstellen zuständigen Behörden.
 
-(+++ § 58: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+(4) Ist der Ablauf der Frist nach § 36b Absatz 2 Nummer 4 des Strahlenschutzgesetzes gehemmt, ist auch der Fristablauf zur Erstellung der Stellungnahme nach § 57 Absatz 1 in Verbindung mit § 50 entsprechend gehemmt.
+
+(+++ § 58: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)  
+(+++ § 58 Abs. 1: Zur Geltung vgl. § 36b Abs. 2 Nr. 4 StrlSchG +++)
 
 # § 59 – Vornahme von wesentlichen Änderungen
 

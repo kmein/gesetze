@@ -2163,7 +2163,7 @@ Bei klinischen Prüfungen mit Arzneimitteln, die aus einem gentechnisch verände
 
 (4) Registrierte Ethik-Kommissionen teilen dem Bundesinstitut für Arzneimittel und Medizinprodukte Änderungen, die die Voraussetzungen der Registrierung betreffen, unverzüglich mit.
 
-(5) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann im Einvernehmen mit dem Paul-Ehrlich-Institut das Ruhen der Registrierung anordnen oder die Registrierung aufheben, wenn bekannt wird, dass die Voraussetzungen zur Registrierung nicht oder nicht mehr vorliegen oder wenn ein Verstoß gegen die nach § 41b Absatz 1 festgelegte Verfahrensordnung oder gegen die Richtlinien zur Bewertung klinischer Prüfungen durch Ethik-Kommissionen vorliegt.
+(5) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann im Einvernehmen mit dem Paul-Ehrlich-Institut das Ruhen der Registrierung anordnen oder die Registrierung aufheben, wenn bekannt wird, dass die Voraussetzungen zur Registrierung nicht oder nicht mehr vorliegen oder wenn ein Verstoß gegen die nach § 41b Absatz 1 festgelegte Verfahrensordnung oder gegen die Richtlinien zur Bewertung klinischer Prüfungen durch Ethik-Kommissionen oder gegen § 36 des Strahlenschutzgesetzes, § 36a des Strahlenschutzgesetzes oder § 36c des Strahlenschutzgesetzes vorliegt.
 
 (6) Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht eine Liste der registrierten Ethik-Kommissionen im Bundesanzeiger. Personenbezogene Daten dürfen nur mit Einwilligung der jeweiligen Person veröffentlicht werden. Die Liste ist regelmäßig zu aktualisieren.
 

@@ -5,6 +5,147 @@
 
 Auf Grund des § 158 des Steuerberatungsgesetzes in der Fassung der Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735) verordnet die Bundesregierung nach Anhören der Bundessteuerberaterkammer mit Zustimmung des Bundesrates:
 
+# Inhaltsübersicht
+
+<table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 91%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 1</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Zulassungsverfahren</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§§ 2<br />
+und 3</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><br />
+(weggefallen)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 4</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Antrag auf Zulassung zur Prüfung</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 5</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Sonstige Nachweise</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 6</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Zulassung zur Prüfung</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 7</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Antrag auf Erteilung einer verbindlichen Auskunft</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 8</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Antrag auf Befreiung von der Prüfung</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 9</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 10</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Berufung der Mitglieder der Prüfungsausschüsse</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 11</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Ende der Amtszeit der Mitglieder der Prüfungsausschüsse</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 12</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsstellung der Mitglieder der Prüfungsausschüsse</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 13</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Entscheidungen der Prüfungsausschüsse</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 14</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Durchführung der Prüfungen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 15</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Prüfungsnoten, Gesamtnoten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 16</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Schriftliche Prüfung</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 17</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Ladung zur schriftlichen Prüfung</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 18</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Fertigung der Aufsichtsarbeiten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 19</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Aufsicht</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 20</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Verhalten während der schriftlichen Prüfung</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 21</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Rücktritt von der Prüfung</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 22</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Niederschrift über die Aufsichtsarbeit</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 23</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Täuschungsversuche, Ordnungsverstöße</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 24</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Bewertung der Aufsichtsarbeiten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 25</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Ergebnis der schriftlichen Prüfung und Ausschluss von der mündlichen Prüfung</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 26</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Mündliche Prüfung</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 27</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Bewertung der mündlichen Prüfung</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 28</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Ergebnis der Prüfung, Wiederholung der Prüfung</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 29</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Überdenken der Prüfungsbewertung</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 30</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Nichtteilnahme an der mündlichen Prüfung</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 31</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Niederschrift über die mündliche Prüfung</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 32</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Aufbewahrungspflichten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 33</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
+</tr>
+</tbody>
+</table>
+
 # § 1 – Zulassungsverfahren
 
 (1) Über die Anträge auf Zulassung zur Steuerberaterprüfung entscheidet die zuständige Steuerberaterkammer.
@@ -105,29 +246,37 @@ b) des Fraktionsvorstands, wenn er bei einer Fraktion des Deutschen Bundestages 
 
 (weggefallen)
 
-# § 10 – Prüfungsausschuß
+# § 10 – Berufung der Mitglieder der Prüfungsausschüsse
 
-(1) Die Mitglieder des Prüfungsausschusses und ihre Stellvertreter sind durch die für die Finanzverwaltung zuständige oberste Landesbehörde grundsätzlich für drei Jahre zu berufen. Sie können nur aus wichtigem Grund abberufen werden. Im Falle des vorzeitigen Ausscheidens oder der Abberufung wird der Nachfolger nur für den Rest der Amtszeit des ausgeschiedenen oder abberufenen Mitglieds oder Stellvertreters berufen. Vor der Berufung oder Abberufung von Steuerberatern ist die Steuerberaterkammer zu hören, deren Mitglied der jeweilige Steuerberater ist; vor der Berufung oder Abberufung eines Vertreters der Wirtschaft ist die für die Wirtschaft zuständige oberste Landesbehörde zu hören. Bei der Berufung von Stellvertretern ist eine Einzelzuordnung zwischen Stellvertreter und Mitglied des Prüfungsausschusses nicht erforderlich. Mitglieder und Stellvertreter können während ihrer Amtszeit begonnene Verfahren auch nach Ablauf ihrer Amtszeit fortführen.
+(1) Die Mitglieder der Prüfungsausschüsse und ihre Stellvertreter sind durch die für die Finanzverwaltung zuständige oberste Landesbehörde für drei Jahre zu berufen. Eine Berufung in mehrere Prüfungsausschüsse ist zulässig. Stellvertretende Mitglieder müssen nicht einem einzelnen Mitglied des Prüfungsausschusses zugeordnet werden.
 
-(2) Der Ausschuß entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit ist die Stimme des Vorsitzenden entscheidend.
+(2) Vor der Berufung eines Steuerberaters ist die Steuerberaterkammer zu hören, deren Mitglied der Steuerberater ist. Vor der Berufung eines Vertreters der Wirtschaft ist die für die Wirtschaft zuständige oberste Landesbehörde zu hören.
 
-(3) Die Mitglieder des Prüfungsausschusses haben das Recht, die Zulassungs- und Prüfungsunterlagen einzusehen. Sie haben über die Tatsachen, die ihnen bei ihrer Tätigkeit bekannt geworden sind, Verschwiegenheit zu wahren.
+(3) Der Vorsitzende hat die Mitglieder des Prüfungsausschusses und ihre Stellvertreter, die nicht Beamte oder Angestellte der Finanzverwaltung sind, zur gewissenhaften Erfüllung ihrer Obliegenheiten zu verpflichten.
 
-(4) Die Mitglieder des Prüfungsausschusses, die nicht Beamte oder Angestellte der Finanzverwaltung sind, sind vom Vorsitzenden des Ausschusses auf gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten.
+# § 11 – Ende der Amtszeit der Mitglieder der Prüfungsausschüsse
 
-(5) Die Mitglieder des Prüfungsausschusses sind nicht weisungsgebunden. Sie sind aus dem Gebührenaufkommen zu entschädigen.
+(1) Die Amtszeit der Mitglieder der Prüfungsausschüsse und ihrer Stellvertreter endet vor dem Ende ihrer regulären Amtszeit, sobald sie der Beendigung schriftlich oder elektronisch zugestimmt haben.
 
-# § 11
+(2) Die Mitglieder der Prüfungsausschüsse können abberufen werden, wenn ein wichtiger Grund vorliegt. § 10 Absatz 2 gilt entsprechend.
 
-\-
+(3) Die für die Finanzverwaltung zuständige oberste Landesbehörde kann im Einzelfall entscheiden, dass Mitglieder der Prüfungsausschüsse während ihrer Amtszeit begonnene Prüfungsverfahren nach Ablauf ihrer Amtszeit fortführen können.
 
-# § 12
+(4) Endet eine Amtszeit vor deren regulärem Ende, wird ein Nachfolger nur für die verbleibende Amtszeit des ausgeschiedenen Mitglieds berufen.
 
-\-
+# § 12 – Rechtsstellung der Mitglieder der Prüfungsausschüsse
 
-# § 13
+(1) Die Mitglieder der Prüfungsausschüsse sind nicht weisungsgebunden. Sie dürfen die Zulassungs- und Prüfungsunterlagen einsehen.
 
-\-
+(2) Die Mitglieder der Prüfungsausschüsse haben über Tatsachen, die ihnen in dieser Eigenschaft anvertraut oder bekannt geworden sind, Verschwiegenheit zu wahren.
+
+(3) Die Mitglieder der Prüfungsausschüsse sind aus dem Gebührenaufkommen zu entschädigen.
+
+# § 13 – Entscheidungen der Prüfungsausschüsse
+
+(1) Die Prüfungsausschüsse entscheiden mit Stimmenmehrheit.
+
+(2) Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden.
 
 # § 14 – Durchführung der Prüfungen
 
@@ -171,7 +320,7 @@ Die zuständige Steuerberaterkammer lädt die Bewerber, die Aufsichtsarbeiten zu
 
 (2) Die Prüfungsaufgaben sind geheim zu halten. Sie sind von der zuständigen Steuerberaterkammer an den jeweiligen Prüfungstagen dem Aufsichtsführenden in der erforderlichen Anzahl zur Verteilung an die erschienenen Bewerber auszuhändigen.
 
-(3) Auf Antrag hat die zuständige Steuerberaterkammer körperbehinderten Personen für die Fertigung der Aufsichtsarbeiten der Behinderung entsprechende Erleichterungen zu gewähren. Der Antrag soll mit dem Antrag auf Zulassung zur Prüfung gestellt werden. Die zuständige Steuerberaterkammer kann die Vorlage eines amtsärztlichen Zeugnisses verlangen.
+(3) Die zuständige Steuerberaterkammer hat einem Bewerber, der wegen einer nachgewiesenen Behinderung bei der Fertigung der Aufsichtsarbeiten erheblich beeinträchtigt ist, auf Antrag einen seiner Behinderung entsprechenden Nachteilsausgleich zu gewähren. Die fachlichen Prüfungsanforderungen dürfen durch den Nachteilsausgleich nicht verändert werden. Der Antrag soll mit dem Antrag auf Zulassung zur Prüfung gestellt werden. Die zuständige Steuerberaterkammer kann die Vorlage eines amtsärztlichen Zeugnisses verlangen.
 
 # § 19 – Aufsicht
 
@@ -237,25 +386,25 @@ Der Aufsichtführende hat an jedem Prüfungstag jeweils eine Niederschrift zu fe
 
 (6) Eine vom Bewerber nicht abgegebene Arbeit ist mit "ungenügend" zu bewerten.
 
-# § 25 – Ergebnis der schriftlichen Prüfung, Ausschluß von der mündlichen Prüfung
+# § 25 – Ergebnis der schriftlichen Prüfung und Ausschluss von der mündlichen Prüfung
 
 (1) Für die schriftliche Prüfung wird eine Gesamtnote gebildet.
 
 (2) Der Bewerber ist von der mündlichen Prüfung ausgeschlossen, wenn die Gesamtnote für die schriftliche Prüfung die Zahl 4,5 übersteigt; er hat die Prüfung nicht bestanden.
 
-(3) Die für die Finanzverwaltung zuständige oberste Landesbehörde, vertreten durch die zuständige Steuerberaterkammer, hat Bewerber, die die Prüfung nach Absatz 2 nicht bestanden haben, schriftlich zu bescheiden.
+(3) Die für die Finanzverwaltung zuständige oberste Landesbehörde, vertreten durch die zuständige Steuerberaterkammer, hat Bewerber, die die Prüfung nach Absatz 2 nicht bestanden haben, schriftlich unter Angabe der Einzelnoten der Aufsichtsarbeiten und der Gesamtnote für die schriftliche Prüfung zu bescheiden.
 
 # § 26 – Mündliche Prüfung
 
-(1) Die zuständige Steuerberaterkammer hat die Bewerber, die an der mündlichen Prüfung teilnehmen, hierzu spätestens zwei Wochen vorher zu laden. Mit der Ladung können die Teilnoten der schriftlichen Prüfung mitgeteilt werden.
+(1) Die zuständige Steuerberaterkammer hat die Bewerber, die an der mündlichen Prüfung teilnehmen, hierzu spätestens zwei Wochen vorher zu laden. Mit der Ladung sind die Einzelnoten der Aufsichtsarbeiten und die Gesamtnote für die schriftliche Prüfung mitzuteilen. § 18 Absatz 3 findet entsprechende Anwendung.
 
 (2) Der Vorsitzende des Prüfungsausschusses leitet die mündliche Prüfung. Er ist berechtigt, jederzeit in die Prüfung einzugreifen.
 
-(3) Die mündliche Prüfung besteht aus einem kurzen Vortrag des Bewerbers über einen Gegenstand der in § 37 Abs. 3 des Gesetzes genannten Prüfungsgebiete und aus sechs Prüfungsabschnitten. In den Prüfungsabschnitten sind an den Bewerber Fragen aus den Prüfungsgebieten zu stellen. Prüfungsabschnitt ist jeweils die gesamte Prüfungstätigkeit eines Mitglieds des Prüfungsausschusses während der mündlichen Prüfung.
+(3) Die mündliche Prüfung besteht aus einem kurzen Vortrag des Bewerbers über einen Gegenstand der in § 37 Abs. 3 des Steuerberatungsgesetzes genannten Prüfungsgebiete und aus sechs Prüfungsabschnitten. In den Prüfungsabschnitten sind an den Bewerber Fragen aus den Prüfungsgebieten zu stellen. Prüfungsabschnitt ist jeweils die gesamte Prüfungstätigkeit eines Mitglieds des Prüfungsausschusses während der mündlichen Prüfung.
 
-(4) In der Steuerberaterprüfung in verkürzter Form (§ 37a Abs. 1 des Gesetzes) sind der Gegenstand des Vortrags und die Fragen an die Bewerber den in § 37 Abs. 3 Nr. 1 bis 4 und 8 des Gesetzes genannten Prüfungsgebieten zu entnehmen.
+(4) In der Steuerberaterprüfung in verkürzter Form (§ 37a Abs. 1 des Steuerberatungsgesetzess) sind der Gegenstand des Vortrags und die Fragen an die Bewerber den in § 37 Abs. 3 Nr. 1 bis 4 und 8 des Steuerberatungsgesetzes genannten Prüfungsgebieten zu entnehmen.
 
-(5) In der Eignungsprüfung (§ 37a Abs. 2 des Gesetzes) sind der Gegenstand des Vortrags und die Fragen an den Bewerber den in § 37 Abs. 3 des Gesetzes genannten Prüfungsgebieten zu entnehmen, soweit sie nicht gemäß § 37a Abs. 4 Satz 4 des Gesetzes entfallen.
+(5) In der Eignungsprüfung (§ 37a Abs. 2 des Steuerberatungsgesetzes) sind der Gegenstand des Vortrags und die Fragen an den Bewerber den in § 37 Abs. 3 des Steuerberatungsgesetzes genannten Prüfungsgebieten zu entnehmen, soweit sie nicht gemäß § 37a Abs. 4 Satz 4 des Steuerberatungsgesetzes entfallen.
 
 (6) Für den Vortrag über den Fachgegenstand werden dem Bewerber eine halbe Stunde vor Beginn der Prüfung drei Themen zur Wahl gestellt.
 
@@ -297,13 +446,15 @@ Der Aufsichtführende hat an jedem Prüfungstag jeweils eine Niederschrift zu fe
 
 (1) Über die Prüfung ist eine Niederschrift zu fertigen. Aus ihr müssen ersichtlich sein
 
-1. die Namen der Beteiligten,
+1. die Namen der anwesenden Personen,
 
-2. das Ergebnis der Prüfung und seine Bekanntgabe an die Bewerber,
+2. für jeden Bewerber die Bewertung des Vortrags und jedes Prüfungsabschnitts,
 
-3. ein Begehren nach § 28 Abs. 2 und die Behandlung des Begehrens durch den Prüfungsausschuss,
+3. das Ergebnis der Prüfung und seine Bekanntgabe an die Bewerber,
 
-4. besondere Vorkommnisse.
+4. ein Begehren nach § 28 Abs. 2 und die Behandlung des Begehrens durch den Prüfungsausschuss,
+
+5. besondere Vorkommnisse.
 
 (2) Ein Auszug aus der Niederschrift ist zu den Akten des Bewerbers zu nehmen.
 
@@ -467,7 +618,7 @@ Die Teilnahme an einem fachbezogenen Seminar bzw. Lehrgang ohne Abschlussprüfun
 
 (1) Die mündliche Prüfung wird vor einem Sachkunde-Ausschuss abgelegt, der bei der Steuerberaterkammer zu bilden ist.
 
-(2) Die Prüfung kann auch einem Sachkunde-Ausschuss übertragen werden, der bei einer anderen Steuerberaterkammer besteht. Die mit der Abnahme der mündlichen Prüfung verbundenen Aufgaben werden im Falle der Übertragung nach Satz 1 von der anderen Steuerberaterkammer wahrgenommen. Diese erhält auch die Gebühr nach § 44 Abs. 8 des Gesetzes.
+(2) Die Prüfung kann auch einem Sachkunde-Ausschuss übertragen werden, der bei einer anderen Steuerberaterkammer besteht. Die mit der Abnahme der mündlichen Prüfung verbundenen Aufgaben werden im Falle der Übertragung nach Satz 1 von der anderen Steuerberaterkammer wahrgenommen. Diese erhält auch die Gebühr nach § 44 Abs. 8 des Steuerberatungsgesetzes.
 
 (3) Dem Sachkunde-Ausschuss gehören an
 
@@ -475,9 +626,9 @@ Die Teilnahme an einem fachbezogenen Seminar bzw. Lehrgang ohne Abschlussprüfun
 
 2. ein Vertreter der für die Landwirtschaft zuständigen obersten Landesbehörde oder einer von ihr benannten Behörde.
 
-(4) Die Steuerberaterkammer beruft die Mitglieder des Sachkunde-Ausschusses und ihre Stellvertreter grundsätzlich für drei Jahre; sie können aus wichtigem Grund abberufen werden. Im Falle des vorzeitigen Ausscheidens oder der Abberufung wird der Nachfolger nur für den Rest der Amtszeit des ausgeschiedenen oder abberufenen Mitglieds oder Vertreters berufen. Vor der Berufung oder Abberufung ist bei dem Vertreter der für die Landwirtschaft zuständigen obersten Landesbehörde diese oder die von ihr benannte Behörde zu hören. § 10 Abs. 4 bis 6 gilt sinngemäß.
+(4) Die Mitglieder des Sachkunde-Ausschusses und ihre Stellvertreter sind durch die Steuerberaterkammer für drei Jahre zu berufen. § 10 Absatz 3 und die §§ 11 bis 13 Absatz 1 gelten mit Ausnahme des § 11 Absatz 2 Satz 2 entsprechend. Vor der Berufung oder Abberufung eines Vertreters der Landwirtschaft ist die für die Landwirtschaft zuständige oberste Landesbehörde oder die von ihr benannte Behörde zu hören.
 
-(5) Der Ausschuss entscheidet mit Stimmenmehrheit.
+(5) (weggefallen)
 
 # § 44 – Verleihung, Verleihungsurkunde
 
@@ -547,15 +698,15 @@ c) bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches, auf gl
 
 1. Ersatzansprüche wegen wissentlicher Pflichtverletzung,
 
-2. Ersatzansprüche wegen Schäden, die durch Fehlbeträge bei der Kassenführung, durch Verstöße beim Zahlungsakt oder durch Veruntreuung durch das Personal, Angehörige oder Sozien des Versicherungsnehmers entstehen,
+2. Ersatzansprüche wegen Schäden, die durch Fehlbeträge bei der Kassenführung, durch Verstöße beim Zahlungsakt oder durch Veruntreuung durch das Personal, Angehörige oder Mitgesellschafter des Versicherungsnehmers entstehen,
 
 3. Ersatzansprüche, die aus Tätigkeiten entstehen, die über Niederlassungen, Zweigniederlassungen oder weitere Beratungsstellen im Ausland ausgeübt werden,
 
-4. Ersatzansprüche wegen Verletzung oder Nichtbeachtung des Rechts außereuropäischer Staaten mit Ausnahme der Türkei,
+4. Ersatzansprüche wegen Verletzung oder Nichtbeachtung des Rechts außereuropäischer Staaten,
 
-5. Ersatzansprüche, die vor Gerichten in den Ländern Albanien, Armenien, Aserbaidschan, Bosnien-Herzegowina, Bulgarien, Estland, Georgien, Jugoslawien (Serbien und Montenegro), Kroatien, Lettland, Litauen, Mazedonien, Moldau, Polen, Rumänien, Russische Föderation, Slowakische Republik, Slowenien, Tschechische Republik, Ukraine und Weißrußland sowie vor Gerichten in außereuropäischen Ländern mit Ausnahme der Türkei geltend gemacht werden.
+5. Ersatzansprüche, die vor Gerichten in außereuropäischen Staaten geltend gemacht werden.
 
-(2) Von der Versicherung kann die Haftung für Ersatzansprüche wegen Verletzung oder Nichtbeachtung des Rechts der Länder Albanien, Armenien, Aserbaidschan, Bosnien-Herzegowina, Bulgarien, Estland, Georgien, Jugoslawien (Serbien und Montenegro), Kroatien, Lettland, Litauen, Mazedonien, Moldau, Polen, Rumänien, Russische Föderation, Slowakische Republik, Slowenien, Tschechische Republik, Ukraine und Weißrußland nur insoweit ausgeschlossen werden, als die Ansprüche nicht bei der das Abgabenrecht dieser Staaten betreffenden geschäftsmäßigen Hilfeleistung in Steuersachen entstehen.
+(2) (weggefallen)
 
 # § 54 – Anerkennung anderer Berufshaftpflichtversicherungen
 

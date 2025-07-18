@@ -2751,8 +2751,6 @@ Die Zuständigkeit für am 1. Januar 2025 anhängige aufsichtsrechtliche Verfahr
 
 müssen bis zum 1. November 2022 ihre Anerkennung beantragen. Ihnen stehen bis zur Entscheidung der zuständigen Steuerberaterkammer über den Antrag auf Anerkennung die Befugnisse nach § 3 Satz 1 Nummer 2 und Satz 2 sowie § 55d zu.
 
-# § 157e – (weggefallen)
-
 # § 158 – Durchführungsbestimmungen zu den Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
 
 Die Bundesregierung wird ermächtigt, nach Anhören der Bundessteuerberaterkammer mit Zustimmung des Bundesrates durch Rechtsverordnung Bestimmungen zu erlassen

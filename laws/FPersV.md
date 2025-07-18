@@ -627,8 +627,6 @@ haben diese Zeiten durch manuelle Nachträge nach den Absätzen 2 oder 3 zu bele
 
 # § 24 – (weggefallen)
 
-# § 24a – (weggefallen)
-
 # § 26 – (weggefallen)
 
 # Anlage 1 – (zu § 1 Abs. 6)
@@ -2277,7 +2275,7 @@ Abkürzungen, Definitionen
 Anhang B  
 Referenzdokumente
 
-# Anlage 3 – (zu § 4)  Beschreibung der Speicherkarten
+# Anlage 3 – (zu § 4)Beschreibung der Speicherkarten
 
 +++ Wegen nicht darstellbarer Textteile Anlage nicht aufgenommen +++  
 

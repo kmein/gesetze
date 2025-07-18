@@ -281,7 +281,9 @@ für die Zeit ab 1.7.2022 vgl. Bek. v. 1.6.2022 BAnz AT 17.06.2022 B7
 für die Zeit ab 1.7.2023 vgl. Bek. v. 1.6.2023 BAnz AT 27.06.2023 B3  
 (SchKG§19Abs2/§24Bek 2023);  
 für die Zeit ab 1.7.2024 vgl. Bek. v. 6.7.2024 BAnz AT 28.06.2024 B3  
-(SchKG§19Abs2/§24Bek 2024) +++)
+(SchKG§19Abs2/§24Bek 2024);  
+für die Zeit ab 1.7.2025 vgl. Bek. v. 27.5.2025 BAnz AT 20.06.2025 B1  
+(SchKG§19Abs2/§24Bek 2025) +++)
 
 # § 20 – Leistungen
 

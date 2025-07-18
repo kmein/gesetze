@@ -355,15 +355,15 @@ Ansprüche auf Leistungen der Soldatenentschädigung gehen Ansprüchen auf Leist
 
 (1) Geschädigte Personen erhalten einen Ausgleich für gesundheitliche Schädigungsfolgen als monatliche Zahlung in Höhe von
 
-1. 418 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
+1. 434 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
 
-2. 837 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
+2. 868 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
 
-3. 1 255 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3. 1 302 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
-4. 1 673 Euro bei einem Grad der Schädigungsfolgen von 90,
+4. 1 736 Euro bei einem Grad der Schädigungsfolgen von 90,
 
-5. 2 091 Euro bei einem Grad der Schädigungsfolgen von 100.
+5. 2 169 Euro bei einem Grad der Schädigungsfolgen von 100.
 
 (2) Der Ausgleich nach Absatz 1 Nummer 5 erhöht sich für geschädigte Personen mit besonderer Belastung durch schwerste Schädigungsfolgen um 20 Prozent. Eine besondere Belastung durch schwerste Schädigungsfolgen liegt insbesondere dann vor, wenn in mindestens zwei Funktionssystemen eine Schädigungsfolge anerkannt ist, die bei Einzelbewertung bereits einen Grad der Schädigungsfolgen von 100 und zusätzlich von mindestens 80 bedingt.
 
@@ -431,7 +431,7 @@ Die Leistungen der medizinischen Versorgung umfassen insbesondere:
 
 # § 17 – Leistungen bei Pflegebedürftigkeit
 
-(1) § 44 des Siebten Buches Sozialgesetzbuch gilt entsprechend. Für die Berechnung der Höhe des Pflegegeldes ist ein Mindestbetrag von 450 Euro und ein Höchstbetrag von 2 000 Euro zugrunde zu legen.
+(1) § 44 des Siebten Buches Sozialgesetzbuch gilt entsprechend. Für die Berechnung der Höhe des Pflegegeldes ist ein Mindestbetrag von 467 Euro und ein Höchstbetrag von 2 075 Euro zugrunde zu legen.
 
 (2) § 13 gilt entsprechend.
 
@@ -673,21 +673,21 @@ Derzeitiges Einkommen sind die in § 18a des Vierten Buches Sozialgesetzbuch gen
 
 (1) Das monatliche Referenzeinkommen beträgt bei einer geschädigten Person
 
-1. ohne abgeschlossene Schulausbildung 2 218 Euro,
+1. ohne abgeschlossene Schulausbildung 2 300 Euro,
 
-2. ohne abgeschlossene Berufsausbildung 2 294 Euro,
+2. ohne abgeschlossene Berufsausbildung 2 379 Euro,
 
-3. mit abgeschlossener Berufsausbildung 2 614 Euro,
+3. mit abgeschlossener Berufsausbildung 2 710 Euro,
 
-4. mit Techniker- oder Meisterprüfung 3 065 Euro,
+4. mit Techniker- oder Meisterprüfung 3 178 Euro,
 
-5. mit einem Bachelor- oder vergleichbaren Hochschulabschluss 3 830 Euro und
+5. mit einem Bachelor- oder vergleichbaren Hochschulabschluss 3 971 Euro und
 
-6. mit einem Master- oder vergleichbaren Hochschulabschluss 5 089 Euro.
+6. mit einem Master- oder vergleichbaren Hochschulabschluss 5 277 Euro.
 
 Die Zuordnung des monatlichen Referenzeinkommens zu der geschädigten Person erfolgt anhand der Verhältnisse vor der erstmaligen Auswirkung der Schädigungsfolgen.
 
-(2) Hat eine geschädigte Person in dem Beruf, den sie vor der Auswirkung der Schädigungsfolge ausgeübt hat, ein höheres Einkommen als das nach Absatz 1 festgelegte Referenzeinkommen erzielt, ist als Referenzeinkommen das vor der Auswirkung der Schädigungsfolge in den letzten zwölf Monaten oder, wenn dies günstiger ist, in den letzten 36 Monaten vor der Auswirkung der Schädigungsfolgen regelmäßig erzielte und nach § 38 zu ermittelnde Einkommen, höchstens jedoch 6 402 Euro, zugrunde zu legen. Bei monatlich feststehendem Einkommen wird auf die Ermittlung eines durchschnittlichen Einkommens verzichtet, wenn dies günstiger ist.
+(2) Hat eine geschädigte Person in dem Beruf, den sie vor der Auswirkung der Schädigungsfolge ausgeübt hat, ein höheres Einkommen als das nach Absatz 1 festgelegte Referenzeinkommen erzielt, ist als Referenzeinkommen das vor der Auswirkung der Schädigungsfolge in den letzten zwölf Monaten oder, wenn dies günstiger ist, in den letzten 36 Monaten vor der Auswirkung der Schädigungsfolgen regelmäßig erzielte und nach § 38 zu ermittelnde Einkommen, höchstens jedoch 6 638 Euro, zugrunde zu legen. Bei monatlich feststehendem Einkommen wird auf die Ermittlung eines durchschnittlichen Einkommens verzichtet, wenn dies günstiger ist.
 
 (3) Wirkt sich die anerkannte Schädigungsfolge vor dem Abschluss einer Berufs- oder Hochschulausbildung auf die Fähigkeit aus, eine solche zu absolvieren, wird das Referenzeinkommen wie folgt festgesetzt: Bei geschädigten Personen,
 
@@ -699,7 +699,7 @@ Die Zuordnung des monatlichen Referenzeinkommens zu der geschädigten Person erf
 
 Die Ermittlung des Referenzeinkommens nach Absatz 2 bleibt unberührt.
 
-(4) Das Referenzeinkommen wird mit einem Anpassungsfaktor an die Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer angepasst. Bruttolöhne und -gehälter je Arbeitnehmer sind die durch das Statistische Bundesamt ermittelten Bruttolöhne und -gehälter je Arbeitnehmer ohne Personen in Arbeitsgelegenheiten mit Entschädigungen für Mehraufwendungen jeweils nach der Systematik der Volkswirtschaftlichen Gesamtrechnungen (§ 68 Absatz 2 Satz 1 des Sechsten Buches Sozialgesetzbuch). Der Anpassungsfaktor für die Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer wird ermittelt, indem deren Wert für das vergangene Kalenderjahr durch den Wert für das vorvergangene Kalenderjahr geteilt wird. § 68 Absatz 7 und § 121 Absatz 1 des Sechsten Buches Sozialgesetzbuch gelten entsprechend. Eine Minderung des aktuellen Referenzeinkommens erfolgt nicht.
+(4) Das Referenzeinkommen wird mit einem Anpassungsfaktor an die Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer angepasst. Bruttolöhne und -gehälter je Arbeitnehmer sind die durch das Statistische Bundesamt ermittelten Bruttolöhne und  -gehälter je Arbeitnehmer ohne Personen in Arbeitsgelegenheiten mit Entschädigungen für Mehraufwendungen jeweils nach der Systematik der Volkswirtschaftlichen Gesamtrechnungen (§ 68 Absatz 2 Satz 1 des Sechsten Buches Sozialgesetzbuch). Der Anpassungsfaktor für die Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer wird ermittelt, indem deren Wert für das vergangene Kalenderjahr durch den Wert für das vorvergangene Kalenderjahr geteilt wird. § 68 Absatz 7 und § 121 Absatz 1 des Sechsten Buches Sozialgesetzbuch gelten entsprechend. Eine Minderung des aktuellen Referenzeinkommens erfolgt nicht.
 
 (5) Die Anpassung erfolgt durch Rechtsverordnung des Bundesministeriums der Verteidigung, die nicht der Zustimmung des Bundesrates bedarf, jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden.
 
@@ -742,7 +742,7 @@ Die Erstattung erfolgt für nachgewiesene entrichtete Beiträge bis zur Höhe de
 
 # § 43 – Ausgleichszahlung an Witwen und Witwer
 
-(1) Die Witwe oder der Witwer der geschädigten Person erhält eine monatliche Ausgleichszahlung in Höhe von 750 Euro. § 13 gilt entsprechend.
+(1) Die Witwe oder der Witwer der geschädigten Person erhält eine monatliche Ausgleichszahlung in Höhe von 778 Euro. § 13 gilt entsprechend.
 
 (2) Der Anspruch auf die monatliche Ausgleichszahlung erlischt, wenn die Witwe oder der Witwer wieder heiratet.
 
@@ -782,9 +782,9 @@ Mit Erreichen der Regelaltersgrenze beträgt die Ausgleichszahlung 30 Prozent de
 
 # § 44 – Ausgleichszahlung an Waisen
 
-(1) Waisen erhalten eine monatliche Ausgleichszahlung in Höhe von 400 Euro. § 13 gilt entsprechend.
+(1) Waisen erhalten eine monatliche Ausgleichszahlung in Höhe von 415 Euro. § 13 gilt entsprechend.
 
-(2) Waisen, die durch das Versterben des anderen Elternteils zu Vollwaisen werden, erhalten eine monatliche Ausgleichszahlung in Höhe von 650 Euro. § 13 gilt entsprechend.
+(2) Waisen, die durch das Versterben des anderen Elternteils zu Vollwaisen werden, erhalten eine monatliche Ausgleichszahlung in Höhe von 674 Euro. § 13 gilt entsprechend.
 
 (3) Die Ausgleichszahlung wird bis zu dem Kalendermonat gezahlt, in dem die Waise das 27. Lebensjahr vollendet.
 
@@ -802,7 +802,7 @@ Mit Erreichen der Regelaltersgrenze beträgt die Ausgleichszahlung 30 Prozent de
 
 frühestens jedoch von dem Kalendermonat an, in dem die geschädigte Person das 18. Lebensjahr vollendet hätte.
 
-(2) Die monatliche Ausgleichszahlung an Eltern beträgt für jedes Kind, das an der Schädigungsfolge der Wehrdienstbeschädigung verstorben ist, 300 Euro. Sind mehrere anspruchsberechtigte Elternteile vorhanden, so wird die monatliche Ausgleichszahlung unter den anspruchsberechtigten Elternteilen zu gleichen Teilen aufgeteilt.
+(2) Die monatliche Ausgleichszahlung an Eltern beträgt für jedes Kind, das an der Schädigungsfolge der Wehrdienstbeschädigung verstorben ist, 311 Euro. Sind mehrere anspruchsberechtigte Elternteile vorhanden, so wird die monatliche Ausgleichszahlung unter den anspruchsberechtigten Elternteilen zu gleichen Teilen aufgeteilt.
 
 (3) § 13 gilt entsprechend.
 
@@ -1230,7 +1230,7 @@ d) 2 Prozent des Bemessungsbetrages ein Betrag in Höhe des Zweifachen der Regel
 
 # § 87 – Anrechnungsvorschrift
 
-Die Geldleistung nach § 83 bleibt bei anderen Sozialleistungen und bei den Leistungen nach dem Asylbewerberleistungsgesetz als Einkommen unberücksichtigt, soweit sie den Betrag von 1 165 Euro nicht überschreitet. § 13 gilt entsprechend.
+Die Geldleistung nach § 83 bleibt bei anderen Sozialleistungen und bei den Leistungen nach dem Asylbewerberleistungsgesetz als Einkommen unberücksichtigt, soweit sie den Betrag von 1 209 Euro nicht überschreitet. § 13 gilt entsprechend.
 
 # § 88 – Pflegeausgleich
 

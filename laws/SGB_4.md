@@ -1003,7 +1003,17 @@ Soweit nicht aus der Entgeltbescheinigung des Beschäftigten zu entnehmen ist, d
 
 (12) Der Arbeitgeber hat auch für ausschließlich nach § 2 Absatz 1 Nummer 1 des Siebten Buches versicherte Beschäftigte mit beitragspflichtigem Entgelt Meldungen nach den Absätzen 1 und 3 Satz 2 Nummer 2 abzugeben.
 
-(13) (weggefallen)
+(13) Der Arbeitgeber hat bei Beginn einer in der sozialen Pflegeversicherung versicherungspflichtigen Beschäftigung eine Meldung nach § 55a Absatz 3 des Elften Buches an die Datenstelle der Rentenversicherung nach § 145 Absatz 1 Satz 1 des Sechsten Buches zu erstatten. Bei Ende der versicherungspflichtigen Beschäftigung hat er eine Meldung nach § 55a Absatz 6 des Elften Buches zu erstatten. Bei Beschäftigungsaufnahme hat dies innerhalb von sieben Tagen zu erfolgen; die Meldung zur Beendigung einer Beschäftigung wird zeitgleich mit der Meldung nach Absatz 1 Nummer 2 erstattet. Bei Beendigung der Versicherungspflicht in der sozialen Pflegeversicherung ist eine Abmeldung mit der nächsten Entgeltabrechnung vorzunehmen. In der Meldung sind insbesondere anzugeben:
+
+1. das Geburtsdatum des Beschäftigten,
+
+2. die steuerliche Identifikationsnummer des Beschäftigten nach § 139b der Abgabenordnung,
+
+3. der Tag des Beginns oder des Endes der Beschäftigung,
+
+4. die Betriebsnummer des Arbeitgebers.
+
+Bei Meldung einer Beschäftigungsaufnahme hat die Datenstelle der Rentenversicherung nach § 145 Absatz 1 Satz 1 des Sechsten Buches dem Arbeitgeber unverzüglich die zum Zeitpunkt der Beschäftigungsaufnahme zum Nachweis der Elterneigenschaft sowie die zur Ermittlung der Anzahl der berücksichtigungsfähigen Kinder erforderlichen Daten nach Maßgabe des § 55a Absatz 4 Satz 1 und 3 des Elften Buches weiterzuleiten. Änderungen bei der Elterneigenschaft oder der Anzahl der berücksichtigungsfähigen Kinder während eines laufenden Beschäftigungsverhältnisses werden dem Arbeitgeber nach Maßgabe des § 55a Absatz 5 des Elften Buches mitgeteilt. Die Deutsche Rentenversicherung Bund, der Spitzenverband Bund der Pflegekassen und das Bundeszentralamt für Steuern regeln das Nähere zum Verfahren sowie den Aufbau und den Inhalt der Datensätze für die Meldungen nach den Sätzen 1 bis 4 in Gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Gesundheit zu genehmigen sind; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist vorher anzuhören.
 
 # § 28b – Inhalte und Verfahren für die Gemeinsamen Grundsätze und die Datenfeldbeschreibung
 
@@ -2864,7 +2874,7 @@ b) § 28a Absatz 4 Satz 1,
 
 jeweils in Verbindung mit einer Rechtsverordnung nach § 28c Nummer 1, eine Meldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
- 2a. entgegen § 28a Absatz 7 Satz 1 oder 2 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+ 2a. entgegen § 28a Absatz 7 Satz 1 oder 2 oder Absatz 13 Satz 1 oder § 124 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
  2b. entgegen § 28a Absatz 10 Satz 1 oder Absatz 11 Satz 1, jeweils in Verbindung mit einer Rechtsverordnung nach § 28c Nummer 1, eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 

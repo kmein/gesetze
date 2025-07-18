@@ -1389,9 +1389,9 @@ Die Höhe der fortgewährten Pauschalbeihilfe beträgt die Hälfte der vor Begin
 
 # § 38c – Verhinderungspflege, Versorgung der pflegebedürftigen Person bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson
 
-(1) Ist eine Pflegeperson wegen Erholungsurlaubs oder Krankheit oder aus anderen Gründen an der häuslichen Pflege gehindert, so sind Aufwendungen für eine notwendige Ersatzpflege entsprechend § 39 des Elften Buches Sozialgesetzbuch beihilfefähig.
+(1) Ist eine Pflegeperson wegen Erholungsurlaubs oder Krankheit oder aus anderen Gründen an der häuslichen Pflege gehindert, so sind Aufwendungen für eine notwendige Ersatzpflege entsprechend den §§ 39 und 42a des Elften Buches Sozialgesetzbuch beihilfefähig.
 
-(2) Aufwendungen für eine Versorgung der pflegebedürftigen beihilfeberechtigten oder berücksichtigungsfähigen Person in zugelassenen Vorsorge- oder Rehabilitationseinrichtungen sind nach § 42a Absatz 1 Satz 1, Absatz 2 und Absatz 5 Satz 2 des Elften Buches Sozialgesetzbuch nur beihilfefähig, wenn kein Anspruch nach § 40 Absatz 3a Satz 1 des Fünften Buches Sozialgesetzbuch besteht. Für die Fahrtkosten gilt § 34 Absatz 5 entsprechend. Abweichend von § 38a Absatz 4 Satz 2 ruhen Ansprüche nach § 38a einschließlich der Pauschalbeihilfe, solange sich die Pflegeperson in der Vorsorge- und Rehabilitationseinrichtung befindet und die pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Person nach Satz 1 versorgt wird. Erfolgt die Versorgung der pflegebedürftigen Person nach § 42a Absatz 2 Satz 3 des Elften Buches Sozialgesetzbuch in einer zugelassenen vollstationären Pflegeeinrichtung, so sind die pflegebedingten Aufwendungen einschließlich der Aufwendungen für Betreuung, der Aufwendungen für Leistungen der medizinischen Behandlungspflege sowie der Entgelte für Unterkunft und Verpflegung und der betriebsnotwendigen Investitionsaufwendungen im Umfang des für diese Pflegeeinrichtung geltenden Gesamtheimentgelts beihilfefähig.
+(2) Aufwendungen für eine Versorgung der pflegebedürftigen beihilfeberechtigten oder berücksichtigungsfähigen Person in zugelassenen Vorsorge- oder Rehabilitationseinrichtungen sind nach § 42b Absatz 1 Satz 1, Absatz 2 und Absatz 5 Satz 2 des Elften Buches Sozialgesetzbuch nur beihilfefähig, wenn kein Anspruch nach § 40 Absatz 3a Satz 1 des Fünften Buches Sozialgesetzbuch besteht. Für die Fahrtkosten gilt § 34 Absatz 5 entsprechend. Abweichend von § 38a Absatz 4 Satz 2 ruhen Ansprüche nach § 38a einschließlich der Pauschalbeihilfe, solange sich die Pflegeperson in der Vorsorge- und Rehabilitationseinrichtung befindet und die pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Person nach Satz 1 versorgt wird. Erfolgt die Versorgung der pflegebedürftigen Person nach § 42b Absatz 2 Satz 3 des Elften Buches Sozialgesetzbuch in einer zugelassenen vollstationären Pflegeeinrichtung, so sind die pflegebedingten Aufwendungen einschließlich der Aufwendungen für Betreuung, der Aufwendungen für Leistungen der medizinischen Behandlungspflege sowie der Entgelte für Unterkunft und Verpflegung und der betriebsnotwendigen Investitionsaufwendungen im Umfang des für diese Pflegeeinrichtung geltenden Gesamtheimentgelts beihilfefähig.
 
 # § 38d – Teilstationäre Pflege
 
@@ -1407,7 +1407,7 @@ Die Höhe der fortgewährten Pauschalbeihilfe beträgt die Hälfte der vor Begin
 
 # § 38e – Kurzzeitpflege
 
-Kann die häusliche Pflege zeitweise nicht, noch nicht oder nicht im erforderlichen Umfang erbracht werden und reicht auch teilstationäre Pflege nicht aus, sind Aufwendungen für Kurzzeitpflege entsprechend § 42 des Elften Buches Sozialgesetzbuch beihilfefähig.
+Kann die häusliche Pflege zeitweise nicht, noch nicht oder nicht im erforderlichen Umfang erbracht werden und reicht auch teilstationäre Pflege nicht aus, sind Aufwendungen für Kurzzeitpflege entsprechend den §§ 42 und 42a des Elften Buches Sozialgesetzbuch beihilfefähig.
 
 # § 38f – Ambulant betreute Wohngruppen
 
@@ -2041,6 +2041,8 @@ Die bei der Bearbeitung von Beihilfeangelegenheiten bekannt gewordenen personenb
 (5) Aufwendungen für Vergütungszuschläge für zusätzliches Pflegehilfskraftpersonal entsprechend § 84 Absatz 9 des Elften Buches Sozialgesetzbuch, um die notwendige Versorgung des Pflegebedürftigen zu gewährleisten, sind bis zum 31. Dezember 2025 beihilfefähig.
 
 (6) Für beihilfeberechtigte und berücksichtigungsfähige Personen, deren Ansprüche nach dem Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung oder nach einem Gesetz, das das Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung ganz oder teilweise für anwendbar erklärt, bestandskräftig festgestellt sind, gelten die Vorschriften des § 8 Absatz 4 Satz 4 Nummer 1, des § 9 Absatz 3 Satz 4 Nummer 1, des § 38a Absatz 5, des § 47 Absatz 2 Satz 2 und des § 54 Absatz 1 Satz 3 in der am 31. Dezember 2023 geltenden Fassung weiter. Satz 1 gilt auch für ab 1. Januar 2024 entstehende Ansprüche nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz.
+
+(7) Im Zeitraum vom 1. Januar 2025 bis einschließlich 30. Juni 2025 ausgezahlte Beihilfeleistungen nach § 38c Absatz 1 und § 38e werden auf die Beihilfeleistungen des Gemeinsamen Jahresbetrags nach § 38c Absatz 1 und § 38e in Verbindung mit den §§ 39, 42 und 42a des Elften Buches Sozialgesetzbuch für das Kalenderjahr 2025 angerechnet.
 
 # § 59 – Inkrafttreten
 

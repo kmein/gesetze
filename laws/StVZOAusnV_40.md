@@ -21,7 +21,7 @@ Abweichend von § 53 Abs. 2 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung sind 
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. § 1 tritt am 1. Januar 2006 für neu in den Verkehr kommende Fahrzeuge außer Kraft.
 
-# Anlage – (zu § 1 Satz 2)  Anforderungen an Bremsvorwarnsysteme
+# Anlage – (zu § 1 Satz 2)Anforderungen an Bremsvorwarnsysteme
 
   
 1. Definition

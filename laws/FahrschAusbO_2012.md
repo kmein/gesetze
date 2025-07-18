@@ -479,9 +479,7 @@ Sicherheitsabstände
 
 d)
 
-Wahl der Geschwindigkeit in Abhängigkeit von Straße, Verkehr, Witterungs-
-
-und Sichtverhältnissen
+Wahl der Geschwindigkeit in Abhängigkeit von Straße, Verkehr, Witterungs- und Sichtverhältnissen
 
 e)
 
@@ -555,9 +553,7 @@ Einrichtungen zur Überwachung des ruhenden Verkehrs
 
 b)
 
-Ein-
-
-und Aussteigen
+Ein- und Aussteigen
 
 Sichern des Fahrzeugs
 
@@ -655,9 +651,7 @@ Erfahrungsaustausch für Fahranfänger
 
 c)
 
-Risiken durch Informations-
-
-und Kommunikationsdefizite im Straßenverkehr
+Risiken durch Informations- und Kommunikationsdefizite im Straßenverkehr
 
 d)
 
@@ -1442,9 +1436,7 @@ Video – Außenbeobachtung
 
 b)
 
-Informations-
-
-und Unterhaltungsanlage
+Informations- und Unterhaltungsanlage
 
 Lautsprecheranlage, Radioanlage, Fernseh-/Videoanlage
 
@@ -1562,9 +1554,7 @@ Anhänger hinter Kraftomnibussen.
 
 9\.
 
-Personenbeförderung, Fahrzeug-
-
-und Beförderungsdokumente
+Personenbeförderung, Fahrzeug- und Beförderungsdokumente
 
 a)
 
@@ -1582,9 +1572,7 @@ Linienverkehr, Schulbusverkehr, Marktfahrten, Theaterfahrten, grenzüberschreite
 
 c)
 
-Fahrzeug-
-
-und Beförderungsdokumente für den innerstaatlichen und grenzüberschreitenden Verkehr
+Fahrzeug- und Beförderungsdokumente für den innerstaatlichen und grenzüberschreitenden Verkehr
 
 d)
 
@@ -1596,9 +1584,7 @@ Kennzeichnung und Beschilderung von Linienbussen.
 
 10\.
 
-BO-Kraft, Bau-
-
-und Betriebsvorschriften
+BO-Kraft, Bau- und Betriebsvorschriften
 
 a)
 
@@ -2035,9 +2021,7 @@ Automatisch-lastabhängige Bremskraftregelung
 
 c)
 
-Hilfs-
-
-und Feststellbremsanlage
+Hilfs- und Feststellbremsanlage
 
 d)
 

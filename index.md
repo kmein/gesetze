@@ -114,6 +114,7 @@
 - [AgrarservMeistPrV](laws/AgrarservMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Agrarservicemeister und Agrarservicemeisterin
 - [AgrarZahlVerpflG](laws/AgrarZahlVerpflG.md) Gesetz zur Regelung der Einhaltung von Anforderungen und Standards im Rahmen unionsrechtlicher Vorschriften über Agrarzahlungen
 - [AgrarZahlVerpflV](laws/AgrarZahlVerpflV.md) Verordnung über die Einhaltung von Grundanforderungen und Standards im Rahmen unionsrechtlicher Vorschriften über Agrarzahlungen
+- [AgrStatDEV](laws/AgrStatDEV.md) Verordnung zur Erhebung bestimmter agrarstatistischer Daten
 - [AgrStatG](laws/AgrStatG.md) Gesetz über Agrarstatistiken
 - [AgrStatV](laws/AgrStatV.md) Verordnung zur Aussetzung und Ergänzung von Merkmalen sowie zur Einschränkung des Kreises der zu Befragenden nach dem Agrarstatistikgesetz
 - [AgrStruktGÄndG](laws/AgrStruktGÄndG.md) Gesetz zur Änderung des Gesetzes über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes"
@@ -160,7 +161,6 @@
 - [AltfahrzeugV](laws/AltfahrzeugV.md) Verordnung über die Überlassung, Rücknahme und umweltverträgliche Entsorgung von Altfahrzeugen
 - [AltgAATVDBest](laws/AltgAATVDBest.md) Durchführungsbestimmung zur Verordnung über die Tilgung der Anteilrechte von Inhabern mit Wohnsitz außerhalb der Deutschen Demokratischen Republik an der Altguthaben-Ablösungs-Anleihe
 - [AltGG](laws/AltGG.md) Altersgeldgesetz
-- [AltGZustAnO](laws/AltGZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten auf den Gebieten des Altersgeldes für freiwillig aus dem Bundesdienst ausscheidende Beamte, Richter und Berufssoldaten sowie des Versorgungsausgleichs der mit Altersgeldanspruch aus dem Bundesdienst ausgeschiedenen Beamten, Richtern und Berufssoldaten
 - [AltholzV](laws/AltholzV.md) Verordnung über Anforderungen an die Verwertung und Beseitigung von Altholz
 - [AltLandPflSchV](laws/AltLandPflSchV.md) Verordnung über die Anwendung von Pflanzenschutzmitteln in bestimmten Gebieten von Hamburg und Niedersachsen
 - [AltölV](laws/AltölV.md) Altölverordnung
@@ -618,12 +618,12 @@
 - [BeamtHaftNLDBek](laws/BeamtHaftNLDBek.md) Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten und Soldaten gegenüber Angehörigen der Niederlande
 - [BeamtHaftNORBek](laws/BeamtHaftNORBek.md) Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten gegenüber den Angehörigen des Königreichs Norwegen
 - [BeamtStG](laws/BeamtStG.md) Gesetz zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern
+- [BeamtVAltGZustAnO](laws/BeamtVAltGZustAnO.md) Anordnung zu Zuständigkeiten auf den Gebieten der Versorgung und des Altersgeldes sowie des Versorgungsausgleichs
 - [BeamtVG](laws/BeamtVG.md) Gesetz über die Versorgung der Beamten und Richter des Bundes
 - [BeamtVGÄndG](laws/BeamtVGÄndG.md) Gesetz zur Änderung des Beamtenversorgungsgesetzes und sonstiger dienst- und versorgungsrechtlicher Vorschriften
 - [BeamtVGÄndG 1993](laws/BeamtVGÄndG_1993.md) Gesetz zur Änderung des Beamtenversorgungsgesetzes, des Soldatenversorgungsgesetzes sowie sonstiger versorgungsrechtlicher Vorschriften
 - [BeamtVG§43Abs3V](laws/BeamtVG§43Abs3V.md) Verordnung über die einmalige Unfallentschädigung nach § 43 Abs. 3 des Beamtenversorgungsgesetzes
 - [BeamtVÜV](laws/BeamtVÜV.md) Verordnung über beamtenversorgungsrechtliche Übergangsregelungen nach Herstellung der Einheit Deutschlands
-- [BeamtVZustAnO](laws/BeamtVZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten auf den Gebieten der Versorgung der Beamtinnen und Beamten und der Richterinnen und Richter des Bundes sowie des Versorgungsausgleichs
 - [BeamtZustÜAnO](laws/BeamtZustÜAnO.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des Beamtenrechts auf den Generaldirektor der Deutschen Bibliothek
 - [BeauftrV](laws/BeauftrV.md) Verordnung zur Beauftragung von Luftsportverbänden
 - [BEBeamtAnO](laws/BEBeamtAnO.md) Allgemeine Anordnung über die Vertretung bei Klagen aus dem Beamtenverhältnis im Bereich des Bundeseisenbahnvermögens
@@ -769,6 +769,7 @@
 - [BFöV](laws/BFöV.md) Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten
 - [BfRG](laws/BfRG.md) Gesetz über die Errichtung eines Bundesinstitutes für Risikobewertung
 - [BFSG](laws/BFSG.md) Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen 1
+- [BFSGV](laws/BFSGV.md) Verordnung über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen nach dem Barrierefreiheitsstärkungsgesetz 1
 - [BFStrMG](laws/BFStrMG.md) Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von Bundesautobahnen und Bundesstraßen
 - [BFStrSonGebV](laws/BFStrSonGebV.md) Verordnung über die Erhebung von Gebühren für Sondernutzungen der Bundesfernstraßen in Verwaltung des Bundes
 - [BGA-NachfG](laws/BGA-NachfG.md) Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes
@@ -2097,7 +2098,7 @@
 - [FeinGehStempG](laws/FeinGehStempG.md) Bekanntmachung betreffend die Bestimmung der Form des Stempelzeichens zur Angabe des Feingehalts auf goldenen und silbernen Geräten
 - [FeinOAusbV](laws/FeinOAusbV.md) Verordnung über die Berufsausbildung zum Feinoptiker und zur Feinoptikerin*
 - [FeinwAusbV](laws/FeinwAusbV.md) Verordnung über die Berufsausbildung zum Feinwerkmechaniker und zur Feinwerkmechanikerin*)
-- [FeinwerkMechMstrV](laws/FeinwerkMechMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Feinwerkmechaniker-Handwerk
+- [FeinwerkMechMstrV](laws/FeinwerkMechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Feinwerkmechaniker-Handwerk
 - [FELEG](laws/FELEG.md) Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit
 - [FerkBetSachkV](laws/FerkBetSachkV.md) Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen
 - [FernstrÜG](laws/FernstrÜG.md) Gesetz zu Überleitungsregelungen zum Infrastrukturgesellschaftserrichtungsgesetz und zum Fernstraßen-Bundesamt-Errichtungsgesetz sowie steuerliche Vorschriften
@@ -2708,7 +2709,7 @@
 - [HärteV](laws/HärteV.md) Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz
 - [HafenlogAusbV](laws/HafenlogAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Hafenlogistik
 - [HafenSchAusbV](laws/HafenSchAusbV.md) Verordnung über die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
-- [HaftEntschBefStoffeSeeÜbk](laws/HaftEntschBefStoffeSeeÜbk.md) Internationales Übereinkommen über die Haftung und Entschädigung für Schäden bei der Beförderung schädlicher und gefährlicher Stoffe auf See
+- [HaftEntschBefStoffeSeeÜbk](laws/HaftEntschBefStoffeSeeÜbk.md) Internationales Übereinkommen von 2010 über die Haftung und Entschädigung für Schäden bei der Beförderung schädlicher und gefährlicher Stoffe auf See
 - [HaftPflG](laws/HaftPflG.md) Haftpflichtgesetz
 - [HAG](laws/HAG.md) Heimarbeitsgesetz
 - [HAGDV 1](laws/HAGDV_1.md) Erste Rechtsverordnung zur Durchführung des Heimarbeitsgesetzes
@@ -2777,6 +2778,7 @@
 - [HKStG](laws/HKStG.md) Gesetz über die Heimkehrerstiftung
 - [HKWAbfV](laws/HKWAbfV.md) Verordnung über die Entsorgung gebrauchter halogenierter Lösemittel
 - [HmbNSGBefV](laws/HmbNSGBefV.md) Verordnung über das Befahren der Bundeswasserstraße Elbe in bestimmten Naturschutzgebieten der Freien und Hansestadt Hamburg
+- [HNS-MittV](laws/HNS-MittV.md) Verordnung über Mitteilungen zu beitragspflichtigen Ladungen nach dem HNS-Gesetz
 - [HNSG](laws/HNSG.md) Gesetz über die Haftung und Entschädigung für Schäden bei der Beförderung gefährlicher und schädlicher Stoffe auf See
 - [HNSPflichtVersBeschV](laws/HNSPflichtVersBeschV.md) Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach dem HNS-Gesetz
 - [HOAI](laws/HOAI.md) Verordnung über die Honorare für Architekten- und Ingenieurleistungen
@@ -3503,7 +3505,7 @@
 - [LuftVODV 131](laws/LuftVODV_131.md) Hunderteinunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Dortmund-Wickede)
 - [LuftVODV 133](laws/LuftVODV_133.md) Hundertdreiunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Warteverfahren)
 - [LuftVODV 134](laws/LuftVODV_134.md) Hundertvierunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Sonderlandeplatz Hamburg-Finkenwerder)
-- [LuftVODV 135](laws/LuftVODV_135.md) Hundertfünfunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Lübeck-Blankensee)
+- [LuftVODV 135 2025](laws/LuftVODV_135_2025.md) Hundertfünfunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Lübeck-Blankensee)
 - [LuftVODV 136](laws/LuftVODV_136.md) Hundertsechsunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Braunschweig-Wolfsburg)
 - [LuftVODV 139](laws/LuftVODV_139.md) Hundertneununddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flugplatz Laage)
 - [LuftVODV 140](laws/LuftVODV_140.md) Hundertvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Heringsdorf)
@@ -3519,12 +3521,13 @@
 - [LuftVODV 157](laws/LuftVODV_157.md) Hundertsiebenundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Schwerin-Parchim)
 - [LuftVODV 158](laws/LuftVODV_158.md) Hundertachtundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Friedrichshafen)
 - [LuftVODV 159](laws/LuftVODV_159.md) Hundertneunundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Saarbrücken)
-- [LuftVODV 160](laws/LuftVODV_160.md) Hundertsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Augsburg)
+- [LuftVODV 160 2025](laws/LuftVODV_160_2025.md) Hundertsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Augsburg)
 - [LuftVODV 161](laws/LuftVODV_161.md) Hunderteinundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Bayreuth)
 - [LuftVODV 162](laws/LuftVODV_162.md) Hundertzweiundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Hof-Plauen)
 - [LuftVODV 163](laws/LuftVODV_163.md) Hundertdreiundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Düsseldorf)
 - [LuftVODV 164](laws/LuftVODV_164.md) Hundertvierundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Mönchengladbach)
 - [LuftVODV 165](laws/LuftVODV_165.md) Hundertfünfundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Mönchengladbach)
+- [LuftVODV 166 2025](laws/LuftVODV_166_2025.md) Hundertsechsundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Hamburg)
 - [LuftVODV 173](laws/LuftVODV_173.md) Hundertdreiundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Paderborn-Lippstadt)
 - [LuftVODV 174 2022](laws/LuftVODV_174_2022.md) Hundertvierundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Sylt)
 - [LuftVODV 176 2024](laws/LuftVODV_176_2024.md) Hundertsechsundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flugplatz Kiel-Holtenau)
@@ -3716,7 +3719,7 @@
 - [MetallbAusbVO](laws/MetallbAusbVO.md) Verordnung über die Berufsausbildung zum Metallbildner und zur Metallbildnerin*
 - [MetallbildMstrV](laws/MetallbildMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Metallbildner-Handwerk
 - [MetallbInstrmMAusbV](laws/MetallbInstrmMAusbV.md) Verordnung über die Berufsausbildung zum Metallblasinstrumentenmacher/zur Metallblasinstrumentenmacherin
-- [MetallbMstrV](laws/MetallbMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Metallbauer-Handwerk
+- [MetallbMstrV](laws/MetallbMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Metallbauer-Handwerk
 - [MetblMstrV](laws/MetblMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Metallblasinstrumentenmacher-Handwerk
 - [MetTechAusbV](laws/MetTechAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Metalltechnik*
 - [MFBAProMediaFPrV](laws/MFBAProMediaFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Medienfachwirt und Geprüfte Medienfachwirtin-Bachelor Professional in Media
@@ -4910,6 +4913,7 @@
 - [RWBestV 2021](laws/RWBestV_2021.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2021
 - [RWBestV 2023](laws/RWBestV_2023.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2023
 - [RWBestV 2024](laws/RWBestV_2024.md) Verordnung zur Bestimmung des Rentenwerts in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2024
+- [RWBestV 2025](laws/RWBestV_2025.md) Verordnung zur Bestimmung des Rentenwerts in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2025
 - [RZV](laws/RZV.md) Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums
 - [SAA MNE](laws/SAA_MNE.md) Stabilisierungs- und Assoziierungsabkommen zwischen den Europäischen Gemeinschaften und ihren Mitgliedstaaten einerseits und der Republik Montenegro andererseits
 - [SaarGlV](laws/SaarGlV.md) Verordnung über die Gleichstellung von aus dem Saargebiet verdrängten Deutschen
@@ -4990,6 +4994,7 @@
 - [SchKG§19Abs2/§24Bek 2022](laws/SchKG§19Abs2_§24Bek_2022.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2022 geltenden Beträge
 - [SchKG§19Abs2/§24Bek 2023](laws/SchKG§19Abs2_§24Bek_2023.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2023 geltenden Beträge
 - [SchKG§19Abs2/§24Bek 2024](laws/SchKG§19Abs2_§24Bek_2024.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2024 geltenden Beträge
+- [SchKG§19Abs2/§24Bek 2025](laws/SchKG§19Abs2_§24Bek_2025.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2025 geltenden Beträge
 - [SchKiSpV](laws/SchKiSpV.md) Verordnung über die Schüler- und Kinderspeisung
 - [SchKiSpVDBest 1](laws/SchKiSpVDBest_1.md) Erste Durchführungsbestimmung zur Verordnung über die Schüler- und Kinderspeisung
 - [SchlärmschG](laws/SchlärmschG.md) Gesetz zum Schienenlärmschutz
@@ -5423,6 +5428,7 @@
 - [StDAV](laws/StDAV.md) Verordnung über den automatisierten Abruf von Steuerdaten
 - [SteinKAGSaarG](laws/SteinKAGSaarG.md) Gesetz über die Einbringung der Steinkohlenbergwerke im Saarland in eine Aktiengesellschaft
 - [SteinkohleFinG](laws/SteinkohleFinG.md) Gesetz zur Finanzierung der Beendigung des subventionierten Steinkohlenbergbaus zum Jahr 2018
+- [StepVG](laws/StepVG.md) Gesetz über die Stiftung für ehemalige politisch Verfolgte
 - [SterilEntschAufhG](laws/SterilEntschAufhG.md) Gesetz zur Aufhebung von Sterilisationsentscheidungen der ehemaligen Erbgesundheitsgerichte
 - [StFachAngAusbV](laws/StFachAngAusbV.md) Verordnung über die Berufsausbildung zum Steuerfachangestellten und zur Steuerfachangestellten*
 - [StFG](laws/StFG.md) Gesetz zur Errichtung eines Finanzmarkt- und eines Wirtschaftsstabilisierungsfonds
@@ -5449,7 +5455,6 @@
 - [StipV](laws/StipV.md) Verordnung zur Durchführung des Stipendienprogramm-Gesetzes
 - [StmStbAusbV](laws/StmStbAusbV.md) Verordnung über die Berufsausbildung zum Steinmetz und Steinbildhauer und zur Steinmetzin und Steinbildhauerin*
 - [StmStbMstrV](laws/StmStbMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Steinmetz- und Steinbildhauer-Handwerk
-- [StoffBilV](laws/StoffBilV.md) Verordnung über den Umgang mit Nährstoffen im Betrieb und betriebliche Stoffstrombilanzen
 - [StPO](laws/StPO.md) Strafprozeßordnung
 - [StPOEG](laws/StPOEG.md) Einführungsgesetz zur Strafprozeßordnung
 - [StrabBlPV](laws/StrabBlPV.md) Verordnung über die Prüfung zum Betriebsleiter von Straßenbahnunternehmen
@@ -5791,6 +5796,7 @@
 - [UBGG](laws/UBGG.md) Gesetz über Unternehmensbeteiligungsgesellschaften
 - [UBRegG](laws/UBRegG.md) Gesetz zur Errichtung und Führung eines Registers über Unternehmensbasisdaten und zur Einführung einer bundeseinheitlichen Wirtschaftsnummer für Unternehmen
 - [UBRegV](laws/UBRegV.md) Verordnung über das Register über Unternehmensbasisdaten
+- [UBSKMG](laws/UBSKMG.md) Gesetz zur Einrichtung der oder des Unabhängigen Bundesbeauftragten gegen sexuellen Missbrauch von Kindern und Jugendlichen
 - [UDÜV](laws/UDÜV.md) Verordnung zur Übertragung von Befugnissen und Pflichten auf die Bundesnetzagentur gemäß § 157 Absatz 5 des Telekommunikationsgesetzes
 - [ÜAG](laws/ÜAG.md) Gesetz zur Ausführung des Übereinkommens vom 21. März 1983 über die Überstellung verurteilter Personen, des Zusatzprotokolls vom 18. Dezember 1997 und des Schengener Durchführungsübereinkommens
 - [ÜAnlG](laws/ÜAnlG.md) Gesetz über überwachungsbedürftige Anlagen

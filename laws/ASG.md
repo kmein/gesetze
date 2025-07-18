@@ -118,7 +118,7 @@ Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall zulässi
 
 5. in Krankenanstalten und anderen Einrichtungen, in denen pflegebedürftige Personen betreut werden,
 
-6. in Betrieben der Mineralöl‑, Gas-, Kohle- und Wasserstoffversorgung,
+6. in Betrieben der Mineralöl-, Gas-, Kohle- und Wasserstoffversorgung,
 
 7. in Verkehrsunternehmen einschließlich Unternehmen des Personen- und Güterbeförderungsgewerbes in der See- und Binnenschifffahrt,
 

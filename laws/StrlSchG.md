@@ -547,7 +547,7 @@ a) deren Röntgenstrahler nach § 45 Absatz 1 Nummer 2 bauartzugelassen ist,
 
 b) deren Herstellung und erstmaliges Inverkehrbringen unter den Anwendungsbereich des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung fällt,
 
-c) deren Herstellung und Inverkehrbringen unter den Anwendungsbereich der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung fällt,
+c) deren Herstellung und Inverkehrbringen unter den Anwendungsbereich der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die zuletzt durch die Verordnung (EU) 2024/568 (ABl. L, 2024/568, 14.2.2024) geändert worden ist, in der jeweils geltenden Fassung fällt,
 
 d) die nach den Vorschriften des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung erstmalig in Verkehr gebracht worden ist und nicht im Zusammenhang mit medizinischen Expositionen eingesetzt wird oder
 
@@ -827,15 +827,68 @@ In der Rechtsverordnung kann ebenfalls festgelegt werden, unter welchen Vorausse
 
 (+++ § 30: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-# § 31 – Genehmigungsbedürftige Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+# § 31 – Genehmigungsbedürftige Anwendung
 
-(1) Wer zum Zweck der medizinischen Forschung radioaktive Stoffe oder ionisierende Strahlung am Menschen anwendet, bedarf der Genehmigung, sofern die Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung nicht nach § 32 Absatz 1 anzeigebedürftig ist. Einer Genehmigung bedarf ferner, wer von einer nach dieser Vorschrift genehmigten Anwendung wesentlich abweicht.
+Wer zum Zweck der medizinischen Forschung radioaktive Stoffe oder ionisierende Strahlung am Menschen anwendet, bedarf der Genehmigung, sofern die Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung nicht nach § 32 Absatz 1 anzeigebedürftig ist. Einer Genehmigung bedarf ferner, wer von einer nach dieser Vorschrift genehmigten Anwendung wesentlich abweicht.
 
-(2) Dem Genehmigungsantrag sind die zur Prüfung erforderlichen Unterlagen beizufügen.
+# § 31a – Antrag auf Genehmigung einer Anwendung
 
-(3) Die zuständige Behörde soll die zur Prüfung erforderlichen Unterlagen innerhalb von 21 Kalendertagen nach Eingang des Genehmigungsantrages auf Vollständigkeit prüfen. Sind die Unterlagen unvollständig, so soll die zuständige Behörde den Antragsteller auffordern, die von ihr benannten Mängel innerhalb einer Frist von 21 Kalendertagen nach Zugang der Aufforderung zu beheben. Die zuständige Behörde entscheidet über den Antrag auf Erteilung der Genehmigung innerhalb von 90 Kalendertagen nach Eingang der vollständigen Antragsunterlagen. Die zuständige Behörde kann die Frist um 90 Kalendertage verlängern, wenn dies wegen der Schwierigkeit der Prüfung erforderlich ist. Die Fristverlängerung ist zu begründen und rechtzeitig mitzuteilen. Die Genehmigung gilt als erteilt, wenn die zuständige Behörde nicht innerhalb der verlängerten Frist über den Genehmigungsantrag entschieden hat.
+(1) Der Genehmigungsantrag ist wie folgt einzureichen:
 
-(4) Die zuständige Behörde darf die Genehmigung nur erteilen, wenn
+1. über das EU-Portal im Sinne des § 4 Absatz 42 des Arzneimittelgesetzes, sofern die nach § 31 genehmigungsbedürftige Anwendung im Rahmen einer klinischen Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes erfolgen soll,
+
+2. über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach §  86 des Medizinprodukterecht-Durchführungsgesetzes, sofern die nach § 31 genehmigungsbedürftige Anwendung im Rahmen einer klinischen Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 oder im Rahmen einer sonstigen klinischen Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes erfolgen soll,
+
+3. in allen anderen Fällen unmittelbar beim Bundesamt für Strahlenschutz.
+
+Der Genehmigungsantrag gilt im Fall von Satz 1 Nummer 1 erst als eingereicht, wenn im Anschreiben gemäß Anhang I Nummer 6 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom 17.11.2016, S. 25), die zuletzt durch die Delegierte Verordnung (EU) 2022/2239 (ABl. L 294 vom 15.11.2022, S. 5) geändert worden ist, oder gemäß Anhang II Nummer 3 Buchstabe d der Verordnung (EU) Nr. 536/2014 darauf hingewiesen wird, dass eine strahlenschutzrechtliche Genehmigung beantragt wird. Ist ein in Satz 2 genannter Hinweis nicht möglich, gilt der Genehmigungsantrag erst mit Zugang eines Hinweises auf den strahlenschutzrechtlichen Genehmigungsantrag in Schriftform, in elektronischer Form oder in Textform bei dem Bundesinstitut für Arzneimittel und Medizinprodukte als eingereicht.
+
+(2) Der Genehmigungsantrag ist in deutscher oder englischer Sprache einzureichen. Die Unterlagen, die für die an dem Forschungsvorhaben teilnehmende Person oder für ihren gesetzlichen Vertreter bestimmt sind, sind in deutscher Sprache einzureichen.
+
+(3) Dem Genehmigungsantrag sind die zur Prüfung erforderlichen Unterlagen mit Ausnahme der zustimmenden Stellungnahme der zuständigen Ethik-Kommission beizufügen. Abweichend von Satz 1 muss die zustimmende Stellungnahme der zuständigen Ethik-Kommission dem Genehmigungsantrag beigefügt werden, wenn die nach § 31 genehmigungsbedürftige Anwendung im Rahmen einer klinischen Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 oder einer sonstigen klinischen Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes erfolgen soll.
+
+(4) Wird der Genehmigungsantrag über das EU-Portal im Sinne des § 4 Absatz 42 des Arzneimittelgesetzes eingereicht, unterrichtet das Bundesinstitut für Arzneimittel und Medizinprodukte die zuständige Behörde unverzüglich, spätestens jedoch an dem auf den Eingang des Genehmigungsantrags im EU-Portal im Sinne des § 4 Absatz 42 des Arzneimittelgesetzes folgenden Werktag, über den Genehmigungsantrag und gewährt ihr gleichzeitig Zugriff auf die für die Wahrnehmung ihrer Aufgaben notwendigen Angaben und Unterlagen. Die Unterrichtung nach Satz 1 beinhaltet einen Hinweis, ob es sich bei der klinischen Prüfung, in deren Rahmen die nach § 31 genehmigungsbedürftige Anwendung erfolgen soll, um eine in § 40 Absatz 4 Satz 2 des Arzneimittelgesetzes genannte klinische Prüfung handelt.
+
+(+++ § 31a Abs. 2 u. Abs. 3 Satz 1: Zur Geltung vgl. § 36b Abs. 1 Satz 3 u. § 36c Abs. 1 Satz 2 +++)
+
+# § 31b – Genehmigungsverfahren bei der zuständigen Behörde
+
+(1) Die zuständige Behörde prüft die eingereichten Unterlagen auf Vollständigkeit innerhalb der folgenden Fristen:
+
+1. bei einem Antrag auf Genehmigung einer Anwendung nach § 31 Satz 1 innerhalb von zehn Kalendertagen nach Eingang des Antrags,
+
+2. bei einem Antrag auf Genehmigung einer wesentlichen Abweichung von einer genehmigten Anwendung nach § 31 Satz 2 innerhalb von sechs Kalendertagen nach Eingang des Antrags.
+
+Sind die Unterlagen unvollständig, so fordert die zuständige Behörde den Antragsteller auf, die von ihr benannten Mängel durch ergänzende Angaben oder Unterlagen innerhalb einer einmaligen Frist von zehn Kalendertagen nach Zugang der Aufforderung zu beheben. Im Fall von Satz 2 schließt die zuständige Behörde die Vollständigkeitsprüfung innerhalb von fünf Kalendertagen nach Eingang der ergänzenden Angaben oder Unterlagen ab. Der Tag des Abschlusses der Vollständigkeitsprüfung ist dem Antragsteller sowohl im Fall von Satz 1 als auch von Satz 3 mitzuteilen. Unterbleibt eine Mitteilung, gilt der letzte Tag der jeweiligen Frist nach Satz 1 oder Satz 3 als Tag des Abschlusses der Vollständigkeitsprüfung.
+
+(2) Die zuständige Behörde entscheidet nach Abschluss der Vollständigkeitsprüfung gemäß Absatz 1 innerhalb der folgenden Fristen:
+
+1. bei einem Antrag auf Genehmigung einer Anwendung nach § 31 Satz 1 innerhalb von 50 Kalendertagen,
+
+2. bei einem Antrag auf Genehmigung einer wesentlichen Abweichung von einer genehmigten Anwendung nach § 31 Satz 2 innerhalb von 43 Kalendertagen.
+
+Abweichend von Satz 1 Nummer 1 beträgt die Frist bei in § 40 Absatz 4 Satz 2 des Arzneimittelgesetzes genannten klinischen Prüfungen 31 Kalendertage.
+
+(3) Innerhalb der jeweils einschlägigen Frist nach Absatz 2 Satz 1 oder Satz 2 kann die zuständige Behörde den Antragsteller auffordern, innerhalb einer angemessenen Frist von höchstens zwölf Kalendertagen Rückfragen zu beantworten oder Einwände auszuräumen. Im Fall einer Rückfrage oder eines Einwands kann die zuständige Behörde die in Absatz 2 Satz 1 oder Satz 2 genannte Frist einmalig um bis zu 31 Kalendertage verlängern. Die Fristverlängerung ist dem Antragsteller rechtzeitig mitzuteilen.
+
+(4) Die Frist nach Absatz 2 Satz 1 oder Satz 2 oder die verlängerte Frist nach Absatz 3 Satz 2 kann in folgenden Fällen einmalig verlängert werden:
+
+1. im Fall einer besonderen Schwierigkeit der strahlenhygienischen Prüfung um bis zu 50 Kalendertage oder
+
+2. im Fall einer Verlängerung einer Frist in dem dasselbe Forschungsvorhaben betreffenden Verfahren zur Genehmigung der klinischen Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes oder in dem dasselbe Forschungsvorhaben betreffenden Verfahren zur Genehmigung einer wesentlichen Änderung einer klinischen Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes jeweils um denselben Zeitraum, um den diese Frist verlängert worden ist, längstens jedoch bis zum Ende dieser verlängerten Frist.
+
+Die Fristverlängerung ist zu begründen und dem Antragsteller rechtzeitig mitzuteilen.
+
+(5) Die Genehmigung gilt als erteilt, wenn die zuständige Behörde nicht innerhalb der jeweils einschlägigen Frist nach Absatz 2, 3 Satz 2 oder Absatz 4 Satz 1 über den Genehmigungsantrag entschieden hat. Mit der beantragten Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung darf erst begonnen werden, wenn die zuständige Behörde dem Antragsteller den Eingang der zustimmenden Stellungnahme der zuständigen Ethik-Kommission zu dem Forschungsvorhaben bestätigt hat.
+
+(6) Legt der Antragsteller innerhalb der Frist nach Absatz 1 Satz 2 keine ergänzenden Angaben oder Unterlagen vor oder beantwortet er die Rückfragen oder die Aufforderung, Einwände auszuräumen, innerhalb der Frist nach Absatz 3 Satz 1 nicht, gilt der Genehmigungsantrag als zurückgenommen.
+
+(+++ § 31b Abs. 1 Satz 4 u. 5: Zur Geltung vgl. § 36a Abs. 2 Satz 2 u. § 36c Abs. 2 Satz 2 +++)  
+(+++ § 31b Abs. 3 Satz 3, Abs. 4 Satz 2, Abs. 6: Zur Geltung vgl. § 36a Abs. 2 Satz 4 u. § 36c Abs. 2 Satz 4 +++)
+
+# § 31c – Voraussetzungen für die Erteilung der Genehmigung
+
+(1) Die zuständige Behörde darf die Genehmigung nur erteilen, wenn
 
 1. die strahlenbedingten Risiken, die für die in das Forschungsvorhaben eingeschlossene Person mit der Anwendung verbunden sind, gemessen an der voraussichtlichen Bedeutung der Ergebnisse für die Fortentwicklung medizinischer Untersuchungsmethoden oder Behandlungsverfahren oder der medizinischen Wissenschaft, gegebenenfalls unter Berücksichtigung des medizinischen Nutzens für die Person, ärztlich gerechtfertigt sind,
 
@@ -845,7 +898,7 @@ In der Rechtsverordnung kann ebenfalls festgelegt werden, unter welchen Vorausse
 
 4. die Anzahl der in das Forschungsvorhaben eingeschlossenen Personen auf das für die Erfüllung des Zwecks des Forschungsvorhabens notwendige Maß beschränkt wird,
 
-5. die zustimmende Stellungnahme einer Ethikkommission nach § 36 zu dem Forschungsvorhaben vorliegt,
+5. die zustimmende Stellungnahme der zuständigen Ethik-Kommission zu dem Forschungsvorhaben vorliegt,
 
 6. die Anwendungen von einem Arzt geleitet werden, der die erforderliche Fachkunde im Strahlenschutz und mindestens zwei Jahre Erfahrung in der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen besitzt,
 
@@ -853,21 +906,47 @@ In der Rechtsverordnung kann ebenfalls festgelegt werden, unter welchen Vorausse
 
 8. eine Genehmigung nach § 12 Absatz 1 Nummer 1 bis 4 zur Anwendung am Menschen vorliegt oder der Betrieb einer nach § 19 Absatz 1 zur Anwendung am Menschen angezeigten Röntgeneinrichtung zulässig ist.
 
-(5) Die Vorsorge zur Erfüllung gesetzlicher Schadensersatzverpflichtungen im Sinne des Absatzes 4 Nummer 7 ist für den Zeitraum vom Beginn der Anwendung bis zum Ablauf von zehn Jahren nach Beendigung des Forschungsvorhabens zu treffen. Absatz 4 Nummer 7 findet keine Anwendung, soweit die Vorgaben der Atomrechtlichen Deckungsvorsorge-Verordnung durch die getroffene Vorsorge zur Erfüllung gesetzlicher Schadensersatzverpflichtungen nach den entsprechenden Vorschriften des Arzneimittelgesetzes oder des Medizinprodukterecht-Durchführungsgesetzes dem Grunde und der Höhe nach erfüllt sind.
+(2) Liegt die zustimmende Stellungnahme der zuständigen Ethik-Kommission zu dem Forschungsvorhaben zum Zeitpunkt der Genehmigungserteilung nicht vor, hat die zuständige Behörde die Genehmigung unter der aufschiebenden Bedingung, dass die zuständige Behörde dem Antragsteller den Eingang einer zustimmenden Stellungnahme der zuständigen Ethik-Kommission bestätigt, zu erteilen. Satz 1 gilt nicht, wenn die genehmigungsbedürftige Anwendung im Rahmen einer klinischen Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 oder einer sonstigen klinischen Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes erfolgen soll.
 
-(6) Sieht der Antrag die Anwendung radioaktiver Stoffe oder ionisierender Strahlung in mehreren Einrichtungen vor (Multi-Center-Studie), so erteilt die zuständige Behörde eine umfassende Genehmigung für alle Einrichtungen, für die die Voraussetzungen nach Absatz 4 Nummer 6 und 8 erfüllt sind.
+(3) Die Vorsorge zur Erfüllung gesetzlicher Schadensersatzverpflichtungen nach Absatz 1 Nummer 7 ist für den Zeitraum vom Beginn der Anwendung bis zum Ablauf von zehn Jahren nach Beendigung des Forschungsvorhabens zu treffen. Absatz 1 Nummer 7 findet keine Anwendung, soweit die Vorgaben der Atomrechtlichen Deckungsvorsorge-Verordnung durch die getroffene Vorsorge zur Erfüllung gesetzlicher Schadensersatzverpflichtungen nach den entsprechenden Vorschriften des Arzneimittelgesetzes oder des Medizinprodukterecht-Durchführungsgesetzes dem Grunde und der Höhe nach erfüllt sind.
 
-(7) Die zuständige Behörde übermittelt der für das Forschungsvorhaben zuständigen Aufsichtsbehörde einen Abdruck des Genehmigungsbescheids.
+(4) Sieht der Genehmigungsantrag die Anwendung radioaktiver Stoffe oder ionisierender Strahlung in mehreren Einrichtungen vor (Multi-Center-Studie), so erteilt die zuständige Behörde eine umfassende Genehmigung für alle Einrichtungen, für die die Voraussetzungen nach Absatz 1 Nummer 6 und 8 erfüllt sind.
 
-# § 32 – Anzeigebedürftige Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+(5) Die zuständige Behörde übermittelt der für das Forschungsvorhaben zuständigen Aufsichtsbehörde einen Abdruck des Genehmigungsbescheids. Im Fall einer Genehmigungsfiktion nach § 31b Absatz 5 Satz 1 informiert die zuständige Behörde die zuständige Aufsichtsbehörde über Eintritt und Inhalt der fingierten Genehmigung.
 
-(1) Wer beabsichtigt, radioaktive Stoffe oder ionisierende Strahlung am Menschen zum Zweck der medizinischen Forschung anzuwenden, hat dies der zuständigen Behörde vorher schriftlich oder elektronisch anzuzeigen, wenn
+# § 32 – Anzeigebedürftige Anwendung
 
-1. das Forschungsvorhaben die Prüfung von Sicherheit oder Wirksamkeit eines Verfahrens zur Behandlung volljähriger, kranker Menschen zum Gegenstand hat und
+(1) Wer beabsichtigt, radioaktive Stoffe oder ionisierende Strahlung am Menschen zum Zweck der medizinischen Forschung anzuwenden, hat dies der zuständigen Behörde vorher anzuzeigen, wenn
 
-2. die Anwendung radioaktiver Stoffe oder ionisierender Strahlung selbst nicht Gegenstand des Forschungsvorhabens ist.
+1. das Forschungsvorhaben die Prüfung von Sicherheit und Wirksamkeit eines Verfahrens zur Behandlung ausschließlich folgender Personengruppen zum Gegenstand hat:
+
+a) volljähriger, kranker Menschen oder
+
+b) minderjähriger, kranker Menschen, wenn die Summe der studienbedingten effektiven Dosen aller Strahlenanwendungen, die im Rahmen des Forschungsvorhabens erfolgen, voraussichtlich 6 Millisievert pro Person nicht überschreitet,
+
+2. in dem Forschungsvorhaben ausschließlich Anwendungen radioaktiver Stoffe oder ionisierender Strahlung durchgeführt werden, die nicht selbst Gegenstand des Forschungsvorhabens sind,
+
+3. die Art der Anwendung anerkannten Standardverfahren zur Untersuchung von Menschen entspricht und
+
+4. es sich bei dem Forschungsvorhaben handelt um
+
+a) eine klinische Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes,
+
+b) eine klinische Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 oder
+
+c) eine sonstige klinische Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes.
 
 Anzeigepflichtig ist ferner, wer beabsichtigt, von einer nach dieser Vorschrift angezeigten Anwendung wesentlich abzuweichen.
+
+(1a) Die Anzeige ist wie folgt einzureichen:
+
+1. über das EU-Portal im Sinne des § 4 Absatz 42 des Arzneimittelgesetzes, sofern die nach Absatz 1 anzeigebedürftige Anwendung im Rahmen einer klinischen Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes erfolgen soll,
+
+2. über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 des Medizinprodukterecht-Durchführungsgesetzes, sofern die nach Absatz 1 anzeigebedürftige Anwendung im Rahmen einer klinischen Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 oder einer sonstigen klinischen Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes erfolgen soll.
+
+Die Anzeige gilt im Fall von Satz 1 Nummer 1 erst als eingereicht, wenn im Anschreiben gemäß Anhang I Nummer 6 der Verordnung (EU) Nr. 536/2014 oder gemäß Anhang II Nummer 3 Buchstabe d der Verordnung (EU) Nr. 536/2014 darauf hingewiesen wird, dass eine strahlenschutzrechtliche Anzeige eingereicht wird. Ist ein in Satz 2 genannter Hinweis nicht möglich, gilt die Anzeige erst mit Zugang eines Hinweises auf die strahlenschutzrechtliche Anzeige in Schriftform, in elektronischer Form oder in Textform bei dem Bundesinstitut für Arzneimittel und Medizinprodukte als eingereicht.
+
+(1b) Die Anzeige ist in deutscher oder englischer Sprache einzureichen. Die Unterlagen, die für die an dem Forschungsvorhaben teilnehmende Person oder für ihren gesetzlichen Vertreter bestimmt sind, sind in deutscher Sprache einzureichen.
 
 (2) Im Rahmen der Anzeige ist nachvollziehbar darzulegen, dass
 
@@ -875,43 +954,51 @@ Anzeigepflichtig ist ferner, wer beabsichtigt, von einer nach dieser Vorschrift 
 
 2. der Zweck des Forschungsvorhabens Art und Häufigkeit der Anwendung rechtfertigt,
 
-3. gewährleistet ist, dass ausschließlich volljährige Personen in das Forschungsvorhaben eingeschlossen werden, bei denen eine Krankheit vorliegt, deren Behandlung im Rahmen des Forschungsvorhabens geprüft wird und
+3. gewährleistet ist, dass ausschließlich Personen in das Forschungsvorhaben eingeschlossen werden, bei denen eine Krankheit vorliegt, deren Behandlung im Rahmen des Forschungsvorhabens geprüft wird und
 
-4. eine Genehmigung nach § 12 Absatz 1 Nummer 1 bis 4 zur Anwendung am Menschen vorliegt oder der Betrieb einer nach § 19 Absatz 1 zur Anwendung am Menschen angezeigten Röntgeneinrichtung zulässig ist.
+4. bei Einschluss minderjähriger Personen die Summe der studienbedingten effektiven Dosen aller Strahlenanwendungen, die im Rahmen des Forschungsvorhabens erfolgen, voraussichtlich 6 Millisievert pro Person nicht überschreitet.
 
 (3) Der Anzeige ist der Nachweis beizufügen, dass die erforderliche Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen nach Maßgabe des § 35 getroffen ist. Einrichtungen des Bundes und der Länder sind nicht zur Vorlage dieses Nachweises verpflichtet, soweit das Prinzip der Selbstversicherung der jeweiligen Körperschaft zur Anwendung kommt.
 
-(4) Ist das Forschungsvorhaben als Multi-Center-Studie vorgesehen, so kann die Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung für alle beteiligten Einrichtungen gemeinsam angezeigt werden. In diesem Fall hat der Anzeigende darzulegen, dass die Anforderungen nach Absatz 2 Nummer 4 in Bezug auf jede teilnehmende Einrichtung erfüllt sind.
+(4) Ist das Forschungsvorhaben als Multi-Center-Studie vorgesehen, so kann die Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung für alle beteiligten Einrichtungen gemeinsam angezeigt werden.
 
-# § 33 – Prüfung der Anzeige durch die zuständige Behörde
+(+++ § 32 Abs. 1b u. Abs. 2 bis 4: Zur Geltung vgl. § 36b Abs. 1 Satz 3 +++)
 
-(1) Ist die Anzeige nach § 32 vollständig, so bestätigt die zuständige Behörde dies dem Anzeigenden innerhalb von 14 Kalendertagen nach Eingang der Anzeige und teilt ihm das Eingangsdatum der Anzeige mit. Ist die Anzeige unvollständig, so fordert die zuständige Behörde den Anzeigenden innerhalb von 14 Kalendertagen nach Eingang der Anzeige einmalig auf, die von ihr benannten Mängel innerhalb einer Frist von zehn Kalendertagen nach Zugang der Aufforderung zu beheben. Innerhalb von zwölf Kalendertagen nach Eingang der ergänzenden Angaben oder Unterlagen schließt die zuständige Behörde im Falle von Satz 2 die Vollständigkeitsprüfung ab und teilt dem Anzeigenden das Ergebnis der Vollständigkeitsprüfung sowie das Eingangsdatum der ergänzenden Angaben oder Unterlagen mit.
+# § 33 – Beginn der angezeigten Anwendung
 
-(2) Die zuständige Behörde schließt die inhaltliche Prüfung der Anzeige innerhalb von 28 Kalendertagen nach der Bestätigung gemäß Absatz 1 Satz 1 oder der Mitteilung nach Absatz 1 Satz 3 ab. Hat die zuständige Behörde Einwände gegen die angezeigte Anwendung, so übermittelt sie dem Anzeigenden einmalig innerhalb des in Satz 1 genannten Zeitraums ihre mit Gründen versehenen Einwände und fordert ihn auf, seine Anzeige innerhalb von 21 Kalendertagen nach Zugang der Aufforderung entsprechend zu ändern. Im Falle von Satz 2 schließt die zuständige Behörde die inhaltliche Prüfung der Anzeige innerhalb von 21 Kalendertagen nach Eingang der geänderten oder ergänzten Anzeigeunterlagen ab.
+(1) Mit der angezeigten Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung darf begonnen werden, wenn
 
-(3) Mit der angezeigten Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung darf begonnen werden, wenn
+1. das arzneimittelrechtliche oder medizinprodukterechtliche Genehmigungs- oder Anzeigeverfahren wie folgt abgeschlossen wurde:
 
-1. der Zeitraum zur inhaltlichen Prüfung der Anzeige nach Absatz 2 verstrichen ist oder die zuständige Behörde dem Anzeigenden mitgeteilt hat, dass sie auf die Ausschöpfung dieser Frist verzichtet,
+a) für die klinische Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes oder die wesentliche Änderung einer klinischen Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes wurde eine Genehmigung erteilt oder gilt eine Genehmigung als erteilt oder
 
-2. die zuständige Behörde dem Anzeigenden den Eingang einer zustimmenden Stellungnahme einer Ethikkommission nach § 36 Absatz 1 bis 3 zu dem Forschungsvorhaben bestätigt hat und
+b) die klinische Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 oder die sonstige klinische Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes darf begonnen werden oder eine wesentliche Änderung der vorgenannten Prüfungen darf vorgenommen werden,
 
-3. die Anwendung nicht nach § 34 Absatz 1 untersagt wurde.
+2. die zuständige Behörde dem Anzeigenden den Eingang der zustimmenden Stellungnahme der zuständigen Ethik-Kommission zu dem Forschungsvorhaben bestätigt hat und
 
-Die zuständige Behörde hat dem Anzeigenden den Eingang einer zustimmenden Stellungnahme einer Ethikkommission nach § 36 zu dem Forschungsvorhaben unverzüglich zu bestätigen.
+3. die Anwendung nicht nach § 34 untersagt wurde.
 
-(4) Sobald nach Absatz 3 mit der Anwendung begonnen werden darf, gibt die für die Anzeige zuständige Behörde der zuständigen Aufsichtsbehörde den wesentlichen Inhalt der Anzeige unverzüglich zur Kenntnis.
+Die zuständige Behörde hat dem Anzeigenden den Eingang der zustimmenden Stellungnahme der zuständigen Ethik-Kommission zu dem Forschungsvorhaben unverzüglich zu bestätigen.
 
-# § 34 – Untersagung der angezeigten Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+(2) Sobald nach Absatz 1 mit der Anwendung begonnen werden darf, gibt die für die Anzeige zuständige Behörde der zuständigen Aufsichtsbehörde den wesentlichen Inhalt der Anzeige unverzüglich zur Kenntnis.
 
-(1) Innerhalb des Zeitraums der inhaltlichen Prüfung der Anzeige nach § 33 Absatz 2 Satz 1, auch in Verbindung mit den Sätzen 2 und 3, kann die zuständige Behörde die angezeigte Anwendung untersagen, wenn eine der in § 32 Absatz 2 bis 4 genannten Anforderungen nicht erfüllt ist.
+# § 34 – Untersagung der angezeigten Anwendung
 
-(2) Nach Ablauf des Zeitraums der inhaltlichen Prüfung kann die zuständige Behörde die angezeigte Anwendung untersagen, wenn
+Die zuständige Behörde untersagt die angezeigte Anwendung, wenn
 
-1. eine der in § 32 Absatz 2 bis 4 genannten Anforderungen nicht oder nicht mehr erfüllt ist und nicht in angemessener Zeit Abhilfe geschaffen wird,
+1. der zuständigen Behörde nach Ablauf der in § 36a Absatz 2 genannten Fristen oder im Fall von § 36b Absatz 1 Satz 2 zweite Alternative nach Ablauf der in § 36b Absatz 2 genannten Fristen keine Stellungnahme der zuständigen Ethik-Kommission vorliegt,
 
-2. der zuständigen Behörde nach Ablauf einer dem Anzeigenden mitgeteilten angemessenen Frist eine zustimmende Stellungnahme einer Ethikkommission nach § 36 Absatz 1 Satz 1 zu dem Forschungsvorhaben nicht vorliegt oder
+2. der zuständigen Behörde eine ablehnende Stellungnahme der zuständigen Ethik-Kommission vorliegt,
 
-3. gegen die Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen oder gegen die hierauf beruhenden Anordnungen und Verfügungen der Aufsichtsbehörden erheblich oder wiederholt verstoßen wird und nicht in angemessener Zeit Abhilfe geschaffen wird.
+3. die zuständige Ethik-Kommission mitteilt, dass die Voraussetzungen für eine zustimmende Stellungnahme nicht mehr erfüllt sind und nicht in angemessener Zeit Abhilfe geschaffen wird, oder
+
+4. die zuständige Aufsichtsbehörde mitteilt, dass gegen die Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen oder gegen die hierauf beruhenden Anordnungen und Verfügungen der Aufsichtsbehörde erheblich oder wiederholt verstoßen wurde.
+
+# § 34a – Eingeschränkte Zulassung der angezeigten Anwendung
+
+(1) Die zuständige Behörde kann die angezeigte Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung von Bedingungen abhängig machen, sie zeitlich befristen oder Auflagen für sie vorsehen, soweit dies erforderlich ist, um die Erfüllung der in § 32 Absatz 1, 2 und 3 genannten Anforderungen sicherzustellen.
+
+(2) Die zuständige Behörde gibt der zuständigen Aufsichtsbehörde Bedingungen, Befristungen oder Auflagen unverzüglich zur Kenntnis.
 
 # § 35 – Deckungsvorsorge bei der anzeigebedürftigen Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
 
@@ -921,13 +1008,17 @@ Die zuständige Behörde hat dem Anzeigenden den Eingang einer zustimmenden Stel
 
 (3) Abweichend von Absatz 1 kann der Nachweis über die erforderliche Deckungsvorsorge durch den Nachweis des Bestehens einer Versicherung zugunsten der von der klinischen Prüfung betroffenen Personen nach dem Arzneimittelgesetz oder nach dem Medizinprodukterecht-Durchführungsgesetz erbracht werden.
 
-# § 36 – Ethikkommission
+# § 36 – Aufgabe der Ethik-Kommission
 
-(1) Eine im Anwendungsbereich dieses Gesetzes tätige Ethikkommission muss unabhängig, interdisziplinär besetzt, nach Landesrecht gebildet und bei der zuständigen Behörde registriert sein. Die Ethikkommission muss aus medizinischen Sachverständigen und nichtmedizinischen Mitgliedern bestehen, die die jeweils erforderliche Fachkompetenz aufweisen. Eine Registrierung erfolgt nur, wenn die Mitglieder, das Verfahren und die Anschrift der Ethikkommission in einer veröffentlichten Verfahrensordnung aufgeführt sind. Veränderungen der Zusammensetzung der Kommission, des Verfahrens oder der übrigen Festlegungen der Verfahrensordnung sind der für die Registrierung zuständigen Behörde unverzüglich mitzuteilen.
+(1) Im Anwendungsbereich dieses Gesetzes dürfen nur öffentlich-rechtliche, nach Landesrecht gebildete Ethik-Kommissionen und die Spezialisierte Ethik-Kommission für besondere Verfahren nach § 41c des Arzneimittelgesetzes Stellungnahmen abgeben. Sie müssen unabhängig und interdisziplinär besetzt sein und aus medizinischen Sachverständigen und nichtmedizinischen Mitgliedern bestehen, die die jeweils erforderliche Fachkompetenz aufweisen. Bei der Prüfung und Bewertung der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung müssen folgende Personen beteiligt werden:
 
-(2) Aufgabe der Ethikkommission ist es, auf Veranlassung des Antragstellers oder des Anzeigenden das Forschungsvorhaben nach ethischen und rechtlichen Gesichtspunkten mit mindestens fünf Mitgliedern mündlich zu beraten und innerhalb von 60 Kalendertagen nach Eingang der erforderlichen Unterlagen eine schriftliche Stellungnahme dazu abzugeben. Bei Multi-Center-Studien genügt die Stellungnahme einer Ethikkommission. Wird das Forschungsvorhaben durch eine Ethikkommission sowohl nach Arzneimittelrecht oder Medizinprodukterecht als auch nach diesem Gesetz geprüft, soll die Stellungnahme sowohl die arzneimittelrechtliche oder medizinprodukterechtliche als auch die strahlenschutzrechtliche Bewertung enthalten.
+1. bei Forschungsvorhaben, in die ausschließlich volljährige Menschen eingeschlossen werden, ein Mitglied, ein stellvertretendes Mitglied oder ein unabhängiger Sachverständiger, das oder der für das zu prüfende Anwendungsgebiet die erforderliche Fachkunde im Strahlenschutz besitzt,
 
-(3) Die Ethikkommission prüft und bewertet, ob das Forschungsvorhaben ethisch vertretbar ist. Sie gibt eine Stellungnahme dazu ab, ob
+2. bei Forschungsvorhaben, in die minderjährige Menschen eingeschlossen werden, zwei Mitglieder, zwei stellvertretende Mitglieder oder zwei unabhängige Sachverständige, die für das zu prüfende Anwendungsgebiet die erforderliche Fachkunde im Strahlenschutz besitzen und über eine besondere praktische Erfahrung bei der Untersuchung oder Behandlung von Minderjährigen im Rahmen des zu prüfenden Anwendungsgebiets verfügen.
+
+(2) Aufgabe der Ethik-Kommission ist es, das Forschungsvorhaben nach ethischen und rechtlichen Gesichtspunkten mit mindestens fünf Mitgliedern mündlich zu beraten und eine schriftliche Stellungnahme dazu abzugeben. Bei Multi-Center-Studien genügt die Stellungnahme einer Ethik-Kommission. Wird das Forschungsvorhaben durch eine Ethik-Kommission sowohl nach Arzneimittelrecht oder Medizinprodukterecht als auch nach diesem Gesetz geprüft, soll die Stellungnahme sowohl die arzneimittelrechtliche oder medizinprodukterechtliche als auch die strahlenschutzrechtliche Bewertung enthalten.
+
+(3) Die Ethik-Kommission prüft und bewertet, ob das Forschungsvorhaben ethisch vertretbar ist. Sie gibt eine Stellungnahme dazu ab, ob
 
 1. das Forschungsvorhaben geeignet ist, nach dem Stand der Wissenschaft einem wissenschaftlichen Erkenntnisgewinn zu dienen,
 
@@ -935,11 +1026,51 @@ Die zuständige Behörde hat dem Anzeigenden den Eingang einer zustimmenden Stel
 
 3. das Risiko für die einzelne Person im Hinblick auf den potentiellen Nutzen für die Gesellschaft vertretbar ist,
 
-4. die Einbeziehung vertretbar ist, soweit eine besonders schutzbedürftige Personengruppe in das Forschungsvorhaben einbezogen werden soll, und
+4. die Einbeziehung vertretbar ist, soweit eine besonders schutzbedürftige Personengruppe in das Forschungsvorhaben einbezogen werden soll,
 
-5. die schriftliche Information über das Forschungsvorhaben, die die in das Forschungsvorhaben eingeschlossene Person, ihr gesetzlicher Vertreter oder der Bevollmächtigte erhält, ausreichend über Nutzen und Risiken aufklärt und somit eine informierte Einwilligung ermöglicht.
+5. die schriftliche Information über das Forschungsvorhaben, die die in das Forschungsvorhaben eingeschlossene Person, ihr gesetzlicher Vertreter oder der Bevollmächtigte erhält, ausreichend über Nutzen und Risiken aufklärt und somit eine informierte Einwilligung ermöglicht und
 
-(4) Rechtsbehelfe gegen Stellungnahmen der Ethikkommission können nur gleichzeitig mit den gegen die Sachentscheidung zulässigen Rechtsbehelfen geltend gemacht werden.
+6. bei einer nach § 32 anzeigebedürftigen Anwendung die in § 32 Absatz 1, 2 und 3 genannten Anforderungen erfüllt sind.
+
+Im Fall einer nach § 32 anzeigebedürftigen Anwendung ist die zuständige Behörde an die Stellungnahme der zuständigen Ethik-Kommission gebunden.
+
+(3a) Die Stellungnahme der zuständigen Ethik-Kommission muss ein klares Votum im Sinne einer Zustimmung, einer Zustimmung unter einer Bedingung, Befristung oder Auflage oder einer Ablehnung der anzeige- oder genehmigungsbedürftigen Anwendung enthalten.
+
+(4) Rechtsbehelfe gegen Stellungnahmen der Ethik-Kommission können nur gleichzeitig mit den gegen die Sachentscheidung zulässigen Rechtsbehelfen geltend gemacht werden.
+
+# § 36a – Prüfung einer anzeige- oder genehmigungsbedürftigen Anwendung im Rahmen einer klinischen Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes
+
+(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte unterrichtet die zuständige Ethik-Kommission unverzüglich, spätestens jedoch an dem auf den Eingang der Anzeige nach § 32 Absatz 1a Satz 1 Nummer 1 oder des Genehmigungsantrags nach § 31a Absatz 1 Satz 1 Nummer 1 im EU-Portal im Sinne des § 4 Absatz 42 des Arzneimittelgesetzes folgenden Werktag, über die Anzeige oder den Genehmigungsantrag und gewährt ihr gleichzeitig Zugriff auf die für die Wahrnehmung ihrer Aufgaben notwendigen Angaben und Unterlagen.
+
+(2) Die zuständige Ethik-Kommission prüft die Vollständigkeit der Unterlagen innerhalb der Fristen nach § 31b Absatz 1 Satz 1 bis 3. § 31b Absatz 1 Satz 4 und 5 gilt entsprechend. Sie erstellt die Stellungnahme innerhalb der Fristen nach § 31b Absatz 2, Absatz 3 Satz 1 und 2 und Absatz 4 Satz 1. § 31b Absatz 3 Satz 3, Absatz 4 Satz 2 und Absatz 6 gilt entsprechend.
+
+(3) Die zuständige Ethik-Kommission übermittelt die Stellungnahme sowohl dem Antragsteller oder Anzeigenden als auch der zuständigen Behörde.
+
+# § 36b – Prüfung einer anzeige- oder genehmigungsbedürftigen Anwendung im Rahmen einer klinischen Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 oder einer sonstigen klinischen Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes
+
+(1) Bevor der Antragsteller den Genehmigungsantrag oder der Anzeigende die Anzeige bei der zuständigen Behörde einreicht, hat er über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 des Medizinprodukterecht-Durchführungsgesetzes die Stellungnahme bei der zuständigen Ethik-Kommission zu beantragen. Abweichend von Satz 1 kann der Antragsteller im Fall von § 31 Satz 2 oder der Anzeigende im Fall von § 32 Absatz 1 Satz 2 den Antrag auf Erstellung einer Stellungnahme der zuständigen Ethik-Kommission gleichzeitig mit dem Genehmigungsantrag oder der Anzeige stellen. Für das Verfahren bei der Ethik-Kommission gilt im Fall einer nach § 31 genehmigungsbedürftigen Anwendung § 31a Absatz 2 und Absatz 3 Satz 1 sowie im Fall einer nach § 32 Absatz 1 anzeigebedürftigen Anwendung § 32 Absatz 1b und Absatz 2 bis 4 entsprechend.
+
+(2) Für die Frist zur Stellungnahme der zuständigen Ethik-Kommission gelten folgende Vorschriften entsprechend:
+
+1. § 36 Absatz 1 bis 3 des Medizinprodukterecht-Durchführungsgesetzes, wenn die anzeige- oder genehmigungsbedürftige Anwendung im Rahmen einer klinischen Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 erfolgen soll,
+
+2. § 41 Absatz 3 des Medizinprodukterecht-Durchführungsgesetzes, wenn die nach § 31 Satz 2 genehmigungsbedürftige oder nach § 32 Absatz 1 Satz 2 anzeigebedürftige wesentliche Abweichung von einer Anwendung im Rahmen einer klinischen Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 erfolgen soll,
+
+3. § 51 Absatz 1 bis 3 des Medizinprodukterecht-Durchführungsgesetzes, wenn die anzeige- oder genehmigungsbedürftige Anwendung im Rahmen einer sonstigen klinischen Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes erfolgen soll,
+
+4. § 58 Absatz 1 des Medizinprodukterecht-Durchführungsgesetzes, wenn die nach § 31 Satz 2 genehmigungsbedürftige oder nach § 32 Absatz 1 Satz 2 anzeigebedürftige wesentliche Abweichung von einer Anwendung im Rahmen einer sonstigen klinischen Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes erfolgen soll.
+
+(3) Verlängert sich nach § 36 Absatz 3 Satz 1, § 41 Absatz 3 Satz 2 oder § 51 Absatz 3 Satz 1 des Medizinprodukterecht-Durchführungsgesetzes die Frist zur Erstellung der medizinprodukterechtlichen Stellungnahme der Ethik-Kommission oder ist der Ablauf der Frist nach § 36 Absatz 2, § 51 Absatz 2 oder § 58 Absatz 1 Satz 2 des Medizinprodukterecht-Durchführungsgesetzes gehemmt, verlängert sich auch die der zuständigen Ethik-Kommission zur Erstellung der strahlenschutzrechtlichen Stellungnahme zustehende Frist entsprechend oder ist deren Ablauf entsprechend gehemmt.
+
+(4) Die zuständige Ethik-Kommission übermittelt die Stellungnahme sowohl dem Antragsteller oder Anzeigenden als auch der zuständigen Behörde.
+
+# § 36c – Prüfung einer sonstigen Anwendung
+
+(1) Finden weder § 36a noch § 36b Anwendung, hat der Antragsteller die Stellungnahme bei der nach Landesrecht zuständigen Ethik-Kommission zu beantragen. § 31a Absatz 2 und 3 Satz 1 gilt entsprechend.
+
+(2) Die zuständige Ethik-Kommission prüft die Vollständigkeit der Unterlagen innerhalb der Fristen nach § 31b Absatz 1 Satz 1 bis 3. § 31b Absatz 1 Satz 4 und 5 gilt entsprechend. Sie erstellt die Stellungnahme innerhalb der Fristen nach § 31b Absatz 2, Absatz 3 Satz 1 und 2 und Absatz 4 Satz 1. § 31b Absatz 3 Satz 3, Absatz 4 Satz 2 und Absatz 6 gilt entsprechend.
+
+(3) Die zuständige Ethik-Kommission übermittelt die Stellungnahme sowohl dem Antragsteller als auch der zuständigen Behörde.
 
 # § 37 – Verordnungsermächtigung
 
@@ -962,6 +1093,8 @@ Die zuständige Behörde hat dem Anzeigenden den Eingang einer zustimmenden Stel
 8. Mitteilungs- und Berichtspflichten.
 
 Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung festlegen, für deren Einhaltung der Strahlenschutzverantwortliche zu sorgen hat.
+
+(1a) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates weitere Regelungen für das Verfahren der Anzeige und Genehmigung von Anwendungen radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung, insbesondere hinsichtlich der Zusammenarbeit zwischen den für die Prüfung dieser Anzeigen und Genehmigungen zuständigen Behörden und den Ethik-Kommissionen und hinsichtlich der technischen Umsetzung des Verfahrens, festzulegen. Die Rechtsverordnung nach Satz 1 bedarf des Einvernehmens mit dem Bundesministerium für Gesundheit, soweit die Rechtsverordnung nach § 31 genehmigungsbedürftige oder nach § 32 anzeigebedürftige Anwendungen radioaktiver Stoffe oder ionisierender Strahlung betrifft, die im Rahmen einer klinischen Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes, einer klinischen Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 oder einer sonstigen klinischen Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes erfolgen sollen. Die Rechtverordnung bedarf des Benehmens mit dem Bundesministerium für Bildung und Forschung.
 
 (2) Das Grundrecht auf körperliche Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) wird nach Maßgabe des Absatzes 1 Satz 2 Nummer 3 und 4 eingeschränkt.
 
@@ -1854,7 +1987,7 @@ In der Rechtsverordnung können Verwaltungsbehörden des Bundes Aufgaben zur Qua
 
 (3) Die Anwendung darf erst durchgeführt werden, nachdem ein Arzt oder Zahnarzt mit der erforderlichen Fachkunde im Strahlenschutz entschieden hat, dass und auf welche Weise die Anwendung durchzuführen ist (rechtfertigende Indikation). Die rechtfertigende Indikation erfordert bei Anwendungen im Rahmen einer medizinischen Exposition die Feststellung, dass der gesundheitliche Nutzen der einzelnen Anwendung gegenüber dem Strahlenrisiko überwiegt. Die rechtfertigende Indikation erfordert bei nichtmedizinischen Anwendungen die Feststellung, dass der mit der jeweiligen Untersuchung verbundene Nutzen gegenüber dem Strahlenrisiko überwiegt. Die rechtfertigende Indikation darf nur gestellt werden, wenn der Arzt oder Zahnarzt, der die Indikation stellt, die Person, an der ionisierende Strahlung oder radioaktive Stoffe angewendet werden, vor Ort persönlich untersuchen kann, es sei denn, es liegt ein Fall der Teleradiologie nach § 14 Absatz 2 vor.
 
-(4) Absatz 3 gilt nicht für Untersuchungen mit Röntgenstrahlung nach dem Infektionsschutzgesetz und für Anwendungen am Menschen zum Zweck der medizinischen Forschung nach § 31 Absatz 1 oder § 32 Absatz 1.
+(4) Absatz 3 gilt nicht für Untersuchungen mit Röntgenstrahlung nach dem Infektionsschutzgesetz und für Anwendungen am Menschen zum Zweck der medizinischen Forschung nach § 31 oder § 32 Absatz 1.
 
 (5) Die Exposition durch eine Untersuchung mit ionisierender Strahlung oder radioaktiven Stoffen ist so weit einzuschränken, wie dies mit den Erfordernissen der medizinischen Wissenschaft zu vereinbaren ist. Bei der Anwendung ionisierender Strahlung oder radioaktiver Stoffe zur Behandlung von Menschen ist die Dosis außerhalb des Zielvolumens so niedrig zu halten, wie dies unter Berücksichtigung des Behandlungsziels möglich ist. Satz 1 gilt entsprechend für nichtmedizinische Anwendungen.
 
@@ -3484,7 +3617,7 @@ Im Anwendungsbereich dieses Gesetzes und der auf dieses Gesetz gestützten Recht
 
 # § 177 – Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen
 
-Im Anwendungsbereich dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen richtet sich die Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen nach den §§ 13 bis 15 des Atomgesetzes und nach der Atomrechtlichen Deckungsvorsorge-Verordnung. § 35 bleibt unberührt. Abweichend von § 13 Absatz 1 Satz 2 des Atomgesetzes kann die zuständige Behörde bei Tätigkeiten nach § 12 Absatz 1 Nummer 1, 2 oder 3 und § 31 Absatz 1 auf eine erneute Festsetzung der Deckungsvorsorge verzichten, wenn die Überprüfung der Deckungsvorsorge ergeben hat, dass die Deckungssumme noch ausreichend bemessen ist.
+Im Anwendungsbereich dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen richtet sich die Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen nach den §§ 13 bis 15 des Atomgesetzes und nach der Atomrechtlichen Deckungsvorsorge-Verordnung. § 35 bleibt unberührt. Abweichend von § 13 Absatz 1 Satz 2 des Atomgesetzes kann die zuständige Behörde bei Tätigkeiten nach § 12 Absatz 1 Nummer 1, 2 oder 3 und § 31 auf eine erneute Festsetzung der Deckungsvorsorge verzichten, wenn die Überprüfung der Deckungsvorsorge ergeben hat, dass die Deckungssumme noch ausreichend bemessen ist.
 
 # § 178 – Strahlenschutzrechtliche Aufsicht
 
@@ -3505,6 +3638,8 @@ Die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsve
 2. § 19 Absatz 1 Satz 2 bis 4, Absatz 2 Satz 1 bis 3 und Absatz 3 bis 5 des Atomgesetzes über die staatliche Aufsicht und
 
 3. § 20 des Atomgesetzes über Sachverständige.
+
+§ 31c Absatz 2 bleibt unberührt.
 
 (2) Die zuständige Behörde kann im Einzelfall diejenigen Maßnahmen zur Durchführung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen anordnen, die zum Schutz vor der schädlichen Wirkung ionisierender Strahlung erforderlich sind. Satz 1 gilt nicht, soweit Absatz 1 Nummer 2 in Verbindung mit § 19 Absatz 3 des Atomgesetzes oder die in diesem Gesetz oder den auf dieses Gesetz gestützten Rechtsverordnungen vorgesehenen speziellen Anordnungsbefugnisse anwendbar sind. Satz 1 gilt zudem nicht für Teil 3 Kapitel 1 und Teil 4 Kapitel 1 mit Ausnahme
 
@@ -3556,7 +3691,13 @@ Die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsve
 
 3. für die in der Kostenverordnung zum Atomgesetz und zum Strahlenschutzgesetz näher bestimmten sonstigen Aufsichtsmaßnahmen nach § 179 Absatz 1 Nummer 2 in Verbindung mit § 19 des Atomgesetzes,
 
-4. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach § 185 Absatz 1 Nummer 1 bis 8 zuständig ist,
+4. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach § 185 Absatz 1 Nummer 1, 3 bis 6 und 8 zuständig ist,
+
+4a. für wissenschaftliche Beratungen des Bundesamts für Strahlenschutz im Vorfeld der Stellung eines Antrags auf Genehmigung von Anwendungen radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung,
+
+4b. für Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesinstituts für Arzneimittel und Medizinprodukte und des Paul-Ehrlich-Instituts, soweit diese nach § 190a zuständig sind,
+
+4c. für die Erstellung der Stellungnahme der zuständigen Ethik-Kommission nach § 36,
 
 5. für Entscheidungen des Bundesamtes für die Sicherheit der nuklearen Entsorgung über Anträge nach § 27 Absatz 1, soweit es nach § 186 Absatz 1 zuständig ist,
 
@@ -3614,13 +3755,23 @@ soweit nicht der Bund nach den aufgeführten Vorschriften dieses Gesetzes oder d
 
 (2) Vorbehaltlich des § 81 Satz 3, der §§ 185 bis 192 sowie des Absatzes 1 werden die Verwaltungsaufgaben nach diesem Gesetz und den hierzu ergehenden Rechtsverordnungen im Auftrag des Bundes durch die Länder ausgeführt.
 
+# § 184a – Zuständigkeit der Ethik-Kommission
+
+Die Aufgaben der Ethik-Kommission nach diesem Gesetz nehmen folgende Ethik-Kommissionen wahr:
+
+1. die für die klinische Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes zuständige Ethik-Kommission, sofern die Anwendung im Rahmen einer klinischen Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes erfolgen soll,
+
+2. die für die klinische Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 oder für die Prüfung einer sonstigen klinischen Prüfung im Sinne von § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes zuständige Ethik-Kommission, sofern die Anwendung im Rahmen einer solchen klinischen Prüfung oder sonstigen klinischen Prüfung erfolgen soll,
+
+3. im Übrigen die nach Landesrecht zuständige Ethik-Kommission.
+
 # § 185 – Zuständigkeit des Bundesamtes für Strahlenschutz; Verordnungsermächtigung
 
 (1) Das Bundesamt für Strahlenschutz ist zuständig für
 
 1. die Genehmigung für die Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung sowie die Rücknahme und den Widerruf der Genehmigung,
 
-2. die Prüfung der Anzeige der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung sowie die Untersagung der Anwendung,
+2. (weggefallen)
 
 3. die Prüfung der Anzeige des Betriebs von Raumfahrzeugen sowie die Untersagung des Betriebs,
 
@@ -3630,7 +3781,7 @@ soweit nicht der Bund nach den aufgeführten Vorschriften dieses Gesetzes oder d
 
 6. die Überwachung der Einhaltung der Anforderungen zum Schutz vor Expositionen von Personen durch kosmische Strahlung beim Betrieb von Raumfahrzeugen nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung, einschließlich der Bescheinigung der erforderlichen Fachkunde im Strahlenschutz sowie der Anerkennung von Kursen zu deren Erwerb,
 
-7. die Einrichtung und Führung eines Registers über Ethikkommissionen, die Forschungsvorhaben zur Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung bewerten, die Registrierung der Ethikkommissionen und den Widerruf der Registrierung,
+7. (weggefallen)
 
 8. die Einrichtung und Führung des Registers über berufliche Expositionen,
 
@@ -3718,6 +3869,14 @@ Das Luftfahrt-Bundesamt ist zuständig für
 
 § 24 Absatz 1 Satz 2 und 3 des Atomgesetzes über die Zuständigkeit des Eisenbahn-Bundesamtes gilt entsprechend für die Beaufsichtigung und Genehmigung der Beförderung sonstiger radioaktiver Stoffe. Die Zuständigkeit für die Genehmigung der Beförderung von Großquellen bestimmt sich nach § 186 Absatz 1.
 
+# § 190a – Zuständigkeit des Bundesinstituts für Arzneimittel und Medizinprodukte und des Paul-Ehrlich-Instituts
+
+(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist zuständig für die Prüfung der Anzeige der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung sowie für die Untersagung oder eingeschränkte Zulassung der Anwendung.
+
+(2) Für die in Absatz 1 genannten Aufgaben ist abweichend von Absatz 1 das Paul-Ehrlich-Institut zuständig, sofern die Anwendung radioaktiver Stoffe oder ionisierender Strahlung im Rahmen einer klinischen Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes durchgeführt werden soll, für deren Genehmigung das Paul-Ehrlich-Institut nach § 77 Absatz 2 des Arzneimittelgesetzes, auch in Verbindung mit einer Rechtsverordnung nach § 77 Absatz 4 des Arzneimittelgesetzes, zuständig ist.
+
+(3) Die Rechts- und Fachaufsicht über das Bundesinstitut für Arzneimittel und Medizinprodukte und das Paul-Ehrlich-Institut bei der Wahrnehmung ihrer Aufgaben nach diesem Gesetz obliegt dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz. Soweit durch die Ausübung der Rechts- und Fachaufsicht wissenschaftliche Belange dieser Behörden oder ihre strategische Ausrichtung berührt werden, ist ein Einvernehmen mit dem Bundesministerium für Gesundheit herzustellen.
+
 # § 191 – Geschäftsbereich des Bundesministeriums der Verteidigung
 
 (1) Abweichend von § 189 sind bei dem Betrieb von Luftfahrzeugen, die im Geschäftsbereich des Bundesministeriums der Verteidigung betrieben werden, dieses Bundesministerium oder die von ihm bezeichneten Dienststellen für die Aufgaben nach § 189 Nummer 1 und 3 zuständig.
@@ -3758,7 +3917,7 @@ Die zuständigen Behörden verfügen über die zur Erfüllung ihrer gesetzlichen
 
 a) § 6 Absatz 3, § 24 Satz 1 Nummer 3, 4, 7 Buchstabe a oder Nummer 8 oder Satz 2, § 37 Absatz 1 Satz 1, 2 Nummer 2 bis 5 oder 6 oder Satz 3, § 49 Nummer 4 oder 5, § 61 Absatz 2 Satz 2, § 62 Absatz 6 Nummer 3, § 63 Absatz 3, § 65 Absatz 2, § 68 Absatz 1 Satz 1, § 72 Absatz 2 Satz 2, § 76 Absatz 1 Satz 1, 2 Nummer 1, 2, 6, 7, 8, 10, 11, 13, 15 oder 16 oder Satz 3, § 79 Absatz 1 Satz 1, 2 Nummer 1 bis 3 oder 4, 6, 8 oder 12 oder Satz 3, § 81 Satz 1, 2 Nummer 5, 7, 8, 9 oder 10 oder Satz 4, § 82 Absatz 1 Nummer 1 oder 3, § 84 Absatz 2, § 86 Satz 1, 2 Nummer 2, 4, 5, 6, 9 bis 14 oder 15 oder 19 oder Satz 5, den §§ 87, 89 Satz 1 Nummer 2, 3, 4, 5, 7, 8, 9 oder 11 oder Satz 2, § 90 Absatz 1 Satz 1 oder Satz 2 Nummer 1 oder 2, § 95 Absatz 2 Satz 1 oder Absatz 3, § 123 Absatz 2, § 143 Absatz 1 Satz 3, § 169 Absatz 4 Nummer 1, 2 oder 3, § 174,
 
-b) § 24 Satz 1 Nummer 1, 2, 5, 6 oder 9, § 37 Absatz 1 Satz 2 Nummer 1, 7 oder 8, § 38 Absatz 2 Nummer 1, § 68 Absatz 1 Satz 2, den §§ 73, 74 Absatz 3 oder 4 Nummer 1, 2, 4, 5 oder 6, § 76 Absatz 1 Satz 2 Nummer 3, 4, 5, 9, 12 oder 17, § 79 Absatz 1 Satz 2 Nummer 5, 7, 10, 11 oder 12, § 81 Satz 2 Nummer 1, 2, 3 oder 4, § 82 Absatz 1 Nummer 2 oder 4, § 85 Absatz 4, § 86 Satz 2 Nummer 1, 3, 7, 8, 16, 17 oder 18 oder Satz 3 oder 4, § 88 Absatz 6, § 89 Satz 1 Nummer 1, 6, 10 oder 12, § 90 Absatz 1 Satz 2 Nummer 3 oder 4, den §§ 91, 124 Satz 3, den §§ 132, 135 Absatz 1 Satz 3, § 136 Absatz 2, § 139 Absatz 4, § 169 Absatz 4 Nummer 4, 5 oder 6, § 170 Absatz 9 Nummer 2 oder 3, den §§ 171, 172 Absatz 4, § 173 oder § 175 Absatz 2,
+b) § 24 Satz 1 Nummer 1, 2, 5, 6 oder 9, § 37 Absatz 1 Satz 2 Nummer 1, 7 oder Nummer 8 oder Absatz 1a Satz 1, § 38 Absatz 2 Nummer 1, § 68 Absatz 1 Satz 2, den §§ 73, 74 Absatz 3 oder 4 Nummer 1, 2, 4, 5 oder 6, § 76 Absatz 1 Satz 2 Nummer 3, 4, 5, 9, 12 oder 17, § 79 Absatz 1 Satz 2 Nummer 5, 7, 10, 11 oder 12, § 81 Satz 2 Nummer 1, 2, 3 oder 4, § 82 Absatz 1 Nummer 2 oder 4, § 85 Absatz 4, § 86 Satz 2 Nummer 1, 3, 7, 8, 16, 17 oder 18 oder Satz 3 oder 4, § 88 Absatz 6, § 89 Satz 1 Nummer 1, 6, 10 oder 12, § 90 Absatz 1 Satz 2 Nummer 3 oder 4, den §§ 91, 124 Satz 3, den §§ 132, 135 Absatz 1 Satz 3, § 136 Absatz 2, § 139 Absatz 4, § 169 Absatz 4 Nummer 4, 5 oder 6, § 170 Absatz 9 Nummer 2 oder 3, den §§ 171, 172 Absatz 4, § 173 oder § 175 Absatz 2,
 
 c) § 24 Satz 1 Nummer 7 Buchstabe b oder § 30 Satz 1 oder 2
 
@@ -3784,7 +3943,7 @@ h) § 25 Absatz 1 Satz 1 in einer dort genannten Anlage eine Person beschäftigt
 
 i) § 27 Absatz 1 Satz 1 sonstige radioaktive Stoffe auf öffentlichen oder der Öffentlichkeit zugänglichen Verkehrswegen befördert,
 
-j) § 31 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, radioaktive Stoffe oder ionisierende Strahlung am Menschen anwendet,
+j) § 31 Satz 1, auch in Verbindung mit Satz 2, radioaktive Stoffe oder ionisierende Strahlung am Menschen anwendet,
 
 k) § 40 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, radioaktive Stoffe zusetzt,
 
@@ -3966,9 +4125,13 @@ Eine Anzeige der Aufgabenwahrnehmung im Zusammenhang mit dem Betrieb einer fremd
 
 (2) Eine nach § 23 Absatz 1 in Verbindung mit § 24 Absatz 2 der Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung oder nach § 28a Absatz 1 in Verbindung mit § 28b Absatz 2 der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung genehmigte Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung gilt als Anzeige nach § 32 fort.
 
-(3) Vor dem 31. Dezember 2018 begonnene Genehmigungsverfahren nach § 23 Absatz 1 in Verbindung mit § 24 Absatz 2 der Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung oder nach § 28a Absatz 1 in Verbindung mit § 28b Absatz 2 der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung werden nach Maßgabe der vor dem 31. Dezember 2018 geltenden Vorschriften abgeschlossen. Für Genehmigungen nach Satz 1 gilt Absatz 2 entsprechend.
+(2a) Eine nach § 31 in der bis zum Ablauf des 30. Juni 2025 geltenden Fassung erteilte Genehmigung einer Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung gilt als Anzeige fort, wenn diese Anwendung nach § 32 nur noch anzeigebedürftig ist.
 
-(4) Registrierungen von Ethikkommissionen nach § 92 der Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung oder nach § 28g der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung gelten als Registrierungen nach § 36 Absatz 1 dieses Gesetzes fort.
+(2b) Eine nach § 32 in der bis zum Ablauf des 30. Juni 2025 geltenden Fassung angezeigte Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung, die nach § 31 genehmigungsbedürftig ist, darf fortgeführt werden. Eine wesentliche Abweichung von der nach Satz 1 angezeigten Anwendung wird nach Maßgabe der bis zum Ablauf des 30. Juni 2025 geltenden Vorschriften behandelt.
+
+(3) Bis zum Ablauf des 30. Juni 2025 begonnene Genehmigungsverfahren nach § 31 und Anzeigeverfahren nach § 32 werden nach Maßgabe der bis zum Ablauf des 30. Juni 2025 geltenden Vorschriften abgeschlossen. Für Genehmigungen nach Satz 1 gilt Absatz 2a entsprechend. Für Anzeigen nach Satz 1 gilt Absatz 2b entsprechend.
+
+(4) (weggefallen)
 
 # § 206 – Genehmigungsbedürftiger Zusatz radioaktiver Stoffe und genehmigungsbedürftige Aktivierung (§ 40)
 

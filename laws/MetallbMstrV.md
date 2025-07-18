@@ -1,232 +1,522 @@
-% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Metallbauer-Handwerk  (Metallbauermeisterverordnung - MetallbMstrV)
-% Ausfertigungsdatum: 22.03.2002
+% Verordnung über die Meisterprüfung in den Teilen I und II im Metallbauer-Handwerk  (Metallbauermeisterverordnung - MetallbMstrV)
+% Ausfertigungsdatum: 02.12.2024
  
 # Eingangsformel
 
-Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der zuletzt durch Artikel 2 Nummer 1 des Gesetzes vom 9. November 2022 (BGBl. I S. 2009) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-# § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gegenstand
 
-(1) Die Meisterprüfung im Metallbauer-Handwerk umfasst folgende selbständige Prüfungsteile:
+Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in den Teilen I und II der Meisterprüfung zu stellenden Anforderungen sowie die Bestimmungen zur Durchführung der Meisterprüfung im Metallbauer-Handwerk in folgenden Schwerpunkten:
 
-1. die Prüfung der meisterhaften Verrichtung der gebräuchlichen Arbeiten (Teil I),
+1. Konstruktionstechnik, dieser umfasst die Planung, die Herstellung und die Instandhaltung von Metallkonstruktionen, auch im Verbund mit nichtmetallischen Werkstoffen, insbesondere von Treppen, von Balkonen, von Umwehrungen, von Toren, von Fördersystemen, von Anlagenbauten, von Stahlbauten, von Fassaden oder Fassadenteilen, von stromerzeugenden Fassadenelementen sowie von begrünbaren Fassadenelementen, von Fenstern und Türen, von Schließsystemen und von Sicherungssystemen sowie von konstruktiven Bauteilen,
 
-2. die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
+2. Metallgestaltung, dieser umfasst die Planung, die Konstruktion, die Herstellung sowie die Restaurierung und Konservierung von Bauteilen aus Metallen, auch im Verbund mit Nicht-Metallen mit besonderem auf Kundenwunsch bezogenen Gestaltungsanspruch, insbesondere bei der Oberflächenbehandlung und der Verbindung von Bauelementen, auch unter Verwendung von traditionellen Verfahren und Techniken in zeitgemäßer Gestaltung,
 
-3. die Prüfung der erforderlichen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
-
-4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
-
-(2) Für die Meisterprüfung in Teil I im Metallbauer-Handwerk werden die Schwerpunkte Konstruktionstechnik, Metallgestaltung und Nutzfahrzeugbau gebildet; der Prüfling hat einen dieser Schwerpunkte auszuwählen.
+3. Nutz- und Sonderfahrzeugbau, dieser umfasst die Konstruktion, die Herstellung, die Ausrüstung, den Umbau und die Instandhaltung sowie die Schadensanalysen an Nutz- und Sonderfahrzeugen, insbesondere in Bezug auf Aufbauten sowie auf Anbauten, auf Anhänger, auf Krane, auf Ladebordwände und auf Ladungsträger.
 
 # § 2 – Meisterprüfungsberufsbild
 
-(1) Durch die Meisterprüfung im Metallbauer-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
+(1) In den Teilen I und II der Meisterprüfung im Metallbauer-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
-(2) Allen Schwerpunkten im Metallbauer-Handwerk werden zum Zwecke der Meisterprüfung folgende gemeinsame Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
+1. einen Betrieb im Metallbauer-Handwerk führen und organisieren und dabei technische, kaufmännische und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung
 
-1. Kundenwünsche ermitteln, Kunden beraten, Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen kalkulieren und Angebote erstellen,
+a) der Kostenstrukturen,
 
-2. Aufgaben der technischen und kaufmännischen Betriebsführung, der Betriebsorganisation, der Personalplanung und des Personaleinsatzes wahrnehmen, insbesondere unter Berücksichtigung der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, der Haftung sowie des Arbeitsschutzes, der Arbeitssicherheit und des Umweltschutzes; Informationssysteme nutzen,
+b) der Wettbewerbssituation,
 
-3. Aufträge durchführen unter Berücksichtigung von Fertigungstechniken, Normen, Vorschriften sowie des Personalbedarfs und der Ausbildung; Auftragsbearbeitung und Auftragsabwicklung organisieren, planen und überwachen,
+c) der für den Betrieb wesentlichen Aus-, Fort- und Weiterbildung des Personals,
 
-4. technische Arbeitspläne und -prozesse, Skizzen und technische Zeichnungen, insbesondere unter Einsatz von rechnergestützten Systemen erstellen,
+d) der Betriebsorganisation,
 
-5. Festigkeit, Statik und Dynamik bei der Anfertigung von Metallbauarbeiten berücksichtigen,
+e) des Qualitätsmanagements,
 
-6. Arten und Eigenschaften zu verarbeitender Werkstoffe einschließlich der Verfahren zur Oberflächenbehandlung bei der Planung, Konstruktion und Fertigung berücksichtigen,
+f) des Arbeitsschutzrechtes,
 
-7. elektronische, elektrotechnische, hydraulische, pneumatische und steuerungstechnische Lösungen erarbeiten,
+g) des Datenschutzes, der Datensicherheit und der Datenverarbeitung,
 
-8. manuelle, maschinelle und programmgesteuerte Be- und Verarbeitungsverfahren sowie Füge-, Umform- und Montagetechniken beherrschen,
+h) der ökologischen Nachhaltigkeit, der ökonomischen Nachhaltigkeit und der sozialen Nachhaltigkeit sowie
 
-9. Fehler- und Störungssuche durchführen, Maßnahmen zur Beseitigung von Fehlern und Störungen beherrschen, Ergebnisse bewerten und dokumentieren,
+i) technologischer Entwicklungen sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien,
 
-10. Leistungen abnehmen und protokollieren, Nachkalkulation durchführen.
+2. Konzepte für Betriebs- und Lagerausstattung sowie für logistische Geschäfts- und Arbeitsprozesse entwickeln und umsetzen,
 
-(3) Den einzelnen Schwerpunkten im Metallbauer-Handwerk werden zum Zwecke der Meisterprüfung folgende spezifische Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
+3. Kundenwünsche und jeweilige Rahmenbedingungen ermitteln, Anforderungen ableiten, Kundinnen und Kunden beraten, Serviceleistungen anbieten, Lösungen entwickeln, Verhandlungen führen und Ziele festlegen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen,
 
-1. Schwerpunkt Konstruktionstechnik
+4. Geschäfts- und Arbeitsprozesse zur Leistungserbringung, auch unter Einsatz von digitalen und vernetzten Informations- und Kommunikationstechnologien, planen, organisieren und überwachen,
 
-a) Vorschriften zum Vergaberecht und zu den Vertragsbedingungen von öffentlichen Auftraggebern sowie zur Bautechnik und bauordnungsrechtliche Vorschriften bei der Planung, Konstruktion und Fertigung berücksichtigen,
+5. Leistungen im Metallbauer-Handwerk erbringen, insbesondere
 
-b) Bauzeichnungen lesen und umsetzen; bauphysikalische Anforderungen, insbesondere Wärme-, Feuchte- und Schallschutzmaßnahmen berücksichtigen,
+a) Herstellen von Konstruktionen, von Baugruppen und Bauteilen mittels manueller Fertigungsverfahren, maschineller Fertigungsverfahren sowie automatisierter Fertigungsverfahren und Oberflächen behandeln,
 
-c) Stahl- und Metallbaukonstruktionen, Fördersysteme, Konstruktionen des Anlagenbaus sowie Schließ- und Sicherungssysteme entwerfen, planen, herstellen, montieren, in Betrieb nehmen, umbauen und instand halten unter Einbeziehung von steuerungstechnischen Systemen und deren Schnittstellen,
+b) Schadensanalysen sowie Fehlersuchen und Störungssuchen durchführen, Instandsetzungsmöglichkeiten vorschlagen sowie Instandsetzungen durchführen sowie
 
-d) Verbindungen an Bauwerken und Konstruktionen unter Berücksichtigung von Befestigungsverfahren, Befestigungselementen, lösbaren und unlösbaren Befestigungssystemen, insbesondere Schweiß- und Klebeverbindungen sowie des Montageuntergrunds planen und herstellen,
+c) Risiko- und Gefährdungsbeurteilungen durchführen und dokumentieren,
 
-e) Transport von Bauelementen planen, koordinieren, organisieren und durchführen;
+6. technische Gesichtspunkte, organisatorische Gesichtspunkte sowie rechtliche Gesichtspunkte bei der Leistungserbringung berücksichtigen, insbesondere
 
-2. Schwerpunkt Metallgestaltung
+a) die Festigkeit, die Statik und die Dynamik von Metallbauarbeiten,
 
-a) Vorschriften zum Vergaberecht und zu den Vertragsbedingungen von öffentlichen Auftraggebern sowie zur Bautechnik, bauordnungsrechtliche Vorschriften und Vorschriften des Urheberrechts bei der Planung, Konstruktion und Fertigung berücksichtigen,
+b) den Korrosionsschutz von Bauteilen,
 
-b) Metallarbeiten entwerfen, zeichnerisch darstellen, modellieren, berechnen, herstellen, montieren und instand halten,
+c) manuelle Fertigungsverfahren, maschinelle Fertigungsverfahren sowie automatisierte Fertigungsverfahren,
 
-c) Schmiedetechniken beherrschen, insbesondere manuelles und maschinelles Schmieden und Treiben,
+d) die Verbindungstechniken sowie die Befestigungstechniken,
 
-d) Anlagen und Bauteile unter Berücksichtigung des Denkmalschutzes restaurieren und rekonstruieren; Zustand vor und nach Ausführung der Arbeit sowie Arbeitsschritte dokumentieren,
+e) die berufsbezogenen Rechtsvorschriften und technischen Normen,
 
-e) Metalloberflächen schützen, farblich gestalten und veredeln,
+f) die allgemein anerkannten Regeln der Technik,
 
-f) Befestigungstechniken beherrschen, insbesondere unter Berücksichtigung bautechnischer Erfordernisse und des Denkmalschutzes;
+g) die Aspekte der ökologischen Nachhaltigkeit, der ökonomischen Nachhaltigkeit sowie der sozialen Nachhaltigkeit,
 
-3. Schwerpunkt Nutzfahrzeugbau
+h) die Digitalisierung und die Vernetzung der Geschäfts- und Arbeitsprozesse,
 
-a) Richtlinien, gesetzliche Vorschriften und Normen für Straßenfahrzeuge berücksichtigen,
+i) das Vergaberecht, das Haftungsrecht sowie die Gewährleistung,
 
-b) Konstruktionen unter Berücksichtigung der statischen und dynamischen Belastungen entwerfen, zeichnerisch darstellen, berechnen und herstellen; dabei die Einflüsse von Fahrdynamik, Oberflächenbeschaffenheit, Temperatur und Korrosion berücksichtigen,
+j) das einzusetzende Personal sowie die Materialien, Arbeits- und Betriebsmittel sowie
 
-c) unter Beachtung von Sicherheitsvorkehrungen und schweißtechnischen Regelwerken Schweißarbeiten durchführen,
+k) die Möglichkeiten zum Einsatz von Auszubildenden,
 
-d) Schadensumfang feststellen, Kundengespräche unter Beachtung der geltenden Rechtslage führen, Umfang und Dauer der Instandsetzung festlegen, Instandsetzung durchführen und Termine überwachen,
+7. Pläne, Skizzen, technische Zeichnungen, auch unter Einsatz von Informations- und Kommunikationstechnologien, anfertigen, bewerten und korrigieren,
 
-e) Prüfungen, insbesondere Sicherheitsprüfungen, Prüfung der Fahrtenschreiber und Kontrollgeräte, unter Beachtung der technischen und rechtlichen Vorgaben durchführen,
+8. Arten und Eigenschaften von zu bearbeitenden und zu verarbeitenden Materialien berücksichtigen,
 
-f) Aufbauten auf Fahrgestelle unter Beachtung der Aufbauherstellerrichtlinien montieren,
+9. Unteraufträge kriterienorientiert, insbesondere unter Berücksichtigung von Qualität der Leistungen und Rechtsvorschriften, vergeben und deren Ausführung kontrollieren und dokumentieren,
 
-g) Fahrwerke einspuren und vermessen,
+10. fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus bewerten und dokumentieren,
 
-h) Fahrzeuge mit mechanischen, pneumatischen, hydraulischen, klimatechnischen, elektrischen und elektronischen Baugruppen und Komponenten ausrüsten; Datensysteme und Datenübertragungsgeräte, Diagnose-, Mess- und Prüfsysteme anwenden.
+11. erbrachte Leistungen kontrollieren, Mängel beseitigen, Leistungen dokumentieren und übergeben sowie Nachkalkulationen durchführen, Auftragsabwicklung auswerten und Abnahmeprotokolle erstellen sowie
 
-# § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
+12. Kundinnen und Kunden, über die Handhabung, die Wartung sowie die Pflege informieren sowie auf Gefahren bei der Handhabung hinweisen.
 
-(1) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
+(2) Im Schwerpunkt Konstruktionstechnik sind neben den in Absatz 1 Satz 2 Nummer 5 genannten Fertigkeiten und Kenntnissen bei der Leistungserbringung folgende Fertigkeiten und Kenntnisse zugrunde zu legen:
 
-1. ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch,
+1. technische Dokumente sowie Bauzeichnungen analysieren, bewerten, umsetzen sowie auftragsbezogene Voraussetzungen, insbesondere an Gebäuden, prüfen,
 
-2. eine Situationsaufgabe.
+2. Metallbauarbeiten der Konstruktionstechnik entwerfen, planen, herstellen, montieren, in Betrieb nehmen und instand halten, sowie
 
-(2) Die Anfertigung des Meisterprüfungsprojekts soll nicht länger als acht Arbeitstage, das Fachgespräch nicht länger als 30 Minuten dauern. Die Ausführung der Situationsaufgabe soll acht Stunden nicht überschreiten.
+3. steuerungstechnische Lösungen entwerfen, planen, herstellen, in Betrieb nehmen sowie instand halten, insbesondere mit
 
-(3) Meisterprüfungsprojekt, Fachgespräch und Situationsaufgabe werden gesondert bewertet. Die Prüfungsleistungen im Meisterprüfungsprojekt und im Fachgespräch werden im Verhältnis 3:1 gewichtet. Hieraus wird eine Gesamtbewertung gebildet. Diese Gesamtbewertung wird zum Prüfungsergebnis der Situationsaufgabe im Verhältnis 2:1 gewichtet.
+a) elektrischen Systemen,
 
-(4) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch noch in der Situationsaufgabe mit weniger als 30 Punkten bewertet worden sein darf.
+b) elektronischen Systemen,
+
+c) hydraulischen Systemen,
+
+d) pneumatischen Systemen sowie
+
+e) mechanischen Systemen.
+
+Dabei sind neben den in Absatz 1 Satz 2 Nummer 6 genannten technischen, organisatorischen und rechtlichen Gesichtspunkten bei der Leistungserbringung folgende Gesichtspunkte zu berücksichtigen:
+
+1. bauphysikalische Anforderungen sowie
+
+2. bauordnungsrechtliche Vorschriften und Normen jeweils mit Bezug auf Wärmeschutz, Feuchteschutz sowie Schallschutz.
+
+(3) Im Schwerpunkt Metallgestaltung sind neben den in Absatz 1 Satz 2 Nummer 5 genannten Fertigkeiten und Kenntnissen bei der Leistungserbringung folgende Fertigkeiten und Kenntnisse zugrunde zu legen:
+
+1. Bauteile aus Metallen, auch im Verbund mit nichtmetallischen Werkstoffen, planen, konstruieren, herstellen, restaurieren sowie konservieren,
+
+2. Gestaltungsansprüche sowie Wünsche der Kundinnen und Kunden, insbesondere bei der Oberflächenbehandlung und der Verbindung von Bauelementen, auch unter Verwendung von traditionellen Verfahren und Techniken in zeitgemäßer Gestaltung, berücksichtigen,
+
+3. auftragsbezogene Voraussetzungen, insbesondere an Gebäuden und Bauteilen, prüfen,
+
+4. Metallbauarbeiten im Schwerpunkt Metallgestaltung entwerfen, darstellen, planen, herstellen, montieren sowie instand halten,
+
+5. Metalloberflächen konservieren, gestalten sowie veredeln sowie
+
+6. traditionelle Verfahren und Techniken der Metallbearbeitung anwenden.
+
+Dabei sind neben den in Absatz 1 Satz 2 Nummer 6 genannten technischen, organisatorischen und rechtlichen Gesichtspunkten bei der Leistungserbringung folgende Gesichtspunkte zu berücksichtigen:
+
+1. bauphysikalische Anforderungen, bauordnungsrechtliche Vorschriften und Normen jeweils in Bezug auf Wärmeschutz, Feuchteschutz sowie Schallschutz,
+
+2. Rechtsvorschriften zum Urheberrecht sowie
+
+3. Rechtsvorschriften zum Denkmalschutz.
+
+(4) Im Schwerpunkt Nutz- und Sonderfahrzeugbau sind neben den in Absatz 1 Satz 2 Nummer 5 genannten Fertigkeiten und Kenntnissen bei der Leistungserbringung folgende Fertigkeiten und Kenntnisse zugrunde zu legen:
+
+1. Nutz- und Sonderfahrzeuge konstruieren, herstellen, ausrüsten, umbauen und instand halten sowie Schadensanalysen durchführen, insbesondere in Bezug auf Aufbauten sowie Anbauten, auf Anhänger, auf Krane, auf Ladebordwände und auf Ladungsträger,
+
+2. Fahrzeugdiagnosen durchführen, Fahrwerke einspuren und vermessen,
+
+3. Prüfungen und Kalibrierungen, insbesondere an Bremssystemen, durchführen, sowie Bremssysteme auslegen,
+
+4. Metallbauarbeiten im Schwerpunkt Nutz- und Sonderfahrzeugbau entwerfen, planen, herstellen, montieren, in Betrieb nehmen sowie instand halten,
+
+5. steuerungstechnische Lösungen entwerfen, planen, herstellen, in Betrieb nehmen sowie instand halten mit
+
+a) elektrischen Systemen,
+
+b) elektronischen Systemen,
+
+c) hydraulischen Systemen,
+
+d) pneumatischen Systemen sowie
+
+e) mechanischen Systemen,
+
+6. Lösungen nach Nummer 5 mit Nutz- und Sonderfahrzeugen vernetzen sowie
+
+7. fahrzeugtechnische Datensysteme, Datenübertragungssysteme, Diagnosesysteme, Messsysteme sowie Prüfsysteme für die Vernetzung der Anbauteile mit Nutz- und Sonderfahrzeugen nutzen.
+
+Dabei sind neben den in Absatz 1 Satz 2 Nummer 6 genannten technischen, organisatorischen und rechtlichen Gesichtspunkten bei der Leistungserbringung folgende Gesichtspunkte zu berücksichtigen:
+
+1. technische Herstellervorgaben,
+
+2. Rechtsvorschriften und Normen für Straßenfahrzeuge,
+
+3. Regelungen für Sonderfahrzeuge sowie
+
+4. Regelungen für Arbeiten an Fahrzeugen mit Verbrennungsmotoren sowie mit kohlendioxidemissionsfreien Antriebssystemen.
+
+# § 3 – Ziel und Gliederung der Prüfung in Teil I
+
+(1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er wesentliche Tätigkeiten des Metallbauer-Handwerks meisterhaft verrichtet.
+
+(2) Die Prüfung in Teil I gliedert sich in folgende Prüfungsbereiche:
+
+1. ein Meisterprüfungsprojekt nach § 4 und ein darauf bezogenes Fachgespräch nach § 5 sowie
+
+2. eine Situationsaufgabe nach § 6.
 
 # § 4 – Meisterprüfungsprojekt
 
-(1) In dem von ihm gewählten Schwerpunkt hat der Prüfling ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
+(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht und wählt dafür einen Schwerpunkt nach § 1 Nummer 1 bis 3 aus. Das Meisterprüfungsprojekt besteht aus Planungsarbeiten, Durchführungsarbeiten, Kontrollarbeiten und Dokumentationsarbeiten.
 
-(2) Als Meisterprüfungsprojekt ist in dem gewählten Schwerpunkt eine der nachfolgenden Aufgaben durchzuführen:
+(2) Als Meisterprüfungsprojekt ist eine Metallbauarbeit unter Einsatz von Informations- und Kommunikationstechnologien auszuführen, dabei
 
-1. Schwerpunkt Konstruktionstechnik
+1. im Rahmen der Planungsarbeiten Werkstattzeichnungen, technische Berechnungen, eine Beschreibung der einzusetzenden Herstellungsverfahren sowie ein rechtskonformes Angebot auf der Basis einer Kalkulation anfertigen, die gewählte Lösung begründen und dabei Entscheidungen in Bezug auf Eigenfertigung und Fremdfertigung unter Berücksichtigung ökologischer Gesichtspunkte sowie ökonomischer Gesichtspunkte treffen sowie begründen,
 
-Eine Konstruktion der Stahl- und Metallbautechnik, der Fördertechnik, des Anlagenbaus oder der Schließ- und Sicherungstechnik entwerfen, planen und kalkulieren. Hieraus ist ein Teilstück anzufertigen, einschließlich Werkstattzeichnungen mit dazugehörigen Plänen sowie Prüfprotokoll.
+2. auf Grundlage der Tätigkeiten nach Nummer 1 mindestens ein Teil der Metallbauarbeit herstellen, dessen Art und Umfang durch den Meisterprüfungsausschuss festgelegt wird,
 
-2. Schwerpunkt Metallgestaltung
+3. im Rahmen der Kontrollarbeiten und Dokumentationsarbeiten der Tätigkeiten nach Nummer 2 prüfen und dokumentieren.
 
-Eine Metallarbeit unter Berücksichtigung kreativer Gestaltungsaspekte entwerfen, planen, kalkulieren und anfertigen oder eine Restaurierungsarbeit planen, kalkulieren, ausführen und dokumentieren. Die Metallarbeit umfasst außerdem Werkstattzeichnungen mit dazugehörigen Plänen sowie Prüfprotokoll.
+(3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt.
 
-3. Schwerpunkt Nutzfahrzeugbau
+(4) Für die Bearbeitung des Meisterprüfungsprojekts stehen dem Prüfling acht Arbeitstage zur Verfügung.
 
-Eine Konstruktion des Nutzfahrzeugbaus entwerfen, planen und kalkulieren. Hieraus ist ein Teilstück anzufertigen, einschließlich Werkstattzeichnungen mit dazugehörigen Plänen sowie Prüfprotokoll.
+(5) Für die Bewertung des Meisterprüfungsprojekts werden die einzelnen Bestandteile wie folgt gewichtet:
 
-(3) Bei der Restaurierungsarbeit nach Absatz 2 Nr. 2 werden Planung und Kalkulation mit 30 vom Hundert, die Ausführung der Arbeit mit 50 vom Hundert und die Dokumentation mit 20 vom Hundert gewichtet. Bei den übrigen Arbeiten nach Absatz 2 werden Entwurf, Planung, Kalkulation sowie Werkstattzeichnungen mit dazugehörigen Plänen mit 40 vom Hundert, die Anfertigung der Metallarbeit nach Absatz 2 Nr. 2 oder des Teilstücks nach Absatz 2 Nr. 1 und 3 mit 50 vom Hundert und das Prüfprotokoll mit 10 vom Hundert gewichtet.
+1. die Planungsarbeiten anhand der Planungsunterlagen, bestehend aus Werkstattzeichnungen, technischen Berechnungen, Beschreibung der einzusetzenden Herstellungsverfahren, Begründung für die gewählte Lösung und die Entscheidung in Bezug auf Eigenfertigung und Fremdfertigung, Kalkulation, rechtskonformem Angebot, mit 40 Prozent,
+
+2. die Durchführungsarbeiten mit 50 Prozent und
+
+3. die Kontrollarbeiten und die Dokumentationsarbeiten anhand der Dokumentationsunterlagen, bestehend aus Messprotokollen, Prüfberichten, Dokumentation der Änderungen, mit 10 Prozent.
 
 # § 5 – Fachgespräch
 
-Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, dass er den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösung darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
+(1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
+
+2. Kundinnen und Kunden zu beraten und dabei den jeweiligen Kundenwunsch sowie wirtschaftliche Gesichtspunkte, rechtliche Gesichtspunkte, technische Gesichtspunkte sowie ökologische Gesichtspunkte in das Beratungsgespräch einzubeziehen,
+
+3. sein Vorgehen bei der Planung und Durchführung des Meisterprüfungsprojekts zu begründen sowie
+
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Metallbauer-Handwerk zu berücksichtigen.
+
+(2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
 # § 6 – Situationsaufgabe
 
-(1) In der Situationsaufgabe sind die wesentlichen Grundkenntnisse und Grundfertigkeiten zu prüfen, die im Meisterprüfungsprojekt nicht oder nur unzureichend nachgewiesen werden konnten.
+(1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und vervollständigt für die Meisterprüfung den Nachweis der beruflichen Handlungskompetenz im Metallbauer-Handwerk.
 
-(2) Zur Vervollständigung des Qualifikationsnachweises für das Metallbauer-Handwerk sind als Situationsaufgabe die nachstehend genannten Aufgaben auszuführen:
+(2) Die Situationsaufgabe wird nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung unter Berücksichtigung des vom Prüfling gewählten Schwerpunktes nach § 1 Nummer 1 bis 3 festgelegt und gliedert sich wie folgt:
 
-1. eine funktionsfähige Metallbauarbeit anfertigen oder fertig stellen; dabei sind Umform- und Fügetechniken, insbesondere Schweißen, unter Berücksichtigung von Qualität, Zeit, Materialeinsatz und Arbeitsorganisation nachzuweisen,
+1. eine funktionsfähige Metallbauarbeit anfertigen oder fertig stellen, dabei Umformtechniken sowie Fügetechniken, insbesondere Schweißen, unter Berücksichtigung von Qualität, Zeit, Materialeinsatz und Arbeitsorganisation nachweisen sowie
 
-2. Fehler und Störungen an einer Konstruktion oder Anlage des Metallbaus eingrenzen, bestimmen und beheben, Ergebnis dokumentieren.
+2. Fehler sowie Störungen an einer Konstruktion oder Anlage des Metallbaus eingrenzen, bestimmen, beheben und Ergebnisse dokumentieren.
 
-(3) Die Gesamtbewertung der Situationsaufgabe wird aus dem arithmetischen Mittel der Einzelbewertungen der Aufgaben nach Absatz 2 gebildet.
+(3) Für die Bearbeitung der Situationsaufgabe stehen dem Prüfling acht Stunden zur Verfügung.
 
-# § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+(4) Jede Teilarbeit nach Absatz 2 Nummer 1 und 2 ist gesondert zu bewerten. Das Gesamtergebnis der Situationsaufgabe wird aus dem arithmetischen Mittel der Einzelbewertungen der Teilarbeiten nach Absatz 2 gebildet.
 
-(1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung technologischer, ablauf- und verfahrenstechnischer, werkstofftechnischer und mathematischer Kenntnisse nachweisen, dass er Probleme analysieren und bewerten sowie geeignete Lösungswege aufzeigen und dokumentieren kann.
+# § 7 – Gewichtung, Bestehen der Prüfung in Teil I
 
-(2) Prüfungsfächer sind:
+(1) Das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe werden gesondert bewertet. Bei Berechnung des Gesamtergebnisses der Prüfung in Teil I der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden zunächst die Bewertung des Meisterprüfungsprojekts und die Bewertung des Fachgesprächs im Verhältnis 3 : 1 gewichtet; anschließend wird das hieraus folgende Ergebnis mit der Bewertung der Situationsaufgabe im Verhältnis 2 : 1 gewichtet.
 
-1. Metallbautechnik,
+(2) Der Prüfling hat den Teil I der Meisterprüfung bestanden, wenn
 
-2. Auftragsabwicklung,
+1. das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe jeweils mit mindestens 30 Punkten bewertet worden ist und
 
-3. Betriebsführung und Betriebsorganisation.
+2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
-(3) In jedem der Prüfungsfächer ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss:
+# § 8 – Ziel und Gliederung der Prüfung in Teil II
 
-1. Metallbautechnik
+(1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben in seinem gewählten Schwerpunkt zu lösen und dabei nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Metallbauer-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, metallbautechnische Aufgaben und Probleme unter Beachtung wirtschaftlicher und ökologischer Aspekte in einem Metallbauerbetrieb zu bearbeiten. Er soll metallbautechnische Sachverhalte beurteilen und beschreiben. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+1. nach Maßgabe des § 9 „Anforderungen von Kundinnen und Kunden eines Betriebs im Metallbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“,
 
-a) Konstruktionen entwerfen und berechnen, Konstruktionsentwürfe bewerten und korrigieren,
+2. nach Maßgabe des § 10 „Leistungen eines Betriebs im Metallbauer-Handwerk erbringen, kontrollieren und übergeben“ und
 
-b) Arten und Eigenschaften von Werkstoffen beurteilen, diese Verwendungszwecken zuordnen,
+3. nach Maßgabe des § 11 „Einen Betrieb im Metallbauer-Handwerk führen und organisieren“.
 
-c) Probleme der Materialbe- und -verarbeitung sowie des Fügens beschreiben; Lösungen erarbeiten, bewerten und korrigieren,
+(2) Der Prüfling hat in jedem der drei Handlungsfelder eine fallbezogene Aufgabe zu bearbeiten, die den Anforderungen des Absatzes 1 entspricht. Bei jeder Aufgabenstellung können die Qualifikationen der drei Handlungsfelder handlungsfeldübergreifend verknüpft werden.
 
-d) Lösungen für Problemstellungen im Bereich der Steuerungstechnik erarbeiten, bewerten und korrigieren,
+(3) Die Aufgaben sind schriftlich zu bearbeiten.
 
-e) Prüf- und Messtechniken sowie Verfahren der Funktionsprüfungen und Fehlersuche dem jeweiligen Verwendungszweck zuordnen.
+(4) Für die Bearbeitung der Aufgaben stehen dem Prüfling in jedem Handlungsfeld drei Stunden zur Verfügung. Eine Prüfungsdauer von sechs Stunden an einem Tag darf nicht überschritten werden.
 
-2. Auftragsabwicklung
+# § 9 – Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Metallbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, bei der Auftragsabwicklung die ablaufbezogenen Maßnahmen, die für den technischen und wirtschaftlichen Erfolg eines Metallbauerbetriebs notwendig sind, kundenorientiert einzuleiten und abzuschließen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+(1) Im Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Metallbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Betrieb im Metallbauer-Handwerk Anforderungen erfolgsorientiert, kundenorientiert sowie qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er technische Gesichtspunkte, gestalterische Gesichtspunkte, rechtliche Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte und soziale Gesichtspunkte, die Digitalisierung und die Vernetzung der Geschäfts- und Arbeitsprozesse sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
 
-a) Auftragsabwicklungsprozesse planen,
+(2) Das Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Metallbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
 
-b) unter Berücksichtigung der Fertigungstechnik, der Montage sowie des Einsatzes von Material, Geräten und Personal Methoden und Verfahren der Arbeitsplanung und -organisation bewerten, dabei qualitätssichernde Aspekte darstellen sowie die Vor- und Nachkalkulation durchführen,
+1. Kundenwünsche und die Rahmenbedingungen zu deren Erfüllung analysieren, dokumentieren sowie bewerten und daraus Anforderungen ableiten, hierzu zählen insbesondere:
 
-c) Unteraufträge vergeben und kontrollieren,
+a) Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten,
 
-d) qualitätssichernde Aspekte bei der Auftragsannahme und bei der Einsteuerung von Aufträgen in das innerbetriebliche Informationssystem beschreiben,
+b) Ausschreibungen oder Angebotsanfragen öffentlicher Auftraggeber oder privater Auftraggeber analysieren und bewerten,
 
-e) technische Arbeitspläne erarbeiten, bewerten und korrigieren, auch unter Anwendung von elektronischen Datenverarbeitungssystemen,
+c) technische Dokumente, insbesondere Bauzeichnungen sowie Konstruktionszeichnungen, Leistungsverzeichnisse, Herstellerrichtlinien und Schaltpläne, analysieren, bewerten sowie die Vorgehensweise zur auftragsbezogenen Prüfung der Voraussetzungen für die Ausführung des Kundenauftrags beschreiben,
 
-f) Daten erfassen und bewerten sowie Prüfergebnisse dokumentieren.
+d) Mess- und Prüfverfahren zur Feststellung der Rahmenbedingungen an den Objekten des gewählten Schwerpunkts erläutern und bewerten, fehlerhafte Vorleistungen erkennen und dokumentieren,
 
-3. Betriebsführung und Betriebsorganisation
+e) Vorgehensweise bei Schadensanalysen, Fehlersuchen sowie Störungssuchen an Metallbauarbeiten erläutern und Analyseergebnisse interpretieren sowie
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Metallbauerbetrieb wahrzunehmen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+f) Ergebnisse der vorstehenden Handlungsschritte dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten,
+
+2. Lösungsmöglichkeiten entwickeln, erläutern und begründen, auch unter Berücksichtigung der berufsbezogenen Rechtsvorschriften und technischen Normen sowie der allgemein anerkannten Regeln der Technik, hierzu zählen insbesondere:
+
+a) Möglichkeiten und Notwendigkeiten des Einsatzes von Materialien, Bauteilen, Beschichtungen, Maschinen, Werkzeugen, Geräten sowie Personal, auch unter Berücksichtigung einzusetzender Verfahren, der Produktlebenszyklen sowie der Möglichkeiten aus Kreislaufwirtschaftsprozessen, darstellen, erläutern und begründen,
+
+b) Sicherheitsrisiken, Gesundheitsrisiken sowie Haftungsrisiken bewerten und Konsequenzen ableiten,
+
+c) Skizzen, Entwürfe, Zeichnungen und Modelle für Metallbauarbeiten, auch unter Anwendung von Informations- und Kommunikationstechnologien, unter Berücksichtigung von Anforderungen für die Umsetzung erstellen, bewerten und korrigieren,
+
+d) Entwerfen und Planen von steuerungstechnischen Lösungen mit
+
+aa)  
+elektrischen Systemen,
+
+bb)  
+elektronischen Systemen,
+
+cc) hydraulischen Systemen,
+
+dd)  
+pneumatischen Systemen sowie
+
+ee)  
+mechanischen Systemen,
+
+e) Kriterien für die Vergabe von Unteraufträgen festlegen, insbesondere unter Berücksichtigung von Qualität und von Rechtsvorschriften, darauf aufbauend Ausschreibungen oder Angebotsanfragen erstellen sowie hierauf eingehende Angebote bewerten sowie
+
+f) Vorteile sowie Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkte, gestalterische Gesichtspunkte, rechtliche Gesichtspunkte sowie sicherheitstechnische Gesichtspunkte erläutern und abwägen sowie daraus eine Lösung auswählen und diese Auswahl begründen sowie
+
+3. Angebote kalkulieren, erstellen und erläutern sowie Leistungen vereinbaren, hierzu zählen insbesondere:
+
+a) Personalkosten, Materialkosten sowie Gerätekosten auf der Grundlage der Planungen kalkulieren,
+
+b) auf der Grundlage entwickelter Lösungsmöglichkeiten Angebotspositionen bestimmen, Preise kalkulieren,
+
+c) Vertragsbedingungen unter Berücksichtigung von Haftungsbestimmungen formulieren und beurteilen,
+
+d) Angebotsunterlagen vorbereiten, Angebote erstellen,
+
+e) Angebotspositionen und Vertragsbedingungen gegenüber Kundinnen und Kunden erläutern und begründen sowie Leistungen vereinbaren sowie
+
+f) Hinweispflichten, insbesondere Hinweise auf Wartungspflichten und Sicherheitsanweisungen, erläutern.
+
+# § 10 – Handlungsfeld „Leistungen eines Betriebs im Metallbauer-Handwerk erbringen, kontrollieren und übergeben“
+
+(1) Im Handlungsfeld „Leistungen eines Betriebs im Metallbauer-Handwerk erbringen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Leistungen eines Betriebs im Metallbauer-Handwerk erfolgsorientiert, kundenorientiert sowie qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu erbringen, zu kontrollieren und zu übergeben. Dabei hat er technische Gesichtspunkte, gestalterische Gesichtspunkte, rechtliche Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte sowie soziale Gesichtspunkte, die Digitalisierung und die Vernetzung der Geschäfts- und Arbeitsprozesse sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Leistungen eines Betriebs im Metallbauer-Handwerk erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
+
+1. die Erbringung der Leistungen vorbereiten, hierzu zählen insbesondere:
+
+a) Methoden der Arbeitsplanung und Arbeitsorganisation erläutern, auswählen und Auswahl begründen sowie unter Berücksichtigung einzusetzender Herstellungs- und Instandsetzungsverfahren den Einsatz von Personal, Materialien, Geräten, Maschinen sowie Werkzeugen planen,
+
+b) mögliche Störungen bei der Leistungserbringung, auch in der Zusammenarbeit mit anderen an der Leistungserbringung Beteiligten, vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder Behebung entwickeln,
+
+c) Handhabungshinweise, Produktinformationen und Herstellerbedingungen für Geräte, Maschinen, Werkzeuge, Fahrzeuge, Materialien, Bauteile sowie Beschichtungen leistungsbezogen auswerten und erläutern,
+
+d) technische Dokumente, insbesondere Bauzeichnungen sowie Konstruktionszeichnungen, Schaltpläne, technische Arbeitspläne, Fertigungsskizzen und Montageanweisungen, auch unter Berücksichtigung haftungsrechtlicher Aspekte, gewährleistungsrechtlicher Aspekte sowie sicherheitsbezogener Aspekte, bewerten sowie Normen und Regelwerke berücksichtigen,
+
+e) Vorgehensweise zur Feststellung der Rahmenbedingungen sowie der Aufmaßerstellung an den Objekten des gewählten Schwerpunkts erläutern und bewerten, Abweichungen von Plänen dokumentieren und Konsequenzen ableiten,
+
+f) Metallbauarbeiten konstruieren, insbesondere technische Berechnungen durchführen, zu verwendende Materialien und anzuwendende Herstellungsverfahren beschreiben, auswählen sowie die jeweilige Auswahl begründen sowie Zeichnungen, auch unter Anwendung von Informations- und Kommunikationstechnologien, erstellen,
+
+g) Bauablaufplanung erstellen und notwendige Abstimmungsprozesse beschreiben,
+
+h) Verbindungen und Befestigungen unter Berücksichtigung von Statik, Dynamik, Wärmedämmung, Schallschutz und Feuchtigkeitsschutz sowie Verbindungsmitteln und Befestigungsmitteln planen,
+
+i) Planen von steuerungstechnischen Lösungen mit
+
+aa)  
+elektrischen Systemen,
+
+bb)  
+elektronischen Systemen,
+
+cc) hydraulischen Systemen,
+
+dd)  
+pneumatischen Systemen sowie
+
+ee)  
+mechanischen Systemen,
+
+j) Baustellen sowie Arbeitsplätze unter Berücksichtigung von Sicherheitsaspekten und Logistik vorbereiten und Genehmigungen einholen,
+
+k) Entsorgung der nicht-recyclebaren Materialien und der nicht-recyclebaren Hilfsstoffe planen und dokumentieren, recyclebare Materialien und recyclebare Hilfsstoffe der Wiederverwertung zuführen sowie
+
+l) Folgeprozesse organisieren, insbesondere Bestellungen auslösen und Unteraufträge vergeben, Wareneingangskontrollen festlegen,
+
+2. die Leistungen erbringen, hierzu zählen insbesondere:
+
+a) berufsbezogene Rechtsvorschriften, technische Normen sowie die allgemein anerkannten Regeln der Technik anwenden,
+
+b) Maßnahmen zur Gefahrenvermeidung und zur Gefahrenbeseitigung erläutern sowie Konsequenzen ableiten,
+
+c) Fehler und Mängel in der Erbringung der Leistungen erläutern sowie Maßnahmen zu deren Beseitigung ableiten,
+
+d) Vorgehensweise zur Erbringung von Leistungen im gewählten Schwerpunkt unter Berücksichtigung unterschiedlicher Herstellungsverfahren sowie Instandsetzungsverfahren erläutern und begründen sowie
+
+e) Beschreiben und Bewerten von
+
+aa)  
+manuellen Bearbeitungsverfahren sowie manuellen Verarbeitungsverfahren,
+
+bb)  
+maschinellen Bearbeitungsverfahren sowie maschinellen Verarbeitungsverfahren sowie
+
+cc) programmgesteuerten Bearbeitungsverfahren sowie programmgesteuerten Verarbeitungsverfahren,
+
+f) Verfahren zur Oberflächenbehandlung unter Berücksichtigung besonderer Gestaltungsmerkmale und des Korrosionsschutzes beschreiben und bewerten,
+
+g) Transport von Metallbauarbeiten unter Berücksichtigung der Ladungssicherung und damit verbundener rechtlicher Regelungen planen sowie
+
+h) Beschreiben und Bewerten der Vorgehensweise zur Instandsetzung bei Schäden, Fehlern und Störungen an Metallbauarbeiten sowie zur Umsetzung von Konstruktionen mit
+
+aa)  
+hydraulischen Baugruppen sowie Komponenten,
+
+bb)  
+pneumatischen Baugruppen sowie Komponenten,
+
+cc) mechanischen Baugruppen sowie Komponenten,
+
+dd)  
+elektrischen Baugruppen sowie Komponenten sowie
+
+ee)  
+elektronischen Baugruppen sowie Komponenten sowie
+
+3. die Leistungen unter Anwendung von Informations- und Kommunikationstechnologien kontrollieren, dokumentieren, übergeben sowie abrechnen, hierzu zählen insbesondere:
+
+a) Kriterien zur Feststellung der Qualität der erbrachten Leistungen erläutern,
+
+b) Leistungen dokumentieren,
+
+c) Prüfergebnisse dokumentieren und bewerten,
+
+d) Vorgehensweise bei Übergabe der Leistungen und Information der Kundinnen und Kunden über Handhabung, Pflege sowie Wartung erläutern,
+
+e) Leistungen abrechnen,
+
+f) auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten,
+
+g) Möglichkeiten der Herstellung von Kundenzufriedenheit sowie der Kundenbindung erläutern und beurteilen sowie
+
+h) Serviceleistungen anlässlich der Übergabe, insbesondere Wartungsverträge erläutern und bewerten.
+
+# § 11 – Handlungsfeld „Einen Betrieb im Metallbauer-Handwerk führen und organisieren“
+
+(1) Im Handlungsfeld „Einen Betrieb im Metallbauer-Handwerk führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Betrieb im Metallbauer-Handwerk unter Berücksichtigung der Rechtsvorschriften, der Digitalisierung und der Vernetzung der Geschäfts- und Arbeitsprozessen, ökonomischer Aspekte, ökologischer Aspekte und sozialer Aspekte, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere den Nutzen gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Einen Betrieb im Metallbauer-Handwerk führen und organisieren“ besteht aus folgenden Qualifikationen:
+
+1. betriebliche Kosten analysieren und für die Preisgestaltung und Effizienzsteigerung nutzen, hierzu zählen insbesondere:
 
 a) betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,
 
-b) Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsatzmöglichkeiten beschreiben und beurteilen,
+b) betriebliche Kostenstrukturen überprüfen,
 
-c) betriebliches Qualitätsmanagement planen und darstellen,
+c) betriebliche Kennzahlen ermitteln und vergleichen,
 
-d) die Haftung bei der Herstellung, der Instandhaltung und der Restaurierung beurteilen,
+d) Maßnahmen zur Effizienzsteigerung und Ressourcenschonung ableiten sowie
 
-e) Erfordernisse der Arbeitssicherheit, des Gesundheitsschutzes und des Umweltschutzes darstellen; Gefahren beurteilen und Maßnahmen zur Gefahrenabwehr festlegen,
+e) Stundenverrechnungssätze anhand vorgegebener Kostenstrukturen berechnen,
 
-f) Betriebs- und Lagerausstattung sowie Logistik planen und darstellen,
+2. Marketingmaßnahmen zur Kundengewinnung sowie zur Kundenpflege erarbeiten, hierzu zählen insbesondere:
 
-g) Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden beschreiben,
+a) Auswirkungen technologischer Entwicklungen, wirtschaftlicher Entwicklungen, rechtlicher Entwicklungen sowie gesellschaftlicher Entwicklungen sowie veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen,
 
-h) berufsbezogene Gesetze, Normen, Regeln und Vorschriften anwenden.
+b) Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen zur Kundengewinnung sowie zur Kundenpflege entwickeln,
 
-(4) Die Prüfung im Teil II ist schriftlich durchzuführen. Sie soll insgesamt nicht länger als acht Stunden dauern. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
+c) Informationen über Produkte, Serviceangebote und über das Leistungsspektrum des Betriebs erstellen sowie
 
-(5) Wurden in höchstens zwei der in Absatz 2 genannten Prüfungsfächer jeweils mindestens 30 und weniger als 50 Punkte erreicht, kann in einem dieser Prüfungsfächer eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese das Bestehen des Teils II der Meisterprüfung ermöglicht.
+d) Ermitteln und Bewerten von Vertriebswegen, auch informations- und kommunikationsgestützte Vertriebswege, unter Berücksichtigung des Datenschutzes, der Datensicherheit und der Datenverarbeitung,
 
-(6) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Die Prüfung des Teils II ist nicht bestanden, wenn
+3. betriebliches Qualitätsmanagement entwickeln, hierzu zählen insbesondere:
 
-1. ein Prüfungsfach mit weniger als 30 Punkten bewertet worden ist oder
+a) Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen,
 
-2. nach durchgeführter Ergänzungsprüfung zwei Prüfungsfächer jeweils mit weniger als 50 Punkten bewertet worden sind.
+b) Qualitätsmanagementsysteme unterscheiden und beurteilen,
 
-(+++ § 7 Abs. 5 u. 6: Zur Anwendung vgl. § 9 +++)
+c) Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen,
 
-# § 8 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+d) Maßnahmen zur kontinuierlichen Verbesserung von Geschäfts- und Arbeitsprozessen festlegen und bewerten sowie
+
+e) Maßnahmen zur Rückverfolgbarkeit der verwendeten Produkte und Materialien aus Gewährleistungsgründen sowie Haftungsgründen, zur Sicherstellung der Ersatzteilverfügbarkeit sowie für den Nachweis ökologischer Nachhaltigkeit sowie sozialer Nachhaltigkeit erläutern,
+
+4. Personal unter Berücksichtigung gewerbespezifischer Bedingungen planen und anleiten, Personalentwicklung planen, hierzu zählen insbesondere:
+
+a) Einsatz von Personal disponieren,
+
+b) Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren,
+
+c) Methoden zur Anleitung von Personal erläutern,
+
+d) Qualifikationsbedarfe ermitteln sowie
+
+e) Maßnahmen zur fortlaufenden Qualifizierung, insbesondere unter Berücksichtigung des Berufslaufbahnkonzepts im Metallbauer-Handwerk, planen sowie
+
+5. Betriebsausstattung sowie Lagerausstattung und Abläufe planen, hierzu zählen insbesondere:
+
+a) Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Konsequenzen aus dem Ergebnis ableiten,
+
+b) Ausstattung des Betriebes, insbesondere unter Berücksichtigung der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, der Gefahrgutlagerung sowie unter ökologischen Gesichtspunkten, ökonomischen Gesichtspunkten, sozialen Gesichtspunkten sowie logistischen Gesichtspunkten, planen und begründen,
+
+c) Maßnahmen zur Unfallverhütung, zum Arbeitsschutz, zur Gefahrgutlagerung, insbesondere unter Berücksichtigung ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte sowie sozialer Gesichtspunkte, planen und begründen,
+
+d) Instandhaltung von Geräten, Maschinen, Werkzeugen sowie Fahrzeugen planen,
+
+e) Betriebsabläufe planen und verbessern unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, Materialien, Geräten, Maschinen, Werkzeugen sowie Fahrzeugen sowie
+
+f) Möglichkeiten zur Gewinnung, Nutzung sowie Einsparung von Energie darstellen.
+
+# § 12 – Gewichtung, Bestehen der Prüfung in Teil II
+
+(1) Bei der Berechnung des Gesamtergebnisses der Prüfung in Teil II der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden die Bewertungen der Handlungsfelder nach den §§ 9 bis 11 gleich gewichtet.
+
+(2) Wurden in höchstens zwei der drei Handlungsfelder jeweils mindestens 30 und weniger als 50 Punkte erreicht, so kann in einem dieser Handlungsfelder eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese für das Bestehen der Prüfung in Teil II der Meisterprüfung ausschlaggebend ist.
+
+(3) Der Prüfling hat den Teil II der Meisterprüfung bestanden, wenn
+
+1. jedes der drei Handlungsfelder mit mindestens 30 Punkten bewertet worden ist,
+
+2. nach durchgeführter Ergänzungsprüfung nach Absatz 2 höchstens ein Handlungsfeld mit weniger als 50 Punkten bewertet worden ist und
+
+3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
+
+# § 13 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
-(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
-# § 9 – Übergangsvorschrift
+# § 14 – Übergangsvorschrift
 
-Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
+(1) Die bis zum Ablauf des 30. Juni 2025 begonnenen Prüfungsverfahren werden nach den Vorschriften für die Metallbauermeisterverordnung vom 22. März 2002 (BGBl. I S. 1224), die zuletzt durch Artikel 2 Absatz 37 der Verordnung vom 18. Januar 2022 (BGBl. I S. 39) geändert worden ist, zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 31. Dezember 2025, so sind auf Verlangen des Prüflings die bis zum Ablauf des 30. Juni 2025 geltenden Vorschriften weiter anzuwenden.
 
-# § 10 – Inkrafttreten, Außerkrafttreten
+(2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 30. Juni 2025 geltenden Vorschriften nicht bestanden haben und sich bis zum Ablauf des 30. Juni 2027 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum Ablauf des 30. Juni 2025 geltenden Vorschriften ablegen.
 
-Diese Verordnung tritt am 1. Juli 2002 in Kraft.
+# § 15 – Inkrafttreten, Außerkrafttreten
+
+Diese Verordnung tritt am 1. Juli 2025 in Kraft. Gleichzeitig tritt die Metallbauermeisterverordnung vom 22. März 2002 (BGBl. I S. 1224), die zuletzt durch Artikel 2 Absatz 37 der Verordnung vom 18. Januar 2022 (BGBl. I S. 39) geändert worden ist, außer Kraft.

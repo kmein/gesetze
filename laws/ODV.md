@@ -33,9 +33,9 @@ Im Sinne dieser Verordnung bezeichnet
 
 10. „Marktüberwachungsbehörde“ jede Behörde, die für Aufgaben der Marktüberwachung zuständig ist;
 
-11. Vorschriften des „ADR“ sind die Vorschriften der Teile 1 bis 9 der Anlagen A und B zu dem Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR) in der Fassung der Bekanntmachung der Neufassung der Anlagen A und B vom 16. November 2021 (BGBl. 2021 II S. 1184), die zuletzt nach Maßgabe der 29. ADR-Änderungsverordnung vom 22. November 2022 (BGBl. 2022 II S. 601) geändert worden sind;
+11. Vorschriften des „ADR“ die Vorschriften der Teile 1 bis 9 der Anlagen A und B zu dem Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR) in der Fassung der Bekanntmachung der Anlagen A und B vom 16. November 2021 (BGBl. 2021 II S. 1184, Anlagenband), die zuletzt durch die 30. ADR-Änderungsverordnung vom 19. Februar 2025 (BGBl. 2025 II Nr. 57) geändert worden sind;
 
-12. Vorschriften des „RID“ sind die Vorschriften der Teile 1 bis 7 der Anlage der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID) – Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr (COTIF) vom 9. Mai 1980 in der Fassung der Bekanntmachung der Neufassung der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter vom 28. März 2024 (BGBl. 2024 II Nr. 145).
+12. Vorschriften des „RID“ die Vorschriften der Teile 1 bis 7 der Anlage der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID) – Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr (COTIF) vom 9. Mai 1980 in der Fassung der Bekanntmachung vom 28. März 2024 (BGBl. 2024 II Nr. 145, Anlagenband), die zuletzt durch die 24. RID-Änderungsverordnung vom 24. April 2025 (BGBl. 2025 II Nr. 144) geändert worden sind.
 
 # § 3 – Hersteller
 

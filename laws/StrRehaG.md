@@ -35,7 +35,7 @@ i) Hochverrat, Spionage, Anwerbenlassen zum Zwecke der Spionage, Landesverräter
 
 (5) Für strafrechtliche Maßnahmen, die keine gerichtlichen Entscheidungen sind, gelten die Vorschriften dieses Gesetzes entsprechend.
 
-(6) Ein Antrag nach Absatz 1 ist unzulässig, soweit nach dem 2. Oktober 1990 über einen auf denselben Sachverhalt gestützten zulässigen Antrag auf Rehabilitierung oder Kassation rechtskräftig entschieden worden ist. Dies gilt nicht, soweit dargelegt wird, dass der frühere Antrag nach den Vorschriften dieses Gesetzes Erfolg gehabt hätte.
+(6) Ein Antrag nach Absatz 1 ist unzulässig, soweit nach dem 2. Oktober 1990 über einen auf denselben Sachverhalt gestützten zulässigen Antrag auf Rehabilitierung oder Kassation rechtskräftig entschieden worden ist. Dies gilt nicht, soweit dargelegt wird, dass der frühere Antrag nach den Vorschriften dieses Gesetzes in der zum Zeitpunkt der Entscheidung über den erneuten Antrag geltenden Fassung Erfolg gehabt hätte. Hat ein erneuter Antrag nach Satz 2 Erfolg, so sind Leistungen, die der Antragsteller gemäß § 18 Absatz 4 in der vom 29. November 2019 bis einschließlich 30. Juni 2025 geltenden Fassung erhalten hat, auf Folgeansprüche nach Maßgabe dieses Gesetzes anzurechnen. Die Stiftung für ehemalige politisch Verfolgte nach § 1 des Gesetzes über die Stiftung für ehemalige politisch Verfolgte vom 25. Februar 2025 (BGBl. 2025 I Nr. 63) hat den für Leistungen nach diesem Gesetz zuständigen Behörden Auskunft zu erteilen über die von ihr gewährten Unterstützungsleistungen gemäß § 18 Absatz 4 in der vom 29. November 2019 bis einschließlich 30. Juni 2025 geltenden Fassung, soweit dies zur Prüfung einer Anrechnung erforderlich ist.
 
 # § 2 – Rechtsstaatswidrige Entscheidungen über Freiheitsentzug außerhalb eines Strafverfahrens
 
@@ -203,63 +203,31 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten die Vorschriften des
 
 (4) Berechtigte, denen bereits eine Kapitalentschädigung nach § 17 Abs. 1 in Verbindung mit Abs. 2 in der bis zum 31. Dezember 1999 geltenden Fassung gewährt worden ist, erhalten auf Antrag eine Nachzahlung. Soweit die zusätzliche Kapitalentschädigung nach § 17 Abs. 1 Satz 2 in der bis zum 31. Dezember 1999 geltenden Fassung bewilligt worden ist, beträgt die Nachzahlung 25,56 Euro, in den übrigen Fällen 153,39 Euro für jeden angefangenen Kalendermonat einer mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbaren Freiheitsentziehung. Der Anspruch auf Nachzahlung ist übertragbar und vererblich, soweit auch die Kapitalentschädigung gemäß Absatz 3 übertragbar und vererblich ist.
 
-# § 17a – Besondere Zuwendung für Haftopfer
+# § 17a – Besondere Zuwendung für Haftopfer; Verordnungsermächtigung
 
-(1) Berechtigte nach § 17 Abs. 1, die in ihrer wirtschaftlichen Lage besonders beeinträchtigt sind, erhalten auf Antrag eine monatliche besondere Zuwendung für Haftopfer, wenn sie eine mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbare Freiheitsentziehung von insgesamt mindestens 90 Tagen erlitten haben. Die monatliche besondere Zuwendung für Haftopfer beläuft sich auf 330 Euro. Das Bundesministerium der Justiz und für Verbraucherschutz überprüft im Einvernehmen mit dem Bundesministerium der Finanzen in einem Abstand von fünf Jahren, erstmals im Jahr 2025, die Höhe der monatlichen besonderen Zuwendung für Haftopfer.
+(1) Berechtigte nach § 17 Abs. 1 erhalten auf Antrag eine monatliche besondere Zuwendung für Haftopfer, wenn sie eine mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbare Freiheitsentziehung von insgesamt mindestens 90 Tagen erlitten haben. Die monatliche besondere Zuwendung für Haftopfer beläuft sich auf 400 Euro. Die Höhe der monatlichen besonderen Zuwendung für Haftopfer wird ab dem Jahr 2026 entsprechend dem Prozentsatz angepasst, um den sich der aktuelle Rentenwert in der gesetzlichen Rentenversicherung verändert. Die sich durch die Anpassung ergebenden Beträge bis 0,49 Euro sind auf volle Euro abzurunden und die Beträge ab 0,50 Euro auf volle Euro aufzurunden. Die Anpassung der Höhe der monatlichen besonderen Zuwendung für Haftopfer erfolgt durch Rechtsverordnung des Bundesministeriums der Justiz ohne Zustimmung des Bundesrates jeweils zu dem Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden.
 
-(2) Berechtigte gelten als in ihrer wirtschaftlichen Lage besonders beeinträchtigt, wenn ihr Einkommen die in den Sätzen 7 bis 9 bestimmten Einkommensgrenzen nicht übersteigt. Das monatliche Einkommen ist entsprechend § 82 Absatz 1 Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 7 Satz 1 bis 3 des Zwölften Buches Sozialgesetzbuch in Verbindung mit der Verordnung zur Durchführung des § 82 des Zwölften Buches Sozialgesetzbuch zu ermitteln; Renten wegen Alters, verminderter Erwerbsfähigkeit, Arbeitsunfalls oder Berufskrankheit sowie wegen Todes oder vergleichbare Leistungen, Arbeitsförderungsgeld und Kindergeld bleiben unberücksichtigt. Neben den in § 82 Absatz 2 Satz 1 des Zwölften Buches Sozialgesetzbuch genannten Beträgen sind die angemessenen Beiträge zur betrieblichen Altersvorsorge vom Einkommen abzuziehen. Soweit
+(2) Die besondere Zuwendung für Haftopfer wird monatlich im Voraus gezahlt, beginnend mit dem auf die Antragstellung folgenden Monat. § 118 Absatz 3 bis 4a des Sechsten Buches Sozialgesetzbuch gilt entsprechend.
 
-1. die Einkünfte als Jahreseinkünfte berechnet werden oder
+(3) Der Anspruch auf die besondere Zuwendung für Haftopfer nach Absatz 1 ist unpfändbar, nicht übertragbar und nicht vererbbar. Nach dem Tod des Berechtigten sind seine nächsten Angehörigen (Ehegatten, Kinder und Eltern) unverzüglich von der bis zum Tod des Berechtigten für die Gewährung der besonderen Zuwendung für Haftopfer zuständigen Behörde über die Unterstützungsleistungen nach § 18 Absatz 3 zu unterrichten.
 
-2. bei laufenden monatlichen Einnahmen zu erwarten ist, dass diese in unterschiedlicher Höhe zufließen,
+(4) Das Erste und das Zehnte Buch Sozialgesetzbuch finden entsprechende Anwendung, soweit nicht dieses Gesetz etwas anderes bestimmt. Führt eine Änderung dieses Gesetzes zu einer Änderung laufend gewährter Leistungen nach Absatz 1, sind diese von Amts wegen neu festzustellen. Von einer förmlichen Bescheiderteilung kann abgesehen werden.
 
-kann das Einkommen vorläufig festgesetzt werden und ist jeweils nachträglich endgültig festzustellen. Das bei der vorläufigen Entscheidung berücksichtigte Einkommen ist bei der abschließenden Entscheidung als Einkommen zugrunde zu legen, wenn das tatsächliche durchschnittliche monatliche Einkommen des Kalenderjahres das bei der vorläufigen Entscheidung zugrunde gelegte Einkommen um nicht mehr als 5 Euro monatlich übersteigt. § 11 Absatz 2 der Verordnung zur Durchführung des § 82 des Zwölften Buches Sozialgesetzbuch gilt entsprechend. Die Einkommensgrenze wird festgelegt
-
-1. bei alleinstehenden Berechtigten auf das Dreifache,
-
-2. bei verheirateten oder in Lebenspartnerschaft lebenden Berechtigten sowie in eheähnlicher oder in lebenspartnerschaftsähnlicher Gemeinschaft lebenden Berechtigten auf das Vierfache
-
-der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch. Für jedes Kind, für das der Berechtigte einen Kindergeldanspruch nach dem Einkommensteuer- oder Bundeskindergeldgesetz hat, wird die Einkommensgrenze um das Einfache der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch erhöht. Dies gilt unabhängig davon, ob für das Kind Unterhalts- oder sonstige Sozialleistungsansprüche bestehen.
-
-(3) Ergibt sich, dass das zu berücksichtigende Einkommen die maßgebliche Einkommensgrenze um einen Betrag übersteigt, der geringer ist als der Betrag der besonderen Zuwendung für Haftopfer nach Absatz 1 Satz 2, erhält der Berechtigte die besondere Zuwendung in Höhe des auf volle Euro aufgerundeten Differenzbetrages.
-
-(4) Die besondere Zuwendung für Haftopfer wird monatlich im Voraus gezahlt, beginnend mit dem auf die Antragstellung folgenden Monat. Änderungen des Einkommens sind von Berechtigten unverzüglich der zuständigen Behörde mitzuteilen. Turnusmäßige und anlassunabhängige Einkommensüberprüfungen finden nicht statt. § 118 Absatz 3 bis 4a des Sechsten Buches Sozialgesetzbuch gilt entsprechend.
-
-(5) Der Anspruch auf die besondere Zuwendung für Haftopfer nach Absatz 1 ist unpfändbar, nicht übertragbar und nicht vererbbar.
-
-(6) Das Erste und das Zehnte Buch Sozialgesetzbuch finden entsprechende Anwendung, soweit nicht dieses Gesetz etwas anderes bestimmt.Führt eine Änderung dieses Gesetzes zu einer Änderung laufend gewährter Leistungen nach Absatz 1, sind diese von Amts wegen neu festzustellen. Von einer förmlichen Bescheiderteilung kann abgesehen werden; ausgenommen hiervon sind Fälle nach Absatz 3.
-
-(7) Die besondere Zuwendung für Haftopfer wird Personen nicht gewährt, gegen die eine Freiheitsstrafe von mindestens drei Jahren wegen einer vorsätzlichen Straftat rechtskräftig verhängt worden ist, sofern die Entscheidung in einer Auskunft aus dem Zentralregister enthalten ist.
+(5) Die besondere Zuwendung für Haftopfer wird Personen nicht gewährt, gegen die eine Freiheitsstrafe von mindestens drei Jahren wegen einer vorsätzlichen Straftat rechtskräftig verhängt worden ist, sofern die Entscheidung in einer Auskunft aus dem Zentralregister enthalten ist.
 
 # § 18 – Unterstützungsleistungen
 
-(1) Berechtigte nach § 17 Abs. 1, die in ihrer wirtschaftlichen Lage besonders beeinträchtigt sind, erhalten Unterstützungsleistungen, wenn die Dauer der mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbaren Freiheitsentziehung insgesamt weniger als 90 Tage betragen hat. Das gilt nicht für Berechtigte, denen in Härtefällen nach § 19 eine besondere Zuwendung nach § 17a gewährt wird. Für die Gewährung der Leistungen nach Satz 1 ist die nach § 15 des Häftlingshilfegesetzes errichtete Stiftung für ehemalige politische Häftlinge zuständig.
+(1) Berechtigte nach § 17 Abs. 1 erhalten Unterstützungsleistungen, wenn die Dauer der mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbaren Freiheitsentziehung insgesamt weniger als 90 Tage betragen hat. Das gilt nicht für Berechtigte, denen in Härtefällen nach § 19 eine besondere Zuwendung nach § 17a gewährt wird. Für die Gewährung der Leistungen nach Satz 1 ist die Stiftung für ehemalige politisch Verfolgte nach § 1 des Gesetzes über die Stiftung für ehemalige politisch Verfolgte zuständig.
 
-(2) Der Stiftungsrat der Stiftung für ehemalige politische Häftlinge stellt Richtlinien für die Verwendung der Mittel auf, in denen er bestimmt, unter welchen Voraussetzungen und bis zu welcher Höhe Unterstützungsleistungen gewährt werden. Die Richtlinien bedürfen der Genehmigung des für dieses Gesetz federführenden Bundesministeriums im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen. Die §§ 22 und 23 des Häftlingshilfegesetzes gelten entsprechend.
+(2) Der Stiftungsrat der Stiftung für ehemalige politisch Verfolgte stellt Richtlinien für die Verwendung der Mittel auf, in denen er bestimmt, unter welchen Voraussetzungen und bis zu welcher Höhe Unterstützungsleistungen gewährt werden. Die Richtlinien bedürfen der Genehmigung des Bundesministeriums der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen.
 
-(3) Nach dem Tod des Berechtigten gilt für seine nächsten Angehörigen (Ehegatten, Kinder und Eltern) Absatz 1 in Verbindung mit Absatz 2 entsprechend, soweit sie durch die Freiheitsentziehung nicht unerheblich unmittelbar mitbetroffen waren. Das gilt auch für die nächsten Angehörigen der Berechtigten nach § 17a. Die nächsten Angehörigen von
+(3) Nach dem Tod des Berechtigten gilt für seine nächsten Angehörigen (Ehegatten, Kinder und Eltern) Absatz 1 in Verbindung mit Absatz 2 entsprechend, soweit sie durch die Freiheitsentziehung nicht unerheblich unmittelbar mitbetroffen waren. Das gilt auch für die nächsten Angehörigen der Berechtigten nach § 17a.
 
-1. Hingerichteten oder
+(4) Absatz 3 gilt entsprechend für die nächsten Angehörigen von Personen, die aus den in § 1 Abs. 1 Nr. 1 des Häftlingshilfegesetzes genannten Gründen aus dem Beitrittsgebiet fliehen wollten oder geflohen sind und infolge von Maßnahmen zur Verhinderung der Flucht ihr Leben verloren haben, soweit eine Bescheinigung nach § 10 Abs. 4 des Häftlingshilfegesetzes ausgestellt worden ist.
 
-2. während der Freiheitsentziehung oder im Anschluss an die Freiheitsentziehung an deren Folgen Verstorbenen
+(5) Absatz 3 gilt entsprechend für die nächsten Angehörigen von Personen, die aus Anlass der Niederschlagung des Aufstandes vom 17. Juni 1953 im Beitrittsgebiet ihr Leben verloren haben, soweit eine Entscheidung nach § 12 des Verwaltungsrechtlichen Rehabilitierungsgesetzes ergangen ist.
 
-erhalten die Leistungen nach Satz 1 auch dann, wenn sie nicht in ihrer wirtschaftlichen Lage besonders beeinträchtigt sind.
-
-(4) Ein Antragsteller, der in einem Heim für Kinder oder Jugendliche untergebracht war, erhält auch Unterstützungsleistungen, wenn
-
-1. die Unterbringung angeordnet wurde, weil zeitgleich mit dieser eine freiheitsentziehende Maßnahme, die mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbar ist, an Eltern, Elternteilen oder einer Person vollstreckt wurde, die ihn nicht nur vorübergehend in ihren Haushalt aufgenommen und dort gepflegt, erzogen und beaufsichtigt hat,
-
-2. er in seiner wirtschaftlichen Lage besonders beeinträchtigt ist,
-
-3. er einen Antrag auf Rehabilitierung gestellt hat, der rechtskräftig abgelehnt worden ist, und
-
-4. die Person nach Nummer 1 infolge der freiheitsentziehenden Maßnahme nach § 1 auch in Verbindung mit § 2 rehabilitiert worden ist, für sie eine Bescheinigung nach § 10 Absatz 4 Satz 1 des Häftlingshilfegesetzes ausgestellt worden ist oder für sie festgestellt worden ist, dass die Voraussetzungen nach § 1 Absatz 1 des Häftlingshilfegesetzes vorliegen.
-
-Absatz 1 Satz 3 und Absatz 2 gelten entsprechend.
-
-(5) Absatz 3 gilt entsprechend für die nächsten Angehörigen von Personen, die aus den in § 1 Abs. 1 Nr. 1 des Häftlingshilfegesetzes genannten Gründen aus dem Beitrittsgebiet fliehen wollten oder geflohen sind und infolge von Maßnahmen zur Verhinderung der Flucht ihr Leben verloren haben, soweit eine Bescheinigung nach § 10 Abs. 4 des Häftlingshilfegesetzes ausgestellt worden ist.
-
-(6) Absatz 3 gilt entsprechend für die nächsten Angehörigen von Personen, die aus Anlass der Niederschlagung des Aufstandes vom 17. Juni 1953 im Beitrittsgebiet ihr Leben verloren haben, soweit eine Entscheidung nach § 12 des Verwaltungsrechtlichen Rehabilitierungsgesetzes ergangen ist.
+(6) § 17a Absatz 3 gilt für Unterstützungsleistungen entsprechend.
 
 # § 19 – Härteregelung
 
@@ -269,7 +237,7 @@ Ergibt sich eine besondere Härte daraus, dass keine Kapitalentschädigung oder 
 
 Der Bund trägt 65 vom Hundert der Ausgaben, die den Ländern durch Leistungen nach diesem Gesetz entstehen.
 
-# § 21 – Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung
+# § 21 – Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung; Verordnungsermächtigung
 
 (1) Ein Betroffener, der infolge der Freiheitsentziehung eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf Antrag Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch. Dies gilt nicht, soweit er wegen desselben schädigenden Ereignisses bereits folgende Leistungen erhält:
 
@@ -289,7 +257,7 @@ Der Bund trägt 65 vom Hundert der Ausgaben, die den Ländern durch Leistungen n
 
 (5) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Sie ist gegeben, wenn nach dem aktuellen Stand der medizinischen Wissenschaft mehr für als gegen einen ursächlichen Zusammenhang spricht.
 
-(6) Bei psychischen Gesundheitsstörungen wird die Wahrscheinlichkeit des ursächlichen Zusammenhangs im Einzelfall vermutet, wenn diejenigen medizinischen Tatsachen vorliegen, die nach den Erfahrungen der medizinischen Wissenschaft geeignet sind, einen Ursachenzusammenhang zwischen einem nach Art und Schwere geeigneten schädigenden Ereignis und der gesundheitlichen Schädigung und der Schädigungsfolge zu begründen, und diese Vermutung nicht durch einen anderen Kausalverlauf widerlegt wird.
+(6) Beim Vorliegen bestimmter schädigender Ereignisse und bestimmter gesundheitlicher Schädigungen des Antragstellers wird die Wahrscheinlichkeit des ursächlichen Zusammenhangs vermutet. Das Bundesministerium der Justiz bestimmt durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Arbeit und Soziales sowie im Benehmen mit der oder dem Bundesbeauftragten für die Opfer der SED-Diktatur beim Deutschen Bundestag unter Beachtung des aktuellen Standes der medizinischen Wissenschaft, welche schädigenden Ereignisse und welche gesundheitlichen Schädigungen solche im Sinne des Satzes 1 sind.
 
 (7) Wenn die zur Anerkennung einer Gesundheitsstörung als Schädigungsfolge erforderliche Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache der Gesundheitsstörung in der medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Schädigungsfolge anerkannt werden. Die Zustimmung kann allgemein erteilt werden.
 

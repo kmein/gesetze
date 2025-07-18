@@ -1,198 +1,489 @@
-% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Feinwerkmechaniker-Handwerk  (Feinwerkmechanikermeisterverordnung - FeinwerkMechMstrV)
-% Ausfertigungsdatum: 05.04.2001
+% Verordnung über die Meisterprüfung in den Teilen I und II im Feinwerkmechaniker-Handwerk  (Feinwerkmechanikermeisterverordnung - FeinwerkMechMstrV)
+% Ausfertigungsdatum: 02.12.2024
  
 # Eingangsformel
 
-Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074) in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der zuletzt durch Artikel 2 Nummer 1 des Gesetzes vom 9. November 2022 (BGBl. I S. 2009) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-# § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gegenstand
 
-(1) Die Meisterprüfung im Feinwerkmechaniker-Handwerk umfasst folgende selbständige Prüfungsteile:
+Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in den Teilen I und II der Meisterprüfung zu stellenden Anforderungen sowie die Bestimmungen zur Durchführung der Meisterprüfung im Feinwerkmechaniker-Handwerk in folgenden Schwerpunkten:
 
-1. die Prüfung der meisterhaften Verrichtung der gebräuchlichen Arbeiten (Teil I),
+1. Maschinenbau, dieser umfasst die Planung, die Erstellung sowie die Instandhaltung von Maschinen oder Vorrichtungen und deren Komponenten sowie deren Steuerungstechnik,
 
-2. die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
+2. Werkzeugbau, dieser umfasst die Planung, die Erstellung sowie die Instandhaltung von Werkzeugen oder Vorrichtungen und deren Komponenten sowie deren Steuerungstechnik,
 
-3. die Prüfung der erforderlichen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
+3. Feinmechanik, diese umfasst die Planung, die Erstellung sowie die Instandhaltung von feinmechanischen Produkten oder Vorrichtungen und deren Komponenten sowie deren Steuerungstechnik,
 
-4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil V).
-
-(2) Für die Meisterprüfung in Teil I im Feinwerkmechaniker-Handwerk werden die Schwerpunkte Maschinenbau, Werkzeugbau und Feinmechanik gebildet; der Prüfling hat einen dieser Schwerpunkte auszuwählen.
+4. Zerspanungstechnik, diese umfasst die Planung sowie die Erstellung von geometrischen Bauteilen oder Vorrichtungen und deren Komponenten.
 
 # § 2 – Meisterprüfungsberufsbild
 
-(1) Durch die Meisterprüfung im Feinwerkmechaniker-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
+In den Teilen I und II der Meisterprüfung im Feinwerkmechaniker-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
-(2) Allen Schwerpunkten im Feinwerkmechaniker-Handwerk werden zum Zwecke der Meisterprüfung folgende gemeinsame Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
+1. einen Betrieb im Feinwerkmechaniker-Handwerk führen und organisieren und dabei rechnergestützt technische, kaufmännische und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung
 
-1. Kundenwünsche ermitteln, Kunden beraten, Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen kalkulieren und Angebote erstellen,
+a) der Kostenstrukturen,
 
-2. Aufgaben der technischen und kaufmännischen Betriebsführung, der Betriebsorganisation, der Personalplanung und des Personaleinsatzes wahrnehmen, insbesondere unter Berücksichtigung der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, der Haftung sowie des Arbeitsschutzes, der Arbeitssicherheit und des Umweltschutzes; Informationssysteme nutzen,
+b) der Wettbewerbssituation,
 
-3. Aufträge durchführen unter Berücksichtigung von Fertigungstechniken, Normen, Vorschriften sowie des Personalbedarfs und der Ausbildung; Auftragsbearbeitung und Auftragsabwicklung organisieren, planen und überwachen,
+c) der für den Betrieb wesentlichen Ausbildung, Fort- und Weiterbildung des Personals,
 
-4. technische Arbeitspläne und -prozesse, Skizzen und technische Zeichnungen, insbesondere unter Einsatz von rechnergestützten Systemen erstellen,
+d) der Betriebsorganisation,
 
-5. Werkstücke unter Berücksichtigung von Festigkeit, Statik und Dynamik herstellen,
+e) des Qualitätsmanagements,
 
-6. Werkstoffe entsprechend ihrer Arten und Eigenschaften verarbeiten; Verfahren zur Oberflächenbehandlung und Stoffeigenschaftsänderung bei der Planung, Konstruktion und Fertigung berücksichtigen,
+f) des Arbeitsschutzrechtes,
 
-7. elektronische, elektrotechnische und hydraulische, pneumatische sowie steuerungstechnische Lösungen erarbeiten,
+g) des Datenschutzes, der Datensicherheit und der Datenverarbeitung,
 
-8. manuelle, maschinelle und programmgesteuerte Be- und Verarbeitungsverfahren sowie Montage- und Fügetechniken beherrschen,
+h) der ökologischen Nachhaltigkeit, der ökonomischen Nachhaltigkeit sowie der sozialen Nachhaltigkeit sowie
 
-9. Prüf- und Messtechniken unter Berücksichtigung von Mess- und Prüfplänen und Qualitätssicherung durchführen und Ergebnisse dokumentieren,
+i) technologischer Entwicklungen sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien,
 
-10. Fehler- und Störungssuche durchführen, Maßnahmen zur Beseitigung von Fehlern und Störungen beherrschen, Ergebnisse bewerten und dokumentieren,
+2. Konzepte für Betriebs- und Lagerausstattung sowie für logistische Geschäfts- und Arbeitsprozesse entwickeln und umsetzen,
 
-11. Leistungen abnehmen und protokollieren, Nachkalkulation durchführen.
+3. Kundenwünsche und jeweilige Rahmenbedingungen ermitteln, Anforderungen ableiten, Kundinnen und Kunden beraten, Serviceleistungen anbieten, Lösungen entwickeln, Verhandlungen führen und Ziele festlegen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen,
 
-(3) Den einzelnen Schwerpunkten im Feinwerkmechaniker-Handwerk werden zum Zwecke der Meisterprüfung folgende spezifische Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
+4. Geschäfts- und Arbeitsprozesse zur Leistungserbringung planen, organisieren und überwachen,
 
-1. Schwerpunkt Maschinenbau:
+5. Leistungen im Feinwerkmechaniker-Handwerk unter Berücksichtigung des gewählten Schwerpunkts erbringen, insbesondere
 
-a) Maschinen und Bauelemente herstellen, montieren, in Betrieb nehmen und instand halten,
+a) Werkstücke unter Berücksichtigung von Festigkeit, von Statik sowie von Dynamik herstellen,
 
-b) Prozessautomatisierung, insbesondere Montage- und Handhabungstechniken, planen, auswählen und anwenden,
+b) Werkstoffe entsprechend ihrer Arten und Eigenschaften verarbeiten,
 
-c) Transport- und Fördertechniken dem jeweiligen Verwendungszweck zuordnen und anwenden;
+c) Verfahren zur Oberflächenbehandlung sowie zur Stoffeigenschaftsänderung bei der Planung, Konstruktion und Fertigung berücksichtigen,
 
-2. Schwerpunkt Werkzeugbau:
+d) Beurteilen und Anwenden von
 
-a) Schnitt-, Stanz- und Umformwerkzeuge sowie Formwerkzeuge und Vorrichtungen planen, entwerfen, herstellen, montieren, in Betrieb nehmen und instand halten,
+aa)  
+manuellen Bearbeitungsverfahren sowie manuellen Verarbeitungsverfahren,
 
-b) Eigenschaften und Verhalten der zu verarbeitenden Werkstoffe berücksichtigen;
+bb)  
+maschinellen Bearbeitungsverfahren sowie maschinellen Verarbeitungsverfahren sowie
 
-3. Schwerpunkt Feinmechanik:
+cc) programmgesteuerten Bearbeitungsverfahren sowie programmgesteuerten Verarbeitungsverfahren,
 
-a) optische und mechanische Geräte sowie mechanische Komponenten von elektrotechnischen Geräten und Systemen planen, entwerfen, herstellen, montieren, in Betrieb nehmen und instand halten,
+e) Einsatz von neuartigen Fertigungsverfahren, insbesondere additiven Fertigungsverfahren, beurteilen und anwenden,
 
-b) Modelle und Versuchseinrichtungen planen, entwerfen, herstellen, montieren, in Betrieb nehmen und instand halten,
+f) auftragsbezogene Unterlagen und Bestimmungen auswerten und bei der Auftragsplanung, Auftragsdurchführung und Auftragskontrolle berücksichtigen, auch unter Berücksichtigung von Umweltvorschriften,
 
-c) Instrumente und Messgeräte herstellen, justieren und instand halten, dabei technische Besonderheiten berücksichtigen,
+g) Konzepte, technische Zeichnungen, Arbeitspläne und technische Dokumentationen unter Einsatz von Informations- und Kommunikationstechnologien, erarbeiten, bewerten und anpassen,
 
-d) Maschinen und Bearbeitungswerkzeuge den jeweiligen Anforderungen und Verwendungszwecken zuordnen.
+h) Konstruktionen softwaregestützt erstellen, Fertigungsprozesse simulieren und Möglichkeiten der teilautomatisierten Produktion und der automatisierten Produktion prüfen sowie
 
-# § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
+i) unterschiedliche Fertigungsprozesse in deren Wirtschaftlichkeit bewerten und Vorteile und Nachteile an Kundinnen und Kunden kommunizieren,
 
-(1) Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
+6. technische Gesichtspunkte, organisatorische Gesichtspunkte sowie rechtliche Gesichtspunkte bei der Leistungserbringung berücksichtigen, insbesondere
 
-(2) Die Anfertigung des Meisterprüfungsprojekts soll nicht länger als acht Arbeitstage, das Fachgespräch nicht länger als 30 Minuten dauern.
+a) die datenschutzrechtlichen Vorschriften und damit verbundene Anforderungen,
 
-(3) Das Meisterprüfungsprojekt und das Fachgespräch werden gesondert bewertet. Die Prüfungsleistungen im Meisterprüfungsprojekt und im Fachgespräch werden im Verhältnis 3:1 gewichtet. Hieraus wird eine Gesamtbewertung gebildet.
+b) die Datensicherheit und die Datensicherung,
 
-(4) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch mit weniger als 30 Punkten bewertet worden sein darf.
+c) die Sicherheitsrisiken, die Gesundheitsrisiken, die Umweltrisiken und die Haftungsrisiken sowie damit verbundene Hinweispflichten,
+
+d) der effiziente Einsatz von Energie sowie von Ressourcen unter Berücksichtigung von Wirtschaftlichkeit und Umweltschutz,
+
+e) die berufsbezogenen Rechtsvorschriften und technischen Normen,
+
+f) die allgemein anerkannten Regeln der Technik,
+
+g) das einzusetzende Personal sowie die Materialien, Arbeits- und Betriebsmittel sowie
+
+h) die Möglichkeiten zum Einsatz von Auszubildenden,
+
+7. Arten und Eigenschaften von zu verwendenden Materialien berücksichtigen,
+
+8. Unteraufträge kriterienorientiert, insbesondere unter Berücksichtigung von Qualität der Leistungen und Rechtsvorschriften, vergeben und deren Ausführung kontrollieren,
+
+9. Prüf- und Messtechniken unter Berücksichtigung von Prüf- und Messplänen sowie Qualitätssicherung anwenden und Ergebnisse dokumentieren,
+
+10. Vorgaben Dritter, insbesondere Zertifizierungen und Werksnormen, beurteilen und anwenden,
+
+11. Betriebsabläufe unter Verwendung von Systemen zur Planung von unternehmerischen Ressourcen (Enterprise-Resource-Planning-Systeme) planen und steuern,
+
+12. fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus bewerten und dokumentieren sowie
+
+13. erbrachte Leistungen kontrollieren, Mängel beseitigen, Leistungen dokumentieren und übergeben, Abnahmeprotokolle, Prüfprotokolle sowie Messprotokolle erstellen sowie Nachkalkulationen durchführen, Auftragsabwicklung auswerten und gegebenenfalls optimieren.
+
+Neben den in Satz 2 Nummer 5 genannten Fertigkeiten und Kenntnissen sind bei der Leistungserbringung in den folgenden Schwerpunkten folgende Fertigkeiten und Kenntnisse zugrunde zu legen:
+
+1. im Schwerpunkt Maschinenbau:
+
+a) Maschinen oder Vorrichtungen sowie deren Komponenten und Steuerungstechnik herstellen, montieren, in Betrieb nehmen, warten und instand halten,
+
+b) Prozessautomatisierungstechniken, insbesondere Montage- und Handhabungstechniken, planen, auswählen und anwenden,
+
+c) Transport- und Fördertechniken dem jeweiligen Verwendungszweck zuordnen und anwenden,
+
+d) geeignete Fügetechniken, insbesondere thermische Fügetechniken sowie mechanische Fügetechniken, beurteilen sowie
+
+e) steuerungstechnische Lösungen erarbeiten, insbesondere
+
+aa)  
+elektronische Lösungen,
+
+bb)  
+elektrotechnische Lösungen,
+
+cc) hydraulische Lösungen sowie
+
+dd)  
+pneumatische Lösungen,
+
+2. im Schwerpunkt Werkzeugbau:
+
+a) Schnittwerkzeuge, Stanzwerkzeuge und Umformwerkzeuge sowie Formwerkzeuge oder Vorrichtungen sowie deren Komponenten und Steuerungstechnik planen, entwerfen, herstellen, montieren, in Betrieb nehmen, warten und instand halten,
+
+b) Eigenschaften und Verhalten der zu verarbeitenden Werkstoffe berücksichtigen,
+
+c) geeignete Fügetechniken, insbesondere thermische Fügetechniken sowie mechanische Fügetechniken, beurteilen sowie
+
+d) Erarbeiten von steuerungstechnischen Lösungen, insbesondere
+
+aa)  
+elektronische Lösungen,
+
+bb)  
+elektrotechnische Lösungen,
+
+cc) hydraulische Lösungen sowie
+
+dd)  
+pneumatische Lösungen,
+
+3. im Schwerpunkt Feinmechanik:
+
+a) Planen, Entwerfen, Herstellen, Montieren, Inbetriebnehmen sowie Instandhalten von
+
+aa)  
+optischen Geräten sowie feinmechanischen Geräten sowie deren Komponenten und Steuerungstechnik sowie
+
+bb)  
+optischen Systemen sowie feinmechanischen Systemen sowie deren Komponenten und Steuerungstechnik,
+
+b) Modelle sowie Versuchseinrichtungen planen, entwerfen, herstellen, montieren, in Betrieb nehmen sowie instand halten,
+
+c) Messgeräte und Messsysteme herstellen, justieren, kalibrieren sowie instand halten,
+
+d) Maschinen sowie Bearbeitungswerkzeuge den jeweiligen Anforderungen und Verwendungszwecken zuordnen,
+
+e) geeignete Fügetechniken beurteilen, insbesondere thermische Fügetechniken sowie mechanische Fügetechniken sowie
+
+f) Erarbeiten von steuerungstechnischen Lösungen, insbesondere
+
+aa)  
+elektronische Lösungen,
+
+bb)  
+elektrotechnische Lösungen,
+
+cc) hydraulische Lösungen sowie
+
+dd)  
+pneumatische Lösungen,
+
+4. im Schwerpunkt Zerspanungstechnik:
+
+a) geometrische Bauteile oder Vorrichtungen und deren Komponenten planen und erstellen,
+
+b) Anlagen für die Herstellung der in Buchstabe a genannten Elemente instand halten,
+
+c) Eigenschaften und Verhalten der zu verarbeitenden Werkstoffe berücksichtigen,
+
+d) geeignete Verfahren der Feinbearbeitung beurteilen sowie
+
+e) Produktionsplanung und -steuerung überwachen.
+
+# § 3 – Ziel und Gliederung der Prüfung in Teil I
+
+(1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er wesentliche Tätigkeiten des Feinwerkmechaniker-Handwerks meisterhaft verrichtet.
+
+(2) Die Prüfung in Teil I gliedert sich in ein Meisterprüfungsprojekt nach § 4 und ein darauf bezogenes Fachgespräch nach § 5. Das Meisterprüfungsprojekt und das Fachgespräch bilden einen Prüfungsbereich.
 
 # § 4 – Meisterprüfungsprojekt
 
-(1) In dem von ihm gewählten Schwerpunkt hat der Prüfling ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
+(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus Planungsarbeiten, Durchführungsarbeiten, Kontrollarbeiten und Dokumentationsarbeiten.
 
-(2) Als Meisterprüfungsprojekt ist in dem gewählten Schwerpunkt eine der nachfolgenden Aufgaben durchzuführen. Die Aufgabe umfasst eine Werkstattzeichnung mit dazugehörigen Plänen, eine Kalkulation und einen Arbeitsplan, die Anfertigung des entsprechenden Produkts und ein Prüfprotokoll.
+(2) Als Meisterprüfungsprojekt sind folgende Arbeiten durchzuführen:
 
-1. Schwerpunkt Maschinenbau:
+1. im Rahmen der Planungsarbeiten Werkstattzeichnungen und dazugehörigen Stücklisten, eine Kalkulation sowie einen Arbeitsplan unter Verwendung von Konstruktionssoftware CAD und Enterprise-Resource-Planning-Systemen erstellen,
 
-eine Maschine oder Komponente davon entwerfen, planen, kalkulieren und anfertigen,
+2. auf Grundlage der Tätigkeiten nach Nummer 1 folgende Durchführungsarbeiten erbringen:
 
-2. Schwerpunkt Werkzeugbau:
+a) im Schwerpunkt Maschinenbau mindestens eine Maschine, Vorrichtung oder deren Komponenten anfertigen,
 
-ein Schnitt-, Stanz- oder Umformwerkzeug, eine Form oder Vorrichtung oder Komponenten davon entwerfen, planen, kalkulieren und anfertigen,
+b) im Schwerpunkt Werkzeugbau mindestens ein Schnittwerkzeug, Stanzwerkzeug oder Umformwerkzeug, eine Form, Vorrichtung oder deren Komponenten anfertigen,
 
-3. Schwerpunkt Feinmechanik:
+c) im Schwerpunkt Feinmechanik mindestens ein Instrument, ein Feingerät oder Komponenten davon, einschließlich steuerungstechnischer Elemente, anfertigen oder
 
-ein Instrument oder Feingerät oder Komponenten davon, einschließlich steuerungstechnischer Elemente, entwerfen, planen, kalkulieren und anfertigen.
+d) im Schwerpunkt Zerspanungstechnik mindestens ein geometrisches Bauteil, eine Vorrichtung oder deren Komponenten anfertigen sowie
 
-(3) Zum Nachweis der schwerpunktübergreifenden Qualifikationen ist bei der Anfertigung des Produkts nach Absatz 2 die spanende Bearbeitung mit programmgesteuerten Werkzeugmaschinen einschließlich der Erstellung und Optimierung eines computergesteuerten Programms durchzuführen.
+3. Kontrollarbeiten und Dokumentationsarbeiten zu erbringen, bestehend aus Messprotokollen erstellen, ausfüllen und auswerten.
 
-(4) Die im Meisterprüfungsprojekt erbrachten Prüfungsleistungen der Werkstattzeichnung mit den dazugehörigen Plänen, der Kalkulation und des Arbeitsplans werden mit 40 vom Hundert, das angefertigte Produkt mit 50 vom Hundert und das Prüfprotokoll mit 10 vom Hundert gewichtet.
+(3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt.
+
+(4) Die Auswahl der Durchführungsarbeiten nach Absatz 2 Nummer 2 Buchstabe a bis d erfolgt durch den Meisterprüfungsausschuss unter Berücksichtigung des vom Prüfling gewählten Schwerpunktes nach Absatz 2 Nummer 1 bis 3.
+
+(5) Für die Bearbeitung des Meisterprüfungsprojekts stehen dem Prüfling acht Arbeitstage zur Verfügung.
+
+(6) Für die Bewertung des Meisterprüfungsprojekts werden die einzelnen Bestandteile wie folgt gewichtet:
+
+1. die Planungsarbeiten anhand der Planungsunterlagen, bestehend aus Werkstattzeichnungen und dazugehörigen Stücklisten, einer Kalkulation sowie einem Arbeitsplan, mit 40 Prozent,
+
+2. die Durchführungsarbeiten mit 40 Prozent und
+
+3. die Kontrollarbeiten und die Dokumentationsarbeiten anhand der Dokumentationsunterlagen mit 20 Prozent.
 
 # § 5 – Fachgespräch
 
-Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
+(1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-# § 6 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
 
-(1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung technologischer, ablauf- und verfahrenstechnischer, werkstofftechnischer und mathematischer Kenntnisse nachweisen, dass er Probleme analysieren und bewerten sowie geeignete Lösungswege aufzeigen und dokumentieren kann.
+2. Kundinnen und Kunden zu beraten und dabei den jeweiligen Kundenwunsch sowie wirtschaftliche, rechtliche und technische Gesichtspunkte in das Beratungsgespräch einzubeziehen,
 
-(2) Prüfungsfächer sind:
+3. sein Vorgehen bei der Planung und Durchführung des Meisterprüfungsprojekts zu begründen sowie
 
-1. Feinwerktechnik,
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Feinwerkmechaniker-Handwerk zu berücksichtigen.
 
-2. Auftragsabwicklung,
+(2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
-3. Betriebsführung und Betriebsorganisation.
+# § 6 – Gewichtung, Bestehen der Prüfung in Teil I
 
-(3) In jedem der Prüfungsfächer ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss.
+(1) Das Meisterprüfungsprojekt und das Fachgespräch werden gesondert bewertet. Für das Gesamtergebnis der Prüfung in Teil I der Meisterprüfung ist die Bewertung des Meisterprüfungsprojekts und die Bewertung des Fachgesprächs im Verhältnis 3:1 zu gewichten.
 
-1. Feinwerktechnik:
+(2) Der Prüfling hat den Teil I der Meisterprüfung bestanden, wenn
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, feinwerktechnische Aufgaben und Probleme unter Beachtung wirtschaftlicher und ökologischer Aspekte in einem Feinwerkmechanikerbetrieb zu bearbeiten. Er soll feinwerktechnische Sachverhalte beurteilen und beschreiben. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+1. das Meisterprüfungsprojekt und das Fachgespräch jeweils mit mindestens 30 Punkten bewertet worden ist und
 
-a) Maschinen sowie deren Bauteile und Baugruppen, Geräte, Werkzeuge, technische Modelle oder Versuchseinrichtungen entwerfen und berechnen oder Konstruktionsentwürfe bewerten oder korrigieren,
+2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
-b) Elemente der Prozessautomatisierung und -mechanisierung sowie der Transport- und Fördertechnik unterscheiden und beurteilen,
+# § 7 – Ziel und Gliederung der Prüfung in Teil II
 
-c) Eigenschaften und Verhalten zu verarbeitender Werkstoffe beurteilen und Verwendungszwecken zuordnen,
+(1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben in seinem gewählten Schwerpunkt zu lösen und dabei nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Feinwerkmechaniker-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
-d) Probleme der Materialbe- und -verarbeitung sowie des Fügens beschreiben, Lösungen erarbeiten, bewerten oder korrigieren,
+1. nach Maßgabe des § 8 „Anforderungen von Kundinnen und Kunden eines Betriebs im Feinwerkmechaniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“,
 
-e) Lösungen für Problemstellungen im Bereich der Steuerungstechnik erarbeiten, bewerten oder korrigieren,
+2. nach Maßgabe des § 9 „Leistungen eines Betriebs im Feinwerkmechaniker-Handwerk erbringen, kontrollieren und übergeben“ und
 
-f) Prüf- und Messtechniken sowie Verfahren der Funktionsprüfungen und Fehlersuche dem jeweiligen Verwendungszweck zuordnen,
+3. nach Maßgabe des § 10 „Einen Betrieb im Feinwerkmechaniker-Handwerk führen und organisieren“.
 
-g) Verfahren zur Oberflächenbehandlung und Stoffeigenschaftsänderung dem jeweiligen Verwendungszweck zuordnen,
+(2) Der Prüfling hat in jedem der drei Handlungsfelder eine fallbezogene Aufgabe zu bearbeiten, die den Anforderungen des Absatzes 1 entspricht. Bei jeder Aufgabenstellung können die Qualifikationen der drei Handlungsfelder handlungsfeldübergreifend verknüpft werden.
 
-2. Auftragsabwicklung:
+(3) Die Aufgaben sind schriftlich zu bearbeiten.
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, bei der Auftragsabwicklung die ablauftechnischen Maßnahmen, die für den technischen und wirtschaftlichen Erfolg in einem Feinwerkmechanikerbetrieb notwendig sind, kundenorientiert einzuleiten und abzuschließen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+(4) Für die Bearbeitung der Aufgaben stehen dem Prüfling in jedem Handlungsfeld drei Stunden zur Verfügung. Eine Prüfungsdauer von sechs Stunden an einem Tag darf nicht überschritten werden.
 
-a) Auftragsabwicklungsprozesse planen,
+# § 8 – Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Feinwerkmechaniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“
 
-b) unter Berücksichtigung der Fertigungstechnik, der Montage sowie des Einsatzes von Material, Geräten und Personal Methoden und Verfahren der Arbeitsplanung und -organisation bewerten, dabei qualitätssichernde Aspekte darstellen sowie die Vor- und Nachkalkulation durchführen,
+(1) Im Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Feinwerkmechaniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Betrieb im Feinwerkmechaniker-Handwerk Anforderungen erfolgsorientiert, kundenorientiert sowie qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er datenschutzrechtliche Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte und soziale Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
 
-c) technische Arbeitspläne, insbesondere unter Anwendung von elektronischen Datenverarbeitungssystemen, erarbeiten, bewerten und korrigieren.
+(2) Das Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Feinwerkmechaniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
 
-3. Betriebsführung und Betriebsorganisation:
+1. Kundenwünsche und die Rahmenbedingungen zu deren Erfüllung analysieren, dokumentieren sowie bewerten und daraus Anforderungen ableiten, hierzu zählen insbesondere:
 
-Der Prüfling soll nachweisen, das er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Feinwerkmechanikerbetrieb wahrzunehmen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+a) Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten,
+
+b) Ausschreibungen und Angebotsanfragen öffentlicher Auftraggeber, gewerblicher Auftraggeber oder privater Auftraggeber analysieren und bewerten,
+
+c) Anforderungen der auftragsbezogenen Datensicherheit bewerten und berücksichtigen sowie
+
+d) Ergebnisse der vorstehenden Handlungsschritte dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten,
+
+2. Lösungsmöglichkeiten entwickeln, erläutern und begründen, auch unter Berücksichtigung der berufsbezogenen Rechtsvorschriften und technischen Normen sowie der allgemein anerkannten Regeln der Technik, hierzu zählen insbesondere:
+
+a) Möglichkeiten und Notwendigkeiten des Einsatzes von Materialien, Bauteilen, Maschinen, Werkzeugen, Geräten und Personal, auch unter Berücksichtigung einzusetzender Verfahren, darstellen, erläutern und begründen,
+
+b) Sicherheitsrisiken, Gesundheitsrisiken, Umweltrisiken sowie Haftungsrisiken bewerten und Konsequenzen ableiten,
+
+c) Maschinen, deren Baugruppen sowie deren Bauteile, Geräte, Werkzeuge, technische Modelle sowie Versuchseinrichtungen entwerfen und berechnen,
+
+d) Konstruktionsentwürfe bewerten und korrigieren,
+
+e) Elemente der Prozessautomatisierung und -mechanisierung sowie der Transport- und Fördertechnik unterscheiden und beurteilen,
+
+f) Eigenschaften und Verhalten zu verarbeitender Werkstoffe beurteilen und Verwendungszwecken zuordnen,
+
+g) Probleme bei der Materialbearbeitung, bei der Materialverarbeitung, beim thermischen Fügen sowie beim mechanischen Fügen beschreiben, Lösungen erarbeiten, bewerten und umsetzen,
+
+h) Lösungen für Probleme im Bereich der Steuerungstechnik erarbeiten, bewerten und umsetzen,
+
+i) Prüf- und Messtechniken sowie Verfahren der Funktionsprüfungen sowie der Fehlersuche dem jeweiligen Verwendungszweck zuordnen,
+
+j) Verfahren zur Oberflächenbehandlung und zur Stoffeigenschaftsänderung dem jeweiligen Verwendungszweck zuordnen,
+
+k) Kriterien für die Vergabe von Unteraufträgen festlegen, insbesondere unter Berücksichtigung von Qualität und Rechtsvorschriften, darauf aufbauend Ausschreibungen oder Angebotsanfragen erstellen und hierauf eingehende Angebote bewerten sowie
+
+l) Vor- und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkte, rechtliche Gesichtspunkte sowie sicherheitstechnische Gesichtspunkte erläutern und abwägen sowie daraus eine Lösung auswählen und diese Auswahl begründen sowie
+
+3. Angebote kalkulieren, erstellen und erläutern sowie Leistungen vereinbaren, hierzu zählen insbesondere:
+
+a) Personalkosten, Materialkosten sowie Gerätekosten auf der Grundlage der Planungen kalkulieren,
+
+b) auf der Grundlage entwickelter Lösungsmöglichkeiten Angebotspositionen bestimmen und zu Angebotspaketen zusammenfassen sowie Preise kalkulieren,
+
+c) Vertragsbedingungen unter Berücksichtigung von Haftungsbestimmungen formulieren und beurteilen,
+
+d) Angebotsunterlagen unter Verwendung von Enterprise-Resource-Planning-Systemen vorbereiten und Angebote erstellen,
+
+e) Angebotspositionen und Vertragsbedingungen gegenüber Kundinnen und Kunden erläutern und begründen sowie Leistungen vereinbaren.
+
+# § 9 – Handlungsfeld „Leistungen eines Betriebs im Feinwerkmechaniker-Handwerk erbringen, kontrollieren und übergeben“
+
+(1) Im Handlungsfeld „Leistungen eines Betriebs im Feinwerkmechaniker-Handwerk erbringen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Leistungen eines Betriebs im Feinwerkmechaniker-Handwerk erfolgsorientiert, kundenorientiert sowie qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu erbringen, zu kontrollieren und zu übergeben. Dabei hat er datenschutzrechtliche Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte und soziale Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Leistungen eines Betriebs im Feinwerkmechaniker-Handwerk erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
+
+1. die Erbringung der Leistungen vorbereiten, hierzu zählen insbesondere:
+
+a) Methoden der Arbeitsplanung und Arbeitsorganisation sowie des Projektmanagements erläutern, auswählen und die Auswahl begründen sowie unter Berücksichtigung einzusetzender Herstellungsverfahren sowie einzusetzender Instandhaltungsverfahren den Einsatz von Personal, Material, Geräten, Maschinen sowie Werkzeugen planen,
+
+b) mögliche Störungen und Risiken bei der Leistungserbringung, auch in der Zusammenarbeit mit anderen an der Leistungserbringung Beteiligten, vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder Behebung entwickeln,
+
+c) Auftragsabwicklungsprozesse unter Verwendung von Enterprise-Resource-Planning-Systemen planen,
+
+d) technische Arbeitspläne, insbesondere unter Anwendung von Enterprise-Resource-Planning-Systemen erarbeiten, bewerten und korrigieren,
+
+e) Entsorgung der nicht-recyclebaren Materialien und der nicht-recyclebaren Hilfsstoffe planen und dokumentieren, recyclebare Materialien und recyclebare Hilfsstoffe der Wiederverwertung zuführen sowie
+
+f) Planen von steuerungstechnischen Lösungen mit
+
+aa)  
+elektrischen Systemen,
+
+bb)  
+elektronischen Systemen,
+
+cc) hydraulischen Systemen,
+
+dd)  
+pneumatischen Systemen sowie
+
+ee)  
+mechanischen Systemen,
+
+2. die Leistungen erbringen, hierzu zählen insbesondere:
+
+a) berufsbezogene Rechtsvorschriften und technische Normen sowie die allgemein anerkannten Regeln der Technik anwenden,
+
+b) Maßnahmen zur Gefahrenvermeidung sowie zur Gefahrenbeseitigung erläutern sowie Konsequenzen ableiten,
+
+c) Fehler und Mängel bei der Erbringung der Leistungen erläutern sowie Maßnahmen zu deren Beseitigung ableiten sowie
+
+d) Vorgehensweise zur Erbringung von Leistungen unter Berücksichtigung von Herstellungsverfahren, von Instandhaltungsverfahren sowie von datenschutzrechtlichen Vorschriften erläutern und begründen sowie
+
+3. die Leistungen unter Anwendung von Informations- und Kommunikationstechnologien kontrollieren, dokumentieren, übergeben sowie abrechnen, hierzu zählen insbesondere:
+
+a) Kriterien zur Feststellung der Qualität der erbrachten Leistungen erläutern,
+
+b) Prüfergebnisse, insbesondere Messungen nach Normen und rechtlichen Vorgaben, dokumentieren, bewerten und erläutern,
+
+c) Vorgehensweise bei Übergabe der Leistungen und Information der Kundinnen und Kunden über Handhabung und Wartung erläutern, dabei Überprüfungs- und Wartungspflichten und Wartungsnotwendigkeiten darstellen,
+
+d) auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten sowie
+
+e) Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung erläutern und beurteilen.
+
+# § 10 – Handlungsfeld „Einen Betrieb im Feinwerkmechaniker-Handwerk führen und organisieren“
+
+(1) Im Handlungsfeld „Einen Betrieb im Feinwerkmechaniker-Handwerk führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Betrieb im Feinwerkmechaniker-Handwerk unter Berücksichtigung der Rechtsvorschriften, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere den Nutzen gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Einen Betrieb im Feinwerkmechaniker-Handwerk führen und organisieren“ besteht aus folgenden Qualifikationen:
+
+1. betriebliche Kosten analysieren und für die Preisgestaltung und Effizienzsteigerung nutzen, hierzu zählen insbesondere:
 
 a) betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,
 
-b) Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsatzmöglichkeiten beurteilen,
+b) betriebliche Kostenstrukturen überprüfen,
 
-c) betriebliches Qualitätsmanagement planen und darstellen,
+c) betriebliche Kennzahlen ermitteln und vergleichen,
 
-d) berufsbezogene Gesetze, Normen, Regeln und Vorschriften anwenden,
+d) Maßnahmen zur Effizienzsteigerung ableiten sowie
 
-e) die Haftung bei der Herstellung, der Instandhaltung und bei Dienstleistungen beurteilen,
+e) betriebliche Kalkulationsmethoden anhand vorgegebener Kostenstrukturen auswählen und anwenden,
 
-f) Erfordernisse der Arbeitssicherheit, des Gesundheitsschutzes und des Umweltschutzes darstellen; Gefährdung beurteilen und Maßnahmen zur Gefährdungsabwehr festlegen,
+2. Marketingmaßnahmen zur Kundengewinnung sowie zur Kundenpflege erarbeiten, hierzu zählen insbesondere:
 
-g) Betriebs- und Lagerausstattung sowie Logistik planen und darstellen,
+a) Auswirkungen technologischer Entwicklungen, wirtschaftlicher Entwicklungen, rechtlicher Entwicklungen, ökologischer Entwicklungen sowie gesellschaftlicher Entwicklungen und veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen,
 
-h) Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden beschreiben.
+b) Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen zur Kundengewinnung sowie Kundenpflege entwickeln,
 
-(4) Die Prüfung im Teil II ist schriftlich durchzuführen. Sie soll insgesamt nicht länger als acht Stunden dauern. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
+c) Informationen über Produkte und über das Leistungsspektrum des Betriebs erstellen sowie
 
-(5) Wurden in höchstens zwei der in Absatz 2 genannten Prüfungsfächer jeweils mindestens 30 und weniger als 50 Punkte erreicht, kann in einem dieser Prüfungsfächer eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese das Bestehen des Teils II der Meisterprüfung ermöglicht.
+d) Vertriebswege ermitteln und bewerten,
 
-(6) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Die Prüfung des Teils II ist nicht bestanden, wenn
+3. betriebliches Qualitätsmanagement entwickeln, hierzu zählen insbesondere:
 
-1. ein Prüfungsfach mit weniger als 30 Punkten bewertet worden ist oder
+a) Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen,
 
-2. nach durchgeführter Ergänzungsprüfung zwei Prüfungsfächer jeweils mit weniger als 50 Punkten bewertet worden sind.
+b) Qualitätsmanagementsysteme unterscheiden und beurteilen,
 
-(+++ § 6 Abs. 5 u. 6: Zur Anwendung vgl. § 8 +++)
+c) Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen,
 
-# § 7 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+d) Maßnahmen zur kontinuierlichen Verbesserung von Geschäfts- und Arbeitsprozessen festlegen und bewerten sowie
+
+e) Maßnahmen zur Rückverfolgbarkeit der verwendeten Produkte und Materialien aus Gewährleistungsgründen sowie Haftungsgründen, zur Sicherstellung der Ersatzteilverfügbarkeit sowie für den Nachweis ökologischer und sozialer Nachhaltigkeit erläutern,
+
+4. Personal unter Berücksichtigung gewerbespezifischer Bedingungen planen und anleiten, Personalentwicklung planen, hierzu zählen insbesondere:
+
+a) Einsatz von Personal disponieren,
+
+b) Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren,
+
+c) Methoden zur Anleitung von Personal erläutern,
+
+d) Qualifikationsbedarfe ermitteln,
+
+e) Maßnahmen zur fortlaufenden Qualifizierung, insbesondere unter Berücksichtigung des Berufslaufbahnkonzepts im Feinwerkmechaniker-Handwerk, planen,
+
+f) Maßnahmen der Personalgewinnung und -bindung entwickeln sowie
+
+g) betriebliche und außerbetriebliche Förder- und Qualifizierungsmöglichkeiten von Menschen mit erhöhtem Förderbedarf erläutern und bewerten sowie
+
+5. Betriebs- und Lagerausstattung sowie Abläufe planen, hierzu zählen insbesondere:
+
+a) Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Konsequenzen aus dem Ergebnis ableiten,
+
+b) Ausstattung des Betriebes, insbesondere unter Berücksichtigung der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, der Gefahrguthandhabung sowie ökologischen Gesichtspunkten, ökonomischen Gesichtspunkten, sozialen Gesichtspunkten und logistischen Gesichtspunkten, planen und begründen,
+
+c) Maßnahmen zur Unfallverhütung, zum Arbeitsschutz, zur Gefahrgutlagerung, insbesondere unter Berücksichtigung ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte und sozialer Gesichtspunkte, planen und begründen,
+
+d) Instandhaltung von Werkzeugen, Geräten, Maschinen sowie Fahrzeugen planen,
+
+e) Betriebsabläufe unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, Material, Werkzeugen, Geräten, Maschinen sowie Fahrzeugen planen und verbessern,
+
+f) Prozesse und Strukturen zur Wahrung der Datensicherheit und des Datenschutzes, insbesondere für Daten Dritter, entwickeln sowie umsetzen sowie
+
+g) Möglichkeiten zur Erzeugung, Gewinnung, Nutzung oder Einsparung von elektrischer Energie darstellen.
+
+# § 11 – Gewichtung, Bestehen der Prüfung in Teil II
+
+(1) Bei der Berechnung des Gesamtergebnisses der Prüfung in Teil II der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden die Bewertungen der Handlungsfelder nach den §§ 11 bis 13 gleich gewichtet.
+
+(2) Wurden in höchstens zwei der drei Handlungsfelder jeweils mindestens 30 und weniger als 50 Punkte erreicht, so kann in einem dieser Handlungsfelder eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese für das Bestehen der Prüfung in Teil II der Meisterprüfung ausschlaggebend ist.
+
+(3) Der Prüfling hat den Teil II der Meisterprüfung bestanden, wenn
+
+1. jedes der drei Handlungsfelder mit mindestens 30 Punkten bewertet worden ist,
+
+2. nach durchgeführter Ergänzungsprüfung nach Absatz 2 höchstens ein Handlungsfeld mit weniger als 50 Punkten bewertet worden ist und
+
+3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
+
+# § 12 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
-(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
-# § 8 – Übergangsvorschrift
+# § 13 – Übergangsvorschrift
 
-Die Regelungen des § 6 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
+(1) Die bis zum Ablauf des 30. Juni 2025 begonnenen Prüfungsverfahren werden nach den Vorschriften für die Feinwerkmechanikermeisterverordnung vom 5. April 2001 (BGBl. I S. 487), die zuletzt durch Artikel 2 Absatz 32 der Verordnung vom 18. Januar 2022 (BGBl. I S. 39) geändert worden ist, zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 31. Dezember 2025, so sind auf Verlangen des Prüflings die bis zum Ablauf des 30. Juni 2025 geltenden Vorschriften weiter anzuwenden.
 
-# § 9 – Inkrafttreten, Außerkrafttreten
+(2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 30. Juni 2025 geltenden Vorschriften nicht bestanden haben und sich bis zum Ablauf des 30. Juni 2027 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum Ablauf des 30. Juni 2025 geltenden Vorschriften ablegen.
 
-Diese Verordnung tritt am 1. Juli 2001 in Kraft.
+# § 14 – Inkrafttreten, Außerkrafttreten
+
+Diese Verordnung tritt am 1. Juli 2025 in Kraft. Gleichzeitig tritt die Feinwerkmechanikermeisterverordnung vom 5. April 2001 (BGBl. I S. 487), die zuletzt durch Artikel 2 Absatz 32 der Verordnung vom 18. Januar 2022 (BGBl. I S. 39) geändert worden ist, außer Kraft.

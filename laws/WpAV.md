@@ -213,8 +213,6 @@ b) ein Schlagwort im Sinn des Absatzes 1 Satz 1 Nr. 1 Buchstabe b,
 
 # § 5 – (weggefallen)
 
-# § 5a – (weggefallen)
-
 # § 6 – Berechtigte Interessen für eine verzögerte Veröffentlichung
 
 Berechtigte Interessen, die nach Artikel 17 Absatz 4 der Verordnung (EU) Nr. 596/2014 von der Pflicht zur sofortigen Veröffentlichung nach Artikel 17 Absatz 1 und 2 der Verordnung (EU) Nr. 596/2014 befreien können, liegen vor, wenn die Interessen des Emittenten an der Geheimhaltung der Information die Interessen des Kapitalmarktes an einer vollständigen und zeitnahen Veröffentlichung überwiegen. Dies kann insbesondere dann der Fall sein, wenn

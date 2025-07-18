@@ -159,7 +159,7 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 (weggefallen)
 
-# Anlage 3 – (zu § 3 Abs. 7)  Verstöße
+# Anlage 3 – (zu § 3 Abs. 7)Verstöße
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3108 - 3109
 
@@ -261,7 +261,7 @@ Mängel sind:
 
 (weggefallen)
 
-# Anlage 5 – (zu § 5 Abs. 1)  Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
+# Anlage 5 – (zu § 5 Abs. 1)Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3110
 

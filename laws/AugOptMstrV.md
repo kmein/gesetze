@@ -211,6 +211,10 @@ h) Chancen und Risiken betrieblicher Kooperation darstellen und beurteilen.
 
 Die Regelungen des § 7 Absatz 6 und 7 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
 
+# § 9a – Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 30. Juni 2026 außer Kraft.
+
 # § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.

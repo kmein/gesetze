@@ -17,7 +17,7 @@ Die Mauterhebung beginnt mit dem Tag der Freigabe der in § 1 genannten Strecke 
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-# Anlage – (zu § 1)  Mautverzeichnis
+# Anlage – (zu § 1)Mautverzeichnis
 
 |                                                     |                           |                   |                                                                                           |                  |         |
 |:------------|:------------|:----------|:------------|:----------|:------------|

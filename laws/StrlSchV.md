@@ -2442,6 +2442,8 @@ Satz 1 Nummer 3 und 5 gilt nicht für ein Forschungsvorhaben, für das eine Gene
 
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die durch das Forschungsvorhaben bedingte effektive Dosis für eine im Sinne des Forschungsvorhabens gesunde Person den Grenzwert von 20 Millisievert nicht überschreitet.
 
+(2a) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Summe der studienbedingten effektiven Dosen durch nach § 32 Absatz 1 Satz 1 Nummer 1 Buchstabe b des Strahlenschutzgesetzes angezeigte Anwendungen an minderjährigen, kranken Menschen, die im Rahmen eines Forschungsvorhabens erfolgen, den Grenzwert von 6 Millisievert nicht überschreitet.
+
 (3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass von der Anwendung eine im Sinne des Forschungsvorhabens gesunde Person ausgeschlossen wird, bei der in den vergangenen zehn Jahren eine Anwendung radioaktiver Stoffe oder ionisierender Strahlung zum Zweck der medizinischen Forschung oder zur Behandlung stattgefunden hat, wenn durch die erneute Anwendung zum Zweck der medizinischen Forschung eine effektive Dosis von mehr als 10 Millisievert zu erwarten ist.
 
 (4) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass radioaktive Stoffe oder ionisierende Strahlung an einer im Sinne des Forschungsvorhabens gesunden Person, die das 50. Lebensjahr nicht vollendet hat, nur dann zum Zweck der medizinischen Forschung angewendet werden, wenn dies zur Erreichung des Forschungszieles besonders notwendig ist.

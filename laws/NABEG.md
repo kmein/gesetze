@@ -493,13 +493,7 @@ Wird ein Antrag auf eine der in Absatz 1 genannten Amtshandlungen nach Beginn de
 
 (5) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ist die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 durch die zuständige Behörde sowie eine Übermittlung solcher Daten durch die zuständige Behörde an die jeweils betroffenen Vorhabenträger und Träger öffentlicher Belange zulässig, wenn die Verarbeitung für die Durchführung von Verfahren nach diesem Gesetz erforderlich ist. § 22 Absatz 2 des Bundesdatenschutzgesetzes ist entsprechend anzuwenden.
 
-# § 30b – Weitere Verfahrensanordnungen
-
-(1) Ist für ein Verfahren nach diesem Gesetz, für das die Bundesnetzagentur zuständig ist, die Auslegung von Entscheidungen vorgesehen, auf die nach den für die Auslegung geltenden Vorschriften nicht verzichtet werden kann, ist § 3 des Planungssicherstellungsgesetzes vom 20. Mai 2020 (BGBl. I S. 1041), das zuletzt durch Artikel 1 des Gesetzes vom 18. März 2021 (BGBl. I S. 353) geändert worden ist, mit der Maßgabe anzuwenden, dass eine Befristung auf Auslegungen, deren Frist mit dem Ablauf des 31. Dezember 2022 endet, nicht stattfindet.
-
-(2) Ist für ein Verfahren nach diesem Gesetz, für das die Bundesnetzagentur zuständig ist, die Durchführung einer Antragskonferenz, eines Erörterungstermins oder einer mündlichen Verhandlung angeordnet, ist § 5 des Planungssicherstellungsgesetzes anzuwenden.
-
-(3) § 30b tritt mit Ablauf des 30. Juni 2025 außer Kraft.
+# § 30b – (weggefallen)
 
 # § 31 – Zuständige Behörde
 

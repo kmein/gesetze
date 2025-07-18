@@ -419,6 +419,46 @@ Angenommen am 24. Mai 2018
 
 (BGBl. 2019 II S. 911)
 
+I.0.30
+
+Änderungen vom Juni 2019 (MSC.456(101))
+
+Angenommen am 13. Juni 2019
+
+(BGBl. 2024 II Nr. 73)
+
+I.0.31
+
+Änderungen vom November 2020 (MSC.474(102))
+
+Angenommen am 11. November 2020
+
+(BGBl. 2024 II Nr. 73)
+
+I.0.32
+
+Änderungen vom Mai 2021 (MSC.482(103))
+
+Angenommen am 13. Mai 2021
+
+(BGBl. 2024 II Nr. 73)
+
+I.0.33
+
+Änderungen vom April 2022 (MSC.496(105) und MSC.497(105))
+
+Angenommen am 28. April 2022
+
+(BGBl. 2024 II Nr. 73)
+
+I.0.34
+
+Änderungen vom November 2022 (MSC.521(106))
+
+Angenommen am 10. November 2022
+
+(BGBl. 2024 II Nr. 229)
+
 I.1
 
 Zu Kapitel I der Anlage zu SOLAS (Allgemeine Bestimmungen):  
@@ -1585,6 +1625,18 @@ Angenommen am 21. November 2014
 
 (VkBl. 2015 S. 843, Sonderband C 8146)
 
+I.15
+
+Zu Kapitel XV der Anlage zu SOLAS (Sicherheitsmaßnahmen für Schiffe, die Offshore-Servicepersonal befördern):
+
+Internationaler Code für die Sicherheit von Schiffen, die Offshore-Servicepersonal befördern
+
+(IP-Code) (Entschließung MSC.527(106) Rev. 3
+
+Angenommen am 10. November 2022
+
+(VkBl. 2024 S. 442)
+
 II\.
 
 Internationales Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe sowie Protokoll von 1978 und Protokoll von 1997 zu diesem Übereinkommen (MARPOL) mit Anlagen I, II, III, IV, V und VI (BGBl. 1982 II S. 2)
@@ -1930,6 +1982,22 @@ Angenommen am 17. Juni 2021
 
 (BGBl. 2024 II Nr. 37)
 
+II.0.38
+
+Änderungen vom Juni 2022 (MEPC.343(78) und MEPC.344(78))
+
+Angenommen am 10. Juni 2022
+
+(BGBl. 2024 II Nr. 247)
+
+II.0.39
+
+Änderungen vom Dezember 2022 (MEPC.359(79), MEPC.360(79), MEPC.361(79) und MEPC.362(79))
+
+Angenommen am 16. Dezember 2022
+
+(BGBl. 2024 II Nr. 247)
+
 II.1
 
 Zu Anlage I:  
@@ -2235,6 +2303,13 @@ Angenommen am 17. Mai 2019
 
 (VkBl. 2020 S. 807)
 
+\-  
+Änderung vom Juni 2022 (MEPC.345(78))
+
+Angenommen am 10. Juni 2022
+
+(VkBl. 2024 S. 410)
+
   
   
 
@@ -2391,6 +2466,14 @@ Angenommen am 21. Juni 2013 und am 22. Mai 2014
 
 (BGBl. 2016 II S. 380)
 
+III.07
+
+Änderung vom Oktober 2021 (MSC.491(104))
+
+Angenommen am 8. Oktober 2021
+
+(BGBl. 2023 II Nr. 350)
+
 III.1
 
 Zu Anlage 1:  
@@ -2528,39 +2611,24 @@ V.
 
 VI\.
 
-Regel I/2 Absatz 11, I/4 und I/14 sowie - soweit es sich um die Verantwortlichkeiten des Schiffseigentümers und des Schiffsführers nach den §§ 7 bis 9 dieses Gesetzes handelt - die Kapitel II bis VIII <span id="FnR.bjnr286010998bjne001635308_00"></span><a href="#bjnr286010998bjne001635308_00" class="FnR">*)</a></sup>
+Regel I/2 Absatz 11, I/4 und I/14 sowie – soweit es sich um die Verantwortlichkeiten des Schiffseigentümers und des Schiffsführers nach den §§ 7 bis 9 dieses Gesetzes handelt – die Kapitel II bis VIII\*)</sup> in Verbindung mit Regel I/1 der Anlage zum Internationalen Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Übereinkommen) (BGBl. 1982 II S. 297);
 
-in Verbindung mit Regel I/1 der Anlage zum Internationalen Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Übereinkommen)
-
-(BGBl. 1982 II S. 297);  
-  
-
-zuletzt geändert durch die Elfte Verordnung über Änderungen der Anlage des Internationalen Übereinkommens von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten vom 14. November 2018
-
-(BGBl. 2018 II S. 514)
+zuletzt geändert durch die Dreizehnte Verordnung über Änderungen der Anlage des Internationalen Übereinkommens von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten vom 23. Oktober 2024 (BGBl. 2024 II Nr. 443)
 
 \-  
-Änderung vom Mai 2021
+Änderung vom Juni 2023 (MSC.540(107))
 
-(MSC.486(103))
+Angenommen am 8. Juni 2023
 
-Angenommen am 13. Mai 2021
-
-(BGBl. 2023 II Nr. 83)
+(BGBl. 2024 II Nr. 443)
 
 VI.1
 
-Zu Kapitel VIII der Anlage zum STCW-Übereinkommen:  
-  
+Zu Kapitel VIII der Anlage zum STCW-Übereinkommen:
 
-Teil A Kapitel VIII des Codes für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Code)
+Teil A Kapitel VIII des Codes für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Code) (BGBl. 2013 II S. 934 sowie Anlageband zum Bundesgesetzblatt Teil II Nr. 18 vom 4. Juli 2013);
 
-(BGBl. 2013 II S. 934 sowie Anlageband zum Bundesgesetzblatt Teil II Nr. 18 vom 4. Juli 2013);  
-  
-
-zuletzt geändert durch die Elfte Verordnung über Änderungen der Anlage des Internationalen Übereinkommens von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten vom 14. November 2018
-
-(BGBl. 2018 II S. 514)
+zuletzt geändert durch die Dreizehnte Verordnung über Änderungen der Anlage des Internationalen Übereinkommens von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten vom 23. Oktober 2024 (BGBl. 2024 II Nr. 443)
 
 VII\.
 
@@ -3546,6 +3614,13 @@ Angenommen am 26. Oktober 2018
 (VkBl. 2020 S. 690)  
   
 
+Richtlinien von 2022 über Besichtigungen im Hinblick auf den Energieeffizienz-Kennwert (EEDI) und die Ausstellung von Zeugnissen darüber (Entschließung MEPC.365(79))
+
+Angenommen am 16. Dezember 2022
+
+(VkBl. 2024 S. 224)  
+  
+
 Richtlinien von 2022 über Besichtigungen im Hinblick auf den erreichten Energieeffizienz-Kennwert für vorhandene Schiffe (EEXI) und die Ausstellung von Zeugnissen darüber
 
 (Entschließung MEPC.351(78))
@@ -3561,9 +3636,7 @@ Musterbeispiel für eine Übereinstimmungsbestätigung
 
 Vom 16. April 2018
 
-(VkBl. 2019 S. 633)
-
-  
+(VkBl. 2019 S. 633)  
   
 
 Zu Regel 12 Absatz 6, Regel 13 Absatz 5.3 und Regel 14 Absatz 6:  
@@ -3609,7 +3682,18 @@ Normspezifikation für bordseitige Verbrennungsanlagen von 2014 (Entschließung 
 
 Angenommen am 4. April 2014
 
-(VkBl. 2015 S. 335)  
+(VkBl. 2015 S. 335)
+
+\-  
+Änderungen der Normspezifikation für bordseitige Verbrennungsanlagen von 2014 (MEPC.244(66))
+
+(Entschließung MEPC.368(79))
+
+Angenommen am 16. Dezember 2022
+
+(VkBl. 2024 S. 237)
+
+  
   
 
 Zu Regel 18 Absatz 2:  
@@ -3622,190 +3706,6 @@ Abschnitt 5 in Verbindung mit Anhang 1 der Richtlinien von 2019 für die konsequ
 Angenommen am 17. Mai 2019
 
 (VkBl. 2021 S. 424)  
-  
-
-Zu Regel 20 Absatz 2:  
-  
-
-Richtlinien von 2012 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.212(63))
-
-Angenommen am 2. März 2012
-
-(VkBl. 2013 S. 128)
-
-\-  
-Änderungen der Richtlinien von 2012 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.224(64))
-
-Angenommen am 5. Oktober 2012
-
-(VkBl. 2014 S. 638)
-
-  
-  
-
-Richtlinien von 2014 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.245(66))
-
-Angenommen am 4. April 2014
-
-(VkBl. 2018 S. 771)
-
-\-  
-Änderung der Richtlinien von 2014 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.245(66))
-
-(Entschließung MEPC.263(68))
-
-Angenommen am 15. Mai 2015
-
-(VkBl. 2018 S. 791)
-
-\-  
-Änderungen der Richtlinien von 2014 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.245(66), in der mit Entschließung MEPC.263(68) geänderten Fassung) (Entschließung MEPC.281(70), korrigiert durch MEPC.70/18/Corr. 1)
-
-Angenommen am 28. Oktober 2016
-
-(VkBl. 2018 S. 792)
-
-  
-  
-
-Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
-
-(Entschließung MEPC.308(73), korrigiert durch MEPC 73/19/Add.1/Corr.1)
-
-Angenommen am 26. Oktober 2018
-
-(VkBl. 2020 S. 663; 2021 S. 186)
-
-\-  
-Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
-
-(Entschließung MEPC.308(73)) (MEPC.322(74))
-
-Angenommen am 17. Mai 2019
-
-(VkBl. 2020 S. 692)
-
-\-  
-Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
-
-(Entschließung MEPC.332(76))
-
-Angenommen am 17. Juni 2021
-
-(VkBl. 2022 S. 285)
-
-  
-  
-
-Vorläufige Richtlinie für die Berechnung des Koeffizienten für die Abnahme der Schiffsgeschwindigkeit bei repräsentativen Seebedingungen f<sub>w</sub> zur versuchsweisen Anwendung
-
-(MEPC.1/Rundschreiben 796)
-
-Vom 12. Oktober 2012
-
-(VkBl. 2021 S. 114)  
-  
-
-Anleitung von 2013 zur Behandlung innovativer Energieeffizienztechnologien bei der Berechnung und Überprüfung des erreichten EEDI
-
-(MEPC.1/Rundschreiben 815)
-
-Vom 17. Juni 2013
-
-(VkBl. 2021 S. 125)  
-  
-
-Zu Regel 20 Absatz 3:  
-  
-
-Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.308(73), korrigiert durch MEPC 73/19/Add.1/Corr.1)
-
-Angenommen am 26. Oktober 2018
-
-(VkBl. 2020 S. 663, VkBl. 2021 S. 186)
-
-\-  
-Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.308(73)) (MEPC.322(74))
-
-Angenommen am 17. Mai 2019
-
-(VkBl. 2020 S. 692)
-
-\-  
-Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.332(76))
-
-Angenommen am 17. Juni 2021
-
-(VkBl. 2022 S. 285)
-
-  
-  
-
-Zu Regel 21:  
-  
-
-a) Richtlinien über die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI)
-
-(Entschließung MEPC.215(63), korrigiert durch MEPC 63/23/Add.1/Corr.1)
-
-Angenommen am 2. März 2012
-
-(VkBl. 2013 S. 325; 2020 S. 853)
-
-b) Richtlinien von 2013 für die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI) (Entschließung MEPC.231(65))
-
-Angenommen am 17. Mai 2013
-
-(VkBl. 2018 S. 889)
-
-c) Richtlinien von 2013 für die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI) von für Kreuzfahrten eingesetzten Fahrgastschiffen mit nicht-konventionellen Antriebssystemen
-
-(Entschließung MEPC.233(65))
-
-Angenommen am 17. Mai 2013
-
-(VkBl. 2015 S. 182)
-
-  
-  
-
-Zu Regel 21 Absatz 5:  
-  
-Interimsrichtlinien von 2013 für die Festlegung der Mindestantriebsleistung, die benötigt wird, um die Manövrierfähigkeit von Schiffen unter ungünstigen Bedingungen aufrechtzuerhalten (Entschließung MEPC.232(65))
-
-Angenommen am 17. Mai 2013
-
-(VkBl. 2015 S. 248)
-
-\-  
-Änderung vom Oktober 2014
-
-MEPC.255(67))
-
-Angenommen am 17. Oktober 2014
-
-(VkBl. 2018 S. 198)
-
-\-  
-Änderung vom Mai 2015 (MEPC.262(68))
-
-Angenommen am 15. Mai 2015
-
-(VkBl. 2018 S. 199)
-
-  
-  
-
-Zu Regel 22:  
-  
-
-Richtlinien von 2016 für die Erstellung eines Schiffsenergieeffizienz-Managementplans (SEEMP)
-
-(Entschließung MEPC.282(70), korrigiert durch MEPC 70/18/Add.1/Corr.1)
-
-Angenommen am 28. Oktober 2016
-
-(VkBl. 2018 S. 896)  
   
 
 Zu Regel 22 Absatz 2:  
@@ -3893,6 +3793,13 @@ Angenommen am 17. Juni 2021
   
   
 
+Richtlinien von 2022 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.364(79))
+
+Angenommen am 16. Dezember 2022
+
+(VkBl. 2024 S. 195)  
+  
+
 Vorläufige Richtlinie für die Berechnung des Koeffizienten für die Abnahme der Schiffsgeschwindigkeit bei repräsentativen Seebedingungen f<sub>w</sub> zur versuchsweisen Anwendung
 
 (MEPC.1/Rundschreiben 796)
@@ -3943,6 +3850,13 @@ Angenommen am 17. Juni 2021
 (VkBl. 2022 S. 285)
 
   
+  
+
+Richtlinien von 2022 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.364(79))
+
+Angenommen am 16. Dezember 2022
+
+(VkBl. 2024 S. 195)  
   
 
 Zu Regel 23:  
@@ -4228,7 +4142,7 @@ IV.1.2
 
 V.
 
-Zum Internationalen Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen vom 5. Oktober 2001 (BGBl. 2008 II S. 522) (AFS-Übereinkommen):
+Zum Internationalen Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen vom 5. Oktober 2001 (BGBl. 2008 II S. 522) (AFS-Übereinkommen)
 
 V.1
 
@@ -4237,20 +4151,20 @@ Zum Übereinkommen:
 
 Zu Artikel 11 Absatz 1 und 2:
 
-Richtlinien von 2011 für die Überprüfung von Bewuchsschutzsystemen an Schiffen (Entschl. MEPC.208(62))
+Richtlinien von 2022 für die Überprüfung von Bewuchsschutzsystemen an Schiffen (Entschließung MEPC.357(78))
 
-Angenommen am 15. Juli 2011
+Angenommen am 10. Juni 2022
 
-(VkBl. 2012 S. 202)  
+(VkBl. 2023 S. 317)  
   
 
 Zu Artikel 11 Absatz 1 Buchstabe b:
 
-Richtlinien für die Entnahme kleiner Stichproben des Bewuchsschutzsystems an Schiffen (Entschl. MEPC.104(49))
+Richtlinien von 2022 für die Entnahme kleiner Stichproben des Bewuchsschutzsystems an Schiffen (Entschließung MEPC.356(78))
 
-Angenommen am 18. Juli 2003
+Angenommen am 10. Juni 2022
 
-(VkBl. 2007 S. 661)
+(VkBl. 2023 S. 297)
 
 V.2
 
@@ -4260,11 +4174,11 @@ Zu Anlage 4:
 Zu Regel 1 Absatz 4:  
   
 
-Richtlinien von 2010 für Besichtigungen von Bewuchsschutzsystemen auf Schiffen und für die Erteilung von Zeugnissen über solche Besichtigungen (Entschl. MEPC.195(61))
+Richtlinien von 2022 für Besichtigungen von Bewuchsschutzsystemen auf Schiffen und für die Erteilung von Zeugnissen über solche Besichtigungen (Entschließung MEPC.358(78))
 
-Angenommen am 1. Oktober 2010
+Angenommen am 10. Juni 2022
 
-(VkBl. 2011 S. 30)
+(VkBl. 2023 S. 334)
 
 VI\.
 
@@ -4446,7 +4360,7 @@ Artikel 1 und 7 der Richtlinie 87/540/EWG des Rates vom 9. November 1987 über d
 
 Artikel 2, 3 Absatz 1 in Verbindung mit Anhang I Gruppe A und Anhang II sowie mit Artikel 1 der Richtlinie 91/672/EWG des Rates vom 16. Dezember 1991 über die gegenseitige Anerkennung der einzelstaatlichen Schifferpatente für den Binnenschiffsgüter- und -personenverkehr (ABl. L 373 vom 31.12.1991, S. 29), die zuletzt durch die Richtlinie 2013/22/EU (ABl. L 158 vom 10.6.2013, S. 356) geändert worden ist
 
-4. Artikel 2, 4 und 5 Absatz 1, Artikel 6, 6a und 6b Absatz 1 Satz 1, Artikel 7 Absatz 1, Artikel 8, 10, 12, 13, 16 bis 19, 20a bis 20c, 21 Absatz 1, Artikel 22 Absatz 2 und Artikel 24 der Richtlinie 2002/59/EG des Europäischen Parlaments und des Rates vom 27. Juni 2002 über die Einrichtung eines gemeinschaftlichen Überwachungs- und Informationssystems für den Schiffsverkehr und zur Aufhebung der Richtlinie 93/75/EWG des Rates (ABl. L 208 vom 5.8.2002, S. 10), zuletzt geändert durch Artikel 1 der Richtlinie 2014/100/EU (ABl. L 308 vom 29.10.2014, S. 82)
+4. Artikel 2, 4 und 5 Absatz 1, Artikel 6, 6a und 6b Absatz 1 Satz 1, Artikel 7 Absatz 1, Artikel 8, 10, 12, 13, 16 bis 19, 20a bis 20c, 21 Absatz 1, Artikel 22 Absatz 2 und Artikel 24 der Richtlinie 2002/59/EG des Europäischen Parlaments und des Rates vom 27. Juni 2002 über die Einrichtung eines gemeinschaftlichen Überwachungs- und Informationssystems für den Schiffsverkehr und zur Aufhebung der Richtlinie 93/75/EWG des Rates (ABl. L 208 vom 5.8.2002, S. 10), die zuletzt durch die Delegierte Richtlinie (EU) 2025/811 vom 19. Februar 2025 (ABl. L, 2025/811, 28.4.2025) geändert worden ist
 
 5. Bezogen auf die Inbetriebnahme von Sportbooten und Wassermotorrädern:  
   
@@ -4462,7 +4376,7 @@ Artikel 3, Artikel 4 Absatz 11, Artikel 12, Artikel 13 Absatz 1, Absatz 2, Absat
 
 (ABl. L 366 vom 20.12.2014, S. 83)
 
-8. Artikel 4 bis 6, Artikel 7 Absatz 1 und 2, Artikel 8 und 9, Artikel 11 bis 13, Artikel 14 Absatz 1 bis 3, Absatz 4 Satz 1, Artikel 14a, Artikel 15 Absatz 1 bis 3, Artikel 16 bis 18, Artikel 18a Absatz 1 bis 6 und 8, Artikel 19 Absatz 1 bis 6 und 8 bis 10, Artikel 20 bis 22, Artikel 23 Absatz 4, Artikel 24 Absatz 2 und 3, Artikel 29 in Verbindung mit den Anhängen I bis XI, XIV und XVII sowie den Artikeln 1 bis 3 der Richtlinie 2009/16/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über die Hafenstaatkontrolle (ABl. L 131 vom 28.5.2009, S. 57), zuletzt geändert durch Artikel 14 der Richtlinie (EU) 2017/2110 (ABl. L 315 vom 30.11.2017, S. 61), in Verbindung mit Artikel 1 der Richtlinie 96/40/EG der Kommission vom 25. Juni 1996 zur Erstellung eines einheitlichen Musters für die Ausweise der Besichtiger der Hafenstaatkontrolle (ABl. L 196 vom 7.8.1996, S. 8)
+8. Artikel 4 bis 6, Artikel 7 Absatz 1 und 2, Artikel 8, Artikel 11 bis 13, Artikel 14 Absatz 1 bis 2, Absatz 4 Satz 1 bis 3, Artikel 14a, Artikel 15 Absatz 1 bis 3, Artikel 16 bis 18, Artikel 18a Absatz 1 bis 6 und 8, Artikel 19 Absatz 1 bis 6 und 8 bis 10, Artikel 20 bis 22, Artikel 23 Absatz 4, Artikel 24 Absatz 2 und 3, Artikel 29, Artikel 30 Satz 2 und 3 in Verbindung mit den Anhängen I bis XI, XIV und XVII sowie den Artikeln 1 bis 3 der Richtlinie 2009/16/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über die Hafenstaatkontrolle (ABl. L 131 vom 28.5.2009, S. 57; L 51 vom 24.2.2009, S. 14), die zuletzt durch die Richtlinie (EU) 2024/3099 vom 27. November 2024 (ABl. L, 2024/3099, 16.12.2024) geändert worden ist, in Verbindung mit Artikel 1 der Richtlinie 96/40/EG der Kommission vom 25. Juni 1996 zur Erstellung eines einheitlichen Musters für die Ausweise der Besichtiger der Hafenstaatkontrolle (ABl. L 196 vom 7.8.1996, S. 8)
 
 9. Bezogen auf die Wasserstraßen der Zonen 1 und 2 (Anhang I Kapitel 1 der in Nummer 1 genannten Richtlinie):  
   

@@ -451,8 +451,6 @@ Einem Antragsteller darf jeweils nur eine Genehmigung erteilt werden, sofern nic
 
 (7) Bei der Genehmigung in den Fällen des § 2 Abs. 2 Nr. 2 und 3 sind die Absätze 2, 4 und 5 Satz 1, 2, 4 und 5 nicht anzuwenden.
 
-# § 13a – (weggefallen)
-
 # § 14 – Anhörungsverfahren
 
 (1) Vor der Entscheidung über den Antrag auf Erteilung der Genehmigung für die Beförderung von Personen mit Straßenbahnen, Obussen oder mit Kraftfahrzeugen im Linienverkehr hat die Genehmigungsbehörde
@@ -565,9 +563,7 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 (4) § 17 Abs. 3, 4 und 5 gilt entsprechend.
 
-# § 20a
-
-(weggefallen)
+# § 20a – (weggefallen)
 
 # § 21 – Betriebspflicht
 
@@ -599,9 +595,7 @@ Der Unternehmer ist zur Beförderung verpflichtet, wenn
 
 (3) Im Linien- und Gelegenheitsverkehr mit Kraftomnibussen ist ein Haftungsausschluss für beschädigte oder abhandengekommene Mobilitätshilfen nicht zulässig.
 
-# § 24
-
-(weggefallen)
+# § 24 – (weggefallen)
 
 # § 25 – Widerruf der Genehmigung
 
@@ -825,9 +819,7 @@ Soweit der Unternehmer nach § 28 Absatz 3a oder auf Grund eines Planfeststellun
 
 Die Genehmigung zur Aufnahme des Betriebs der Straßenbahnen erteilt die Genehmigungsbehörde im Einvernehmen mit der für die technische Aufsicht zuständigen Behörde.
 
-# § 38
-
-(weggefallen)
+# § 38 – (weggefallen)
 
 # § 39 – Beförderungsentgelte und -bedingungen
 

@@ -37,8 +37,6 @@ Das Verfahren vor der Schiedsstelle ist schriftlich. Die Schiedsstelle hat vor d
 
 Ansprüche gegen die Verkehrsopferhilfe nach § 12 des Pflichtversicherungsgesetzes und § 10 dieser Verordnung können im Wege der Klage erst geltend gemacht werden, nachdem ein Verfahren vor der Schiedsstelle vorausgegangen ist, oder wenn seit der Anrufung der Schiedsstelle mehr als drei Monate verstrichen sind.
 
-# § 9a – (weggefallen)
-
 # § 10 – (weggefallen)
 
 # § 11 – (weggefallen)

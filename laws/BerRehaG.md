@@ -67,11 +67,11 @@ Andere Ansprüche wegen einer aus politischen Gründen erfolgten Benachteiligung
 
 Verfolgte, die an nach den Vorschriften des Dritten Buches Sozialgesetzbuch für die Weiterbildungsförderung zugelassenen Maßnahmen der beruflichen Weiterbildung teilnehmen und für die Weiterbildungskosten nicht nach dem Dritten Buch Sozialgesetzbuch übernommen werden, erhalten auf Antrag die Weiterbildungskosten in entsprechender Anwendung der §§ 83 bis 87 des Dritten Buches Sozialgesetzbuch erstattet.
 
-# § 8 – Anspruchsvoraussetzungen
+# § 8 – Anspruchsvoraussetzungen; Verordnungsermächtigung
 
-(1) Verfolgte mit Wohnsitz oder gewöhnlichem Aufenthalt im Geltungsbereich dieses Gesetzes, die in ihrer wirtschaftlichen Lage besonders beeinträchtigt sind, erhalten auf Antrag Ausgleichsleistungen in Höhe von 240 Euro monatlich. Wenn der Verfolgte eine Rente aus der gesetzlichen Rentenversicherung aus eigener Versicherung bezieht, betragen die Ausgleichsleistungen 180 Euro monatlich. Das Bundesministerium der Justiz und für Verbraucherschutz überprüft im Einvernehmen mit dem Bundesministerium der Finanzen in einem Abstand von fünf Jahren, erstmals im Jahr 2025, die Höhe der Ausgleichsleistungen nach den Sätzen 1 und 2.
+(1) Verfolgte mit Wohnsitz oder gewöhnlichem Aufenthalt im Geltungsbereich dieses Gesetzes, die in ihrer wirtschaftlichen Lage besonders beeinträchtigt sind, erhalten auf Antrag Ausgleichsleistungen in Höhe von 291 Euro monatlich. Die Höhe der monatlichen Ausgleichsleistungen wird ab dem Jahr 2026 entsprechend dem Prozentsatz angepasst, um den sich der aktuelle Rentenwert in der gesetzlichen Rentenversicherung verändert. Die sich durch die Anpassung ergebenden Beträge bis 0,49 Euro sind auf volle Euro abzurunden und die Beträge ab 0,50 Euro auf volle Euro aufzurunden. Die Anpassung der Höhe der monatlichen Ausgleichsleistungen erfolgt durch Rechtsverordnung des Bundesministeriums der Justiz ohne Zustimmung des Bundesrates jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden.
 
-(2) Ausgleichsleistungen werden nicht gewährt, wenn die in der Bescheinigung nach § 17 oder § 18 festgestellte Verfolgungszeit vor Ablauf des 2. Oktober 1990 endet, es sei denn, die Verfolgungszeit beträgt mehr als drei Jahre. Die Gewährung von Ausgleichsleistungen nach Absatz 1 Satz 2 setzt außerdem voraus, daß zwischen dem Beginn der Verfolgungszeit und dem Zeitpunkt, von dem an der Verfolgte die Rente bezieht, ein Zeitraum von mehr als sechs Jahren liegt.
+(2) Ausgleichsleistungen werden nicht gewährt, wenn die in der Bescheinigung nach § 17 oder § 18 festgestellte Verfolgungszeit vor Ablauf des 2. Oktober 1990 endet, es sei denn, die Verfolgungszeit beträgt mehr als zwei Jahre. Bezieht der Verfolgte eine Rente aus der gesetzlichen Rentenversicherung aus eigener Versicherung, setzt die Gewährung von Ausgleichsleistungen außerdem voraus, daß zwischen dem Beginn der Verfolgungszeit und dem Zeitpunkt, von dem an der Verfolgte die Rente bezieht, ein Zeitraum von mehr als sechs Jahren liegt.
 
 (3) Als in seiner wirtschaftlichen Lage besonders beeinträchtigt gilt ein Verfolgter, dessen entsprechend § 82 Absatz 1 Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 7 Satz 1 bis 3 des Zwölften Buches Sozialgesetzbuch ermitteltes Einkommen die folgende maßgebliche Einkommensgrenze nicht übersteigt:
 
@@ -79,7 +79,7 @@ Verfolgte, die an nach den Vorschriften des Dritten Buches Sozialgesetzbuch für
 
 2. der Kosten der Unterkunft, einschließlich der Heizkosten, in tatsächlicher Höhe.
 
-Bei der Einkommensermittlung bleibt Arbeitsförderungsgeld unberücksichtigt. Bei nicht dauernd getrennt lebenden Ehegatten ist das Einkommen beider Ehegatten zu berücksichtigen. Für Personen, die eine Lebenspartnerschaft führen oder in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft leben, gelten die Sätze 1 bis 3 entsprechend.
+Bei der Einkommensermittlung bleiben Arbeitsförderungsgeld sowie staatliche Sonderleistungen, die anlässlich besonderer Krisen zu einem bestimmten Zweck gezahlt werden, unberücksichtigt. Für Personen, die eine Lebenspartnerschaft führen oder in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft leben, gelten die Sätze 1 und 2 entsprechend.
 
 (4) Übersteigt das ermittelte Einkommen die maßgebliche Einkommensgrenze um einen Betrag, der geringer ist als der Betrag der Ausgleichsleistungen nach Absatz 1, erhält der Verfolgte Ausgleichsleistungen in Höhe des Differenzbetrages.
 

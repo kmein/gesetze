@@ -528,8 +528,6 @@ nach den Absätzen 4 oder 5 offenbart, darf der Empfänger diese Daten nur zu de
 (+++ § 30: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 u. § 18h Abs. 6 UStG 1980 +++)  
 (+++ § 30: Zur Geltung vgl. § 87c +++)
 
-# § 30a – (weggefallen)
-
 # § 31 – Mitteilung von Besteuerungsgrundlagen
 
 (1) Die Finanzbehörden sind verpflichtet, Besteuerungsgrundlagen, Steuermessbeträge und Steuerbeträge an Körperschaften des öffentlichen Rechts einschließlich der Religionsgemeinschaften, die Körperschaften des öffentlichen Rechts sind, zur Festsetzung von solchen Abgaben mitzuteilen, die an diese Besteuerungsgrundlagen, Steuermessbeträge oder Steuerbeträge anknüpfen. Die Mitteilungspflicht besteht nicht, soweit deren Erfüllung mit einem unverhältnismäßigen Aufwand verbunden wäre. Die Finanzbehörden dürfen Körperschaften des öffentlichen Rechts auf Ersuchen Namen und Anschriften ihrer Mitglieder, die dem Grunde nach zur Entrichtung von Abgaben im Sinne des Satzes 1 verpflichtet sind, sowie die von der Finanzbehörde für die Körperschaft festgesetzten Abgaben übermitteln, soweit die Kenntnis dieser Daten zur Erfüllung von in der Zuständigkeit der Körperschaft liegenden öffentlichen Aufgaben erforderlich ist und überwiegende schutzwürdige Interessen der betroffenen Person nicht entgegenstehen.
@@ -4338,8 +4336,6 @@ c) die untersuchten Waren den an sie gestellten Anforderungen nicht entsprechen,
 
 (4) Auf die Festsetzung der Kosten sind die für Verbrauchssteuern geltenden Vorschriften entsprechend anzuwenden. Im Übrigen gilt für diese Kosten das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung. Die §§ 18 bis 22 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung finden keine Anwendung.
 
-# § 178a – (weggefallen)
-
 # § 179 – Feststellung von Besteuerungsgrundlagen
 
 (1) Abweichend von § 157 Absatz 2 werden die Besteuerungsgrundlagen durch Feststellungsbescheid gesondert festgestellt, soweit dies in diesem Gesetz oder sonst in den Steuergesetzen bestimmt ist.
@@ -6360,8 +6356,6 @@ und dadurch Steuern verkürzt oder für sich oder einen anderen nicht gerechtfer
 
 (7) Die Absätze 1 bis 6 gelten unabhängig von dem Recht des Tatortes auch für Taten, die außerhalb des Geltungsbereiches dieses Gesetzes begangen werden.
 
-# § 370a – (weggefallen)
-
 # § 371 – Selbstanzeige bei Steuerhinterziehung
 
 (1) Wer gegenüber der Finanzbehörde zu allen Steuerstraftaten einer Steuerart in vollem Umfang die unrichtigen Angaben berichtigt, die unvollständigen Angaben ergänzt oder die unterlassenen Angaben nachholt, wird wegen dieser Steuerstraftaten nicht nach § 370 bestraft. Die Angaben müssen zu allen unverjährten Steuerstraftaten einer Steuerart, mindestens aber zu allen Steuerstraftaten einer Steuerart innerhalb der letzten zehn Kalenderjahre erfolgen.
@@ -6447,8 +6441,6 @@ kann das Gericht die Fähigkeit, öffentliche Ämter zu bekleiden, und die Fähi
 2. die Beförderungsmittel, die zur Tat benutzt worden sind,
 
 eingezogen werden. § 74a des Strafgesetzbuchs ist anzuwenden.
-
-# § 375a – (weggefallen)
 
 # § 376 – Verfolgungsverjährung
 

@@ -23,8 +23,6 @@ in sinngemäßer Anwendung der genannten Vorschriften sowie der Durchführungsvo
 
 (3) Einfuhrumsatzsteuerfrei ist ferner die Einfuhr der Gegenstände, die nach den §§ 12, 14 bis 22 der Zollverordnung vom 23. Dezember 1993 (BGBl. I S. 2449) in der jeweils geltenden Fassung frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex eingeführt werden können, in sinngemäßer Anwendung dieser Vorschriften.
 
-# § 1a – (weggefallen)
-
 # § 2 – Investitionsgüter und andere Ausrüstungsgegenstände
 
 Die Einfuhrumsatzsteuerfreiheit für Investitionsgüter und andere Ausrüstungsgegenstände (Artikel 32 bis 38 der in § 1 Abs. 1 genannten Verordnung) ist ausgeschlossen für Gegenstände, die

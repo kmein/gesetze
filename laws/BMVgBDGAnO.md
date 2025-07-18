@@ -17,17 +17,13 @@ b) der Luftwaffe,
 
 c) der Marine,
 
-d) des Zentralen Sanitätsdienstes der Bundeswehr,
-
-e) der Streitkräftebasis,
-
-f) des Cyber- und Informationsraums,
+d) des Cyber- und Informationsraums,
 
 2. der Befehlshaberin oder dem Befehlshaber
 
-a) des Einsatzführungskommandos der Bundeswehr,
+a) des Unterstützungskommandos der Bundeswehr,
 
-b) des Territorialen Führungskommandos der Bundeswehr,
+b) des Operativen Führungskommandos der Bundeswehr,
 
 3. den Präsidentinnen oder Präsidenten
 
@@ -47,25 +43,21 @@ g) der Truppendienstgerichte,
 
 h) der Universitäten der Bundeswehr,
 
-4. der Amtschefin oder dem Amtschef des Luftfahrtamtes der Bundeswehr,
+4. der Kommandeurin oder dem Kommandeur der Führungsakademie der Bundeswehr,
 
-5. der Präsidentin, dem Präsidenten, der Amtschefin oder dem Amtschef des Planungsamtes der Bundeswehr,
+5. der Kommandeurin oder dem Kommandeur des Zentrums Innere Führung,
 
-6. der Kommandeurin oder dem Kommandeur der Führungsakademie der Bundeswehr,
+6. der Leiterin oder dem Leiter des Evangelischen Kirchenamtes für die Bundeswehr,
 
-7. der Kommandeurin oder dem Kommandeur des Zentrums Innere Führung,
+7. dem Leiter des Katholischen Militärbischofsamtes,
 
-8. der Leiterin oder dem Leiter des Evangelischen Kirchenamtes für die Bundeswehr,
+8. der Leiterin oder dem Leiter des Militärrabbinats,
 
-9. dem Leiter des Katholischen Militärbischofsamtes,
+9. der Bundeswehrdisziplinaranwältin oder dem Bundeswehrdisziplinaranwalt,
 
-10. der Leiterin oder dem Leiter des Militärrabbinats,
+10. der dienstaufsichtführenden Rechtsberaterin oder dem dienstaufsichtführenden Rechtsberater in den dem Bundesministerium der Verteidigung unmittelbar nachgeordneten Dienststellen sowie
 
-11. der Bundeswehrdisziplinaranwältin oder dem Bundeswehrdisziplinaranwalt,
-
-12. der dienstaufsichtführenden Rechtsberaterin oder dem dienstaufsichtführenden Rechtsberater in den dem Bundesministerium der Verteidigung unmittelbar nachgeordneten Dienststellen sowie
-
-13. der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der Hochschule des Bundes für öffentliche Verwaltung.
+11. der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der Hochschule des Bundes für öffentliche Verwaltung.
 
 # § 2
 

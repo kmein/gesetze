@@ -53,7 +53,7 @@ b) ohne in Gewahrsam genommen worden zu sein, durch andere Maßnahmen eine gesun
 
 sowie deren Angehörige und Hinterbliebene den nach diesem Gesetz zum Empfang von Leistungen Berechtigten gleichzustellen.
 
-# § 4 – Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung
+# § 4 – Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung; Verordnungsermächtigung
 
 (1) Ein nach § 1 Absatz 1 Nummer 1 Berechtigter, der infolge des Gewahrsams eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf Antrag Leistungen der Sozialen Entschädigung in entsprechender Anwendung der Vorschriften des Vierzehnten Buches Sozialgesetzbuch. Dies gilt nicht, soweit ihm wegen desselben schädigenden Ereignisses bereits folgende Leistungen zustehen:
 
@@ -73,7 +73,7 @@ sowie deren Angehörige und Hinterbliebene den nach diesem Gesetz zum Empfang vo
 
 (5) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Sie ist gegeben, wenn nach dem aktuellen Stand der medizinischen Wissenschaft mehr für als gegen einen ursächlichen Zusammenhang spricht.
 
-(6) Bei psychischen Gesundheitsstörungen wird die Wahrscheinlichkeit des ursächlichen Zusammenhangs im Einzelfall vermutet, wenn diejenigen medizinischen Tatsachen vorliegen, die nach den Erfahrungen der medizinischen Wissenschaft geeignet sind, einen Ursachenzusammenhang zwischen einem nach Art und Schwere geeigneten schädigenden Ereignis und der gesundheitlichen Schädigung und der Schädigungsfolge zu begründen, und diese Vermutung nicht durch einen anderen Kausalverlauf widerlegt wird.
+(6) Beim Vorliegen bestimmter schädigender Ereignisse und bestimmter gesundheitlicher Schädigungen des Antragstellers wird die Wahrscheinlichkeit des ursächlichen Zusammenhangs vermutet. Das Bundesministerium des Innern und für Heimat bestimmt durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Arbeit und Soziales sowie im Benehmen mit der oder dem Bundesbeauftragten für die Opfer der SED-Diktatur beim Deutschen Bundestag unter Beachtung des aktuellen Standes der medizinischen Wissenschaft, welche schädigenden Ereignisse und welche gesundheitlichen Schädigungen solche im Sinne des Satzes 1 sind.
 
 (7) Wenn die zur Anerkennung einer Gesundheitsstörung als Schädigungsfolge erforderliche Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache der Gesundheitsstörung in der medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Schädigungsfolge anerkannt werden. Die Zustimmung kann allgemein erteilt werden.
 
@@ -183,101 +183,27 @@ Der Bund trägt die Aufwendungen für Leistungen nach diesem Gesetz jeweils in d
 
 (weggefallen)
 
-# § 15 – Stiftung für ehemalige politische Häftlinge
+# § 15 – (weggefallen)
 
-(1) Zur Förderung ehemaliger politischer Häftlinge wird unter dem Namen "Stiftung für ehemalige politische Häftlinge" eine rechtsfähige Stiftung des öffentlichen Rechts errichtet.
+# § 16 – (weggefallen)
 
-(2) Der Sitz der Stiftung wird durch die Satzung bestimmt.
+# § 17 – (weggefallen)
 
-(3) Die Stiftung verfolgt ausschließlich und unmittelbar steuerbegünstigte Zwecke im Sinne der §§ 51 bis 68 der Abgabenordnung.
+# § 18 – (weggefallen)
 
-# § 16 – Finanzierung
+# § 19 – (weggefallen)
 
-(1) Für die Erfüllung ihrer Aufgaben nach § 18 kann die Stiftung die ihr für diese Zwecke noch zur Verfügung stehenden Mittel aus dem Stammkapital und aus den jährlichen Erträgnissen sowie Zuwendungen von dritter Seite verwenden. Darüber hinaus werden ihr hierfür im Jahr 2015 2 Millionen Euro und im Jahr 2016 13,5 Millionen Euro aus dem Bundeshaushalt zur Verfügung gestellt. Einlagen in das Stiftungsvermögen sind zulässig.
+# § 20 – (weggefallen)
 
-(2) Die Verwaltungskosten der Stiftung trägt der Bund.
+# § 21 – (weggefallen)
 
-(3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen.
+# § 22 – (weggefallen)
 
-# § 17 – Personenkreis
+# § 23 – (weggefallen)
 
-Von der Stiftung werden die in § 1 Abs. 1 genannten Personen gefördert. Auf die Förderung nach § 18 besteht kein Rechtsanspruch. § 12 gilt mit der Maßgabe, daß das Einvernehmen mit dem für dieses Gesetz federführenden Bundesminister vom Vorstand der Stiftung hergestellt wird.
+# § 24 – (weggefallen)
 
-# § 18 – Unterstützungen
-
-Den in § 17 Satz 1 genannten Personen können zur Linderung einer Notlage Unterstützungen gewährt werden. Unterstützungsleistungen nach § 18 des Strafrechtlichen Rehabilitierungsgesetzes sind bei der Unterstützung nach Satz 1 zu berücksichtigen. Die Leistungen nach Satz 1 bleiben als Einkommen und als Vermögen bei Sozialleistungen, deren Gewährung von anderen Einkommen abhängig ist, unberücksichtigt. Ein Antrag auf Leistungen nach Satz 1 kann letztmalig bis zum 30. Juni 2016 gestellt werden.
-
-# § 19 – Stiftungsorgane
-
-(1) Organe der Stiftung sind
-
-1. der Stiftungsrat,
-
-2. der Stiftungsvorstand.
-
-(2) Die Mitglieder der Organe werden ehrenamtlich tätig; sie haben Anspruch auf Ersatz ihrer notwendigen Auslagen.
-
-# § 20 – Stiftungsrat
-
-(1) Der Stiftungsrat besteht aus zwölf Mitgliedern. Der für dieses Gesetz federführende Bundesminister benennt sechs Mitglieder; er beruft weitere sechs Mitglieder aus den in § 17 Satz 1 genannten Personen. Für jedes Mitglied wird ein Stellvertreter benannt oder berufen.
-
-(2) Den Vorsitzenden und seinen Stellvertreter wählt der Stiftungsrat. Der Vorsitzende wird aus den nach Absatz 1 Satz 2 benannten Mitgliedern gewählt.
-
-(3) Die Amtszeit der Mitglieder des Stiftungsrats und ihrer Stellvertreter beträgt vier Jahre. Scheidet ein Mitglied oder ein Stellvertreter vorzeitig aus, wird für den Rest seiner Amtszeit ein Nachfolger benannt oder berufen. Wiederholte Bestellungen sind zulässig.
-
-(4) Der Stiftungsrat erläßt die Satzung und stellt Richtlinien für die Verwendung der Mittel auf, in denen er bestimmt, unter welchen Voraussetzungen und bis zu welcher Höhe Unterstützungen nach § 18 gewährt werden können; Satzung und Richtlinien bedürfen der Genehmigung des für dieses Gesetz federführenden Bundesministers im Einvernehmen mit dem Bundesminister der Finanzen und dem Bundesminister der Justiz und für Verbraucherschutz. Satz 1 gilt entsprechend für die genauere Regelung der Voraussetzungen und Bedingungen der Gewährung von Unterstützungsleistungen nach § 18 Abs. 1 und 2 des Strafrechtlichen Rehabilitierungsgesetzes. Der Stiftungsrat beschließt über alle grundsätzlichen Fragen, die zum Aufgabenbereich der Stiftung gehören, und überwacht die Tätigkeit des Stiftungsvorstandes. Der Stiftungsrat gibt sich eine Geschäftsordnung.
-
-(5) Der Stiftungsrat ist beschlußfähig, wenn die Hälfte der Mitglieder anwesend ist. Er beschließt mit einfacher Mehrheit.
-
-# § 21 – Stiftungsvorstand
-
-(1) Der Stiftungsvorstand besteht aus dem Vorsitzenden und drei weiteren Mitgliedern. Der Stiftungsrat wählt den Vorsitzenden und die weiteren Mitglieder des Stiftungsvorstandes auf die Dauer von zwei Jahren. Wiederwahl ist zulässig. Scheidet der Vorsitzende oder ein weiteres Mitglied des Stiftungsvorstandes vorzeitig aus, wird für den Rest seiner Amtszeit vom Stiftungsrat ein Nachfolger gewählt.
-
-(2) Der Vorsitzende und die weiteren Mitglieder des Stiftungsvorstandes können nicht Mitglieder des Stiftungsrates oder deren Stellvertreter sein.
-
-(3) Der Stiftungsvorstand führt die Geschäfte und vertritt die Stiftung gerichtlich und außergerichtlich; das Nähere regelt die Satzung. Nach Ablauf seiner Amtszeit führt der Stiftungsvorstand die Geschäfte bis zum Zusammentritt des neu gewählten Stiftungsvorstandes weiter.
-
-(4) Für die Beschlüsse des Stiftungsvorstandes gilt § 20 Abs. 5 entsprechend.
-
-# § 22 – Entscheidung über Anträge
-
-(1) Zur Entscheidung über Anträge nach § 18 wird bei dem Vorstand ein Ausschuß gebildet.
-
-(2) Der Ausschuß besteht aus
-
-1. dem Vorsitzenden des Vorstandes oder dessen Stellvertreter als Vorsitzendem,
-
-2. zwei ehrenamtlichen Beisitzern.
-
-(3) Einer der Beisitzer muß ehemaliger politischer Häftling sein.
-
-(4) Die Beisitzer werden vom Stiftungsrat auf die Dauer von zwei Jahren gewählt und von dem Vorsitzenden des Ausschusses auf die gewissenhafte und unparteiische Wahrnehmung ihrer Amtsobliegenheiten verpflichtet.
-
-(5) Über den Antrag entscheidet der Ausschuß durch Bescheid.
-
-(6) Der Stiftungsrat wird ermächtigt, die Entscheidung über Anträge teilweise auf den Vorsitzenden des Vorstandes oder dessen Stellvertreter zu übertragen. Über die Ablehnung eines Antrags entscheidet stets der Bewilligungsausschuss.
-
-# § 23 – Widerspruchsausschuß
-
-(1) Zur Entscheidung über den Widerspruch gegen den Bescheid des Ausschusses nach § 22 wird ein Widerspruchsausschuß gebildet.
-
-(2) Der Widerspruchsausschuß besteht aus
-
-1. einem vom Stiftungsrat aus seiner Mitte gewählten Mitglied als Vorsitzendem,
-
-2. zwei ehrenamtlichen Beisitzern.
-
-Der Stiftungsrat wählt aus seiner Mitte einen stellvertretenden Vorsitzenden des Widerspruchsausschusses; dieser vertritt den Vorsitzenden, falls dieser verhindert ist.
-
-(3) Der Vorsitzende des Widerspruchsausschusses sowie sein Stellvertreter müssen die Befähigung für den höheren Verwaltungsdienst besitzen. Die Beisitzer des Ausschusses nach § 22 können nicht zugleich Mitglieder des Widerspruchsausschusses sein; im übrigen gilt § 22 Abs. 3 und 4 entsprechend.
-
-# § 24 – Aufsicht
-
-Die Stiftung untersteht der Aufsicht des für dieses Gesetz federführenden Bundesministers.
-
-# § 25 – Aufhebung der Stiftung
-
-Bei der Aufhebung der Stiftung vorhandenes Vermögen fließt dem Bund zu.
+# § 25 – (weggefallen)
 
 # § 25a – Übergangsvorschrift
 
@@ -299,7 +225,7 @@ Bei der Aufhebung der Stiftung vorhandenes Vermögen fließt dem Bund zu.
 
 # § 25b – Sonstige Vorschriften
 
-Die Leistungen nach den §§ 9a bis 9c und § 18 unterliegen in der Person des unmittelbar Berechtigten nicht der Zwangsvollstreckung.
+Die Leistungen nach den §§ 9a bis 9c unterliegen in der Person des unmittelbar Berechtigten nicht der Zwangsvollstreckung.
 
 # § 26 – (weggefallen)
 

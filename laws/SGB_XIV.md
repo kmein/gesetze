@@ -1378,15 +1378,15 @@ Für die Erbringer von Leistungen bei Pflegebedürftigkeit gelten die §§ 104 b
 
 (1) Geschädigte erhalten eine monatliche Entschädigungszahlung von
 
-1. 418 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
+1. 434 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
 
-2. 837 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
+2. 868 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
 
-3. 1 255 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3. 1 302 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
-4. 1 673 Euro bei einem Grad der Schädigungsfolgen von 90,
+4. 1 736 Euro bei einem Grad der Schädigungsfolgen von 90,
 
-5. 2 091 Euro bei einem Grad der Schädigungsfolgen von 100.
+5. 2 169 Euro bei einem Grad der Schädigungsfolgen von 100.
 
 (2) Die monatliche Entschädigungszahlung nach Absatz 1 Nummer 5 erhöht sich für Geschädigte mit schwersten Schädigungsfolgen um 20 Prozent.
 
@@ -1416,7 +1416,7 @@ eine weitere wesentliche Schädigungsfolge vorliegt, so dass der Leidenszustand 
 
 # § 85 – Monatliche Entschädigungszahlung an Witwen und Witwer sowie an Partner einer eheähnlichen Gemeinschaft
 
-(1) Eine monatliche Entschädigungszahlung in Höhe von 1 103 Euro erhält die Witwe oder der Witwer des oder der schädigungsbedingt verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 52 Euro monatlich für jedes im Haushalt lebende minderjährige Kind, das eine monatliche Entschädigungszahlung für Waisen bezieht oder einen monatlichen Betrag nach § 144 Absatz 1 erhält, in dem eine Geldleistung nach § 45 Absatz 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung enthalten ist.
+(1) Eine monatliche Entschädigungszahlung in Höhe von 1 144 Euro erhält die Witwe oder der Witwer des oder der schädigungsbedingt verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 54 Euro monatlich für jedes im Haushalt lebende minderjährige Kind, das eine monatliche Entschädigungszahlung für Waisen bezieht oder einen monatlichen Betrag nach § 144 Absatz 1 erhält, in dem eine Geldleistung nach § 45 Absatz 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung enthalten ist.
 
 (2) Die monatliche Entschädigungszahlung nach Absatz 1 erhalten auch Partner einer eheähnlichen Gemeinschaft, sofern ein Partner an den Schädigungsfolgen verstorben ist und der andere unter Verzicht auf eine Erwerbstätigkeit die Betreuung eines gemeinschaftlichen Kindes ausübt. Dieser Anspruch besteht für die ersten drei Lebensjahre des Kindes.
 
@@ -1426,15 +1426,15 @@ eine weitere wesentliche Schädigungsfolge vorliegt, so dass der Leidenszustand 
 
 (1) Witwen und Witwer erhalten auf Antrag eine Abfindung anstelle der monatlichen Entschädigungszahlung. Der Antrag ist innerhalb eines Jahres nach Bewilligung der Entschädigungszahlung zu stellen.
 
-(2) Die Abfindung beträgt 132 386 Euro. Auf die Abfindung sind bereits geleistete monatliche Entschädigungszahlungen anzurechnen.
+(2) Die Abfindung beträgt 137 337 Euro. Auf die Abfindung sind bereits geleistete monatliche Entschädigungszahlungen anzurechnen.
 
 (3) Mit der Zahlung der Abfindung sind alle Ansprüche auf die monatlichen Entschädigungszahlungen abgegolten.
 
 # § 87 – Monatliche Entschädigungszahlung an Waisen
 
-(1) Waisen eines schädigungsbedingt verstorbenen Elternteils erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 408 Euro.
+(1) Waisen eines schädigungsbedingt verstorbenen Elternteils erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 423 Euro.
 
-(2) Waisen schädigungsbedingt verstorbener Eltern erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 638 Euro.
+(2) Waisen schädigungsbedingt verstorbener Eltern erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 662 Euro.
 
 (3) Die monatlichen Entschädigungszahlungen werden gezahlt, bis die Waise 18 Jahre alt wird.
 
@@ -1458,9 +1458,9 @@ frühestens jedoch von dem Monat an, in dem der oder die Geschädigte das 18. Le
 
 (2) Die monatliche Entschädigungszahlung an Eltern beträgt für jedes Kind, das an den Folgen der Schädigung gestorben ist,
 
-1. für ein noch lebendes Elternteil 261 Euro,
+1. für ein noch lebendes Elternteil 271 Euro,
 
-2. für beide Elternteile je 157 Euro.
+2. für beide Elternteile je 163 Euro.
 
 (3) Den Eltern werden gleichgestellt
 
@@ -1701,17 +1701,17 @@ Art, Ausmaß und Dauer der Besonderen Leistungen im Einzelfall richten sich nach
 
 (4) Geschädigte erhalten Einmalzahlungen in Höhe von
 
-1. 2 719 Euro bei einem Grad der Schädigungsfolgen von mindestens 30, aber weniger als 50,
+1. 2 821 Euro bei einem Grad der Schädigungsfolgen von mindestens 30, aber weniger als 50,
 
-2. 8 156 Euro bei einem Grad der Schädigungsfolgen von 50 bis 60,
+2. 8 461 Euro bei einem Grad der Schädigungsfolgen von 50 bis 60,
 
-3. 13 594 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3. 14 102 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
-4. 21 751 Euro bei einem Grad der Schädigungsfolgen von 90,
+4. 22 564 Euro bei einem Grad der Schädigungsfolgen von 90,
 
-5. 29 907 Euro bei einem Grad der Schädigungsfolgen von 100.
+5. 31 026 Euro bei einem Grad der Schädigungsfolgen von 100.
 
-(5) Ist eine Person, bei der die Voraussetzungen nach Absatz 1 vorliegen, an den Folgen der Schädigung gestorben, erhalten Hinterbliebene eine Einmalzahlung. Die Einmalzahlung beträgt bei Halbwaisen 2 719 Euro, bei Vollwaisen 3 660 Euro und bei weiteren Hinterbliebenen 8 156 Euro.
+(5) Ist eine Person, bei der die Voraussetzungen nach Absatz 1 vorliegen, an den Folgen der Schädigung gestorben, erhalten Hinterbliebene eine Einmalzahlung. Die Einmalzahlung beträgt bei Halbwaisen 2 821 Euro, bei Vollwaisen 3 797 Euro und bei weiteren Hinterbliebenen 8 461 Euro.
 
 (6) Angehörige und Hinterbliebene haben Anspruch auf Leistungen der Schnellen Hilfen. Diese werden im Inland erbracht. Überführungs- und Bestattungskosten werden nach § 99 erstattet.
 
@@ -2363,7 +2363,7 @@ Witwen und Witwer erhalten einen monatlichen Pflegeausgleich, wenn
 
 4. sie nicht einen monatlichen Betrag nach § 144 Absatz 1 erhalten, in dem eine Geldleistung nach § 144 Absatz 1 Satz 2 Nummer 12 enthalten ist.
 
-Der monatliche Pflegeausgleich beträgt für jedes Jahr der über zehn Jahre hinausgehenden Pflegezeit 21 Euro. Kalendermonate, in denen die Pflege nicht unentgeltlich geleistet wurde, werden dabei nicht mitgezählt. Die anzurechnende Gesamtpflegezeit wird auf volle Jahre aufgerundet.
+Der monatliche Pflegeausgleich beträgt für jedes Jahr der über zehn Jahre hinausgehenden Pflegezeit 22 Euro. Kalendermonate, in denen die Pflege nicht unentgeltlich geleistet wurde, werden dabei nicht mitgezählt. Die anzurechnende Gesamtpflegezeit wird auf volle Jahre aufgerundet.
 
 # § 148 – Monatliche Entschädigungszahlung für Witwen und Witwer bei nicht schädigungsbedingtem Tod
 
@@ -2399,11 +2399,11 @@ hatte.
 
 (4) Der Anspruch auf die in Absatz 2 Nummer 1 und 2 und Absatz 3 Nummer 1 und 2 genannten Leistungen muss im Zeitpunkt des Todes des Geschädigten bestanden haben.
 
-(5) Die monatliche Entschädigungszahlung beträgt 523 Euro. Sie beträgt 784 Euro für Witwen und Witwer von Geschädigten mit einem Grad der Schädigungsfolgen von 100.
+(5) Die monatliche Entschädigungszahlung beträgt 543 Euro. Sie beträgt 813 Euro für Witwen und Witwer von Geschädigten mit einem Grad der Schädigungsfolgen von 100.
 
 (6) Berechtigte nach Absatz 1 erhalten auf Antrag eine Abfindung anstelle der monatlichen Entschädigungszahlung. Der Antrag ist innerhalb eines Jahres nach Bewilligung der Entschädigungszahlung zu stellen.
 
-(7) Die Abfindung beträgt 62 742 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 1, 94 113 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 2.
+(7) Die Abfindung beträgt 65 089 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 1, 97 633 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 2.
 
 (8) Auf die Abfindung sind bereits geleistete monatliche Entschädigungszahlungen anzurechnen. Mit der Zahlung der Abfindung sind alle Ansprüche auf die monatlichen Entschädigungszahlungen bei nicht schädigungsbedingtem Tod abgegolten.
 

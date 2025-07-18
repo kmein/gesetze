@@ -1076,7 +1076,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2153
 |                                  | Pfaffenwaldring 12                                                                                             |                                                          |                                                                                           |
 |                                  | 70569 Stuttgart                                                                                                |                                                          |                                                                                           |
 
-# Anlage 2 Teil 2 – (zu § 7 Abs. 3)  Kennbuchstaben, die nicht mehr zugeteilt werden
+# Anlage 2 Teil 2 – (zu § 7 Abs. 3)Kennbuchstaben, die nicht mehr zugeteilt werden
 
 (Fundstelle: BGBl. I 1998, 2154)
 

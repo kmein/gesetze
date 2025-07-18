@@ -332,6 +332,8 @@ Auf das Verfahren sind § 13 Abs. 1, §§ 14 bis 17, 22, 22a, 24 bis 38 entsprec
 
 # § 48
 
+(Überleitungsvorschrift)
+
 # § 49
 
 (1) Ist der Eintritt einer Rechtswirkung an den Erlaß des die Todeserklärung aussprechenden Urteils geknüpft, so tritt sie, wenn ein Verschollener nach diesem Gesetz für tot erklärt wird, mit dem Zeitpunkt ein, in dem die Todeserklärung wirksam wird.

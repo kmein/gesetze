@@ -275,9 +275,7 @@ Die deutsche Staatsangehörigkeit geht nicht verloren, wenn das Kind
 
 # §§ 22 und 23 – (weggefallen)
 
-# § 24
-
-Die Entlassung gilt als nicht erfolgt, wenn der Entlassene die ihm zugesicherte ausländische Staatsangehörigkeit nicht innerhalb eines Jahres nach der Aushändigung der Entlassungsurkunde erworben hat.
+# § 24 – (weggefallen)
 
 # § 25 – (weggefallen)
 

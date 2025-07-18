@@ -3993,4 +3993,6 @@ in Euro</th>
 
 # Anlage IX – (zu den Anlagen I und III)Gültig ab 1. März 2024
 
-(Fundstelle: BGBl. 2023 I Nr. 414, S. 19 – 23)
+(Fundstelle: BGBl. 2023 I Nr. 414, S. 19 – 23; bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+(+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-10 v. 13.11.2019 I 1905 +++) Anlagen IV, V, VI, VIII u. IX: IdF d. Art. 1 Nr. 3 G v. 22.12.2023 I Nr. 414 mWv 1.6.2023

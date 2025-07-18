@@ -297,7 +297,7 @@ der Pflegebedürftigkeit und Berichtspflichten, Begriff der Pflegeperson</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 39</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Häusliche Pflege bei Verhinderung der Pflegeperson</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Verhinderungspflege</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 39a</td>
@@ -341,852 +341,865 @@ der Pflegebedürftigkeit und Berichtspflichten, Begriff der Pflegeperson</td>
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Dritter Titel</td>
 </tr>
 <tr class="odd">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Pflegerische Versorgung bei Vorsorge- oder Rehabilitationsmaßnahmen der Pflegeperson</td>
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Gemeinsamer Jahresbetrag für Verhinderungspflege und Kurzzeitpflege</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 42a</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Gemeinsamer Jahresbetrag</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Vierter Titel</td>
 </tr>
+<tr class="even">
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Pflegerische Versorgung bei Vorsorge- oder Rehabilitationsmaßnahmen der Pflegeperson</td>
+</tr>
 <tr class="odd">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Vollstationäre Pflege</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 42b</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson</td>
 </tr>
 <tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Fünfter Titel</td>
+</tr>
+<tr class="even">
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Vollstationäre Pflege</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Inhalt der Leistung</td>
 </tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
 <tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Sechster Titel</td>
 </tr>
 <tr class="even">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Fünfter Titel</td>
-</tr>
-<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Pauschalleistung für die Pflege von Menschen mit Behinderungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Inhalt der Leistungen</td>
 </tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
 <tr class="odd">
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Siebter Titel</td>
 </tr>
 <tr class="even">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Sechster Titel</td>
-</tr>
-<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Inhalt der Leistung</td>
 </tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
 <tr class="odd">
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Achter Titel</td>
 </tr>
 <tr class="even">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Siebter Titel</td>
-</tr>
-<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Pflegebedingter<br />
 Eigenanteil bei vollstationärer Pflege</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43c</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Begrenzung des Eigenanteils an den pflegebedingten Aufwendungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">  Vierter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">  Leistungen für Pflegepersonen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Leistungen zur sozialen Sicherung der Pflegepersonen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusätzliche Leistungen bei Pflegezeit und kurzzeitiger Arbeitsverhinderung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Fünfter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Angebote zur Unterstützung im Alltag, Entlastungsbetrag, Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts sowie der Selbsthilfe</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Angebote zur Unterstützung im Alltag, Umwandlung des ambulanten Sachleistungsbetrags (Umwandlungsanspruch), Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entlastungsbetrag</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts, Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Förderung der Selbsthilfe, Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sechster Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Initiativprogramm zur<br />
 Förderung neuer Wohnformen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anschubfinanzierung zur Gründung von ambulant betreuten Wohngruppen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Weiterentwicklung neuer Wohnformen</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Fünftes Kapitel</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Organisation</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Träger der Pflegeversicherung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 46</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflegekassen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 47</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Satzung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 47a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zuständigkeit, Mitgliedschaft</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 48</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit für Versicherte einer Krankenkasse und sonstige Versicherte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 49</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitgliedschaft</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Meldungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Melde- und Auskunftspflichten bei Mitgliedern der sozialen Pflegeversicherung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 51</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Meldungen bei Mitgliedern der privaten Pflegeversicherung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vierter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Wahrnehmung der Verbandsaufgaben</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 52</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben auf Landesebene</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben auf Bundesebene</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beauftragung von anderen unabhängigen Gutachtern durch die Pflegekassen im Verfahren zur Feststellung der Pflegebedürftigkeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Richtlinien zur Qualifikation und zu den Aufgaben zusätzlicher Betreuungskräfte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Fünfter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Medizinische Dienste,<br />
 Medizinischer Dienst Bund</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53c</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Medizinische Dienste, Medizinischer Dienst Bund, Übergangsregelung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53d</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Aufgaben des Medizinischen Dienstes Bund</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sechstes Kapitel</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Finanzierung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Beiträge</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 54</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grundsatz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 55</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragssatz, Beitragsbemessungsgrenze, Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">§ 55a</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Automatisiertes Übermittlungsverfahren zur Erhebung und zum Nachweis der Elterneigenschaft sowie der Anzahl der berücksichtigungsfähigen Kinder für die Beitragssatzermittlung</td>
-</tr>
 <tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 55a</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Automatisiertes Übermittlungsverfahren zur Erhebung und zum Nachweis der Elterneigenschaft sowie der Anzahl der berücksichtigungsfähigen Kinder für die Beitragssatzermittlung&gt;</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 55b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Meldung der Pflegekasse im Verfahren nach § 55a bei Selbstzahlern</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 56</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragsfreiheit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragspflichtige Einnahmen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Tragung der Beiträge bei versicherungspflichtig Beschäftigten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragstragung bei anderen Mitgliedern</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berücksichtigung des Beitragsabschlags für Eltern bei der Beitragstragung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 60</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragszahlung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Beitragszuschüsse</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragszuschüsse für freiwillige Mitglieder der gesetzlichen Krankenversicherung und Privatversicherte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Bundesmittel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligung des Bundes an Aufwendungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vierter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Verwendung und Verwaltung der Mittel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 62</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mittel der Pflegekasse</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 63</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Betriebsmittel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 64</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rücklage</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Fünfter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Ausgleichsfonds, Finanzausgleich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 65</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausgleichsfonds</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 66</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Finanzausgleich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 67</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Monatlicher Ausgleich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 68</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Jahresausgleich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Siebtes Kapitel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Beziehungen der Pflegekassen zu den Leistungserbringern</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Allgemeine Grundsätze</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 69</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sicherstellungsauftrag</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 70</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragssatzstabilität</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Beziehungen zu den Pflegeeinrichtungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 71</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflegeeinrichtungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 72</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zulassung zur Pflege durch Versorgungsvertrag</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 73</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Abschluß von Versorgungsverträgen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 74</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kündigung von Versorgungsverträgen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 75</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rahmenverträge, Bundesempfehlungen und -vereinbarungen über die pflegerische Versorgung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schiedsstelle</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Beziehungen zu sonstigen Leistungserbringern</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 77</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Häusliche Pflege durch Einzelpersonen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 78</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verträge über Pflegehilfsmittel, Pflegehilfsmittelverzeichnis und Empfehlungen zu wohnumfeldverbessernden Maßnahmen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 78a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verträge über digitale Pflegeanwendungen und Verzeichnis für digitale Pflegeanwendungen, Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vierter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Wirtschaftlichkeitsprüfungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 79</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wirtschaftlichkeits- und Abrechnungsprüfungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 80</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 80a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 81</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahrensregelungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Achtes Kapitel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Pflegevergütung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Allgemeine Vorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Finanzierung der Pflegeeinrichtungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausbildungsvergütung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ehrenamtliche Unterstützung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82c</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Wirtschaftlichkeit von Personalaufwendungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 83</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnung zur Regelung der Pflegevergütung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vergütung der stationären Pflegeleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 84</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bemessungsgrundsätze</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 85</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflegesatzverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 86</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflegesatzkommission</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 87</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unterkunft und Verpflegung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 87a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berechnung und Zahlung des Heimentgelts</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 87b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 88</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusatzleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 88a</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Wirtschaftlich tragfähige Vergütung für Kurzzeitpflege</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vergütung der ambulanten Pflegeleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 89</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grundsätze für die Vergütungsregelung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 90</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebührenordnung für ambulante Pflegeleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vierter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Kostenerstattung, Pflegeheimvergleich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 91</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kostenerstattung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 92</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 92a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflegeheimvergleich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Fünfter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Integrierte Versorgung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 92b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Integrierte Versorgung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sechster Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Übergangsregelung für die stationäre Pflege</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 92c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Neuverhandlung der Pflegesätze</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 92d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Alternative Überleitung der Pflegesätze</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 92e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren für die Umrechnung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 92f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflichten der Beteiligten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Neuntes Kapitel</td>
 </tr>
-<tr class="even">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Datenschutz, Statistik und Interoperabilität</td>
-</tr>
 <tr class="odd">
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Datenschutz, Statistik und Interopertabilität</td>
+</tr>
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Informationsgrundlagen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Erster Titel</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Grundsätze der Datenverarbeitung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 93</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anzuwendende Vorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 94</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Personenbezogene Daten bei den Pflegekassen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 95</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Personenbezogene Daten bei den Verbänden der Pflegekassen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 96</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gemeinsame Verarbeitung personenbezogener Daten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 97</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Personenbezogene Daten beim Medizinischen Dienst</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 97a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Qualitätssicherung durch Sachverständige</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 97b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Personenbezogene Daten bei den nach heimrechtlichen Vorschriften zuständigen Aufsichtsbehörden und den Trägern der Sozialhilfe</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 97c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Qualitätssicherung durch den Prüfdienst des Verbandes der privaten Krankenversicherung e. V.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 97d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Begutachtung durch unabhängige Gutachter</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 98</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Forschungsvorhaben</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Zweiter Titel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Informationsgrundlagen der Pflegekassen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 99</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Versichertenverzeichnis</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 100</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nachweispflicht bei Familienversicherung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 101</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflegeversichertennummer</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 102</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Angaben über Leistungsvoraussetzungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 103</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kennzeichen für Leistungsträger und Leistungserbringer</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 103a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">IT-Sicherheit der Pflegekassen</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
 <tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Übermittlung von Leistungsdaten,<br />
 Nutzung der Telematikinfrastruktur</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 104</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflichten der Leistungserbringer</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 105</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Abrechnung pflegerischer Leistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 106</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Abweichende Vereinbarungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 106a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungspflichten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 106b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Finanzierung der Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 106c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einbindung der Medizinischen Dienste in die Telematikinfrastruktur</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Datenlöschung, Auskunftspflicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 107</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Löschen von Daten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 108</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auskünfte an Versicherte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vierter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Statistik</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 109</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflegestatistiken</td>
 </tr>
-<tr class="even">
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
 <tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Fünfter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Interoperabilität</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 109a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Recht auf Interoperabilität</td>
 </tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
 <tr class="odd">
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zehntes Kapitel</td>
 </tr>
 <tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Private Pflegeversicherung</td>
@@ -1676,13 +1689,13 @@ Er kann hierfür Mittel nach § 8 Absatz 3 einsetzen.
 
 # § 7b – Pflicht zum Beratungsangebot und Beratungsgutscheine
 
-(1) Die Pflegekasse hat dem Versicherten unmittelbar nach Eingang eines erstmaligen Antrags auf Leistungen nach diesem Buch oder des erklärten Bedarfs einer Begutachtung zur Feststellung der Pflegebedürftigkeit oder weiterer Anträge auf Leistungen nach den §§ 36 bis 38a, 40 Absatz 1 und 4, den §§ 40b, 41 bis 43, 44a, 45, 45e, 87a Absatz 2 Satz 1 und § 115 Absatz 4 entweder
+(1) Die Pflegekasse hat dem Versicherten unmittelbar nach Eingang eines erstmaligen Antrags auf Leistungen nach diesem Buch oder des erklärten Bedarfs einer Begutachtung zur Feststellung der Pflegebedürftigkeit oder weiterer Anträge auf Leistungen nach den §§ 36 bis 38a, 40 Absatz 1 und 4, den §§ 40b, 41, 42b, 43, 44a, 45, 45e, 87a Absatz 2 Satz 1 und § 115 Absatz 4 entweder
 
 1. unter Angabe einer Kontaktperson einen konkreten Beratungstermin anzubieten, der spätestens innerhalb von zwei Wochen nach Antragseingang durchzuführen ist, oder
 
 2. einen Beratungsgutschein auszustellen, in dem Beratungsstellen benannt sind, bei denen er zu Lasten der Pflegekasse innerhalb von zwei Wochen nach Antragseingang eingelöst werden kann; § 7a Absatz 4 Satz 5 ist entsprechend anzuwenden.
 
-Dabei ist ausdrücklich auf die Möglichkeiten des individuellen Versorgungsplans nach § 7a hinzuweisen und über dessen Nutzen aufzuklären.Die Beratung richtet sich nach § 7a. Auf Wunsch des Versicherten hat die Beratung in der häuslichen Umgebung stattzufinden und kann auch nach Ablauf der in Satz 1 genannten Frist durchgeführt werden; über diese Möglichkeiten hat ihn die Pflegekasse aufzuklären. Die Sätze 1 bis 4 finden auch Anwendung bei der erstmaligen Beantragung von Leistungen nach den §§ 39, 40 Absatz 2, § 45a Absatz 4 und § 45b.
+Dabei ist ausdrücklich auf die Möglichkeiten des individuellen Versorgungsplans nach § 7a hinzuweisen und über dessen Nutzen aufzuklären. Die Beratung richtet sich nach § 7a. Auf Wunsch des Versicherten hat die Beratung in der häuslichen Umgebung stattzufinden und kann auch nach Ablauf der in Satz 1 genannten Frist durchgeführt werden; über diese Möglichkeiten hat ihn die Pflegekasse aufzuklären. Die Sätze 1 bis 4 finden auch Anwendung bei der erstmaligen Beantragung von Leistungen nach § 40 Absatz 2, den §§ 39 sowie 42 jeweils in Verbindung mit § 42a, nach § 45a Absatz 4 und § 45b.
 
 (2) Die Pflegekasse hat sicherzustellen, dass die Beratungsstellen die Anforderungen an die Beratung nach § 7a einhalten. Die Pflegekasse schließt hierzu allein oder gemeinsam mit anderen Pflegekassen vertragliche Vereinbarungen mit unabhängigen und neutralen Beratungsstellen, die insbesondere Regelungen treffen für
 
@@ -2354,7 +2367,7 @@ Personen, die nach den § 20, § 21 oder § 21a Absatz 1 versicherungspflichtig 
 
 3a. zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen (§ 38a),
 
-4. häusliche Pflege bei Verhinderung der Pflegeperson (§ 39),
+4. Verhinderungspflege (§ 39 in Verbindung mit § 42a),
 
 5. Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen (§ 40),
 
@@ -2362,9 +2375,9 @@ Personen, die nach den § 20, § 21 oder § 21a Absatz 1 versicherungspflichtig 
 
 6. Tagespflege und Nachtpflege (§ 41),
 
-7. Kurzzeitpflege (§ 42),
+7. Kurzzeitpflege (§ 42 in Verbindung mit § 42a),
 
-7a. Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson (§ 42a),
+7a. Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson (§ 42b),
 
 8. vollstationäre Pflege (§ 43),
 
@@ -2410,7 +2423,7 @@ Bei Vorliegen des Pflegegrades 1 gewährt die Pflegeversicherung folgende Leistu
 
 6. Leistungen zur ergänzenden Unterstützung bei der Nutzung von digitalen Pflegeanwendungen sowie zur Versorgung mit digitalen Pflegeanwendungen gemäß den §§ 39a, 40a und 40b,
 
-7. Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson gemäß § 42a,
+7. Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson gemäß § 42b,
 
 8. einen monatlichen Zuschuss bei vollstationärer Pflege gemäß § 43 Absatz 3,
 
@@ -2483,7 +2496,7 @@ Auf Leistungen besteht kein Anspruch, wenn sich Personen in den Geltungsbereich 
 
 (2) Der Anspruch auf Leistungen bei häuslicher Pflege ruht darüber hinaus, soweit im Rahmen des Anspruchs auf häusliche Krankenpflege (§ 37 des Fünften Buches) auch Anspruch auf Leistungen besteht, deren Inhalt den Leistungen nach § 36 entspricht, sowie für die Dauer des stationären Aufenthalts in einer Einrichtung im Sinne des § 71 Abs. 4, soweit § 39 nichts Abweichendes bestimmt. Pflegegeld nach § 37 oder anteiliges Pflegegeld nach § 38 ist in den ersten vier Wochen einer vollstationären Krankenhausbehandlung, einer häuslichen Krankenpflege mit Anspruch auf Leistungen, deren Inhalt den Leistungen nach § 36 entspricht, oder einer Aufnahme in Vorsorge- oder Rehabilitationseinrichtungen nach § 107 Absatz 2 des Fünften Buches weiter zu zahlen; bei Pflegebedürftigen, die ihre Pflege durch von ihnen beschäftigte besondere Pflegekräfte sicherstellen und bei denen § 63b Absatz 6 Satz 1 des Zwölften Buches Anwendung findet, wird das Pflegegeld nach § 37 oder anteiliges Pflegegeld nach § 38 auch über die ersten vier Wochen hinaus weiter gezahlt.
 
-(3) Die Leistungen zur sozialen Sicherung nach den §§ 44 und 44a ruhen nicht für die Dauer der häuslichen Krankenpflege, bei vorübergehendem Auslandsaufenthalt des Versicherten oder Erholungsurlaub der Pflegeperson von bis zu sechs Wochen im Kalenderjahr sowie in den ersten vier Wochen einer vollstationären Krankenhausbehandlung oder einer stationären Leistung zur medizinischen Rehabilitation.
+(3) Die Leistungen zur sozialen Sicherung nach den §§ 44 und 44a ruhen nicht für die Dauer der häuslichen Krankenpflege, bei vorübergehendem Auslandsaufenthalt des Versicherten von bis zu sechs Wochen im Kalenderjahr oder bei Erholungsurlaub der Pflegeperson von bis zu acht Wochen im Kalenderjahr sowie in den ersten vier Wochen einer vollstationären Krankenhausbehandlung oder einer stationären Leistung zur medizinischen Rehabilitation.
 
 # § 35 – Erlöschen der Leistungsansprüche
 
@@ -2536,7 +2549,7 @@ Pflegebedürftigen werden auf Antrag die Leistungen nach den §§ 36, 37 Abs. 1,
 
 4. 947 Euro für Pflegebedürftige des Pflegegrades 5.
 
-(2) Besteht der Anspruch nach Absatz 1 nicht für den vollen Kalendermonat, ist der Geldbetrag entsprechend zu kürzen; dabei ist der Kalendermonat mit 30 Tagen anzusetzen. Die Hälfte des bisher bezogenen Pflegegeldes wird während einer Kurzzeitpflege nach § 42 für bis zu acht Wochen und während einer Verhinderungspflege nach § 39 für bis zu sechs Wochen je Kalenderjahr fortgewährt. Das Pflegegeld wird bis zum Ende des Kalendermonats geleistet, in dem der Pflegebedürftige gestorben ist. § 118 Abs. 3 und 4 des Sechsten Buches gilt entsprechend, wenn für die Zeit nach dem Monat, in dem der Pflegebedürftige verstorben ist, Pflegegeld überwiesen wurde.
+(2) Besteht der Anspruch nach Absatz 1 nicht für den vollen Kalendermonat, ist der Geldbetrag entsprechend zu kürzen; dabei ist der Kalendermonat mit 30 Tagen anzusetzen. Die Hälfte des bisher bezogenen Pflegegeldes wird während einer Kurzzeitpflege nach § 42 und während einer Verhinderungspflege nach § 39 jeweils für bis zu acht Wochen je Kalenderjahr fortgewährt. Das Pflegegeld wird bis zum Ende des Kalendermonats geleistet, in dem der Pflegebedürftige gestorben ist. § 118 Abs. 3 und 4 des Sechsten Buches gilt entsprechend, wenn für die Zeit nach dem Monat, in dem der Pflegebedürftige verstorben ist, Pflegegeld überwiesen wurde.
 
 (3) Pflegebedürftige, die Pflegegeld nach Absatz 1 beziehen, haben in folgenden Intervallen eine Beratung in der eigenen Häuslichkeit abzurufen:
 
@@ -2589,7 +2602,7 @@ Fordert das Bundesministerium für Gesundheit oder eine Vertragspartei nach § 1
 
 # § 38 – Kombination von Geldleistung und Sachleistung (Kombinationsleistung)
 
-Nimmt der Pflegebedürftige die ihm nach § 36 Absatz 3 zustehende Sachleistung nur teilweise in Anspruch, erhält er daneben ein anteiliges Pflegegeld im Sinne des § 37. Das Pflegegeld wird um den Vomhundertsatz vermindert, in dem der Pflegebedürftige Sachleistungen in Anspruch genommen hat. An die Entscheidung, in welchem Verhältnis er Geld- und Sachleistung in Anspruch nehmen will, ist der Pflegebedürftige für die Dauer von sechs Monaten gebunden. Anteiliges Pflegegeld wird während einer Kurzzeitpflege nach § 42 für bis zu acht Wochen und während einer Verhinderungspflege nach § 39 für bis zu sechs Wochen je Kalenderjahr in Höhe der Hälfte der vor Beginn der Kurzzeit- oder Verhinderungspflege geleisteten Höhe fortgewährt. Pflegebedürftige in vollstationären Einrichtungen der Hilfe für behinderte Menschen (§ 43a) haben Anspruch auf ungekürztes Pflegegeld anteilig für die Tage, an denen sie sich in häuslicher Pflege befinden.
+Nimmt der Pflegebedürftige die ihm nach § 36 Absatz 3 zustehende Sachleistung nur teilweise in Anspruch, erhält er daneben ein anteiliges Pflegegeld im Sinne des § 37. Das Pflegegeld wird um den Vomhundertsatz vermindert, in dem der Pflegebedürftige Sachleistungen in Anspruch genommen hat. An die Entscheidung, in welchem Verhältnis er Geld- und Sachleistung in Anspruch nehmen will, ist der Pflegebedürftige für die Dauer von sechs Monaten gebunden. Anteiliges Pflegegeld wird während einer Kurzzeitpflege nach § 42 und während einer Verhinderungspflege nach § 39 jeweils für bis zu acht Wochen je Kalenderjahr in Höhe der Hälfte der vor Beginn der Kurzzeit- oder Verhinderungspflege geleisteten Höhe fortgewährt. Pflegebedürftige in vollstationären Einrichtungen der Hilfe für behinderte Menschen (§ 43a) haben Anspruch auf ungekürztes Pflegegeld anteilig für die Tage, an denen sie sich in häuslicher Pflege befinden.
 
 # § 38a – Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen
 
@@ -2624,17 +2637,13 @@ Leistungen der Tages- und Nachtpflege gemäß § 41 können neben den Leistungen
     ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
      (siehe: SGB11§30Bek 2025) +++) 
 
-# § 39 – Häusliche Pflege bei Verhinderung der Pflegeperson
+# § 39 – Verhinderungspflege
 
-(1) Ist eine Pflegeperson wegen Erholungsurlaubs, Krankheit oder aus anderen Gründen an der Pflege gehindert, übernimmt die Pflegekasse die nachgewiesenen Kosten einer notwendigen Ersatzpflege für längstens sechs Wochen je Kalenderjahr; § 34 Absatz 2 Satz 1 gilt nicht. Voraussetzung ist, dass die Pflegeperson den Pflegebedürftigen vor der erstmaligen Verhinderung mindestens sechs Monate in seiner häuslichen Umgebung gepflegt hat und der Pflegebedürftige zum Zeitpunkt der Verhinderung mindestens in Pflegegrad 2 eingestuft ist. Die Aufwendungen der Pflegekasse können sich im Kalenderjahr auf bis zu 1 612 Euro belaufen, wenn die Ersatzpflege durch andere Pflegepersonen sichergestellt wird als solche, die mit dem Pflegebedürftigen bis zum zweiten Grade verwandt oder verschwägert sind oder die mit ihm in häuslicher Gemeinschaft leben.
+(1) Ist eine Pflegeperson, die einen Pflegebedürftigen mit mindestens Pflegegrad 2 in seiner häuslichen Umgebung pflegt, wegen Erholungsurlaubs, Krankheit oder aus anderen Gründen an der Pflege gehindert, übernimmt die Pflegekasse die nachgewiesenen Kosten einer notwendigen Ersatzpflege für den Pflegebedürftigen für längstens acht Wochen je Kalenderjahr; § 34 Absatz 2 Satz 1 gilt nicht. Eine vorherige Antragstellung vor Durchführung der Ersatzpflege ist nicht erforderlich. Auf welche Höhe sich die Kostenübernahme für die Ersatzpflege durch die Pflegekasse belaufen darf, bestimmt sich nach den Absätzen 2 und 3.
 
-(2) Der Leistungsbetrag nach Absatz 1 Satz 3 kann um bis zu 806 Euro aus noch nicht in Anspruch genommenen Mitteln der Kurzzeitpflege nach § 42 Absatz 2 Satz 2 auf insgesamt bis zu 2 418 Euro im Kalenderjahr erhöht werden. Der für die Verhinderungspflege in Anspruch genommene Erhöhungsbetrag wird auf den Leistungsbetrag für eine Kurzzeitpflege nach § 42 Absatz 2 Satz 2 angerechnet. Auf den in Satz 1 genannten Erhöhungsbetrag von bis zu 806 Euro findet § 30 Absatz 1 und 2 entsprechende Anwendung.
+(2) Wird die Ersatzpflege durch andere Personen sichergestellt als solche, die mit dem Pflegebedürftigen bis zum zweiten Grade verwandt oder verschwägert sind oder die mit ihm in häuslicher Gemeinschaft leben, dürfen sich die Aufwendungen der Pflegekasse für die Ersatzpflegekosten je Kalenderjahr höchstens bis auf die Höhe des Gemeinsamen Jahresbetrags nach § 42a belaufen.
 
-(3) Bei einer Ersatzpflege durch Pflegepersonen, die mit dem Pflegebedürftigen bis zum zweiten Grade verwandt oder verschwägert sind oder mit ihm in häuslicher Gemeinschaft leben, dürfen die Aufwendungen der Pflegekasse regelmäßig den Betrag des Pflegegeldes nach § 37 Absatz 1 Satz 3 für bis zu sechs Wochen nicht überschreiten. Wird die Ersatzpflege von den in Satz 1 genannten Personen erwerbsmäßig ausgeübt, können sich die Aufwendungen der Pflegekasse abweichend von Satz 1 auf den Leistungsbetrag nach Absatz 1 Satz 3 belaufen; Absatz 2 findet Anwendung. Bei Bezug der Leistung in Höhe des Pflegegeldes für eine Ersatzpflege durch Pflegepersonen, die mit dem Pflegebedürftigen bis zum zweiten Grade verwandt oder verschwägert sind oder mit ihm in häuslicher Gemeinschaft leben, können von der Pflegekasse auf Nachweis notwendige Aufwendungen, die der Pflegeperson im Zusammenhang mit der Ersatzpflege entstanden sind, übernommen werden. Die Aufwendungen der Pflegekasse nach den Sätzen 1 und 3 dürfen zusammen den Leistungsbetrag nach Absatz 1 Satz 3 nicht übersteigen; Absatz 2 findet Anwendung.
-
-(4) Ist eine Pflegeperson wegen Erholungsurlaubs, Krankheit oder aus anderen Gründen an der Pflege gehindert, die einen Pflegebedürftigen der Pflegegrade 4 oder 5 pflegt, der das 25. Lebensjahr noch nicht vollendet hat, übernimmt die Pflegekasse abweichend von Absatz 1 Satz 1 die nachgewiesenen Kosten einer notwendigen Ersatzpflege für längstens acht Wochen je Kalenderjahr. Abweichend von Absatz 1 Satz 2 ist es dabei nicht erforderlich, dass die Pflegeperson den Pflegebedürftigen vor der erstmaligen Verhinderung mindestens sechs Monate in seiner häuslichen Umgebung gepflegt hat. In dem in Satz 1 genannten Fall der Verhinderung gilt Absatz 3 Satz 1 mit der Maßgabe, dass die Aufwendungen der Pflegekasse regelmäßig den Betrag des Pflegegeldes nach § 37 Absatz 1 Satz 3 für bis zu zwei Monate nicht überschreiten dürfen. In dem in Satz 1 genannten Fall der Verhinderung kann der Leistungsbetrag nach Absatz 1 Satz 3 abweichend von Absatz 2 sowie Absatz 3 Satz 2 und 4 in Verbindung mit Absatz 2 im Kalenderjahr um bis zu 100 Prozent der Mittel für eine Kurzzeitpflege nach § 42 Absatz 2 Satz 2 erhöht werden, soweit die Mittel der Kurzzeitpflege in dem Kalenderjahr noch nicht in Anspruch genommen worden sind. Der für die Verhinderungspflege in Anspruch genommene Erhöhungsbetrag wird auf den Leistungsbetrag für eine Kurzzeitpflege nach § 42 Absatz 2 Satz 2 angerechnet.
-
-(5) In dem in Absatz 4 Satz 1 genannten Fall der Verhinderung wird abweichend von § 37 Absatz 2 Satz 2 die Hälfte eines bisher bezogenen Pflegegeldes für bis zu acht Wochen im Kalenderjahr fortgewährt sowie abweichend von § 38 Satz 4 die Hälfte eines vor Beginn der Verhinderungspflege bezogenen anteiligen Pflegegeldes für bis zu acht Wochen im Kalenderjahr fortgewährt.
+(3) Wird die Ersatzpflege durch Ersatzpflegepersonen sichergestellt, die mit dem Pflegebedürftigen bis zum zweiten Grade verwandt oder verschwägert sind oder die mit ihm in häuslicher Gemeinschaft leben, dürfen sich die Aufwendungen der Pflegekasse je Kalenderjahr höchstens bis auf die Höhe des Gemeinsamen Jahresbetrags nach § 42a belaufen, wenn die Ersatzpflege von diesen Personen erwerbsmäßig ausgeübt wird. Wird die Ersatzpflege von diesen Personen nicht erwerbsmäßig ausgeübt, dürfen die Aufwendungen der Pflegekasse im Kalenderjahr regelmäßig den für den Pflegegrad des Pflegebedürftigen geltenden Betrag des Pflegegeldes nach § 37 Absatz 1 Satz 3 für bis zu zwei Monate nicht überschreiten. Auf Nachweis können von der Pflegekasse bei einer Ersatzpflege nach Satz 2 notwendige Aufwendungen, die der Ersatzpflegeperson im Zusammenhang mit der Ersatzpflege entstanden sind, auch über diesen Betrag hinaus übernommen werden. Die Aufwendungen der Pflegekasse nach den Sätzen 2 und 3 zusammen dürfen im Kalenderjahr den Gemeinsamen Jahresbetrag nach § 42a nicht übersteigen.
 
   
 
@@ -2730,7 +2739,7 @@ Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des
 
 2. in sonstigen Krisensituationen oder anderen Situationen, in denen vorübergehend häusliche oder teilstationäre Pflege nicht möglich oder nicht ausreichend ist.
 
-(2) Der Anspruch auf Kurzzeitpflege ist auf acht Wochen pro Kalenderjahr beschränkt. Die Pflegekasse übernimmt die pflegebedingten Aufwendungen einschließlich der Aufwendungen für Betreuung sowie die Aufwendungen für Leistungen der medizinischen Behandlungspflege bis zu dem Gesamtbetrag von 1 774 Euro im Kalenderjahr. Der Leistungsbetrag nach Satz 2 kann um bis zu 1 612 Euro aus noch nicht in Anspruch genommenen Mitteln der Verhinderungspflege nach § 39 Absatz 1 Satz 3 auf insgesamt bis zu 3 386 Euro im Kalenderjahr erhöht werden. Der für die Kurzzeitpflege in Anspruch genommene Erhöhungsbetrag wird auf den Leistungsbetrag für eine Verhinderungspflege nach § 39 Absatz 1 Satz 3 angerechnet. Auf den in Satz 3 genannten Erhöhungsbetrag von bis zu 1 612 Euro findet § 30 Absatz 1 und 2 entsprechende Anwendung.
+(2) Der Anspruch auf Kurzzeitpflege ist auf acht Wochen pro Kalenderjahr beschränkt. Die Pflegekasse übernimmt die pflegebedingten Aufwendungen einschließlich der Aufwendungen für Betreuung sowie die Aufwendungen für Leistungen der medizinischen Behandlungspflege pro Kalenderjahr höchstens bis zu einem Betrag in Höhe des Gemeinsamen Jahresbetrags nach § 42a.
 
 (3) Abweichend von den Absätzen 1 und 2 besteht der Anspruch auf Kurzzeitpflege in begründeten Einzelfällen bei zu Hause gepflegten Pflegebedürftigen auch in geeigneten Einrichtungen der Hilfe für behinderte Menschen und anderen geeigneten Einrichtungen, wenn die Pflege in einer von den Pflegekassen zur Kurzzeitpflege zugelassenen Pflegeeinrichtung nicht möglich ist oder nicht zumutbar erscheint. § 34 Abs. 2 Satz 1 findet keine Anwendung. Sind in dem Entgelt für die Einrichtung Kosten für Unterkunft und Verpflegung sowie Aufwendungen für Investitionen enthalten, ohne gesondert ausgewiesen zu sein, so sind 60 vom Hundert des Entgelts zuschussfähig. In begründeten Einzelfällen kann die Pflegekasse in Ansehung der Kosten für Unterkunft und Verpflegung sowie der Aufwendungen für Investitionen davon abweichende pauschale Abschläge vornehmen.
 
@@ -2741,7 +2750,15 @@ Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des
     ab dem 1.1.2025 vgl. Bek. v. 14.11.2024 BAnz AT 12.12.2024 B7 
      (siehe: SGB11§30Bek 2025) +++) 
 
-# § 42a – Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson
+# § 42a – Gemeinsamer Jahresbetrag
+
+(1) Pflegebedürftige mit mindestens Pflegegrad 2 haben Anspruch auf Leistungen der Verhinderungspflege nach Maßgabe des § 39 sowie Leistungen der Kurzzeitpflege nach Maßgabe des § 42 in Höhe eines Gesamtleistungsbetrages von insgesamt bis zu 3 539 Euro je Kalenderjahr (Gemeinsamer Jahresbetrag).
+
+(2) Werden Leistungen der Verhinderungspflege durch Pflegeeinrichtungen erbracht, haben diese der Pflegekasse des Pflegebedürftigen die Leistungserbringung und deren Umfang spätestens bis zum Ende des auf den Monat der Leistungserbringung folgenden Kalendermonats anzuzeigen. Die Anzeige gilt als erfolgt, wenn die zur Kostenerstattung im Rahmen der Verhinderungspflege erforderlichen Nachweise und Unterlagen innerhalb dieses Zeitraums bei der Pflegekasse eingereicht worden sind und die Pflegeeinrichtung hierüber nachweisbar sichere Kenntnis hat. Werden Leistungen der Kurzzeitpflege erbracht und wird deren Abrechnung gegenüber der Pflegekasse des Pflegebedürftigen nicht bis zum Ende des auf den Monat der Leistungserbringung folgenden Kalendermonats vorgenommen, ist durch den Leistungserbringer bis zum Ablauf dieses Zeitraums die Leistungserbringung und deren Umfang gegenüber der Pflegekasse anzuzeigen.
+
+(3) Erbringen Pflegeeinrichtungen Leistungen im Rahmen der Verhinderungspflege oder der Kurzzeitpflege, haben die Pflegeeinrichtungen den Pflegebedürftigen im Anschluss an die Leistungserbringung unverzüglich eine schriftliche Übersicht über die dafür angefallenen Aufwendungen zu übermitteln oder auszuhändigen; auf der Übersicht ist deutlich erkennbar auszuweisen, welcher Betrag davon zur Abrechnung über den Gemeinsamen Jahresbetrag vorgesehen ist. Die Übersicht kann mit Zustimmung des Pflegebedürftigen auch in Textform übermittelt werden. Sofern es sich bei den Leistungserbringenden nicht um natürliche Personen handelt, finden die Sätze 1 und 2 auf andere Erbringer von Leistungen im Rahmen der Verhinderungspflege oder der Kurzzeitpflege entsprechende Anwendung.
+
+# § 42b – Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson
 
 (1) Pflegebedürftige haben ab dem 1. Juli 2024 Anspruch auf Versorgung in zugelassenen Vorsorge- oder Rehabilitationseinrichtungen, wenn dort gleichzeitig Leistungen zur medizinischen Vorsorge oder Rehabilitation einschließlich der erforderlichen Unterkunft und Verpflegung nach § 23 Absatz 4 Satz 1 des Fünften Buches, nach § 40 Absatz 2 Satz 1 des Fünften Buches oder nach § 15 Absatz 2 des Sechsten Buches oder eine vergleichbare stationäre Vorsorge- oder Rehabilitationsmaßnahme von einer Pflegeperson des Pflegebedürftigen in Anspruch genommen werden. Leistungen nach dieser Vorschrift werden nur erbracht, wenn kein Anspruch auf Versorgung des Pflegebedürftigen nach § 40 Absatz 3a Satz 1 des Fünften Buches besteht.
 
@@ -5335,6 +5352,8 @@ Sowohl Personen- und Altersgruppen als auch Begutachtungsanlässe und Begutachtu
 (4) Die im Jahr 2015 gemäß § 45c zur Verfügung gestellten Fördermittel, die nach § 45c Absatz 5 Satz 2 in der bis zum 31. Dezember 2016 geltenden Fassung auf das Folgejahr 2016 übertragen und bis zum Ende des Jahres 2016 in den Ländern nicht in Anspruch genommen worden sind, können im Jahr 2017 gemäß § 45c Absatz 6 Satz 3 bis 9 in der ab dem 1. Januar 2017 geltenden Fassung von den Ländern beantragt werden, die im Jahr 2015 mindestens 80 Prozent der auf sie gemäß § 45c Absatz 5 Satz 1 in der bis zum 31. Dezember 2016 geltenden Fassung nach dem Königsteiner Schlüssel entfallenden Mittel ausgeschöpft haben.
 
 (5) In Fällen, in denen am 31. Dezember 2016 der Bezug von Leistungen der Pflegeversicherung mit Leistungen der Eingliederungshilfe für Menschen mit Behinderungen nach dem Zwölften Buch, dem Bundesversorgungsgesetz oder dem Achten Buch bereits zusammentrifft, muss eine Vereinbarung nach § 13 Absatz 4 in der ab dem 1. Januar 2017 geltenden Fassung nur dann abgeschlossen werden, wenn einer der beteiligten Träger oder der Leistungsbezieher dies verlangt. Trifft der Bezug von Leistungen der Pflegeversicherung außerdem mit Leistungen der Hilfe zur Pflege nach dem Zwölften Buch oder dem Bundesversorgungsgesetz zusammen, gilt Satz 1 entsprechend.
+
+(6) Die Leistungsbeträge, die für Leistungen der Verhinderungspflege gemäß § 39 sowie für Leistungen der Kurzzeitpflege gemäß § 42 im Zeitraum vom 1. Januar 2025 bis einschließlich zum 30. Juni 2025 verbraucht worden sind, werden auf den Leistungsbetrag des Gemeinsamen Jahresbetrags nach § 42a für das Kalenderjahr 2025 angerechnet.
 
 # § 145 – Besitzstandsschutz für pflegebedürftige Menschen mit Behinderungen in häuslicher Pflege
 

@@ -20,6 +20,7 @@
 |                        § 8b                        |                                 Fachliche Beratung und Begleitung zum Schutz von Kindern und Jugendlichen                                  |
 |                        § 9                         |                                    Grundrichtung der Erziehung, Gleichberechtigung von jungen Menschen                                     |
 |                        § 9a                        |                                                               Ombudsstellen                                                                |
+|                        § 9b                        |                                                                Aufarbeitung                                                                |
 |                        § 10                        |                                            Verhältnis zu anderen Leistungen und Verpflichtungen                                            |
 |                       § 10a                        |                                                                  Beratung                                                                  |
 |                       § 10b                        |                                                              Verfahrenslotse                                                               |
@@ -503,6 +504,22 @@ Bei der Ausgestaltung der Leistungen und der Erfüllung der Aufgaben sind
 # § 9a – Ombudsstellen
 
 In den Ländern wird sichergestellt, dass sich junge Menschen und ihre Familien zur Beratung in sowie Vermittlung und Klärung von Konflikten im Zusammenhang mit Aufgaben der Kinder- und Jugendhilfe nach § 2 und deren Wahrnehmung durch die öffentliche und freie Jugendhilfe an eine Ombudsstelle wenden können. Die hierzu dem Bedarf von jungen Menschen und ihren Familien entsprechend errichteten Ombudsstellen arbeiten unabhängig und sind fachlich nicht weisungsgebunden. § 17 Absatz 1 bis 2a des Ersten Buches gilt für die Beratung sowie die Vermittlung und Klärung von Konflikten durch die Ombudsstellen entsprechend. Das Nähere regelt das Landesrecht.
+
+# § 9b – Aufarbeitung
+
+(1) Die nach Landesrecht zuständigen Träger der öffentlichen Kinder- und Jugendhilfe haben Personen bei Vorliegen eines berechtigten Interesses Einsicht in die sie als Minderjährige betreffenden Erziehungshilfe-, Eingliederungshilfe-, Heim- oder Vormundschaftsakten zu gestatten und Auskunft zu den betreffenden Akten zu erteilen.
+
+(2) In Vereinbarung mit den Trägern von Einrichtungen und Diensten, die Leistungen nach diesem Buch erbringen, ist sicherzustellen, dass
+
+1. Erziehungshilfe-, Eingliederungshilfe-, Heim- und Vormundschaftsakten nach Vollendung des 30. Lebensjahres der Person nach Absatz 1 70 Jahre lang aufzubewahren sind,
+
+2. Personen bei Vorliegen eines berechtigten Interesses Einsicht gestattetet wird in die betreffenden Akten sowie
+
+3. Fachkräfte Auskunft erteilen zu den betreffenden Akten.
+
+(3) Ein berechtigtes Interesse besteht, wenn Anhaltspunkte für die Gefährdung des Wohls einer Person nach Absatz 1 im Zusammenhang mit dem Bezug einer Leistung nach diesem Buch, mit der Durchführung von Maßnahmen nach dem Gesetz für Jugendwohlfahrt oder nach der Jugendhilfeverordnung der Deutschen Demokratischen Republik bestehen. Die nach § 85 Absatz 2 zuständigen Behörden entwickeln unter Beteiligung der Unabhängigen Aufarbeitungskommission Grundsätze und Maßstäbe für die Bewertung, ob ein berechtigtes Interesse nach Satz 1 vorliegt.
+
+(4) § 25 Absatz 2 und 3 des Zehnten Buches gilt entsprechend.
 
 # § 10 – Verhältnis zu anderen Leistungen und Verpflichtungen
 
@@ -1526,6 +1543,8 @@ d) die Erfüllung des Schutzauftrags bei Kindeswohlgefährdung nach § 8a oder d
 
 (2b) Abweichend von Absatz 1 dürfen Sozialdaten übermittelt und genutzt werden, soweit dies für die Durchführung bestimmter wissenschaftlicher Vorhaben zur Erforschung möglicher politisch motivierter Adoptionsvermittlung in der DDR erforderlich ist, ohne dass es einer Anonymisierung oder Pseudonymisierung bedarf. Die personenbezogenen Daten sind zu anonymisieren, sobald dies nach dem Forschungszweck möglich ist. Vom Adoptionsverfahren betroffene Personen dürfen nicht kontaktiert werden.
 
+(2c) Abweichend von Absatz 1 dürfen Sozialdaten übermittelt und verarbeitet werden, soweit dies für die Durchführung einer bestimmten wissenschaftlichen Analyse nach § 79a Absatz 2 erforderlich ist. Personenbezogene Daten sind zu anonymisieren. Die Übermittlung und Verarbeitung erfolgt in pseudonymisierter Form, wenn anonymisierte Daten nicht gleich geeignet zur Aufgabenerfüllung sind und die Aufgabenerfüllung von erheblichem öffentlichem Interesse ist.
+
 (3) Sozialdaten dürfen beim Träger der öffentlichen Jugendhilfe zum Zwecke der Planung im Sinne des § 80 gespeichert oder genutzt werden; sie sind unverzüglich zu anonymisieren.
 
 (4) Erhält ein Träger der öffentlichen Jugendhilfe nach Maßgabe des § 4 Absatz 3 des Gesetzes zur Kooperation und Information im Kinderschutz Informationen und Daten, soll er gegenüber der meldenden Person ausschließlich mitteilen, ob sich die von ihr mitgeteilten gewichtigen Anhaltspunkte für die Gefährdung des Wohls des Kindes oder Jugendlichen bestätigt haben und ob das Jugendamt zur Abwendung der Gefährdung tätig geworden ist und noch tätig ist.
@@ -1544,7 +1563,9 @@ d) die Erfüllung des Schutzauftrags bei Kindeswohlgefährdung nach § 8a oder d
 
 5. unter den Voraussetzungen, unter denen eine der in § 203 Absatz 1 oder 4 des Strafgesetzbuchs genannten Personen dazu befugt wäre, oder
 
-6. wenn dies für die Durchführung bestimmter wissenschaftlicher Vorhaben zur Erforschung möglicher politisch motivierter Adoptionsvermittlung in der DDR erforderlich ist. Vom Adoptionsverfahren betroffene Personen dürfen nicht kontaktiert werden; § 64 Absatz 2b Satz 1 und 2 gilt entsprechend.
+6. wenn dies für die Durchführung bestimmter wissenschaftlicher Vorhaben zur Erforschung möglicher politisch motivierter Adoptionsvermittlung in der DDR erforderlich ist. Vom Adoptionsverfahren betroffene Personen dürfen nicht kontaktiert werden; § 64 Absatz 2b Satz 1 und 2 gilt entsprechend, oder
+
+7. wenn dies zur Durchführung bestimmter wissenschaftlicher Analysen nach § 79a Absatz 2 erforderlich ist; § 64 Absatz 2c Satz 2 gilt entsprechend.
 
 Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder übermitteln, zu dem er sie befugt erhalten hat.
 
@@ -1660,7 +1681,7 @@ In der Jugendhilfe ehrenamtlich tätige Personen sollen bei ihrer Tätigkeit ang
 
 (1) Die Träger der öffentlichen Jugendhilfe sollen die freiwillige Tätigkeit auf dem Gebiet der Jugendhilfe anregen; sie sollen sie fördern, wenn der jeweilige Träger
 
-1. die fachlichen Voraussetzungen für die geplante Maßnahme erfüllt und die Beachtung der Grundsätze und Maßstäbe der Qualitätsentwicklung und Qualitätssicherung nach § 79a gewährleistet,
+1. die fachlichen Voraussetzungen für die geplante Maßnahme erfüllt und die Beachtung der Grundsätze und Maßstäbe der Qualitätsentwicklung und Qualitätssicherung nach § 79a Absatz 1 gewährleistet und grundsätzlich zur Mitwirkung an Maßnahmen nach § 79a Absatz 2 bereit ist,
 
 2. die Gewähr für eine zweckentsprechende und wirtschaftliche Verwendung der Mittel bietet,
 
@@ -1710,7 +1731,7 @@ Die Finanzierung von Tageseinrichtungen regelt das Landesrecht. Dabei können al
 
 # § 77 – Vereinbarungen über Kostenübernahme und Qualitätsentwicklung bei ambulanten Leistungen
 
-(1) Werden Einrichtungen und Dienste der Träger der freien Jugendhilfe in Anspruch genommen, so sind Vereinbarungen über die Höhe der Kosten der Inanspruchnahme sowie über Inhalt, Umfang und Qualität der Leistung, über Grundsätze und Maßstäbe für die Bewertung der Qualität der Leistung und über geeignete Maßnahmen zu ihrer Gewährleistung zwischen der öffentlichen und der freien Jugendhilfe anzustreben. Zu den Grundsätzen und Maßstäben für die Bewertung der Qualität der Leistung nach Satz 1 zählen auch Qualitätsmerkmale für die inklusive Ausrichtung der Aufgabenwahrnehmung und die Berücksichtigung der spezifischen Bedürfnisse von jungen Menschen mit Behinderungen. Das Nähere regelt das Landesrecht. Die §§ 78a bis 78g bleiben unberührt.
+(1) Werden Einrichtungen und Dienste der Träger der freien Jugendhilfe in Anspruch genommen, so sind Vereinbarungen über die Höhe der Kosten der Inanspruchnahme sowie über Inhalt, Umfang und Qualität der Leistung, über Grundsätze und Maßstäbe für die Bewertung der Qualität der Leistung, über geeignete Maßnahmen zu ihrer Gewährleistung und über die Mitwirkung an Maßnahmen nach § 79a Absatz 2 zwischen der öffentlichen und der freien Jugendhilfe anzustreben. Zu den Grundsätzen und Maßstäben für die Bewertung der Qualität der Leistung nach Satz 1 zählen auch Qualitätsmerkmale für den Schutz von Kindern und Jugendlichen vor Gewalt und Ausbeutung bei der Aufgabenwahrnehmung sowie für die inklusive Ausrichtung der Aufgabenwahrnehmung und für die Berücksichtigung der spezifischen Bedürfnisse von jungen Menschen mit Behinderungen. Das Nähere regelt das Landesrecht. Die §§ 78a bis 78g bleiben unberührt.
 
 (2) Wird eine Leistung nach § 37 Absatz 1 oder § 37a erbracht, so ist der Träger der öffentlichen Jugendhilfe zur Übernahme der Kosten der Inanspruchnahme nur verpflichtet, wenn mit den Leistungserbringern Vereinbarungen über Inhalt, Umfang und Qualität der Leistung, über Grundsätze und Maßstäbe für die Bewertung der Qualität der Leistung sowie über geeignete Maßnahmen zu ihrer Gewährleistung geschlossen worden sind; § 78e gilt entsprechend.
 
@@ -1760,7 +1781,7 @@ b) Einrichtungen über Tag und Nacht sowie sonstigen Wohnformen (§ 35a Absatz 2
 
 3. Grundsätze und Maßstäbe für die Bewertung der Qualität der Leistungsangebote sowie über geeignete Maßnahmen zu ihrer Gewährleistung (Qualitätsentwicklungsvereinbarung)
 
-abgeschlossen worden sind; dazu zählen auch die Qualitätsmerkmale nach § 79a Satz 2.
+abgeschlossen worden sind; dazu zählen auch die Qualitätsmerkmale nach § 79a Absatz 1 Satz 2 und die Mitwirkung an bestimmten wissenschaftlichen Analysen nach § 79a Absatz 2.
 
 (2) Die Vereinbarungen sind mit den Trägern abzuschließen, die unter Berücksichtigung der Grundsätze der Leistungsfähigkeit, Wirtschaftlichkeit und Sparsamkeit zur Erbringung der Leistung geeignet sind. Vereinbarungen über die Erbringung von Auslandsmaßnahmen dürfen nur mit solchen Trägern abgeschlossen werden, die die Maßgaben nach § 38 Absatz 2 Nummer 2 Buchstabe a bis d erfüllen.
 
@@ -1844,7 +1865,7 @@ Von den für die Jugendhilfe bereitgestellten Mitteln haben sie einen angemessen
 
 # § 79a – Qualitätsentwicklung in der Kinder- und Jugendhilfe
 
-Um die Aufgaben der Kinder- und Jugendhilfe nach § 2 zu erfüllen, haben die Träger der öffentlichen Jugendhilfe Grundsätze und Maßstäbe für die Bewertung der Qualität sowie geeignete Maßnahmen zu ihrer Gewährleistung für
+(1) Um die Aufgaben der Kinder- und Jugendhilfe nach § 2 zu erfüllen, haben die Träger der öffentlichen Jugendhilfe Grundsätze und Maßstäbe für die Bewertung der Qualität sowie geeignete Maßnahmen zu ihrer Gewährleistung für
 
 1. die Gewährung und Erbringung von Leistungen,
 
@@ -1854,7 +1875,9 @@ Um die Aufgaben der Kinder- und Jugendhilfe nach § 2 zu erfüllen, haben die Tr
 
 4. die Zusammenarbeit mit anderen Institutionen
 
-weiterzuentwickeln, anzuwenden und regelmäßig zu überprüfen. Dazu zählen auch Qualitätsmerkmale für die inklusive Ausrichtung der Aufgabenwahrnehmung und die Berücksichtigung der spezifischen Bedürfnisse von jungen Menschen mit Behinderungen sowie die Sicherung der Rechte von Kindern und Jugendlichen in Einrichtungen und in Familienpflege und ihren Schutz vor Gewalt. Die Träger der öffentlichen Jugendhilfe orientieren sich dabei an den fachlichen Empfehlungen der nach § 85 Absatz 2 zuständigen Behörden und an bereits angewandten Grundsätzen und Maßstäben für die Bewertung der Qualität sowie Maßnahmen zu ihrer Gewährleistung.
+weiterzuentwickeln, anzuwenden und regelmäßig zu überprüfen. Dazu zählen auch Qualitätsmerkmale für den Schutz vor Gewalt und Ausbeutung von Kindern und Jugendlichen bei der Aufgabenwahrnehmung sowie für die inklusive Ausrichtung der Aufgabenwahrnehmung und für die Berücksichtigung der spezifischen Bedürfnisse von jungen Menschen mit Behinderungen sowie für die Sicherung der Rechte von Kindern und Jugendlichen in Einrichtungen und in Familienpflege. Die Träger der öffentlichen Jugendhilfe orientieren sich dabei an den fachlichen Empfehlungen der nach § 85 Absatz 2 zuständigen Behörden, insbesondere zur Entwicklung, Anwendung und Überprüfung von Konzepten zum Schutz vor Gewalt und Ausbeutung, und an bereits angewandten Grundsätzen und Maßstäben für die Bewertung der Qualität sowie Maßnahmen zu ihrer Gewährleistung.
+
+(2) Die Träger der öffentlichen Jugendhilfe sollen bestimmte wissenschaftliche Analysen der Wahrnehmung von Aufgaben nach § 2 durch geeignete Dritte veranlassen, wenn dies erforderlich ist zur Überprüfung und Weiterentwicklung von Grundsätzen und Maßstäben für die Bewertung der Qualität sowie geeigneter Maßnahmen zu ihrer Gewährleistung nach Absatz 1 für den Schutz vor Gewalt und Ausbeutung von Kindern und Jugendlichen. Zur Erfüllung dieser Aufgabe sind die betreffenden Akten bei den Trägern der öffentlichen Jugendhilfe für einen angemessenen Zeitraum aufzubewahren.
 
 # § 80 – Jugendhilfeplanung
 

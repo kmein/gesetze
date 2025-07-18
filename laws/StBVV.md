@@ -5,6 +5,8 @@
 
 Auf Grund des § 64 des Steuerberatungsgesetzes in der Fassung der Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735) wird nach Anhörung der Bundessteuerberaterkammer mit Zustimmung des Bundesrates verordnet:
 
+# Inhaltsübersicht – Inhaltsübersicht
+
 # § 1 – Anwendungsbereich
 
 (1) Die Vergütung (Gebühren und Auslagenersatz) des Steuerberaters mit Sitz im Inland für seine im Inland selbständig ausgeübte Berufstätigkeit (§ 33 des Steuerberatungsgesetzes) bemisst sich nach dieser Verordnung. Dies gilt für die Höhe der Vergütung nur, soweit nicht etwas anderes vereinbart wird.
@@ -17,25 +19,23 @@ Ist in dieser Verordnung über die Gebühren für eine Berufstätigkeit des Steu
 
 # § 3 – Auslagen
 
-(1) Mit den Gebühren werden auch die allgemeinen Geschäftskosten entgolten.
+Mit den Gebühren werden auch die allgemeinen Geschäftskosten entgolten. Soweit im Dritten Abschnitt nichts anderes bestimmt ist, kann der Steuerberater Ersatz der entstandenen Aufwendungen (§ 675 in Verbindung mit § 670 des Bürgerlichen Gesetzbuchs) verlangen.
 
-(2) Der Anspruch auf Zahlung der auf die Vergütung entfallenden Umsatzsteuer und auf Ersatz für Post- und Telekommunikationsdienstleistungen zu zahlende Entgelte, der Dokumentenpauschale und der Reisekosten bestimmt sich nach den §§ 15 bis 20.
+# § 4 – Vergütungsvereinbarung
 
-# § 4 – Vereinbarung der Vergütung
-
-(1) Aus einer Vereinbarung kann der Steuerberater eine höhere als die gesetzliche Vergütung nur fordern, wenn die Erklärung des Auftraggebers in Textform abgegeben ist. Ist das Schriftstück nicht vom Auftraggeber verfasst, muss
-
-1. das Schriftstück als Vergütungsvereinbarung oder in vergleichbarer Weise bezeichnet sein,
-
-2. das Schriftstück von anderen Vereinbarungen mit Ausnahme der Auftragserteilung deutlich abgesetzt sein und darf nicht in der Vollmacht enthalten sein.
-
-Art und Umfang des Auftrags nach Satz 2 sind zu bezeichnen. Hat der Auftraggeber freiwillig und ohne Vorbehalt geleistet, kann er das Geleistete nicht deshalb zurückfordern, weil seine Erklärung den Vorschriften der Sätze 1 bis 3 nicht entspricht.
+(1) Eine Vereinbarung über die Vergütung bedarf der Textform. Sie muss als Vergütungsvereinbarung oder in vergleichbarer Weise bezeichnet werden, von anderen Vereinbarungen mit Ausnahme der Auftragserteilung deutlich abgesetzt sein und darf nicht in der Vollmacht enthalten sein. Art und Umfang des Auftrags nach Satz 2 sind zu bezeichnen. Hat der Auftraggeber freiwillig und ohne Vorbehalt geleistet, kann er das Geleistete nicht deshalb zurückfordern, weil seine Erklärung den Vorschriften der Sätze 1 bis 3 nicht entspricht.
 
 (2) Ist eine vereinbarte Vergütung unter Berücksichtigung aller Umstände unangemessen hoch, so kann sie im Rechtsstreit auf den angemessenen Betrag bis zur Höhe der sich aus dieser Verordnung ergebenden Vergütung herabgesetzt werden.
 
-(3) In außergerichtlichen Angelegenheiten kann eine niedrigere als die gesetzliche Vergütung unter den Formerfordernissen des Absatzes 1 vereinbart werden. Sie muss in einem angemessenen Verhältnis zu der Leistung, der Verantwortung und dem Haftungsrisiko des Steuerberaters stehen.
+(3) Der Steuerberater hat den Auftraggeber in Textform darauf hinzuweisen, dass eine höhere oder niedrigere als die gesetzliche Vergütung in Textform vereinbart werden kann.
 
-(4) Der Steuerberater hat den Auftraggeber in Textform darauf hinzuweisen, dass eine höhere oder niedrigere als die gesetzliche Vergütung in Textform vereinbart werden kann.
+# § 4a – Unterschreiten der gesetzlichen Vergütung
+
+In außergerichtlichen Angelegenheiten kann eine niedrigere als die gesetzliche Vergütung vereinbart werden. Sie muss in einem angemessenen Verhältnis zu Leistung, Verantwortung und Haftungsrisiko des Steuerberaters stehen.
+
+# § 4b – Fehlerhafte Vergütungsvereinbarung
+
+Aus einer Vergütungsvereinbarung, die nicht den Anforderungen des § 4 Absatz 1 Satz 1 und 2 entspricht, kann der Steuerberater keine höhere als die gesetzliche Vergütung fordern. Die Vorschriften des bürgerlichen Rechts über die ungerechtfertigte Bereicherung bleiben unberührt.
 
 # § 5 – Mehrere Steuerberater
 
@@ -93,27 +93,11 @@ Die Zeitgebühr ist zu berechnen
 
 1. in den Fällen, in denen diese Verordnung dies vorsieht,
 
-2. wenn keine genügenden Anhaltspunkte für eine Schätzung des Gegenstandswerts vorliegen; dies gilt nicht für Tätigkeiten nach § 23 sowie für die Vertretung im außergerichtlichen Rechtsbehelfsverfahren (§ 40), im Verwaltungsvollstreckungsverfahren (§ 44) und in gerichtlichen und anderen Verfahren (§§ 45, 46).
+2. wenn keine genügenden Anhaltspunkte für eine Schätzung des Gegenstandswerts vorliegen; dies gilt nicht für Tätigkeiten nach § 23.
 
-Sie beträgt 30 bis 75 Euro je angefangene halbe Stunde.
+Sie beträgt 16,50 bis 41 Euro je angefangene viertel Stunde.
 
-# § 14 – Pauschalvergütung
-
-(1) Für einzelne oder mehrere für denselben Auftraggeber laufend auszuführende Tätigkeiten kann der Steuerberater eine Pauschalvergütung vereinbaren. Die Vereinbarung ist in Textform und für einen Zeitraum von mindestens einem Jahr zu treffen. In der Vereinbarung sind die vom Steuerberater zu übernehmenden Tätigkeiten und die Zeiträume, für die sie geleistet werden, im einzelnen aufzuführen.
-
-(2) Die Vereinbarung einer Pauschalvergütung ist ausgeschlossen für
-
-1. die Anfertigung nicht mindestens jährlich wiederkehrender Steuererklärungen;
-
-2. die Ausarbeitung von schriftlichen Gutachten (§ 22);
-
-3. die in § 23 genannten Tätigkeiten;
-
-4. die Teilnahme an Prüfungen (§ 29);
-
-5. die Beratung und Vertretung im außergerichtlichen Rechtsbehelfsverfahren (§ 40), im Verwaltungsvollstreckungsverfahren (§ 44) und in gerichtlichen und anderen Verfahren (§ 45).
-
-(3) Der Gebührenanteil der Pauschalvergütung muß in einem angemessenen Verhältnis zur Leistung des Steuerberaters stehen.
+# § 14 – (weggefallen)
 
 # § 15 – Umsatzsteuer
 
@@ -153,7 +137,7 @@ Eine Übermittlung durch den Steuerberater per Telefax steht der Herstellung ein
 
 2. bei Benutzung anderer Verkehrsmittel die tatsächlichen Aufwendungen, soweit sie angemessen sind.
 
-(3) Als Tage- und Abwesenheitsgeld erhält der Steuerberater bei einer Geschäftsreise von nicht mehr als 4 Stunden 25 Euro, von mehr als 4 bis 8 Stunden 40 Euro und von mehr als 8 Stunden 70 Euro; bei Auslandsreisen kann zu diesen Beträgen ein Zuschlag von 50 Prozent berechnet werden. Die Übernachtungskosten sind in Höhe der tatsächlichen Aufwendungen zu erstatten, soweit sie angemessen sind.
+(3) Als Tage- und Abwesenheitsgeld erhält der Steuerberater bei einer Geschäftsreise von nicht mehr als 4 Stunden 30 Euro, von mehr als 4 bis 8 Stunden 50 Euro und von mehr als 8 Stunden 80 Euro; bei Auslandsreisen kann zu diesen Beträgen ein Zuschlag von 50 Prozent berechnet werden. Die Übernachtungskosten sind in Höhe der tatsächlichen Aufwendungen zu erstatten, soweit sie angemessen sind.
 
 # § 19 – Reisen zur Ausführung mehrerer Geschäfte
 
@@ -169,13 +153,15 @@ Ein Steuerberater, der seine berufliche Niederlassung nach einem anderen Ort ver
 
 (2) Wird ein Steuerberater mit der Prüfung der Erfolgsaussicht eines Rechtsmittels beauftragt, so ist für die Vergütung das Rechtsanwaltsvergütungsgesetz sinngemäß anzuwenden. Die Gebühren bestimmen sich nach Teil 2 Abschnitt 1 des Vergütungsverzeichnisses zum Rechtsanwaltsvergütungsgesetz.
 
-# § 22 – Gutachten
+# § 22 – Gutachten und Antrag auf verbindliche Auskunft
 
-Für die Ausarbeitung eines schriftlichen Gutachtens mit eingehender Begründung erhält der Steuerberater eine Gebühr von 10 Zehnteln bis 30 Zehntel der vollen Gebühr nach Tabelle A (Anlage 1).
+(1) Für die Ausarbeitung eines schriftlichen Gutachtens mit eingehender Begründung erhält der Steuerberater eine Gebühr von 10/10 bis 30/10 der vollen Gebühr nach Tabelle A (Anlage 1). Satz 1 gilt für einen Antrag auf verbindliche Auskunft entsprechend.
+
+(2) Betreffen die Tätigkeiten nach Absatz 1 denselben Gegenstand, ist nur eine Tätigkeit maßgebend.
 
 # § 23 – Sonstige Einzeltätigkeiten
 
-Die Gebühr beträgt für  
+(1) Die Gebühr beträgt für  
   
 
 |      |                                                                                                                 |                |
@@ -195,98 +181,278 @@ Die Gebühr beträgt für
   
 einer vollen Gebühr nach Tabelle A (Anlage 1). Soweit Tätigkeiten nach den Nummern 1 bis 10 denselben Gegenstand betreffen, ist nur eine Tätigkeit maßgebend, und zwar die mit dem höchsten oberen Gebührenrahmen.
 
+(2) Für eine Mitteilung nach § 146a Absatz 4 der Abgabenordnung erhält der Steuerberater für das erste elektronische Aufzeichnungssystem einer Betriebsstätte 10 bis 30 Euro. Für jedes weitere elektronische Aufzeichnungssystem derselben Betriebsstätte erhält der Steuerberater 5 bis 20 Euro. Sofern mit der Mitteilung nach § 146a Absatz 4 der Abgabenordnung lediglich ein oder mehrere elektronische Aufzeichnungssysteme oder eine oder mehrere Betriebsstätten abgemeldet werden, erhält der Steuerberater hierfür nur eine Gebühr nach Satz 1 unabhängig davon, wie viele elektronische Aufzeichnungssysteme oder Betriebsstätten abgemeldet werden.
+
 # § 24 – Steuererklärungen
 
 (1) Der Steuerberater erhält für die Anfertigung  
   
 
-|      |                                                                                                                                                                                                                                                                                                                                                                                                            |                                      |
-|:-----|:--------------------------------|--------------------------------:|
-| 1\.  | der Einkommensteuererklärung ohne Ermittlung der einzelnen Einkünfte                                                                                                                                                                                                                                                                                                                                       |                        1/10 bis 6/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der positiven Einkünfte, jedoch mindestens 8 000 Euro;                                                                                                                                                                                                                                                                        |                                      |
-| 2\.  | der Erklärung zur gesonderten Feststellung der Einkünfte ohne Ermittlung der Einkünfte                                                                                                                                                                                                                                                                                                                     |                        1/10 bis 5/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der positiven Einkünfte, jedoch mindestens 8 000 Euro;                                                                                                                                                                                                                                                                        |                                      |
-| 3\.  | der Körperschaftsteuererklärung                                                                                                                                                                                                                                                                                                                                                                            |                        2/10 bis 8/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das Einkommen vor Berücksichtigung eines Verlustabzugs, jedoch mindestens 16 000 Euro; bei der Anfertigung einer Körperschaftsteuererklärung für eine Organgesellschaft ist das Einkommen der Organgesellschaft vor Zurechnung maßgebend; das entsprechende Einkommen ist bei der Gegenstandswertberechnung des Organträgers zu kürzen; |                                      |
-| 4\.  | (weggefallen)                                                                                                                                                                                                                                                                                                                                                                                              |                                      |
-| 5\.  | der Erklärung zur Gewerbesteuer                                                                                                                                                                                                                                                                                                                                                                            |                        1/10 bis 6/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Gewerbeertrag vor Berücksichtigung des Freibetrags und eines Gewerbeverlustes, jedoch mindestens 8 000 Euro;                                                                                                                                                                                                                        |                                      |
-| 6\.  | der Gewerbesteuerzerlegungserklärung                                                                                                                                                                                                                                                                                                                                                                       |                        1/10 bis 6/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der als Zerlegungsmaßstab erklärten Arbeitslöhne, jedoch mindestens 4 000 Euro;                                                                                                                                                                                                                                             |                                      |
-| 7\.  | der Umsatzsteuer-Voranmeldung sowie hierzu ergänzender Anträge und Meldungen                                                                                                                                                                                                                                                                                                                               |  ¹/10 bis ⁶/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der Summe aus dem Gesamtbetrag der Entgelte und der Entgelte, für die der Leistungsempfänger Steuerschuldner ist, jedoch mindestens 650 Euro;                                                                                                                                                                               |                                      |
-| 8\.  | der Umsatzsteuererklärung für das Kalenderjahr einschließlich ergänzender Anträge und Meldungen                                                                                                                                                                                                                                                                                                            |                        1/10 bis 8/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der Summe aus dem Gesamtbetrag der Entgelte und der Entgelte, für die der Leistungsempfänger Steuerschuldner ist, jedoch mindestens 8 000 Euro;                                                                                                                                                                             |                                      |
-| 9\.  | (weggefallen)                                                                                                                                                                                                                                                                                                                                                                                              |                                      |
-| 10\. | der Vermögensteuererklärung oder der Erklärung zur gesonderten Feststellung des Vermögens von Gemeinschaften                                                                                                                                                                                                                                                                                               |                       1/20 bis 18/20 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das Rohvermögen, jedoch bei natürlichen Personen mindestens 12 500 Euro und bei Körperschaften, Personenvereinigungen und Vermögensmassen mindestens 25 000 Euro;                                                                                                                                                                       |                                      |
-| 11\. | der Erklärung zur Feststellung nach dem Bewertungsgesetz oder dem Erbschaftsteuer- und Schenkungsteuergesetz, vorbehaltlich der Nummer 11a,                                                                                                                                                                                                                                                                |                                      |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der erklärte Wert, jedoch mindestens 25 000 Euro;                                                                                                                                                                                                                                                                                       | ¹/20 bis ¹⁸/20 |
-| 11a. | der Erklärung zur Feststellung oder Festsetzung für Zwecke der Grundsteuer im Rahmen des ab dem Jahr 2025 anzuwendenden Grundsteuerrechts                                                                                                                                                                                                                                                                  |                                      |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Grundsteuerwert oder, sofern dessen Feststellung nicht vorgesehen ist, der jeweilige Grundsteuermessbetrag dividiert durch die Grundsteuermesszahl nach § 15 Absatz 1 Nummer 2 Buchstabe a des Grundsteuergesetzes, jedoch jeweils mindestens 25 000 Euro;                                                                          |  ¹/20 bis ⁹/20 |
-| 12\. | der Erbschaftsteuererklärung ohne Ermittlung der Zugewinnausgleichsforderung nach § 5 des Erbschaftsteuer- und Schenkungsteuergesetzes                                                                                                                                                                                                                                                                     |                       2/10 bis 10/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Wert des Erwerbs von Todes wegen vor Abzug der Schulden und Lasten, jedoch mindestens 16 000 Euro;                                                                                                                                                                                                                                  |                                      |
-| 13\. | der Schenkungsteuererklärung                                                                                                                                                                                                                                                                                                                                                                               |                       2/10 bis 10/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Rohwert der Schenkung, jedoch mindestens 16 000 Euro;                                                                                                                                                                                                                                                                               |                                      |
-| 14\. | der Kapitalertragsteueranmeldung sowie für jede weitere Erklärung in Zusammenhang mit Kapitalerträgen                                                                                                                                                                                                                                                                                                      |  ¹/20 bis ⁶/20 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der kapitalertragsteuerpflichtigen Kapitalerträge, jedoch mindestens 4 000 Euro;                                                                                                                                                                                                                                              |                                      |
-| 15\. | der Lohnsteuer-Anmeldung                                                                                                                                                                                                                                                                                                                                                                                   |                        1/20 bis 6/20 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 20 Prozent der Arbeitslöhne einschließlich sonstiger Bezüge, jedoch mindestens 1 000 Euro;                                                                                                                                                                                                                                             |                                      |
-| 16\. | von Steuererklärungen auf dem Gebiet der Einfuhr- und Ausfuhrabgaben, und der Verbrauchsteuern, die als Einfuhrabgaben erhoben werden,                                                                                                                                                                                                                                                                     |                        1/10 bis 3/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Betrag, der sich bei Anwendung der höchsten in Betracht kommenden Abgabensätze auf die den Gegenstand der Erklärung bildenden Waren ergibt, jedoch mindestens 1 000 Euro;                                                                                                                                                           |                                      |
-| 17\. | von Anmeldungen oder Erklärungen auf dem Gebiete der Verbrauchsteuern, die nicht als Einfuhrabgaben geschuldet werden,                                                                                                                                                                                                                                                                                     |                        1/10 bis 3/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist für eine Steueranmeldung der angemeldete Betrag und für eine Steuererklärung der festgesetzte Betrag, jedoch mindestens 1 000 Euro;                                                                                                                                                                                                     |                                      |
-| 18\. | von Anträgen auf Gewährung einer Verbrauchsteuervergütung oder einer einzelgesetzlich geregelten Verbrauchsteuererstattung, sofern letztere nicht in der monatlichen Steuererklärung oder Steueranmeldung geltend zu machen ist,                                                                                                                                                                           |                        1/10 bis 3/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung oder Erstattung, jedoch mindestens 1 000 Euro;                                                                                                                                                                                                                                                                 |                                      |
-| 19\. | von Anträgen auf Gewährung einer Investitionszulage                                                                                                                                                                                                                                                                                                                                                        |                        1/10 bis 6/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Bemessungsgrundlage;                                                                                                                                                                                                                                                                                                                |                                      |
-| 20\. | von Anträgen auf Steuervergütung nach § 4a des Umsatzsteuergesetzes                                                                                                                                                                                                                                                                                                                                        |                        1/10 bis 6/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung;                                                                                                                                                                                                                                                                                                               |                                      |
-| 21\. | von Anträgen auf Vergütung der abziehbaren Vorsteuerbeträge                                                                                                                                                                                                                                                                                                                                                |                        1/10 bis 6/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung, jedoch mindestens 1 300 Euro;                                                                                                                                                                                                                                                                                 |                                      |
-| 22\. | von Anträgen auf Erstattung von Kapitalertragsteuer und Vergütung der anrechenbaren Körperschaftsteuer                                                                                                                                                                                                                                                                                                     |                        1/10 bis 6/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Erstattung, jedoch mindestens 1 000 Euro;                                                                                                                                                                                                                                                                                |                                      |
-| 23\. | von Anträgen nach Abschnitt X des Einkommensteuergesetzes 2/10 bis 10/10 einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das beantragte Jahreskindergeld;                                                                                                                                                                                                                               |                                      |
-|      |                                                                                                                                                                                                                                                                                                                                                                                                            |                                      |
-| 24\. | (weggefallen)                                                                                                                                                                                                                                                                                                                                                                                              |                                      |
-| 25\. | der Anmeldung über den Steuerabzug von Bauleistungen                                                                                                                                                                                                                                                                                                                                                       |                        1/10 bis 6/10 |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der angemeldete Steuerabzugsbetrag (§§ 48 ff. des Einkommensteuergesetzes), jedoch mindestens 1 000 Euro;                                                                                                                                                                                                                               |                                      |
-| 26\. | sonstiger Steuererklärungen                                                                                                                                                                                                                                                                                                                                                                                |                                      |
-|      | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die jeweilige Bemessungsgrundlage, jedoch mindestens 8 000 Euro.                                                                                                                                                                                                                                                                        |  ¹/10 bis ⁶/10 |
+<table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 47%" />
+<col style="width: 47%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">1.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Einkommensteuererklärung ohne Ermittlung der einzelnen Einkünfte</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 6/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der positiven Einkünfte, jedoch mindestens 8 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">2.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Erklärung zur gesonderten Feststellung der Einkünfte ohne Ermittlung der Einkünfte</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 5/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der positiven Einkünfte, jedoch mindestens 8 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">3.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Körperschaftsteuererklärung</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">2/10 bis 8/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das Einkommen vor Berücksichtigung eines Verlustabzugs, jedoch mindestens 16 000 Euro; bei der Anfertigung einer Körperschaftsteuererklärung für eine Organgesellschaft ist das Einkommen der Organgesellschaft vor Zurechnung maßgebend; das entsprechende Einkommen ist bei der Gegenstandswertberechnung des Organträgers zu kürzen;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">4.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Mindeststeuererklärung<br />
+einer vollen Gebühr nach Tabelle A (Anlage 1);<br />
+Gegenstandswert ist 1 Prozent des Mindeststeuer-Gewinns oder des Mindeststeuer-Verlusts im Sinne des § 15 des Mindeststeuergesetzes, jedoch mindestens 16 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">¹/<sub>10</sub> bis ⁸/<sub>10</sub></td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">5.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Erklärung zur Gewerbesteuer</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 6/10</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Gewerbeertrag vor Berücksichtigung des Freibetrags und eines Gewerbeverlustes, jedoch mindestens 8 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">6.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Gewerbesteuerzerlegungserklärung</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 6/10</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der als Zerlegungsmaßstab erklärten Arbeitslöhne, jedoch mindestens 4 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">7.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Umsatzsteuer-Voranmeldung sowie hierzu ergänzender Anträge und Meldungen</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">¹/10 bis ⁶/10</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der Summe aus dem Gesamtbetrag der Entgelte und der Entgelte, für die der Leistungsempfänger Steuerschuldner ist, jedoch mindestens 650 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">8.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Umsatzsteuererklärung für das Kalenderjahr einschließlich ergänzender Anträge und Meldungen</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 8/10</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der Summe aus dem Gesamtbetrag der Entgelte und der Entgelte, für die der Leistungsempfänger Steuerschuldner ist, jedoch mindestens 8 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">9.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">10.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Vermögensteuererklärung oder der Erklärung zur gesonderten Feststellung des Vermögens von Gemeinschaften</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/20 bis 18/20</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das Rohvermögen, jedoch bei natürlichen Personen mindestens 12 500 Euro und bei Körperschaften, Personenvereinigungen und Vermögensmassen mindestens 25 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">11.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Erklärung zur Feststellung nach dem Bewertungsgesetz oder dem Erbschaftsteuer- und Schenkungsteuergesetz, vorbehaltlich der Nummer 11a,</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der erklärte Wert, jedoch mindestens 25 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">¹/20 bis ¹⁸/20</td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">11a.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Erklärung zur Feststellung oder Festsetzung für Zwecke der Grundsteuer im Rahmen des ab dem Jahr 2025 anzuwendenden Grundsteuerrechts</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Grundsteuerwert oder, sofern dessen Feststellung nicht vorgesehen ist, der jeweilige Grundsteuermessbetrag dividiert durch die Grundsteuermesszahl nach § 15 Absatz 1 Nummer 2 Buchstabe a des Grundsteuergesetzes, jedoch jeweils mindestens 25 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">¹/20 bis ⁹/20</td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">12.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Erbschaftsteuererklärung ohne Ermittlung der Zugewinnausgleichsforderung nach § 5 des Erbschaftsteuer- und Schenkungsteuergesetzes</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">2/10 bis 10/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Wert des Erwerbs von Todes wegen vor Abzug der Schulden und Lasten, jedoch mindestens 16 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">13.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Schenkungsteuererklärung</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">2/10 bis 10/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Rohwert der Schenkung, jedoch mindestens 16 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">14.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Kapitalertragsteueranmeldung sowie für jede weitere Erklärung in Zusammenhang mit Kapitalerträgen</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">¹/20 bis ⁶/20</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der kapitalertragsteuerpflichtigen Kapitalerträge, jedoch mindestens 4 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">15.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Lohnsteuer-Anmeldung</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/20 bis 6/20</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 20 Prozent der Arbeitslöhne einschließlich sonstiger Bezüge, jedoch mindestens 1 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">16.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">von Steuererklärungen auf dem Gebiet der Einfuhr- und Ausfuhrabgaben, und der Verbrauchsteuern, die als Einfuhrabgaben erhoben werden,</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 3/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Betrag, der sich bei Anwendung der höchsten in Betracht kommenden Abgabensätze auf die den Gegenstand der Erklärung bildenden Waren ergibt, jedoch mindestens 1 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">17.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">von Anmeldungen oder Erklärungen auf dem Gebiete der Verbrauchsteuern, die nicht als Einfuhrabgaben geschuldet werden,</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 3/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist für eine Steueranmeldung der angemeldete Betrag und für eine Steuererklärung der festgesetzte Betrag, jedoch mindestens 1 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">18.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">von Anträgen auf Gewährung einer Verbrauchsteuervergütung oder einer einzelgesetzlich geregelten Verbrauchsteuererstattung, sofern letztere nicht in der monatlichen Steuererklärung oder Steueranmeldung geltend zu machen ist,</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 3/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung oder Erstattung, jedoch mindestens 1 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">19.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">von Anträgen auf Gewährung einer Investitionszulage</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 6/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Bemessungsgrundlage;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">20.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">von Anträgen auf Steuervergütung nach § 4a des Umsatzsteuergesetzes</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 6/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">21.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">von Anträgen auf Vergütung der abziehbaren Vorsteuerbeträge</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 6/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung, jedoch mindestens 1 300 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">22.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">von Anträgen auf Erstattung von Kapitalertragsteuer und Vergütung der anrechenbaren Körperschaftsteuer</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 6/10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Erstattung, jedoch mindestens 1 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">23.</td>
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">von Anträgen nach Abschnitt X des Einkommensteuergesetzes 2/10 bis 10/10 einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das beantragte Jahreskindergeld;</td>
+<td rowspan="2" style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">24.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left;" data-valign="top" data-charoff="50">25.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">der Anmeldung über den Steuerabzug von Bauleistungen</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1/10 bis 6/10</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der angemeldete Steuerabzugsbetrag (§§ 48 ff. des Einkommensteuergesetzes), jedoch mindestens 1 000 Euro;</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">26.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">sonstiger Steuererklärungen</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die jeweilige Bemessungsgrundlage, jedoch mindestens 8 000 Euro.</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">¹/10 bis ⁶/10</td>
+</tr>
+</tbody>
+</table>
 
-(2) Für die Ermittlung der Zugewinnausgleichsforderung nach § 5 des Erbschaftsteuer- und Schenkungsteuergesetzes erhält der Steuerberater 5 Zehntel bis 15 Zehntel einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der ermittelte Betrag, jedoch mindestens 12 500 Euro.
+(2) Entsteht im Fall des Absatzes 1 Nummer 4 zusätzlich eine Gebühr für die Anfertigung eines Mindeststeuer-Berichts derselben Unternehmensgruppe, ist die Gebühr für die Anfertigung eines Mindeststeuer-Berichts bis zur Hälfte der Gebühr für die Anfertigung der Mindeststeuererklärung auf die Gebühr für die Anfertigung der Mindeststeuererklärung anzurechnen.
 
-(3) Für einen Antrag auf Lohnsteuer-Ermäßigung (Antrag auf Eintragung von Freibeträgen) erhält der Steuerberater 1/20 bis 4/20 einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der voraussichtliche Jahresarbeitslohn; er beträgt mindestens 4 500 Euro.
+(3) Für die Ermittlung der Zugewinnausgleichsforderung nach § 5 des Erbschaftsteuer- und Schenkungsteuergesetzes erhält der Steuerberater 5 Zehntel bis 15 Zehntel einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der ermittelte Betrag, jedoch mindestens 12 500 Euro.
 
-(4) Der Steuerberater erhält die Zeitgebühr
+(4) Für einen Antrag auf Lohnsteuer-Ermäßigung (Antrag auf Eintragung von Freibeträgen) erhält der Steuerberater 1/20 bis 4/20 einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der voraussichtliche Jahresarbeitslohn; er beträgt mindestens 4 500 Euro.
 
-1. (weggefallen)
+(5) Der Steuerberater erhält die Zeitgebühr für
 
-2. für Arbeiten zur Feststellung des verrechenbaren Verlustes gemäß § 15a des Einkommensteuergesetzes;
+1. die Anfertigung einer Mitteilung nach § 138 Absatz 2 der Abgabenordnung,
 
-3. für die Anfertigung einer Meldung über die Beteiligung an ausländischen Körperschaften, Vermögensmassen und Personenvereinigungen und an ausländischen Personengesellschaften;
+2. Arbeiten zur Feststellung des verrechenbaren Verlustes nach § 15a des Einkommensteuergesetzes,
 
-4. (weggefallen)
+3. die Berechnung des Begünstigungsgewinns im Sinne des § 34a Absatz 1 Satz 1 des Einkommensteuergesetzes (Begünstigung der nicht entnommenen Gewinne),
 
-5. für sonstige Anträge und Meldungen nach dem Einkommensteuergesetz;
+4. einen sonstigen Antrag und eine sonstige Meldung nach dem Einkommensteuergesetz,
 
-6. (weggefallen)
+5. die Anfertigung eines Mindeststeuer-Berichts nach den §§ 75 und 76 des Mindeststeuergesetzes,
 
-7. (weggefallen)
+6. die Überwachung und Meldung der Lohnsumme im Sinne des § 13a Absatz 3 in Verbindung mit Absatz 7 Satz 1 des Erbschaftsteuer- und Schenkungsteuergesetzes sowie der Behaltensfrist im Sinne des § 13a Absatz 6 in Verbindung mit Absatz 7 Satz 2 des Erbschaftsteuer- und Schenkungsteuergesetzes,
 
-8. (weggefallen)
+7. eine Anzeige nach § 30 des Erbschaftsteuer- und Schenkungsteuergesetzes,
 
-9. (weggefallen)
-
-10. (weggefallen)
-
-11. (weggefallen)
-
-12. (weggefallen)
-
-13. für die Überwachung und Meldung der Lohnsumme sowie der Behaltensfrist im Sinne von § 13a Absatz 1 in Verbindung mit Absatz 6 Satz 1, Absatz 5 in Verbindung mit Absatz 6 Satz 2 des Erbschaftsteuer- und Schenkungsteuergesetzes;
-
-14. für die Berechnung des Begünstigungsgewinnes im Sinne von § 34a Absatz 1 Satz 1 des Einkommensteuergesetzes (Begünstigung der nicht entnommenen Gewinne).
+8. eine Meldung nach der Fahrzeuglieferungs-Meldepflichtverordnung.
 
 # § 25 – Ermittlung des Überschusses der Betriebseinnahmen über die Betriebsausgaben
 
@@ -364,7 +530,13 @@ Für die Hilfeleistung bei der Einrichtung einer Buchführung im Sinne der §§ 
 | (5) | Für die laufende Überwachung der Buchführung oder der steuerlichen Aufzeichnungen des Auftraggebers beträgt die Monatsgebühr | 1/10 bis 6/10 |
 |       | einer vollen Gebühr nach Tabelle C (Anlage 3).                                                                               |               |
 
-(6) Gegenstandswert ist der jeweils höchste Betrag, der sich aus dem Jahresumsatz oder aus der Summe des Aufwandes ergibt.
+(6) Gegenstandswert ist der jeweils höhere Betrag, der sich
+
+1. in den Fällen der Gewinnermittlung nach § 4 Absatz 1, auch in Verbindung mit § 5 Absatz 1, des Einkommensteuergesetzes aus der Summe des Aufwands oder aus dem Jahresumsatz ergibt, wobei Jahresumsatz die Summe der Umsatzerlöse zuzüglich sonstiger betrieblicher Erträge, sonstiger Zinsen und vergleichbarer Erträge ist,
+
+2. in den Fällen der Gewinnermittlung nach § 4 Absatz 3 des Einkommensteuergesetzes aus der Summe der Betriebseinnahmen oder der Summe der Betriebsausgaben ergibt, oder
+
+3. in den Fällen der Überschussermittlung nach § 2 Absatz 2 Nummer 2 des Einkommensteuergesetzes aus der Summe der Einnahmen oder der Summe der Werbungskosten ergibt.
 
 (7) Für die Hilfeleistung bei sonstigen Tätigkeiten im Zusammenhang mit der Buchführung oder dem Führen steuerlicher Aufzeichnungen erhält der Steuerberater die Zeitgebühr.
 
@@ -372,13 +544,13 @@ Für die Hilfeleistung bei der Einrichtung einer Buchführung im Sinne der §§ 
 
 # § 34 – Lohnbuchführung
 
-(1) Für die erstmalige Einrichtung von Lohnkonten und die Aufnahme der Stammdaten erhält der Steuerberater eine Gebühr von 5 bis 18 Euro je Arbeitnehmer.
+(1) Für die erstmalige Einrichtung von Lohnkonten und die Aufnahme der Stammdaten erhält der Steuerberater eine Gebühr von 6 bis 19 Euro je Arbeitnehmer.
 
-(2) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung erhält der Steuerberater eine Gebühr von 5 bis 28 Euro je Arbeitnehmer und Abrechnungszeitraum.
+(2) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung erhält der Steuerberater eine Gebühr von 6 bis 30 Euro je Arbeitnehmer und Abrechnungszeitraum.
 
-(3) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung nach vom Auftraggeber erstellten Buchungsunterlagen erhält der Steuerberater eine Gebühr von 2 bis 9 Euro je Arbeitnehmer und Abrechnungszeitraum.
+(3) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung nach vom Auftraggeber erstellten Buchungsunterlagen erhält der Steuerberater eine Gebühr von 2,50 bis 9,50 Euro je Arbeitnehmer und Abrechnungszeitraum.
 
-(4) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung nach vom Auftraggeber erstellten Eingaben für die Datenverarbeitung und mit beim Auftraggeber eingesetzten Datenverarbeitungsprogrammen des Steuerberaters erhält der Steuerberater neben der Vergütung für die Datenverarbeitung und für den Einsatz der Datenverarbeitungsprogramme eine Gebühr von 1 bis 4 Euro je Arbeitnehmer und Abrechnungszeitraum.
+(4) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung nach vom Auftraggeber erstellten Eingaben für die Datenverarbeitung und mit beim Auftraggeber eingesetzten Datenverarbeitungsprogrammen des Steuerberaters erhält der Steuerberater neben der Vergütung für die Datenverarbeitung und für den Einsatz der Datenverarbeitungsprogramme eine Gebühr von 1,20 bis 4,20 Euro je Arbeitnehmer und Abrechnungszeitraum.
 
 (5) Für die Hilfeleistung bei sonstigen Tätigkeiten im Zusammenhang mit dem Lohnsteuerabzug und der Lohnbuchführung erhält der Steuerberater die Zeitgebühr.
 
@@ -526,55 +698,13 @@ der tatsächlich genutzten Flächen anzusetzen.
 
 (7) Mit der Gebühr nach Absatz 2 Nr. 1, 2 und 3 ist die Gebühr für die Umsatzsteuervoranmeldungen (§ 24 Abs. 1 Nr. 7) abgegolten.
 
-# § 40 – Verfahren vor den Verwaltungsbehörden
+# § 40 – Anwendung des Rechtsanwaltsvergütungsgesetzes
 
-Auf die Vergütung des Steuerberaters für Verfahren vor den Verwaltungsbehörden sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
+Die Vorschriften des Rechtsanwaltsvergütungsgesetzes finden auf die Vergütung von Steuerberatern für die Vertretung in außergerichtlichen Rechtsbehelfsverfahren vor den Verwaltungsbehörden, in Verwaltungsvollstreckungsverfahren, in Verfahren vor den Gerichten der Finanzgerichtsbarkeit, der Sozialgerichtsbarkeit und der Verwaltungsgerichtsbarkeit, in Strafverfahren, in berufsgerichtlichen Verfahren, in Bußgeldverfahren und in Gnadensachen sinngemäße Anwendung. Dies gilt auch für die Vergütung des im Wege der Prozesskostenhilfe beigeordneten Steuerberaters.
 
-# § 41 – (weggefallen)
+# § 41 – Berechnung der Vergütung bei Änderungen dieser Verordnung
 
-\-
-
-# § 42 – (weggefallen)
-
-\-
-
-# § 43 – (weggefallen)
-
-\-
-
-# § 44 – Verwaltungsvollstreckungsverfahren
-
-Auf die Vergütung des Steuerberaters im Verwaltungsvollstreckungsverfahren sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
-
-# § 45 – Vergütung in gerichtlichen und anderen Verfahren
-
-Auf die Vergütung des Steuerberaters im Verfahren vor den Gerichten der Finanzgerichtsbarkeit, der Sozialgerichtsbarkeit und der Verwaltungsgerichtsbarkeit, im Strafverfahren, berufsgerichtlichen Verfahren, Bußgeldverfahren und in Gnadensachen sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
-
-# § 46 – Vergütung bei Prozeßkostenhilfe
-
-Für die Vergütung des im Wege der Prozeßkostenhilfe beigeordneten Steuerberaters gelten die Vorschriften des Rechtsanwaltsvergütungsgesetzes sinngemäß.
-
-# § 47 – Anwendung
-
-(1) Diese Verordnung ist erstmals anzuwenden auf
-
-1. Angelegenheiten, mit deren Bearbeitung nach dem Inkrafttreten dieser Verordnung begonnen wird,
-
-2. die Vertretung in Verfahren vor Verwaltungsbehörden, wenn das Verfahren nach Inkrafttreten dieser Verordnung beginnt.
-
-(2) Hat der Steuerberater vor der Verkündung der Verordnung mit dem Auftraggeber schriftliche Vereinbarungen getroffen, die den Vorschriften dieser Verordnung nicht entsprechen, so ist insoweit diese Verordnung spätestens zwei Jahre nach ihrem Inkrafttreten anzuwenden.
-
-# § 47a – Übergangsvorschrift für Änderungen dieser Verordnung
-
-Die Vergütung ist nach bisherigem Recht zu berechnen, wenn der Auftrag zur Erledigung der Angelegenheit vor dem Inkrafttreten einer Änderung der Verordnung erteilt worden ist. Hat der Steuerberater mit dem Auftraggeber schriftliche Vereinbarungen über auszuführende Tätigkeiten mit einer Geltungsdauer von mindestens einem Jahr getroffen oder eine Pauschalvergütung im Sinne des § 14 vereinbart und tritt während der Geltungsdauer dieser Vereinbarung eine Änderung der Verordnung in Kraft, so ist die Vergütung bis zum Ablauf des Jahres, in dem eine Änderung der Verordnung in Kraft tritt, nach bisherigem Recht zu berechnen. Die Sätze 1 und 2 gelten auch, wenn Vorschriften geändert werden, auf die diese Verordnung verweist.
-
-# § 48
-
-\-
-
-# § 49 – Inkrafttreten
-
-Diese Verordnung tritt am 1. April 1982 in Kraft.
+Die Vergütung ist nach bisherigem Recht zu berechnen, wenn der Auftrag zur Erledigung der Angelegenheit vor dem Inkrafttreten einer Änderung dieser Verordnung erteilt worden ist. Hat der Steuerberater mit dem Auftraggeber in Textform eine Vereinbarung über auszuführende Tätigkeiten mit einer Geltungsdauer von mindestens einem Jahr getroffen und tritt während der Geltungsdauer dieser Vereinbarung eine Änderung dieser Verordnung in Kraft, so ist die Vergütung abweichend von Satz 1 nur bis zum Ablauf des Jahres, in dem die Änderung der Verordnung in Kraft getreten ist, nach bisherigem Recht zu berechnen. Die Sätze 1 und 2 gelten auch, wenn Vorschriften geändert werden, auf die diese Verordnung verweist.
 
 # Schlußformel
 
@@ -582,16 +712,408 @@ Der Bundesminister der Finanzen
 
 # Anlage 1 – Tabelle A(Beratungstabelle)
 
-(Fundstelle: BGBl. I 2020, 1499 - 1500)
+(Fundstelle: BGBl. 2025 I Nr. 105, S. 5 – 6)
 
 # Anlage 2 – Tabelle B(Abschlusstabelle)
 
-(Fundstelle: BGBl. I 2020, 1501 - 1502)
+(Fundstelle: BGBl. 2025 I Nr. 105, S. 7 - 8)
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; ">
+<thead data-valign="bottom">
+<tr class="header">
+<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Gegenstandswert bis … Euro</th>
+<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Volle Gebühr (¹⁰/<sub>10</sub>) Euro</th>
+</tr>
+</thead>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">     3 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">   49</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">     3 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">   57</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">     4 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">   68</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">     4 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">   76</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">     5 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">   86</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">     6 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">   96</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">     7 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  105</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">     8 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  116</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">     9 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  121</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    10 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  127</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    12 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  134</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    15 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  151</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    17 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  166</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    20 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  178</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    22 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  191</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    25 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  201</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    37 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  215</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    50 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  263</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    62 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  303</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    75 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  338</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">    87 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  353</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   100 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  369</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   125 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  423</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   150 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  471</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   175 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  512</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   200 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  548</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   225 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  582</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   250 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  613</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   300 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  641</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   350 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  696</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   400 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  746</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   450 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  791</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   500 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  832</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   625 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  871</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   750 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">  968</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">   875 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 050</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 1 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 126</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 1 250 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 194</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 1 500 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 324</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 1 750 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 438</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 2 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 542</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 2 250 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 635</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 2 500 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 718</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 3 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 797</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 3 500 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">1 951</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 4 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 089</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 4 500 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 214</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 5 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 328</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 7 500 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2 720</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">10 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 162</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">12 500 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 520</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">15 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3 819</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">17 500 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">4 074</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">20 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">4 293</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">22 500 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">4 573</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">25 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">4 831</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">30 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">5 315</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">35 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">5 759</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">40 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">6 172</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">45 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">6 558</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">50 000 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">6 923</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">vom Mehrbetrag<br />
+bis 125 000 000 Euro<br />
+je angefangene 5 000 000 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+  273</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">vom Mehrbetrag<br />
+über 125 000 000 Euro<br />
+bis 250 000 000 Euro<br />
+je angefangene 12 500 000 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+<br />
+  477</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">vom Mehrbetrag<br />
+über 250 000 000 Euro<br />
+je angefangene 25 000 000 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+  681</td>
+</tr>
+</tbody>
+</table>
 
 # Anlage 3 – Tabelle C(Buchführungstabelle)
 
-(Fundstelle: BGBl. I 2020, 1503)
+(Fundstelle: BGBl. 2025 I Nr. 105, S. 9)
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; ">
+<thead data-valign="bottom">
+<tr class="header">
+<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Gegenstandswert bis … Euro</th>
+<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Volle Gebühr (¹⁰/<sub>10</sub>) Euro</th>
+</tr>
+</thead>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 15 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 72</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 17 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 80</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 20 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 88</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 22 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 93</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 25 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">101</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 30 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">108</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 35 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">117</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 40 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">122</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 45 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">129</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 50 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">138</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 62 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">145</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 75 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">158</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 87 500</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">174</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">100 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">188</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">125 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">209</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">150 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">230</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">200 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">275</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">250 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">317</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">300 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">359</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">350 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">404</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">400 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">441</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">450 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">475</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50">500 000</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">512</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">vom Mehrbetrag<br />
+über 500 000 Euro<br />
+je angefangene 50 000 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+ 36</td>
+</tr>
+</tbody>
+</table>
 
 # Anlage 4 – Tabelle D
 
-(Fundstelle: BGBl. I 2020, 1504 - 1507)
+(Fundstelle: BGBl. 2025 Nr. 105, S. 10 - 14)

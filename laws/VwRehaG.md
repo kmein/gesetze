@@ -19,7 +19,13 @@
 
 (1) Für eine Verwaltungsentscheidung nach § 1 Abs. 1 oder eine Maßnahme nach § 1 Abs. 5 Satz 1 oder Abs. 6, die nicht zu einer Beeinträchtigung der in § 1 Abs. 1 Satz 1 genannten Rechtsgüter geführt hat, ist auf Antrag die Rechtsstaatswidrigkeit festzustellen, soweit die Verwaltungsentscheidung oder die Maßnahme mit tragenden Grundsätzen eines Rechtsstaates schlechthin unvereinbar ist und aus Gründen der politischen Verfolgung zu einer schweren Herabwürdigung des Betroffenen im persönlichen Lebensbereich geführt hat.
 
-(2) Ist die Rechtsstaatswidrigkeit wegen einer Maßnahme, die mit dem Ziel der Zersetzung erfolgte, festgestellt worden, erhält der Betroffene auf Antrag eine einmalige Leistung in Höhe von 1 500 Euro. Der Anspruch auf die Leistung nach Satz 1 ist unpfändbar, nicht übertragbar und nicht vererbbar. Die Leistung nach Satz 1 bleibt bei Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist, als Einkommen unberücksichtigt.
+(2) Ist die Rechtsstaatswidrigkeit wegen einer der folgenden Maßnahmen festgestellt worden, so erhält der Betroffene auf Antrag eine einmalige Leistung:
+
+1. einer Maßnahme, die mit dem Ziel der Zersetzung erfolgte, oder
+
+2. einer Maßnahme, die unter § 1 Absatz 3 Satz 1 in Verbindung mit Absatz 2 fällt.
+
+Die einmalige Leistung beträgt 1 500 Euro in den Fällen des Satzes 1 Nummer 1 und 7 500 Euro in den Fällen des Satzes 1 Nummer 2. Eine Zersetzungsmaßnahme im Sinne des Satzes 1 Nummer 1 liegt auch dann vor, wenn die Maßnahme gegen eine Person außerhalb des Beitrittsgebiets gerichtet war. In den Fällen des Satzes 1 Nummer 2 ist § 2 Absatz 4 nicht anzuwenden. Der Anspruch auf die Leistung nach Satz 1 ist unpfändbar, nicht übertragbar und nicht vererbbar. Die Leistung nach Satz 1 bleibt bei Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist, als Einkommen unberücksichtigt.
 
 (3) § 1 Abs. 3 Satz 1 in Verbindung mit Abs. 2 gilt entsprechend.
 
@@ -33,7 +39,7 @@
 
 (4) Bei den Folgeansprüchen sind auf Grund desselben Sachverhalts erbrachte andere Ausgleichsleistungen zu berücksichtigen, soweit diese tatsächlich zugeflossen sind. Dies gilt insbesondere für die von der Deutschen Demokratische Republik gewährten Entschädigungen. Bei Folgeansprüchen im Sinne des § 7 Abs. 1 Satz 1 sind Entschädigungen für lebendes oder totes Inventar, das nicht wesentlicher Bestandteil eines Grundstückes oder eines Gebäudes ist, nur zu berücksichtigen, soweit das Inventar zurückübertragen oder zurückgegeben wird. In Mark der Deutschen Demokratischen Republik gezahlte Beträge sind im Verhältnis 2:1 auf Deutsche Mark umzustellen. Wurde als Entschädigung ein Ersatzgrundstück übereignet, so hat der Berechtigte das Eigentum an diesem aufzugeben oder dessen Verkehrswert zu entrichten. Befindet sich das Ersatzgrundstück nicht mehr im Eigentum des Berechtigten, so ist dessen Wert zum Zeitpunkt des Eigentumsverlustes maßgebend. Das Ersatzgrundstück betreffende Maßnahmen oder Rechtsgeschäfte des Berechtigten bleiben bei der Ermittlung des Verkehrswerts außer Betracht. Das Aneignungsrecht an dem Ersatzgrundstück oder der Anspruch auf dessen Verkehrswert sowie der Anspruch auf herauszugebende andere Ausgleichsleistungen stehen dem Entschädigungsfonds zu. Abweichend von Satz 1 ist der Folgeanspruch nach § 1a Absatz 2 Satz 1 ausgeschlossen, wenn auf Grund desselben Sachverhalts Ausgleichsleistungen gewährt wurden oder zukünftig gewährt werden.
 
-# § 3 – Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung
+# § 3 – Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung; Verordnungsermächtigung
 
 (1) Ein Betroffener, der infolge einer Maßnahme nach § 1 eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf Antrag Leistungen der Sozialen Entschädigung in entsprechender Anwendung des Vierzehnten Buches Sozialgesetzbuch. Dies gilt nicht, soweit er wegen desselben schädigenden Ereignisses bereits folgende Leistungen erhält:
 
@@ -53,7 +59,7 @@
 
 (5) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Sie ist gegeben, wenn nach dem aktuellen Stand der medizinischen Wissenschaft mehr für als gegen einen ursächlichen Zusammenhang spricht.
 
-(6) Bei psychischen Gesundheitsstörungen wird die Wahrscheinlichkeit des ursächlichen Zusammenhangs im Einzelfall vermutet, wenn diejenigen medizinischen Tatsachen vorliegen, die nach den Erfahrungen der medizinischen Wissenschaft geeignet sind, einen Ursachenzusammenhang zwischen einem nach Art und Schwere geeigneten schädigenden Ereignis und der gesundheitlichen Schädigung und der Schädigungsfolge zu begründen, und diese Vermutung nicht durch einen anderen Kausalverlauf widerlegt wird.
+(6) Beim Vorliegen bestimmter schädigender Ereignisse und bestimmter gesundheitlicher Schädigungen des Antragstellers wird die Wahrscheinlichkeit des ursächlichen Zusammenhangs vermutet. Das Bundesministerium der Justiz bestimmt durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Arbeit und Soziales sowie im Benehmen mit der oder dem Bundesbeauftragten für die Opfer der SED-Diktatur beim Deutschen Bundestag unter Beachtung des aktuellen Standes der medizinischen Wissenschaft, welche schädigenden Ereignisse und welche gesundheitlichen Schädigungen solche im Sinne des Satzes 1 sind.
 
 (7) Wenn die zur Anerkennung einer Gesundheitsstörung als Schädigungsfolge erforderliche Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache der Gesundheitsstörung in der medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Schädigungsfolge anerkannt werden. Die Zustimmung kann allgemein erteilt werden.
 

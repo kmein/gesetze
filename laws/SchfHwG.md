@@ -354,15 +354,23 @@ b) des Verwalters im Sinne des Wohnungseigentumsgesetzes im Fall von Wohnungseig
 
 c) der Wohnungseigentümer, wenn kein Verwalter bestellt ist, und, wenn abweichend, der Besitzer;
 
-2. Art, Brennstoff, Nennwärmeleistung und Alter der Anlage sowie Angaben über ihren Betrieb, Standort und ihre Zuweisung zur Abgasanlage;
+2. Angaben zur Anlage hinsichtlich:
+
+a) Art, Brennstoff, Nennwärmeleistung, Alter sowie die Angabe, ob es sich um einen Niedertemperatur-Heizkessel oder Brennwertkessel im Sinne des Gebäudeenergiegesetzes handelt,
+
+b) Betrieb, Standort und Zuweisung zur Abgasanlage,
+
+c) Angaben der Eigentümer zu Ausnahmetatbeständen nach den §§ 71 bis 71m, 72 und 73 sowie 102 des Gebäudeenergiegesetzes, auch in Verbindung mit § 69 des Gebäudeenergiegesetzes, sowie Angaben darüber, dass entsprechende Nachweise vorgelegen haben, und
+
+d) im Falle von Einzelraumfeuerungsanlagen für feste Brennstoffe, die vor dem 22. März 2010 errichtet und in Betrieb genommen wurden, Angabe der Rechtsgrundlage für die Zulässigkeit des Weiterbetriebs nach § 26 der Verordnung über kleine und mittlere Feuerungsanlagen;
 
 3. die nach den Rechtsverordnungen nach § 1 Abs. 1 Satz 2 und 3 und die nach der Verordnung über kleine und mittlere Feuerungsanlagen vorgeschriebenen und nach § 14a festgesetzten Arbeiten und das Datum der Ausführung;
 
-4. das Datum und das Ergebnis der letzten beiden Feuerstättenschauen;
+4. das Datum und das Ergebnis der letzten beiden Feuerstättenschauen sowie der Name der durchführenden Person;
 
-5. in dem Formblatt nach § 4 vermerkte Mängel oder selbst festgestellte Mängel und das Datum des Abstellens der Mängel;
+5. in dem Formblatt nach § 4 vermerkte Mängel oder selbst festgestellte Mängel sowie Beanstandungen nach § 97 Absatz 1, 2 und 4 des Gebäudeenergiegesetzes und das Datum des Abstellens der Mängel oder der Beanstandungen;
 
-6. das Datum und das Ergebnis einer Bauabnahme nach Landesrecht;
+6. das Datum und das Ergebnis einer Bescheinigung nach § 16 Absatz 1 sowie Name und Stellung der feststellenden Person;
 
 7. der Anlass, das Datum und das Ergebnis einer Überprüfung nach § 15 Satz 1;
 
