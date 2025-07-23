@@ -547,6 +547,7 @@
 - [BBFestV 2022](laws/BBFestV_2022.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2022
 - [BBFestV 2023](laws/BBFestV_2023.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2023
 - [BBFestV 2024](laws/BBFestV_2024.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2024
+- [BBFestV 2025](laws/BBFestV_2025.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2025
 - [BBFVerfV](laws/BBFVerfV.md) Verordnung über das Verfahren zur Feststellung und Bescheinigung individueller beruflicher Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs nach dem Berufsbildungsgesetz und der Handwerksordnung
 - [BBG](laws/BBG.md) Bundesbeamtengesetz
 - [BBhV](laws/BBhV.md) Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen
@@ -2028,7 +2029,7 @@
 - [EVerbrStBV](laws/EVerbrStBV.md) Einfuhr-Verbrauchsteuerbefreiungsverordnung
 - [EVerkSiV](laws/EVerkSiV.md) Verordnung zur Sicherstellung des Eisenbahnverkehrs
 - [EVO](laws/EVO.md) Eisenbahnverkehrs-Verordnung
-- [EVPG](laws/EVPG.md) Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte
+- [EVPG](laws/EVPG.md) Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte*)
 - [EVPGV](laws/EVPGV.md) Verordnung zur Durchführung des Gesetzes über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte
 - [EVV](laws/EVV.md) Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen bei den Besonderen Leistungen im Einzelfall im Sozialen Entschädigungsrecht
 - [EVZStiftG](laws/EVZStiftG.md) Gesetz zur Errichtung einer Stiftung "Erinnerung, Verantwortung und Zukunft"
@@ -3365,7 +3366,7 @@
 - [KVWG](laws/KVWG.md) Gesetz zur Weiterentwicklung des Kassenarztrechts
 - [KWaffVtr](laws/KWaffVtr.md) Vertrag über die Nichtverbreitung von Kernwaffen
 - [KWG](laws/KWG.md) Gesetz über das Kreditwesen
-- [KWGWpIGVermV](laws/KWGWpIGVermV.md) Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes und nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes
+- [KWGWpIGVermV](laws/KWGWpIGVermV.md) Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes und nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes*)
 - [KWKAusV](laws/KWKAusV.md) Verordnung zur Einführung von Ausschreibungen zur Ermittlung der Höhe der Zuschlagszahlungen für KWK-Anlagen und für innovative KWK-Systeme
 - [KWKG 2025](laws/KWKG_2025.md) Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung
 - [KWMV](laws/KWMV.md) Verordnung über Meldepflichten für bestimmte Kriegswaffen
@@ -3517,8 +3518,6 @@
 - [LuftVODV 148](laws/LuftVODV_148.md) Hundertachtundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Hof)
 - [LuftVODV 154](laws/LuftVODV_154.md) Hundertvierundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Westerland/Sylt)
 - [LuftVODV 155](laws/LuftVODV_155.md) Hundertfünfundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Leipzig-Altenburg Airport)
-- [LuftVODV 156](laws/LuftVODV_156.md) Hundertsechsundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Schwerin-Parchim)
-- [LuftVODV 157](laws/LuftVODV_157.md) Hundertsiebenundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Schwerin-Parchim)
 - [LuftVODV 158](laws/LuftVODV_158.md) Hundertachtundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Friedrichshafen)
 - [LuftVODV 159](laws/LuftVODV_159.md) Hundertneunundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Saarbrücken)
 - [LuftVODV 160 2025](laws/LuftVODV_160_2025.md) Hundertsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Augsburg)
@@ -6590,7 +6589,7 @@
 - [ZHG§19ZG](laws/ZHG§19ZG.md) Gesetz über die Zulassung von nach § 19 des Zahnheilkundegesetzes berechtigten Personen zur Behandlung der Versicherten in der gesetzlichen Krankenversicherung
 - [ZHG§8DV](laws/ZHG§8DV.md) Verordnung zur Durchführung des § 8 Abs. 1 des Gesetzes über die Ausübung der Zahnheilkunde
 - [ZIdPrüfV](laws/ZIdPrüfV.md) Verordnung über die Bestimmung von Dokumenten, die zur Überprüfung der Identität einer nach dem Geldwäschegesetz zu identifizierenden Person zum Zwecke des Abschlusses eines Zahlungskontovertrags zugelassen werden
-- [ZIEV](laws/ZIEV.md) Verordnung über die angemessene Eigenmittelausstattung und die erforderliche Absicherung für den Haftungsfall von Instituten nach dem Zahlungsdiensteaufsichtsgesetz
+- [ZIEV](laws/ZIEV.md) Verordnung über die angemessene Eigenmittelausstattung und die erforderliche Absicherung für den Haftungsfall von Instituten nach dem Zahlungsdiensteaufsichtsgesetz*)
 - [ZimMstrV](laws/ZimMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Zimmerer-Handwerk
 - [ZinnGießHwV](laws/ZinnGießHwV.md) Verordnung über das Berufsbild des Zinngießer-Handwerks
 - [ZinnRVorRV](laws/ZinnRVorRV.md) Verordnung über die Gewährung von Vorrechten und Immunitäten an den Internationalen Zinnrat nach dem Fünften Internationalen Zinn-Übereinkommen vom 21. Juni 1975

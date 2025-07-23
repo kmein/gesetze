@@ -224,11 +224,9 @@ Abweichend von § 7 Absatz 2 kann die verpflichtende Kennzeichnung nach § 3 Abs
 
 (3) Im Fall des Absatzes 2 muss bei den Lebensmitteln oder in einem Aushang in der Verkaufsstätte an gut sichtbarer Stelle
 
-1. eine allgemeine schriftliche Darstellung der Haltungsformen ausgehängt werden oder
+1. eine allgemeine schriftliche oder elektronische Darstellung der Haltungsformen bereitgestellt werden oder
 
-2. deutlich und gut lesbar darauf hingewiesen werden, dass eine allgemeine schriftliche Darstellung der Haltungsformen dem Endverbraucher auf Anforderung zur Ansicht zur Verfügung gestellt wird.
-
-(+++ § 9: Zur Geltung vgl. § 21 Abs. 2 +++)
+2. deutlich und gut lesbar in deutscher Sprache darauf hingewiesen werden, dass eine allgemeine schriftliche oder elektronische Darstellung der Haltungsformen dem Endverbraucher auf Anforderung zur Ansicht zur Verfügung gestellt wird.
 
 # § 10 – Kennzeichnung im Fernabsatz
 
@@ -244,9 +242,7 @@ b) sie vollständig und übersichtlich ist,
 
 c) dem Endverbraucher keine zusätzlichen Kosten auferlegt werden und
 
-d) der Endverbraucher ausreichend Zeit hat, sämtliche in der Kennzeichnung enthaltenen Informationen zur Kenntnis zu nehmen, um eine Kaufentscheidung treffen zu können.
-
-(+++ § 10: Zur Geltung vgl. § 21 Abs. 2 +++)
+d) der Endverbraucher ausreichend Zeit hat, sämtliche in der Kennzeichnung enthaltenen Informationen zur Kenntnis nehmen zu können, um eine Kaufentscheidung treffen zu können.
 
 # § 11 – Sonderfälle der Kennzeichnung
 
@@ -322,7 +318,7 @@ b) die Anzahl der Tiere, die in der Haltungseinrichtung gehalten werden sollen, 
 
 c) die Haltungsform nach § 4 Absatz 1, in der die Tiere in der Haltungseinrichtung gehalten werden sollen.
 
-Zusätzlich zu den Angaben nach Satz 1 hat der Inhaber des tierhaltenden Betriebs nachzuweisen, dass die Haltungseinrichtung den Anforderungen an die mitgeteilte Haltungsform nach § 4 Absatz 2 oder Absatz 3 entspricht. Geeignete Nachweise sind insbesondere amtliche Bescheinigungen, Bescheinigungen von Kontrollstellen, die nachweislich im Bereich der landwirtschaftlichen Haltung und Produktion von Tieren nach der DIN EN ISO/IEC 17065, Ausgabe Januar 2013<span id="FnR.F827016_03"></span><a href="#F827016_03" class="FnR">1</a></sup> , akkreditiert sind und, bei einer ökologisch/biologischen Haltung, das nach Artikel 35 Absatz 1 der Verordnung (EU) 2018/848 ausgestellte Zertifikat.
+Zusätzlich zu den Angaben nach Satz 1 hat der Inhaber des tierhaltenden Betriebs nachzuweisen, dass die Haltungseinrichtung den Anforderungen an die mitgeteilte Haltungsform nach § 4 Absatz 2 oder Absatz 3 entspricht. Geeignete Nachweise sind insbesondere amtliche Bescheinigungen, Bescheinigungen von Kontrollstellen, die nachweislich im Bereich der landwirtschaftlichen Haltung und Produktion von Tieren nach der DIN EN ISO/IEC 17065, Ausgabe Januar 2013<span id="FnR.F833738_02"></span><a href="#F833738_02" class="FnR">1</a></sup> , akkreditiert sind und, bei einer ökologisch/biologischen Haltung, das nach Artikel 35 Absatz 1 der Verordnung (EU) 2018/848 ausgestellte Zertifikat.
 
 (3) Abweichend von Absatz 2 Satz 1 bedarf es der Übermittlung von Angaben gemäß Absatz 2 Satz 1 Nummer 4 und 5 nicht, sofern diese der zuständigen oder einer anderen Behörde aufgrund dieses Gesetzes oder anderer Rechtsvorschriften, insbesondere tiergesundheitsrechtlicher Vorschriften über den Verkehr mit Vieh, bereits mitgeteilt worden sind. Der Inhaber des tierhaltenden Betriebs hat der nach Absatz 1 zuständigen Behörde auf Verlangen mitzuteilen, welche Daten welcher Behörde mitgeteilt worden sind. Im Fall des Satzes 1 hat die entsprechende Behörde der nach Absatz 1 zuständigen Behörde die verlangten Angaben auf Anforderung zu übermitteln.
 
@@ -358,41 +354,27 @@ Zusätzlich zu den Angaben nach Satz 1 hat der Inhaber des tierhaltenden Betrieb
 
 4. fortlaufenden Identifizierungsnummer für die Haltungseinrichtung.
 
-# § 15 – Festlegung einer befristet gültigen Kennnummer für Haltungseinrichtungen inländischer Betriebe, die nicht die Anforderungen nach § 22 Absatz 3a Satz 1 Nummer 2 und Satz 2 der Tierschutz-Nutztierhaltungsverordnung erfüllen
-
-(1) Abweichend von § 14 Absatz 1 hat die zuständige Behörde nach Maßgabe des § 14 Absatz 5 eine bis zum … \[einsetzen: Datum des ersten Tages des 24. auf das Inkrafttreten der 8. Änderungsverordnung TierSchNutztV folgenden Kalendermonats\]<span id="FnR.F827016_04"></span><a href="#F827016_04" class="FnR">2</a></sup> befristet gültige Kennnummer mit der angegebenen Haltungsform festzulegen, sofern
-
-1. eine nach § 12 Absatz 1 mitgeteilte Haltungseinrichtung nicht die Anforderungen nach § 4 Absatz 2 in Verbindung mit Anlage 4 in Bezug auf die Einhaltung der Vorgaben nach § 22 Absatz 3a Satz 1 Nummer 2 und Satz 2 der Tierschutz-Nutztierhaltungsverordnung in der Fassung der Bekanntmachung vom 22. August 2006 (BGBl. I S. 2043), die zuletzt durch Artikel \[…\] der Verordnung vom \[…\] (BGBl. I S. …)<span id="FnR.F827016_05"></span><a href="#F827016_05" class="FnR">3</a></sup> geändert worden ist, \[8. Änderungsverordnung\] für die Haltungsform Frischluftstall erfüllt und
-
-2. die sonstigen Anforderungen an die Haltungsform nach § 4 Absatz 2 erfüllt werden.
-
-(2) Die befristet gültige Kennnummer nach Absatz 1 ist nach Maßgabe des § 14 Absatz 5 festzulegen. Die zuständige Behörde hat der Kennnummer darüber hinaus eine weitere Kennung anzufügen, die aus dem Monat und dem Jahr des Ablaufs der Gültigkeit in numerischer zweistelliger Form zu bestehen hat. Durch die Kennnummer muss die Haltungseinrichtung eindeutig identifizierbar sein. Die zuständige Behörde soll dem Inhaber des tierhaltenden Betriebs die Kennnummer innerhalb von zwei Monaten nach seiner Mitteilung nach § 12 Absatz 1 mitteilen.
-
-(3) Mindestens zwei Monate vor Ablauf der Befristung hat der Inhaber des tierhaltenden Betriebs der zuständigen Behörde mitzuteilen, in welcher Haltungsform die Tiere in der Haltungseinrichtung nach Ablauf der Frist nach Absatz 1 voraussichtlich gehalten werden. Der Mitteilung sind Angaben, Erklärungen und Nachweise beizufügen, die belegen, dass die Haltungseinrichtung zu diesem Zeitpunkt die einschlägigen Anforderungen an diese Haltungsform nach § 4 Absatz 2 oder Absatz 3 voraussichtlich erfüllen wird. Die zuständige Behörde hat vor Ablauf der Befristung eine entsprechende Kennnummer nach § 14 Absatz 1 oder Absatz 2 festzulegen und dem Inhaber des tierhaltenden Betriebs mitzuteilen.
+# § 15 – (weggefallen)
 
 # § 16 – Register für inländische Betriebe und Haltungseinrichtungen
 
-(1) Die nach § 12 Absatz 1 zuständige Behörde hat zum Zwecke der Überwachung der Einhaltung der Vorschriften dieses Gesetzes ein elektronisches Register mit den Namen und Adressen der tierhaltenden Betriebe sowie den nach den §§ 14 und 15 festgelegten Kennnummern zu führen. Bei Festlegung einer neuen Kennnummer nach § 14 Absatz 3 ist bis zur Löschung der alten Kennnummer nach Maßgabe des § 18 im Register kenntlich zu machen, welchem Zeitraum die jeweilige Kennnummer der Haltungseinrichtung zugewiesen ist.
+(1) Die nach § 12 Absatz 1 zuständige Behörde hat zum Zwecke der Überwachung der Einhaltung der Vorschriften dieses Gesetzes ein elektronisches Register mit den Namen und Adressen der tierhaltenden Betriebe sowie den nach § 14 festgelegten Kennnummern zu führen. Bei Festlegung einer neuen Kennnummer nach § 14 Absatz 3 ist bis zur Löschung der alten Kennnummer nach Maßgabe des § 18 im Register kenntlich zu machen, welchem Zeitraum die jeweilige Kennnummer der Haltungseinrichtung zugewiesen ist.
 
-(2) Abweichend von Absatz 1 können die Länder ein gemeinsames elektronisches Register der Betriebe mit den nach den §§ 14 und 15 festgelegten Kennnummern bei einer zentralen registerführenden Behörde einrichten. Die nach § 12 Absatz 1 zuständigen Behörden haben der registerführenden Behörde unverzüglich alle für die Registerführung nach Satz 1 notwendigen Daten zu übermitteln. Absatz 1 Satz 2 gilt entsprechend. Die Länder können zum Betrieb dieses Registers eine gemeinsame Stelle einrichten.
+(2) Abweichend von Absatz 1 können die Länder ein gemeinsames elektronisches Register der Betriebe mit den nach § 14 festgelegten Kennnummern bei einer zentralen registerführenden Behörde einrichten. Die nach § 12 Absatz 1 zuständigen Behörden haben der registerführenden Behörde unverzüglich alle für die Registerführung nach Satz 1 notwendigen Daten zu übermitteln. Absatz 1 Satz 2 gilt entsprechend. Die Länder können zum Betrieb dieses Registers eine gemeinsame Stelle einrichten.
 
-(3) Die registerführende Behörde nach Absatz 1 oder Absatz 2 hat im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik, insbesondere unter Beachtung der Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679, nähere Anforderungen an das Datenformat sowie die Anforderungen an die Sicherheit gegen unbefugte Zugriffe auf das Register und bei der Datenübertragung festzulegen. Die Anforderungen an das Datenformat und die Anforderungen an die Sicherheit gegen unbefugte Zugriffe auf das Register haben dem Stand der Technik zu entsprechen und sind von der zuständigen Behörde im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fortlaufend anzupassen.
+(3) Die registerführende Behörde nach Absatz 1 oder Absatz 2 hat im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik, insbesondere unter Beachtung der Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679, nähere Anforderungen an das Datenformat sowie die Anforderungen an die Sicherheit gegen unbefugte Zugriffe auf das Register und bei der Datenübertragung festzulegen. Die Anforderungen an das Datenformat und die Anforderungen an die Sicherheit gegen unbefugte Zugriffe auf das Register haben dem Stand der Technik zu entsprechen und sind von der zuständigen Behörde im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fortlaufend anzupassen.
 
 # § 17 – Verarbeitung von Daten inländischer Betriebe
 
-(1) Die nach § 12 Absatz 1 zuständige Behörde ist befugt, die Daten nach § 12 Absatz 2, § 13 Absatz 1, den §§ 14, 15 und 19 Absatz 1 sowie die Nachweise nach § 12 Absatz 2 Satz 2, § 14 Absatz 4 und § 15 Absatz 3 Satz 2 zu den in § 12 Absatz 1, § 14 Absatz 1 bis 3, § 15 Absatz 1 und 3 und § 19 Absatz 2 genannten Zwecken zu erheben, zu speichern und zu verwenden.
+(1) Die nach § 12 Absatz 1 zuständige Behörde ist befugt, die Daten nach § 12 Absatz 2, § 13 Absatz 1, den §§ 14 und 19 Absatz 1 sowie die Nachweise nach § 12 Absatz 2 Satz 2, § 14 Absatz 4 zu den in § 12 Absatz 1, § 14 Absatz 1 bis 3 und § 19 Absatz 2 genannten Zwecken zu erheben, zu speichern und zu verwenden.
 
 (2) Die nach § 16 Absatz 1 oder Absatz 2 registerführende Behörde ist befugt, die Daten nach § 16 Absatz 1 zu dem in § 16 Absatz 1 genannten Zweck zu erheben, zu speichern und zu verwenden.
 
 (3) Die in den Absätzen 1 und 2 genannten Daten und Nachweise dürfen von den zuständigen Behörden außerdem zum Zwecke der Überwachung der Einhaltung der Vorschriften dieses Gesetzes verarbeitet werden.
 
-(+++ § 17: Zur Anwendung vgl. § 36 Abs. 2 +++)
-
 # § 18 – Löschung von Daten inländischer Betriebe
 
-Vorbehaltlich anderer gesetzlicher Regelungen sind personenbezogene und nicht personenbezogene Daten nach § 12 Absatz 2, § 13 Absatz 1, den §§ 14, 15, 16 Absatz 1 und § 19 Absatz 1 sowie die Nachweise nach § 12 Absatz 2 Satz 2, § 14 Absatz 4 und § 15 Absatz 3 Satz 2 ein Jahr, nachdem der Grund für ihre Erhebung weggefallen ist, von der jeweils zuständigen Behörde zu löschen. Sofern die Speicherung elektronisch erfolgt ist, hat die Löschung automatisiert zu erfolgen.
-
-(+++ § 18: Zur Anwendung vgl. § 36 Abs. 2 +++)
+Vorbehaltlich anderer gesetzlicher Regelungen sind personenbezogene und nicht personenbezogene Daten nach § 12 Absatz 2, § 13 Absatz 1, den §§ 14, 16 Absatz 1 und § 19 Absatz 1 sowie die Nachweise nach § 12 Absatz 2 Satz 2 und § 14 Absatz 4 ein Jahr, nachdem der Grund für ihre Erhebung weggefallen ist, von der jeweils zuständigen Behörde zu löschen. Sofern die Speicherung elektronisch erfolgt ist, hat die Löschung automatisiert zu erfolgen.
 
 # § 19 – Aufzeichnungspflichten inländischer Betriebe
 
@@ -424,11 +406,11 @@ b) der Haltungsform und
 
 # § 20 – Anforderungen an die Rückverfolgbarkeit für inländische Lebensmittelunternehmer
 
-(1) Lebensmittelunternehmer auf allen Produktions- und Vertriebsstufen von Lebensmitteln nach § 3 Absatz 1 haben vor der ersten Weitergabe von Tieren oder vor dem ersten Inverkehrbringen von Lebensmitteln sicherzustellen, dass
+(1) Lebensmittelunternehmer auf allen Produktions- und Vertriebsstufen von Lebensmitteln nach § 3 Absatz 1 haben vor der Weitergabe von Tieren oder vor dem Inverkehrbringen von Lebensmitteln sicherzustellen, dass
 
 1. die Verbindung zwischen dem Lebensmittel und der Information über die Haltungsform des Tieres oder der Gruppe von Tieren, von dem oder der das Lebensmittel gewonnen wurde, gewährleistet wird und
 
-2. die für die Kennzeichnung nach § 3 Absatz 1 notwendigen Informationen zusammen mit dem Tier oder dem Lebensmittel an die Lebensmittelunternehmer in den nachfolgenden Produktions- und Vertriebsstufen übermittelt wird.
+2. die für die Kennzeichnung nach § 3 Absatz 1 notwendigen Informationen zusammen mit dem Tier oder dem Lebensmittel an die Lebensmittelunternehmer in den nachfolgenden Produktions- und Vertriebsstufen übermittelt werden.
 
 (2) Jeder Lebensmittelunternehmer hat in seiner Produktions- oder Vertriebsstufe die Verantwortung nach Absatz 1 zu tragen.
 
@@ -466,7 +448,7 @@ mit einer Kennzeichnung der Haltungsform der Tiere, von denen das Lebensmittel g
 
 3. die Zuordnung zwischen der Haltungsform, mit der das Lebensmittel gekennzeichnet wird, und der Information über die Haltungsform des Tieres oder der Gruppe von Tieren, von dem oder der das Lebensmittel gewonnen wird, hergestellt wird und
 
-4. die Betriebsinhaber der Haltungseinrichtungen, in denen die Tiere gehalten wurden, von denen die Lebensmittel nach Absatz 1 Satz 1 gewonnen wurden,
+4. der Inhaber des tierhaltenden Betriebs der Haltungseinrichtungen, in denen die Tiere gehalten wurden, von denen die Lebensmittel nach Absatz 1 Satz 1 gewonnen wurden,
 
 a) Aufzeichnungen entsprechend § 19 anfertigen, wenn die Haltungseinrichtung im Inland liegt oder
 
@@ -500,7 +482,7 @@ b) die Angaben nach § 25 Absatz 2, wenn keine Kennnummer vorliegt.
 
 Zusätzlich zu den Angaben nach Satz 1 hat der Lebensmittelunternehmer zu versichern, dass die Anforderungen des § 21 Absatz 3 erfüllt werden.
 
-(4) Der Lebensmittelunternehmer hat die Angaben nach Absatz 3 Satz 1 Nummer 4 Buchstabe b, insbesondere hinsichtlich der Einhaltung der Anforderungen der Haltungsform in den einzelnen Haltungseinrichtungen nach § 4 Absatz 2 oder Absatz 3, gegenüber der zuständigen Behörde nachzuweisen. Geeignete Nachweise sind insbesondere amtliche Bescheinigungen, die Teilnahme an einem staatlichen Tierwohllabel, Bescheinigungen von Kontrollstellen, die nachweislich im Bereich der landwirtschaftlichen Haltung und Produktion von Tieren nach der DIN EN ISO/IEC 17065, Ausgabe Januar 2013<span id="FnR.F827016_06"></span><a href="#F827016_06" class="FnR">4</a></sup> , akkreditiert sind, und, bei einer ökologischen/biologischen Haltung, das nach Artikel 35 Absatz 1 der Verordnung (EU) 2018/848 ausgestellte Zertifikat. Zusätzlich ist die Einhaltung der Anforderungen des § 21 Absatz 3 nachzuweisen. Die Nachweise sind dem Antrag nach Absatz 1 beizufügen.
+(4) Der Lebensmittelunternehmer hat die Angaben nach Absatz 3 Satz 1 Nummer 4 Buchstabe b, insbesondere hinsichtlich der Einhaltung der Anforderungen der Haltungsform in den einzelnen Haltungseinrichtungen nach § 4 Absatz 2 oder Absatz 3, gegenüber der zuständigen Behörde nachzuweisen. Geeignete Nachweise sind insbesondere amtliche Bescheinigungen, die Teilnahme an einem staatlichen Tierwohllabel, Bescheinigungen von Kontrollstellen, die nachweislich im Bereich der landwirtschaftlichen Haltung und Produktion von Tieren nach der DIN EN ISO/IEC 17065, Ausgabe Januar 2013<span id="FnR.F833738_04"></span><a href="#F833738_04" class="FnR">2</a></sup> , akkreditiert sind, und, bei einer ökologischen/biologischen Haltung, das nach Artikel 35 Absatz 1 der Verordnung (EU) 2018/848 ausgestellte Zertifikat. Zusätzlich ist die Einhaltung der Anforderungen des § 21 Absatz 3 nachzuweisen. Die Nachweise sind dem Antrag nach Absatz 1 beizufügen.
 
 (5) Die zuständige Behörde kann weitere Angaben und Nachweise verlangen, wenn diese zur Entscheidung über den Antrag erforderlich sind.
 
@@ -513,6 +495,8 @@ a) ausschließlich von Tieren aus Haltungseinrichtungen eines Betriebes gewonnen
 b) durch den Inhaber des tierhaltenden Betriebs der Haltungseinrichtungen nach Buchstabe a im Wege der Direktvermarktung an den Endverbraucher abgegeben werden und
 
 2. der Inhaber des tierhaltenden Betriebs die Abgabe der Lebensmittel nach Nummer 1 vorab der Bundesanstalt für Landwirtschaft und Ernährung mitgeteilt hat.
+
+(7) Die zuständige Behörde kann für Anträge nach § 21 Absatz 1 Satz 1 Muster veröffentlichen, Vordrucke zur Verfügung stellen oder zur elektronischen Übermittlung der Daten ein zu verwendendes Format vorgeben. Sofern die zuständige Behörde Muster veröffentlicht, Vordrucke zur Verfügung stellt oder ein bestimmtes Format vorgibt, sind diese zu verwenden.
 
 # § 23 – Erteilung und Verlängerung der Genehmigung zur Verwendung der Kennzeichnung
 
@@ -566,11 +550,11 @@ b) die Anzahl der Tiere, die in der Haltungseinrichtung gehalten werden, und
 
 c) die Haltungsform nach § 4 Absatz 1, in der die Tiere in der Haltungseinrichtung gehalten werden sollen.
 
-Der Inhaber des tierhaltenden Betriebs hat zu erklären, dass die Haltungseinrichtung den Anforderungen an die mitgeteilte Haltungsform nach § 4 Absatz 2 oder Absatz 3 entspricht. Für den Fall, dass die nach Absatz 1 mitgeteilte Haltungseinrichtung nicht die Anforderungen der angegebenen Haltungsform oder vergleichbare Anforderungen erfüllt, kann der Betriebsinhaber beantragen, dass für die Haltungseinrichtung eine Kennnummer mit der Kennung einer anderen Haltungsform festgelegt wird, wenn die Haltungseinrichtung den Anforderungen an diese Haltungsform nach § 4 Absatz 2 oder Absatz 3 entspricht.
+Der Inhaber des tierhaltenden Betriebs hat zu erklären, dass die Haltungseinrichtung den Anforderungen an die mitgeteilte Haltungsform nach § 4 Absatz 2 oder Absatz 3 entspricht.
 
 (3) Für den Fall, dass die nach Absatz 1 mitgeteilte Haltungseinrichtung nicht die Anforderungen der angegebenen Haltungsform oder vergleichbare Anforderungen erfüllt, kann der Inhaber des tierhaltenden Betriebs beantragen, dass für die Haltungseinrichtung eine Kennnummer mit der Kennung einer anderen Haltungsform festgelegt wird, wenn die Haltungseinrichtung den Anforderungen an diese Haltungsform nach § 4 Absatz 2 oder Absatz 3 entspricht.
 
-(4) Der Inhaber des tierhaltenden Betriebs hat die Einhaltung der Anforderungen nach § 4 Absatz 2 oder Absatz 3 an die Haltungsform in der einzelnen Haltungseinrichtung gegenüber der Bundesanstalt für Landwirtschaft und Ernährung nachzuweisen. Geeignete Nachweise sind insbesondere amtliche Bescheinigungen, die Teilnahme an einem staatlichen Tierwohllabel, Bescheinigungen von Kontrollstellen, die nachweislich im Bereich der landwirtschaftlichen Haltung und Produktion von Tieren nach der DIN EN ISO/IEC 17065, Ausgabe Januar 2013<span id="FnR.F827016_07"></span><a href="#F827016_07" class="FnR">5</a></sup> , akkreditiert sind, und, bei einer ökologisch/biologischen Haltung, das nach Artikel 35 Absatz 1 der Verordnung (EU) 2018/848 ausgestellte Zertifikat. Die Nachweise sind der Mitteilung beizufügen.
+(4) Der Inhaber des tierhaltenden Betriebs hat die Einhaltung der Anforderungen nach § 4 Absatz 2 oder Absatz 3 an die Haltungsform in der einzelnen Haltungseinrichtung gegenüber der Bundesanstalt für Landwirtschaft und Ernährung nachzuweisen. Geeignete Nachweise sind insbesondere amtliche Bescheinigungen, die Teilnahme an einem staatlichen Tierwohllabel, Bescheinigungen von Kontrollstellen, die nachweislich im Bereich der landwirtschaftlichen Haltung und Produktion von Tieren nach der DIN EN ISO/IEC 17065, Ausgabe Januar 2013<span id="FnR.F833738_06"></span><a href="#F833738_06" class="FnR">3</a></sup> , akkreditiert sind, und, bei einer ökologisch/biologischen Haltung, das nach Artikel 35 Absatz 1 der Verordnung (EU) 2018/848 ausgestellte Zertifikat. Die Nachweise sind der Mitteilung beizufügen.
 
 (5) Die Bundesanstalt für Landwirtschaft und Ernährung kann für Mitteilungen nach Absatz 1 Muster veröffentlichen, Vordrucke zur Verfügung stellen oder zur elektronischen Übermittlung der Daten ein zu verwendendes Format vorgeben. Sofern die Bundesanstalt für Landwirtschaft und Ernährung Muster veröffentlicht, Vordrucke zur Verfügung stellt oder ein bestimmtes Format vorgibt, sind diese zu verwenden.
 
@@ -620,9 +604,9 @@ Der Inhaber des tierhaltenden Betriebs hat zu erklären, dass die Haltungseinric
 
 # § 30 – Verarbeitung von Daten von Genehmigungsinhabern und ausländischen Betrieben
 
-(1) Die Bundesanstalt für Landwirtschaft und Ernährung ist befugt, die Daten nach § 22 Absatz 3, 5 und 6 Nummer 2, den §§ 23, 24 Absatz 1 bis 3, § 25 Absatz 2, § 26 Absatz 1, den §§ 27, 28 Absatz 2, § 29 Absatz 1 und § 32 Absatz 1 sowie die Nachweise nach § 22 Absatz 4 Satz 1 und 3 und Absatz 5, § 23 Absatz 2 Satz 2 und 4, § 25 Absatz 4 Satz 3 und § 27 Absatz 6 zu den in § 22 Absatz 1, § 23 Absatz 1 bis 3, § 24 Absatz 2 und 3, § 25 Absatz 1, § 27 Absatz 1, 2 und 5, den §§ 28, 29 Absatz 1 und § 32 Absatz 2 genannten Zwecken zu erheben, zu speichern und zu verwenden.
+(1) Die zuständigen Behörden sind befugt, die Daten nach § 22 Absatz 3, 5 und 6 Nummer 2, den §§ 23, 24 Absatz 1 bis 3, § 25 Absatz 2, § 26 Absatz 1, den §§ 27, 28 Absatz 2, § 29 Absatz 1 und § 32 Absatz 1 sowie die Nachweise nach § 22 Absatz 4 Satz 1 und 3 und Absatz 5, § 23 Absatz 2 Satz 2 und 4, § 25 Absatz 4 Satz 3 und § 27 Absatz 6 zu den in § 22 Absatz 1, § 23 Absatz 1 bis 3, § 24 Absatz 2 und 3, § 25 Absatz 1, § 27 Absatz 1, 2 und 5, den §§ 28, 29 Absatz 1 und § 32 Absatz 2 genannten Zwecken zu erheben, zu speichern und zu verwenden.
 
-(2) Die in Absatz 1 genannten Daten und Nachweise dürfen von der Bundesanstalt für Landwirtschaft und Ernährung außerdem zum Zwecke der Überwachung der Einhaltung der Vorschriften dieses Gesetzes verarbeitet, insbesondere an andere nach diesem Gesetz zuständige Behörden zur Verfügung gestellt, werden.
+(2) Die in Absatz 1 genannten Daten und Nachweise dürfen von den zuständigen Behörden außerdem zum Zwecke der Überwachung der Einhaltung der Vorschriften dieses Gesetzes verarbeitet, insbesondere an andere nach diesem Gesetz zuständige Behörden zur Verfügung gestellt, werden.
 
 (+++ § 30: Zur Anwendung vgl. § 36 Abs. 2 +++)
 
@@ -676,7 +660,7 @@ b) verpflichten, über die in § 19 Absatz 1 und § 32 Absatz 1 vorgeschriebenen
 
 # § 34 – Durchführung der Überwachung
 
-(1) Soweit es bei Vorliegen eines hinreichenden Verdachts auf Verstöße gegen Vorschriften dieses Gesetzes zur Überwachung der Einhaltung der Vorschriften dieses Gesetzes notwendig ist, sind die von der zuständigen Behörde mit der Überwachung beauftragten Personen befugt,
+(1) Soweit es zur Überwachung der Einhaltung der Vorschriften dieses Gesetzes notwendig ist, sind die von der zuständigen Behörde mit der Überwachung beauftragten Personen befugt,
 
 1. Grundstücke, Haltungseinrichtungen und Betriebsräume im Inland, in oder auf denen
 
@@ -698,7 +682,7 @@ sowie die dazugehörigen Geschäftsräume während der üblichen Betriebs- oder 
 
 # § 35 – Mitwirkungspflichten
 
-(1) Die Inhaber des tierhaltenden Betriebs und Lebensmittelunternehmer und die vom Inhaber des tierhaltenden Betriebs oder Lebensmittelunternehmer benannten Personen, die die in § 35 Absatz 1 Nummer 1 bezeichneten Grundstücke, Haltungseinrichtungen und Betriebsräume innehaben, sind verpflichtet, die Maßnahmen nach § 35 Absatz 1 und 2 zu dulden und die mit der Überwachung beauftragten Personen bei der Erfüllung ihrer Aufgaben zu unterstützen. Insbesondere müssen sie den mit der Überwachung beauftragten Personen auf Verlangen
+(1) Die Inhaber des tierhaltenden Betriebs und Lebensmittelunternehmer und die vom Inhaber des tierhaltenden Betriebs oder Lebensmittelunternehmer benannten Personen, die die in § 34 Absatz 1 Nummer 1 bezeichneten Grundstücke, Haltungseinrichtungen und Betriebsräume innehaben, sind verpflichtet, die Maßnahmen nach § 34 Absatz 1 und 2 zu dulden und die mit der Überwachung beauftragten Personen bei der Erfüllung ihrer Aufgaben zu unterstützen. Insbesondere müssen sie den mit der Überwachung beauftragten Personen auf Verlangen
 
 1. Auskünfte erteilen,
 
@@ -720,7 +704,9 @@ sowie die dazugehörigen Geschäftsräume während der üblichen Betriebs- oder 
 
 # § 37 – Gegenseitige Information
 
-Die für die Durchführung dieses Gesetzes zuständigen Behörden und Stellen des Bundes und der Länder haben sich gegenseitig die für den Vollzug dieses Gesetzes zuständigen Stellen und die Identifizierungsnummern der zuständigen Behörden mitzuteilen.
+(1) Die für die Durchführung dieses Gesetzes zuständigen Behörden und Stellen des Bundes und der Länder haben sich gegenseitig die für den Vollzug dieses Gesetzes zuständigen Stellen und die Identifizierungsnummern der zuständigen Behörden mitzuteilen.
+
+(2) Die für die Überwachung des Tierschutzes, die Überwachung von Lebensmitteln und die für die Erhebung der Daten nach § 26 der Viehverkehrsverordnung zuständigen Behörden übermitteln auf Ersuchen der nach § 33 Absatz 1 Satz 1 für die Überwachung jeweils zuständigen Behörde die zu deren Aufgabenerfüllung nach diesem Gesetz erforderlichen Daten. Die Daten dürfen nur zu dem Zweck verwendet werden, zu dem sie übermittelt worden sind. Die Daten nach Satz 1 dürfen höchstens für die Dauer von drei Jahren aufbewahrt werden. Die Frist beginnt mit Ablauf desjenigen Jahres, in dem die Daten übermittelt worden sind. Nach Ablauf der Aufbewahrungsfrist sind die Daten zu löschen. Sofern die Speicherung elektronisch erfolgt ist, hat die Löschung automatisiert zu erfolgen. Fristen zur Aufbewahrung, die sich aus anderen Rechtsvorschriften ergeben, bleiben unberührt. § 34 Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 # § 38 – Bußgeldvorschriften
 
@@ -730,7 +716,7 @@ Die für die Durchführung dieses Gesetzes zuständigen Behörden und Stellen de
 
 2. entgegen § 5 Absatz 1 oder Absatz 2 Satz 2, jeweils auch in Verbindung mit § 21 Absatz 2, eine Bezeichnung verwendet,
 
-3. entgegen § 12 Absatz 1 Satz 1, § 13 Absatz 1, § 15 Absatz 3 Satz 1, § 24 Absatz 1 oder § 26 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
+3. entgegen § 12 Absatz 1 Satz 1, § 13 Absatz 1, § 24 Absatz 1 oder § 26 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
 4. entgegen § 19 Absatz 1 oder § 32 Absatz 1 eine Aufzeichnung nicht oder nicht richtig führt,
 
@@ -752,7 +738,7 @@ Die für die Durchführung dieses Gesetzes zuständigen Behörden und Stellen de
 
 # § 39 – Einziehung
 
-Ist eine Ordnungswidrigkeit nach § 39 Absatz 1 begangen worden, so können
+Ist eine Ordnungswidrigkeit nach § 38 Absatz 1 begangen worden, so können
 
 1. Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, oder
 
@@ -764,7 +750,7 @@ eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 (1) Abweichend von § 12 Absatz 1 sind Haltungseinrichtungen, in denen am 24. August 2023 Tiere gehalten werden, von denen nach § 3 Absatz 1 kennzeichnungspflichtige Lebensmittel gewonnen werden, der zuständigen Behörde durch den Inhaber des tierhaltenden Betriebes bis zum 1. August 2024 mitzuteilen. Auf die Mitteilung ist § 12 Absatz 2 bis 5 anzuwenden.
 
-(2) Nach Maßgabe dieses Gesetzes kennzeichnungspflichtige Lebensmittel, die vor dem 1. August 2025 in Verkehr gebracht oder gekennzeichnet werden und die den Anforderungen dieses Gesetzes nicht entsprechen, dürfen weiterhin in Verkehr gebracht werden, bis die jeweiligen Bestände aufgebraucht sind.
+(2) Nach Maßgabe dieses Gesetzes kennzeichnungspflichtige Lebensmittel, die vor dem 1. März 2026 in Verkehr gebracht oder gekennzeichnet werden und die den Anforderungen dieses Gesetzes nicht entsprechen, dürfen weiterhin in Verkehr gebracht werden, bis die jeweiligen Bestände aufgebraucht sind.
 
 # § 41 – Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
 
@@ -772,7 +758,7 @@ Verweisungen in diesem Gesetz auf Vorschriften der Europäischen Gemeinschaft od
 
 # § 42 – Evaluierung
 
-Das Bundesministerium für Ernährung und Landwirtschaft hat dem Deutschen Bundestag fünf Jahre nach Inkrafttreten dieses Gesetzes über die Wirksamkeit der nach diesem Gesetz getroffenen Maßnahmen zu berichten.
+Das Bundesministerium für Landwirtschaft, Ernährung und Heimat hat dem Deutschen Bundestag fünf Jahre nach Inkrafttreten dieses Gesetzes über die Wirksamkeit der nach diesem Gesetz getroffenen Maßnahmen zu berichten.
 
 # § 43 – Inkrafttreten
 
@@ -807,7 +793,7 @@ Der maßgebliche Haltungsabschnitt bei Mastschweinen ist, wenn die Tiere im Alte
 
 Bei der Kennzeichnung von Lebensmitteln, die vom Mastschwein gewonnen wurden, ist die Bezeichnung „Stall“ zu verwenden, wenn die Tiere im maßgeblichen Haltungsabschnitt in einer Haltungseinrichtung gehalten worden sind, die die Anforderungen nach Satz 3 erfüllt. Die Mastschweine müssen in einem befestigten, vollständig überdachten und geschlossenen oder überwiegend geschlossenen Gebäude oder Raum gehalten werden. Das Gebäude oder der Raum muss
 
-1. die Anforderungen an Haltungseinrichtungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung erfüllen und
+1. die Anforderungen an Haltungseinrichtungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung in der Fassung der Bekanntmachung vom 22. August 2006 (BGBl. I S. 2043), die zuletzt durch Artikel 1a der Verordnung vom 29. Januar 2021 (BGBl. I S. 146) geändert worden ist, erfüllen und
 
 2. so gestaltet sein, dass jedem Tier mindestens zur Verfügung steht:
 
@@ -862,7 +848,7 @@ gg)
 für jeweils bis zu 24 Mastschweine mindestens einer geeigneten Tränke mit offener Wasserfläche, die zusätzlich zu § 29 Absatz 3 in Verbindung mit § 28 Absatz 2 Nummer 5 der Tierschutz-Nutztierhaltungsverordnung zur Verfügung steht,
 
 hh)  
-einem Liegebereich, der höchstens einen Perforationsgrad von fünf Prozent aufweist und weich oder eingestreut sein muss und der entsprechend dem Durchschnittsgewicht der Tiere für jedes Tier mindestens eine Fläche nach Tabelle 2 aufweist,
+einem Liegebereich, der einen Perforationsgrad von höchstens fünf Prozent aufweist und weich oder eingestreut sein muss und der entsprechend dem Durchschnittsgewicht der Tiere für jedes Tier mindestens eine Fläche nach Tabelle 2 aufweist,
 
 ii) sonstigen Elementen, die eine zusätzliche Strukturierung der Bucht ermöglichen,
 
@@ -902,7 +888,7 @@ Bei der Kennzeichnung von Lebensmitteln, die vom Mastschwein gewonnen wurden, is
 
 1. in einer Haltungseinrichtung gehalten worden sind, die
 
-a) aus einem befestigten und ganz oder teilweise überdachten Gebäude oder Raum besteht, das oder der die Anforderungen an Haltungseinrichtungen nach den §§ 3 und 22 Absatz 2, 3, 3a Satz 1 Nummer 1, 2 und Absatz 4 der Tierschutz-Nutztierhaltungsverordnung in der Fassung … \[Entwurf 8. Änderungsverordnung\]<span id="FnR.F827016_08"></span><a href="#F827016_08" class="FnR">6</a></sup> erfüllt,
+a) aus einem befestigten und ganz oder teilweise überdachten Gebäude oder Raum besteht, das oder der die Anforderungen an Haltungseinrichtungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung erfüllt,
 
 b) so gestaltet ist, dass
 
@@ -927,7 +913,7 @@ oder
 
 2. in einer Haltungseinrichtung gehalten worden sind,
 
-a) die die Anforderungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung in der Fassung … \[Entwurf 8. Änderungsverordnung\]<span id="FnR.F827016_09"></span><a href="#F827016_09" class="FnR">7</a></sup> erfüllt,
+a) die die Anforderungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung erfüllt,
 
 b) die aus einem befestigten, ganz oder teilweise überdachten und geschlossenen oder überwiegend geschlossenen Gebäude oder Raum besteht,
 
@@ -954,7 +940,7 @@ Bei der Kennzeichnung von Lebensmitteln, die vom Mastschwein gewonnen wurden, is
 
 1. in einer Haltungseinrichtung gehalten werden,
 
-a) die die Anforderungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung in der Fassung … \[Entwurf 8. Änderungsverordnung\]<span id="FnR.F827016_10"></span><a href="#F827016_10" class="FnR">8</a></sup> erfüllt,
+a) die die Anforderungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung erfüllt,
 
 b) die aus einem befestigten, ganz oder teilweise überdachten und geschlossenen oder überwiegend geschlossenen Gebäude oder Raum besteht,
 
@@ -976,7 +962,7 @@ oder
 
 a) die die Anforderungen nach § 3 der Tierschutz-Nutztierhaltungsverordnung erfüllt,
 
-b) in der sie dauerhaft, im Freien ohne festen Stall nach Maßgabe des § 29a der Tierschutz-Nutztierhaltungsverordnung in der Fassung … \[Entwurf 8. Änderungsverordnung\]<span id="FnR.F827016_11"></span><a href="#F827016_11" class="FnR">9</a></sup> gehalten werden und
+b) in der sie dauerhaft im Freien ohne festen Stall gehalten werden und
 
 c) in der jedes Schwein jederzeit Zugang zu gesundheitlich unbedenklichem und in ausreichender Menge vorhandenem organischen und faserreichen Beschäftigungsmaterial hat, das das Schwein untersuchen und bewegen kann und vom Schwein veränderbar ist und damit dem Erkundungsverhalten dient.
 

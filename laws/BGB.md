@@ -5263,7 +5263,7 @@ Beträgt der Jahresnutzungsgrad der bestehenden Anlage vor der Umstellung mindes
 
 (1) Wird ein Mietvertrag über Wohnraum abgeschlossen, der in einem durch Rechtsverordnung nach Absatz 2 bestimmten Gebiet mit einem angespannten Wohnungsmarkt liegt, so darf die Miete zu Beginn des Mietverhältnisses die ortsübliche Vergleichsmiete (§ 558 Absatz 2) höchstens um 10 Prozent übersteigen.
 
-(2) Die Landesregierungen werden ermächtigt, Gebiete mit angespannten Wohnungsmärkten durch Rechtsverordnung für die Dauer von jeweils höchstens fünf Jahren zu bestimmen. Gebiete mit angespannten Wohnungsmärkten liegen vor, wenn die ausreichende Versorgung der Bevölkerung mit Mietwohnungen in einer Gemeinde oder einem Teil der Gemeinde zu angemessenen Bedingungen besonders gefährdet ist. Dies kann insbesondere dann der Fall sein, wenn
+(2) Die Landesregierungen werden ermächtigt, Gebiete mit angespannten Wohnungsmärkten durch Rechtsverordnung zu bestimmen. Gebiete mit angespannten Wohnungsmärkten liegen vor, wenn die ausreichende Versorgung der Bevölkerung mit Mietwohnungen in einer Gemeinde oder einem Teil der Gemeinde zu angemessenen Bedingungen besonders gefährdet ist. Dies kann insbesondere dann der Fall sein, wenn
 
 1. die Mieten deutlich stärker steigen als im bundesweiten Durchschnitt,
 
@@ -5273,7 +5273,7 @@ Beträgt der Jahresnutzungsgrad der bestehenden Anlage vor der Umstellung mindes
 
 4. geringer Leerstand bei großer Nachfrage besteht.
 
-Eine Rechtsverordnung nach Satz 1 muss spätestens mit Ablauf des 31. Dezember 2025 außer Kraft treten. Sie muss begründet werden. Aus der Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. Ferner muss sich aus der Begründung ergeben, welche Maßnahmen die Landesregierung in dem nach Satz 1 durch die Rechtsverordnung jeweils bestimmten Gebiet und Zeitraum ergreifen wird, um Abhilfe zu schaffen.
+Eine Rechtsverordnung nach Satz 1 muss spätestens mit Ablauf des 31. Dezember 2029 außer Kraft treten. Sie muss begründet werden. Aus der Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. Ferner muss sich aus der Begründung ergeben, welche Maßnahmen die Landesregierung in dem nach Satz 1 durch die Rechtsverordnung jeweils bestimmten Gebiet und Zeitraum ergreifen wird, um Abhilfe zu schaffen.
 
 (+++ § 556d: Zur Nichtanwendung vgl. § 556f +++)  
 (+++ § 556d: Zur Anwendung vgl. §§ 557a, 557b +++)  

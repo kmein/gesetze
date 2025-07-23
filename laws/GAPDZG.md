@@ -69,7 +69,9 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 # § 1 – Anwendungsbereich
 
-(1) Dieses Gesetz dient der Durchführung der Regelungen zu den Direktzahlungen in der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1; L 181 vom 7.7.2022, S. 35; L 227 vom 1.9.2022, S. 137) in der jeweils geltenden Fassung sowie den im Rahmen dieses Rechtsakts und zu seiner Durchführung erlassenen weiteren Rechtsakte der Europäischen Union (Unionsregelung).
+Dieses Gesetz dient der Durchführung der Regelungen zu den Direktzahlungen in der Verordnung (EU) 2021/2115 in der jeweils geltenden Fassung sowie den im Rahmen dieses Rechtsakts und zu seiner Durchführung erlassenen weiteren Rechtsakte der Europäischen Union (Unionsregelung).
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 17.7.2025 I Nr. 166 +++)
 
 # § 2 – Anwendbare Rechtsvorschriften
 
@@ -111,11 +113,11 @@ Sieht die Unionsregelung vor, dass Direktzahlungen nur aktiven oder echten Betri
 
 (1) Die indikative Mittelzuweisung für die Einkommensgrundstützung für jedes Antragsjahr ist der Betrag, der sich ergibt, wenn von der einschlägigen Zuweisung die anderen in diesem Gesetz geregelten indikativen Mittelzuweisungen und die Mittel für Öko-Regelungen für das jeweilige Jahr abgezogen wurden.
 
-(1a) Abweichend von Absatz 1 ist ab dem Antragsjahr 2026 die indikative Mittelzuweisung für die Einkommensgrundstützung für jedes Antragsjahr der Betrag, der sich ergibt, wenn der Betrag der gemäß Satz 2 berechneten vorläufigen indikativen Mittelzuweisung für die Einkommensgrundstützung für das Jahr 2026 mit dem Faktor nach Absatz 1b Satz 1 und für das Jahr 2027 mit dem Faktor nach Absatz 1b Satz 2 multipliziert wird. Die vorläufige indikative Mittelzuweisung für die Einkommensgrundstützung ist ab dem Antragsjahr 2026 der Betrag, der sich ergibt, wenn von der einschlägigen Zuweisung die anderen in diesem Gesetz geregelten indikativen Mittelzuweisungen und die Mittel für Öko-Regelungen, diese mit Ausnahme des Betrags nach § 19 Absatz 1 Satz 2, für das jeweilige Jahr abgezogen wurden.
+(1a) Abweichend von Absatz 1 ist für das Antragsjahr 2027 die indikative Mittelzuweisung für die Einkommensgrundstützung der Betrag, der sich ergibt, wenn der Betrag der gemäß Satz 2 berechneten vorläufigen indikativen Mittelzuweisung für die Einkommensgrundstützung für das Jahr 2027 mit dem Faktor nach Absatz 1b multipliziert wird. Die vorläufige indikative Mittelzuweisung für die Einkommensgrundstützung ist für das Antragsjahr 2027 der Betrag, der sich ergibt, wenn von der einschlägigen Zuweisung die anderen in diesem Gesetz geregelten indikativen Mittelzuweisungen und die Mittel für Öko-Regelungen, diese mit Ausnahme des Betrags nach § 19 Absatz 1 Satz 2, abgezogen wurden.
 
-(1b) Der für die Berechnung nach Absatz 1a anzuwendende Faktor für das Jahr 2026 ist die Zahl, die sich aus der Division der Zahl der nach Absatz 1c Satz 1 mitgeteilten Hektare durch die Zahl der nach § 6 Absatz 2 mitgeteilten Zahlungsansprüche ergibt, jedoch höchstens die Zahl 1. Der für die Berechnung nach Absatz 1a anzuwendende Faktor für das Jahr 2027 ist die Zahl, die sich aus der Division der Zahl der nach Absatz 1c Satz 2 mitgeteilten Hektare durch die Zahl der nach § 6 Absatz 2 mitgeteilten Zahlungsansprüche ergibt, jedoch höchstens die Zahl 1.
+(1b) Der für die Berechnung nach Absatz 1a anzuwendende Faktor ist die Zahl, die sich aus der Division der Zahl der nach Absatz 1c mitgeteilten Hektare durch die Zahl der nach § 6 Absatz 2 mitgeteilten Zahlungsansprüche ergibt, jedoch höchstens die Zahl 1.
 
-(1c) Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft bis zum 16. Juni 2025 die Zahl der Hektare mit, für die bis zum 31. Mai 2025 für das Antragsjahr 2025 die Einkommensgrundstützung beantragt worden ist. Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft bis zum 16. Juni 2026 die Zahl der Hektare mit, für die bis zum 31. Mai 2026 für das Antragsjahr 2026 die Einkommensgrundstützung beantragt worden ist.
+(1c) Die Länder teilen dem Bundesministerium für Landwirtschaft, Ernährung und Heimat bis zum 16. Juni 2026 die Zahl der Hektare mit, für die bis zum 31. Mai 2026 für das Antragsjahr 2026 die Einkommensgrundstützung beantragt worden ist.
 
 (2) Die einschlägige Zuweisung ist die in der Unionsregelung für Deutschland enthaltene anfänglich festgesetzte Mittelzuweisung für Direktzahlungen, die nach der Übertragung von Mitteln nach § 3 für das jeweilige Jahr verbleibt (einschlägige Zuweisung).
 
@@ -127,9 +129,7 @@ Sieht die Unionsregelung vor, dass Direktzahlungen nur aktiven oder echten Betri
 
 (1) Der geplante Einheitsbetrag je Hektar für die Einkommensgrundstützung ist der Betrag, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung nach § 5 Absatz 1 durch die Zahl der mit Gültigkeit zum Antragsschlusstermin des Jahres 2020 bestehenden Zahlungsansprüche für die Basisprämie nach der Verordnung (EU) Nr. 1307/2013 geteilt wird.
 
-(1a) Abweichend von Absatz 1 ist der geplante Einheitsbetrag je Hektar für die Einkommensgrundstützung für das Antragsjahr 2026 der Betrag, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung nach § 5 Absatz 1a für das Jahr 2026 durch die nach § 5 Absatz 1c Satz 1 mitgeteilte Zahl der Hektare geteilt wird.
-
-(1b) Abweichend von Absatz 1 ist der geplante Einheitsbetrag je Hektar für die Einkommensgrundstützung für das Antragsjahr 2027 der Betrag, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung nach § 5 Absatz 1a für das Jahr 2027 durch die nach § 5 Absatz 1c Satz 2 mitgeteilte Zahl der Hektare geteilt wird.
+(1a) Abweichend von Absatz 1 ist der geplante Einheitsbetrag je Hektar für die Einkommensgrundstützung für das Antragsjahr 2027 der Betrag, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung nach § 5 Absatz 1a für das Jahr 2027 durch die nach § 5 Absatz 1c Satz 2 mitgeteilte Zahl der Hektare geteilt wird.
 
 (2) Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft die Zahl der mit Gültigkeit zum Antragsschlusstermin des Jahres 2020 bestehenden Zahlungsansprüche für die Basisprämie nach der Verordnung (EU) Nr. 1307/2013 mit.
 
@@ -227,11 +227,13 @@ Die indikative Mittelzuweisung für die Junglandwirte-Einkommensstützung für j
 
 (3) Am Ende des Jahres der erstmaligen Beantragung der Junglandwirte-Einkommensstützung darf die Junglandwirtin oder der Junglandwirt nach § 12 Absatz 1 oder die gemäß § 12 Absatz 2 für die Eigenschaft als Junglandwirt maßgebliche natürliche Person nicht älter als 40 Jahre sein.
 
-(4) Ein Betriebsinhaber, der die Zahlung für Junglandwirte nach Artikel 50 der Verordnung (EU) Nr. 1307/2013 erhalten hat, erhält die Junglandwirte-Einkommensstützung für den verbleibenden Teil des Zeitraums nach Artikel 50 Absatz 5 der Verordnung (EU) Nr. 1307/2013. Absatz 5 bleibt unberührt.
+(4) Ein Betriebsinhaber, der die Zahlung für Junglandwirte nach Artikel 50 der Verordnung (EU) Nr. 1307/2013 erhalten hat, erhält die Junglandwirte-Einkommensstützung für den verbleibenden Teil des Zeitraums nach Artikel 50 Absatz 5 der Verordnung (EU) Nr. 1307/2013 in der Fassung vom 8. November 2021. Absatz 5 bleibt unberührt.
 
 (5) Für die Gewährung der Junglandwirte-Einkommensstützung kann eine natürliche Person nicht mehr als einmal berücksichtigt werden.
 
 (6) Einem Betriebsinhaber, der keine natürliche Person ist, wird die Junglandwirte-Einkommensstützung nicht mehr gewährt, wenn keine natürliche Person mehr den Betriebsinhaber im Sinne von § 12 Absatz 2 Satz 1 kontrolliert, die ihn bei der erstmaligen Beantragung der Junglandwirte-Einkommensstützung kontrolliert hat.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 17.7.2025 I Nr. 166 +++)
 
 # § 17 – Tatsächlicher Einheitsbetrag für die Junglandwirte-Einkommensstützung
 
@@ -243,11 +245,13 @@ Ein Betriebsinhaber erhält jährlich auf Antrag eine Unterstützung für die fr
 
 # § 19 – Mittel für Öko-Regelungen
 
-(1) Die indikativen Mittel für die Öko-Regelungen für jedes der Jahre 2023 und 2024 sowie die Mittel für die Öko-Regelungen für jedes der Jahre 2025 bis 2027 sind jeweils der Betrag, der 25 Prozent des Betrags entspricht, der nach der Unionsregelung der Festsetzung der Zuweisung von Mitteln für Öko-Regelungen zugrunde zu legen ist. Für jedes der Jahre 2026 und 2027 wird der Betrag nach Satz 1 um den Betrag erhöht, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung für die Einkommensgrundstützung für das jeweilige Jahr von dem Betrag der vorläufigen indikativen Mittelzuweisung für die Einkommensgrundstützung für das jeweilige Jahr abgezogen wird. Die Beträge nach Satz 2 sind für eine sich nach Artikel 97 Absatz 6 oder 7 der Verordnung (EU) 2021/2115 erforderliche Aufstockung der Mittel für Öko-Regelungen für die Jahre 2023 und 2024 zu verwenden.
+(1) Die indikativen Mittel für die Öko-Regelungen für jedes der Jahre 2023 und 2024 sowie die Mittel für die Öko-Regelungen für jedes der Jahre 2025 bis 2027 sind jeweils der Betrag, der 25 Prozent des Betrags entspricht, der nach der Unionsregelung der Festsetzung der Zuweisung von Mitteln für Öko-Regelungen zugrunde zu legen ist. Für das Jahr 2027 wird der Betrag nach Satz 1 um den Betrag erhöht, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung für die Einkommensgrundstützung für das Jahr 2027 von dem Betrag der vorläufigen indikativen Mittelzuweisung für die Einkommensgrundstützung für das Jahr 2027 abgezogen wird. Der Betrag nach Satz 2 kann für eine nach Artikel 97 Absatz 6 oder 7 der Verordnung (EU) 2021/2115 erforderliche Aufstockung der Mittel für Öko-Regelungen für die Jahre 2023 bis 2025 verwendet werden.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft berechnet den Betrag nach Absatz 1, der sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft macht den Betrag nach Absatz 1, der sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt, im Bundesanzeiger bekannt.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 17.7.2025 I Nr. 166 +++)
 
 # § 20 – Festlegung der Öko-Regelungen
 
@@ -417,4 +421,4 @@ Bei der Regelung von Begriffsbestimmungen nach Satz 1 ist anzugeben, dass es sic
 
 # § 36 – Anwendungsbestimmung
 
-Die Anwendung des § 5 Absatz 1a bis 1c, des § 6 Absatz 1a und 1b und des § 19 Absatz 1 Satz 2 steht für jedes der Jahre 2026 und 2027 unter dem Vorbehalt, dass die Europäische Kommission vor Beginn des jeweiligen Jahres den Durchführungsbeschluss mit der Genehmigung der Änderung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland der Bundesrepublik Deutschland bekanntgegeben hat, dem der Änderungsantrag zugrunde liegt, der diese Regelungen umfasst. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag, an dem die Europäische Kommission diese Genehmigung bekanntgegeben hat, im Bundesgesetzblatt bekannt.
+Die Anwendung des § 5 Absatz 1a bis 1c, des § 6 Absatz 1a und des § 19 Absatz 1 Satz 2 steht für jedes der Jahre 2026 und 2027 unter dem Vorbehalt, dass die Europäische Kommission vor Beginn des jeweiligen Jahres den Durchführungsbeschluss mit der Genehmigung der Änderung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland der Bundesrepublik Deutschland bekanntgegeben hat, dem der Änderungsantrag zugrunde liegt, der diese Regelungen umfasst. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag, an dem die Europäische Kommission diese Genehmigung bekanntgegeben hat, im Bundesgesetzblatt bekannt.

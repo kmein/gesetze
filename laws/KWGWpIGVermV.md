@@ -1,4 +1,4 @@
-% Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes und nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes  (KWG-WpIG-Vermittlerverordnung - KWGWpIGVermV)
+% Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes und nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes*)  (KWG-WpIG-Vermittlerverordnung - KWGWpIGVermV)
 % Ausfertigungsdatum: 04.12.2007
  
 # Eingangsformel

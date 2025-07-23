@@ -1,4 +1,4 @@
-% Verordnung über die angemessene Eigenmittelausstattung und die erforderliche Absicherung für den Haftungsfall von Instituten nach dem Zahlungsdiensteaufsichtsgesetz  (ZAG-Instituts-Eigenmittelverordnung - ZIEV)
+% Verordnung über die angemessene Eigenmittelausstattung und die erforderliche Absicherung für den Haftungsfall von Instituten nach dem Zahlungsdiensteaufsichtsgesetz*)  (ZAG-Instituts-Eigenmittelverordnung - ZIEV)
 % Ausfertigungsdatum: 15.10.2009
  
 # Eingangsformel

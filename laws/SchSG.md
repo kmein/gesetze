@@ -951,7 +951,8 @@ Zu Regeln 18 und 19 (- hinsichtlich der Verwendung der Ausrüstung an Bord -):
 
 Die von der IMO oder einer anderen zuständigen zwischenstaatlichen Organisation angenommenen Standards, die bei einer durch die internationalen Regelungen vorgeschriebenen Baumusterprüfung zugrunde zu legen sind, werden jeweils nach § 9d des Seeaufgabengesetzes amtlich bekannt gemacht.   
 
-Zu Regel 23 (– hinsichtlich Lotsenversetzeinrichtungen –):
+Zu Regel 23 (– hinsichtlich Lotsenversetzeinrichtungen –):  
+  
 
 Entschl. A.1045(27)
 
@@ -1592,7 +1593,6 @@ Angenommen am 28. April 2022
 (VkBl. 2023 S. 416)
 
   
-  
 
 Zu Regel 14:  
   
@@ -1627,7 +1627,8 @@ Angenommen am 21. November 2014
 
 I.15
 
-Zu Kapitel XV der Anlage zu SOLAS (Sicherheitsmaßnahmen für Schiffe, die Offshore-Servicepersonal befördern):
+Zu Kapitel XV der Anlage zu SOLAS (Sicherheitsmaßnahmen für Schiffe, die Offshore-Servicepersonal befördern):  
+  
 
 Internationaler Code für die Sicherheit von Schiffen, die Offshore-Servicepersonal befördern
 
@@ -1635,7 +1636,7 @@ Internationaler Code für die Sicherheit von Schiffen, die Offshore-Serviceperso
 
 Angenommen am 10. November 2022
 
-(VkBl. 2024 S. 442)
+(VkBl. 2024 S. 442)  
 
 II\.
 
@@ -2624,9 +2625,9 @@ Angenommen am 8. Juni 2023
 
 VI.1
 
-Zu Kapitel VIII der Anlage zum STCW-Übereinkommen:
+Zu Kapitel VIII der Anlage zum STCW-Übereinkommen:  
 
-Teil A Kapitel VIII des Codes für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Code) (BGBl. 2013 II S. 934 sowie Anlageband zum Bundesgesetzblatt Teil II Nr. 18 vom 4. Juli 2013);
+Teil A Kapitel VIII des Codes für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Code) (BGBl. 2013 II S. 934 sowie Anlageband zum Bundesgesetzblatt Teil II Nr. 18 vom 4. Juli 2013);  
 
 zuletzt geändert durch die Dreizehnte Verordnung über Änderungen der Anlage des Internationalen Übereinkommens von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten vom 23. Oktober 2024 (BGBl. 2024 II Nr. 443)
 

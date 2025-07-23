@@ -1163,19 +1163,27 @@ Soweit der Vorhabenträger nach § 18 Absatz 2 oder auf Grund eines Planfeststel
 
 # § 23 – Freistellung von Bahnbetriebszwecken
 
-(1) Der Bahnbetriebszweck eines Grundstücks, das Betriebsanlage einer Eisenbahn ist oder auf dem sich eine Betriebsanlage einer Eisenbahn befindet, liegt im überragenden öffentlichen Interesse und dient der Aufrechterhaltung sowie der Weiterentwicklung der Eisenbahninfrastruktur im Rahmen der kurz-, mittel- oder langfristig prognostizierbaren zweckentsprechenden Nutzung.
+(1) Der Bahnbetriebszweck eines Grundstücks, das Betriebsanlage einer Eisenbahn ist oder auf dem sich eine Betriebsanlage einer Eisenbahn befindet, liegt im überragenden öffentlichen Interesse, soweit das Grundstück der Wiederinbetriebnahme, Aufrechterhaltung oder Weiterentwicklung der Eisenbahninfrastruktur dienen kann. Satz 1 gilt auch für Grundstücke, auf denen sich keine Betriebsanlagen mehr befinden.
 
-(2) Die zuständige Planfeststellungsbehörde stellt für ein Grundstück im Sinne des Absatzes 1 auf Antrag
+(2) Ein überragendes öffentliches Interesse im Sinne von Absatz 1 liegt nicht vor, wenn
 
-1. des Eisenbahninfrastrukturunternehmens,
+1. kein Verkehrsbedürfnis mehr besteht oder für die Eisenbahninfrastruktur ein Ersatz geschaffen worden ist, und
 
-2. des Eigentümers des Grundstücks,
+2. langfristig eine Nutzung der Infrastruktur im Rahmen der Zweckbestimmung nicht mehr zu erwarten ist und
 
-3. der Gemeinde, auf deren Gebiet sich das Grundstück befindet, oder
+3. die Wiederinbetriebnahme einer Strecke nicht verhindert wird.
 
-4. des Trägers der Straßenbaulast einer öffentlichen Straße, der diese Grundstücke für Zwecke des Radwege- und Straßenbaus zu nutzen beabsichtigt,
+In diesem Fall stellt die Planfeststellungsbehörde für das Grundstück auf Antrag die Freistellung von den Bahnbetriebszwecken fest. Befindet sich auf dem Grundstück eine Betriebsanlage, für deren dauerhafte Betriebseinstellung eine Stilllegung nach § 11 zu erwirken ist, so darf die Freistellung von den Bahnbetriebszwecken erst nach Eintritt der Bestandskraft der Stilllegungsentscheidung erfolgen. Für die Freistellung ist die vollständige oder teilweise Beseitigung von nicht betriebsnotwendigen Eisenbahnanlagen keine Voraussetzung.
 
-die Freistellung von den Bahnbetriebszwecken fest, wenn das Interesse des Antragstellers an der Freistellung das in Absatz 1 genannte, überragende öffentliche Interesse überwiegt, kein Verkehrsbedürfnis mehr besteht und langfristig eine Nutzung der Infrastruktur im Rahmen der Zweckbestimmung nicht mehr zu erwarten ist. Satz 1 gilt auch für Grundstücke, auf denen sich keine Betriebsanlagen mehr befinden. Befindet sich auf dem Grundstück eine Betriebsanlage, für deren dauerhafte Betriebseinstellung eine Stilllegung nach § 11 zu erwirken ist, so kann die Freistellung von Eisenbahnbetriebszwecken erst nach Eintritt der Bestandskraft der Stilllegungsentscheidung erfolgen. Für die Freistellungsentscheidung ist die vollständige oder teilweise Beseitigung von nicht betriebsnotwendigen Eisenbahnanlagen keine Voraussetzung.
+(2a) Der Antrag auf Freistellung von den Bahnbetriebszwecken kann gestellt werden von
+
+1. dem Eisenbahninfrastrukturunternehmen,
+
+2. dem Eigentümer des Grundstücks,
+
+3. der Gemeinde, auf deren Gebiet sich das betreffende Grundstück befindet,
+
+4. dem Träger der Straßenbaulast einer öffentlichen Straße, der das betreffende Grundstück für Zwecke des Radwege- und Straßenbaus zu nutzen beabsichtigt.
 
 (3) Der Antragsteller hat die ihm bekannten erheblichen Tatsachen, die für eine Freistellung des Grundstücks von den Bahnbetriebszwecken nach Absatz 2 vorausgesetzt werden, vollständig offenzulegen und ist zur Mitwirkung bei der Ermittlung des Sachverhalts verpflichtet.
 
@@ -1492,6 +1500,8 @@ Soweit es zur Entwicklung, zum Ausbau oder zum Erhalt von Schienenwegen erforder
 (11) Bis zum Ablauf des 30. Juni 2026 ist der Bedarf für Hilfeleistung im Sinne des Artikels 23 der Verordnung (EU) 2021/782 bei grenzüberschreitenden Fahrten spätestens 36 Stunden vor dem Zeitpunkt, zu dem die Hilfeleistung benötigt wird, anzumelden, sofern nicht die zentrale Anlaufstelle nach § 10a oder die beteiligten Unternehmen eine kürzere Frist zulassen.
 
 (12) Für das Planfeststellungsverfahren gilt das Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist, das nach Maßgabe dieses Gesetzes anzuwenden ist. Satz 1 gilt entsprechend, wenn das Gesetz über die Umweltverträglichkeitsprüfung anzuwenden ist und dieses auf das Verwaltungsverfahrensgesetz verweist.
+
+(13) Vor dem 29. Dezember 2023 beantragte Freistellungsverfahren nach § 23 werden nach den Vorschriften dieses Gesetzes in der vor dem 29. Dezember 2023 geltenden Fassung weitergeführt.
 
 # § 39 – Übergangsregelung für Planungen
 

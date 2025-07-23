@@ -1,4 +1,4 @@
-% Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte  (Energieverbrauchsrelevante-Produkte-Gesetz - EVPG)
+% Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte*)  (Energieverbrauchsrelevante-Produkte-Gesetz - EVPG)
 % Ausfertigungsdatum: 27.02.2008
  
 # § 1 – Anwendungsbereich
