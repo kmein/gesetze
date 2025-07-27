@@ -253,8 +253,6 @@ b) ab dem dritten Quartal 2027 dem mengengewichteten Durchschnittspreis der Vers
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die erforderlichen Maßnahmen zur Vermeidung von Carbon-Leakage und zum Erhalt der grenzüberschreitenden Wettbewerbsfähigkeit betroffener Unternehmen zu regeln. Die Maßnahmen sollen vorrangig durch finanzielle Unterstützung für klimafreundliche Investitionen erfolgen. Die Rechtsverordnung bedarf der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von sechs Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
-(+++ § 11 Abs. 1: Tritt am ersten Tag des Monats in Kraft, der auf den Tag folgt, an dem die Europäische Kommission die zu § 11 Absatz 1 erforderliche beihilferechtliche Genehmigung erteilt hat, frühestens jedoch am Tag nach der Verkündung dieses Gesetzes gem. § 24 Abs. 2 Satz 1; Abs. 1 Satz 4 Nr. 2 idF d. Art. 1 Nr. 8 G v. 9.11.2022 I 2006 mit zukünftiger Wirkung +++)
-
 # § 12 – Nationales Emissionshandelsregister
 
 (1) Die zuständige Behörde führt ein nationales Emissionshandelsregister in der Form einer elektronischen Datenbank. Das Emissionshandelsregister enthält Konten für Emissionszertifikate und weist Verfügungsbeschränkungen aus. Es enthält ein Verzeichnis der berichteten und geprüften Brennstoffemissionen der Verantwortlichen. Bei der Einrichtung und beim Betrieb des Emissionshandelsregisters sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen.

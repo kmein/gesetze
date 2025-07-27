@@ -1478,6 +1478,7 @@
 - [DBBankAbkG GBR](laws/DBBankAbkG_GBR.md) Gesetz zu dem Abkommen vom 7. Dezember 2011 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland zur Vermeidung der Doppelbelastung bei der Bankenabgabe
 - [DBBATZV](laws/DBBATZV.md) Verordnung über die Bewilligung von Altersteilzeit und die Gewährung eines Altersteilzeitzuschlags für die Beamtinnen und Beamten der Deutschen Bank AG
 - [DBBeamtRAnO 1976](laws/DBBeamtRAnO_1976.md) Allgemeine Anordnung über die Übertragung von Befugnissen und die Regelung von Zuständigkeiten auf dem Gebiet des Beamtenrechts im Bereich der Deutschen Bundesbahn
+- [DBBZStV](laws/DBBZStV.md) Verordnung zur Bestimmung der Zuständigen Stelle für den Betrieb des Digitalfunk BOS des Bundes
 - [DBeglG](laws/DBeglG.md) Dienstrechtliches Begleitgesetz im Zusammenhang mit dem Beschluß des Deutschen Bundestages vom 20. Juli 1991 zur Vollendung der Einheit Deutschlands
 - [DBGrG](laws/DBGrG.md) Gesetz über die Gründung einer Deutsche Bahn Aktiengesellschaft
 - [DBiblBDODAnO](laws/DBiblBDODAnO.md) Anordnung zur Durchführung der Bundesdisziplinarordnung für die Deutsche Bibliothek
@@ -3153,6 +3154,7 @@
 - [KflDiAusbV](laws/KflDiAusbV.md) Verordnung über die Berufsausbildung für Kaufleute in den Dienstleistungsbereichen Gesundheitswesen sowie Veranstaltungswirtschaft
 - [KfSachvG](laws/KfSachvG.md) Gesetz über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer für den Kraftfahrzeugverkehr
 - [KfSachvV](laws/KfSachvV.md) Verordnung zur Durchführung des Kraftfahrsachverständigengesetzes
+- [KFV](laws/KFV.md) Verordnung zur vorübergehenden Abweichung von der Binnenschiffspersonalverordnung für kleine Fahrgastschiffe
 - [KfWV](laws/KfWV.md) Verordnung zur Anwendung von bankaufsichtsrechtlichen Vorschriften auf die Kreditanstalt für Wiederaufbau sowie zur Zuweisung der Aufsicht über die Einhaltung dieser Vorschriften an die Bundesanstalt für Finanzdienstleistungsaufsicht
 - [Kfz-EEV](laws/Kfz-EEV.md) Verordnung über die Erfassung von Kfz-Energieverbrauchsdaten und ihre Übermittlung an die Europäische Kommission 1
 - [KfzAbk GBR](laws/KfzAbk_GBR.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Vereinigten Königreichs Großbritannien und Nordirland über die steuerliche Behandlung von Straßenfahrzeugen im internationalen Verkehr

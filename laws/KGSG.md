@@ -333,9 +333,9 @@ Die Ausfuhr von Kulturgut ist verboten, wenn
 
 (6) Eine durch Drohung, Bestechung oder Kollusion erwirkte oder durch unrichtige oder unvollständige Angaben erschlichene Genehmigung ist nichtig.
 
-(+++ § 22 Abs. 3 Satz 2: Zur Anwendung vgl. § 24 Abs. 6 +++)  
+(+++ § 22 Abs. 4 Satz 2: Zur Anwendung vgl. § 24 Abs. 6 +++)  
 (+++ § 22 Abs. 4 u. 5: Zur Anwendung vgl. § 23 Abs. 10 +++)  
-(+++ § 22 Abs. 4 u. 5: Zur Anwendung vgl. § 24 Abs. 9 +++)
+(+++ § 22 Abs. 5 u. 6: Zur Anwendung vgl. § 24 Abs. 9 +++)
 
 # § 23 – Genehmigung der dauerhaften Ausfuhr von nationalem Kulturgut
 
@@ -676,7 +676,7 @@ Die Pflichten nach Satz 1 Nummer 2 lassen urheberrechtliche Vorschriften unberü
 Münzen gelten nicht als archäologisches Kulturgut im Sinne des Satzes 1 Nummer 1, wenn es sie in großer Stückzahl gibt und sie für die Archäologie keinen relevanten Erkenntniswert haben. Maßgeblicher Wert ist bei einem Kauf der gezahlte Preis, in sonstigen Fällen ein begründeter inländischer Schätzwert.
 
 (+++ § 42 Abs. 2 u. 3: Zur Anwendung vgl. § 43 Satz 3 +++)  
-(+++ § 42 Abs. 3: Zur Anwendung vgl. § 44 Satz 2 +++)
+(+++ § 42 Abs. 3: Zur Nichtanwendung vgl. § 44 Satz 2 +++)
 
 # § 43 – Erleichterte Sorgfaltspflichten beim gewerblichen Inverkehrbringen
 
@@ -773,6 +773,8 @@ Ist Kulturgut entgegen einem im Amtsblatt der Europäischen Union veröffentlich
 (2) Lässt sich nicht klären, ob das Kulturgut nach dem 26. April 2007 verbracht worden ist, so wird widerleglich vermutet, dass das Kulturgut nach diesem Tag aus dem Hoheitsgebiet des Vertragsstaates verbracht worden ist. Diese Vermutung kann nur durch den Nachweis widerlegt werden, dass sich das Kulturgut schon vor diesem Tag im Bundesgebiet, im Binnenmarkt oder in einem Drittstaat befunden hat. Die Abgabe einer Versicherung an Eides statt ist zur Erbringung des Nachweises nach Satz 2 zulässig gemäß § 27 Absatz 1 des Verwaltungsverfahrensgesetzes sowie gemäß der Verwaltungsverfahrensgesetze der Länder. Für die Abnahme zuständig sind im Rahmen des behördlichen Vermittlungsverfahrens die in § 61 Absatz 1 Nummer 6 und 7 und § 62 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 genannten Behörden.
 
 (3) Wird der Nachweis erbracht, dass sich das Kulturgut vor dem 6. August 2016 im Bundesgebiet befunden hat, so sind abweichend von Absatz 1 für den Rückgabeanspruch des Vertragsstaates § 6 Absatz 2 und für die Entschädigung § 10 des Kulturgüterrückgabegesetzes vom 18. Mai 2007 (BGBl. I S. 757, 2547) in der bis zum 5. August 2016 geltenden Fassung anzuwenden.
+
+(+++ § 52 Abs. 2: Zur Anwendung vgl. § 33 Abs. 1 +++)
 
 # § 53 – Rückgabeanspruch nach der Haager Konvention
 

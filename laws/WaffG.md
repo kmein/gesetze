@@ -533,7 +533,7 @@ a) wegen eines Verbrechens,
 
 b) wegen sonstiger vorsätzlicher Straftaten zu einer Freiheitsstrafe von mindestens einem Jahr oder
 
-c) zu einer Freiheitsstrafe oder Geldstrafe von mindestens 90 Tagessätzen wegen einer Straftat nach den §§ 80a, 83 Absatz 2, § 84 Absatz 1 bis 3, § 85 Absatz 1 Satz 1 und Absatz 2, § 87 Absatz 1, § 88 Absatz 1, § 89 Absatz 1, § 89a Absatz 1 bis 3, § 89b Absatz 1, § 89c Absatz 1 und 2, § 91 Absatz 1, § 95 Absatz 1, § 96 Absatz 2 oder § 97b des Strafgesetzbuches, nach § 98 des Strafgesetzbuches, soweit nicht ein Fall des § 98 Absatz 2 des Strafgesetzbuches vorliegt, nach § 99 Absatz 2 des Strafgesetzbuches, soweit nicht ein Fall des § 99 Absatz 3 des Strafgesetzbuches vorliegt, nach § 100 Absatz 1 in Verbindung mit Absatz 4 des Strafgesetzbuches oder nach den §§ 129, § 129a Absatz 3 und 5 des Strafgesetzbuches, auch in Verbindung mit § 129b Absatz 1 des Strafgesetzbuches,
+c) zu einer Freiheitsstrafe oder Geldstrafe von mindestens 90 Tagessätzen wegen einer Straftat nach den §§ 80a, 83 Absatz 2, § 84 Absatz 1 bis 3, § 85 Absatz 1 Satz 1 und Absatz 2, § 87 Absatz 1, § 88 Absatz 1, § 89 Absatz 1, § 89a Absatz 1 bis 3, § 89b Absatz 1, § 89c Absatz 1 und 2, § 91 Absatz 1, § 95 Absatz 1, § 96 Absatz 2 oder § 97b des Strafgesetzbuches, nach § 98 des Strafgesetzbuches, soweit nicht ein Fall des § 98 Absatz 2 des Strafgesetzbuches vorliegt, nach § 99 Absatz 2 des Strafgesetzbuches, soweit nicht ein Fall des § 99 Absatz 3 des Strafgesetzbuches vorliegt, nach § 100a Absatz 1 in Verbindung mit Absatz 4 des Strafgesetzbuches oder nach den §§ 129, § 129a Absatz 3 und 5 des Strafgesetzbuches, auch in Verbindung mit § 129b Absatz 1 des Strafgesetzbuches,
 
 wenn seit dem Eintritt der Rechtskraft der letzten Verurteilung zehn Jahre noch nicht verstrichen sind,
 
@@ -1818,9 +1818,9 @@ b) Raubdelikte, Körperverletzungsdelikte, Bedrohungen, Nötigungen, Sexualdelik
 
 4. in bestimmten Jugend- und Bildungseinrichtungen sowie
 
-5. auf bestimmten öffentlichen Straßen, Wegen oder Plätzen, die an die in den Nummern 2 und 3 genannten Orte oder Einrichtungen angrenzen,
+5. auf bestimmten öffentlichen Straßen, Wegen oder Plätzen, die an die in den Nummern 3 und 4 genannten Orte oder Einrichtungen angrenzen,
 
-wenn Tatsachen die Annahme rechtfertigen, dass im Fall der Nummer 1 auch künftig mit der Begehung solcher Straftaten zu rechnen ist oder im Fall der Nummern 2 bis 5 das Verbot oder die Beschränkung zur Abwehr von Gefahren für die öffentliche Sicherheit erforderlich ist. In der Rechtsverordnung nach Satz 1 ist eine Ausnahme vom Verbot oder von der Beschränkung für Fälle vorzusehen, in denen für das Führen der Waffe oder des Messers ein berechtigtes Interesse vorliegt. Ein berechtigtes Interesse liegt insbesondere vor
+wenn Tatsachen die Annahme rechtfertigen, dass im Fall der Nummer 1 auch künftig mit der Begehung solcher Straftaten zu rechnen ist oder im Fall der Nummern 2 bis 5 das Verbot oder die Beschränkung zur Abwehr von Gefahren für die öffentliche Sicherheit erforderlich ist. In der Rechtsverordnung nach Satz 1 ist eine Ausnahme vom Verbot oder von der Beschränkung für Fälle vorzusehen, in denen für das Führen der Waffe oder des Messers ein berechtigtes Interesse vorliegt. Ein berechtigtes Interesse liegt in der Regel vor
 
 1. für das Führen von Waffen
 
@@ -1834,7 +1834,7 @@ d) für Rettungskräfte und Einsatzkräfte im Zivil- und Katastrophenschutz im Z
 
 2. für das Führen von Messern in den Fällen des Absatzes 4a Satz 2.
 
-Die Landesregierungen können die Ermächtigung nach Satz 1 in Verbindung mit Satz 2 durch Rechtsverordnung auf die zuständige Landesbehörde übertragen; diese kann die Ermächtigung durch Rechtsverordnung weiter übertragen.
+Die Landesregierungen können die Ermächtigung nach Satz 1 in Verbindung mit Satz 2 durch Rechtsverordnung auf die zuständige oberste Landesbehörde übertragen; diese kann die Ermächtigung durch Rechtsverordnung weiter übertragen.
 
 (+++ § 42 Abs. 1, 5 u. 6: Zur Nichtanwendung vgl. § 2 Nr. 1 Buchst. k WaffGBundFreistV +++)
 
@@ -1940,7 +1940,7 @@ einschließlich der Gründe hierfür, ergibt.
 
 (2) Hat jemand auf Grund einer Erlaubnis, die zurückgenommen, widerrufen oder erloschen ist, Waffen oder Munition erworben oder befugt besessen und besitzt er sie noch, so ordnet die zuständige Behörde an, dass er binnen angemessener Frist die Waffen oder Munition dauerhaft unbrauchbar macht oder einem Berechtigten überlässt und den Nachweis darüber gegenüber der Behörde führt. Nach fruchtlosem Ablauf der Frist stellt die zuständige Behörde die Waffen oder Munition sicher.
 
-(3) Besitzt jemand ohne die erforderliche Erlaubnis oder entgegen einem vollziehbaren Verbot nach § 41 Absatz 1 oder 2 eine Waffe oder Munition, so ordnet die zuständige Behörde an, dass er binnen angemessener Frist
+(3) Besitzt jemand ohne die erforderliche Erlaubnis eine Waffe oder Munition, so ordnet die zuständige Behörde an, dass er binnen angemessener Frist
 
 1. die Waffe oder Munition dauerhaft unbrauchbar macht oder einem Berechtigten überlässt oder
 
@@ -1968,7 +1968,7 @@ Die zuständige Behörde kann darüber hinaus für die Dauer der Prüfung von R�
 
 (6) Widerspruch und Anfechtungsklage gegen Maßnahmen der Absätze 1 bis 5 haben keine aufschiebende Wirkung.
 
-(7) Sofern der bisherige Inhaber nicht innerhalb eines Monats nach einer Sicherstellung nach Absatz 4 Satz 1 einen empfangsbereiten Berechtigten benennt oder im Fall der Sicherstellung verbotener Waffen oder Munition nicht in dieser Frist eine Ausnahmezulassung nach § 40 Absatz 4 beantragt, kann die zuständige Behörde die sichergestellten Waffen oder Munition einziehen und verwerten oder vernichten. Dieselben Befugnisse besitzt die zuständige Behörde im Fall der unanfechtbaren Versagung einer für verbotene Waffen oder Munition vor oder rechtzeitig nach der Sicherstellung beantragten Ausnahmezulassung nach § 40 Absatz 4. Der Erlös aus einer Verwertung der Waffen oder Munition steht nach Abzug der Kosten der Sicherstellung, Verwahrung und Verwertung dem nach bürgerlichem Recht bisher Berechtigten zu.
+(7) Sofern der bisherige Inhaber nicht innerhalb eines Monats nach einer Sicherstellung nach Absatz 2 Satz 2, Absatz 3 Satz 2 oder Absatz 4 Satz 1 einen empfangsbereiten Berechtigten benennt oder im Fall der Sicherstellung verbotener Waffen oder Munition nicht in dieser Frist eine Ausnahmezulassung nach § 40 Absatz 4 beantragt, kann die zuständige Behörde die sichergestellten Waffen oder die sichergestellte Munition einziehen und verwerten oder vernichten. Dieselben Befugnisse besitzt die zuständige Behörde im Fall der unanfechtbaren Versagung einer für verbotene Waffen oder Munition vor oder rechtzeitig nach der Sicherstellung beantragten Ausnahmezulassung nach § 40 Absatz 4. Der Erlös aus einer Verwertung der Waffen oder Munition steht nach Abzug der Kosten der Sicherstellung, Verwahrung und Verwertung dem nach bürgerlichem Recht bisher Berechtigten zu.
 
 (+++ § 46: Zur Anwendung vgl. § 1 WaffV 5 +++)
 
@@ -2157,7 +2157,7 @@ entgegen § 57 Abs. 5 Satz 1 den Besitz über eine Schusswaffe oder Munition aus
 
 21. entgegen § 39 Abs. 1 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-21a. entgegen § 42 Absatz 4a ein Messer führt,
+21a. entgegen § 42 Absatz 4a Satz 1 in Verbindung mit Absatz 1 ein Messer führt,
 
 21b. entgegen § 42a Abs. 1 eine Anscheinswaffe, eine dort genannte Hieb- oder Stoßwaffe oder ein dort genanntes Messer führt,
 
@@ -2299,7 +2299,7 @@ sind § 10 und Abschnitt 2 Unterabschnitt 5 nicht anzuwenden, wenn ihnen das Bun
 
 (23) Hat eine Landesregierung eine Rechtsverordnung nach § 27a Absatz 4 nicht erlassen, so gilt für das betreffende Land § 12 Absatz 4 bis 6 der Allgemeinen Waffengesetz-Verordnung in der am 19. Februar 2020 geltenden Fassung fort.
 
-(24) Wer ein am 31. Oktober 2024 unerlaubt besessenes Springmesser bis zum 1. Oktober 2025 einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle übergibt, wird nicht wegen unerlaubten Erwerbs, unerlaubten Besitzes, unerlaubten Führens auf dem direkten Weg zur Übergabe an die zuständige Behörde oder Polizeidienststelle oder wegen unerlaubten Verbringens bestraft. Der vormalige unerlaubte Erwerb, der vormalige unerlaubte Besitz oder das vormalige unerlaubte Führen oder das unerlaubte Verbringen der Springmesser bleiben für die Personen, die die Gegenstände nach Satz 1 einem Berechtigten, einer zuständigen Behörde oder einer Polizeidienststelle übergeben haben, in Bezug auf ihre im Verwaltungsverfahren zu beurteilende waffenrechtliche Zuverlässigkeit sanktionslos.
+(24) Wer ein am 31. Oktober 2024 unerlaubt besessenes Springmesser bis zum 1. Oktober 2025 einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle übergibt, wird nicht wegen unerlaubten Erwerbs, unerlaubten Besitzes, unerlaubten Führens auf dem direkten Weg zur Übergabe an den Berechtigten, die zuständige Behörde oder die Polizeidienststelle oder wegen unerlaubten Verbringens bestraft. Der vormalige unerlaubte Erwerb, der vormalige unerlaubte Besitz oder das vormalige unerlaubte Führen oder das unerlaubte Verbringen der Springmesser bleiben für die Personen, die die Gegenstände nach Satz 1 einem Berechtigten, einer zuständigen Behörde oder einer Polizeidienststelle übergeben haben, in Bezug auf ihre im Verwaltungsverfahren zu beurteilende waffenrechtliche Zuverlässigkeit sanktionslos.
 
 (+++ § 58: Zur Nichtanwendung vgl. § 2 Nr. 1 Buchst. m WaffGBundFreistV +++)
 
@@ -2702,7 +2702,13 @@ Der Umgang, ausgenommen das Überlassen, mit Waffen im Sinne des § 1 Absatz 2 N
 Erlaubnisfreie Arten des Umgangs  
 1. Erlaubnisfreier Erwerb und Besitz  
 1.1  
-Druckluft-, Federdruckwaffen und Waffen, bei denen zum Antrieb der Geschosse kalte Treibgase Verwendung finden, wenn den Geschossen eine Bewegungsenergie von nicht mehr als 7,5 Joule erteilt wird und die das Kennzeichen nach Anlage 1 Abbildung 1 zur Ersten Verordnung zum Waffengesetz vom 24. Mai 1976 (BGBl. I S. 1285) in der zum Zeitpunkt des Inkrafttretens dieses Gesetzes geltenden Fassung oder ein durch Rechtsverordnung nach § 25 Nummer 1 bestimmtes Zeichen tragen;  
+Druckluft-, Federdruckwaffen und Waffen, bei denen zum Antrieb der Geschosse kalte Treibgase Verwendung finden, wenn den Geschossen eine Bewegungsenergie von nicht mehr als 7,5 Joule erteilt wird, und die das Kennzeichen nach Anlage 1 Abbildung 1 zur Ersten Verordnung zum Waffengesetz vom 24. Mai 1976 (BGBl. I S. 1285) in der zum Zeitpunkt des Inkrafttretens dieses Gesetzes geltenden Fassung oder ein durch Rechtsverordnung nach § 25 Nummer 1 bestimmtes Zeichen tragen, sofern
+
+a) diese nicht nach ihrer Beschaffenheit in Bezug auf Geschosse mit einer Länge von mehr als 30 mm mehrschüssig sind und
+
+b) die Bestätigung zum Aufbringen des Kennzeichens nach § 11 Absatz 6 Satz 4 der Beschussverordnung oder das Aufbringen des Kennzeichens nach § 11 Absatz 6 Satz 5 der Beschussverordnung nicht vor dem 24. Juli 2025 erfolgt ist;
+
+  
 1.2  
 Druckluft-, Federdruckwaffen und Waffen, bei denen zum Antrieb der Geschosse kalte Treibgase Verwendung finden, die vor dem 1. Januar 1970 oder in dem in Artikel 3 des Einigungsvertrages genannten Gebiet vor dem 2. April 1991 hergestellt und entsprechend den zu diesem Zeitpunkt geltenden Bestimmungen in den Handel gebracht worden sind;  
 1.3  

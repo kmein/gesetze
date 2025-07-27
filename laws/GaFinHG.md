@@ -11,7 +11,7 @@
 
 # § 2 – Förderzeitraum
 
-Förderfähig sind Maßnahmen, die ab dem Inkrafttreten dieses Gesetzes begonnen und bis zum 31. Dezember 2027 abgeschlossen werden. Maßnahmen sind auch selbständige Abschnitte eines Vorhabens. Alle geförderten Maßnahmen sind bis zum 30. Juni 2028 abzurechnen.
+Förderfähig sind Maßnahmen, die ab dem Inkrafttreten dieses Gesetzes begonnen und bis zum 31. Dezember 2029 abgeschlossen werden. Maßnahmen sind auch selbständige Abschnitte eines Vorhabens. Alle geförderten Maßnahmen sind bis zum 30. Juni 2030 abzurechnen.
 
 # § 3 – Förderbereiche
 
@@ -126,13 +126,13 @@ für das Jahr 2019</th>
 
 (2) Der Betrag nach § 1 Absatz 3 Satz 2 wird gemäß dem Königsteiner Schlüssel in der zum 12. Oktober 2021 geltenden Fassung auf die Länder verteilt.
 
-(3) Der Betrag der Mittel nach § 1 Absatz 2 und 3, der nicht bis zum Stichtag 31. Dezember 2026 bewilligt worden ist, wird umverteilt und fließt im Verhältnis des den Ländern nach Absatz 1 zustehenden Anteils den Ländern zu, die die zur Verfügung gestellten Mittel vollständig bewilligt haben. Eine Umverteilung findet ab einem Gesamtvolumen von 65 000 Euro statt. Wird dieses Gesamtvolumen nicht erreicht, werden die nicht bewilligten Mittel an den Bundeshaushalt abgeführt. Mittel, die den Ländern nach dem 31. Dezember 2026 im Rahmen der Umverteilung bereitgestellt werden, müssen vollständig bis zum 30. Juni 2027 bewilligt werden.
+(3) Der Betrag der Mittel nach § 1 Absatz 2 und 3, der nicht bis zum Stichtag 31. Dezember 2028 bewilligt worden ist, wird umverteilt und fließt im Verhältnis des den Ländern nach Absatz 1 zustehenden Anteils den Ländern zu, die die zur Verfügung gestellten Mittel vollständig bewilligt haben. Eine Umverteilung findet ab einem Gesamtvolumen von 65 000 Euro statt. Wird dieses Gesamtvolumen nicht erreicht, werden die nicht bewilligten Mittel an den Bundeshaushalt abgeführt. Mittel, die den Ländern nach dem 31. Dezember 2028 im Rahmen der Umverteilung bereitgestellt werden, müssen vollständig bis zum 30. Juni 2029 bewilligt werden.
 
 # § 6 – Bewirtschaftung und Geschäftsstelle
 
 (1) Der Bund stellt die Finanzhilfen den Ländern zur eigenen Bewirtschaftung nach dem jeweiligen Haushaltsrecht der Länder zur Verfügung. Den Ländern obliegt die Regelung und Durchführung des Verfahrens zur Verwendung der Finanzhilfen des Bundes. Die zuständigen Stellen der Länder sind ermächtigt, die Auszahlung der Bundesmittel anzuordnen, sobald sie zur Begleichung erforderlicher Zahlungen benötigt werden. Die Länder leiten die Finanzhilfen des Bundes unverzüglich an die Letztempfänger weiter. Die Letztempfänger sind verpflichtet, angemessen auf die Bundesförderung hinzuweisen.
 
-(2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Bildung und Forschung richten eine gemeinsame, paritätisch besetzte Geschäftsstelle zur Wahrnehmung der Aufgaben des Bundes ein.
+(2) Die nach § 6 Absatz 2 in der bis zum 23. Juli 2025 geltenden Fassung dieses Gesetzes eingerichtete Geschäftsstelle zur Wahrnehmung der Aufgaben des Bundes wird im Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend fortgeführt.
 
 # § 7 – Verbot der Doppelförderung
 
@@ -146,7 +146,7 @@ für das Jahr 2019</th>
 
 # § 8 – Überprüfung der Bundesmittelverwendung
 
-Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Bildung und Forschung überprüfen für den Bund halbjährlich die zweckentsprechende Verwendung der Bundesmittel. Zu diesem Zweck berichten die Länder dem Bund über die zweckentsprechende Inanspruchnahme der Bundesmittel, insbesondere über Anzahl und Art der geförderten Maßnahmen.
+Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend überprüft für den Bund halbjährlich die zweckentsprechende Verwendung der Bundesmittel. Zu diesem Zweck berichten die Länder dem Bund über die zweckentsprechende Inanspruchnahme der Bundesmittel, insbesondere über Anzahl und Art der geförderten Maßnahmen.
 
 # § 9 – Rückzahlung von Bundesmitteln
 

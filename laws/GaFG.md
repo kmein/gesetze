@@ -13,7 +13,7 @@ Aus dem Sondervermögen werden den Ländern Finanzhilfen für gesamtstaatlich be
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Das Sondervermögen kann jedoch unter seinem Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der allgemeine Gerichtsstand des Sondervermögens ist der Sitz der Bundesregierung.
 
-(2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Bildung und Forschung verwalten das Sondervermögen. Sie können sich bei der Verwaltung des Sondervermögens anderer Bundesbehörden oder Dritter bedienen.
+(2) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend verwaltet das Sondervermögen. Es kann sich bei der Verwaltung des Sondervermögens anderer Bundesbehörden oder Dritter bedienen.
 
 (3) Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten zu trennen.
 
@@ -47,7 +47,7 @@ Das Sondervermögen kann zur Erfüllung des gesetzlichen Zwecks Rücklagen bilde
 
 # § 7 – Jahresrechnung für das Sondervermögen
 
-Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Bildung und Forschung stellen am Schluss eines jeden Rechnungsjahres die Rechnung über die Einnahmen und Ausgaben des Sondervermögens auf und fügen sie den Übersichten zur Haushaltsrechnung des Bundes bei.
+Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend stellt am Schluss eines jeden Rechnungsjahres die Rechnung über die Einnahmen und Ausgaben des Sondervermögens auf und fügt sie den Übersichten zur Haushaltsrechnung des Bundes bei.
 
 # § 8 – Verwaltungskosten des Sondervermögens
 
@@ -55,7 +55,7 @@ Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 # § 9 – Auflösung des Sondervermögens
 
-(1) Das Sondervermögen gilt am 31. Dezember des Jahres, in dem seine Mittel nach § 4 für die Erfüllung seiner gesetzlichen Aufgaben vollständig verbraucht sind, als aufgelöst, spätestens am 31. Dezember 2028.
+(1) Das Sondervermögen gilt am 31. Dezember des Jahres, in dem seine Mittel nach § 4 für die Erfüllung seiner gesetzlichen Aufgaben vollständig verbraucht sind, als aufgelöst, spätestens am 31. Dezember 2030.
 
 (2) Ein verbleibendes Vermögen fällt dem Bund zu. Die Einzelheiten der Abwicklung des Sondervermögens nach seiner Auflösung bestimmt die Bundesregierung in einer Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 

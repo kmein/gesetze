@@ -530,9 +530,9 @@ Wählt eine SE gemäß Artikel 38 Buchstabe b der Verordnung in ihrer Satzung da
 
 |                              |                |
 |:-----------------------------|:---------------|
-| bis zu 1.500.000 Euro        | neun,          |
-| von mehr als 1.500.000 Euro  | fünfzehn,      |
-| von mehr als 10.000.000 Euro | einundzwanzig. |
+| bis zu 1 500 000 Euro        | neun,          |
+| von mehr als 1 500 000 Euro  | fünfzehn,      |
+| von mehr als 10 000 000 Euro | einundzwanzig. |
 
 (2) Die Beteiligung der Arbeitnehmer nach dem SE-Beteiligungsgesetz bleibt unberührt.
 

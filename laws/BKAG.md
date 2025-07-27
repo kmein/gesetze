@@ -419,7 +419,7 @@ Personenbezogene Daten, die durch Herstellung von Lichtbildern oder Bildaufzeich
 
 5. Unterstützung bei der Erstellung von strategischen Analysen und Statistiken.
 
-(3) Mit seinem Informationssystem nimmt das Bundeskriminalamt nach Maßgabe der §§ 29 und 30 am polizeilichen Informationsverbund nach § 29 teil.
+(3) Mit seinem Informationssystem nimmt das Bundeskriminalamt nach Maßgabe der §§ 29, 30 und 30a am polizeilichen Informationsverbund nach § 29 teil.
 
 # § 14 – Kennzeichnung
 
@@ -814,7 +814,7 @@ Satz 1 Nummer 1 gilt nicht für Übermittlungen an die Staatsanwaltschaften.
 
 Die am polizeilichen Informationsverbund teilnehmenden Stellen haben das Recht, Daten zur Erfüllung der Verpflichtung nach § 32 im automatisierten Verfahren einzugeben und, soweit dies zur jeweiligen Aufgabenerfüllung erforderlich ist, abzurufen.
 
-(4) Durch organisatorische und technische Maßnahmen hat das Bundeskriminalamt sicherzustellen, dass Eingaben von und Zugriffe auf Daten im polizeilichen Informationsverbund nur möglich sind, soweit die jeweiligen Behörden hierzu berechtigt sind. § 12 Absatz 2 bis 5, die §§ 14, 15 und 16 Absatz 1, 2, 5 und 6, § 18 Absatz 1, 2, 4 und 5, § 19 Absatz 1 und 2 sowie die §§ 20 und 91 gelten entsprechend.
+(4) Durch organisatorische und technische Maßnahmen hat das Bundeskriminalamt sicherzustellen, dass Eingaben von und Zugriffe auf Daten im polizeilichen Informationsverbund nur möglich sind, soweit die jeweiligen Behörden hierzu berechtigt sind.
 
 (5) Nur die Behörde, die Daten zu einer Person eingegeben hat, ist befugt, diese zu ändern, zu berichtigen oder zu löschen. Hat eine teilnehmende Stelle des polizeilichen Informationsverbundes Anhaltspunkte dafür, dass Daten unrichtig oder zu löschen sind, teilt sie dies umgehend der eingebenden Behörde mit, die verpflichtet ist, diese Mitteilung unverzüglich zu prüfen und erforderlichenfalls die Daten unverzüglich zu berichtigen oder zu löschen oder in ihrer Verarbeitung einzuschränken. Sind Daten zu einer Person gespeichert, kann jede teilnehmende Stelle des polizeilichen Informationsverbundes weitere Daten ergänzend eingeben.
 
@@ -847,6 +847,12 @@ b) zu Zwecken der Fahndung nach Personen und Sachen, soweit das Bundeskriminalam
 (Verbundrelevanz).
 
 (2) Die am polizeilichen Informationsverbund teilnehmenden Stellen legen unter Beteiligung der jeweils zuständigen obersten Bundes- oder Landesbehörden Kriterien fest, die bestimmen, welche Straftaten nach allgemeiner kriminalistischer Erfahrung die Voraussetzungen nach Absatz 1 Nummer 1 erfüllen. Die Kriterien können sich an den unterschiedlichen kriminalistischen Phänomenbereichen orientieren. Die Kriterien sind in angemessenen Abständen und, soweit erforderlich, zu aktualisieren. Die Festlegung und Aktualisierung dieser Kriterien erfolgen im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit.
+
+# § 30a – Besondere Regelungen für die Weiterverarbeitung personenbezogener Daten im polizeilichen Informationsverbund
+
+(1) Für die Weiterverarbeitung von Daten im polizeilichen Informationsverbund gelten § 12 Absatz 2 bis 5, die §§ 14, 15 und 16 Absatz 1, 2, 5 und 6, § 18 Absatz 1, 2, 4 und 5, § 19 Absatz 1 und 2 sowie die §§ 20 und 91 entsprechend, soweit in Absatz 2 nichts anderes geregelt ist.
+
+(2) Die vorsorgende Speicherung personenbezogener Daten von Beschuldigten und Tatverdächtigen ist nur zulässig, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass wegen der Art oder Ausführung der Tat, der Persönlichkeit der betroffenen Person oder sonstiger Erkenntnisse eine hinreichende Wahrscheinlichkeit dafür besteht, dass die betroffene Person künftig Straftaten begehen wird und gerade die Weiterverarbeitung der gespeicherten Daten zu deren Verhütung und Verfolgung beitragen kann.
 
 # § 31 – Datenschutzrechtliche Verantwortung im polizeilichen Informationsverbund
 
@@ -1140,7 +1146,13 @@ b) sich dort Personen ohne erforderlichen Aufenthaltstitel treffen oder
 
 3. eine Person, deren individuelles Verhalten die konkrete Wahrscheinlichkeit begründet, dass sie innerhalb eines übersehbaren Zeitraums eine Straftat nach § 5 Absatz 1 Satz 2 begehen wird, oder
 
-4. eine Person nach § 39 Absatz 2 Nummer 2,
+4. eine Person, die in nicht nur flüchtigem oder zufälligem Kontakt mit einer Person steht, gegen die der Einsatz besonderer Mittel nach Nummer 1, 2 oder 3 zulässig wäre und
+
+a) die von der Vorbereitung der Straftat nach § 5 Absatz 1 Satz 2 Kenntnis hat,
+
+b) die aus der Verwertung der Tat Vorteile ziehen könnte oder
+
+c) derer sich die Person nach Nummer 1, 2 oder 3 zur Begehung der Straftat bedienen könnte,
 
 wenn die Abwehr der Gefahr oder die Verhütung der Straftaten auf andere Weise aussichtslos ist oder wesentlich erschwert wäre. Die Maßnahme kann auch durchgeführt werden, wenn Dritte unvermeidbar betroffen werden.
 
@@ -1206,8 +1218,7 @@ Soweit es für den Aufbau und die Aufrechterhaltung der Legende eines Verdeckten
 
 (8) Bei Gefahr im Verzug kann die Präsidentin oder der Präsident des Bundeskriminalamtes oder ihre oder seine Vertretung im Benehmen mit der oder dem Datenschutzbeauftragten des Bundeskriminalamtes über die Verwertung der Erkenntnisse entscheiden. Bei der Sichtung der erhobenen Daten kann sie oder er sich der technischen Unterstützung von zwei weiteren Bediensteten des Bundeskriminalamtes bedienen, von denen einer die Befähigung zum Richteramt haben muss. Die Bediensteten des Bundeskriminalamtes sind zur Verschwiegenheit über die ihnen bekannt werdenden Erkenntnisse, die nicht verwertet werden dürfen, verpflichtet. Die gerichtliche Entscheidung nach Absatz 7 ist unverzüglich nachzuholen.
 
-(+++ § 45 Abs. 4, 5, 7 u. 8: Zur Anwendung vgl. § 64 Abs. 4 +++)  
-§ 45 Abs. 1 Satz 1 Nr. 4 idF d. G v. 1.6.2017 I 1354: Nach Maßgabe der Entscheidungsformel mit Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG unvereinbar gem. Nr. 1 BVerfGE v. 1.10.2024 I Nr. 349 - 1 BvR 1160/19 -. Gem. Nr. 2 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften nach Maßgabe der Gründe zu D. II. 2b der BVerfGE, bis zu einer Neuregelung, längstens jedoch bis zum 31. Juli 2025, fort; gem. Beschluss BVerfG v. 3.6.2025 – Az. 1 BvR 1160/19 – gilt § 45 Abs. 1 Satz 1 Nr. 4 idF d. G. v 1.6.2017 I 1354 über den 31. Juli 2025 hinaus bis zum Inkrafttreten einer Neuregelung, längstens jedoch bis zum 31. März 2026, nach Maßgabe der Gründe zu D II 2 b des Urteils des Senats vom 01.Oktober 2024 (1 BvR 1160/19)
+(+++ § 45 Abs. 4, 5, 7 u. 8: Zur Anwendung vgl. § 64 Abs. 4 +++)
 
 # § 46 – Besondere Bestimmungen über den Einsatz technischer Mittel in oder aus Wohnungen
 
@@ -1997,7 +2008,17 @@ Werden personenbezogene Daten von Kindern, die ohne Kenntnis der Sorgeberechtigt
 
 (5) Im Falle der Übermittlung nach Absatz 4 Satz 1 legt das Bundeskriminalamt bei Speicherung der personenbezogenen Daten im Informationssystem außerhalb des polizeilichen Informationsverbundes im Benehmen mit der übermittelnden Stelle die Aussonderungsprüffrist nach Absatz 1 oder Absatz 2 fest. Die anliefernde Stelle hat das Bundeskriminalamt zu unterrichten, wenn sie feststellt, dass zu löschende oder in ihrer Verarbeitung einzuschränkende Daten übermittelt worden sind. Entsprechendes gilt, wenn die anliefernde Stelle feststellt, dass unrichtige Daten übermittelt wurden und die Berichtigung zur Wahrung schutzwürdiger Interessen der betroffenen Person oder zur Erfüllung der Aufgaben der anliefernden Stelle oder des Bundeskriminalamtes erforderlich ist.
 
-(6) Bei im polizeilichen Informationsverbund gespeicherten personenbezogenen Daten obliegen die in § 75 des Bundesdatenschutzgesetzes und den Absätzen 1 bis 3 genannten Verpflichtungen der Stelle, die die datenschutzrechtliche Verantwortung nach § 31 Absatz 2 trägt. Absatz 4 Satz 3 gilt für die zur Löschung verpflichtete Landesbehörde entsprechend. In diesem Fall überlässt die Landesbehörde dem Bundeskriminalamt die entsprechenden schriftlichen Unterlagen.
+(6) Bei im polizeilichen Informationsverbund gespeicherten personenbezogenen Daten obliegen die in § 75 des Bundesdatenschutzgesetzes und den Absätzen 1 bis 3 sowie 7 und 8 genannten Verpflichtungen der Stelle, die die datenschutzrechtliche Verantwortung nach § 31 Absatz 2 trägt. Absatz 4 Satz 3 gilt für die zur Löschung verpflichtete Landesbehörde entsprechend. In diesem Fall überlässt die Landesbehörde dem Bundeskriminalamt die entsprechenden schriftlichen Unterlagen.
+
+(7) Für die Aussonderungsprüffristen nach § 75 Absatz 4 des Bundesdatenschutzgesetzes gilt für im polizeilichen Informationsverbund vorsorgend gespeicherte personenbezogene Daten von Beschuldigten und Tatverdächtigen, dass die Aussonderungsprüffrist nicht überschreiten darf
+
+1. bei Erwachsenen fünf Jahre, bei Jugendlichen vier Jahre und bei Kindern zwei Jahre, sofern der Anlass eine schwere Straftat nach § 100a Absatz 2 der Strafprozessordnung ist;
+
+2. in allen anderen Fällen bei Erwachsenen drei Jahre, bei Jugendlichen zwei Jahre und bei Kindern ein Jahr.
+
+Bei der Festlegung der Aussonderungsprüffrist ist nach Art und Schwere des zugrundliegenden Sachverhalts sowie des Eingriffsgewichts der Datenerhebung zu unterscheiden. Liegen bei Ablauf der Aussonderungsprüffrist weiterhin oder neu hinzutretende relevante Umstände für die nach § 30a Absatz 2 zu treffende Prognose vor, kann eine erneute Aussonderungsprüffrist nach Satz 1 festgelegt werden. Anderenfalls sind die Daten zu löschen. In den Fällen des Satzes 1 Nummer 2 kann höchstens zweimal eine erneute Aussonderungsprüffrist festgelegt werden. In den Fällen des Satzes 1 Nummer 1 kann auch mehr als zweimal eine erneute Aussonderungsprüffrist festgelegt werden.
+
+(8) Für die Aussonderungsprüffristen nach § 75 Absatz 4 des Bundesdatenschutzgesetzes gilt für im polizeilichen Informationsverbund vorsorgend gespeicherte personenbezogene Daten von Anlasspersonen, dass die Aussonderungsprüffrist bei Erwachsenen zwei Jahre, bei Jugendlichen und Kindern ein Jahr nicht überschreiten darf. Absatz 7 Satz 2 gilt entsprechend. Liegen bei Ablauf der Aussonderungsprüffrist weiterhin oder neu hinzutretende relevante Umstände für die nach § 30a Absatz 1 in Verbindung mit § 18 Absatz 1 Nummer 4 zu treffende Prognose vor, kann eine erneute Aussonderungsprüffrist nach Satz 1 festgelegt werden. Anderenfalls sind die Daten zu löschen. Eine erneute Aussonderungsprüffrist kann vorbehaltlich des Satzes 6 höchstens zweimal festgelegt werden. Liegen in den Fällen des § 30a Absatz 1 in Verbindung mit § 18 Absatz 1 Nummer 4 tatsächliche Anhaltspunkte dafür vor, dass die betroffene Person in naher Zukunft eine schwere Straftat nach § 100a Absatz 2 der Strafprozessordnung begehen wird, kann auch mehr als zweimal eine erneute Aussonderungsprüffrist festgelegt werden.
 
 (+++ § 77 Abs. 4 u. 5: Zur Anwendung vgl. § 78 Abs. 5 +++)
 

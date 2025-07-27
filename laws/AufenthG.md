@@ -5,7 +5,7 @@
 
 # § 1 – Zweck des Gesetzes; Anwendungsbereich
 
-(1) Das Gesetz dient der Steuerung des Zuzugs von Ausländern in die Bundesrepublik Deutschland. Es ermöglicht und gestaltet Zuwanderung unter Berücksichtigung der Aufnahme- und Integrationsfähigkeit sowie der wirtschaftlichen und arbeitsmarktpolitischen Interessen der Bundesrepublik Deutschland. Das Gesetz dient zugleich der Erfüllung der humanitären Verpflichtungen der Bundesrepublik Deutschland. Es regelt hierzu die Einreise, den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern. Die Regelungen in anderen Gesetzen bleiben unberührt.
+(1) Das Gesetz dient der Steuerung und Begrenzung des Zuzugs von Ausländern in die Bundesrepublik Deutschland. Es ermöglicht und gestaltet Zuwanderung unter Berücksichtigung der Aufnahme- und Integrationsfähigkeit sowie der wirtschaftlichen und arbeitsmarktpolitischen Interessen der Bundesrepublik Deutschland. Das Gesetz dient zugleich der Erfüllung der humanitären Verpflichtungen der Bundesrepublik Deutschland. Es regelt hierzu die Einreise, den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern. Die Regelungen in anderen Gesetzen bleiben unberührt.
 
 (2) Dieses Gesetz findet keine Anwendung auf Ausländer,
 
@@ -4753,7 +4753,7 @@ Für Personen, die vor dem Inkrafttreten dieses Gesetzes gemäß § 1 des Gesetz
 
 (13) Die Vorschriften von Kapitel 2 Abschnitt 6 in der bis zum 31. Juli 2018 geltenden Fassung finden weiter Anwendung auf den Familiennachzug zu Ausländern, denen bis zum 17. März 2016 eine Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative erteilt worden ist, wenn der Antrag auf erstmalige Erteilung eines Aufenthaltstitels zum Zwecke des Familiennachzugs zu dem Ausländer bis zum 31. Juli 2018 gestellt worden ist. § 27 Absatz 3a findet Anwendung.
 
-(14) (weggefallen)
+(14) Bis zum Ablauf des 23. Juli 2027 wird ein Familiennachzug nach § 36a zu einer Person, der eine Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative erteilt worden ist, nicht gewährt. Die §§ 22 und 23 bleiben unberührt.
 
 (15) Wurde eine Duldung nach § 60a Absatz 2 Satz 4 in der bis zum 31. Dezember 2019 geltenden Fassung erteilt, gilt § 19d Absatz 1 Nummer 4 und 5 nicht, wenn zum Zeitpunkt der Antragstellung auf eine Aufenthaltserlaubnis nach § 19d Absatz 1a der Ausländer die erforderlichen und ihm zumutbaren Maßnahmen für die Identitätsklärung ergriffen hat.
 
