@@ -826,7 +826,7 @@
 - [BImSchG](laws/BImSchG.md) Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge
 - [BinSch-SportbootVermV](laws/BinSch-SportbootVermV.md) Verordnung über die gewerbsmäßige Vermietung von Sportbooten sowie deren Benutzung auf den Binnenschifffahrtsstraßen
 - [BinSchAbfÜbkAG](laws/BinSchAbfÜbkAG.md) Ausführungsgesetz zum Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt
-- [BinSchAbgasV](laws/BinSchAbgasV.md) Verordnung über die Begrenzung von Abgasemissionen aus Dieselmotoren in der Binnenschifffahrt
+- [BinSchAbgasV](laws/BinSchAbgasV.md) Verordnung über die Begrenzung von Abgasemissionen aus Dieselmotoren in der Binnenschifffahrt *)
 - [BinSchAbk CSK](laws/BinSchAbk_CSK.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Tschechoslowakischen Sozialistischen Republik über den Binnenschiffsverkehr
 - [BinSchAbk GEOR](laws/BinSchAbk_GEOR.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Georgien über die Binnenschiffahrt
 - [BinSchAbk HUN](laws/BinSchAbk_HUN.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Ungarischen Volksrepublik über die Binnenschiffahrt
@@ -1233,7 +1233,6 @@
 - [BTEpiFortbestBek 2021-06](laws/BTEpiFortbestBek_2021-06.md) Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite
 - [BTEpiFortbestBek 2021-08](laws/BTEpiFortbestBek_2021-08.md) Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite
 - [BTGO 1980](laws/BTGO_1980.md) Geschäftsordnung des Deutschen Bundestages
-- [BTGO1980ÄndBek 2022-07](laws/BTGO1980ÄndBek_2022-07.md) Bekanntmachung zur Änderung der Geschäftsordnung des Deutschen Bundestages
 - [BTGO1980Anl 2a](laws/BTGO1980Anl_2a.md) Verhaltenskodex für Interessenvertreterinnen und Interessenvertreter im Rahmen des Lobbyregistergesetzes (Anlage 2a der Geschäftsordnung des Deutschen Bundestages, BGBl. I 1980, 1237)
 - [BTGO1980Anl 3](laws/BTGO1980Anl_3.md) Geheimschutzordnung des Deutschen Bundestages (Anlage 3 der Geschäftsordnung des Deutschen Bundestages, BGBl. I 1980, 1237)
 - [BTGO1980Anl 4](laws/BTGO1980Anl_4.md) Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen (Anlage 4 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
@@ -1752,7 +1751,6 @@
 - [ElekMaschBHwOAusbV](laws/ElekMaschBHwOAusbV.md) Verordnung über die Berufsausbildung zum Elektroniker für Maschinen und Antriebstechnik nach der Handwerksordnung und zur Elektronikerin für Maschinen und Antriebstechnik nach der Handwerksordnung*
 - [ElekMeistPrV 2004](laws/ElekMeistPrV_2004.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Elektrotechnik
 - [ElektroG](laws/ElektroG.md) Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Elektro- und Elektronikgeräten
-- [ElektroG2015ÄndG 1](laws/ElektroG2015ÄndG_1.md) Erstes Gesetz zur Änderung des Elektro- und Elektronikgerätegesetzes*
 - [ElektroGBattGGebV](laws/ElektroGBattGGebV.md) Gebührenverordnung zum Elektro- und Elektronikgerätegesetz und zum Batteriegesetz
 - [ElektroMbMstrV](laws/ElektroMbMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Elektromaschinenbauer-Handwerk
 - [ElektroStoffV](laws/ElektroStoffV.md) Verordnung zur Beschränkung der Verwendung gefährlicher Stoffe in Elektro- und Elektronikgeräten 1 , 2

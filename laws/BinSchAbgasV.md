@@ -1,4 +1,4 @@
-% Verordnung über die Begrenzung von Abgasemissionen aus Dieselmotoren in der Binnenschifffahrt  (Binnenschiffs-Abgasemissionsverordnung - BinSchAbgasV)
+% Verordnung über die Begrenzung von Abgasemissionen aus Dieselmotoren in der Binnenschifffahrt*)  (Binnenschiffs-Abgasemissionsverordnung - BinSchAbgasV)
 % Ausfertigungsdatum: 20.08.2005
  
 # § 1 – Anwendungsbereich

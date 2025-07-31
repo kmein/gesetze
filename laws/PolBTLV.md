@@ -143,9 +143,10 @@ Auf Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte, die bei Inkrafttreten d
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahnen des Polizeivollzugsdienstes beim Deutschen Bundestag vom 27. August 2003 (BGBl. I S. 1678), die zuletzt durch Artikel 3 Absatz 3 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, außer Kraft.
 
-# Anlage – (zu § 3)
+# Anlage – (zu § 3)Zu den Laufbahnen gehörende Ämter; Amtsbezeichnungen
 
-(Fundstelle: BGBl. I 2013, 3285)
+(Fundstelle: BGBl. I 2013, 3285;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
