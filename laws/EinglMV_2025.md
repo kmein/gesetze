@@ -103,9 +103,10 @@ zugelassener kommunaler Träger
 
 # Anlage 4 – (zu § 1 Absatz 7 Satz 4)Verteilung des Aufwendungsersatzes für Teilnehmenden an Förderungen der beruflichen Rehabilitation
 
-(Fundstelle: BGBl. 2024 I Nr. 420, S. 35 - 43)
+(Fundstelle: BGBl. 2025 I Nr. 184, S. 1 - 12)
 
- 
+  
+  
 
 Abkürzungen:
 
@@ -114,8 +115,6 @@ gemeinsame Einrichtung
 
 zkT  
 zugelassener kommunaler Träger
-
- 
 
 # Anlage 5 – (zu § 2 Absatz 5 Satz 4)Verteilung der Mittel für Verwaltungskosten
 

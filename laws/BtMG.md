@@ -2638,29 +2638,37 @@ H-benzimidazol-1-yl}ethan-1-amin</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Etomethazen (5-Methyl-Etodesnitazen,<br />
+5-Methyldesnitroetonitazen)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">N,
+N-Diethyl-2-{2-[(4-ethoxyphenyl)methyl]-5-methyl-1
+H-benzimidazol-1-yl}ethan-1-amin</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Etonitazepyn (
 N-Pyrrolidino Etonitazen)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-[(4-Ethoxyphenyl)methyl]-5-nitro-1-(2-pyrrolidin-<br />
 1-ylethyl)-1
 H-benzimidazol</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">FDU-PB-22</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Naphthalin-1-yl{1[(4-fluorphenyl)methyl]-1
 H-indol-3-carboxylat}</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Fencamfamin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">N-Ethyl-3-phenylbicyclo[2.2.1]heptan-2-amin</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Flephedron (4-Fluormethcathinon, 4-FMC)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-(4-Fluorphenyl)-2-(methylamino)propan-1-on</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Flualprazolam<br />
 (2-Fluor-Alprazolam, SCHEMBL7327360, Flu-Alp)</td>
@@ -2668,26 +2676,42 @@ H-indol-3-carboxylat}</td>
 H-[1,2,4]triazolo[4,3-
 a] [1,4]benzodiazepin</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Flubromazepam</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">7-Brom-5-(2-fluorphenyl)-1,3-dihydro-2
 H-1,4-benzodiazepin-2-on</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Flubromazolam</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">8-Brom-6-(2-fluorphenyl)-1-methyl-4
 H-[1,2,4]triazolo[4,3-<br />
 a][1,4]benzodiazepin</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-Fluordeschlorketamin<br />
 (2-Fluorketamin, 2-FDCK, 2-FL-2‘-OXO-PCM)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-(2-Fluorphenyl)-2-(methylamino)cyclohexan-1-on</td>
 </tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Fluor-Etonitazen (Fluetonitazen,<br />
+F-Etonitazen, F-Eto, 2F-Eto, 2F-Etonitazen)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">N,N-Diethyl-2-(2-{[4-(2-fluorethoxy)phenyl]methyl}-<br />
+5-nitro-1
+H-benzimidazol-1-yl)ethan-1-amin</td>
+</tr>
 <tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Fluor-Etonitazepyn (Fluetonitazepyn,<br />
+F-Etonitazepyn, N-Pyrrolidin-Fluetonitazen)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">2-{[4-(2-Fluorethoxy)phenyl]methyl}-5-nitro-<br />
+1-[2-(pyrrolidin-1-yl)ethyl]-1
+H-benzimidazol</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4-Fluorisobutyrfentanyl<br />
 (4-Fluorisobutyrylfentanyl,<br />
@@ -2696,39 +2720,39 @@ a][1,4]benzodiazepin</td>
 N-[1-<br />
 (2-phenylethyl)piperidin-4-yl]propanamid</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4-Fluormethamfetamin (4-FMA)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-(4-Fluorphenyl)-N-methylpropan-2-amin</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">3-Fluormethcathinon (3-FMC)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-(3-Fluorphenyl)-2-(methylamino)propan-1-on</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">5-Fluorpentyl-JWH-122 (MAM-2201)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">[1-(5-Fluorpentyl)-1
 H-indol-3-yl] (4-methylnaphthalin-1-yl)methanon</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">p-Fluorphenylpiperazin (p-FPP)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-(4-Fluorphenyl)piperazin</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4-Fluortropacocain</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">3-(4-Fluorbenzoyloxy)tropan</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">5-Fluor-UR-144 (XLR-11)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">[1-(5-Fluorpentyl)-1
 H-indol-3-yl] (2,2,3,3-tetramethylcyclopropyl) methanon</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4F-MDMB-BICA<br />
 (4F-MDMB-BUTICA, 4FBC, 4FBCA,<br />
@@ -2738,7 +2762,7 @@ MDMB-073-F,<br />
 H-indol-3-carboxamido]-3,3-<br />
 dimethylbutanoat}</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4F-MDMB-BINACA<br />
 (4F-MDMB-BUTINACA,<br />
@@ -2747,7 +2771,7 @@ dimethylbutanoat}</td>
 H-indazol-3-<br />
 carboxamido]-3,3-dimethylbutanoat}</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">5F-MDMB-PICA<br />
 (5F-MDMB-2201)</td>
@@ -2755,7 +2779,7 @@ carboxamido]-3,3-dimethylbutanoat}</td>
 H-indol-3-<br />
 carboxamido]-3,3-dimethylbutanoat}</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">5F-MN-18<br />
 (AM-2201 Indazolcarboxamid-Analogon)</td>
@@ -2763,26 +2787,26 @@ carboxamido]-3,3-dimethylbutanoat}</td>
 N-1-(naphthalin-1-yl)-1
 H-indazol-3-carboxamid</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">5F-PB-22<br />
 (5F-QUPIC)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Chinolin-8-yl[1-(5-fluorpentyl)indol-3-carboxylat]</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">5F-SDB-006</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">N-Benzyl-1-(5-fluorpentyl)-1
 H<br />
 -indol-3-carboxamid</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">FUB-PB-22</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Chinolin-8-yl{1-[(4-fluorphenyl)methyl]-1
 H-indol-3-carboxylat}</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Furanylfentanyl<br />
 (FU-F)</td>
@@ -2790,22 +2814,22 @@ H-indol-3-carboxylat}</td>
 N-[1-(2-phenylethyl)<br />
 piperidin-4-yl]furan-2-carboxamid</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Glutethimid</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">3-Ethyl-3-phenylpiperidin-2,6-dion</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Isocodein</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6ß-ol</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Isomethadon</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">6-Dimethylamino-5-methyl-4,4-diphenylhexan-3-on</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Isotonitazen<br />
 (Iso)</td>
@@ -2814,108 +2838,108 @@ phenyl]methyl}-5-nitro-1
 H-<br />
 benzimidazol-1-ethanamin</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-007</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(2-Methyl-1-pentyl-1
 H-indol-3-yl)(naphthalin-1-yl)methanon</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-015</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(2-Methyl-1-propyl-1
 H-indol-3-yl)(naphthalin-1-yl)methanon</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-018<br />
 (1-Pentyl-3-(1-naphthoyl)indol)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(Naphthalin-1-yl)(1-pentyl-1
 H-indol-3-yl)methanon</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-019<br />
 (1-Hexyl-3-(1-naphthoyl)indol)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(Naphthalin-1-yl)(1-hexyl-1
 H-indol-3-yl)methanon</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-073<br />
 (1-Butyl-3-(1-naphthoyl)indol)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(Naphthalin-1-yl)(1-butyl-1
 H-indol-3-yl)methanon</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-081</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(4-Methoxynaphthalin-1-yl)(1-<br />
 pentyl-1
 H-indol-3-yl)methanon</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-122</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(4-Methylnaphthalin-1-yl)(1-pentyl-1
 H-indol-3-yl)methanon</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-200</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">[1-(2-Morpholinoethyl)-1
 H-indol-3-yl](naphthalin-1-yl)methanon</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-203</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-(2-Chlorphenyl)-1-(1-pentyl-1
 H-indol-3-yl)ethanon</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-210</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(4-Ethylnaphthalin-1-yl)(1-pentyl-1
 H-indol-3-yl)methanon</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-250<br />
 (1-Pentyl-3-(2-methoxy-phenylacetyl)indol)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-(2-Methoxyphenyl)-1-(1-pentyl-1
 H-indol-3-yl)ethanon</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-251</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-(2-Methylphenyl)-1-(1-pentyl-1
 H-indol-3-yl)ethanon</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">JWH-307</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">[5-(2-Fluorphenyl)-1-pentyl-1
 H-pyrrol-3-yl](naphthalin-1-yl) methanon</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Levamfetamin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Levamphetamin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(
 R)-1-Phenylpropan-2-ylazan</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Levmetamfetamin (Levometamfetamin)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(
 R)-(Methyl)(1-phenylpropan-2-yl)azan</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Levomoramid</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(
 R)-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Levorphanol</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(9
@@ -2923,13 +2947,13 @@ R,13
 R,14
 R)-17-Methylmorphinan-3-ol</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mazindol</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">5-(4-Chlorphenyl)-2,5-dihydro-3
 H-imidazol[2,1-a]isoindol-5-ol</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">MDMB-CHMCZCA<br />
 (EGMB-CHMINACA)</td>
@@ -2938,13 +2962,13 @@ H-imidazol[2,1-a]isoindol-5-ol</td>
 H-carbazol-3-carboxamido]-3,3-<br />
 dimethylbutanoat}</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">MDMB-CHMICA</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Methyl{2-[1-(cyclohexylmethyl)-1
 H-indol-3-carboxamido]-3,3-dimethylbutanoat}</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">MDMB-4en-PINACA</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Methyl{2-[1-(pent-4-en-1-yl)-1
@@ -2952,29 +2976,29 @@ H-<br />
 indazol-3-carboxamido]-3,3-<br />
 dimethylbutanoat}</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mefenorex</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">3-Chlor-N-(1-phenylpropan-2-yl)propan-1-amin</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Meprobamat</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(2-Methyl-2-propylpropan-1,3-diyl)dicarbamat</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mesocarb</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(Phenylcarbamoyl)[3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-yl]azanid</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Metamfetamin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Methamphetamin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(2
 S)-
 N-Methyl-1-phenylpropan-2-amin</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">(
 RS
 )-Metamfetamin</td>
@@ -2982,23 +3006,23 @@ RS
 <td style="text-align: left;" data-valign="top" data-charoff="50">(
 RS)-(Methyl)(1-phenylpropan-2-yl)azan</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Methadon-Zwischenprodukt (Premethadon)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4-Dimethylamino-2,2-diphenylpentannitril</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Methaqualon</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-Methyl-3-(2-methylphenyl)chinazolin-4(3
 H)-on</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Methedron (4-Methoxymethcathinon, PMMC)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-(4-Methoxyphenyl)-2-(methylamino)propan-1-on</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Methoxyacetylfentanyl <a href="#BJNR106810981BJNE008112116_1" class="FnR">*</a></sup></td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-Methoxy-
@@ -3006,50 +3030,50 @@ N-phenyl-
 N-[1-(2-phenylethyl)
 piperidin-4-yl]acetamid</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">p-Methoxyethylamfetamin (PMEA)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">N-Ethyl-1-(4-methoxyphenyl)propan-2-amin</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">3-Methoxyphencyclidin<br />
 (3-MeO-PCP)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-[1-(3-Methoxyphenyl)cyclohexyl] piperidin</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4-Methylamfetamin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-(4-Methylphenyl)propan-2-amin</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-Methyl-AP-237<br />
 (2-Methyl-Bucinnazin)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-[2-Methyl-4-(3-phenylprop-2-<br />
 en-1-yl)piperazin-1-yl]butan-1-on</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Methylbenzylpiperazin (MBZP)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-Benzyl-4-methylpiperazin</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">3,4-Methylendioxypyrovaleron (MDPV)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-(Benzo[d][1,3]dioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-on</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4-Methylethcathinon (4-MEC)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-(Ethylamino)-1-(4-methylphenyl)propan-1-on</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Methylon (3,4-Methylendioxy-N-methcathinon, MDMC)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-(Benzo[d][1,3]dioxol-5-yl)-2-(methylamino)propan-1-on</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">(
 RS
 ;
@@ -3060,18 +3084,18 @@ SR
 RS;
 SR)(phenyl)(2-piperidyl)acetat]</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Methyprylon</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">3,3-Diethyl-5-methylpiperidin-2,4-dion</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Metonitazen</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">N,N-Diethyl-2-{2-[(4-methoxyphenyl)methyl]-5-nitro-1H-<br />
 benzimidazol-1-yl}ethan-1-amin</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">MMB-2201<br />
 (5F-AMB-PICA, 5F-MMB-PICA)</td>
@@ -3079,29 +3103,29 @@ benzimidazol-1-yl}ethan-1-amin</td>
 H-indol-<br />
 3-carboxamido]-3-methylbutanoat}</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mohnstrohkonzentrat<br />
 (das bei der Verarbeitung von Pflanzen und Pflanzenteilen der Art Papaver somniferum zur Konzentrierung der Alkaloide anfallende Material)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Moramid-Zwischenprodukt (Premoramid)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">3-Methyl-4-morpholino-2,2-diphenylbutansäure</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">MT-45</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-Cyclohexyl-4-(1,2-diphenylethyl)<br />
 piperazin</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Naphyron (Naphthylpyrovaleron)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-(Naphthalin-2-yl)-2-(pyrrolidin-1-yl)pentan-1-on</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">NE-CHMIMO<br />
 (JWH-018 N-(Cyclohexylmethyl)-<br />
@@ -3110,29 +3134,29 @@ Analogon)</td>
 H-indol-3-yl]<br />
 (naphthalin-1-yl)methanon</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nicocodin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">6-Nicotinoylcodein</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6α-yl)nicotinat</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nicodicodin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">6-Nicotinoyldihydrocodein</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(4,5α-Epoxy-3-methoxy-17-methylmorphinan-6α-yl)nicotinat</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ocfentanil (A-3217)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">N-(2-Fluorphenyl)-2-methoxy-
 N-[1-<br />
 (2-phenylethyl)piperidin-4-yl]acetamid</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Oripavin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4,5α-Epoxy-6-methoxy-17-methylmorphina-6,8-dien-3-ol</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Orthofluorfentanyl<br />
 (2-Fluorfentanyl, 2F-F, 2-FF,<br />
@@ -3141,25 +3165,25 @@ o-FF)-</td>
 N-[1-(2-phenylethyl)<br />
 piperidin-4-yl]propanamid</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">NM-2201<br />
 (CBL-2201)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Naphthalin-1-yl[1-(5-fluorpentyl)-1
 H-indol-3-carboxylat]</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Oxymorphon</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">14-Hydroxydihydromorphinon</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4,5α-Epoxy-3,14-dihydroxy-17-methylmorphinan-6-on</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Papaver bracteatum<br />
 (Pflanzen und Pflanzenteile, ausgenommen die Samen, der zur Art Papaver bracteatum gehörenden Pflanzen)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>-</dt>
 <dd>
@@ -3167,7 +3191,7 @@ ausgenommen zu Zierzwecken -
 </dd>
 </dl></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Parafluorbutyrylfentanyl<br />
 (Parafluorbutyrfentanyl,<br />
@@ -3176,50 +3200,50 @@ ausgenommen zu Zierzwecken -
 N-[1-(2-phenylethyl)<br />
 piperidin-4-yl]butanamid</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">PB-22<br />
 (QUPIC)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Chinolin-8-yl(1-pentylindol-3-carboxylat)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pentedron</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-(Methylamino)-1-phenylpentan-1-on</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pethidin-Zwischenprodukt A (Prepethidin)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-Methyl-4-phenylpiperidin-4-carbonitril</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pethidin-Zwischenprodukt B (Norpethidin)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ethyl(4-phenylpiperidin-4-carboxylat)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pethidin-Zwischenprodukt C (Pethidinsäure)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-Methyl-4-phenylpiperidin-4-carbonsäure</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Phendimetrazin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(2
 S,3
 S)-3,4-Dimethyl-2-phenylmorpholin</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Phenmetrazin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">3-Methyl-2-phenylmorpholin</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pholcodin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Morpholinylethylmorphin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4,5α-Epoxy-17-methyl-3-(2-morpholinoethoxy)morphin-7-en-6α-ol</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>-</dt>
 <dd>
@@ -3227,49 +3251,49 @@ ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis II
 </dd>
 </dl></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Propiram</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">N-(1-Piperidinopropan-2-yl)-
 N-(2-pyridyl)propanamid</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Protonitazen</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">N,N-Diethyl-2-{2-[(4-propoxyphenyl)methyl]-5-nitro-<br />
 1
 H-benzimidazol-1-yl}ethan-1-amin</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pyrovaleron</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-(Pyrrolidin-1-yl)-1-(ρ-tolyl)pentan-1-on</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">α-Pyrrolidinohexanophenon<br />
 (Alpha-PHP,
 α-PHP, PV-7)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-on</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">α-Pyrrolidinoisohexanophenon<br />
 (Alpha-PiHP, α-PiHP, 4-Methyl-α-PVP)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4-Methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-on</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">α-Pyrrolidinovalerophenon (α-PVP)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-Phenyl-2-(pyrrolidin-1-yl)pentan-1-on</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Racemoramid</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(
 RS)-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Racemorphan</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(9
@@ -3277,26 +3301,26 @@ RS,13
 RS,14
 RS)-17-Methylmorphinan-3-ol</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">RCS-4</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(4-Methoxyphenyl)(1-pentyl-1
 H-indol-3-yl)methanon</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">RCS-4 ortho-Isomer (o-RCS-4)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(2-Methoxyphenyl)(1-pentyl-1
 H-indol-3-yl)methanon</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">SDB-006</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">N-Benzyl-1-pentyl-1
 H-indol-3-<br />
 carboxamid</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Secbutabarbital</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Butabarbital</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">5-(Butan-2-yl)-5-ethylpyrimidin-2,4,6(1
@@ -3304,20 +3328,20 @@ H,3
 H,5
 H)-trion</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">STS-135<br />
 (5F-2NE1)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">N-(Adamantan-1-yl)-1-(5-fluorpentyl)-1
 H-indol-3-carboxamid</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Δ9-Tetrahydrocannabinol<br />
 (Δ9-THC)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-benzo[c]chromen-1-ol</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">– ausgenommen,
 <dl>
 <dt>a)</dt>
@@ -3330,29 +3354,29 @@ wenn es sich um eine nichtsynthetische Form handelt, die zu nichtmedizinischen Z
 </dd>
 </dl></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Tetrahydrofuranylfentanyl<br />
 (THF-F)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">N-Phenyl-
 N-[1-(2-phenylethyl)piperidin-4-yl]tetrahydrofuran-2-carboxamid</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Tetrahydrothebain</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4,5α-Epoxy-3,6-dimethoxy-17-methylmorphinan</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Thebacon</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Acetyldihydrocodeinon</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(4,5α-Epoxy-3-methoxy-17-methylmorphin-6-en-6-yl)acetat</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Thebain</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">4,5α-Epoxy-3,6-dimethoxy-17-methylmorphina-6,8-dien</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">THJ-018<br />
 (JWH-018 Indazol-Analogon)</td>
@@ -3360,26 +3384,26 @@ N-[1-(2-phenylethyl)piperidin-4-yl]tetrahydrofuran-2-carboxamid</td>
 H-indazol-<br />
 3-yl)methanon</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">THJ-2201<br />
 (AM-2201 Indazol-Analogon)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">[1-(5-Fluorpentyl)-1
 H-indazol-3-yl] (naphthalin-1-yl)methanon</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">cis-Tilidin</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ethyl[(1
 RS,2
 RS)-2-dimethylamino-1-phenylcyclohex-3-encarboxylat]</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">3-Trifluormethylphenylpiperazin (TFMPP)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-[3-(Trifluormethyl)phenyl]piperazin</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">U-47700</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">3,4-Dichlor-
@@ -3387,26 +3411,26 @@ N-[2-(dimethylamino)<br />
 cyclohexyl]-
 N-methylbenzamid</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">U-48800</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">2-(2,4-Dichlorphenyl)-
 N-[2-(dimethylamino)cyclohexyl]-
 N-methylacetamid</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">UR-144</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(1-Pentyl-1
 H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanon</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Valerylfentanyl</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">N-Phenyl-
 N-[1-(2-phenylethyl) piperidin-4-yl]pentanamid</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vinylbital</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">5-Ethenyl-5-(pentan-2-yl)pyrimidin-2,4,6(1
@@ -3414,7 +3438,7 @@ H,3
 H,5
 H)-trion</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zipeprol</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">-</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1-Methoxy-3-[4-(2-methoxy-2-phenylethyl)piperazin-1-yl]-1-phenylpropan-2-ol</td>

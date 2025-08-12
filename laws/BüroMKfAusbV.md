@@ -1,500 +1,312 @@
 % Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement*  (Büromanagementkaufleute-Ausbildungsverordnung - BüroMKfAusbV)
-% Ausfertigungsdatum: 11.12.2013
+% Ausfertigungsdatum: 25.02.2025
  
 # Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 und Absatz 2 Satz 2 des Berufsbildungsgesetzes, von denen Absatz 1 durch Artikel 1 Nummer 4 Buchstabe a des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 246) geändert und Absatz 2 durch Artikel 1 Nummer 4 Buchstabe b des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 246) eingefügt worden ist, verordnen das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministerium des Innern und für Heimat im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+
+# Inhaltsübersicht
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
 # § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Kaufmanns für Büromanagement und der Kauffrau für Büromanagement wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt. Der Ausbildungsberuf ist, soweit die Berufsausbildung im Bereich des öffentlichen Dienstes stattfindet, Ausbildungsberuf des öffentlichen Dienstes. Im Übrigen ist er Ausbildungsberuf der gewerblichen Wirtschaft.
+Der Ausbildungsberuf mit der Berufsbezeichnung des Kaufmanns für Büromanagement und der Kauffrau für Büromanagement wird nach § 4 Absatz 1 und Absatz 2 Satz 2 des Berufsbildungsgesetzes staatlich anerkannt. Der Ausbildungsberuf ist, soweit die Berufsausbildung im Bereich des öffentlichen Dienstes stattfindet, Ausbildungsberuf des öffentlichen Dienstes. Im Übrigen ist er Ausbildungsberuf der gewerblichen Wirtschaft.
 
 # § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-# § 3 – Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die in der sachlichen Gliederung des Ausbildungsrahmenplans nach Anlage 1 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Soweit es die Besonderheiten des öffentlichen Dienstes erfordern, sind den Ausbildungsinhalten des Ausbildungsrahmenplans die entsprechenden fachspezifischen Begriffe oder Bezeichnungen, die im öffentlichen Dienst verwendet werden, zugrunde zu legen.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(2) Eine von der zeitlichen Gliederung des Ausbildungsrahmenplans nach Anlage 2 abweichende Organisation der Berufsausbildung ist insbesondere zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
+(2) Als Ausbildungsbetrieb im Sinne dieser Verordnung gelten für den Bereich des öffentlichen Dienstes die Dienststellen. Dienststellen sind die einzelnen Behörden, Verwaltungsstellen und Betriebe der Verwaltungen des Bundes, der Länder, der Gemeinden und der sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die Gerichte des Bundes und der Länder sowie die entsprechenden Einrichtungen der Streitkräfte. Soweit es die Besonderheiten des öffentlichen Dienstes erfordern, sind den Ausbildungsinhalten des Ausbildungsrahmenplans die entsprechenden fachspezifischen Begriffe oder Bezeichnungen, die im öffentlichen Dienst verwendet werden, zugrunde zu legen.
 
-# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+(3) Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+
+(4) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
+
+# § 4 – Struktur der Berufsausbildung und Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
-1. gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen,
+1. wahlqualifikationsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
-2. weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in zwei Wahlqualifikationen, die jeweils fünf Monate dauern und im Ausbildungsvertrag festgelegt werden, sowie
+2. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in zehn Wahlqualifikationen mit einem zeitlichen Richtwert von jeweils fünf Monaten sowie
 
-3. gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten.
+3. wahlqualifikationsübergreifende integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(2) Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen sind:
+Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen und Wahlqualifikationen als Teil des Ausbildungsberufsbildes gebündelt.
 
-1. Büroprozesse:
+(2) Die Berufsbildpositionen der wahlqualifikationsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.1  
-Informationsmanagement,
+1. Informationsmanagement anwenden,
 
-1.2  
-Informationsverarbeitung,
+2. Informationsverarbeitung durchführen,
 
-1.3  
-bürowirtschaftliche Abläufe,
+3. bürowirtschaftliche Abläufe organisieren,
 
-1.4  
-Koordinations- und Organisationsaufgaben;
+4. Koordinations- und Organisationsaufgaben übernehmen,
 
-2. Geschäftsprozesse:
+5. Kundenbeziehungen gestalten,
 
-2.1  
-Kundenbeziehungen,
+6. Auftragsbearbeitung durchführen,
 
-2.2  
-Auftragsbearbeitung und -nachbereitung,
+7. Material und externe Dienstleistungen beschaffen,
 
-2.3  
-Beschaffung von Material und externen Dienstleistungen,
+8. personalbezogene Aufgaben übernehmen und
 
-2.4  
-personalbezogene Aufgaben,
+9. kaufmännische Steuerung durchführen.
 
-2.5  
-kaufmännische Steuerung.
+(3) Es sind zwei der folgenden Wahlqualifikationen auszuwählen und im Ausbildungsvertrag festzulegen:
 
-(3) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Wahlqualifikationen sind:
+1. Auftragsprozess steuern,
 
-1. Auftragssteuerung und -koordination:
+2. Instrumente der kaufmännischen Steuerung und Kontrolle nutzen,
 
-1.1  
-Auftragsinitiierung,
+3. kaufmännische Abläufe in kleinen und mittleren Unternehmen gestalten und umsetzen,
 
-1.2  
-Auftragsabwicklung,
+4. Einkauf und Logistikprozesse planen, koordinieren und durchführen,
 
-1.3  
-Auftragsabschluss,
+5. Marketing- und Vertriebsaktivitäten mitgestalten,
 
-1.4  
-Auftragsnachbereitung;
+6. personalwirtschaftliche Prozesse umsetzen,
 
-2. kaufmännische Steuerung und Kontrolle:
+7. Assistenzaufgaben übernehmen,
 
-2.1  
-Finanzbuchhaltung,
+8. Öffentlichkeitsarbeit gestalten und Aufgaben des Veranstaltungsmanagements übernehmen,
 
-2.2  
-Kosten-und-Leistungs-Rechnung,
+9. Aufgaben der Verwaltung wahrnehmen und Recht anwenden oder
 
-2.3  
-Controlling;
+10. Haushaltsmittel planen und bewirtschaften.
 
-3. kaufmännische Abläufe in kleinen und mittleren Unternehmen:
+(4) Die Berufsbildpositionen der wahlqualifikationsübergreifenden integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-3.1  
-laufende Buchführung,
+1. Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
-3.2  
-Entgeltabrechnung,
+2. Sicherheit und Gesundheit bei der Arbeit,
 
-3.3  
-betriebliche Kalkulation,
+3. Umweltschutz und Nachhaltigkeit,
 
-3.4  
-betriebliche Auswertungen;
+4. digitalisierte Arbeitswelt,
 
-4. Einkauf und Logistik:
+5. Arbeitsorganisation und Informationsmanagement gestalten und
 
-4.1  
-Bedarfsermittlung,
+6. Zusammenarbeit und Kommunikation gestalten.
 
-4.2  
-operativer Einkaufsprozess,
+# § 5 – Berufsausbildung in einer dienstbegleitenden Unterweisung
 
-4.3  
-strategischer Einkaufsprozess,
+Zur Ergänzung der betrieblichen Berufsausbildung sind im Bereich der zuständigen Stellen des öffentlichen Dienstes die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten in einer dienstbegleitenden Unterweisung systematisch zu vermitteln und zu vertiefen. Die dienstbegleitende Unterweisung umfasst in der Regel 420 Stunden, sie ist inhaltlich und zeitlich mit dem Berufsschulunterricht abzustimmen.
 
-4.4  
-Lagerwirtschaft;
+# § 6 – Ausbildungsplan
 
-5. Marketing und Vertrieb:
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-5.1  
-Marketingaktivitäten,
+# § 7 – Aufteilung in zwei Teile und Zeitpunkt
 
-5.2  
-Vertrieb von Produkten und Dienstleistungen,
+(1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
-5.3  
-Kundenbindung und Kundenbetreuung;
+(2) Teil 1 soll im vierten Ausbildungshalbjahr stattfinden.
 
-6. Personalwirtschaft:
+(3) Teil 2 findet am Ende der Berufsausbildung statt.
 
-6.1  
-Personalsachbearbeitung,
+(4) Den jeweiligen Zeitpunkt legt die zuständige Stelle fest.
 
-6.2  
-Personalbeschaffung und -entwicklung;
+# § 8 – Inhalt des Teiles 1
 
-7. Assistenz und Sekretariat:
+Teil 1 der Abschlussprüfung erstreckt sich auf
 
-7.1  
-Sekretariatsführung,
+1. die im Ausbildungsrahmenplan für die ersten 15 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-7.2  
-Terminkoordination und Korrespondenzbearbeitung,
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-7.3  
-Organisation von Reisen und Veranstaltungen;
+# § 9 – Prüfungsbereich des Teiles 1
 
-8. Öffentlichkeitsarbeit und Veranstaltungsmanagement:
+(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Informationstechnisches Büromanagement“ statt.
 
-8.1  
-Öffentlichkeitsarbeit,
+(2) Im Prüfungsbereich „Informationstechnisches Büromanagement“ hat der Prüfling nachzuweisen, dass er in der Lage ist, computergestützt Büro- und Beschaffungsprozesse zu organisieren und kundenorientiert zu bearbeiten. Dabei soll er nachweisen, dass er unter Anwendung von Textverarbeitungs- und Tabellenkalkulationsprogrammen recherchieren, dokumentieren und kalkulieren kann.
 
-8.2  
-Veranstaltungsmanagement;
+(3) Der Prüfling hat einen berufstypischen ganzheitlichen Arbeitsauftrag durchzuführen. Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
-9. Verwaltung und Recht:
+(4) Die Prüfungszeit beträgt 120 Minuten.
 
-9.1  
-Kunden- und Bürgerorientierung,
+# § 10 – Inhalt des Teiles 2
 
-9.2  
-Rechtsanwendung,
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-9.3  
-Verwaltungshandeln;
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-10. öffentliche Finanzwirtschaft:
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-10.1  
-Finanzwesen,
+(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-10.2  
-Haushalts- und Kassenwesen.
+# § 11 – Prüfungsbereiche des Teiles 2
 
-(4) Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1. Ausbildungsbetrieb:
+1. „Kundenbeziehungsprozesse“,
 
-1.1  
-Stellung, Rechtsform und Organisationsstruktur,
+2. „Fachaufgabe in der Wahlqualifikation“ sowie
 
-1.2  
-Produkt- und Dienstleistungsangebot,
+3. „Wirtschafts- und Sozialkunde“.
 
-1.3  
-Berufsbildung,
+# § 12 – Prüfungsbereich „Kundenbeziehungsprozesse“
 
-1.4  
-arbeits-, sozial-, mitbestimmungsrechtliche und tarif- oder beamtenrechtliche Vorschriften,
+(1) Im Prüfungsbereich „Kundenbeziehungsprozesse“ hat der Prüfling nachzuweisen, dass er in der Lage ist, komplexe berufstypische Arbeitsaufträge handlungsorientiert zu bearbeiten. Dabei soll er nachweisen, dass er Aufträge kundenorientiert abwickeln, personalbezogene Aufgaben wahrnehmen und Instrumente der kaufmännischen Steuerung fallbezogen einsetzen kann.
 
-1.5  
-Sicherheit und Gesundheitsschutz bei der Arbeit,
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
-1.6  
-Umweltschutz,
+(3) Die Prüfungszeit beträgt 150 Minuten.
 
-1.7  
-wirtschaftliches und nachhaltiges Denken und Handeln;
+# § 13 – Prüfungsbereich „Fachaufgabe in der Wahlqualifikation“
 
-2. Arbeitsorganisation:
+(1) Im Prüfungsbereich „Fachaufgabe in der Wahlqualifikation“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-2.1  
-Arbeits- und Selbstorganisation, Organisationsmittel,
+1. komplexe berufstypische Aufgabenstellungen zu erfassen,
 
-2.2  
-Arbeitsplatzergonomie,
+2. Probleme und Vorgehensweisen zu erörtern,
 
-2.3  
-Datenschutz und Datensicherheit,
+3. Lösungswege zu entwickeln und zu begründen,
 
-2.4  
-qualitätsorientiertes Handeln in Prozessen;
+4. kunden- und serviceorientiert zu handeln,
 
-3. Information, Kommunikation, Kooperation:
+5. wirtschaftliche, ökologische und rechtliche Zusammenhänge bei der Planung, Durchführung und Auswertung zu berücksichtigen,
 
-3.1  
-Informationsbeschaffung und Umgang mit Informationen,
+6. Kommunikations- und Kooperationsbedingungen zu berücksichtigen sowie
 
-3.2  
-Kommunikation,
+7. den gewählten Lösungsweg zu reflektieren und Ergebnisse zu bewerten.
 
-3.3  
-Kooperation und Teamarbeit,
+(2) Mit dem Prüfling wird ein fallbezogenes Fachgespräch geführt, für das folgende Vorgaben bestehen:
 
-3.4  
-Anwenden einer Fremdsprache bei Fachaufgaben.
+1. Grundlage für das fallbezogene Fachgespräch ist eine der festgelegten Wahlqualifikationen nach § 4 Absatz 3,
 
-# § 5 – Durchführung der Berufsausbildung
+2. bewertet werden die Leistungen, die der Prüfling im fallbezogenen Fachgespräch zeigt,
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
+3. das fallbezogene Fachgespräch wird mit einer Darstellung von Aufgabe und Lösungsweg durch den Prüfling eingeleitet und
 
-(2) Die Ausbildenden haben auf der Grundlage des Ausbildungsrahmenplans einen Ausbildungsplan für die Auszubildenden zu erstellen.
+4. zur Vorbereitung auf das fallbezogene Fachgespräch soll der Prüfling
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
+a) für jede der beiden nach § 4 Absatz 3 festgelegten Wahlqualifikationen einen höchstens dreiseitigen Report über die Durchführung einer komplexen betrieblichen Fachaufgabe erstellen oder
 
-(4) Zur Ergänzung der betrieblichen Berufsausbildung sind im Bereich der zuständigen Stellen des öffentlichen Dienstes die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten in einer dienstbegleitenden Unterweisung systematisch zu vermitteln und zu vertiefen. Hierfür kommen insbesondere Fertigkeiten, Kenntnisse und Fähigkeiten in Betracht, die nicht in allen Ausbildungsbetrieben vermittelt werden können. Die dienstbegleitende Unterweisung umfasst in der Regel 420 Stunden, sie ist inhaltlich und zeitlich mit dem Berufsschulunterricht abzustimmen.
+b) für eine der beiden nach § 4 Absatz 3 festgelegten Wahlqualifikationen eine von zwei praxisbezogenen Fachaufgaben, die ihm vom Prüfungsausschuss zur Wahl gestellt werden, bearbeiten und Lösungswege entwickeln;
 
-# § 6 – Zwischenprüfung
+5. der Ausbildungsbetrieb teilt der zuständigen Stelle mit der Anmeldung zur Prüfung mit, welche Variante von Nummer 4 gewählt wird.
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zur Mitte des zweiten Ausbildungsjahres stattfinden.
+(3) Wird die Variante nach Absatz 2 Nummer 4 Buchstabe a gewählt, hat der Ausbildende zu bestätigen, dass die komplexen Fachaufgaben sowie die dazu erstellten Reporte vom Prüfling eigenständig im Ausbildungsbetrieb durchgeführt worden sind. Die Bestätigung hat ferner zu beinhalten, dass die betrieblichen Fachaufgaben so gestellt wurden, dass sie inhaltlich den festgelegten Wahlqualifikationen nach § 4 Absatz 3 entsprechen. Die Reporte sind dem Prüfungsausschuss spätestens am ersten Tag von Teil 2 der Abschlussprüfung zuzuleiten. Aus den beiden betrieblichen Fachaufgaben wählt der Prüfungsausschuss eine aus.
 
-(2) Die Zwischenprüfung erstreckt sich
+(4) Wird die Variante nach Absatz 2 Nummer 4 Buchstabe b gewählt, ist dem Prüfling eine Vorbereitungszeit von 20 Minuten einzuräumen.
 
-1. auf die in den Anlagen 1 und 2 für die ersten 15 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+(5) Die Prüfungszeit für das fallbezogene Fachgespräch beträgt 20 Minuten.
 
-2. auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+# § 14 – Prüfungsbereich „Wirtschafts- und Sozialkunde“
 
-(3) Die Zwischenprüfung findet im Prüfungsbereich „Büro- und Beschaffungsprozesse“ statt.
+(1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(4) Für den Prüfungsbereich „Büro- und Beschaffungsprozesse“ bestehen folgende Vorgaben:
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
-1. der Prüfling soll nachweisen, dass er in der Lage ist,
+(3) Die Prüfungszeit beträgt 60 Minuten.
 
-a) Wege der Informationsbeschaffung und den Umgang mit Informationen darzustellen und die Datenschutzregelungen zu berücksichtigen,
+# § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-b) betriebliche Abläufe unter Berücksichtigung von Informationsflüssen vorzubereiten und dabei Entscheidungswege und Schnittstellen zu berücksichtigen,
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-c) bürowirtschaftliche Abläufe und Termine zu planen, zu organisieren und zu überwachen,
+1. |                                          |                 |
+|:-----------------------------------------|----------------:|
+| „Informationstechnisches Büromanagement“ | mit 25 Prozent, |
 
-d) Vorschriften für die eigene Arbeitssicherheit und die Arbeitsplatzgestaltung zu berücksichtigen,
+2. |                            |                 |
+|:---------------------------|----------------:|
+| „Kundenbeziehungsprozesse“ | mit 30 Prozent, |
 
-e) vertragsrechtliche Aspekte bei der Beschaffung von Material und externen Dienstleistungen zu berücksichtigen;
+3. |                                        |                |
+|:---------------------------------------|---------------:|
+| „Fachaufgabe in der Wahlqualifikation“ | mit 35 Prozent |
 
-2. der Prüfling soll berufstypische und prozessbezogene Aufgaben schriftlich bearbeiten;
+sowie
 
-3. die Prüfungszeit beträgt 120 Minuten.
+4. |                                |                 |
+|:-------------------------------|----------------:|
+| „Wirtschafts- und Sozialkunde“ | mit 10 Prozent. |
 
-(+++ § 6: Zur Anwendung vgl. § 1 BüroMKfAusbVErpV +++)
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 16 – wie folgt bewertet worden sind:
 
-# § 7 – Abschlussprüfung
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-1. die erforderlichen beruflichen Fertigkeiten beherrscht,
+3. in mindestens zwei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
 
-2. die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-3. mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist.
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des Berufsbildungsgesetzes zu fassen.
 
-Die Ausbildungsordnung ist zugrunde zu legen.
+# § 16 – Mündliche Ergänzungsprüfung
 
-(2) Die Abschlussprüfung besteht aus den Prüfungsbereichen
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
-1. informationstechnisches Büromanagement,
+(2) Dem Antrag ist stattzugeben,
 
-2. Kundenbeziehungsprozesse,
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
 
-3. Fachaufgabe in der Wahlqualifikation,
+a) „Kundenbeziehungsprozesse“ oder
 
-4. Wirtschafts- und Sozialkunde.
+b) „Wirtschafts- und Sozialkunde“,
 
-(3) Für den Prüfungsbereich „informationstechnisches Büromanagement“ bestehen folgende Vorgaben:
+2. wenn der Prüfungsbereich nach Nummer 1 Buchstabe a oder Buchstabe b schlechter als mit „ausreichend“ bewertet worden ist und
 
-1. der Prüfling soll nachweisen, dass er in der Lage ist, im Rahmen eines ganzheitlichen Arbeitsauftrages Büro- und Beschaffungsprozesse zu organisieren und kundenorientiert zu bearbeiten; dabei soll er nachweisen, dass er unter Anwendung von Textverarbeitungs- und Tabellenkalkulationsprogrammen recherchieren, dokumentieren und kalkulieren kann;
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
-2. der Prüfling soll berufstypische Aufgaben schriftlich computergestützt bearbeiten;
+Die mündliche Ergänzungsprüfung darf nur in dem Prüfungsbereich nach Satz 1 Nummer 1 Buchstabe a oder Buchstabe b durchgeführt werden.
 
-3. die Prüfungszeit beträgt 120 Minuten.
+(3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
-(4) Für den Prüfungsbereich „Kundenbeziehungsprozesse“ bestehen folgende Vorgaben:
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-1. der Prüfling soll nachweisen, dass er in der Lage ist, komplexe Arbeitsaufträge handlungsorientiert zu bearbeiten; dabei soll er zeigen, dass er Aufträge kundenorientiert abwickeln, personalbezogene Aufgaben wahrnehmen und Instrumente der kaufmännischen Steuerung fallbezogen einsetzen kann;
+# § 17 – Inhalt der Zusatzqualifikationen
 
-2. der Prüfling soll berufstypische Aufgaben schriftlich bearbeiten;
+(1) Als Zusatzqualifikation kann die Ausbildung in einer Wahlqualifikation nach § 4 Absatz 3 vereinbart werden, die nicht im Rahmen der Berufsausbildung gewählt worden ist.
 
-3. die Prüfungszeit beträgt 150 Minuten.
+(2) Für die Vermittlung der Zusatzqualifikation ist die sachliche Gliederung der Anlage entsprechend anzuwenden.
 
-(5) Für den Prüfungsbereich „Fachaufgabe in der Wahlqualifikation“ bestehen folgende Vorgaben:
+# § 18 – Prüfung der Zusatzqualifikation
 
-1. der Prüfling soll nachweisen, dass er in der Lage ist,
+(1) Die Zusatzqualifikation wird auf Antrag des oder der Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft macht, dass ihm oder ihr die erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt worden sind. Die Prüfung findet im zeitlichen Zusammenhang mit Teil 2 der Abschlussprüfung als gesonderte Prüfung statt.
 
-a) berufstypische Aufgabenstellungen zu erfassen, Probleme und Vorgehensweisen zu erörtern sowie Lösungswege zu entwickeln, zu begründen und zu reflektieren,
+(2) Für die Prüfung der Zusatzqualifikation ist § 13 entsprechend anzuwenden.
 
-b) kunden- und serviceorientiert zu handeln,
+(3) Die Prüfung der Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
-c) betriebspraktische Aufgaben unter Berücksichtigung wirtschaftlicher, ökologischer und rechtlicher Zusammenhänge zu planen, durchzuführen und auszuwerten sowie
+# § 19 – Inkrafttreten, Außerkrafttreten
 
-d) Kommunikations- und Kooperationsbedingungen zu berücksichtigen;
+Diese Verordnung tritt am 1. August 2025 in Kraft. Gleichzeitig tritt die Büromanagementkaufleute-Ausbildungsverordnung vom 11. Dezember 2013 (BGBl. I S. 4125), die durch Artikel 1 der Verordnung vom 16. Juni 2014 (BGBl. I S. 791) geändert worden ist, außer Kraft.
 
-2. mit dem Prüfling soll ein fallbezogenes Fachgespräch durchgeführt werden, für das folgende Vorgaben bestehen:
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement
 
-a) Grundlage für das fallbezogene Fachgespräch ist eine der festgelegten Wahlqualifikationen nach § 4 Absatz 3,
-
-b) bewertet werden die Leistungen, die der Prüfling im fallbezogenen Fachgespräch zeigt,
-
-c) das Fachgespräch soll höchstens 20 Minuten dauern und
-
-d) das Fachgespräch wird mit einer Darstellung von Aufgabe und Lösungsweg durch den Prüfling eingeleitet;
-
-3. zur Vorbereitung auf das fallbezogene Fachgespräch soll der Prüfling
-
-a) für jede der beiden festgelegten Wahlqualifikationen nach § 4 Absatz 3 einen höchstens dreiseitigen Report über die Durchführung einer betrieblichen Fachaufgabe erstellen oder
-
-b) eine von zwei praxisbezogenen Fachaufgaben, die ihm vom Prüfungsausschuss zur Wahl gestellt werden, bearbeiten und Lösungswege entwickeln; Grundlage für die Fachaufgaben ist eine der festgelegten Wahlqualifikationen nach § 4 Absatz 3.
-
-Der Ausbildungsbetrieb teilt der zuständigen Stelle mit der Anmeldung zur Abschlussprüfung mit, welche Variante nach Satz 1 Nummer 3 gewählt wird. Wird die Variante nach Satz 1 Nummer 3 Buchstabe a gewählt, hat der Ausbildende zu bestätigen, dass die Fachaufgaben vom Prüfling eigenständig im Betrieb durchgeführt worden sind. Die Reporte sind dem Prüfungsausschuss spätestens am ersten Tag der Abschlussprüfung zuzuleiten. Sie werden nicht bewertet. Aus den beiden betrieblichen Fachaufgaben wählt der Prüfungsausschuss eine aus. Ausgehend von der gewählten Fachaufgabe und dem dazu erstellten Report entwickelt der Prüfungsausschuss für die zugrunde liegende Wahlqualifikation das fallbezogene Fachgespräch so, dass die in Satz 1 Nummer 1 genannten Vorgaben nachgewiesen werden können. Wird die Variante nach Satz 1 Nummer 3 Buchstabe b gewählt, ist dem Prüfling eine Vorbereitungszeit von 20 Minuten einzuräumen. Ausgehend von der Fachaufgabe, die der Prüfling gewählt hat, entwickelt der Prüfungsausschuss für die zugrunde liegende Wahlqualifikation das fallbezogene Fachgespräch so, dass die in Satz 1 Nummer 1 genannten Vorgaben nachgewiesen werden können.
-
-(6) Für den Prüfungsbereich „Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
-
-1. der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
-
-2. der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
-
-3. die Prüfungszeit beträgt 60 Minuten.
-
-(+++ § 7: Zur Anwendung vgl. § 1 BüroMKfAusbVErpV +++)
-
-# § 8 – Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
-
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
-
-1. <table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">informationstechnisches<br />
-Büromanagement</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">mit 25 Prozent,</td>
-</tr>
-</tbody>
-</table>
-
-2. <table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Kundenbeziehungs-<br />
-prozesse</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">mit 30 Prozent,</td>
-</tr>
-</tbody>
-</table>
-
-3. <table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Fachaufgabe in der<br />
-Wahlqualifikation</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">mit 35 Prozent,</td>
-</tr>
-</tbody>
-</table>
-
-4. <table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Wirtschafts- und<br />
-Sozialkunde</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">mit 10 Prozent.</td>
-</tr>
-</tbody>
-</table>
-
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
-
-1. im Gesamtergebnis mit mindestens „ausreichend“,
-
-2. in mindestens drei Prüfungsbereichen mit mindestens „ausreichend“ und
-
-3. in keinem Prüfungsbereich mit „ungenügend“.
-
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „informationstechnisches Büromanagement“, „Kundenbeziehungsprozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
-
-1. der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
-
-2. die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
-
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
-
-(+++ § 8: Zur Anwendung vgl. § 1 BüroMKfAusbVErpV +++)
-
-# § 9 – Inkrafttreten, Außerkrafttreten
-
-(1) Diese Verordnung tritt am 1. August 2014 in Kraft.
-
-(2) Gleichzeitig treten außer Kraft:
-
-1. die Verordnung über die Berufsausbildung zum Bürokaufmann/zur Bürokauffrau vom 13. Februar 1991 (BGBl. I S. 425),
-
-2. die Verordnung über die Berufsausbildung zum Kaufmann für Bürokommunikation/zur Kauffrau für Bürokommunikation vom 13. Februar 1991 (BGBl. I S. 436), die durch Artikel 1 der Verordnung vom 22. Oktober 1999 (BGBl. I S. 2067) geändert worden ist, und
-
-3. die Verordnung über die Berufsausbildung zum Fachangestellten für Bürokommunikation/zur Fachangestellten für Bürokommunikation vom 12. März 1992 (BGBl. I S. 507), die durch Artikel 1 der Verordnung vom 21. Oktober 1999 (BGBl. I S. 2066) geändert worden ist.
-
-# Anlage 1 – (zu § 3 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement– sachliche Gliederung –
-
-(Fundstelle: BGBl. I 2013, 4129 - 4138)
-
-# Anlage 2 – (zu § 3 Absatz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement– zeitliche Gliederung –
-
-(Fundstelle: BGBl. I 2013, 4139 - 4140)
-
-Die nachfolgende zeitliche Gliederung nennt die Zeiträume, in denen die jeweiligen Fertigkeiten, Kenntnisse und Fähigkeiten schwerpunktmäßig vermittelt werden sollen; in der Regel ist eine Fortführung oder Vertiefung zum Erreichen der beruflichen Handlungsfähigkeit erforderlich.
-
-Während der gesamten Ausbildungszeit zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 4
-
-|                     |                                                                                             |
-|:---------------|:-------------------------------------------------------|
-| Absatz 4 Nummer 1.3 | Berufsbildung,                                                                              |
-| Absatz 4 Nummer 1.4 | arbeits-, sozial-, mitbestimmungsrechtliche und tarif- oder beamtenrechtliche Vorschriften, |
-| Absatz 4 Nummer 1.5 | Sicherheit und Gesundheitsschutz bei der Arbeit,                                            |
-| Absatz 4 Nummer 1.6 | Umweltschutz,                                                                               |
-| Absatz 4 Nummer 1.7 | wirtschaftliches und nachhaltiges Denken und Handeln,                                       |
-| Absatz 4 Nummer 2.4 | qualitätsorientiertes Handeln in Prozessen,                                                 |
-| Absatz 4 Nummer 3.3 | Kooperation und Teamarbeit,                                                                 |
-| Absatz 4 Nummer 3.4 | Anwenden einer Fremdsprache bei Fachaufgaben.                                               |
+(Fundstelle: BGBl. 2025 I Nr. 62, S. 8 - 17)
 
  
 
-(1) In einem Zeitraum von insgesamt vier bis sechs Monaten zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 4
-
-|                     |                                                       |
-|:---------------|:-------------------------------------------------------|
-| Absatz 2 Nummer 1.1 | Informationsmanagement,                               |
-| Absatz 2 Nummer 1.2 | Informationsverarbeitung,                             |
-| Absatz 4 Nummer 1.1 | Stellung, Rechtsform und Organisationsstruktur,       |
-| Absatz 4 Nummer 2.3 | Datenschutz und Datensicherheit,                      |
-| Absatz 4 Nummer 3.1 | Informationsbeschaffung und Umgang mit Informationen. |
-
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 4
-
-|                     |                                                       |
-|:---------------|:-------------------------------------------------------|
-| Absatz 2 Nummer 1.3 | bürowirtschaftliche Abläufe,                          |
-| Absatz 2 Nummer 1.4 | Koordinations- und Organisationsaufgaben,             |
-| Absatz 4 Nummer 2.1 | Arbeits- und Selbstorganisation, Organisationsmittel, |
-| Absatz 4 Nummer 2.2 | Arbeitsplatzergonomie.                                |
-
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 4
-
-|                     |                                                         |
-|:---------------|:--------------------------------------------------------|
-| Absatz 2 Nummer 2.3 | Beschaffung von Material und externen Dienstleistungen, |
-| Absatz 4 Nummer 1.2 | Produkt- und Dienstleistungsangebot.                    |
-
  
 
-(1) In einem Zeitraum von insgesamt elf Monaten zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 4
-
-|                     |                                         |
-|:--------------------|:----------------------------------------|
-| Absatz 2 Nummer 2.1 | Kundenbeziehungen,                      |
-| Absatz 2 Nummer 2.2 | Auftragsbearbeitung und -nachbereitung, |
-| Absatz 2 Nummer 2.4 | personalbezogene Aufgaben,              |
-| Absatz 2 Nummer 2.5 | kaufmännische Steuerung,                |
-| Absatz 4 Nummer 3.2 | Kommunikation.                          |
-
-(2) In einem Zeitraum von jeweils fünf Monaten zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen der zwei ausgewählten Wahlqualifikationen nach § 4
-
-|                    |                                                             |
-|:---------------|:-------------------------------------------------------|
-| Absatz 3 Nummer  1 | Auftragssteuerung und -koordination,                        |
-| Absatz 3 Nummer  2 | kaufmännische Steuerung und Kontrolle,                      |
-| Absatz 3 Nummer  3 | kaufmännische Abläufe in kleinen und mittleren Unternehmen, |
-| Absatz 3 Nummer  4 | Einkauf und Logistik,                                       |
-| Absatz 3 Nummer  5 | Marketing und Vertrieb,                                     |
-| Absatz 3 Nummer  6 | Personalwirtschaft,                                         |
-| Absatz 3 Nummer  7 | Assistenz und Sekretariat,                                  |
-| Absatz 3 Nummer  8 | Öffentlichkeitsarbeit und Veranstaltungsmanagement,         |
-| Absatz 3 Nummer  9 | Verwaltung und Recht oder                                   |
-| Absatz 3 Nummer 10 | öffentliche Finanzwirtschaft.                               |
+ 

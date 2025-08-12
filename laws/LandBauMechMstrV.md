@@ -1,194 +1,460 @@
-% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk  (Land- und Baumaschinenmechatronikermeisterverordnung - LandBauMechMstrV)
-% Ausfertigungsdatum: 05.04.2001
+% Verordnung über die Meisterprüfung in den Teilen I und II im Land- und Baumaschinenmechatroniker-Handwerk  (Land- und Baumaschinenmechatronikermeisterverordnung - LandBauMechMstrV)
+% Ausfertigungsdatum: 09.09.2024
  
 # Eingangsformel
 
-Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074) in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der zuletzt durch Artikel 2 Nummer 1 des Gesetzes vom 9. November 2022 (BGBl. I S. 2009) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-# § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gegenstand
 
-Die Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk umfasst folgende selbständige Prüfungsteile:
+Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in den Teilen I und II der Meisterprüfung zu stellenden Anforderungen sowie die Bestimmungen zur Durchführung der Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk.
 
-1. die Prüfung der meisterhaften Verrichtung der gebräuchlichen Arbeiten (Teil I),
+# § 2 – Begriffsbestimmungen
 
-2. die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
+Geräte, Maschinen sowie Anlagen im Sinne dieser Verordnung umfassen in den Bereichen der Landmaschinentechnik, der Innenwirtschaft, der Baumaschinentechnik, der Gartentechnik, der Forsttechnik, der Kommunaltechnik oder der Flurförderzeugtechnik
 
-3. die Prüfung der erforderlichen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
+1. mechanische Geräte, mechanische Maschinen sowie mechanische Anlagen,
 
-4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
+2. mechatronische Geräte, mechatronische Maschinen sowie mechatronische Anlagen,
 
-# § 2 – Meisterprüfungsberufsbild
+3. vernetzte Geräte, vernetzte Maschinen sowie vernetzte Anlagen,
 
-(1) Durch die Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
+4. automatisierte Geräte, automatisierte Maschinen sowie automatisierte Anlagen,
 
-(2) Dem Land- und Baumaschinenmechatroniker-Handwerk werden zum Zwecke der Meisterprüfung folgende Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
+5. smarte Geräte, smarte Maschinen sowie smarte Anlagen sowie
 
-1. Kundenwünsche ermitteln, Kunden beraten, Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen kalkulieren und Angebote erstellen,
+6. autonome Geräte, autonome Maschinen sowie autonome Anlagen.
 
-2. Aufgaben der technischen und kaufmännischen Betriebsführung, der Betriebsorganisation, der Personalplanung und des Personaleinsatzes wahrnehmen, insbesondere unter Berücksichtigung der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, der Haftung sowie des Arbeitsschutzes, der Arbeitssicherheit und des Umweltschutzes; Informationssysteme nutzen,
+# § 3 – Meisterprüfungsberufsbild
 
-3. Aufträge durchführen unter Berücksichtigung von Fertigungstechniken, Normen, Vorschriften sowie des Personalbedarfs und der Ausbildung; Auftragsbearbeitung und Auftragsabwicklung organisieren, planen und überwachen,
+In den Teilen I und II der Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
-4. Bauteile, Baugruppen und Systeme an Fahrzeugen, Maschinen, Geräten und Anlagen der Land-, Forst-, Garten-, Bau- oder Kommunalwirtschaft zusammenbauen oder installieren sowie mit Zusatzeinrichtungen ausrüsten und in Betrieb nehmen,
+1. einen Betrieb im Land- und Baumaschinenmechatroniker-Handwerk führen und organisieren und dabei technische Entscheidungen, kaufmännische Entscheidungen und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung
 
-5. Bauteile, Baugruppen und Systeme an Fahrzeugen, Maschinen, Geräten und Anlagen der Land-, Forst-, Garten-, Bau- oder Kommunalwirtschaft, einschließlich Pflanzenschutzgeräte, prüfen, warten, instand setzen, vermessen und richten sowie Schadensregulierungen durchführen, Ergebnisse dokumentieren,
+a) der Kostenstrukturen,
 
-6. amtliche Prüfungen, Sicherheitsprüfungen und Emissionsmessungen durchführen und dokumentieren,
+b) der Wettbewerbssituation,
 
-7. Schweißarbeiten an Fahrzeugen, Fahrzeugteilen und Maschinen unter Beachtung von Sicherheitsvorkehrungen und Vorschriften durchführen sowie Materialbe- und -verarbeitung beherrschen, insbesondere Füge- und Umformtechniken,
+c) der für den Betrieb wesentlichen Ausbildung, Fort- und Weiterbildung des Personals,
 
-8. Bauteile unter Berücksichtigung von Festigkeit, Statik und Dynamik herstellen und instand setzen,
+d) der Betriebsorganisation,
 
-9. elektronische, elektrotechnische sowie steuerungs- und regelungstechnische Lösungen erarbeiten, Datensysteme und Datenübertragungsgeräte, Diagnose-, Mess- und Prüfsysteme anwenden,
+e) des Qualitätsmanagements,
 
-10. Fehler- und Störungssuche durchführen, Maßnahmen zur Beseitigung von Fehlern und Störungen beherrschen, Ergebnisse bewerten und dokumentieren,
+f) des Arbeitsschutzrechtes,
 
-11. Leistungen abnehmen und protokollieren, Nachkalkulation durchführen.
+g) des Datenschutzes, der Datensicherheit und der Datenverarbeitung,
 
-# § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
+h) der ökologischen Nachhaltigkeit, der ökonomischen Nachhaltigkeit sowie der sozialen Nachhaltigkeit sowie
 
-(1) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
+i) technologischer Entwicklungen sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien,
 
-1. ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch,
+2. Konzepte für Betriebs- und Lagerausstattung sowie für logistische Arbeits- und Geschäftsprozesse entwickeln und umsetzen,
 
-2. eine Situationsaufgabe.
+3. Kundenwünsche und jeweilige Rahmenbedingungen ermitteln, Anforderungen ableiten, Kundinnen und Kunden beraten, Serviceleistungen entwickeln und anbieten, Lösungen entwickeln, Verhandlungen führen und Ziele festlegen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen,
 
-(2) Die Anfertigung des Meisterprüfungsprojekts soll nicht länger als vier Arbeitstage, das Fachgespräch nicht länger als 30 Minuten dauern. Die Ausführung der Situationsaufgabe soll acht Stunden nicht überschreiten.
+4. Arbeits- und Geschäftsprozesse zur Leistungserbringung planen, organisieren und überwachen,
 
-(3) Meisterprüfungsprojekt, Fachgespräch und Situationsaufgabe werden gesondert bewertet. Die Prüfungsleistungen im Meisterprüfungsprojekt und im Fachgespräch werden im Verhältnis 3:1 gewichtet. Hieraus wird eine Gesamtbewertung gebildet. Diese Gesamtbewertung wird zum Prüfungsergebnis der Situationsaufgabe im Verhältnis 2:1 gewichtet.
+5. Leistungen an Geräten, an Maschinen sowie an Anlagen bei Kundinnen und Kunden oder in der Werkstatt erbringen, insbesondere
 
-(4) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch noch in der Situationsaufgabe mit weniger als 30 Punkten bewertet worden sein darf.
+a) Instandhaltung von Geräten, von Maschinen sowie von Anlagen sowie von deren Bauteilen, deren Baugruppen sowie deren Systemen,
 
-# § 4 – Meisterprüfungsprojekt
+b) technische Beurteilung sowie Problem- und Fehlerdiagnose von Geräten, von Maschinen sowie von Anlagen sowie von deren Bauteilen, deren Baugruppen sowie deren Systemen,
 
-(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Dabei soll der Prüfling zeigen, dass er einen Kundenauftrag im Land- und Baumaschinenmechatroniker-Handwerk planen, durchführen und abschließen kann. Der Prüfling wählt, ob er die Aufgabe nach Absatz 2 an einer Landmaschine, einer Baumaschine oder einem Motorgerät durchführen will. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
+c) Instandsetzung von Geräten, von Maschinen sowie von Anlagen sowie von deren Bauteilen, deren Baugruppen sowie deren Systemen,
 
-(2) Als Meisterprüfungsprojekt ist die nachfolgende Aufgabe durchzuführen:  
-Eine Hydraulik- oder Pneumatikanlage mit einer elektrischen oder elektronischen Steuerung für Arbeitskreise entwerfen, planen, kalkulieren und aufbauen sowie ein mechanisches Bauteil anfertigen.
+d) Herstellung von Bauteilen und Baugruppen sowie Systemen,
 
-(3) Das Meisterprüfungsprojekt nach Absatz 2 besteht aus:
+e) Installation von Bauteilen, von Baugruppen und von Systemen an Geräten, an Maschinen sowie an Anlagen,
 
-1. Entwurfs-, Planungs- und Kalkulationsunterlagen,
+f) Installation von Maschinen,
 
-2. Aufbauen einer Anlage und Anfertigung eines mechanischen Bauteils,
+g) Inbetriebnahme von Geräten, von Maschinen sowie von Anlagen,
 
-3. Prüfprotokoll.
+h) Dokumentation durchgeführter Leistungen nach den Buchstaben a bis g sowie
 
-Die Entwurfs-, Planungs- und Kalkulationsunterlagen werden mit 35 vom Hundert, das Aufbauen einer Anlage und die Anfertigung eines mechanischen Bauteils mit 45 vom Hundert und das Prüfprotokoll mit 20 vom Hundert gewichtet.
+i) fachliche Unterstützung von Werkstattpersonal, insbesondere bei komplexen Diagnosen,
 
-# § 5 – Fachgespräch
+6. technische Gesichtspunkte, organisatorische Gesichtspunkte sowie rechtliche Gesichtspunkte bei der Leistungserbringung berücksichtigen, insbesondere
 
-Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
+a) die Maschinentechnologien und deren mechatronische Informations- und Kommunikationssysteme sowie vernetzte Informations- und Kommunikationssysteme,
 
-# § 6 – Situationsaufgabe
+b) die Diagnosetechnik, die Messtechnik, die Prüftechnik sowie die Instandhaltungstechnik,
 
-(1) Die Situationsaufgabe vervollständigt den Qualifikationsnachweis für die Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk.
+c) die Regelungen für
 
-(2) Als Situationsaufgabe ist die nachstehend aufgeführte Aufgabe auszuführen:  
-Fehler und Störungen an Fahrzeugen, Maschinen, Geräten oder Anlagen, insbesondere an Verbrennungsmotoren oder der Antriebstechnik eingrenzen, feststellen und beheben, Instandsetzungswege bestimmen und dabei Instandsetzungsalternativen beurteilen, Diagnose und Ergebnisse dokumentieren.
+aa)  
+amtliche Prüfungen,
 
-(3) Die Gesamtbewertung der Situationsaufgabe wird aus dem arithmetischen Mittel der Einzelbewertungen der Arbeiten nach Absatz 2 gebildet.
+bb)  
+Emissionsprüfungen und
 
-# § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+cc) sonstige Sicherheitsprüfungen,
 
-(1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung technologischer, ablauf- und verfahrenstechnischer, werkstofftechnischer und mathematischer Kenntnisse nachweisen, dass er Probleme analysieren und bewerten sowie geeignete Lösungswege aufzeigen und dokumentieren kann.
+d) die Vorschriften für Haftung, Arbeits- und Gesundheitsschutz, Unfallverhütung und Umweltschutz,
 
-(2) Prüfungsfächer sind:
+e) die berufsbezogenen Rechtsvorschriften und technischen Normen,
 
-1. Maschinentechnik,
+f) die allgemein anerkannten Regeln der Technik,
 
-2. Instandhaltungs- und Instandsetzungstechnik,
+g) das benötigte Personal sowie die Materialien, Geräte, Maschinen sowie Werkzeuge,
 
-3. Auftragsabwicklung,
+h) die Möglichkeiten zum Einsatz von Auszubildenden,
 
-4. Betriebsführung und Betriebsorganisation.
+7. maschinenbezogene Dokumente, insbesondere Pläne, Zeichnungen, Protokolle identifizieren, auswerten und anwenden,
 
-(3) In jedem der Prüfungsfächer ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss.
+8. Pläne, Skizzen, technische Zeichnungen und Protokolle, auch unter Einsatz von Informations- und Kommunikationstechnologien, sowie unter Beachtung von Herstellerinformationen und Produktinformationen, anfertigen, bewerten und korrigieren,
 
-1. Maschinentechnik:
+9. Arten und Eigenschaften von zu bearbeitenden Materialien und zu verarbeitenden Materialien berücksichtigen,
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, maschinentechnische Aufgaben und Probleme unter Beachtung wirtschaftlicher und ökologischer Aspekte in einem Land- und Baumaschinenmechatronikerbetrieb zu bearbeiten. Er soll maschinentechnische Sachverhalte beurteilen und beschreiben. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+10. Unteraufträge kriterienorientiert, insbesondere unter Berücksichtigung von Qualität der Leistungen und Rechtsvorschriften, vergeben und deren Ausführung kontrollieren,
 
-a) Lösungen für Problemstellungen aus den Bereichen Aufbau, Funktion und Einsatz von Landmaschinen, Baumaschinen oder Motorgeräten sowie deren Bauteile und Baugruppen, insbesondere aus den Bereichen Motoren- und Antriebstechnik, Lenkung, Reifen und Laufwerke, Bremsanlagen sowie Lastaufnahmeeinrichtungen, erarbeiten, bewerten oder korrigieren,
+11. fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus bewerten und dokumentieren sowie
 
-b) Lösungen für Aufgabenstellungen im Bereich der Steuerungs- und Regelungstechnik erarbeiten, bewerten oder korrigieren,
+12. erbrachte Leistungen kontrollieren, Mängel beseitigen, Leistungen dokumentieren und übergeben sowie Nachkalkulationen durchführen, Auftragsabwicklung auswerten und Abnahmeprotokolle erstellen.
 
-c) Arten und Eigenschaften von Werk-, Hilfs- und Betriebsstoffen beurteilen und Verwendungszwecken zuordnen,
+# § 4 – Ziel und Gliederung der Prüfung in Teil I
 
-d) Probleme der Materialbe- und -verarbeitung sowie des Fügens und Umformens beschreiben, Lösungen erarbeiten, bewerten oder korrigieren,
+(1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er wesentliche Tätigkeiten des Land- und Baumaschinenmechatroniker-Handwerks meisterhaft verrichtet.
 
-e) Lösungen für Aufgabenstellungen zum Berechnen von technischen und physikalischen Größen sowie von Maschinenteilen erarbeiten.
+(2) Die Prüfung in Teil I gliedert sich in folgende Prüfungsbereiche:
 
-2. Instandhaltungs- und Instandsetzungstechnik:
+1. ein Meisterprüfungsprojekt nach § 5 und ein darauf bezogenes Fachgespräch nach § 6 sowie
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, instandhaltungs- und instandsetzungstechnische Aufgaben und Probleme für Landmaschinen, für Baumaschinen oder für Motorgeräte sowie deren Bauteile und Baugruppen zu bearbeiten. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+2. eine Situationsaufgabe nach § 7.
 
-a) Lösungen für Problemstellungen, insbesondere in den Bereichen Motorentechnik, Fahrwerks- und Getriebetechnik erarbeiten, bewerten oder korrigieren,
+# § 5 – Meisterprüfungsprojekt
 
-b) Lösungen für Aufgabenstellungen in den Bereichen der Steuerungs- und Regelungstechnik sowie Elektrik und Elektronik erarbeiten, bewerten oder korrigieren,
+(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus Planungsarbeiten, Durchführungsarbeiten, Kontrollarbeiten und Dokumentationsarbeiten.
 
-c) Verfahren der Diagnose-, Prüf- und Messtechniken, der Funktionsprüfungen und der Fehlersuche auswählen und beurteilen,
+(2) Als Meisterprüfungsprojekt sind Diagnosen und Instandsetzungen oder Erweiterungen an vernetzten mechatronischen Geräten, vernetzten mechatronischen Maschinen oder vernetzten mechatronischen Anlagen der in § 2 genannten Bereiche zu planen, durchzuführen und zu kontrollieren. Diese Tätigkeiten sind an regelungstechnischen Systemen, bestehend aus Sensorik, Signalübertragung, Signalverarbeitung und Aktorik, vorzunehmen. Dabei sind für die Bearbeitung des Kundenauftrags zwei der nachfolgenden Systeme zugrunde zu legen, wobei ein System nach den Nummern 1 bis 4 und ein System nach Nummer 5 oder nach Nummer 6 oder nach Nummer 7 auszuwählen ist:
 
-d) Lösungen für Aufgabenstellungen beim Vermessen und Richten von Aufbauten, Rahmen, Fahrwerken und deren Bauteile erarbeiten, bewerten oder korrigieren.
+1. elektrohydraulisches System,
 
-3. Auftragsabwicklung:
+2. elektropneumatisches System,
 
-Der Prüfling soll nachweisen, das er in der Lage ist, bei der Auftragsabwicklung die ablauftechnischen Maßnahmen, die für den technischen und wirtschaftlichen Erfolg in einem Land- und Baumaschinenmechatronikerbetrieb notwendig sind, kundenorientiert einzuleiten und abzuschließen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+3. mechanisches System,
 
-a) Auftragsabwicklungsprozesse planen,
+4. mechatronisches System,
 
-b) unter Berücksichtigung der Fertigungstechnik, der Montage, des Einsatzes von Material, Geräten und Personal Methoden und Verfahren der Arbeitsplanung und -organisation bewerten,
+5. Antriebssystem,
 
-c) Unteraufträge vergeben und kontrollieren,
+6. Systeme für die interne und maschinenübergreifende Vernetzung von Maschinen,
 
-d) Schadensaufnahme an unfallbeschädigten Fahrzeugen und Maschinen darstellen, Instandsetzungsmethoden vorschlagen und die erforderliche Abwicklung festlegen; die Vor- und Nachkalkulation durchführen,
+7. automatisiertes System oder autonomes System.
 
-e) qualitätssichernde Aspekte bei der Auftragsannahme und bei der Einsteuerung von Aufträgen in das innerbetriebliche Informationssystem beschreiben,
+Als Planungsarbeiten sind folgende Arbeitsschritte durchzuführen:
 
-f) technische Arbeitspläne, insbesondere unter Anwendung von elektronischen Datenverarbeitungssystemen erarbeiten, bewerten und korrigieren.
+1. das Anliegen einer Kundin oder eines Kunden aufnehmen und analysieren, das Gerät, die Maschine oder die Anlage annehmen, eine Bewertung der vorgefundenen Ausgangsbedingungen durchführen, die Kundin oder den Kunden beraten sowie eine Kostenkalkulation erstellen und erläutern sowie
 
-4. Betriebsführung und Betriebsorganisation:
+2. Außeneinsätze sowie Werkstattdurchläufe planen und koordinieren, Auftragsabwicklung und effiziente Lösungswege unter Berücksichtigung der Kundenanforderungen festlegen.
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Land- und Baumaschinenmechatronikerbetrieb wahrzunehmen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+Als Durchführungsarbeiten sind folgende Arbeitsschritte durchzuführen:
+
+1. Fehler und Schäden an einem Gerät, einer Maschine oder einer Anlage diagnostizieren und beurteilen sowie Störungsursachen identifizieren und technisch begründen oder Detailplanung für Erweiterungen nach Absatz 2 Satz 1 durchführen sowie den Kundenauftrag auf notwendige Anpassungen prüfen und erläutern,
+
+2. Instandsetzungsarbeiten oder Erweiterungen an Geräten, Maschinen oder Anlagen durchführen sowie
+
+3. Systeme einstellen, parametrieren und aktualisieren und Geräte, Maschinen oder Anlagen wieder in Betrieb nehmen sowie Leistungen dokumentieren.
+
+Als Kontrollarbeiten sind folgende Arbeitsschritte durchzuführen:
+
+1. Mess- und Prüfprotokolle erstellen, bewerten und erläutern,
+
+2. eine Qualitätskontrolle durchführen und kriterienorientiert bewerten,
+
+3. eine Nachkalkulation durchführen und erläutern sowie
+
+4. die Geräte, Maschinen oder Anlagen übergeben.
+
+(3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt.
+
+(4) Für die Bearbeitung des Meisterprüfungsprojekts stehen dem Prüfling 16 Stunden zur Verfügung.
+
+(5) Für die Bewertung des Meisterprüfungsprojekts werden die einzelnen Bestandteile wie folgt gewichtet:
+
+1. die Planungsarbeiten anhand der Planungsunterlagen, bestehend aus Bewertung der vorgefundenen Ausgangsbedingungen und der Darstellung des Lösungsweges sowie der Kalkulation, mit 35 Prozent,
+
+2. die Durchführungsarbeiten mit 50 Prozent und
+
+3. die Kontrollarbeiten und die Dokumentationsarbeiten anhand der Dokumentationsunterlagen, bestehend aus einem Prüfprotokoll, mit 15 Prozent.
+
+# § 6 – Fachgespräch
+
+(1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
+
+2. Kundinnen und Kunden zu beraten und dabei den jeweiligen Kundenwunsch sowie wirtschaftliche Gesichtspunkte, rechtliche Gesichtspunkte, zeitliche Gesichtspunkte und technische Gesichtspunkte in das Beratungsgespräch einzubeziehen,
+
+3. sein Vorgehen bei der Planung und Durchführung des Meisterprüfungsprojekts zu begründen sowie
+
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Land- und Baumaschinenmechatroniker-Handwerk zu berücksichtigen.
+
+(2) Das Fachgespräch soll höchstens 30 Minuten dauern.
+
+# § 7 – Situationsaufgabe
+
+(1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und vervollständigt für die Meisterprüfung den Nachweis der beruflichen Handlungskompetenz im Land- und Baumaschinenmechatroniker-Handwerk.
+
+(2) Die Situationsaufgabe wird nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt. Die Situationsaufgabe darf keinen Bezug zu den im Meisterprüfungsprojekt gewählten Systemen haben. Es werden vom Meisterprüfungsausschuss aus den folgenden Arbeiten nach den Nummern 1 bis 3 zwei Arbeiten ausgewählt:
+
+1. Fehler und Störungen an einem vernetzten mechatronischen System von Geräten, Maschinen oder Anlagen diagnostizieren, Reparaturen effizient umsetzen sowie Funktionen und Störungsmöglichkeiten von Funktionsgruppen anhand der Herstellerdokumentationen erläutern,
+
+2. Planen, Durchführen, Inbetriebnehmen sowie Dokumentieren
+
+a) mechatronischer Installationen von Bauteilen, von Baugruppen und Systemen an Geräten, an Maschinen oder an Anlagen sowie
+
+b) mechatronischer Erweiterungen von Bauteilen, von Baugruppen und Systemen an Geräten, an Maschinen oder an Anlagen oder
+
+3. eine vernetzte mechatronische Baugruppe an einem Gerät, einer Maschine oder einer Anlage und deren System einstellen.
+
+(3) Für die Bearbeitung der Situationsaufgabe stehen dem Prüfling 4 Stunden zur Verfügung.
+
+(4) Jede der Arbeiten nach Absatz 2 Satz 2 Nummer 1 bis 3 wird gesondert bewertet. Die Gesamtbewertung der Situationsaufgabe entspricht dem arithmetischen Mittel der Bewertungen der Arbeiten nach Absatz 2 Satz 2 Nummer 1 bis 3.
+
+# § 8 – Gewichtung, Bestehen der Prüfung in Teil I
+
+(1) Das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe werden gesondert bewertet. Bei Berechnung des Gesamtergebnisses der Prüfung in Teil I der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden zunächst die Bewertung des Meisterprüfungsprojekts und die Bewertung des Fachgesprächs im Verhältnis 3:1 gewichtet; anschließend wird das hieraus folgende Ergebnis mit der Bewertung der Situationsaufgabe im Verhältnis 2:1 gewichtet.
+
+(2) Der Prüfling hat den Teil I der Meisterprüfung bestanden, wenn
+
+1. das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe jeweils mit mindestens 30 Punkten bewertet worden ist und
+
+2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
+
+# § 9 – Ziel und Gliederung der Prüfung in Teil II
+
+(1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Land- und Baumaschinenmechatroniker-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
+
+1. nach Maßgabe des § 10 „Anforderungen von Kundinnen und Kunden eines Betriebs im Land- und Baumaschinenmechatroniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“,
+
+2. nach Maßgabe des § 11 „Leistungen eines Betriebs im Land- und Baumaschinenmechatroniker-Handwerk erbringen, kontrollieren und übergeben“ und
+
+3. nach Maßgabe des § 12 „Einen Betrieb im Land- und Baumaschinenmechatroniker-Handwerk führen und organisieren“.
+
+(2) Der Prüfling hat in jedem der drei Handlungsfelder eine fallbezogene Aufgabe zu bearbeiten, die den Anforderungen des Absatzes 1 entspricht. Bei jeder Aufgabenstellung können die Qualifikationen der drei Handlungsfelder handlungsfeldübergreifend verknüpft werden.
+
+(3) Die Aufgaben sind schriftlich zu bearbeiten.
+
+(4) Für die Bearbeitung der Aufgaben stehen dem Prüfling in jedem Handlungsfeld 3 Stunden zur Verfügung. Eine Prüfungsdauer von 6 Stunden an einem Tag darf nicht überschritten werden.
+
+# § 10 – Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Land- und Baumaschinenmechatroniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“
+
+(1) Im Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Land- und Baumaschinenmechatroniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Betrieb im Land- und Baumaschinenmechatroniker-Handwerk Anforderungen erfolgsorientiert, kundenorientiert sowie qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er sicherheitsrelevante Gesichtspunkte, haftungsrechtliche Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte sowie soziale Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Land- und Baumaschinenmechatroniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
+
+1. Kundenwünsche und die Rahmenbedingungen zu deren Erfüllung analysieren, dokumentieren sowie bewerten und daraus Anforderungen ableiten, hierzu zählen insbesondere:
+
+a) Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten, insbesondere unter Berücksichtigung zielorientierter Gesprächsführung, der zeitlichen Anforderungen sowie wirtschaftlichen Anforderungen der Kundinnen und Kunden und rechtlicher Regelungen des Auftrags,
+
+b) Ausschreibungen oder Angebotsanfragen öffentlicher Auftraggeber oder privater Auftraggeber analysieren und bewerten,
+
+c) Überprüfen und Analysieren folgender Systeme von Geräten, von Maschinen oder von Anlagen sowie deren Zusatzsysteme:
+
+aa)  
+mechanische Systeme,
+
+bb)  
+pneumatische Systeme,
+
+cc) hydraulische Systeme,
+
+dd)  
+elektrische Systeme,
+
+ee)  
+elektronische Systeme,
+
+ff)  
+mechatronische Systeme,
+
+gg)  
+automatisierte Systeme,
+
+hh)  
+vernetzte Systeme,
+
+ii) smarte Systeme sowie
+
+jj)  
+autonome Systeme,
+
+d) Prüfverfahren zur Feststellung der Rahmenbedingungen an Fahrzeugen, an Bauteilen, an Baugruppen sowie an Systemen erläutern und bewerten, Bedienfehler sowie Störungen erkennen, dazu die Fehleranalyse erläutern und bewerten,
+
+e) Antriebskonzepte für Fahrfunktionen und Arbeitsfunktionen sowie Energiespeicherformen erläutern und überprüfen,
+
+f) Funktionen der Kommunikationstechnik sowie der Regelungstechnik vernetzter Systeme erläutern und überprüfen,
+
+g) Grundzüge der Datensicherheit, des Datenschutzes sowie der Datennutzung erläutern und überprüfen sowie
+
+h) Ergebnisse der vorstehenden Handlungsschritte dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten,
+
+2. Lösungsmöglichkeiten entwickeln, erläutern und begründen, auch unter Berücksichtigung der berufsbezogenen Rechtsvorschriften und technischen Normen sowie der allgemein anerkannten Regeln der Technik, hierzu zählen insbesondere:
+
+a) Möglichkeiten und Notwendigkeiten des Einsatzes von Bauteilen, von Baugruppen, von Geräten, von Maschinen, von Materialien, von Systemen, von Werkzeugen und von Personal, auch unter Berücksichtigung einzusetzender Verfahren, darstellen, erläutern und begründen,
+
+b) Sicherheitsrisiken, Gesundheitsrisiken sowie Haftungsrisiken bewerten und Konsequenzen ableiten,
+
+c) technische Zeichnungen, Schaltpläne, Stromlaufpläne sowie Hydraulikpläne, Herstellerinformationen und Produktinformationen sowie weitere relevante technische Dokumentationen anfertigen, bewerten und korrigieren,
+
+d) Kriterien für die Vergabe von Unteraufträgen festlegen, insbesondere unter Berücksichtigung von Qualität und von Rechtsvorschriften, darauf aufbauend Angebotsanfragen erstellen sowie hierauf eingehende Angebote bewerten sowie
+
+e) Vorteile und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkte, der Prioritäten von Kundinnen und Kunden sowie sicherheitstechnische Gesichtspunkte und haftungsrechtlicher Gesichtspunkte erläutern und abwägen sowie daraus eine Lösung auswählen und diese Auswahl begründen und
+
+3. Angebote kalkulieren, erstellen und erläutern sowie Leistungen vereinbaren, hierzu zählen insbesondere:
+
+a) Personalkosten, Materialkosten sowie Gerätekosten auf der Grundlage der Planungen kalkulieren,
+
+b) auf der Grundlage entwickelter Lösungsmöglichkeiten Angebotspositionen bestimmen und zu Angebotspaketen zusammenfassen, Preise kalkulieren,
+
+c) Vertragsbedingungen unter Berücksichtigung von Haftungsbestimmungen formulieren und beurteilen,
+
+d) Angebotsunterlagen vorbereiten, Angebote erstellen sowie
+
+e) Angebotspositionen sowie Vertragsbedingungen gegenüber Kundinnen und Kunden erläutern und begründen sowie Leistungen vereinbaren.
+
+# § 11 – Handlungsfeld „Leistungen eines Betriebs im Land- und Baumaschinenmechatroniker-Handwerk erbringen, kontrollieren und übergeben“
+
+(1) Im Handlungsfeld „Leistungen eines Betriebs im Land- und Baumaschinenmechatroniker-Handwerk erbringen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Leistungen eines Betriebs im Land- und Baumaschinenmechatroniker-Handwerk erfolgsorientiert, kundenorientiert und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu erbringen, zu kontrollieren und zu übergeben. Dabei hat er sicherheitsrelevante Gesichtspunkte, haftungsrechtliche Gesichtspunkte, ökologische Gesichtspunkte, ökonomische Gesichtspunkte und soziale Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Leistungen eines Betriebs im Land- und Baumaschinenmechatroniker-Handwerk erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
+
+1. die Erbringung der Leistungen vorbereiten, hierzu zählen insbesondere:
+
+a) Methoden der Arbeitsplanung und Arbeitsorganisation erläutern, auswählen und Auswahl begründen sowie unter Berücksichtigung einzusetzender Instandhaltungsverfahren, von Außeneinsätzen und Werkstattdurchläufen den Einsatz von Personal, Material, Geräten, Maschinen sowie Werkzeugen planen,
+
+b) mögliche Störungen bei der Leistungserbringung, auch in der Zusammenarbeit mit anderen an der Leistungserbringung Beteiligten, vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder Behebung entwickeln,
+
+c) Handhabungshinweise, Herstellerinformationen und Produktinformationen für Bauteile, für Baugruppen, für Systeme, für Betriebsstoffe, für Hilfsstoffe sowie für Gefahrstoffe leistungsbezogen auswerten und erläutern,
+
+d) Messverfahren sowie Prüfverfahren zur Feststellung und Dokumentation der Rahmenbedingungen an Fahrzeugen, an Bauteilen, an Baugruppen und an Systemen erläutern und bewerten, dazu die Fehleranalyse erläutern und bewerten sowie
+
+e) elektrische Schaltpläne sowie hydraulische Schaltpläne und technische Zeichnungen für Systeme erstellen, bewerten, korrigieren und erweitern,
+
+2. die Leistungen erbringen, hierzu zählen insbesondere:
+
+a) berufsbezogene Rechtsvorschriften und technische Normen sowie die allgemein anerkannten Regeln der Technik anwenden,
+
+b) Maßnahmen zur Gefahrenvermeidung und Gefahrenbeseitigung erläutern sowie Folgen ableiten,
+
+c) Fehler und Mängel in der Erbringung der Leistungen erläutern sowie Maßnahmen zu deren Beseitigung ableiten und
+
+d) Vorgehensweise zur Erbringung von Leistungen unter Berücksichtigung von Herstellerinformationen und Produktinformationen gegenüber Kundinnen und Kunden sowie dem Werkstattpersonal erläutern und begründen sowie
+
+3. die Leistungen kontrollieren, dokumentieren, übergeben und abrechnen, hierzu zählen insbesondere:
+
+a) Kriterien zur Feststellung der Qualität der erbrachten Leistungen erläutern,
+
+b) Leistungen dokumentieren,
+
+c) Messergebnisse sowie Prüfergebnisse dokumentieren und bewerten,
+
+d) Vorgehensweise bei Übergabe der Leistungen und Information der Kundinnen und Kunden über Handhabung, Pflege und Wartung erläutern,
+
+e) Leistungen abrechnen,
+
+f) auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten,
+
+g) Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung erläutern und beurteilen sowie
+
+h) Serviceleistungen anlässlich der Übergabe, insbesondere Auftragserweiterungen, erläutern und bewerten.
+
+# § 12 – Handlungsfeld „Einen Betrieb im Land- und Baumaschinenmechatroniker-Handwerk führen und organisieren“
+
+(1) Im Handlungsfeld „Einen Betrieb im Land- und Baumaschinenmechatroniker-Handwerk führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Betrieb im Land- und Baumaschinenmechatroniker-Handwerk unter Berücksichtigung der Rechtsvorschriften, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere den Nutzen gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+
+(2) Das Handlungsfeld „Einen Betrieb im Land- und Baumaschinenmechatroniker-Handwerk führen und organisieren“ besteht aus folgenden Qualifikationen:
+
+1. betriebliche Kosten analysieren und für die Preisgestaltung und Effizienzsteigerung nutzen, hierzu zählen insbesondere:
 
 a) betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,
 
-b) Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsatzmöglichkeiten beurteilen,
+b) betriebliche Kostenstrukturen überprüfen,
 
-c) betriebliches Qualitätsmanagement planen und darstellen,
+c) betriebliche Kennzahlen ermitteln sowie vergleichen,
 
-d) berufsbezogene Gesetze, Normen, Regeln und Vorschriften anwenden,
+d) Maßnahmen zur Effizienzsteigerung ableiten sowie
 
-e) Haftung bei der Herstellung, der Instandhaltung und bei Dienstleistungen beurteilen,
+e) Stundenverrechnungssätze anhand vorgegebener Kostenstrukturen berechnen,
 
-f) Erfordernisse der Arbeitssicherheit, des Gesundheitsschutzes und des Umweltschutzes darstellen; Gefährdung beurteilen und Maßnahmen zur Gefährdungsabwehr festlegen,
+2. Marketingmaßnahmen zur Kundengewinnung und -pflege erarbeiten, hierzu zählen insbesondere:
 
-g) Betriebs- und Lagerausstattung sowie Logistik planen und darstellen,
+a) Auswirkungen technologischer Entwicklungen, wirtschaftlicher Entwicklungen, rechtlicher Entwicklungen sowie gesellschaftlicher Entwicklungen und veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen,
 
-h) Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden beschreiben.
+b) Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen zur Kundengewinnung sowie zur Kundenpflege entwickeln,
 
-(4) Die Prüfung im Teil II ist schriftlich durchzuführen. Sie soll insgesamt nicht länger als acht Stunden dauern. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
+c) Informationen über Produkte und über das Leistungsspektrum des Betriebs erstellen sowie
 
-(5) Wurden in höchstens zwei der in Absatz 2 genannten Prüfungsfächer jeweils mindestens 30 und weniger als 50 Punkte erreicht, kann in einem dieser Prüfungsfächer eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese das Bestehen des Teils II der Meisterprüfung ermöglicht.
+d) Vertriebswege, auch informations- und kommunikationsgestützte, ermitteln und bewerten,
 
-(6) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Die Prüfung des Teils II ist nicht bestanden, wenn
+3. betriebliches Qualitätsmanagement entwickeln, hierzu zählen insbesondere:
 
-1. ein Prüfungsfach mit weniger als 30 Punkten bewertet worden ist oder
+a) Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen,
 
-2. nach durchgeführter Ergänzungsprüfung zwei Prüfungsfächer jeweils mit weniger als 50 Punkten bewertet worden sind.
+b) Qualitätsmanagementsysteme unterscheiden und beurteilen,
 
-(+++ § 7 Abs. 5 u. 6: Zur Anwendung vgl. § 9 +++)
+c) Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen,
 
-# § 8 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+d) Maßnahmen zur kontinuierlichen Verbesserung von Arbeits- und Geschäftsprozessen festlegen und bewerten sowie
+
+e) Maßnahmen zur Rückverfolgbarkeit der verwendeten Produkte und Materialien, insbesondere unter Gesichtspunkten der sozialen Nachhaltigkeit, der ökologischen Nachhaltigkeit sowie der Produkthaftung, erläutern,
+
+4. Personal unter Berücksichtigung gewerbespezifischer Bedingungen planen und anleiten, Personalentwicklung planen, hierzu zählen insbesondere:
+
+a) Einsatz von Personal disponieren,
+
+b) Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren,
+
+c) Methoden zur Anleitung von Personal erläutern,
+
+d) Qualifikationsbedarfe ermitteln,
+
+e) Maßnahmen zur fortlaufenden Qualifizierung, insbesondere unter Berücksichtigung des Berufslaufbahnkonzepts im Land- und Baumaschinenmechatroniker-Handwerk, planen sowie
+
+f) Personal, auch unter Nutzung von Informations- und Kommunikationstechnologien gewinnen und binden sowie
+
+5. Betriebsausstattung sowie Lagerausstattung sowie Abläufe planen, hierzu zählen insbesondere:
+
+a) Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, dazu die Folgen aus dem Ergebnis ableiten,
+
+b) Ausstattung des Betriebs, der Werkstatt, des Lagers und der Maschinen, insbesondere unter Berücksichtigung der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, der Gefahrstofflagerung sowie ökologischen Gesichtspunkten, ökonomischen Gesichtspunkten, sozialen Gesichtspunkten sowie logistischen Gesichtspunkten, planen und begründen,
+
+c) Maßnahmen zur Unfallverhütung, zum Arbeitsschutz, zur Gefahrstofflagerung, insbesondere unter Berücksichtigung ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte sowie sozialer Gesichtspunkte, planen und begründen,
+
+d) Instandhaltung von Diagnosesystemen, informationstechnischen Systemen, mobilen Endgeräten, Werkzeugen, Geräten, Maschinen und Fahrzeugen planen,
+
+e) Betriebsabläufe planen und verbessern, unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, Material, Diagnosesystemen, informationstechnischen Systemen, mobilen Endgeräten, Werkzeugen, Geräten, Maschinen und Fahrzeugen sowie
+
+f) betriebliches Datenmanagement und betriebliche Datensicherheit sowie Informations- und Kommunikationssysteme planen und verbessern.
+
+# § 13 – Gewichtung, Bestehen der Prüfung in Teil II
+
+(1) Bei der Berechnung des Gesamtergebnisses der Prüfung in Teil II der Meisterprüfung nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung werden die Bewertungen der Handlungsfelder nach den §§ 10 bis 12 gleich gewichtet.
+
+(2) Wurden in höchstens zwei der drei Handlungsfelder jeweils mindestens 30 und weniger als 50 Punkte erreicht, so kann in einem dieser Handlungsfelder eine mündliche Ergänzungsprüfung durchgeführt werden, wenn diese für das Bestehen der Prüfung in Teil II der Meisterprüfung ausschlaggebend ist.
+
+(3) Der Prüfling hat den Teil II der Meisterprüfung bestanden, wenn
+
+1. jedes der drei Handlungsfelder mit mindestens 30 Punkten bewertet worden ist,
+
+2. nach durchgeführter Ergänzungsprüfung nach Absatz 2 höchstens ein Handlungsfeld mit weniger als 50 Punkten bewertet worden ist und
+
+3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
+
+# § 14 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
-(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
-# § 9 – Übergangsvorschrift
+# § 15 – Übergangsvorschrift
 
-Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
+(1) Die bis zum Ablauf des 31. Juli 2025 begonnenen Prüfungsverfahren werden nach den Vorschriften der Land- und Baumaschinenmechatronikermeisterverordnung vom 5. April 2001 (BGBl. I S. 490), die zuletzt durch Artikel 2 Absatz 33 der Verordnung vom 18. Januar 2022 (BGBl. I S. 39) geändert worden ist, zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 31. Januar 2026, so sind auf Verlangen des Prüflings die bis zum Ablauf des 31. Juli 2025 geltenden Vorschriften weiter anzuwenden.
 
-# § 10 – Inkrafttreten, Außerkrafttreten
+(2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 31. Juli 2025 geltenden Vorschriften nicht bestanden haben und sich bis zum Ablauf des 31. Juli 2027 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum Ablauf des 31. Juli 2025 geltenden Vorschriften ablegen.
 
-Diese Verordnung tritt am 1. Juli 2001 in Kraft.
+# § 16 – Inkrafttreten, Außerkrafttreten
+
+Diese Verordnung tritt am 1. August 2025 in Kraft. Gleichzeitig tritt die Land- und Baumaschinenmechatronikermeisterverordnung vom 5. April 2001 (BGBl. I S. 490), die zuletzt durch Artikel 2 Absatz 33 der Verordnung vom 18. Januar 2022 (BGBl. I S. 39) geändert worden ist, außer Kraft.

@@ -557,11 +557,7 @@ Bei Grenzkraftwerken ist das gesamte Grenzkraftwerk zu registrieren. Bei Grenzkr
 
 # § 22 – Einsatz von Umweltgutachter oder Umweltgutachterorganisation bei der Anlagenregistrierung im Herkunftsnachweisregister
 
-(1) Folgende Anlagen werden im Herkunftsnachweisregister erst dann registriert, wenn der Anlagenbetreiber die Richtigkeit der nach § 21 Absatz 1 Satz 2 übermittelten Daten durch einen Umweltgutachter oder eine Umweltgutachterorganisation hat bestätigen lassen und diese Bestätigung der Registerverwaltung vorliegt:
-
-1. Anlagen im Sinne des § 12 Absatz 1 Satz 1 Nummer 8 und
-
-2. Anlagen mit einer installierten Leistung von mehr als 100 Kilowatt, für deren erzeugten Strom in den letzten fünf Jahren vor dem Antrag auf Registrierung keine Zahlung nach § 19 des Erneuerbare-Energien-Gesetzes in Anspruch genommen worden ist.
+(1) Eine Anlage nach § 12 Absatz 1 Satz 1 Nummer 8 wird im Herkunftsnachweisregister erst dann registriert, wenn der Anlagenbetreiber die Richtigkeit der nach § 21 Absatz 1 Satz 2 Nummer 4, 5, 8 und 9 übermittelten Daten durch einen Umweltgutachter oder eine Umweltgutachterorganisation hat bestätigen lassen und diese Bestätigung der Registerverwaltung vorliegt.
 
 (1a) Hocheffiziente KWK-Anlagen mit einer installierten Leistung über 100 Kilowatt werden erst registriert, wenn der Anlagenbetreiber die Richtigkeit der nach § 21 Absatz 1 Satz 2 und Absatz 1a übermittelten Daten durch einen Umweltgutachter oder eine Umweltgutachterorganisation bestätigen lassen hat und diese Bestätigung der Registerverwaltung vorliegt.
 
@@ -597,7 +593,7 @@ Bei Grenzkraftwerken ist das gesamte Grenzkraftwerk zu registrieren. Bei Grenzkr
 
 (1) Ändern sich die nach § 21 Absatz 1 Satz 2, Absatz 1a oder Absatz 2 Satz 1 oder nach § 23 Absatz 1 Satz 2 mitgeteilten Daten, ist der Anlagenbetreiber verpflichtet, die geänderten Daten sowie den Stichtag, an dem die Änderungen wirksam werden, vollständig und unverzüglich der Registerverwaltung zu übermitteln. Eine Änderung der Postleitzahl am Standort des physikalischen Zählpunkts der Anlage wird durch die Registerverwaltung erst mit Beginn des auf die Änderung folgenden Kalenderjahres berücksichtigt.
 
-(2) Bei Anlagen mit einer installierten Leistung über 100 Kilowatt, die im Herkunftsnachweisregister registriert sind, hat der Anlagenbetreiber die Richtigkeit der geänderten Daten nach § 21 Absatz 1 Satz 2 Nummer 4, 5, 8 und 9, Absatz 1a, Absatz 2 Satz 1 Nummer 2 und 3 und Absatz 3 durch eine Bestätigung des Umweltgutachters oder der Umweltgutachterorganisation nachzuweisen. Ein solcher Nachweis ist nicht erforderlich, wenn der zuständige Betreiber des Elektrizitätsversorgungsnetzes die geänderten Daten der Registerverwaltung übermittelt. Vor dem Eingang der Bestätigung nach Satz 1 oder der Datenübermittlung nach Satz 2 bei der Registerverwaltung werden keine Herkunftsnachweise für die in der betreffenden Anlage erzeugte Strommenge ausgestellt.
+(2) Bei einer Anlage nach § 12 Absatz 1 Satz 1 Nummer 8, die im Herkunftsnachweisregister registriert ist, hat der Anlagenbetreiber die Richtigkeit der geänderten Daten nach § 21 Absatz 1 Satz 2 Nummer 4, 5, 8 und 9, Absatz 1a und 3 durch eine Bestätigung des Umweltgutachters oder der Umweltgutachterorganisation nachzuweisen. Ein solcher Nachweis ist nicht erforderlich, wenn der zuständige Betreiber des Elektrizitätsversorgungsnetzes die geänderten Daten der Registerverwaltung übermittelt oder diese im Marktstammdatenregister bestätigt hat. Vor dem Eingang der Bestätigung nach Satz 1 oder der Datenübermittlung nach Satz 2 bei der Registerverwaltung werden keine Herkunftsnachweise für die in der betreffenden Anlage erzeugte Strommenge ausgestellt.
 
 # § 25 – Registrierung von Gesamtanlagen
 

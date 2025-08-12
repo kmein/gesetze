@@ -1275,8 +1275,7 @@
 - [Bürgergeld-V](laws/Bürgergeld-V.md) Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld
 - [BürgPoRPakt](laws/BürgPoRPakt.md) Internationaler Pakt über bürgerliche und politische Rechte
 - [BürgPoRPaktGG](laws/BürgPoRPaktGG.md) Gesetz zu dem Internationalen Pakt vom 19. Dezember 1966 über bürgerliche und politische Rechte
-- [BüroMKfAusbV](laws/BüroMKfAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement *
-- [BüroMKfAusbVErprV](laws/BüroMKfAusbVErprV.md) Verordnung über die Erprobung abweichender Ausbildungs- und Prüfungsbestimmungen in der Büromanagementkaufleute-Ausbildungsverordnung
+- [BüroMKfAusbV](laws/BüroMKfAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement*
 - [BürstPiMstrV](laws/BürstPiMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Bürsten- und Pinselmacher-Gewerbe
 - [BüsingenVtr CHE](laws/BüsingenVtr_CHE.md) Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet
 - [BUKDiszAnO](laws/BUKDiszAnO.md) Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Unfallkasse des Bundes
@@ -1651,7 +1650,7 @@
 - [EComKflAusbV](laws/EComKflAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann im E-Commerce und zur Kauffrau im E-Commerce*
 - [EdelstGrMstrV](laws/EdelstGrMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Edelsteingraveur-Handwerk
 - [EDL-G](laws/EDL-G.md) Gesetz über Energiedienstleistungen und andere Energieeffizienzmaßnahmen
-- [EdlStFAusbV](laws/EdlStFAusbV.md) Verordnung über die Berufsausbildung zum Edelsteinfasser/zur Edelsteinfasserin
+- [EdlStFAusbV](laws/EdlStFAusbV.md) Verordnung über die Berufsausbildung zum Edelsteinfasser und zur Edelsteinfasserin *
 - [EdSchleifAusbV](laws/EdSchleifAusbV.md) Verordnung über die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin*
 - [EdWBeitrV](laws/EdWBeitrV.md) Verordnung über die Beiträge zu der Entschädigungseinrichtung der Wertpapierhandelsunternehmen bei der Kreditanstalt für Wiederaufbau
 - [EEG 2023](laws/EEG_2023.md) Gesetz für den Ausbau erneuerbarer Energien
@@ -2199,7 +2198,7 @@
 - [FlexMstrV](laws/FlexMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Flexografen-Handwerk
 - [FlG](laws/FlG.md) Fleischgesetz*)
 - [FlGlasTechAusbV](laws/FlGlasTechAusbV.md) Verordnung über die Berufsausbildung zum Flachglastechnologen und zur Flachglastechnologin *
-- [FloristAusbV](laws/FloristAusbV.md) Verordnung über die Berufsausbildung zum Floristen/zur Floristin
+- [FloristAusbV](laws/FloristAusbV.md) Verordnung über die Berufsausbildung zum Floristen und zur Floristin *
 - [FloristMFPrV](laws/FloristMFPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Floristmeister oder Geprüfte Floristmeisterin
 - [FlRV](laws/FlRV.md) Flaggenrechtsverordnung
 - [FlüAbkProt](laws/FlüAbkProt.md) Protokoll über die Rechtsstellung der Flüchtlinge
@@ -2257,7 +2256,7 @@
 - [FortbVenÄndV6AnwV](laws/FortbVenÄndV6AnwV.md) Verordnung zur Anwendung der Sechsten Verordnung zur Änderung von Fortbildungsordnungen
 - [ForumRG](laws/ForumRG.md) Gesetz zur Errichtung der „Stiftung Forum Recht“
 - [ForUmV](laws/ForUmV.md) Verordnung über Erhebungen zum forstlichen Umweltmonitoring
-- [FotoAusbV](laws/FotoAusbV.md) Verordnung über die Berufsausbildung zum Fotografen und zur Fotografin *)
+- [FotoAusbV](laws/FotoAusbV.md) Verordnung über die Berufsausbildung zum Fotografen und zur Fotografin*
 - [FotografMstrV](laws/FotografMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Fotografen-Handwerk
 - [FotoMedFachAusbV](laws/FotoMedFachAusbV.md) Verordnung über die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau *)
 - [FoVDV](laws/FoVDV.md) Forstvermehrungsgut-Durchführungsverordnung
@@ -2567,9 +2566,9 @@
 - [GoetheMedStat](laws/GoetheMedStat.md) Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts Inter Nationes e. V. (gestiftet 1954)
 - [GoetheMedStat 2003](laws/GoetheMedStat_2003.md) Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts e. V. (gestiftet 1954)
 - [GoetheMedStat 2008](laws/GoetheMedStat_2008.md) Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts e. V. (gestiftet 1954)
-- [GoldSchmAusbV](laws/GoldSchmAusbV.md) Verordnung über die Berufsausbildung zum Goldschmied/zur Goldschmiedin
 - [GoldSilberschmiedMstrV](laws/GoldSilberschmiedMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Gold- und Silberschmiede-Handwerk
 - [GOP](laws/GOP.md) Gebührenordnung für Psychologische Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten
+- [GoSiAusbV](laws/GoSiAusbV.md) Verordnung über die Berufsausbildung zum Gold- und Silberschmied und zur Gold- und Silberschmiedin *
 - [GOT](laws/GOT.md) Gebührenordnung für Tierärztinnen und Tierärzte
 - [GOZ](laws/GOZ.md) Gebührenordnung für Zahnärzte
 - [GPatG](laws/GPatG.md) Gesetz über das Gemeinschaftspatent und zur Änderung patentrechtlicher Vorschriften
@@ -3054,7 +3053,7 @@
 - [JArbSchUV](laws/JArbSchUV.md) Verordnung über die ärztlichen Untersuchungen nach dem Jugendarbeitsschutzgesetz
 - [JAVollzO](laws/JAVollzO.md) Verordnung über den Vollzug des Jugendarrestes
 - [JBeitrG](laws/JBeitrG.md) Justizbeitreibungsgesetz
-- [JFAngAusbV](laws/JFAngAusbV.md) Verordnung über die Berufsausbildung zum Justizfachangestellten/zur Justizfachangestellten
+- [JFAngAusbV](laws/JFAngAusbV.md) Verordnung über die Berufsausbildung zum Justizfachangestellten und zur Justizfachangestellten *
 - [JFDG](laws/JFDG.md) Gesetz zur Förderung von Jugendfreiwilligendiensten
 - [JGG](laws/JGG.md) Jugendgerichtsgesetz
 - [JHiStruktV](laws/JHiStruktV.md) Verordnung über die Durchführung einer Statistik über die Struktur des Personals in der Jugendhilfe
@@ -3382,7 +3381,7 @@
 - [LärmschutzV](laws/LärmschutzV.md) Landeplatz-Lärmschutz-Verordnung
 - [LärmVibrationsArbSchV](laws/LärmVibrationsArbSchV.md) Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen
 - [LAG](laws/LAG.md) Gesetz über den Lastenausgleich
-- [LandBauMechMstrV](laws/LandBauMechMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk
+- [LandBauMechMstrV](laws/LandBauMechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Land- und Baumaschinenmechatroniker-Handwerk
 - [LandBauMTAusbV 2008](laws/LandBauMTAusbV_2008.md) Verordnung über die Berufsausbildung zum Land- und Baumaschinenmechatroniker und zur Land- und Baumaschinenmechatronikerin
 - [LAnzV](laws/LAnzV.md) Verordnung zur Konkretisierung von Art, Umfang und Form der Mitteilungen und Benachrichtigungen gemäß Artikel 17 Absatz 5, 6, 9 und 10 der Verordnung (EU) Nr. 236/2012
 - [LAP-gbautDV](laws/LAP-gbautDV.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen bautechnischen Verwaltungsdienst des Bundes
@@ -4975,7 +4974,7 @@
 - [SchBrÜbkG](laws/SchBrÜbkG.md) Gesetz betreffend das Internationale Übereinkommen über die Gewährung einer Entschädigung für Arbeitslosigkeit infolge von Schiffbruch
 - [ScheckG](laws/ScheckG.md) Scheckgesetz
 - [SchErsRÄndG](laws/SchErsRÄndG.md) Gesetz zur Änderung schadensersatzrechtlicher Vorschriften
-- [SchfAusbV](laws/SchfAusbV.md) Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin*)
+- [SchfAusbV](laws/SchfAusbV.md) Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin*
 - [SchfHwG](laws/SchfHwG.md) Gesetz über das Berufsrecht und die Versorgung im Schornsteinfegerhandwerk
 - [SchHaltHygV](laws/SchHaltHygV.md) Verordnung über hygienische Anforderungen beim Halten von Schweinen
 - [SchiedsAmtsO](laws/SchiedsAmtsO.md) Verordnung über die Schiedsämter für die vertragsärztliche (vertragszahnärztliche) Versorgung
@@ -5206,7 +5205,6 @@
 - [SiebdrAusbV](laws/SiebdrAusbV.md) Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck*)
 - [SiebdrMstrV](laws/SiebdrMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Siebdrucker-Handwerk
 - [SiMedErl](laws/SiMedErl.md) Erlaß über die Stiftung der Silbermedaille für den Behindertensport
-- [SiSchmAusbV](laws/SiSchmAusbV.md) Verordnung über die Berufsausbildung zum Silberschmied/zur Silberschmiedin
 - [SiV](laws/SiV.md) Verordnung über die Anforderungen an Sicherheiten und die Anlage bestimmter Vermögen
 - [SIVFPrV](laws/SIVFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Systemintegration und Vernetzung oder Geprüfte Berufsspezialistin für Systemintegration und Vernetzung
 - [SKAG Berlin](laws/SKAG_Berlin.md) Gesetz zur Einführung der Selbstverwaltung auf dem Gebiet der Sozialversicherung und Angleichung des Rechts der Krankenversicherung im Land Berlin
@@ -5778,6 +5776,7 @@
 - [TVG](laws/TVG.md) Tarifvertragsgesetz
 - [TVGDV](laws/TVGDV.md) Verordnung zur Durchführung des Tarifvertragsgesetzes
 - [TVMindestlohn Gerüstb 8](laws/TVMindestlohn_Gerüstb_8.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. August 2023
+- [TVMindestlohn Maler 12](laws/TVMindestlohn_Maler_12.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 28. April 2025
 - [TVMindestlohnDachd 12](laws/TVMindestlohnDachd_12.md) Rechtsnormen des Tarifvertrages zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. September 2023
 - [TVMindestlohnGebäude 2024](laws/TVMindestlohnGebäude_2024.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer1) in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. November 2024
 - [TVMindestlohnPäda 6](laws/TVMindestlohnPäda_6.md) Rechtsnormen des Tarifvertrags Nr. 7 zur Regelung des Mindestlohns für pädagogisches Personal vom 27. Juli 2022
@@ -6563,7 +6562,7 @@
 - [ZahnFinAnpG](laws/ZahnFinAnpG.md) Gesetz zur Anpassung der Finanzierung von Zahnersatz
 - [ZahnmedAusbV](laws/ZahnmedAusbV.md) Verordnung über die Berufsausbildung zum Zahnmedizinischen Fachangestellten und zur Zahnmedizinischen Fachangestellten *
 - [ZahntechAusbV](laws/ZahntechAusbV.md) Verordnung über die Berufsausbildung zum Zahntechniker und zur Zahntechnikerin*
-- [ZahntechMstrV](laws/ZahntechMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Zahntechniker-Handwerk
+- [ZahntechMstrV](laws/ZahntechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Zahntechniker-Handwerk
 - [ZApprO](laws/ZApprO.md) Approbationsordnung für Zahnärzte und Zahnärztinnen
 - [ZDG](laws/ZDG.md) Gesetz über den Zivildienst der Kriegsdienstverweigerer
 - [ZDPersAV](laws/ZDPersAV.md) Verordnung über die Führung der Personalakten durch das Bundesamt für den Zivildienst
@@ -6713,6 +6712,7 @@
 - [11. RAV](laws/11._RAV.md) Verordnung zur elften Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1996
 - [12. BImSchV](laws/12._BImSchV.md) Zwölfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [12. DachdArbbV](laws/12._DachdArbbV.md) Zwölfte Verordnung über zwingende Arbeitsbedingungen im Dachdeckerhandwerk
+- [12. MalerArbbV](laws/12._MalerArbbV.md) Zwölfte Verordnung über zwingende Arbeitsbedingungen für das Maler- und Lackiererhandwerk
 - [12. ProdSV](laws/12._ProdSV.md) Zwölfte Verordnung zum Produktsicherheitsgesetz 1
 - [12. RAG](laws/12._RAG.md) Zwölftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (Art. 4 d. Dritten Rentenversicherungs- Änderungsgesetzes - 3. RVÄndG)
 - [13. BImSchV](laws/13._BImSchV.md) Dreizehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes

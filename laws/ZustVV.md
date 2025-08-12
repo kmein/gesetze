@@ -31,9 +31,9 @@ Für die Zustellung im gerichtlichen Verfahren werden eingeführt:
 
 3. Anpassungen, Änderungen oder Ergänzungen, die es, ohne den Inhalt der Vordrucke zu verändern oder das Verständnis der Vordrucke zu erschweren, ermöglichen, technische Einrichtungen der üblichen Briefbeförderung für das Zustellungsverfahren zu nutzen.
 
-# § 3 – Überleitungsvorschrift
+# § 3 – Übergangsregelung
 
-Der Vordruck nach Anlage 1 zu § 1 Nr. 1 in der bis zum 30. April 2004 geltenden Fassung kann bis zum 31. Dezember 2004 weiterverwendet werden.
+Die Vordrucke nach den Anlagen 1 und 2 jeweils in der bis einschließlich 31. Juli 2025 geltenden Fassung können bis einschließlich 31. Juli 2026 weiterverwendet werden.
 
 # § 4 – Inkrafttreten
 
@@ -43,17 +43,21 @@ Diese Verordnung tritt am 1. Juli 2002 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-# Anlage 1 – (zu § 1 Nr. 1)  Zustellungsurkunde
+# Anlage 1 – (zu § 1 Nummer 1)
 
-(Fundstelle: BGBl. I 2004, 620 u. 621)
+(Fundstelle: BGBl. 2025 I Nr. 103, S. 3 – 4)
 
-<a href="../normengrafiken/bgbl1_2004/j0619_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j01030_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-# Anlage 2 – (zu § 1 Nr. 2)  Innerer Umschlag
+<a href="../normengrafiken/bgbl1_2025/j01030_0020.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-(Fundstelle: BGBl. I 2002, 674)
+# Anlage 2 – (zu § 1 Nummer 2)
 
-<a href="../normengrafiken/bgbl1_2002/j0671_0020.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+(Fundstelle: BGBl. 2025 I Nr. 103, S. 5)
+
+<a href="../normengrafiken/bgbl1_2025/j01030_0030.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j01030_0040.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 3 – (zu § 1 Nr. 3)  Äußerer Umschlag/Auftrag
 

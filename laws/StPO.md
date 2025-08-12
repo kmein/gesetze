@@ -1279,6 +1279,8 @@ Das eingesetzte Mittel ist nach dem Stand der Technik gegen unbefugte Nutzung zu
 
 4. die Organisationseinheit, die die Maßnahme durchführt.
 
+§ 100a Abs. 1 Satz 2 u. 3: Eingef. durch Art. 3 Nr. 8 Buchst. a nach Maßgabe d. Art. 17 G v. 17.8.2017 I 3202 mWv 24.8.2017; verstoßen nach Maßgabe der Entscheidungsformel und Gründe gem. BVerfGE v. 24.6.2025 – 1 BvR 180/23 - iVm § 100a Abs. 1 Satz 1 Nr. 1, Abs. 2 Nr. 1 Buchst. a, c, d u. t, Nr. 6 u. Nr. 7 Buchst. b StPO gegen Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG sowie – nur bezogen auf § 100a Abs. 1 Satz 2 StPO – auch gegen Art. 10 Abs. 1 GG und sind nichtig
+
 # § 100b – Online-Durchsuchung
 
 (1) Auch ohne Wissen des Betroffenen darf mit technischen Mitteln in ein von dem Betroffenen genutztes informationstechnisches System eingegriffen und dürfen Daten daraus erhoben werden (Online-Durchsuchung), wenn
@@ -1394,6 +1396,8 @@ b) besonders schwerer Fall einer Straftat nach § 52 Absatz 1 Nummer 1 in Verbin
 Die Maßnahme darf auch durchgeführt werden, wenn andere Personen unvermeidbar betroffen werden.
 
 (4) § 100a Absatz 5 und 6 gilt mit Ausnahme von Absatz 5 Satz 1 Nummer 1 entsprechend.
+
+§ 100b: IdF d. Art. 3 Nr. 9 G v. 17.8.2017 I 3202 mWv 24.8.2017; nach Maßgabe der Entscheidungsformel gem. BVerfGE v. 24.6.2025 – 1 BvR 180/23 - mit Art. 10 Abs. 1 iVm Art. 19 Abs. 1 Satz 2 GG unvereinbar; die Vorschrift gilt bis zu einer Neuregelung fort
 
 # § 100c – Akustische Wohnraumüberwachung
 
