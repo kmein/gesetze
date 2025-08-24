@@ -296,8 +296,6 @@ c) vor Inbetriebnahme sowie spätestens bei jeder Verlängerung der Fahrttauglic
 
 Die maximale Deviation darf nach der Regulierung nicht mehr als 6 Grad betragen.
 
-5. (weggefallen)
-
 # § 6.03 – Navigationsradaranlage
 
  

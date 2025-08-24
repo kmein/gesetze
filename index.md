@@ -949,6 +949,7 @@
 - [BMASBGebV](laws/BMASBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Arbeit und Soziales für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 - [BMASErnAnO](laws/BMASErnAnO.md) Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
 - [BMASGBWidVertrAnO](laws/BMASGBWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung des Bundes bei Klagen aus dem Beamten- oder Richterverhältnis im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
+- [BMASÜbErlBesLVVOV](laws/BMASÜbErlBesLVVOV.md) Verordnung des Bundesministeriums für Arbeit und Soziales zur Übertragung der Befugnisse zum Erlass von besonderen Lehrverpflichtungsverordnungen an der Hochschule des Bundes für öffentliche Verwaltung
 - [BMASZustAnO](laws/BMASZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundesministeriums für Arbeit und Soziales in Angelegenheiten von Besoldung, von Amtsbezügen und nach dem Bundesreisekostengesetz, dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Verordnungen und nach den Beihilfevorschriften des Bundes
 - [BmAusV](laws/BmAusV.md) Verordnung über die Berufsausbildung zum Bogenmacher und zur Bogenmacherin*
 - [BMDV-WS-BesGebV](laws/BMDV-WS-BesGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung
@@ -3969,6 +3970,7 @@
 - [Münz10EuroBek 2022-04-06](laws/Münz10EuroBek_2022-04-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Pflege“)
 - [Münz10EuroBek 2023-08-11](laws/Münz10EuroBek_2023-08-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Feuerwehr“)
 - [Münz10EuroBek 2024-02-20](laws/Münz10EuroBek_2024-02-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "Polizei")
+- [Münz10EuroBek 2025-08-05](laws/Münz10EuroBek_2025-08-05.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Technisches Hilfswerk“)
 - [Münz11EuroBek 2024-02-20](laws/Münz11EuroBek_2024-02-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 11 Euro (Gedenkmünze "UEFA Fußball-Europameisterschaft 2024")
 - [Münz1DMBek](laws/Münz1DMBek.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 1 Deutschen Mark
 - [Münz1PfBek 1948](laws/Münz1PfBek_1948.md) Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig
@@ -4029,6 +4031,8 @@
 - [Münz20EuroBek 2024-02-20/2](laws/Münz20EuroBek_2024-02-20_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „125. Geburtstag Erich Kästner“)
 - [Münz20EuroBek 2024-02-20/3](laws/Münz20EuroBek_2024-02-20_3.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „75 Jahre Grundgesetz“)
 - [Münz20EuroBek 2025-04-22](laws/Münz20EuroBek_2025-04-22.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „75. Berlinale“)
+- [Münz20EuroBek 2025-08-05/1](laws/Münz20EuroBek_2025-08-05_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „50 Jahre Internationales Jahr der Frau“)
+- [Münz20EuroBek 2025-08-05/2](laws/Münz20EuroBek_2025-08-05_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Chemnitz - Kulturhauptstadt Europas 2025“)
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
 - [Münz25EuroBek 2021-09-15](laws/Münz25EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
 - [Münz25EuroBek 2022-11-17](laws/Münz25EuroBek_2022-11-17.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Herrnhuter Stern“)
@@ -6271,7 +6275,7 @@
 - [WildTArtÜbkInkrÄndV 3](laws/WildTArtÜbkInkrÄndV_3.md) Dritte Verordnung über die Inkraftsetzung von Änderungen der Anhänge I und II des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten
 - [WildTArtÜbkInkrÄndV 4](laws/WildTArtÜbkInkrÄndV_4.md) Vierte Verordnung über die Inkraftsetzung von Änderungen der Anhänge I und II des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten
 - [WildTArtÜbkInkrÄndV 5](laws/WildTArtÜbkInkrÄndV_5.md) Fünfte Verordnung über die Inkraftsetzung von Änderungen der Anhänge I und II des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten
-- [WindBG](laws/WindBG.md) Gesetz zur Festlegung von Flächenbedarfen für Windenergieanlagen an Land
+- [WindBG](laws/WindBG.md) Gesetz zur Festlegung von Flächenbedarfen und zur Genehmigungserleichterung für Windenergieanlagen an Land und für Anlagen zur Speicherung vom Strom oder Wärme aus erneuerbaren Energien in bestimmten Gebieten
 - [WindSeeG](laws/WindSeeG.md) Gesetz zur Entwicklung und Förderung der Windenergie auf See
 - [WinterbeschV](laws/WinterbeschV.md) Verordnung über ergänzende Leistungen zum Saison-Kurzarbeitergeld und die Aufbringung der erforderlichen Mittel zur Aufrechterhaltung der Beschäftigung in den Wintermonaten
 - [WinzAusbStEignV](laws/WinzAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Winzer/zur Winzerin

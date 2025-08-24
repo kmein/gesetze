@@ -712,7 +712,8 @@ Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigk
 (3) Auf Verlangen ist demjenigen, dem der Verwaltungsakt nach § 41 Abs. 1 hätte bekannt gegeben werden müssen, der Eintritt der Genehmigungsfiktion schriftlich zu bescheinigen.
 
 (+++ § 42a Abs. 2 Satz 2 bis 4: Zur Anwendung vgl. § 13 Abs. 3 Satz 3 MessEG +++)  
-(+++ § 42a Abs. 2 Satz 2 bis 4: Zur Anwendung vgl. § 22 Abs. 2 Satz 2 EuPAG +++)
+(+++ § 42a Abs. 2 Satz 2 bis 4: Zur Anwendung vgl. § 22 Abs. 2 Satz 2 EuPAG +++)  
+(+++ § 42a Abs. 3: Zur Anwendung vgl. § 16b Abs. 8 u. 9 BImSchG +++)
 
 # § 43 – Wirksamkeit des Verwaltungsaktes
 

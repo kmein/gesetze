@@ -1,11 +1,11 @@
-% Gesetz zur Festlegung von Flächenbedarfen für Windenergieanlagen an Land  (Windenergieflächenbedarfsgesetz - WindBG)
+% Gesetz zur Festlegung von Flächenbedarfen und zur Genehmigungserleichterung für Windenergieanlagen an Land und für Anlagen zur Speicherung vom Strom oder Wärme aus erneuerbaren Energien in bestimmten Gebieten  (Windenergieflächenbedarfsgesetz - WindBG)
 % Ausfertigungsdatum: 20.07.2022
  
 # § 1 – Ziel des Gesetzes
 
-(1) Ziel dieses Gesetzes ist es, im Interesse des Klima- und Umweltschutzes die Transformation zu einer nachhaltigen und treibhausgasneutralen Stromversorgung, die vollständig auf erneuerbaren Energien beruht, durch den beschleunigten Ausbau der Windenergie an Land zu fördern.
+(1) Ziel des Gesetzes ist es, die Zwecke und die Ziele von § 1 des Energiewirtschaftsgesetzes und § 1 des Erneuerbare-Energien-Gesetzes durch den beschleunigten Ausbau der Windenergie an Land, auch in Kombination mit Energiespeicheranlagen am selben Standort, zu fördern.
 
-(2) Hierfür gibt dieses Gesetz den Ländern verbindliche Flächenziele (Flächenbeitragswerte) vor, die für den Ausbau der Windenergie an Land benötigt werden, um die Ausbauziele und Ausbaupfade des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 8 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1325) geändert worden ist, zu erreichen.
+(2) Hierfür gibt dieses Gesetz den Ländern verbindliche Flächenziele (Flächenbeitragswerte) vor, die für den Ausbau der Windenergie an Land benötigt werden, um die Ausbauziele und Ausbaupfade des Erneuerbare-Energien-Gesetzes zu erreichen. Werden die Flächenbeitragswerte nach Maßgabe von § 3 Absatz 1 und 2 erreicht, so ist dem überragenden öffentlichen Interesse am Ausbau der Windenergie nach § 2 des Erneuerbare-Energien-Gesetzes für Vorhaben, die außerhalb von Windenergiegebieten im Sinne des § 2 Nummer 1 liegen, bei der Anwendung des § 35 Absatz 2 des Baugesetzbuchs Rechnung getragen. Satz 2 gilt nicht für Vorhaben im Sinne des § 249 Absatz 3 des Baugesetzbuchs.
 
 # § 2 – Begriffsbestimmungen
 
@@ -25,7 +25,25 @@ Flächen im Sinne der Nummer 1, die in einem Raumordnungsplan oder Bauleitplan a
 
 3. Windenergieanlagen an Land:
 
-jede Anlage zur Erzeugung von Strom aus Windenergie, die keine Windenergieanlage auf See im Sinne des § 3 Nummer 11 des Windenergie-auf-See-Gesetzes ist.
+jede Anlage zur Erzeugung von Strom aus Windenergie, die keine Windenergieanlage auf See im Sinne des § 3 Nummer 11 des Windenergie-auf-See-Gesetzes ist;
+
+<!-- -->
+
+4. Beschleunigungsgebiete für die Windenergie an Land:
+
+Gebiete nach § 249c des Baugesetzbuchs, nach § 28 des Raumordnungsgesetzes oder nach § 6a dieses Gesetzes;
+
+<!-- -->
+
+5. Regeln für Minderungsmaßnahmen:
+
+Regeln, die bei der planerischen Ausweisung eines Beschleunigungsgebietes für die Windenergie an Land nach § 249c Absatz 3 des Baugesetzbuchs dargestellt oder nach § 28 Absatz 4 des Raumordnungsgesetzes aufgestellt werden;
+
+<!-- -->
+
+6. Energiespeicheranlage am selben Standort:
+
+Anlage zur Speicherung von Strom oder Wärme, die weder planfeststellungsbedürftig noch plangenehmigungsbedürftig ist, im räumlich-funktionalen Zusammenhang mit einer Windenergieanlage an Land steht und gegenüber dieser Anlage eine dienende Funktion aufweist, wobei Anlagen zur Speicherung von Wärme mit Bohrung ins Erdreich nicht erfasst sind.
 
 # § 3 – Verpflichtungen der Länder
 
@@ -63,25 +81,25 @@ Im Fall des Satzes 1 Nummer 1 kann das Land durch ein Landesgesetz oder als Ziel
 
 (2) Werden die Flächenbeitragswerte oder die daraus abgeleiteten regionalen oder kommunalen Teilflächenziele nach § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 ohne eine Ausweisung von neuen Windenergiegebieten erreicht, stellt ein Planungsträger dies bis zu den in § 3 Absatz 1 Satz 2 genannten Zeitpunkten fest. Die Feststellung ist öffentlich bekannt zu geben oder zu verkünden.
 
-(3) Das Bundesministerium für Wirtschaft und Klimaschutz stellt bis zum 30. Juni 2024 fest, ob und welche Länder ihre Nachweispflicht nach § 3 Absatz 3 erfüllt haben. Im Fall des Pflichtverstoßes stellt das Bundesministerium für Wirtschaft und Klimaschutz bis zum 31. Dezember 2024 fest, ob und welche Länder den Nachweis nach § 3 Absatz 3 bis zum 30. November 2024 nachträglich erbracht haben. Die Feststellung wird öffentlich bekannt gegeben.
+(3) Das Bundesministerium für Wirtschaft und Energie stellt bis zum 30. Juni 2024 fest, ob und welche Länder ihre Nachweispflicht nach § 3 Absatz 3 erfüllt haben. Im Fall des Pflichtverstoßes stellt das Bundesministerium für Wirtschaft und Energie bis zum 31. Dezember 2024 fest, ob und welche Länder den Nachweis nach § 3 Absatz 3 bis zum 30. November 2024 nachträglich erbracht haben. Die Feststellung wird öffentlich bekannt gegeben.
 
 (4) Bei einem Raumordnungs- oder Flächennutzungsplan, der keine Bestimmung im Hinblick auf die Platzierung der Rotorblätter von Windenergieanlagen außerhalb einer ausgewiesenen Fläche trifft, kann der Planungsträger, der den Beschluss über den Plan gefasst hat, durch Beschluss bestimmen, dass die Rotorblätter nicht innerhalb der ausgewiesenen Fläche liegen müssen, wenn der Plan bis zum 1. Februar 2024 wirksam geworden ist. Der Beschluss ist öffentlich bekannt zu geben oder zu verkünden.
 
-# § 6 – Verfahrenserleichterungen in Windenergiegebieten; Verordnungsermächtigung
+# § 6 – Genehmigungserleichterung in Windenergiegebieten
 
-(1) Wird die Errichtung und der Betrieb oder die Änderung der Lage, der Beschaffenheit oder des Betriebs einer Windenergieanlage oder dazugehöriger Nebenanlagen im Sinne des § 3 Nummer 15a des Erneuerbaren-Energien-Gesetzes in einem zum Zeitpunkt der Genehmigungserteilung ausgewiesenen Windenergiegebiet nach § 2 Nummer 1 beantragt, ist im Genehmigungsverfahren abweichend von den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung und abweichend von den Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes eine artenschutzrechtliche Prüfung nicht durchzuführen. Satz 1 ist nur anzuwenden,
+(1) Wird die Errichtung und der Betrieb oder die Änderung der Lage, der Beschaffenheit oder des Betriebs einer Windenergieanlage oder dazugehöriger Nebenanlagen im Sinne des § 3 Nummer 15a des Erneuerbaren-Energien-Gesetzes in einem zum Zeitpunkt der Genehmigungserteilung ausgewiesenen Windenergiegebiet nach § 2 Nummer 1 beantragt, ist im Genehmigungsverfahren abweichend von den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung und abweichend von den Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes eine artenschutzrechtliche Prüfung nicht durchzuführen. Abweichend von Satz 1 ist eine Umweltverträglichkeitsprüfung durchzuführen, wenn das Vorhaben voraussichtlich erhebliche Auswirkungen auf die Umwelt eines anderen Staates hat oder ein anderer Staat, der voraussichtlich erheblich betroffen ist, eine Beteiligung wünscht. Satz 1 ist nur anzuwenden,
 
 1. wenn bei Ausweisung des Windenergiegebietes eine Umweltprüfung nach § 8 des Raumordnungsgesetzes oder § 2 Absatz 4 des Baugesetzbuchs durchgeführt wurde und
 
 2. soweit das Windenergiegebiet nicht in einem Natura 2000-Gebiet, einem Naturschutzgebiet oder einem Nationalpark liegt.
 
-Die zuständige Behörde hat auf Grundlage vorhandener Daten geeignete und verhältnismäßige Minderungsmaßnahmen in den Windenergiegebieten anzuordnen, um die Einhaltung der Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes zu gewährleisten, sofern die Daten eine ausreichende räumliche Genauigkeit aufweisen und zum Zeitpunkt der Entscheidung über den Genehmigungsantrag nicht älter als fünf Jahre sind. Geeignete Minderungsmaßnahmen nach Satz 3 zum Schutz von Fledermäusen hat die Behörde insbesondere in Form einer Abregelung der Windenergieanlage anzuordnen, die auf Grundlage einer zweijährigen akustischen Erfassung der Fledermausaktivität im Gondelbereich anzupassen ist. Soweit geeignete und verhältnismäßige Maßnahmen nicht verfügbar oder Daten nicht vorhanden sind, hat der Betreiber eine Zahlung in Geld zu leisten. Die Zahlung ist von der zuständigen Behörde zusammen mit der Genehmigung für die Dauer des Betriebes als jährlich zu leistender Betrag festzusetzen. Die Höhe der Zahlung beträgt:
+Die zuständige Behörde hat auf Grundlage vorhandener Daten geeignete und verhältnismäßige Minderungsmaßnahmen in den Windenergiegebieten anzuordnen, um die Einhaltung der Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes zu gewährleisten, sofern die Daten eine ausreichende räumliche Genauigkeit aufweisen und zum Zeitpunkt der Entscheidung über den Genehmigungsantrag nicht älter als fünf Jahre sind. Geeignete Minderungsmaßnahmen nach Satz 4 zum Schutz von Fledermäusen hat die Behörde insbesondere in Form einer Abregelung der Windenergieanlage anzuordnen, die auf Grundlage einer zweijährigen akustischen Erfassung der Fledermausaktivität im Gondelbereich anzupassen ist. Soweit geeignete und verhältnismäßige Maßnahmen nicht verfügbar oder Daten nicht vorhanden sind, hat der Betreiber eine Zahlung in Geld zu leisten. Die Zahlung ist von der zuständigen Behörde zusammen mit der Genehmigung für die Dauer des Betriebes als jährlich zu leistender Betrag festzusetzen. Die Höhe der Zahlung beträgt:
 
 1. 450 Euro je Megawatt installierter Leistung, sofern Schutzmaßnahmen für Vögel angeordnet werden, die die Abregelung von Windenergieanlagen betreffen, oder Schutzmaßnahmen, deren Investitionskosten höher als 17 000 Euro je Megawatt liegen,
 
 2. ansonsten 3 000 Euro je Megawatt installierter Leistung.
 
-Sie ist von dem Betreiber der Windenergieanlage als zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht und die der Sicherung oder Verbesserung des Erhaltungszustandes der durch den Betrieb von Windenergieanlagen betroffenen Arten dienen. Das Bundesministerium für Wirtschaft und Klimaschutz soll im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der nach Satz 5 erforderlichen Zahlung bestimmen. Eine Ausnahme nach § 45 Absatz 7 des Bundesnaturschutzgesetzes ist nicht erforderlich.
+Sie ist von dem Betreiber der Windenergieanlage als zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht und die der Sicherung oder Verbesserung des Erhaltungszustandes der durch den Betrieb von Windenergieanlagen betroffenen Arten dienen. Eine Ausnahme nach § 45 Absatz 7 des Bundesnaturschutzgesetzes ist nicht erforderlich.
 
 (2) Absatz 1 ist auf Genehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag bis zum Ablauf des 30. Juni 2025 stellt. Der Antragsteller hat bei der Antragstellung nachzuweisen, dass er das Grundstück, auf dem die Windenergieanlage errichtet werden soll, für die Errichtung und den Betrieb vertraglich gesichert hat. Absatz 1 ist auch auf bereits laufende Genehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag vor dem 29. März 2023 gestellt hat und bei denen noch keine endgültige Entscheidung ergangen ist, wenn der Antragsteller dies gegenüber der zuständigen Behörde verlangt. Die Sätze 1 bis 3 sind für das gesamte Genehmigungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2025 abgeschlossen wird. Windenergiegebiete im Sinne von Absatz 1 sind abweichend von § 2 Nummer 1 Buchstabe b auch Eignungs- und Vorbehaltsgebiete in Raumordnungsplänen, wenn der Raumordnungsplan nach dem 1. Februar 2024 wirksam geworden ist.
 
@@ -95,17 +113,71 @@ Sie ist von dem Betreiber der Windenergieanlage als zweckgebundene Abgabe an den
 
 (2) § 6 bleibt unberührt.
 
+# § 6b – Genehmigungserleichterung in Beschleunigungsgebieten für die Windenergie an Land
+
+(1) Im jeweiligen Zulassungsverfahren sind die Erleichterungen der Absätze 2 bis 7 anzuwenden, wenn in einem Beschleunigungsgebiet für die Windenergie an Land die Errichtung und der Betrieb oder die Änderung der Lage, der Beschaffenheit oder des Betriebs einer nachstehenden Anlage beantragt wird:
+
+1. einer Windenergieanlage an Land,
+
+2. einer Nebenanlage nach § 3 Nummer 15a des Erneuerbare-Energien-Gesetzes, die zu einer Anlage nach Nummer 1 gehört, oder
+
+3. einer Energiespeicheranlage am selben Standort wie die Anlage nach Nummer 1, sofern die Energiespeicheranlage bei der planerischen Ausweisung des Windenergiegebietes vorgesehen wurde.
+
+(2) Im Zulassungsverfahren einer Anlage nach Absatz 1 ist
+
+1. abweichend von den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung keine Umweltverträglichkeitsprüfung durchzuführen,
+
+2. abweichend von § 34 Absatz 1 des Bundesnaturschutzgesetzes keine Prüfung in Bezug auf Natura 2000-Gebiete durchzuführen,
+
+3. abweichend von § 44 Absatz 1 und 5 des Bundesnaturschutzgesetzes keine artenschutzrechtliche Prüfung durchzuführen und
+
+4. abweichend von § 27 des Wasserhaushaltsgesetzes keine Prüfung der dort genannten Bewirtschaftungsziele durchzuführen.
+
+Die Zulassungsbehörde führt im Rahmen des Zulassungsverfahrens anstelle der nach Satz 1 nicht durchzuführenden Prüfungen eine Überprüfung der Umweltauswirkungen (Überprüfung) nach den Absätzen 3 bis 7 durch. Inhalte der Prüfungen, die nach Satz 1 Nummer 2 und 3 nicht zu prüfen sind, sind bei der Anwendung der §§ 13 bis 17 des Bundesnaturschutzgesetzes nur zu berücksichtigen, soweit dies zur Ermittlung und Bewertung eines Eingriffs in Natur und Landschaft zwingend erforderlich ist. Satz 1 Nummer 1 ist nicht auf Vorhaben anzuwenden, wenn das Vorhaben voraussichtlich erhebliche Auswirkungen auf die Umwelt eines anderen Staates hat oder ein anderer Staat, der von dem Vorhaben voraussichtlich erheblich betroffen ist, eine Beteiligung wünscht.
+
+(3) Die Überprüfung wird auf Grundlage vorhandener Daten durchgeführt. Es dürfen dabei nur Daten berücksichtigt werden, die eine ausreichende räumliche Genauigkeit zur Anordnung von Maßnahmen aufweisen und zum Zeitpunkt der Entscheidung über den Zulassungsantrag in der Regel nicht älter als fünf Jahre sind. Ältere Daten dürfen berücksichtigt werden, wenn sie Bestandteil systematisch und fortlaufend aktualisierter behördlicher Fachdatenbanken sind oder im Einzelfall hinreichend validiert wurden. Der Antragsteller hat der Zulassungsbehörde aufgrund der im Plan bestimmten Regeln für Minderungsmaßnahmen und etwaiger weiterer eigener Vorschläge Maßnahmen vorzulegen und darzulegen, wie mit diesen Maßnahmen den Umweltauswirkungen begegnet werden soll. Diese Unterlagen sind zusätzlich zu den nach sonstigen Vorschriften des Fachrechts erforderlichen Unterlagen vorzulegen. Die Zulassungsbehörde überprüft unter Berücksichtigung der Daten nach Satz 1 sowie der Unterlagen nach Satz 4, ob eindeutige Nachweise vorliegen, dass das Vorhaben bei Durchführung der Maßnahmen nach Satz 4 höchstwahrscheinlich erhebliche unvorhergesehene nachteilige Umweltauswirkungen angesichts der ökologischen Empfindlichkeit des Gebiets nach Anlage 3 Nummer 2 des Gesetzes über die Umweltverträglichkeitsprüfung haben wird, die bei der Umweltprüfung nach § 8 des Raumordnungsgesetzes oder nach § 2 Absatz 4 des Baugesetzbuchs oder bei der etwaigen Verträglichkeitsprüfung nach § 7 Absatz 6 des Raumordnungsgesetzes oder nach § 1a Absatz 4 des Baugesetzbuchs nicht ermittelt wurden und dadurch die Einhaltung der Vorschriften der §§ 34 und 44 Absatz 1 des Bundesnaturschutzgesetzes oder des § 27 des Wasserhaushaltsgesetzes nicht gewährleistet ist.
+
+(4) Die Überprüfung ist innerhalb von 45 Tagen ab Eingang der vollständigen Unterlagen abzuschließen, bei Anträgen zur Modernisierung einer Windenergieanlage oder bei Windenergieanlagen mit einer Stromerzeugungskapazität unter 150 Kilowatt innerhalb von 30 Tagen. Die Unterlagen für die Überprüfung sind vollständig, wenn sie sich zu allen relevanten Aspekten der Überprüfung verhalten und die Zulassungsbehörde in die Lage versetzen, die Überprüfung durchzuführen. Fachliche Einwände und Nachfragen stehen der Vollständigkeit nicht entgegen, sofern die Unterlagen eine fachliche Überprüfung ermöglichen. Gibt eine zu beteiligende Behörde innerhalb einer von der Zulassungsbehörde gesetzten, angemessenen Frist gegenüber der Zulassungsbehörde keine begründete Stellungnahme ab, ob eindeutige Nachweise nach Absatz 3 Satz 6 vorliegen, so ist davon auszugehen, dass sich die zu beteiligende Behörde diesbezüglich nicht äußern will.
+
+(5) Stellt die Zulassungsbehörde bei der Überprüfung nicht fest, dass eindeutige Nachweise nach Absatz 3 Satz 6 vorliegen, so ordnet sie gegenüber dem Antragsteller unter Berücksichtigung der von ihm nach Absatz 3 Satz 4 vorgelegten Unterlagen geeignete und verhältnismäßige Maßnahmen im Zulassungsbescheid an, sofern diese Maßnahmen erforderlich sind. Zum Schutz von Fledermäusen vor Tötung und Verletzung beim Betrieb der Windenergieanlage an Land hat die Zulassungsbehörde stets geeignete Minderungsmaßnahmen in Form einer Abregelung der Windenergieanlage anzuordnen. Die Zulassungsbehörde kann die angeordnete Abregelung auf Verlangen des Antragstellers auf Grundlage einer zweijährigen akustischen Erfassung der Fledermausaktivität im Rotorbereich der Windenergieanlage anpassen.
+
+(6) Stellt die Zulassungsbehörde bei der Überprüfung fest, dass eindeutige Nachweise nach Absatz 3 Satz 6 vorliegen, so beteiligt sie im Zulassungsverfahren die Öffentlichkeit entsprechend § 10 Absatz 3 bis 4 und 8 des Bundes-Immissionsschutzgesetzes mit der Maßgabe, dass ein Erörterungstermin nicht stattfindet. Das Ergebnis der Überprüfung nach Satz 1 ist zu begründen und gemeinsam mit den nach dem jeweiligen Fachrecht erforderlichen Unterlagen im Rahmen der Öffentlichkeitsbeteiligung zur Einsicht auszulegen. Im Zulassungsbescheid ordnet die Zulassungsbehörde neben den in Absatz 5 genannten Maßnahmen weitere geeignete und verhältnismäßige Minderungsmaßnahmen im Hinblick auf diese Auswirkungen an. Soweit solche Maßnahmen nicht verfügbar sind, ordnet die Zulassungsbehörde gegenüber dem Antragsteller geeignete und verhältnismäßige Ausgleichsmaßnahmen an. Rechtsbehelfe gegen das Ergebnis der Überprüfung können als behördliche Verfahrenshandlung nach § 44a der Verwaltungsgerichtsordnung nur gleichzeitig mit den gegen die Zulassungsentscheidung zulässigen Rechtsbehelfen geltend gemacht werden.
+
+(7) Soweit geeignete und verhältnismäßige Minderungsmaßnahmen und geeignete und verhältnismäßige Ausgleichsmaßnahmen zum Schutz von Arten nach Absatz 6 Satz 3 und 4 erforderlich, aber nicht verfügbar sind oder keine Daten nach Absatz 3 Satz 1 vorhanden sind, auf deren Grundlage Maßnahmen angeordnet werden können, hat der Betreiber der Anlage eine Zahlung in Geld zu leisten. Die Zahlung ist von der Zulassungsbehörde zusammen mit der Zulassung für die Dauer des Betriebes der jeweiligen Anlage als jährlich zu leistender Betrag festzusetzen. Zur Festlegung des jährlich zu leistenden Betrages sind die Beträge nach Satz 4 Nummer 1 und 2 und nach Satz 5 Nummer 1 und 2 durch die Zahl zu teilen, die der jeweils anzunehmenden Betriebsdauer der Anlage in Jahren entspricht. Bei Windenergieanlangen an Land ist von einer Betriebsdauer von 20 Jahren auszugehen, bei Energiespeicheranlagen von einer Betriebsdauer von zehn Jahren. Soweit Maßnahmen erforderlich, aber nicht verfügbar sind, beträgt die Höhe der Zahlung:
+
+1. für Windenergieanlagen an Land:
+
+a) 7 800 Euro je Megawatt installierter Leistung, sofern Schutzmaßnahmen für Vögel angeordnet werden, die die Abregelung von Windenergieanlagen betreffen, oder Schutzmaßnahmen, deren Investitionskosten höher als 17 000 Euro je Megawatt liegen,
+
+b) 52 000 Euro je Megawatt installierter Leistung, wenn keine der Schutzmaßnahmen nach Buchstabe a angeordnet wird,
+
+2. für Energiespeicheranlagen 160 Euro je Quadratmeter der durch den Energiespeicher versiegelten Fläche.
+
+Sofern keine Daten nach Absatz 3 Satz 1 vorhanden sind, auf deren Grundlage Maßnahmen angeordnet werden können, beträgt die Höhe der Zahlung:
+
+3. für Windenergieanlagen an Land 20 000 Euro je Megawatt installierter Leistung,
+
+4. für Energiespeicheranlagen 60 Euro je Quadratmeter der durch den Energiespeicher versiegelten Fläche.
+
+Die Zahlung ist von dem Betreiber der jeweiligen Anlage ab Inbetriebnahme der Anlage als zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht und die der Sicherung oder Verbesserung des Erhaltungszustandes der durch den Betrieb von Windenergieanlagen an Land und Energiespeicheranlagen betroffenen Arten dienen.
+
+(8) Mit der Anordnung von Maßnahmen nach Absatz 5 Satz 1 und 2, von Maßnahmen nach Absatz 6 Satz 3 oder 4 oder mit Festsetzung der Zahlung nach Absatz 7 Satz 2 ist keine über die Überprüfung hinausgehende Prüfung der Einhaltung der Vorschriften der §§ 34 und 44 Absatz 1 des Bundesnaturschutzgesetzes und des § 27 des Wasserhaushaltsgesetzes durchzuführen. Eine Ausnahme nach § 34 Absatz 3 bis 5 des Bundesnaturschutzgesetzes oder nach § 45 Absatz 7 des Bundesnaturschutzgesetzes ist bei der Zulassung des Vorhabens nicht erforderlich. Die Anforderungen nach sonstigen Vorschriften des Fachrechts bleiben unberührt.
+
+(9) Können im Zulassungsverfahren sowohl die Erleichterungen nach § 6 als auch die Erleichterungen nach diesem Paragrafen angewandt werden, ist das Verfahren nach § 6 zu führen, es sei denn, der Antragsteller verlangt gegenüber der Zulassungsbehörde, dass das Verfahren nach dieser Vorschrift geführt wird.
+
+(10) Von den in den Absätzen 1 bis 9 getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
+
 # § 7 – Evaluierung; Verordnungsermächtigung
 
 (1) Die Bundesregierung berichtet ab dem 1. Januar 2024 nach § 98 Absatz 4 des Erneuerbare-Energien-Gesetzes zum Stand der Umsetzung dieses Gesetzes.
 
-(2) Das Bundesministerium für Wirtschaft und Klimaschutz veröffentlicht den Bericht nach Absatz 1 sowie eine vereinfachte graphische Darstellung der Umsetzung der Flächenbeitragswerte in den einzelnen Ländern auf seiner Internetseite.
+(2) Das Bundesministerium für Wirtschaft und Energie veröffentlicht den Bericht nach Absatz 1 sowie eine vereinfachte graphische Darstellung der Umsetzung der Flächenbeitragswerte in den einzelnen Ländern auf seiner Internetseite.
 
 (3) Kommt die Bundesregierung in ihrem Bericht nach § 98 Absatz 4 des Erneuerbare-Energien-Gesetzes zu dem Ergebnis, dass es weiterer gesetzgeberischer Maßnahmen bedarf, um die Erreichung der Flächenbeitragswerte oder die Anpassung der Flächenbeitragswerte an die Ausbauziele nach dem Erneuerbare-Energien-Gesetz in der jeweils geltenden Fassung zu ermöglichen, legt sie spätestens zum 1. Juli 2025 und danach alle vier Jahre einen Entwurf zur Anpassung dieses Gesetzes vor.
 
-(4) Das Bundesministerium für Wirtschaft und Klimaschutz passt durch Rechtsverordnung die Flächenbeitragswerte in Anlage entsprechend an, wenn sich ein Land durch Staatsvertrag gegenüber einem anderen Land verpflichtet, mehr Fläche als gemäß § 3 Absatz 1 gefordert (Flächenüberhang) für die Windenergie an Land bereitzustellen und diesen Staatsvertrag dem Bundesministerium für Wirtschaft und Klimaschutz bis zum 31. Mai 2024 unter Bezifferung des Flächenüberhangs in Quadratkilometern übermittelt, es sei denn, der Staatsvertrag ist zum Erreichen der Flächenbeitragswerte der vertragsschließenden Länder offensichtlich ungeeignet. Durch die Rechtsverordnung nach Satz 1 darf sich der Flächenbeitragswert von Berlin, Bremen und Hamburg jeweils um höchstens 75 Prozent und von den übrigen Ländern jeweils um höchstens 50 Prozent mindern oder erhöhen.
+(4) Das Bundesministerium für Wirtschaft und Energie passt durch Rechtsverordnung die Flächenbeitragswerte in der Anlage entsprechend an, wenn sich ein Land durch Staatsvertrag gegenüber einem anderen Land verpflichtet, mehr Fläche als gemäß § 3 Absatz 1 gefordert (Flächenüberhang) für die Windenergie an Land bereitzustellen und diesen Staatsvertrag dem Bundesministerium für Wirtschaft und Energie bis zum 31. Dezember 2026 unter Bezifferung des Flächenüberhangs in Quadratkilometern übermittelt, es sei denn, der Staatsvertrag ist zum Erreichen der Flächenbeitragswerte der vertragschließenden Länder offensichtlich ungeeignet. Die Fristen in § 3 Absatz 1 Satz 2 bleiben unberührt. Durch die Rechtsverordnung nach Satz 1 darf sich der Flächenbeitragswert von Berlin, Bremen und Hamburg jeweils um höchstens 75 Prozent und von den übrigen Ländern jeweils um höchstens 50 Prozent mindern oder erhöhen.
 
-(5) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt und verpflichtet, unter den in Absatz 4 genannten Voraussetzungen und in dem in Absatz 4 genannten Umfang durch Rechtsverordnung mit Zustimmung des Bundesrates die Flächenbeitragswerte nach Anlage zu ändern.
+(5) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt und verpflichtet, unter den in Absatz 4 genannten Voraussetzungen und in dem in Absatz 4 genannten Umfang durch Rechtsverordnung mit Zustimmung des Bundesrates die Flächenbeitragswerte nach Anlage zu ändern.
 
 (6) Die Bundesregierung evaluiert spätestens bis zum 30. Juni 2028 den Stand des Windenergieausbaus auf den in § 4 Absatz 4 genannten Flächen. Kommt sie hierbei zu dem Ergebnis, dass der Ausbau von Windenergieanlagen an Land auf diesen Flächen dem vorhandenen oder noch zu erwartenden Ausbau von Windenergieanlagen in Windenergiegebieten im Sinne des § 2 Nummer 1 Buchstabe a im Wesentlichen entspricht, soll sie einen Gesetzentwurf zur Anrechenbarkeit der in § 4 Absatz 4 genannten Flächen auf die Flächenbeitragswerte gemäß Anlage Spalte 2 vorlegen.
 

@@ -206,7 +206,7 @@ Die in Deutscher Mark ermittelten Einheitswerte werden auf volle hundert Deutsch
 
 # §§ 56 bis 58 – (weggefallen)
 
-# §§ 59 is 61 – (weggefallen)
+# §§ 59 bis 61 – (weggefallen)
 
 # § 62 – (weggefallen)
 

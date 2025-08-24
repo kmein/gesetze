@@ -3067,7 +3067,7 @@ Ruhr,
 
 Rhein-Herne-Kanal,
 
-Wesel-DattelnKanal,
+Wesel-Datteln-Kanal,
 
 Datteln-Hamm-Kanal,
 
@@ -3101,7 +3101,11 @@ Untere Havel-Wasserstraße von km 0,00 bis km 67,82 und von km 146,20 bis km�
 
 Havelkanal und
 
-Havel-Oder-Wasserstraße mit Verbindungskanal Hohensaaten Ost, Verbindungskanal Schwedter Querfahrt und Veltener Stichkanal gelten die folgenden Regelungen zu Inland AIS und Inland ECDIS:
+Havel-Oder-Wasserstraße mit Verbindungskanal Hohensaaten Ost, Verbindungskanal Schwedter Querfahrt und Veltener Stichkanal,
+
+Saale und
+
+Donau gelten die folgenden Regelungen zu Inland AIS und Inland ECDIS:
 
 1. Ein Fahrzeug muss mit einem Inland AIS Gerät nach Artikel 7.06 Nummer 3 ES-TRIN ausgestattet sein. Das Inland AIS Gerät muss in einem guten Betriebszustand sein. Die Sätze 1 und 2 gelten nicht für
 
@@ -6203,7 +6207,7 @@ m</th>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.6</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">km 84,00 bis km 387,07 (Abzweigung Main-Donau-Kanal)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">km 84,00 bis km 384,07 (Abzweigung Main-Donau-Kanal)</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>

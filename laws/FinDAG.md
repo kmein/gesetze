@@ -219,6 +219,8 @@ Die Bundesanstalt kann innerhalb ihrer gesetzlichen Befugnisse die Erteilung von
 
 (5) Spezialgesetzliche Regelungen bleiben unberührt.
 
+(+++ § 4j Abs. 1: Zur Anwendung vgl. § 18 Abs. 4 Nr. 2 BerVersV 2017 +++)
+
 # § 5 – Organe, Satzung
 
 (1) Organe der Bundesanstalt sind das Direktorium, der Präsident oder die Präsidentin und der Verwaltungsrat.

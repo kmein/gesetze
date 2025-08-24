@@ -43,10 +43,11 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage
 
-(Fundstelle: BGBl. I 1991, 58 \[Anlagenband\])
+(Fundstelle: BGBl. I 1991, 58 \[Anlagenband\];  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
 
 Anlage Nr. 1 Überschrift Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Baunutzungsverordung" durch "Baunutzungsverordnung" ersetzt  
-Anlage Nr. 1.5. Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "städebaulichen" durch das Wort "städtebaulichen" ersetzt
+Anlage Nr. 1.6. Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "städebaulichen" durch das Wort "städtebaulichen" ersetzt; frühere Nr. 1.5. jetzt Nr. 1.6. gem. Art. 6 Nr. 2 G v. 12.8.2025 I Nr. 189 mWv 15.8.2025

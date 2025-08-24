@@ -85,6 +85,12 @@ Zur Führung von Fahrzeugen im Sinne des § 11.01 Nummer 4 der Rheinschiffsperso
 
 (5) Behördliche Bescheinigungen über die Befähigung als Ersthelfer oder als atemschutzgerättragende Personen im Sinne des § 16.10 Nummer 2 Satz 1 und Nummer 3 Satz 1 der Rheinschiffspersonalverordnung werden nicht ausgestellt oder verlängert; es genügen die Schulungsnachweise.
 
+(6) Als gleichwertig anerkannt im Sinne des § 11.01 Nummer 2 der Rheinschiffspersonalverordnung ist
+
+1. für ein Sportpatent: ein Sportschifferzeugnis nach § 15 Absatz 3 der Binnenschiffspersonalverordnung,
+
+2. für das Behördenpatent: ein Behördenschifferzeugnis nach § 15 Absatz 4 der Binnenschiffspersonalverordnung.
+
 # § 7 – Ausbildungsprogramme, Lehrgänge, Prüfungen
 
 (1) Ausbildungsprogramme im Sinne des

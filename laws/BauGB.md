@@ -207,7 +207,7 @@ b) Wald;
 
 (2a) Flächen zum Ausgleich im Sinne des § 1a Abs. 3 im Geltungsbereich des Flächennutzungsplans können den Flächen, auf denen Eingriffe in Natur und Landschaft zu erwarten sind, ganz oder teilweise zugeordnet werden.
 
-(2b) Für die Zwecke des § 35 Absatz 3 Satz 3 oder des § 249 Absatz 2 können sachliche Teilflächennutzungspläne aufgestellt werden; sie können auch für Teile des Gemeindegebiets aufgestellt werden.
+(2b) Für die Zwecke des § 35 Absatz 3 Satz 3, des § 249 Absatz 2 und des § 249c Absatz 1 können sachliche Teilflächennutzungspläne aufgestellt werden; sie können auch für Teile des Gemeindegebiets aufgestellt werden.
 
 (3) Im Flächennutzungsplan sollen gekennzeichnet werden:
 
@@ -3689,13 +3689,15 @@ Für Änderungen an baulichen Anlagen zur Tierhaltung, auf deren Zulassungsentsc
 
 (4) Die in Absatz 1 Satz 1 genannten Rechtswirkungen können Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nicht entgegengehalten werden, wenn für den Standort des Vorhabens in einem Planentwurf eine Ausweisung für Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, vorgesehen ist, für den Planentwurf bereits eine Beteiligung nach § 3 Absatz 2, § 4 Absatz 2 und § 4a Absatz 3 dieses Gesetzes oder § 9 Absatz 2 und 3 des Raumordnungsgesetzes durchgeführt wurde und anzunehmen ist, dass das Vorhaben den künftigen Ausweisungen entspricht. In Fällen des § 4a Absatz 3 Satz 1 dieses Gesetzes oder des § 9 Absatz 3 Satz 1 des Raumordnungsgesetzes kann ein Vorhaben unter den Voraussetzungen des Satzes 1 vor Durchführung der Öffentlichkeits- und Behördenbeteiligung zugelassen werden, wenn sich die vorgenommene Änderung oder Ergänzung des Planentwurfs nicht auf das Vorhaben auswirkt.
 
-(5) Plant eine Gemeinde, die nicht zuständige Planungsträgerin nach § 249 Absatz 5 in Verbindung mit § 3 Absatz 2 Satz 1 Nummer 2 des Windenergieflächenbedarfsgesetzes ist, vor dem in Absatz 1 Satz 2 genannten Zeitpunkt ein Windenergiegebiet gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes auszuweisen, das mit einem Ziel der Raumordnung nicht vereinbar ist, soll ihrem Antrag auf Abweichung von diesem Ziel abweichend von § 6 Absatz 2 des Raumordnungsgesetzes stattgegeben werden, wenn der Raumordnungsplan an der von der Gemeinde für Windenergie geplanten Stelle kein Gebiet für mit der Windenergie unvereinbare Nutzungen oder Funktionen festlegt.
+(5) Eine Gemeinde, die nicht zuständige Planungsträgerin nach § 249 Absatz 5 dieses Gesetzes in Verbindung mit § 3 Absatz 2 Satz 1 Nummer 2 des Windenergieflächenbedarfsgesetzes ist, kann vor dem in Absatz 1 Satz 2 genannten Zeitpunkt ein Windenergiegebiet gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes auch dann ausweisen, wenn die Ausweisung mit einem Ziel der Raumordnung nicht vereinbar ist, es sei denn, bei diesem Ziel handelt es sich um ein Vorranggebiet für mit der Windenergie unvereinbare Nutzungen oder Funktionen.
 
-# § 245f – Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften; Evaluierung
+# § 245f – Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften sowie aus Anlass der Einführung des § 249c; Evaluierung
 
 (1) Abweichend von § 233 Absatz 1 ist § 6 Absatz 4 in der Fassung dieses Gesetzes anzuwenden, wenn der Genehmigungsantrag bei der höheren Verwaltungsbehörde nach dem 7. Juli 2023 eingegangen ist.
 
 (2) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen evaluiert die Auswirkungen der Änderungen der §§ 3, 4, 4a und 200 zur Digitalisierung und die Änderung des § 6 zur Fristverkürzung auf die Bauleitplanverfahren bis zum 31. Dezember 2027.
+
+(3) Abweichend von § 233 Absatz 1 sind in Aufstellung befindliche Windenergiegebiete gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes, für die vor dem 15. August 2025 ein Beschluss über die Aufstellung, Änderung oder Ergänzung eines Flächennutzungsplans gefasst wurde, als Beschleunigungsgebiete nach § 249c darzustellen, soweit die dort genannten Voraussetzungen dafür vorliegen. Die Darstellung als Beschleunigungsgebiet kann ausnahmsweise in einem nachfolgenden, innerhalb von drei Monaten förmlich einzuleitenden separaten Planverfahren erfolgen. Die Sätze 1 und 2 gelten entsprechend für Windenergiegebiete, die nach Ablauf des 19. Mai 2024 und vor dem 15. August 2025 ausgewiesen worden sind.
 
 # § 246 – Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte
 
@@ -3839,7 +3841,7 @@ In Gebieten mit Bebauungsplänen oder Satzungen nach § 34 Absatz 4 Satz 1 Numme
 
 (1) § 35 Absatz 3 Satz 3 ist auf Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nicht anzuwenden.
 
-(2) Außerhalb der Windenergiegebiete gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes richtet sich die Zulässigkeit der in Absatz 1 genannten Vorhaben in einem Land nach § 35 Absatz 2, wenn das Erreichen eines in der Anlage des Windenergieflächenbedarfsgesetzes bezeichneten Flächenbeitragswerts des Landes gemäß § 5 Absatz 1 oder Absatz 2 des Windenergieflächenbedarfsgesetzes festgestellt wurde. Hat ein Land gemäß § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des Windenergieflächenbedarfsgesetzes regionale oder kommunale Teilflächenziele bestimmt und wird deren Erreichen gemäß § 5 Absatz 1 oder Absatz 2 des Windenergieflächenbedarfsgesetzes festgestellt, gilt die Rechtsfolge des Satzes 1 für das Gebiet der jeweiligen Region oder Gemeinde. Der Eintritt der Rechtsfolge der Sätze 1 und 2 ist gesetzliche Folge der Feststellung.
+(2) Wurde das Erreichen eines in der Anlage des Windenergieflächenbedarfsgesetzes bezeichneten Flächenbeitragswerts des Landes gemäß § 5 Absatz 1 oder Absatz 2 des Windenergieflächenbedarfsgesetzes festgestellt, kann außerhalb der Windenergiegebiete gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes ein in Absatz 1 genanntes Vorhaben nur ausnahmsweise nach § 35 Absatz 2 zugelassen werden, wenn ausgeschlossen ist, dass die in § 35 Absatz 3 Satz 1 Nummer 5 genannten Belange oder das Orts- und Landschaftsbild berührt sind. Hat ein Land gemäß § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des Windenergieflächenbedarfsgesetzes regionale oder kommunale Teilflächenziele bestimmt und wird deren Erreichen gemäß § 5 Absatz 1 oder Absatz 2 des Windenergieflächenbedarfsgesetzes festgestellt, gilt die Rechtsfolge des Satzes 1 für das Gebiet der jeweiligen Region oder Gemeinde. Der Eintritt der Rechtsfolge der Sätze 1 und 2 ist gesetzliche Folge der Feststellung.
 
 (3) Die Rechtsfolge des Absatzes 2 gilt bis zum Ablauf des 31. Dezember 2030 nicht für Vorhaben im Sinne des § 16b Absatz 1 und 2 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist, es sei denn, das Vorhaben soll in einem Natura 2000-Gebiet im Sinne des § 7 Absatz 1 Nummer 8 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3908) geändert worden ist, oder in einem Naturschutzgebiet im Sinne des § 23 des Bundesnaturschutzgesetzes verwirklicht werden.
 
@@ -3848,6 +3850,14 @@ In Gebieten mit Bebauungsplänen oder Satzungen nach § 34 Absatz 4 Satz 1 Numme
 (5) Der nach § 3 Absatz 2 Satz 1 Nummer 1 oder Nummer 2 des Windenergieflächenbedarfsgesetzes jeweils zuständige Planungsträger ist bei der Ausweisung von Windenergiegebieten gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes an entgegenstehende Ziele der Raumordnung oder entgegenstehende Darstellungen in Flächennutzungsplänen nicht gebunden, soweit dies erforderlich ist, um den Flächenbeitragswert im Sinne des § 3 Absatz 1 des Windenergieflächenbedarfsgesetzes oder ein daraus abgeleitetes Teilflächenziel zu erreichen. Wurden Windenergiegebiete unter Anwendung von Satz 1 ausgewiesen, entfallen innerhalb dieser Gebiete die entsprechenden Bindungen auch im Zulassungsverfahren.
 
 (6) Die Ausweisung von Windenergiegebieten gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes erfolgt nach den für die jeweiligen Planungsebenen geltenden Vorschriften für Gebietsausweisungen. Für die Rechtswirksamkeit des Plans ist es hingegen unbeachtlich, ob und welche sonstigen Flächen im Planungsraum für die Ausweisung von Windenergiegebieten geeignet sind.
+
+(6a) In dem Plan kann bestimmt werden, dass Vorhaben zur Speicherung von Strom oder Wärme mit Ausnahme von Vorhaben zur Speicherung von Wärme mit Bohrung ins Erdreich, ebenfalls als Vorhaben nach § 35 Absatz 1 Nummer 5 gelten, wenn sie
+
+1. weder planfeststellungs- noch plangenehmigungsbedürftig sind und
+
+2. im räumlich-funktionalen Zusammenhang stehen mit einer Anlage, die der Erforschung, Entwicklung oder Nutzung der Windenergie dient, und gegenüber dieser Anlage eine dienende Funktion aufweisen.
+
+Die Art und das Maß der Vorhaben nach Satz 1 können im Plan näher bestimmt werden.
 
 (7) Sobald und solange nach Ablauf des jeweiligen Stichtages gemäß § 3 Absatz 1 Satz 2 des Windenergieflächenbedarfsgesetzes weder der Flächenbeitragswert nach Spalte 1 oder Spalte 2 der Anlage zum Windenergieflächenbedarfsgesetz noch ein daraus abgeleitetes Teilflächenziel nach § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des Windenergieflächenbedarfsgesetzes erreicht wird,
 
@@ -3912,6 +3922,36 @@ Der Geltungsbereich der Rechtsverordnung kann auf bestimmte Teile eines Abbauber
 4. die Voraussetzungen des § 35 Absatz 5 Satz 2 erster Halbsatz und Satz 3 gegeben sind.
 
 Der Geltungsbereich der Rechtsverordnung kann auf bestimmte Teile eines Abbaubereichs beschränkt werden. Im Geltungsbereich der Rechtsverordnung ist § 36 bei der Entscheidung über die Zulässigkeit eines Vorhabens nach Satz 1 entsprechend anzuwenden.
+
+# § 249c – Beschleunigungsgebiete für die Windenergie an Land
+
+(1) Werden im Flächennutzungsplan Windenergiegebiete gemäß § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes dargestellt, sind diese vorbehaltlich des Absatzes 2 zugleich als Beschleunigungsgebiete für die Windenergie an Land darzustellen.
+
+(2) Soweit das Windenergiegebiet in einem der folgenden Gebiete liegt, ist die Darstellung als Beschleunigungsgebiet ausgeschlossen:
+
+1. Natura 2000-Gebiete, Naturschutzgebiete, Nationalparke oder Kern- und Pflegezonen von Biosphärenreservaten nach dem Bundesnaturschutzgesetz oder
+
+2. Gebiete mit landesweit bedeutendem Vorkommen mindestens einer durch den Ausbau der Windenergie betroffenen europäischen Vogelart nach § 7 Absatz 2 Nummer 12 des Bundesnaturschutzgesetzes, einer in Anhang IV der Richtlinie 92/43/EWG aufgeführten Art oder einer Art, die in einer Rechtsverordnung nach § 54 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes aufgeführt ist; diese Gebiete können auf der Grundlage von vorhandenen Daten zu bekannten Artvorkommen oder zu besonders geeigneten Lebensräumen ermittelt werden.
+
+Eine in Satz 1 Nummer 2 genannte Art ist betroffen, wenn durch den Ausbau der Windenergie Verstöße gegen § 44 Absatz 1 Nummer 1 bis 3 des Bundesnaturschutzgesetzes zu erwarten sind. Besonders geeignete Lebensräume sind insbesondere die Lebensraumtypen nach Anhang I der Richtlinie 92/43/EWG, die für durch den Ausbau der Windenergie betroffene Arten als Habitate geeignet sind.
+
+(3) Bei der Darstellung der Beschleunigungsgebiete sind geeignete Regeln für wirksame Minderungsmaßnahmen für die Errichtung und den Betrieb von Anlagen und ihrem Netzanschluss darzustellen, um in der Umweltprüfung nach § 2 Absatz 4 ermittelte mögliche negative Umweltauswirkungen zu vermeiden oder, falls dies nicht möglich ist, erheblich zu verringern. Abweichend von § 2 Absatz 4 und der Anlage 1 sind Umweltauswirkungen nach Satz 1 nur Auswirkungen auf
+
+1. die Erhaltungsziele nach § 7 Absatz 1 Nummer 9 des Bundesnaturschutzgesetzes,
+
+2. europäische Vogelarten nach § 7 Absatz 2 Nummer 12 des Bundesnaturschutzgesetzes, in Anhang IV der Richtlinie 92/43/EWG aufgeführte Arten oder Arten, die in einer Rechtsverordnung nach § 54 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes aufgeführt sind, und
+
+3. die Bewirtschaftungsziele nach § 27 des Wasserhaushaltsgesetzes.
+
+Die Darstellung von Regeln für Minderungsmaßnahmen kann entsprechend der Anlage 3 erfolgen.
+
+(4) Die Länder können durch Landesgesetz bestimmen, dass es abweichend von Absatz 1 Satz 1 im Ermessen der Gemeinde steht, zusätzliche Windenergiegebiete als Beschleunigungsgebiete darzustellen, sobald und solange der Flächenbeitragswert nach der Anlage Spalte 2 des Windenergieflächenbedarfsgesetzes oder das jeweilige daraus abgeleitete Teilflächenziel nach § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des Windenergieflächenbedarfsgesetzes erreicht ist.
+
+(5) In einer Rechtsverordnung nach § 249b Absatz 1 können Flächen im Geltungsbereich zu Beschleunigungsgebieten für die Windenergie an Land erklärt werden. Die Absätze 2 und 3 sind entsprechend anzuwenden.
+
+(6) Eine Verletzung der Anforderungen der Absätze 1 bis 3 und 5 an die Ausweisung von Beschleunigungsgebieten ist für die Rechtswirksamkeit des Windenergiegebiets im Übrigen unbeachtlich.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 12.8.2025 I Nr. 189 +++)
 
 # § 250 – Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten
 
@@ -4013,3 +4053,120 @@ d) eine Referenzliste der Quellen, die für die im Bericht enthaltenen Beschreib
 (Fundstelle: BGBl. I 2017, 3722)
 
 Nachstehende Kriterien sind anzuwenden, soweit auf Anlage 2 Bezug genommen wird.
+
+# Anlage 3 – (zu § 249c Absatz 3 Satz 3) Darstellung von geeigneten Regeln für wirksame Minderungsmaßnahmen durch die Gemeinde
+
+(Fundstelle: BGBl. 2025 I Nr. 189, S. 10 - 12)
+
+Als Regeln für Minderungsmaßnahmen bestimmt die Gemeinde für das jeweilige Beschleunigungsgebiet und unter Berücksichtigung der dort zu erwartenden Umweltauswirkungen, welche Arten von Minderungsmaßnahmen regelmäßig oder anlassbezogen durchzuführen oder zu prüfen sind.
+
+Hat die Gemeinde auf der Grundlage der nach Nummer I.3 ermittelten Umweltauswirkungen die einschlägigen Kategorien von Minderungsmaßnahmen aus den Kategorien II.1 bis II.2 ausgewählt und der Zulassungsbehörde aufgegeben, hieraus projektbezogene Minderungsmaßnahmen zu entwickeln, werden die Verpflichtungen in § 249c Absatz 3 damit erfüllt. Die Anwendung der Anlage 3 ist für die Gemeinden nicht verbindlich; sie können auch abweichende Konzepte zur Aufstellung von Regeln für Minderungsmaßnahmen anwenden.
+
+I. Kriterien für die Darstellung von geeigneten Regeln für wirksame Minderungsmaßnahmen
+
+Die Gemeinde richtet die Regeln an den folgenden Kriterien nach Artikel 15c Absatz 1 Unterabsatz 2 der Richtlinie (EU) 2018/2001 in der Fassung vom 17. Mai 2024 aus:
+
+I.1 Besonderheiten des jeweiligen Beschleunigungsgebietes
+
+Die Besonderheiten des jeweiligen Beschleunigungsgebietes werden auf der Grundlage aller vorhandenen umweltbezogenen Daten einschließlich der Ergebnisse der Prüfung nach § 1a Absatz 4, sofern diese durchzuführen ist, sowie der Prüfung nach § 2 Absatz 4 bestimmt; dies sind die Prüfungsergebnisse bezogen auf die Windenergiegebiete, die den darzustellenden Beschleunigungsgebieten zugrunde liegen. Auf die Bestandsaufnahme im Umweltbericht auf der Grundlage der Anlage 1 Nummer 2 Buchstabe a kann Bezug genommen werden. Neben bedeutenden Artvorkommen sind die vorhandenen Biotope und deren Wertigkeit, die Habitatausstattung sowie der ökologische Zustand oder das ökologische Potenzial eines oberirdischen Gewässers zu berücksichtigen.
+
+I.2 Art der vorrangigen Erneuerbare-Energien-Technologie
+
+Art der Erneuerbare-Energien-Technologien, für die ein Beschleunigungsgebiet ausgewiesen wird, sind die Windenergie an Land sowie die auf der Grundlage von § 249 Absatz 6a im Plan bestimmten zulässigen Anlagen zur Speicherung von Strom oder Wärme, jeweils einschließlich der zulässigen Nebenanlagen, insbesondere ihres Netzanschlusses.
+
+I.3 Ermittelte Umweltauswirkungen
+
+Bei der Ermittlung der Umweltauswirkungen sind zu berücksichtigen:
+
+a) die Kriterien nach den Nummern I.1 und I.2,
+
+b) die Prognose im Umweltbericht auf der Grundlage der Anlage 1 Nummer 2 Buchstabe b,
+
+c) die technologiebezogenen, nicht vorhabenbezogenen Wirkfaktoren von Windenergie, die Konfliktintensität sowie die Wirksamkeit der potenziellen Minderungsmaßnahmen und
+
+d) die Sensibilität und die naturschutzfachliche Bedeutung der betroffenen besonders geschützten Arten unter Berücksichtigung des Erhaltungszustands und des Gefährdungsgrads sowie der besonders geeigneten Lebensräume dieser Arten.
+
+I.4 Auflistung möglicher Umweltauswirkungen
+
+Mögliche Umweltauswirkungen sind:
+
+a) baubedingte Beeinträchtigungen der boden- und gehölzbrütenden europäischen Vogelarten und Arten, die im Anhang IV der Richtlinie 92/43/EWG aufgeführt sind, insbesondere der Fledermäuse,
+
+b) Beschädigung oder Zerstörung von Fortpflanzungs- und Ruhestätten von europäischen Vogelarten und Arten, die im Anhang IV der Richtlinie 92/43/EWG aufgeführt sind (§ 44 Absatz 1 Nummer 3 des Bundesnaturschutzgesetzes),
+
+c) bau-, anlagen- und betriebsbedingte Auswirkungen auf Rastgebiete, Kolonien, Schlafplatzgemeinschaften oder sonstige Ansammlungen störungsempfindlicher europäischer Vogelarten (§ 44 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes),
+
+d) erhebliche Beeinträchtigung eines in der Nähe des Beschleunigungsgebiets gelegenen Natura 2000-Gebiets (§ 34 Absatz 1 des Bundesnaturschutzgesetzes),
+
+e) Auswirkungen auf den ökologischen Zustand oder das ökologische Potenzial eines oberirdischen Gewässers (§ 27 des Wasserhaushaltsgesetzes),
+
+f) betriebsbedingte Tötung oder Verletzung von Vorkommen kollisionsgefährdeter europäischer Vogelarten und Arten, die im Anhang IV der Richtlinie 92/43/EWG aufgeführt sind, insbesondere von
+
+aa)  
+kollisionsgefährdeten Brutvogelarten als Einzelbrutpaaren nach der Anlage 1 Abschnitt 1 des Bundesnaturschutzgesetzes (§ 44 Absatz 1 Nummer 1 des Bundesnaturschutzgesetzes),
+
+bb)  
+kollisionsgefährdeten Brutvogelarten in Kolonien, Schlafplatzgemeinschaften oder sonstigen Ansammlungen (§ 44 Absatz 1 Nummer 1 des Bundesnaturschutzgesetzes),
+
+cc) Fledermausarten (§ 44 Absatz 1 Nummer 1 des Bundesnaturschutzgesetzes),
+
+g) betriebsbedingte Störung von europäischen Vogelarten und Arten, die im Anhang IV der Richtlinie 92/43/EWG aufgeführt sind, einschließlich Fledermäusen (§ 44 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes).
+
+II. Darstellung der geeigneten Regeln für wirksame Minderungsmaßnahmen
+
+Die Gemeinde hat für das jeweilige Beschleunigungsgebiet Regeln für Minderungsmaßnahmen auf Basis der Kriterien nach Nummer I darzustellen.
+
+Als Regeln für Minderungsmaßnahmen kann die Gemeinde Kategorien von Minderungsmaßnahmen sowie Beispiele für in Betracht kommende Maßnahmen darstellen. Bei dieser Darstellung kann die planaufstellende Behörde insbesondere Bezug nehmen auf
+
+a) die Darlegungen im Umweltbericht auf der Grundlage von Anlage 1 Nummer 2 Buchstabe c und d,
+
+b) den nachfolgenden, nicht abschließenden Katalog von Kategorien von Minderungsmaßnahmen einschließlich der allgemeinen Beispiele für Maßnahmen.
+
+II.1 Kategorien von Minderungsmaßnahmen für Windenergieanlagen
+
+a) baubedingte Minderungsmaßnahmen, insbesondere
+
+aa)  
+ökologische Baubegleitung und zeitliche Beschränkung der Baufeldfreimachung,
+
+bb)  
+Schutzzäune für Amphibien und Reptilien,
+
+cc) Schutzmaßnahmen in Anlehnung an vorgezogene Ausgleichsmaßnahmen zur dauerhaften Sicherung der ökologischen Funktion (CEF-Maßnahmen) wie Fledermauskästen;
+
+b) anlagenbedingte Minderungsmaßnahmen;
+
+c) betriebsbedingte Minderungsmaßnahmen, insbesondere
+
+aa)  
+Schutzmaßnahmen nach Anlage 1 Abschnitt 2 des Bundesnaturschutzgesetzes für kollisionsgefährdete Brutvogelarten als Einzelbrutpaare,
+
+bb)  
+Schutzmaßnahmen in Anlehnung an Anlage 1 Abschnitt 2 des Bundesnaturschutzgesetzes für kollisionsgefährdete Brutvogelarten in Kolonien, Schlafplatzgemeinschaften oder sonstigen Ansammlungen.
+
+II.2 Kategorien von Minderungsmaßnahmen für im Plan bestimmte zulässige Anlagen zur Speicherung von Strom oder Wärme und Nebenanlagen
+
+a) baubedingte Maßnahmen, insbesondere
+
+aa)  
+ökologische Baubegleitung und zeitliche Beschränkung der Baufeldfreimachung,
+
+bb)  
+Vermeidung der Inanspruchnahme sensibler Bereiche wie gesetzlich geschützter Biotope nach § 30 des Bundesnaturschutzgesetzes,
+
+cc) boden- und grundwasserschonender und rückstandsloser Rückbau;
+
+b) anlagenbedingte Maßnahmen, insbesondere
+
+aa)  
+Begrenzung der maximal versiegelten Fläche,
+
+bb)  
+Integration von standortangepassten Typen von Biotopelementen,
+
+cc) Dachbegrünung,
+
+dd)  
+Sicherstellung, dass bei thermischer Beeinflussung des Grundwassers und von Oberflächengewässern diese gering gehalten wird;
+
+c) betriebsbedingte Maßnahmen, insbesondere Pflegekonzept zur Förderung und Entwicklung autochthoner, standorttypischer, artenreicher Pflanzengesellschaften.

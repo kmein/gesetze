@@ -125,7 +125,7 @@ sind Ziele der Raumordnung zu beachten sowie Grundsätze und sonstige Erforderni
 
 # § 7 – Allgemeine Vorschriften über Raumordnungspläne
 
-(1) In Raumordnungsplänen sind für einen bestimmten Planungsraum und einen regelmäßig mittelfristigen Zeitraum Festlegungen als Ziele und Grundsätze der Raumordnung zur Entwicklung, Ordnung und Sicherung des Raums, insbesondere zu den Nutzungen und Funktionen des Raums, zu treffen. Es kann festgelegt werden, dass bestimmte Nutzungen und Funktionen des Raums nur für einen bestimmten Zeitraum oder ab oder bis zum Eintritt bestimmter Umstände vorgesehen sind; eine Folge- oder Zwischennutzung kann festgelegt werden. Die Festlegungen nach Satz 1 und 2 können auch in räumlichen und sachlichen Teilplänen getroffen werden. Ziele und Grundsätze der Raumordnung sind als solche zu kennzeichnen.
+(1) In Raumordnungsplänen sind für einen bestimmten Planungsraum und einen regelmäßig mittelfristigen Zeitraum Festlegungen als Ziele und Grundsätze der Raumordnung zur Entwicklung, Ordnung und Sicherung des Raums, insbesondere zu den Nutzungen und Funktionen des Raums, zu treffen. Es kann festgelegt werden, dass bestimmte Flächen des Planungsraums einschließlich Gebietsausweisungen nach Absatz 3 für mehrere miteinander vereinbare Nutzungen und Funktionen vorgesehen werden (Mehrfachnutzung); ebenfalls kann festgelegt werden, dass bestimmte Nutzungen und Funktionen des Raums nur für einen bestimmten Zeitraum oder ab oder bis zum Eintritt bestimmter Umstände vorgesehen sind; eine Folge- oder Zwischennutzung kann festgelegt werden. Die Festlegungen nach Satz 1 und 2 können auch in räumlichen und sachlichen Teilplänen getroffen werden. Ziele und Grundsätze der Raumordnung sind als solche zu kennzeichnen.
 
 (2) Bei der Aufstellung der Raumordnungspläne sind die öffentlichen und privaten Belange, soweit sie auf der jeweiligen Planungsebene erkennbar und von Bedeutung sind, gegeneinander und untereinander abzuwägen. Das Ergebnis der Umweltprüfung nach § 8 sowie die Stellungnahmen im Beteiligungsverfahren nach § 9 sind in der Abwägung nach Satz 1 zu berücksichtigen. Raumordnungspläne benachbarter Planungsräume sind aufeinander abzustimmen.
 
@@ -135,7 +135,7 @@ sind Ziele der Raumordnung zu beachten sowie Grundsätze und sonstige Erforderni
 
 2. die bestimmten raumbedeutsamen Funktionen oder Nutzungen vorbehalten bleiben sollen, denen bei der Abwägung mit konkurrierenden raumbedeutsamen Funktionen oder Nutzungen besonderes Gewicht beizumessen ist (Vorbehaltsgebiete).
 
-Wird durch die Festlegung von Vorranggebieten der jeweiligen Nutzung oder Funktion substanziell Raum verschafft, kann festgelegt werden, dass diese Nutzung oder Funktion an anderer Stelle im Planungsraum ausgeschlossen ist (Vorranggebiete mit Ausschlusswirkung). Die Ermittlung der Vorranggebiete mit Ausschlusswirkung erfolgt auf der Grundlage eines gesamträumlichen Planungskonzepts der planaufstellenden Stelle. Werden in diesem Planungskonzept Teile des Planungsraums für eine Nutzung oder Funktion ausgeschlossen, ist eine systematische Unterscheidung, ob der Ausschluss aus tatsächlichen, rechtlichen oder planerischen Gründen erfolgt, nicht erforderlich. Abweichend von den Sätzen 3 bis 5 ist auf die Ausweisung von Windenergiegebieten im Sinne des § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes vom 20. Juli 2022 (BGBl. I S. 1353) § 27 Absatz 4 dieses Gesetzes anzuwenden. Die Sätze 3 bis 5 finden keine Anwendung auf die Nutzung Photovoltaik.
+Wird durch die Festlegung von Vorranggebieten der jeweiligen Nutzung oder Funktion substanziell Raum verschafft, kann festgelegt werden, dass diese Nutzung oder Funktion an anderer Stelle im Planungsraum ausgeschlossen ist (Vorranggebiete mit Ausschlusswirkung). Die Ermittlung der Vorranggebiete mit Ausschlusswirkung erfolgt auf der Grundlage eines gesamträumlichen Planungskonzepts der planaufstellenden Stelle. Werden in diesem Planungskonzept Teile des Planungsraums für eine Nutzung oder Funktion ausgeschlossen, ist eine systematische Unterscheidung, ob der Ausschluss aus tatsächlichen, rechtlichen oder planerischen Gründen erfolgt, nicht erforderlich. Die Sätze 3 bis 5 finden keine Anwendung auf die Nutzung Photovoltaik.
 
 (4) Die Raumordnungspläne sollen auch diejenigen Festlegungen zu raumbedeutsamen Planungen und Maßnahmen von öffentlichen Stellen und Personen des Privatrechts nach § 4 Absatz 1 Satz 2 enthalten, die zur Aufnahme in Raumordnungspläne geeignet und zur Koordinierung von Raumansprüchen erforderlich sind und die durch Ziele oder Grundsätze der Raumordnung gesichert werden können.
 
@@ -147,6 +147,8 @@ Wird durch die Festlegung von Vorranggebieten der jeweiligen Nutzung oder Funkti
 
 (8) Raumordnungspläne sind mindestens alle zehn Jahre zu überprüfen.
 
+(+++ § 7 Abs. 3: Zur Anwendung vgl. § 28 Abs. 1 +++)  
+(+++ § 7 Abs. 5: Zur Anwendung vgl. § 28 Abs. 5 +++)  
 § 7 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das <a href="../abweichendes_Landesrecht/lplg_by__.html" target="_blank" title="Anzeige in neuem Fenster">Bayerische Landesplanungsgesetz (BayLplG)</a> idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)  
 § 7 Abs. 1 Satz 3 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch <a href="../abweichendes_Landesrecht/raumog_nd__5.html" target="_blank" title="Anzeige in neuem Fenster">§ 5 Abs. 1 Satz 2 Niedersächsisches Raumordnungsgesetz (ROG ND)</a> idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
 § 7 Abs. 7 idF d. Bek. v. 22.12.2008 I 2986 iVm § 9 Abs. 1 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch <a href="../abweichendes_Landesrecht/raumog_nd__6.html" target="_blank" title="Anzeige in neuem Fenster">§ 6 Abs. 2 Satz 2 Niedersächsisches Raumordnungsgesetz (ROG ND)</a> idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
@@ -175,6 +177,7 @@ zu ermitteln und in einem Umweltbericht frühzeitig zu beschreiben und zu bewert
 
 (5) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz mit Zustimmung des Bundesrates durch Rechtsverordnung Vorgaben zu erlassen zur Berücksichtigung von artenschutzrechtlichen Belangen im Rahmen der Umweltprüfung bei der Aufstellung von Raumordnungsplänen. Sofern dabei auch Fragen der Windenergie an Land berührt sind, sind die Vorgaben auch im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz zu erlassen.
 
+(+++ § 8: Zur Anwendung vgl. § 28 Abs. 5 +++)  
 § 8 (früher § 9 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das <a href="../abweichendes_Landesrecht/lplg_by__.html" target="_blank" title="Anzeige in neuem Fenster">Bayerische Landesplanungsgesetz (BayLplG)</a> idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
 # § 9 – Beteiligung bei der Aufstellung von Raumordnungsplänen
@@ -205,6 +208,7 @@ Zusätzlich zur Veröffentlichung im Internet ist eine oder sind mehrere andere 
 
 Satz 1 gilt auch für die vollständige oder teilweise Aufhebung von Raumordnungsplänen, die funktionslos geworden sind, weil ihre Verwirklichung aufgrund tatsächlicher oder rechtlicher Entwicklungen auf unabsehbare Zeit offenkundig ausgeschlossen ist. In den Fällen der Sätze 1 und 2 finden die Absätze 1 und 4 keine Anwendung.
 
+(+++ § 9 Abs. 5: Zur Anwendung vgl. § 28 Abs. 5 +++)  
 § 9 (früher § 10 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das <a href="../abweichendes_Landesrecht/lplg_by__.html" target="_blank" title="Anzeige in neuem Fenster">Bayerische Landesplanungsgesetz (BayLplG)</a> idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)  
 § 9 (früher § 10 idF d. Bek. v. 22.12.2008 I 2986): Nordrhein-Westfalen - Abweichung durch § 13 Landesplanungsgesetz (LPlG NW) idF d. G v. 24.5.2016, GV. NRW 2016, 259 mWv 25.5.2016 (vgl. BGBl. I 2017, 3902)  
 § 9 Abs. 1 idF d. G. v. 23.5.2017 I 1245 iVm § 7 Abs. 7 idF d. Bek. v. 22.12.2008 I 2986: Niedersachsen - Abweichung durch <a href="../abweichendes_Landesrecht/raumog_nd__6.html" target="_blank" title="Anzeige in neuem Fenster">§ 6 Abs. 2 Satz 2 Niedersächsisches Raumordnungsgesetz (ROG ND)</a> idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
@@ -222,6 +226,7 @@ Satz 1 gilt auch für die vollständige oder teilweise Aufhebung von Raumordnung
 
 (4) Im Falle der Beteiligung von Nachbarstaaten nach § 9 Absatz 4 werden die in den Absätzen 2 und 3 genannten Informationen der dort zuständigen Behörde übermittelt.
 
+(+++ § 10: Zur Anwendung vgl. § 28 Abs. 5 +++)  
 § 10 (früher § 11 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das <a href="../abweichendes_Landesrecht/lplg_by__.html" target="_blank" title="Anzeige in neuem Fenster">Bayerische Landesplanungsgesetz (BayLplG)</a> idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
 # § 11 – Planerhaltung
@@ -256,6 +261,7 @@ wenn sie nicht innerhalb eines Jahres seit Bekanntmachung des Raumordnungsplans 
 
 (6) Der Raumordnungsplan kann durch ein ergänzendes Verfahren zur Behebung von Fehlern auch rückwirkend in Kraft gesetzt werden.
 
+(+++ § 11: Zur Anwendung vgl. § 28 Abs. 5 +++)  
 § 11 (früher § 12 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das <a href="../abweichendes_Landesrecht/lplg_by__.html" target="_blank" title="Anzeige in neuem Fenster">Bayerische Landesplanungsgesetz (BayLplG)</a> idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
 # § 12 – Untersagung raumbedeutsamer Planungen und Maßnahmen
@@ -486,9 +492,39 @@ Die Berichte können sich auf fachliche und teilräumliche Aspekte beschränken.
 
 (3) Am 28. September 2023 geltendes Landesrecht, das § 2 Absatz 2, die §§ 6 bis 12 oder die Vorschriften des Abschnitts 2 dieses Gesetzes ergänzt, sowie landesrechtliche Gebührenregelungen und weiter gehendes Landesrecht zur Beschleunigung des Verfahrens bei Änderung eines ausgelegten Raumordnungsplanentwurfs bleiben unberührt.
 
-(4) Für Raumordnungspläne, die Windenergiegebiete im Sinne von § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes vom 20. Juli 2022 (BGBl. I S. 1353) beinhalten, sind die Überleitungsvorschriften des § 245e des Baugesetzbuchs und die Sonderregelungen des § 249 des Baugesetzbuchs vorrangig anzuwenden.
-
 § 27 (früher § 28 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das <a href="../abweichendes_Landesrecht/lplg_by__.html" target="_blank" title="Anzeige in neuem Fenster">Bayerische Landesplanungsgesetz (BayLplG)</a> idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+
+# § 28 – Sonderregelung für die Windenergie an Land
+
+(1) Auf Windenergiegebiete nach § 2 Nummer 1 des Windenergieflächenbedarfsgesetzes sind vorrangig die §§ 245e und 249 des Baugesetzbuchs anzuwenden; § 7 Absatz 3 Satz 3 bis 5 ist nicht anzuwenden.
+
+(2) Vorranggebiete für Windenergie sind zusätzlich als Beschleunigungsgebiete für die Windenergie an Land auszuweisen, soweit sie nicht in einem der folgenden Gebiete liegen:
+
+1. Natura 2000-Gebiete, Naturschutzgebiete, Nationalparke sowie Kern- und Pflegezonen von Biosphärenreservaten nach dem Bundesnaturschutzgesetz oder
+
+2. Gebiete mit landesweit bedeutenden Vorkommen mindestens einer durch den Ausbau der Windenergie betroffenen europäischen Vogelart nach § 7 Absatz 2 Nummer 12 des Bundesnaturschutzgesetzes, einer in Anhang IV der Richtlinie 92/43/EWG aufgeführten Art oder einer Art, die in einer Rechtsverordnung nach § 54 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes aufgeführt ist; diese Gebiete können auf der Grundlage von vorhandenen Daten zu bekannten Artvorkommen oder zu besonders geeigneten Lebensräumen ermittelt werden.
+
+Eine in Satz 1 Nummer 2 genannte Art ist betroffen, wenn durch den Ausbau der Windenergie Verstöße gegen § 44 Absatz 1 Nummer 1 bis 3 des Bundesnaturschutzgesetzes zu erwarten sind. Besonders geeignete Lebensräume sind insbesondere die Lebensraumtypen nach Anhang I der Richtlinie 92/43/EWG, die für durch den Ausbau der Windenergie betroffene Arten als Habitate geeignet sind.
+
+(3) Die Länder können durch Landesgesetz bestimmen, dass es abweichend von der Verpflichtung in Absatz 2 Satz 1 im Ermessen der planaufstellenden Behörde steht, zusätzliche Vorranggebiete für Windenergie als Beschleunigungsgebiete auszuweisen, sobald und solange der Flächenbeitragswert nach der Anlage Spalte 2 des Windenergieflächenbedarfsgesetzes oder das jeweilige daraus abgeleitete Teilflächenziel nach § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des Windenergieflächenbedarfsgesetzes erreicht ist. § 6a des Windenergieflächenbedarfsgesetzes bleibt unberührt.
+
+(4) Bei der Ausweisung der Beschleunigungsgebiete sind Regeln für wirksame Minderungsmaßnahmen für die Errichtung und den Betrieb von Anlagen und deren Netzanschluss aufzustellen, um mögliche negative Auswirkungen vorrangiger Vorhaben zu vermeiden oder, falls dies nicht möglich ist, erheblich zu verringern. Auswirkungen nach Satz 1 sind nur Auswirkungen auf
+
+1. Erhaltungsziele nach § 7 Absatz 1 Nummer 9 des Bundesnaturschutzgesetzes,
+
+2. europäische Vogelarten nach § 7 Absatz 2 Nummer 12 des Bundesnaturschutzgesetzes, in Anhang IV der Richtlinie 92/43/EWG aufgeführte Arten oder Arten, die in einer Rechtsverordnung nach § 54 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes aufgeführt sind,
+
+3. Bewirtschaftungsziele nach § 27 des Wasserhaushaltsgesetzes.
+
+Die Aufstellung von Regeln für Minderungsmaßnahmen kann entsprechend Anlage 3 erfolgen.
+
+(5) Die Ausweisung als Beschleunigungsgebiet und die Aufstellung von Regeln für Minderungsmaßnahmen erfolgen im Rahmen des Planaufstellungsverfahrens zur Festlegung der Vorranggebiete für Windenergie. Wurden die Planaufstellungsverfahren vor dem 15. August 2025 förmlich eingeleitet, kann die erforderliche Ausweisung von Beschleunigungsgebieten und die Aufstellung von Regeln für Minderungsmaßnahmen ausnahmsweise in einem nachfolgenden, innerhalb von drei Monaten förmlich einzuleitenden separaten Planungsverfahren erfolgen; in diesem Fall sind § 7 Absatz 5, die §§ 8, 9 Absatz 5 und die §§ 10 und 11 für Raumordnungspläne entsprechend anzuwenden.
+
+(6) Eine Verletzung der Vorschriften der Absätze 2 bis 5 über die zusätzliche Ausweisung als Beschleunigungsgebiet ist für die Rechtswirksamkeit des Vorranggebiets im Übrigen unbeachtlich.
+
+(7) Für Vorranggebiete für Windenergie, die nach Ablauf des 19. Mai 2024 und vor dem 15. August 2025 ausgewiesen worden sind, gelten die Absätze 2 bis 6 entsprechend.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 12.8.2025 I Nr. 189 +++)
 
 # Anlage 1 – (zu § 8 Abs. 1)
 
@@ -597,3 +633,130 @@ Gebiete mit hoher Bevölkerungsdichte, insbesondere Zentrale Orte im Sinne des �
 in amtlichen Listen oder Karten verzeichnete Denkmäler, Denkmalensembles, Bodendenkmäler oder Gebiete, die von der durch die Länder bestimmten Denkmalschutzbehörde als archäologisch bedeutende Landschaften eingestuft worden sind.
 
 Anlage 2 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das <a href="../abweichendes_Landesrecht/lplg_by__.html" target="_blank" title="Anzeige in neuem Fenster">Bayerische Landesplanungsgesetz (BayLplG)</a> idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+
+# Anlage 3 – (zu § 28 Absatz 4 Satz 3) Regeln für Minderungsmaßnahmen
+
+(Fundstelle: BGBl. 2025 I Nr. 189, S. 14 – 15
+
+  
+
+Aufstellung von Regeln für wirksame Minderungsmaßnahmen durch die planaufstellende Behörde (§ 28 Absatz 4 Satz 3)
+
+Als Regeln für Minderungsmaßnahmen bestimmt die planaufstellende Behörde für das jeweilige Beschleunigungsgebiet und unter Berücksichtigung der dort zu erwartenden Umweltauswirkungen, welche Arten von Minderungsmaßnahmen regelmäßig oder anlassbezogen durchzuführen oder zu prüfen sind.
+
+Hat die planaufstellende Behörde auf der Grundlage der nach Nummer I.3 ermittelten Umweltauswirkungen die einschlägigen Kategorien von Minderungsmaßnahmen aus den Kategorien II.1 bis II.2 ausgewählt und der Zulassungsbehörde aufgegeben, hieraus projektbezogene Minderungsmaßnahmen zu entwickeln, werden die Verpflichtungen in § 28 Absatz 4 damit erfüllt. Die Anwendung der Anlage 3 ist für die planaufstellenden Behörden nicht verbindlich; sie können auch abweichende Konzepte zur Aufstellung von Regeln für Minderungsmaßnahmen anwenden.
+
+I. Kriterien für die Aufstellung von geeigneten Regeln für wirksame Minderungsmaßnahmen
+
+Die planaufstellende Behörde richtet die Regeln an den folgenden Kriterien nach Artikel 15c Absatz 1 Unterabsatz 2 der Richtlinie (EU) 2018/2001 in der Fassung vom 17. Mai 2024 aus:
+
+I.1 Besonderheiten des jeweiligen Beschleunigungsgebietes
+
+Die Besonderheiten des jeweiligen Beschleunigungsgebietes werden auf der Grundlage aller vorhandenen umweltbezogenen Daten einschließlich der Ergebnisse der Prüfung nach § 7 Absatz 6, sofern diese durchzuführen ist, sowie der Umweltprüfung nach § 8 bestimmt; dies sind die Prüfungsergebnisse bezogen auf die Windenergiegebiete, die den auszuweisenden Beschleunigungsgebieten zugrunde liegen. Auf die Bestandsaufnahme im Umweltbericht auf der Grundlage der Anlage 1 Nummer 2 Buchstabe a kann Bezug genommen werden. Neben bedeutenden Artvorkommen sind die vorhandenen Biotope und deren Wertigkeit, die Habitatausstattung sowie der ökologische Zustand oder das ökologische Potenzial eines oberirdischen Gewässers zu berücksichtigen.
+
+I.2 Art der vorrangigen Erneuerbare-Energien-Technologie
+
+Art der vorrangigen Erneuerbare-Energien-Technologien, für die ein Beschleunigungsgebiet ausgewiesen wird, sind die Windenergie an Land sowie die im Plan bestimmten zulässigen Anlagen zur Speicherung von Strom oder Wärme, jeweils einschließlich der zulässigen Nebenanlagen, insbesondere ihres Netzanschlusses.
+
+I.3 Ermittelte Umweltauswirkungen
+
+Bei der Ermittlung der Umweltauswirkungen sind zu berücksichtigen:
+
+a) die Kriterien nach den Nummern I.1 und I.2,
+
+b) die Prognose im Umweltbericht auf der Grundlage der Anlage 1 Nummer 2 Buchstabe b,
+
+c) die technologiebezogenen, nicht vorhabenbezogenen Wirkfaktoren von Windenergie, die Konfliktintensität sowie die Wirksamkeit der potenziellen Minderungsmaßnahmen und
+
+d) die Sensibilität und die naturschutzfachliche Bedeutung der betroffenen besonders geschützten Arten unter Berücksichtigung des Erhaltungszustands und des Gefährdungsgrads sowie der besonders geeigneten Lebensräume dieser Arten.
+
+I.4 Auflistung möglicher Umweltauswirkungen
+
+Mögliche Umweltauswirkungen sind:
+
+a) baubedingte Beeinträchtigungen der boden- und gehölzbrütenden europäischen Vogelarten und Arten, die im Anhang IV der Richtlinie 92/43/EWG aufgeführt sind, insbesondere der Fledermäuse,
+
+b) Beschädigung oder Zerstörung von Fortpflanzungs- und Ruhestätten von europäischen Vogelarten und Arten, die im Anhang IV der Richtlinie 92/43/EWG aufgeführt sind (§ 44 Absatz 1 Nummer 3 des Bundesnaturschutzgesetzes),
+
+c) bau-, anlagen- und betriebsbedingte Auswirkungen auf Rastgebiete, Kolonien, Schlafplatzgemeinschaften oder sonstige Ansammlungen störungsempfindlicher europäischer Vogelarten (§ 44 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes),
+
+d) erhebliche Beeinträchtigung eines in der Nähe des Beschleunigungsgebiets gelegenen Natura 2000-Gebiets (§ 34 Absatz 1 des Bundesnaturschutzgesetzes),
+
+e) Auswirkungen auf den ökologischen Zustand oder das ökologische Potenzial eines oberirdischen Gewässers (§ 27 des Wasserhaushaltsgesetzes),
+
+f) betriebsbedingte Tötung oder Verletzung von Vorkommen kollisionsgefährdeter europäischer Vogelarten und Arten, die im Anhang IV der Richtlinie 92/43/EWG aufgeführt sind, insbesondere von
+
+aa)  
+kollisionsgefährdeten Brutvogelarten als Einzelbrutpaaren nach der Anlage 1 Abschnitt 1 des Bundesnaturschutzgesetzes (§ 44 Absatz 1 Nummer 1 des Bundesnaturschutzgesetzes),
+
+bb)  
+kollisionsgefährdeten Brutvogelarten in Kolonien, Schlafplatzgemeinschaften oder sonstigen Ansammlungen (§ 44 Absatz 1 Nummer 1 des Bundesnaturschutzgesetzes),
+
+cc) Fledermausarten (§ 44 Absatz 1 Nummer 1 des Bundesnaturschutzgesetzes),
+
+g) betriebsbedingte Störung von europäischen Vogelarten und Arten, die im Anhang IV der Richtlinie 92/43/EWG aufgeführt sind, einschließlich Fledermäusen (§ 44 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes).
+
+II. Aufstellung der geeigneten Regeln für wirksame Minderungsmaßnahmen
+
+Die planaufstellende Behörde hat für das jeweilige Beschleunigungsgebiet Regeln für Minderungsmaßnahmen auf Basis der Kriterien nach Nummer I aufzustellen.
+
+Als Regeln für Minderungsmaßnahmen kann die planaufstellende Behörde Kategorien von Minderungsmaßnahmen sowie Beispiele für in Betracht kommende Maßnahmen aufstellen. Bei dieser Aufstellung kann die planaufstellende Behörde insbesondere Bezug nehmen auf
+
+a) die Darlegungen im Umweltbericht auf der Grundlage von Anlage 1 Nummer 2 Buchstabe c und d,
+
+b) den nachfolgenden, nicht abschließenden Katalog von Kategorien von Minderungsmaßnahmen einschließlich der allgemeinen Beispiele für Maßnahmen.
+
+ 
+
+ 
+
+II.1 Kategorien von Minderungsmaßnahmen für Windenergieanlagen
+
+a) baubedingte Minderungsmaßnahmen, insbesondere
+
+aa)  
+ökologische Baubegleitung und zeitliche Beschränkung der Baufeldfreimachung,
+
+bb)  
+Schutzzäune für Amphibien und Reptilien,
+
+cc) Schutzmaßnahmen in Anlehnung an vorgezogene Ausgleichsmaßnahmen zur dauerhaften Sicherung der ökologischen Funktion (CEF-Maßnahmen) wie Fledermauskästen;
+
+b) anlagenbedingte Minderungsmaßnahmen;
+
+c) betriebsbedingte Minderungsmaßnahmen, insbesondere
+
+aa)  
+Schutzmaßnahmen nach Anlage 1 Abschnitt 2 des Bundesnaturschutzgesetzes für kollisionsgefährdete Brutvogelarten als Einzelbrutpaare,
+
+bb)  
+Schutzmaßnahmen in Anlehnung an Anlage 1 Abschnitt 2 des Bundesnaturschutzgesetzes für kollisionsgefährdete Brutvogelarten in Kolonien, Schlafplatzgemeinschaften oder sonstigen Ansammlungen.
+
+II.2 Kategorien von Minderungsmaßnahmen für im Plan bestimmte zulässige Anlagen zur Speicherung von Strom oder Wärme und Nebenanlagen
+
+a) baubedingte Maßnahmen, insbesondere
+
+aa)  
+ökologische Baubegleitung und zeitliche Beschränkung der Baufeldfreimachung,
+
+bb)  
+Vermeidung der Inanspruchnahme sensibler Bereiche wie gesetzlich geschützter Biotope,
+
+cc) boden- und grundwasserschonender und rückstandsloser Rückbau;
+
+b) anlagenbedingte Maßnahmen, insbesondere
+
+aa)  
+Begrenzung der maximal versiegelten Fläche,
+
+bb)  
+Integration von standortangepassten Typen von Biotopelementen,
+
+cc) Dachbegrünung,
+
+dd)  
+Sicherstellung, dass bei thermischer Beeinflussung des Grundwassers und von Oberflächengewässern diese gering gehalten wird;
+
+c) betriebsbedingte Maßnahmen, insbesondere Pflegekonzept zur Förderung und Entwicklung autochthoner, standorttypischer, artenreicher Pflanzengesellschaften.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 12.8.2025 I Nr. 189 +++)

@@ -360,8 +360,7 @@ b) der Summe der Strommengen aller in den Speicher einspeisenden Anlagen.
 
 § 41 Absatz 3 bis 6 ist entsprechend anzuwenden.
 
-(+++ § 12 Abs. 1 Satz 2 u. Abs. 2 u. 5: Zur Anwendung vgl. § 18 Abs. 2 +++)  
-(+++ § 12 Abs. 1 Nr. 2: Zur Geltung vgl. § 54 Satz 1 +++)
+(+++ § 12 Abs. 1 Satz 2 u. Abs. 5: Zur Anwendung vgl. § 18 Abs. 2 +++)
 
 # § 13 – Ausstellung von Herkunftsnachweisen für Strom aus Pumpspeicherkraftwerken und aus Laufwasserkraftwerken mit Pumpbetrieb ohne Speicherung
 

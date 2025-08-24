@@ -423,7 +423,8 @@ e) deren Zweck nach § 52 Absatz 2 Satz 2 der Abgabenordnung für gemeinnützig 
 
 zuzurechnen ist. ¹¹Auf die Fehlbeträge ist § 8d des Körperschaftsteuergesetzes entsprechend anzuwenden, wenn ein fortführungsgebundener Verlustvortrag nach § 8d des Körperschaftsteuergesetzes gesondert festgestellt worden ist. ¹²Unterbleibt eine Feststellung nach § 8d Absatz 1 Satz 8 des Körperschaftsteuergesetzes, weil keine nicht genutzten Verluste nach § 8c Absatz 1 Satz 1 des Körperschaftsteuergesetzes vorliegen, ist auf Antrag auf die Fehlbeträge § 8d des Körperschaftsteuergesetzes entsprechend anzuwenden; für die Form und die Frist dieses Antrags gilt § 8d Absatz 1 Satz 5 des Körperschaftsteuergesetzes entsprechend.
 
-(+++ § 10a: Zur Anwendung vgl. § 36 +++)
+(+++ § 10a: Zur Anwendung vgl. § 36 +++)  
+§ 10a Satz 1 u. 2: IdF d. G v. 23.12.2003 I 2922 mWv 01.01.2004 nach Maßgabe der Entscheidungsformel mit GG vereinbar gem. BVerfGE vom 23.07.2025 – 2 BvL 19/14 –
 
 # § 11 – Steuermesszahl und Steuermessbetrag
 
