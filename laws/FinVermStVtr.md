@@ -1,7 +1,7 @@
 % Staatsvertrag über die abschließende Aufteilung des Finanzvermögens gemäß Artikel 22 des Einigungsvertrages zwischen dem Bund, den neuen Ländern und dem Land Berlin (Finanzvermögen-Staatsvertrag)
 % Ausfertigungsdatum: 14.12.2012
  
-# ----
+# Eingangsformel
 
 Die Bundesrepublik Deutschland  
   

@@ -1,7 +1,7 @@
 % Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 % Ausfertigungsdatum: 18.05.1990
  
-# ----
+# Eingangsformel
 
 Die Hohen Vertragschließenden Seiten -  
 dank der Tatsache, daß in der Deutschen Demokratischen Republik im Herbst 1989 eine friedliche und demokratische Revolution stattgefunden hat,  

@@ -409,6 +409,10 @@ b) aufgrund der Kraftfahrzeugsteuer sowie
 
 (2) Auf der Grundlage der Überprüfung veröffentlicht das Bundesministerium für Wirtschaft und Klimaschutz einen Bericht mit Vorschlägen zur Weiterentwicklung und Änderung dieser Verordnung und schlägt spätestens im ersten Quartal 2025 eine Änderung dieser Verordnung vor.
 
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.
+
 # Anlage 1 – Hinweis über den Energieverbrauch und die CO2-Emissionen neuer Personenkraftwagen
 
 (Fundstelle: BGBl. I 2024 I Nr. 50, S. 9 - 17)  

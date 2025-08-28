@@ -1514,7 +1514,8 @@ eine Beschreibung der Prozesse zur Umsetzung der Erkenntnisse aus der Auswertung
 
 # Anlage 2 – Fragebogen gemäß den §§ 6 und 7
 
-(Fundstelle: BGBl. I 2022, 1594 - 1602)
+(Fundstelle: BGBl. I 2022, 1594 - 1602;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 

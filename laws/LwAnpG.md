@@ -1,7 +1,7 @@
 % Gesetz über die strukturelle Anpassung der Landwirtschaft an die soziale und ökologische Marktwirtschaft in der Deutschen Demokratischen Republik  (Landwirtschaftsanpassungsgesetz - LwAnpG)
 % Ausfertigungsdatum: 29.06.1990
  
-# ----
+# Inhaltsübersicht
 
 |      |            |                                                                                         |
 |-----:|------------|-----------------------------------------------------------------------------------------|
