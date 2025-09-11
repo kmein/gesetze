@@ -53,7 +53,9 @@ Die berufs- und arbeitspädagogische Eignung umfasst die Kompetenz zum selbstst�
 
 6. die Möglichkeiten zu prüfen, ob Teile der Berufsausbildung im Ausland durchgeführt werden können.
 
-(3) Das Handlungsfeld nach § 2 Nummer 3 umfasst die berufs- und arbeitspädagogische Eignung, selbstständiges Lernen in berufstypischen Arbeits- und Geschäftprozessen handlungsorientiert zu fördern. Die Ausbilder und Ausbilderinnen sind dabei in der Lage,
+(3) Das Handlungsfeld nach § 2 Nummer 3 umfasst die berufs- und arbeitspädagogische Eignung, selbstständiges Lernen in berufstypischen
+
+Arbeits- und Geschäftsprozessen handlungsorientiert zu fördern. Die Ausbilder und Ausbilderinnen sind dabei in der Lage,
 
 1. lernförderliche Bedingungen und eine motivierende Lernkultur zu schaffen, Rückmeldungen zu geben und zu empfangen,
 
@@ -82,6 +84,8 @@ Die berufs- und arbeitspädagogische Eignung umfasst die Kompetenz zum selbstst�
 3. an der Erstellung eines schriftlichen Zeugnisses auf der Grundlage von Leistungsbeurteilungen mitzuwirken sowie
 
 4. Auszubildende über betriebliche Entwicklungswege und berufliche Weiterbildungsmöglichkeiten zu informieren und zu beraten.
+
+§ 3 Abs. 3 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurden die Wörter "Arbeits- und Geschäftprozessen" durch die Wörter "Arbeits- und Geschäftsprozessen" ersetzt
 
 # § 4 – Nachweis der Eignung
 

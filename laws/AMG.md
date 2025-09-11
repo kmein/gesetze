@@ -320,7 +320,7 @@ b) eine medizinische Diagnose zu erstellen.
 
 5. Biozid-Produkte nach Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1; L 303 vom 20.11.2015, S. 109; L 305 vom 21.11.2015, S. 55; L 280 vom 28.10.2017, S. 57), die zuletzt durch die Delegierte Verordnung (EU) 2021/407 (ABl. L 81 vom 9.3.2021, S. 15) geändert worden ist,
 
-6. Futtermittel im Sinne des Artikels 3 Nummer 4 der Verordnung (EG) Nr. 178/2002,
+6. (weggefallen)
 
 7. Medizinprodukte und Zubehör für Medizinprodukte im Sinne von Artikel 2 Nummer 1 und 2 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung und im Sinne von Artikel 2 Nummer 2 und 4 der Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom 27.12.2019, S. 167) in der jeweils geltenden Fassung, es sei denn, es handelt sich um Arzneimittel im Sinne des Absatzes 1 Nummer 2 Buchstabe b,
 

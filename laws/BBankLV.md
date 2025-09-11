@@ -11,7 +11,7 @@ Diese Verordnung gilt für die Beamtinnen und Beamten der Deutschen Bundesbank. 
 
 # § 2 – Gestaltung und Ämter der Laufbahnen
 
-(1) Bei der Deutschen Bundesbank können zusätzlich zu den Laufbahnen nach § 6 Absatz 2 der Bundeslaufbahnverordnung folgende Laufbahnen eingerichtet werden:
+(1) Bei der Deutschen Bundesbank sind zusätzlich zu den Laufbahnen nach § 6 Absatz 2 der Bundeslaufbahnverordnung folgende Laufbahnen eingerichtet:
 
 1. der mittlere Bankdienst,
 
@@ -27,7 +27,31 @@ Für die Laufbahnen des mittleren, gehobenen und höheren Bankdienstes werden Vo
 
 # § 4 – Vorbereitungsdienst für den gehobenen Bankdienst
 
-Der Vorbereitungsdienst für den gehobenen Bankdienst wird in einem Studiengang an der Fachhochschule der Deutschen Bundesbank durchgeführt. § 13 der Bundeslaufbahnverordnung bleibt im Übrigen unberührt.
+Der Vorbereitungsdienst für den gehobenen Bankdienst wird in einem Studiengang an der Hochschule der Deutschen Bundesbank durchgeführt. § 13 der Bundeslaufbahnverordnung bleibt im Übrigen unberührt.
+
+# § 4a – Besondere Fachverwendung Bargeldlogistik im mittleren Bankdienst
+
+(1) In der Laufbahn des mittleren Bankdienstes wird die besondere Fachverwendung Bargeldlogistik eingerichtet.
+
+(2) Für die besondere Fachverwendung Bargeldlogistik im mittleren Bankdienst können Bewerberinnen und Bewerber nach Maßgabe des § 19 der Bundeslaufbahnverordnung eingestellt werden, wenn sie die folgenden Voraussetzungen erfüllen:
+
+1. als Bildungsvoraussetzung einen Abschluss in einem anerkannten Ausbildungsberuf nach dem Berufsbildungsgesetz oder der Handwerksordnung
+
+a) im gewerblich-technischen Bereich,
+
+b) im handwerklichen Bereich,
+
+c) im Bereich Logistik,
+
+d) im Bereich Schutz und Sicherheit,
+
+e) im Bereich der Justiz, des Steuerwesens oder der öffentlichen Verwaltung oder
+
+f) im kaufmännischen Bereich und
+
+2. eine hauptberufliche Tätigkeit in einem der in Nummer 1 genannten Bereiche oder im Bereich Bargeldlogistik der Deutschen Bundesbank von mindestens einem Jahr und sechs Monaten.
+
+(3) Beamtinnen und Beamte mit der Befähigung für die besondere Fachverwendung Bargeldlogistik im mittleren Bankdienst können durch eine 18-monatige berufspraktische Einführung die Befähigung für die Laufbahn des mittleren Bankdienstes erlangen. § 9 Satz 2 bis 4 gilt entsprechend.
 
 # § 5 – Befähigung für den höheren Bankdienst
 
@@ -53,28 +77,22 @@ Die Beurteilungsrichtlinien der Deutschen Bundesbank erlässt der Vorstand der D
 
 Beamtinnen und Beamte mit der Befähigung für die Laufbahn des Geldbearbeitungsdienstes können durch eine einjährige berufspraktische Einführung die Befähigung für die Laufbahn des mittleren Bankdienstes erlangen. Während der berufspraktischen Einführung werden die Aufgaben der Laufbahn des mittleren Bankdienstes wahrgenommen. Die Einführung schließt mit einer dienstlichen Beurteilung ab, aus der hervorgeht, ob sich die Beamtin oder der Beamte in der neuen Laufbahn bewährt hat. Beamtinnen und Beamte, die sich in der berufspraktischen Einführung der neuen Laufbahn nicht bewährt haben, verbleiben in der Laufbahn des Geldbearbeitungsdienstes. Die Laufbahn des Geldbearbeitungsdienstes gilt insoweit weiterhin als eingerichtet.
 
-# § 10 – Übergangsvorschriften zum Beamtenverhältnis auf Probe
+(+++ § 9 Satz 2 bis 4: Zur Geltung vgl. § 4a Abs. 3 Satz 2 +++)
 
-(1) Für Beamtinnen und Beamte, die vor dem 12. Februar 2009 in ein Beamtenverhältnis auf Probe berufen worden sind, sind anstelle der §§ 28 bis 31 der Bundeslaufbahnverordnung die §§ 7 bis 10 und 46 Absatz 1 Nummer 2 und 3 der Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank weiter anzuwenden, mit der Maßgabe, dass sich die Probezeit nicht durch Mutterschutz, Elternzeit und Teilzeit verlängert und § 19 Absatz 4 der Bundeslaufbahnverordnung entsprechend anzuwenden ist.
+# Anlage 1 – (zu § 2 Abs 2) Laufbahnen, Ämter und Amtsbezeichnungen
 
-(2) Für Beamtinnen und Beamte, denen nach § 147 Absatz 1 des Bundesbeamtengesetzes bei der Begründung des Beamtenverhältnisses kein Amt verliehen worden ist, gelten die §§ 9 und 10 der Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank weiterhin, mit der Maßgabe, dass die Beamtinnen und Beamten vor Abschluss der Probezeit angestellt werden können und dass anstelle des § 10 Absatz 6 der Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank bei der Anstellung in ein höheres Amt als das Eingangsamt § 25 der Bundeslaufbahnverordnung entsprechend anzuwenden ist.
-
-# § 11 – Übergangsvorschriften zum Aufstieg
-
-(1) Für Beamtinnen und Beamte, die vor dem 12. Februar 2009 in ein Beamtenverhältnis auf Probe berufen worden sind und sich vor dem 1. Januar 2012 um eine Teilnahme an einem Auswahlverfahren zum Aufstieg nach den vor Inkrafttreten dieser Verordnung geltenden Regelungen bewerben, richtet sich das weitere Auswahl- und Aufstiegsverfahren weiterhin nach den §§ 16, 23, 29 und 34 der Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank. Ihnen steht der Aufstieg nach § 37 der Bundeslaufbahnverordnung offen.
-
-(2) Für Beamtinnen und Beamte, die die Befähigung nach den §§ 24, 30 und 34a der Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank erworben haben, gelten die §§ 24, 30 und 34a der Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank weiter, mit der Maßgabe, dass Ämter der Besoldungsgruppe A 9, A 13 oder A 16 der Bundesbesoldungsordnung A ohne Befähigungserweiterung verliehen werden können.
-
-# § 12 – Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig treten die Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank in der Fassung der Bekanntmachung vom 28. Dezember 1979 (BAnz. Nr. 6 vom 10. Januar 1980), die zuletzt durch den Beschluss vom 3. September 1998 (BAnz. S. 16 640) geändert worden sind, außer Kraft.
-
-# Anlage 1 – (zu § 2 Abs 2)Laufbahnen, Ämter und Amtsbezeichnungen
-
-(Fundstelle: BGBl. I 2010, 1144)  
+(Fundstelle: BGBl. 2025 I Nr. 198, S. 3)  
   
+
+Tabelle 1: Laufbahn des einfachen nichttechnischen Verwaltungsdienstes
+
+Tabelle 2: Laufbahn des mittleren Dienstes
+
+Tabelle 3: Laufbahn des gehobenen Dienstes
+
+Tabelle 4: Laufbahn des höheren Dienstes
 
 # Anlage 2 – (zu § 8 Abs 1)
 
-(Fundstelle: BGBl. I 2010, 1145)  
+(Fundstelle: BGBl. 2025 I Nr. 198, S. 4)  
   

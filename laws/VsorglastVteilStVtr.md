@@ -1,7 +1,7 @@
 % Staatsvertrag über die Verteilung von Versorgungslasten bei bund- und länderübergreifenden Dienstherrenwechseln  (Versorgungslastenteilungs-Staatsvertrag)
 % Ausfertigungsdatum: 05.09.2010
  
-# ----
+# Eingangsformel
 
   
 Die Bundesrepublik Deutschland,

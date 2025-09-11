@@ -17,10 +17,6 @@ Auf Grund des § 11 Absatz 4 Satz 1 Nummer 1 des Tiergesundheitsgesetzes in der 
 
 (2) Absatz 1 gilt nur, solange kein immunologisches Tierarzneimittel gemäß Artikel 44, 47, 49 oder 52 der Verordnung (EU) 2019/6 zugelassen worden ist.
 
-# § 1a – Vorläufige Fortgeltung der Gestattung nach § 1 Absatz 1
-
-Abweichend von § 1 Absatz 2 dürfen die in § 1 Absatz 1 genannten immunologischen Tierarzneimittel vorläufig weiter angewendet werden.
-
 # § 2 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

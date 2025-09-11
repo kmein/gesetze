@@ -262,8 +262,6 @@ Die Vertragsparteien sind sich einig, dass jeder Militärrabbiner und jede Milit
 
 Die Entscheidung über das Erfordernis der Zugehörigkeit zum jüdischen Glauben zur Ausübung des Hilfsdienstes, erfolgt im Einvernehmen mit dem Zentralrat der Juden in Deutschland. Die Zugehörigkeit zum jüdischen Glauben muss durch den Zentralrat der Juden in Deutschland ausdrücklich anerkannt werden.
 
-# Schlussformel
-
  Berlin, den 20. Dezember 2019
 
 <table width="100%" style="border: none;">

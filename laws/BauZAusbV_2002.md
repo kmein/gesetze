@@ -217,9 +217,9 @@ Durch die Ausführung von Teil B der Prüfung soll der Prüfling zeigen, dass er
 
 (2) Auf Berufsausbildungsverhältnisse, die am 17. Mai 2004 bestehen, ist § 9 Abs. 2 in der bis zum 17. Mai 2004 geltenden Fassung weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Verordnung in der am 18. Mai 2004 geltenden Fassung.
 
-# § 11 – Weitere Übergangsregelung
+# § 11 – Außerkrafttreten
 
-Berufsausbildungsverhältnisse, die am 1. August 2017 bereits bestehen, können nach den Vorschriften dieser Verordnung in der ab dem 1. August 2017 geltenden Fassung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2026 außer Kraft.
 
 # Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
 

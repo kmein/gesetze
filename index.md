@@ -6,6 +6,7 @@
 - [AarhusÜbk](laws/AarhusÜbk.md) Übereinkommen über den Zugang zu Informationen, die Öffentlichkeitsbeteiligung an Entscheidungsverfahren und den Zugang zu Gerichten in Umweltangelegenheiten
 - [AARKZustAnO](laws/AARKZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Auswärtigen Amts in Reisekostenangelegenheiten
 - [AAÜbertrAnO](laws/AAÜbertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Bescheiden und Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Bediensteten des Auswärtigen Amts auf das Bundesverwaltungsamt
+- [AAÜbertrAnODienstUnFürAng](laws/AAÜbertrAnODienstUnFürAng.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Bescheiden und Widerspruchsbescheiden sowie die Vertretung bei Klagen in Erstattungsverfahren von Beamtinnen und Beamten des Auswärtigen Amts im In- und Ausland sowie Familienangehörigen von im Ausland tätigen Beamtinnen und Beamten und von Tarifbeschäftigten auf das Bundesverwaltungsamt in Dienstunfallfürsorgeangelegenheiten
 - [AAÜG](laws/AAÜG.md) Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets
 - [AAÜG-ÄndG](laws/AAÜG-ÄndG.md) Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes
 - [AAÜGErstV](laws/AAÜGErstV.md) Verordnung über die Erstattung von Aufwendungen nach dem Gesetz zur Überführung von Ansprüchen und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets durch den Bund
@@ -2718,7 +2719,6 @@
 - [HaldeRlAnO](laws/HaldeRlAnO.md) Anordnung über Halden und Restlöcher
 - [HandzMstrV](laws/HandzMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Handzuginstrumentenmacher-Handwerk
 - [HanfEinfV](laws/HanfEinfV.md) Verordnung über die Einfuhr von Hanf aus Drittländern
-- [HanfSaatV 2025](laws/HanfSaatV_2025.md) Verordnung über besondere Anforderungen an Saatgut von Hanf im Rahmen der Saatgutanerkennung 2025
 - [HArchDVDV](laws/HArchDVDV.md) Verordnung über den Vorbereitungsdienst für den höheren Archivdienst des Bundes
 - [HAuslG](laws/HAuslG.md) Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet
 - [HAV](laws/HAV.md) Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung
