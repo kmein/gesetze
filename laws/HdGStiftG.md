@@ -1,4 +1,4 @@
-% Gesetz zur Errichtung einer Stiftung "Haus der Geschichte der Bundesrepublik Deutschland" (Artikel 1 d. Gesetzes zur Errichtung einer Stiftung "Haus der Geschichte der Bundesrepublik Deutschland")
+% Gesetz zur Errichtung einer Stiftung "Haus der Geschichte der Bundesrepublik Deutschland"
 % Ausfertigungsdatum: 28.02.1990
  
 # § 1 – Errichtung und Rechtsform

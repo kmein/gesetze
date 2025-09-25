@@ -493,7 +493,7 @@
 - [BaumeisterVAblV](laws/BaumeisterVAblV.md) Verordnung zur Ablösung der Baumeisterverordnung
 - [BauNVO](laws/BauNVO.md) Verordnung über die bauliche Nutzung der Grundstücke
 - [BauPG](laws/BauPG.md) Gesetz zur Durchführung der Verordnung (EU) Nr. 305/2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Umsetzung und Durchführung anderer Rechtsakte der Europäischen Union in Bezug auf Bauprodukte
-- [BauPGHeizkesselV](laws/BauPGHeizkesselV.md) Verordnung über das Inverkehrbringen von Heizkesseln und Geräten nach dem Bauproduktengesetz (Artikel 1 der Verordnung zur Umsetzung der Heizkesselwirkungsgradrichtlinie)
+- [BauPGHeizkesselV](laws/BauPGHeizkesselV.md) Verordnung über das Inverkehrbringen von Heizkesseln und Geräten nach dem Bauproduktengesetz
 - [BauPGPÜZAnerkV](laws/BauPGPÜZAnerkV.md) Verordnung über die Anerkennung als Prüf-, Überwachungs- und Zertifizierungsstelle nach dem Bauproduktengesetz
 - [BAusfAmtG](laws/BAusfAmtG.md) Gesetz über die Errichtung eines Bundesausfuhramtes
 - [BauSparkG](laws/BauSparkG.md) Gesetz über Bausparkassen
@@ -945,7 +945,7 @@
 - [BLG 2000](laws/BLG_2000.md) Gesetz zur Bestimmung der Beträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2000
 - [BlindKennzV](laws/BlindKennzV.md) Verordnung über die Kennzeichnung von Arzneimitteln in Blindenschrift bei Kleinstmengen
 - [BlutArmV 2010](laws/BlutArmV_2010.md) Verordnung zum Schutz gegen die Ansteckende Blutarmut der Einhufer
-- [BlutZV](laws/BlutZV.md) Verordnung zur Ausdehnung der Vorschriften über die staatliche Chargenprüfung auf Blutzubereitungen (Artikel 1 der Verordnung über die Einführung der staatlichen Chargenprüfung bei Blutzubereitungen)
+- [BlutZV](laws/BlutZV.md) Verordnung zur Ausdehnung der Vorschriften über die staatliche Chargenprüfung auf Blutzubereitungen
 - [BLV](laws/BLV.md) Verordnung über die Laufbahnen der Bundesbeamtinnen und Bundesbeamten
 - [BMASBGebV](laws/BMASBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Arbeit und Soziales für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 - [BMASErnAnO](laws/BMASErnAnO.md) Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
@@ -1523,7 +1523,7 @@
 - [DHMG](laws/DHMG.md) Gesetz zur Errichtung einer Stiftung „Deutsches Historisches Museum“
 - [DHRV](laws/DHRV.md) Verordnung über das Deutsche Hämophilieregister
 - [DiätAss-APrV](laws/DiätAss-APrV.md) Ausbildungs- und Prüfungsverordnung für Diätassistentinnen und Diätassistenten
-- [DiätAssG](laws/DiätAssG.md) Gesetz über den Beruf der Diätassistentin und des Diätassistenten (Artikel 1 des Gesetzes über den Beruf der Diätassistentin und des Diätassistenten und zur Änderung verschiedener Gesetze über den Zugang zu anderen Heilberufen)
+- [DiätAssG](laws/DiätAssG.md) Gesetz über den Beruf der Diätassistentin und des Diätassistenten
 - [DiätenG](laws/DiätenG.md) Gesetz über die Entschädigung der Mitglieder des Bundestages
 - [DiätenGÄndG](laws/DiätenGÄndG.md) Gesetz zur Änderung des Gesetzes über die Entschädigung der Mitglieder des Bundestages
 - [DiätenGÄndG 2](laws/DiätenGÄndG_2.md) Zweites Gesetz zur Änderung des Diätengesetzes 1968
@@ -2729,7 +2729,7 @@
 - [HBeglG 1991](laws/HBeglG_1991.md) Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte sowie über strukturelle Anpassungen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 - [HBPolVDAufstV](laws/HBPolVDAufstV.md) Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei
 - [HdBALBV](laws/HdBALBV.md) Verordnung über die Leistungsbezüge und Zulagen an der Hochschule der Bundesagentur für Arbeit
-- [HdGStiftG](laws/HdGStiftG.md) Gesetz zur Errichtung einer Stiftung "Haus der Geschichte der Bundesrepublik Deutschland" (Artikel 1 d. Gesetzes zur Errichtung einer Stiftung "Haus der Geschichte der Bundesrepublik Deutschland")
+- [HdGStiftG](laws/HdGStiftG.md) Gesetz zur Errichtung einer Stiftung "Haus der Geschichte der Bundesrepublik Deutschland"
 - [HdlDlStatG](laws/HdlDlStatG.md) Gesetz über die Statistik im Handels- und Dienstleistungsbereich
 - [HdlFachwPrV](laws/HdlFachwPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Handelsfachwirt und Geprüfte Handelsfachwirtin
 - [HdlKlG](laws/HdlKlG.md) Handelsklassengesetz
@@ -2791,7 +2791,7 @@
 - [HörAkAusbV](laws/HörAkAusbV.md) Verordnung über die Berufsausbildung zum Hörakustiker und zur Hörakustikerin*
 - [HörAkMstrV](laws/HörAkMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Hörakustiker-Handwerk
 - [HofV](laws/HofV.md) Verordnung über die grundbuchmäßige Behandlung von Anteilen an ungetrennten Hofräumen
-- [HoheSeeEinbrG](laws/HoheSeeEinbrG.md) Gesetz über das Verbot der Einbringung von Abfällen und anderen Stoffen und Gegenständen in die Hohe See (Artikel 1 des Gesetzes zur Ausführung des Protokolls vom 7. November 1996 zum Übereinkommen über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen von 1972)
+- [HoheSeeEinbrG](laws/HoheSeeEinbrG.md) Gesetz über das Verbot der Einbringung von Abfällen und anderen Stoffen und Gegenständen in die Hohe See
 - [HoheSeeÜbk](laws/HoheSeeÜbk.md) Übereinkommen über die Hohe See
 - [HoheSeeÜbkG](laws/HoheSeeÜbkG.md) Gesetz zum Übereinkommen vom 29. April 1958 über die Hohe See
 - [HohSeeEinbrV](laws/HohSeeEinbrV.md) Verordnung zur Durchführung des Gesetzes zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge
@@ -3268,7 +3268,7 @@
 - [KOVVtrESPG](laws/KOVVtrESPG.md) Gesetz zu dem Vertrag vom 29. Mai 1962 zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Kriegsopferversorgung und zu dem Notenwechsel vom 16. Mai 1963
 - [KOVVtrZVtr AUT](laws/KOVVtrZVtr_AUT.md) Zusatzvertrag zur Durchführung und Ergänzung des Vertrages vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
 - [KOVZusVtrAUTG](laws/KOVZusVtrAUTG.md) Gesetz zu dem Zusatzvertrag vom 7. Februar 1969 zur Durchführung und Ergänzung des Vertrags vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
-- [KPBV](laws/KPBV.md) Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln*)
+- [KPBV](laws/KPBV.md) Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Arzneimitteln*)
 - [KPrüfTechnAusbV](laws/KPrüfTechnAusbV.md) Verordnung über die Berufsausbildung zum Prüftechnologen Keramik und zur Prüftechnologin Keramik*
 - [KrAbfWUTechAusbV](laws/KrAbfWUTechAusbV.md) Verordnung über die Berufsausbildung zum Umwelttechnologen für Kreislauf- und Abfallwirtschaft und zur Umwelttechnologin für Kreislauf- und Abfallwirtschaft *
 - [KrAbwFBek](laws/KrAbwFBek.md) Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen des Fonds "Kreditabwicklungsfonds" in das Schuldbuch des Fonds "Kreditabwicklungsfonds"
@@ -3686,7 +3686,7 @@
 - [MautRegV](laws/MautRegV.md) Verordnung über die Führung des Mautdienstregisters
 - [MautSysG](laws/MautSysG.md) Gesetz über den Betrieb elektronischer Mautsysteme
 - [MautVvfV](laws/MautVvfV.md) Verordnung zur Regelung des Vermittlungsverfahrens nach dem Mautsystemgesetz
-- [MB-APrV](laws/MB-APrV.md) Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister (Artikel 1 der Verordnung über die Ausbildung und Prüfung von Masseuren und medizinischen Bademeistern und zur Änderung verschiedener Ausbildungs- und Prüfungsverordnungen betreffend andere Heilberufe)
+- [MB-APrV](laws/MB-APrV.md) Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister
 - [MBankDVDV](laws/MBankDVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren Bankdienst der Deutschen Bundesbank
 - [MbauMstrV](laws/MbauMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Modellbauer-Handwerk
 - [MbBO](laws/MbBO.md) Verordnung über den Bau und Betrieb der Magnetschwebebahnen
@@ -4302,7 +4302,7 @@
 - [ÖlHaftÜbk 1992](laws/ÖlHaftÜbk_1992.md) Internationales Übereinkommen von 1992 über die zivilrechtliche Haftung für Ölverschmutzungsschäden
 - [ÖlHaftÜbkProt](laws/ÖlHaftÜbkProt.md) Protokoll zum Internationalen Übereinkommen von 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden
 - [ÖlmeldV](laws/ÖlmeldV.md) Verordnung zur Ermittlung der zum Internationalen Entschädigungsfonds für Ölverschmutzungsschäden nach dem Ölschadengesetz beitragspflichtigen Ölmengen
-- [ÖlPflichtVersBeschV](laws/ÖlPflichtVersBeschV.md) Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach dem Ölschadengesetz (Artikel 1 der Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz und zur Änderung der Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschiffahrt und Hydrographie)
+- [ÖlPflichtVersBeschV](laws/ÖlPflichtVersBeschV.md) Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach dem Ölschadengesetz
 - [ÖlSG](laws/ÖlSG.md) Gesetz über die Haftung und Entschädigung für Ölverschmutzungsschäden durch Seeschiffe
 - [ÖlUnfÜbk](laws/ÖlUnfÜbk.md) Internationales Übereinkommen über Maßnahmen auf Hoher See bei Ölverschmutzungs-Unfällen
 - [ÖLVermehrAnzV](laws/ÖLVermehrAnzV.md) Verordnung über die Anzeige von Vermehrungsflächen im ökologischen Landbau 5
@@ -4356,7 +4356,7 @@
 - [OrdenG§5Bek 2009](laws/OrdenG§5Bek_2009.md) Bekanntmachung des Bundespräsidenten über die Erteilung von Annahme- und Tragegenehmigungen für bestimmte Orden und Ehrenzeichen
 - [OrdenNachwV](laws/OrdenNachwV.md) Verordnung über den Besitznachweis für Orden und Ehrenzeichen und den Nachweis von Verwundungen und Beschädigungen
 - [OrdenSeenotÄndErl](laws/OrdenSeenotÄndErl.md) Erlaß über die Genehmigung einer Änderung der Verleihungsbedingungen der Medaille für Rettung aus Seenot am Bande der Deutschen Gesellschaft zur Rettung Schiffbrüchiger
-- [OrdensErl7NeufGenErl 2022](laws/OrdensErl7NeufGenErl_2022.md) Erlass zur Genehmigung des neu gefassten Erlasses über die Stiftung der Einsatzmedaille der Bundeswehr
+- [OrdensErl7NeufGenErl 2025](laws/OrdensErl7NeufGenErl_2025.md) Erlass zur Genehmigung des neu gefassten Erlasses über die Stiftung der Einsatzmedaille der Bundeswehr
 - [OrgBAusbV](laws/OrgBAusbV.md) Verordnung über die Berufsausbildung zum Orgelbauer und zur Orgelbauerin*
 - [OrgErl1998](laws/OrgErl1998.md) Organisationserlass des Bundeskanzlers
 - [OrgHbMstrV](laws/OrgHbMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Orgel- und Harmoniumbauer-Handwerk
@@ -4444,7 +4444,7 @@
 - [PBRüV](laws/PBRüV.md) Verordnung zur Rückforderung überzahlter Entlastungen nach dem Strompreisbremsegesetz und dem Erdgas-Wärme-Preisbremsengesetz sowie zum Übergang von Rückforderungsansprüchen auf den Bund
 - [PBV](laws/PBV.md) Verordnung über die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen
 - [PBZugV](laws/PBZugV.md) Berufszugangsverordnung für den Straßenpersonenverkehr
-- [PCBAbfallV](laws/PCBAbfallV.md) Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle und halogenierter Monomethyldiphenylmethane (Artikel 1 der Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle sowie halogenierter Monomethyldiphenylmethane und zur Änderung chemikalienrechtlicher Vorschriften)
+- [PCBAbfallV](laws/PCBAbfallV.md) Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle und halogenierter Monomethyldiphenylmethane
 - [PCT](laws/PCT.md) Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
 - [PCTAO](laws/PCTAO.md) Ausführungsordnung zum Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
 - [PEhrlInstZustV](laws/PEhrlInstZustV.md) Verordnung zur Änderung der Zuständigkeit des Paul-Ehrlich-Instituts
@@ -5445,7 +5445,7 @@
 - [StichprobenV](laws/StichprobenV.md) Verordnung über Verfahren und Umfang der Haushaltebefragung auf Stichprobenbasis zum Zensusgesetz 2011
 - [StIdV](laws/StIdV.md) Verordnung zur Vergabe steuerlicher Identifikationsnummern
 - [StiftBTG](laws/StiftBTG.md) Gesetz über die Bildung und Tätigkeit von Stiftungen
-- [StiftEinsatzMedBWErl 2022](laws/StiftEinsatzMedBWErl_2022.md) Erlass über die Stiftung der Einsatzmedaille der Bundeswehr vom 27. Januar 2022
+- [StiftEinsatzMedBWErl 2025](laws/StiftEinsatzMedBWErl_2025.md) Erlass über die Stiftung der Einsatzmedaille der Bundeswehr
 - [StiftFinG](laws/StiftFinG.md) Gesetz zur Finanzierung politischer Stiftungen aus dem Bundeshaushalt
 - [StiftKStBegV](laws/StiftKStBegV.md) Verordnung über die Steuerbegünstigung von Stiftungen, die an die Stelle von Familienfideikommissen getreten sind
 - [StiftRG](laws/StiftRG.md) Stiftungsregistergesetz
@@ -5836,7 +5836,7 @@
 - [UhrmMstrV](laws/UhrmMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Uhrmacher-Handwerk
 - [UhÜbk Haag](laws/UhÜbk_Haag.md) Übereinkommen über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht
 - [UhÜbkG](laws/UhÜbkG.md) Gesetz zu dem Übereinkommen vom 24. Oktober 1956 über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht
-- [UhVorschG](laws/UhVorschG.md) Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfalleistungen
+- [UhVorschG](laws/UhVorschG.md) Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen
 - [UIG](laws/UIG.md) Umweltinformationsgesetz
 - [UIGGebV](laws/UIGGebV.md) Verordnung über Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen der informationspflichtigen Stellen beim Vollzug des Umweltinformationsgesetzes
 - [UKlaG](laws/UKlaG.md) Gesetz über Unterlassungsklagen bei Verbraucherrechts- und anderen Verstößen
@@ -5956,6 +5956,8 @@
 - [VAGEWGDG 3](laws/VAGEWGDG_3.md) Drittes Gesetz zur Durchführung versicherungsrechtlicher Richtlinien des Rates der Europäischen Gemeinschaften
 - [VBD](laws/VBD.md) Verordnung zur Zugänglichmachung von Dokumenten für blinde und sehbehinderte Menschen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz
 - [VbF](laws/VbF.md) Verordnung über Anlagen zur Lagerung, Abfüllung und Beförderung brennbarer Flüssigkeiten zu Lande
+- [VBGÜbertrAnO](laws/VBGÜbertrAnO.md) Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Verwaltungs-Berufsgenossenschaft (VBG)
+- [VBGÜbertrAnOBek](laws/VBGÜbertrAnOBek.md) Bekanntmachung der Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Verwaltungs-Berufsgenossenschaft (VBG)
 - [VbrInsFV](laws/VbrInsFV.md) Verordnung zur Einführung von Formularen für das Verbraucherinsolvenzverfahren und das Restschuldbefreiungsverfahren
 - [VBVG](laws/VBVG.md) Gesetz über die Vergütung von Vormündern und Betreuern
 - [VDG](laws/VDG.md) Vertrauensdienstegesetz
@@ -6093,6 +6095,7 @@
 - [VKFVÄndBek 2023](laws/VKFVÄndBek_2023.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKFVÄndBek 2024](laws/VKFVÄndBek_2024.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKFVÄndBek 2025](laws/VKFVÄndBek_2025.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
+- [VKFVÄndBek 2026](laws/VKFVÄndBek_2026.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKRegV](laws/VKRegV.md) Verordnung über das Register für Verbandsklagen
 - [VKVV](laws/VKVV.md) Verordnung über die Versicherungsnummer, die Kontoführung und den Versicherungsverlauf in der gesetzlichen Rentenversicherung
 - [VMordKonv](laws/VMordKonv.md) Konvention über die Verhütung und Bestrafung des Völkermordes
@@ -6640,7 +6643,7 @@
 - [ZPVtr AUT](laws/ZPVtr_AUT.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen
 - [ZPVtrAUTAG](laws/ZPVtrAUTAG.md) Gesetz zur Ausführung des Vertrages zwischen der Bundesrepublik Deutschland und der Republik Österreich vom 6. Juni 1959 über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen
 - [ZRBG](laws/ZRBG.md) Gesetz zur Zahlbarmachung von Renten aus Beschäftigungen in einem Ghetto
-- [ZRÜV](laws/ZRÜV.md) Verordnung über den Übergang auf das neue Zusatzstoffrecht (Artikel 25 der Verordnung zur Neuordnung lebensmittelrechtlicher Vorschriften über Zusatzstoffe)
+- [ZRÜV](laws/ZRÜV.md) Verordnung über den Übergang auf das neue Zusatzstoffrecht
 - [ZSDigRentÜGremV](laws/ZSDigRentÜGremV.md) Verordnung über das Steuerungsgremium bei der Zentralen Stelle für die Digitale Rentenübersicht
 - [ZSHG](laws/ZSHG.md) Gesetz zur Harmonisierung des Schutzes gefährdeter Zeugen
 - [ZSKG](laws/ZSKG.md) Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes
@@ -6776,7 +6779,7 @@
 - [24. UhAnpV](laws/24._UhAnpV.md) Vierundzwanzigste Verordnung zur Anpassung der Unterhaltshilfe nach dem Lastenausgleichsgesetz
 - [25. BImSchV](laws/25._BImSchV.md) Fünfundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [26. BImSchV](laws/26._BImSchV.md) Sechsundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
-- [27. BImSchV](laws/27._BImSchV.md) Siebenundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Artikel 1 der Verordnung über Anlagen zur Feuerbestattung und zur Änderung der Verordnung über genehmigungsbedürftige Anlagen)
+- [27. BImSchV](laws/27._BImSchV.md) Siebenundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [28. BImSchV](laws/28._BImSchV.md) Achtundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes 1
 - [29. BImSchV](laws/29._BImSchV.md) Neunundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [3. ÄndV - 6. DV-BEG](laws/3._ÄndV_-_6._DV-BEG.md) Dritte Verordnung zur Änderung der Sechsten Verordnung zur Durchführung des Bundesentschädigungsgesetzes

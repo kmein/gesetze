@@ -307,9 +307,7 @@ Internationale Liniendienste
 Einem internationalen Liniendienst kann auf schriftlichen Antrag bei der Generaldirektion Wasserstraßen und Schifffahrt eine Ausnahme genehmigt werden, soweit die übrigen Mitgliedstaaten der Europäischen Union zugestimmt haben. Nach Erteilung der Genehmigung gilt Nummer 2.5.1 entsprechend.
 
 2.6  
-Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten nach der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 (ABl. L 283 vom 29.10.2010, S. 1)
-
-Meldungen, die nach der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten und zur Aufhebung der Richtlinie 2002/6/EG abzugeben sind und den verschiedenen zuständigen Behörden und den Mitgliedstaaten zur Verfügung zu stellen sind, können über die Zentrale Meldestelle abgegeben werden. Für Sicherheitsmeldungen nach § 10 Absatz 3 der See-Eigensicherungsverordnung ist die elektronische Übermittlung im Sinne des Abschnitt A Nummer 5 des Anhangs der Richtlinie 2010/65/EU über das Zentrale Meldeportal des Bundes im Internet unter www.national-single-window.de vorzunehmen.
+Meldungen, die nach der Verordnung (EU) 2019/1239 abzugeben sind, können gemäß Artikel 7 Absatz 2 und 3 der Verordnung (EU) 2019/1239 über das von der Zentralen Meldestelle nach Nummer 2.3.1 betriebene Zentrale Meldeportal des Bundes abgegeben werden. Sicherheitsmeldungen im Sinne des Abschnitts A Nummer 5 des Anhangs der Verordnung (EU) 2019/1239, die nach § 10 Absatz 3 Satz 1 der See-Eigensicherungsverordnung zu übermitteln sind, können gemäß Artikel 7 Absatz 2 und 3 der Verordnung (EU) 2019/1239 über das Zentrale Meldeportal des Bundes im Internet unter www.national-single-window.de abgegeben werden.
 
 3  
 Meldungen bei Anlaufen bestimmter Seegebiete
@@ -418,6 +416,8 @@ Die in den jeweiligen Lotsverordnungen vorgesehenen Interpolationsmöglichkeiten
 
 9  
 (weggefallen)
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 10.9.2025 I Nr. 208 +++)
 
 # Anhang – (zu § 1 Abs. 1 Nr. 1.17)
 

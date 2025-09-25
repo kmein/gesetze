@@ -1,4 +1,4 @@
-% Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfalleistungen  (Unterhaltsvorschussgesetz)
+% Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen  (Unterhaltsvorschussgesetz)
 % Ausfertigungsdatum: 23.07.1979
  
 # § 1 – Berechtigte

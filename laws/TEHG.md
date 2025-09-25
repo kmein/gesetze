@@ -965,9 +965,7 @@ Sofern die Europäische Kommission bis zum Ablauf des 15. Juli 2026 in einer Bek
 
 Teil A
 
-Emissionshandel für Anlagen, Luft-
-
-und Seeverkehr
+Emissionshandel für Anlagen, Luft- und Seeverkehr
 
 Abschnitt 1
 
@@ -1175,7 +1173,9 @@ c) Quellkategorie-Code 1A3c: Schienenverkehr;
 
 d) Quellkategorie Code 1A3d: Schifffahrt, soweit die Brennstoffe in der privaten nichtgewerblichen Schifffahrt eingesetzt werden;
 
-e) Quellkategorie-Code 1A4c: Land- und Fortwirtschaft, Fischzucht;
+e) Quellkategorie-Code 1A4c:
+
+Land- und Forstwirtschaft, Fischzucht;
 
 f) Quellkategorie Code 1A5: sonstige (insbesondere Militär), ohne Verwendung durch
 
@@ -1207,3 +1207,5 @@ Die Wirksamkeit der Einbeziehung einer Tätigkeit nach Satz 1 steht unter der au
 a) die bei den in Teil A Abschnitt 2 aufgeführten Tätigkeiten eingesetzt werden und deren Emissionen aus der Verbrennung der Berichtspflicht nach § 5 Absatz 1 unterliegen oder
 
 b) die mit dem Emissionsfaktor Null belegt sind.
+
+Teil B Abschn. 2 Nr. 2 Buchst. e Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe "Land- und Fortwirtschaft" durch die Angabe "Land- und Forstwirtschaft" ersetzt.

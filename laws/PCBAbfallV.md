@@ -1,4 +1,4 @@
-% Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle und halogenierter Monomethyldiphenylmethane (Artikel 1 der Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle sowie halogenierter Monomethyldiphenylmethane und zur Änderung chemikalienrechtlicher Vorschriften)  (PCB/PCT-Abfallverordnung - PCBAbfallV)
+% Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle und halogenierter Monomethyldiphenylmethane  (PCB/PCT-Abfallverordnung - PCBAbfallV)
 % Ausfertigungsdatum: 26.06.2000
  
 # § 1 – Anwendungsbereich

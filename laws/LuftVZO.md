@@ -375,8 +375,6 @@ c) Querschnitte durch die Start- und Landeflächen und die Sicherheitsflächen i
 
 # § 43a – (weggefallen)
 
-—
-
 # § 44 – Betriebsaufnahme
 
 (1) Der Flughafen darf erst in Betrieb genommen werden, wenn

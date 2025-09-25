@@ -1,4 +1,4 @@
-% Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach dem Ölschadengesetz (Artikel 1 der Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz und zur Änderung der Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschiffahrt und Hydrographie)  (Öl-Pflichtversicherungsbescheinigungs-Verordnung - ÖlPflichtVersBeschV)
+% Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach dem Ölschadengesetz  (Öl-Pflichtversicherungsbescheinigungs-Verordnung - ÖlPflichtVersBeschV)
 % Ausfertigungsdatum: 30.05.1996
  
 # § 1 – Begriffsbestimmungen

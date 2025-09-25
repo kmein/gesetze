@@ -67,9 +67,7 @@ Durch Rechtsverordnungen können zu den in § 1 genannten Zwecken Buchführungs-
 
 1. auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA),
 
-2. auf die Landesregierungen, auch mit der Ermächtigung zur
-
-auf die Landesregierungen, auch mit der Ermächtigung zur Weiterübertragung der Befugnis,
+2. auf die Landesregierungen, auch mit der Ermächtigung zur Weiterübertragung der Befugnis,
 
 übertragen; das Bundesministerium der Finanzen kann die Befugnis nach Satz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die Landesregierungen, auch mit der Ermächtigung zur Weiterübertragung der Befugnis, übertragen.
 

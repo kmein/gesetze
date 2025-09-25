@@ -153,8 +153,6 @@ Die §§ 1 und 2 finden keine Anwendung auf die Folgen einer strafgerichtlichen 
 
 # § 20 – (weggefallen)
 
-\-
-
 # § 21 – (weggefallen)
 
 \-

@@ -1,4 +1,4 @@
-% Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister (Artikel 1 der Verordnung über die Ausbildung und Prüfung von Masseuren und medizinischen Bademeistern und zur Änderung verschiedener Ausbildungs- und Prüfungsverordnungen betreffend andere Heilberufe)  (MB-APrV)
+% Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister  (MB-APrV)
 % Ausfertigungsdatum: 06.12.1994
  
 # § 1 – Ausbildung

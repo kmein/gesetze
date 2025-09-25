@@ -1,4 +1,4 @@
-% Verordnung über den Übergang auf das neue Zusatzstoffrecht (Artikel 25 der Verordnung zur Neuordnung lebensmittelrechtlicher Vorschriften über Zusatzstoffe)
+% Verordnung über den Übergang auf das neue Zusatzstoffrecht
 % Ausfertigungsdatum: 29.01.1998
  
 # ----

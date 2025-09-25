@@ -5918,7 +5918,7 @@ b) einem Aufbau des Anhängers kastenförmig oder damit vergleichbar, mindestens
 
 c) einer Sicht nach hinten nur über Außenspiegel
 
-zu verwenden. Schulungsfahrzeuge müssen mit akustisch oder optisch kontrollierbaren Einrichtungen zur Betätigung der Pedale (Doppelbedienungseinrichtungen) ausgerüstet sein. Die Fahrzeugkombination darf nicht der Klasse B zuzuordnen sein. Die Fahrzeugkombination darf nicht der Klasse B zuzuordnen sein. Sie dürfen ein Schild mit der Aufschrift „FAHRSCHULE“ entsprechend § 5 Absatz 4 der Durchführungsverordnung zum Fahrlehrergesetz führen.
+zu verwenden. Schulungsfahrzeuge müssen mit akustisch oder optisch kontrollierbaren Einrichtungen zur Betätigung der Pedale (Doppelbedienungseinrichtungen) ausgerüstet sein. Die Fahrzeugkombination darf nicht der Klasse B zuzuordnen sein. Sie dürfen ein Schild mit der Aufschrift „FAHRSCHULE“ entsprechend § 5 Absatz 4 der Durchführungsverordnung zum Fahrlehrergesetz führen.
 
 5. Schulungsstrecke für die fahrpraktischen Übungen
 
