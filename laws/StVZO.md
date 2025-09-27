@@ -8033,11 +8033,11 @@ Dem Fahrzeugführer muss sinnfällig angezeigt werden, wenn Nottüren, die auße
 
 Eine Verriegelung der Notfenster, Notluken und Nottüren (zum Beispiel für das Parken) ist zulässig; es muss dann jedoch sichergestellt sein, dass sie stets von innen durch den normalen Öffnungsmechanismus zu öffnen sind.
 
-# Anlage XI – (zu § 47a)(weggefallen)
+# Anlage XI – (weggefallen)
 
-# Anlage XIa – (zu § 47a)(weggefallen)
+# Anlage XIa – (weggefallen)
 
-# Anlage XIb – (zu § 47a Absatz 2 und § 47b Absatz 2)(weggefallen)
+# Anlage XIb – (weggefallen)
 
 # Anlage XII – (§ 34 Absatz 4 Nummer 2 Buchstabe d, Absatz 5 Nummer 2 Buchstabe b und Nummer 3 Buchstabe b, Absatz 6 Nummer 3 Buchstabe b)Bedingungen für die Gleichwertigkeit von Luftfederungen und bestimmten anderen Federungssystemen an der (den) Antriebsachse(n) des Fahrzeugs
 

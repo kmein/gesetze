@@ -664,6 +664,8 @@ Das Amt des Notars erlischt durch
 
 7. rechtskräftiges disziplinargerichtliches Urteil, in dem auf Entfernung aus dem Amt (§ 97 Absatz 1 Satz 1 Nummer 3, Absatz 3) erkannt worden ist.
 
+§ 47 Nr. 2 Variante 1 idF d. G v. 12.5.2017 I 1121: Nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 23.9.2025 - 1 BvR 1796/23 -. Gem. Nr. 2 dieser BVerfGE sind die mit dem Grundgesetz für unvereinbar erklärten Vorschriften bis zum 30.6.2026 auch auf Anwaltsnotarinnen und Anwaltsnotare weiter anwendbar.
+
 # § 48 – Entlassung
 
 Der Notar kann jederzeit seine Entlassung aus dem Amt verlangen. Das Verlangen muß der Landesjustizverwaltung schriftlich erklärt werden. Es kann, solange die Entlassungsverfügung noch nicht zugegangen ist, innerhalb von zwei Wochen nach Zugang bei der Landesjustizverwaltung zurückgenommen werden, mit Zustimmung der zuständigen Behörde auch nach Ablauf dieser Frist. Die Entlassung ist von der Landesjustizverwaltung für den beantragten Zeitpunkt auszusprechen.
@@ -671,6 +673,8 @@ Der Notar kann jederzeit seine Entlassung aus dem Amt verlangen. Das Verlangen m
 # § 48a – Altersgrenze
 
 Die Notare erreichen mit dem Ende des Monats, in dem sie das siebzigste Lebensjahr vollenden, die Altersgrenze.
+
+§ 48a: Eingef. durch Art. 1 Nr. 12 G v. 29.1.1991 I 150 mWv 3.2.1991; nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 23.9.2025 - 1 BvR 1796/23 -. Gem. Nr. 2 dieser BVerfGE sind die mit dem Grundgesetz für unvereinbar erklärten Vorschriften bis zum 30.6.2026 auch auf Anwaltsnotarinnen und Anwaltsnotare weiter anwendbar.
 
 # § 48b – Amtsniederlegung zum Zweck der Betreuung oder Pflege
 
