@@ -2708,9 +2708,9 @@ Iprazochrom
 Iproclozid  
 
 Ipronidazol  
+- zur Anwendung bei Tieren -  
 
 Iptacopan und seine Ester  
-- zur Anwendung bei Tieren -  
 
 Irbesartan  
 

@@ -57,6 +57,8 @@
 
 (2) Die Registerverwaltung führt das Regionalnachweisregister als elektronische Datenbank, in der die Ausstellung, die Übertragung und die Entwertung von Regionalnachweisen registriert werden.
 
+(3) Verwaltungsakte im Rahmen dieser Verordnung können vollständig durch automatische Einrichtungen erlassen werden, sofern kein Anlass besteht, den Einzelfall durch Amtsträger zu bearbeiten.
+
 # § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
@@ -77,9 +79,8 @@ eine Anlage, die auf der deutschen Staatsgrenze steht und bei der sich auf beide
 
 eine dem Kontoinhaber durch die Registerverwaltung zugeordnete Einrichtung innerhalb des Herkunftsnachweisregisters oder des Regionalnachweisregisters, in der die Ausstellung, die Übertragung, die Anerkennung und die Entwertung von Herkunftsnachweisen oder die Ausstellung, die Übertragung und die Entwertung von Regionalnachweisen erfolgt;
 
-5. Kontoinhaber
-
-ein Händler, Anlagenbetreiber oder Elektrizitätsversorgungsunternehmen, für den oder für das die Registerverwaltung ein Konto im Herkunftsnachweisregister oder im Regionalnachweisregister eröffnet hat;
+5. Kontoinhaber  
+ein Händler, Anlagenbetreiber oder Stromlieferant, für den die Registerverwaltung ein Konto im Herkunftsnachweisregister oder im Regionalnachweisregister eröffnet hat;
 
 6. Nutzer
 
@@ -166,13 +167,13 @@ das Verwendungsgebiet sowie alle Postleitzahlengebiete, die sich ganz oder teilw
 
 (1) Für die Ausstellung, die Anerkennung, die Übertragung und die Entwertung von Herkunftsnachweisen ist ein Konto im Herkunftsnachweisregister erforderlich. Es ist zulässig, als Kontoinhaber über mehrere Konten zu verfügen.
 
-(2) Für die Eröffnung eines Kontos nach Absatz 1 Satz 1 ist ein Antrag bei der Registerverwaltung zu stellen. Zur Antragstellung berechtigt sind Anlagenbetreiber, Händler und Elektrizitätsversorgungsunternehmen. Als Anlagenbetreiber einer Gesamtanlage im Sinne von § 25, bei der einzelne Anlagen von verschiedenen Anlagenbetreibern betrieben werden, gilt die natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die die an der Gesamtanlage beteiligten Anlagenbetreiber nach außen hin vertreten darf.
+(2) Für die Eröffnung eines Kontos nach Absatz 1 Satz 1 ist ein Antrag bei der Registerverwaltung zu stellen. Zur Antragstellung berechtigt sind Anlagenbetreiber, Händler und Stromlieferanten. Als Anlagenbetreiber einer Gesamtanlage im Sinne von § 25, bei der einzelne Anlagen von verschiedenen Anlagenbetreibern betrieben werden, gilt die natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die die an der Gesamtanlage beteiligten Anlagenbetreiber nach außen hin vertreten darf.
 
 (3) Ist der Antragsteller eine natürliche Person, ist bei der Antragstellung die Vertretung durch einen Bevollmächtigten ausgeschlossen. Ist der Antragsteller eine juristische Person des privaten oder öffentlichen Rechts oder eine rechtsfähige Personengesellschaft, ist bei der Antragstellung die Vertretung durch einen Bevollmächtigten, der nicht bei dem Antragsteller beschäftigt ist, ausgeschlossen. Abweichend von Satz 1 und Satz 2 ist eine Vertretung durch einen Dienstleister zulässig, wenn der Antragsteller als Anlagenbetreiber fungieren will.
 
 (4) Bei der Antragstellung sind der Registerverwaltung folgende Daten und Angaben über den Antragsteller zu übermitteln:
 
-1. wenn der Antragsteller eine natürliche Person ist, der Vor- und der Nachname, die Straße, die Hausnummer, die Postleitzahl, der Ort und der Staat (Adresse) unter Angabe von Landkreis und Bundesland sowie die Telefonnummer und die E-Mail-Adresse,
+1. wenn der Antragsteller eine natürliche Person ist, der Vor- und der Nachname, die Straße, die Hausnummer, die Postleitzahl, der Ort und der Staat (Adresse) sowie die Telefonnummer und die E-Mail-Adresse,
 
 2. wenn der Antragsteller eine juristische Person oder rechtsfähige Personengesellschaft ist, der Name oder die Firma, der Sitz, die Telefonnummer, die
 
@@ -180,9 +181,9 @@ E-Mail-Adresse, die Angabe der gesetzlichen Vertreter und, sofern der Antragstel
 
 3. die Umsatzsteuer-Identifikationsnummer und die eindeutige Nummer nach § 8 Absatz 2 der Marktstammdatenregisterverordnung vom 10. April 2017 (BGBl. I S. 842), die durch Artikel 5 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2532) geändert worden ist, sofern jeweils vorhanden,
 
-4. die beabsichtigte Funktion oder die beabsichtigten Funktionen als Anlagenbetreiber, Händler oder Elektrizitätsversorgungsunternehmen und
+4. die beabsichtigte Funktion oder die beabsichtigten Funktionen als Anlagenbetreiber, Händler oder Stromlieferant und
 
-5. die von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) vergebene Betriebsnummer und die vom Bundesverband der Energie- und Wasserwirtschaft e. V. vergebene Marktpartneridentifikationsnummer, falls die Registrierung als Elektrizitätsversorgungsunternehmen erfolgen soll.
+5. die von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) vergebene Betriebsnummer und die vom Bundesverband der Energie- und Wasserwirtschaft e. V. vergebene Marktpartneridentifikationsnummer, falls die Registrierung als Stromlieferant erfolgen soll.
 
 Wird der Antragsteller nach Absatz 3 vertreten, so sind der Registerverwaltung zusätzlich der Vor- und der Nachname, die Adresse sowie die Telefonnummer und die E-Mail-Adresse des Vertreters zu übermitteln. Mit der Antragstellung erhält der Antragsteller, im Fall einer nach Absatz 3 zulässigen Vertretung der Vertreter, von der Registerverwaltung einen Benutzernamen und ein Passwort (Zugangsdaten) für das Konto.
 
@@ -334,7 +335,7 @@ Eine Gefährdung im Sinne des Satzes 1 Nummer 10 ist in der Regel gegeben, wenn 
 
 Die Registerverwaltung kann für die Nachweisführung nach Satz 2 in den Nutzungsbedingungen nach § 52 Satz 1 vereinfachte Vorgaben treffen. Im Fall der nicht fristgerechten Erfüllung der Pflichten nach § 42a Absatz 1 gelten diese Strommengen nicht als in hocheffizienter Kraft-Wärme-Kopplung produzierte Strommengen.
 
-(2) Der Antrag auf Ausstellung eines Herkunftsnachweises kann vor der Erzeugung der Strommengen gestellt werden.
+(2) (weggefallen)
 
 (3) Der Anlagenbetreiber hat bei seinem Antrag auf Ausstellung der Herkunftsnachweise anzugeben, ob und auf welche Weise die Strommenge, für die Herkunftsnachweise beantragt werden, staatlich gefördert wurde.
 
@@ -388,7 +389,7 @@ b) der Summe der Strommengen aller in den Speicher einspeisenden Anlagen.
 
 1. dem Anlagenbetreiber zu einem früheren Zeitpunkt Herkunftsnachweise ausgestellt wurden,
 
-2. der damaligen Ausstellung eine entsprechende Erzeugung einer Strommenge aus erneuerbaren Energien nicht zugrunde lag und
+2. der damaligen Ausstellung eine entsprechende Erzeugung einer Strommenge aus erneuerbaren Energien nicht zugrunde lag oder ein Verstoß gegen § 12 Absatz 1 Nummer 6 vorlag und
 
 3. die so ausgestellten Herkunftsnachweise bereits auf ein anderes, nicht dem Anlagenbetreiber gehörendes Konto übertragen wurden.
 
@@ -460,7 +461,7 @@ Liegt die in diesem Zeitraum erzeugte Strommenge aus erneuerbaren Energien unter
 
 7. durch die Ausstellung des Regionalnachweises die Sicherheit, die Richtigkeit oder die Zuverlässigkeit des Regionalnachweisregisters nicht gefährdet wird.
 
-(2) § 12 Absatz 1 Satz 2 und Absatz 2 und 5, § 14 und § 15 sind entsprechend anzuwenden.
+(2) § 12 Absatz 1 Satz 2, Absatz 5 und die §§ 14 und 15 sind entsprechend anzuwenden.
 
 (3) Dem Anlagenbetreiber und seinem Dienstleister ist es untersagt, einen Regionalnachweis für eine Strommenge zu beantragen,
 
@@ -686,35 +687,43 @@ Der Verfall von übertragenen Regionalnachweisen auf dem Konto des empfangenden 
 
 # § 30 – Verwendung und Entwertung von Herkunftsnachweisen
 
-(1) Herkunftsnachweise dürfen nur zur Stromkennzeichnung durch ein Elektrizitätsversorgungsunternehmen verwendet werden. Die Verwendung eines Herkunftsnachweises zur Stromkennzeichnung nach § 42 Absatz 1 Nummer 1, Absatz 3 und 5 Satz 1 Nummer 1 des Energiewirtschaftsgesetzes erfolgt, indem das Elektrizitätsversorgungsunternehmen als Inhaber des Herkunftsnachweises gegenüber der Registerverwaltung erklärt, dass es den Herkunftsnachweis für eine Strommenge, die das Elektrizitätsversorgungsunternehmen im Geltungsbereich des Erneuerbare-Energien-Gesetzes an Letztverbraucher geliefert hat, der eigenen Stromkennzeichnung zugrunde legen wird. Die gelieferte Strommenge nach Satz 2 ist für die Zwecke der Verwendung und Entwertung von Herkunftsnachweisen auf ganze Megawattstunden aufzurunden.
+(1) Herkunftsnachweise dürfen nur zur Stromkennzeichnung durch einen Stromlieferanten verwendet werden. Die Verwendung eines Herkunftsnachweises zur Stromkennzeichnung nach § 42 Absatz 1 Nummer 1, Absatz 3 und 5 Satz 1 Nummer 1 des Energiewirtschaftsgesetzes erfolgt, indem der Stromlieferant als Inhaber des Herkunftsnachweises gegenüber der Registerverwaltung erklärt, dass er den Herkunftsnachweis für eine Strommenge, die der Stromlieferant im Geltungsbereich des Erneuerbare-Energien-Gesetzes an Letztverbraucher geliefert hat, der eigenen Stromkennzeichnung zugrunde legen wird. Die gelieferte Strommenge nach Satz 2 ist für die Zwecke der Verwendung und Entwertung von Herkunftsnachweisen auf ganze Megawattstunden aufzurunden.
 
-(2) Das Elektrizitätsversorgungsunternehmen darf den Herkunftsnachweis nur dann verwenden, wenn es die Entwertung des auf seinem Konto befindlichen Herkunftsnachweises bei der Registerverwaltung beantragt und die Registerverwaltung dem Antrag stattgibt. Der Antrag auf Entwertung wird abgelehnt, wenn dem Elektrizitätsversorgungsunternehmen schon beim Erwerb des Herkunftsnachweises bekannt war, dass die für die Ausstellung erforderliche Strommenge aus erneuerbaren Energien nicht erzeugt worden ist. Die Verwendung des Herkunftsnachweises ist in diesem Fall untersagt. Wird dem Elektrizitätsversorgungsunternehmen erst nach dem Erwerb des Herkunftsnachweises bekannt, dass die für die Ausstellung erforderliche Strommenge aus erneuerbaren Energien nicht erzeugt worden ist, darf die Registerverwaltung den Antrag auf Entwertung nicht mit der Begründung ablehnen, dass die für die Ausstellung erforderliche Strommenge aus erneuerbaren Energien nicht erzeugt worden ist; § 15 bleibt unberührt.
+(2) Der Stromlieferant darf den Herkunftsnachweis nur dann verwenden, wenn er die Entwertung des auf seinem Konto befindlichen Herkunftsnachweises bei der Registerverwaltung beantragt und die Registerverwaltung dem Antrag stattgibt. Der Antrag auf Entwertung wird abgelehnt, wenn dem Stromlieferanten schon beim Erwerb des Herkunftsnachweises bekannt war, dass die für die Ausstellung erforderliche Strommenge aus erneuerbaren Energien nicht erzeugt worden ist. Die Verwendung des Herkunftsnachweises ist in diesem Fall untersagt. Wird dem Stromlieferanten erst nach dem Erwerb des Herkunftsnachweises bekannt, dass die für die Ausstellung erforderliche Strommenge aus erneuerbaren Energien nicht erzeugt worden ist, darf die Registerverwaltung den Antrag auf Entwertung nicht mit der Begründung ablehnen, dass die für die Ausstellung erforderliche Strommenge aus erneuerbaren Energien nicht erzeugt worden ist, dabei bleibt § 15 unberührt.
 
-(3) Das Elektrizitätsversorgungsunternehmen darf einen Antrag auf Entwertung nur für die eigene Stromlieferung und Stromkennzeichnung stellen. Das Elektrizitätsversorgungsunternehmen darf in dem Antrag auf Entwertung ein bestimmtes Stromprodukt oder den Namen des Stromkunden angeben, für das oder für den der Herkunftsnachweis verwendet wird. Für den Nachweis nach § 26 des Energiefinanzierungsgesetzes muss das Elektrizitätsversorgungsunternehmen bei der Entwertung gegenüber der Registerverwaltung unter genauer Bezeichnung der Einrichtung zur Herstellung von Grünem Wasserstoff erklären, dass der Strom für die Herstellung von Grünem Wasserstoff verbraucht worden ist. In den Nutzungsbedingungen nach § 52 Satz 1 kann die Registerverwaltung ein Verfahren zur Übermittlung der Angaben nach Satz 3 bestimmen. Handelt es sich bei dem Stromkunden um eine natürliche Person, so ist die Angabe des Namens nur mit Einwilligung des Stromkunden zulässig.
+(3) Der Stromlieferant darf einen Antrag auf Entwertung nur für die eigene Stromlieferung und Stromkennzeichnung stellen. Der Stromlieferant darf in dem Antrag auf Entwertung ein bestimmtes Stromprodukt oder den Namen des Stromkunden angeben, für das oder für den der Herkunftsnachweis verwendet wird. Um nachzuweisen, dass die Anforderungen nach § 26 des Energiefinanzierungsgesetzes erfüllt worden sind, muss der Stromlieferant bei der Entwertung gegenüber der Registerverwaltung unter genauer Bezeichnung der Einrichtung zur Herstellung von Grünem Wasserstoff erklären, dass der Strom für die Herstellung von Grünem Wasserstoff verbraucht worden ist. In den Nutzungsbedingungen nach § 52 Satz 1 kann die Registerverwaltung ein Verfahren zur Übermittlung der Angaben nach Satz 3 bestimmen. Handelt es sich bei dem Stromkunden um eine natürliche Person, so ist die Angabe des Namens nur mit Einwilligung des Stromkunden zulässig.
 
-(4) Ein Herkunftsnachweis darf nur zur Kennzeichnung von Strommengen verwendet werden, die das entwertende Elektrizitätsversorgungsunternehmen in demselben Kalenderjahr an Letztverbraucher geliefert hat, in dem der Erzeugungszeitraum der Strommenge liegt, für die der Herkunftsnachweis ausgestellt worden ist.
+(4) Ein Herkunftsnachweis darf nur zur Kennzeichnung von Strommengen verwendet werden, die der Stromlieferant, auf dessen Antrag die Entwertung erfolgt ist, in demjenigen Kalenderjahr an Letztverbraucher geliefert hat, in dem der Erzeugungszeitraum der Strommenge liegt, für die der Herkunftsnachweis ausgestellt worden ist.
+
+(5) Zur Überprüfung der Einhaltung der Vorgaben nach den Absätzen 1 bis 4 ist jeder Stromlieferant verpflichtet, der Registerverwaltung bis zum 1. Juli eines jeden Kalenderjahres für das jeweils vorangegangene Kalenderjahr, erstmals bis zum 1. Juli 2026, Folgendes zu übermitteln:
+
+1. den Anteil der erneuerbaren Energien mit Herkunftsnachweis, nicht gefördert nach dem Erneuerbare-Energien-Gesetz, am verwendeten Gesamtenergieträgermix,
+
+2. die Gesamtstrommenge in Kilowattstunden, die der Stromlieferant an Letztverbraucher geliefert hat, und
+
+3. die Strommenge aus erneuerbaren Energien mit Herkunftsnachweis, nicht gefördert nach dem Erneuerbare-Energien-Gesetz, in Kilowattstunden, die der Stromlieferant an Letztverbraucher geliefert hat.
 
 (+++ § 30: Zur Anwendung vgl. § 31 Abs. 1 Eingangssatz +++)
 
 # § 30a – Gekoppelte Lieferung von Herkunftsnachweisen
 
-(1) Auf Antrag kann der Herkunftsnachweis zusätzlich mit der Angabe entwertet werden, dass der Anlagenbetreiber die Strommenge, die dem Herkunftsnachweis zugrunde liegt, an das antragstellende Elektrizitätsversorgungsunternehmen veräußert und geliefert hat (gekoppelte Lieferung).
+(1) Auf Antrag kann der Herkunftsnachweis zusätzlich mit der Angabe entwertet werden, dass der Anlagenbetreiber die Strommenge, die dem Herkunftsnachweis zugrunde liegt, an den antragsstellenden Stromlieferanten veräußert und geliefert hat (gekoppelte Lieferung).
 
-(2) Die gekoppelte Lieferung des dem Herkunftsnachweis zugrunde liegenden Stroms kann über einen oder zwei Bilanzkreise erfolgen. Wird der Strom über zwei Bilanzkreise an das Elektrizitätsversorgungsunternehmen geliefert, so darf in dem Bilanzkreis, in dem die von der Anlage erzeugte Strommenge angemeldet ist, nur Strom aus erneuerbaren Energien bilanziert werden. Bei der Antragstellung sind anzugeben:
+(2) Die gekoppelte Lieferung des dem Herkunftsnachweis zugrunde liegenden Stroms kann über einen oder zwei Bilanzkreise erfolgen. Wird der Strom über zwei Bilanzkreise an den Stromlieferanten geliefert, so darf in dem Bilanzkreis, in dem die von der Anlage erzeugte Strommenge angemeldet ist, nur Strom aus erneuerbaren Energien bilanziert werden. Bei der Antragstellung sind anzugeben:
 
 1. der Bilanzkreis, in den die erzeugte Strommenge geliefert wird, und
 
-2. zusätzlich bei einer Lieferung über zwei Bilanzkreise der Bilanzkreis, aus dem das Elektrizitätsversorgungsunternehmen seine Letztverbraucher beliefert.
+2. bei einer Lieferung über zwei Bilanzkreise zusätzlich der Bilanzkreis, aus dem der Stromlieferant seine Letztverbraucher beliefert.
 
-Der Anlagenbetreiber ist verpflichtet, die Strommenge, die den Herkunftsnachweisen zugrunde liegt, in den Bilanzkreis nach Satz 3 Nummer 1 zu liefern. Das Elektrizitätsversorgungsunternehmen ist verpflichtet, den Strom nach Satz 4 an seine Letztverbraucher zu liefern. Im Fall einer Lieferung über zwei Bilanzkreise ist das Elektrizitätsversorgungsunternehmen dazu verpflichtet, den Strom nach Satz 4 in den Bilanzkreis nach Satz 3 Nummer 2 aufzunehmen. Die Registerverwaltung ist berechtigt, nachträglich die Lieferung der Strommenge in den Bilanzkreis nach Satz 3 Nummer 1 und 2 zu prüfen.
+Der Anlagenbetreiber ist verpflichtet, die Strommenge, die den Herkunftsnachweisen zugrunde liegt, in den Bilanzkreis nach Satz 3 Nummer 1 zu liefern. Der Stromlieferant ist verpflichtet, den Strom nach Satz 4 an seine Letztverbraucher zu liefern. Im Fall einer Lieferung über zwei Bilanzkreise ist der Stromlieferant dazu verpflichtet, den Strom nach Satz 4 in den Bilanzkreis nach Satz 3 Nummer 2 aufzunehmen. Die Registerverwaltung ist berechtigt, nachträglich die Lieferung der Strommenge in den Bilanzkreis nach Satz 3 Nummer 1 und 2 zu prüfen.
 
-(3) Das Elektrizitätsversorgungsunternehmen hat bei dem Antrag abweichend von Absatz 2 Satz 3 Nummer 1 anzugeben, dass die erzeugte Strommenge zur Versorgung des Fahrbetriebs von Schienenbahnen in ein außerhalb der Regelverantwortung eines Übertragungsnetzbetreibers liegendes Stromnetz für den Betrieb von Schienenbahnen (Bahnstromnetz) eingespeist wurde, wenn die dem Herkunftsnachweis zugrunde liegende Strommenge
+(3) Der Stromlieferant hat bei dem Antrag abweichend von Absatz 2 Satz 3 Nummer 1 anzugeben, dass die erzeugte Strommenge zur Versorgung des Fahrbetriebs von Schienenbahnen in ein außerhalb der Regelverantwortung eines Übertragungsnetzbetreibers liegendes Stromnetz für den Betrieb von Schienenbahnen (Bahnstromnetz) eingespeist wurde, wenn die dem Herkunftsnachweis zugrunde liegende Strommenge
 
 1. in einer Anlage erzeugt wurde, die an ein Bahnstromnetz angeschlossen ist, und
 
 2. von dem Anlagenbetreiber
 
-a) an ein Elektrizitätsversorgungsunternehmen unter ausschließlicher Nutzung des Bahnstromnetzes und von diesem Elektrizitätsversorgungsunternehmen an einen Betreiber einer Schienenbahn geliefert wurde oder
+a) an einen Stromlieferanten unter ausschließlicher Nutzung des Bahnstromnetzes und von diesem Stromlieferanten an einen Betreiber einer Schienenbahn geliefert wurde oder
 
 b) direkt unter ausschließlicher Nutzung des Bahnstromnetzes an einen Betreiber einer Schienenbahn geliefert wurde.
 
@@ -742,17 +751,19 @@ c) die Menge des Stroms, die je Stromprodukt nach Buchstabe b in das jeweilige V
 
 d) die Angabe, ob für den das Stromprodukt nach Buchstabe b verbrauchenden Stromkunden an der Abnahmestelle in dem Verwendungsgebiet die Pflicht zur Zahlung der EEG-Umlage nach den §§ 28 bis 42 des Energiefinanzierungsgesetzes begrenzt ist, und, sollte dies der Fall sein, die Höhe des Anteils „Erneuerbare Energien, finanziert aus der EEG-Umlage“ in Prozent.
 
-(2) Weist ein Elektrizitätsversorgungsunternehmen nach § 42 Absatz 5 Satz 2 des Energiewirtschaftsgesetzes gegenüber Letztverbrauchern in der Stromkennzeichnung aus, zu welchen Anteilen der Strom, den das Unternehmen nach § 42 Absatz 3 des Energiewirtschaftsgesetzes als erneuerbare Energien, gefördert nach dem EEG, kennzeichnen muss, in regionalem Zusammenhang zum Stromverbrauch erzeugt worden ist, muss diese Ausweisung einfach, allgemein verständlich und deutlich erkennbar abgesetzt von dem Stromkennzeichen nach § 42 Absatz 5 Satz 1 Nummer 2 des Energiewirtschaftsgesetzes in grafischer Form dargestellt sein. Die Registerverwaltung ist berechtigt, die konkrete Gestaltung, insbesondere die textliche und grafische Darstellung, durch Allgemeinverfügung zu regeln. Die Allgemeinverfügung wird im Bundesanzeiger bekannt gemacht. Die Bekanntmachung wird zusätzlich auf der Internetseite der Registerverwaltung veröffentlicht.
+(2) Stromlieferanten, die nach § 42 Absatz 5 Satz 2 des Energiewirtschaftsgesetzes Angaben zur regionalen Herkunft machen, müssen diese in der Stromkennzeichnung in grafischer Form, klar, verständlich und deutlich erkennbar abgesetzt von den übrigen Angaben zur Stromkennzeichnung ausweisen. Die Registerverwaltung ist berechtigt, die konkrete Gestaltung, insbesondere die textliche und grafische Darstellung, durch Allgemeinverfügung zu regeln. Die Allgemeinverfügung wird im Bundesanzeiger bekannt gemacht. Die Bekanntmachung wird zusätzlich auf der Internetseite der Registerverwaltung veröffentlicht.
 
 # § 32 – Löschung von Herkunftsnachweisen
 
-(1) Die Registerverwaltung löscht Herkunftsnachweise, wenn
+(1) Die Registerverwaltung löscht einen Herkunftsnachweis, wenn
 
-1. der Kontoinhaber die Löschung der Herkunftsnachweise beantragt hat,
+1. der Kontoinhaber die Löschung des Herkunftsnachweises beantragt hat,
 
-2. sie im Fall des § 15 entgegen § 15 Absatz 1 Nummer 3 noch auf einem Konto des Anlagenbetreibers vorhanden sind oder
+2. diesem eine entsprechende Erzeugung einer Strommenge aus erneuerbaren Energien nicht zugrunde lag oder
 
-3. sie einen besonders schwerwiegenden und offensichtlichen Fehler enthalten.
+3. dieser einen besonders schwerwiegenden und offensichtlichen Fehler enthält.
+
+Hätte ein Herkunftsnachweis nach Satz 1 Nummer 2 oder Nummer 3 gelöscht werden müssen und ist dieser Herkunftsnachweis nicht mehr auf dem Konto des Anlagenbetreibers vorhanden, so kann durch die Registerverwaltung von Amts wegen ein anderer Herkunftsnachweis auf diesem Konto gelöscht werden.
 
 (2) Eine Verwendung gelöschter Herkunftsnachweise ist untersagt.
 
@@ -766,7 +777,7 @@ Für die Löschung von Regionalnachweisen sind die Vorschriften des § 32 über 
 
 # § 34 – Verfall von Herkunftsnachweisen
 
-Die Registerverwaltung erklärt Herkunftsnachweise für verfallen, wenn sie nicht spätestens 18 Kalendermonate nach dem Ende des Erzeugungszeitraums entwertet worden sind. Eine Verwendung der verfallenen Herkunftsnachweise ist untersagt.
+Die Registerverwaltung erklärt Herkunftsnachweise für verfallen, wenn sie nicht spätestens 18 Kalendermonate nach dem Ende des Erzeugungszeitraums entwertet worden sind. Eine Verwendung zur Stromkennzeichnung oder zur sonstigen Nutzung der verfallenen Herkunftsnachweise ist untersagt.
 
 # § 35 – Verfall von Regionalnachweisen
 
@@ -774,7 +785,7 @@ Die Registerverwaltung erklärt Regionalnachweise für verfallen, wenn sie nicht
 
 # § 36 – Anerkennung von Herkunftsnachweisen von ausländischen registerführenden Stellen
 
-(1) Die Registerverwaltung erkennt auf Antrag der in das Inland übertragenden registerführenden Stelle einen Herkunftsnachweis für Strom aus erneuerbaren Energien aus Mitgliedstaaten der Europäischen Union, aus anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder aus Drittländern, wenn die Europäische Union mit diesem Drittland ein Abkommen über die gegenseitige Anerkennung von in der Europäischen Union ausgestellten Herkunftsnachweisen und in diesem Drittland eingerichteten kompatiblen Herkunftsnachweissystemen geschlossen hat, und Energie direkt ein- oder ausgeführt wird und wenn keine begründeten Zweifel an der Richtigkeit, der Zuverlässigkeit oder der Wahrhaftigkeit des Herkunftsnachweises bestehen. Begründete Zweifel bestehen in der Regel nicht, wenn
+(1) Die Registerverwaltung erkennt auf Antrag der in das Inland übertragenden registerführenden Stelle einen Herkunftsnachweis für Strom aus erneuerbaren Energien aus Mitgliedstaaten der Europäischen Union, aus anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder aus Drittländern an, wenn die Europäische Union mit diesem Drittland ein Abkommen über die gegenseitige Anerkennung von in der Europäischen Union ausgestellten Herkunftsnachweisen und in diesem Drittland eingerichteten kompatiblen Herkunftsnachweissystemen geschlossen hat, und Energie direkt ein- oder ausgeführt wird und wenn keine begründeten Zweifel an der Richtigkeit, der Zuverlässigkeit oder der Wahrhaftigkeit des Herkunftsnachweises bestehen. Begründete Zweifel bestehen in der Regel nicht, wenn
 
 1. der Kalendermonat, in dem das Ende des Erzeugungszeitraums der im Herkunftsnachweis ausgewiesenen Strommenge liegt, bei Antragstellung nicht mehr als zwölf Kalendermonate zurückliegt,
 
@@ -892,7 +903,7 @@ Der Netzbetreiber, an dessen Netz eine im Regionalnachweisregister registrierte 
 
 # § 43 – Tätigkeit von Umweltgutachtern und Umweltgutachterorganisationen
 
-(1) Ein Umweltgutachter oder eine Umweltgutachterorganisation hat die Angaben, die ihm oder ihr vom Kontoinhaber nach § 13 Absatz 3 und 4, § 16 Absatz 2 und 5, § 22 Absatz 1, 1a und 2, § 24 Absatz 2, § 42 Absatz 1 und 3 übermittelt werden, zu prüfen und im Fall ihrer Richtigkeit zu bestätigen und die Bestätigung nach § 12 Absatz 1 Satz 1 Nummer 8 und 9 und Absatz 1a vorzunehmen. Der Umweltgutachter oder die Umweltgutachterorganisation ist zur Abgabe dieser Bestätigung und sonstiger Erklärungen jeweils nur im Rahmen seines oder ihres Zulassungsbereichs nach § 2 Nummer 11 Buchstabe a befugt; Umweltgutachter und Umweltorganisationen mit einer Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien können Bestätigungen und Erklärungen auch zu Anlagen im Sinne des § 12 Absatz 1 Satz 1 Nummer 8 abgeben.
+(1) Ein Umweltgutachter oder eine Umweltgutachterorganisation hat die Angaben, die ihm oder ihr vom Kontoinhaber nach § 13 Absatz 3 und 4, § 16 Absatz 2, § 22 Absatz 1, 1a und 2, § 24 Absatz 2, § 42 Absatz 1 und 3 übermittelt werden, zu prüfen und im Fall ihrer Richtigkeit zu bestätigen und die Bestätigung nach § 12 Absatz 1 Satz 1 Nummer 8 und 9 und Absatz 1a vorzunehmen. Der Umweltgutachter oder die Umweltgutachterorganisation ist zur Abgabe dieser Bestätigung und sonstiger Erklärungen jeweils nur im Rahmen seines oder ihres Zulassungsbereichs nach § 2 Nummer 11 Buchstabe a befugt; Umweltgutachter und Umweltorganisationen mit einer Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien können Bestätigungen und Erklärungen auch zu Anlagen im Sinne des § 12 Absatz 1 Satz 1 Nummer 8 abgeben.
 
 (2) Der Umweltgutachter oder die Umweltgutachterorganisation hat für die Bestätigung nach Absatz 1 Satz 1 unverzüglich nach der Prüfung der übermittelten Angaben die wesentlichen Erkenntnisse und Schlussfolgerungen sowie die Grundlagen dieser Erkenntnisse und Schlussfolgerungen schriftlich oder elektronisch in einem Gutachten niederzulegen. Das Gutachten hat in nachvollziehbarer Weise Inhalt und Ergebnis der Prüfung erkennen zu lassen. Der Umweltgutachter oder die Umweltgutachterorganisation hat die Bestätigung der Angaben in die von der Registerverwaltung zur Verfügung gestellten Formularvorlagen einzugeben und gemeinsam mit dem Gutachten an die Registerverwaltung zu übermitteln.
 
@@ -928,7 +939,7 @@ c) die Bundesanstalt für Landwirtschaft und Ernährung;
 
 2. soweit dies im Einzelfall zur Erfüllung der in § 79 Absatz 3 des Erneuerbare-Energien-Gesetzes genannten Aufgabe und zur Erfüllung der Berichtspflichten der Bundesrepublik Deutschland jeweils erforderlich ist, an:
 
-a) registerführende Behörden oder andere für die Registerführung zuständige Stellen von anderen Mitgliedstaaten der Europäischen Union im Sinne der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 328 vom 21.12.2018, S. 82; L 311 vom 25.9.2020, S. 11),
+a) registerführende Behörden oder andere für die Registerführung zuständige Stellen von anderen Mitgliedstaaten der Europäischen Union im Sinne der Richtlinie (EU) 2018/2001,
 
 b) registerführende Behörden oder andere für die Registerführung zuständige Stellen anderer Vertragsparteien des Vertrags zur Gründung der Energiegemeinschaft (ABl. L 198 vom 20.7.2006, S. 18) in der jeweils geltenden Fassung,
 
@@ -941,6 +952,8 @@ e) die Association of Issuing Bodies.
 (2) Auf die im Regionalnachweisregister gespeicherten Daten ist Absatz 1 Nummer 1 Buchstabe a und b entsprechend anzuwenden. Daneben kann die Registerverwaltung im Regionalnachweisregister gespeicherte Daten über die ausgestellten Regionalnachweise, einschließlich der personenbezogenen Daten, an denjenigen Netzbetreiber übermitteln, der für die Auszahlung der Marktprämie nach dem Erneuerbare-Energien-Gesetz zuständig ist.
 
 (3) Die Registerverwaltung kann im Herkunftsnachweisregister oder im Regionalnachweisregister gespeicherte Daten ferner der Bundesnetzagentur übermitteln, soweit dies im Einzelfall erforderlich ist zum Abgleich der Daten des Herkunftsnachweisregisters oder des Regionalnachweisregisters mit den Daten, die im Marktstammdatenregister nach § 1 der Marktstammdatenregisterverordnung gespeichert sind.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 6.8.2025 I Nr. 186 +++)
 
 # § 47 – Löschung von Daten
 
@@ -978,9 +991,11 @@ b) ein Antrag auf Übertragung von Herkunftsnachweisen oder Regionalnachweisen v
 
 c) ein Antrag auf Entwertung von Herkunftsnachweisen oder Regionalnachweisen von dem Konto,
 
-2. der Kontoinhaber Gebühren oder Auslagen in nicht nur unerheblicher Höhe nicht gezahlt hat oder
+2. der Kontoinhaber Gebühren oder Auslagen in nicht nur unerheblicher Höhe nicht gezahlt hat,
 
-3. der Registerteilnehmer, der Hauptnutzer oder der Nutzer in Bezug auf Daten, die für die Kontoeröffnung und Kontoführung erforderlich sind, falsche oder unvollständige Angaben gemacht hat.
+3. der Registerteilnehmer, der Hauptnutzer oder der Nutzer in Bezug auf Daten, die für die Kontoeröffnung und Kontoführung erforderlich sind, falsche oder unvollständige Angaben gemacht hat, oder
+
+4. ein Stromlieferant die Pflicht nach § 30 Absatz 5 nicht erfüllt hat.
 
 (3) Die Registerverwaltung unterrichtet den Kontoinhaber über die Sperrung. Die Sperrung des Kontos hat zur Folge, dass
 

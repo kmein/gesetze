@@ -11,14 +11,8 @@ Bezirkspersonalräte werden bei den folgenden militärischen Dienststellen gebil
 
 3. Marinekommando,
 
-4. Kommando Streitkräftebasis,
+4. Kommando Cyber- und Informationsraum,
 
-5. Kommando Sanitätsdienst der Bundeswehr,
+5. Unterstützungskommando der Bundeswehr und
 
-6. Kommando Cyber- und Informationsraum,
-
-7. Territoriales Führungskommando der Bundeswehr,
-
-8. Unterstützungskommando der Bundeswehr und
-
-9. Operatives Führungskommando der Bundeswehr.
+6. Operatives Führungskommando der Bundeswehr.

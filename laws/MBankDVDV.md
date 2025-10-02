@@ -5,7 +5,7 @@
 
 # § 1 – Vorbereitungsdienst
 
-Die Ausbildung und Prüfung nach dieser Verordnung sind der Vorbereitungsdienst für die Laufbahn des mittleren Bankdienstes. Der Vorbereitungsdienst dauert in der Regel 21 Monate.
+Die Ausbildung und Prüfung nach dieser Verordnung sind der Vorbereitungsdienst für die Laufbahn des mittleren Bankdienstes. Der Vorbereitungsdienst setzt sich aus einer fachtheoretischen und einer berufspraktischen Ausbildung zusammen. Der Vorbereitungsdienst dauert in der Regel 21 Monate.
 
 # § 2 – Ausbildungsziele
 
@@ -17,7 +17,7 @@ Erholungsurlaub wird nur während der berufspraktischen Ausbildung gewährt.
 
 # § 4 – Nachteilsausgleich
 
-(1) Schwerbehinderten und diesen gleichgestellten behinderten Menschen werden im Auswahlverfahren, bei Leistungstests sowie in der schriftlichen und mündlichen Abschlussprüfung Erleichterungen gewährt, die ihrer Behinderung angemessen sind. Abschnitt 9 der Vereinbarung über die Inklusion schwerbehinderter Menschen bei der Deutschen Bundesbank vom 30. Juli 2014 in der jeweils geltenden auf der Internetseite der Deutschen Bundesbank veröffentlichten Fassung ist zu berücksichtigen.
+(1) Schwerbehinderten und diesen gleichgestellten Menschen mit Behinderungen werden im Auswahlverfahren, bei Leistungstests sowie in der schriftlichen und mündlichen Abschlussprüfung Erleichterungen gewährt, die ihrer Behinderung angemessen sind. Abschnitt 9 der Vereinbarung über die Inklusion schwerbehinderter Menschen bei der Deutschen Bundesbank vom 31. Juli 2018 in der jeweils geltenden auf der Internetseite der Deutschen Bundesbank veröffentlichten Fassung ist zu berücksichtigen.
 
 (2) Über die Gewährung von Erleichterungen im Auswahlverfahren und in der schriftlichen Abschlussprüfung entscheidet die oberste Dienstbehörde oder eine von ihr bestimmte Stelle. Bei Leistungstests entscheidet die Ausbildungsleiterin oder der Ausbildungsleiter. In der mündlichen Abschlussprüfung entscheidet die oder der Vorsitzende der Prüfungskommission.
 
@@ -158,17 +158,23 @@ Rangpunktzahl</th>
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der angebotenen Ausbildungsplätze, kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden; jedoch sind mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Ausbildungsplätze angeboten werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist.
 
-(3) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber sind zum Auswahlverfahren zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet. Vor dem Ausschluss schwerbehinderter Bewerberinnen oder Bewerber und diesen gleichgestellter Bewerberinnen oder Bewerber ist die Schwerbehindertenvertretung anzuhören.
+(3) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber mit Behinderungen sind zum Auswahlverfahren zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet. Vor dem Ausschluss von schwerbehinderten Bewerberinnen und Bewerbern und diesen gleichgestellten Bewerberinnen oder Bewerbern mit Behinderungen ist die Schwerbehindertenvertretung anzuhören.
+
+(4) Die Auswahlverfahren werden in der Regel als Präsenzverfahren durchgeführt.
+
+(5) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle erlässt Auswahlrichtlinien, in denen sie das Nähere zur Ausschreibung sowie zum Bewerbungsmanagement und zur Durchführung der Auswahlverfahren einschließlich der Auswahlverfahren für den Laufbahnaufstieg sowie zu vergleichbaren Auswahlverfahren festlegt. Die Auswahlrichtlinien werden auf der Internetseite der Deutschen Bundesbank veröffentlicht. Maßgeblich ist die am Tag der Einladung zum Auswahlverfahren geltende Fassung.
 
 # § 7 – Auswahlkommission
 
-(1) Für die Durchführung des Auswahlverfahrens werden eine oder bei Bedarf mehrere Auswahlkommissionen gebildet.
+(1) Für die Durchführung des Auswahlverfahrens werden eine oder bei Bedarf mehrere Auswahlkommissionen gebildet. Die Mitglieder der Auswahlkommissionen werden von der obersten Dienstbehörde oder einer von ihr bestimmten Stelle bestellt.
 
-(2) Eine Auswahlkommission besteht in der Regel aus vier Mitgliedern, die die oberste Dienstbehörde oder eine von ihr bestimmte Stelle bestellt. Den Vorsitz führt eine Beamtin oder ein Beamter des gehobenen oder höheren Dienstes der Deutschen Bundesbank mit mehrjähriger Erfahrung in der Personalführung. Die weiteren Mitglieder müssen Angehörige des mittleren, gehobenen oder höheren Dienstes der Deutschen Bundesbank sein.
+(2) Jede Auswahlkommission besteht in der Regel aus vier, mindestens jedoch aus zwei Mitgliedern. Mindestens ein Mitglied muss Beamtin oder Beamter des höheren oder gehobenen Dienstes oder eine vergleichbare Tarifbeschäftigte oder ein vergleichbarer Tarifbeschäftigter der Deutschen Bundesbank sein. Die weiteren Mitglieder müssen Beamtinnen oder Beamte des mittleren, gehobenen oder höheren Dienstes oder vergleichbare Tarifbeschäftigte der Deutschen Bundesbank sein. Mindestens die Hälfte der Mitglieder muss über die Befähigung für eine Laufbahn des Bankdienstes verfügen. Jede Auswahlkommission soll geschlechterparitätisch besetzt sein.
 
 (3) Die Mitglieder der Auswahlkommission bewerten die im Auswahlverfahren gezeigten Leistungen unabhängig voneinander. Sie sind in dieser Funktion unabhängig und nicht weisungsgebunden.
 
 (4) Die nach Absatz 2 Satz 1 zuständige Stelle stellt sicher, dass alle Auswahlkommissionen denselben Bewertungsmaßstab anlegen.
+
+(5) Eine Auswahlkommission, die aus vier Mitgliedern besteht, kann für einzelne Abschnitte des Auswahlverfahrens geteilt werden, wenn die Zahl der auszuwählenden Bewerberinnen und Bewerber und die Zeitplanung dies erfordern.
 
 # § 8 – Teile des Auswahlverfahrens
 
@@ -178,11 +184,11 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 Der schriftliche Teil des Auswahlverfahrens besteht aus zwei Abschnitten, und zwar aus
 
-1. einem Aufsatz sowie
+1. einem Test zur Erfassung der kognitiven Leistungsfähigkeit und zur Erfassung von Persönlichkeitsmerkmalen und
 
-2. einem Test zur Erfassung der kognitiven Leistungsfähigkeit und zur Erfassung von Persönlichkeitsmerkmalen.
+2. einem Aufsatz.
 
-Der Test nach Satz 1 Nummer 2 umfasst einen Leistungstest, einen Intelligenztest und einen Persönlichkeitstest.
+Der Test nach Satz 1 Nummer 1 umfasst einen Leistungstest und einen Persönlichkeitstest.
 
 # § 10 – Mündlicher Teil
 
@@ -194,15 +200,7 @@ Der Test nach Satz 1 Nummer 2 umfasst einen Leistungstest, einen Intelligenztest
 
 (2) Der mündliche Teil dient dazu, die Eignung der Bewerberinnen und Bewerber für den Vorbereitungsdienst im Kompetenzbereich „soziales Verhalten“ und in weiteren Kompetenzbereichen zu ermitteln.
 
-(3) Für den mündlichen Teil erlässt die oberste Dienstbehörde oder eine von ihr bestimmte Stelle Auswahlrichtlinien. In ihnen werden festgelegt:
-
-1. die Kompetenzbereiche,
-
-2. ihre Zuordnung zu den Abschnitten und
-
-3. die Gewichtung der beiden Abschnitte für die Ermittlung der Teilnoten der Kompetenzbereiche (§ 11 Absatz 3).
-
-Die Auswahlrichtlinien werden auf der Internetseite der Deutschen Bundesbank veröffentlicht. Maßgeblich ist die jüngste am Tag der Einladung zum Auswahlverfahren veröffentlichte Fassung.
+(3) Näheres zu den Kompetenzbereichen, ihrer Zuordnung zu den Abschnitten und zur Gewichtung der beiden Abschnitte für die Ermittlung der Teilnoten der Kompetenzbereiche nach § 11 Absatz 3 wird in den Auswahlrichtlinien festgelegt.
 
 # § 11 – Bewertung der im Auswahlverfahren erbrachten Leistungen
 
@@ -247,7 +245,7 @@ Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverf
 
 (2) Anhand der Gesamtergebnisse wird für die Bewerberinnen und Bewerber, die alle Abschnitte des Auswahlverfahrens absolviert haben, eine Rangfolge gebildet.
 
-(3) Wer nicht zum Auswahlverfahren zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens endgültig zu löschen.
+(3) Wer nicht zum Auswahlverfahren zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind zurückzusenden, ansonsten sind sie in der Regel sechs Monate, spätestens aber ein Jahr nach dem Versand der Mitteilung über die Ablehnung an die Bewerberin oder den Bewerber zu vernichten. Elektronisch übermittelte Bewerbungsunterlagen sind innerhalb der Fristen nach Satz 2 zu löschen.
 
 # § 14 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
 
@@ -377,9 +375,13 @@ Für jede Klausur sind die Bearbeitungszeit und die zulässigen Hilfsmittel anzu
 
 (4) Die mündliche Abschlussprüfung soll als Gruppenprüfung durchgeführt werden. Eine Prüfungsgruppe soll aus höchstens fünf Anwärterinnen und Anwärtern bestehen. Die Dauer der mündlichen Abschlussprüfung soll für jede Anwärterin oder jeden Anwärter in jedem Prüfungsfach 15 Minuten betragen.
 
-(5) Die mündliche Abschlussprüfung ist nicht öffentlich. Mit Genehmigung der oder des Vorsitzenden der Prüfungskommission können andere Personen zuhören, es sei denn, dass eine Anwärterin oder ein Anwärter dem widerspricht.
+(5) Die mündliche Abschlussprüfung ist nicht öffentlich. Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle kann folgende weitere Personen als Zuhörerinnen und Zuhörer bei der mündlichen Abschlussprüfung zulassen:
 
-(6) Bei der Beratung über die Bewertung der Prüfungsleistungen dürfen nur die Mitglieder der Prüfungskommission anwesend sein. Die beiden Prüfenden geben für jedes Prüfungsfach einen Bewertungsvorschlag ab. Die oder der Vorsitzende setzt für jeden Teil der mündlichen Abschlussprüfung die Rangpunkte und die Note fest. § 22 Absatz 3 Satz 4 und 5 gilt entsprechend.
+1. Anwärterinnen und Anwärter, es sei denn, dass ein Prüfling dem widerspricht,
+
+2. Personen, die sich auf eine Tätigkeit als Prüferin oder Prüfer vorbereiten.
+
+(6) Bei der Beratung über die Bewertung der Prüfungsleistungen dürfen nur die Kommissionsmitglieder und die nach Absatz 5 Satz 2 Nummer 2 zugelassenen weiteren Personen anwesend sein. Die beiden Prüfenden geben für jedes Prüfungsfach einen Bewertungsvorschlag ab. Die oder der Vorsitzende setzt für jeden Teil der mündlichen Abschlussprüfung die Rangpunkte und die Note fest. § 22 Absatz 3 Satz 4 und 5 gilt entsprechend.
 
 (7) Über die mündliche Abschlussprüfung einer Anwärterin oder eines Anwärters wird ein Protokoll angefertigt, aus dem die wesentlichen Umstände der Prüfung sowie ihre Bewertung hervorgehen. Aus dem Protokoll muss zudem hervorgehen, dass es von allen Mitgliedern der Prüfungskommission gebilligt worden ist.
 
@@ -435,7 +437,7 @@ Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung 
 
 # § 28 – Prüfungsakte, Einsichtnahme
 
-(1) Die Klausuren der schriftlichen Abschlussprüfung und das Protokoll der mündlichen Abschlussprüfung sowie eine Ausfertigung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung sind zur Prüfungsakte zu nehmen. Die Prüfungsakte kann automatisiert geführt werden. Die Prüfungsakte wird bei der Einstellungsbehörde nach Beendigung des Vorbereitungsdienstes mindestens fünf und höchstens zehn Jahre aufbewahrt.
+(1) Die Klausuren der schriftlichen Abschlussprüfung und das Protokoll der mündlichen Abschlussprüfung sowie eine Ausfertigung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung sind zur Prüfungsakte zu nehmen. Originaldokumente einer Prüfung, die in elektronische Dokumente übertragen werden, sind anschließend umgehend zu vernichten. Die Prüfungsakte wird zur Gewährleistung der Nachprüfbarkeit von Prüfungsentscheidungen mindestens fünf und längstens zehn Jahre nach Beendigung des Vorbereitungsdienstes aufbewahrt und anschließend vernichtet oder gelöscht.
 
 (2) Nach Zustellung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung können die Betroffenen auf Antrag Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme ist in der Akte zu vermerken.
 

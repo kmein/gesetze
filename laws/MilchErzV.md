@@ -1051,24 +1051,6 @@ Probenahme
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mai 1988</td>
 </tr>
 <tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">IV. (weggefallen)</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">V. (weggefallen)</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">VI. (weggefallen)</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">---------
 <dl>
 <dt>*1)</dt>

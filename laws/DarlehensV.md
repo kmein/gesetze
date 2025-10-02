@@ -11,9 +11,7 @@
 
 # § 2 – Geringfügiger Verstoß gegen die Zahlungs- und Mitwirkungspflichten
 
-Ein im Sinne des § 18 Absatz 12 Satz 1 des
-
-Bundessausbildungsförderungsgesetzes (Gesetz) nur geringfügiger Verstoß gegen die Zahlungs- und Mitwirkungspflichten ist anzunehmen, wenn im maßgeblichen Rückzahlungszeitraum nach § 18 Absatz 3 Satz 1 des Gesetzes
+Ein im Sinne des § 18 Absatz 12 Satz 1 des Bundesausbildungsförderungsgesetzes (Gesetz) nur geringfügiger Verstoß gegen die Zahlungs- und Mitwirkungspflichten ist anzunehmen, wenn im maßgeblichen Rückzahlungszeitraum nach § 18 Absatz 3 Satz 1 des Gesetzes
 
 1. höchstens einmal eine Kostenpauschale für die Anschriftenermittlung nach § 12 Absatz 2 Satz 1 wegen Verstoßes gegen die Mitteilungsverpflichtung bei Änderungen der Wohnanschrift und des Familiennamens zu erheben war,
 
@@ -71,7 +69,9 @@ Der Abschluss von Vergleichen sowie die Stundung, Niederschlagung und der Erlass
 
 2. 5 Euro Mahnkosten.
 
-(2) Die Rechtsfolgen nach Absatz 1 treten unabhängig davon ein, ob dem Darlehensnehmer ein Bescheid nach § 10 zugegangen ist. Abweichend von Satz 1 treten die Rechtsfolgen nicht ein, solange der Bescheid dem Darlehensnehmer aus von ihm nicht zu vertretenden Gründen nicht zugegangen ist.
+Mahnkosten in Höhe von 5 Euro werden auch dann erhoben, wenn ausschließlich Anschriftenermittlungskosten nach § 12 Absatz 2 oder Zinsen fällig sind, die nach § 18 Absatz 2 Satz 2 des Gesetzes oder nach § 59 Absatz 1 Nummer 1 Satz 2 der Bundeshaushaltsordnung erhoben wurden.
+
+(2) Die Rechtsfolgen nach Absatz 1 treten unabhängig davon ein, ob dem Darlehensnehmenden ein Rückzahlungsbescheid nach § 10 zugegangen ist. Abweichend von Satz 1 werden Zinsen nach Absatz 1 Satz 1 Nummer 1 nicht erhoben, solange der Bescheid dem Darlehensnehmenden aus von ihm nicht zu vertretenden Gründen nicht zugegangen ist.
 
 (+++ § 8 Abs. 1: Zur Geltung vgl. § 12 Abs. 2 +++)
 
@@ -129,13 +129,9 @@ dem Bundesverwaltungsamt unverzüglich schriftlich oder elektronisch mitzuteilen
 
 # § 13 – Aufteilung der eingezogenen Beträge
 
-(1) Das Bundesverwaltungsamt hat den Ländern nach Ablauf eines Kalenderjahres eine Aufstellung über die Höhe der eingezogenen Beträge und Zinsen (Darlehens- und Zahlungsrückstandszinsen) sowie über die Aufteilung nach Maßgabe des § 56 Absatz 2 des Gesetzes zu übermitteln. Es hat zum Ende des jeweiligen Kalenderjahres jedem Land eine Abschlagszahlung in Höhe des ihm voraussichtlich zustehenden Betrages zu leisten und bis zum 30. Juni des laufenden Jahres den Restbetrag abzuführen, der ihm nach § 56 Absatz 2 Satz 4 des Gesetzes zusteht.
+(1) Das Bundesverwaltungsamt hat den Ländern nach Ablauf eines Kalenderjahres eine Aufstellung über die Höhe der eingezogenen Beträge und Zinsen (Darlehens- und Zahlungsrückstandszinsen) sowie über die Aufteilung nach Maßgabe des § 57 Absatz 2 des Gesetzes zu übermitteln. Es hat zum Ende des jeweiligen Kalenderjahres jedem Land eine Abschlagszahlung in Höhe des ihm voraussichtlich zustehenden Betrages zu leisten und bis zum 30. Juni des laufenden Jahres den Restbetrag abzuführen, der ihm nach § 57 Absatz 2 Satz 4 des Gesetzes zusteht.
 
 (2) Kostenerstattungen nach § 8 Absatz 1 Nummer 2 und § 12 Absatz 2 sowie Bußgelder nach § 14 verbleiben in voller Höhe dem Bund.
-
-# § 13a – Übergangsvorschrift
-
-Bis zum Ablauf des 31. März 2020 sind die §§ 6 und 8 und die Anlage in der am 31. August 2019 geltenden Fassung weiter anzuwenden.
 
 # § 14 – Ordnungswidrigkeiten
 

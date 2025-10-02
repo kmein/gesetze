@@ -80,14 +80,14 @@
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">2028</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">minus 12 043 907 683 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">9 643 907 683 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 9 643 907 683 Euro</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">2029</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">minus 12 322 407 683
 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">9 922 407 683 Euro</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 9 922 407 683 Euro</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
 </tr>
 <tr class="odd">
@@ -105,7 +105,27 @@ Euro</td>
 
 (4) (weggefallen)
 
-(5) Zum Ausgleich für Belastungen der Länder aus dem KiTa-Qualitäts- und -Teilhabeverbesserungsgesetz vom 19. Dezember 2018 (BGBl. I S. 2696) und aus der Änderung des Achten Buches Sozialgesetzbuch durch die Artikel 1 und 2 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2696) verringern sich die in Absatz 2 genannten Beträge für den Bund im Jahr 2020 um 993 Millionen Euro, in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro, im Jahr 2023 um 1 884 Millionen Euro und im Jahr 2024 um 1 993 Millionen Euro; die in Absatz 2 genannten Beträge für die Länder erhöhen sich entsprechend im Jahr 2020 um 993 Millionen Euro, in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro, im Jahr 2023 um 1 884 Millionen Euro und im Jahr 2024 um 1 993 Millionen Euro.
+(5) Zum Ausgleich für Belastungen der Länder aus dem KiTa-Qualitäts- und Teilhabeverbesserungsgesetz vom 19. Dezember 2018 (BGBl. I S. 2696) und aus der Änderung des Achten Buches Sozialgesetzbuch durch die Artikel 1 und 2 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2696)
+
+1. verringern sich die in Absatz 2 genannten Beträge für den Bund
+
+a) im Jahr 2020 um 993 Millionen Euro,
+
+b) in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro,
+
+c) im Jahr 2023 um 1 884 Millionen Euro und
+
+d) in den Jahren 2024, 2025 und 2026 um jeweils 1 993 Millionen Euro und
+
+2. erhöhen sich die in Absatz 2 genannten Beträge für die Länder
+
+a) im Jahr 2020 um 993 Millionen Euro,
+
+b) in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro,
+
+c) im Jahr 2023 um 1 884 Millionen Euro und
+
+d) in den Jahren 2024, 2025 und 2026 um jeweils 1 993 Millionen Euro.
 
 (6) Um den finanziellen Lasten der Länder, die ihnen aus der Umsetzung des Aktionsprogramms „Aufholen nach Corona für Kinder und Jugendliche für die Jahre 2021 und 2022“ im eigenen Zuständigkeitsbereich entstehen, Rechnung zu tragen, verringern sich die in Absatz 2 genannten Beträge für den Bund im Jahr 2021 um weitere 430 Millionen Euro und im Jahr 2022 um weitere 860 Millionen Euro; die in Absatz 2 genannten Beträge für die Länder erhöhen sich entsprechend im Jahr 2021 um weitere 430 Millionen Euro und im Jahr 2022 um weitere 860 Millionen Euro.
 

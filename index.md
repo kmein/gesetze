@@ -3445,7 +3445,6 @@
 - [LogMstrV](laws/LogMstrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Logistikmeister/Geprüfte Logistikmeisterin
 - [LogopG](laws/LogopG.md) Gesetz über den Beruf des Logopäden
 - [LogSystFachwBAProFV](laws/LogSystFachwBAProFV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Logistiksysteme oder Geprüfte Fachwirtin für Logistiksysteme – Bachelor Professional in Logistiksysteme
-- [LohnUGAÜV 6](laws/LohnUGAÜV_6.md) Sechste Verordnung über eine Lohnuntergrenze in der Arbeitnehmerüberlassung
 - [LorbBlErl 2013](laws/LorbBlErl_2013.md) Erlass über die Stiftung des Silbernen Lorbeerblattes
 - [LottStVereinfV](laws/LottStVereinfV.md) Verordnung zur Vereinfachung der Steuererhebung bei der Lotteriesteuer
 - [LPachtVG](laws/LPachtVG.md) Gesetz über die Anzeige und Beanstandung von Landpachtverträgen
@@ -3514,7 +3513,7 @@
 - [LuftVODV 141](laws/LuftVODV_141.md) Hunderteinundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Frankfurt-Hahn)
 - [LuftVODV 143 2024](laws/LuftVODV_143_2024.md) Hundertdreiundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Heringsdorf)
 - [LuftVODV 144](laws/LuftVODV_144.md) Einhundertvierundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Anwendung von Sekundärradar in der Bundesrepublik Deutschland)
-- [LuftVODV 145](laws/LuftVODV_145.md) Hundertfünfundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Frankfurt-Hahn)
+- [LuftVODV 145 2025](laws/LuftVODV_145_2025.md) Hundertfünfundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Frankfurt-Hahn)
 - [LuftVODV 146](laws/LuftVODV_146.md) Hundertsechsundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Schwäbisch Hall)
 - [LuftVODV 148](laws/LuftVODV_148.md) Hundertachtundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Hof)
 - [LuftVODV 154](laws/LuftVODV_154.md) Hundertvierundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Westerland/Sylt)
@@ -4384,6 +4383,7 @@
 - [OZG§3Abs2S2V](laws/OZG§3Abs2S2V.md) Verordnung nach § 3 Absatz 2 des Onlinezugangsgesetzes
 - [OzonSÜbk](laws/OzonSÜbk.md) Wiener Übereinkommen zum Schutz der Ozonschicht
 - [OzonSÜbkG](laws/OzonSÜbkG.md) Gesetz zu dem Übereinkommen vom 22. März 1985 zum Schutz der Ozonschicht
+- [OZSV](laws/OZSV.md) Verordnung über Standards für den Onlinezugang zu Verwaltungsleistungen
 - [PachtkredG](laws/PachtkredG.md) Pachtkreditgesetz
 - [PackmAusbV](laws/PackmAusbV.md) Verordnung über die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin*)
 - [PackungsV](laws/PackungsV.md) Verordnung über die Bestimmung und Kennzeichnung von Packungsgrößen für Arzneimittel in der vertragsärztlichen Versorgung
@@ -5780,7 +5780,6 @@
 - [TÜPrKostO1992GebVUmstV](laws/TÜPrKostO1992GebVUmstV.md) Verordnung zur Umstellung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen auf Euro
 - [TVG](laws/TVG.md) Tarifvertragsgesetz
 - [TVGDV](laws/TVGDV.md) Verordnung zur Durchführung des Tarifvertragsgesetzes
-- [TVMindestlohn Gerüstb 8](laws/TVMindestlohn_Gerüstb_8.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. August 2023
 - [TVMindestlohn Maler 12](laws/TVMindestlohn_Maler_12.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 28. April 2025
 - [TVMindestlohnDachd 12](laws/TVMindestlohnDachd_12.md) Rechtsnormen des Tarifvertrages zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. September 2023
 - [TVMindestlohnGebäude 2024](laws/TVMindestlohnGebäude_2024.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer1) in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. November 2024
@@ -6835,7 +6834,6 @@
 - [7. BinSchStrOAbweichV](laws/7._BinSchStrOAbweichV.md) Siebte Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
 - [7. RAG](laws/7._RAG.md) Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [8. ÄndGLAG](laws/8._ÄndGLAG.md) Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndG LAG)
-- [8. GerüstbauerArbbV](laws/8._GerüstbauerArbbV.md) Achte Verordnung über zwingende Arbeitsbedingungen im Gerüstbauerhandwerk
 - [8. MARPOL-ÄndV](laws/8._MARPOL-ÄndV.md) Achte Verordnung über Änderungen des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und des Protokolls von 1978 zu diesem Übereinkommen
 - [8. RAG](laws/8._RAG.md) Achtes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [9. AnpG-KOV](laws/9._AnpG-KOV.md) Neuntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes

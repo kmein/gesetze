@@ -21,17 +21,23 @@ Die Hochschule bestimmt die Zeiten des Erholungsurlaubs.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der angebotenen Ausbildungsplätze, kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden; jedoch sind mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Ausbildungsplätze angeboten werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist.
 
-(3) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber sind zum Auswahlverfahren zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet. Vor dem Ausschluss schwerbehinderter Bewerberinnen oder Bewerber und diesen gleichgestellter Bewerberinnen oder Bewerber ist die Schwerbehindertenvertretung anzuhören.
+(3) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber mit Behinderungen sind zum Auswahlverfahren zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet. Vor dem Ausschluss von schwerbehinderten Bewerberinnen oder Bewerbern und diesen gleichgestellten Bewerberinnen oder Bewerbern mit Behinderungen ist die Schwerbehindertenvertretung anzuhören.
+
+(4) Die Auswahlverfahren werden in der Regel als Präsenzverfahren durchgeführt.
+
+(5) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle erlässt Auswahlrichtlinien, in denen sie das Nähere zur Ausschreibung sowie zum Bewerbungsmanagement und zur Durchführung der Auswahlverfahren einschließlich der Auswahlverfahren für den Laufbahnaufstieg sowie zu vergleichbaren Auswahlverfahren festlegt. Die Auswahlrichtlinien werden auf der Internetseite der Deutschen Bundesbank veröffentlicht. Maßgeblich ist die am Tag der Einladung zum Auswahlverfahren geltende Fassung.
 
 # § 5 – Auswahlkommission
 
-(1) Für die Durchführung des Auswahlverfahrens werden eine oder bei Bedarf mehrere Auswahlkommissionen gebildet.
+(1) Für die Durchführung des Auswahlverfahrens werden eine oder bei Bedarf mehrere Auswahlkommissionen gebildet. Die Mitglieder der Auswahlkommissionen werden von der obersten Dienstbehörde oder einer von ihr bestimmten Stelle bestellt.
 
-(2) Eine Auswahlkommission besteht in der Regel aus vier Mitgliedern, die die oberste Dienstbehörde oder eine von ihr bestimmte Stelle bestellt. Den Vorsitz führt eine Beamtin oder ein Beamter des höheren Dienstes der Deutschen Bundesbank mit mehrjähriger Erfahrung in der Personalführung. Die weiteren Mitglieder müssen Angehörige des gehobenen oder höheren Dienstes der Deutschen Bundesbank sein. Hauptamtliche Lehrkräfte der Hochschule können den Auswahlkommissionen als eines der weiteren Mitglieder angehören.
+(2) Jede Auswahlkommission besteht in der Regel aus vier, mindestens jedoch aus zwei Mitgliedern. Mindestens ein Mitglied muss Beamtin oder Beamter des höheren Dienstes oder eine vergleichbare Tarifbeschäftigte oder ein vergleichbarer Tarifbeschäftigter der Deutschen Bundesbank sein. Die weiteren Mitglieder müssen Beamtinnen oder Beamte des gehobenen oder höheren Dienstes oder vergleichbare Tarifbeschäftigte der Deutschen Bundesbank sein. Mindestens die Hälfte der Mitglieder muss über die Befähigung für die Laufbahn des gehobenen oder höheren Bankdienstes verfügen. Jede Auswahlkommission soll geschlechterparitätisch besetzt sein.
 
 (3) Die Mitglieder der Auswahlkommission bewerten die im Auswahlverfahren gezeigten Leistungen unabhängig voneinander. Sie sind in dieser Funktion unabhängig und nicht weisungsgebunden.
 
 (4) Die nach Absatz 2 Satz 1 zuständige Stelle stellt sicher, dass alle Auswahlkommissionen denselben Bewertungsmaßstab anlegen.
+
+(5) Eine Auswahlkommission, die aus vier Mitgliedern besteht, kann für einzelne Abschnitte des Auswahlverfahrens geteilt werden, wenn die Zahl der auszuwählenden Bewerberinnen und Bewerber und die Zeitplanung dies erfordern.
 
 # § 6 – Teile des Auswahlverfahrens
 
@@ -41,13 +47,13 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 Der schriftliche Teil des Auswahlverfahrens besteht aus drei Abschnitten, und zwar aus
 
-1. einem Sprachtest zum Prüfen der Fremdsprachenkenntnisse,
+1. einem Test zur Erfassung der kognitiven Leistungsfähigkeit und zur Erfassung von Persönlichkeitsmerkmalen,
 
-2. einem Aufsatz sowie
+2. einem Test zur Prüfung der englischen Sprachkenntnisse sowie
 
-3. einem Test zur Erfassung der kognitiven Leistungsfähigkeit und zur Erfassung von Persönlichkeitsmerkmalen.
+3. einem Aufsatz.
 
-Der Test nach Satz 1 Nummer 3 umfasst einen Leistungstest, einen Intelligenztest und einen Persönlichkeitstest.
+Der Test nach Satz 1 Nummer 1 umfasst einen Leistungstest und einen Persönlichkeitstest.
 
 # § 8 – Mündlicher Teil
 
@@ -59,15 +65,9 @@ Der Test nach Satz 1 Nummer 3 umfasst einen Leistungstest, einen Intelligenztest
 
 (2) Der mündliche Teil dient dazu, die Eignung der Bewerberinnen und Bewerber für den Vorbereitungsdienst im Kompetenzbereich „soziales Verhalten“ und in weiteren Kompetenzbereichen zu ermitteln.
 
-(3) Für den mündlichen Teil erlässt die oberste Dienstbehörde oder eine von ihr bestimmte Stelle Auswahlrichtlinien. In ihnen werden festgelegt:
+(3) Näheres zu den Kompetenzbereichen, ihrer Zuordnung zu den Abschnitten und zur Gewichtung der beiden Abschnitte für die Ermittlung der Teilnoten der Kompetenzbereiche nach § 9 Absatz 3 wird in den Auswahlrichtlinien festgelegt.
 
-1. die Kompetenzbereiche,
-
-2. ihre Zuordnung zu den Abschnitten und
-
-3. die Gewichtung der beiden Abschnitte für die Ermittlung der Teilnoten der Kompetenzbereiche (§ 9 Absatz 3).
-
-(4) Die Auswahlrichtlinien werden auf der Internetseite der Deutschen Bundesbank veröffentlicht. Maßgeblich ist die jüngste am Tag der Einladung zum Auswahlverfahren veröffentlichte Fassung.
+(4) (weggefallen)
 
 # § 9 – Bewertung der im Auswahlverfahren erbrachten Leistungen
 
@@ -104,17 +104,17 @@ Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverf
 
 (1) Für die Ermittlung des Gesamtergebnisses des Auswahlverfahrens werden gewichtet:
 
-1. der Sprachtest mit 10 Prozent,
+1. der Aufsatz mit 15 Prozent,
 
-2. der Aufsatz mit 15 Prozent,
+2. der Test zur Erfassung der kognitiven Leistungsfähigkeit und zur Erfassung von Persönlichkeitsmerkmalen mit 25 Prozent und
 
-3. der Test zur Erfassung der kognitiven Leistungsfähigkeit und zur Erfassung von Persönlichkeitsmerkmalen mit 20 Prozent und
+3. die Bewertung des mündlichen Teils mit 60 Prozent.
 
-4. die Bewertung des mündlichen Teils mit 55 Prozent.
+Das Bestehen des Sprachtests nach § 7 Satz 1 Nummer 2 ist Voraussetzung für den Nachweis der erforderlichen Sprachkenntnisse; das Ergebnis des Sprachtests fließt nicht in die Ermittlung des Gesamtergebnisses ein.
 
-(2) Anhand der Gesamtergebnisse wird für die Bewerberinnen und Bewerber, die alle Abschnitte des Auswahlverfahrens absolviert haben, eine Rangfolge gebildet.
+(2) Anhand des Gesamtergebnisses wird für die Bewerberinnen und Bewerber, die alle Abschnitte des Auswahlverfahrens absolviert haben, eine Rangfolge gebildet.
 
-(3) Wer nicht zum Auswahlverfahren zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens endgültig zu löschen.
+(3) Wer nicht zum Auswahlverfahren zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind zurückzusenden, ansonsten sind sie in der Regel sechs Monate, spätestens aber ein Jahr nach dem Versand der Mitteilung über die Ablehnung an die Bewerberin oder den Bewerber zu vernichten. Elektronisch übermittelte Bewerbungsunterlagen sind innerhalb der Fristen nach Satz 2 zu löschen.
 
 # § 12 – Dauer und Gliederung des Studiums, Studienplan
 
@@ -166,15 +166,15 @@ Die Fachstudien liegen in der Verantwortung der Hochschule und werden von haupt-
 
 # § 15 – Laufbahnprüfung
 
-Die Bachelorprüfung ist die Laufbahnprüfung für den gehobenen Bankdienst. Sie besteht aus
+(1) Die Bachelorprüfung ist die Laufbahnprüfung für den gehobenen Bankdienst. Sie besteht aus
 
 1. den Modulprüfungen,
 
-2. der Bachelorthesis,
+2. der Bachelorthesis und
 
-3. der Verteidigung der Bachelorthesis und
+3. der Verteidigung der Bachelorthesis.
 
-4. der mündlichen Abschlussprüfung.
+(2) Das Prüfungsamt legt fest, welche Prüfungen zu welchem Zeitpunkt in den einzelnen Modulen erbracht werden müssen.
 
 # § 16 – Prüfungsamt
 
@@ -190,71 +190,67 @@ Die Bachelorprüfung ist die Laufbahnprüfung für den gehobenen Bankdienst. Sie
 
 Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Vertreter zu bestellen. Die drei weiteren Mitglieder des Prüfungsamts sowie deren Vertretungen werden durch die Hochschule auf vier Jahre bestellt. Wiederbestellung ist zulässig. Die Mitgliedschaft erlischt beim Ausscheiden aus dem Hauptamt.
 
-(3) Das Prüfungsamt hat insbesondere
+(3) Das Prüfungsamt erlässt zur näheren Umsetzung der Vorgaben nach den §§ 15 bis 29 eine Prüfungsausgestaltungsordnung. In der Prüfungsausgestaltungsordnung sind insbesondere Festlegungen zu treffen:
 
-1. sicherzustellen, dass die Prüfenden denselben Bewertungsmaßstab angelegen,
+1. zu den Aufgaben und Kompetenzen der Geschäftsführung des Prüfungsamts,
 
-2. die Prüfungszeitpunkte zu bestimmen und den Studierenden rechtzeitig bekannt zu geben; bei Prüfungen in den Praxisstudien kann das Prüfungsamt die Bestimmung und Bekanntgabe der Prüfungszeitpunkte den Ausbildungsverantwortlichen übertragen,
+2. zur Sicherstellung eines einheitlichen Bewertungsmaßstabs durch die Prüfenden,
 
-3. Vorgaben für die Form der Bachelorthesis festzulegen und
+3. zu den Vorgaben für die Durchführung der Modulprüfungen, der Bachelorthesis und der Verteidigung der Bachelorthesis sowie für die Zusammensetzung des Prüfungsergebnisses einer Modulprüfung, wenn die Modulprüfung aus mehreren Prüfungsteilen besteht, und
 
-4. bei Vorliegen einer Behinderung über Erleichterungen beim Ablegen von Modulprüfungen, bei der Bachelorthesis, der Verteidigung der Bachelorthesis und der mündlichen Abschlussprüfung als Nachteilsausgleich zu entscheiden, wobei auf Art und Schwere einer Behinderung Rücksicht zu nehmen ist; Abschnitt 9 der Vereinbarung über die Inklusion schwerbehinderter Menschen bei der Deutschen Bundesbank vom 30. Juli 2014 in der jeweils geltenden auf der Internetseite der Deutschen Bundesbank veröffentlichten Fassung ist zu berücksichtigen.
+4. zu den Erleichterungen beim Ablegen von Modulprüfungen, beim Verfassen der Bachelorthesis und bei der Verteidigung der Bachelorthesis als Nachteilsausgleich für Studierende mit Behinderungen, wobei auf Art und Schwere der Behinderung Rücksicht zu nehmen ist; Abschnitt 9 der Vereinbarung über die Inklusion schwerbehinderter Menschen bei der Deutschen Bundesbank vom 31. Juli 2018 in der jeweils geltenden auf der Internetseite der Deutschen Bundesbank veröffentlichten Fassung ist zu berücksichtigen.
 
 # § 17 – Prüfende, Prüfungskommission
 
-(1) Das Prüfungsamt bestellt Prüfende für die Durchführung und Bewertung der Modulprüfungen sowie für die Bewertung der Bachelorthesis. Für die Durchführung und Bewertung der Verteidigung der Bachelorthesis sowie der mündlichen Abschlussprüfung richtet es eine oder bei Bedarf mehrere Prüfungskommissionen ein und bestellt deren Mitglieder.
+(1) Das Prüfungsamt bestellt die Prüfenden. Für die Durchführung und Bewertung der Verteidigung der Bachelorthesis richtet es eine oder bei Bedarf mehrere Prüfungskommissionen ein und bestellt deren Mitglieder.
 
 (2) Die Prüfenden und die Mitglieder einer Prüfungskommission müssen mindestens einen Bachelorabschluss oder eine gleichwertige Qualifikation besitzen. Sie sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
 
-(3) Werden für eine Prüfung zwei Prüfende bestellt, legt das Prüfungsamt fest, wer Erstprüferin oder Erstprüfer und wer Zweitprüferin oder Zweitprüfer ist. Bei Modulprüfungen kann auf diese Festlegung verzichtet werden. Die Prüfenden und die Mitglieder einer Prüfungskommission bewerten die Prüfung unabhängig voneinander. Die Zweitprüferin oder der Zweitprüfer soll Kenntnis von der begründeten Bewertung der Erstprüferin oder des Erstprüfers haben.
+(3) Für eine Modulprüfung oder einen Prüfungsteil einer Modulprüfung wird jeweils mindestens eine Prüferin oder ein Prüfer bestellt. Im Rahmen der Wiederholung der Modulprüfung und für eine Modulprüfung oder einen Prüfungsteil in Form einer mündlichen Prüfung werden jeweils zwei Prüfende, die ihre Bewertung unabhängig voneinander vornehmen, bestellt. Die Prüfenden sollen haupt- oder nebenamtliche Lehrkräfte der Hochschule sein. Für die Modulprüfungen in den Praxisstudien können auch die Ausbildungsverantwortlichen sowie fachlich entsprechend qualifizierte Angehörige des höheren oder gehobenen Dienstes als Prüfende bestellt werden.
 
-(4) Für eine Modulprüfung wird eine Prüferin oder ein Prüfer bestellt. Für eine Wiederholung der Modulprüfung und für eine Modulprüfung in Form einer mündlichen Prüfung werden zwei Prüfende bestellt. Die Prüfenden sollen haupt- oder nebenamtliche Lehrkräfte der Hochschule sein. Für die Modulprüfungen in den Praxisstudien, die Bachelorthesis, die Verteidigung der Bachelorthesis und die mündliche Abschlussprüfung können darüber hinaus die Ausbildungsverantwortlichen sowie fachlich entsprechend qualifizierte Angehörige des höheren oder gehobenen Dienstes als Prüfende bestellt werden.
+(4) Für die Bachelorthesis werden zwei Prüfende bestellt. Das Prüfungsamt legt fest, wer Erstprüferin oder Erstprüfer und wer Zweitprüferin oder Zweitprüfer ist. Die Erstprüferin oder der Erstprüfer muss eine haupt- oder nebenamtliche Lehrkraft der Hochschule sein; für die Zweitprüferin oder den Zweitprüfer gilt Absatz 3 Satz 4 entsprechend. Die Prüfenden bewerten die Bachelorthesis unabhängig voneinander.
 
-(5) Für die Bachelorthesis werden zwei Prüfende bestellt. Die Erstprüferin oder der Erstprüfer muss eine haupt- oder nebenamtliche Lehrkraft der Hochschule sein.
-
-(6) Eine Prüfungskommission für die Verteidigung der Bachelorthesis sowie die mündliche Abschlussprüfung besteht aus einer oder einem Angehörigen des höheren Dienstes als Vorsitzender oder Vorsitzendem und zwei weiteren Mitgliedern. Ein Mitglied der Prüfungskommission muss haupt- oder nebenamtliche Lehrkraft der Hochschule sein. Die Erstprüferin oder der Erstprüfer der Bachelorthesis soll Mitglied der Prüfungskommission sein.
+(5) Eine Prüfungskommission für die Verteidigung der Bachelorthesis besteht aus einer oder einem Vorsitzenden, die oder der dem höheren Dienst angehören muss, und zwei weiteren Mitgliedern. Ein Mitglied der Prüfungskommission muss haupt- oder nebenamtliche Lehrkraft der Hochschule sein. Die Erstprüferin oder der Erstprüfer der Bachelorthesis soll Mitglied der Prüfungskommission sein. Die Mitglieder einer Prüfungskommission bewerten die Prüfung unabhängig voneinander.
 
 # § 18 – Modulprüfungen
 
-(1) In jedem Modul ist eine Prüfung abzulegen.
+(1) In jedem Modul ist eine Prüfung abzulegen, die aus mehreren Prüfungsteilen bestehen kann.
 
-(2) Zu einer Modulprüfung ist zugelassen, wer zum Zeitpunkt der Modulprüfung die Laufbahnprüfung bestehen kann. Wird festgestellt, dass eine Studierende oder ein Studierender die Laufbahnprüfung nicht mehr bestehen kann, so ist ihr oder ihm die Nichtzulassung schriftlich mitzuteilen.
+(2) Zulässige Prüfungsformen während der Fachstudien sind:
 
-(3) Modulprüfungen während der Fachstudien werden durchgeführt in Form
+1. Klausur,
 
-1. einer Klausur,
+2. Präsentation,
 
-2. einer Präsentation,
+3. Seminararbeit,
 
-3. einer Seminararbeit,
+4. Referat,
 
-4. eines Referats,
+5. mündliche Prüfung und
 
-5. einer mündlichen Prüfung oder
+6. Assignment.
 
-6. einer Kombinationsprüfung, die aus mehreren der in den Nummern 1 bis 5 genannten Prüfungsformen besteht; über die nähere Ausgestaltung entscheidet das Prüfungsamt.
+(3) Zulässige Prüfungsformen während der Praxisstudien sind
 
-(4) Modulprüfungen während der Praxisstudien werden durchgeführt in Form
+1. Praktikumsbericht,
 
-1. eines Praktikumsberichts,
+2. Präsentation,
 
-2. einer Präsentation,
+3. Vermerk,
 
-3. eines Vermerks,
+4. Bearbeitung einer sonstigen laufbahntypischen praktischen Aufgabe und
 
-4. der Bearbeitung einer sonstigen laufbahntypischen praktischen Aufgabe oder
+5. mündliche Prüfung.
 
-5. einer mündlichen Prüfung.
+(4) Das Prüfungsamt kann andere als die in den Absätzen 2 und 3 genannten Prüfungsformen zulassen und deren nähere Ausgestaltung festlegen.
 
-(5) Das Prüfungsamt kann andere als die in den Absätzen 3 und 4 genannten Prüfungsformen zulassen und deren nähere Ausgestaltung festlegen.
+(5) Jedes Modul der Praxisstudien ist zu bewerten. In die Bewertung eines Moduls gehen die Prüfungsteile nach Absatz 3 mit 75 Prozent und eine dienstliche Bewertung mit 25 Prozent ein. Die Bewertung wird kaufmännisch auf die zweite Nachkommastelle gerundet. Die dienstliche Bewertung wird von der oder dem Ausbildungsverantwortlichen unter Beteiligung der Ausbildenden erstellt und enthält die wesentlichen Leistungs- und Befähigungsmerkmale.
 
-(6) Jedes Modul der Praxisstudien ist zu bewerten. In die Bewertung gehen die Prüfungsleistung nach Absatz 4 mit 75 Prozent und eine dienstliche Bewertung mit 25 Prozent ein. Die dienstliche Bewertung wird von der oder dem Ausbildungsverantwortlichen unter Beteiligung der Ausbildenden erstellt und enthält die wesentlichen Leistungs- und Befähigungsmerkmale.
+(6) Über eine mündliche Prüfung ist von den Prüfenden ein Protokoll anzufertigen, aus dem die wesentlichen Inhalte und das Ergebnis der Prüfung hervorgehen. Aus dem Protokoll muss hervorgehen, dass es von allen Prüfenden gebilligt worden ist.
 
-(7) Über die mündliche Prüfung sollen die Prüfenden ein Protokoll anfertigen, aus dem die wesentlichen Inhalte und das Ergebnis der Prüfung hervorgehen. Aus dem Protokoll muss hervorgehen, dass es von allen Mitgliedern der Prüfungskommission gebilligt worden ist.
+(7) Alle Bewertungen sind den Studierenden bekannt zu geben. Den Studierenden soll eine Besprechung der Bewertung angeboten werden.
 
-(8) Alle Bewertungen sind den Studierenden bekannt zu geben. Den Studierenden soll eine Besprechung der Bewertung angeboten werden.
-
-(9) Die Modulprüfungen sollen spätestens eine Woche vor der mündlichen Abschlussprüfung abgeschlossen sein.
+(8) Die Modulprüfungen sollen spätestens eine Woche vor dem Termin der Verteidigung der Bachelorthesis abgeschlossen sein.
 
 (+++ § 18 Abs. 5: zur Anwendung vgl. § 20 Abs. 5 u. § 21 Abs. 5 +++)
 
@@ -268,9 +264,9 @@ Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Ver
 
 (4) Bei der Anfertigung der Bachelorthesis werden die Studierenden von der Erstprüferin oder dem Erstprüfer betreut.
 
-(5) Die Bearbeitungszeit für die Bachelorthesis beträgt acht Wochen.
+(5) Die Bearbeitungsfrist für die Bachelorthesis beträgt acht Wochen. Die Zeitpunkte der Ausgabe des Themas und der Abgabe der Bachelorthesis sind beim Prüfungsamt aktenkundig zu machen. Ausfallzeiten von bis zu vier Tagen führen nicht zu einer Verlängerung der Bearbeitungsfrist. Näheres regelt die Prüfungsausgestaltungsordnung.
 
-(6) Der Termin für die Abgabe der Bachelorthesis wird vom Prüfungsamt festgelegt. Die Abgabe beim Prüfungsamt ist aktenkundig zu machen. Bei der Abgabe hat die oder der Studierende zu erklären, dass sie oder er die Bachelorthesis selbständig und ohne fremde Mitwirkung verfasst hat und nur die angegebenen Quellen und Hilfsmittel benutzt hat. Das Prüfungsamt kann die Form für die Erklärung vorgeben.
+(6) Bei der Abgabe hat die oder der Studierende zu erklären, dass sie oder er die Bachelorthesis selbständig und ohne fremde Mitwirkung verfasst hat und nur die angegebenen Quellen und Hilfsmittel benutzt hat. Das Prüfungsamt kann die Form für die Erklärung vorgeben.
 
 (7) Das Bewertungsverfahren soll insgesamt höchstens zwölf Wochen dauern.
 
@@ -278,29 +274,19 @@ Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Ver
 
 (1) Zur Verteidigung der Bachelorthesis ist zugelassen, wer die Bachelorthesis bestanden hat.
 
-(2) In der Verteidigung sollen die Studierenden nachweisen, dass sie gesichertes Wissen in den bearbeiteten Themengebieten besitzen und die angewendeten Methoden und erzielten Ergebnisse erläutern und begründen können.
+(2) In der Verteidigung sollen die Studierenden nachweisen, dass sie gesichertes Wissen in den bearbeiteten Themengebieten besitzen, die in der Bachelorthesis angewendeten Methoden und erzielten Ergebnisse erläutern und begründen sowie die in der Bachelorthesis behandelte Problemstellung in den Gesamtkontext des Studiengangs und in die Zielsetzung des Vorbereitungsdienstes einordnen können.
 
 (3) Die Verteidigung wird als Einzelprüfung durchgeführt.
 
-(4) Die Verteidigung dauert 30 Minuten. Sie beginnt mit einer etwa 15-minütigen Präsentation der wesentlichen Inhalte und Schlussfolgerungen der Bachelorthesis durch die Studierende oder den Studierenden. Anschließend werden fachliche Fragen mit Bezug auf die Bachelorthesis und die Präsentation gestellt.
+(4) Die Verteidigung dauert 45 Minuten. Sie beginnt mit einer etwa 15-minütigen Präsentation der wesentlichen Inhalte und Schlussfolgerungen der Bachelorthesis durch die Studierende oder den Studierenden. Anschließend wird ein Prüfungsgespräch geführt, ob die oder der Studierende die Anforderungen des Absatzes 2 erfüllt.
 
-(5) Für die Anfertigung des Protokolls gilt § 18 Absatz 5 entsprechend.
+(5) Für die Anfertigung des Protokolls gilt § 18 Absatz 6 entsprechend.
 
-# § 21 – Mündliche Abschlussprüfung
-
-(1) Zur mündlichen Abschlussprüfung ist zugelassen, wer die Verteidigung der Bachelorthesis bestanden hat.
-
-(2) In der mündlichen Abschlussprüfung sollen die Studierenden in einem interdisziplinären Prüfungsgespräch nachweisen, dass sie die Inhalte der absolvierten Module der Fachstudien zueinander in Beziehung setzen können und dass ihre Kenntnisse und Fähigkeiten den Anforderungen des gehobenen Bankdienstes genügen.
-
-(3) Die mündliche Abschlussprüfung dauert 15 Minuten.
-
-(4) Die mündliche Abschlussprüfung kann als Gruppenprüfung durchgeführt werden. Eine Gruppe soll aus höchstens vier Personen bestehen.
-
-(5) Für die Anfertigung des Protokolls gilt § 18 Absatz 5 entsprechend.
+# § 21 – (weggefallen)
 
 # § 22 – Bewertung der Prüfungen
 
-(1) Die Prüfungsleistungen werden wie folgt bewertet:  
+(1) Die Modulprüfungen, die Bachelorthesis und die Verteidigung der Bachelorthesis werden mit Rangpunkten und Noten bewertet. Die Rangpunkte und Noten werden dem prozentualen Anteil der erreichten Punktzahl an der erreichbaren Punktzahl wie folgt zugeordnet:  
   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
@@ -318,7 +304,7 @@ Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Ver
 der erreichten Punkt-<br />
 zahl an der erreich-<br />
 baren Punktzahl</th>
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Rangpunkte</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Rangpunkte/Rangpunktzahl</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Note</th>
 <th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Notendefinition</th>
 </tr>
@@ -428,15 +414,11 @@ baren Punktzahl</th>
 
 (2) Bei der Bewertung sind neben dem fachlichen Inhalt auch die Gliederung, die Klarheit der Darstellung und das Ausdrucksvermögen zu berücksichtigen.
 
-(3) Weichen die Bewertungen der Bachelorthesis oder einer Modulprüfung, für die zwei Prüfende bestellt sind, um nicht mehr als drei Rangpunkte voneinander ab, wird eine Rangpunktzahl ermittelt, indem das arithmetische Mittel aus den Einzelbewertungen berechnet wird. Weichen die Bewertungen um mehr als drei Rangpunkte voneinander ab, gibt das Prüfungsamt die Bewertungen an die Prüfenden zur Einigung zurück. Führt der Einigungsversuch zu Einzelbewertungen, die nicht mehr als drei Rangpunkte voneinander abweichen, wird nach Satz 1 verfahren. Bleibt eine Abweichung von mehr als drei Rangpunkten bestehen, bestimmt das Prüfungsamt eine Drittprüferin oder einen Drittprüfer. In diesem Fall wird eine Rangpunktzahl ermittelt, indem das arithmetische Mittel aus der Bewertung der Drittprüferin oder des Drittprüfers und aus den vor dem Einigungsversuch abgegeben Bewertungen der Erstprüferin oder des Erstprüfers sowie der Zweitprüferin oder des Zweitprüfers berechnet wird. Die Drittprüferin oder der Drittprüfer soll Kenntnis von den Bewertungen der Erst- und Zweitprüfenden haben.
+(3) Die Ermittlung der Rangpunktzahl der Bachelorthesis regelt die Prüfungsausgestaltungsordnung. Die Rangpunktzahl der Verteidigung der Bachelorthesis wird ermittelt, indem das arithmetische Mittel der Einzelbewertungen der Mitglieder der Prüfungskommission gebildet wird.
 
-(4) Abweichend von Absatz 3 wird bei einer Modulprüfung in Form einer mündlichen Prüfung oder bei einer Wiederholungsprüfung, die nicht ausschließlich in schriftlicher Form durchgeführt wird, nach erfolglosem Einigungsversuch eine Rangpunktzahl ermittelt, indem das arithmetische Mittel aus den Einzelbewertungen gebildet wird.
+(4) Bei der Ermittlung von Rangpunktzahlen erfolgt eine kaufmännische Rundung auf die zweite Nachkommastelle.
 
-(5) Die Rangpunktzahl der Verteidigung der Bachelorthesis und der mündlichen Abschlussprüfung wird jeweils ermittelt, indem das arithmetische Mittel der Einzelbewertungen der Mitglieder der Prüfungskommission gebildet wird.
-
-(6) Nach den Absätzen 3 bis 5 ermittelte Rangpunktzahlen werden kaufmännisch auf die zweite Nachkommastelle gerundet.
-
-(7) Den Rangpunktzahlen entsprechen folgende Noten:  
+(5) Den Rangpunktzahlen entsprechen folgende Noten:  
   
 
 |     |  Rangpunktzahl  |     Note     |
@@ -449,41 +431,47 @@ baren Punktzahl</th>
 |  5  |  4,99 bis  1,50 |  mangelhaft  |
 |  6  |  1,49 bis  0,00 |  ungenügend  |
 
-(8) Die jeweilige Prüfung ist bestanden, wenn sie mit einer Rangpunktzahl von mindestens 5,00 oder mit mindestens fünf Rangpunkten bewertet worden ist.
+(6) Die jeweilige Prüfung ist bestanden, wenn sie mit einer Rangpunktzahl von mindestens 5,00 oder mit mindestens fünf Rangpunkten bewertet worden ist. Modulprüfungen, die sich aus mehreren Prüfungsteilen zusammensetzen, gelten als bestanden, wenn der Anteil der erreichten Punktzahl an der erreichbaren Punktzahl nach Absatz 1 für alle Prüfungsteile zusammen mindestens 50 Prozent beträgt. In diesen Fällen setzt das Prüfungsamt die erreichten Rangpunkte der Modulprüfung nach Absatz 1 fest. Das Nähere regelt die Prüfungsausgestaltungsordnung.
 
-# § 23 – Fernbleiben, Rücktritt
+# § 23 – Fernbleiben, Rücktritt, Verlängerung der Bearbeitungsfrist, Rügepflicht
 
-(1) Bei Fernbleiben oder Rücktritt von einer Prüfung ohne Genehmigung des Prüfungsamts gilt diese Prüfung als nicht bestanden.
+(1) Bei Fernbleiben oder Rücktritt von einer Prüfung oder einem Prüfungsteil ohne Genehmigung des Prüfungsamts gilt die Prüfung als nicht bestanden. Wird das Fernbleiben oder der Rücktritt durch das Prüfungsamt genehmigt, so gilt die Prüfung oder der Prüfungsteil als nicht begonnen. Die Genehmigung darf nur erteilt werden, wenn ein wichtiger Grund für das Fernbleiben oder den Rücktritt vorliegt.
 
-(2) Wird das Fernbleiben oder der Rücktritt genehmigt, gilt die Prüfung als nicht begonnen. Die Genehmigung darf nur erteilt werden, wenn wichtige Gründe vorliegen. Bei Erkrankung kann die Genehmigung grundsätzlich nur erteilt werden, wenn unverzüglich ein ärztliches Attest vorgelegt wird. Auf Verlangen des Prüfungsamts ist ein amtsärztliches Attest oder das Attest einer Ärztin oder eines Arztes vorzulegen, die oder der von der Dienstbehörde beauftragt worden ist.
+(2) Das Prüfungsamt bestimmt, wann und in welcher Form die Prüfung oder der Prüfungsteil nachgeholt wird.
 
-(3) Das Prüfungsamt bestimmt, zu welchem Zeitpunkt und in welcher Form die Prüfung nachgeholt wird.
+(3) Ist für eine Prüfung oder einen Prüfungsteil eine Bearbeitungsfrist festgelegt, so kann das Prüfungsamt diese auf Antrag der oder des Studierenden verlängern, soweit die oder der Studierende aus einem wichtigen Grund an der fristgerechten Abgabe gehindert ist. Der Antrag darf nur berücksichtigt werden, wenn er vor Ablauf der Bearbeitungsfrist gestellt wurde. Die Bearbeitungsfrist kann höchstens um die Hälfte der vorgesehenen Zeit verlängert werden.
+
+(4) Ist für eine Prüfung oder einen Prüfungsteil eine Bearbeitungsfrist festgelegt und hat das Prüfungsamt keine Verlängerung nach Absatz 3 gewährt, so gilt die Prüfung oder der Prüfungsteil als mit null Punkten bewertet, wenn die Prüfung oder der Prüfungsteil nicht bis zum Ende der Bearbeitungsfrist erbracht ist.
+
+(5) Der für das Fernbleiben oder den Rücktritt von einer Prüfung oder einem Prüfungsteil oder die Verhinderung an der Abgabe innerhalb der ursprünglichen Bearbeitungsfrist angeführte wichtige Grund ist dem Prüfungsamt unverzüglich schriftlich anzuzeigen und glaubhaft zu machen. Eine Erkrankung kann nur berücksichtigt werden, wenn unverzüglich ein ärztliches Attest vorgelegt wird. Auf Verlangen des Prüfungsamts ist ein amtsärztliches Attest oder das Attest einer Ärztin oder eines Arztes vorzulegen, die oder der von der Dienstbehörde beauftragt worden ist.
+
+(6) Störungen im Vorfeld oder im Verlauf der Prüfung oder einem Prüfungsteil müssen unverzüglich durch die Studierenden geltend gemacht werden. Der Verzicht auf eine Geltendmachung schließt die spätere Berufung auf derartige Beeinträchtigungen aus.
 
 # § 24 – Täuschung, Ordnungsverstoß
 
 (1) Studierenden, die bei einer Prüfung täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamts oder der Prüfungskommission gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der Prüfung ausgeschlossen werden.
 
-(2) Über das Vorliegen und die Folgen einer Täuschung, eines Täuschungsversuches, eines Mitwirkens an einem solchen oder eines sonstigen Ordnungsverstoßes während einer Modulprüfung oder bei der Bachelorthesis entscheidet das Prüfungsamt. Die Entscheidung während der Verteidigung der Bachelorthesis und der mündlichen Abschlussprüfung trifft die Prüfungskommission. Sie entscheidet mit Stimmenmehrheit; eine Stimmenthaltung ist nicht zulässig. Das Prüfungsamt kann je nach Schwere des Verstoßes die Wiederholung der Prüfung anordnen oder die Prüfung für endgültig nicht bestanden erklären.
+(2) Über das Vorliegen und die Folgen einer Täuschung, eines Täuschungsversuches, eines Mitwirkens an einem solchen oder eines sonstigen Ordnungsverstoßes während einer Modulprüfung oder bei der Bachelorthesis entscheidet das Prüfungsamt. Die Entscheidung während der Verteidigung der Bachelorthesis trifft die Prüfungskommission. Sie entscheidet mit Stimmenmehrheit; eine Stimmenthaltung ist nicht zulässig. Das Prüfungsamt kann je nach Schwere des Verstoßes die Wiederholung der Prüfung anordnen oder die Prüfung für endgültig nicht bestanden erklären.
 
-(3) Bei einer Täuschung, die nach Beendigung einer Modulprüfung, nach Abgabe der Bachelorthesis, nach der Verteidigung der Bachelorthesis oder nach der mündlichen Abschlussprüfung festgestellt wird, ist Absatz 2 entsprechend anzuwenden.
+(3) Bei einer Täuschung, die nach Beendigung einer Modulprüfung, nach Abgabe der Bachelorthesis oder nach der Verteidigung der Bachelorthesis festgestellt wird, ist Absatz 2 entsprechend anzuwenden.
 
-(4) Wird eine Täuschung erst nach Abschluss der Laufbahnprüfung bekannt oder kann sie erst dann nachgewiesen werden, kann das Prüfungsamt die Prüfung innerhalb von fünf Jahren nach dem Tag der mündlichen Abschlussprüfung für nicht bestanden erklären.
+(4) Wird eine Täuschung erst nach Abschluss der Laufbahnprüfung bekannt oder kann sie erst dann nachgewiesen werden, kann das Prüfungsamt die Prüfung innerhalb von fünf Jahren nach dem Tag der Verteidigung der Bachelorthesis für nicht bestanden erklären.
 
 (5) Die Betroffenen sind vor Entscheidungen nach den Absätzen 2 bis 4 anzuhören.
 
 # § 25 – Wiederholung von Prüfungen
 
-(1) Das Prüfungsamt bestimmt, zu welchem Zeitpunkt und in welcher Form eine nicht bestandene Modulprüfung wiederholt wird.
+(1) Das Prüfungsamt bestimmt, wann und in welcher Form eine nicht bestandene Modulprüfung wiederholt wird.
 
 (2) Ist die Bachelorthesis mit einer Rangpunktzahl von weniger als 5,00 bewertet worden, kann sie einmal wiederholt werden. Das Prüfungsamt gibt ein neues Thema aus.
 
-(3) Wird die Verteidigung der Bachelorthesis oder die mündliche Abschlussprüfung nicht bestanden, so kann sie jeweils einmal wiederholt werden.
+(3) Wird die Verteidigung der Bachelorthesis nicht bestanden, so kann sie einmal wiederholt werden.
 
 (4) Eine bestandene Prüfung kann nicht wiederholt werden.
 
 # § 26 – Bestehen der Laufbahnprüfung
 
-(1) Die Laufbahnprüfung ist bestanden, wenn die im Studienplan vorgeschriebene Anzahl an Modulprüfungen, die Bachelorthesis, die Verteidigung der Bachelorthesis und die mündliche Abschlussprüfung jeweils bestanden oder zuvor anerkannt worden sind.
+(1) Die Laufbahnprüfung ist bestanden, wenn die im Studienplan vorgeschriebene Anzahl an Modulprüfungen, die Bachelorthesis und die Verteidigung der Bachelorthesis jeweils bestanden oder zuvor anerkannt worden sind.
 
 (2) Ist die Laufbahnprüfung bestanden, so ermittelt das Prüfungsamt die Rangpunktzahl der Laufbahnprüfung. In die Rangpunktzahl der Laufbahnprüfung gehen die folgenden Bewertungen mit der genannten Gewichtung ein:
 
@@ -497,11 +485,9 @@ baren Punktzahl</th>
 
 5. die nach den Absätzen 3 und 4 ermittelte Rangpunktzahl der Module in den Praxisstudien mit 20 Prozent,
 
-6. die Rangpunktzahl der Bachelorthesis mit 12 Prozent,
+6. die unter Berücksichtigung des § 22 Absatz 3 ermittelte Rangpunktzahl der Bachelorthesis mit 12 Prozent sowie
 
-7. die Rangpunktzahl der Verteidigung der Bachelorthesis mit 3 Prozent sowie
-
-8. die nach § 22 Absatz 5 und 6 ermittelte Rangpunktzahl der mündlichen Abschlussprüfung mit 5 Prozent.
+7. die nach § 22 Absatz 3 ermittelte Rangpunktzahl der Verteidigung der Bachelorthesis mit 8 Prozent.
 
 (3) Die Rangpunktzahlen nach Absatz 2 Nummer 1 bis 5 werden ermittelt, indem die in den Modulprüfungen erzielten Rangpunktzahlen entsprechend den in den Modulen erworbenen Leistungspunkten gewichtet werden. Die so ermittelten Rangpunktzahlen sind kaufmännisch auf die zweite Nachkommastelle zu runden.
 
@@ -527,37 +513,31 @@ baren Punktzahl</th>
 
 # § 28 – Prüfungsakte, Einsichtnahme
 
-(1) Die schriftlichen Prüfungsleistungen sowie die Protokolle der mündlichen Prüfungen, die Bachelorthesis, das Protokoll der Verteidigung der Bachelorthesis, das Protokoll der mündlichen Abschlussprüfung und eine Ausfertigung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung sind zur Prüfungsakte zu nehmen. Die Prüfungsakte kann automatisiert geführt werden. Sie wird beim Prüfungsamt nach Beendigung des Vorbereitungsdienstes mindestens fünf und höchstens zehn Jahre aufbewahrt.
+(1) Die schriftlichen Prüfungsleistungen sowie die Protokolle der mündlichen Prüfungen, die Bachelorthesis und eine Ausfertigung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung sind zur Prüfungsakte zu nehmen. Originaldokumente einer Prüfung, die in elektronische Dokumente übertragen werden, sind anschließend umgehend zu vernichten. Die Prüfungsakte wird mindestens fünf und längstens zehn Jahre nach Beendigung des Vorbereitungsdienstes zur Gewährleistung der Nachprüfbarkeit von Prüfungsentscheidungen aufbewahrt und anschließend vernichtet oder gelöscht. Abweichend von Satz 3 werden die Bachelorurkunde, das Diploma Supplement und das Abschlusszeugnis 45 Jahre aufbewahrt oder gespeichert.
 
 (2) Nach Zustellung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung können die Studierenden auf Antrag Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme ist in der Akte zu vermerken.
 
-# § 29 – Anerkennung von Studien- und Prüfungsleistungen sowie von nicht an einer Hochschule erworbenen Kompetenzen
+# § 29 – Anerkennung von Studien- und Prüfungsleistungen sowie Anrechnung von nicht an einer Hochschule erworbenen Kompetenzen
 
-(1) Auf Antrag der oder des Studierenden werden vom Prüfungsamt anerkannt:
+(1) Auf Antrag der oder des Studierenden werden folgende Leistungen anerkannt, sofern hinsichtlich der erworbenen Kompetenzen kein wesentlicher Unterschied zu den Leistungen besteht, die ersetzt werden:
 
-1. gleichwertige Studien- und Prüfungsleistungen, die erbracht worden sind in akkreditierten Studiengängen
+1. Studien- und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen oder an staatlichen oder staatlich anerkannten Berufsakademien erbracht worden sind,
 
-a) an anderen staatlichen Hochschulen,
+2. Studien- und Prüfungsleistungen, die an vergleichbaren Einrichtungen im In- oder Ausland erbracht worden sind.
 
-b) an staatlich anerkannten Hochschulen oder
+(2) Auf Antrag der oder des Studierenden können Kenntnisse und Qualifikationen, die auf andere Weise als durch ein Studium erworben worden sind, angerechnet werden, sofern die Kenntnisse und Qualifikationen nach Inhalt und Niveau den Studien- und Prüfungsleistungen, die sie im Studiengang „Zentralbankwesen/Central Banking“ ersetzen sollen, gleichwertig sind.
 
-c) an damit vergleichbaren Einrichtungen im In- oder Ausland,
+(3) Kenntnisse und Qualifikationen nach Absatz 2 sind gleichwertig, wenn sie den besonderen Anforderungen des Studiengangs „Zentralbankwesen/Central Banking“ in Zielen, Inhalten und Umfang im Wesentlichen entsprechen. Für die Feststellung der Gleichwertigkeit ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen. Zusätzlich ist für die Feststellung der Gleichwertigkeit erforderlich, dass zum Zeitpunkt des Erwerbs der Kenntnisse die für den Hochschulzugang geltenden Voraussetzungen vorliegen.
 
-2. gleichwertige Studien- und Prüfungsleistungen aus nicht akkreditierten Studiengängen,
+(4) Leistungen werden nach Maßgabe der Absätze 1 und 2 nur modulweise anerkannt oder angerechnet. Außerhalb des Hochschulbereichs erworbene Kenntnisse und Qualifikationen werden bis höchstens 90 Leistungspunkte angerechnet. Eine Anerkennung oder Anrechnung erfolgt nur, wenn die antragstellende Person an der betreffenden Studien- oder Prüfungsleistung, auf die die Anrechnung erfolgen soll, noch nicht teilgenommen hat. Das Prüfungsamt entscheidet über die Anrechnung oder Anerkennung; Anrechnungen oder Anerkennungen von anderen Hochschulen sind unbeachtlich.
 
-3. gleichwertige Studien- und Prüfungsleistungen, die an Hochschulen erbracht worden sind, die nicht unter Nummer 1 fallen,
+(5) Ausgeschlossen ist die Anerkennung von Leistungen aus endgültig nicht bestandenen Modulen.
 
-4. gleichwertige nicht an einer Hochschule erworbene Kompetenzen oder sonstige Qualifikationen.
+(6) Die Anerkennung oder Anrechnung erfolgt auf Antrag der zu prüfenden Person. Der Antrag ist bis spätestens drei Monate vor Durchführung der zu erbringenden Prüfung beim Prüfungsamt einzureichen.
 
-(2) Gleichwertig sind Studien- und Prüfungsleistungen sowie nicht an einer Hochschule erworbene Kompetenzen oder sonstige Qualifikationen, wenn sie den besonderen Anforderungen des Studiengangs „Zentralbankwesen / Central Banking“ in Zielen, Inhalten und Umfang im Wesentlichen entsprechen. Für die Feststellung der Gleichwertigkeit ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen. Bei im Ausland erbrachten Studien- und Prüfungsleistungen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebildeten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Partnerschaften und Kooperationen mit einzubeziehen.
+(7) Für die Anerkennung nach Absatz 1 sollen die erbrachten Studien- und Prüfungsleistungen durch Bescheinigungen der Hochschulen oder Berufsakademien nachgewiesen werden, an denen die Leistungen erbracht worden sind. Die Bescheinigung der Studienleistungen soll Ziel, Inhalt und Umfang der Veranstaltungen sowie Bezeichnung und Inhalt des jeweiligen Moduls, in dem die Studienleistungen erbracht wurden, enthalten. Aus der Bescheinigung der Prüfungsleistung müssen hervorgehen:
 
-(3) Kompetenzen, Qualifikationen oder Leistungen nach Absatz 1 Nummer 2 bis 4 werden nur modulweise und bis höchstens 90 Leistungspunkte angerechnet. Eine Anerkennung erfolgt nur, wenn die antragstellende Person an der betreffenden Studien- oder Prüfungsleistung, auf die die Anrechnung erfolgen soll, noch nicht teilgenommen hat.
-
-(4) Ausgeschlossen ist die Anerkennung von Prüfungsleistungen anderer Studiengänge als Bachelorthesis, Verteidigung der Bachelorthesis oder mündliche Abschlussprüfung sowie die Anerkennung von Studienleistungen aus endgültig nicht bestandenen Modulen.
-
-(5) Der Antrag auf Anerkennung ist beim Prüfungsamt unter Beifügung einer Aufstellung der anzurechnenden Studien- und Prüfungsleistungen oder der nicht an einer Hochschule erworbenen Kompetenzen oder sonstigen Qualifikationen einzureichen. Die erbrachten Studien- und Prüfungsleistungen sollen durch Bescheinigungen der Hochschulen oder vergleichbarer Einrichtungen nachgewiesen werden, an denen die Leistungen erbracht worden sind. Die Bescheinigung der Studienleistungen soll Ziel, Inhalt und Umfang der Veranstaltungen sowie Bezeichnung und Inhalt des jeweiligen Moduls, in dem die Studienleistungen erbracht wurden, enthalten. Aus der Bescheinigung der Prüfungsleistung müssen hervorgehen:
-
-1. die Bezeichnung und Inhalte des geprüften Moduls,
+1. die Bezeichnung und die Inhalte des geprüften Moduls,
 
 2. die für das Modul vergebenen Leistungspunkte,
 
@@ -565,20 +545,20 @@ c) an damit vergleichbaren Einrichtungen im In- oder Ausland,
 
 4. die Bewertungen der Modulprüfungen und
 
-5. das zugrunde liegende Bewertungssystem.
+5. das zu Grunde liegende Bewertungssystem.
 
-Für die nicht an einer Hochschule erworbenen Kompetenzen oder sonstige Qualifikationen sind dem Antrag Nachweise beizufügen.
+(8) Für die Anrechnung nach Absatz 2 sind dem Antrag geeignete Nachweise insbesondere über Art, Dauer, Ort und Umfang der erbrachten Leistungen, ein tabellarischer Lebenslauf sowie Nachweise über zu diesem Zeitpunkt vorliegende schulische Ausbildungen und berufliche Fort- und Weiterbildungsmaßnahmen beizufügen.
 
-(6) Werden Studien- und Prüfungsleistungen oder nicht an einer Hochschule erworbene Kompetenzen oder sonstige Qualifikationen durch das Prüfungsamt anerkannt, sind die Bewertungen, soweit die Bewertungssysteme vergleichbar sind, zu übernehmen und nach Maßgabe des § 26 in die Berechnung der Rangpunktzahl der Laufbahnprüfung einzubeziehen. Sind die Bewertungssysteme nicht vergleichbar, wird die anerkannte Prüfungsleistung im relativen Verhältnis der Notenskalen den Rangpunktzahlen nach § 22 zugeordnet.
+(9) Erfolgen Anerkennungen nach Absatz 1 oder 2 durch das Prüfungsamt, sind die Bewertungen, soweit die Bewertungssysteme vergleichbar sind, zu übernehmen und nach Maßgabe des § 26 in die Berechnung der Rangpunktzahl der Laufbahnprüfung einzubeziehen. Sind die Bewertungssysteme nicht vergleichbar, wird die anerkannte Prüfungsleistung im relativen Verhältnis der Notenskalen den Rangpunktzahlen nach § 22 zugeordnet. Bei erforderlichen Umrechnungen erfolgt die Notenumrechnung nach der an das Rangpunktesystem nach § 22 Absatz 1 angepassten Modifizierten Bayerischen Formel
 
-(7) Liegt für eine anerkannte Prüfungsleistung keine Bewertung auf der Basis einer Notenskala vor, so wird die anerkannte Prüfungsleistung im Diploma Supplement mit dem Vermerk „bestanden“ versehen.
+X = 1 + 3 1/3 · \[(15 – Nü) / (15 - 5)\], wobei X die umzurechnende Note und Nü die zu ermittelnde Rangpunktzahl ist. Die ermittelte Rangpunktzahl wird kaufmännisch auf zwei Nachkommastellen gerundet.
+
+(10) Liegt für eine anerkannte oder angerechnete Prüfungsleistung keine Bewertung auf der Basis einer Notenskala vor, so wird die anerkannte oder angerechnete Prüfungsleistung im Diploma Supplement mit dem Vermerk „bestanden“ versehen.
 
 # § 30 – Übergangsregelung
 
-Für Anwärterinnen und Anwärter, die vor dem
+Für Anwärterinnen und Anwärter, die vor dem 1. Oktober 2025 mit dem Vorbereitungsdienst für den gehobenen Bankdienst begonnen haben, ist die Verordnung über den Vorbereitungsdienst für den gehobenen Bankdienst der Deutschen Bundesbank vom 30. August 2017 (BGBl. I S. 3316, 3322) mit den Maßgaben weiter anzuwenden, dass
 
-1\. Oktober 2017 mit dem Vorbereitungsdienst begonnen haben, ist diese Verordnung mit den Maßgaben anzuwenden, dass
+1. § 15 Absatz 2 und § 18 Absatz 5 Satz 3 dieser Verordnung gelten und
 
-1. an die Stelle des § 12 Absatz 1 und 2, der §§ 15, 17 und 18 Absatz 3, der §§ 19 bis 22 sowie der §§ 24 und 26 dieser Verordnung § 5 Absatz 1 und 2, die §§ 8, 10 und 11 Absatz 2, die §§ 12 bis 14 sowie die §§ 16 und 18 der Verordnung über die Ausbildung und Prüfung für den gehobenen Bankdienst der Deutschen Bundesbank vom 24. Februar 2011 (BGBl. I S. 318), die durch Artikel 4 Satz 2 Nummer 2 der Verordnung vom 30. August 2017 (BGBl. I S. 3316) aufgehoben worden ist, treten und
-
-2. in den §§ 16, 25 und 27 bis 29 an die Stelle der Bachelorthesis die Bachelorarbeit tritt.
+2. an die Stelle des § 18 Absatz 7 und der §§ 23 und 29 der Verordnung über den Vorbereitungsdienst für den gehobenen Bankdienst der Deutschen Bundesbank vom 30. August 2017 (BGBl. I S. 3316, 3322) der § 18 Absatz 6, sowie die §§ 23 und 29 dieser Verordnung treten.

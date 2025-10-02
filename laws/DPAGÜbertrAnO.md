@@ -53,15 +53,15 @@ Den Leiterinnen oder Leitern der selbstständigen Niederlassungen, der Service N
 
 5. Beamtinnen und Beamten Jubiläumszuwendungen zu genehmigen oder zu versagen.
 
-# § 2 – Befugnisse im Bereich des Besoldungsrechts
+# § 2
 
-Der Service Niederlassung Human Resources Deutschland in Dortmund wird die Befugnis übertragen, von der Rückforderung zu viel gezahlter Bezüge aus Billigkeitsgründen abzusehen, soweit die Überzahlung im Einzelfall den Betrag von ursprünglich 5 000 Euro nicht übersteigt.
+Der Service Niederlassung Post & Paket in Darmstadt wird die Befugnis übertragen, von der Rückforderung zu viel gezahlter Bezüge aus Billigkeitsgründen abzusehen, soweit die Überzahlung im Einzelfall den Betrag von ursprünglich 5 000 Euro nicht übersteigt.
 
 # § 3 – Zuständigkeit für den Erlass von beamtenrechtlichen Widerspruchsbescheiden
 
 (1) Die Zuständigkeit für den Erlass von beamtenrechtlichen Widerspruchsbescheiden im Bereich der Deutschen Post AG wird den selbstständigen Niederlassungen, Service Niederlassungen, Geschäftsbereichen Vertrieb und Shared Service Centern übertragen, soweit diese den mit dem Widerspruch angefochtenen Verwaltungsakt erlassen oder den Erlass eines Verwaltungsakts abgelehnt haben und nach Absatz 2 nicht eine andere Organisationseinheit zuständig ist.
 
-(2) Die Zuständigkeit nach Absatz 1 wird in Angelegenheiten der Arbeitszeit, der Besoldung, des Reisekostenrechts und des Umzugskostenrechts der Service Niederlassung Human Resources Deutschland in Dortmund übertragen.
+(2) Die Zuständigkeit nach Absatz 1 wird in Angelegenheiten der Arbeitszeit, der Besoldung, des Reisekostenrechts und des Umzugskostenrechts der Service Niederlassung Post & Paket in Darmstadt übertragen.
 
 # § 4 – Befugnis zur Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
 
@@ -71,7 +71,7 @@ Die Befugnis zur Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältni
 
 (1) Die Befugnisse zur Kürzung der Dienstbezüge bis zum Höchstmaß, zur Zurückstufung und zur Entfernung aus dem Beamtenverhältnis werden den in § 1 genannten Leiterinnen und Leitern übertragen.
 
-(2) Die Zuständigkeit zum Erlass von Widerspruchsbescheiden in disziplinarrechtlichen Angelegenheiten und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten gegen disziplinarrechtliche Entscheidungen wird der Service Niederlassung Human Resources Deutschland in Dortmund übertragen.
+(2) Die Zuständigkeit zum Erlass von Widerspruchsbescheiden in disziplinarrechtlichen Angelegenheiten und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten gegen disziplinarrechtliche Entscheidungen wird der Service Niederlassung Post & Paket in Darmstadt übertragen.
 
 # § 6 – Vorbehaltsklausel
 
