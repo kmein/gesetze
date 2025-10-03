@@ -401,7 +401,7 @@ Ausgliederungen und Abspaltungen nach diesem Absatz sind Ausgliederungen und Abs
 
 (2) Dem Kreditrahmen nach Absatz 1 wachsen die Beträge aus getilgten Krediten wieder zu.
 
-(3) Auf die Kreditermächtigung ist bei Diskontpapieren der Nettobetrag anzurechnen.
+(3) Auf die Kreditermächtigung ist der Nennwert anzurechnen.
 
 (4) Unter den Voraussetzungen des § 37 Abs. 1 Satz 2 der Bundeshaushaltsordnung kann der in Absatz 1 festgelegte Ermächtigungsrahmen mit Einwilligung des Haushaltsausschusses des Deutschen Bundestages um bis zu 10 Milliarden Euro überschritten werden.
 

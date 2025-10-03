@@ -213,7 +213,7 @@ Mit diesen Entgelten werden alle für die Versorgung der Patientinnen und Patien
 
 (6) Hat nach dem Ergebnis einer Prüfung nach § 275c Absatz 1 des Fünften Buches Sozialgesetzbuch eine vollstationäre Behandlungsbedürftigkeit nicht vorgelegen, sind die vom Krankenhaus erbrachten Leistungen nach den für vorstationäre Behandlungen nach § 115a des Fünften Buches Sozialgesetzbuch getroffenen Vereinbarungen zu vergüten, soweit keine andere Möglichkeit zur Abrechnung der erbrachten Leistung besteht.
 
-(7) Das Krankenhaus berechnet bei Patientinnen und Patienten, die im Zeitraum vom 1. Mai 2020 bis zum 31. Dezember 2020 zur voll- oder teilstationären Krankenhausbehandlung in das Krankenhaus aufgenommen werden, einen Zuschlag in Höhe von 0,42 Prozent des Rechnungsbetrags und weist diesen gesondert in der Rechnung aus. Der Zuschlag wird bei der Ermittlung der Erlösausgleiche nicht berücksichtigt.
+(7) Das Krankenhaus berechnet abweichend von Absatz 1 Satz 1 erster Halbsatz bei Patientinnen und Patienten, die in der gesetzlichen Krankenversicherung versichert sind und im Zeitraum vom 1. November 2025 bis zum 31. Oktober 2026 zur voll- oder teilstationären Behandlung in das Krankenhaus aufgenommen werden, einen Zuschlag in Höhe von 3,25 Prozent des Rechnungsbetrags und weist diesen gesondert in der Rechnung aus. Der Zuschlag wird bei der Ermittlung der Erlösausgleiche nicht berücksichtigt.
 
 # § 9 – Vereinbarung auf Bundesebene
 

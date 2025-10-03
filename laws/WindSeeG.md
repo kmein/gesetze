@@ -495,7 +495,7 @@ Die Bundesnetzagentur macht die Ausschreibungen spätestens vier Kalendermonate 
 
 3. eine Zahlung in Höhe von 5 Prozent des Gesamtbetrags der zweiten Gebotskomponente als Fischereikomponente an den Bundeshaushalt; für Mittelverwendung und Zahlungsweise gelten die Vorgaben des § 58 Absatz 2 entsprechend.
 
-Die Zweckbindung der Zahlungen nach § 57 gilt entsprechend.
+Die Zweckbindung der Zahlungen nach § 57 gilt entsprechend. § 58 Absatz 3 gilt entsprechend.
 
 (1a) Der bezuschlagte Bieter, der im dynamischen Gebotsverfahren nach § 21 den Zuschlag erhalten hat, leistet die zweite Gebotskomponente für Ausschreibungen im Jahr 2023 nach Maßgabe der folgenden Ziffern:
 
@@ -505,7 +505,7 @@ Die Zweckbindung der Zahlungen nach § 57 gilt entsprechend.
 
 3. eine Zahlung in Höhe von 1 Prozent des Gesamtbetrags der zweiten Gebotskomponente als Fischereikomponente an den Bundeshaushalt; für Mittelverwendung und Zahlungsweise gelten die Vorgaben des § 58 Absatz 2 entsprechend und
 
-4. eine Zahlung in Höhe von 5,875 Prozent des Gesamtbetrags der zweiten Gebotskomponente als Transformationskomponente an den Bundeshaushalt; für Mittelverwendung und Zahlungsweise gelten die Vorgaben des § 58 Absatz 3 entsprechend.
+4. eine Zahlung in Höhe von 5,875 Prozent des Gesamtbetrags der zweiten Gebotskomponente als Transformationskomponente an den Bundeshaushalt; für Mittelverwendung und Zahlungsweise gelten die Vorgaben des § 58 Absatz 4 entsprechend.
 
 Die Zweckbindung der Zahlungen nach § 57 gilt entsprechend.
 
@@ -872,17 +872,19 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 
 # § 57 – Zweckbindung der Zahlungen
 
-Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 werden anteilig für Maßnahmen des Meeresnaturschutzes sowie zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen sowie zur Senkung der Offshore-Netzumlage gemäß § 17f des Energiewirtschaftsgesetzes verwendet. Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 werden abweichend von Satz 1 für Ausschreibungen im Jahr 2023 anteilig für Maßnahmen des Meeresnaturschutzes, zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen, als Einnahmen des Bundeshaushalts sowie zur Senkung der Offshore-Netzumlage gemäß § 2 Nummer 11 des Energiefinanzierungsgesetzes verwendet.
+Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 werden anteilig für den Bereich des Bundesministeriums für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit insbesondere für Maßnahmen des Meeresnaturschutzes, für den Bereich des Bundesministeriums für Landwirtschaft, Ernährung und Heimat insbesondere zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen, als Einnahmen des Bundeshaushalts zu Transformationszwecken sowie zur Senkung der Offshore-Netzumlage gemäß § 2 Nummer 11 des Energiefinanzierungsgesetzes verwendet. Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 werden abweichend von Satz 1 für Ausschreibungen im Jahr 2023 anteilig für Maßnahmen des Meeresnaturschutzes, zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen, als Einnahmen des Bundeshaushalts sowie zur Senkung der Offshore-Netzumlage gemäß § 2 Nummer 11 des Energiefinanzierungsgesetzes verwendet.
 
 (+++ § 57: Zur Geltung vgl. § 23 Abs. 1 Satz 2 +++)
 
 # § 58 – Meeresnaturschutz-, Fischerei- und Transformationskomponente
 
-(1) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach Erteilung des Zuschlags eine Zahlung in Höhe von 5 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Meeresnaturschutzkomponente an den Bundeshaushalt. Die Mittel aus der Zahlung sind zweckgebunden für Maßnahmen des Meeresnaturschutzes möglichst in dem betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz bewirtschaftet. Die Verpflichtungen nach § 15 des Bundesnaturschutzgesetzes bleiben unberührt.
+(1) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach Erteilung des Zuschlags eine Zahlung in Höhe von 5 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Meeresnaturschutzkomponente an den Bundeshaushalt. Die Mittel aus der Zahlung sind zweckgebunden insbesondere für Maßnahmen des Meeresnaturschutzes möglichst in dem betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz bewirtschaftet. Die Verpflichtungen nach § 15 des Bundesnaturschutzgesetzes bleiben unberührt.
 
-(2) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach Erteilung des Zuschlags eine Zahlung in Höhe von 5 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Fischereikomponente an den Bundeshaushalt. Die Mittel aus der Zahlung sind zweckgebunden für Maßnahmen zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen möglichst in dem betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden vom Bundesministerium für Ernährung und Landwirtschaft bewirtschaftet.
+(2) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach Erteilung des Zuschlags eine Zahlung in Höhe von 5 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Fischereikomponente an den Bundeshaushalt. Die Mittel aus der Zahlung sind zweckgebunden insbesondere für Maßnahmen zur umweltschonenden Fischerei einschließlich Fischereistrukturmaßnahmen möglichst in dem betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden vom Bundesministerium für Ernährung und Landwirtschaft bewirtschaftet.
 
-(3) Für Ausschreibungen im Jahr 2023 leistet der bezuschlagte Bieter innerhalb von zwölf Monaten nach Erteilung des Zuschlags abweichend von Absatz 1 Satz 1 und Absatz 2 Satz 1 eine Zahlung von 3,125 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Meeresnaturschutzkomponente, eine Zahlung von 1 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Fischereikomponente und eine Zahlung in Höhe von 5,875 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Transformationskomponente an den Bundeshaushalt.
+(3) Sind die Einnahmen für die Meeresnaturschutzkomponente nach Absatz 1 und § 23 Absatz 1 Satz 1 Nummer 2 und die Fischereikomponente nach Absatz 2 und § 23 Absatz 1 Satz 1 Nummer 3 aus Ausschreibungen nach Teil 3 Abschnitt 2 und 5 in einem Ausschreibungsjahr für die Meeresschutz- und Fischereikomponente insgesamt höher als 200 Millionen Euro, fließen die diesen Betrag übersteigenden Einnahmen in den Jahren 2025 und 2026 als Transformationskomponente an den Bundeshaushalt.
+
+(4) Für Ausschreibungen im Jahr 2023 leistet der bezuschlagte Bieter innerhalb von zwölf Monaten nach Erteilung des Zuschlags abweichend von Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3 eine Zahlung von 3,125 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Meeresnaturschutzkomponente, eine Zahlung von 1 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Fischereikomponente und eine Zahlung in Höhe von 5,875 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Transformationskomponente an den Bundeshaushalt.
 
 (+++ § 58 Abs. 1: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 2 +++)  
 (+++ § 58 Abs. 2: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 3 +++)

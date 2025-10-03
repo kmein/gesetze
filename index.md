@@ -2756,6 +2756,7 @@
 - [HeuerVtrÜbkG](laws/HeuerVtrÜbkG.md) Gesetz betreffend das Internationale Übereinkommen über den Heuervertrag der Schiffsleute
 - [HfreqBetrGen](laws/HfreqBetrGen.md) Allgemeine Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten
 - [HfzHvzVStG](laws/HfzHvzVStG.md) Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer
+- [HG 2025](laws/HG_2025.md) Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025
 - [HGB](laws/HGB.md) Handelsgesetzbuch
 - [HGBEG](laws/HGBEG.md) Einführungsgesetz zum Handelsgesetzbuch
 - [HgFSNatSchV](laws/HgFSNatSchV.md) Verordnung über das Befahren des Naturschutzgebietes "Helgoländer Felssockel"
@@ -5602,6 +5603,7 @@
 - [SVFAngAusbV 1997](laws/SVFAngAusbV_1997.md) Verordnung über die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten
 - [SVG](laws/SVG.md) Gesetz über die Versorgung der früheren Soldatinnen und früheren Soldaten und ihrer Hinterbliebenen
 - [SVHV](laws/SVHV.md) Verordnung über das Haushaltswesen in der Sozialversicherung
+- [SVIKG](laws/SVIKG.md) Gesetz zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität
 - [SVkAbk CHE](laws/SVkAbk_CHE.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem schweizerischen Bundesrat über die Abschaffung des Sichtvermerkszwangs für Flüchtlinge
 - [SVLFG-AltRückV](laws/SVLFG-AltRückV.md) Verordnung zur Bildung von Altersrückstellungen durch die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 - [SVLFGG](laws/SVLFGG.md) Gesetz zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau

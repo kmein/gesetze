@@ -44,7 +44,7 @@ Förderung anwendungsorientierter Forschung im Bereich Mobilität mit bis zu 500
 
 (2) Dem Kreditrahmen nach Absatz 1 wachsen die Beträge aus getilgten Krediten wieder zu.
 
-(3) Auf die Kreditermächtigung ist bei Diskontpapieren der Nettobetrag anzurechnen.
+(3) Auf die Kreditermächtigung ist der Nennwert anzurechnen.
 
 # § 6 – Tilgung
 
