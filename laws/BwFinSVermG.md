@@ -33,7 +33,7 @@ Das Sondervermögen hat den Zweck, die Bündnis- und Verteidigungsfähigkeit zu 
 
 (2) Für Anschlussfinanzierungen wachsen dem Kreditrahmen nach Absatz 1 die Beträge aus getilgten Krediten wieder zu.
 
-(3) Auf die Kreditermächtigung ist bei Diskontpapieren der Nettobetrag anzurechnen.
+(3) Auf die Kreditermächtigung ist der Nennwert anzurechnen.
 
 # § 5 – Wirtschaftsplan, Haushaltsrecht, Mittelverwendung
 

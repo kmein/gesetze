@@ -33,69 +33,75 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   
   
 
-Vorbemerkung:  
-  
-Wenn mit dem Grad der Behinderung und dem Grad der Schädigungsfolgen das Maß für die Beeinträchtigung der Teilhabe am Leben in der Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
+Vorbemerkung
 
-1\.
+Diese Verordnung geht von einem Verständnis von Behinderung aus, das sich aus dem Übereinkommen über die Rechte von Menschen mit Behinderungen ableitet und sich in § 2 des Neunten Buches Sozialgesetzbuch widerspiegelt. Danach entsteht eine Behinderung aus der Wechselwirkung von langfristigen körperlichen, seelischen, geistigen oder Sinnesbeeinträchtigungen mit verschiedenen Barrieren. Dadurch können Menschen an der vollen, wirksamen und gleichberechtigten Teilhabe an der Gesellschaft gehindert werden<span id="FnR.FnA1-F834407_01"></span><a href="#FnA1-F834407_01" class="FnR">1</a></sup> (Artikel 1 Satz 2 der UN-Konvention über die Rechte von Menschen mit Behinderungen).
 
-Schädigungsfolgen
+Die im Folgenden verwendeten Begriffe orientieren sich an den Definitionen der Internationalen Klassifikationen der Weltgesundheitsorganisation (Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – ICD, Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit – ICF), die sich ergänzen.
 
-a) Als Schädigungsfolge wird im sozialen Entschädigungsrecht jede Gesundheitsstörung bezeichnet, die in ursächlichem Zusammenhang mit einer Schädigung steht, die nach dem entsprechenden Gesetz zu berücksichtigen ist.
+Als Maß für die Teilhabebeeinträchtigung wird in den neu gefassten Teilen dieser Verordnung einheitlich die Abkürzung GdB verwendet, in den noch nicht überarbeiteten Teilen einheitlich die Abkürzung GdS.
 
-b) Die Auswirkungen der Schädigungsfolge werden mit dem Grad der Schädigungsfolgen (GdS) bemessen.
+1. Grad der Behinderung (GdB), Grad der Schädigungsfolgen (GdS)
 
-c) Zu den Schädigungsfolgen gehören auch Abweichungen vom Gesundheitszustand, die keinen GdS bedingen (z. B. funktionell bedeutungslose Narben, Verlust von Zähnen).
+1.1 Der Grad der Behinderung (GdB) gibt die nach Zehnergraden von 10 bis 100 abgestufte Beeinträchtigung der Teilhabe unabhängig von der Ursache der Gesundheitsstörung wieder (finale Betrachtungsweise). Der Grad der Schädigungsfolgen (GdS) gibt die nach Zehnergraden von 10 bis 100 abgestufte Beeinträchtigung der Teilhabe durch die Schädigungsfolge wieder (kausale Betrachtungsweise). Als Schädigungsfolge wird im Sozialen Entschädigungsrecht jede Gesundheitsstörung bezeichnet, die in ursächlichem Zusammenhang mit einem schädigenden Ereignis steht. Zu den Schädigungsfolgen gehören auch Gesundheitsstörungen, die keine Teilhabebeeinträchtigung mit einem GdS von mindestens 10 bedingen. Alle die Teilhabe beeinträchtigenden körperlichen, geistigen, seelischen und Sinnesbeeinträchtigungen sind zu berücksichtigen. Die in Teil B genannten GdB bzw. GdS sind Anhaltswerte. Die Beurteilungsspannen tragen den Besonderheiten des Einzelfalles Rechnung.
 
-2\.
+1.2 GdB und GdS werden nach den gleichen Grundsätzen bemessen. Beide Begriffe haben die Auswirkungen von Teilhabebeeinträchtigungen in allen Lebensbereichen und nicht nur im allgemeinen Erwerbsleben zum Inhalt. Sie setzen voraus, dass der Gesundheitszustand von dem für das Lebensalter typischen Zustand abweicht und dadurch die Teilhabe mit hoher Wahrscheinlichkeit länger als sechs Monate (dauerhaft) beeinträchtigt ist.
 
-Grad der Schädigungsfolgen (GdS), Grad der Behinderung (GdB)
+1.3 Die in Teil B genannten GdB stellen alters-, geschlechts- und trainingsunabhängige typische Werte dar. Sie wurden teilhabeorientiert auf der Grundlage des aktuellen Standes der medizinischen Wissenschaft und der Medizintechnik unter Berücksichtigung versorgungsmedizinischer Erfordernisse festgelegt (§ 153a des Neunten Buches Sozialgesetzbuch). Sie berücksichtigen bereits:
 
-a) GdS und GdB werden nach gleichen Grundsätzen bemessen. Beide Begriffe unterscheiden sich lediglich dadurch, dass der GdS nur auf die Schädigungsfolgen (also kausal) und der GdB auf alle Gesundheitsstörungen unabhängig von ihrer Ursache (also final) bezogen ist. Beide Begriffe haben die Auswirkungen von Funktionsbeeinträchtigungen in allen Lebensbereichen und nicht nur die Einschränkungen im allgemeinen Erwerbsleben zum Inhalt. GdS und GdB sind ein Maß für die körperlichen, geistigen, seelischen und sozialen Auswirkungen einer Funktionsbeeinträchtigung aufgrund eines Gesundheitsschadens.
+1.3.1 Störungen des psychischen Befindens und einzelne psychische Symptome als Begleiterscheinungen von Gesundheitsstörungen. Sind die psychischen Begleiterscheinungen erheblich höher, als aufgrund der körperlichen Veränderungen zu erwarten wäre, und erfüllen sie die Kriterien einer eigenständigen Diagnose aus der ICD, liegt eine Komorbidität vor. Diese ist getrennt zu ermitteln und im Rahmen der Bildung des Gesamt-GdB nach Nummer 3.3 zu bewerten.
 
-b) Aus dem GdB und aus dem GdS ist nicht auf das Ausmaß der Leistungsfähigkeit zu schließen. GdB und GdS sind grundsätzlich unabhängig vom ausgeübten oder angestrebten Beruf zu beurteilen, es sei denn, dass bei Begutachtungen im sozialen Entschädigungsrecht ein besonderes berufliches Betroffensein berücksichtigt werden muss.
+1.3.2 die üblichen Schmerzen als Symptom einer Gewebeschädigung oder Gewebeerkrankung. Dies schließt auch erfahrungsgemäß besonders schmerzhafte Zustände mit ein. Sind die Schmerzen erheblich höher, als aufgrund der körperlichen Veränderungen zu erwarten wäre, und erfüllen sie die Kriterien einer eigenständigen Diagnose aus der ICD, liegt eine Komorbidität vor. Diese ist getrennt zu ermitteln und im Rahmen der Bildung des Gesamt-GdB nach Nummer 3.3 zu bewerten. Wenn der Schmerz Leitsymptom einer psychischen Störung ist, ist die durch den Schmerz verursachte Teilhabebeeinträchtigung im GdB für die psychische Störung enthalten.
 
-c) GdB und GdS setzen stets eine Regelwidrigkeit gegenüber dem für das Lebensalter typischen Zustand voraus. Dies ist insbesondere bei Kindern und alten Menschen zu beachten. Physiologische Veränderungen im Alter sind bei der Beurteilung des GdB und GdS nicht zu berücksichtigen. Als solche Veränderungen sind die körperlichen und psychischen Leistungseinschränkungen anzusehen, die sich im Alter regelhaft entwickeln, d. h. für das Alter nach ihrer Art und ihrem Umfang typisch sind. Demgegenüber sind pathologische Veränderungen, d. h. Gesundheitsstörungen, die nicht regelmäßig und nicht nur im Alter beobachtet werden können, bei der Beurteilung des GdB und GdS zu berücksichtigen, auch dann, wenn sie erstmalig im höheren Alter auftreten oder als „Alterskrankheiten" (z. B. „Altersdiabetes", „Altersstar") bezeichnet werden.
+1.3.3 eine Beeinträchtigung des äußeren Erscheinungsbildes, soweit in Teil B nicht anders angegeben. Sind die psychischen Begleiterscheinungen erheblich höher, als aufgrund der Beeinträchtigung des äußeren Erscheinungsbildes zu erwarten wäre, ist Nummer 1.3.1 zu berücksichtigen.
 
-d) Die in der GdS-Tabelle aufgeführten Werte sind aus langer Erfahrung gewonnen und stellen altersunabhängige (auch trainingsunabhängige) Mittelwerte dar. Je nach Einzelfall kann von den Tabellenwerten mit einer die besonderen Gegebenheiten darstellenden Begründung abgewichen werden.
+1.3.4 die typischerweise mit der Behandlung einhergehenden Folgen oder Begleiterscheinungen. Bei außergewöhnlichen Folgen oder Begleiterscheinungen der Behandlung ist ein höherer GdB gerechtfertigt.
 
-e) Da der GdS seiner Natur nach nur annähernd bestimmt werden kann, sind beim GdS nur Zehnerwerte anzugeben. Dabei sollen im Allgemeinen die folgenden Funktionssysteme zusammenfassend beurteilt werden: Gehirn einschließlich Psyche; Augen; Ohren; Atmung; Herz- Kreislauf; Verdauung; Harnorgane; Geschlechtsapparat; Haut; Blut einschließlich blutbildendes Gewebe und Immunsystem; innere Sekretion und Stoffwechsel; Arme; Beine; Rumpf. Die sehr wenigen in der GdS-Tabelle noch enthaltenen Fünfergrade sind alle auf ganz eng umschriebene Gesundheitsstörungen bezogen, die selten allein und sehr selten genau in dieser Form und Ausprägung vorliegen.
+1.4 Je nach Einzelfall kann von den in Teil B genannten GdB mit einer die besonderen Gegebenheiten darstellenden Begründung abgewichen werden.
 
-f) Der GdS setzt eine nicht nur vorübergehende und damit eine über einen Zeitraum von mehr als sechs Monaten sich erstreckende Gesundheitsstörung voraus. Dementsprechend ist bei abklingenden Gesundheitsstörungen der Wert festzusetzen, der dem über sechs Monate hinaus verbliebenen - oder voraussichtlich verbleibenden - Schaden entspricht. Schwankungen im Gesundheitszustand bei längerem Leidensverlauf ist mit einem Durchschnittswert Rechnung zu tragen. Dies bedeutet: Wenn bei einem Leiden der Verlauf durch sich wiederholende Besserungen und Verschlechterungen des Gesundheitszustandes geprägt ist (Beispiele: chronische Bronchitis, Hautkrankheiten, Anfallsleiden), können die zeitweiligen Verschlechterungen - aufgrund der anhaltenden Auswirkungen auf die gesamte Lebensführung - nicht als vorübergehende Gesundheitsstörungen betrachtet werden. Dementsprechend muss in solchen Fällen bei der GdB- und GdS-Beurteilung von dem „durchschnittlichen" Ausmaß der Beeinträchtigung ausgegangen werden.
+1.5 Aus dem GdB ist nicht auf das Ausmaß der Leistungsfähigkeit zu schließen. Individuell neben der Gesundheitsstörung vorliegende Gegebenheiten wie zum Beispiel der ausgeübte oder angestrebte Beruf sowie die Wohnsituation sind nicht zu berücksichtigen.
 
-g) Stirbt ein Antragsteller oder eine Antragstellerin innerhalb von sechs Monaten nach Eintritt einer Gesundheitsstörung, so ist für diese Gesundheitsstörung der GdS anzusetzen, der nach ärztlicher Erfahrung nach Ablauf von sechs Monaten nach Eintritt der Gesundheitsstörung zu erwarten gewesen wäre. Fallen Eintritt der Gesundheitsstörung und Tod jedoch zusammen, kann ein GdS nicht angenommen werden. Eintritt der Gesundheitsstörung und Tod fallen nicht nur zusammen, wenn beide Ereignisse im selben Augenblick eintreten. Dies ist vielmehr auch dann der Fall, wenn die Gesundheitsstörung in so rascher Entwicklung zum Tode führt, dass der Eintritt der Gesundheitsstörung und des Todes einen untrennbaren Vorgang darstellen.
+1.6 Bei Gesundheitsstörungen, die in Teil B nicht genannt sind, ist die Teilhabebeeinträchtigung in Analogie zu dort genannten vergleichbaren Gesundheitsstörungen zu bewerten.
 
-h) Gesundheitsstörungen, die erst in der Zukunft zu erwarten sind, sind beim GdS nicht zu berücksichtigen. Die Notwendigkeit des Abwartens einer Heilungsbewährung stellt eine andere Situation dar; während der Zeit dieser Heilungsbewährung ist ein höherer GdS gerechtfertigt, als er sich aus dem festgestellten Schaden ergibt.
+1.7 Bei Gesundheitsstörungen mit einer im Verlauf typischerweise unterschiedlich stark ausgeprägten Teilhabebeeinträchtigung ist als GdB ein Wert festzusetzen, der die Beeinträchtigungen in ihrem Verlauf am ehesten abbildet. Bei abklingenden Gesundheitsstörungen ist für den GdB der Wert festzusetzen, der der über sechs Monate hinaus (dauerhaft) verbliebenen oder voraussichtlich verbleibenden Teilhabebeeinträchtigung entspricht.
 
-i) Bei der Beurteilung des GdS sind auch seelische Begleiterscheinungen und Schmerzen zu beachten. Die in der GdS-Tabelle niedergelegten Sätze berücksichtigen bereits die üblichen seelischen Begleiterscheinungen (z. B. bei Entstellung des Gesichts, Verlust der weiblichen Brust). Sind die seelischen Begleiterscheinungen erheblich höher als aufgrund der organischen Veränderungen zu erwarten wäre, so ist ein höherer GdS gerechtfertigt. Vergleichsmaßstab ist nicht der behinderte Mensch, der überhaupt nicht oder kaum unter seinem Körperschaden leidet, sondern die allgemeine ärztliche Erfahrung hinsichtlich der regelhaften Auswirkungen. Außergewöhnliche seelische Begleiterscheinungen sind anzunehmen, wenn anhaltende psychoreaktive Störungen in einer solchen Ausprägung vorliegen, dass eine spezielle ärztliche Behandlung dieser Störungen - z. B. eine Psychotherapie - erforderlich ist.
+1.8 Zukünftig zu erwartende Funktionsbeeinträchtigungen sind nicht zu berücksichtigen. Jedoch sind innerhalb von sechs Monaten mit sehr hoher Wahrscheinlichkeit schnell voranschreitende Teilhabebeeinträchtigungen wie in Teil B angegeben zu berücksichtigen.
 
-j) Ähnliches gilt für die Berücksichtigung von Schmerzen. Die in der GdS-Tabelle angegebenen Werte schließen die üblicherweise vorhandenen Schmerzen mit ein und berücksichtigen auch erfahrungsgemäß besonders schmerzhafte Zustände. Ist nach Ort und Ausmaß der pathologischen Veränderungen eine über das übliche Maß hinausgehende Schmerzhaftigkeit nachgewiesen, die eine ärztliche Behandlung erfordert, können höhere Werte angesetzt werden. Das kommt zum Beispiel bei Kausalgien und bei stark ausgeprägten Stumpfbeschwerden nach Amputationen (Stumpfnervenschmerzen, Phantomschmerzen) in Betracht. Ein Phantomgefühl allein bedingt keinen GdS.
+1.9 Stirbt ein Antragsteller oder eine Antragstellerin innerhalb von sechs Monaten nach Eintritt einer Gesundheitsstörung, so ist für diese Gesundheitsstörung der GdB anzusetzen, der nach ärztlicher Erfahrung nach Ablauf von sechs Monaten nach Eintritt der Gesundheitsstörung zu erwarten gewesen wäre. Fallen Eintritt der Gesundheitsstörung und Tod zusammen, kann ein GdB nicht angenommen werden. Eintritt der Gesundheitsstörung und Tod fallen nicht nur dann zusammen, wenn beide Ereignisse im selben Augenblick eintreten, sondern auch dann, wenn die Gesundheitsstörung in so rascher Entwicklung zum Tode führt, dass der Eintritt der Gesundheitsstörung und des Todes einen untrennbaren Vorgang darstellen.
 
-3\.
+2. Heilungsbewährung
 
-Gesamt-GdS
+2.1 Heilungsbewährung ist ein begrenzter Zeitraum, der nach Behandlung von Gesundheitsstörungen (insbesondere bösartigen Neubildungen und Transplantationen innerer Organe) abgewartet werden muss, um den Behandlungserfolg beurteilen zu können.
 
-a) Liegen mehrere Funktionsbeeinträchtigungen vor, so sind zwar Einzel-GdS anzugeben; bei der Ermittlung des Gesamt-GdS durch alle Funktionsbeeinträchtigungen dürfen jedoch die einzelnen Werte nicht addiert werden. Auch andere Rechenmethoden sind für die Bildung eines Gesamt-GdS ungeeignet. Maßgebend sind die Auswirkungen der einzelnen Funktionsbeeinträchtigungen in ihrer Gesamtheit unter Berücksichtigung ihrer wechselseitigen Beziehungen zueinander.
+2.2 Während der Heilungsbewährung wird der GdB in Anbetracht der Ungewissheit über den künftigen Verlauf pauschal höher bewertet als es aus der bloßen Funktionsbeeinträchtigung und damit auch dem Körperschaden folgen würde. Dadurch wird die damit einhergehende Teilhabebeeinträchtigung gewürdigt, ohne dass sie im Einzelnen nachgewiesen sein muss. Nach Ablauf des Zeitraums der Heilungsbewährung wird bei rezidivfreiem bzw. im Fall von Transplantationen innerer Organe üblichem Verlauf die dann noch bestehende Teilhabebeeinträchtigung unter Beachtung von Teil B berücksichtigt. Die pauschale Bewertung während der Heilungsbewährung entfällt. Die Heilungsbewährung beginnt erneut, wenn ein Rezidiv aufgetreten ist und kurativ behandelt wurde oder eine Re-Transplantation durchgeführt wurde.
 
-b) Bei der Gesamtwürdigung der verschiedenen Funktionsbeeinträchtigungen sind unter Berücksichtigung aller sozialmedizinischen Erfahrungen Vergleiche mit Gesundheitsschäden anzustellen, zu denen in der Tabelle feste GdS-Werte angegeben sind.
+2.3 Der GdB beträgt bei bösartigen Neubildungen und Transplantation innerer Organe im Allgemeinen mindestens 50, in höheren Krankheitsstadien und bei aufwendigeren Transplantationen im Allgemeinen 80, soweit in Teil B nicht anders angegeben.
 
-c) Bei der Beurteilung des Gesamt-GdS ist in der Regel von der Funktionsbeeinträchtigung auszugehen, die den höchsten Einzel-GdS bedingt, und dann im Hinblick auf alle weiteren Funktionsbeeinträchtigungen zu prüfen, ob und inwieweit hierdurch das Ausmaß der Behinderung größer wird, ob also wegen der weiteren Funktionsbeeinträchtigungen dem ersten GdS 10 oder 20 oder mehr Punkte hinzuzufügen sind, um der Behinderung insgesamt gerecht zu werden.
+2.4 Der Zeitraum der Heilungsbewährung beträgt in der Regel fünf Jahre, soweit in Teil B nicht anders angegeben.
 
-d) Um die Auswirkungen der Funktionsbeeinträchtigungen in ihrer Gesamtheit unter Berücksichtigung ihrer wechselseitigen Beziehungen zueinander beurteilen zu können, muss aus der ärztlichen Gesamtschau heraus beachtet werden, dass die Beziehungen der Funktionsbeeinträchtigungen zueinander unterschiedlich sein können:
+2.5 Maßgeblicher Bezugspunkt für den Beginn der Heilungsbewährung ist der Zeitpunkt der Transplantation bzw. der Zeitpunkt, an dem die bösartige Neubildung durch Operation oder andere Primärtherapie als beseitigt angesehen werden kann. Eine zusätzliche adjuvante Therapie hat keinen Einfluss auf den Beginn der Heilungsbewährung. Für andere Gesundheitsstörungen ist der maßgebliche Bezugspunkt für den Beginn der Heilungsbewährung in Teil B angegeben.
 
-aa)  
-Die Auswirkungen der einzelnen Funktionsbeeinträchtigungen können voneinander unabhängig sein und damit ganz verschiedene Bereiche im Ablauf des täglichen Lebens betreffen.
+2.6 Ein Carcinoma in situ rechtfertigt grundsätzlich kein Abwarten einer Heilungsbewährung, soweit in Teil B nicht anders angegeben.
 
-bb)  
-Eine Funktionsbeeinträchtigung kann sich auf eine andere besonders nachteilig auswirken. Dies ist vor allem der Fall, wenn Funktionsbeeinträchtigungen an paarigen Gliedmaßen oder Organen - also z. B. an beiden Armen oder beiden Beinen oder beiden Nieren oder beiden Augen - vorliegen.
+3. Bildung des GdB bei Vorliegen mehrerer Gesundheitsstörungen
 
-cc) Die Auswirkungen von Funktionsbeeinträchtigungen können sich überschneiden.
+3.1 Der GdB als Maß für die Teilhabebeeinträchtigung soll zuerst für die in Teil B genannten Funktionssysteme ermittelt werden. Liegen mehrere Gesundheitsstörungen in einem Funktionssystem vor, ist der GdB für das Funktionssystem in seiner Gesamtheit zu ermitteln. Hierbei gelten die Regelungen für die Bildung des Gesamt-GdB entsprechend.
 
-dd)  
-Die Auswirkungen einer Funktionsbeeinträchtigung werden durch eine hinzutretende Gesundheitsstörung nicht verstärkt.
+3.2 Liegen Beeinträchtigungen der Teilhabe aufgrund der Störung mehrerer Funktionssysteme vor, geht die im GdB für das Funktionssystem in seiner Gesamtheit ermittelte Teilhabebeeinträchtigung in den Gesamt-GdB ein. Dabei ist von der Teilhabebeeinträchtigung auszugehen, die den höchsten Einzel-GdB bedingt. Unter Berücksichtigung ihrer wechselseitigen Beziehungen zueinander ist zu prüfen, ob und inwieweit die aus einer weiteren Gesundheitsstörung folgende Teilhabebeeinträchtigung das Ausmaß der Gesamtbeeinträchtigung wesentlich verstärkt, also eine Erhöhung des Gesamt-GdB um mindestens 10 bewirkt. Berechnungsmethoden wie zum Beispiel Addition oder Mittelung sind nicht zulässig.
 
-ee)  
-Von Ausnahmefällen (z. B. hochgradige Schwerhörigkeit eines Ohres bei schwerer beidseitiger Einschränkung der Sehfähigkeit) abgesehen, führen zusätzliche leichte Gesundheitsstörungen, die nur einen GdS von 10 bedingen, nicht zu einer Zunahme des Ausmaßes der Gesamtbeeinträchtigung, auch nicht, wenn mehrere derartige leichte Gesundheitsstörungen nebeneinander bestehen. Auch bei leichten Funktionsbeeinträchtigungen mit einem GdS von 20 ist es vielfach nicht gerechtfertigt, auf eine wesentliche Zunahme des Ausmaßes der Behinderung zu schließen.
+3.3 Um das Ausmaß der Gesamtbeeinträchtigung der Teilhabe zu beurteilen, muss aus der gutachterlichen Gesamtschau heraus beachtet werden, dass verschiedene Funktionsbeeinträchtigungen sich wechselseitig in unterschiedlicher Weise beeinflussen können:
+
+3.3.1 Eine Funktionsbeeinträchtigung kann sich auf eine andere besonders nachteilig auswirken. Dies hat in der Regel eine erhöhte Teilhabebeeinträchtigung zur Folge.
+
+3.3.2 Die Auswirkungen der einzelnen Funktionsbeeinträchtigungen können voneinander unabhängig sein und damit ganz verschiedene Bereiche des täglichen Lebens betreffen. Dies hat häufig eine erhöhte Teilhabebeeinträchtigung zur Folge.
+
+3.3.3 Die Auswirkungen von Funktionsbeeinträchtigungen können sich teilweise überschneiden. Dies kann eine erhöhte Teilhabebeeinträchtigung zur Folge haben.
+
+3.3.4 Die Auswirkungen von Funktionsbeeinträchtigungen können sich vollständig überschneiden. Dies hat in der Regel keine erhöhte Teilhabebeeinträchtigung zur Folge.
+
+3.4 Die in Teil B genannten Werte sind bei der Bildung des Gesamt-GdB als Vergleich heranzuziehen.
+
+3.5 Von Ausnahmefällen abgesehen, führen zusätzliche leichte Funktionsbeeinträchtigungen, die nur einen GdB von 10 bedingen, nicht zu einer Zunahme des Ausmaßes der Gesamtbeeinträchtigung, auch dann nicht, wenn mehrere derartige leichte Funktionsbeeinträchtigungen nebeneinander bestehen. Auch bei leichten Funktionsbeeinträchtigungen mit einem GdB von 20 ist es vielfach nicht gerechtfertigt, auf eine wesentliche Zunahme des Ausmaßes der Teilhabebeeinträchtigung zu schließen. Dies ist jedoch in jedem Fall zu prüfen.
 
 4\.
 
@@ -241,15 +247,7 @@ c) Bei Beurteilungen im sozialen Entschädigungsrecht ist bei einer Zunahme des 
 
 1\.
 
-Allgemeine Hinweise zur GdS-Tabelle
-
-a) Die nachstehend genannten GdS sind Anhaltswerte. Es ist unerlässlich, alle die Teilhabe beeinträchtigenden körperlichen, geistigen und seelischen Störungen im Einzelfall zu berücksichtigen. Die Beurteilungsspannen tragen den Besonderheiten des Einzelfalles Rechnung.
-
-b) Bei Gesundheitsstörungen, die in der Tabelle nicht aufgeführt sind, ist der GdS in Analogie zu vergleichbaren Gesundheitsstörungen zu beurteilen.
-
-c) Eine Heilungsbewährung ist abzuwarten nach Transplantationen innerer Organe und nach der Behandlung von Krankheiten, bei denen dies in der Tabelle vorgegeben ist. Dazu gehören vor allen bösartige Geschwulstkrankheiten. Für die häufigsten und wichtigsten solcher Krankheiten sind im Folgenden Anhaltswerte für den GdS angegeben. Sie sind auf den Zustand nach operativer oder anderweitiger Beseitigung der Geschwulst bezogen. Der Zeitraum des Abwartens einer Heilungsbewährung beträgt in der Regel fünf Jahre; kürzere Zeiträume werden in der Tabelle vermerkt. Maßgeblicher Bezugspunkt für den Beginn der Heilungsbewährung ist der Zeitpunkt, an dem die Geschwulst durch Operation oder andere Primärtherapie als beseitigt angesehen werden kann; eine zusätzliche adjuvante Therapie hat keinen Einfluss auf den Beginn der Heilungsbewährung. Der aufgeführte GdS bezieht den regelhaft verbleibenden Organ- oder Gliedmaßenschaden ein. Außergewöhnliche Folgen oder Begleiterscheinungen der Behandlung - z.B. lang dauernde schwere Auswirkungen einer wiederholten Chemotherapie - sind zu berücksichtigen. Bei den im Folgenden nicht genannten malignen Geschwulstkrankheiten ist von folgenden Grundsätzen auszugehen: Bis zum Ablauf der Heilungsbewährung - in der Regel bis zum Ablauf des fünften Jahres nach der Geschwulstbeseitigung - ist in den Fällen, in denen der verbliebene Organ- oder Gliedmaßenschaden für sich allein keinen GdS von wenigstens 50 bedingt, im allgemeinen nach Geschwulstbeseitigung im Frühstadium ein GdS von 50 und nach Geschwulstbeseitigung in höheren Stadien ein GdS von 80 angemessen. Bedingen der verbliebene Körperschaden oder die Therapiefolgen einen GdS von 50 oder mehr, ist der bis zum Ablauf der Heilungsbewährung anzusetzende GdS entsprechend höher zu bewerten.
-
-d) Ein Carcinoma in situ (Cis) rechtfertigt grundsätzlich kein Abwarten einer Heilungsbewährung. Ausgenommen hiervon sind das Carcinoma in situ der Harnblase und das Carcinoma in situ der Brustdrüse (intraduktales und lobuläres Carcinoma in situ), bei denen wegen klinischer Besonderheiten bei Vorliegen o. g. Voraussetzungen das Abwarten einer Heilungsbewährung begründet ist.
+(weggefallen)
 
 2\.
 

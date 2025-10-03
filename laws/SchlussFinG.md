@@ -7,7 +7,7 @@ Es wird ein Sondervermögen des Bundes unter der Bezeichnung „Vorsorge für Sc
 
 # § 2 – Zweck des Sondervermögens
 
-Mit der Errichtung des Sondervermögens soll durch Zuführung von Mitteln aus dem Bundeshaushalt Vorsorge für die Inflationsentwicklung während der Laufzeit von inflationsindexierten Bundeswertpapieren getroffen werden. Bei Fälligkeit eines inflationsindexierten Bundeswertpapiers soll aus dem Sondervermögen der Betrag gezahlt werden, um den der Rückzahlungsbetrag den Gesamtnennbetrag übersteigt. Dieser Betrag wird nachfolgend als Schlusszahlung bezeichnet.
+Mit der Errichtung des Sondervermögens soll durch Zuführung von Mitteln aus dem Bundeshaushalt Vorsorge für die Inflationsentwicklung während der Laufzeit von inflationsindexierten Bundeswertpapieren getroffen werden. Bei Fälligkeit eines inflationsindexierten Bundeswertpapiers wird aus dem Sondervermögen derjenige Betrag gezahlt, um den der Rückzahlungsbetrag für die nicht im Eigenbestand des Bundes befindlichen Anteile des Papiers den entsprechenden Nennwert übersteigt. Dieser Betrag wird nachfolgend als Schlusszahlung bezeichnet.
 
 # § 3 – Stellung im Rechtsverkehr
 
@@ -15,11 +15,11 @@ Das Sondervermögen ist nicht rechtsfähig. Das Bundesministerium der Finanzen v
 
 # § 4 – Zuführung der Mittel
 
-(1) Vom Zeitpunkt der Errichtung des Sondervermögens an ist diesem für jedes umlaufende inflationsindexierte Bundeswertpapier jährlich jeweils zum Kupontermin der Betrag zuzuführen, um den sich die Schlusszahlung aufgrund der seit dem Kupontermin des letzten Jahres festgestellten Inflationsentwicklung erhöht hat. Die Inflationsentwicklung und die sich hieraus ergebende Schlusszahlung wird nach den vom Bundesministerium der Finanzen veröffentlichten Emissions- und Anleihebedingungen des jeweiligen inflationsindexierten Bundeswertpapiers festgestellt.
+(1) Für jedes inflationsindexierte Bundeswertpapier ist dem Sondervermögen jährlich jeweils zum Kupontermin derjenige Betrag zuzuführen, um den sich die Schlusszahlung aufgrund der seit dem Kupontermin des letzten Jahres festgestellten Inflationsentwicklung erhöht hat. Die Inflationsentwicklung und die sich hieraus ergebende Schlusszahlung wird nach den vom Bundesministerium der Finanzen veröffentlichten Emissions- und Anleihebedingungen des jeweiligen inflationsindexierten Bundeswertpapiers festgestellt.
 
-(2) Erhöht sich die Schlusszahlung nach Errichtung des Sondervermögens durch Aufstockung eines inflationsindexierten Bundeswertpapiers, so ist dem Sondervermögen die hierdurch bis zum letzten Kupontermin aufgelaufene zusätzliche Schlusszahlung unverzüglich zuzuführen.
+(2) Verändert sich die Schlusszahlung eines inflationsindexierten Bundeswertpapiers durch Aufstockung, durch Verkäufe aus dem Eigenbestand oder durch Rückkäufe in den Eigenbestand des Bundes, so sind die bis zum letzten Kupontermin entstandenen Veränderungen der Schlusszahlung im selben Haushaltsjahr durch Zuführung von Mitteln an das Sondervermögen beziehungsweise durch Entnahme von Mitteln des Sondervermögens auszugleichen. Die Entnahmen sind dem Bundeshaushalt und den an der Finanzierung über inflationsindexierte Bundeswertpapiere beteiligten Sondervermögen mit eigener Kreditermächtigung zuzuführen.
 
-(3) Für jedes zum Zeitpunkt der Errichtung des Sondervermögens umlaufende inflationsindexierte Bundeswertpapier ist dem Sondervermögen die bis zum Kupontermin im Jahr 2009 aufgelaufene Schlusszahlung im Jahr 2009 zuzuführen.
+(3) Im Haushaltsjahr 2026 sind die dem Sondervermögen seit dem Jahr 2009 bis zum Kupontermin 15. April 2026 zugeführten Mittel, die auf die im Eigenbestand des Bundes befindlichen Anteile inflationsindexierter Bundeswertpapiere entfallen, dem Sondervermögen zu entnehmen und dem Bund und dem Bundeshaushalt und den an der Finanzierung über inflationsindexierte Bundeswertpapiere beteiligten Sondervermögen mit eigener Kreditermächtigung zuzuführen.
 
 # § 5 – Haushalt
 

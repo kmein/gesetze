@@ -15,7 +15,7 @@ Es wird zum 1. Januar 2011 ein Sondervermögen des Bundes mit der Bezeichnung �
 
 2. Ausgleichszahlungen an Betreiber geleistet werden, die eines oder mehrere der von ihnen betriebenen Kohlekraftwerke stilllegen, oder
 
-3. Ausgleichszahlungen geleistet werden, um beim Strompreis zu entlasten.
+3. Ausgleichszahlungen geleistet werden, um beim Strompreis und beim Gaspreis zu entlasten.
 
 (3) Programmausgaben im Sinne des Absatzes 1 Satz 1 sind zusätzlich, wenn sie nicht bereits im Bundeshaushalt oder in der Finanzplanung des Bundes berücksichtigt sind.
 
@@ -49,9 +49,11 @@ Die dem Sondervermögen mit dem Zweiten Nachtragshaushaltsgesetz 2021 vom 18. Fe
 
 3. Einnahmen aus der Auszahlung der bei der Kreditanstalt für Wiederaufbau treuhänderisch verwalteten Mittel für etwaige Ausfälle im Zusammenhang mit Förderprogrammen, die aus Mitteln des Sondervermögens finanziert werden,
 
-4. sonstige Einnahmen aus der Verzinsung von Mitteln des Sondervermögens und aus Rückflüssen aus den geförderten Maßnahmen und
+4. sonstige Einnahmen aus der Verzinsung von Mitteln des Sondervermögens und aus Rückflüssen aus den geförderten Maßnahmen,
 
-5. Zuführungen aus dem Bundeshaushalt nach Maßgabe der Absätze 3 und 4.
+5. Zuführungen aus dem Bundeshaushalt nach Maßgabe der Absätze 3 und 4 sowie
+
+6. Zuführungen aus dem Sondervermögen nach Artikel 143h Absatz 1 Satz 5 des Grundgesetzes nach Maßgabe des Wirtschaftsplans dieses Sondervermögens.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Einzelheiten zu den Einnahmen nach Absatz 1 Nummer 1 und 2 zu regeln.
 
