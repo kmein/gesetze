@@ -2143,7 +2143,7 @@
 - [FinAusglG2015DV 2](laws/FinAusglG2015DV_2.md) Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2015
 - [FinAusglG2016DV 2](laws/FinAusglG2016DV_2.md) Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2016
 - [FinAusglG2017DV 2](laws/FinAusglG2017DV_2.md) Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2017
-- [FinAusglG2018DV 1](laws/FinAusglG2018DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2018
+- [FinAusglG2018DV 2](laws/FinAusglG2018DV_2.md) Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2018
 - [FinAusglG2019DV 1](laws/FinAusglG2019DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2019
 - [FinAusglG2020DV 1](laws/FinAusglG2020DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2020
 - [FinAusglG2021DV 1](laws/FinAusglG2021DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2021
