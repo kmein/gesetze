@@ -482,6 +482,7 @@
 - [BaslÜbkG](laws/BaslÜbkG.md) Gesetz zu dem Basler Übereinkommen vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung
 - [BASPOErmV](laws/BASPOErmV.md) Verordnung zur Ermächtigung zum Erlass von Prüfungsordnungen durch das Bundesamt für Soziale Sicherung
 - [BAStrlSchG](laws/BAStrlSchG.md) Gesetz über die Errichtung eines Bundesamtes für Strahlenschutz
+- [BattDG](laws/BattDG.md) Gesetz zur Durchführung der Verordnung (EU) 2023/1542 betreffend Batterien und Altbatterien
 - [BattG](laws/BattG.md) Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Batterien und Akkumulatoren
 - [BATZV](laws/BATZV.md) Verordnung über die Altersteilzeit von Beamtinnen und Beamten des Bundes
 - [BauBetrTrSchallWdkanalVbg](laws/BauBetrTrSchallWdkanalVbg.md) Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland, der Regierung der Französischen Republik, der Regierung des Königreichs der Niederlande und der Regierung des Vereinigten Königreichs Großbritannien und Nordirland über den gemeinsamen Bau und den gemeinsamen Betrieb des Europäischen Transschall-Windkanals
@@ -1752,7 +1753,7 @@
 - [ElekMaschBHwOAusbV](laws/ElekMaschBHwOAusbV.md) Verordnung über die Berufsausbildung zum Elektroniker für Maschinen und Antriebstechnik nach der Handwerksordnung und zur Elektronikerin für Maschinen und Antriebstechnik nach der Handwerksordnung*
 - [ElekMeistPrV 2004](laws/ElekMeistPrV_2004.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Elektrotechnik
 - [ElektroG](laws/ElektroG.md) Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Elektro- und Elektronikgeräten
-- [ElektroGBattGGebV](laws/ElektroGBattGGebV.md) Gebührenverordnung zum Elektro- und Elektronikgerätegesetz und zum Batteriegesetz
+- [ElektroGBattDGGebV](laws/ElektroGBattDGGebV.md) Gebührenverordnung zum Elektro- und Elektronikgerätegesetz und zum Batterierecht-Durchführungsgesetz
 - [ElektroMbMstrV](laws/ElektroMbMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Elektromaschinenbauer-Handwerk
 - [ElektroStoffV](laws/ElektroStoffV.md) Verordnung zur Beschränkung der Verwendung gefährlicher Stoffe in Elektro- und Elektronikgeräten 1 , 2
 - [ElektroTechMstrV](laws/ElektroTechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Elektrotechniker-Handwerk

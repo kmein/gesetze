@@ -3,15 +3,15 @@
  
 # § 1 – Errichtung, Zweck und Sitz des Bundesamts
 
-(1) Der Bund errichtet das Bundesamt für Justiz (Bundesamt) als Bundesoberbehörde. Es untersteht dem Bundesministerium der Justiz. Zweck der Errichtung des Bundesamts ist die Neuorganisation der Bundesjustizverwaltung durch Schaffung einer zentralen Dienstleistungsbehörde.
+(1) Der Bund errichtet das Bundesamt für Justiz (Bundesamt) als Bundesoberbehörde. Es untersteht dem Bundesministerium der Justiz und für Verbraucherschutz. Zweck der Errichtung des Bundesamts ist die Neuorganisation der Bundesjustizverwaltung durch Schaffung einer zentralen Dienstleistungsbehörde.
 
 (2) Das Bundesamt hat seinen Sitz in Bonn.
 
 # § 2 – Aufgaben des Bundesamts
 
-(1) Das Bundesamt nimmt Aufgaben des Bundes auf den Gebieten des Registerwesens, des internationalen Rechtsverkehrs, der Verfolgung und Ahndung von Ordnungswidrigkeiten und der allgemeinen Justizverwaltung wahr, die ihm durch dieses Gesetz oder andere Bundesgesetze oder auf Grund dieser Gesetze zugewiesen werden.
+(1) Das Bundesamt nimmt Aufgaben des Bundes auf den Gebieten des Registerwesens, des internationalen Rechtsverkehrs, der Verfolgung und Ahndung von Ordnungswidrigkeiten, der allgemeinen Justizverwaltung und des Verbraucherschutzes wahr, die ihm durch dieses Gesetz oder andere Bundesgesetze oder auf Grund dieser Gesetze zugewiesen werden.
 
-(2) Das Bundesamt unterstützt das Bundesministerium der Justiz bei der
+(2) Das Bundesamt unterstützt das Bundesministerium der Justiz und für Verbraucherschutz bei der
 
 1. Durchführung der Verkündungen und Bekanntmachungen,
 
@@ -29,15 +29,17 @@ d) als Vermögensabschöpfungsstelle; § 9 Absatz 6 des Bundeskriminalamtgesetze
 
 e) in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
 
-4. Durchführung der Justizforschung, der kriminologischen Forschung und auf dem Gebiet der Kriminalprävention.
+4. Durchführung der Justizforschung, der kriminologischen Forschung und auf dem Gebiet der Kriminalprävention,
 
-(3) Das Bundesamt erledigt weitere Aufgaben des Bundes, die mit den in den Absätzen 1 und 2 genannten Gebieten zusammenhängen und mit deren Durchführung es vom Bundesministerium der Justiz oder mit dessen Zustimmung von der fachlich zuständigen Bundesbehörde beauftragt wird.
+5. Wahrnehmung der Aufgaben des Verbraucherschutzes, insbesondere bei der Verbraucherrechtsdurchsetzung
+
+(3) Das Bundesamt erledigt weitere Aufgaben des Bundes, die mit den in den Absätzen 1 und 2 genannten Gebieten zusammenhängen und mit deren Durchführung es vom Bundesministerium der Justiz und für Verbraucherschutz oder mit dessen Zustimmung von der fachlich zuständigen Bundesbehörde beauftragt wird.
 
 (4) Erfolgt die Aufgabenwahrnehmung nach den Absätzen 1 bis 3 mit elektronischer Unterstützung, gelten die §§ 4 bis 7, soweit nicht Rechtsvorschriften des Bundes inhaltsgleiche oder entgegenstehende Bestimmungen enthalten.
 
 # § 3 – Fachaufsicht
 
-Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums der Justiz wahrnimmt, untersteht es der Fachaufsicht der zuständigen obersten Bundesbehörde.
+Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministerium der Justiz und für Verbraucherschutz wahrnimmt, untersteht es der Fachaufsicht der zuständigen obersten Bundesbehörde.
 
 # § 4 – Elektronische Aktenführung; Gewährung von Akteneinsicht
 
@@ -87,7 +89,7 @@ De-Mail-Gesetzes bestätigen lässt,
 
 # § 7 – Verordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz kann, um die elektronische Aktenführung und die Digitalisierung von Dokumenten beim Bundesamt sowie die elektronische Kommunikation mit dem Bundesamt näher auszugestalten, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz kann, um die elektronische Aktenführung und die Digitalisierung von Dokumenten beim Bundesamt sowie die elektronische Kommunikation mit dem Bundesamt näher auszugestalten, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
 1. Bestimmungen zur elektronischen Aktenführung nach § 4 Absatz 1 und 2 treffen,
 
@@ -107,4 +109,4 @@ c) bestimmen, dass für sämtliche oder einzelne elektronische Formulare eine Id
 
 6. Regelungen zur Erteilung von Abschriften und beglaubigten Abschriften treffen.
 
-(2) Das Bundesministerium der Justiz kann die Ermächtigungen des Absatzes 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt übertragen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz kann die Ermächtigungen des Absatzes 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt übertragen.

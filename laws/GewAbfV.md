@@ -41,7 +41,7 @@ verordnet die Bundesregierung:
 
 1. dem Elektro- und Elektronikgerätegesetz vom 20. Oktober 2015 (BGBl. I S. 1739), das zuletzt durch Artikel 2 des Gesetzes vom 27. März 2017 (BGBl. I S. 567) geändert worden ist, in der jeweils geltenden Fassung unterliegen,
 
-2. dem Batteriegesetz vom 25. Juni 2009 (BGBl. I S. 1582), das zuletzt durch Artikel 1 des Gesetzes vom 20. November 2015 (BGBl. I S. 2071) geändert worden ist, in der jeweils geltenden Fassung unterliegen, oder
+2. der Verordnung (EU) 2023/1542 und dem Batterierecht-Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233) unterliegen oder
 
 3. einem öffentlich-rechtlichen Entsorgungsträger im Rahmen der Überlassungspflicht nach § 17 Absatz 1 Satz 2 und 3 des Kreislaufwirtschaftsgesetzes überlassen worden sind.
 

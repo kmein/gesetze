@@ -621,7 +621,7 @@ r) die Bußgeldvorschriften,
 
 a) das Elektro- und Elektronikgerätegesetz,
 
-b) das Batteriegesetz und
+b) Kapitel VIII der Verordnung (EU) 2023/1542 in der Fassung vom 12. Juli 2023 sowie das Batterierecht-Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233) und
 
 c) das Verpackungsgesetz,
 
