@@ -41,25 +41,17 @@ e) Hersteller, die Elektro- und Elektronikaltgeräte gemäß § 19 des Elektro- 
 
 f) Vertreiber, die Elektro- und Elektronikaltgeräte gemäß § 17 Absatz 1 oder Absatz 2 des Elektro- und Elektronikgerätegesetzes zurücknehmen,
 
-g) Vertreiber, die pro Kalenderjahr mehr als 20 Tonnen Elektro- und Elektronikaltgeräte gemäß § 17 Absatz 3 des Elektro- und Elektronikgerätegesetzes freiwillig zurücknehmen,
+g) Vertreiber, die pro Kalenderjahr mehr als 20 Tonnen Elektro- und Elektronikaltgeräte gemäß § 17 Absatz 3 des Elektro- und Elektronikgerätegesetzes freiwillig zurücknehmen, sowie
 
-h) Hersteller von Fahrzeug- und Industriebatterien, die Fahrzeug- und Industrie-Altbatterien gemäß § 8 des Batteriegesetzes vom 25. Juni 2009 (BGBl. I S. 1582), das zuletzt durch Artikel 1 des Gesetzes vom 20. November 2015 (BGBl. I S. 2071) geändert worden ist, in der jeweils geltenden Fassung zurücknehmen, es sei denn, sie sind einem freiwilligen System für die Rücknahme von Fahrzeug- und Industrie-Altbatterien angeschlossen, das selbst über einen Abfallbeauftragten verfügt,
-
-i) Vertreiber, die Fahrzeug- und Industrie-Altbatterien gemäß § 9 des Batteriegesetzes zurücknehmen, es sei denn, sie sind einem freiwilligen System für die Rücknahme von Fahrzeug- und Industrie-Altbatterien angeschlossen, das selbst über einen Abfallbeauftragten verfügt sowie
-
-j) Hersteller und Vertreiber, die mehr als 2 Tonnen gefährliche Abfälle oder mehr als 100 Tonnen nicht gefährliche Abfälle pro Kalenderjahr freiwillig zurücknehmen,
+h) Hersteller und Vertreiber, die mehr als 2 Tonnen gefährliche Abfälle oder mehr als 100 Tonnen nicht gefährliche Abfälle pro Kalenderjahr freiwillig zurücknehmen,
 
 3. Betreiber folgender Rücknahmesysteme:
 
-a) Systeme, die Verpackungen gemäß § 14 Absatz 1 des Verpackungsgesetzes zurücknehmen,
+a) Systeme, die Verpackungen gemäß § 14 Absatz 1 des Verpackungsgesetzes zurücknehmen, sowie
 
-b) herstellereigene Rücknahmesysteme, die Elektro- und Elektronikaltgeräte gemäß § 16 Absatz 5 des Elektro- und Elektronikgerätegesetzes zurücknehmen,
+b) herstellereigene Rücknahmesysteme, die Elektro- und Elektronik-Altgeräte gemäß § 16 Absatz 5 des Elektro- und Elektronikgerätegesetzes zurücknehmen.
 
-c) das Gemeinsame Rücknahmesystem, das Geräte-Altbatterien gemäß § 6 des Batteriegesetzes zurücknimmt,
-
-d) herstellereigene Rücknahmesysteme, die Geräte-Altbatterien gemäß § 7 des Batteriegesetzes zurücknehmen sowie
-
-e) Systeme, die Fahrzeug- oder Industrie-Altbatterien freiwillig zurücknehmen.
+4. Betreiber von Organisationen für Herstellerverantwortung gemäß § 8 des Batterierecht-Durchführungsgesetzes vom 30. September 2025 (BGBl. 2025 I Nr. 233).
 
 # § 3 – Mehrere Abfallbeauftragte
 
@@ -213,7 +205,7 @@ q) die Bußgeldvorschriften,
 
 a) das Elektro- und Elektronikgerätegesetz,
 
-b) das Batteriegesetz und
+b) Kapitel VIII der Verordnung (EU) 2023/1542 und das Batterierecht-Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233)
 
 c) das Verpackungsgesetz,
 

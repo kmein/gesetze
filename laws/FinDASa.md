@@ -162,7 +162,7 @@ Darüber hinaus soll sich der Fachbeirat aus drei Mitgliedern der Wissenschaft, 
 
 # § 8a – Verbraucherbeirat
 
-(1) Die zwölf Mitglieder des Verbraucherbeirats werden von der Bundesanstalt im Einvernehmen mit dem Bundesministerium und im Benehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz aus den in § 8a Absatz 2 Satz 3 des Finanzdienstleistungsaufsichtsgesetzes genannten Gruppen bestellt. Die Mitglieder sollen über besondere berufliche Erfahrung und Kenntnisse auf dem Gebiet des finanziellen Verbraucherschutzes verfügen, jedoch nicht der Bundesanstalt angehören. Eine gleichzeitige Mitgliedschaft in anderen Beiräten der Bundesanstalt ist möglich.
+(1) Die zwölf Mitglieder des Verbraucherbeirats werden von der Bundesanstalt im Einvernehmen mit dem Bundesministerium und im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz aus den in § 8a Absatz 2 Satz 3 des Finanzdienstleistungsaufsichtsgesetzes genannten Gruppen bestellt. Die Mitglieder sollen über besondere berufliche Erfahrung und Kenntnisse auf dem Gebiet des finanziellen Verbraucherschutzes verfügen, jedoch nicht der Bundesanstalt angehören. Eine gleichzeitige Mitgliedschaft in anderen Beiräten der Bundesanstalt ist möglich.
 
 (2) Der Präsident oder die Präsidentin der Bundesanstalt unterrichtet den Verbraucherbeirat regelmäßig, mindestens einmal jährlich, in einem Bericht über aktuelle Themen des Verbraucher- und Anlegerschutzes bei Finanzdienstleistungen.
 

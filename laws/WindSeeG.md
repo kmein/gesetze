@@ -887,7 +887,8 @@ Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer 1 we
 (4) Für Ausschreibungen im Jahr 2023 leistet der bezuschlagte Bieter innerhalb von zwölf Monaten nach Erteilung des Zuschlags abweichend von Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3 eine Zahlung von 3,125 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Meeresnaturschutzkomponente, eine Zahlung von 1 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Fischereikomponente und eine Zahlung in Höhe von 5,875 Prozent des Gebots nach § 53 Absatz 1 Satz 1 Nummer 1 als Transformationskomponente an den Bundeshaushalt.
 
 (+++ § 58 Abs. 1: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 2 +++)  
-(+++ § 58 Abs. 2: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 3 +++)
+(+++ § 58 Abs. 2: Zur Geltung vgl. § 23 Abs. 1 Satz 1 Nr. 3 +++)  
+(+++ § 58 Abs. 3: Zur Geltung vgl. § 23 Abs. 1 Satz 3 +++)
 
 # § 59 – Stromkostensenkungskomponente
 
