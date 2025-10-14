@@ -4293,6 +4293,18 @@ c) der Mitteilungen nach § 19a Absatz 1,
 
 3. jeweils die Gültigkeitsdauer oder die Dauer des geplanten Aufenthalts.
 
+# § 91h – Datenübermittlung zur Durchführung der Verordnung (EU) 2017/2226
+
+(1) Erwirbt ein Drittstaatsangehöriger, dessen Daten im Einreise-/Ausreisesystem nach der Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Außengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011 (ABl. L 327 vom 9.12.2017, S. 20; L 258 vom 15.10.2018, S. 5), die zuletzt durch die Verordnung (EU) 2021/1152 (ABl. L 249 vom 14.7.2021, S. 15) geändert worden ist, gespeichert sind, die deutsche Staatsangehörigkeit oder wird deren Bestehen festgestellt und erlangt die Ausländerbehörde hiervon Kenntnis, teilt die Ausländerbehörde dies unverzüglich dem Bundesverwaltungsamt als nationale EES-Behörde zum Zwecke der vorzeitigen Löschung nach Artikel 35 Absatz 6 der Verordnung (EU) 2017/2226 mit.
+
+(2) Erteilt die Ausländerbehörde einem Drittstaatsangehörigen im Sinne des Absatzes 1 einen Aufenthaltstitel, teilt die Ausländerbehörde dies unverzüglich dem Bundesverwaltungsamt als nationale EES-Behörde zum Zwecke der vorzeitigen Löschung nach Artikel 35 Absatz 6 der Verordnung (EU) 2017/2226 mit.
+
+(3) Erteilt das Auswärtige Amt, eine Auslandsvertretung oder das Bundesamt für Auswärtige Angelegenheiten einem Drittstaatsangehörigen ein Visum für einen längerfristigen Aufenthalt, teilt das Auswärtige Amt, die Auslandsvertretung oder das Bundesamt für Auswärtige Angelegenheiten dies unverzüglich dem Bundesverwaltungsamt als nationale EES-Behörde über die in § 21 des AZR-Gesetzes genannte Organisationseinheit im Bundesverwaltungsamt zum Zwecke der vorzeitigen Löschung nach Artikel 35 Absatz 6 der Verordnung (EU) 2017/2226 mit.
+
+(4) Erwirbt ein Drittstaatsangehöriger, der seinen gewöhnlichen Aufenthalt im Ausland hat, die deutsche Staatsangehörigkeit oder wird deren Bestehen festgestellt, teilt die Staatsangehörigkeitsbehörde dies unverzüglich dem Bundesverwaltungsamt als nationale EES-Behörde zum Zwecke der vorzeitigen Löschung nach Artikel 35 Absatz 6 der Verordnung (EU) 2017/2226 mit, sofern nicht einer der vorstehenden Absätze anwendbar ist. Stellt das Bundesverwaltungsamt als Vertriebenenbehörde eine Bescheinigung nach § 15 Absatz 1 oder 2 des Bundesvertriebenengesetzes aus, teilt sie dies unverzüglich dem Bundesverwaltungsamt als nationale EES-Behörde zum Zwecke der vorzeitigen Löschung nach Artikel 35 Absatz 6 der Verordnung (EU) 2017/2226 mit, sofern nicht einer der vorstehenden Absätze anwendbar ist.
+
+(5) Die Übermittlungen nach den Absätzen 1 bis 4 können automatisiert durchgeführt werden.
+
 # § 92 – Amt der Beauftragten
 
 (1) Die Bundesregierung bestellt eine Beauftragte oder einen Beauftragten für Migration, Flüchtlinge und Integration.

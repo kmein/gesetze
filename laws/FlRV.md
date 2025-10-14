@@ -115,8 +115,6 @@ zu stellen.
 
 (2) Absatz 1 gilt entsprechend für den Verzicht des Berechtigten auf die Befugnis.
 
-(3)
-
 # § 8
 
 (1) In dem Antrag sind der Name, in den Fällen des § 10 des Flaggenrechtsgesetzes die Baunummer des Schiffes sowie die in § 3 Abs. 1 Nr. 3, 4, 6 und 7 genannten Daten anzugeben.

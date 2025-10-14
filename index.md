@@ -578,6 +578,7 @@
 - [BBiG§84AnO 9](laws/BBiG§84AnO_9.md) Anordnung über die Bestimmung der zuständigen Stelle nach § 84 des Berufsbildungsgesetzes
 - [BBiMindVergFBek 2024](laws/BBiMindVergFBek_2024.md) Bekanntmachung zur Fortschreibung der Höhe der Mindestvergütung für Berufsausbildungen nach dem Berufsbildungsgesetz (2024)
 - [BBiMindVergFBek 2025](laws/BBiMindVergFBek_2025.md) Bekanntmachung zur Fortschreibung der Höhe der Mindestvergütung für Berufsausbildungen nach dem Berufsbildungsgesetz (2025)
+- [BBiMindVergFBek 2026](laws/BBiMindVergFBek_2026.md) Bekanntmachung zur Fortschreibung der Höhe der Mindestvergütung für Berufsausbildungen nach dem Berufsbildungsgesetz (2026)
 - [BBKG](laws/BBKG.md) Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
 - [BBodSchG](laws/BBodSchG.md) Gesetz zum Schutz vor schädlichen Bodenveränderungen und zur Sanierung von Altlasten
 - [BBodSchV](laws/BBodSchV.md) Bundes-Bodenschutz- und Altlastenverordnung
@@ -1253,6 +1254,7 @@
 - [BTGO1980Anl6Bek 2014](laws/BTGO1980Anl6Bek_2014.md) Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten
 - [BTGO1980Anl6Bek 2018](laws/BTGO1980Anl6Bek_2018.md) Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten
 - [BTGO1980Anl6Bek 2022](laws/BTGO1980Anl6Bek_2022.md) Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten
+- [BTGO1980Anl6Bek 2025](laws/BTGO1980Anl6Bek_2025.md) Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten
 - [BTGO1980Bes](laws/BTGO1980Bes.md) Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages (Anlage 6 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
 - [BTGO1980ÜbernBek](laws/BTGO1980ÜbernBek.md) Bekanntmachung zur Übernahme der Geschäftsordnung des Deutschen Bundestages
 - [BTHausO 2025](laws/BTHausO_2025.md) Hausordnung des Deutschen Bundestages
@@ -1660,6 +1662,7 @@
 - [EEMD-ZV](laws/EEMD-ZV.md) Verordnung über die Zulassung von Anbietern mautdienstbezogener Leistungen für das EETS-Gebiet Bundesfernstraßenmautgesetz
 - [EEMD-ZVAnl I](laws/EEMD-ZVAnl_I.md) Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen
 - [EEMD-ZVAnl II](laws/EEMD-ZVAnl_II.md) Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes
+- [EESDG](laws/EESDG.md) Gesetz zur Durchführung des Einreise-/Ausreisesystems nach der Verordnung (EU) 2017/2226
 - [EEV](laws/EEV.md) Verordnung zur Durchführung des Erneuerbare-Energien-Gesetzes und des Windenergie-auf-See-Gesetzes
 - [EF-VO](laws/EF-VO.md) Verordnung über die Einfuhrabgabenfreiheit von Waren im persönlichen Gepäck von Reisenden *)
 - [EfbV](laws/EfbV.md) Verordnung über Entsorgungsfachbetriebe, technische Überwachungsorganisationen und Entsorgergemeinschaften

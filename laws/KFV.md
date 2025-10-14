@@ -25,7 +25,7 @@ b) mindestens 120 Tagen nachweisen, sofern zusätzlich eine als Mitglied einer D
 
 Die Voraussetzungen nach § 39 Absatz 1 Nummer 1 bis 3 der Binnenschiffspersonalverordnung sind zu erfüllen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V. v. 22.7.2025 I Nr. 178 +++)
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 22.7.2025 I Nr. 178 +++)
 
 # § 3 – Abweichende Regelungen zur behördlichen Befähigungsprüfung zum Erwerb des Kleinschifferzeugnisses
 

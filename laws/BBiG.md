@@ -356,7 +356,9 @@ Die Höhe der Mindestvergütung nach Satz 1 Nummer 1 wird zum 1. Januar eines je
 (7) Eine über die vereinbarte regelmäßige tägliche Ausbildungszeit hinausgehende Beschäftigung ist besonders zu vergüten oder durch die Gewährung entsprechender Freizeit auszugleichen.
 
 (+++ § 17: Zur Anwendung in der bis zum Ablauf des 31.12.2019 geltenden Fassung vgl. § 106 Abs. 1 +++)  
-(+++ Hinweis: Mindestvergütung nach § 17 Abs. 2 Satz 5 für die Zeit ab 1.1.2025 vgl. Bek. v. 8.10.2024 I 305 +++)
+(+++ Hinweis: Mindestvergütung nach § 17 Abs. 2 Satz 1 für die Zeit ab 1.1.2024 vgl. Bek. v. 16.10.2023 I Nr. 279 +++)  
+(+++ Hinweis: Mindestvergütung nach § 17 Abs. 2 Satz 1 für die Zeit ab 1.1.2025 vgl. Bek. v. 8.10.2024 I Nr. 305 +++)  
+(+++ Hinweis: Mindestvergütung nach § 17 Abs. 2 Satz 1 für die Zeit ab 1.1.2026 vgl. Bek. v. 7.10.2025 I Nr. 235 +++)
 
 # § 18 – Bemessung und Fälligkeit der Vergütung
 

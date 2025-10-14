@@ -5982,6 +5982,8 @@ Die Vorschriften über die Beendigung von Verbraucherverträgen über digitale P
 
 (4) Absatz 1 Nr. 3, Absatz 2 und 3 Nr. 2 sind auch anzuwenden, wenn ein Mietverhältnis außerordentlich mit der gesetzlichen Frist gekündigt werden kann.
 
+(+++ Die Neubekanntmachung (Bek v. 2.1.2002 I 42) weicht von der dieser vorhergehenden letzten konsolidierten Fassung vom 19.6.2001 wie folgt ab: In Abs. 1 Nr. 3 und Abs. 2 steht jeweils anstelle von "Kalendervierteljahres" jetzt "Kalendervierteljahrs"+++)
+
 # § 581 – Vertragstypische Pflichten beim Pachtvertrag
 
 (1) Durch den Pachtvertrag wird der Verpächter verpflichtet, dem Pächter den Gebrauch des verpachteten Gegenstands und den Genuss der Früchte, soweit sie nach den Regeln einer ordnungsmäßigen Wirtschaft als Ertrag anzusehen sind, während der Pachtzeit zu gewähren. Der Pächter ist verpflichtet, dem Verpächter die vereinbarte Pacht zu entrichten.

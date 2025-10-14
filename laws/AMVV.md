@@ -73,7 +73,9 @@ b) die verschreibende Person es für medizinisch erforderlich hält; in diesem F
 
 8. Dosierung.
 
-(2) Ist die Verschreibung für den Praxisbedarf einer verschreibenden Person, für ein Krankenhaus, für Einrichtungen oder Teileinheiten von Einrichtungen des Rettungsdienstes, für Bordapotheken von Luftfahrzeugen gemäß § 1 Abs. 2 Nr. 1 und 2 der Betriebsordnung für Luftfahrtgerät vom 4. März 1970 (BGBl. I S. 262), die zuletzt durch Artikel 3 der Verordnung vom 29. Oktober 2015 (BGBl. I S. 1894) geändert worden ist, in der jeweils geltenden Fassung, für eine Tierklinik oder einen Zoo bestimmt, so genügt an Stelle der Angaben nach Absatz 1 Nr. 3, 7 und 9 ein entsprechender Vermerk.
+(2) Ist die Verschreibung für den Praxisbedarf einer verschreibenden Person, für ein Krankenhaus, für Einrichtungen oder Teileinheiten von Einrichtungen des Rettungsdienstes, für Bordapotheken von Luftfahrzeugen gemäß § 1 Abs. 2 Nr. 1 und 2 der Betriebsordnung für Luftfahrtgerät vom 4. März 1970 (BGBl. I S. 262), die zuletzt durch Artikel 3 der Verordnung vom 29. Oktober 2015 (BGBl. I S. 1894) geändert worden ist, in der jeweils geltenden Fassung, für eine Tierklinik oder einen Zoo bestimmt, so genügt an Stelle der Angaben nach Absatz 1 Nr. 3, 7 und 9 ein Vermerk, dass die Verschreibung für eine dieser Einrichtungen erfolgt.
+
+(2a) Ist die Verschreibung für Arzneimittel mit dem Wirkstoff Naloxon, die zur nasalen Anwendung als Notfalltherapie bei bekannter oder vermuteter Opioid-Überdosierung zugelassen sind, für Einrichtungen der Drogen- und Suchthilfe, der Obdachlosenhilfe, des Strafvollzuges, der Zollbehörden, der Bundeswehr, der Ordnungsbehörden oder der Bundes- und Landespolizei bestimmt, so genügt an Stelle der Angaben nach Absatz 1 Nummer 3 und 7 ein Vermerk, dass die Verschreibung für eine dieser Einrichtungen erfolgt.
 
 (3) In die Verschreibung eines Arzneimittels, das zur Vornahme eines Schwangerschaftsabbruchs zugelassen ist und das nur in einer Einrichtung im Sinne des § 13 des Schwangerschaftskonfliktgesetzes angewendet werden darf, ist an Stelle der Angaben nach Absatz 1 Nr. 3 ein entsprechender Vermerk zu setzen.
 
@@ -99,7 +101,7 @@ Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfe
 
 (1) Eine Verschreibung von Arzneimitteln, die die Wirkstoffe Lenalidomid, Pomalidomid oder Thalidomid enthalten, darf nur auf einem amtlichen Formblatt, das vom Bundesinstitut für Arzneimittel und Medizinprodukte ausgegeben wird, oder als Verschreibung in elektronischer Form über die Telematikinfrastruktur, die als Sonderverschreibung mit dem Zusatz „T-Rezept“ gekennzeichnet ist, erfolgen. Das in Satz 1 genannte Formblatt und die in Satz 1 genannte Verschreibung in elektronischer Form dürfen ausschließlich zur Verschreibung der in Satz 1 genannten Arzneimittel verwendet werden.
 
-(2) Verschreibungen nach Absatz 1 Satz 1 müssen die Bestätigung der ärztlichen Person enthalten, dass die Sicherheitsmaßnahmen gemäß der aktuellen Fachinformation eines entsprechenden Fertigarzneimittels eingehalten werden, insbesondere, dass erforderlichenfalls ein Schwangerschafts-Präventionsprogramm durchgeführt wird und dass der Patientin oder dem Patienten vor Beginn der medikamentösen Behandlung geeignete medizinische Informationsmaterialien ausgehändigt wurden. Ferner muss auf einer Verschreibung auf dem in Absatz 1 Satz 1 genannten Formblatt ersetzt vermerkt sein, ob eine Behandlung innerhalb oder außerhalb der jeweils zugelassenen Anwendungsgebiete erfolgt. Bei einer Verschreibung in elektronischer Form muss vermerkt sein, ob eine Behandlung außerhalb der jeweils zugelassenen Anwendungsgebiete erfolgt.
+(2) Verschreibungen nach Absatz 1 Satz 1 müssen die Bestätigung der ärztlichen Person enthalten, dass die Sicherheitsmaßnahmen gemäß der aktuellen Fachinformation eines entsprechenden Fertigarzneimittels eingehalten werden, insbesondere, dass erforderlichenfalls ein Schwangerschafts-Präventionsprogramm durchgeführt wird und dass der Patientin oder dem Patienten vor Beginn der medikamentösen Behandlung geeignete medizinische Informationsmaterialien ausgehändigt wurden. Ferner muss auf einer Verschreibung auf dem in Absatz 1 Satz 1 genannten Formblatt vermerkt sein, ob eine Behandlung innerhalb oder außerhalb der jeweils zugelassenen Anwendungsgebiete erfolgt. Bei einer Verschreibung in elektronischer Form muss vermerkt sein, ob eine Behandlung außerhalb der jeweils zugelassenen Anwendungsgebiete erfolgt.
 
 (3) Die Höchstmenge der auf Verschreibungen nach Absatz 1 Satz 1 verordneten Arzneimittel darf je Verschreibung für gebärfähige Frauen den Bedarf für vier Wochen, ansonsten den für zwölf Wochen nicht übersteigen. Bei einer Verschreibung in elektronischer Form müssen die Reichdauer und die Angabe, ob es sich um eine Verschreibung für eine gebärfähige Frau handelt, vermerkt sein.
 
@@ -117,7 +119,15 @@ Bei einer Verschreibung in elektronischer Form ist die in Satz 2 Nummer 3 genann
 
 (6) Das Bundesinstitut für Arzneimittel und Medizinprodukte macht ein Muster des in Absatz 1 Satz 1 genannten Formblatts barrierefrei öffentlich bekannt.
 
-(7) Apotheken übermitteln dem Bundesinstitut für Arzneimittel und Medizinprodukte wöchentlich die Durchschriften der Verschreibungen nach Absatz 1 Satz 1. Bei Verschreibungen von Arzneimitteln nach Absatz 1 Satz 1 in elektronischer Form stellen die Dienste der Telematikinfrastruktur nach Abgabe der Arzneimittel in der Apotheke die unmittelbare elektronische Übermittlung der Informationen, die sich bei einer Verschreibung auf dem in Absatz 1 Satz 1 genannten Formblatt aus der in Satz 1 genannten Durchschrift ergeben, einschließlich der in Absatz 2 Satz 1 und 3 genannten Informationen, sowie die in Absatz 3 Satz 2 genannten Informationen, jeweils bereinigt um Patientendaten, und die in Absatz 5 Satz 3 genannte Erklärung sowie Informationen zur Kontaktaufnahme mit der abgebenden Apotheke an das Bundesinstitut für Arzneimittel und Medizinprodukte sicher.
+(7) Apotheken übermitteln dem Bundesinstitut für Arzneimittel und Medizinprodukte wöchentlich die Durchschriften der Verschreibungen nach Absatz 1 Satz 1 oder rufen bei in Absatz 1 Satz 1 genannten Verschreibungen in elektronischer Form innerhalb einer Woche nach Abgabe des Arzneimittels vom Dienst der Telematikinfrastruktur nach § 360 Absatz 1 des Fünften Buches Sozialgesetzbuch einen Beleg über die Abgabe des Arzneimittels ab, um den Prozess nach Satz 3 zu veranlassen. Kann aufgrund einer technischen Störung ein Beleg nicht innerhalb der in Satz 1 genannten Frist abgerufen werden, ist der Abruf nach Behebung der Störung unverzüglich nachzuholen. Bei in Absatz 1 Satz 1 genannten Verschreibungen in elektronischer Form übermittelt der Dienst der Telematikinfrastruktur nach § 360 Absatz 1 des Fünften Buches Sozialgesetzbuch unverzüglich nach Abruf des Belegs über die Abgabe des Arzneimittels in der Apotheke die folgenden Informationen an das Bundesinstitut für Arzneimittel und Medizinprodukte:
+
+1. die Informationen, die sich bei einer Verschreibung auf dem in Absatz 1 Satz 1 genannten Formblatt aus der in Satz 1 genannten Durchschrift ergeben, einschließlich der in Absatz 2 Satz 1 und 3 genannten Angaben,
+
+2. die in Absatz 3 Satz 2 genannten Angaben,
+
+3. die in Absatz 5 Satz 3 genannte Erklärung sowie die Kontaktdaten der abgebenden Apotheke.
+
+Personenbezogene Patientendaten nach Satz 3 sowie die Angaben nach § 2 Absatz 1 Nummer 1 und 10 und Angaben nach § 17 Absatz 6 Satz 1 Nummer 2, 4, und 5 der Apothekenbetriebsordnung werden nach Satz 3 nicht übermittelt.
 
 # § 3b
 
@@ -1462,6 +1472,8 @@ Delamanid
 
 Delapril  
 
+Delgocitinib  
+
 Delmadinon und seine Ester  
 
 Dembrexin  
@@ -1822,6 +1834,8 @@ Eisen-Verbindungen
 
 Elacestrant und seine Ester  
 
+Elafibranor  
+
 Elbasvir  
 
 Eletriptan  
@@ -1927,6 +1941,8 @@ Eptifibatid
 Eptotermin alfa  
 
 Eravacyclin und seine Ester  
+
+Erdafitinib  
 
 Erdostein  
 
@@ -2163,6 +2179,8 @@ Flopropion
 
 Florfenicol  
 
+Flortaucipir (18F)  
+
 Fluanison  
 
 Flubendazol  
@@ -2335,6 +2353,8 @@ Ganirelix
 Gatifloxacin  
 
 Gaxilose  
+
+Gefapixant  
 
 Gefitinib  
 
@@ -2848,6 +2868,8 @@ Latamoxef
 
 Latanoprost  
 
+Lazertinib  
+
 Lecirelin  
 - zur Anwendung bei Tieren -  
 
@@ -3002,6 +3024,12 @@ Luprostiol
 Lurasidon  
 
 Luspatercept  
+
+(
+
+177
+
+Lu)Lutetium(III)-chlorid  
 
 (¹⁷⁷
 
@@ -3303,6 +3331,8 @@ Mirtazapin
 
 Misoprostol  
 
+Mitapivat  
+
 Mitomycin  
 
 Mitotan  
@@ -3396,6 +3426,7 @@ Nalorphin
 Naloxegol  
 
 Naloxon  
+– ausgenommen Arzneimittel zur nasalen Anwendung als Notfalltherapie bei bekannter oder vermuteter Opioid-Überdosierung, es sei denn, es handelt sich um von der Europäischen Kommission als verschreibungspflichtig zugelassene Arzneimittel –  
 
 Naltrexon  
 
@@ -4043,6 +4074,9 @@ Podophyllotoxin
 
 Podophyllum-emodi- und Podophyllum-peltatum-Glykoside und ihre Derivate  
 
+Polihexanid  
+– zur Anwendung am Auge zur Behandlung der Akanthamöben-Keratitis –  
+
 Polyestradiol  
 
 Polymyxin B und M  
@@ -4123,6 +4157,7 @@ Prednicarbat
 Prednimustin  
 
 Prednisolon und seine Ester  
+– ausgenommen in Zubereitungen mit Salicylsäure zur Anwendung auf der Kopfhaut in einer Konzentration von 0,2 % Prednisolon in Kombination mit 0,4 % Salicylsäure und in Packungsgrößen bis zu 50 ml zur Behandlung von gering ausgeprägten entzündlichen Erkrankungen der Kopfhaut bei Erwachsenen und einer maximalen Anwendungsdauer von 3 Wochen –  
 
 Prednison und seine Ester  
 
@@ -4331,6 +4366,8 @@ b) unter den Warnhinweisen angegeben wird, dass Racecadotril nur nach ärztliche
 
 Racefemin  
 
+rADAMTS13  
+
 Radionuklide enthaltende Stoffe und Zubereitungen zu diagnostischen oder therapeutischen Zwecken  
 
 Raloxifen  
@@ -4369,6 +4406,8 @@ Relugolix
 Remdesivir und seine Ester  
 
 Repaglinid  
+
+Repotrectinib  
 
 Reproterol  
 
@@ -5549,6 +5588,10 @@ und
 
 Pyriproxifen  
 - zur Anwendung beim Hund -  
+  
+Zubereitungen aus  
+
+rdESAT-6 und rCFP-10  
   
 Zubereitung aus  
 

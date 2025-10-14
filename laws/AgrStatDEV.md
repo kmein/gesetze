@@ -9,7 +9,7 @@ Das Bundesministerium für Landwirtschaft, Ernährung und Heimat verordnet aufgr
 
 Im Rahmen der Bodennutzungshaupterhebung nach den §§ 6 bis 8 des Agrarstatistikgesetzes werden im Jahr 2025 die Merkmale nach § 8 Absatz 1 des Agrarstatistikgesetzes zusätzlich differenziert nach ökologischer Wirtschaftsweise erhoben. „Ökologische Wirtschaftsweise“ im Sinne dieser Verordnung ist eine Wirtschaftsweise nach der Verordnung (EU) 2018/848.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V. v. 3.7.2025 I Nr. 159 +++)
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 3.7.2025 I Nr. 159 +++)
 
 # § 2 – Außerkrafttreten
 
