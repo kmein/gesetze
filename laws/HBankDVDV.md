@@ -337,7 +337,7 @@ Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle organisiert die La
 
 (4) Hat eine Referendarin oder ein Referendar die Klausur nicht oder nicht rechtzeitig abgegeben, gilt diese als mit null Rangpunkten bewertet.
 
-(+++ § 22 Abs. 3 Satz 4: zur Anwendung vgl. § 23 Abs. 9 +++)
+(+++ § 22 Abs. 3 Satz 4: Zur Anwendung vgl. § 23 Abs. 9 +++)
 
 # § 23 – Mündliche Abschlussprüfung
 
@@ -381,7 +381,7 @@ Für das Referat werden den Referendarinnen und Referendaren Materialien bereitg
 
 (3) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle entscheidet, ob der versäumte Teil der Abschlussprüfung nachgeholt werden kann oder ob die schriftliche Abschlussprüfung oder die mündliche Abschlussprüfung insgesamt nachzuholen ist. Den Zeitpunkt der Nachholung setzt die oberste Dienstbehörde oder eine von ihr bestimmte Stelle fest.
 
-(+++ § 24: zur Anwendung vgl. § 16 Abs. 5 +++)
+(+++ § 24: Zur Anwendung vgl. § 16 Abs. 5 +++)
 
 # § 25 – Täuschung, Ordnungsverstoß
 
@@ -393,7 +393,7 @@ Für das Referat werden den Referendarinnen und Referendaren Materialien bereitg
 
 (4) Die Betroffenen sind vor Entscheidungen nach den Absätzen 2 und 3 anzuhören.
 
-(+++ § 25: zur Anwendung vgl. § 16 Abs. 5 +++)
+(+++ § 25: Zur Anwendung vgl. § 16 Abs. 5 +++)
 
 # § 26 – Bestehen der Laufbahnprüfung
 
@@ -437,7 +437,7 @@ Für das Referat werden den Referendarinnen und Referendaren Materialien bereitg
 
 (3) Spätestens zwei Wochen vor der Wiederholung erstellt die Ausbildungsleiterin oder der Ausbildungsleiter ein neues zusammenfassendes Zeugnis nach § 18, das die in der Wiederholungsfrist erbrachten Leistungen einschließt.
 
-(+++ § 29 Abs. 2 u. 3: zur Anwendung vgl. § 22 Abs. 1 +++)
+(+++ § 29 Abs. 2 u. 3: Zur Anwendung vgl. § 22 Abs. 1 +++)
 
 # § 30 – Übergangsregelung
 

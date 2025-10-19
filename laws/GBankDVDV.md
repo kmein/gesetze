@@ -252,7 +252,7 @@ Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Ver
 
 (8) Die Modulprüfungen sollen spätestens eine Woche vor dem Termin der Verteidigung der Bachelorthesis abgeschlossen sein.
 
-(+++ § 18 Abs. 5: zur Anwendung vgl. § 20 Abs. 5 u. § 21 Abs. 5 +++)
+(+++ § 18 Abs. 6: Zur Anwendung vgl. § 20 Abs. 5 +++) §§ 17 u. 18: IdF d. Art. 2 Nr. 9 V v. 12.8.2025 I Nr. 199 mWv 1.10.2025
 
 # § 19 – Bachelorthesis
 

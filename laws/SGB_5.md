@@ -8533,8 +8533,6 @@ Absatz 2 Satz 2 gilt entsprechend. Der in Satz 1 Nummer 1 genannte Anteil wird d
 
 (4) Unterschreiten die Aufwendungen der Landwirtschaftlichen Krankenkasse nach § 8 Absatz 11 Satz 1 des Krankenhausentgeltgesetzes die Summe der nach Absatz 2 an die Landwirtschaftliche Krankenkasse gezahlten Beträge, wird der Differenzbetrag von der Landwirtschaftlichen Krankenkasse nach Vorliegen der Jahresrechnungsergebnisse für das Jahr 2026 an die Liquiditätsreserve des Gesundheitsfonds geleistet und im Jahr 2028 aus der Liquiditätsreserve des Gesundheitsfonds dem Transformationsfonds nach § 12b des Krankenhausfinanzierungsgesetzes zugeführt.
 
-(+++ Hinweis: Zur Höhe des ergänzenden Bundeszuschusses nach § 221a Abs. 3 Satz 1 für das Jahr 2022 u. des Überweisungsbetrages nach § 221a Abs. 3 Satz 2 für das Jahr 2022 vgl. § 1 V v. 18.11.2021 BAnz AT 19.11.2021 V1 +++)
-
 # § 221b – (weggefallen)
 
 # § 222 – (weggefallen)
