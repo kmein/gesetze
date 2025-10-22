@@ -264,6 +264,12 @@ h) entgegen § 9 Abs. 3 Satz 1 ein Kennzeichen nicht oder nicht rechtzeitig entf
 
 # Anlage – (zu § 8 Abs. 2)
 
-(Inhalt: nicht darstellbarer Ausweis über das Kleinfahrzeugkennzeichen;  
-Fundstelle: BGBl. I 1995, 231 - 232,  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 242, S. 56)
+
+Vorderseiten
+
+![Die Abbildung zeigt das Muster für die Vorderseite des Ausweises über das Kleinfahrzeugkennzeichen.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0480.jpg)
+
+Rückseiten
+
+![Die Abbildung zeigt das Muster für die Rückseite des Ausweises über das Kleinfahrzeugkennzeichen.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0490.jpg)

@@ -647,9 +647,11 @@ b) ein Schallzeichen unter Umständen gebraucht, für die es nicht vorgeschriebe
 
 4. entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass das Inland AIS Gerät den in § 4.07 Nummer 1 Satz 1 oder Nummer 6 Satz 1 jeweils genannten Vorschriften entspricht,
 
-5. entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe cc nicht sicherstellt, dass die in § 4.07 Nummer 4 genannten Daten nach Fahrtantritt unverzüglich und vollständig übermittelt oder die in § 4.07 Nummer 5 genannten Daten nach Auftreten einer Änderung unverzüglich und vollständig aktualisiert werden oder
+5. entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe cc nicht sicherstellt, dass das Inland ECDIS Gerät oder die elektronische Binnenschifffahrtskarte den dort genannten Anforderungen entspricht,
 
-6. entgegen § 4.07 Nummer 10 Buchstabe b in dem in § 4.07 Nummer 8 genannten Fall die Sprechfunkanlage nicht auf Empfang schaltet.
+6. entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe dd nicht sicherstellt, dass die in § 4.07 Nummer 4 genannten Daten nach Fahrtantritt unverzüglich und vollständig übermittelt oder die in § 4.07 Nummer 5 genannten Daten nach Auftreten einer Änderung unverzüglich und vollständig aktualisiert werden oder
+
+7. entgegen § 4.07 Nummer 10 Buchstabe b in dem in § 4.07 Nummer 8 genannten Fall die Sprechfunkanlage nicht auf Empfang schaltet.
 
 (4) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Eigentümer oder Ausrüster
 
@@ -659,11 +661,9 @@ b) ein Schallzeichen unter Umständen gebraucht, für die es nicht vorgeschriebe
 
 3. entgegen § 4.06 Nummer 4 Buchstabe a die Radarfahrt eines Fahrzeugs oder Verbandes anordnet oder zulässt, obwohl es oder er nicht mit einem für die Binnenschifffahrt geeigneten Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs nach § 4.06 Nummer 1 Satz 1 Buchstabe a, im Falle eines Kleinfahrzeugs oder eines Verbandes, der nur aus Kleinfahrzeugen besteht, darüber hinaus nicht mit einer Sprechfunkanlage nach § 4.06 Nummer 1 Satz 2 ausgerüstet ist,
 
-4. entgegen § 4.06 Nummer 4 Buchstabe b die Radarfahrt eines Fahrzeugs oder Verbandes anordnet oder zulässt, obwohl es oder er nicht mit einer geeigneten Person nach § 4.06 Nummer 1 Satz 1 Buchstabe b besetzt ist,
+4. entgegen § 4.06 Nummer 4 Buchstabe b die Radarfahrt eines Fahrzeugs oder Verbandes anordnet oder zulässt, obwohl es oder er nicht mit einer geeigneten Person nach § 4.06 Nummer 1 Satz 1 Buchstabe b besetzt ist, oder,
 
-5. entgegen § 4.07 Nummer 11 Buchstabe a die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt oder
-
-6. entgegen § 4.07 Nummer 11 Buchstabe b die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, obwohl das Inland AIS Gerät den in § 4.07 Nummer 1 Satz 1 oder Nummer 6 Satz 1 jeweils genannten Vorschriften nicht entspricht.
+5. entgegen § 4.07 Nummer 11 die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt.
 
 # § 13 – Bewehrung der allgemeinen Vorschriften über das Verhalten im Verkehr
 
@@ -857,7 +857,7 @@ vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
-1. entgegen § 6.35 Nummer 3 die in § 6.21 Nummer 1 bis 3 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über die Zusammenstellung der Verbände nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
+1. entgegen § 6.35 Nummer 3 ein dort genanntes Gebot oder Verbot nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird,
 
 2. entgegen § 10.29 Nummer 2 Buchstabe b Doppelbuchstabe aa die Vorschrift über die Zusammenstellung der Verbände nach § 10.03 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
 

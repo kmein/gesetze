@@ -408,9 +408,7 @@ Der Freibord muss mindestens 0,50 m betragen.
 
 # § 10.04 – Verschlusszustand
 
- 
-
-1. Abweichend von Artikel 4.05 ES-TRIN ist die Ebene der größten Einsenkung unter der Voraussetzung festzusetzen, dass die Laderäume mindestens sprühwasser- und wetterdicht geschlossen werden können.
+1. Abweichend von Artikel 4.03 Nummer 11 ES-TRIN ist die Ebene der größten Einsenkung unter der Voraussetzung festzusetzen, dass die Laderäume mindestens sprühwasser- und wetterdicht geschlossen werden können.
 
 2. Die Festsetzung der höchstzulässigen Einsenkung für die Fahrt mit ungedeckten Laderäumen ist nicht zulässig.
 
@@ -560,7 +558,7 @@ digitale Seekarten</td>
 </tbody>
 </table>
 
-# Anlage 1 – Anforderungen an Kompasse und Steuerkurstransmitter
+# Anlage – Anforderungen an Kompasse und Steuerkurstransmitter
 
 (Fundstelle: BGBl. I 2018, 1468 - 1471)
 

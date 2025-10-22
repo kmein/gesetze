@@ -121,7 +121,7 @@ die Wasserstraßen des Bundes nach Anhang I,
 
 2. ES-TRIN:
 
-Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Ausgabe 2019/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 9. Dezember 2019, BAnz AT 09.12.2019 B2); bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen,
+Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Ausgabe 2023/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Digitales und Verkehr vom 16. März 2023, BAnz AT 02.05.2023 B3); bei der Anwendung des ES-TRIN ist unter „Mitgliedstaat“ ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen,
 
 3. Fahrtauglichkeitsbescheinigung:
 
@@ -129,7 +129,7 @@ ein amtlicher Nachweis über die technische Zulassung zum Verkehr,
 
 4. Anerkannte Klassifikationsgesellschaften:
 
-Bureau Veritas (BV), DNV GL, Lloyd´s Register (LR), Polski Rejestr Statków S.A., RINA S.p.A., Russian Maritime Register of Shipping (RS),
+Bureau Veritas (BV), DNV, Lloyd´s Register (LR), Polski Rejestr Statków S.A., RINA S.p.A., Russian Maritime Register of Shipping (RS),
 
 5. Schifffahrtspolizeiliche Vorschriften:
 
@@ -185,7 +185,7 @@ Das Siebte Buch Sozialgesetzbuch – Gesetzliche Unfallversicherung – (Artikel
 
 8. ADN:
 
-die dem Europäischen Übereinkommen vom 26. Mai 2000 über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) in der Anlage beigefügte Verordnung (BGBl. 2007 II S. 1906, 1908, Anlageband), die zuletzt durch die Beschlüsse des ADN-Verwaltungsausschusses vom 29. Januar 2016 und 26. August 2016 (BGBl. 2016 II S. 1298; 2018 II S. 12, 13) geändert worden ist, in der jeweils geltenden Fassung,
+die dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) in der Anlage beigefügte Verordnung vom 10. November 2021 (BGBl. 2021 II S. 1150, Anlageband; 2022 II S. 436; 2024 II Nr. 337; 2024 II Nr. 456), die zuletzt nach Maßgabe der 10. ADN-Änderungsverordnung vom 30. April 2025 (BGBl. 2025 II Nr. 143) geändert worden ist,
 
 9. Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt:
 
@@ -215,9 +215,9 @@ Internationales Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung d
 
 Internationales Freibord-Übereinkommen vom 5. April 1966 (BGBl. 1969 II S. 249, 250) in der jeweils innerstaatlich geltenden Fassung,
 
-16. Binnenschifffahrtskostenverordnung:
+16. BMDV-Wasserstraßen und Schifffahrt Besondere Gebührenverordnung:
 
-Binnenschifffahrtskostenverordnung vom 21. Dezember 2001 (BGBl. I S. 4218), die zuletzt durch Artikel 1 der Verordnung vom 10. April 2017 (BGBl. I S. 833) geändert worden ist, in der jeweils geltenden Fassung.
+BMDV-Wasserstraßen und Schifffahrt Besondere Gebührenverordnung vom 28. Oktober 2021 (BGBl. I S. 4744), die zuletzt durch Artikel 1 der Verordnung vom 25. März 2025 (BGBl. 2025 I Nr. 100) geändert worden ist, in der jeweils geltenden Fassung.
 
 (3) In dieser Verordnung gelten für Fahrzeuge, schwimmende Anlagen und Schwimmkörper folgende Begriffsbestimmungen:
 
@@ -241,7 +241,7 @@ Binnenschifffahrtskostenverordnung vom 21. Dezember 2001 (BGBl. I S. 4218), die 
 
 10. „Kabinenschiff“ ein Fahrgastschiff mit Kabinen für die Übernachtung von Fahrgästen;
 
-11. „Fahrgastboot“ ein Fahrzeug, das zur Beförderung von Fahrgästen zugelassen ist;
+11. „Fahrgastboot“ ein zur Beförderung von Fahrgästen zugelassenes Fahrzeug, das kein Fahrgastschiff ist;
 
 12. „Barkasse“ ein zur Beförderung von Fahrgästen (Personenbarkasse) oder zum Schleppen (Schleppbarkasse) gebautes und eingerichtetes Binnenschiff bis 25 m Länge, mit Plicht mit versenktem Innenboden;
 
@@ -299,19 +299,17 @@ ist die Generaldirektion Wasserstraßen und Schifffahrt mit den bei ihr gebildet
 
 ist das örtlich zuständige Wasserstraßen- und Schifffahrtsamt.
 
-(3) Zuständige Behörde für
+(3) Die Generaldirektion Wasserstraßen und Schifffahrt ist zuständige Behörde für die Erteilung von
 
-1. die Typprüfung und Zulassung von Navigationsradaranlagen und Wendeanzeigern im Sinne des Artikels 7.06 Nummer 1 ES-TRIN in Verbindung mit dessen Anlage 5 Abschnitt I Artikel 4 sowie Abschnitt II Artikel 1.03,
+1. Typgenehmigungen von Navigationsradaranlagen und Wendeanzeigern im Sinne des Artikels 7.06 Nummer 1 ES-TRIN in Verbindung mit Abschnitt I Artikel 6 sowie Abschnitt II Kapitel 1 Artikel 1.05 der Anlage 5 ES-TRIN,
 
-2. die Typgenehmigung von Navigationsradaranlagen und Wendeanzeigern im Sinne des Artikels 7.06 Nummer 1 ES-TRIN in Verbindung mit dessen Anlage 5 Abschnitt I Artikel 6 sowie Abschnitt II Artikel 1.05,
+2. Typgenehmigungen von Geräten des Automatischen Schiffs-Identifizierungs-Systems (AIS-Geräten) im Sinne des Artikels 7.06 Nummer 3 des ES-TRIN in Verbindung mit Abschnitt IV Artikel 1 der Anlage 5 ES-TRIN,
 
-3. die Typgenehmigung von Geräten des Automatischen Schiffs-Identifizierungs-Systems (AIS-Geräten) im Sinne des Artikels 7.06 Nummer 3 ES-TRIN in Verbindung mit dessen Anlage 5 Abschnitt IV Artikel 1,
+3. Typgenehmigungen von Fahrtenschreibern im Sinne von Abschnitt V Artikel 1 der Anlage 5 ES-TRIN,
 
-4. die Typgenehmigung von Fahrtenschreibern im Sinne der Anlage 5 Abschnitt V Artikel 1 ES-TRIN sowie
+4. Typgenehmigungen von Inland-ECDIS-Geräten zur Darstellung von Seekarten in digitaler Form im Sinne des § 6.06 Buchstabe d des Anhangs III sowie
 
-5. die Typgenehmigung von Inland-ECDIS-Geräten zur Darstellung von Seekarten in digitaler Form im Sinne des Anhangs III § 6.06 Buchstabe d
-
-ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekannt gemachte Stelle.
+5. Typgenehmigungen mit Klasse IWA/IWP im Sinne des Artikel 6 Absatz 2 in Verbindung mit Artikel 4 Absatz 1 Nummer 5 und 6 der Verordnung EU 2016/1628.
 
 (4) Zuständige Behörde für die Zulassung und Baumusterprüfung von Kompassen und Steuerkurstransmittern sowie für die Überprüfung der Aufstellung von Magnetkompassen im Sinne des Anhangs III § 6.02 und für die Anerkennung von Regulierern für solche Kompasse und Steuerkurstransmitter ist das Bundesamt für Seeschifffahrt und Hydrographie in Hamburg.
 
@@ -335,7 +333,7 @@ ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehr
 
 (5) Neben den in Absatz 1 Satz 1 genannten Sachverständigen kann die Generaldirektion Wasserstraßen und Schifffahrt anerkannte Sachverständige für besondere Sachgebiete, insbesondere für elektrische Anlagen, elektrische Antriebe, Schiffselektronik, Flüssiggasanlagen, Krane oder Feuerlöschanlagen, heranziehen.
 
-(6) Das Bundesministerium für Verkehr und digitale Infrastruktur macht die Standorte der Untersuchungskommissionen der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekannt.
+(6) Das Bundesministerium für Verkehr macht die Standorte der Untersuchungskommissionen der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekannt.
 
 (7) Abweichend von Absatz 1 Satz 3 Nummer 3 kann bei der Erteilung eines Fährzeugnisses der Inhaber eines Fährführerscheins als Sachverständiger an der Untersuchung teilnehmen.
 
@@ -414,6 +412,8 @@ entsprechen.
 (9) Fahrzeuge, schwimmende Anlagen und Schwimmkörper müssen mit Personen besetzt sein (Besatzung), die den Anforderungen des ES-TRIN in Verbindung mit Teil 3 der Binnenschiffspersonalverordnung oder Teil III der Rheinschiffspersonalverordnung entsprechen.
 
 (10) Die Generaldirektion Wasserstraßen und Schifffahrt kann ganz oder teilweise davon absehen, die Untersuchung bei einem Fahrzeug, einer schwimmenden Anlage oder einem Schwimmkörper durchführen zu lassen, soweit sich aus einer gültigen Bescheinigung einer anerkannten Klassifikationsgesellschaft ergibt, dass das Fahrzeug, die schwimmende Anlage oder der Schwimmkörper ganz oder teilweise den technischen Vorschriften des ES-TRIN entspricht.
+
+(11) Motoren, die in Fähren eingebaut werden oder auf diesen anderweitig verwendet werden, müssen über eine Typgenehmigung im Sinne des Artikels 6 Absatz 2 der Verordnung (EU) 2016/1628 verfügen.
 
 (+++ § 6 Abs. 1 iVm Abs. 4: Zur Anwendung vgl. § 8.01 EingS u. Nr. 1 Satz 1 BinSchUO2018Anh II +++)
 
@@ -648,7 +648,7 @@ a) die Zentralkommission für die Rheinschifffahrt noch keine Empfehlung nach de
 
 b) die Europäische Union noch keine Empfehlung nach der Richtlinie (EU) 2016/1629 ausgesprochen hat oder
 
-c) das Bundesministerium für Verkehr und digitale Infrastruktur noch keine Empfehlung nach Anhang II ausgesprochen hat.
+c) das Bundesministerium für Verkehr noch keine Empfehlung nach Anhang II ausgesprochen hat.
 
 Die vorläufige Fahrtauglichkeitsbescheinigung nach Satz 1 Nummer 3 darf jeweils um sechs Monate verlängert werden, bis eine Empfehlung erlassen wurde.
 
@@ -670,7 +670,7 @@ Die vorläufige Fahrtauglichkeitsbescheinigung nach Satz 1 Nummer 3 darf jeweils
 
 # § 23 – Kosten
 
-(1) Der Eigner eines Fahrzeugs oder sein Bevollmächtigter trägt die Kosten, die durch die Untersuchung des Fahrzeugs und die Erteilung der Fahrtauglichkeitsbescheinigung entstehen, nach Maßgabe der Binnenschifffahrtskostenverordnung.
+(1) Der Eigner eines Fahrzeugs oder sein Bevollmächtigter trägt die Kosten, die durch die Untersuchung des Fahrzeugs und die Erteilung der Fahrtauglichkeitsbescheinigung entstehen, nach Maßgabe der BMDV-Wasserstraßen und Schifffahrt Besondere Gebührenverordnung.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt kann vor der Untersuchung einen Vorschuss bis zur Höhe der voraussichtlichen Kosten verlangen.
 
@@ -738,29 +738,29 @@ Die vorläufige Fahrtauglichkeitsbescheinigung nach Satz 1 Nummer 3 darf jeweils
 
 praktisch schwer ausführbar ist oder unzumutbar hohe Kosten verursacht, kann die Generaldirektion Wasserstraßen und Schifffahrt Abweichungen von diesen Vorschriften gestatten.
 
-(3) Die Gleichwertigkeiten und Abweichungen nach den Absätzen 1 und 2 sind in die Fahrtauglichkeitsbescheinigung einzutragen.
+(3) Die Generaldirektion Wasserstraßen und Schifffahrt kann bei Fahrzeugen, die innerhalb eines abgegrenzten Gebiets fahren, von den Bestimmungen des ES-TRIN abweichen, wenn ein gleichwertiges Sicherheitsniveau gewährleistet ist. Die Ausnahmen dürfen nur für den Geltungsbereich dieser Rechtsverordnung und außerhalb des Rheins erteilt werden.
 
-(4) Im Fall des ES-TRIN sowie der Anhänge III und IV gelten die Bestimmungen der Absätze 1 und 2 jedoch nur, soweit eine entsprechende Empfehlung
+(4) Die Gleichwertigkeiten und Abweichungen nach den Absätzen 1, 2 und 3 sowie das Gebiet nach Absatz 3 sind in die Fahrtauglichkeitsbescheinigung einzutragen.
+
+(5) Im Fall des ES-TRIN sowie der Anhänge III und IV gelten die Bestimmungen der Absätze 1 und 2 jedoch nur, soweit eine entsprechende Empfehlung
 
 1. der Zentralkommission für die Rheinschifffahrt vorliegt,
 
-2. in einem Durchführungsrechtsakt der Europäischen Kommission nach Artikel 25 der Richtlinie (EU)
+2. in einem Durchführungsrechtsakt der Europäischen Kommission nach Artikel 25 der Richtlinie (EU) 2016/1629 vorliegt.
 
-2016/1629 vorliegt.
+(6) Im Fall des Anhangs II gelten die Bestimmungen der Absätze 1, 2 und 3 jedoch nur, soweit eine entsprechende Empfehlung des Bundesministeriums für Verkehr vorliegt.
 
-(5) Im Fall des Anhangs II gelten die Bestimmungen der Absätze 1 und 2 jedoch nur, soweit eine entsprechende Empfehlung des Bundesministeriums für Verkehr und digitale Infrastruktur vorliegt.
-
-(6) Bei Fahrzeugen, die auf eine Länge von mehr als 110 m umgebaut werden, darf die Untersuchungskommission die Übergangsbestimmungen nach Kapitel 32 ES-TRIN nur anwenden, soweit eine entsprechende Empfehlung der Zentralkommission für die Rheinschifffahrt vorliegt.
+(7) Bei Fahrzeugen, die auf eine Länge von mehr als 110 m umgebaut werden, darf die Untersuchungskommission die Übergangsbestimmungen nach Kapitel 32 ES-TRIN nur anwenden, soweit eine entsprechende Empfehlung der Zentralkommission für die Rheinschifffahrt vorliegt.
 
 (+++ § 29 Abs. 3, 4 u. 5: Zur Anwendung vgl. § 30 Satz 2 +++)
 
 # § 30 – Nutzung neuer Technologien
 
-Zu Versuchszwecken und für einen begrenzten Zeitraum kann die Generaldirektion Wasserstraßen und Schifffahrt für ein Fahrzeug mit technischen Neuerungen, die von den Bestimmungen des Teils II ES-TRIN abweichen, eine Fahrtauglichkeitsbescheinigung ausstellen, sofern diese Neuerungen eine hinreichende Sicherheit bieten. Die Bestimmungen des § 29 Absatz 3, 4 und 5 gelten entsprechend.
+Zu Versuchszwecken und für einen begrenzten Zeitraum kann die Generaldirektion Wasserstraßen und Schifffahrt für ein Fahrzeug mit technischen Neuerungen, die von den Bestimmungen des Teils II ES-TRIN abweichen, eine Fahrtauglichkeitsbescheinigung ausstellen, sofern diese Neuerungen eine hinreichende Sicherheit bieten. Die Bestimmungen des § 29 Absatz 4, 5 und 6 gelten entsprechend.
 
 # § 31 – Grundsatz
 
-Ein Fahrzeug, auf dem entgeltlich oder anderweitig geschäfts- oder erwerbsmäßig Personen befördert werden (Fahrgäste), muss den Anforderungen
+Ein Fahrzeug, auf dem entgeltlich oder anderweitig geschäfts- oder erwerbsmäßig Personen befördert werden (Fahrgäste), insbesondere in einem Linienverkehr oder gegen Einzelfahrscheine, muss den Anforderungen
 
 1. des Kapitels 19 ES-TRIN als Fahrgastschiff,
 
@@ -842,7 +842,7 @@ b) einschließlich des Fahrzeugführers nicht mehr als fünf Personen befördert
 
 2. nachweislich mit Gestellung des Sportfahrzeugführers vermietet worden ist,
 
-bis zum Ablauf des 6. Oktober 2033 zur Beförderung von Fahrgästen in der Betriebsform A nach § 101 Absatz 2 der Binnenschiffspersonalverordnung auf den Wasserstraßen der Zone 3, mit Ausnahme der Wasserstraße Rhein, und der Zone 4, mit Ausnahme der Wasserstraße Oder, des Anhangs I eingesetzt werden. Der Einsatz muss auf der Grundlage des Bootszeugnisses und darf auch auf der Grundlage des bisher einschlägigen Befähigungszeugnisses oder der bisher einschlägigen sonstigen Erlaubnis zum Führen von Fahrzeugen erfolgen.
+bis zum Ablauf des 6. Oktober 2033 zur Beförderung von Fahrgästen in der Betriebsform A nach § 101 Absatz 2 der Binnenschiffspersonalverordnung auf den Wasserstraßen der Zone 3, mit Ausnahme der Wasserstraße Rhein, und der Zone 4 des Anhangs I eingesetzt werden. Der Einsatz muss auf der Grundlage des Bootszeugnisses und darf auch auf der Grundlage des bisher einschlägigen Befähigungszeugnisses oder der bisher einschlägigen sonstigen Erlaubnis zum Führen von Fahrzeugen erfolgen.
 
 (2) Unbeschadet der Festlegungen im Bootszeugnis darf die höchstzulässige Anzahl der beförderten Fahrgäste die Vorgabe nach Anhang II § 7.01 Nummer 3 und 4 nicht überschreiten. Sofern das Sportfahrzeug nach seinem Bootszeugnis für mehr als 35 Personen zugelassen ist, darf es bis zum Ablauf des 6. Oktober 2023 in den Fahrtgebieten nach Anhang IX eine entsprechende Anzahl von Fahrgästen befördern.
 
@@ -850,7 +850,7 @@ bis zum Ablauf des 6. Oktober 2033 zur Beförderung von Fahrgästen in der Betri
 
 (4) § 8a Absatz 2 bis 5 der Binnenschifffahrt-Sportbootvermietungsverordnung ist entsprechend anzuwenden.
 
-(5) Im Übrigen sind die sonstigen für Sportfahrzeuge geltenden Vorschriften anzuwenden.
+(5) Auf ein Fahrzeug, das nach Maßgabe der Absätze 1 bis 4 betrieben werden darf, sind im Übrigen die für Sport- und Kleinfahrzeuge geltenden binnenschifffahrtsrechtlichen Vorschriften anzuwenden. Die zuständige Behörde kann im Einzelfall Ausnahmen von diesen Vorschriften, insbesondere von Vorschriften der Binnenschifffahrtsstraßen-Ordnung, genehmigen, sofern dies für einen ordnungsgemäßen Betrieb des Fahrzeuges angezeigt ist und Belange der Sicherheit oder Leichtigkeit des Verkehrs nicht entgegenstehen.
 
 # § 35 – Pflichten des Schiffsführers, Eigentümers, Ausrüsters oder Bevollmächtigten
 
@@ -899,7 +899,7 @@ ee)
 die elektrischen Schiffsantriebe nach Artikel 11.01 Nummer 4 Satz 1, Artikel 11.05, Artikel 11.07 Nummer 5, Artikel 11.09 Nummer 2 Buchstabe b ES-TRIN,
 
 ff)  
-die Feuermeldesysteme nach Artikel 13.05 Nummer 3 ES-TRIN und
+die Brandmeldeanlage nach Artikel 13.05 Nummer 3 ES-TRIN und
 
 gg)  
 die Auslöseeinrichtung von Feuerlöschanlagen nach Artikel 13.05 Nummer 5 Buchstabe c Satz 1 ES-TRIN,
@@ -951,11 +951,11 @@ d) die Bedienungsanleitung des Kranherstellers nach Artikel 14.12 Nummer 9 ES-TR
 
 e) die Kopie des Typgenehmigungsbogens und des Bordkläranlagenparameterprotokolls nach Artikel 18.01 Nummer 5 Satz 4 und ein Wartungsnachweis nach Nummer 9 Satz 2 ES-TRIN oder
 
-f) je eine Kopie der Unterlagen nach Artikel 30.01 Nummer 5 ES-TRIN,
+f) je eine Kopie der Unterlagen nach Artikel 30.03 Nummer 3 ES-TRIN,
 
 9. nach § 3 Absatz 1 der Generaldirektion Wasserstraßen und Schifffahrt die Unterlagen nach Nummer 8 Buchstabe a und f vorgelegt werden,
 
-10. ein Fahrzeug, eine schwimmende Anlage oder ein Schwimmkörper nur dann in Betrieb genommen wird, wenn die Kennzeichen, die nach Artikel 9.04 Nummer 2 Buchstabe c ES-TRIN oder die nach Artikel 32 Absatz 1 der Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Anforderungen in Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typgenehmigung für Verbrennungsmotoren für nicht für den Straßenverkehr bestimmte mobile Maschinen und Geräte, zur Änderung der Verordnungen (EU) Nr. 1024/2012 und (EU) Nr. 167/2013 und zur Änderung und Aufhebung der Richtlinie 97/68/EG (ABl. L 252 vom 16.9.2016, S. 53) oder die nach Artikel 30.05 ES-TRIN in Verbindung mit Anlage 8 Abschnitt I Nummer 1.6 ES-TRIN oder nach Artikel 18.05 Nummer 1 ES-TRIN vorgeschrieben sind, an den dort genannten Einheiten angebracht sind,
+10. ein Fahrzeug, eine schwimmende Anlage oder ein Schwimmkörper nur dann in Betrieb genommen wird, wenn die Kennzeichen, die nach Artikel 9.04 Nummer 2 Buchstabe c ES-TRIN oder die nach Artikel 32 Absatz 1 der Verordnung (EU) 2016/1628 oder die nach Artikel 30.06 des ES-TRIN oder nach Artikel 18.05 Nummer 1 ES-TRIN vorgeschrieben sind, an den dort genannten Einheiten angebracht sind,
 
 11. die Unterlagen nach Artikel 10.01 Nummer 2 Satz 1 ES-TRIN sich an Bord befinden oder im Fall des Artikels 10.01 Nummer 2 Satz 2 ES-TRIN jederzeit verfügbar sind,
 
@@ -981,7 +981,7 @@ g) von Kranen nach Artikel 14.12 Nummer 6 Satz 1 und 3 und Nummer 7 ES-TRIN,
 
 h) von Flüssiggasanlagen nach Artikel 17.13 Satz 1 und 2 ES-TRIN, jeweils auch in Verbindung mit Anhang II § 7.02 Nummer 5 Satz 2 und § 7.03 Nummer 4 Satz 2, und
 
-i) von Antriebs- und Hilfssystemen nach Artikel 30.02 Nummer 1 ES-TRIN,
+i) von Antriebs- und Hilfssystemen nach Artikel 30.11 Nummer 1 ES-TRIN,
 
 15. nach § 3 Absatz 1 der Generaldirektion Wasserstraßen und Schifffahrt die Bescheinigung über die Prüfung der Takelage nach Nummer 14 Buchstabe b vorgelegt wird,
 
@@ -1038,7 +1038,7 @@ Abweichend von Satz 1 Nummer 4 kann die Mitteilung bei einer anderen zuständige
 
 a) Artikel 19.01 Nummer 2, 3, 4 Satz 1, auch in Verbindung mit Satz 2 ES-TRIN, den Artikeln 19.02, 19.03 Nummer 1 Satz 1, Nummer 2 bis 6, 7 Satz 1, Nummer 8, auch in Verbindung mit Nummer 10, Nummer 9, 11 und 13 ES-TRIN, den Artikeln 19.04, 19.05 Nummer 1 und 2 ES-TRIN, Artikel 19.06 Nummer 1 bis 10, 11 Satz 1, Nummer 12, 13, 14 Satz 1, auch in Verbindung mit Satz 2, Nummer 15 bis 19 ES-TRIN, den Artikeln 19.07, 19.08, 19.09 Nummer 1, 2 Satz 1, auch in Verbindung mit Satz 2, Nummer 3, 4, 6, 7, 8 Satz 1, Nummer 9 bis 11 ES-TRIN, Artikel 19.10 Nummer 1 bis 4, Nummer 6 bis 11 ES-TRIN, Artikel 19.11 Nummer 1 Satzteil vor Buchstabe a, Nummer 2 bis 16, 17 Satz 1 ES-TRIN, den Artikeln 19.12 und 19.14, jeweils in Verbindung mit Artikel 19.15 ES-TRIN, entspricht,
 
-b) Anhang II §§ 2.01, 2.02 Nummer 1, 2 Satz 1, auch in Verbindung mit Satz 2, Nummer 3, 4, 6 bis 8, §§ 2.04, 2.05 Nummer 1 bis 3, Nummer 3 auch in Verbindung mit Nummer 4, § 2.06 Nummer 1, auch in Verbindung mit Nummer 2 und den §§ 2.07 und 2.08, alle jeweils auch in Verbindung mit Anhang II § 8.01 Nummer 1, entspricht,
+b) §§ 2.02, 2.03 Nummer 1, 2 Satz 1, auch in Verbindung mit Satz 2, Nummer 3, 4, 6 bis 8, §§ 2.05, 2.06 Nummer 1 bis 3, Nummer 3 auch in Verbindung mit Nummer 4, § 2.07 Nummer 1, auch in Verbindung mit Nummer 2 und den §§ 2.08 und 2.09, alle jeweils auch in Verbindung mit § 8.01 Nummer 1 des Anhangs II, entspricht,
 
 c) Anhang II §§ 3.02 und 3.04 Nummer 2 und 3, jeweils auch in Verbindung mit Anhang II § 4.01, § 4.02 Nummer 1 und Anhang II § 8.01 Nummer 1, entspricht,
 
@@ -1064,7 +1064,7 @@ c) nach Anhang II § 7.02 Nummer 5 Satz 3 und § 7.03 Nummer 4 Satz 3 in geschlo
 
 6. in jeder Küche sowie in Frisiersalons und Parfümerien eine Feuerlöschdecke nach Artikel 19.12 Nummer 1 letzter Satz ES-TRIN griffbereit vorhanden ist,
 
-7. die Fluchtwege und Notausgänge nach Artikel 19.06 Nummer 6 Buchstabe f ES-TRIN deutlich markiert und beleuchtet sind und mit einem Sicherheitsleitsystem nach Artikel 15.06 Nummer 7 ES-TRIN ausgestattet sind,
+7. die Fluchtwege und Notausgänge nach Artikel 19.06 Nummer 6 Buchstabe f ES-TRIN deutlich markiert und beleuchtet sind und mit einem Sicherheitsleitsystem nach Artikel 19.06 Nummer 7 ES-TRIN ausgestattet sind,
 
 8. die nicht für Fahrgäste bestimmten Teile der Fahrzeuge nach Artikel 19.06 Nummer 11 ES-TRIN gegen Zutritt Unbefugter gesichert sind und die dort genannten Symbole angebracht sind,
 
@@ -1074,9 +1074,9 @@ c) nach Anhang II § 7.02 Nummer 5 Satz 3 und § 7.03 Nummer 4 Satz 3 in geschlo
 
 11. die Bestimmungen nach Artikel 19.12 Nummer 4, 8 Satz 1 ES-TRIN über Hydrantenanlagen und Feuerlöschpumpen eingehalten werden,
 
-12. die Sicherheitsrolle und der Sicherheitsplan nach Artikel 19.13 Nummer 3 Buchstabe b ES-TRIN und Artikel 30.03 Nummer 4 Buchstabe b ES-TRIN an geeigneten Stellen deutlich sichtbar aufgehängt sind,
+12. die Sicherheitsrolle und der Sicherheitsplan nach Artikel 19.13 Nummer 4 ES-TRIN und Artikel 30.05 Nummer 4 Buchstabe b ES-TRIN an geeigneten Stellen deutlich sichtbar aufgehängt sind,
 
-13. sich in jeder Kabine Angaben nach Artikel 19.13 Nummer 4 Satz 1 und 3 ES-TRIN für das Verhalten der Fahrgäste in den dort genannten Fällen sowie Angaben über den Aufstellort der Rettungsmittel befinden,
+13. sich in jeder Kabine Angaben nach Artikel 19.13 Nummer 5 ES-TRIN für das Verhalten der Fahrgäste in den dort genannten Fällen sowie Angaben über den Aufstellort der Rettungsmittel befinden,
 
 14. ein Fahrgastboot nach Anhang II § 7.02 nur für Tagesfahrten eingesetzt wird und dass die Fahrt bei vorherrschender Windstärke von mehr als 5 Beaufort und bei unsichtigem Wetter nicht angetreten wird,
 
@@ -1114,7 +1114,7 @@ c) des Artikels 18.01 Nummer 7 ES-TRIN oder des Artikels 18.09 Nummer 1 Satz 3 B
 
 4. sich das Fahrzeug, die schwimmende Anlage oder der Schwimmkörper in einem Zustand befindet, der den Bau-, Einrichtungs- und Ausrüstungsvorschriften entspricht,
 
-5. er dafür sorgt, dass die nach Artikel 4.04 Nummer 2 ES-TRIN angebrachten Einsenkungsmarken deutlich sichtbar sind,
+5. er dafür sorgt, dass die nach Artikel 4.03 ES-TRIN angebrachten Einsenkungsmarken deutlich sichtbar sind,
 
 6. folgende Einrichtungen und Ausrüstungsgegenstände an Bord vorhanden und funktionsfähig sind:
 
@@ -1137,7 +1137,7 @@ ee)
 die elektrischen Schiffsantriebe nach Artikel 11.01 Nummer 4 Satz 1, Artikel 11.05, Artikel 11.07 Nummer 5, Artikel 11.09 Nummer 2 Buchstabe b ES-TRIN,
 
 ff)  
-die Feuermeldesysteme nach Artikel 13.05 Nummer 3 ES-TRIN und
+die Brandmeldeanlagen nach Artikel 13.05 Nummer 3 ES-TRIN und
 
 gg)  
 die Auslöseeinrichtung von Feuerlöschanlagen nach Artikel 13.05 Nummer 5 Buchstabe c Satz 1 ES-TRIN,
@@ -1191,9 +1191,9 @@ e) die Bedienungsanleitung des Krans nach Artikel 14.12 Nummer 9 ES-TRIN,
 
 f) die Kopie des Typgenehmigungsbogens und des Bordkläranlagenparameterprotokolls nach Artikel 18.01 Nummer 5 Satz 4 oder ein Wartungsnachweis nach Nummer 9 Satz 2 ES-TRIN oder
 
-g) je eine Kopie der Unterlagen nach Artikel 30.01 Nummer 5 ES-TRIN,
+g) je eine Kopie der Unterlagen nach Artikel 30.03 Nummer 3 ES-TRIN,
 
-8. die Kennzeichen, die nach Artikel 32 der Verordnung (EU) 2016/1628 oder die nach Artikel 30.05 ES-TRIN in Verbindung mit Anlage 8 Nummer 1.6 ES-TRIN oder die nach Artikel 18.05 Nummer 1 ES-TRIN vorgeschrieben sind, an den dort genannten Einheiten angebracht sind,
+8. die Kennzeichen, die nach Artikel 32 der Verordnung (EU) 2016/1628 oder die nach Artikel 30.06 ES-TRIN oder die nach Artikel 18.05 Nummer 1 ES-TRIN vorgeschrieben sind, an den dort genannten Einheiten angebracht sind,
 
 9. die elektrischen Einrichtungen an Bord nach den Bestimmungen des Artikels 10.04 ES-TRIN explosionsgeschützt ausgeführt sind,
 
@@ -1217,7 +1217,7 @@ g) Krane nach Artikel 14.12 Nummer 6 Satz 4 und Nummer 7 Satz 3 ES-TRIN,
 
 h) Flüssiggasanlagen nach Artikel 17.13 Satz 2 ES-TRIN, auch in Verbindung mit Anhang II § 7.02 Nummer 5 Satz 2 und § 7.03 Nummer 4 Satz 2,
 
-i) Antriebs- und Hilfssysteme nach Artikel 30.02 Nummer 4 ES-TRIN,
+i) Antriebs- und Hilfssysteme nach Artikel 30.11 Nummer 4 ES-TRIN,
 
 12. die Heiz-, Koch- und Kühleinrichtungen den Bestimmungen des Artikels 16.01 Nummer 2 bis 5 ES-TRIN und der Artikel 16.02 bis 16.07 entsprechen, und wenn er dafür sorgt, dass die dort genannten Verhaltensregeln für den Gebrauch dieser Einrichtungen eingehalten werden,
 
@@ -1255,7 +1255,7 @@ e) die Bedienungsanleitung des Krans nach Artikel 14.12 Nummer 9 ES-TRIN,
 
 f) die Kopie des Typgenehmigungsbogens und des Bordkläranlagenparameterprotokolls nach Artikel 18.01 Nummer 5 Satz 4 oder ein Wartungsnachweis nach Nummer 9 Satz 2 ES-TRIN oder
 
-g) je eine Kopie der Unterlagen nach Artikel 30.01 Nummer 5 ES-TRIN,
+g) je eine Kopie der Unterlagen nach Artikel 30.03 Nummer 3 ES-TRIN,
 
 2. hat die nach Absatz 1 Satz 1 Nummer 15 ausgestellten Prüfbescheinigungen oder Abnahmeberichte als Nachweise an Bord mitzuführen,
 
@@ -1303,7 +1303,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 9. entgegen § 35 Absatz 1 Satz 1 Nummer 10 nicht dafür sorgt, dass ein Fahrzeug, eine schwimmende Anlage oder ein Schwimmkörper nicht in Betrieb genommen wird,
 
-10. entgegen § 35 Absatz 1 Satz 1 Nummer 11 oder Absatz 3 Nummer 17 nicht dafür sorgt, dass eine dort genannte Unterlage oder ein Zeugnis sich an Bord befindet oder verfügbar ist,
+10. entgegen § 35 Absatz 1 Satz 1 Nummer 11 nicht dafür sorgt, dass eine dort genannte Unterlage sich an Bord befindet oder verfügbar ist,
 
 11. entgegen § 35 Absatz 1 Satz 1 Nummer 12 nicht dafür sorgt, dass eine elektrische Einrichtung explosionsgeschützt ausgeführt ist,
 
@@ -1455,7 +1455,7 @@ erteilt worden sind, bleiben bis zu ihrem Ablauf gültig.
 
 # § 40 – Überprüfung
 
-Diese Verordnung einschließlich ihrer Anhänge wird im Abstand von zwei Jahren vom Bundesministerium für Verkehr und digitale Infrastruktur überprüft, um für die Sicherheit und Leichtigkeit des Verkehrs sowie für den Arbeits-, Umwelt- und Gewässerschutz erforderliche Anpassungen an internationales Recht vorzunehmen.
+Diese Verordnung einschließlich ihrer Anhänge wird im Abstand von zwei Jahren vom Bundesministerium für Verkehr überprüft, um für die Sicherheit und Leichtigkeit des Verkehrs sowie für den Arbeits-, Umwelt- und Gewässerschutz erforderliche Anpassungen an internationales Recht vorzunehmen.
 
 # § 41 – Rechtsverordnungen über Anordnungen vorübergehender Art
 
@@ -1471,19 +1471,22 @@ Diese Verordnung einschließlich ihrer Anhänge wird im Abstand von zwei Jahren 
 
 # Anhang I – (zu § 1 Absatz 1 und § 2 Absatz 1 Nummer 1)Liste der in die geografischen Zonen 1, 2, 3 und 4 eingeteilten Wasserstraßen der Bundesrepublik Deutschland
 
-(Fundstelle: BGBl. I 2018, 1419 - 1421)
+(Fundstelle: BGBl. I 2018, 1419 - 1421;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (Text siehe: BinSchUO2018Anh I)
 
 # Anhang II – (zu § 1 Absatz 2 Nummer 1, § 6 Absatz 8 und § 31 Satz 1)Nationale Sonderbestimmungen
 
-(Fundstelle: BGBl. I 2018, 1422 - 1458)
+(Fundstelle: BGBl. I 2018, 1422 - 1458;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (Text siehe: BinSchUO2018Anh II)
 
 # Anhang III – (zu § 1 Absatz 2 Nummer 1 und § 6 Absatz 3)Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2
 
-(Fundstelle: BGBl. I 2018, 1459 - 1471)
+(Fundstelle: BGBl. I 2018, 1459 - 1471;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (Text siehe: BinSchUO2018Anh III)
 
@@ -1495,7 +1498,8 @@ Diese Verordnung einschließlich ihrer Anhänge wird im Abstand von zwei Jahren 
 
 # Anhang V – (zu § 1 Absatz 2 Nummer 1, § 7 Absatz 1 Nummer 9 und 10 und § 9 Absatz 1)Nationale Muster
 
-(Fundstelle: BGBl. I 2018, 1475 - 1502)
+(Fundstelle: BGBl. I 2018, 1475 - 1502;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (Text siehe: BinSchUO2018Anh V)
 
@@ -1517,6 +1521,7 @@ Diese Verordnung einschließlich ihrer Anhänge wird im Abstand von zwei Jahren 
 
 # Anhang IX – (zu § 33 Absatz 2 Satz 1, § 34 Absatz 2 und Anhang II § 7.01 Nummer 4)Für die Beförderung von mehr als 12 bis zu höchstens 35 Fahrgästen durch Fahrgastboote zugelassene Fahrtgebiete
 
-(Fundstelle: BGBl. I 2018, 1552 - 1553)
+(Fundstelle: BGBl. I 2018, 1552 - 1553;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (Text siehe: BinSchUO2018Anh IX)

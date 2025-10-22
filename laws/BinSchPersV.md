@@ -477,7 +477,13 @@ Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann erlauben, dass
 
 5. einer besonderen Berechtigung für Großverbände, wenn ein Großverband geführt wird.
 
-Satz 1 Nummer 2 gilt für das Führen von Schiffen unter 20 Metern nur, soweit es sich um Fahrgastschiffe, Fahrgastboote oder Fähren handelt.
+Satz 1 Nummer 2 gilt nur für
+
+1. Fahrzeuge, die in § 25 Absatz 3 oder 4 Satz 2 aufgeführt sind,
+
+2. Fahrgastboote,
+
+3. Behördenfahrzeuge und Sportfahrzeuge ab 20 m Länge.
 
 (2) Eine besondere Berechtigung nach Absatz 1 Satz 1 Nummer 1, 2, 3 oder 5 wird durch einen entsprechenden Eintrag in dem Befähigungszeugnis nachgewiesen. Die Berechtigung nach Absatz 1 Satz 1 Nummer 4 wird durch ein Unionsbefähigungszeugnis für Sachkundige für Flüssigerdgas nachgewiesen.
 
@@ -581,9 +587,17 @@ bescheinigt, so ordnet die ausstellende Behörde Risikominderungsmaßnahmen und 
 
 (3) Hat das Besatzungsmitglied Anhaltspunkte dafür, dass seine Tauglichkeit eingeschränkt sein könnte, muss es auch außerhalb der in Absatz 1 genannten Zeiträume seine Tauglichkeit untersuchen lassen. Erweist es sich dabei als eingeschränkt tauglich oder untauglich, hat es den Tauglichkeitsnachweis nach § 21 Absatz 1 Satz 1 hierüber unverzüglich der ausstellenden Behörde zu übermitteln.
 
-(4) Rechtfertigen Tatsachen die Annahme, dass die medizinische Tauglichkeit eines Besatzungsmitglieds nicht mehr besteht, kann sein Arbeitgeber, der Schiffsführer oder die ausstellende Behörde von ihm die Vorlage eines aktuellen Tauglichkeitsnachweises im Sinne des § 21 Absatz 1 Satz 1 über die entsprechende Tauglichkeit anordnen, was das Besatzungsmitglied bei Vorlage gegenüber dem Arbeitgeber oder dem Schiffsführer gegenüber der Behörde nachzuweisen hat. In der behördlichen Anordnung kann vorgegeben werden, dass die Untersuchung auf bestimmte Krankheitsbilder zu erstrecken ist. Erweist sich die Annahme als ungerechtfertigt, trägt die anordnende Behörde die Kosten für den Tauglichkeitsnachweis nach § 21 Absatz 1 Satz 1.
+(4) Rechtfertigen Tatsachen die Annahme, dass die medizinische Tauglichkeit eines Besatzungsmitglieds nicht mehr besteht, können die folgenden Stellen von ihm die Vorlage eines aktuellen Tauglichkeitsnachweises im Sinne des § 21 Absatz 1 Satz 1 verlangen:
 
-(5) Ein Wasserstraßen- und Schifffahrtsamt ist befugt, die Anordnung nach Absatz 4 zu treffen, auch wenn das Befähigungszeugnis von einem anderen Wasserstraßen- und Schifffahrtsamt erteilt worden ist.
+1. sein Arbeitgeber,
+
+2. der Schiffsführer,
+
+3. die zuständige Behörde oder
+
+4. jedes Wasserstraßen- und Schifffahrtsamt für Zeugnisse auf Einstiegs- und Betriebsebene.
+
+In den Fällen des Satzes 1 Nummer 1 und 2 hat das Besatzungsmitglied den aktuellen Tauglichkeitsnachweis zudem der ausstellenden Behörde vorzulegen. In der behördlichen Anordnung kann vorgegeben werden, dass die Untersuchung auf bestimmte Krankheitsbilder zu erstrecken ist. Erweist sich die Annahme als ungerechtfertigt, trägt die anordnende Behörde die Kosten für den Tauglichkeitsnachweis nach § 21 Absatz 1 Satz 1.
 
 # § 23 – Medizinische Tauglichkeit der Maschinenkundigen
 
@@ -625,13 +639,13 @@ c) längsseitigen Fortbewegen von Schiffen nach den Nummern 1 und 2 oder von sch
 
 6. schwimmendem Gerät mit eigenem Antrieb.
 
-(4) Fahrzeiten können auch auf Fähren erworben werden. Dabei werden für das Unionspatent nur Fahrzeiten anerkannt, die erworben wurden
+(4) Fahrzeiten können auch auf Fähren erworben werden. Dabei werden für das Unionspatent nur Fahrzeiten anerkannt, die erworben wurden auf frei fahrenden Fähren
 
-1. auf frei fahrenden Fähren mit einer Länge von 20 Metern oder mehr,
+1. mit einer Länge von 20 Metern oder mehr,
 
-2. auf Fähren, deren Produkt aus Länge, Breite und Tiefgang ein Volumen von 100 Kubikmetern oder mehr ergibt oder
+2. deren Produkt aus Länge, Breite und Tiefgang ein Volumen von 100 Kubikmetern oder mehr ergibt oder
 
-3. auf Fähren, die zur Beförderung von mehr als 12 Fahrgästen gebaut und eingerichtet sind.
+3. die zur Beförderung von mehr als zwölf Fahrgästen gebaut und eingerichtet sind.
 
 Fahrzeiten auf seil- oder kettengebundenen Fähren werden nur für das Fährschifferzeugnis anerkannt.
 
@@ -3750,7 +3764,7 @@ Satz 1 gilt nicht für Schleppboote, die zum Bugsieren oder zum Assistieren von 
 
 # § 118 – Zusätzliche Bestimmungen
 
-(1) Befinden sich in der Mindestbesatzung zwei oder mehr Steuerleute, Matrosen oder Bootsleute, kann in der Betriebsform A ein Matrose durch zwei Decksleute ersetzt werden. Der Besatzung können nicht mehr als zwei Decksleute angehören. Zwei Decksleute können durch einen Matrosen ersetzt werden, wenn der Besatzung darüber hinaus ein Matrose oder ein Bootsmann angehört.
+(1) Befinden sich in der Mindestbesatzung zwei oder mehr Steuerleute, Matrosen oder Bootsleute, kann in der Betriebsform A ein Matrose durch zwei Besatzungsmitglieder der Einstiegsebene ersetzt werden. Der Besatzung können nicht mehr als zwei Besatzungsmitglieder auf Einstiegsebene angehören. Zwei Besatzungsmitglieder der Einstiegsebene können durch einen Matrosen ersetzt werden, wenn der Besatzung darüber hinaus ein Matrose oder ein Bootsmann angehört.
 
 (2) Die Fahrt eines Fahrzeugs, auf dem durch unvorhergesehene Umstände, insbesondere in Folge von Krankheit, Unfall oder behördlicher Anordnung, höchstens ein Mitglied der Besatzung während der Fahrt ausfällt, kann bis zum nächsten Lade- oder Löschplatz – im Falle von Fahrgastschiffen und Fähren bis zur Tagesendstation – fortsetzen, wenn auf dem Fahrzeug neben einem Inhaber des Befähigungszeugnisses für das Führen des Fahrzeugs für die betreffende Strecke noch ein weiteres Mitglied der Besatzung vorhanden ist.
 
@@ -3773,6 +3787,8 @@ Satz 1 gilt nicht für Schleppboote, die zum Bugsieren oder zum Assistieren von 
 1. die für die jeweilige Betriebsform und Fahrzeit des Fahrzeugs, der schwimmenden Anlage, der Fähre oder des Schwimmkörpers vorgeschriebene Besatzung nach § 104 Absatz 1, 2, 3 und 4, § 105 Absatz 1, 3 bis 6 Satz 1, Absatz 7 Satz 1, § 106 Absatz 1, 2 Satz 3 und 4, § 107 Absatz 1 und 3, § 108 Absatz 1, 5 und 6, § 109 Absatz 1, 3 Satz 2 und 3 und Absatz 6 Satz 1, § 111 Absatz 1, § 112 Absatz 1 und 4, § 113 Absatz 1 Satz 1 und Absatz 5, § 114, § 115 und § 116 Absatz 1 und 2 während der Fahrt ständig an Bord ist,
 
 2. das für Tagesausflugsschiffe und Kabinenschiffe nach § 110 Absatz 1 Satz 1, Absatz 2 und 4 Satz 2 jeweils vorgeschriebene Sicherheitspersonal während der Fahrt und beim Stillliegen ständig an Bord verfügbar ist sowie der nach § 100 Absatz 3 Satz 1 vorgeschriebene Kontrollgang nachts stündlich durchgeführt wird.
+
+3. nur Personen als Besatzungsmitglieder eingesetzt werden, die über das für die auszuübende Funktion jeweils vorgeschriebene Befähigungszeugnis verfügen,
 
 (4) Der Schiffsführer oder die Schiffsführerin
 
@@ -3812,15 +3828,17 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 11. entgegen § 119 Absatz 3 Nummer 2 nicht dafür sorgt, dass das vorgeschriebene Sicherheitspersonal ständig an Bord verfügbar ist oder dass der vorgeschriebene Kontrollgang durchgeführt wird,
 
-12. entgegen § 119 Absatz 4 Nummer 1 eine Fahrt nicht oder nicht rechtzeitig beendet,
+12. entgegen § 119 Absatz 3 Nummer 3 nicht dafür sorgt, dass nur dort genannte Personen eingesetzt werden,
 
-13. entgegen § 119 Absatz 4 Nummer 2 ein Mitglied der Besatzung einsetzt,
+13. entgegen § 119 Absatz 4 Nummer 1 eine Fahrt nicht oder nicht rechtzeitig beendet,
 
-14. entgegen § 119 Absatz 4 Nummer 3 ein Bordbuch nicht oder nicht mindestens fünfzehn Monate aufbewahrt,
+14. entgegen § 119 Absatz 4 Nummer 2 ein Mitglied der Besatzung einsetzt,
 
-15. entgegen § 119 Absatz 4 Nummer 4 ein Bordbuch nicht, nicht richtig oder nicht vollständig führt oder
+15. entgegen § 119 Absatz 4 Nummer 3 ein Bordbuch nicht oder nicht mindestens fünfzehn Monate aufbewahrt,
 
-16. entgegen § 119 Absatz 4 Nummer 5 nicht dafür sorgt, dass eine Eintragung vorgenommen wird.
+16. entgegen § 119 Absatz 4 Nummer 4 ein Bordbuch nicht, nicht richtig oder nicht vollständig führt oder
+
+17. entgegen § 119 Absatz 4 Nummer 5 nicht dafür sorgt, dass eine Eintragung vorgenommen wird.
 
 # § 121 – Überwachung
 
@@ -3988,17 +4006,7 @@ Auf der Donau bleiben vorbehaltlich des § 10 Absatz 4 Befähigungszeugnisse, S
 
 Das Behördenpatent nach der Schiffspersonalverordnung-Rhein gilt als Behördenschifferzeugnis, das Sportpatent nach der Schiffspersonalverordnung-Rhein als Sportschifferzeugnis im Sinne dieser Verordnung.
 
-# § 137 – Durchführung von Tauglichkeitsuntersuchungen in besonderen Fällen
-
-(1) Tauglichkeitsuntersuchungen nach den §§ 21 und 22 können abweichend von § 24 Absatz 1 bis zum Ablauf des 17. Januar 2024 auch durchgeführt werden von
-
-1. einem Arzt oder einer Ärztin, der oder die hierzu vor dem 18. Januar 2022 von der Berufsgenossenschaft auf Grundlage binnenschifffahrtsrechtlicher Vorschriften ermächtigt worden ist, im Rahmen der Geltung der bis zum Ablauf des 17. Januar 2022 erteilten Ermächtigungen,
-
-2. einem Arzt oder einer Ärztin des betriebsärztlichen Dienstes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der Verwaltung eines Landes oder
-
-3. einem Arzt oder einer Ärztin eines hafenärztlichen Dienstes.
-
-(2) Eine Ermächtigung im Sinne des Absatzes 1 Nummer 1, die vor dem 18. Januar 2024 abläuft, kann nach den Voraussetzungen und dem Verfahren des § 24 Absatz 2 in Verbindung mit Anlage 6a Abschnitt 2 in eine Zulassung nach § 24 Absatz 1 umgewandelt werden.
+# § 137 – (weggefallen)
 
 # § 138 – Fortgelten von Prüfungsvorschriften; Gebühren; Prüfungen von Landesbehörden
 
@@ -4010,9 +4018,7 @@ Das Behördenpatent nach der Schiffspersonalverordnung-Rhein gilt als Behördens
 
 # § 139 – Sicherheitspersonal auf Fahrgastschiffen
 
-(1) An Bord von Fahrgastschiffen muss sich bis zum Ablauf des 17. Januar kein Sicherheitspersonal für Fahrgastschiffe befinden.
-
-(2) Für Kabinenschiffe werden die Festlegungen zur Besatzung in der Fahrtauglichkeitsbescheinigung nach Anlage 3 des ES-TRIN oder in der Bescheinigung über die Besatzung für Binnenschiffe nach Anhang V Muster 2 der Binnenschiffsuntersuchungsordnung am 18. Januar 2024 ungültig, wenn diese den Bestimmungen des Anhangs VI der Binnenschiffsuntersuchungsordnung in der Fassung vom 17. Januar 2022 entsprechen.
+Für Kabinenschiffe werden die Festlegungen zur Besatzung in der Fahrtauglichkeitsbescheinigung nach Anlage 3 des ES-TRIN oder in der Bescheinigung über die Besatzung für Binnenschiffe nach Anhang V Muster 2 der Binnenschiffsuntersuchungsordnung am 18. Januar 2024 ungültig, wenn diese den Bestimmungen des Anhangs VI der Binnenschiffsuntersuchungsordnung in der Fassung vom 17. Januar 2022 entsprechen.
 
 # § 140 – Anrechnung und Nachweis von Fahrzeiten
 
@@ -4035,6 +4041,10 @@ Bescheinigungen über eine bestandene Radarbefähigungsprüfung können nach §�
 # § 143 – Umschreibung von Fahrerlaubnissen der Klassen D1 und D2
 
 Ein Wasserstraßen- und Schifffahrtsamt hat bis zum Ablauf des 17. Januar 2032 ein Befähigungszeugnis als Matrose oder Matrosin auszustellen, wenn die antragstellende Person eine Fahrerlaubnis der Klasse D1 oder D2, die vor dem 18. Januar 2022 ausgestellt worden ist, vorlegt und ihre Identität nachweist. Ein Tauglichkeitsnachweis ist nicht erforderlich, auch wenn die antragstellende Person das 60. Lebensjahr vollendet hat.
+
+# § 144 – Erwerb der besonderen Berechtigung Großverbände beim Umtausch
+
+Mit dem Umtausch einer Fahrerlaubnis der Klasse A oder B nach der Binnenschifferpatentverordnung oder eines Großen Rheinpatentes wird auf Antrag zugleich eine besondere Berechtigung für Großverbände erteilt.
 
 # Anlage 1 – (zu § 12 Absatz 1 Satz 1 Nummer 2)Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist
 

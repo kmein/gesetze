@@ -235,8 +235,6 @@ vierstellige Zahl als Nummer zur Kennzeichnung von Stoffen oder Gegenständen en
 44. „Anlage“:  
   
 
-bundeseigene
-
 a) Schifffahrtsanlage, insbesondere eine Schleuse, ein Schleusenkanal, ein Wehr oder ein Schiffshebewerk,
 
 b) wasserbauliche Anlage, insbesondere eine Grundschwelle, eine Buhne, ein Parallelwerk, ein Deckwerk, ein Leitdamm oder eine Brücke;
@@ -304,7 +302,7 @@ Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Bi
 57. „ES-TRIN“:  
   
 
-Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Ausgabe 2019/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 9. Dezember 2019, BAnz AT 09.12.2019 B2). Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen;
+Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Ausgabe 2023/01, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Digitales und Verkehr vom 16. März 2023, BAnz AT 02.05.2023 B3). Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen.
 
 58. „ES-RIS“:  
   
@@ -753,7 +751,7 @@ ff)
 die Bescheinigung über die Ausgabe der Bordbücher;
 
 gg)  
-der Nachweis der besonderen Berechtigung für Radar nach der Binnenschiffspersonalverordnung oder das nach der Binnenschiffspersonalverordnung weitergeltende Radarpatent;
+der Nachweis der besonderen Berechtigung für Radar nach der Binnenschiffspersonalverordnung, der nach der Binnenschiffspersonalverordnung gleichgestellte Nachweis oder das nach der Binnenschiffspersonalverordnung weitergeltende Radarpatent;
 
 hh)  
 ein Sprechfunkzeugnis für den Binnenschifffahrtsfunk;
@@ -822,7 +820,7 @@ bei Fahrzeugen, die das Kennzeichen nach § 2.06 tragen, das in Anlage 8 Nummer
 f) Urkunden und Unterlagen zur Ladung und zu den Betriebsstoffen:
 
 aa)  
-die nach ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3 erforderlichen Urkunden und Unterlagen;
+die nach den Unterabschnitten 8.1.2.1, 8.1.2.2 und 8.1.2.3 des ADN erforderlichen Urkunden und Unterlagen;
 
 bb)  
 bei Containerbeförderung
@@ -833,9 +831,15 @@ die von der Generaldirektion Wasserstraßen und Schifffahrt geprüften Stabilit�
 bbb)  
 das Ergebnis der Stabilitätsprüfung und der aktuelle Stauplan; das Ergebnis der Stabilitätsprüfung und der aktuelle Stauplan können auch elektronisch mitgeführt werden, wenn sie jederzeit lesbar gemacht werden können;
 
-cc) das ordnungsgemäß ausgefüllte Ölkontrollbuch.
+cc) das ordnungsgemäß ausgefüllte Ölkontrollbuch;
 
-Die Urkunden nach Satz 1 Buchstabe b Doppelbuchstabe aa, ii und jj können auch in einer jederzeit lesbaren, elektronischen Textfassung, die der Anforderung des Musters des Anhangs I Nummer 1 der Durchführungsverordnung (EU) 2020/182 der Kommission vom 14. Januar 2020 über Muster im Bereich der Berufsqualifikationen in der Binnenschifffahrt (ABl. L 38 vom 11.2.2020, S. 1) genügt, an Bord mitgeführt werden. Die Urkunden und Unterlagen nach Satz 1 Buchstabe b Doppelbuchstabe ff, Buchstabe c, d Doppelbuchstabe aa bis dd, Buchstabe e und f Doppelbuchstabe bb können auch in einer jederzeit lesbaren, elektronischen Textfassung im Dateiformat PDF an Bord mitgeführt werden. Das Beförderungspapier nach ADN Unterabschnitt 8.1.2.1 Buchstabe b und die Schiffsstoffliste nach ADN Unterabschnitt 8.1.2.3 Buchstabe g können auch in einer jederzeit lesbaren, elektronischen Textfassung in einem Format, das den Anforderungen des ADN Unterabschnitt 5.4.0.2 in Verbindung mit dem Leitfaden für die Anwendung des ADN Unterabschnitt 5.4.0.2 genügt, an Bord mitgeführt werden. Die Unterlage nach Satz 1 Buchstabe d Doppelbuchstabe ee und das Europäische Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen einschließlich der dem Übereinkommen als Anlage beigefügten Verordnung (ADN Unterabschnitt 8.1.2.1 Buchstabe d) können auch in einer jederzeit lesbaren, elektronischen Textfassung mitgeführt werden.
+dd)  
+der Bezugsnachweis für Gasöl, einschließlich der Quittungen für die Entgelttransaktionen des SPE-CDNI über einen Zeitraum von mindestens zwölf Monaten; liegt der letzte Bezug von Gasöl mehr als zwölf Monate zurück, der letzte Bezugsnachweis von Gasöl;
+
+ee)  
+die Entladebescheinigung.
+
+Die Urkunden nach Satz 1 Buchstabe b Doppelbuchstabe aa, ii und jj können auch in einer jederzeit lesbaren, elektronischen Textfassung, die der Anforderung des Musters des Anhangs I Nummer 1 der Durchführungsverordnung (EU) 2020/182 der Kommission vom 14. Januar 2020 über Muster im Bereich der Berufsqualifikationen in der Binnenschifffahrt (ABl. L 38 vom 11.2.2020, S. 1) genügt, an Bord mitgeführt werden. Die Urkunden und Unterlagen nach Satz 1 Buchstabe b Doppelbuchstabe ff, Buchstabe c und d Doppelbuchstabe aa bis dd, Buchstabe e und f Doppelbuchstabe bb und dd können auch in einer jederzeit lesbaren, elektronischen Textfassung im Dateiformat PDF, die Unterlage nach Satz 1 Buchstabe f Doppelbuchstabe ee kann auch in einer jederzeit lesbaren, elektronischen Textfassung mit fälschungssicherer Signatur nach Artikel 26 der Verordnung (EU) Nr. 910/2014 in der Fassung vom 23. Juli 2014 an Bord mitgeführt werden. Das Beförderungspapier nach Unterabschnitt 8.1.2.1 Buchstabe b des ADN und die Schiffsstoffliste nach Unterabschnitt 8.1.2.3 Buchstabe g des ADN können auch in einer jederzeit lesbaren, elektronischen Textfassung in einem Format, das den Anforderungen des Unterabschnitt 5.4.0.2 des ADN in Verbindung mit dem Leitfaden für die Anwendung des Unterabschnitt 5.4.0.2 des ADN genügt, an Bord mitgeführt werden. Die Unterlage nach Satz 1 Buchstabe d Doppelbuchstabe ee und das Europäische Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen einschließlich der dem Übereinkommen als Anlage beigefügten Verordnung (Unterabschnitt 8.1.2.1 Buchstabe d des ADN) können auch in einer jederzeit lesbaren, elektronischen Textfassung mitgeführt werden.
 
 2. Die Schiffspapiere nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb müssen jedoch nicht an Bord eines Schubleichters mitgeführt werden, auf dem eine Metalltafel nach folgendem Muster angebracht ist:  
   
@@ -882,7 +886,7 @@ Die geforderten Angaben müssen auf der Metalltafel in gut lesbaren Buchstaben v
 
 7. Der Schiffsführer hat sicherzustellen, dass die folgenden Urkunden und Unterlagen an Bord mitgeführt werden:
 
-a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe bb, Buchstabe b Doppelbuchstabe aa, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe bb, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe cc bis jj, Buchstabe c, d, e Doppelbuchstabe aa, bb, ff, gg, hh, jj und ll und Buchstabe f Doppelbuchstabe bb und
+a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe bb, Buchstabe b Doppelbuchstabe aa, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe bb, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe cc bis jj, Buchstabe c, d, e Doppelbuchstabe aa, bb, ff, gg, hh, jj und ll und Buchstabe f Doppelbuchstabe bb, dd und ee und
 
 b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und cc, Buchstabe b Doppelbuchstabe aa, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, und Doppelbuchstabe bb, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Buchstabe e Doppelbuchstabe cc bis ee, ii und kk und Buchstabe f Doppelbuchstabe aa.
 
@@ -896,7 +900,7 @@ b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und Buch
 
 a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb, Buchstabe b Doppelbuchstabe aa, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe bb, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerschein-verordnung handelt, und Doppelbuchstabe cc bis jj, Buchstabe c, d, e Doppelbuchstabe aa, bb, ff bis hh, jj und ll und Buchstabe f Doppelbuchstabe bb und
 
-b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe cc, Buchstabe b Doppelbuchstabe aa, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe bb, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Buchstabe e Doppelbuchstabe cc bis ee, ii und kk und Buchstabe f Doppelbuchstabe aa.
+b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe cc, Buchstabe b Doppelbuchstabe aa, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe bb, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Buchstabe e Doppelbuchstabe cc bis ee, ii und kk und Buchstabe f Doppelbuchstabe aa, dd und ee.
 
 # § 1.11 – Mitführen der Binnenschifffahrtsstraßen-Ordnung
 
@@ -1539,8 +1543,9 @@ ein Topplicht auf dem Vorschiff jedes anderen Fahrzeugs, dessen ganze Breite von
 
 Die Masten dieser Topplichter müssen in der Längsebene des Fahrzeugs stehen, auf dem sie geführt werden;
 
-b) als Seitenlichter  
-auf dem breitesten Teil des Verbandes, höchstens 1,00 m von dessen Außenseiten entfernt, möglichst nahe beim schiebenden Fahrzeug und mindestens 2,00 m über dem Wasserspiegel;
+b) Seitenlichter
+
+so weit wie möglich hinten am breitesten Teil des Schubverbandes, höchstens 1,00 m von den Außenseiten des Schubverbandes entfernt und mindestens 2,00 m über dem Wasserspiegel;
 
 c) als Hecklichter
 
@@ -1881,7 +1886,7 @@ oder
 
 # § 3.14 – Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung bestimmter gefährlicher Güter(Anlage 3: Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
 
-1. Ein Fahrzeug in Fahrt, das bestimmte entzündbare Stoffe nach Kapitel 3.2 Tabelle A ADN befördert, muss zusätzlich zu der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADN Unterabschnitt 7.1.5.0 oder 7.2.5.0 führen:
+1. Ein Fahrzeug in Fahrt, das bestimmte entzündbare Stoffe nach Kapitel 3.2 Tabelle A des ADN befördert, muss zusätzlich zu der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung folgende Bezeichnung nach den Unterabschnitten 7.1.5.0 oder 7.2.5.0 des ADN führen:
 
 a) bei Nacht:
 
@@ -1928,7 +1933,7 @@ querab über Achteraus bis Steuerbord querab
 </tbody>
 </table>
 
-2. Ein Fahrzeug in Fahrt, das bestimmte gesundheitsschädliche Stoffe nach Kapitel 3.2 Tabelle A ADN befördert, muss zusätzlich zu der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADN Unterabschnitt 7.1.5.0 oder 7.2.5.0 führen:
+2. Ein Fahrzeug in Fahrt, das bestimmte gesundheitsschädliche Stoffe nach Kapitel 3.2 Tabelle A des ADN befördert, muss zusätzlich zu der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung folgende Bezeichnung nach Unterabschnitt 7.1.5.0 oder 7.2.5.0 des ADN führen:
 
 a) bei Nacht:
 
@@ -1981,7 +1986,7 @@ querab über Achteraus bis Steuerbord querab
 </tbody>
 </table>
 
-3. Ein Fahrzeug in Fahrt, das bestimmte explosive Stoffe nach Kapitel 3.2 Tabelle A ADN befördert, muss zusätzlich zu der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADN Unterabschnitt 7.1.5.0 oder 7.2.5.0 führen:
+3. Ein Fahrzeug in Fahrt, das bestimmte explosive Stoffe nach Kapitel 3.2 Tabelle A des ADN befördert, muss zusätzlich zu der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung folgende Bezeichnung nach Unterabschnitt 7.1.5.0 oder 7.2.5.0 des ADN führen:
 
 a) bei Nacht:
 
@@ -2047,7 +2052,7 @@ querab über Achteraus bis Steuerbord querab
 
 6. Ein Fahrzeug, ein Schubverband oder gekuppelte Fahrzeuge, das, der oder die verschiedene gefährliche Güter nach den Nummern 1, 2 oder 3 zusammen befördern, führen die Bezeichnung für das gefährliche Gut, das die größte Anzahl der blauen Lichter oder blauen Kegel erfordert.
 
-7. Ein Fahrzeug, das keine Bezeichnung nach Nummer 1, 2 oder 3 führen muss, jedoch nach ADN Abschnitt 1.16.1 ein Zulassungszeugnis besitzt und die Sicherheitsbestimmungen einhält, die für ein Fahrzeug nach Nummer 1 gelten, hat bei der Annäherung an Schleusen die Bezeichnung nach Nummer 1 zu führen, wenn es zusammen mit einem Fahrzeug geschleust werden will, das die Bezeichnung nach Nummer 1 führen muss.
+7. Ein Fahrzeug, das keine Bezeichnung nach Nummer 1, 2 oder 3 führen muss, jedoch nach Abschnitt 1.16.1 des ADN ein Zulassungszeugnis besitzt und die Sicherheitsbestimmungen einhält, die für ein Fahrzeug nach Nummer 1 gelten, hat bei der Annäherung an Schleusen die Bezeichnung nach Nummer 1 zu führen, wenn es zusammen mit einem Fahrzeug geschleust werden will, das die Bezeichnung nach Nummer 1 führen muss.
 
 8. Die Lichtstärke der in den Nummern 1 bis 7 vorgeschriebenen blauen Lichter muss mindestens derjenigen der gewöhnlichen blauen Lichter entsprechen.
 
@@ -3221,7 +3226,10 @@ ccc) in dem in Nummer 8 genannten Fall mit einer Sprechfunkanlage für den Verke
 bb)  
 das Inland AIS Gerät den in Nummer 1 Satz 1 und Nummer 6 Satz 1 jeweils genannten Vorschriften entspricht und
 
-cc) die in Nummer 4 genannten Daten nach Fahrtantritt vollständig übermittelt und die in Nummer 5 genannten Daten nach Auftreten einer Änderung unverzüglich und vollständig aktualisiert werden und
+cc) das Inland ECDIS Gerät und die elektronische Binnenschifffahrtskarte den Anforderungen der in Nummer 3 Satz 3 genannten Vorschriften entsprechen und
+
+dd)  
+die in Nummer 4 genannten Daten nach Fahrtantritt vollständig übermittelt und die in Nummer 5 genannten Daten nach Auftreten einer Änderung unverzüglich und vollständig aktualisiert werden und
 
 b) in dem in Nummer 8 genannten Fall die Sprechfunkanlage auf Empfang zu schalten.
 
@@ -3235,9 +3243,11 @@ mit einem Inland AIS Gerät nach Nummer 1 Satz 1 ausgestattet ist,
 bb)  
 in dem in Nummer 3 Satz 1 genannten Fall mit einem dort genannten Inland ECDIS Gerät ausgestattet ist und
 
-cc) in dem in Nummer 8 genannten Fall mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist und
+cc) in dem in Nummer 8 genannten Fall mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
 
-b) das Inland AIS Gerät den in Nummer 1 Satz 1 und Nummer 6 Satz 1 jeweils genannten Vorschriften entspricht.
+b) das Inland AIS Gerät den in Nummer 1 Satz 1 und Nummer 6 Satz 1 jeweils genannten Vorschriften entspricht und
+
+c) das Inland ECDIS Gerät und die elektronische Binnenschifffahrtskarte den Anforderungen der in Nummer 3 Satz 3 genannten Vorschriften entsprechen.
 
 # § 5.01 – Schifffahrtszeichen
 
@@ -3892,7 +3902,7 @@ muss ein anderes Fahrzeug seine Geschwindigkeit, wie in Nummer 1 vorgeschrieben,
 
 1. Ein Fahrzeug mit Maschinenantrieb, das einen Verband fortbewegt, muss über eine ausreichende Maschinenleistung verfügen, um die gute Manövrierfähigkeit des Verbandes zu gewährleisten.
 
-2. Ein Fahrzeug mit Maschinenantrieb darf außer im Falle der Rettung oder Hilfeleistung in Notfällen nur dann zum Schleppen, zum Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet werden, soweit dies in seiner Fahrtauglichkeitsbescheinigung zugelassen ist. Hierbei muss sich das Fahrzeug mit Maschinenantrieb, das bei gekuppelten Fahrzeugen die Hauptantriebskraft stellt, an der Steuerbordseite befinden. Wenn jedoch ein oder mehrere Fahrzeuge ohne Maschinenantrieb mitgeführt werden, darf eines an der Steuerbordseite gekuppelt werden.
+2. Ein Fahrzeug mit Maschinenantrieb darf außer im Falle der Rettung oder Hilfeleistung in Notfällen nur dann zum Schleppen, zum Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet werden, soweit dies in seiner Fahrtauglichkeitsbescheinigung zugelassen ist. Werden in einem Schubverband oder bei gekuppelten Fahrzeugen ein oder mehrere Fahrzeuge mitgeführt, dürfen diese sich sowohl an der Backbordseite als auch an der Steuerbordseite des Fahrzeugs mit Maschinenantrieb, das den Verband fortbewegt, befinden.
 
 3. Ein Fahrgastschiff und eine Personenbarkasse, das oder die Fahrgäste an Bord haben, dürfen nicht längsseits gekuppelt fahren; es oder sie darf weder schleppen noch geschleppt werden, es sei denn, dass dies zum Abschleppen eines beschädigten Fahrzeugs erforderlich ist.
 
@@ -4354,11 +4364,11 @@ c) eine Beeinträchtigung anderer Verkehrsteilnehmer oder eine Beschädigung der
 
 10. Im Schleusenbereich muss zu einem Fahrzeug oder einem Verband, das oder der die Bezeichnung nach § 3.14 Nummer 1, 2 oder 3 führt, ein seitlicher Abstand von mindestens 10,00 m eingehalten werden. Dies gilt jedoch nicht für ein Fahrzeug oder einen Verband, das oder der die gleiche Bezeichnung führt und für das in § 3.14 Nummer 7 genannte Fahrzeug.
 
-11. Ein Fahrzeug oder ein Verband, das oder der die Bezeichnung nach § 3.14 Nummer 2 oder 3 führt, muss jeweils allein geschleust werden. Abweichend von Satz 1 kann ein Trockengüterschiff nach ADN, das Container, Großpackmittel (IBC), Großverpackungen, Gascontainer mit mehreren Elementen (MEGC), Tankcontainer und ortsbewegliche Tanks nach ADN Unterabschnitt 7.1.1.18 befördert und die Bezeichnung nach § 3.14 Nummer 2 führt, gemeinsam
+11. Ein Fahrzeug oder ein Verband, das oder der die Bezeichnung nach § 3.14 Nummer 2 oder 3 führt, muss jeweils allein geschleust werden. Abweichend von Satz 1 kann ein Trockengüterschiff nach ADN, das Container, Großpackmittel (IBC), Großverpackungen, Gascontainer mit mehreren Elementen (MEGC), Tankcontainer und ortsbewegliche Tanks nach Unterabschnitt 7.1.1.18 des ADN befördert und die Bezeichnung nach § 3.14 Nummer 2 führt, gemeinsam
 
 a) mit einem gleichartigen Fahrzeug,
 
-b) mit einem Trockengüterschiff, das Container, Großpackmittel (IBC), Großverpackungen, Gascontainer mit mehreren Elementen (MEGC), Tankcontainer und ortsbewegliche Tanks nach ADN Unterabschnitt 7.1.1.18 befördert und die Bezeichnung nach § 3.14 Nummer 1 führt oder
+b) mit einem Trockengüterschiff, das Container, Großpackmittel (IBC), Großverpackungen, Gascontainer mit mehreren Elementen (MEGC), Tankcontainer und ortsbewegliche Tanks nach Unterabschnitt 7.1.1.18 des ADN befördert und die Bezeichnung nach § 3.14 Nummer 1 führt oder
 
 c) mit dem in § 3.14 Nummer 7 genannten Fahrzeug geschleust werden.
 
@@ -4612,7 +4622,7 @@ b) wenn es gerade von einem Ufer zum anderen wechselt, das Fahrwasser so weit un
 
 2. Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass die Tafel und die Leuchte des Funkellichts nach § 6.04 Nummer 3 Satz 1 Buchstabe a und b jeweils den Anforderungen nach § 6.04 Nummer 3 Satz 2 entsprechen.
 
-3. Der Schiffsführer hat die in § 6.21 Nummer 1 bis 3 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über die Zusammenstellung der Verbände einzuhalten oder sicherzustellen, dass diese eingehalten werden.
+3. Der Schiffsführer hat die in § 6.21 Nummer 1, Nummer 2 Satz 1 und Nummer 3 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über die Zusammenstellung der Verbände einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 4. Der Schiffsführer hat die in § 6.28 Nummer 16, 17 und 18 Satz 2, jeweils auch in Verbindung mit § 6.29a, § 6.29 Nummer 2 Satz 5, Nummer 6 Satz 5 und Nummer 8 Satz 2, jeweils auch in Verbindung mit § 6.29a, § 6.32 Nummer 1 Satz 1 und Nummer 2 und 3 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten im Verkehr einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
@@ -5208,7 +5218,7 @@ c) 100,00 m, wenn eines oder einer von ihnen die Bezeichnung nach § 3.14 Nummer
 
 a) für ein Fahrzeug, einen Schubverband oder gekuppelte Fahrzeuge, die die gleiche Bezeichnung führen;
 
-b) für ein Fahrzeug, das diese Bezeichnung nicht führt, jedoch nach ADN Abschnitt 1.16.1 ein Zulassungszeugnis besitzt und die Sicherheitsbestimmungen einhält, die für ein Fahrzeug nach § 3.14 Nummer 1 gelten.
+b) für ein Fahrzeug, das diese Bezeichnung nicht führt, jedoch nach Abschnitt 1.16.1 des ADN ein Zulassungszeugnis besitzt und die Sicherheitsbestimmungen einhält, die für ein Fahrzeug nach § 3.14 Nummer 1 gelten.
 
 3. In besonderen Fällen kann die zuständige Behörde Ausnahmen zulassen.
 
@@ -6459,13 +6469,9 @@ l) Anzahl der geführten blauen Lichter/blauen Kegel;
 
 m) Anzahl der an Bord befindlichen Personen.
 
-  
-
 Auf besondere Anforderung der Funkstelle „Oberwesel Revierzentrale“ hat der Schiffsführer Angaben zum Tiefgang des von ihm geführten Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 zu machen. Die Begrenzung der meldepflichtigen Strecke wird durch die Tafelzeichen B.11 (Anlage 7) mit einem Zusatzschild „Meldepflicht“ kenntlich gemacht.
 
-<!-- -->
-
-2. Die unter Nummer 1 Satz 1, ausgenommen Buchstabe c und m, genannten Angaben können auch von einer anderen Stelle oder Person rechtzeitig vor der Einfahrt des Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 in die meldepflichtige Strecke schriftlich, telefonisch oder auf elektronischem Wege der Funkstelle „Oberwesel Revierzentrale“ mitgeteilt werden. Für einen Transport mit einer Ladung von mehr als zwei Gefahrgütern muss die Meldung schriftlich oder elektronisch abgegeben werden. In jedem Fall muss der Schiffsführer der Funkstelle „Revierzentrale Oberwesel“ melden, wenn er mit dem von ihm geführten Fahrzeug, Verband oder Sondertransport nach § 1.21 in die meldepflichtige Strecke einfährt und diese wieder verlässt.
+2. Die unter Nummer 1 Satz 1, ausgenommen Buchstabe c und m, genannten Angaben können auch von einer anderen Stelle oder Person rechtzeitig vor der Einfahrt des Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 in die meldepflichtige Strecke schriftlich, telefonisch oder auf elektronischem Wege der Funkstelle „Oberwesel Revierzentrale“ mitgeteilt werden. Für einen Transport mit einer Ladung von mehr als zwei Gefahrgütern muss die Meldung schriftlich oder elektronisch abgegeben werden. In jedem Fall muss der Schiffsführer der Funkstelle „Revierzentrale Oberwesel“ melden, wenn er mit dem von ihm geführten Fahrzeug, Verband oder Sondertransport nach § 1.21 in die meldepflichtige Strecke einfährt und diese wieder verlässt. Sofern sich der Schiffsführer oder eine andere Stelle oder Person auf elektronischem Wege meldet, muss die Meldung gemäß den Bestimmungen des Anhangs 1 der Durchführungsverordnung (EU) 2019/1744 in der Fassung vom 17. September 2019 erfolgen.
 
 3. Unterbricht ein Fahrzeug, Verband oder Sondertransport nach § 1.21 die Fahrt innerhalb der meldepflichtigen Strecke für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung der Funkstelle „Oberwesel Revierzentrale“ melden.
 
@@ -6578,8 +6584,6 @@ einzuhalten oder sicherzustellen, dass diese eingehalten werden, und
 
 c) eine nach § 11.12 erteilte Weisung, rechtzeitig einen Schutzhafen oder eine geeignete Liegestelle aufzusuchen, einzuhalten oder sicherzustellen, dass diese eingehalten wird.
 
-<!-- -->
-
 2. Der Schiffsführer hat
 
 a) sicherzustellen, dass
@@ -6596,7 +6600,7 @@ aa)
 die Zusammenstellung der Verbände nach § 11.03 Nummer 1 Satz 1 und Nummer 2 und
 
 bb)  
-die Meldepflicht nach § 11.15 Nummer 1 Satz 1, 2, Nummer 2 Satz 2, 3 und Nummer 3 bis 5
+die Meldepflicht nach § 11.15 Nummer 1 Satz 1, 2, Nummer 2 Satz 2 bis 4 und Nummer 3 bis 5
 
 einzuhalten oder sicherzustellen, dass diese eingehalten werden,
 
@@ -6605,8 +6609,6 @@ c) die Regelung über den Verkehr nach § 11.22 zu beachten oder sicherzustellen
 d) die Verkehrsbeschränkung nach § 11.27 Nummer 1 Satz 1 zu beachten oder sicherzustellen, dass diese beachtet wird, und
 
 e) das in § 11.27 Nummer 2 Satz 1 vorgesehene Verbot, die dort angegebene Binnenschifffahrtsstraße zu befahren, zu beachten oder sicherzustellen, dass dieses beachtet wird.
-
-<!-- -->
 
 3. Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn
 
@@ -7413,9 +7415,7 @@ m) Anzahl der an Bord befindlichen Personen.
 
 Auf besondere Anforderung der Funkstelle „Duisburg Revierzentrale“ hat der Schiffsführer Angaben zum Tiefgang des von ihm geführten Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 zu machen. Die Begrenzung der meldepflichtigen Strecke wird durch die Tafelzeichen B.11 (Anlage 7) mit einem Zusatzschild „Meldepflicht“ kenntlich gemacht.
 
-<!-- -->
-
-2. Die unter Nummer 1 Satz 1, ausgenommen Buchstabe c und m, genannten Angaben können auch von einer anderen Stelle oder Person rechtzeitig vor der Einfahrt des Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 in die meldepflichtige Strecke schriftlich, telefonisch oder auf elektronischem Wege der Funkstelle „Duisburg Revierzentrale“ mitgeteilt werden. Für einen Transport mit einer Ladung von mehr als zwei Gefahrgütern muss die Meldung schriftlich oder elektronisch abgegeben werden. In jedem Fall muss der Schiffsführer der Funkstelle „Duisburg Revierzentrale“ melden, wenn er mit dem von ihm geführten Fahrzeug, Verband oder Sondertransport nach § 1.21 in die meldepflichtige Strecke einfährt und diese wieder verlässt.
+2. Die unter Nummer 1 Satz 1, ausgenommen Buchstabe c und m, genannten Angaben können auch von einer anderen Stelle oder Person rechtzeitig vor der Einfahrt des Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 in die meldepflichtige Strecke schriftlich, telefonisch oder auf elektronischem Wege der Funkstelle „Duisburg Revierzentrale“ mitgeteilt werden. Für einen Transport mit einer Ladung von mehr als zwei Gefahrgütern muss die Meldung schriftlich oder elektronisch abgegeben werden. In jedem Fall muss der Schiffsführer der Funkstelle „Duisburg Revierzentrale“ melden, wenn er mit dem von ihm geführten Fahrzeug, Verband oder Sondertransport nach § 1.21 in die meldepflichtige Strecke einfährt und diese wieder verlässt. Sofern sich der Schiffsführer oder eine andere Stelle oder Person auf elektronischem Wege meldet, muss die Meldung gemäß den Bestimmungen der Durchführungsverordnung (EU) 2019/1744 erfolgen.
 
 3. Unterbricht ein Fahrzeug, Verband oder Sondertransport nach § 1.21 die Fahrt innerhalb der meldepflichtigen Strecke für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung der Funkstelle „Duisburg Revierzentrale“ melden.
 
@@ -7483,8 +7483,6 @@ a) sicherzustellen, dass das Fahrzeug oder der Verband die zugelassene Höchstge
 
 b) die Vorschrift über die Schifffahrt bei Hochwasser nach § 14.11 einzuhalten oder sicherzustellen, dass diese eingehalten wird.
 
-<!-- -->
-
 2. Der Schiffsführer hat
 
 a) sicherzustellen, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 14.02 Nummer 1 nicht überschreitet, und
@@ -7495,11 +7493,9 @@ aa)
 die Zusammenstellung der Verbände nach § 14.03 und
 
 bb)  
-die Meldepflicht nach § 14.15 Nummer 1 Satz 1, 2, Nummer 2 Satz 2, 3 und Nummer 3 bis 5
+die Meldepflicht nach § 14.15 Nummer 1 Satz 1, 2, Nummer 2 Satz 2 bis 4 und Nummer 3 bis 5
 
 einzuhalten oder sicherzustellen, dass diese eingehalten werden.
-
-<!-- -->
 
 3. Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn das Fahrzeug oder der Verband die zugelassenen Höchstabmessungen nach § 14.02 Nummer 1 nicht überschreitet.
 
@@ -7650,9 +7646,9 @@ Elbe-Havel-Kanal (EHK) von dem Übergang aus dem Mittellandkanal bei Hohenwarthe
 Fahrzeug
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">135,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">12,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">3,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">135,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">12,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -7662,13 +7658,16 @@ Fahrzeug
 Verband
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">193,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">22,90</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">3,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">193,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">22,90</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">— die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet, die Vorschrift des § 1.07 Nummer 1 bleibt unberührt; die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 298 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">– die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet; die Vorschrift des § 1.07 Nummer 1 bleibt unberührt. Die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 295 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.1.3</td>
@@ -7685,9 +7684,9 @@ Verband
 Fahrzeug
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">135,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">12,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">3,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">135,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">12,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -7697,13 +7696,16 @@ Fahrzeug
 Verband
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">186,50</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">12,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">3,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">186,50</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">12,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">— die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet, die Vorschrift des § 1.07 Nummer 1 bleibt unberührt; die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 298 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">– die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet; die Vorschrift des § 1.07 Nummer 1 bleibt unberührt. Die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 295 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.1.4</td>
@@ -7720,9 +7722,9 @@ Verband
 Fahrzeug
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">135,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">12,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">3,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">135,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">12,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -7732,13 +7734,16 @@ Fahrzeug
 Verband
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">186,50</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">12,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">3,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">186,50</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">12,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3,00</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">— die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 298 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">– die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 295 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.1.5</td>
@@ -7811,18 +7816,17 @@ Verbindungskanal zur Ruhr</td>
 Fahrzeug
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">110,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">9,65</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">2,60</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">110,00<br />
+135,00<br />
+</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 9,65<br />
+11,45<br />
+</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2,60<br />
+2,50<br />
+</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">135,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">11,45</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">2,50</td>
-</tr>
-<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
@@ -7830,62 +7834,67 @@ Fahrzeug
 Verband
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">165,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">9,65</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">2,60</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">186,50</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">11,45</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">2,50</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">165,00<br />
+186,50</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> 9,65<br />
+11,45</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2,60<br />
+2,50</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">— von km 0,16 (Ruhrorter Hafen) bis km 0,65 (Schleuse Duisburg-Meiderich) verringert sich</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">– von km 0,16 (Ruhrorter Hafen) bis km 0,65 (Schleuse Duisburg-Meiderich) verringert sich</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
-die zulässige Abladetiefe von 2,60 m, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 220 sinkt, und
+die zulässige Abladetiefe von 2,60 m, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 222 sinkt, und
 </dd>
 </dl></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
-die zulässige Abladetiefe von 2,50 m, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 210 sinkt,
+die zulässige Abladetiefe von 2,50 m, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 212 sinkt,
 </dd>
 </dl></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">um das Maß des jeweiligen Absinkens des Wasserstandes,</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">um das Maß des jeweiligen Absinkens des Wasserstandes,<br />
+– zwischen km 39,97 (Hafen Victor) und km 45,60 (Dortmund-Ems-Kanal) darf ein Fahrzeug mit einer Breite über 9,65 m oder ein Verband mit einer Länge über 165,00 m oder einer Breite über 9,65 m nur in der in § 15.06 Nummer 6 Buchstabe b festgelegten Zeit und Richtung fahren –</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">zwischen km 39,97 (Hafen Victor) und km 45,60 (Dortmund-Ems-Kanal) darf ein Fahrzeug mit einer Breite über 9,65 m oder ein Verband mit einer Länge über 165,00 m oder einer Breite über 9,65 m nur in der in § 15.06 Nummer 6 Buchstabe b festgelegten Zeit und Richtung fahren –</td>
-</tr>
-<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">soweit nachfolgend nicht etwas anderes festgelegt ist</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.2.2</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">km 0,16 bis km 0,65 (Schleuse Duisburg-Meiderich)</td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
@@ -7893,11 +7902,11 @@ die zulässige Abladetiefe von 2,50 m, wenn der Wasserstand des Rheins am Pegel 
 Fahrzeug
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">135,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">11,45</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">3,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">135,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">11,45</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3,00</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
@@ -7905,70 +7914,80 @@ Fahrzeug
 Verband
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">186,50</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">11,45</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">3,00</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">– die zulässigen Abladetiefen verringern sich, wenn der Wasserstand des Rheins am Pegel Ruhrort</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">186,50</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">11,45</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">3,00</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<td style="text-align: left;" data-valign="top" data-charoff="50">– die zulässigen Abladetiefen verringern sich, wenn der Wasserstand des Rheins am Pegel Ruhrort</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
-bei einer Abladetiefe von 3,00 m unter die Marke 268,
+bei einer Abladetiefe von 3,00 m unter die Marke 262,
 </dd>
 </dl></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
-bei einer Abladetiefe von 2,80 m unter die Marke 248,
+bei einer Abladetiefe von 2,80 m unter die Marke 242,
 </dd>
 </dl></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
-bei einer Abladetiefe von 2,60 m unter die Marke 228 und
+bei einer Abladetiefe von 2,60 m unter die Marke 222 und
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
-<dt>d)</dt>
-<dd>
-bei einer Abladetiefe von 2,50 m unter die Marke 218 sinkt,
-</dd>
-</dl></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>d)</dt>
+<dd>
+bei einer Abladetiefe von 2,50 m unter die Marke 212 sinkt,
+</dd>
+</dl></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 </tr>
 <tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.2.3</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">km 0,65 bis km 1,07</td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
@@ -7980,7 +7999,7 @@ Fahrzeug
 <td style="text-align: center;" data-valign="middle" data-charoff="50">11,45</td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50">3,00</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
@@ -7992,7 +8011,7 @@ Verband
 <td style="text-align: center;" data-valign="middle" data-charoff="50">11,45</td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50">3,00</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.2.4</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">km 1,07 bis km 24,53 mit
 Verbindungskanal zur Ruhr</td>
@@ -8000,7 +8019,7 @@ Verbindungskanal zur Ruhr</td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
@@ -8012,7 +8031,7 @@ Fahrzeug
 <td style="text-align: center;" data-valign="middle" data-charoff="50">11,45</td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50">2,80</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
@@ -8024,24 +8043,24 @@ Verband
 <td style="text-align: center;" data-valign="middle" data-charoff="50">11,45</td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50">2,80</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50">Ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 90,00 m oder einer Breite von mehr als 9,65 m oder mit einer Abladetiefe von mehr als 2,50 m darf nur fahren, wenn es oder er mit einer aktiven Bugsteuereinrichtung oder einem Zweischraubenantrieb und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Schubverbandes ausgerüstet ist.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.3</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wesel-Datteln-Kanal</td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.3.1</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">km 0,24 (Rhein) bis km 60,23 (Dortmund-Ems-Kanal)</td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
@@ -8049,11 +8068,11 @@ Verband
 Fahrzeug
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">135,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">11,45</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">2,80</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">135,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">11,45</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2,80</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
@@ -8061,24 +8080,24 @@ Fahrzeug
 Verband
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">186,50</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">11,45</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">2,80</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">— von km 0,24 (Rhein) bis km 0,90 (Rhein-Lippe-Hafen) darf die zulässige Abladetiefe überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet; die Vorschrift des § 1.07 Nummer 1 bleibt unberührt,</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">186,50</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">11,45</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2,80</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">von km 0,24 bis km 1,85 (Schleuse Friedrichsfeld) verringert sich die zulässige Abladetiefe, wenn der Wasserstand des Rheins am Pegel Wesel unter die Marke 222 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">– von km 0,24 (Rhein) bis km 0,90 (Rhein-Lippe-Hafen) darf die zulässige Abladetiefe überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet; die Vorschrift des § 1.07 Nummer 1 bleibt unberührt,<br />
+von km 0,24 bis km 1,85 (Schleuse Friedrichsfeld) verringert sich die zulässige Abladetiefe, wenn der Wasserstand des Rheins am Pegel Wesel unter die Marke 219 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">soweit nachfolgend nicht etwas anderes festgelegt ist</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.3.2</td>
@@ -8089,19 +8108,17 @@ Verband
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
-<dt>b)</dt>
-<dd>
-Verband
-</dd>
-</dl></td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">193,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">22,90</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">2,80</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Verband</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">193,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">22,90</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2,80</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">— die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet, die Vorschrift des § 1.07 Nummer 1 bleibt unberührt; die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Wesel unter die Marke 222 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">– die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet, die Vorschrift des § 1.07 Nummer 1 bleibt unberührt; die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Wesel unter die Marke 219 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50">Ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 90,00 m oder einer Breite von mehr als 9,65 m oder mit einer Abladetiefe von mehr als 2,50 m darf nur fahren, wenn es oder er mit einer aktiven Bugsteuereinrichtung oder einem Zweischraubenantrieb und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Verbandes ausgerüstet ist.</td>
@@ -10400,7 +10417,7 @@ Abweichend von Satz 1 muss die Meldung auf dem
 
 Küstenkanal in der Bergfahrt beim Verlassen der Schleuse Oldenburg erfolgen. Auf besondere Anforderung der Funkstelle „Duisburg Revierzentrale“ hat der Schiffsführer Angaben zum Tiefgang des von ihm geführten Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 zu machen. Die Begrenzungen der meldepflichtigen Strecken werden durch die Tafelzeichen B.11 (Anlage 7) mit einem Zusatzschild „Meldepflicht“ kenntlich gemacht.
 
-2. Die unter Nummer 1 Satz 1, ausgenommen Buchstabe c und m, genannten Angaben können auch von einer anderen Stelle oder Person rechtzeitig vor der Einfahrt des Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 in eine meldepflichtige Strecke schriftlich, telefonisch oder auf elektronischem Wege der Funkstelle „Duisburg Revierzentrale“ mitgeteilt werden. Für einen Transport mit einer Ladung von mehr als zwei Gefahrgütern muss die Meldung schriftlich oder elektronisch abgegeben werden. In jedem Fall muss der Schiffsführer der Funkstelle „Duisburg Revierzentrale“ melden, wenn er mit dem von ihm geführten Fahrzeug, Verband oder Sondertransport nach § 1.21 in eine meldepflichtige Strecke einfährt und diese wieder verlässt.
+2. Die unter Nummer 1 Satz 1, ausgenommen Buchstabe c und m, genannten Angaben können auch von einer anderen Stelle oder Person rechtzeitig vor der Einfahrt des Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 in eine meldepflichtige Strecke schriftlich, telefonisch oder auf elektronischem Wege der Funkstelle „Duisburg Revierzentrale“ mitgeteilt werden. Für einen Transport mit einer Ladung von mehr als zwei Gefahrgütern muss die Meldung schriftlich oder elektronisch abgegeben werden. In jedem Fall muss der Schiffsführer der Funkstelle „Duisburg Revierzentrale“ melden, wenn er mit dem von ihm geführten Fahrzeug, Verband oder Sondertransport nach § 1.21 in eine meldepflichtige Strecke einfährt und diese wieder verlässt. Sofern sich der Schiffsführer oder eine andere Stelle oder Person auf elektronischem Wege meldet, muss die Meldung gemäß den Bestimmungen der Durchführungsverordnung (EU) 2019/1744 erfolgen.
 
 3. Unterbricht ein Fahrzeug, Verband oder Sondertransport nach § 1.21 die Fahrt innerhalb einer meldepflichtigen Strecke für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung der Funkstelle „Duisburg Revierzentrale“ melden.
 
@@ -10851,7 +10868,7 @@ die Zusammenstellung der Verbände nach § 15.03 Nummer 1 bis 5 Satz 1,
 bb)  
 das Stillliegen nach § 15.10 Nummer 1, 4 und 5,
 
-cc) die Meldepflicht nach § 15.15 Nummer 1 Satz 1 bis 3, Nummer 2 Satz 2, 3 und Nummer 3 bis 5 und
+cc) die Meldepflicht nach § 15.15 Nummer 1 Satz 1 bis 3, Nummer 2 Satz 2 bis 4 und Nummer 3 bis 5 und
 
 dd)  
 das Führen eines Schubleichters nach § 15.26 Nummer 1 Satz 1
@@ -11140,52 +11157,54 @@ mit besonderer Erlaubnis 1,40 m</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">6.1</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">km 20,89 (Ihmemündung) bis km 22,29 (Mündung Verbindungskanal zur Leine)</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="middle" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">km 20,89 (Ihmemündung) bis km 22,29 (Mündung<br />
+Verbindungskanal zur Leine)<br />
+Fahrzeug/Schubverband</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+73,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+8,20</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+je nach<br />
+Wasserstand</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Fahrzeug/Schubverband</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">73,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">9,50</td>
-<td style="text-align: left;" data-valign="middle" data-charoff="50">je nach Wasserstand</td>
-</tr>
-<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">6.2</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">km 110,00 (Einmündung Schleusenkanal Hademstorf der Aller) bis km 112,08 (Leinemündung)</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="middle" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Fahrzeug/Schubverband</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">58,00</td>
-<td style="text-align: center;" data-valign="middle" data-charoff="50">9,50</td>
-<td style="text-align: left;" data-valign="middle" data-charoff="50">je nach Wasserstand</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">km 110,00 (Einmündung Schleusenkanal Hademstorf<br />
+der Aller) bis km 112,08 (Leinemündung)<br />
+Fahrzeug/Schubverband</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+58,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+9,50</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+je nach<br />
+Wasserstand</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">7.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ihme</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">km 20,50 bis km 20,89 (Ihmemündung)</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Fahrzeug/Schubverband</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">73,00</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">9,50</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">je nach Wasserstand.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">km 20,50 bis km 20,89 (Ihmemündung)<br />
+Fahrzeug/Schubverband</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+73,00</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+8,20</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+je nach<br />
+Wasserstand</td>
 </tr>
 </tbody>
 </table>
@@ -11460,7 +11479,7 @@ n) Anzahl der an Bord befindlichen Personen.
 
 Die Begrenzung der meldepflichtigen Strecke wird durch die Tafelzeichen B.11 (Anlage 7) mit einem Zusatzschild „Meldepflicht“ kenntlich gemacht.
 
-2. Die unter Nummer 1 Satz 1, ausgenommen Buchstabe c, h und n, genannten Angaben können auch von einer anderen Stelle oder Person rechtzeitig vor der Einfahrt des Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 in die meldepflichtige Strecke schriftlich, telefonisch oder auf elektronischem Wege der Funkstelle „Bremen Verkehrszentrale“ mitgeteilt werden. Für einen Transport mit einer Ladung von mehr als zwei Gefahrgütern muss die Meldung schriftlich oder elektronisch abgegeben werden. In jedem Fall muss der Schiffsführer der Funkstelle „Bremen Verkehrszentrale“ melden, wenn er mit dem von ihm geführten Fahrzeug, Verband oder Sondertransport nach § 1.21 in die meldepflichtige Strecke einfährt und diese wieder verlässt.
+2. Die unter Nummer 1 Satz 1, ausgenommen Buchstabe c, h und n, genannten Angaben können auch von einer anderen Stelle oder Person rechtzeitig vor der Einfahrt des Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 in die meldepflichtige Strecke schriftlich, telefonisch oder auf elektronischem Wege der Funkstelle „Bremen Verkehrszentrale“ mitgeteilt werden. Für einen Transport mit einer Ladung von mehr als zwei Gefahrgütern muss die Meldung schriftlich oder elektronisch abgegeben werden. In jedem Fall muss der Schiffsführer der Funkstelle „Bremen Verkehrszentrale“ melden, wenn er mit dem von ihm geführten Fahrzeug, Verband oder Sondertransport nach § 1.21 in die meldepflichtige Strecke einfährt und diese wieder verlässt. Sofern sich der Schiffsführer oder eine andere Stelle oder Person auf elektronischem Wege meldet, muss die Meldung gemäß den Bestimmungen der Durchführungsverordnung (EU) 2019/1744 erfolgen.
 
 3. Unterbricht ein Fahrzeug, Verband oder Sondertransport nach § 1.21 die Fahrt innerhalb der meldepflichtigen Strecke für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung der Funkstelle „Bremen Verkehrszentrale“ melden.
 
@@ -11604,7 +11623,7 @@ aa)
 die Zusammenstellung der Verbände nach § 16.03 und
 
 bb)  
-die Meldepflicht nach § 16.15 Nummer 1 Satz 1, Nummer 2 Satz 2, 3 und Nummer 3 und 4
+die Meldepflicht nach § 16.15 Nummer 1 Satz 1, Nummer 2 Satz 2 bis 4 und Nummer 3 und 4
 
 einzuhalten oder sicherzustellen, dass diese eingehalten werden, und
 
@@ -12942,7 +12961,7 @@ wasser der Schleuse Güdingen (km 92,90)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">3.</td>
-<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">In der Stauhaltung Saarbrücken (km 82,50 bis km 92,90) kann die zuständige Behörde abweichend von Nummer 2 Ausnahmen zulassen.</td>
+<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">In der Stauhaltung Saarbrücken (km 82,50 bis km 92,90) kann die zuständige Behörde abweichend von Nummer 1 Ausnahmen zulassen.</td>
 </tr>
 </tbody>
 </table>
@@ -13145,7 +13164,7 @@ dd)
 den Einsatz von Trägerschiffsleichtern nach § 20.14 Satz 1 und
 
 ee)  
-die Meldepflicht nach § 20.15 Nummer 1 Satz 1, 2, Nummer 2, 3 Satz 2 und 3 und Nummer 4 bis 6
+die Meldepflicht nach § 20.15 Nummer 1 Satz 1, 2, Nummer 2, 3 Satz 2 bis 4 und Nummer 4 bis 6
 
   
 einzuhalten oder sicherzustellen, dass diese eingehalten werden.
@@ -15266,7 +15285,7 @@ Auf der
 
 Müggelspree zwischen km 0,00 und km 11,40 und auf der
 
-Spree-Oder-Wasserstraße zwischen km 26,50 und km 45,11 ist das Ankern verboten. Satz 1 gilt nicht für ein Sportfahrzeug, das ein Kleinfahrzeug ist.
+Spree-Oder-Wasserstraße zwischen km 24,40 und km 45,11 ist das Ankern verboten. Satz 1 gilt nicht für ein Sportfahrzeug, das ein Kleinfahrzeug ist.
 
 # § 21.10 – Stillliegen
 
@@ -17290,6 +17309,8 @@ Unteren Havel-Wasserstraße zwischen der Abzweigung des Stadtgrabens Havelberg (
 Untere Havel km 145,80 bis km 156,75 auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe d Doppelbuchstabe ee) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Fernbedienzentrale Rathenow“ melden. Diese Meldung kann auch schriftlich, telefonisch oder auf elektronischem Weg erfolgen. Satz 1 gilt nicht für den Schiffsführer eines Klein- oder Sportfahrzeugs.
 
 4. Unterbricht ein Fahrzeug oder Verband die Fahrt innerhalb der meldepflichtigen Strecke nach Nummer 3 für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung der Funkstelle „Fernbedienzentrale Rathenow“ melden.
+
+5. Sofern sich der Schiffsführer auf elektronischem Wege meldet, muss die Meldung gemäß den Bestimmungen der Durchführungsverordnung (EU) 2019/1744 erfolgen.
 
 # § 22.16 – Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
@@ -22531,7 +22552,7 @@ d) die Fahrgeschwindigkeit, wenn während der Fahrt gebunkert wird.
 
 # § 29.04 – Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)
 
-1. Die in § 28.03 Nummer 1 Buchstabe a und b und Nummer 2 Buchstabe a und d genannten Vorschriften gelten nicht beim Bunkern von Flüssigerdgas (LNG).
+1. Die in § 29.03 Nummer 1 Buchstabe a und b und Nummer 2 Buchstabe a und d genannten Vorschriften gelten nicht beim Bunkern von Flüssigerdgas (LNG).
 
 2. Das Bunkern von Flüssigerdgas (LNG) während der Fahrt, beim Umschlag von Gütern sowie beim Ein- und Aussteigen von Fahrgästen ist nicht gestattet.
 

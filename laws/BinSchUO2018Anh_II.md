@@ -5,77 +5,13 @@
 
  
 
- 
+# § 1.01 – Anzuwendende Vorschriften
 
- 
+1. Für Fähren, die keine Kahn- oder Kahnseilfähren sind, sind die Kapitel 1, 2 Unterkapitel 1 und das Kapitel 4 sowie, soweit zutreffend, das Kapitel 3 anzuwenden.
 
- 
+2. Für Kahn- und Kahnseilfähren sind die Kapitel 1 und 2 Unterkapitel 2 anzuwenden.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-# § 1.01 – Begriffsbestimmungen
+# § 1.02 – Begriffsbestimmungen
 
 In diesem Anhang gelten als:
 
@@ -83,15 +19,15 @@ In diesem Anhang gelten als:
 
 2. „Wagenfähre“ eine zur Beförderung von Landfahrzeugen, Personen und sonstigen Lasten gebaute und eingerichtete Fähre;
 
-3. „Frei fahrende Fähren“ Kahnfähren, Personenmotorfähren, Wagenmotorfähren;
+3. „frei fahrende Fähren“ Kahnfähren, Personenmotorfähren, Wagenmotorfähren;
 
-4. „Kahnfähre“ eine zur Beförderung von Personen gebaute, offene Fähre, die durch Muskelkraft fortbewegt wird; auch mit einem – zur Beherrschung besonderer Betriebslagen – Hilfsantrieb ausgestattet;
+4. „Kahnfähre“ eine zur Beförderung von Personen gebaute, offene Fähre, die durch Muskelkraft fortbewegt wird; zusätzlich kann – zur Beherrschung besonderer Betriebslagen – ein Hilfsantrieb installiert sein;
 
 5. „Personenmotorfähre“ eine Personenfähre mit maschinellem Antrieb;
 
 6. „Wagenmotorfähre“ eine Wagenfähre mit maschinellem Antrieb;
 
-7. „Seil- oder kettengebundene Fähren“ Querseilfähren, Kahnseilfähren, Seilfähren, Kettenfähren, Gierseilfähren;
+7. „seil- oder kettengebundene Fähren“ Querseilfähren, Kahnseilfähren, Seilfähren, Kettenfähren, Gierseilfähren;
 
 8. „Querseilfähre“ eine Personen- oder Wagenfähre, die an einem an beiden Ufern befestigten Seil geführt wird und entweder an diesem Führungsseil oder an einem zweiten Seil (Zugseil) mit der Hand oder durch eine Winde von einem Ufer zum anderen bewegt wird (Personenquerseilfähre, Wagenquerseilfähre);
 
@@ -101,47 +37,67 @@ In diesem Anhang gelten als:
 
 11. „Kettenfähre“ eine Seilfähre, die anstelle der Seile mit Ketten ausgerüstet ist (Personenkettenfähre, Wagenkettenfähre);
 
-12. „Gierseilfähre“ eine Personen- oder Wagenfähre, die ausschließlich durch Einnehmen einer Gierstellung, an einem festen Seil geführt, quer zur Fließrichtung eines Flusses fortbewegt wird, einschließlich der Seilanlage sowie der Abspannmasten und/oder der Verankerung (Personengierseilfähre, Wagengierseilfähre);
+12. „Gierseilfähre“ eine Personen- oder Wagenfähre, die ausschließlich durch Einnehmen einer Gierstellung, an einem festen Seil geführt, quer zur Fließrichtung eines Flusses fortbewegt wird, einschließlich der Seilanlage sowie der Abspannmasten und der Verankerung (Personengierseilfähre, Wagengierseilfähre);
 
 13. „Gierseilfähre mit Hilfsantrieb“ eine Gierseilfähre, die zusätzlich mit eigenem Antrieb versehen ist;
 
 14. „Landfahrzeug“ ein Kraftfahrzeug, ein Pferdefuhrwerk, ein fahrbares Gerät oder Zugfahrzeuge; Zugfahrzeuge gelten hierbei zusammen mit ihren Anhängern als ein Landfahrzeug;
 
-15. „Das zulässige Gesamtgewicht eines Landfahrzeugs“ das Gewicht eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das in beliebiger Anzahl bis zum Erreichen der Tragfähigkeit auf der verfügbaren Ladefläche des Fährdecks in beliebiger Anordnung aufgestellt werden kann;
+15. „Gesamtgewicht eines Landfahrzeugs“ das Gewicht eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das in beliebiger Anzahl bis zum Erreichen der Tragfähigkeit auf der verfügbaren Ladefläche des Fährdecks in beliebiger Anordnung aufgestellt werden kann;
 
 16. „Tragfähigkeit“ die Gesamtzuladefähigkeit einer Wagenfähre in Tonnen mit homogener oder gemischter Last;
 
-17. „Zulässige Gesamtmasse des schwersten Landfahrzeugs“ die Masse eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das allein und ohne gleichzeitige Beförderung weiterer Nutzlasten bei ausschließlich mittiger Aufstellung auf dem Fährdeck einer Wagenfähre befördert werden kann;
+17. „maximales Gesamtgewicht des schwersten Landfahrzeugs“ die Masse eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das allein und ohne gleichzeitige Beförderung weiterer Nutzlasten bei ausschließlich mittiger Aufstellung auf dem Fährdeck einer Wagenfähre befördert werden kann;
 
-18. Abweichend von ES-TRIN gelten folgende Begriffsbestimmungen:
+18. „Länge in der Wasserlinie“ oder „L<sub>WL</sub>“ das Begriffverständnis im Sinne des ES-TRIN unter Berücksichtigung der Landeklappen, wenn diese während der Fahrt die Lateralfläche vergrößern;
 
-a) Statt „Schiffsattest“, „Unionszeugnis“ und „Binnenschiffszeugnis“ gilt „Fährzeugnis“.
+19. „Landeklappe“ eine kippbare Überbrückung zwischen Fährdeck und Land;
 
-b) Statt „„Länge in der Wasserlinie“ oder „L<sub>WL</sub>“ die in der Ebene der größten Einsenkung des Schiffes gemessene größte Länge des Schiffskörpers in m“ gilt „„Länge (L<sub>WL</sub>)“ die in der Ebene der größten Einsenkung gemessene Länge des Fährkörpers ohne Berücksichtigung der Landeklappen“.
+20. „Schrammbord“ eine radabweisende seitliche Fahrbahnbegrenzung;
 
-# § 1.02 – Allgemeines
+21. „Gierschwert“ eine ein- und austauchbare Fläche zur Vergrößerung des Unterwasserlateralplans;
 
-1. Für Fähren sind der ES-TRIN sowie die Anhänge III bis VII mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
+22. „Fährdeck" das durchlaufende Deck der Fähren, auf dem die beförderten Fahrzeuge oder die sonstige Ladung aufgestellt sowie Fahrgäste versammelt werden.
 
-2. Kapitel 5 ES-TRIN gilt für Fähren mit Maschinenantrieb, der als Hauptantrieb benutzt wird.
+Für die Anwendung des ES-TRIN tritt das Fährzeugnis an die Stelle des Schiffsattestes, des Unionszeugnisses oder des Binnenschiffszeugnisses.
 
-3. Kapitel 15 ES-TRIN gilt, wenn die ständige Anwesenheit von Besatzungsmitgliedern auch außerhalb der Arbeitsstunden erforderlich ist.
+# § 1.03 – Fährzeugnis
 
-4. Kapitel 19 ES-TRIN gilt mit folgenden Abweichungen:
+1. Die Ergebnisse aus den Stabilitäts- und Festigkeitsberechnungen sind im Fährzeugnis einzutragen und an Bord der Fähre an auffallender Stelle deutlich sichtbar anzubringen.
 
-a) Artikel 19.01 Nummer 3 gilt nicht.
+2. Bei seil- und kettengebundenen Fähren sind die Einträge für Niedrigwasser, Mittelwasser und Hochwasser entsprechend den in den Stabilitätsberechnungen eingesetzten Fließgeschwindigkeiten vorzunehmen.
 
-b) Befinden sich die Verkehrsflächen, die für die Nutzung durch Personen mit eingeschränkter Mobilität vorgesehen sind, auf freiem Fährdeck und ist dieses über ausreichend breite Landeklappen zugänglich, so müssen nur die für Personen mit eingeschränkter Mobilität vorgesehenen Plätze den Anforderungen des Artikels 19.01 Nummer 4 entsprechen.
+3. Fährstellen sind unter Angabe des Flusskilometers, an der sie sich befinden, in das Fährzeugnis einzutragen.
 
-c) Landeklappen sind als Sammelflächen nach Artikel 19.06 Nummer 8 geeignet, wenn die Festigkeit und die Stabilität nachgewiesen und die Landeklappen durch feste Absperrvorrichtungen nach § 2.07 Nummer 1 gesichert sind.
+4. Wird die Fähre auch zum sonstigen Schiffsverkehr verwendet, insbesondere zum Wechseln der Fährstelle, zur Fahrt zu oder von einer Werft, ist dieser Verwendungszweck im Fährzeugnis einzutragen. Dabei ist die gewerbliche Beförderung von Personen oder Gütern verboten.
 
-d) Landstege nach Artikel 19.06 Nummer 12 können durch mindestens zwei gegenüberliegende Landeklappen ersetzt werden, wenn diese geeignet sind, die Aufgabe der Landstege zu erfüllen; bei Personenfähren genügt eine Landeklappe.
+# § 1.04 – Kennzeichnung der Fähren
 
-e) Toiletten nach Artikel 19.06 Nummer 17 sind nur erforderlich, wenn beim Übersetzverkehr von einem Ufer zum anderen die Fahrtdauer 10 Minuten übersteigt. Soweit keine Toiletten erforderlich sind, sind Einrichtungen zum Sammeln und Entsorgen häuslicher Abwässer nach Artikel 19.14 nicht erforderlich.
+An allen Fähren muss als Kennzeichen auf beiden Längsseiten ein mindestens 30 cm hohes „F“ mit heller Farbe auf dunklem Grund oder mit dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 
-f) Ein zweites unabhängiges Antriebssystem nach Artikel 19.07 ist für seil- und kettengebundene Fähren nicht erforderlich.
+# § 2.01 – Allgemeines
 
-g) Abweichend von Artikel 19.10 Nummer 7 können Lichtmaschinen als Notstromquelle genutzt werden, wenn folgende Bedingungen erfüllt sind:
+Für Fähren sind der ES-TRIN sowie die Anhänge III bis VII mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden:
+
+1. Kapitel 5 ES-TRIN gilt für freifahrende Fähren mit maschinellem Hauptantrieb.
+
+2. Kapitel 15 ES-TRIN gilt, wenn die ständige Anwesenheit von Besatzungsmitgliedern auch außerhalb der Arbeitsstunden erforderlich ist.
+
+3. Kapitel 19 ES-TRIN gilt mit folgenden Abweichungen:
+
+a) Artikel 19.01 Nummer 3 ES-TRIN gilt nicht.
+
+b) Befinden sich die Verkehrsflächen, die für die Nutzung durch Personen mit eingeschränkter Mobilität vorgesehen sind, auf dem freien Fährdeck und ist dieses über ausreichend breite Landeklappen zugänglich, so müssen nur die für Personen mit eingeschränkter Mobilität vorgesehenen Plätze den Anforderungen des Artikels 19.01 Nummer 4 ES-TRIN entsprechen.
+
+c) Landeklappen sind als Sammelflächen nach Artikel 19.06 Nummer 8 ES-TRIN geeignet, wenn die Festigkeit und die Stabilität nachgewiesen und die Landeklappen durch feste Absperrvorrichtungen nach § 2.08 Nummer 1 ES-TRIN gesichert sind.
+
+d) Landstege nach Artikel 19.06 Nummer 12 Buchstabe e ES-TRIN können durch mindestens zwei gegenüberliegende Landeklappen ersetzt werden, wenn diese geeignet sind, die Aufgabe der Landstege zu erfüllen; bei Personenfähren genügt eine Landeklappe.
+
+e) Toiletten nach Artikel 19.06 Nummer 17 ES-TRIN sind nur erforderlich, wenn beim Übersetzverkehr von einem Ufer zum anderen die Fahrtdauer zehn Minuten übersteigt. Soweit keine Toiletten erforderlich sind, sind Einrichtungen zum Sammeln und Entsorgen häuslicher Abwässer nach Artikel 19.14 ES-TRIN nicht erforderlich.
+
+f) Ein zweites unabhängiges Antriebssystem nach Artikel 19.07 ES-TRIN ist für seil- und kettengebundene Fähren nicht erforderlich.
+
+g) Abweichend von Artikel 19.10 Nummer 7 ES-TRIN können Lichtmaschinen als Notstromquelle genutzt werden, wenn folgende Bedingungen erfüllt sind:
 
 aa)  
 es sind mindestens drei voneinander unabhängige Hauptmaschinenräume mit jeweils einer Antriebsmaschine und einer entsprechenden Lichtmaschine vorhanden,
@@ -151,7 +107,7 @@ jede dieser Lichtmaschinen kann im Bedarfsfall die Funktion des Notstromaggregat
 
 cc) die Hauptmaschinenräume können nicht gleichzeitig geflutet werden.
 
-5. Anhang III gilt mit folgenden Abweichungen:
+4. Anhang III gilt mit folgenden Abweichungen:
 
 a) § 6.05 gilt nicht für Fähren auf Wasserstraßen der Zone 2-Binnen,
 
@@ -159,243 +115,195 @@ b) die Kapitel 3 und 4 sowie § 6.05 gelten nicht für Fähren auf Wasserstraße
 
 c) die §§ 10.02 bis 10.04 gelten nicht für Fähren auf Wasserstraßen der Zone 1.
 
-6. Auf Wasserstraßen der Zone 4 sind aus Anhang IV die §§ 3.02 und 3.03 nicht anzuwenden.
+5. Auf Wasserstraßen der Zone 4 sind die §§ 3.02 und 3.03 des Anhangs IV nicht anzuwenden.
 
-7. Auf Wasserstraßen der Zone 1 und Zone 2-See sind seil- und kettengebundene Fähren nicht zugelassen.
+6. Auf Wasserstraßen der Zone 1 und Zone 2-See sind seil- und kettengebundene Fähren nicht zugelassen.
 
-8. Bei seil- und kettengebundenen Fähren gelten die Seil- und Kettenanlagen als Hauptantriebssystem.
+7. Auf Fähren, die für die Beförderung von weniger als 100 Fahrgästen zugelassen sind und deren L<sub>WL</sub> 25 m nicht überschreitet, ist abweichend von dem ES-TRIN
 
-9. Auf Fähren, die für die Beförderung von weniger als 100 Fahrgästen zugelassen sind und deren L<sub>WL</sub> 25 m nicht überschreitet, ist abweichend von ES-TRIN
+a) eine motorisch angetriebene Lenzpumpe nach Artikel 19.08 Nummer 5 ES-TRIN,
 
-a) eine motorisch angetriebene Lenzpumpe nach Artikel 19.08 Nummer 5,
+b) eine tragbare Feuerlöschpumpe nach Artikel 19.12 Nummer 2 ES-TRIN und
 
-b) eine tragbare Feuerlöschpumpe nach Artikel 19.12 Nummer 2 und
+c) ein Hydrant am Steuerhaus nach Artikel 19.12 Nummer 3 Buchstabe a ES-TRIN ausreichend.
 
-c) ein Hydrant am Steuerhaus nach Artikel 19.12 Nummer 3 Buchstabe a
+8. Auf Personenfähren, die für die Beförderung von bis zu zwölf Fahrgästen zugelassen sind und deren Länge 15 m nicht überschreitet, gelten folgende Bestimmungen nicht:
 
-ausreichend.
+a) Artikel 19.08 Nummer 4 bis 6 sowie Nummer 9 und 10 ES-TRIN,
 
-10. Auf Personenfähren, die für die Beförderung von bis zu 12 Fahrgästen zugelassen sind und deren Länge 15 m nicht überschreitet, können folgende Erleichterungen angewendet werden:
+b) Artikel 19.09 Nummer 1 Satz 1 und Nummer 11 ES-TRIN,
 
-a) aus ES-TRIN gelten nicht:
+c) Artikel 19.12 Nummer 1 bis 8 ES-TRIN.
 
-aa)  
-Artikel 19.08 Nummer 4 bis 6 sowie Nummer 9 und 10,
+# § 2.02 – Fährkörper
 
-bb)  
-Artikel 19.09 Nummer 1 Satz 1 und Nummer 11,
+1. An beiden Enden des Fährkörpers muss ein Kollisionsschott nach Artikel 3.03 Nummer 1 Buchstabe a ES-TRIN vorhanden sein. Legt die Fähre seitlich an, gilt Satz 1 für das gegen die Strömung gerichtete Schiffsende.
 
-cc) Artikel 19.12 Nummer 1 bis 8,
+2. Das Fährdeck muss wasserdicht und selbstlenzend ausgeführt sein.
 
-b) aus diesem Anhang:
+# § 2.03 – Nachweis der Intakt- und Leckstabilität
 
-§ 2.02 Nummer 8.
+1. Der Antragsteller weist anhand einer Berechnung nach, dass die Intaktstabilität der Fähre den nachstehenden Voraussetzungen entspricht. Die Berechnung muss nach Artikel 19.03 Nummer 1, 3 bis 6 ES-TRIN in Verbindung mit den §§ 1.02 Nummer 1 Buchstabe a, 7.03 oder § 10.08 des Anhangs III durchgeführt werden. Sie muss in Abhängigkeit von der zu befahrenden Wasserstraße durchgeführt werden.
 
-11. Für Kahnfähren und Kahnseilfähren gelten anstelle der Nummern 1 bis 10 folgende Anforderungen:
+2. Können beim Krängungsversuch nur ungenügende Krängungswinkel erzielt werden oder führt die Durchführung des Krängungsversuchs zu unzumutbaren Schwierigkeiten, so kann Artikel 22.06 Nummer 2 ES-TRIN angewendet werden.
 
-a) Für alle Kahnfähren und Kahnseilfähren § 2.01 Nummer 5, § 2.02 Nummer 9, § 2.07 Nummer 1 und 2, §§ 3.04 bis 3.07, § 2.07 Nummer 1 jedoch nur sinngemäß.
+3. In der Berechnung für Personen, Landfahrzeuge und Großvieh sind mindestens folgende Last- und Maßannahmen zu verwenden:
 
-b) Für alle Kahnfähren und Kahnseilfähren aus ES-TRIN:
-
-aa)  
-Kapitel 3 sinngemäß,
-
-bb)  
-Artikel 8.08 Nummer 1 und 2, wobei eine Handlenzpumpe oder ein Schöpfgefäß ausreicht,
-
-cc) Kapitel 10 bis 12 sinngemäß,
-
-dd)  
-Artikel 13.01, wobei ein Anker mit 25 kg und eine Ankerkette oder ein Ankerseil von 30 m ausreicht und soweit Anhang II § 2.06 Nummer 2 nicht zutrifft,
-
-ee)  
-Artikel 13.02 Nummer 1 Satz 2 Buchstabe b, wobei ein Behälter ausreicht,
-
-ff)  
-Artikel 13.02 Nummer 3 Buchstabe a, c und e bis h,
-
-gg)  
-Artikel 13.08 Nummer 2,
-
-hh)  
-Artikel 19.01 Nummer 2,
-
-ii) Artikel 19.06 Nummer 10 sinngemäß,
-
-jj)  
-Artikel 19.09 Nummer 1, wobei zwei Rettungsringe ausreichen,
-
-kk)  
-Artikel 19.09 Nummer 4, 8 und 9.
-
-c) Für alle Kahnfähren und Kahnseilfähren muss für alle Fahrgäste festeingebautes Sitzmobiliar vorhanden sein.
-
-d) Für Kahnfähren und Kahnseilfähren mit einem Hilfsantrieb oder Hilfsmotor gelten zusätzlich aus ES-TRIN folgende Anforderungen:
-
-aa)  
-Kapitel 8 und 9 sinngemäß,
-
-bb)  
-Artikel 13.03, wobei ein Feuerlöscher ausreicht.
-
-e) Die Untersuchungskommission kann für alle Kahnfähren und Kahnseilfähren insbesondere zur Berücksichtigung besonderer örtlicher oder baulicher Gegebenheiten zusätzliche Anforderungen stellen.
-
-# § 1.03 – Fährzeugnis
-
-1. Die Ergebnisse aus den Stabilitäts- und Festigkeitsberechnungen sind im Fährzeugnis einzutragen und an Bord der Fähre an auffallender Stelle deutlich sichtbar anzubringen.
-
-2. Bei Gierseilfähren sind die Einträge für Niedrig-, Mittel- und Hochwasser vorzunehmen, entsprechend den in den Stabilitätsberechnungen eingesetzten Fließgeschwindigkeiten.
-
-3. Die Fährstelle oder mehrere Fährstellen sind unter Angabe des Flusskilometers in das Fährzeugnis einzutragen.
-
-4. Wird die Fähre auch zum sonstigen Schiffsverkehr verwendet, insbesondere zum Wechseln der Fährstelle, zur Fahrt zu oder von einer Werft, ist dies im Fährzeugnis einzutragen. Dabei ist die Beförderung von Personen oder Gütern verboten.
-
-# § 1.04 – Kennzeichnung der Fähren
-
-An allen Fähren muss als Kennzeichen auf beiden Längsseiten ein mindestens 30 cm hohes „F“ mit heller Farbe auf dunklem Grund oder mit dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
-
-# § 2.01 – Fährkörper
-
-1. An beiden Enden des Fährkörpers muss je ein Kollisionsschott vorhanden sein.
-
-2. Bei Fähren in Pontonform darf der Abstand der Kollisionsschotte vom vorderen oder hinteren Lot 0,04 L<sub>WL</sub> nicht unterschreiten und 0,04 L<sub>WL</sub> + 1 m nicht überschreiten.
-
-3. Sind Fähren in Pontonform mit wasserdichten Längsschotten versehen, so darf die durch Fluten einer Seitenabteilung hervorgerufene Krängung einen Winkel von 12° nicht überschreiten. Leckwasser darf nicht über das Schottendeck in benachbarte Abteilungen gelangen können.
-
-4. Fährdecks müssen wasserdicht ausgeführt sein.
-
-5. Kahnfähren und Kahnseilfähren müssen mit Luftkästen oder anderen Auftriebskörpern versehen sein. Luftkästen müssen zur Durchführung von Dichtigkeitsprüfungen mit einem Schraubverschluss versehen sein.
-
-# § 2.02 – Nachweis der Intakt- und Leckstabilität
-
-1. Der Antragsteller muss durch eine Berechnung nachweisen, dass die Intaktstabilität der Fähre angemessen ist. Die Berechnung muss nach Artikel 19.03 Nummer 1, 3 bis 6 ES-TRIN durchgeführt werden. Sie muss in Abhängigkeit von der zu befahrenden Wasserstraße durchgeführt werden und die Anforderungen der Artikel 19.04, 19.05 ES-TRIN in Verbindung mit Anhang III § 1.02 Nummer 1 Buchstabe a, § 7.03 oder § 10.08 erfüllen.
-
-2. Bei Fähren in Pontonform können dabei die Koordinaten des Gewichtsschwerpunktes durch eine Gewichtsberechnung ermittelt werden. Ein Krängungsversuch ist dann nicht erforderlich.
-
-3. In der Berechnung sind für Personen, Landfahrzeuge und Großvieh mindestens folgende Last- und Maßannahmen zu verwenden:
-
-<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 23%" />
-<col style="width: 21%" />
-<col style="width: 17%" />
-<col style="width: 18%" />
-<col style="width: 22%" />
+<col style="width: 36%" />
+<col style="width: 11%" />
+<col style="width: 16%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header">
-<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Nutzlast<span id="FnR.FnA1-F819939_01"></span><a href="#FnA1-F819939_01" class="FnR">*</a></sup></th>
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Lastannahmen<span id="FnR.FnA1-F819939_02"></span><a href="#FnA1-F819939_02" class="FnR">**</a></sup><br />
-t</th>
-<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">mittlere Höhe<br />
+<tr class="header" data-valign="middle">
+<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Nutzlast</th>
+<th style="text-align: center; border-right: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">Last-<br />
+annahmen</th>
+<th style="text-align: center; border-right: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">Abmessungen<br />
+L ∙ B ∙ H</th>
+<th style="text-align: center; border-right: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">mittlere Höhe<br />
 der Ladung<br />
-über Deck<br />
-m</th>
-<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">mittlere Höhe<br />
-des Massenschwerpunktes<br />
-über Deck<br />
-m</th>
-<th rowspan="2" style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">mittlere Höhe<br />
+über Deck</th>
+<th style="text-align: center; border-right: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">mittlere Höhe des Massen-<br />
+schwer-<br />
+punktes<br />
+über Deck</th>
+<th style="text-align: center; font-weight: normal;" data-valign="top" data-charoff="50">mittlere Höhe<br />
 des Schwerpunktes<br />
 der Windangriffsfläche<br />
-der Ladung über Deck<br />
-m</th>
+der Ladung über Deck</th>
 </tr>
 <tr class="odd">
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Abmessungen<a href="#FnA1-F819939_02" class="FnR">**</a></sup><br />
-L x B x H<br />
-m</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">[t]</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">[m]</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">[m]</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">[m]</th>
+<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">[m]</th>
 </tr>
 </thead>
 <tbody data-valign="top">
-<tr class="odd">
-<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Personen</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">0,075</td>
-<td rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1,8</td>
-<td rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1,0</td>
-<td rowspan="2" style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">0,85</td>
+<tr class="odd" data-valign="middle">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Personen</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">0,075</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">–</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1,8</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1,0</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">0,85</td>
 </tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">–</td>
+<tr class="even" data-valign="middle">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Lastkraftwagen mit Ladung</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">32</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">12 · 2,55 · 4</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">4,0</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1,6</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">2,00</td>
 </tr>
-<tr class="odd">
-<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Lastkraftwagen<br />
-mit Ladung</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">24,5</td>
-<td rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3,0</td>
-<td rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1,6</td>
-<td rowspan="2" style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1,25</td>
+<tr class="odd" data-valign="middle">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Sattelzug mit Ladung</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">44</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">15,5 · 2,55 · 4</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">4,0</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1,6</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">2,00</td>
 </tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13,6 x 2,45 x 3,0</td>
+<tr class="even" data-valign="middle">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Personenkraftwagen ohne Personen</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1,7</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">4,2 · 1,9 · 1,7</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1,7</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">0,8</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">0,75</td>
 </tr>
-<tr class="odd">
-<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Personenkraftwagen<br />
-ohne Personen</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1,4</td>
-<td rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1,5</td>
-<td rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">0,8</td>
-<td rowspan="2" style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">0,75</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4,2 x 1,7 x 1,5</td>
-</tr>
-<tr class="odd">
-<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Großvieh</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">0,5</td>
-<td rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1,7</td>
-<td rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1,0</td>
-<td rowspan="2" style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">0,85</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">–</td>
-</tr>
-<tr class="odd">
-<td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"><span id="FnA1-F819939_01"></span>
-*
-Die angegebenen Nutzlasten können entsprechend der tatsächlichen Beladung durch andere Nutzlasten erweitert werden.
-<span id="FnA1-F819939_02"></span>
-**
-Die angegebenen Werte sind Mittelwerte und können durch die tatsächliche Beladung z. B. mit größeren/kleineren Lastkraftwagen (einschließlich der Beladung z. B. mit Containern), Feuerwehrwagen, Tankwagen, Traktoren, Kränen, Anhängern ersetzt werden.</td>
+<tr class="odd" data-valign="middle">
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="middle" data-charoff="50">Großvieh</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="middle" data-charoff="50">0,75</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="middle" data-charoff="50">2,5 · 1 · 1,7</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="middle" data-charoff="50">1,7</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="middle" data-charoff="50">1,0</td>
+<td style="text-align: center;" data-valign="middle" data-charoff="50">1,00</td>
 </tr>
 </tbody>
 </table>
 
-Die mittlere Höhe des Gewichtsschwerpunktes der Ladung und des Schwerpunktes der Windangriffsfläche der Ladung ist auf den tiefsten Punkt des Fährdecks auf halber Länge der Fähre zu beziehen und bei nicht durchgehenden, höher gelegenen Decks auf die halbe Länge des betreffenden Decks zu beziehen.
+Die mittlere Höhe des Gewichtsschwerpunktes der Ladung und des Schwerpunktes der Windangriffsfläche der Ladung ist auf den tiefsten Punkt des Fährdecks auf halber Länge der Fähre zu beziehen und bei nicht durchgehenden, höher gelegenen Decks auf die halbe Länge des betreffenden Decks zu beziehen. Der seitliche Abstand von Fahrzeugen ist so zu planen, dass die Fahrzeuge im Notfall verlassen werden können.
 
 4. Die Berechnung der Intaktstabilität muss abweichend von Artikel 19.03 Nummer 2 ES-TRIN mindestens folgende Ladefälle erfassen:
 
 a) Fähre ausschließlich mit Personen beladen,
 
 aa)  
-maximale Anzahl der Personen in möglichst ungünstigsten Aufstellungen,
+maximale Anzahl der Personen in möglichst ungünstigen Aufstellungen, die wie folgt festzulegen sind:
+
+Für die Berechnung der ungünstigsten Lage der Schwerpunkte bezüglich der Krängung werden die maximal seitlichen Positionen der Personenansammlung S<sub>Bb</sub> und S<sub>Stb</sub> ermittelt.
+
+Für die Berechnung der ungünstigsten Lage der Schwerpunkte bezüglich des Trimms werden die maximal möglichen Positionen der Personenansammlung S<sub>a</sub> und S<sub>v</sub> in Längsrichtung ermittelt.
+
+Für die Berechnung der ungünstigsten Lage der Schwerpunkte bezüglich Krängung und Trimm werden die vier Koordinaten mit S<sub>L</sub> und S<sub>Q</sub> bestimmt und wie folgt berechnet:
+
+![Die Abbildung stellt folgende Formel dar: S tiefgestellter Index L gleich S tiefgestellter Index v plus S tiefgestellter Index a geteilt durch zwei plus minus S tiefgestellter Index v minus S tiefgestellter Index a geteilt durch Wurzel 8.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0010.jpg)
+
+![Die Abbildung stellt folgende Formel dar: S tiefgestellter Index Q gleich S tiefgestellter Index Bb minus S tiefgestellter Index Stb geteilt durch 2 plus minus S tiefgestellter Index Bb plus S tiefgestellter Index Stb geteilt durch Wurzel 8.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0020.jpg)
+
+Mit:
+
+S<sub>v</sub>  
+= Schwerpunkt der Personenansammlung mit minimaler Distanz zum Bug,
+
+S<sub>a</sub>  
+= Schwerpunkt der Personenansammlung mit minimaler Distanz zum Heck,
+
+S<sub>Bb</sub>  
+= Schwerpunkt der Personenansammlung maximal nach Backbord verschoben,
+
+S<sub>Stb</sub>  
+= Schwerpunkt der Personenansammlung maximal nach Steuerbord verschoben,
+
+S<sub>L</sub>  
+= Schwerpunkt in Längsrichtung,
+
+S<sub>Q</sub>  
+= Schwerpunkt in Querschiffsrichtung.
+
+Von den beiden Schwerpunktlagen S<sub>v</sub> oder S<sub>a</sub> ist die Position mit dem größeren Abstand zum Auftriebsschwerpunkt für die Berechnung der Intaktstabilität zu nutzen.
+
+Von den beiden Schwerpunktlagen S<sub>Bb</sub> oder S<sub>Stb</sub> ist die Position mit dem größeren Abstand zum Auftriebsschwerpunkt für die Berechnung der Intaktstabilität zu nutzen.
+
+Von den vier Schwerpunktlagen, die mit den Formeln für S<sub>L</sub> und S<sub>Q</sub> bestimmt werden, ist die Position mit dem größten Abstand zum Auftriebsschwerpunkt für die Berechnung der Intaktstabilität zu nutzen.
+
+![Die Abbildung zeigt die Draufsicht einer Fähre. Auf dem Fährkörper ist eine Ellipse eingezeichnet. Weiterhin wird S tiefgestellter Index a als Schwerpunkt achtern, S tiefgestellter Index v als Schwerpunkt vorn, S tiefgestellter Index Stb als Schwerpunkt Steuerbord, S tiefgestellter Index Bb als Schwerpunkt Backbord und die Formel S tiefgestellter Index v plus S tiefgestellter Index a geteilt durch zwei plus minus S tiefgestellter Index v minus S tiefgestellter Index a geteilt durch Wurzel 8 und die Formel S tiefgestellter Index Bb minus S tiefgestellter Index Stb geteilt durch zwei plus minus S tiefgestellter Index Stb plus S tiefgestellter Index Bb geteilt durch Wurzel 8.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0030.jpg)
+
+Abbildung 1: Skizze zur maximalen Anzahl der Personen in möglichst ungünstigsten Aufstellungen
 
 bb)  
-alle Tanks der Fähre zu 50 % gefüllt,
+alle Tanks zu 50 % gefüllt,
 
 b) Fähre einseitig jeweils nach Steuer- und nach Backbord beladen,
 
 aa)  
-mit Landfahrzeugen in möglichst ungünstigsten Aufstellungen bis zur Fährmitte, wobei der noch zur Verfügung stehende Platz der belasteten Seite mit kleineren Landfahrzeugen und mit Personen aufzufüllen ist,
+mit Landfahrzeugen in möglichst ungünstigen Aufstellungen, entsprechend zu Buchstabe a ermittelt, bis zur Fährmitte, wobei der noch zur Verfügung stehende Platz der belasteten Seite mit kleineren Landfahrzeugen und mit Personen aufzufüllen ist,
 
 bb)  
-alle Tanks der Fähre zu 50 % gefüllt,
+alle Tanks zu 50 % gefüllt,
 
 c) Fähre ausschließlich mit Landfahrzeugen beladen,
 
 aa)  
-Landfahrzeuge in möglichst ungünstigsten Aufstellungen,
+Landfahrzeuge „in möglichst ungünstigsten Aufstellungen“, entsprechend zu Buchstabe a ermittelt,
 
 bb)  
-alle Tanks der Fähre zu 50 % gefüllt,
+alle Tanks zu 50 % gefüllt,
 
 d) Fähre mit dem schwersten Landfahrzeug beladen,
 
 aa)  
-schwerstes Landfahrzeug nach § 1.01 Nummer 17 in mittiger Aufstellung auf dem Fährdeck,
+schwerstes Landfahrzeug nach § 1.02 Nummer 17 in mittiger Aufstellung auf dem Fährdeck,
 
 bb)  
-alle Tanks der Fähre zu 50 % gefüllt,
+alle Tanks zu 50 % gefüllt,
 
 e) Fähre bis an die Grenze der Tragfähigkeit beladen,
 
@@ -408,7 +316,7 @@ maximale Anzahl der Landfahrzeuge,
 cc) Treibstoff- und Frischwassertanks zu 98 % gefüllt,
 
 dd)  
-Abwassertank der Fähre zu 10 % gefüllt,
+Abwassertank zu 10 % gefüllt,
 
 f) Fähre leer,
 
@@ -416,19 +324,19 @@ aa)
 ohne Personen und ohne Landfahrzeuge,
 
 bb)  
-Treibstoff- und Frischwassertanks der Fähre zu 10 % gefüllt,
+Treibstoff- und Frischwassertanks zu 10 % gefüllt,
 
 cc) Vorratsräume und Abwassertanks leer.
 
-Im Fall des Satzes 1 Buchstabe b und c ist die Annahme einer Verschiebung der Landfahrzeuge höchstens bis zum Schrammbord ausreichend. Für die Erfüllung der Intaktstabilität nach Nummer 1 müssen die Ladefälle nach den Buchstaben a bis f nachgewiesen sein. Bei den vorgenannten Ladefällen ist bei Wagenfähren
+Im Fall der Nummer 4 Buchstabe b und c ist die Annahme einer Verschiebung der Landfahrzeuge höchstens bis zum Schrammbord ausreichend. Für die Erfüllung der Intaktstabilität nach Nummer 1 müssen die Ladefälle nach Nummer 4 Buchstabe a bis f nachgewiesen sein. Bei den vorgenannten Ladefällen ist bei Wagenfähren
 
-a) das Fährdeck rutschhemmend herzurichten, wenn der Krängungswinkel nach Artikel 19.03 Nummer 3 Buchstabe e ES-TRIN in den dort genannten Fällen den Grenzwinkel von 5,7° überschreitet, und
+a) das Fährdeck rutschhemmend auszuführen und
 
-b) im Lateralplan nach Artikel 19.03 Nummer 5 ES-TRIN die Beladung mit z. B. Lastkraftwagen oder Personenkraftwagen zu berücksichtigen.
+b) im Lateralplan nach Artikel 19.03 Nummer 5 ES-TRIN die Beladung mit zum Beispiel Lastkraftwagen oder Personenkraftwagen zu berücksichtigen.
 
-Die Generaldirektion Wasserstraßen und Schifffahrt kann für zusätzliche Ladefälle, die wegen des Baus oder wegen der Nutzung der Fähre geboten sind, weitere Berechnungen verlangen.
+Die Generaldirektion Wasserstraßen und Schifffahrt kann Nachweise für weitere Ladefälle verlangen.
 
-5. Als Ergebnis der Stabilitätsberechnung sind festzulegen:
+5. Als Ergebnis der Stabilitätsberechnung sind im Fährzeugnis festzulegen:
 
 a) bei Belastung der Fähre ausschließlich mit Personen,
 
@@ -446,24 +354,24 @@ die höchstzulässige Anzahl der Fahrgäste,
 bb)  
 die Tragfähigkeit in Tonnen (t),
 
-cc) das zulässige Gesamtgewicht eines von mehreren Landfahrzeugen in Tonnen (t),
+cc) das Gesamtgewicht eines von mehreren Landfahrzeugen in Tonnen (t),
 
 dd)  
-das zulässige Gesamtgewicht des schwersten und einzigen Landfahrzeugs in Tonnen (t).
+das maximale Gesamtgewicht des schwersten Landfahrzeugs in Tonnen (t).
 
-6. Der Antragsteller muss durch eine Berechnung nachweisen, dass die Leckstabilität der Fähre angemessen ist. Die Berechnung muss nach Artikel 19.03 Nummer 7, 9 bis 13 ES-TRIN durchgeführt werden. Sie muss in Abhängigkeit von der zu befahrenden Wasserstraße durchgeführt werden und die Anforderungen der Artikel 19.04, 19.05 ES-TRIN in Verbindung mit Anhang III § 1.02 Nummer 1 Buchstabe a, § 7.03 oder § 10.08 sowie Anhang IV § 4.03 erfüllen. Hierbei
+6. Der Antragsteller muss durch eine Berechnung nachweisen, dass die Leckstabilität der Fähre angemessen ist. Die Berechnung muss nach Artikel 19.03 Nummer 7, 9 bis 13 ES-TRIN in Verbindung mit §§ 1.02, 7.03 oder 10.08 des Anhangs III sowie § 4.03 des Anhangs IV durchgeführt werden. Sie muss in Abhängigkeit von der zu befahrenden Wasserstraße durchgeführt werden. Hierbei
 
 a) müssen abweichend vom Artikel 19.03 Nummer 8 Satz 1 ES-TRIN die Ladefälle nach Nummer 4 nachgewiesen werden,
 
-b) müssen die Fähren den 1-Abteilungsstatus nach Artikel 19.03 Nummer 9 ES-TRIN nicht einhalten, wenn der 2-Abteilungsstatus eingehalten wird,
+b) müssen die Fähren den 1-Abteilungsstatus nach Artikel 19.03 Nummer 9 ES-TRIN nicht einhalten, wenn der 2-Abteilungsstatus nach Artikel 19.03 ES-TRIN eingehalten wird,
 
-c) darf der B/3 Abstand nach Artikel 19.03 Nummer 9 Buchstabe a ES-TRIN auf B/5 Abstand vermindert werden.
+c) darf der B/3-Abstand nach Artikel 19.03 Nummer 9 Buchstabe a ES-TRIN auf einen B/5-Abstand vermindert werden.
 
 Für Fähren, die für die Beförderung von mehr als 50 und weniger als 100 Fahrgästen zugelassen sind und deren L<sub>WL</sub> 25 m nicht überschreitet, gilt Artikel 19.15 Nummer 1 ES-TRIN entsprechend.
 
-7. Während der Fahrt und beim Be- und Entladen der Fähre darf der nach Artikel 19.03 Nummer 2 und 3 ES-TRIN zulässige Krängungswinkel nicht überschritten und der für die jeweilige Zone zulässige Restfreibord nicht unterschritten werden, wobei beim Be- und Entladevorgang die Fähre freischwimmend zu betrachten ist, es sei denn, das Fährgefäß wird beim Abstützen auf der Rampe durch eine kraftschlüssige Verbindung in einer festen Lage gehalten.
+7. Während der Fahrt und beim Beladen oder Entladen der Fähre darf der nach Artikel 19.03 Nummer 2 und 3 ES-TRIN zulässige Krängungswinkel nicht überschritten und der für die jeweilige Zone zulässige Restfreibord nicht unterschritten werden, wobei beim Beladevorgang oder Entladevorgang die Fähre freischwimmend zu betrachten ist, es sei denn, das Fährgefäß wird beim Abstützen auf der Rampe durch eine formschlüssige Verbindung in einer festen Lage gehalten.
 
-8. Für Personenfähren für die Beförderung von bis zu 12 Fahrgästen, deren Länge 15 m nicht überschreitet, müssen im symmetrisch gefluteten Zustand folgende Kriterien durch eine Berechnung nachgewiesen werden:
+8. Für Personenfähren für die Beförderung von bis zu zwölf Fahrgästen, deren Länge 15 m nicht überschreitet, müssen im symmetrisch gefluteten Zustand folgende Anforderungen durch eine Berechnung nachgewiesen werden:
 
 a) die Fähre darf maximal bis zur Tauchgrenze eintauchen und
 
@@ -479,53 +387,41 @@ c) örtliche Unterteilungen, die wasserdichte Teilräume bilden,
 
 d) einen 1-Abteilungsstatus nach Artikel 19.03 Nummer 9 ES-TRIN oder
 
-e) eine Kombination aus den genannten Möglichkeiten nach Buchstabe a bis d
+e) eine Kombination aus den genannten Möglichkeiten nach Satz 2 Buchstabe a bis d zu gewährleisten.
 
-zu gewährleisten.
+# § 2.04 – Einsenkungsmarken
 
-9. Für Kahnfähren und Kahnseilfähren genügt als Nachweis für die:
+Artikel 4.03 Nummer 10 ES-TRIN ist anzuwenden; jedoch müssen mindestens zwei Einsenkungsmarkenpaare auf je einem Drittel der Länge vorhanden sein.
 
-a) Intaktstabilität;
+# § 2.05 – Festigkeit des Wagendecks
 
-ein Belastungsversuch, wobei dieser mit dem halben Gewicht der höchstzulässigen Zahl der Fahrgäste und bei der ungünstigsten Füllung der Brennstoff- und Wasserbehälter durchzuführen ist. Die Fahrgäste sind dabei als stehend anzunehmen und ihr Gewicht ist soweit wie möglich seitlich auf der für Fahrgäste verfügbaren Fläche unterzubringen. Dabei darf ein Krängungswinkel von 7° nicht überschritten sowie ein Restfreibord und ein Restsicherheitsabstand von 0,20 m in Zone 4 und von 0,30 m in Zone 3 und Zone 2-Binnen nicht unterschritten werden.
-
-b) Leckstabilität;
-
-ein rechnerischer Nachweis, wobei bei voller Beladung und Flutung der Fähre ein Reserveauftrieb von 100 Newton je Person und eine stabile aufrechte Schwimmlage verbleiben muss, bei der die verbleibende metazentrische Höhe GM<sub>R</sub> 0,10 m nicht unterschritten werden darf.
-
-# § 2.03 – Einsenkungsmarken
-
-Artikel 4.04 ES-TRIN ist anzuwenden; jedoch müssen mindestens zwei Einsenkungsmarkenpaare auf je einem Drittel der Länge vorhanden sein.
-
-# § 2.04 – Festigkeit des Wagendecks
-
-Bei Wagenfähren muss der Antragsteller durch eine Berechnung nachweisen, dass die Festigkeit des Wagendecks in Bezug auf die Belastung angemessen ist. Für die Berechnung ist eine Belastung mit den zulässigen Landfahrzeugen, die sich aus den Stabilitätsberechnungen ergeben, zugrunde zu legen. Als Ergebnis der Festigkeitsberechnung ist festzulegen:
+Bei Wagenfähren muss der Antragsteller durch eine Berechnung die Festigkeit des Wagendecks nachweisen. Für die Berechnung ist eine Belastung mit den zulässigen Landfahrzeugen, die sich aus den Stabilitätsberechnungen ergeben, zugrunde zu legen. Als Ergebnis der Festigkeitsberechnung ist festzulegen:
 
 a) die zulässige Achslast einer Einzelachse von Landfahrzeugen in Tonnen (t),
 
 b) die zulässige Achslast einer Doppelachse von Landfahrzeugen in Tonnen (t).
 
-# § 2.05 – Rettungsmittel
+# § 2.06 – Rettungsmittel
 
 1. Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung mit Artikel 19.09 Nummer 7 bis 9 ES-TRIN ersetzt werden.
 
 2. Landeklappen können als Übergangseinrichtungen nach Artikel 19.09 Nummer 3 ES-TRIN angesehen werden, sofern sie hierfür geeignet sind.
 
-3. Zusätzlich zu Nummer 1 müssen Personenfähren, die für mehr als 250 Fahrgäste, sowie Wagenfähren, die für mehr als 250 Fahrgäste oder für mehr als 150 t Tragfähigkeit zugelassen sind, mit einem Beiboot nach Artikel 13.07 ES-TRIN ausgerüstet sein.
+3. Personenfähren, die für mehr als 250 Fahrgäste, sowie Wagenfähren, die für mehr als 250 Fahrgäste oder für mehr als 150 t Tragfähigkeit zugelassen sind, müssen zusätzlich zu Nummer 1 mit einem Beiboot nach Artikel 13.07 ES-TRIN ausgerüstet sein.
 
-4. Die Untersuchungskommission kann bei Fähren von der Erfüllung der Nummer 3 in den Fällen nach Artikel 19.15 Nummer 5 und 6 ES-TRIN absehen, dabei gelten die Landeklappen als vergleichbare Einrichtungen zu Plattformen, wenn diese die darin beschriebenen Anforderungen und Bestimmungen erfüllen.
+4. Die Untersuchungskommission kann bei Fähren von der Erfüllung der Anforderung der Nummer 3 in den Fällen des Artikels 19.15 Nummer 5 und 6 ES-TRIN absehen; dabei gelten die Landeklappen als vergleichbare Einrichtungen zu Plattformen, wenn diese die in Artikel 19.15 Nummer 5 und 6 ES-TRIN beschriebenen Anforderungen und Bestimmungen erfüllen.
 
-# § 2.06 – Anker
+# § 2.07 – Anker
 
-1. Fähren, die mindestens zwei voneinander unabhängige in jeder Richtung voll wirksame Antriebe haben, brauchen mit nur einem Anker ausgerüstet zu sein.
+1. Für Fähren, die mindestens zwei voneinander unabhängige in jeder Richtung voll wirksame Antriebe haben, genügt die Ausrüstung mit nur einem Anker.
 
-2. Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann seil- und kettengebundene Fähren sowie Kahnfähren auf den Wasserstraßen der Zone 4 von dem Erfordernis einer Ankerausrüstung befreien, wenn die Leichtigkeit und Sicherheit des Verkehrs gewährleistet ist.
+2. Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann seilgebundene oder kettengebundene Fähren auf den Wasserstraßen der Zone 4 von dem Erfordernis einer Ausrüstung mit Anker befreien, wenn die Sicherheit und Leichtigkeit des Verkehrs nicht gefährdet ist.
 
-# § 2.07 – Zusätzliche Ausrüstung
+# § 2.08 – Zusätzliche Ausrüstung
 
-1. Die bordseitigen, dem Zu- und Abgang dienenden Öffnungen von Personen- und Wagenfähren müssen abweichend von Artikel 19.06 Nummer 10 Buchstabe a und b ES-TRIN durch feste oder flexible Absperrvorrichtungen wie folgt gesichert sein:
+1. Die bordseitigen, dem Zu- und Abgang dienenden Öffnungen von Personenfähren oder Wagenfähren müssen abweichend von Artikel 19.06 Nummer 10 und Nummer 12 Buchstabe b und c ES-TRIN durch feste oder flexible Absperrvorrichtungen wie folgt gesichert sein:
 
-a) Alle Absperrvorrichtungen müssen:
+a) alle Absperrvorrichtungen müssen:
 
 aa)  
 eine Höhe von mindestens 1,10 m aufweisen,
@@ -533,7 +429,7 @@ eine Höhe von mindestens 1,10 m aufweisen,
 bb)  
 deutlich sichtbar gekennzeichnet sein und
 
-cc) mit geeigneten Zwischenzügen oder Feldauskleidung versehen sein;
+cc) mit geeigneten Zwischenzügen oder geeigneter Feldauskleidung versehen sein;
 
 b) feste Absperrvorrichtungen wie Schwenkbalken, Schranken und Geländer müssen mindestens folgende Festigkeitsanforderungen erfüllen:
 
@@ -543,258 +439,440 @@ Belastungsannahme von 1 000 N/m,
 bb)  
 Höchst-Auslenkung ohne bleibende Verformung und ohne Berücksichtigung des Lagerspiels von 50 mm;
 
-c) flexible Absperrvorrichtungen wie Absperrketten und Kunststoffseile dürfen auf Fahrbahndecks verwendet werden,
+c) flexible Absperrvorrichtungen wie Absperrketten und Kunststoffseile dürfen auf Fährdecks verwendet werden, wenn
 
 aa)  
-wenn hinter der Absperrvorrichtung mindestens 2 m Decksfläche oder Landeklappe folgt,
+hinter der Absperrvorrichtung mindestens 2 m Decksfläche oder Landeklappe folgt,
 
 bb)  
 der Deckbereich von 0,80 m vor der Kette oder dem Seil für die Fahrgäste durch deutlich sichtbare Markierung als gesperrt gekennzeichnet ist und
 
 cc) die Kette oder das Seil eine Mindestbruchkraft von 40 kN hat.
 
-Landeklappen können als Absperrvorrichtungen genutzt werden, wenn sie im hochgestellten Zustand eine Höhe von 1,10 m über dem Fahrbahndeck erreichen und festgestellt werden können.
+2. Landeklappen können als Absperrvorrichtungen genutzt werden, wenn sie im hochgestellten Zustand eine Höhe von 1,10 m über dem Fährdeck erreichen und festgestellt werden können.
 
-2. Kahnfähren und Kahnseilfähren müssen mit einem Paar Riemen oder vergleichbaren Vortriebsmitteln ausgerüstet sein. Ein Hilfsantrieb zur Beherrschung besonderer Betriebslagen ist vorzuhalten.
+# § 2.09 – Landeklappen
 
-# § 2.08 – Landeklappen
+Die Festigkeit von Landeklappen muss ihrem Einsatzzweck entsprechen. Die Landeklappen sind seitlich mit geeigneten Absturzsicherungen zu versehen.
 
-1. Die Festigkeit von Landeklappen muss ihrem Einsatzzweck entsprechen.
+# § 2.10 – Allgemeines
 
-2. Die Landeklappen sind seitlich mit geeigneten Absturzsicherungen zu versehen.
+Für Kahnfähren und Kahnseilfähren gelten die nachstehenden Anforderungen:
+
+1. für alle Kahnfähren und Kahnseilfähren gelten zusätzlich § 2.08 entsprechend und §§ 3.04 bis 3.07 falls zutreffend.
+
+2. Für alle Kahnfähren und Kahnseilfähren gelten:
+
+a) Kapitel 3 ES-TRIN sinngemäß,
+
+b) Artikel 8.08 Nummer 1 und 2 ES-TRIN, wobei eine Handlenzpumpe oder ein Schöpfgefäß ausreicht,
+
+c) Kapitel 10 bis 12 ES-TRIN sinngemäß,
+
+d) Artikel 13.02 Nummer 2 Buchstabe b ES-TRIN, wobei ein Behälter ausreicht,
+
+e) Artikel 13.02 Nummer 3 Buchstabe a, c und e bis h ES-TRIN,
+
+f) Artikel 13.08 Nummer 2 ES-TRIN,
+
+g) Artikel 19.01 Nummer 2 ES-TRIN,
+
+h) Artikel 19.06 Nummer 10 und 12 Buchstabe a, b, c ES-TRIN, soweit baulich zumutbar,
+
+i) Artikel 19.09 Nummer 1 ES-TRIN, wobei zwei Rettungsringe ausreichen,
+
+j) Artikel 19.09 Nummer 4, 8 und 9 ES-TRIN und
+
+k) Kapitel 8 und 9 des ES-TRIN entsprechend sowie Artikel 13.03 ES-TRIN, wobei ein Feuerlöscher ausreicht, wenn die Kahnfähre oder Kahnseilfähre mit einem Hilsantrieb oder Hilfsmotor ausgestattet ist.
+
+3. Für alle Fahrgäste muss fest eingebautes Sitzmobiliar vorhanden sein.
+
+4. Die Untersuchungskommission kann für alle Kahnfähren und Kahnseilfähren, insbesondere zur Berücksichtigung besonderer örtlicher oder baulicher Gegebenheiten, zusätzliche Anforderungen stellen.
+
+# § 2.11 – Fährkörper
+
+Kahnfähren und Kahnseilfähren müssen mit Luftkästen oder anderen Auftriebskörpern versehen sein. Luftkästen müssen zur Durchführung von Dichtigkeitsprüfungen mit einem Schraubverschluss versehen sein.
+
+# § 2.12 – Nachweis der Intakt- und Leckstabilität
+
+Für Kahnfähren und Kahnseilfähren genügt als Nachweis für die
+
+1. Intaktstabilität ein Belastungsversuch, wobei dieser mit dem halben Gewicht der höchstzulässigen Zahl der Fahrgäste und bei der ungünstigsten Füllung der Brennstoff- und Wasserbehälter durchzuführen ist; die Fahrgäste sind dabei als stehend anzunehmen und ihr Gewicht ist soweit wie möglich seitlich auf der für Fahrgäste verfügbaren Fläche unterzubringen. Dabei darf ein Krängungswinkel von 7° nicht überschritten sowie ein Restfreibord und ein Restsicherheitsabstand von 0,20 m in Zone 4 und von 0,30 m in Zone 3 und Zone 2-Binnen nicht unterschritten werden;
+
+2. Leckstabilität ein rechnerischer Nachweis, wobei bei voller Beladung und Flutung der Fähre ein Reserveauftrieb von 100 Newton je Person und eine stabile aufrechte Schwimmlage verbleiben muss, bei der die verbleibende metazentrische Höhe GM<sub>R</sub> 0,10 m nicht unterschritten werden darf.
+
+# § 2.13 – Ausrüstung
+
+1. Jede Kahnfähre oder Kahnseilfähre muss mit einem Anker mit einem Gewicht von mindestens 25 kg und einer Ankerkette oder einem Ankerseil von mindestens 30 m Länge ausgestattet sein. Ergänzend gelten die Bestimmungen des Artikels 13.01 ES-TRIN.
+
+2. Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann auf Antrag auf den Wasserstraßen der Zone 4 von dem Erfordernis einer Ankerausrüstung befreien, wenn die Sicherheit und Leichtigkeit des Verkehrs nicht gefährdet ist.
+
+3. Kahnfähren und Kahnseilfähren müssen mit einem Paar Riemen oder vergleichbaren Vortriebsmitteln ausgerüstet sein. Ein Hilfsantrieb zur Beherrschung besonderer Betriebslagen ist vorzuhalten.
 
 # § 3.01 – Begriffsbestimmungen
 
-Abweichend von § 1.01 gelten für dieses Kapitel folgende Begriffsbestimmungen:
+Abweichend von § 1.02 gelten für dieses Kapitel als
 
-1. „Tragfähigkeit“ die Gesamtzuladefähigkeit mit homogener oder gemischter Last in Tonnen einschließlich höchstens 45 Personen in Abhängigkeit von bestimmten Wasserständen;
+1. „Tragfähigkeit“ die Gesamtzuladefähigkeit mit homogener oder gemischter Last in Tonnen in Abhängigkeit von bestimmten Wasserständen;
 
-2. „Das zulässige Gesamtgewicht des schwersten Landfahrzeugs“ das Gewicht eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das in Abhängigkeit von bestimmten Wasserständen allein und ohne gleichzeitige Beförderung weiterer Nutzlasten bei ausschließlich mittiger Aufstellung auf dem Fährdeck befördert werden kann;
+2. „Gesamtgewicht eines Landfahrzeugs“ das Gewicht eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das in Abhängigkeit von bestimmten Wasserständen in beliebiger Anzahl bis zum Erreichen der Tragfähigkeit auf der verfügbaren Ladefläche des Fährdecks in beliebiger Anordnung aufgestellt werden kann;
 
-3. „Aufstau“ der Verlauf der Wasseroberfläche an der oberstromseitigen Bordwand;
+3. „maximales Gesamtgewicht des schwersten Landfahrzeugs“ das Gewicht eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das in Abhängigkeit von bestimmten Wasserständen allein und ohne gleichzeitige Beförderung bestimmter Nutzlasten bei ausschließlich mittiger Aufstellung auf dem Fährdeck befördert werden kann;
 
-4. „Restfreibord“ der senkrechte Abstand zwischen dem tiefsten Punkt des wasserdichten Decks oder des wasserdichten Deckaufsatzes, und der gedachten Wasserlinie, die bei Neigungen nach Oberstrom durch den höchsten Punkt des Aufstaus verläuft;
+4. „Aufstau“ der Verlauf der Wasseroberfläche an der oberstromseitigen Bordwand;
 
-5. „Deckaufsatz“ ein nur bei Gierseilfähren üblicher nicht von Bord zu Bord gehender Aufbau von geringer Höhe, der die Fahrbahnbreite des Fährdecks einseitig einschränkt, die Seitenhöhe auf einer Seite vergrößert und sich über die Länge des ganzen Fährdecks erstreckt;
+5. „Restfreibord“ der senkrechte Abstand zwischen dem tiefsten Punkt des wasserdichten Decks oder des wasserdichten Deckaufsatzes und der gedachten Wasserlinie, die bei Neigungen nach Oberstrom durch den höchsten Punkt des Aufstaus verläuft;
 
-6. „Ablegereife“ der Zustand, bei dessen Erreichen das Seil oder die Kette außer Betrieb genommen werden muss, insbesondere wegen Verschleiß, Längung, Risse, Korrosion oder Brüchen.
+6. „Deckaufsatz“ ein nur bei Gierseilfähren üblicher nicht von Bord zu Bord gehender Aufbau von geringer Höhe, der die Fahrbahnbreite des Fährdecks einseitig einschränkt, die Seitenhöhe auf einer Seite vergrößert und sich über die Länge des ganzen Fährdecks erstreckt;
 
-# § 3.02 – Nachweis der Intaktstabilität für Gierseilfähren
+7. „Ablegereife“ der Zustand, bei dessen Erreichen das Seil oder die Kette außer Betrieb genommen werden muss, insbesondere wegen Verschleiß, Längung, Rissen, Korrosion oder Brüchen.
 
-1\.
+# § 3.02 – Nachweis der Intakt- und Leckstabilität für seilgebundene oder kettengebundene Fähren
 
-Ergänzend zu § 2.02 muss sich der Nachweis ausreichender Intaktstabilität für Gierseilfähren auf Berechnungen für Neigungen der Gierseilfähre nach Oberstrom und nach Unterstrom erstrecken.
+1. Ergänzend zu § 2.03 muss sich der Nachweis ausreichender Intaktstabilität für seilgebundene oder kettengebundene Fähren auf Berechnungen für Neigungen der seilgebundenen oder kettengebundenen Fähre nach Oberstrom und nach Unterstrom erstrecken.
 
-2\.
+2. Der Nachweis ausreichender Intaktstabilität ist erbracht, wenn unter gleichzeitiger Einwirkung der folgenden Faktoren die Anforderungen des Satzes 2 erfüllt sind:
 
-Der Nachweis ausreichender Intaktstabilität bei Neigungen nach Oberstrom ist als erbracht anzusehen, wenn die Krängung der Gierseilfähre nach Oberstrom bei einer Beladung nach Nummer 4 und voller Ausrüstung und bei Einhaltung eines Restfreibords nach Nummer 7 unter gleichzeitiger Einwirkung
+a) einer seitlichen Verschiebung der Landfahrzeuge und Personen,
 
-a) einer seitlichen Verschiebung der Landfahrzeuge und Personen nach Nummer 5,
-
-b) des Windwiderstandes nach Artikel 19.03 Nummer 5 ES-TRIN,
+b) des Windwiderstandes,
 
 c) einer seitlichen Anströmung und
 
-d) eines Restwasserstandes auf dem Boden des Fährkörpers nach Nummer 8
+d) dem Gefällewiderstand.
 
-einen Winkel von 5° nicht überschreitet. Gierseilfähren mit Hilfsantrieb sind mit halbgefüllten Brennstofftanks zu rechnen. Der Nachweis ist in Form einer grafischen Hebelarmbilanz zu erbringen. Dabei sind für mindestens drei angenommene Beladungszustände nach Nummer 4 und mindestens drei Fließgeschwindigkeiten nach Nummer 6 die krängenden Hebelarme in Metern nach der Formel  
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0010-01.jpg)
+Die folgenden Anforderungen müssen eingehalten werden:
 
-und die aufrichtenden Hebelarme in Metern nach der Formel
+a) bei Krängung nach Oberstrom mit M<sub>KrO</sub> = 0 ist ein Restfreibord von mindestens 0,1 m vorhanden;
 
-h<sub>a</sub> = (µ · MF + MG) · sin<sub>φ</sub> – Δh<sub>q</sub>
+b) bei Krängung nach Oberstrom mit M<sub>KrO</sub> = 0 wird ein Krängungswinkel von 5° nicht überschritten;
 
-zu ermitteln. Bei Gierseilfähren, deren Gierseil auf der Sohle des Flussbettes verlegt ist (Grundseilfähren), lautet die Formel für die krängenden Hebelarme in Metern  
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0020.jpg)
+c) bei Krängung nach Unterstrom mit M<sub>KrU</sub> = 0 ist ein Restfreibord von mindestens 0,0 m vorhanden;
 
-In diesen Formeln bedeutet:
+d) bei Krängung nach Unterstrom mit M<sub>KrU</sub> = 0 wird ein Krängungswinkel von 10° nicht überschritten;
 
-W<sub>q</sub>
+e) die seil- oder kettengebundene Fähre ist jeweils mit den Beladungen aus Nummer 3 und krängenden Momenten aus Nummer 4 zu berechnen. Seil- oder kettengebundene Fähren mit Hilfsantrieb sind zudem jeweils mit halbgefüllten Brennstofftanks zu berechnen.
 
-der Widerstand aus Queranströmung bei Neigungswinkeln von 0° bis 11° in Kilonewton (kN),
+W<sub>Oges</sub> = W<sub>Q</sub> – W<sub>w</sub>
 
-W<sub>G</sub>
+W<sub>Uges</sub> = W<sub>Q</sub> + W<sub>w</sub>
 
-der Gefällewiderstand in Kilonewton (kN),
+![Die Abbildung stellt folgende Formel dar: M tiefgestellter Index KrO gleich 1,5 mal W tiefgestellter Index Oges mal Klammer auf Z tiefgestellter Index F minus T geteilt durch 2 Klammer zu minus Tangens Klammer auf Alpha Klammer zu mal W tiefgestellter Index Oges mal Y tiefgestellter Index F plus 0,44145 mal Aufstau mal L mal B zum Quadrat plus M tiefgestellter Index A Klammer auf Phi Klammer zu plus M tiefgestellter Index ZO plus M tiefgestellter Index W.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0040.jpg)
 
-W<sub>W</sub>
+![Die Abbildung stellt folgende Formel dar: M tiefgestellter Index KrU gleich 1,5 mal W tiefgestellter Index Uges mal Klammer auf Z tiefgestellter Index F minus T geteilt durch 2 Klammer zu minus Tangens Klammer auf Alpha Klammer zu mal W tiefgestellter Index Uges mal Y tiefgestellter Index F plus 0,44145 mal Aufstau mal L mal B zum Quadrat plus M Index A Klammer auf Phi Klammer zu plus M tiefgestellter Index ZU minus M tiefgestellter Index W.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0050.jpg)
 
-der Windwiderstand in Kilonewton (kN) nach Artikel 19.03 Nummer 5 ES-TRIN,
+F<sub>SO</sub> = H – T<sub>S</sub>
 
-H<sub>T</sub>
+F<sub>SU</sub> = H – 2 · T + T<sub>S</sub>
 
-der senkrechte Abstand des Angriffspunktes des Gierseils von der Wasserlinie im Ausgangszustand in Metern (m),
+In diesen Formeln bedeuten (siehe auch Abbildung):
 
-B<sub>T</sub>
+•  
+![Die Abbildung stellt folgende Formel dar: W tiefgestellter Index Q gleich Klammer auf C tiefgestellter Index WQ mal A tiefgestellter Index Lat plus zwei mal A tiefgestellter Index Gier Klammer zu mal Rho geteilt durch 2000 mal v zum Quadrat plus delta mal i mal g geteilt durch 1000.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0060.jpg);
 
-der horizontale Abstand des Angriffspunktes des Gierseils von Mitte Schiff in Metern (m),
+•  
+![Die Abbildung stellt folgende Formel dar: T tiefgestellter Index S gleich Klammer auf 1 plus 5,58995 mal F zum Quadrat tiefgestellter Index nB mal Klammer auf L geteilt durch B Klammer zu hoch 1 geteilt durch 5 mal Klammer auf B geteilt durch h Klammer zu hoch eins geteilt durch zwei Klammer zu mal Klammer auf T plus Tangens Klammer auf Phi Klammer zu mal B geteilt durch zwei Klammer zu.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0070.jpg);
 
-α
+•  
+![Die Abbildung stellt folgende Formel dar: Aufstau gleich 5,8995 mal F tiefgestellter Index nB zum Quadrat mal Klammer auf L geteilt durch B Klammer zu hoch eins geteilt durch fünf mal Klammer auf B geteilt durch h Klammer zu hoch eins geteilt durch zwei mal Klammer auf T plus Tangens Klammer auf Phi Klammer zu mal B geteilt durch zwei Klammer zu.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0080.jpg);
 
-der Winkel des Gierseils am Schiff gegen die Horizontale,
+•  
+![Die Abbildung stellt folgende Formel dar: C tiefgestellter Index WQ gleich 2,8322 mal C tiefgestellter Index WQ0 mal f tiefgestellter Index h mal f tiefgestellter Index Phi mal F tiefgestellter Index nB hoch eins geteilt durch vier minus eins geteilt durch zwei plus Bewuchs geteilt durch zwei.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0090.jpg);
 
-M<sub>W</sub>
+•  
+![Die Abbildung stellt folgende Formel dar: C tiefgestellter Index WQ0 gleich Klammer auf minus 0,002 mal L geteilt durch B plus 0,003 Klammer zu mal L geteilt durch T plus Klammer auf 0,11 mal L geteilt durch B plus 0,92 Klammer zu.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0100.jpg);
 
-das Winddruckmoment in Kilonewtonmeter (kNm) nach Artikel 19.03 Nummer 5 ES-TRIN,
+•  
+![Die Abbildung stellt folgende Formel dar: f tiefgestellter Index h gleich eins plus 0,003 mal L geteilt euch T mal Klammer auf eins minus Klammer auf eins minus T geteilt durch h Klammer zu hoch 0,6 Klammer zu.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0110.jpg);
 
-M<sub>Z</sub>
+•  
+![Die Abbildung stellt folgende Formel dar: f tiefgestellt Phi gleich eins plus Betrag von Phi geteilt durch 5 mal Klammer auf Klammer auf minus 0,006 mal L geteilt durch B plus 0,035 Klammer zu mal L geteilt durch T plus 0,45 Klammer zu.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0120.jpg);
 
-das Moment aus der Verschiebung der Zuladung nach Nummer 5 in Kilonewtonmeter (kNm),
+•  
+![Die Abbildung stellt folgende Formel dar: F tiefgestellter Index nB gleich v geteilt durch Wurzel aus g mal B.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0130.jpg);
 
-g
+•  
+W
 
-die Erdbeschleunigung 9,81 in Meter durch Sekundenquadrat (m/s²),
+Q =
 
-D
+Widerstand durch Queranströmung \[
 
-die Wasserverdrängung in Tonnen (t),
+kN\];
 
-µMF
+•  
+W
 
-die vertikale Auswanderung des Formschwerpunkts in Metern (m),
+W =
 
-MG
+Windwiderstand nach Artikel 19.03 Nummer 5 ES-TRIN \[
 
-die metazentrische Höhe, verringert um den Abzug für freie Oberflächen entsprechend Nummer 8 in Metern (m),
+kN\];
 
-φ
+•  
+W
 
-der Krängungswinkel der Gierseilfähre und
+Oges =
 
-Δh<sub>q</sub>
+Gesamtwiderstand bei Krängung Richtung Oberstrom \[
 
-die direkte Verminderung der Stabilitätshebelarme durch Queranströmung in Metern (m).
+kN\];
 
-3\.
+•  
+W
 
-Der Nachweis ausreichender Intaktstabilität bei Neigungen nach Unterstrom ist erbracht, wenn die Krängung der Gierseilfähre unter Berücksichtigung der Beladungszustände und der krängenden Einflüsse nach Nummer 2 Satz 1 einen Winkel
+Uges =
 
-φ<sub>zul</sub>, der sich aus der Formel  
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0030.jpg)
+Gesamtwiderstand bei Krängung Richtung Unterstrom \[
 
-ergibt, nicht überschreitet. In dieser Formel bedeutet:
+kN\];
 
-φ<sub>zul</sub>
+•  
+A
 
-der Grenzwinkel,
+Lat =
 
-H – T
+Lateralplanfläche in Strömungsrichtung ohne Gierschwert \[
 
-der Abstand des tiefsten Punkts des Fährdecks bis zur Wasserlinie bei
+m
 
-φ = 0°, der bei Krängung der Fähre nach Unterstrom zuerst zu Wasser kommt, in Metern (m),
+2\];
 
+•  
+A
+
+Gier =
+
+Zusätzliche Lateralplanfläche durch ein Gierschwert \[
+
+m
+
+2\];
+
+•  
+![Die Abbildung stellt folgende Formel dar: Rho gleich Dichte des Wasser Klammer auf kg geteilt durch m hoch 3 Klammer zu.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0140.jpg);
+
+•  
+![Die Abbildung stellt folgende Formel dar: v gleich Fließgeschwindigkeit des Gewässers Klammer auf m geteilt durch s Klammer zu.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0150.jpg);
+
+•  
+∆ = Masse der Verdrängung \[
+
+t\];
+
+•  
+![Die Abbildung stellt folgende Formel dar: i gleich Gefälle des Gewässers Klammer auf m geteilt durch km Klammer zu.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0160.jpg);
+
+•  
+Bewuchs = 1
+
+bei starkem Bewuchs der Außenhaut, 0
+
+bei schwachem Bewuchs;
+
+•  
+L = Länge \[
+
+m\];
+
+•  
+B = Breite \[
+
+m\];
+
+•  
+T = Tiefgang mit eventuellem Gierschwert \[
+
+m\];
+
+•  
+H = Seitenhöhe bis zum tiefsten Punkt des Fährdecks \[
+
+m\];
+
+•  
+h = Wassertiefe \[
+
+m\];
+
+•  
+Φ = Krängungswinkel \[
+
+°\];
+
+•  
+![Die Abbildung stellt folgende Formel dar: g gleich Erdbeschleunigung gleich 9,81 Klammer auf m geteilt durch s hoch 2 Klammer zu.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0170.jpg);
+
+•  
+Aufstau = Hydrodynamische Vergrößerung des Tiefgangs oberstromseitig \[
+
+m\];
+
+•  
 T
 
-der Tiefgang bei dem zu untersuchenden Beladungsfall in Metern (m) und
+S
 
-B
+= Tiefgang vergrößert durch Krängung und Aufstau \[
 
-die Breite der Gierseilfähre in Höhe des Decks an der Stelle, wo das Maß H angenommen wurde, in Metern (m).
+m\];
 
-Der Grenzwinkel darf 10° nicht überschreiten. Der Nachweis ist in Form eines grafischen Vergleichs der sich einstellenden Endneigungswinkel mit dem Grenzwinkel für mindestens drei Beladungszustände nach Nummer 4 und mindestens 3 Fließgeschwindigkeiten nach Nummer 6 zu erbringen. Dabei sind die Endneigungswinkel nach der Formel  
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0040.jpg)
+•  
+F
 
-zu errechnen. In dieser Formel bedeutet:
+SO
 
-h<sub>kr</sub>
+= Freibord Richtung Oberstrom, verringert durch Krängung und Aufstau \[
 
-die Summe der krängenden Hebelarme in Metern (m),
+m\];
 
-φ<sub>zul</sub>
+•  
+F
 
-der Grenzwinkel nach obiger Formel und
+SU
 
-h<sub>a</sub>
+= Freibord Richtung Unterstrom, verringert durch Krängung und Aufstau \[
 
-der aufrichtende Hebelarm in Metern (m).
+m\];
 
-Die krängenden Hebelarme in Metern sind dabei nach der Formel  
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0050.jpg)
+•  
+M
 
-und die aufrichtenden Hebelarme nach der Formel  
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0060.jpg)
+A \[Φ\]
 
-zu berechnen. Die Definition der einzelnen Summanden und Faktoren entspricht der Definition in Nummer 2; für W<sub>q</sub> ist jedoch nur der Wert für 0° Neigung einzusetzen.
+= Aufrichtendes hydrostatisches Moment bei Krängunswinkel Φ \[
 
-4\.
+kNm\];
 
-Für die Berechnung nach den Nummern 2 und 3 ist eine gemischte Beladung Z aus Landfahrzeugen und 45 Personen in homogener Verteilung anzunehmen. Sie ist für jeweils einen Rechengang in
+•  
+M
 
-Z<sub>1</sub> = (  0 · P<sub>F</sub>) + (0 · P<sub>P</sub>) (Gierseilfähre leer),
+QKr
 
-Z<sub>2</sub> = (0,5 · P<sub>F</sub>) + (1 · P<sub>P</sub>) (halbe Zuladung),
+= Krängendes Moment aus der Queranströmung \[
 
-Z<sub>3</sub> = (  1 · P<sub>F</sub>) + (1 · P<sub>P</sub>) (ganze Zuladung)
+kNm\];
 
-aufzuteilen, wobei Z das Gewicht der Zuladung in Tonnen, P<sub>F</sub> das Gewicht der Landfahrzeuge in Tonnen und P<sub>P</sub> das Gewicht von 45 Personen in Tonnen ist.
+•  
+M
 
-5\.
+W
 
-Das Moment aus der seitlichen Verschiebung der Zuladung ist nach folgender Formel zu berechnen:
+= Krängendes Moment aus dem Winddruck \[
+
+kNm\];
+
+•  
+M
+
+ZO
+
+= Krängendes Moment Ladungsverschiebung Richtung Oberstrom \[
+
+kNm\];
+
+•  
+M
+
+ZU
+
+= Krängendes Moment Ladungsverschiebung Richtung Unterstrom \[
+
+kNm\];
+
+•  
+M
+
+KrO
+
+= Summe der krängenden Momente Richtung Oberstrom \[
+
+kNm\];
+
+•  
+M
+
+KrU
+
+= Summe der krängenden Momente Richtung Unterstrom \[
+
+kNm\];
+
+•  
+Z
+
+F
+
+= Vertikaler Angriffspunkt des Führungsseils ab Basis \[
+
+m\];
+
+•  
+Y
+
+F
+
+= Angriffspunkt des Führungsseils aus Mitte Schiff (MS) \[
+
+m\];
+
+•  
+∝
+
+= Richtung des Führungsseils am Angriffspunkt gegenüber der Horizontalen \[
+
+°\];
+
+•  
+∝
+
+ist positiv wie gezeichnet, negativ, wenn das Seil zum Gewässergrund führt.
+
+Für die Werte mit „o“ als Aufzählungszeichen gilt, dass ein positiver Wert Richtung Oberstrom und ein negativer Wert Richtung Unterstrom weist.
+
+![Die Abbildung zeigt einen Querschnitt von einer Fähre mit einem Lastkraftwagen auf dem Deck. Die Strömung kommt von links und ist mit einem Pfeil eingezeichnet. Die Fähre ist nach Backbord gekrängt. Weiterhin sind folgende Winkel Bezugsgrößen für die Intaktstabilität dargestellt: h, F tiefgestellter Index SO, B, Z tiefgestellter Index F, T, H, F tiefgestellter Index SU, Y tiefgestellter Index F, F tiefgestellter Index SU, Phi, Hochseilanlage: Alpha größer 0 und Grundseil: Alpha kleiner 0.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0180.jpg)
+
+Abbildung 2: Darstellung der Winkel und Bezugsgrößen für den Nachweis der Intaktstabilität
+
+3. Für die Berechnungen nach Nummer 2 ist eine gemischte Beladung Z aus Landfahrzeugen und Personen in homogener Verteilung anzunehmen. Sie ist für jeweils einen Rechengang aufzuteilen in
+
+a) Z<sub>1</sub> = (0 · P<sub>F</sub>) + (0 · P<sub>P1</sub>) (Seil- oder kettengebundene Fähre leer),
+
+b) Z<sub>2</sub> = (0,5 · P<sub>F</sub>) + (1 · P<sub>P2</sub>) (halbe Zuladung),
+
+c) Z<sub>3</sub> = (1 · P<sub>F</sub>) + (1 · P<sub>P3</sub>) (ganze Zuladung),
+
+wobei Z das Gewicht der Zuladung in Tonnen, P<sub>F</sub> das Gewicht der Landfahrzeuge in Tonnen und P<sub>P</sub> das Gewicht der Personen in Tonnen ist.
+
+Die Anzahl der Personen P<sub>P1</sub>, P<sub>P2</sub> und P<sub>P3</sub> kann in dem Rahmen festgelegt werden, in dem die Bedingungen für die Intaktstabilität nach Nummer 2 erfüllt werden.
+
+4. Das Moment aus der seitlichen Verschiebung der Zuladung ist nach folgender Formel zu berechnen:
 
 M<sub>Z</sub> = Z<sub>n</sub> · e
 
 In dieser Formel bedeutet:
 
-Z<sub>n</sub>  
-das Gewicht der Zuladung Z<sub>2</sub> oder Z<sub>3</sub> in Tonnen (t),
+Z<sub>n</sub> = Gewicht der Zuladung Z<sub>2</sub> oder Z<sub>3</sub> in Tonnen (t),
 
-e  
-den größten seitlichen Verschiebungsweg der Zuladung aus der Mittellängsachse der Gierseilfähre in Metern (m).
+e = größter seitlicher Verschiebungsweg der Zuladung aus der Mittellängsachse der seil- oder kettengebundenen Fähre in Metern (m).
 
-Sind die Schrammborde so gesetzt, dass eine seitliche Verschiebung der Landfahrzeuge nicht möglich ist, so ist nur die seitliche Verschiebung der Personen nach der Formel
+Sind die Schrammborde so gesetzt, dass eine seitliche Verschiebung der Landfahrzeuge nicht möglich ist, so ist nur die seitliche Verschiebung der Personen nach folgender Formel in die Rechnung einzusetzen:
 
 M<sub>Z</sub> = P<sub>P</sub> · e
 
-in die Rechnung einzusetzen.
+5. In den Berechnungen nach Nummer 2 ist die mittlere Fließgeschwindigkeit des Wassers vornehmlich zu berücksichtigen bei
 
-6\.
-
-In den Berechnungen nach den Nummern 2 und 3 ist die mittlere Fließgeschwindigkeit des Wassers vornehmlich bei:
-
-a) Niedrigwasserstand (NW),
+a) Hochwasserstand (HW),
 
 b) Mittelwasserstand (MW) und
 
-c) Hochwasserstand (HW)
+c) Niedrigwasserstand (NW).
 
-zu berücksichtigen. Die Werte müssen sich nachweisbar auf die Fährstelle beziehen und müssen vom zuständigen Wasserstraßen- und Schifffahrtsamt bestätigt sein. Eine Querprofilzeichnung der Fährstelle ist der Rechnung beizufügen.
+Die Werte müssen sich nachweisbar auf die Fährstelle beziehen und müssen vom zuständigen Wasserstraßen- und Schifffahrtsamt bestätigt sein. Eine Querprofilzeichnung der Fährstelle ist der Rechnung beizufügen.
 
-7\.
+6. Als Ergebnisse der Berechnung sind festzulegen:
 
-Bei Neigungen der Gierseilfähre nach Oberstrom entsprechend Nummer 2 muss
-
-a) der Restfreibord auf der Oberstromseite mindestens 0,10 m und bei
-
-b) Gierseilfähren mit zusätzlichem wasserdichten Deckaufsatz auf der Oberstromseite mindestens 0,10 m, jedoch nicht weniger als die größte Höhe des Deckaufsatzes über dem Fährdeck,
-
-betragen. Für den Restfreibord gilt folgende Formel:
-
-F<sub>R</sub> = H – TS
-
-In dieser Formel bedeutet:
-
-F<sub>R</sub>  
-der Restfreibord in Metern (m),
-
-H  
-die Seitenhöhe bis zum tiefsten Punkt des Fährdecks in Metern (m),
-
-TS  
-die Aufstauhöhe in Metern (m).
-
-Bei Gierseilfähren mit Deckssprung, bei denen die hochgezogene Außenhaut ein festes Schanzkleid bildet, kann der Restfreibord vom Anlenkpunkt der Landeklappen oder vom tiefsten nicht wasserdichten Punkt des Schanzkleids abgesetzt werden; der tiefere Punkt ist maßgebend.
-
-8\.
-
-In den Berechnungen nach den Nummern 2 und 3 ist ein Restwasserstand von 0,02 m im Fährkörper anzunehmen.
-
-9\.
-
-Als Ergebnisse der Berechnung sind festzulegen:
-
-a) bei Belastung der Gierseilfähre ausschließlich mit Personen
+a) bei Belastung der seil- oder kettengebundenen Fähre ausschließlich mit Personen
 
 aa)  
 die höchstzulässige Anzahl der Fahrgäste,
@@ -802,47 +880,49 @@ die höchstzulässige Anzahl der Fahrgäste,
 bb)  
 die Verdrängung (m³),
 
-b) bei Belastung der Gierseilfähre mit Personen, Landfahrzeugen oder sonstigen Lasten
+b) bei Belastung der seil- oder kettengebundenen Fähre mit Personen, Landfahrzeugen oder sonstigen Lasten
 
 aa)  
 die höchstzulässige Anzahl der Fahrgäste,
 
 bb)  
-die Tragfähigkeit in Tonnen (t) einschließlich 45 Personen,
+die Tragfähigkeit in Tonnen (t) einschließlich der Personen nach Nummer 3,
 
-cc) das zulässige Gesamtgewicht eines von mehreren Landfahrzeugen in Tonnen (t),
+cc) das Gesamtgewicht eines von mehreren Landfahrzeugen in Tonnen (t),
 
 dd)  
-das zulässige Gesamtgewicht des schwersten und einzigen Landfahrzeugs in Tonnen (t),
+das maximale Gesamtgewicht des schwersten und einzigen Landfahrzeugs in Tonnen (t),
 
 ee)  
 die zulässige Achslast einer Einzelachse und einer Doppelachse von Landfahrzeugen in Tonnen (t)
 
 jeweils bei Niedrigwasserstand, Mittelwasserstand und Hochwasserstand.
 
-10\.
+7. Während der Fahrt und beim Be- und Entladen der Fähre darf der höchstzulässige Krängungswinkel nach § 3.02 Nummer 2 nicht überschritten und der Restfreibord nach § 3.02 Nummer 2 nicht unterschritten werden, wobei beim Be- und Entladevorgang die Fähre freischwimmend zu betrachten ist, es sei denn, das Fährgefäß wird beim Abstützen auf der Rampe durch eine kraftschlüssige Verbindung in einer festen Lage gehalten.
 
-Während der Fahrt und bei Be- und Entladen der Fähre darf der höchstzulässige Krängungswinkel nach § 3.02 Nummer 3 nicht überschritten und der Restfreibord nach § 3.02 Nummer 7 nicht unterschritten werden, wobei beim Be- und Entladevorgang die Fähre freischwimmend zu betrachten ist, es sei denn, das Fährgefäß wird beim Abstützen auf der Rampe durch eine kraftschlüssige Verbindung in einer festen Lage gehalten.
+8. Der Nachweis ausreichender Leckstabilität hat nach § 2.03 Nummer 6 zu erfolgen. Hierbei ist das krängende Moment und der Restfreibord aus der Queranströmung zu berücksichtigen.
 
 # § 3.03 – Einsenkungsmarken
 
-1. Die Vorschrift des Artikels 4.04 ES-TRIN ist nicht anzuwenden.
+1. Artikel 4.03 ES-TRIN ist nicht anzuwenden.
 
-2. An beiden Längsseiten der Gierseilfähren ist je eine Einsenkungsmarke für die Tiefgänge anzubringen, die den Tragfähigkeiten nach § 3.02 Nummer 9 Buchstabe b entsprechen.
+2. An beiden Längsseiten der seilgebundenen oder kettengebundenen Fähre ist je eine Einsenkungsmarke für die Tiefgänge anzubringen, die den Tragfähigkeiten nach § 3.02 Nummer 6 Buchstabe b entsprechen.
 
-3. Die Einsenkungsmarken müssen in der senkrechten Querschnittsebene angebracht sein, die durch den gemittelten Schwerpunkt der Wasserlinienflächen in den Schwimmebenen bei Niedrigwasserstand, Mittelwasserstand und Hochwasserstand verläuft.
+3. Die Einsenkungsmarken müssen nach Artikel 4.03 Nummer 10 ES-TRIN ausgeführt werden. Sind verschiedene Tiefgänge für Niedrigwasserstand, Mittelwasserstand und Hochwasserstand zugelassen, so sind für jeden Wasserstand entsprechend gekennzeichnete Einsenkungsmarken anzubringen.
 
 # § 3.04 – Berechnung und Konstruktion der Seil- und Kettenanlagen
 
-1. Seil- und Kettenanlagen von seil- und kettengebundenen Fähren umfassen im Wesentlichen Seile und Ketten einschließlich der zugehörigen Abspannmasten und Verankerungen.
+1. Seilanlagen von seilgebundenen Fähren und Kettenanlagen von kettengebundenen Fähren umfassen im Wesentlichen Seile und Ketten einschließlich der zugehörigen Abspannmasten und Verankerungen.
 
-2. Seil- und Kettenanlagen müssen in allen Teilen für den Fährbetrieb geeignet und nach den Regeln der Technik ausgeführt und gebaut sein.
+2. Seilanlagen und Kettenanlagen müssen in allen Teilen für den Fährbetrieb geeignet und nach den Regeln der Technik ausgeführt und gebaut sein.
 
-3. Der Antragsteller hat den Nachweis der ausreichenden Festigkeitsbestimmung für Seil- und Kettenanlagen durch eine Berechnung zu erbringen. Die Berechnung und Konstruktion der Seil- und Kettenanlagen ist in Anlage 1 und 2 dieses Anhangs geregelt.
+3. Der Antragsteller hat den Nachweis der ausreichenden Festigkeitsbestimmung für Seilanlagen oder Kettenanlagen durch eine Berechnung zu erbringen. Die Berechnung und Konstruktion der Seilanlagen oder Kettenanlagen hat nach den allgemeinen anerkannten Regeln für den konstruktiven Ingenieurbau zu erfolgen. Es wird vermutet, dass der Antragsteller die in Satz 2 bezeichneten Regeln eingehalten hat, wenn er die vom Bundesministerium für Verkehr im Bundesanzeiger bekanntgegebenen Regeln beachtet hat.
+
+4. Bei der Berechnung von Seiltragwerken und Kettenanlagen sind sowohl die wirkenden Einzellasten oder Streckenlasten als auch das Eigengewicht der Seile oder Ketten zu berücksichtigen. Die Berechnungen für Hochseilanlagen müssen anhand einer geometrisch nichtlinearen Berechnung 3. Ordnung erfolgen, um die Deformationen aus der Belastung korrekt zu ermitteln.
 
 # § 3.05 – Prüfung
 
-Seil- und Kettenanlagen sind
+Seilanlagen und Kettenanlagen sind
 
 1. vor der ersten Inbetriebnahme,
 
@@ -854,35 +934,35 @@ von einem Sachverständigen daraufhin zu prüfen, ob die Anlage den Anforderunge
 
 # § 3.06 – Prüfbedingungen und Prüfinhalte
 
-Die Seil- und Kettenanlagen sind wie folgt zu prüfen:
+Die Seilanlagen und Kettenanlagen sind wie folgt zu prüfen:
 
-1. Trag-, Fahr- und Führungsseile sind auf ihren inneren und äußeren Zustand zu prüfen. Die Untersuchung hat sich auf die Feststellung von Drahtbrüchen, Korrosion, Verschleiß, Lockerung von Drähten, anderen Veränderungen des Seilgefüges und auf Beschädigungen zu erstrecken. Zur Beurteilung der Ablegereife sind die Regeln der Technik anzuwenden.
+1. Tragseile, Fahrseile und Führungsseile sind auf ihren inneren und äußeren Zustand zu prüfen. Die Untersuchung hat sich auf die Feststellung von Drahtbrüchen, Korrosion, Verschleiß, Lockerung von Drähten, anderen Veränderungen des Seilgefüges und auf Beschädigungen zu erstrecken. Zur Beurteilung der Ablegereife sind die allgemein anerkannten Regeln der Technik anzuwenden.
 
 2. Das Tragseil ist in Zeitabständen von maximal zehn Jahren nach Herstellung von einer amtlich anerkannten Stelle oder von einem von der Generaldirektion Wasserstraßen und Schifffahrt anerkannten Sachverständigen mittels zerstörungsfreier (magnetinduktiver) Seilprüfung zu prüfen. Die Ergebnisse sind in einem Bericht zu dokumentieren.
 
-3. Die Prüfung der Zug-, Spann- und Abspannseile beinhaltet äußerlich feststellbare Drahtbrüche und die Abnutzung der Drähte innerhalb eines Seilstückes. Zur Beurteilung der Ablegereife sind die Regeln der Technik anzuwenden.
+3. Die Prüfung der Zugseile, Spannseile und Abspannseile hat äußerlich feststellbare Drahtbrüche und die Abnutzung der Drähte innerhalb eines Seilstückes zu beinhalten. Zur Beurteilung der Ablegereife sind die allgemein anerkannten Regeln der Technik anzuwenden.
 
-4. Die Seilendbefestigungen werden daraufhin geprüft, ob ihre Ausführung den Regeln der Technik entspricht.
+4. Die Seilendbefestigungen sind daraufhin zu prüfen, ob ihre Ausführung den allgemein anerkannten Regeln der Technik entspricht.
 
-5. Ketten werden im Hinblick auf Verschleiß, Längung und Teilungsvergrößerung geprüft. Die Ablegereife wird entsprechend der DIN 685 Teil 5, Ausgabe November 1981, beurteilt.
+5. Ketten sind im Hinblick auf Verschleiß, Längung und Teilungsvergrößerung zu überprüfen. Die Ablegereife ist entsprechend der DIN 685 Teil 3, Ausgabe Februar 2001 zu beurteilen.
 
-6. Abspannmasten werden auf Verformung, Beschädigungen, Korrosion (bei Hohlprofilen auch innere Korrosion), ordnungsgemäße Verbindung von Tragseil und Mast und ordnungsgemäßen Übergang vom Mast zum Fundament hin geprüft.
+6. Abspannmasten sind auf Verformung, Beschädigungen, Korrosion (bei Hohlprofilen auch innere Korrosion), ordnungsgemäße Verbindung von Tragseil und Mast und ordnungsgemäßen Übergang vom Mast zum Fundament hin zu prüfen.
 
-7. Die Verankerung wird auf Verformung und Beschädigungen sowie auf Korrosion an den Befestigungselementen und im Bereich des Übergangs zum Fundament hin geprüft.
+7. Die Verankerung ist auf Verformung und Beschädigungen sowie auf Korrosion an den Befestigungselementen und im Bereich des Übergangs zum Fundament hin zu prüfen.
 
-8. Bei Hochseilanlagen ist für eine Sichtkontrolle von Mast zu Mast an beiden Masten je eine Markierung anzubringen, die als Kontrollpunkt dient um den Durchhang des Tragseils zu kontrollieren und insbesondere nach größeren Temperaturveränderungen auf das im Fährzeugnis festgelegte Maß zu korrigieren.
+8. Bei Hochseilanlagen ist für eine Sichtkontrolle von Mast zu Mast an beiden Masten je eine Markierung anzubringen, die als Kontrollpunkt dient, um den Durchhang des Tragseils zu kontrollieren und insbesondere nach größeren Temperaturveränderungen auf das im Fährzeugnis festgelegte Maß zu korrigieren.
 
 # § 3.07 – Bescheinigung
 
-1. Die Übereinstimmung jeder Seil- und Kettenanlage mit den Anforderungen dieses Kapitels ist im Fährzeugnis zu bescheinigen.
+1. Die Übereinstimmung jeder Seilanlage und Kettenanlage mit den Anforderungen dieses Kapitels ist im Fährzeugnis zu bescheinigen.
 
-2. Diese Bescheinigung wird im Anschluss an die Prüfung nach § 3.05 von der Untersuchungskommission im Fährzeugnis eingetragen.
+2. Diese Bescheinigung ist im Anschluss an die Prüfung nach § 3.05 von der Untersuchungskommission im Fährzeugnis einzutragen.
 
 3. Die Gültigkeitsdauer der Bescheinigung beträgt höchstens fünf Jahre. Einer Erneuerung muss eine neue Prüfung nach § 3.05 vorausgehen. Ausnahmsweise kann die Untersuchungskommission auf begründeten Antrag des Eigners oder seines Bevollmächtigten die Gültigkeit der Bescheinigung um höchstens drei Monate verlängern, ohne dass eine Prüfung nach § 3.05 vorausgehen muss. Diese Verlängerung ist im Fährzeugnis einzutragen.
 
 # § 4.01 – Übergangsbestimmungen für Fähren, die schon in Betrieb sind
 
-Fähren, die den Vorschriften der Kapitel 1 bis 3 nicht entsprechen, müssen den in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst werden. In der Tabelle bedeuten
+Fähren, die bereits in Betrieb sind und den Vorschriften der Kapitel 1 bis 3 nicht entsprechen, müssen an die in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst werden. Die nachfolgenden Bestimmungen gehen § 37 Absatz 1 bis 5 und 6 Nummer 1 vor. In der Tabelle bedeuten
 
 –  
 „N.E.U.“:
@@ -896,7 +976,7 @@ Die Vorschrift muss bei der Erteilung oder der nächsten Erneuerung der Gültigk
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 12%" />
+<col style="width: 13%" />
 <col style="width: 38%" />
 <col style="width: 50%" />
 </colgroup>
@@ -907,54 +987,62 @@ Nummer</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Inhalt</th>
 <th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Frist oder Bemerkungen</th>
 </tr>
-<tr class="odd">
-<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">1.02 Nr. 10<br />
-Buchstabe a<br />
-Doppelbuchstabe aa</th>
-<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">automatisierter externer Defibrillator</th>
-<th style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung</th>
-</tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.01 Nr. 4</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fährdecks</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2029</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.01 Nr. 3</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">automatisierter externer Defibrillator</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung</td>
 </tr>
 <tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.02</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Nachweis Intakt- und Leckstabilität</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2049</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.01 Nr. 3</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Sicherheitsorganisation</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.07 Nr. 1</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Anforderungen an Absperrvorrichtungen</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.01 Nr. 3</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Ausrüstung mit Abwassersammeltanks oder Bordkläranlagen</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung nach dem 30. Dezember 2029</td>
 </tr>
 <tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.02 Nr. 2</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Fährdeck</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2029</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.03</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Nachweis Intakt- und Leckstabilität</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2049</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.08 Nr. 1</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anforderungen an Absperrvorrichtungen</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3.02</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Nachweis Intaktstabilität für Gierseilfähren</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2049</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Nachweis Intakt- und Leckstabilität für seil- oder kettengebundene Fähren</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2049</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3.04 Nr. 3</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Nachweis der ausreichenden Festigkeit durch Berechnung</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2029</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3.05</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Prüfung</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Nachweis der ausreichenden Festigkeit durch Berechnung</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2029</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3.06</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Prüfbedingungen</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3.05</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td>
 </tr>
 <tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3.06</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfbedingungen</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3.07</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bescheinigung</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Bescheinigung</td>
+<td data-valign="top" data-charoff="50">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td>
 </tr>
 </tbody>
 </table>
@@ -983,29 +1071,37 @@ b) die zu diesem Zeitpunkt nicht zur Beförderung von Fahrgästen zugelassen war
 
 4. Bei einer Barkasse, die nicht zur Beförderung von Fahrgästen zugelassen wird, brauchen die Anforderungen der Nummern 1 und 3 sowie der §§ 5.03 bis 5.05 nicht erfüllt zu sein.
 
+5. Verlaufen Rohrleitungen von der Toilette durch wasserdichte Schotte oder Abteilungen, so gilt Artikel 19.02 Nummer 13 ES-TRIN entsprechend.
+
 # § 5.03 – Stabilität
 
-1. Eine Personenbarkasse,
+1. Der Antragsteller muss durch eine Stabilitätsberechnung nachweisen, dass die Intaktstabilität der vollbesetzten und ausgerüsteten Personenbarkasse angemessen ist. Alle Berechnungen müssen mit freiem Trimm und freier Tauchung durchgeführt werden. Die Leerschiffsdaten, die den Stabilitätsberechnungen zu Grunde liegen, sind durch einen Krängungsversuch zu ermitteln.
 
-a) die für die Zone 1 oder 2-See zugelassen ist, muss abweichend von Artikel 19.02 Nummer 2 ES-TRIN durch wasserdichte Schotte so unterteilt sein, dass das vollbesetzte und ausgerüstete Fahrzeug nach dem Fluten einer beliebigen wasserdichten Abteilung in aufrechter Schwimmlage schwimmfähig bleibt,
+2. Der Antragsteller muss durch eine Berechnung nachweisen, dass die Leckstabilität der vollbesetzten und ausgerüsteten Personenbarkasse angemessen ist. Hierbei ist für den Endzustand der Flutung das Berechnungsverfahren nach dem „wegfallenden Auftrieb“ und für die Zwischenzustände der Flutung das Berechnungsverfahren des „Gewichtszuwachses“ anzuwenden. Alle Berechnungen müssen mit freiem Trimm und freier Tauchung durchgeführt werden.
 
-b) die für die Zone 2-Binnen, Zone 3 oder 4 zugelassen ist, braucht die Forderungen bezüglich der Lage des Innenbodens nach § 5.02 Nummer 1 Satz 1, des Entwässerungssystems nach § 5.02 Nummer 1 Satz 2 und der Schotteinteilung nach Buchstabe a nicht zu erfüllen, wenn
+3. Die Schwimmfähigkeit im Leckfall der vollbesetzten und ausgerüsteten Personenbarkasse muss für drei Zwischenzustände der Flutung (25 %, 50 % und 75 % der Füllung des Endzustandes der Flutung) und für den Endzustand der Flutung der rechnerische Nachweis der genügenden Stabilität erbracht werden.
 
-aa)  
-durch wasserdichte Hohlräume,
+4. Eine Personenbarkasse, die zur Fahrt in Zone 1 oder 2-See zugelassen ist, muss abweichend von Artikel 19.02 Nummer 2 ES-TRIN durch wasserdichte Schotte so unterteilt sein, dass sie nach dem Fluten einer beliebigen wasserdichten Abteilung die Anforderungen nach Nummer 6 erfüllt.
 
-bb)  
-durch fest angebrachte Auftriebskörper oder
+5. Eine Personenbarkasse, die zur Fahrt in Zone 2-Binnen, Zone 3 oder 4 zugelassen ist, muss die Anforderungen an die Lage des Innenbodens und an das Entwässerungssystem nach § 5.02 Nummer 1 nicht erfüllen, wenn ein ausreichender Auftrieb nach dem Fluten einer beliebigen wasserdichten Abteilung, einer beliebigen wasserdichten Zelle oder einer wasserdichten Plicht nach Nummer 6 erbracht wird
 
-cc) in anderer geeigneter Weise
+a) durch eine Schotteinteilung nach Nummer 4,
 
-bei vollbesetztem und ausgerüstetem Fahrzeug sowie mit Wasser gefüllter Plicht ein ausreichender Auftrieb verbleibt und die Barkasse in aufrechter Schwimmlage schwimmfähig bleibt.
+b) durch wasserdichte Hohlräume,
 
-Ein ausreichender Auftrieb ist gegeben, wenn im Endzustand der Flutung die tiefste Stelle der Bordwand mindestens 0,10 m und jede ungesicherte Öffnung mindestens 0,40 m über dem Wasserspiegel liegt.
+c) durch fest am Rumpf angebrachte Auftriebskörper,
 
-Der rechnerische Nachweis der Schwimmfähigkeit im Leckfall muss für alle Personenbarkassen erbracht werden, wobei die Abweichungen des Artikels 19.15 Nummer 1 ES-TRIN für alle Personenbarkassen sinngemäß gelten.
+d) in anderer geeigneter Weise oder
 
-2. Personenbarkassen müssen einen rechnerischen Nachweis der Intaktstabilität erbringen.
+e) durch eine Kombination aus den Buchstaben a bis d.
+
+6. In allen Zwischenzuständen und im Endzustand der Flutung müssen die folgenden Kriterien eingehalten werden:
+
+a) die Personenbarkasse darf maximal bis zur Tauchgrenze eintauchen;
+
+b) jede ungesicherte Öffnung muss mindestens 0,40 m über dem Wasserspiegel liegen;
+
+c) die verbleibende metazentrische Höhe GM<sub>R</sub> darf 0,10 m nicht unterschreiten.
 
 # § 5.04 – Höchstzulässige Zahl der Fahrgäste
 
@@ -1050,11 +1146,11 @@ Barkassen, die den Vorschriften des Kapitels 5 nicht entsprechen, müssen den in
 –  
 „E.U.“:
 
-Die Vorschrift gilt nicht für Barkassen, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h. die Vorschrift gilt nur bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz „E“ im Sinne dieser Übergangsbestimmungen.   
+Die Vorschrift gilt nicht für Barkassen, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h. die Vorschrift gilt nur bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz „E“ im Sinne dieser Übergangsbestimmungen.
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 12%" />
+<col style="width: 13%" />
 <col style="width: 38%" />
 <col style="width: 50%" />
 </colgroup>
@@ -1069,20 +1165,25 @@ Nummer</th>
 <tbody data-valign="top">
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5.01 Nr. 1</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Allgemeines</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">E.U.</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Allgemeines</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">E.U.</td>
 </tr>
 <tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5.03</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Stabilität</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">E.U.</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5.08 Nr. 3</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">automatisierter externer Defibrillator</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung nach dem 01.01.2024</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">automatisierter externer Defibrillator</td>
+<td data-valign="top" data-charoff="50">E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung nach dem 01.01.2024</td>
 </tr>
 </tbody>
 </table>
 
 # § 7.01 – Allgemeine Bestimmungen
 
-1. Auf der Wasserstraße nach Anhang I Zone 1, auf der Wasserstraße Rhein nach Anhang I Zone 3 und auf der Wasserstraße Oder nach Anhang I Zone 4 sind Fahrgastboote nicht zugelassen.
+1. Auf der Wasserstraße nach Anhang I Zone 1 und auf der Wasserstraße Rhein nach Anhang I Zone 3 sind Fahrgastboote nicht zugelassen.
 
 2. Für die Wasserstraßen nach Anhang I Zone 2 ist die Zulassung von Fahrgastbooten auf eine Länge des Schiffskörpers von höchstens 12 Metern und die Beförderung von höchstens 12 Fahrgästen beschränkt.
 
@@ -1239,20 +1340,4 @@ Für Fahrgastboote sind die jeweiligen Vorschriften mit den folgenden Maßgaben 
 
 3. Auf der Grundlage dieses Abnahmeprotokolls erteilt die Generaldirektion Wasserstraßen und Schifffahrt eine Fahrtauglichkeitsbescheinigung nach Maßgabe des § 11 dieser Verordnung. Der zuständigen Berufsgenossenschaft ist vor der Erteilung der Fahrtauglichkeitsbescheinigung die Gelegenheit zur Stellungnahme zu geben, damit diese ihre Aufgabe nach § 4 Absatz 4 Satz 2 dieser Verordnung wahrnehmen kann.
 
-# Anlage 1 – Berechnungsgrundlagen für Hochseilanlagen der Gierfähren auf Wasserstraßen zu Anhang II § 3.04
-
-(Fundstelle: BGBl. I 2018, 1438 - 1448)
-
-Anlage 1 Anlage A Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Emittlung" durch das Wort "Ermittlung" ersetzt
-
-# Anlage A – zur Anlage 1 des Anhangs IIErmittlung der Seilkräfte
-
-(Fundstelle: BGBl. I 2018, 1449 - 1454)
-
-# Anlage B – zur Anlage 1 des Anhangs IIQuerwiderstandsbeiwert
-
-(Fundstelle: BGBl. I 2018, 1455 - 1457)
-
-# Anlage 2 – Berechnungsgrundlagen für Gierfähren, die nicht an einer Hochseilanlage befestigt sind, sowie für Querseilfähren (Kahnseilfähren, Seilfähren und Kettenfähren) zu Anhang II § 3.04
-
-(Fundstelle: BGBl. I 2018, 1458)
+# Anlage B – (zur Anlage 1 des Anhangs II) (weggefallen)

@@ -33,9 +33,9 @@ der Schiffseigentümer, der Schiffseigner oder eine von ihnen beauftragte Person
 
 Schiffsregisterordnung in der Fassung der Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1133), die zuletzt durch Artikel 2 des Gesetzes vom 20. Dezember 2012 (BGBl. I S. 2792) geändert worden ist, in der jeweils geltenden Fassung;
 
-7. „Eichgesetz“
+7. Mess- und Eichgesetz
 
-Eichgesetz in der Fassung der Bekanntmachung vom 23. März 1992 (BGBl. I S. 711), das zuletzt durch Artikel 1 des Gesetzes vom 7. März 2011 (BGBl. I S. 338) geändert worden ist, in der jeweils geltenden Fassung;
+Mess- und Eichgesetz vom 25. Juli 2013 (BGBl. I S. 2722, 2723), das zuletzt durch Artikel 38 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist, in der jeweils geltenden Fassung;
 
 8. „Binnenschiffsuntersuchungsordnung“
 
@@ -49,7 +49,7 @@ Diese Verordnung gilt für die Eichung von Schiffen auf Bundeswasserstraßen.
 
 (1) Die Eichung von Schiffen obliegt der Zentralstelle mit ihrem Außendienst als Schiffseichamt.
 
-(2) Die Kennbuchstaben des Schiffseichamtes und die Sitze des Außendienstes werden durch das Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemacht.
+(2) Die Kennbuchstaben des Schiffseichamtes und die Sitze des Außendienstes werden durch das Bundesministerium für Verkehr im Verkehrsblatt oder Bundesanzeiger bekanntgemacht.
 
 # § 4 – Zentralstelle
 
@@ -66,8 +66,6 @@ Diese Verordnung gilt für die Eichung von Schiffen auf Bundeswasserstraßen.
 4. Nachprüfungen der Angaben des Eichscheines von Amts wegen oder auf Verlangen des Antragsberechtigten anzuordnen und zu überwachen;
 
 5. das Eichpersonal fachlich zu unterweisen.
-
-Die Zentralstelle kann sich dabei des Bundesamtes für Seeschifffahrt und Hydrographie bedienen.
 
 (3) Beauftragte der Zentralstelle können an Schiffseichungen teilnehmen.
 
@@ -111,13 +109,15 @@ Die Zentralstelle kann sich dabei des Bundesamtes für Seeschifffahrt und Hydrog
 
 Über jede Eichung ist ein Nachweis zu fertigen.
 
-(2) Das Schiffseichamt trägt jeden von ihm ausgestellten Eichschein unter fortlaufender Nummer in ein Eichverzeichnis ein.
+(2) Das Schiffseichamt trägt jeden von ihm ausgestellten Eichschein unter fortlaufender Nummer in ein Eichverzeichnis nach Anlage 7 ein.
 
 (3) Die Geltungsdauer eines Eichscheins darf auf höchstens 15 Jahre festgesetzt werden. Auf jedem Eichschein ist der Tag anzugeben, an dem er ungültig wird.
 
 (4) Ungeachtet der auf dem Eichschein angegebenen Geltungsdauer wird dieser ungültig, wenn das Schiff solche Änderungen (Reparaturen, Umbauten, bleibende Formänderungen) erfährt, dass die Angaben des Eichscheins über die Wasserverdrängung für gegebene Eintauchungen oder über die größte Tragfähigkeit nicht mehr zutreffen. Bestehen Zweifel an der Richtigkeit der vorstehenden Angaben, sind diese von Amts wegen nach § 9 Absatz 2 zu überprüfen.
 
 (5) Ungültig gewordene Eichscheine werden eingezogen.
+
+(6) Die Zentralstelle hat von jedem Eichschein, jeder vorläufigen Eichbescheinigung und jeder Eichbescheinigung für Sportboote, die sie erteilt hat, die Urschrift oder eine Kopie aufzubewahren. In diese sind alle Berichtigungen und Änderungen sowie Ungültigkeitserklärungen und Neuerteilungen einzutragen. Sie aktualisiert das Eichverzeichnis der Eichscheine und Eichbescheinigungen entsprechend.
 
 # § 9 – Verlängerung des Eichscheins
 
@@ -386,7 +386,7 @@ Ausstattung im Einzelnen hervorgeht.
 
 (4) Abweichend von § 31 Absatz 1 wird die Ebene der größten Eintauchung bei einem Sportboot, das für den Betrieb mit einem Außenbordmotor gebaut ist, ohne das Gewicht des Motors, der Tanks und der Startbatterie festgelegt.
 
-(5) Die Zentralstelle trägt jede Baumuster-Eichung unter fortlaufender Nummer in ein Eichverzeichnis ein.
+(5) Die Zentralstelle trägt jede Baumuster-Eichung unter fortlaufender Nummer in ein Eichverzeichnis nach Anlage 7 ein.
 
 # § 34 – Überprüfung von Nachbauten
 
@@ -404,7 +404,7 @@ Bei einem Sportboot, dessen Baumuster geeicht ist, genügt anstelle der Eichung 
 
 Eine ungültig gewordene Eichbescheinigung kann nach Änderung wieder in Kraft gesetzt werden.
 
-(3) Die Zentralstelle trägt jede Eichbescheinigung unter fortlaufender Nummer in ein Eichverzeichnis ein.
+(3) Die Zentralstelle trägt jede Eichbescheinigung unter fortlaufender Nummer in ein Eichverzeichnis nach Anlage 7 ein.
 
 (4) Die Eichbescheinigung für das Baumuster eines Sportboots erhält den Zusatz „Baumuster“. Sie ist nicht Urkunde nach § 13 Absatz 1 der Schiffsregisterordnung; der entsprechende Hinweis wird gestrichen.
 
@@ -454,14 +454,15 @@ Ergibt die Prüfung nach § 4 Absatz 2 Nummer 4, dass eine Angabe im Eichschein
 
 # Anlagen – zur Verordnung über die Eichung von Binnenschiffen (BinSchEO)
 
-|           |                                                                 |
+|           |                                                                       |
 |:----------|:------------------------------------------------------------|
-| Anlage 1: | Muster des Eichscheins für Binnenschiffe (Güterbeförderer)      |
-| Anlage 2: | Muster des Eichscheins für Binnenschiffe (Nichtgüterbeförderer) |
-| Anlage 3: | Muster der Vorläufigen Eichbescheinigung (Güterbeförderer)      |
-| Anlage 4: | Muster der Vorläufigen Eichbescheinigung (Nichtgüterbeförderer) |
-| Anlage 5: | Muster der Eichbescheinigung für Sportboote                     |
-| Anlage 6: | Muster der Eichplakette für Sportboote                          |
+| Anlage 1: | Muster des Eichscheins für Binnenschiffe (Güterbeförderer)            |
+| Anlage 2: | Muster des Eichscheins für Binnenschiffe (Nichtgüterbeförderer)       |
+| Anlage 3: | Muster der Vorläufigen Eichbescheinigung (Güterbeförderer)            |
+| Anlage 4: | Muster der Vorläufigen Eichbescheinigung (Nichtgüterbeförderer)       |
+| Anlage 5: | Muster der Eichbescheinigung für Sportboote                           |
+| Anlage 6: | Muster der Eichplakette für Sportboote                                |
+| Anlage 7: | Muster des Eichverzeichnisses für Eichscheine und Eichbescheinigungen |
 
 # Anlage 1 – Muster des Eichscheins für Binnenschiffe (Güterbeförderer)
 
@@ -540,3 +541,219 @@ Ergibt die Prüfung nach § 4 Absatz 2 Nummer 4, dass eine Angabe im Eichschein
 (Fundstelle: BGBl. I 2022, 256)
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j0220-1_0270.jpg)
+
+# Anlage 7 – Muster des Eichverzeichnisses für Eichscheine und Eichbescheinigungen
+
+(Fundstelle: BGBl. 2025 I Nr. 242, S. 53 – 54)
+
+Verzeichnis der Eichscheine für Binnenschiffe:
+
+Linke Seite
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 25%" />
+</colgroup>
+<thead data-valign="bottom">
+<tr class="header" data-valign="middle">
+<th colspan="3" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Eichschein<br />
+für Binnenschiffe</th>
+<th colspan="5" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Art des Eichvorgangs</th>
+<th rowspan="2" style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Schiffseigner<br />
+Name<br />
+Adresse</th>
+</tr>
+<tr class="odd">
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Eich-<br />
+zeichen</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">vom</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Gültig<br />
+bis</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Neu-<br />
+eichung<br />
+<br />
+<br />
+am</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Verlän-<br />
+gerung<br />
+<br />
+<br />
+am</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Nach-<br />
+eichung<br />
+<br />
+<br />
+am</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Änderung<br />
+Name/<br />
+Devise<br />
+<br />
+am</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Berich-<br />
+tigung<br />
+<br />
+<br />
+am</th>
+</tr>
+</thead>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>
+
+Rechte Seite
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 38%" />
+</colgroup>
+<thead data-valign="bottom">
+<tr class="header" data-valign="middle">
+<th colspan="4" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Fahrzeug</th>
+<th rowspan="2" style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Eintragungen über Einziehung<br />
+von Eichscheinen<br />
+und sonstige Bemerkungen<br />
+</th>
+</tr>
+<tr class="odd">
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Name</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Art</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Trag-<br />
+fähigkeit<br />
+<br />
+(t)</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Wasser-<br />
+verdrängung<br />
+<br />
+(m³)</th>
+</tr>
+</thead>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>
+
+Verzeichnis der Eichbescheinigungen für Sportboote:
+
+Linke Seite
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<thead data-valign="bottom">
+<tr class="header" data-valign="middle">
+<th colspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Eichbescheinigung<br />
+für Sportboote</th>
+<th colspan="4" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Art des Eichvorgangs</th>
+<th rowspan="3" style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Schiffseigner<br />
+Name<br />
+Adresse<br />
+</th>
+</tr>
+<tr class="odd">
+<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Eich-<br />
+zeichen</th>
+<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">vom<br />
+</th>
+<th colspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Berechnung der<br />
+Wasserverdrängung nach</th>
+<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Baumuster-<br />
+Eichung<br />
+<br />
+<br />
+am</th>
+<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Über-<br />
+prüfung von<br />
+Nachbauten<br />
+<br />
+am</th>
+</tr>
+<tr class="header">
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Simpsonregel<br />
+<br />
+am</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Formel<br />
+<br />
+am</th>
+</tr>
+</thead>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>
+
+Rechte Seite
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 44%" />
+</colgroup>
+<thead data-valign="bottom">
+<tr class="header" data-valign="middle">
+<th colspan="3" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Sportboot</th>
+<th rowspan="2" style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Sonstige Bemerkungen</th>
+</tr>
+<tr class="odd">
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Name</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Art</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Wasser-<br />
+verdrängung<br />
+<br />
+(m³)</th>
+</tr>
+</thead>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>

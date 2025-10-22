@@ -5,67 +5,65 @@
 
 # Muster 1 – Muster des Antrags auf Untersuchung
 
-(Fundstelle: BGBl. I 2018, 1476 -1477)
+(Fundstelle: BGBl. 2025 I Nr. 242, S. 21 – 22)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0620.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster zum Antrag auf Untersuchung. Abgebildet ist die Seite 1.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0190.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0630.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster zum Antrag auf Untersuchung. Abgebildet ist die Seite 2.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0200.jpg)
 
 # Muster 2 – Muster der Bescheinigung über die Besatzung für Binnenschiffe
 
-(Fundstelle: BGBl. I 2018, 1478 - 1479)
+(Fundstelle: BGBl. 2025 I Nr. 242, S. 23 – 24)
 
-<a href="../normengrafiken/bgbl1_2021/j4982_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster zur Bescheinigung über die Besatzung von Binnenschiffen. Abgebildet ist die Seite 1.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0210.jpg)
+
+![Die Abbildung zeigt das Muster zur Bescheinigung über die Besatzung von Binnenschiffen. Abgebildet ist die Seite 2.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0220.jpg)
 
 # Muster 3 – Muster des Fährzeugnisses
 
-(Fundstelle: BGBl. I 2018, 1480 - 1491)
+(Fundstelle: BGBl. 2025 I Nr. 242, S. 25 – 34)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0660.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster eines Fährzeugnisses. Abgebildet ist die Seite 1.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0230.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0670.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster eines Fährzeugnisses. Abgebildet ist die Seite 2.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0240.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0680.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster eines Fährzeugnisses. Abgebildet ist die Seite 3.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0250.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0690.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster eines Fährzeugnisses. Abgebildet ist die Seite 4.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0260.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0700.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster eines Fährzeugnisses. Abgebildet ist die Seite 5.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0270.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0710.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster eines Fährzeugnisses. Abgebildet ist die Seite 6.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0280.jpg)
 
-<a href="../normengrafiken/bgbl1_2021/j4982_0020.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster eines Fährzeugnisses. Abgebildet ist die Seite 7.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0290.jpg)
 
-<a href="../normengrafiken/bgbl1_2021/j4982_0030.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster eines Fährzeugnisses. Abgebildet ist die Seite 8.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0300.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0740.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster eines Fährzeugnisses. Abgebildet ist die Seite 9.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0310.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0750.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0760.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0770.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster eines Fährzeugnisses. Abgebildet ist die Seite 10.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0320.jpg)
 
 # Muster 4 – Muster des vorläufigen Fährzeugnisses
 
-(Fundstelle: BGBl. I 2018, 1492 - 1493)
+(Fundstelle: BGBl. 2025 I Nr. 242, S. 35 – 36)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0780.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster für ein vorläufiges Fährzeugnis. Abgebildet ist Seite 1.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0330.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0790.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster für ein vorläufiges Fährzeugnis. Abgebildet ist Seite 2.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0340.jpg)
 
 # Muster 5 – Muster des Abnahmeprotokolls für die Prüfung der Seil- und Kettenanlagen von seil- und kettengebundenen Fähren
 
-(Fundstelle: BGBl. I 2018, 1494 - 1498)
+(Fundstelle: BGBl. 2025 I Nr. 242, S. 37 – 41)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0800.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster für ein Abnahmeprotokoll zur Prüfung von seil- und kettengebundenen Fähren. Abgebildet ist Seite 1.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0350.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0810.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster für ein Abnahmeprotokoll zur Prüfung von seil- und kettengebundenen Fähren. Abgebildet ist Seite 2.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0360.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0820.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster für ein Abnahmeprotokoll zur Prüfung von seil- und kettengebundenen Fähren. Abgebildet ist Seite 3.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0370.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0830.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster für ein Abnahmeprotokoll zur Prüfung von seil- und kettengebundenen Fähren. Abgebildet ist Seite 4.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0380.jpg)
 
-<a href="../normengrafiken/bgbl1_2018/j1398-1_0840.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+![Die Abbildung zeigt das Muster für ein Abnahmeprotokoll zur Prüfung von seil- und kettengebundenen Fähren. Abgebildet ist Seite 5. Abgebildet ist ein Auszug aus Anhang II der Binnenschiffsuntersuchungsordnung. Abgebildet sind § 3.01 Nr. 7 sowie die §§ 3.04 bis 3.07.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02420_0390.jpg)
 
 # Muster 6 – Muster des Abnahmeprotokolls für Fahrgastboote
 

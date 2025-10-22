@@ -829,7 +829,6 @@
 - [BImSchG](laws/BImSchG.md) Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge
 - [BinSch-SportbootVermV](laws/BinSch-SportbootVermV.md) Verordnung über die gewerbsmäßige Vermietung von Sportbooten sowie deren Benutzung auf den Binnenschifffahrtsstraßen
 - [BinSchAbfÜbkAG](laws/BinSchAbfÜbkAG.md) Ausführungsgesetz zum Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt
-- [BinSchAbgasV](laws/BinSchAbgasV.md) Verordnung über die Begrenzung von Abgasemissionen aus Dieselmotoren in der Binnenschifffahrt *)
 - [BinSchAbk CSK](laws/BinSchAbk_CSK.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Tschechoslowakischen Sozialistischen Republik über den Binnenschiffsverkehr
 - [BinSchAbk GEOR](laws/BinSchAbk_GEOR.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Georgien über die Binnenschiffahrt
 - [BinSchAbk HUN](laws/BinSchAbk_HUN.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Ungarischen Volksrepublik über die Binnenschiffahrt
@@ -851,7 +850,6 @@
 - [BinSchLotsVergV 2012](laws/BinSchLotsVergV_2012.md) Verordnung über die Entgelte für die Leistungen der Binnenlotsen auf der Bundeswasserstraße Rhein zwischen den Schleusen Iffezheim und Mannheim/Ludwigshafen
 - [BinSchLV](laws/BinSchLV.md) Verordnung über die Lade- und Löschzeiten sowie das Liegegeld in der Binnenschifffahrt
 - [BinSchOWiZustV 1974](laws/BinSchOWiZustV_1974.md) Verordnung über die Zuständigkeit der Generaldirektion Wasserstraßen und Schifffahrt für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten
-- [BinSchPersBetrEBefähPrV](laws/BinSchPersBetrEBefähPrV.md) Verordnung über die Durchführung von behördlichen Befähigungsprüfungen auf Betriebsebene nach der Binnenschiffspersonalverordnung
 - [BinSchPersFührEBefähPrV](laws/BinSchPersFührEBefähPrV.md) Verordnung über die Durchführung von Befähigungsprüfungen auf Führungsebene nach der Binnenschiffspersonalverordnung
 - [BinSchPersV](laws/BinSchPersV.md) Verordnung über die Besatzung und über die Befähigungen der Besatzung von Fahrzeugen in der Binnenschifffahrt
 - [BinSchSiV](laws/BinSchSiV.md) Verordnung zur Sicherstellung des Binnenschiffsverkehrs
@@ -6750,7 +6748,6 @@
 - [2. AgrarErzAnpBeihV](laws/2._AgrarErzAnpBeihV.md) Zweite Verordnung zur Gewährung einer außergewöhnlichen Anpassungsbeihilfe für Erzeuger in bestimmten Agrarsektoren
 - [2. BesVNG](laws/2._BesVNG.md) Zweites Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern
 - [2. BImSchV](laws/2._BImSchV.md) Zweite Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
-- [2. BinSch-SportbootVermVAbweichV](laws/2._BinSch-SportbootVermVAbweichV.md) Zweite Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrt-Sportbootvermietungsverordnung
 - [2. BMeldDÜV](laws/2._BMeldDÜV.md) Verordnung zur Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden an Behörden oder sonstige öffentliche Stellen des Bundes
 - [2. DV LuftBO](laws/2._DV_LuftBO.md) Zweite Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Dienst-, Flugdienst-, Block- und Ruhezeiten von Besatzungsmitgliedern in Luftfahrtunternehmen und außerhalb von Luftfahrtunternehmen bei berufsmäßiger Betätigung)
 - [2. DV LuftGerPV](laws/2._DV_LuftGerPV.md) Zweite Durchführungsverordnung zur Verordnung zur Prüfung von Luftfahrtgerät (Lufttüchtigkeitsforderungen für Luftfahrtgerät)

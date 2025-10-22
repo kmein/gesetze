@@ -143,8 +143,8 @@ Zone 2-See
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Vom Unterwasser der Schleuse Buxtehude (km 0,25) bis zur Mündung in die Elbe</td>
 </tr>
 <tr class="odd">
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Lühe</td>
-<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Vom Unterwasser der Au-Mühle in Horneburg (km 0,00) bis zur Mündung in die Elbe</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Lühe</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Von der Nordkante der Marschdammbrücke in Horneburg (km 0,26) bis zur Mündung in die Elbe</td>
 </tr>
 <tr class="even">
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Schwinge</td>
@@ -163,8 +163,8 @@ Zone 2-See
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Ab 210 m oberhalb der Achse der Straßenbrücke über das Ostesperrwerk (km 69,360) bis zur Mündung in die Elbe</td>
 </tr>
 <tr class="even">
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Pinnau</td>
-<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Von der Südwestkante der Eisenbahnbrücke in Pinneberg bis zur Mündung in die Elbe</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Pinnau</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Von der Westkante der im Verlauf der Elmshorner Straße liegenden Straßenbrücke in Pinneberg (km 0,36) bis zur Mündung in die Elbe</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Krückau</td>
@@ -257,14 +257,18 @@ einschließlich Audorfer See und Schirnauer See</td>
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Begrenzt durch die Verbindungslinie von der Ostspitze der Nordmole über die Mittelmole zur Westspitze der Ostmole sowie durch die südliche Hafengrenze und den Meridian 13° 7' 42" O</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Selliner See</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Selliner See und Baaber Bek bis zur Mündung in die Having</td>
+</tr>
+<tr class="even">
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Greifswalder Hafengebiet mit Ryck</td>
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Von der Ostkante der Steinbecker Brücke in Greifswald bis zur Verbindungslinie der Seekanten der Molenköpfe</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Wolgaster Hafengebiet</td>
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Uecker</td>
 <td data-valign="top" data-charoff="50">Von der Südwestkante der Straßenbrücke in Ueckermünde bis zur Verbindungslinie der Seekanten der Molenköpfe</td>
 </tr>

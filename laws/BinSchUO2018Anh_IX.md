@@ -100,6 +100,10 @@ Werbelliner Gewässer
 </dl></td>
 </tr>
 <tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Mosel</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Von der deutsch-französischen Grenze bei Apach bis zum Rhein</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Müritz-Elde-Wasserstraße</td>
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50"><dl>
 <dt>–</dt>
@@ -112,7 +116,7 @@ Stör-Wasserstraße (Störkanal, Stör, Schweriner See nebst Ziegelsee)
 </dd>
 </dl></td>
 </tr>
-<tr class="odd" style="border-bottom: 0.5pt solid ; ">
+<tr class="even" style="border-bottom: 0.5pt solid ; ">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Müritz-Havel-Wasserstraße</td>
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50"><dl>
 <dt>–</dt>
@@ -153,7 +157,7 @@ Großer Pälitzsee Südwestteil
 </dd>
 </dl></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Obere Havel-Wasserstraße</td>
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50"><dl>
 <dt>–</dt>
@@ -178,19 +182,19 @@ Lychener Gewässer
 </dd>
 </dl></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Pareyer Verbindungskanal</td>
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Von der Abzweigung aus der Elbe (km 0,01) bis zur Einmündung in den Elbe-Havel-Kanal (km 3,34)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Rüdersdorfer Gewässer</td>
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Vom Südende Dämeritzsee (km –0,50) bis Tasdorf (km 10,48)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Saale</td>
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Von Bad Dürrenberg (km 124,16) bis zur Einmündung in die Elbe (km 0,00)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Spree-Oder-Wasserstraße</td>
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50"><dl>
 <dt>–</dt>
@@ -215,7 +219,7 @@ Wasserstraße Seddinsee und Gosener Kanal
 </dd>
 </dl></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Teltowkanal</td>
 <td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50"><dl>
 <dt>–</dt>
@@ -228,7 +232,7 @@ Griebnitzkanal [Stölpchensee, Pohlsee, Kleiner Wannsee]
 </dd>
 </dl></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Untere Havel-Wasserstraße</td>
 <td data-valign="top" data-charoff="50"><dl>
 <dt>–</dt>
