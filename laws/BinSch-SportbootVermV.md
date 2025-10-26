@@ -83,6 +83,8 @@ Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis nach § 3 
 
 (5) Das Bundesministerium für Verkehr kann Bootszeugnisse oder andere Zulassungsurkunden anerkennen, die nach landesrechtlichen Vorschriften erteilt werden. Die Muster dieser Urkunden werden im Verkehrsblatt bekannt gemacht.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2025 I Nr. 242 +++)
+
 # § 5 – Nachweis über die Fahrtauglichkeit
 
 (1) Nachweise über die Fahrtauglichkeit der Sportboote sind:
@@ -100,6 +102,8 @@ Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis nach § 3 
 (4) Abnahmeprotokolle nach Absatz 1 Nummer 2 für neue Sportboote gelten zehn Jahre. Die Gültigkeitsdauer der Abnahmeprotokolle für die übrigen Sportboote nach Absatz 1 Nummer 2 wird vom Sachverständigen festgelegt, längstens jedoch für zehn Jahre. Sportboote nach Absatz 1 Nummer 3 müssen nach zehn Jahren ein Abnahmeprotokoll nach Absatz 1 Nummer 2 beim zuständigen Wasserstraßen- und Schifffahrtsamt vorlegen; hinsichtlich der Gültigkeit ist Satz 2 anzuwenden. Abnahmeprotokolle nach Absatz 2 für neue Sportbote gelten sechs Jahre. Die Gültigkeitsdauer der Abnahmeprotokolle für die übrigen Sportboote nach Absatz 2 wird vom zuständigen Wasserstraßen- und Schifffahrtsamt festgelegt, längstens jedoch für sechs Jahre.
 
 (5) Abnahmeprotokolle aus anderen Mitgliedstaaten der Europäischen Gemeinschaft oder aus den Mitgliedstaaten des Europäischen Wirtschaftsraumes sind einschließlich der durchgeführten Prüfungen und Überwachungen von dem Wasserstraßen- und Schifffahrtsamt als gleichwertig anzuerkennen, wenn in ihnen das Schutzniveau der Nachweise nach den Absätzen 1 bis 4 bescheinigt ist.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2025 I Nr. 242 +++)
 
 # § 6 – Verfahren
 
@@ -394,8 +398,8 @@ Nach der Sportbootvermietungsverordnung-Binnen vom 11. Oktober 1996 (BGBl. I S. 
 
 # Anlage 2 – (zu § 5 Abs. 1 Nr. 2)
 
-Fundstelle des Originaltextes: BGBl. I 2002, 4583 - 4587:  
-bzgl. der einzelnen Änderungen vgl Fußnote
+(Fundstelle des Originaltextes: BGBl. I 2002, 4583 - 4587;  
+bzgl. der einzelnen Änderungen vgl Fußnote)
 
   
 
@@ -837,8 +841,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 6 – (zu § 9 Abs. 2 Nr. 2)Anforderungen an Fahrzeuge, die mit Charterbescheinigung geführt werden dürfen
 
-Fundstelle des Originaltextes: BGBl. I 2003, 2533;  
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle des Originaltextes: BGBl. I 2003, 2533;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Bestehen einer Haftpflichtversicherung
 

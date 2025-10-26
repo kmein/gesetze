@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informations/dienste
+% Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informationsdienste*)
 % Ausfertigungsdatum: 03.06.1998
  
 # Eingangsformel

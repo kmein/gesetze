@@ -902,6 +902,8 @@ a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb, 
 
 b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe cc, Buchstabe b Doppelbuchstabe aa, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe bb, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Buchstabe e Doppelbuchstabe cc bis ee, ii und kk und Buchstabe f Doppelbuchstabe aa, dd und ee.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2025 I Nr. 242 +++)
+
 # § 1.11 – Mitführen der Binnenschifffahrtsstraßen-Ordnung
 
 Der Schiffsführer hat dafür zu sorgen, dass sich an Bord jedes Fahrzeugs ein Abdruck dieser Verordnung in ihrer jeweils geltenden Fassung einschließlich der sonstigen im Rahmen des § 1.22 Nummer 3 für die befahrene Strecke erlassenen Rechtsverordnungen befinden. Als Abdruck gilt auch eine elektronische Textfassung, wenn sie jederzeit lesbar gemacht werden kann. Die Sätze 1 und 2 gelten nicht für
@@ -6479,6 +6481,8 @@ Auf besondere Anforderung der Funkstelle „Oberwesel Revierzentrale“ hat der 
 
 5. Ein Fahrzeug, ein Verband oder ein Sondertransport nach § 1.21, das oder der auf dem Rhein bereits eine Meldung nach § 12.01 Nummer 1 Rheinschifffahrtspolizeiverordnung abgegeben hat und in die Mainstrecke bei km 0,00 einfährt, muss der Funkstelle „Oberwesel Revierzentrale“ beim Vorbeifahren an den mit den Tafelzeichen B.11 (Anlage 7) gekennzeichneten Meldepunkten nur noch die unter Nummer 1 Satz 1 Buchstabe a bis d genannten Angaben mitteilen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2025 I Nr. 242 +++)
+
 # § 11.16 – Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
@@ -7422,6 +7426,8 @@ Auf besondere Anforderung der Funkstelle „Duisburg Revierzentrale“ hat der S
 4. Ändern sich die Angaben nach Nummer 1 während der Fahrt in der meldepflichtigen Strecke, muss der Schiffsführer dies der Funkstelle „Duisburg Revierzentrale“ unverzüglich mitteilen.
 
 5. Ein Fahrzeug, ein Verband oder ein Sondertransport nach § 1.21, das oder der auf dem Rhein bereits eine Meldung nach § 12.01 Nummer 1 Rheinschifffahrtspolizeiverordnung abgegeben hat und in die meldepflichtige Strecke einfährt, muss der Funkstelle „Duisburg Revierzentrale“ beim Vorbeifahren an den mit den Tafelzeichen B.11 (Anlage 7) gekennzeichneten Meldepunkten nur noch die unter Nummer 1 Satz 1 Buchstabe a bis d genannten Angaben mitteilen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2025 I Nr. 242 +++)
 
 # § 14.16 – Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
@@ -10425,6 +10431,8 @@ Küstenkanal in der Bergfahrt beim Verlassen der Schleuse Oldenburg erfolgen. Au
 
 5. Ein Fahrzeug, ein Verband oder ein Sondertransport nach § 1.21, das oder der auf dem Rhein bereits eine Meldung nach § 12.01 Nummer 1 Rheinschifffahrtspolizeiverordnung abgegeben hat und in die meldepflichtige Strecke einfährt, muss der Funkstelle „Duisburg Revierzentrale“ beim Vorbeifahren an den mit den Tafelzeichen B.11 (Anlage 7) gekennzeichneten Meldepunkten nur noch die unter Nummer 1 Satz 1 Buchstabe a bis d genannten Angaben mitteilen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2025 I Nr. 242 +++)
+
 # § 15.16 – Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 <table width="100%" style="border: none;">
@@ -11484,6 +11492,8 @@ Die Begrenzung der meldepflichtigen Strecke wird durch die Tafelzeichen B.11 (An
 3. Unterbricht ein Fahrzeug, Verband oder Sondertransport nach § 1.21 die Fahrt innerhalb der meldepflichtigen Strecke für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung der Funkstelle „Bremen Verkehrszentrale“ melden.
 
 4. Ändern sich die Angaben nach Nummer 1 während der Fahrt in der meldepflichtigen Strecke, muss der Schiffsführer dies der Funkstelle „Bremen Verkehrszentrale“ unverzüglich mitteilen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2025 I Nr. 242 +++)
 
 # § 16.16 – Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
@@ -17311,6 +17321,8 @@ Untere Havel km 145,80 bis km 156,75 auf dem im Handbuch Binnenschifffahrtsfunk 
 4. Unterbricht ein Fahrzeug oder Verband die Fahrt innerhalb der meldepflichtigen Strecke nach Nummer 3 für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung der Funkstelle „Fernbedienzentrale Rathenow“ melden.
 
 5. Sofern sich der Schiffsführer auf elektronischem Wege meldet, muss die Meldung gemäß den Bestimmungen der Durchführungsverordnung (EU) 2019/1744 erfolgen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2025 I Nr. 242 +++)
 
 # § 22.16 – Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 

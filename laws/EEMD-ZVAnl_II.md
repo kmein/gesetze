@@ -1733,11 +1733,31 @@ Vorgaben zu Qualitätsanforderungen
 
 # Anlage 9 – zum EETS-Zulassungsvertrag
 
-(Fundstelle: BGBl. 2023 I, Nr. 32, 1 – 8)
+(Fundstelle: BGBl. 2025 I Nr. 244, S. 5 – 12)
 
 Die in dieser Anlage enthaltenen Regelungen dienen als Grundlage zur Berechnung der Vergütung des EETS-Anbieters („EETS-Vergütung“) und sind in Zusammenhang mit § 20 des EETS-Zulassungsvertrags zu verstehen.
 
- 
+Die Anlage regelt grundsätzlich die Vergütung in der Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027). Sie enthält zusätzlich Regelungen für die Anpassung der Vergütung für den Zeitraum 1. September 2024 bis 31. Dezember 2025.
+
+Inhalt
+
+|       |                                                                                                    |
+|:-----|:-----------------------------------------------------------------|
+| 1\.   | Bestandteile der EETS-Vergütung                                                                    |
+| 1.1   | Betriebsentgelt                                                                                    |
+| 1.2   | Entgelt Automatisches Verfahren (AV-Entgelt)                                                       |
+| 1.3   | Nutzungs- und Zahlungsprovisionsentgelt                                                            |
+| 1.4   | Bonus (EQ-Bonus)                                                                                   |
+| 1.5   | Anpassung des Vergütungsmodells für den Vergütungszeitraum 1. September 2024 bis 31. Dezember 2025 |
+| 2\.   | Überprüfung des EETS-Vergütungsmodells                                                             |
+| 2.1   | Indexierung des AV-Tarifs                                                                          |
+| 2.2   | Prüfung und Bewertung der Entwicklung des EETS in Europa                                           |
+| 2.3   | Betriebsentgelt und Ermittlung der Änderungspauschale                                              |
+| 2.3.1 | Überprüfung und Festlegung der Änderungspauschale                                                  |
+| 2.3.2 | Änderungspauschale bei zusätzlichen Änderungsvorhaben                                              |
+| 2.3.3 | Endabrechnung der Änderungspauschale bei Vertragsbeginn während einer Vergütungsperiode            |
+| 2.3.4 | Endabrechnung der Änderungspauschale bei nicht freigegebenen Änderungsvorhaben                     |
+| 2.4   | Nutzungs- und Zahlungsprovisionsentgelt                                                            |
 
 1. Bestandteile der EETS-Vergütung
 
@@ -1746,455 +1766,383 @@ Betriebsentgelt
 
 Das Betriebsentgelt wird für die
 
-Vergütungsperiode 2023 bis 2025 (01.03.2023 bis 31.12.2025) wie folgt festgelegt.
+Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027) wie folgt festgelegt.
 
-Das jährliche Betriebsentgelt für EETS-Anbieter, die den Mauterhebungsdienst (MED) des Mauterhebers nicht nutzen und eine eigene Erkennung und Tarifierung (EET) betreiben, (![〖BetrE〗^EET\_2023bis2025](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_01.jpg) ) beträgt:
+Das jährliche Betriebsentgelt für EETS-Anbieter (
 
-|                 |
-|:---------------:|
-| \[482 926\] EUR |
+BetrE<sub>2026–2027</sub>) beträgt  
+171 564 EUR
 
-Darin ist eine Änderungspauschale gemäß Nummer 2.3 in Höhe von \[417 199\] EUR enthalten.
-
-Das jährliche Betriebsentgelt für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nutzen, (![〖BetrE〗^MED\_2023bis2025](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_02.jpg) ) beträgt:
-
-|                 |
-|:---------------:|
-| \[562 338\] EUR |
-
-Darin ist eine Änderungspauschale gemäß Nummer 2.3 in Höhe von \[496 610\] EUR enthalten.
+Darin ist eine Änderungspauschale gemäß Ziffer 2.3 in Höhe von 105 835 EUR enthalten.
 
 Jeweils 1/12 (ein Zwölftel) des jährlichen Betriebsentgelts wird dem EETS-Anbieter kalendermonatlich zusammen mit dem AV-Entgelt und dem Nutzungs- und Zahlungsprovisionsentgelt gezahlt. Für unvollständige Kalendermonate wird das zu vergütende Betriebsentgelt pro rata temporis berechnet.
 
-Im Falle der Migration eines EETS-Anbieters auf den Mauterhebungsdienst wird ab dem nächsten vollen Kalendermonat, der auf den vom Mauterheber festgelegten Zeitpunkt des Abschlusses der Migration der Fahrzeuggeräteflotte auf den MED folgt, die Vergütung gemäß BetrEMED</sup> gezahlt.
-
-Die Höhe des jährlichen Betriebsentgelts wird für die nachfolgende Vergütungsperiode gemäß den Vorgaben in Nummer 2 angepasst.
+Die Höhe des jährlichen Betriebsentgelts wird für die nachfolgende Vergütungsperiode gemäß den Vorgaben in Ziffer 2.3 angepasst.
 
 1.2  
 Entgelt Automatisches Verfahren (AV-Entgelt)
 
-Jeder EETS-Anbieter erhält vom Mauterheber in Abhängigkeit von der Anzahl der gezählten aktiven Fahrzeuggeräte im Mautsystem ein kalendermonatliches AV-Entgelt (AVE). Das AV-Entgelt im jeweiligen Kalendermonat
+Jeder EETS-Anbieter erhält vom Mauterheber in Abhängigkeit von der Anzahl der gezählten aktiven Fahrzeuggeräte im Mautsystem ein kalendermonatliches AV-Entgelt (AVE). Das AV-Entgelt im jeweiligen Kalendermonat m des jeweiligen Kalenderjahres KJ wird wie folgt ermittelt:
 
-m des jeweiligen Kalenderjahres
+AVE
 
-KJ ermittelt sich wie folgt:
+KJ,m =
 
-|                                                                                                   |
-|:-------------------------------------------------------------------------------------------------:|
-| ![〖AVE〗\_KJ,m=〖AVT〗^EET\|MED\_VP×〖AFzG〗\_KJ,m](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_03.jpg) |
+AVT
 
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 23%" />
-<col style="width: 2%" />
-<col style="width: 75%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">AVE
-KJ, m</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">AV-Entgelt im jeweiligen Kalendermonat
-m des Kalenderjahres
-KJ</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2023/825202_04.jpg" alt="〖AVT〗^EET|MED_VP" /></td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">AV-Tarif für EETS-Anbieter, die den MED (
-MED) nutzen bzw. nicht nutzen (
-EET) in der jeweiligen Vergütungsperiode
-VP</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">AFzG
-KJ, m</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Anzahl der nachgewiesenen aktiven Fahrzeuggeräte im jeweiligen Kalendermonat
-m des Kalenderjahres
-KJ</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">KJ</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Platzhalter für das jeweilige Kalenderjahr</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">m</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Laufende Nummer des Kalendermonats (1 bis 12) des jeweiligen Kalenderjahres
-KJ</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">VP</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Vergütungsperiode, für die der AV-Tarif angewendet wird</td>
-</tr>
-</tbody>
-</table>
+VP \*
 
-Ein aktives Fahrzeuggerät ist ein Bordgerät, das vom EETS-Anbieter bereitgestellt und in ein beim EETS-Anbieter registriertes Fahrzeug eingebaut wurde und für das für den jeweiligen Kalendermonat
+AFzG
+
+KJ,m
+
+AVE
+
+KJ,m – AV-Entgelt im jeweiligen Kalendermonat
 
 m des Kalenderjahres
 
-KJ mindestens einmal eine Befahrung des mautpflichtigen Streckennetzes festgestellt wurde. Es muss ein Vertrag zwischen dem EETS-Anbieter und seinem Nutzer über die Mauterhebung im EETS-Gebiet des Bundesfernstraßenmautgesetzes (EETS-Gebiet BFStrMG) bestehen. Die Informationen zum Bordgerät müssen in der Nutzerliste zusammen mit der eindeutig dem Bordgerät zugeordneten Identifikationsnummer des Bordgeräts, dem Kennzeichen des Fahrzeugs oder der Fahrzeugkombination und der Vertragsnummer des Nutzers über die Schnittstelle 002a übermittelt worden sein. Eine Befahrung gilt als festgestellt, wenn für die Identifikationsnummer des Bordgeräts und für den jeweiligen Kalendermonat mindestens einmal die Befahrung eines mautpflichtigen Abschnitts in den abschnittsbezogenen Erhebungsdaten über die Schnittstelle SST 006 vom EETS-Anbieter (sofern dieser den MED nicht nutzt) oder vom nationalen Mautbetreiber (sofern der EETS-Anbieter den MED nutzt) an den Mauterheber gemeldet wurde. Für den Zeitpunkt der Befahrung gilt der Zeitstempel mit dem Attribut „timeWhenUsed“ in der Sequenz von „DetectedChargeObject“ in den abschnittsbezogenen Erhebungsdaten. Der Betrachtungszeitraum für das AV-Entgelt ist ein Kalendermonat. Das Risiko, dass sich die Anzahl der aktiven Fahrzeuggeräte und damit das AV-Entgelt anders entwickelt als bei Vertragsabschluss angenommen, trägt, unabhängig von den Ursachen, ausschließlich der EETS-Anbieter.
+KJ
+
+AVT
+
+VP – AV-Tarif in der jeweiligen Vergütungsperiode
+
+VP
+
+AFzG
+
+KJ,m – Anzahl der nachgewiesenen aktiven Fahrzeuggeräte im jeweiligen Kalendermonat
+
+m des Kalenderjahres
+
+KJ
+
+KJ – Platzhalter für das jeweilige Kalenderjahr
+
+m – Laufende Nummer des Kalendermonats (1 bis 12) des jeweiligen Kalenderjahres
+
+KJ
+
+VP – Vergütungsperiode, für die der AV-Tarif angewendet wird
+
+Ein aktives Fahrzeuggerät ist ein Bordgerät, das vom EETS-Anbieter bereitgestellt und in ein beim EETS-Anbieter registriertes Fahrzeug eingebaut wurde und für das für den jeweiligen Kalendermonat m des Kalenderjahres KJ mindestens einmal eine Befahrung des mautpflichtigen Streckennetzes festgestellt wurde. Es muss ein Vertrag zwischen dem EETS-Anbieter und seinem Nutzer über die Mauterhebung im EETS-Gebiet des Bundesfernstraßenmautgesetzes (EETS-Gebiet BFStrMG) bestehen. Die Informationen zum Bordgerät müssen in der Nutzerliste zusammen mit der eindeutig dem Bordgerät zugeordneten Identifikationsnummer des Bordgeräts, dem Kennzeichen des Fahrzeugs oder der Fahrzeugkombination und der Vertragsnummer des Nutzers über die Schnittstelle 002a übermittelt worden sein. Eine Befahrung gilt als festgestellt, wenn für die Identifikationsnummer des Bordgeräts und für den jeweiligen Kalendermonat mindestens einmal die Befahrung eines mautpflichtigen Abschnitts in den abschnittsbezogenen Erhebungsdaten an den Mauterheber gemeldet wurde. Für den Zeitpunkt der Befahrung gilt der Zeitstempel mit dem Attribut „timeWhenUsed“ in der Sequenz von „DetectedChargeObject“ in den abschnittsbezogenen Erhebungsdaten. Der Betrachtungszeitraum für das AV-Entgelt ist ein Kalendermonat. Das Risiko, dass sich die Anzahl der aktiven Fahrzeuggeräte und damit das AV-Entgelt anders entwickelt als bei Vertragsabschluss angenommen, trägt, unabhängig von den Ursachen, ausschließlich der EETS-Anbieter.
 
 Für die
 
-Vergütungsperiode 2023 bis 2025 (01.03.2023 bis 31.12.2025) gelten die folgenden AV-Tarife:
+Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027) gilt der folgende AV-Tarif:
 
-|                                                                              |     |                                                                                         |
-|:-------------------------------|:-------|--------------------------------:|
-| für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nicht nutzen |     | ![〖AVT〗^EET \_2023bis2025= \[3,63\] EUR](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_05.jpg) |
-| für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nutzen       |     | ![〖AVT〗^MED\_2023bis2025 = \[2,49\] EUR](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_06.jpg) |
+AVT
 
-Im Falle der Migration eines EETS-Anbieters auf den Mauterhebungsdienst wird ab dem nächsten vollen Kalendermonat, der auf den vom Mauterheber festgelegten Zeitpunkt des Abschlusses der Migration der Fahrzeuggeräteflotte auf den MED folgt, der für die jeweilige Vergütungsperiode gültige AV-Tarif ![〖AVT〗^MED\_VP](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_07.jpg) angewandt.
+VP = 2,97 EUR
 
-Die Höhe des AV-Tarifs wird für die nachfolgende Vergütungsperiode gemäß den Vorgaben in Nummer 2 angepasst.
+Die Höhe des AV-Tarifs wird gemäß den Vorgaben in Ziffer 2.1 angepasst.
 
 1.3  
 Nutzungs- und Zahlungsprovisionsentgelt
 
-Der EETS-Anbieter erhält vom Mauterheber ein kalendermonatliches Nutzungs- und Zahlungsprovisionsentgelt (NZlgE). Das Nutzungs- und Zahlungsprovisionsentgelt im jeweiligen Kalendermonat
+Der EETS-Anbieter erhält vom Mauterheber ein kalendermonatliches Nutzungs- und Zahlungsprovisionsentgelt (NZlgE). Das Nutzungs- und Zahlungsprovisionsentgelt im jeweiligen Kalendermonat m des jeweiligen Kalenderjahres KJ wird wie folgt ermittelt:
 
-m des jeweiligen Kalenderjahres
+NZlgE
 
-KJ ermittelt sich wie folgt:
+KJ,m =
 
-<table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: center;" data-valign="top" data-charoff="50">NZlgE
-KJ, m =
 NZlgP
-VP × (
+
+VP \* (
+
 WZ
-KJ, m –
+
+KJ,m –
+
 R
-KJ, m –
+
+KJ,m –
+
 Z
-KJ, m) +
+
+KJ,m) +
+
 NZlgK
-VP *
-km</td>
-</tr>
-</tbody>
-</table>
 
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 11%" />
-<col style="width: 3%" />
-<col style="width: 86%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">NZlgE
-KJ, m</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Nutzungs- und Zahlungsprovisionsentgelt im jeweiligen Kalendermonat
+VP \*
+
+km
+
+KJ,m
+
+NZlgE
+
+KJ,m – Nutzungs- und Zahlungsprovisionsentgelt im jeweiligen Kalendermonat
+
 m des Kalenderjahres
-KJ</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">NZlgP
-VP</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Nutzungs- und Zahlungsprovisionssatz in der Vergütungsperiode
-VP</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">WZ
-KJ, m</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Auf dem Konto des Mauterhebers in Summe wertgestellte Zahlungen in Euro im jeweiligen Kalendermonat
+
+KJ
+
+NZlgP
+
+VP – Nutzungs- und Zahlungsprovisionssatz in der Vergütungsperiode
+
+VP
+
+WZ
+
+KJ,m – auf dem Konto des Mauterhebers in Summe wertgestellte Zahlungen in Euro im jeweiligen Kalendermonat
+
 m des jeweiligen Kalenderjahres
-KJ</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">R
-KJ, m</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Betrag in Euro der im jeweiligen Kalendermonat
-m des jeweiligen Kalenderjahres
-KJ positiv beschiedenen Erstattungsverlangen</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Z
-KJ, m</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Betrag in Euro der im jeweiligen Kalendermonat
-m des jeweiligen Kalenderjahres
-KJ vom EETS-Anbieter ausgekehrten Verzugszinsen</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">KJ</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Platzhalter für das jeweilige Kalenderjahr</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">m</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Laufende Nummer des Kalendermonats (1 bis 12) des jeweiligen Kalenderjahres
-KJ</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">VP</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Vergütungsperiode, für die der Nutzungs- und Zahlungsprovisionssatz angewendet wird</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">km</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Im jeweiligen Kalendermonat
-m des Kalenderjahres
-KJ abgerechnete Fahrleistung</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">NZlgK
-VP</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Vergütung pro abgerechnetem Kilometer Fahrleistung in der Vergütungsperiode
-VP</td>
-</tr>
-</tbody>
-</table>
 
-Der Nutzungs- und Zahlungsprovisionssatz für die Vergütungsperiode 2024 bis 2025 (01.09.2024 bis 31.12.2025) beträgt:
-
-|                                        |     |
-|:--------------------------------------:|:---:|
-| NZlgP<sub>2024–2025</sub> = \[1,23\] % |     |
-
-Die Vergütung pro abgerechnetem Kilometer Fahrleistung für die Vergütungsperiode 2024 bis 2025 (01.09.2024 bis 31.12.2025) beträgt:
-
-|                                            |     |
-|:------------------------------------------:|:---:|
-| NZlgK<sub>2024–2025</sub> = 0,00076 EUR/km |     |
-
-Wurde beim Mauterheber eine berechtigte Erstattung durch einen Nutzer des EETS-Anbieters beantragt und wurde dieser Antrag durch den Mauterheber positiv beschieden, mindert sich das Nutzungs- und Zahlungsprovisionsentgelt entsprechend. Der Mauterheber teilt dem EETS-Anbieter jeweils bis zum siebten Werktag eines Monats für den vorangegangenen Monat mit, wie viele Anträge auf Erstattung in welcher Höhe (
+KJ
 
 R
 
-KJ, m) positiv beschieden wurden.
+KJ,m – Betrag in Euro der im jeweiligen Kalendermonat
 
-Die abgerechnete Fahrleistung km wird ermittelt auf Basis der aktiven Fahrzeuggeräte gemäß Ziffer 1.2. Dafür werden für den gesamten Betrachtungszeitraum die Tariflängen der abgerechneten Abschnitte in den abschnittsbezogenen Erhebungsdaten dieser Fahrzeuggeräte addiert. Als Zeitpunkt der Befahrung eines mautpflichtigen Abschnitts gilt die entsprechende Regelung in Ziffer 1.2. Von der abgerechneten Fahrleistung wird die Summe der Tariflängen der Abschnitte abgezogen, deren Mautbeträge dem Nutzer des EETS-Anbieters vom Mauterheber im Rahmen eines Erstattungsverfahrens vollständig rückerstattet wurden.
+m des jeweiligen Kalenderjahres
 
-Die Höhe des Nutzungs- und Zahlungsprovisionssatzes wird für die nachfolgende Vergütungsperiode gemäß den Vorgaben in Nummer 2 angepasst.
+KJ positiv beschiedenen Erstattungsverlangen
+
+Z
+
+KJ,m – Betrag in Euro der im jeweiligen Kalendermonat
+
+m des jeweiligen Kalenderjahres
+
+KJ vom EETS-Anbieter ausgekehrten Verzugszinsen
+
+NZlgK
+
+VP – Vergütung pro abgerechnetem Kilometer Fahrleistung in der Vergütungsperiode
+
+VP
+
+km
+
+KJ,m– im jeweiligen Kalendermonat
+
+m des Kalenderjahres
+
+KJ abgerechnete Fahrleistung
+
+KJ – Platzhalter für das jeweilige Kalenderjahr
+
+m – laufende Nummer des Kalendermonats (1 bis 12) des jeweiligen Kalenderjahres
+
+KJ
+
+VP – Vergütungsperiode, für die das Nutzungs- und Zahlungsprovisionsentgelt angewendet wird
+
+Der Nutzungs- und Zahlungsprovisionssatz für die Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027) beträgt:
+
+NZlgP<sub>2026−2027</sub> = 1,39 %
+
+Die Vergütung pro abgerechnetem Kilometer Fahrleistung für die Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027) beträgt:
+
+NZlgK<sub>2026−2027</sub> = 0,00089
+
+EUR/km
+
+Wurde beim Mauterheber eine berechtigte Erstattung durch einen Nutzer des EETS-Anbieters beantragt und wurde dieser Antrag durch den Mauterheber positiv beschieden, so mindert sich das Nutzungs- und Zahlungsprovisionsentgelt entsprechend. Der Mauterheber teilt dem EETS-Anbieter jeweils bis zum siebten Werktag eines Monats für den vorangegangenen Monat mit, wie viele Anträge auf Erstattung in welcher Höhe (
+
+R
+
+KJ,m) positiv beschieden wurden.
+
+Die abgerechnete Fahrleistung
+
+km
+
+KJ,m wird ermittelt auf Basis der aktiven Fahrzeuggeräte gemäß Ziffer 1.2. Dafür werden für den gesamten Betrachtungszeitraum die Tariflängen der abgerechneten Abschnitte in den abschnittsbezogenen Erhebungsdaten dieser Fahrzeuggeräte addiert. Als Zeitpunkt der Befahrung eines mautpflichtigen Abschnitts gilt die entsprechende Regelung in Ziffer 1.2. Von der abgerechneten Fahrleistung wird die Summe derjenigen Tariflängen der Abschnitte abgezogen, deren Mautbeträge dem Nutzer des EETS-Anbieters vom Mauterheber im Rahmen eines Erstattungsverfahrens vollständig rückerstattet wurden.
+
+Die Höhe des Nutzungs- und Zahlungsprovisionssatzes wird für die nachfolgende Vergütungsperiode gemäß den Vorgaben in Ziffer 2.4 angepasst.
 
 1.4  
 Bonus (EQ-Bonus)
 
-Der Mauterheber zahlt bei Überschreitung der „Erfassungsquote EQ\_nonMED“ gemäß EETS-Zulassungsvertrag Anlage 5 Nummer 3.1 bzw. bei Überschreitung der „Erfassungsquote EQ\_MED“ gemäß EETS-Zulassungsvertrag Anlage 5 Nummer 3.2 in Höhe von 99,500 % einen Bonus (EQ\_Bonus) gemäß folgender Formel:
+Der Mauterheber zahlt bei Überschreitung der „Erfassungsquote EQ“ gemäß EETS-Zulassungsvertrag Anlage 5 (in der ab 1. Januar 2026 geltenden Fassung) Ziffer 3.1 einen Bonus (EQ\_Bonus) gemäß folgender Formel:
 
-<table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: center;" data-valign="top" data-charoff="50">EQ_Bonus
+EQ\_Bonus
+
 KJ = (
-EQ
-KJ – 99,5 %) × (
-WZ
-KJ –
-R
-KJ –
-Z
-KJ) × 12,5 %</td>
-</tr>
-</tbody>
-</table>
 
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 11%" />
-<col style="width: 3%" />
-<col style="width: 86%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">EQ
-KJ</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td data-valign="top" data-charoff="50">gemäß EETS-Zulassungsvertrag Anlage 5 Nummer 3.1.2 ermittelte Erfassungsquote EQ_nonMED (für EETS-Anbieter, die den MED des Mauterhebers während des Kalenderjahres
-KJ nicht nutzten) bzw. gemäß EETS-Zulassungsvertrag Anlage 5 Nummer 3.2.2 ermittelte Erfassungsquote EQ_MED (für EETS-Anbieter, die den MED während des Kalenderjahres
-KJ nutzten) bzw. gemäß EETS-Zulassungsvertrag Anlage 5 Nummer 3.2.3 ermittelte kombinierte Erfassungsquote (für EETS-Anbieter, die während des Kalenderjahres
-KJ auf den MED migrieren) für das Kalenderjahr
-KJ in Prozent</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">WZ
-KJ</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td data-valign="top" data-charoff="50">auf dem Konto des Mauterhebers in Summe wertgestellte Zahlungen in Euro im jeweiligen Kalenderjahr
-KJ</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">R
-KJ</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Betrag in Euro der im jeweiligen Kalenderjahr
-KJ positiv beschiedenen Erstattungsverlangen</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Z
-KJ</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td data-valign="top" data-charoff="50">Betrag in Euro der im jeweiligen Kalenderjahr
-KJ vom EETS-Anbieter ausgekehrten Verzugszinsen</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">KJ</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Platzhalter für das jeweilige Kalenderjahr</td>
-</tr>
-</tbody>
-</table>
+EQ
+
+KJ –
+
+EQ
+
+Min) \* (
+
+WZ
+
+KJ,m –
+
+R
+
+KJ,m –
+
+Z
+
+KJ,m) \*
+
+Bonussatz
+
+EQ\_Bonus
+
+KJ – Bonus, den der EETS-Anbieter für eine die Mindestanforderungen überschreitende Erfassungsquote erhält
+
+EQ
+
+KJ – gemäß EETS-Zulassungsvertrag Anlage 5 Ziffer 3.1.3 ermittelte Erfassungsquote EQ für das Kalenderjahr
+
+KJ in Prozent
+
+EQ
+
+Min – gemäß EETS-Zulassungsvertrag Anlage 5 Ziffer 3.1.3 festgelegte mindestens zu erreichende Erfassungsquote
+
+WZ
+
+KJ,m– auf dem Konto des Mauterhebers in Summe wertgestellte Zahlungen in Euro im jeweiligen Kalendermonat
+
+m des jeweiligen Kalenderjahres
+
+KJ
+
+R
+
+KJ,m– Betrag in Euro der im jeweiligen Kalendermonat
+
+m des jeweiligen Kalenderjahres
+
+KJ positiv beschiedenen Erstattungsverlangen
+
+Z
+
+KJ,m – Betrag in Euro der im jeweiligen Kalendermonat
+
+m des jeweiligen Kalenderjahres
+
+KJ vom EETS-Anbieter ausgekehrten Verzugszinsen
+
+Bonussatz – gemäß EETS-Zulassungsvertrag Anlage 5 Ziffer 3.1.3 festgelegter prozentualer Anteil, den der EETS-Anbieter an den fiktiven höheren Mauteinnahmen bei Überschreitung der
+
+EQ
+
+Min erhält
+
+KJ – Platzhalter für das jeweilige Kalenderjahr
 
 Der Betrachtungszeitraum für die Ermittlung des EQ-Bonus umfasst das Kalenderjahr. Die Zahlung des EQ-Bonus für das Kalenderjahr an den EETS-Anbieter erfolgt auf das jeweils in der Vergütungsrechnung angegebene Konto des EETS-Anbieters. Sofern ein vertraglich festgelegter Betrachtungszeitraum kein volles Kalenderjahr umfasst, wird der EQ-Bonus monatsgenau anteilig gezahlt.
 
 1.5  
-MED-Umstellungsentgelt
+Anpassung des Vergütungsmodells für den Vergütungszeitraum 1. September 2024 bis 31. Dezember 2025
 
-Die EETS-Anbieter, die den Mauterhebungsdienst (MED) des Mauterhebers bei ihrer Zulassung noch nicht nutzen konnten, erhalten ein MED-Umstellungsentgelt. Dieses beträgt 0,40 € je aktivem Fahrzeuggerät pro Kalendermonat. Es wird vom 01.11.2021, frühestens jedoch ab dem Zeitpunkt der Zulassung des EETS-Anbieters, bis zum 31.12.2025, höchstens jedoch bis zum Ende der Zulassung des EETS-Anbieters gezahlt. Die Zahl der aktiven Fahrzeuggeräte, für die das MED-Umstellungsentgelt gezahlt wird, ist auf die Zahl der aktiven Fahrzeuggeräte beschränkt, die im Kalendermonat November 2021 abgerechnet wurden. Für nach dem November 2021 zugelassene EETS-Anbieter ist die Zahl der abgerechneten aktiven Fahrzeuggeräte im Kalendermonat der Zulassung maßgeblich.
+Das Vergütungsmodell wird für den Zeitraum 1. September 2024 bis 31. Dezember 2025 wie folgt angepasst:
 
-1.6  
-Anpassung des Vergütungsmodells für die Vergütungsperiode 2021 bis 2023 (01.11.2021 bis 28.02.2023)
+|                                                                                                                                                                                                                                                                                                |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Das jährliche Betriebsentgelt für EETS-Anbieter (![BetrE hochgestellt EET tiefgestellt 1.9.24 bis 31.12.25](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02440_0030.jpg)), die den Mauterhebungsdienst (MED) des Mauterhebers nicht nutzen und eine eigene Erkennung und Tarifierung (EET) betreiben, beträgt |
+| 482 926 EUR                                                                                                                                                                                                                                                                                    |
+| Das jährliche Betriebsentgelt für EETS-Anbieter (![BetrE hochgestellt MED tiefgestellt 1.9.24 bis 31.12.25](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02440_0040.jpg)), die den Mauterhebungsdienst (MED) des Mauterhebers nutzen, beträgt                                                                 |
+| 562 338 EUR                                                                                                                                                                                                                                                                                    |
 
-Das Vergütungsmodell für den Zeitraum 01.11.2021 bis 28.02.2023 wird wie folgt angepasst:
+Der Nutzungs- und Zahlungsprovisionssatz beträgt in diesem Zeitraum:
 
-Das jährliche Betriebsentgelt für EETS-Anbieter, die den Mauterhebungsdienst (MED) des Mauterhebers nicht nutzen und eine eigene Erkennung und Tarifierung (EET) betreiben, (![〖BetrE〗^EET\_2021bis2023](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_08.jpg) ) beträgt:
+NZlgP<sub>1.9.24−31.12.25</sub> = 1,39 %
 
-|                 |
-|:---------------:|
-| \[482 926\] EUR |
+Die Vergütung pro abgerechnetem Kilometer Fahrleistung beträgt in diesem Zeitraum:
 
-Das jährliche Betriebsentgelt für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nutzen, (![〖BetrE〗^MED\_2021bis2023](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_09.jpg) ) beträgt:
+NZlgK<sub>1.9.24−31.12.25</sub> = 0,00089 EUR/
 
-|                 |
-|:---------------:|
-| \[562 338\] EUR |
+km
 
-Der AV-Tarif beträgt
+Der AV-Tarif beträgt für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nicht nutzen:
 
-|                                                                              |     |                                                                                         |
-|:-------------------------------|:-----------|---------------------------:|
-| für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nicht nutzen |     | ![〖AVT〗^EET \_2021bis2023= \[3,56\] EUR](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_10.jpg) |
-| für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nutzen       |     | ![〖AVT〗^MED\_2021bis2023 = \[2,42\] EUR](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_11.jpg) |
+AVT<sub>EET−1.9.24−31.12.25</sub> = 4,33 EUR
 
-Der Nutzungs- und Zahlungsprovisionssatz beträgt:
+Der AV-Tarif beträgt für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nutzen:
 
-|                           |              |
-|:--------------------------|:-------------|
-| NZlgP<sub>2021–2023</sub> | = \[1,97\] % |
+AVT<sub>MED−1.9.24−31.12.25</sub> = 2,97 EUR
+
+Der EQ-Bonus bestimmt sich nach der Formel in Ziffer 1.4, wobei sich die mindestens zu erreichende Erfassungsquote (
+
+EQ
+
+Min) abweichend aus Anlage 5 zum EETS-Zulassungsvertrag in der bis zum Ablauf des 31. Dezember 2025 geltenden Fassung gemäß Ziffer 3.1.2 (EQ\_nonMED), 3.2.2 (EQ\_MED) bzw. 3.2.3 (kombinierte Erfassungsquote) ergibt. Der Bonussatz beträgt 12,5 %.
 
 2. Überprüfung des EETS-Vergütungsmodells
 
-Die Höhe der einzelnen Bestandteile des EETS-Vergütungsmodells wird durch den Mauterheber vor Ablauf der jeweils aktuellen Vergütungsperiode überprüft. Als Ergebnis der Überprüfung können sich Anpassungen ergeben, die in der folgenden Vergütungsperiode gültig werden.
+Die Höhe der einzelnen Bestandteile des EETS-Vergütungsmodells wird durch den Mauterheber vor Ablauf der jeweils aktuellen Vergütungsperiode überprüft. Als Ergebnis der Überprüfung können sich Anpassungen ergeben, die ab der folgenden Vergütungsperiode wirksam sind.
 
 Der Mauterheber wird die Dauer der Vergütungsperioden zukünftig im Regelfall auf drei Kalenderjahre festlegen.
 
-Im Rahmen der regelmäßigen Aktualisierung des Vergütungsmodells zum Ende einer Vergütungsperiode wird der Mauterheber den Entwurf des angepassten EETS-Vergütungsmodells spätestens sechs Kalendermonate vor dem jeweiligen Gültigkeitsbeginn einer neuen Vergütungsperiode an die in Deutschland zugelassenen oder sich im Zulassungsverfahren befindlichen EETS-Anbieter übermitteln. Anschließend übermitteln die EETS-Anbieter innerhalb von vier Kalenderwochen ihre Anmerkungen zum Entwurf an den Mauterheber. Nach Übermittlung der Anmerkungen wird der Mauterheber den EETS-Anbietern im Rahmen eines Anhörungstermins die Änderungen erläutern und den EETS-Anbietern Raum für Fragen und Anmerkungen einräumen. Der Mauterheber prüft die Anmerkungen und die Ergebnisse des Anhörungstermins und überarbeitet ggf. das Vergütungsmodell. Der Mauterheber übermittelt das finale Vergütungsmodell vier Kalendermonate vor dem jeweiligen Gültigkeitsbeginn einer neuen Vergütungsperiode an die EETS-Anbieter.
+Im Rahmen der regelmäßigen Aktualisierung des Vergütungsmodells zum Ende einer Vergütungsperiode wird der Mauterheber den Entwurf des angepassten EETS-Vergütungsmodells spätestens sechs Kalendermonate vor dem jeweiligen Gültigkeitsbeginn einer neuen Vergütungsperiode an die in Deutschland zugelassenen oder sich im Zulassungsverfahren befindlichen EETS-Anbieter übermitteln. Anschließend übermitteln die EETS-Anbieter innerhalb von vier Kalenderwochen ihre Anmerkungen zum Entwurf an den Mauterheber. Nach Übermittlung der Anmerkungen erläutert der Mauterheber den EETS-Anbietern im Rahmen eines Anhörungstermins die Änderungen und räumt den EETS-Anbietern Raum für Fragen und Anmerkungen ein. Der Mauterheber prüft die Anmerkungen und die Ergebnisse des Anhörungstermins und überarbeitet ggf. das Vergütungsmodell. Der Mauterheber übermittelt das finale Vergütungsmodell vier Kalendermonate vor dem jeweiligen Gültigkeitsbeginn einer neuen Vergütungsperiode an die EETS-Anbieter.
 
-Die Überprüfung und Anpassung des EETS-Vergütungsmodells erfolgen in folgenden Bereichen:
+Die Überprüfung und Anpassung des EETS-Vergütungsmodells erfolgt in folgenden Bereichen:
 
 1. Indexierung des AV-Tarifs
 
 2. Prüfung und Bewertung der Entwicklung des EETS in Europa
 
-3. Ermittlung der Änderungspauschale
+3. Betriebsentgelt und Ermittlung der Änderungspauschale
+
+4. Nutzungs- und Zahlungsprovisionsentgelt
 
 2.1  
 Indexierung des AV-Tarifs
 
-Die Höhe des für die Ermittlung des AV-Entgelt anzuwendenden AV-Tarifs (
+Die Höhe des für die Ermittlung des AV-Entgelts anzuwendenden AV-Tarifs (
 
-AVT) wurde für die Vergütungsperiode 2023 bis 2025 fixiert.
+AVT) wurde für die
 
-Im Rahmen der Überprüfung des EETS-Vergütungsmodells wird der AV-Tarif für die nachfolgende Vergütungsperiode entsprechend der nachfolgenden Regelungen wertgesichert.
+Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027) fixiert.
 
-Die Indexierung des AV-Tarifs (
+Der AV-Tarif innerhalb der Vergütungsperiode wird zum 1. Januar 2026<span id="FnR.F834458_01"></span><a href="#F834458_01" class="FnR">1</a></sup> sowie zum 1. Januar 2027 entsprechend der nachfolgenden Regelungen wertgesichert.
 
-AVT
-
-EET und
+Die Indexierung des AV-Tarifs
 
 AVT
 
-MED) für eine Vergütungsperiode erfolgt immer auf Basis des Indexwertes für das 2. Quartal des letzten Kalenderjahres der vorangegangenen Vergütungsperiode.
+VP erfolgt
 
-Im Rahmen der Überprüfung ist der für die Vergütungsperiode 2023 bis 2025 festgeschriebene AV-Tarif (![〖AVT〗^EET\_2023bis2025](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_12.jpg)
+–  
+zum 1. Januar 2026 durch Vergleich der Indizes für das 3. Quartal 2024 und das 3. Quartal 2025 und
 
-bzw.![〖AVT〗^MED\_2023bis2025](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_13.jpg) ) zu
+–  
+zum 1. Januar 2027 durch Vergleich der Indizes für das 3. Quartal 2025 und das 3. Quartal 2026.
 
-1. 25 % mit dem vom Statistischen Bundesamt veröffentlichten „Index der durchschnittlichen Bruttomonatsverdienste: Deutschland, Quartale, Wirtschaftszweige WZ08-62“ und
+Die Indexierung erfolgt gemäß folgender Formeln:
 
-2. 25 % mit dem vom Statistischen Bundesamt veröffentlichten Erzeugerpreisindex für den Wirtschaftszweig „Telekommunikation“ (WZ08-61) (
+![AVT tiefgestellt 01.01.2026 ist gleich AVT tiefgestellt VP multipliziert mit Klammer auf 25 % multipliziert mit dem Bruch aus I hochgestellt Personal tiefgestellt Q3 2025 geteilt durch I hochgestellt Personal tiefgestellt Q3 2024 plus 25 % multipliziert mit dem Bruch aus I hochgestellt Telekom tiefgestellt Q3 2025 geteilt durch I hochgestellt Telekom tiefgestellt Q3 2024 plus 50 % multipliziert mit dem Bruch aus I hochgestellt ITDL tiefgestellt Q3 2025 geteilt durch I hochgestellt ITDL tiefgestellt Q3 2024 Klammer zu](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02440_0050.jpg)
 
-Telekom) und
+sowie
 
-3. 50 % mit dem vom Statistischen Bundesamt veröffentlichten Erzeugerpreisindex für die Dienstleistungsart „IT-Dienstleistungen“ (DL-IT) (
+![AVT tiefgestellt 01.01.2027 ist gleich AVT tiefgestellt 01.01.2026 multipliziert mit Klammer auf 25 % multipliziert mit dem Bruch aus I hochgestellt Personal tiefgestellt Q3 2026 geteilt durch I hochgestellt Personal tiefgestellt Q3 2025 plus 25 % multipliziert mit dem Bruch aus I hochgestellt Telekom tiefgestellt Q3 2026 geteilt durch I hochgestellt Telekom tiefgestellt Q3 2025 plus 50 % multipliziert mit dem Bruch aus I hochgestellt ITDL tiefgestellt Q3 2026 geteilt durch I hochgestellt ITDL tiefgestellt Q3 2025 Klammer zu](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02440_0060.jpg)
 
-IT) oder
+AVT
 
-4. wenn diese Indizes nicht mehr veröffentlicht werden, mit den an ihre Stelle tretenden Indizes
+VP – Initialer AV-Tarif in der Vergütungsperiode
 
-zu inflationieren.
+AVT<sub>01.01.2026</sub> – AV-Tarif ab dem 1. Januar 2026
 
-|                                                                                                                                                                                                                                  |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![〖AVT〗^EET\|MED\_VP= 〖AVT〗^EET\|MED\_2023bis2025×(25 %×I^Personal\_VP/I^Personal\_2023bis2025 + 25 %×I^Telekom\_VP/I^Telekom\_2023bis2025 + 50 %×I^IT\_VP/I\_^IT2023bis2025 )](https://www.gesetze-im-internet.de/normengrafiken/banzat_2023/825202_14.jpg) |
+AVT<sub>01.01.2027</sub> – AV-Tarif ab dem 1. Januar 2027
 
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 2%" />
-<col style="width: 49%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2023/825202_04.jpg" alt="〖AVT〗^EET|MED_VP" /></td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td data-valign="top" data-charoff="50">Für die jeweilige nachfolgende Vergütungsperiode
-VP anzuwendender AV-Tarif EET bzw. MED</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2023/825202_15.jpg" alt="〖AVT〗^EET|MED_2023bis2025" /></td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">In der Vergütungsperiode 2023 bis 2025 angewendeter AV-Tarif EET bzw. MED</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2023/825202_16.jpg" alt="I^Personal|Telekom|IT_VP" /></td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td data-valign="top" data-charoff="50">entsprechender Indexwert des 2. Quartals des der Vergütungsperiode
-VP vorangegangenen Kalenderjahres</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2023/825202_17.jpg" alt="I^(Personal|Telekom|IT)_2023bis2025" /></td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">entsprechender Indexwert des 2. Quartals 2023</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">VP</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">=</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Vergütungsperiode für die der Index angewendet wird</td>
-</tr>
-</tbody>
-</table>
+|                                                                                                                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![I hochgestellt Personal tiefgestellt Q](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02440_0070.jpg) – „Index der durchschnittlichen Bruttomonatsverdienste: Deutschland, Quartale, Wirtschaftszweige WZ08-62“ im angegebenen Quartal (Gewichtung 25 %) |
+| ![I hochgestellt Telekom tiefgestellt Q](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02440_0080.jpg) – Erzeugerpreisindex für den Wirtschaftszweig „Telekommunikation“ (WZ08-61) (Telekom) im angegebenen Quartal (Gewichtung 25 %)                      |
+| ![I hochgestellt ITDL tiefgestellt Q](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02440_0090.jpg) – Erzeugerpreisindex für Dienstleistungen Kategorie IT-Dienstleistungen (CPA08-620-01) im angegebenen Quartal (Gewichtung 50 %)                        |
 
-Abweichend zu Ziffer 2.1 Satz 1 erfolgt eine Wertsicherung des AV-Tarifs zum 01.09.2024, sofern die Erhöhung mehr als 2,5 % beträgt. In diesem Fall wird der AV-Tarif um den Wert erhöht, der den Betrag von 2,5 % übersteigt. Die Indexwerte
-
-![Fehlender Alternativtext](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j02580_0010.jpg)
-
-werden auf Basis der vom Statistischen Bundesamt für das 2. Quartal 2024 veröffentlichten Statistiken bestimmt, sobald diese vorliegen. Sofern diese Indexwerte nicht rechtzeitig für die Abrechnung ab dem 01.09.2024 zur Verfügung stehen, erfolgt die Bestimmung zum frühestmöglichen Zeitpunkt und eine eventuelle Erhöhung des AV-Tarifs wird rückwirkend ab 01.09.2024 gezahlt.
+Sofern Indizes nicht mehr veröffentlicht werden, werden die an ihre Stelle tretenden veröffentlichten Indizes verwendet. Wenn Indexwerte nicht rechtzeitig für die Abrechnung zu den jeweiligen Anpassungszeitpunkten zur Verfügung stehen, erfolgt die Bestimmung zum frühestmöglichen Zeitpunkt und eine eventuelle Erhöhung des AV-Tarifs wird rückwirkend ab dem Anpassungszeitpunkt gezahlt.
 
 2.2  
 Prüfung und Bewertung der Entwicklung des EETS in Europa
 
-Der Mauterheber wird die Entwicklung des EETS-Marktes in Europa kontinuierlich beobachten und bewerten, ob im Rahmen der Überprüfung eine Anpassung des EETS-Vergütungsmodells für die nächste Vergütungsperiode erfolgen muss.
+Der Mauterheber beobachtet die Entwicklung des EETS-Marktes in Europa kontinuierlich und bewertet, ob im Rahmen der Überprüfung eine Anpassung des EETS-Vergütungsmodells für die nächste Vergütungsperiode ab dem 1. Januar 2028 erfolgen muss.
 
 Der Mauterheber behält sich vor, Anpassungen am EETS-Vergütungsmodell vorzunehmen, wenn sich Annahmen, die bei der initialen Entwicklung des EETS-Vergütungsmodells in Bezug auf die zukünftige Entwicklung des EETS in Europa getroffen wurden, als nicht mehr zutreffend erweisen oder sich sonstige relevante Rahmenbedingungen ändern.
 
-Insbesondere wird der Mauterheber dabei die folgenden Aspekte in seiner Prüfung berücksichtigen:
+Insbesondere berücksichtigt der Mauterheber die folgenden Aspekte in seiner Prüfung:
 
 1. die Anzahl der von EETS-Anbietern abgedeckten EETS-Gebiete,
 
@@ -2206,158 +2154,143 @@ Insbesondere wird der Mauterheber dabei die folgenden Aspekte in seiner Prüfung
 
 5. die Anpassungen relevanter europäischer Vorgaben mit Bezug zum EETS, insbesondere
 
-a) die Richtlinie (EU) 2019/520 des Europäischen Parlaments und des Rates vom 19. März 2019 über die Interoperabilität elektronischer Mautsysteme und die Erleichterung des grenzüberschreitenden Informationsaustauschs über die Nichtzahlung von Straßenbenutzungsgebühren in der Union (ABl. L 91 vom 29.3.2019, S. 45) in der jeweils geltenden Fassung und die auf ihrer Grundlage erlassenen Rechtsakte sowie
+a) die Richtlinie (EU) 2019/520 und die auf ihrer Grundlage erlassenen Rechtsakte sowie
 
-b) die Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung bestimmter Verkehrswege durch schwere Nutzfahrzeuge (ABl. L 187 vom 20.7.1999, S. 42) in der jeweils geltenden Fassung und die auf ihrer Grundlage erlassenen Rechtsakte.
+b) die Richtlinie 1999/62/EG und die auf ihrer Grundlage erlassenen Rechtsakte.
 
-In Folge der Prüfung und Bewertung der Entwicklung des EETS in Europa kann eine Anpassung des Betriebsentgelts, des AV-Tarifs oder des Nutzungs- und Zahlungsprovisionsentgelts erfolgen, die jeweils ab der nächsten Vergütungsperiode gültig wird.
+In Folge der Prüfung und Bewertung der Entwicklung des EETS in Europa kann eine Anpassung des Betriebsentgelts, des AV-Tarifs oder des Nutzungs- und Zahlungsprovisionsentgelts erfolgen, die jeweils ab der nächsten Vergütungsperiode gilt.
 
-Im Falle der Vornahme von Änderungen wird der Mauterheber dem EETS-Anbieter im Rahmen der Übermittlung des EETS-Vergütungsmodells für die nachfolgende Vergütungsperiode auch Informationen zu den geänderten Annahmen und/oder Rahmenbedingungen bereitstellen.
+Im Fall der Vornahme von Änderungen wird der Mauterheber dem EETS-Anbieter im Rahmen der Übermittlung des EETS-Vergütungsmodells für die nachfolgende Vergütungsperiode auch Informationen zu den geänderten Annahmen und/oder Rahmenbedingungen bereitstellen.
 
 2.3  
-Ermittlung der Änderungspauschale
+Betriebsentgelt und Ermittlung der Änderungspauschale
 
 EETS-Anbieter erhalten als Teil des Betriebsentgelts eine Änderungspauschale für die Umsetzung von technischen oder prozessualen Änderungen in ihren Systemen, die durch den Mauterheber initiiert werden.
+
+Die Höhe des Betriebsentgelts wurde für die Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027) festgelegt. Innerhalb dieser Vergütungsperiode ist nur eine Anpassung der Änderungspauschalen bei Hinzukommen von derzeit noch nicht bekannten Änderungsvorhaben möglich.
 
 2.3.1  
 Überprüfung und Festlegung der Änderungspauschale
 
-Die Höhe der Änderungspauschale wurde für die Vergütungsperioden 2021 bis 2023 bzw. 2023 bis 2025 festgelegt. Dabei wurden für die folgenden Änderungsvorhaben Abschätzungen des damit für die EETS-Anbieter verbundenen Aufwands erstellt. Für die Änderungsvorhaben in den Bereichen B) und C), die außer für das Mautgebiet BFStrMG noch für weitere Mautgebiete genutzt werden können, wurde bei der Aufwandsschätzung entsprechendes Synergiepotential berücksichtigt. Die jeweils insgesamt abgeschätzten Aufwände werden als Teil des Betriebsentgelts über die gesamte Dauer der Vergütungsperiode vergütet und anteilig auf ein Kalenderjahr berechnet, so dass sich die folgenden jährlichen Änderungspauschalen ergeben:  
-  
+Die Höhe der Änderungspauschale wurde für die Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027) festgelegt. Dabei gibt es derzeit nur ein Änderungsvorhaben des Bereichs A (regelmäßige operative Tätigkeiten des Mautbetriebs). Änderungsvorhaben in den Bereichen B (technische Änderungen) und C (gesetzliche oder fachliche Änderungen) sind derzeit nicht geplant.
+
+Die jeweils insgesamt abgeschätzten Aufwände werden als Teil des Betriebsentgelts über die gesamte Dauer der Vergütungsperiode vergütet und anteilig auf ein Kalenderjahr berechnet, so dass sich die folgenden jährlichen Änderungspauschalen ergeben:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 9%" />
-<col style="width: 40%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col style="width: 10%" />
+<col style="width: 60%" />
+<col style="width: 30%" />
 </colgroup>
 <thead data-valign="bottom">
 <tr class="header" data-valign="middle">
-<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Bereich</th>
-<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Änderungsvorhaben</th>
-<th colspan="2" style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Jährliche Änderungspauschale</th>
-</tr>
-<tr class="odd" data-valign="middle">
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">EETS-Anbieter mit eigener<br />
-Erkennung und Tarifierung</th>
-<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">EETS-Anbieter, die den<br />
-Mauterhebungsdienst nutzen</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Bereich</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Änderungsvorhaben</th>
+<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Jährliche<br />
+Änderungspauschale</th>
 </tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">A</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Konfigurative oder betriebliche Anpassungen an den technischen Anbindungen zur Produktiv- oder zu den Testumgebungen des Mauterhebers oder Anpassungen an den organisatorischen oder Backoffice-Schnittstellen zwischen EETS-Anbieter und Mauterheber</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">48 276 EUR</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">konfigurative oder betriebliche Anpassungen an den technischen Anbindungen zur Produktiv- oder zu den Testumgebungen des Mauterhebers oder Anpassungen an den organisatorischen oder Backoffice-Schnittstellen zwischen EETS-Anbieter und Mauterheber</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">105 835 EUR</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">B</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Aktualisierung Schnittstelle SST301 (DSRC-Schnittstelle) auf Version 3.0</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">210 813 EUR</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">210 813 EUR</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">keine Vorhaben in der Vergütungsperiode 2026 bis 2027 geplant<span id="FnR.F834458_02"></span><a href="#F834458_02" class="FnR">2</a></sup></td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">B</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Aktualisierung der Backoffice-Schnittstellen auf die neue Version des Standards CEN TS 16986:202X (Teil 1)<span id="FnR.f825202_01"></span><a href="#f825202_01" class="FnR">1</a></sup></td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">69 414 EUR</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">105 406 EUR</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">C</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">keine Vorhaben in der Vergütungsperiode 2026 bis 2027 geplant</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">C</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einführung einer CO<sub>2</sub>-differenzierten Bemautung auf Basis der aktualisierten Wegekostenrichtlinie</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">88 696 EUR</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">74 556 EUR</td>
-</tr>
-<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: right; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Summe</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">417 199 EUR</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">496 610 EUR</td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Summe</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">105 835 EUR</td>
 </tr>
 </tbody>
 </table>
 
 Im Rahmen der Überprüfung des EETS-Vergütungsmodells wird die Änderungspauschale für die nachfolgende Vergütungsperiode entsprechend der nachfolgenden Regelungen überprüft und neu festgelegt.
 
-Der Mauterheber wird Art und Umfang der von ihm für den Zeitraum der bevorstehenden Vergütungsperiode geplanten technischen und prozessualen Änderungen, die für das Mautgebiet BFStrMG relevant sind, abschätzen. Ausgehend von der Abschätzung wird die als Bestandteil des Betriebsentgelts zu vergütende Änderungspauschale festgelegt, die ab der nächsten Vergütungsperiode gültig wird.
+Der Mauterheber schätzt Art und Umfang der von ihm für den Zeitraum der bevorstehenden Vergütungsperiode geplanten technischen und prozessualen Änderungen, die für das Mautgebiet BFStrMG relevant sind, ab. Ausgehend von der Abschätzung wird die als Bestandteil des Betriebsentgelts zu vergütende Änderungspauschale festgelegt, die ab der nächsten Vergütungsperiode gilt.
 
-Der Mauterheber wird die EETS-Anbieter zum Start der Umsetzung von Änderungsvorhaben der nachfolgenden Bereiche B) und C) in Textform auffordern.
+Der Mauterheber fordert die EETS-Anbieter zum Start der Umsetzung von Änderungsvorhaben der Bereiche B) und C) in Textform auf.
 
-EETS-Anbieter erhalten für Änderungsvorhaben in den Bereichen B) und C) jedoch nur dann eine Vergütung, wenn zum Zeitpunkt der Aufforderung zur Umsetzung des jeweiligen Änderungsvorhabens durch den Mauterheber der jeweilige EETS-Anbieter bereits die Prüfvereinbarung gemäß EEMD-ZVAnl I unterzeichnet hat.
+EETS-Anbieter erhalten für Änderungsvorhaben in den Bereichen B) und C) jedoch nur dann eine Vergütung, wenn zum Zeitpunkt der Aufforderung zur Umsetzung des jeweiligen Änderungsvorhabens durch den Mauterheber der jeweilige EETS-Anbieter bereits die Prüfvereinbarung (Anlage I der EEMD-Zulassungsverordnung) unterzeichnet hat.
 
-Sofern der Mauterheber die EETS-Anbieter zum Start der Umsetzung eines ursprünglich geplanten und in der Änderungspauschale berücksichtigten Änderungsvorhabens während der gesamten Vergütungsperiode nicht aufgefordert hat, wird der Mauterheber die für dieses Änderungsvorhaben vorgesehene Vergütung und bereits an die EETS-Anbieter gezahlte Vergütung im Rahmen einer Endabrechnung gemäß Nummer 2.3.4 zurückfordern.
+Sofern der Mauterheber die EETS-Anbieter zum Start der Umsetzung eines ursprünglich geplanten und in der Änderungspauschale berücksichtigten Änderungsvorhabens während der gesamten Vergütungsperiode nicht aufgefordert hat, fordert der Mauterheber die für dieses Änderungsvorhaben vorgesehene Vergütung und bereits an die EETS-Anbieter gezahlte Vergütung im Rahmen einer Endabrechnung gemäß Ziffer 2.3.4 zurück.
 
 Technische und prozessuale Änderungsvorhaben, die bei der Ermittlung der Änderungspauschale berücksichtigt werden, können sich in folgenden Bereichen ergeben:
 
-A) Individuelle konfigurative oder betriebliche Anpassungen an den technischen Anbindungen zur Produktiv- oder zu den Testumgebungen des Mauterhebers oder Anpassungen an den organisatorischen oder Backoffice-Schnittstellen zwischen EETS-Anbieter und Mauterheber, zum Beispiel
+A) individuelle konfigurative oder betriebliche Anpassungen an den technischen Anbindungen zur Produktiv- oder zu den Testumgebungen des Mauterhebers oder Anpassungen an den organisatorischen oder Backoffice-Schnittstellen zwischen EETS-Anbieter und Mauterheber, zum Beispiel
 
-•  
+–  
 Änderungen der Belegung oder der Wertebereiche einzelner Attribute
 
-•  
+–  
 Entfall der Übermittlung eines Wertes oder des Inhalts eines Attributs
 
-•  
+–  
 Ergänzung der Übermittlung eines gemäß dem relevanten Standard vorgesehenen Attributs
 
 B) Anpassung an oder Implementierung einer neuen Version eines technischen Standards, der in Anhang I der Durchführungsverordnung (EU) 2020/204 genannt ist, namentlich:
 
-•  
+–  
 EN 15509
 
-•  
+–  
 EN ISO 12813
 
-•  
+–  
 EN ISO 13141
 
-•  
+–  
 EN ISO 12855
 
-•  
+–  
 CEN TS 16986
 
 C) Änderungen aufgrund der Umsetzung europäischer Vorgaben in nationales Recht. Relevante europäische Vorgaben, aus denen sich Anpassungen ergeben können, sind namentlich:
 
-•  
-die Richtlinie (EU) 2019/520 des Europäischen Parlaments und des Rates vom 19. März 2019 über die Interoperabilität elektronischer Mautsysteme und die Erleichterung des grenzüberschreitenden Informationsaustauschs über die Nichtzahlung von Straßenbenutzungsgebühren in der Union (ABl. L 91 vom 29.3.2019, S. 45) in der jeweils geltenden Fassung und die auf ihrer Grundlage erlassenen Rechtsakte
+–  
+die Richtlinie (EU) 2019/520 und die auf ihrer Grundlage erlassenen Rechtsakte
 
-•  
-die Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung bestimmter Verkehrswege durch schwere Nutzfahrzeuge (ABl. L 187 vom 20.7.1999, S. 42) in der jeweils geltenden Fassung und die auf ihrer Grundlage erlassenen Rechtsakte.
+–  
+die Richtlinie 1999/62/EG und die auf ihrer Grundlage erlassenen Rechtsakte.
 
 Dazu wird der Mauterheber eine Prognose über die von ihm innerhalb der bevorstehenden Vergütungsperiode initiierten Änderungsvorhaben sowie eine Abschätzung des damit für die EETS-Anbieter verbundenen Aufwands erstellen.
 
-Der abgeschätzte Aufwand für Bestandteile eines Änderungsvorhabens, die außer für das Mautgebiet BFStrMG noch für weitere Mautgebiete genutzt werden können, insbesondere Entwicklungs-/Implementierungskosten, wird anteilig in der Änderungspauschale angesetzt. Abgeschätzte Aufwände für Bestandteile eines Änderungsvorhabens, die kein Synergiepotential zu anderen Mautgebieten haben, insbesondere Aufwand für Änderungen aus dem Bereich A) oder für individuelle Tests oder Prüfungen des Mauterhebers werden vollständig in der Änderungspauschale berücksichtigt.
-
-Es werden separate Aufwandsschätzungen für EETS-Anbieter, die den MED nutzen und solche, die den MED noch nicht nutzen, durchgeführt. Weitere Unterscheidungen werden nicht vorgenommen und es werden insbesondere keine EETS-Anbieter individuellen Aufwandsschätzungen durchgeführt.
-
-Der Mauterheber wird dem EETS-Anbieter im Rahmen der Übermittlung des EETS-Vergütungsmodells für die nachfolgende nächste Vergütungsperiode auch Informationen zu den prognostizierten Änderungsvorhaben sowie den jeweiligen Aufwandsschätzungen bereitstellen.
+Der abgeschätzte Aufwand für Bestandteile eines Änderungsvorhabens, die außer für das Mautgebiet BFStrMG noch für weitere Mautgebiete genutzt werden können, insbesondere Entwicklungs-/ Implementierungskosten, wird anteilig in der Änderungspauschale angesetzt. Abgeschätzte Aufwände für Bestandteile eines Änderungsvorhabens, die kein Synergiepotential zu anderen Mautgebieten haben, insbesondere Aufwand für Änderungen aus dem Bereich A) oder für individuelle Tests oder Prüfungen des Mauterhebers, werden vollständig in der Änderungspauschale berücksichtigt. Es werden keine weiteren Unterscheidungen vorgenommen und es werden insbesondere keine für jeden EETS-Anbieter individuellen Aufwandsschätzungen durchgeführt. Der Mauterheber wird dem EETS-Anbieter im Rahmen der Übermittlung des EETS-Vergütungsmodells für die nachfolgende nächste Vergütungsperiode auch Informationen zu den prognostizierten Änderungsvorhaben sowie den jeweiligen Aufwandsschätzungen bereitstellen.
 
 2.3.2  
 Änderungspauschale bei zusätzlichen Änderungsvorhaben
 
-Für den Fall, dass der Mauterheber während einer laufenden Vergütungsperiode die Umsetzung eines zusätzlichen Änderungsvorhabens durch die EETS-Anbieter initiiert, welches in der Prognose für die Vergütungsperiode noch nicht enthalten war, wird der Mauterheber für dieses zusätzliche Änderungsvorhaben eine Aufwandsabschätzung nach den in Nummer 2.3.1 beschriebenen Regeln durchführen und die Änderungspauschale während der laufenden Vergütungspauschale entsprechend erhöhen. Ein Änderungsvorgaben ist dann zusätzlich im Sinne des Satz 1, wenn es nicht bereits in Nummer 2.3.1 mit umfasst ist.
+Für den Fall, dass der Mauterheber während einer laufenden Vergütungsperiode die Umsetzung eines zusätzlichen Änderungsvorhabens durch die EETS-Anbieter initiiert, welches in der Prognose für die Vergütungsperiode noch nicht enthalten war, wird der Mauterheber für dieses zusätzliche Änderungsvorhaben eine Aufwandsabschätzung nach den in Ziffer 2.3.1 beschriebenen Regeln durchführen und die Änderungspauschale während der laufenden Vergütungspauschale entsprechend erhöhen. Ein Änderungsvorhaben ist dann zusätzlich im Sinne des Satzes 1, wenn es nicht bereits in Ziffer 2.3.1 mit umfasst ist.
 
 2.3.3  
 Endabrechnung der Änderungspauschale bei Vertragsbeginn während einer Vergütungsperiode
 
-Für den Fall, dass der Beginn des Zulassungsvertrags mit dem EETS-Anbieter innerhalb einer laufenden Vergütungsperiode liegt, erhält der EETS-Anbieter bis zum Ende der Vergütungsperiode die Änderungspauschale in der für diese Vergütungsperiode festgelegten Höhe als Teil des Betriebsentgelts.
-
-Für Änderungsvorhaben aus den Bereichen B) und C) erfolgt in diesem Fall nach Umsetzung des Änderungsvorhabens durch den EETS-Anbieter eine Abschlussvergütung, über die der verbleibende Betrag für die Umsetzung des Änderungsvorhabens vergütet wird, der noch nicht über das Betriebsentgelt vergütet wurde. Dies gilt nur, wenn zum Zeitpunkt der Aufforderung zur Umsetzung des jeweiligen Änderungsvorhabens durch den Mauterheber der jeweilige EETS-Anbieter bereits die Prüfvereinbarung gemäß EEMD-ZVAnl I unterzeichnet hat.
+Für den Fall, dass der Beginn des Zulassungsvertrags mit dem EETS-Anbieter innerhalb einer laufenden Vergütungsperiode liegt, erhält der EETS-Anbieter bis zum Ende der Vergütungsperiode die Änderungspauschale in der für diese Vergütungsperiode festgelegten Höhe als Teil des Betriebsentgelts. Für Änderungsvorhaben aus den Bereichen B) und C) erfolgt in diesem Fall nach Umsetzung des Änderungsvorhabens durch den EETS-Anbieter eine Abschlussvergütung, über die der verbleibende Betrag für die Umsetzung des Änderungsvorhabens vergütet wird, der noch nicht über das Betriebsentgelt vergütet wurde. Dies gilt nur, wenn zum Zeitpunkt der Aufforderung zur Umsetzung des jeweiligen Änderungsvorhabens durch den Mauterheber der jeweilige EETS-Anbieter bereits die Prüfvereinbarung (Anlage I der EEMD-Zulassungsverordnung) unterzeichnet hat.
 
 Die Höhe des noch offenen Vergütungsbetrags wird für jedes Änderungsvorhaben aus den Bereichen B) und C) wie folgt ermittelt:
 
+Abgeschätzter Gesamtaufwand für das Änderungsvorhaben
+
 |     |                                                                                                        |
-|:-----|:-----------------------------------------------------------------|
-|     | Abgeschätzter Gesamtaufwand für das Änderungsvorhaben                                                  |
+|:---|--------------------------------------------------------------------|
 | ./. | seit Vertragsbeginn als Teil des Betriebsentgelts für das Änderungsvorhaben bereits gezahlte Vergütung |
-| =   | Noch offener Vergütungsbetrag für das Änderungsvorhaben                                                |
+| =   | noch offener Vergütungsbetrag für das Änderungsvorhaben                                                |
 
 2.3.4  
 Endabrechnung der Änderungspauschale bei nicht freigegebenen Änderungsvorhaben
 
-Sofern der Mauterheber die EETS-Anbieter nicht zum Start der Umsetzung eines ursprünglich geplanten und in der Änderungspauschale berücksichtigten Änderungsvorhabens während der gesamten Vergütungsperiode aufgefordert hat, wird der Mauterheber die in dieser Vergütungsperiode für das ursprünglich geplante Änderungsvorhaben an den EETS-Anbieter gezahlte Vergütung zurückfordern oder mit dem für die kommende Vergütungsperiode geplanten Betriebsentgelt verrechnen.
+Sofern der Mauterheber die EETS-Anbieter nicht zum Start der Umsetzung eines ursprünglich geplanten und in der Änderungspauschale berücksichtigten Änderungsvorhabens während der gesamten Vergütungsperiode aufgefordert hat, wird der Mauterheber die in dieser Vergütungsperiode für das ursprünglich geplante Änderungsvorhaben an den EETS-Anbieter gezahlte Vergütung zurückfordern oder mit dem für die kommende Vergütungsperiode geplanten Betriebsentgelt verrechnen. Die Höhe des zurückgeforderten Vergütungsbetrags entspricht dem Teil des Betriebsentgelts, der seit dem Vertragsbeginn an den EETS-Anbieter für jedes betroffene Änderungsvorhaben aus den Bereichen B) und C) gezahlt wurde.
 
-Die Höhe des zurückgeforderten Vergütungsbetrags entspricht dem Teil des Betriebsentgelts, der seit dem Vertragsbeginn an den EETS-Anbieter für jedes betroffene Änderungsvorhaben aus den Bereichen B) und C) gezahlt wurde.
+2.4  
+Nutzungs- und Zahlungsprovisionsentgelt
+
+Die Höhe des Nutzungs- und Zahlungsprovisionsentgelts wurde für die Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027) festgelegt und es sind innerhalb dieser Vergütungsperiode keine Änderungen vorgesehen.

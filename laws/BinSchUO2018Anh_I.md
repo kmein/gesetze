@@ -3,7 +3,8 @@
  
 # ----
 
-(Fundstelle: BGBl. I 2018, 1419 - 1421)
+(Fundstelle: BGBl. I 2018, 1419 - 1421;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <caption>Zone 1</caption>

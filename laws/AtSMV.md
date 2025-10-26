@@ -183,6 +183,25 @@ Der Bundesrat hat zugestimmt.
 
 (Fundstelle: BGBl. I 2010, 757 - 762)
 
+Vorbemerkung
+
+|     |                                                                                                                                                 |
+|:-----|:-----------------------------------------------------------------|
+| 1\. | Radiologie und Strahlenschutz                                                                                                                   |
+| 1.1 | Ableitung radioaktiver Stoffe                                                                                                                   |
+| 1.2 | Freisetzung radioaktiver Stoffe                                                                                                                 |
+| 1.3 | Kontamination                                                                                                                                   |
+| 1.4 | Verschleppung radioaktiver Stoffe                                                                                                               |
+| 2\. | Anlagentechnik und -betrieb                                                                                                                     |
+| 2.1 | Funktionsstörungen, Schäden oder Ausfälle im Sicherheitssystem oder in den sonstigen sicherheitstechnisch wichtigen Systemen oder Anlagenteilen |
+| 2.2 | Schäden oder Leckagen an Rohrleitungen oder Behältern                                                                                           |
+| 2.3 | Kritikalitätsstörungen                                                                                                                          |
+| 2.4 | Absturz von Lasten; Ereignisse bei Handhabung, Lagerung oder Transport                                                                          |
+| 2.5 | Sonstige Ereignisse                                                                                                                             |
+| 3\. | Einwirkungen von außen und anlageninterne Ereignisse                                                                                            |
+| 3.1 | Einwirkungen von außen                                                                                                                          |
+| 3.2 | Anlageninterne Ereignisse                                                                                                                       |
+
 Die Meldekriterien für meldepflichtige Ereignisse in Anlagen zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität nehmen, soweit Beispiele aus dem Bereich der Anlagentechnik angegeben werden, Bezug auf Reaktoranlagen mit Leichtwasserreaktoren. Bei anderen Reaktortypen sind die Meldekriterien sinngemäß anzuwenden.
 
 1\.

@@ -3200,7 +3200,8 @@ Für ein Kind bis zur Vollendung des sechsten Lebensjahres.
 
 # Anlage – (zu § 34)Ausstattung mit persönlichem Schulbedarf in Euro
 
-(Fundstelle: BGBl. I 2019, 535)
+(Fundstelle: BGBl. I 2019, 535;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>

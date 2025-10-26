@@ -3614,6 +3614,7 @@
 - [LuftVStG](laws/LuftVStG.md) Luftverkehrsteuergesetz
 - [LuftVStG§19Abs3u5Bek 2020](laws/LuftVStG§19Abs3u5Bek_2020.md) Bekanntmachung nach § 19 Absatz 3 Satz 2 und 3 sowie nach § 19 Absatz 5 Satz 2 und 3 des Luftverkehrsteuergesetzes
 - [LuftVZO](laws/LuftVZO.md) Luftverkehrs-Zulassungs-Ordnung
+- [LuKIFG](laws/LuKIFG.md) Gesetz zur Finanzierung von Infrastrukturinvestitionen von Ländern und Kommunen
 - [LuKrFrühErkV](laws/LuKrFrühErkV.md) Verordnung über die Zulässigkeit der Anwendung der Niedrigdosis-Computertomographie zur Früherkennung von Lungenkrebs bei rauchenden Personen 1
 - [LVANDZustÄndG](laws/LVANDZustÄndG.md) Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicherungsanstalten in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes
 - [LwAltschG](laws/LwAltschG.md) Gesetz zur Änderung der Regelungen über Altschulden landwirtschaftlicher Unternehmen
@@ -3706,7 +3707,7 @@
 - [MedFAngAusbV](laws/MedFAngAusbV.md) Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten
 - [MediationsG](laws/MediationsG.md) Mediationsgesetz
 - [MedienKfmAusbV](laws/MedienKfmAusbV.md) Verordnung über die Berufsausbildung zum Medienkaufmann Digital und Print/zur Medienkauffrau Digital und Print
-- [MedInfoFAngAusbV](laws/MedInfoFAngAusbV.md) Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informations/dienste
+- [MedInfoFAngAusbV](laws/MedInfoFAngAusbV.md) Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informationsdienste *)
 - [MeerAbfSchAbk](laws/MeerAbfSchAbk.md) Übereinkommen über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen
 - [MeerEinbrSchAbk](laws/MeerEinbrSchAbk.md) Übereinkommen zur Verhütung der Meeresverschmutzung durch das Einbringen durch Schiffe und Luftfahrzeuge
 - [MeistPrFRGlV](laws/MeistPrFRGlV.md) Verordnung zur Gleichstellung französischer Meisterprüfungszeugnisse mit Meisterprüfungszeugnissen im Handwerk
@@ -5515,6 +5516,7 @@
 - [StrRehaG](laws/StrRehaG.md) Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet
 - [StrRehaHomG](laws/StrRehaHomG.md) Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen
 - [StRSaarEG](laws/StRSaarEG.md) Gesetz über die Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole im Saarland
+- [StruKomLäG](laws/StruKomLäG.md) Gesetz zur Ausführung von Artikel 109 Absatz 3 Satz 6 und 7 des Grundgesetzes
 - [StruktHiGAufhDEFASG](laws/StruktHiGAufhDEFASG.md) Gesetz zur Aufhebung des Strukturhilfegesetzes und zur Aufstockung des Fonds "Deutsche Einheit"
 - [StrVerjFrG](laws/StrVerjFrG.md) Gesetz über die Berechnung strafrechtlicher Verjährungsfristen
 - [StrVerkSiV](laws/StrVerkSiV.md) Verordnung zur Sicherstellung des Straßenverkehrs

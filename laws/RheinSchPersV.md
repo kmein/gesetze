@@ -1909,10 +1909,7 @@ in der Betriebsform A1, A2 oder B und für den Ausrüstungsstandard S1 oder S2</
 </tr>
 <tr class="even">
 <td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1</td>
-<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige<br />
-Anzahl<br />
-der Fahrgäste:<br />
-von 501 bis 1 000</td>
+<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige Anzahl der Fahrgäste: bis 75</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Schiffsführer ................</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -1968,10 +1965,7 @@ von 501 bis 1 000</td>
 </tr>
 <tr class="even">
 <td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">2</td>
-<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige<br />
-Anzahl<br />
-der Fahrgäste:<br />
-von 1 001 bis 2 000</td>
+<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige Anzahl der Fahrgäste: von 76 bis 250</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Schiffsführer ................</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1   oder   1</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
@@ -2027,10 +2021,7 @@ von 1 001 bis 2 000</td>
 </tr>
 <tr class="even">
 <td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">3</td>
-<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige<br />
-Anzahl<br />
-der Fahrgäste:<br />
-von 251 bis 600</td>
+<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige Anzahl der Fahrgäste: von 251 bis 600</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Schiffsführer ................</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1   oder   1</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
@@ -2086,10 +2077,7 @@ von 251 bis 600</td>
 </tr>
 <tr class="even">
 <td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">4</td>
-<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige<br />
-Anzahl<br />
-der Fahrgäste:<br />
-von 601 bis 1 000</td>
+<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige Anzahl der Fahrgäste: von 601 bis 1 000</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Schiffsführer ................</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
@@ -2145,10 +2133,7 @@ von 601 bis 1 000</td>
 </tr>
 <tr class="even">
 <td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">5</td>
-<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige<br />
-Anzahl<br />
-der Fahrgäste:<br />
-von 1 001 bis 2 000</td>
+<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige Anzahl der Fahrgäste: von 1 001 bis 2 000</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Schiffsführer ................</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2   oder   2</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
@@ -2198,16 +2183,13 @@ von 1 001 bis 2 000</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1             1</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">-</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 </tr>
 <tr class="even">
 <td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">6</td>
-<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige<br />
-Anzahl<br />
-der Fahrgäste:<br />
-über 2000</td>
+<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige Anzahl der Fahrgäste: über 2 000</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Schiffsführer ................</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
@@ -2313,8 +2295,7 @@ Besatzungsmitglieder</td>
 </tr>
 <tr class="even">
 <td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1</td>
-<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige Anzahl der Fahrgäste:<br />
-von 501 bis 1000</td>
+<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige Anzahl der Fahrgäste: von 501 bis 1 000</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Schiffsführer ................</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
@@ -2370,8 +2351,7 @@ von 501 bis 1000</td>
 </tr>
 <tr class="even">
 <td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">2</td>
-<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige Anzahl der Fahrgäste:<br />
-von 1001 bis 2000</td>
+<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige Anzahl der Fahrgäste: von 1 001 bis 2 000</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Schiffsführer ................</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2   oder   2</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
@@ -2481,10 +2461,7 @@ in der Betriebsform A1, A2 oder B und für den Ausrüstungsstandard S1 oder S2</
 </tr>
 <tr class="even">
 <td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1</td>
-<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige<br />
-Anzahl<br />
-der Betten:<br />
-bis 50</td>
+<td rowspan="6" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Zulässige Anzahl der Betten: bis 50</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Schiffsführer ................</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>

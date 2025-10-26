@@ -164,7 +164,11 @@ b) nicht in einer Wohnung lebt, weil ihr allein oder mit einer weiteren Person e
      
     zum 1.1.2022 vgl. V v. 13.10.2021 I 4674
      
-    zum 1.1.2024 vgl. V v. 24.10.2023 I Nr. 287 (bezeichnet als § 8 Abs. 1) +++) 
+    zum 1.1.2024 vgl. V v. 24.10.2023 I Nr. 287 (bezeichnet als § 8 Abs. 1)
+     
+    zum 1.1.2025 vgl. V v. 18.10.2024 I Nr. 312 (bezeichnet als § 8 Abs. 1)
+     
+    zum 1.1.2026 vgl. Art. 1 V v. 17.10.2025 I Nr. 243 (bezeichnet als § 8 Abs. 1) +++) 
 
 # § 9 – Ausstattung mit persönlichem Schulbedarf
 

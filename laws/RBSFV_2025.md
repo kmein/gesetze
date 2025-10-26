@@ -95,9 +95,9 @@ zweite Schulhalbjahr</th>
 </tbody>
 </table>
 
-# § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Außerkrafttreten der Regelbedarfsstufen-Fortschreibungsverordnung 2025
 
-Diese Verordnung tritt am 1. Januar 2025 in Kraft. Gleichzeitig tritt die Regelbedarfsstufen-Fortschreibungsverordnung 2024 vom 24. Oktober 2023 (BGBl. 2023 I Nr. 287) außer Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2025 außer Kraft.
 
 # Schlussformel
 

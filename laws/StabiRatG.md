@@ -21,7 +21,7 @@ Der Stabilitätsrat wird bei der Bundesregierung eingerichtet.
 
 (5) Der Stabilitätsrat gibt sich eine Geschäftsordnung. Diese regelt auch die Vertretung im Verhinderungsfall.
 
-(6) Zur Unterstützung der Aufgaben des Stabilitätsrates wird ein Sekretariat eingerichtet, das jeweils aus einer Vertreterin oder einem Vertreter aus dem Bundesministerium der Finanzen sowie aus einer oder einem von der Finanzministerkonferenz der Länder benannten Vertreterin oder Vertreter besteht.
+(6) Zur Unterstützung der Aufgaben des Stabilitätsrates wird ein Sekretariat eingerichtet, das gemeinsam von einer Vertreterin oder einem Vertreter aus dem Bundesministerium der Finanzen sowie von einer oder einem von der Finanzministerkonferenz der Länder benannten Vertreterin oder Vertreter geleitet wird.
 
 # § 2 – Aufgaben des Stabilitätsrates
 
@@ -31,11 +31,13 @@ Der Stabilitätsrat wird bei der Bundesregierung eingerichtet.
 
 2. die Überwachung der Einhaltung der Verschuldungsregel des Artikels 109 Absatz 3 des Grundgesetzes durch den Bund und alle einzelnen Länder und
 
-3. die Überwachung der Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes.
+3. die Stellungnahme zu dem gesamtstaatlichen Nettoausgabenpfad, der gemäß Verordnung (EU) 2024/1263 in dem von der Bundesregierung einzureichenden mittelfristigen finanzpolitisch-strukturellen Plan festzulegen ist, und
+
+4. die Überwachung der Einhaltung des vom Rat der Europäischen Union gebilligten gesamtstaatlichen Nettoausgabenpfades sowie die Beobachtung der Entwicklung der gesamtstaatlichen Schuldenquote und des gesamtstaatlichen Defizits.
 
 Dem Stabilitätsrat können durch Gesetz weitere Aufgaben übertragen werden.
 
-(2) Der Stabilitätsrat fasst zu den Ergebnissen der Überwachung jeweils einen Beschluss.
+(2) Der Stabilitätsrat fasst zu den Ergebnissen der Überwachung und zur Stellungnahme jeweils einen Beschluss.
 
 # § 3 – Fortlaufende Haushaltsüberwachung
 
@@ -47,13 +49,13 @@ Dem Stabilitätsrat können durch Gesetz weitere Aufgaben übertragen werden.
 
 # § 4 – Prüfung einer drohenden Haushaltsnotlage
 
-(1) Der Stabilitätsrat beschließt für die einzelnen Kennziffern nach § 3 Absatz 1 Schwellenwerte, deren Überschreitung auf eine drohende Haushaltsnotlage hinweisen kann. Für den Bund sind gegenüber den Ländern abweichende Schwellenwerte festzulegen.
+(1) Der Stabilitätsrat beschließt für die einzelnen Kennziffern nach § 3 Absatz 1 Schwellenwerte, deren Nichteinhaltung auf eine drohende Haushaltsnotlage hinweisen kann. Für den Bund sind gegenüber den Ländern abweichende Schwellenwerte festzulegen.
 
 (2) Der Stabilitätsrat leitet eine Prüfung ein, ob beim Bund oder in einem bestimmten Land eine Haushaltsnotlage droht, wenn
 
 1. der Bund oder ein Land im Rahmen der allgemeinen Haushaltsüberwachung darauf hinweist, dass für den von ihm zu verantwortenden Haushalt eine Notlage droht, oder
 
-2. der Bund oder ein Land bei der Mehrzahl der Kennziffern nach § 3 Absatz 1 die Schwellenwerte nach Absatz 1 überschreitet oder
+2. der Bund oder ein Land bei der Mehrzahl der Kennziffern nach § 3 Absatz 1 die Schwellenwerte nach Absatz 1 nicht einhält oder
 
 3. für den Bund oder ein Land die Projektion nach § 3 Absatz 1 eine entsprechende Entwicklung ergibt. In diesem Fall kann von einer Prüfung abgesehen werden, wenn die Ergebnisse der Projektion bereits Gegenstand einer Prüfung waren und sich danach nicht wesentlich geändert haben.
 
@@ -83,21 +85,29 @@ Dem Stabilitätsrat können durch Gesetz weitere Aufgaben übertragen werden.
 
 (2) Der Stabilitätsrat überprüft jährlich die von jeder Gebietskörperschaft ermittelten Ergebnisse eines zwischen Bund und Ländern abgestimmten Analysesystems, das sich an den Vorgaben und Verfahren aus Rechtsakten aufgrund des Vertrages über die Arbeitsweise der Europäischen Union zur Einhaltung der Haushaltsdisziplin orientiert. Grundlage ist ein einheitliches Konjunkturbereinigungsverfahren.
 
-# § 7 – Überwachung der Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes
+# § 7 – Stellungnahme zur Festlegung des Nettoausgabenpfades und Überwachung der Einhaltung des im mittelfristigen finanzpolitisch-strukturellen Plan festgelegten Nettoausgabenpfades
 
-(1) Der Stabilitätsrat überprüft auf Grundlage einer Schätzung des gesamtstaatlichen Finanzierungssaldos zweimal jährlich die Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes für das laufende Jahr und die vier folgenden Jahre.
+(1) Der Stabilitätsrat gibt vor Einreichung des mittelfristigen finanzpolitisch-strukturellen Plans durch die Bundesregierung eine Stellungnahme zu dem im mittelfristigen finanzpolitisch-strukturellen Plan festzulegenden Nettoausgabenpfad ab.
 
-(2) Kommt die Überprüfung zu dem Ergebnis, dass die Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits überschritten wird und keine zulässige Abweichung gemäß § 51 Absatz 2 Satz 2 des Haushaltsgrundsätzegesetzes vorliegt, empfiehlt der Stabilitätsrat Maßnahmen, die geeignet sind, das überhöhte Finanzierungsdefizit zu beseitigen. Zu berücksichtigen sind dabei die Empfehlungen des Rates nach der Verordnung (EG) Nr. 1466/97 des Rates vom 7. Juli 1997 über den Ausbau der haushaltspolitischen Überwachung und der Überwachung und Koordinierung der Wirtschaftspolitiken (ABl. L 209 vom 2.8.1997, S. 1), die zuletzt durch die Verordnung (EU) Nr. 1175/2011 (ABl. L 306 vom 23.11.2011, S. 12) geändert worden ist. Die vom Stabilitätsrat beschlossenen Empfehlungen werden der Bundesregierung und den Landesregierungen zur Weiterleitung an die jeweiligen Parlamente zugeleitet.
+(2) Der Stabilitätsrat überprüft zweimal jährlich die Einhaltung des im mittelfristigen finanzpolitisch-strukturellen Plan festgelegten Nettoausgabenpfades. Dies erfolgt auf Grundlage einer Projektion des gesamtstaatlichen Finanzierungssaldos, des gesamtstaatlichen Schuldenstandes sowie der Entwicklung der gesamtstaatlichen Nettoausgaben. Die zugrunde liegende Projektion umfasst einmal das laufende Jahr und einmal das laufende Jahr sowie, bei Vorliegen einer entsprechenden Finanzplanung des Bundes, die verbleibenden Jahre der Planungsperiode des mittelfristigen finanzpolitisch-strukturellen Plans, mindestens aber die drei folgenden Jahre. Zu berücksichtigen sind dabei zulässige Abweichungen gemäß der Artikel 25 und 26 der Verordnung (EU) 2024/1263 sowie gemäß Artikel 2 der Verordnung (EG) Nr. 1467/97.
 
-(3) Falls kein Beschluss des Stabilitätsrates über eine Empfehlung nach Absatz 2 zustande kommt, leiten die Vorsitzenden des Stabilitätsrates der Bundesregierung und den Landesregierungen zur Weiterleitung an die jeweiligen Parlamente einen Bericht zu, in dem das Ergebnis der Überprüfung und die vom Stabilitätsrat erörterten Maßnahmen darzulegen sind.
+(3) Ergibt die Überprüfung, dass der im mittelfristigen finanzpolitisch-strukturellen Plan festgelegte Nettoausgabenpfad überschritten wird und keine zulässige Abweichung gemäß der Artikel 25 und 26 der Verordnung (EU) 2024/1263 sowie gemäß Artikel 2 der Verordnung (EG) Nr. 1467/97 vorliegt, empfiehlt der Stabilitätsrat Maßnahmen, die geeignet sind, die Überschreitung des festgelegten Nettoausgabenpfades zu beseitigen. Zu berücksichtigen sind dabei die Empfehlungen des Rates gemäß Artikel 4 der Verordnung (EU) 2024/1263. Die vom Stabilitätsrat beschlossenen Empfehlungen werden der Bundesregierung und den Landesregierungen zur Weiterleitung an die jeweiligen Parlamente zugeleitet.
+
+(4) Falls kein Beschluss des Stabilitätsrates über eine Empfehlung nach Absatz 3 zustande kommt, leiten die Vorsitzenden des Stabilitätsrates der Bundesregierung und den Landesregierungen zur Weiterleitung an die jeweiligen Parlamente einen Bericht zu, in dem das Ergebnis der Überprüfung und die vom Stabilitätsrat erörterten Maßnahmen darzulegen sind.
 
 # § 8 – Unabhängiger Beirat des Stabilitätsrates
 
-(1) Zur Unterstützung des Stabilitätsrates bei der Überwachung der Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes wird ein unabhängiger Beirat eingerichtet. Der Beirat gibt sich mit der Mehrheit von zwei Dritteln seiner Mitglieder eine Geschäftsordnung. Für den Beirat entstehende Kosten tragen Bund und Länder je zur Hälfte.
+(1) Zur Unterstützung des Stabilitätsrates bei der Überwachung der Einhaltung des im mittelfristigen finanzpolitisch-strukturellen Plan festgelegten Nettoausgabenpfades nach § 7 wird ein unabhängiger Beirat eingerichtet. Der Beirat gibt sich mit der Mehrheit von zwei Dritteln seiner Mitglieder eine Geschäftsordnung. Für den Beirat entstehende Kosten tragen Bund und Länder je zur Hälfte.
 
-(2) Mitglieder des Beirats sind je ein Vertreter der Deutschen Bundesbank und des Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung, ein Vertreter der an der Gemeinschaftsdiagnose beteiligten Forschungsinstitute, je zwei für die Dauer von fünf Jahren von Bund und Ländern durch deren Vertreter im Stabilitätsrat benannte Sachverständige und je ein für die Dauer von fünf Jahren von den kommunalen Spitzenverbänden und den Spitzenorganisationen der Sozialversicherung benannter Sachverständiger.
+(2) Mitglieder des Beirats sind
 
-(3) Der Beirat gibt eine Stellungnahme zur Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes ab. Die Vorsitzende oder der Vorsitzende des Beirats nimmt insoweit an der Beratung des Stabilitätsrates teil. Kommt der Beirat zu der Auffassung, dass die Obergrenze nicht eingehalten wird und keine zulässige Abweichung gemäß § 51 Absatz 2 Satz 2 des Haushaltsgrundsätzegesetzes vorliegt, gibt er Empfehlungen für Maßnahmen ab, die geeignet sind, das überhöhte Finanzierungsdefizit zu beseitigen. Die Stellungnahme und Empfehlungen des Beirats sind dem Bericht nach § 7 Absatz 3 beizufügen.
+1. je eine Sachverständige oder ein Sachverständiger der Deutschen Bundesbank, des Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung und der an der Gemeinschaftsdiagnose beteiligten Forschungsinstitute,
+
+2. je zwei Sachverständige, die für die Dauer von fünf Jahren von Bund und Ländern durch deren Vertreterin oder Vertreter im Stabilitätsrat benannt werden, und
+
+3. je eine Sachverständige oder ein Sachverständiger, die oder der für die Dauer von fünf Jahren von den kommunalen Spitzenverbänden und den Spitzenorganisationen der Sozialversicherung benannt wird.
+
+(3) Der Beirat gibt zweimal jährlich eine Stellungnahme zur Einhaltung des im mittelfristigen finanzpolitisch-strukturellen Plan festgelegten Nettoausgabenpfades ab und bewertet in diesem Zusammenhang die Einheitlichkeit, Kohärenz und Wirksamkeit des nationalen Haushaltsrahmens. Hierfür stellt der Stabilitätsrat dem Beirat die Projektion gemäß § 7 Absatz 2 zur Verfügung. Die oder der Vorsitzende des Beirats nimmt zu diesem Tagesordnungspunkt an der Beratung des Stabilitätsrates teil. Kommt der Beirat zu der Auffassung, dass der im mittelfristigen finanzpolitisch-strukturellen Plan festgelegte Nettoausgabenpfad überschritten wird und keine zulässige Abweichung gemäß der Artikel 25 und 26 der Verordnung (EU) 2024/1263 sowie gemäß Artikel 2 der Verordnung (EG) Nr. 1467/97 vorliegt, kann der Beirat Maßnahmen empfehlen, die geeignet sind, die Überschreitung des festgelegten Nettoausgabenpfades zu beseitigen. Die Stellungnahme und die Empfehlungen des Beirats sind den Empfehlungen nach § 7 Absatz 3 beziehungsweise dem Bericht nach § 7 Absatz 4 beizufügen.
 
 (4) Der Stabilitätsrat veröffentlicht die vom Beirat vorgelegten Stellungnahmen und Empfehlungen.
 
