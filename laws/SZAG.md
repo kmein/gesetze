@@ -13,6 +13,8 @@ Dieses Gesetz regelt die innerstaatliche Aufteilung von Einlagen sowie Geldbuße
 
 Bund und Länder tragen den jeweils auf sie entfallenden Anteil an Sanktionszahlungen. Die Zahlungspflicht der Länder gegenüber dem Bund entsteht mit der Bekanntgabe eines Beschlusses des Rates über Sanktionszahlungen an die Bundesrepublik Deutschland.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 20.10.2025 I Nr. 247 +++)
+
 # § 2 – Aufteilung
 
 (1) Der Anteil des Bundes an Sanktionszahlungen beträgt 65 Prozent, der Anteil der Länder 35 Prozent. 35 Prozent des Länderanteils tragen die Länder entsprechend ihrer Einwohnerzahl. 65 Prozent des Länderanteils tragen die Länder nach dem Anteil des Finanzierungsdefizits des jeweiligen Landes an der Summe der Finanzierungsdefizite aller Länder (Verursachungsbeitrag); Länder, die einen ausgeglichenen oder positiven Finanzierungssaldo aufweisen, bleiben bei der Ermittlung der Summe der Finanzierungsdefizite unberücksichtigt und werden an dem Teil der Sanktionslasten, der sich nach dem Verursachungsbeitrag bemisst, nicht beteiligt.

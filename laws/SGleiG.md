@@ -405,7 +405,7 @@ Es sollen Angebote zur Betreuung von Kindern und pflegebedürftigen Angehörigen
 
 6. Unterstützungsleistungen für verbündete Streitkräfte im Rahmen der Landes- und Bündnisverteidigung.
 
-(++++ § 17: Zur Anwendung vgl. § 2 Abs. 6 +++)
+(+++ § 17: Zur Anwendung vgl. § 2 Abs. 6 +++)
 
 # § 18 – Zweck
 

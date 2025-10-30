@@ -41,7 +41,9 @@
 
 11. die Generalstaatsanwaltschaften der Länder,
 
-12. die Staatsanwaltschaften der Länder.
+12. die Staatsanwaltschaften der Länder,
+
+13. die mit der Verhütung, Aufdeckung und Untersuchung terroristischer oder sonstiger schwerer Straftaten betrauten Dienststellen der Landespolizeibehörden, soweit sie nicht bereits von Nummer 3 erfasst sind.
 
 (2) Das Bundesministerium des Innern und für Heimat wird ermächtigt, weitere Behörden der Länder, die zum Einreise- /Ausreisesystem zum Zwecke der Verhütung, Aufdeckung und Untersuchung von terroristischen Straftaten oder sonstigen schweren Straftaten nach Kapitel IV der Verordnung (EU) 2017/2226 zugangsberechtigt sind, auf Ersuchen des jeweils zuständigen Landes durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zu bestimmen.
 

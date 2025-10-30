@@ -466,13 +466,15 @@ Praktische Ausbildung
 
 # Anlage 3 – (zu § 1 Abs. 2)
 
-(Inhalt: nicht darstellbare Anlage 3,  
-Fundstelle: BGBl. I 1980, 1898)
+(Fundstelle: BGBl. I 1980, 1898)
+
+<a href="../normengrafiken/bgbl1_1980/j1898_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 4 – (zu § 10 Abs. 2 Satz 1)
 
-(Inhalt: nicht darstellbare Anlage 4,  
-Fundstelle: BGBl. I 1980, 1899)
+(Fundstelle: BGBl. I 1980, 1899)
+
+<a href="../normengrafiken/bgbl1_1980/j1899_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 5 – (zu § 15)
 

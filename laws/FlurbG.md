@@ -89,7 +89,7 @@ Die Flurbereinigungsbehörde hat die Beteiligten nach Maßgabe der §§ 12 bis 1
 
 # § 12
 
-(1) Für die Ermittlung der Beteiligten sind die Eintragungen im Grundbuch maßgebend. Die Flurbereinigungsbehörde kann das Eigentum oder andere Recht an Grundstücken für das Verfahren als nachgewiesen ansehen, wenn derjenige, der sich auf ein solches Recht beruft, es durch eine öffentliche Urkunde glaubhaft macht oder eine Bescheinigung der Gemeinde vorlegt, daß er das Grundstück wie ein Eigentümer besitzt oder das Recht ausübt. Meldet ein anderer entgegenstehende Rechte bei der Flurbereinigungsbehörde an, so gilt § 13.
+(1) Für die Ermittlung der Beteiligten sind die Eintragungen im Grundbuch maßgebend. Die Flurbereinigungsbehörde kann das Eigentum oder andere Rechte an Grundstücken für das Verfahren als nachgewiesen ansehen, wenn derjenige, der sich auf ein solches Recht beruft, es durch eine öffentliche Urkunde glaubhaft macht oder eine Bescheinigung der Gemeinde vorlegt, daß er das Grundstück wie ein Eigentümer besitzt oder das Recht ausübt. Meldet ein anderer entgegenstehende Rechte bei der Flurbereinigungsbehörde an, so gilt § 13.
 
 (2) Die Flurbereinigungsbehörde teilt dem Grundbuchamt und der für die Führung des Liegenschaftskatasters zuständigen Behörde die Anordnung des Flurbereinigungsverfahrens einschließlich der in das Verfahren einbezogenen Grundstücke (§ 4), die Änderungen des Flurbereinigungsgebiets (§ 8), die Einstellung des Flurbereinigungsverfahrens (§ 9), den Zeitpunkt des Eintritts des neuen Rechtszustands (§§ 61 bis 63) und die Schlußfeststellung (§ 149) mit, dem Grundbuchamt zudem die Abgabe der Unterlagen an die für die Führung des Liegenschaftskatasters zuständige Behörde (§ 81 Abs. 2).
 

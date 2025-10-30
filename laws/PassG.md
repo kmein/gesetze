@@ -387,7 +387,7 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 (1) Für Passangelegenheiten im Geltungsbereich dieses Gesetzes sind die von den Ländern bestimmten Behörden zuständig (Passbehörden). Die Ausstellung ausschließlich als Passersatz bestimmter amtlicher Ausweise mit kurzer Gültigkeitsdauer obliegt den für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständigen Behörden und Dienststellen.
 
-(2) Für Passangelegenheiten im Ausland ist das Auswärtige Amt mit den von ihm bestimmten Auslandsvertretungen der Bundesrepublik Deutschland zuständig (Passbehörde).
+(2) Für Passangelegenheiten im Ausland ist das Auswärtige Amt mit den von ihm bestimmten Auslandsvertretungen der Bundesrepublik Deutschland zuständig (Passbehörde). Passangelegenheit im Sinne des Satzes 1 ist auch die Durchführung des Verfahrens nach Maßgabe von Artikel 4 der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024 als Mitgliedstaat, dessen Staatsangehörigkeit der Antragsteller besitzt.
 
 (3) Im Geltungsbereich dieses Gesetzes ist die Passbehörde örtlich zuständig, in deren Bezirk der Passbewerber oder der Inhaber eines Passes für seine Wohnung, bei mehreren Wohnungen für seine Hauptwohnung, gemeldet ist. Im Ausland ist die Passbehörde örtlich zuständig, in deren Bezirk sich der Passbewerber oder der Inhaber eines Passes gewöhnlich aufhält. Ist hiernach keine Zuständigkeit begründet, so ist die Passbehörde zuständig, in deren Bezirk er sich vorübergehend aufhält.
 
@@ -398,6 +398,8 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 (5) Passbehörde für amtliche Pässe ist das Auswärtige Amt.
 
 (6) Für die Sicherstellung sind die Passbehörden und die zur Feststellung von Personalien ermächtigten Behörden und Beamten zuständig.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 27.10.2025 I Nr. 256 +++)
 
 # § 20 – Gebühren und Auslagen, Verordnungsermächtigung
 
@@ -459,11 +461,13 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 3. der Durchführung dieses Gesetzes.
 
-(4) Personenbezogene Daten im Passregister sind mindestens bis zur Ausstellung eines neuen Passes, höchstens jedoch bis zu fünf Jahren nach dem Ablauf der Gültigkeit des Passes, auf den sie sich beziehen, zu speichern und dann zu löschen. Für die Passbehörden nach § 19 Absatz 2 bei der Wahrnehmung konsularischer Aufgaben beträgt die Frist 30 Jahre.
+(4) Personenbezogene Daten im Passregister sind mindestens bis zur Ausstellung eines neuen Passes, höchstens jedoch bis zu fünf Jahren nach dem Ablauf der Gültigkeit des Passes, auf den sie sich beziehen, zu speichern und dann zu löschen. Für die Passbehörden nach § 19 Absatz 2 bei der Wahrnehmung konsularischer Aufgaben beträgt die Frist 30 Jahre. Die zu den in Artikel 15 Absatz 1 Satz 1 der Richtlinie (EU) 2019/997 genannten Zwecken verarbeiteten, personenbezogenen Daten der Person, die bei einem anderen Mitgliedstaat der Europäischen Union einen EU-Rückkehrausweis im Sinne des Artikels 3 Absatz 1 Satz 1 der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024 beantragt hat, sind von der nach § 19 Absatz 2 Satz 1 zuständigen Passbehörde nur so lange wie erforderlich, höchstens aber für zwei Jahre, im Passregister zu speichern. Die Daten sind im Anschluss zu löschen. Die Speicherung nach Satz 3 ist unzulässig, wenn die Person nicht die Voraussetzung des § 1 Absatz 4 Satz 1 erster Halbsatz erfüllt.
 
 (5) Die zuständige Passbehörde führt den Nachweis über Pässe, für die sie eine Ermächtigung gemäß § 19 Absatz 4 Satz 2 erteilt hat.
 
 (6) Wird eine andere als die ausstellende Passbehörde örtlich zuständig, darf sie die in Absatz 2 genannten und zur Wahrnehmung ihrer Aufgaben erforderlichen Daten mit Ausnahme der biometrischen Daten speichern. Absatz 4 gilt entsprechend.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 27.10.2025 I Nr. 256 +++)
 
 # § 22 – Verarbeitung und Nutzung der Daten im Passregister
 

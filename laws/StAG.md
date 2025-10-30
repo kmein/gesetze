@@ -137,13 +137,7 @@ Die Voraussetzungen nach Satz 1 Nummer 1 und 7 muss ein Ausländer nicht erfüll
 
 (2) Der Ehegatte oder eingetragene Lebenspartner und die minderjährigen Kinder des Ausländers können nach Maßgabe des Absatzes 1 mit eingebürgert werden, auch wenn sie sich noch nicht seit fünf Jahren rechtmäßig im Inland aufhalten.
 
-(3) Die Aufenthaltsdauer nach Absatz 1 Satz 1 kann auf bis zu drei Jahre verkürzt werden, wenn der Ausländer
-
-1. besondere Integrationsleistungen, insbesondere besonders gute schulische, berufsqualifizierende oder berufliche Leistungen oder bürgerschaftliches Engagement nachweist,
-
-2. die Voraussetzung des § 8 Absatz 1 Nummer 4 erfüllt und
-
-3. die Anforderungen einer Sprachprüfung der Stufe C1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen erfüllt.
+(3) (weggefallen)
 
 (3a) (weggefallen)
 

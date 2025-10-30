@@ -935,7 +935,7 @@ Sind sie zugleich Soldatinnen im Ruhestand oder Soldaten im Ruhestand oder Perso
 Die Kürzung der Dienstbezüge besteht in der bruchteilmäßigen Verminderung der jeweiligen Dienstbezüge um mindestens ein Zwanzigstel und höchstens ein Fünftel für die Dauer von sechs Monaten bis zu fünf Jahren. Besteht ein Versorgungsanspruch aus einem früheren öffentlich-rechtlichen Dienstverhältnis, bleibt bei dessen Regelung die Kürzung der Dienstbezüge unberücksichtigt.
 
 (+++ § 61: Zur Geltung vgl. § 66 +++)  
-(++++ § 61: Zur Geltung vgl. § 69 Abs. 2 +++)
+(+++ § 61: Zur Geltung vgl. § 69 Abs. 2 +++)
 
 # § 62 – Beförderungsverbot
 
@@ -979,10 +979,10 @@ Ist bei einer Soldatin oder einem Soldaten, bei einer Soldatin im Ruhestand oder
 
 (4) In minder schweren Fällen kann das Gericht den Verlust des Dienstgrades ausschließen, jedoch den Dienstgrad herabsetzen, ohne an die Beschränkungen nach § 64 Absatz 1 und 2 gebunden zu sein.
 
-(++++ § 65 Abs. 4: Zur Geltung vgl. § 67 Abs. 1 +++)  
-(++++ § 65 Abs. 2 und 3: Zur Geltung vgl. § 67 Abs. 2 +++)  
-(++++ § 65 Abs. 1: Zur Geltung vgl. § 68 +++)  
-(++++ § 65 Abs. 4: Zur Geltung vgl. § 69 Abs. 4 +++)
+(+++ § 65 Abs. 4: Zur Geltung vgl. § 67 Abs. 1 +++)  
+(+++ § 65 Abs. 2 und 3: Zur Geltung vgl. § 67 Abs. 2 +++)  
+(+++ § 65 Abs. 1: Zur Geltung vgl. § 68 +++)  
+(+++ § 65 Abs. 4: Zur Geltung vgl. § 69 Abs. 4 +++)
 
 # § 66 – Kürzung des Ruhegehalts
 

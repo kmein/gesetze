@@ -2891,7 +2891,7 @@ Ein Verteidiger kann nicht gleichzeitig mehrere derselben Tat Beschuldigte verte
 
 (2) Ist ein nicht auf freiem Fuß befindlicher Beschuldigter einer Tat nach § 129a, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches dringend verdächtig, soll das Gericht anordnen, dass im Verkehr mit Verteidigern Schriftstücke und andere Gegenstände zurückzuweisen sind, sofern sich der Absender nicht damit einverstanden erklärt, dass sie zunächst dem nach § 148a zuständigen Gericht vorgelegt werden. Besteht kein Haftbefehl wegen einer Straftat nach § 129a, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches, trifft die Entscheidung das Gericht, das für den Erlass eines Haftbefehls zuständig wäre. Ist der schriftliche Verkehr nach Satz 1 zu überwachen, sind für Gespräche mit Verteidigern Vorrichtungen vorzusehen, die die Übergabe von Schriftstücken und anderen Gegenständen ausschließen.
 
-(++++ § 148 Abs. 2 findet gemäß Artikel 2 Abs. 2 des Gesetzes zur Änderung der Strafprozeßordnung vom 14. April 1978 (BGBl. I S. 497) auch Anwendung, wenn Gegenstand der Untersuchung eine vor dem Inkrafttreten des § 129a des Strafgesetzbuches begangene Straftat nach § 129 des Strafgesetzbuches ist, sofern der Zweck oder die Tätigkeit der kriminellen Vereinigung darauf gerichtet war,
+(+++ § 148 Abs. 2 findet gemäß Artikel 2 Abs. 2 des Gesetzes zur Änderung der Strafprozeßordnung vom 14. April 1978 (BGBl. I S. 497) auch Anwendung, wenn Gegenstand der Untersuchung eine vor dem Inkrafttreten des § 129a des Strafgesetzbuches begangene Straftat nach § 129 des Strafgesetzbuches ist, sofern der Zweck oder die Tätigkeit der kriminellen Vereinigung darauf gerichtet war,
 
 1. Mord, Totschlag oder Völkermord (§§ 211, 212, 220a),
 

@@ -7,97 +7,27 @@
   
 
 |         |             |             |             |
-|:--------|:------------|:------------|:------------|
-|         | Bund        | Länder      | Gemeinden   |
+|:--------|:-----------:|:-----------:|:-----------:|
+|         |    Bund     |   Länder    |  Gemeinden  |
 | ab 2020 | 52,81398351 | 45,19007254 | 1,99594395. |
 
-(2) Die im Folgenden genannten Beträge verändern die Anteile des Bundes, der Länder und Gemeinden nach Absatz 1:
+(2) Die im Folgenden genannten Beträge verändern die Anteile des Bundes, der Länder und Gemeinden nach Absatz 1:  
+  
 
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 28%" />
-<col style="width: 37%" />
-<col style="width: 20%" />
-</colgroup>
-<thead data-valign="bottom">
-<tr class="header" data-valign="middle">
-<th style="text-align: left; font-weight: normal;" data-valign="middle" data-charoff="50">Kalenderjahr</th>
-<th style="text-align: center; font-weight: normal;" data-valign="middle" data-charoff="50">Bund</th>
-<th style="text-align: center; font-weight: normal;" data-valign="middle" data-charoff="50">Länder</th>
-<th style="text-align: center; font-weight: normal;" data-valign="middle" data-charoff="50">Gemeinden</th>
-</tr>
-</thead>
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">2020</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">minus 20 533 717 472 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">15 858 934 915 Euro</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">4 674 782 557 Euro</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">2021</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">minus 17 142 407 683 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">12 988 407 683 Euro</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">4 154 000 000 Euro</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">2022</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">minus 15 008 682 590 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">12 608 682 590 Euro</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">2023</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">minus 13 792 407 683 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">11 392 407 683 Euro</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">2024</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">minus 12 480 407 683 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">10 080 407 683 Euro</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">2025</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">minus 11 305 407 683 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 8 905 407 683 Euro</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">2026</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">minus 11 440 407 683 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 9 040 407 683 Euro</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">2027</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">minus 11 689 407 683 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 9 289 407 683 Euro</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">2028</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">minus 12 043 907 683 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 9 643 907 683 Euro</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">2029</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">minus 12 322 407 683
-Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 9 922 407 683 Euro</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">ab 2030</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">minus 11 717 407 683 Euro</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> 9 317 407 683 Euro</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">2 400 000 000 Euro</td>
-</tr>
-</tbody>
-</table>
+|              |                           |                     |                     |
+|:----------|:-------------------:|:------------------------:|:-------------:|
+| Kalenderjahr |           Bund            |       Länder        |      Gemeinden      |
+| 2020         | minus 20 533 717 472 Euro | 15 858 934 915 Euro | 4 674 782 557 Euro  |
+| 2021         | minus 17 142 407 683 Euro | 12 988 407 683 Euro | 4 154 000 000 Euro  |
+| 2022         | minus 15 008 682 590 Euro | 12 608 682 590 Euro | 2 400 000 000 Euro  |
+| 2023         | minus 13 792 407 683 Euro | 11 392 407 683 Euro | 2 400 000 000 Euro  |
+| 2024         | minus 12 480 407 683 Euro | 10 080 407 683 Euro | 2 400 000 000 Euro  |
+| 2025         | minus 12 226 540 183 Euro |  9 578 540 183 Euro | 2 648 000 000 Euro  |
+| 2026         | minus 13 102 407 683 Euro |  9 086 407 683 Euro | 4 016 000 000 Euro  |
+| 2027         | minus 15 539 407 683 Euro |  9 335 407 683 Euro | 6 204 000 000 Euro  |
+| 2028         | minus 17 010 907 683 Euro |  9 689 907 683 Euro | 7 321 000 000 Euro  |
+| 2029         | minus 15 318 407 683 Euro |  9 968 407 683 Euro | 5 350 000 000 Euro  |
+| ab 2030      | minus 11 763 407 683 Euro |  9 363 407 683 Euro | 2 400 000 000 Euro. |
 
 (2a) Zur finanziellen Beteiligung der Länder an der Bekämpfung der durch die Starkregenfälle und das Hochwasser im Juli 2021 verursachten Schäden und dem Wiederaufbau erhöhen sich die in Absatz 2 genannten Beträge für den Bund um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050; die in Absatz 2 genannten Beträge für die Länder verringern sich entsprechend um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050.
 
@@ -128,8 +58,6 @@ c) im Jahr 2023 um 1 884 Millionen Euro und
 d) in den Jahren 2024, 2025 und 2026 um jeweils 1 993 Millionen Euro.
 
 (6) Um den finanziellen Lasten der Länder, die ihnen aus der Umsetzung des Aktionsprogramms „Aufholen nach Corona für Kinder und Jugendliche für die Jahre 2021 und 2022“ im eigenen Zuständigkeitsbereich entstehen, Rechnung zu tragen, verringern sich die in Absatz 2 genannten Beträge für den Bund im Jahr 2021 um weitere 430 Millionen Euro und im Jahr 2022 um weitere 860 Millionen Euro; die in Absatz 2 genannten Beträge für die Länder erhöhen sich entsprechend im Jahr 2021 um weitere 430 Millionen Euro und im Jahr 2022 um weitere 860 Millionen Euro.
-
-§ 1 Abs. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde nach der Angabe "minus 12 322 407 683" das Wort "Euro" eingefügt
 
 # § 2 – Verteilung der Umsatzsteuer unter den Ländern
 
@@ -270,6 +198,55 @@ Bund und Länder überprüfen gemeinsam die Voraussetzungen der Vergabe in einem
 
 § 11 idF d. G v. 20.12.2001 I 3955, 3956: Nach Maßgabe der Entscheidungsformel mit Art. 107 Abs. 2 Satz 3 GG vereinbar gem. BVerfGE v. 19.10.2006 I 2652 - 2 BvF 3/03 -
 
+# § 11 – Bundesergänzungszuweisungen
+
+(1) Der Bund gewährt aus seinen Mitteln leistungsschwachen Ländern Bundesergänzungszuweisungen zur ergänzenden Deckung ihres allgemeinen Finanzbedarfs sowie zum Ausgleich von Sonderlasten nach Maßgabe der Absätze 2 bis 6.
+
+(2) Zur ergänzenden Deckung ihres allgemeinen Finanzbedarfs erhalten leistungsschwache Länder allgemeine Bundesergänzungszuweisungen. Leistungsschwach im Sinne von Satz 1 ist ein Land, dessen Summe aus Finanzkraftmesszahl und Zuschlag nach § 10 Fehlbeträge an 99,75 Prozent der Ausgleichsmesszahl des Ausgleichsjahres aufweist. Ein leistungsschwaches Land erhält 80 Prozent dieser Fehlbeträge als allgemeine Bundesergänzungszuweisungen.
+
+(3) Zum Ausgleich von Sonderlasten durch die strukturelle Arbeitslosigkeit und der daraus entstehenden überproportionalen Lasten bei der Zusammenführung von Arbeitslosenhilfe und Sozialhilfe für Erwerbsfähige erhalten nachstehende Länder jährlich folgende Sonderbedarfs-Bundesergänzungszuweisungen:  
+  
+
+|                        |                  |
+|:-----------------------|-----------------:|
+| Brandenburg            |  6 840 000 Euro, |
+| Mecklenburg-Vorpommern |  4 608 000 Euro, |
+| Sachsen                | 11 484 000 Euro, |
+| Sachsen-Anhalt         |  6 732 000 Euro, |
+| Thüringen              |  6 336 000 Euro. |
+
+  
+  
+Bund und Länder überprüfen gemeinsam in einem Abstand von drei Jahren, beginnend im Jahr 2022, in welcher Höhe die Sonderlasten dieser Länder ab dem jeweils folgenden Jahr auszugleichen sind. Die Sonderlasten sind entsprechend den im Jahr vor der Überprüfung gegebenen einwohnerbezogenen Verhältnissen der Bedarfsgemeinschaften und der Entwicklung der Kosten der Unterkunft im Durchschnitt der Länder Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen im Verhältnis zum Durchschnitt der Länder Baden-Württemberg, Bayern, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein in Bezug zum Ausgangsjahr 2005 zu ermitteln.
+
+(4) Wegen überdurchschnittlich hoher Kosten politischer Führung erhalten nachstehende Länder jährlich folgende Sonderbedarfs-Bundesergänzungszuweisungen, wenn sie im jeweiligen Ausgleichsjahr das Kriterium der Leistungsschwäche gemäß Absatz 2 Satz 2 erfüllen:
+
+|                        |                  |
+|:-----------------------|-----------------:|
+| Berlin                 | 62 831 000 Euro, |
+| Brandenburg            | 76 524 000 Euro, |
+| Bremen                 | 62 501 000 Euro, |
+| Hamburg                | 78 699 000 Euro, |
+| Mecklenburg-Vorpommern | 77 987 000 Euro, |
+| Rheinland-Pfalz        | 54 410 000 Euro, |
+| Saarland               | 70 652 000 Euro, |
+| Sachsen                | 54 510 000 Euro, |
+| Sachsen-Anhalt         | 78 157 000 Euro, |
+| Schleswig-Holstein     | 72 969 000 Euro, |
+| Thüringen              | 78 404 000 Euro. |
+
+  
+  
+Bund und Länder überprüfen gemeinsam die Voraussetzungen der Vergabe in einem Abstand von fünf Jahren, erstmals im Jahr 2023, im Hinblick auf die Vergabe im jeweils übernächsten Jahr.
+
+(5) Leistungsschwache Länder, in denen die kommunalen Steuereinnahmen gemäß § 8 Absatz 1 und 2 im Ausgleichsjahr je Einwohner weniger als 80 Prozent des Durchschnitts aller gemäß § 8 Absatz 1 und 2 ermittelten Steuereinnahmen der Gemeinden betragen, erhalten Bundesergänzungszuweisungen zum Ausgleich besonders geringer kommunaler Steuerkraft. Die Zuweisungen erfolgen in Höhe von 53,5 Prozent des zu 80 Prozent des Durchschnitts bestehenden Fehlbetrages. Für die Berechnung der Zuweisungen sind die nach § 9 Absatz 1 ermittelten Einwohnerzahlen maßgebend. Absatz 2 Satz 2 gilt entsprechend.
+
+(6) Zuweisungen werden leistungsschwachen Ländern gewährt, die aus Mitteln der Forschungsförderung nach Artikel 91b des Grundgesetzes einen Forschungsnettozufluss in Höhe von weniger als 95 Prozent des den Ländern durchschnittlich gewährten Forschungsnettozuflusses erhalten haben. Diese Länder erhalten pro Einwohner Ergänzungszuweisungen des Bundes in Höhe von 35 Prozent des zu 95 Prozent des durchschnittlich von den Ländern vereinnahmten Forschungsnettozuflusses bestehenden Fehlbetrages. Forschungsnettozufluss ist der Nettozufluss pro Einwohner in der von der Gemeinsamen Wissenschaftskonferenz für das dem Ausgleichsjahr sieben Jahre vorausgehende Jahr festgestellten Höhe. Absatz 2 Satz 2 gilt entsprechend.
+
+(7) Die Bundesergänzungszuweisungen nach § 11 sind abweichend von § 10 Abs. 3, § 12 Abs. 1 und 4 des Haushaltsgrundsätzegesetzes sowie von § 13 Abs. 3, § 15 Abs. 1 und § 17 Abs. 1 der Bundeshaushaltsordnung bei den Einnahmen darzustellen.
+
+§ 11 idF d. G v. 20.12.2001 I 3955, 3956: Nach Maßgabe der Entscheidungsformel mit Art. 107 Abs. 2 Satz 3 GG vereinbar gem. BVerfGE v. 19.10.2006 I 2652 - 2 BvF 3/03 -
+
 # § 12 – Feststellung der Umsatzsteueranteile
 
 Das Bundesministerium der Finanzen stellt nach Ablauf des Ausgleichsjahres die endgültige Höhe der Länderanteile an der Umsatzsteuer durch Rechtsverordnung fest, die der Zustimmung des Bundesrates bedarf.
@@ -307,6 +284,12 @@ Unterschiede zwischen den vorläufig gezahlten und den endgültig festgestellten
 (1) Auf die Bundesergänzungszuweisungen nach § 11 Absatz 2 und 5 werden am 15. März, 15. Juni, 15. September und 15. Dezember Abschlagszahlungen nach Maßgabe der Verhältnisse des jeweils vorhergehenden Abrechnungszeitraums entrichtet. Gleichzeitig werden die mit der Abschlagszahlung des vorausgegangenen Zahlungstermins zu viel oder zu wenig gezahlten Beträge verrechnet. Für die endgültige Abrechnung der Bundesergänzungszuweisungen gilt § 15 entsprechend.
 
 (2) Die Bundesergänzungszuweisungen nach § 11 Absatz 3, 4 und 6 sind mit je einem Viertel ihres Betrages am 15. März, 15. Juni, 15. September und 15. Dezember fällig.
+
+# § 16 – Zahlungsverkehr zum Vollzug der Bundesergänzungszuweisungen
+
+(1) Auf die Bundesergänzungszuweisungen nach § 11 Absatz 2, 4, 5 und 6 werden am 15. März, 15. Juni, 15. September und 15. Dezember Abschlagszahlungen nach Maßgabe der Verhältnisse des jeweils vorhergehenden Abrechnungszeitraums entrichtet. Gleichzeitig werden die mit der Abschlagszahlung des vorausgegangenen Zahlungstermins zu viel oder zu wenig gezahlten Beträge verrechnet. Für die endgültige Abrechnung der Bundesergänzungszuweisungen gilt § 15 entsprechend.
+
+(2) Die Bundesergänzungszuweisungen nach § 11 Absatz 3 sind mit je einem Viertel ihres Betrages am 15. März, 15. Juni, 15. September und 15. Dezember fällig.
 
 # § 17 – Vollzug der Verteilung des Gemeindeanteils an der Umsatzsteuer
 

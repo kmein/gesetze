@@ -11,7 +11,7 @@ Diese Verordnung regelt die Fortgeltung der Aufenthaltserlaubnisse gemäß § 24
 
 # § 2 – Fortgeltung der Aufenthaltserlaubnisse gemäß § 24 Absatz 1 Aufenthaltsgesetz
 
-(1) Aufenthaltserlaubnisse ukrainischer Staatsangehöriger gemäß § 24 Absatz 1 Aufenthaltsgesetz, die am 1. Februar 2025 gültig sind, gelten einschließlich ihrer Auflagen und Nebenbestimmungen bis zum 4. März 2026 ohne Verlängerung im Einzelfall fort. Für Staatenlose und Staatsangehörige anderer Drittstaaten als der Ukraine gilt die Fortgeltung der Aufenthaltserlaubnisse nur, sofern sie
+(1) Aufenthaltserlaubnisse ukrainischer Staatsangehöriger gemäß § 24 Absatz 1 Aufenthaltsgesetz, die am 1. Februar 2026 gültig sind, gelten einschließlich ihrer Auflagen und Nebenbestimmungen bis zum 4. März 2027 ohne Verlängerung im Einzelfall fort. Für Staatenlose und Staatsangehörige anderer Drittstaaten als der Ukraine gilt die Fortgeltung der Aufenthaltserlaubnisse nur, sofern sie
 
 1. am 24. Februar 2022 in der Ukraine internationalen Schutz oder einen gleichwertigen nationalen Schutz genossen haben,
 
@@ -27,7 +27,7 @@ Die Fortgeltung endet mit einer Verlängerung der Aufenthaltserlaubnis im Einzel
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(2) Diese Verordnung tritt mit Ablauf des 4. März 2026 außer Kraft.
+(2) Diese Verordnung tritt mit Ablauf des 4. März 2027 außer Kraft.
 
 # Schlussformel
 

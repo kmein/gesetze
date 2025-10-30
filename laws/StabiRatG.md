@@ -39,6 +39,8 @@ Dem Stabilitätsrat können durch Gesetz weitere Aufgaben übertragen werden.
 
 (2) Der Stabilitätsrat fasst zu den Ergebnissen der Überwachung und zur Stellungnahme jeweils einen Beschluss.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 20.10.2025 I Nr. 247 +++)
+
 # § 3 – Fortlaufende Haushaltsüberwachung
 
 (1) Der Stabilitätsrat überwacht die aktuelle Lage und die Entwicklung der Haushalte von Bund und Ländern. Dafür legt er für Vergleichszwecke geeignete Kennziffern, die auf Daten zur aktuellen Haushaltslage und zur Finanzplanung basieren, sowie eine Projektion der mittelfristigen Haushaltsentwicklung auf Basis einheitlicher Annahmen fest. Die Kennziffern und die Projektion bilden zusammen das Analysesystem der fortlaufenden Haushaltsüberwachung.
@@ -95,6 +97,8 @@ Dem Stabilitätsrat können durch Gesetz weitere Aufgaben übertragen werden.
 
 (4) Falls kein Beschluss des Stabilitätsrates über eine Empfehlung nach Absatz 3 zustande kommt, leiten die Vorsitzenden des Stabilitätsrates der Bundesregierung und den Landesregierungen zur Weiterleitung an die jeweiligen Parlamente einen Bericht zu, in dem das Ergebnis der Überprüfung und die vom Stabilitätsrat erörterten Maßnahmen darzulegen sind.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 20.10.2025 I Nr. 247 +++)
+
 # § 8 – Unabhängiger Beirat des Stabilitätsrates
 
 (1) Zur Unterstützung des Stabilitätsrates bei der Überwachung der Einhaltung des im mittelfristigen finanzpolitisch-strukturellen Plan festgelegten Nettoausgabenpfades nach § 7 wird ein unabhängiger Beirat eingerichtet. Der Beirat gibt sich mit der Mehrheit von zwei Dritteln seiner Mitglieder eine Geschäftsordnung. Für den Beirat entstehende Kosten tragen Bund und Länder je zur Hälfte.
@@ -110,6 +114,8 @@ Dem Stabilitätsrat können durch Gesetz weitere Aufgaben übertragen werden.
 (3) Der Beirat gibt zweimal jährlich eine Stellungnahme zur Einhaltung des im mittelfristigen finanzpolitisch-strukturellen Plan festgelegten Nettoausgabenpfades ab und bewertet in diesem Zusammenhang die Einheitlichkeit, Kohärenz und Wirksamkeit des nationalen Haushaltsrahmens. Hierfür stellt der Stabilitätsrat dem Beirat die Projektion gemäß § 7 Absatz 2 zur Verfügung. Die oder der Vorsitzende des Beirats nimmt zu diesem Tagesordnungspunkt an der Beratung des Stabilitätsrates teil. Kommt der Beirat zu der Auffassung, dass der im mittelfristigen finanzpolitisch-strukturellen Plan festgelegte Nettoausgabenpfad überschritten wird und keine zulässige Abweichung gemäß der Artikel 25 und 26 der Verordnung (EU) 2024/1263 sowie gemäß Artikel 2 der Verordnung (EG) Nr. 1467/97 vorliegt, kann der Beirat Maßnahmen empfehlen, die geeignet sind, die Überschreitung des festgelegten Nettoausgabenpfades zu beseitigen. Die Stellungnahme und die Empfehlungen des Beirats sind den Empfehlungen nach § 7 Absatz 3 beziehungsweise dem Bericht nach § 7 Absatz 4 beizufügen.
 
 (4) Der Stabilitätsrat veröffentlicht die vom Beirat vorgelegten Stellungnahmen und Empfehlungen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 20.10.2025 I Nr. 247 +++)
 
 # § 9 – Veröffentlichung der Beschlüsse und Unterrichtung der Parlamente
 
