@@ -53,7 +53,7 @@ j) unbeschadet des § 50 Satz 1 des Bundes-Immissionsschutzgesetzes, die Auswirk
 
 8. die Belange
 
-a) der Wirtschaft, auch ihrer mittelständischen Struktur im Interesse einer verbrauchernahen Versorgung der Bevölkerung,
+a) der Wirtschaft, auch ihrer mittelständischen Struktur im Interesse einer verbrauchernahen Versorgung der Bevölkerung, einschließlich ihrer Bestands- und Entwicklungsinteressen,
 
 b) der Land- und Forstwirtschaft,
 
@@ -65,7 +65,11 @@ e) der Versorgung, insbesondere mit Energie und Wasser, einschließlich der Vers
 
 f) der Sicherung von Rohstoffvorkommen,
 
-9. die Belange des Personen- und Güterverkehrs und der Mobilität der Bevölkerung, auch im Hinblick auf die Entwicklungen beim Betrieb von Kraftfahrzeugen, etwa der Elektromobilität, einschließlich des öffentlichen Personennahverkehrs und des nicht motorisierten Verkehrs, unter besonderer Berücksichtigung einer auf Vermeidung und Verringerung von Verkehr ausgerichteten städtebaulichen Entwicklung,
+9. die Belange des Personen- und Güterverkehrs und der Mobilität der Bevölkerung unter besonderer Berücksichtigung einer auf Vermeidung und Verringerung von Verkehr ausgerichteten städtebaulichen Entwicklung, einschließlich
+
+a) des Bestands- und Entwicklungsinteresses bei Verkehrsanlagen und
+
+b) der Belange des öffentlichen Personennahverkehrs, des Verkehrs mit elektrisch betriebenen Kraftfahrzeugen und des nicht motorisierten Verkehrs,
 
 10. die Belange der Verteidigung und des Zivilschutzes sowie der zivilen Anschlussnutzung von Militärliegenschaften,
 
@@ -319,13 +323,21 @@ b) Wald;
 
 23. Gebiete, in denen
 
-a) zum Schutz vor schädlichen Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes bestimmte Luft verunreinigende Stoffe nicht oder nur beschränkt verwendet werden dürfen,
+a) zum Schutz vor schädlichen Umwelteinwirkungen nach § 3 Absatz 1 des Bundes-Immissionsschutzgesetzes
+
+aa)  
+bestimmte Werte zum Schutz vor Geräuschimmissionen nicht überschritten werden dürfen, wobei in begründeten Fällen Abweichungen von den Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503), die zuletzt durch Verwaltungsvorschrift vom 1. Juni 2017 (BAnz AT 08.06.2017 B5) geändert worden ist, in der jeweils geltenden Fassung, zulässig sind, oder
+
+bb)  
+bestimmte Geräuschemissionskontingente nicht überschritten werden dürfen oder
+
+cc) bestimmte Luft verunreinigende Stoffe nicht oder nur beschränkt verwendet werden dürfen,
 
 b) bei der Errichtung von Gebäuden oder bestimmten sonstigen baulichen Anlagen bestimmte bauliche und sonstige technische Maßnahmen für die Erzeugung, Nutzung oder Speicherung von Strom, Wärme oder Kälte aus erneuerbaren Energien oder Kraft-Wärme-Kopplung getroffen werden müssen,
 
 c) bei der Errichtung, Änderung oder Nutzungsänderung von nach Art, Maß oder Nutzungsintensität zu bestimmenden Gebäuden oder sonstigen baulichen Anlagen in der Nachbarschaft von Betriebsbereichen nach § 3 Absatz 5a des Bundes-Immissionsschutzgesetzes bestimmte bauliche und sonstige technische Maßnahmen, die der Vermeidung oder Minderung der Folgen von Störfällen dienen, getroffen werden müssen;
 
-24. die von der Bebauung freizuhaltenden Schutzflächen und ihre Nutzung, die Flächen für besondere Anlagen und Vorkehrungen zum Schutz vor schädlichen Umwelteinwirkungen und sonstigen Gefahren im Sinne des Bundes-Immissionsschutzgesetzes sowie die zum Schutz vor solchen Einwirkungen oder zur Vermeidung oder Minderung solcher Einwirkungen zu treffenden baulichen und sonstigen technischen Vorkehrungen, einschließlich von Maßnahmen zum Schutz vor schädlichen Umwelteinwirkungen durch Geräusche, wobei die Vorgaben des Immissionsschutzrechts unberührt bleiben;
+24. die von der Bebauung freizuhaltenden Schutzflächen und ihre Nutzung, die Flächen für besondere Anlagen und Vorkehrungen zum Schutz vor schädlichen Umwelteinwirkungen und sonstigen Gefahren im Sinne des Bundes-Immissionsschutzgesetzes sowie die zum Schutz vor solchen Einwirkungen oder zur Vermeidung oder Minderung solcher Einwirkungen zu treffenden baulichen und sonstigen technischen Vorkehrungen, einschließlich von Maßnahmen zum Schutz vor schädlichen Umwelteinwirkungen durch Geräusche, wobei die Vorgaben des Immissionsschutzrechts und Festsetzungen nach § 9 Absatz 1 Nummer 23 Buchstabe a Doppelbuchstabe aa unberührt bleiben;
 
 25. für einzelne Flächen oder für ein Bebauungsplangebiet oder Teile davon sowie für Teile baulicher Anlagen mit Ausnahme der für landwirtschaftliche Nutzungen oder Wald festgesetzten Flächen
 
@@ -755,7 +767,7 @@ In den Fällen der Nummer 1 hat die Gemeinde bei der Ausübung des Vorkaufsrecht
 
 und wenn die Abweichung auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist.
 
-(3) In einem Gebiet mit einem angespannten Wohnungsmarkt, das nach § 201a bestimmt ist, kann mit Zustimmung der Gemeinde im Einzelfall von den Festsetzungen des Bebauungsplans zugunsten des Wohnungsbaus befreit werden, wenn die Befreiung auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist. Von Satz 1 kann nur bis zum Ende der Geltungsdauer der Rechtsverordnung nach § 201a Gebrauch gemacht werden. Die Befristung in Satz 2 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Verfahren von der Vorschrift Gebrauch gemacht werden kann. Für die Zustimmung der Gemeinde nach Satz 1 gilt § 36 Absatz 2 Satz 2 entsprechend.
+(3) Mit Zustimmung der Gemeinde kann im Einzelfall oder in mehreren vergleichbaren Fällen von den Festsetzungen des Bebauungsplans zugunsten des Wohnungsbaus befreit werden, wenn die Befreiung auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist. Die Befreiung nach Satz 1 ist mit öffentlichen Belangen insbesondere dann nicht vereinbar, wenn sie aufgrund einer überschlägigen Prüfung voraussichtlich zusätzliche erhebliche Umweltauswirkungen hat.
 
 # § 32 – Nutzungsbeschränkungen auf künftigen Gemeinbedarfs-, Verkehrs-, Versorgungs- und Grünflächen
 
@@ -781,7 +793,7 @@ Sind überbaute Flächen in dem Bebauungsplan als Baugrundstücke für den Gemei
 
 (1) Innerhalb der im Zusammenhang bebauten Ortsteile ist ein Vorhaben zulässig, wenn es sich nach Art und Maß der baulichen Nutzung, der Bauweise und der Grundstücksfläche, die überbaut werden soll, in die Eigenart der näheren Umgebung einfügt und die Erschließung gesichert ist. Die Anforderungen an gesunde Wohn- und Arbeitsverhältnisse müssen gewahrt bleiben; das Ortsbild darf nicht beeinträchtigt werden.
 
-(2) Entspricht die Eigenart der näheren Umgebung einem der Baugebiete, die in der auf Grund des § 9a erlassenen Verordnung bezeichnet sind, beurteilt sich die Zulässigkeit des Vorhabens nach seiner Art allein danach, ob es nach der Verordnung in dem Baugebiet allgemein zulässig wäre; auf die nach der Verordnung ausnahmsweise zulässigen Vorhaben ist § 31 Absatz 1, im Übrigen ist § 31 Absatz 2 entsprechend anzuwenden.
+(2) Entspricht die Eigenart der näheren Umgebung einem der Baugebiete, die in der auf Grund des § 9a erlassenen Verordnung bezeichnet sind, beurteilt sich die Zulässigkeit des Vorhabens nach seiner Art allein danach, ob es nach der Verordnung in dem Baugebiet allgemein zulässig wäre; auf die nach der Verordnung ausnahmsweise zulässigen Vorhaben ist § 31 Absatz 1, im Übrigen ist § 31 Absatz 2 und 3 Satz 1 über die Befreiung entsprechend anzuwenden.
 
 (3) Von Vorhaben nach Absatz 1 oder 2 dürfen keine schädlichen Auswirkungen auf zentrale Versorgungsbereiche in der Gemeinde oder in anderen Gemeinden zu erwarten sein.
 
@@ -791,7 +803,7 @@ Sind überbaute Flächen in dem Bebauungsplan als Baugrundstücke für den Gemei
 
 a) der Erweiterung, Änderung, Nutzungsänderung oder Erneuerung eines zulässigerweise errichteten Gewerbe- oder Handwerksbetriebs,
 
-b) der Erweiterung, Änderung oder Erneuerung eines zulässigerweise errichteten, Wohnzwecken dienenden Gebäudes oder
+b) der Erweiterung, Änderung oder Erneuerung zulässigerweise errichteter Gebäude, wenn hierdurch neue Wohnungen geschaffen oder vorhandener Wohnraum wieder nutzbar wird, oder
 
 c) der Nutzungsänderung einer zulässigerweise errichteten baulichen Anlage zu Wohnzwecken, einschließlich einer erforderlichen Änderung oder Erneuerung,
 
@@ -800,6 +812,8 @@ c) der Nutzungsänderung einer zulässigerweise errichteten baulichen Anlage zu 
 3. auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist.
 
 Satz 1 findet keine Anwendung auf Einzelhandelsbetriebe, die die verbrauchernahe Versorgung der Bevölkerung beeinträchtigen oder schädliche Auswirkungen auf zentrale Versorgungsbereiche in der Gemeinde oder in anderen Gemeinden haben können. In den Fällen des Satzes 1 Nummer 1 Buchstabe b und c kann darüber hinaus vom Erfordernis des Einfügens im Einzelfall im Sinne des Satzes 1 in mehreren vergleichbaren Fällen abgewichen werden, wenn die übrigen Voraussetzungen des Satzes 1 vorliegen und die Aufstellung eines Bebauungsplans nicht erforderlich ist.
+
+(3b) Mit Zustimmung der Gemeinde kann im Einzelfall oder in mehreren vergleichbaren Fällen vom Erfordernis des Einfügens in die nähere Umgebung abgewichen werden, wenn das Vorhaben der Errichtung eines Wohngebäudes dient und auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist.
 
 (4) Die Gemeinde kann durch Satzung
 
@@ -949,21 +963,44 @@ In begründeten Einzelfällen gilt die Rechtsfolge des Satzes 1 auch für die Ne
 
 Bei Aufstellung der Satzung sind die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 13 Absatz 2 Satz 1 Nummer 2 und 3 sowie Satz 2 entsprechend anzuwenden. § 10 Absatz 3 ist entsprechend anzuwenden. Von der Satzung bleibt die Anwendung des Absatzes 4 unberührt.
 
-# § 36 – Beteiligung der Gemeinde und der höheren Verwaltungsbehörde
+(+++ § 35 Abs. 5 Satz 1 bis 3: Zur Anwendung vgl. § 37a Abs. 1 +++)
 
-(1) Über die Zulässigkeit von Vorhaben nach den §§ 31, 33 bis 35 wird im bauaufsichtlichen Verfahren von der Baugenehmigungsbehörde im Einvernehmen mit der Gemeinde entschieden. Das Einvernehmen der Gemeinde ist auch erforderlich, wenn in einem anderen Verfahren über die Zulässigkeit nach den in Satz 1 bezeichneten Vorschriften entschieden wird; dies gilt nicht für Vorhaben der in § 29 Absatz 1 bezeichneten Art, die der Bergaufsicht unterliegen. Richtet sich die Zulässigkeit von Vorhaben nach § 30 Absatz 1, stellen die Länder sicher, dass die Gemeinde rechtzeitig vor Ausführung des Vorhabens über Maßnahmen zur Sicherung der Bauleitplanung nach den §§ 14 und 15 entscheiden kann. In den Fällen des § 35 Absatz 2 und 4 kann die Landesregierung durch Rechtsverordnung allgemein oder für bestimmte Fälle festlegen, dass die Zustimmung der höheren Verwaltungsbehörde erforderlich ist.
+# § 36 – Einvernehmen der Gemeinde und Zustimmung der höheren Verwaltungsbehörde
 
-(2) Das Einvernehmen der Gemeinde und die Zustimmung der höheren Verwaltungsbehörde dürfen nur aus den sich aus den §§ 31, 33, 34 und 35 ergebenden Gründen versagt werden. Das Einvernehmen der Gemeinde und die Zustimmung der höheren Verwaltungsbehörde gelten als erteilt, wenn sie nicht binnen zwei Monaten nach Eingang des Ersuchens der Genehmigungsbehörde verweigert werden; dem Ersuchen gegenüber der Gemeinde steht die Einreichung des Antrags bei der Gemeinde gleich, wenn sie nach Landesrecht vorgeschrieben ist. Die nach Landesrecht zuständige Behörde kann ein rechtswidrig versagtes Einvernehmen der Gemeinde ersetzen.
+(1) Über die Zulässigkeit von Vorhaben nach § 31 Absatz 1 und 2, den §§ 33, 34 Absatz 1, 2 und 3a sowie § 35 wird im bauaufsichtlichen Verfahren von der Baugenehmigungsbehörde im Einvernehmen mit der Gemeinde entschieden. Das Einvernehmen der Gemeinde ist auch erforderlich, wenn in einem anderen Verfahren über die Zulässigkeit nach den in Satz 1 bezeichneten Vorschriften entschieden wird; dies gilt nicht für Vorhaben der in § 29 Absatz 1 bezeichneten Art, die der Bergaufsicht unterliegen. Richtet sich die Zulässigkeit von Vorhaben nach § 30 Absatz 1, stellen die Länder sicher, dass die Gemeinde rechtzeitig vor Ausführung des Vorhabens über Maßnahmen zur Sicherung der Bauleitplanung nach den §§ 14 und 15 entscheiden kann. In den Fällen des § 35 Absatz 2 und 4 kann die Landesregierung durch Rechtsverordnung allgemein oder für bestimmte Fälle festlegen, dass die Zustimmung der höheren Verwaltungsbehörde erforderlich ist.
+
+(2) Das Einvernehmen der Gemeinde und die Zustimmung der höheren Verwaltungsbehörde dürfen nur aus den sich aus § 31 Absatz 1 und 2, den §§ 33, 34 Absatz 1, 2 und 3a sowie aus § 35 ergebenden Gründen versagt werden. Das Einvernehmen der Gemeinde und die Zustimmung der höheren Verwaltungsbehörde gelten als erteilt, wenn sie nicht binnen zwei Monaten nach Eingang des Ersuchens der Genehmigungsbehörde verweigert werden; dem Ersuchen gegenüber der Gemeinde steht die Einreichung des Antrags bei der Gemeinde gleich, wenn sie nach Landesrecht vorgeschrieben ist. Die nach Landesrecht zuständige Behörde kann ein rechtswidrig versagtes Einvernehmen der Gemeinde ersetzen.
+
+(+++ § 36: Zur Anwendung vgl. § 249a Abs. 5 +++)  
+(+++ § 36 Abs. 2 Satz 3: Zur Nichtanwendung vgl. § 37a Abs. 2 +++)
+
+# § 36a – Zustimmung der Gemeinde
+
+(1) Vorhaben nach § 31 Absatz 3 und § 34 Absatz 3b sind nur mit Zustimmung der Gemeinde zulässig, auch wenn die Gemeinde selbst die zuständige Bauaufsichtsbehörde ist. Die Gemeinde erteilt die Zustimmung, wenn das Vorhaben mit ihren Vorstellungen von der städtebaulichen Entwicklung und Ordnung vereinbar ist. Sie kann ihre Zustimmung unter der Bedingung erteilen, dass der Vorhabenträger sich verpflichtet, bestimmte städtebauliche Anforderungen einzuhalten. Die Zustimmung der Gemeinde gilt als erteilt, wenn sie nicht binnen drei Monaten nach Eingang des Ersuchens der Genehmigungsbehörde verweigert wird; § 36 Absatz 2 Satz 2 zweiter Halbsatz gilt entsprechend.
+
+(2) Die Gemeinde kann der betroffenen Öffentlichkeit vor der Entscheidung über die Zustimmung Gelegenheit zur Stellungnahme zu dem Antrag innerhalb angemessener Frist geben, höchstens jedoch innerhalb eines Monats. In diesem Fall verlängert sich die nach Absatz 1 Satz 4 anzuwendende Entscheidungsfrist um die Dauer der Stellungnahmefrist.
+
+(3) Die Entscheidung der Gemeinde über die Zustimmung kann nur im Rahmen des Rechtsbehelfsverfahrens gegen die Zulassungsentscheidung überprüft werden.
 
 # § 37 – Bauliche Maßnahmen des Bundes und der Länder
 
 (1) Macht die besondere öffentliche Zweckbestimmung für bauliche Anlagen des Bundes oder eines Landes erforderlich, von den Vorschriften dieses Gesetzbuchs oder den auf Grund dieses Gesetzbuchs erlassenen Vorschriften abzuweichen oder ist das Einvernehmen mit der Gemeinde nach § 14 oder § 36 nicht erreicht worden, entscheidet die höhere Verwaltungsbehörde.
 
-(2) Handelt es sich dabei um Vorhaben, die der Landesverteidigung, dienstlichen Zwecken der Bundespolizei oder dem zivilen Bevölkerungsschutz dienen, ist nur die Zustimmung der höheren Verwaltungsbehörde erforderlich. Vor Erteilung der Zustimmung hat diese die Gemeinde zu hören. Versagt die höhere Verwaltungsbehörde ihre Zustimmung oder widerspricht die Gemeinde dem beabsichtigten Bauvorhaben, entscheidet das zuständige Bundesministerium im Einvernehmen mit den beteiligten Bundesministerien und im Benehmen mit der zuständigen Obersten Landesbehörde.
+(2) Handelt es sich dabei um Vorhaben, die dienstlichen Zwecken der Bundeswehr oder der verbündeten Streitkräfte, einschließlich der Herstellung und Lagerung von Produkten zur Landesverteidigung, dienstlichen Zwecken der Bundespolizei oder dem zivilen Bevölkerungsschutz dienen, entscheidet über die Abweichung die höhere Verwaltungsbehörde nach Anhörung der Gemeinde. Die Anhörung der Gemeinde ist entbehrlich, wenn diese bereits zuvor beteiligt war. Versagt die höhere Verwaltungsbehörde ihre Zustimmung oder widerspricht die Gemeinde dem beabsichtigten Vorhaben, entscheidet das zuständige Bundesministerium im Einvernehmen mit den beteiligten Bundesministerien und im Benehmen mit der zuständigen obersten Landesbehörde.
 
 (3) Entstehen der Gemeinde infolge der Durchführung von Maßnahmen nach den Absätzen 1 und 2 Aufwendungen für Entschädigungen nach diesem Gesetzbuch, sind sie ihr vom Träger der Maßnahmen zu ersetzen. Muss infolge dieser Maßnahmen ein Bebauungsplan aufgestellt, geändert, ergänzt oder aufgehoben werden, sind ihr auch die dadurch entstandenen Kosten zu ersetzen.
 
 (4) Sollen bauliche Anlagen auf Grundstücken errichtet werden, die nach dem Landbeschaffungsgesetz beschafft werden, sind in dem Verfahren nach § 1 Absatz 2 des Landbeschaffungsgesetzes alle von der Gemeinde oder der höheren Verwaltungsbehörde nach den Absätzen 1 und 2 zulässigen Einwendungen abschließend zu erörtern. Eines Verfahrens nach Absatz 2 bedarf es in diesem Falle nicht.
+
+# § 37a – Außenbereichsvorhaben zur Herstellung oder Lagerung von Produkten zur Landesverteidigung
+
+(1) Vorhaben, die der Herstellung oder Lagerung von Produkten zur Landesverteidigung, insbesondere von Munition, Sprengstoffen und deren Vorprodukten, dienen und deren Erforderlichkeit für die Einsatzfähigkeit und Versorgungssicherheit der Bundeswehr durch eine Erklärung des Bundesministeriums der Verteidigung bestätigt wird, sind, auch sofern sie nicht von § 35 Absatz 1 Nummer 4 erfasst sind, im Außenbereich zulässig, wenn öffentliche Belange nicht entgegenstehen und die Erschließung gesichert ist. Die Erklärung nach Satz 1 ist unanfechtbar; auf ihre Abgabe besteht kein Anspruch. § 35 Absatz 5 Satz 1 bis 3 ist anzuwenden.
+
+(2) Über die Zulässigkeit von Vorhaben nach Absatz 1 entscheidet die höhere Verwaltungsbehörde im Einvernehmen mit der Gemeinde. Lehnt die höhere Verwaltungsbehörde das Vorhaben ab oder versagt die Gemeinde das nach Satz 1 oder nach § 14 Absatz 2 Satz 1 erforderliche Einvernehmen, entscheidet das Bundesministerium der Verteidigung im Benehmen mit der zuständigen obersten Landesbehörde; die Gemeinde ist anzuhören, wenn sie nicht bereits zuvor beteiligt war. § 36 Absatz 2 Satz 3 findet keine Anwendung.
+
+(3) § 37 Absatz 3 gilt entsprechend.
+
+(4) Die Absätze 1 bis 3 sind auch anzuwenden, wenn es um die Änderung oder Erweiterung von Vorhaben nach Absatz 1 geht, für die im bisherigen Außenbereich ein Bebauungsplan aufgestellt wurde. In diesen Fällen kann zugleich von Festsetzungen dieses Bebauungsplans befreit werden.
 
 # § 38 – Bauliche Maßnahmen von überörtlicher Bedeutung auf Grund von Planfeststellungsverfahren; öffentlich zugängliche Abfallbeseitigungsanlagen
 
@@ -3199,7 +3236,7 @@ Landwirtschaft im Sinne dieses Gesetzbuchs ist insbesondere der Ackerbau, die Wi
 
 # § 201a – Verordnungsermächtigung zur Bestimmung von Gebieten mit einem angespannten Wohnungsmarkt
 
-Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Gebiete mit einem angespannten Wohnungsmarkt zu bestimmen. Die Rechtsverordnung nach Satz 1 gilt für die Anwendung der Regelungen in § 25 Absatz 1 Satz 1 Nummer 3, § 31 Absatz 3, § 175 Absatz 2 Satz 2 und § 176 Absatz 1 Satz 1 Nummer 3. Ein Gebiet mit einem angespannten Wohnungsmarkt liegt vor, wenn die ausreichende Versorgung der Bevölkerung mit Mietwohnungen in einer Gemeinde oder einem Teil der Gemeinde zu angemessenen Bedingungen besonders gefährdet ist. Dies kann insbesondere dann der Fall sein, wenn
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Gebiete mit einem angespannten Wohnungsmarkt zu bestimmen. Die Rechtsverordnung nach Satz 1 gilt für die Anwendung der Regelungen in § 25 Absatz 1 Satz 1 Nummer 3, § 175 Absatz 2 Satz 2 und § 176 Absatz 1 Satz 1 Nummer 3. Ein Gebiet mit einem angespannten Wohnungsmarkt liegt vor, wenn die ausreichende Versorgung der Bevölkerung mit Mietwohnungen in einer Gemeinde oder einem Teil der Gemeinde zu angemessenen Bedingungen besonders gefährdet ist. Dies kann insbesondere dann der Fall sein, wenn
 
 1. die Mieten deutlich stärker steigen als im bundesweiten Durchschnitt,
 
@@ -3209,7 +3246,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Gebiete mit ein
 
 4. geringer Leerstand bei großer Nachfrage besteht.
 
-Eine Rechtsverordnung nach Satz 1 muss spätestens mit Ablauf des 31. Dezember 2026 außer Kraft treten. Sie muss begründet werden. Aus der Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. Die betroffenen Gemeinden und die auf Landesebene bestehenden kommunalen Spitzenverbände sollen vor dem Erlass der Rechtsverordnung beteiligt werden.
+Eine Rechtsverordnung nach Satz 1 muss spätestens mit Ablauf des 31. Dezember 2031 außer Kraft treten. Sie muss begründet werden. Aus der Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. Die betroffenen Gemeinden und die auf Landesebene bestehenden kommunalen Spitzenverbände sollen vor dem Erlass der Rechtsverordnung beteiligt werden.
 
 # § 202 – Schutz des Mutterbodens
 
@@ -3414,6 +3451,16 @@ wenn sie nicht innerhalb eines Jahres seit Bekanntmachung des Flächennutzungspl
 # § 216 – Aufgaben im Genehmigungsverfahren
 
 Die Verpflichtung der für das Genehmigungsverfahren zuständigen Behörde, die Einhaltung der Vorschriften zu prüfen, deren Verletzung sich nach den §§ 214 und 215 auf die Rechtswirksamkeit eines Flächennutzungsplans oder einer Satzung nicht auswirkt, bleibt unberührt.
+
+# § 216a – Unwirksamkeit von Bebauungsplänen mit Abweichungen von der Technischen Anleitung zum Schutz gegen Lärm
+
+(1) Erweist sich ein Bebauungsplan mit Festsetzungen nach § 9 Absatz 1 Nummer 23 Buchstabe a Doppelbuchstabe aa, die von der Technischen Anleitung zum Schutz gegen Lärm abweichen, durch gerichtliche Entscheidung als unwirksam, nachdem ein Wohnbauvorhaben entsprechend diesen abweichenden Festsetzungen verwirklicht wurde, entscheiden die zuständige Bauaufsichts- und die zuständige Immissionsschutzbehörde im Einvernehmen über die Anordnung von lärmmindernden Maßnahmen nach dem Bauordnungsrecht oder dem Immissionsschutzrecht, die zur Wahrung gesunder Wohn- und Arbeitsverhältnisse erforderlich sind. Kann ein Einvernehmen nicht erreicht werden, entscheidet die höhere Verwaltungsbehörde. Ist eine geräuschemittierende Anlage betroffen, welche im Wege einer das Bau- und Immissionsschutzrecht konzentrierenden Planfeststellung oder Plangenehmigung genehmigt wurde, entscheidet in Bezug auf diese Anlage die Planfeststellungs- oder Plangenehmigungsbehörde im Benehmen mit der zuständigen Bauaufsichts- und der zuständigen Immissionsschutzbehörde. Dabei ziehen die zuständigen Behörden sämtliche Maßnahmen zur Lärmminderung an der Schallquelle, auf dem Ausbreitungsweg und an der schutzbedürftigen Wohnnutzung in Betracht. In Bezug auf den baulichen Bestand, der auf Grundlage der von der Technischen Anleitung zum Schutz gegen Lärm abweichenden unwirksamen Festsetzungen nach § 9 Absatz 1 Nummer 23 Buchstabe a Doppelbuchstabe aa errichtet wurde, ist die Technische Anleitung zum Schutz gegen Lärm insoweit nicht anzuwenden.
+
+(2) An geräuschemittierende Anlagen, die sich vor dem Hinzutreten des Wohnbauvorhabens nach Absatz 1 Satz 1 bereits in Betrieb befanden, dürfen Anforderungen nach Absatz 1 nur gestellt werden, wenn diese zumutbar sind und sich die Gemeinde, der Vorhabenträger des Wohnbauvorhabens oder ein anderer Eigentümer oder Nutzungsberechtigter zur Übernahme der hierdurch entstehenden Kosten verpflichtet. Weitergehende Anforderungen zum Schutz oder zur Vorsorge gegen schädliche Umwelteinwirkungen durch Geräusche in Bezug auf die auf Grundlage der unwirksamen Festsetzungen hinzugetretene bauliche Nutzung aufgrund des Bundes-Immissionsschutzgesetzes sind ausgeschlossen.
+
+(3) Anstelle von Anordnungen nach den Absätzen 1 und 2 können zur Wahrung gesunder Wohn- und Arbeitsverhältnisse auch vertragliche Vereinbarungen nach § 11 getroffen werden.
+
+(4) Die Möglichkeit der Gemeinde, den Bebauungsplan im ergänzenden Verfahren nach § 214 Absatz 4 zu heilen, bleibt unberührt.
 
 # § 217 – Antrag auf gerichtliche Entscheidung
 
@@ -3815,6 +3862,30 @@ wenn das Vorhaben in einem räumlich-funktionalen Zusammenhang mit einer am 1. J
 
 (5) Die Befristung in den Absätzen 1 bis 4 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende bei der zuständigen Behörde ein Antrag eingegangen ist. Die Änderung einer Anlage, die nach einem der Absätze 1 bis 4 zugelassen worden ist, ist nach dem 31. Dezember 2028 nach demselben Absatz zulässig, wenn durch die Änderung die Grundfläche oder Höhe der Anlage nicht oder nur insoweit vergrößert wird, als dies zur Erfüllung rechtlicher Anforderungen an die Anlage erforderlich ist.
 
+# § 246e – Befristete Sonderregelung für den Wohnungsbau
+
+(1) Mit Zustimmung der Gemeinde kann bis zum Ablauf des 31. Dezember 2030 von den Vorschriften dieses Gesetzbuchs oder den aufgrund dieses Gesetzbuchs erlassenen Vorschriften abgewichen werden, wenn die Abweichung unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist und einem der folgenden Vorhaben dient:
+
+1. der Errichtung Wohnzwecken dienender Gebäude,
+
+2. der Erweiterung, Änderung oder Erneuerung zulässigerweise errichteter Gebäude, wenn hierdurch neue Wohnungen geschaffen oder vorhandener Wohnraum wieder nutzbar wird, oder
+
+3. der Nutzungsänderung zulässigerweise errichteter baulicher Anlagen zu Wohnzwecken, einschließlich einer erforderlichen Änderung oder Erneuerung.
+
+Hat eine Abweichung für Vorhaben im Außenbereich oder eine Abweichung von Bebauungsplänen nach überschlägiger Prüfung voraussichtlich zusätzliche erhebliche Umweltauswirkungen, ist eine Strategische Umweltprüfung nach den §§ 38 bis 46 des Gesetzes über die Umweltverträglichkeitsprüfung durchzuführen. Bei Vorhaben nach den Nummern 18.7 und 18.8 der Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung bleibt die Verpflichtung zur Durchführung einer Umweltverträglichkeitsprüfung oder einer allgemeinen Vorprüfung des Einzelfalls unberührt.
+
+(2) Für die Zustimmung der Gemeinde nach Absatz 1 Satz 1 gilt § 36a entsprechend.
+
+(3) Im Außenbereich sind die Absätze 1 und 2 nur auf Vorhaben anzuwenden, die im räumlichen Zusammenhang mit Flächen stehen, die nach § 30 Absatz 1, Absatz 2 oder § 34 zu beurteilen sind. § 18 Absatz 2 Satz 2 und Absatz 3 Satz 1 des Bundesnaturschutzgesetzes ist anzuwenden.
+
+(4) Die Befristung nach Absatz 1 Satz 1 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Verfahren von der Vorschrift Gebrauch gemacht werden kann.
+
+(5) Wird ein Vorhaben nach Absatz 1 zugelassen, können in entsprechender Anwendung der Absätze 1 bis 4 auch zugelassen werden:
+
+1. den Bedürfnissen der Bewohner dienende Anlagen für kulturelle, gesundheitliche und soziale Zwecke,
+
+2. Läden, die zur Deckung des täglichen Bedarfs für die Bewohner dienen.
+
 # § 247 – Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland
 
 (1) Bei der Aufstellung von Bauleitplänen und sonstigen Satzungen nach diesem Gesetzbuch soll in der Abwägung den Belangen, die sich aus der Entwicklung Berlins als Hauptstadt Deutschlands ergeben, und den Erfordernissen der Verfassungsorgane des Bundes für die Wahrnehmung ihrer Aufgabe besonders Rechnung getragen werden.
@@ -3955,7 +4026,7 @@ Die Darstellung von Regeln für Minderungsmaßnahmen kann entsprechend der Anlag
 
 # § 250 – Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten
 
-(1) Sofern Gebiete mit angespannten Wohnungsmärkten im Sinne von § 201a Satz 3 und 4 vorliegen und diese Gebiete nach Satz 3 bestimmt sind, bedarf bei Wohngebäuden, die bereits am Tag des Inkrafttretens der Rechtsverordnung nach Satz 3 bestanden, die Begründung oder Teilung von Wohnungseigentum oder Teileigentum nach § 1 des Wohnungseigentumsgesetzes der Genehmigung. Das Genehmigungserfordernis nach Satz 1 gilt nicht, wenn sich in dem Wohngebäude nicht mehr als fünf Wohnungen befinden. Die Landesregierungen werden ermächtigt, die Gebiete nach Satz 1 durch Rechtsverordnung zu bestimmen, die spätestens mit Ablauf des 31. Dezember 2025 außer Kraft treten muss. Sie muss begründet werden. Aus der Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. In der Rechtsverordnung nach Satz 3 kann eine von Satz 2 abweichende Anzahl an Wohnungen bestimmt werden; diese Anzahl kann zwischen drei und 15 liegen.
+(1) Sofern Gebiete mit angespannten Wohnungsmärkten im Sinne von § 201a Satz 3 und 4 vorliegen und diese Gebiete nach Satz 3 bestimmt sind, bedarf bei Wohngebäuden, die bereits am Tag des erstmaligen Inkrafttretens einer Rechtsverordnung nach Satz 3 bestanden, die Begründung oder Teilung von Wohnungseigentum oder Teileigentum nach § 1 des Wohnungseigentumsgesetzes der Genehmigung. Das Genehmigungserfordernis nach Satz 1 gilt nicht für Flächen, auf denen zusätzlicher Wohnraum geschaffen wird, oder wenn sich in dem Wohngebäude nicht mehr als fünf Wohnungen befinden. Die Landesregierungen werden ermächtigt, die Gebiete nach Satz 1 durch Rechtsverordnung zu bestimmen, die spätestens mit Ablauf des 31. Dezember 2030 außer Kraft treten muss. Sie muss begründet werden. Aus der Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. In der Rechtsverordnung nach Satz 3 kann eine von Satz 2 abweichende Anzahl an Wohnungen bestimmt werden; diese Anzahl kann zwischen drei und 15 liegen.
 
 (2) Zuständig für die Genehmigung ist die von der Landesregierung bestimmte Stelle. § 173 Absatz 3 gilt entsprechend.
 

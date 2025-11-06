@@ -147,6 +147,8 @@ als Teil des Referenzbetrages ein gesonderter Betrag entsprechend § 5 Abs. 4b d
 
 # §§ 18a bis 18c – (weggefallen)
 
+(+++ §§ 17 bis 19: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)
+
 # § 19 – (weggefallen)
 
 (+++ § 17 bis 19: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)

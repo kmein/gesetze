@@ -410,22 +410,20 @@ Säuglingsinkubatoren sowie
 3  
 externe aktive Komponenten aktiver Implantate.
 
-# Anlage 2 – (zu § 13 Absatz 1 und § 15 Absatz 1)
+# Anlage 2 – (zu § 4 Absatz 8, § 13 Absatz 1 und § 15 Absatz 1)
 
-(Fundstelle: BGBl. 2025 I Nr. 38, S. 13  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 263, S. 1 – 2)
 
 <table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 10%" />
-<col style="width: 71%" />
-<col style="width: 19%" />
+<col />
+<col style="width: 79%" />
+<col style="width: 21%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1</td>
-<td data-valign="top" data-charoff="50">Produkte, die messtechnischen Kontrollen nach § 15 Absatz 1 Satz 1 unterliegen</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" data-valign="top" data-charoff="50">Produkte, die messtechnischen Kontrollen nach § 15 Absatz 1 Satz 1 unterliegen</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -475,38 +473,55 @@ in Jahren</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.5.1</td>
-<td data-valign="top" data-charoff="50">mit Photonenstrahlung im Energiebereich bis 1,33 MeV
-<dl>
+<td data-valign="top" data-charoff="50">mit Photonenstrahlung im Energiebereich bis 1,33 MeV</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td data-valign="top" data-charoff="50"><dl>
 <dt>–</dt>
 <dd>
 allgemein
 </dd>
+</dl></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td data-valign="top" data-charoff="50"><dl>
 <dt>–</dt>
 <dd>
 mit geeigneter Kontrollvorrichtung, wenn der Betreiber in jedem Messbereich des Dosimeters mindestens halbjährliche Kontrollmessungen ausführt, ihre Ergebnisse aufzeichnet und die bestehenden Anforderungen erfüllt werden
 </dd>
 </dl></td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+6</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.5.2</td>
 <td data-valign="top" data-charoff="50">mit Photonenstrahlung im Energiebereich ab 1,33 MeV und mit Elektronenstrahlung aus Beschleunigern mit messtechnischer Kontrolle in Form von Vergleichsmessungen</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">6</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+2</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.5.3</td>
 <td data-valign="top" data-charoff="50">mit Photonenstrahlung aus Co-60-Bestrahlungsanlagen wahlweise nach Nummer 1.5.1 oder Nummer 1.5.2</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.6</td>
 <td data-valign="top" data-charoff="50">Diagnostikdosimeter zur Durchführung von Mess- und Prüfaufgaben, sofern sie nicht nach § 90 der Strahlenschutzverordnung dem Mess- und Eichgesetz unterliegen</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">5</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+<br />
+5</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.7</td>
 <td data-valign="top" data-charoff="50">Tretkurbelergometer zur definierten physikalischen und reproduzierbaren Belastung von Patienten</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><br />
+2</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">2</td>

@@ -13,7 +13,7 @@ Für die Erstattung der Gewerbeanzeige ist zu verwenden
 
 2. in den Fällen der Verlegung des Betriebes im Sinne des § 14 Absatz 1 Satz 2 Nummer 1 der Gewerbeordnung, in den Fällen des Wechsels oder der Ausdehnung des Gegenstandes des Betriebes im Sinne des § 14 Absatz 1 Satz 2 Nummer 2 der Gewerbeordnung und in den Fällen der Änderung des Namens des Gewerbetreibenden im Sinne des § 14 Absatz 1 Satz 2 Nummer 2a der Gewerbeordnung ein Vordruck nach dem Muster der Anlage 2 und
 
-3. in den Fällen der Aufgabe des Betriebes im Sinne des § 14 Absatz 1 Satz 2 Nummer 3 der Gewerbeordnung ein Vordruck nach dem Muster der Anlage 3.
+3. in den Fällen der Aufgabe des Betriebes im Sinne des § 14 Absatz 1 Satz 2 Nummer 3 der Gewerbeordnung ein Vordruck nach dem Muster der Anlage 3 und in den Fällen der Aufgabe des Betriebes im Sinne des § 14 Absatz 1 Satz 2 Nummer 3 in Verbindung mit Satz 3 der Gewerbeordnung ein Vordruck nach dem Muster der Anlage 1.
 
 Die Vordrucke sind vollständig und gut lesbar maschinell oder in Druckbuchstaben auszufüllen.
 
@@ -153,6 +153,8 @@ b) in den Feldern 6, 10, 18 bis 24, 26 und 29 der Anlage 2 als Erhebungsmerkmale
 
 c) in den Feldern 6, 10, 18 bis 26, 28 und 29 der Anlage 3 als Erhebungsmerkmale für die Abmeldung.
 
+(2a) Die Anzeige der Aufgabe des Betriebs im Zusammenhang mit dessen Verlegung in einen anderen Meldebezirk nach § 14 Absatz 1 Satz 2 Nummer 3 in Verbindung mit Satz 3 der Gewerbeordnung gilt zugleich als Anzeige der Abmeldung für die bisherige Betriebsstätte. In diesen Fällen erhebt die für die Abmeldung zuständige Behörde die Daten des Vordrucks der Anlage 3 mithilfe der Daten, die ihr von der für die Anmeldung zuständigen Behörde auf der Grundlage des Vordrucks der Anlage 1 nach § 14 Absatz 1 Satz 3 der Gewerbeordnung übermittelt werden. Auf die Übermittlung der Daten aus der Gewerbeanzeige nach § 14 Absatz 1 Satz 3 der Gewerbeordnung findet Absatz 4 entsprechende Anwendung. Die Verpflichtung der für die Gewerbeanmeldung zuständigen Behörde zur Übermittlung der mittels des Vordrucks der Anlage 1 erhobenen Daten aus der Gewerbeanzeige bleibt unberührt.
+
 (3) Sofern sich bei der Anmeldung eines Gewerbes nach § 14 Absatz 1 oder § 55c der Gewerbeordnung Anhaltspunkte für Verstöße gegen die in § 14 Absatz 8 Satz 1 Nummer 7 der Gewerbeordnung genannten Vorschriften ergeben, übermitteln die zuständigen Behörden diese Anhaltspunkte einschließlich der Daten aus der Gewerbeanzeige mit Ausnahme der Daten in den Feldern 13, 27 und 33 der Anlage 1 an die Behörden der Zollverwaltung. Das Bundesministerium der Finanzen und die Länder legen im Rahmen einer Verwaltungsvereinbarung einvernehmlich fest, in welchen Fällen Anhaltspunkte im Sinne des Satzes 1 vorliegen.
 
 (4) Die Übermittlung der Daten aus der Gewerbeanzeige an die in den Absätzen 1 bis 3 genannten Stellen erfolgt elektronisch über verwaltungsinterne Kommunikationsnetze oder verschlüsselt über das Internet. Bei Datenübermittlungen über das Internet ist als Übermittlungsprotokoll der vom Bundesministerium für Wirtschaft und Klimaschutz im Bundesanzeiger in der jeweils gültigen Fassung bekannt gemachte Standard zu Grunde zu legen. § 3 des Gesetzes über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10. August 2009 (BGBl. I S. 2702) in der jeweils geltenden Fassung bleibt unberührt. Bei nicht über verwaltungsinterne Kommunikationsnetze erfolgender direkter elektronischer Kommunikation zwischen zuständiger Behörde und den in den Absätzen 1 bis 3 genannten Stellen ist das Deutsche Verwaltungsdiensteverzeichnis (DVDV) zu Grunde zu legen. Als Datenaustauschformat ist der vom Bundesministerium für Wirtschaft und Klimaschutz im Bundesanzeiger in der jeweils gültigen Fassung bekannt gemachte Standard zu Grunde zu legen. Bei der Festlegung der Standards für das Übermittlungsprotokoll sowie für das Datenaustauschformat nach den Sätzen 2 und 5 sind die vom IT-Planungsrat nach § 1 Absatz 1 Satz 1 Nummer 2 des IT-Staatsvertrages beschlossenen IT-Interoperabilitäts- und IT-Sicherheitsstandards zu beachten.
@@ -173,22 +175,24 @@ Der Bundesrat hat zugestimmt.
 
 (Fundstelle: BGBl. I 2019, 918 – 919; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-<a href="../normengrafiken/bgbl1_2019/j0916-1_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2024/j0411-9_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2023/j0103_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2024/j0411-9_0020.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 2 – (zu § 1 Satz 1 Nummer 2)Gewerbe-Ummeldung
 
 (Fundstelle: BGBl. I 2019, 920 – 921; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-<a href="../normengrafiken/bgbl1_2019/j0916-1_0030.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2024/j0411-9_0030.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 <a href="../normengrafiken/bgbl1_2023/j0103_0020.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 3 – (zu § 1 Satz 1 Nummer 3)Gewerbe-Abmeldung
 
-(Fundstelle: BGBl. I 2019, 922 – 923)
+(Fundstelle: BGBl. I 2019, 922 – 923; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-<a href="../normengrafiken/bgbl1_2019/j0916-1_0050.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2024/j0411-9_0040.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2019/j0916-1_0060.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2024/j0411-9_0050.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+(+++ Anlage 3 Felder 17 u. 25: Die Änderungsanweisung konnte nicht vollständig umgesetzt werden, da entsprechende Bearbeitungstools zur Darstellung nicht zur Verfügung stehen +++)

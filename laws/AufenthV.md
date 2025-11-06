@@ -80,567 +80,571 @@
 <td style="text-align: left;" data-valign="top" data-charoff="50">Notreiseausweis</td>
 </tr>
 <tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 13a</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">EU-Rückkehrausweis</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung von der Passpflicht in Rettungsfällen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Befreiung vom Erfordernis eines Aufenthaltstitels</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 1</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Allgemeine Regelungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gemeinschaftsrechtliche Regelung der Kurzaufenthalte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 16</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorrang älterer Sichtvermerksabkommen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nichtbestehen der Befreiung bei Erwerbstätigkeit während eines Kurzaufenthalts</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung zur Dienstleistungserbringung für langfristig Aufenthaltsberechtigte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Befreiungen für Inhaber bestimmter Ausweise</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 18</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Inhaber von Reiseausweisen für Flüchtlinge und Staatenlose</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 19</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Inhaber dienstlicher Pässe</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 20</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Inhaber von Ausweisen der Europäischen Union und zwischenstaatlicher Organisationen und der Vatikanstadt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Inhaber von Grenzgängerkarten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 22</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Schüler auf Sammellisten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Befreiungen im grenzüberschreitenden Beförderungswesen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für ziviles Flugpersonal</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 24</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Seeleute</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 25</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung in der internationalen zivilen Binnenschifffahrt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 26</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Transit ohne Einreise; Flughafentransitvisum</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sonstige Befreiungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 27</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Personen bei Vertretungen ausländischer Staaten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für freizügigkeitsberechtigte Schweizer</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 29</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung in Rettungsfällen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 30</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für die Durchreise und Durchbeförderung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 30a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung in Fällen gescheiterter langfristiger Mobilität nach der Richtlinie (EU) 2021/1883</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Visumverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 31</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmung der Ausländerbehörde zur Visumerteilung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 31a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschleunigtes Fachkräfteverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 32</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmung der obersten Landesbehörde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 33</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmungsfreiheit bei Spätaussiedlern</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 34</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmungsfreiheit bei Wissenschaftlern und Studenten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmungsfreiheit bei bestimmten Arbeitsaufenthalten und Praktika</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 36</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern ausländischer Streitkräfte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 37</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmungsfreiheit in sonstigen Fällen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ersatzzuständigkeit der Ausländerbehörde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 3a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Anerkennung von Forschungseinrichtungen und Abschluss von Aufnahmevereinbarungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Voraussetzungen für die Anerkennung von Forschungseinrichtungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufhebung der Anerkennung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungspflichten von Forschungseinrichtungen gegenüber den Ausländerbehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beirat für Forschungsmigration und Fachkräfteeinwanderung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veröffentlichungen durch das Bundesamt für Migration und Flüchtlinge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Inhalt und Voraussetzungen der Unterzeichnung der Aufnahmevereinbarung oder eines entsprechenden Vertrages</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Einholung des Aufenthaltstitels im Bundesgebiet</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 39</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verlängerung eines Aufenthalts im Bundesgebiet für längerfristige Zwecke</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 40</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verlängerung eines visumfreien Kurzaufenthalts</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 41</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergünstigung für Angehörige bestimmter Staaten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 42</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Antragstellung auf Verlegung des Wohnsitzes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren bei Zustimmung des anderen Mitgliedstaates zur Wohnsitzverlegung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Kapitel 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Gebühren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für die Niederlassungserlaubnis</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für die Erlaubnis zum Daueraufenthalt – EU</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für Expressverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für Aufenthaltstitel in Ausnahmefällen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühr bei Neuausstellung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 46</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für das Visum</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 47</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 48</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für pass- und ausweisrechtliche Maßnahmen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 49</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bearbeitungsgebühren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für Amtshandlungen zugunsten Minderjähriger</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 51</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Widerspruchsgebühr</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 52</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiungen und Ermäßigungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 52a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung und Ermäßigung bei Assoziationsberechtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung und Ermäßigung aus Billigkeitsgründen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 54</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zwischenstaatliche Vereinbarungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Kapitel 4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Ordnungsrechtliche Vorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 55</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausweisersatz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 56</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausweisrechtliche Pflichten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorlagepflicht beim Vorhandensein mehrerer Ausweisdokumente</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflichten der Inhaber von Dokumenten mit Chip nach § 78 des Aufenthaltsgesetzes</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Kapitel 5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Verfahrensvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 1</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Muster für Aufenthaltstitel, Pass- und Ausweisersatz und sonstige Dokumente</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vordruckmuster</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Muster der Aufenthaltstitel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Erlaubnis zum Daueraufenthalt – EU</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Blauen Karte EU</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 60</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Lichtbild</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 60a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausgabe und Versand des elektronischen Aufenthaltstitels und des Sperrkennworts</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sicherheitsstandard, Ausstellungstechnik</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Datenerfassung, Datenverarbeitung und Datenschutz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit Chip nach § 4 sowie nach § 78 des Aufenthaltsgesetzes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Fingerabdruckerfassung bei der Beantragung von Dokumenten mit Chip</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übermittlung der Daten an den Dokumentenhersteller</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nachweis der Erfüllung der Anforderungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Qualitätsstatistik</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Automatischer Abruf aus Dateisystemen und automatische Speicherung im öffentlichen Bereich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verwendung im nichtöffentlichen Bereich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendung der Personalausweisverordnung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Führung von Ausländerdateien durch die Ausländerbehörden und die Auslandsvertretungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 62</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Dateisystemführungspflicht der Ausländerbehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 63</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausländerdatei A</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 64</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Datensatz der Ausländerdatei A</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 65</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erweiterter Datensatz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 66</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Dateisystem über Passersatzpapiere</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 67</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausländerdatei B</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 68</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Löschung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 69</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Visadateien der Auslandsvertretungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 70</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Datenübermittlungen an die Ausländerbehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 71</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übermittlungspflicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 72</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Meldebehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 72a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Pass- und Ausweisbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 73</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Staatsangehörigkeits- und Bescheinigungsbehörden nach § 15 des Bundesvertriebenengesetzes</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 74</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 75</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Gewerbebehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Form und Verfahren der Datenübermittlung im Ausländerwesen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erkennungsdienstliche Behandlung nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76b</td>
 <td style="text-align: center;" data-valign="bottom" data-charoff="50">Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76c</td>
 <td style="text-align: center;" data-valign="bottom" data-charoff="50">Nationale Sicherheits- und Qualitätsstatistik</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Kapitel 6</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Ordnungswidrigkeiten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 77</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ordnungswidrigkeiten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 78</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verwaltungsbehörden im Sinne des Gesetzes über Ordnungswidrigkeiten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Kapitel 7</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Übergangs- und Schlussvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 79</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendung auf Freizügigkeitsberechtigte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 80</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelung für bestimmte Fiktionsbescheinigungen im Zusammenhang mit einem Dokumentenmuster</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 80a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelungen für britische Staatsangehörige im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 81</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelung zur Führung von Ausländerdateien</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthalts- und asylrechtlicher Richtlinien der Europäischen Union</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelung zu § 31 Absatz 1 Satz 1 Nummer 1 und 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 83</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erfüllung ausweisrechtlicher Verpflichtungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 84</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beginn der Anerkennung von Forschungseinrichtungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Anlagen</td>
@@ -669,6 +673,10 @@ Anlagen</td>
 (7) Binnenschifffahrtsausweise sind in zwischenstaatlichen Vereinbarungen für den Grenzübertritt vorgesehene Ausweise für ziviles Personal, das internationale Binnenwasserstraßen befährt, sowie dessen Familienangehörige, soweit die Geltung für Familienangehörige in den jeweiligen Vereinbarungen vorgesehen ist.
 
 (8) Europäische Reisedokumente für die Rückkehr illegal aufhältiger Drittstaatsangehöriger (Europäische Reisedokumente für die Rückkehr) sind Dokumente nach der Verordnung (EU) 2016/1953 des Europäischen Parlaments und des Rates vom 26. Oktober 2016 (ABl. L 311 vom 17.11.2016, S. 13).
+
+(9) EU-Rückkehrausweise sind Reisedokumente im Sinne des Artikels 3 Absatz 1 der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V. v. 29.10.2025 I Nr. 260 +++)
 
 # § 2 – Erfüllung der Passpflicht durch Eintragung in den Pass eines gesetzlichen Vertreters
 
@@ -710,9 +718,11 @@ c) die Angaben nicht in einer germanischen oder romanischen Sprache enthält.
 
 6. Schülersammellisten (§ 1 Abs. 5),
 
-7. Flugbesatzungsausweise, soweit sie für einen Aufenthalt nach § 23 gebraucht werden, und
+7. Flugbesatzungsausweise, soweit sie für einen Aufenthalt nach § 23 gebraucht werden,
 
-8. Binnenschifffahrtsausweise, soweit sie für einen Aufenthalt nach § 25 gebraucht werden.
+8. Binnenschifffahrtsausweise, soweit sie für einen Aufenthalt nach § 25 gebraucht werden, und
+
+9. EU-Rückkehrausweise (§ 1 Absatz 9).
 
 # § 4 – Deutsche Passersatzpapiere für Ausländer
 
@@ -730,7 +740,9 @@ c) die Angaben nicht in einer germanischen oder romanischen Sprache enthält.
 
 6. die Bescheinigung über die Wohnsitzverlegung (§ 43 Absatz 2),
 
-7. das Europäische Reisedokument für die Rückkehr (§ 1 Absatz 8).
+7. das Europäische Reisedokument für die Rückkehr (§ 1 Absatz 8),
+
+8. der EU-Rückkehrausweis (§ 1 Absatz 9, § 13a Absatz 1).
 
 Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer Gültigkeitsdauer von bis zu drei Jahren oder, sofern der Passinhaber im Besitz eines Aufenthaltstitels nach den §§ 9 oder 9a des Aufenthaltsgesetzes oder eines auf Grund des Freizügigkeitsgesetzes/EU ausgestellten Dokuments ist, mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt; eine Verlängerung ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente ohne Chip ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr können in begründeten Fällen abweichend von Absatz 4 Satz 1 Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 ohne Chip ausgegeben werden. Passersatzpapiere nach Satz 4 ohne Chip sind höchstens ein Jahr gültig, längstens jedoch bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des zwölften Lebensjahres um jeweils ein Jahr zulässig; es ist jeweils ein aktuelles Lichtbild einzubringen. Passersatzpapiere nach Satz 1 Nummer 3 und 4, die an heimatlose Ausländer nach dem Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet ausgestellt werden, können mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt werden.
 
@@ -758,7 +770,13 @@ Auf Antrag kann der Passersatz nach Absatz 1 Satz 1 Nummer 1, 3 und 4 bei einer 
 
 (3) Passersatzpapiere nach Absatz 1 Satz 1 Nummer 1, 3 und 4 enthalten eine Zone für das automatische Lesen. Diese darf lediglich enthalten:
 
-1. die Abkürzung „PT“ für Passtyp von Passersatzpapieren nach Absatz 1 Satz 1 Nummer 1, 3 und 4 einschließlich vorläufiger Passersatzpapiere,
+1. die Abkürzung
+
+a) „PT“ für Passtyp von Passersatzpapieren nach Absatz 1 Satz 1 Nummer 1 einschließlich vorläufiger Passersatzpapiere,
+
+b) „PR“ für Passtyp von Passersatzpapieren nach Absatz 1 Satz 1 Nummer 3 einschließlich vorläufiger Passersatzpapiere oder
+
+c) „PS“ für Passtyp von Passersatzpapieren nach Absatz 1 Satz 1 Nummer 4 einschließlich vorläufiger Passersatzpapiere,
 
 2. die Abkürzung „D“ für Bundesrepublik Deutschland,
 
@@ -905,6 +923,68 @@ Eine Grenzgängerkarte zur Ausübung einer Beschäftigung im Bundesgebiet darf n
 sowie die jeweils mit einem solchen Aufenthalt verbundene Ein- und Ausreise einen Notreiseausweis ausstellen, wenn es keinen Pass oder Passersatz, insbesondere keinen der in § 3 Abs. 3 genannten Passersatzpapiere, mitführt. Absatz 4 findet keine Anwendung.
 
 (6) Die Gültigkeitsdauer des Notreiseausweises darf längstens einen Monat betragen.
+
+# § 13a – EU-Rückkehrausweis
+
+(1) Einem Unionsbürger, dessen Pass oder Passersatz verloren gegangen ist, gestohlen oder vernichtet wurde oder sonst nicht innerhalb einer angemessenen Zeit beschafft werden kann, wird auf seinen Antrag in einem Drittstaat, in dem der Mitgliedstaat seiner Staatsangehörigkeit konsularisch nicht durch eine eigene Auslandsvertretung im Sinne von Artikel 6 der Richtlinie (EU) 2015/637 vertreten ist, ein EU-Rückkehrausweis zum Zwecke der Einreise in den Mitgliedstaat, dessen Staatsangehörigkeit er besitzt oder in dem er seinen Aufenthalt hat, von einer deutschen Auslandsvertretung ausgestellt, sofern der Mitgliedstaat, dessen Staatsangehörigkeit der Antragsteller besitzt, die Angaben des Antragstellers zu dessen Staatsangehörigkeit bestätigt und keine Einwände erhebt. Abweichend von Satz 1 darf ausnahmsweise das Dokument auch zum Zwecke einer einzigen Reise in ein anderes Land ausgestellt werden.
+
+(2) Die Gültigkeitsdauer des EU-Rückkehrausweises ist nach dem Zeitraum zu bemessen, der für die Reise in den in Absatz 1 genannten Staat erforderlich ist, zuzüglich zwei Tage Nachfrist. Die Gültigkeitsdauer darf nur unter außergewöhnlichen Umständen 15 Kalendertage überschreiten.
+
+(3) Die deutsche Auslandsvertretung konsultiert spätestens zwei Arbeitstage nach Antragstellung den Mitgliedstaat der Europäischen Union, dessen Staatsangehörigkeit der Antragsteller besitzt, nach Maßgabe von Artikel 10 Absatz 2 der Richtlinie (EU) 2015/637 zum Zwecke der Überprüfung der Staatsangehörigkeit und Identität des Antragstellers. Die deutsche Auslandsvertretung übermittelt hierfür dem jeweiligen Mitgliedstaat die notwendigen Angaben zur Identität, insbesondere Namen und Vornamen, Staatsangehörigkeit, Geburtsdatum und Geschlecht des Antragstellers sowie ein Gesichts- oder Lichtbild des Antragstellers im Sinne von Artikel 4 Absatz 2 Buchstabe b der Richtlinie (EU) 2019/997 und eine Fotokopie oder elektronische Kopie eines verfügbaren Identifizierungsmittels und, soweit verfügbar, Art und Nummer des zu ersetzenden Dokuments sowie eine nationale Registrierungs- oder Sozialversicherungsnummer. Hat der Mitgliedstaat, dessen Staatsangehörigkeit der Antragsteller besitzt, Einwände gegen die Ausstellung eines EU-Rückkehrausweises, findet Artikel 4 Absatz 4 der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024 Anwendung.
+
+(4) Der EU-Rückkehrausweis ist spätestens zwei Arbeitstage nach Erhalt der Bestätigung der Angaben zur Staatsangehörigkeit und Identität des Antragstellers auszustellen und eine Kopie an den Mitgliedstaat, dessen Staatsangehörigkeit der Antragsteller besitzt, zu übersenden. In begründeten Fällen darf die Frist nach Satz 1 überschritten werden. In äußersten Notfällen kann ein EU-Rückkehrausweis für einen Unionsbürger auch ohne vorherige Bestätigung des Mitgliedstaats, dessen Staatsangehörigkeit er besitzt, ausgestellt werden, wenn die deutsche Auslandsvertretung zuvor alle Kommunikationsmittel ausgeschöpft hat. Der Mitgliedstaat ist anschließend über die Ausstellung des EU-Rückkehrausweises sowie die darin enthaltenen Informationen so schnell wie möglich zu informieren.
+
+(5) Eingehende Konsultationsanfragen anderer Mitgliedstaaten leitet das Auswärtige Amt an die jeweils zuständige deutsche Behörde weiter. Die Rückmeldung ist dem jeweiligen Mitgliedstaat über das Auswärtige Amt spätestens drei Arbeitstage nach Erhalt der Informationen im Sinne des Absatzes 3 Satz 2 und 3 zu übermitteln. Kann die Frist nicht eingehalten werden, unterrichtet das Auswärtige Amt den anfragenden Mitgliedstaat und gibt eine Einschätzung ab, wann mit einer Antwort zu rechnen ist.
+
+(6) Der EU-Rückkehrausweis ist nach Ankunft am Zielort bei der für die Beantragung von Reisedokumenten zuständigen Behörde abzugeben. Die zurückgegebenen EU-Rückkehrausweise und Kopien sind umgehend zu vernichten.
+
+(7) EU-Rückkehrausweise nach Artikel 8 Absatz 1 der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024 enthalten neben der Angabe des ausstellenden Staates, dem Tag und Ort der Ausstellung, dem letzten Tag der Gültigkeitsdauer, der Seriennummer des EU-Rückkehrausweises und dem Gesichts- oder Lichtbild, der Unterschrift des Inhabers sowie dem Reiseziel und gegebenenfalls Transitstaaten ausschließlich folgende sichtbar aufgebrachte Angaben über den Inhaber des Passersatzpapiers:
+
+1. Familienname,
+
+2. den oder die Vornamen,
+
+3. Staatsangehörigkeit,
+
+4. Tag der Geburt,
+
+5. Geschlechtsangabe mit der Abkürzung „F“ für Personen weiblichen Geschlechts, „M“ für Personen männlichen Geschlechts und „X“ in allen anderen Fällen,
+
+6. ein Anmerkungsfeld.
+
+EU-Rückkehrausweise enthalten zudem eine Zone für das automatische Lesen. Diese darf lediglich enthalten:
+
+1. die Abkürzung „PU“ für Dokumententyp,
+
+2. die Abkürzung „D“ für Bundesrepublik Deutschland,
+
+3. den Familiennamen,
+
+4. den oder die Vornamen,
+
+5. die Seriennummer des EU-Rückkehrausweises,
+
+6. die Abkürzung der Staatsangehörigkeit,
+
+7. den Tag der Geburt,
+
+8. die Abkürzung „F“ für Personen weiblichen Geschlechts, „M“ für Personen männlichen Geschlechts und das Zeichen „&lt;“ in allen anderen Fällen,
+
+9. die Gültigkeitsdauer des EU-Rückkehrausweises,
+
+10. die Prüfziffern und
+
+11. Leerstellen.
+
+Die Seriennummer und Prüfziffern dürfen keine Daten über die Person des Inhabers oder Hinweise auf solche Daten enthalten. Jeder EU-Rückkehrausweis enthält eine neue Seriennummer. Bei der Ausstellung des EU-Rückkehrausweises findet Artikel 8 Absatz 2, 5 bis 8 der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024 Anwendung.
+
+(8) Die für die Zwecke der Ausstellung eines EU-Rückkehrausweises verarbeiteten personenbezogenen Daten einschließlich des Gesichts- oder Lichtbilds des Antragstellers dürfen ausschließlich für die Überprüfung der Identität nach dieser Vorschrift, für das Drucken der einheitlichen EU-Rückkehrausweismarke und zur Erleichterung der Reise des Antragstellers verwendet werden. Die Berichtigung, Speicherung und Löschung der personenbezogenen Daten, die zur Ausstellung eines EU-Rückkehrausweises verarbeitet oder auf einem EU-Rückkehrausweis gespeichert werden, richten sich nach Artikel 15 Absatz 2 und 4 der Richtlinie (EU)
+
+2019/997 in der Fassung vom 6. Mai 2024.
+
+(9) Die Ausstellung des EU-Rückkehrausweises ist gemäß Artikel 16 Absatz 1 und 2 der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024 zu überwachen und die Informationen an die Europäische Kommission zu übermitteln.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V. v. 29.10.2025 I Nr. 260 +++)
 
 # § 14 – Befreiung von der Passpflicht in Rettungsfällen
 
@@ -1671,34 +1751,163 @@ noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils die Höhe, die für di
 (1) An Gebühren sind zu erheben  
   
 
-|      |                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                   |
-|:---|:----|:----------------------------------------------|----------------:|
-| 1a.  | für die Ausstellung eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1)                                                                                                                                                                                                                                                                                                                                   |                    |                                                         100 Euro, |
-| 1b.  | für die Ausstellung eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1) bis zum vollendeten 24. Lebensjahr                                                                                                                                                                                                                                                                                                |                    |                                                          97 Euro, |
-| 1c.  | für die Ausstellung eines Reiseausweises für Flüchtlinge, eines Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind,                                    |                    |                                                          70 Euro, |
-| 1d.  | für die Ausstellung eines Reiseausweises für Flüchtlinge, eines Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind, bis zum vollendeten 24. Lebensjahr |                    |                                                          38 Euro, |
-| 1e.  | für die Ausstellung eines vorläufigen Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1)                                                                                                                                                                                                                                                                                                                       |                    |                                                          67 Euro, |
-| 1f.  | für die Ausstellung eines vorläufigen Reiseausweises für Flüchtlinge, eines vorläufigen Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind,            |                    |                                                          26 Euro, |
-| 1g.  | für die Ausstellung eines Reiseausweises ohne Speichermedium für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), für Flüchtlinge, für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder für subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes bis zur Vollendung des zwölften Lebensjahres                   |                    |                                                          14 Euro, |
-| 2\.  | für die Verlängerung eines als vorläufiges Dokument (§ 4 Abs. 1 Satz 2) ausgestellten Reiseausweises für Ausländer, eines Reiseausweises für Flüchtlinge oder eines Reiseausweises für Staatenlose                                                                                                                                                                                                                      |                    |                                                          20 Euro, |
-| 3\.  | für die Ausstellung einer Grenzgängerkarte (§ 12) mit einer Gültigkeitsdauer von                                                                                                                                                                                                                                                                                                                                        |                    |                                                                   |
-|      | a)                                                                                                                                                                                                                                                                                                                                                                                                                     | bis zu einem Jahr  |                                                          61 Euro, |
-|      | b)                                                                                                                                                                                                                                                                                                                                                                                                                     | bis zu zwei Jahren |                                                          61 Euro, |
-| 4\.  | für die Verlängerung einer Grenzgängerkarte um                                                                                                                                                                                                                                                                                                                                                                          |                    |                                                                   |
-|      | a)                                                                                                                                                                                                                                                                                                                                                                                                                     | bis zu einem Jahr  |                                                          35 Euro, |
-|      | b)                                                                                                                                                                                                                                                                                                                                                                                                                     | bis zu zwei Jahren |                                                          35 Euro, |
-| 5\.  | für die Ausstellung eines Notreiseausweises (§ 4 Abs. 1 Nr. 2, § 13)                                                                                                                                                                                                                                                                                                                                                    |                    |                                                          18 Euro, |
-| 6\.  | für die Bescheinigung der Rückkehrberechtigung in das Bundesgebiet auf dem Notreiseausweis (§ 13 Abs. 4)                                                                                                                                                                                                                                                                                                                |                    |                                                           1 Euro, |
-| 7\.  | für die Bestätigung auf einer Schülersammelliste (§ 4 Abs. 1 Nr. 5)                                                                                                                                                                                                                                                                                                                                                     |                    | 12 Euro pro Person, auf die sich die Bestätigung jeweils bezieht, |
-| 8\.  | für die Ausstellung einer Bescheinigung über die Wohnsitzverlegung (§ 4 Abs. 1 Nr. 6, § 43 Abs. 2)                                                                                                                                                                                                                                                                                                                      |                    |                                                          99 Euro, |
-| 9\.  | für die Ausnahme von der Passpflicht (§ 3 Abs. 2 des Aufenthaltsgesetzes)                                                                                                                                                                                                                                                                                                                                               |                    |                                                          76 Euro, |
-| 10\. | für die Erteilung eines Ausweisersatzes (§ 48 Abs. 2 in Verbindung mit § 78a Absatz 4 des Aufenthaltsgesetzes)                                                                                                                                                                                                                                                                                                          |                    |                                                          32 Euro, |
-| 11\. | für die Erteilung eines Ausweisersatzes (§ 48 Absatz 2 in Verbindung mit § 78a Absatz 4 des Aufenthaltsgesetzes) im Fall des § 55 Abs. 2                                                                                                                                                                                                                                                                                |                    |                                                          21 Euro, |
-| 12\. | für die Verlängerung eines Ausweisersatzes (§ 48 Absatz 2 in Verbindung mit § 78a Absatz 4 des Aufenthaltsgesetzes)                                                                                                                                                                                                                                                                                                     |                    |                                                          16 Euro, |
-| 13\. | für die Änderung eines der in den Nummern 1 bis 12 bezeichneten Dokumente                                                                                                                                                                                                                                                                                                                                               |                    |                                                          15 Euro, |
-| 14\. | für die Umschreibung eines der in den Nummern 1 bis 12 bezeichneten Dokumente                                                                                                                                                                                                                                                                                                                                           |                    |                                                          34 Euro, |
-| 15\. | für die Neuausstellung eines Dokuments nach § 78 Absatz 1 Satz 1 des Aufenthaltsgesetzes mit dem Zusatz Ausweisersatz (§ 78 Absatz 1 Satz 4 des Aufenthaltsgesetzes)                                                                                                                                                                                                                                                    |                    |                                                          72 Euro, |
-| 16\. | für die Anfertigung eines Lichtbilds (§ 60 Absatz 2 Satz 2 in Verbindung mit § 6 Absatz 2 Satz 3 Nummer 2 Passgesetz)                                                                                                                                                                                                                                                                                                   |                    |                                                           6 Euro. |
+<table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 5%" />
+<col style="width: 68%" />
+<col style="width: 23%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">1a.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">100 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">1b.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1) bis zum vollendeten 24. Lebensjahr</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">97 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">1c.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Reiseausweises für Flüchtlinge, eines Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind,</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">70 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">1d.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Reiseausweises für Flüchtlinge, eines Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind, bis zum vollendeten 24. Lebensjahr</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">38 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">1e.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines vorläufigen Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">67 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">1f.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines vorläufigen Reiseausweises für Flüchtlinge, eines vorläufigen Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind,</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">26 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">1g.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Reiseausweises ohne Speichermedium für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), für Flüchtlinge, für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder für subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes bis zur Vollendung des zwölften Lebensjahres</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">14 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">2.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Verlängerung eines als vorläufiges Dokument (§ 4 Abs. 1 Satz 2) ausgestellten Reiseausweises für Ausländer, eines Reiseausweises für Flüchtlinge oder eines Reiseausweises für Staatenlose</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">20 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">3.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung einer Grenzgängerkarte (§ 12) mit einer Gültigkeitsdauer von</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">bis zu einem Jahr</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">61 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">b)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">bis zu zwei Jahren</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">61 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">4.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Verlängerung einer Grenzgängerkarte um</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">bis zu einem Jahr</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">35 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">b)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">bis zu zwei Jahren</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">35 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">5.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Notreiseausweises (§ 4 Abs. 1 Nr. 2, § 13)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">18 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">6.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Bescheinigung der Rückkehrberechtigung in das Bundesgebiet auf dem Notreiseausweis (§ 13 Abs. 4)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">1 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">7.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Bestätigung auf einer Schülersammelliste (§ 4 Abs. 1 Nr. 5)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">12 Euro pro Person, auf die sich die Bestätigung jeweils bezieht,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">8.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung einer Bescheinigung über die Wohnsitzverlegung (§ 4 Abs. 1 Nr. 6, § 43 Abs. 2)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">99 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">9.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausnahme von der Passpflicht (§ 3 Abs. 2 des Aufenthaltsgesetzes)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">76 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">10.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Erteilung eines Ausweisersatzes (§ 48 Abs. 2 in Verbindung mit § 78a Absatz 4 des Aufenthaltsgesetzes)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">32 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">11.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Erteilung eines Ausweisersatzes (§ 48 Absatz 2 in Verbindung mit § 78a Absatz 4 des Aufenthaltsgesetzes) im Fall des § 55 Abs. 2</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">21 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">12.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Verlängerung eines Ausweisersatzes (§ 48 Absatz 2 in Verbindung mit § 78a Absatz 4 des Aufenthaltsgesetzes)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">16 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">13.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Änderung eines der in den Nummern 1 bis 12 bezeichneten Dokumente</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">15 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">14.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Umschreibung eines der in den Nummern 1 bis 12 bezeichneten Dokumente</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">34 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">15.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Neuausstellung eines Dokuments nach § 78 Absatz 1 Satz 1 des Aufenthaltsgesetzes mit dem Zusatz Ausweisersatz (§ 78 Absatz 1 Satz 4 des Aufenthaltsgesetzes)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">72 Euro,</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">16.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Anfertigung eines Lichtbilds (§ 60 Absatz 2 Satz 2 in Verbindung mit § 6 Absatz 2 Satz 3 Nummer 2 Passgesetz)</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">6 Euro,</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">17.</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines EU-Rückkehrausweises (§ 4 Absatz 1 Satz 1 Nummer 8, § 13a)<br />
+und</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">52 Euro<br />
+</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">wenn die Ausstellung auf Veranlassung des Antragstellers außerhalb der behördlichen<br />
+Dienstzeiten vorgenommen wird</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">60 Euro.</td>
+</tr>
+</tbody>
+</table>
 
   
   
@@ -1955,9 +2164,11 @@ c) zum Aufenthaltstitel mit Chip (§ 78 Absatz 1 des Aufenthaltsgesetzes) das in
 
 12. für die Bescheinigung über die Aufenthaltsgestattung (§ 63 des Asylgesetzes) das in Anlage D12 abgedruckte Muster,
 
-13. für die Bescheinigung des Daueraufenthalts für Unionsbürger oder Staatsangehörige eines EWR-Staates das in Anlage D15 abgedruckte Muster und
+13. für die Bescheinigung des Daueraufenthalts für Unionsbürger oder Staatsangehörige eines EWR-Staates das in Anlage D15 abgedruckte Muster,
 
-14. für die Änderung der Anschrift auf Dokumenten mit Chip (§ 78 Absatz 7 Satz 2 des Aufenthaltsgesetzes) das in Anlage D16 abgedruckte Muster.
+14. für die Änderung der Anschrift auf Dokumenten mit Chip (§ 78 Absatz 7 Satz 2 des Aufenthaltsgesetzes) das in Anlage D16 abgedruckte Muster und
+
+15. für den EU-Rückkehrausweis (§ 4 Absatz 1 Satz 1 Nummer 8) das in den Anlagen D18 und D19 abgedruckte Muster.
 
 Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapiere werden nicht verlängert.
 
@@ -2285,7 +2496,7 @@ z) Zustimmung der Bundesagentur für Arbeit nach § 39 des Aufenthaltsgesetzes m
 
 # § 66 – Dateisystem über Passersatzpapiere
 
-Über die ausgestellten Reiseausweise für Ausländer, Reiseausweise für Flüchtlinge, Reiseausweise für Staatenlose und Notreiseausweise hat die ausstellende Behörde oder Dienststelle ein Dateisystem zu führen. Die Vorschriften über das Passregister für deutsche Pässe gelten entsprechend.
+Über die ausgestellten Reiseausweise für Ausländer, Reiseausweise für Flüchtlinge, Reiseausweise für Staatenlose, Notreiseausweise und EU-Rückkehrausweise hat die ausstellende Behörde oder Dienststelle ein Dateisystem zu führen. Die Vorschriften über das Passregister für deutsche Pässe gelten für die in Satz 1 genannten Dokumente mit Ausnahme des EU-Rückkehrausweises entsprechend. Die personenbezogenen Daten eines EU-Rückkehrausweises werden nur so lange wie erforderlich, maximal aber für 180 Tage im Dateisystem gespeichert.
 
 # § 67 – Ausländerdatei B
 
@@ -3595,6 +3806,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Fundstelle: BGBl. I 2021, 3703)
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0400.jpg)
+
+# Anlage D18 – (zu § 13a)Muster Trägervordruck EU-Rückkehrausweis
+
+(Fundstelle: BGBl. 2025 I Nr. 260, S. 4)
+
+  
+  
+
+|                                                                                                  |             |
+|:------------------------------------------------|:----------------------|
+| EU-Rückkehrausweis                                                                               | Vorderseite |
+| ![EU-Rückkehrausweis Trägervordruck (Vorderseite)](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02600_0010.jpg) |             |
+| EU-Rückkehrausweis                                                                               | Rückseite   |
+| ![EU-Rückkehrausweis Trägervordruck (Rückseite)](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02600_0020.jpg)   |             |
+
+# Anlage D19 – (zu § 13a)Muster Etikett EU-Rückkehrausweis
+
+(Fundstelle: BGBl. 2025 I Nr. 260, S. 5)
+
+![EU-Rückkehrausweis Etikett](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02600_0030.jpg)
 
 # Anlage E – Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
 

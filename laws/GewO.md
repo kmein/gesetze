@@ -703,7 +703,7 @@ soweit dies für die Beurteilung erforderlich ist. Die Aufnahme und Ausübung de
 
 3. der Betrieb aufgegeben wird.
 
-Steht die Aufgabe des Betriebes eindeutig fest und ist die Abmeldung nicht innerhalb eines angemessenen Zeitraums erfolgt, kann die Behörde die Abmeldung von Amts wegen vornehmen.
+Erfolgt die Aufgabe des Betriebes im Zusammenhang mit dessen Verlegung in einen anderen Meldebezirk, ist dies ausschließlich gegenüber der für die Gewerbeanmeldung nach Satz 1 zuständigen Behörde anzuzeigen; diese übermittelt die Daten aus der Gewerbeanzeige unverzüglich an die für die Gewerbeabmeldung nach Satz 2 Nummer 3 zuständige Behörde; Absatz 8 bleibt unberührt. Steht die Aufgabe des Betriebes eindeutig fest und ist die Abmeldung nicht innerhalb eines angemessenen Zeitraums erfolgt, kann die Behörde die Abmeldung von Amts wegen vornehmen.
 
 (2) Absatz 1 gilt auch für den Handel mit Arzneimitteln, mit Losen von Lotterien und Ausspielungen sowie mit Bezugs- und Anteilscheinen auf solche Lose und für den Betrieb von Wettannahmestellen aller Art.
 
@@ -808,7 +808,8 @@ Die Datenempfänger sowie die Verarbeitungszwecke, für die Abrufe zugelassen we
 5. bestimmt, welche Daten als Erhebungs- und Hilfsmerkmale für die Statistik nach Absatz 13 Satz 1 an die statistischen Ämter der Länder zu übermitteln sind.
 
 (+++ § 14: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)  
-(+++ § 14: Zur Anwendung vgl. § 158 in der bis zum 22.6.2022 geltenden Fassung +++)
+(+++ § 14: Zur Anwendung vgl. § 158 in der bis zum 22.6.2022 geltenden Fassung +++)  
+(+++ § 14 Abs. 1 Satz 2 bis 4, Abs. 4 bis 12: Zur Geltung vgl. § 55c Satz 2 +++)
 
 # § 15 – Empfangsbescheinigung, Betrieb ohne Zulassung
 
@@ -1897,7 +1898,7 @@ Wegen überwiegender Nachteile und Gefahren für das Gemeinwohl kann die fernere
 
 # § 55c – Anzeigepflicht
 
-Wer als Gewerbetreibender auf Grund des § 55a Abs. 1 Nr. 3, 9 oder 10 einer Reisegewerbekarte nicht bedarf, hat den Beginn des Gewerbes der zuständigen Behörde anzuzeigen, soweit er sein Gewerbe nicht bereits nach § 14 Abs. 1 bis 3 anzumelden hat. § 14 Absatz 1 Satz 2 und 3, Absatz 4 bis 12, § 15 Absatz 1 und die Rechtsverordnung nach § 14 Absatz 14 gelten entsprechend.
+Wer als Gewerbetreibender auf Grund des § 55a Abs. 1 Nr. 3, 9 oder 10 einer Reisegewerbekarte nicht bedarf, hat den Beginn des Gewerbes der zuständigen Behörde anzuzeigen, soweit er sein Gewerbe nicht bereits nach § 14 Abs. 1 bis 3 anzumelden hat. § 14 Absatz 1 Satz 2 bis 4, Absatz 4 bis 12, § 15 Absatz 1 und die Rechtsverordnung nach § 14 Absatz 14 gelten entsprechend.
 
 (+++ § 55c: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)  
 (+++ § 55c: Zur Anwendung vgl. § 158 in der bis zum 22.6.2022 geltenden Fassung +++)

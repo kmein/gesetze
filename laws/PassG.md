@@ -85,15 +85,11 @@ Das nach Satz 5 einzutragende Geschlecht richtet sich nach der letzten Angabe de
 
 1. Folgende Abkürzungen:
 
-a) "P" für Reisepass,
+a) „PP“ für Reisepass und vorläufigen Reisepass,
 
-b) "PC" für Kinderreisepass,
+b) „PO“ für Dienstpass und vorläufigen Dienstpass und
 
-c) "PP" für vorläufigen Reisepass,
-
-d) "PO" für Dienstpass und vorläufigen Dienstpass und
-
-e) "PD" für Diplomatenpass und vorläufigen Diplomatenpass,
+c) „PD“ für Diplomatenpass und vorläufigen Diplomatenpass,
 
 2. die Abkürzung "D" für Bundesrepublik Deutschland,
 
@@ -437,6 +433,8 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 9. Staatsangehörigkeit,
 
+9a. Identifikationsnummer nach dem Identifikationsnummerngesetz,
+
 10. Seriennummer,
 
 11. Gültigkeitsdatum,
@@ -518,6 +516,10 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 5. das Aktenzeichen.
 
 § 22 Absatz 3 Satz 5 gilt entsprechend.
+
+(3) Bei der Einrichtung eines automatisierten Abrufverfahrens hat die abrufberechtigte Stelle durch geeignete technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35), nach § 64 des Bundesdatenschutzgesetzes und nach den entsprechenden landesgesetzlichen Regelungen sicherzustellen, dass Daten nur von hierzu befugten Personen abgerufen werden können.
+
+(4) Die für einen zentralen Passregisterdatenbestand zuständige Stelle oder die Passbehörde trifft Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679, insbesondere durch den Einsatz von Verschlüsselungstechnik und Authentifizierungsverfahren, um den Datenschutz und die Datensicherheit zu gewährleisten. Bei Zweifeln an der Identität der abrufenden Stelle unterbleibt der automatisierte Abruf.
 
 # § 23 – Weisungsbefugnis
 

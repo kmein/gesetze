@@ -361,4 +361,4 @@ Anlage 1: Mit GG (100-1) vereinbar gem. BVerfGE v. 5.11.2014 I 1764 - 1 BvF 3/11
 
 (Fundstelle: BGBl. I 2010, 1892)
 
-Analge 2: Mit GG (100-1) vereinbar gem. BVerfGE v. 5.11.2014 I 1764 - 1 BvF 3/11 -
+Anlage 2: Mit GG (100-1) vereinbar gem. BVerfGE v. 5.11.2014 I 1764 - 1 BvF 3/11 -

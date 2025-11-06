@@ -475,41 +475,65 @@ Die durchgeführte Maßnahme ist in angemessener Weise zu dokumentieren. Sie sol
 
 (1) Niemand darf bei einer ärztlichen Entscheidung über die Zuteilung aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandener überlebenswichtiger intensivmedizinischer Behandlungskapazitäten (Zuteilungsentscheidung) benachteiligt werden, insbesondere nicht wegen einer Behinderung, des Grades der Gebrechlichkeit, des Alters, der ethnischen Herkunft, der Religion oder Weltanschauung, des Geschlechts oder der sexuellen Orientierung. Überlebenswichtige intensivmedizinische Behandlungskapazitäten sind im Sinne des Satzes 1 in einem Krankenhaus nicht ausreichend vorhanden, wenn
 
-1. der überlebenswichtige intensivmedizinische Behandlungsbedarf der Patientinnen und Patienten des Krankenhauses mit den dort vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten nicht gedeckt werden kann und
+1\.
 
-2. eine anderweitige intensivmedizinische Behandlung der betroffenen Patientinnen und Patienten nicht möglich ist, insbesondere, weil eine Verlegung nicht in Betracht kommt
+der überlebenswichtige intensivmedizinische Behandlungsbedarf der Patientinnen und Patienten des Krankenhauses mit den dort vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten nicht gedeckt werden kann und
 
-a) aus gesundheitlichen Gründen oder
+2\.
 
-b) da die regionalen und überregionalen intensivmedizinischen Behandlungskapazitäten nach den dem Krankenhaus vorliegenden Erkenntnissen ausgeschöpft sind.
+eine anderweitige intensivmedizinische Behandlung der betroffenen Patientinnen und Patienten nicht möglich ist, insbesondere, weil eine Verlegung nicht in Betracht kommt
+
+a)
+
+aus gesundheitlichen Gründen oder
+
+b)
+
+da die regionalen und überregionalen intensivmedizinischen Behandlungskapazitäten nach den dem Krankenhaus vorliegenden Erkenntnissen ausgeschöpft sind.
 
 (2) Eine Zuteilungsentscheidung darf nur aufgrund der aktuellen und kurzfristigen Überlebenswahrscheinlichkeit der betroffenen Patientinnen und Patienten getroffen werden. Komorbiditäten dürfen bei der Beurteilung der aktuellen und kurzfristigen Überlebenswahrscheinlichkeit nur berücksichtigt werden, soweit sie aufgrund ihrer Schwere oder Kombination die auf die aktuelle Krankheit bezogene kurzfristige Überlebenswahrscheinlichkeit erheblich verringern. Kriterien, die sich auf die aktuelle und kurzfristige Überlebenswahrscheinlichkeit nicht auswirken, wie insbesondere eine Behinderung, das Alter, die verbleibende mittel- oder langfristige Lebenserwartung, der Grad der Gebrechlichkeit und die Lebensqualität, dürfen bei der Beurteilung der aktuellen und kurzfristigen Überlebenswahrscheinlichkeit nicht berücksichtigt werden. Bereits zugeteilte überlebenswichtige intensivmedizinische Behandlungskapazitäten sind von der Zuteilungsentscheidung ausgenommen.
 
 (3) Die Zuteilungsentscheidung ist einvernehmlich von zwei Ärztinnen oder Ärzten zu treffen, die
 
-1. Fachärztinnen oder Fachärzte sind,
+1\.
 
-2. im Bereich Intensivmedizin praktizieren,
+Fachärztinnen oder Fachärzte sind,
 
-3. über mehrjährige Erfahrung im Bereich Intensivmedizin verfügen und
+2\.
 
-4. die von der Zuteilungsentscheidung betroffenen Patientinnen und Patienten unabhängig voneinander begutachtet haben.
+im Bereich Intensivmedizin praktizieren,
+
+3\.
+
+über mehrjährige Erfahrung im Bereich Intensivmedizin verfügen und
+
+4\.
+
+die von der Zuteilungsentscheidung betroffenen Patientinnen und Patienten unabhängig voneinander begutachtet haben.
 
 Besteht kein Einvernehmen, sind die von der Zuteilungsentscheidung betroffenen Patientinnen und Patienten von einer weiteren gleich qualifizierten Ärztin oder einem weiteren gleich qualifizierten Arzt zu begutachten und ist die Zuteilungsentscheidung mehrheitlich zu treffen. Von den an der Zuteilungsentscheidung beteiligten Ärztinnen und Ärzten darf nur eine Ärztin oder ein Arzt in die unmittelbare Behandlung der von der Zuteilungsentscheidung betroffenen Patientinnen oder Patienten eingebunden sein. Ist eine Patientin oder ein Patient mit einer Behinderung oder einer Komorbidität von der Zuteilungsentscheidung betroffen, muss die Einschätzung einer hinzuzuziehenden Person berücksichtigt werden, durch deren Fachexpertise den besonderen Belangen dieser Patientin oder dieses Patienten Rechnung getragen werden kann. Die Begutachtung der von der Zuteilungsentscheidung betroffenen Patientinnen und Patienten, die Mitwirkung an der Zuteilungsentscheidung sowie die Hinzuziehung nach Satz 4 kann in Form einer telemedizinischen Konsultation erfolgen.
 
 (4) Die oder der im Zeitpunkt der Zuteilungsentscheidung für die Behandlung der betroffenen Patientinnen und Patienten verantwortliche Ärztin oder Arzt hat Folgendes zu dokumentieren:
 
-1. die der Zuteilungsentscheidung zugrunde gelegten Umstände sowie
+1\.
 
-2. welche Personen an der Zuteilungsentscheidung mitgewirkt haben und hinzugezogen wurden und wie sie abgestimmt oder Stellung genommen haben.
+die der Zuteilungsentscheidung zugrunde gelegten Umstände sowie
+
+2\.
+
+welche Personen an der Zuteilungsentscheidung mitgewirkt haben und hinzugezogen wurden und wie sie abgestimmt oder Stellung genommen haben.
 
 Die §§ 630f und 630g des Bürgerlichen Gesetzbuchs finden entsprechende Anwendung.
 
 (5) Krankenhäuser mit intensivmedizinischen Behandlungskapazitäten sind verpflichtet, in einer Verfahrensanweisung mindestens Folgendes festzulegen:
 
-1. ein Verfahren zur Benennung der Ärztinnen und Ärzte, die für die Mitwirkung an der Zuteilungsentscheidung zuständig sind, und
+1\.
 
-2. die organisatorische Umsetzung der Entscheidungsabläufe nach Absatz 3.
+ein Verfahren zur Benennung der Ärztinnen und Ärzte, die für die Mitwirkung an der Zuteilungsentscheidung zuständig sind, und
+
+2\.
+
+die organisatorische Umsetzung der Entscheidungsabläufe nach Absatz 3.
 
 Sie haben die Einhaltung der Verfahrensanweisung sicherzustellen und müssen die Verfahrensanweisungen mindestens einmal im Jahr auf Weiterentwicklungsbedarf überprüfen und anpassen.
 
@@ -517,11 +541,17 @@ Sie haben die Einhaltung der Verfahrensanweisung sicherzustellen und müssen die
 
 (7) Das Bundesministerium für Gesundheit beauftragt innerhalb von sechs Monaten, nachdem erstmals einer für die Krankenhausplanung zuständigen Landesbehörde eine Zuteilungsentscheidung angezeigt wurde, spätestens jedoch bis zum 31. Dezember 2025, eine externe Evaluation dieser Vorschrift. Gegenstand der Evaluation sind insbesondere
 
-1. die Erreichung der Ziele, Vorkehrungen zum Schutz vor Diskriminierung zu schaffen und Rechtssicherheit für die handelnden Ärztinnen und Ärzte zu gewährleisten, und
+1\.
 
-2. die Auswirkungen der Vorschrift und der nach Absatz 5 Satz 1 zu erstellenden Verfahrensanweisungen auf die medizinische Praxis unter Berücksichtigung der praktischen Umsetzbarkeit.
+die Erreichung der Ziele, Vorkehrungen zum Schutz vor Diskriminierung zu schaffen und Rechtssicherheit für die handelnden Ärztinnen und Ärzte zu gewährleisten, und
+
+2\.
+
+die Auswirkungen der Vorschrift und der nach Absatz 5 Satz 1 zu erstellenden Verfahrensanweisungen auf die medizinische Praxis unter Berücksichtigung der praktischen Umsetzbarkeit.
 
 Die Evaluation wird interdisziplinär insbesondere auf Grundlage rechtlicher, medizinischer und ethischer Erkenntnisse durch unabhängige Sachverständige durchgeführt, die jeweils zur Hälfte von dem Bundesministerium für Gesundheit und dem Deutschen Bundestag benannt werden. Die Sachverständigen haben bundesweite Verbände, Fachkreise und Selbstvertretungsorganisationen, deren Belange von der Vorschrift besonders berührt sind, angemessen zu beteiligen. Das Bundesministerium für Gesundheit übermittelt dem Deutschen Bundestag spätestens ein Jahr nach der Beauftragung das Ergebnis der Evaluation sowie eine Stellungnahme des Bundesministeriums für Gesundheit zu diesem Ergebnis.
+
+§ 5c idF d. G v. 8.12.2022 I 2235: Nach Maßgabe der Entscheidungsformel und Gründe gem. BVerfGE v. 23.9.2025 Az. 1 BvR 2284/23 u. 1 BvR 2285/23 mit Art. 12 Abs. 1 GG (100-1) unvereinbar und nichtig
 
 # § 6 – Meldepflichtige Krankheiten
 

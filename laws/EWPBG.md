@@ -207,8 +207,8 @@ c) Unternehmen, die in Wirtschaftszweigen tätig sind, gegen die die Europäisch
 
 Wenn ein Letztverbraucher die Voraussetzungen nach Satz 1 Nummer 1 oder 2 erfüllt, muss er dies seinem Erdgaslieferanten unverzüglich vor der Inanspruchnahme eines Entlastungsbetrags mitteilen. Satz 1 Nummer 1 ist nicht anzuwenden auf Entnahmestellen, die dem Betrieb einer Anlage zur Kraft-Wärme-Kopplung nach § 2 Nummer 13 und 14 des Kraft-Wärme-Kopplungsgesetzes dienen und leitungsgebundenes Erdgas nicht ausschließlich für den kommerziellen Betrieb dieser Anlage verwenden.
 
-(+++ § 3 Abs. 3 bis 5: Zur Anwendung vgl. § 6 Abs. 2  
-( +++ § 3 Abs. 5: Zur Anwendung vgl. § 7 Abs. 4, § 11 Abs. 6, § 14 Abs. 3 +++)
+(+++ § 3 Abs. 3 bis 5: Zur Anwendung vgl. § 6 Abs. 2 +++)  
+(+++ § 3 Abs. 5: Zur Anwendung vgl. § 7 Abs. 4, § 11 Abs. 6, § 14 Abs. 3 +++)
 
 # § 4 – Vorgaben zur Gestaltung von Erdgaslieferverträgen; Informationspflichten der Erdgaslieferanten
 

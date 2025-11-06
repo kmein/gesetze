@@ -679,7 +679,7 @@ Die Versendung darf nicht erfolgen, wenn zur sicheren Anwendung des Arzneimittel
 
 (5c) Abweichend von Absatz 5 Satz 1 und 2 und den Absätzen 5a und 5b darf der Apotheker bei einem verordneten Arzneimittel, das nicht verfügbar im Sinne des § 129 Absatz 2a Satz 2 und 3 in Verbindung mit Absatz 2b Satz 4 des Fünften Buches Sozialgesetzbuch ist und das auf der nach § 129 Absatz 2b Satz 1 des Fünften Buches Sozialgesetzbuch erstellten Liste geführt wird, das verordnete Arzneimittel gegen ein wirkstoffgleiches in der Apotheke hergestelltes Arzneimittel, auch in einer anderen Darreichungsform, oder gegen ein wirkstoffgleiches Fertigarzneimittel in einer anderen Darreichungsform ohne Rücksprache mit dem verordnenden Arzt austauschen, sofern der verordnende Arzt dies nicht ausgeschlossen hat und die Person, für die das Arzneimittel bestimmt ist, einverstanden ist.
 
-(6) Bei der Abgabe der Arzneimittel sind auf der Verschreibung und, falls es sich um eine Verschreibung nach § 3a Absatz 1 Satz 1 der Arzneimittelverschreibungsverordnung handelt, auf der Durchschrift der Verschreibung, anzugeben oder im Falle der Verschreibung in elektronischer Form der elektronischen Verschreibung hinzufügen
+(6) Bei der Abgabe der Arzneimittel sind auf der Verschreibung und, falls es sich um eine Verschreibung nach § 3a Absatz 1 Satz 1 der Arzneimittelverschreibungsverordnung handelt, auf der Durchschrift der Verschreibung, anzugeben oder im Falle der Verschreibung in elektronischer Form der elektronischen Verschreibung hinzuzufügen
 
 1. der Name oder die Firma des Inhabers der Apotheke und deren Anschrift,
 

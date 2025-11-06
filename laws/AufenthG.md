@@ -2079,7 +2079,11 @@ In den Fällen des Satzes 1 Nr. 1 stellt die Ausländerbehörde bei der Erteilun
 
 (2a) Von der Verpflichtung zur Teilnahme am Orientierungskurs sind Ausländer ausgenommen, die eine Aufenthaltserlaubnis nach § 38a besitzen, wenn sie nachweisen, dass sie bereits in einem anderen Mitgliedstaat der Europäischen Union zur Erlangung ihrer Rechtsstellung als langfristig Aufenthaltsberechtigte an Integrationsmaßnahmen teilgenommen haben.
 
-(3) Kommt ein Ausländer seiner Teilnahmepflicht aus von ihm zu vertretenden Gründen nicht nach oder legt er den Abschlusstest nicht erfolgreich ab, weist ihn die zuständige Ausländerbehörde vor der Verlängerung seiner Aufenthaltserlaubnis auf die möglichen Auswirkungen seines Handelns (§ 8 Abs. 3, § 9 Abs. 2 Satz 1 Nr. 7 und 8, § 9a Absatz 2 Satz 1 Nummer 3 und 4 dieses Gesetzes, § 10 Abs. 3 des Staatsangehörigkeitsgesetzes) hin. Die Ausländerbehörde kann den Ausländer mit Mitteln des Verwaltungszwangs zur Erfüllung seiner Teilnahmepflicht anhalten. Bei Verletzung der Teilnahmepflicht kann der voraussichtliche Kostenbeitrag auch vorab in einer Summe durch Gebührenbescheid erhoben werden.
+(3) Kommt ein Ausländer seiner Teilnahmepflicht aus von ihm zu vertretenden Gründen nicht nach oder legt er den Abschlusstest nicht erfolgreich ab, weist ihn die zuständige Ausländerbehörde vor der Verlängerung seiner Aufenthaltserlaubnis auf die möglichen Auswirkungen seines Handelns (§ 8 Abs. 3, § 9 Abs. 2 Satz 1 Nr. 7 und 8, § 9a Absatz 2 Satz 1 Nummer 3 und 4 dieses
+
+Gesetzes) hin. Die Ausländerbehörde kann den Ausländer mit Mitteln des Verwaltungszwangs zur Erfüllung seiner Teilnahmepflicht anhalten. Bei Verletzung der Teilnahmepflicht kann der voraussichtliche Kostenbeitrag auch vorab in einer Summe durch Gebührenbescheid erhoben werden.
+
+§ 44a Abs. 3 Satz 1 Kursivdruck: IdF d. Art. 2 G v. 27.10.2025 I Nr. 256 mWv 30.10.2025 (sinngemäß konsolidiert)
 
 # § 45 – Integrationsprogramm
 

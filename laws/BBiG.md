@@ -1571,7 +1571,7 @@ f) weitere Verwaltungsaufgaben des Bundes zur Förderung der Berufsbildung zu ü
 
 4. die im Fernunterrichtsschutzgesetz beschriebenen Aufgaben nach den vom Hauptausschuss erlassenen und vom zuständigen Bundesministerium genehmigten Richtlinien wahrzunehmen und durch Förderung von Entwicklungsvorhaben zur Verbesserung und Ausbau des berufsbildenden Fernunterrichts beizutragen.
 
-(3a) Das Bundesinstitut für Berufsbildung nimmt die Aufgaben nach § 53 Absatz 5 Satz 1 und § 54 des Pflegeberufegesetzes wahr.
+(3a) Das Bundesinstitut für Berufsbildung nimmt die Aufgaben nach § 53 Absatz 5 Satz 1 und § 54 des Pflegeberufegesetzes sowie nach § 45 des Pflegefachassistenzgesetzes wahr.
 
 (3b) Das Bundesinstitut für Berufsbildung nimmt die Aufgaben nach § 20a Absatz 4 Satz 5 des Aufenthaltsgesetzes und nach § 6 Absatz 1 Satz 5 der Verordnung über die Beschäftigung von Ausländerinnen und Ausländern wahr. Dabei hat das Bundesinstitut für Berufsbildung zu prüfen, ob die Ausbildung die Anforderungen des Berufsbildungsgesetzes erfüllt und zum Erwerb der beruflichen Handlungsfähigkeit geeignet ist. Das Bundesinstitut für Berufsbildung veröffentlicht auf seiner Internetseite regelmäßig eine Liste der Ausbildungen, für die eine entsprechende Bestätigung erteilt wurde.
 

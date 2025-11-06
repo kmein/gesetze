@@ -95,7 +95,7 @@ Satz 1 gilt entsprechend für Erzeugungsanlagen des Typs B, die eine kumulierte 
 
 (10) Im Rahmen des Betriebserlaubnisverfahrens muss der zuständige Netzbetreiber die vom Betreiber einer Erzeugungsanlage übermittelte Registrierungsnummer des Einheiten- oder Komponentenzertifikates aus dem Register verwenden. Er ist nicht dazu berechtigt, die in Einheiten- oder Komponentenzertifikaten enthaltenen Informationen auf anderem Wege als über das Register zu verlangen.
 
-(+++ § 4 Abs. 3, 9 u. 10: Zur Anwendung vgl. § 7 Abs. 4 ++++)
+(+++ § 4 Abs. 3, 9 u. 10: Zur Anwendung vgl. § 7 Abs. 4 +++)
 
 # § 5 – Gültigkeit von Einheiten- oder Komponentenzertifikaten
 

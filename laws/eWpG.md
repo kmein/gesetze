@@ -367,39 +367,31 @@ Im Falle einer Verfügungsbeschränkung nach § 17 Absatz 2 Satz 1 Nummer 1 hat 
 
 3. einmal jährlich.
 
-# § 20 – Veröffentlichung im Bundesanzeiger
+# § 20 – Liste der Kryptowertpapiere bei der Aufsichtsbehörde
 
-(1) Der Emittent muss unverzüglich folgende Veröffentlichungen im Bundesanzeiger veranlassen:
+(1) Der Emittent hat der Aufsichtsbehörde unverzüglich mitzuteilen:
 
-1. die Veröffentlichung der Eintragung eines Kryptowertpapiers in ein Kryptowertpapierregister sowie
+1. die Eintragung eines Kryptowertpapiers in ein Kryptowertpapierregister,
 
-2. die Veröffentlichung der Änderung der in Absatz 2 genannten Angaben eines eingetragenen Kryptowertpapiers.
+2. die Änderung der in Absatz 2 genannten Angaben eines eingetragenen Kryptowertpapiers sowie
 
-Unverzüglich nach der jeweiligen Veröffentlichung hat der Emittent der Aufsichtsbehörde diese Veröffentlichung mitzuteilen.
+3. die Löschung eines eingetragenen Kryptowertpapiers.
 
-(2) Die Veröffentlichung im Bundesanzeiger hat folgende Angaben zu enthalten:
-
-1. den Emittenten,
-
-2. Informationen zum Kryptowertpapierregister,
-
-3. die registerführende Stelle,
-
-4. den wesentlichen Inhalt des Rechts einschließlich einer eindeutigen Kennnummer und der Kennzeichnung als Wertpapier,
-
-5. das Datum der Eintragung des Kryptowertpapiers in das Kryptowertpapierregister sowie im Fall einer Änderung das Datum der Änderung und
-
-6. ob es sich um eine Eintragung oder um die Änderung der Angaben nach den Nummern 2 bis 4 handelt.
-
-(3) Die Aufsichtsbehörde führt über die ihr nach Absatz 1 Satz 2 in Verbindung mit Satz 1 Nummer 1 mitgeteilten Kryptowertpapiere eine öffentliche Liste im Internet. Die Liste enthält zu jedem Kryptowertpapier jeweils folgende Angaben:
+(2) Die Aufsichtsbehörde führt über die ihr nach Absatz 1 Nummer 1 mitgeteilten Kryptowertpapiere eine öffentliche Liste im Internet. Die Liste enthält zu jedem Kryptowertpapier jeweils folgende Angaben:
 
 1. den Emittenten,
 
 2. die registerführende Stelle,
 
-3. das Datum der Eintragung des Kryptowertpapiers in das Kryptowertpapierregister sowie
+3. Informationen zum Kryptowertpapierregister,
 
-4. bei nach Absatz 1 Satz 2 in Verbindung mit Satz 1 Nummer 2 mitgeteilten Änderungen das Datum und den wesentlichen Inhalt der jeweiligen Änderungen.
+4. den wesentlichen Inhalt des Rechts einschließlich einer eindeutigen Kennnummer und der Kennzeichnung als Wertpapier,
+
+5. das Datum der Eintragung des Kryptowertpapiers in das Kryptowertpapierregister,
+
+6. bei nach Absatz 1 Nummer 2 mitgeteilten Änderungen das Datum und den wesentlichen Inhalt der jeweiligen Änderungen,
+
+7. bei nach Absatz 1 Nummer 3 mitgeteilten Löschungen das Datum der Löschung.
 
 # § 21 – Pflichten des Emittenten
 
@@ -453,9 +445,9 @@ Will der Emittent ein Kryptowertpapier in ein anderes elektronisches Wertpapierr
 
 19. die Daten, die im Aufzeichnungssystem gespeichert werden müssen,
 
-20. die Art und Weise, das Format und den Inhalt der Veröffentlichung und der Mitteilung nach § 20 Absatz 1,
+20. die Art und Weise, das Format und den Inhalt der Mitteilung nach § 20 Absatz 1,
 
-21. die Voraussetzungen für die Aufnahme und die Löschung von Kryptowertpapieren, das Format, den Inhalt und die Führung der Liste durch die Aufsichtsbehörde gemäß § 20 Absatz 3,
+21. die Voraussetzungen für die Aufnahme und die Löschung von Kryptowertpapieren, das Format, den Inhalt und die Führung der Liste durch die Aufsichtsbehörde gemäß § 20 Absatz 2,
 
 22. die Informationen, die die registerführende Stelle mit den Informationen im Aufzeichnungssystem abgleichen oder ergänzen muss und speichern muss,
 
@@ -543,7 +535,7 @@ Der Emittent ist berechtigt, die Aktien, die zugunsten eines nach § 64 Absatz 3
 
 (1) Ordnungswidrig handelt, wer
 
-1. entgegen § 20 Absatz 1 eine Veröffentlichung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt oder eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+1. entgegen § 20 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach § 23 Absatz 1 Satz 1 Nummer 20, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
 
 2. einer vollziehbaren Anordnung nach § 21 Absatz 2 Satz 2 zuwiderhandelt.
 

@@ -63,14 +63,14 @@ Auf Grund des § 56 Absatz 1 Nummer 3 des Bundesmeldegesetzes vom 3. Mai 2013 (B
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Familienname und mindestens ein Vorname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0101 bis 0102 und 0301<br />
+<td style="text-align: right;" data-valign="top" data-charoff="50">0101a und 0301<br />
 bis 0303,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">b)</td>
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">früherer Name und mindestens ein Vorname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0201 bis 0204 und 0301<br />
+<td style="text-align: right;" data-valign="top" data-charoff="50">0201a, 0203a und 0301<br />
 bis 0303,</td>
 </tr>
 <tr class="even">
@@ -209,12 +209,12 @@ Als zusätzliches Auswahldatum darf unter den Voraussetzungen des § 38 Absatz 1
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 1.</td>
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0101 bis 0106,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0101a bis 0105a,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 2.</td>
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">frühere Namen</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0201 bis 0206,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0201a bis 0206,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 3.</td>
@@ -265,7 +265,7 @@ Als zusätzliches Auswahldatum darf unter den Voraussetzungen des § 38 Absatz 1
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0902 bis 0903,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0902a,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -324,7 +324,7 @@ bis 1212,</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1501 bis 1502, 1517 bis 1518,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1501a, 1517a,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -336,8 +336,7 @@ bis 1212,</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">c)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geburtsname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1502a bis 1502c, 1518a<br />
-bis 1518c,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1502b, 1518b,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -378,7 +377,7 @@ bis 1518c,</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1601 bis 1602,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1601a,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -473,8 +472,8 @@ Der in § 31 Absatz 7 des Geldwäschegesetzes genannten Zentralstelle für Finan
 
 |     |                                                                                                                         |                       |
 |:-----|:-------------------------------------------|----------------------:|
-| 1\. | Familienname                                                                                                            |        0101 bis 0106, |
-| 2\. | frühere Namen                                                                                                           |        0201 bis 0204, |
+| 1\. | Familienname                                                                                                            |      0101a bis 0105a, |
+| 2\. | frühere Namen                                                                                                           |         0201a, 0203a, |
 | 3\. | Vornamen                                                                                                                |           0301, 0303, |
 | 4\. | Geburtsdatum                                                                                                            |                 0601, |
 | 5\. | derzeitige Anschrift der Hauptwohnung oder alleinigen Wohnung                                                           | 1201 bis 1209, 1213a, |
@@ -498,8 +497,8 @@ Zusätzlich zu den Daten nach Satz 2 sind in der Trefferliste die folgenden Hinw
 
 |      |                                                                                                                                                                                                                                              |                                  |
 |:-------|:-----------------------------------------|----------------------:|
-|  1.  | Familienname                                                                                                                                                                                                                                 |                   0101 bis 0102, |
-|  2.  | frühere Namen                                                                                                                                                                                                                                |                   0201 bis 0204, |
+|  1.  | Familienname                                                                                                                                                                                                                                 |                           0101a, |
+|  2.  | frühere Namen                                                                                                                                                                                                                                |                    0201a, 0203a, |
 |  3.  | Vornamen unter Kennzeichnung des gebräuchlichen Vornamens                                                                                                                                                                                    |                   0301 bis 0303, |
 |  4.  | Doktorgrad                                                                                                                                                                                                                                   |                            0401, |
 |  5.  | Ordensname, Künstlername                                                                                                                                                                                                                     |                      0501, 0502, |
@@ -541,19 +540,19 @@ Zusätzlich zu den Daten nach Satz 2 sind in der Trefferliste die folgenden Hinw
 
 (1) Bei einem Abruf von Meldedaten in der freien Suche nach § 34a Absatz 3 des Bundesmeldegesetzes stellen die durch die Länder zur Sicherstellung des automatisierten Abrufs von Meldedaten bestimmten Stellen oder die Meldebehörden folgende angeforderte Daten der aufgrund der nach § 7 mitgeteilten Auswahldaten festgestellten Personen in einer Ergebnisliste bereit:
 
-|      |                                                                                                                                                                                         |                |
+|      |                                                                                                                                                                                         |                  |
 |:-------|:-----------------------------------------|----------------------:|
-|  1.  | Familienname                                                                                                                                                                            | 0101 bis 0106, |
-|  2.  | frühere Namen                                                                                                                                                                           | 0201 bis 0204, |
-|  3.  | Vornamen unter Kennzeichnung des gebräuchlichen Vornamens                                                                                                                               | 0301 bis 0303, |
-|  4.  | Doktorgrad                                                                                                                                                                              |          0401, |
-|  5.  | Ordensname, Künstlername                                                                                                                                                                |    0501, 0502, |
-|  6.  | Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat                                                                                                                  | 0601 bis 0603, |
-|  7.  | Geschlecht                                                                                                                                                                              |          0701, |
-|  8.  | derzeitige Staatsangehörigkeiten                                                                                                                                                        |          1001, |
-|  9.  | Anschrift der derzeitigen Hauptwohnung oder alleinigen Wohnung                                                                                                                          | 1201 bis 1212, |
-| 10\. | Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den Staat                                                                                                                | 1901 bis 1905, |
-| 11\. | im Falle der Übermittlung von mehr als einem Datensatz auch das Identifikationsmerkmal nach § 39 Absatz 2 des Bundesmeldegesetzes nach den technischen Vorgaben in Nummer 5 der Anlage. |                |
+|  1.  | Familienname                                                                                                                                                                            | 0101a bis 0105a, |
+|  2.  | frühere Namen                                                                                                                                                                           |    0201a, 0203a, |
+|  3.  | Vornamen unter Kennzeichnung des gebräuchlichen Vornamens                                                                                                                               |   0301 bis 0303, |
+|  4.  | Doktorgrad                                                                                                                                                                              |            0401, |
+|  5.  | Ordensname, Künstlername                                                                                                                                                                |      0501, 0502, |
+|  6.  | Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat                                                                                                                  |   0601 bis 0603, |
+|  7.  | Geschlecht                                                                                                                                                                              |            0701, |
+|  8.  | derzeitige Staatsangehörigkeiten                                                                                                                                                        |            1001, |
+|  9.  | Anschrift der derzeitigen Hauptwohnung oder alleinigen Wohnung                                                                                                                          |   1201 bis 1212, |
+| 10\. | Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den Staat                                                                                                                |   1901 bis 1905, |
+| 11\. | im Falle der Übermittlung von mehr als einem Datensatz auch das Identifikationsmerkmal nach § 39 Absatz 2 des Bundesmeldegesetzes nach den technischen Vorgaben in Nummer 5 der Anlage. |                  |
 
 Die konkret abzurufenden Daten aus Satz 1 Nummer 1 bis 10 werden durch die abrufende Stelle bestimmt. Zusätzlich zu den nach Satz 1 angeforderten Daten sind die folgenden Hinweise zu übermitteln:
 
@@ -716,7 +715,7 @@ Zu § 4
 a) Normalisierung von Zeichen
 
 aa)  
-Alle Auswahldaten nach § 4 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0301 bis 0303, 0201 bis 0204, 0501, 0502, 1205, 0602, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022)<span id="FnR.F816979_01"></span><a href="#F816979_01" class="FnR">1</a></sup> normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
+Alle Auswahldaten nach § 4 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101a, 0301 bis 0303, 0201a, 0203a, 0501, 0502, 1205, 0602, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022)¹ normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
 
 bb)  
 Beispiele
@@ -762,7 +761,7 @@ Beispiele
 b) Familiennamen
 
 aa)  
-In jeder Suchanfrage muss von der abrufenden Stelle ein vollständiger Familienname in korrekter Reihenfolge als Auswahldatum angegeben sein. Im Kontext des als Auswahldatum übermittelten Familiennamens müssen alle im Melderegister nach DSMeld 0101 bis 0102, 0201 bis 0202, 0203 bis 0204, 0501 und 0502 gespeicherten Informationen zur Suche durch die Auskunft gebende Stelle herangezogen werden.
+In jeder Suchanfrage muss von der abrufenden Stelle ein vollständiger Familienname in korrekter Reihenfolge als Auswahldatum angegeben sein. Im Kontext des als Auswahldatum übermittelten Familiennamens müssen alle im Melderegister nach DSMeld 0101a, 0201a, 0203a, 0501 und 0502 gespeicherten Informationen zur Suche durch die Auskunft gebende Stelle herangezogen werden.
 
 bb)  
 Eine Person darf nur dann in das Suchergebnis eingehen, wenn der als Auswahldatum angegebene Familienname exakt mit folgenden Daten der Person im Melderegister übereinstimmt:
@@ -771,23 +770,14 @@ aaa)
 dem Familiennamen – unstrukturiert – (DSMeld-Blatt 0101a, 1. oder 2. Periode) oder
 
 bbb)  
-dem Familiennamen (DSMeld-Blatt 0101) in Kombination mit den Namensbestandteilen des Familiennamens (DSMeld-Blatt 0102) (1. oder 2. Periode) oder
+dem Geburtsnamen – unstrukturiert – (DSMeld-Blatt 0201a) oder
 
-ccc) dem Geburtsnamen – unstrukturiert – (DSMeld-Blatt 0201a) oder
+ccc) dem Familiennamen vor Änderung – unstrukturiert – (DSMeld-Blatt 0203a) oder
 
 ddd)  
-dem Geburtsnamen (DSMeld-Blatt 0201) in Kombination mit den Namensbestandteilen des Geburtsnamens (DSMeld-Blatt 0202) oder
-
-eee)  
-dem Familiennamen vor Änderung – unstrukturiert – (DSMeld-Blatt 0203a) oder
-
-fff)  
-dem Familiennamen vor Änderung (DSMeld-Blatt 0203) in Kombination mit den Namensbestandteilen des Familiennamens vor Änderung (DSMeld-Blatt 0204) oder
-
-ggg)  
 dem Ordensnamen (DSMeld-Blatt 0501) oder
 
-hhh)  
+eee)  
 dem Künstlernamen (DSMeld-Blatt 0502).
 
 cc) Beispiele
@@ -811,7 +801,7 @@ cc) Beispiele
 c) Vornamen
 
 aa)  
-Vornamen werden vor der Normalisierung von Zeichen von der Auskunft gebenden Stelle über vorkommende Leerzeichen separiert. Eine Separierung über vorkommende Bindestriche erfolgt nicht. Ein Bindestrich verbindet einzelne Vornamen somit zu einem Namen. Im Kontext der als Auswahldatum übermittelten Vornamen müssen alle im Melderegister nach DSMeld 0301 bis 0303, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden. Zur erfolgreichen Identifikation muss jeder einzelne in den Auswahldaten angegebene Vorname in der Menge der zur Person im Melderegister gespeicherten Vornamen vorhanden sein. Die Reihenfolge der Vornamen ist ohne Bedeutung.
+Vornamen werden vor der Normalisierung von Zeichen von der Auskunft gebenden Stelle über vorkommende Leerzeichen separiert. Eine Separierung über vorkommende Bindestriche erfolgt nicht. Ein Bindestrich verbindet einzelne Vornamen somit zu einem Namen. Im Kontext der als Auswahldatum übermittelten Vornamen müssen alle im Melderegister nach DSMeld 0301 (1. oder 2. Periode), 0302, 0303, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden. Zur erfolgreichen Identifikation muss jeder einzelne in den Auswahldaten angegebene Vorname in der Menge der zur Person im Melderegister gespeicherten Vornamen vorhanden sein. Die Reihenfolge der Vornamen ist ohne Bedeutung.
 
 bb)  
 Beispiele
@@ -994,13 +984,13 @@ Einfache Beispiele
 ff)  
 Beispiel für eine kombinierte Suche
 
-Ausgangssituation: Im Melderegister ist ein Datensatz zu Jochen Dreier gespeichert. Für diesen Datensatz ist in DSMeld-Feld 0301 der Wert „Jochen“ gespeichert, in DSMeld-Feld 0101 der Wert „Dreier“ und in DSMeld-Feld 0502 der Wert „Graf von Elba“.
+Ausgangssituation: Im Melderegister ist ein Datensatz zu Jochen Dreier gespeichert. Für diesen Datensatz ist in DSMeld-Feld 0301 der Wert „Jochen“ gespeichert und in DSMeld-Feld 0502 der Wert „Graf von Elba“.
 
 Die abrufende Stelle sucht mit Vornamen „Jochen“ als Auswahldatum und mit Familiennamen „Graf“ als Auswahldatum.
 
-Bezüglich des Auswahldatums „Jochen“ greift die Vorgabe zu Vornamen, d. h. es wird in den DSMeld-Feldern 0301, 0302, 0303a, 0501 und 0502 nach „Jochen“ gesucht. In DSMeld-Feld 0301 ist „Jochen“ gespeichert. Damit ergibt sich bzgl. des Vornamens eine Übereinstimmung.
+Bezüglich des Auswahldatums „Jochen“ greift die Vorgabe zu Vornamen, d. h. es wird in den DSMeld-Feldern 0301 (1. oder 2. Periode), 0302, 0303, 0501 und 0502 nach „Jochen“ gesucht. In DSMeld-Feld 0301 ist „Jochen“ gespeichert. Damit ergibt sich bzgl. des Vornamens eine Übereinstimmung.
 
-Bezüglich des Auswahldatums „Graf“ greift die Vorgabe zum Familiennamen, d. h. es wird in den DSMeld-Feldern 0101, 0101a, 0102, 0201, 0201a, 0202, 0203, 0203a, 0204, 0501 und 0502 nach „Graf“ gesucht. In Feld 0501 ist „Graf von Elba“ gespeichert.
+Bezüglich des Auswahldatums „Graf“ greift die Vorgabe zum Familiennamen, d. h. es wird in den DSMeld-Feldern 0101a (1. oder 2. Periode), 0201a, 0203a, 0501 und 0502 nach „Graf“ gesucht. In Feld 0501 ist „Graf von Elba“ gespeichert.
 
 In der Personensuche gilt im Vergleich zur freien Suche eine strengere Vorgabe zum Familiennamen. Hier muss der Familienname in den Auswahldaten exakt mit einem der oben genannten Felder (bzw. Feld-Kombinationen) übereinstimmen. Das Auswahldatum „Graf” stimmt jedoch mit dem gespeicherten Künstlernamen „Graf von Elba“ nicht überein.
 
@@ -1382,7 +1372,7 @@ Zu § 7
 a) Normalisierung von Zeichen
 
 aa)  
-Alle Auswahldaten nach § 7 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0201 bis 0204, 0301 bis 0303, 0501, 0502, 0602, 1203, 1204, 1205, 1211, 1212, 1233, 1408, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022) normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
+Alle Auswahldaten nach § 7 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101a, 0201a, 0203a, 0301 bis 0303, 0501, 0502, 0602, 1203, 1204, 1205, 1211, 1212, 1233, 1408, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022) normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
 
 bb)  
 Beispiele
@@ -1432,7 +1422,7 @@ aa)
 Familiennamen müssen von der Auskunft gebenden Stelle vor der Normalisierung von Zeichen über vorkommende Leerzeichen in einzelne Teile separiert werden. Eine Separierung über vorkommende Bindestriche darf nicht erfolgen.
 
 bb)  
-Im Kontext des als Auswahldatum übermittelten Familiennamens müssen alle im Melderegister nach DSMeld-Blatt 0101 bis 0102 (1. oder 2. Periode), 0102, 0201 bis 0202, 0203 bis 0204, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden.
+Im Kontext des als Auswahldatum übermittelten Familiennamens müssen alle im Melderegister nach DSMeld-Blatt 0101a (1. oder 2. Periode), 0201a, 0203a, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden.
 
 cc) Zur erfolgreichen Identifikation einer Person in der Suche muss jeder einzelne in den Auswahldaten angegebene Teil des Familiennamens in der Menge der Teile des Familiennamens, den die Person im Melderegister besitzt, unabhängig von der Reihenfolge der Teile, vorhanden sein.
 
@@ -1485,7 +1475,7 @@ Künstlername im Melderegister</th>
 c) Vornamen
 
 aa)  
-Vornamen werden vor der Normalisierung von Zeichen über vorkommende Leerzeichen von der Auskunft gebenden Stelle separiert. Eine Separierung über vorkommende Bindestriche erfolgt nicht. Ein Bindestrich verbindet einzelne Vornamen somit zu einem Namen. Im Kontext der als Auswahldatum übermittelten Vornamen müssen alle im Melderegister gemäß DSMeld-Blatt 0301 bis 0303, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden. Zur erfolgreichen Identifikation muss jeder einzelne in den Auswahldaten angegebene Vorname in der Menge der zur Person im Melderegister gespeicherten Vornamen vorhanden sein. Die Reihenfolge der Vornamen ist ohne Bedeutung.
+Vornamen werden vor der Normalisierung von Zeichen über vorkommende Leerzeichen von der Auskunft gebenden Stelle separiert. Eine Separierung über vorkommende Bindestriche erfolgt nicht. Ein Bindestrich verbindet einzelne Vornamen somit zu einem Namen. Im Kontext der als Auswahldatum übermittelten Vornamen müssen alle im Melderegister gemäß DSMeld-Blatt 0301 (1. oder 2. Periode), 0302, 0303, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden. Zur erfolgreichen Identifikation muss jeder einzelne in den Auswahldaten angegebene Vorname in der Menge der zur Person im Melderegister gespeicherten Vornamen vorhanden sein. Die Reihenfolge der Vornamen ist ohne Bedeutung.
 
 bb)  
 Beispiele
@@ -1660,13 +1650,13 @@ Einfache Beispiele
 ee)  
 Beispiel für eine kombinierte Suche
 
-Ausgangssituation: Im Melderegister ist ein Datensatz zu Jochen Dreier gespeichert. Für diesen Datensatz ist in DSMeld-Feld 0301 der Wert „Jochen“ gespeichert, in DSMeld-Feld 0101 der Wert „Dreier“ und in DSMeld-Feld 0502 der Wert „Graf von Elba“.
+Ausgangssituation: Im Melderegister ist ein Datensatz zu Jochen Dreier gespeichert. Für diesen Datensatz ist in DSMeld-Feld 0301 der Wert „Jochen“ gespeichert und in DSMeld-Feld 0502 der Wert „Graf von Elba“.
 
 Die abrufende Stelle sucht mit Vornamen „Jochen“ als Auswahldatum und mit Familiennamen „Graf“ als Auswahldatum.
 
-Bezüglich des Auswahldatums „Jochen“ greift die Vorgabe zu Vornamen, d. h. es wird in den DSMeld-Feldern 0301, 0302, 0303a, 0501 und 0502 nach „Jochen“ gesucht. In DSMeld-Feld 0301 ist „Jochen“ gespeichert. Damit ergibt sich bzgl. des Vornamens eine Übereinstimmung.
+Bezüglich des Auswahldatums „Jochen“ greift die Vorgabe zu Vornamen, d. h. es wird in den DSMeld-Feldern 0301 (1. oder 2. Periode), 0302, 0303, 0501 und 0502 nach „Jochen“ gesucht. In DSMeld-Feld 0301 ist „Jochen“ gespeichert. Damit ergibt sich bzgl. des Vornamens eine Übereinstimmung.
 
-Bezüglich des Auswahldatums „Graf“ greift die Vorgabe zum Familiennamen, d. h. es wird in den DSMeld-Feldern 0101, 0101a, 0102, 0201, 0201a, 0202, 0203, 0203a, 0204, 0501 und 0502 nach „Graf“ gesucht. In Feld 0501 ist „Graf von Elba“ gespeichert.
+Bezüglich des Auswahldatums „Graf“ greift die Vorgabe zum Familiennamen, d. h. es wird in den DSMeld-Feldern 0101a (1. oder 2. Periode), 0201a, 0203a, 0501 und 0502 nach „Graf“ gesucht. In Feld 0501 ist „Graf von Elba“ gespeichert.
 
 In der freien Suche werden Familiennamen separiert, d. h. für alle genannten DSMeld-Felder, inkl. Künstlernamen. „Graf“ ist in der Menge der gespeicherten Künstlernamen („Graf“, „von“, „Elba“) enthalten. Somit ergibt sich für die freie Suche für den Familiennamen eine Übereinstimmung.
 
@@ -2123,7 +2113,7 @@ das ? genau einem beliebigen Zeichen, einschließlich Leerzeichen und Sonderzeic
 bb)  
 das \* 0 bis n beliebigen Zeichen, einschließlich Leerzeichen und Sonderzeichen entspricht, wobei n eine beliebige Anzahl repräsentiert.
 
-Die Auswertung von Platzhaltern muss für die folgenden in § 7 Absatz 1 genannten Auswahldaten ermöglicht werden: Blattnummer des DSMeld (Datenblatt) 0101, 0101a, 0102, 0201, 0201a, 0202, 0203, 0203a, 0204, 0301, 0302, 0303, 0501, 0502 und 1205.
+Die Auswertung von Platzhaltern muss für die folgenden in § 7 Absatz 1 genannten Auswahldaten ermöglicht werden: Blattnummer des DSMeld (Datenblatt) 0101a, 0201a, 0203a, 0301, 0302, 0303, 0501, 0502 und 1205.
 
 b) Platzhalterzeichen werden auf die normalisierten Auswahldaten angewandt. Im Kontext von Namensfeldern, für die eine Separierung erfolgt, wird die Suche mit Platzhalterzeichen somit auf die einzelnen, separierten Namen, ohne Berücksichtigung der Reihenfolge der Namen, angewandt. Bestimmte Buchstaben wie beispielsweise „ß“ oder „œ“ werden auf mehr als ein Zeichen in der Normalform abgebildet (bei diesen Beispielen auf „SS“ und „OE“). Die Verwendung eines „?“ führt nur dann zu einer Übereinstimmung, wenn der jeweilige Buchstabe in der Normalform ebenfalls nur auf ein Zeichen abgebildet wird.
 

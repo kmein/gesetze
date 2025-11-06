@@ -198,55 +198,6 @@ Bund und Länder überprüfen gemeinsam die Voraussetzungen der Vergabe in einem
 
 § 11 idF d. G v. 20.12.2001 I 3955, 3956: Nach Maßgabe der Entscheidungsformel mit Art. 107 Abs. 2 Satz 3 GG vereinbar gem. BVerfGE v. 19.10.2006 I 2652 - 2 BvF 3/03 -
 
-# § 11 – Bundesergänzungszuweisungen
-
-(1) Der Bund gewährt aus seinen Mitteln leistungsschwachen Ländern Bundesergänzungszuweisungen zur ergänzenden Deckung ihres allgemeinen Finanzbedarfs sowie zum Ausgleich von Sonderlasten nach Maßgabe der Absätze 2 bis 6.
-
-(2) Zur ergänzenden Deckung ihres allgemeinen Finanzbedarfs erhalten leistungsschwache Länder allgemeine Bundesergänzungszuweisungen. Leistungsschwach im Sinne von Satz 1 ist ein Land, dessen Summe aus Finanzkraftmesszahl und Zuschlag nach § 10 Fehlbeträge an 99,75 Prozent der Ausgleichsmesszahl des Ausgleichsjahres aufweist. Ein leistungsschwaches Land erhält 80 Prozent dieser Fehlbeträge als allgemeine Bundesergänzungszuweisungen.
-
-(3) Zum Ausgleich von Sonderlasten durch die strukturelle Arbeitslosigkeit und der daraus entstehenden überproportionalen Lasten bei der Zusammenführung von Arbeitslosenhilfe und Sozialhilfe für Erwerbsfähige erhalten nachstehende Länder jährlich folgende Sonderbedarfs-Bundesergänzungszuweisungen:  
-  
-
-|                        |                  |
-|:-----------------------|-----------------:|
-| Brandenburg            |  6 840 000 Euro, |
-| Mecklenburg-Vorpommern |  4 608 000 Euro, |
-| Sachsen                | 11 484 000 Euro, |
-| Sachsen-Anhalt         |  6 732 000 Euro, |
-| Thüringen              |  6 336 000 Euro. |
-
-  
-  
-Bund und Länder überprüfen gemeinsam in einem Abstand von drei Jahren, beginnend im Jahr 2022, in welcher Höhe die Sonderlasten dieser Länder ab dem jeweils folgenden Jahr auszugleichen sind. Die Sonderlasten sind entsprechend den im Jahr vor der Überprüfung gegebenen einwohnerbezogenen Verhältnissen der Bedarfsgemeinschaften und der Entwicklung der Kosten der Unterkunft im Durchschnitt der Länder Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen im Verhältnis zum Durchschnitt der Länder Baden-Württemberg, Bayern, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein in Bezug zum Ausgangsjahr 2005 zu ermitteln.
-
-(4) Wegen überdurchschnittlich hoher Kosten politischer Führung erhalten nachstehende Länder jährlich folgende Sonderbedarfs-Bundesergänzungszuweisungen, wenn sie im jeweiligen Ausgleichsjahr das Kriterium der Leistungsschwäche gemäß Absatz 2 Satz 2 erfüllen:
-
-|                        |                  |
-|:-----------------------|-----------------:|
-| Berlin                 | 62 831 000 Euro, |
-| Brandenburg            | 76 524 000 Euro, |
-| Bremen                 | 62 501 000 Euro, |
-| Hamburg                | 78 699 000 Euro, |
-| Mecklenburg-Vorpommern | 77 987 000 Euro, |
-| Rheinland-Pfalz        | 54 410 000 Euro, |
-| Saarland               | 70 652 000 Euro, |
-| Sachsen                | 54 510 000 Euro, |
-| Sachsen-Anhalt         | 78 157 000 Euro, |
-| Schleswig-Holstein     | 72 969 000 Euro, |
-| Thüringen              | 78 404 000 Euro. |
-
-  
-  
-Bund und Länder überprüfen gemeinsam die Voraussetzungen der Vergabe in einem Abstand von fünf Jahren, erstmals im Jahr 2023, im Hinblick auf die Vergabe im jeweils übernächsten Jahr.
-
-(5) Leistungsschwache Länder, in denen die kommunalen Steuereinnahmen gemäß § 8 Absatz 1 und 2 im Ausgleichsjahr je Einwohner weniger als 80 Prozent des Durchschnitts aller gemäß § 8 Absatz 1 und 2 ermittelten Steuereinnahmen der Gemeinden betragen, erhalten Bundesergänzungszuweisungen zum Ausgleich besonders geringer kommunaler Steuerkraft. Die Zuweisungen erfolgen in Höhe von 53,5 Prozent des zu 80 Prozent des Durchschnitts bestehenden Fehlbetrages. Für die Berechnung der Zuweisungen sind die nach § 9 Absatz 1 ermittelten Einwohnerzahlen maßgebend. Absatz 2 Satz 2 gilt entsprechend.
-
-(6) Zuweisungen werden leistungsschwachen Ländern gewährt, die aus Mitteln der Forschungsförderung nach Artikel 91b des Grundgesetzes einen Forschungsnettozufluss in Höhe von weniger als 95 Prozent des den Ländern durchschnittlich gewährten Forschungsnettozuflusses erhalten haben. Diese Länder erhalten pro Einwohner Ergänzungszuweisungen des Bundes in Höhe von 35 Prozent des zu 95 Prozent des durchschnittlich von den Ländern vereinnahmten Forschungsnettozuflusses bestehenden Fehlbetrages. Forschungsnettozufluss ist der Nettozufluss pro Einwohner in der von der Gemeinsamen Wissenschaftskonferenz für das dem Ausgleichsjahr sieben Jahre vorausgehende Jahr festgestellten Höhe. Absatz 2 Satz 2 gilt entsprechend.
-
-(7) Die Bundesergänzungszuweisungen nach § 11 sind abweichend von § 10 Abs. 3, § 12 Abs. 1 und 4 des Haushaltsgrundsätzegesetzes sowie von § 13 Abs. 3, § 15 Abs. 1 und § 17 Abs. 1 der Bundeshaushaltsordnung bei den Einnahmen darzustellen.
-
-§ 11 idF d. G v. 20.12.2001 I 3955, 3956: Nach Maßgabe der Entscheidungsformel mit Art. 107 Abs. 2 Satz 3 GG vereinbar gem. BVerfGE v. 19.10.2006 I 2652 - 2 BvF 3/03 -
-
 # § 12 – Feststellung der Umsatzsteueranteile
 
 Das Bundesministerium der Finanzen stellt nach Ablauf des Ausgleichsjahres die endgültige Höhe der Länderanteile an der Umsatzsteuer durch Rechtsverordnung fest, die der Zustimmung des Bundesrates bedarf.
@@ -284,12 +235,6 @@ Unterschiede zwischen den vorläufig gezahlten und den endgültig festgestellten
 (1) Auf die Bundesergänzungszuweisungen nach § 11 Absatz 2 und 5 werden am 15. März, 15. Juni, 15. September und 15. Dezember Abschlagszahlungen nach Maßgabe der Verhältnisse des jeweils vorhergehenden Abrechnungszeitraums entrichtet. Gleichzeitig werden die mit der Abschlagszahlung des vorausgegangenen Zahlungstermins zu viel oder zu wenig gezahlten Beträge verrechnet. Für die endgültige Abrechnung der Bundesergänzungszuweisungen gilt § 15 entsprechend.
 
 (2) Die Bundesergänzungszuweisungen nach § 11 Absatz 3, 4 und 6 sind mit je einem Viertel ihres Betrages am 15. März, 15. Juni, 15. September und 15. Dezember fällig.
-
-# § 16 – Zahlungsverkehr zum Vollzug der Bundesergänzungszuweisungen
-
-(1) Auf die Bundesergänzungszuweisungen nach § 11 Absatz 2, 4, 5 und 6 werden am 15. März, 15. Juni, 15. September und 15. Dezember Abschlagszahlungen nach Maßgabe der Verhältnisse des jeweils vorhergehenden Abrechnungszeitraums entrichtet. Gleichzeitig werden die mit der Abschlagszahlung des vorausgegangenen Zahlungstermins zu viel oder zu wenig gezahlten Beträge verrechnet. Für die endgültige Abrechnung der Bundesergänzungszuweisungen gilt § 15 entsprechend.
-
-(2) Die Bundesergänzungszuweisungen nach § 11 Absatz 3 sind mit je einem Viertel ihres Betrages am 15. März, 15. Juni, 15. September und 15. Dezember fällig.
 
 # § 17 – Vollzug der Verteilung des Gemeindeanteils an der Umsatzsteuer
 

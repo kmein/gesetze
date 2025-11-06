@@ -159,7 +159,7 @@
 |                        § 63                        |                                                              Datenspeicherung                                                              |
 |                        § 64                        |                                                       Datenübermittlung und -nutzung                                                       |
 |                        § 65                        |                                  Besonderer Vertrauensschutz in der persönlichen und erzieherischen Hilfe                                  |
-|                        § 66                        |                                                               (weggefallen)                                                                |
+|                        § 66                        |                                                 Auskünfte aus dem Ausländerzentralregister                                                 |
 |                        § 67                        |                                                               (weggefallen)                                                                |
 |                        § 68                        |                            Sozialdaten im Bereich der Beistandschaft, Amtspflegschaft und der Amtsvormundschaft                            |
 |                                                    |                                                                                                                                            |
@@ -1571,7 +1571,9 @@ Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder übermitte
 
 (2) § 35 Absatz 3 des Ersten Buches gilt auch, soweit ein behördeninternes Weitergabeverbot nach Absatz 1 besteht.
 
-# § 66 – (weggefallen)
+# § 66 – Auskünfte aus dem Ausländerzentralregister
+
+Zur Erfüllung der Aufgaben nach diesem Buch dürfen die öffentlichen Träger der Jugendhilfe über junge Menschen, die Hilfen oder Leistungen nach diesem Buch erhalten oder erhalten sollen oder in Obhut genommen wurden, mittels einer Auskunft aus dem Ausländerzentralregister die in § 18d Absatz 1 des Ausländerzentralregistergesetzes genannten Daten abrufen.
 
 # § 67 – (weggefallen)
 

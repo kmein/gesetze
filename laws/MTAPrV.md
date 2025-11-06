@@ -377,7 +377,7 @@ Sie hat den Grund für ihren Rücktritt unverzüglich der dem Prüfungsausschuss
 
 (4) Stellt die dem Prüfungsausschuss vorsitzende Person fest, dass kein wichtiger Grund für den Rücktritt vorliegt, so ist der vom Rücktritt betroffene Bestandteil der staatlichen Prüfung nach Absatz 1 Nummer 1 bis 3 nicht bestanden.
 
-(++++ § 21: Zur Anwendung vgl. § 22 Satz 1 +++)
+(+++ § 21: Zur Anwendung vgl. § 22 Satz 1 +++)
 
 # § 22 – Versäumnisse
 

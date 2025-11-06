@@ -209,11 +209,11 @@ Für die Verarbeitung der nach dem Gesetz und dieser Verordnung zu registrierend
 
 4. Stufe D erlaubt die Einsicht in das Suchverzeichnis, um festzustellen, ob der Eintrag bei dem betreffenden Standesamt geführt wird,
 
-5. Stufe T erlaubt, einen automatisierten Datenabruf durch einen technischen Benutzer nach § 68 Absatz 2 des Gesetzes auszulösen.
+5. Stufe T erlaubt, einen automatisierten Datenabruf durch einen technischen Benutzer nach § 68 Absatz 2 des Gesetzes auszulösen sowie die Identifikationsnummer gemäß § 2 Nummer 1 des Identifikationsnummerngesetzes in den Datensatz eines Registereintrags zu übernehmen.
 
 Eine höhere Berechtigung schließt eine niedrigere ein.
 
-(2) Die Berechtigung und die jeweiligen Berechtigungsstufen nach Absatz 1 werden durch einen von dem Aufgabenträger des Standesamts dafür bestimmten Standesbeamten erteilt. Die Zugriffsberechtigung für ein nach § 67 des Gesetzes eingerichtetes zentrales Personenstandsregister wird durch Rechtsverordnung der Landesregierung geregelt. Die Ermächtigung kann durch Rechtsverordnung auf oberste Landesbehörden übertragen werden.
+(2) Die Berechtigung und die jeweiligen Berechtigungsstufen nach Absatz 1 werden durch einen von dem Aufgabenträger des Standesamts dafür bestimmten Standesbeamten, nach Absatz 1 Nummer 5 durch den Verfahrensbetreiber für das Registerverfahren erteilt. Die Zugriffsberechtigung für ein nach § 67 des Gesetzes eingerichtetes zentrales Personenstandsregister wird durch Rechtsverordnung der Landesregierung geregelt. Die Ermächtigung kann durch Rechtsverordnung auf oberste Landesbehörden übertragen werden.
 
 (3) Das Löschen eines Registereintrags nach § 7 Absatz 3 und 4 des Gesetzes erfolgt durch einen von dem Aufgabenträger des Standesamts dafür bestimmten Standesbeamten. Durch technische Maßnahmen ist zu gewährleisten, dass nur Registereinträge, einschließlich der zugehörigen elektronischen Sammelakten, gelöscht werden können, deren Fortführungsfrist nach § 5 Absatz 5 des Gesetzes abgelaufen ist.
 
@@ -629,7 +629,7 @@ a) die Änderung oder Feststellung des Lebenspartnerschaftsnamens der Lebenspart
 
 b) die Änderung oder Feststellung des Vor- oder Familiennamens eines Lebenspartners, dessen Geburt nicht im Inland beurkundet ist.
 
-(3) (weggefallen)
+(3) Die Meldebehörde teilt dem Standesamt die erstmalig erteilte Identifikationsnummer nach § 139b der Abgabenordnung mit. Ist zu einer Person noch keine Identifikationsnummer nach § 139b der Abgabenordnung im Personenstandsregister gespeichert, teilt die Registermodernisierungsbehörde nach dem Identifikationsnummerngesetz diese auf Anforderung dem Standesamt mit, das einen Personenstandseintrag für diese Person führt.
 
 (4) Das Jugendamt teilt folgende Beurkundungen mit:
 

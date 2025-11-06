@@ -1168,10 +1168,166 @@ am unteren Rand mit der Dokumentennummer versehen.</td>
 |:--------------------------------------------------:|
 | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0040.jpg) |
 
-# Anlage 8
+# Anlage 8 – (zu § 4 Absatz 2)Anforderungen an das Lichtbild für den Pass im Sinne des § 1 Absatz 2 des Passgesetzes
 
-(Fundstelle: BGBl. I 2007, 2453 - 2455;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 260, S. 7 – 10)
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 38%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0040.jpg" alt="Illustration einer Person mit langen blonden Haaren, die freundlich lächelt. Darüber befindet sich ein Netz aus Linien, das die Ausrichtung gemäß der Biometrie vorgibt." /></td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Das Foto zeigt das Gesicht von der Kinnspitze bis zum oberen Kopfende. Beide Gesichtshälften sind deutlich erkennbar. Das Gesicht nimmt 70 bis 80 % der Höhe des Fotos ein.</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0050.jpg" alt="Illustration einer Person mit blauen Haaren und gleichmäßig ausgeleuchtetem Gesicht." /></td>
+<td rowspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Ausleuchtung<br />
+Das Gesicht ist an allen Stellen gleichmäßig ausgeleuchtet und reflektiert nicht. Rote Augen sind zu vermeiden.</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0060.jpg" alt="Illustration einer Person mit blauen Haaren und einem Schlagschatten auf der rechten Seite ihres Gesichts." /></td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0070.jpg" alt="Illustration einer Person mit blauen Haaren. Das Bild hat einen geringen Kontrast und ist sehr dunkel." /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0080.jpg" alt="Illustration einer Person mit blauen Haaren und einer Reflexion im Gesicht." /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Schlagschatten</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zu dunkel</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Reflexion im Gesicht</td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0090.jpg" alt="Illustration einer bärtigen Person mit geradem und mittig positioniertem Kopf." /></td>
+<td rowspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Kopfposition<br />
+Der Kopf ist mittig im Foto positioniert und gerade.</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0100.jpg" alt="Illustration einer bärtigen Person mit geneigtem Kopf zur rechten Seite." /></td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0110.jpg" alt="Illustration einer bärtigen Person, die leicht nach oben schaut." /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0120.jpg" alt="Illustration einer bärtigen Person, die sich am rechten unteren Bildausschnitt befindet." /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kopfneigung zur Seite</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Nach unten oder oben</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Nicht zentriert</td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0130.jpg" alt="Illustration einer Person mit scharfem und kontrastreichem Gesicht." /></td>
+<td rowspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Schärfe und Kontrast<br />
+Das Gesicht ist in allen Bereichen scharf abgebildet und kontrastreich.</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0140.jpg" alt="Illustration einer Person mit unscharfem Gesicht." /></td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0150.jpg" alt="Illustration einer Person mit geringem Kontrast und dunkler Belichtung." /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0160.jpg" alt="Illustration einer Person mit geringem Kontrast und heller Belichtung." /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Schärfe unzureichend</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Mangelnder Kontrast<br />
+
+(zu dunkel)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Mangelnder Kontrast<br />
+
+(zu hell)</td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0170.jpg" alt="Illustration einer Person mit kurzen weißen Haaren vor einem schattenfreien, einfarbig grauen Hintergrund." /></td>
+<td rowspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Hintergrund<br />
+Der schattenfreie Hintergrund ist einfarbig und bildet zum Gesicht sowie zu den Haaren einen deutlichen Kontrast.</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0180.jpg" alt="Illustration einer Person mit kurzen weißen Haaren vor einem gemusterten Hintergrund." /></td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0190.jpg" alt="Illustration einer Person mit kurzen weißen Haaren vor einem kontrastarmen Hintergrund." /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0200.jpg" alt="Illustration einer Person mit kurzen weißen Haaren vor einem Hintergrund mit Schatten." /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hintergrund mit Muster</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hintergrund ohne Kontrast</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hintergrund mit Schatten</td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0210.jpg" alt="Illustration einer bärtigen Person mit Brille in guter Fotoqualität und mit realitätsgetreuem Hautton." /></td>
+<td rowspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Fotoqualität<br />
+Die Farben und insbesondere der Hautton werden auf dem Foto realitätsgetreu wiedergegeben. Digitale Fotos liegen in Farbe vor.</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0220.jpg" alt="Illustration einer bärtigen Person mit Brille und offensichtlich retuschiertem Gesicht." /></td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0230.jpg" alt="Illustration einer bärtigen Person mit Brille und weichgezeichnetem Gesicht." /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0240.jpg" alt="Illustration einer bärtigen Person mit Brille mit verpixeltem Gesicht." /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Mit Retuschen/Filter</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Weichzeichen</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zu geringe Auflösung</td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0250.jpg" alt="Illustration einer Person mit neutralem Gesichtsausdruck." /></td>
+<td rowspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Gesichtsausdruck<br />
+Der Gesichtsausdruck ist neutral. Der Blick ist geradeaus in die Kamera gerichtet und der Mund geschlossen.</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0260.jpg" alt="Illustration einer Person mit offenem Mund und lachendem Gesichtsausdruck." /></td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0270.jpg" alt="Illustration einer Person mit geschlossenen Augen." /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0280.jpg" alt="Illustration einer Person, die ihr Gesicht zu einer Grimasse verzieht." /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Lachen, Mund offen</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Augen zu, zusammengekniffen</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Grimasse</td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0290.jpg" alt="Illustration einer Person mit Brille und klar und deutlich erkennbaren Augen." /></td>
+<td rowspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Sichtbarkeit der Augen<br />
+Die Augen sind klar und deutlich erkennbar. Sie sind nicht verdeckt.</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0300.jpg" alt="Illustration einer Person mit Brille, deren Brillenrahmen die Augen teilweise verdeckt." /></td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0310.jpg" alt="Illustration einer Person, bei der die Haare die Augen verdecken und Rote-Augen-Effekt." /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0320.jpg" alt="Illustration einer Person mit dunklen Brillengläsern und Spiegelungen." /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Brillenrahmen verdeckt Augen</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Haare verdecken<br />
+
+die Augen,<br />
+
+Rote-Augen-Effekt</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Brillengläser zu dunkel, Spiegelung</td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0330.jpg" alt="Illustration einer Person mit Kopftuch, bei der das Gesicht von der Kinnkante bis zur Stirn sichtbar ist." /></td>
+<td rowspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Kopfbedeckung<br />
+Kopfbedeckungen sind nur aus religiösen Gründen zulässig. In diesen Fällen gilt: Das Gesicht ist von der unteren Kinnkante bis zur Stirn sichtbar. Schatten auf dem Gesicht sind nicht erkennbar.</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0340.jpg" alt="Illustration einer Person mit Basecap, das tief ins Gesicht gezogen ist." /></td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0350.jpg" alt="Illustration einer Person mit blauer Burka." /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0360.jpg" alt="Illustration einer Person mit Kopftuch, deren Gesicht kaum erkennbar ist." /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Mütze</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Burka</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gesicht nicht ausreichend sichtbar</td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0370.jpg" alt="Illustration eines Kindes mit dunkelblonden Haaren, das frontal in die Kamera blickt." /></td>
+<td rowspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Kinder<br />
+Das Gesicht nimmt 50 bis 80 % der Höhe des Fotos ein. Bis zum vollendeten 10. Lebensjahr sind im Übrigen kleinere Abweichungen zulässig.</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0380.jpg" alt="Illustration eines Kindes mit einer weißen Mütze." /></td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0390.jpg" alt="Illustration eines Kindes und einem Gegenstand im Bild." /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0400.jpg" alt="Illustration eines Kindes mit Grimasse." /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kopfbedeckung</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gegenstand im Bild</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Grimasse</td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0410.jpg" alt="Illustration eines Kleinkindes, das frontal in die Kamera blickt." /></td>
+<td rowspan="2" style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">(Klein-)Kinder und Babys<br />
+Es handelt sich um eine Frontalaufnahme. Bis zum vollendeten 6. Lebensjahr sind auf dem Foto weitere Ausnahmen in der Kopfposition, im Gesichtsausdruck und bei der Sichtbarkeit der Augen zulässig.</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0420.jpg" alt="Illustration eines Kleinkindes, dessen Kopf den Großteil des Bildes einnimmt." /></td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0430.jpg" alt="Illustration eines Kleinkindes mit einer zweiten Person im Hintergrund." /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2025/j02600_0440.jpg" alt="Illustration eines Kleinkindes, das nicht direkt in die Kamera schaut." /></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Kopf zu groß</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Zweite Person, Gegenstand im Hintergrund</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Keine Frontalaufnahme</td>
+</tr>
+</tbody>
+</table>
 
 # Anlage 9
 

@@ -1934,7 +1934,7 @@ b) eine Bescheinigung nicht oder nicht rechtzeitig zurückgibt und eine Mitteilu
 
 4a. Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 des Rates vom 18. Juli 2005 über restriktive Maßnahmen angesichts der Lage in der Demokratischen Republik Kongo (ABl. L 193 vom 23.7.2005, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2021/2177 (ABl. L 443 vom 10.12.2021, S.3) geändert worden ist,
 
-4b. Artikel 8d Absatz 1 der Verordnung (EG) Nr. 765/2006 des Rates vom 18. Mai 2006 über restriktive Maßnahmen angesichts der Lage in Belarus und der Beteiligung von Belarus an der Aggression Russlands gegen die Ukraine (ABl. L 134 vom 20.5.2006, S. 1), die zuletzt durch die Verordnung (EU) 2022/577 (ABl. L 111 vom 8.4.2022, S. 67) geändert worden ist,
+4b. Artikel 8d Absatz 1 der Verordnung (EG) Nr. 765/2006 in der Fassung vom 18. Juli 2025,
 
 4c. Artikel 27 Absatz 1 der Verordnung (EU) Nr. 36/2012 des Rates vom 18. Januar 2012 über restriktive Maßnahmen angesichts der Lage in Syrien und zur Aufhebung der Verordnung (EU) Nr. 442/2011 (ABl. L 16 vom 19.1.2012, S. 1, L 259 vom 27.9.2012, S. 7), die zuletzt durch die Verordnung (EU) Nr. 1323/2014 (ABl. L 358 vom 13.12.2014, S. 1) geändert worden ist,
 
@@ -1950,7 +1950,7 @@ b) eine Bescheinigung nicht oder nicht rechtzeitig zurückgibt und eine Mitteilu
 
 9. (weggefallen)
 
-10. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 des Rates vom 31. Juli 2014 über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren (ABl. L 229 vom 31.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2024/1469 (ABl. L, 2024/1469, 22.5.2024) geändert worden ist,
+10. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 in der Fassung vom 18. Juli 2025,
 
 11. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 1352/2014 des Rates vom 18. Dezember 2014 über restriktive Maßnahmen angesichts der Lage in Jemen (ABl. L 365 vom 19.12.2014, S. 60), die zuletzt durch die Verordnung (EU) 2015/878 (ABl. L 143 vom 9.6.2014, S. 1) geändert worden ist,
 
@@ -1960,9 +1960,11 @@ b) eine Bescheinigung nicht oder nicht rechtzeitig zurückgibt und eine Mitteilu
 
 14. Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 des Rates vom 13. November 2017 über restriktive Maßnahmen angesichts der Lage in Venezuela (ABl. L 295 vom 14.11.2017, S. 21),
 
-15. Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 des Rates vom 23. Februar 2022 über restriktive Maßnahmen als Reaktion auf die Anerkennung der nicht von der Regierung kontrollierten Gebiete der ukrainischen Regionen Donezk und Luhansk und die Entsendung russischer Streitkräfte in diese Gebiete (ABl. L 42 I vom 23.2.2022, S. 77) oder
+15. Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 des Rates vom 23. Februar 2022 über restriktive Maßnahmen als Reaktion auf die Anerkennung der nicht von der Regierung kontrollierten Gebiete der ukrainischen Regionen Donezk und Luhansk und die Entsendung russischer Streitkräfte in diese Gebiete (ABl. L 42 I vom 23.2.2022, S. 77),
 
-16. Artikel 13 Absatz 1 der Verordnung (EU) 2022/2309 des Rates vom 25. November 2022 über restriktive Maßnahmen angesichts der Lage in Haiti (ABl. L 307 vom 28.11.2022, S. 17)
+16. Artikel 13 Absatz 1 der Verordnung (EU) 2022/2309 des Rates vom 25. November 2022 über restriktive Maßnahmen angesichts der Lage in Haiti (ABl. L 307 vom 28.11.2022, S. 17) oder
+
+17. Artikel 11 Absatz 1 der Verordnung (EU) 2023/1529 in der Fassung vom 25. Juli 2025
 
 einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder einem dort genannten Anspruch stattgibt. Soweit die in Satz 1 Nummer 5 genannte Vorschrift auf die Anhänge VIII, IX, XIII und XIV der Verordnung (EU) Nr. 267/2012 verweist, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
 
@@ -1970,25 +1972,35 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder 
 
 (3) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2002 des Rates vom 20. Dezember 2002 zur Umsetzung des Zertifikationssystems des Kimberley-Prozesses für den internationalen Handel mit Rohdiamanten (ABl. L 358 vom 31.12.2002, S. 28), die zuletzt durch die Durchführungsverordnung (EU) 2022/1359 (ABl. L 205 vom 5.8.2022, S. 99) geändert worden ist, ein Behältnis oder ein dazu gehöriges Zertifikat nicht oder nicht rechtzeitig einer Gemeinschaftsbehörde zur Prüfung vorlegt.
 
-(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 765/2006 verstößt, indem er vorsätzlich oder fahrlässig
+(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 765/2006 in der Fassung vom 18. Juli 2025 verstößt, indem er vorsätzlich oder fahrlässig
 
-1. entgegen Artikel 1j ein dort genanntes Wertpapier oder ein dort genanntes Geldmarktinstrument kauft oder anderweitig damit handelt,
+1. entgegen Artikel 1gb Absatz 1 Buchstabe a eine bestehende Beteiligung ausweitet,
 
-2. entgegen Artikel 1ja Absatz 1 eine dort genannte Transaktion vornimmt,
+2. entgegen Artikel 1gb Absatz 1 Buchstabe b sich an einem Darlehen, einem Kredit oder einem sonstigen Finanzmittel beteiligt,
 
-3. entgegen Artikel 1jb ein dort genanntes Wertpapier notiert,
+3. entgegen Artikel 1gb Absatz 1 Buchstabe c ein dort genanntes neues Gemeinschaftsunternehmen gründet,
 
-4. entgegen Artikel 1k Absatz 1 eine dort genannte Vereinbarung trifft oder
+4. entgegen Artikel 1j ein dort genanntes Wertpapier oder ein dort genanntes Geldmarktinstrument kauft oder anderweitig damit handelt,
 
-5. entgegen Artikel 1u Absatz 1 eine dort genannte Einlage entgegennimmt.
+5. entgegen Artikel 1ja Absatz 1 eine dort genannte Transaktion vornimmt,
 
-(5) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 36/2012 verstößt, indem er vorsätzlich oder fahrlässig
+6. entgegen Artikel 1jb ein dort genanntes Wertpapier notiert,
 
-1. entgegen Artikel 24 Buchstabe a oder Buchstabe b eine staatliche oder staatlich garantierte Anleihe kauft oder Vermittlungsdienste im Zusammenhang mit dem Kauf einer staatlichen oder staatlich garantierten Anleihe erbringt,
+7. entgegen Artikel 1k Absatz 1 eine dort genannte Vereinbarung trifft,
 
-2. entgegen Artikel 25 Absatz 1 ein neues Konto eröffnet, eine Korrespondenzbankbeziehung aufnimmt, eine neue Repräsentanz eröffnet oder eine Zweigniederlassung, Tochtergesellschaft oder ein neues Joint Venture gründet oder
+8. entgegen Artikel 1u Absatz 1 eine dort genannte Einlage entgegennimmt,
 
-3. entgegen Artikel 25 Absatz 2 Buchstabe b eine Vereinbarung schließt, die die Eröffnung einer Repräsentanz oder die Gründung einer Zweigniederlassung oder Tochtergesellschaft betrifft.
+9. entgegen Artikel 1u Absatz 3 nach dem 31. Oktober 2025 ein dort genanntes Eigentum, eine dort genannte Kontrolle oder die Bekleidung eines dort genannten Postens gestattet oder
+
+10. entgegen Artikel 1zb Absatz 1 eine dort genannte Transaktion tätigt,
+
+11. entgegen Artikel 1zc Absatz 1 Güter befördert,
+
+12. entgegen Artikel 1zc Absatz 1c nach dem 31. Oktober 2025 Güter befördert,
+
+13. entgegen Artikel 1zc Absatz 1b Unterabsatz 2 eine dort genannte Änderung vornimmt.
+
+(5) (weggefallen)
 
 (6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 267/2012 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -2000,15 +2012,17 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder 
 
 (8) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 692/2014 verstößt, indem er vorsätzlich oder fahrlässig
 
-1. entgegen Artikel 2a Absatz 1 Buchstabe a oder b eine Beteiligung erwirbt oder ausweitet,
+1. entgegen Artikel 2a Absatz 1 Buchstabe a oder b eine Beteiligung ausweitet,
 
 2. entgegen Artikel 2a Absatz 1 Buchstabe c eine dort genannte Vereinbarung trifft,
 
-3. entgegen Artikel 2a Absatz 1 Buchstabe d ein Gemeinschaftsunternehmen gründet oder
+3. entgegen Artikel 2a Absatz 1 Buchstabe d ein Gemeinschaftsunternehmen gründet,
 
-4. entgegen Artikel 2a Absatz 1 Buchstabe e eine Wertpapierdienstleistung erbringt.
+4. entgegen Artikel 2a Absatz 1 Buchstabe e eine Wertpapierdienstleistung erbringt oder
 
-(9) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 833/2014 verstößt, indem er vorsätzlich oder fahrlässig
+5. entgegen Artikel 2d Absatz 2 mit einem dort genannten Schiff einen dort genannten Hafen anläuft oder in einem dort genannten Hafen einen Zwischenstopp einlegt.
+
+(9) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 833/2014 in der Fassung vom 18. Juli 2025 verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 2e Absatz 3 sich an einem dort genannten Projekt beteiligt oder zu einem solchen Projekt anderweitig beiträgt,
 
@@ -2019,6 +2033,20 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder 
 4. entgegen Artikel 3a Absatz 1 Buchstabe b oder Absatz 2 Buchstabe b sich an einem Darlehen, einem Kredit oder einem sonstigen Finanzmittel beteiligt,
 
 5. entgegen Artikel 3a Absatz 1 Buchstabe c oder Absatz 2 Buchstabe c ein dort genanntes neues Gemeinschaftsunternehmen gründet,
+
+5a. entgegen Artikel 3ea Absatz 1 mit einem dort genannten Schiff in einen Hafen oder in eine Schleuse einläuft,
+
+5b. entgegen Artikel 3g Absatz 1 Buchstabe c ein Eisen- oder Stahlerzeugnis befördert,
+
+5c. entgegen Artikel 3l Absatz 1 Güter befördert,
+
+5d. entgegen Artikel 3l Absatz 1c nach dem 31. Oktober 2025 Güter befördert,
+
+5e. entgegen Artikel 3l Absatz 1b Unterabsatz 2 eine dort genannte Änderung vornimmt,
+
+5f. entgegen Artikel 3s Absatz 1 Buchstabe a mit einem dort genannten Schiff einen dort genannten Hafen, eine dort genannte Ankerzone oder eine dort genannte Schleuse anläuft,
+
+5g. entgegen Artikel 3s Absatz 1 Buchstabe d ein dort genanntes Schiff betreibt oder mit einer Besatzung ausstattet,
 
 6. entgegen Artikel 5 Absatz 1 bis 3 oder Absatz 4 oder Artikel 5a Absatz 1 ein dort genanntes Wertpapier oder ein dort genanntes Geldmarktinstrument kauft oder anderweitig damit handelt,
 
@@ -2036,17 +2064,29 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder 
 
 13. entgegen Artikel 5aa Absatz 1a oder Absatz 1b Unterabsatz 1 einen dort genannten Posten bekleidet,
 
+13a. entgegen Artikel 5ab Absatz 1, Artikel 5ac Absatz 2 Unterabsatz 1, Artikel 5ae Absatz 1 Satz 1 oder Absatz 2 Satz 1, Artikel 5af Absatz 1 oder Artikel 5ag Absatz 1 eine dort genannte Transaktion tätigt,
+
+13b. entgegen Artikel 5ac Absatz 1 sich nach dem 31. Oktober 2025 mit einem dort genannten System oder Nachrichtenübermittlungsdienst verbindet,
+
 14. entgegen Artikel 5b Absatz 1 eine dort genannte Einlage entgegennimmt,
 
 15. entgegen Artikel 5b Absatz 2a nach dem 22. Juli 2024 ein dort genanntes Eigentum, eine dort genannte Kontrolle oder die Bekleidung eines dort genannten Postens gestattet,
 
+15a. entgegen Artikel 5h Absatz 1 in Verbindung mit Absatz 2 nach dem 31. Oktober 2025 eine dort genannte Transaktion tätigt,
+
 16. entgegen Artikel 5j Absatz 2 den dort genannten Zugang gewährt,
+
+16a. entgegen Artikel 5k Absatz 1 einen dort genannten Vertrag erfüllt,
 
 17. entgegen Artikel 5l Absatz 1 eine dort genannte Person, Organisation oder Einrichtung unterstützt,
 
-18. entgegen Artikel 5m Absatz 1 einen dort genannten Trust oder eine dort genannte ähnliche Rechtsgestaltung registriert oder
+18. entgegen Artikel 5m Absatz 1 einen dort genannten Trust oder eine dort genannte ähnliche Rechtsgestaltung registriert,
 
-19. entgegen Artikel 5o Absatz 1 einer dort genannten Person ermöglicht, einen dort genannten Posten zu bekleiden.
+18a. entgegen Artikel 5m Absatz 2 nach dem 31. Oktober 2025 für einen dort genannten Trust oder eine dort genannte ähnliche Rechtsgestaltung handelt oder dies einer anderen Person ermöglicht,
+
+19. entgegen Artikel 5o Absatz 1 einer dort genannten Person ermöglicht, einen dort genannten Posten zu bekleiden oder
+
+20. entgegen Artikel 5t Absatz 1 eine Zuwendung, einen wirtschaftlichen Vorteil oder eine wirtschaftliche Unterstützung entgegennimmt.
 
 (10) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig ohne Genehmigung nach Artikel 3 Absatz 2 Satz 1 der Verordnung (EU) 2015/936 des Europäischen Parlaments und des Rates vom 9. Juni 2015 über die gemeinsame Regelung der Einfuhren von Textilwaren aus bestimmten Drittländern, die nicht unter bilaterale Abkommen, Protokolle, andere Vereinbarungen oder eine spezifische Einfuhrregelung der Union fallen (ABl. L 160 vom 25.6.2015, S. 1), eine dort genannte Einfuhr in den freien Verkehr der Union überführt.
 
@@ -2070,7 +2110,7 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder 
 
 2. entgegen Artikel 17 Absatz 2 Buchstabe a ein Gemeinschaftsunternehmen oder eine Kooperativeinrichtung gründet, unterhält oder betreibt,
 
-3. entgegen Artikel 17 Absatz 2 Buchstabe b ein Finanzmittel oder eine Finanzhilfe bereitstellt,
+3. (weggefallen)
 
 4. entgegen Artikel 17 Absatz 2 Buchstabe c eine Wertpapierdienstleistung erbringt,
 
@@ -2112,7 +2152,7 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder 
 
 23. entgegen Artikel 30 Buchstabe e eine Repräsentanz, Zweigniederlassung oder Tochtergesellschaft eines dort genannten Kredit- oder Finanzinstituts betreibt oder
 
-24. entgegen Artikel 31 Buchstabe a oder Buchstabe b eine dort genannte Anleihe kauft oder einen Vermittlungsdienst im Zusammenhang mit dem Kauf einer solchen Anlage erbringt.
+24. entgegen Artikel 31 Buchstabe b einen dort genannten Vermittlungsdienst erbringt.
 
 (13) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) 2021/821 des Europäischen Parlaments und des Rates vom 20. Mai 2021 über eine Unionsregelung für die Kontrolle der Ausfuhr, der Vermittlung, der technischen Unterstützung der Durchfuhr und der Verbringung betreffend Güter mit doppeltem Verwendungszweck (ABl. L 206 vom 11.6.2021, S. 1), verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -2130,6 +2170,10 @@ Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang IV der Vero
 
 3. entgegen Artikel 3 Absatz 1 Buchstabe d ein Gemeinschaftsunternehmen gründet.
 
+(15) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 1a Absatz 1 oder Artikel 1b Absatz 1 der Verordnung (EU) 2024/2642 in der Fassung vom 15. Juli 2025 eine dort genannte Transaktion tätigt.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 29.10.2025 I Nr. 261 +++)
+
 # § 82a – Übergangsbestimmungen
 
 Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind erstmals auf schuldrechtliche Rechtsgeschäfte über den Erwerb eines inländischen Unternehmens anzuwenden, die ab dem 1. Mai 2021 abgeschlossen werden. Im Fall eines Angebots im Sinne des Wertpapiererwerbs- und Übernahmegesetzes ist der Zeitpunkt der Veröffentlichung der Entscheidung zur Abgabe des Angebots maßgeblich.
@@ -2144,7 +2188,7 @@ Diese Verordnung tritt am Tag des Inkrafttretens des Gesetzes zur Modernisierung
 
 # Anlage 1 – Anlage AL zur Außenwirtschaftsverordnung
 
-(Fundstelle: BGBl. 2024 I Nr. 243, S. 3 - 44)
+(Fundstelle: BGBl. 2025 I Nr. 261, S. 5 - 46)
 
 <table width="100%" style="border: none;">
 <colgroup>
@@ -2163,7 +2207,7 @@ Diese Verordnung tritt am Tag des Inkrafttretens des Gesetzes zur Modernisierung
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Teil I:</td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Güter, auf die sich die in den §§ 8, 11, 46, 52b, 74, 75, 77 und 79 der Außenwirtschaftsverordnung (AWV) angeordneten Beschränkungen beziehen</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Güter, auf die sich die in den §§ 8, 11, 46, 52b, 74, 75, 77 und 79 der Außenwirtschaftsverordnung (AWV) angeordneten Beschränkungen beziehen</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
@@ -2191,7 +2235,7 @@ durch doppelte Anführungszeichen gekennzeichneten Begriffen</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Teil II:</td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Waren, auf die sich die in § 10 AWV angeordneten Beschränkungen beziehen</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Waren, auf die sich die in § 10 AWV angeordneten Beschränkungen beziehen</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
@@ -2258,9 +2302,7 @@ Die von der Ausfuhrliste erfassten Güter umfassen sowohl neue als auch gebrauch
 
 4\.
 
-Chemikalien werden in einigen Fällen mit Namen und CAS-Nummer (CAS = Chemical Abstracts Service) aufgeführt. Diese Liste erfasst Chemikalien mit gleichen Strukturformeln, einschließlich Hydrate, unabhängig von Namen oder CAS-Nummer. CAS-Nummern werden angegeben, um die Bestimmung einer Chemikalie oder Mischung unabhängig von ihrer Benennung zu erleichtern. CAS-Nummern können nicht als einziges Identifikationskriterium verwendet werden, da verschiedene Formen einer erfassten Chemikalie verschiedene CAS-Nummern haben und Mischungen, die eine erfasste Chemikalie enthalten, ebenfalls verschiedene
-
-CAS-Nummern haben können.
+Chemikalien werden in einigen Fällen mit Namen und CAS-Nummer (CAS = Chemical Abstracts Service) aufgeführt. Diese Liste erfasst Chemikalien mit gleichen Strukturformeln, einschließlich Hydrate, unabhängig von Namen oder CAS-Nummer. CAS-Nummern werden angegeben, um die Bestimmung einer Chemikalie oder Mischung unabhängig von ihrer Benennung zu erleichtern. CAS-Nummern können nicht als einziges Identifikationskriterium verwendet werden, da verschiedene Formen einer erfassten Chemikalie verschiedene CAS-Nummern haben und Mischungen, die eine erfasste Chemikalie enthalten, ebenfalls verschiedene CAS‑Nummern haben können.
 
 5\.
 
@@ -2326,9 +2368,9 @@ In doppelte Anführungszeichen gesetzte Begriffe siehe Begriffsbestimmungen am E
 
 Bei der Prüfung der Ausfuhrgenehmigungspflicht nach der AWV und der Ausfuhrliste ist zu beachten, dass die in Teil I Abschnitte A und B genannten Güter Ausfuhrverboten nach den §§ 17, 18 oder einer Ausfuhrgenehmigungspflicht nach § 3 Absatz 3 des Gesetzes über die Kontrolle von Kriegswaffen unterliegen können.
 
-1. Teil II der Ausfuhrliste nennt die Waren, auf die sich die in § 10 AWV angeordneten Beschränkungen beziehen. Die Waren sind in Spalte 1 mit den Warennummern und in Spalte 2 mit den Warenbenennungen des Warenverzeichnisses für die Außenhandelsstatistik bezeichnet.
+1. Teil II der Ausfuhrliste nennt die Waren, auf die sich die in § 10 AWV angeordneten Beschränkungen beziehen. Die Waren sind in Spalte 1 mit den Warennummern und in Spalte 2 mit den Warenbenennungen des Warenverzeichnisses für die Außenhandelsstatistik bezeichnet.
 
-2. Waren, deren Ausfuhr gemäß § 10 AWV in Drittländer ohne Genehmigung nur zulässig ist, wenn sie den vorgeschriebenen Vermarktungsnormen entsprechen, sind in Spalte 3 mit G gekennzeichnet.
+2. Waren, deren Ausfuhr gemäß § 10 AWV in Drittländer ohne Genehmigung nur zulässig ist, wenn sie den vorgeschriebenen Vermarktungsnormen entsprechen, sind in Spalte 3 mit G gekennzeichnet.
 
 A
 
@@ -2348,11 +2390,11 @@ b) Waffen, besonders konstruiert, um gefesselte Wurfgeschosse, die keine Sprengl
 
 c) Waffen für Randfeuer-Hülsenpatronen, die keine Vollautomaten sind,
 
-d) ,deaktivierte Feuerwaffen im Sinne der Anlage 1 Abschnitt 1, Unterabschnitt 1 Nummer 1.4 WaffG‘.
+d) ‚deaktivierte Feuerwaffen im Sinne der Anlage 1 Abschnitt 1, Unterabschnitt 1 Nummer 1.4 WaffGʻ.
 
 Technische Anmerkung:
 
-Im Sinne von Nummer 0001 Anmerkung d ist eine ,Feuerwaffe deaktiviert‘, wenn sie dauerhaft unbrauchbar gemacht wurde. Dies ist dann der Fall, wenn die Änderungen so vorgenommen werden, dass sie nicht mit allgemein gebräuchlichen Werkzeugen rückgängig gemacht und die Gegenstände nicht so geändert werden können, dass aus ihnen Geschosse, Patronen-
+Im Sinne von Nummer 0001 Anmerkung d ist eine ‚Feuerwaffe deaktiviertʻ, wenn sie dauerhaft unbrauchbar gemacht wurde. Dies ist dann der Fall, wenn die Änderungen so vorgenommen werden, dass sie nicht mit allgemein gebräuchlichen Werkzeugen rückgängig gemacht und die Gegenstände nicht so geändert werden können, dass aus ihnen Geschosse, Patronen-
 
 oder pyrotechnische Munition verschossen werden können. Der Nachweis für die Deaktivierung ist nach § 8a des Beschussgesetzes zu erbringen; die Beschussämter sind überprüfende Behörde und erteilen eine Deaktivierungsbescheinigung.
 
@@ -2384,13 +2426,9 @@ b)
 
 Waffen mit glattem Lauf wie folgt:
 
-1\.
+1. Waffen mit glattem Lauf, besonders konstruiert für militärische Zwecke,
 
-Waffen mit glattem Lauf, besonders konstruiert für militärische Zwecke,
-
-2\.
-
-andere Waffen mit glattem Lauf wie folgt:
+2. andere Waffen mit glattem Lauf wie folgt:
 
 a) Vollautomaten,
 
@@ -2444,11 +2482,11 @@ Zubehör, konstruiert für die von Unternummern 0001a, 0001b oder 0001c erfasste
 
 2. Schallunterdrücker oder -dämpfer,
 
-3. ,Rohrwaffen-Lafette‘,
+3. ‚Rohrwaffen-Lafetteʻ,
 
 Technische Anmerkung:
 
-Im Sinne von Unternummer 0001d3 bezeichnet der Begriff ,Rohrwaffen-Lafette‘ eine Vorrichtung, die dazu konstruiert ist, eine Feuerwaffe auf einem Landfahrzeug, einem „Luftfahrzeug“, einem Schiff oder einer Struktur zu befestigen.
+Im Sinne von Unternummer 0001d3. bezeichnet der Begriff ‚Rohrwaffen-Lafetteʻ eine Vorrichtung, die dazu konstruiert ist, eine Feuerwaffe auf einem Landfahrzeug, einem „Luftfahrzeug“, einem Schiff oder einer Struktur zu befestigen.
 
 4. Mündungsfeuerdämpfer,
 
@@ -2496,17 +2534,17 @@ oder
 
 Ergänzende Anmerkung:
 
-Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
+Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhang I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 f) Handgehaltene Abschussgeräte, besonders konstruiert, um gefesselte Wurfgeschosse, die keine Sprengladung und keine Nachrichtenverbindung besitzen, über eine Entfernung von kleiner/gleich 500 m abzuschießen.
 
 b)
 
-Werfer, besonders konstruiert oder geändert für militärische Zwecke, wie folgt:
+Werfer besonders konstruiert oder geändert für militärische Zwecke, wie folgt:
 
-1. Nebelwerfer,
+1. Nebelwerfer;
 
-2. Gaswerfer,
+2. Gaswerfer;
 
 3. Pyrotechnische Werfer;
 
@@ -2528,7 +2566,7 @@ Zubehör, besonders konstruiert für die von Unternummer 0002a erfassten Waffen,
 
 d)
 
-nicht belegt;
+nicht belegt.
 
 0003
 
@@ -2622,17 +2660,17 @@ Ausrüstung mit allen folgenden Eigenschaften:
 
 und
 
-2. besonders konstruiert für ,Tätigkeiten‘ im Zusammenhang mit
+2. besonders konstruiert für ‚Tätigkeitenʻ im Zusammenhang mit
 
-a) von Unternummer 0004a erfassten Waren
+a) von Unternummer 0004a erfasste Waren
 
 oder
 
-b) unkonventionellen Spreng- und Brandvorrichtungen (USBV);
+b) unkonventionelle Spreng- und Brandvorrichtungen (USBV);
 
 Technische Anmerkung:
 
-Im Sinne von Unternummer 0004b2 bezeichnet der Begriff ,Tätigkeiten‘ das Handhaben, Abfeuern, Legen, Überwachen, Ausstoßen, Zünden, Scharfmachen, Stromversorgen bei einmaliger Abgabe einer hohen Leistung, Täuschen, Stören, Räumen, Orten, Zerstören oder Beseitigen.
+Im Sinne von Unternummer 0004b2 bezeichnet der Begriff ‚Tätigkeitenʻ das Handhaben, Abfeuern, Legen, Überwachen, Ausstoßen, Zünden, Scharfmachen, Stromversorgen bei einmaliger Abgabe einer hohen Leistung, Täuschen, Stören, Räumen, Orten, Zerstören oder Beseitigen.
 
 Anmerkung 1:
 
@@ -2660,9 +2698,9 @@ a) mit folgenden Flugkörperwarnsensoren:
 
 oder
 
-2. aktive Flugkörperwarnsensoren mit gepulstem Doppler-Radar,
+2. aktive Flugkörperwarnsensoren mit gepulstem Doppler-Radar;
 
-b) Auswurfsysteme für Täuschkörper,
+b) Auswurfsysteme für Täuschkörper;
 
 c) Täuschkörper, die sowohl eine sichtbare Signatur als auch eine infrarote Signatur aussenden, um Boden-Luft-Flugkörper auf sich zu lenken,
 
@@ -2676,7 +2714,7 @@ a) eine von den Zivilluftfahrtbehörden eines oder mehrerer EU-Mitgliedstaaten o
 
 oder
 
-b) ein gleichwertiges, von der Internationalen Zivilluftfahrt-Organisation (ICAO) anerkanntes Dokument,
+b) ein gleichwertiges, von der Internationalen Zivilluftfahrt-Organisation (ICAO) anerkanntes Dokument;
 
 2. das Flugkörperabwehrsystem für Luftfahrzeuge beinhaltet einen Schutz, um unbefugten Zugang zur „Software“ zu verhindern,
 
@@ -2762,9 +2800,7 @@ andere Landfahrzeuge und Bestandteile hierfür wie folgt:
 
 1. Fahrzeuge, die nicht von Unternummer 0006a erfasst werden, mit allen folgenden Eigenschaften:
 
-a) Fahrzeuge, die mit metallischen oder nicht-metallischen Werkstoffen oder Bestandteilen hergestellt oder ausgerüstet wurden, um einen ballistischen Schutz größer/gleich der Widerstandsklasse
-
-FB 6/BR6 nach DIN EN 1522 bzw. DIN EN 1063 oder „gleichwertige Standards“ zu bewirken;
+a) Fahrzeuge, die mit metallischen oder nicht-metallischen Werkstoffen oder Bestandteilen hergestellt oder ausgerüstet wurden, um einen ballistischen Schutz größer/gleich der Widerstandsklasse FB 6/BR6 nach DIN EN 1522 bzw. DIN EN 1063 oder „gleichwertige Standards“ zu bewirken;
 
 b) Allradantrieb;
 
@@ -2780,7 +2816,7 @@ a) besonders konstruiert für von Unternummer 0006b1 erfasste Fahrzeuge
 
 und
 
-b) einen ballistischen Schutz größer/gleich der Widerstandsklasse FB 6/BR6 nach DIN EN 1522 bzw. DIN EN 1063 oder „gleichwertige Standards“ bewirken.
+b) einen ballistischen Schutz größer/gleich der Widerstandsklasse FB 6 / BR6 nach DIN EN 1522 bzw. DIN EN 1063 oder „gleichwertige Standards“ bewirken.
 
 Ergänzende Anmerkung:
 
@@ -2828,7 +2864,7 @@ Chemische Agenzien, „biologische Agenzien“, „Reizstoffe“, radioaktive St
 
 a)
 
-„biologische Agenzien“ oder radioaktive Stoffe ausgewählt oder geändert zur Steigerung der Wirksamkeit bei der Außergefechtsetzung von Menschen oder Tieren, der Funktionsbeeinträchtigung von Ausrüstung, der Vernichtung von Ernten oder der Schädigung der Umwelt;
+„biologische Agenzien“ oder radioaktive Stoffe ausgewählt oder geändert zur Steigerung der Wirksamkeit für die Außergefechtsetzung von Menschen oder Tieren, die Funktionsbeeinträchtigung von Ausrüstung, die Vernichtung von Ernten oder die Schädigung der Umwelt;
 
 b)
 
@@ -2836,18 +2872,19 @@ chemische Kampfstoffe einschließlich:
 
 1. Nervenkampfstoffe:
 
-a) Alkyl(R<sub>1</sub>)phosphonsäure-alkyl(R<sub>2</sub>)ester-fluoride (R<sub>1</sub> = Methyl-, Ethyl-, n-Propyl- oder Isopropyl-) (R<sub>2</sub> = Alkyl- oder Cycloalkyl-, C<sub>n</sub> = C<sub>1</sub> bis C<sub>10</sub>), wie:  
+a) Alkyl(R<sub>1</sub>)phosphonsäure-alkyl(R<sub>2</sub>)ester-fluoride (R<sub>1</sub> = Methyl-, Ethyl-, n-Propyl- oder Isopropyl-) (R<sub>2</sub> = Alkyl- oder Cycloalkyl, C<sub>n</sub> = C<sub>1</sub> bis C<sub>10</sub>), wie:
+
 Sarin (GB): Methylphosphonsäure-isopropylesterfluorid (CAS-Nr. 107-44-8)
 
 und
 
 Soman (GD): Methylphosphonsäurepinakolylesterfluorid (CAS-Nr. 96-64-0),
 
-b) Phosphorsäure-dialkyl(R<sub>1</sub>,R<sub>2</sub>)amid-cyanid-alkyl(R<sub>3</sub>)ester (R<sub>1</sub>, R<sub>2</sub> = Methyl-, Ethyl-, n-Propyl- oder Isopropyl-) (R<sub>3</sub> = Alkyl- oder Cycloalkyl-, C<sub>n</sub> = C<sub>1</sub> bis C<sub>10</sub>), wie:
+b) Phosphorsäure-dialkyl(R<sub>1</sub>, R<sub>2</sub>)amid-cyanid-alkyl (R<sub>3</sub>)ester (R<sub>1</sub>, R<sub>2</sub> = Methyl-, Ethyl-, n‑Propyl- oder Isopropyl-) (R<sub>3</sub> = Alkyl- oder Cycloalkyl-, C<sub>n</sub> = C<sub>1</sub> bis C<sub>10</sub>), wie:
 
 Tabun (GA): Phosphorsäuredimethylamid-cyanid-ethylester (CAS-Nr. 77-81-6),
 
-c) Alkyl(R<sub>1</sub>)thiolphosphonsäure-S-(2-dialkyl(R<sub>3</sub>,R<sub>4</sub>)aminoethyl)-alkyl(R<sub>2</sub>)ester (R<sub>2</sub> = H-, Alkyl- oder Cycloalkyl-, C<sub>n</sub> = C<sub>1</sub> bis C<sub>10</sub>) (R<sub>1</sub>, R<sub>3</sub>, R<sub>4</sub> = Methyl-, Ethyl-, n-Propyl- oder Isopropyl-) oder entsprechend alkylierte bzw. protonierte Salze, wie:
+c) Alkyl(R<sub>1</sub>)thiolphosphonsäure-S-(2-dialkyl(R<sub>3</sub>, R<sub>4</sub>) aminoethyl)-alkyl(R<sub>2</sub>) ester (R<sub>2</sub> = H-, Alkyl- oder Cycloalkyl-, C<sub>n</sub> = C<sub>1</sub> bis C<sub>10</sub>) (R<sub>1</sub>, R<sub>3</sub>, R<sub>4</sub> = Methyl-, Ethyl-, n-Propyl- oder Isopropyl-) oder entsprechend alkylierte bzw. protonierte Salze, wie:
 
 VX: Methylthiolphosphonsäure-S-(2-diisopropylaminoethyl)-ethylester (CAS-Nr. 50782-69-9);
 
@@ -2891,7 +2928,7 @@ c) Stickstoffloste, wie:
 
 3. Psychokampfstoffe, wie:
 
-BZ: 3-Chinuclidinylbenzilat (CAS-Nr. 6581-06-2),
+a) BZ: 3-Chinuclidinylbenzilat (CAS-Nr. 6581-06-2),
 
 4. Entlaubungsmittel, wie:
 
@@ -2903,11 +2940,11 @@ c)
 
 Komponenten für Binärkampfstoffe und Schlüsselvorprodukte wie folgt:
 
-1. Alkyl(Methyl-, Ethyl-, n-Propyl- oder Isopropyl-)phosphonsäuredifluoride wie:
+1. Alkyl(Methyl-, Ethyl-, n-Propyl- oder Isopropyl-) phosphonsäuredifluoride wie:
 
 DF: Methyl-phosphonsäuredifluorid (CAS-Nr. 676-99-3),
 
-2. Alkyl(R<sub>1</sub>)phosphonigsäure-O-2-dialkyl(R<sub>3</sub>,R<sub>4</sub>)aminoethyl-alkyl(R<sub>2</sub>)ester (R<sub>1</sub>, R<sub>3</sub>, R<sub>4</sub> = Methyl-, Ethyl-,
+2. Alkyl(R<sub>1</sub>)phosphonigsäure-O-2-dialkyl(R<sub>3</sub>,R<sub>4</sub>) aminoethyl-alkyl(R<sub>2</sub>)ester (R<sub>1</sub>, R<sub>3</sub>, R<sub>4</sub> = Methyl-, Ethyl-,
 
 n-Propyl-, Isopropyl-) (R<sub>2</sub> = H-, Alkyl- oder Cycloalkyl-, C<sub>n</sub> = C<sub>1</sub> bis C<sub>10</sub>) und entsprechend alkylierte oder protonierte Salze wie:
 
@@ -2923,9 +2960,8 @@ d)
 
 1. α-Bromphenylacetonitril (Brombenzylcyanid) (CA) (CAS-Nr. 5798-79-8);
 
-2. \[(2-Chlorphenyl)methylen\]propandinitril (o-Chlorbenzyliden-malonsäuredinitril) (CS) (CAS-Nr.
-
-2698-41-1);
+2. \[(2-Chlorphenyl)methylen\]propandinitril (o-Chlorbenzyliden-malonsäuredinitril) (CS)  
+(CAS-Nr. 2698-41-1);
 
 3. 2-Chlor-1-phenylethanon, Phenylacylchlorid (ω-Chloracetophenon) (CN) (CAS-Nr. 532-27-4);
 
@@ -2981,7 +3017,27 @@ Unternummer 0007g erfasst nicht Strahlendosimeter für den persönlichen Gebrauc
 
 h)
 
-„Biopolymere“, besonders entwickelt oder aufgebaut für die Feststellung oder Identifizierung der von Unternummer 0007b erfassten chemischen Kampfstoffe und spezifische Zellkulturen zu ihrer Herstellung;
+‚Biopolymereʻ, besonders entwickelt oder aufgebaut für die Feststellung oder Identifizierung der von Unternummer 0007b erfassten chemischen Kampfstoffe und spezifische Zellkulturen zu ihrer Herstellung;
+
+Technische Anmerkungen:
+
+Im Sinne von Unternummer 0007h gilt:
+
+1. ‚Biopolymereʻ sind biologische Makromoleküle wie folgt:
+
+a) Enzyme für spezifische chemische oder biochemische Reaktionen,
+
+b) ‚antiidiotypische Antikörperʻ, ‚monoklonale Antikörperʻ oder ‚polyklonale Antikörperʻ,
+
+c) besonders entwickelte oder besonders verarbeitete ‚Rezeptoren‘;
+
+2. ‚Antiidiotypische Antikörperʻ sind Antikörper, die sich an die spezifische Antigen-Bindungsstelle anderer Antikörper binden.
+
+3. ‚Monoklonale Antikörperʻ sind Proteine, die sich an eine Antigen-Bindungsstelle binden und durch einen einzigen Klon von Zellen erzeugt werden.
+
+4. ‚Polyklonale Antikörperʻ sind eine Mischung von Proteinen, die sich an ein bestimmtes Antigen binden und durch mehr als einen Klon von Zellen erzeugt werden.
+
+5. ‚Rezeptorenʻ sind biologische makromolekulare Strukturen, die Liganden binden können, deren Bindung physiologische Funktionen beeinflussen.
 
 i)
 
@@ -2991,11 +3047,15 @@ i)
 
 2. biologische Systeme die eine spezifische genetische Information zur Herstellung der von Unternummer 0007i1 erfassten „Biokatalysatoren“ enthalten, wie folgt:
 
-a) „Expressions-Vektoren“,
+a) ‚Expressions-Vektorenʻ,
 
 b) Viren,
 
 c) Zellkulturen.
+
+Technische Anmerkungen:
+
+Im Sinne von Unternummer 0007i2a sind ‚Expressions-Vektorenʻ Träger (z. B. Plasmide oder Viren), die zum Einbringen genetischen Materials in Gastzellen eingesetzt werden.
 
 Anmerkung 1:
 
@@ -3013,9 +3073,8 @@ e) Perchlorameisensäuremethylester (Diphosgen) (CAS-Nr. 503-38-8),
 
 f) nicht belegt,
 
-g) Xylylbromide, ortho: (CAS-Nr. 89-92-9), meta: (CAS-Nr. 620-13-3), para: (CAS-Nr.
-
-104-81-4),
+g) Xylylbromide, ortho: (CAS-Nr. 89-92-9), meta: (CAS-Nr. 620-13-3),  
+para: (CAS-Nr. 104-81-4),
 
 h) Benzylbromid (CAS-Nr. 100-39-0),
 
@@ -3057,7 +3116,7 @@ Biologische Wirkstoffe siehe auch Nummern 1C351 bis 1C354 des Anhangs I der Vero
 
 Biologische Wirkstoffe werden nur dann von Unternummer 0007a erfasst, wenn sie ausgewählt oder geändert wurden (z. B. Änderung der Reinheit, Lagerbeständigkeit, Virulenz, Verbreitungsmerkmale oder Widerstandsfähigkeit gegen UV-Strahlung), zur Außergefechtsetzung von Menschen und Tieren, der Funktionsbeeinträchtigung von Ausrüstung, der Vernichtung von Ernten oder zur Schädigung der Umwelt.
 
-Soweit sie Kriegswaffeneigenschaften besitzen, ist ihre Ausfuhr nach § 17 oder § 18 des Gesetzes über die Kontrolle von Kriegswaffen verboten.
+Soweit sie Kriegswaffeneigenschaften besitzen, ist ihre Ausfuhr nach § 17 oder 18 des Gesetzes über die Kontrolle von Kriegswaffen verboten.
 
 0008
 
@@ -3077,21 +3136,21 @@ Jede Substanz, die von einer Unternummer der Nummer 0008 erfasst wird, bleibt au
 
 Technische Anmerkungen:
 
-1. ,Mischung‘ im Sinne von Nummer 0008 – mit Ausnahme der Unternummern 0008c11 oder 0008c12 – bedeutet eine Zusammensetzung aus zwei oder mehreren Substanzen, von denen mindestens eine in den Unternummern der Nummer 0008 genannt sein muss.
+1. ‚Mischungʻ im Sinne von Nummer 0008 – mit Ausnahme der Unternummern 0008c11 oder 0008c12 – bedeutet eine Zusammensetzung aus zwei oder mehreren Substanzen, von denen mindestens eine in den Unternummern der Nummer 0008 genannt sein muss.
 
 2. Partikelgröße im Sinne von Nummer 0008 bedeutet der mittlere Partikeldurchmesser bezogen auf Gewicht oder Volumen. Bei Probenahmen und Bestimmung der Partikelgröße werden internationale oder vergleichbare nationale Standards angewandt.
 
 a)
 
-„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:
+„Explosivstoffe“ wie folgt und ‚Mischungenʻ daraus:
 
 1. ADNBF (7-Amino-4,6-dinitrobenzofurazan-1-oxid (CAS-Nr. 97096-78-1), Amino-dinitrobenzofuroxan),
 
-2. BNCP (cis-Bis (5-nitrotetrazolato) tetraminkobalt(III)-perchlorat) (CAS-Nr. 117412-28-9),
+2. BNCP (cis-Bis (5-nitrotetrazolato) tetraminkobalt(III)-perchlorat) (CAS-Nr. 117412‑28‑9),
 
-3. CL-14 (5,7-Diamino-4,6-dinitrobenzofurazan-1-oxid (CAS-Nr. 117907-74-1) oder Diaminodinitrobenzofuroxan),
+3. CL-14 (5,7-Diamino-4,6-dinitrobenzofurazan-1-oxid (CAS-Nr. 117907‑74-1) oder Diaminodinitrobenzofuroxan),
 
-4. CL-20 (HNIW oder Hexanitrohexaazaisowurtzitan) (CAS-Nr. 135285-90-4), Clathrate von CL-20 (siehe auch Unternummern 0008g3 und g4 für dessen „Vorprodukte“),
+4. CL-20 (HNIW oder Hexanitrohexaazaisowurtzitan) (CAS-Nr. 135285-90-4), Clathrate von CL-20 (siehe auch Unternummern 0008g3 und 0008g4 für dessen „Vorprodukte“),
 
 5. CP (2-(5-Cyanotetrazolato) pentaminkobalt(III)-perchlorat) (CAS-Nr. 70247-32-4),
 
@@ -3119,7 +3178,7 @@ a) HMX (Cyclotetramethylentetranitramin oder Oktogen) (CAS-Nr. 2691-41-0),
 
 b) Difluoramin-Analoge des HMX,
 
-c) K-55 (2,4,6,8-Tetranitro-2,4,6,8-tetraazabicyclo\[3,3,0\]octanon-3 (CAS-Nr. 130256-72-3), Tetranitrosemiglycouril oder keto-bicyclisches HMX),
+c) K-55 (2,4,6,8-Tetranitro-2,4,6,8-tetraazabicyclo\[3,3,0\]octanon-3 (CAS-Nr. 130256-72-3), Tetranitrosemiglycouril oder keto-bicyclisches HMX),
 
 14. HNAD (Hexanitroadamantan) (CAS-Nr. 143850-71-9),
 
@@ -3149,7 +3208,8 @@ e) PTIA (1-Pikryl-2,4,5-trinitroimidazol),
 
 a) RDX (Hexogen, Cyclotrimethylentrinitramin) (CAS-Nr. 121-82-4),
 
-b) Keto-RDX (2,4,6-Trinitro-2,4,6-triazacyclohexanon oder K-6) (CAS-Nr. 115029-35-1),
+b) Keto-RDX (2,4,6-Trinitro-2,4,6-triazacyclohexanon oder K-6)  
+(CAS-Nr. 115029-35-1),
 
 22. TAGN (Triaminoguanidinnitrat) (CAS-Nr. 4000-16-2),
 
@@ -3183,7 +3243,8 @@ b) NNHT (2-Nitroimino-5-nitro-hexahydro-1,3,5-triazin) (CAS-Nr. 130400-13-4),
 
 a) 5-Azido-2-nitrotriazol,
 
-b) ADHTDN (4-Amino-3,5-dihydrazino-1,2,4-triazol-dinitramid) (CAS-Nr. 1614-08-0),
+b) ADHTDN (4-Amino-3,5-dihydrazino-1,2,4-triazol-dinitramid)  
+(CAS-Nr. 1614-08-0),
 
 c) ADNT (1-Amino-3,5-dinitro-1,2,4-triazol),
 
@@ -3223,29 +3284,23 @@ a) BTAT (Bis(2,2,2-trinitroethyl)-3,6-diaminotetrazin),
 
 b) LAX-112 (3,6-Diamino-1,2,4,5-tetrazine-1,4-dioxid),
 
-39. ionische energetische Materialien mit einem Schmelzpunkt zwischen 343 K (70 °C) und 373 K
-
-(100 °C) und einer Detonationsgeschwindigkeit größer als 6 800 m/s oder einem Detonationsdruck größer als 18 GPa (180 kbar),
+39. ionische energetische Materialien mit einem Schmelzpunkt zwischen 343 K (70 o</sup>C) und 373 K (100 o</sup>C) und einer Detonationsgeschwindigkeit größer als 6 800 m/s oder einem Detonationsdruck größer als 18 GPa (180 kbar),
 
 40. BTNEN (Bis(2,2,2-trinitroethyl)-nitramin) (CAS-Nr. 19836-28-3),
 
 41. FTDO (5,6-(3',4'-Furazano)-1,2,3,4-tetrazin-1,3-dioxid),
 
-42. EDNA (Ethylendinitramin) (CAS-Nr. 505-71-5),
+42. EDNA (Ethylendinitramin) (CAS-Nr. 505-71-5);
 
-43. TKX-50 (Dihydroxylammonium-5,5'-Bistetrazol-1,1'-diolat);
+43. TKX-50 (Dihydroxylammonium-5,5'-Bistetrazol-1,1'-diolat).
 
 Anmerkung:
 
-Unternummer 0008a schließt ,Explosivstoff-Co-Kristalle (explosive co-crystals)‘ ein.
+Unternummer 0008a schließt ‚Explosivstoff-Co-Kristalle (explosive co-crystals)ʻ ein.
 
 Technische Anmerkung:
 
-Im Sinne von Unternummer 0008a Anmerkung ist ,Explosivstoff-Co-Kristall (explosive
-
-co-crystal)‘
-
-ein Feststoff, der aus einer geordneten dreidimensionalen Anordnung von zwei oder mehr Explosivstoffmolekülen besteht, von denen mindestens eines in Unternummer 0008a angegeben ist.
+Im Sinne von Unternummer 0008a Anmerkung ist ‚Explosivstoff-Co-Kristall (explosive co-crystal)ʻ ein Feststoff, der aus einer geordneten dreidimensionalen Anordnung von zwei oder mehr Explosivstoffmolekülen besteht, von denen mindestens eines in Unternummer 0008a angegeben ist.
 
 b)
 
@@ -3267,7 +3322,7 @@ c) 260 Sekunden bei metallischen „Treibstoffen“,
 
 4. „Treibstoffe“, die eine stabile, gleichförmige Abbrandgeschwindigkeit von mehr als 38 mm/s unter Standardbedingungen bei 6,89 MPa (68,9 bar) und 294 K (21 °C) (gemessen an einem inhibierten einzelnen Strang) aufweisen,
 
-5. elastomermodifizierte, gegossene, zweibasige „Treibstoffe“ (EMCDB), die bei 233 K (40 °C) eine Dehnungsfähigkeit von mehr als 5 % bei größter Beanspruchung aufweisen,
+5. elastomermodifizierte, gegossene, zweibasige „Treibstoffe“ (EMCDB), die bei 233 K (–40 °C) eine Dehnungsfähigkeit von mehr als 5 % bei größter Beanspruchung aufweisen,
 
 6. andere „Treibstoffe“, die von Unternummer 0008a erfasste Substanzen enthalten,
 
@@ -3275,7 +3330,7 @@ c) 260 Sekunden bei metallischen „Treibstoffen“,
 
 c)
 
-„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:
+„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ‚Mischungenʻ daraus:
 
 1\.
 
@@ -3321,19 +3376,19 @@ d) unsymmetrisches Dimethylhydrazin (CAS-Nr. 57-14-7),
 
 Anmerkung:
 
-Unternummer 0008c4a erfasst nicht ,Mischungen‘ mit Hydrazin, die für den Korrosionsschutz besonders formuliert sind.
+Unternummer 0008c4a erfasst nicht ‚Mischungenʻ mit Hydrazin, die für den Korrosionsschutz besonders formuliert sind.
 
 5\.
 
-metallische Brennstoffe, Brennstoff,mischungen‘ oder „pyrotechnische“ ,Mischungen‘ in Partikelform (kugelförmig, staubförmig, flockenförmig oder gemahlen), hergestellt aus Material, das zu mindestens 99 % aus einem der folgenden Materialien besteht:
+metallische Brennstoffe, Brennstoff‚mischungenʻ oder „pyrotechnische“ ‚Mischungenʻ in Partikelform (kugelförmig, staubförmig, flockenförmig oder gemahlen), hergestellt aus Material, das zu mindestens 99 % aus einem der folgenden Materialien besteht:
 
-a) Metalle und ,Mischungen‘ daraus wie folgt:
+a) Metalle und ‚Mischungenʻ daraus wie folgt:
 
 1. Beryllium (CAS-Nr. 7440-41-7) mit einer Partikelgröße kleiner als 60 µm,
 
 2. Eisenpulver (CAS-Nr. 7439-89-6) mit einer Partikelgröße kleiner/gleich 3 µm, hergestellt durch Reduktion von Eisenoxid mit Wasserstoff,
 
-b) ,Mischungen‘, die einen der folgenden Stoffe enthalten:
+b) ‚Mischungenʻ, die einen der folgenden Stoffe enthalten:
 
 1. Zirkonium (CAS-Nr. 7440-67-7), Magnesium (CAS-Nr. 7439-95-4) und Legierungen dieser Metalle mit Partikelgrößen kleiner als 60 µm
 
@@ -3347,11 +3402,7 @@ Unternummer 0008c5 erfasst „Explosivstoffe“ und Brennstoffe auch dann, wenn 
 
 Anmerkung 2:
 
-Unternummer 0008c5b erfasst metallische Brennstoffe in Partikelform nur, wenn sie mit anderen Stoffen gemischt werden, um eine für militärische Zwecke formulierte
-
-,Mischung‘
-
-zu bilden, wie Flüssig„treibstoff“suspensionen (liquid propellant slurries), Fest„treibstoffe“ oder „pyrotechnische“ ,Mischungen‘.
+Unternummer 0008c5b erfasst metallische Brennstoffe in Partikelform nur, wenn sie mit anderen Stoffen gemischt werden, um eine für militärische Zwecke formulierte ‚Mischungʻ zu bilden, wie Flüssig„treibstoff“suspensionen (liquid propellant slurries), Fest„treibstoffe“ oder „pyrotechnische“ ‚Mischungenʻ.
 
 Anmerkung 3:
 
@@ -3371,7 +3422,7 @@ kugelförmiges oder kugelähnliches Aluminiumpulver (CAS-Nr. 7429-90-5) mit eine
 
 9\.
 
-Titansubhydrid (TiH<sub>n</sub>) mit einer stöchiometrischen Zusammensetzung n = 0,65-1,68,
+Titansubhydrid (TiH<sub>n</sub>) mit einer stöchiometrischen Zusammensetzung n = 0,65‑1,68,
 
 10\.
 
@@ -3429,7 +3480,7 @@ Unternummer 0008c12 schließt Thermite ein.
 
 d)
 
-Oxidationsmittel wie folgt und ,Mischungen‘ daraus:
+Oxidationsmittel wie folgt und ‚Mischungenʻ daraus:
 
 1\.
 
@@ -3545,7 +3596,7 @@ b) Polyepichlorhydrintriol,
 
 82486-82-6 und 85954-06-9),
 
-15. PGN (Poly-GLYN, Polyglycidylnitrat oder Poly(nitratomethyloxiran)) (CAS-Nr. 27814-48-8),
+15. PGN (Poly-GLYN, Polyglycidylnitrat oder Poly(nitratomethyloxiran)) (CAS‑Nr. 27814-48-8),
 
 16. Poly-NIMMO (Poly(nitratomethylmethyloxetan), Poly-NMMO oder Poly(3-nitratomethyl-3-methyloxetan) (CAS-Nr. 84051-81-0),
 
@@ -3561,7 +3612,11 @@ b) Polyepichlorhydrintriol,
 
 f)
 
-„Additive“ wie folgt:
+‚Additive‘ wie folgt:
+
+Technische Anmerkung:
+
+Im Sinne von Unternummer 0008f sind ‚Additive‘ Stoffe, die bei der Zubereitung von Sprengstoffen verwendet werden, um deren Eigenschaften zu verbessern.
 
 1\.
 
@@ -3607,11 +3662,11 @@ m) Dibutylferrocen (CAS-Nr. 1274-08-4),
 
 n) Dihexylferrocen (CAS-Nr. 93894-59-8),
 
-o) Acetylferrocen (CAS-Nr. 1271-55-2)/1,1'-Diacetylferrocen (CAS-Nr. 1273-94-5),
+o) Acetylferrocen (CAS-Nr. 1271-55-2)/1,1'-Diacetylferrocen (CAS-Nr. 1273‑94‑5),
 
 5\.
 
-Blei-ß-resorcylat (CAS-Nr. 20936-32-7) oder Kupfer-ß-resorcylat (CAS-Nr. 70983-44-7),
+Blei-ß-resorcylat (CAS-Nr. 20936-32-7) oder Kupfer-ß-resorcylat (CAS-Nr. 70983‑44‑7),
 
 6\.
 
@@ -3653,11 +3708,11 @@ N-Methyl-p-nitroanilin (CAS-Nr. 100-15-2),
 
 metallorganische-Kupplungsreagentien wie folgt:
 
-a) Titan-IV-2,2-\[Bis-2-propenolat-methyl-butanolattris(dioctyl) phosphato\] (LICA 12) (CAS-Nr.
+a) Titan-IV-2,2-\[Bis-2-propenolat-methyl-butanolattris(dioctyl) phosphato\] (LICA 12)  
+(CAS-Nr. 103850-22-2),
 
-103850-22-2),
-
-b) Titan-IV-((2-Propenolat-1)methyl-n-propenolatomethyl) butanolat-1-tris(dioctyl)-pyrophosphat (KR3538),
+b) Titan-IV-((2-Propenolat-1)methyl-n-propenolatomethyl) butanolat-1-tris(dioctyl)-pyrophosphat  
+(KR3538),
 
 c) Titan-IV-((2-Propenolat-1)methyl-n-propenolatomethyl) butanolat-1-tris(dioctyl)phosphat,
 
@@ -3681,11 +3736,11 @@ Anmerkung:
 
 Unternummer 0008f17b umfasst:
 
-a) 1,1H-Isophthaloyl bis(2-methylaziridin) (HX-752) (CAS-Nr. 7652-64-4),
+a) 1,1H-Isophthaloyl bis(2-methylaziridin) (HX-752) (CAS‑Nr. 7652-64-4),
 
 b) 2,4,6-Tris(2-ethylaziridin-1-yl)-1,3,5-triazin (HX-874) (CAS-Nr. 18924-91-9),
 
-c) 1,1'-Trimethyladipoyl-bis(2-ethylaziridin) (HX-877) (CAS-Nr. 71463-62-2).
+c) 1,1'-Trimethyladipoyl-bis(2-ethylaziridin) (HX-877) (CAS‑Nr. 71463-62-2);
 
 18\.
 
@@ -3693,7 +3748,7 @@ Propylenimin, 2-Methylaziridin (CAS-Nr. 75-55-8),
 
 19\.
 
-superfeines Eisenoxid (Fe<sub>2</sub>O<sub>3</sub>) (CAS-Nr. 1317-60-8) mit einer spezifischen Oberfläche größer als 250 m²/g und einer durchschnittlichen Partikelgröße kleiner/gleich 3,0 nm (CAS-Nr. 1309-37-1),
+superfeines Eisenoxid (Fe<sub>2</sub>O<sub>3</sub>) (CAS-Nr. 1317-60-8) mit einer spezifischen Oberfläche größer als 250 m²/g und einer durchschnittlichen Partikelgröße kleiner/gleich 3,0 nm (CAS-Nr. 1309-37‑1),
 
 20\.
 
@@ -3735,11 +3790,11 @@ Die Verweise in Unternummer 0008g beziehen sich auf erfasste „energetische Mat
 
 8. 1,2,4-Butantriol (1,2,4-Trihydroxybutan) (CAS-Nr. 3068-00-6) (siehe auch Unternummer 0008e5),
 
-9. DADN (1,5-Diacetyl-3,7-dinitro-1,3,5,7-tetraazacyclooctan) (siehe auch Unternummer 0008a13);
+9. DADN (1,5-Diacetyl-3,7-dinitro-1,3,5,7-tetraazacyclooctan) (siehe auch Unternummer 0008a13).
 
 h)
 
-Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:
+Pulver und Formteile aus ‚reaktiven Materialienʻ wie folgt:
 
 1. Pulver aus einem der folgenden Materialien mit einer Partikelgröße kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer 0008 erfasst:
 
@@ -3771,11 +3826,11 @@ Technische Anmerkung:
 
 Im Sinne von Unternummer 0008h gilt:
 
-1. ,Reaktive Materialien‘ sind für die Erzeugung einer exothermen Reaktion nur bei hohen Schergeschwindigkeiten und für die Verwendung als Auskleidung oder Gehäuse in Gefechtsköpfen entwickelt.
+1. ‚Reaktive Materialienʻ sind für die Erzeugung einer exothermen Reaktion nur bei hohen Schergeschwindigkeiten und für die Verwendung als Auskleidung oder Gehäuse in Gefechtsköpfen entwickelt.
 
-2. Pulver aus ,reaktiven Materialien‘ werden beispielsweise durch Mahlen in einer Hochenergie-Kugelmühle erzeugt.
+2. Pulver aus ‚reaktiven Materialienʻ werden beispielsweise durch Mahlen in einer Hochenergie-Kugelmühle erzeugt.
 
-3. Formteile aus ,reaktiven Materialien‘ werden beispielsweise durch selektives „Laser“sintern erzeugt.
+3. Formteile aus ‚reaktiven Materialienʻ werden beispielsweise durch selektives „Laser“sintern erzeugt.
 
 Anmerkung 1:
 
@@ -3787,15 +3842,11 @@ b) Schwarzpulver,
 
 c) Hexanitrodiphenylamin (CAS-Nr. 131-73-7),
 
-d) Difluoramin (HNF
-
-2
-
-) (CAS-Nr. 10405-27-3),
+d) Difluoramin (HNF<sub>2</sub>) (CAS-Nr. 10405-27-3),
 
 e) Nitrostärke (CAS-Nr. 9056-38-6),
 
-f) Kaliumnitrat (CAS-Nr. 7757-79-1),
+f) Kaliumnitrat (CAS-Nr.7757-79-1),
 
 g) Tetranitronaphthalin,
 
@@ -3805,53 +3856,52 @@ i) Trinitronaphthalin,
 
 j) Trinitroxylol,
 
-k) N-Pyrrolidinon, 1-Methyl-2-pyrrolidinon (CAS-Nr. 872-50-4),
+k) 1-Methyl-2-pyrrolidinon (N-Methyl-2-pyrrolidon) (CAS-Nr. 872-50-4),
 
 l) Dioctylmaleat (CAS-Nr. 142-16-5),
 
 m) Ethylhexylacrylat (CAS-Nr. 103-11-7),
 
-n) Triethylaluminium (TEA) (CAS-Nr. 97-93-8), Trimethylaluminium (TMA) (CAS-Nr.
+n) Triethylaluminium (TEA) (CAS-Nr. 97-93-8), Trimethylaluminium (TMA)
 
-75-24-1) und sonstige pyrophore Metallalkyle der Elemente Lithium, Natrium, Magnesium, Zink und Bor sowie Metallaryle derselben Elemente,
+(CAS‑Nr. 75-24-1) und sonstige pyrophore Metallalkyle der Elemente Lithium, Natrium, Magnesium, Zink und Bor sowie Metallaryle derselben Elemente,
 
-o) Nitrozellulose (CAS-Nr. 9004-70-0),
+o) Nitrozellulose (CAS‑Nr. 9004-70-0),
 
-p) Nitroglycerin (oder Glycerinnitrat) (CAS-Nr. 55-63-0),
+p) Nitroglycerin (oder Glycerinnitrat) (CAS‑Nr. 55-63-0),
 
-q) 2,4,6-Trinitrotoluol (CAS-Nr. 118-96-7),
+q) 2,4,6-Trinitrotoluol (CAS‑Nr. 118-96-7),
 
-r) Ethylendiamindinitrat (CAS-Nr. 20829-66-7),
+r) Ethylendiamindinitrat (CAS‑Nr. 20829-66-7),
 
-s) Pentaerythrittetranitrat (CAS-Nr. 78-11-5),
+s) Pentaerythrittetranitrat (CAS‑Nr. 78-11-5),
 
-t) Bleiazid (CAS-Nr. 13424-46-9), normales Bleistyphnat (CAS-Nr. 15245-44-0), basisches Bleistyphnat (CAS-Nr. 12403-82-6) und sonstige Anzünder oder Anzündermischungen, die Azide oder komplexe Azide enthalten,
+t) Bleiazid (CAS‑Nr. 13424-46-9), normales Bleistyphnat (CAS‑Nr. 15245-44-0), basisches Bleistyphnat (CAS‑Nr. 12403-82-6) und sonstige Anzünder oder Anzündermischungen, die Azide oder komplexe Azide enthalten,
 
-u) Triethylenglykoldinitrat (TEGDN) (CAS-Nr. 111-22-8),
+u) Triethylenglykoldinitrat (TEGDN) (CAS‑Nr. 111-22-8),
 
-v) 2,4,6-Trinitroresorcin (Styphninsäure) (CAS-Nr. 82-71-3),
+v) 2,4,6-Trinitroresorcin (Styphninsäure) (CAS‑Nr. 82-71-3),
 
-w) Diethyldiphenylharnstoff (CAS-Nr. 85-98-3), Dimethyldiphenylharnstoff (CAS-Nr.
+w) Diethyldiphenylharnstoff (CAS‑Nr. 85-98-3), Dimethyldiphenylharnstoff  
+(CAS‑Nr. 611-92-7), Methylethyldiphenylharnstoff (Centralite),
 
-611-92-7), Methylethyldiphenylharnstoff (Centralite),
+x) N,N-Diphenylharnstoff (unsymmetrischer Diphenylharnstoff) (CAS‑Nr. 603‑54‑3),
 
-x) N,N-Diphenylharnstoff (unsymmetrischer Diphenylharnstoff) (CAS-Nr. 603-54-3),
+y) Methyl-N,N-diphenylharnstoff (unsymmetrischer Methyldiphenylharnstoff)  
+(CAS‑Nr. 13114-72-2),
 
-y) Methyl-N,N-diphenylharnstoff (unsymmetrischer Methyldiphenylharnstoff) (CAS-Nr. 13114-72-2),
-
-z) Ethyl-N,N-diphenylharnstoff (unsymmetrischer Ethyldiphenylharnstoff) (CAS-Nr.
-
-64544-71-4),
+z) Ethyl-N,N-diphenylharnstoff (unsymmetrischer Ethyldiphenylharnstoff)  
+(CAS‑Nr. 64544-71-4),
 
 <!-- -->
 
 aa)  
-2-Nitrodiphenylamin (2-NDPA) (CAS-Nr. 119-75-5),
+2-Nitrodiphenylamin (2-NDPA) (CAS‑Nr. 119-75-5),
 
 bb)  
-4-Nitrodiphenylamin (4-NDPA) (CAS-Nr. 836-30-6),
+4-Nitrodiphenylamin (4-NDPA) (CAS‑Nr. 836-30-6),
 
-cc) 2,2-Dinitropropanol (CAS-Nr. 918-52-5),
+cc) 2,2-Dinitropropanol (CAS‑Nr. 918-52-5),
 
 dd)  
 zur Erfassung von Nitroguanidin (NQ) (CAS-Nr. 556-88-7) siehe Unternummer 1C011d des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
@@ -3892,7 +3942,7 @@ Schiffe und Bestandteile, wie folgt:
 
 1\.
 
-Schiffe (über oder unter Wasser), besonders konstruiert oder geändert für militärische Zwecke, ungeachtet ihres derzeitigen Reparaturzustands oder ihrer Betriebsfähigkeit oder ob sie Waffeneinsatzsysteme oder Panzerungen enthalten, sowie Schiffskörper oder Teile von Schiffskörpern für solche Schiffe, und Bestandteile hierfür, besonders konstruiert für militärische Zwecke,
+Schiffe (über oder unter Wasser), besonders konstruiert oder geändert für militärische Zwecke, ungeachtet ihres derzeitigen Reparaturzustands oder ihrer Betriebsfähigkeit oder ob sie Waffeneinsatzsysteme oder Panzerungen enthalten, sowie Schiffskörper oder Teile von Schiffskörpern für solche Schiffe, und Bestandteile hierfür, besonders konstruiert für militärische Zwecke;
 
 Anmerkung:
 
@@ -3902,31 +3952,31 @@ Unternummer 0009a1 schließt Fahrzeuge, besonders konstruiert oder geändert fü
 
 Überwasserschiffe, nicht von Unternummer 0009a1 erfasst, mit einer der folgenden fest am Schiff angebrachten oder in das Schiff eingebauten Ausrüstungen:
 
-a) automatische Waffen, erfasst von Nummer 0001, oder Waffen, die von Nummer 0002, 0004, 0012 oder 0019 erfasst werden, oder ,Montagen‘ oder Befestigungspunkte (hard points) für Waffen mit einem Kaliber von größer/gleich 12,7 mm,
+a) automatische Waffen, erfasst von Nummer 0001, oder Waffen, die von Nummer 0002, 0004, 0012 oder 0019 erfasst werden, oder ‚Montagenʻ oder Befestigungspunkte (hard points) für Waffen mit einem Kaliber von größer/gleich 12,7 mm;
 
 Technische Anmerkung:
 
-Im Sinne von Unternummer 0009a2a bezieht sich der Begriff ,Montagen‘ auf Lafetten und Verstärkungen der Schiffsstruktur für den Zweck der Installation von Waffen.
+Im Sinne von Unternummer 0009a2a bezieht sich der Begriff ‚Montagenʻ auf Lafetten und Verstärkungen der Schiffsstruktur für den Zweck der Installation von Waffen.
 
-b) Feuerleitsysteme, die von Nummer 0005 erfasst werden,
+b) Feuerleitsysteme, die von Nummer 0005 erfasst werden;
 
 c) mit allen folgenden Ausrüstungen:
 
-1. ,ABC-Schutz‘
+1. ‚ABC-Schutzʻ
 
 und
 
-2. ,Pre-wet oder Wash-Down-System‘ konstruiert für Dekontaminationszwecke,
+2. ‚Pre-wet oder Wash-Down-Systemʻ konstruiert für Dekontaminationszwecke;
 
 oder
 
 Technische Anmerkung:
 
-,Pre-wet oder Wash-Down-System‘ im Sinne von Unternummer 0009a2c2 ist ein Seewassersprühsystem, das zum gleichzeitigen Besprühen der äußeren Aufbauten und Decks eines Schiffes fähig ist.
+‚Pre-wet oder Wash-Down Systemʻ im Sinne von Unternummer 0009a2c2 ist ein Seewassersprühsystem, das zum gleichzeitigen Besprühen der äußeren Aufbauten und Decks eines Schiffes fähig ist.
 
-d) Aktive Waffenabwehrsysteme (active weapon countermesure systems), die von Unternummern 0004b, 0005c oder 0011a erfasst werden, wenn das Schiff eines der folgenden Merkmale besitzt:
+d) Aktive Waffenabwehrsysteme (active weapon countermeasure systems), die von Unternummern 0004b, 0005c oder 0011a erfasst werden, wenn das Schiff eines der folgenden Merkmale besitzt:
 
-1. ,ABC-Schutz‘,
+1. ‚ABC-Schutzʻ,
 
 2. Rumpf und Aufbauten, besonders konstruiert um den Radarrückstreuquerschnitt zu reduzieren,
 
@@ -3938,7 +3988,7 @@ oder
 
 Technische Anmerkung:
 
-,ABC-Schutz‘ im Sinne von Unternummer 0009a2 ist ein abgeschlossener Innenraum, der Merkmale aufweist wie eine Überdruckbelüftung, die Trennung der Lüftungssysteme, eine limitierte Anzahl von Lüftungsöffnungen mit ABC-Filtern und eine limitierte Anzahl von Eingängen mit Luftschleusen.
+‚ABC-Schutzʻ im Sinne von Unternummer 0009a2 ist ein abgeschlossener Innenraum, der Merkmale aufweist wie eine Überdruckbelüftung, die Trennung der Lüftungssysteme, eine limitierte Anzahl von Lüftungsöffnungen mit ABC-Filtern und eine limitierte Anzahl von Eingängen mit Luftschleusen.
 
 b)
 
@@ -3970,15 +4020,15 @@ a) Leistung größer/gleich 37,3 kW (50 PS)
 
 und
 
-b) ,nichtmagnetischer‘ Anteil von mehr als 75 % des Gesamtgewichts,
+b) ‚nichtmagnetischerʻ Anteil von mehr als 75 % des Gesamtgewichts;
 
 Technische Anmerkung:
 
-Im Sinne von Unternummer 0009b3 bedeutet ,nichtmagnetisch‘ eine Permeabilitätszahl kleiner als 2.
+Im Sinne von Unternummer 0009b3 bedeutet ‚nichtmagnetischʻ eine Permeabilitätszahl kleiner als 2.
 
 4\.
 
-,außenluftunabhängige Antriebssysteme‘ (,AIP‘), besonders konstruiert für U-Boote;
+‚außenluftunabhängige Antriebssystemeʻ (‚AIPʻ), besonders konstruiert für U-Boote;
 
 Anmerkung:
 
@@ -3986,7 +4036,7 @@ Unternummer 0009b4 gilt nicht für Nuklearenergie.
 
 Technische Anmerkung:
 
-Ein ,außenluftunabhängiger Antrieb‘ (,AIP‘) im Sinne von Unternummer 0009b4 gestattet es getauchten U-Booten, das Antriebssystem ohne Zugang zu atmosphärischem Sauerstoff für einen längeren Zeitraum zu betreiben, als es sonst mit Batterien möglich wäre.
+Ein ‚außenluftunabhängiger Antriebʻ (‚AIPʻ) im Sinne von Unternummer 0009b4 gestattet es getauchten U‑Booten, das Antriebssystem ohne Zugang zu atmosphärischem Sauerstoff für einen längeren Zeitraum zu betreiben, als es sonst mit Batterien möglich wäre.
 
 Ergänzende Anmerkung:
 
@@ -4006,7 +4056,7 @@ nicht belegt;
 
 f)
 
-Schiffskörperdurchführungen und -steckverbinder, besonders konstruiert für militärische Zwecke, die das Zusammenwirken mit Ausrüstung außerhalb eines Schiffes ermöglichen, sowie Bestandteile hierfür, besonders konstruiert für militärische Zwecke;
+Schiffskörper-Durchführungen und -Steckverbinder, besonders konstruiert für militärische Zwecke, die das Zusammenwirken mit Ausrüstung außerhalb eines Schiffes ermöglichen, sowie Bestandteile hierfür, besonders konstruiert für militärische Zwecke;
 
 Anmerkung 1:
 
@@ -4036,11 +4086,11 @@ oder
 
 h)
 
-nukleare Energieerzeugungs- oder Antriebsausrüstung, besonders konstruiert für in Unternummer 0009a genannte Schiffe, sowie besonders für militärische Zwecke konstruierte oder ,geänderte‘ Bestandteile.
+nukleare Energieerzeugungs- oder Antriebsausrüstung, besonders konstruiert für in Unternummer 0009a genannte Schiffe, sowie besonders für militärische Zwecke konstruierte oder ‚geänderteʻ Bestandteile.
 
 Technische Anmerkung:
 
-,Geändert‘ im Sinne von Unternummer 0009h bedeutet eine bauliche, elektrische, mechanische oder sonstige Änderung, die eine nichtmilitärische Ausrüstung mit militärischen Eigenschaften ausstattet, sodass die Ausrüstung gleichwertig zu einer für militärische Zwecke besonders konstruierten Ausrüstung ist.
+‚Geändertʻ im Sinne von Unternummer 0009h bedeutet eine bauliche, elektrische, mechanische oder sonstige Änderung, die eine nichtmilitärische Ausrüstung mit militärischen Eigenschaften ausstattet, sodass die Ausrüstung gleichwertig zu einer für militärische Zwecke besonders konstruierten Ausrüstung ist.
 
 Anmerkung:
 
@@ -4048,7 +4098,7 @@ Unternummer 0009h schließt „Kernreaktoren“ ein.
 
 0010
 
-„Luftfahrzeuge“, „Luftfahrtgerät nach dem Prinzip leichter-als-Luft“, „unbemannte Luftfahrzeuge“ („UAV“), Triebwerke, „Luftfahrzeug“-Ausrüstung, Zusatzausrüstung und Bestandteile wie folgt, besonders konstruiert oder geändert für militärische Zwecke:
+„Luftfahrzeuge“, „Luftfahrtgeräte nach dem Prinzip leichter-als-Luft“, „unbemannte Luftfahrzeuge“ („UAV“), Triebwerke, „suborbitale Fahrzeuge“, „Luftfahrzeug“-Ausrüstung, Zusatzausrüstung und Bestandteile wie folgt, besonders konstruiert oder geändert für militärische Zwecke:
 
 Ergänzende Anmerkung:
 
@@ -4106,11 +4156,11 @@ Unternummer 0010f erfasst nicht:
 
 3. Leitern, Treppen und Plattformen,
 
-4. Unterlegkeile, Verankerungen und Verzurrungsausrüstung.
+4. Unterlegkeile, Verankerungen und Verzurrungsausrüstung;
 
 g)
 
-Lebenserhaltungsgeräte für die Flugbesatzung, Sicherheitsausrüstung für die Flugbesatzung und andere Einrichtungen für den Notausstieg, die nicht von Unternummer 0010a erfasst werden, besonders konstruiert für die von Unternummer 0010a erfassten „Luftfahrzeuge“;
+Lebenserhaltungsgeräte für die Flugbesatzung, Sicherheitsausrüstung für die Flugbesatzung und andere Einrichtungen für den Notausstieg, die nicht von Unternummer 0010a erfasst werden, besonders konstruiert für die von Unternummer 0010a erfassten „Luftfahrzeuge“ oder für die von Unternummer 0010j erfassten „suborbitalen Fahrzeuge“;
 
 Anmerkung:
 
@@ -4133,6 +4183,16 @@ Fallschirme, Para-Gleiter und zugehörige Ausrüstung, wie folgt und besonders k
 i)
 
 Geräte für das gesteuerte Entfalten oder automatische Lenksysteme konstruiert für Fallschirmlasten.
+
+j)
+
+„suborbitale Fahrzeuge“ sowie zugehörige Ausrüstung wie folgt und besonders konstruierte oder geänderte Bestandteile hierfür:
+
+1. „suborbitale Fahrzeuge“,
+
+2. Startausrüstung, Bergungsausrüstung und unterstützende Bodengeräte,
+
+3. Ausrüstung für die Steuerung.
 
 Anmerkung 1:
 
@@ -4160,11 +4220,11 @@ Siehe jedoch Teil I B Nummer 9A994.
 
 Anmerkung 3:
 
-Im Sinne von Unternummer 0010a und 0010d erstreckt sich die Erfassung von besonders konstruierten Bestandteilen und zugehöriger Ausrüstung für nichtmilitärische „Luftfahrzeuge“ oder Triebwerke, die für militärische Zwecke geändert sind, nur auf solche militärischen Bestandteile und zugehörige militärische Ausrüstung, die für die Änderung für militärische Zwecke nötig sind.
+Im Sinne von Unternummern 0010a, 0010d und 0010j erstreckt sich die Erfassung von besonders konstruierten Bestandteilen und zugehöriger Ausrüstung für nichtmilitärische „Luftfahrzeuge“, Triebwerke oder „suborbitale Fahrzeuge“, die für militärische Zwecke geändert sind, nur auf solche militärischen Bestandteile und zugehörige militärische Ausrüstung, die für die Änderung für militärische Zwecke nötig sind.
 
 Anmerkung 4:
 
-Im Sinne von Unternummer 0010a schließen militärische Zwecke Folgendes ein: Kampfhandlungen, militärische Aufklärung, militärischer Angriff, militärische Ausbildung, logistische Unterstützung sowie Beförderung und Luftlandung von Truppen oder militärischer Ausrüstung.
+Im Sinne von Unternummern 0010a und 0010j schließen militärische Zwecke Folgendes ein: Kampfhandlungen, militärische Aufklärung, militärischer Angriff, militärische Ausbildung, logistische Unterstützung sowie Beförderung und Luftlandung von Truppen oder militärischer Ausrüstung.
 
 Anmerkung 5:
 
@@ -4194,7 +4254,7 @@ Anmerkung:
 
 Unternummer 0011a schließt folgende Ausrüstung ein:
 
-a) Ausrüstung für elektronische Gegenmaßnahmen (ECM) und elektronische Schutzmaßnahmen (ECCM), einschließlich elektronischer Ausrüstung zum Stören und Gegenstören, d. h. Geräte, konstruiert, um in Radar- oder Funkgeräten Störsignale oder verfälschende Signale zu erzeugen oder auf andere Weise den Empfang, den Betrieb oder die Wirksamkeit gegnerischer Empfänger einschließlich der Geräte für Gegenmaßnahmen zu stören,
+a) Ausrüstung für elektronische Gegenmaßnahmen (ECM) und elektronische Schutzmaßnahmen (ECCM), einschließlich elektronischer Ausrüstung zum Stören und Gegenstören, d.h. Geräte, konstruiert, um in Radar- oder Funkgeräten Störsignale oder verfälschende Signale zu erzeugen oder auf andere Weise den Empfang, den Betrieb oder die Wirksamkeit gegnerischer Empfänger einschließlich der Geräte für Gegenmaßnahmen zu stören,
 
 b) schnell abstimmbare Röhren (frequency agile tubes),
 
@@ -4212,19 +4272,25 @@ h) digitale Troposcatter-Funkübertragungsausrüstung,
 
 i) digitale Demodulatoren, besonders konstruiert für die Fernmelde- oder elektronische Aufklärung,
 
-j) „automatisierte Führungs- und Leitsysteme“.
+j) ‚automatisierte Führungs- und Leitsysteme‘.
+
+Technische Anmerkung:
+
+Im Sinne von Unternummer 0011a Anmerkung j bezeichnet ‚automatisierte Führungs-
+
+und Leitsysteme‘ elektronische Systeme zur Eingabe, Verarbeitung und Ausgabe von Information, die wesentlich ist für die effektive Operation der unterstellten Gruppe, des Großverbands, des taktischen Verbands, der Einheit, des Schiffes, der Untereinheit oder des Waffensystems. Dies wird erreicht durch die Nutzung von Computern und anderer spezialisierter Hardware, konstruiert zur Unterstützung der Funktionen einer militärischen Führungs-
+
+und Leitorganisation. Die Hauptfunktionen eines ‚automatisierten Führungs-
+
+und Leitsystems‘ sind: die effiziente automatische Erfassung, Sammlung, Speicherung und Verarbeitung von Information; die Darstellung der Lage und der Verhältnisse, die die Vorbereitung und Durchführung von Kampfoperationen beeinflussen; operationelle und taktische Berechnungen für die Zuweisung von Ressourcen zwischen den Kampfgruppen oder Elementen für die operative Kräftegliederung oder den Aufmarsch entsprechend der Mission oder dem Stadium der Operation; die Aufbereitung von Daten für die Einschätzung der Situation und für die Entscheidungsfindung zu jedem Zeitpunkt während der Operation oder Schlacht; Computer-Simulation von Operationen.
 
 Ergänzende Anmerkung:
 
 „Software“ für militärische „Software“ Defined Radio (SDR) siehe Nummer 0021.
 
-b)
+b) Störausrüstung, konstruiert oder geändert, um den Empfang, den Betrieb oder die Wirksamkeit der von „Satelliten-Navigationssystemen“ bereitgestellten Ortungs-, Navigations- oder Zeitdienste zu behindern, und besonders konstruierte Bestandteile hierfür;
 
-Störausrüstung, konstruiert oder geändert, um den Empfang, den Betrieb oder die Wirksamkeit der von „Satelliten-Navigationssystemen“ bereitgestellten Ortungs-, Navigations- oder Zeitdienste zu behindern, und besonders konstruierte Bestandteile hierfür;
-
-c)
-
-„Raumfahrzeuge“ besonders konstruiert oder geändert für militärische Zwecke und „Raumfahrzeug“-Bestandteile besonders konstruiert für militärische Zwecke.
+c) „Raumfahrzeuge“ besonders konstruiert oder geändert für militärische Zwecke und „Raumfahrzeug“-Bestandteile besonders konstruiert für militärische Zwecke.
 
 0012
 
@@ -4244,7 +4310,7 @@ b) Ausrüstung für die Erzeugung von Primärenergie, Elektroschutz (electric ar
 
 Ergänzende Anmerkung:
 
-Siehe auch Unternummer 3A001e2 (Hochenergie-Speicherkondensatoren) des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
+Hochenergie-Speicherkondensatoren siehe auch Unternummer 3A001e2 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 c) Zielerfassungs-, Zielverfolgungs-, Feuerleitsysteme und Systeme zur Wirkungsermittlung,
 
@@ -4296,11 +4362,11 @@ c)
 
 Helme und besonders konstruierte Bestandteile und besonders konstruiertes Zubehör hierfür, wie folgt:
 
-1. Helme, hergestellt nach militärischen Standards, militärischen Spezifikationen oder vergleichbaren nationalen Normen,
+1. Helme, hergestellt nach militärischen Standards, militärischen Spezifikationen oder vergleichbaren nationalen Normen;
 
-2. Außenschalen, Innenschalen oder Polsterungen, besonders konstruiert für in Unternummer 0013c1 erfasste Helme,
+2. Außenschalen, Innenschalen oder Polsterungen, besonders konstruiert für in Unternummer 0013c1 erfasste Helme;
 
-3. zusätzliche ballistische Schutzkomponenten, besonders konstruiert für in Unternummer 0013c1 erfasste Helme;
+3. zusätzliche ballistische Schutzkomponenten, besonders konstruiert für in Unternummer 0013c1 erfasste Helme.
 
 Ergänzende Anmerkung:
 
@@ -4312,7 +4378,7 @@ Körperpanzer und Schutzkleidung sowie Bestandteile hierfür, wie folgt:
 
 1\.
 
-weichballistische Körperpanzer oder Schutzkleidung, hergestellt nach militärischen Standards bzw. Spezifikationen oder hierzu gleichwertigen Anforderungen, und besonders konstruierte Bestandteile hierfür,
+weichballistische Körperpanzer oder Schutzkleidung, hergestellt nach militärischen Standards bzw. Spezifikationen oder hierzu gleichwertigen Anforderungen, und besonders konstruierte Bestandteile hierfür;
 
 Anmerkung:
 
@@ -4320,9 +4386,7 @@ Für die Zwecke der Unternummer 0013d1 schließen militärische Standards bzw. S
 
 2\.
 
-hartballistische Körperpanzer-Schutzplatten, die einen ballistischen Schutz größer/gleich Stufe III
-
-(NIJ 0101.06, Juli 2008 oder entsprechend „gleichwertige Standards“) bewirken;
+hartballistische Körperpanzer-Schutzplatten, die einen ballistischen Schutz größer/gleich Stufe III (NIJ 0101.06, Juli 2008 oder entsprechend „gleichwertige Standards“) bewirken.
 
 Anmerkung 1:
 
@@ -4342,7 +4406,9 @@ Anmerkung 3:
 
 Unternummer 0013c erfasst nicht Helme mit allen folgenden Eigenschaften:
 
-a) sie wurden erstmalig vor 1970 hergestellt und
+a) sie wurden erstmalig vor 1970 hergestellt
+
+und
 
 b) sind weder mit in der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Gütern ausgerüstet noch für die Ausrüstung mit derartigen Gütern geändert oder konstruiert.
 
@@ -4374,7 +4440,7 @@ oder fadenförmige Materialien“, die bei der Herstellung von Körperpanzern ve
 
 0014
 
-,Spezialisierte Ausrüstung für die militärische Ausbildung‘ oder für die Simulation militärischer Szenare, Simulatoren, besonders konstruiert für die Ausbildung an den unter Nummer 0001 oder 0002 erfassten Waffen, sowie besonders konstruierte Bestandteile und besonders konstruiertes Zubehör hierfür.
+‚Spezialisierte Ausrüstung für die militärische Ausbildungʻ oder für die Simulation militärischer Szenare, Simulatoren, besonders konstruiert für die Ausbildung an den unter Nummer 0001 oder 0002 erfassten Waffen, sowie besonders konstruierte Bestandteile und besonders konstruiertes Zubehör hierfür.
 
 Anmerkung 1:
 
@@ -4388,7 +4454,7 @@ und Sportwaffen.
 
 Anmerkung 3:
 
-,Spezialisierte Ausrüstung für die militärische Ausbildung‘ schließt militärische Ausführungen von folgender Ausrüstung ein:
+,Spezialisierte Ausrüstung für die militärische Ausbildungʻ schließt militärische Ausführungen von folgender Ausrüstung ein:
 
 a) Angriffssimulatoren,
 
@@ -4462,7 +4528,7 @@ Nummer 0015 erfasst nicht „Bildverstärkerröhren der ersten Generation“ ode
 
 Ergänzende Anmerkung:
 
-Für Waffenzielgeräte mit „Bildverstärkerröhren der ersten Generation“ siehe Unternummern 0001d, 0002c und 0005a.
+Für Waffenzielgeräten mit „Bildverstärkerröhren der ersten Generation“ siehe Unternummern 0001d, 0002c und 0005a.
 
 Ergänzende Anmerkung:
 
@@ -4518,11 +4584,11 @@ e)
 
 oder
 
-3. besonders konstruiert oder ausgelegt für einen Einsatz in einer ,EMP‘-Umgebung (,EMP‘ = elektromagnetischer Impuls);
+3. besonders konstruiert oder ausgelegt für einen Einsatz in einer ‚EMPʻ-Umgebung (‚EMPʻ = elektromagnetischer Impuls);
 
 Technische Anmerkung:
 
-,EMP‘ im Sinne von Unternummer 0017e3 bezieht sich nicht auf eine unbeabsichtigte Störbeeinflussung, die durch elektromagnetische Abstrahlung nahe gelegener Ausrüstung (z. B. Maschinenanlagen, Vorrichtungen oder Elektronik) oder Blitzschlag verursacht wird.
+‚EMPʻ im Sinne von Unternummer 0017e3 bezieht sich nicht auf eine unbeabsichtigte Störbeeinflussung, die durch elektromagnetische Abstrahlung nahe gelegener Ausrüstung (z. B. Maschinenanlagen, Vorrichtungen oder Elektronik) oder Blitzschlag verursacht wird.
 
 f)
 
@@ -4530,7 +4596,7 @@ f)
 
 g)
 
-Nukleare Energieerzeugungs- oder Antriebsausrüstung, nicht anderweitig von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst, besonders konstruiert für militärische Zwecke, sowie besonders für militärische Zwecke konstruierte oder ,geänderte‘ Bestandteile;
+Nukleare Energieerzeugungs- oder Antriebsausrüstung, nicht anderweitig von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst, besonders konstruiert für militärische Zwecke, sowie besonders für militärische Zwecke konstruierte oder ‚geänderteʻ Bestandteile;
 
 Anmerkung:
 
@@ -4550,19 +4616,19 @@ Simulatoren, besonders konstruiert für militärische „Kernreaktoren“;
 
 j)
 
-mobile Werkstätten, besonders konstruiert oder ,geändert‘ zur Instandhaltung militärischer Ausrüstung;
+mobile Werkstätten, besonders konstruiert oder ‚geändertʻ zur Instandhaltung militärischer Ausrüstung;
 
 k)
 
-mobile Stromerzeugeraggregate, besonders konstruiert oder ,geändert‘ für militärische Zwecke;
+mobile Stromerzeugeraggregate, besonders konstruiert oder ‚geändertʻ für militärische Zwecke;
 
 l)
 
-intermodale ISO-Container oder abnehmbare Fahrzeugkörper (d. h. Wechselaufbauten), besonders konstruiert oder ,geändert‘ für militärische Zwecke;
+intermodale ISO-Container oder abnehmbare Fahrzeugkörper (d. h. Wechselaufbauten), besonders konstruiert oder ‚geändertʻ für militärische Zwecke;
 
 Technische Anmerkung:
 
-,Besonders konstruiert für militärische Zwecke‘ im Sinne von Unternummer 0017l ist die Ausstattung mit einer der folgenden militärspezifischen Eigenschaften:
+,Besonders konstruiert für militärische Zwecke´ im Sinne von Unternummer 0017l ist die Ausstattung mit einer der folgenden militärspezifischen Eigenschaften:
 
 a) Schutz gegen EMP (EMP = elektromagnetischer Impuls),
 
@@ -4588,73 +4654,41 @@ o)
 
 p)
 
-„Brennstoffzellen“, nicht anderweitig von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst, besonders konstruiert oder ,geändert‘ für militärische Zwecke.
+„Brennstoffzellen“, nicht anderweitig von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst, besonders konstruiert oder ‚geändertʻ für militärische Zwecke.
 
 Technische Anmerkungen:
 
-1. Nicht belegt.
+1. nicht belegt.
 
-2. ,Geändert‘ im Sinne von Nummer 0017 bedeutet eine bauliche, elektrische, mechanische oder sonstige Änderung, die eine nichtmilitärische Ausrüstung mit militärischen Eigenschaften ausstattet, so dass die Ausrüstung gleichwertig zu einer für militärische Zwecke besonders konstruierten Ausrüstung ist.
+2. ‚geändert‘ im Sinne von Nummer 0017 bedeutet eine bauliche, elektrische, mechanische oder sonstige Änderung, die eine nichtmilitärische Ausrüstung mit militärischen Eigenschaften ausstattet, so dass die Ausrüstung gleichwertig zu einer für militärische Zwecke besonders konstruierten Ausrüstung ist.
 
 0018
 
-,Herstellung‘sausrüstung, Umweltprüfeinrichtungen und Bestandteile wie folgt:
+‚Herstellung‘sausrüstung, Umweltprüfeinrichtungen und Bestandteile wie folgt:
 
-a) Ausrüstung, besonders konstruiert oder geändert für die ,Herstellung‘ der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Güter und besonders konstruierte Bestandteile hierfür;
+a) Ausrüstung, besonders konstruiert oder geändert für die ‚Herstellungʻ der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Güter und besonders konstruierte Bestandteile hierfür;
 
 b) Umweltprüfeinrichtungen, besonders konstruiert für die Zulassungs- und Eignungsprüfung der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Güter und nicht anderweitig erfasste besonders konstruierte Ausrüstung hierfür.
 
 Technische Anmerkung:
 
-,Herstellung‘ im Sinne von Nummer 0018 schließt die Konstruktion, den Test, die Fertigung, die Erprobung und die Prüfung ein.
-
-Anmerkung:
-
-Unternummern 0018a und 0018b schließen folgende Ausrüstung ein:
-
-a) kontinuierlich arbeitende Nitrieranlagen,
-
-b) Prüfzentrifugen mit einer der folgenden Eigenschaften:
-
-1. Antrieb durch einen oder mehrere Motoren mit einer Gesamtnennleistung größer als 298 kW,
-
-2. Nutzlast größer/gleich 113 kg
-
-oder
-
-3. Ausübung einer Zentrifugalbeschleunigung von mindestens 8 g auf eine Nutzlast größer/gleich 91 kg (g = Erdbeschleunigung \[9,81 m/s²\]),
-
-c) Trockenpressen,
-
-d) Schneckenstrangpressen, besonders konstruiert oder geändert für militärische „Explosivstoffe“,
-
-e) Schneidmaschinen zum Ablängen stranggepresster „Treibstoffe“,
-
-f) Dragierkessel (Taumelmischer) mit Durchmessern größer/gleich 1,85 m und einem Produktionsvermögen größer als 227 kg,
-
-g) Stetigmischer für Fest„treibstoffe“,
-
-h) Strahlmühlen (fluid energy mills) zum Zerkleinern oder Mahlen der Bestandteile von militärischen „Explosivstoffen“,
-
-i) Ausrüstung zur Erzeugung von Kugelform mit einheitlicher Partikelgröße bei den in Unternummer 0008c8 aufgeführten Metallpulvern,
-
-j) Konvektionsströmungskonverter (convection current converters) für die Konversion der in Unternummer 0008c3 aufgeführten Stoffe.
+‚Herstellungʻ im Sinne von Nummer 0018 schließt die Konstruktion, den Test, die Fertigung, die Erprobung und die Prüfung ein.
 
 0019
 
 Strahlenwaffen-Systeme, zugehörige Ausrüstung, Ausrüstung für Gegenmaßnahmen oder Versuchsmodelle wie folgt und besonders konstruierte Bestandteile hierfür:
 
-a) „Laser“-Systeme, besonders konstruiert für die Vernichtung oder Abwehr (Unterbrechung des Einsatzes) eines gegnerischen Objekts;
+a) „Laser“-‚Waffensysteme‘, nicht erfasst von Unternummer 0019f;
 
-b) Teilchenstrahl-Systeme, geeignet für die Vernichtung oder Abwehr (Unterbrechung des Einsatzes) eines gegnerischen Objekts;
+b) Teilchenstrahl-‚Waffensysteme‘;
 
-c) energiereiche Hochfrequenzsysteme, geeignet für die Vernichtung oder Abwehr (Unterbrechung des Einsatzes) eines gegnerischen Objekts;
+c) energiereiche Hochfrequenz-‚Waffensysteme‘;
 
 d) Ausrüstung, besonders konstruiert für die Entdeckung, Identifizierung oder Abwehr der von Unternummer 0019a, 0019b oder 0019c erfassten Systeme;
 
 e) physische Versuchsmodelle und zugehörige Dokumentation für die von Nummer 0019 erfassten Systeme, Ausrüstung und Bestandteile;
 
-f) „Laser“-Systeme, besonders konstruiert, um eine dauerhafte Erblindung bei einer Beobachtung ohne vergrößernde Optik zu verursachen, d. h. bei einer Beobachtung mit bloßem Auge oder mit korrigierender Sehhilfe.
+f) „Laser“-Systeme, besonders konstruiert, um eine dauerhafte Erblindung bei einer Beobachtung ohne vergrößernde Optik zu verursachen, d.h. bei einer Beobachtung mit bloßem Auge oder mit korrigierender Sehhilfe.
 
 Anmerkung 1:
 
@@ -4694,13 +4728,17 @@ j) Ausrüstung zur Steuerung und Schwenkung eines energiereichen Ionenstrahls,
 
 k) „weltraumgeeignete“ Folien zur Neutralisierung von negativen Wasserstoffisotopenstrahlen.
 
+Technische Anmerkung:
+
+Im Sinne von Nummer 0019 sind ‚Waffensysteme‘ konstruiert für die Beschädigung, Vernichtung oder Abwehr (Unterbrechung des Einsatzes) eines gegnerischen Objekts.
+
 0020
 
 Kryogenische (Tieftemperatur-) und „supraleitende“ Ausrüstung wie folgt sowie besonders konstruierte Bestandteile und besonders konstruiertes Zubehör hierfür:
 
 a)
 
-Ausrüstung, besonders konstruiert oder ausgelegt für den Einbau in ein militärisches Land-, See-, Luft- oder Raumfahrzeug und fähig, während der Fahrt eine Temperatur kleiner als 103 K (-170 °C) zu erzeugen oder aufrechtzuerhalten;
+Ausrüstung, besonders konstruiert oder ausgelegt für den Einbau in ein militärisches Land-, See-, Luft- oder Raumfahrzeug und fähig, während der Fahrt eine Temperatur kleiner als 103 K (–170 °C) zu erzeugen oder aufrechtzuerhalten;
 
 Anmerkung:
 
@@ -4708,7 +4746,7 @@ Unternummer 0020a schließt mobile Systeme ein, die Zubehör und Bestandteile en
 
 b)
 
-„Supraleitende“ elektrische Ausrüstung (rotierende Maschinen oder Transformatoren), besonders konstruiert oder besonders ausgelegt für den Einbau in ein militärisches Land-, See-, Luft- oder Raumfahrzeug und betriebsfähig während der Fahrt.
+„supraleitende“ elektrische Ausrüstung (rotierende Maschinen oder Transformatoren), besonders konstruiert oder besonders ausgelegt für den Einbau in ein militärisches Land-, See-, Luft- oder Raumfahrzeug und betriebsfähig während der Fahrt.
 
 Anmerkung:
 
@@ -4748,7 +4786,7 @@ spezifische „Software“, nicht erfasst von Unternummer 0021a, wie folgt:
 
 4\.
 
-„Software“, besonders entwickelt für militärische Zwecke und besonders entwickelt für Anwendungen im Rahmen von Führungs-, Informations-, Rechner- und Aufklärungssystemen (C³I oder C⁴I),
+„Software“, besonders entwickelt für militärische Zwecke und besonders entwickelt für Anwendungen im Rahmen von Führungs-, Informations-, Rechner- und Aufklärungssystemen (C³I oder C⁴I);
 
 5\.
 
@@ -4758,7 +4796,7 @@ Anmerkung 1:
 
 Unternummer 0021b5 schließt „Software“ ein, die für die Zerstörung, Beschädigung, Beeinträchtigung oder Störung von in der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Systemen, Ausrüstung oder „Software“ entwickelt wurde, sowie entsprechende „Software“ für Cyberaufklärung (cyber reconnaissance) und für Cyber-Führungs-
 
-und Leitsysteme (cyber command and control) hierfür.
+und ‑Leitsysteme (cyber command and control) hierfür.
 
 Anmerkung 2:
 
@@ -4772,7 +4810,7 @@ c)
 
 Ergänzende Anmerkung:
 
-Siehe Systeme, Ausrüstung oder Bestandteile, die in der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) für „Digitalrechner“ für allgemeine Zwecke, auf denen von Unternummer 0021c erfasste „Software“ installiert ist, erfasst sind.
+„Digitalrechner“ für allgemeine Zwecke, auf denen von Unternummer 0021c erfasste „Software“ installiert ist, siehe Systeme, Ausrüstung oder Bestandteile, die in der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst sind.
 
 0022
 
@@ -4782,7 +4820,7 @@ a) „Technologie“, soweit nicht von Unternummer 0022b erfasst, die für die �
 
 b) „Technologie“ wie folgt:
 
-1. „Technologie“, „unverzichtbar“ für Konstruktion, Bestandteilmontage, Betrieb, Wartung und Reparatur vollständiger „Herstellungs“anlagen für von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren, auch wenn die Bestandteile dieser „Herstellungs“anlagen nicht erfasst werden,
+1. „Technologie“, „unverzichtbar“ für Konstruktion, Bestandteilmontage, Betrieb, Wartung und Reparatur vollständiger „Herstellungs“anlagen für von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren, auch wenn die Bestandteile dieser „Herstellungs“anlagen nicht erfasst werden;
 
 2. „Technologie“, „unverzichtbar“ für die „Entwicklung“ und „Herstellung“ von Handfeuerwaffen, auch wenn sie zur „Herstellung“ von Reproduktionen antiker Handfeuerwaffen eingesetzt wird,
 
@@ -4812,21 +4850,11 @@ National erfasste Güter
 
 1E901
 
-„Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von den Nummern 1E001 oder 1E101 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, für die „Entwicklung“ oder „Herstellung“ von Polymethacrylimid-Hartschäumen, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
-
-2B909
-
-Fließdrückmaschinen und Maschinen mit kombinierter Fließdrück- und Drückfunktion, die nicht von Nummer 2B009, 2B109 oder 2B209 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, mit allen folgenden Eigenschaften, sowie besonders konstruierte Bestandteile hierfür:
-
-a) die nach den technischen Beschreibungen des Herstellers mit numerischen Steuerungen, Rechnersteuerungen oder Play-back-Steuerungen ausgerüstet werden können
-
-und
-
-b) mit einer Supportkraft größer als 60 kN, wenn das Bestimmungsland Syrien ist.
+„Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von den der jeweils geltenden Fassung erfasst wird, für die „Entwicklung“ oder „Herstellung“ von Polymethacrylimid-Hartschäumen, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 2B952
 
-Ausrüstung, geeignet zur Handhabung biologischer Stoffe, die nicht von Nummer 2B352 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, wie folgt, wenn das Bestimmungsland Iran, Nordkorea oder Syrien ist:
+Ausrüstung, geeignet zur Handhabung biologischer Stoffe, die nicht von Nummer 2B352 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, wie folgt, wenn das Bestimmungsland Iran oder die Demokratische Volksrepublik Korea ist:
 
 a) Fermenter, geeignet zur Kultivierung pathogener „Mikroorganismen“ oder Viren oder geeignet zur Erzeugung von „Toxinen“, ohne Aerosolfreisetzung, mit einer Gesamtkapazität größer/gleich 10 l;
 
@@ -4848,7 +4876,7 @@ c) Herstellungsausrüstung für die Beschichtung mittels induktiver oder ohmsche
 
 3A1901a15
 
-Integrierte Tieftemperatur-CMOS (Complementary Metal Oxide Semiconductor) Schaltkreise, die nicht von Nummer 3A001a2 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, konstruiert für einen Betrieb bei Umgebungstemperaturen kleiner/gleich 4,5 K (-268,65 °C), wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
+Integrierte Tieftemperatur-CMOS (Complementary Metal Oxide Semiconductor) Schaltkreise, die nicht von Nummer 3A001a2 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, konstruiert für einen Betrieb bei Umgebungstemperaturen kleiner/gleich 4,5 K (–268,65 °C), wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 Technische Anmerkung:
 
@@ -4858,11 +4886,11 @@ Integrierte Tieftemperatur-CMOS Schaltkreise werden auch als Cryo-CMOS bezeichne
 
 Parametrische Signalverstärker mit allen folgenden Eigenschaften, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
 
-a) konstruiert für eine Betriebstemperatur unter 1 K (-272,15°C);
+a) konstruiert für eine Betriebstemperatur unter 1 K (–272,15 °C);
 
 b) konstruiert für eine Betriebsfrequenz größer als 2 GHz bis einschließlich 15 GHz; und
 
-c) mit einer Rauschzahl kleiner (besser) als 0,015 dB bei jeder Frequenz größer als 2 GHz bis einschließlich 15 GHz bei einer Temperatur von 1 K (-272,15°C).
+c) mit einer Rauschzahl kleiner (besser) als 0,015 dB bei jeder Frequenz größer als 2 GHz bis einschließlich 15 GHz bei einer Temperatur von 1 K (–272,15 °C).
 
 Anmerkung:
 
@@ -4876,31 +4904,27 @@ Im Sinne der Nummer 3A1901b13 werden Parametrische Signalverstärker auch als qu
 
 Kryogene Kühlsysteme und Bestandteile wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
 
-a) Systeme ausgelegt, eine Kühlleistung größer gleich 600 W bei einer Temperatur kleiner gleich
+a) Systeme ausgelegt, eine Kühlleistung größer/gleich 600 µW bei einer Temperatur kleiner/gleich 0,1 K (–273,05 °C) für einen Zeitraum größer als 48 h zu erreichen;
 
-0,1 K (-273,05 °C) für einen Zeitraum größer als 48 h zu erreichen;
-
-b) zweistufige kryogene Pulsrohrkühler (Two-Stage Pulse Tube Cryocooler) ausgelegt, um eine Temperatur von kleiner gleich 4 K (-269,15 °C) zu gewährleisten und eine Kühlleistung größer gleich 1,5 W bei einer Temperatur kleiner gleich 4,2 K (-268,95 °C) zu erreichen.
+b) zweistufige kryogene Pulsrohrkühler (Two-Stage Pulse Tube Cryocooler) ausgelegt, um eine Temperatur von kleiner/gleich 4 K (–269,15 °C) zu gewährleisten und eine Kühlleistung größer/gleich 1,5 W bei einer Temperatur kleiner gleich 4,2 K (–268,95 °C) zu erreichen.
 
 3B1901k
 
 Ausrüstung, konstruiert für das Trockenätzen (Dry Etching), mit einer der folgenden Eigenschaften, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
 
-a) Ausrüstung konstruiert oder geändert für das isotropische Trockenätzen mit einer maximalen
-
-,Siliziumgermanium-zu-Silizium-Selektivität (SiGe:Si)‘ beim Ätzprozess größer/gleich 100:1; oder
+a) Ausrüstung konstruiert oder geändert für das isotropische Trockenätzen mit einer maximalen ‚Siliziumgermanium-zu-Silizium-Selektivität (SiGe:Si)ʻ beim Ätzprozess größer/gleich 100:1; oder
 
 b) Ausrüstung konstruiert oder geändert für das anisotropische Trockenätzen mit allen folgenden Eigenschaften:
 
-1. Hochfrequenzstromquelle(n) mit mindestens einem gepulsten Hochfrequenzausgang,
+1. Hochfrequenzstromquelle(n) mit mindestens einem gepulsten Hochfrequenzausgang;
 
-2. ein oder mehrere schnellschaltende Gasventile mit Schaltzeiten kleiner 300 ms, und
+2. Ein oder mehrere schnellschaltende Gasventile mit Schaltzeiten kleiner 300 ms; und
 
-3. elektrostatische Aufnahmevorrichtung (electrostatic chuck) mit 20 oder mehr einzeln regelbaren Temperaturelementen.
+3. Elektrostatische Aufnahmevorrichtung (electrostatic chuck) mit 20 oder mehr einzeln regelbaren Temperaturelementen.
 
 Anmerkung 1:
 
-Nummer 3B1901k schließt Ätzen durch ,Radikale‘, Ionen, sequenzielle oder nicht-sequenzielle Reaktionen ein.
+Nummer 3B1901k schließt Ätzen durch ‚Radikaleʻ, Ionen, sequenzielle oder nicht-sequenzielle Reaktionen ein.
 
 Anmerkung 2:
 
@@ -4920,25 +4944,25 @@ f) Quasi-Atomic-Layer-Plasmaätzen (Plasma Quasi-Atomic Layer Etching).
 
 Technische Anmerkung:
 
-1. Im Sinne der Nummer 3B1901k wird die ,Silizumgermanium-zu-Silizium-Selektivität (SiGe:Si)‘ bei einer Germanium-Konzentration größer/gleich 30 % (Si 0,70 Ge 0,30) gemessen.
+1. Im Sinne der Nummer 3B1901k wird die ‚Silizumgermanium-zu-Silizium-Selektivität (SiGe:Si)ʻ bei einer Germanium-Konzentration größer/gleich 30 % (Si 0,70 Ge 0,30) gemessen.
 
-2. Im Sinne der Nummer 3B1901k wird ein ,Radikal‘ als ein Atom, Molekül oder Ion mit einem ungepaarten Elektron in einer offenen Elektronenschale definiert.
+2. Im Sinne der Nummer 3B1901k wird ein ‚Radikalʻ als ein Atom, Molekül oder Ion mit einem ungepaarten Elektron in einer offenen Elektronenschale definiert.
 
 3B1903
 
 Rasterelektronenmikroskope (Scanning Electron Microscopes), konstruiert für die bildgebende Untersuchung von Halbleiterbauelementen oder Integrierten Schaltkreisen, mit allen folgenden Eigenschaften, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
 
-a) Ausrichtung des Probentischs mit einer Genauigkeit kleiner (besser) als 30 nm;
+a) Ausrichtung des Probentischs mit einer Genauigkeit kleiner (besser) als 30 nm,
 
-b) Probentischpositionierung mittels Laserinterferometrie;
+b) Probentischpositionierung mittels Laserinterferometrie,
 
 c) Positionskalibrierung im Sichtfeld (Field-of-View, FOV) mittels interferometrischer Längenmessung;
 
 d) Bildaufnahme und -speicherung mit mehr als 200 000 000 Pixel;
 
-e) Sichtfeld (FOV) Überlappung weniger als 5 % in vertikaler und horizontaler Richtung;
+e) Sichtfeld (FOV) Überlappung weniger als 5 % in vertikaler und horizontaler Richtung,
 
-f) Überlappung des Sichtfeldes beim Stitching (Stitching Overlap of FOV) kleiner als 50 nm und
+f) Überlappung des Sichtfeldes beim Stitching (Stitching Overlap of FOV) kleiner als 50 nm, und
 
 g) Beschleunigungsspannung größer als 21 kV.
 
@@ -4950,17 +4974,17 @@ Nummer 3B1903 schließt Rasterelektronenmikroskope ein, konstruiert für das Red
 
 Kryogene Wafer-Prüfausrüstung mit allen folgenden Eigenschaften, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
 
-a) konstruiert zum Testen von Bauelementen bei einer Temperatur kleiner gleich 4,5 K (-268,65 °C); und
+a) konstruiert zum Testen von Bauelementen bei einer Temperatur kleiner/gleich 4,5 K (–268,65 °C); und
 
-b) konstruiert für die Aufnahme von Wafer mit einem Durchmesser größer gleich 100 mm.
+b) konstruiert für die Aufnahme von Wafer mit einem Durchmesser größer/gleich 100 mm.
 
 3D1902
 
-„Software“, besonders entwickelt für die „Verwendung“ der von Nummer 3B1901k erfassten Ausrüstung.
+„Software“, besonders entwickelt für die „Verwendung“ von Ausrüstung, die von Nummer 3B1901k erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 3D1907
 
-„Software“, entwickelt um „GDSII“ oder vergleichbare standardisierte Layoutdaten zu gewinnen und eine Justierung der einzelnen Schichten aufeinander (Layer-to-Layer Alignment) von Rasterelektronenmikroskop-Aufnahmen vorzunehmen und „GDSII“-Daten für mehrere Ebenen oder die Netzliste des Schaltkreises (Circuit Netlist) zu gewinnen.
+„Software“, entwickelt um „GDSII“ oder vergleichbare standardisierte Layoutdaten zu gewinnen und eine Justierung der einzelnen Schichten aufeinander (Layer-to-Layer Alignment) von Rasterelektronenmikroskop-Aufnahmen vorzunehmen und „GDSII“-Daten für mehrere Ebenen oder die Netzliste des Schaltkreises (Circuit Netlist) zu gewinnen, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 3E1901
 
@@ -4972,23 +4996,23 @@ b) konstruiert für die Aufnahme von Wafer mit einem Durchmesser größer gleich
 
 Anmerkung 1:
 
-Nummer 3E1902 beinhaltet ,Prozessbeschreibungen‘ (,Process Recipes‘).
+Nummer 3E1902 beinhaltet ‚Prozessbeschreibungenʻ (‚Process Recipesʻ).
 
 Anmerkung 2:
 
-Nummer 3E1902 erfasst nicht ‚Process Design Kits‘ (‚PDKs‘), außer sie enthalten Bibliotheken, welche Funktionen oder Technologien für von Nummer 3A001 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasste Güter implementieren.
+Nummer 3E1902 erfasst nicht ‚Process Design Kitsʻ (‚PDKsʻ), außer sie enthalten Bibliotheken, welche Funktionen oder Technologien für von Nummer 3A001 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasste Güter implementieren.
 
 Technische Anmerkung 1:
 
-Eine ,Prozessbeschreibung‘ (,Process Recipe‘) ist eine Zusammenstellung von Prozessbedingungen und
+Eine ‚Prozessbeschreibungʻ (‚Process Recipeʻ) ist eine Zusammenstellung von Prozessbedingungen und
 
 -parametern für einen bestimmten Prozessschritt.
 
 Technische Anmerkung 2:
 
-Ein ,Process Design Kit‘ (,PDK‘) ist ein Software-Tool, bereitgestellt von einem Halbleiterhersteller, um die Einhaltung der Entwurfsverfahren und
+Ein ‚Process Design Kitʻ (‚PDKʻ) ist ein Software-Tool, bereitgestellt von einem Halbleiterhersteller, um die Einhaltung der Entwurfsverfahren und
 
--regeln sicherzustellen, die für die erfolgreiche Herstellung eines spezifischen Entwurfs einer integrierten Schaltung in einem spezifischen Halbleiterprozess unter technologischen und herstellungsbezogenen Bedingungen erforderlich ist (jeder Halbleiterherstellungsprozess hat sein eigenes ,PDK‘).
+-regeln sicherzustellen, die für die erfolgreiche Herstellung eines spezifischen Entwurfs einer integrierten Schaltung in einem spezifischen Halbleiterprozess unter technologischen und herstellungsbezogenen Bedingungen erforderlich ist (jeder Halbleiterherstellungsprozess hat sein eigenes ‚PDKʻ).
 
 3E1905
 
@@ -4996,7 +5020,7 @@ Ein ,Process Design Kit‘ (,PDK‘) ist ein Software-Tool, bereitgestellt von e
 
 Anmerkung 1:
 
-Nummer 3E1905 beinhaltet ,Prozessbeschreibungen‘ (,Process Recipes‘).
+Nummer 3E1905 beinhaltet ‚Prozessbeschreibungenʻ (‚Process Recipesʻ).
 
 Anmerkung 2:
 
@@ -5004,19 +5028,19 @@ Nummer 3E1905 ist nicht anwendbar für Werkzeugqualifikationen oder Instandhaltu
 
 Anmerkung 3:
 
-Nummer 3E1905 erfasst nicht ,Process Design Kits‘ (,PDKs‘), außer sie enthalten Bibliotheken, welche Funktionen oder Technologien für von Nummer 3A001 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasste Güter implementieren.
+Nummer 3E1905 erfasst nicht ‚Process Design Kitsʻ (‚PDKsʻ), außer sie enthalten Bibliotheken, welche Funktionen oder Technologien für von Nummer 3A001 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasste Güter implementieren.
 
 Technische Anmerkung 1:
 
-Eine ,Prozessbeschreibung‘ (,Process Recipe‘) ist eine Zusammenstellung von Prozessbedingungen und
+Eine ‚Prozessbeschreibungʻ (‚Process Recipeʻ) ist eine Zusammenstellung von Prozessbedingungen und
 
 -parametern für einen bestimmten Prozessschritt.
 
 Technische Anmerkung 2:
 
-Ein ,Process Design Kit‘ (,PDK‘) ist ein Software-Tool, bereitgestellt von einem Halbleiterhersteller, um die Einhaltung der Entwurfsverfahren und
+Ein ‚Process Design Kitʻ (‚PDKʻ) ist ein Software-Tool, bereitgestellt von einem Halbleiterhersteller, um die Einhaltung der Entwurfsverfahren und
 
--regeln sicherzustellen, die für die erfolgreiche Herstellung eines spezifischen Entwurfs einer integrierten Schaltung in einem spezifischen Halbleiterprozess unter technologischen und herstellungsbezogenen Bedingungen erforderlich ist (jeder Halbleiterherstellungsprozess hat sein eigenes ,PDK‘).
+-regeln sicherzustellen, die für die erfolgreiche Herstellung eines spezifischen Entwurfs einer integrierten Schaltung in einem spezifischen Halbleiterprozess unter technologischen und herstellungsbezogenen Bedingungen erforderlich ist (jeder Halbleiterherstellungsprozess hat sein eigenes ‚PDKʻ).
 
 4A1906
 
@@ -5024,43 +5048,29 @@ Quantencomputer und zugehörige „elektronische Baugruppen“ und Bestandteile 
 
 a) Quantencomputer wie folgt:
 
-1. ausgelegt für den Betrieb von 34 oder mehr, jedoch weniger als 100, ,vollständig kontrollierten‘, ,verbundenen‘ und ,funktionierenden‘ ,physikalischen Qubits‘, welche einen ,CNOT-Fehler‘ von kleiner/gleich 10-4</sup> haben;
+1. ausgelegt für den Betrieb von 34 oder mehr, jedoch weniger als 100, ‚vollständig kontrolliertenʻ, ‚verbundenen‘ und ‚funktionierenden‘ ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich 10-4</sup> haben;
 
-2. ausgelegt für den Betrieb von 100 oder mehr, jedoch weniger als 200, ,vollständig kontrollierten‘, ,verbundenen‘ und ,funktionierenden‘ ,physikalischen Qubits‘, welche einen
+2. ausgelegt für den Betrieb von 100 oder mehr, jedoch weniger als 200, ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘ ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich 10-3</sup> haben;
 
-,CNOT-Fehler‘ von kleiner/gleich 10-3</sup> haben;
+3. ausgelegt für den Betrieb von 200 oder mehr, jedoch weniger als 350, ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘ ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich 2 x 10-3</sup> haben;
 
-3. ausgelegt für den Betrieb von 200 oder mehr, jedoch weniger als 350, ,vollständig kontrollierten‘, ,verbundenen‘ und ,funktionierenden‘ ,physikalischen Qubits‘, welche einen
+4. ausgelegt für den Betrieb von 350 oder mehr, jedoch weniger als 500, ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘ ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich 3 x 10-3</sup> haben;
 
-,CNOT-Fehler‘ von kleiner/gleich 2 x 10-3</sup> haben;
+5. ausgelegt für den Betrieb von 500 oder mehr, jedoch weniger als 700, ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘ ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich 4 x 10-3</sup> haben;
 
-4. ausgelegt für den Betrieb von 350 oder mehr, jedoch weniger als 500, ,vollständig kontrollierten‘, ,verbundenen‘ und ,funktionierenden‘ ,physikalischen Qubits‘, welche einen
+6. ausgelegt für den Betrieb von 700 oder mehr, jedoch weniger als 1 100, ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘ ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich 5 x 10-3</sup> haben;
 
-,CNOT-Fehler‘ von kleiner/gleich 3 x 10-3</sup> haben;
+7. ausgelegt für den Betrieb von 1 100 oder mehr, jedoch weniger als 2 000, ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘ ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich 6 x 10-3</sup> haben;
 
-5. ausgelegt für den Betrieb von 500 oder mehr, jedoch weniger als 700, ,vollständig kontrollierten‘, ,verbundenen‘ und ,funktionierenden‘ ,physikalischen Qubits‘, welche einen
+8. ausgelegt für den Betrieb von 2 000 oder mehr ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘ ‚physikalischen Qubits‘;
 
-,CNOT-Fehler‘ von kleiner/gleich 4 x 10-3</sup> haben;
+b) Qubit-Bauteile und Qubit-Schaltkreise, die für den Betrieb von Anordnungen von ‚physikalischen Qubits‘ ausgelegt sind oder diese enthalten und besonders konstruiert sind für Güter, die von Unternummer 4A1906a erfasst sind;
 
-6. ausgelegt für den Betrieb von 700 oder mehr, jedoch weniger als 1 100, ,vollständig kontrollierten‘, ,verbundenen‘ und ,funktionierenden‘ ,physikalischen Qubits‘, welche einen
-
-,CNOT-Fehler‘ von kleiner/gleich 5 x 10-3</sup> haben;
-
-7. ausgelegt für den Betrieb von 1 100 oder mehr, jedoch weniger als 2 000, ,vollständig kontrollierten‘, ,verbundenen‘ und ,funktionierenden‘ ,physikalischen Qubits‘, welche einen
-
-,CNOT-Fehler‘ von kleiner/gleich 6 x 10-3</sup> haben;
-
-8. ausgelegt für den Betrieb von 2 000 oder mehr ,vollständig kontrollierten‘, ,verbundenen‘ und
-
-,funktionierenden‘ ,physikalischen Qubits‘;
-
-b) Qubit-Bauteile und Qubit-Schaltkreise, die für den Betrieb von Anordnungen von ,physikalischen Qubits‘ ausgelegt sind oder diese enthalten und besonders konstruiert sind für Güter, die von Unternummer 4A1906a erfasst sind;
-
-c) Quanten-Kontroll-Anordnungen und Quanten-Mess-Einrichtungen, besonders konstruiert für Güter, die von Unternummer 4A1906a erfasst sind.
+c) Quanten-Kontroll-Anordnungen und Quanten-Mess-Einrichtungen, besonders konstruiert für Güter, die von Unternummer 4A1906a erfasst sind;
 
 Anmerkung 1:
 
-Nummer 4A1906 gilt für Quantencomputer basierend auf dem Schaltungsmodell (gatterbasiert) sowie für one-way Quantencomputer (messungsbasiert). 4A1906 gilt nicht für adiabatische (annealing) Quantencomputer.
+Nummer 4A1906 gilt für Quantencomputer basierenden auf dem Schaltungsmodell (gatterbasiert) sowie für one-way Quantencomputer (messungsbasiert). 4A1906 gilt nicht für adiabatische (annealing) Quantencomputer.
 
 Anmerkung 2:
 
@@ -5072,31 +5082,27 @@ Unternummer 4A1906b erfasst halbleitende, supraleitende und photonische Qubit-Ch
 
 Anmerkung 4:
 
-Nummer 4A1906 erfasst Güter, die zum Kalibrieren, Initialisieren, Manipulieren oder Messen der Qubits eines Quantencomputers bestimmt sind.
+Unternummer 4A1906c erfasst Güter, die zum Kalibrieren, Initialisieren, Manipulieren oder Messen der Qubits eines Quantencomputers bestimmt sind.
 
 Technische Anmerkungen:
 
 Im Sinne von Nummer 4A1906 gilt:
 
-1. Ein ,physikalisches Qubit‘ ist ein Quanten-Zweizustandsystem, mit dem die elementare Einheit der Quantenlogik durch nicht fehlerkorrigierte Manipulationen und Messungen dargestellt wird.
+1. Ein ‚physikalisches Qubit‘ ist ein Quanten-Zweizustandsystem, mit dem die elementare Einheit der Quantenlogik durch nicht fehlerkorrigierte Manipulationen und Messungen dargestellt wird. ‚Physikalische Qubitsʻ unterscheiden sich von logischen Qubits dadurch, dass logische Qubits fehlerkorrigierte Qubits sind, welche aus mehreren ‚physikalischen Qubitsʻ bestehen.
 
-,Physikalische Qubits‘ unterscheiden sich von logischen Qubits dadurch, dass logische Qubits fehlerkorrigierte Qubits sind, welche aus mehreren ,physikalischen Qubits‘ bestehen.
+2. ‚Vollständig kontrolliertʻ bedeutet, dass das ‚physikalische Qubitʻ nach Bedarf kalibriert, initialisiert, ausgelesen und durch Gatter manipuliert werden kann.
 
-2. ,Vollständig kontrolliert‘ bedeutet, dass das ,physikalische Qubit‘ nach Bedarf kalibriert, initialisiert, ausgelesen und durch Gatter manipuliert werden kann.
+3. ‚Verbundenʻ bedeutet, dass Zwei-Qubit-Gatter-Operationen zwischen jedem beliebigen Paar der verfügbaren ‚funktionierendenʻ ‚physikalischen Qubits‘ durchgeführt werden können. Dies bedeutet nicht unbedingt eine all-to-all-Konnektivität.
 
-3. ,Verbunden‘ bedeutet, dass Zwei-Qubit-Gatter-Operationen zwischen jedem beliebigen Paar der verfügbaren ,funktionierenden‘ ,physikalischen Qubits‘ durchgeführt werden können. Dies bedeutet nicht unbedingt eine all-to-all-Konnektivität.
+4. ‚funktionierend‘ bedeutet, dass das ‚physikalische Qubit‘ universelle Quantencomputeroperationen gemäß den Systemspezifikationen für die Güte (fidelity) der Qubitoperationen ausführt.
 
-4. ,Funktionierend‘ bedeutet, dass das ,physikalische Qubit‘ universelle Quantencomputeroperationen gemäß den Systemspezifikationen für die Güte (fidelity) der Qubitoperationen ausführt.
+5. ausgelegt auf den Betrieb von 34 oder mehr ‚vollständig kontrollierte‘, ‚verbundene‘ und ‚funktionierende‘ ‚physikalische Qubits‘, bezieht sich auf die Fähigkeit eines Quantencomputers, die in 34 oder mehr ‚physikalischen Qubits‘ verkörperten Quanteninformationen einzuschließen, zu steuern, zu messen und zu verarbeiten, auch wenn diese Anzahl ‚physikalischer Qubits‘ nicht dauerhaft im Quantencomputer vorhanden ist.
 
-5. Ausgelegt auf den Betrieb von 34 oder mehr ,vollständig kontrollierte‘, ,verbundene‘ und
-
-,funktionierende‘ ,physikalische Qubits‘, bezieht sich auf die Fähigkeit eines Quantencomputers, die in 34 oder mehr ‚physikalischen Qubits‘ verkörperten Quanteninformationen einzuschließen, zu steuern, zu messen und zu verarbeiten, auch wenn diese Anzahl ,physikalischer Qubits‘ nicht dauerhaft im Quantencomputer vorhanden ist.
-
-6. ,CNOT-Fehler‘ ist der durchschnittliche physikalische Gatter-Fehler für Controlled-NOT-Gatter (CNOT-Gatter) zwischen zwei benachbarten ,physikalischen Qubits‘.
+6. ‚CNOT-Fehler‘ ist der durchschnittliche physikalische Gatter-Fehler für Controlled-NOT-Gatter (CNOT-Gatter) zwischen zwei benachbarten ‚physikalischen Qubits‘.
 
 4D1901b3
 
-„Software“, die nicht von Nummer 4D001 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, besonders entwickelt oder geändert für die „Entwicklung“ oder „Herstellung“ der von den Unternummern 4A1906b oder 4A1906c erfassten Ausrüstungen, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
+„Software”, die nicht von Nummer 4D001 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, besonders entwickelt oder geändert für die „Entwicklung“ oder „Herstellung“ der von den Unternummern 4A1906b oder 4A1906c erfassten Ausrüstungen, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 4E1901b3
 
@@ -5132,11 +5138,11 @@ e) des Betriebs bei Telekommunikationsunternehmen (Service Provider).
 
 5A911
 
-Basisstationen für digitalen ,Bündelfunk‘, wenn das Bestimmungsland Sudan oder Südsudan ist.
+Basisstationen für digitalen ‚Bündelfunk‘, wenn das Bestimmungsland Sudan oder Südsudan ist.
 
 Technische Anmerkung:
 
-,Bündelfunk‘ ist ein zellulares Funkübertragungsverfahren mit mobilen Teilnehmern, denen Frequenzbündel zur Kommunikation zugewiesen werden. Digitaler ,Bündelfunk‘ (z. B. TETRA, Terrestrial Trunked Radio) verwendet digitale Modulationsverfahren.
+‚Bündelfunk‘ ist ein zellulares Funkübertragungsverfahren mit mobilen Teilnehmern, denen Frequenzbündel zur Kommunikation zugewiesen werden. Digitaler ‚Bündelfunk‘ (z. B. TETRA, Terrestrial Trunked Radio) verwendet digitale Modulationsverfahren.
 
 5D902
 
@@ -5152,9 +5158,7 @@ b) „Software“, besonders entwickelt oder geändert zur Erzielung der von Num
 
 5E902
 
-„Technologie“, die nicht von Nummer 5E001a des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Einrichtungen, Funktionen oder Leistungsmerkmalen, die von Nummer 5A902 erfasst werden, oder „Software“, die von Nummer 5D902 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
-
-2021/821 aufgeführten Gebiete liegt.
+„Technologie“, die nicht von Nummer 5E001a des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Einrichtungen, Funktionen oder Leistungsmerkmalen, die von Nummer 5A902 erfasst werden, oder „Software“, die von Nummer 5D902 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 6A908
 
@@ -5166,7 +5170,7 @@ Radargestützte Navigations- oder Überwachungs-Systeme für den Schiffs- oder F
 
 9A904
 
-„Raumfahrzeuge“ und sonstige Ausrüstung wie folgt:
+„Raumfahrzeug-“ und sonstige Ausrüstung wie folgt:
 
 a) Antennen, konstruiert für die Verwendung im Zusammenhang mit „Raumfahrzeugen“, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EG) 2021/821 aufgeführten Gebiete liegt;
 
@@ -5176,13 +5180,21 @@ Technische Anmerkung:
 
 Nummer 9A904b schließt Güter ein, die in folgenden Zusammenhängen mit „Raumfahrzeugen“ Verwendung finden, sowohl am Boden als auch auf „Raumfahrzeugen“:
 
-1. Einsatz als Nutzlast für Up- oder Downlink,
+1\.
 
-2. Kommunikation zwischen „Raumfahrzeugen“
+Einsatz als Nutzlast für Up-
+
+oder Downlink,
+
+2\.
+
+Kommunikation zwischen „Raumfahrzeugen“
 
 oder
 
-3. Nutzung im Zusammenhang mit der Übertragung von Telemetriesignalen.
+3\.
+
+Nutzung im Zusammenhang mit der Übertragung von Telemetriesignalen.
 
 9A991
 
@@ -5190,9 +5202,7 @@ Landfahrzeuge, die nicht von der Liste für Waffen, Munition und Rüstungsmateri
 
 a)
 
-Tiefladeanhänger und Sattelauflieger mit einer Nutzlast größer als 25 000 kg und kleiner als
-
-70 000 kg oder mit einem oder mehreren militärischen Ausstattungsmerkmalen und geeignet für den Transport der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) Nummer 0006 erfassten Fahrzeuge sowie zu deren Fortbewegung geeignete und mit einem oder mehreren militärischen Ausstattungsmerkmalen versehene Zugmaschinen, wenn das Bestimmungsland Iran, Libyen, Myanmar, Nordkorea, Pakistan, Somalia oder Syrien ist;
+Tiefladeanhänger und Sattelauflieger mit einer Nutzlast größer als 25 000 kg und kleiner als 70 000 kg oder mit einem oder mehreren militärischen Ausstattungsmerkmalen und geeignet für den Transport der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) Nummer 0006 erfassten Fahrzeuge sowie zu deren Fortbewegung geeignete und mit einem oder mehreren militärischen Ausstattungsmerkmalen versehene Zugmaschinen, wenn das Bestimmungsland Iran, Libyen, Myanmar, die Demokratische Volksrepublik Korea, Pakistan oder Somalia ist;
 
 Anmerkung:
 
@@ -5200,7 +5210,7 @@ Unter Zugmaschinen im Sinne von Unternummer 9A991a fallen alle Fahrzeuge mit pri
 
 b)
 
-Sonstige Lastkraftwagen und geländegängige Fahrzeuge mit einem oder mehreren militärischen Ausstattungsmerkmalen, wenn das Bestimmungsland Iran, Libyen, Myanmar, Nordkorea, Somalia oder Syrien ist.
+Sonstige Lastkraftwagen und geländegängige Fahrzeuge mit einem oder mehreren militärischen Ausstattungsmerkmalen, wenn das Bestimmungsland Iran, Libyen, Myanmar, die Demokratische Volksrepublik Korea oder Somalia ist.
 
 Anmerkung 1:
 
@@ -5226,13 +5236,13 @@ Nummer 9A991 erfasst nicht Landfahrzeuge, wenn diese von ihren Benutzern zu dere
 
 Lastkraftwagen wie folgt:
 
-a) Lastkraftwagen mit Allradantrieb und einer Nutzlast größer als 1 000 kg, wenn das Bestimmungsland Nordkorea ist;
+a) Lastkraftwagen mit Allradantrieb und einer Nutzlast größer als 1 000 kg, wenn das Bestimmungsland die Demokratische Volksrepublik Korea ist;
 
-b) Lastkraftwagen mit drei Achsen oder mehr und einem zulässigen Gesamtgewicht von mehr als 20 000 kg, wenn das Bestimmungsland Iran oder Syrien ist.
+b) Lastkraftwagen mit drei Achsen oder mehr und einem zulässigen Gesamtgewicht von mehr als 20 000 kg, wenn das Bestimmungsland Iran ist.
 
 9A993
 
-Hubschrauber, Hubschrauber-Leistungsübertragungssysteme, Gasturbinentriebwerke und Hilfstriebwerke (APUs) für die Verwendung in Hubschraubern sowie besonders konstruierte Bestandteile hierfür, wenn das Bestimmungsland Iran, Kuba, Libyen, Myanmar, Nordkorea oder Syrien ist.
+Hubschrauber, Hubschrauber-Leistungsübertragungssysteme, Gasturbinentriebwerke und Hilfstriebwerke (APUs) für die Verwendung in Hubschraubern sowie besonders konstruierte Bestandteile hierfür, wenn das Bestimmungsland Iran, Kuba, Libyen, Myanmar oder die Demokratische Volksrepublik Korea ist.
 
 9A994
 
@@ -5248,13 +5258,11 @@ Luftgekühlte Kolbentriebwerke (Flugmotoren) mit einem Hubraum größer/gleich 1
 
 9E991
 
-„Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“ oder „Herstellung“ der von Nummer 9A993 erfassten Ausrüstung, wenn das Bestimmungsland Iran, Kuba, Libyen, Myanmar, Nordkorea oder Syrien ist.
+„Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“ oder „Herstellung“ der von Nummer 9A993 erfassten Ausrüstung, wenn das Bestimmungsland Iran, Kuba, Libyen, Myanmar oder die Demokratische Volksrepublik Korea ist.
 
 9E992
 
 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von Nummer 9E101b des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, für die „Herstellung“ der von Nummer 9A012 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfassten „unbemannten Luftfahrzeuge“ („UAV“), wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
-
-Verzeichnis der verwendeten Abkürzungen
 
 Abkürzungen, für die eine Definition vorliegt, siehe Begriffsbestimmungen
 
@@ -5269,17 +5277,13 @@ Abkürzungen, für die eine Definition vorliegt, siehe Begriffsbestimmungen
 | ICAO           | Internationale Zivilluftfahrt-Organisation (International Civil Aviation Organization)                              |
 | RPV            | Ferngesteuerte Flugobjekte (remotely piloted air vehicles)                                                          |
 
-Begriffsbestimmungen
-
-Begriffe in ,einfachen Anführungszeichen‘ werden in einer Anmerkung zu dem entsprechenden Eintrag erläutert.
+Begriffe in ‚einfachen Anführungszeichen‚ werden in einer Anmerkung zu dem entsprechenden Eintrag erläutert.
 
 Begriffe in „doppelten Anführungszeichen“ werden in folgenden Begriffsbestimmungen erläutert:
 
 Anmerkung:
 
 Der Bezug zur Vorbemerkung, zur Nummer des Abschnitts A bzw. des Abschnitts B steht in der ersten Klammer nach dem definierten Begriff. Die zweite Klammer enthält den englischen Begriff.
-
-„Additive“ (0008) (additives): Stoffe, die bei der Zubereitung von Sprengstoffen verwendet werden, um deren Eigenschaften zu verbessern.
 
 „Allgemein zugänglich“ (ASA ATA 0022) (in the public domain): bezieht sich auf „Technologie“ oder „Software“, die ohne Beschränkung ihrer weiteren Verbreitung erhältlich ist (Copyright-Beschränkungen heben die allgemeine Zugänglichkeit nicht auf).
 
@@ -5289,53 +5293,17 @@ a) eine physikalische Veränderung der Verdrahtung oder von Verbindungen oder
 
 b) das Setzen von Funktionsbedienelementen einschließlich Parametereingaben.
 
-„Automatisierte Führungs- und Leitsysteme“ (0011) (Automated Command and Control Systems): Elektronische Systeme zur Eingabe, Verarbeitung und Ausgabe von Information, die wesentlich ist für die effektive Operation der unterstellten Gruppe, des Großverbands, des taktischen Verbands, der Einheit, des Schiffes, der Untereinheit oder des Waffensystems. Dies wird erreicht durch die Nutzung von Computern und anderer spezialisierter Hardware, konstruiert zur Unterstützung der Funktionen einer militärischen Führungs- und Leitorganisation. Die Hauptfunktionen eines automatisierten Führungs- und Leitsystems sind: die effiziente automatische Erfassung, Sammlung, Speicherung und Verarbeitung von Information; die Darstellung der Lage und der Verhältnisse, die die Vorbereitung und Durchführung von Kampfoperationen beeinflussen; operationelle und taktische Berechnungen für die Zuweisung von Ressourcen zwischen den Kampfgruppen oder Elementen für die operative Kräftegliederung oder den Aufmarsch entsprechend der Mission oder dem Stadium der Operation; die Aufbereitung von Daten für die Einschätzung der Situation und für die Entscheidungsfindung zu jedem Zeitpunkt während der Operation oder Schlacht; Computer-Simulation von Operationen.
-
 „Bibliothek“ (parametrische technische Datenbank) (0017) (Library (parametric technical database)): eine Sammlung technischer Informationen, deren Nutzung die Leistungsfähigkeit der betreffenden Systeme, Ausrüstung oder Bestandteile erhöhen kann.
 
 „Bildverstärkerröhren der ersten Generation“ (0015) (first generation image intensifier tubes): elektrostatisch fokussierende Röhren, die fiberoptische oder gläserne Ein- und Ausgangsfenster oder Multi-Alkali-Fotokathoden (S-20 oder S-25) verwenden, jedoch keine Mikrokanalplatten-Verstärker.
 
-„Biokatalysatoren“ (0007 0022) (biocatalysts): ,Enzyme‘ oder andere biologische Verbindungen, die spezifische chemische Kampfstoffe binden und deren Abbau beschleunigen.
+„Biokatalysatoren“ (0007 0022) (biocatalysts): ‚Enzymeʻ oder andere biologische Verbindungen, die spezifische chemische Kampfstoffe binden und deren Abbau beschleunigen.
 
 Anmerkung:
 
-,Enzyme‘ (enzymes): „Biokatalysatoren“ für spezifische chemische oder biochemische Reaktionen.
+‚Enzymeʻ (enzymes): „Biokatalysatoren“ für spezifische chemische oder biochemische Reaktionen.
 
 „Biologische Agenzien“ (0007) (biological agents): Pathogene oder Toxine, ausgewählt oder geändert (z. B. Änderung der Reinheit, Lagerbeständigkeit, Virulenz, Verbreitungsmerkmale oder Widerstandsfähigkeit gegen UV-Strahlung) für die Außergefechtsetzung von Menschen oder Tieren, die Funktionsbeeinträchtigung von Ausrüstung, die Vernichtung von Ernten oder die Schädigung der Umwelt.
-
-„Biopolymere“ (0007) (biopolymers): biologische Makromoleküle wie folgt:
-
-a)
-
-,Enzyme‘,
-
-b)
-
-,antiidiotypische Antikörper‘, ,monoklonale Antikörper‘ oder ,polyklonale Antikörper‘,
-
-c)
-
-besonders entwickelte oder besonders verarbeitete ,Rezeptoren‘.
-
-Anmerkung 1:
-
-,Enzyme‘ (enzymes): „Biokatalysatoren“ für spezifische chemische oder biochemische Reaktionen.
-
-Anmerkung 2:
-
-,Antiidiotypische Antikörper‘ (anti-idiotypic antibodies): Antikörper, die spezifisch an die Antigen-Bindungsstelle anderer Antikörper binden.
-
-Anmerkung 3:
-
-,Monoklonale Antikörper‘ (monoclonal antibodies): Proteine, die spezifisch an eine Antigen-Bindungsstelle binden und durch einen einzigen Klon von Zellen erzeugt werden.
-
-Anmerkung 4:
-
-,Polyklonale Antikörper‘ (polyclonal antibodies): eine Mischung von Proteinen, die sich an ein bestimmtes Antigen binden und durch mehr als ein Klon von Zellen erzeugt werden.
-
-Anmerkung 5:
-
-,Rezeptoren‘ (receptors): biologische makromolekulare Strukturen, die Liganden bilden können, deren Bindung physiologische Funktionen beeinflussen.
 
 „Brennstoffzelle“ (0017) (fuel cell): eine elektrochemische Einrichtung, die durch den Verbrauch von Brennstoff aus einer externen Quelle chemische Energie direkt in elektrischen Gleichstrom umwandelt.
 
@@ -5353,29 +5321,27 @@ Anmerkung:
 
 Veränderungen an einer gespeicherten Befehlsfolge schließen den Austausch von festprogrammierten Speichervorrichtungen mit ein, nicht aber physische Veränderungen der Verdrahtung oder von Verbindungen.
 
-„Elektronische Baugruppe“ (4A1906) (electronic assembly): eine Anzahl elektronischer Bauelemente (d. h. ‚Schaltungselemente‘, diskrete Bauelemente‘, integrierte Schaltungen u. ä.), die miteinander verbunden sind, um eine bestimmte Funktion oder mehrere bestimmte Funktionen zu erfüllen. Die „elektronische Baugruppe“ ist als Ganzes austauschbar und normalerweise demontierbar.
+„Elektronische Baugruppe“ (4A1906) (electronic assembly): eine Anzahl elektronischer Bauelemente (d. h. ‚Schaltungselementeʻ, diskrete Bauelementeʻ, integrierte Schaltungen u. ä.), die miteinander verbunden sind, um eine bestimmte Funktion oder mehrere bestimmte Funktionen zu erfüllen. Die „elektronische Baugruppe“ ist als Ganzes austauschbar und normalerweise demontierbar.
 
 Anmerkung 1:
 
-‚Schaltungselement‘ (circuit element): eine einzelne aktive oder passive Funktionseinheit einer elektronischen Schaltung, z. B. eine Diode, ein Transistor, ein Widerstand, ein Kondensator.
+‚Schaltungselementʻ (circuit element): eine einzelne aktive oder passive Funktionseinheit einer elektronischen Schaltung, z. B. eine Diode, ein Transistor, ein Widerstand, ein Kondensator.
 
 Anmerkung 2:
 
-‚Diskretes Bauelement‘ (discrete component): ein in einem eigenen Gehäuse befindliches ‚Schaltungselement‘ mit eigenen äußeren Anschlüssen.
+‚Diskretes Bauelementʻ (discrete component): ein in einem eigenen Gehäuse befindliches ‚Schaltungselementʻ mit eigenen äußeren Anschlüssen.
 
-„Endeffektoren“ (0017) (end-effectors): umfassen Greifer, ,aktive Werkzeugeinheiten‘ und alle anderen Werkzeuge, die am Anschlussflansch am Ende des „Roboter“-Greifarms bzw. der -Greifarme angebaut sind.
+„Endeffektoren“ (0017) (end-effectors): umfassen Greifer, ‚aktive Werkzeugeinheitenʻ und alle anderen Werkzeuge, die am Anschlussflansch am Ende des „Roboter“-Greifarms bzw. der -Greifarme angebaut sind.
 
 Anmerkung:
 
-,Aktive Werkzeugeinheit‘ (active tooling unit): eine Einrichtung, die dem Werkzeug Bewegungskraft, Prozessenergie oder Sensorsignale zuführt.
+‚Aktive Werkzeugeinheitʻ (active tooling unit): eine Einrichtung, die dem Werkzeug Bewegungskraft, Prozessenergie oder Sensorsignale zuführt.
 
 „Energetische Materialien“ (0008) (energetic materials): Substanzen oder Mischungen, die durch eine chemische Reaktion Energie freisetzen, welche für die beabsichtigte Verwendung benötigt wird. „Explosivstoffe“, „Pyrotechnika“ und „Treibstoffe“ sind Untergruppen von energetischen Materialien.
 
 „Entwicklung“ (ATA 0017 0021 0022 1E901 3E1901 3E1902 3E1905 4D1901b3 4E1901b3 5D902 5E902 6D908 9D904 9E904 9E991) (development): schließt alle Stufen vor der Serienfertigung ein, z. B. Konstruktion, Forschung, Analyse, Konzepte, Zusammenbau und Test von Prototypen, Pilotserienpläne, Konstruktionsdaten, Verfahren zur Umsetzung der Konstruktionsdaten ins Produkt, Konfigurationsplanung, Integrationsplanung, Layout.
 
 „Explosivstoffe“ (0008 0018) (explosives): feste, flüssige oder gasförmige Stoffe oder Stoffgemische, die erforderlich sind, um bei ihrer Verwendung als Primärladungen, Verstärker- oder Hauptladungen in Gefechtsköpfen, Geschossen und anderen Einsatzarten Detonationen herbeizuführen.
-
-„Expressions-Vektoren“ (0007) (expression vectors): Träger (z. B. Plasmide oder Viren), die zum Einbringen genetischen Materials in Gastzellen eingesetzt werden.
 
 „Faser- oder fadenförmige Materialien“ (0013) (fibrous or filamentary materials): umfassen
 
@@ -5415,7 +5381,7 @@ Anmerkung:
 
 Siehe auch „zivile Luftfahrzeuge“.
 
-„Luftschiff“ (DEF) (airship): bezeichnet ein triebwerkgetriebenes Luftfahrzeug, dessen Auftrieb durch ein Traggas aufrechterhalten wird, das leichter als Luft ist (in der Regel Helium, früher Wasserstoff).
+„Luftschiff” (DEF) (airship): bezeichnet ein triebwerkgetriebenes Luftfahrzeug, dessen Auftrieb durch ein Traggas aufrechterhalten wird, das leichter als Luft ist (in der Regel Helium, früher Wasserstoff).
 
 „Mikroorganismen“ (2B952) (microorganisms): Bakterien, Viren, Mycoplasma, Rickettsiae, Chlamydiae oder Pilze in natürlicher, adaptierter oder modifizierter Form entweder in Form „isolierter lebender Kulturen“ oder als Material, das gezielt mit solchen Kulturen geimpft oder kontaminiert wurde.
 
@@ -5429,7 +5395,19 @@ Siehe auch „zivile Luftfahrzeuge“.
 
 „Pyrotechnika“ (0008) (pyrotechnics): Mischungen aus festen oder flüssigen „Treibstoffen“ mit Sauerstoffträgern, die nach dem Anzünden eine energetische chemische Reaktion durchlaufen, um spezifische Zeitverzögerungen oder Wärmemengen, Lärm, Rauch, Nebel, Licht oder Infrarotstrahlung zu erzeugen. Zu den „Pyrotechnika“ zählt auch die Untergruppe der Pyrophoren, die keine Sauerstoffträger enthalten, sich an der Luft aber spontan entzünden.
 
-„Raumfahrzeuge“ (0011 9A904) (spacecraft): aktive und passive Satelliten und Raumsonden.
+„Raumfähre“ (DEF) (space vehicle): ein „Raumfahrzeug“, das dazu konstruiert ist, Fracht oder Personen zu befördern.
+
+Anmerkung:
+
+„Raumfähren“ umfassen auch Fahrzeuge, die dazu konstruiert sind, sicher auf die Erde zurückzukehren.
+
+„Raumfahrzeuge“ (0011 9A904) (spacecraft): ein Fahrzeug, das dazu konstruiert ist, als „Satellit“, „Raumsonde“ oder „Raumfähre“ im Weltraum betrieben zu werden, dort zu verbleiben oder sich durch den Weltraum zu bewegen.
+
+Anmerkung:
+
+„Raumfahrzeuge“ umfassen keine Lander, Rover oder andere Fahrzeuge, die aufgrund ihrer Konstruktion auf den Betrieb auf oder unter der Oberfläche oder in der Atmosphäre eines außerirdischen Himmelskörpers oder auf „suborbitale Fahrzeuge“ beschränkt sind.
+
+„Raumsonde“ (DEF) (space probe): ein anderes „Raumfahrzeug“ als ein „Satellit“ oder eine „Raumfähre“, das dazu konstruiert ist, nicht zur Erde zurückzukehren.
 
 „Reaktion auf Cybervorfälle“ (0021) (cyber incident response): Vorgang des Austauschs der erforderlichen Informationen über einen Cybersicherheitsvorfall mit Einzelpersonen oder Organisationen, die für die Durchführung oder Koordinierung von Maßnahmen zur Bewältigung des Cybersicherheitsvorfalls zuständig sind.
 
@@ -5437,23 +5415,15 @@ Siehe auch „zivile Luftfahrzeuge“.
 
 „Roboter“ (0017) (robot): ein Handhabungssystem, das bahn- oder punktgesteuert sein kann, Sensoren benutzen kann und alle folgenden Eigenschaften aufweist:
 
-a)
+a) multifunktional,
 
-multifunktional,
+b) fähig, Material, Teile, Werkzeuge oder Spezialvorrichtungen durch veränderliche Bewegungen im dreidimensionalen Raum zu positionieren oder auszurichten,
 
-b)
-
-fähig, Material, Teile, Werkzeuge oder Spezialvorrichtungen durch veränderliche Bewegungen im dreidimensionalen Raum zu positionieren oder auszurichten,
-
-c)
-
-mit drei oder mehr Regel- oder Stellantrieben, die Schrittmotoren einschließen können,
+c) mit drei oder mehr Regel- oder Stellantrieben, die Schrittmotoren einschließen können,
 
 und
 
-d)
-
-mit „anwenderzugänglicher Programmierbarkeit“ durch Eingabe-/Wiedergabe-Verfahren (teach/playback) oder durch einen Elektronenrechner, der auch eine speicherprogrammierbare Steuerung sein kann, d. h. ohne mechanischen Eingriff.
+d) mit „anwenderzugänglicher Programmierbarkeit“ durch Eingabe-/Wiedergabe-Verfahren (teach/playback) oder durch einen Elektronenrechner, der auch eine speicherprogrammierbare Steuerung sein kann, d.h. ohne mechanischen Eingriff.
 
 Anmerkung:
 
@@ -5471,27 +5441,37 @@ Das Programm wird durch feste, aber verstellbare Anschläge wie Stifte und Nocke
 
 5. Regalförderzeuge, die als Handhabungssysteme mit kartesischen Koordinaten bezeichnet werden und als wesentlicher Bestandteil vertikaler Lagereinrichtungen gefertigt und so konstruiert sind, dass sie Lagergut in die Lagereinrichtungen einbringen und aus diesen entnehmen.
 
-„Satelliten-Navigationssystem“ (0011) (satellite navigation system): ein System, das aus Bodenstationen, einer Konstellation von Satelliten und Empfangsgeräten besteht und die Berechnung der Standorte von Empfangsgeräten auf der Grundlage der von den Satelliten empfangenen Signale ermöglicht. Der Begriff schließt weltweite Satelliten-Navigationssysteme (GNSS) und regionale Satelliten-Navigationssysteme (RNSS) ein.
+„Satellit“ (DEF) (satellite): andere „Raumfahrzeuge“ als „Raumfähren“, die dazu konstruiert sind, in einer Umlaufbahn um die Erde oder um einen anderen Himmelskörper betrieben zu werden. „Satelliten“ umfassen auch Orbitalstationen.
+
+„Satelliten-Navigationssystem“ (0011) (satellite navigation system): ein System, das aus Bodenstationen, einer Konstellation von „Satelliten“ und Empfangsgeräten besteht und die Berechnung der Standorte von Empfangsgeräten auf der Grundlage der von den „Satelliten“ empfangenen Signale ermöglicht. Der Begriff schließt weltweite Satelliten-Navigationssysteme (GNSS) und regionale Satelliten-Navigationssysteme (RNSS) ein.
 
 „Software“ (ASA 0004 0011 0021 3D1902 3D1907 4D1901b3 5D902 5D911 6D908 9D904) (software): eine Sammlung eines oder mehrerer „Programme“ oder „Mikroprogramme“, die auf einem beliebigen greifbaren (Ausdrucks-)Medium fixiert sind.
 
-„Supraleitend“ (0020) (superconductive): Materialien (d. h. Metalle, Legierungen oder Verbindungen), die ihren elektrischen Widerstand vollständig verlieren können, d. h., sie können unbegrenzte elektrische Leitfähigkeit erreichen und sehr große elektrische Ströme ohne Joulesche Erwärmung übertragen.
+„Suborbitale Fahrzeuge“ (0010) (sub-orbital craft): ein Fahrzeug mit einer Hülle für die Beförderung von Personen oder Fracht, das dazu konstruiert ist,
+
+a) oberhalb der Stratosphäre betrieben zu werden,
+
+b) ausschließlich nichtorbitale Flugbahnen auszuführen und
+
+c) wieder auf der Erde zu landen, wobei die Insassen unversehrt bzw. die Ladung unbeschädigt bleibt.
+
+„Supraleitend“ (0020) (superconductive): Materialien (d.h. Metalle, Legierungen oder Verbindungen), die ihren elektrischen Widerstand vollständig verlieren können, d.h., sie können unbegrenzte elektrische Leitfähigkeit erreichen und sehr große elektrische Ströme ohne Joulesche Erwärmung übertragen.
 
 Anmerkung:
 
 Der „supraleitende“ Zustand eines Materials ist jeweils gekennzeichnet durch eine „kritische Temperatur“, ein kritisches Magnetfeld, das eine Funktion der Temperatur ist, und eine kritische Stromdichte, die eine Funktion des Magnetfelds und der Temperatur ist.
 
-„Technologie“ (ATA 0022 1E901 3E1901 3E1902 3E1905 4E1901b3 5E902 9E904 9E991 9E992) (technology): spezifisches technisches Wissen, das für die „Entwicklung“, „Herstellung“ oder „Verwendung“ eines Produkts nötig ist. Das technische Wissen wird in der Form von ,technischen Unterlagen‘ oder ,technischer Unterstützung‘ verkörpert.
+„Technologie“ (ATA 0022 1E901 3E1901 3E1902 3E1905 4E1901b3 5E902 9E904 9E991 9E992) (technology): spezifisches technisches Wissen, das für die „Entwicklung“, „Herstellung“ oder „Verwendung“ eines Produkts nötig ist. Das technische Wissen wird in der Form von ‚technischen Unterlagenʻ oder ‚technischer Unterstützungʻ verkörpert.
 
 Anmerkung 1:
 
-,Technische Unterlagen‘ (technical data): können verschiedenartig sein, z. B. Blaupausen, Pläne, Diagramme, Modelle, Formeln, Tabellen, Konstruktionspläne und
+‚Technische Unterlagenʻ (technical data): können verschiedenartig sein, z. B. Blaupausen, Pläne, Diagramme, Modelle, Formeln, Algorithmen, Tabellen, Konstruktionspläne und
 
 -spezifikationen, Beschreibungen und Anweisungen in Schriftform oder auf anderen Medien aufgezeichnet, wie Magnetplatten, Bänder oder Lesespeicher.
 
 Anmerkung 2:
 
-,Technische Unterstützung‘ (technical assistance): kann verschiedenartig sein, z. B. Unterweisung, Vermittlung von Fertigkeiten, Schulung, Arbeitshilfe, Beratungsdienste, und kann auch die Weitergabe von ,technischen Unterlagen‘ einbeziehen.
+‚Technische Unterstützungʻ (technical assistance): kann verschiedenartig sein, z. B. Unterweisung, Vermittlung von Fertigkeiten, Schulung, Arbeitshilfe, Beratungsdienste, und kann auch die Weitergabe von ‚technischen Unterlagenʻ einbeziehen.
 
 „Toxine“ (2B952) (toxins): Toxine in der Form gezielt isolierter Zubereitungen oder Mischungen, unabhängig von ihrer Herstellungsart, mit Ausnahme von Toxinen als Kontaminanten anderer Materialien wie pathologische Präparate, Kulturpflanzen, Lebensmittel oder Mutterkulturen von „Mikroorganismen“.
 
@@ -5519,7 +5499,7 @@ Anmerkung:
 
 Siehe auch „Luftfahrzeug“.
 
-Waren pflanzlichen Ursprungs
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 29.10.2025 I Nr. 261 +++)
 
 # Anlage 2 – (zu § 64)DIREKA1 Meldung von Vermögen von Inländern im Ausland
 

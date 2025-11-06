@@ -31,9 +31,7 @@ Diese Verordnung bestimmt die zu übermittelnden Daten, die zur Erbringung von e
 
 # § 4 – Identifikation der betroffenen Person
 
-(1) Zum Zweck der Durchführung der angebotenen Dienste nach den §§ 5 bis 10 ist die betroffene Person anhand eines elektronischen Identifizierungsmittels auf dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie
-
-1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) eindeutig zu identifizieren. Zum Zweck der eindeutigen Identifizierung der betroffenen Person im Melderegister übermitteln die Verwaltungsportale zusammen mit den Datenabrufen oder den übermittelten Daten nach den §§ 5 bis 10 an die Meldebehörde zusätzlich folgende Daten:
+(1) Zum Zweck der Durchführung der angebotenen Dienste nach den §§ 5 bis 10 ist die betroffene Person anhand eines elektronischen Identifizierungsmittels auf dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) eindeutig zu identifizieren. Zum Zweck der eindeutigen Identifizierung der betroffenen Person im Melderegister übermitteln die Verwaltungsportale zusammen mit den Datenabrufen oder den übermittelten Daten nach den §§ 5 bis 10 an die Meldebehörde zusätzlich folgende Daten:
 
 <table width="100%" style="border: none;">
 <colgroup>
@@ -45,7 +43,7 @@ Diese Verordnung bestimmt die zu übermittelnden Daten, die zur Erbringung von e
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0101 bis 0102,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0101a,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">2.</td>
@@ -85,7 +83,7 @@ Die Daten nach Satz 2 sind, soweit elektronisch auslesbar, aus dem zur Identifiz
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0101 bis 0102,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0101a,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">2.</td>
@@ -126,12 +124,12 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 1.</td>
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Ehename oder Lebenspartnerschaftsname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0103 bis 0106,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0103a, 0105a,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 2.</td>
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">frühere Namen</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0201 bis 0204,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0201a, 0203a,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 3.</td>
@@ -162,7 +160,7 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0902 bis 0903,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0902a,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -240,8 +238,7 @@ Nebenwohnung, bei Zuzug aus dem Ausland auch den Staat und die letzte Anschrift 
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1501 bis 1502,<br />
-1517 bis 1518,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1501a, 1517a,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -253,8 +250,7 @@ Nebenwohnung, bei Zuzug aus dem Ausland auch den Staat und die letzte Anschrift 
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">c)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geburtsname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1502a bis 1502c,<br />
-1518a bis 1518c,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1502b, 1518b,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -296,7 +292,7 @@ Nebenwohnung, bei Zuzug aus dem Ausland auch den Staat und die letzte Anschrift 
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1601 bis 1602,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1601a,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -364,12 +360,12 @@ Die Verwaltungsportale können zum Zweck der Weiterleitung der Meldedaten in ein
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 1.</td>
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0101 bis 0106,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0101a bis 0105a,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 2.</td>
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">frühere Namen</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0201 bis 0206,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0201a bis 0206,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 3.</td>
@@ -405,7 +401,7 @@ Die Verwaltungsportale können zum Zweck der Weiterleitung der Meldedaten in ein
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0902 bis 0903,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0902a,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -479,8 +475,7 @@ frühere Anschriften im Zuständigkeitsbereich der Meldebehörde sowie Anschrift
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1501 bis 1502,<br />
-1517 bis 1518,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1501a, 1517a,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -492,8 +487,7 @@ frühere Anschriften im Zuständigkeitsbereich der Meldebehörde sowie Anschrift
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">c)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geburtsname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1502a bis 1502c,<br />
-1518a bis 1518c,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1502b, 1518b,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -535,7 +529,7 @@ frühere Anschriften im Zuständigkeitsbereich der Meldebehörde sowie Anschrift
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1601 bis 1602,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1601a,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -688,17 +682,17 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 1.</td>
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0101 bis 0106,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0101a bis 0105a,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 2.</td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Geburtsname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0201 bis 0202,</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">frühere Namen</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0201a, 0203a,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 3.</td>
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Vornamen unter Kennzeichnung des gebräuchlichen Vornamens</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0301, 0302,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0301 bis 0303,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> 4.</td>
@@ -734,7 +728,7 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">0902 bis 0903,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">0902a,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -801,8 +795,7 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1501 bis 1502,<br />
-1517 bis 1518,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1501a, 1517a,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -814,8 +807,7 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">c)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geburtsname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1502a bis 1502c,<br />
-1518a bis 1518c,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1502b, 1518b,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -851,7 +843,7 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Familienname</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">1601 bis 1602,</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">1601a,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -927,7 +919,7 @@ Die Zuzugsmeldebehörde übermittelt nach Durchführung der elektronischen Anmel
 
 |     |                                                           |                    |
 |:-|:----------------|----------------------------------------------------:|
-| 1\. | Familienname                                              |     0101 bis 0106, |
+| 1\. | Familienname                                              |   0101a bis 0105a, |
 | 2\. | Vornamen unter Kennzeichnung des gebräuchlichen Vornamens |        0301, 0302, |
 | 3\. | Doktorgrad                                                |              0401, |
 | 4\. | Geburtsdatum                                              |              0601, |

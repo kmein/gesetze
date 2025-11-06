@@ -173,7 +173,7 @@ Gegenstand der Zwischenprüfung nach § 6 Absatz 5 des Pflegeberufegesetzes ist 
 
 # § 8 – Kooperationsverträge
 
-(1) Um die erforderliche enge Zusammenarbeit der Pflegeschule, des Trägers der praktischen Ausbildung sowie der weiteren an der Ausbildung beteiligten Einrichtungen zu gewährleisten, schließen die Beteiligten nach § 6 Absatz 4 des Pflegeberufegesetzes in den Fällen des § 8 Absatz 2 bis 4 des Pflegeberufegesetzes Kooperationsverträge in Schriftform; Regelungen zur betrieblichen Mitbestimmung bleiben unberührt. Das Nähere zu Kooperationsverträgen regeln die Länder.
+(1) Um die erforderliche enge Zusammenarbeit der Pflegeschule, des Trägers der praktischen Ausbildung sowie der weiteren an der Ausbildung beteiligten Einrichtungen zu gewährleisten, schließen die Beteiligten nach § 6 Absatz 4 des Pflegeberufegesetzes in den Fällen des § 8 Absatz 2 bis 4 des Pflegeberufegesetzes Kooperationsverträge in Textform; Regelungen zur betrieblichen Mitbestimmung bleiben unberührt. Das Nähere zu Kooperationsverträgen regeln die Länder.
 
 (2) Auf der Grundlage dieser Verträge erfolgt zwischen der Pflegeschule, insbesondere den für die Praxisbegleitung zuständigen Lehrkräften, dem Träger der praktischen Ausbildung sowie den an der praktischen Ausbildung beteiligten Einrichtungen und den Praxisanleiterinnen und Praxisanleitern eine regelmäßige Abstimmung.
 
@@ -541,7 +541,7 @@ Den Schwerpunkt des mündlichen Teils der Prüfung bilden die Auseinandersetzung
 
 # § 31 – Durchführung der hochschulischen Pflegeausbildung
 
-(1) Die Hochschule schließt für die Durchführung der Praxiseinsätze einen schriftlichen Kooperationsvertrag mit einer Einrichtung nach § 7 Absatz 1 des Pflegeberufegesetzes als Träger des praktischen Teils der hochschulischen Pflegeausbildung und stellt darin sicher, dass die im Umfang von mindestens 10 Prozent der während eines Praxiseinsatzes zu leistenden praktischen Ausbildungszeit zu gewährleistende Praxisanleitung entsprechend den Vorgaben des modularen Curriculums der Hochschule durchgeführt wird. Die Praxisanleitung erfolgt durch geeignetes, in der Regel hochschulisch qualifiziertes Pflegepersonal. Die Länder können weitergehende Regelungen treffen. Sie können bis zum 31. Dezember 2029 auch abweichende Anforderungen an die Eignung der Praxisanleiterinnen und Praxisanleiter zulassen.
+(1) Die Hochschule schließt für die Durchführung der Praxiseinsätze einen Kooperationsvertrag in Textform mit einer Einrichtung nach § 7 Absatz 1 des Pflegeberufegesetzes als Träger des praktischen Teils der hochschulischen Pflegeausbildung und stellt darin sicher, dass die im Umfang von mindestens 10 Prozent der während eines Praxiseinsatzes zu leistenden praktischen Ausbildungszeit zu gewährleistende Praxisanleitung entsprechend den Vorgaben des modularen Curriculums der Hochschule durchgeführt wird. Die Praxisanleitung erfolgt durch geeignetes, in der Regel hochschulisch qualifiziertes Pflegepersonal. Die Länder können weitergehende Regelungen treffen. Sie können bis zum 31. Dezember 2029 auch abweichende Anforderungen an die Eignung der Praxisanleiterinnen und Praxisanleiter zulassen.
 
 (2) Die Hochschule stellt für die Zeit der Praxiseinsätze die Praxisbegleitung der Studierenden in angemessenem Umfang sicher. Sie regelt über den Kooperationsvertrag mit dem Träger des praktischen Teils der hochschulischen Pflegeausbildung die Durchführung der Praxisbegleitung in den Einrichtungen und die Zusammenarbeit mit den Praxisanleiterinnen und Praxisanleitern. Die an der praktischen Ausbildung beteiligten Einrichtungen unterstützen die Hochschule bei der Durchführung der Praxisbegleitung.
 
@@ -1103,15 +1103,9 @@ Die Erstattung von Reisekosten für Mitglieder richtet sich nach den Richtlinien
 
 (1) Das Bundesinstitut für Berufsbildung berät und informiert über die berufliche Ausbildung und die hochschulische Ausbildung, insbesondere die Pflegeschulen, die Träger der praktischen Ausbildung sowie die weiteren an der Ausbildung beteiligten Einrichtungen und die Hochschulen.
 
-(2) Das Bundesinstitut für Berufsbildung baut unterstützende Angebote und Strukturen zur Organisation der beruflichen Ausbildung und der hochschulischen Ausbildung auf. Zu den Aufgaben zählen insbesondere
+(2) (weggefallen)
 
-1. die Erarbeitung von Konzepten zur Umsetzung der Ausbildung und Unterstützung bei der Umsetzung,
-
-2. der Aufbau und die Unterstützung von Netzwerken, Lernortkooperationen und Ausbildungsverbünden zwischen den Pflegeschulen, den Trägern der praktischen Ausbildung sowie den weiteren an der Ausbildung beteiligten Einrichtungen und den Hochschulen und
-
-3. die Beratung über Kooperationsverträge nach den §§ 8 und 31 Absatz 2.
-
-(3) Soweit das Bundesamt für Familie und zivilgesellschaftliche Aufgaben die Aufgabe übernimmt, unmittelbare Beratungs-, Informations- und Unterstützungsangebote nach den Absätzen 1 und 2 vor Ort zu gewährleisten, stimmen sich das Bundesamt für Familie und zivilgesellschaftliche Aufgaben und das Bundesinstitut für Berufsbildung bei der Wahrnehmung ihrer Aufgaben untereinander ab.
+(3) Soweit das Bundesamt für Familie und zivilgesellschaftliche Aufgaben die Aufgabe übernimmt, unmittelbare Beratungs-, Informations- und Unterstützungsangebote nach Absatz 1 vor Ort zu gewährleisten, stimmen sich das Bundesamt für Familie und zivilgesellschaftliche Aufgaben und das Bundesinstitut für Berufsbildung bei der Wahrnehmung ihrer Aufgaben untereinander ab.
 
 (4) Das Bundesinstitut für Berufsbildung übernimmt auch zur Unterstützung der Arbeit der Fachkommission die Aufgabe der Forschung zur beruflichen Ausbildung und zur hochschulischen Ausbildung und zum Pflegeberuf. Es erstattet dem Bundesministerium für Familie, Senioren, Frauen und Jugend und dem Bundesministerium für Gesundheit hierzu einmal jährlich Bericht. Die Forschung wird auf der Grundlage eines in der Regel jährlichen Forschungsprogramms durchgeführt. Das Forschungsprogramm bedarf der Genehmigung des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums für Gesundheit.
 
@@ -1121,7 +1115,7 @@ Die Erstattung von Reisekosten für Mitglieder richtet sich nach den Richtlinien
 
 (7) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit können das Bundesinstitut für Berufsbildung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung mit der Erstellung von Sondergutachten und Stellungnahmen beauftragen.
 
-(8) Das Bundesinstitut für Berufsbildung unterliegt bei der Erfüllung seiner Aufgaben nach dieser Verordnung den Weisungen des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums für Gesundheit.
+(8) Das Bundesinstitut für Berufsbildung unterliegt bei der Erfüllung seiner Aufgaben nach dieser Verordnung, mit Ausnahme der Aufgaben nach Absatz 4, den Weisungen des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums für Gesundheit.
 
 (+++ §§ 50 bis 60: Tritt gem. § 62 Abs. 1 Satz 1 mWv 11.10.2018 in Kraft +++)
 

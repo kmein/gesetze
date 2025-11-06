@@ -133,9 +133,9 @@ Die Dokumente sind unverzüglich zu übermitteln.
 
 14. Bekämpfung der illegalen Beschäftigung,
 
-15. Feststellung der Eigenschaft als Deutscher,
+15. Aufgaben nach dem Staatsangehörigkeitsgesetz,
 
-16. Feststellung der Aussiedler- oder Spätaussiedlereigenschaft,
+16. Aufgaben nach dem Bundesvertriebenengesetz,
 
 17. Aufgaben nach dem Bundesverfassungsschutzgesetz,
 
@@ -175,7 +175,15 @@ Die Dokumente sind unverzüglich zu übermitteln.
 
 34. Abruf von Dokumenten,
 
-35. Aufgaben nach dem Sanktionsdurchsetzungsgesetz.
+35. Aufgaben nach dem Sanktionsdurchsetzungsgesetz,
+
+36. Aufgaben nach dem Unterhaltsvorschussgesetz,
+
+37. Aufgaben nach dem Bundeselterngeld- und Elternzeitgesetz,
+
+38. Aufgaben nach Abschnitt X des Einkommensteuergesetzes und nach § 1 des Bundeskindergeldgesetzes,
+
+39. Grunddatenauskunft.
 
 (4) (weggefallen)
 
@@ -297,6 +305,10 @@ b) ein Ausreiseverbot,
 
 c) eine Zurückweisung,
 
+d) Daten nach § 3 Absatz 1 Nummer 6a in Verbindung mit § 2 Absatz 2 Nummer 3a des AZR-Gesetzes,
+
+e) Daten nach § 3 Absatz 1 Nummer 7 in Verbindung mit § 2 Absatz 2c des AZR-Gesetzes, sofern nicht Nummer 5 einschlägig ist,
+
 2. nach zehn Jahren
 
 a) die Ausstellung eines Paßersatzes nach § 4 der Aufenthaltsverordnung, soweit dieser in Spalte A des Abschnitts I der Anlage zu dieser Verordnung aufgeführt ist,
@@ -309,11 +321,13 @@ d) Daten zur Förderung der freiwilligen Ausreise und Reintegration nach § 3 Ab
 
 3. nach zwölf Monaten Daten nach § 3 Absatz 2 Nummer 9 bis 11 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1 des AZR-Gesetzes,
 
-4. nach 18 Monaten Daten nach § 3 Absatz 1 Nummer 7 des AZR-Gesetzes und Dokumente nach § 3 Absatz 3c in Verbindung mit § 2 Absatz 2b des AZR-Gesetzes,
+4. nach 18 Monaten Daten nach § 3 Absatz 1 Nummer 7 in Verbindung mit § 2 Absatz 2b des AZR-Gesetzes,
 
-5. nach sechs Monaten Daten nach § 3 Absatz 1 Nummer 1, 3, 4 und 7 des AZR-Gesetzes und § 3 Absatz 3d in Verbindung mit § 2 Absatz 2c des AZR-Gesetzes.
+5. nach sechs Monaten Daten zu Freiheitsentziehungen nach den §§ 62, 62b und 62c des Aufenthaltsgesetzes und Artikel 28 der Verordnung (EU) Nr. 604/2013,
 
-Die Fristen beginnen in den Fällen der Nummer 1 bis 4 mit Ablauf des Vierteljahres, in dem die Daten übermittelt worden sind.
+6. nach neun Monaten Daten nach § 3 Absatz 1 Nummer 1, 3, 4 und 7 in Verbindung mit § 2 Absatz 2c des AZR-Gesetzes, sofern bis zu diesem Zeitpunkt noch keine Einreise der Person erfolgt ist.
+
+Die Fristen beginnen in den Fällen der Nummer 1 Buchstabe a bis c und e sowie der Nummern 2 bis 4 und 6 mit Ablauf des Vierteljahres, in dem die Daten übermittelt worden sind. Maßgeblich für den Beginn der Frist im Fall der Nummer 1 Buchstabe d ist das Datum zum Ende des Leistungsbezuges. Maßgeblich für den Beginn der Frist im Fall der Nummer 5 ist das Datum zum Ende der freiheitsentziehenden Maßnahme.
 
 (4) Daten werden im Übrigen gelöscht, wenn die ihnen zugrunde liegenden Maßnahmen zurückgenommen, widerrufen, anderweitig aufgehoben oder durch Ablauf ihrer Befristung oder auf andere Weise erledigt sind. Bereits im Register gespeicherte Angaben zum aufenthaltsrechtlichen Status werden durch Speicherung weiterer Angaben zum aufenthaltsrechtlichen Status nicht gelöscht.
 
@@ -362,6 +376,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   
 
 Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtmögliche Umfang der Daten – ohne Nennung gesetzlicher Zweckbestimmungen – angegeben, den die jeweilige Stelle nach dem AZR-Gesetz erhalten darf. Beschränkungen ergeben sich aus den einzelnen Vorschriften des AZR-Gesetzes. Insbesondere ist die Übermittlung der Daten von Unionsbürgern, für die eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts nicht vorliegt, nur an die mit ausländer- oder asylrechtlichen Aufgaben betrauten Behörden und nur zur Durchführung solcher Aufgaben zulässig. Soweit in Spalte C und Spalte D der Tabelle zu Personenkreis (1) eine Unterteilung der die Daten übermittelnden oder empfangenden Stellen nach römischen Ziffern vorgenommen wurde, dient dies dazu, innerhalb der Zeilen für die Personenkreise (2) und (3) einfacher auf die jeweiligen Stellen zu verweisen. Das Statistische Bundesamt erhält alle Daten ohne Namensbezug. In einer Dienstvorschrift wird geregelt, welche Daten die Verfassungsschutzbehörden des Bundes und der Länder, der BND und der MAD nach § 20 des AZR-Gesetzes erhalten.
+
+ 
 
  
 
@@ -515,4 +531,5 @@ wenn die rechtlichen Voraussetzungen vorliegen,
 (7) =  
 wenn ein Anlass oder eine Entscheidung nach (1) bis (6) die Datenübermittlung notwendig macht.
 
-Anlage Abschn. I Nr. 8 (Teil I) Spalte A Buchst. y (früher Buchst. z): Eingef. durch Art. 1 Nr. 15 Buchst. d DBuchst. dd V v. 11.12.2018 I 2424 mWv 15.9.2019; früherer Buchst. w wurde Buchst. y gem. Art. 1 Nr. 15 Buchst. d DBuchst. cc V v. 11.12.2018 I 2424 mWv 15.9.2019, Buchst. y aufgeh. u. früherer Buchst. z jetzt Buchst. y gem. Art. 2 Nr. 5 Buchst. h DBuchst. aa aaa u. bbb nach Maßgabe d. Art. 11 iVm. Art. 12 Abs. 6 G v. 4.8.2019 I 1131 mWv 1.5.2020 (Kursivdruck: Änderungsanweisung Art. 2 Nr. 5 Buchst. h DBuchst. aa bbb hätte richtig lauten müssen: "Die Buchstaben "z und ai" werden die Buchstaben "y und z"."); idF d. Art. 2 Nr. 5 Buchst. m G v. 8.5.2024 I Nr. 152 mWv 16.5.2024
+Anlage Abschn. I Nr. 8 (Teil I) Spalte A Buchst. y (früher Buchst. z): Eingef. durch Art. 1 Nr. 15 Buchst. d DBuchst. dd V v. 11.12.2018 I 2424 mWv 15.9.2019; früherer Buchst. w wurde Buchst. y gem. Art. 1 Nr. 15 Buchst. d DBuchst. cc V v. 11.12.2018 I 2424 mWv 15.9.2019, Buchst. y aufgeh. u. früherer Buchst. z jetzt Buchst. y gem. Art. 2 Nr. 5 Buchst. h DBuchst. aa aaa u. bbb nach Maßgabe d. Art. 11 iVm. Art. 12 Abs. 6 G v. 4.8.2019 I 1131 mWv 1.5.2020 (Kursivdruck: Änderungsanweisung Art. 2 Nr. 5 Buchst. h DBuchst. aa bbb hätte richtig lauten müssen: "Die Buchstaben "z und ai" werden die Buchstaben "y und z"."); idF d. Art. 2 Nr. 5 Buchst. m G v. 8.5.2024 I Nr. 152 mWv 16.5.2024  
+Anlage Abschn. I Nr. 9c: IdF d. Art. 2 Nr. 5 Buchst. r G v. 8.5.2024 I Nr. 152 mWv 1.11.2025 (Kursivdruck müsste lauten: "BeschV")

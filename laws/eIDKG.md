@@ -287,6 +287,8 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 7. Staatsangehörigkeit,
 
+7a. Identifikationsnummer nach dem Identifikationsnummerngesetz,
+
 8. Seriennummer,
 
 9. Sperrkennwort und Sperrsumme,

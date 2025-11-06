@@ -1082,7 +1082,7 @@
 - [BPolBG§1Abs1V 2003](laws/BPolBG§1Abs1V_2003.md) Verordnung zu § 1 Abs. 1 des Bundespolizeibeamtengesetzes
 - [BPolDKlZustAnO](laws/BPolDKlZustAnO.md) Anordnung des Bundespräsidenten über den Erlass der Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der Bundespolizei
 - [BPolG](laws/BPolG.md) Gesetz über die Bundespolizei
-- [BPolHfV](laws/BPolHfV.md) Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei*)
+- [BPolHfV](laws/BPolHfV.md) Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei und beim Deutschen Bundestag
 - [BPolLV](laws/BPolLV.md) Verordnung über die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei
 - [BPolRZustAnO](laws/BPolRZustAnO.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der Rechtsverhältnisse der Polizeivollzugsbeamten des Bundes
 - [BPolZollV](laws/BPolZollV.md) Verordnung über die Übertragung von Bundespolizeiaufgaben auf die Zollverwaltung
@@ -1235,13 +1235,7 @@
 - [BTEpiFortbestBek](laws/BTEpiFortbestBek.md) Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite
 - [BTEpiFortbestBek 2021-06](laws/BTEpiFortbestBek_2021-06.md) Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite
 - [BTEpiFortbestBek 2021-08](laws/BTEpiFortbestBek_2021-08.md) Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite
-- [BTGO 1980](laws/BTGO_1980.md) Geschäftsordnung des Deutschen Bundestages
-- [BTGO1980Anl 2a](laws/BTGO1980Anl_2a.md) Verhaltenskodex für Interessenvertreterinnen und Interessenvertreter im Rahmen des Lobbyregistergesetzes (Anlage 2a der Geschäftsordnung des Deutschen Bundestages, BGBl. I 1980, 1237)
-- [BTGO1980Anl 3](laws/BTGO1980Anl_3.md) Geheimschutzordnung des Deutschen Bundestages (Anlage 3 der Geschäftsordnung des Deutschen Bundestages, BGBl. I 1980, 1237)
-- [BTGO1980Anl 4](laws/BTGO1980Anl_4.md) Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen (Anlage 4 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
-- [BTGO1980Anl 5](laws/BTGO1980Anl_5.md) Richtlinien für Aussprachen zu Themen von allgemeinem aktuellen Interesse (Anlage 5 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
-- [BTGO1980Anl 6](laws/BTGO1980Anl_6.md) Grundsätze in Immunitätsangelegenheiten und in Fällen der Genehmigung gemäß § 50 Abs 3 StPO und § 382 Abs. 3 ZPO sowie bei Ermächtigungen gemäß § 90b Abs. 2, § 194 Abs. 4 StGB (Anlage 6 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
-- [BTGO1980Anl 7](laws/BTGO1980Anl_7.md) Richtlinien für die Befragung der Bundesregierung (Anlage 7 der Geschäftsordnung des Deutschen Bundestages, BGBl. I 1980, 1237)
+- [BTGO 2025](laws/BTGO_2025.md) Geschäftsordnung des Deutschen Bundestages
 - [BTGO1980Anl1ABest](laws/BTGO1980Anl1ABest.md) Ausführungsbestimmungen zu den Verhaltensregeln für Mitglieder des Deutschen Bundestages
 - [BTGO1980Anl1ABestBek 2013](laws/BTGO1980Anl1ABestBek_2013.md) Bekanntmachung der Ausführungsbestimmungen zu den Verhaltensregeln für Mitglieder des Deutschen Bundestages
 - [BTGO1980Anl6Bek 1991](laws/BTGO1980Anl6Bek_1991.md) Bekanntmachung über die Übernahme der Grundsätze in Immunitätsangelegenheiten von Mitgliedern des Deutschen Bundestages
@@ -1254,8 +1248,14 @@
 - [BTGO1980Anl6Bek 2018](laws/BTGO1980Anl6Bek_2018.md) Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten
 - [BTGO1980Anl6Bek 2022](laws/BTGO1980Anl6Bek_2022.md) Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten
 - [BTGO1980Anl6Bek 2025](laws/BTGO1980Anl6Bek_2025.md) Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten
-- [BTGO1980Bes](laws/BTGO1980Bes.md) Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages (Anlage 6 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
 - [BTGO1980ÜbernBek](laws/BTGO1980ÜbernBek.md) Bekanntmachung zur Übernahme der Geschäftsordnung des Deutschen Bundestages
+- [BTGO2025Anl 1](laws/BTGO2025Anl_1.md) Geheimschutzordnung des Deutschen Bundestages (Anlage 1 der Geschäftsordnung des Deutschen Bundestages, BGBl 2025 I Nr 250)
+- [BTGO2025Anl 2](laws/BTGO2025Anl_2.md) Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen (Anlage 2 der Geschäftsordnung des Deutschen Bundestages, BGBl 2025 I Nr 250)
+- [BTGO2025Anl 3](laws/BTGO2025Anl_3.md) Richtlinien für Aussprachen zu Themen von allgemeinem aktuellen Interesse (Anlage 3 der Geschäftsordnung des Deutschen Bundestages, BGBl 2025 I Nr 250)
+- [BTGO2025Anl 4](laws/BTGO2025Anl_4.md) Richtlinien für die Befragung der Bundesregierung (Anlage 4 der Geschäftsordnung des Deutschen Bundestages, BGBl 2025 I Nr 250)
+- [BTGO2025Anl 5/Bes](laws/BTGO2025Anl_5_Bes.md) Beschluss des Deutschen Bundestages betreffend die Aufhebung der Immunität von Mitgliedern des Bundestages (Anlage 5 der Geschäftsordnung des Deutschen Bundestages, BGBl 2025 I Nr 250)
+- [BTGO2025Anl 5/Grds](laws/BTGO2025Anl_5_Grds.md) Grundsätze in Immunitätsangelegenheiten und in Fällen der Genehmigung gemäß § 50 Absatz 3 StPO und § 382 Absatz 3 ZPO sowie bei Ermächtigungen gemäß § 90b Absatz 2, § 194 Absatz 4 StGB 1 (Anlage 5 der Geschäftsordnung des Deutschen Bundestages, BGBl 2025 I Nr 250)
+- [BTGO2025Anl 6](laws/BTGO2025Anl_6.md) Verhaltenskodex für Interessenvertreterinnen und Interessenvertreter im Rahmen des Lobbyregistergesetzes (Anlage 6 der Geschäftsordnung des Deutschen Bundestages, BGBl 2025 I Nr 250)
 - [BTHausO 2025](laws/BTHausO_2025.md) Hausordnung des Deutschen Bundestages
 - [BTHG](laws/BTHG.md) Gesetz zur Stärkung der Teilhabe und Selbstbestimmung von Menschen mit Behinderungen
 - [BtMAHV](laws/BtMAHV.md) Betäubungsmittel-Außenhandelsverordnung
@@ -1406,7 +1406,6 @@
 - [DaTraGebV](laws/DaTraGebV.md) Verordnung zur Erhebung von Gebühren und Auslagen für die Bereitstellung von Daten nach den Regelungen der Datentransparenzverordnung
 - [DBA ARE](laws/DBA_ARE.md) Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen
 - [DBA AUT 2002](laws/DBA_AUT_2002.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
-- [DBA CH 1980](laws/DBA_CH_1980.md) Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Nachlaß- und Erbschaftsteuern
 - [DBA EST](laws/DBA_EST.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Estland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 - [DBA ISR 1980](laws/DBA_ISR_1980.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Staat Israel zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Nachlaß- und Erbschaftsteuern
 - [DBA KAZ](laws/DBA_KAZ.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Kasachstan zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
@@ -3538,7 +3537,7 @@
 - [LuftVODV 179](laws/LuftVODV_179.md) Hundertneunundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Hannover)
 - [LuftVODV 180](laws/LuftVODV_180.md) Hundertachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Karlsruhe/Baden-Baden)
 - [LuftVODV 181](laws/LuftVODV_181.md) Hunderteinundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Karlsruhe/Baden-Baden)
-- [LuftVODV 182](laws/LuftVODV_182.md) Hundertzweiundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Münster/Osnabrück)
+- [LuftVODV 182 2025](laws/LuftVODV_182_2025.md) Hundertzweiundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Münster/Osnabrück)
 - [LuftVODV 183](laws/LuftVODV_183.md) Hundertdreiundachzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Zweibrücken)
 - [LuftVODV 184](laws/LuftVODV_184.md) Hundertvierundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Lahr)
 - [LuftVODV 186](laws/LuftVODV_186.md) Hundertsechsundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Köln/Bonn)
@@ -3586,7 +3585,7 @@
 - [LuftVODV 242 2020](laws/LuftVODV_242_2020.md) Zweihundertzweiundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Hamburg)
 - [LuftVODV 243 2025](laws/LuftVODV_243_2025.md) Zweihundertdreiundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Regionalflughafen Magdeburg/Cochstedt)
 - [LuftVODV 246](laws/LuftVODV_246.md) Zweihundertsechsundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Giebelstadt)
-- [LuftVODV 247 2020](laws/LuftVODV_247_2020.md) Zweihundertsiebenundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Berlin Brandenburg)
+- [LuftVODV 247 2025](laws/LuftVODV_247_2025.md) Zweihundertsiebenundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Berlin Brandenburg)
 - [LuftVODV 248](laws/LuftVODV_248.md) Zweihundertachtundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Berlin Brandenburg)
 - [LuftVODV 249 2024](laws/LuftVODV_249_2024.md) Zweihundertneunundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Kassel-Calden)
 - [LuftVODV 250](laws/LuftVODV_250.md) Zweihundertfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Kassel-Calden)
@@ -4494,7 +4493,7 @@
 - [PfandMeldeV](laws/PfandMeldeV.md) Verordnung über pfandbriefrechtliche Meldungen
 - [PFAV](laws/PFAV.md) Verordnung betreffend die Aufsicht über Pensionsfonds und über die Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung
 - [PferdewMeistPrV](laws/PferdewMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Pferdewirtschaftsmeister und Pferdewirtschaftsmeisterin
-- [PflAFinV](laws/PflAFinV.md) Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen
+- [PflAFinV](laws/PflAFinV.md) Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen *)
 - [PflanzentechMeistPrV](laws/PflanzentechMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Pflanzentechnologiemeister und Pflanzentechnologiemeisterin
 - [PflanzTechnAusbStEignV](laws/PflanzTechnAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Pflanzentechnologen und zur Pflanzentechnologin
 - [PflanzTechnAusbV](laws/PflanzTechnAusbV.md) Verordnung über die Berufsausbildung zum Pflanzentechnologen und zur Pflanzentechnologin*
@@ -4507,6 +4506,7 @@
 - [PflegeStatV](laws/PflegeStatV.md) Verordnung zur Durchführung einer Bundesstatistik über Pflegeeinrichtungen sowie über die häusliche Pflege
 - [PflegeVG](laws/PflegeVG.md) Gesetz zur sozialen Absicherung des Risikos der Pflegebedürftigkeit
 - [PflegeZG](laws/PflegeZG.md) Gesetz über die Pflegezeit
+- [PflFAssG](laws/PflFAssG.md) Gesetz über den Pflegefachassistenzberuf *
 - [PflGesG](laws/PflGesG.md) Gesetz zur Durchführung der Verordnung (EU) 2016/2031 und der Verordnung (EU) 2017/625 im Bereich Pflanzengesundheit
 - [PflKartV 1986](laws/PflKartV_1986.md) Pflanzkartoffelverordnung
 - [PflNV](laws/PflNV.md) Verordnung zur Neuordnung des Pflegesatzrechts
@@ -6840,6 +6840,7 @@
 - [7. BinSchStrOAbweichV](laws/7._BinSchStrOAbweichV.md) Siebte Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
 - [7. RAG](laws/7._RAG.md) Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [8. ÄndGLAG](laws/8._ÄndGLAG.md) Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndG LAG)
+- [8. BinSchStrOAbweichV](laws/8._BinSchStrOAbweichV.md) Achte Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
 - [8. MARPOL-ÄndV](laws/8._MARPOL-ÄndV.md) Achte Verordnung über Änderungen des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und des Protokolls von 1978 zu diesem Übereinkommen
 - [8. RAG](laws/8._RAG.md) Achtes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [9. AnpG-KOV](laws/9._AnpG-KOV.md) Neuntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes

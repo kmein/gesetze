@@ -295,8 +295,7 @@ d) Büchern, Katalogen, Zeitungen oder Zeitschriften, soweit diese durch Anbiete
 
 (6) Beendet ein Anbieter seine Tätigkeit als Anbieter von Postdienstleistungen, so teilt er dies der Bundesnetzagentur unverzüglich mit. Die Bundesnetzagentur löscht den Anbieter aus dem Anbieterverzeichnis. Satz 2 gilt auch, wenn die Eintragung nach Absatz 5 zurückgenommen oder widerrufen wurde oder die Beendigung der Tätigkeit eines Anbieters feststeht, ohne dass der Anbieter eine Mitteilung nach Satz 1 gemacht hat.
 
-(++++ § 4 Abs. 6: Zur Geltung vgl. § 66 Abs. 2 +++)  
-(++++ § 4 Abs. 6: Zur Geltung vgl. § 89 Abs. 2 +++)
+(+++ § 4 Abs. 6: Zur Geltung vgl. § 66 Abs. 2 u. § 89 Abs. 2 +++)
 
 # § 5 – Zuverlässigkeit, Leistungsfähigkeit, Fachkunde
 

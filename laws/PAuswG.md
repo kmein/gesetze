@@ -607,6 +607,8 @@ Der Personalausweis kann als qualifizierte elektronische Signaturerstellungseinh
 
 9. Staatsangehörigkeit,
 
+9a. Identifikationsnummer nach § 139b der Abgabenordnung,
+
 10. Familienname, Vornamen, Tag der Geburt und Unterschrift des gesetzlichen Vertreters,
 
 11. Seriennummer,
@@ -682,6 +684,10 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 5. das Aktenzeichen.
 
 § 24 Abs. 3 Satz 5 gilt entsprechend.
+
+(3) Bei der Einrichtung eines automatisierten Abrufverfahrens hat die abrufberechtigte Stelle durch geeignete technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35), nach § 64 des Bundesdatenschutzgesetzes und nach den entsprechenden landesgesetzlichen Regelungen sicherzustellen, dass Daten nur von hierzu befugten Personen automatisiert abgerufen werden können.
+
+(4) Die für einen zentralen Personalausweisregisterdatenbestand zuständige Stelle oder die Personalausweisbehörde trifft Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679, insbesondere durch den Einsatz von Verschlüsselungstechnik und von Authentifizierungsverfahren, um den Datenschutz und die Datensicherheit zu gewährleisten. Bei Zweifeln an der Identität der abrufenden Stelle unterbleibt der automatisierte Abruf.
 
 # § 26 – Sonstige Speicherung personenbezogener Daten
 

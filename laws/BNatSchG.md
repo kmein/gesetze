@@ -633,6 +633,7 @@ Die zuständige Behörde kann die Vorlage von Gutachten verlangen, soweit dies z
 
 (4) Ergeben sich bei Vorhaben nach § 34 des Baugesetzbuches im Rahmen der Herstellung des Benehmens nach Absatz 3 Anhaltspunkte dafür, dass das Vorhaben eine Schädigung im Sinne des § 19 Absatz 1 Satz 1 verursachen kann, ist dies auch dem Vorhabenträger mitzuteilen. Auf Antrag des Vorhabenträgers hat die für die Erteilung der Zulassung zuständige Behörde im Benehmen mit der für Naturschutz und Landschaftspflege zuständigen Behörde die Entscheidungen nach § 15 zu treffen, soweit sie der Vermeidung, dem Ausgleich oder dem Ersatz von Schädigungen nach § 19 Absatz 1 Satz 1 dienen; in diesen Fällen gilt § 19 Absatz 1 Satz 2. Im Übrigen bleibt Absatz 2 Satz 1 unberührt.
 
+(+++ § 18 Abs. 2 u. 3: Zur Anwendung vgl. § 246e Abs. 3 BBauG +++)  
 § 18 Abs. 3 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch <a href="../abweichendes_Landesrecht/natschg_sh__11.html" target="_blank" title="Anzeige in neuem Fenster">§ 11 Abs. 1 Satz 1 des Landesnaturschutzgesetzes (LNatSchG)</a>, idF d. Art. 1 Nr. 13 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1647)
 
 # § 19 – Schäden an bestimmten Arten und natürlichen Lebensräumen

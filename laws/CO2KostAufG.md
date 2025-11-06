@@ -97,7 +97,7 @@ b) für den aus diesen Wärmeerzeugungsanlagen stammenden Anteil der Wärmeliefe
 
 (4) Bestimmt der Vermieter den auf den einzelnen Mieter entfallenden Anteil an den Kohlendioxidkosten nicht oder weist er die gemäß Absatz 3 erforderlichen Informationen nicht aus, so hat der Mieter das Recht, den gemäß der Heizkostenabrechnung auf ihn entfallenden Anteil an den Heizkosten um 3 Prozent zu kürzen.
 
-(++++ § 7 Abs. 3 und 4: Zur Geltung vgl. § 8 Abs. 4 +++)
+(+++ § 7 Abs. 3 und 4: Zur Geltung vgl. § 8 Abs. 4 +++)
 
 # § 8 – Aufteilung der Kohlendioxidkosten und Erstattungsanspruch bei Nichtwohngebäuden
 

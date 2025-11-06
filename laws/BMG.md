@@ -364,7 +364,7 @@ Die §§ 13 und 14 gelten entsprechend für Hinweise, die gespeichert werden, um
 
 (3) Die An- oder Abmeldung für Personen unter 16 Jahren obliegt denjenigen, in deren Wohnung die Personen unter 16 Jahren einziehen oder aus deren Wohnung sie ausziehen. Neugeborene, die im Inland geboren wurden, sind nur anzumelden, wenn sie in eine andere Wohnung als die der Eltern oder der Mutter aufgenommen werden. Ist für eine volljährige Person ein Pfleger oder ein Betreuer bestellt, der den Aufenthalt bestimmen kann, obliegt diesem die An- oder Abmeldung.
 
-(4) Die Standesämter teilen den Meldebehörden unverzüglich die Beurkundung der Geburt eines Kindes sowie jede Änderung des Personenstandes einer Person mit.
+(4) Die Standesämter teilen den Meldebehörden unverzüglich die Beurkundung der Geburt eines Kindes sowie jede Änderung des Personenstandes einer Person mit. Die Meldebehörden teilen den Standesämtern in diesen Fällen unverzüglich die Identifikationsnummer nach § 139b der Abgabenordnung mit.
 
 # § 18 – Meldebescheinigung
 

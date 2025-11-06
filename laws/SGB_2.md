@@ -2110,13 +2110,11 @@ Satz 1 gilt entsprechend für nicht leistungsberechtigte Personen, die mit Perso
 
 # § 52a – Überprüfung von Daten
 
-(1) Die Agentur für Arbeit darf bei Personen, die Leistungen nach diesem Buch beantragt haben, beziehen oder bezogen haben, Auskunft einholen
+(1) Die Agentur für Arbeit darf zur Sicherstellung einer ordnungsgemäßen Leistungserbringung bei Personen, die Leistungen nach diesem Buch beantragt haben, beziehen oder bezogen haben, Auskunft einholen
 
 1. über die in § 39 Absatz 1 Nummer 5 und 11 des Straßenverkehrsgesetzes angeführten Daten über ein Fahrzeug, für das die Person als Halter eingetragen ist, bei dem Zentralen Fahrzeugregister;
 
-2. aus dem Melderegister nach den §§ 34 und 38 bis 41 des Bundesmeldegesetzes und dem Ausländerzentralregister,
-
-soweit dies zur Bekämpfung von Leistungsmissbrauch erforderlich ist.
+2. aus dem Melderegister nach den §§ 34 und 38 bis 41 des Bundesmeldegesetzes und dem Ausländerzentralregister.
 
 (2) Die Agentur für Arbeit darf Daten von Personen, die Leistungen nach diesem Buch beantragt haben, beziehen oder bezogen haben und die Wohngeld beantragt haben, beziehen oder bezogen haben, an die nach dem Wohngeldgesetz zuständige Behörde übermitteln, soweit dies zur Feststellung der Voraussetzungen des Ausschlusses vom Wohngeld (§§ 7 und 8 Absatz 1 des Wohngeldgesetzes) erforderlich ist. Die Übermittlung der in § 52 Absatz 2 Nummer 1 bis 3 genannten Daten ist zulässig. Die in Absatz 1 genannten Behörden führen die Überprüfung durch und teilen das Ergebnis der Überprüfungen der Agentur für Arbeit unverzüglich mit. Die in Absatz 1 und Satz 1 genannten Behörden haben die ihnen übermittelten Daten nach Abschluss der Überprüfung unverzüglich zu löschen.
 

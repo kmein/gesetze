@@ -2453,6 +2453,8 @@ Sie dürfen für die Überprüfung nach Satz 1 Name, Vorname (Rufname), Geburtsd
 
 Die in Satz 1 genannten Stellen sind verpflichtet, die in Satz 4 genannten Daten zu übermitteln. Sie haben die ihnen im Rahmen der Überprüfung übermittelten Daten nach Vorlage der Mitteilung unverzüglich zu löschen. Eine Übermittlung durch diese Stellen unterbleibt, soweit ihr besondere gesetzliche Verwendungsregelungen entgegenstehen.
 
+(5) Die für die Ausführung dieses Buches zuständigen Stellen dürfen zur Sicherstellung einer ordnungsgemäßen Leistungserbringung bei Personen, die Leistungen nach diesem Buch beantragt haben, beziehen oder bezogen haben, Auskunft aus dem Ausländerzentralregister einholen.
+
 # § 119 – Wissenschaftliche Forschung im Auftrag des Bundes
 
 Der Träger der Sozialhilfe darf einer wissenschaftlichen Einrichtung, die im Auftrag des Bundesministeriums für Arbeit und Soziales ein Forschungsvorhaben durchführt, das dem Zweck dient, die Erreichung der Ziele von Gesetzen über soziale Leistungen zu überprüfen oder zu verbessern, Sozialdaten übermitteln, soweit

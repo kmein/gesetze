@@ -183,7 +183,7 @@
 
 # § 3 – Personenstandsregister
 
-(1)Das Standesamt führt für seinen Zuständigkeitsbereich
+(1) Das Standesamt führt für seinen Zuständigkeitsbereich
 
 1. ein Eheregister (§ 15),
 
@@ -196,6 +196,16 @@
 Die Registereinträge bestehen aus einem urkundlichen Teil (Haupteintrag und Folgebeurkundungen) und einem Hinweisteil.
 
 (2) Die Personenstandsregister werden elektronisch geführt. Die Beurkundungen in den Personenstandsregistern sind jährlich fortlaufend zu nummerieren und mit der Angabe des Familiennamens des zugriffsberechtigten Standesbeamten abzuschließen. Die Identität der Person, die die Eintragung vornimmt, muss jederzeit erkennbar sein. Das Programm muss eine automatisierte Suche anhand der in die Personenstandsregister aufzunehmenden Angaben zulassen; die Register müssen jederzeit nach Jahreseinträgen ausgewertet werden können.
+
+(3) Den Registereinträgen werden als funktionale Ordnungsmerkmale außerhalb des urkundlichen Teils und des Hinweisteils
+
+1. die Daten einer Stilllegung nach § 47 Absatz 4,
+
+2. die Sperrvermerke nach § 64 und
+
+3. die Identifikationsnummern nach dem Identifikationsnummerngesetz für die beurkundeten Personen
+
+zugeordnet.
 
 # § 4 – Sicherungsregister
 

@@ -123,9 +123,27 @@ Ein Mitglied des Bundestages, das im letzten Vierteljahr der Wahlperiode in den 
 
 # § 14 – Kürzung der Kostenpauschale
 
-(1) An jedem Sitzungstag wird eine Anwesenheitsliste ausgelegt. Der Präsident bestimmt im Benehmen mit dem Ältestenrat, welche Tage als Sitzungstage gelten und in welcher Zeit die Anwesenheitsliste ausgelegt wird. Trägt sich ein Mitglied des Bundestages nicht in die Anwesenheitsliste ein, werden ihm 100 Euro von der Kostenpauschale einbehalten. Der einzubehaltende Betrag erhöht sich auf 200 Euro, wenn ein Mitglied an einem Plenarsitzungstag sich nicht in die Anwesenheitsliste eingetragen hat und nicht beurlaubt war. Der Kürzungsbetrag verringert sich auf 20 Euro, wenn ein Mitglied des Bundestages einen Aufenthalt in einem Krankenhaus oder in einem Sanatorium oder die Arbeitsunfähigkeit ärztlich nachweist. Während der Mutterschutzfristen infolge Schwangerschaft oder wenn ein Mitglied des Bundestages ein ärztlich nachgewiesen erkranktes, in seinem Haushalt lebendes Kind, das das 14. Lebensjahr noch nicht vollendet hat, mangels anderer im Haushalt dafür zur Verfügung stehender Aufsichtspersonen persönlich betreuen muss, führt die Nichteintragung in die Anwesenheitsliste nicht zu einer Kürzung der Kostenpauschale. Die Eintragung in die Anwesenheitsliste wird vom Zeitpunkt der Auslegung an ersetzt durch Amtieren als Präsident oder als Schriftführer, durch protokollierte Wortmeldung in einer Sitzung des Deutschen Bundestages, durch Teilnahme an einer namentlichen Abstimmung oder einer Wahl mit Namensaufruf, durch Eintragung in die Anwesenheitsliste eines Ausschusses oder eines sonstigen Gremiums des Bundestages, durch Wortmeldungen in einem Ausschuss oder einem sonstigen Gremium des Bundestages, durch Eintragung in die Anwesenheitsliste des Ältestenrates oder durch eine für den Sitzungstag genehmigte und durchgeführte Dienstreise.
+(1) An jedem Sitzungstag wird eine Anwesenheitsliste ausgelegt. Der Präsident bestimmt im Benehmen mit dem Ältestenrat, welche Tage als Sitzungstage gelten und in welcher Zeit die Anwesenheitsliste ausgelegt wird.
 
-(2) Einem Mitglied des Bundestages, das an einer namentlichen Abstimmung oder einer Wahl mit Namensaufruf nicht teilnimmt, werden 100 Euro von der monatlichen Kostenpauschale abgezogen. Das gilt nicht, wenn der Präsident das Mitglied beurlaubt hat, ein Abzug nach Absatz 1 erfolgt oder in den Fällen des Absatzes 1 Satz 6.
+(2) Trägt sich ein Mitglied des Bundestages nicht in die Anwesenheitsliste ein, werden ihm 200 Euro von der Kostenpauschale einbehalten. Der einzubehaltende Betrag erhöht sich auf 300 Euro, wenn ein Mitglied an einem Plenarsitzungstag sich nicht in die Anwesenheitsliste eingetragen hat und nicht entschuldigt war. Der Kürzungsbetrag verringert sich auf 20 Euro, wenn ein Mitglied des Bundestages einen Aufenthalt in einem Krankenhaus oder in einem Sanatorium oder die Arbeitsunfähigkeit ärztlich nachweist. Während der Mutterschutzfristen infolge Schwangerschaft, bis zum Ablauf von sieben Tagen nach der Geburt des Kindes für den anderen Elternteil oder wenn ein Mitglied des Bundestages ein ärztlich nachgewiesen erkranktes, in seinem Haushalt lebendes Kind, das das 14. Lebensjahr noch nicht vollendet hat, mangels anderer im Haushalt dafür zur Verfügung stehender Aufsichtspersonen persönlich betreuen muss, führt die Nichteintragung in die Anwesenheitsliste nicht zu einer Kürzung der Kostenpauschale.
+
+(3) Die Eintragung in die Anwesenheitsliste wird vom Zeitpunkt der Auslegung an ersetzt durch
+
+1. das Amtieren als Präsident oder als Schriftführer,
+
+2. eine protokollierte Wortmeldung in einer Sitzung des Deutschen Bundestages,
+
+3. die Teilnahme an einer namentlichen Abstimmung oder einer Wahl mit Namensaufruf,
+
+4. die Eintragung in die Anwesenheitsliste eines Ausschusses oder eines sonstigen Gremiums des Bundestages,
+
+5. eine Wortmeldung in einem Ausschuss oder einem sonstigen Gremium des Bundestages,
+
+6. die Eintragung in die Anwesenheitsliste des Ältestenrates oder
+
+7. eine für den Sitzungstag genehmigte und durchgeführte Dienstreise oder eine dem Präsidenten angezeigte und für die Bundesregierung durchgeführte Dienstreise.
+
+(4) Einem Mitglied des Bundestages, das an einer namentlichen Abstimmung oder einer Wahl mit Namensaufruf nicht teilnimmt, werden 200 Euro von der monatlichen Kostenpauschale abgezogen. Das gilt nicht in den Fällen des Absatzes 2 und des Absatzes 3 Nummer 7.
 
 # § 15 – Bezug anderer Tage- oder Sitzungsgelder
 
@@ -484,13 +502,21 @@ Zeiten der Mitgliedschaft im Bundestag, die vor Inkrafttreten dieses Gesetzes li
 
 (3) Die Genehmigung darf nur versagt werden, wenn die Aussage oder Erklärung dem Wohl des Bundes oder eines Landes Nachteile bereiten oder die Erfüllung öffentlicher Aufgaben ernstlich gefährden oder erheblich erschweren würde.
 
-# § 44e – Ordnungsmaßnahmen gegen Mitglieder
+# § 44e – Ordnungsmaßnahmen wegen Verletzung der Ordnung oder der Würde des Bundestages
 
-((1) Wegen einer nicht nur geringfügigen Verletzung der Ordnung oder der Würde des Bundestages bei dessen Sitzungen kann der Präsident gegen ein Mitglied des Bundestages ein Ordnungsgeld in Höhe von 1 000 Euro festsetzen. Im Wiederholungsfall erhöht sich das Ordnungsgeld auf 2 000 Euro. Bei gröblicher Verletzung der Ordnung oder der Würde des Bundestages kann das Mitglied für die Dauer der Sitzung aus dem Saal verwiesen und bis zu 30 Sitzungstage von der Teilnahme an Sitzungen des Bundestages und seiner Gremien ausgeschlossen werden. Das Nähere regelt die Geschäftsordnung des Bundestages.
+(1) Wegen einer nicht nur geringfügigen Verletzung der Ordnung oder der Würde des Bundestages bei dessen Sitzungen kann der Präsident gegen ein Mitglied des Bundestages ein Ordnungsgeld in Höhe von 2 000 Euro festsetzen. Im Wiederholungsfall erhöht sich das Ordnungsgeld auf 4 000 Euro. Ist ein Mitglied des Bundestages innerhalb von drei Sitzungswochen dreimal zur Ordnung gerufen worden, setzt der sitzungsleitende Präsident mit dem Erlass des dritten Ordnungsrufes zugleich ein Ordnungsgeld gegen das Mitglied fest. Dies gilt nicht, sofern gegen das Mitglied bereits eine Maßnahme nach Absatz 2 Satz 2 ausgesprochen wurde.
 
-(2) Wegen einer nicht nur geringfügigen Verletzung der Hausordnung des Bundestages kann der Präsident gegen ein Mitglied des Bundestages ein Ordnungsgeld in Höhe von 1 000 Euro festsetzen. Im Wiederholungsfall erhöht sich das Ordnungsgeld auf 2 000 Euro; ein Wiederholungsfall liegt in der Regel vor, wenn das betroffene Mitglied innerhalb von sechs Monaten erneut Anlass für die Festsetzung eines Ordnungsgeldes wegen einer nicht nur geringfügigen Verletzung der Hausordnung gegeben hat.
+(2) Bei gröblicher Verletzung der Ordnung oder der Würde des Bundestages kann das Mitglied für die Dauer der Sitzung aus dem Saal verwiesen und bis zu 30 Sitzungstage von der Teilnahme an Sitzungen des Bundestages und seiner Gremien ausgeschlossen werden. Ist ein Mitglied des Bundestages dreimal während einer Sitzung zur Ordnung gerufen, verweist es der sitzungsleitende Präsident für die Dauer der Sitzung aus dem Saal.
 
-(3) Zuständiges Gericht für Streitigkeiten über Maßnahmen und Entscheidungen nach den Absätzen 1 und 2 ist das Bundesverfassungsgericht.
+(3) Das Nähere regelt die Geschäftsordnung des Bundestages.
+
+(4) Zuständiges Gericht für Streitigkeiten über Maßnahmen und Entscheidungen nach den Absätzen 1 und 2 ist das Bundesverfassungsgericht.
+
+# § 44f – Ordnungsmaßnahmen wegen Verletzung der Hausordnung
+
+(1) Wegen einer nicht nur geringfügigen Verletzung der Hausordnung des Bundestages kann der Präsident gegen ein Mitglied des Bundestages ein Ordnungsgeld in Höhe von 2 000 Euro festsetzen. Im Wiederholungsfall erhöht sich das Ordnungsgeld auf 4 000 Euro; ein Wiederholungsfall liegt in der Regel vor, wenn das betroffene Mitglied innerhalb von sechs Monaten erneut Anlass für die Festsetzung eines Ordnungsgeldes wegen einer nicht nur geringfügigen Verletzung der Hausordnung gegeben hat.
+
+(2) Zuständiges Gericht für Streitigkeiten über Maßnahmen und Entscheidungen nach Absatz 1 ist das Bundesverfassungsgericht.
 
 # § 45 – Anzeigepflicht
 

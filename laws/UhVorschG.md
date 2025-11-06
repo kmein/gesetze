@@ -95,7 +95,7 @@ Die Unterhaltsleistung wird bis zum Entfallen des Anspruchs auf die Unterhaltsle
 
 (4) Der Elternteil, bei dem der Berechtigte lebt, und der gesetzliche Vertreter des Berechtigten sind verpflichtet, der zuständigen Stelle die Änderungen in den Verhältnissen, die für die Leistung erheblich sind oder über die im Zusammenhang mit der Leistung Erklärungen abgegeben worden sind, unverzüglich mitzuteilen.
 
-(5) Die nach § 69 des Zehnten Buches Sozialgesetzbuch zur Auskunft befugten Sozialleistungsträger und anderen Stellen sowie die Finanzämter sind verpflichtet, der zuständigen Stelle auf Verlangen Auskünfte über den Wohnort, den Arbeitgeber und die Höhe der Einkünfte des in Absatz 1 bezeichneten Elternteils zu erteilen, soweit die Durchführung dieses Gesetzes es erfordert.
+(5) Die nach § 69 des Zehnten Buches Sozialgesetzbuch zur Auskunft befugten Sozialleistungsträger und anderen Stellen sowie die Finanzämter sind verpflichtet, der zuständigen Stelle auf Verlangen Auskünfte über den Wohnort, den Arbeitgeber und die Höhe der Einkünfte des in Absatz 1 bezeichneten Elternteils zu erteilen, soweit die Durchführung dieses Gesetzes es erfordert. Zur Erfüllung der Aufgaben nach diesem Buch dürfen die zuständigen Stellen Auskunft aus dem Ausländerzentralregister einholen.
 
 (6) Die zuständigen Stellen dürfen das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in § 93b Absatz 1 der Abgabenordnung bezeichneten Daten abzurufen, soweit die Durchführung des § 7 dies erfordert und ein vorheriges Auskunftsersuchen an den in Absatz 1 bezeichneten Elternteil nicht zum Ziel geführt hat oder keinen Erfolg verspricht (§ 93 Absatz 8 Satz 2 der Abgabenordnung).
 

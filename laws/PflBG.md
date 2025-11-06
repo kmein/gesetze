@@ -128,7 +128,7 @@ i) Anleitung, Beratung und Unterstützung von anderen Berufsgruppen und Ehrenamt
 
 (2) Der theoretische und praktische Unterricht wird an staatlichen, staatlich genehmigten oder staatlich anerkannten Pflegeschulen nach § 9 auf der Grundlage eines von der Pflegeschule zu erstellenden schulinternen Curriculums erteilt. Das schulinterne Curriculum wird auf der Grundlage der Empfehlungen des Rahmenlehrplans nach § 53 Absatz 1 und 2 und der Vorgaben der Ausbildungs- und Prüfungsverordnung nach § 56 Absatz 1 und 2 erstellt. Die Länder können unter Beachtung der Vorgaben der Ausbildungs- und Prüfungsverordnung einen verbindlichen Lehrplan als Grundlage für die Erstellung der schulinternen Curricula der Pflegeschulen erlassen.
 
-(3) Die praktische Ausbildung wird in den Einrichtungen nach § 7 auf der Grundlage eines vom Träger der praktischen Ausbildung zu erstellenden Ausbildungsplans durchgeführt. Sie gliedert sich in Pflichteinsätze, einen Vertiefungseinsatz sowie weitere Einsätze. Wesentlicher Bestandteil der praktischen Ausbildung ist die von den Einrichtungen zu gewährleistende Praxisanleitung im Umfang von mindestens 10 Prozent der während eines Einsatzes zu leistenden praktischen Ausbildungszeit. Die Pflegeschule unterstützt die praktische Ausbildung durch die von ihr in angemessenem Umfang zu gewährleistende Praxisbegleitung. Auf der Grundlage einer Genehmigung der zuständigen Behörde kann ein geringer Anteil eines jeden Einsatzes der praktischen Ausbildung durch praktische Lerneinheiten an der Pflegeschule ersetzt werden.
+(3) Die praktische Ausbildung wird in den Einrichtungen nach § 7 auf der Grundlage eines vom Träger der praktischen Ausbildung zu erstellenden Ausbildungsplans durchgeführt. Sie gliedert sich in Pflichteinsätze, einen Vertiefungseinsatz sowie weitere Einsätze. Wesentlicher Bestandteil der praktischen Ausbildung ist die von den Einrichtungen zu gewährleistende Praxisanleitung im Umfang von mindestens 10 Prozent der während eines Einsatzes zu leistenden praktischen Ausbildungszeit. Die Pflegeschule unterstützt die praktische Ausbildung durch die von ihr in angemessenem Umfang zu gewährleistende Praxisbegleitung. Auf der Grundlage einer Genehmigung der zuständigen Behörde kann ein geringer Anteil der praktischen Ausbildung durch praktische Lerneinheiten an der Pflegeschule oder beim Träger der praktischen Ausbildung ersetzt werden.
 
 (4) Die Pflegeschule, der Träger der praktischen Ausbildung und die weiteren an der praktischen Ausbildung beteiligten Einrichtungen wirken bei der Ausbildung auf der Grundlage entsprechender Kooperationsverträge zusammen.
 
@@ -186,7 +186,7 @@ i) Anleitung, Beratung und Unterstützung von anderen Berufsgruppen und Ehrenamt
 
 (2) Das Verhältnis nach Absatz 1 Nummer 2 soll für die hauptberuflichen Lehrkräfte mindestens einer Vollzeitstelle auf 20 Ausbildungsplätze entsprechen. Eine geringere Anzahl von hauptberuflichen Lehrkräften ist nur vorübergehend zulässig.
 
-(3) Die Länder können durch Landesrecht das Nähere zu den Mindestanforderungen nach den Absätzen 1 und 2 bestimmen und weitere, auch darüber hinausgehende Anforderungen festlegen. Sie können für die Lehrkräfte für die Durchführung des theoretischen Unterrichts nach Absatz 1 Nummer 2 befristet bis zum 31. Dezember 2029 regeln, inwieweit die erforderliche Hochschulausbildung nicht oder nur für einen Teil der Lehrkräfte auf Master- oder vergleichbarem Niveau vorliegen muss.
+(3) Die Länder können durch Landesrecht das Nähere zu den Mindestanforderungen nach den Absätzen 1 und 2 bestimmen und weitere, auch darüber hinausgehende Anforderungen festlegen. Sie können für die Lehrkräfte für die Durchführung des theoretischen Unterrichts nach Absatz 1 Nummer 2 befristet bis zum 31. Dezember 2035 regeln, inwieweit die erforderliche Hochschulausbildung nicht oder nur für einen Teil der Lehrkräfte auf Master- oder vergleichbarem Niveau vorliegen muss.
 
 # § 10 – Gesamtverantwortung der Pflegeschule
 
@@ -274,7 +274,7 @@ nach Maßgabe der Ausbildungs- und Prüfungsverordnung,
 
 # § 16 – Ausbildungsvertrag
 
-(1) Zwischen dem Träger der praktischen Ausbildung und der oder dem Auszubildenden ist ein schriftlicher Ausbildungsvertrag nach Maßgabe der Vorschriften dieses Abschnitts zu schließen.
+(1) Zwischen dem Träger der praktischen Ausbildung und der oder dem Auszubildenden ist ein Ausbildungsvertrag nach Maßgabe der Vorschriften dieses Abschnitts zu schließen.
 
 (2) Der Ausbildungsvertrag muss mindestens Folgendes enthalten:
 
@@ -302,13 +302,13 @@ nach Maßgabe der Ausbildungs- und Prüfungsverordnung,
 
 12. die Form des Ausbildungsnachweises nach § 17 Satz 2 Nummer 3.
 
-(3) Der Ausbildungsvertrag ist von einer vertretungsberechtigten Person des Trägers der praktischen Ausbildung und der oder dem Auszubildenden, bei Minderjährigen auch von deren gesetzlichen Vertretern, zu unterzeichnen. Eine Ausfertigung des unterzeichneten Ausbildungsvertrages ist der oder dem Auszubildenden und deren gesetzlichen Vertretern auszuhändigen.
+(3) Der Abschluss des Ausbildungsvertrages bedarf der Textform. Die Vertragsabfassung und den Empfangsnachweis hat der Träger der praktischen Ausbildung nach Ablauf des Jahres, in dem das Ausbildungsverhältnis beendet wurde, drei Jahre lang aufzubewahren.
 
 (4) Auf den Ausbildungsvertrag sind, soweit sich aus seinem Wesen und Zweck sowie aus diesem Gesetz nichts anderes ergibt, die für Arbeitsverträge geltenden Rechtsvorschriften und Rechtsgrundsätze anzuwenden.
 
-(5) Änderungen des Ausbildungsvertrages bedürfen der Schriftform. Auch eine Änderung des Vertiefungseinsatzes ist bis zu dessen Beginn jederzeit in beiderseitigem Einverständnis möglich. Die Absätze 2 bis 4 gelten entsprechend.
+(5) Änderungen des Ausbildungsvertrages bedürfen der Textform. Auch eine Änderung des Vertiefungseinsatzes ist bis zu dessen Beginn jederzeit in beiderseitigem Einverständnis möglich. Die Absätze 2 bis 4 gelten entsprechend.
 
-(6) Der Ausbildungsvertrag bedarf zu seiner Wirksamkeit im Falle des § 8 Absatz 2 Nummer 2 der schriftlichen Zustimmung der Pflegeschule. Liegt die Zustimmung bei Vertragsschluss nicht vor, ist sie unverzüglich durch den Träger der praktischen Ausbildung einzuholen. Hierauf ist der oder die Auszubildende und sind bei minderjährigen Auszubildenden auch deren gesetzliche Vertreter hinzuweisen.
+(6) Der Ausbildungsvertrag bedarf zu seiner Wirksamkeit im Falle des § 8 Absatz 2 Nummer 2 der Zustimmung der Pflegeschule in Textform. Liegt die Zustimmung bei Vertragsschluss nicht vor, ist sie unverzüglich durch den Träger der praktischen Ausbildung einzuholen. Hierauf ist der oder die Auszubildende und sind bei minderjährigen Auszubildenden auch deren gesetzliche Vertreter hinzuweisen.
 
 (+++ § 16: Zur Nichtanwendung vgl. § 25 +++)
 
@@ -322,7 +322,7 @@ Die oder der Auszubildende hat sich zu bemühen, die in § 5 genannten Kompetenz
 
 3. einen schriftlichen oder elektronischen Ausbildungsnachweis zu führen,
 
-4. die für Beschäftigte in den Einrichtungen nach § 7 geltenden Bestimmungen über die Schweigepflicht einzuhalten und über Betriebsgeheimnisse Stillschweigen zu wahren und
+4. die für Beschäftigte in den Einrichtungen nach § 7 geltenden Bestimmungen über die Schweigepflicht einzuhalten und über Geschäftsgeheimnisse Stillschweigen zu wahren und
 
 5. die Rechte der zu pflegenden Menschen zu achten.
 
@@ -366,7 +366,7 @@ Das Ausbildungsverhältnis beginnt mit der Probezeit. Die Probezeit beträgt sec
 
 (1) Das Ausbildungsverhältnis endet unabhängig vom Zeitpunkt der staatlichen Abschlussprüfung mit Ablauf der Ausbildungszeit.
 
-(2) Besteht die oder der Auszubildende die staatliche Prüfung nicht oder kann sie oder er ohne eigenes Verschulden die staatliche Prüfung nicht vor Ablauf der Ausbildung ablegen, so verlängert sich das Ausbildungsverhältnis auf schriftliches Verlangen gegenüber dem Träger der praktischen Ausbildung bis zur nächstmöglichen Wiederholungsprüfung, höchstens jedoch um ein Jahr.
+(2) Besteht die oder der Auszubildende die staatliche Prüfung nicht oder kann sie oder er ohne eigenes Verschulden die staatliche Prüfung nicht vor Ablauf der Ausbildung ablegen, so verlängert sich das Ausbildungsverhältnis auf Verlangen in Textform gegenüber dem Träger der praktischen Ausbildung bis zur nächstmöglichen Wiederholungsprüfung, höchstens jedoch um ein Jahr.
 
 (+++ § 21: Zur Nichtanwendung vgl. § 25 +++)
 
@@ -376,11 +376,11 @@ Das Ausbildungsverhältnis beginnt mit der Probezeit. Die Probezeit beträgt sec
 
 (2) Nach der Probezeit kann das Ausbildungsverhältnis nur gekündigt werden
 
-1. von jedem Vertragspartner ohne Einhalten einer Kündigungsfrist bei Vorliegen eines wichtigen Grundes,
+1. von jedem Vertragspartner ohne Einhalten einer Kündigungsfrist bei Vorliegen eines wichtigen Grundes oder
 
 2. von der oder dem Auszubildenden mit einer Kündigungsfrist von vier Wochen.
 
-(3) Die Kündigung muss schriftlich erfolgen. Bei einer Kündigung durch den Träger der praktischen Ausbildung ist das Benehmen mit der Pflegeschule herzustellen. In den Fällen des Absatzes 2 Nummer 1 sind die Kündigungsgründe anzugeben.
+(3) Die Kündigung muss schriftlich erfolgen; die elektronische Form ist ausgeschlossen. Bei einer Kündigung durch den Träger der praktischen Ausbildung ist das Benehmen mit der Pflegeschule herzustellen. In den Fällen des Absatzes 2 Nummer 1 sind die Kündigungsgründe anzugeben.
 
 (4) Eine Kündigung aus einem wichtigen Grund ist unwirksam, wenn die ihr zugrunde liegenden Tatsachen der kündigungsberechtigten Person länger als 14 Tage bekannt sind. Ist ein vorgesehenes Güteverfahren vor einer außergerichtlichen Stelle eingeleitet, so wird bis zu dessen Beendigung der Lauf dieser Frist gehemmt.
 
@@ -476,7 +476,7 @@ werden die Kosten der Pflegeausbildung nach den Teilen 2 und 5 durch Ausgleichsf
 
 (4) Soweit Ausbildungskosten nach anderen Vorschriften aufgebracht werden, ist dies bei der Festlegung des Ausbildungsbudgets mindernd zu berücksichtigen.
 
-(5) Das Ausbildungsbudget erfolgt als Pauschalbudget nach § 30. Es wird als Individualbudget vereinbart, wenn dies das jeweilige Land oder die Parteien nach Absatz 6 übereinstimmend bis zum 15. Januar des Vorjahres des Finanzierungszeitraums schriftlich erklären. Diese Erklärungen können auch nur für die Finanzierung der Träger der praktischen Ausbildung, die Finanzierung der Pflegeschulen oder die Finanzierung der zusätzlichen Ausbildung nach § 14, auch in Verbindung mit § 37 Absatz 5, abgegeben werden.
+(5) Das Ausbildungsbudget erfolgt als Pauschalbudget nach § 30. Es wird als Individualbudget vereinbart, wenn dies das jeweilige Land oder die Parteien nach Absatz 6 übereinstimmend bis zum 15. Januar des Vorjahres des Finanzierungszeitraums in Textform erklären. Diese Erklärungen können auch nur für die Finanzierung der Träger der praktischen Ausbildung, die Finanzierung der Pflegeschulen oder die Finanzierung der zusätzlichen Ausbildung nach § 14, auch in Verbindung mit § 37 Absatz 5, abgegeben werden.
 
 (6) Die Erklärungen der Parteien nach Absatz 5 erfolgen für die Finanzierung der Träger der praktischen Ausbildung von den Parteien nach § 30 Absatz 1 Satz 1 und für die Finanzierung der Pflegeschulen von den Parteien nach § 30 Absatz 1 Satz 2. Eine ausdrückliche Enthaltungserklärung ist zulässig. Ist eine der Parteien durch mehrere Vertreter vertreten, gilt die Erklärung der Partei dann als abgegeben, wenn entsprechende Erklärungen von der jeweiligen Mehrheit der Vertreter dieser Partei abgegeben worden sind.
 
@@ -542,9 +542,9 @@ Schätzungen nach § 30 Absatz 5 und § 31 Absatz 5 stehen den bei der Ermittlun
 
 (3) Der von den Trägern der Einrichtungen nach § 7 Absatz 1 Nummer 1 zu zahlende Anteil kann als Teilbetrag des Ausbildungszuschlags je voll- und teilstationärem Fall nach § 17a Absatz 5 Satz 1 Nummer 2 des Krankenhausfinanzierungsgesetzes oder als eigenständiger Ausbildungszuschlag je voll- und teilstationärem Fall aufgebracht werden. Vereinbart wird die Höhe des Zuschlags oder des Teilbetrages durch die Vertragsparteien nach § 18 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes. Die Vertragsparteien teilen der zuständigen Stelle gemeinsam die Höhe des vereinbarten Zuschlags oder des Teilbetrages mit, die diesen Zuschlag als Umlagebetrag gegenüber den Einrichtungen nach Absatz 1 Nummer 1 festsetzt.
 
-(4) Der von den Trägern der Einrichtungen nach § 7 Absatz 1 Nummer 2 und 3 zu zahlende Anteil nach Absatz 1 Nummer 2 wird über Ausbildungszuschläge aufgebracht. Die zuständige Stelle setzt gegenüber jeder Einrichtung den jeweils zu entrichtenden Umlagebetrag fest. Dafür wird der Anteil nach Absatz 1 Nummer 2 auf die Sektoren „voll- und teilstationär“ und „ambulant“ im Verhältnis der in diesen Sektoren beschäftigten Pflegefachkräfte aufgeschlüsselt. Einzelheiten zu dem Verfahren werden durch eine Umlageordnung nach § 56 Absatz 3 Nummer 3 festgelegt. Die Länder können ergänzende Regelungen erlassen.
+(4) Der von den Trägern der Einrichtungen nach § 7 Absatz 1 Nummer 2 und 3 zu zahlende Anteil nach Absatz 1 Nummer 2 wird über Ausbildungszuschläge aufgebracht. Die zuständige Stelle setzt gegenüber jeder Einrichtung den jeweils zu entrichtenden Umlagebetrag fest. Dafür wird der Anteil nach Absatz 1 Nummer 2 auf die Sektoren „voll- und teilstationär“ und „ambulant“ im Verhältnis der in diesen Sektoren beschäftigten Pflegefachkräfte aufgeschlüsselt. Einzelheiten zu dem Verfahren, einschließlich der Festlegung, welche Pflegefachkräfte in einem Sektor berücksichtigt werden, werden durch eine Umlageordnung nach § 56 Absatz 3 Nummer 3 festgelegt. Die Länder können ergänzende Regelungen erlassen.
 
-(5) Die Zahlungen nach Absatz 1 Nummer 3 und 4 erfolgen je Finanzierungszeitraum als Einmalzahlung zwei Monate vor Fälligkeit der ersten Ausgleichszahlung. Die Direktzahlung der sozialen Pflegeversicherung sowie die Erstattung der privaten Pflege-Pflichtversicherung nach Absatz 1 Nummer 4 werden aus Mitteln des Ausgleichsfonds nach § 65 des Elften Buches Sozialgesetzbuch oder an den Ausgleichsfonds erbracht. § 45c Absatz 8 des Elften Buches Sozialgesetzbuch gilt entsprechend.
+(5) Die Zahlung nach Absatz 1 Nummer 3 erfolgt je Finanzierungszeitraum als Einmalzahlung zwei Monate vor Fälligkeit der ersten Ausgleichszahlung. Die Zahlung nach Absatz 1 Nummer 4 erfolgt je Finanzierungszeitraum als Einmalzahlung einen Monat vor Fälligkeit der ersten Ausgleichszahlung. Die Direktzahlung der sozialen Pflegeversicherung sowie die Erstattung der privaten Pflege-Pflichtversicherung nach Absatz 1 Nummer 4 werden aus Mitteln des Ausgleichsfonds nach § 65 des Elften Buches Sozialgesetzbuch oder an den Ausgleichsfonds erbracht. § 45c Absatz 8 des Elften Buches Sozialgesetzbuch gilt entsprechend.
 
 (6) Die in § 30 Absatz 1 Satz 1 genannten Beteiligten auf Landesebene vereinbaren die erforderlichen Verfahrensregelungen im Zusammenhang mit der Einzahlung der Finanzierungsmittel und den in Rechnung zu stellenden Zuschlägen. Hierzu gehören insbesondere Vorgaben zur Verzinsung ausstehender Einzahlungen, die mit einem Zinssatz von 8 Prozent über dem Basiszinssatz nach § 247 Absatz 1 des Bürgerlichen Gesetzbuchs zu verzinsen sind, oder Einzelheiten zur Abweichung von dem Zeitpunkt der Einzahlung einschließlich der Möglichkeit von anteiligen Einzahlungen nach Absatz 1 Nummer 3, sofern die Liquidität des Ausgleichsfonds zum Zeitpunkt der Auszahlung der Ausgleichszuweisung im entsprechenden Finanzierungszeitraum weiterhin sichergestellt ist. Kommt eine Vereinbarung nicht zustande, entscheidet die Schiedsstelle nach § 36 auf Antrag eines Beteiligten.
 
@@ -560,7 +560,7 @@ Rechtsverordnungen nach Satz 3 sind dem Bundestag zuzuleiten. Die Zuleitung erfo
 
 # § 34 – Ausgleichszuweisungen
 
-(1) Die Ausgleichszuweisungen erfolgen an den Träger der praktischen Ausbildung und an die Pflegeschule in monatlichen Beträgen entsprechend dem nach § 29 festgesetzten Ausbildungsbudget durch die zuständige Stelle. Die Ausgleichszuweisungen sind zweckgebunden für die Ausbildung zu verwenden. Abweichungen zwischen der Zahl der Ausbildungsplätze, die der Meldung nach § 30 Absatz 4 oder der Budgetvereinbarung nach § 31 zugrunde gelegt worden sind, und der tatsächlichen Anzahl der Ausbildungsplätze teilt der Träger der praktischen Ausbildung der zuständigen Stelle mit; er beziffert die aufgrund der Abweichung anfallenden Mehr- oder Minderausgaben. Minderausgaben sind bei den monatlichen Ausgleichzuweisungen vollständig zu berücksichtigen; Mehrausgaben sind zu berücksichtigen, soweit die Liquiditätsreserve dies zulässt. Entsprechende Mitteilungspflichten haben die Pflegeschulen.
+(1) Die Ausgleichszuweisungen erfolgen an den Träger der praktischen Ausbildung und an die Pflegeschule in monatlichen Beiträgen entsprechend dem nach § 29 festgesetzten Ausbildungsbudget durch die zuständige Stelle. Die Ausgleichszuweisungen sind zweckgebunden für die Ausbildung zu verwenden. Bestehen begründete Zweifel an der zweckgebundenen Verwendung der Ausgleichszuweisungen oder an der Geeignetheit einer Einrichtung im Sinne des § 7 Absatz 5, kann die Ausgleichszuweisung vorläufig bis zur Entscheidung über die Geeignetheit ausgesetzt werden. Die Verpflichtungen des Trägers der praktischen Ausbildung bleiben unberührt. Abweichungen zwischen der Zahl der Ausbildungsplätze, die der Meldung nach § 30 Absatz 4 oder der Budgetvereinbarung nach § 31 zugrunde gelegt worden ist, und der tatsächlichen Anzahl der Ausbildungsplätze teilt der Träger der praktischen Ausbildung der zuständigen Stelle mit; er beziffert die aufgrund der Abweichung anfallenden Mehr- oder Minderausgaben. Minderausgaben sind bei den monatlichen Ausgleichszuweisungen vollständig zu berücksichtigen; Mehrausgaben sind zu berücksichtigen, soweit die Liquiditätsreserve dies zulässt. Entsprechende Mitteilungspflichten haben die Pflegeschulen.
 
 (2) Der Träger der praktischen Ausbildung hat die in den Ausgleichszuweisungen enthaltenen Kosten der übrigen Kooperationspartner und im Falle des § 31 Absatz 1 Satz 2 der Pflegeschulen auf Grundlage der Kooperationsverträge und im Falle von Individualbudgets nach § 31 unter Berücksichtigung der vereinbarten Ausbildungsbudgets an diese weiterzuleiten.
 
@@ -755,33 +755,27 @@ ist die Erlaubnis zu erteilen, wenn die zuständigen Behörden der jeweiligen Mi
 
 (2) Antragstellende Personen, die die Voraussetzungen nach § 2 Nummer 2 bis 4 erfüllen und die eine Erlaubnis nach § 1 aufgrund der Vorlage eines Ausbildungsnachweises beantragen, der in Polen für Krankenschwestern und Krankenpfleger verliehen worden ist, deren Ausbildung vor dem 1. Mai 2004 abgeschlossen wurde und den Mindestanforderungen an die Berufsausbildung gemäß Artikel 31 der Richtlinie 2005/36/EG nicht genügte, ist die Erlaubnis zu erteilen, wenn ihm ein Bakkalaureat-Diplom beigefügt ist, das auf der Grundlage eines Aufstiegsfortbildungsprogramms erworben wurde, das in einem der in Artikel 33 Absatz 3 Buchstabe b Doppelbuchstabe i oder Doppelbuchstabe ii der Richtlinie 2005/36/EG genannten Gesetze enthalten ist.
 
-(3) Antragstellende Personen, die die Erlaubnis nach § 1 aufgrund einer in Rumänien abgeleisteten Ausbildung im Beruf der Krankenschwester oder des Krankenpflegers, die für die allgemeine Pflege verantwortlich sind, beantragen, die den Mindestanforderungen an die Berufsausbildung des Artikels 31 der Richtlinie 2005/36/EG nicht genügt, erhalten die Erlaubnis, wenn sie über ein
+(3) Antragstellende Personen, die die Erlaubnis nach § 1 aufgrund einer in Rumänien absolvierten Ausbildung im Beruf der Krankenschwester oder des Krankenpflegers für die allgemeine Pflege beantragen, die den Mindestanforderungen an die Berufsausbildung des Artikels 31 der Richtlinie 2005/36/EG nicht genügt, erhalten die Erlaubnis, wenn sie die Voraussetzungen nach § 2 Nummer 2 bis 4 erfüllen und
 
-1. ‚Certificat de competen
+1. über ein
 
-ţe profesionale de asistent medical generalist‘ mit einer postsekundären Ausbildung an einer ‚
+a) „Certificat de competențe profesionale de asistent medical generalist“ mit einer postsekundären Ausbildung an einer „școală postliceală“, dem eine Bescheinigung beigefügt ist, dass die Ausbildung vor dem 1. Januar 2007 begonnen wurde,
 
-şcoal
+b) „Diplomă de absolvire de asistent medical generalist“ mit einer Hochschulausbildung von kurzer Dauer, dem eine Bescheinigung beigefügt ist, dass die Ausbildung vor dem 1. Oktober 2003 begonnen wurde, oder
 
-ă postliceal
+c) „Diplomă de licenţă de asistent medical generalist“ mit einer Hochschulausbildung von langer Dauer, dem eine Bescheinigung beigefügt ist, dass die Ausbildung vor dem 1. Oktober 2003 begonnen wurde,
 
-ă‘, dem eine Bescheinigung beigefügt ist, dass die Ausbildung vor dem 1. Januar 2007 begonnen wurde,
+verfügen, dem eine Bescheinigung beigefügt ist, aus der hervorgeht, dass die antragstellenden Personen während der letzten fünf Jahre vor Ausstellung der Bescheinigung mindestens drei Jahre lang den Beruf der Krankenschwester oder des Krankenpflegers für die allgemeine Pflege in Rumänien ununterbrochen tatsächlich und rechtmäßig ausgeübt haben und dabei die volle Verantwortung für die Planung, die Organisation und die Ausführung der Krankenpflege der Patienten hatten, oder
 
-2. ‚Diplom
+2. über einen in Nummer 1 Buchstabe b oder c genannten Ausbildungsnachweis verfügen und diesem der nach Artikel 33a Absatz 2 Buchstabe b der Richtlinie 2005/36/EG auf der Grundlage eines speziellen Aufstiegsfortbildungsprogramms erworbene Ausbildungsnachweis beigefügt ist, oder
 
-ă des absolvire des asistent medical generalist‘ mit einer Hochschulausbildung von kurzer Dauer, dem eine Bescheinigung beigefügt ist, dass die Ausbildung vor dem 1. Oktober 2003 begonnen wurde, oder
-
-3. ‚Diplomy
-
-ă de licen
-
-ţă de asistent medical generalist‘ mit einer Hochschulausbildung von langer Dauer, dem eine Bescheinigung beigefügt ist, dass die Ausbildung vor dem 1. Oktober 2003 begonnen wurde,
-
-verfügen, dem eine Bescheinigung beigefügt ist, aus der hervorgeht, dass die antragstellenden Personen während der letzten fünf Jahre vor Ausstellung der Bescheinigung mindestens drei Jahre lang den Beruf der Krankenschwester und des Krankenpflegers, die für die allgemeine Pflege verantwortlich sind, in Rumänien ununterbrochen tatsächlich und rechtmäßig ausgeübt haben und sie die Voraussetzungen nach § 2 Nummer 2 bis 4 erfüllen. Absatz 1 Satz 2 gilt entsprechend.
+3. über Nachweise der postsekundären Ausbildung und über den Ausbildungsnachweis des speziellen Aufstiegsfortbildungsprogramms nach Artikel 33a Absatz 2 Buchstabe c der Richtlinie 2005/36/EG verfügen.
 
 (4) Antragstellende Personen, die nicht unter die Absätze 1 bis 3 fallen, die Voraussetzungen nach § 2 Nummer 2 bis 4 erfüllen und eine Erlaubnis nach § 1 aufgrund der Vorlage eines vor dem nach § 41 Absatz 1 in Verbindung mit Anhang V Nummer 5.2.2. der Richtlinie 2005/36/EG genannten Stichtag ausgestellten Ausbildungsnachweises eines der übrigen Mitgliedstaaten der Europäischen Union beantragen, ist die Erlaubnis zu erteilen, auch wenn dieser Ausbildungsnachweis nicht alle Anforderungen an die Ausbildung nach Artikel 31 der Richtlinie 2005/36/EG erfüllt, sofern dem Antrag eine Bescheinigung darüber beigefügt ist, dass der Inhaber während der letzten fünf Jahre vor Ausstellung der Bescheinigung mindestens drei Jahre lang ununterbrochen tatsächlich und rechtmäßig den Beruf der Pflegefachfrau oder des Pflegefachmanns ausgeübt hat. Absatz 1 Satz 2 gilt entsprechend.
 
-(5) Bei antragstellenden Personen, für die einer der Absätze 1 bis 4 gilt und die die dort genannten Voraussetzungen mit Ausnahme der geforderten Dauer der Berufserfahrung erfüllen, wird das Anerkennungsverfahren nach § 41 Absatz 3 durchgeführt.
+(5) Bei antragstellenden Personen, für die die Absätze 1, 2, 3 Nummer 1 oder Absatz 4 gilt und die die dort genannten Voraussetzungen mit Ausnahme der geforderten Dauer der Berufserfahrung erfüllen, wird das Anerkennungsverfahren nach § 41 Absatz 3 durchgeführt.
+
+(6) Anerkennungen von rumänischen Qualifikationen als Krankenschwester oder Krankenpfleger für die allgemeine Pflege, die vor dem 3. März 2024 entweder gemäß § 41 Absatz 3 oder auf der Grundlage des Krankenpflegegesetzes in der am 31. Dezember 2019 geltenden Fassung erteilt wurden, behalten ihre Gültigkeit, wenn im Fall dieser Personen die Anforderungen nach Artikel 33a der Richtlinie 2005/36/EG in der am 1. Januar 2007 geltenden Fassung oder nach Artikel 33a der Richtlinie 2005/36/EG in der am 17. Januar 2014 geltenden Fassung nicht erfüllt werden.
 
 # § 43 – Feststellungsbescheid
 
@@ -989,7 +983,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 # § 54 – Beratung; Aufbau unterstützender Angebote und Forschung
 
-Das Bundesinstitut für Berufsbildung übernimmt die Aufgabe der Beratung und Information zur Pflegeausbildung nach diesem Gesetz, die Aufgabe des Aufbaus unterstützender Angebote und Strukturen zur Organisation der Pflegeausbildung nach den Teilen 2 und 3 sowie auch zur Unterstützung der Arbeit der Fachkommission die Aufgabe der Forschung zur Pflegeausbildung nach diesem Gesetz und zum Pflegeberuf nach Weisung des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums für Gesundheit.
+Das Bundesinstitut für Berufsbildung übernimmt die Aufgabe der Beratung und Information zur Pflegeausbildung nach diesem Gesetz nach Weisung des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend und des Bundesministeriums für Gesundheit sowie, auch zur Unterstützung der Arbeit der Fachkommission, die Aufgabe der Forschung zur Pflegeausbildung nach diesem Gesetz und zum Pflegeberuf im Auftrag des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend und des Bundesministeriums für Gesundheit.
 
 (+++ § 54: Zur Anwendung vgl. § 59 Abs. 1 +++)
 
@@ -1015,7 +1009,7 @@ Auskunftspflichtig sind die zuständigen Stellen gegenüber den statistischen Ä
 
 2. das Nähere über die staatliche Prüfung nach § 2 Nummer 1, auch in Verbindung mit § 58 Absatz 3, oder nach § 14 Absatz 6 in Verbindung mit § 2 Nummer 1 oder nach § 14 Absatz 7 in Verbindung mit § 2 Nummer 1, jeweils auch in Verbindung mit § 58 Absatz 3 und § 59 Absatz 1, einschließlich der Prüfung nach § 39, auch in Verbindung mit § 37 Absatz 5, hierzu zählen insbesondere jeweils die konkrete Anzahl der prüfenden Personen in der jeweiligen Prüfungssituation, die Voraussetzungen zum Bestehen der Prüfung, die Rolle der oder des Vorsitzenden des Prüfungsausschusses und die Urkunde für die Erlaubnis nach § 1 oder § 58 Absatz 1 oder Absatz 2,
 
-3. das Nähere zur Gliederung und Durchführung der praktischen Ausbildung nach § 6 Absatz 3, einschließlich der Anrechnung von im Ausland durchgeführten Einsätzen, und über die Kooperationsvereinbarungen nach § 6 Absatz 4, auch in Verbindung mit § 59 Absatz 1,
+3. das Nähere zur Gliederung, einschließlich der Stundenverteilung, und Durchführung der praktischen Ausbildung nach § 6 Absatz 3, einschließlich der Anrechnung von im Ausland durchgeführten Einsätzen, und über die Kooperationsvereinbarungen nach § 6 Absatz 4, auch in Verbindung mit § 59 Absatz 1,
 
 4. das Nähere zur Errichtung, Zusammensetzung, Aufwandsentschädigung und Konkretisierung der Aufgaben der Fachkommission nach § 53, auch in Verbindung mit § 59 Absatz 1,
 
@@ -1125,9 +1119,9 @@ einschließlich der erforderlichen Vorgaben zum Erheben, Verarbeiten und Nutzen 
 
 3. die Zahl der Personen nach § 59 Absatz 3, die das Wahlrecht ausüben.
 
-# § 63 – Nichtanwendung des Berufsbildungsgesetzes
+# § 63 – Nichtanwendbarkeit des Berufsbildungsgesetzes
 
-Für die Ausbildung nach diesem Gesetz findet das Berufsbildungsgesetz, soweit nicht die Aufgaben des Bundesinstituts für Berufsbildung nach § 53 Absatz 5 Satz 1 und § 54 in Verbindung mit § 90 Absatz 3a des Berufsbildungsgesetzes betroffen sind, keine Anwendung.
+Für die Ausbildung nach diesem Gesetz findet das Berufsbildungsgesetz mit Ausnahme von § 53 Absatz 5 Satz 1 und § 54 dieses Gesetzes in Verbindung mit § 90 Absatz 3a des Berufsbildungsgesetzes und der Regelungen zur Übertragung weiterer Forschungsaufgaben nach § 90 Absatz 2 Satz 3 in Verbindung mit § 96 Absatz 2 Satz 1 des Berufsbildungsgesetzes keine Anwendung.
 
 # § 64 – Fortgeltung der Berufsbezeichnung
 
@@ -1185,7 +1179,7 @@ die vor Ablauf des 31. Dezember 2019 begonnen wurde, kann bis zum 31. Dezember 2
 
 (1) Eine hochschulische Pflegeausbildung, die auf Grundlage von Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung begonnen wurde, kann bis zum 31. Dezember 2028 auf dieser Grundlage abgeschlossen werden.
 
-(2) Eine studierende Person, die eine hochschulische Pflegeausbildung auf Grundlage von Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung begonnen hat und gemäß Absatz 1 fortsetzt, hat gegenüber der Einrichtung nach § 7 Absatz 1, bei der der überwiegende Teil ihrer Praxiseinsätze stattfindet, einen Anspruch auf Abschluss eines schriftlichen Vertrages für die sich aus dem akkreditierten Studiengangskonzept ergebende weitere Dauer der hochschulischen Pflegeausbildung. Durch den Vertrag wird die Einrichtung nach Satz 1 zur Zahlung einer angemessenen Vergütung an die studierende Person verpflichtet.
+(2) Eine studierende Person, die eine hochschulische Pflegeausbildung auf Grundlage von Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung begonnen hat und gemäß Absatz 1 fortsetzt, hat gegenüber der Einrichtung nach § 7 Absatz 1, bei der der überwiegende Teil ihrer Praxiseinsätze stattfindet, einen Anspruch auf Abschluss eines Vertrages in Textform für die sich aus dem akkreditierten Studiengangskonzept ergebende weitere Dauer der hochschulischen Pflegeausbildung. Durch den Vertrag wird die Einrichtung nach Satz 1 zur Zahlung einer angemessenen Vergütung an die studierende Person verpflichtet.
 
 (3) Der Vertrag nach Absatz 2 muss mindestens Folgendes enthalten:
 
@@ -1221,10 +1215,10 @@ Personen, die bereits über eine Erlaubnis zum Führen der Berufsbezeichnung nac
 
 # § 68 – Evaluierung
 
-(1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit evaluieren bis zum 31. Dezember 2024 die Wirkung des § 11 Absatz 1 Nummer 3 auf wissenschaftlicher Grundlage.
+(1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit evaluieren bis zum 31. Dezember 2027 die Wirkung des § 11 Absatz 1 Nummer 3 auf wissenschaftlicher Grundlage.
 
 (2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit evaluieren bis zum 31. Dezember 2029 die Wirkung der §§ 53 und 54 auf wissenschaftlicher Grundlage.
 
 (3) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit überprüfen bis zum 31. Dezember 2029 die Wirkung des § 67 auf wissenschaftlicher Grundlage im Rahmen einer umfassenden Evaluierung der hochschulischen Ausbildung.
 
-(4) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit evaluieren bis zum 31. Dezember 2025 die Wirkungen des Teils 2 Abschnitt 3 auf wissenschaftlicher Grundlage.
+(4) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit evaluieren bis zum 31. Dezember 2029 die Wirkungen des Teils 2 Abschnitt 3 auf wissenschaftlicher Grundlage.
