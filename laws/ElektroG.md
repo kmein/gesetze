@@ -457,7 +457,7 @@ Die Rücknahme ist auf solche Altgeräte zu beschränken, für deren Behandlung 
 
 # § 18 – Informationspflichten gegenüber den privaten Haushalten
 
-(1) Die öffentlich-rechtlichen Entsorgungsträger informieren die privaten Haushalte über Abfallvermeidungsmaßnahmen sowie die Pflicht nach § 10 Absatz 1. Sie informieren die privaten Haushalte darüber hinaus über Abfallvermeidungsmaßnahmen sowie
+(1) Die öffentlich-rechtlichen Entsorgungsträger informieren die privaten Haushalte über Abfallvermeidungsmaßnahmen sowie die Pflicht nach § 10 Absatz 1. Sie informieren die privaten Haushalte darüber hinaus über
 
 1. die im Gebiet des öffentlich-rechtlichen Entsorgungsträgers durch diesen eingerichteten und zur Verfügung stehenden Möglichkeiten der Rückgabe oder Sammlung von Altgeräten sowie über die Möglichkeiten der Abgabe von Geräten zum Zwecke der Wiederverwendung,
 

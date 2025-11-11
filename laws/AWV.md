@@ -2302,7 +2302,7 @@ Die von der Ausfuhrliste erfassten Güter umfassen sowohl neue als auch gebrauch
 
 4\.
 
-Chemikalien werden in einigen Fällen mit Namen und CAS-Nummer (CAS = Chemical Abstracts Service) aufgeführt. Diese Liste erfasst Chemikalien mit gleichen Strukturformeln, einschließlich Hydrate, unabhängig von Namen oder CAS-Nummer. CAS-Nummern werden angegeben, um die Bestimmung einer Chemikalie oder Mischung unabhängig von ihrer Benennung zu erleichtern. CAS-Nummern können nicht als einziges Identifikationskriterium verwendet werden, da verschiedene Formen einer erfassten Chemikalie verschiedene CAS-Nummern haben und Mischungen, die eine erfasste Chemikalie enthalten, ebenfalls verschiedene CAS‑Nummern haben können.
+Chemikalien werden in einigen Fällen mit Namen und CAS-Nummer (CAS = Chemical Abstracts Service) aufgeführt. Diese Liste erfasst Chemikalien mit gleichen Strukturformeln, einschließlich Hydrate, unabhängig von Namen oder CAS-Nummer. CAS-Nummern werden angegeben, um die Bestimmung einer Chemikalie oder Mischung unabhängig von ihrer Benennung zu erleichtern. CAS-Nummern können nicht als einziges Identifikationskriterium verwendet werden, da verschiedene Formen einer erfassten Chemikalie verschiedene CAS-Nummern haben und Mischungen, die eine erfasste Chemikalie enthalten, ebenfalls verschiedene CAS-Nummern haben können.
 
 5\.
 
@@ -2394,9 +2394,7 @@ d) ‚deaktivierte Feuerwaffen im Sinne der Anlage 1 Abschnitt 1, Unterabschnitt
 
 Technische Anmerkung:
 
-Im Sinne von Nummer 0001 Anmerkung d ist eine ‚Feuerwaffe deaktiviertʻ, wenn sie dauerhaft unbrauchbar gemacht wurde. Dies ist dann der Fall, wenn die Änderungen so vorgenommen werden, dass sie nicht mit allgemein gebräuchlichen Werkzeugen rückgängig gemacht und die Gegenstände nicht so geändert werden können, dass aus ihnen Geschosse, Patronen-
-
-oder pyrotechnische Munition verschossen werden können. Der Nachweis für die Deaktivierung ist nach § 8a des Beschussgesetzes zu erbringen; die Beschussämter sind überprüfende Behörde und erteilen eine Deaktivierungsbescheinigung.
+Im Sinne von Nummer 0001 Anmerkung d ist eine ‚Feuerwaffe deaktiviertʻ, wenn sie dauerhaft unbrauchbar gemacht wurde. Dies ist dann der Fall, wenn die Änderungen so vorgenommen werden, dass sie nicht mit allgemein gebräuchlichen Werkzeugen rückgängig gemacht und die Gegenstände nicht so geändert werden können, dass aus ihnen Geschosse, Patronen- oder pyrotechnische Munition verschossen werden können. Der Nachweis für die Deaktivierung ist nach § 8a des Beschussgesetzes zu erbringen; die Beschussämter sind überprüfende Behörde und erteilen eine Deaktivierungsbescheinigung.
 
 a)
 
@@ -2626,9 +2624,7 @@ Bomben, Torpedos, Raketen, Flugkörper, andere Sprengkörper und Sprengladungen 
 
 Ergänzende Anmerkung 1:
 
-Lenk-
-
-und Navigationsausrüstung siehe Nummer 0011.
+Lenk- und Navigationsausrüstung siehe Nummer 0011.
 
 Ergänzende Anmerkung 2:
 
@@ -2648,9 +2644,7 @@ b) Antriebsdüsen von Flugkörpern oder Raketen und Bugspitzen von Wiedereintrit
 
 Ergänzende Anmerkung:
 
-Granat-
-
-oder Kanistermunition für in Nummer 0001 oder 0002 erfasste Waffen oder Werfer und Submunition, besonders konstruiert für Munition: Siehe Nummer 0003.
+Granat- oder Kanistermunition für in Nummer 0001 oder 0002 erfasste Waffen oder Werfer und Submunition, besonders konstruiert für Munition: Siehe Nummer 0003.
 
 b)
 
@@ -2758,9 +2752,7 @@ Landfahrzeuge und Bestandteile hierfür wie folgt:
 
 Ergänzende Anmerkung:
 
-Lenk-
-
-und Navigationsausrüstung siehe Nummer 0011.
+Lenk- und Navigationsausrüstung siehe Nummer 0011.
 
 a)
 
@@ -3932,9 +3924,7 @@ Kriegsschiffe (über oder unter Wasser), Marine-Spezialausrüstung, Zubehör, Be
 
 Ergänzende Anmerkung:
 
-Lenk-
-
-und Navigationsausrüstung siehe Nummer 0011.
+Lenk- und Navigationsausrüstung siehe Nummer 0011.
 
 a)
 
@@ -4060,13 +4050,7 @@ Schiffskörper-Durchführungen und -Steckverbinder, besonders konstruiert für m
 
 Anmerkung 1:
 
-Unternummer 0009f schließt Steckverbinder für Schiffe in Einzelleiter-,
-
-Mehrfachleiter-,
-
-Koaxial-
-
-und Hohlleiterausführung sowie Schiffskörperdurchführungen ein, die jeweils unbeeinflusst bleiben von (eventuellem) Leckwasser von außen und die geforderten Merkmale in Meerestiefen von mehr als 100 m beibehalten, sowie faseroptische Steckverbinder und optische Schiffskörperdurchführungen, besonders konstruiert für den Durchgang von „Laser“strahlen, unabhängig von der Wassertiefe.
+Unternummer 0009f schließt Steckverbinder für Schiffe in Einzelleiter-, Mehrfachleiter-, Koaxial- und Hohlleiterausführung sowie Schiffskörperdurchführungen ein, die jeweils unbeeinflusst bleiben von (eventuellem) Leckwasser von außen und die geforderten Merkmale in Meerestiefen von mehr als 100 m beibehalten, sowie faseroptische Steckverbinder und optische Schiffskörperdurchführungen, besonders konstruiert für den Durchgang von „Laser“strahlen, unabhängig von der Wassertiefe.
 
 Anmerkung 2:
 
@@ -4102,9 +4086,7 @@ Unternummer 0009h schließt „Kernreaktoren“ ein.
 
 Ergänzende Anmerkung:
 
-Lenk-
-
-und Navigationsausrüstung siehe Nummer 0011.
+Lenk- und Navigationsausrüstung siehe Nummer 0011.
 
 a)
 
@@ -4276,13 +4258,7 @@ j) ‚automatisierte Führungs- und Leitsysteme‘.
 
 Technische Anmerkung:
 
-Im Sinne von Unternummer 0011a Anmerkung j bezeichnet ‚automatisierte Führungs-
-
-und Leitsysteme‘ elektronische Systeme zur Eingabe, Verarbeitung und Ausgabe von Information, die wesentlich ist für die effektive Operation der unterstellten Gruppe, des Großverbands, des taktischen Verbands, der Einheit, des Schiffes, der Untereinheit oder des Waffensystems. Dies wird erreicht durch die Nutzung von Computern und anderer spezialisierter Hardware, konstruiert zur Unterstützung der Funktionen einer militärischen Führungs-
-
-und Leitorganisation. Die Hauptfunktionen eines ‚automatisierten Führungs-
-
-und Leitsystems‘ sind: die effiziente automatische Erfassung, Sammlung, Speicherung und Verarbeitung von Information; die Darstellung der Lage und der Verhältnisse, die die Vorbereitung und Durchführung von Kampfoperationen beeinflussen; operationelle und taktische Berechnungen für die Zuweisung von Ressourcen zwischen den Kampfgruppen oder Elementen für die operative Kräftegliederung oder den Aufmarsch entsprechend der Mission oder dem Stadium der Operation; die Aufbereitung von Daten für die Einschätzung der Situation und für die Entscheidungsfindung zu jedem Zeitpunkt während der Operation oder Schlacht; Computer-Simulation von Operationen.
+Im Sinne von Unternummer 0011a Anmerkung j bezeichnet ‚automatisierte Führungs- und Leitsysteme‘ elektronische Systeme zur Eingabe, Verarbeitung und Ausgabe von Information, die wesentlich ist für die effektive Operation der unterstellten Gruppe, des Großverbands, des taktischen Verbands, der Einheit, des Schiffes, der Untereinheit oder des Waffensystems. Dies wird erreicht durch die Nutzung von Computern und anderer spezialisierter Hardware, konstruiert zur Unterstützung der Funktionen einer militärischen Führungs- und Leitorganisation. Die Hauptfunktionen eines ‚automatisierten Führungs- und Leitsystems‘ sind: die effiziente automatische Erfassung, Sammlung, Speicherung und Verarbeitung von Information; die Darstellung der Lage und der Verhältnisse, die die Vorbereitung und Durchführung von Kampfoperationen beeinflussen; operationelle und taktische Berechnungen für die Zuweisung von Ressourcen zwischen den Kampfgruppen oder Elementen für die operative Kräftegliederung oder den Aufmarsch entsprechend der Mission oder dem Stadium der Operation; die Aufbereitung von Daten für die Einschätzung der Situation und für die Entscheidungsfindung zu jedem Zeitpunkt während der Operation oder Schlacht; Computer-Simulation von Operationen.
 
 Ergänzende Anmerkung:
 
@@ -4434,9 +4410,7 @@ Siehe auch Nummer 1A005 des Anhangs I der Verordnung (EU) 2021/821 in der jeweil
 
 Ergänzende Anmerkung 2:
 
-„Faser-
-
-oder fadenförmige Materialien“, die bei der Herstellung von Körperpanzern verwendet werden, siehe Nummer 1C010 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
+„Faser- oder fadenförmige Materialien“, die bei der Herstellung von Körperpanzern verwendet werden, siehe Nummer 1C010 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 0014
 
@@ -4448,9 +4422,7 @@ Nummer 0014 schließt Systeme zur Bilderzeugung (image generating) oder zum Dial
 
 Anmerkung 2:
 
-Nummer 0014 erfasst nicht besonders konstruierte Ausrüstung für das Training im Umgang mit Jagd-
-
-und Sportwaffen.
+Nummer 0014 erfasst nicht besonders konstruierte Ausrüstung für das Training im Umgang mit Jagd- und Sportwaffen.
 
 Anmerkung 3:
 
@@ -4794,15 +4766,11 @@ spezifische „Software“, nicht erfasst von Unternummer 0021a, wie folgt:
 
 Anmerkung 1:
 
-Unternummer 0021b5 schließt „Software“ ein, die für die Zerstörung, Beschädigung, Beeinträchtigung oder Störung von in der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Systemen, Ausrüstung oder „Software“ entwickelt wurde, sowie entsprechende „Software“ für Cyberaufklärung (cyber reconnaissance) und für Cyber-Führungs-
-
-und ‑Leitsysteme (cyber command and control) hierfür.
+Unternummer 0021b5 schließt „Software“ ein, die für die Zerstörung, Beschädigung, Beeinträchtigung oder Störung von in der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Systemen, Ausrüstung oder „Software“ entwickelt wurde, sowie entsprechende „Software“ für Cyberaufklärung (cyber reconnaissance) und für Cyber-Führungs- und ‑Leitsysteme (cyber command and control) hierfür.
 
 Anmerkung 2:
 
-Unternummer 0021b5 findet keine Anwendung auf „Offenlegung von Sicherheitslücken“ oder auf „Reaktion auf Cybervorfälle“, die auf nichtmilitärische defensive Cybersicherheitsbereitschaft oder
-
--reaktionsfähigkeit (non-military defensive cybersecurity readiness or response) beschränkt sind.
+Unternummer 0021b5 findet keine Anwendung auf „Offenlegung von Sicherheitslücken“ oder auf „Reaktion auf Cybervorfälle“, die auf nichtmilitärische defensive Cybersicherheitsbereitschaft oder -reaktionsfähigkeit (non-military defensive cybersecurity readiness or response) beschränkt sind.
 
 c)
 
@@ -5004,15 +4972,11 @@ Nummer 3E1902 erfasst nicht ‚Process Design Kitsʻ (‚PDKsʻ), außer sie ent
 
 Technische Anmerkung 1:
 
-Eine ‚Prozessbeschreibungʻ (‚Process Recipeʻ) ist eine Zusammenstellung von Prozessbedingungen und
-
--parametern für einen bestimmten Prozessschritt.
+Eine ‚Prozessbeschreibungʻ (‚Process Recipeʻ) ist eine Zusammenstellung von Prozessbedingungen und -parametern für einen bestimmten Prozessschritt.
 
 Technische Anmerkung 2:
 
-Ein ‚Process Design Kitʻ (‚PDKʻ) ist ein Software-Tool, bereitgestellt von einem Halbleiterhersteller, um die Einhaltung der Entwurfsverfahren und
-
--regeln sicherzustellen, die für die erfolgreiche Herstellung eines spezifischen Entwurfs einer integrierten Schaltung in einem spezifischen Halbleiterprozess unter technologischen und herstellungsbezogenen Bedingungen erforderlich ist (jeder Halbleiterherstellungsprozess hat sein eigenes ‚PDKʻ).
+Ein ‚Process Design Kitʻ (‚PDKʻ) ist ein Software-Tool, bereitgestellt von einem Halbleiterhersteller, um die Einhaltung der Entwurfsverfahren und -regeln sicherzustellen, die für die erfolgreiche Herstellung eines spezifischen Entwurfs einer integrierten Schaltung in einem spezifischen Halbleiterprozess unter technologischen und herstellungsbezogenen Bedingungen erforderlich ist (jeder Halbleiterherstellungsprozess hat sein eigenes ‚PDKʻ).
 
 3E1905
 
@@ -5032,15 +4996,11 @@ Nummer 3E1905 erfasst nicht ‚Process Design Kitsʻ (‚PDKsʻ), außer sie ent
 
 Technische Anmerkung 1:
 
-Eine ‚Prozessbeschreibungʻ (‚Process Recipeʻ) ist eine Zusammenstellung von Prozessbedingungen und
-
--parametern für einen bestimmten Prozessschritt.
+Eine ‚Prozessbeschreibungʻ (‚Process Recipeʻ) ist eine Zusammenstellung von Prozessbedingungen und -parametern für einen bestimmten Prozessschritt.
 
 Technische Anmerkung 2:
 
-Ein ‚Process Design Kitʻ (‚PDKʻ) ist ein Software-Tool, bereitgestellt von einem Halbleiterhersteller, um die Einhaltung der Entwurfsverfahren und
-
--regeln sicherzustellen, die für die erfolgreiche Herstellung eines spezifischen Entwurfs einer integrierten Schaltung in einem spezifischen Halbleiterprozess unter technologischen und herstellungsbezogenen Bedingungen erforderlich ist (jeder Halbleiterherstellungsprozess hat sein eigenes ‚PDKʻ).
+Ein ‚Process Design Kitʻ (‚PDKʻ) ist ein Software-Tool, bereitgestellt von einem Halbleiterhersteller, um die Einhaltung der Entwurfsverfahren und -regeln sicherzustellen, die für die erfolgreiche Herstellung eines spezifischen Entwurfs einer integrierten Schaltung in einem spezifischen Halbleiterprozess unter technologischen und herstellungsbezogenen Bedingungen erforderlich ist (jeder Halbleiterherstellungsprozess hat sein eigenes ‚PDKʻ).
 
 4A1906
 
@@ -5182,9 +5142,7 @@ Nummer 9A904b schließt Güter ein, die in folgenden Zusammenhängen mit „Raum
 
 1\.
 
-Einsatz als Nutzlast für Up-
-
-oder Downlink,
+Einsatz als Nutzlast für Up- oder Downlink,
 
 2\.
 
@@ -5465,9 +5423,7 @@ Der „supraleitende“ Zustand eines Materials ist jeweils gekennzeichnet durch
 
 Anmerkung 1:
 
-‚Technische Unterlagenʻ (technical data): können verschiedenartig sein, z. B. Blaupausen, Pläne, Diagramme, Modelle, Formeln, Algorithmen, Tabellen, Konstruktionspläne und
-
--spezifikationen, Beschreibungen und Anweisungen in Schriftform oder auf anderen Medien aufgezeichnet, wie Magnetplatten, Bänder oder Lesespeicher.
+‚Technische Unterlagenʻ (technical data): können verschiedenartig sein, z. B. Blaupausen, Pläne, Diagramme, Modelle, Formeln, Algorithmen, Tabellen, Konstruktionspläne und -spezifikationen, Beschreibungen und Anweisungen in Schriftform oder auf anderen Medien aufgezeichnet, wie Magnetplatten, Bänder oder Lesespeicher.
 
 Anmerkung 2:
 

@@ -1191,9 +1191,6 @@ Nummer</th>
 
 4. Für die Wasserstraßen nach Anhang IX ist die Zulassung von Fahrgastbooten auf eine Länge des Schiffskörpers von weniger als 20 Metern und die Beförderung von höchstens 35 Fahrgästen beschränkt.
 
-(+++ § 7.01 Nr. 3 u. 4: Zur Nichtanwendung vgl. § 32 Satz 2 BinSchUO 2018 +++)  
-(+++ § 7.01 Nr. 3 u. 4: Zur Anwendung vgl. § 33 Abs. 2 Satz 1 BinSchUO 2018 +++)
-
 # § 7.02 – Anforderungen an Fahrgastboote in Zone 2
 
 Für die Wasserstraßen nach Anhang I Zone 2 zugelassene Fahrgastboote unterliegen folgenden Anforderungen an Ausrüstung und Betrieb:

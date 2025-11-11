@@ -1251,7 +1251,7 @@ Ansprüche auf Grundgehalt nach Anlage IV sind neben Ansprüchen auf Grundgehalt
 
 (4) Das Bundesministerium des Innern, für Bau und Heimat macht die nach den Absätzen 1 und 2 durch Anpassungen erhöhten Bezüge im Bundesgesetzblatt bekannt.
 
-(++++ Hinweis: Nach den Absätzen 1 und 2 durch Anpassungen erhöhte Bezüge ab 1.8.2013 vgl. Bek. 2032-26-6 v. 15.8.2012 I 1771,  
+(+++ Hinweis: Nach den Absätzen 1 und 2 durch Anpassungen erhöhte Bezüge ab 1.8.2013 vgl. Bek. 2032-26-6 v. 15.8.2012 I 1771,  
 ab 1.3.2014 und ab 1.3.2015 vgl. Bek. 2032-26-7 v. 28.11.2014 I 1899,  
 ab 1.3.2016 und ab 1.2.2017 vgl. Bek. 2032-26-9 v. 25.11.2016 I 2695,  
 ab 1.3.2018, ab 1.4.2019 und ab 1.3.2020 vgl. Bek. 2032-26-10 v. 13.11.2018 I 1899 +++)
@@ -1288,7 +1288,7 @@ Stehen innerhalb der Kategorien nach Satz 3 mehrere Leistungsbezüge zu, werden 
 
 (2) Das Bundesministerium des Innern, für Bau und Heimat macht die Beträge nach Absatz 1 in der jeweils geltenden Fassung im Bundesgesetzblatt bekannt.
 
-(++++ Hinweis: Beträge nach Absatz 1 ab 1.1.2012 vgl. Bek. 2032-26-5 v. 20.12.2011 I 3023,  
+(+++ Hinweis: Beträge nach Absatz 1 ab 1.1.2012 vgl. Bek. 2032-26-5 v. 20.12.2011 I 3023,  
 ab 1.3.2012, ab 1.1.2013 und ab 1.8.2013 vgl. Bek. 2032-26-6 v. 15.8.2012 I 1771  
 ab 1.3.2014 und ab 1.3.2015 vgl. Bek. 2032-26-7 v. 28.11.2014 I 1899  
 ab 1.1.2016 vgl. Bek. 2032-26-8 v. 12.1.2016 I 95  

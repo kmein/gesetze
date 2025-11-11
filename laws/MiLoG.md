@@ -39,7 +39,7 @@
 
 (3) Die Regelungen des Arbeitnehmer-Entsendegesetzes, des Arbeitnehmerüberlassungsgesetzes und der auf ihrer Grundlage erlassenen Rechtsverordnungen gehen den Regelungen dieses Gesetzes vor, soweit die Höhe der auf ihrer Grundlage festgesetzten Branchenmindestlöhne die Höhe des Mindestlohns nicht unterschreitet.
 
-(+++ Hinweis: Zur Anpassung des Mindestlohns nach § 1 Abs. 2 vgl. § 1 V v. 9.11.2020 I 2356 u. § 1 V v. 24.11.2023 I Nr. 321 +++)
+(+++ Hinweis: Zur Anpassung des Mindestlohns nach § 1 Abs. 2 vgl. § 1 V v. 9.11.2020 I 2356, § 1 V v. 24.11.2023 I Nr. 321 u. § 1 V v. 5.11.2025 I Nr. 268 +++)
 
 # § 2 – Fälligkeit des Mindestlohns
 

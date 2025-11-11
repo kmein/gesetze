@@ -67,7 +67,7 @@ Empfängerinnen und Empfänger von Dienstbezügen nach der Besoldungsgruppe R 1 
 
 (2) Das Bundesministerium des Innern, für Bau und Heimat macht die Monatsbeträge nach Absatz 1 in der jeweils geltenden Fassung im Bundesgesetzblatt bekannt.
 
-(++++ Hinweis: Beträge nach Absatz 2 ab 1.3.2014 und ab 1.3.2015 vgl. Bek. 2032-26-7 v. 28.11.2014 I 1899,  
+(+++ Hinweis: Beträge nach Absatz 2 ab 1.3.2014 und ab 1.3.2015 vgl. Bek. 2032-26-7 v. 28.11.2014 I 1899,  
 ab 1.3.2016 und ab 1.2.2017 vgl. Bek. 2032-26-9 v. 25.11.2016 I 2695,  
 ab 1.3.2018, ab 1.4.2019 und ab 1.3.2020 vgl. Bek. 2032-26-10 v. 13.11.2018 I 1899 +++)
 
@@ -79,7 +79,7 @@ ab 1.3.2018, ab 1.4.2019 und ab 1.3.2020 vgl. Bek. 2032-26-10 v. 13.11.2018 I 18
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat macht die sich nach Absatz 2 jeweils ergebenden Beträge im Bundesgesetzblatt bekannt.
 
-(++++ Hinweis: Beträge nach Absatz 2 ab 1.1.2012 vgl. Bek. 2032-26-5 v. 20.12.2011 I 3023,  
+(+++ Hinweis: Beträge nach Absatz 2 ab 1.1.2012 vgl. Bek. 2032-26-5 v. 20.12.2011 I 3023,  
 ab 1.3.2012, ab 1.1.2013 und ab 1.8.2013 vgl. Bek. 2032-26-6 v. 15.8.2012 I 1771  
 ab 1.3.2014 und ab 1.3.2015 vgl. Bek. 2032-26-7 v. 28.11.2014 I 1899,  
 ab 1.3.2016 und ab 1.2.2017 vgl. Bek. 2032-26-9 v. 25.11.2016 I 2695,  
