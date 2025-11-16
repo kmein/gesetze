@@ -1336,5 +1336,3 @@ Für Fahrgastboote sind die jeweiligen Vorschriften mit den folgenden Maßgaben 
 2. Die Ergebnisse einer Untersuchung sind in einem Abnahmeprotokoll nach dem Muster 6 des Anhangs V zu bescheinigen.
 
 3. Auf der Grundlage dieses Abnahmeprotokolls erteilt die Generaldirektion Wasserstraßen und Schifffahrt eine Fahrtauglichkeitsbescheinigung nach Maßgabe des § 11 dieser Verordnung. Der zuständigen Berufsgenossenschaft ist vor der Erteilung der Fahrtauglichkeitsbescheinigung die Gelegenheit zur Stellungnahme zu geben, damit diese ihre Aufgabe nach § 4 Absatz 4 Satz 2 dieser Verordnung wahrnehmen kann.
-
-# Anlage B – (zur Anlage 1 des Anhangs II) (weggefallen)

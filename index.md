@@ -178,6 +178,7 @@
 - [AMBtAngV](laws/AMBtAngV.md) Verordnung über die Angabe von Arzneimittelbestandteilen
 - [AMFarbV](laws/AMFarbV.md) Arzneimittelfarbstoffverordnung
 - [AMG](laws/AMG.md) Gesetz über den Verkehr mit Arzneimitteln
+- [AMGBBehEfStV](laws/AMGBBehEfStV.md) Verordnung zur Steigerung der Effizienz der nach dem Arzneimittelgesetz zuständigen Bundesoberbehörden
 - [AMGBefugV](laws/AMGBefugV.md) Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen zur Regelung von Verfahren, Weiterleitung von Ausfertigungen und Einreichung von Unterlagen nach dem Arzneimittelgesetz
 - [AMGZSAV](laws/AMGZSAV.md) Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneimittelgesetzes für die Bereiche des Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei, der Bereitschaftspolizeien der Länder sowie der Aufgaben des Bundesministeriums für Gesundheit nach § 79 Absatz 4a des Arzneimittelgesetzes
 - [AMHV](laws/AMHV.md) Verordnung über das Inverkehrbringen von Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen
@@ -3855,6 +3856,7 @@
 - [Münz100EuroBek 2022-09-12](laws/Münz100EuroBek_2022-09-12.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „Freiheit“)
 - [Münz100EuroBek 2023-12-11](laws/Münz100EuroBek_2023-12-11.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "Faust")
 - [Münz100EuroBek 2024-02-20](laws/Münz100EuroBek_2024-02-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "Der zerbrochene Krug (Kleist)")
+- [Münz100EuroBek 2025-11-06](laws/Münz100EuroBek_2025-11-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „Aus dem Leben eines Taugenichts (Joseph von Eichendorff)“)
 - [Münz10DMBek](laws/Münz10DMBek.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 750-Jahr-Feier Berlins)
 - [Münz10DMBek 1987-10](laws/Münz10DMBek_1987-10.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 30 Jahre Römische Verträge)
 - [Münz10DMBek 1988-08](laws/Münz10DMBek_1988-08.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Arthur Schopenhauer)
@@ -4037,6 +4039,8 @@
 - [Münz20EuroBek 2025-04-22](laws/Münz20EuroBek_2025-04-22.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „75. Berlinale“)
 - [Münz20EuroBek 2025-08-05/1](laws/Münz20EuroBek_2025-08-05_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „50 Jahre Internationales Jahr der Frau“)
 - [Münz20EuroBek 2025-08-05/2](laws/Münz20EuroBek_2025-08-05_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Chemnitz - Kulturhauptstadt Europas 2025“)
+- [Münz20EuroBek 2025-11-06/1](laws/Münz20EuroBek_2025-11-06_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Elly Heuss-Knapp – 75 Jahre Müttergenesungswerk“)
+- [Münz20EuroBek 2025-11-06/2](laws/Münz20EuroBek_2025-11-06_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Luchs“)
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
 - [Münz25EuroBek 2021-09-15](laws/Münz25EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
 - [Münz25EuroBek 2022-11-17](laws/Münz25EuroBek_2022-11-17.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Herrnhuter Stern“)
@@ -4080,6 +4084,7 @@
 - [Münz2EuroBek 2024-02-20/1](laws/Münz2EuroBek_2024-02-20_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze "Mecklenburg-Vorpommern")
 - [Münz2EuroBek 2024-02-20/2](laws/Münz2EuroBek_2024-02-20_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze "175. Jubiläum Paulskirchenverfassung")
 - [Münz2EuroBek 2025-04-22](laws/Münz2EuroBek_2025-04-22.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Saarland“)
+- [Münz2EuroBek 2025-11-06](laws/Münz2EuroBek_2025-11-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „35 Jahre Deutsche Einheit“)
 - [Münz2PfBek 1950](laws/Münz2PfBek_1950.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz2PfBek 1968](laws/Münz2PfBek_1968.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz5/10PfBek](laws/Münz5_10PfBek.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 5 und 10 Pfennig
@@ -4091,6 +4096,7 @@
 - [Münz50EuroBek 2022-09-12](laws/Münz50EuroBek_2022-09-12.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Konzertgitarre“)
 - [Münz50EuroBek 2023-10-06](laws/Münz50EuroBek_2023-10-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Ernährung“)
 - [Münz50EuroBek 2024-02-20](laws/Münz50EuroBek_2024-02-20.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Mobilität“)
+- [Münz50EuroBek 2025-11-06](laws/Münz50EuroBek_2025-11-06.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Gesundheit“)
 - [Münz50PfBek 1949](laws/Münz50PfBek_1949.md) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 50 Pfennig
 - [Münz50PfBek 1950](laws/Münz50PfBek_1950.md) Bekanntmachung über die Ausgabe von Bundesmünzen im Nennwert von 50 Deutschen Pfennig
 - [Münz50PfBek 1972](laws/Münz50PfBek_1972.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 50 Deutschen Pfennig
@@ -5870,6 +5876,7 @@
 - [UnbilligkeitsV](laws/UnbilligkeitsV.md) Verordnung zur Vermeidung unbilliger Härten durch Inanspruchnahme einer vorgezogenen Altersrente
 - [UNCh](laws/UNCh.md) Charta der Vereinten Nationen
 - [UNChG](laws/UNChG.md) Gesetz zum Beitritt der Bundesrepublik Deutschland zur Charta der Vereinten Nationen
+- [UNFrBüroVbgV](laws/UNFrBüroVbgV.md) Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen über die Errichtung eines Büros der Einheit der Vereinten Nationen für Gleichstellung und Stärkung der Frauen (UN-Frauen) in Bonn
 - [UNFreiwProgrAbk](laws/UNFreiwProgrAbk.md) Abkommen zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen
 - [UNFreiwProgrAbkG](laws/UNFreiwProgrAbkG.md) Gesetz zu dem Abkommen vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen
 - [UNFreiwProgrAbkGeltV](laws/UNFreiwProgrAbkGeltV.md) Verordnung über die Geltung des Abkommens vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen für das Informationszentrum der Vereinten Nationen in Bonn
