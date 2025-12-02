@@ -199,7 +199,7 @@ zu verwenden.
 
 # § 5a – Lebenslauf der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
 
-(1) Den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes ist ein aussagekräftiger Lebenslauf der genannten Personen beizufügen. Der Lebenslauf muss lückenlos, vollständig und wahr sein. Er muss eigenhändig unterzeichnet und mit einem Datum versehen sein.
+(1) Den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes ist ein aussagekräftiger Lebenslauf der genannten Personen beizufügen. Der Lebenslauf muss lückenlos, vollständig und wahr sein. Er muss mit einem Datum versehen sein.
 
 (2) Der Lebenslauf hat folgende Angaben zu enthalten:
 
@@ -267,15 +267,15 @@ b) einem Mitglied des Verwaltungs- oder Aufsichtsorgans des anzeigenden Unterneh
 
 (2) Das Führungszeugnis darf zum Zeitpunkt der Erstattung der Anzeige nach § 24 Absatz 1 Nummer 1 oder zum Zeitpunkt der Bestellung nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes nicht älter als drei Monate sein. Maßgeblich ist das Datum der Ausstellung des Führungszeugnisses.
 
-(3) Personen, die einem Staat angehören oder ihren Wohnsitz in einem Staat haben, der kein Führungszeugnis ausstellt, haben Dokumente aus dem Herkunfts- oder Wohnsitzstaat einzureichen, die dem Führungszeugnis entsprechen. Werden dort auch derartige Dokumente nicht ausgestellt, so ist der Umfang der einzureichenden Ersatzunterlagen mit der Bundesanstalt im Einzelfall abzustimmen.
+(3) Personen, die einem anderen Staat als der Bundesrepublik Deutschland angehören oder deren Wohnsitz in einem anderen Staat als der Bundesrepublik Deutschland liegt, haben Dokumente aus dem Herkunfts- oder Wohnsitzstaat einzureichen, die einem Führungszeugnis nach Absatz 1 entsprechen oder zumindest gleichwertig sind. Satz 1 gilt nicht, soweit etwaige Eintragungen in den Strafregistern dieser Staaten bereits aus einem Führungszeugnis nach § 30b des Bundeszentralregistergesetzes hervorgehen würden. Werden im Herkunfts- oder im Wohnsitzstaat keine Dokumente ausgestellt, die einem Führungszeugnis nach Absatz 1 entsprechen oder zumindest gleichwertig sind, so ist der Umfang der einzureichenden Ersatzunterlagen mit der Aufsichtsbehörde im Einzelnen abzustimmen.
 
-(4) Personen, die in den letzten zehn Jahren Wohnsitze in verschiedenen Staaten hatten, müssen die Führungszeugnisse und Unterlagen aus jedem dieser Staaten einreichen.
+(4) Personen, die in den letzten zehn Jahren Wohnsitze in verschiedenen Staaten hatten, müssen die Führungszeugnisse und Unterlagen aus jedem dieser Staaten einreichen. Absatz 3 Satz 2 gilt im Hinblick auf den jeweiligen Staat entsprechend.
 
 (5) Sofern die Dokumente nicht in deutscher Sprache ausgestellt sind, bedarf es grundsätzlich zusätzlich zum Original einer Übersetzung in die deutsche Sprache. Die Übersetzung muss beglaubigt oder von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer angefertigt sein. Die Bundesanstalt kann auf die Übersetzung von Unterlagen in englischer Sprache verzichten.
 
 # § 5d – Auszug aus dem Gewerbezentralregister der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
 
-(1) Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes genannten Personen haben bei der Bundesanstalt einen Auszug aus dem Gewerbezentralregister nach § 150 der Gewerbeordnung einzureichen. Satz 1 gilt nicht, wenn die Person keinen Wohnsitz in Deutschland hat oder gehabt hat oder keine berufliche Tätigkeit in Deutschland ausübt oder ausgeübt hat.
+(1) Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes genannten Personen haben bei der Bundesanstalt einen Auszug aus dem Gewerbezentralregister nach § 150 der Gewerbeordnung einzureichen. Satz 1 gilt nicht, wenn die Person weder in den letzten zehn Jahren in der Bundesrepublik Deutschland einen Wohnsitz hatte noch in den letzten zehn Jahren in der Bundesrepublik Deutschland eine berufliche Tätigkeit ausgeübt hat.
 
 (2) Der Registerauszug darf zum Zeitpunkt der Erstattung der Anzeige nach § 24 Absatz 1 Nummer 1 oder zum Zeitpunkt der Bestellung nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes nicht älter als drei Monate sein. Maßgeblich ist das Datum der Ausstellung des Registerauszuges.
 
@@ -453,7 +453,7 @@ Bei der Einreichung des festgestellten Jahresabschlusses ist der Tag der Festste
 
 einzureichen.
 
-(5) Zur Beurteilung der Zuverlässigkeit der Antragsteller und der Inhaber bedeutender Beteiligungen sowie zur Prüfung, ob die Erlaubnis nach § 33 Absatz 1 Satz 1 Nummer 3 oder Absatz 2 des Kreditwesengesetzes zu versagen ist, sind dem Antrag die in § 8 Nummer 1 bis 5, §§ 8a bis 11a und 14 der Inhaberkontrollverordnung genannten Erklärungen und Unterlagen beizufügen und auf Verlangen der Bundesanstalt Auskünfte zu erteilen. Jeder Lebenslauf nach § 10 der Inhaberkontrollverordnung ist eigenhändig zu unterzeichnen. Die §§ 4, 5 und 16 der Inhaberkontrollverordnung sind entsprechend anzuwenden.
+(5) Zur Beurteilung der Zuverlässigkeit der Antragsteller und der Inhaber bedeutender Beteiligungen sowie zur Prüfung, ob die Erlaubnis nach § 33 Absatz 1 Satz 1 Nummer 3 oder Absatz 2 des Kreditwesengesetzes zu versagen ist, sind dem Antrag die in § 8 Nummer 1 bis 5, §§ 8a bis 11a und 14 der Inhaberkontrollverordnung genannten Erklärungen und Unterlagen beizufügen und auf Verlangen der Bundesanstalt Auskünfte zu erteilen. Die §§ 4, 5 und 16 der Inhaberkontrollverordnung sind entsprechend anzuwenden.
 
 (6) Zur Beurteilung der zur Leitung des Instituts erforderlichen fachlichen Eignung der Inhaber und der Geschäftsleiter und zur Beurteilung der erforderlichen Sachkunde der Mitglieder des Verwaltungs- oder Aufsichtsorgans sind,
 

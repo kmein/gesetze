@@ -2294,3 +2294,5 @@ Sofern der Mauterheber die EETS-Anbieter nicht zum Start der Umsetzung eines urs
 Nutzungs- und Zahlungsprovisionsentgelt
 
 Die Höhe des Nutzungs- und Zahlungsprovisionsentgelts wurde für die Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027) festgelegt und es sind innerhalb dieser Vergütungsperiode keine Änderungen vorgesehen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 20.10.2025 I Nr. 244 +++)

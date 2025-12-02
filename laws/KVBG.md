@@ -829,7 +829,7 @@ Braunkohle-Kleinanlagen, die nicht in Anlage 2 aufgeführt sind, werden bei der 
 
 # § 44 – Entschädigung für die Stilllegung von Braunkohleanlagen
 
-(1) Für die endgültige und sozialverträgliche Stilllegung von Braunkohleanlagen bis zum Ablauf des 31. Dezember 2029 nach Anlage 2 hat die RWE Power AG Anspruch auf eine Entschädigung in Höhe eines Nominalbetrages von 2,6 Milliarden Euro für die Braunkohleanlagen im Rheinland und die Lausitz Energie Kraftwerk AG einen Anspruch auf Zahlung einer Entschädigung in Höhe eines Nominalbetrages von 1,75 Milliarden Euro für die Braunkohleanlagen in der Lausitz. Zinsen fallen nicht an. Für Braunkohle-Kleinanlagen wird vorbehaltlich § 43 keine Entschädigung gewährt.
+(1) Für die endgültige und sozialverträgliche Stilllegung von Braunkohleanlagen nach Anlage 2 hat die RWE Power AG Anspruch auf eine Entschädigung in Höhe eines Nominalbetrages von 2,6 Milliarden Euro für die Braunkohleanlagen im Rheinland und die Lausitz Energie Kraftwerk AG einen Anspruch auf Zahlung einer Entschädigung in Höhe eines Nominalbetrages von bis zu 1,75 Milliarden Euro für die Braunkohleanlagen in der Lausitz. Die konkrete Höhe des Entschädigungsanspruchs der Lausitz Energie Kraftwerk AG setzt sich zusammen aus einem feststehenden Entschädigungsanteil und später festzulegenden Entschädigungsanteilen. Zinsen fallen nicht an. Für Braunkohle-Kleinanlagen wird vorbehaltlich des § 43 keine Entschädigung gewährt.
 
 (2) Der Anspruch der Lausitz Energie Kraftwerk AG ist durch Zahlungen der Entschädigung an die Lausitz Energie Vorsorge- und Entwicklungsgesellschaft Brandenburg GmbH & Co. KG (Zweckgesellschaft Brandenburg) und die Lausitz Energie Vorsorge- und Entwicklungsgesellschaft Sachsen GmbH & Co. KG (Zweckgesellschaft Sachsen) zu erfüllen, wobei der Zahlungseingang bei den Zahlungsempfängern jeweils als Kapitaleinlage verbucht werden soll. Die quotale Aufteilung der Entschädigungszahlung zwischen den Zweckgesellschaften nach Satz 1 wird der Betreiber mit dem Land Brandenburg und dem Freistaat Sachsen gemeinsam abstimmen und dem Bundesministerium für Wirtschaft und Energie rechtzeitig vor Auszahlungsbeginn, möglichst aber noch im Jahr 2020 mitteilen. Auf Anforderungen des Landes Brandenburg oder des Freistaates Sachsen wird ein Teil der Entschädigung der Lausitz Energie Kraftwerk AG direkt an im Einvernehmen mit der Bundesrepublik Deutschland bestellte Treuhänder gezahlt. Die Anforderungen an die Treuhandvereinbarungen und den gegebenenfalls auf Treuhandkonten einzuzahlenden Teil der Entschädigung wird in dem nach § 49 mit den Anlagenbetreibern abzuschließenden öffentlich-rechtlichen Vertrag näher konkretisiert.
 
@@ -837,7 +837,13 @@ Braunkohle-Kleinanlagen, die nicht in Anlage 2 aufgeführt sind, werden bei der 
 
 # § 45 – Auszahlungsmodalitäten
 
-(1) Die Entschädigung nach § 44 Absatz 1 wird im Falle der Zahlung an die Zweckgesellschaften nach § 44 Absatz 2 in 15 gleich großen jährlichen Raten jeweils zum 31. Dezember über einen Zeitraum von 15 Jahren gezahlt, beginnend mit dem Ende des Jahres, in dem erstmals eine Braunkohleanlage der Lausitz Energie Kraftwerk AG endgültig stillgelegt oder in die Zeitlich gestreckte Stilllegung überführt wird. Demnach wird die erste Rate am 31. Dezember 2025 an die Zweckgesellschaften gezahlt.
+(1) Die Entschädigung nach § 44 Absatz 1 wird im Falle der Zahlung an die Zweckgesellschaften nach § 44 Absatz 2 in jährlichen Raten jeweils zum 31. Dezember eines Kalenderjahres, erstmals zum 31. Dezember 2025, an die Zweckgesellschaften gezahlt, wobei die Erstattung der zusätzlichen Einzahlungen nach Absatz 3 vollständig zum 31. Dezember 2025 erfolgt. Es werden gezahlt:
+
+1. in den Jahren 2025 bis einschließlich 2029 fünf jährliche Raten von jeweils 91,5 Millionen Euro,
+
+2. beginnend mit dem Jahr 2029 bis spätestens zum Ablauf des Jahres 2042 jährliche Raten entsprechend den später festzulegenden Entschädigungsanteilen.
+
+Die Höhe der später festzulegenden Entschädigungsanteile bemisst sich vorbehaltlich der Sätze 5 bis 9 nach der Summe der Entschädigungsbeträge, die für das jeweilige Kalenderjahr anhand der Formeln in den Anlagen 4 und 5 zu berechnen sind. Die Höhe wird für das jeweilige Kalenderjahr von der Bundesnetzagentur entsprechend den Vorgaben in den Anlagen 4 und 5 sowie den Vorgaben im öffentlich-rechtlichen Vertrag zur Reduzierung und Beendigung der Braunkohleverstromung nach § 49 festgesetzt. Die Höhe der auszuzahlenden jährlichen Rate darf in den Jahren 2029 bis einschließlich 2039 ein Fünfzehntel der Differenz zwischen 1,75 Milliarden Euro und den nach Absatz 3 an die Lausitz Energie Kraftwerk AG zu erstattenden zusätzlichen Einzahlungen nicht überschreiten (ursprünglicher Jahreshöchstbetrag). Soweit die nach Satz 2 für die Jahre 2029 bis 2039 ermittelte jährliche Rate in einem Jahr unter dem für dieses Kalenderjahr maßgeblichen Jahreshöchstbetrag liegt, erhöht sich der ursprüngliche Jahreshöchstbetrag im darauffolgenden Kalenderjahr in Höhe des im Vorjahr nicht ausgezahlten Anteils. Liegt die nach Satz 2 für die Jahre 2029 bis 2039 ermittelte jährliche Rate in einem Kalenderjahr über dem für das jeweilige Kalenderjahr maßgeblichen Jahreshöchstbetrag, wird der überschießende Betrag in diesem Kalenderjahr nicht ausgezahlt und stattdessen in den folgenden Kalenderjahren so weit ausgezahlt, wie der für diese folgenden Kalenderjahre maßgebliche Jahreshöchstbetrag jeweils nicht erreicht wird. Die Auszahlung endet bereits vor Ablauf des Jahres 2042, sobald die Summe aller Auszahlungen aus feststehenden Entschädigungsraten nach Satz 2 Nummer 1, später festzulegenden Entschädigungsanteilen nach Satz 2 Nummer 2 sowie nach Absatz 3 geleisteten Erstattungen für zusätzliche Einzahlungen den nominalen Gesamtbetrag von 1,75 Milliarden Euro erreicht. In dem betreffenden Kalenderjahr bemisst sich die Höhe der letzten Rate nach dem Betrag, der zum Erreichen des nominalen Gesamtbetrags von 1,75 Milliarden Euro noch fehlt.
 
 (1a) Die Entschädigung nach § 44 Absatz 1 wird im Falle der Zahlung an die RWE Power AG in zehn jährlichen Raten jeweils zum 31. Dezember über einen Zeitraum von zehn Jahren gezahlt, beginnend mit dem Ende des Jahres, in dem erstmals eine Braunkohleanlage der RWE Power AG endgültig stillgelegt oder in die Zeitlich gestreckte Stilllegung überführt wird. Demnach wird die erste Rate am 31. Dezember 2020 an RWE Power AG gezahlt. Die Höhe der Raten beträgt
 
@@ -1384,3 +1390,254 @@ das Jahr der Überführung in die Zeitlich gestreckte Stilllegung zum 31. Dezemb
 t
 
 das jeweilige Jahr der Zeitlich gestreckten Stilllegung, das sich jeweils auf den Zeitraum vom 1. Januar bis zum Datum der endgültigen Stilllegung gemäß Anlage 2 des Kohleverstromungsbeendigungsgesetzes bezieht.
+
+# Anlage 4 – (zu § 45 Absatz 1 Satz 3)Formel zur Berechnung der entgangenen Gewinne aus der Stromerzeugung
+
+(Fundstelle: BGBl. 2025 I Nr. 283, S. 6 - 8)
+
+Die Entschädigung für entgangene Gewinne aus Stromerzeugung nach § 45 Absatz 1 Satz 3 wird nach folgender Formel festgesetzt:
+
+![Hier ist eine Formel zur Ermittlung der entgangenen Gewinne aus der Stromerzeugung auf Basis von Forwardpreisen und unter Einbeziehung der relevanten Erlös- und Kostenpositionen eines Braunkohlekraftwerks abgebildet.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02830_0010.jpg)
+
+Im Sinne dieser Anlage ist oder sind:
+
+E
+
+Tit die Entschädigung, die die Lausitz Energie Kraftwerk AG für eine im Jahr T stillzulegende Anlage i in einem Jahr t erhält, in Euro,
+
+P
+
+t der rechnerisch ermittelte jahresdurchschnittliche Preis aller verfügbaren Handelstage im Zeitraum 1. Januar bis 31. Dezember des Jahres t-1 für die für das jeweilige Lieferjahr t relevanten Phelix-Base-Futures am Terminmarkt der Energiebörse European Energy Exchange AG in Leipzig für die jeweilige Preiszone in Euro je Megawattstunde; soweit an der Energiebörse noch kein Preis des Futures für ein relevantes Lieferjahr ermittelt wurde, wird der Preis für das letzte verfügbare relevante Lieferjahr in Ansatz gebracht,
+
+OE
+
+t der Faktor der Optimierungsmehrerlöse der letzten drei Betriebsjahre vor endgültiger Stilllegung oder Überführung in die Zeitlich gestreckte Stilllegung (T-2 bis T), jeweils als der rechnerisch ermittelte Quotient aus
+
+1. dem rechnerisch mit der Produktionsmenge gewichteten Durchschnittspreis der für die Stunden des tatsächlichen Anlageneinsatzes vorliegenden Spotmarktpreise der Energiebörse European Energy Exchange AG in Leipzig der Day-ahead-Auktion für das 60-Minuten-Produkt für das jeweilige Marktgebiet für das jeweilige Jahr und
+
+2. dem rechnerisch ermittelten Durchschnittspreis für alle verfügbaren Spotmarktpreise der Energiebörse European Energy Exchange AG in Leipzig der Day-ahead-Auktion für das 60-Minuten-Produkt für das jeweilige Marktgebiet für das jeweilige Jahr,
+
+PMV
+
+i die von dem Betreiber nachgewiesenen Erlöse aus der tatsächlichen Mitverbrennung von Ersatzbrennstoffen in einer stillzulegenden Anlage i in den letzten drei Betriebsjahren vor der Stilllegung dividiert durch die in dieser Anlage erzeugten Strommengen in diesen drei Jahren in Euro je Megawattstunde,
+
+PG
+
+i die für eine stillzulegende Anlage i von dem Betreiber nachgewiesenen in den letzten drei Betriebsjahren vor der Stilllegung erzielten Erlöse durch Verkauf von in der Anlage erzeugtem Gips dividiert durch die in diesen drei Jahren in dieser Anlage erzeugte Strommenge in Euro je Megawattstunde,
+
+PSD
+
+i die von dem Betreiber der stillzulegenden Anlage i nachgewiesenen in den letzten drei Betriebsjahren vor der Stilllegung erzielten Regelenergieerlöse dividiert durch die in diesen drei Jahren erzeugte Strommenge in Euro je Megawattstunde,
+
+PW
+
+i die von dem Betreiber der stillzulegenden Anlage i nachgewiesenen in den letzten drei Betriebsjahren vor der Stilllegung erzielten Erlöse durch Verkauf von Wärme dividiert durch die in diesen drei Jahren erzeugte Strommenge in Euro je Megawattstunde,
+
+Infl
+
+it der Faktor der Inflation bis zum Betrachtungsjahr t, ermittelt aus den Inflationsraten bis zum betrachteten Jahr t nach dem Index der Erzeugerpreise gewerblicher Produkte (Energie) für das Jahr t nach Destatis,
+
+Infl
+
+2025t der Faktor der Inflation zwischen 2025 und dem Betrachtungsjahr t, ermittelt aus den Inflationsraten bis zum betrachteten Jahr t nach dem Index der Erzeugerpreise gewerblicher Produkte (Vorleistungsgüter) für das Jahr t nach Destatis,
+
+FMV
+
+i die von dem Betreiber der stillzulegenden Anlage i nachgewiesene durchschnittliche Brennstoffeinsparung in den letzten drei Betriebsjahren vor der Stilllegung aufgrund tatsächlicher Mitverbrennung von kostenlosen Abfallstoffen in Prozent des zur Erzeugung der Gesamtstrommenge theoretisch notwendigen Braunkohlebedarfs,
+
+BK
+
+i die variablen Betriebskosten für Brennstoffe sowie Logistik in Euro je Megawattstunde thermischen Energieeinsatzes der stillzulegenden Anlage i; dabei sind hierfür anzusetzen 1,97 Euro je Megawattstunde Brennstoffeinsatz,
+
+Ƞ
+
+i elektrischer Nettowirkungsgrad der stillzulegenden Anlage i in Prozent,
+
+RHB
+
+i die für eine stillzulegende Anlage i von dem Betreiber als Durchschnitt der letzten drei Betriebsjahre nachgewiesenen variablen Betriebskosten in Euro je Megawattstunde für sonstige Roh-, Hilfs- und Betriebsstoffe zur Erzeugung einer Megawattstunde Strom – einschließlich der Betriebskosten der damit verbundenen Wärmeauskopplung der stillzulegenden Anlage i; bei konzernintern bezogenen Lieferungen und Leistungen bleiben etwaige Margen außer Betracht,
+
+FMVB
+
+i der von dem Betreiber nachgewiesene durchschnittliche biogene Anteil der Mitverbrennungsmaterialen in der Anlage i in Prozent aller eingesetzten Mitverbrennungsmaterialen im Zeitraum der letzten drei Betriebsjahre vor Stilllegung der jeweiligen stillzulegenden Anlage i,
+
+C
+
+i die für eine stillzulegende Anlage i von dem Betreiber nachgewiesenen Kohlendioxidemissionen in Tonnen Kohlendioxid je Megawattstunde Brennstoffeinsatz als Durchschnitt der letzten drei Betriebsjahre,
+
+EUA
+
+t-1 der rechnerisch ermittelte jahresdurchschnittliche Preis aller verfügbaren Handelstage im Zeitraum vom 1. Januar bis zum 31. Dezember des Jahres t-1 für die für das jeweilige Jahr t relevanten Jahresfutures für Emissionsberechtigungen (EUA) am Terminmarkt der Energiebörse European Energy Exchange AG in Leipzig für die jeweilige Preiszone in Euro je Tonne Kohlendioxid,
+
+KWFIX
+
+i die vermeidbaren fixen Betriebskosten einer stillzulegenden Anlage i in Höhe von 19,52 Euro je Megawattstunde Strom oder im Falle der Anlagen Lippendorf R, Schwarze Pumpe A, B und Boxberg Q, R abweichend 13,24 Euro je Megawattstunde Strom,
+
+TBFIX
+
+i die vermeidbaren fixen Betriebskosten im Tagebau in Euro je Megawattstunde Strom; dabei betragen diese zunächst 11,28 Euro je Megawattstunde Strom und anschließend in den jeweils drei letzten Betrachtungsjahren 16,91 Euro je Megawattstunde Strom; für die Kraftwerksblöcke Lippendorf R, Schwarze Pumpe A, B und Boxberg Q, R betragen diese abweichend zunächst 9,31 Euro je Megawattstunde Strom und anschließend in den jeweils drei letzten Betrachtungsjahren 14,03 Euro je Megawattstunde Strom,
+
+PN
+
+i die Nettonennleistung der stillzulegenden Anlage i in Megawatt elektrischer Leistung nach der Kraftwerksliste der Bundesnetzagentur ohne Berücksichtigung von Wärmeauskopplung,
+
+SVK
+
+i die von dem Betreiber für den Zeitraum der letzten drei Betriebsjahre vor Stilllegung der jeweiligen Anlage i nachgewiesene rechnerisch ermittelte durchschnittliche Stromverlustkennzahl der stillzulegenden Anlage i bei der Auskopplung von Wärme in Prozent der Nettonennleistung,
+
+Q
+
+i die mittlere ausgekoppelte Fernwärmeleistung der stillzulegenden Anlage i im Zeitraum der letzten drei Betriebsjahre vor Stilllegung der jeweiligen stillzulegenden Anlage i in Megawatt Leistung als Quotient aus ausgekoppelter Fernwärmemenge in Megawattstunden Wärme dividiert durch die Anzahl an Betriebsstunden der Anlage,
+
+BH
+
+i,t die sich aus den rechnerischen Margen ergebenden Betriebsstunden mit positiver Marge der jeweiligen stillzulegenden Anlage i für das Jahr t-1 errechnet als Summe aller Stunden in denen der Spotmarktpreis der Energiebörse European Energy Exchange AG in Leipzig der Day-ahead-Auktion für das 60-Minuten-Produkt für das Marktgebiet Deutschland-Luxemburg zuzüglich Nebenerlösen des Kraftwerksblocks nach oben definierter Abgrenzung und abzüglich aller variablen Kosten größer null ist,
+
+FA
+
+i Abschlagsfaktor auf die in Periode t anzusetzenden rechnerischen Volllaststunden BH<sub>i,t</sub> zur Reflexion tatsächlicher Beschränkungen in der Betriebsweise als rechnerisch ermittelter Quotient aus den tatsächlich profitablen Volllaststunden der letzten drei Jahre vor Stilllegung und den theoretisch ermittelten Volllaststunden mit positiver Marge nach der Ermittlungslogik für BH<sub>i,t</sub> der letzten drei Betriebsjahre vor Stilllegung der jeweiligen stillzulegenden Anlage i; dabei ist FA
+
+i auf den Wert von maximal 1 limitiert,
+
+i die jeweilige stillzulegende Anlage,
+
+T das Jahr der endgültigen Stilllegung der stillzulegenden Anlage i zum Ablauf des 31. Dezember wie in Anlage 2,
+
+t das jeweilige betrachtete Kalenderjahr, für welches die Entschädigung berechnet wird.
+
+Anwendung der Formel:
+
+Die Ermittlung der Entschädigung erfolgt jährlich im Jahr t für das jeweilige Betrachtungsjahr nach Übermittlung der notwendigen Daten durch die Lausitz Energie Kraftwerk AG. Die Formel kommt je Kraftwerksblock vorbehaltlich der nachfolgenden Sätze für bis zu fünf Jahre nach dem endgültigen Stilllegungsjahr des jeweiligen Blockes nach Anlage 2 zur Anwendung. Zeiten der Zeitlich gestreckten Stilllegung werden nicht auf die Anwendungsdauer angerechnet. Die Anwendung der Formel endet für einen Kraftwerksblock, wenn in zwei aufeinanderfolgenden Jahren das Formelergebnis für diesen Block &lt;= 0 ist. Wird ein Kraftwerksblock vor dem in Anlage 2 genannten Zeitpunkt endgültig stillgelegt, ist die Formel für diesen Kraftwerksblock nicht anzuwenden, es sei denn, die vorzeitige Stilllegung beruht auf einer Anpassung des Abschlussdatums auf Grundlage der Überprüfung nach den §§ 47 und 56; dabei ist in letztgenanntem Fall das vorgezogene Abschlussdatum für die Formelanwendung maßgeblich. Die Formel wird jedoch zuletzt spätestens für das Jahr 2042 angewandt.
+
+# Anlage 5 – (zu § 45 Absatz 1 Satz 3)Formel zur Berechnung der entgangenen Gewinne aus dem Vertrieb von Veredelungsprodukten
+
+(Fundstelle: BGBl. 2025 I Nr. 283, S. 9 - 10)
+
+Die Entschädigung für entgangene Gewinne aus Veredelungsprodukten nach § 45 Absatz 1 Satz 3 wird nach folgender Formel festgesetzt:
+
+E
+
+t =
+
+P
+
+BKS ×
+
+BKS +
+
+P
+
+BKB ×
+
+BKB –
+
+RBK × (
+
+P
+
+RBK ×
+
+Infl
+
+tT ×
+
+H
+
+u +
+
+P
+
+RHB)  
+– (
+
+C
+
+BKS ×
+
+BKS
+
+CO2 +
+
+BKB
+
+CO2 ×
+
+C
+
+BKB) ×
+
+EUA
+
+t –
+
+VEFIX
+
+Im Sinne dieser Anlage ist oder sind:
+
+P
+
+BKS der durch Wirtschaftsprüfer-Testat rechnerisch ermittelte jahresdurchschnittliche Preis für Braunkohlestaub der Jahre 2028 bis 2030 in Euro je Tonne, gewichtet nach der Menge des Absatzes von Braunkohlestaub inklusive etwaiger Weiterverrechnung von Emissionshandelskosten oder -abgaben,
+
+P
+
+BKB der durch Wirtschaftsprüfer-Testat rechnerisch ermittelte jahresdurchschnittliche Preis für Braunkohlebriketts der Jahre 2028 bis 2030 in Euro je Tonne, gewichtet nach der Menge des Absatzes von Braunkohlebriketts inklusive etwaiger Weiterverrechnung von Emissionshandelskosten oder -abgaben,
+
+BKS das durch Wirtschaftsprüfer-Testat rechnerisch ermittelte arithmetische Mittel des Braunkohlestaubabsatzes der Jahre 2028 bis 2030 in Tonnen,
+
+BKB das durch Wirtschaftsprüfer-Testat rechnerisch ermittelte arithmetische Mittel des Braunkohlebrikettabsatzes der Jahre 2028 bis 2030 in Tonnen,
+
+RBK das arithmetische Mittel des Braunkohlebedarfs zur Herstellung des Absatzes von Braunkohlebriketts und Braunkohlestaub der Jahre 2028 bis 2030 in Tonnen,
+
+P
+
+RBK der Rohbraunkohlepreis in Höhe von 1,97 Euro je verwendeter Megawattstunde Braunkohle,
+
+Infl
+
+tT der Faktor der Inflation, ermittelt aus den Inflationsraten zwischen 2025 und dem betrachteten Jahr T (Durchschnitt der Jahre 2028 bis 2030) nach dem Index der Erzeugerpreise gewerblicher Produkte (Vorleistungsgüter) für das Jahr t nach Destatis,
+
+H
+
+u der durchschnittliche untere Heizwert der zur Veredelung eingesetzten Rohbraunkohle,
+
+P
+
+RHB der durch Wirtschaftsprüfer-Testat vom Betreiber nachzuweisende mengengewichtete Preis für die bei der Veredelung anfallenden variablen sonstigen Roh-, Hilfs- und Betriebsstoffe in Euro je Tonne in den Jahren 2028 bis 2030,
+
+C
+
+BKS der relevante Emissionsfaktor Braunkohlestaub in Tonne Kohlenstoffdioxid je Tonne Braunkohlestaub,
+
+C
+
+BKB der relevante Emissionsfaktor Braunkohlebrikett in Tonne Kohlenstoffdioxid je Tonne Braunkohlebrikett,
+
+BKS
+
+CO2 die emissionshandelspflichtige Absatzmenge Braunkohlestaub in Tonnen als das vom Betreiber durch Wirtschaftsprüfer-Testat rechnerisch ermittelte arithmetische Mittel des Braunkohlestaubabsatzes der Jahre 2028 bis 2030 in Tonnen abzüglich des vom Betreiber durch Wirtschaftsprüfer-Testat rechnerisch ermittelten arithmetischen Mittels etwaiger nicht dem Europäischen Emissionshandel oder dem Brennstoffemissionshandelsgesetz unterliegenden Anteile des Braunkohlestaubabsatzes der Jahre 2028 bis 2030,
+
+BKB
+
+CO2 die emissionshandelspflichtige Absatzmenge Braunkohlebriketts in Tonnen als das vom Betreiber durch Wirtschaftsprüfer-Testat rechnerisch ermittelte arithmetische Mittel des Braunkohlebrikettabsatzes der Jahre 2028 bis 2030 in Tonnen abzüglich des vom Betreiber durch Wirtschaftsprüfer-Testat rechnerisch ermittelten arithmetischen Mittels etwaiger nicht dem Europäischen Emissionshandel oder dem Brennstoffemissionshandelsgesetz unterliegenden Anteile des Braunkohlebrikettabsatzes der Jahre 2028 bis 2030,
+
+EUA
+
+t Jahresmittelwert des Preises im Jahr 2030 für Emissionsberechtigungen des Jahres t in Euro je Tonne Kohlendioxid; dabei gilt Folgendes:
+
+1. Emissionsberechtigungen sind die jeweils gültigen Berechtigungen nach dem Brennstoffemissionshandelsgesetz (BEHG) und die daraus resultierenden (jahresdurchschnittlichen) Futures-Preise für das jeweils zu betrachtende Jahr t;
+
+2. für den Fall, dass entsprechende Futures nicht vorliegen oder das BEHG in das Europäische Emissionshandelssystem überführt wird, gilt der rechnerisch ermittelte jahresdurchschnittliche Preis aller verfügbaren Handelstage im Zeitraum vom 1. Januar 2030 bis zum 31. Dezember 2030 für die jeweiligen Futureprodukte für das jeweils zu betrachtende Jahr t für Emissionsberechtigungen am Terminmarkt der Energiebörse European Energy Exchange AG in Leipzig für die jeweilige Preiszone in Euro je Tonne Kohlendioxid;
+
+3. soweit an der Energiebörse noch kein Preis des Jahres-Futures für ein relevantes Lieferjahr ermittelt wurde, wird der Preis für das letzte verfügbare relevante Lieferjahr in Ansatz gebracht;
+
+4. in Abhängigkeit der Rahmenbedingungen zum Bewertungszeitpunkt gilt dabei gegebenenfalls auch ein mengengewichteter Mischpreis nach BEHG und Europäischem Emissionshandelssystem,
+
+VEFIX die durch Verringerung oder endgültige Beendigung der Produktion abbaubaren fixen Betriebskosten in Euro als das durch Wirtschaftsprüfer-Testat zu ermittelnde arithmetische Mittel der durch Verringerung oder endgültige Beendigung der Produktion abbaubaren fixen operativen Aufwände der Jahre 2028 bis 2030; dabei beinhalten diese unter anderem Personalkosten, Instandhaltungskosten, Material- und Fremdleistungen und sonstigen betrieblichen Aufwand,
+
+T Durchschnitt der Jahre 2028 bis 2030,
+
+t das jeweilige betrachtete Kalenderjahr, für welches die Entschädigung berechnet wird.
+
+Anwendung der Formel:
+
+Die Ermittlung der Entschädigung anhand dieser Formel erfolgt einmalig im Jahr 2031 für die Jahre 2031 bis 2033 nach Übermittlung der notwendigen Daten durch die Lausitz Energie Kraftwerk AG. Ergibt die Anwendung der Formel für ein Jahr t einen Wert &lt;= 0, wird für das Jahr t keine Entschädigung gezahlt. Ein negativer Wert für das Jahr 2031 oder 2032 wird mit dem Formelergebnis im jeweiligen Folgejahr verrechnet. Wird der Tagebau Welzow-Süd vor dem 31. Dezember 2030 endgültig geschlossen, ist diese Formel nicht anzuwenden.

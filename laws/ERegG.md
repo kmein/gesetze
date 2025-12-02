@@ -623,7 +623,11 @@ Ein Eisenbahnverkehrsunternehmen kann zur Erfüllung seiner Verpflichtungen aus 
 
 # § 26 – Verfahren im Rahmen der Anreizsetzung
 
-(1) Nach Ermittlung der jährlichen Obergrenze der Gesamtkosten prüft die Regulierungsbehörde auf Antrag des betroffenen Betreibers der Schienenwege oder von Amts wegen, ob der errechnete Wert für den jeweiligen Betreiber tatsächlich erreichbar ist und nimmt gegebenenfalls Anpassungen vor. Die jährliche Obergrenze der Gesamtkosten wird dem betreffenden Betreiber der Schienenwege mitgeteilt.
+(1) Nach Ermittlung der jährlichen Obergrenze der Gesamtkosten prüft die Regulierungsbehörde auf Antrag des betroffenen Betreibers der Schienenwege oder von Amts wegen, ob der ermittelte Wert noch zutreffend und für den Betreiber der Schienenwege tatsächlich erreichbar ist. Ergibt die Prüfung nach Satz 1, dass der ermittelte Wert nicht länger zutreffend ist oder tatsächlich nicht erreicht werden kann, hat die Regulierungsbehörde die jährliche Obergrenze der Gesamtkosten anzupassen. Der ermittelte Wert ist dann nicht mehr zutreffend im Sinne von Satz 1, wenn sich der Umfang der Infrastruktur wesentlich geändert hat. Der ermittelte Wert gilt als tatsächlich nicht erreichbar im Sinne von Satz 1, wenn ein außerhalb des Einflussbereichs des Betreibers der Schienenwege liegendes Ereignis dazu führt, dass die für die Erbringung des Mindestzugangspakets insgesamt entstehenden Kosten den ermittelten Wert mehr als geringfügig übersteigen. Entstehende kalkulatorische Kapitalkosten werden berücksichtigt, soweit die Verzinsung Anlage 4 Nummer 5 entspricht.
+
+(1a) Die Regulierungsbehörde hat auf Antrag oder von Amts wegen die jährliche Obergrenze der Gesamtkosten abzusenken, soweit sich durch zusätzliche Zuwendungen oder aus einer gesetzlichen Vorgabe gegenüber dem ermittelten Wert mehr als geringfügig reduzierte Kosten ergeben.
+
+(1b) Die Regulierungsbehörde hat dem betroffenen Betreiber der Schienenwege eine nach Absatz 1 Satz 2 angepasste oder nach Absatz 1a abgesenkte jährliche Obergrenze der Gesamtkosten mitzuteilen.
 
 (2) Nach Mitteilung der Obergrenze der Gesamtkosten hat ein Betreiber der Schienenwege die Entgelte für die einzelnen Verkehrsdienste und deren Marktsegmente auf der Grundlage der §§ 23 und 31 bis 41 festzulegen und von der Regulierungsbehörde nach § 45 genehmigen zu lassen. Die mit den Betriebsleistungen nach § 25 Absatz 1 gewichtete Summe dieser Entgelte darf die Obergrenze der Gesamtkosten nicht übersteigen. Die Obergrenze der Gesamtkosten dient ausschließlich als Grundlage für die Begrenzung der zu genehmigenden Entgelte und nicht zur Begrenzung des zu erzielenden Gesamtumsatzes.
 
@@ -1649,7 +1653,7 @@ Die Kosten mindern sich um sonstige neben der Leistungsbereitstellung nach § 25
 5. Kapitalkosten
 
 5.1  
-Die zulässige Verzinsung für das eingesetzte Kapital bestimmt sich aus einer kapitalmarktüblichen Verzinsung.
+Die zulässige Verzinsung für das eingesetzte Kapital bestimmt sich, vorbehaltlich der Ziffer 5.2.3, aus einer kapitalmarktüblichen Verzinsung.
 
 5.2  
 Die Regulierungsbehörde legt die Zinssätze für die Betreiber der Schienenwege auf Basis der tatsächlichen Kapitalstruktur fest.
@@ -1659,6 +1663,9 @@ Für die Verzinsung des Fremdkapitals ist ein kalkulatorischer Zinssatz anzusetz
 
 5.2.2  
 Für den anzusetzenden Eigenkapitalzinssatz für Betreiber der Schienenwege differenziert die Regulierungsbehörde in Abhängigkeit vom Anteil des Schienengüterverkehrs am Umsatz des jeweiligen Betreibers der Schienenwege.
+
+5.2.3  
+Für die Verzinsung des Eigenkapitals eines Betreibers der Schienenwege der Eisenbahnen des Bundes ist ein Zinssatz von 1,9 Prozent anzusetzen.
 
 5.3  
 Zur Ermittlung der Kapitalkosten werden die festgelegten Zinssätze auf das für das Mindestzugangspaket nach Anlage 2 Nummer 1 eingesetzte, verzinsliche Kapital nach § 25 Absatz 1 angewendet.

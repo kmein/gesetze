@@ -82,16 +82,6 @@ c) "höchstens ...% Fett" bei entrahmter Milch;.
 
 (3) Soweit in dieser Verordnung auf die Lebensmittel-Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
-# § 5 – Inkrafttreten, Übergangsvorschriften
+# § 5 – Außerkrafttreten
 
-(1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
-(2) Milch, die
-
-1. nicht den Fettgehaltsstufen für Vollmilch, teilentrahmte (fettarme) Milch oder entrahmte Milch (Magermilch) entspricht, und
-
-2. mit einer anderen Bezeichnung als Trinkmilch gekennzeichnet ist,
-
-darf noch bis zum 1. Juni 2011 in den Verkehr gebracht werden.
-
-(3) (weggefallen)
+Diese Verordnung tritt am 14. Juli 2026 außer Kraft.

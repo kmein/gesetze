@@ -172,8 +172,6 @@ Darüber hinaus soll sich der Fachbeirat aus drei Mitgliedern der Wissenschaft, 
 
 (5) Die Vorschriften des § 8 Absatz 1 Satz 1 und 3 bis 11, Absatz 2, 3 und 7 sind entsprechend anzuwenden.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 9 – Haushaltsplan
 
 (1) Der Haushaltsplan ist nach den Grundsätzen der §§ 105 bis 112 der Bundeshaushaltsordnung aufzustellen.

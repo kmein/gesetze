@@ -46,7 +46,7 @@
 
 (3) Hilfsmittel der körperlichen Gewalt sind insbesondere Fesseln, Wasserwerfer, technische Sperren, Diensthunde, Dienstpferde und Dienstfahrzeuge.
 
-(4) Waffen sind die dienstlich zugelassenen Hieb- und Schußwaffen, Reizstoffe und Explosivmittel.
+(4) Waffen sind die dienstlich zugelassenen Hieb- und Schußwaffen, Distanz-Elektroimpulsgeräte, Reizstoffe und Explosivmittel.
 
 # § 3 – Einschränkung von Grundrechten
 

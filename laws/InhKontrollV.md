@@ -25,6 +25,8 @@ an dem eine bedeutende Beteiligung im Sinne des § 1 Absatz 9 des Kreditwesenges
 
 (3) Anzeigen, Unterlagen, Mitteilungen und Erklärungen können auch ganz oder teilweise in englischer Sprache eingereicht werden. Die Bundesanstalt kann jederzeit bei Bedarf die Vorlage einer Übersetzung oder in begründeten Fällen einer beglaubigten oder von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer angefertigten Übersetzung verlangen. § 23 Absatz 2 Satz 3 und 4 des Verwaltungsverfahrensgesetzes gilt entsprechend. Sofern die Bundesanstalt eine Übersetzung verlangt, ist allein die deutschsprachige Fassung rechtlich maßgeblich. Soweit die Bundesanstalt vor Bestätigung des Eingangs der vollständigen Anzeige eine Übersetzung verlangt, ist die Anzeige erst vollständig im Sinne des § 2c Absatz 1 Satz 9 des Kreditwesengesetzes oder § 17 Absatz 3 des Versicherungsaufsichtsgesetzes, wenn die Übersetzung bei der Bundesanstalt oder der für das betroffene Kreditinstitut oder Finanzdienstleistungsinstitut zuständigen Hauptverwaltung der Deutschen Bundesbank eingereicht ist. Sofern die Bundesanstalt in Bezug auf weitere Informationen im Sinne des § 2c Absatz 1a Satz 3 des Kreditwesengesetzes oder § 17 Absatz 4 Satz 3 des Versicherungsaufsichtsgesetzes eine Übersetzung verlangt, gelten diese Informationen erst als bei der Bundesanstalt eingegangen, wenn die Übersetzung bei der Bundesanstalt eingegangen ist.
 
+(4) Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank sind Anzeigen und Unterlagen elektronisch einzureichen. Die Bundesanstalt und die Deutsche Bundesbank informieren jeweils auf ihren Internetseiten über die elektronischen Einreichungswege.
+
 # § 3 – Angaben zum Empfangsbevollmächtigten im Inland
 
 Anzeigepflichtige ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland müssen im Formular nach § 6 Absatz 1 Satz 1 und § 17 Absatz 1 Satz 1 den Namen und die Anschrift eines Empfangsbevollmächtigten im Inland angeben. Die Bevollmächtigung ist durch Vorlage der entsprechenden Urkunde im Original oder als amtlich oder öffentlich beglaubigte Kopie nachzuweisen.
@@ -129,6 +131,8 @@ b) bei sonstigen Anzeigepflichtigen amtlich oder öffentlich beglaubigte Kopien 
 
 9. Aufstellungen über weitere Mandate als Geschäftsleiter oder als Mitglieder von Verwaltungs- oder Aufsichtsorganen anderer Unternehmen, die Personen nach Nummer 7 wahrnehmen.
 
+10. Für sonstige Anzeigepflichtige bzw. Anzeigepflichtige, die keine natürlichen Personen sind, mit Sitz in der Bundesrepublik Deutschland, entfällt die Verpflichtung, die Kopie eines Dokuments amtlich oder öffentlich beglaubigen zu lassen, wenn das Dokument aus dem von den Landesjustizverwaltungen bestimmten elektronischen Informations- und Kommunikationssystem, über das die Daten aus den Handelsregistern abrufbar sind, zugänglich ist; eine Kopie des Dokuments aus dem Handelsregister ist ausreichend.
+
 # § 8a – Zusätzliche Unterlagen und Erklärungen bestimmter Anzeigepflichtiger
 
 (1) Ist der Anzeigepflichtige keine natürliche Person und hat er seinen Sitz in einem Drittstaat, so sind den Anzeigen folgende Unterlagen und Erklärungen beizufügen:
@@ -187,13 +191,13 @@ b) bei sonstigen Anzeigepflichtigen amtlich oder öffentlich beglaubigte Kopien 
 
 (7) Der Anzeigepflichtige hat in dem jeweiligen Formular nach den Absätzen 1, 4 oder 5 ferner zu erklären, ob seine Zuverlässigkeit, die Zuverlässigkeit der Personen nach § 8 Nummer 3 oder Nummer 7 oder die Zuverlässigkeit eines Anteilsinhabers, der auf den Anzeigepflichtigen einen maßgeblichen Einfluss ausüben kann, als Erwerber einer bedeutenden Beteiligung an einem Zielunternehmen oder als Geschäftsleiter eines Zielunternehmens durch eine andere Aufsichtsbehörde geprüft worden ist. Er hat auch zu erklären, ob eine vergleichbare Prüfung durch eine andere Behörde erfolgt ist. Amtliche Dokumente über das Ergebnis dieser Prüfung sind dem jeweiligen Formular beizufügen. Liegen dem Anzeigepflichtigen solche Dokumente nicht vor, hat er dies zu begründen. Bei den Angaben nach den Sätzen 1 und 2 können Prüfungen unberücksichtigt bleiben, die vor mehr als einem Jahr vor dem Beginn des Jahres, in dem die Anzeige eingereicht wird, abgeschlossen worden sind.
 
-(8) Anzeigepflichtige natürliche Personen, Personen nach § 8 Nummer 3 oder Nummer 7 und natürliche Personen, die als Anteilsinhaber auf den Anzeigepflichtigen einen maßgeblichen Einfluss ausüben können, haben bei der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde ein Führungszeugnis zur Vorlage bei einer Behörde gemäß § 30 Absatz 5 oder § 30b des Bundeszentralregistergesetzes einzureichen. Das Führungszeugnis darf zum Zeitpunkt des Einreichens nicht älter als drei Monate sein. Maßgeblich hierfür ist das Ausstellungsdatum. Personen, die einem Staat angehören oder ihren Wohnsitz in einem Staat haben, der keine Dokumente nach Satz 1 ausstellt, haben Dokumente aus dem Herkunfts- oder Wohnsitzstaat einzureichen, die den Dokumenten nach Satz 1 entsprechen. Werden dort auch derartige Dokumente nicht ausgestellt, so ist der Umfang der einzureichenden Ersatzunterlagen mit der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde im Einzelfall abzustimmen. Personen, die in den letzten zehn Jahren Wohnsitze in verschiedenen Staaten hatten, müssen die Führungszeugnisse und Unterlagen aus jedem dieser Staaten beibringen.
+(8) Anzeigepflichtige natürliche Personen, Personen nach § 8 Nummer 3 oder Nummer 7 und natürliche Personen, die als Anteilsinhaber auf den Anzeigepflichtigen einen maßgeblichen Einfluss ausüben können, haben bei der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde ein Führungszeugnis zur Vorlage bei einer Behörde gemäß § 30 Absatz 5 oder § 30b des Bundeszentralregistergesetzes einzureichen. Das Führungszeugnis darf zum Zeitpunkt des Einreichens nicht älter als drei Monate sein. Maßgeblich hierfür ist das Ausstellungsdatum. Personen, die einem anderen Staat als der Bundesrepublik Deutschland angehören oder deren Wohnsitz in einem anderen Staat als der Bundesrepublik Deutschland liegt, haben Dokumente aus dem Herkunfts- oder Wohnsitzstaat einzureichen, die den Dokumenten nach Satz 1 entsprechen oder zumindest gleichwertig sind. Satz 4 gilt nicht, soweit etwaige Eintragungen in den Strafregistern dieser Staaten bereits aus einem Führungszeugnis nach § 30b des Bundeszentralregistergesetzes hervorgehen würden. Werden im Herkunfts- oder Wohnsitzstaat Dokumente nach Satz 4 nicht ausgestellt, so ist der Umfang der einzureichenden Ersatzunterlagen mit der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde abzustimmen. Personen, die in den letzten zehn Jahren Wohnsitze in verschiedenen Staaten hatten, müssen die Führungszeugnisse und Unterlagen aus jedem dieser Staaten beibringen. In Fällen des Satzes 7 gilt Satz 5 im Hinblick auf den jeweiligen Staat entsprechend.
 
-(9) Anzeigepflichtige natürliche Personen, Personen nach § 8 Nummer 3 oder Nummer 7 und natürliche Personen, die als Anteilsinhaber auf den Anzeigepflichtigen einen maßgeblichen Einfluss ausüben können, haben, wenn sie einen Wohnsitz in Deutschland innehaben oder hatten oder eine berufliche Tätigkeit in Deutschland ausüben oder ausgeübt haben, bei der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde einen Auszug aus dem Gewerbezentralregister gemäß § 150 der Gewerbeordnung einzureichen. Der Registerauszug darf zum Zeitpunkt des Einreichens nicht älter als drei Monate sein. Maßgeblich hierfür ist das Ausstellungsdatum des Dokuments.
+(9) Anzeigepflichtige natürliche Personen, Personen nach § 8 Nummer 3 oder Nummer 7 und natürliche Personen, die als Anteilsinhaber auf den Anzeigepflichtigen einen maßgeblichen Einfluss ausüben können, haben, wenn sie in den letzten zehn Jahren in der Bundesrepublik Deutschland einen Wohnsitz hatten oder in den letzten zehn Jahren in der Bundesrepublik Deutschland eine berufliche Tätigkeit ausgeübt haben, bei der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde einen Auszug aus dem Gewerbezentralregister gemäß § 150 der Gewerbeordnung einzureichen. Der Registerauszug darf zum Zeitpunkt des Einreichens nicht älter als drei Monate sein. Maßgeblich hierfür ist das Ausstellungsdatum des Dokuments.
 
 # § 10 – Lebenslauf
 
-(1) Den Anzeigen sind ein Lebenslauf des Anzeigepflichtigen, sofern dieser eine natürliche Person ist, und ein eigenhändig unterzeichneter Lebenslauf jeder natürlichen Person nach § 8 Nummer 3 oder Nummer 7 beizufügen.
+(1) Den Anzeigen sind ein Lebenslauf des Anzeigepflichtigen, sofern dieser eine natürliche Person ist, und ein Lebenslauf jeder natürlichen Person nach § 8 Nummer 3 oder Nummer 7 beizufügen.
 
 (2) Der nach Absatz 1 einzureichende Lebenslauf muss die nachfolgenden Angaben enthalten:
 
@@ -317,7 +321,7 @@ Ist der Anzeigepflichtige keine natürliche Person, so ist der Anzeige eine Anal
 
 4. Berichte über die Jahresabschlussprüfung unabhängiger Abschlussprüfer der letzten drei Geschäftsjahre der vom Anzeigepflichtigen kontrollierten Unternehmen und der Unternehmen, deren Geschäfte er führt, sofern diese aufzustellen sind oder freiwillig aufgestellt wurden.
 
-(4) Ist der Anzeigepflichtige ein neu gegründetes Unternehmen, so hat er statt der in Absatz 2 und Absatz 3 Nummer 3 und 4 genannten Unterlagen Planbilanzen sowie Plangewinn- und Planverlustrechnungen für die nächsten drei Geschäftsjahre einschließlich der zugrunde gelegten Planungsannahmen einzureichen.
+(4) Ist der Anzeigepflichtige ein neu gegründetes Unternehmen, so hat er statt der in Absatz 2 genannten Unterlagen Planbilanzen sowie Plangewinn- und Planverlustrechnungen für die nächsten drei Geschäftsjahre einschließlich der zugrunde gelegten Planungsannahmen einzureichen.
 
 (5) Gehört der Anzeigepflichtige einem Konzern an, muss die Darstellung nach Absatz 1 zusätzlich enthalten:
 
@@ -383,17 +387,11 @@ Ist das Zielunternehmen ein Lebensversicherungsunternehmen oder ein Pensionsfond
 
 # § 16 – Abweichende Vorlage- und Nachweispflichten
 
-(1) Der Anzeigepflichtige muss Unterlagen und Erklärungen nicht erneut einreichen, die er innerhalb der letzten zwei Jahre vor der aktuellen Anzeige mit einer Anzeige nach
-
-1. § 2c Absatz 1 Satz 1, 5, 6 oder 7 des Kreditwesengesetzes oder
-
-2. § 17 Absatz 1 Satz 1 Nummer 1 oder 2, Satz 2 Nummer 1 erster Halbsatz oder Absatz 2 des Versicherungsaufsichtsgesetzes
-
-eingereicht hat, es sei denn, die in den Unterlagen und Erklärungen enthaltenen Angaben treffen nicht mehr zu. Die Bundesanstalt oder die zuständige Landesaufsichtsbehörde kann im Einzelfall einen längeren Zeitraum zulassen. Der Anzeigepflichtige muss Unterlagen und Erklärungen nach Satz 1 ohne zeitliche Einschränkung nicht erneut einreichen, sofern durch einen Erwerb lediglich eine bestehende indirekte bedeutende Beteiligung zu einer direkten bedeutenden Beteiligung würde oder wurde, es sei denn, die in den Unterlagen und Erklärungen enthaltenen Angaben treffen nicht mehr zu. Treffen sämtliche in den Unterlagen und Erklärungen nach Satz 1 enthaltenen Angaben noch zu, hat der Anzeigepflichtige dies in dem Formular nach § 6 Absatz 1 anzugeben. Ist der Anzeigepflichtige bereits Inhaber einer bedeutenden Beteiligung, braucht er seine Identität oder Existenz nach § 8 Nummer 1 nicht erneut nachzuweisen. Die Bundesanstalt oder die zuständige Landesaufsichtsbehörde kann die in den Sätzen 1, 3 und 5 genannten Unterlagen und Erklärungen jedoch im Rahmen des § 2c Absatz 1a Satz 3 bis 9 des Kreditwesengesetzes oder des § 17 Absatz 4 Satz 3 bis 9 des Versicherungsaufsichtsgesetzes anfordern.
+(1) Der Anzeigepflichtige muss Unterlagen und Erklärungen nicht erneut einreichen, die er der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde in der Vergangenheit bereits eingereicht hat, soweit die in den Unterlagen und Erklärungen enthaltenen Angaben noch zutreffen, es sei denn, die Unterlagen und Erklärungen liegen bei der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde nicht mehr vor. Treffen sämtliche in den Unterlagen und Erklärungen nach Satz 1 enthaltenen Angaben noch zu, hat der Anzeigepflichtige dies in dem Formular nach § 6 Absatz 1 zu bestätigen. Die Bundesanstalt oder die zuständige Landesaufsichtsbehörde kann die in Satz 1 genannten Unterlagen und Erklärungen jedoch im Rahmen des § 2c Absatz 1a Satz 3 bis 9 des Kreditwesengesetzes oder des § 17 Absatz 4 Satz 3 bis 9 des Versicherungsaufsichtsgesetzes anfordern. Erklärungen und Unterlagen zur Zuverlässigkeit nach § 9 Absatz 8 und 9, müssen neu eingereicht werden, wenn sie seit der Ausstellung älter als zwölf Monate sind oder wenn vor Ablauf dieser zwölf Monate Änderungen eingetreten sind.
 
 (2) Ist der Anzeigepflichtige der Bund, die Deutsche Bundesbank, ein rechtlich unselbständiges Sondervermögen des Bundes oder eines Landes, ein Land, eine Gemeinde oder ein Gemeindeverband, so müssen die Unterlagen und Erklärungen nach den §§ 8 bis 15 nicht beigefügt werden.
 
-(3) Ist der Anzeigepflichtige ein zugelassenes Kreditinstitut, Finanzdienstleistungsinstitut, Wertpapierinstitut, Versicherungsunternehmen oder ein zugelassener Pensionsfonds, jeweils mit Sitz im Inland, oder eine Kapitalverwaltungsgesellschaft, die eine Erlaubnis nach den §§ 20 und 21 oder den §§ 20 und 22 des Kapitalanlagegesetzbuchs hat, so müssen die Unterlagen und Erklärungen nach § 8 Nummer 1 bis 5 und den §§ 9 bis 11, 12 und 13 sowie die Darstellung und die Nachweise über das Vorhandensein und die Herkunft der Eigen- und Fremdmittel nach § 14 nicht beigefügt werden.
+(3) Ist der Anzeigepflichtige ein zugelassenes Kreditinstitut, Finanzdienstleistungsinstitut, Wertpapierinstitut, E-Geld-Institut, Zahlungsinstitut im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes, Versicherungsunternehmen oder ein zugelassener Pensionsfonds, jeweils mit Sitz im Inland, oder eine Kapitalverwaltungsgesellschaft, die eine Erlaubnis nach den §§ 20 und 21 oder den §§ 20 und 22 des Kapitalanlagegesetzbuchs hat, so müssen die Unterlagen und Erklärungen nach § 8 Nummer 1 bis 5 und den §§ 9 bis 11, 12 und 13 sowie die Darstellung und die Nachweise über das Vorhandensein und die Herkunft der Eigen- und Fremdmittel nach § 14 nicht beigefügt werden.
 
 (4) Ist der Anzeigepflichtige eine Finanzholding-Gesellschaft oder eine gemischte Finanzholding-Gesellschaft nach § 1 Absatz 35 des Kreditwesengesetzes in Verbindung mit Artikel 4 Absatz 1 Nummer 20 oder 21 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013,
 
@@ -403,19 +401,29 @@ S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25
 
 (6) Ist der Anzeigepflichtige eine Zentralregierung, eine Zentralnotenbank, eine Regionalregierung oder eine örtliche Gebietskörperschaft eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder die Europäische Zentralbank, so müssen die Unterlagen und Erklärungen nach den §§ 8 bis 15 nicht beigefügt werden.
 
-(7) Ist der Anzeigepflichtige ein in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zugelassenes CRR-Kreditinstitut, Wertpapierinstitut, E-Geld-Institut, Versicherungsunternehmen oder zugelassener Pensionsfonds, so müssen die Unterlagen und Erklärungen nach den §§ 9 und 10 nicht beigefügt werden. Bei den Unterlagen nach § 15 Absatz 1 Satz 4 Nummer 5 sind Angaben zu den konkreten Abteilungen innerhalb der Gruppenstruktur, auf die sich die Transaktion auswirkt, ausreichend.
+(7) Ist der Anzeigepflichtige ein in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zugelassenes CRR-Kreditinstitut, Wertpapierinstitut, E-Geld-Institut, Zahlungsinstitut im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes, Versicherungsunternehmen oder zugelassener Pensionsfonds, so müssen die Unterlagen und Erklärungen nach den §§ 9 und 10 nicht beigefügt werden. Bei den Unterlagen nach § 15 Absatz 1 Satz 4 Nummer 5 sind Angaben zu den konkreten Abteilungen innerhalb der Gruppenstruktur, auf die sich die Transaktion auswirkt, ausreichend.
 
 (8) Wird der Anzeigepflichtige in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum nach Maßgabe der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32; L 269 vom 13.10.2010, S. 27), die zuletzt durch die Richtlinie (EU) 2021/2261 (ABl. L 455 vom 20.12.2021, S. 15) geändert worden ist, oder nach Maßgabe der Richtlinie 2011/61/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 über die Verwalter alternativer Investmentfonds und zur Änderung der Richtlinien 2003/41/EG und 2009/65/EG und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 1095/2010 (ABl. L 174 vom 1.7.2011, S. 1; L 115 vom 27.4.2012, S. 35), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64; L 405 vom 2.12.2020, S. 84; L 214 vom 17.6.2021, S. 74) geändert worden ist, beaufsichtigt, so müssen die Unterlagen und Erklärungen nach den §§ 9 und 10 nicht beigefügt werden.
 
 (9) Ist der Anzeigepflichtige ein Unternehmen eines Konzerns, dem mehrere Anzeigepflichtige angehören, und ist der Bundesanstalt eine vollständige Anzeige nach § 6 von einem dieser Anzeigepflichtigen fristgerecht vorgelegt worden, so müssen die Unterlagen und Erklärungen nach den §§ 9 und 10, nach § 11 Absatz 1 Nummer 1 Buchstabe a bis d und nach § 13 Absatz 5 und 7 Satz 2 nicht eingereicht werden, soweit der andere konzernangehörige Anzeigepflichtige verpflichtet war, diese einzureichen.
 
-(10) Die Bundesanstalt oder die zuständige Landesaufsichtsbehörde kann auf Unterlagen und Erklärungen bei den Anzeigepflichtigen, die konzernangehörig sind, ganz oder teilweise verzichten, soweit sie am Zielunternehmen nur indirekt beteiligt wären und nicht an der Spitze des Konzerns stehen. Die Bundesanstalt oder die zuständige Landesaufsichtsbehörde unterrichtet den Anzeigepflichtigen schriftlich über diese Entscheidung. Die in Satz 1 genannten Anzeigepflichtigen sind unabhängig vom Grad ihrer Beteiligung im Rahmen des § 15 nur zur Beifügung von Unterlagen nach § 15 Absatz 3 verpflichtet. Handelt es sich um einen Erwerbsvorgang innerhalb eines Konzerns, so muss der Anzeigepflichtige Unterlagen und Erklärungen nur einreichen, soweit diese Angaben zu Personen und Unternehmen sowie der Gruppenstruktur enthalten, die nicht aus früheren Anzeigen nach § 2c Absatz 1 Satz 1, 5, 6 oder 7 des Kreditwesengesetzes oder § 17 Absatz 1 Satz 1 Nummer 1 oder 2, Satz 2 Nummer 1 erster Halbsatz oder Absatz 2 des Versicherungsaufsichtsgesetzes bekannt sind oder soweit frühere Angaben nicht mehr zutreffen.
+(10) Im Fall des Absatzes 9 müssen ferner Unterlagen und Erklärungen nach den §§ 8 bis 15 nicht eingereicht werden, soweit das anzeigepflichtige Unternehmen nicht an der Spitze des Konzerns steht und lediglich indirekte Beteiligungen erwirbt oder erhöht.
 
 (11) Den Anzeigen können statt der Arbeitszeugnisse nach § 10 Absatz 2 Satz 4 eine Liste von Referenzpersonen mit Angabe der E-Mail-Adresse sowie Empfehlungsschreiben beigefügt werden, wenn das Zielunternehmen ein Unternehmen nach § 1 Nummer 3 bis 5 ist.
 
-(12) Den Anzeigen müssen die Unterlagen nach § 13 Absatz 2, Absatz 3 Nummer 3 und 4 sowie Absatz 4 und 5 nicht beigefügt werden, wenn das Zielunternehmen ein Finanzdienstleistungsinstitut ist. Den Anzeigen müssen auch die Unterlagen und Erklärungen nach §§ 13 Absatz 3 Nummer 1 und 2 sowie 15 Absatz 1 Satz 6 Nummer 1 nicht beigefügt werden, wenn das Zielunternehmen ein Finanzdienstleistungsinstitut ist, das ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 und 10 des Kreditwesengesetzes erbringt. Ist das Zielunternehmen ein Finanzdienstleistungsinstitut, das ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 und 10 des Kreditwesengesetzes erbringt, brauchen Anzeigepflichtige, die konzernangehörig sind, auch sonstige Unterlagen und Erklärungen nach den §§ 8 bis 15 nicht einzureichen, soweit sie am Zielunternehmen nur indirekt beteiligt wären und nicht an der Spitze des Konzerns stehen oder soweit es sich um einen Erwerbsvorgang innerhalb eines Konzerns handelt.
+(12) Den Anzeigen müssen die Unterlagen nach § 13 Absatz 2, Absatz 3 Nummer 3 und 4 sowie Absatz 4 und 5 nicht beigefügt werden, wenn das Zielunternehmen ein Finanzdienstleistungsinstitut ist.
 
-(13) Für die Absätze 2 bis 9, Absatz 10 Satz 3 und 4 und Absatz 12 gilt Absatz 1 Satz 6 entsprechend.
+(12a) Handelt es sich beim Zielunternehmen um ein Finanzdienstleistungsinstitut, das ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 und 10 des Kreditwesengesetzes erbringt,
+
+1. müssen auch die Unterlagen und Erklärungen nach § 13 Absatz 3 Nummer 1 und 2 sowie nach § 15 Absatz 1 Satz 6 Nummer 1 nicht beigefügt werden;
+
+2. müssen Anzeigepflichtige, die konzernangehörig sind, auch sonstige Unterlagen und Erklärungen nach den §§ 8 bis 15 nicht einreichen, soweit es sich um einen Erwerbsvorgang innerhalb des Konzerns handelt;
+
+3. kann die Bundesanstalt auf die Einreichung von Unterlagen und Erklärungen ganz oder teilweise verzichten, wenn das Zielunternehmen sich in Abwicklung befindet.
+
+Die Bundesanstalt unterrichtet den Anzeigepflichtigen schriftlich oder elektronisch darüber, ob sie auf die Einreichung nach Satz 1 Nummer 3 verzichtet.
+
+(13) Für die Absätze 2 bis 10, den Absatz 12 sowie den Absatz 12a gilt Absatz 1 Satz 3 entsprechend.
 
 (+++ §§ 4, 5 u. 16: Zur Anwendung vgl. § 14 Abs. 5 Satz 3 AnzV 2016 +++)
 
@@ -441,7 +449,7 @@ ist das Formular „Aufgabe-Verringerung“ nach Anlage 7 zu verwenden. Auf die 
 
 (2) Ist der Inhaber der bedeutenden Beteiligung der Bund, die Deutsche Bundesbank, ein rechtlich unselbständiges Sondervermögen des Bundes oder eines Landes, ein Land, eine Gemeinde oder ein Gemeindeverband, so ist die Anzeige nach Absatz 1 entbehrlich.
 
-(3) Ist der Inhaber der bedeutenden Beteiligung ein zugelassenes Kreditinstitut, Finanzdienstleistungsinstitut, Wertpapierinstitut, Versicherungsunternehmen oder ein zugelassener Pensionsfonds, jeweils mit Sitz im Inland, oder eine Kapitalverwaltungsgesellschaft, die eine Erlaubnis nach den §§ 20 und 21 oder den §§ 20 und 22 des Kapitalanlagegesetzbuchs hat, so ist die Anzeige nach Absatz 1 entbehrlich.
+(3) Ist der Inhaber der bedeutenden Beteiligung ein zugelassenes Kreditinstitut, Finanzdienstleistungsinstitut, Wertpapierinstitut, E-Geld-Institut, Zahlungsinstitut im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzs, Versicherungsunternehmen oder ein zugelassener Pensionsfonds, jeweils mit Sitz im Inland, oder eine Kapitalverwaltungsgesellschaft, die eine Erlaubnis nach den §§ 20 und 21 oder den §§ 20 und 22 des Kapitalanlagegesetzbuchs hat, so ist die Anzeige nach Absatz 1 entbehrlich.
 
 (4) Ist der Inhaber der bedeutenden Beteiligung eine Finanzholding-Gesellschaft oder eine gemischte Finanzholding-Gesellschaft nach § 1 Absatz 35 des Kreditwesengesetzes in Verbindung mit Artikel 4 Absatz 1 Nummer 20 oder Nummer 21 der Verordnung (EU) Nr. 575/2013 und liegen der Bundesanstalt die Unterlagen und Erklärungen nach § 16 Absatz 2 der Anzeigenverordnung vor, so ist die Anzeige nach Absatz 1 entbehrlich.
 
@@ -449,15 +457,19 @@ ist das Formular „Aufgabe-Verringerung“ nach Anlage 7 zu verwenden. Auf die 
 
 (6) Ist der Inhaber der bedeutenden Beteiligung eine Zentralregierung, eine Zentralnotenbank, eine Regionalregierung oder eine örtliche Gebietskörperschaft eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder die Europäische Zentralbank, so ist die Anzeige nach Absatz 1 entbehrlich.
 
+(7) Ist der Inhaber der bedeutenden Beteiligung ein konzernangehöriges Unternehmen, das lediglich indirekte Beteiligungen am Zielunternehmen hält und nicht an der Spitze des Konzerns steht, müssen die Unterlagen gemäß den §§ 9 und 10 nur auf Verlangen der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde eingereicht werden.
+
+(8) Steht der Inhaber der bedeutenden Beteiligung an der Spitze eines Konzerns und wird die direkte, bedeutende Beteiligung am Zielunternehmen von einem konzernangehörigen Unternehmen gehalten, so kann die Bundesanstalt oder die zuständige Landesaufsichtsbehörde bei einer Anzeige nach Absatz 1 auf die Einreichung von Unterlagen gemäß den §§ 9 und 10 verzichten. Die Bundesanstalt oder die zuständige Landesaufsichtsbehörde unterrichtet den Anzeigepflichtigen schriftlich oder elektronisch darüber, ob sie auf die Einreichung verzichtet.
+
 # § 19 – Ergänzende Mitteilungen bei nachträglichen Änderungen beim Inhaber einer bedeutenden Beteiligung zur Sicherung der Zusammenarbeit mit den zuständigen Stellen im Europäischen Wirtschaftsraum
 
 Ist der Inhaber einer bedeutenden Beteiligung kein Kreditinstitut, Finanzdienstleistungsinstitut, Wertpapierinstitut, Versicherungsunternehmen oder Pensionsfonds mit Sitz im Inland, hat er unverzüglich schriftlich unter Angabe des betreffenden Staates und der Bezeichnung der jeweils zuständigen Aufsichtsbehörde mitzuteilen, wenn er
 
-1. in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum als CRR-Kreditinstitut, E-Geld-Institut, Wertpapierinstitut, Erstversicherungsunternehmen oder Rückversicherungsunternehmen zugelassen wird, wobei die Identitätsnummer, unter der der Anzeigepflichtige bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben ist;
+1. in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum als CRR-Kreditinstitut, E-Geld-Institut, Zahlungsinstitut im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes, Wertpapierinstitut, Erstversicherungsunternehmen oder Rückversicherungsunternehmen zugelassen wird, wobei die Identitätsnummer, unter der der Anzeigepflichtige bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben ist;
 
-2. Mutterunternehmen eines in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zugelassenen CRR-Kreditinstituts, E-Geld-Instituts, Wertpapierinstituts, Erstversicherungsunternehmens oder Rückversicherungsunternehmens wird oder
+2. Mutterunternehmen eines in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zugelassenen CRR-Kreditinstituts, E-Geld-Instituts, Zahlungsinstituts im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes, Wertpapierinstituts, Erstversicherungsunternehmens oder Rückversicherungsunternehmens wird oder
 
-3. die Kontrolle über ein in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zugelassenes CRR-Kreditinstitut, E-Geld-Institut, Wertpapierinstitut, Erstversicherungsunternehmen oder Rückversicherungsunternehmen erlangt.
+3. die Kontrolle über ein in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zugelassenes CRR-Kreditinstitut, E-Geld-Institut, Zahlungsinstitut im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes, Wertpapierinstitut, Erstversicherungsunternehmen oder Rückversicherungsunternehmen erlangt.
 
 Das CRR-Kreditinstitut, E-Geld-Institut, Wertpapierinstitut, Erstversicherungsunternehmen oder Rückversicherungsunternehmen nach Satz 1 Nummer 2 und 3 ist auch mit der Identitätsnummer, unter der es bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
@@ -465,41 +477,39 @@ Das CRR-Kreditinstitut, E-Geld-Institut, Wertpapierinstitut, Erstversicherungsun
 
 # Anlage 1 – (zu § 6 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2022, 2655 – 2671)
+(Fundstelle: BGBl. 2025 I Nr. 277, S. 6 – 21)
 
- 
+<a href="../normengrafiken/bgbl1_2025/j02770_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0020.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0020.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0030.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0030.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0040.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0040.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0050.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0050.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0060.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0060.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0070.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0070.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0080.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0080.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0090.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0090.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0100.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0100.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0110.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0110.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0120.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0120.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0130.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0130.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0140.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0140.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0150.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0150.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0160.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0160.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 2 – (zu § 6 Absatz 2 Satz 1 Nummer 1)
 
@@ -523,23 +533,21 @@ Das CRR-Kreditinstitut, E-Geld-Institut, Wertpapierinstitut, Erstversicherungsun
 
 # Anlage 3 – (zu § 9 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2022, 2676 – 2682)
+(Fundstelle: BGBl. 2025 I Nr. 277, S. 22 – 28)
 
- 
+<a href="../normengrafiken/bgbl1_2025/j02770_0170.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0220.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0180.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0230.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0190.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0240.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0200.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0250.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0210.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0260.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0220.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0270.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0280.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0230.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 4 – (zu § 9 Absatz 4 Satz 1)
 
@@ -563,137 +571,80 @@ Das CRR-Kreditinstitut, E-Geld-Institut, Wertpapierinstitut, Erstversicherungsun
 
 # Anlage 5 – (zu § 9 Absatz 5)
 
-(Fundstelle: BGBl. I 2022, 2690 – 2694)
+(Fundstelle: BGBl. 2025 I Nr. 277, S. 29 – 33)
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0360.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0240.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-  
-  
+<a href="../normengrafiken/bgbl1_2025/j02770_0250.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0370.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0260.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-  
-  
+<a href="../normengrafiken/bgbl1_2025/j02770_0270.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0380.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0390.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0400.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-# Anlage 6 – (zu § 9 Absatz 5)
-
-(Fundstelle: BGBl. I 2022, 2695 – 2710)
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0410.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0420.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0430.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0440.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0450.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0460.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0470.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0480.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0490.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0500.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0510.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0520.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0530.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0540.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0550.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-  
-  
-
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0560.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-# Anlage 7 – (zu § 17 Absatz 1)
-
-(Fundstelle: BGBl. I 2022, 2711 – 2722)
+<a href="../normengrafiken/bgbl1_2025/j02770_0280.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
  
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0570.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+# Anlage 6 – (zu § 9 Absatz 5)
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0580.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+(Fundstelle: BGBl. 2025 I Nr. 277, S. 34 – 49)
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0590.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0290.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0600.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0300.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0610.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0310.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0620.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0320.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0630.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0330.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0640.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0340.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0650.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0350.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0660.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0360.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0670.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0370.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-<a href="../normengrafiken/bgbl1_2022/j2645-1_0680.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2025/j02770_0380.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0390.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0400.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0410.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0420.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0430.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0440.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 7 – (zu § 17 Absatz 1)
+
+(Fundstelle: BGBl. 2025 I Nr. 277, S. 50 – 61)
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0450.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0460.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0470.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0480.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0490.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0500.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0510.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0520.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0530.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0540.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0550.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+<a href="../normengrafiken/bgbl1_2025/j02770_0560.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>

@@ -417,6 +417,8 @@ Eine Information nach Satz 1 muss nicht veröffentlicht werden, wenn es sich um 
 
 (3) Die Bindung eines Betreibers von Behandlungsanlagen an eine Organisation für Herstellerverantwortung erfolgt für mindestens zwölf Monate. Eine Kündigung ist nur zulässig bis drei Monate vor Ablauf der vereinbarten Laufzeit oder, falls keine Laufzeit vereinbart ist, bis drei Monate vor Ablauf der zwölf Monate. Wird die Kündigungsfrist nicht eingehalten oder keine Kündigung erklärt, verlängert sich die Laufzeit um mindestens zwölf weitere Monate. Die Sätze 1 und 2 gelten nicht, sofern die Zulassung der Organisation für Herstellerverantwortung für die betreffende Batteriekategorie während der Laufzeit widerrufen oder unwirksam wird.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
+
 # § 18 – Rücknahmepflichten der Händler
 
 (1) Ergänzend zu Artikel 62 Absatz 1 und 2 der Verordnung (EU) 2023/1542 ist jeder Händler verpflichtet, vom Endnutzer Starter-, Industrie- und Elektrofahrzeugaltbatterien nach Satz 2 unabhängig von deren chemischer Zusammensetzung, Marke, Herkunft, Baugröße und Beschaffenheit im Handelsgeschäft oder in dessen Nähe unentgeltlich zurückzunehmen. Die Rücknahmeverpflichtung nach Satz 1 beschränkt sich auf Altbatterien der Batteriekategorie nach Artikel 3 Absatz 1 Nummer 12 bis 14 der Verordnung (EU) 2023/1542, die der Händler als Neubatterie in seinem Sortiment führt oder geführt hat. Satz 1 erstreckt sich nicht auf Produkte mit eingebauten Altbatterien; das Elektro- und Elektronikgerätegesetz und die Altfahrzeug-Verordnung bleiben unberührt.

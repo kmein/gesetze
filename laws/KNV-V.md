@@ -45,7 +45,7 @@ Trasse im Sinne des § 2 Nummer 29 des Kraft-Wärme-Kopplungsgesetzes;
 
 7. „erhebliche Modernisierung“:
 
-wesentliche Änderung, deren Kosten mehr als 50 Prozent der Investitionskosten für eine neue vergleichbare Anlage betragen; der Einbau von Ausrüstungen für die Abscheidung des von einer Anlage gemäß § 1 Nummer 1 erzeugten Kohlendioxid im Hinblick auf seine geologische Speicherung gemäß des Kohlendioxid-Speicherungsgesetzes gilt nicht als erhebliche Modernisierung;
+wesentliche Änderung, deren Kosten mehr als 50 Prozent der Investitionskosten für eine neue vergleichbare Anlage betragen; der Einbau von Ausrüstungen für die Abscheidung des von einer Anlage gemäß § 1 Nummer 1 erzeugten Kohlendioxid im Hinblick auf seine geologische Speicherung gemäß dem Kohlendioxid-Speicherung-und-Transport-Gesetz gilt nicht als erhebliche Modernisierung;
 
 8. „effiziente Fernwärme- oder Fernkälteversorgung“:
 
@@ -69,7 +69,7 @@ d) 50 Prozent einer Kombination dieser Energien und dieser Wärme.
 
 (4) Die Vorlage der in den Absätzen 1 bis 3 genannten Unterlagen entfällt bei
 
-1. Anlagen, die in der Nähe einer nach § 11 des Kohlendioxid-Speicherungsgesetzes zugelassenen geologischen Speicherstätte angesiedelt werden müssen und
+1. Anlagen, die in der Nähe einer nach § 11 des Kohlendioxid-Speicherung-und-Transport-Gesetzes zugelassenen geologischen Speicherstätte angesiedelt werden müssen und
 
 2. Feuerungsanlagen zur Erzeugung von Strom, die im gleitenden Durchschnitt über einen Zeitraum von fünf Jahren unter 1 500 Betriebsstunden jährlich in Betrieb sind.
 

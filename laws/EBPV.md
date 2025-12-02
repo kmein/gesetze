@@ -241,7 +241,7 @@ Prüflinge, die eine Täuschungshandlung begehen oder versuchen oder den Prüfun
 
 (1) Die einzelnen schriftlichen Arbeiten und die Leistungen in jedem Fach der mündlichen Prüfung sind nach der Anlage zu bewerten.
 
-(2) Bei der Bewertung der einzelnen Prüfungsleistungen sind neben Kenntnissen auch Form und Ausdrucksweise zu berücksichtigen. § 19: IdF d. Art. 5 Nr. 2 V v. 5.7.2007 I 1305 mWv 14.7.2007
+(2) Bei der Bewertung der einzelnen Prüfungsleistungen sind neben Kenntnissen auch Form und Ausdrucksweise zu berücksichtigen.
 
 # § 20 – Feststellen und Bekanntgeben des Prüfungsergebnisses
 

@@ -490,7 +490,7 @@ Anlage 1 (zu § 3 Absatz 2)</td>
 
 18. nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen sowie nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz;
 
-19. nach dem Kohlendioxid-Speicherungsgesetz;
+19. nach dem Kohlendioxid-Speicherung-und-Transport-Gesetz;
 
 20. nach Abschnitt 3 des Internationalen Erbrechtsverfahrensgesetzes vom 29. Juni 2015 (BGBl. I S. 1042);
 
@@ -1024,7 +1024,7 @@ Der Streitwert in Verfahren nach § 44 Absatz 1 des Wohnungseigentumsgesetzes is
 
 1. über Beschwerden gegen Verfügungen der Kartellbehörden und über Rechtsbeschwerden (§§ 73 und 77 des Gesetzes gegen Wettbewerbsbeschränkungen),
 
-2. über Beschwerden gegen Entscheidungen der Regulierungsbehörde und über Rechtsbeschwerden (§§ 75 und 86 des Energiewirtschaftsgesetzes oder § 35 Absatz 3 und 4 des Kohlendioxid-Speicherungsgesetzes),
+2. über Beschwerden gegen Entscheidungen der Regulierungsbehörde und über Rechtsbeschwerden (§§ 75 und 86 des Energiewirtschaftsgesetzes oder § 35 Absatz 3 und 4 des Kohlendioxid-Speicherung-und-Transport-Gesetzes),
 
 3. über Beschwerden gegen Verfügungen der Bundesanstalt für Finanzdienstleistungsaufsicht (§ 48 des Wertpapiererwerbs- und Übernahmegesetzes und § 113 Absatz 1 des Wertpapierhandelsgesetzes),
 

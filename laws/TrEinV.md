@@ -165,13 +165,13 @@ Die Pflichten nach Satz 1 gelten nicht bei einem automatisierten Abruf nach § 2
 
 (4) Macht der wirtschaftlich Berechtigte Geschäftsunfähigkeit als schutzwürdiges Interesse nach § 23 Absatz 2 Satz 2 Nummer 2 des Geldwäschegesetzes geltend, so muss ein Nachweis beigebracht werden, aus dem sich die Geschäftsunfähigkeit ergibt.
 
-(++++ § 11: Zur Geltung vgl. § 13 Abs. 5 +++)
+(+++ § 11: Zur Geltung vgl. § 13 Abs. 5 +++)
 
 # § 12 – Identitätsnachweis bei Stellung des Antrags auf Beschränkung der Einsichtnahme
 
 Der wirtschaftlich Berechtigte belegt nach den Vorgaben der registerführenden Stelle bei Stellung des Antrags auf Beschränkung der Einsichtnahme seine Identität anhand geeigneter Nachweise nach § 3.
 
-(++++ § 12: Zur Geltung vgl. § 13 Abs. 5 +++)
+(+++ § 12: Zur Geltung vgl. § 13 Abs. 5 +++)
 
 # § 13 – Beschränkung der Einsichtnahme
 

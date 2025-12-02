@@ -1,31 +1,39 @@
-% Gesetz zur Demonstration der dauerhaften Speicherung von Kohlendioxid1)  (Kohlendioxid-Speicherungsgesetz - KSpG)
+% Gesetz zur dauerhaften Speicherung und zum Transport von Kohlendioxid1)  (Kohlendioxid-Speicherung-und-Transport-Gesetz - KSpTG)
 % Ausfertigungsdatum: 17.08.2012
  
 # Inhaltsübersicht
 
 # § 1 – Zweck des Gesetzes
 
-Dieses Gesetz dient der Gewährleistung einer dauerhaften Speicherung von Kohlendioxid in unterirdischen Gesteinsschichten zum Schutz des Menschen und der Umwelt, auch in Verantwortung für künftige Generationen. Es regelt zunächst die Erforschung, Erprobung und Demonstration von Technologien zur dauerhaften Speicherung von Kohlendioxid in unterirdischen Gesteinsschichten.
+Dieses Gesetz dient der Gewährleistung einer umweltverträglichen dauerhaften Speicherung von Kohlendioxid in unterirdischen Gesteinsschichten zum Schutz des Menschen, der Umwelt und des Klimas, auch in Verantwortung für künftige Generationen. Ferner regelt dieses Gesetz die Genehmigung und den Betrieb von Kohlendioxidleitungen.
 
-# § 2 – Geltungsbereich, landesrechtliche Gebietsbestimmung
+# § 2 – Geltungsbereich
 
-(1) Dieses Gesetz gilt für die Erprobung und Demonstration der dauerhaften Speicherung von Kohlendioxid in unterirdischen Gesteinsschichten einschließlich der Untersuchung, der Überwachung, Stilllegung und Nachsorge für alle Anlagen und Einrichtungen zur Speicherung, den Transport von Kohlendioxid sowie für sonstige Tätigkeiten, soweit dies ausdrücklich bestimmt ist.
+(1) Dieses Gesetz gilt für
 
-(2) Es dürfen nur Kohlendioxidspeicher zugelassen werden,
+1. die Genehmigung und den Betrieb von Kohlendioxidleitungen,
 
-1. für die bis spätestens 31. Dezember 2016 ein vollständiger Antrag bei der zuständigen Behörde gestellt worden ist,
+2. die Genehmigung und den Betrieb von Anlagen zur dauerhaften Speicherung von Kohlendioxid in unterirdischen Gesteinsschichten einschließlich der Untersuchung, der Überwachung, der Stilllegung und der Nachsorge für alle Anlagen und Einrichtungen zur Speicherung,
 
-2. in denen jährlich nicht mehr als 1,3 Millionen Tonnen Kohlendioxid eingespeichert werden und
+3. den leitungsgebundenen Transport von Kohlendioxid und
 
-3. soweit im räumlichen Geltungsbereich dieses Gesetzes eine Gesamtspeichermenge von 4 Millionen Tonnen Kohlendioxid im Jahr nicht überschritten wird.
+4. sonstige Tätigkeiten, soweit dies ausdrücklich bestimmt ist.
 
-Die Landesbehörden entscheiden über die Zulassungsanträge in der Reihenfolge des Eingangs der vollständigen Antragsunterlagen bei der jeweils zuständigen Landesbehörde.
+(2) Dieses Gesetz gilt nach Maßgabe des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1798, 1799) auch im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels.
 
-(3) Dieses Gesetz gilt auch für die Speicherung von Kohlendioxid zu Forschungszwecken.
+(3) Es dürfen Kohlendioxidspeicher zugelassen werden, die sich weitgehend im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels befinden. Die Injektion von Kohlendioxid im Bereich des Küstenmeeres ist ausgeschlossen.
 
-(4) Dieses Gesetz gilt nach Maßgabe des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1798, 1799) auch im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels.
+(4) Dieses Gesetz gilt auch für die Speicherung von Kohlendioxid zu Forschungszwecken. Kohlendioxidspeicher zu Forschungszwecken dürfen im Geltungsbereich dieses Gesetzes zugelassen werden.
 
-(5) Die Länder können bestimmen, dass eine Erprobung und Demonstration der dauerhaften Speicherung nur in bestimmten Gebieten zulässig ist oder in bestimmten Gebieten unzulässig ist. Bei der Festlegung nach Satz 1 sind sonstige Optionen zur Nutzung einer potenziellen Speicherstätte, die geologischen Besonderheiten der Gebiete und andere öffentliche Interessen abzuwägen.
+(5) Die Länder können für ihr Landesgebiet bestimmen, dass eine dauerhafte Speicherung von Kohlendioxid auch im geologischen Untergrund auf dem Gebiet des deutschen Festlands zulässig ist. Sie können dabei festlegen, dass eine Speicherung nur in bestimmten Gebieten zulässig ist. In Speicherkomplexen, die sich über das Gebiet mehrerer Länder erstrecken, darf Kohlendioxid dauerhaft nur gespeichert werden, wenn alle betroffenen Länder für das Gebiet, auf dem sich der jeweilige Speicherkomplex befindet, die dauerhafte Speicherung zugelassen haben oder das Land, in dem das Kohlendioxid in den tieferen geologischen Untergrund injiziert wird, dies zugelassen und mit den anderen betroffenen Ländern einen Staatsvertrag geschlossen hat, der die dauerhafte Speicherung in dem Speicherkomplex regelt. Wird eine Speicherung durch die Länder nach den Sätzen 1 bis 3 zugelassen, so richten sich Genehmigung und Betrieb entsprechender Kohlendioxidspeicher nach den Vorgaben dieses Gesetzes.
+
+(6) Dieses Gesetz gilt auch für natürliche oder juristische Personen, die im Geltungsbereich dieses Gesetzes Inhaber einer Genehmigung im Sinne des Artikels 1 Nummer 3 der Richtlinie 94/22/EG sind oder waren, hinsichtlich
+
+1. ihrer in Artikel 21 Absatz 1 Satz 1 Buchstabe b sowie nach Artikel 23 Absatz 3 der Verordnung (EU)
+
+2024/1735 durch die Europäische Kommission festgelegten Verpflichtungen im Zusammenhang mit der Schaffung einer Kohlendioxid-Injektionskapazität auf Ebene der Europäischen Union und
+
+2. der nach Artikel 23 Absatz 13 der Verordnung (EU) 2024/1735 festzulegenden Sanktionen bei einem Verstoß gegen die nach Artikel 23 Absatz 3 der Verordnung (EU) 2024/1735 durch die Europäische Kommission festgelegte Verpflichtung zu einem Beitrag zu dem Ziel der Kohlendioxid-Injektionskapazität.
 
 # § 3 – Begriffsbestimmungen
 
@@ -37,7 +45,7 @@ Injektion und behälterlose Lagerung von Kohlendioxid und Nebenbestandteilen des
 
 2. erhebliche Unregelmäßigkeit
 
-jede Unregelmäßigkeit bei den Injektions- oder Speichervorgängen oder in Bezug auf den Zustand des Speicherkomplexes als solchen, die mit einem Leckagerisiko oder einem Risiko für Mensch oder Umwelt behaftet ist;
+jede Unregelmäßigkeit bei den Injektions- oder Speichervorgängen oder in Bezug auf den Zustand des Speicherkomplexes als solchen oder beim Transport von Kohlendioxid, die mit einem Leckagerisiko oder einem Risiko für Mensch oder Umwelt behaftet ist;
 
 3. Forschungsspeicher
 
@@ -53,7 +61,11 @@ räumlich abgegrenzter Bereich, der aus einer oder mehreren Gesteinsschichten be
 
 6. Kohlendioxidleitungen
 
-dem Transport des Kohlendioxidstroms zu einem Kohlendioxidspeicher dienende Leitungen einschließlich der erforderlichen Verdichter- und Druckerhöhungsstationen;
+dem Transport des Kohlendioxidstroms dienende Leitungen, einschließlich der dem Leitungsbetrieb dienenden Anlagen, insbesondere Verdichter-, Druckerhöhungs-, Entspannungs-, Regel- und Messanlagen;
+
+6a. Kohlendioxidleitungsnetz 
+
+ein Netz von Kohlendioxidleitungen, das dem Abtransport von Kohlendioxid oder der Versorgung mit Kohlendioxid dient oder für beide Zwecke gemischt genutzt wird und das von der Dimensionierung nicht von vornherein nur auf die Verwendung durch bestimmte, schon bei der Netzerrichtung feststehende oder bestimmbare Kunden ausgelegt ist, sondern grundsätzlich für die Verwendung durch jeden Kunden offensteht; es umfasst dabei neben Kohlendioxidleitungen, unabhängig von deren Durchmesser, auch alle dem Leitungsbetrieb dienenden Einrichtungen;
 
 7. Kohlendioxidspeicher
 
@@ -65,11 +77,11 @@ die Gesamtheit der aus Abscheidung und Transport von Kohlendioxid stammenden Sto
 
 9. Langzeitsicherheit
 
-ein Zustand, der gewährleistet, dass das gespeicherte Kohlendioxid und die gespeicherten Nebenbestandteile des Kohlendioxidstroms unter Berücksichtigung der erforderlichen Vorsorge gegen Beeinträchtigungen von Mensch und Umwelt vollständig und auf unbegrenzte Zeit in dem Kohlendioxidspeicher zurückgehalten werden;
+ein Zustand, der gewährleistet, dass das gespeicherte Kohlendioxid und die gespeicherten Nebenbestandteile des Kohlendioxidstroms unter Berücksichtigung der erforderlichen Vorsorge gegen Beeinträchtigungen von Mensch und Umwelt vollständig und dauerhaft in dem Kohlendioxidspeicher zurückgehalten werden;
 
 10. Leckage
 
-der Austritt von Kohlendioxid oder von Nebenbestandteilen des Kohlendioxidstroms aus dem Speicherkomplex;
+der Austritt von Kohlendioxid oder von Nebenbestandteilen des Kohlendioxidstroms aus dem Speicherkomplex oder während des Transports von Kohlendioxid;
 
 11. Migration
 
@@ -85,7 +97,7 @@ das Einstellen der Injektion von Kohlendioxid und Nebenbestandteilen des Kohlend
 
 14. Umwelt
 
-Tiere, Pflanzen, die biologische Vielfalt, der Boden, das Wasser, die Luft, das Klima und die Landschaft sowie Kultur- und sonstige Sachgüter (Umweltgüter) einschließlich der Wechselwirkungen zwischen diesen Umweltgütern sowie zwischen diesen Umweltgütern und Menschen;
+Tiere, Pflanzen, die biologische Vielfalt, der Boden, Gewässer, die Luft, das Klima und die Landschaft sowie Kultur- und sonstige Sachgüter (Umweltgüter) einschließlich der Wechselwirkungen zwischen diesen Umweltgütern sowie zwischen diesen Umweltgütern und Menschen;
 
 15. Untersuchung
 
@@ -97,29 +109,97 @@ Ausschnitt aus dem Erdkörper, der von geraden Linien an der Erdoberfläche, von
 
 17. wesentliche Änderung
 
-Veränderung von Kohlendioxidspeichern oder Kohlendioxidleitungen oder Veränderung ihres Betriebs, die sich auf Mensch oder Umwelt auswirken kann.
+eine Veränderung von Kohlendioxidspeichern oder eine Veränderung des Betriebs von Kohlendioxidspeichern, die zusätzliche erhebliche nachteilige oder andere erhebliche nachteilige Auswirkungen auf Menschen oder die Umwelt haben kann.
 
-# § 4 – Planfeststellung für Kohlendioxidleitungen; Verordnungsermächtigung
+# § 4 – Planfeststellung und Plangenehmigung für Kohlendioxidleitungen
 
-(1) Errichtung, Betrieb und wesentliche Änderung von Kohlendioxidleitungen bedürfen der vorherigen Planfeststellung durch die zuständige Behörde. Die Öffentlichkeit ist möglichst vor Antragstellung über das planfeststellungspflichtige Vorhaben, insbesondere über die Lage, die Größe und die Technologie der Kohlendioxidleitung, zu informieren. Dabei ist der Öffentlichkeit Gelegenheit zur Äußerung und Erörterung zu geben. Die zuständige Behörde wirkt darauf hin, dass der zukünftige Antragsteller erforderlichenfalls ein Verfahren des öffentlichen Dialogs und der Streitschlichtung durchführt. Die Länder können die näheren Anforderungen an das Verfahren nach den Sätzen 2 bis 4 bestimmen.
+(1) Die Errichtung, der Betrieb sowie die Änderung einer Kohlendioxidleitung bedürfen der vorherigen Planfeststellung durch die zuständige Behörde. Bei der Planfeststellung sind die von dem Vorhaben berührten öffentlichen und privaten Belange im Rahmen der Abwägung zu berücksichtigen. Die Errichtung, der Betrieb sowie die Änderung von Kohlendioxidleitungen liegen im überragenden öffentlichen Interesse. Ein überragendes öffentliches Interesse nach Satz 3 besteht nicht für die Errichtung, den Betrieb sowie die Änderung von Kohlendioxidleitungen in einem zum 31. Dezember 2023 nach § 57 Absatz 2 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 48 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist, geschützten Meeresgebiet. Bei der Abwägung im Rahmen von Planfeststellungsverfahren ist besonders zu berücksichtigen, dass Kohlendioxidleitungen dem Klimaschutz dienen und dazu beitragen, die Emission von Kohlendioxid in Deutschland dauerhaft zu vermindern. Sollen die Errichtung, der Betrieb sowie die Änderung von Kohlendioxidleitungen weit überwiegend in oder unmittelbar neben einer Trasse erfolgen, die bereits Wasserstoffleitungen enthält oder künftig für Wasserstoffleitungen genutzt werden soll, so ist davon auszugehen, dass die Errichtung, der Betrieb sowie die Änderung einer solchen Kohlendioxidleitung keine zusätzliche Beeinträchtigung anderer Belange darstellen, die über die alleinige Verlegung der Wasserstoffleitung hinausgeht, soweit keine gegenteiligen Anhaltspunkte vorliegen. Auf Antrag des Trägers des Vorhabens können dem Leitungsbetrieb dienende Anlagen, insbesondere Verdichter-, Druckerhöhungs-, Entspannungs-, Regel- und Messanlagen, durch Planfeststellung durch die zuständige Behörde zugelassen werden. Die Sätze 3 und 4 und § 43 Absatz 2 Satz 1 Nummer 1 des Energiewirtschaftsgesetzes sind entsprechend anwendbar.
 
-(2) Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes nach Maßgabe des § 43a Nummer 1 bis 4, des § 43b Nummer 3 bis 5 und des § 43e des Energiewirtschaftsgesetzes. § 11 Absatz 2 gilt entsprechend. Dient die Kohlendioxidleitung dem Transport zu einem Kohlendioxidspeicher außerhalb des Geltungsbereichs dieses Gesetzes, ist für die Planrechtfertigung insbesondere maßgeblich, ob der Kohlendioxidspeicher in dem anderen Mitgliedstaat in Übereinstimmung mit der Richtlinie 2009/31/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über die geologische Speicherung von Kohlendioxid und zur Änderung der Richtlinie 85/337/EWG des Rates sowie der Richtlinien 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG und 2008/1/EG des Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr. 1013/2006 (ABl. L 140 vom 5.6.2009, S. 114) errichtet und betrieben wird.
+(2) Die Behörde wirkt darauf hin, dass der Träger des Vorhabens die Öffentlichkeit möglichst vor Antragstellung über das planfeststellungspflichtige Vorhaben, insbesondere über die Lage, die Größe und die Technologie der Kohlendioxidleitung, informiert. Dabei ist der Öffentlichkeit Gelegenheit zur Äußerung und Erörterung zu geben. Die Länder können die näheren Anforderungen an das Verfahren nach den Sätzen 1 und 2 bestimmen.
 
-(3) Für Vorarbeiten, Veränderungssperren, Vorkaufsrechte und vorzeitige Besitzeinweisungen sind die §§ 44 bis 44b des Energiewirtschaftsgesetzes entsprechend anzuwenden. Für Anforderungen an Kohlendioxidleitungen gilt § 49 Absatz 1 und 2 Nummer 2, Absatz 3, 5 und 6 Satz 1 und Absatz 7 des Energiewirtschaftsgesetzes entsprechend. Für die nach Satz 1 in Verbindung mit § 49 Absatz 6 Satz 1 des Energiewirtschaftsgesetzes zur Auskunft verpflichtete Person gilt § 55 der Strafprozessordnung entsprechend.
+(3) Absatz 1 Satz 1 findet keine Anwendung auf Kohlendioxidleitungen, die den Bereich eines Werksgeländes nicht überschreiten und die einer Genehmigungspflicht nach anderen Vorschriften unterliegen. Auf Antrag des Trägers des Vorhabens kann die für Verfahren nach Absatz 1 Satz 1 zuständige Behörde die Errichtung und den Betrieb sowie die Änderung solcher Kohlendioxidleitungen durch Planfeststellung zulassen.
 
-(4) Die Planfeststellung und die Plangenehmigung können mit Auflagen verbunden werden, soweit dies erforderlich ist, um das Wohl der Allgemeinheit zu wahren oder öffentlich-rechtliche Vorschriften zu erfüllen. Auflagen über Anforderungen an das Vorhaben können auch nach der Planfeststellung oder Plangenehmigung aufgenommen, geändert oder ergänzt werden.
+(4) Auf Antrag des Trägers des Vorhabens können einzelne dem Leitungsbetrieb dienende Anlagen, insbesondere Verdichter-, Druckerhöhungs-, Entspannungs-, Regel- und Messanlagen, vom Planfeststellungsverfahren ausgenommen werden, soweit sie einer Genehmigungspflicht nach anderen Vorschriften unterliegen. Absatz 1 Satz 3 und 4 gilt entsprechend.
 
-(5) Dienen die Errichtung und der Betrieb einer Kohlendioxidleitung dem Wohl der Allgemeinheit, ist die Enteignung zulässig, soweit sie zur Durchführung des Vorhabens notwendig ist und der Enteignungszweck unter Beachtung der Standortgebundenheit des Kohlendioxidspeichers auf andere zumutbare Weise, insbesondere an anderer Stelle, nicht erreicht werden kann. Das Vorhaben dient dem Wohl der Allgemeinheit, wenn es für die Demonstration der dauerhaften Speicherung in Deutschland erforderlich ist und zum Zwecke des Klimaschutzes die Emission von Kohlendioxid in Deutschland dauerhaft vermindert wird. Kohlendioxidleitungen zu Kohlendioxidspeichern außerhalb des Geltungsbereichs dieses Gesetzes dienen dem Wohl der Allgemeinheit, wenn zum Zwecke des Klimaschutzes die Emission von Kohlendioxid in Deutschland dauerhaft vermindert wird. Über das Vorliegen der Voraussetzungen nach den Sätzen 1 bis 3 entscheidet die zuständige Behörde im Planfeststellungsbeschluss. § 15 Absatz 2 und 3 Satz 2 und 3 gilt entsprechend.
+(5) An Stelle eines Planfeststellungsbeschlusses kann eine Plangenehmigung nach § 74 Absatz 6 des Verwaltungsverfahrensgesetzes erteilt werden.
 
-(6) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen:
+(6) Für den Rechtsschutz gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung ist § 43e Absatz 1 bis 3 des Energiewirtschaftsgesetzes entsprechend anzuwenden.
 
-1. Einzelheiten des Planfeststellungsverfahrens nach Absatz 2, Bestimmungen für Vorarbeiten, Veränderungssperren, Vorkaufsrechte und vorzeitige Besitzeinweisungen nach Absatz 3 Satz 1 sowie
+# § 4a – Planfeststellungsverfahren und Plangenehmigungsverfahren für Kohlendioxidleitungen
 
-2. Anforderungen an die Sicherheit von Kohlendioxidleitungen.
+(1) Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes. Dabei sind die folgenden Maßgaben und Vorschriften entsprechend anzuwenden:
+
+1. die Maßgaben des § 43a Satz 1 des Energiewirtschaftsgesetzes für das Anhörungsverfahren,
+
+2. die Maßgaben des § 43b Absatz 1 Nummer 2 und 3 des Energiewirtschaftsgesetzes für Abstimmungserfordernisse zwischen Behörden sowie zur Zustellung und Bekanntgabe,
+
+3. die Maßgaben des § 43c des Energiewirtschaftsgesetzes über die Rechtswirkungen der Planfeststellung und Plangenehmigung,
+
+4. die Maßgaben des § 43d des Energiewirtschaftsgesetzes für die Planergänzung und das ergänzende Verfahren im Sinne des § 75 Absatz 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die Planänderung vor Fertigstellung des Vorhabens,
+
+5. § 43f Absatz 1 Satz 1 und 2 Nummer 1 erste Alternative, Nummer 2 und 3 und Absatz 4 des Energiewirtschaftsgesetzes über Änderungen oder Erweiterungen im Anzeigeverfahren,
+
+6. § 43g des Energiewirtschaftsgesetzes über die Beauftragung eines Projektmanagers,
+
+7. § 43i des Energiewirtschaftsgesetzes über die Überwachung eines Vorhabens,
+
+8. 43j des Energiewirtschaftsgesetzes über die Verlegung von Leerrohren,
+
+9. § 43k des Energiewirtschaftsgesetzes über die Zurverfügungstellung von Geodaten,
+
+10. die §§ 45a und 45b des Energiewirtschaftsgesetzes über das Entschädigungsverfahren sowie die Parallelführung von Planfeststellungs- und Enteignungsverfahren.
+
+(2) Behördliche Zulassungen für die Errichtung, die Änderung und den Betrieb von Gas-, Wasserstoff- und Produktleitungen einschließlich der für den Betrieb notwendigen Anlagen, soweit sie in ein Planfeststellungsverfahren integriert wurden und keine nach dem Bundes-Immissionsschutzgesetz genehmigungsbedürftigen Anlagen sind, gelten auch als Zulassung für den Transport von Kohlendioxid. Satz 1 ist auch für Gas-, Wasserstoff- und Produktleitungen anzuwenden, für die zum Zeitpunkt der Errichtung ein Anzeigenvorbehalt bestand. Die anlagenbezogenen Regelungen des Bundes-Immissionsschutzgesetzes bleiben unberührt. § 113c Absatz 3 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden. Fernleitungsnetzbetreiber können im Rahmen des nach § 15c des Energiewirtschaftsgesetzes zu erstellenden Netzentwicklungsplans Gas und Wasserstoff Gasversorgungsleitungen kenntlich machen, die perspektivisch auf eine Kohlendioxidleitung umgestellt werden können. § 113b Satz 2 und 3 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden. Der in § 35 Absatz 1 Nummer 3 des Baugesetzbuches verwendete Begriff des Gases sowie der in § 1 Satz 1 Nummer 14 der Raumordnungsverordnung genannte Begriff der Gasleitungen umfassen auch Kohlendioxidleitungen.
+
+(3) Auf Vorarbeiten, Veränderungssperren, Vorkaufsrechte, vorzeitige Besitzeinweisungen und die Zulassung des vorzeitigen Baubeginns sind die §§ 44, 44a Absatz 1 und 2 Satz 1 bis 3 und Absatz 3 sowie die §§ 44b und 44c Absatz 1 Satz 1, 3 bis 6, Absatz 2 bis 4 des Energiewirtschaftsgesetzes entsprechend anzuwenden, soweit sie auch auf Gasversorgungsleitungen nach § 43 Absatz 1 Nummer 5 des Energiewirtschaftsgesetzes anwendbar sind. Für Anforderungen an Kohlendioxidleitungen ist § 49 Absatz 1 und 2 Satz 1 Nummer 2, Absatz 3, 5 und 6 Satz 1 und Absatz 7 des Energiewirtschaftsgesetzes entsprechend anzuwenden. Für die nach § 49 Absatz 6 Satz 1 des Energiewirtschaftsgesetzes in Verbindung mit Satz 2 zur Auskunft verpflichtete Person gilt § 55 der Strafprozessordnung entsprechend. Für den Transport von Bestandteilen von Kohlendioxidnetzen oder Hilfsmitteln zur Errichtung, Instandhaltung oder zum Betrieb von Kohlendioxidnetzen ist § 48a des Energiewirtschaftsgesetzes entsprechend anzuwenden.
+
+(4) Der Planfeststellungsbeschluss und die Plangenehmigung können mit Auflagen verbunden werden, soweit dies erforderlich ist, um das Wohl der Allgemeinheit zu wahren oder öffentlich-rechtliche Vorschriften zu erfüllen. Auflagen über Anforderungen an das Vorhaben können auch nach der Planfeststellung oder Plangenehmigung aufgenommen, geändert oder ergänzt werden.
+
+(5) Für Vorhaben der Errichtung, des Betriebs sowie der Änderung von Kohlendioxidleitungen sollen die beteiligten Behörden den Planfeststellungsverfahren und Plangenehmigungsverfahren Vorrang bei der Bearbeitung einräumen. Dabei ist das Beschleunigungsinteresse anderer Vorhaben, die im überragenden öffentlichen Interesse liegen, zu beachten.
+
+# § 4b – Enteignung
+
+Dienen die Errichtung und der Betrieb sowie die Änderung einer Kohlendioxidleitung dem Wohl der Allgemeinheit, so ist die Entziehung oder die Beschränkung von Grundeigentum oder von Rechten am Grundeigentum im Wege der Enteignung zulässig, soweit dies zur Durchführung des Vorhabens notwendig ist und der Enteignungszweck auf andere zumutbare Weise nicht erreicht werden kann. Das Vorhaben dient dem Wohl der Allgemeinheit, wenn es dazu dient, Kohlendioxid zu einem Kohlendioxidspeicher zu transportieren, um so zum Zwecke des Klimaschutzes die Emission von Kohlendioxid in Deutschland dauerhaft zu vermindern. Das Vorhaben dient auch dann dem Wohl der Allgemeinheit, wenn dadurch Kohlendioxid zur Deckung eines nachgewiesenen Bedarfs für die Nutzung von Kohlendioxid als Rohstoffquelle für Kohlenstoffverbindungen transportiert wird, um so zum Zwecke des Klimaschutzes die Emission von Kohlendioxid in Deutschland dauerhaft zu vermindern oder wenn es dazu dient, aus der Atmosphäre entnommenes Kohlendioxid zu einem Kohlendioxidspeicher zu transportieren, um es dort dauerhaft zu speichern. Über das Vorliegen der Voraussetzungen nach den Sätzen 1 bis 3 entscheidet die zuständige Behörde im Planfeststellungsbeschluss. § 15 Absatz 2 und 3 Satz 2 und 3 gilt entsprechend.
+
+# § 4c – Verordnungsermächtigung
+
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates
+
+1. nähere Vorschriften festzulegen über
+
+a) die von der Pflicht zur Durchführung eines Planfeststellungsverfahrens ausgenommenen Anlagen nach § 4 Absatz 3 Satz 1,
+
+b) Einzelheiten des in § 4a geregelten Planfeststellungsverfahrens sowie Plangenehmigungsverfahrens,
+
+2. Einzelheiten zu den in § 4a Absatz 3 Satz 1 geregelten Vorarbeiten, Veränderungssperren, Vorkaufsrechten, vorzeitigen Besitzeinweisungen und der Zulassung des vorzeitigen Baubeginns festzulegen;
+
+3. Anforderungen an die Planung für die Verlegung von Kohlendioxidleitungen festzulegen;
+
+4. Anforderungen an die technische Sicherheit von Kohlendioxidleitungen, ihre Errichtung und ihren Betrieb festzulegen,
+
+5. das Verfahren zur Sicherstellung der Anforderungen nach den Nummern 3 und 4 zu regeln, insbesondere zu bestimmen,
+
+a) dass und wo die Errichtung von Kohlendioxidleitungen, ihre Inbetriebnahme, die Vornahme von Änderungen oder Erweiterungen und sonstige die Kohlendioxidleitungen betreffende Umstände angezeigt werden müssen,
+
+b) dass der Anzeige nach Buchstabe a bestimmte Nachweise beigefügt werden müssen,
+
+c) dass mit der Errichtung und dem Betrieb von Kohlendioxidleitungen erst nach Ablauf bestimmter Registrierungen, Prüfungen oder Prüffristen begonnen werden darf und
+
+d) unter welchen Voraussetzungen schriftliche und elektronische Nachweisdokumente gültig sind;
+
+6. Prüfungen vor Errichtung und Inbetriebnahme und Überprüfungen der Kohlendioxidleitungen vorzusehen und festzulegen, dass diese Prüfungen und Überprüfungen durch behördlich anerkannte Sachverständige zu erfolgen haben;
+
+7. Anordnungsbefugnisse festzulegen, insbesondere die behördliche Befugnis, den Bau und den Betrieb von Kohlendioxidleitungen zu untersagen, wenn das Vorhaben nicht den in der Rechtsverordnung geregelten Anforderungen entspricht;
+
+8. zu bestimmen, welche Auskünfte die zuständige Behörde von den sonstigen zuständigen Stellen verlangen kann;
+
+9. die Einzelheiten des Verfahrens zur Anerkennung von Sachverständigen, die bei der Prüfung der Kohlendioxidleitungen tätig werden, sowie die Einzelheiten der Anzeige der vorübergehenden Tätigkeit von Sachverständigen aus anderen Mitgliedstaaten der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum zu bestimmen sowie
+
+10. Anforderungen sowie Meldepflichten festzulegen, die Sachverständige nach Nummer 6 und die Stellen, denen sie angehören, erfüllen müssen, insbesondere zur Gewährleistung ihrer fachlichen Qualifikation, Unabhängigkeit und Zuverlässigkeit.
 
 # § 5 – Analyse und Bewertung der Potenziale für die dauerhafte Speicherung
 
-(1) Das Bundesministerium für Wirtschaft und Energie erstellt und aktualisiert im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit eine Bewertung der Potenziale von Gesteinsschichten, die im Geltungsbereich dieses Gesetzes für die dauerhafte Speicherung von Kohlendioxid im Hinblick auf die Zwecke des § 1 Satz 1 geeignet erscheinen.
+(1) Das Bundesministerium für Wirtschaft und Energie erstellt und aktualisiert im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit eine Bewertung der Potenziale von Gesteinsschichten, die im Geltungsbereich dieses Gesetzes für die dauerhafte Speicherung von Kohlendioxid im Hinblick auf die Zwecke des § 1 Satz 1 und unter Berücksichtigung ihrer Umgebung geeignet erscheinen.
 
 (2) Die Bundesanstalt für Geowissenschaften und Rohstoffe erarbeitet die für die Bewertung erforderlichen geologischen Grundlagen im Benehmen mit der jeweils zuständigen Landesbehörde. Dabei handelt es sich insbesondere um
 
@@ -137,11 +217,19 @@ Veränderung von Kohlendioxidspeichern oder Kohlendioxidleitungen oder Veränder
 
 7. mögliche Nutzungskonflikte durch Exploration, Rohstoffgewinnung, Geothermienutzung, nutzbares Grundwasser, Speicherung oder Lagerung anderer gasförmiger, flüssiger oder fester Stoffe oder wissenschaftliche Bohrungen im Bereich der für die dauerhafte Speicherung geeigneten Gesteinsschichten.
 
-(3) Für die Bewertung erarbeitet das Umweltbundesamt die Grundlagen, die für eine wirksame Umweltvorsorge erforderlich sind, insbesondere durch Ermittlung und Abschätzung der mit der vorgesehenen dauerhaften Speicherung verbundenen Umweltauswirkungen.
+(3) Für die Bewertung erarbeitet das Bundesamt für Naturschutz für den Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels die erforderlichen naturschutzfachlichen Grundlagen im Benehmen mit der jeweils zuständigen Landesbehörde und dem Umweltbundesamt. Dabei handelt es sich insbesondere um die in Anlage 1 Teil 2 aufgeführten Punkte. Für die Bewertung erarbeitet das Umweltbundesamt für den Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels im Benehmen mit dem Bundesamt für Naturschutz die sonstigen Grundlagen, die für eine wirksame Umweltvorsorge erforderlich sind, insbesondere durch Ermittlung und Abschätzung der mit der vorgesehenen dauerhaften Speicherung verbundenen Umweltauswirkungen. Soweit die Speicherung an Land auf Grundlage des § 2 Absatz 5 zugelassen wurde, erarbeiten die nach Landesrecht zuständigen Behörden die erforderlichen naturschutzfachlichen Grundlagen im Benehmen mit dem Bundesamt für Naturschutz und sonstige Grundlagen im Benehmen mit dem Umweltbundesamt.
 
 (4) Die zuständigen Behörden der Länder stellen der Bundesanstalt für Geowissenschaften und Rohstoffe die bei ihnen vorhandenen Daten zur Verfügung, die für eine wirksame Analyse und Bewertung der Potenziale für die dauerhafte Speicherung erforderlich sind; Einzelheiten regelt eine Verwaltungsvereinbarung.
 
-(5) Das Bundesministerium für Wirtschaft und Energie veröffentlicht die Bewertung der Potenziale für die dauerhafte Speicherung und jeweilige Änderungen. Vor der Veröffentlichung sind die Länder anzuhören.
+(5) Das Bundesministerium für Wirtschaft und Energie setzt für die Vorlage der nach den Absätzen 2 und 3 zu erarbeitenden Grundlagen eine Frist, die sechs Monate nicht überschreiten darf. Grundlagen, die nach Ablauf der Frist nach Satz 1 eingehen, sind für die Bewertung zu berücksichtigen, wenn sie dem Bundesministerium für Wirtschaft und Energie bekannt sind oder hätten bekannt sein müssen; im Übrigen können sie berücksichtigt werden. Das Bundesministerium für Wirtschaft und Energie veröffentlicht die Bewertung der Potenziale für die dauerhafte Speicherung und jeweilige Änderungen. Vor der Veröffentlichung sind die Länder anzuhören.
+
+(6) Natürliche oder juristische Personen, die im Geltungsbereich dieses Gesetzes Inhaber einer Genehmigung im Sinne des Artikels 1 Nummer 3 der Richtlinie 94/22/EG sind oder waren, sind verpflichtet, geologische oder sonstige Daten über Produktionsstätten, die stillgelegt wurden oder deren Stilllegung der zuständigen Behörde gemeldet wurde, ausschließlich zu Informationszwecken öffentlich zugänglich zu machen, einschließlich Daten zu den Fragen,
+
+1. ob der Standort geeignet ist, Kohlendioxid nachhaltig, sicher und dauerhaft zu injizieren, und
+
+2. ob Transportinfrastruktur und -mittel, die für den sicheren Transport von Kohlendioxid zum Standort geeignet sind, verfügbar oder erforderlich sind.
+
+Soweit verfügbar, sind als sonstige Daten nach Satz 1 auch wirtschaftliche Einschätzungen der entsprechenden Kosten für die Ermöglichung der Injektion von Kohlendioxid an dem Standort öffentlich zugänglich zu machen. Die Sätze 1 und 2 gelten nicht, wenn die natürliche oder juristische Person nach Satz 1 eine Explorationsgenehmigung gemäß Artikel 3 Nummer 9 der Richtlinie 2009/31/EG beantragt hat. Die Übermittlungs- und Bereitstellungspflichten nach dem Geologiedatengesetz vom 19. Juni 2020 (BGBl. I S. 1387) bleiben davon unberührt.
 
 # § 6 – Register; Verordnungsermächtigung; Bericht an die Kommission
 
@@ -169,9 +257,9 @@ Veränderung von Kohlendioxidspeichern oder Kohlendioxidleitungen oder Veränder
 
 7. eine dreidimensionale Darstellung der Ausbreitung des Kohlendioxids und, soweit möglich, dessen Konzentration im Ausbreitungsbereich.
 
-(3) Das Register wird laufend aktualisiert. Die zuständigen Landesbehörden übermitteln der Registerbehörde die Informationen, die für die Errichtung und Führung des Registers und für die Entscheidung nach § 2 Absatz 2 Satz 2 erforderlich sind. Für die öffentliche Zugänglichkeit des Registers gelten die §§ 7 bis 9 des Umweltinformationsgesetzes entsprechend.
+(3) Das Register wird laufend aktualisiert. Die zuständigen Landesbehörden übermitteln der Registerbehörde die Informationen, die für die Errichtung und Führung des Registers erforderlich sind. Für die öffentliche Zugänglichkeit des Registers gelten die §§ 7 bis 9 des Umweltinformationsgesetzes entsprechend.
 
-(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates die Erstellung und Führung des Registers, die für diesen Zweck erforderliche Erhebung, Verarbeitung und Löschung personenbezogener Daten, die öffentliche Zugänglichkeit des Registers und die jeweils erforderlichen Verfahren zu regeln.
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates die Erstellung und Führung des Registers, die für diesen Zweck erforderliche Erhebung, Verarbeitung und Löschung personenbezogener Daten, die öffentliche Zugänglichkeit des Registers und die jeweils erforderlichen Verfahren zu regeln.
 
 (5) Die Bundesanstalt für Geowissenschaften und Rohstoffe arbeitet bei der Charakterisierung von grenzüberschreitenden Kohlendioxidspeichern und der sie umgebenden Gesteinsschichten mit den zuständigen Behörden der Nachbarstaaten zusammen.
 
@@ -183,9 +271,9 @@ Veränderung von Kohlendioxidspeichern oder Kohlendioxidleitungen oder Veränder
 
 1. der Antragsteller die für eine ordnungsgemäße Untersuchung erforderliche finanzielle Leistungsfähigkeit besitzt,
 
-2. ein Untersuchungsprogramm vorliegt, aus dem hervorgeht, dass die Untersuchungsarbeiten nach Art und Umfang in einem angemessenen Zeitraum insbesondere nach Maßgabe der Anforderungen in Anlage 1 durchgeführt werden,
+2. ein Untersuchungsprogramm vorliegt, aus dem hervorgeht, dass die Untersuchungsarbeiten nach Art und Umfang in einem angemessenen Zeitraum insbesondere nach Maßgabe der Anforderungen in Anlage 1 Teil 1 durchgeführt werden,
 
-3. Beeinträchtigungen von Bodenschätzen und vorhandenen Nutzungsmöglichkeiten des Untergrundes, deren Schutz jeweils im öffentlichen Interesse liegt, sowie Beeinträchtigungen von bergrechtlichen Genehmigungen und wasserrechtlichen Zulassungen ausgeschlossen sind,
+3. Beeinträchtigungen von Bodenschätzen oder vorhandenen Nutzungsmöglichkeiten des Untergrundes, deren Schutz jeweils auch im öffentlichen Interesse liegt, insbesondere eine Beeinträchtigung der Speicherung von Wärme, sowie Beeinträchtigungen von bergrechtlichen Genehmigungen und wasserrechtlichen Zulassungen ausgeschlossen sind,
 
 4. keine Tatsachen vorliegen, die die Annahme rechtfertigen, dass
 
@@ -207,17 +295,17 @@ und wenn entsprechende Vorkehrungen getroffen worden sind,
 
 7. im Bereich des Küstenmeeres, der ausschließlichen Wirtschaftszone und des Festlandsockels
 
-a) die Sicherheit und Leichtigkeit des Verkehrs nicht beeinträchtigt wird und Beeinträchtigungen der Meeresumwelt nicht zu besorgen sind und
+a) die Sicherheit und Leichtigkeit des Verkehrs nicht beeinträchtigt und die Meeresumwelt nicht gefährdet wird und
 
-b) das Legen, die Unterhaltung und der Betrieb von Unterwasserkabeln und Rohrleitungen sowie ozeanographische oder sonstige wissenschaftliche Forschungen nicht mehr als nach den Umständen unvermeidbar und der Fischfang nicht unangemessen beeinträchtigt werden,
+b) das Legen, die Unterhaltung und der Betrieb von Unterwasserkabeln und Rohrleitungen sowie ozeanographische oder sonstige wissenschaftliche Forschungen nicht mehr als nach den Umständen unvermeidbar und der Fischfang sowie die Aquakultur nicht unangemessen beeinträchtigt werden,
 
 8. andere öffentlich-rechtliche Vorschriften oder überwiegende öffentliche Interessen nicht entgegenstehen.
 
-Satz 2 Nummer 4 Buchstabe b und c, Nummer 5 und 6 gilt nicht für Untersuchungen, bei denen weder Vertiefungen in der Oberfläche angelegt noch Verfahren angewendet werden, bei denen maschinelle Kraft angewendet wird oder unter Tage oder mit explosionsgefährlichen oder zum Sprengen bestimmten explosionsfähigen Stoffen gearbeitet wird.
+Satz 2 Nummer 4 Buchstabe b und c, Nummer 5 und 6 gilt nicht für Untersuchungen, bei denen weder Vertiefungen in der Oberfläche angelegt noch Verfahren angewendet werden, bei denen maschinelle Kraft angewendet wird oder unter Tage oder mit explosionsgefährlichen oder zum Sprengen bestimmten explosionsfähigen Stoffen gearbeitet wird. Die Genehmigung nach Satz 1 bedarf des Einvernehmens des Bundesamts für Seeschifffahrt und Hydrographie sowie der Generaldirektion Wasserstraßen und Schifffahrt.
 
-(2) Die Untersuchung ist so durchzuführen, dass die Anforderungen nach Absatz 1 Satz 2 Nummer 3 bis 8 erfüllt werden.
+(2) Die Untersuchung ist so durchzuführen, dass die Anforderungen nach Absatz 1 Satz 2 Nummer 3 bis 8 erfüllt werden. Sie umfasst Eingriffe in den Untergrund wie Bohrungen, mit denen geologische Daten über die Schichtung in dem potenziellen Speicherkomplex erhoben werden sollen, und gegebenenfalls die Durchführung von Injektionstests zur Charakterisierung des Kohlendioxidspeichers.
 
-(3) Auf der Grundlage der durch die Untersuchung gewonnenen Erkenntnisse sind der potenzielle Kohlendioxidspeicher und der potenzielle Speicherkomplex nach Maßgabe der einschlägigen Kriterien der Anlage 1 und weiterer geeigneter Methoden zu überprüfen und auf ihre Eignung für eine langzeitsichere Speicherung hin zu charakterisieren und zu bewerten. Die Ergebnisse der Untersuchung und der Charakterisierung sind vom Untersuchungsberechtigten zu dokumentieren und der zuständigen Behörde auf deren Verlangen hin vorzulegen.
+(3) Auf der Grundlage der durch die Untersuchung gewonnenen Erkenntnisse sind der potenzielle Kohlendioxidspeicher und der potenzielle Speicherkomplex nach Maßgabe der einschlägigen Kriterien der Anlage 1 Teil 1 und weiterer geeigneter Methoden zu überprüfen und auf ihre Eignung für eine langzeitsichere Speicherung hin zu charakterisieren und zu bewerten. Die Ergebnisse der Untersuchung und der Charakterisierung sind vom Untersuchungsberechtigten zu dokumentieren und der zuständigen Behörde auf deren Verlangen hin vorzulegen. Die zuständige Behörde ist verpflichtet, der Bundesanstalt für Geowissenschaften und Rohstoffe, dem Umweltbundesamt, dem Bundesamt für Naturschutz, der Generaldirektion Wasserstraßen und Schifffahrt und dem Bundesamt für Seeschifffahrt und Hydrographie die Ergebnisse auf Verlangen der jeweiligen Stelle hin vorzulegen.
 
 (4) Die Daten der Untersuchung, die nach § 3 Absatz 1 des Lagerstättengesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 750-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 22 des Gesetzes vom 10. November 2001 (BGBl. I S. 2992) geändert worden ist, an die für die geologische Landesaufnahme zuständige Behörde zu übermitteln sind, werden von dieser nach Ablauf von fünf Jahren vom Zeitpunkt der Übermittlung denjenigen zugänglich gemacht, die ein berechtigtes Interesse an den Daten geltend machen und die Daten für einen Zweck verwenden wollen, der auch im öffentlichen Interesse liegt. Die Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen bleiben unberührt.
 
@@ -225,25 +313,25 @@ Satz 2 Nummer 4 Buchstabe b und c, Nummer 5 und 6 gilt nicht für Untersuchungen
 
 # § 8 – Verfahrens- und Formvorschriften
 
-(1) Der Antrag auf Untersuchungsgenehmigung bedarf der Schriftform. Es sind die Angaben zu machen und die Unterlagen beizufügen, die für die Durchführung des Genehmigungsverfahrens erforderlich sind. Der Antragsteller hat insbesondere das Untersuchungsfeld und die Gesteinsschichten genau zu bezeichnen und in Karten mit geeignetem Maßstab einzutragen. Angaben und Unterlagen zu § 7 Absatz 1 Satz 2 Nummer 1 und 4 sowie Angaben und Unterlagen, die Geschäfts- und Betriebsgeheimnisse enthalten, sind getrennt vorzulegen. Betreffen mehrere Anträge dasselbe Untersuchungsfeld und dieselben Gesteinsschichten, so ist über den Antrag zuerst zu entscheiden, dessen Untersuchungsprogramm den Voraussetzungen des § 7 Absatz 1 am besten Rechnung trägt; bei gleichwertigen Anträgen genießt der Antrag Vorrang, der zuerst genehmigungsfähig ist.
+(1) Der Antrag auf Untersuchungsgenehmigung kann schriftlich oder elektronisch übermittelt werden. Es sind die Angaben zu machen und die Unterlagen beizufügen, die für die Durchführung des Genehmigungsverfahrens erforderlich sind. Der Antragsteller hat insbesondere das Untersuchungsfeld und die Gesteinsschichten genau zu bezeichnen und in Karten mit geeignetem Maßstab einzutragen. Angaben und Unterlagen zu § 7 Absatz 1 Satz 2 Nummer 1 und 4 sowie Angaben und Unterlagen, die Geschäfts- und Betriebsgeheimnisse enthalten, sind getrennt vorzulegen. Betreffen mehrere Anträge dasselbe Untersuchungsfeld und dieselben Gesteinsschichten, so ist über den Antrag zuerst zu entscheiden, dessen Untersuchungsprogramm den Voraussetzungen des § 7 Absatz 1 am besten Rechnung trägt; bei gleichwertigen Anträgen genießt der Antrag Vorrang, der zuerst genehmigungsfähig ist.
 
-(2) Die zuständige Behörde fordert die Behörden, deren Aufgabenbereich durch die beantragte Untersuchung berührt wird, innerhalb eines Monats nach Zugang des Antrags zur Stellungnahme auf. Die Stellungnahmen sind innerhalb einer von der zuständigen Behörde zu bestimmenden Frist, die drei Monate nicht überschreiten darf, abzugeben. Die zuständige Behörde veranlasst, dass die Antragsunterlagen, mit Ausnahme der Unterlagen nach Absatz 1 Satz 4, innerhalb eines Monats nach deren Zugang in einem öffentlich zugänglichen Gebäude innerhalb des Gebietes, unter dessen Oberfläche sich das Untersuchungsfeld befindet, für die Dauer eines Monats zur Einsicht ausgelegt werden. Die zuständige Behörde macht die Auslegung der Antragsunterlagen mindestens eine Woche vor dem Beginn der Auslegung in ihrem amtlichen Veröffentlichungsblatt, in mindestens einer örtlichen Tageszeitung, die in dem betroffenen Gebiet verbreitet ist, und auf ihrer Internetseite öffentlich bekannt. In der Bekanntmachung ist darauf hinzuweisen,
+(2) Die zuständige Behörde fordert die Behörden, deren Aufgabenbereich durch die beantragte Untersuchung berührt wird, innerhalb eines Monats nach Zugang des Antrags zur Stellungnahme auf. Die Stellungnahmen sind innerhalb einer von der zuständigen Behörde zu bestimmenden Frist, die zwei Monate nicht überschreiten darf, abzugeben. § 39 Absatz 2 Satz 5 und 6 ist entsprechend anzuwenden. Die zuständige Behörde veranlasst, dass die Antragsunterlagen, mit Ausnahme der Unterlagen nach Absatz 1 Satz 4, innerhalb eines Monats nach deren Zugang in einem öffentlich zugänglichen Gebäude innerhalb des Gebietes, unter dessen Oberfläche sich das Untersuchungsfeld befindet, für die Dauer eines Monats zur Einsicht ausgelegt werden. Soweit sich das Untersuchungsfeld im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels befindet, hat die Auslegung in einem öffentlich zugänglichen Gebäude in den angrenzenden Küstengebieten sowie bei der zuständigen Behörde zu erfolgen. Die zuständige Behörde macht die Auslegung der Antragsunterlagen mindestens eine Woche vor dem Beginn der Auslegung in ihrem amtlichen Veröffentlichungsblatt, in mindestens einer örtlichen Tageszeitung, die in dem betroffenen Gebiet verbreitet ist, und auf ihrer Internetseite öffentlich bekannt. In der Bekanntmachung ist darauf hinzuweisen,
 
 1. wo und in welchem Zeitraum die Antragsunterlagen nach Satz 3 zur Einsicht ausgelegt sind und
 
 2. dass etwaige Einwendungen bei den in der Bekanntmachung zu bezeichnenden Stellen innerhalb der Einwendungsfrist vorzubringen sind.
 
-(3) Jeder, dessen Belange durch das Vorhaben berührt werden, kann bis zwei Wochen nach Ablauf der Auslegungsfrist schriftlich oder zur Niederschrift bei der zuständigen Behörde Einwendungen gegen den Antrag erheben. Mit Ablauf der Einwendungsfrist sind alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen; hierauf ist in der Bekanntmachung hinzuweisen.
+(3) Jeder, dessen Belange durch das Vorhaben berührt werden, kann bis zwei Wochen nach Ablauf der Auslegungsfrist elektronisch, schriftlich oder zur Niederschrift bei der zuständigen Behörde Einwendungen gegen den Antrag erheben. Mit Ablauf der Einwendungsfrist sind alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen; hierauf ist in der Bekanntmachung hinzuweisen.
 
 (4) Wird nach einem Antrag auf Untersuchungsgenehmigung nach Absatz 1 für das darin bezeichnete Feld oder für Teile davon erstmals ein Antrag auf Erteilung einer bergrechtlichen Genehmigung gestellt und kann durch dieses Vorhaben die Eignung der im Antrag auf Untersuchungsgenehmigung bezeichneten Gesteinsschichten als Kohlendioxidspeicher beeinträchtigt werden, kann dem Antrag auf Erteilung einer bergrechtlichen Genehmigung ganz oder teilweise erst nach Entscheidung über den Antrag nach Absatz 1 stattgegeben werden.
 
-(5) Die Untersuchungsgenehmigung wird schriftlich für bestimmte Gesteinsschichten im Untersuchungsfeld erteilt. Das betroffene Untersuchungsfeld und die betroffenen Gesteinsschichten sind darin genau zu bezeichnen.
+(5) Die Untersuchungsgenehmigung wird schriftlich oder elektronisch für bestimmte Gesteinsschichten im Untersuchungsfeld erteilt. Das betroffene Untersuchungsfeld und die betroffenen Gesteinsschichten sind darin genau zu bezeichnen.
 
-(6) Die Untersuchungsgenehmigung oder deren Ablehnung wird dem Antragsteller und denjenigen, die Einwendungen erhoben haben, zugestellt. Eine Ausfertigung der Untersuchungsgenehmigung oder deren Ablehnung ist mit Begründung und einer Rechtsbehelfsbelehrung für zwei Wochen an dem durch Absatz 2 Satz 3 bestimmten Ort zur Einsicht auszulegen. Die zuständige Behörde hat den verfügenden Teil der Untersuchungsgenehmigung oder deren Ablehnung mit einer Rechtsbehelfsbelehrung vor der Auslegung in ihrem amtlichen Veröffentlichungsblatt, in mindestens einer örtlichen Tageszeitung, die in dem betroffenen Gebiet verbreitet ist, und auf ihrer Internetseite bekannt zu machen. In der Bekanntmachung ist darauf hinzuweisen, wo und in welchem Zeitraum die Unterlagen nach Satz 2 zur Einsicht ausgelegt werden. Sind außer an den Antragsteller mehr als 50 Zustellungen nach Satz 1 vorzunehmen, so können diese Zustellungen durch die öffentliche Bekanntmachung nach den Sätzen 2 und 3 ersetzt werden. Mit dem Ende der Auslegungsfrist gilt der Bescheid gegenüber den Betroffenen, die keine Einwendungen erhoben haben, sowie im Fall von Satz 4 auch gegenüber denjenigen, die Einwendungen erhoben haben, als zugestellt; in der Bekanntmachung ist hierauf hinzuweisen.
+(6) Die Untersuchungsgenehmigung oder deren Ablehnung wird dem Antragsteller und denjenigen, die Einwendungen erhoben haben, zugestellt. Eine Ausfertigung der Untersuchungsgenehmigung oder deren Ablehnung ist mit Begründung und einer Rechtsbehelfsbelehrung für zwei Wochen an dem durch Absatz 2 Satz 4 bestimmten Ort zur Einsicht auszulegen. Die zuständige Behörde hat den verfügenden Teil der Untersuchungsgenehmigung oder deren Ablehnung mit einer Rechtsbehelfsbelehrung vor der Auslegung in ihrem amtlichen Veröffentlichungsblatt, in mindestens einer örtlichen Tageszeitung, die in dem betroffenen Gebiet verbreitet ist, und auf ihrer Internetseite bekannt zu machen. In der Bekanntmachung ist darauf hinzuweisen, wo und in welchem Zeitraum die Unterlagen nach Satz 2 zur Einsicht ausgelegt werden. Sind außer an den Antragsteller mehr als 50 Zustellungen nach Satz 1 vorzunehmen, so können diese Zustellungen durch die öffentliche Bekanntmachung nach den Sätzen 2 und 3 ersetzt werden. Mit dem Ende der Auslegungsfrist gilt der Bescheid gegenüber den Betroffenen, die keine Einwendungen erhoben haben, sowie im Fall von Satz 4 auch gegenüber denjenigen, die Einwendungen erhoben haben, als zugestellt; in der Bekanntmachung ist hierauf hinzuweisen.
 
 # § 9 – Nebenbestimmungen und Widerruf der Genehmigung
 
-(1) Die nachträgliche Aufnahme, Änderung oder Ergänzung von Auflagen ist zulässig, wenn dies erforderlich ist, um die Einhaltung der Anforderungen nach § 7 Absatz 1 bis 3 zu gewährleisten. Die Genehmigung ist auf den Zeitraum zu befristen, der für eine ordnungsgemäße Untersuchung erforderlich ist. Sie kann zu diesem Zweck einmalig verlängert werden. Die Genehmigung darf nicht über den 31. Dezember 2015 hinaus befristet oder verlängert werden.
+(1) Die nachträgliche Aufnahme, Änderung oder Ergänzung von Auflagen ist zulässig, wenn dies erforderlich ist, um die Einhaltung der Anforderungen nach § 7 Absatz 1 bis 3 zu gewährleisten. Die Genehmigung ist auf den Zeitraum zu befristen, der für eine ordnungsgemäße Untersuchung erforderlich ist. Sie kann zu diesem Zweck einmalig verlängert werden.
 
 (2) Die Genehmigung kann widerrufen werden, wenn
 
@@ -273,7 +361,9 @@ einzuholen. § 905 Satz 2 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
 # § 11 – Planfeststellung für Errichtung und Betrieb eines Kohlendioxidspeichers
 
-(1) Errichtung, Betrieb und wesentliche Änderung eines Kohlendioxidspeichers bedürfen der vorherigen Planfeststellung durch die zuständige Behörde. Die Öffentlichkeit ist möglichst vor Antragstellung über das planfeststellungspflichtige Vorhaben, insbesondere über die Lage und die Größe des Kohlendioxidspeichers sowie die Technologie der Kohlendioxidspeicherung, zu informieren. Dabei ist der Öffentlichkeit Gelegenheit zur Äußerung und Erörterung zu geben. Die zuständige Behörde wirkt darauf hin, dass der zukünftige Antragsteller erforderlichenfalls ein Verfahren des öffentlichen Dialogs und der Streitschlichtung durchführt. Die Länder können die näheren Anforderungen an das Verfahren nach den Sätzen 2 bis 4 bestimmen.
+(1) Die Errichtung, der Betrieb sowie die wesentliche Änderung eines Kohlendioxidspeichers bedürfen der vorherigen Planfeststellung durch die zuständige Behörde. Die Errichtung, der Betrieb und die wesentliche Änderung von Kohlendioxidspeichern liegen im überragenden öffentlichen Interesse. Ein überragendes öffentliches Interesse nach Satz 2 besteht nicht für die Errichtung, den Betrieb sowie die wesentliche Änderung von Kohlendioxidspeichern in einem zum 31. Dezember 2023 nach § 57 Absatz 2 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 48 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist, geschützten Meeresgebiet. Bei der Entscheidung ist im Rahmen der Abwägung § 4 Absatz 1 Satz 5 entsprechend anzuwenden.
+
+(1a) Die Behörde wirkt darauf hin, dass der Träger des Vorhabens die Öffentlichkeit spätestens mit Antragstellung über das planfeststellungspflichtige Vorhaben, insbesondere über die Lage und die Größe des Kohlendioxidspeichers sowie die Technologie der Kohlendioxidspeicherung, informiert. Dabei ist der Öffentlichkeit Gelegenheit zur Äußerung und Erörterung zu geben. Die Länder können die näheren Anforderungen an das Verfahren nach den Sätzen 1 und 2 bestimmen.
 
 (2) An Stelle eines Planfeststellungsbeschlusses kann eine Plangenehmigung nach § 74 Absatz 6 des Verwaltungsverfahrensgesetzes erteilt werden, wenn
 
@@ -285,7 +375,7 @@ einzuholen. § 905 Satz 2 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
 4. keine Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung besteht.
 
-(3) Die Speicherung von Kohlendioxid außerhalb eines zugelassenen Kohlendioxidspeichers und in der Wassersäule ist unzulässig.
+(3) Die dauerhafte Speicherung von Kohlendioxid außerhalb eines zugelassenen Kohlendioxidspeichers und die Speicherung in der Wassersäule ist unzulässig.
 
 # § 12 – Antrag auf Planfeststellung
 
@@ -329,21 +419,39 @@ einzuholen. § 905 Satz 2 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
 1. sichergestellt ist, dass unter Berücksichtigung der Standortgebundenheit die Errichtung und der Betrieb des geplanten Kohlendioxidspeichers das Wohl der Allgemeinheit nicht beeinträchtigen und überwiegende private Belange nicht entgegenstehen,
 
-2. die Langzeitsicherheit des Kohlendioxidspeichers gewährleistet ist,
+2. die Langzeitsicherheit des Kohlendioxidspeichers einschließlich des Schutzes des Grundwassers im Hinblick auf die Verwendung als Trinkwasser gewährleistet ist,
 
 3. Gefahren für Mensch und Umwelt im Übrigen nicht hervorgerufen werden können,
 
-4. die erforderliche Vorsorge gegen Beeinträchtigungen von Mensch und Umwelt getroffen wird, insbesondere durch Verhinderung von erheblichen Unregelmäßigkeiten; die erforderliche Vorsorge für Kohlendioxidspeicher nach § 2 Absatz 2 bestimmt sich nach dem Stand von Wissenschaft und Technik,
+4. die erforderliche Vorsorge gegen Beeinträchtigungen von Mensch und Umwelt getroffen wird, insbesondere durch Verhinderung von erheblichen Unregelmäßigkeiten; die erforderliche Vorsorge für Kohlendioxidspeicher nach § 2 Absatz 3 und 5 bestimmt sich nach dem Stand von Wissenschaft und Technik,
 
 5. die nach § 12 Absatz 2 einzureichenden Unterlagen den Anforderungen dieses Gesetzes und den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen entsprechen,
 
 6. der Antragsteller sicherstellen kann, dass der Kohlendioxidstrom den Anforderungen des § 24 entspricht,
 
-7. der Antragsteller die von der zuständigen Behörde für das erste Betriebsjahr festgesetzte Deckungsvorsorge nach § 30 Absatz 2 getroffen hat und
+7. der Antragsteller die von der zuständigen Behörde für das erste Betriebsjahr festgesetzte Deckungsvorsorge nach § 30 Absatz 2 getroffen hat,
 
-8. sonstige öffentlich-rechtliche Vorschriften nicht entgegenstehen.
+8. der Bau und der Betrieb des Kohlendioxidspeichers die Errichtung oder den Betrieb einer Windenergieanlage auf See nach § 3 Nummer 11 des Windenergie-auf-See-Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2310), das zuletzt durch Artikel 44 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist, einer Offshore-Anbindungsleitung nach § 3 Nummer 5 des Windenergie-auf-See-Gesetzes, einer sonstigen Energiegewinnungsanlage nach § 3 Nummer 7 des Windenergie-auf-See-Gesetzes, zur Erzeugung von Wasserstoff sowie einer Anlage zur Übertragung von Wasserstoff aus sonstigen Energiegewinnungsanlagen nicht wesentlich beeinträchtigt,
 
-Die sich aus § 7 Absatz 1 Satz 2 Nummer 1 und 3 bis 7 ergebenden Voraussetzungen gelten entsprechend. Bei der Planfeststellung und der Plangenehmigung sind Ziele der Raumordnung zu beachten sowie Grundsätze und sonstige Erfordernisse der Raumordnung zu berücksichtigen. Bei der Entscheidung sind im Rahmen der Genehmigungsvoraussetzungen und der Abwägung die Ergebnisse der Umweltverträglichkeitsprüfung nach § 25 des Gesetzes über die Umweltverträglichkeitsprüfung im Hinblick auf eine wirksame Umweltvorsorge zu berücksichtigen. Auf die Belange der Land- und Forstwirtschaft ist Rücksicht zu nehmen.
+9. im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels
+
+a) die Errichtung und der Betrieb von Anlagen, die der Injektion des Kohlendioxids dienen, über oder auf der Wasseroberfläche sowie im Bereich der Wassersäule nicht in einem zum 31. Dezember 2023 nach § 57 Absatz 2 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 48 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist, geschützten Meeresgebiet oder in einem Abstand von weniger als 8 Kilometern dazu vorgesehen sind,
+
+b) die Stelle am Meeresboden, an der das Kohlendioxid in den tieferen geologischen Untergrund injiziert werden soll, sich nicht in einem zum 31. Dezember 2023 nach § 57 Absatz 2 des Bundesnaturschutzgesetzes geschützten Meeresgebiet oder in einem Abstand von weniger als 8 Kilometern dazu befindet,
+
+c) die für die Speicherung vorgesehenen Gesteinsschichten sich nicht unterhalb eines zum 31. Dezember 2023 nach § 57 Absatz 2 des Bundesnaturschutzgesetzes geschützten Meeresgebiets befinden,
+
+d) Rammungen und lärmintensive seismische Untersuchungen beim Bau und Betrieb des Kohlendioxidspeichers einschließlich dessen Überwachung in der sensiblen Zeit von Mai bis August nicht im Hauptkonzentrationsgebiet des Schweinswals nach Abbildung 15 im Anhang der Anlage zur Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee und in der Ostsee vom 19. August 2021 (BGBl. I S. 3886) oder in einem Abstand von weniger als 8 Kilometern dazu durchgeführt werden,
+
+e) die Errichtung und der Betrieb von Anlagen, die der Injektion des Kohlendioxids dienen, über oder auf der Wasseroberfläche sowie im Bereich der Wassersäule nicht in der für einen Ausschluss von Anlagen über der Wasseroberfläche markierten Fläche nach Abbildung 16 im Anhang der Anlage zur Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee und in der Ostsee vorgesehen sind und die Stelle am Meeresboden, an der das Kohlendioxid in den tieferen geologischen Untergrund injiziert werden soll, sich nicht in diesem Gebiet befindet,
+
+f) die für die Speicherung vorgesehenen Gesteinsschichten sich zu einem Anteil von mindestens drei Vierteln im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels befinden sowie die Injektion von Kohlendioxid nur in diesen Gebieten stattfindet,
+
+g) keine Beeinträchtigungen der Sicherheit und Leichtigkeit des Schiffsverkehrs zu besorgen sind, die nicht durch Bedingungen und Auflagen ausgeglichen werden können und
+
+10. sonstige öffentlich-rechtliche Vorschriften nicht entgegenstehen.
+
+Die sich aus § 7 Absatz 1 Satz 2 Nummer 1 und 3 bis 7 ergebenden Voraussetzungen gelten entsprechend. Der in Satz 1 Nummer 9 Buchstabe a und b vorgesehene Mindestabstand von 8 Kilometern sowie Satz 1 Nummer 9 Buchstabe c gelten nicht, wenn durch eine Rechtsverordnung nach § 25 Absatz 3 festgestellt wird, dass unter Zugrundelegung des Ergebnisses der Evaluierung nach § 44, insbesondere der Bewertung nach § 44 Absatz 2 Nummer 3a, die nach diesem Gesetz zur Verfügung stehenden Speicherkapazitäten nicht ausreichend sind und daher im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels auszuweiten sind. Bei der Planfeststellung und der Plangenehmigung sind Ziele der Raumordnung und des Flächenentwicklungsplans nach dem Windenergie-auf-See-Gesetz zu beachten sowie Grundsätze und sonstige Erfordernisse der Raumordnung zu berücksichtigen. Bei der Entscheidung sind im Rahmen der Genehmigungsvoraussetzungen und der Abwägung die Ergebnisse der Umweltverträglichkeitsprüfung nach § 25 des Gesetzes über die Umweltverträglichkeitsprüfung im Hinblick auf eine wirksame Umweltvorsorge zu berücksichtigen. Auf die Belange der Land- und Forstwirtschaft sowie der Fischerei und Aquakulturwirtschaft ist Rücksicht zu nehmen. Die Planfeststellung nach Satz 1 bedarf des Einvernehmens des Bundesamts für Seeschifffahrt und Hydrographie sowie der Generaldirektion Wasserstraßen und Schifffahrt. Das Bundesamt für Naturschutz ist zu beteiligen. Soweit die Planfeststellung nach Satz 1 das Vorbehaltsgebiet Schweinswale nach Abbildung 15 im Anhang der Anlage zur Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee und in der Ostsee vom 19. August 2021 (BGBl. I S. 3886) betrifft, bedarf es des Einvernehmens des Bundesamtes für Naturschutz.
 
 (2) Der Planfeststellungsbeschluss oder die Plangenehmigung muss insbesondere enthalten:
 
@@ -359,7 +467,7 @@ Die sich aus § 7 Absatz 1 Satz 2 Nummer 1 und 3 bis 7 ergebenden Voraussetzunge
 
 (3) Der Planfeststellungsbeschluss oder die Plangenehmigung kann mit Befristungen, Bedingungen, einem Vorbehalt des Widerrufs oder Auflagen versehen werden. Zur Erfüllung der Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ist bis zur Übertragung der Verantwortung nach § 31 die Aufnahme, Änderung und Ergänzung von Auflagen zulässig.
 
-(4) Die zuständige Behörde übermittelt eine Abschrift der vollständigen Antragsunterlagen, weitere entscheidungserhebliche Daten und den Entwurf des Planfeststellungsbeschlusses über die zuständigen Stellen in der Bundesregierung an die Kommission. Die Abschrift der vollständigen Antragsunterlagen ist innerhalb eines Monats nach deren Eingang bei der zuständigen Behörde an die Kommission zu übermitteln. Eine Stellungnahme der Kommission ist in der endgültigen Entscheidung zu berücksichtigen, wenn sie innerhalb von vier Monaten nach Übermittlung des Entwurfs des Planfeststellungsbeschlusses eingeht. Die zuständige Behörde übermittelt den zuständigen Stellen in der Bundesregierung über die dafür nach Landesrecht zuständige Behörde den Planfeststellungsbeschluss sowie Begründungen für etwaige Abweichungen von der Stellungsnahme der Kommission zur Weiterleitung an die Kommission.
+(4) Die zuständige Behörde übermittelt eine Abschrift der vollständigen Antragsunterlagen, weitere entscheidungserhebliche Daten und den Entwurf des Planfeststellungsbeschlusses über die zuständigen Stellen in der Bundesregierung an die Kommission. Die Abschrift der vollständigen Antragsunterlagen ist innerhalb eines Monats nach deren Eingang bei der zuständigen Behörde an die Kommission zu übermitteln. Eine Stellungnahme der Kommission ist in der endgültigen Entscheidung zu berücksichtigen, wenn sie innerhalb von vier Monaten nach Übermittlung des Entwurfs des Planfeststellungsbeschlusses eingeht. Die zuständige Behörde übermittelt den zuständigen Stellen in der Bundesregierung über die dafür nach Landesrecht zuständige Behörde den Planfeststellungsbeschluss sowie Begründungen für etwaige Abweichungen von der Stellungnahme der Kommission zur Weiterleitung an die Kommission.
 
 (5) Das Verfahren zur Planfeststellung oder Plangenehmigung für ein Vorhaben, dessen Auswirkungen über das Gebiet eines Landes hinausgehen, ist zwischen den zuständigen Behörden der beteiligten Länder abzustimmen.
 
@@ -369,7 +477,7 @@ Der Grundstückseigentümer und sonstige Nutzungsberechtigte haben nach Maßgabe
 
 # § 15 – Enteignungsrechtliche Vorwirkung
 
-(1) Dienen die Errichtung und der Betrieb des Kohlendioxidspeichers dem Wohl der Allgemeinheit, ist die Enteignung zulässig, soweit sie zur Durchführung des Vorhabens notwendig ist und der Enteignungszweck unter Beachtung der Standortgebundenheit des Vorhabens auf andere zumutbare Weise, insbesondere an anderer Stelle, nicht erreicht werden kann. Das Vorhaben dient dem Wohl der Allgemeinheit, wenn es für die Demonstration der dauerhaften Speicherung in Deutschland erforderlich ist und zum Zwecke des Klimaschutzes die Emission von Kohlendioxid in Deutschland dauerhaft vermindert wird.
+(1) Dienen die Errichtung und der Betrieb des Kohlendioxidspeichers dem Wohl der Allgemeinheit, ist die Enteignung zulässig, soweit sie zur Durchführung des Vorhabens notwendig ist und der Enteignungszweck unter Beachtung der Standortgebundenheit des Vorhabens auf andere zumutbare Weise, insbesondere an anderer Stelle, nicht erreicht werden kann. Das Vorhaben dient dem Wohl der Allgemeinheit, wenn es für die dauerhafte Speicherung in Deutschland erforderlich ist und zum Zwecke des Klimaschutzes die Emission von Kohlendioxid in Deutschland dauerhaft vermindert wird.
 
 (2) Eine Enteignung setzt voraus, dass sich der Antragsteller ernsthaft und zu angemessenen Bedingungen um den freihändigen Erwerb der Rechte am Grundstück oder die Vereinbarung eines Nutzungsverhältnisses vergeblich bemüht hat. Die Enteignung darf den zur Verwirklichung des Enteignungszweckes erforderlichen Umfang nicht überschreiten. Soll ein Grundstück oder ein räumlich oder wirtschaftlich zusammenhängender Grundbesitz nur zu einem Teil enteignet werden, kann der Eigentümer die Ausdehnung der Enteignung auf das Restgrundstück oder den Restbesitz insoweit verlangen, als das Restgrundstück oder der Restbesitz nicht mehr in angemessenem Umfang baulich oder wirtschaftlich genutzt werden können.
 
@@ -411,17 +519,17 @@ Nach Abschluss der Stilllegung des Kohlendioxidspeichers ist der Betreiber insbe
 
 # § 19 – Sicherheitsnachweis
 
-Der Betreiber ist verpflichtet, den Sicherheitsnachweis auf Grundlage der Charakterisierung und Bewertung nach § 7 Absatz 3 Satz 1 zu erstellen. Der Sicherheitsnachweis dient dazu, der zuständigen Behörde die für die Prüfung der Voraussetzungen nach § 13 Absatz 1 Satz 1 Nummer 2 bis 4 erforderlichen Nachweise zu liefern. Im Sicherheitsnachweis sind auch geeignete Maßnahmen zur Verhütung und Beseitigung von Leckagen und erheblichen Unregelmäßigkeiten zu beschreiben. Dem Sicherheitsnachweis ist eine Stellungnahme der Bundesanstalt für Geowissenschaften und Rohstoffe und des Umweltbundesamtes beizufügen.
+Der Betreiber ist verpflichtet, den Sicherheitsnachweis auf Grundlage der Charakterisierung und Bewertung nach § 7 Absatz 3 Satz 1 zu erstellen. Der Sicherheitsnachweis dient dazu, der zuständigen Behörde die für die Prüfung der Voraussetzungen nach § 13 Absatz 1 Satz 1 Nummer 2 bis 4 erforderlichen Nachweise zu liefern. Im Sicherheitsnachweis sind auch geeignete Maßnahmen zur Verhütung und Beseitigung von Leckagen und erheblichen Unregelmäßigkeiten zu beschreiben. Die zuständige Behörde holt Stellungnahmen der Bundesanstalt für Geowissenschaften und Rohstoffe, des Umweltbundesamtes, der Generaldirektion Wasserstraßen und Schifffahrt und des Bundesamts für Seeschifffahrt und Hydrographie ein. Die Stellungnahmen sind jeweils innerhalb einer Frist von zwei Monaten abzugeben. § 39 Absatz 2 Satz 5 und 6 ist entsprechend anzuwenden.
 
 # § 20 – Überwachungskonzept
 
-(1) Der Betreiber ist verpflichtet, für den Zeitraum ab Errichtung des Kohlendioxidspeichers bis zur Übertragung der Verantwortung nach § 31 ein Überwachungskonzept für die Planung und Durchführung der Überwachung nach § 22 Absatz 1 und 2, insbesondere nach Maßgabe der Anlage 2, zu erstellen. Dem Überwachungskonzept sind die Angaben beizufügen, die nach § 45 Absatz 4 erforderlich sind.
+(1) Der Betreiber ist verpflichtet, für den Zeitraum ab Errichtung des Kohlendioxidspeichers bis zur Übertragung der Verantwortung nach § 31 ein Überwachungskonzept für die Planung und Durchführung der Überwachung nach § 22 Absatz 1 und 2, insbesondere nach Maßgabe der Anlage 2, zu erstellen. Dem Überwachungskonzept sind die Angaben beizufügen, die nach § 45 Absatz 3 erforderlich sind.
 
 (2) Das Überwachungskonzept ist unbeschadet des § 21 Absatz 2 nach Maßgabe der Anlage 2 alle fünf Jahre zu aktualisieren, um neuen Erkenntnissen in der Einschätzung der Langzeitsicherheit, von Leckagerisiken und von Risiken für Mensch und Umwelt sowie den technischen Entwicklungen Rechnung zu tragen. Eine Änderung des Überwachungskonzepts gegenüber der Fassung, die nach § 13 Absatz 1 Satz 1 Nummer 5 Voraussetzung für den Planfeststellungsbeschluss war, bedarf der Genehmigung durch die zuständige Behörde, soweit die Änderung nicht Teil des Anpassungsprozesses nach § 21 Absatz 2 ist.
 
 # § 21 – Anpassung
 
-(1) Der Betreiber ist verpflichtet, alle Tätigkeiten und Anlagen für die dauerhafte Speicherung nach § 2 Absatz 1 auf einem Stand zu halten, der die Erfüllung der in § 13 Absatz 1 Satz 1 Nummer 2 bis 4 genannten Voraussetzungen sicherstellt. Die zuständige Behörde konkretisiert die Pflicht nach Satz 1 durch nachträgliche Auflagen nach § 13 Absatz 3 Satz 2; sie überprüft alle fünf Jahre, ob die Voraussetzungen des § 13 Absatz 1 Satz 1 Nummer 2 bis 4 eingehalten werden.
+(1) Der Betreiber ist verpflichtet, alle Tätigkeiten und Anlagen für die dauerhafte Speicherung nach § 2 Absatz 1 Nummer 2 auf einem Stand zu halten, der die Erfüllung der in § 13 Absatz 1 Satz 1 Nummer 2 bis 4 genannten Voraussetzungen sicherstellt. Die zuständige Behörde konkretisiert die Pflicht nach Satz 1 durch nachträgliche Auflagen nach § 13 Absatz 3 Satz 2; sie überprüft alle fünf Jahre, ob die Voraussetzungen des § 13 Absatz 1 Satz 1 Nummer 2 bis 4 eingehalten werden.
 
 (2) Die nach diesem Gesetz zu erstellenden Programme, Nachweise und Konzepte sind auf Anforderung der zuständigen Behörde in angemessenen Abständen an den Vorsorgestandard nach § 13 Absatz 1 Satz 1 Nummer 4 anzupassen. Die Anpassung ist mit der zuständigen Behörde abzustimmen und ab Inbetriebnahme des Kohlendioxidspeichers bis zur Übertragung der Verantwortung nach § 31 zu gewährleisten.
 
@@ -465,7 +573,7 @@ Der Betreiber ist verpflichtet, den Sicherheitsnachweis auf Grundlage der Charak
 
 1. er ganz überwiegend aus Kohlendioxid besteht und der Anteil an Kohlendioxid so hoch ist, wie dies nach dem Stand der Technik bei der jeweiligen Art der Anlage mit verhältnismäßigem Aufwand erreichbar ist,
 
-2. er als Nebenbestandteile außer Stoffen zur Erhöhung der Sicherheit und Verbesserung der Überwachung nur zwangsläufige Beimengungen von Stoffen enthält, die aus dem Ausgangsmaterial sowie aus den für die Abscheidung, den Transport und die dauerhafte Speicherung angewandten Verfahren stammen,
+2. er als Nebenbestandteile außer Stoffen zur Erhöhung der Sicherheit und Verbesserung der Überwachung nur zwangsläufige Beimengungen von Stoffen enthält, die aus dem Ausgangsmaterial sowie aus den für die Abscheidung, die Aufbereitung, den Transport und die dauerhafte Speicherung angewandten Verfahren stammen,
 
 3. Beeinträchtigungen von Mensch und Umwelt, der Langzeitsicherheit des Kohlendioxidspeichers und der Sicherheit von Injektions- und Transportanlagen durch die in Nummer 2 genannten Stoffe ausgeschlossen sind sowie
 
@@ -475,9 +583,9 @@ Der Betreiber ist verpflichtet, den Sicherheitsnachweis auf Grundlage der Charak
 
 (3) Der Betreiber hat ein Betriebstagebuch zu führen, das Informationen über die Mengen und Eigenschaften, die Zusammensetzung und den Ursprung des Kohlendioxidstroms, einschließlich der Namen und Adressen der Betriebe, in denen das Kohlendioxid abgeschieden wurde, sowie über den Transport des Kohlendioxids, einschließlich der zum Transport genutzten Kohlendioxidleitungen und deren Betreiber, enthält.
 
-# § 25 – Regelung von Anforderungen an Kohlendioxidspeicher
+# § 25 – Regelung von Anforderungen an Kohlendioxidspeicher; Verordnungsermächtigungen
 
-(1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass zu den in § 1 Satz 1 genannten Zwecken, zur Umsetzung von Rechtsakten der Europäischen Union, zur Erfüllung des § 7 Absatz 1 und 2 die Untersuchung und zur Erfüllung des § 13 Absatz 1 Satz 1 Nummer 1 bis 4, 6 und Satz 2 sowie des § 21 Absatz 1 die Errichtung, der Betrieb, die Überwachung, die Stilllegung, die Nachsorge und die Beschaffenheit von Kohlendioxidspeichern bestimmten Anforderungen genügen müssen, insbesondere,
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass zu den in § 1 Satz 1 genannten Zwecken, zur Umsetzung von Rechtsakten der Europäischen Union, zur Erfüllung des § 7 Absatz 1 und 2 die Untersuchung und zur Erfüllung des § 13 Absatz 1 Satz 1 Nummer 1 bis 4, 6 und Satz 2 sowie des § 21 Absatz 1 die Errichtung, der Betrieb, die Überwachung, die Stilllegung, die Nachsorge und die Beschaffenheit von Kohlendioxidspeichern bestimmten Anforderungen genügen müssen, insbesondere,
 
 1. dass die Kohlendioxidspeicher bestimmten betrieblichen, organisatorischen und technischen Anforderungen genügen müssen und welche Anforderungen insbesondere an die dauerhafte Speicherung und an die dazu erforderlichen technischen Einrichtungen zu stellen sind,
 
@@ -503,11 +611,23 @@ Hinsichtlich der Anforderungen in Satz 1 Nummer 1, 3, 4 und 6 kann auf öffentli
 
 (2) Auf Grund von Absatz 1 erlassene Rechtsverordnungen sind regelmäßig daraufhin zu überprüfen, inwieweit die einschlägigen Vorschriften dem Vorsorgestandard nach § 13 Absatz 1 Satz 1 Nummer 4 entsprechen; die Rechtsverordnungen sind gegebenenfalls anzupassen.
 
-# § 26 – Regelung von Anforderungen an das Verfahren
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundestages und Bundesrates zu bestimmen, dass die Flächen zur dauerhaften Speicherung von Kohlendioxid im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels bei Vorliegen der Voraussetzungen nach § 13 Absatz 1 Satz 3 ausgeweitet werden.
 
-(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates das Verfahren für die Untersuchungsgenehmigung, die Planfeststellung und die Plangenehmigung sowie die Stilllegungsgenehmigung zu regeln, insbesondere Einzelheiten des Antragsinhalts nach § 12 Absatz 1 und der nach § 12 Absatz 2 vorzulegenden Unterlagen, und weitere Anforderungen an den Antragsinhalt und an vorzulegende Unterlagen festzulegen sowie den Inhalt des Planfeststellungsbeschlusses oder der Plangenehmigung nach § 13 Absatz 2 näher zu bestimmen.
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates in Bezug auf einen nach Artikel 23 Absatz 3 der Verordnung (EU)
 
-(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates die Anforderungen an die Form, die Inhalte und das Verfahren zur Erstellung, Fortschreibung und Vorlage des Sicherheitsnachweises nach § 19, des Überwachungskonzepts nach § 20 und des Stilllegungs- und Nachsorgekonzepts nach § 17 Absatz 2 Satz 2 näher zu bestimmen.
+2024/1735 durch die Europäische Kommission festgelegten Beitrag zu dem Ziel der jährlichen Kohlendioxid-Injektionskapazität auf Ebene der Europäischen Union durch natürliche oder juristische Personen, die im Geltungsbereich dieses Gesetzes Inhaber einer Genehmigung im Sinne des Artikels 1 Nummer 3 der Richtlinie 94/22/EG sind oder waren,
+
+1. zu bestimmen, dass der Beitrag bestimmten Anforderungen genügen muss, damit ein Verstoß nach Artikel 23 Absatz 13 der Verordnung (EU) 2024/1735 nicht gegeben ist, insbesondere das Nähere hinsichtlich der Art und Weise der Erfüllung des Beitrags und der für die Erfüllung nachzuweisenden Fortschritte festzulegen,
+
+2. eine Zahlungspflicht pro Tonne nicht geschaffener jährlicher Kohlendioxid-Injektionskapazität für jedes Jahr, in dem der Beitrag nicht, nicht vollständig oder nicht rechtzeitig erfüllt worden ist, bis zur Höhe des Betrags, der sich aus einer entsprechenden Anwendung des § 46 Absatz 1 Satz 1 und 2 des Treibhausgas-Emissionshandelsgesetzes vom 27. Februar 2025 (BGBl. 2025 I Nr. 70) ergibt, zu regeln, insbesondere um den mit der Nichterfüllung oder der nicht vollständigen oder nicht rechtzeitigen Erfüllung einhergehenden wirtschaftlichen Vorteil abzuschöpfen, und
+
+3. die Zuständigkeit der Behörden und das Verfahren insbesondere hinsichtlich der Überwachung der Erfüllung des Beitrags, der Feststellung eines Verstoßes sowie der Festsetzung und des Vollzugs der Zahlungspflicht zu regeln.
+
+# § 26 – Regelung von Anforderungen an das Verfahren; Verordnungsermächtigungen
+
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates das Verfahren für die Untersuchungsgenehmigung, die Planfeststellung und die Plangenehmigung sowie die Stilllegungsgenehmigung zu regeln, insbesondere nähere Vorschriften über die Bearbeitung von Anträgen und einen Vorrang bei der Bearbeitung nach § 8 Absatz 1 Satz 5, Einzelheiten des Antragsinhalts nach § 12 Absatz 1 und der nach § 12 Absatz 2 vorzulegenden Unterlagen, und weitere Anforderungen an den Antragsinhalt und an vorzulegende Unterlagen festzulegen sowie den Inhalt des Planfeststellungsbeschlusses oder der Plangenehmigung nach § 13 Absatz 2 näher zu bestimmen.
+
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates die Anforderungen an die Form, die Inhalte und das Verfahren zur Erstellung, Fortschreibung und Vorlage des Sicherheitsnachweises nach § 19, des Überwachungskonzepts nach § 20 und des Stilllegungs- und Nachsorgekonzepts nach § 17 Absatz 2 Satz 2 näher zu bestimmen.
 
 # § 27 – Überprüfung durch die zuständige Behörde
 
@@ -627,7 +747,7 @@ Für den Nachweis sind alle Erkenntnisse über das Verhalten des Kohlendioxids i
 
 # § 32 – Verordnungsermächtigung für die Deckungsvorsorge und die Übertragung der Verantwortung
 
-(1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften zu erlassen über
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften zu erlassen über
 
 1. den Zeitpunkt, ab dem der Betreiber eines Kohlendioxidspeichers nach § 30 Deckungsvorsorge zu treffen hat,
 
@@ -639,11 +759,11 @@ Für den Nachweis sind alle Erkenntnisse über das Verhalten des Kohlendioxids i
 
 5. die Pflichten des Betreibers des Kohlendioxidspeichers, des Versicherungsunternehmens, des Bürgen und desjenigen, der eine Freistellungs- oder Gewährleistungsverpflichtung übernommen hat, gegenüber der für die Überwachung der Deckungsvorsorge zuständigen Behörde.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Übertragung der Verantwortung nach § 31 zu erlassen und insbesondere das Verfahren sowie die Anforderungen an den Langzeitsicherheitsnachweis nach § 31 Absatz 3 näher zu bestimmen.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Übertragung der Verantwortung nach § 31 zu erlassen und insbesondere das Verfahren sowie die Anforderungen an den Langzeitsicherheitsnachweis nach § 31 Absatz 3 näher zu bestimmen.
 
-# § 33 – Anschluss und Zugang; Verordnungsermächtigung
+# § 33 – Anschluss und Zugang; Verordnungsermächtigungen
 
-(1) Die Betreiber von Kohlendioxidleitungsnetzen und Kohlendioxidspeichern haben anderen Unternehmen diskriminierungsfrei und zu technischen und wirtschaftlichen Bedingungen, die angemessen und transparent sind und die nicht ungünstiger sein dürfen als sie in vergleichbaren Fällen für Leistungen innerhalb eines Unternehmens oder gegenüber verbundenen oder assoziierten Unternehmen angewendet werden, den Anschluss an ihr Kohlendioxidleitungsnetz und ihre Kohlendioxidspeicher und den Zugang zu denselben zu gewähren. Die Betreiber von Kohlendioxidleitungsnetzen und Kohlendioxidspeichern haben in dem Umfang zusammenzuarbeiten, der erforderlich ist, um einen effizienten Anschluss und Zugang zu gewährleisten. Sie haben ferner den anderen Unternehmen die für einen effizienten Anschluss und Zugang erforderlichen Informationen zur Verfügung zu stellen.
+(1) Die Betreiber von Kohlendioxidleitungsnetzen und Kohlendioxidspeichern haben anderen Unternehmen diskriminierungsfrei und zu technischen und wirtschaftlichen Bedingungen, die angemessen und transparent sind und die nicht ungünstiger sein dürfen als sie in vergleichbaren Fällen für Leistungen innerhalb eines Unternehmens oder gegenüber verbundenen oder assoziierten Unternehmen angewendet werden, den Anschluss an ihr Kohlendioxidleitungsnetz und ihre Kohlendioxidspeicher und den Zugang zu denselben zu gewähren. Die Betreiber von Kohlendioxidleitungsnetzen und Kohlendioxidspeichern haben, insbesondere im Rahmen von Kooperationsvereinbarungen, in dem Umfang zusammenzuarbeiten, der erforderlich ist, um einen effizienten Anschluss und Zugang zu gewährleisten. Sie haben ferner den anderen Unternehmen die für einen effizienten Anschluss und Zugang erforderlichen Informationen zur Verfügung zu stellen.
 
 (2) Die Betreiber von Kohlendioxidleitungsnetzen und Kohlendioxidspeichern können den Anschluss und den Zugang nach Absatz 1 verweigern, soweit sie nachweisen, dass ihnen die Gewährung des Anschlusses und des Zugangs wegen mangelnder Kapazität oder zwingender rechtlicher Gründe nicht möglich oder nicht zumutbar ist. Die Ablehnung ist schriftlich zu begründen und der beantragenden Partei sowie der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) unverzüglich zu übermitteln. Auf Verlangen der beantragenden Partei muss die Begründung bei mangelnder Kapazität oder mangelnden Anschlussmöglichkeiten auch aussagekräftige Informationen darüber enthalten, welche konkreten Maßnahmen und damit verbundenen Kosten zum Ausbau des Kohlendioxidleitungsnetzes im Einzelnen erforderlich wären, um den Anschluss oder Zugang durchzuführen; die Begründung kann nachgefordert werden. Für die Begründung nach Satz 3 kann ein Entgelt, das die Hälfte der entstandenen Kosten nicht überschreiten darf, verlangt werden, sofern zuvor auf die Entstehung von Kosten hingewiesen worden ist.
 
@@ -660,6 +780,12 @@ diese Maßnahmen die Sicherheit des Kohlendioxidtransports und der Kohlendioxids
 1. Vorschriften zu erlassen über die technischen und wirtschaftlichen Bedingungen für den Anschluss und den Zugang nach Absatz 1,
 
 2. zu regeln, in welchen Fällen, unter welchen Voraussetzungen und in welchem Verfahren die Bundesnetzagentur die auf Grund von Nummer 1 bestimmten Bedingungen festlegen kann oder auf Antrag des Betreibers des Kohlendioxidleitungsnetzes oder des Kohlendioxidspeichers genehmigen kann.
+
+(5) Abweichend von Absatz 1 sind Betreiber von Kohlendioxidleitungsnetzen und Kohlendioxidspeichern verpflichtet, Unternehmen den Anschluss an ihr Kohlendioxidleitungsnetz und ihre Kohlendioxidspeicher sowie den Zugang zu denselben zu verweigern, wenn das aufzunehmende Kohlendioxid durch die Verbrennung von Kohle in einer Anlage und Verbrennungseinheit zur Energieerzeugung nach Anhang 1 Teil 2 Nummer 1 bis 4 des Treibhausgas-Emissionshandelsgesetzes und im räumlichen Geltungsbereich des Treibhausgas-Emissionshandelsgesetzes entstanden ist. Der Nachweis über das Nichtvorliegen des Ausschlussgrundes nach Satz 1 ist von dem Anlagenbetreiber zu erbringen, der den Anschluss an das Kohlendioxidleitungsnetz oder den Zugang zu dem Kohlendioxidspeicher begehrt. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates folgende Einzelheiten zu regeln:
+
+1. die Bestimmung von Anlagen nach Satz 1 sowie
+
+2. das Verfahren der Nachweiserbringung nach Satz 2.
 
 # § 34 – Befugnisse der Bundesnetzagentur; Verordnungsermächtigung
 
@@ -699,7 +825,7 @@ diese Maßnahmen die Sicherheit des Kohlendioxidtransports und der Kohlendioxids
 
 (5) Über die nach Absatz 3 dem Oberlandesgericht zugewiesenen Rechtssachen entscheidet der nach § 91 des Gesetzes gegen Wettbewerbsbeschränkungen beim für den Sitz der Bundesnetzagentur zuständigen Oberlandesgericht gebildete Kartellsenat. Der nach § 94 des Gesetzes gegen Wettbewerbsbeschränkungen beim Bundesgerichtshof gebildete Kartellsenat entscheidet über die in Absatz 4 genannten Rechtsmittel.
 
-(6) Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten für das behördliche und gerichtliche Verfahren die §§ 67 bis 90a sowie 94 des Energiewirtschaftsgesetzes entsprechend. In Bezug auf Durchsuchungen nach § 69 Absatz 4 des Energiewirtschaftsgesetzes wird das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) eingeschränkt.
+(6) Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten für das behördliche und gerichtliche Verfahren die §§ 67 bis 90 sowie 94 des Energiewirtschaftsgesetzes entsprechend. In Bezug auf Durchsuchungen nach § 69 Absatz 4 des Energiewirtschaftsgesetzes wird das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) eingeschränkt.
 
 (7) Die Bundesnetzagentur erhebt Kosten (Gebühren und Auslagen) für Anordnungen nach § 34 Absatz 1, für den Erlass oder die Genehmigung von Anschlussbedingungen nach § 34 Absatz 2 sowie für Entscheidungen über Änderungen dieser Anschlussbedingungen nach § 34 Absatz 3. Die Gebührensätze sind so zu bemessen, dass die mit den Amtshandlungen verbundenen Kosten gedeckt sind. Kostenschuldner ist, wer durch einen Antrag die Tätigkeit der Bundesnetzagentur veranlasst hat, oder derjenige, gegen den eine Verfügung der Bundesnetzagentur ergangen ist. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Gebührensätze zu regeln.
 
@@ -725,33 +851,51 @@ ist und soweit dieser Zweck anders nicht erreicht werden kann. Eine Befreiung is
 
 # § 38 – Anwendung von Vorschriften
 
-(1) § 9 Absatz 1 Satz 4, § 11 Absatz 1 und 2, die §§ 14, 15, 19 Satz 4, § 20 Absatz 1 Satz 2 sowie § 30 Absatz 1 Nummer 3 finden für Forschungsspeicher und die Untersuchung des Untergrundes auf seine Eignung zur Errichtung von Forschungsspeichern keine Anwendung.
+(1) § 11 Absatz 1 und 2, die §§ 14, 15, 19 Satz 4, § 20 Absatz 1 Satz 2 sowie § 30 Absatz 1 Nummer 3 finden für Forschungsspeicher und die Untersuchung des Untergrundes auf seine Eignung zur Errichtung von Forschungsspeichern keine Anwendung.
 
-(2) Bei der Anwendung von § 7 Absatz 3, § 19 Satz 3, § 21 Absatz 1, § 23 Absatz 1 Nummer 2, § 28 Absatz 4 Satz 3 und § 31 sowie beim Erlass von Rechtsverordnungen nach den §§ 25, 26, 32 und 33 sind die Belange der Forschung zu berücksichtigen. § 17 Absatz 5 gilt mit der Maßgabe, dass der Betreiber auch dann verpflichtet ist, den Forschungsspeicher stillzulegen, wenn die Arbeiten zum genehmigten Zweck der Forschung abgeschlossen sind; die Forschungsergebnisse sind der Bundesanstalt für Geowissenschaften und Rohstoffe zur Verfügung zu stellen.
+(2) Bei der Anwendung von § 7 Absatz 3, § 19 Satz 3, § 21 Absatz 1, § 23 Absatz 1 Nummer 2, § 28 Absatz 4 Satz 3 und § 31 sowie beim Erlass von Rechtsverordnungen nach den §§ 25, 26, 32 und 33 sind die Belange der Forschung zu berücksichtigen. § 17 Absatz 5 gilt mit der Maßgabe, dass der Betreiber auch dann verpflichtet ist, den Forschungsspeicher stillzulegen, wenn die Arbeiten zum genehmigten Zweck der Forschung abgeschlossen sind; die Forschungsergebnisse sind der Bundesanstalt für Geowissenschaften und Rohstoffe und dem Umweltbundesamt zur Verfügung zu stellen.
 
 # § 39 – Zuständige Behörden
 
-(1) Die für den Vollzug dieses Gesetzes zuständige Behörde richtet sich nach Landesrecht, soweit in diesem Gesetz nichts anderes bestimmt ist.
+(1) Die für den Vollzug dieses Gesetzes zuständige Behörde richtet sich nach Landesrecht, soweit in diesem Gesetz nichts anderes bestimmt ist. Dies gilt auch für Tätigkeiten und Vorhaben im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels. § 137 Absatz 1 Satz 2 des Bundesberggesetzes gilt für den Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels entsprechend.
 
-(2) Vor Entscheidungen im Sinne der §§ 7, 13, 17 und 37 hat die zuständige Behörde der Bundesanstalt für Geowissenschaften und Rohstoffe und dem Umweltbundesamt Gelegenheit zur Stellungnahme zu geben und die Empfehlungen dieser Stellungnahmen zu berücksichtigen. Soweit die nach Absatz 1 für die Entscheidung zuständige Behörde von den Empfehlungen abweicht, sind diese Abweichungen in der Entscheidung zu begründen. Die Sätze 1 und 2 gelten nicht, soweit ausschließlich über einen Antrag auf Untersuchung des Untergrundes auf seine Eignung zur Errichtung von Forschungsspeichern nach § 7 entschieden wird.
+(2) Vor Entscheidungen nach den §§ 7, 13, 17 und 37 hat die zuständige Behörde der Bundesanstalt für Geowissenschaften und Rohstoffe, dem Bundesamt für Naturschutz, dem Umweltbundesamt, dem Bundesamt für Seeschifffahrt und Hydrographie sowie der Generaldirektion Wasserstraßen und Schifffahrt Gelegenheit zur Stellungnahme zu geben und die Empfehlungen dieser Stellungnahmen zu berücksichtigen. Sofern für die in Satz 1 genannten Entscheidungen die Herstellung eines Einvernehmens mit einer Behörde vorausgesetzt wird, wird dieses durch die Stellungnahme nach Satz 1 nicht ersetzt. Soweit die nach Absatz 1 für die Entscheidung zuständige Behörde von den Empfehlungen nach Satz 1 abweicht, sind diese Abweichungen in der Entscheidung zu begründen. Die in Satz 1 genannten Behörden, denen die zuständige Behörde Gelegenheit zur Stellungnahme zu geben hat, haben ihre Stellungnahme innerhalb einer Frist von zwei Monaten abzugeben. Die zuständige Behörde verlängert die Frist für die Stellungnahme einmalig um einen Monat, wenn eine betroffene Behörde glaubhaft darlegt, dass dies auf Grund der Schwierigkeit der Prüfung oder auf Grund sonstiger besonderer Umstände des Falls erforderlich ist. Stellungnahmen, die nach Ablauf der Frist nach Satz 4 oder der verlängerten Frist nach Satz 5 eingehen, sind zu berücksichtigen, wenn der zuständigen Behörde die vorgebrachten Belange bekannt sind oder hätten bekannt sein müssen oder für die Rechtmäßigkeit der Entscheidung von Bedeutung sind; im Übrigen können sie berücksichtigt werden. Die Sätze 1 und 2 gelten nicht, soweit ausschließlich über einen Antrag auf Untersuchung des Untergrundes auf seine Eignung zur Errichtung von Forschungsspeichern nach § 7 entschieden wird. Soweit die Speicherung auf Grundlage des § 2 Absatz 5 zugelassen wurde oder über die Genehmigung, die Errichtung oder den Betrieb von Forschungsspeichern zu entscheiden ist, bleibt bei Entscheidungen nach den §§ 7, 13 und 37 für Kohlendioxidspeicher § 21 des Standortauswahlgesetzes vom 5. Mai 2017 (BGBl. I S. 1074), das zuletzt durch Artikel 8 des Gesetzes vom 22. März 2023 (BGBl. I Nr. 88) geändert worden ist, unberührt, wobei das Bundesamt für die Sicherheit der nuklearen Entsorgung innerhalb einer Frist von drei Monaten eine Erklärung über das Einvernehmen nach § 21 Absatz 2 Satz 3 des Standortauswahlgesetzes abzugeben hat. Die zuständige Behörde verlängert die Frist für die Erklärung über das Einvernehmen einmalig um einen Monat, wenn das Bundesamt für die Sicherheit der nuklearen Entsorgung glaubhaft darlegt, dass dies auf Grund der Schwierigkeit der Prüfung oder auf Grund sonstiger besonderer Umstände des Falls erforderlich ist. Wird innerhalb der Frist keine Erklärung über das Einvernehmen abgegeben, gilt das Einvernehmen als erteilt.
 
-(3) Vor Entscheidungen über den Zugang zu Kohlendioxidspeichern nach § 34 Absatz 1 bis 3 hat die Bundesnetzagentur die zuständige Behörde nach Absatz 1 entsprechend Absatz 2 zu beteiligen. Besteht ein besonderer Bedarf, kann die zuständige Behörde nach Absatz 1 Stellungnahmen der Bundesanstalt für Geowissenschaften und Rohstoffe sowie des Umweltbundesamts einholen.
+(3) Vor Entscheidungen über den Zugang zu Kohlendioxidspeichern nach § 34 Absatz 1 bis 3 hat die Bundesnetzagentur die zuständige Behörde nach Absatz 1 entsprechend Absatz 2 zu beteiligen. Besteht ein besonderer Bedarf, kann die zuständige Behörde nach Absatz 1 Stellungnahmen der Bundesanstalt für Geowissenschaften und Rohstoffe sowie des Umweltbundesamts einholen. Absatz 2 Satz 4 bis 6 ist entsprechend anzuwenden.
+
+# § 39a – Zuständigkeit des Oberverwaltungsgerichts
+
+(1) Das Oberverwaltungsgericht entscheidet im ersten Rechtszug über sämtliche Streitigkeiten über
+
+1. Vorhaben für die Errichtung, den Betrieb oder die Änderung von Kohlendioxidleitungen nach § 4,
+
+2. Vorhaben zur Untersuchung des Untergrundes auf seine Eignung zur Errichtung von Kohlendioxidspeichern nach § 7,
+
+3. Vorhaben für die Errichtung, den Betrieb oder die wesentliche Änderung eines Kohlendioxidspeichers nach § 11 und
+
+4. Vorhaben für die Errichtung, den Betrieb oder die wesentliche Änderung eines Forschungsspeichers nach § 37.
+
+Satz 1 findet auch Anwendung auf Streitigkeiten über Zulassungen des vorzeitigen Baubeginns, die sich auf die in Satz 1 genannten Anlagen und auf für deren Betrieb notwendige Anlagen oder Leitungen beziehen.
+
+(2) Für Streitigkeiten nach Absatz 1, die Tätigkeiten oder Vorhaben im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels zum Gegenstand haben, ist das Gericht örtlich zuständig, in dessen Bezirk die zuständige Behörde ihren Sitz hat.
 
 # § 40 – Wissensaustausch; Verordnungsermächtigung
 
-(1) Betreiber von Anlagen zur Abscheidung von Kohlendioxid und von Kohlendioxidleitungen, die jeweils bis zum 31. Dezember 2017 zugelassen worden sind, sowie von Kohlendioxidspeichern führen mit anderen Betreibern solcher Anlagen, den zuständigen Behörden, der Bundesanstalt für Geowissenschaften und Rohstoffe, dem Umweltbundesamt sowie den wissenschaftlichen Einrichtungen, die mit der Erforschung, Entwicklung und Erprobung der Technologien zur Abscheidung, zum Transport und zur dauerhaften Speicherung von Kohlendioxid befasst sind, einen Wissensaustausch durch. Dazu werden jährlich die jeweils erlangten Erkenntnisse
+(1) Betreiber von Anlagen zur Abscheidung von Kohlendioxid und von Kohlendioxidleitungen sowie von Kohlendioxidspeichern führen mit anderen Betreibern solcher Anlagen, den zuständigen Behörden, der Bundesanstalt für Geowissenschaften und Rohstoffe, dem Umweltbundesamt, dem Bundesamt für Naturschutz sowie den wissenschaftlichen Einrichtungen, die mit der Erforschung, Entwicklung und Erprobung der Technologien zur Abscheidung, zum Transport und zur dauerhaften Speicherung von Kohlendioxid befasst sind, einen Wissensaustausch durch. Dazu werden insbesondere die jeweils erlangten Erkenntnisse
 
 1. der Eigenüberwachung nach § 22,
 
 2. über die Verringerung der Kohlendioxidemissionen in den Energieerzeugungs- und Industrieprozessen je Einheit Energie in Bezug auf Abtrennung, Transport und Speicherung insgesamt,
 
-3. über die jeweiligen Speicherpotenziale und
+3. über erzielte Negativemissionen in Bezug auf Abtrennung, Transport und Speicherung,
 
-4. über geplante Forschungs-, Entwicklungs- und Erprobungsvorhaben
+4. über die jeweiligen Speicherpotenziale und
+
+5. über geplante Forschungs-, Entwicklungs- und Erprobungsvorhaben
 
 den in Satz 1 genannten Personen und Einrichtungen zur Verfügung gestellt.
 
-(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Inhalte des Wissensaustausches und die Daten, die für den Zweck des Wissensaustausches sowie für die Erstellung des Evaluierungsberichtes nach § 44 erforderlich sind, zu bestimmen sowie das Verfahren für den Wissensaustausch zu regeln. Hierbei ist die mögliche Betroffenheit von Betriebs- und Geschäftsgeheimnissen zu berücksichtigen.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Inhalte des Wissensaustausches und die Daten, die für den Zweck des Wissensaustausches sowie für die Erstellung des Evaluierungsberichtes nach § 44 erforderlich sind, zu bestimmen sowie das Verfahren für den Wissensaustausch zu regeln. Hierbei ist die mögliche Betroffenheit von Betriebs- und Geschäftsgeheimnissen zu berücksichtigen.
 
 (3) Die zuständige Behörde prüft die zur Verfügung gestellten Daten auf Inhalt und Umfang und stellt sie für den Wissensaustausch sowie für die Erstellung des Evaluierungsberichtes nach § 44 zur Verfügung. Sie kann bestimmen, welche wissenschaftlichen Einrichtungen in den Wissensaustausch einzubeziehen sind, und anordnen, dass die nach Absatz 1 erforderlichen Daten zur Verfügung gestellt werden.
 
@@ -759,7 +903,7 @@ den in Satz 1 genannten Personen und Einrichtungen zur Verfügung gestellt.
 
 (1) Für Amtshandlungen nach diesem Gesetz können Gebühren und Auslagen nach Maßgabe des Landesrechts erhoben werden. Die nach § 39 Absatz 1 zuständigen Behörden haben die durch Rechtsverordnung nach Absatz 2 zu bestimmende Quote der Gebühren, die für Amtshandlungen nach den §§ 7, 13 und 17 eingenommen werden, an die Bundeskasse abzuführen.
 
-(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates die nach Absatz 1 Satz 2 an den Bund abzuführende Quote der Gebühreneinnahmen der Länder festzulegen.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit und dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates die nach Absatz 1 Satz 2 an den Bund abzuführende Quote der Gebühreneinnahmen der Länder festzulegen.
 
 # § 42 – Landesrechtliche Speicherabgaben
 
@@ -769,11 +913,11 @@ Die Entscheidung über die Einführung landesrechtlicher Abgaben im Zusammenhang
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. ohne festgestellten oder genehmigten Plan nach § 4 Absatz 1 oder 2 eine Kohlendioxidleitung errichtet, betreibt oder wesentlich ändert,
+1. ohne festgestellten oder genehmigten Plan nach § 4 Absatz 1 Satz 1, auch in Verbindung mit Absatz 5 eine Kohlendioxidleitung errichtet, betreibt oder ändert,
 
 2. einer vollziehbaren Auflage nach
 
-a) § 4 Absatz 4 oder
+a) § 4a Absatz 4 oder
 
 b) § 9 Absatz 1 Satz 1 oder § 13 Absatz 3
 
@@ -821,6 +965,14 @@ b) § 28 Absatz 4 Satz 1, 3 oder 4
 
 zuwiderhandelt,
 
+16a. einer vollziehbaren Anordnung nach § 30 Absatz 2 Satz 1 oder 5, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 32 Absatz 1 Nummer 1, 2 oder 3, zuwiderhandelt,
+
+16b. entgegen § 30 Absatz 3 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach § 32 Absatz 1 Nummer 5, einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erbringt,
+
+16c. entgegen § 30 Absatz 4 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach § 32 Absatz 1 Nummer 5, einen Geldbetrag nicht oder nicht rechtzeitig ersetzt,
+
+16d. entgegen § 33 Absatz 5 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach Satz 3 Nummer 1, einen dort genannten Anschluss oder Zugang nicht verweigert,
+
 17. ohne Genehmigung nach § 37 Absatz 1 Satz 1
 
 a) einen Forschungsspeicher errichtet, betreibt oder wesentlich ändert oder
@@ -829,33 +981,41 @@ b) den Forschungszweck ändert oder
 
 18. einer Rechtsverordnung nach
 
-a) § 25 Absatz 1 Satz 1 Nummer 1 bis 3, 5, 6 oder 7 oder § 32 oder
+a) § 4c Nummer 3, 4, 5 Buchstabe c, Nummer 6 oder 7 oder § 33 Absatz 4,
 
-b) § 4 Absatz 6 Nummer 2, § 33 Absatz 4
+b) § 4c Nummer 5 Buchstabe a oder b, Nummer 8, 9 oder 10 oder
+
+c) § 25 Absatz 1 Satz 1 Nummer 1 bis 3, 5, 6 oder 7
 
 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(2) Die Bußgeldvorschriften des Absatzes 1 Nummer 2 Buchstabe b, Nummer 3, 6 bis 11, 13 bis 16 und 18 Buchstabe a gelten auch für Forschungsspeicher im Sinne des § 36.
+(2) Die Bußgeldvorschriften des Absatzes 1 Nummer 2 Buchstabe b, Nummer 3, 6 bis 11, 13 bis 16c und 18 Buchstabe c gelten auch für Forschungsspeicher im Sinne des § 36.
 
 (3) Die Ordnungswidrigkeit kann in den Fällen
 
-1. des Absatzes 1 Nummer 2 Buchstabe b, Nummer 3, 6, 7, 8 Buchstabe a, Nummer 9, 13, 14 Buchstabe a, Nummer 16 Buchstabe b und Nummer 18 Buchstabe a, jeweils auch in Verbindung mit Absatz 2, und
+1. des Absatzes 1 Nummer 2 Buchstabe b, Nummer 3, 6, 7, 8 Buchstabe a, Nummer 9, 13, 14 Buchstabe a, Nummer 16 Buchstabe b, Nummer 16a, 16c und 18 Buchstabe c, jeweils auch in Verbindung mit Absatz 2, und
 
-2. des Absatzes 1 Nummer 1, 2 Buchstabe a, Nummer 5, 12, 17 Buchstabe a und Nummer 18 Buchstabe b
+2. des Absatzes 1 Nummer 1, 2 Buchstabe a, Nummer 5, 12, 16d, 17 Buchstabe a und Nummer 18 Buchstabe a
 
 mit einer Geldbuße bis zu hunderttausend Euro geahndet werden. In den übrigen Fällen kann die Ordnungswidrigkeit mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
 # § 44 – Evaluierungsbericht
 
-(1) Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 31. Dezember 2018 und danach im Abstand von jeweils vier Jahren über die Anwendung dieses Gesetzes sowie über die international gewonnenen Erfahrungen. Der Bericht soll die Erfahrungen und Ergebnisse aus der Errichtung und dem Betrieb der Forschungs- und Demonstrationsvorhaben für die Abscheidung, den Transport und die dauerhafte Speicherung darstellen sowie den technischen Fortschritt, die neuesten wissenschaftlichen Erkenntnisse und den Bericht nach Artikel 38 Absatz 2 der Richtlinie 2009/31/EG berücksichtigen.
+(1) Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 31. Dezember 2027 und danach im Abstand von jeweils vier Jahren über die Anwendung dieses Gesetzes sowie über die international gewonnenen Erfahrungen. Der Bericht soll die Erfahrungen und Ergebnisse aus der Errichtung und dem Betrieb von Anlagen für die Abscheidung, den Transport und die dauerhafte Speicherung darstellen sowie den technischen Fortschritt, die neuesten wissenschaftlichen Erkenntnisse und den Bericht nach Artikel 38 Absatz 2 der Richtlinie 2009/31/EG berücksichtigen.
 
-(2) Der Bericht nach Absatz 1 soll insbesondere Folgendes untersuchen und bewerten:
+(2) Der Bericht nach Absatz 1 soll unter anderem auf der Grundlage verfügbarer Statistiken, wissenschaftlicher Studien und behördlicher Daten insbesondere Folgendes untersuchen und bewerten:
 
-1. den Beitrag, den die Abscheidung, der Transport und die dauerhafte Speicherung von Kohlendioxid für den Klimaschutz und eine möglichst sichere, effiziente und umweltverträgliche Energieversorgung und Industrieproduktion leisten kann,
+1. den Beitrag, den die Abscheidung, der Transport und die dauerhafte Speicherung von Kohlendioxid für den Klimaschutz und eine möglichst sichere, effiziente und umweltverträgliche Energieversorgung und Industrieproduktion leisten kann, unter Berücksichtigung der Menge des jährlich in den Kohlendioxidleitungsnetzen transportierten Kohlendioxids, seiner Nutzung und der im Berichtszeitraum aufgetretenen Leckage,
 
 2. die Auswirkungen der Technologien zur Abscheidung, zum Transport und zur dauerhaften Speicherung von Kohlendioxid auf die Umwelt,
 
 3. die wirtschaftlichen Auswirkungen der Technologien zur Abscheidung, zum Transport und zur dauerhaften Speicherung von Kohlendioxid,
+
+3a. die Zulänglichkeit der nach diesem Gesetz zur Verfügung stehenden Speicherkapazität, insbesondere unter Berücksichtigung der Menge des im Geltungsbereich dieses Gesetzes abgeschiedenen Kohlendioxids, des sich hieraus ergebenden Speicherbedarfs, der Möglichkeiten zur Deckung dieses Speicherbedarfs durch eine Speicherung in anderen Mitgliedstaaten der Europäischen Union oder Vertragsstaaten des Europäischen Wirtschaftsraums sowie der wirtschaftlichen Bedingungen für die Nutzung von Speichern,
+
+3b. die Entwicklung der Kohlendioxidleitungsnetze, insbesondere unter dem Gesichtspunkt, ob diese perspektivisch den Anschluss von Kohlendioxid-Emittenten vor allem im Bereich technisch schwer oder nicht vermeidbarer Prozessemissionen ermöglichen, die Kohlendioxid abscheiden und an weiter entfernten Speicherstandorten speichern möchten, unter Berücksichtigung des Risikos für küsten- oder clusterferne Emittenten, möglicherweise nicht an das Leitungsnetz angeschlossen werden zu können oder auf Grund weiter Transportwege mit hohen Netzentgelten belastet zu werden,
+
+3c. die unter geologischen und wirtschaftlichen Gesichtspunkten und unter Berücksichtigung der von den Ländern bis zum 31. März 2027 und danach im Abstand von jeweils vier Jahren zu übermittelnden Angaben über den Stand und die Planungen bezüglich der Nutzung der Möglichkeit, die Speicherung von Kohlendioxid auf ihrem Landesgebiet nach § 2 Absatz 5 Satz 1 bis 3 zuzulassen, bestehenden Potentiale für eine Speicherung an Land insbesondere unter Berücksichtigung des Risikos für küsten- oder clusterferne Emittenten, möglicherweise nicht an das Leitungsnetz zu Kohlendioxidspeichern im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels oder in anderen Mitgliedstaaten der Europäischen Union oder Vertragsstaaten des Europäischen Wirtschaftsraums angeschlossen werden zu können oder aufgrund weiter Transportwege mit hohen Netzentgelten belastet zu werden,
 
 4. die Möglichkeit und Notwendigkeit einheitlicher Standards,
 
@@ -863,7 +1023,7 @@ mit einer Geldbuße bis zu hunderttausend Euro geahndet werden. In den übrigen 
 
 6. Möglichkeiten und Chancen einer europäischen Zusammenarbeit bei dem Transport und der Speicherung von Kohlendioxid.
 
-(3) Sofern sich aus dem Bericht die Notwendigkeit gesetzgeberischer Maßnahmen ergibt, soll die Bundesregierung diese vorschlagen. Soll die Errichtung von Kohlendioxidspeichern nach Ablauf der in Absatz 1 genannten Frist zugelassen werden, wird die Bundesregierung dem Deutschen Bundestag auf Grundlage des Berichts und des in der Erprobung und Demonstration von Kohlendioxidspeichern nach § 2 Absatz 2 erreichten Standes der Technik einen Vorschlag zur Ausgestaltung des Vorsorgestandards unterbreiten.
+(3) Sofern sich aus dem Bericht die Notwendigkeit gesetzgeberischer Maßnahmen ergibt, soll die Bundesregierung diese vorschlagen.
 
 # § 45 – Übergangsvorschrift
 
@@ -871,17 +1031,15 @@ mit einer Geldbuße bis zu hunderttausend Euro geahndet werden. In den übrigen 
 
 (2) Untersuchungsergebnisse, die im Rahmen von Aufsuchungsarbeiten nach § 7 des Bundesberggesetzes erzielt wurden, können für die Untersuchungsgenehmigung nach § 7 dieses Gesetzes verwendet werden. Die zuständige Behörde soll von der Prüfung einzelner Voraussetzungen nach § 7 absehen, soweit deren Vorliegen bereits in einem Verfahren auf Erteilung einer Erlaubnis nach § 7 des Bundesberggesetzes und eines Betriebsplans nach § 51 Absatz 1 des Bundesberggesetzes zur Aufsuchung der in Absatz 1 genannten Bodenschätze nachgewiesen wurde und der Antragsteller dies innerhalb eines Jahres nach Inkrafttreten des Gesetzes beantragt.
 
-(3) Sofern eine Landesregierung die Absicht bekundet hat, einen Gesetzentwurf nach § 2 Absatz 5 einzubringen oder der Landesgesetzgeber mehrheitlich eine entsprechende Initiative ergreift, hat die zuständige Behörde die Entscheidung über Anträge nach den §§ 7 und 12 bis zum Inkrafttreten des Gesetzes nach § 2 Absatz 5, aber nicht länger als drei Jahre nach der Antragstellung, zurückzustellen.
+(3) Die erforderlichen Angaben nach § 20 Absatz 1 Satz 2 ergeben sich aus den Bestimmungen der Entscheidung der Kommission 2007/589/EG vom 18. Juli 2007 zur Festlegung von Leitlinien für die Überwachung und Berichterstattung betreffend Treibhausgasemissionen im Sinne der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates (Monitoring-Leitlinien) (ABl. L 229 vom 31.8.2007, S. 1), die durch den Beschluss 2010/345/EU (ABl. L 155 vom 22.6.2010, S. 34) geändert worden ist. Ab dem Inkrafttreten der Verordnung der Kommission gemäß Artikel 14 Absatz 1 der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates (ABl. L 275 vom 25.10.2003, S. 32), die zuletzt durch die Richtlinie 2009/29/EG (ABl. L 140 vom 5.6.2009, S. 63) geändert worden ist, sind die Bestimmungen dieser Verordnung der Kommission an Stelle der Bestimmungen der Monitoring-Leitlinien maßgeblich.
 
-(4) Die erforderlichen Angaben nach § 20 Absatz 1 Satz 2 ergeben sich aus den Bestimmungen der Entscheidung der Kommission 2007/589/EG vom 18. Juli 2007 zur Festlegung von Leitlinien für die Überwachung und Berichterstattung betreffend Treibhausgasemissionen im Sinne der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates (Monitoring-Leitlinien) (ABl. L 229 vom 31.8.2007, S. 1), die durch den Beschluss 2010/345/EU (ABl. L 155 vom 22.6.2010, S. 34) geändert worden ist. Ab dem Inkrafttreten der Verordnung der Kommission gemäß Artikel 14 Absatz 1 der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates (ABl. L 275 vom 25.10.2003, S. 32), die zuletzt durch die Richtlinie 2009/29/EG (ABl. L 140 vom 5.6.2009, S. 63) geändert worden ist, sind die Bestimmungen dieser Verordnung der Kommission an Stelle der Bestimmungen der Monitoring-Leitlinien maßgeblich.
-
-(5) Kapitel 6 gilt nicht für Forschungsspeicher, die vor dem 24. August 2012 bereits nach anderen Rechtsvorschriften zugelassen worden sind.
+(4) Kapitel 6 gilt nicht für Forschungsspeicher, die vor dem 24. August 2012 bereits nach anderen Rechtsvorschriften zugelassen worden sind.
 
 # § 46 – Ausschluss abweichenden Landesrechts
 
-Soweit in § 4 Absatz 1 Satz 5 und § 11 Absatz 1 Satz 5 nichts anderes bestimmt ist, kann von den in diesem Gesetz und auf Grund dieses Gesetzes getroffenen Regelungen des Verwaltungsverfahrens durch Landesrecht nicht abgewichen werden.
+Soweit in § 4 Absatz 2 Satz 3 und § 11 Absatz 1a Satz 3 nichts anderes bestimmt ist, kann von den in diesem Gesetz und auf Grund dieses Gesetzes getroffenen Regelungen des Verwaltungsverfahrens durch Landesrecht nicht abgewichen werden.
 
-# Anlage 1 – (zu § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2 Nummer 1)Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
+# Anlage 1 – (zu § 5 Absatz 3 Satz 2, § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2 Nummer 1)Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
 
 (Fundstelle: BGBl. I 2012, 1746 - 1748)
 
@@ -1035,6 +1193,40 @@ Die Folgen werden abgeschätzt ausgehend von der Sensibilität bestimmter Arten,
 Risikocharakterisierung
 
 Die Risikocharakterisierung besteht aus einer Bewertung der kurz- und langfristigen Sicherheit des Kohlendioxidspeichers, einschließlich einer Bewertung des Leckagerisikos unter den vorgeschlagenen Nutzungsbedingungen, und der schlimmsten möglichen Umwelt- und Gesundheitsfolgen. Die Risikocharakterisierung stützt sich auf eine Bewertung der Gefahren und der Gefährdung und auf eine Folgenabschätzung. Sie umfasst eine Bewertung der Unsicherheitsquellen, die während der einzelnen Stufen der Charakterisierung und Bewertung des Kohlendioxidspeichers ermittelt wurden, sowie, im Rahmen des Möglichen, eine Darstellung der Möglichkeiten zur Verringerung der Unsicherheit.
+
+Bei der Erarbeitung der erforderlichen naturschutzfachlichen Grundlagen für die Bewertung nach § 5 geht das Bundesamt für Naturschutz insbesondere auf folgende Punkte ein:
+
+1. naturschutzfachliche Aspekte hinsichtlich
+
+a) einer räumlichen Analyse einschließlich Eignungsräume, Sensitivitätsräume, Tabuzonen und Puffer,
+
+b) möglicher Auswirkungen von seismischen Untersuchungen bei Erkundung, Errichtung, Betrieb und Überwachung,
+
+c) möglicher Schallminderungsmaßnahmen bei seismischen Untersuchungen bei Erkundung, Errichtung, Betrieb und Überwachung,
+
+d) möglicher Auswirkungen von Rammarbeiten bei der Errichtung von Infrastruktur, insbesondere von Plattformen, zur Injektion von Kohlendioxid und Überwachung,
+
+e) möglicher Schallminderungsmaßnahmen für Rammarbeiten bei der Errichtung von Infrastruktur, insbesondere von Plattformen, zur Injektion von Kohlendioxid und
+
+f) möglicher Auswirkungen und Minderungs- oder Vermeidungsmaßnahmen von (Unterwasser‑)Lärm und Vibrationen während des Betriebs, insbesondere Betriebsgeräuschen bei der Injektion von Kohlendioxid, einschließlich Transport;
+
+2. mögliche visuelle Scheuchwirkungen auf Seevögel durch Erkundung, Errichtung, Betrieb einschließlich Transport;
+
+3. mögliche Minderungsmaßnahmen von visuellen Scheuchwirkungen auf Seevögel durch Erkundung, Errichtung, Betrieb einschließlich Transport;
+
+4. mögliche Auswirkungen auf Biotope, insbesondere gesetzlich geschützte Biotope oder FFH-Lebensraumtypen, durch Flächeninanspruchnahme, Eintrag von Wärme und elektromagnetischen Feldern;
+
+5. mögliche Vermeidungs- und Minderungsmaßnahmen zum Schutz von Arten und Biotopen, insbesondere gesetzlich geschützten Biotopen oder FFH-Lebensräumen, durch
+
+a) bodenschonende Verfahren bei der Verlegung von Pipelines und Versorgungsleitungen für Strom und Daten,
+
+b) Minderung von Wärmeeintrag, insbesondere zur Einhaltung des 2K-Werts,
+
+c) Minderung von elektromagnetischen Feldern, insbesondere bei Versorgungsleitungen (Strom- und Datenkabel) zu Plattformen,
+
+d) Nulleinleitung bei Bohrungen, insbesondere im Hinblick auf Bohrkleinmanagement, PLONOR-Listen, ölbasierte Spülungen in geschlossenen Kreisläufen und Entsorgung des Bohrkleins an Land,
+
+e) Einsatz von Bohrloch-Kontrollverrichtungen („Blow-Out-Preventer“) zur Vermeidung von unkontrollierten Austritten an der Bohrung oder Injektionsstelle.
 
 # Anlage 2 – (zu § 17 Absatz 2 Satz 2 und § 20 Absatz 1 Satz 1 und Absatz 2 Satz 1)Kriterien für die Aufstellung und Aktualisierung des Überwachungskonzepts und für die Nachsorge
 

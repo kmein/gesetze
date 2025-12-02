@@ -19,9 +19,9 @@ Auf Grund des § 23 des Bodensonderungsgesetzes, der durch Artikel 186 der Veror
 
 (2) Bei Grundstücken nach § 1 Absatz 1, die nicht gemäß Absatz 1 bezeichnet sind, kann diese Bezeichnung von Amts wegen nachgeholt werden. Sie ist von Amts wegen nachzuholen, wenn in dem jeweiligen Grundbuch eine sonstige Eintragung vorgenommen werden soll.
 
-# § 3 – Inkrafttreten, Außerkrafttreten
+# § 3 – Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt mit Ablauf des 31. Dezember 2025 außer Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2035 außer Kraft.
 
 # Schlussformel
 

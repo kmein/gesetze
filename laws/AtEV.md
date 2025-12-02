@@ -18,7 +18,7 @@ b) den Anfall radioaktiver Abfälle seit dem letzten Stichtag und den Bestand zu
 (3) Die Absätze 1 und 2 gelten nicht für bestrahlte Brennelemente und solche radioaktiven Abfälle aus der Wiederaufarbeitung, die nach Anlage Teil D erfasst werden; § 9a Absatz 1a bis 1e des Atomgesetzes bleibt unberührt. Die Absätze 1 und 2 gelten ferner nicht für radioaktive Abfälle, die nach § 5 Absatz 4 an Landessammelstellen abzuliefern sind, sofern die radioaktiven Abfälle unbehandelt sind. Abweichend von Satz 2 gelten die Absätze 1 und 2 entsprechend für denjenigen, der radioaktive Abfälle im Sinne des Satzes 2 von Abfallverursachern übernimmt und hierdurch selbst ablieferungspflichtig wird.
 
 (+++ § 1 Abs. 3 Satz 2 und 3: Zur Anwendung vgl. § 2 Abs. 4 +++)  
-(+++ § 1 Abs. 3: Zur Anwendung vgl. § 3 Abs. 2 Satz 3, § 3 Abs. 3 Satz 2 und § 4 Abs. 5 +++)
+(+++ § 1 Abs. 3: Zur Anwendung vgl. § 3 Abs. 2 Satz 3, § 3 Abs. 3 Satz 2 u. § 4 Abs. 5 +++)
 
 # § 2 – Pflicht zur Erfassung
 

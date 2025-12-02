@@ -3494,6 +3494,7 @@ In der Rechtsverordnung ist an die Definition der Spareinlagen aus § 21 Abs. 4 
 
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
+(+++ §§ 11 bis 13c: Zur Nichtanwendung vgl. § 2 Abs. 7a +++)  
 (+++ §§ 11 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7 +++)  
 (+++ § 11: Zur Anwendung ab 1.1.1999 vgl. § 64e Abs. 3 Satz 4 +++)  
 (+++ § 11: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1 +++)
@@ -3510,6 +3511,7 @@ Die Aufsichtsbehörde bestimmt jährlich im Einvernehmen mit der Deutschen Bunde
 
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
+(+++ §§ 11 bis 13c: Zur Nichtanwendung vgl. § 2 Abs. 7a +++)  
 (+++ §§ 11 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7 +++)  
 (+++ § 12: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
 

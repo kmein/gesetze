@@ -572,9 +572,9 @@ gewerbsmäßig in den Verkehr bringt.
 
 (3) Soweit in dieser Verordnung auf die Lebensmittel-Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
-# § 32
+# § 32 – Außerkrafttreten
 
-(Inkrafttreten)
+Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
 # Anlage 1 – (zu § 7)Standardsorten
 

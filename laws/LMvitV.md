@@ -77,6 +77,10 @@ Vitaminisierte Lebensmittel dürfen mit einem Hinweis auf ihren Vitamingehalt nu
 
 (2) Lebensmittel, die den Vorschriften dieser Verordnung in der vom 30. Oktober 1999 an geltenden Fassung nicht entsprechen, dürfen noch bis zum 31. Dezember 2000 nach den bis zum 29. Oktober 1999 geltenden Vorschriften gekennzeichnet und auch nach dem 31. Dezember 2000 noch bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
+# § 4 – Außerkrafttreten
+
+Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
+
 # Schlußformel
 
 Der Reichsminister des Innern  

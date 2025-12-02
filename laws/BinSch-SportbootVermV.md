@@ -35,27 +35,39 @@ die Beförderung von Personen gegen Entgelt (Fahrgäste) unter Gestellung eines 
 
 (2) Soweit diese Verordnung auf bestimmte Rechtsverordnungen verweist, bedeuten
 
-1. Binnenschiffsuntersuchungsordnung:
+1\.
+
+Binnenschiffsuntersuchungsordnung:
 
 Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden und anzuwendenden Fassung,
 
-2. Binnenschifffahrt-Kennzeichnungsverordnung:
+2\.
+
+Binnenschifffahrt-Kennzeichnungsverordnung:
 
 Binnenschifffahrt-Kennzeichnungsverordnung vom 21. Februar 1995 (BGBl. I S. 226), die zuletzt durch Artikel 30 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
 
-3. See-Sportbootverordnung:
+3\.
+
+See-Sportbootverordnung:
 
 See-Sportbootverordnung vom 29. August 2002 (BGBl. I S. 3457), die zuletzt durch Artikel 34 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178) geändert worden ist, in der jeweils geltenden Fassung,
 
-4. ES-TRIN:
+4\.
+
+ES-TRIN:
 
 Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Ausgabe 2023/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Digitales und Verkehr vom 16. März 2023, BAnz AT 02.05.2023 B3). Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen,
 
-5. Binnenschifffahrtsstraßen-Ordnung:
+5\.
+
+Binnenschifffahrtsstraßen-Ordnung:
 
 Anlage zu § 1 Absatz 1 der Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2) in der jeweils geltenden und anzuwendenden Fassung.
 
 (3) Soweit diese Verordnung in den §§ 5, 6 und 8 auf DIN-, EN- oder ISO-Vorschriften verweist, sind diese beim Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt. Sie sind über den Beuth Verlag GmbH, 10772 Berlin, zu beziehen.
+
+§ 2 Abs. 2 Nr. 4 (bezeichnet als Nr. 6) Kursivdruck: IdF d. Art. 2 Nr. 1 Buchst. b V v. 14.10.2025 I Nr. 242 mWv 21.10.2025; aufgrund offensichtlicher Unrichtigkeit wurde der fehlerhaft bezeichnete Änderungsbefehl in Nr. 4 statt Nr. 6 umgesetzt
 
 # § 2a – Rechtsverordnung mit vorübergehender Geltungsdauer
 

@@ -1113,7 +1113,7 @@ Sind die geschuldeten Leistungen teilbar und hat der andere Teil die ihm obliege
 
 # § 111 – Veräußerung des Miet- oder Pachtobjekts
 
-Veräußert der Insolvenzverwalter einen unbeweglichen Gegenstand oder Räume, die der Schuldner vermietet oder verpachtet hatte, und tritt der Erwerber anstelle des Schuldners in das Miet- oder Pachtverhältnis ein, so kann der Erwerber das Miet- oder Pachtverhältnis unter Einhaltung der gesetzlichen Frist kündigen. Die Kündigung kann nur für den ersten Termin erfolgen, für den sie zulässig ist. § 111: Früherer Satz 3 aufgeh. durch Art. 13 G v. 22.12.2006 I 3416 mWv 31.12.2006
+Veräußert der Insolvenzverwalter einen unbeweglichen Gegenstand oder Räume, die der Schuldner vermietet oder verpachtet hatte, und tritt der Erwerber anstelle des Schuldners in das Miet- oder Pachtverhältnis ein, so kann der Erwerber das Miet- oder Pachtverhältnis unter Einhaltung der gesetzlichen Frist kündigen. Die Kündigung kann nur für den ersten Termin erfolgen, für den sie zulässig ist.
 
 # § 112 – Kündigungssperre
 

@@ -25,7 +25,7 @@ Die Strahlendosis im Sinne der Nummer 1 darf in mehreren Teildosen verabreicht w
 
 3. von Hartkäse bei der Lagerung,
 
-4. von Eiern im Sinne des Anhangs I Nr. 5.1. der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55; L 226 vom 25.6.2004, S. 22; L 46 vom 21.2.2008, S. 50; L 119 vom 13.5.2010, S. 26; L 160 vom 12.6.2013, S. 15; L 66 vom 11.3.2015, S. 22; L 13 vom 16.1.2019, S. 12), die zuletzt durch die Verordnung (EU) 2021/1756 (ABl. L 357 vom 8.10.2021, S. 27) geändert worden ist.
+4. von Eiern im Sinne des Anhangs I Nr. 5.1. der Verordnung (EG) Nr. 853/2004 in der Fassung vom 19. April 2024.
 
 Lebensmittelunternehmer, die eine Behandlung mit UV-C-Strahlen nach Satz 1 Nummer 4 durchführen, müssen dafür Sorge tragen, dass nur Eier ohne sichtbare Verschmutzung der Oberfläche einer solchen Behandlung unterzogen werden.
 
@@ -33,9 +33,9 @@ Lebensmittelunternehmer, die eine Behandlung mit UV-C-Strahlen nach Satz 1 Numme
 
 # § 2 – Lebensmittel aus Drittländern
 
-(1) Bestrahlte getrocknete aromatische Kräuter und Gewürze sowie Lebensmittel, die bestrahlte getrocknete aromatische Kräuter und Gewürze enthalten, aus einem Drittland dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn die Bestrahlung in einer von der Europäischen Union zugelassenen und im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten Bestrahlungsanlage durchgeführt worden ist.
+(1) Bestrahlte getrocknete aromatische Kräuter und Gewürze sowie Lebensmittel, die bestrahlte getrocknete aromatische Kräuter und Gewürze enthalten, aus einem Drittland dürfen nur in den Verkehr gebracht werden, wenn die Bestrahlung in einer von der Europäischen Union zugelassenen und im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten Bestrahlungsanlage durchgeführt worden ist.
 
-(2) Die Lebensmittel nach Absatz 1 dürfen ferner gewerbsmäßig nur in den Verkehr gebracht werden, wenn sie von Nachweisen begleitet werden, die Aufschluss geben über
+(2) Die Lebensmittel nach Absatz 1 dürfen ferner nur in den Verkehr gebracht werden, wenn sie von Nachweisen begleitet werden, die Aufschluss geben über
 
 1. Name und Anschrift der Anlage, in der diese Bestrahlung durchgeführt worden ist,
 
@@ -51,7 +51,7 @@ Lebensmittelunternehmer, die eine Behandlung mit UV-C-Strahlen nach Satz 1 Numme
 
 7. das während der Bestrahlung verwendete Verpackungsmaterial,
 
-8. Parameter für die Überwachung des Bestrahlungsvorganges nach Anhang III der Richtlinie 1999/2/EG des Europäischen Parlaments und des Rates vom 22. Februar 1999 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über mit ionisierenden Strahlen behandelte Lebensmittel und Lebensmittelbestandteile (ABl. EG Nr. L 66 S. 16), Angaben über die durchgeführten dosimetrischen Kontrollen und deren Ergebnisse, wobei insbesondere der untere und obere Grenzwert der absorbierten Dosis sowie die Art der ionisierenden Strahlen genau anzugeben sind,
+8. Parameter für die Überwachung des Bestrahlungsvorganges nach Anhang III der Richtlinie 1999/2/EG in der Fassung vom 7. November 2024, Angaben über die durchgeführten dosimetrischen Kontrollen und deren Ergebnisse, wobei insbesondere der untere und obere Grenzwert der absorbierten Dosis sowie die Art der ionisierenden Strahlen genau anzugeben sind,
 
 9. Hinweise auf die vor der Bestrahlung durchgeführten Validierungsmessungen.
 
@@ -65,7 +65,7 @@ Lebensmittelunternehmer, die eine Behandlung mit UV-C-Strahlen nach Satz 1 Numme
 
 1. bei loser Abgabe der Lebensmittel auf einem Anschlag oder einem Schild über oder neben dem Behältnis, in dem sich das betreffende Lebensmittel befindet,
 
-2. bei der Abgabe von Lebensmitteln in Umhüllungen oder als nicht vorverpackte Lebensmittel im Sinne von Artikel 2 Absatz 2 Buchstabe e letzter Halbsatz der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung: auf einem Schild über oder neben dem Lebensmittel oder auf der Umhüllung,
+2. bei der Abgabe von Lebensmitteln in Umhüllungen oder als nicht vorverpackte Lebensmittel im Sinne von Artikel 2 Absatz 2 Buchstabe e letzter Halbsatz der Verordnung (EU) Nr. 1169/2011: auf einem Schild über oder neben dem Lebensmittel oder auf der Umhüllung,
 
 3. bei der Abgabe von Lebensmitteln im Versandhandel auch in den Angebotslisten,
 
@@ -111,53 +111,33 @@ Der Betreiber jeder zugelassenen Bestrahlungsanlage hat für jede Quelle ionisie
 
 6. das während der Bestrahlung verwendete Verpackungsmaterial,
 
-7. Parameter für die Überwachung des Bestrahlungsvorganges nach Anhang III der Richtlinie 1999/2/EG des Europäischen Parlaments und des Rates vom 22. Februar 1999 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über mit ionisierenden Strahlen behandelte Lebensmittel und Lebensmittelbestandteile (ABl. EG Nr. L 66 S. 16), Angaben über die durchgeführten dosimetrischen Kontrollen und der Ergebnisse, wobei insbesondere der untere und obere Grenzwert der absorbierten Dosis sowie die Art der ionisierenden Strahlen genau anzugeben sind,
+7. Parameter für die Überwachung des Bestrahlungsvorganges nach Anhang III der Richtlinie 1999/2/EG in der Fassung vom 7. November 2024, Angaben über die durchgeführten dosimetrischen Kontrollen und der Ergebnisse, wobei insbesondere der untere und obere Grenzwert der absorbierten Dosis sowie die Art der ionisierenden Strahlen genau anzugeben sind,
 
 8. Hinweise auf die vor der Bestrahlung durchgeführten Validierungsmessungen.
 
 Die Aufzeichnungen nach Satz 1 sind von dem Betreiber der Bestrahlungsanlage fünf Jahre aufzubewahren; die Aufbewahrungsfrist beginnt mit dem Ablauf des Kalenderjahres, in dem die Bestrahlung durchgeführt worden ist.
 
-# § 6 – Analysenmethoden
-
-Die zum Nachweis einer Bestrahlung angewandten Methoden müssen hinsichtlich der im Anhang unter den Nummern 1 und 2 der Richtlinie 85/591/EWG des Rates vom 20. Dezember 1985 zur Einführung gemeinschaftlicher Probenahmeverfahren und Analysemethoden für die Kontrolle von Lebensmitteln (ABl. EG Nr. L 372 S. 50) aufgeführten erforderlichen Kriterien getestet sein.
-
-# § 7 – Mitteilungen, Berichte
+# § 6 – Mitteilungen, Berichte
 
 (1) Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft die nach § 4 für die Zulassung zuständigen Behörden mit.
 
 (2) Die zuständigen Behörden übermitteln dem Bundesministerium für Ernährung und Landwirtschaft eine Durchschrift jeder Zulassungsverfügung und jeder Änderung dieser Verfügung.
 
-(3) Die zuständigen Behörden berichten dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit jeweils zum 31. März eines Jahres für das vorhergehende Kalenderjahr über
-
-1. die Ergebnisse der Kontrollen, die in den zugelassenen Einrichtungen zur Bestrahlung durchgeführt werden, insbesondere in Bezug auf die Gruppen und Mengen der bestrahlten Lebensmittel und die verabreichten Dosen,
-
-2. die Ergebnisse der Kontrollen, die auf der Stufe des Inverkehrbringens von Lebensmitteln zum Nachweis der Bestrahlung durchgeführt werden, einschließlich der jeweils angewandten Analysemethode.
-
-# § 8 – Straftaten, Ordnungswidrigkeiten
+# § 7 – Straftaten, Ordnungswidrigkeiten
 
 (1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 1 Absatz 2 Satz 1 Nummer 1 oder 2 eine Bestrahlung durchführt.
 
 (2) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, ein dort genanntes Lebensmittel nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig kenntlich macht.
 
-(3) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Absatz 1 ein dort genanntes Lebensmittel in den Verkehr bringt.
+(3) (weggefallen)
 
 (4) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Absatz 1 Satz 1 eine Bestrahlungsanlage verwendet.
 
-(5) Nach § 60 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches handelt ordnungswidrig, wer eine in den Absätzen 1, 2, 3 oder 4 bezeichnete Handlung fahrlässig begeht.
-
-(6) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
+(5) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 2 Absatz 2 ein Lebensmittel in den Verkehr bringt oder
 
 2. entgegen § 5 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt oder nicht oder nicht mindestens fünf Jahre aufbewahrt.
-
-# § 9
-
-(Übergangsfrist)
-
-# § 10
-
-(Inkrafttreten, Außerkrafttreten)
 
 # Anlage – (zu § 1)
 

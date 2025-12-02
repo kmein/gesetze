@@ -458,15 +458,17 @@ c) Sonderbetriebsplänen und
 
 d) Abschlussbetriebsplänen
 
-sowie Grundabtretungsbeschlüsse, jeweils im Zusammenhang mit der aufgrund des Kohleverstromungsbeendigungsgesetzes vorgesehenen Einstellung von Braunkohletagebauen, und
+sowie Grundabtretungsbeschlüsse, jeweils im Zusammenhang mit der aufgrund des Kohleverstromungsbeendigungsgesetzes vorgesehenen Einstellung von Braunkohletagebauen,
 
-15. Planfeststellungsverfahren nach § 65 Absatz 1 in Verbindung mit Anlage 1 Nummer 19.7 des Gesetzes über die Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb oder die Änderung von Dampf- oder Warmwasserpipelines.
+15. Planfeststellungsverfahren nach § 65 Absatz 1 in Verbindung mit Anlage 1 Nummer 19.7 des Gesetzes über die Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb oder die Änderung von Dampf- oder Warmwasserpipelines und
+
+16. Planfeststellungs- oder Plangenehmigungsverfahren sowie Genehmigungsverfahren nach dem Kohlendioxid-Speicherung-und-Transport-Gesetz.
 
 Satz 1 gilt auch für Streitigkeiten über Genehmigungen, die anstelle einer Planfeststellung erteilt werden, sowie für Streitigkeiten über sämtliche für das Vorhaben erforderlichen Genehmigungen und Erlaubnisse, auch soweit sie Nebeneinrichtungen betreffen, die mit ihm in einem räumlichen und betrieblichen Zusammenhang stehen. Die Länder können durch Gesetz vorschreiben, daß über Streitigkeiten, die Besitzeinweisungen in den Fällen des Satzes 1 betreffen, das Oberverwaltungsgericht im ersten Rechtszug entscheidet.
 
 (2) Das Oberverwaltungsgericht entscheidet im ersten Rechtszug ferner über Klagen gegen die von einer obersten Landesbehörde nach § 3 Abs. 2 Nr. 1 des Vereinsgesetzes ausgesprochenen Vereinsverbote und nach § 8 Abs. 2 Satz 1 des Vereinsgesetzes erlassenen Verfügungen.
 
-(3) Abweichend von § 21e Absatz 4 des Gerichtsverfassungsgesetzes soll das Präsidium des Oberverwaltungsgerichts anordnen, dass ein Spruchkörper, der in einem Verfahren nach Absatz 1 Satz 1 Nummer 3 bis 15 tätig geworden ist, für dieses nach einer Änderung der Geschäftsverteilung zuständig bleibt.
+(3) Abweichend von § 21e Absatz 4 des Gerichtsverfassungsgesetzes soll das Präsidium des Oberverwaltungsgerichts anordnen, dass ein Spruchkörper, der in einem Verfahren nach Absatz 1 Satz 1 Nummer 3 bis 16 tätig geworden ist, für dieses nach einer Änderung der Geschäftsverteilung zuständig bleibt.
 
 § 48 Abs. 1 Satz 1 Nr. 1a: Eingef. durch Art. 2 G v. 10.7.2018 I 1122 iVm Bek. v. 11.7.2018 I 1124 mWv 4.7.2018; bzgl. dieses Gesetzes und dieser Bekanntmachung vgl. BVerfGE v. 29.9.2020 (1 BvR 1550/19)
 

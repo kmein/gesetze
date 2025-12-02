@@ -472,6 +472,7 @@
 - [BankkflAusbV](laws/BankkflAusbV.md) Verordnung über die Berufsausbildung zum Bankkaufmann und zur Bankkauffrau*
 - [BAPauschV](laws/BAPauschV.md) Verordnung über die Pauschalierung und Zahlung des Ausgleichsbetrags der Bundesagentur für Arbeit an die Träger der gesetzlichen Rentenversicherung für arbeitsmarktbedingte Renten wegen voller Erwerbsminderung
 - [BApO](laws/BApO.md) Bundes-Apothekerordnung
+- [BAPOErmÜV](laws/BAPOErmÜV.md) Verordnung zur Übertragung der Ermächtigung zum Erlass von Prüfungsordnungen durch die Zentrale der Bundesagentur für Arbeit
 - [BAPostG](laws/BAPostG.md) Gesetz über die Errichtung einer Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
 - [BAProITFPrV](laws/BAProITFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional in IT
 - [BAProVFFPrV](laws/BAProVFFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional in Versicherungen und Finanzanlagen
@@ -1168,8 +1169,6 @@
 - [BrauMäAusbV](laws/BrauMäAusbV.md) Verordnung über die Berufsausbildung zum Brauer und Mälzer und zur Brauerin und Mälzerin*
 - [BrauMMstrV](laws/BrauMMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Brauer- und Mälzer-Handwerk
 - [BrbMstrV](laws/BrbMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Brunnenbauer-Handwerk
-- [BRegAmtsWoVwVs](laws/BRegAmtsWoVwVs.md) Vorschriften über die Verwaltung und Bewirtschaftung der Amtswohnungen der Mitglieder der Bundesregierung (Anlage zu § 5 der Bestimmungen über Amtswohnungen, Umzugskostenentschädigung, Tagegelder und Entschädigung für Reisekosten der Mitglieder der Bundesregierung)
-- [BRegEntschBest](laws/BRegEntschBest.md) Bestimmungen über Amtswohnungen, Umzugskostenentschädigung, Tagegelder und Entschädigung für Reisekosten der Mitglieder der Bundesregierung
 - [BRegSitzBek](laws/BRegSitzBek.md) Bekanntmachung über die Sitzentscheidung der Bundesregierung
 - [BrennAusbV](laws/BrennAusbV.md) Verordnung über die Berufsausbildung zum Brenner/zur Brennerin
 - [BrennMstrPrV](laws/BrennMstrPrV.md) Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Brenner/Brennerin im landwirtschaftlichen Bereich
@@ -3327,7 +3326,7 @@
 - [KSEVtrG](laws/KSEVtrG.md) Gesetz zu dem Vertrag vom 19. November 1990 über konventionelle Streitkräfte in Europa
 - [KSG](laws/KSG.md) Bundes-Klimaschutzgesetz
 - [KSKSaV](laws/KSKSaV.md) Verordnung über den Beirat und die Ausschüsse bei der Künstlersozialkasse
-- [KSpG](laws/KSpG.md) Gesetz zur Demonstration der dauerhaften Speicherung von Kohlendioxid 1)
+- [KSpTG](laws/KSpTG.md) Gesetz zur dauerhaften Speicherung und zum Transport von Kohlendioxid 1)
 - [KStDV 1994](laws/KStDV_1994.md) Körperschaftsteuer-Durchführungsverordnung 1994
 - [KStG](laws/KStG.md) Körperschaftsteuergesetz
 - [KStoffIndMeistPrV 2014](laws/KStoffIndMeistPrV_2014.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk und Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk
@@ -3511,7 +3510,7 @@
 - [LuftVODV 133](laws/LuftVODV_133.md) Hundertdreiunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Warteverfahren)
 - [LuftVODV 134](laws/LuftVODV_134.md) Hundertvierunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Sonderlandeplatz Hamburg-Finkenwerder)
 - [LuftVODV 135 2025](laws/LuftVODV_135_2025.md) Hundertfünfunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Lübeck-Blankensee)
-- [LuftVODV 136](laws/LuftVODV_136.md) Hundertsechsunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Braunschweig-Wolfsburg)
+- [LuftVODV 136 2025](laws/LuftVODV_136_2025.md) Hundertsechsunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Braunschweig-Wolfsburg)
 - [LuftVODV 139](laws/LuftVODV_139.md) Hundertneununddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flugplatz Laage)
 - [LuftVODV 140](laws/LuftVODV_140.md) Hundertvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Heringsdorf)
 - [LuftVODV 141](laws/LuftVODV_141.md) Hunderteinundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Frankfurt-Hahn)
@@ -3562,7 +3561,7 @@
 - [LuftVODV 212](laws/LuftVODV_212.md) Zweihundertzwölfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Frankfurt am Main)
 - [LuftVODV 214](laws/LuftVODV_214.md) Zweihundertvierzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Niederrhein)
 - [LuftVODV 215](laws/LuftVODV_215.md) Zweihundertfünfzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Niederrhein)
-- [LuftVODV 217](laws/LuftVODV_217.md) Zweihundertsiebzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Hannover)
+- [LuftVODV 217 2025](laws/LuftVODV_217_2025.md) Zweihundertsiebzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Hannover)
 - [LuftVODV 218](laws/LuftVODV_218.md) Zweihundertachtzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Düsseldorf)
 - [LuftVODV 220](laws/LuftVODV_220.md) Zweihundertzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Zürich)
 - [LuftVODV 222](laws/LuftVODV_222.md) Zweihundertzweiundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Bremen)
@@ -4641,8 +4640,6 @@
 - [PrisenO](laws/PrisenO.md) Prisenordnung
 - [PrKG](laws/PrKG.md) Gesetz über das Verbot der Verwendung von Preisklauseln bei der Bestimmung von Geldschulden
 - [PrKultbBDOAnO](laws/PrKultbBDOAnO.md) Anordnung zur Durchführung der Bundesdisziplinarordnung für die Stiftung Preußischer Kulturbesitz
-- [PrKultbG](laws/PrKultbG.md) Gesetz zur Errichtung einer Stiftung "Preußischer Kulturbesitz" und zur Übertragung von Vermögenswerten des ehemaligen Landes Preußen auf die Stiftung
-- [PrKultbSaV](laws/PrKultbSaV.md) Verordnung über die Satzung der Stiftung "Preußischer Kulturbesitz"
 - [PrLagerhBeihV](laws/PrLagerhBeihV.md) Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung bestimmter Milcherzeugnisse
 - [ProdGewStatG](laws/ProdGewStatG.md) Gesetz über die Statistik im Produzierenden Gewerbe
 - [ProdHaftG](laws/ProdHaftG.md) Gesetz über die Haftung für fehlerhafte Produkte
@@ -4891,6 +4888,7 @@
 - [RVBeitrSBek 2023](laws/RVBeitrSBek_2023.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2023
 - [RVBeitrSBek 2024](laws/RVBeitrSBek_2024.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2024
 - [RVBeitrSBek 2025](laws/RVBeitrSBek_2025.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2025
+- [RVBeitrSBek 2026](laws/RVBeitrSBek_2026.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2026
 - [RVBund/KnErG](laws/RVBund_KnErG.md) Gesetz zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen Rentenversicherung Knappschaft-Bahn-See
 - [RVBundDiszRAnO](laws/RVBundDiszRAnO.md) Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Deutschen Rentenversicherung Bund
 - [RVChilAbkG](laws/RVChilAbkG.md) Gesetz zu dem Abkommen vom 5. März 1993 zwischen der Bundesrepublik Deutschland und der Republik Chile über Rentenversicherung
@@ -5459,6 +5457,7 @@
 - [StiftEinsatzMedBWErl 2025](laws/StiftEinsatzMedBWErl_2025.md) Erlass über die Stiftung der Einsatzmedaille der Bundeswehr
 - [StiftFinG](laws/StiftFinG.md) Gesetz zur Finanzierung politischer Stiftungen aus dem Bundeshaushalt
 - [StiftKStBegV](laws/StiftKStBegV.md) Verordnung über die Steuerbegünstigung von Stiftungen, die an die Stelle von Familienfideikommissen getreten sind
+- [StiftPKG](laws/StiftPKG.md) Gesetz über die Stiftung Preußischer Kulturbesitz
 - [StiftRG](laws/StiftRG.md) Stiftungsregistergesetz
 - [StIKoVetV](laws/StIKoVetV.md) Verordnung über die Ständige Impfkommission Veterinärmedizin
 - [StimmRMV](laws/StimmRMV.md) Verordnung zur Mitteilung der Stimmrechte aus Aktien und anderen Instrumenten nach dem Wertpapierhandelsgesetz
@@ -5540,6 +5539,7 @@
 - [StudAustKomRV](laws/StudAustKomRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Kommission für den Studenten- und Dozentenaustausch zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika
 - [StUG](laws/StUG.md) Gesetz über die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik
 - [StV/WasAusbV](laws/StV_WasAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik und zur Fachkraft für Wasserwirtschaft
+- [StVFernLV](laws/StVFernLV.md) Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für ferngelenkte Kraftfahrzeuge *
 - [StVG](laws/StVG.md) Straßenverkehrsgesetz
 - [StVGHBetrÄndV](laws/StVGHBetrÄndV.md) Gesetz zur Änderung der Haftungshöchstbeträge nach dem Straßenverkehrsgesetz
 - [StVO](laws/StVO.md) Straßenverkehrs-Ordnung

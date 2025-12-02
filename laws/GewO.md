@@ -269,7 +269,7 @@ In den Beschränkungen des Betriebs einzelner Gewerbe, welche auf den Zoll-, Ste
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Umsetzung der Richtlinie 2006/123/EG Vorschriften über Informationen, insbesondere deren Inhalt, Umfang und Art zu erlassen, die ein Dienstleistungserbringer den Dienstleistungsempfängern zur Verfügung zu stellen hat oder zur Verfügung stellt. Die Rechtsverordnung kann auch Regelungen enthalten über die Art und Weise, in der die Informationen zur Verfügung zu stellen sind.
 
-(+++ § 6c: Zur Anwendung vgl. § 6 Abs. 1a ++++)
+(+++ § 6c: Zur Anwendung vgl. § 6 Abs. 1a +++)
 
 # § 7 – Mitteilungspflicht bei Gewerben mit Zuverlässigkeitsüberprüfung
 

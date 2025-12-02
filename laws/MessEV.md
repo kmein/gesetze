@@ -585,137 +585,7 @@ Satz 1 ist nicht für nichtselbsttätige Waagen anzuwenden.
 
 (4) Intelligenten Messsystemen und modernen Messeinrichtungen im Sinne des Messstellenbetriebsgesetzes sind – sofern es sich um Messgeräte im Sinne des Mess- und Eichgesetzes und dieser Verordnung handelt – abweichend von Absatz 3 Beschreibungen zur Handhabung der Ableseeinrichtungen beizufügen. Die Beschreibungen müssen leicht verständlich abgefasst sein. Textliche Darstellungen müssen in deutscher Sprache abgefasst sein.
 
-# § 18 – Verfahrensgrundsätze, wesentliche Anforderungen
-
-(1) Die nachfolgend genannten Messgeräte dürfen in Verkehr gebracht und in Betrieb genommen werden, sofern für sie jeweils eine EG-Bauartzulassung und eine EG-Ersteichung vorliegen:
-
-1. Messgeräte zur Ermittlung der Schüttdichte von Getreide im Sinne der Richtlinie 71/347/EWG des Rates vom 12. Oktober 1971 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Messung der Schüttdichte von Getreide (ABl. L 239 vom 25.10.1971, S. 1), die durch Artikel 2 der Richtlinie 2011/17/EU vom 9. März 2011 (ABl. L 71 vom 18.3.2011, S. 1) mit Wirkung vom 1. Dezember 2015 aufgehoben wird (Kurzbezeichnung: EG-Schüttdichtemessgeräte),
-
-2. Kaltwasserzähler im Sinne der Richtlinie 75/33/EWG des Rates vom 17. Dezember 1974 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Kaltwasserzähler (ABl. L 14 vom 20.1.1975, S. 1), die durch Artikel 2 der Richtlinie 2011/17/EU vom 9. März 2011 (ABl. L 71 vom 18.3.2011, S. 1) mit Wirkung vom 1. Dezember 2015 aufgehoben wird, soweit diese nicht von § 8 Absatz 1 Nummer 1 erfasst sind (Kurzbezeichnung: EG-Kaltwasserzähler),
-
-3. Alkoholometer im Sinne der Richtlinie 76/765/EWG des Rates vom 27. Juli 1976 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Alkoholometer und Aräometer für Alkohol (ABl. L 262 vom 27.9.1976, S. 143), die durch Artikel 2 der Richtlinie 2011/17/EU vom 9. März 2011 (ABl. L 71 vom 18.3.2011, S. 1) mit Wirkung vom 1. Dezember 2015 aufgehoben wird (Kurzbezeichnung: EG-Alkoholometer),
-
-4. Aräometer für Alkohol im Sinne der Richtlinie 76/765/EWG (Kurzbezeichnung: EG-Aräometer für Alkohol),
-
-5. Reifendruckmessgeräte für Kraftfahrzeugreifen im Sinne der Richtlinie 86/217/EWG des Rates vom 26. Mai 1986 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Luftdruckmessgeräte für Kraftfahrzeugreifen (ABl. L 152 vom 6.6.1986, S. 48), die durch Artikel 2 der Richtlinie 2011/17/EU vom 9. März 2011 (ABl. L 71 vom 18.3.2011, S. 1) mit Wirkung vom 1. Dezember 2015 aufgehoben wird (Kurzbezeichnung: EG-Reifendruckmessgeräte für Kraftfahrzeugreifen),
-
-6. Gaszähler im Sinne der Richtlinie 71/318/EWG des Rates vom 26. Juli 1971 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Volumengaszähler (ABl. L 202 vom 6.9.1971, S. 21), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist (Kurzbezeichnung: EG-Gaszähler),
-
-7. Volumenzähler für strömende Flüssigkeiten außer Wasser im Sinne der Richtlinie 71/319/EWG des Rates vom 26. Juli 1971 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Zähler für Flüssigkeiten (außer Wasser) (ABl. L 202 vom 6.9.1971, S. 32), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist (Kurzbezeichnung: EG-Volumenzähler für Flüssigkeiten),
-
-8. Zusatzeinrichtungen zu Zählern für strömende Flüssigkeiten außer Wasser im Sinne der Richtlinie 71/348/EWG des Rates vom 12. Oktober 1971 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Zusatzeinrichtungen zu Zählern für Flüssigkeiten (außer Wasser) (ABl. L 239 vom 25.10.1971, S. 9), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist (Kurzbezeichnung: EG-Zusatzeinrichtung – Volumenzähler),
-
-9. verkörperte Längenmaße im Sinne der Richtlinie 73/362/EWG des Rates vom 19. November 1973 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über verkörperte Längenmaße (ABl. L 335 vom 5.12.1973, S. 56), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist (Kurzbezeichnung: EG-Längenmaße),
-
-10. Kaltwasserzähler im Sinne der Richtlinie 75/33/EWG des Rates vom 17. Dezember 1974 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Kaltwasserzähler (ABl. L 14 vom 20.1.1975, S. 1), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist, soweit diese von § 8 Absatz 1 Nummer 1 erfasst sind (Kurzbezeichnung: EG-Wasserzähler – Kaltwasser),
-
-11. selbsttätige Waagen zum kontinuierlichen Totalisieren im Sinne der Richtlinie 75/410/EWG des Rates vom 24. Juni 1975 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten für selbsttätige Waagen zum kontinuierlichen Wägen (Förderbandwaagen) (ABl. L 183 vom 14.7.1975, S. 25), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist (Kurzbezeichnung: EG-Förderbandwaagen),
-
-12. Elektrizitätszähler für den Wirkverbrauch im Sinne der Richtlinie 76/891/EWG des Rates vom 4. November 1976 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Elektrizitätszähler (ABl. L 336 vom 4.12.1976, S. 30), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist (Kurzbezeichnung: EG-Elektrizitätszähler),
-
-13. Fahrpreisanzeiger im Sinne der Richtlinie 77/95/EWG des Rates vom 21. Dezember 1976 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Taxameter (ABl. L 26 vom 31.1.1977, S. 59), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist (Kurzbezeichnung: EG-Fahrpreisanzeiger),
-
-14. Messanlagen für strömende Flüssigkeiten außer Wasser im Sinne der Richtlinie 77/313/EWG des Rates vom 5. April 1977 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Messanlagen für Flüssigkeiten (außer Wasser) (ABl. L 105 vom 28.4.1977, S. 18), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist, soweit dies nach Nummer 3.1 des Anhangs dieser Richtlinie gefordert ist (Kurzbezeichnung: EG-Volumenmessanlagen für Flüssigkeiten),
-
-15. selbsttätige Kontroll- und Sortierwaagen im Sinne der Richtlinie 78/1031/EWG des Rates vom 5. Dezember 1978 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über selbsttätige Kontrollwaagen und Sortierwaagen (ABl. L 364 vom 27.12.1978, S. 1), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist (Kurzbezeichnung: EG-Kontroll- und Sortierwaagen),
-
-16. Warmwasserzähler im Sinne der Richtlinie 79/830/EWG des Rates vom 11. September 1979 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Warmwasserzähler (ABl. L 259 vom 15.10.1979, S. 1), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist (Kurzbezeichnung: EG-Wasserzähler – Warmwasser).
-
-(2) Die nachfolgenden Messgeräte können in Verkehr gebracht, dürfen aber erst in Betrieb genommen werden, wenn eine EG-Ersteichung vorliegt:
-
-1. Blockgewichte der mittleren Fehlergrenzenklasse von 5 bis 50 Kilogramm im Sinne der Richtlinie 71/317/EWG des Rates vom 26. Juli 1971 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Blockgewichte der mittleren Fehlergrenzenklasse von 5 bis 50 Kilogramm und über zylindrische Gewichtsstücke der mittleren Fehlergrenzenklasse von 1 Gramm bis 10 Kilogramm (ABl. L 202 vom 6.9.1971, S. 14), die durch Artikel 3 der Richtlinie 2011/17/EU vom 9. März 2011 (ABl. L 71 vom 18.3.2011, S. 1) mit Wirkung vom 1. Dezember 2015 aufgehoben wird (Kurzbezeichnung: EG-Blockgewichte),
-
-2. zylindrische Gewichtstücke der mittleren Fehlergrenzenklasse von 1 Gramm bis 10 Kilogramm im Sinne der Richtlinie 71/317/EWG (Kurzbezeichnung: zylindrische EG-Gewichtstücke),
-
-3. Wägestücke von 1 Milligramm bis 50 Kilogramm von höheren Genauigkeitsklassen als der mittleren Genauigkeit im Sinne der Richtlinie 74/148/EWG des Rates vom 4. März 1974 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Wägestücke von 1 mg bis 50 kg von höheren Genauigkeitsklassen als der mittleren Genauigkeit (ABl. L 84 vom 28.3.1974, S. 3), die durch Artikel 3 der Richtlinie 2011/17/EU vom 9. März 2011 (ABl. L 71 vom 18.3.2011, S. 1) mit Wirkung vom 1. Dezember 2015 aufgehoben wird (Kurzbezeichnung: EG-Wägestücke),
-
-4. Messanlagen für strömende Flüssigkeiten außer Wasser im Sinne der Richtlinie 77/313/EWG des Rates vom 5. April 1977 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Messanlagen für Flüssigkeiten (außer Wasser) (ABl. L 105 vom 28.4.1977, S. 18), die durch Artikel 22 der Richtlinie 2004/22/EG vom 31. März 2004 (ABl. L 135 vom 30.4.2004, S. 1) mit Wirkung vom 30. Oktober 2006 aufgehoben ist, soweit sie nicht durch Nummer 3.1 des Anhangs dieser Richtlinie erfasst sind (Kurzbezeichnung: EG-Volumenmessanlagen für Flüssigkeiten).
-
-Die in Satz 1 genannten Messgeräte können vom Hersteller unter dessen Verantwortung mit dem Sonderzeichen nach Anhang I Nummer 3.3 der Richtlinie 2009/34/EG des Europäischen Parlaments und des Rates vom 23. April 2009 betreffend gemeinsame Vorschriften über Messgeräte sowie über Mess- und Prüfverfahren (ABl. L 106 vom 28.4.2009, S. 7) versehen werden.
-
-(3) Bei den in den Absätzen 1 und 2 genannten Messgeräten sind die Begriffsbestimmungen anzuwenden, auf die in Anlage 6 Tabelle 1 Spalte 2 jeweils verwiesen wird.
-
-(4) Für Messgeräte nach Absatz 1 Nummer 1 bis 5 können EG-Bauartzulassungen oder deren Verlängerungen bis einschließlich 30. November 2015 erteilt werden. Für die in Absatz 1 Nummer 6 bis 16 genannten Messgeräte können EG-Ersteichungen bis zum Ablauf der jeweiligen EG-Bauartzulassung, längstens bis einschließlich 30. Oktober 2016 erteilt werden. Für die in Absatz 2 Nummer 1 bis 3 genannten Messgeräte können EG-Ersteichungen bis einschließlich 30. November 2025 erteilt werden. Für die in Absatz 2 Nummer 4 genannten Messgeräte können EG-Ersteichungen bis einschließlich 30. Oktober 2016 erteilt werden. Im Übrigen können EG-Ersteichungen bis zum Ablauf der jeweiligen EG-Bauartzulassung, längstens bis einschließlich 30. November 2025 erteilt werden.
-
-(5) EG-Bauartzulassungen und EG-Ersteichungen dürfen nur erteilt werden, wenn die Messgeräte den wesentlichen Anforderungen genügen, auf die in der Anlage 6 Tabelle 1 Spalte 3 verwiesen wird. Auf EG-Ersteichungen ab dem 1. Dezember 2015 sind weiterhin die Vorschriften jener europäischen Richtlinien anzuwenden, auf die in Anlage 6 Tabelle 1 verwiesen wird, und zwar für Messgeräte nach Absatz 1 Nummer 1 bis 5 und Absatz 2 Nummer 1 bis 3 in deren am 30. November 2015 geltenden Fassung und für Messgeräte nach Absatz 1 Nummer 6 bis 16 und Absatz 2 Nummer 4 in deren am 30. Oktober 2006 geltenden Fassung.
-
-# § 19 – EG-Bauartzulassung
-
-(1) Die EG-Bauartzulassung ist bei der Physikalisch-Technischen Bundesanstalt zu beantragen. Der Antrag muss den Anforderungen des Anhangs I Nummer 1 der Richtlinie 2009/34/EG genügen. Die beigefügten Unterlagen müssen in deutscher Sprache abgefasst sein.
-
-(2) Der Antrag ist zurückzuweisen, wenn er für die bezeichnete Gerätebauart bereits in einem anderen Mitgliedstaat der Europäischen Union gestellt worden ist.
-
-(3) Für die von der Physikalisch-Technischen Bundesanstalt vorzunehmende EG-Bauartzulassungsprüfung, die auszustellenden Bescheinigungen, die vom Hersteller am Messgerät anzubringenden Kennzeichen und die Bekanntmachung der Zulassung sind die Regelungen des Anhangs I Nummer 2, 3, 5 und 6 der Richtlinie 2009/34/EG anzuwenden. Im Verfahren der EG-Bauartzulassung sind ferner einzuhalten die Bestimmungen
-
-1. der Nummer V des Anhangs der Richtlinie
-
-75/33/EWG für die unter diese Richtlinie fallenden EG-Kaltwasserzähler,
-
-2. bei der Nummer 5 des Anhangs der Richtlinie
-
-86/217/EWG für die unter diese Richtlinie fallenden EG-Reifendruckmessgeräte für Kraftfahrzeugreifen.
-
-(4) Die EG-Bauartzulassung darf mit Nebenbestimmungen verbunden werden. Sie ist auf zehn Jahre zu befristen; ihre Gültigkeit darf um bis zu zehn Jahre verlängert werden. Die Zahl der Messgeräte, die in Übereinstimmung mit der zugelassenen Bauart hergestellt werden dürfen, ist nicht beschränkt.
-
-(5) Bei Anwendung neuer Techniken darf die Physikalisch-Technische Bundesanstalt nach Anhörung der übrigen Mitgliedstaaten abweichend von Absatz 3 und 4 eine beschränkte EG-Bauartzulassung erteilen. Artikel 5 Absatz 2 und 3 der Richtlinie 2009/34/EG ist anzuwenden. Eine beschränkte EG-Bauartzulassung ist auf höchstens zwei Jahre zu befristen und darf um bis zu drei weitere Jahre verlängert werden. Für die Kennzeichnung der beschränkten EG-Bauartzulassung ist Anhang I Nummer 3.2 der Richtlinie 2009/34/EG anzuwenden.
-
-(6) Die Physikalisch-Technische Bundesanstalt übermittelt die Bescheinigung über die EG-Bauartzulassung dem Antragsteller.
-
-# § 20 – Rücknahme und Widerruf der EG-Bauartzulassung
-
-(1) Die EG-Bauartzulassung ist zurückzunehmen, wenn bekannt wird, dass bei ihrer Erteilung die Messrichtigkeit oder die Messbeständigkeit des Messgeräts nicht gewährleistet war.
-
-(2) Die EG-Bauartzulassung ist zu widerrufen, wenn nachträglich Tatsachen eintreten, welche die Messrichtigkeit oder Messbeständigkeit beeinträchtigen.
-
-(3) Die EG-Bauartzulassung kann widerrufen werden, wenn
-
-1. der Inhaber der EG-Bauartzulassung nach ihrer Erteilung im Zulassungsschein bezeichnete Merkmale des Messgeräts ändert oder inhaltliche Beschränkungen oder Bedingungen nicht beachtet oder Auflagen innerhalb einer ihm gesetzten Frist nicht erfüllt oder
-
-2. das Messgerät, für dessen Bauart eine EG-Bauartzulassung erteilt worden ist, dieser Zulassung nicht entspricht.
-
-# § 21 – EG-Ersteichung
-
-(1) Die EG-Ersteichung ist bei der nach Landesrecht zuständigen Behörde zu beantragen. EG-Ersteichungen können auch von staatlich anerkannten Prüfstellen im Rahmen ihrer Prüfbefugnisse durchgeführt werden.
-
-(2) Wird die EG-Ersteichung eines Messgeräts beantragt, für das eine erforderliche EG-Bauartzulassung von einer anderen Stelle als der Physikalisch-Technischen Bundesanstalt erteilt worden ist, ist der zuständigen Behörde vom Antragsteller die Vorlage einer Ausfertigung des Zulassungsscheins in deutscher Sprache vorzulegen.
-
-(3) Für die Durchführung der EG-Ersteichung, einschließlich der Kennzeichnung, sind die Regelungen des Artikels 9 und des Anhangs II Nummer 1, 2 und 3 der Richtlinie 2009/34/EG anzuwenden.
-
-(4) Im Verfahren der EG-Ersteichung sind ferner zu beachten die Bestimmungen
-
-1. der Nummer VI des Anhangs der Richtlinie
-
-75/33/EWG für die unter diese Richtlinie fallenden EG-Kaltwasserzähler,
-
-2. der Nummer 6 des Anhangs der Richtlinie
-
-86/217/EWG für die unter diese Richtlinie fallenden EG-Reifendruckmessgeräte für Kraftfahrzeugreifen,
-
-3. des Kapitels I, Buchstabe B Nummer 9.2, des Kapitels II Nummer 8 und des Kapitels III Nummer 7 des Anhangs der Richtlinie 71/318/EWG für die unter diese Richtlinie fallenden EG-Gaszähler,
-
-4. der Nummern 10.2 und 11 des Anhangs der Richtlinie 73/362/EWG für die unter diese Richtlinie fallenden EG-Längenmaße,
-
-5. der Nummer VI des Anhangs der Richtlinie
-
-75/33/EWG für die unter diese Richtlinie fallenden EG-Wasserzähler – Kaltwasser,
-
-6. der Nummer 11 des Kapitels IV des Anhangs der Richtlinie 75/410/EWG für die unter diese Richtlinie fallenden EG-Förderbandwaagen,
-
-7. Kapitel V des Anhangs der Richtlinie 76/891/EWG für die unter diese Richtlinie fallenden EG-Elektrizitätszähler,
-
-8. Nummer 7 des Anhangs der Richtlinie 77/95/EWG für die unter diese Richtlinie fallenden EG-Fahrpreisanzeiger,
-
-9. Nummer 3.2 des Anhangs der Richtlinie
-
-77/313/EWG für die unter diese Richtlinie fallenden EG-Volumenmessanlagen für Flüssigkeiten,
-
-10. Nummer 8 des Kapitels IV des Anhangs der Richtlinie 78/1031/EWG für die unter diese Richtlinie fallenden EG-Kontroll- und Sortierwaagen,
-
-11. Nummer VI des Anhangs der Richtlinie
-
-79/830/EWG für die unter diese Richtlinie fallenden EG-Wasserzähler – Warmwasser.
-
-Bei EG-Ersteichungen ab dem 1. Dezember 2015 ist der Wortlaut der in Satz 1 Nummer 1 und 2 genannten Vorschriften in der am 30. November 2015 geltenden Fassung anzuwenden, der in Satz 1 Nummer 3 bis 11 genannten Vorschriften in der am 30. Oktober 2006 geltenden Fassung.
+# §§ 18 bis 21 – (weggefallen)
 
 # § 22 – Verkehrsfehlergrenzen
 
@@ -3039,10 +2909,7 @@ Unterzeichnet für und im Namen von ……………….
 
 (Name, Funktion, Unterschrift)
 
-# Anlage 6 – (zu § 18 Absatz 3 und 5)Messgeräte für EG-Bauartzulassung und EG-Ersteichung
-
-(Fundstelle: BGBl. I 2014, 2062 - 2063;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+# Anlage 6 – (weggefallen)
 
 # Anlage 7 – (zu § 34 Absatz 1 Nummer 1)Besondere Eichfristen für einzelne Messgeräte*
 

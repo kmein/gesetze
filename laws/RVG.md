@@ -1797,7 +1797,7 @@ nach dem EnWG,
 </dd>
 <dt>g)</dt>
 <dd>
-nach dem KSpG,
+nach dem KSpTG,
 </dd>
 <dt>h)</dt>
 <dd>

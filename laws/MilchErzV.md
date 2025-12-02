@@ -197,9 +197,9 @@ d) den in unmittelbarem Zusammenhang mit der Verkehrsbezeichnung stehenden Hinwe
 
 (3) Soweit in dieser Verordnung auf die Lebensmittel-Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
-# § 8 – Inkrafttreten
+# § 8 – Außerkrafttreten
 
-Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
 # Anlage 1 – (zu § 1 Abs. 1)
 
@@ -896,8 +896,6 @@ a) Milchfetterzeugnis
 b) hergestellt aus Milch, Sahne durch Abtrennen von Buttermilch und/oder Butter durch Abtrennen von Wasser und Einstellen der fettfreien Trockenmasse, flüssig oder teilkristallisiert, auch unter Verwendung von Inertgas, auch durch Auftrennen in unterschiedliche Erweichungs- und Erstarrungsbereiche, Fettgehalt mehr als 90%
 
 # Anlage 1a – (weggefallen)
-
-\- Anlage 1a: Aufgeh. durch Art. 18 Nr. 6 V v. 8.8.2007 I 1816 mWv 15.8.2007
 
 # Anlage 2 – (zu § 5 Absatz 1)Vitamine
 

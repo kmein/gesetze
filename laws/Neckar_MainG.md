@@ -3,7 +3,7 @@
  
 # § 1
 
-Der Bund erhält das Recht zur Entziehung und Beschränkung des Eigentums und der Rechte an den Grundstücken, die benötigt werden zur Kanalisierung des Neckars von Mannheim bis Plochingen und des Mains von Aschaffenburg bis Bamberg sowie beim Ausbau der Donau von Passau bis Kelheim, zur Herstellung der planmäßigen Nebenanlagen, Kraftwerke, Schaltanlagen, verbindenden Hochspannungsleitungen und Umspannwerke, zur Entnahme der für diese Arbeiten erforderlichen Baustoffe sowie zur Ablagerung von Baustoffen und Abraum. 7601 § 1: IdF d. Art. 60 Nr. 1 G v. 19.9.2006 I 2146 mWv 1.10.2006
+Der Bund erhält das Recht zur Entziehung und Beschränkung des Eigentums und der Rechte an den Grundstücken, die benötigt werden zur Kanalisierung des Neckars von Mannheim bis Plochingen und des Mains von Aschaffenburg bis Bamberg sowie beim Ausbau der Donau von Passau bis Kelheim, zur Herstellung der planmäßigen Nebenanlagen, Kraftwerke, Schaltanlagen, verbindenden Hochspannungsleitungen und Umspannwerke, zur Entnahme der für diese Arbeiten erforderlichen Baustoffe sowie zur Ablagerung von Baustoffen und Abraum.
 
 # § 2
 

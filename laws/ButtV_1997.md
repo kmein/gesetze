@@ -259,6 +259,10 @@ Unbeschadet der Vorschriften der EG-Verordnung dürfen bei der Herstellung von D
 
 (4) Soweit in dieser Verordnung auf die Lebensmittel-Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden Fassung weiter anzuwenden. Die Absätze 2 und 3 bleiben unberührt.
 
+# § 19 – Außerkrafttreten
+
+Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
+
 # Anlage 1 – (zu § 7 Abs. 1 und 3, § 8 Abs. 2)  Bestimmungen für die Durchführung von Butterprüfungen
 
 Fundstelle des Originaltextes: BGBl. I 1997, 148 - 150;  

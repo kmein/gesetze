@@ -191,7 +191,7 @@ d) Biozid-Produkten im Sinn des Artikel 3 Absatz 1 Buchstabe a der Verordnung (E
 
 13. Bewirtschaftung von mineralischen Abfällen gemäß der Richtlinie 2006/21/EG des Europäischen Parlaments und des Rates vom 15. März 2006 über die Bewirtschaftung von Abfällen aus der mineralgewinnenden Industrie.
 
-14. Betrieb von Kohlendioxidspeichern nach § 3 Nummer 7 des Kohlendioxid-Speicherungsgesetzes.
+14. Betrieb von Kohlendioxidspeichern nach § 3 Nummer 7 des Kohlendioxid-Speicherung-und-Transport-Gesetzes.
 
 # Anlage 2 – (zu § 3 Absatz 3 Nummer 3)Internationale Abkommen
 

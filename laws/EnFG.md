@@ -233,7 +233,7 @@ Ist die Notwendigkeit oder die Höhe einzelner Positionen bei der Ermittlung des
 
 (3) Der Anspruch nach Absatz 1 Satz 1 wird vier Wochen nach Abgabe der Mitteilung nach Absatz 2 Satz 2, spätestens aber drei Monate nach Zugang der Kontoabrechnung nach Absatz 2 Satz 1, fällig. Die Bundesrepublik Deutschland kann auch vor dem Eintritt der Fälligkeit leisten. Sie kann in Ausnahmefällen mit befreiender Wirkung gegenüber allen Übertragungsnetzbetreibern an einen Übertragungsnetzbetreiber leisten. Der Anspruch nach Absatz 1 Satz 2 wird vier Wochen nach Abgabe der Mitteilung nach Absatz 2 Satz 2 fällig.
 
-(++++ § 6 Abs. 3 Satz 2 und 3: Zur Anwendung vgl. § 8 Satz 3 +++)
+(+++ § 6 Abs. 3 Satz 2 und 3: Zur Anwendung vgl. § 8 Satz 3 +++)
 
 # § 7 – Abschlagszahlungen
 

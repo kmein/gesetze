@@ -131,8 +131,6 @@ zusammen.
 
 (4) Die Bundesanstalt nimmt ihre Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 4a – Meinungsverschiedenheiten bei der laufenden Überwachung
 
 Meinungsverschiedenheiten von erheblicher Bedeutung zwischen der Bundesanstalt und der Deutschen Bundesbank im Rahmen der laufenden Überwachung nach dem Kreditwesengesetz und dem Zahlungsdiensteaufsichtsgesetz sollen einvernehmlich beigelegt werden. Kann ein Einvernehmen nicht hergestellt werden, entscheidet das Bundesministerium im Benehmen mit der Deutschen Bundesbank.
@@ -283,8 +281,6 @@ Die Deutsche Bundesbank kann mit einem Vertreter ohne Stimmrecht an den Sitzunge
 
 (8) Scheidet ein Mitglied aus, so ist unverzüglich an seine Stelle ein neues Mitglied zu berufen. Bis zur Ernennung eines neuen Mitglieds und bei einer vorübergehenden Verhinderung des Mitglieds übernimmt der ernannte Stellvertreter die Aufgaben. Die Absätze 1 bis 8 finden auf die stellvertretenden Mitglieder entsprechende Anwendung.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 8 – Fachbeirat
 
 (1) Bei der Bundesanstalt wird ein Fachbeirat gebildet. Er berät die Bundesanstalt bei der Erfüllung ihrer Aufgaben. Er kann auch Empfehlungen zur allgemeinen Weiterentwicklung der Aufsichtspraxis einbringen.
@@ -300,8 +296,6 @@ Die Deutsche Bundesbank kann mit einem Vertreter ohne Stimmrecht an den Sitzunge
 (2) Der Verbraucherbeirat besteht aus zwölf Mitgliedern. Die Mitglieder des Verbraucherbeirats werden durch die Bundesanstalt im Einvernehmen mit dem Bundesministerium und im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz bestellt. Im Verbraucherbeirat sollen die Wissenschaft, Verbraucher- und Anlegerschutzorganisationen, Mitarbeiter außergerichtlicher Streitschlichtungssysteme sowie das Bundesministerium der Justiz und für Verbraucherschutz angemessen vertreten sein.
 
 (3) Der Verbraucherbeirat wählt aus seinem Kreis einen Vorsitzenden. Der Verbraucherbeirat gibt sich eine Geschäftsordnung.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 9 – Rechtsstellung der Mitglieder des Direktoriums
 
@@ -351,7 +345,6 @@ Die Deutsche Bundesbank kann mit einem Vertreter ohne Stimmrecht an den Sitzunge
 
 (2) Die Bundesanstalt kann den Tarifbeschäftigten der Bundesanstalt mit Zustimmung des Bundesministeriums der Finanzen und des Bundesministerium des Innern außertariflich eine entsprechende Zulage gewähren.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)  
 (+++ § 10a Abs. 1: Zur Anwendung vgl. § 22 F. 2012-11-28 +++)
 
 # § 10b – Personalgewinnungs- und Personalbindungsprämie
@@ -1061,7 +1054,6 @@ Die Kosten, die der Bundesanstalt durch die Wahrnehmung der Aufgaben nach § 108
 
 (4) Bei erstmaliger Erhebung der Umlage sind auch die Kosten zu berücksichtigen, die zur Errichtung der Prüfstelle erforderlich waren, auch wenn sie bereits vor Anerkennung der Prüfstelle nach § 342b des Handelsgesetzbuchs entstanden sind.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)  
 (+++ § 17d Abs. 1: Zur Anwendung vgl. § 23 Abs. 6 +++)
 
 # § 18 – Übergangsbestimmungen
@@ -1104,8 +1096,6 @@ Die Kosten, die der Bundesanstalt durch die Wahrnehmung der Aufgaben nach § 108
 
 (7) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung nähere Bestimmungen zu den Einzelheiten der Rechtsnachfolge zu erlassen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 18b – Übernahme der Beschäftigten des Deutsche Prüfstelle für Rechnungslegung DPR e. V.
 
 (1) Die Bundesanstalt tritt zum 1. Januar 2022 und nach Maßgabe der folgenden Absätze in die Rechte und Pflichten aus den Arbeitsverhältnissen ein, die zu diesem Zeitpunkt zwischen dem Deutsche Prüfstelle für Rechnungslegung DPR e. V. und den übergehenden Beschäftigten bestehen und bereits zum 1. Mai 2021 bestanden haben.
@@ -1143,8 +1133,6 @@ Nicht als übergehende Beschäftigte im Sinne des Absatzes 1 sowie des Satzes 1 
 (6) § 613a Absatz 5 und 6 des Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden.
 
 (7) Die Bundesanstalt kann bis längstens 31. Dezember 2022 Büroräume in Berlin anmieten und einrichten.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 19 – Überleitung/Übernahme von Beschäftigten
 
